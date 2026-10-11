@@ -19,61 +19,61 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–210, title II, §§ 212(a)(2), 213(b), Jan. 2, 2025, 138 Stat. 2772, 2774, added items 3699C and 3699D.
+2025—Pub. L. 118–210, title II, §§ 212(a)(2), 213(b), Jan. 2, 2025, 138 Stat. 2772, 2774, added items 3699C and 3699D.
 
-Pub. L. 118–210, title II, § 210(a), (b), Jan. 2, 2025, 138 Stat. 2766, identically added item 3698A.
+Pub. L. 118–210, title II, § 210(a), (b), Jan. 2, 2025, 138 Stat. 2766, identically added item 3698A.
 
-2023—Pub. L. 117–333, §§ 2(b), 11(b), Jan. 5, 2023, 136 Stat. 6125, 6134, redesignated items for subchapter I and subchapter II as subchapter II and subchapter III, respectively, and added item for subchapter I and items 3601 to 3605 and 3672A.
+2023—Pub. L. 117–333, §§ 2(b), 11(b), Jan. 5, 2023, 136 Stat. 6125, 6134, redesignated items for subchapter I and subchapter II as subchapter II and subchapter III, respectively, and added item for subchapter I and items 3601 to 3605 and 3672A.
 
-2022—Pub. L. 117–328, div. U, title II, § 216(b), Dec. 29, 2022, 136 Stat. 5456, added item 3691A.
+2022—Pub. L. 117–328, div. U, title II, § 216(b), Dec. 29, 2022, 136 Stat. 5456, added item 3691A.
 
-2021—Pub. L. 116–315, title I, §§ 1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, added items 3673A, 3696, and 3699B and struck out former item 3696 “Limitation on certain advertising, sales, and enrollment practices”.
+2021—Pub. L. 116–315, title I, §§ 1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, added items 3673A, 3696, and 3699B and struck out former item 3696 “Limitation on certain advertising, sales, and enrollment practices”.
 
-2017—Pub. L. 115–48, title I, § 109(a)(2), title III, §§ 307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.
+2017—Pub. L. 115–48, title I, § 109(a)(2), title III, §§ 307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.
 
-2013—Pub. L. 112–249, § 1(a)(2), Jan. 10, 2013, 126 Stat. 2400, added item 3698.
+2013—Pub. L. 112–249, § 1(a)(2), Jan. 10, 2013, 126 Stat. 2400, added item 3698.
 
-2008—Pub. L. 110–389, title III, § 326(a)(2)(B), Oct. 10, 2008, 122 Stat. 4169, substituted “Approval activities: cooperation and coordination of activities” for “Cooperation” in item 3673.
+2008—Pub. L. 110–389, title III, § 326(a)(2)(B), Oct. 10, 2008, 122 Stat. 4169, substituted “Approval activities: cooperation and coordination of activities” for “Cooperation” in item 3673.
 
-Pub. L. 110–387, title IX, § 901(a)(3), Oct. 10, 2008, 122 Stat. 4142, substituted “Procedures relating to computer matching program” for “Procedures relating to computer matching programs” in item 3684A.
+Pub. L. 110–387, title IX, § 901(a)(3), Oct. 10, 2008, 122 Stat. 4142, substituted “Procedures relating to computer matching program” for “Procedures relating to computer matching programs” in item 3684A.
 
-2003—Pub. L. 108–183, title III, § 306(g), Dec. 16, 2003, 117 Stat. 2661, struck out subchapter III heading “EDUCATION LOANS” and items 3698 “Eligibility for loans; amount and conditions of loans; interest rate on loans” and 3699 “Revolving fund; insurance”.
+2003—Pub. L. 108–183, title III, § 306(g), Dec. 16, 2003, 117 Stat. 2661, struck out subchapter III heading “EDUCATION LOANS” and items 3698 “Eligibility for loans; amount and conditions of loans; interest rate on loans” and 3699 “Revolving fund; insurance”.
 
-2000—Pub. L. 106–419, title I, § 122(c)(2), Nov. 1, 2000, 114 Stat. 1837, added item 3689.
+2000—Pub. L. 106–419, title I, § 122(c)(2), Nov. 1, 2000, 114 Stat. 1837, added item 3689.
 
-1996—Pub. L. 104–275, title I, § 103(a)(1)(B), Oct. 9, 1996, 110 Stat. 3326, struck out item 3689 “Period of operation for approval”.
+1996—Pub. L. 104–275, title I, § 103(a)(1)(B), Oct. 9, 1996, 110 Stat. 3326, struck out item 3689 “Period of operation for approval”.
 
-1992—Pub. L. 102–568, title III, § 313(a)(8), Oct. 29, 1992, 106 Stat. 4333, added item 3680A.
+1992—Pub. L. 102–568, title III, § 313(a)(8), Oct. 29, 1992, 106 Stat. 4333, added item 3680A.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1770 to 1799 as 3670 to 3699, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1770 to 1799 as 3670 to 3699, respectively.
 
-Pub. L. 102–16, § 2(b)(4), Mar. 22, 1991, 105 Stat. 49, added item 1797A.
+Pub. L. 102–16, § 2(b)(4), Mar. 22, 1991, 105 Stat. 49, added item 1797A.
 
-1990—Pub. L. 101–366, title II, § 206(c), Aug. 15, 1990, 104 Stat. 442, added item 1784A.
+1990—Pub. L. 101–366, title II, § 206(c), Aug. 15, 1990, 104 Stat. 442, added item 1784A.
 
-1988—Pub. L. 100–689, title I, § 124(c)(3), Nov. 18, 1988, 102 Stat. 4175, substituted in heading for subchapter III “EDUCATION LOANS” for “EDUCATION LOANS TO ELIGIBLE VETERANS AND ELIGIBLE PERSONS”.
+1988—Pub. L. 100–689, title I, § 124(c)(3), Nov. 18, 1988, 102 Stat. 4175, substituted in heading for subchapter III “EDUCATION LOANS” for “EDUCATION LOANS TO ELIGIBLE VETERANS AND ELIGIBLE PERSONS”.
 
-Pub. L. 100–687, div. B, title XIII, § 1302(b), Nov. 18, 1988, 102 Stat. 4128, added item 1797.
+Pub. L. 100–687, div. B, title XIII, § 1302(b), Nov. 18, 1988, 102 Stat. 4128, added item 1797.
 
-Pub. L. 100–323, § 13(b)(1)(B), May 20, 1988, 102 Stat. 573, added item 1774A.
+Pub. L. 100–323, § 13(b)(1)(B), May 20, 1988, 102 Stat. 573, added item 1774A.
 
-1982—Pub. L. 97–295, § 4(48), Oct. 12, 1982, 96 Stat. 1308, substituted “Payment of educational assistance or subsistence allowances” for “Payment of educational or subsistence assistance allowances” in item 1780.
+1982—Pub. L. 97–295, § 4(48), Oct. 12, 1982, 96 Stat. 1308, substituted “Payment of educational assistance or subsistence allowances” for “Payment of educational or subsistence assistance allowances” in item 1780.
 
-1980—Pub. L. 96–466, title III, § 343(b)(2), Oct. 17, 1980, 94 Stat. 2199, substituted “Reports by veterans, eligible persons, and institutions” for “Reports by institutions” in item 1784.
+1980—Pub. L. 96–466, title III, § 343(b)(2), Oct. 17, 1980, 94 Stat. 2199, substituted “Reports by veterans, eligible persons, and institutions” for “Reports by institutions” in item 1784.
 
-1976—Pub. L. 94–502, title V, § 511(2), Oct. 15, 1976, 90 Stat. 2402, substituted “Compliance surveys” for “Institutions listed by Attorney General” in item 1793.
+1976—Pub. L. 94–502, title V, § 511(2), Oct. 15, 1976, 90 Stat. 2402, substituted “Compliance surveys” for “Institutions listed by Attorney General” in item 1793.
 
-1974—Pub. L. 93–508, title II, § 212(b), title III, § 301(b), Dec. 3, 1974, 88 Stat. 1586, 1591, added subchapter III heading and items 1796, 1798, and 1799.
+1974—Pub. L. 93–508, title II, § 212(b), title III, § 301(b), Dec. 3, 1974, 88 Stat. 1586, 1591, added subchapter III heading and items 1796, 1798, and 1799.
 
-1972—Pub. L. 92–540, title IV, § 406, Oct. 24, 1972, 86 Stat. 1091, redesignated items 1788 to 1791 as 1792 to 1795, added items 1780 and 1788 to 1791, and substituted in item 1786 “Correspondence courses” for “Examination of records” and in item 1787 “Apprenticeship or other on-job training” for “False or misleading statements”.
+1972—Pub. L. 92–540, title IV, § 406, Oct. 24, 1972, 86 Stat. 1091, redesignated items 1788 to 1791 as 1792 to 1795, added items 1780 and 1788 to 1791, and substituted in item 1786 “Correspondence courses” for “Examination of records” and in item 1787 “Apprenticeship or other on-job training” for “False or misleading statements”.
 
-1970—Pub. L. 91–219, title II, § 213(2), Mar. 26, 1970, 84 Stat. 84, substituted “Limitations on educational assistance” for “Nonduplication of benefits” as item 1781.
+1970—Pub. L. 91–219, title II, § 213(2), Mar. 26, 1970, 84 Stat. 84, substituted “Limitations on educational assistance” for “Nonduplication of benefits” as item 1781.
 
-1968—Pub. L. 90–631, § 1(d)(2), Oct. 23, 1968, 82 Stat. 1331, added item 1791.
+1968—Pub. L. 90–631, § 1(d)(2), Oct. 23, 1968, 82 Stat. 1331, added item 1791.
 
-1967—Pub. L. 90–77, title III, §§ 304(e), 308(b), Aug. 31, 1967, 81 Stat. 188, 189, added item 1777 and renumbered former items 1777 and 1778 as 1778 and 1779, respectively, and provided for the reporting fee in item 1784.
+1967—Pub. L. 90–77, title III, §§ 304(e), 308(b), Aug. 31, 1967, 81 Stat. 188, 189, added item 1777 and renumbered former items 1777 and 1778 as 1778 and 1779, respectively, and provided for the reporting fee in item 1784.
 
-1966—Pub. L. 89–358, § 3(a)(4), Mar. 3, 1966, 80 Stat. 20, substituted “CHAPTER 36—ADMINISTRATION OF EDUCATIONAL BENEFITS” heading, including Subchapter I and II analyses, preceding section 1770 of this title for “SUBCHAPTER VII—STATE APPROVING AGENCIES” heading preceding section 1771 of this title, Subchapter VII heading being redesignated Subchapter I.
+1966—Pub. L. 89–358, § 3(a)(4), Mar. 3, 1966, 80 Stat. 20, substituted “CHAPTER 36—ADMINISTRATION OF EDUCATIONAL BENEFITS” heading, including Subchapter I and II analyses, preceding section 1770 of this title for “SUBCHAPTER VII—STATE APPROVING AGENCIES” heading preceding section 1771 of this title, Subchapter VII heading being redesignated Subchapter I.
 
 ## SUBCHAPTER I—EMERGENCY SITUATIONS
 
@@ -81,9 +81,9 @@ Pub. L. 100–323, § 13(b)(1)(B), May 20, 1988, 102 Stat. 573, added item 177
 
 **Prior Provisions**
 
-A prior subchapter I of this chapter was redesignated as subchapter II of this chapter by Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122.
+A prior subchapter I of this chapter was redesignated as subchapter II of this chapter by Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122.
 
-### § 3601. Definition of emergency situation
+### § 3601. Definition of emergency situation
 
 In this chapter, the term “emergency situation” means a situation that—
 
@@ -91,9 +91,9 @@ In this chapter, the term “emergency situation” means a situation that—
 
 **(2)** the Secretary determines is an emergency for purposes of the laws administered by the Secretary.
 
-(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6122.)
+(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6122.)
 
-### § 3602. Continuation of educational assistance benefits during emergency situations
+### § 3602. Continuation of educational assistance benefits during emergency situations
 
 **(a) Authority.—**
 
@@ -117,9 +117,9 @@ In this chapter, the term “emergency situation” means a situation that—
 
 **(d) Effect on Entitlement Period.—** If the Secretary determines that an individual who received assistance under this section did not make progress toward the completion of the program of education in which the individual is enrolled during the period for which the individual received such assistance, any assistance provided pursuant to this section shall not be counted for purposes of determining the total amount of an individual’s entitlement to educational assistance, housing stipends, or payments or subsistence allowances under chapters 30, 31, 32, and 35 of this title and chapter 1606 of title 10.
 
-(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6122.)
+(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6122.)
 
-### § 3603. Continuation of educational assistance benefits for certain programs of education converted to distance learning by reason of emergency situations
+### § 3603. Continuation of educational assistance benefits for certain programs of education converted to distance learning by reason of emergency situations
 
 In the case of a program of education approved by a State approving agency, or the Secretary when acting in the role of a State approving agency, that is converted from being offered on-site at an educational institution or training establishment to being offered by distance learning by reason of an emergency or health-related situation, as determined by the Secretary, the Secretary may continue to provide educational assistance under the laws administered by the Secretary without regard to such conversion, including with respect to paying any—
 
@@ -127,9 +127,9 @@ In the case of a program of education approved by a State approving agency, or t
 
 **(2)** payments or subsistence allowances under chapters 30, 31, 32, and 35 of this title and chapter 1606 of title 10.
 
-(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6123.)
+(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6123.)
 
-### § 3604. Effects of closure of educational institution and modification of courses by reason of emergency situation
+### § 3604. Effects of closure of educational institution and modification of courses by reason of emergency situation
 
 **(a) Closure or Disapproval.—** Any payment of educational assistance described in subsection (b) shall not—
 
@@ -177,9 +177,9 @@ In the case of a program of education approved by a State approving agency, or t
 
 **(2)** the effect of such closure on the individual’s entitlement to educational assistance pursuant to this section.
 
-(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6123.)
+(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6123.)
 
-### § 3605. Payment of educational assistance in cases of withdrawal
+### § 3605. Payment of educational assistance in cases of withdrawal
 
 **(a) In General.—** In the case of any individual who withdraws from a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title for a covered reason during the period of an emergency situation, the Secretary shall find mitigating circumstances for purposes of section 3680(a)(1)(C)(ii) of this title.
 
@@ -199,7 +199,7 @@ In the case of a program of education approved by a State approving agency, or t
 
 **(7)** issues associated with changes in format or medium of instruction.
 
-(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6125.)
+(Added Pub. L. 117–333, § 2(a)(2), Jan. 5, 2023, 136 Stat. 6125.)
 
 ## SUBCHAPTER II—STATE APPROVING AGENCIES
 
@@ -207,19 +207,19 @@ In the case of a program of education approved by a State approving agency, or t
 
 **Prior Provisions**
 
-A prior subchapter II of this chapter was redesignated as subchapter III of this chapter by Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122.
+A prior subchapter II of this chapter was redesignated as subchapter III of this chapter by Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122.
 
 **Amendments**
 
-2023—Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122, redesignated subchapter I of this chapter as this subchapter.
+2023—Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122, redesignated subchapter I of this chapter as this subchapter.
 
-### § 3670. Scope of approval
+### § 3670. Scope of approval
 
 **(a)** A course approved under and for the purposes of this chapter shall be deemed approved for the purposes of chapters 34 and 35 of this title.
 
 **(b)** Any course approved under chapter 33 of this title, prior to February 1, 1965, under subchapter VII of chapter 35 of this title, prior to March 3, 1966, and not disapproved under section 3483, section 1656 (as in effect prior to February 1, 1965), or section 3679 of this title, shall be deemed approved for the purposes of this chapter.
 
-(Added Pub. L. 89–358, § 3(a)(5), Mar. 3, 1966, 80 Stat. 20, § 1770; amended Pub. L. 92–540, title IV, § 403(1), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 97–295, § 4(49), Oct. 12, 1982, 96 Stat. 1308; renumbered § 3670 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, § 3(a)(5), Mar. 3, 1966, 80 Stat. 20, § 1770; amended Pub. L. 92–540, title IV, § 403(1), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 97–295, § 4(49), Oct. 12, 1982, 96 Stat. 1308; renumbered § 3670 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -227,21 +227,21 @@ A prior subchapter II of this chapter was redesignated as subchapter III of this
 
 Chapter 33 of this title, prior to February 1, 1965, referred to in subsec. (b), means Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174 to 1192, which was classified to sections 1601, 1610 to 1613, 1620 to 1626, 1631 to 1634, 1641 to 1645, 1651 to 1656, and 1661 to 1669 of this title, and was repealed by section 4(a) of Pub. L. 89–358.
 
-Subchapter VII of chapter 35 of this title, prior to March 3, 1966, referred to in subsec. (b), means Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 158 to 162, which was classified to sections 1771 to 1778 of this title, and was redesignated as subchapter I of this chapter by section 3(a)(4) of Pub. L. 89–358.
+Subchapter VII of chapter 35 of this title, prior to March 3, 1966, referred to in subsec. (b), means Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 158 to 162, which was classified to sections 1771 to 1778 of this title, and was redesignated as subchapter I of this chapter by section 3(a)(4) of Pub. L. 89–358.
 
-Section 1656 of this title, as in effect prior to February 1, 1965, referred to in subsec. (b), is Pub. L. 85–857, § 1656, Sept. 2, 1958, 72 Stat. 1189, which was repealed by section 4(a) of Pub. L. 89–358, and is covered by section 3679 of this title.
+Section 1656 of this title, as in effect prior to February 1, 1965, referred to in subsec. (b), is Pub. L. 85–857, § 1656, Sept. 2, 1958, 72 Stat. 1189, which was repealed by section 4(a) of Pub. L. 89–358, and is covered by section 3679 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1770 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1770 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3483” for “1683” and “3679” for “1779”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3483” for “1683” and “3679” for “1779”.
 
 1982—Subsec. (b). Pub. L. 97–295 substituted “March 3, 1966” and “section 1779” for “the date of enactment of this chapter” and “section 1778”, respectively.
 
 1972—Subsec. (b). Pub. L. 92–540 substituted “1683” for “1686”.
 
-### § 3671. Designation
+### § 3671. Designation
 
 **(a)** Unless otherwise established by the law of the State concerned, the chief executive of each State is requested to create or designate a State department or agency as the “State approving agency” for such State for the purposes of this chapter and chapters 34 and 35 of this title.
 
@@ -253,7 +253,7 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3483” for “1683�
 
 **(c)** The Secretary may not recognize a State department or agency as the State approving agency for a State for purposes of this chapter if such department or agency is administered at, or colocated with, a university or university system that offers courses or programs of education that are subject to approval under this chapter by the State approving agency for that State.
 
-(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 158, § 1771; amended Pub. L. 89–358, § 3(a)(6), Mar. 3, 1966, 80 Stat. 20; Pub. L. 92–540, title IV, § 403(2), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, § 513(a)(1), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 100–323, § 13(b)(4), May 20, 1988, 102 Stat. 573; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3671 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, § 203(a)(2)(B), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 116–315, title I, § 1024(a), Jan. 5, 2021, 134 Stat. 4960; Pub. L. 117–16, § 4, June 8, 2021, 135 Stat. 283.)
+(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 158, § 1771; amended Pub. L. 89–358, § 3(a)(6), Mar. 3, 1966, 80 Stat. 20; Pub. L. 92–540, title IV, § 403(2), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, § 513(a)(1), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 100–323, § 13(b)(4), May 20, 1988, 102 Stat. 573; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3671 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, § 203(a)(2)(B), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 116–315, title I, § 1024(a), Jan. 5, 2021, 134 Stat. 4960; Pub. L. 117–16, § 4, June 8, 2021, 135 Stat. 283.)
 
 **Editorial Notes**
 
@@ -263,9 +263,9 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3483” for “1683�
 
 2011—Subsec. (b)(2). Pub. L. 111–377 substituted “Except as otherwise provided in this chapter, in the case” for “In the case”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1771 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1771 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3674(a)” for “1774(a)” in par. (1) and “3672” for “1772” in par. (2).
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3674(a)” for “1774(a)” in par. (1) and “3672” for “1772” in par. (2).
 
 1989—Subsec. (b). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -281,7 +281,7 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3674(a)” for “17
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–315, title I, § 1024(b), Jan. 5, 2021, 134 Stat. 4960, as amended by Pub. L. 117–16, § 4, June 8, 2021, 135 Stat. 283, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title I, § 1024(b), Jan. 5, 2021, 134 Stat. 4960, as amended by Pub. L. 117–16, § 4, June 8, 2021, 135 Stat. 283, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 5, 2021].”
 
 **Effective Date of 2011 Amendment**
 
@@ -291,7 +291,7 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-### § 3672. Approval of courses
+### § 3672. Approval of courses
 
 **(a)** An eligible person or veteran shall receive the benefits of this chapter and chapters 34 and 35 of this title while enrolled in a course of education offered by an educational institution only if (1) such course is approved as provided in this chapter and chapters 34 and 35 of this title by the State approving agency for the State where such educational institution is located, or by the Secretary, or (2) such course is approved (A) for the enrollment of the particular individual under the provisions of section 3536 of this title or (B) for special restorative training under subchapter V of chapter 35 of this title. Approval of courses by State approving agencies shall be in accordance with the provisions of this chapter and chapters 34 and 35 of this title and such other regulations and policies as the State approving agency may adopt. Each State approving agency shall furnish the Secretary with a current list of educational institutions specifying courses which it has approved, and, in addition to such list, it shall furnish such other information to the Secretary as it and the Secretary may determine to be necessary to carry out the purposes of this chapter and chapters 34 and 35 of this title. Each State approving agency shall notify the Secretary of the disapproval of any course previously approved and shall set forth the reasons for such disapproval.
 
@@ -303,7 +303,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(A)** Subject to sections 3675 paragraphs (1), (2), and (6) of section 3675(b), 3680A, 3684, and 3696 of this title,1
 
-<sup>1</sup>  So in original. Probably should read “Subject to paragraphs (1), (2), and (6) of section 3675(b) and sections 3680A, 3684, and 3696 of this title,”.
+<sup>1</sup> So in original. Probably should read “Subject to paragraphs (1), (2), and (6) of section 3675(b) and sections 3680A, 3684, and 3696 of this title,”.
 
 a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:
 
@@ -359,27 +359,27 @@ a program of education is deemed to be approved for purposes of this chapter if 
 
 **(e)** A program of education exclusively by correspondence, and the correspondence portion of a combination correspondence-residence course leading to a vocational objective, that is offered by an educational institution (as defined in section 3452(c) of this title) may be approved only if (1) the educational institution is accredited by an entity recognized by the Secretary of Education, and (2) at least 50 percent of those pursuing such a program or course require six months or more to complete the program or course.
 
-(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 158, § 1772; amended Pub. L. 89–358, § 3(a)(7), (8), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 91–219, title II, § 211, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, § 403(3)–(5), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 96–466, title V, § 502, Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–295, § 4(50), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3672 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 605(a)(1), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 107–103, title III, § 303, Dec. 27, 2001, 115 Stat. 992; Pub. L. 108–454, title I, §§ 104(a),(b), 110(b), Dec. 10, 2004, 118 Stat. 3601, 3602, 3605; Pub. L. 111–377, title II, § 203(a)(1), Jan. 4, 2011, 124 Stat. 4124; Pub. L. 114–315, title IV, §§ 408(a), 409(d), Dec. 16, 2016, 130 Stat. 1558, 1560; Pub. L. 115–89, § 2, Nov. 21, 2017, 131 Stat. 1279; Pub. L. 116–315, title I, §§ 1012(a), 1015(b), Jan. 5, 2021, 134 Stat. 4942, 4945; Pub. L. 118–210, title II, §§ 206(b)(2)(A), 207(b)(1), Jan. 2, 2025, 138 Stat. 2764.)
+(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 158, § 1772; amended Pub. L. 89–358, § 3(a)(7), (8), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 91–219, title II, § 211, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, § 403(3)–(5), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 96–466, title V, § 502, Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–295, § 4(50), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3672 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 605(a)(1), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 107–103, title III, § 303, Dec. 27, 2001, 115 Stat. 992; Pub. L. 108–454, title I, §§ 104(a),(b), 110(b), Dec. 10, 2004, 118 Stat. 3601, 3602, 3605; Pub. L. 111–377, title II, § 203(a)(1), Jan. 4, 2011, 124 Stat. 4124; Pub. L. 114–315, title IV, §§ 408(a), 409(d), Dec. 16, 2016, 130 Stat. 1558, 1560; Pub. L. 115–89, § 2, Nov. 21, 2017, 131 Stat. 1279; Pub. L. 116–315, title I, §§ 1012(a), 1015(b), Jan. 5, 2021, 134 Stat. 4942, 4945; Pub. L. 118–210, title II, §§ 206(b)(2)(A), 207(b)(1), Jan. 2, 2025, 138 Stat. 2764.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (b)(2)(A)(i)(II), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(2)(A)(i)(II), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
 
-The Act of August 16, 1937, referred to in subsec. (b)(2)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+The Act of August 16, 1937, referred to in subsec. (b)(2)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 **Amendments**
 
-2025—Subsec. (b)(2)(A). Pub. L. 118–210, § 207(b)(1), substituted “paragraphs (1), (2), and (6) of section 3675(b)” for “(b)(1) and (b)(2)”.
+2025—Subsec. (b)(2)(A). Pub. L. 118–210, § 207(b)(1), substituted “paragraphs (1), (2), and (6) of section 3675(b)” for “(b)(1) and (b)(2)”.
 
-Subsec. (b)(2)(C). Pub. L. 118–210, § 206(b)(2)(A), substituted “paragraph (15) or (16)” for “paragraph (14) or (15)”.
+Subsec. (b)(2)(C). Pub. L. 118–210, § 206(b)(2)(A), substituted “paragraph (15) or (16)” for “paragraph (14) or (15)”.
 
-2021—Subsec. (b)(2)(A)(i). Pub. L. 116–315, § 1015(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Except as provided in subparagraph (C) or (D), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that is accredited by an agency or association recognized for that purpose by the Secretary of Education.”
+2021—Subsec. (b)(2)(A)(i). Pub. L. 116–315, § 1015(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Except as provided in subparagraph (C) or (D), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that is accredited by an agency or association recognized for that purpose by the Secretary of Education.”
 
-Pub. L. 116–315, § 1012(a)(1), inserted “or (D)” after “subparagraph (C)”.
+Pub. L. 116–315, § 1012(a)(1), inserted “or (D)” after “subparagraph (C)”.
 
-Subsec. (b)(2)(D). Pub. L. 116–315, § 1012(a)(2), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 116–315, § 1012(a)(2), added subpar. (D).
 
 2017—Subsec. (c)(1). Pub. L. 115–89 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of programs of apprenticeship where—
 
@@ -389,61 +389,61 @@ Subsec. (b)(2)(D). Pub. L. 116–315, § 1012(a)(2), added subpar. (D).
 
 the Secretary shall act as a ‘State approving agency’ as such term is used in section 3687(a)(1) of this title and shall be responsible for the approval of all such programs.”
 
-2016—Subsec. (b)(2)(A). Pub. L. 114–315, § 408(a), substituted “a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:” for “the following programs are deemed to be approved for purposes of this chapter:” in introductory provisions.
+2016—Subsec. (b)(2)(A). Pub. L. 114–315, § 408(a), substituted “a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:” for “the following programs are deemed to be approved for purposes of this chapter:” in introductory provisions.
 
-Subsec. (b)(2)(A)(i). Pub. L. 114–315, § 409(d)(1), substituted “Except as provided in subparagraph (C), an accredited” for “An accredited”.
+Subsec. (b)(2)(A)(i). Pub. L. 114–315, § 409(d)(1), substituted “Except as provided in subparagraph (C), an accredited” for “An accredited”.
 
-Subsec. (b)(2)(C). Pub. L. 114–315, § 409(d)(2), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 114–315, § 409(d)(2), added subpar. (C).
 
 2011—Subsec. (b). Pub. L. 111–377 designated existing provisions as par. (1) and added par. (2).
 
-2004—Subsec. (c). Pub. L. 108–454, §§ 104(a), 110(b)(1), designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) of par. (1) and inserted “apprenticeship” before “standards”, redesignated former par. (2) as subpar. (B) of par. (1), and added pars. (2) to (4).
+2004—Subsec. (c). Pub. L. 108–454, §§ 104(a), 110(b)(1), designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) of par. (1) and inserted “apprenticeship” before “standards”, redesignated former par. (2) as subpar. (B) of par. (1), and added pars. (2) to (4).
 
-Subsec. (d)(1). Pub. L. 108–454, §§ 104(b), 110(b)(2), substituted “of apprenticeship and on the job training programs” for “of programs of training on the job (including programs of apprenticeship)” and inserted at end “The Secretary of Labor shall provide assistance and services to the Secretary, and to State approving agencies, to increase the use of apprenticeships.”
+Subsec. (d)(1). Pub. L. 108–454, §§ 104(b), 110(b)(2), substituted “of apprenticeship and on the job training programs” for “of programs of training on the job (including programs of apprenticeship)” and inserted at end “The Secretary of Labor shall provide assistance and services to the Secretary, and to State approving agencies, to increase the use of apprenticeships.”
 
 2001—Subsec. (d). Pub. L. 107–103 designated existing provisions as par. (1), inserted “and State approving agencies” before “shall actively promote”, and added par. (2).
 
 1994—Subsec. (e). Pub. L. 103–446 added subsec. (e).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1772 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1772 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3536” for “1736”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3536” for “1736”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3687(a)(1)” for “1787(a)(1)” in concluding provisions.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3687(a)(1)” for “1787(a)(1)” in concluding provisions.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “3677 and 3687” for “1777 and 1787” and “4103A” for “2003A”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “3677 and 3687” for “1777 and 1787” and “4103A” for “2003A”.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1982—Subsecs. (a), (b). Pub. L. 97–295, § 4(50)(A), inserted “of this title” after “34 and 35” wherever appearing.
+1982—Subsecs. (a), (b). Pub. L. 97–295, § 4(50)(A), inserted “of this title” after “34 and 35” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 97–295, § 4(50)(B), substituted “section 2 of the Act of August 16, 1937 (popularly known as the ‘National Apprenticeship Act’) (29 U.S.C. 50a),” for “section 50a of title 29”.
+Subsec. (c)(1). Pub. L. 97–295, § 4(50)(B), substituted “section 2 of the Act of August 16, 1937 (popularly known as the ‘National Apprenticeship Act’) (29 U.S.C. 50a),” for “section 50a of title 29”.
 
 1980—Subsec. (d). Pub. L. 96–466 added subsec. (d).
 
-1972—Subsec. (a). Pub. L. 92–540, § 403(3), (4), inserted “this chapter and” before “chapters 34 and 35” and substituted “1736” for “1737”.
+1972—Subsec. (a). Pub. L. 92–540, § 403(3), (4), inserted “this chapter and” before “chapters 34 and 35” and substituted “1736” for “1737”.
 
-Subsec. (b). Pub. L. 92–540, § 403(3), inserted “this chapter and” before “chapters 34 and 35”.
+Subsec. (b). Pub. L. 92–540, § 403(3), inserted “this chapter and” before “chapters 34 and 35”.
 
-Subsec. (c). Pub. L. 92–540, § 403(5), substituted “1787(a)(1)” for “1683(a)(1)”.
+Subsec. (c). Pub. L. 92–540, § 403(5), substituted “1787(a)(1)” for “1683(a)(1)”.
 
 1970—Subsec. (c). Pub. L. 91–219 added subsec. (c).
 
-1966—Subsec. (a). Pub. L. 89–358, § 3(a)(7), (8), substituted “under subchapter V of chapter 35 of this title” for “under subchapter V of this chapter” in first sentence, and substituted “chapters 34 and 35” for “this chapter” twice in first sentence, and wherever appearing in second, third, and fourth sentences, and inserted “or veteran” after “eligible person”, in first sentence.
+1966—Subsec. (a). Pub. L. 89–358, § 3(a)(7), (8), substituted “under subchapter V of chapter 35 of this title” for “under subchapter V of this chapter” in first sentence, and substituted “chapters 34 and 35” for “this chapter” twice in first sentence, and wherever appearing in second, third, and fourth sentences, and inserted “or veteran” after “eligible person”, in first sentence.
 
-Subsec. (b). Pub. L. 89–358, § 3(a)(7), substituted “chapters 34 and 35” for “this chapter”.
+Subsec. (b). Pub. L. 89–358, § 3(a)(7), substituted “chapters 34 and 35” for “this chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 118–210, title II, § 207(c), Jan. 2, 2025, 138 Stat. 2765, provided that: “The amendments made by this section [amending this section and sections 3675 and 3676 of this title] shall take effect on August 1, 2025, and apply with respect to a quarter, semester, or term, as applicable, commencing on or after such date.”
+Pub. L. 118–210, title II, § 207(c), Jan. 2, 2025, 138 Stat. 2765, provided that: “The amendments made by this section [amending this section and sections 3675 and 3676 of this title] shall take effect on August 1, 2025, and apply with respect to a quarter, semester, or term, as applicable, commencing on or after such date.”
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–315, title I, § 1012(b), Jan. 5, 2021, 134 Stat. 4942, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
+Pub. L. 116–315, title I, § 1012(b), Jan. 5, 2021, 134 Stat. 4942, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
 
-Pub. L. 116–315, title I, § 1015(c), Jan. 5, 2021, 134 Stat. 4945, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 3675 of this title] shall take effect on August 1, 2021.”
+Pub. L. 116–315, title I, § 1015(c), Jan. 5, 2021, 134 Stat. 4945, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 3675 of this title] shall take effect on August 1, 2021.”
 
 **Effective Date of 2011 Amendment**
 
@@ -451,7 +451,7 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title VI, § 605(b), Nov. 2, 1994, 108 Stat. 4672, provided that: “The amendments made by subsection (a) [amending this section and sections 3675, 3680, and 3686 of this title] shall apply with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after the date of the enactment of this Act [Nov. 2, 1994].”
+Pub. L. 103–446, title VI, § 605(b), Nov. 2, 1994, 108 Stat. 4672, provided that: “The amendments made by subsection (a) [amending this section and sections 3675, 3680, and 3686 of this title] shall apply with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after the date of the enactment of this Act [Nov. 2, 1994].”
 
 **Effective Date of 1980 Amendment**
 
@@ -459,9 +459,9 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(e) of Pub.
 
 **Applicability**
 
-Pub. L. 114–315, title IV, § 409(f), Dec. 16, 2016, 130 Stat. 1560, provided that: “If after enrollment in a course of education that is subject to disapproval by reason of an amendment made by this section [amending this section and sections 3675, 3676, and 3679 of this title], an individual pursues one or more courses of education at the same educational institution while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters, or terms) at that institution, any course so pursued by the individual at that institution while so continuously enrolled shall not be subject to disapproval by reason of such amendment.”
+Pub. L. 114–315, title IV, § 409(f), Dec. 16, 2016, 130 Stat. 1560, provided that: “If after enrollment in a course of education that is subject to disapproval by reason of an amendment made by this section [amending this section and sections 3675, 3676, and 3679 of this title], an individual pursues one or more courses of education at the same educational institution while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters, or terms) at that institution, any course so pursued by the individual at that institution while so continuously enrolled shall not be subject to disapproval by reason of such amendment.”
 
-### § 3672A. Uniform application
+### § 3672A. Uniform application
 
 **(a) In General.—**
 
@@ -519,23 +519,23 @@ Pub. L. 114–315, title IV, § 409(f), Dec. 16, 2016, 130 Stat. 1560, provide
 
 **(d) Appropriate Executive.—** In this section, the appropriate executive of an educational institution or training establishment is a senior executive official, senior administrator, owner, or operator designated by the institution or establishment.
 
-(Added Pub. L. 117–333, § 11(a), Jan. 5, 2023, 136 Stat. 6132.)
+(Added Pub. L. 117–333, § 11(a), Jan. 5, 2023, 136 Stat. 6132.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(1)(B)(i)(II), (2), (3)(B) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(1)(B)(i)(II), (2), (3)(B) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
 
 **Codification**
 
-Pub. L. 117–333, § 11(a), Jan. 5, 2023, 136 Stat. 6132, which directed the amendment of subchapter I of this chapter by adding this section after section 3672 of this title, was executed by adding this section after section 3672 in this subchapter, to reflect the probable intent of Congress and the redesignation of former subchapter I of this chapter as subchapter II by section 2(a)(1) of Pub. L. 117–333.
+Pub. L. 117–333, § 11(a), Jan. 5, 2023, 136 Stat. 6132, which directed the amendment of subchapter I of this chapter by adding this section after section 3672 of this title, was executed by adding this section after section 3672 in this subchapter, to reflect the probable intent of Congress and the redesignation of former subchapter I of this chapter as subchapter II by section 2(a)(1) of Pub. L. 117–333.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability**
 
-Pub. L. 117–333, § 11(c), Jan. 5, 2023, 136 Stat. 6134, provided that:
+Pub. L. 117–333, § 11(c), Jan. 5, 2023, 136 Stat. 6134, provided that:
 
 > “The application required by section 3672A of title 38, United States Code, as added by subsection (a), shall—
 
@@ -543,7 +543,7 @@ Pub. L. 117–333, § 11(c), Jan. 5, 2023, 136 Stat. 6134, provided that:
 
 > **“(2)** be required for the approval of any new course of education proposed on or after that day.”
 
-### § 3673. Approval activities: cooperation and coordination of activities
+### § 3673. Approval activities: cooperation and coordination of activities
 
 **(a) Cooperation in Activities.—** The Secretary and each State approving agency shall take cognizance of the fact that definite duties, functions, and responsibilities are conferred upon the Secretary and each State approving agency under the educational programs established under this chapter and chapters 34 and 35 of this title. To assure that such programs are effectively and efficiently administered, the cooperation of the Secretary and the State approving agencies is essential. It is necessary to establish an exchange of information pertaining to activities of educational institutions, and particular attention should be given to the enforcement of approval standards, enforcement of enrollment restrictions, and fraudulent and other criminal activities on the part of persons connected with educational institutions in which eligible persons or veterans are enrolled under this chapter and chapters 34 and 35 of this title.
 
@@ -617,9 +617,9 @@ Pub. L. 117–333, § 11(c), Jan. 5, 2023, 136 Stat. 6134, provided that:
 
 **(2)** For purposes of paragraph (1)(A), a State approving agency shall be considered to have properly conducted its enforcement and approval of courses and programs of education under this chapter if the State approving agency has—
 
-**(A)** met fulfilled 1
+**(A)** met fulfilled 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 its requirements pursuant to the applicable cooperative agreements between the State approving agency and the Department relating to the oversight and approval of courses and programs of education under this chapter; and
 
@@ -627,29 +627,29 @@ its requirements pursuant to the applicable cooperative agreements between the S
 
 **(3)** Outreach activities conducted under paragraph (1) shall be carried out using amounts derived from amounts not specifically appropriated to carry out this subsection.
 
-(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 158, § 1773; amended Pub. L. 89–358, § 3(a)(7), (11), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 92–540, title IV, § 403(6), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 97–295, § 4(51), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3673, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–389, title III, § 326(a)(1), (2)(A), (3), Oct. 10, 2008, 122 Stat. 4169; Pub. L. 111–377, title II, § 203(b), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 115–48, title III, § 310, Aug. 16, 2017, 131 Stat. 994; Pub. L. 115–62, title V, § 501(a), Sept. 29, 2017, 131 Stat. 1165; Pub. L. 116–315, title I, §§ 1013(b)(1), 1014(a), 1023, Jan. 5, 2021, 134 Stat. 4943, 4959.)
+(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 158, § 1773; amended Pub. L. 89–358, § 3(a)(7), (11), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 92–540, title IV, § 403(6), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 97–295, § 4(51), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3673, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–389, title III, § 326(a)(1), (2)(A), (3), Oct. 10, 2008, 122 Stat. 4169; Pub. L. 111–377, title II, § 203(b), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 115–48, title III, § 310, Aug. 16, 2017, 131 Stat. 994; Pub. L. 115–62, title V, § 501(a), Sept. 29, 2017, 131 Stat. 1165; Pub. L. 116–315, title I, §§ 1013(b)(1), 1014(a), 1023, Jan. 5, 2021, 134 Stat. 4943, 4959.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (d). Pub. L. 116–315, § 1013(b)(1), substituted “shall” for “may” and “a risk-based survey developed under section 3673A of this title” for “compliance and risk-based surveys”.
+2021—Subsec. (d). Pub. L. 116–315, § 1013(b)(1), substituted “shall” for “may” and “a risk-based survey developed under section 3673A of this title” for “compliance and risk-based surveys”.
 
-Subsec. (e). Pub. L. 116–315, § 1014(a), added subsec. (e).
+Subsec. (e). Pub. L. 116–315, § 1014(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 116–315, § 1023, added subsec. (f).
+Subsec. (f). Pub. L. 116–315, § 1023, added subsec. (f).
 
 2017—Subsec. (d). Pub. L. 115–62 inserted “compliance and” before “risk-based surveys”.
 
-Pub. L. 115–48, in heading, struck out “Compliance and” before “Oversight” and, in text, substituted “conducting risk-based surveys and other such oversight” for “such compliance and oversight”, and inserted “, in consultation with the State approving agencies,” after “as the Secretary”.
+Pub. L. 115–48, in heading, struck out “Compliance and” before “Oversight” and, in text, substituted “conducting risk-based surveys and other such oversight” for “such compliance and oversight”, and inserted “, in consultation with the State approving agencies,” after “as the Secretary”.
 
 2011—Subsec. (d). Pub. L. 111–377 added subsec. (d).
 
-2008—Pub. L. 110–389, § 326(a)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Cooperation”.
+2008—Pub. L. 110–389, § 326(a)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Cooperation”.
 
-Subsec. (a). Pub. L. 110–389, § 326(a)(3)(A), inserted heading.
+Subsec. (a). Pub. L. 110–389, § 326(a)(3)(A), inserted heading.
 
-Subsecs. (b), (c). Pub. L. 110–389, § 326(a)(1), (3)(B), added subsec. (b), redesignated former subsec. (b) as (c), and inserted heading in subsec. (c).
+Subsecs. (b), (c). Pub. L. 110–389, § 326(a)(1), (3)(B), added subsec. (b), redesignated former subsec. (b) as (c), and inserted heading in subsec. (c).
 
 1991—Pub. L. 102–83 renumbered section 1773 of this title as this section.
 
@@ -659,23 +659,23 @@ Subsecs. (b), (c). Pub. L. 110–389, § 326(a)(1), (3)(B), added subsec. (b),
 
 1972—Subsec. (a). Pub. L. 92–540 inserted “this chapter and” before “chapters 34 and 35” wherever appearing.
 
-1966—Subsec. (a). Pub. L. 89–358, § 3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” twice and inserted “or veterans” after “eligible persons”.
+1966—Subsec. (a). Pub. L. 89–358, § 3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” twice and inserted “or veterans” after “eligible persons”.
 
-Subsec. (b). Pub. L. 89–358, § 3(a)(7), substituted “chapters 34 and 35” for “this chapter”.
+Subsec. (b). Pub. L. 89–358, § 3(a)(7), substituted “chapters 34 and 35” for “this chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–315, title I, § 1013(b)(2), Jan. 5, 2021, 134 Stat. 4943, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2022.”
+Pub. L. 116–315, title I, § 1013(b)(2), Jan. 5, 2021, 134 Stat. 4943, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2022.”
 
-Pub. L. 116–315, title I, § 1014(b), Jan. 5, 2021, 134 Stat. 4945, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
+Pub. L. 116–315, title I, § 1014(b), Jan. 5, 2021, 134 Stat. 4945, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
 
 **Effective Date of 2011 Amendment**
 
 Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub. L. 111–377, set out as a note under section 3034 of this title.
 
-### § 3673A. Risk-based surveys
+### § 3673A. Risk-based surveys
 
 **(a) Development Required.—** The Secretary, in partnership with State approving agencies, shall develop a risk-based survey for oversight of educational institutions with courses and programs of education approved under this chapter.
 
@@ -705,7 +705,7 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 
 **(d) Notice.—** To the maximum amount feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than two business days of notice to an educational institution before conducting a targeted risk-based survey of the institution under this section.
 
-(Added Pub. L. 116–315, title I, § 1013(a)(1), Jan. 5, 2021, 134 Stat. 4942; amended Pub. L. 117–16, § 7(a)(3), (b)(1), June 8, 2021, 135 Stat. 285; Pub. L. 117–333, § 12(a), Jan. 5, 2023, 136 Stat. 6134; Pub. L. 118–210, title II, § 204, Jan. 2, 2025, 138 Stat. 2763.)
+(Added Pub. L. 116–315, title I, § 1013(a)(1), Jan. 5, 2021, 134 Stat. 4942; amended Pub. L. 117–16, § 7(a)(3), (b)(1), June 8, 2021, 135 Stat. 285; Pub. L. 117–333, § 12(a), Jan. 5, 2023, 136 Stat. 6134; Pub. L. 118–210, title II, § 204, Jan. 2, 2025, 138 Stat. 2763.)
 
 **Editorial Notes**
 
@@ -715,19 +715,19 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 
 2023—Subsec. (d). Pub. L. 117–333 added subsec. (d).
 
-2021—Pub. L. 117–16, § 7(b)(1), made technical correction to directory language of Pub. L. 116–315, § 1013(a)(1), which enacted this section.
+2021—Pub. L. 117–16, § 7(b)(1), made technical correction to directory language of Pub. L. 116–315, § 1013(a)(1), which enacted this section.
 
-Subsec. (a). Pub. L. 117–16, § 7(a)(3)(A), struck out “searchable” before “risk-based survey”.
+Subsec. (a). Pub. L. 117–16, § 7(a)(3)(A), struck out “searchable” before “risk-based survey”.
 
-Subsec. (c). Pub. L. 117–16, § 7(a)(3)(B), inserted “searchable” before “database”.
+Subsec. (c). Pub. L. 117–16, § 7(a)(3)(B), inserted “searchable” before “database”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Risk-Based Surveys Database**
 
-Pub. L. 118–210, title II, § 206(d), Jan. 2, 2025, 138 Stat. 2764, provided that: “The Secretary of Veterans Affairs shall establish the database required under section 3673A(c) of title 38, United States Code, by not later than 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
+Pub. L. 118–210, title II, § 206(d), Jan. 2, 2025, 138 Stat. 2764, provided that: “The Secretary of Veterans Affairs shall establish the database required under section 3673A(c) of title 38, United States Code, by not later than 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
 
-### § 3674. Reimbursement of expenses
+### § 3674. Reimbursement of expenses
 
 **(a)**
 
@@ -765,95 +765,95 @@ Pub. L. 118–210, title II, § 206(d), Jan. 2, 2025, 138 Stat. 2764, provided
 
 **(c)** Each State and local agency with which the Secretary contracts or enters into an agreement under subsection (a) of this section shall report to the Secretary periodically, but not less often than annually, as determined by the Secretary, on the activities in the preceding twelve months (or the period which has elapsed since the last report under this subsection was submitted) carried out under such contract or agreement. Each such report shall describe, in such detail as the Secretary shall prescribe, services performed and determinations made in connection with ascertaining the qualifications of educational institutions in connection with this chapter and chapters 32, 34, and 35 of this title and in supervising such institutions.
 
-(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 159, § 1774; amended Pub. L. 89–358, § 3(a)(7), (8), (11), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 90–631, § 4, Oct. 23, 1968, 82 Stat. 1334; Pub. L. 92–540, title IV, § 403(7), 411, Oct. 24, 1972, 86 Stat. 1090, 1092; Pub. L. 93–508, title II, § 210(1), Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, § 503, Oct. 15, 1976, 90 Stat. 2399; Pub. L. 95–202, title III, § 303, Nov. 23, 1977, 91 Stat. 1441; Pub. L. 96–466, title II, §§ 203(1), 213(1), Oct. 17, 1980, 94 Stat. 2188, 2190; Pub. L. 97–295, § 4(51), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 100–323, § 13(a)(1), (b)(5), May 20, 1988, 102 Stat. 571, 573; Pub. L. 101–237, title IV, §§ 414, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2085, 2092; Pub. L. 102–16, § 10(a)(7), Mar. 22, 1991, 105 Stat. 56; renumbered § 3674 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 606(a)(1), (b), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 106–419, title I, § 123, Nov. 1, 2000, 114 Stat. 1837; Pub. L. 107–14, § 8(a)(7), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, § 301, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 110–252, title V, § 5005, June 30, 2008, 122 Stat. 2379; Pub. L. 115–48, title III, § 301(a), Aug. 16, 2017, 131 Stat. 989.)
+(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 159, § 1774; amended Pub. L. 89–358, § 3(a)(7), (8), (11), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 90–631, § 4, Oct. 23, 1968, 82 Stat. 1334; Pub. L. 92–540, title IV, § 403(7), 411, Oct. 24, 1972, 86 Stat. 1090, 1092; Pub. L. 93–508, title II, § 210(1), Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, § 503, Oct. 15, 1976, 90 Stat. 2399; Pub. L. 95–202, title III, § 303, Nov. 23, 1977, 91 Stat. 1441; Pub. L. 96–466, title II, §§ 203(1), 213(1), Oct. 17, 1980, 94 Stat. 2188, 2190; Pub. L. 97–295, § 4(51), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 100–323, § 13(a)(1), (b)(5), May 20, 1988, 102 Stat. 571, 573; Pub. L. 101–237, title IV, §§ 414, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2085, 2092; Pub. L. 102–16, § 10(a)(7), Mar. 22, 1991, 105 Stat. 56; renumbered § 3674 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 606(a)(1), (b), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 106–419, title I, § 123, Nov. 1, 2000, 114 Stat. 1837; Pub. L. 107–14, § 8(a)(7), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, § 301, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 110–252, title V, § 5005, June 30, 2008, 122 Stat. 2379; Pub. L. 115–48, title III, § 301(a), Aug. 16, 2017, 131 Stat. 989.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2017—Subsec. (a)(2)(A). Pub. L. 115–48, § 301(a)(1), substituted “out of amounts in the Department of Veterans Affairs readjustment benefits account and amounts appropriated to the Secretary” for “out of amounts available for the payment of readjustment benefits”.
+2017—Subsec. (a)(2)(A). Pub. L. 115–48, § 301(a)(1), substituted “out of amounts in the Department of Veterans Affairs readjustment benefits account and amounts appropriated to the Secretary” for “out of amounts available for the payment of readjustment benefits”.
 
-Subsec. (a)(4). Pub. L. 115–48, § 301(a)(3), added par. (4). Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 115–48, § 301(a)(3), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 115–48, § 301(a)(4), designated existing provisions as subpar. (A), substituted “for fiscal year 2018 shall be $21,000,000 and for fiscal year 2019 and thereafter shall be $23,000,000” for “for any fiscal year shall be $19,000,000”, and added subpar. (B).
+Subsec. (a)(5). Pub. L. 115–48, § 301(a)(4), designated existing provisions as subpar. (A), substituted “for fiscal year 2018 shall be $21,000,000 and for fiscal year 2019 and thereafter shall be $23,000,000” for “for any fiscal year shall be $19,000,000”, and added subpar. (B).
 
-Pub. L. 115–48, § 301(a)(2), redesignated par. (4) as (5).
+Pub. L. 115–48, § 301(a)(2), redesignated par. (4) as (5).
 
 2008—Subsec. (a)(4). Pub. L. 110–252 substituted “shall be $19,000,000.” for “may not exceed $13,000,000 or, for each of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.”
 
-2002—Subsec. (a)(4). Pub. L. 107–330 inserted “, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000” before period at end of first sentence.
+2002—Subsec. (a)(4). Pub. L. 107–330 inserted “, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000” before period at end of first sentence.
 
-2001—Subsec. (a)(2)(A). Pub. L. 107–14, § 8(a)(7)(A)(i), struck out “, effective at the beginning of fiscal year 1988,” after “The Secretary shall” and substituted “section 3674A(a)(3)” for “section 3674A(a)(4)”.
+2001—Subsec. (a)(2)(A). Pub. L. 107–14, § 8(a)(7)(A)(i), struck out “, effective at the beginning of fiscal year 1988,” after “The Secretary shall” and substituted “section 3674A(a)(3)” for “section 3674A(a)(4)”.
 
-Subsec. (a)(2)(B). Pub. L. 107–14, § 8(a)(7)(A)(ii), substituted “paragraph (3)” for “paragraph (3)(A)”.
+Subsec. (a)(2)(B). Pub. L. 107–14, § 8(a)(7)(A)(ii), substituted “paragraph (3)” for “paragraph (3)(A)”.
 
-Subsec. (a)(2)(C). Pub. L. 107–14, § 8(a)(7)(A)(iii), substituted “section 3674A(a)(3)” for “section 3674A(a)(4)”.
+Subsec. (a)(2)(C). Pub. L. 107–14, § 8(a)(7)(A)(iii), substituted “section 3674A(a)(3)” for “section 3674A(a)(4)”.
 
-Subsec. (c). Pub. L. 107–14, § 8(a)(7)(B), struck out “on September 30, 1978, and” before “periodically,” and “thereafter,” before “as determined by the Secretary,”.
+Subsec. (c). Pub. L. 107–14, § 8(a)(7)(B), struck out “on September 30, 1978, and” before “periodically,” and “thereafter,” before “as determined by the Secretary,”.
 
 2000—Subsec. (a)(4). Pub. L. 106–419 inserted “or, for each of fiscal years 2001 and 2002, $14,000,000” before period at end of first sentence and substituted “the amount applicable to that fiscal year under the preceding sentence” for “$13,000,000” in two places in second sentence.
 
-1994—Subsec. (a)(3). Pub. L. 103–446, § 606(b), struck out “(A)” before “Each State” and struck out subpar. (B) which read as follows: “The Secretary shall transmit a report to the Congress on a quarterly basis which summarizes—
+1994—Subsec. (a)(3). Pub. L. 103–446, § 606(b), struck out “(A)” before “Each State” and struck out subpar. (B) which read as follows: “The Secretary shall transmit a report to the Congress on a quarterly basis which summarizes—
 
 “(i) the amounts for which certifications were made by State and local agencies in the reports submitted under subparagraph (A) of this paragraph with respect to the quarter for which the report is made; and
 
 “(ii) the amounts of the payments made by the Secretary for such quarter with respect to such certifications and with respect to administrative expenses.”
 
-Subsec. (a)(4). Pub. L. 103–446, § 606(a)(1), substituted “$13,000,000” for “$12,000,000” wherever appearing.
+Subsec. (a)(4). Pub. L. 103–446, § 606(a)(1), substituted “$13,000,000” for “$12,000,000” wherever appearing.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1774 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1774 of this title as this section.
 
 Subsec. (a)(1)(A). Pub. L. 102–16 substituted “chapter 106” for “chapters 106 and 107”.
 
-Subsec. (a)(2)(A), (C). Pub. L. 102–83, § 5(c)(1), substituted “3674A(a)(4)” for “1774A(a)(4)”.
+Subsec. (a)(2)(A), (C). Pub. L. 102–83, § 5(c)(1), substituted “3674A(a)(4)” for “1774A(a)(4)”.
 
-1989—Subsec. (a). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+1989—Subsec. (a). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (a)(2)(A). Pub. L. 101–237, § 414(1), substituted “section, for expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title (except for administrative overhead expenses allocated to such activities), and for” for “section and for”.
+Subsec. (a)(2)(A). Pub. L. 101–237, § 414(1), substituted “section, for expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title (except for administrative overhead expenses allocated to such activities), and for” for “section and for”.
 
-Subsec. (a)(2)(C). Pub. L. 101–237, § 414(2), inserted before period at end “and the amount of expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title for such period (except for administrative overhead expenses allocated to such activities)”.
+Subsec. (a)(2)(C). Pub. L. 101–237, § 414(2), inserted before period at end “and the amount of expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title for such period (except for administrative overhead expenses allocated to such activities)”.
 
-Subsec. (c). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (c). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–323, § 13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 of this title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
+1988—Subsec. (a)(1). Pub. L. 100–323, § 13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 of this title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
 
-Pub. L. 100–323, § 13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, the Administrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
+Pub. L. 100–323, § 13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, the Administrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
-Subsec. (a)(2) to (4). Pub. L. 100–323, § 13(a)(1)(C), added pars. (2) to (4).
+Subsec. (a)(2) to (4). Pub. L. 100–323, § 13(a)(1)(C), added pars. (2) to (4).
 
 1982—Subsec. (a). Pub. L. 97–295 inserted “of this title” after “34 and 35” wherever appearing.
 
-1980—Subsec. (b). Pub. L. 96–466, § 213(1), increased allowance for administrative expenses by substituting “$693” for “$662”, “$1,247” for “$1,191” in two places, “$1,155” for “$1,103”, “$7,548” for “$7,205” in two places, “$999” for “$953”, “$14,969” for “$14,288” in two places, and “$872” for “$833”.
+1980—Subsec. (b). Pub. L. 96–466, § 213(1), increased allowance for administrative expenses by substituting “$693” for “$662”, “$1,247” for “$1,191” in two places, “$1,155” for “$1,103”, “$7,548” for “$7,205” in two places, “$999” for “$953”, “$14,969” for “$14,288” in two places, and “$872” for “$833”.
 
-Pub. L. 96–466, § 203(1), increased allowance for administrative expenses by substituting “$662” for “$630”, “$1,191” for “$1,134” in two places, “$1,103” for “$1,050”, “$7,205” for “$6,862” in two places, “$953” for “$908”, “$14,288” for “$13,608” in two places, and “$833” for “$793”.
+Pub. L. 96–466, § 203(1), increased allowance for administrative expenses by substituting “$662” for “$630”, “$1,191” for “$1,134” in two places, “$1,103” for “$1,050”, “$7,205” for “$6,862” in two places, “$953” for “$908”, “$14,288” for “$13,608” in two places, and “$833” for “$793”.
 
-1977—Subsec. (b). Pub. L. 95–202, § 303(1), increased allowance for administrative expenses by substituting “$630” for “$600”, “$1,134” for “$1,080” in two places, “$1,050” for “$1,000”, “$6,862” for “$6,535” in two places, “$908” for “$865”, “$13,608” for “$12,960” in two places, and “$793” for “$755”.
+1977—Subsec. (b). Pub. L. 95–202, § 303(1), increased allowance for administrative expenses by substituting “$630” for “$600”, “$1,134” for “$1,080” in two places, “$1,050” for “$1,000”, “$6,862” for “$6,535” in two places, “$908” for “$865”, “$13,608” for “$12,960” in two places, and “$793” for “$755”.
 
-Subsec. (c). Pub. L. 95–202, § 303(2), added subsec. (c).
+Subsec. (c). Pub. L. 95–202, § 303(2), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–502, § 503(1), inserted provision authorizing Administrator to reimburse State and local agencies for work performed by their subcontractors, where the work performed has a direct relationship to the requirements of this chapter, chapters 32, 34, and 35, and has prior approval of the Administrator.
+1976—Subsec. (a). Pub. L. 94–502, § 503(1), inserted provision authorizing Administrator to reimburse State and local agencies for work performed by their subcontractors, where the work performed has a direct relationship to the requirements of this chapter, chapters 32, 34, and 35, and has prior approval of the Administrator.
 
-Subsec. (b). Pub. L. 94–502, § 503(2), increased allowance for administrative expenses from “$550” to “$600”; “$1000” to “$1080”; “$1000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof” to “$1,080 for the first $10,000 plus $1,000 for each additional $5,000 or fraction thereof”; “$6,050” to “$6,535”; “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof” to “$6,535 for the first $40,000 plus $865 for each additional $5,000 or fraction thereof”; “$12,000” to “$12,960”; “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof” to “$12,960 for the first $80,000 plus $755 for each additional $5,000 or fraction thereof”.
+Subsec. (b). Pub. L. 94–502, § 503(2), increased allowance for administrative expenses from “$550” to “$600”; “$1000” to “$1080”; “$1000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof” to “$1,080 for the first $10,000 plus $1,000 for each additional $5,000 or fraction thereof”; “$6,050” to “$6,535”; “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof” to “$6,535 for the first $40,000 plus $865 for each additional $5,000 or fraction thereof”; “$12,000” to “$12,960”; “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof” to “$12,960 for the first $80,000 plus $755 for each additional $5,000 or fraction thereof”.
 
 1974—Subsec. (b). Pub. L. 93–508 increased allowance for administrative expenses from “$500” to “$550”; “$900” to “$1,000”; “$900 for the first $10,000 plus $800 for each additional $5,000 or fraction thereof” to “$1,000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof”; “$5,250” to “$6,050”; “$5,250 for the first $40,000 plus $700 for each additional $5,000 or fraction thereof” to “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof”; “$10,450” to “$12,000”; and “$10,450 for the first $80,000 plus $600 for each additional $5,000 or fraction thereof” to “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof”.
 
-1972—Subsec. (a). Pub. L. 92–540, § 403(7), inserted “this chapter and” before “chapters 34 and 35” in cl. (1).
+1972—Subsec. (a). Pub. L. 92–540, § 403(7), inserted “this chapter and” before “chapters 34 and 35” in cl. (1).
 
-Subsec. (b). Pub. L. 92–540, § 411, provided for recomputation of formula for reimbursement of expenses by doubling amounts paid as allowance for administrative expenses.
+Subsec. (b). Pub. L. 92–540, § 411, provided for recomputation of formula for reimbursement of expenses by doubling amounts paid as allowance for administrative expenses.
 
 1968—Pub. L. 90–631 designated existing provisions as subsec. (a), inserted “and an allowance for administrative expenses in accordance with the formula contained in subsection (b) of this section” after “employees of such agencies”, and added subsec. (b).
 
-1966—Pub. L. 89–358, § 3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” in three places and inserted “or veterans” after “eligible persons” in cl. (1).
+1966—Pub. L. 89–358, § 3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” in three places and inserted “or veterans” after “eligible persons” in cl. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title VI, § 606(a)(2), Nov. 2, 1994, 108 Stat. 4672, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to services provided under such section after September 30, 1994.”
+Pub. L. 103–446, title VI, § 606(a)(2), Nov. 2, 1994, 108 Stat. 4672, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to services provided under such section after September 30, 1994.”
 
 **Effective Date of 1988 Amendment**
 
@@ -877,13 +877,13 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–631, § 6(b), Oct. 23, 1968, 82 Stat. 1335, provided that: “The amendments made by section 4 of this Act [amending this section] shall apply with respect to contracts and agreements entered into under section 1774 [now 3674] of title 38, United States Code, effective for periods beginning after June 30, 1968.”
+Pub. L. 90–631, § 6(b), Oct. 23, 1968, 82 Stat. 1335, provided that: “The amendments made by section 4 of this Act [amending this section] shall apply with respect to contracts and agreements entered into under section 1774 [now 3674] of title 38, United States Code, effective for periods beginning after June 30, 1968.”
 
 **Reimbursement From Account Used for Payment of Readjustment Benefits**
 
-Pub. L. 100–323, § 13(a)(2), May 20, 1988, 102 Stat. 572, provided that: “If any payment is made to State or local approving agencies with respect to activities carried out under subchapter I [now subchapter II] of chapter 36 of title 38, United States Code, for fiscal year 1988 before the date of the enactment of this Act [May 20, 1988] and from an account other than the account used for payment of readjustment benefits, the account from which such payment was made shall be reimbursed from the account used for payment of readjustment benefits.”
+Pub. L. 100–323, § 13(a)(2), May 20, 1988, 102 Stat. 572, provided that: “If any payment is made to State or local approving agencies with respect to activities carried out under subchapter I [now subchapter II] of chapter 36 of title 38, United States Code, for fiscal year 1988 before the date of the enactment of this Act [May 20, 1988] and from an account other than the account used for payment of readjustment benefits, the account from which such payment was made shall be reimbursed from the account used for payment of readjustment benefits.”
 
-### § 3674A. Evaluations of agency performance; qualifications and performance of agency personnel
+### § 3674A. Evaluations of agency performance; qualifications and performance of agency personnel
 
 **(a)** The Secretary shall—
 
@@ -909,7 +909,7 @@ Pub. L. 100–323, § 13(a)(2), May 20, 1988, 102 Stat. 572, provided that: �
 
 **(3)** The Secretary shall provide assistance in developing such standards to a State approving agency that requests it.
 
-(Added Pub. L. 100–323, § 13(b)(1)(A), May 20, 1988, 102 Stat. 572, § 1774A; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3674A and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 606(c), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 105–368, title X, § 1005(b)(8), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–14, § 8(a)(8), June 5, 2001, 115 Stat. 35.)
+(Added Pub. L. 100–323, § 13(b)(1)(A), May 20, 1988, 102 Stat. 572, § 1774A; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3674A and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 606(c), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 105–368, title X, § 1005(b)(8), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–14, § 8(a)(8), June 5, 2001, 115 Stat. 35.)
 
 **Editorial Notes**
 
@@ -919,17 +919,17 @@ Pub. L. 100–323, § 13(a)(2), May 20, 1988, 102 Stat. 572, provided that: �
 
 1998—Subsec. (b)(1). Pub. L. 105–368 struck out “after the 18-month period beginning on the date of the enactment of this section” after “section 3674(a) of this title” in introductory provisions.
 
-1994—Subsec. (a)(3) to (5). Pub. L. 103–446, § 606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “supervise functionally the provision of course-approval services by State approving agencies under this subchapter;”.
+1994—Subsec. (a)(3) to (5). Pub. L. 103–446, § 606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “supervise functionally the provision of course-approval services by State approving agencies under this subchapter;”.
 
-Subsec. (b). Pub. L. 103–446, § 606(c)(2)(A), substituted “subsection (a)(4)” for “subsection (a)(5) of this section” in pars. (1)(A) and (2).
+Subsec. (b). Pub. L. 103–446, § 606(c)(2)(A), substituted “subsection (a)(4)” for “subsection (a)(5) of this section” in pars. (1)(A) and (2).
 
-Subsec. (b)(1). Pub. L. 103–446, § 606(c)(2)(B), inserted “of this title” after “section 3674(a)” in introductory provisions and subpar. (B).
+Subsec. (b)(1). Pub. L. 103–446, § 606(c)(2)(B), inserted “of this title” after “section 3674(a)” in introductory provisions and subpar. (B).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1774A of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1774A of this title as this section.
 
-Subsec. (a)(2), (5). Pub. L. 102–83, § 5(c)(1), substituted “3674” for “1774” in par. (2) and “3674(a)” for “1774(a)” in par. (5).
+Subsec. (a)(2), (5). Pub. L. 102–83, § 5(c)(1), substituted “3674” for “1774” in par. (2) and “3674(a)” for “1774(a)” in par. (5).
 
-Subsec. (b)(1). Pub. L. 102–83, § 5(c)(1), substituted “3674(a)” for “1774(a)” in introductory provisions and in subpar. (B).
+Subsec. (b)(1). Pub. L. 102–83, § 5(c)(1), substituted “3674(a)” for “1774(a)” in introductory provisions and in subpar. (B).
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -937,13 +937,13 @@ Subsec. (b)(1). Pub. L. 102–83, § 5(c)(1), substituted “3674(a)” for �
 
 **Implementation**
 
-Pub. L. 100–323, § 13(b)(2), May 20, 1988, 102 Stat. 573, directed Administrator, for purposes of implementing amendments by section 13(b)(1) of Pub. L. 100–323, and within 120 days after May 20, 1988, to publish prototype standards developed under subsec. (a)(5) of this section, directed each State approving agency, within 1 year after Administrator published the standards, to submit to Administrator a copy of the standards to be implemented by such agency under subsec. (b)(1)(A) of this section, and provided that Administrator could comment on consistency of the State’s standards and prototype standards.
+Pub. L. 100–323, § 13(b)(2), May 20, 1988, 102 Stat. 573, directed Administrator, for purposes of implementing amendments by section 13(b)(1) of Pub. L. 100–323, and within 120 days after May 20, 1988, to publish prototype standards developed under subsec. (a)(5) of this section, directed each State approving agency, within 1 year after Administrator published the standards, to submit to Administrator a copy of the standards to be implemented by such agency under subsec. (b)(1)(A) of this section, and provided that Administrator could comment on consistency of the State’s standards and prototype standards.
 
 **Applicability of Qualification Standards to Persons Employed on May 20, 1988**
 
-Pub. L. 100–323, § 13(b)(3), May 20, 1988, 102 Stat. 573, provided that: “None of the qualification standards implemented pursuant to the amendments made by paragraph (1) [enacting this section] shall apply to any person employed by a State approving agency on the date of the enactment of this Act [May 20, 1988] as long as such person remains in the position in which the person is employed on such date.”
+Pub. L. 100–323, § 13(b)(3), May 20, 1988, 102 Stat. 573, provided that: “None of the qualification standards implemented pursuant to the amendments made by paragraph (1) [enacting this section] shall apply to any person employed by a State approving agency on the date of the enactment of this Act [May 20, 1988] as long as such person remains in the position in which the person is employed on such date.”
 
-### § 3675. Approval of accredited courses
+### § 3675. Approval of accredited courses
 
 **(a)**
 
@@ -951,9 +951,9 @@ Pub. L. 100–323, § 13(b)(3), May 20, 1988, 102 Stat. 573, provided that: �
 
 **(A)** such courses have been accredited and approved by a nationally recognized accrediting agency or association;
 
-**(B)** such courses are conducted under the Act of February 23, 1917 (20 U.S.C. 11 et seq.); 1
+**(B)** such courses are conducted under the Act of February 23, 1917 (20 U.S.C. 11 et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(C)** such courses are accepted by the State department of education for credit for a teacher’s certificate or a teacher’s degree; or
 
@@ -1027,47 +1027,47 @@ Pub. L. 100–323, § 13(b)(3), May 20, 1988, 102 Stat. 573, provided that: �
 
 **(C)** The total number of waivers issued.
 
-(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 159, § 1775; amended Pub. L. 89–358, § 3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§ 504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, § 801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3675 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, § 605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 104–275, title I, § 103(c), Oct. 9, 1996, 110 Stat. 3326; Pub. L. 108–183, title III, § 305(a), Dec. 16, 2003, 117 Stat. 2660; Pub. L. 108–454, title I, § 110(c)(1), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 111–377, title II, § 203(c), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 114–315, title IV, §§ 408(b), 409(c), 410(b), Dec. 16, 2016, 130 Stat. 1558, 1560, 1561; Pub. L. 116–315, title I, § 1015(a), Jan. 5, 2021, 134 Stat. 4945; Pub. L. 118–210, title II, §§ 205, 206(a), (b)(2)(B), 207(a), (b)(3), Jan. 2, 2025, 138 Stat. 2763–2765.)
+(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 159, § 1775; amended Pub. L. 89–358, § 3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§ 504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, § 801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3675 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, § 605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 104–275, title I, § 103(c), Oct. 9, 1996, 110 Stat. 3326; Pub. L. 108–183, title III, § 305(a), Dec. 16, 2003, 117 Stat. 2660; Pub. L. 108–454, title I, § 110(c)(1), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 111–377, title II, § 203(c), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 114–315, title IV, §§ 408(b), 409(c), 410(b), Dec. 16, 2016, 130 Stat. 1558, 1560, 1561; Pub. L. 116–315, title I, § 1015(a), Jan. 5, 2021, 134 Stat. 4945; Pub. L. 118–210, title II, §§ 205, 206(a), (b)(2)(B), 207(a), (b)(3), Jan. 2, 2025, 138 Stat. 2763–2765.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, known as the Smith-Hughes Vocational Education Act, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by Pub. L. 105–33, title VI, § 6201, Aug. 5, 1997, 111 Stat. 653. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
+Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, known as the Smith-Hughes Vocational Education Act, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by Pub. L. 105–33, title VI, § 6201, Aug. 5, 1997, 111 Stat. 653. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(4)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(4)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2025—Subsec. (b)(3). Pub. L. 118–210, § 207(b)(3), substituted “(15), (16), and (18)” for “(15), (16), and (17)”.
+2025—Subsec. (b)(3). Pub. L. 118–210, § 207(b)(3), substituted “(15), (16), and (18)” for “(15), (16), and (17)”.
 
-Pub. L. 118–210, § 206(b)(2)(B), substituted “(15), (16), and (17)” for “(14), (15), and (16)”.
+Pub. L. 118–210, § 206(b)(2)(B), substituted “(15), (16), and (17)” for “(14), (15), and (16)”.
 
-Subsec. (b)(4). Pub. L. 118–210, § 205, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The educational institution is approved and participates in a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) or the Secretary has waived the requirement under this paragraph with respect to an educational institution and submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives notice of such waiver.”
+Subsec. (b)(4). Pub. L. 118–210, § 205, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The educational institution is approved and participates in a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) or the Secretary has waived the requirement under this paragraph with respect to an educational institution and submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives notice of such waiver.”
 
-Subsec. (b)(5). Pub. L. 118–210, § 206(a), added par. (5).
+Subsec. (b)(5). Pub. L. 118–210, § 206(a), added par. (5).
 
-Subsec. (b)(6). Pub. L. 118–210, § 207(a), added par. (6).
+Subsec. (b)(6). Pub. L. 118–210, § 207(a), added par. (6).
 
-2021—Subsec. (b)(4). Pub. L. 116–315, § 1015(a)(1), added par. (4).
+2021—Subsec. (b)(4). Pub. L. 116–315, § 1015(a)(1), added par. (4).
 
-Subsec. (d). Pub. L. 116–315, § 1015(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 116–315, § 1015(a)(2), added subsec. (d).
 
-2016—Subsec. (a)(1). Pub. L. 114–315, § 408(b)(1), substituted “A State approving agency, or the Secretary when acting in the role of a State approving agency,” for “The Secretary or a State approving agency” and “not covered by section 3672 of this title” for “offered by proprietary for-profit educational institutions” in introductory provisions.
+2016—Subsec. (a)(1). Pub. L. 114–315, § 408(b)(1), substituted “A State approving agency, or the Secretary when acting in the role of a State approving agency,” for “The Secretary or a State approving agency” and “not covered by section 3672 of this title” for “offered by proprietary for-profit educational institutions” in introductory provisions.
 
-Subsec. (b). Pub. L. 114–315, § 408(b)(2)(A), substituted “the State approving agency, or the Secretary when acting in the role of a State approving agency,” for “the Secretary or the State approving agency” in introductory provisions.
+Subsec. (b). Pub. L. 114–315, § 408(b)(2)(A), substituted “the State approving agency, or the Secretary when acting in the role of a State approving agency,” for “the Secretary or the State approving agency” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 114–315, § 408(b)(2)(B), substituted “the State approving agency, or the Secretary when acting in the role of a State approving agency” for “the Secretary or the State approving agency”.
+Subsec. (b)(1). Pub. L. 114–315, § 408(b)(2)(B), substituted “the State approving agency, or the Secretary when acting in the role of a State approving agency” for “the Secretary or the State approving agency”.
 
-Subsec. (b)(3). Pub. L. 114–315, § 410(b), which directed amendment of subsec. (b)(3) by substituting “(3), and (14)” for “and (3)”, could not be executed because the words “and (3)” did not appear after amendment by Pub. L. 114–315, § 409(c)(1). See below.
+Subsec. (b)(3). Pub. L. 114–315, § 410(b), which directed amendment of subsec. (b)(3) by substituting “(3), and (14)” for “and (3)”, could not be executed because the words “and (3)” did not appear after amendment by Pub. L. 114–315, § 409(c)(1). See below.
 
-Pub. L. 114–315, § 409(c)(2), inserted before period at end “(or, with respect to such paragraphs (14) and (15), the requirements under such paragraphs are waived pursuant to subsection (f)(1) of section 3676 of this title)”.
+Pub. L. 114–315, § 409(c)(2), inserted before period at end “(or, with respect to such paragraphs (14) and (15), the requirements under such paragraphs are waived pursuant to subsection (f)(1) of section 3676 of this title)”.
 
-Pub. L. 114–315, § 409(c)(1), substituted “(3), (14), (15), and (16)” for “and (3)”.
+Pub. L. 114–315, § 409(c)(1), substituted “(3), (14), (15), and (16)” for “and (3)”.
 
-2011—Subsec. (a)(1). Pub. L. 111–377, § 203(c)(1), substituted “The Secretary or a State approving agency may approve accredited programs (including non-degree accredited programs) offered by proprietary for-profit educational institutions” for “A State approving agency may approve the courses offered by an educational institution” in introductory provisions.
+2011—Subsec. (a)(1). Pub. L. 111–377, § 203(c)(1), substituted “The Secretary or a State approving agency may approve accredited programs (including non-degree accredited programs) offered by proprietary for-profit educational institutions” for “A State approving agency may approve the courses offered by an educational institution” in introductory provisions.
 
-Subsec. (b). Pub. L. 111–377, § 203(c)(2), inserted “the Secretary or” after “this section,” in introductory provisions and after “as prescribed by” in par. (1).
+Subsec. (b). Pub. L. 111–377, § 203(c)(2), inserted “the Secretary or” after “this section,” in introductory provisions and after “as prescribed by” in par. (1).
 
 2004—Subsec. (c)(4). Pub. L. 108–454 added par. (4).
 
@@ -1079,21 +1079,21 @@ Subsec. (b). Pub. L. 111–377, § 203(c)(2), inserted “the Secretary or” 
 
 1992—Subsec. (a). Pub. L. 102–568 designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), redesignated former par. (2) as subpar. (B), substituted “the Act of February 23, 1917 (20 U.S.C. 11 et seq.);” for “sections 11–28 of title 20; or”, redesignated former par. (3) as subpar. (C), added subpar. (D) and pars. (2) and (3), and struck out former concluding provisions which read as follows: “For the purposes of this chapter the Secretary of Education shall publish a list of nationally recognized accrediting agencies and associations which the Secretary determines to be reliable authority as to the quality of training offered by an educational institution and the State approving agencies may, upon concurrence, utilize the accreditation of such accrediting associations or agencies for approval of the courses specifically accredited and approved by such accrediting association or agency. In making application for approval, the institution shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the school. The catalog or bulletin must specifically state its progress requirements for graduation and must include as a minimum the information required by sections 3676(b)(6) and (7) of this title.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1775 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1775 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3676(b)(6)” for “1776(b)(6)” in last sentence.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3676(b)(6)” for “1776(b)(6)” in last sentence.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3676(c)(7)” for “1776(c)(7)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3676(c)(7)” for “1776(c)(7)”.
 
 1989—Subsec. (b). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
 1980—Subsec. (a). Pub. L. 96–466 substituted “Secretary” for “Commissioner” in two places.
 
-1976—Subsec. (a). Pub. L. 94–502, § 513(a)(2), substituted “the Commissioner determines” for “he determines”.
+1976—Subsec. (a). Pub. L. 94–502, § 513(a)(2), substituted “the Commissioner determines” for “he determines”.
 
-Pub. L. 94–502, § 504(1), inserted provision requiring that copies of the school bulletin be certified by an authorized representative of the school and that the bulletin specify the progress requirements for graduation and certain other information.
+Pub. L. 94–502, § 504(1), inserted provision requiring that copies of the school bulletin be certified by an authorized representative of the school and that the bulletin specify the progress requirements for graduation and certain other information.
 
-Subsec. (b). Pub. L. 94–502, § 504(2), inserted provision requiring that school records contain as a minimum, except for attendance, the requirements set forth in section 1776(c)(7) of this title.
+Subsec. (b). Pub. L. 94–502, § 504(2), inserted provision requiring that school records contain as a minimum, except for attendance, the requirements set forth in section 1776(c)(7) of this title.
 
 1966—Subsec. (b). Pub. L. 89–358 inserted “or veteran” after “eligible person” in three places.
 
@@ -1113,7 +1113,7 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–454, title I, § 110(c)(2), Dec. 10, 2004, 118 Stat. 3605, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 305(a) of the Veterans Benefits Act of 2003 (Public Law 108–183; 117 Stat. 2660).”
+Pub. L. 108–454, title I, § 110(c)(2), Dec. 10, 2004, 118 Stat. 3605, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 305(a) of the Veterans Benefits Act of 2003 (Public Law 108–183; 117 Stat. 2660).”
 
 **Effective Date of 2003 Amendment**
 
@@ -1131,7 +1131,7 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub.
 
 Amendment by sections 504 and 513(a)(2) of Pub. L. 94–502 effective Dec. 1, 1976, and Oct. 15, 1976, respectively, see section 703(b), (c) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-### § 3676. Approval of nonaccredited courses
+### § 3676. Approval of nonaccredited courses
 
 **(a)** No course of education which has not been approved by a State approving agency pursuant to section 3675 of this title, which is offered by a public or private, profit or nonprofit, educational institution shall be approved for the purposes of this chapter unless the educational institution offering such course submits to the appropriate State approving agency a written application for approval of such course in accordance with the provisions of this chapter.
 
@@ -1181,9 +1181,9 @@ Amendment by sections 504 and 513(a)(2) of Pub. L. 94–502 effective Dec. 1, 19
 
 **(9)** The institution is financially sound and capable of fulfilling its commitments for training.
 
-**(10)** The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in section 3696(e) 1
+**(10)** The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in section 3696(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. The institution shall not be deemed to have met this requirement until the State approving agency—
 
@@ -1249,7 +1249,7 @@ if the Secretary determines, pursuant to regulations which the Secretary shall p
 
 **(2)** Not later than 30 days after the date on which the Secretary issues a waiver under paragraph (1), the Secretary shall submit to Congress notice of such waiver and a justification for issuing such waiver.
 
-(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 159, § 1776; amended Pub. L. 89–358, § 3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, § 606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3676 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, § 303, Dec. 22, 2006, 120 Stat. 3428; Pub. L. 110–389, title III, § 322, Oct. 10, 2008, 122 Stat. 4168; Pub. L. 114–315, title IV, §§ 409(a), (b), 410(a), Dec. 16, 2016, 130 Stat. 1559, 1561; Pub. L. 116–315, title I, §§ 1016(a), 1020(b), Jan. 5, 2021, 134 Stat. 4945, 4958; Pub. L. 118–210, title II, §§ 206(b)(1), 207(b)(2), Jan. 2, 2025, 138 Stat. 2764.)
+(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 159, § 1776; amended Pub. L. 89–358, § 3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, § 606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3676 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, § 303, Dec. 22, 2006, 120 Stat. 3428; Pub. L. 110–389, title III, § 322, Oct. 10, 2008, 122 Stat. 4168; Pub. L. 114–315, title IV, §§ 409(a), (b), 410(a), Dec. 16, 2016, 130 Stat. 1559, 1561; Pub. L. 116–315, title I, §§ 1016(a), 1020(b), Jan. 5, 2021, 134 Stat. 4945, 4958; Pub. L. 118–210, title II, §§ 206(b)(1), 207(b)(2), Jan. 2, 2025, 138 Stat. 2764.)
 
 **Editorial Notes**
 
@@ -1257,29 +1257,29 @@ if the Secretary determines, pursuant to regulations which the Secretary shall p
 
 Section 3696(e) of this title, referred to in subsec. (c)(10), probably should be a reference to section 3696(b) of this title, because section 3696(b), and not section 3696(e), describes substantial misrepresentation.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(15)(B), (16)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(15)(B), (16)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2025—Subsec. (c)(14) to (16). Pub. L. 118–210, § 206(b)(1), added par. (14) and redesignated former pars. (14) and (15) as (15) and (16), respectively. Former par. (16) redesignated (17).
+2025—Subsec. (c)(14) to (16). Pub. L. 118–210, § 206(b)(1), added par. (14) and redesignated former pars. (14) and (15) as (15) and (16), respectively. Former par. (16) redesignated (17).
 
-Subsec. (c)(17). Pub. L. 118–210, § 207(b)(2)(B), added par. (17). Former par. (17) redesignated (18).
+Subsec. (c)(17). Pub. L. 118–210, § 207(b)(2)(B), added par. (17). Former par. (17) redesignated (18).
 
-Pub. L. 118–210, § 206(b)(1)(B), redesignated par. (16) as (17).
+Pub. L. 118–210, § 206(b)(1)(B), redesignated par. (16) as (17).
 
-Subsec. (c)(18). Pub. L. 118–210, § 207(b)(2)(A), redesignated par. (17) as (18).
+Subsec. (c)(18). Pub. L. 118–210, § 207(b)(2)(A), redesignated par. (17) as (18).
 
-2021—Subsec. (c)(10). Pub. L. 116–315, § 1020(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not be deemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.”
+2021—Subsec. (c)(10). Pub. L. 116–315, § 1020(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not be deemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.”
 
-Subsec. (c)(14)(B), (15)(B). Pub. L. 116–315, § 1016(a), substituted “a specialized accrediting agency for programs of legal education” for “an accrediting agency” and inserted “, from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State” before period at end.
+Subsec. (c)(14)(B), (15)(B). Pub. L. 116–315, § 1016(a), substituted “a specialized accrediting agency for programs of legal education” for “an accrediting agency” and inserted “, from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State” before period at end.
 
-2016—Subsec. (c)(14), (15). Pub. L. 114–315, § 409(a)(2), added pars. (14) and (15). Former par. (14) redesignated (16).
+2016—Subsec. (c)(14), (15). Pub. L. 114–315, § 409(a)(2), added pars. (14) and (15). Former par. (14) redesignated (16).
 
-Subsec. (c)(16). Pub. L. 114–315, § 410(a), inserted before period at end “if the Secretary, in consultation with the State approving agency and pursuant to regulations prescribed to carry out this paragraph, determines such criteria are necessary and treat public, private, and proprietary for-profit educational institutions equitably”.
+Subsec. (c)(16). Pub. L. 114–315, § 410(a), inserted before period at end “if the Secretary, in consultation with the State approving agency and pursuant to regulations prescribed to carry out this paragraph, determines such criteria are necessary and treat public, private, and proprietary for-profit educational institutions equitably”.
 
-Pub. L. 114–315, § 409(a)(1), redesignated par. (14) as (16).
+Pub. L. 114–315, § 409(a)(1), redesignated par. (14) as (16).
 
-Subsec. (f). Pub. L. 114–315, § 409(b), added subsec. (f).
+Subsec. (f). Pub. L. 114–315, § 409(b), added subsec. (f).
 
 2008—Subsec. (c)(4). Pub. L. 110–389 struck out “and the Secretary” before “so notified”.
 
@@ -1287,9 +1287,9 @@ Subsec. (f). Pub. L. 114–315, § 409(b), added subsec. (f).
 
 1992—Subsec. (e). Pub. L. 102–568 added subsec. (e).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1776 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1776 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3675” for “1775”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3675” for “1775”.
 
 1989—Subsecs. (c)(4), (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -1305,13 +1305,13 @@ Amendment by section 207 of Pub. L. 118–210, effective Aug. 1, 2025, and appli
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–315, title I, § 1016(b), Jan. 5, 2021, 134 Stat. 4946, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
+Pub. L. 116–315, title I, § 1016(b), Jan. 5, 2021, 134 Stat. 4946, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
 
-Pub. L. 116–315, title I, § 1020(c), Jan. 5, 2021, 134 Stat. 4958, provided that: “The amendments made by this section [amending this section and section 3696 of this title] shall take effect on August 1, 2021.”
+Pub. L. 116–315, title I, § 1020(c), Jan. 5, 2021, 134 Stat. 4958, provided that: “The amendments made by this section [amending this section and section 3696 of this title] shall take effect on August 1, 2021.”
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title IV, § 410(c), Dec. 16, 2016, 130 Stat. 1561, provided that:
+Pub. L. 114–315, title IV, § 410(c), Dec. 16, 2016, 130 Stat. 1561, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall apply with respect to—
 
@@ -1323,7 +1323,7 @@ Pub. L. 114–315, title IV, § 410(c), Dec. 16, 2016, 130 Stat. 1561, provide
 
 Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
 
-### § 3677. Approval of training on the job
+### § 3677. Approval of training on the job
 
 **(a)** Any State approving agency may approve a program of training on the job (other than a program of apprenticeship) only when it finds that the job which is the objective of the training is one in which progression and appointment to the next higher classification are based upon skills learned through organized and supervised training on the job and not on such factors as length of service and normal turnover, and that the provisions of subsections (b) and (c) of this section are met.
 
@@ -1369,7 +1369,7 @@ Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of P
 
 **(B)** Not later than 18 months after the date on which the initial report under subparagraph (A) is submitted, the Secretary shall submit to Congress a final report on the pilot project. The final report shall include recommendations of the Secretary with respect to continuation of the pilot project and with respect to expansion of the types of claims for which the extended period of on the job training is available to train such employees.
 
-(Added Pub. L. 90–77, title III, § 304(d), Aug. 31, 1967, 81 Stat. 186, § 1777; amended Pub. L. 91–219, title II, § 212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, § 314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, § 513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3677, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, § 205(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 108–454, title I, § 108, Dec. 10, 2004, 118 Stat. 3604; Pub. L. 110–389, title III, § 325, Oct. 10, 2008, 122 Stat. 4169.)
+(Added Pub. L. 90–77, title III, § 304(d), Aug. 31, 1967, 81 Stat. 186, § 1777; amended Pub. L. 91–219, title II, § 212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, § 314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, § 513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3677, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, § 205(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 108–454, title I, § 108, Dec. 10, 2004, 118 Stat. 3604; Pub. L. 110–389, title III, § 325, Oct. 10, 2008, 122 Stat. 4169.)
 
 **Editorial Notes**
 
@@ -1397,7 +1397,7 @@ Subsec. (c). Pub. L. 94–502 substituted “the veteran or person” for “he�
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title II, § 205(b), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to approval of programs of training on the job under section 3677 of title 38, United States Code, on or after October 1, 1998.”
+Pub. L. 105–368, title II, § 205(b), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to approval of programs of training on the job under section 3677 of title 38, United States Code, on or after October 1, 1998.”
 
 **Effective Date of 1976 Amendment**
 
@@ -1407,7 +1407,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 Section effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title.
 
-### § 3678. Notice of approval of courses
+### § 3678. Notice of approval of courses
 
 The State approving agency, upon determining that an educational institution has complied with all the requirements of this chapter, will issue a letter to such institution setting forth the courses which have been approved for the purposes of this chapter, and will furnish an official copy of such letter and any subsequent amendments to the Secretary. The letter of approval shall be accompanied by a copy of the catalog or bulletin of the institution, as approved by the State approving agency, and shall contain the following information:
 
@@ -1425,7 +1425,7 @@ The State approving agency, upon determining that an educational institution has
 
 **(7)** such other fair and reasonable provisions as are considered necessary by the appropriate State approving agency.
 
-(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 162, § 1777; renumbered § 1778, Pub. L. 90–77, title III, § 304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3678, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 162, § 1777; renumbered § 1778, Pub. L. 90–77, title III, § 304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3678, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1435,7 +1435,7 @@ The State approving agency, upon determining that an educational institution has
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-### § 3679. Disapproval of courses
+### § 3679. Disapproval of courses
 
 **(a)**
 
@@ -1575,9 +1575,9 @@ The State approving agency, upon determining that an educational institution has
 
 **(A)** Carries out deceptive or persistent recruiting techniques, including on military installations, that may include—
 
-**(i)** misrepresentation (as defined in section 3696(e)(2)(B) 1
+**(i)** misrepresentation (as defined in section 3696(e)(2)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) or payment of incentive compensation;
 
@@ -1605,9 +1605,9 @@ of this title) or payment of incentive compensation;
 
 **(ii)** Suspending the approval of the courses and programs of education offered by the educational institution by disapproving new enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution.
 
-**(iii)** Revoking the approval of the courses and programs of education offered by the educational institution by disapproving all enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution 2
+**(iii)** Revoking the approval of the courses and programs of education offered by the educational institution by disapproving all enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution 2
 
-<sup>2</sup>  So in original. Probably should be followed by a period.
+<sup>2</sup> So in original. Probably should be followed by a period.
 
 **(B)**
 
@@ -1651,85 +1651,85 @@ of this title) or payment of incentive compensation;
 
 **(8)** In this subsection, the term “covered individual” means an individual who is pursuing a course of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10.
 
-(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 162, § 1778; renumbered § 1779, Pub. L. 90–77, title III, § 304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, § 513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, § 423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3679, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, § 203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, § 702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, § 409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, § 415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§ 409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, § 105(c)(7), Aug. 16, 2017, 131 Stat. 976; Pub. L. 115–251, title III, § 301(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 115–407, title I, § 103(a), Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–283, div. A, title IX, § 926(a)(46), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title I, §§ 1005(a), 1017(a), 1018(a), Jan. 5, 2021, 134 Stat. 4939, 4946; Pub. L. 117–16, §§ 6, 7(a)(4), June 8, 2021, 135 Stat. 284, 285; Pub. L. 117–68, § 2(a), (b), Nov. 30, 2021, 135 Stat. 1493; Pub. L. 117–76, § 3(b)(1), Dec. 21, 2021, 135 Stat. 1518; Pub. L. 118–210, title II, § 206(b)(2)(C), (c), Jan. 2, 2025, 138 Stat. 2764; Pub. L. 119–55, § 2(a), (b), Dec. 12, 2025, 139 Stat. 707.)
+(Added Pub. L. 88–126, § 1, Sept. 23, 1963, 77 Stat. 162, § 1778; renumbered § 1779, Pub. L. 90–77, title III, § 304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, § 513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, § 423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3679, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, § 203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, § 702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, § 409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, § 415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§ 409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, § 105(c)(7), Aug. 16, 2017, 131 Stat. 976; Pub. L. 115–251, title III, § 301(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 115–407, title I, § 103(a), Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–283, div. A, title IX, § 926(a)(46), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title I, §§ 1005(a), 1017(a), 1018(a), Jan. 5, 2021, 134 Stat. 4939, 4946; Pub. L. 117–16, §§ 6, 7(a)(4), June 8, 2021, 135 Stat. 284, 285; Pub. L. 117–68, § 2(a), (b), Nov. 30, 2021, 135 Stat. 1493; Pub. L. 117–76, § 3(b)(1), Dec. 21, 2021, 135 Stat. 1518; Pub. L. 118–210, title II, § 206(b)(2)(C), (c), Jan. 2, 2025, 138 Stat. 2764; Pub. L. 119–55, § 2(a), (b), Dec. 12, 2025, 139 Stat. 707.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3696(e)(2)(B) of this title, referred to in subsec. (f)(2)(A)(i), probably should be a reference to section 3696(b)(2)(B) of this title, because section 3696(b)(2)(B), as amended generally by Pub. L. 116–315, § 1020(a)(1), defines the term “misrepresentation”, and section 3696(e) does not contain a par. (2)(B).
+Section 3696(e)(2)(B) of this title, referred to in subsec. (f)(2)(A)(i), probably should be a reference to section 3696(b)(2)(B) of this title, because section 3696(b)(2)(B), as amended generally by Pub. L. 116–315, § 1020(a)(1), defines the term “misrepresentation”, and section 3696(e) does not contain a par. (2)(B).
 
 **Amendments**
 
-2025—Subsec. (c)(1). Pub. L. 119–55, § 2(a)(1), inserted “, or chapter 1606 of title 10,” after “chapter 30, 31, 33, or 35 of this title”.
+2025—Subsec. (c)(1). Pub. L. 119–55, § 2(a)(1), inserted “, or chapter 1606 of title 10,” after “chapter 30, 31, 33, or 35 of this title”.
 
-Subsec. (c)(2)(E). Pub. L. 119–55, § 2(a)(2), added subpar. (E).
+Subsec. (c)(2)(E). Pub. L. 119–55, § 2(a)(2), added subpar. (E).
 
-Subsec. (c)(6). Pub. L. 119–55, § 2(a)(3), inserted “, or chapter 1606 of title 10” before period at end.
+Subsec. (c)(6). Pub. L. 119–55, § 2(a)(3), inserted “, or chapter 1606 of title 10” before period at end.
 
-Subsec. (d). Pub. L. 118–210, § 206(b)(2)(C), substituted “described in paragraph (15) or (16)” for “described in paragraph (14) or (15)”.
+Subsec. (d). Pub. L. 118–210, § 206(b)(2)(C), substituted “described in paragraph (15) or (16)” for “described in paragraph (14) or (15)”.
 
-Subsec. (e)(1)(A). Pub. L. 119–55, § 2(b)(1)(A), inserted “, or chapter 1606 of title 10,” after “chapter 31, 33, or 35 of this title” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 119–55, § 2(b)(1)(A), inserted “, or chapter 1606 of title 10,” after “chapter 31, 33, or 35 of this title” in introductory provisions.
 
-Subsec. (e)(1)(B). Pub. L. 119–55, § 2(b)(1)(B), substituted “chapter 31, 33, or 35 of this title, or chapter 1606 of title 10” for “chapter 31 33, or 35 of this title”.
+Subsec. (e)(1)(B). Pub. L. 119–55, § 2(b)(1)(B), substituted “chapter 31, 33, or 35 of this title, or chapter 1606 of title 10” for “chapter 31 33, or 35 of this title”.
 
-Subsec. (e)(2). Pub. L. 119–55, § 2(b)(2), substituted “chapter 31, 33, or 35 of this title, or chapter 1606 of title 10” for “chapter 31 33, or 35 of this title”.
+Subsec. (e)(2). Pub. L. 119–55, § 2(b)(2), substituted “chapter 31, 33, or 35 of this title, or chapter 1606 of title 10” for “chapter 31 33, or 35 of this title”.
 
-Subsec. (f)(1)(I). Pub. L. 118–210, § 206(c), added subpar. (I).
+Subsec. (f)(1)(I). Pub. L. 118–210, § 206(c), added subpar. (I).
 
-2021—Subsec. (a)(1). Pub. L. 116–315, § 1017(a)(1), inserted “(including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey)” after “requirements of this chapter”.
+2021—Subsec. (a)(1). Pub. L. 116–315, § 1017(a)(1), inserted “(including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey)” after “requirements of this chapter”.
 
-Subsec. (a)(3). Pub. L. 117–16, § 7(a)(4), redesignated subsec. (f) defining term “risk-based survey” in this section as par. (3) of subsec. (a).
+Subsec. (a)(3). Pub. L. 117–16, § 7(a)(4), redesignated subsec. (f) defining term “risk-based survey” in this section as par. (3) of subsec. (a).
 
-Subsec. (c)(1). Pub. L. 117–68, § 2(a)(1), substituted “33, or 35” for “or 33”.
+Subsec. (c)(1). Pub. L. 117–68, § 2(a)(1), substituted “33, or 35” for “or 33”.
 
-Subsec. (c)(2)(A). Pub. L. 116–315, § 1005(a)(1), struck out “less than three years before the date of enrollment in the course concerned” before period at end.
+Subsec. (c)(2)(A). Pub. L. 116–315, § 1005(a)(1), struck out “less than three years before the date of enrollment in the course concerned” before period at end.
 
 Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-Subsec. (c)(2)(D). Pub. L. 117–68, § 2(a)(2), added subpar. (D).
+Subsec. (c)(2)(D). Pub. L. 117–68, § 2(a)(2), added subpar. (D).
 
-Subsec. (c)(4). Pub. L. 116–315, § 1005(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (c)(4). Pub. L. 116–315, § 1005(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(6). Pub. L. 117–68, § 2(a)(3), substituted “33, and 35” for “and 33”.
+Subsec. (c)(6). Pub. L. 117–68, § 2(a)(3), substituted “33, and 35” for “and 33”.
 
-Subsec. (e)(1)(A). Pub. L. 117–68, § 2(b)(1)(A), substituted “, 33, or 35” for “or 33” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 117–68, § 2(b)(1)(A), substituted “, 33, or 35” for “or 33” in introductory provisions.
 
-Subsec. (e)(1)(B). Pub. L. 117–68, § 2(b)(1)(B), substituted “33, or 35” for “or 33”.
+Subsec. (e)(1)(B). Pub. L. 117–68, § 2(b)(1)(B), substituted “33, or 35” for “or 33”.
 
-Subsec. (e)(2). Pub. L. 117–68, § 2(b)(2), substituted “33, or 35” for “or 33”.
+Subsec. (e)(2). Pub. L. 117–68, § 2(b)(2), substituted “33, or 35” for “or 33”.
 
-Subsec. (f). Pub. L. 117–16, § 7(a)(4), redesignated subsec. (f) defining term “risk-based survey” in this section as par. (3) of subsec. (a).
+Subsec. (f). Pub. L. 117–16, § 7(a)(4), redesignated subsec. (f) defining term “risk-based survey” in this section as par. (3) of subsec. (a).
 
-Pub. L. 116–315, § 1018(a), added subsec. (f) related to action by State approving agency.
+Pub. L. 116–315, § 1018(a), added subsec. (f) related to action by State approving agency.
 
-Pub. L. 116–315, § 1017(a)(2), added subsec. (f) defining term “risk-based survey” in this section.
+Pub. L. 116–315, § 1017(a)(2), added subsec. (f) defining term “risk-based survey” in this section.
 
-Subsec. (f)(1)(E). Pub. L. 117–16, § 6(1), inserted “, to the maximum extent practicable,” after “including”.
+Subsec. (f)(1)(E). Pub. L. 117–16, § 6(1), inserted “, to the maximum extent practicable,” after “including”.
 
-Subsec. (f)(2). Pub. L. 117–16, § 6(2)(A), inserted “, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services,” after “educational institution” in introductory provisions.
+Subsec. (f)(2). Pub. L. 117–16, § 6(2)(A), inserted “, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services,” after “educational institution” in introductory provisions.
 
-Subsec. (f)(2)(A)(ii). Pub. L. 117–16, § 6(2)(B), substituted “one-month” for “1-month”.
+Subsec. (f)(2)(A)(ii). Pub. L. 117–16, § 6(2)(B), substituted “one-month” for “1-month”.
 
-Subsec. (f)(2)(B). Pub. L. 117–76, § 3(b)(1)(A)(i), inserted “, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance” after “assistance”.
+Subsec. (f)(2)(B). Pub. L. 117–76, § 3(b)(1)(A)(i), inserted “, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance” after “assistance”.
 
-Pub. L. 117–16, § 6(2)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “Pays inducements, including any gratuity, favor, discount, entertainment, hospitality, loan, transportation, lodging, meals, or other item having a monetary value of more than a de minimis amount, to any individual or entity, or its agents including third party lead generators or marketing firms other than salaries paid to employees or fees paid to contractors in conformity with all applicable laws for the purpose of securing enrollments of covered individuals or obtaining access to educational assistance under this title, with the exception of scholarships, grants, and tuition reductions provided by the educational institution.”
+Pub. L. 117–16, § 6(2)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “Pays inducements, including any gratuity, favor, discount, entertainment, hospitality, loan, transportation, lodging, meals, or other item having a monetary value of more than a de minimis amount, to any individual or entity, or its agents including third party lead generators or marketing firms other than salaries paid to employees or fees paid to contractors in conformity with all applicable laws for the purpose of securing enrollments of covered individuals or obtaining access to educational assistance under this title, with the exception of scholarships, grants, and tuition reductions provided by the educational institution.”
 
-Subsec. (f)(2)(C). Pub. L. 117–76, § 3(b)(1)(A)(ii), added subpar. (C).
+Subsec. (f)(2)(C). Pub. L. 117–76, § 3(b)(1)(A)(ii), added subpar. (C).
 
-Subsec. (f)(4)(A)(ii), (iii). Pub. L. 117–16, § 6(3), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “Disapproving a course for purposes of this chapter.”
+Subsec. (f)(4)(A)(ii), (iii). Pub. L. 117–16, § 6(3), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “Disapproving a course for purposes of this chapter.”
 
-Subsec. (f)(5)(A). Pub. L. 117–16, § 6(4), substituted “one-academic-year period” for “1-academic-year period”.
+Subsec. (f)(5)(A). Pub. L. 117–16, § 6(4), substituted “one-academic-year period” for “1-academic-year period”.
 
-Subsec. (f)(7), (8). Pub. L. 117–76, § 3(b)(1)(B), (C), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (f)(7), (8). Pub. L. 117–76, § 3(b)(1)(B), (C), added par. (7) and redesignated former par. (7) as (8).
 
-2018—Subsec. (c)(1). Pub. L. 115–251, § 301(a)(1), substituted “chapter 30, 31, or 33” for “chapter 30 or 33”.
+2018—Subsec. (c)(1). Pub. L. 115–251, § 301(a)(1), substituted “chapter 30, 31, or 33” for “chapter 30 or 33”.
 
-Subsec. (c)(2)(C). Pub. L. 115–251, § 301(a)(2), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 115–251, § 301(a)(2), added subpar. (C).
 
-Subsec. (c)(3). Pub. L. 115–251, § 301(a)(3), substituted “paragraph (2)(A), (2)(B), or (2)(C)” for “paragraph (2)(A) or (2)(B)”.
+Subsec. (c)(3). Pub. L. 115–251, § 301(a)(3), substituted “paragraph (2)(A), (2)(B), or (2)(C)” for “paragraph (2)(A) or (2)(B)”.
 
-Subsec. (c)(6). Pub. L. 115–251, § 301(a)(4), substituted “chapters 30, 31, and 33” for “chapters 30 and 33”.
+Subsec. (c)(6). Pub. L. 115–251, § 301(a)(4), substituted “chapters 30, 31, and 33” for “chapters 30 and 33”.
 
 Subsec. (e). Pub. L. 115–407 added subsec. (e).
 
@@ -1737,9 +1737,9 @@ Subsec. (e). Pub. L. 115–407 added subsec. (e).
 
 2016—Subsec. (a). Pub. L. 114–228 substituted “(1) Except as provided by paragraph (2), any course” for “Any course” and added par. (2).
 
-Subsec. (c)(2)(B). Pub. L. 114–315, § 417(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An individual who is entitled to assistance under section 3311(b)(9) or 3319 of this title by virtue of such individual’s relationship to a veteran described in subparagraph (A).”
+Subsec. (c)(2)(B). Pub. L. 114–315, § 417(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An individual who is entitled to assistance under section 3311(b)(9) or 3319 of this title by virtue of such individual’s relationship to a veteran described in subparagraph (A).”
 
-Subsec. (d). Pub. L. 114–315, § 409(e), added subsec. (d).
+Subsec. (d). Pub. L. 114–315, § 409(e), added subsec. (d).
 
 2014—Subsec. (c). Pub. L. 113–146 added subsec. (c).
 
@@ -1757,23 +1757,23 @@ Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generall
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–55, § 2(c), Dec. 12, 2025, 139 Stat. 707, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 12, 2025] and shall apply with respect to an academic period that begins on or after August 1, 2026.”
+Pub. L. 119–55, § 2(c), Dec. 12, 2025, 139 Stat. 707, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 12, 2025] and shall apply with respect to an academic period that begins on or after August 1, 2026.”
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–76, § 3(b)(2), Dec. 21, 2021, 135 Stat. 1518, provided that: “The Secretary of Veterans Affairs may not carry out subsection (f) of section 3679 of title 38, United States Code, until August 1, 2022, except that, beginning on June 15, 2022, an educational institution may submit an application for a waiver under paragraph (5) of such subsection.”
+Pub. L. 117–76, § 3(b)(2), Dec. 21, 2021, 135 Stat. 1518, provided that: “The Secretary of Veterans Affairs may not carry out subsection (f) of section 3679 of title 38, United States Code, until August 1, 2022, except that, beginning on June 15, 2022, an educational institution may submit an application for a waiver under paragraph (5) of such subsection.”
 
-Pub. L. 117–68, § 2(c), Nov. 30, 2021, 135 Stat. 1494, provided that: “The amendments made by this Act [amending this section] shall take effect on the date of the enactment of this Act [Nov. 30, 2021] and shall apply with respect to an academic period that begins on or after August 1, 2022.”
+Pub. L. 117–68, § 2(c), Nov. 30, 2021, 135 Stat. 1494, provided that: “The amendments made by this Act [amending this section] shall take effect on the date of the enactment of this Act [Nov. 30, 2021] and shall apply with respect to an academic period that begins on or after August 1, 2022.”
 
-Pub. L. 116–315, title I, § 1005(b), Jan. 5, 2021, 134 Stat. 4940, provided that: “The amendments made by this section [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2021.”
+Pub. L. 116–315, title I, § 1005(b), Jan. 5, 2021, 134 Stat. 4940, provided that: “The amendments made by this section [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2021.”
 
-Pub. L. 116–315, title I, § 1017(b), Jan. 5, 2021, 134 Stat. 4946, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
+Pub. L. 116–315, title I, § 1017(b), Jan. 5, 2021, 134 Stat. 4946, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
 
-Pub. L. 116–315, title I, § 1018(b), Jan. 5, 2021, 134 Stat. 4949, provided that: “The amendment made by this section [amending this section] shall take effect on June 15, 2021, and shall apply to an educational institution beginning on August 1, 2021, except that an educational institution may submit an application for a waiver under subsection (f)(5) of section 3679 of title 38, United States Code, as added by subsection (a), beginning on June 15, 2021.”
+Pub. L. 116–315, title I, § 1018(b), Jan. 5, 2021, 134 Stat. 4949, provided that: “The amendment made by this section [amending this section] shall take effect on June 15, 2021, and shall apply to an educational institution beginning on August 1, 2021, except that an educational institution may submit an application for a waiver under subsection (f)(5) of section 3679 of title 38, United States Code, as added by subsection (a), beginning on June 15, 2021.”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–251, title III, § 301(b), Sept. 29, 2018, 132 Stat. 3178, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to courses of education provided during a quarter, semester, or term, as applicable, that begins after March 1, 2019.”
+Pub. L. 115–251, title III, § 301(b), Sept. 29, 2018, 132 Stat. 3178, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to courses of education provided during a quarter, semester, or term, as applicable, that begins after March 1, 2019.”
 
 **Effective Date of 2017 Amendment**
 
@@ -1781,11 +1781,11 @@ Amendment by Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title IV, § 417(b), Dec. 16, 2016, 130 Stat. 1565, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a course, semester, or term that begins after July 1, 2017.”
+Pub. L. 114–315, title IV, § 417(b), Dec. 16, 2016, 130 Stat. 1565, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a course, semester, or term that begins after July 1, 2017.”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–146, title VII, § 702(b), Aug. 7, 2014, 128 Stat. 1797, provided that: “Subsection (c) of section 3679 of title 38, United States Code (as added by subsection (a) of this section), shall apply with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015.”
+Pub. L. 113–146, title VII, § 702(b), Aug. 7, 2014, 128 Stat. 1797, provided that: “Subsection (c) of section 3679 of title 38, United States Code (as added by subsection (a) of this section), shall apply with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015.”
 
 **Effective Date of 2011 Amendment**
 
@@ -1797,7 +1797,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **Rule of Construction**
 
-Pub. L. 115–407, title I, § 103(c), Dec. 31, 2018, 132 Stat. 5370, provided that: “In a case in which an individual is unable to meet a financial obligation to an educational institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 or 33 of such title [title 38] and the amount of such disbursement is less than anticipated, nothing in section 3679(e) of such title, as added by subsection (a), shall be construed to prohibit an educational institution from requiring additional payment or imposing a fee for the amount that is the difference between the amount of the financial obligation and the amount of the disbursement.”
+Pub. L. 115–407, title I, § 103(c), Dec. 31, 2018, 132 Stat. 5370, provided that: “In a case in which an individual is unable to meet a financial obligation to an educational institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 or 33 of such title [title 38] and the amount of such disbursement is less than anticipated, nothing in section 3679(e) of such title, as added by subsection (a), shall be construed to prohibit an educational institution from requiring additional payment or imposing a fee for the amount that is the difference between the amount of the financial obligation and the amount of the disbursement.”
 
 ## SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
@@ -1805,9 +1805,9 @@ Pub. L. 115–407, title I, § 103(c), Dec. 31, 2018, 132 Stat. 5370, provided
 
 **Amendments**
 
-2023—Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122, redesignated subchapter II of this chapter as this subchapter.
+2023—Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122, redesignated subchapter II of this chapter as this subchapter.
 
-### § 3680. Payment of educational assistance or subsistence allowances
+### § 3680. Payment of educational assistance or subsistence allowances
 
 **(a) Period for Which Payment May Be Made.—**
 
@@ -1909,21 +1909,21 @@ and, in either case, shall also state the number of semester or clock-hours to b
 
 **(3)** Any amount paid under this subsection shall not be counted for purposes of the limitation on allowances under subsection (a)(2)(A).
 
-(Added Pub. L. 92–540, title II, § 201, Oct. 24, 1972, 86 Stat. 1076, § 1780; amended Pub. L. 93–208, Dec. 28, 1973, 87 Stat. 907; Pub. L. 93–508, title II, § 209, Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, §§ 505, 506, 513(a)(5)–(12), Oct. 15, 1976, 90 Stat. 2400, 2402, 2403; Pub. L. 96–466, title III, §§ 341, 342, title VI, §§ 601(c), (d), 602(c), Oct. 17, 1980, 94 Stat. 2198, 2208, 2209; Pub. L. 97–35, title XX, § 2003(c), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–295, § 4(52), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, § 205(c), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 99–576, title III, §§ 315(a)(1), 316, title VII, § 701(59), Oct. 28, 1986, 100 Stat. 3274, 3296; Pub. L. 100–689, title I, § 121(a), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 101–237, title IV, §§ 412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3680 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, § 6(a), Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title III, § 314, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, § 605(a)(2)(B), title XII, § 1201(i)(6), Nov. 2, 1994, 108 Stat. 4672, 4688; Pub. L. 106–419, title I, § 121(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, § 104(b), Dec. 27, 2001, 115 Stat. 981; Pub. L. 109–233, title V, § 503(8)(A), June 15, 2006, 120 Stat. 416; Pub. L. 111–377, title II, § 206(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 115–48, title I, § 109(b), Aug. 16, 2017, 131 Stat. 980; Pub. L. 115–89, § 3, Nov. 21, 2017, 131 Stat. 1279; Pub. L. 116–315, title I, § 1007(b), Jan. 5, 2021, 134 Stat. 4940; Pub. L. 117–76, § 4(a), Dec. 21, 2021, 135 Stat. 1519; Pub. L. 117–333, § 6(a), Jan. 5, 2023, 136 Stat. 6129; Pub. L. 118–210, title II, § 208(a), Jan. 2, 2025, 138 Stat. 2765.)
+(Added Pub. L. 92–540, title II, § 201, Oct. 24, 1972, 86 Stat. 1076, § 1780; amended Pub. L. 93–208, Dec. 28, 1973, 87 Stat. 907; Pub. L. 93–508, title II, § 209, Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, §§ 505, 506, 513(a)(5)–(12), Oct. 15, 1976, 90 Stat. 2400, 2402, 2403; Pub. L. 96–466, title III, §§ 341, 342, title VI, §§ 601(c), (d), 602(c), Oct. 17, 1980, 94 Stat. 2198, 2208, 2209; Pub. L. 97–35, title XX, § 2003(c), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–295, § 4(52), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, § 205(c), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 99–576, title III, §§ 315(a)(1), 316, title VII, § 701(59), Oct. 28, 1986, 100 Stat. 3274, 3296; Pub. L. 100–689, title I, § 121(a), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 101–237, title IV, §§ 412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3680 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, § 6(a), Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title III, § 314, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, § 605(a)(2)(B), title XII, § 1201(i)(6), Nov. 2, 1994, 108 Stat. 4672, 4688; Pub. L. 106–419, title I, § 121(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, § 104(b), Dec. 27, 2001, 115 Stat. 981; Pub. L. 109–233, title V, § 503(8)(A), June 15, 2006, 120 Stat. 416; Pub. L. 111–377, title II, § 206(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 115–48, title I, § 109(b), Aug. 16, 2017, 131 Stat. 980; Pub. L. 115–89, § 3, Nov. 21, 2017, 131 Stat. 1279; Pub. L. 116–315, title I, § 1007(b), Jan. 5, 2021, 134 Stat. 4940; Pub. L. 117–76, § 4(a), Dec. 21, 2021, 135 Stat. 1519; Pub. L. 117–333, § 6(a), Jan. 5, 2023, 136 Stat. 6129; Pub. L. 118–210, title II, § 208(a), Jan. 2, 2025, 138 Stat. 2765.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a)(3). Pub. L. 118–210 designated existing provisions as subpar. (A), struck out “, including a monthly housing stipend described in section 3313(c) of this title,” after “chapter 1606 of title 10”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, redesignated cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), and added subpar. (B).
+2025—Subsec. (a)(3). Pub. L. 118–210 designated existing provisions as subpar. (A), struck out “, including a monthly housing stipend described in section 3313(c) of this title,” after “chapter 1606 of title 10”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, redesignated cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), and added subpar. (B).
 
 2023—Subsec. (h). Pub. L. 117–333 added subsec. (h).
 
-2021—Subsec. (a)(1). Pub. L. 117–76, § 4(a)(1), substituted “in paragraphs (2) and (3)” for “in paragraph (2)” in introductory provisions.
+2021—Subsec. (a)(1). Pub. L. 117–76, § 4(a)(1), substituted “in paragraphs (2) and (3)” for “in paragraph (2)” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 116–315 inserted “or a subsistence allowance described in section 3108” before “, during” and “or allowance” after “such a stipend”.
+Subsec. (a)(2)(B). Pub. L. 116–315 inserted “or a subsistence allowance described in section 3108” before “, during” and “or allowance” after “such a stipend”.
 
-Subsec. (a)(3). Pub. L. 117–76, § 4(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 117–76, § 4(a)(2), added par. (3).
 
 2017—Subsec. (a). Pub. L. 115–48 designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and former subpars. (A) and (B) of par. (3) as cls. (i) and (ii), respectively, of subpar. (C), substituted “Except as provided in paragraph (2), payment of” for “Payment of” in introductory provisions of par. (1) and “described in clause (i)” for “described in subclause (A) of this clause” in cl. (ii) of par. (1)(C), added par. (2), and struck out concluding provisions which read as follows: “Notwithstanding the foregoing, the Secretary may, subject to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in clause (1) of this subsection during periods when schools are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation. However, the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks.”
 
@@ -1941,89 +1941,89 @@ Subsec. (c). Pub. L. 115–89 substituted “receives from the training establis
 
 2000—Subsec. (a)(C). Pub. L. 106–419 amended subcl. (C) generally. Prior to amendment, subcl. (C) read as follows: “during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the eligible veteran or eligible person on an individual semester, term, or quarter basis if the interval between such periods does not exceed one full calendar month.”
 
-1994—Subsec. (a)(2) to (4). Pub. L. 103–446, § 605(a)(2)(B), inserted “or” at end of par. (2), substituted period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “to any eligible veteran or person for pursuit of a program of education exclusively by correspondence as authorized under section 3686 of this title or for the pursuit of a correspondence portion of a combination correspondence-residence course leading to a vocational objective where the normal period of time required to complete such correspondence course or portion is less than 6 months. A certification as to the normal period of time required to complete the course must be made to the Secretary by the educational institution.”
+1994—Subsec. (a)(2) to (4). Pub. L. 103–446, § 605(a)(2)(B), inserted “or” at end of par. (2), substituted period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “to any eligible veteran or person for pursuit of a program of education exclusively by correspondence as authorized under section 3686 of this title or for the pursuit of a correspondence portion of a combination correspondence-residence course leading to a vocational objective where the normal period of time required to complete such correspondence course or portion is less than 6 months. A certification as to the normal period of time required to complete the course must be made to the Secretary by the educational institution.”
 
-Subsec. (a)(C). Pub. L. 103–446, § 1201(i)(6), substituted “one full” for “1 full”.
+Subsec. (a)(C). Pub. L. 103–446, § 1201(i)(6), substituted “one full” for “1 full”.
 
 1992—Subsec. (e). Pub. L. 102–568 designated existing provisions as par. (1), substituted “Subject to paragraph (2), if” for “If”, struck out comma after “eligible person”, and added par. (2).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1780 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1780 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3108, 3482, 3491, or 3532” for “1508, 1682, 1691, or 1732” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3108, 3482, 3491, or 3532” for “1508, 1682, 1691, or 1732” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 102–127 amended cl. (3) generally. Prior to amendment, cl. (3) read as follows: “to any eligible veteran or person for a course for which the grade assigned is not used in computing the requirements for graduation including a course from which the student withdraws unless the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal by an eligible veteran or person from a course or courses with respect to which such veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof; or”.
 
-Subsec. (a)(4). Pub. L. 102–83, § 5(c)(1), substituted “3686” for “1786”.
+Subsec. (a)(4). Pub. L. 102–83, § 5(c)(1), substituted “3686” for “1786”.
 
 Subsec. (e). Pub. L. 102–40 substituted “5302” for “3102”.
 
-Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “3482(b) or 3532(a)(2)” for “1682(b) or 1732(a)(2)”.
+Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “3482(b) or 3532(a)(2)” for “1682(b) or 1732(a)(2)”.
 
-1989—Subsec. (a). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+1989—Subsec. (a). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 101–237, § 412(a), struck out “enrolled in a course which leads to a standard college degree, or a course that meets the requirements of section 1788(a)(7) of this title,” after “or eligible person” in cl. (1) of second sentence, redesignated cls. (3) to (5) as (2) to (4), respectively, and struck out former cl. (2) which read as follows: “to any eligible veteran or eligible person enrolled in a course which does not lead to a standard college degree (excluding courses that meet the requirements of section 1788(a)(7) of this title and programs of apprenticeship and programs of other on-job training authorized by section 1787 of this title) for any day of absence in excess of thirty days in a twelve-month period, not counting as absences weekends or legal holidays (or customary vacation periods connected therewith) established by Federal or State law (or in the case of the Republic of the Philippines, Philippine law) during which the institution is not regularly in session and periods (not to exceed five days in any twelve-month period) when the institution is not in session because of teacher conferences or teacher training sessions;”, substituted “set forth in clause (1)” for “set forth in clause (1) or (2)” in third sentence, struck out “, and such periods shall not be counted as absences for the purposes of clause (2) of this subsection” before semicolon at end of subcl. (A), and struck out “, but such periods shall be counted as absences for the purposes of clause (2) of this subsection” before punctuation at end of subcls. (B) and (C).
+Pub. L. 101–237, § 412(a), struck out “enrolled in a course which leads to a standard college degree, or a course that meets the requirements of section 1788(a)(7) of this title,” after “or eligible person” in cl. (1) of second sentence, redesignated cls. (3) to (5) as (2) to (4), respectively, and struck out former cl. (2) which read as follows: “to any eligible veteran or eligible person enrolled in a course which does not lead to a standard college degree (excluding courses that meet the requirements of section 1788(a)(7) of this title and programs of apprenticeship and programs of other on-job training authorized by section 1787 of this title) for any day of absence in excess of thirty days in a twelve-month period, not counting as absences weekends or legal holidays (or customary vacation periods connected therewith) established by Federal or State law (or in the case of the Republic of the Philippines, Philippine law) during which the institution is not regularly in session and periods (not to exceed five days in any twelve-month period) when the institution is not in session because of teacher conferences or teacher training sessions;”, substituted “set forth in clause (1)” for “set forth in clause (1) or (2)” in third sentence, struck out “, and such periods shall not be counted as absences for the purposes of clause (2) of this subsection” before semicolon at end of subcl. (A), and struck out “, but such periods shall be counted as absences for the purposes of clause (2) of this subsection” before punctuation at end of subcls. (B) and (C).
 
-Subsecs. (b), (c), (d)(2). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (b), (c), (d)(2). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d)(3). Pub. L. 101–237, § 423(b)(2), substituted “Secretary’s” for “Administrator’s”.
+Subsec. (d)(3). Pub. L. 101–237, § 423(b)(2), substituted “Secretary’s” for “Administrator’s”.
 
-Subsec. (d)(5). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (d)(5). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (e). Pub. L. 101–237, § 423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (e). Pub. L. 101–237, § 423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (g). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (g). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 101–237, § 415(a), substituted “the Secretary may withhold payment of benefits to such eligible veteran or eligible person until the required proof is received and the amount of the payment is appropriately adjusted. The Secretary may accept such veteran’s or person’s monthly certification of enrollment in and satisfactory pursuit of such veteran’s or person’s program as sufficient proof of the certified matters.” for “the Administrator is authorized to withhold the final payment of benefits to such person until the required proof is received and the amount of the final payment is appropriately adjusted.”
+Pub. L. 101–237, § 415(a), substituted “the Secretary may withhold payment of benefits to such eligible veteran or eligible person until the required proof is received and the amount of the payment is appropriately adjusted. The Secretary may accept such veteran’s or person’s monthly certification of enrollment in and satisfactory pursuit of such veteran’s or person’s program as sufficient proof of the certified matters.” for “the Administrator is authorized to withhold the final payment of benefits to such person until the required proof is received and the amount of the final payment is appropriately adjusted.”
 
-1988—Subsec. (a)(4). Pub. L. 100–689 inserted “, except that, in the first instance of withdrawal by an eligible veteran or person from a course or courses with respect to which such veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof” after “circumstances”.
+1988—Subsec. (a)(4). Pub. L. 100–689 inserted “, except that, in the first instance of withdrawal by an eligible veteran or person from a course or courses with respect to which such veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof” after “circumstances”.
 
-1986—Subsec. (a)(1). Pub. L. 99–576, § 315(a)(1)(A), inserted “or a course that meets the requirements of section 1788(a)(7) of this title” after “degree”.
+1986—Subsec. (a)(1). Pub. L. 99–576, § 315(a)(1)(A), inserted “or a course that meets the requirements of section 1788(a)(7) of this title” after “degree”.
 
-Subsec. (a)(2). Pub. L. 99–576, § 315(a)(1)(B), inserted “courses that meet the requirements of section 1788(a)(7) of this title and” after “excluding”.
+Subsec. (a)(2). Pub. L. 99–576, § 315(a)(1)(B), inserted “courses that meet the requirements of section 1788(a)(7) of this title and” after “excluding”.
 
-Subsec. (d)(2). Pub. L. 99–576, § 701(59), substituted “person” for “serviceman” after “In the case of a”.
+Subsec. (d)(2). Pub. L. 99–576, § 701(59), substituted “person” for “serviceman” after “In the case of a”.
 
-Subsec. (f). Pub. L. 99–576, § 316, substituted “not later than the last day of” for “during”.
+Subsec. (f). Pub. L. 99–576, § 316, substituted “not later than the last day of” for “during”.
 
-1982—Subsec. (a). Pub. L. 97–295, § 4(52)(A), and Pub. L. 97–306, § 205(c)(1), made identical amendments by substituting “section 1508” for “section 1504”.
+1982—Subsec. (a). Pub. L. 97–295, § 4(52)(A), and Pub. L. 97–306, § 205(c)(1), made identical amendments by substituting “section 1508” for “section 1504”.
 
-Subsec. (a)(5). Pub. L. 97–295, § 4(52)(B), substituted “than 6 months” for “the 6 months” after “portion is less”.
+Subsec. (a)(5). Pub. L. 97–295, § 4(52)(B), substituted “than 6 months” for “the 6 months” after “portion is less”.
 
-Subsec. (a)(6). Pub. L. 97–306, § 205(c)(2)–(4), struck out cl. (6) which provided that no amount would be paid to any eligible veteran or person incarcerated in a Federal, State, or local prison or jail for any course to the extent the tuition and fees of the veteran or person were paid under any Federal program (other than a program administered by the Administrator) or under any State or local program, or for which there were no tuition and fees.
+Subsec. (a)(6). Pub. L. 97–306, § 205(c)(2)–(4), struck out cl. (6) which provided that no amount would be paid to any eligible veteran or person incarcerated in a Federal, State, or local prison or jail for any course to the extent the tuition and fees of the veteran or person were paid under any Federal program (other than a program administered by the Administrator) or under any State or local program, or for which there were no tuition and fees.
 
-Subsec. (a)(A) to (C). Pub. L. 97–295, § 4(52)(C), inserted “of this subsection” after “clause (2)” wherever appearing.
+Subsec. (a)(A) to (C). Pub. L. 97–295, § 4(52)(C), inserted “of this subsection” after “clause (2)” wherever appearing.
 
 1981—Subsec. (a). Pub. L. 97–35 struck out applicability to flight training program.
 
-1980—Subsec. (a). Pub. L. 96–466, §§ 341(a), 342, 602(c), in provisions preceding cl. (1) inserted “in, and pursuit of, such program” after “enrollment”, in cl. (1) inserted reference to not pursuing a course in accordance with provisions of regulations prescribed by the Administrator pursuant to subsec. (g) of this section and reference to payment for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution, in cl. (2) inserted reference to periods when the institution is not in session because of teacher conferences or teacher training sessions, and added cl. (6).
+1980—Subsec. (a). Pub. L. 96–466, §§ 341(a), 342, 602(c), in provisions preceding cl. (1) inserted “in, and pursuit of, such program” after “enrollment”, in cl. (1) inserted reference to not pursuing a course in accordance with provisions of regulations prescribed by the Administrator pursuant to subsec. (g) of this section and reference to payment for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution, in cl. (2) inserted reference to periods when the institution is not in session because of teacher conferences or teacher training sessions, and added cl. (6).
 
-Subsec. (d)(2). Pub. L. 96–466, § 601(c)(1), struck out “(other than under subchapter VI of chapter 34)” after “who is pursuing a program of education” and substituted “paragraphs (4)(B) and (C) and (5)” for “paragraphs 5(B) and (C) and (6)”.
+Subsec. (d)(2). Pub. L. 96–466, § 601(c)(1), struck out “(other than under subchapter VI of chapter 34)” after “who is pursuing a program of education” and substituted “paragraphs (4)(B) and (C) and (5)” for “paragraphs 5(B) and (C) and (6)”.
 
-Subsec. (d)(3). Pub. L. 96–466, § 601(c)(2), (3), redesignated par. (4) as (3). Former par. (3), which related to the entitlement of a person eligible for education or training under the provisions of subchapter VI of chapter 34 of this title to a lump-sum educational assistance allowance advance payment, was struck out.
+Subsec. (d)(3). Pub. L. 96–466, § 601(c)(2), (3), redesignated par. (4) as (3). Former par. (3), which related to the entitlement of a person eligible for education or training under the provisions of subchapter VI of chapter 34 of this title to a lump-sum educational assistance allowance advance payment, was struck out.
 
-Subsec. (d)(4). Pub. L. 96–466, § 601(c)(3), (4), redesignated par. (5) as (4) and substituted “paragraph (2)” for “paragraphs (2) and (3)”. Former par. (4) redesignated (3).
+Subsec. (d)(4). Pub. L. 96–466, § 601(c)(3), (4), redesignated par. (5) as (4) and substituted “paragraph (2)” for “paragraphs (2) and (3)”. Former par. (4) redesignated (3).
 
-Subsec. (d)(5), (6). Pub. L. 96–466, § 601(c)(4), (5), redesignated par. (6) as (5) and substituted “paragraph (4)” for “paragraph (5)”. Former par. (5) redesignated (4).
+Subsec. (d)(5), (6). Pub. L. 96–466, § 601(c)(4), (5), redesignated par. (6) as (5) and substituted “paragraph (4)” for “paragraph (5)”. Former par. (5) redesignated (4).
 
-Subsec. (e). Pub. L. 96–466, § 601(d)(1), substituted “under subsection (d)(2) of this section” for “under subsection (d)(2) and (3) of this section”.
+Subsec. (e). Pub. L. 96–466, § 601(d)(1), substituted “under subsection (d)(2) of this section” for “under subsection (d)(2) and (3) of this section”.
 
-Subsec. (f). Pub. L. 96–466, § 601(d)(2), struck out “(except as provided by subsection (d)(3) of this section)” after “half-time basis”.
+Subsec. (f). Pub. L. 96–466, § 601(d)(2), struck out “(except as provided by subsection (d)(3) of this section)” after “half-time basis”.
 
-Subsec. (g). Pub. L. 96–466, § 341(b), inserted “and define” after “determine”.
+Subsec. (g). Pub. L. 96–466, § 341(b), inserted “and define” after “determine”.
 
-1976—Subsec. (a). Pub. L. 94–502, §§ 505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or person transfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1 full calendar month, substituted “such veteran’s or person’s” for “his”, and added cls. (3) to (5).
+1976—Subsec. (a). Pub. L. 94–502, §§ 505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or person transfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1 full calendar month, substituted “such veteran’s or person’s” for “his”, and added cls. (3) to (5).
 
-Subsec. (b). Pub. L. 94–502, § 513(a)(5), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing, and “spouse’s or surviving spouse’s” for “wife’s or widow’s”.
+Subsec. (b). Pub. L. 94–502, § 513(a)(5), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing, and “spouse’s or surviving spouse’s” for “wife’s or widow’s”.
 
-Subsec. (c). Pub. L. 94–502, § 513(a)(6), substituted “such veteran’s or person’s” for “his”.
+Subsec. (c). Pub. L. 94–502, § 513(a)(6), substituted “such veteran’s or person’s” for “his”.
 
-Subsec. (d). Pub. L. 94–502, § 513(a)(6)–(8), substituted “persons may need” for “persons need” in cl. (1), “such veteran’s or person’s” for “his” in two places and inserted provision prohibiting advance payments unless the veteran request them and the Administrator finds that the educational institution has agreed to and can carry out the requirements of cls. (5) (B), (C) and (6) of this subsection in cl. (2), substituted “such veteran’s or person’s” for “his” in two places and “the veteran or person” for “he” in cl. (4), and “such veteran’s or person’s” for “his” in cl. (5).
+Subsec. (d). Pub. L. 94–502, § 513(a)(6)–(8), substituted “persons may need” for “persons need” in cl. (1), “such veteran’s or person’s” for “his” in two places and inserted provision prohibiting advance payments unless the veteran request them and the Administrator finds that the educational institution has agreed to and can carry out the requirements of cls. (5) (B), (C) and (6) of this subsection in cl. (2), substituted “such veteran’s or person’s” for “his” in two places and “the veteran or person” for “he” in cl. (4), and “such veteran’s or person’s” for “his” in cl. (5).
 
-Subsec. (e). Pub. L. 94–502, § 513(a)(9)–(11), struck out subsec. (e) which provided for prepayment of subsequent educational assistance or subsistence allowances, redesignated subsec. (f) as (e) and substituted “such veteran or person” for “him”.
+Subsec. (e). Pub. L. 94–502, § 513(a)(9)–(11), struck out subsec. (e) which provided for prepayment of subsequent educational assistance or subsistence allowances, redesignated subsec. (f) as (e) and substituted “such veteran or person” for “him”.
 
-Subsec. (f). Pub. L. 94–502, § 513(a)(10), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 94–502, § 513(a)(10), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsecs. (g), (h). Pub. L. 94–502, § 513(a)(10), (12), redesignated subsec. (h) as (g), substituted “which the Administrator shall” for “which he shall”, “the veteran or person” for “he”, and authorized the Administrator to withhold final payment of benefits to the veteran or person until proof of the veteran’s or person’s enrollment in and satisfactory pursuit of the educational program is received. Former subsec. (g) redesignated (f).
+Subsecs. (g), (h). Pub. L. 94–502, § 513(a)(10), (12), redesignated subsec. (h) as (g), substituted “which the Administrator shall” for “which he shall”, “the veteran or person” for “he”, and authorized the Administrator to withhold final payment of benefits to the veteran or person until proof of the veteran’s or person’s enrollment in and satisfactory pursuit of the educational program is received. Former subsec. (g) redesignated (f).
 
 1974—Subsec. (a)(2). Pub. L. 93–508 substituted “legal holidays (or customary vacation periods connected therewith)” for “legal holidays”.
 
@@ -2033,21 +2033,21 @@ Subsecs. (g), (h). Pub. L. 94–502, § 513(a)(10), (12), redesignated subsec.
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 118–210, title II, § 208(b), Jan. 2, 2025, 138 Stat. 2765, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan 2, 2025] and apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2025.”
+Pub. L. 118–210, title II, § 208(b), Jan. 2, 2025, 138 Stat. 2765, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan 2, 2025] and apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2025.”
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–76, § 4(b), Dec. 21, 2021, 135 Stat. 1519, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2022, and apply with respect to any semester, term, or academic period that begins on or after that date.”
+Pub. L. 117–76, § 4(b), Dec. 21, 2021, 135 Stat. 1519, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2022, and apply with respect to any semester, term, or academic period that begins on or after that date.”
 
-Pub. L. 116–315, title I, § 1007(d), Jan. 5, 2021, 134 Stat. 4940, provided that: “The amendments made by this section [amending this section and section 3699 of this title and repealing provisions set out as notes under this section and section 3699 of this title] shall apply as if included in the enactment of section 109 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 131 Stat. 978) [see Effective Date of 2017 Amendment note below and Effective Date note set out under section 3699 of this title].”
+Pub. L. 116–315, title I, § 1007(d), Jan. 5, 2021, 134 Stat. 4940, provided that: “The amendments made by this section [amending this section and section 3699 of this title and repealing provisions set out as notes under this section and section 3699 of this title] shall apply as if included in the enactment of section 109 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 131 Stat. 978) [see Effective Date of 2017 Amendment note below and Effective Date note set out under section 3699 of this title].”
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–48, title I, § 109(c)(2), Aug. 16, 2017, 131 Stat. 981, provided that: “The amendments made by subsection (b) [amending this section] shall take effect on August 1, 2018, and shall apply with respect to courses and programs of education discontinued as described in section 3699 of title 38, United States Code, as added by such subsection, on or after the date of the enactment of this Act [Aug. 16, 2017].”
+Pub. L. 115–48, title I, § 109(c)(2), Aug. 16, 2017, 131 Stat. 981, provided that: “The amendments made by subsection (b) [amending this section] shall take effect on August 1, 2018, and shall apply with respect to courses and programs of education discontinued as described in section 3699 of title 38, United States Code, as added by such subsection, on or after the date of the enactment of this Act [Aug. 16, 2017].”
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–377, title II, § 206(b), Jan. 4, 2011, 124 Stat. 4127, provided that: “The amendment made by this section [amending this section] shall take effect on August 1, 2011.”
+Pub. L. 111–377, title II, § 206(b), Jan. 4, 2011, 124 Stat. 4127, provided that: “The amendment made by this section [amending this section] shall take effect on August 1, 2011.”
 
 **Effective Date of 2001 Amendment**
 
@@ -2055,7 +2055,7 @@ Amendment by Pub. L. 107–103 effective Oct. 1, 2002, and applicable with respe
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–419, title I, § 121(b), Nov. 1, 2000, 114 Stat. 1833, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to payments of educational assistance under title 38, United States Code, for months beginning on or after the date of the enactment of this Act [Nov. 1, 2000].”
+Pub. L. 106–419, title I, § 121(b), Nov. 1, 2000, 114 Stat. 1833, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to payments of educational assistance under title 38, United States Code, for months beginning on or after the date of the enactment of this Act [Nov. 1, 2000].”
 
 **Effective Date of 1994 Amendment**
 
@@ -2063,11 +2063,11 @@ Amendment by section 605(a)(2)(B) of Pub. L. 103–446 applicable with respect t
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–127, § 6(b), Oct. 10, 1991, 105 Stat. 623, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of August 1, 1990.”
+Pub. L. 102–127, § 6(b), Oct. 10, 1991, 105 Stat. 623, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of August 1, 1990.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–689, title I, § 121(b), Nov. 18, 1988, 102 Stat. 4174, provided that: “The amendment made by subsection (a) [amending this section] shall apply so as to require that mitigating circumstances be considered to exist only with respect to withdrawals from a course or courses being pursued with assistance under title 38, United States Code, that occur on or after June 1, 1989.”
+Pub. L. 100–689, title I, § 121(b), Nov. 18, 1988, 102 Stat. 4174, provided that: “The amendment made by subsection (a) [amending this section] shall apply so as to require that mitigating circumstances be considered to exist only with respect to withdrawals from a course or courses being pursued with assistance under title 38, United States Code, that occur on or after June 1, 1989.”
 
 **Effective Date of 1981 Amendment**
 
@@ -2083,7 +2083,7 @@ Amendment by sections 601(c), (d) and 602(c) of Pub. L. 96–466 effective Oct. 
 
 Amendment by section 505 of Pub. L. 94–502 effective Dec. 1, 1976, and amendment by sections 506 and 513(a)(5), (6), (11), (12) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b), (c) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-Pub. L. 94–502, title V, § 513(b), Oct. 15, 1976, 90 Stat. 2404, provided that: “The amendments made by paragraphs (7), (8), (9), and (10) of subsection (a) [amending this section] shall take effect June 1, 1977, and shall apply with respect to educational assistance allowances and subsistence allowances paid under title 38, United States Code, for months after May 1977.”
+Pub. L. 94–502, title V, § 513(b), Oct. 15, 1976, 90 Stat. 2404, provided that: “The amendments made by paragraphs (7), (8), (9), and (10) of subsection (a) [amending this section] shall take effect June 1, 1977, and shall apply with respect to educational assistance allowances and subsistence allowances paid under title 38, United States Code, for months after May 1977.”
 
 **Effective Date of 1974 Amendment**
 
@@ -2091,7 +2091,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 **Effective Date**
 
-Pub. L. 92–540, title VI, § 603, Oct. 24, 1972, 86 Stat. 1099, provided that:
+Pub. L. 92–540, title VI, § 603, Oct. 24, 1972, 86 Stat. 1099, provided that:
 
 > **“(a)** The prepayment provisions of subsection (e) of section 1780 [now 3680] of title 38, United States Code (as added by section 201 of this Act), shall become effective on November 1, 1972.
 
@@ -2099,7 +2099,7 @@ Pub. L. 92–540, title VI, § 603, Oct. 24, 1972, 86 Stat. 1099, provided tha
 
 **Payment of VA Educational Assistance via Electronic Fund Transfer to a Foreign Institution of Higher Education**
 
-Pub. L. 118–210, title II, § 214, Jan. 2, 2025, 138 Stat. 2774, provided that:
+Pub. L. 118–210, title II, § 214, Jan. 2, 2025, 138 Stat. 2774, provided that:
 
 > “Not later than 90 days after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall update the payment system of the Department of Veterans Affairs to allow for electronic fund transfer of educational assistance, administered by the Secretary, to a foreign institution of higher education that—
 
@@ -2113,15 +2113,15 @@ Pub. L. 118–210, title II, § 214, Jan. 2, 2025, 138 Stat. 2774, provided th
 
 **Payment of Allowances to Veterans Enrolled in Educational Institutions Closed for Emergency Situations**
 
-Pub. L. 116–140, § 4, Apr. 28, 2020, 134 Stat. 632, as amended by Pub. L. 116–315, title I, §§ 1107(b), 1108, Jan. 5, 2021, 134 Stat. 4966, which temporarily authorized payment of allowances to eligible veterans or persons enrolled in educational institutions or training establishments that were closed or suspended due to emergency situations, was repealed by Pub. L. 117–333, § 6(b), Jan. 5, 2023, 136 Stat. 6129. See subsec. (h) of this section.
+Pub. L. 116–140, § 4, Apr. 28, 2020, 134 Stat. 632, as amended by Pub. L. 116–315, title I, §§ 1107(b), 1108, Jan. 5, 2021, 134 Stat. 4966, which temporarily authorized payment of allowances to eligible veterans or persons enrolled in educational institutions or training establishments that were closed or suspended due to emergency situations, was repealed by Pub. L. 117–333, § 6(b), Jan. 5, 2023, 136 Stat. 6129. See subsec. (h) of this section.
 
 **Restoration of Entitlement: Payment of Subsistence Allowances**
 
-Pub. L. 116–140, § 7(b), Apr. 28, 2020, 134 Stat. 634, which provided that the Secretary of Veterans Affairs was to apply subsec. (a)(2)(B) of this section as if certain amendments had been made, was repealed by Pub. L. 116–315, title I, § 1007(c), Jan. 5, 2021, 134 Stat. 4940. See 2021 Amendment note above.
+Pub. L. 116–140, § 7(b), Apr. 28, 2020, 134 Stat. 634, which provided that the Secretary of Veterans Affairs was to apply subsec. (a)(2)(B) of this section as if certain amendments had been made, was repealed by Pub. L. 116–315, title I, § 1007(c), Jan. 5, 2021, 134 Stat. 4940. See 2021 Amendment note above.
 
 **Prompt Payments**
 
-Pub. L. 115–407, title I, § 103(b), Dec. 31, 2018, 132 Stat. 5370, provided that:
+Pub. L. 115–407, title I, § 103(b), Dec. 31, 2018, 132 Stat. 5370, provided that:
 
 > **“(1) In general.—** The Secretary of Veterans Affairs shall take such actions as may be necessary to ensure that the Secretary makes a payment to an educational institution on behalf of an individual, who is entitled to educational assistance under chapter 31 or 33 of title 38, United States Code, and who is using such assistance to pursue a program of education at the educational institution, not later than 60 days after the date on which the educational institution certifies to the Secretary the applicable tuition and fees for the individual.
 
@@ -2129,7 +2129,7 @@ Pub. L. 115–407, title I, § 103(b), Dec. 31, 2018, 132 Stat. 5370, provided
 
 **Study of Tuition Assistance Allowance Program Abuses**
 
-Pub. L. 93–508, title I, § 105, Dec. 3, 1974, 88 Stat. 1581, authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans’ Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
+Pub. L. 93–508, title I, § 105, Dec. 3, 1974, 88 Stat. 1581, authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans’ Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
 
 **Executive Documents**
 
@@ -2145,7 +2145,7 @@ Sec. 2. The Administrator shall advise veterans and other eligible persons of th
 
 Jimmy Carter.
 
-### § 3680A. Disapproval of enrollment in certain courses
+### § 3680A. Disapproval of enrollment in certain courses
 
 **(a)** The Secretary shall not approve the enrollment of an eligible veteran in any of the following:
 
@@ -2249,9 +2249,9 @@ Jimmy Carter.
 
 **(e)**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  See Applicability of Amendment note below.
+<sup>1</sup> See Applicability of Amendment note below.
 
 The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
 
@@ -2323,7 +2323,7 @@ The Secretary may not approve the enrollment of an eligible veteran in a course 
 
 **(h)** In this section, the terms “State or local area”, “recognized postsecondary credential”, “industry or sector partnership”, and “in-demand industry sector or occupation” have the meaning given such terms in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
-(Added Pub. L. 102–568, title III, § 313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§ 103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, § 401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, § 1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, § 111(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 107–296, title XVII, § 1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 115–48, title III, § 302, Aug. 16, 2017, 131 Stat. 990; Pub. L. 117–174, § 2(a), Aug. 26, 2022, 136 Stat. 2104; Pub. L. 117–333, § 9(a), Jan. 5, 2023, 136 Stat. 6130; Pub. L. 118–95, § 2(a), Oct. 1, 2024, 138 Stat. 1567; Pub. L. 118–210, title II, §§ 206(b)(2)(D), 209(a), 212(c), Jan. 2, 2025, 138 Stat. 2764, 2765, 2773.)
+(Added Pub. L. 102–568, title III, § 313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§ 103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, § 401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, § 1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, § 111(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 107–296, title XVII, § 1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 115–48, title III, § 302, Aug. 16, 2017, 131 Stat. 990; Pub. L. 117–174, § 2(a), Aug. 26, 2022, 136 Stat. 2104; Pub. L. 117–333, § 9(a), Jan. 5, 2023, 136 Stat. 6130; Pub. L. 118–95, § 2(a), Oct. 1, 2024, 138 Stat. 1567; Pub. L. 118–210, title II, §§ 206(b)(2)(D), 209(a), 212(c), Jan. 2, 2025, 138 Stat. 2764, 2765, 2773.)
 
 **Applicability of Amendment**
 
@@ -2333,71 +2333,71 @@ Amendment of subsection (e) of this section by section 2(a) of Pub. L. 118–95 
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (a)(4)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(4)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2025—Subsec. (a)(4). Pub. L. 118–210, § 212(c)(1), added par. (4) and struck out former par. (4) which related to independent study programs.
+2025—Subsec. (a)(4). Pub. L. 118–210, § 212(c)(1), added par. (4) and struck out former par. (4) which related to independent study programs.
 
-Subsec. (a)(4)(C)(iii). Pub. L. 118–210, § 206(b)(2)(D), substituted “section 3676(c)(15) and (16)” for “section 3676(c)(14) and (15)”.
+Subsec. (a)(4)(C)(iii). Pub. L. 118–210, § 206(b)(2)(D), substituted “section 3676(c)(15) and (16)” for “section 3676(c)(14) and (15)”.
 
-Subsec. (d)(8). Pub. L. 118–210, § 212(c)(2), added par. (8).
+Subsec. (d)(8). Pub. L. 118–210, § 212(c)(2), added par. (8).
 
-Subsec. (e)(2)(A). Pub. L. 118–210, § 209(a)(1)(A), (B), amended subsec. (e)(2)(A) as added by Pub. L. 118–95, § 2(a)(4), by substituting “institution if—” for “the commercial driver education program offered at the branch by the educational institution—” in introductory provisions, adding cls. (i) and (ii), and striking out former cls. (i) and (ii) which read as follows:
+Subsec. (e)(2)(A). Pub. L. 118–210, § 209(a)(1)(A), (B), amended subsec. (e)(2)(A) as added by Pub. L. 118–95, § 2(a)(4), by substituting “institution if—” for “the commercial driver education program offered at the branch by the educational institution—” in introductory provisions, adding cls. (i) and (ii), and striking out former cls. (i) and (ii) which read as follows:
 
 “(i) is appropriately licensed; and
 
 “(ii) uses the same curriculum as a commercial driver education program offered by the educational institution at another location that is approved for purposes of this chapter by a State approving agency or the Secretary when acting in the role of a State approving agency.”
 
-Subsec. (e)(2)(D). Pub. L. 118–210, § 209(a)(2), amended subsec. (e)(2) as added by Pub. L. 118–95, § 2(a)(4), by adding subpar. (D).
+Subsec. (e)(2)(D). Pub. L. 118–210, § 209(a)(2), amended subsec. (e)(2) as added by Pub. L. 118–95, § 2(a)(4), by adding subpar. (D).
 
-2024—Subsec. (e). Pub. L. 118–95, § 2(a)(1), (2), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
+2024—Subsec. (e). Pub. L. 118–95, § 2(a)(1), (2), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
 
-Subsec. (e)(1)(B). Pub. L. 118–95, § 2(a)(3), inserted “except as provided in paragraph (2),” before “the course”.Subsec. (e)(2). Pub. L. 118–95, § 2(a)(4), as amended by Pub. L. 118–210, § 209(a), added par. (2). For changes made to text of par. (2) by Pub. L. 118–210, see 2025 Amendment notes above.
+Subsec. (e)(1)(B). Pub. L. 118–95, § 2(a)(3), inserted “except as provided in paragraph (2),” before “the course”.Subsec. (e)(2). Pub. L. 118–95, § 2(a)(4), as amended by Pub. L. 118–210, § 209(a), added par. (2). For changes made to text of par. (2) by Pub. L. 118–210, see 2025 Amendment notes above.
 
 2023—Subsec. (f). Pub. L. 117–333 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the Secretary” for “The Secretary”, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), and added par. (2).
 
 2022—Subsec. (d). Pub. L. 117–174 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to disapproval of enrollment in a course for any period during which the Secretary finds that more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees, or other charges paid to or for them by the educational institution or by the Department of Veterans Affairs under this title or under chapter 106 of title 10, subject to waivers and exceptions.
 
-2017—Subsec. (a). Pub. L. 115–48, § 302(1)(A), substituted “in any of the following:” for “in—” in introductory provisions.
+2017—Subsec. (a). Pub. L. 115–48, § 302(1)(A), substituted “in any of the following:” for “in—” in introductory provisions.
 
-Subsec. (a)(1), (2). Pub. L. 115–48, § 302(1)(B), (C), substituted “Any” for “any” and substituted period for semicolon at end.
+Subsec. (a)(1), (2). Pub. L. 115–48, § 302(1)(B), (C), substituted “Any” for “any” and substituted period for semicolon at end.
 
-Subsec. (a)(3). Pub. L. 115–48, § 302(1)(D), substituted “Any” for “any” and substituted period at end for “; or”.
+Subsec. (a)(3). Pub. L. 115–48, § 302(1)(D), substituted “Any” for “any” and substituted period at end for “; or”.
 
-Subsec. (a)(4). Pub. L. 115–48, § 302(1)(E), added par. (4) and struck out former par. (4), which read as follows: “any independent study program except an accredited independent study program (including open circuit television) leading (A) to a standard college degree, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning.”
+Subsec. (a)(4). Pub. L. 115–48, § 302(1)(E), added par. (4) and struck out former par. (4), which read as follows: “any independent study program except an accredited independent study program (including open circuit television) leading (A) to a standard college degree, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning.”
 
-Subsec. (h). Pub. L. 115–48, § 302(2), added subsec. (h).
+Subsec. (h). Pub. L. 115–48, § 302(2), added subsec. (h).
 
 2002—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (a)(4). Pub. L. 107–103 inserted “(A)” after “leading” and “, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning” before period at end.
+2001—Subsec. (a)(4). Pub. L. 107–103 inserted “(A)” after “leading” and “, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning” before period at end.
 
 1998—Subsec. (d)(2)(C). Pub. L. 105–368 struck out “section” before “subsection (g)”.
 
-1997—Subsec. (a)(4). Pub. L. 105–114, § 401(d), inserted “(including open circuit television)” before “leading to a standard”.
+1997—Subsec. (a)(4). Pub. L. 105–114, § 401(d), inserted “(including open circuit television)” before “leading to a standard”.
 
-Subsec. (g). Pub. L. 105–114, § 401(e), substituted “subsections (e) and (f)(1)” for “subsections (e) and (f)”.
+Subsec. (g). Pub. L. 105–114, § 401(e), substituted “subsections (e) and (f)(1)” for “subsections (e) and (f)”.
 
-1996—Subsec. (c). Pub. L. 104–275, § 104(c), substituted “radio.” for “radio or by open circuit television, except that the Secretary may approve the enrollment of an eligible veteran in a course, to be pursued in residence, leading to a standard college degree which includes, as an integral part thereof, subjects offered through open circuit television.”
+1996—Subsec. (c). Pub. L. 104–275, § 104(c), substituted “radio.” for “radio or by open circuit television, except that the Secretary may approve the enrollment of an eligible veteran in a course, to be pursued in residence, leading to a standard college degree which includes, as an integral part thereof, subjects offered through open circuit television.”
 
-Subsec. (d)(2)(C). Pub. L. 104–275, § 103(a)(2), substituted “subsection (g)” for “3689(b)(6) of this title”.
+Subsec. (d)(2)(C). Pub. L. 104–275, § 103(a)(2), substituted “subsection (g)” for “3689(b)(6) of this title”.
 
-Subsecs. (e) to (g). Pub. L. 104–275, § 103(b), added subsecs. (e) to (g).
+Subsecs. (e) to (g). Pub. L. 104–275, § 103(b), added subsecs. (e) to (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 118–210, title II, § 209(c), Jan. 2, 2025, 138 Stat. 2766, provided that: “The amendments made by this section [amending this section] shall take effect as if included in such Act [Pub. L. 118–95] on the date of the enactment of such Act [Oct. 1, 2024].”
+Pub. L. 118–210, title II, § 209(c), Jan. 2, 2025, 138 Stat. 2766, provided that: “The amendments made by this section [amending this section] shall take effect as if included in such Act [Pub. L. 118–95] on the date of the enactment of such Act [Oct. 1, 2024].”
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–95, § 2(b)(2), Oct. 1, 2024, 138 Stat. 1568, as amended by Pub. L. 118–210, title II, § 209(b)(1), Jan. 2, 2025, 138 Stat. 2766, provided that: “The amendments made by subsection (a) [amending this section] shall apply to commercial driver education programs on and after the date that is 365 days after the date on which the Secretary establishes the requirements under paragraph (1) of this subsection [set out as a note below].”
+Pub. L. 118–95, § 2(b)(2), Oct. 1, 2024, 138 Stat. 1568, as amended by Pub. L. 118–210, title II, § 209(b)(1), Jan. 2, 2025, 138 Stat. 2766, provided that: “The amendments made by subsection (a) [amending this section] shall apply to commercial driver education programs on and after the date that is 365 days after the date on which the Secretary establishes the requirements under paragraph (1) of this subsection [set out as a note below].”
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–174, § 2(b), Aug. 26, 2022, 136 Stat. 2106, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after the date of the enactment of this Act [Aug. 26, 2022].”
+Pub. L. 117–174, § 2(b), Aug. 26, 2022, 136 Stat. 2106, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after the date of the enactment of this Act [Aug. 26, 2022].”
 
 **Effective Date of 2002 Amendment**
 
@@ -2405,11 +2405,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–103, title I, § 111(b), Dec. 27, 2001, 115 Stat. 987, provided that: “The amendments made by subsection (a) [amending this section] shall apply to enrollments in independent study courses beginning on or after the date of the enactment of this Act [Dec. 27, 2001].”
+Pub. L. 107–103, title I, § 111(b), Dec. 27, 2001, 115 Stat. 987, provided that: “The amendments made by subsection (a) [amending this section] shall apply to enrollments in independent study courses beginning on or after the date of the enactment of this Act [Dec. 27, 2001].”
 
 **Regulations**
 
-Pub. L. 118–95, § 2(b)(3), as added by Pub. L. 118–210, title II, § 209(b)(2), Jan. 2, 2025, 138 Stat. 2766, provided that: “In prescribing any regulation to carry out the amendments made by subsection (a) [amending this section], the Secretary of Veterans Affairs shall consult with State approving agencies designated under section 3671 of such title [title 38, United States Code].”
+Pub. L. 118–95, § 2(b)(3), as added by Pub. L. 118–210, title II, § 209(b)(2), Jan. 2, 2025, 138 Stat. 2766, provided that: “In prescribing any regulation to carry out the amendments made by subsection (a) [amending this section], the Secretary of Veterans Affairs shall consult with State approving agencies designated under section 3671 of such title [title 38, United States Code].”
 
 **Savings Provision**
 
@@ -2421,13 +2421,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Implementation: Establishment of Requirements**
 
-Pub. L. 118–95, § 2(b)(1), Oct. 1, 2024, 138 Stat. 1568, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 1, 2024], the Secretary of Veterans Affairs shall establish requirements under section 3680A(e)(2)(B)(ii) of such title [title 38, United States Code], as added by subsection (a).”
+Pub. L. 118–95, § 2(b)(1), Oct. 1, 2024, 138 Stat. 1568, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 1, 2024], the Secretary of Veterans Affairs shall establish requirements under section 3680A(e)(2)(B)(ii) of such title [title 38, United States Code], as added by subsection (a).”
 
 **Treatment of Certain Courses**
 
-Pub. L. 117–333, § 9(b), Jan. 5, 2023, 136 Stat. 6131, provided that: “In the case of any covered study-abroad course, under the meaning given such term in subparagraph (B) of paragraph (2) of subsection (f) of section 3680A of title 38, United States Code, as added by subsection (a), that is being offered under a contract or other written agreement as of the date of the enactment of this Act [Jan. 5, 2023], the Secretary of Veterans Affairs may approve such course under such paragraph (2) for the five-year period beginning on the date of the enactment of this Act, if such contract or other written agreement meets the criteria provided in subparagraph (A) of such paragraph.”
+Pub. L. 117–333, § 9(b), Jan. 5, 2023, 136 Stat. 6131, provided that: “In the case of any covered study-abroad course, under the meaning given such term in subparagraph (B) of paragraph (2) of subsection (f) of section 3680A of title 38, United States Code, as added by subsection (a), that is being offered under a contract or other written agreement as of the date of the enactment of this Act [Jan. 5, 2023], the Secretary of Veterans Affairs may approve such course under such paragraph (2) for the five-year period beginning on the date of the enactment of this Act, if such contract or other written agreement meets the criteria provided in subparagraph (A) of such paragraph.”
 
-### § 3681. Limitations on educational assistance
+### § 3681. Limitations on educational assistance
 
 **(a)** No educational assistance allowance granted under chapter 30, 34, 35, or 36 of this title or 106 or 107 of title 10, or subsistence allowance granted under chapter 31 of this title shall be paid to any eligible person (1) who is on active duty and is pursuing a course of education which is being paid for by the Armed Forces (or by the Department of Health and Human Services in the case of the Public Health Service; or (2) who is attending a course of education or training paid for under chapter 41 of title 5.
 
@@ -2443,13 +2443,13 @@ Pub. L. 117–333, § 9(b), Jan. 5, 2023, 136 Stat. 6131, provided that: “In
 
 **(5)** The Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public Law 99–399).
 
-(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 21, § 1781; amended Pub. L. 91–219, title II, § 213(1), Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, § 403(8), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, § 513(a)(13), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 96–466, title I, § 102, title VIII, § 801(e), Oct. 17, 1980, 94 Stat. 2187, 2216; Pub. L. 97–295, § 4(53), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, § 203(c)(1), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, § 703(c), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 99–576, title III, §§ 317, 321(9), Oct. 28, 1986, 100 Stat. 3275, 3278; Pub. L. 101–237, title IV, § 423(a)(8)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3681, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 315, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 111–377, title II, § 202(b), Jan. 4, 2011, 124 Stat. 4124.)
+(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 21, § 1781; amended Pub. L. 91–219, title II, § 213(1), Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, § 403(8), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, § 513(a)(13), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 96–466, title I, § 102, title VIII, § 801(e), Oct. 17, 1980, 94 Stat. 2187, 2216; Pub. L. 97–295, § 4(53), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, § 203(c)(1), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, § 703(c), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 99–576, title III, §§ 317, 321(9), Oct. 28, 1986, 100 Stat. 3275, 3278; Pub. L. 101–237, title IV, § 423(a)(8)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3681, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 315, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 111–377, title II, § 202(b), Jan. 4, 2011, 124 Stat. 4124.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 106 of title 10, referred to in subsecs. (a) and (b)(2), which consisted of sections 2131 to 2138, was amended by Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006, to renumber sections 2131 to 2137 as 16131 to 16137, respectively, and transfer them to chapter 1606 of Title 10, Armed Forces.
+Chapter 106 of title 10, referred to in subsecs. (a) and (b)(2), which consisted of sections 2131 to 2138, was amended by Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006, to renumber sections 2131 to 2137 as 16131 to 16137, respectively, and transfer them to chapter 1606 of Title 10, Armed Forces.
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (b)(3), is section 903 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
@@ -2473,13 +2473,13 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 1986—Subsec. (b). Pub. L. 99–576 struck out “for the pursuit of the same program of education” after “provisions of law listed below” in introductory text and substituted “Chapters 106 and 107” for “Chapter 107” in par. (2).
 
-1984—Subsec. (a). Pub. L. 98–525, § 703(c)(1)(A)–(C), inserted initial reference to chapter 30 of this title, inserted references to chapters 106 and 107 of title 10, and struck out comma after “chapter 31”.
+1984—Subsec. (a). Pub. L. 98–525, § 703(c)(1)(A)–(C), inserted initial reference to chapter 30 of this title, inserted references to chapters 106 and 107 of title 10, and struck out comma after “chapter 31”.
 
-Pub. L. 98–223, § 203(c)(1)(A), designated existing provisions as subsec. (a).
+Pub. L. 98–223, § 203(c)(1)(A), designated existing provisions as subsec. (a).
 
-Subsec. (b). Pub. L. 98–525, § 703(c)(2), inserted reference to chapter 30 of this title in par. (1).
+Subsec. (b). Pub. L. 98–525, § 703(c)(2), inserted reference to chapter 30 of this title in par. (1).
 
-Pub. L. 98–223, § 203(c)(1)(B), added subsec. (b).
+Pub. L. 98–223, § 203(c)(1)(B), added subsec. (b).
 
 1982—Pub. L. 97–295 substituted “chapter 41 of title 5” for “the Government Employees’ Training Act”.
 
@@ -2499,7 +2499,7 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 202(c) of Pub
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–466, title VIII, § 802(a)(6), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by sections 102 and 103 [amending this section and section 1795 [now 3695] of this title] shall become effective on October 1, 1980.”
+Pub. L. 96–466, title VIII, § 802(a)(6), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by sections 102 and 103 [amending this section and section 1795 [now 3695] of this title] shall become effective on October 1, 1980.”
 
 Amendment by section 801(e) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
@@ -2509,13 +2509,13 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **Duplication of Benefits**
 
-Pub. L. 90–574, title V, § 504, Oct. 15, 1968, 82 Stat. 1012, relating to duplication of benefits, was repealed by Pub. L. 91–219, title II, § 215(a), Mar. 26, 1970, 84 Stat. 85.
+Pub. L. 90–574, title V, § 504, Oct. 15, 1968, 82 Stat. 1012, relating to duplication of benefits, was repealed by Pub. L. 91–219, title II, § 215(a), Mar. 26, 1970, 84 Stat. 85.
 
-### § 3682. Control by agencies of the United States
+### § 3682. Control by agencies of the United States
 
 Except as provided in section 3674A of this title, no department, agency, or officer of the United States, in carrying out this chapter, shall exercise any supervision or control, whatsoever, over any State approving agency, or State educational agency, or any educational institution. Nothing in this section shall be deemed to prevent any department, agency, or officer of the United States from exercising any supervision or control which such department, agency, or officer is authorized by law to exercise over any Federal educational institution or to prevent the furnishing of education under this chapter or chapter 34 or 35 of this title in any institution over which supervision or control is exercised by such other department, agency, or officer under authority of law.
 
-(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 21, § 1782; amended Pub. L. 92–540, title IV, § 403(9), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 100–323, § 13(b)(6), May 20, 1988, 102 Stat. 574; renumbered § 3682 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 21, § 1782; amended Pub. L. 92–540, title IV, § 403(9), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 100–323, § 13(b)(6), May 20, 1988, 102 Stat. 574; renumbered § 3682 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -2531,7 +2531,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 1972—Pub. L. 92–540 inserted “this chapter or” before “chapter 34 or 35”.
 
-### § 3683. Conflicting interests
+### § 3683. Conflicting interests
 
 **(a) Department Officers and Employees.—**
 
@@ -2557,7 +2557,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 **(2)** The Secretary shall provide public notice of any waiver granted under this subsection by not later than 30 days after the date on which such waiver is granted.
 
-(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 22, § 1783; amended Pub. L. 92–540, title IV, § 403(10), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, § 513(a)(14)–(16), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 97–295, § 4(54), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3683 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 115–251, title III, § 302(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 116–61, § 6(5), Sept. 30, 2019, 133 Stat. 1117.)
+(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 22, § 1783; amended Pub. L. 92–540, title IV, § 403(10), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, § 513(a)(14)–(16), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 97–295, § 4(54), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3683 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 115–251, title III, § 302(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 116–61, § 6(5), Sept. 30, 2019, 133 Stat. 1117.)
 
 **Editorial Notes**
 
@@ -2569,27 +2569,27 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 2019—Subsecs. (b) to (d). Pub. L. 116–61 substituted “(b)” for “(b) (b)”, “(c)” for “(c) (c)”, and “(d)” for “(d) (d)” in subsec. designations.
 
-2018—Subsec. (a). Pub. L. 115–251, § 302(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Every officer or employee of the Department of Veterans Affairs who has, while such an officer or employee, owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from, any educational institution operated for profit in which an eligible person or veteran was pursuing a program of education or course under this chapter or chapter 34 or 35 of this title shall be immediately dismissed from such officer’s or employee’s office or employment.”
+2018—Subsec. (a). Pub. L. 115–251, § 302(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Every officer or employee of the Department of Veterans Affairs who has, while such an officer or employee, owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from, any educational institution operated for profit in which an eligible person or veteran was pursuing a program of education or course under this chapter or chapter 34 or 35 of this title shall be immediately dismissed from such officer’s or employee’s office or employment.”
 
-Subsec. (b). Pub. L. 115–251, § 302(a)(2), inserted second subsec. (b) designation and heading, substituted “wage, salary, dividend, profit, or gift” for “wages, salary, dividends, profits, gratuities, or services”, “provide corrective action or disciplinary action with respect to” for “terminate the employment of”, and “until the completion of such corrective action or disciplinary action” for “while such person is an officer or employee of the State approving agency, or State department of veterans’ affairs or State department of education”, and struck out “in which an eligible person or veteran was pursuing a program of education or course under this chapter or chapter 34 or 35 of this title” after “operated for profit”.
+Subsec. (b). Pub. L. 115–251, § 302(a)(2), inserted second subsec. (b) designation and heading, substituted “wage, salary, dividend, profit, or gift” for “wages, salary, dividends, profits, gratuities, or services”, “provide corrective action or disciplinary action with respect to” for “terminate the employment of”, and “until the completion of such corrective action or disciplinary action” for “while such person is an officer or employee of the State approving agency, or State department of veterans’ affairs or State department of education”, and struck out “in which an eligible person or veteran was pursuing a program of education or course under this chapter or chapter 34 or 35 of this title” after “operated for profit”.
 
-Subsec. (c). Pub. L. 115–251, § 302(a)(3), inserted second subsec. (c) designation and heading, struck out “of Veterans Affairs” after “of the Department”, and substituted “wage, salary, dividend, profit, or gift” for “wages, salary, dividends, profits, gratuities, or services”.
+Subsec. (c). Pub. L. 115–251, § 302(a)(3), inserted second subsec. (c) designation and heading, struck out “of Veterans Affairs” after “of the Department”, and substituted “wage, salary, dividend, profit, or gift” for “wages, salary, dividends, profits, gratuities, or services”.
 
-Subsec. (d). Pub. L. 115–251, § 302(a)(4), inserted second subsec. (d) designation and heading, designated existing provisions as par. (1), struck out “, after reasonable notice and public hearings,” after “The Secretary may” and “of Veterans Affairs” after “of the Department”, and added par. (2).
+Subsec. (d). Pub. L. 115–251, § 302(a)(4), inserted second subsec. (d) designation and heading, designated existing provisions as par. (1), struck out “, after reasonable notice and public hearings,” after “The Secretary may” and “of Veterans Affairs” after “of the Department”, and added par. (2).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1783 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1783 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3674” for “1774”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3674” for “1774”.
 
 1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 1982—Subsec. (a). Pub. L. 97–295 inserted “of this title” after “34 or 35”.
 
-1976—Subsec. (a). Pub. L. 94–502, § 513(a)(14), substituted “such officer’s or employee’s” for “his”.
+1976—Subsec. (a). Pub. L. 94–502, § 513(a)(14), substituted “such officer’s or employee’s” for “his”.
 
-Subsec. (b). Pub. L. 94–502, § 513(a)(15), substituted “while such person was” for “while he was” and “the Administrator shall discontinue” for “he shall discontinue”.
+Subsec. (b). Pub. L. 94–502, § 513(a)(15), substituted “while such person was” for “while he was” and “the Administrator shall discontinue” for “he shall discontinue”.
 
-Subsec. (d). Pub. L. 94–502, § 513(a)(16), substituted “if the Administrator finds” for “if he finds”.
+Subsec. (d). Pub. L. 94–502, § 513(a)(16), substituted “if the Administrator finds” for “if he finds”.
 
 1972—Subsecs. (a), (b). Pub. L. 92–540 inserted “this chapter or” before “chapter 34 or 35” wherever appearing.
 
@@ -2597,13 +2597,13 @@ Subsec. (d). Pub. L. 94–502, § 513(a)(16), substituted “if the Administra
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–251, title III, § 302(b), Sept. 29, 2018, 132 Stat. 3179, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Sept. 29, 2018] and shall apply with respect to conflicts of interest that occur on or after that date.”
+Pub. L. 115–251, title III, § 302(b), Sept. 29, 2018, 132 Stat. 3179, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Sept. 29, 2018] and shall apply with respect to conflicts of interest that occur on or after that date.”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-### § 3684. Reports by veterans, eligible persons, and institutions; reporting fee
+### § 3684. Reports by veterans, eligible persons, and institutions; reporting fee
 
 **(a)**
 
@@ -2631,9 +2631,9 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(1)** The Secretary may pay to any educational institution, or to the sponsor of a program of apprenticeship, furnishing education or training under either this chapter or chapter 31, 34, or 35 of this title, a reporting fee which will be in lieu of any other compensation or reimbursement for reports or certifications which such educational institution or sponsor of a program of apprenticeship is required to submit to the Secretary by law or regulation.
 
-**(2)** Such reporting fee shall be computed for each calendar year by multiplying $16 1
+**(2)** Such reporting fee shall be computed for each calendar year by multiplying $16 1
 
-<sup>1</sup>  See Modifications of Reporting Fee Multipliers During Certain Periods notes below.
+<sup>1</sup> See Modifications of Reporting Fee Multipliers During Certain Periods notes below.
 
 by the number of eligible veterans or eligible persons enrolled under this chapter or chapter 31, 34, or 35 of this title. The reporting fee shall be paid to such educational institution or sponsor of a program of apprenticeship as soon as feasible after the end of the calendar year for which it is applicable.
 
@@ -2649,7 +2649,7 @@ by the number of eligible veterans or eligible persons enrolled under this chapt
 
 **(d)** Not later than 90 days after the date of the enactment of this subsection, the Secretary shall ensure that the Department provides personnel of educational institutions who are charged with submitting reports or certifications to the Secretary under this section with assistance in preparing and submitting such reports or certifications.
 
-(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 22, § 1784; amended Pub. L. 90–77, title III, § 308(a), Aug. 31, 1967, 81 Stat. 189; Pub. L. 92–540, title III, § 315, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 93–508, title II, § 210(2), Dec. 3, 1974, 88 Stat. 1585; Pub. L. 94–502, title V, §§ 507, 508, 513(a)(17), Oct. 15, 1976, 90 Stat. 2400, 2403; Pub. L. 95–202, title III, § 304(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, § 343(a), (b)(1), title VI, § 601(e), Oct. 17, 1980, 94 Stat. 2198, 2208; Pub. L. 97–295, § 4(55), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 99–576, title III, §§ 318, 319, Oct. 28, 1986, 100 Stat. 3275; Pub. L. 101–237, title IV, §§ 416(a), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2092; renumbered § 3684 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, § 201(a), (b), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–419, title IV, § 404(a)(7), Nov. 1, 2000, 114 Stat. 1865; Pub. L. 108–454, title I, § 110(d), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 111–275, title X, § 1001(i), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title II, § 204(a), (b), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 112–249, § 3, Jan. 10, 2013, 126 Stat. 2401; Pub. L. 114–315, title IV, § 407(a), Dec. 16, 2016, 130 Stat. 1558; Pub. L. 115–48, title III, §§ 304(a), 309, Aug. 16, 2017, 131 Stat. 992, 994.)
+(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 22, § 1784; amended Pub. L. 90–77, title III, § 308(a), Aug. 31, 1967, 81 Stat. 189; Pub. L. 92–540, title III, § 315, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 93–508, title II, § 210(2), Dec. 3, 1974, 88 Stat. 1585; Pub. L. 94–502, title V, §§ 507, 508, 513(a)(17), Oct. 15, 1976, 90 Stat. 2400, 2403; Pub. L. 95–202, title III, § 304(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, § 343(a), (b)(1), title VI, § 601(e), Oct. 17, 1980, 94 Stat. 2198, 2208; Pub. L. 97–295, § 4(55), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 99–576, title III, §§ 318, 319, Oct. 28, 1986, 100 Stat. 3275; Pub. L. 101–237, title IV, §§ 416(a), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2092; renumbered § 3684 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, § 201(a), (b), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–419, title IV, § 404(a)(7), Nov. 1, 2000, 114 Stat. 1865; Pub. L. 108–454, title I, § 110(d), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 111–275, title X, § 1001(i), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title II, § 204(a), (b), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 112–249, § 3, Jan. 10, 2013, 126 Stat. 2401; Pub. L. 114–315, title IV, § 407(a), Dec. 16, 2016, 130 Stat. 1558; Pub. L. 115–48, title III, §§ 304(a), 309, Aug. 16, 2017, 131 Stat. 992, 994.)
 
 **Editorial Notes**
 
@@ -2665,13 +2665,13 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 **Amendments**
 
-2017—Subsec. (a)(4), (5). Pub. L. 115–48, § 309, added par. (4) and redesignated former par. (4) as (5).
+2017—Subsec. (a)(4), (5). Pub. L. 115–48, § 309, added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c). Pub. L. 115–48, § 304(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to purpose, computation, payment, and utilization of reporting fee.
+Subsec. (c). Pub. L. 115–48, § 304(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to purpose, computation, payment, and utilization of reporting fee.
 
-2016—Subsec. (a)(1). Pub. L. 114–315, § 407(a)(1), inserted “32, 33,” after “31,”.
+2016—Subsec. (a)(1). Pub. L. 114–315, § 407(a)(1), inserted “32, 33,” after “31,”.
 
-Subsec. (a)(4). Pub. L. 114–315, § 407(a)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 114–315, § 407(a)(2), added par. (4).
 
 2013—Subsec. (d). Pub. L. 112–249 added subsec. (d).
 
@@ -2685,49 +2685,49 @@ Subsec. (a)(4). Pub. L. 114–315, § 407(a)(2), added par. (4).
 
 1998—Subsec. (c). Pub. L. 105–368, in second sentence, substituted “during the calender year.” for “on October 31 of that year; except that the Secretary may, where it is established by such educational institution or joint apprenticeship training committee that eligible veteran plus eligible person enrollment on such date varies more than 15 percent from the peak eligible veteran enrollment plus eligible person enrollment in such educational institution or joint apprenticeship training committee during such calendar year, establish such other date as representative of the peak enrollment as may be justified for such educational institution or joint apprenticeship training committee.” and inserted at end “The reporting fee payable under this subsection shall be paid from amounts appropriated for readjustment benefits.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1784 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1784 of this title as this section.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3680(d)(4)” for “1780(d)(4)” and “3685” for “1785”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3680(d)(4)” for “1780(d)(4)” and “3685” for “1785”.
 
-1989—Subsec. (a)(1). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+1989—Subsec. (a)(1). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 101–237, § 416(a)(1), substituted “chapter 31, 34,” for “chapter 34”.
+Pub. L. 101–237, § 416(a)(1), substituted “chapter 31, 34,” for “chapter 34”.
 
-Subsec. (a)(2)(A), (3)(B). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (a)(2)(A), (3)(B). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 101–237, § 416(a)(2), inserted reference to chapter 31.
+Pub. L. 101–237, § 416(a)(2), inserted reference to chapter 31.
 
-Subsec. (c). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (c). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 101–237, § 416(a)(3), inserted references to chapter 31.
+Pub. L. 101–237, § 416(a)(3), inserted references to chapter 31.
 
-1986—Subsec. (a)(1), (2). Pub. L. 99–576, § 318, designated existing provisions as par. (1), substituted “Except as provided in paragraph (2) of this subsection, the” for “The”, and added par. (2).
+1986—Subsec. (a)(1), (2). Pub. L. 99–576, § 318, designated existing provisions as par. (1), substituted “Except as provided in paragraph (2) of this subsection, the” for “The”, and added par. (2).
 
-Subsec. (a)(3). Pub. L. 99–576, § 319, added par. (3).
+Subsec. (a)(3). Pub. L. 99–576, § 319, added par. (3).
 
 1982—Subsec. (c). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-1980—Pub. L. 96–466, § 343(b)(1), substituted “Reports by veterans, eligible persons, and institutions” for “Reports by institutions” in section catchline.
+1980—Pub. L. 96–466, § 343(b)(1), substituted “Reports by veterans, eligible persons, and institutions” for “Reports by institutions” in section catchline.
 
-Subsec. (a). Pub. L. 96–466, § 343(a)(1), expanded provisions to require reports by veterans and eligible persons.
+Subsec. (a). Pub. L. 96–466, § 343(a)(1), expanded provisions to require reports by veterans and eligible persons.
 
-Subsec. (b). Pub. L. 96–466, § 343(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 96–466, § 343(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 96–466, §§ 343(a)(2), 601(e), redesignated former subsec. (b) as (c) and substituted “section 1780(d)(4)” for “section 1780(d)(5)”.
+Subsec. (c). Pub. L. 96–466, §§ 343(a)(2), 601(e), redesignated former subsec. (b) as (c) and substituted “section 1780(d)(4)” for “section 1780(d)(5)”.
 
 1977—Subsec. (b). Pub. L. 95–202 substituted “$7” and “$11” for “$5” and “$6”, respectively, and inserted provision that no reporting fee payable to an educational institution under this subsection be subject to offset by the Administrator against any liability of the institution for any overpayment for which the institution may be administratively determined to be liable under section 1785 of this title unless that liability is not contested by the institution or has been upheld by a final decree of a court of appropriate jurisdiction.
 
-1976—Subsec. (a). Pub. L. 94–502, §§ 507, 513(a)(17), substituted “prescribed by the Administrator” for “prescribed by him”, and specified the date of interruption or termination as the last date of pursuit, or in the case of a correspondence school, the last date a lesson was serviced.
+1976—Subsec. (a). Pub. L. 94–502, §§ 507, 513(a)(17), substituted “prescribed by the Administrator” for “prescribed by him”, and specified the date of interruption or termination as the last date of pursuit, or in the case of a correspondence school, the last date a lesson was serviced.
 
-Subsec. (b). Pub. L. 94–502, §§ 508, 513(a)(17), substituted “$5” for “$3”, “$6” for “$4”, and “submit to the Administrator” for “submit to him”.
+Subsec. (b). Pub. L. 94–502, §§ 508, 513(a)(17), substituted “$5” for “$3”, “$6” for “$4”, and “submit to the Administrator” for “submit to him”.
 
 1974—Subsec. (b). Pub. L. 93–508 extended the payment of reporting fee to educational institutions under this chapter and to joint apprenticeship training committees acting as training establishments, and in provisions relating to computation of such fee, substituted reference to this chapter for reference to chapter 36 of this title.
 
-1972—Subsec. (a). Pub. L. 92–540, § 315(1), inserted reference to chapter 36 of this title.
+1972—Subsec. (a). Pub. L. 92–540, § 315(1), inserted reference to chapter 36 of this title.
 
-Subsec. (b). Pub. L. 92–540, § 315(1), (2), (3), inserted reference to chapter 36 of this title, and substituted provisions relating to the computation of the reporting fee based on the number of eligible veterans or eligible persons enrolled under chapter 34, 35, or 36 of this title, or based on eligible veterans and eligible persons whose educational assistance checks are directed in care of such institution for temporary custody and delivery and are delivered at the time of registration as provided under section 1780(d)(5) of this title, for provisions relating to the computation of such fee based on eligible veterans enrolled under chapter 34 of this title, plus the number of eligible persons enrolled under chapter 35 of this title.
+Subsec. (b). Pub. L. 92–540, § 315(1), (2), (3), inserted reference to chapter 36 of this title, and substituted provisions relating to the computation of the reporting fee based on the number of eligible veterans or eligible persons enrolled under chapter 34, 35, or 36 of this title, or based on eligible veterans and eligible persons whose educational assistance checks are directed in care of such institution for temporary custody and delivery and are delivered at the time of registration as provided under section 1780(d)(5) of this title, for provisions relating to the computation of such fee based on eligible veterans enrolled under chapter 34 of this title, plus the number of eligible persons enrolled under chapter 35 of this title.
 
 1967—Pub. L. 90–77 provided for the reporting fee in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
@@ -2735,23 +2735,23 @@ Subsec. (b). Pub. L. 92–540, § 315(1), (2), (3), inserted reference to chap
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–48, title III, § 304(b), Aug. 16, 2017, 131 Stat. 992, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2018.”
+Pub. L. 115–48, title III, § 304(b), Aug. 16, 2017, 131 Stat. 992, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2018.”
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title IV, § 407(b), Dec. 16, 2016, 130 Stat. 1558, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to reports submitted on or after the date of the enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–315, title IV, § 407(b), Dec. 16, 2016, 130 Stat. 1558, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to reports submitted on or after the date of the enactment of this Act [Dec. 16, 2016].”
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–377, title II, § 204(c), Jan. 4, 2011, 124 Stat. 4126, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 111–377, title II, § 204(c), Jan. 4, 2011, 124 Stat. 4126, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title II, § 201(c), Nov. 11, 1998, 112 Stat. 3326, provided that: “The amendments made by this section [amending this section] shall apply with respect to calendar years beginning after December 31, 1998.”
+Pub. L. 105–368, title II, § 201(c), Nov. 11, 1998, 112 Stat. 3326, provided that: “The amendments made by this section [amending this section] shall apply with respect to calendar years beginning after December 31, 1998.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title IV, § 416(b), Dec. 18, 1989, 103 Stat. 2086, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 1990.”
+Pub. L. 101–237, title IV, § 416(b), Dec. 18, 1989, 103 Stat. 2086, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 1990.”
 
 **Effective Date of 1980 Amendment**
 
@@ -2777,7 +2777,7 @@ Amendment by Pub. L. 90–77 effective first day of first month which begins mor
 
 **Training for School Certifying Officials**
 
-Pub. L. 115–48, title III, § 305, Aug. 16, 2017, 131 Stat. 992, provided that:
+Pub. L. 115–48, title III, § 305, Aug. 16, 2017, 131 Stat. 992, provided that:
 
 > **“(a) Training Requirement.—** The Secretary of Veterans Affairs shall, in consultation with the State approving agencies, set forth requirements relating to training for school certifying officials employed by covered educational institutions offering courses of education approved under chapter 36 of title 38, United States Code. If a covered educational institution does not ensure that a school certifying official employed by the educational institution meets such requirements, the Secretary may disapprove any course of education offered by such educational institution.
 
@@ -2793,9 +2793,9 @@ Pub. L. 115–48, title III, § 305, Aug. 16, 2017, 131 Stat. 992, provided th
 
 **Modifications of Reporting Fee Multipliers During Certain Periods**
 
-Pub. L. 115–62, title IV, § 411(b), Sept. 29, 2017, 131 Stat. 1165, provided that: “During the period beginning on August 1, 2018, and ending on July 31, 2020, section 3684(c)(2) of title 38, United States Code, as amended by section 304 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48) shall be applied by substituting ‘$15’ for ‘$16’.”
+Pub. L. 115–62, title IV, § 411(b), Sept. 29, 2017, 131 Stat. 1165, provided that: “During the period beginning on August 1, 2018, and ending on July 31, 2020, section 3684(c)(2) of title 38, United States Code, as amended by section 304 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48) shall be applied by substituting ‘$15’ for ‘$16’.”
 
-Pub. L. 114–315, title IV, § 412(a), (b), Dec. 16, 2016, 130 Stat. 1562, as amended by Pub. L. 115–62, title IV, § 411(a), Sept. 29, 2017, 131 Stat. 1165, provided that:
+Pub. L. 114–315, title IV, § 412(a), (b), Dec. 16, 2016, 130 Stat. 1562, as amended by Pub. L. 115–62, title IV, § 411(a), Sept. 29, 2017, 131 Stat. 1165, provided that:
 
 > **“(a) Through July 31, 2018.—** During the period beginning on the date of the enactment of this Act [Dec. 16, 2016] and ending on July 31, 2018, the second sentence of section 3684(c) of title 38, United States Code, shall be applied—
 
@@ -2803,9 +2803,9 @@ Pub. L. 114–315, title IV, § 412(a), (b), Dec. 16, 2016, 130 Stat. 1562, as
 
 > **“(2)** by substituting ‘$12’ for ‘$15’.”
 
-[(b) Repealed. Pub. L. 115–62, title IV, § 411(a)(1)(B), Sept. 29, 2017, 131 Stat. 1165.]
+[(b) Repealed. Pub. L. 115–62, title IV, § 411(a)(1)(B), Sept. 29, 2017, 131 Stat. 1165.]
 
-Pub. L. 113–175, title IV, § 406, Sept. 26, 2014, 128 Stat. 1905, as amended by Pub. L. 114–58, title IV, § 410, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 413, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, § 412(c), Dec. 16, 2016, 130 Stat. 1562, provided that:
+Pub. L. 113–175, title IV, § 406, Sept. 26, 2014, 128 Stat. 1905, as amended by Pub. L. 114–58, title IV, § 410, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 413, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, § 412(c), Dec. 16, 2016, 130 Stat. 1562, provided that:
 
 > “During the period beginning on the date of the enactment of this Act [Sept. 26, 2014] and ending on the day before the date of the enactment of the Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016 [Dec. 16, 2016], the second sentence of section 3684(c) shall be applied—
 
@@ -2813,7 +2813,7 @@ Pub. L. 113–175, title IV, § 406, Sept. 26, 2014, 128 Stat. 1905, as amende
 
 > **“(2)** by substituting ‘$13’ for ‘$15’.”
 
-### § 3684A. Procedures relating to computer matching program
+### § 3684A. Procedures relating to computer matching program
 
 **(a)**
 
@@ -2831,7 +2831,7 @@ Pub. L. 113–175, title IV, § 406, Sept. 26, 2014, 128 Stat. 1905, as amende
 
 **(c)** For purposes of this section, the term “matching program” has the same meaning provided in section 552a(a)(8) of title 5.
 
-(Added Pub. L. 101–366, title II, § 206(a), Aug. 15, 1990, 104 Stat. 441, § 1784A; renumbered § 3684A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 101–366, title II, § 206(a), Aug. 15, 1990, 104 Stat. 441, § 1784A; renumbered § 3684A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -2839,7 +2839,7 @@ Pub. L. 113–175, title IV, § 406, Sept. 26, 2014, 128 Stat. 1905, as amende
 
 1991—Pub. L. 102–83 renumbered section 1784A of this title as this section.
 
-### § 3685. Overpayments to eligible persons or veterans
+### § 3685. Overpayments to eligible persons or veterans
 
 **(a)** Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person relating to educational assistance under a law administered by the Secretary, the amount of such overpayment shall constitute a liability of such veteran or eligible person to the United States.
 
@@ -2871,7 +2871,7 @@ Pub. L. 113–175, title IV, § 406, Sept. 26, 2014, 128 Stat. 1905, as amende
 
 **(2)** Nothing in this section or any other provision of this title shall be construed as (A) precluding the imposition of any civil or criminal liability under this title or any other law, or (B) requiring any institution of higher learning to maintain daily attendance records for any course leading to a standard college degree.
 
-(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 22, § 1785; amended Pub. L. 92–540, title IV, § 403(11), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 95–202, title III, § 304(a)(2), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, § 344, Oct. 17, 1980, 94 Stat. 2199; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3685 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–315, title I, § 1019, Jan. 5, 2021, 134 Stat. 4950.)
+(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 22, § 1785; amended Pub. L. 92–540, title IV, § 403(11), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 95–202, title III, § 304(a)(2), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, § 344, Oct. 17, 1980, 94 Stat. 2199; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3685 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–315, title I, § 1019, Jan. 5, 2021, 134 Stat. 4950.)
 
 **Editorial Notes**
 
@@ -2881,13 +2881,13 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–315, § 1019(b), inserted “relating to educational assistance under a law administered by the Secretary” after “made to a veteran or eligible person”.
+2021—Subsec. (a). Pub. L. 116–315, § 1019(b), inserted “relating to educational assistance under a law administered by the Secretary” after “made to a veteran or eligible person”.
 
-Subsec. (b). Pub. L. 116–315, § 1019(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person as the result of (1) the willful or negligent failure of an educational institution to report, as required under this chapter or chapter 34 or 35 of this title, to the Department of Veterans Affairs excessive absences from a course, or discontinuance or interruption of a course by the veteran or eligible person, or (2) the willful or negligent false certification by an educational institution, the amount of such overpayment shall constitute a liability of the educational institution to the United States.”
+Subsec. (b). Pub. L. 116–315, § 1019(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person as the result of (1) the willful or negligent failure of an educational institution to report, as required under this chapter or chapter 34 or 35 of this title, to the Department of Veterans Affairs excessive absences from a course, or discontinuance or interruption of a course by the veteran or eligible person, or (2) the willful or negligent false certification by an educational institution, the amount of such overpayment shall constitute a liability of the educational institution to the United States.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1785 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1785 of this title as this section.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3684(c)” for “1784(c)”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3684(c)” for “1784(c)”.
 
 Subsec. (d). Pub. L. 102–40 substituted “5302” for “3102”.
 
@@ -2895,7 +2895,7 @@ Subsec. (d). Pub. L. 102–40 substituted “5302” for “3102”.
 
 1980—Pub. L. 96–466 designated existing provisions as subsecs. (b), (c), and (e), with minor changes in language, and added subsecs. (a) and (d).
 
-1977—Pub. L. 95–202 inserted “, except as otherwise provided in section 1784(b) of this title,” after “recovered” in first sentence, and inserted last sentence providing that nothing in this section or any other provision of this title shall be construed as requiring any institution of higher learning to maintain daily attendance for any course leading to a standard college degree.
+1977—Pub. L. 95–202 inserted “, except as otherwise provided in section 1784(b) of this title,” after “recovered” in first sentence, and inserted last sentence providing that nothing in this section or any other provision of this title shall be construed as requiring any institution of higher learning to maintain daily attendance for any course leading to a standard college degree.
 
 1972—Pub. L. 92–540 inserted “this chapter or” before “chapter 34 or 35”.
 
@@ -2909,7 +2909,7 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specif
 
 Amendment by Pub. L. 95–202 effective Nov. 23, 1977, see section 501 of Pub. L. 95–202, set out as a note under section 101 of this title.
 
-### § 3686. Correspondence courses
+### § 3686. Correspondence courses
 
 **(a)**
 
@@ -2923,7 +2923,7 @@ Amendment by Pub. L. 95–202 effective Nov. 23, 1977, see section 501 of Pub. L
 
 **(c)** In the event a veteran or spouse or surviving spouse elects to terminate such veteran’s or spouse’s enrollment under an affirmed enrollment agreement, the institution may charge the veteran or spouse or surviving spouse a registration or similar fee not in excess of 10 percent of the tuition for the course, or $50, whichever is less. Where the veteran or spouse or surviving spouse elects to terminate the agreement after completion of one or more but less than 25 percent of the total number of lessons comprising the course, the institution may retain such registration or similar fee plus 25 percent of the tuition for the course. Where the veteran or spouse or surviving spouse elects to terminate the agreement after completion of 25 percent but less than 50 percent of the lessons comprising the course, the institution may retain the full registration or similar fee plus 50 percent of the course tuition. If 50 percent or more of the lessons are completed, no refund of tuition is required.
 
-(Added Pub. L. 92–540, title III, § 316(1), Oct. 24, 1972, 86 Stat. 1084, § 1786; amended Pub. L. 93–508, title I, § 104(1), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, § 205(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title V, §§ 501(1), 513(a)(18), Oct. 15, 1976, 90 Stat. 2398, 2403; Pub. L. 95–202, title I, § 104(1), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§ 203(2), 213(2), title VI, § 604, Oct. 17, 1980, 94 Stat. 2189, 2191, 2209; Pub. L. 97–35, title XX, § 2004(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–174, § 5(a), May 4, 1982, 96 Stat. 75; Pub. L. 97–295, § 4(56), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, § 204(1), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3686 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 605(a)(2)(C), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 109–444, § 3(c)(1), Dec. 21, 2006, 120 Stat. 3307; Pub. L. 109–461, title III, § 301(c)(1), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3427, 3468; Pub. L. 110–389, title III, § 323, Oct. 10, 2008, 122 Stat. 4168.)
+(Added Pub. L. 92–540, title III, § 316(1), Oct. 24, 1972, 86 Stat. 1084, § 1786; amended Pub. L. 93–508, title I, § 104(1), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, § 205(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title V, §§ 501(1), 513(a)(18), Oct. 15, 1976, 90 Stat. 2398, 2403; Pub. L. 95–202, title I, § 104(1), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§ 203(2), 213(2), title VI, § 604, Oct. 17, 1980, 94 Stat. 2189, 2191, 2209; Pub. L. 97–35, title XX, § 2004(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–174, § 5(a), May 4, 1982, 96 Stat. 75; Pub. L. 97–295, § 4(56), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, § 204(1), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3686 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 605(a)(2)(C), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 109–444, § 3(c)(1), Dec. 21, 2006, 120 Stat. 3307; Pub. L. 109–461, title III, § 301(c)(1), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3427, 3468; Pub. L. 110–389, title III, § 323, Oct. 10, 2008, 122 Stat. 4168.)
 
 **Editorial Notes**
 
@@ -2931,19 +2931,19 @@ Amendment by Pub. L. 95–202 effective Nov. 23, 1977, see section 501 of Pub. L
 
 2008—Subsec. (b). Pub. L. 110–389 substituted “five” for “ten”.
 
-2006—Subsec. (a)(1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (a)(1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 301(c)(1), substituted “(D), or (E)” for “or (D)”.
+Pub. L. 109–461, § 301(c)(1), substituted “(D), or (E)” for “or (D)”.
 
-Pub. L. 109–444, which substituted “(D), or (E)” for “or (D)”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “(D), or (E)” for “or (D)”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 1994—Subsec. (c). Pub. L. 103–446 struck out “(other than one subject to the provisions of section 3676 of this title)” before “may charge”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1786 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1786 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “3452(a)(1)” for “1652(a)(1)” and “3501(a)(1)(B)” for “1701(a)(1)(B)”.
+Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “3452(a)(1)” for “1652(a)(1)” and “3501(a)(1)(B)” for “1701(a)(1)(B)”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3676” for “1776”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3676” for “1776”.
 
 1989—Subsecs. (a)(3), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -2955,19 +2955,19 @@ Subsec. (c). Pub. L. 97–295 substituted “percent” for “per centum” whe
 
 1981—Subsec. (a)(1). Pub. L. 97–35 substituted “55” for “70”.
 
-1980—Subsec. (a)(1). Pub. L. 96–466, § 604, substituted “70 percent” for “90 per centum”.
+1980—Subsec. (a)(1). Pub. L. 96–466, § 604, substituted “70 percent” for “90 per centum”.
 
-Subsec. (a)(2). Pub. L. 96–466, § 213(2), substituted “$342” for “$327”.
+Subsec. (a)(2). Pub. L. 96–466, § 213(2), substituted “$342” for “$327”.
 
-Pub. L. 96–466, § 203(2), substituted “$327” for “$311”.
+Pub. L. 96–466, § 203(2), substituted “$327” for “$311”.
 
 1977—Subsec. (a)(2). Pub. L. 95–202 substituted “$311” for “$292”.
 
-1976—Subsec. (a)(1). Pub. L. 94–502, § 513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing.
+1976—Subsec. (a)(1). Pub. L. 94–502, § 513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing.
 
-Subsec. (a)(2). Pub. L. 94–502, §§ 501(1), 513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” in two places and “$292” for “$270”.
+Subsec. (a)(2). Pub. L. 94–502, §§ 501(1), 513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” in two places and “$292” for “$270”.
 
-Subsecs. (b), (c). Pub. L. 94–502, § 513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing and “such veteran’s or spouse’s” for “his”.
+Subsecs. (b), (c). Pub. L. 94–502, § 513(a)(18), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing and “such veteran’s or spouse’s” for “his”.
 
 1975—Subsec. (a)(2). Pub. L. 93–602 substituted “$270” for “$260”.
 
@@ -2989,11 +2989,11 @@ Amendment by Pub. L. 98–543 effective Oct. 1, 1984, see section 205 of Pub. L.
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–174, § 5(b), May 4, 1982, 96 Stat. 76, provided that: “The amendment made by subsection (a) of this section [amending this section] shall take effect as of October 1, 1981.”
+Pub. L. 97–174, § 5(b), May 4, 1982, 96 Stat. 76, provided that: “The amendment made by subsection (a) of this section [amending this section] shall take effect as of October 1, 1981.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title XX, § 2004(b), Aug. 13, 1981, 95 Stat. 782, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to correspondence lessons completed and submitted to the educational institution concerned before October 1, 1981.”
+Pub. L. 97–35, title XX, § 2004(b), Aug. 13, 1981, 95 Stat. 782, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to correspondence lessons completed and submitted to the educational institution concerned before October 1, 1981.”
 
 **Effective Date of 1980 Amendment**
 
@@ -3019,7 +3019,7 @@ Amendment by Pub. L. 93–508 effective Sept. 1, 1974, see section 501 of Pub. L
 
 **Effective Date**
 
-Pub. L. 92–540, title VI, § 602, Oct. 24, 1972, 86 Stat. 1099, provided that:
+Pub. L. 92–540, title VI, § 602, Oct. 24, 1972, 86 Stat. 1099, provided that:
 
 > **“(a)** The provisions of section 1786 [now 3686] of title 38, United States Code (as added by section 316 of this Act), which apply to programs of education exclusively by correspondence, shall, as to those wives and widows made eligible for such training by that section, become effective January 1, 1973, and, as to eligible veterans, shall apply only to those enrollment agreements which are entered into on or after January 1, 1973.
 
@@ -3029,7 +3029,7 @@ Pub. L. 92–540, title VI, § 602, Oct. 24, 1972, 86 Stat. 1099, provided tha
 
 Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, see section 604 of Pub. L. 92–540, set out as a note under section 3512 of this title.
 
-### § 3687. Apprenticeship or other on-job training
+### § 3687. Apprenticeship or other on-job training
 
 **(a)** An eligible veteran (as defined in section 3452(a)(1) of this title) or an eligible person (as defined in section 3501(a) of this title) shall be paid a training assistance allowance as prescribed by subsection (b) of this section while pursuing a full-time—
 
@@ -3093,9 +3093,9 @@ subject to the conditions and limitations of chapters 34 and 35 of this title wi
 
 **(E)**
 
-**(i)**  1
+**(i)** 1
 
-<sup>1</sup>  So in original. No cl. (ii) was enacted.
+<sup>1</sup> So in original. No cl. (ii) was enacted.
 
 In the case of an individual who fails to complete 120 hours of training during a month, but who completed more than 120 hours of training during the preceding month, the individual may apply the number of hours in excess of 120 that the individual completed for that month to the month for which the individual failed to complete 120 hours. If the addition of such excess hours results in a total of 120 hours or more, the individual shall be treated as an individual who has completed 120 hours of training for that month. Any excess hours applied to a different month under this subparagraph may only be applied to one such month.
 
@@ -3115,13 +3115,13 @@ In the case of an individual who fails to complete 120 hours of training during 
 
 as the case may be.
 
-(Added Pub. L. 92–540, title III, § 316(1), Oct. 24, 1972, 86 Stat. 1085, § 1787; amended Pub. L. 93–508, title I, § 104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, § 205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, § 501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, § 104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§ 203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, § 4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, § 204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, § 403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered § 3687 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, § 8210(d), as added Pub. L. 105–206, title IX, § 9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, § 111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, § 102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, § 302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, § 102(a), Dec. 10, 2004, 118 Stat. 3600; Pub. L. 117–333, § 7(a), Jan. 5, 2023, 136 Stat. 6129.)
+(Added Pub. L. 92–540, title III, § 316(1), Oct. 24, 1972, 86 Stat. 1085, § 1787; amended Pub. L. 93–508, title I, § 104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, § 205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, § 501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, § 104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§ 203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, § 4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, § 204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, § 403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered § 3687 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, § 8210(d), as added Pub. L. 105–206, title IX, § 9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, § 111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, § 102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, § 302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, § 102(a), Dec. 10, 2004, 118 Stat. 3600; Pub. L. 117–333, § 7(a), Jan. 5, 2023, 136 Stat. 6129.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those comprising this section were contained in former section 1683, as added by Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, § 103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, § 7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
+Provisions similar to those comprising this section were contained in former section 1683, as added by Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, § 103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, § 7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
 
 **Amendments**
 
@@ -3133,25 +3133,25 @@ Provisions similar to those comprising this section were contained in former sec
 
 2001—Subsec. (b)(2). Pub. L. 107–103 substituted “$488” for “$428”, “$365” for “$320”, “$242” for “$212”, and “$122” for “$107”.
 
-2000—Subsec. (b)(2). Pub. L. 106–419, § 111(d), substituted “$428” for “$353”, “$320” for “$264”, “$212” for “$175”, and “$107” for “$88”.
+2000—Subsec. (b)(2). Pub. L. 106–419, § 111(d), substituted “$428” for “$353”, “$320” for “$264”, “$212” for “$175”, and “$107” for “$88”.
 
-Subsec. (d). Pub. L. 106–419, § 111(f)(2), added subsec. (d).
+Subsec. (d). Pub. L. 106–419, § 111(f)(2), added subsec. (d).
 
-1998—Subsec. (b)(2). Pub. L. 105–178, § 8210(d), as added by Pub. L. 105–206, § 9014(b), substituted “$353” for “$294”, “$264” for “$220”, “$175” for “$146”, and “$88” for “$73”.
+1998—Subsec. (b)(2). Pub. L. 105–178, § 8210(d), as added by Pub. L. 105–206, § 9014(b), substituted “$353” for “$294”, “$264” for “$220”, “$175” for “$146”, and “$88” for “$73”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1787 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1787 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3452(a)(1)” for “1652(a)(1)” and “3501(a)” for “1701(a)” in introductory provisions and “3677” for “1777” in par. (2).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3452(a)(1)” for “1652(a)(1)” and “3501(a)” for “1701(a)” in introductory provisions and “3677” for “1777” in par. (2).
 
 1989—Subsec. (b)(2). Pub. L. 101–237 substituted “$294 for the first six months, $220 for the second six months, $146 for the third six months, and $73 for the fourth and any succeeding six-month periods of training” for “computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course”.
 
 1984—Subsec. (b)(1). Pub. L. 98–543 increased monthly training assistance allowance of eligible veterans in column II from $249, $186, $124 and $62 to $274, $205, $136, and $68; in column III from $279, $217, $155, and $92 to $307, $239, $171, and $101; in column IV from $305, $243, $180, and $119 to $336, $267, $198 and $131; in column V from $13, $13, $13 and $13 to $14, $14, $14 and $14, respectively.
 
-1982—Subsec. (a). Pub. L. 97–295 substituted “section 2 of the Act of August 16, 1937 (popularly known as the ‘National Apprenticeship Act’) (29 U.S.C. 50a)” for “section 50a of title 29” in cl. (1), and inserted “of this title” after “34 and 35” in provisions following cl. (2).
+1982—Subsec. (a). Pub. L. 97–295 substituted “section 2 of the Act of August 16, 1937 (popularly known as the ‘National Apprenticeship Act’) (29 U.S.C. 50a)” for “section 50a of title 29” in cl. (1), and inserted “of this title” after “34 and 35” in provisions following cl. (2).
 
-1980—Subsec. (b)(1). Pub. L. 96–466, § 213(3), increased monthly training assistance allowance of eligible veterans in column II from $237, $177, $119, and $59 to $249, $186, $124, and $62; in column III from $267, $207, $148, and $88 to $279, $217, $155, and $92; in column IV from $291, $232, $172, and $113 to $305, $243, $180, and $119, respectively.
+1980—Subsec. (b)(1). Pub. L. 96–466, § 213(3), increased monthly training assistance allowance of eligible veterans in column II from $237, $177, $119, and $59 to $249, $186, $124, and $62; in column III from $267, $207, $148, and $88 to $279, $217, $155, and $92; in column IV from $291, $232, $172, and $113 to $305, $243, $180, and $119, respectively.
 
-Pub. L. 96–466, § 203(3), increased monthly training assistance allowance of eligible veterans in column II from $226, $169, $113, and $56 to $237, $177, $119, and $59; in column III from $254, $197, $141, and $84 to $267, $207, $148, and $88; in column IV from $277, $221, $164, and $108 to $291, $232, $172, and $113; in column V from $12, $12, $12, and $12 to $13, $13, $13, and $13, respectively.
+Pub. L. 96–466, § 203(3), increased monthly training assistance allowance of eligible veterans in column II from $226, $169, $113, and $56 to $237, $177, $119, and $59; in column III from $254, $197, $141, and $84 to $267, $207, $148, and $88; in column IV from $277, $221, $164, and $108 to $291, $232, $172, and $113; in column V from $12, $12, $12, and $12 to $13, $13, $13, and $13, respectively.
 
 1977—Subsec. (b)(1). Pub. L. 95–202 increased monthly training assistance allowance of eligible veterans in column II from $212, $159, $106, and $53 to $226, $169, $113, and $56; in column III from $238, $185, $132, and $79 to $254, $197, $141, and $84; in column IV from $260, $207, $154, and $101 to $277, $221, $164, and $108; in column V from $11, $11, $11, and $11 to $12, $12, $12, and $12, respectively.
 
@@ -3159,15 +3159,15 @@ Pub. L. 96–466, § 203(3), increased monthly training assistance allowance o
 
 1975—Subsec. (b)(1). Pub. L. 93–602 increased monthly training assistance allowance of eligible veterans in column II from “$189”, “$142”, “$95”, and “$47” to “$196”, “$147”, “$98”, and “$49”; in column III from “$212”, “$164”, “$117”, “$70” to “$220”, “$171”, “$122”, and “$73”; in column IV from “$232”, “$184”, “$137”, and “$90” to “$240”, “$191”, “$142”, and “$93”; and in column V from “$9”, “$9”, “$9”, and “$9” to “$10”, “$10”, “$10”, and “$10”, respectively.
 
-1974—Subsec. (b)(1). Pub. L. 93–508, § 104(2), increased monthly training assistance allowance of eligible veterans in column II from “$160, $120, $80, and $40” to “$189, $142, $95, and $47”; in column III from “$179, $139, $99, and $59” to “$212, $164, $117, and $70”; in column IV from “$196, $156, $116, and $76” to “$232, $184, $137, and $90”; and in column V from “$8, $8, $8, and $8” to “$9, $9, $9, and $9”, respectively.
+1974—Subsec. (b)(1). Pub. L. 93–508, § 104(2), increased monthly training assistance allowance of eligible veterans in column II from “$160, $120, $80, and $40” to “$189, $142, $95, and $47”; in column III from “$179, $139, $99, and $59” to “$212, $164, $117, and $70”; in column IV from “$196, $156, $116, and $76” to “$232, $184, $137, and $90”; and in column V from “$8, $8, $8, and $8” to “$9, $9, $9, and $9”, respectively.
 
-Subsec. (b)(2). Pub. L. 93–508, § 104(3), substituted “computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course” for “(A) $160 during the first six-month period, (B) $120 during the second six-month period, (C) $80 during the third six-month period, and (D) $40 during the fourth and any succeeding six-month period”.
+Subsec. (b)(2). Pub. L. 93–508, § 104(3), substituted “computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course” for “(A) $160 during the first six-month period, (B) $120 during the second six-month period, (C) $80 during the third six-month period, and (D) $40 during the fourth and any succeeding six-month period”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–454, title I, § 102(b), Dec. 10, 2004, 118 Stat. 3600, provided that:“The amendment made by subsection (a) [amending this section] shall apply with respect to months beginning after September 30, 2005.”
+Pub. L. 108–454, title I, § 102(b), Dec. 10, 2004, 118 Stat. 3600, provided that:“The amendment made by subsection (a) [amending this section] shall apply with respect to months beginning after September 30, 2005.”
 
 **Effective Date of 2003 Amendment**
 
@@ -3223,11 +3223,11 @@ Section effective Oct. 1, 1972, except for those veterans and eligible persons i
 
 **Apprenticeship or On-Job Training Requirements**
 
-Pub. L. 116–315, title I, § 1106, Jan. 5, 2021, 134 Stat. 4965, as amended by Pub. L. 117–76, § 5(e), Dec. 21, 2021, 135 Stat. 1520, which temporarily substituted provisions for subsec. (e)(2) of this section, regarding entitlement reduction requirements in cases of unemployed individuals who failed to complete 120 hours of training, was repealed by Pub. L. 117–333, § 7(b), Jan. 5, 2023, 136 Stat. 6130. See subsec. (e)(2) of this section, as amended by section 7(a) of Pub. L. 117–333.
+Pub. L. 116–315, title I, § 1106, Jan. 5, 2021, 134 Stat. 4965, as amended by Pub. L. 117–76, § 5(e), Dec. 21, 2021, 135 Stat. 1520, which temporarily substituted provisions for subsec. (e)(2) of this section, regarding entitlement reduction requirements in cases of unemployed individuals who failed to complete 120 hours of training, was repealed by Pub. L. 117–333, § 7(b), Jan. 5, 2023, 136 Stat. 6130. See subsec. (e)(2) of this section, as amended by section 7(a) of Pub. L. 117–333.
 
 **Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Survivors and Dependents Educational Assistance**
 
-Pub. L. 108–454, title I, § 103(c), Dec. 10, 2004, 118 Stat. 3601, provided that:
+Pub. L. 108–454, title I, § 103(c), Dec. 10, 2004, 118 Stat. 3601, provided that:
 
 > **“(1)** For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of section 3687 of title 38, United States Code, shall be applied as if—
 
@@ -3245,7 +3245,7 @@ Pub. L. 108–454, title I, § 103(c), Dec. 10, 2004, 118 Stat. 3601, provided
 
 Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, see section 604 of Pub. L. 92–540.
 
-### § 3688. Measurement of courses
+### § 3688. Measurement of courses
 
 **(a)** For the purposes of this chapter and chapters 34 and 35 of this title—
 
@@ -3265,49 +3265,49 @@ Termination of eligibility period for a wife or widow, or an eligible person eig
 
 **(b)** The Secretary shall define part-time training in the case of the types of courses referred to in subsection (a), and shall define full-time and part-time training in the case of all other types of courses pursued under this chapter, chapter 30, 32, 33, or 35 of this title, or chapter 106 of title 10.
 
-(Added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1086, § 1788; amended Pub. L. 93–508, title II, § 211, Dec. 3, 1974, 88 Stat. 1585; Pub. L. 94–502, title V, § 509(a), Oct. 15, 1976, 90 Stat. 2400; Pub. L. 95–202, title III, § 304(a)(3), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, § 345, title VI, § 601(f), Oct. 17, 1980, 94 Stat. 2199, 2208; Pub. L. 97–295, § 4(58), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 99–576, title III, § 315(a)(2), (b), Oct. 28, 1986, 100 Stat. 3274; Pub. L. 100–322, title III, § 321(a), May 20, 1988, 102 Stat. 535; Pub. L. 101–237, title IV, §§ 413(a), 417, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; renumbered § 3688 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 316(a), Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, § 607, title XII, § 1201(e)(12), Nov. 2, 1994, 108 Stat. 4672, 4685; Pub. L. 110–252, title V, § 5003(b)(2)(A)(ii), June 30, 2008, 122 Stat. 2375.)
+(Added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1086, § 1788; amended Pub. L. 93–508, title II, § 211, Dec. 3, 1974, 88 Stat. 1585; Pub. L. 94–502, title V, § 509(a), Oct. 15, 1976, 90 Stat. 2400; Pub. L. 95–202, title III, § 304(a)(3), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, § 345, title VI, § 601(f), Oct. 17, 1980, 94 Stat. 2199, 2208; Pub. L. 97–295, § 4(58), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 99–576, title III, § 315(a)(2), (b), Oct. 28, 1986, 100 Stat. 3274; Pub. L. 100–322, title III, § 321(a), May 20, 1988, 102 Stat. 535; Pub. L. 101–237, title IV, §§ 413(a), 417, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; renumbered § 3688 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 316(a), Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, § 607, title XII, § 1201(e)(12), Nov. 2, 1994, 108 Stat. 4672, 4685; Pub. L. 110–252, title V, § 5003(b)(2)(A)(ii), June 30, 2008, 122 Stat. 2375.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those comprising this section were contained in former section 1684, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 18, § 1683; renumbered Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, § 206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§ 8, 11, Dec. 24, 1970, 84 Stat. 1577; and former section 1733, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198; Pub. L. 91–219, title II, § 206(b), Mar. 26, 1970, 84 Stat. 82; Pub. L. 91–584, § 12, Dec. 24, 1970, 84 Stat. 1577, prior to the general revision by Pub. L. 92–540.
+Provisions similar to those comprising this section were contained in former section 1684, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 18, § 1683; renumbered Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, § 206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§ 8, 11, Dec. 24, 1970, 84 Stat. 1577; and former section 1733, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198; Pub. L. 91–219, title II, § 206(b), Mar. 26, 1970, 84 Stat. 82; Pub. L. 91–584, § 12, Dec. 24, 1970, 84 Stat. 1577, prior to the general revision by Pub. L. 92–540.
 
 **Amendments**
 
 2008—Subsec. (b). Pub. L. 110–252 inserted “33,” after “32,”.
 
-1994—Subsec. (a)(6). Pub. L. 103–446, § 1201(e)(12), inserted comma after “3241(a)(2)”.
+1994—Subsec. (a)(6). Pub. L. 103–446, § 1201(e)(12), inserted comma after “3241(a)(2)”.
 
-Subsec. (b). Pub. L. 103–446, § 607, substituted “this chapter,” for “this chapter or” and inserted “, or chapter 106 of title 10” after “this title”.
+Subsec. (b). Pub. L. 103–446, § 607, substituted “this chapter,” for “this chapter or” and inserted “, or chapter 106 of title 10” after “this title”.
 
-1992—Subsec. (a). Pub. L. 102–568, § 316(a)(1)(E), struck out concluding provisions which read as follows: “Notwithstanding the provisions of clause (1) or (2) of this subsection, an educational institution offering courses not leading to a standard college degree may measure such courses on a quarter- or semester-hour basis (with full time measured on the same basis as provided by clause (4) of this subsection); but (A) the academic portions of such courses must require outside preparation and be measured on not less than one quarter or one semester hour for each fifty minutes net of instruction per week or quarter or semester; (B) the laboratory portions of such courses must be measured on not less than one quarter or one semester hour for each two hours (or two 50-minute periods) of attendance per week per quarter or semester; and (C) the shop portions of such courses must be measured on not less than one quarter or one semester hour for each three hours (or three 50-minute periods) of attendance per week per quarter or semester. In no event shall such course be considered a full-time course when less than twenty-two hours per week of attendance is required.”
+1992—Subsec. (a). Pub. L. 102–568, § 316(a)(1)(E), struck out concluding provisions which read as follows: “Notwithstanding the provisions of clause (1) or (2) of this subsection, an educational institution offering courses not leading to a standard college degree may measure such courses on a quarter- or semester-hour basis (with full time measured on the same basis as provided by clause (4) of this subsection); but (A) the academic portions of such courses must require outside preparation and be measured on not less than one quarter or one semester hour for each fifty minutes net of instruction per week or quarter or semester; (B) the laboratory portions of such courses must be measured on not less than one quarter or one semester hour for each two hours (or two 50-minute periods) of attendance per week per quarter or semester; and (C) the shop portions of such courses must be measured on not less than one quarter or one semester hour for each three hours (or three 50-minute periods) of attendance per week per quarter or semester. In no event shall such course be considered a full-time course when less than twenty-two hours per week of attendance is required.”
 
-Subsec. (a)(1). Pub. L. 102–568, § 316(a)(1)(A), substituted “22 hours per week of attendance (excluding supervised study) is required, with no more than 2½ hours of rest periods per week allowed” for “thirty hours per week of attendance is required with no more than two and one-half hours of rest periods and not more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 3675(a)(1) of this title, then 22 hours per week of attendance, with no more than 2½ hours of rest period per week allowed and excluding supervised study, shall be considered full time”.
+Subsec. (a)(1). Pub. L. 102–568, § 316(a)(1)(A), substituted “22 hours per week of attendance (excluding supervised study) is required, with no more than 2½ hours of rest periods per week allowed” for “thirty hours per week of attendance is required with no more than two and one-half hours of rest periods and not more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 3675(a)(1) of this title, then 22 hours per week of attendance, with no more than 2½ hours of rest period per week allowed and excluding supervised study, shall be considered full time”.
 
-Subsec. (a)(2). Pub. L. 102–568, § 316(a)(1)(B), substituted “18 hours per week net of instruction (excluding supervised study but which may include customary intervals not to exceed 10 minutes between hours of instruction) is required” for “twenty-five hours per week net of instruction and not more than 5 hours of supervised study (which may include customary intervals not to exceed ten minutes between hours of instruction) is required, but if such course is approved pursuant to section 3675(a)(1) of this title, then 18 hours per week net of instruction (excluding supervised study), which may include customary intervals not to exceed ten minutes between hours of instruction, shall be considered full time”.
+Subsec. (a)(2). Pub. L. 102–568, § 316(a)(1)(B), substituted “18 hours per week net of instruction (excluding supervised study but which may include customary intervals not to exceed 10 minutes between hours of instruction) is required” for “twenty-five hours per week net of instruction and not more than 5 hours of supervised study (which may include customary intervals not to exceed ten minutes between hours of instruction) is required, but if such course is approved pursuant to section 3675(a)(1) of this title, then 18 hours per week net of instruction (excluding supervised study), which may include customary intervals not to exceed ten minutes between hours of instruction, shall be considered full time”.
 
-Subsec. (a)(4). Pub. L. 102–568, § 316(a)(1)(C), inserted “, other than a course pursued as part of a program of education beyond the baccalaureate level,” after “semester-hour basis” and struck out “in residence” after “by a college or university”.
+Subsec. (a)(4). Pub. L. 102–568, § 316(a)(1)(C), inserted “, other than a course pursued as part of a program of education beyond the baccalaureate level,” after “semester-hour basis” and struck out “in residence” after “by a college or university”.
 
-Subsec. (a)(6). Pub. L. 102–568, § 316(a)(1)(D), substituted “3034(a)(3), 3241(a)(2) or 3533(a)” for “3491(a)(2)”.
+Subsec. (a)(6). Pub. L. 102–568, § 316(a)(1)(D), substituted “3034(a)(3), 3241(a)(2) or 3533(a)” for “3491(a)(2)”.
 
-Subsec. (a)(7). Pub. L. 102–568, § 316(a)(1)(E), added par. (7) and struck out former par. (7) which read as follows: “an institutional course not leading to a standard college degree, offered by a fully accredited institution of higher learning in residence on a standard quarter- or semester-hour basis, shall be measured as full time on the same basis as provided in clause (4) of this subsection if (A) such course is approved pursuant to section 3675 of this title, and (B) a majority of the total credits required for the course is derived from unit courses or subjects offered by the institution as part of a course, so approved, leading to a standard college degree.”
+Subsec. (a)(7). Pub. L. 102–568, § 316(a)(1)(E), added par. (7) and struck out former par. (7) which read as follows: “an institutional course not leading to a standard college degree, offered by a fully accredited institution of higher learning in residence on a standard quarter- or semester-hour basis, shall be measured as full time on the same basis as provided in clause (4) of this subsection if (A) such course is approved pursuant to section 3675 of this title, and (B) a majority of the total credits required for the course is derived from unit courses or subjects offered by the institution as part of a course, so approved, leading to a standard college degree.”
 
-Subsec. (b). Pub. L. 102–568, § 316(a)(2), substituted “30, 32,” for “34”.
+Subsec. (b). Pub. L. 102–568, § 316(a)(2), substituted “30, 32,” for “34”.
 
-Subsecs. (c) to (e). Pub. L. 102–568, § 316(a)(3), struck out subsec. (c) which defined “in residence on a standard quarter- or semester-hour basis” for purposes of subsec. (a), subsec. (d) which specified which institutional undergraduate courses were to be considered full-time courses, and subsec. (e) which provided method for determining clock hours of enrollment.
+Subsecs. (c) to (e). Pub. L. 102–568, § 316(a)(3), struck out subsec. (c) which defined “in residence on a standard quarter- or semester-hour basis” for purposes of subsec. (a), subsec. (d) which specified which institutional undergraduate courses were to be considered full-time courses, and subsec. (e) which provided method for determining clock hours of enrollment.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1788 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1788 of this title as this section.
 
-Subsec. (a)(1), (2), (6), (7). Pub. L. 102–83, § 5(c)(1), substituted “3675(a)(1)” for “1775(a)(1)” in pars. (1) and (2), “3491(a)(2)” for “1691(a)(2)” in par. (6), and “3675” for “1775” in par. (7).
+Subsec. (a)(1), (2), (6), (7). Pub. L. 102–83, § 5(c)(1), substituted “3675(a)(1)” for “1775(a)(1)” in pars. (1) and (2), “3491(a)(2)” for “1691(a)(2)” in par. (6), and “3675” for “1775” in par. (7).
 
-1989—Subsec. (a). Pub. L. 101–237, § 413(a)(1), inserted “(or three 50-minute periods)” after “three hours” in cl. (C) of penultimate sentence.
+1989—Subsec. (a). Pub. L. 101–237, § 413(a)(1), inserted “(or three 50-minute periods)” after “three hours” in cl. (C) of penultimate sentence.
 
-Subsecs. (a)(4), (b). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
+Subsecs. (a)(4), (b). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 101–237, § 413(a)(2), inserted “(or three 50-minute periods)” after “three hours” in last sentence.
+Subsec. (c). Pub. L. 101–237, § 413(a)(2), inserted “(or three 50-minute periods)” after “three hours” in last sentence.
 
-Subsec. (e). Pub. L. 101–237, § 417, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the purpose of determining whether a course—
+Subsec. (e). Pub. L. 101–237, § 417, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the purpose of determining whether a course—
 
 “(1) which is offered by an institution of higher learning, and
 
@@ -3315,33 +3315,33 @@ Subsec. (e). Pub. L. 101–237, § 417, amended subsec. (e) generally. Prior t
 
 will, during the semester (or quarter or other applicable portion of the academic year) when such unit course or subject is being pursued, be considered full time under clause (1) or (2) of subsection (a) of this section, each of the numbers of hours specified in such clause shall be deemed to be reduced, during such semester (or other portion of the academic year), by the percentage described in the following sentence and rounded as the Administrator may prescribe. Such percentage is the percentage that the number of semester hours (or the equivalent thereof) represented by such unit course or subject is of the number of semester hours (or the equivalent thereof) which, under clause (4) of such subsection, constitutes a full-time institutional undergraduate course at such institution.”
 
-1988—Subsec. (a). Pub. L. 100–322, § 321(a)(1), inserted “(or two 50-minute periods)” after “two hours” in cl. (B) of penultimate sentence.
+1988—Subsec. (a). Pub. L. 100–322, § 321(a)(1), inserted “(or two 50-minute periods)” after “two hours” in cl. (B) of penultimate sentence.
 
-Subsec. (c). Pub. L. 100–322, § 321(a)(2), inserted “(or two 50-minute periods)” after “two hours”.
+Subsec. (c). Pub. L. 100–322, § 321(a)(2), inserted “(or two 50-minute periods)” after “two hours”.
 
-1986—Subsec. (a)(7). Pub. L. 99–576, § 315(a)(2)(A), added par. (7).
+1986—Subsec. (a)(7). Pub. L. 99–576, § 315(a)(2)(A), added par. (7).
 
-Subsec. (c). Pub. L. 99–576, § 315(a)(2)(B), struck out “(4)” after “(a)”.
+Subsec. (c). Pub. L. 99–576, § 315(a)(2)(B), struck out “(4)” after “(a)”.
 
-Subsec. (e). Pub. L. 99–576, § 315(b), added subsec. (e).
+Subsec. (e). Pub. L. 99–576, § 315(b), added subsec. (e).
 
 1982—Subsec. (a)(6). Pub. L. 97–295 inserted “of this subsection” after “or (4)”.
 
-1980—Subsec. (a)(1), (2). Pub. L. 96–466, § 345(a)(1), substituted “section 1775(a)(1) of this title” for “section 1775 of this title”.
+1980—Subsec. (a)(1), (2). Pub. L. 96–466, § 345(a)(1), substituted “section 1775(a)(1) of this title” for “section 1775 of this title”.
 
-Subsec. (a)(4). Pub. L. 96–466, § 345(a)(2), (3), substituted “in residence on a standard quarter- or semester-hour basis” for “on a quarter- or semester-hour basis”, and inserted “per semester” after “minimum of fourteen semester hours”.
+Subsec. (a)(4). Pub. L. 96–466, § 345(a)(2), (3), substituted “in residence on a standard quarter- or semester-hour basis” for “on a quarter- or semester-hour basis”, and inserted “per semester” after “minimum of fourteen semester hours”.
 
-Subsec. (a)(6). Pub. L. 96–466, § 601(f), substituted “under section 1691(a)(2) of this title” for “under section 1691(a)(2) or 1696(a)(2) of this title”.
+Subsec. (a)(6). Pub. L. 96–466, § 601(f), substituted “under section 1691(a)(2) of this title” for “under section 1691(a)(2) or 1696(a)(2) of this title”.
 
-Subsecs. (c), (d). Pub. L. 96–466, § 345(b), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 96–466, § 345(b), added subsecs. (c) and (d).
 
-1977—Subsec. (a)(1). Pub. L. 95–202, § 304(a)(3)(A), (B), substituted “two and one-half hours of rest periods and not more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 1775 of this title, then 22 hours per week of attendance” for “two and one-half hours of rest periods per week allowed, but if such course is approved pursuant to section 1775 of this title, then 27 hours per week of attendance”.
+1977—Subsec. (a)(1). Pub. L. 95–202, § 304(a)(3)(A), (B), substituted “two and one-half hours of rest periods and not more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 1775 of this title, then 22 hours per week of attendance” for “two and one-half hours of rest periods per week allowed, but if such course is approved pursuant to section 1775 of this title, then 27 hours per week of attendance”.
 
-Subsec. (a)(2). Pub. L. 95–202, § 304(a)(3)(C), (D), substituted “minimum of twenty-five hours per week net of instruction and not more than 5 hours of supervised study” for “minimum of twenty-five hours per week net of instruction” and “18 hours per week” for “22 hours per week”.
+Subsec. (a)(2). Pub. L. 95–202, § 304(a)(3)(C), (D), substituted “minimum of twenty-five hours per week net of instruction and not more than 5 hours of supervised study” for “minimum of twenty-five hours per week net of instruction” and “18 hours per week” for “22 hours per week”.
 
-1976—Subsec. (a)(1). Pub. L. 94–502, § 509(a)(1), provided that, if a course was approved pursuant to section 1775 of this title, then 27 hours of attendance per week with no more than 2½ hours of rest period per week would be considered full time.
+1976—Subsec. (a)(1). Pub. L. 94–502, § 509(a)(1), provided that, if a course was approved pursuant to section 1775 of this title, then 27 hours of attendance per week with no more than 2½ hours of rest period per week would be considered full time.
 
-Subsec. (a)(2). Pub. L. 94–502, § 509(a)(2), provided that, if a course was approved pursuant to section 1775 of this title, then 22 hours of instruction per week with a ten minute interval between hours would be considered full time.
+Subsec. (a)(2). Pub. L. 94–502, § 509(a)(2), provided that, if a course was approved pursuant to section 1775 of this title, then 22 hours of instruction per week with a ten minute interval between hours would be considered full time.
 
 1974—Subsec. (a). Pub. L. 93–508 in cl. (1) substituted “basis, not leading to a standard college degree involving” for “basis below the college level involving”; in cl. (2) substituted “basis, not leading to a standard college degree, in which” for “basis below the college level in which”; in cl. (6) substituted “not leading to a standard college degree” for “below the college level”; and following cl. (6), inserted provisions that notwithstanding cls. (1) and (2) of this subsection, an educational institution offering courses not leading to a standard college degree may measure such courses on a quarter- or semester-hour basis with special requirements for the academic, laboratory, and shop portions of such courses, and that in no event such course be considered a full-time course unless twenty-two hours per week of attendance is required.
 
@@ -3357,7 +3357,7 @@ Amendment by Pub. L. 102–568 applicable to enrollments in courses beginning on
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–322, title III, § 321(b), May 20, 1988, 102 Stat. 535, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any enrollment or reenrollment commencing on or after the date of enactment of this Act [May 20, 1988].”
+Pub. L. 100–322, title III, § 321(b), May 20, 1988, 102 Stat. 535, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any enrollment or reenrollment commencing on or after the date of enactment of this Act [May 20, 1988].”
 
 **Effective Date of 1980 Amendment**
 
@@ -3377,7 +3377,7 @@ Amendment by Pub. L. 94–502 effective Dec. 1, 1976, see section 703(c) of Pub.
 
 Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as a note under section 3452 of this title.
 
-### § 3689. Approval requirements for licensing and certification testing
+### § 3689. Approval requirements for licensing and certification testing
 
 **(a) In General.—**
 
@@ -3463,13 +3463,13 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 **(5)** The Committee shall terminate December 31, 2006.
 
-(Added Pub. L. 106–419, title I, § 122(c)(1), Nov. 1, 2000, 114 Stat. 1835; amended Pub. L. 107–330, title III, § 308(d), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 110–252, title V, § 5003(b)(2)(A)(iii), June 30, 2008, 122 Stat. 2375; Pub. L. 111–377, title II, § 203(a)(2)(C), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 117–76, § 3(c)(1), Dec. 21, 2021, 135 Stat. 1518.)
+(Added Pub. L. 106–419, title I, § 122(c)(1), Nov. 1, 2000, 114 Stat. 1835; amended Pub. L. 107–330, title III, § 308(d), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 110–252, title V, § 5003(b)(2)(A)(iii), June 30, 2008, 122 Stat. 2375; Pub. L. 111–377, title II, § 203(a)(2)(C), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 117–76, § 3(c)(1), Dec. 21, 2021, 135 Stat. 1518.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3689, added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1087, § 1789; amended Pub. L. 94–502, title V, § 509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, § 305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, § 601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§ 418, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered § 3689, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years, prior to repeal by Pub. L. 104–275, title I, § 103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326.
+A prior section 3689, added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1087, § 1789; amended Pub. L. 94–502, title V, § 509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, § 305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, § 601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§ 418, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered § 3689, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years, prior to repeal by Pub. L. 104–275, title I, § 103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326.
 
 **Amendments**
 
@@ -3495,7 +3495,7 @@ Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pu
 
 Section effective Mar. 1, 2001, and applicable with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date, see section 122(d) of Pub. L. 106–419, set out as an Effective Date of 2000 Amendment note under section 3032 of this title.
 
-### § 3690. Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements
+### § 3690. Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements
 
 **(a) Overcharges by Educational Institutions.—** If the Secretary finds that an educational institution has—
 
@@ -3535,13 +3535,13 @@ the Secretary may disapprove such educational institution for the enrollment of 
 
 **(d) False or Misleading Statements.—** Whenever the Secretary finds that an educational institution has willfully submitted a false or misleading claim, or that a veteran or person, with the complicity of an educational institution, has submitted such a claim, the Secretary shall make a complete report of the facts of the case to the appropriate State approving agency and, where deemed advisable, to the Attorney General of the United States for appropriate action.
 
-(Added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1088, § 1790; amended Pub. L. 94–502, title V, §§ 510, 513(a)(19), Oct. 15, 1976, 90 Stat. 2401, 2403; Pub. L. 95–202, title III, § 306, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 96–466, title VIII, § 801(f), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, § 4(59), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, § 207, Oct. 14, 1982, 96 Stat. 1435; Pub. L. 101–237, title IV, § 423(a)(9), (b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3690, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, § 506(b)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 109–233, title V, § 503(8)(A), June 15, 2006, 120 Stat. 416; Pub. L. 110–252, title V, § 5003(b)(2)(A)(iv), June 30, 2008, 122 Stat. 2375; Pub. L. 117–76, § 3(c)(2), Dec. 21, 2021, 135 Stat. 1519.)
+(Added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1088, § 1790; amended Pub. L. 94–502, title V, §§ 510, 513(a)(19), Oct. 15, 1976, 90 Stat. 2401, 2403; Pub. L. 95–202, title III, § 306, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 96–466, title VIII, § 801(f), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, § 4(59), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, § 207, Oct. 14, 1982, 96 Stat. 1435; Pub. L. 101–237, title IV, § 423(a)(9), (b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3690, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, § 506(b)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 109–233, title V, § 503(8)(A), June 15, 2006, 120 Stat. 416; Pub. L. 110–252, title V, § 5003(b)(2)(A)(iv), June 30, 2008, 122 Stat. 2375; Pub. L. 117–76, § 3(c)(2), Dec. 21, 2021, 135 Stat. 1519.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those comprising subsec. (a) were contained in former section 1685, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1684; renumbered Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186, and former section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 89–358, § 4(m), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (b) were contained in former section 1687, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1686; renumbered Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; and former section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, § 2, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, § 4(*o*), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (c) were contained in former section 1786, as added by Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23; and provisions similar to those comprising subsec. (d) were contained in former section 1787, as added by Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23; prior to the general revision by Pub. L. 92–540.
+Provisions similar to those comprising subsec. (a) were contained in former section 1685, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1684; renumbered Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186, and former section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 89–358, § 4(m), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (b) were contained in former section 1687, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1686; renumbered Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; and former section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, § 2, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, § 4(*o*), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (c) were contained in former section 1786, as added by Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23; and provisions similar to those comprising subsec. (d) were contained in former section 1787, as added by Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23; prior to the general revision by Pub. L. 92–540.
 
 **Amendments**
 
@@ -3553,35 +3553,35 @@ Provisions similar to those comprising subsec. (a) were contained in former sect
 
 1991—Pub. L. 102–83 renumbered section 1790 of this title as this section.
 
-Subsec. (b). Pub. L. 102–86 made technical amendment to directory language of Pub. L. 101–237, § 423(b)(2). See 1989 Amendment note below.
+Subsec. (b). Pub. L. 102–86 made technical amendment to directory language of Pub. L. 101–237, § 423(b)(2). See 1989 Amendment note below.
 
-1989—Subsec. (a). Pub. L. 101–237, § 423(a)(9)(A), (b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing and struck out “and prepayment” after “advance” in par. (2).
+1989—Subsec. (a). Pub. L. 101–237, § 423(a)(9)(A), (b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing and struck out “and prepayment” after “advance” in par. (2).
 
-Subsec. (b). Pub. L. 101–237, § 423(a)(9)(B), (C), (b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing, inserted “30,” before “32” in par. (3)(A), and in par. (3)(B) substituted “(B)” for “(B)(i)” and redesignated subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively.
+Subsec. (b). Pub. L. 101–237, § 423(a)(9)(B), (C), (b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing, inserted “30,” before “32” in par. (3)(A), and in par. (3)(B) substituted “(B)” for “(B)(i)” and redesignated subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively.
 
-Pub. L. 101–237, § 423(b)(2), as amended by Pub. L. 102–86, substituted “Secretary’s” for “Administrator’s” in par. (3)(B)(iii).
+Pub. L. 101–237, § 423(b)(2), as amended by Pub. L. 102–86, substituted “Secretary’s” for “Administrator’s” in par. (3)(B)(iii).
 
-Subsecs. (c), (d). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (c), (d). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-1982—Subsec. (a). Pub. L. 97–295, § 4(59)(A), substituted “after October 24, 1972” for “after the effective date of section 1780 of this title” in par. (2), and struck out the comma after “or 35” in provisions following par. (2).
+1982—Subsec. (a). Pub. L. 97–295, § 4(59)(A), substituted “after October 24, 1972” for “after the effective date of section 1780 of this title” in par. (2), and struck out the comma after “or 35” in provisions following par. (2).
 
-Subsec. (b)(1). Pub. L. 97–295, § 4(59)(B), inserted “of this title” after “provision of this chapter or chapter 34 or 35”.
+Subsec. (b)(1). Pub. L. 97–295, § 4(59)(B), inserted “of this title” after “provision of this chapter or chapter 34 or 35”.
 
-Subsec. (b)(2). Pub. L. 97–306, § 207(1), substituted “Except as provided in paragraph (3) of this subsection, any” for “Any”.
+Subsec. (b)(2). Pub. L. 97–306, § 207(1), substituted “Except as provided in paragraph (3) of this subsection, any” for “Any”.
 
-Subsec. (b)(3). Pub. L. 97–306, § 207(2), added par. (3).
+Subsec. (b)(3). Pub. L. 97–306, § 207(2), added par. (3).
 
 1980—Subsec. (b)(2). Pub. L. 96–466 substituted “for” for “therefor”.
 
 1977—Subsec. (b). Pub. L. 95–202 designated existing provisions as par. (1) and added par. (2).
 
-1976—Subsec. (a). Pub. L. 94–502, § 513(a)(19), substituted “the Administrator may disapprove” for “he may disapprove”.
+1976—Subsec. (a). Pub. L. 94–502, § 513(a)(19), substituted “the Administrator may disapprove” for “he may disapprove”.
 
-Subsec. (b). Pub. L. 94–502, § 513(a)(19), substituted “if the Administrator finds” for “if he finds” in two places.
+Subsec. (b). Pub. L. 94–502, § 513(a)(19), substituted “if the Administrator finds” for “if he finds” in two places.
 
-Subsec. (c). Pub. L. 94–502, § 510, substituted “chapter 31, 32, 34, or 35” for “chapter 31, 34, or 35” and required the records of other students which the Administrator determines necessary to ascertain institutional compliance to be available for inspection.
+Subsec. (c). Pub. L. 94–502, § 510, substituted “chapter 31, 32, 34, or 35” for “chapter 31, 34, or 35” and required the records of other students which the Administrator determines necessary to ascertain institutional compliance to be available for inspection.
 
-Subsec. (d). Pub. L. 94–502, § 513(a)(19), substituted “the Administrator shall make” for “he shall make”.
+Subsec. (d). Pub. L. 94–502, § 513(a)(19), substituted “the Administrator shall make” for “he shall make”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3591,7 +3591,7 @@ Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pu
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–86, title V, § 506(b), Aug. 14, 1991, 105 Stat. 426, provided that the amendment made by section 506(b)(1) is effective as of Dec. 18, 1989.
+Pub. L. 102–86, title V, § 506(b), Aug. 14, 1991, 105 Stat. 426, provided that the amendment made by section 506(b)(1) is effective as of Dec. 18, 1989.
 
 **Effective Date of 1980 Amendment**
 
@@ -3605,7 +3605,7 @@ Amendment by Pub. L. 95–202 effective Nov. 23, 1977, see section 501 of Pub. L
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-### § 3691. Change of program
+### § 3691. Change of program
 
 **(a)** Except as provided in subsections (b) and (c) of this section, each eligible veteran and eligible person may make not more than one change of program of education, but an eligible veteran or eligible person whose program has been interrupted or discontinued due to the veteran’s or person’s own misconduct, the veteran’s or person’s own neglect, or the veteran’s or person’s own lack of application shall not be entitled to any such change.
 
@@ -3633,13 +3633,13 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(2)** A veteran or eligible person undergoing a change from one program of education to another program of education as described in paragraph (1)(E) shall not be required to apply to the Secretary for approval of such change.
 
-(Added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1089, § 1791; amended Pub. L. 94–502, title V, § 513(a)(20), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–366, title II, § 208(a), Aug. 15, 1990, 104 Stat. 443; renumbered § 3691, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 317, Oct. 29, 1992, 106 Stat. 4334; Pub. L. 110–389, title III, § 324, Oct. 10, 2008, 122 Stat. 4168.)
+(Added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1089, § 1791; amended Pub. L. 94–502, title V, § 513(a)(20), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–366, title II, § 208(a), Aug. 15, 1990, 104 Stat. 443; renumbered § 3691, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, § 317, Oct. 29, 1992, 106 Stat. 4334; Pub. L. 110–389, title III, § 324, Oct. 10, 2008, 122 Stat. 4168.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those comprising this section were contained in former section 1672, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 15; and former section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, prior to repeal by sections 401(6) and 402(2) of Pub. L. 92–540, respectively.
+Provisions similar to those comprising this section were contained in former section 1672, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 15; and former section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, prior to repeal by sections 401(6) and 402(2) of Pub. L. 92–540, respectively.
 
 **Amendments**
 
@@ -3663,13 +3663,13 @@ Subsec. (c). Pub. L. 94–502 substituted “if the Administrator finds” for �
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–366, title II, § 208(b), Aug. 15, 1990, 104 Stat. 443, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on June 1, 1991.”
+Pub. L. 101–366, title II, § 208(b), Aug. 15, 1990, 104 Stat. 443, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on June 1, 1991.”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-### § 3691A. Withdrawal or leave of absence from certain education
+### § 3691A. Withdrawal or leave of absence from certain education
 
 **(a) In General.—**
 
@@ -3719,9 +3719,9 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(6)** The term “period of covered service” means the period beginning on the date on which a covered member enters covered service and ending on the date on which the covered member is released from covered service or dies while in covered service.
 
-(Added Pub. L. 117–328, div. U, title II, § 216(a), Dec. 29, 2022, 136 Stat. 5455.)
+(Added Pub. L. 117–328, div. U, title II, § 216(a), Dec. 29, 2022, 136 Stat. 5455.)
 
-### § 3692. Advisory committee
+### § 3692. Advisory committee
 
 **(a)** There shall be a Veterans’ Advisory Committee on Education formed by the Secretary which shall be composed of persons who are eminent in their respective fields of education, labor, and management and of representatives of institutions and establishments furnishing education to eligible veterans or persons enrolled under chapter 30, 32, 33, or 35 of this title and chapter 1606 of title 10. The committee shall also, to the maximum extent practicable, include a representative sample of veterans and other individuals who have used, or may in the future use, educational assistance benefits administered by the Secretary. The Assistant Secretary of Education for Postsecondary Education (or such other comparable official of the Department of Education as the Secretary of Education may designate) and the Assistant Secretary of Labor for Veterans’ Employment and Training shall be ex officio members of the advisory committee.
 
@@ -3729,7 +3729,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(c)** The committee shall remain in existence until December 31, 2026.
 
-(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, § 1788; renumbered § 1792 and amended Pub. L. 92–540, title III, § 316(2), (3), Oct. 24, 1972, 86 Stat. 1086, 1089; Pub. L. 96–466, title III, § 346, Oct. 17, 1980, 94 Stat. 2200; Pub. L. 99–576, title III, § 304, Oct. 28, 1986, 100 Stat. 3269; Pub. L. 100–689, title I, § 123, Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–25, title III, § 338, Apr. 6, 1991, 105 Stat. 91; Pub. L. 102–54, § 14(c)(7), June 13, 1991, 105 Stat. 285; renumbered § 3692, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–210, § 2(d), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 103–446, title VI, § 608, Nov. 2, 1994, 108 Stat. 4672; Pub. L. 108–183, title III, § 307, Dec. 16, 2003, 117 Stat. 2661; Pub. L. 110–252, title V, § 5003(b)(2)(A)(v), June 30, 2008, 122 Stat. 2375; Pub. L. 111–275, title I, § 102, Oct. 13, 2010, 124 Stat. 2866; Pub. L. 113–59, § 12, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title III, § 301, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title II, § 201, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, § 201, Sept. 29, 2016, 130 Stat. 938; Pub. L. 114–315, title IV, § 413, Dec. 16, 2016, 130 Stat. 1562; Pub. L. 115–48, title III, § 306, Aug. 16, 2017, 131 Stat. 993; Pub. L. 117–180, div. E, title IV, § 404, Sept. 30, 2022, 136 Stat. 2139.)
+(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, § 1788; renumbered § 1792 and amended Pub. L. 92–540, title III, § 316(2), (3), Oct. 24, 1972, 86 Stat. 1086, 1089; Pub. L. 96–466, title III, § 346, Oct. 17, 1980, 94 Stat. 2200; Pub. L. 99–576, title III, § 304, Oct. 28, 1986, 100 Stat. 3269; Pub. L. 100–689, title I, § 123, Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–25, title III, § 338, Apr. 6, 1991, 105 Stat. 91; Pub. L. 102–54, § 14(c)(7), June 13, 1991, 105 Stat. 285; renumbered § 3692, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–210, § 2(d), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 103–446, title VI, § 608, Nov. 2, 1994, 108 Stat. 4672; Pub. L. 108–183, title III, § 307, Dec. 16, 2003, 117 Stat. 2661; Pub. L. 110–252, title V, § 5003(b)(2)(A)(v), June 30, 2008, 122 Stat. 2375; Pub. L. 111–275, title I, § 102, Oct. 13, 2010, 124 Stat. 2866; Pub. L. 113–59, § 12, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title III, § 301, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title II, § 201, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, § 201, Sept. 29, 2016, 130 Stat. 938; Pub. L. 114–315, title IV, § 413, Dec. 16, 2016, 130 Stat. 1562; Pub. L. 115–48, title III, § 306, Aug. 16, 2017, 131 Stat. 993; Pub. L. 117–180, div. E, title IV, § 404, Sept. 30, 2022, 136 Stat. 2139.)
 
 **Editorial Notes**
 
@@ -3757,17 +3757,17 @@ Subsec. (c). Pub. L. 114–228 substituted “December 31, 2017” for “Decemb
 
 2008—Subsecs. (a), (b). Pub. L. 110–252 inserted “33,” after “32,”.
 
-2003—Subsec. (a). Pub. L. 108–183, § 307(a), (c)(1), substituted “chapter 1606” for “chapter 106” in first sentence and inserted “, to the maximum extent practicable,” after “The committee shall also” in second sentence.
+2003—Subsec. (a). Pub. L. 108–183, § 307(a), (c)(1), substituted “chapter 1606” for “chapter 106” in first sentence and inserted “, to the maximum extent practicable,” after “The committee shall also” in second sentence.
 
-Subsec. (b). Pub. L. 108–183, § 307(c), substituted “chapters 30” for “chapter 30” and “chapter 1606” for “chapter 106”.
+Subsec. (b). Pub. L. 108–183, § 307(c), substituted “chapters 30” for “chapter 30” and “chapter 1606” for “chapter 106”.
 
-Subsec. (c). Pub. L. 108–183, § 307(b), substituted “December 31, 2009” for “December 31, 2003”.
+Subsec. (c). Pub. L. 108–183, § 307(b), substituted “December 31, 2009” for “December 31, 2003”.
 
-1994—Subsec. (a). Pub. L. 103–446, § 608(1), struck out “34,” after “chapter 30, 32,” and inserted “and chapter 106 of title 10” after “of this title”.
+1994—Subsec. (a). Pub. L. 103–446, § 608(1), struck out “34,” after “chapter 30, 32,” and inserted “and chapter 106 of title 10” after “of this title”.
 
-Subsec. (b). Pub. L. 103–446, § 608(2), substituted “this chapter, chapter 30, 32, and 35 of this title, and chapter 106 of title 10” for “this chapter and chapters 30, 32, 34, and 35 of this title”.
+Subsec. (b). Pub. L. 103–446, § 608(2), substituted “this chapter, chapter 30, 32, and 35 of this title, and chapter 106 of title 10” for “this chapter and chapters 30, 32, 34, and 35 of this title”.
 
-Subsec. (c). Pub. L. 103–446, § 608(3), substituted “December 31, 2003” for “December 31, 1994”.
+Subsec. (c). Pub. L. 103–446, § 608(3), substituted “December 31, 2003” for “December 31, 1994”.
 
 1993—Subsec. (c). Pub. L. 103–210 substituted “1994” for “1993”.
 
@@ -3781,13 +3781,13 @@ Pub. L. 102–25 substituted “the post-Vietnam era, and the Persian Gulf War�
 
 1988—Subsec. (c). Pub. L. 100–689 substituted “1993” for “1989”.
 
-1986—Subsec. (a). Pub. L. 99–576, § 304(1), substituted “a Veterans’ Advisory Committee on Education” for “an advisory committee”, and inserted reference to chapter 30.
+1986—Subsec. (a). Pub. L. 99–576, § 304(1), substituted “a Veterans’ Advisory Committee on Education” for “an advisory committee”, and inserted reference to chapter 30.
 
-Subsec. (b). Pub. L. 99–576, § 304(2), inserted reference to chapter 30.
+Subsec. (b). Pub. L. 99–576, § 304(2), inserted reference to chapter 30.
 
 1980—Pub. L. 96–466 designated existing provisions as subsecs. (a) and (b), substituted reference to furnishing education to eligible veterans or persons enrolled under chapter 32, 34, or 35 of this title for reference to furnishing vocational rehabilitation under chapter 31 of this title or education to eligible persons or veterans enrolled under chapter 34 or 35 of this title, reference to the Assistant Secretary of Education for Postsecondary Education or other comparable official and the Assistant Secretary of Labor for Veterans’ Employment, for reference to the Commissioner of Education and the Administrator, Manpower Administration, Department of Labor, and reference to seeking the advice of the committee with respect to the administration of this chapter and chapters 32, 34, and 35 of this title for reference to advising the committee with respect to the administration of this chapter and chapters 31, 34, and 35 of this title, and inserted provision that the committee include veterans representative of the post-Vietnam era, and added subsec. (c).
 
-1972—Pub. L. 92–540, § 316(3), inserted provisions that the Committee also include veterans representative of World War II, the Korean conflict era, the post-Korean conflict era and the Vietnam era.
+1972—Pub. L. 92–540, § 316(3), inserted provisions that the Committee also include veterans representative of World War II, the Korean conflict era, the post-Korean conflict era and the Vietnam era.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3805,17 +3805,17 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 **Commission To Assess Veterans’ Education Policy**
 
-Pub. L. 99–576, title III, § 320, Oct. 28, 1986, 100 Stat. 3275, as amended by Pub. L. 100–323, § 14, May 20, 1988, 102 Stat. 574, provided for establishment of a Commission on Veterans’ Education Policy, provided for appointment of members of Commission not later than Mar. 1, 1987, directed Commission to submit a report, not later than 18 months after at least 8 members had been appointed, to Committees on Veterans’ Affairs of Senate and House of Representatives, containing the Commission’s findings and recommendations on various matters relating to veterans’ education, directed Administrator of Veterans Affairs to file interim and final reports, not later than 2 years after Commission’s report, to those Committees responding to Commission’s report, and provided for termination of Commission 90 days after Administrator submitted final report.
+Pub. L. 99–576, title III, § 320, Oct. 28, 1986, 100 Stat. 3275, as amended by Pub. L. 100–323, § 14, May 20, 1988, 102 Stat. 574, provided for establishment of a Commission on Veterans’ Education Policy, provided for appointment of members of Commission not later than Mar. 1, 1987, directed Commission to submit a report, not later than 18 months after at least 8 members had been appointed, to Committees on Veterans’ Affairs of Senate and House of Representatives, containing the Commission’s findings and recommendations on various matters relating to veterans’ education, directed Administrator of Veterans Affairs to file interim and final reports, not later than 2 years after Commission’s report, to those Committees responding to Commission’s report, and provided for termination of Commission 90 days after Administrator submitted final report.
 
 **Study of Educational Assistance Programs for Veterans, Survivors, and Dependents; Submission to Congress and President by September 30, 1979**
 
-Pub. L. 95–202, title III, § 304(b), Nov. 23, 1977, 91 Stat. 1442, directed Administrator of Veterans’ Affairs, in consultation with Advisory Committee formed pursuant to this section, to conduct a study respecting operation of programs of educational assistance carried out under this chapter and chapter 34 of this title and that a report concerning such study be submitted to Congress not later than Sept. 30, 1979.
+Pub. L. 95–202, title III, § 304(b), Nov. 23, 1977, 91 Stat. 1442, directed Administrator of Veterans’ Affairs, in consultation with Advisory Committee formed pursuant to this section, to conduct a study respecting operation of programs of educational assistance carried out under this chapter and chapter 34 of this title and that a report concerning such study be submitted to Congress not later than Sept. 30, 1979.
 
 **Study of Operation of Post-Korean Conflict Programs of Educational Assistance**
 
-Pub. L. 92–540, title IV, § 413, Oct. 24, 1972, 86 Stat. 1093, provided for a comparative study of operation of post-Korean conflict program of educational assistance with similar prior programs available to veterans of World War II and Korean conflict, the results of such study and recommendations for improvement to be transmitted to President and Congress within six months of Oct. 24, 1972.
+Pub. L. 92–540, title IV, § 413, Oct. 24, 1972, 86 Stat. 1093, provided for a comparative study of operation of post-Korean conflict program of educational assistance with similar prior programs available to veterans of World War II and Korean conflict, the results of such study and recommendations for improvement to be transmitted to President and Congress within six months of Oct. 24, 1972.
 
-### § 3693. Compliance surveys
+### § 3693. Compliance surveys
 
 **(a)**
 
@@ -3839,7 +3839,7 @@ Pub. L. 92–540, title IV, § 413, Oct. 24, 1972, 86 Stat. 1093, provided for
 
 **(d)** In this section, the terms “educational institution” and “training establishment” have the meanings given such terms in section 3452 of this title.
 
-(Added Pub. L. 94–502, title V, § 511(1), Oct. 15, 1976, 90 Stat. 2401, § 1793; amended Pub. L. 100–322, title III, § 322, May 20, 1988, 102 Stat. 535; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3693, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 114–315, title IV, § 411, Dec. 16, 2016, 130 Stat. 1561; Pub. L. 117–333, § 12(b), Jan. 5, 2023, 136 Stat. 6134.)
+(Added Pub. L. 94–502, title V, § 511(1), Oct. 15, 1976, 90 Stat. 2401, § 1793; amended Pub. L. 100–322, title III, § 322, May 20, 1988, 102 Stat. 535; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3693, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 114–315, title IV, § 411, Dec. 16, 2016, 130 Stat. 1561; Pub. L. 117–333, § 12(b), Jan. 5, 2023, 136 Stat. 6134.)
 
 **Editorial Notes**
 
@@ -3847,11 +3847,11 @@ Pub. L. 92–540, title IV, § 413, Oct. 24, 1972, 86 Stat. 1093, provided for
 
 2023—Subsecs. (c), (d). Pub. L. 117–333 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2016—Subsec. (a). Pub. L. 114–315, § 411(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided in subsection (b) of this section, the Secretary shall conduct an annual compliance survey of each institution offering one or more courses approved for the enrollment of eligible veterans or persons if at least 300 veterans or persons are enrolled in such course or courses under provisions of this title or if any such course does not lead to a standard college degree. Such compliance survey shall be designed to ensure that the institution and approved courses are in compliance with all applicable provisions of chapters 30 through 36 of this title. The Secretary shall assign at least one education compliance specialist to work on compliance surveys in any year for each 40 compliance surveys required to be made under this section for such year.”
+2016—Subsec. (a). Pub. L. 114–315, § 411(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided in subsection (b) of this section, the Secretary shall conduct an annual compliance survey of each institution offering one or more courses approved for the enrollment of eligible veterans or persons if at least 300 veterans or persons are enrolled in such course or courses under provisions of this title or if any such course does not lead to a standard college degree. Such compliance survey shall be designed to ensure that the institution and approved courses are in compliance with all applicable provisions of chapters 30 through 36 of this title. The Secretary shall assign at least one education compliance specialist to work on compliance surveys in any year for each 40 compliance surveys required to be made under this section for such year.”
 
-Subsec. (b). Pub. L. 114–315, § 411(b), substituted “subsection (a)(1) for a compliance survey” for “subsection (a) of this section for an annual compliance survey”, “educational institution or training establishment” for “institution”, and “record of compliance of such institution or establishment” for “institution’s demonstrated record of compliance”.
+Subsec. (b). Pub. L. 114–315, § 411(b), substituted “subsection (a)(1) for a compliance survey” for “subsection (a) of this section for an annual compliance survey”, “educational institution or training establishment” for “institution”, and “record of compliance of such institution or establishment” for “institution’s demonstrated record of compliance”.
 
-Subsec. (c). Pub. L. 114–315, § 411(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 114–315, § 411(a)(2), added subsec. (c).
 
 1991—Pub. L. 102–83 renumbered section 1793 of this title as this section.
 
@@ -3863,7 +3863,7 @@ Subsec. (c). Pub. L. 114–315, § 411(a)(2), added subsec. (c).
 
 **Effective Date**
 
-Pub. L. 94–502, title VII, § 703, Oct. 15, 1976, 90 Stat. 2406, provided that:
+Pub. L. 94–502, title VII, § 703, Oct. 15, 1976, 90 Stat. 2406, provided that:
 
 > **“(a)** Sections 101, 201, 203, 207, 209, 301, 303, 304, 308, 501, 502, 503, and 508 [see Tables for classification] of this Act shall become effective on October 1, 1976.
 
@@ -3871,13 +3871,13 @@ Pub. L. 94–502, title VII, § 703, Oct. 15, 1976, 90 Stat. 2406, provided th
 
 > **“(c)** Sections 103, 205(4), 206, 307, 504, 505, 507, 509, 512, and 701 and title VI of this Act [see Tables for classification] shall become effective on December 1, 1976.”
 
-### § 3694. Use of other Federal agencies
+### § 3694. Use of other Federal agencies
 
 **(a) In General.—** In carrying out the Secretary’s functions under this chapter or chapter 34 or 35 of this title, the Secretary may utilize the facilities and services of any other Federal department or agency. Any such utilization shall be pursuant to proper agreement with the Federal department or agency concerned; and payment to cover the cost thereof shall be made either in advance or by way of reimbursement, as may be provided in such agreement.
 
 **(b) Coordination of Information Among the Departments of Veterans Affairs, Defense, and Labor With Respect to On-Job Training.—** At the time of a servicemember’s discharge or release from active duty service, the Secretary of Defense shall furnish to the Secretary such pertinent information concerning each registered apprenticeship pursued by the servicemember during the period of active duty service of the servicemember. The Secretary, in conjunction with the Secretary of Labor, shall encourage and assist States and private organizations to give credit to servicemembers for the registered apprenticeship program so pursued in the case of any related apprenticeship program the servicemember may pursue as a civilian.
 
-(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, § 1790; renumbered § 1794, Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1086; amended Pub. L. 94–502, title V, § 513(a)(21), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, § 423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3694, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 108–454, title I, § 107, Dec. 10, 2004, 118 Stat. 3603.)
+(Added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, § 1790; renumbered § 1794, Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1086; amended Pub. L. 94–502, title V, § 513(a)(21), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, § 423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3694, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 108–454, title I, § 107, Dec. 10, 2004, 118 Stat. 3603.)
 
 **Editorial Notes**
 
@@ -3901,7 +3901,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-### § 3695. Limitation on period of assistance under two or more programs
+### § 3695. Limitation on period of assistance under two or more programs
 
 **(a)** The aggregate period for which any person may receive assistance under two or more of the provisions of law listed below may not exceed 48 months (or the part-time equivalent thereof):
 
@@ -3925,17 +3925,17 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(c)** The aggregate period for which any person may receive assistance under chapter 35 of this title, on the one hand, and any of the provisions of law referred to in subsection (a), on the other hand, may not exceed 81 months (or the part-time equivalent thereof).
 
-(Added Pub. L. 90–631, § 1(d)(1), Oct. 23, 1968, 82 Stat. 1331, § 1791; renumbered § 1795 and amended Pub. L. 92–540, title III, § 316(2), title IV, § 403(13), Oct. 24, 1972, 86 Stat. 1086, 1090; Pub. L. 96–466, title I, § 103, Oct. 17, 1980, 94 Stat. 2187; Pub. L. 98–223, title II, § 203(c)(2), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, § 703(d), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 101–237, title IV, § 423(a)(8)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3695 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–65, div. A, title V, § 551(b), Oct. 5, 1999, 113 Stat. 614; Pub. L. 107–103, title V, § 509(d), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–107, div. A, title X, § 1048(i)(8), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title V, § 527(b)(2), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 110–252, title V, § 5003(b)(1)(B), June 30, 2008, 122 Stat. 2375; Pub. L. 112–154, title IV, § 401(a), Aug. 6, 2012, 126 Stat. 1188; Pub. L. 117–333, § 3(e)(3)(B)(ii), Jan. 5, 2023, 136 Stat. 6128.)
+(Added Pub. L. 90–631, § 1(d)(1), Oct. 23, 1968, 82 Stat. 1331, § 1791; renumbered § 1795 and amended Pub. L. 92–540, title III, § 316(2), title IV, § 403(13), Oct. 24, 1972, 86 Stat. 1086, 1090; Pub. L. 96–466, title I, § 103, Oct. 17, 1980, 94 Stat. 2187; Pub. L. 98–223, title II, § 203(c)(2), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, § 703(d), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 101–237, title IV, § 423(a)(8)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3695 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–65, div. A, title V, § 551(b), Oct. 5, 1999, 113 Stat. 614; Pub. L. 107–103, title V, § 509(d), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–107, div. A, title X, § 1048(i)(8), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title V, § 527(b)(2), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 110–252, title V, § 5003(b)(1)(B), June 30, 2008, 122 Stat. 2375; Pub. L. 112–154, title IV, § 401(a), Aug. 6, 2012, 126 Stat. 1188; Pub. L. 117–333, § 3(e)(3)(B)(ii), Jan. 5, 2023, 136 Stat. 6128.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Parts VII and VIII, Veterans Regulation numbered 1(a), referred to in subsec. (a)(1), are Parts VII and VIII as added by acts Mar. 24, 1943, ch. 22, § 2, 57 Stat. 43 and June 22, 1944, ch. 268, title II, § 400(b), 58 Stat. 287 to Veterans Regulation numbered 1(a) promulgated by Ex. Ord. No. 6156, June 6, 1933, which had been classified as parts VII and VIII of chapter 12A of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed by Pub. L. 85–857, § 14(67), Sept. 2, 1958, 72 Stat. 1272.
+Parts VII and VIII, Veterans Regulation numbered 1(a), referred to in subsec. (a)(1), are Parts VII and VIII as added by acts Mar. 24, 1943, ch. 22, § 2, 57 Stat. 43 and June 22, 1944, ch. 268, title II, § 400(b), 58 Stat. 287 to Veterans Regulation numbered 1(a) promulgated by Ex. Ord. No. 6156, June 6, 1933, which had been classified as parts VII and VIII of chapter 12A of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed by Pub. L. 85–857, § 14(67), Sept. 2, 1958, 72 Stat. 1272.
 
-The Veterans’ Readjustment Assistance Act of 1952, referred to in subsec. (a)(2), is act July 16, 1952, ch. 875, 66 Stat. 663. Title II of the Veterans’ Readjustment Assistance Act of 1952 was classified generally to subchapter II (§ 911 et seq.) of chapter 14 of former Title 38, which was repealed and the provisions thereof reenacted as chapter 33 (§ 1601 et seq.) of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. Chapter 33 of this title was repealed by Pub. L. 89–358, § 4(a), Mar. 3, 1966, 80 Stat. 23. See chapter 32 (§ 3201 et seq.) of this title.
+The Veterans’ Readjustment Assistance Act of 1952, referred to in subsec. (a)(2), is act July 16, 1952, ch. 875, 66 Stat. 663. Title II of the Veterans’ Readjustment Assistance Act of 1952 was classified generally to subchapter II (§ 911 et seq.) of chapter 14 of former Title 38, which was repealed and the provisions thereof reenacted as chapter 33 (§ 1601 et seq.) of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. Chapter 33 of this title was repealed by Pub. L. 89–358, § 4(a), Mar. 3, 1966, 80 Stat. 23. See chapter 32 (§ 3201 et seq.) of this title.
 
-The War Orphans’ Educational Assistance Act of 1956, referred to in subsec. (a)(3), is act June 29, 1956, ch. 476, 70 Stat. 411, which was classified generally to chapter 15 (§ 1031 et seq.) of former Title 38, which was repealed and the provisions thereof reenacted as chapter 35 of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The War Orphans’ Educational Assistance Act of 1956, referred to in subsec. (a)(3), is act June 29, 1956, ch. 476, 70 Stat. 411, which was classified generally to chapter 15 (§ 1031 et seq.) of former Title 38, which was repealed and the provisions thereof reenacted as chapter 35 of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(6), is section 903 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
@@ -3947,9 +3947,9 @@ The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in su
 
 2023—Subsec. (b). Pub. L. 117–333 substituted “in section 3101” for “in section 3101(5)”.
 
-2012—Subsec. (a)(4). Pub. L. 112–154, § 401(a)(1), struck out “35,” after “34,”.
+2012—Subsec. (a)(4). Pub. L. 112–154, § 401(a)(1), struck out “35,” after “34,”.
 
-Subsec. (c). Pub. L. 112–154, § 401(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 112–154, § 401(a)(2), added subsec. (c).
 
 2008—Subsec. (a)(4). Pub. L. 110–252 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33.”
 
@@ -3959,29 +3959,29 @@ Subsec. (c). Pub. L. 112–154, § 401(a)(2), added subsec. (c).
 
 1999—Subsec. (a)(5). Pub. L. 106–65 substituted “Chapters 107, 1606, and 1610” for “Chapters 106 and 107”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1795 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1795 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3101(5)” for “1501(5)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3101(5)” for “1501(5)”.
 
-1989—Subsec. (a)(8). Pub. L. 101–237, § 423(a)(8)(B), added par. (8).
+1989—Subsec. (a)(8). Pub. L. 101–237, § 423(a)(8)(B), added par. (8).
 
-Subsec. (b). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
 1984—Subsec. (a). Pub. L. 98–525 inserted reference in cl. (4) to chapter 30 of this title, and in cl. (5) to chapter 106 of title 10.
 
-Pub. L. 98–223, § 203(c)(2)(A), substituted “48 months” for “forty-eight months”, capitalized the first word in cls. (1) to (4), and added cls. (5) to (7).
+Pub. L. 98–223, § 203(c)(2)(A), substituted “48 months” for “forty-eight months”, capitalized the first word in cls. (1) to (4), and added cls. (5) to (7).
 
-Subsec. (b). Pub. L. 98–223, § 203(c)(2)(B), substituted “subsection (a)” for “clauses (1), (2), (3), and (4)” and “48” for “forty-eight”.
+Subsec. (b). Pub. L. 98–223, § 203(c)(2)(B), substituted “subsection (a)” for “clauses (1), (2), (3), and (4)” and “48” for “forty-eight”.
 
-1980—Pub. L. 96–466 designated existing provisions as subsec. (a), substituted in par. (4) “chapters 32, 34, 35, and 36 of this title and the former chapter 33;” for “chapters 31, 34, 35, and 36 of this title, and the former chapter 33”, in provisions following par. (4) struck out “, but this section shall not be deemed to limit the period for which assistance may be received under chapter 31 alone” after “(or the part-time equivalent thereof)”, and added subsec. (b).
+1980—Pub. L. 96–466 designated existing provisions as subsec. (a), substituted in par. (4) “chapters 32, 34, 35, and 36 of this title and the former chapter 33;” for “chapters 31, 34, 35, and 36 of this title, and the former chapter 33”, in provisions following par. (4) struck out “, but this section shall not be deemed to limit the period for which assistance may be received under chapter 31 alone” after “(or the part-time equivalent thereof)”, and added subsec. (b).
 
-1972—Pub. L. 92–540, § 403(13), inserted reference to chapter 36 of this title.
+1972—Pub. L. 92–540, § 403(13), inserted reference to chapter 36 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title IV, § 401(b), Aug. 6, 2012, 126 Stat. 1188, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2013, and shall not operate to revive any entitlement to assistance under chapter 35 of title 38, United States Code, or the provisions of law referred to in section 3695(a) of such title, as in effect on the day before such date, that was terminated by reason of the operation of section 3695(a) of such title, as so in effect, before such date.”
+Pub. L. 112–154, title IV, § 401(b), Aug. 6, 2012, 126 Stat. 1188, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2013, and shall not operate to revive any entitlement to assistance under chapter 35 of title 38, United States Code, or the provisions of law referred to in section 3695(a) of such title, as in effect on the day before such date, that was terminated by reason of the operation of section 3695(a) of such title, as so in effect, before such date.”
 
 **Effective Date of 2008 Amendment**
 
@@ -3997,13 +3997,13 @@ Section effective first day of second calendar month which begins after Oct. 23,
 
 **Revival of Entitlement Reduced by Prior Utilization of Chapter 35 Assistance**
 
-Pub. L. 112–154, title IV, § 401(c), Aug. 6, 2012, 126 Stat. 1188, provided that:
+Pub. L. 112–154, title IV, § 401(c), Aug. 6, 2012, 126 Stat. 1188, provided that:
 
 > **“(1) In general.—** Subject to paragraph (2), in the case of an individual whose period of entitlement to assistance under a provision of law referred to in section 3695(a) of title 38, United States Code (other than chapter 35 of such title), as in effect on September 30, 2013, was reduced under such section 3695(a), as so in effect, by reason of the utilization of entitlement to assistance under chapter 35 of such title before October 1, 2013, the period of entitlement to assistance of such individual under such provision shall be determined without regard to any entitlement so utilized by the individual under chapter 35 of such title.
 
 > **“(2) Limitation.—** The maximum period of entitlement to assistance of an individual under paragraph (1) may not exceed 81 months.”
 
-### § 3696. Prohibition on certain advertising, sales, and enrollment practices
+### § 3696. Prohibition on certain advertising, sales, and enrollment practices
 
 **(a) Prohibition on Engaging in Substantial Misrepresentation.—** An educational institution with a course or program of education approved under this chapter, and an entity that owns such an educational institution, shall not engage in substantial misrepresentation described in subsection (b).
 
@@ -4097,13 +4097,13 @@ Pub. L. 112–154, title IV, § 401(c), Aug. 6, 2012, 126 Stat. 1188, provided
 
 **(e) Agreement With Federal Trade Commission.—**
 
-**(1)** The Secretary shall, pursuant to section 3694 of this title, enter into an agreement with the Federal Trade Commission to utilize, where appropriate, its services and facilities, consistent with its available resources, in carrying out investigations and making the Under Secretary of 1
+**(1)** The Secretary shall, pursuant to section 3694 of this title, enter into an agreement with the Federal Trade Commission to utilize, where appropriate, its services and facilities, consistent with its available resources, in carrying out investigations and making the Under Secretary of 1
 
-<sup>1</sup>  So in original. Probably should be “for”.
+<sup>1</sup> So in original. Probably should be “for”.
 
-Benefit’s 2
+Benefit’s 2
 
-<sup>2</sup>  So in original. Probably should be “Benefits’ ”.
+<sup>2</sup> So in original. Probably should be “Benefits’ ”.
 
 preliminary findings under subsection (g)(1).
 
@@ -4119,7 +4119,7 @@ preliminary findings under subsection (g)(1).
 
 **(3)** require the educational institution or owner to submit to the Secretary a report prepared by an approved third-party auditor of the advertising and enrollment practices of the educational institution or owner; and
 
-**(4)** refer the matter to the Under Secretary of <sup>1</sup> Benefits, who may thereafter make a preliminary finding under subsection (g).
+**(4)** refer the matter to the Under Secretary of <sup>1</sup> Benefits, who may thereafter make a preliminary finding under subsection (g).
 
 **(g) Preliminary Findings, Final Determinations, and Processes.—**
 
@@ -4273,7 +4273,7 @@ preliminary findings under subsection (g)(1).
 
 **(2)** The term “risk-based survey” means the risk-based survey developed under section 3673A of this title.
 
-(Added Pub. L. 93–508, title II, § 212(a), Dec. 3, 1974, 88 Stat. 1585, § 1796; amended Pub. L. 94–502, title V, §§ 512, 513(a)(22), Oct. 15, 1976, 90 Stat. 2402, 2403; Pub. L. 98–543, title IV, § 401, Oct. 24, 1984, 98 Stat. 2749; Pub. L. 101–237, title IV, § 423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3696 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–249, § 2, Jan. 10, 2013, 126 Stat. 2401; Pub. L. 116–315, title I, § 1020(a)(1), Jan. 5, 2021, 134 Stat. 4950; Pub. L. 117–16, § 7(a)(5), June 8, 2021, 135 Stat. 285; Pub. L. 117–76, § 3(b)(3), Dec. 21, 2021, 135 Stat. 1518.)
+(Added Pub. L. 93–508, title II, § 212(a), Dec. 3, 1974, 88 Stat. 1585, § 1796; amended Pub. L. 94–502, title V, §§ 512, 513(a)(22), Oct. 15, 1976, 90 Stat. 2402, 2403; Pub. L. 98–543, title IV, § 401, Oct. 24, 1984, 98 Stat. 2749; Pub. L. 101–237, title IV, § 423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3696 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–249, § 2, Jan. 10, 2013, 126 Stat. 2401; Pub. L. 116–315, title I, § 1020(a)(1), Jan. 5, 2021, 134 Stat. 4950; Pub. L. 117–16, § 7(a)(5), June 8, 2021, 135 Stat. 285; Pub. L. 117–76, § 3(b)(3), Dec. 21, 2021, 135 Stat. 1518.)
 
 **Editorial Notes**
 
@@ -4281,25 +4281,25 @@ preliminary findings under subsection (g)(1).
 
 2021—Pub. L. 116–315 amended section generally. Prior to amendment, section related to limitation on certain advertising, sales, and enrollment practices.
 
-Subsec. (c). Pub. L. 117–76 designated existing provisions as par. (1), inserted “, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance” after “assistance”, and added par. (2).
+Subsec. (c). Pub. L. 117–76 designated existing provisions as par. (1), inserted “, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance” after “assistance”, and added par. (2).
 
 Subsec. (g)(4)(A)(iii)(III). Pub. L. 117–16 substituted “paragraph (3)” for “paragraph (3)(B) of this subsection”.
 
 2013—Subsec. (d). Pub. L. 112–249 added subsec. (d).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1796 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1796 of this title as this section.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3694” for “1794”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3694” for “1794”.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing and “Secretary’s” for “Administrator’s” in subsec. (c).
 
 1984—Subsec. (d). Pub. L. 98–543 struck out subsec. (d) which provided that not later than 60 days after the end of each fiscal year the Administrator would be required to report to Congress regarding the disposition of cases under this section.
 
-1976—Subsec. (b). Pub. L. 94–502, § 512, added subsec. (b) and redesignated former subsec. (b) as (c).
+1976—Subsec. (b). Pub. L. 94–502, § 512, added subsec. (b) and redesignated former subsec. (b) as (c).
 
-Subsec. (c). Pub. L. 94–502, §§ 512(1), 513(a)(22), redesignated former subsec. (b) as (c) and substituted “making the Administrator’s determinations” for “making his determinations”. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 94–502, §§ 512(1), 513(a)(22), redesignated former subsec. (b) as (c) and substituted “making the Administrator’s determinations” for “making his determinations”. Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 94–502, § 512(1), redesignated former subsec. (c) as (d).
+Subsec. (d). Pub. L. 94–502, § 512(1), redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4315,13 +4315,13 @@ Amendment by sections 512 and 513(a)(22) of Pub. L. 94–502 effective Dec. 1, 1
 
 Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as an Effective Date of 1974 Amendment note under section 3452 of this title.
 
-### § 3697. Funding of contract educational and vocational counseling
+### § 3697. Funding of contract educational and vocational counseling
 
 **(a)** Subject to subsection (b) of this section, educational or vocational counseling services obtained by the Department of Veterans Affairs by contract and provided to an individual under section 3697A of this title or to an individual applying for or receiving benefits under section 1524 or chapter 30, 32, 33, 34, or 35 of this title, or chapter 106 of title 10, shall be paid for out of funds appropriated, or otherwise available, to the Department of Veterans Affairs for payment of readjustment benefits.
 
 **(b)** Payments under this section shall not exceed $6,000,000 in any fiscal year.
 
-(Added Pub. L. 100–687, div. B, title XIII, § 1302(a), Nov. 18, 1988, 102 Stat. 4127, § 1797; amended Pub. L. 101–237, title IV, § 423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, § 2(b)(3), Mar. 22, 1991, 105 Stat. 49; renumbered § 3697 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 609(a), Nov. 2, 1994, 108 Stat. 4673; Pub. L. 110–252, title V, § 5003(b)(2)(A)(vi), June 30, 2008, 122 Stat. 2375.)
+(Added Pub. L. 100–687, div. B, title XIII, § 1302(a), Nov. 18, 1988, 102 Stat. 4127, § 1797; amended Pub. L. 101–237, title IV, § 423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, § 2(b)(3), Mar. 22, 1991, 105 Stat. 49; renumbered § 3697 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 609(a), Nov. 2, 1994, 108 Stat. 4673; Pub. L. 110–252, title V, § 5003(b)(2)(A)(vi), June 30, 2008, 122 Stat. 2375.)
 
 **Editorial Notes**
 
@@ -4331,9 +4331,9 @@ Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as 
 
 1994—Subsec. (b). Pub. L. 103–446 substituted “$6,000,000” for “$5,000,000”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1797 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1797 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3697A” for “1797A” and “1524” for “524”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3697A” for “1797A” and “1524” for “524”.
 
 Pub. L. 102–16 inserted “under section 1797A of this title or to an individual” after “individual”.
 
@@ -4347,9 +4347,9 @@ Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pu
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title VI, § 609(b), Nov. 2, 1994, 108 Stat. 4673, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1994.”
+Pub. L. 103–446, title VI, § 609(b), Nov. 2, 1994, 108 Stat. 4673, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1994.”
 
-### § 3697A. Educational and vocational counseling
+### § 3697A. Educational and vocational counseling
 
 **(a)** The Secretary shall make available to an individual described in subsection (b) of this section, upon such individual’s request, counseling services, including such educational and vocational counseling and guidance, testing, and other assistance as the Secretary determines necessary to aid the individual in selecting—
 
@@ -4371,7 +4371,7 @@ Pub. L. 103–446, title VI, § 609(b), Nov. 2, 1994, 108 Stat. 4673, provided
 
 **(e)** The Secretary shall take appropriate steps (including individual notification where feasible) to acquaint all individuals described in subsection (b) of this section with the availability and advantages of counseling services under this section.
 
-(Added Pub. L. 102–16, § 2(a), Mar. 22, 1991, 105 Stat. 48, § 1797A; renumbered § 3697A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 110–252, title V, § 5003(b)(2)(B), June 30, 2008, 122 Stat. 2375.)
+(Added Pub. L. 102–16, § 2(a), Mar. 22, 1991, 105 Stat. 48, § 1797A; renumbered § 3697A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 110–252, title V, § 5003(b)(2)(B), June 30, 2008, 122 Stat. 2375.)
 
 **Editorial Notes**
 
@@ -4389,7 +4389,7 @@ Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pu
 
 **Department of Veterans Affairs Provision of Information on Articulation Agreements Between Institutions of Higher Learning**
 
-Pub. L. 114–315, title IV, § 415, Dec. 16, 2016, 130 Stat. 1564, provided that:
+Pub. L. 114–315, title IV, § 415, Dec. 16, 2016, 130 Stat. 1564, provided that:
 
 > **“(a) Information.—** Department of Veterans Affairs counselors who provide educational or vocational counseling services pursuant to section 3697A of title 38, United States Code, shall provide to any eligible individual who requests such counseling services information about the articulation agreements of each institution of higher learning in which the individual is interested.
 
@@ -4403,7 +4403,7 @@ Pub. L. 114–315, title IV, § 415, Dec. 16, 2016, 130 Stat. 1564, provided t
 
 > **“(d) Deadline for Implementation.—** The Secretary of Veterans Affairs shall implement this section not later than 90 days after the date of the enactment of this Act [Dec. 16, 2016].”
 
-### § 3697B. On-campus educational and vocational counseling
+### § 3697B. On-campus educational and vocational counseling
 
 **(a) In General.—** The Secretary shall provide educational and vocational counseling services for individuals described in section 3697A(b) of this title at locations on the campuses of institutions of higher learning selected by the Secretary. Such counseling services shall be provided by employees of the Department who provide such services under section 3697A of this title.
 
@@ -4423,7 +4423,7 @@ Pub. L. 114–315, title IV, § 415, Dec. 16, 2016, 130 Stat. 1564, provided t
 
 **(4)** any other matters the Secretary determines appropriate.
 
-(Added Pub. L. 115–48, title III, § 307(a), Aug. 16, 2017, 131 Stat. 993.)
+(Added Pub. L. 115–48, title III, § 307(a), Aug. 16, 2017, 131 Stat. 993.)
 
 **Editorial Notes**
 
@@ -4435,7 +4435,7 @@ The date of the enactment of this section, referred to in subsec. (c), is the da
 
 **Native VetSuccess at Tribal Colleges and Universities Pilot Program**
 
-Pub. L. 117–328, div. U, title II, § 211, Dec. 29, 2022, 136 Stat. 5451, provided that:
+Pub. L. 117–328, div. U, title II, § 211, Dec. 29, 2022, 136 Stat. 5451, provided that:
 
 > **“(a) Short Title.—** This section [enacting this note] may be cited as the ‘Native VetSuccess at Tribal Colleges and Universities Pilot Program Act’.
 
@@ -4519,7 +4519,7 @@ Pub. L. 117–328, div. U, title II, § 211, Dec. 29, 2022, 136 Stat. 5451, pr
 
 > **“(4) Tribal organization.—** The term ‘Tribal organization’ has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).”
 
-### § 3698. Comprehensive policy on providing education information to veterans
+### § 3698. Comprehensive policy on providing education information to veterans
 
 **(a) Comprehensive Policy Required.—** The Secretary shall develop a comprehensive policy to improve outreach and transparency to individuals entitled to educational assistance under laws administered by the Secretary of Veterans Affairs through the provision of information on institutions of higher learning.
 
@@ -4575,7 +4575,7 @@ Pub. L. 117–328, div. U, title II, § 211, Dec. 29, 2022, 136 Stat. 5451, pr
 
 **(II)** individuals who received a credential and individuals who did not; and
 
-**(III)** individuals using educational assistance under laws administered by the Secretary and individuals who are not;; 1
+**(III)** individuals using educational assistance under laws administered by the Secretary and individuals who are not;; 1
 
 <sup>1</sup> So in original.
 
@@ -4617,7 +4617,7 @@ Pub. L. 117–328, div. U, title II, § 211, Dec. 29, 2022, 136 Stat. 5451, pr
 
 **(II)** individuals using educational assistance under laws administered by the Secretary and individuals who are not; and
 
-**(xix)** the number of individuals using educational assistance under laws administered by the Secretary who are enrolled in the both the <sup>1</sup> institution and specific program per year.
+**(xix)** the number of individuals using educational assistance under laws administered by the Secretary who are enrolled in the both the <sup>1</sup> institution and specific program per year.
 
 **(2)**
 
@@ -4647,15 +4647,15 @@ Pub. L. 117–328, div. U, title II, § 211, Dec. 29, 2022, 136 Stat. 5451, pr
 
 **(2)** The term “postsecondary education and training opportunities” means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.
 
-**(3)** The term “College Navigator website” has the meaning given that term in section 132 of the Higher Education Act 2
+**(3)** The term “College Navigator website” has the meaning given that term in section 132 of the Higher Education Act 2
 
-<sup>2</sup>  So in original. Probably should be followed by “of 1965”.
+<sup>2</sup> So in original. Probably should be followed by “of 1965”.
 
 (20 U.S.C. 1015a).
 
 **(4)** The term “minority serving institution” means any of the following:
 
-**(A)** A part B institution, as such term is defined in section 322(2) of the Higher Education Act <sup>2</sup> (20 U.S.C. 1061(2)).
+**(A)** A part B institution, as such term is defined in section 322(2) of the Higher Education Act <sup>2</sup> (20 U.S.C. 1061(2)).
 
 **(B)** A Hispanic-serving institution, as such term is defined in section 502(a)(5) of such Act (20 U.S.C. 1101a(5)).
 
@@ -4669,51 +4669,51 @@ Pub. L. 117–328, div. U, title II, § 211, Dec. 29, 2022, 136 Stat. 5451, pr
 
 **(G)** An Asian American and Native American Pacific Islander-serving institution, as such term is defined in section 320(b) of such Act (20 U.S.C. 1059g(b)).
 
-(Added Pub. L. 112–249, § 1(a)(1), Jan. 10, 2013, 126 Stat. 2398; amended Pub. L. 115–48, title III, § 303, Aug. 16, 2017, 131 Stat. 991; Pub. L. 115–407, title I, § 104, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 117–16, § 3(a), (b), June 8, 2021, 135 Stat. 282; Pub. L. 118–210, title II, § 215(b)(3)–(c)(1), Jan. 2, 2025, 138 Stat. 2775–2777.)
+(Added Pub. L. 112–249, § 1(a)(1), Jan. 10, 2013, 126 Stat. 2398; amended Pub. L. 115–48, title III, § 303, Aug. 16, 2017, 131 Stat. 991; Pub. L. 115–407, title I, § 104, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 117–16, § 3(a), (b), June 8, 2021, 135 Stat. 282; Pub. L. 118–210, title II, § 215(b)(3)–(c)(1), Jan. 2, 2025, 138 Stat. 2775–2777.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Executive Order No. 13607, referred to in subsec. (d)(1), is set out as a note under section 3301 of this title.
 
 **Prior Provisions**
 
-A prior section 3698, added Pub. L. 93–508, title III, § 301(a), Dec. 3, 1974, 88 Stat. 1589, § 1798; amended Pub. L. 94–502, title V, §§ 502(a), 513(a)(23), Oct. 15, 1976, 90 Stat. 2399, 2403; Pub. L. 95–202, title I, § 104(3), title II, § 202, Nov. 23, 1977, 91 Stat. 1435, 1438; Pub. L. 95–476, title II, § 201, Oct. 18, 1978, 92 Stat. 1502; Pub. L. 96–466, title II, §§ 203(4), 213(4), title VI, §§ 601(h), 603(b), title VIII, § 801(g), Oct. 17, 1980, 94 Stat. 2189, 2191, 2208, 2209, 2216; Pub. L. 97–35, title XX, § 2005(d), Aug. 13, 1981, 95 Stat. 783; Pub. L. 97–295, § 4(60), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, § 208, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–543, title II, § 204(3), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 100–689, title I, § 124(b), Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, § 5(a), Mar. 22, 1991, 105 Stat. 50; renumbered § 3698 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to eligibility for loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, § 306(e), (h)(2), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
+A prior section 3698, added Pub. L. 93–508, title III, § 301(a), Dec. 3, 1974, 88 Stat. 1589, § 1798; amended Pub. L. 94–502, title V, §§ 502(a), 513(a)(23), Oct. 15, 1976, 90 Stat. 2399, 2403; Pub. L. 95–202, title I, § 104(3), title II, § 202, Nov. 23, 1977, 91 Stat. 1435, 1438; Pub. L. 95–476, title II, § 201, Oct. 18, 1978, 92 Stat. 1502; Pub. L. 96–466, title II, §§ 203(4), 213(4), title VI, §§ 601(h), 603(b), title VIII, § 801(g), Oct. 17, 1980, 94 Stat. 2189, 2191, 2208, 2209, 2216; Pub. L. 97–35, title XX, § 2005(d), Aug. 13, 1981, 95 Stat. 783; Pub. L. 97–295, § 4(60), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, § 208, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–543, title II, § 204(3), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 100–689, title I, § 124(b), Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, § 5(a), Mar. 22, 1991, 105 Stat. 50; renumbered § 3698 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to eligibility for loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, § 306(e), (h)(2), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–210, § 215(b)(3)(A), substituted “individuals entitled to educational assistance under laws administered by the Secretary of Veterans Affairs” for “veterans and members of the Armed Forces”.
+2025—Subsec. (a). Pub. L. 118–210, § 215(b)(3)(A), substituted “individuals entitled to educational assistance under laws administered by the Secretary of Veterans Affairs” for “veterans and members of the Armed Forces”.
 
-Subsec. (b)(2)(A). Pub. L. 118–210, § 215(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “allows institutions of higher learning to verify feedback and address issues regarding feedback before the feedback is published;”.
+Subsec. (b)(2)(A). Pub. L. 118–210, § 215(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “allows institutions of higher learning to verify feedback and address issues regarding feedback before the feedback is published;”.
 
-Subsec. (b)(2)(C). Pub. L. 118–210, § 215(c)(1)(C), substituted “, and responses from institutions of higher learning to such feedback, that conform with criteria for relevancy that the Secretary shall determine;” for “that conforms with criteria for relevancy that the Secretary shall determine.”
+Subsec. (b)(2)(C). Pub. L. 118–210, § 215(c)(1)(C), substituted “, and responses from institutions of higher learning to such feedback, that conform with criteria for relevancy that the Secretary shall determine;” for “that conforms with criteria for relevancy that the Secretary shall determine.”
 
-Subsec. (b)(2)(D), (E). Pub. L. 118–210, § 215(c)(1)(B), (D), added subpars. (D) and (E).
+Subsec. (b)(2)(D), (E). Pub. L. 118–210, § 215(c)(1)(B), (D), added subpars. (D) and (E).
 
-Subsec. (b)(5). Pub. L. 118–210, § 215(b)(3)(B), substituted “individuals described in subsection (a)” for “veterans and members of the Armed Forces” and “the individual” for “the veteran or member”.
+Subsec. (b)(5). Pub. L. 118–210, § 215(b)(3)(B), substituted “individuals described in subsection (a)” for “veterans and members of the Armed Forces” and “the individual” for “the veteran or member”.
 
-Subsec. (c)(1)(B). Pub. L. 118–210, § 215(b)(4)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “a description of Federal student aid programs; and”.
+Subsec. (c)(1)(B). Pub. L. 118–210, § 215(b)(4)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “a description of Federal student aid programs; and”.
 
-Subsec. (c)(1)(C)(i). Pub. L. 118–210, § 215(b)(4)(B)(i), inserted “and a definition of each type of institution” before semicolon at end.
+Subsec. (c)(1)(C)(i). Pub. L. 118–210, § 215(b)(4)(B)(i), inserted “and a definition of each type of institution” before semicolon at end.
 
-Subsec. (c)(1)(C)(iv). Pub. L. 118–210, § 215(b)(4)(B)(ii), inserted “and if so, which programs” before semicolon at end.
+Subsec. (c)(1)(C)(iv). Pub. L. 118–210, § 215(b)(4)(B)(ii), inserted “and if so, which programs” before semicolon at end.
 
-Subsec. (c)(1)(C)(v). Pub. L. 118–210, § 215(b)(4)(B)(iii), added cl. (v) and struck out former cl. (v) which read as follows: “the tuition and fees;”.
+Subsec. (c)(1)(C)(v). Pub. L. 118–210, § 215(b)(4)(B)(iii), added cl. (v) and struck out former cl. (v) which read as follows: “the tuition and fees;”.
 
-Subsec. (c)(1)(C)(vi). Pub. L. 118–210, § 215(b)(4)(B)(iv), inserted “disaggregated by—” after “Secretary of Education)” and added subcls. (I) to (III).
+Subsec. (c)(1)(C)(vi). Pub. L. 118–210, § 215(b)(4)(B)(iv), inserted “disaggregated by—” after “Secretary of Education)” and added subcls. (I) to (III).
 
-Subsec. (c)(1)(C)(xvi) to (xix). Pub. L. 118–210, § 215(b)(4)(B)(v)–(vii), added cls. (xvi) to (xix).
+Subsec. (c)(1)(C)(xvi) to (xix). Pub. L. 118–210, § 215(b)(4)(B)(v)–(vii), added cls. (xvi) to (xix).
 
-Subsec. (c)(2). Pub. L. 118–210, § 215(b)(5), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+Subsec. (c)(2). Pub. L. 118–210, § 215(b)(5), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-2021—Subsec. (c)(1)(C)(xiii) to (xv). Pub. L. 117–16, § 3(a)(1), added cls. (xiii) to (xv).
+2021—Subsec. (c)(1)(C)(xiii) to (xv). Pub. L. 117–16, § 3(a)(1), added cls. (xiii) to (xv).
 
-Subsec. (c)(2). Pub. L. 117–16, § 3(a)(2), inserted at end “To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.”
+Subsec. (c)(2). Pub. L. 117–16, § 3(a)(2), inserted at end “To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.”
 
-Subsec. (f)(3), (4). Pub. L. 117–16, § 3(b), added pars. (3) and (4).
+Subsec. (f)(3), (4). Pub. L. 117–16, § 3(b), added pars. (3) and (4).
 
 2018—Subsec. (c)(1)(C)(xii). Pub. L. 115–407 added cl. (xii).
 
@@ -4723,11 +4723,11 @@ Subsec. (f)(3), (4). Pub. L. 117–16, § 3(b), added pars. (3) and (4).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–16, § 3(c), June 8, 2021, 135 Stat. 283, provided that: “The amendments made by this section [amending this section] shall apply with respect to the information provided under section 3698 of title 38, United States Code, beginning on the date that is two years after the date of the enactment of this Act [June 8, 2021].”
+Pub. L. 117–16, § 3(c), June 8, 2021, 135 Stat. 283, provided that: “The amendments made by this section [amending this section] shall apply with respect to the information provided under section 3698 of title 38, United States Code, beginning on the date that is two years after the date of the enactment of this Act [June 8, 2021].”
 
 **Improving Transparency and Accountability of Educational Institutions for Purposes of Veterans Educational Assistance**
 
-Pub. L. 118–210, title II, § 215, Jan. 2, 2025, 138 Stat. 2774, provided that:
+Pub. L. 118–210, title II, § 215, Jan. 2, 2025, 138 Stat. 2774, provided that:
 
 > **“(a) Requirement Relating to G.I. Bill Comparison Tool.—**
 
@@ -4769,7 +4769,7 @@ Pub. L. 118–210, title II, § 215, Jan. 2, 2025, 138 Stat. 2774, provided th
 
 **Survey and Report; Definitions**
 
-Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provided that:
+Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provided that:
 
 > **“(b) Survey.—** In developing the policy required by section 3698(a) of title 38, United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall conduct a market survey to determine the availability of the following:
 
@@ -4797,7 +4797,7 @@ Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provide
 
 > **“(3) Postsecondary education and training opportunities.—** The term ‘postsecondary education and training opportunities’ means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.”
 
-### § 3698A. Provision of certificates of eligibility and award letters using electronic means
+### § 3698A. Provision of certificates of eligibility and award letters using electronic means
 
 **(a) Requirement.—** Except as provided by subsection (b), the Secretary shall provide to an individual the following documents using electronic means:
 
@@ -4809,9 +4809,9 @@ Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provide
 
 **(c) Covered Educational Assistance.—** In this section, the term “covered educational assistance” means educational assistance under chapter 30, 33, or 35 of this title, or section 3699C of this title.
 
-(Added Pub. L. 118–210, title II, § 210(a), Jan. 2, 2025, 138 Stat. 2766.)
+(Added Pub. L. 118–210, title II, § 210(a), Jan. 2, 2025, 138 Stat. 2766.)
 
-### § 3699. Effects of closure or disapproval of educational institution
+### § 3699. Effects of closure or disapproval of educational institution
 
 **(a) Closure or Disapproval.—** Any payment of educational assistance described in subsection (b) shall not—
 
@@ -4887,13 +4887,13 @@ Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provide
 
 **(2)** the effect of such closure on the individual’s entitlement to educational assistance pursuant to this section.
 
-(Added Pub. L. 115–48, title I, § 109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, § 6(6), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§ 1007(a), 1021(a), Jan. 5, 2021, 134 Stat. 4940, 4958; Pub. L. 117–297, § 2, Dec. 27, 2022, 136 Stat. 4375; Pub. L. 117–333, § 8(a), Jan. 5, 2023, 136 Stat. 6130; Pub. L. 118–19, § 2, Oct. 6, 2023, 137 Stat. 106; Pub. L. 118–210, title II, § 211, Jan. 2, 2025, 138 Stat. 2767; Pub. L. 119–37, div. G, title II, § 7202, Nov. 12, 2025, 139 Stat. 650.)
+(Added Pub. L. 115–48, title I, § 109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, § 6(6), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§ 1007(a), 1021(a), Jan. 5, 2021, 134 Stat. 4940, 4958; Pub. L. 117–297, § 2, Dec. 27, 2022, 136 Stat. 4375; Pub. L. 117–333, § 8(a), Jan. 5, 2023, 136 Stat. 6130; Pub. L. 118–19, § 2, Oct. 6, 2023, 137 Stat. 106; Pub. L. 118–210, title II, § 211, Jan. 2, 2025, 138 Stat. 2767; Pub. L. 119–37, div. G, title II, § 7202, Nov. 12, 2025, 139 Stat. 650.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3699, added Pub. L. 93–508, title III, § 301(a), Dec. 3, 1974, 88 Stat. 1591, § 1799; amended Pub. L. 94–502, title V, § 513(a)(24), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–295, § 4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, § 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3699 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to revolving fund available for making of loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, § 306(e), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
+A prior section 3699, added Pub. L. 93–508, title III, § 301(a), Dec. 3, 1974, 88 Stat. 1591, § 1799; amended Pub. L. 94–502, title V, § 513(a)(24), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–295, § 4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, § 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3699 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to revolving fund available for making of loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, § 306(e), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
 
 **Amendments**
 
@@ -4907,9 +4907,9 @@ Subsec. (c)(2)(C). Pub. L. 118–19 substituted “September 30, 2025” for “
 
 2022—Subsec. (c)(2)(A). Pub. L. 117–297 designated first sentence as cl. (i) and second sentence as cl. (iv) and realigned margins and added cls. (ii) and (iii) after cl. (i).
 
-2021—Pub. L. 116–315, § 1007(a), substituted “chapter 30, 31,” for “chapter 30,” wherever appearing.
+2021—Pub. L. 116–315, § 1007(a), substituted “chapter 30, 31,” for “chapter 30,” wherever appearing.
 
-Subsec. (c). Pub. L. 116–315, § 1021(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
+Subsec. (c). Pub. L. 116–315, § 1021(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
 
 “(1) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
 
@@ -4927,11 +4927,11 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 Amendment by section 1007(a) of Pub. L. 116–315 applicable as if included in the enactment of section 109 of Pub. L. 115–48, see section 1007(d) of Pub. L. 116–315, set out as a note under section 3680 of this title, and Effective Date note below.
 
-Pub. L. 116–315, title I, § 1021(b), Jan. 5, 2021, 134 Stat. 4959, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
+Pub. L. 116–315, title I, § 1021(b), Jan. 5, 2021, 134 Stat. 4959, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
 
 **Effective Date**
 
-Pub. L. 115–48, title I, § 109(c)(1), Aug. 16, 2017, 131 Stat. 980, as amended by Pub. L. 115–62, title V, § 501(d), Sept. 29, 2017, 131 Stat. 1166, provided that:
+Pub. L. 115–48, title I, § 109(c)(1), Aug. 16, 2017, 131 Stat. 980, as amended by Pub. L. 115–62, title V, § 501(d), Sept. 29, 2017, 131 Stat. 1166, provided that:
 
 > **“(A) In general.—** The amendments made by subsection (a) [enacting this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Aug. 16, 2017], and shall apply with respect to courses and programs of education discontinued as described in section 3699 of title 38, United States Code, as added by subsection (a)(1), after January 1, 2015.
 
@@ -4943,45 +4943,45 @@ Pub. L. 115–48, title I, § 109(c)(1), Aug. 16, 2017, 131 Stat. 980, as amen
 
 **Prohibition of Charge to Entitlement of Students Unable To Pursue a Program of Education Due to an Emergency Situation**
 
-Pub. L. 116–315, title I, § 1107(c), Jan. 5, 2021, 134 Stat. 4966, provided that: “The subparagraph (C) temporarily added to section 3699(b)(1) of title 38, United States Code, by [former] section 5 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140; 38 U.S.C. 3699 note) [formerly set out below] is amended by inserting ‘or training establishment’ after ‘educational institution’.”
+Pub. L. 116–315, title I, § 1107(c), Jan. 5, 2021, 134 Stat. 4966, provided that: “The subparagraph (C) temporarily added to section 3699(b)(1) of title 38, United States Code, by [former] section 5 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140; 38 U.S.C. 3699 note) [formerly set out below] is amended by inserting ‘or training establishment’ after ‘educational institution’.”
 
-Pub. L. 116–140, § 5, Apr. 28, 2020, 134 Stat. 632, which temporarily added closure of educational institution or training establishment due to emergency situation as reason for payment of educational assistance not to be charged against entitlement of students, was repealed by Pub. L. 117–333, § 8(b), Jan. 5, 2023, 136 Stat. 6130. See subsec. (b)(1)(C) of this section.
+Pub. L. 116–140, § 5, Apr. 28, 2020, 134 Stat. 632, which temporarily added closure of educational institution or training establishment due to emergency situation as reason for payment of educational assistance not to be charged against entitlement of students, was repealed by Pub. L. 117–333, § 8(b), Jan. 5, 2023, 136 Stat. 6130. See subsec. (b)(1)(C) of this section.
 
 **Restoration of Entitlement to Rehabilitation Programs for Veterans Affected by School Closure or Disapproval**
 
-Pub. L. 116–140, § 7(a), Apr. 28, 2020, 134 Stat. 634, which provided that, during the period from Mar. 1, 2020, to Dec. 21, 2020, the Secretary of Veterans Affairs was to apply this section as if it were amended by striking “chapter 30,” each time it appeared and inserting “chapter 30, 31,”, was repealed by Pub. L. 116–315, title I, § 1007(c), Jan. 5, 2021, 134 Stat. 4940. See 2021 Amendment note above.
+Pub. L. 116–140, § 7(a), Apr. 28, 2020, 134 Stat. 634, which provided that, during the period from Mar. 1, 2020, to Dec. 21, 2020, the Secretary of Veterans Affairs was to apply this section as if it were amended by striking “chapter 30,” each time it appeared and inserting “chapter 30, 31,”, was repealed by Pub. L. 116–315, title I, § 1007(c), Jan. 5, 2021, 134 Stat. 4940. See 2021 Amendment note above.
 
-### § 3699A. Provision of certain information to educational institutions
+### § 3699A. Provision of certain information to educational institutions
 
 **(a) In General.—** For each veteran or other individual pursuing a course of education that has been approved under this chapter using educational assistance to which the veteran or other individual is entitled under chapter 30, 32, 33, or 35 of this title, the Secretary shall make available to the educational institution offering the course information about the amount of such educational assistance to which the veteran or other individual is entitled. Such information shall be provided to such educational institution through a secure information technology system accessible by the educational institution and shall be regularly updated to reflect any amounts used by the veteran or other individual.
 
 **(b) Election.—** A veteran or other individual pursuing a course of education described in subsection (a) may elect not to provide the information described in such subsection to an educational institution in a manner prescribed by the Secretary.
 
-(Added Pub. L. 115–48, title III, § 308(a), Aug. 16, 2017, 131 Stat. 994.)
+(Added Pub. L. 115–48, title III, § 308(a), Aug. 16, 2017, 131 Stat. 994.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 115–48, title III, § 308(c), Aug. 16, 2017, 131 Stat. 994, provided that: “Section 3699A of title 38, United States Code, as added by this section, shall take effect on August 1, 2018.”
+Pub. L. 115–48, title III, § 308(c), Aug. 16, 2017, 131 Stat. 994, provided that: “Section 3699A of title 38, United States Code, as added by this section, shall take effect on August 1, 2018.”
 
-### § 3699B. Treatment of certain for-profit educational institutions
+### § 3699B. Treatment of certain for-profit educational institutions
 
 **(a) In General.—** In the case of any for-profit educational institution that is converted to a nonprofit educational institution, the State approving agency or the Secretary when acting as a State approving agency shall conduct annual risk-based surveys of the institution during the three-year period beginning on the date on which the educational institution is so converted.
 
 **(b) Risk-based Survey Defined.—** In this section, the term “risk-based survey” means the risk-based survey developed under section 3673A of this title.
 
-(Added Pub. L. 116–315, title I, § 1022(a), Jan. 5, 2021, 134 Stat. 4959.)
+(Added Pub. L. 116–315, title I, § 1022(a), Jan. 5, 2021, 134 Stat. 4959.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–315, title I, § 1022(c), Jan. 5, 2021, 134 Stat. 4959, as amended by Pub. L. 117–16, § 5(a), June 8, 2021, 135 Stat. 283, provided that: “Section 3699B of title 38, United States Code, as added by subsection (a), shall apply with respect to the conversion of a for-profit educational institution to a nonprofit educational institution, or the conversion of a for-profit educational institution to a public educational institution, that occurs on or after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title I, § 1022(c), Jan. 5, 2021, 134 Stat. 4959, as amended by Pub. L. 117–16, § 5(a), June 8, 2021, 135 Stat. 283, provided that: “Section 3699B of title 38, United States Code, as added by subsection (a), shall apply with respect to the conversion of a for-profit educational institution to a nonprofit educational institution, or the conversion of a for-profit educational institution to a public educational institution, that occurs on or after the date of the enactment of this Act [Jan. 5, 2021].”
 
-[Pub. L. 117–16, § 5(b), June 8, 2021, 135 Stat. 283, provided that: “The amendment made by subsection (a) [amending section 1022(c) of Pub. L. 116–315, set out above] shall apply as if included in the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315).” ]
+[Pub. L. 117–16, § 5(b), June 8, 2021, 135 Stat. 283, provided that: “The amendment made by subsection (a) [amending section 1022(c) of Pub. L. 116–315, set out above] shall apply as if included in the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315).” ]
 
-### § 3699C. High technology program
+### § 3699C. High technology program
 
 **(a) Establishment.—**
 
@@ -5105,9 +5105,9 @@ Pub. L. 116–315, title I, § 1022(c), Jan. 5, 2021, 134 Stat. 4959, as amend
 
 **(ii)** may include any information that the educational institution believes the Department should have taken into account when making the determination, including with respect to any mitigating circumstances.
 
-**(f) Annual Reports.—** Not later than one year after the date of the enactment of this section, and annually thereafter until the termination date specified in subsection (i), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of program 1
+**(f) Annual Reports.—** Not later than one year after the date of the enactment of this section, and annually thereafter until the termination date specified in subsection (i), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of program 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 under this section during the year covered by the report. Each such report shall include each of the following:
 
@@ -5131,7 +5131,7 @@ under this section during the year covered by the report. Each such report shall
 
 **(1)** The Secretary shall develop practices to use to collect information about covered individuals and providers of high technology programs of education.
 
-**(2)** For the purpose of carrying out program <sup>1</sup> under this section, the Secretary may consult with providers of high technology programs of education and may establish an advisory group made up of representatives of such providers, private employers in the technology field, and other relevant groups or entities, as the Secretary determines necessary.
+**(2)** For the purpose of carrying out program <sup>1</sup> under this section, the Secretary may consult with providers of high technology programs of education and may establish an advisory group made up of representatives of such providers, private employers in the technology field, and other relevant groups or entities, as the Secretary determines necessary.
 
 **(h) Definitions.—** In this section:
 
@@ -5159,7 +5159,7 @@ under this section during the year covered by the report. Each such report shall
 
 **(i) Termination.—** The Secretary may not provide educational assistance under this section for a high technology program of education that begins after September 30, 2027.
 
-(Added Pub. L. 118–210, title II, § 212(a)(1), Jan. 2, 2025, 138 Stat. 2767.)
+(Added Pub. L. 118–210, title II, § 212(a)(1), Jan. 2, 2025, 138 Stat. 2767.)
 
 **Editorial Notes**
 
@@ -5167,8 +5167,8 @@ under this section during the year covered by the report. Each such report shall
 
 The date of enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 118–210, which was approved Jan. 2, 2025.
 
-### § 3699D. Notice of changes to policies and guidance relating to educational assistance programs
+### § 3699D. Notice of changes to policies and guidance relating to educational assistance programs
 
 In the case of any change to any policy or guidance provided by the Secretary that relates to any educational assistance program of the Department, the Secretary may not implement the change before the date that is 90 days after the date on which the Secretary makes available to students, educational institutions, and the Committees on Veterans’ Affairs of the Senate and House of Representatives notice of, and justification for, the change.
 
-(Added Pub. L. 118–210, title II, § 213(a), Jan. 2, 2025, 138 Stat. 2774.)
+(Added Pub. L. 118–210, title II, § 213(a), Jan. 2, 2025, 138 Stat. 2774.)

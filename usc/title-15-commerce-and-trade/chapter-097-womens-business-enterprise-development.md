@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Codification**
 
-This chapter is comprised of title IV of Pub. L. 100–533, as added by Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4193, and amended. Title IV of Pub. L. 100–533 was formerly set out as a note under section 631 of this title.
+This chapter is comprised of title IV of Pub. L. 100–533, as added by Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4193, and amended. Title IV of Pub. L. 100–533 was formerly set out as a note under section 631 of this title.
 
-## § 7101. Establishment of the Interagency Committee
+## § 7101. Establishment of the Interagency Committee
 
 There is established an interagency committee to be known as the Interagency Committee on Women’s Business Enterprise.
 
-(Pub. L. 100–533, title IV, § 401, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4193.)
+(Pub. L. 100–533, title IV, § 401, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4193.)
 
 **Editorial Notes**
 
@@ -37,7 +37,7 @@ A prior section 401 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(9) [title VII, § 701], Dec. 21, 2000, 114 Stat. 2763, 2763A–701, provided that: “This title [amending sections 7107, 7109, and 7110 of this title and repealing former section 7109 of this title] may be cited as the ‘National Women’s Business Council Reauthorization Act of 2000’.”
+Pub. L. 106–554, § 1(a)(9) [title VII, § 701], Dec. 21, 2000, 114 Stat. 2763, 2763A–701, provided that: “This title [amending sections 7107, 7109, and 7110 of this title and repealing former section 7109 of this title] may be cited as the ‘National Women’s Business Council Reauthorization Act of 2000’.”
 
 **Executive Documents**
 
@@ -135,7 +135,7 @@ For the purposes of this Order, the following definitions shall apply:
 
 Nothing in this Order shall be construed as limiting the meaning or effect of any existing Executive order.
 
-## § 7102. Duties of the Interagency Committee
+## § 7102. Duties of the Interagency Committee
 
 **(a) In general** The Interagency Committee shall—
 
@@ -157,7 +157,7 @@ The Interagency Committee shall meet not less than biannually at such times as t
 
 In performing its duties under subsection (a), the Interagency Committee shall consult with the Council. The Interagency Committee may meet jointly with the Council at the discretion of the chairperson of the Interagency Committee and the chairperson of the Council, but not less frequently than twice annually. The chairperson of the Interagency Committee shall serve as chairperson of any joint meetings of the Interagency Committee and the Council.
 
-(Pub. L. 100–533, title IV, § 402, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4193.)
+(Pub. L. 100–533, title IV, § 402, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4193.)
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ In performing its duties under subsection (a), the Interagency Committee shall c
 
 A prior section 402 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2694, related to duties of the National Women’s Business Council, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7106 of this title.
 
-## § 7103. Membership of the Interagency Committee
+## § 7103. Membership of the Interagency Committee
 
 **(a) In general**
 
@@ -217,7 +217,7 @@ The members of the Interagency Committee shall serve without additional pay for 
 
 Upon request by the chairperson of the Interagency Committee, the head of any Federal department or agency may detail any of the personnel of such agency to assist the Interagency Committee in carrying out its duties under this chapter without regard to section 3341 of title 5.
 
-(Pub. L. 100–533, title IV, § 403, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4194; amended Pub. L. 105–135, title III, § 301, Dec. 2, 1997, 111 Stat. 2608.)
+(Pub. L. 100–533, title IV, § 403, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4194; amended Pub. L. 105–135, title III, § 301, Dec. 2, 1997, 111 Stat. 2608.)
 
 **Editorial Notes**
 
@@ -227,15 +227,15 @@ December 2, 1997, referred to in subsec. (a)(2)(A), was in the original “the d
 
 **Prior Provisions**
 
-A prior section 403 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2694; Pub. L. 102–191, § 5, Dec. 5, 1991, 105 Stat. 1591, related to membership of the National Women’s Business Council, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7107 of this title.
+A prior section 403 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2694; Pub. L. 102–191, § 5, Dec. 5, 1991, 105 Stat. 1591, related to membership of the National Women’s Business Council, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7107 of this title.
 
 **Amendments**
 
-1997—Subsec. (a)(2)(A). Pub. L. 105–135, § 301(1), substituted “December 2, 1997” for “October 22, 1994” and inserted before period at end “, and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee”. See Codification note above.
+1997—Subsec. (a)(2)(A). Pub. L. 105–135, § 301(1), substituted “December 2, 1997” for “October 22, 1994” and inserted before period at end “, and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee”. See Codification note above.
 
-Subsec. (a)(2)(B). Pub. L. 105–135, § 301(2), inserted before period at end “and shall report directly to the Administrator on the status of the activities on the Interagency Committee and shall serve as the Interagency Committee Liaison to the National Women’s Business Council established under section 7105 of this title”.
+Subsec. (a)(2)(B). Pub. L. 105–135, § 301(2), inserted before period at end “and shall report directly to the Administrator on the status of the activities on the Interagency Committee and shall serve as the Interagency Committee Liaison to the National Women’s Business Council established under section 7105 of this title”.
 
-Subsec. (b). Pub. L. 105–135, § 301(3), substituted “December 2, 1997” for “October 22, 1994”. See Codification note above.
+Subsec. (b). Pub. L. 105–135, § 301(3), substituted “December 2, 1997” for “October 22, 1994”. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -243,7 +243,7 @@ Subsec. (b). Pub. L. 105–135, § 301(3), substituted “December 2, 1997” 
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
-## § 7104. Reports from the Interagency Committee
+## § 7104. Reports from the Interagency Committee
 
 Not later than September 30, 1995, and annually thereafter, the Interagency Committee shall transmit, through the Small Business Administration, to the President and to the Committees on Small Business of the Senate and the House of Representatives, a report containing—
 
@@ -253,7 +253,7 @@ Not later than September 30, 1995, and annually thereafter, the Interagency Comm
 
 **(3)** the Interagency Committee’s recommendations for such legislation and administrative actions as the Interagency Committee considers appropriate to promote the development of small business concerns owned and controlled by women.
 
-(Pub. L. 100–533, title IV, § 404, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4194; amended Pub. L. 105–135, title III, § 302, Dec. 2, 1997, 111 Stat. 2608.)
+(Pub. L. 100–533, title IV, § 404, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4194; amended Pub. L. 105–135, title III, § 302, Dec. 2, 1997, 111 Stat. 2608.)
 
 **Editorial Notes**
 
@@ -263,13 +263,13 @@ A prior section 404 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 **Amendments**
 
-1997—Pub. L. 105–135, § 302(1), in introductory provisions, inserted “, through the Small Business Administration,” after “transmit”.
+1997—Pub. L. 105–135, § 302(1), in introductory provisions, inserted “, through the Small Business Administration,” after “transmit”.
 
-Par. (1). Pub. L. 105–135, § 302(3), inserted before semicolon at end “, including a verbatim report on the status of progress of the Interagency Committee in meeting its responsibilities and duties under section 7102(a) of this title”.
+Par. (1). Pub. L. 105–135, § 302(3), inserted before semicolon at end “, including a verbatim report on the status of progress of the Interagency Committee in meeting its responsibilities and duties under section 7102(a) of this title”.
 
-Pub. L. 105–135, § 302(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “any recommendations of the Council and any comments of the Interagency Committee thereon;”.
+Pub. L. 105–135, § 302(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “any recommendations of the Council and any comments of the Interagency Committee thereon;”.
 
-Pars. (2) to (4). Pub. L. 105–135, § 302(2), redesignated pars. (2) to (4) as (1) to (3), respectively.
+Pars. (2) to (4). Pub. L. 105–135, § 302(2), redesignated pars. (2) to (4) as (1) to (3), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,11 +281,11 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
-## § 7105. Establishment of the National Women’s Business Council
+## § 7105. Establishment of the National Women’s Business Council
 
 There is established a council to be known as the National Women’s Business Council, which shall serve as an independent source of advice and policy recommendations to the Interagency Committee, to the Administrator through the Assistant Administrator of the Office of Women’s Business Ownership, to the Congress, and to the President.
 
-(Pub. L. 100–533, title IV, § 405, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4195.)
+(Pub. L. 100–533, title IV, § 405, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4195.)
 
 **Editorial Notes**
 
@@ -293,7 +293,7 @@ There is established a council to be known as the National Women’s Business Co
 
 A prior section 405 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696, related to powers of the National Women’s Business Council, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403.
 
-## § 7106. Duties of the Council
+## § 7106. Duties of the Council
 
 **(a) In general**
 
@@ -317,15 +317,15 @@ The Council shall make annual recommendations for consideration by the Interagen
 
 **(4)** develop and promote new initiatives, policies, programs, and plans designed to foster women’s business enterprise;
 
-**(5)** advise and consult with the Interagency Committee in the design of a comprehensive plan for a joint public-private sector effort to facilitate growth and development of women’s business enterprise; 1
+**(5)** advise and consult with the Interagency Committee in the design of a comprehensive plan for a joint public-private sector effort to facilitate growth and development of women’s business enterprise; 1
 
-<sup>1</sup>  So in original. Semicolon probably should be followed by “and”.
+<sup>1</sup> So in original. Semicolon probably should be followed by “and”.
 
 **(6)** not later than 90 days after the last day of each fiscal year, submit to the President and to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives, a report containing—
 
 **(A)** a detailed description of the activities of the council,2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 including a status report on the Council’s progress toward meeting its duties outlined in subsections (a) and (d) of this section;
 
@@ -337,7 +337,7 @@ including a status report on the Council’s progress toward meeting its duties 
 
 The information included in each report under subsection (d) that is described in subparagraphs (A) through (C) of subsection (d)(6), shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
 
-(Pub. L. 100–533, title IV, § 406, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4195; amended Pub. L. 105–135, title III, § 303, Dec. 2, 1997, 111 Stat. 2609.)
+(Pub. L. 100–533, title IV, § 406, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4195; amended Pub. L. 105–135, title III, § 303, Dec. 2, 1997, 111 Stat. 2609.)
 
 **Editorial Notes**
 
@@ -347,11 +347,11 @@ A prior section 406 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 **Amendments**
 
-1997—Subsec. (c). Pub. L. 105–135, § 303(1), inserted “(through the Assistant Administrator of the Office of Women’s Business Ownership)” after “Administrator”.
+1997—Subsec. (c). Pub. L. 105–135, § 303(1), inserted “(through the Assistant Administrator of the Office of Women’s Business Ownership)” after “Administrator”.
 
-Subsec. (d)(6). Pub. L. 105–135, § 303(2), added par. (6).
+Subsec. (d)(6). Pub. L. 105–135, § 303(2), added par. (6).
 
-Subsec. (e). Pub. L. 105–135, § 303(2), added subsec. (e).
+Subsec. (e). Pub. L. 105–135, § 303(2), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -363,7 +363,7 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
-## § 7107. Membership of the Council
+## § 7107. Membership of the Council
 
 **(a) Chairperson**
 
@@ -417,13 +417,13 @@ The Administrator, in consultation with the chairperson of the Council, shall ap
 
 **(i) Rates of pay**
 
-The executive director and staff of the Council may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and except as provided in subsection (e), may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the executive director may not receive pay in excess of the annual rate of basic pay payable for a position at ES–3 of the Senior Executive Pay Schedule under section 5832 1
+The executive director and staff of the Council may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and except as provided in subsection (e), may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the executive director may not receive pay in excess of the annual rate of basic pay payable for a position at ES–3 of the Senior Executive Pay Schedule under section 5832 1
 
-<sup>1</sup>  So in original. Probably should be section “5382”.
+<sup>1</sup> So in original. Probably should be section “5382”.
 
 of title 5.
 
-(Pub. L. 100–533, title IV, § 407, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4196; amended Pub. L. 105–135, title III, § 304, Dec. 2, 1997, 111 Stat. 2609; Pub. L. 106–554, § 1(a)(9) [title VII, § 702], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.)
+(Pub. L. 100–533, title IV, § 407, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4196; amended Pub. L. 105–135, title III, § 304, Dec. 2, 1997, 111 Stat. 2609; Pub. L. 106–554, § 1(a)(9) [title VII, § 702], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.)
 
 **Editorial Notes**
 
@@ -433,15 +433,15 @@ The General Schedule, referred to in subsecs. (h) and (i), is set out under sect
 
 **Prior Provisions**
 
-A prior section 407 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696; Pub. L. 103–81, § 11, Aug. 13, 1993, 107 Stat. 783, related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7110 of this title.
+A prior section 407 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696; Pub. L. 103–81, § 11, Aug. 13, 1993, 107 Stat. 783, related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7110 of this title.
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(1)], substituted “The President” for “Not later than 45 days after December 2, 1997, the President”.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(1)], substituted “The President” for “Not later than 45 days after December 2, 1997, the President”.
 
-Subsec. (b). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(2)], in introductory provisions, substituted “The Administrator” for “Not later than 60 days after December 2, 1997, the Administrator” and struck out “the Assistant Administrator of the Office of Women’s Business Ownership and” after “in consultation with”.
+Subsec. (b). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(2)], in introductory provisions, substituted “The Administrator” for “Not later than 60 days after December 2, 1997, the Administrator” and struck out “the Assistant Administrator of the Office of Women’s Business Ownership and” after “in consultation with”.
 
-Subsec. (d). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(3)], struck out before period at end “, except that, of the initial members appointed to the Council—
+Subsec. (d). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(3)], struck out before period at end “, except that, of the initial members appointed to the Council—
 
 “(1) 2 members appointed under subsection (b)(1) of this section shall be appointed for a term of 1 year;
 
@@ -449,21 +449,21 @@ Subsec. (d). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(3)], struck ou
 
 “(3) each member appointed under subsection (b)(3) of this section shall be appointed for a term of 2 years”.
 
-Subsec. (h). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(4)], substituted “The Administrator” for “Not later than 60 days after October 22, 1994, the Administrator”.
+Subsec. (h). Pub. L. 106–554, § 1(a)(9) [title VII, § 702(4)], substituted “The Administrator” for “Not later than 60 days after October 22, 1994, the Administrator”.
 
-1997—Subsec. (a). Pub. L. 105–135, § 304(1), made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress.
+1997—Subsec. (a). Pub. L. 105–135, § 304(1), made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 105–135, § 304(2)(A)–(C), in introductory provisions made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress, inserted “, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate,” after “the Administrator shall”, and substituted “14” for “9”.
+Subsec. (b). Pub. L. 105–135, § 304(2)(A)–(C), in introductory provisions made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress, inserted “, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate,” after “the Administrator shall”, and substituted “14” for “9”.
 
-Subsec. (b)(1), (2). Pub. L. 105–135, § 304(2)(D), (E), substituted “4” for “2” in introductory provisions.
+Subsec. (b)(1), (2). Pub. L. 105–135, § 304(2)(D), (E), substituted “4” for “2” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 105–135, § 304(2)(F), substituted “6” for “5”, struck out “national” after “representatives of”, and inserted before period at end “, including representatives of women’s business center sites”.
+Subsec. (b)(3). Pub. L. 105–135, § 304(2)(F), substituted “6” for “5”, struck out “national” after “representatives of”, and inserted before period at end “, including representatives of women’s business center sites”.
 
-Subsec. (c). Pub. L. 105–135, § 304(3), inserted “(including both urban and rural areas)” after “geographic”.
+Subsec. (c). Pub. L. 105–135, § 304(3), inserted “(including both urban and rural areas)” after “geographic”.
 
-Subsec. (d). Pub. L. 105–135, § 304(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The term of service of the members of the Council shall be 3 years.”
+Subsec. (d). Pub. L. 105–135, § 304(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The term of service of the members of the Council shall be 3 years.”
 
-Subsec. (f). Pub. L. 105–135, § 304(5), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “A vacancy on the Council shall, not later than 30 days after the date on which the vacancy occurs, be filled in the same manner in which the original appointment was made.”
+Subsec. (f). Pub. L. 105–135, § 304(5), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “A vacancy on the Council shall, not later than 30 days after the date on which the vacancy occurs, be filled in the same manner in which the original appointment was made.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -475,7 +475,7 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
-## § 7108. Definitions
+## § 7108. Definitions
 
 For purposes of this chapter—
 
@@ -503,9 +503,9 @@ For purposes of this chapter—
 
 **(B)** own not less than 51 percent of the business.
 
-(Pub. L. 100–533, title IV, § 408, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4197.)
+(Pub. L. 100–533, title IV, § 408, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4197.)
 
-## § 7109. Studies and other research
+## § 7109. Studies and other research
 
 **(a) In general**
 
@@ -515,13 +515,13 @@ The Council may conduct such studies and other research relating to the award of
 
 In conducting any study or other research under this section, the Council may contract with one or more public or private entities.
 
-(Pub. L. 100–533, title IV, § 409, formerly § 410, as added Pub. L. 105–135, title III, § 307, Dec. 2, 1997, 111 Stat. 2611; renumbered § 409 and amended Pub. L. 106–554, § 1(a)(9) [title VII, § 704], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.)
+(Pub. L. 100–533, title IV, § 409, formerly § 410, as added Pub. L. 105–135, title III, § 307, Dec. 2, 1997, 111 Stat. 2611; renumbered § 409 and amended Pub. L. 106–554, § 1(a)(9) [title VII, § 704], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 409 of Pub. L. 100–533, as added Pub. L. 105–135, title III, § 306, Dec. 2, 1997, 111 Stat. 2610, related to the National Women’s Business Council procurement project, prior to repeal by Pub. L. 106–554, § 1(a)(9) [title VII, § 703], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.
+A prior section 409 of Pub. L. 100–533, as added Pub. L. 105–135, title III, § 306, Dec. 2, 1997, 111 Stat. 2610, related to the National Women’s Business Council procurement project, prior to repeal by Pub. L. 106–554, § 1(a)(9) [title VII, § 703], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.
 
 Another prior section 409 of Pub. L. 100–533 was renumbered section 410 and is classified to section 7110 of this title.
 
@@ -535,7 +535,7 @@ Another prior section 409 of Pub. L. 100–533 was renumbered section 410 and is
 
 Section effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as an Effective Date of 1997 Amendment note under section 631 of this title.
 
-## § 7110. Authorization of appropriations
+## § 7110. Authorization of appropriations
 
 **(a) In general**
 
@@ -545,7 +545,7 @@ There is authorized to be appropriated to carry out this chapter $1,000,000, for
 
 No amount made available under this section for any fiscal year may be obligated or expended by the Council before the date on which the Council reviews and approves the operating budget of the Council to carry out the responsibilities of the Council for that fiscal year.
 
-(Pub. L. 100–533, title IV, § 410, formerly § 409, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4197; renumbered § 411 and amended Pub. L. 105–135, title III, § 305, Dec. 2, 1997, 111 Stat. 2610; renumbered § 410 and amended Pub. L. 106–554, § 1(a)(9) [title VII, § 705], Dec. 21, 2000, 114 Stat. 2763, 2763A–702.)
+(Pub. L. 100–533, title IV, § 410, formerly § 409, as added Pub. L. 103–403, title IV, § 413, Oct. 22, 1994, 108 Stat. 4197; renumbered § 411 and amended Pub. L. 105–135, title III, § 305, Dec. 2, 1997, 111 Stat. 2610; renumbered § 410 and amended Pub. L. 106–554, § 1(a)(9) [title VII, § 705], Dec. 21, 2000, 114 Stat. 2763, 2763A–702.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15—COPYRIGHT SMALL CLAIMS
 
-## § 1501. Definitions
+## § 1501. Definitions
 
 In this chapter—
 
@@ -35,15 +35,15 @@ In this chapter—
 
 **(4)** the term “respondent” means any person against whom a proceeding is brought before the Copyright Claims Board under section 1506(e), pursuant to a permissible claim of infringement brought under section 1504(c)(1), noninfringement brought under section 1504(c)(2), or misrepresentation brought under section 1504(c)(3).
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2177.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2177.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Severability**
 
-Pub. L. 116–260, div. Q, title II, § 212(f), Dec. 27, 2020, 134 Stat. 2200, provided that: “If any provision of this section [see Short Title of 2020 Amendment note set out under section 101 of this title], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section, and the application of the provision or the amendment to any other person or circumstance, shall not be affected.”
+Pub. L. 116–260, div. Q, title II, § 212(f), Dec. 27, 2020, 134 Stat. 2200, provided that: “If any provision of this section [see Short Title of 2020 Amendment note set out under section 101 of this title], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section, and the application of the provision or the amendment to any other person or circumstance, shall not be affected.”
 
-## § 1502. Copyright Claims Board
+## § 1502. Copyright Claims Board
 
 **(a) In General.—** There is established in the Copyright Office the Copyright Claims Board, which shall serve as an alternative forum in which parties may voluntarily seek to resolve certain copyright claims regarding any category of copyrighted work, as provided in this chapter.
 
@@ -107,7 +107,7 @@ Pub. L. 116–260, div. Q, title II, § 212(f), Dec. 27, 2020, 134 Stat. 2200,
 
 **(9) Location of copyright claims board.—** The offices and facilities of the Copyright Claims Officers and Copyright Claims Attorneys shall be located at the Copyright Office.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2177.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2177.)
 
 **Editorial Notes**
 
@@ -119,13 +119,13 @@ The General Schedule, referred to in subsec. (b)(4), is set out under section 53
 
 **Implementation**
 
-Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199, provided that:
+Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), not later than 1 year after the date of enactment of this Act [Dec. 27, 2020], the Copyright Claims Board established under section 1502 of title 17, United States Code, as added by subsection (b) of this section, shall begin operations.
 
 > **“(2) Extension.—** The Register of Copyrights may, for good cause, extend the deadline under paragraph (1) by not more than 180 days if the Register of Copyrights provides notice of the extension to the public and to Congress.”
 
-## § 1503. Authority and duties of the Copyright Claims Board
+## § 1503. Authority and duties of the Copyright Claims Board
 
 **(a) Functions.—**
 
@@ -193,9 +193,9 @@ Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199,
 
 **(g) Judicial Review.—** Actions of the Copyright Claims Officers and Register of Copyrights under this chapter in connection with the rendering of any determination are subject to judicial review as provided under section 1508(c) and not under chapter 7 of title 5.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2179.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2179.)
 
-## § 1504. Nature of proceedings
+## § 1504. Nature of proceedings
 
 **(a) Voluntary Participation.—** Participation in a Copyright Claims Board proceeding shall be on a voluntary basis in accordance with this chapter, and the right of any party to instead pursue a claim, counterclaim, or defense in a district court of the United States, any other court, or any other forum, and to seek a jury trial, shall be preserved. The rights, remedies, and limitations under this section may not be waived except in accordance with this chapter.
 
@@ -281,9 +281,9 @@ Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199,
 
 **(g) Permissible Number of Cases.—** The Register of Copyrights may establish regulations relating to the permitted number of proceedings each year by the same claimant under this chapter, in the interests of justice and the administration of the Copyright Claims Board.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2181.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2181.)
 
-## § 1505. Registration requirement
+## § 1505. Registration requirement
 
 **(a) Application or Certificate.—** A claim or counterclaim alleging infringement of an exclusive right in a copyrighted work may not be asserted before the Copyright Claims Board unless—
 
@@ -307,9 +307,9 @@ Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199,
 
 **(d) Regulations.—** In order to ensure that actions before the Copyright Claims Board proceed in a timely manner, the Register of Copyrights shall establish regulations allowing the Copyright Office to make a decision, on an expedited basis, to issue or deny copyright registration for an unregistered work that is at issue before the Board.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2184.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2184.)
 
-## § 1506. Conduct of proceedings
+## § 1506. Conduct of proceedings
 
 **(a) In General.—**
 
@@ -545,9 +545,9 @@ Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199,
 
 **(4) Definitions.—** For purposes of this subsection, the terms “library” and “archives” mean any library or archives, respectively, that qualifies for the limitations on exclusive rights under section 108.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2185.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2185.)
 
-## § 1507. Effect of proceeding
+## § 1507. Effect of proceeding
 
 **(a) Determination.—** Subject to the reconsideration and review processes provided under subsections (w) and (x) of section 1506 and section 1508(c), the issuance of a final determination by the Copyright Claims Board in a proceeding, including a default determination or determination based on a failure to prosecute, shall, solely with respect to the parties to such determination, preclude relitigation before any court or tribunal, or before the Copyright Claims Board, of the claims and counterclaims asserted and finally determined by the Board, and may be relied upon for such purpose in a future action or proceeding arising from the same specific activity or activities, subject to the following:
 
@@ -579,9 +579,9 @@ Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199,
 
 **(f) Opt-Out or Dismissal of Party.—** If a party has timely opted out of a proceeding under section 1506(i) or is dismissed from a proceeding before the Copyright Claims Board issues a final determination in the proceeding, the determination shall not be binding upon and shall have no preclusive effect with respect to that party.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2195.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2195.)
 
-## § 1508. Review and confirmation by district court
+## § 1508. Review and confirmation by district court
 
 **(a) In General.—** In any proceeding in which a party has failed to pay damages, or has failed otherwise to comply with the relief, awarded in a final determination of the Copyright Claims Board, including a default determination or a determination based on a failure to prosecute, the aggrieved party may, not later than 1 year after the date on which the final determination is issued, any reconsideration by the Copyright Claims Board or review by the Register of Copyrights is resolved, or an amended final determination is issued, whichever occurs last, apply to the United States District Court for the District of Columbia or any other appropriate district court of the United States for an order confirming the relief awarded in the final determination and reducing such award to judgment. The court shall grant such order and direct entry of judgment unless the determination is or has been vacated, modified, or corrected under subsection (c). If the United States District Court for the District of Columbia or other district court of the United States, as the case may be, issues an order confirming the relief awarded by the Copyright Claims Board, the court shall impose on the party who failed to pay damages or otherwise comply with the relief, the reasonable expenses required to secure such order, including attorneys’ fees, that were incurred by the aggrieved party.
 
@@ -619,17 +619,17 @@ Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199,
 
 **(B) Staying of proceedings.—** For purposes of an application under this subsection, any judge who is authorized to issue an order to stay the proceedings in another action brought in the same court may issue an order, to be served with the notice of application, staying proceedings to enforce the award while the challenge is pending.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2196.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2196.)
 
-## § 1509. Relationship to other district court actions
+## § 1509. Relationship to other district court actions
 
 **(a) Stay of District Court Proceedings.—** Subject to section 1507(b), a district court of the United States shall issue a stay of proceedings or such other relief as the court determines appropriate with respect to any claim brought before the court that is already the subject of a pending or active proceeding before the Copyright Claims Board.
 
 **(b) Alternative Dispute Resolution Process.—** A proceeding before the Copyright Claims Board under this chapter shall qualify as an alternative dispute resolution process under section 651 of title 28 for purposes of referral of eligible cases by district courts of the United States upon the consent of the parties.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2198.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2198.)
 
-## § 1510. Implementation by Copyright Office
+## § 1510. Implementation by Copyright Office
 
 **(a) Regulations.—**
 
@@ -637,9 +637,9 @@ Pub. L. 116–260, div. Q, title II, § 212(d), Dec. 27, 2020, 134 Stat. 2199,
 
 **(2) Limits on monetary relief.—**
 
-**(A) In general.—** Subject to subparagraph (B), not earlier than 3 years after the date on which Copyright 1
+**(A) In general.—** Subject to subparagraph (B), not earlier than 3 years after the date on which Copyright 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Claims Board issues the first determination of the Copyright Claims Board, the Register of Copyrights may, in order to further the goals of the Copyright Claims Board, conduct a rulemaking to adjust the limits on monetary recovery or attorneys’ fees and costs that may be awarded under this chapter.
 
@@ -649,10 +649,10 @@ Claims Board issues the first determination of the Copyright Claims Board, the R
 
 **(c) Fees.—** Any filing fees, including the fee to commence a proceeding under section 1506(e), shall be prescribed in regulations established by the Register of Copyrights. The sum total of such filing fees shall be in an amount of not less than $100, may not exceed the cost of filing an action in a district court of the United States, and shall be fixed in amounts that further the goals of the Copyright Claims Board.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2198.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2198.)
 
-## § 1511. Funding
+## § 1511. Funding
 
 There are authorized to be appropriated such sums as may be necessary to pay the costs incurred by the Copyright Office under this chapter that are not covered by fees collected for services rendered under this chapter, including the costs of establishing and maintaining the Copyright Claims Board and its facilities.
 
-(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2199.)
+(Added Pub. L. 116–260, div. Q, title II, § 212(b), Dec. 27, 2020, 134 Stat. 2199.)

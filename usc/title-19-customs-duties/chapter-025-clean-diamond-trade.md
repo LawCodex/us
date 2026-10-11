@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 25—CLEAN DIAMOND TRADE
 
-## § 3901. Findings
+## § 3901. Findings
 
 Congress finds the following:
 
@@ -37,13 +37,13 @@ Congress finds the following:
 
 **(9)** The Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002, states that Participants will ensure that measures taken to implement the Kimberley Process Certification Scheme for Rough Diamonds will be consistent with international trade rules.
 
-(Pub. L. 108–19, § 2, Apr. 25, 2003, 117 Stat. 631.)
+(Pub. L. 108–19, § 2, Apr. 25, 2003, 117 Stat. 631.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–19, § 15, Apr. 25, 2003, 117 Stat. 637, provided that:
+Pub. L. 108–19, § 15, Apr. 25, 2003, 117 Stat. 637, provided that:
 
 > “This Act [enacting this chapter] shall take effect on the date on which the President certifies to the Congress that—
 
@@ -57,7 +57,7 @@ Pub. L. 108–19, § 15, Apr. 25, 2003, 117 Stat. 637, provided that:
 
 **Short Title**
 
-Pub. L. 108–19, § 1, Apr. 25, 2003, 117 Stat. 631, provided that: “This Act [enacting this chapter] may be cited as the ‘Clean Diamond Trade Act’.”
+Pub. L. 108–19, § 1, Apr. 25, 2003, 117 Stat. 631, provided that: “This Act [enacting this chapter] may be cited as the ‘Clean Diamond Trade Act’.”
 
 **Executive Documents**
 
@@ -105,7 +105,7 @@ Sec. 6. *Effective Date and Transmittal*. (a) Sections 1 and 3 of this order are
 
 George W. Bush.
 
-## § 3902. Definitions
+## § 3902. Definitions
 
 In this chapter:
 
@@ -159,7 +159,7 @@ The term “United States”, when used in the geographic sense, means the sever
 
 **(C)** any person in the United States.
 
-(Pub. L. 108–19, § 3, Apr. 25, 2003, 117 Stat. 632.)
+(Pub. L. 108–19, § 3, Apr. 25, 2003, 117 Stat. 632.)
 
 **Editorial Notes**
 
@@ -177,7 +177,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
 
-## § 3903. Measures for the importation and exportation of rough diamonds
+## § 3903. Measures for the importation and exportation of rough diamonds
 
 **(a) Prohibition**
 
@@ -189,7 +189,7 @@ The President shall prohibit the importation into, or exportation from, the Unit
 
 **(2)** the President determines that the waiver is in the national interests of the United States, and reports such determination to the appropriate congressional committees, together with the reasons therefor.
 
-(Pub. L. 108–19, § 4, Apr. 25, 2003, 117 Stat. 633.)
+(Pub. L. 108–19, § 4, Apr. 25, 2003, 117 Stat. 633.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -203,7 +203,7 @@ For effective date of this section, see section 15 of Pub. L. 108–19, set out 
 
 For assignment of functions of President under subsec. (b) of this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under section 3901 of this title.
 
-## § 3904. Regulatory and other authority
+## § 3904. Regulatory and other authority
 
 **(a) In general**
 
@@ -217,7 +217,7 @@ Any United States person seeking to export from or import into the United States
 
 The President shall require the appropriate Government agency to conduct annual reviews of the standards, practices, and procedures of any entity in the United States that issues Kimberley Process Certificates for the exportation from the United States of rough diamonds to determine whether such standards, practices, and procedures are in accordance with the Kimberley Process Certification Scheme. The President shall transmit to the appropriate congressional committees a report on each annual review under this subsection.
 
-(Pub. L. 108–19, § 5, Apr. 25, 2003, 117 Stat. 634.)
+(Pub. L. 108–19, § 5, Apr. 25, 2003, 117 Stat. 634.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -231,7 +231,7 @@ For effective date of this section, see section 15 of Pub. L. 108–19, set out 
 
 For assignment of functions of President under this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under section 3901 of this title.
 
-## § 3905. Importing and exporting authorities
+## § 3905. Importing and exporting authorities
 
 **(a) In the United States** For purposes of this chapter—
 
@@ -243,7 +243,7 @@ For assignment of functions of President under this section, see section 2 of Ex
 
 The President shall publish in the Federal Register a list of all Participants, and all exporting authorities and importing authorities of Participants. The President shall update the list as necessary.
 
-(Pub. L. 108–19, § 6, Apr. 25, 2003, 117 Stat. 634.)
+(Pub. L. 108–19, § 6, Apr. 25, 2003, 117 Stat. 634.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -257,11 +257,11 @@ For effective date of this section, see section 15 of Pub. L. 108–19, set out 
 
 For assignment of functions of President under subsec. (b) of this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under section 3901 of this title.
 
-## § 3906. Statement of policy
+## § 3906. Statement of policy
 
 The Congress supports the policy that the President shall take appropriate steps to promote and facilitate the adoption by the international community of the Kimberley Process Certification Scheme implemented under this chapter.
 
-(Pub. L. 108–19, § 7, Apr. 25, 2003, 117 Stat. 634.)
+(Pub. L. 108–19, § 7, Apr. 25, 2003, 117 Stat. 634.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -269,7 +269,7 @@ The Congress supports the policy that the President shall take appropriate steps
 
 For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
 
-## § 3907. Enforcement
+## § 3907. Enforcement
 
 **(a) In general** In addition to the enforcement provisions set forth in subsection (b)—
 
@@ -285,7 +285,7 @@ Those customs laws of the United States, both civil and criminal, including thos
 
 The United States Bureau of Customs and Border Protection and the United States Bureau of Immigration and Customs Enforcement are authorized, as appropriate, to enforce the provisions of subsection (a) and to enforce the laws and regulations governing exports of rough diamonds, including with respect to the validation of the Kimberley Process Certificate by the exporting authority.
 
-(Pub. L. 108–19, § 8, Apr. 25, 2003, 117 Stat. 634.)
+(Pub. L. 108–19, § 8, Apr. 25, 2003, 117 Stat. 634.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,11 +293,11 @@ The United States Bureau of Customs and Border Protection and the United States 
 
 For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
 
-## § 3908. Technical assistance
+## § 3908. Technical assistance
 
 The President may direct the appropriate agencies of the United States Government to make available technical assistance to countries seeking to implement the Kimberley Process Certification Scheme.
 
-(Pub. L. 108–19, § 9, Apr. 25, 2003, 117 Stat. 635.)
+(Pub. L. 108–19, § 9, Apr. 25, 2003, 117 Stat. 635.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -305,7 +305,7 @@ The President may direct the appropriate agencies of the United States Governmen
 
 For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
 
-## § 3909. Sense of Congress
+## § 3909. Sense of Congress
 
 **(a) Ongoing process**
 
@@ -319,7 +319,7 @@ It is the sense of the Congress that the Kimberley Process Certification Scheme,
 
 **(3)** take a leadership role in negotiating a standardized methodology among Participants for reporting statistics on imports and exports of rough diamonds.
 
-(Pub. L. 108–19, § 10, Apr. 25, 2003, 117 Stat. 635.)
+(Pub. L. 108–19, § 10, Apr. 25, 2003, 117 Stat. 635.)
 
 **Editorial Notes**
 
@@ -333,7 +333,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
 
-## § 3910. Kimberley Process Implementation Coordinating Committee
+## § 3910. Kimberley Process Implementation Coordinating Committee
 
 The President shall establish a Kimberley Process Implementation Coordinating Committee to coordinate the implementation of this chapter. The Committee shall be composed of the following individuals or their designees:
 
@@ -347,7 +347,7 @@ The President shall establish a Kimberley Process Implementation Coordinating Co
 
 **(5)** A representative of any other agency the President deems appropriate.
 
-(Pub. L. 108–19, § 11, Apr. 25, 2003, 117 Stat. 635.)
+(Pub. L. 108–19, § 11, Apr. 25, 2003, 117 Stat. 635.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -361,7 +361,7 @@ For effective date of this section, see section 15 of Pub. L. 108–19, set out 
 
 For assignment of functions of President under this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under section 3901 of this title.
 
-## § 3911. Reports
+## § 3911. Reports
 
 **(a) Annual reports** Not later than 1 year after April 25, 2003, and every 12 months thereafter for such period as this chapter is in effect, the President shall transmit to the Congress a report—
 
@@ -371,9 +371,9 @@ For assignment of functions of President under this section, see section 2 of Ex
 
 **(3)** identifying each country that, during the preceding 12-month period, exported rough diamonds to the United States and was exporting rough diamonds not controlled through the Kimberley Process Certification Scheme, if the failure to do so has significantly increased the likelihood that those diamonds not so controlled are being imported into the United States; and
 
-**(4)** identifying any problems or obstacles encountered in the implementation of this chapter or the Kimberly 1
+**(4)** identifying any problems or obstacles encountered in the implementation of this chapter or the Kimberly 1
 
-<sup>1</sup>  So in original. Probably should be “Kimberley”.
+<sup>1</sup> So in original. Probably should be “Kimberley”.
 
 Process Certification Scheme.
 
@@ -381,7 +381,7 @@ Process Certification Scheme.
 
 For each country identified in subsection (a)(3), the President, during such period as this chapter is in effect, shall, every 6 months after the initial report in which the country was identified, transmit to the Congress a report that explains what actions have been taken by the United States or such country since the previous report to ensure that diamonds the exportation of which was not controlled through the Kimberley Process Certification Scheme are not being imported from that country into the United States. The requirement to issue a semiannual report with respect to a country under this subsection shall remain in effect until such time as the country is controlling the importation and exportation of rough diamonds through the Kimberley Process Certification Scheme.
 
-(Pub. L. 108–19, § 12, Apr. 25, 2003, 117 Stat. 636.)
+(Pub. L. 108–19, § 12, Apr. 25, 2003, 117 Stat. 636.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -395,11 +395,11 @@ For effective date of this section, see section 15 of Pub. L. 108–19, set out 
 
 For assignment of functions of President under this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under section 3901 of this title.
 
-## § 3912. GAO report
+## § 3912. GAO report
 
 Not later than 24 months after the effective date of this chapter, the Comptroller General of the United States shall transmit a report to the Congress on the effectiveness of the provisions of this chapter in preventing the importation or exportation of rough diamonds that is prohibited under section 3903 of this title. The Comptroller General shall include in the report any recommendations on any modifications to this chapter that may be necessary.
 
-(Pub. L. 108–19, § 13, Apr. 25, 2003, 117 Stat. 636.)
+(Pub. L. 108–19, § 13, Apr. 25, 2003, 117 Stat. 636.)
 
 **Editorial Notes**
 
@@ -413,11 +413,11 @@ For effective date of this chapter, see section 15 of Pub. L. 108–19, set out 
 
 For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
 
-## § 3913. Delegation of authorities
+## § 3913. Delegation of authorities
 
 The President may delegate the duties and authorities under this chapter to such officers, officials, departments, or agencies of the United States Government as the President deems appropriate.
 
-(Pub. L. 108–19, § 14, Apr. 25, 2003, 117 Stat. 636.)
+(Pub. L. 108–19, § 14, Apr. 25, 2003, 117 Stat. 636.)
 
 **Statutory Notes and Related Subsidiaries**
 

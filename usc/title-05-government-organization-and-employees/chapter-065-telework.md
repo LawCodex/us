@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 65—TELEWORK
 
-## § 6501. Definitions
+## § 6501. Definitions
 
 In this chapter:
 
@@ -25,13 +25,13 @@ In this chapter:
 
 **(3) Telework.—** The term “telework” or “teleworking” refers to a work flexibility arrangement under which an employee performs the duties and responsibilities of such employee’s position, and other authorized activities, from an approved worksite other than the location from which the employee would otherwise work.
 
-(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3165.)
+(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3165.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Telework Research**
 
-Pub. L. 111–292, § 4, Dec. 9, 2010, 124 Stat. 3173, provided that:
+Pub. L. 111–292, § 4, Dec. 9, 2010, 124 Stat. 3173, provided that:
 
 > **“(a) Research by OPM on Telework.—** The Director of the Office of Personnel Management shall—
 
@@ -47,19 +47,19 @@ Pub. L. 111–292, § 4, Dec. 9, 2010, 124 Stat. 3173, provided that:
 
 **Implementation of Telecommuting Programs**
 
-Pub. L. 108–7, div. B, title VI, § 623, Feb. 20, 2003, 117 Stat. 103, as amended by Pub. L. 111–292, § 2(b)(2)(A), Dec. 9, 2010, 124 Stat. 3170, provided that: “Of the funds appropriated in this Act [div. B of Pub. L. 108–7, see Tables for classification] for the Departments of Commerce, Justice, and State, the Judiciary, and the Small Business Administration, $100,000 shall be available to each Department or agency only to implement telecommuting programs: *Provided*, That, 6 months after the date of enactment of this Act [Feb. 20, 2003] and every 6 months thereafter, each Department or agency shall provide a report to the Committees on Appropriations on the status of telecommuting programs, including the number of Federal employees eligible for, and participating in, such programs: *Provided further*, That each Department or agency shall designate a Telework Managing Officer to be responsible for overseeing the implementation of telecommuting programs and serve as a point of contact on such programs for the Committees on Appropriations.”
+Pub. L. 108–7, div. B, title VI, § 623, Feb. 20, 2003, 117 Stat. 103, as amended by Pub. L. 111–292, § 2(b)(2)(A), Dec. 9, 2010, 124 Stat. 3170, provided that: “Of the funds appropriated in this Act [div. B of Pub. L. 108–7, see Tables for classification] for the Departments of Commerce, Justice, and State, the Judiciary, and the Small Business Administration, $100,000 shall be available to each Department or agency only to implement telecommuting programs: *Provided*, That, 6 months after the date of enactment of this Act [Feb. 20, 2003] and every 6 months thereafter, each Department or agency shall provide a report to the Committees on Appropriations on the status of telecommuting programs, including the number of Federal employees eligible for, and participating in, such programs: *Provided further*, That each Department or agency shall designate a Telework Managing Officer to be responsible for overseeing the implementation of telecommuting programs and serve as a point of contact on such programs for the Committees on Appropriations.”
 
 Similar provisions were contained in the following appropriation acts:
 
-Pub. L. 109–108, title VI, § 617, Nov. 22, 2005, 119 Stat. 2340, as amended by Pub. L. 111–292, § 2(b)(2)(D), Dec. 9, 2010, 124 Stat. 3171.
+Pub. L. 109–108, title VI, § 617, Nov. 22, 2005, 119 Stat. 2340, as amended by Pub. L. 111–292, § 2(b)(2)(D), Dec. 9, 2010, 124 Stat. 3171.
 
-Pub. L. 108–447, div. B, title VI, § 622, Dec. 8, 2004, 118 Stat. 2919, as amended by Pub. L. 111–292, § 2(b)(2)(C), Dec. 9, 2010, 124 Stat. 3171.
+Pub. L. 108–447, div. B, title VI, § 622, Dec. 8, 2004, 118 Stat. 2919, as amended by Pub. L. 111–292, § 2(b)(2)(C), Dec. 9, 2010, 124 Stat. 3171.
 
-Pub. L. 108–199, div. B, title VI, § 627, Jan. 23, 2004, 118 Stat. 99, as amended by Pub. L. 111–292, § 2(b)(2)(B), Dec. 9, 2010, 124 Stat. 3171.
+Pub. L. 108–199, div. B, title VI, § 627, Jan. 23, 2004, 118 Stat. 99, as amended by Pub. L. 111–292, § 2(b)(2)(B), Dec. 9, 2010, 124 Stat. 3171.
 
 **Telecommuting in Executive Agencies**
 
-Pub. L. 106–346, § 101(a) [title III, § 359], Oct. 23, 2000, 114 Stat. 1356, 1356A–36, provided that: “Each executive agency shall establish a policy under which eligible employees of the agency may participate in telecommuting to the maximum extent possible without diminished employee performance. Not later than 6 months after the date of the enactment of this Act [Oct. 23, 2000], the Director of the Office of Personnel Management shall provide that the requirements of this section are applied to 25 percent of the Federal workforce, and to an additional 25 percent of such workforce each year thereafter.”
+Pub. L. 106–346, § 101(a) [title III, § 359], Oct. 23, 2000, 114 Stat. 1356, 1356A–36, provided that: “Each executive agency shall establish a policy under which eligible employees of the agency may participate in telecommuting to the maximum extent possible without diminished employee performance. Not later than 6 months after the date of the enactment of this Act [Oct. 23, 2000], the Director of the Office of Personnel Management shall provide that the requirements of this section are applied to 25 percent of the Federal workforce, and to an additional 25 percent of such workforce each year thereafter.”
 
 **Executive Documents**
 
@@ -75,7 +75,7 @@ This memorandum shall be implemented consistent with applicable law.
 
 Donald J. Trump.
 
-## § 6502. Executive agencies telework requirement
+## § 6502. Executive agencies telework requirement
 
 **(a) Telework Eligibility.—**
 
@@ -131,7 +131,7 @@ Donald J. Trump.
 
 **(3)** the agency determines that it would be appropriate for the employee to perform the duties of the employee through telework.
 
-(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3165; amended Pub. L. 114–328, div. A, title XI, § 1138(d)(3), Dec. 23, 2016, 130 Stat. 2469; Pub. L. 117–81, div. F, title LXII, § 6202(a)(2), Dec. 27, 2021, 135 Stat. 2389.)
+(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3165; amended Pub. L. 114–328, div. A, title XI, § 1138(d)(3), Dec. 23, 2016, 130 Stat. 2469; Pub. L. 117–81, div. F, title LXII, § 6202(a)(2), Dec. 27, 2021, 135 Stat. 2389.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ The date of enactment of this chapter, referred to in subsec. (a)(1), is the dat
 
 **Telecommuting Opportunities**
 
-Pub. L. 117–81, div. F, title LXII, § 6202, Dec. 27, 2021, 135 Stat. 2389, provided that:
+Pub. L. 117–81, div. F, title LXII, § 6202, Dec. 27, 2021, 135 Stat. 2389, provided that:
 
 > **“(a) DETO Policy.—**
 
@@ -161,7 +161,7 @@ Pub. L. 117–81, div. F, title LXII, § 6202, Dec. 27, 2021, 135 Stat. 2389, 
 
 > **“(b) Access to ICASS System.—** Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of State shall revise chapter 900 of volume 6 of the Foreign Affairs Manual, the International Cooperative Administrative Support Services Handbook, the Personnel Operations Handbook, and any other relevant regulations to allow each Federal agency that has enacted a policy under subsection (a) to have access to the International Cooperative Administrative Support Services (ICASS) system.”
 
-## § 6503. Training and monitoring
+## § 6503. Training and monitoring
 
 **(a) In General.—** The head of each executive agency shall ensure that—
 
@@ -187,7 +187,7 @@ Pub. L. 117–81, div. F, title LXII, § 6202, Dec. 27, 2021, 135 Stat. 2389, 
 
 **(b) Training Requirement Exemptions.—** The head of an executive agency may provide for an exemption from the training requirements under subsection (a), if the head of that agency determines that the training would be unnecessary because the employee is already teleworking under a work arrangement in effect before the date of enactment of this chapter.
 
-(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3166.)
+(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3166.)
 
 **Editorial Notes**
 
@@ -195,7 +195,7 @@ Pub. L. 117–81, div. F, title LXII, § 6202, Dec. 27, 2021, 135 Stat. 2389, 
 
 The date of enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
 
-## § 6504. Policy and support
+## § 6504. Policy and support
 
 **(a) Agency Consultation With the Office of Personnel Management.—** Each executive agency shall consult with the Office of Personnel Management in developing telework policies.
 
@@ -253,7 +253,7 @@ The date of enactment of this chapter, referred to in subsec. (b), is the date o
 
 **(f) Policy Guidance on Purchasing Computer Systems.—** Not later than 120 days after the date of the enactment of this chapter, the Director of the Office of Management and Budget shall issue policy guidance requiring each executive agency when purchasing computer systems, to purchase computer systems that enable and support telework, unless the head of the agency determines that there is a mission-specific reason not to do so.
 
-(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3167.)
+(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3167.)
 
 **Editorial Notes**
 
@@ -261,7 +261,7 @@ The date of enactment of this chapter, referred to in subsec. (b), is the date o
 
 The date of enactment of this chapter, referred to in subsecs. (c)(1) and (f), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
 
-## § 6505. Telework Managing Officer
+## § 6505. Telework Managing Officer
 
 **(a) Designation.—** The head of each executive agency shall designate an employee of the agency as the Telework Managing Officer. The Telework Managing Officer shall be established within the Office of the Chief Human Capital Officer or a comparable office with similar functions.
 
@@ -283,17 +283,17 @@ The date of enactment of this chapter, referred to in subsecs. (c)(1) and (f), i
 
 **(d) Rule of Construction Regarding Status of Telework Managing Officer.—** Nothing in this section shall be construed to prohibit an individual who holds another office or position in an agency from serving as the Telework Managing Officer for the agency under this chapter.
 
-(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3168.)
+(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3168.)
 
-## § 6506. Reports
+## § 6506. Reports
 
 **(a) Definition.—** In this section, the term “executive agency” shall not include the Government Accountability Office.
 
 **(b) Reports by the Office of Personnel Management.—**
 
-**(1) Submission of reports.—** Not later than 18 months after the date of enactment of this chapter and on an annual basis thereafter, the Director of the Office of Personnel Management, in consultation with Chief 1
+**(1) Submission of reports.—** Not later than 18 months after the date of enactment of this chapter and on an annual basis thereafter, the Director of the Office of Personnel Management, in consultation with Chief 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Human Capital Officers Council, shall—
 
@@ -373,7 +373,7 @@ Human Capital Officers Council, shall—
 
 **(C)** use that relevant information for other purposes related to the strategic management of human capital.
 
-(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3169.)
+(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3169.)
 
 **Editorial Notes**
 

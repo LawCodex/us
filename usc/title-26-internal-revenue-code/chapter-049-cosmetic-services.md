@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 49, added Pub. L. 111–148, title IX, § 9017(a), Mar. 23, 2010, 124 Stat. 872, which related to elective cosmetic medical procedures and consisted of section 5000B, was not set out in the Code in view of Pub. L. 111–148, title X, § 10907(a), Mar. 23, 2010, 124 Stat. 1020, which provided that the amendments made by section 9017 of Pub. L. 111–148 were deemed null, void, and of no effect.
+A prior chapter 49, added Pub. L. 111–148, title IX, § 9017(a), Mar. 23, 2010, 124 Stat. 872, which related to elective cosmetic medical procedures and consisted of section 5000B, was not set out in the Code in view of Pub. L. 111–148, title X, § 10907(a), Mar. 23, 2010, 124 Stat. 1020, which provided that the amendments made by section 9017 of Pub. L. 111–148 were deemed null, void, and of no effect.
 
-## § 5000B. Imposition of tax on indoor tanning services
+## § 5000B. Imposition of tax on indoor tanning services
 
 **(a) In general**
 
@@ -51,16 +51,16 @@ Every person receiving a payment for services on which a tax is imposed under su
 
 Where any tax imposed by subsection (a) is not paid at the time payments for indoor tanning services are made, then to the extent that such tax is not collected, such tax shall be paid by the person who performs the service.
 
-(Added Pub. L. 111–148, title X, § 10907(b), Mar. 23, 2010, 124 Stat. 1020.)
+(Added Pub. L. 111–148, title X, § 10907(b), Mar. 23, 2010, 124 Stat. 1020.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5000B, added Pub. L. 111–148, title IX, § 9017(a), Mar. 23, 2010, 124 Stat. 872, which related to tax on elective cosmetic medical procedures, and section 9017(c) of Pub. L. 111–148, which provided that the amendments made by section 9017 of Pub. L. 111–148 were applicable to procedures performed on or after Jan. 1, 2010, were not set out in the Code in view of Pub. L. 111–148, title X, § 10907(a), Mar. 23, 2010, 124 Stat. 1020, which provided that the provisions of, and amendments made by, section 9017 of Pub. L. 111–148 were deemed null, void, and of no effect.
+A prior section 5000B, added Pub. L. 111–148, title IX, § 9017(a), Mar. 23, 2010, 124 Stat. 872, which related to tax on elective cosmetic medical procedures, and section 9017(c) of Pub. L. 111–148, which provided that the amendments made by section 9017 of Pub. L. 111–148 were applicable to procedures performed on or after Jan. 1, 2010, were not set out in the Code in view of Pub. L. 111–148, title X, § 10907(a), Mar. 23, 2010, 124 Stat. 1020, which provided that the provisions of, and amendments made by, section 9017 of Pub. L. 111–148 were deemed null, void, and of no effect.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–148, title X, § 10907(d), Mar. 23, 2010, 124 Stat. 1021, provided that: “The amendments made by this section [enacting this section] shall apply to services performed on or after July 1, 2010.”
+Pub. L. 111–148, title X, § 10907(d), Mar. 23, 2010, 124 Stat. 1021, provided that: “The amendments made by this section [enacting this section] shall apply to services performed on or after July 1, 2010.”

@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–364, div. A, title V, § 507(a)(2)(C), Oct. 17, 2006, 120 Stat. 2180, struck out “while so serving” after “reserve grade” in item 12210.
+2006—Pub. L. 109–364, div. A, title V, § 507(a)(2)(C), Oct. 17, 2006, 120 Stat. 2180, struck out “while so serving” after “reserve grade” in item 12210.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(11)(B), (13)(B), Feb. 10, 1996, 110 Stat. 496, substituted “Reserve officers: qualifications” for “Qualifications” in item 12201 and inserted “the” after “National Guard of” in items 12211, 12212, 12213, and 12214.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(11)(B), (13)(B), Feb. 10, 1996, 110 Stat. 496, substituted “Reserve officers: qualifications” for “Qualifications” in item 12201 and inserted “the” after “National Guard of” in items 12211, 12212, 12213, and 12214.
 
-## § 12201. Reserve officers: qualifications for appointment
+## § 12201. Reserve officers: qualifications for appointment
 
 **(a)**
 
@@ -41,7 +41,7 @@ retrieved: 2026-10-11
 
 **(d)** In prescribing age qualifications under subsection (b) for the appointment of persons as Reserves of the armed forces under his jurisdiction, the Secretary concerned may not prescribe a maximum age qualification of less than 47 years of age for the initial appointment of a person as a Reserve to serve in a health profession specialty which has been designated by the Secretary concerned as a specialty critically needed in wartime.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 24, § 591; Pub. L. 85–861, § 1(10)(A), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 88–236, Dec. 23, 1963, 77 Stat. 474; Pub. L. 89–718, § 4, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, § 1(3), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V § 511(16), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 100–180, div. A, title VII, § 718(a), Dec. 4, 1987, 101 Stat. 1115; renumbered § 12201 and amended Pub. L. 103–337, div. A, title XVI, §§ 1631(b), 1662(c)(2), Oct. 5, 1994, 108 Stat. 2964, 2990; Pub. L. 104–106, div. A, title XV, § 1501(a)(5)(B), (b)(11)(A), Feb. 10, 1996, 110 Stat. 495, 496; Pub. L. 108–375, div. A, title V, § 501(c)(3), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 111–383, div. A, title V, § 515, Jan. 7, 2011, 124 Stat. 4213.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 24, § 591; Pub. L. 85–861, § 1(10)(A), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 88–236, Dec. 23, 1963, 77 Stat. 474; Pub. L. 89–718, § 4, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, § 1(3), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V § 511(16), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 100–180, div. A, title VII, § 718(a), Dec. 4, 1987, 101 Stat. 1115; renumbered § 12201 and amended Pub. L. 103–337, div. A, title XVI, §§ 1631(b), 1662(c)(2), Oct. 5, 1994, 108 Stat. 2964, 2990; Pub. L. 104–106, div. A, title XV, § 1501(a)(5)(B), (b)(11)(A), Feb. 10, 1996, 110 Stat. 495, 496; Pub. L. 108–375, div. A, title V, § 501(c)(3), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 111–383, div. A, title V, § 515, Jan. 7, 2011, 124 Stat. 4213.)
 
 **Historical and Revision Notes**
 
@@ -49,13 +49,13 @@ retrieved: 2026-10-11
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 591(a) 591(b)   591(c)   591(d) | 50:946. 50:941(a) (less applicability to enlistments). 50:941(b) (less applicability to enlistments). 50:956 (less applicability to enlistments). | July 9, 1952, ch. 608, §§ 217 (less (c), and less applicability to enlistments), 222, 232 (less applicability to enlistments), 66 Stat. 486, 487, 489. |
+| 591(a) 591(b) 591(c) 591(d) | 50:946. 50:941(a) (less applicability to enlistments). 50:941(b) (less applicability to enlistments). 50:956 (less applicability to enlistments). | July 9, 1952, ch. 608, §§ 217 (less (c), and less applicability to enlistments), 222, 232 (less applicability to enlistments), 66 Stat. 486, 487, 489. |
 
 In subsection (a), 50:946(a) (last 12 words of proviso) is omitted as covered by section 312 of title 32, 50:946(b) is omitted as covered by the revised subsection.
 
 In subsection (b), the word “However” is substituted for the words “Subject to the limitation that”. The exception as to section 4(i)(7) of the Universal Military Training and Service Act is inserted for clarity. The words “as Reserves of the armed forces under his jurisdiction” are substituted for the words “of Reserve members of the Armed Forces of the United States”. The words “unless he is at least 18 years of age” are substituted for 50:941(a) (last sentence). The words “its Territories” are omitted as surplusage, since citizens of the Territories are citizens of the United States.
 
-In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in the grades corresponding to the grades authorized for female officers of the” are substituted for the words “in the same grades \* \* \* as are authorized for women in the”, to conform to subsection (a). The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
+In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in the grades corresponding to the grades authorized for female officers of the” are substituted for the words “in the same grades \* \* \* as are authorized for women in the”, to conform to subsection (a). The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
 
 In subsection (d), the words “under the jurisdiction of that Secretary” are inserted for clarity. The words “general or special” are omitted as surplusage.
 
@@ -63,7 +63,7 @@ In subsection (d), the words “under the jurisdiction of that Secretary” are 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 591(c) | 50:941(b). | July 30, 1956, ch. 789, § 4(a), 70 Stat. 729. |
+| 591(c) | 50:941(b). | July 30, 1956, ch. 789, § 4(a), 70 Stat. 729. |
 
 The words “Subject to section 946(a) of this title” are omitted, since that section is restated in subsection (a) of the revised section and is applicable to all reserve appointments. 50:941(b) (last 2 sentences) is omitted as covered by sections 510 and 591 of this title.
 
@@ -71,21 +71,21 @@ The words “Subject to section 946(a) of this title” are omitted, since that 
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Amendments**
 
 2011—Subsec. (a)(2). Pub. L. 111–383 substituted “If an officer is transferred from the active-duty list of an armed force to a reserve active-status list of an armed force in accordance with regulations prescribed by the Secretary of Defense, the officer” for “An officer transferred from the active-duty list of an armed force to a reserve active-status list of an armed force under section 647 of this title”.
 
-2004—Subsec. (a). Pub. L. 108–375 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “the armed force concerned and”, and added par. (2).
+2004—Subsec. (a). Pub. L. 108–375 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “the armed force concerned and”, and added par. (2).
 
-1996—Pub. L. 104–106, § 1501(b)(11), substituted “Reserve officers: qualifications for appointment” for “Reserve components: qualifications” as section catchline.
+1996—Pub. L. 104–106, § 1501(b)(11), substituted “Reserve officers: qualifications for appointment” for “Reserve components: qualifications” as section catchline.
 
-Subsecs. (c) to (e). Pub. L. 104–106, § 1501(a)(5)(B), made technical correction to directory language of Pub. L. 103–337, § 1631(b). See 1994 Amendment note below.
+Subsecs. (c) to (e). Pub. L. 104–106, § 1501(a)(5)(B), made technical correction to directory language of Pub. L. 103–337, § 1631(b). See 1994 Amendment note below.
 
-1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 591 of this title as this section.
+1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 591 of this title as this section.
 
-Subsecs. (c) to (e). Pub. L. 103–337, § 1631(b), as amended by Pub. L. 104–106, § 1501(a)(5)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “Women may be appointed as Reserves of the armed forces for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve. Women who are otherwise qualified may be appointed as Reserves of the armed forces with a view to serving in the Army National Guard of the United States or the Air National Guard of the United States. Women are appointed in grades corresponding to the grades authorized for female officers of the regular component of the armed force concerned. Any female former officer of an armed force may, if otherwise qualified, be appointed as a Reserve of that armed force in the highest grade in which she previously served satisfactorily on active duty (other than for training).”
+Subsecs. (c) to (e). Pub. L. 103–337, § 1631(b), as amended by Pub. L. 104–106, § 1501(a)(5)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “Women may be appointed as Reserves of the armed forces for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve. Women who are otherwise qualified may be appointed as Reserves of the armed forces with a view to serving in the Army National Guard of the United States or the Air National Guard of the United States. Women are appointed in grades corresponding to the grades authorized for female officers of the regular component of the armed force concerned. Any female former officer of an armed force may, if otherwise qualified, be appointed as a Reserve of that armed force in the highest grade in which she previously served satisfactorily on active duty (other than for training).”
 
 1987—Subsec. (e). Pub. L. 100–180 added subsec. (e).
 
@@ -119,31 +119,31 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Baccalaureate Degree Required for Appointment or Promotion of Reserve Component Officers to Grades Above First Lieutenant or Lieutenant (Junior Grade)**
 
-Pub. L. 102–190, div. A, title V, § 523, Dec. 5, 1991, 105 Stat. 1363, provided that after Sept. 30, 1995, no person could be appointed to a grade above grade of first lieutenant in Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above grade of lieutenant (junior grade) in Naval Reserve, or be federally recognized in a grade above grade of first lieutenant as a member of Army National Guard or Air National Guard, unless that person had been awarded a baccalaureate degree by an accredited educational institution, prior to repeal by Pub. L. 103–35, title II, § 203(a), May 31, 1993, 107 Stat. 102. See section 12205 of this title.
+Pub. L. 102–190, div. A, title V, § 523, Dec. 5, 1991, 105 Stat. 1363, provided that after Sept. 30, 1995, no person could be appointed to a grade above grade of first lieutenant in Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above grade of lieutenant (junior grade) in Naval Reserve, or be federally recognized in a grade above grade of first lieutenant as a member of Army National Guard or Air National Guard, unless that person had been awarded a baccalaureate degree by an accredited educational institution, prior to repeal by Pub. L. 103–35, title II, § 203(a), May 31, 1993, 107 Stat. 102. See section 12205 of this title.
 
 **Priority in Making Original Appointments in Guard and Reserve Components for ROTC Scholarship Program Graduates**
 
-Pub. L. 102–190, div. A, title V, § 524, Dec. 5, 1991, 105 Stat. 1363, as amended by Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, provided that: “In making appointments of persons as second lieutenants in the Army Reserve, Air Force Reserve, or Marine Corps Reserve or to the grade of ensign in the Navy Reserve, or in granting federal recognition in the grade of second lieutenant to members of the Army National Guard or Air National Guard, the Secretary of the military department concerned shall give preference to persons who have completed a post-secondary program of education pursued under a ROTC scholarship program at a college or university accredited to award baccalaureate degrees or pursued under a ROTC scholarship program at an accredited two-year or four-year military college.”
+Pub. L. 102–190, div. A, title V, § 524, Dec. 5, 1991, 105 Stat. 1363, as amended by Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, provided that: “In making appointments of persons as second lieutenants in the Army Reserve, Air Force Reserve, or Marine Corps Reserve or to the grade of ensign in the Navy Reserve, or in granting federal recognition in the grade of second lieutenant to members of the Army National Guard or Air National Guard, the Secretary of the military department concerned shall give preference to persons who have completed a post-secondary program of education pursued under a ROTC scholarship program at a college or university accredited to award baccalaureate degrees or pursued under a ROTC scholarship program at an accredited two-year or four-year military college.”
 
 **Report on Initial Appointment of All Officers as Reserve Officers and on Appropriate Active Duty Obligation of Graduates of Service Academies**
 
-Pub. L. 101–510, div. A, title V, § 524, Nov. 5, 1990, 104 Stat. 1562, directed Secretary of Defense to submit to Congress a report on advantages, disadvantages, and desirability of initially appointing all persons commissioned as officers in the Army, Navy, Air Force, or Marine Corps as Reserve officers, and the appropriate active duty service obligation for graduates of the service academies, directed Secretary to submit report not later than 60 days after Nov. 5, 1990, and provided that if the report was not submitted by that date, all persons initially appointed as commissioned officers in the Army, Navy, Air Force, and Marine Corps after that date would be appointed as commissioned officers in a Reserve component of the Armed Forces, and all persons entering the service academies after that date would incur an obligation to serve on active duty for a period of five years.
+Pub. L. 101–510, div. A, title V, § 524, Nov. 5, 1990, 104 Stat. 1562, directed Secretary of Defense to submit to Congress a report on advantages, disadvantages, and desirability of initially appointing all persons commissioned as officers in the Army, Navy, Air Force, or Marine Corps as Reserve officers, and the appropriate active duty service obligation for graduates of the service academies, directed Secretary to submit report not later than 60 days after Nov. 5, 1990, and provided that if the report was not submitted by that date, all persons initially appointed as commissioned officers in the Army, Navy, Air Force, and Marine Corps after that date would be appointed as commissioned officers in a Reserve component of the Armed Forces, and all persons entering the service academies after that date would incur an obligation to serve on active duty for a period of five years.
 
 **Deadline for Regulations Implementing Subsection (e) of This Section**
 
-Pub. L. 100–180, div. A, title VII, § 718(b), Dec. 4, 1987, 101 Stat. 1115, provided that: “The Secretary concerned shall prescribe regulations implementing subsection (e) of section 591 [now 12201(d)] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act [Dec. 4, 1987].”
+Pub. L. 100–180, div. A, title VII, § 718(b), Dec. 4, 1987, 101 Stat. 1115, provided that: “The Secretary concerned shall prescribe regulations implementing subsection (e) of section 591 [now 12201(d)] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act [Dec. 4, 1987].”
 
-## § 12202. Commissioned officer grades
+## § 12202. Commissioned officer grades
 
 Except for commissioned warrant officers, the reserve commissioned officer grades in each armed force are those authorized for regular commissioned officers of that armed force.
 
-(Added Pub. L. 85–861, § 1(10)(B), Sept. 2, 1958, 72 Stat. 1440, § 592; renumbered § 12202, Pub. L. 103–337, div. A, title XVI, § 1662(c)(2), Oct. 5, 1994, 108 Stat. 2990.)
+(Added Pub. L. 85–861, § 1(10)(B), Sept. 2, 1958, 72 Stat. 1440, § 592; renumbered § 12202, Pub. L. 103–337, div. A, title XVI, § 1662(c)(2), Oct. 5, 1994, 108 Stat. 2990.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 592 | 50:1181(1) (as applicable to 50:1201). 50:1201. | Sept. 3, 1954, ch. 1257, §§ 102(1) (as applicable to § 211), 211, 68 Stat. 1149, 1153. |
+| 592 | 50:1181(1) (as applicable to 50:1201). 50:1201. | Sept. 3, 1954, ch. 1257, §§ 102(1) (as applicable to § 211), 211, 68 Stat. 1149, 1153. |
 
 The words “including those heretofore or hereafter transferred to the Retired Reserve”, “permanent”, and “pursuant to the Officer Personnel Act of 1947, as amended” are omitted as surplusage. The rule as to the Coast Guard is consolidated with the rule applicable to the other armed forces, since 14:754 prescribes the same substantive result as that prescribed by 50:1201 for the other armed forces.
 
@@ -153,7 +153,7 @@ The words “including those heretofore or hereafter transferred to the Retired 
 
 1994—Pub. L. 103–337 renumbered section 592 of this title as this section.
 
-## § 12203. Commissioned officers: appointment, how made; term
+## § 12203. Commissioned officers: appointment, how made; term
 
 **(a)** Appointments of reserve officers in commissioned grades of lieutenant colonel and commander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
 
@@ -161,7 +161,7 @@ The words “including those heretofore or hereafter transferred to the Retired 
 
 **(c)** Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, § 593; Pub. L. 85–861, § 1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, § 601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, § 501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered § 12203 and amended Pub. L. 103–337, div. A, title XVI, §§ 1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, § 1501(a)(6), Feb. 10, 1996, 110 Stat. 495; Pub. L. 108–375, div. A, title V, § 501(c)(4), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 111–383, div. A, title X, § 1075(b)(54), Jan. 7, 2011, 124 Stat. 4372; Pub. L. 116–92, div. A, title V, § 501(b), Dec. 20, 2019, 133 Stat. 1343.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, § 593; Pub. L. 85–861, § 1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, § 601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, § 501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered § 12203 and amended Pub. L. 103–337, div. A, title XVI, §§ 1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, § 1501(a)(6), Feb. 10, 1996, 110 Stat. 495; Pub. L. 108–375, div. A, title V, § 501(c)(4), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 111–383, div. A, title X, § 1075(b)(54), Jan. 7, 2011, 124 Stat. 4372; Pub. L. 116–92, div. A, title V, § 501(b), Dec. 20, 2019, 133 Stat. 1343.)
 
 **Historical and Revision Notes**
 
@@ -169,7 +169,7 @@ The words “including those heretofore or hereafter transferred to the Retired 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 593(a)   593(b) | 50:942. 50:943. 50:945. 50:948 (less 3d and 4th sentences, as applicable to commissioned officers). | July 9, 1952, ch. 608, §§ 218, 219, 221, 224 (less 3d and 4th sentences, as applicable to commissioned officers), 66 Stat. 487. |
+| 593(a) 593(b) | 50:942. 50:943. 50:945. 50:948 (less 3d and 4th sentences, as applicable to commissioned officers). | July 9, 1952, ch. 608, §§ 218, 219, 221, 224 (less 3d and 4th sentences, as applicable to commissioned officers), 66 Stat. 487. |
 
 In subsection (a), the word “alone” is inserted for clarity. The exception as to commissioned warrant officers is inserted to reflect section 597 of this title, since reserve chief warrant officers of the Navy, Marine Corps, and Coast Guard are appointed by commission by the Secretary concerned.
 
@@ -193,19 +193,19 @@ The exception is inserted to reflect section 3352(b) of title 10, United States 
 
 2004—Subsecs. (b), (c). Pub. L. 108–375 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1996—Subsec. (a). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, § 1632. See 1994 Amendment note below.
+1996—Subsec. (a). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, § 1632. See 1994 Amendment note below.
 
-1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 593 of this title as this section.
+1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 593 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, § 1675(b), substituted “12213, or 12214” for “3352, or 8352”.
+Subsec. (a). Pub. L. 103–337, § 1675(b), substituted “12213, or 12214” for “3352, or 8352”.
 
-Pub. L. 103–337, § 1632, as amended by Pub. L. 104–106, substituted “reserve officers in commissioned grades of lieutenant colonel and commander or below” for “Reserves in commissioned grades below lieutenant colonel and commander” and “reserve officers in commissioned grades above lieutenant colonel and commander” for “Reserves in commissioned grades above major and lieutenant commander”.
+Pub. L. 103–337, § 1632, as amended by Pub. L. 104–106, substituted “reserve officers in commissioned grades of lieutenant colonel and commander or below” for “Reserves in commissioned grades below lieutenant colonel and commander” and “reserve officers in commissioned grades above lieutenant colonel and commander” for “Reserves in commissioned grades above major and lieutenant commander”.
 
 1980—Subsec. (a). Pub. L. 96–513 inserted reference to section 624 of this title.
 
 1971—Subsec. (a). Pub. L. 92–129 substituted “below lieutenant colonel and commander” for “below general officer and flag officer”, “in commissioned grades above major and lieutenant commander” for “as general and flag officers”, and “section 3352 or 8352 of this title” for “section 3352 of this title”.
 
-1958—Subsec. (a). Pub. L. 85–861 inserted “, except as provided in section 3352 of this title” after “consent of the Senate”.
+1958—Subsec. (a). Pub. L. 85–861 inserted “, except as provided in section 3352 of this title” after “consent of the Senate”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -227,7 +227,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 **Indefinite Appointments for Certain Reserve Officers**
 
-Act Aug. 10, 1956, ch. 1041, § 41, 70A Stat. 636, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
+Act Aug. 10, 1956, ch. 1041, § 41, 70A Stat. 636, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
 
 **Executive Documents**
 
@@ -235,7 +235,7 @@ Act Aug. 10, 1956, ch. 1041, § 41, 70A Stat. 636, provided that: “Each pers
 
 For assignment of functions of President under first sentence of subsec. (a) of this section, see sections 1(b) and 2(b) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
 
-## § 12204. Commissioned officers: original appointment; limitation
+## § 12204. Commissioned officers: original appointment; limitation
 
 **(a)** No person may be appointed as a Reserve in a commissioned grade above major or lieutenant commander, unless—
 
@@ -245,16 +245,16 @@ For assignment of functions of President under first sentence of subsec. (a) of 
 
 **(b)** This section does not apply to adjutants general and assistant adjutants general of the several States, Puerto Rico, and the District of Columbia.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, § 594; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered § 12204, Pub. L. 103–337, div. A, title XVI, § 1662(c)(2), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, § 594; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered § 12204, Pub. L. 103–337, div. A, title XVI, § 1662(c)(2), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 594(a) | 50:941(c) (less 1st 21 words). | July 9, 1952, ch. 608 § 217(c), 66 Stat. 487. |
+| 594(a) | 50:941(c) (less 1st 21 words). | July 9, 1952, ch. 608 § 217(c), 66 Stat. 487. |
 | 594(b) | 50:941(c) (1st 21 words). |  |
 
-In subsection (a), the words “unless \* \* \* he was formerly” are substituted for the words “has not held an appointment as”. The words “or any component thereof” are omitted as surplusage.
+In subsection (a), the words “unless \* \* \* he was formerly” are substituted for the words “has not held an appointment as”. The words “or any component thereof” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -266,7 +266,7 @@ In subsection (a), the words “unless \* \* \* he was formerly” are subst
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 12205. Commissioned officers: appointment; educational requirement
+## § 12205. Commissioned officers: appointment; educational requirement
 
 **(a) In General.—** No person may be appointed to a grade above the grade of first lieutenant in the Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above the grade of lieutenant (junior grade) in the Navy Reserve, or be federally recognized in a grade above the grade of first lieutenant as a member of the Army National Guard or Air National Guard, unless that person has been awarded a baccalaureate degree by a qualifying educational institution.
 
@@ -302,13 +302,13 @@ In subsection (a), the words “unless \* \* \* he was formerly” are subst
 
 **(3)** Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than two years after the waiver is granted. The Secretary concerned may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
 
-(Added Pub. L. 102–484, div. A, title V, § 515(a), Oct. 23, 1992, 106 Stat. 2406, § 596; renumbered § 12205 and amended Pub. L. 103–337, div. A, title V, §§ 519, 520, title XVI, § 1662(c)(2), Oct. 5, 1994, 108 Stat. 2755, 2990; Pub. L. 104–201, div. A, title V, §§ 504, 505, title X, § 1074(a)(22), Sept. 23, 1996, 110 Stat. 2512, 2660; Pub. L. 107–107, div. A, title V, § 512(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 109–163, div. A, title V, § 515(b)(1)(KK), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 102–484, div. A, title V, § 515(a), Oct. 23, 1992, 106 Stat. 2406, § 596; renumbered § 12205 and amended Pub. L. 103–337, div. A, title V, §§ 519, 520, title XVI, § 1662(c)(2), Oct. 5, 1994, 108 Stat. 2755, 2990; Pub. L. 104–201, div. A, title V, §§ 504, 505, title X, § 1074(a)(22), Sept. 23, 1996, 110 Stat. 2512, 2660; Pub. L. 107–107, div. A, title V, § 512(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 109–163, div. A, title V, § 515(b)(1)(KK), Jan. 6, 2006, 119 Stat. 3234.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 102–190, div. A, title V, § 523, Dec. 5, 1991, 105 Stat. 1363, which was set out as a note under section 591 [now 12201] of this title, prior to repeal by Pub. L. 103–35, § 203(a).
+Provisions similar to those in this section were contained in Pub. L. 102–190, div. A, title V, § 523, Dec. 5, 1991, 105 Stat. 1363, which was set out as a note under section 591 [now 12201] of this title, prior to repeal by Pub. L. 103–35, § 203(a).
 
 **Amendments**
 
@@ -316,37 +316,37 @@ Provisions similar to those in this section were contained in Pub. L. 102–190,
 
 2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–201, § 1074(a)(22), substituted “No person” for “After September 30, 1995, no person”.
+1996—Subsec. (a). Pub. L. 104–201, § 1074(a)(22), substituted “No person” for “After September 30, 1995, no person”.
 
-Subsec. (b)(3). Pub. L. 104–201, § 505, inserted “or the Seaman to Admiral program” after “(NAVCAD) program”.
+Subsec. (b)(3). Pub. L. 104–201, § 505, inserted “or the Seaman to Admiral program” after “(NAVCAD) program”.
 
-Subsec. (c)(2)(C). Pub. L. 104–201, § 504, substituted “eight years” for “three years”.
+Subsec. (c)(2)(C). Pub. L. 104–201, § 504, substituted “eight years” for “three years”.
 
-1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 596 of this title as this section.
+1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 596 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, § 519(1), substituted “a qualifying educational institution” for “an accredited educational institution”.
+Subsec. (a). Pub. L. 103–337, § 519(1), substituted “a qualifying educational institution” for “an accredited educational institution”.
 
-Subsec. (b)(2), (3). Pub. L. 103–337, § 520(b), substituted “a person” for “an individual”.
+Subsec. (b)(2), (3). Pub. L. 103–337, § 520(b), substituted “a person” for “an individual”.
 
-Subsec. (b)(5). Pub. L. 103–337, § 520(a), added par. (5).
+Subsec. (b)(5). Pub. L. 103–337, § 520(a), added par. (5).
 
-Subsec. (c). Pub. L. 103–337, § 519(2), added subsec. (c).
+Subsec. (c). Pub. L. 103–337, § 519(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 512(b), Dec. 28, 2001, 115 Stat. 1092, provided that: “Subsection (d) of section 12205 of title 10, United States Code, as added by subsection (a), shall apply with respect to officers appointed before, on, or after the date of the enactment of this Act [Dec. 28, 2001].”
+Pub. L. 107–107, div. A, title V, § 512(b), Dec. 28, 2001, 115 Stat. 1092, provided that: “Subsection (d) of section 12205 of title 10, United States Code, as added by subsection (a), shall apply with respect to officers appointed before, on, or after the date of the enactment of this Act [Dec. 28, 2001].”
 
 **Authority for Temporary Waiver for Certain Army Reserve Officers of Baccalaureate Degree Requirement for Promotion of Reserve Officers**
 
-Pub. L. 105–261, div. A, title V, § 516, Oct. 17, 1998, 112 Stat. 2008, provided that:
+Pub. L. 105–261, div. A, title V, § 516, Oct. 17, 1998, 112 Stat. 2008, provided that:
 
 > **“(a) Waiver Authority for Army OCS Graduates.—** The Secretary of the Army may waive the applicability of section 12205(a) of title 10, United States Code, to any officer who before the date of the enactment of this Act [Oct. 17, 1998] was commissioned through the Army Officer Candidate School. Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than 2 years after the waiver is granted. The Secretary may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
 
 > **“(b) Expiration of Authority.—** A waiver under this section may not be granted after September 30, 2000.”
 
-## § 12206. Commissioned officers: appointment of former commissioned officers
+## § 12206. Commissioned officers: appointment of former commissioned officers
 
 Under regulations prescribed by the Secretary of Defense, a person who is a former commissioned officer may, if otherwise qualified, be appointed as a reserve officer of the Army, Navy, Air Force, or Marine Corps. A person so appointed—
 
@@ -354,13 +354,13 @@ Under regulations prescribed by the Secretary of Defense, a person who is a form
 
 **(2)** may be credited for the purpose of determining date of rank under section 741(d) of this title with service in grade equal to that held by that person when discharged or separated.
 
-(Added § 596a and renumbered § 12206, Pub. L. 103–337, div. A, title XVI, §§ 1633, 1662(c)(2), Oct. 5, 1994, 108 Stat. 2965, 2990.)
+(Added § 596a and renumbered § 12206, Pub. L. 103–337, div. A, title XVI, §§ 1633, 1662(c)(2), Oct. 5, 1994, 108 Stat. 2965, 2990.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 596a of this title as this section.
+1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 596a of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -368,7 +368,7 @@ Under regulations prescribed by the Secretary of Defense, a person who is a form
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12207. Commissioned officers: service credit upon original appointment
+## § 12207. Commissioned officers: service credit upon original appointment
 
 **(a)**
 
@@ -434,41 +434,41 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(f)** The grade and position on the reserve active-status list of a person receiving an appointment as a reserve officer who at the time of appointment is credited with service under this section shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited.
 
-(Added § 596b and renumbered § 12207, Pub. L. 103–337, div. A, title XVI, §§ 1634, 1662(c)(2), Oct. 5, 1994, 108 Stat. 2965, 2990; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(LL), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–181, div. A, title V, § 512, Jan. 28, 2008, 122 Stat. 98; Pub. L. 115–91, div. A, title V, § 512(a), Dec. 12, 2017, 131 Stat. 1376; Pub. L. 115–232, div. A, title V, § 502(b), Aug. 13, 2018, 132 Stat. 1739; Pub. L. 116–283, div. A, title V, § 502(b), Jan. 1, 2021, 134 Stat. 3564.)
+(Added § 596b and renumbered § 12207, Pub. L. 103–337, div. A, title XVI, §§ 1634, 1662(c)(2), Oct. 5, 1994, 108 Stat. 2965, 2990; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(LL), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–181, div. A, title V, § 512, Jan. 28, 2008, 122 Stat. 98; Pub. L. 115–91, div. A, title V, § 512(a), Dec. 12, 2017, 131 Stat. 1376; Pub. L. 115–232, div. A, title V, § 502(b), Aug. 13, 2018, 132 Stat. 1739; Pub. L. 116–283, div. A, title V, § 502(b), Jan. 1, 2021, 134 Stat. 3564.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1) and Pub. L. 104–106, § 1501(c)(26).
+Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1) and Pub. L. 104–106, § 1501(c)(26).
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 116–283, § 502(b)(1), substituted “and who has special training or experience, or advanced education (if applicable),” for “or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training,” in introductory provisions. Amendment was executed to reflect the probable intent of Congress due to omission of words “by striking” in directory language.
+2021—Subsec. (b)(1). Pub. L. 116–283, § 502(b)(1), substituted “and who has special training or experience, or advanced education (if applicable),” for “or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training,” in introductory provisions. Amendment was executed to reflect the probable intent of Congress due to omission of words “by striking” in directory language.
 
-Subsec. (b)(1)(D). Pub. L. 116–283, § 502(b)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.”
+Subsec. (b)(1)(D). Pub. L. 116–283, § 502(b)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.”
 
-2018—Subsec. (b)(1)(D). Pub. L. 115–232, § 502(b)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit, in unusual cases, based on special experience in a particular field.”
+2018—Subsec. (b)(1)(D). Pub. L. 115–232, § 502(b)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit, in unusual cases, based on special experience in a particular field.”
 
-Subsec. (b)(3). Pub. L. 115–232, § 502(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of officers covered by paragraph (2), the amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of major or as a reserve officer of the Navy in the grade of lieutenant commander.”
+Subsec. (b)(3). Pub. L. 115–232, § 502(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of officers covered by paragraph (2), the amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of major or as a reserve officer of the Navy in the grade of lieutenant commander.”
 
-Subsecs. (e) to (g). Pub. L. 115–232, § 502(b)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, substituted “or (d)” for “, (d), or (e)” in introductory provisions of subsec. (e), and struck out former subsec. (e) which related to constructive service credited to commissioned officers with cyberspace-related experience or advanced education in reserve active-status.
+Subsecs. (e) to (g). Pub. L. 115–232, § 502(b)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, substituted “or (d)” for “, (d), or (e)” in introductory provisions of subsec. (e), and struck out former subsec. (e) which related to constructive service credited to commissioned officers with cyberspace-related experience or advanced education in reserve active-status.
 
-2017—Subsec. (a)(2). Pub. L. 115–91, § 512(a)(1), inserted “or (e)” after “subsection (b)”.
+2017—Subsec. (a)(2). Pub. L. 115–91, § 512(a)(1), inserted “or (e)” after “subsection (b)”.
 
-Subsec. (e). Pub. L. 115–91, § 512(a)(3), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 115–91, § 512(a)(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 115–91, § 512(a)(2), (4), redesignated subsec. (e) as (f) and substituted “, (d), or (e)” for “or (d)”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 115–91, § 512(a)(2), (4), redesignated subsec. (e) as (f) and substituted “, (d), or (e)” for “or (d)”. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 115–91, § 512(a)(2), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 115–91, § 512(a)(2), redesignated subsec. (f) as (g).
 
-2008—Subsec. (b)(2). Pub. L. 110–181, § 512(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant.”
+2008—Subsec. (b)(2). Pub. L. 110–181, § 512(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant.”
 
-Subsec. (b)(3). Pub. L. 110–181, § 512(b), substituted “officers covered by paragraph (2)” for “a medical or dental officer”.
+Subsec. (b)(3). Pub. L. 110–181, § 512(b), substituted “officers covered by paragraph (2)” for “a medical or dental officer”.
 
 2006—Subsec. (b)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 596b of this title as this section.
+1994—Pub. L. 103–337, § 1662(c)(2), renumbered section 596b of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -480,7 +480,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 For provisions requiring submission to Congress of reports on the use of the authorities in subsec. (b)(1)(D) of this section, see section 502(c) of Pub. L. 116–283, set out as a note under section 533 of this title.
 
-## § 12208. Officers: appointment upon transfer
+## § 12208. Officers: appointment upon transfer
 
 **(a)** A person who would otherwise be required to be transferred to a reserve component under section 651 of this title or under the Military Selective Service Act (50 U.S.C. 3801 et seq.), is entitled, if he is qualified and accepted, to be appointed as an officer of any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be appointed as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under section 651 of this title or under the Military Selective Service Act (50 U.S.C. 3801 et seq.). However, no period may be credited more than once.
 
@@ -488,16 +488,16 @@ For provisions requiring submission to Congress of reports on the use of the aut
 
 **(c)** This section does not change any term of service under an appointment, enlistment, or agreement, including an agreement made before or at the time when the member entered upon a program authorized by an armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, § 595; Pub. L. 96–513, title V, § 511(17), Dec. 12, 1980, 94 Stat. 2921; renumbered § 12208, Pub. L. 103–337, div. A, title XVI, § 1662(c)(2), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(ix), Dec. 23, 2016, 130 Stat. 2418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, § 595; Pub. L. 96–513, title V, § 511(17), Dec. 12, 1980, 94 Stat. 2921; renumbered § 12208, Pub. L. 103–337, div. A, title XVI, § 1662(c)(2), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(ix), Dec. 23, 2016, 130 Stat. 2418.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 595(a)     595(b) | 50:929(a) (less 2d sentence, less applicability to enlistments). 50:929(a) (2d sentence, and less applicability to enlistments). | July 9, 1952, ch. 608, § 209 (less applicability to enlistments), 66 Stat. 484. |
+| 595(a) 595(b) | 50:929(a) (less 2d sentence, less applicability to enlistments). 50:929(a) (2d sentence, and less applicability to enlistments). | July 9, 1952, ch. 608, § 209 (less applicability to enlistments), 66 Stat. 484. |
 | 595(c) | 50:929(b) (less applicability to enlistments). |  |
 
-In subsection (a), the words “is entitled \* \* \* to be appointed as an officer of any armed force that he chooses” are substituted for the words “shall be permitted to \* \* \* accept an appointment in such armed force of the United States as he may elect”. The last sentence is substituted for 50:929(a) (words within parentheses). The words “of an armed force of the United States” are omitted as surplusage.
+In subsection (a), the words “is entitled \* \* \* to be appointed as an officer of any armed force that he chooses” are substituted for the words “shall be permitted to \* \* \* accept an appointment in such armed force of the United States as he may elect”. The last sentence is substituted for 50:929(a) (words within parentheses). The words “of an armed force of the United States” are omitted as surplusage.
 
 In subsection (b), the word “rest” is substituted for the words “remaining period”. The words “be required to” are omitted as surplusage.
 
@@ -507,7 +507,7 @@ In subsection (c), the words “This section does not” are substituted for the
 
 **References in Text**
 
-The Military Selective Service Act, referred to in subsec. (a), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
+The Military Selective Service Act, referred to in subsec. (a), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
 
 **Amendments**
 
@@ -523,7 +523,7 @@ The Military Selective Service Act, referred to in subsec. (a), is title I of ac
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 12209. Officer candidates: enlisted Reserves
+## § 12209. Officer candidates: enlisted Reserves
 
 **(a)** Within such numbers as the Secretary concerned may prescribe, enlisted Reserves may, with their consent, be selected for training as officer candidates. Enlisted Reserves so selected shall be designated as officer candidates during that training. However, no member of the Army National Guard of the United States or the Air National Guard of the United States may be so selected or designated unless—
 
@@ -537,13 +537,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(d)** An officer candidate designated under this section may not participate in the program of a reserve officer training corps of any armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 26, § 600; renumbered § 12209, Pub. L. 103–337, div. A, title XVI, § 1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 104–106, div. A, title XV, § 1501(b)(12)(A), Feb. 10, 1996, 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 26, § 600; renumbered § 12209, Pub. L. 103–337, div. A, title XVI, § 1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 104–106, div. A, title XV, § 1501(b)(12)(A), Feb. 10, 1996, 110 Stat. 496.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 600(a) 600(b) 600(c) 600(d) | 50:935(a). 50:954(a). 50:973. 50:954(b). | July 9, 1952, ch. 608, §§ 215(a), 230, 242, 66 Stat. 486, 489, 492. |
+| 600(a) 600(b) 600(c) 600(d) | 50:935(a). 50:954(a). 50:973. 50:954(b). | July 9, 1952, ch. 608, §§ 215(a), 230, 242, 66 Stat. 486, 489, 492. |
 
 In subsection (a), the words “who is not in active Federal service” are substituted for the words “when not in the active military service of the United States”. The word “during” is substituted for the words “for the period of”.
 
@@ -563,11 +563,11 @@ In subsection (c), the words “active duty other than active duty for training 
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
-## § 12210. Attending Physician to the Congress: reserve grade
+## § 12210. Attending Physician to the Congress: reserve grade
 
 While serving as Attending Physician to the Congress, a Reserve holds the reserve grade of major general or rear admiral, as appropriate.
 
-(Added Pub. L. 99–661, div. A, title V, § 508(d)(1)(A), Nov. 14, 1986, 100 Stat. 3867, § 600a; renumbered § 12210, Pub. L. 103–337, div. A, title XVI, § 1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(12)(B), Feb. 10, 1996, 110 Stat. 496; Pub. L. 109–364, div. A, title V, § 507(a)(2)(A), (B), Oct. 17, 2006, 120 Stat. 2180.)
+(Added Pub. L. 99–661, div. A, title V, § 508(d)(1)(A), Nov. 14, 1986, 100 Stat. 3867, § 600a; renumbered § 12210, Pub. L. 103–337, div. A, title XVI, § 1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(12)(B), Feb. 10, 1996, 110 Stat. 496; Pub. L. 109–364, div. A, title V, § 507(a)(2)(A), (B), Oct. 17, 2006, 120 Stat. 2180.)
 
 **Editorial Notes**
 
@@ -587,9 +587,9 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 **Effective Date**
 
-Pub. L. 99–661, div. A. title V, § 508(f), Nov. 14, 1986, 100 Stat. 3868, provided that: “The amendments made by this section [enacting this section and amending sections 1374, 4335, 5149, and 9335 of this title] shall apply only with respect to appointments or details made on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A. title V, § 508(f), Nov. 14, 1986, 100 Stat. 3868, provided that: “The amendments made by this section [enacting this section and amending sections 1374, 4335, 5149, and 9335 of this title] shall apply only with respect to appointments or details made on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
-## § 12211. Officers: Army National Guard of the United States
+## § 12211. Officers: Army National Guard of the United States
 
 **(a)** Upon being federally recognized, an officer of the Army National Guard shall be appointed as a Reserve for service as a member of the Army National Guard of the United States in the grade that he holds in the Army National Guard. However, an officer of the Army Reserve who is federally recognized as an officer of the Army National Guard becomes an officer of the Army National Guard of the United States and ceases to be an officer of the Army Reserve. The acceptance of an appointment as a Reserve for service as a member of the Army National Guard of the United States by an officer of the Army National Guard does not vacate his office in the Army National Guard.
 
@@ -597,13 +597,13 @@ Pub. L. 99–661, div. A. title V, § 508(f), Nov. 14, 1986, 100 Stat. 3868, p
 
 **(c)** When the Army National Guard of the United States is ordered to active duty, any officer of the Army National Guard who is not a Reserve of the Army may be appointed by the President as a Reserve for service as a member of the Army National Guard of the United States in the grade that he holds in the Army National Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 193, § 3351; renumbered § 12211, Pub. L. 103–337, div. A, title XVI, § 1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A), Feb. 10, 1996, 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 193, § 3351; renumbered § 12211, Pub. L. 103–337, div. A, title XVI, § 1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A), Feb. 10, 1996, 110 Stat. 496.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3351(a)   3351(b) 3351(c) | 50:1113 (less (a)). 50:1115(a) (last 39 words). 50:1114 (2d sentence). 50:1123 (less (a)). | July 9, 1952, ch. 608, §§ 703 (less (a)), 704 (2d sentence), 705(a) (last 39 words), 713 (less (a)), 66 Stat. 502–504. |
+| 3351(a) 3351(b) 3351(c) | 50:1113 (less (a)). 50:1115(a) (last 39 words). 50:1114 (2d sentence). 50:1123 (less (a)). | July 9, 1952, ch. 608, §§ 703 (less (a)), 704 (2d sentence), 705(a) (last 39 words), 713 (less (a)), 66 Stat. 502–504. |
 
 In subsection (a), the words “as a Reserve” are substituted for the words “as Reserve officers of the appropriate Armed Force of the United States” and “as a Reserve officer of the Armed Force of the United States concerned”, in 50:1113(b). The words “federally recognized appointments” and “in the same grade and branch”, in 50:1113(b), are omitted as surplusage. The words “those officers who do not hold appointments as Reserve officers of the appropriate Armed Force of the United States”, in 50:1113(b), are omitted as covered by the second sentence of the revised subsection.
 
@@ -623,7 +623,7 @@ In subsection (c), the words “active duty” are substituted for the words “
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
-## § 12212. Officers: Air National Guard of the United States
+## § 12212. Officers: Air National Guard of the United States
 
 **(a)** Upon being federally recognized, an officer of the Air National Guard shall be appointed as a Reserve for service as a member of the Air National Guard of the United States in the grade that he holds in the Air National Guard. However, an officer of the Air Force Reserve who is federally recognized as an officer of the Air National Guard becomes an officer of the Air National Guard of the United States and ceases to be an officer of the Air Force Reserve. The acceptance of an appointment as a Reserve for service as a member of the Air National Guard of the United States by an officer of the Air National Guard does not vacate his office in the Air National Guard.
 
@@ -631,13 +631,13 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 **(c)** When the Air National Guard of the United States is ordered to active duty, any officer of the Air National Guard who is not a Reserve of the Air Force may be appointed by the President as a Reserve for service as a member of the Air National Guard of the United States in the grade that he holds in the Air National Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 519, § 8351; renumbered § 12212, Pub. L. 103–337, div. A, title XVI, § 1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A), Feb. 10, 1996, 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 519, § 8351; renumbered § 12212, Pub. L. 103–337, div. A, title XVI, § 1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A), Feb. 10, 1996, 110 Stat. 496.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8351(a)   8351(b) 8351(c) | 50:1113 (less (a)). 50:1115(a) (last 39 words). 50:1114 (2d sentence). 50:1123 (less (a)). | July 9, 1952, ch. 608, §§ 703 (less (a)), 704 (2d sentence), 705(a) (last 39 words), 713 (less (a)), 66 Stat. 502–504. |
+| 8351(a) 8351(b) 8351(c) | 50:1113 (less (a)). 50:1115(a) (last 39 words). 50:1114 (2d sentence). 50:1123 (less (a)). | July 9, 1952, ch. 608, §§ 703 (less (a)), 704 (2d sentence), 705(a) (last 39 words), 713 (less (a)), 66 Stat. 502–504. |
 
 In subsection (a), the words “as a Reserve” are substituted for the words “as Reserve officers of the appropriate Armed Force of the United States” and “as a Reserve officer of the Armed Force of the United States concerned” in 50:1113(b). The words “federally recognized appointments” and “in the same grade and branch”, in 50:1113(b), are omitted as surplusage. The words “those officers who do not hold appointments as reserve officers of the appropriate Armed Force of the United States”, in 50:1113(b), are omitted as covered by the second sentence of the revised subsection.
 
@@ -657,13 +657,13 @@ In subsection (c), the words “active duty” are substituted for the words “
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
-## § 12213. Officers; Army Reserve: transfer from Army National Guard of the United States
+## § 12213. Officers; Army Reserve: transfer from Army National Guard of the United States
 
 **(a)** Under such regulations as the Secretary of the Army may prescribe, and with the consent of the governor or other appropriate authority of the State concerned, an officer of the Army National Guard of the United States may be transferred in grade to the Army Reserve.
 
 **(b)** Unless discharged from his appointment as a Reserve, an officer of the Army National Guard of the United States whose Federal recognition as a member of the Army National Guard is withdrawn becomes a member of the Army Reserve. An officer who so becomes a member of the Army Reserve ceases to be a member of the Army National Guard of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 194, § 3352; Pub. L. 85–861, § 1(80)(A), Sept. 2, 1958, 72 Stat. 1468; Pub. L. 86–559, § 1(7), June 30, 1960, 74 Stat. 265; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered § 12213 and amended Pub. L. 103–337, div. A, title XVI, §§ 1636(a), 1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108 Stat. 2968, 2990, 3017; Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A), (14), Feb. 10, 1996, 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 194, § 3352; Pub. L. 85–861, § 1(80)(A), Sept. 2, 1958, 72 Stat. 1468; Pub. L. 86–559, § 1(7), June 30, 1960, 74 Stat. 265; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered § 12213 and amended Pub. L. 103–337, div. A, title XVI, §§ 1636(a), 1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108 Stat. 2968, 2990, 3017; Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A), (14), Feb. 10, 1996, 110 Stat. 496.)
 
 **Historical and Revision Notes**
 
@@ -671,31 +671,31 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3352(a)       3352(b) | 50:1116 (less last 15 words of 1st sentence, and less applicability to enlistments). 50:1117 (less applicability to enlistments). | July 9, 1952, ch. 608, §§ 706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503. |
+| 3352(a) 3352(b) | 50:1116 (less last 15 words of 1st sentence, and less applicability to enlistments). 50:1117 (less applicability to enlistments). | July 9, 1952, ch. 608, §§ 706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503. |
 
 In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Army” are substituted for the words “highest permanent grade previously held in the Army or any component thereof”, since “permanent” grades are held only in a component and there are no “non-permanent” grades held in a component.
 
-In subsection (b), the words “appointment as a Reserve” are substituted for the words “appointment or \* \* \* as a Reserve officer or”. The words “whose Federal recognition as a member \* \* \* is withdrawn” are substituted for the words “ceases to hold a status as a federally recognized member”.
+In subsection (b), the words “appointment as a Reserve” are substituted for the words “appointment or \* \* \* as a Reserve officer or”. The words “whose Federal recognition as a member \* \* \* is withdrawn” are substituted for the words “ceases to hold a status as a federally recognized member”.
 
 **1958 Act**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3352(a) | 50:1254. | Sept. 3, 1954, ch. 1257, § 322, 68 Stat. 1161. |
+| 3352(a) | 50:1254. | Sept. 3, 1954, ch. 1257, § 322, 68 Stat. 1161. |
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–106, § 1501(b)(13)(A), inserted “the” after “National Guard of” in section catchline.
+1996—Pub. L. 104–106, § 1501(b)(13)(A), inserted “the” after “National Guard of” in section catchline.
 
-Subsec. (a). Pub. L. 104–106, § 1501(b)(14), substituted “section 12203” for “section 593” in last sentence.
+Subsec. (a). Pub. L. 104–106, § 1501(b)(14), substituted “section 12203” for “section 593” in last sentence.
 
-1994—Pub. L. 103–337, § 1662(c)(3), renumbered section 3352 of this title as this section.
+1994—Pub. L. 103–337, § 1662(c)(3), renumbered section 3352 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, § 1675(b), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
+Subsec. (a). Pub. L. 103–337, § 1675(b), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
-Pub. L. 103–337, § 1636(a), struck out at end “Notwithstanding any other provision of this chapter or section 12203 of this title, an officer who is transferred under this section shall be advanced to the highest temporary, regular, or reserve grade ever held by him in the Army, unless the Secretary determines that it is not in the best interests of the service.”
+Pub. L. 103–337, § 1636(a), struck out at end “Notwithstanding any other provision of this chapter or section 12203 of this title, an officer who is transferred under this section shall be advanced to the highest temporary, regular, or reserve grade ever held by him in the Army, unless the Secretary determines that it is not in the best interests of the service.”
 
 1988—Subsec. (a). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
@@ -711,27 +711,27 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 **Effective Date of 1994 Amendments**
 
-Pub. L. 104–106, div. A, title XV, § 1501(f)(1), Feb. 10, 1996, 110 Stat. 501, provided that: “Section 1636 of the Reserve Officer Personnel Management Act [Pub. L. 103–337, amending this section and repealing sections 8356 and 8379 of this title] shall take effect on the date of the enactment of this Act [Feb. 10, 1996].”
+Pub. L. 104–106, div. A, title XV, § 1501(f)(1), Feb. 10, 1996, 110 Stat. 501, provided that: “Section 1636 of the Reserve Officer Personnel Management Act [Pub. L. 103–337, amending this section and repealing sections 8356 and 8379 of this title] shall take effect on the date of the enactment of this Act [Feb. 10, 1996].”
 
 Amendment by sections 1662(c)(3) and 1675(b)(2) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## § 12214. Officers; Air Force Reserve: transfer from Air National Guard of the United States
+## § 12214. Officers; Air Force Reserve: transfer from Air National Guard of the United States
 
 **(a)** Under such regulations as the Secretary of the Air Force may prescribe, and with the consent of the governor or other appropriate authority of the State concerned, an officer of the Air National Guard of the United States may be transferred in grade to the Air Force Reserve.
 
 **(b)** Unless discharged from his appointment as a Reserve, an officer of the Air National Guard of the United States whose Federal recognition as a member of the Air National Guard is withdrawn becomes a member of the Air Force Reserve. An officer who so becomes a member of the Air Force Reserve ceases to be a member of the Air National Guard of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 520, § 8352; Pub. L. 87–651, title I, § 126, Sept. 7, 1962, 76 Stat. 514; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered § 12214 and amended Pub. L. 103–337, div. A, title XVI, §§ 1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108 Stat. 2990, 3017; Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A), Feb. 10, 1996, 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 520, § 8352; Pub. L. 87–651, title I, § 126, Sept. 7, 1962, 76 Stat. 514; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered § 12214 and amended Pub. L. 103–337, div. A, title XVI, §§ 1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108 Stat. 2990, 3017; Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A), Feb. 10, 1996, 110 Stat. 496.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8352(a)       8352(b) | 50:1116 (less last 15 words of 1st sentence, and less applicability to enlistments). 50:1117 (less applicability to enlistments). | July 9, 1952, ch. 608, §§ 706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503. |
+| 8352(a) 8352(b) | 50:1116 (less last 15 words of 1st sentence, and less applicability to enlistments). 50:1117 (less applicability to enlistments). | July 9, 1952, ch. 608, §§ 706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503. |
 
-In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Air Force” are substituted for the words “highest permanent grade previously held in \* \* \* the Air Force or any component thereof”, since “permanent” grades are held only in a component and there are no “nonpermanent” grades held in a component.
+In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Air Force” are substituted for the words “highest permanent grade previously held in \* \* \* the Air Force or any component thereof”, since “permanent” grades are held only in a component and there are no “nonpermanent” grades held in a component.
 
-In subsection (b), the words “appointment as a Reserve” are substituted for the words “appointment or \* \* \* as a Reserve officer or”. The words “whose Federal recognition as a member \* \* \* is withdrawn” are substituted for the words “ceases to hold a status as a federally recognized member”.
+In subsection (b), the words “appointment as a Reserve” are substituted for the words “appointment or \* \* \* as a Reserve officer or”. The words “whose Federal recognition as a member \* \* \* is withdrawn” are substituted for the words “ceases to hold a status as a federally recognized member”.
 
 **1962 Act**
 
@@ -743,9 +743,9 @@ The change reflects the implied repeal of the second sentence of section 8352(a)
 
 1996—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
 
-1994—Pub. L. 103–337, § 1662(c)(3), renumbered section 8352 of this title as this section.
+1994—Pub. L. 103–337, § 1662(c)(3), renumbered section 8352 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, § 1675(b)(2), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
+Subsec. (a). Pub. L. 103–337, § 1675(b)(2), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
 1988—Subsec. (a). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
@@ -761,19 +761,19 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## § 12215. Commissioned officers: reserve grade of adjutants general and assistant adjutants general
+## § 12215. Commissioned officers: reserve grade of adjutants general and assistant adjutants general
 
 **(a)** The adjutant general or an assistant adjutant general of the Army National Guard of a State may, upon being extended Federal recognition, be appointed as a reserve officer of the Army as of the date on which he is so recognized.
 
 **(b)** The adjutant general or an assistant adjutant general of the Air National Guard of a State may be appointed in the reserve commissioned grade in which Federal recognition in the Air National Guard is extended to him.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(c)(1), Oct. 5, 1994, 108 Stat. 2990.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(c)(1), Oct. 5, 1994, 108 Stat. 2990.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3392 and 8392 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
+Provisions similar to those in this section were contained in sections 3392 and 8392 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
 
 **Statutory Notes and Related Subsidiaries**
 

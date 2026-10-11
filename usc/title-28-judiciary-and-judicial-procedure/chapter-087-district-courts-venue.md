@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–63, title II, §§ 201(b), 203, Dec. 7, 2011, 125 Stat. 763, 764, added item 1390 and struck out item 1392 “Defendants or property in different districts in same State”.
+2011—Pub. L. 112–63, title II, §§ 201(b), 203, Dec. 7, 2011, 125 Stat. 763, 764, added item 1390 and struck out item 1392 “Defendants or property in different districts in same State”.
 
-1998—Pub. L. 105–304, title V, § 503(c)(3), Oct. 28, 1998, 112 Stat. 2917 inserted “, mask works, and designs” in item 1400.
+1998—Pub. L. 105–304, title V, § 503(c)(3), Oct. 28, 1998, 112 Stat. 2917 inserted “, mask works, and designs” in item 1400.
 
-1996—Pub. L. 104–331, § 3(b)(2)(B), Oct. 26, 1996, 110 Stat. 4069, which directed amendment of table of sections for chapter 37 by adding item 1413 at end, was executed by adding item 1413 at end of table of sections for chapter 87 to reflect the probable intent of Congress.
+1996—Pub. L. 104–331, § 3(b)(2)(B), Oct. 26, 1996, 110 Stat. 4069, which directed amendment of table of sections for chapter 37 by adding item 1413 at end, was executed by adding item 1413 at end of table of sections for chapter 87 to reflect the probable intent of Congress.
 
-1988—Pub. L. 100–702, title X, § 1001(a), Nov. 19, 1988, 102 Stat. 4664, struck out item 1393 “Divisions; single defendant; defendants in different divisions”.
+1988—Pub. L. 100–702, title X, § 1001(a), Nov. 19, 1988, 102 Stat. 4664, struck out item 1393 “Divisions; single defendant; defendants in different divisions”.
 
-1984—Pub. L. 98–353, title I, § 102(b), July 10, 1984, 98 Stat. 335, added items 1408 to 1412.
+1984—Pub. L. 98–353, title I, § 102(b), July 10, 1984, 98 Stat. 335, added items 1408 to 1412.
 
-1978—Pub. L. 95–598, title II, § 240(b), Nov. 6, 1978, 92 Stat. 2668, directed the addition of item 1408, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598, title II, § 240(b), Nov. 6, 1978, 92 Stat. 2668, directed the addition of item 1408, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1968—Pub. L. 90–296, § 2, Apr. 29, 1968, 82 Stat. 110, added item 1407.
+1968—Pub. L. 90–296, § 2, Apr. 29, 1968, 82 Stat. 110, added item 1407.
 
-## § 1390. Scope
+## § 1390. Scope
 
 **(a) Venue Defined.—** As used in this chapter, the term “venue” refers to the geographic specification of the proper court or courts for the litigation of a civil action that is within the subject-matter jurisdiction of the district courts in general, and does not refer to any grant or restriction of subject-matter jurisdiction providing for a civil action to be adjudicated only by the district court for a particular district or districts.
 
@@ -41,13 +41,13 @@ retrieved: 2026-10-11
 
 **(c) Clarification Regarding Cases Removed From State Courts.—** This chapter shall not determine the district court to which a civil action pending in a State court may be removed, but shall govern the transfer of an action so removed as between districts and divisions of the United States district courts.
 
-(Added Pub. L. 112–63, title II, § 201(a), Dec. 7, 2011, 125 Stat. 762.)
+(Added Pub. L. 112–63, title II, § 201(a), Dec. 7, 2011, 125 Stat. 762.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 112–63, title II, § 205, Dec. 7, 2011, 125 Stat. 764, provided that:
+Pub. L. 112–63, title II, § 205, Dec. 7, 2011, 125 Stat. 764, provided that:
 
 > “The amendments made by this title [enacting this section, amending sections 1391 and 1404 of this title, and repealing section 1392 of this title]—
 
@@ -59,7 +59,7 @@ Pub. L. 112–63, title II, § 205, Dec. 7, 2011, 125 Stat. 764, provided that
 
 > **“(B)** any action that is removed from a State court to a United States district court and that had been commenced, within the meaning of State law, on or after such effective date.”
 
-## § 1391. Venue generally
+## § 1391. Venue generally
 
 **(a) Applicability of Section.—** Except as otherwise provided by law—
 
@@ -103,11 +103,11 @@ Pub. L. 112–63, title II, § 205, Dec. 7, 2011, 125 Stat. 764, provided that
 
 **(g) Multiparty, Multiforum Litigation.—** A civil action in which jurisdiction of the district court is based upon section 1369 of this title may be brought in any district in which any defendant resides or in which a substantial part of the accident giving rise to the action took place.
 
-(June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 87–748, § 2, Oct. 5, 1962, 76 Stat. 744; Pub. L. 88–234, Dec. 23, 1963, 77 Stat. 473; Pub. L. 89–714, §§ 1, 2, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 94–574, § 3, Oct. 21, 1976, 90 Stat. 2721; Pub. L. 94–583, § 5, Oct. 21, 1976, 90 Stat. 2897; Pub. L. 100–702, title X, § 1013(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, § 311, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, § 3, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 102–572, title V, § 504, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 104–34, § 1, Oct. 3, 1995, 109 Stat. 293; Pub. L. 107–273, div. C, title I, § 11020(b)(2), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title II, § 202, Dec. 7, 2011, 125 Stat. 763.)
+(June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 87–748, § 2, Oct. 5, 1962, 76 Stat. 744; Pub. L. 88–234, Dec. 23, 1963, 77 Stat. 473; Pub. L. 89–714, §§ 1, 2, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 94–574, § 3, Oct. 21, 1976, 90 Stat. 2721; Pub. L. 94–583, § 5, Oct. 21, 1976, 90 Stat. 2897; Pub. L. 100–702, title X, § 1013(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, § 311, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, § 3, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 102–572, title V, § 504, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 104–34, § 1, Oct. 3, 1995, 109 Stat. 293; Pub. L. 107–273, div. C, title I, § 11020(b)(2), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title II, § 202, Dec. 7, 2011, 125 Stat. 763.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 111, 112 (Mar. 3, 1911, ch. 231, §§ 50, 51, 36 Stat. 1101; Sept. 19, 1922, ch. 345, 42 Stat. 849; Mar. 4, 1925, ch. 526, § 1, 43 Stat. 1264; Apr. 16, 1936, ch. 230, 49 Stat. 1213).
+Based on title 28, U.S.C., 1940 ed., §§ 111, 112 (Mar. 3, 1911, ch. 231, §§ 50, 51, 36 Stat. 1101; Sept. 19, 1922, ch. 345, 42 Stat. 849; Mar. 4, 1925, ch. 526, § 1, 43 Stat. 1264; Apr. 16, 1936, ch. 230, 49 Stat. 1213).
 
 Section consolidates section 111 of title 28, U.S.C., 1940 ed., with part of section 112 of such title.
 
@@ -135,27 +135,27 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 **Amendments**
 
-2011—Subsecs. (a) to (d). Pub. L. 112–63, § 202(1), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to venue when jurisdiction is founded only on diversity of citizenship, when jurisdiction is not founded solely on diversity of citizenship, when a defendant is a corporation, and when an alien is sued, respectively.
+2011—Subsecs. (a) to (d). Pub. L. 112–63, § 202(1), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to venue when jurisdiction is founded only on diversity of citizenship, when jurisdiction is not founded solely on diversity of citizenship, when a defendant is a corporation, and when an alien is sued, respectively.
 
-Subsec. (e). Pub. L. 112–63, § 202(2), inserted subsec. heading, substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively, in first par., designated first and second pars. as pars. (1) and (2), respectively, and inserted par. headings.
+Subsec. (e). Pub. L. 112–63, § 202(2), inserted subsec. heading, substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively, in first par., designated first and second pars. as pars. (1) and (2), respectively, and inserted par. headings.
 
-Subsec. (f). Pub. L. 112–63, § 202(3), inserted heading.
+Subsec. (f). Pub. L. 112–63, § 202(3), inserted heading.
 
-Subsec. (g). Pub. L. 112–63, § 202(4), inserted heading.
+Subsec. (g). Pub. L. 112–63, § 202(4), inserted heading.
 
 2002—Subsec. (g). Pub. L. 107–273 added subsec. (g).
 
 1995—Subsec. (a)(3). Pub. L. 104–34 substituted “any defendant is” for “the defendants are”.
 
-1992—Subsec. (a)(3). Pub. L. 102–572 inserted before period at end “, if there is no district in which the action may otherwise be brought”.
+1992—Subsec. (a)(3). Pub. L. 102–572 inserted before period at end “, if there is no district in which the action may otherwise be brought”.
 
 1991—Subsec. (b). Pub. L. 102–198 substituted “in (1)” for “if (1)”.
 
-1990—Subsec. (a). Pub. L. 101–650, § 311(1), substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
+1990—Subsec. (a). Pub. L. 101–650, § 311(1), substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
 
-Subsec. (b). Pub. L. 101–650, § 311(2), substituted “may, except as otherwise provided by law, be brought only if” and cls. (1) to (3) for “may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law”.
+Subsec. (b). Pub. L. 101–650, § 311(2), substituted “may, except as otherwise provided by law, be brought only if” and cls. (1) to (3) for “may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law”.
 
-Subsec. (e). Pub. L. 101–650, § 311(3), substituted “(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)” for “or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)”.
+Subsec. (e). Pub. L. 101–650, § 311(3), substituted “(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)” for “or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)”.
 
 1988—Subsec. (c). Pub. L. 100–702 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A corporation may be sued in any judicial district in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes.”
 
@@ -163,11 +163,11 @@ Subsec. (e). Pub. L. 101–650, § 311(3), substituted “(2) a substantial pa
 
 Subsec. (f). Pub. L. 94–583 added subsec. (f).
 
-1966—Subsec. (a). Pub. L. 89–714, § 1, authorized a civil action to be brought in the judicial district in which the claim arose.
+1966—Subsec. (a). Pub. L. 89–714, § 1, authorized a civil action to be brought in the judicial district in which the claim arose.
 
-Subsec. (b). Pub. L. 89–714, § 1, authorized a civil action to be brought in the judicial district in which the claim arose.
+Subsec. (b). Pub. L. 89–714, § 1, authorized a civil action to be brought in the judicial district in which the claim arose.
 
-Subsec. (f). Pub. L. 89–714, § 2, repealed subsec. (f) which permitted a civil action on a tort claim arising out of the manufacture, assembly, repair, ownership, maintenance, use, or operation of an automobile to be brought in the judicial district wherein the act or omission complained of occurred. Present provisions are now contained in subsecs. (a) and (b) of this section.
+Subsec. (f). Pub. L. 89–714, § 2, repealed subsec. (f) which permitted a civil action on a tort claim arising out of the manufacture, assembly, repair, ownership, maintenance, use, or operation of an automobile to be brought in the judicial district wherein the act or omission complained of occurred. Present provisions are now contained in subsecs. (a) and (b) of this section.
 
 1963—Subsec. (f). Pub. L. 88–234 added subsec. (f)
 
@@ -189,15 +189,15 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–702, title X, § 1013(b), Nov. 19, 1988, 102 Stat. 4669, provided that: “The amendment made by this section [amending this section] takes effect 90 days after the date of enactment of this title [Nov. 19, 1988].”
+Pub. L. 100–702, title X, § 1013(b), Nov. 19, 1988, 102 Stat. 4669, provided that: “The amendment made by this section [amending this section] takes effect 90 days after the date of enactment of this title [Nov. 19, 1988].”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by Pub. L. 94–583 effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as an Effective Date note under section 1602 of this title.
 
-## [§ 1392. Repealed. Pub. L. 112–63, § 203, Dec. 7, 2011, 125 Stat. 764]
+## [§ 1392. Repealed. Pub. L. 112–63, § 203, Dec. 7, 2011, 125 Stat. 764]
 
-Section, act June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 104–220, § 1, Oct. 1, 1996, 110 Stat. 3023, related to defendants or property in different districts in the same State.
+Section, act June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 104–220, § 1, Oct. 1, 1996, 110 Stat. 3023, related to defendants or property in different districts in the same State.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -205,7 +205,7 @@ Section, act June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 104–220, § 1, Oc
 
 Repeal by Pub. L. 112–63 effective upon the expiration of the 30-day period beginning on Dec. 7, 2011, and applicable to any action commenced in a United States district court on or after such effective date, and to any action removed from a State court to a United States district court that had been commenced, within the meaning of State law, on or after such effective date, see section 205 of Pub. L. 112–63, set out as an Effective Date note under section 1390 of this title.
 
-## [§ 1393. Repealed. Pub. L. 100–702, title X, § 1001(a), Nov. 19, 1988, 102 Stat. 4664]
+## [§ 1393. Repealed. Pub. L. 100–702, title X, § 1001(a), Nov. 19, 1988, 102 Stat. 4664]
 
 Section, act June 25, 1948, ch. 646, 62 Stat. 935, related to divisional venue in civil cases of a single defendant or defendants in different divisions.
 
@@ -213,9 +213,9 @@ Section, act June 25, 1948, ch. 646, 62 Stat. 935, related to divisional venue i
 
 **Effective Date of Repeal**
 
-Pub. L. 100–702, title X, § 1001(b), Nov. 19, 1988, 102 Stat. 4664, provided that: “The amendments made by this section [repealing this section] take effect 90 days after the date of enactment of this Act [Nov. 19, 1988].”
+Pub. L. 100–702, title X, § 1001(b), Nov. 19, 1988, 102 Stat. 4664, provided that: “The amendments made by this section [repealing this section] take effect 90 days after the date of enactment of this Act [Nov. 19, 1988].”
 
-## § 1394. Banking association’s action against Comptroller of Currency
+## § 1394. Banking association’s action against Comptroller of Currency
 
 Any civil action by a national banking association to enjoin the Comptroller of the Currency, under the provisions of any Act of Congress relating to such associations, may be prosecuted in the judicial district where such association is located.
 
@@ -223,7 +223,7 @@ Any civil action by a national banking association to enjoin the Comptroller of 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 110 (Mar. 3, 1911, ch. 231, § 49, 36 Stat. 1100).
+Based on title 28, U.S.C., 1940 ed., § 110 (Mar. 3, 1911, ch. 231, § 49, 36 Stat. 1100).
 
 Words “Any civil action” were substituted for “All proceedings,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -233,9 +233,9 @@ Changes were made in phraseology.
 
 **Exception as to Transfer of Functions**
 
-Functions vested by any provision of law in the Comptroller of the Currency, referred to in this section, were not included in the transfer of functions of officers, agencies and employees of the Department of the Treasury to the Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
+Functions vested by any provision of law in the Comptroller of the Currency, referred to in this section, were not included in the transfer of functions of officers, agencies and employees of the Department of the Treasury to the Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
 
-## § 1395. Fine, penalty or forfeiture
+## § 1395. Fine, penalty or forfeiture
 
 **(a)** A civil proceeding for the recovery of a pecuniary fine, penalty or forfeiture may be prosecuted in the district where it accrues or the defendant is found.
 
@@ -251,7 +251,7 @@ Functions vested by any provision of law in the Comptroller of the Currency, ref
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 104, 106, 107, and 108, and section 3745(c) of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1911, ch. 231, §§ 43, 45, 46, 47, 36 Stat. 1100; Feb. 10, 1939, ch. 2, § 3745(c), 53 Stat. 460).
+Based on title 28, U.S.C., 1940 ed., §§ 104, 106, 107, and 108, and section 3745(c) of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1911, ch. 231, §§ 43, 45, 46, 47, 36 Stat. 1100; Feb. 10, 1939, ch. 2, § 3745(c), 53 Stat. 460).
 
 This section consolidates section 3745(c) of title 26, U.S.C., 1940 ed., with sections 104, 106, 107, and 108 of title 28, U.S.C., 1940 ed., relating to venue in civil proceedings to recover and enforce civil fines, penalties, and forfeitures, pecuniary or otherwise. Subsection (a) is based on said section 104 of title 28 and said section 3745(c) of title 26. Subsections (b) and (c) consolidate such sections 106 and 107 of title 28. Subsection (e) is based on such section 108 of title 28.
 
@@ -269,7 +269,7 @@ Changes were made in phraseology.
 
 While section 3745(c) of Title 26, U.S.C., Internal Revenue Code, is one of the sources of this section, it was eliminated from the schedule of repeals by Senate amendment. Therefore, such section 3745(c) remains in Title 26. See 80th Congress Senate Report No. 1559.
 
-## § 1396. Internal revenue taxes
+## § 1396. Internal revenue taxes
 
 Any civil action for the collection of internal revenue taxes may be brought in the district where the liability for such tax accrues, in the district of the taxpayer’s residence, or in the district where the return was filed.
 
@@ -277,7 +277,7 @@ Any civil action for the collection of internal revenue taxes may be brought in 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 105, and section 3744 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1911, ch. 231, § 44, 36 Stat. 1100; Feb. 10, 1939, ch. 2, § 3744, 53 Stat. 460).
+Based on title 28, U.S.C., 1940 ed., § 105, and section 3744 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1911, ch. 231, § 44, 36 Stat. 1100; Feb. 10, 1939, ch. 2, § 3744, 53 Stat. 460).
 
 Section consolidates section 3744 of title 26, U.S.C., 1940 ed., Internal Revenue Code, with section 105 of title 28, U.S.C., 1940 ed.
 
@@ -289,7 +289,7 @@ Changes were made in phraseology.
 
 While section 3744 of Title 26, U.S.C., Internal Revenue Code [1939], is one of the sources of this section, it was eliminated from the schedule of repeals by Senate amendment. Therefore, it remains in Title 26 [I.R.C. 1939]. See 80th Congress Senate Report No. 1559.
 
-## § 1397. Interpleader
+## § 1397. Interpleader
 
 Any civil action of interpleader or in the nature of interpleader under section 1335 of this title may be brought in the judicial district in which one or more of the claimants reside.
 
@@ -297,7 +297,7 @@ Any civil action of interpleader or in the nature of interpleader under section 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(26) (Mar. 3, 1911, ch. 231, § 24, par. 26, as added Jan. 20, 1936, ch. 13, § 1, 49 Stat. 1096).
+Based on title 28, U.S.C., 1940 ed., § 41(26) (Mar. 3, 1911, ch. 231, § 24, par. 26, as added Jan. 20, 1936, ch. 13, § 1, 49 Stat. 1096).
 
 Provisions of section 41(26) of title 28, U.S.C., 1940 ed., relating to jurisdiction are the basis of section 1335 of this title and other provisions thereof are incorporated in section 2361 of this title.
 
@@ -305,29 +305,29 @@ Words “civil action” were substituted for “suit,” in view of Rule 2 of t
 
 Changes were made in phraseology.
 
-## § 1398. Interstate Commerce Commission’s orders
+## § 1398. Interstate Commerce Commission’s orders
 
 **(a)** Except as otherwise provided by law, a civil action brought under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office.
 
 **(b)** A civil action to enforce, enjoin, set aside, annul, or suspend, in whole or in part, an order of the Interstate Commerce Commission made pursuant to the referral of a question or issue by a district court or by the United States Court of Federal Claims, shall be brought only in the court which referred the question or issue.
 
-(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 88–513, § 2, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, § 2, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, § 130, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 88–513, § 2, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, § 2, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, § 130, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 43 (Oct. 22, 1913, ch. 32, 38 Stat. 219).
+Based on title 28, U.S.C., 1940 ed., § 43 (Oct. 22, 1913, ch. 32, 38 Stat. 219).
 
 This section is completely rewritten to give effect to changes recommended by the Judicial Conference of the United States.
 
 Section 43 of title 28, U.S.C., 1940 ed., is as follows:
 
-“§ 43. Venue of suits relating to orders of Interstate Commerce Commission.
+“§ 43. Venue of suits relating to orders of Interstate Commerce Commission.
 
 “The venue of any suit brought to enforce, suspend, or set aside, in whole or in part, any order of the Interstate Commerce Commission shall be in the judicial district wherein is the residence of the party or any of the parties upon whose petition the order was made, except that where the order does not relate to transportation or is not made upon the petition of any party the venue shall be in the district where the matter complained of in the petition before the commission arises, and except that where the order does not relate either to transportation or to a matter so complained of before the commission the matter covered by the order shall be deemed to arise in the district where one of the petitioners in court has either its principal office or its principal operating office. In case such transportation relates to a through shipment the term ‘destination’ shall be construed as meaning final destination of such shipment.” The amendment of section 207 of title 28, U.S.C., 1940 ed., proposed by the Judicial Conference is:
 
 “Except as otherwise provided in the Act entitled ‘An Act to Regulate Commerce’, approved February 4, 1887, as amended, the venue of any suit brought to enforce, suspend, or set aside, in whole or in part, any order of the Interstate Commerce Commission shall be in the judicial district wherein is the residence of the party or any of the parties bringing the suit or wherein such party or any of such parties has its principal office.”
 
-The revised section substitutes the words “Except as otherwise provided by law” for the words of the conference bill, “in the act entitled ‘An Act to Regulate Commerce, approved February 4, 1887, as amended’ ”. (See section 16 of title 49, U.S.C., 1940 ed., which provides for jurisdiction and venue of actions to enforce Interstate Commerce Commission orders for the payment of money.)
+The revised section substitutes the words “Except as otherwise provided by law” for the words of the conference bill, “in the act entitled ‘An Act to Regulate Commerce, approved February 4, 1887, as amended’ ”. (See section 16 of title 49, U.S.C., 1940 ed., which provides for jurisdiction and venue of actions to enforce Interstate Commerce Commission orders for the payment of money.)
 
 **Editorial Notes**
 
@@ -359,7 +359,7 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
-## § 1399. Partition action involving United States
+## § 1399. Partition action involving United States
 
 Any civil action by any tenant in common or joint tenant for the partition of lands, where the United States is one of the tenants in common or joint tenants, may be brought only in the judicial district where such lands are located or, if located in different districts in the same State, in any of such districts.
 
@@ -367,7 +367,7 @@ Any civil action by any tenant in common or joint tenant for the partition of la
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(25) (Mar. 3, 1911, ch. 231, § 24, par. 25, 36 Stat. 1094).
+Based on title 28, U.S.C., 1940 ed., § 41(25) (Mar. 3, 1911, ch. 231, § 24, par. 25, 36 Stat. 1094).
 
 Provisions of section 41(25) of title 28, U.S.C., 1940 ed., relating to jurisdiction are the basis of section 1347 of this title.
 
@@ -377,17 +377,17 @@ Provision with respect to property in different districts was added to conform w
 
 Changes were made in phraseology.
 
-## § 1400. Patents and copyrights, mask works, and designs
+## § 1400. Patents and copyrights, mask works, and designs
 
 **(a)** Civil actions, suits, or proceedings arising under any Act of Congress relating to copyrights or exclusive rights in mask works or designs may be instituted in the district in which the defendant or his agent resides or may be found.
 
 **(b)** Any civil action for patent infringement may be brought in the judicial district where the defendant resides, or where the defendant has committed acts of infringement and has a regular and established place of business.
 
-(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 100–702, title X, § 1020(a)(5), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 105–304, title V, § 503(c)(1), (2), Oct. 28, 1998, 112 Stat. 2917; Pub. L. 106–44, § 2(a), Aug. 5, 1999, 113 Stat. 223.)
+(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 100–702, title X, § 1020(a)(5), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 105–304, title V, § 503(c)(1), (2), Oct. 28, 1998, 112 Stat. 2917; Pub. L. 106–44, § 2(a), Aug. 5, 1999, 113 Stat. 223.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 109, and section 35 of title 17, U.S.C., 1940 ed., Copyrights (Mar. 4, 1909, ch. 320, § 35, 35 Stat. 1084; Mar. 3, 1911, ch. 231, § 48, 36 Stat. 1100).
+Based on title 28, U.S.C., 1940 ed., § 109, and section 35 of title 17, U.S.C., 1940 ed., Copyrights (Mar. 4, 1909, ch. 320, § 35, 35 Stat. 1084; Mar. 3, 1911, ch. 231, § 48, 36 Stat. 1100).
 
 Section consolidates section 35 of title 17, U.S.C., 1940 ed., with part of section 109 of title 28, U.S.C., 1940 ed., with necessary changes in phraseology.
 
@@ -405,7 +405,7 @@ Jurisdiction and venue of patent suits against residents of foreign countries or
 
 **Senate Revision Amendment**
 
-Title 17 of the United States Code was enacted into positive law by act July 30, 1947, ch. 391, 61 Stat. 652, and, in such enactment, section 35 of the prior title became section 111 of the new title, and all Acts from which sections of the prior title had been derived, were repealed. Therefore, this paragraph should read: “Based on Title 28, U.S.C., 1940 ed., § 109 (Mar. 3, 1911, ch. 231, § 48, 36 Stat. 1100), and section 111 of Title 17, U.S.C., 1946 ed., Copyrights.” By Senate amendment, section 111 of Title 17 U.S.C., is included in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+Title 17 of the United States Code was enacted into positive law by act July 30, 1947, ch. 391, 61 Stat. 652, and, in such enactment, section 35 of the prior title became section 111 of the new title, and all Acts from which sections of the prior title had been derived, were repealed. Therefore, this paragraph should read: “Based on Title 28, U.S.C., 1940 ed., § 109 (Mar. 3, 1911, ch. 231, § 48, 36 Stat. 1100), and section 111 of Title 17, U.S.C., 1946 ed., Copyrights.” By Senate amendment, section 111 of Title 17 U.S.C., is included in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
 **Editorial Notes**
 
@@ -413,13 +413,13 @@ Title 17 of the United States Code was enacted into positive law by act July 30,
 
 1999—Pub. L. 106–44 amended section catchline generally so as to read “Patents and copyrights, mask works, and designs”.
 
-1998—Pub. L. 105–304, § 503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
+1998—Pub. L. 105–304, § 503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
 
-Subsec. (a). Pub. L. 105–304, § 503(c)(1), inserted “or designs” after “mask works”.
+Subsec. (a). Pub. L. 105–304, § 503(c)(1), inserted “or designs” after “mask works”.
 
 1988—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
 
-## § 1401. Stockholder’s derivative action
+## § 1401. Stockholder’s derivative action
 
 Any civil action by a stockholder on behalf of his corporation may be prosecuted in any judicial district where the corporation might have sued the same defendants.
 
@@ -427,7 +427,7 @@ Any civil action by a stockholder on behalf of his corporation may be prosecuted
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 112 (part) (Mar. 3, 1911, ch. 231, § 51, 36 Stat. 1101; Sept. 19, 1922, ch. 345, 42 Stat. 849; Mar. 4, 1925, ch. 526, § 1, 43 Stat. 1264; Apr. 16, 1936, ch. 230, 49 Stat. 1213).
+Based on title 28, U.S.C., 1940 ed., § 112 (part) (Mar. 3, 1911, ch. 231, § 51, 36 Stat. 1101; Sept. 19, 1922, ch. 345, 42 Stat. 849; Mar. 4, 1925, ch. 526, § 1, 43 Stat. 1264; Apr. 16, 1936, ch. 230, 49 Stat. 1213).
 
 For disposition of other provisions of section 112 of title 28, U.S.C., 1940 ed., see reviser’s note under section 1391 of this title.
 
@@ -437,7 +437,7 @@ Words “other than said corporation,” after “same defendants,” were omitt
 
 Changes were made in phraseology.
 
-## § 1402. United States as defendant
+## § 1402. United States as defendant
 
 **(a)** Any civil action in a district court against the United States under subsection (a) of section 1346 of this title may be prosecuted only:
 
@@ -451,11 +451,11 @@ Changes were made in phraseology.
 
 **(d)** Any civil action under section 2409a to quiet title to an estate or interest in real property in which an interest is claimed by the United States shall be brought in the district court of the district where the property is located or, if located in different districts, in any of such districts.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 85–920, Sept. 2, 1958, 72 Stat. 1770; Pub. L. 89–719, title II, § 202(b), Nov. 2, 1966, 80 Stat. 1149; Pub. L. 92–562, § 2, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 97–164, title I, § 131, Apr. 2, 1982, 96 Stat. 39.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 85–920, Sept. 2, 1958, 72 Stat. 1770; Pub. L. 89–719, title II, § 202(b), Nov. 2, 1966, 80 Stat. 1149; Pub. L. 92–562, § 2, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 97–164, title I, § 131, Apr. 2, 1982, 96 Stat. 39.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 762, 931(a) (Mar. 3, 1887, ch. 359, § 5, 24 Stat. 506; Aug. 2, 1946, ch. 753, § 410(a), 60 Stat. 843).
+Based on title 28, U.S.C., 1940 ed., §§ 762, 931(a) (Mar. 3, 1887, ch. 359, § 5, 24 Stat. 506; Aug. 2, 1946, ch. 753, § 410(a), 60 Stat. 843).
 
 Section consolidates the venue provisions of section 762 of title 28, U.S.C., 1940 ed., with the venue provisions of section 931(a) of such title, the latter provisions relating to tort claims cases. The jurisdictional provisions of such section 931(a) are incorporated in section 1346(b) of this title. For other provisions thereof, see Distribution Table.
 
@@ -487,7 +487,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, see section 203 of Pub. L. 89–719, set out as a note under section 1346 of this title.
 
-## § 1403. Eminent domain
+## § 1403. Eminent domain
 
 Proceedings to condemn real estate for the use of the United States or its departments or agencies shall be brought in the district court of the district where the land is located or, if located in different districts in the same State, in any of such districts.
 
@@ -495,7 +495,7 @@ Proceedings to condemn real estate for the use of the United States or its depar
 
 **Historical and Revision Notes**
 
-Based on section 257 of title 40, U.S.C., 1940 ed., Public Buildings, Property, and Works (Aug. 1, 1888, ch. 728, § 1, 25 Stat. 357; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
+Based on section 257 of title 40, U.S.C., 1940 ed., Public Buildings, Property, and Works (Aug. 1, 1888, ch. 728, § 1, 25 Stat. 357; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
 
 Section constitutes the first clause of the second sentence of section 257, of title 40, U.S.C., 1940 ed. The revised section is expressive of the purpose of such section 257 with necessary changes in phraseology.
 
@@ -507,7 +507,7 @@ Provision with respect to property in different districts was added to conform w
 
 See, also, section 1392 of this title which fixes venue of an action involving property in different districts in the same State.
 
-## § 1404. Change of venue
+## § 1404. Change of venue
 
 **(a)** For the convenience of parties and witnesses, in the interest of justice, a district court may transfer any civil action to any other district or division where it might have been brought or to any district or division to which all parties have consented.
 
@@ -517,11 +517,11 @@ See, also, section 1392 of this title which fixes venue of an action involving p
 
 **(d)** Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the Virgin Islands shall not be permitted under this section. As otherwise used in this section, the term “district court” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands, and the term “district” includes the territorial jurisdiction of each such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 87–845, § 9, Oct. 18, 1962, 76A Stat. 699; Pub. L. 104–317, title VI, § 610(a), Oct. 19, 1996, 110 Stat. 3860; Pub. L. 112–63, title II, § 204, Dec. 7, 2011, 125 Stat. 764.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 87–845, § 9, Oct. 18, 1962, 76A Stat. 699; Pub. L. 104–317, title VI, § 610(a), Oct. 19, 1996, 110 Stat. 3860; Pub. L. 112–63, title II, § 204, Dec. 7, 2011, 125 Stat. 764.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 119, 163 (Mar. 3, 1911, ch. 231, § 58, 36 Stat. 1103; Sept. 8, 1916, ch. 475, § 5, 39 Stat. 851).
+Based on title 28, U.S.C., 1940 ed., §§ 119, 163 (Mar. 3, 1911, ch. 231, § 58, 36 Stat. 1103; Sept. 8, 1916, ch. 475, § 5, 39 Stat. 851).
 
 Section consolidates sections 119 and 163 of title 28, U.S.C., 1940 ed., with necessary changes in phraseology and substance.
 
@@ -537,9 +537,9 @@ Subsection (b) is based upon section 163 of title 28, U.S.C., 1940 ed., which ap
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–63, § 204(1), inserted “or to any district or division to which all parties have consented” before period at end.
+2011—Subsec. (a). Pub. L. 112–63, § 204(1), inserted “or to any district or division to which all parties have consented” before period at end.
 
-Subsec. (d). Pub. L. 112–63, § 204(2), substituted “Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the Virgin Islands shall not be permitted under this section. As otherwise used in this section,” for “As used in this section,”.
+Subsec. (d). Pub. L. 112–63, § 204(2), substituted “Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the Virgin Islands shall not be permitted under this section. As otherwise used in this section,” for “As used in this section,”.
 
 1996—Subsec. (d). Pub. L. 104–317 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
 
@@ -553,13 +553,13 @@ Amendment by Pub. L. 112–63 effective upon the expiration of the 30-day period
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–317, title VI, § 610(c), Oct. 19, 1996, 110 Stat. 3861, provided that: “The amendments made by this section [amending this section and section 1406 of this title] apply to cases pending on the date of the enactment of this Act [Oct. 19, 1996] and to cases commenced on or after such date.”
+Pub. L. 104–317, title VI, § 610(c), Oct. 19, 1996, 110 Stat. 3861, provided that: “The amendments made by this section [amending this section and section 1406 of this title] apply to cases pending on the date of the enactment of this Act [Oct. 19, 1996] and to cases commenced on or after such date.”
 
 **Effective Date of 1962 Amendment**
 
 Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note under section 414 of this title.
 
-## § 1405. Creation or alteration of district or division
+## § 1405. Creation or alteration of district or division
 
 Actions or proceedings pending at the time of the creation of a new district or division or transfer of a county or territory from one division or district to another may be tried in the district or division as it existed at the institution of the action or proceeding, or in the district or division so created or to which the county or territory is so transferred as the parties shall agree or the court direct.
 
@@ -567,7 +567,7 @@ Actions or proceedings pending at the time of the creation of a new district or 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 121 (Mar. 3, 1911, ch. 231, § 59, 36 Stat. 1103).
+Based on title 28, U.S.C., 1940 ed., § 121 (Mar. 3, 1911, ch. 231, § 59, 36 Stat. 1103).
 
 Enforcement of liens in like circumstances is provided by section 1656 of this title.
 
@@ -575,7 +575,7 @@ Remainder of section 121 of title 28, U.S.C., 1940 ed., is incorporated in secti
 
 Changes were made in phraseology.
 
-## § 1406. Cure or waiver of defects
+## § 1406. Cure or waiver of defects
 
 **(a)** The district court of a district in which is filed a case laying venue in the wrong division or district shall dismiss, or if it be in the interest of justice, transfer such case to any district or division in which it could have been brought.
 
@@ -583,7 +583,7 @@ Changes were made in phraseology.
 
 **(c)** As used in this section, the term “district court” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands, and the term “district” includes the territorial jurisdiction of each such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; May 24, 1949, ch. 139, § 81, 63 Stat. 101; Pub. L. 86–770, § 1, Sept. 13, 1960, 74 Stat. 912; Pub. L. 87–845, § 10, Oct. 18, 1962, 76A Stat. 699; Pub. L. 97–164, title I, § 132, Apr. 2, 1982, 96 Stat. 39; Pub. L. 104–317, title VI, § 610(b), Oct. 19, 1996, 110 Stat. 3860.)
+(June 25, 1948, ch. 646, 62 Stat. 937; May 24, 1949, ch. 139, § 81, 63 Stat. 101; Pub. L. 86–770, § 1, Sept. 13, 1960, 74 Stat. 912; Pub. L. 87–845, § 10, Oct. 18, 1962, 76A Stat. 699; Pub. L. 97–164, title I, § 132, Apr. 2, 1982, 96 Stat. 39; Pub. L. 104–317, title VI, § 610(b), Oct. 19, 1996, 110 Stat. 3860.)
 
 **Historical and Revision Notes**
 
@@ -627,9 +627,9 @@ Amendment by Pub. L. 87–845 effective Jan. 2, 1962, see section 25 of Pub. L. 
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–770, § 4, Sept. 13, 1960, 74 Stat. 913, provided in part that: “The amendments made by sections 1 and 2 of this Act [adding subsec. (c) of this section and section 1506 of this title] shall apply to any case or proceeding pending on, or brought after, the date of enactment of this Act [Sept. 13, 1960] in the district courts or the Court of Claims.”
+Pub. L. 86–770, § 4, Sept. 13, 1960, 74 Stat. 913, provided in part that: “The amendments made by sections 1 and 2 of this Act [adding subsec. (c) of this section and section 1506 of this title] shall apply to any case or proceeding pending on, or brought after, the date of enactment of this Act [Sept. 13, 1960] in the district courts or the Court of Claims.”
 
-## § 1407. Multidistrict litigation
+## § 1407. Multidistrict litigation
 
 **(a)** When civil actions involving one or more common questions of fact are pending in different districts, such actions may be transferred to any district for coordinated or consolidated pretrial proceedings. Such transfers shall be made by the judicial panel on multidistrict litigation authorized by this section upon its determination that transfers for such proceedings will be for the convenience of parties and witnesses and will promote the just and efficient conduct of such actions. Each action so transferred shall be remanded by the panel at or before the conclusion of such pretrial proceedings to the district from which it was transferred unless it shall have been previously terminated: *Provided, however*, That the panel may separate any claim, cross-claim, counter-claim, or third-party claim and remand any of such claims before the remainder of the action is remanded.
 
@@ -651,7 +651,7 @@ The panel shall give notice to the parties in all actions in which transfers for
 
 **(g)** Nothing in this section shall apply to any action in which the United States or a State is a complainant arising under the antitrust laws. “Antitrust laws” as used herein include those acts referred to in the Act of October 15, 1914, as amended (38 Stat. 730; 15 U.S.C. 12), and also include the Act of June 19, 1936 (49 Stat. 1526; 15 U.S.C. 13, 13a, and 13b) and the Act of September 26, 1914, as added March 21, 1938 (52 Stat. 116, 117; 15 U.S.C. 56).
 
-(Added Pub. L. 90–296, § 1, Apr. 29, 1968, 82 Stat. 109; amended Pub. L. 94–435, title III, § 303, Sept. 30, 1976, 90 Stat. 1396; Pub. L. 117–328, div. GG, title III, § 301, Dec. 29, 2022, 136 Stat. 5970.)
+(Added Pub. L. 90–296, § 1, Apr. 29, 1968, 82 Stat. 109; amended Pub. L. 94–435, title III, § 303, Sept. 30, 1976, 90 Stat. 1396; Pub. L. 117–328, div. GG, title III, § 301, Dec. 29, 2022, 136 Stat. 5970.)
 
 **Editorial Notes**
 
@@ -661,13 +661,13 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in
 
 **Amendments**
 
-2022—Subsec. (g). Pub. L. 117–328, § 301(1), inserted “or a State” after “United States” and struck out “; but shall not include section 4A of the Act of October 15, 1914, as added July 7, 1955 (69 Stat. 282; 15 U.S.C. 15a)” before period at end.
+2022—Subsec. (g). Pub. L. 117–328, § 301(1), inserted “or a State” after “United States” and struck out “; but shall not include section 4A of the Act of October 15, 1914, as added July 7, 1955 (69 Stat. 282; 15 U.S.C. 15a)” before period at end.
 
-Subsec. (h). Pub. L. 117–328, § 301(2), struck out subsec. (h) which read as follows: “Notwithstanding the provisions of section 1404 or subsection (f) of this section, the judicial panel on multidistrict litigation may consolidate and transfer with or without the consent of the parties, for both pretrial purposes and for trial, any action brought under section 4C of the Clayton Act.”
+Subsec. (h). Pub. L. 117–328, § 301(2), struck out subsec. (h) which read as follows: “Notwithstanding the provisions of section 1404 or subsection (f) of this section, the judicial panel on multidistrict litigation may consolidate and transfer with or without the consent of the parties, for both pretrial purposes and for trial, any action brought under section 4C of the Clayton Act.”
 
 1976—Pub. L. 94–435 added subsec. (h).
 
-## § 1408. Venue of cases under title 11
+## § 1408. Venue of cases under title 11
 
 Except as provided in section 1410 of this title, a case under title 11 may be commenced in the district court for the district—
 
@@ -675,13 +675,13 @@ Except as provided in section 1410 of this title, a case under title 11 may be c
 
 **(2)** in which there is pending a case under title 11 concerning such person’s affiliate, general partner, or partnership.
 
-(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 334.)
+(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 334.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1408, added by Pub. L. 95–598, title II, § 240(a), Nov. 6, 1978, 92 Stat. 2668, which related to bankruptcy appeals, did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+A prior section 1408, added by Pub. L. 95–598, title II, § 240(a), Nov. 6, 1978, 92 Stat. 2668, which related to bankruptcy appeals, did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -689,13 +689,13 @@ A prior section 1408, added by Pub. L. 95–598, title II, § 240(a), Nov. 6, 
 
 Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as a note under section 151 of this title.
 
-## § 1409. Venue of proceedings arising under title 11 or arising in or related to cases under title 11
+## § 1409. Venue of proceedings arising under title 11 or arising in or related to cases under title 11
 
 **(a)** Except as otherwise provided in subsections (b) and (d), a proceeding arising under title 11 or arising in or related to a case under title 11 may be commenced in the district court in which such case is pending.
 
-**(b)** Except as provided in subsection (d) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case to recover a money judgment of or property worth less than $1,000 1
+**(b)** Except as provided in subsection (d) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case to recover a money judgment of or property worth less than $1,000 1
 
-<sup>1</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>1</sup> See Adjustment of Dollar Amounts notes below.
 
 or a consumer debt of less than $15,000,1 or a debt (excluding a consumer debt) against a noninsider of less than $25,000, only in the district court for the district in which the defendant resides.
 
@@ -705,7 +705,7 @@ or a consumer debt of less than $15,000,1 or a debt (excluding a consumer debt) 
 
 **(e)** A proceeding arising under title 11 or arising in or related to a case under title 11, based on a claim arising after the commencement of such case from the operation of the business of the debtor, may be commenced against the representative of the estate in such case in the district court for the district where the State or Federal court sits in which the party commencing such proceeding may, under applicable nonbankruptcy venue provisions, have brought an action on such claim, or in the district court in which such case is pending.
 
-(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 334; amended Pub. L. 109–8, title IV, § 410, Apr. 20, 2005, 119 Stat. 106; Pub. L. 116–54, § 3(b), Aug. 23, 2019, 133 Stat. 1085.)
+(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 334; amended Pub. L. 109–8, title IV, § 410, Apr. 20, 2005, 119 Stat. 106; Pub. L. 116–54, § 3(b), Aug. 23, 2019, 133 Stat. 1085.)
 
 **Editorial Notes**
 
@@ -749,7 +749,7 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. 
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b), dollar amounts “1,000”, “15,000”, and “10,000” were adjusted to “1,100”, “16,425”, and “10,950”, respectively. Pub. L. 116–54 subsequently substituted “25,000” for “10,000”, see 2019 Amendment note above.
 
-## § 1410. Venue of cases ancillary to foreign proceedings
+## § 1410. Venue of cases ancillary to foreign proceedings
 
 A case under chapter 15 of title 11 may be commenced in the district court of the United States for the district—
 
@@ -759,7 +759,7 @@ A case under chapter 15 of title 11 may be commenced in the district court of th
 
 **(3)** in a case other than those specified in paragraph (1) or (2), in which venue will be consistent with the interests of justice and the convenience of the parties, having regard to the relief sought by the foreign representative.
 
-(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 335; amended Pub. L. 109–8, title VIII, § 802(c)(4), Apr. 20, 2005, 119 Stat. 146.)
+(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 335; amended Pub. L. 109–8, title VIII, § 802(c)(4), Apr. 20, 2005, 119 Stat. 146.)
 
 **Editorial Notes**
 
@@ -777,13 +777,13 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as a note under section 151 of this title.
 
-## § 1411. Jury trials
+## § 1411. Jury trials
 
 **(a)** Except as provided in subsection (b) of this section, this chapter and title 11 do not affect any right to trial by jury that an individual has under applicable nonbankruptcy law with regard to a personal injury or wrongful death tort claim.
 
 **(b)** The district court may order the issues arising under section 303 of title 11 to be tried without a jury.
 
-(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 335.)
+(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 335.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -791,11 +791,11 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 
 Section effective July 10, 1984, except that subsec. (a) not applicable with respect to cases under Title 11, Bankruptcy, that are pending on July 10, 1984, or to proceedings arising in or related to such cases, see section 122(a), (b) of Pub. L. 98–353, set out as a note under section 151 of this title.
 
-## § 1412. Change of venue
+## § 1412. Change of venue
 
 A district court may transfer a case or proceeding under title 11 to a district court for another district, in the interest of justice or for the convenience of the parties.
 
-(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 335.)
+(Added Pub. L. 98–353, title I, § 102(a), July 10, 1984, 98 Stat. 335.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -803,17 +803,17 @@ A district court may transfer a case or proceeding under title 11 to a district 
 
 Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as a note under section 151 of this title.
 
-## § 1413. Venue of cases under chapter 5 of title 3
+## § 1413. Venue of cases under chapter 5 of title 3
 
 Notwithstanding the preceding provisions of this chapter, a civil action under section 1346(g) may be brought in the United States district court for the district in which the employee is employed or in the United States District Court for the District of Columbia.
 
-(Added Pub. L. 104–331, § 3(b)(2)(A), Oct. 26, 1996, 110 Stat. 4069.)
+(Added Pub. L. 104–331, § 3(b)(2)(A), Oct. 26, 1996, 110 Stat. 4069.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 104–331, § 3(b)(2)(A), which directed the amendment of chapter 37 of this title by adding this section at end, was executed by adding this section at the end of chapter 87 of this title to reflect the probable intent of Congress.
+Pub. L. 104–331, § 3(b)(2)(A), which directed the amendment of chapter 37 of this title by adding this section at end, was executed by adding this section at the end of chapter 87 of this title to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 

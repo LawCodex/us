@@ -23,30 +23,30 @@ A prior chapter 845, consisting of sections 8571 to 8583, related to rank and co
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 575 of this title as this chapter and items 6483 to 6486 as 8383 to 8386, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 575 of this title as this chapter and items 6483 to 6486 as 8383 to 8386, respectively.
 
-1984—Pub. L. 98–525, title V, § 533(f)(2), Oct. 19, 1984, 98 Stat. 2528, struck out item 6482 “Retired enlisted members of the Regular Navy and Regular Marine Corps: authority to recall.”
+1984—Pub. L. 98–525, title V, § 533(f)(2), Oct. 19, 1984, 98 Stat. 2528, struck out item 6482 “Retired enlisted members of the Regular Navy and Regular Marine Corps: authority to recall.”
 
-1980—Pub. L. 96–513, title V, § 503(51), Dec. 12, 1980, 94 Stat. 2915, struck out items 6481 “Retired officers of the Regular Navy and Regular Marine Corps: authority to recall”, 6487 “Retired rear admirals: retired pay after two years of active duty”, and 6488 “Wartime appointments or promotions: retention of grade upon release from active duty”.
+1980—Pub. L. 96–513, title V, § 503(51), Dec. 12, 1980, 94 Stat. 2915, struck out items 6481 “Retired officers of the Regular Navy and Regular Marine Corps: authority to recall”, 6487 “Retired rear admirals: retired pay after two years of active duty”, and 6488 “Wartime appointments or promotions: retention of grade upon release from active duty”.
 
-## § 8383. Retired members: grade
+## § 8383. Retired members: grade
 
 An officer who has been advanced on the retired list or in the Retired Reserve under former section 6150 of this title to a grade above captain in the Navy or above colonel in the Marine Corps, when recalled to active duty, may, in the discretion of the Secretary of the Navy, be recalled either in the grade he holds on the retired list or in the Retired Reserve or in the grade from which he was advanced.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 417, § 6483; Pub. L. 85–422, § 6(5), May 20, 1958, 72 Stat. 129; Pub. L. 88–132, § 5(m), Oct. 2, 1963, 77 Stat. 215; Pub. L. 90–623, § 2(10), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title III, § 363, Dec. 12, 1980, 94 Stat. 2903; renumbered § 8383, Pub. L. 115–232, div. A, title VIII, § 807(b)(17), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 417, § 6483; Pub. L. 85–422, § 6(5), May 20, 1958, 72 Stat. 129; Pub. L. 88–132, § 5(m), Oct. 2, 1963, 77 Stat. 215; Pub. L. 90–623, § 2(10), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title III, § 363, Dec. 12, 1980, 94 Stat. 2903; renumbered § 8383, Pub. L. 115–232, div. A, title VIII, § 807(b)(17), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6483 | 34 U.S.C. 410n (1st proviso). | Aug. 7, 1947, ch. 512, § 412(a) (1st proviso), 61 Stat. 874; Oct. 12, 1949, ch. 681, § 522(a), 63 Stat. 835. |
-|  | 50 U.S.C. 1052(c) (2d sentence). | July 9, 1952, ch. 608, § 413(c) (2d sentence), 66 Stat. 500. |
+| 6483 | 34 U.S.C. 410n (1st proviso). | Aug. 7, 1947, ch. 512, § 412(a) (1st proviso), 61 Stat. 874; Oct. 12, 1949, ch. 681, § 522(a), 63 Stat. 835. |
+|  | 50 U.S.C. 1052(c) (2d sentence). | July 9, 1952, ch. 608, § 413(c) (2d sentence), 66 Stat. 500. |
 
 Subsection (a) states the general rule that a retired officer, when recalled to active duty, shall be recalled in the grade he holds on the retired list. The rule is derived, not from a specific provision of law, but from the fact that special legislative authority is required to recall a retired officer in any other grade.
 
-The desirability of including a positive statement of the rule is pointed up by the legislative history of the Act of February 21, 1946, ch. 34, § 8(a), 60 Stat. 28, amending the Act of July 24, 1941, ch. 320, § 10(d), 55 Stat. 605 (34 U.S.C. 350i(d)). The 1946 amendment states the rule, but only as to a limited class of retired personnel, namely persons temporarily appointed or promoted under the 1941 Act while on the retired list. The amendment provided that such persons, when released to inactive duty, should be given the highest grade in which they had served satisfactorily and, if subsequently recalled to active duty, should be recalled in the grade so accorded them. The legislative history shows that the bill (S. 1405, 79th Cong., 1st sess.), originally was written so as to provide that retired personnel should be recalled in their prior permanent grades or ratings instead of in the higher grades accorded them on the retired list while on inactive duty. When a member of the Naval Affairs Committee of the House of Representatives suggested an amendment to allow retired personnel to be recalled in the higher grades, the Navy spokesman pointed out that no law was required to permit this; in fact, retired personnel would be *required* to be recalled in the grades they hold on the retired list in the absence of any law to the contrary. Thus the result desired by the committee member could be achieved, simply by deleting the provision instead of amending it. After some discussion, however, it was decided to adopt the suggested amendment in order not to “leave things to inference” (H. Rept. No. 158, December 6, 1945, pp. 2290–2292).
+The desirability of including a positive statement of the rule is pointed up by the legislative history of the Act of February 21, 1946, ch. 34, § 8(a), 60 Stat. 28, amending the Act of July 24, 1941, ch. 320, § 10(d), 55 Stat. 605 (34 U.S.C. 350i(d)). The 1946 amendment states the rule, but only as to a limited class of retired personnel, namely persons temporarily appointed or promoted under the 1941 Act while on the retired list. The amendment provided that such persons, when released to inactive duty, should be given the highest grade in which they had served satisfactorily and, if subsequently recalled to active duty, should be recalled in the grade so accorded them. The legislative history shows that the bill (S. 1405, 79th Cong., 1st sess.), originally was written so as to provide that retired personnel should be recalled in their prior permanent grades or ratings instead of in the higher grades accorded them on the retired list while on inactive duty. When a member of the Naval Affairs Committee of the House of Representatives suggested an amendment to allow retired personnel to be recalled in the higher grades, the Navy spokesman pointed out that no law was required to permit this; in fact, retired personnel would be *required* to be recalled in the grades they hold on the retired list in the absence of any law to the contrary. Thus the result desired by the committee member could be achieved, simply by deleting the provision instead of amending it. After some discussion, however, it was decided to adopt the suggested amendment in order not to “leave things to inference” (H. Rept. No. 158, December 6, 1945, pp. 2290–2292).
 
-Section 412(a) of the Officer Personnel Act of 1947 (34 U.S.C. 410n) (codified, except for the first proviso, in § 6150 of this title), supplies a further reason why a positive statement of the rule is desirable. That section provides that an officer who has been specially commended for the performance of duty in actual combat shall, when retired, be placed on the retired list in the grade next higher than that in which serving at the time of retirement. The first proviso, codified in subsection (b) of this section, provided further that an officer advanced under § 412(a) to a flag or general officer grade could be recalled either in the advanced grade or in the grade from which advanced. The law was silent as to the grade in which other officers advanced under § 412(a) should be recalled. It was understood that they would be recalled in the advanced grade accorded them on the retired list, because there was no authority to recall them in any other grade. However, the Comptroller General raised a question as to their right to the pay of the higher grade when recalled. Although the final decision of the Comptroller General was in favor of the higher pay (30 Comp. Gen. 242, December 20, 1950), the fact that the question was raised indicates the confusion that results from leaving the rule to inference.
+Section 412(a) of the Officer Personnel Act of 1947 (34 U.S.C. 410n) (codified, except for the first proviso, in § 6150 of this title), supplies a further reason why a positive statement of the rule is desirable. That section provides that an officer who has been specially commended for the performance of duty in actual combat shall, when retired, be placed on the retired list in the grade next higher than that in which serving at the time of retirement. The first proviso, codified in subsection (b) of this section, provided further that an officer advanced under § 412(a) to a flag or general officer grade could be recalled either in the advanced grade or in the grade from which advanced. The law was silent as to the grade in which other officers advanced under § 412(a) should be recalled. It was understood that they would be recalled in the advanced grade accorded them on the retired list, because there was no authority to recall them in any other grade. However, the Comptroller General raised a question as to their right to the pay of the higher grade when recalled. Although the final decision of the Comptroller General was in favor of the higher pay (30 Comp. Gen. 242, December 20, 1950), the fact that the question was raised indicates the confusion that results from leaving the rule to inference.
 
 It appears that the rule was never in doubt until after the enactment of the two recent laws cited above, one applying the rule to a limited class, and one stating a discretionary exception without stating the rule itself. These two laws make it more difficult than it was formerly to derive the correct conclusion by inference alone.
 
@@ -86,11 +86,11 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
-## § 8384. Promotion of retired members to higher enlisted grades: retention of grade upon release from active duty
+## § 8384. Promotion of retired members to higher enlisted grades: retention of grade upon release from active duty
 
 When on active duty, retired enlisted members of the Navy or the Marine Corps are eligible for promotion to higher enlisted grades or ratings. When released from active duty, they shall, unless entitled to a higher grade under another provision of law, retain the grades or ratings they hold at the time of their release.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 417, § 6484, renumbered § 8384, Pub. L. 115–232, div. A, title VIII, § 807(b)(17), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 417, § 6484, renumbered § 8384, Pub. L. 115–232, div. A, title VIII, § 807(b)(17), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -100,7 +100,7 @@ When on active duty, retired enlisted members of the Navy or the Marine Corps ar
 
 The words “who has been ordered into active service since April 6, 1917” are omitted as executed. The words “to higher enlisted grades or ratings” are inserted for clarity. The eligibility of retired enlisted men for appointments to warrant and commissioned grades is covered by chapter 539 of this title where the requirements for these appointments are set forth. The words “unless entitled to a higher grade under another provision of law” are inserted to make it clear that retired enlisted members are not precluded by this section from obtaining the benefits of other provisions of law that may give a higher grade to them on their release from active duty.
 
-The provision relating to pay, allowances, and benefits is omitted because it was superseded by §§ 514 and 516 of the Career Compensation Act of 1949 (37 U.S.C. 314 and 316).
+The provision relating to pay, allowances, and benefits is omitted because it was superseded by §§ 514 and 516 of the Career Compensation Act of 1949 (37 U.S.C. 314 and 316).
 
 **Editorial Notes**
 
@@ -114,7 +114,7 @@ The provision relating to pay, allowances, and benefits is omitted because it wa
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8385. Members of the Fleet Reserve and Fleet Marine Corps Reserve: authority to recall
+## § 8385. Members of the Fleet Reserve and Fleet Marine Corps Reserve: authority to recall
 
 **(a)** A member of the Fleet Reserve or the Fleet Marine Corps Reserve may be ordered by competent authority to active duty without his consent—
 
@@ -126,19 +126,19 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)** In time of peace any member of the Fleet Reserve or the Fleet Marine Corps Reserve may be required to perform not more than two months’ active duty for training in each four-year period.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 417, § 6485; Pub. L. 95–79, title VIII, § 805, July 30, 1977, 91 Stat. 333; renumbered § 8385, Pub. L. 115–232, div. A, title VIII, § 807(b)(17), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 417, § 6485; Pub. L. 95–79, title VIII, § 805, July 30, 1977, 91 Stat. 333; renumbered § 8385, Pub. L. 115–232, div. A, title VIII, § 807(b)(17), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6485 | 34 U.S.C. 854d (1st 87 words of 2d proviso). | June 25, 1938, ch. 690, § 205 (1st 87 words of 2d proviso), 52 Stat. 1179; July 9, 1952, ch. 608, § 808, 66 Stat. 508. |
-|  | 34 U.S.C. 854e (less 2d through 5th provisos). | June 25, 1938, ch. 690, § 206 (less 2d through 5th provisos), 52 Stat. 1179; Apr. 25, 1940, ch. 153, 54 Stat. 162. |
-|  | 34 U.S.C. 854 (note). | July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505. |
+| 6485 | 34 U.S.C. 854d (1st 87 words of 2d proviso). | June 25, 1938, ch. 690, § 205 (1st 87 words of 2d proviso), 52 Stat. 1179; July 9, 1952, ch. 608, § 808, 66 Stat. 508. |
+|  | 34 U.S.C. 854e (less 2d through 5th provisos). | June 25, 1938, ch. 690, § 206 (less 2d through 5th provisos), 52 Stat. 1179; Apr. 25, 1940, ch. 153, 54 Stat. 162. |
+|  | 34 U.S.C. 854 (note). | July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505. |
 
-In subsection (a) the words “A member of the Fleet Reserve or the Fleet Marine Corps Reserve” are substituted for the words “That men so transferred to the Fleet Reserve \* \* \* or other provision of law” for clarity. It is clear from the legislative history of the Armed Forces Reserve Act of 1952 that the amendment to the second proviso of 34 U.S.C. 854d made by that Act was intended to cover all members of the Fleet Reserve and Fleet Marine Corps Reserve.
+In subsection (a) the words “A member of the Fleet Reserve or the Fleet Marine Corps Reserve” are substituted for the words “That men so transferred to the Fleet Reserve \* \* \* or other provision of law” for clarity. It is clear from the legislative history of the Armed Forces Reserve Act of 1952 that the amendment to the second proviso of 34 U.S.C. 854d made by that Act was intended to cover all members of the Fleet Reserve and Fleet Marine Corps Reserve.
 
-In subsection (b) the word “enlisted” is omitted as surplusage since only enlisted members may transfer to the Fleet Reserve and Fleet Marine Corps Reserve. The words “after 16 years’ or more service” are omitted as surplusage since all the members of the Fleet Reserve and Fleet Marine Corps Reserve are in that category. The words “If any member fails to report for the physical examination” are substituted for the words “upon failure \* \* \* of such member to report for inspection” to reflect the true meaning of the section. The words “Under such conditions as may be prescribed by the Secretary of the Navy” are omitted as unnecessary since the authority to order a forfeiture is entirely within the Secretary’s discretion.
+In subsection (b) the word “enlisted” is omitted as surplusage since only enlisted members may transfer to the Fleet Reserve and Fleet Marine Corps Reserve. The words “after 16 years’ or more service” are omitted as surplusage since all the members of the Fleet Reserve and Fleet Marine Corps Reserve are in that category. The words “If any member fails to report for the physical examination” are substituted for the words “upon failure \* \* \* of such member to report for inspection” to reflect the true meaning of the section. The words “Under such conditions as may be prescribed by the Secretary of the Navy” are omitted as unnecessary since the authority to order a forfeiture is entirely within the Secretary’s discretion.
 
 **Editorial Notes**
 
@@ -154,7 +154,7 @@ In subsection (b) the word “enlisted” is omitted as surplusage since only en
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8386. Members of the Fleet Reserve and Fleet Marine Corps Reserve: release from active duty
+## § 8386. Members of the Fleet Reserve and Fleet Marine Corps Reserve: release from active duty
 
 **(a)** Except as provided in subsection (b), the Secretary of the Navy may, at any time, release any member of the Fleet Reserve or the Fleet Marine Corps Reserve from active duty.
 
@@ -168,14 +168,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 This subsection does not apply during a period of demobilization or reduction in strength of the Navy or the Marine Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 417, § 6486; renumbered § 8386, Pub. L. 115–232, div. A, title VIII, § 807(b)(17), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 417, § 6486; renumbered § 8386, Pub. L. 115–232, div. A, title VIII, § 807(b)(17), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6486 | 34 U.S.C. 854d (3d proviso). | June 25, 1938, ch. 690, § 205 (3d proviso); added July 9, 1952, ch. 608, § 808, 66 Stat. 508. |
-|  | 34 U.S.C. 854 (note). | July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505. |
+| 6486 | 34 U.S.C. 854d (3d proviso). | June 25, 1938, ch. 690, § 205 (3d proviso); added July 9, 1952, ch. 608, § 808, 66 Stat. 508. |
+|  | 34 U.S.C. 854 (note). | July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505. |
 
 In subsection (a) the words “or active duty for training” are omitted as covered by the term “active duty” as used in this revised title.
 

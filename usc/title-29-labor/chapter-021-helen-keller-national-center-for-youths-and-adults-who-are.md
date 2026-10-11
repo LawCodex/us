@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 21—HELEN KELLER NATIONAL CENTER FOR YOUTHS AND ADULTS WHO ARE DEAF-BLIND
 
-## § 1901. Congressional findings
+## § 1901. Congressional findings
 
 The Congress finds that—
 
@@ -31,35 +31,35 @@ The Congress finds that—
 
 **(6)** it is in the national interest to continue to provide support for the Center, and it is a proper function of the Federal Government to be the primary source of such support.
 
-(Pub. L. 98–221, title II, § 202, Feb. 22, 1984, 98 Stat. 32; Pub. L. 102–569, title IX, §§ 901, 908(a), (c)(1), Oct. 29, 1992, 106 Stat. 4482, 4485, 4486.)
+(Pub. L. 98–221, title II, § 202, Feb. 22, 1984, 98 Stat. 32; Pub. L. 102–569, title IX, §§ 901, 908(a), (c)(1), Oct. 29, 1992, 106 Stat. 4482, 4485, 4486.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions for the establishment, operation, and funding of the Helen Keller National Center for Deaf-Blind Youths and Adults, similar to those comprising this chapter, were contained in section 777c of this title prior to the repeal of that section and the enactment of this chapter by Pub. L. 98–221. Prior thereto provisions similar to those comprising this chapter and authorizing appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for the establishment of the Helen Keller National Center for Deaf-Blind Youths and Adults were contained in former section 305 of Pub. L. 93–112, title III, Sept. 26, 1973, 87 Stat. 383, as amended by Pub. L. 93–516, title I, § 107, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 107, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 7, 11(b)(10), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 94–288, §§ 1, 2, May 21, 1976, 90 Stat. 520, which was classified to section 775 of this title. Section 109(1) of Pub. L. 95–602 redesignated former section 305 as section 313 of Pub. L. 93–112. Section 313 of Pub. L. 93–112, as amended generally by section 116(2) of Pub. L. 95–602, was classified to section 777c of this title.
+Provisions for the establishment, operation, and funding of the Helen Keller National Center for Deaf-Blind Youths and Adults, similar to those comprising this chapter, were contained in section 777c of this title prior to the repeal of that section and the enactment of this chapter by Pub. L. 98–221. Prior thereto provisions similar to those comprising this chapter and authorizing appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for the establishment of the Helen Keller National Center for Deaf-Blind Youths and Adults were contained in former section 305 of Pub. L. 93–112, title III, Sept. 26, 1973, 87 Stat. 383, as amended by Pub. L. 93–516, title I, § 107, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 107, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 7, 11(b)(10), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 94–288, §§ 1, 2, May 21, 1976, 90 Stat. 520, which was classified to section 775 of this title. Section 109(1) of Pub. L. 95–602 redesignated former section 305 as section 313 of Pub. L. 93–112. Section 313 of Pub. L. 93–112, as amended generally by section 116(2) of Pub. L. 95–602, was classified to section 777c of this title.
 
 Prior similar provisions were also contained in former section 42a of this title.
 
 **Amendments**
 
-1992—Par. (1). Pub. L. 102–569, § 908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
+1992—Par. (1). Pub. L. 102–569, § 908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
 
-Par. (2). Pub. L. 102–569, §§ 901(1), 908(a), inserted “, the rapidly increasing number of older persons many of whom are experiencing significant losses of both vision and hearing,” after “1960’s” and substituted “individuals who are deaf-blind” for “deaf-blind individuals” in two places.
+Par. (2). Pub. L. 102–569, §§ 901(1), 908(a), inserted “, the rapidly increasing number of older persons many of whom are experiencing significant losses of both vision and hearing,” after “1960’s” and substituted “individuals who are deaf-blind” for “deaf-blind individuals” in two places.
 
-Par. (3). Pub. L. 102–569, § 908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
+Par. (3). Pub. L. 102–569, § 908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
 
-Par. (4). Pub. L. 102–569, § 908(a), (c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” and “individuals who are deaf-blind” for “deaf-blind individuals”.
+Par. (4). Pub. L. 102–569, § 908(a), (c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” and “individuals who are deaf-blind” for “deaf-blind individuals”.
 
-Par. (5). Pub. L. 102–569, § 901(2), substituted “made a substantial investment” for “invested approximately $10,000,000”.
+Par. (5). Pub. L. 102–569, § 901(2), substituted “made a substantial investment” for “invested approximately $10,000,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–221, title II, § 201, Feb. 22, 1984, 98 Stat. 32, provided that: “This title [enacting this chapter, amending section 777 of this title, and repealing section 777c of this title] may be cited as the ‘Helen Keller National Center Act’.”
+Pub. L. 98–221, title II, § 201, Feb. 22, 1984, 98 Stat. 32, provided that: “This title [enacting this chapter, amending section 777 of this title, and repealing section 777c of this title] may be cited as the ‘Helen Keller National Center Act’.”
 
-## § 1902. Continued operation of Center
+## § 1902. Continued operation of Center
 
 **(a) Administration by Secretary of Education**
 
@@ -75,23 +75,23 @@ The Secretary of Education shall continue to administer and support the Helen Ke
 
 **(4)** conduct applied research, development programs, and demonstrations with respect to communication techniques, teaching methods, aids and devices, and delivery of services.
 
-(Pub. L. 98–221, title II, § 203, Feb. 22, 1984, 98 Stat. 33; Pub. L. 102–569, title IX, §§ 902, 908, Oct. 29, 1992, 106 Stat. 4482, 4485.)
+(Pub. L. 98–221, title II, § 203, Feb. 22, 1984, 98 Stat. 33; Pub. L. 102–569, title IX, §§ 902, 908, Oct. 29, 1992, 106 Stat. 4482, 4485.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 32, which is classified generally to this chapter (§ 1901 et seq.). For complete classification of this title to the Code, see Short Title note set out under section 1901 of this title and Tables. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 701 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 32, which is classified generally to this chapter (§ 1901 et seq.). For complete classification of this title to the Code, see Short Title note set out under section 1901 of this title and Tables. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 701 of this title and Tables.
 
 **Amendments**
 
-1992—Pub. L. 102–569, § 908(c)(2), amended section catchline.
+1992—Pub. L. 102–569, § 908(c)(2), amended section catchline.
 
-Subsec. (a). Pub. L. 102–569, §§ 902(1)–(3), 908(c)(1), redesignated subsec. (b) as (a), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults”, “prior to February 22, 1984” for “pursuant to section 313 of the Rehabilitation Act of 1973”, and “subsection (b)” for “subsection (c)”, and struck out former subsec. (a) which repealed section 777c of this title.
+Subsec. (a). Pub. L. 102–569, §§ 902(1)–(3), 908(c)(1), redesignated subsec. (b) as (a), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults”, “prior to February 22, 1984” for “pursuant to section 313 of the Rehabilitation Act of 1973”, and “subsection (b)” for “subsection (c)”, and struck out former subsec. (a) which repealed section 777c of this title.
 
-Subsecs. (b), (c). Pub. L. 102–569, §§ 902(2), (4), 908(a), (b), redesignated subsec. (c) as (b), substituted “individual who is deaf-blind” for “deaf-blind individual” in par. (1), added par. (2), redesignated former par. (2) as (3) and substituted “individuals who are deaf-blind” for “deaf-blind individuals”, and redesignated former par. (3) as (4). Former subsec. (b) redesignated (a).
+Subsecs. (b), (c). Pub. L. 102–569, §§ 902(2), (4), 908(a), (b), redesignated subsec. (c) as (b), substituted “individual who is deaf-blind” for “deaf-blind individual” in par. (1), added par. (2), redesignated former par. (2) as (3) and substituted “individuals who are deaf-blind” for “deaf-blind individuals”, and redesignated former par. (3) as (4). Former subsec. (b) redesignated (a).
 
-## § 1903. Audit; monitoring and evaluation
+## § 1903. Audit; monitoring and evaluation
 
 **(a)** The books and accounts of the Center shall be audited annually by an independent auditor in the manner prescribed by the Secretary and a report on each such audit shall be submitted by the auditor to the Secretary within 15 days following the completion of the audit and acceptance of the audit by the Center.
 
@@ -101,7 +101,7 @@ Subsecs. (b), (c). Pub. L. 102–569, §§ 902(2), (4), 908(a), (b), redesigna
 
 **(2)** The Secretary shall, in addition to the regular monitoring required under paragraph (1), conduct an evaluation of the operation of the Center at the end of each fiscal year. A written report of such evaluation shall be submitted to the President, the Clerk of the House of Representatives, and the Secretary of the Senate within one hundred and eighty days after the end of the fiscal year for which such evaluation was conducted. The first such report shall be submitted for fiscal year 1983.
 
-(Pub. L. 98–221, title II, § 204, Feb. 22, 1984, 98 Stat. 33; Pub. L. 102–569, title IX, § 903, Oct. 29, 1992, 106 Stat. 4482.)
+(Pub. L. 98–221, title II, § 204, Feb. 22, 1984, 98 Stat. 33; Pub. L. 102–569, title IX, § 903, Oct. 29, 1992, 106 Stat. 4482.)
 
 **Editorial Notes**
 
@@ -115,13 +115,13 @@ Subsecs. (b), (c). Pub. L. 102–569, §§ 902(2), (4), 908(a), (b), redesigna
 
 For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to submitting a written report to the Clerk of the House of Representatives and the Secretary of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 81 of House Document No. 103–7.
 
-## § 1904. Authorization of appropriations
+## § 1904. Authorization of appropriations
 
 **(a)** There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
 
 **(b)** Any appropriation Act containing any appropriation authorized by subsection (a) shall contain a statement of the specific amount being made available to the Center.
 
-(Pub. L. 98–221, title II, § 205, Feb. 22, 1984, 98 Stat. 33; Pub. L. 99–506, title IX, § 901, Oct. 21, 1986, 100 Stat. 1840; Pub. L. 100–630, title V, § 501, Nov. 7, 1988, 102 Stat. 3317; Pub. L. 102–52, § 9(a), June 6, 1991, 105 Stat. 263; Pub. L. 102–569, title IX, § 904, Oct. 29, 1992, 106 Stat. 4482; Pub. L. 105–220, title IV, § 412(a), Aug. 7, 1998, 112 Stat. 1241.)
+(Pub. L. 98–221, title II, § 205, Feb. 22, 1984, 98 Stat. 33; Pub. L. 99–506, title IX, § 901, Oct. 21, 1986, 100 Stat. 1840; Pub. L. 100–630, title V, § 501, Nov. 7, 1988, 102 Stat. 3317; Pub. L. 102–52, § 9(a), June 6, 1991, 105 Stat. 263; Pub. L. 102–569, title IX, § 904, Oct. 29, 1992, 106 Stat. 4482; Pub. L. 105–220, title IV, § 412(a), Aug. 7, 1998, 112 Stat. 1241.)
 
 **Editorial Notes**
 
@@ -137,7 +137,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this
 
 1986—Subsec. (a). Pub. L. 99–506 amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated $4,000,000 for the fiscal year 1984, $4,200,000 for the fiscal year 1985, and $4,300,000 for the fiscal year 1986 to carry out the provisions of this chapter.”
 
-## § 1905. Definitions
+## § 1905. Definitions
 
 For purposes of this chapter—
 
@@ -159,21 +159,21 @@ For purposes of this chapter—
 
 **(3)** the term “Secretary” means the Secretary of Education.
 
-(Pub. L. 98–221, title II, § 206, Feb. 22, 1984, 98 Stat. 34; Pub. L. 102–569, title IX, §§ 905, 908(c)(1), Oct. 29, 1992, 106 Stat. 4482, 4486.)
+(Pub. L. 98–221, title II, § 206, Feb. 22, 1984, 98 Stat. 34; Pub. L. 102–569, title IX, §§ 905, 908(c)(1), Oct. 29, 1992, 106 Stat. 4482, 4486.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Par. (1). Pub. L. 102–569, §§ 905(1), 908(c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” in two places and struck out “section 313 of the Rehabilitation Act of 1973 and continued under” after “operated pursuant to”.
+1992—Par. (1). Pub. L. 102–569, §§ 905(1), 908(c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” in two places and struck out “section 313 of the Rehabilitation Act of 1973 and continued under” after “operated pursuant to”.
 
-Par. (2). Pub. L. 102–569, § 905(2), amended par. (2) generally, substituting present provisions for provisions defining “deaf-blind individual”.
+Par. (2). Pub. L. 102–569, § 905(2), amended par. (2) generally, substituting present provisions for provisions defining “deaf-blind individual”.
 
-## § 1906. Construction; effect on agreements
+## § 1906. Construction; effect on agreements
 
 This chapter shall not be construed as modifying or affecting any agreement between the Department of Education or any other department or agency of the United States and the Helen Keller Services for the Blind, Incorporated, or any successor to or assignee of such corporation, with respect to the Center.
 
-(Pub. L. 98–221, title II, § 207, Feb. 22, 1984, 98 Stat. 34; Pub. L. 102–569, title IX, § 906, Oct. 29, 1992, 106 Stat. 4483.)
+(Pub. L. 98–221, title II, § 207, Feb. 22, 1984, 98 Stat. 34; Pub. L. 102–569, title IX, § 906, Oct. 29, 1992, 106 Stat. 4483.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ This chapter shall not be construed as modifying or affecting any agreement betw
 
 1992—Pub. L. 102–569 substituted “Helen Keller Services for the Blind, Incorporated” for “Industrial Home for the Blind, Incorporated”.
 
-## § 1907. Helen Keller National Center Federal Endowment Fund
+## § 1907. Helen Keller National Center Federal Endowment Fund
 
 **(a) Establishment**
 
@@ -297,7 +297,7 @@ The term “Endowment Fund income” means an amount equal to the total market v
 
 There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
 
-(Pub. L. 98–221, title II, § 208, as added Pub. L. 102–569, title IX, § 907, Oct. 29, 1992, 106 Stat. 4483; amended Pub. L. 105–220, title IV, § 412(b), Aug. 7, 1998, 112 Stat. 1241.)
+(Pub. L. 98–221, title II, § 208, as added Pub. L. 102–569, title IX, § 907, Oct. 29, 1992, 106 Stat. 4483; amended Pub. L. 105–220, title IV, § 412(b), Aug. 7, 1998, 112 Stat. 1241.)
 
 **Editorial Notes**
 
@@ -305,7 +305,7 @@ There are authorized to be appropriated to carry out this section, such sums as 
 
 1998—Subsec. (h). Pub. L. 105–220 substituted “1999 through 2003” for “1993 through 1997”.
 
-## § 1908. Registry
+## § 1908. Registry
 
 **(a) In general**
 
@@ -327,4 +327,4 @@ The requirements of section 552a of title 5 (commonly known as the “Privacy Ac
 
 On the request of an individual, the Center shall remove all information relating to the individual from any registry established under subsection (a).
 
-(Pub. L. 98–221, title II, § 209, as added Pub. L. 105–220, title IV, § 412(c), Aug. 7, 1998, 112 Stat. 1241.)
+(Pub. L. 98–221, title II, § 209, as added Pub. L. 105–220, title IV, § 412(c), Aug. 7, 1998, 112 Stat. 1241.)

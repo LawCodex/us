@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 301 “MAJOR DEFENSE ACQUISITION PROGRAMS”, consisting of reserved section 4001, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
+A prior chapter 301 “MAJOR DEFENSE ACQUISITION PROGRAMS”, consisting of reserved section 4001, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
 
 A prior chapter 301 was renumbered chapter 701 of this title.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title II, § 214(b), title XVII, § 1701(e)(4)(B), Dec. 27, 2021, 135 Stat. 1591, 2139, added items 4010 and 4027.
+2021—Pub. L. 117–81, div. A, title II, § 214(b), title XVII, § 1701(e)(4)(B), Dec. 27, 2021, 135 Stat. 1591, 2139, added items 4010 and 4027.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(A), Dec. 27, 2021, 135 Stat. 2150, amended Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(B), Jan. 1, 2021, 134 Stat. 4242, which added this analysis, by adding item for subchapter I, by substituting “[Reserved]” for “Research projects: transactions other than contracts and grants” in item 4002 and for “Authority of the Department of Defense to carry out certain prototype projects” in item 4003, by substituting “Contract authority for development and demonstration of initial or additional prototype units” for “Procurement for experimental purposes” in item 4004, by substituting “[Reserved]” for “Merit-based award of grants for research and development” in item 4008 and for “Technology protection features activities” in item 4009, by striking out item 4015 “Award of grants and contracts to colleges and universities: requirement of competition”, and by adding item for subchapter II and items 4021 to 4026.
+Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(A), Dec. 27, 2021, 135 Stat. 2150, amended Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(B), Jan. 1, 2021, 134 Stat. 4242, which added this analysis, by adding item for subchapter I, by substituting “[Reserved]” for “Research projects: transactions other than contracts and grants” in item 4002 and for “Authority of the Department of Defense to carry out certain prototype projects” in item 4003, by substituting “Contract authority for development and demonstration of initial or additional prototype units” for “Procurement for experimental purposes” in item 4004, by substituting “[Reserved]” for “Merit-based award of grants for research and development” in item 4008 and for “Technology protection features activities” in item 4009, by striking out item 4015 “Award of grants and contracts to colleges and universities: requirement of competition”, and by adding item for subchapter II and items 4021 to 4026.
 
 ## SUBCHAPTER I—GENERAL
 
@@ -35,9 +35,9 @@ Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(A), Dec. 27, 2021, 135 Sta
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title XVIII, § 1841(c)(1), as added by Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D), Dec. 27, 2021, 135 Stat. 2151, added subchapter heading. Heading was editorially conformed to the style used in this title.
+2021—Pub. L. 116–283, div. A, title XVIII, § 1841(c)(1), as added by Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D), Dec. 27, 2021, 135 Stat. 2151, added subchapter heading. Heading was editorially conformed to the style used in this title.
 
-### § 4001. Research and development projects
+### § 4001. Research and development projects
 
 **(a) Authority.—** The Secretary of Defense or the Secretary of a military department may engage in basic research, applied research, advanced research, and development projects that—
 
@@ -67,7 +67,7 @@ Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(A), Dec. 27, 2021, 135 Sta
 
 **(d) Additional Provisions Applicable to Cooperative Agreements.—** Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in sections 4021 and 4026 of this title.
 
-(Added Pub. L. 87–651, title II, § 208(a), Sept. 7, 1962, 76 Stat. 523, § 2358; amended Pub. L. 97–86, title IX, § 910, Dec. 1, 1981, 95 Stat. 1120; Pub. L. 100–370, § 1(g)(3), July 19, 1988, 102 Stat. 846; Pub. L. 103–160, div. A, title VIII, § 827(a), Nov. 30, 1993, 107 Stat. 1712; Pub. L. 103–355, title I, § 1301(a), Oct. 13, 1994, 108 Stat. 3284; Pub. L. 104–201, div. A, title II, § 267(c)(2), Sept. 23, 1996, 110 Stat. 2468; Pub. L. 115–91, div. A, title VIII, § 862, Dec. 12, 2017, 131 Stat. 1494; renumbered § 4001 and amended Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (C), (F)(i)(I), (II), Dec. 27, 2021, 135 Stat. 2151.)
+(Added Pub. L. 87–651, title II, § 208(a), Sept. 7, 1962, 76 Stat. 523, § 2358; amended Pub. L. 97–86, title IX, § 910, Dec. 1, 1981, 95 Stat. 1120; Pub. L. 100–370, § 1(g)(3), July 19, 1988, 102 Stat. 846; Pub. L. 103–160, div. A, title VIII, § 827(a), Nov. 30, 1993, 107 Stat. 1712; Pub. L. 103–355, title I, § 1301(a), Oct. 13, 1994, 108 Stat. 3284; Pub. L. 104–201, div. A, title II, § 267(c)(2), Sept. 23, 1996, 110 Stat. 2468; Pub. L. 115–91, div. A, title VIII, § 862, Dec. 12, 2017, 131 Stat. 1494; renumbered § 4001 and amended Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (C), (F)(i)(I), (II), Dec. 27, 2021, 135 Stat. 2151.)
 
 **Historical and Revision Notes**
 
@@ -75,7 +75,7 @@ Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(A), Dec. 27, 2021, 135 Sta
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2358 | 5:171c(b)(2), (3). | July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–599, § 9(a) (3d and 4th pars.), 72 Stat. 520. |
+| 2358 | 5:171c(b)(2), (3). | July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–599, § 9(a) (3d and 4th pars.), 72 Stat. 520. |
 
 5 U.S.C. 171c(b)(3) is omitted as unnecessary since the authorization for appropriations is implied in 5 U.S.C. 171c(b)(2).
 
@@ -83,19 +83,19 @@ Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(A), Dec. 27, 2021, 135 Sta
 
 In the existing text of 10 U.S.C. 2358, the bill would in two instances strike the phrase “or his designee” appearing after “Secretary of Defense” (section 1(g)(3)). The change is made for consistency in the Code, and no substantive change is intended. The committee notes that the Secretary of Defense has general authority to delegate functions under 10 U.S.C. 113(d).
 
-Subsection (b) is based on Pub. L. 91–441, title II, § 204, Oct. 7, 1970, 84 Stat. 908.
+Subsection (b) is based on Pub. L. 91–441, title II, § 204, Oct. 7, 1970, 84 Stat. 908.
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2358 of this title as this section.
+2021—Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2358 of this title as this section.
 
-Subsec. (b)(5). Pub. L. 116–283, § 1841(b)(2)(A)(i), as amended by Pub. L. 117–81, § 1701(u)(2)(C), substituted “section 4021 or 4022” for “section 2371 or 2371b”.
+Subsec. (b)(5). Pub. L. 116–283, § 1841(b)(2)(A)(i), as amended by Pub. L. 117–81, § 1701(u)(2)(C), substituted “section 4021 or 4022” for “section 2371 or 2371b”.
 
-Subsec. (b)(6). Pub. L. 116–283, § 1841(b)(2)(A)(ii), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(I), substituted “section 4023” for “section 2373”.
+Subsec. (b)(6). Pub. L. 116–283, § 1841(b)(2)(A)(ii), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(I), substituted “section 4023” for “section 2373”.
 
-Subsec. (d). Pub. L. 116–283, § 1841(b)(2)(A)(iii), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(II), substituted “sections 4021 and 4026” for “sections 2371 and 2371a”.
+Subsec. (d). Pub. L. 116–283, § 1841(b)(2)(A)(iii), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(II), substituted “sections 4021 and 4026” for “sections 2371 and 2371a”.
 
 2017—Subsec. (b)(5), (6). Pub. L. 115–91 added pars. (5) and (6).
 
@@ -123,7 +123,7 @@ Subsec. (d). Pub. L. 116–283, § 1841(b)(2)(A)(iii), as amended by Pub. L. 1
 
 **Change of Name**
 
-Pub. L. 115–91, div. A, title II, § 214(a), Dec. 12, 2017, 131 Stat. 1325, provided that: “The joint technology office on hypersonics in the Office of the Secretary of Defense is redesignated as the ‘Joint Hypersonics Transition Office’. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to the joint technology office on hypersonics shall be deemed to be a reference to the Joint Hypersonics Transition Office.”
+Pub. L. 115–91, div. A, title II, § 214(a), Dec. 12, 2017, 131 Stat. 1325, provided that: “The joint technology office on hypersonics in the Office of the Secretary of Defense is redesignated as the ‘Joint Hypersonics Transition Office’. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to the joint technology office on hypersonics shall be deemed to be a reference to the Joint Hypersonics Transition Office.”
 
 **Effective Date of 2021 Amendment**
 
@@ -137,7 +137,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 **Demonstration of Near Real-Time Monitoring Capabilities To Enhance Weapon System Platforms**
 
-Pub. L. 119–60, div. A, title II, § 228, Dec. 18, 2025, 139 Stat. 786, provided that:
+Pub. L. 119–60, div. A, title II, § 228, Dec. 18, 2025, 139 Stat. 786, provided that:
 
 > **“(a) Demonstration.—** Subject to the availability of appropriations, the Secretary of Defense, in coordination with the Under Secretary of Defense for Acquisition and Sustainment and the service acquisition executives, shall carry out a demonstration to equip selected weapon system platforms with onboard, near real-time, end-to-end serial bus and radio frequency monitoring capabilities to detect cyber threats and improve maintenance efficiency.
 
@@ -179,7 +179,7 @@ Pub. L. 119–60, div. A, title II, § 228, Dec. 18, 2025, 139 Stat. 786, prov
 
 **Biotechnology Management Office**
 
-Pub. L. 119–60, div. A, title II, § 242, Dec. 18, 2025, 139 Stat. 790, provided that:
+Pub. L. 119–60, div. A, title II, § 242, Dec. 18, 2025, 139 Stat. 790, provided that:
 
 > **“(a) Designation of Senior Official.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall designate a senior official, with relevant biotechnology experience, from a position within the Department of Defense that was in effect on the day before the date of the enactment of this Act, to—
 
@@ -215,7 +215,7 @@ Pub. L. 119–60, div. A, title II, § 242, Dec. 18, 2025, 139 Stat. 790, prov
 
 **Biotechnology Supply Chain Resiliency Program**
 
-Pub. L. 119–60, div. A, title II, § 244, Dec. 18, 2025, 139 Stat. 793, provided that:
+Pub. L. 119–60, div. A, title II, § 244, Dec. 18, 2025, 139 Stat. 793, provided that:
 
 > **“(a) Authorization.—**
 
@@ -291,7 +291,7 @@ Pub. L. 119–60, div. A, title II, § 244, Dec. 18, 2025, 139 Stat. 793, prov
 
 **Ethical and Responsible Development and Deployment of Biotechnology Within the Department of Defense**
 
-Pub. L. 119–60, div. A, title II, § 247, Dec. 18, 2025, 139 Stat. 798, provided that:
+Pub. L. 119–60, div. A, title II, § 247, Dec. 18, 2025, 139 Stat. 798, provided that:
 
 > **“(a) Requirement.—**
 
@@ -339,7 +339,7 @@ Pub. L. 119–60, div. A, title II, § 247, Dec. 18, 2025, 139 Stat. 798, prov
 
 **Prohibition on Painful Research on Domestic Cats and Dogs**
 
-Pub. L. 119–60, div. A, title VII, § 732, Dec. 18, 2025, 139 Stat. 932, provided that:
+Pub. L. 119–60, div. A, title VII, § 732, Dec. 18, 2025, 139 Stat. 932, provided that:
 
 > **“(a) Prohibition.—** Except as provided by subsection (b) or (c), the Secretary of Defense may not conduct, or support the conduct of, painful research on a domestic cat (*Felis catus*) or a domestic dog (*Canis familiaris*).
 
@@ -373,7 +373,7 @@ Pub. L. 119–60, div. A, title VII, § 732, Dec. 18, 2025, 139 Stat. 932, pro
 
 **Special Operations Command Urgent Innovative Technologies and Capabilities Initiative**
 
-Pub. L. 119–60, div. A, title VIII, § 863, Dec. 18, 2025, 139 Stat. 989, provided that:
+Pub. L. 119–60, div. A, title VIII, § 863, Dec. 18, 2025, 139 Stat. 989, provided that:
 
 > **“(a) Establishment.—** The Commander of the United States Special Operations Command shall carry out a pilot program, subject to the authority, direction, and control of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, to be known as the ‘USSOCOM Urgent Innovative Technologies and Capabilities Initiative’ (in this section referred to as the ‘Initiative’) to accelerate the research, development, testing, procurement, and initial sustainment of innovative technologies and equipment that enhance the operational capabilities of Special Operations Forces to meet emerging mission requirements.
 
@@ -403,7 +403,7 @@ Pub. L. 119–60, div. A, title VIII, § 863, Dec. 18, 2025, 139 Stat. 989, pr
 
 **Artificial Intelligence Model Assessment and Oversight**
 
-Pub. L. 119–60, div. A, title XV, § 1533, Dec. 18, 2025, 139 Stat. 1159, provided that:
+Pub. L. 119–60, div. A, title XV, § 1533, Dec. 18, 2025, 139 Stat. 1159, provided that:
 
 > **“(a) Cross-functional Team for Artificial Intelligence Model Assessment and Oversight.—**
 
@@ -537,7 +537,7 @@ Pub. L. 119–60, div. A, title XV, § 1533, Dec. 18, 2025, 139 Stat. 1159, pr
 
 **National Defense Economic Competition Research Council**
 
-Pub. L. 118–159, div. A, title II, § 228, Dec. 23, 2024, 138 Stat. 1832, provided that:
+Pub. L. 118–159, div. A, title II, § 228, Dec. 23, 2024, 138 Stat. 1832, provided that:
 
 > **“(a) Establishment of Council.—**
 
@@ -599,7 +599,7 @@ Pub. L. 118–159, div. A, title II, § 228, Dec. 23, 2024, 138 Stat. 1832, pr
 
 **Quantum Benchmarking Initiative**
 
-Pub. L. 118–159, div. A, title II, § 231(a), (b), Dec. 23, 2024, 138 Stat. 1837, provided that:
+Pub. L. 118–159, div. A, title II, § 231(a), (b), Dec. 23, 2024, 138 Stat. 1837, provided that:
 
 > **“(a) Initiative Required.—**
 
@@ -621,7 +621,7 @@ Pub. L. 118–159, div. A, title II, § 231(a), (b), Dec. 23, 2024, 138 Stat. 
 
 **Electromagnetic Spectrum Demonstration Program**
 
-Pub. L. 118–159, div. A, title II, § 234, Dec. 23, 2024, 138 Stat. 1839, provided that:
+Pub. L. 118–159, div. A, title II, § 234, Dec. 23, 2024, 138 Stat. 1839, provided that:
 
 > **“(a) In General.—** Not later than November 30, 2025, the Chief Information Officer of the Department of Defense, in coordination with the Under Secretary of Defense for Research and Engineering and the Director of Operational Test and Evaluation, shall complete a demonstration program to assess the viability of using wideband adaptive signal processing technology to support simultaneous transmit and receive signals on the same electromagnetic spectrum frequency band that—
 
@@ -659,7 +659,7 @@ Pub. L. 118–159, div. A, title II, § 234, Dec. 23, 2024, 138 Stat. 1839, pr
 
 > **“(g) Briefing on Completed Program.—** Upon completion of the demonstration program required by subsection (a), the Chief Information Officer, the Under Secretary, and the Director shall jointly provide the congressional defense committees a briefing on their findings with respect to the demonstration program.”
 
-Pub. L. 118–159, div. A, title II, § 236, Dec. 23, 2024, 138 Stat. 1840, provided that:
+Pub. L. 118–159, div. A, title II, § 236, Dec. 23, 2024, 138 Stat. 1840, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Defense shall carry out a pilot program to develop near-term use cases and demonstrations of artificial intelligence for national security-related biotechnology applications.
 
@@ -721,7 +721,7 @@ Pub. L. 118–159, div. A, title II, § 236, Dec. 23, 2024, 138 Stat. 1840, pr
 
 **Biotechnology Roadmap**
 
-Pub. L. 118–159, div. A, title II, § 242, Dec. 23, 2024, 138 Stat. 1845, provided that:
+Pub. L. 118–159, div. A, title II, § 242, Dec. 23, 2024, 138 Stat. 1845, provided that:
 
 > **“(a) Roadmap Required.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense, in coordination with the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Secretaries of the military departments, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a biotechnology roadmap.
 
@@ -815,7 +815,7 @@ Pub. L. 118–159, div. A, title II, § 242, Dec. 23, 2024, 138 Stat. 1845, pr
 
 **Artificial Intelligence Human Factors Integration Initiative**
 
-Pub. L. 118–159, div. A, title XV, § 1531, Dec. 23, 2024, 138 Stat. 2142, provided that:
+Pub. L. 118–159, div. A, title XV, § 1531, Dec. 23, 2024, 138 Stat. 2142, provided that:
 
 > **“(a) Initiative Required.—**
 
@@ -849,7 +849,7 @@ Pub. L. 118–159, div. A, title XV, § 1531, Dec. 23, 2024, 138 Stat. 2142, p
 
 **Advanced Computing Infrastructure To Enable Advanced Artificial Intelligence Capabilities**
 
-Pub. L. 118–159, div. A, title XV, § 1532, Dec. 23, 2024, 138 Stat. 2144, as amended by Pub. L. 119–60, div. A, title XV, § 1531, Dec. 18, 2025, 139 Stat. 1156, provided that:
+Pub. L. 118–159, div. A, title XV, § 1532, Dec. 23, 2024, 138 Stat. 2144, as amended by Pub. L. 119–60, div. A, title XV, § 1531, Dec. 18, 2025, 139 Stat. 1156, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish a program, or designate an existing program, to meet the testing and processing requirements for next generation advanced artificial intelligence capabilities.
 
@@ -907,7 +907,7 @@ Pub. L. 118–159, div. A, title XV, § 1532, Dec. 23, 2024, 138 Stat. 2144, a
 
 **Policies for Management and Certification of Link 16 Military Tactical Data Link Network**
 
-Pub. L. 118–31, div. A, title II, § 228, Dec. 22, 2023, 137 Stat. 199, as amended by Pub. L. 119–60, div. A, title II, § 216, Dec. 18, 2025, 139 Stat. 775, provided that:
+Pub. L. 118–31, div. A, title II, § 228, Dec. 22, 2023, 137 Stat. 199, as amended by Pub. L. 119–60, div. A, title II, § 216, Dec. 18, 2025, 139 Stat. 775, provided that:
 
 > **“(a) Policies Required.—** The Secretary of Defense shall develop and implement policies to adapt Link 16 system management and certification to align with agile development practices.
 
@@ -945,7 +945,7 @@ Pub. L. 118–31, div. A, title II, § 228, Dec. 22, 2023, 137 Stat. 199, as a
 
 **Pilot Program on Near-Term Quantum Computing Applications**
 
-Pub. L. 118–31, div. A, title II, § 231, Dec. 22, 2023, 137 Stat. 203, provided that:
+Pub. L. 118–31, div. A, title II, § 231, Dec. 22, 2023, 137 Stat. 203, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of Defense may carry out a pilot program under which the Secretary, in partnership with the entities specified in subsection (b), establishes and operates a program that enables organizations of the Department of Defense, including the Armed Forces, to test and evaluate how quantum and quantum-hybrid applications may be used—
 
@@ -1009,7 +1009,7 @@ Pub. L. 118–31, div. A, title II, § 231, Dec. 22, 2023, 137 Stat. 203, prov
 
 **Pilot Program on Optimization of Aerial Refueling and Fuel Management in Contested Logistics Environments Through Use of Artificial Intelligence**
 
-Pub. L. 118–31, div. A, title III, § 346, Dec. 22, 2023, 137 Stat. 226, provided that:
+Pub. L. 118–31, div. A, title III, § 346, Dec. 22, 2023, 137 Stat. 226, provided that:
 
 > **“(a) Design of Pilot Program.—**
 
@@ -1047,11 +1047,11 @@ Pub. L. 118–31, div. A, title III, § 346, Dec. 22, 2023, 137 Stat. 226, pro
 
 **Control and Management of Department of Defense Data**
 
-Pub. L. 118–31, div. A, title XV, § 1521(a), Dec. 22, 2023, 137 Stat. 551, provided that: “The Chief Digital and Artificial Intelligence Officer of the Department of Defense may access and control, on behalf of the Secretary of Defense, any data collected, acquired, accessed, or used by a component (as such term is defined in section 1513 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4001 note)), consistent with such section.”
+Pub. L. 118–31, div. A, title XV, § 1521(a), Dec. 22, 2023, 137 Stat. 551, provided that: “The Chief Digital and Artificial Intelligence Officer of the Department of Defense may access and control, on behalf of the Secretary of Defense, any data collected, acquired, accessed, or used by a component (as such term is defined in section 1513 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4001 note)), consistent with such section.”
 
 **Artificial Intelligence Bug Bounty Programs**
 
-Pub. L. 118–31, div. A, title XV, § 1542, Dec. 22, 2023, 137 Stat. 573, provided that:
+Pub. L. 118–31, div. A, title XV, § 1542, Dec. 22, 2023, 137 Stat. 573, provided that:
 
 > **“(a) Program for Foundational Artificial Intelligence Products Being Integrated Within Department of Defense.—**
 
@@ -1079,7 +1079,7 @@ Pub. L. 118–31, div. A, title XV, § 1542, Dec. 22, 2023, 137 Stat. 573, pro
 
 **Plans, Strategies, and Other Matters Relating to Artificial Intelligence**
 
-Pub. L. 118–31, div. A, title XV, § 1544, Dec. 22, 2023, 137 Stat. 574, provided that:
+Pub. L. 118–31, div. A, title XV, § 1544, Dec. 22, 2023, 137 Stat. 574, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in consultation with the Deputy Secretary of Defense, shall—
 
@@ -1161,7 +1161,7 @@ Pub. L. 118–31, div. A, title XV, § 1544, Dec. 22, 2023, 137 Stat. 574, pro
 
 **Pilot Program To Facilitate the Development of Battery Technologies for Warfighters**
 
-Pub. L. 117–263, div. A, title II, § 225, Dec. 23, 2022, 136 Stat. 2484, provided that:
+Pub. L. 117–263, div. A, title II, § 225, Dec. 23, 2022, 136 Stat. 2484, provided that:
 
 > **“(a) Establishment.—**
 
@@ -1245,7 +1245,7 @@ Pub. L. 117–263, div. A, title II, § 225, Dec. 23, 2022, 136 Stat. 2484, pr
 
 **Plan for Investments To Support the Development of Novel Processing Approaches for Defense Applications**
 
-Pub. L. 117–263, div. A, title II, § 233, Dec. 23, 2022, 136 Stat. 2486, provided that:
+Pub. L. 117–263, div. A, title II, § 233, Dec. 23, 2022, 136 Stat. 2486, provided that:
 
 > **“(a) Investment Plans Required.—** Not later than November 1, 2023, and not less frequently than once every three years thereafter until December 31, 2035, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for making investments to support the development of novel processing approaches for defense applications.
 
@@ -1281,7 +1281,7 @@ Pub. L. 117–263, div. A, title II, § 233, Dec. 23, 2022, 136 Stat. 2486, pr
 
 **Strategy and Plan for Fostering and Strengthening the Defense Innovation Ecosystem**
 
-Pub. L. 117–263, div. A, title II, § 236, Dec. 23, 2022, 136 Stat. 2490, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2871(c)(3), Dec. 23, 2024, 138 Stat. 2281, provided that:
+Pub. L. 117–263, div. A, title II, § 236, Dec. 23, 2022, 136 Stat. 2490, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2871(c)(3), Dec. 23, 2024, 138 Stat. 2281, provided that:
 
 > **“(a) Strategy and Implementation Plan Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall develop—
 
@@ -1349,7 +1349,7 @@ Pub. L. 117–263, div. A, title II, § 236, Dec. 23, 2022, 136 Stat. 2490, as
 
 **Establishing Projects for Data Management, Artificial Intelligence, and Digital Solutions**
 
-Pub. L. 117–263, div. A, title XV, § 1513, Dec. 23, 2022, 136 Stat. 2894, provided that:
+Pub. L. 117–263, div. A, title XV, § 1513, Dec. 23, 2022, 136 Stat. 2894, provided that:
 
 > **“(a) Establishment of Priority Projects.—** The Deputy Secretary of Defense shall—
 
@@ -1383,7 +1383,7 @@ Pub. L. 117–263, div. A, title XV, § 1513, Dec. 23, 2022, 136 Stat. 2894, p
 
 **Review of Artificial Intelligence Applications and Establishment of Performance Metrics**
 
-Pub. L. 117–81, div. A, title II, § 226, Dec. 27, 2021, 135 Stat. 1607, as amended by Pub. L. 117–263, div. A, title II, § 212(b), Dec. 23, 2022, 136 Stat. 2467, provided that:
+Pub. L. 117–81, div. A, title II, § 226, Dec. 27, 2021, 135 Stat. 1607, as amended by Pub. L. 117–263, div. A, title II, § 212(b), Dec. 23, 2022, 136 Stat. 2467, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall—
 
@@ -1453,7 +1453,7 @@ Pub. L. 117–81, div. A, title II, § 226, Dec. 27, 2021, 135 Stat. 1607, as 
 
 **Modification of the Joint Common Foundation Program**
 
-Pub. L. 117–81, div. A, title II, § 227, Dec. 27, 2021, 135 Stat. 1609, as amended by Pub. L. 117–263, div. A, title II, § 212(c), Dec. 23, 2022, 136 Stat. 2467, provided that:
+Pub. L. 117–81, div. A, title II, § 227, Dec. 27, 2021, 135 Stat. 1609, as amended by Pub. L. 117–263, div. A, title II, § 212(c), Dec. 23, 2022, 136 Stat. 2467, provided that:
 
 > **“(a) Modification of Joint Common Foundation.—** The Secretary of Defense shall modify the Joint Common Foundation program conducted by the the [sic] office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) to ensure that Department of Defense components can more easily contract with leading commercial artificial intelligence companies to support the rapid and efficient development and deployment of applications and capabilities.
 
@@ -1477,7 +1477,7 @@ Pub. L. 117–81, div. A, title II, § 227, Dec. 27, 2021, 135 Stat. 1609, as 
 
 **Activities To Accelerate Development and Deployment of Dual-Use Quantum Technologies**
 
-Pub. L. 117–81, div. A, title II, § 229, Dec. 27, 2021, 135 Stat. 1610, as amended by Pub. L. 118–159, div. A, title II, § 231(c), Dec. 23, 2024, 138 Stat. 1837, provided that:
+Pub. L. 117–81, div. A, title II, § 229, Dec. 27, 2021, 135 Stat. 1610, as amended by Pub. L. 118–159, div. A, title II, § 231(c), Dec. 23, 2024, 138 Stat. 1837, provided that:
 
 > **“(a) Activities Required.—** The Secretary of Defense shall establish a set of activities—
 
@@ -1525,7 +1525,7 @@ Pub. L. 117–81, div. A, title II, § 229, Dec. 27, 2021, 135 Stat. 1610, as 
 
 **Data Repositories To Facilitate the Development of Artificial Intelligence Capabilities for the Department of Defense**
 
-Pub. L. 117–81, div. A, title II, § 232, Dec. 27, 2021, 135 Stat. 1613, as amended by Pub. L. 117–263, div. A, title II, § 212(d), Dec. 23, 2022, 136 Stat. 2467, provided that:
+Pub. L. 117–81, div. A, title II, § 232, Dec. 27, 2021, 135 Stat. 1613, as amended by Pub. L. 117–263, div. A, title II, § 212(d), Dec. 23, 2022, 136 Stat. 2467, provided that:
 
 > **“(a) Establishment of Data Repositories.—** The Secretary of Defense, acting through the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) (and such other officials as the Secretary determines appropriate), shall—
 
@@ -1555,11 +1555,11 @@ Pub. L. 117–81, div. A, title II, § 232, Dec. 27, 2021, 135 Stat. 1613, as 
 
 **Authority for Activities To Improve Next Generation Radar Systems Capabilities**
 
-Pub. L. 117–81, div. A, title III, § 380, Dec. 27, 2021, 135 Stat. 1670, which provided authority for the Secretary of Defense to undertake activities to enhance future radar systems capabilities, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(2)(B), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 117–81, div. A, title III, § 380, Dec. 27, 2021, 135 Stat. 1670, which provided authority for the Secretary of Defense to undertake activities to enhance future radar systems capabilities, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(2)(B), Dec. 18, 2025, 139 Stat. 948.
 
 **Pilot Program on Systems Engineering Determinations**
 
-Pub. L. 117–81, div. A, title VIII, § 823, Dec. 27, 2021, 135 Stat. 1826, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), (C), Dec. 18, 2025, 139 Stat. 1227, provided that:
+Pub. L. 117–81, div. A, title VIII, § 823, Dec. 27, 2021, 135 Stat. 1826, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), (C), Dec. 18, 2025, 139 Stat. 1227, provided that:
 
 > **“(a) Requirement.—** As soon as practicable but not later than September 30, 2023, the Secretary of Defense shall ensure that each covered entity enters into at least two covered transactions under an authority described in subsection (b), where each such covered transaction includes the system engineering determinations described under subsection (c).
 
@@ -1681,7 +1681,7 @@ Pub. L. 117–81, div. A, title VIII, § 823, Dec. 27, 2021, 135 Stat. 1826, a
 
 **Pilot Program on Acquisition Practices for Emerging Technologies**
 
-Pub. L. 117–81, div. A, title VIII, § 833, Dec. 27, 2021, 135 Stat. 1833, provided that:
+Pub. L. 117–81, div. A, title VIII, § 833, Dec. 27, 2021, 135 Stat. 1833, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment or the Under Secretary’s designee, shall establish a pilot program (in this section referred to as the ‘Pilot Program’) to develop and implement unique acquisition mechanisms for emerging technologies in order to increase the speed of transition of emerging technologies into acquisition programs or into operational use.
 
@@ -1789,7 +1789,7 @@ Pub. L. 117–81, div. A, title VIII, § 833, Dec. 27, 2021, 135 Stat. 1833, p
 
 **Designation of Senior Officials for Critical Technology Areas Supportive of the National Defense Strategy**
 
-Pub. L. 116–283, div. A, title II, § 217(a)–(d), Jan. 1, 2021, 134 Stat. 3460, 3461, as amended by Pub. L. 119–60, div. A, title II, § 252, Dec. 18, 2025, 139 Stat. 800, provided that:
+Pub. L. 116–283, div. A, title II, § 217(a)–(d), Jan. 1, 2021, 134 Stat. 3460, 3461, as amended by Pub. L. 119–60, div. A, title II, § 252, Dec. 18, 2025, 139 Stat. 800, provided that:
 
 > **“(a) Designation of Senior Officials.—** The Under Secretary of Defense for Research and Engineering shall—
 
@@ -1847,7 +1847,7 @@ Pub. L. 116–283, div. A, title II, § 217(a)–(d), Jan. 1, 2021, 134 Stat. 
 
 **Social Science, Management Science, and Information Science Research Activities**
 
-Pub. L. 116–283, div. A, title II, § 220, Jan. 1, 2021, 134 Stat. 3464, provided that:
+Pub. L. 116–283, div. A, title II, § 220, Jan. 1, 2021, 134 Stat. 3464, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall carry out a program of research and development in social science, management science, and information science.
 
@@ -1963,7 +1963,7 @@ Pub. L. 116–283, div. A, title II, § 220, Jan. 1, 2021, 134 Stat. 3464, pro
 
 **Activities To Improve Fielding of Air Force Hypersonic Capabilities**
 
-Pub. L. 116–283, div. A, title II, § 222, Jan. 1, 2021, 134 Stat. 3469, provided that:
+Pub. L. 116–283, div. A, title II, § 222, Jan. 1, 2021, 134 Stat. 3469, provided that:
 
 > **“(a) Improvement of Ground-based Test Facilities.—** The Secretary of Defense shall take such actions as may be necessary to improve ground-based test facilities used for the research, development, test, and evaluation of hypersonic capabilities.
 
@@ -1979,7 +1979,7 @@ Pub. L. 116–283, div. A, title II, § 222, Jan. 1, 2021, 134 Stat. 3469, pro
 
 **Research, Development, and Deployment of Technologies To Support Water Sustainment**
 
-Pub. L. 116–283, div. A, title II, § 226, Jan. 1, 2021, 134 Stat. 3476, provided that:
+Pub. L. 116–283, div. A, title II, § 226, Jan. 1, 2021, 134 Stat. 3476, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall research, develop, and deploy advanced water harvesting technologies to support and improve water sustainment within the Department of Defense and in geographic regions where the Department operates.
 
@@ -2013,7 +2013,7 @@ Pub. L. 116–283, div. A, title II, § 226, Jan. 1, 2021, 134 Stat. 3476, pro
 
 **Board of Advisors for the Office of the Senior Official With Principal Responsibility for Artificial Intelligence and Machine Learning**
 
-Pub. L. 116–283, div. A, title II, § 233, Jan. 1, 2021, 134 Stat. 3483, as amended by Pub. L. 117–263, div. A, title II, § 212(f), Dec. 23, 2022, 136 Stat. 2468, provided that:
+Pub. L. 116–283, div. A, title II, § 233, Jan. 1, 2021, 134 Stat. 3483, as amended by Pub. L. 117–263, div. A, title II, § 212(f), Dec. 23, 2022, 136 Stat. 2468, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a board of advisors for the office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) (referred to in this section as the ‘Official’).
 
@@ -2045,7 +2045,7 @@ Pub. L. 116–283, div. A, title II, § 233, Jan. 1, 2021, 134 Stat. 3483, as 
 
 **Steering Committee on Emerging Technology**
 
-Pub. L. 116–283, div. A, title II, § 236, Jan. 1, 2021, 134 Stat. 3485, as amended by Pub. L. 117–81, div. A, title II, § 216, Dec. 27, 2021, 135 Stat. 1595, provided that:
+Pub. L. 116–283, div. A, title II, § 236, Jan. 1, 2021, 134 Stat. 3485, as amended by Pub. L. 117–81, div. A, title II, § 216, Dec. 27, 2021, 135 Stat. 1595, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense and the Director of National Intelligence may jointly establish a steering committee on emerging technology and national security threats (referred to in this section as the ‘Steering Committee’).
 
@@ -2093,7 +2093,7 @@ Pub. L. 116–283, div. A, title II, § 236, Jan. 1, 2021, 134 Stat. 3485, as 
 
 **Part-Time and Term Employment of University Faculty and Students in the Defense Science and Technology Enterprise**
 
-Pub. L. 116–283, div. A, title II, § 249, Jan. 1, 2021, 134 Stat. 3493, as amended by Pub. L. 117–81, div. A, title II, §§ 212(c)(3), 215(d)(11), Dec. 27, 2021, 135 Stat. 1588, 1594, provided that:
+Pub. L. 116–283, div. A, title II, § 249, Jan. 1, 2021, 134 Stat. 3493, as amended by Pub. L. 117–81, div. A, title II, §§ 212(c)(3), 215(d)(11), Dec. 27, 2021, 135 Stat. 1588, 1594, provided that:
 
 > **“(a) Program Required.—** Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall establish a program under which opportunities for part-time and term employment are made available in the Defense science and technology enterprise for faculty and students of institutions of higher education for the purpose of enabling such faculty and students to carry out research projects in accordance with subsection (b).
 
@@ -2181,7 +2181,7 @@ Pub. L. 116–283, div. A, title II, § 249, Jan. 1, 2021, 134 Stat. 3493, as 
 
 **Acquisition Authority of the Senior Official With Principal Responsibility for Artificial Intelligence and Machine Learning**
 
-Pub. L. 116–283, div. A, title VIII, § 808, Jan. 1, 2021, 134 Stat. 3745, as amended by Pub. L. 117–263, div. A, title II, § 212(i), Dec. 23, 2022, 136 Stat. 2469; Pub. L. 118–31, div. A, title XV, § 1541, Dec. 22, 2023, 137 Stat. 572, provided that:
+Pub. L. 116–283, div. A, title VIII, § 808, Jan. 1, 2021, 134 Stat. 3745, as amended by Pub. L. 117–263, div. A, title II, § 212(i), Dec. 23, 2022, 136 Stat. 2469; Pub. L. 118–31, div. A, title XV, § 1541, Dec. 22, 2023, 137 Stat. 572, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense shall delegate to the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) (referred to in this section as the ‘Official’) the acquisition authority to exercise the functions of a head of an agency (as defined in section 2302 of title 10, United States Code [see 10 U.S.C. 3004]) with respect to appropriate acquisition activities of the office of such official (referred to in this section as the ‘Office’).
 
@@ -2263,7 +2263,7 @@ Pub. L. 116–283, div. A, title VIII, § 808, Jan. 1, 2021, 134 Stat. 3745, a
 
 **Direct Air Capture and Blue Carbon Removal Technology Program**
 
-Pub. L. 116–92, div. A, title II, § 223, Dec. 20, 2019, 133 Stat. 1264, as amended by Pub. L. 117–81, div. A, title II, §§ 212(c)(2), 215(d)(8), Dec. 27, 2021, 135 Stat. 1588, 1594, provided that:
+Pub. L. 116–92, div. A, title II, § 223, Dec. 20, 2019, 133 Stat. 1264, as amended by Pub. L. 117–81, div. A, title II, §§ 212(c)(2), 215(d)(8), Dec. 27, 2021, 135 Stat. 1588, 1594, provided that:
 
 > **“(a) Program Required.—**
 
@@ -2349,7 +2349,7 @@ Pub. L. 116–92, div. A, title II, § 223, Dec. 20, 2019, 133 Stat. 1264, as 
 
 **Research Program on Foreign Malign Influence Operations**
 
-Pub. L. 116–92, div. A, title II, § 228, Dec. 20, 2019, 133 Stat. 1271, provided that:
+Pub. L. 116–92, div. A, title II, § 228, Dec. 20, 2019, 133 Stat. 1271, provided that:
 
 > **“(a) Program Authorized.—** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, may carry out a research program on foreign malign influence operations as part of the university research programs of the Department of Defense.
 
@@ -2371,7 +2371,7 @@ Pub. L. 116–92, div. A, title II, § 228, Dec. 20, 2019, 133 Stat. 1271, pro
 
 **Diversification of the Research and Engineering Workforce of the Department of Defense**
 
-Pub. L. 116–92, div. A, title II, § 229, Dec. 20, 2019, 133 Stat. 1271, provided that:
+Pub. L. 116–92, div. A, title II, § 229, Dec. 20, 2019, 133 Stat. 1271, provided that:
 
 > **“(a) Assessment Required.—**
 
@@ -2439,11 +2439,11 @@ Pub. L. 116–92, div. A, title II, § 229, Dec. 20, 2019, 133 Stat. 1271, pro
 
 **Process To Align Policy Formulation and Emerging Technology Development**
 
-Pub. L. 116–92, div. A, title II, § 232, Dec. 20, 2019, 133 Stat. 1277, which required the Secretary of Defense to establish a process to ensure that the policies of the Department of Defense relating to emerging technology were formulated and updated continuously as such technology was developed, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(4)(A), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 116–92, div. A, title II, § 232, Dec. 20, 2019, 133 Stat. 1277, which required the Secretary of Defense to establish a process to ensure that the policies of the Department of Defense relating to emerging technology were formulated and updated continuously as such technology was developed, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(4)(A), Dec. 18, 2025, 139 Stat. 948.
 
 **Department-Wide Software Science and Technology Strategy**
 
-Pub. L. 116–92, div. A, title II, § 255, Dec. 20, 2019, 133 Stat. 1288, as amended by Pub. L. 117–81, div. A, title II, §§ 212(c)(1), 215(d)(10), Dec. 27, 2021, 135 Stat. 1588, 1594, provided that:
+Pub. L. 116–92, div. A, title II, § 255, Dec. 20, 2019, 133 Stat. 1288, as amended by Pub. L. 117–81, div. A, title II, §§ 212(c)(1), 215(d)(10), Dec. 27, 2021, 135 Stat. 1588, 1594, provided that:
 
 > **“(a) Designation of Senior Official.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering and in consultation with the Under Secretary of Defense for Acquisition and Sustainment and appropriate public and private sector organizations, shall designate a single official or existing entity within the Department of Defense as the official or entity (as the case may be) with principal responsibility for guiding the development of science and technology activities related to next generation software and software reliant systems for the Department, including—
 
@@ -2491,7 +2491,7 @@ Pub. L. 116–92, div. A, title II, § 255, Dec. 20, 2019, 133 Stat. 1288, as 
 
 **Procedures for Rapid Reaction to Emerging Technology**
 
-Pub. L. 115–232, div. A, title II, § 225, Aug. 13, 2018, 132 Stat. 1684, provided that:
+Pub. L. 115–232, div. A, title II, § 225, Aug. 13, 2018, 132 Stat. 1684, provided that:
 
 > **“(a) Requirement to Establish Procedures.—** Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Under Secretary of Defense for Research and Engineering shall prescribe procedures for the designation and development of technologies that are—
 
@@ -2523,7 +2523,7 @@ Pub. L. 115–232, div. A, title II, § 225, Aug. 13, 2018, 132 Stat. 1684, pr
 
 **Human Factors Modeling and Simulation Activities**
 
-Pub. L. 115–232, div. A, title II, § 227, Aug. 13, 2018, 132 Stat. 1687, provided that:
+Pub. L. 115–232, div. A, title II, § 227, Aug. 13, 2018, 132 Stat. 1687, provided that:
 
 > **“(a) Activities Required.—** The Secretary of Defense shall develop and provide for the carrying out of human factors modeling and simulation activities designed to do the following:
 
@@ -2551,7 +2551,7 @@ Pub. L. 115–232, div. A, title II, § 227, Aug. 13, 2018, 132 Stat. 1687, pr
 
 **Defense Quantum Information Science and Technology Research and Development Program**
 
-Pub. L. 115–232, div. A, title II, § 234, Aug. 13, 2018, 132 Stat. 1692, as amended by Pub. L. 116–92, div. A, title II, § 220, Dec. 20, 2019, 133 Stat. 1260; Pub. L. 116–283, div. A, title II, § 214, Jan. 1, 2021, 134 Stat. 3458; Pub. L. 118–31, div. A, title II, § 219, Dec. 22, 2023, 137 Stat. 188, provided that:
+Pub. L. 115–232, div. A, title II, § 234, Aug. 13, 2018, 132 Stat. 1692, as amended by Pub. L. 116–92, div. A, title II, § 220, Dec. 20, 2019, 133 Stat. 1260; Pub. L. 116–283, div. A, title II, § 214, Jan. 1, 2021, 134 Stat. 3458; Pub. L. 118–31, div. A, title II, § 219, Dec. 22, 2023, 137 Stat. 188, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall carry out a quantum information science and technology research and development program.
 
@@ -2663,9 +2663,9 @@ Pub. L. 115–232, div. A, title II, § 234, Aug. 13, 2018, 132 Stat. 1692, as
 
 **Initiative To Support Protection of National Security Academic Researchers From Undue Influence and Other Security Threats**
 
-Pub. L. 118–31, div. A, title XII, § 1224(b), Dec. 22, 2023, 137 Stat. 455, provided that: “The Secretary of Defense shall develop the policies required by paragraph (7) of section 1286(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 [Pub. L. 115–232] (10 U.S.C. 4001 note), as added by subsection (a)(1)(B), by not later than June 1, 2024.”
+Pub. L. 118–31, div. A, title XII, § 1224(b), Dec. 22, 2023, 137 Stat. 455, provided that: “The Secretary of Defense shall develop the policies required by paragraph (7) of section 1286(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 [Pub. L. 115–232] (10 U.S.C. 4001 note), as added by subsection (a)(1)(B), by not later than June 1, 2024.”
 
-Pub. L. 115–232, div. A, title XII, § 1286, Aug. 13, 2018, 132 Stat. 2078, as amended by Pub. L. 116–92, div. A, title XII, § 1281, Dec. 20, 2019, 133 Stat. 1704; Pub. L. 116–283, div. A, title X, § 1081(d)(6), title XII, § 1299C, Jan. 1, 2021, 134 Stat. 3874, 3999; Pub. L. 118–31, div. A, title XII, §§ 1223(a), 1224(a), Dec. 22, 2023, 137 Stat. 453, 454; Pub. L. 118–159, div. A, title II, § 226, Dec. 23, 2024, 138 Stat. 1831, provided that:
+Pub. L. 115–232, div. A, title XII, § 1286, Aug. 13, 2018, 132 Stat. 2078, as amended by Pub. L. 116–92, div. A, title XII, § 1281, Dec. 20, 2019, 133 Stat. 1704; Pub. L. 116–283, div. A, title X, § 1081(d)(6), title XII, § 1299C, Jan. 1, 2021, 134 Stat. 3874, 3999; Pub. L. 118–31, div. A, title XII, §§ 1223(a), 1224(a), Dec. 22, 2023, 137 Stat. 453, 454; Pub. L. 118–159, div. A, title II, § 226, Dec. 23, 2024, 138 Stat. 1831, provided that:
 
 > **“(a) Initiative Required.—** The Secretary of Defense shall, in consultation with other appropriate government organizations, establish an initiative to work with institutions of higher education who perform defense research and engineering activities—
 
@@ -2845,7 +2845,7 @@ Pub. L. 115–232, div. A, title XII, § 1286, Aug. 13, 2018, 132 Stat. 2078, 
 
 **Mechanisms for Expedited Access to Technical Talent and Expertise at Academic Institutions To Support Department of Defense Missions**
 
-Pub. L. 115–91, div. A, title II, § 217, Dec. 12, 2017, 131 Stat. 1328, as amended by Pub. L. 115–232, div. A, title II, §§ 228, 236, Aug. 13, 2018, 132 Stat. 1687, 1694; Pub. L. 116–92, div. A, title II, § 218, Dec. 20, 2019, 133 Stat. 1259; Pub. L. 116–283, div. A, title II, § 244, Jan. 1, 2021, 134 Stat. 3488; Pub. L. 117–81, div. A, title II, § 218, Dec. 27, 2021, 135 Stat. 1597, provided that:
+Pub. L. 115–91, div. A, title II, § 217, Dec. 12, 2017, 131 Stat. 1328, as amended by Pub. L. 115–232, div. A, title II, §§ 228, 236, Aug. 13, 2018, 132 Stat. 1687, 1694; Pub. L. 116–92, div. A, title II, § 218, Dec. 20, 2019, 133 Stat. 1259; Pub. L. 116–283, div. A, title II, § 244, Jan. 1, 2021, 134 Stat. 3488; Pub. L. 117–81, div. A, title II, § 218, Dec. 27, 2021, 135 Stat. 1597, provided that:
 
 > **“(a) Arrangements Authorized.—**
 
@@ -2965,11 +2965,11 @@ Pub. L. 115–91, div. A, title II, § 217, Dec. 12, 2017, 131 Stat. 1328, as 
 
 **Information Operations and Engagement Technology Demonstrations**
 
-Pub. L. 114–92, div. A, title X, § 1056, Nov. 25, 2015, 129 Stat. 984, which authorized the Secretary of Defense to carry out a series of technology demonstrations to assess innovative new technologies for information operations and information engagement to support the operational and strategic requirements of the commanders of the geographic and functional combatant commands, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(D), Dec. 23, 2024, 138 Stat. 1979.
+Pub. L. 114–92, div. A, title X, § 1056, Nov. 25, 2015, 129 Stat. 984, which authorized the Secretary of Defense to carry out a series of technology demonstrations to assess innovative new technologies for information operations and information engagement to support the operational and strategic requirements of the commanders of the geographic and functional combatant commands, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(D), Dec. 23, 2024, 138 Stat. 1979.
 
 **Inclusion of Women and Minorities in Clinical Research Projects**
 
-Pub. L. 103–160, div. A, title II, § 252, Nov. 30, 1993, 107 Stat. 1607, provided that:
+Pub. L. 103–160, div. A, title II, § 252, Nov. 30, 1993, 107 Stat. 1607, provided that:
 
 > **“(a) General Rule.—** In conducting or supporting clinical research, the Secretary of Defense shall ensure that—
 
@@ -2989,7 +2989,7 @@ Pub. L. 103–160, div. A, title II, § 252, Nov. 30, 1993, 107 Stat. 1607, pr
 
 **University Research Initiative Support Program**
 
-Pub. L. 103–160, div. A, title VIII, § 802, Nov. 30, 1993, 107 Stat. 1701, as amended by Pub. L. 104–106, div. A, title II, § 275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, § 263, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(E), Jan. 2, 2013, 126 Stat. 1950, provided that:
+Pub. L. 103–160, div. A, title VIII, § 802, Nov. 30, 1993, 107 Stat. 1701, as amended by Pub. L. 104–106, div. A, title II, § 275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, § 263, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(E), Jan. 2, 2013, 126 Stat. 1950, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense, through the Assistant Secretary of Defense for Research and Engineering, may establish a University Research Initiative Support Program.
 
@@ -3007,7 +3007,7 @@ Pub. L. 103–160, div. A, title VIII, § 802, Nov. 30, 1993, 107 Stat. 1701, 
 
 **Campuses Barring Military Recruiters; Cessation of Payments; Notification of Secretary of Defense**
 
-Pub. L. 92–436, title VI, § 606, Sept. 29, 1972, 86 Stat. 740, provided that:
+Pub. L. 92–436, title VI, § 606, Sept. 29, 1972, 86 Stat. 740, provided that:
 
 > **“(a)** No part of the funds appropriated pursuant to this or any other Act for the Department of Defense or any of the Armed Forces may be used at any institution of higher learning if the Secretary of Defense or his designee determines that recruiting personnel of any of the Armed Forces of the United States are being barred by the policy of such institution from the premises of the institution: except in a case where the Secretary of the service concerned certifies to the Congress in writing that a specific course of instruction is not available at any other institution of higher learning and furnishes to the Congress the reasons why such course of instruction is of vital importance to the security of the United States.
 
@@ -3017,19 +3017,19 @@ Pub. L. 92–436, title VI, § 606, Sept. 29, 1972, 86 Stat. 740, provided tha
 
 Similar provisions were contained in the following prior authorization acts:
 
-Pub. L. 92–156, title V, § 502, Nov. 17, 1971, 85 Stat. 427.
+Pub. L. 92–156, title V, § 502, Nov. 17, 1971, 85 Stat. 427.
 
-Pub. L. 91–441, title V, § 510, Oct. 7, 1970, 84 Stat. 914.
+Pub. L. 91–441, title V, § 510, Oct. 7, 1970, 84 Stat. 914.
 
-### [§§ 4002, 4003. Omitted]
+### [§§ 4002, 4003. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, originally transferred sections 2371 and 2371b of this title to sections 4002 and 4003, respectively, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate those transfers, thereby omitting these sections before they took effect. As amended by section 1701(u)(2)(B) of Pub. L. 117–81, sections 2371 and 2371b were transferred to sections 4021 and 4022 of this title, respectively.
+As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, originally transferred sections 2371 and 2371b of this title to sections 4002 and 4003, respectively, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate those transfers, thereby omitting these sections before they took effect. As amended by section 1701(u)(2)(B) of Pub. L. 117–81, sections 2371 and 2371b were transferred to sections 4021 and 4022 of this title, respectively.
 
-### § 4004. Contract authority for development and demonstration of initial or additional prototype units
+### § 4004. Contract authority for development and demonstration of initial or additional prototype units
 
 **(a) Authority.—** A contract initially awarded from the competitive selection of a proposal resulting from a general solicitation referred to in section 3012(2) of this title may contain a contract line item or contract option for—
 
@@ -3049,23 +3049,23 @@ As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 202
 
 **(c) Procedures.—** The Secretary of Defense shall establish procedures to collect and analyze information on the use and benefits of the authority under this section and related impacts on performance, affordability, and capability delivery.
 
-(Added Pub. L. 115–91, div. A, title VIII, § 861(a)(1), Dec. 12, 2017, 131 Stat. 1493, § 2302e; renumbered § 4004 and amended Pub. L. 116–283, div. A, title VIII, § 831(a), title XVIII, §§ 1818(c), 1841(b)(1), Jan. 1, 2021, 134 Stat. 3753, 4243; Pub. L. 116–283, div. A, title XVIII, § 1841(b)(2)(D), as added Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(F)(i)(V), Dec. 27, 2021, 135 Stat. 2152; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (v)(1)(A), Dec. 27, 2021, 135 Stat. 2151, 2154.)
+(Added Pub. L. 115–91, div. A, title VIII, § 861(a)(1), Dec. 12, 2017, 131 Stat. 1493, § 2302e; renumbered § 4004 and amended Pub. L. 116–283, div. A, title VIII, § 831(a), title XVIII, §§ 1818(c), 1841(b)(1), Jan. 1, 2021, 134 Stat. 3753, 4243; Pub. L. 116–283, div. A, title XVIII, § 1841(b)(2)(D), as added Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(F)(i)(V), Dec. 27, 2021, 135 Stat. 2152; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (v)(1)(A), Dec. 27, 2021, 135 Stat. 2151, 2154.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2302e of this title as this section.
+2021—Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2302e of this title as this section.
 
-Pub. L. 116–283, § 1818(c), which directed the renumbering of section 2302e of this title as section 3345 instead of this section and the substitution of “section 3012(2)” for “section 2302(2)(B)” in subsec. (a), was repealed by Pub. L. 117–81, § 1701(v)(1)(A), effective as if included therein, so that such renumbering and substitution were no longer directed.
+Pub. L. 116–283, § 1818(c), which directed the renumbering of section 2302e of this title as section 3345 instead of this section and the substitution of “section 3012(2)” for “section 2302(2)(B)” in subsec. (a), was repealed by Pub. L. 117–81, § 1701(v)(1)(A), effective as if included therein, so that such renumbering and substitution were no longer directed.
 
-Pub. L. 116–283, § 831(a)(1), substituted “development and demonstration” for “advanced development” in section catchline.
+Pub. L. 116–283, § 831(a)(1), substituted “development and demonstration” for “advanced development” in section catchline.
 
-Subsec. (a). Pub. L. 116–283, § 1841(b)(2)(D), as added by Pub. L. 117–81, § 1701(u)(2)(F)(i)(V), substituted “section 3012(2)” for “section 2302(2)(B)” in introductory provisions.
+Subsec. (a). Pub. L. 116–283, § 1841(b)(2)(D), as added by Pub. L. 117–81, § 1701(u)(2)(F)(i)(V), substituted “section 3012(2)” for “section 2302(2)(B)” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 116–283, § 831(a)(2), substituted “development and demonstration” for “provision of advanced component development, prototype,”.
+Subsec. (a)(1). Pub. L. 116–283, § 831(a)(2), substituted “development and demonstration” for “provision of advanced component development, prototype,”.
 
-Subsec. (c). Pub. L. 116–283, § 831(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 116–283, § 831(a)(3), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3075,7 +3075,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by section 1818(c) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-### § 4007. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation
+### § 4007. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation
 
 **(a) Policy.—** Each official specified in subsection (b) shall ensure that the management and conduct of the science and technology programs under the authority of that official are carried out in a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
@@ -3089,15 +3089,15 @@ Amendment by section 1818(c) of Pub. L. 116–283 effective Jan. 1, 2022, with a
 
 **(4)** The directors and heads of other offices and agencies of the Department of Defense with assigned research, development, test, and evaluation responsibilities.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 904(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–225, § 2359; amended Pub. L. 116–92, div. A, title IX, § 902(55), Dec. 20, 2019, 133 Stat. 1549; renumbered § 4007, Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), (c), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (D), Dec. 27, 2021, 135 Stat. 2151.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 904(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–225, § 2359; amended Pub. L. 116–92, div. A, title IX, § 902(55), Dec. 20, 2019, 133 Stat. 1549; renumbered § 4007, Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), (c), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (D), Dec. 27, 2021, 135 Stat. 2151.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1841(c), which directed the renumbering of section 2359 of this title as this section, was amended generally by Pub. L. 117–81, § 1701(u)(2)(D), effective as if included therein, so that such renumbering was no longer directed.
+2021—Pub. L. 116–283, § 1841(c), which directed the renumbering of section 2359 of this title as this section, was amended generally by Pub. L. 117–81, § 1701(u)(2)(D), effective as if included therein, so that such renumbering was no longer directed.
 
-Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2359 of this title as this section.
+Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2359 of this title as this section.
 
 2019—Subsec. (b)(1). Pub. L. 116–92 substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
@@ -3111,7 +3111,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Pilot Program on the Use of Private Sector Partnerships To Promote Technology Transition**
 
-Pub. L. 117–81, div. A, title II, § 231, Dec. 27, 2021, 135 Stat. 1612, provided that:
+Pub. L. 117–81, div. A, title II, § 231, Dec. 27, 2021, 135 Stat. 1612, provided that:
 
 > **“(a) In General.—** Consistent with section 2359 of title 10, United States Code [now 10 U.S.C. 4007], the Secretary of Defense shall carry out a pilot program to foster the transition of the science and technology programs, projects, and activities of the Department of Defense from the research, development, pilot, and prototyping phases into acquisition activities and operational use. Under the pilot program, the Secretary shall seek to enter into agreements with qualified private sector organizations to support—
 
@@ -3173,19 +3173,19 @@ Pub. L. 117–81, div. A, title II, § 231, Dec. 27, 2021, 135 Stat. 1612, pro
 
 **Proof of Concept Commercialization of Dual-Use Technology Pilot Program**
 
-Pub. L. 113–66, div. A, title XVI, § 1603, Dec. 26, 2013, 127 Stat. 944, as amended by Pub. L. 113–291, div. A, title VIII, § 818, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 116–92, div. A, title II, § 217, Dec. 20, 2019, 133 Stat. 1258, which authorized the establishment and implementation of the Proof of Concept Commercialization of Dual-Use Technology Pilot Program with the purpose of accelerating commercialization of basic research innovations from certain institutions and provided that the program shall terminate on Sept. 30, 2024, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(10), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 113–66, div. A, title XVI, § 1603, Dec. 26, 2013, 127 Stat. 944, as amended by Pub. L. 113–291, div. A, title VIII, § 818, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 116–92, div. A, title II, § 217, Dec. 20, 2019, 133 Stat. 1258, which authorized the establishment and implementation of the Proof of Concept Commercialization of Dual-Use Technology Pilot Program with the purpose of accelerating commercialization of basic research innovations from certain institutions and provided that the program shall terminate on Sept. 30, 2024, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(10), Dec. 18, 2025, 139 Stat. 949.
 
-### [§§ 4008, 4009. Omitted]
+### [§§ 4008, 4009. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 134 Stat. 4243, originally transferred sections 2374 and 2357 of this title to sections 4008 and 4009, respectively, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(c) of Pub. L. 116–283, effective as if included therein, so as to eliminate those transfers, thereby omitting these sections before they took effect. Other amendments by Pub. L. 117–81 resulted in transfers of sections 2374 and 2357 to sections 4024 and 4067 of this title, respectively.
+As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 134 Stat. 4243, originally transferred sections 2374 and 2357 of this title to sections 4008 and 4009, respectively, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(c) of Pub. L. 116–283, effective as if included therein, so as to eliminate those transfers, thereby omitting these sections before they took effect. Other amendments by Pub. L. 117–81 resulted in transfers of sections 2374 and 2357 to sections 4024 and 4067 of this title, respectively.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(d)(7), Dec. 27, 2021, 135 Stat. 2136, which directed amendment of section 4008 of this title by substituting “section 3063” for “section 2303(a)” in subsecs. (a) and (d), effective after the amendments by title XVIII of Pub. L. 116–283 took effect, could not be executed after the amendment by section 1701(u)(2)(D) of Pub. L. 117–81, which eliminated the transfer of section 2374 of this title to section 4008, effective as if included in title XVIII of Pub. L. 116–283.
+Pub. L. 117–81, div. A, title XVII, § 1701(d)(7), Dec. 27, 2021, 135 Stat. 2136, which directed amendment of section 4008 of this title by substituting “section 3063” for “section 2303(a)” in subsecs. (a) and (d), effective after the amendments by title XVIII of Pub. L. 116–283 took effect, could not be executed after the amendment by section 1701(u)(2)(D) of Pub. L. 117–81, which eliminated the transfer of section 2374 of this title to section 4008, effective as if included in title XVIII of Pub. L. 116–283.
 
-### § 4010. Defense Established Program to Stimulate Competitive Research
+### § 4010. Defense Established Program to Stimulate Competitive Research
 
 **(a) Program Required.—** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall carry out a Defense Established Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
 
@@ -3229,15 +3229,15 @@ Pub. L. 117–81, div. A, title XVII, § 1701(d)(7), Dec. 27, 2021, 135 Stat. 
 
 **(f) State Defined.—** In this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Added Pub. L. 117–81, div. A, title II, § 214(a), Dec. 27, 2021, 135 Stat. 1589.)
+(Added Pub. L. 117–81, div. A, title II, § 214(a), Dec. 27, 2021, 135 Stat. 1589.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–81, div. A, title II, § 214(d), Dec. 27, 2021, 135 Stat. 1591, provided that: “This section [enacting this section and repealing provisions set out as notes under section 2358 of this title] and the amendments and repeals made by this section shall take effect immediately after the effective date of the amendments made by title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [Jan. 1, 2022].”
+Pub. L. 117–81, div. A, title II, § 214(d), Dec. 27, 2021, 135 Stat. 1591, provided that: “This section [enacting this section and repealing provisions set out as notes under section 2358 of this title] and the amendments and repeals made by this section shall take effect immediately after the effective date of the amendments made by title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [Jan. 1, 2022].”
 
-### § 4014. Coordination and communication of defense research activities and technology domain awareness
+### § 4014. Coordination and communication of defense research activities and technology domain awareness
 
 **(a) Coordination of Department of Defense Research, Development, and Technological Data.—** The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of research, development, and technological data—
 
@@ -3255,21 +3255,21 @@ Pub. L. 117–81, div. A, title II, § 214(d), Dec. 27, 2021, 135 Stat. 1591, 
 
 **(b) Defense Research Facility Defined.—** In this section, the term “Defense research facility” has the meaning given that term by section 4125(b) of this title.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1841(d), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(E), Dec. 27, 2021, 135 Stat. 2151; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(30), Dec. 22, 2023, 137 Stat. 685.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1841(d), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(E), Dec. 27, 2021, 135 Stat. 2151; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(30), Dec. 22, 2023, 137 Stat. 685.)
 
 **Editorial Notes**
 
 **Codification**
 
-The section catchline and text of subsec. (a) of section 2364 of this title, which were transferred to this section by Pub. L. 116–283, § 1841(d)(1), were based on Pub. L. 99–661, div. A, title II, § 234(c)(1), Nov. 14, 1986, 100 Stat. 3848; Pub. L. 100–26, § 3(1)(A), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title XII, § 1231(10)(B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 114–92, div. A, title II, § 214(a)(1), (3), Nov. 25, 2015, 129 Stat. 767, 768; Pub. L. 115–91, div. A, title X, § 1081(a)(34), Dec. 12, 2017, 131 Stat. 1596.
+The section catchline and text of subsec. (a) of section 2364 of this title, which were transferred to this section by Pub. L. 116–283, § 1841(d)(1), were based on Pub. L. 99–661, div. A, title II, § 234(c)(1), Nov. 14, 1986, 100 Stat. 3848; Pub. L. 100–26, § 3(1)(A), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title XII, § 1231(10)(B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 114–92, div. A, title II, § 214(a)(1), (3), Nov. 25, 2015, 129 Stat. 767, 768; Pub. L. 115–91, div. A, title X, § 1081(a)(34), Dec. 12, 2017, 131 Stat. 1596.
 
 **Amendments**
 
 2023—Subsec. (b). Pub. L. 118–31 substituted “section 4125(b) of this title” for “section 4142(b) of this title”.
 
-2021—Pub. L. 116–283, § 1841(d)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(E), transferred section catchline and subsec. (a) of section 2364 of this title to this section.
+2021—Pub. L. 116–283, § 1841(d)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(E), transferred section catchline and subsec. (a) of section 2364 of this title to this section.
 
-Subsec. (b). Pub. L. 116–283, § 1841(d)(2), added subsec. (b).
+Subsec. (b). Pub. L. 116–283, § 1841(d)(2), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3283,15 +3283,15 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Collaboration Between Defense Laboratories, Industry, and Academia; Open Campus Program**
 
-Pub. L. 115–232, div. A, title II, § 222, Aug. 13, 2018, 132 Stat. 1682, which authorized activities to prioritize innovative collaboration between Department of Defense science and technology reinvention laboratories, industry, and academia and provided for an open campus program for such laboratories, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(5)(A), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 115–232, div. A, title II, § 222, Aug. 13, 2018, 132 Stat. 1682, which authorized activities to prioritize innovative collaboration between Department of Defense science and technology reinvention laboratories, industry, and academia and provided for an open campus program for such laboratories, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(5)(A), Dec. 18, 2025, 139 Stat. 948.
 
-### [§ 4015. Omitted]
+### [§ 4015. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 134 Stat. 4243, originally transferred section 2361 of this title to this section, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(c) of Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer, thereby omitting this section before it took effect. Another amendment by Pub. L. 117–81 resulted in the transfer of section 2361 to section 4141 of this title.
+As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 134 Stat. 4243, originally transferred section 2361 of this title to this section, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(c) of Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer, thereby omitting this section before it took effect. Another amendment by Pub. L. 117–81 resulted in the transfer of section 2361 to section 4141 of this title.
 
 ## SUBCHAPTER II—AGREEMENTS
 
@@ -3299,9 +3299,9 @@ As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title XVIII, § 1841(c)(2), as added by Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D), Dec. 27, 2021, 135 Stat. 2151, added subchapter heading. Heading was editorially conformed to the style used in this title.
+2021—Pub. L. 116–283, div. A, title XVIII, § 1841(c)(2), as added by Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D), Dec. 27, 2021, 135 Stat. 2151, added subchapter heading. Heading was editorially conformed to the style used in this title.
 
-### § 4021. Research projects: transactions other than contracts and grants
+### § 4021. Research projects: transactions other than contracts and grants
 
 **(a) Additional Forms of Transactions Authorized.—** The Secretary of Defense and the Secretary of each military department may enter into transactions (other than contracts, cooperative agreements, and grants) under the authority of this subsection in carrying out basic, applied, and advanced research projects. The authority under this subsection is in addition to the authority provided in section 4001 of this title to use contracts, cooperative agreements, and grants in carrying out such projects.
 
@@ -3347,7 +3347,7 @@ As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 
 
 **(iii)** Technical information submitted on a confidential basis.
 
-(Added Pub. L. 101–189, div. A, title II, § 251(a)(1), Nov. 29, 1989, 103 Stat. 1403, § 2371; amended Pub. L. 101–510, div. A, title XIV, § 1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, § 826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, § 217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, § 201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, § 827(b), title XI, § 1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, § 1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, § 267(a)–(c)(1)(A), title X, § 1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, § 832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, § 817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(19), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 113–291, div. A, title X, § 1071(f)(20), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title VIII, § 863, Dec. 12, 2017, 131 Stat. 1494; renumbered § 4021 and amended Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), (2)(B), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title VIII, § 821(a), title XVII, § 1701(u)(2)(B), (F)(i)(III), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 118–31, div. A, title IX, § 913(a)(2), Dec. 22, 2023, 137 Stat. 367.)
+(Added Pub. L. 101–189, div. A, title II, § 251(a)(1), Nov. 29, 1989, 103 Stat. 1403, § 2371; amended Pub. L. 101–510, div. A, title XIV, § 1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, § 826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, § 217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, § 201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, § 827(b), title XI, § 1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, § 1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, § 267(a)–(c)(1)(A), title X, § 1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, § 832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, § 817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(19), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 113–291, div. A, title X, § 1071(f)(20), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title VIII, § 863, Dec. 12, 2017, 131 Stat. 1494; renumbered § 4021 and amended Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), (2)(B), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title VIII, § 821(a), title XVII, § 1701(u)(2)(B), (F)(i)(III), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 118–31, div. A, title IX, § 913(a)(2), Dec. 22, 2023, 137 Stat. 367.)
 
 **Editorial Notes**
 
@@ -3355,21 +3355,21 @@ As enacted, Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 
 
 A prior section 4021 was renumbered section 7371 of this title.
 
-Another prior section 4021, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, § 36B(11), Sept. 2, 1958, 72 Stat. 1570.
+Another prior section 4021, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, § 36B(11), Sept. 2, 1958, 72 Stat. 1570.
 
 **Amendments**
 
-2023—Subsec. (b). Pub. L. 118–31, § 913(a)(2)(A), inserted “, the Defense Innovation Unit,” after “Defense Advanced Research Projects Agency”.
+2023—Subsec. (b). Pub. L. 118–31, § 913(a)(2)(A), inserted “, the Defense Innovation Unit,” after “Defense Advanced Research Projects Agency”.
 
-Subsec. (f). Pub. L. 118–31, § 913(a)(2)(B), substituted “, the Defense Innovation Unit, and the Defense Advanced Research Projects Agency” for “and the Defense Advanced Research Projects Agency”.
+Subsec. (f). Pub. L. 118–31, § 913(a)(2)(B), substituted “, the Defense Innovation Unit, and the Defense Advanced Research Projects Agency” for “and the Defense Advanced Research Projects Agency”.
 
-2021—Pub. L. 116–283, § 1841(b)(2)(B), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(III), substituted “section 4001” for “section 2358” wherever appearing.
+2021—Pub. L. 116–283, § 1841(b)(2)(B), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(III), substituted “section 4001” for “section 2358” wherever appearing.
 
-Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2371 of this title as this section.
+Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2371 of this title as this section.
 
-Subsec. (e). Pub. L. 117–81, § 821(a)(1), struck out par. (1) designation before “The Secretary of Defense”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
+Subsec. (e). Pub. L. 117–81, § 821(a)(1), struck out par. (1) designation before “The Secretary of Defense”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
 
-Subsec. (h). Pub. L. 117–81, § 821(a)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations to carry out this section.”
+Subsec. (h). Pub. L. 117–81, § 821(a)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations to carry out this section.”
 
 2017—Subsecs. (g), (h). Pub. L. 115–91 added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -3383,13 +3383,13 @@ Subsec. (h). Pub. L. 117–81, § 821(a)(2), amended subsec. (h) generally. Pr
 
 1997—Subsec. (i). Pub. L. 105–85 added subsec. (i).
 
-1996—Subsec. (b). Pub. L. 104–201, § 1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
+1996—Subsec. (b). Pub. L. 104–201, § 1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
-Subsec. (e). Pub. L. 104–201, § 267(a), inserted “(1)” before “The Secretary of Defense”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
+Subsec. (e). Pub. L. 104–201, § 267(a), inserted “(1)” before “The Secretary of Defense”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
 
-Subsec. (f). Pub. L. 104–201, § 1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
+Subsec. (f). Pub. L. 104–201, § 1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
-Subsec. (h). Pub. L. 104–201, § 267(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
+Subsec. (h). Pub. L. 104–201, § 267(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
 
 “(1) A general description of the cooperative agreement or other transaction (as the case may be), including the technologies for which research is provided for under such agreement or transaction.
 
@@ -3403,51 +3403,51 @@ Subsec. (h). Pub. L. 104–201, § 267(b), reenacted heading without change an
 
 Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (i). Pub. L. 104–201, § 1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, could not be executed because of the renumbering of subsec. (i) as section 2371a of this title by Pub. L. 104–201, § 267(c)(1)(A). See below.
+Subsec. (i). Pub. L. 104–201, § 1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, could not be executed because of the renumbering of subsec. (i) as section 2371a of this title by Pub. L. 104–201, § 267(c)(1)(A). See below.
 
-Pub. L. 104–201, § 267(c)(1)(A), renumbered subsec. (i) of this section as section 2371a of this title.
+Pub. L. 104–201, § 267(c)(1)(A), renumbered subsec. (i) of this section as section 2371a of this title.
 
 1994—Pub. L. 103–355 amended section generally. Prior to amendment section related to cooperative agreements and other transactions for advanced research projects.
 
-1993—Subsec. (a). Pub. L. 103–160, § 827(b)(1)(C), substituted “section 2358 of this title” for “subsection (a)” in par. (1) and “subsection (d)” for “subsection (e)” in par. (2).
+1993—Subsec. (a). Pub. L. 103–160, § 827(b)(1)(C), substituted “section 2358 of this title” for “subsection (a)” in par. (1) and “subsection (d)” for “subsection (e)” in par. (2).
 
-Pub. L. 103–160, § 827(b)(1)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), as amended by Pub. L. 103–160, § 1182(a)(6), (h), which read as follows: “The Secretary of Defense, in carrying out advanced research projects through the Advanced Research Projects Agency, and the Secretary of each military department, in carrying out advanced research projects, may enter into cooperative agreements and other transactions with any person, any agency or instrumentality of the United States, any unit of State or local government, any educational institution, and any other entity.”
+Pub. L. 103–160, § 827(b)(1)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), as amended by Pub. L. 103–160, § 1182(a)(6), (h), which read as follows: “The Secretary of Defense, in carrying out advanced research projects through the Advanced Research Projects Agency, and the Secretary of each military department, in carrying out advanced research projects, may enter into cooperative agreements and other transactions with any person, any agency or instrumentality of the United States, any unit of State or local government, any educational institution, and any other entity.”
 
-Pub. L. 103–160, § 1182(a)(6), substituted “Advanced Research Projects Agency” for “Defense Advanced Research Projects Agency”.
+Pub. L. 103–160, § 1182(a)(6), substituted “Advanced Research Projects Agency” for “Defense Advanced Research Projects Agency”.
 
-Subsec. (b). Pub. L. 103–160, § 827(b)(1)(B), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 103–160, § 827(b)(1)(B), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 103–160, § 827(b)(1)(B), (2)(A), redesignated subsec. (d) as (c) and inserted “and development” after “research” in two places in par. (1). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 103–160, § 827(b)(1)(B), (2)(A), redesignated subsec. (d) as (c) and inserted “and development” after “research” in two places in par. (1). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 103–160, § 827(b)(1)(B), (D), (2)(B), redesignated subsec. (e), as amended by Pub. L. 103–160, § 1182(a)(6), (h), as (d) and substituted “section 2358 of this title” for “subsection (a)” and “research and development” for “advanced research”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 103–160, § 827(b)(1)(B), (D), (2)(B), redesignated subsec. (e), as amended by Pub. L. 103–160, § 1182(a)(6), (h), as (d) and substituted “section 2358 of this title” for “subsection (a)” and “research and development” for “advanced research”. Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 103–160, § 827(b)(1)(B), (E), (2)(B), (C), redesignated subsec. (f) as (e), in par. (1) substituted “research and development are” for “advanced research is”, in par. (3) substituted “research and development” for “advanced research”, in par. (4) substituted “subsection (a)” for “subsection (b)”, and in par. (5) substituted “subsection (d)” for “subsection (e)”. Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 103–160, § 827(b)(1)(B), (E), (2)(B), (C), redesignated subsec. (f) as (e), in par. (1) substituted “research and development are” for “advanced research is”, in par. (3) substituted “research and development” for “advanced research”, in par. (4) substituted “subsection (a)” for “subsection (b)”, and in par. (5) substituted “subsection (d)” for “subsection (e)”. Former subsec. (e) redesignated (d).
 
-Pub. L. 103–160, § 1182(a)(6), substituted “Advanced Research Projects Agency” for “Defense Advanced Research Projects Agency”.
+Pub. L. 103–160, § 1182(a)(6), substituted “Advanced Research Projects Agency” for “Defense Advanced Research Projects Agency”.
 
-Subsec. (f). Pub. L. 103–160, § 827(b)(1)(B), redesignated subsec. (g), as amended by Pub. L. 103–160, § 1182(a)(6), (h), as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 103–160, § 827(b)(1)(B), redesignated subsec. (g), as amended by Pub. L. 103–160, § 1182(a)(6), (h), as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 103–160, § 827(b)(1)(B), redesignated subsec. (g), as amended by Pub. L. 103–160, § 1182(a)(6), (h), as (f).
+Subsec. (g). Pub. L. 103–160, § 827(b)(1)(B), redesignated subsec. (g), as amended by Pub. L. 103–160, § 1182(a)(6), (h), as (f).
 
-Pub. L. 103–160, § 1182(a)(6), substituted “Advanced Research Projects Agency” for “Defense Advanced Research Projects Agency”.
+Pub. L. 103–160, § 1182(a)(6), substituted “Advanced Research Projects Agency” for “Defense Advanced Research Projects Agency”.
 
 Pub. L. 103–35 substituted “granted by section 12” for “granted by section 11” and “provisions of sections 11 and 12” for “provisions of sections 10 and 11”.
 
 1992—Subsec. (g). Pub. L. 102–484 added subsec. (g).
 
-1991—Subsec. (a). Pub. L. 102–190, § 826(a), inserted “and the Secretary of each military department, in carrying out advanced research projects,”.
+1991—Subsec. (a). Pub. L. 102–190, § 826(a), inserted “and the Secretary of each military department, in carrying out advanced research projects,”.
 
-Subsec. (b)(1). Pub. L. 102–190, § 826(b)(1)(A), struck out “by the Secretary” after “transactions entered into”.
+Subsec. (b)(1). Pub. L. 102–190, § 826(b)(1)(A), struck out “by the Secretary” after “transactions entered into”.
 
-Subsec. (b)(2). Pub. L. 102–190, § 826(b)(1)(B), substituted “to the appropriate account” for “to the account”.
+Subsec. (b)(2). Pub. L. 102–190, § 826(b)(1)(B), substituted “to the appropriate account” for “to the account”.
 
-Subsec. (d). Pub. L. 102–190, § 826(b)(2), substituted “The Secretary of Defense” for “The Secretary” in introductory provisions.
+Subsec. (d). Pub. L. 102–190, § 826(b)(2), substituted “The Secretary of Defense” for “The Secretary” in introductory provisions.
 
-Subsec. (e). Pub. L. 102–190, § 826(b)(3), substituted “separate accounts for each of the military departments and the Defense Advanced Research Projects Agency” for “an account” and “those accounts” for “such account”.
+Subsec. (e). Pub. L. 102–190, § 826(b)(3), substituted “separate accounts for each of the military departments and the Defense Advanced Research Projects Agency” for “an account” and “those accounts” for “such account”.
 
-Subsec. (f)(5). Pub. L. 102–190, § 826(b)(4), substituted “each account” for “the account”.
+Subsec. (f)(5). Pub. L. 102–190, § 826(b)(4), substituted “each account” for “the account”.
 
-Subsec. (g). Pub. L. 102–190, § 826(c), struck out subsec. (g) which read as follows: “The authority of the Secretary to enter into cooperative agreements and other transactions under this section expires at the close of September 30, 1991.”
+Subsec. (g). Pub. L. 102–190, § 826(c), struck out subsec. (g) which read as follows: “The authority of the Secretary to enter into cooperative agreements and other transactions under this section expires at the close of September 30, 1991.”
 
 1990—Subsec. (f). Pub. L. 101–510 substituted “Committees on” for “Committees of” in introductory provisions.
 
@@ -3469,7 +3469,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 **Tracking Awards Made Through Other Transaction Authority**
 
-Pub. L. 118–159, div. A, title VIII, § 888, Dec. 23, 2024, 138 Stat. 2023, provided that:
+Pub. L. 118–159, div. A, title VIII, § 888, Dec. 23, 2024, 138 Stat. 2023, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Under Secretary of Defense for Acquisition and Sustainment shall establish a process to track the number and value of awards to small businesses and nontraditional defense contractors performing on transactions using other transaction authority, including transactions carried out through consortia.
 
@@ -3489,7 +3489,7 @@ Pub. L. 118–159, div. A, title VIII, § 888, Dec. 23, 2024, 138 Stat. 2023, 
 
 **Reporting Requirement for Certain Defense Acquisition Activities**
 
-Pub. L. 117–81, div. A, title VIII, § 825, Dec. 27, 2021, 135 Stat. 1831, provided that:
+Pub. L. 117–81, div. A, title VIII, § 825, Dec. 27, 2021, 135 Stat. 1831, provided that:
 
 > **“(a) Procedures for Identifying Certain Acquisition Agreements and Activities.—** The Secretary of Defense shall establish procedures to identify organizations performing on individual projects under the following types of awards:
 
@@ -3529,11 +3529,11 @@ Pub. L. 117–81, div. A, title VIII, § 825, Dec. 27, 2021, 135 Stat. 1831, p
 
 **Listing of Other Transaction Authority Consortia**
 
-Pub. L. 116–283, div. A, title VIII, § 833, Jan. 1, 2021, 134 Stat. 3753, provided that: “Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall maintain on the single Government-wide point of entry described under section 1708 of title 41, United States Code, a list of the consortia used by the Secretary to announce or otherwise make available opportunities to enter into a transaction under the authority of section 2371 of title 10, United States Code [now 10 U.S.C. 4021], or a transaction for a prototype project under section 2371b of such title [now 10 U.S.C. 4022].”
+Pub. L. 116–283, div. A, title VIII, § 833, Jan. 1, 2021, 134 Stat. 3753, provided that: “Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall maintain on the single Government-wide point of entry described under section 1708 of title 41, United States Code, a list of the consortia used by the Secretary to announce or otherwise make available opportunities to enter into a transaction under the authority of section 2371 of title 10, United States Code [now 10 U.S.C. 4021], or a transaction for a prototype project under section 2371b of such title [now 10 U.S.C. 4022].”
 
 **Data, Policy, and Reporting on the Use of Other Transactions**
 
-Pub. L. 115–232, div. A, title VIII, § 873, Aug. 13, 2018, 132 Stat. 1905, as amended by Pub. L. 116–92, div. A, title VIII, § 819, Dec. 20, 2019, 133 Stat. 1488, provided that:
+Pub. L. 115–232, div. A, title VIII, § 873, Aug. 13, 2018, 132 Stat. 1905, as amended by Pub. L. 116–92, div. A, title VIII, § 819, Dec. 20, 2019, 133 Stat. 1488, provided that:
 
 > **“(a) Collection and Storage.—** The Service Acquisition Executives of the military departments shall collect data on the use of other transactions by their respective departments, and the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment shall collect data on all other use by the Department of Defense of other transactions, including use by the Defense Agencies. The data shall be stored in a manner that allows the Assistant Secretary of Defense for Acquisition and other appropriate officials access at any time.
 
@@ -3561,9 +3561,9 @@ Pub. L. 115–232, div. A, title VIII, § 873, Aug. 13, 2018, 132 Stat. 1905, 
 
 **Preference for Use of Other Transactions and Experimental Authority**
 
-Pub. L. 115–91, div. A, title VIII, § 867, Dec. 12, 2017, 131 Stat. 1495, provided that: “In the execution of science and technology and prototyping programs, the Secretary of Defense shall establish a preference, to be applied in circumstances determined appropriate by the Secretary, for using transactions other than contracts, cooperative agreements, and grants entered into pursuant to sections 2371 and 2371b of title 10, United States Code [now 10 U.S.C. 4021 and 4022], and authority for procurement for experimental purposes pursuant to section 2373 of title 10, United States Code [now 10 U.S.C. 4023].”
+Pub. L. 115–91, div. A, title VIII, § 867, Dec. 12, 2017, 131 Stat. 1495, provided that: “In the execution of science and technology and prototyping programs, the Secretary of Defense shall establish a preference, to be applied in circumstances determined appropriate by the Secretary, for using transactions other than contracts, cooperative agreements, and grants entered into pursuant to sections 2371 and 2371b of title 10, United States Code [now 10 U.S.C. 4021 and 4022], and authority for procurement for experimental purposes pursuant to section 2373 of title 10, United States Code [now 10 U.S.C. 4023].”
 
-### § 4022. Authority of the Department of Defense to carry out certain prototype projects
+### § 4022. Authority of the Department of Defense to carry out certain prototype projects
 
 **(a) Authority.—**
 
@@ -3697,9 +3697,9 @@ Pub. L. 115–91, div. A, title VIII, § 867, Dec. 12, 2017, 131 Stat. 1495, p
 
 **(4)** Award of a follow-on production contract or transaction pursuant to the terms under this subsection is not contingent upon the successful completion of all activities within a consortium as a condition for an award for follow-on production of a successfully completed prototype or prototype subproject within that consortium.
 
-**(5)** Contracts and transactions entered into pursuant to this subsection may be awarded using the authority in subsection (a), under the authority of chapter 137 1
+**(5)** Contracts and transactions entered into pursuant to this subsection may be awarded using the authority in subsection (a), under the authority of chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, or under such procedures, terms, and conditions as the Secretary of Defense may establish by regulation.
 
@@ -3733,119 +3733,119 @@ of this title, or under such procedures, terms, and conditions as the Secretary 
 
 **(B) Ongoing project exception.—** Subparagraph (A) shall not apply with respect to prototype projects being carried out under the pilot program established under paragraph (1) on the date described in subparagraph (A).
 
-(Added Pub. L. 114–92, div. A, title VIII, § 815(a)(1), Nov. 25, 2015, 129 Stat. 893, § 2371b; amended Pub. L. 115–91, div. A, title II, § 216, title VIII, § 864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, § 211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, § 1731(a)(46), Dec. 20, 2019, 133 Stat. 1814; renumbered § 4022 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title VIII, § 821(b), title XVII, § 1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 117–263, div. A, title VIII, §§ 842, 843, Dec. 23, 2022, 136 Stat. 2717, 2718; Pub. L. 118–31, div. A, title VIII, §§ 821, 822(a), title IX, § 913(a), Dec. 22, 2023, 137 Stat. 326, 327, 367; Pub. L. 118–159, div. A, title VIII, §§ 816–818(a), Dec. 23, 2024, 138 Stat. 1981, 1982; Pub. L. 119–60, div. A, title XVII, § 1701(a)(27), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 114–92, div. A, title VIII, § 815(a)(1), Nov. 25, 2015, 129 Stat. 893, § 2371b; amended Pub. L. 115–91, div. A, title II, § 216, title VIII, § 864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, § 211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, § 1731(a)(46), Dec. 20, 2019, 133 Stat. 1814; renumbered § 4022 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title VIII, § 821(b), title XVII, § 1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 117–263, div. A, title VIII, §§ 842, 843, Dec. 23, 2022, 136 Stat. 2717, 2718; Pub. L. 118–31, div. A, title VIII, §§ 821, 822(a), title IX, § 913(a), Dec. 22, 2023, 137 Stat. 326, 327, 367; Pub. L. 118–159, div. A, title VIII, §§ 816–818(a), Dec. 23, 2024, 138 Stat. 1981, 1982; Pub. L. 119–60, div. A, title XVII, § 1701(a)(27), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (f)(5), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (f)(5), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
 **Prior Provisions**
 
-A prior section 4022, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to employment of contract surgeons in an emergency, prior to repeal by Pub. L. 98–94, title IX, § 932(b)(1), (f) Sept. 24, 1983, 97 Stat. 650, effective Oct. 1, 1983, with continuation provision for existing contracts.
+A prior section 4022, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to employment of contract surgeons in an emergency, prior to repeal by Pub. L. 98–94, title IX, § 932(b)(1), (f) Sept. 24, 1983, 97 Stat. 650, effective Oct. 1, 1983, with continuation provision for existing contracts.
 
 **Amendments**
 
 2025—Subsec. (e)(1)(E), (F). Pub. L. 119–60 substituted “Under Secretary of Defense” for “Undersecretary of Defense”.
 
-2024—Subsec. (a)(2)(A). Pub. L. 118–159, § 816(1)(A), substituted “head of the contracting activity” for “senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41” in introductory provisions.
+2024—Subsec. (a)(2)(A). Pub. L. 118–159, § 816(1)(A), substituted “head of the contracting activity” for “senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41” in introductory provisions.
 
-Subsec. (a)(2)(B)(i). Pub. L. 118–159, § 816(1)(B), substituted “senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or the Missile Defense Agency, the director of the agency,” for “Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment” in introductory provisions.
+Subsec. (a)(2)(B)(i). Pub. L. 118–159, § 816(1)(B), substituted “senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or the Missile Defense Agency, the director of the agency,” for “Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 118–159, § 816(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency, Defense Innovation Unit, or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretaries of Defense under paragraph (2)(B), may not be delegated.”
+Subsec. (a)(3). Pub. L. 118–159, § 816(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency, Defense Innovation Unit, or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretaries of Defense under paragraph (2)(B), may not be delegated.”
 
-Subsec. (e)(6). Pub. L. 118–159, § 817(1), added par. (6).
+Subsec. (e)(6). Pub. L. 118–159, § 817(1), added par. (6).
 
-Subsec. (f)(1). Pub. L. 118–159, § 817(2)(A), inserted at end “A follow-on production award may be provided for in a transaction entered into under this section for a prototype project, awarded with respect to such a transaction as one or more separate awards, or a combination thereof.”
+Subsec. (f)(1). Pub. L. 118–159, § 817(2)(A), inserted at end “A follow-on production award may be provided for in a transaction entered into under this section for a prototype project, awarded with respect to such a transaction as one or more separate awards, or a combination thereof.”
 
-Subsec. (f)(2). Pub. L. 118–159, § 817(2)(B), inserted “, one or more separate awards of follow-on production contracts or transactions with respect to a transaction described in such paragraph, or a combination thereof,” after “paragraph (1)” in introductory provisions.
+Subsec. (f)(2). Pub. L. 118–159, § 817(2)(B), inserted “, one or more separate awards of follow-on production contracts or transactions with respect to a transaction described in such paragraph, or a combination thereof,” after “paragraph (1)” in introductory provisions.
 
-Subsec. (i)(2). Pub. L. 118–159, § 818(a)(1), inserted subpar. (A) designation before “In carrying out”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), struck out “except for projects carried out for the purpose of repairing a facility,” before “not more than two prototype projects” in cl. (i) of subpar. (A) as redesignated, and added subpar. (B).
+Subsec. (i)(2). Pub. L. 118–159, § 818(a)(1), inserted subpar. (A) designation before “In carrying out”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), struck out “except for projects carried out for the purpose of repairing a facility,” before “not more than two prototype projects” in cl. (i) of subpar. (A) as redesignated, and added subpar. (B).
 
-Subsec. (i)(4)(A). Pub. L. 118–159, § 818(a)(2), substituted “September 30, 2030” for “September 30, 2025”.
+Subsec. (i)(4)(A). Pub. L. 118–159, § 818(a)(2), substituted “September 30, 2030” for “September 30, 2025”.
 
-2023—Subsec. (a)(1). Pub. L. 118–31, § 913(a)(3)(A)(i), inserted “the Director of the Defense Innovation Unit,” after “Defense Advanced Research Projects Agency,”.
+2023—Subsec. (a)(1). Pub. L. 118–31, § 913(a)(3)(A)(i), inserted “the Director of the Defense Innovation Unit,” after “Defense Advanced Research Projects Agency,”.
 
-Subsec. (a)(2)(A). Pub. L. 118–31, § 913(a)(3)(A)(ii), inserted “, the Defense Innovation Unit,” after “Defense Advanced Research Projects Agency” in introductory provisions.
+Subsec. (a)(2)(A). Pub. L. 118–31, § 913(a)(3)(A)(ii), inserted “, the Defense Innovation Unit,” after “Defense Advanced Research Projects Agency” in introductory provisions.
 
-Subsec. (a)(2)(C)(i)(I). Pub. L. 118–31, § 821(1), inserted “were met for the prior transaction for the prototype project that provided for the award of the follow-on production contract or transaction, and the requirements of subsection (f)” after “subsection (d)”.
+Subsec. (a)(2)(C)(i)(I). Pub. L. 118–31, § 821(1), inserted “were met for the prior transaction for the prototype project that provided for the award of the follow-on production contract or transaction, and the requirements of subsection (f)” after “subsection (d)”.
 
-Subsec. (a)(3). Pub. L. 118–31, § 913(a)(3)(A)(iii), inserted “, Defense Innovation Unit,” after “Defense Advanced Research Projects Agency”.
+Subsec. (a)(3). Pub. L. 118–31, § 913(a)(3)(A)(iii), inserted “, Defense Innovation Unit,” after “Defense Advanced Research Projects Agency”.
 
-Subsec. (d)(3). Pub. L. 118–31, § 821(2), added par. (3).
+Subsec. (d)(3). Pub. L. 118–31, § 821(2), added par. (3).
 
-Subsec. (e)(1)(C) to (F). Pub. L. 118–31, § 913(a)(3)(B), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+Subsec. (e)(1)(C) to (F). Pub. L. 118–31, § 913(a)(3)(B), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
 
-Subsec. (i)(2)(A). Pub. L. 118–31, § 822(a)(1)(A), inserted “except for projects carried out for the purpose of repairing a facility,” before “not more”.
+Subsec. (i)(2)(A). Pub. L. 118–31, § 822(a)(1)(A), inserted “except for projects carried out for the purpose of repairing a facility,” before “not more”.
 
-Subsec. (i)(2)(B). Pub. L. 118–31, § 822(a)(1)(B), substituted “$300,000,000” for “$200,000,000”.
+Subsec. (i)(2)(B). Pub. L. 118–31, § 822(a)(1)(B), substituted “$300,000,000” for “$200,000,000”.
 
-Subsec. (i)(3), (4). Pub. L. 118–31, § 822(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (i)(3), (4). Pub. L. 118–31, § 822(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-2022—Subsec. (a)(1). Pub. L. 117–263, § 843(1), substituted “personnel of the Department of Defense or improving” for “military personnel and the supporting”.
+2022—Subsec. (a)(1). Pub. L. 117–263, § 843(1), substituted “personnel of the Department of Defense or improving” for “military personnel and the supporting”.
 
-Subsec. (a)(2). Pub. L. 117–263, § 842(1)(A), struck out “, and any follow-on production contract or transaction that is awarded pursuant to subsection (f),” after “a prototype project” in two places.
+Subsec. (a)(2). Pub. L. 117–263, § 842(1)(A), struck out “, and any follow-on production contract or transaction that is awarded pursuant to subsection (f),” after “a prototype project” in two places.
 
-Subsec. (a)(2)(C). Pub. L. 117–263, § 842(1)(B)–(D), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 117–263, § 842(1)(B)–(D), added subpar. (C).
 
-Subsec. (e)(1) to (4). Pub. L. 117–263, § 842(2), added pars. (1) and (3) and redesignated former pars. (1) and (2) as (2) and (4), respectively.
+Subsec. (e)(1) to (4). Pub. L. 117–263, § 842(2), added pars. (1) and (3) and redesignated former pars. (1) and (2) as (2) and (4), respectively.
 
-Subsec. (e)(5). Pub. L. 117–263, § 843(2), added par. (5).
+Subsec. (e)(5). Pub. L. 117–263, § 843(2), added par. (5).
 
-Subsec. (f)(2). Pub. L. 117–263, § 842(3), substituted “of chapter 221 of this title and even if explicit notification was not listed within the request for proposal for the transaction” for “of section 2304 of this title,”.
+Subsec. (f)(2). Pub. L. 117–263, § 842(3), substituted “of chapter 221 of this title and even if explicit notification was not listed within the request for proposal for the transaction” for “of section 2304 of this title,”.
 
-Subsec. (i). Pub. L. 117–263, § 843(3), added subsec. (i).
+Subsec. (i). Pub. L. 117–263, § 843(3), added subsec. (i).
 
-2021—Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2371b of this title as this section.
+2021—Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2371b of this title as this section.
 
-Subsec. (a)(1). Pub. L. 116–283, § 1841(b)(2)(C), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(IV), substituted “section 4021” for “section 2371”.
+Subsec. (a)(1). Pub. L. 116–283, § 1841(b)(2)(C), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(IV), substituted “section 4021” for “section 2371”.
 
-Subsec. (b)(1). Pub. L. 117–81, § 821(b), substituted “Subsection (e)(2)” for “Subsections (e)(1)(B) and (e)(2)”.
+Subsec. (b)(1). Pub. L. 117–81, § 821(b), substituted “Subsection (e)(2)” for “Subsections (e)(1)(B) and (e)(2)”.
 
-Pub. L. 116–283, § 1841(b)(2)(C), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(IV), substituted “section 4021” for “section 2371”.
+Pub. L. 116–283, § 1841(b)(2)(C), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(IV), substituted “section 4021” for “section 2371”.
 
-Subsec. (c)(3)(A). Pub. L. 116–283, § 1841(b)(2)(C), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(IV), substituted “section 4021” for “section 2371”.
+Subsec. (c)(3)(A). Pub. L. 116–283, § 1841(b)(2)(C), as amended by Pub. L. 117–81, § 1701(u)(2)(F)(i)(IV), substituted “section 4021” for “section 2371”.
 
-Subsec. (e)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 3014” for “section 2302(9)”.
+Subsec. (e)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 3014” for “section 2302(9)”.
 
-Subsec. (f)(2). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2304”, which was redesignated as multiple sections.
+Subsec. (f)(2). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2304”, which was redesignated as multiple sections.
 
 2019—Subsec. (d)(1)(C). Pub. L. 116–92 substituted “sources other than” for “sources other than other than”.
 
-2018—Subsec. (a)(2)(A). Pub. L. 115–232, § 211(1)(A), substituted “for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f),” for “(for a prototype project)” in introductory provisions.
+2018—Subsec. (a)(2)(A). Pub. L. 115–232, § 211(1)(A), substituted “for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f),” for “(for a prototype project)” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 115–232, § 211(1)(B)(i), substituted “for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f),” for “(for a prototype project)” in introductory provisions.
+Subsec. (a)(2)(B). Pub. L. 115–232, § 211(1)(B)(i), substituted “for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f),” for “(for a prototype project)” in introductory provisions.
 
-Subsec. (a)(2)(B)(i). Pub. L. 115–232, § 211(1)(B)(ii), substituted “Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in introductory provisions.
+Subsec. (a)(2)(B)(i). Pub. L. 115–232, § 211(1)(B)(ii), substituted “Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 115–232, § 211(1)(C), which directed substitution of “Under Secretaries of Defense” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in par. (3) of subsec. (a)(2), was executed by making the substitution in par. (3) of subsec. (a), to reflect the probable intent of Congress.
+Subsec. (a)(3). Pub. L. 115–232, § 211(1)(C), which directed substitution of “Under Secretaries of Defense” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in par. (3) of subsec. (a)(2), was executed by making the substitution in par. (3) of subsec. (a), to reflect the probable intent of Congress.
 
-Subsec. (b)(2). Pub. L. 115–232, § 211(2), inserted “the prototype” after “carry out”.
+Subsec. (b)(2). Pub. L. 115–232, § 211(2), inserted “the prototype” after “carry out”.
 
-Subsec. (f)(3) to (5). Pub. L. 115–232, § 211(3), added pars. (3) and (4) and redesignated former par. (3) as (5).
+Subsec. (f)(3) to (5). Pub. L. 115–232, § 211(3), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-2017—Subsec. (a)(2)(A). Pub. L. 115–91, § 864(a)(1), (2), in introductory provisions, substituted “for a transaction (for a prototype project)” for “for a prototype project”, “$100,000,000” for “$50,000,000”, and “$500,000,000” for “$250,000,000”.
+2017—Subsec. (a)(2)(A). Pub. L. 115–91, § 864(a)(1), (2), in introductory provisions, substituted “for a transaction (for a prototype project)” for “for a prototype project”, “$100,000,000” for “$50,000,000”, and “$500,000,000” for “$250,000,000”.
 
-Subsec. (a)(2)(B). Pub. L. 115–91, § 864(a)(1), (3), in introductory provisions, substituted “for a transaction (for a prototype project)” for “for a prototype project” and “$500,000,000” for “$250,000,000”.
+Subsec. (a)(2)(B). Pub. L. 115–91, § 864(a)(1), (3), in introductory provisions, substituted “for a transaction (for a prototype project)” for “for a prototype project” and “$500,000,000” for “$250,000,000”.
 
-Subsec. (d)(1)(A). Pub. L. 115–91, § 216, inserted “or nonprofit research institution” after “defense contractor”.
+Subsec. (d)(1)(A). Pub. L. 115–91, § 216, inserted “or nonprofit research institution” after “defense contractor”.
 
-Subsec. (d)(1)(B). Pub. L. 115–91, § 864(b), inserted “(including small businesses participating in a program described under section 9 of the Small Business Act (15 U.S.C. 638))” after “small businesses”.
+Subsec. (d)(1)(B). Pub. L. 115–91, § 864(b), inserted “(including small businesses participating in a program described under section 9 of the Small Business Act (15 U.S.C. 638))” after “small businesses”.
 
-Subsec. (d)(1)(C). Pub. L. 115–91, § 864(c), substituted “provided by sources other than” for “provided by parties to the transaction”.
+Subsec. (d)(1)(C). Pub. L. 115–91, § 864(c), substituted “provided by sources other than” for “provided by parties to the transaction”.
 
-Subsec. (f)(1). Pub. L. 115–91, § 864(d), inserted at end “A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions.”
+Subsec. (f)(1). Pub. L. 115–91, § 864(d), inserted at end “A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title VIII, § 818(b), Dec. 23, 2024, 138 Stat. 1982, provided that: “This section [amending this section] and the amendments made by this section shall apply with respect to a transaction for a prototype project under section 4022(i) of title 10, United States Code, entered into on or after the date of the enactment of this section [Dec. 23, 2024].”
+Pub. L. 118–159, div. A, title VIII, § 818(b), Dec. 23, 2024, 138 Stat. 1982, provided that: “This section [amending this section] and the amendments made by this section shall apply with respect to a transaction for a prototype project under section 4022(i) of title 10, United States Code, entered into on or after the date of the enactment of this section [Dec. 23, 2024].”
 
 **Effective Date of 2023 Amendment; Implementation**
 
-Pub. L. 118–31, div. A, title VIII, § 822(b), Dec. 22, 2023, 137 Stat. 327, provided that: “The amendments made by this section [amending this section] shall apply with respect to transactions entered into on or after the date of the enactment of this Act [Dec. 22, 2023].”
+Pub. L. 118–31, div. A, title VIII, § 822(b), Dec. 22, 2023, 137 Stat. 327, provided that: “The amendments made by this section [amending this section] shall apply with respect to transactions entered into on or after the date of the enactment of this Act [Dec. 22, 2023].”
 
 Amendment by section 913(a)(3) of Pub. L. 118–31 effective 180 days after Dec. 22, 2023, with additional implementation requirements, see section 913(b)(1), (2) of Pub. L. 118–31, set out as notes under section 1766 of this title.
 
@@ -3857,7 +3857,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Authority for Unaccompanied Housing Project Under Pilot Authority for Use of Other Transactions for Installation or Facility Prototyping**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2828, Dec. 18, 2025, 139 Stat. 1312, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2828, Dec. 18, 2025, 139 Stat. 1312, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may conduct an unaccompanied housing project under section 4022(i) of title 10, United States Code, that is not subject to the limits under paragraph (2) of such section.
 
@@ -3869,11 +3869,11 @@ Pub. L. 119–60, div. B, title XXVIII, § 2828, Dec. 18, 2025, 139 Stat. 1312
 
 **Limitation on Missile Defense Agency Production of Satellites and Ground Systems Associated With Operation of Such Satellites**
 
-Pub. L. 117–81, div. A, title XVI, § 1662(a), Dec. 27, 2021, 135 Stat. 2103, which provided that the Director of the Missile Defense Agency could not authorize or obligate funding for a program of record for the production of satellites or ground systems associated with the operation of such satellites and could authorize, with the concurrence of the Space Acquisition Council, the production of one or more prototype satellites, consistent with the requirements of the Missile Defense Agency, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(2), Dec. 23, 2024, 138 Stat. 2199. See section 5537 of this title.
+Pub. L. 117–81, div. A, title XVI, § 1662(a), Dec. 27, 2021, 135 Stat. 2103, which provided that the Director of the Missile Defense Agency could not authorize or obligate funding for a program of record for the production of satellites or ground systems associated with the operation of such satellites and could authorize, with the concurrence of the Space Acquisition Council, the production of one or more prototype satellites, consistent with the requirements of the Missile Defense Agency, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(2), Dec. 23, 2024, 138 Stat. 2199. See section 5537 of this title.
 
 **Relaxation of Department of Defense Other Transaction Authority Requirements Related to the National Emergency for the Coronavirus Disease 2019**
 
-Pub. L. 116–136, div. B, title III, § 13006, Mar. 27, 2020, 134 Stat. 522, provided that:
+Pub. L. 116–136, div. B, title III, § 13006, Mar. 27, 2020, 134 Stat. 522, provided that:
 
 > **“(a)** Notwithstanding paragraph (3) of section 2371b(a) of title 10, United States Code [now 10 U.S.C. 4022(a)], the authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A) of such section [probably should be “subsection”], and the authority of the Under Secretaries of Defense under paragraph (2)(B) of such section [probably should be “subsection”], for any transaction related to the national emergency for the Coronavirus Disease 2019 (COVID–19) may be delegated to such officials in the Department of Defense as the Secretary of Defense shall specify for purposes of this section.
 
@@ -3887,49 +3887,49 @@ Pub. L. 116–136, div. B, title III, § 13006, Mar. 27, 2020, 134 Stat. 522, 
 
 **Repeal of Obsolete Authority; Transition Provision**
 
-Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896, provided that: “Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; [former] 10 U.S.C. 2371 note) is hereby repealed. Transactions entered into under the authority of such section 845 shall remain in force and effect and shall be modified as appropriate to reflect the amendments made by this section [enacting this section, amending former section 2302 of this title, and amending provisions set out as a note under section 4001 of this title].”
+Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896, provided that: “Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; [former] 10 U.S.C. 2371 note) is hereby repealed. Transactions entered into under the authority of such section 845 shall remain in force and effect and shall be modified as appropriate to reflect the amendments made by this section [enacting this section, amending former section 2302 of this title, and amending provisions set out as a note under section 4001 of this title].”
 
 **Updated Guidance**
 
-Pub. L. 114–92, div. A, title VIII, § 815(e), Nov. 25, 2015, 129 Stat. 896, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall issue updated guidance to implement the amendments made by this section [enacting this section, amending former section 2302 of this title, amending provisions set out as a note under section 4001 of this title, and repealing provisions formerly set out as a note under section 2371 of this title].”
+Pub. L. 114–92, div. A, title VIII, § 815(e), Nov. 25, 2015, 129 Stat. 896, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall issue updated guidance to implement the amendments made by this section [enacting this section, amending former section 2302 of this title, amending provisions set out as a note under section 4001 of this title, and repealing provisions formerly set out as a note under section 2371 of this title].”
 
-### § 4023. Procurement for experimental purposes
+### § 4023. Procurement for experimental purposes
 
 **(a) Authority.—** The Secretary of Defense and the Secretaries of the military departments may each buy demonstrations, prototypes, products, supplies, parts, accessories, auxiliary services, and design for products or services that the Secretary of Defense or the Secretary concerned considers necessary for experimental or test purposes in the development of the best supplies that are needed for the national defense.
 
-**(b) Procedures.—** Purchases under this section may be made or modified inside or outside the United States and by contract or otherwise. Chapter 137 1
+**(b) Procedures.—** Purchases under this section may be made or modified inside or outside the United States and by contract or otherwise. Chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title applies only when such purchases are made in quantities greater than necessary for prototyping, experimentation, technical evaluation, assessment of operational utility, or safety or to provide a residual operational capability.
 
-(Added Pub. L. 103–160, div. A, title VIII, § 822(c)(1), Nov. 30, 1993, 107 Stat. 1706, § 2373; amended Pub. L. 103–337, div. A, title X, § 1070(g), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title VIII, § 812, Feb. 10, 1996, 110 Stat. 395; Pub. L. 114–92, div. A, title VIII, § 814, Nov. 25, 2015, 129 Stat. 893; Pub. L. 115–232, div. A, title VIII, § 886, Aug. 13, 2018, 132 Stat. 1916; renumbered § 4023, Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151; Pub. L. 119–60, div. A, title XVIII, § 1831, Dec. 18, 2025, 139 Stat. 1252.)
+(Added Pub. L. 103–160, div. A, title VIII, § 822(c)(1), Nov. 30, 1993, 107 Stat. 1706, § 2373; amended Pub. L. 103–337, div. A, title X, § 1070(g), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title VIII, § 812, Feb. 10, 1996, 110 Stat. 395; Pub. L. 114–92, div. A, title VIII, § 814, Nov. 25, 2015, 129 Stat. 893; Pub. L. 115–232, div. A, title VIII, § 886, Aug. 13, 2018, 132 Stat. 1916; renumbered § 4023, Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151; Pub. L. 119–60, div. A, title XVIII, § 1831, Dec. 18, 2025, 139 Stat. 1252.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (b), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (b), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
 **Prior Provisions**
 
-A prior section 4023, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to employment of civilians in service club and library services, prior to repeal by Pub. L. 87–651, title I, § 116(1), Sept. 7, 1962, 76 Stat. 513.
+A prior section 4023, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to employment of civilians in service club and library services, prior to repeal by Pub. L. 87–651, title I, § 116(1), Sept. 7, 1962, 76 Stat. 513.
 
-Provisions similar to those in this section were contained in sections 4504 and 9504 of this title, prior to repeal by Pub. L. 103–160, § 822(c)(2).
+Provisions similar to those in this section were contained in sections 4504 and 9504 of this title, prior to repeal by Pub. L. 103–160, § 822(c)(2).
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1831(1), substituted “demonstrations, prototypes, products, supplies, parts, accessories, auxiliary services, and design for products or services” for “ordnance, signal, chemical activity, transportation, energy, medical, space-flight, telecommunications, and aeronautical supplies, including parts and accessories, and designs thereof,”.
+2025—Subsec. (a). Pub. L. 119–60, § 1831(1), substituted “demonstrations, prototypes, products, supplies, parts, accessories, auxiliary services, and design for products or services” for “ordnance, signal, chemical activity, transportation, energy, medical, space-flight, telecommunications, and aeronautical supplies, including parts and accessories, and designs thereof,”.
 
-Subsec. (b). Pub. L. 119–60, § 1831(2), inserted “or modified” after “may be made” and “prototyping,” after “greater than necessary for”.
+Subsec. (b). Pub. L. 119–60, § 1831(2), inserted “or modified” after “may be made” and “prototyping,” after “greater than necessary for”.
 
-2021—Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2373 of this title as this section.
+2021—Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2373 of this title as this section.
 
 2018—Subsec. (a). Pub. L. 115–232 inserted “telecommunications,” after “space-flight,”.
 
-2015—Subsec. (a). Pub. L. 114–92, § 814(a), inserted “transportation, energy, medical, space-flight,” before “and aeronautical supplies”.
+2015—Subsec. (a). Pub. L. 114–92, § 814(a), inserted “transportation, energy, medical, space-flight,” before “and aeronautical supplies”.
 
-Subsec. (b). Pub. L. 114–92, § 814(b), substituted “only when such purchases are made in quantities greater than necessary for experimentation, technical evaluation, assessment of operational utility, or safety or to provide a residual operational capability” for “only when such purchases are made in quantity”.
+Subsec. (b). Pub. L. 114–92, § 814(b), substituted “only when such purchases are made in quantities greater than necessary for experimentation, technical evaluation, assessment of operational utility, or safety or to provide a residual operational capability” for “only when such purchases are made in quantity”.
 
 1996—Subsec. (b). Pub. L. 104–106 inserted “only” after “applies” in second sentence.
 
@@ -3943,7 +3943,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-### § 4024. Merit-based award of grants for research and development
+### § 4024. Merit-based award of grants for research and development
 
 **(a)** It is the policy of Congress that an agency named in section 3063 of this title should not be required by legislation to award a new grant for research, development, test, or evaluation to a non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be awarded through merit-based selection procedures.
 
@@ -3959,7 +3959,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(d)** This section shall not apply with respect to any grant that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 3063 of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Added Pub. L. 103–355, title VII, § 7203(a)(2), Oct. 13, 1994, 108 Stat. 3380, § 2374; renumbered § 4024 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(b)(1), (c), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (D), Dec. 27, 2021, 135 Stat. 2151; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(31), Dec. 22, 2023, 137 Stat. 685.)
+(Added Pub. L. 103–355, title VII, § 7203(a)(2), Oct. 13, 1994, 108 Stat. 3380, § 2374; renumbered § 4024 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(b)(1), (c), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (D), Dec. 27, 2021, 135 Stat. 2151; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(31), Dec. 22, 2023, 137 Stat. 685.)
 
 **Editorial Notes**
 
@@ -3971,11 +3971,11 @@ A prior section 4024 was renumbered section 7374 of this title.
 
 2023—Subsecs. (a), (d). Pub. L. 118–31 substituted “section 3063 of this title” for “section 2303(a) of this title”.
 
-2021—Pub. L. 116–283, § 1841(c), which directed the renumbering of section 2374 of this title as section 4008 instead of this section, was amended generally by Pub. L. 117–81, § 1701(u)(2)(D), effective as if included therein, so that such renumbering was no longer directed.
+2021—Pub. L. 116–283, § 1841(c), which directed the renumbering of section 2374 of this title as section 4008 instead of this section, was amended generally by Pub. L. 117–81, § 1701(u)(2)(D), effective as if included therein, so that such renumbering was no longer directed.
 
-Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2374 of this title as this section.
+Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2374 of this title as this section.
 
-Subsecs. (a), (d). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2303(a)”, which was redesignated as multiple sections.
+Subsecs. (a), (d). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2303(a)”, which was redesignated as multiple sections.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3989,7 +3989,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 8752 of this title.
 
-### § 4025. Prizes for advanced technology achievements
+### § 4025. Prizes for advanced technology achievements
 
 **(a) Authority.—** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, the Director of the Defense Innovation Unit, and the service acquisition executive for each military department, may carry out programs to award cash prizes and other types of prizes, including procurement contracts and other agreements, that the Secretary determines are appropriate to recognize outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that—
 
@@ -4029,7 +4029,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 **(E)** an explanation of the benefit to the performance of the military mission of the Department of Defense resulting from the award.
 
-(Added Pub. L. 106–65, div. A, title II, § 244(a), Oct. 5, 1999, 113 Stat. 552, § 2374a; amended Pub. L. 107–314, div. A, title II, § 248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, § 1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, § 257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, § 212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, § 253, Oct. 28, 2009, 123 Stat. 2243; Pub. L. 111–383, div. A, title IX, § 901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 113–66, div. A, title II, § 263, Dec. 26, 2013, 127 Stat. 726; Pub. L. 113–291, div. A, title II, § 211, Dec. 19, 2014, 128 Stat. 3324; Pub. L. 114–92, div. A, title X, § 1079(a), Nov. 25, 2015, 129 Stat. 999; Pub. L. 114–328, div. A, title X, § 1081(c)(6), Dec. 23, 2016, 130 Stat. 2420; Pub. L. 115–91, div. A, title II, § 213, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title X, § 1081(a)(21), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title II, § 215, Dec. 20, 2019, 133 Stat. 1257; renumbered § 4025 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(b)(1), 1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4244, 4294; Pub. L. 117–81, div. A, title VIII, § 822, title XVII, § 1701(q)(1), (u)(2)(B), (3)(B), Dec. 27, 2021, 135 Stat. 1825, 2148, 2151, 2152; Pub. L. 117–263, div. A, title VIII, § 844, Dec. 23, 2022, 136 Stat. 2719; Pub. L. 119–60, div. A, title II, § 211, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 772, 1227.)
+(Added Pub. L. 106–65, div. A, title II, § 244(a), Oct. 5, 1999, 113 Stat. 552, § 2374a; amended Pub. L. 107–314, div. A, title II, § 248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, § 1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, § 257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, § 212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, § 253, Oct. 28, 2009, 123 Stat. 2243; Pub. L. 111–383, div. A, title IX, § 901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 113–66, div. A, title II, § 263, Dec. 26, 2013, 127 Stat. 726; Pub. L. 113–291, div. A, title II, § 211, Dec. 19, 2014, 128 Stat. 3324; Pub. L. 114–92, div. A, title X, § 1079(a), Nov. 25, 2015, 129 Stat. 999; Pub. L. 114–328, div. A, title X, § 1081(c)(6), Dec. 23, 2016, 130 Stat. 2420; Pub. L. 115–91, div. A, title II, § 213, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title X, § 1081(a)(21), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title II, § 215, Dec. 20, 2019, 133 Stat. 1257; renumbered § 4025 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(b)(1), 1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4244, 4294; Pub. L. 117–81, div. A, title VIII, § 822, title XVII, § 1701(q)(1), (u)(2)(B), (3)(B), Dec. 27, 2021, 135 Stat. 1825, 2148, 2151, 2152; Pub. L. 117–263, div. A, title VIII, § 844, Dec. 23, 2022, 136 Stat. 2719; Pub. L. 119–60, div. A, title II, § 211, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 772, 1227.)
 
 **Editorial Notes**
 
@@ -4039,75 +4039,75 @@ A prior section 4025 was renumbered section 7375 of this title.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 211(a), inserted “the Director of the Defense Innovation Unit,” after “the Under Secretary of Defense for Acquisition and Sustainment,” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–60, § 211(a), inserted “the Director of the Defense Innovation Unit,” after “the Under Secretary of Defense for Acquisition and Sustainment,” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 119–60, § 211(b)(1), substituted “$20,000,000” for “$10,000,000”.
+Subsec. (c)(1). Pub. L. 119–60, § 211(b)(1), substituted “$20,000,000” for “$10,000,000”.
 
-Subsec. (c)(2). Pub. L. 119–60, § 211(b)(2), substituted “$2,000,000” for “$1,000,000”.
+Subsec. (c)(2). Pub. L. 119–60, § 211(b)(2), substituted “$2,000,000” for “$1,000,000”.
 
-Subsec. (c)(3). Pub. L. 119–60, § 211(b)(3), substituted “$20,000” for “$10,000”.
+Subsec. (c)(3). Pub. L. 119–60, § 211(b)(3), substituted “$20,000” for “$10,000”.
 
-Subsec. (g)(1). Pub. L. 119–60, § 211(c), substituted “$20,000,000” for “$10,000,000”.
+Subsec. (g)(1). Pub. L. 119–60, § 211(c), substituted “$20,000,000” for “$10,000,000”.
 
-Subsec. (g)(2)(C). Pub. L. 119–60, § 1802(b)(1)(A), substituted “portfolio acquisition executive” for “program executive officer” in two places.
+Subsec. (g)(2)(C). Pub. L. 119–60, § 1802(b)(1)(A), substituted “portfolio acquisition executive” for “program executive officer” in two places.
 
-2022—Subsec. (a). Pub. L. 117–263, § 844(1), substituted “development that—” for “development that”, inserted par. (1) designation before “have the potential”, substituted “Defense; or” for “Defense.”, and added par. (2).
+2022—Subsec. (a). Pub. L. 117–263, § 844(1), substituted “development that—” for “development that”, inserted par. (1) designation before “have the potential”, substituted “Defense; or” for “Defense.”, and added par. (2).
 
-Subsec. (b). Pub. L. 117–263, § 844(2), struck out “of research results, technology developments, and prototypes” before period at end.
+Subsec. (b). Pub. L. 117–263, § 844(2), struck out “of research results, technology developments, and prototypes” before period at end.
 
-Subsec. (d). Pub. L. 117–263, § 844(3), struck out “to acquire, support, or stimulate basic, advanced and applied research, technology development, or prototype projects” before period at end.
+Subsec. (d). Pub. L. 117–263, § 844(3), struck out “to acquire, support, or stimulate basic, advanced and applied research, technology development, or prototype projects” before period at end.
 
-Subsec. (f). Pub. L. 117–263, § 844(4), substituted “chapter 221” for “section 2304”.
+Subsec. (f). Pub. L. 117–263, § 844(4), substituted “chapter 221” for “section 2304”.
 
-Subsec. (g)(2)(B) to (E). Pub. L. 117–263, § 844(5), added subpars. (B) and (C) and redesignated former subpars. (B) and (C) as (D) and (E), respectively.
+Subsec. (g)(2)(B) to (E). Pub. L. 117–263, § 844(5), added subpars. (B) and (C) and redesignated former subpars. (B) and (C) as (D) and (E), respectively.
 
-2021—Pub. L. 116–283, § 1842(b), which directed the renumbering of section 2374a of this title as section 4065 instead of this section, was amended by Pub. L. 117–81, § 1701(q)(1), (u)(3)(B), effective as if included therein, so that such renumbering was no longer directed.
+2021—Pub. L. 116–283, § 1842(b), which directed the renumbering of section 2374a of this title as section 4065 instead of this section, was amended by Pub. L. 117–81, § 1701(q)(1), (u)(3)(B), effective as if included therein, so that such renumbering was no longer directed.
 
-Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2374a of this title as this section.
+Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2374a of this title as this section.
 
-Subsec. (a). Pub. L. 117–81, § 822(1), inserted “, including procurement contracts and other agreements,” after “other types of prizes”.
+Subsec. (a). Pub. L. 117–81, § 822(1), inserted “, including procurement contracts and other agreements,” after “other types of prizes”.
 
-Subsec. (b). Pub. L. 117–81, § 822(2), inserted “and for the selection of recipients of procurement contracts and other agreements” after “cash prizes”.
+Subsec. (b). Pub. L. 117–81, § 822(2), inserted “and for the selection of recipients of procurement contracts and other agreements” after “cash prizes”.
 
-Subsec. (c)(1). Pub. L. 117–81, § 822(3), inserted “without the approval of the Under Secretary of Defense for Research and Engineering” before period at end.
+Subsec. (c)(1). Pub. L. 117–81, § 822(3), inserted “without the approval of the Under Secretary of Defense for Research and Engineering” before period at end.
 
-Subsec. (f). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2304”, which was redesignated as multiple sections.
+Subsec. (f). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2304”, which was redesignated as multiple sections.
 
-Subsec. (g). Pub. L. 117–81, § 822(4), added subsec. (g).
+Subsec. (g). Pub. L. 117–81, § 822(4), added subsec. (g).
 
 2019—Subsec. (a). Pub. L. 116–92 substituted “Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment,” for “Assistant Secretary of Defense for Research and Engineering”.
 
 2018—Subsec. (e). Pub. L. 115–232 substituted “Federal Government,” for “Federal Government,,”.
 
-2017—Subsec. (a). Pub. L. 115–91, § 213(1), substituted “and other types of prizes that the Secretary determines are appropriate to recognize” for “in recognition of”.
+2017—Subsec. (a). Pub. L. 115–91, § 213(1), substituted “and other types of prizes that the Secretary determines are appropriate to recognize” for “in recognition of”.
 
-Subsec. (c)(1). Pub. L. 115–91, § 213(2)(A), substituted “prize with a fair market value of” for “cash prize of”.
+Subsec. (c)(1). Pub. L. 115–91, § 213(2)(A), substituted “prize with a fair market value of” for “cash prize of”.
 
-Subsec. (c)(2). Pub. L. 115–91, § 213(2)(B), substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (c)(2). Pub. L. 115–91, § 213(2)(B), substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (c)(3). Pub. L. 115–91, § 213(2)(C), added par. (3).
+Subsec. (c)(3). Pub. L. 115–91, § 213(2)(C), added par. (3).
 
-Subsec. (e). Pub. L. 115–91, § 213(3), inserted “or nonmonetary items” after “accept funds”, substituted “, from State and local governments, and from the private sector” for “and from State and local governments”, and inserted at end “The Secretary may not give any special consideration to any private sector entity in return for a donation.”
+Subsec. (e). Pub. L. 115–91, § 213(3), inserted “or nonmonetary items” after “accept funds”, substituted “, from State and local governments, and from the private sector” for “and from State and local governments”, and inserted at end “The Secretary may not give any special consideration to any private sector entity in return for a donation.”
 
-Subsec. (f). Pub. L. 115–91, § 213(4), amended subsec. (f) generally. Prior to amendment, text read as follows: “The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2018.”
+Subsec. (f). Pub. L. 115–91, § 213(4), amended subsec. (f) generally. Prior to amendment, text read as follows: “The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2018.”
 
-2016—Subsecs. (f), (g). Pub. L. 114–328, § 1081(c)(6), made technical amendment to directory language of Pub. L. 114–92, § 1079(a). See 2015 Amendment note below.
+2016—Subsecs. (f), (g). Pub. L. 114–328, § 1081(c)(6), made technical amendment to directory language of Pub. L. 114–92, § 1079(a). See 2015 Amendment note below.
 
-2015—Subsecs. (f), (g). Pub. L. 114–92, § 1079(a), as amended by Pub. L. 114–328, § 1081(c)(6), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to biennial reports.
+2015—Subsecs. (f), (g). Pub. L. 114–92, § 1079(a), as amended by Pub. L. 114–328, § 1081(c)(6), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to biennial reports.
 
-2014—Subsec. (c)(1). Pub. L. 113–291, § 211(a), substituted “No prize competition may result in the award of a cash prize of more than $10,000,000.” for “The total amount made available for award of cash prizes in a fiscal year may not exceed $10,000,000.”
+2014—Subsec. (c)(1). Pub. L. 113–291, § 211(a), substituted “No prize competition may result in the award of a cash prize of more than $10,000,000.” for “The total amount made available for award of cash prizes in a fiscal year may not exceed $10,000,000.”
 
-Subsec. (e). Pub. L. 113–291, § 211(b)(2), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 113–291, § 211(b)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 113–291, § 211(c)(3), substituted “Biennial” for “Annual” in heading.
+Subsec. (f). Pub. L. 113–291, § 211(c)(3), substituted “Biennial” for “Annual” in heading.
 
-Pub. L. 113–291, § 211(b)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Pub. L. 113–291, § 211(b)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1). Pub. L. 113–291, § 211(c)(1), substituted “every other year” for “each year” and “two fiscal years” for “fiscal year”.
+Subsec. (f)(1). Pub. L. 113–291, § 211(c)(1), substituted “every other year” for “each year” and “two fiscal years” for “fiscal year”.
 
-Subsec. (f)(2). Pub. L. 113–291, § 211(c)(2), substituted “a period of two fiscal years” for “a fiscal year” in introductory provisions.
+Subsec. (f)(2). Pub. L. 113–291, § 211(c)(2), substituted “a period of two fiscal years” for “a fiscal year” in introductory provisions.
 
-Subsec. (g). Pub. L. 113–291, § 211(b)(1), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 113–291, § 211(b)(1), redesignated subsec. (f) as (g).
 
 2013—Subsec. (f). Pub. L. 113–66 substituted “September 30, 2018” for “September 30, 2013”.
 
@@ -4115,13 +4115,13 @@ Subsec. (g). Pub. L. 113–291, § 211(b)(1), redesignated subsec. (f) as (g).
 
 2009—Subsec. (f). Pub. L. 111–84 substituted “2013” for “2010”.
 
-2006—Subsec. (a). Pub. L. 109–364, § 212(a)(1), substituted “Director of Defense Research and Engineering and the service acquisition executive for each military department” for “Director of the Defense Advanced Research Projects Agency” and “programs” for “a program”.
+2006—Subsec. (a). Pub. L. 109–364, § 212(a)(1), substituted “Director of Defense Research and Engineering and the service acquisition executive for each military department” for “Director of the Defense Advanced Research Projects Agency” and “programs” for “a program”.
 
-Subsec. (b). Pub. L. 109–364, § 212(a)(2)(A), substituted “Each program” for “The program”.
+Subsec. (b). Pub. L. 109–364, § 212(a)(2)(A), substituted “Each program” for “The program”.
 
-Subsec. (d). Pub. L. 109–364, § 212(a)(2)(B), substituted “A program” for “The program” and “an official referred to in that subsection” for “the Director”.
+Subsec. (d). Pub. L. 109–364, § 212(a)(2)(B), substituted “A program” for “The program” and “an official referred to in that subsection” for “the Director”.
 
-Subsec. (e). Pub. L. 109–364, § 212(c), reenacted heading without change and amended text generally. Prior to amendment, subsec. (e) required an annual report, which included the results of consultations between the Director and officials of the military departments, a description of goals, cash prizes, methods used for submissions, a description of resources, and a description of transition plans.
+Subsec. (e). Pub. L. 109–364, § 212(c), reenacted heading without change and amended text generally. Prior to amendment, subsec. (e) required an annual report, which included the results of consultations between the Director and officials of the military departments, a description of goals, cash prizes, methods used for submissions, a description of resources, and a description of transition plans.
 
 Pub. L. 109–163 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Promptly after the end of each fiscal year during which one or more prizes are awarded under the program under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of the program for that fiscal year. The report shall include the following:
 
@@ -4131,7 +4131,7 @@ Pub. L. 109–163 reenacted heading without change and amended text generally. P
 
 “(3) The methods used for solicitation and evaluation of submissions, together with an assessment of the effectiveness of those methods.”
 
-Subsec. (f). Pub. L. 109–364, § 212(b), substituted “2010” for “2007”.
+Subsec. (f). Pub. L. 109–364, § 212(b), substituted “2010” for “2007”.
 
 2003—Subsec. (e). Pub. L. 108–136 inserted “during which one or more prizes are awarded under the program under subsection (a)” after “each fiscal year” in introductory provisions.
 
@@ -4147,7 +4147,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title X, § 1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(6) is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.
+Pub. L. 114–328, div. A, title X, § 1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(6) is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.
 
 **Effective Date of 2011 Amendment**
 
@@ -4155,7 +4155,7 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Prize Competition for Technology That Detects and Watermarks Use of Generative Artificial Intelligence**
 
-Pub. L. 118–31, div. A, title XV, § 1543, Dec. 22, 2023, 137 Stat. 573, provided that:
+Pub. L. 118–31, div. A, title XV, § 1543, Dec. 22, 2023, 137 Stat. 573, provided that:
 
 > **“(a) Establishment.—** Not later than 270 days after the date of the enactment of this Act [Dec. 22, 2023], under the authority of section 4025 of title 10, United States Code, the Secretary of Defense shall establish a prize competition designed to evaluate technology (including applications, tools, and models) for generative artificial intelligence detection and generative artificial intelligence watermarking, for the purposes of—
 
@@ -4183,25 +4183,25 @@ Pub. L. 118–31, div. A, title XV, § 1543, Dec. 22, 2023, 137 Stat. 573, pro
 
 **Prize Competition To Identify Root Cause of Physiological Episodes on Navy, Marine Corps, and Air Force Training and Operational Aircraft**
 
-Pub. L. 115–91, div. A, title X, § 1089, Dec. 12, 2017, 131 Stat. 1605, as amended by Pub. L. 116–283, div. A, title XVIII, § 1842(c)(1), Jan. 1, 2021, 134 Stat. 4244; Pub. L. 117–81, div. A, title XVII, § 1701(u)(3)(C), Dec. 27, 2021, 135 Stat. 2152, which provided for the establishment of a prize competition designed to accelerate identification of the root cause of, or to find solutions to, physiological episodes experienced in Navy, Marine Corps, and Air Force training and operational aircraft, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(6)(C), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 115–91, div. A, title X, § 1089, Dec. 12, 2017, 131 Stat. 1605, as amended by Pub. L. 116–283, div. A, title XVIII, § 1842(c)(1), Jan. 1, 2021, 134 Stat. 4244; Pub. L. 117–81, div. A, title XVII, § 1701(u)(3)(C), Dec. 27, 2021, 135 Stat. 2152, which provided for the establishment of a prize competition designed to accelerate identification of the root cause of, or to find solutions to, physiological episodes experienced in Navy, Marine Corps, and Air Force training and operational aircraft, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(6)(C), Dec. 18, 2025, 139 Stat. 948.
 
-### § 4026. Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980
+### § 4026. Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980
 
 The Secretary of Defense, in carrying out research projects through the Defense Advanced Research Projects Agency, and the Secretary of each military department, in carrying out research projects, may permit the director of any federally funded research and development center to enter into cooperative research and development agreements with any person, any agency or instrumentality of the United States, any unit of State or local government, and any other entity under the authority granted by section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a). Technology may be transferred to a non-Federal party to such an agreement consistent with the provisions of sections 11 and 12 of such Act (15 U.S.C. 3710, 3710a).
 
-(Added and amended Pub. L. 104–201, div. A, title II, § 267(c)(1)(A), (B), Sept. 23, 1996, 110 Stat. 2468, § 2371a; Pub. L. 105–85, div. A, title X, § 1073(a)(50), Nov. 18, 1997, 111 Stat. 1903; renumbered § 4026 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(b)(1), 1844(b)(1), Jan. 1, 2021, 134 Stat. 4243, 4245; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (5)(B), Dec. 27, 2021, 135 Stat. 2151, 2154.)
+(Added and amended Pub. L. 104–201, div. A, title II, § 267(c)(1)(A), (B), Sept. 23, 1996, 110 Stat. 2468, § 2371a; Pub. L. 105–85, div. A, title X, § 1073(a)(50), Nov. 18, 1997, 111 Stat. 1903; renumbered § 4026 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(b)(1), 1844(b)(1), Jan. 1, 2021, 134 Stat. 4243, 4245; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (5)(B), Dec. 27, 2021, 135 Stat. 2151, 2154.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 2371(i) of this title, which was transferred to this section, redesignated as text of section, and amended by Pub. L. 104–201, § 267(c)(1)(A), (B), was based on Pub. L. 103–355, title I, § 1301(b), Oct. 13, 1994, 108 Stat. 3286.
+The text of section 2371(i) of this title, which was transferred to this section, redesignated as text of section, and amended by Pub. L. 104–201, § 267(c)(1)(A), (B), was based on Pub. L. 103–355, title I, § 1301(b), Oct. 13, 1994, 108 Stat. 3286.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of section 2371a of this title as section 4143 instead of this section, was repealed, and a new section 1844(b) was enacted, by Pub. L. 117–81, § 1701(u)(5)(D), effective as if included therein, so that such renumbering was no longer directed.
+2021—Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of section 2371a of this title as section 4143 instead of this section, was repealed, and a new section 1844(b) was enacted, by Pub. L. 117–81, § 1701(u)(5)(D), effective as if included therein, so that such renumbering was no longer directed.
 
-Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2371a of this title as this section.
+Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2371a of this title as this section.
 
 1997—Pub. L. 105–85 inserted “Defense” before “Advanced Research Projects Agency”.
 
@@ -4215,7 +4215,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-### § 4027. Disclosure requirements for recipients of research and development funds
+### § 4027. Disclosure requirements for recipients of research and development funds
 
 **(a) In General.—** Except as provided in subsections (b) and (c), an individual or entity (including a State or local government) that uses funds received from the Department of Defense to carry out research or development activities shall include, in any public document pertaining to such activities, a clear statement indicating the dollar amount of the funds received from the Department for such activities.
 
@@ -4225,7 +4225,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(d) Public Document Defined.—** In this section, the term “public document” means any document or other written statement made available for public reference or use, regardless of whether such document or statement is made available in hard copy or electronic format.
 
-(Added Pub. L. 116–283, div. A, title II, § 212(a)(1), Jan. 1, 2021, 134 Stat. 3456, § 2374b; renumbered § 4027, Pub. L. 117–81, div. A, title XVII, § 1701(e)(4)(A), Dec. 27, 2021, 135 Stat. 2139.)
+(Added Pub. L. 116–283, div. A, title II, § 212(a)(1), Jan. 1, 2021, 134 Stat. 3456, § 2374b; renumbered § 4027, Pub. L. 117–81, div. A, title XVII, § 1701(e)(4)(A), Dec. 27, 2021, 135 Stat. 2139.)
 
 **Editorial Notes**
 
@@ -4241,14 +4241,14 @@ A prior section 4027 was renumbered section 7377 of this title.
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–263, div. A, title VIII, § 881(a), Dec. 23, 2022, 136 Stat. 2744, provided that: “The amendments made by section 1701(e) and paragraphs (1) and (2) of section 802(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) [renumbering this section and sections 4094, 4873, 4875, and 8755 of this title] shall be deemed to have taken effect immediately before the amendments made by section 1881 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 4293) [see Tables for classification].”
+Pub. L. 117–263, div. A, title VIII, § 881(a), Dec. 23, 2022, 136 Stat. 2744, provided that: “The amendments made by section 1701(e) and paragraphs (1) and (2) of section 802(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) [renumbering this section and sections 4094, 4873, 4875, and 8755 of this title] shall be deemed to have taken effect immediately before the amendments made by section 1881 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 4293) [see Tables for classification].”
 
 [Subsec. (a) of section 1881 of Pub. L. 116–283, referred to in section 881(a) of Pub. L. 117–263, set out above, provided in part that chapter 139 of this title, in which chapter section 2374b of this title had been located, was repealed.]
 
 **Effective Date**
 
-Pub. L. 116–283, div. A, title II, § 212(b), Jan. 1, 2021, 134 Stat. 3456, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on October 1, 2021, and shall apply with respect to funds for research and development that are awarded by the Department of Defense on or after that date.”
+Pub. L. 116–283, div. A, title II, § 212(b), Jan. 1, 2021, 134 Stat. 3456, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on October 1, 2021, and shall apply with respect to funds for research and development that are awarded by the Department of Defense on or after that date.”
 
 **Treatment of Section 4027 Requirements**
 
-Pub. L. 117–263, div. A, title VIII, § 881(b), Dec. 23, 2022, 136 Stat. 2744, provided that: “An individual or entity to which the requirements under section 4027 of title 10, United States Code, were applicable during the period beginning on January 1, 2022, and ending on the date of the enactment of this Act [Dec. 23, 2022] pursuant to subsection (a) [set out as an Effective Date of 2021 Amendment note above] shall be deemed to have complied with such requirements during such period.”
+Pub. L. 117–263, div. A, title VIII, § 881(b), Dec. 23, 2022, 136 Stat. 2744, provided that: “An individual or entity to which the requirements under section 4027 of title 10, United States Code, were applicable during the period beginning on January 1, 2022, and ending on the date of the enactment of this Act [Dec. 23, 2022] pursuant to subsection (a) [set out as an Effective Date of 2021 Amendment note above] shall be deemed to have complied with such requirements during such period.”

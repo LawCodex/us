@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 75—NATIONAL TRADE DATA BANK
 
-## § 4901. Definitions
+## § 4901. Definitions
 
 For purposes of this chapter—
 
@@ -25,9 +25,9 @@ For purposes of this chapter—
 
 **(3)** the term “Executive agency” has the same meaning as in section 105 of title 5;
 
-**(4)** the term “export promotion data system” means the data system known as the Commercial Information Management System which is maintained and operated by the United States and Foreign Commercial Service and is established as part of the Data Bank under section 4906 1
+**(4)** the term “export promotion data system” means the data system known as the Commercial Information Management System which is maintained and operated by the United States and Foreign Commercial Service and is established as part of the Data Bank under section 4906 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -35,17 +35,17 @@ of this title;
 
 **(6)** the term “Secretary” means the Secretary of Commerce.
 
-(Pub. L. 100–418, title V, § 5401, Aug. 23, 1988, 102 Stat. 1463.)
+(Pub. L. 100–418, title V, § 5401, Aug. 23, 1988, 102 Stat. 1463.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 5401 to 5413, 5421 to 5423) of title V of Pub. L. 100–418 which, in addition to enacting this chapter, enacted section 4603a of this title and section 194b of Title 2, The Congress. For complete classification of subtitle E to the Code, see Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 5401 to 5413, 5421 to 5423) of title V of Pub. L. 100–418 which, in addition to enacting this chapter, enacted section 4603a of this title and section 194b of Title 2, The Congress. For complete classification of subtitle E to the Code, see Tables.
 
 Section 4906 of this title, referred to in par. (4), was in the original “section 3816”, meaning section 3816 of Pub. L. 100–418, and was translated as if it read section 5406 of Pub. L. 100–418, to reflect the probable intent of Congress, because section 3816 was the provision which established the Data Bank in a predecessor version of H.R. 4848 (which became Pub. L. 100–418), Pub. L. 100–418 does not contain a section 3816, and section 5406 of Pub. L. 100–418 is the provision establishing the Data Bank.
 
-## § 4902. Interagency Trade Data Advisory Committee
+## § 4902. Interagency Trade Data Advisory Committee
 
 **(a) Establishment**
 
@@ -89,7 +89,7 @@ The Secretary of Commerce shall be Chairman of the Committee.
 
 Any member of the Committee may appoint a designee to serve in place of such member on the Committee.
 
-(Pub. L. 100–418, title V, § 5402, Aug. 23, 1988, 102 Stat. 1463; Pub. L. 115–254, div. F, title VI, § 1470(f), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 100–418, title V, § 5402, Aug. 23, 1988, 102 Stat. 1463; Pub. L. 115–254, div. F, title VI, § 1470(f), Oct. 5, 2018, 132 Stat. 3516.)
 
 **Editorial Notes**
 
@@ -111,25 +111,25 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 4903. Functions of Committee
+## § 4903. Functions of Committee
 
 The Committee shall advise the Secretary of Commerce, as appropriate, on the establishment, structure, contents, and operation of a National Trade Data Bank in accordance with section 4906 of this title in order to assure the timely collection of accurate data and to provide the private sector and government officials efficient access to economic and trade data collected by the Federal Government for purposes of policymaking and export promotion.
 
-(Pub. L. 100–418, title V, § 5403, Aug. 23, 1988, 102 Stat. 1464.)
+(Pub. L. 100–418, title V, § 5403, Aug. 23, 1988, 102 Stat. 1464.)
 
-## § 4904. Consultation with private sector and government officials
+## § 4904. Consultation with private sector and government officials
 
 The Secretary shall regularly consult with representatives of the private sector and officials of State and local governments to assess the adequacy of United States trade information. The Secretary shall seek recommendations on how trade information can be made more accessible, understandable, and relevant. The Secretary shall seek recommendations as to what data should be included in the export promotion data system in the Data Bank.
 
-(Pub. L. 100–418, title V, § 5404, Aug. 23, 1988, 102 Stat. 1464.)
+(Pub. L. 100–418, title V, § 5404, Aug. 23, 1988, 102 Stat. 1464.)
 
-## § 4905. Cooperation among executive agencies
+## § 4905. Cooperation among executive agencies
 
 Each executive agency shall furnish to the Secretary such information for inclusion in the National Trade Data Bank as the Secretary, in consultation with the Advisory Committee, considers necessary to the operation of the Data Bank.
 
-(Pub. L. 100–418, title V, § 5405, Aug. 23, 1988, 102 Stat. 1464.)
+(Pub. L. 100–418, title V, § 5405, Aug. 23, 1988, 102 Stat. 1464.)
 
-## § 4906. Establishment of Data Bank
+## § 4906. Establishment of Data Bank
 
 **(a) Establishment**
 
@@ -175,9 +175,9 @@ Within 2 years after August 23, 1988, the Secretary of Commerce shall establish 
 
 **(7)** import and export data for the United States on a State-by-State basis aggregated at the product level including—
 
-**(A)** data concerning the country shipping the import, the State of first destination, and the original part 1
+**(A)** data concerning the country shipping the import, the State of first destination, and the original part 1
 
-<sup>1</sup>  So in original. Probably should be “port”.
+<sup>1</sup> So in original. Probably should be “port”.
 
 of entry for imports of goods and, to the extent possible, services; and
 
@@ -219,9 +219,9 @@ of entry for imports of goods and, to the extent possible, services; and
 
 **(6)** any other similar information, that the Secretary determines to be useful in carrying out the purposes of this chapter.
 
-(Pub. L. 100–418, title V, § 5406, Aug. 23, 1988, 102 Stat. 1464.)
+(Pub. L. 100–418, title V, § 5406, Aug. 23, 1988, 102 Stat. 1464.)
 
-## § 4907. Operation of Data Bank
+## § 4907. Operation of Data Bank
 
 The Secretary shall manage the Data Bank to provide the most appropriate data retrieval system or systems possible. Such system or systems shall—
 
@@ -247,9 +247,9 @@ The Secretary shall manage the Data Bank to provide the most appropriate data re
 
 **(4)** facilitate dissemination of information through nonprofit organizations with significant outreach programs which complement the regional outreach programs of the United States and Foreign Commercial Service.
 
-(Pub. L. 100–418, title V, § 5407, Aug. 23, 1988, 102 Stat. 1466.)
+(Pub. L. 100–418, title V, § 5407, Aug. 23, 1988, 102 Stat. 1466.)
 
-## § 4908. Information on service sector
+## § 4908. Information on service sector
 
 **(a) Service sector information**
 
@@ -279,9 +279,9 @@ The Secretary shall ensure that, to the extent possible, there is included in th
 
 **(2)** an index of leading indicators which includes the measurement of service sector activity in direct proportion to the contribution of the service sector to the gross national product of the United States.
 
-(Pub. L. 100–418, title V, § 5408, Aug. 23, 1988, 102 Stat. 1466.)
+(Pub. L. 100–418, title V, § 5408, Aug. 23, 1988, 102 Stat. 1466.)
 
-## § 4909. Exclusion of information
+## § 4909. Exclusion of information
 
 The Data Bank shall not include any information—
 
@@ -289,30 +289,30 @@ The Data Bank shall not include any information—
 
 **(2)** that is specifically authorized under criteria established by statute or an Executive order not to be disclosed in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order.
 
-(Pub. L. 100–418, title V, § 5409, Aug. 23, 1988, 102 Stat. 1467.)
+(Pub. L. 100–418, title V, § 5409, Aug. 23, 1988, 102 Stat. 1467.)
 
-## § 4910. Nonduplication
+## § 4910. Nonduplication
 
 The Secretary shall ensure that information systems created or developed pursuant to this chapter do not unnecessarily duplicate information systems available from other Federal agencies or from the private sector.
 
-(Pub. L. 100–418, title V, § 5410, Aug. 23, 1988, 102 Stat. 1467.)
+(Pub. L. 100–418, title V, § 5410, Aug. 23, 1988, 102 Stat. 1467.)
 
-## § 4911. Collection of data
+## § 4911. Collection of data
 
 Except as provided in section 4908 of this title, nothing in this chapter shall be considered to grant independent authority to the Federal Government to collect any data or information from individuals or entities outside of the Federal Government.
 
-(Pub. L. 100–418, title V, § 5411, Aug. 23, 1988, 102 Stat. 1467.)
+(Pub. L. 100–418, title V, § 5411, Aug. 23, 1988, 102 Stat. 1467.)
 
-## § 4912. Fees and access
+## § 4912. Fees and access
 
 The Secretary shall provide reasonable public services and access (including electronic access) to any information maintained as part of the Data Bank and may charge reasonable fees consistent with section 552 of title 5.
 
-(Pub. L. 100–418, title V, § 5412, Aug. 23, 1988, 102 Stat. 1467.)
+(Pub. L. 100–418, title V, § 5412, Aug. 23, 1988, 102 Stat. 1467.)
 
-## § 4913. Omitted
+## § 4913. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 100–418, title V, § 5413, Aug. 23, 1988, 102 Stat. 1467, required the Secretary to submit to committees of Congress, not more than 1 year after Aug. 23, 1988, a report describing actions taken pursuant to this chapter, and to submit to committees of Congress, not more than 3 years after Aug. 23, 1988, a report assessing the current quality and comprehensiveness of, and the ability of the public and of private entities to obtain access to trade data, describing all other actions taken and planned to be taken pursuant to this chapter, including comments by the private sector and by State agencies that promote exports on the implementation of the Data Bank, describing the extent to which the systems within the Data Bank are being used and any recommendations with regard to the operation of the system, and describing the extent to which United States citizens and firms have access to the data banks of foreign countries that is similar to the access provided to foreign citizens and firms.
+Section, Pub. L. 100–418, title V, § 5413, Aug. 23, 1988, 102 Stat. 1467, required the Secretary to submit to committees of Congress, not more than 1 year after Aug. 23, 1988, a report describing actions taken pursuant to this chapter, and to submit to committees of Congress, not more than 3 years after Aug. 23, 1988, a report assessing the current quality and comprehensiveness of, and the ability of the public and of private entities to obtain access to trade data, describing all other actions taken and planned to be taken pursuant to this chapter, including comments by the private sector and by State agencies that promote exports on the implementation of the Data Bank, describing the extent to which the systems within the Data Bank are being used and any recommendations with regard to the operation of the system, and describing the extent to which United States citizens and firms have access to the data banks of foreign countries that is similar to the access provided to foreign citizens and firms.

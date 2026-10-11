@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 98—DEPARTMENT OF AGRICULTURE REORGANIZATION
 
-## § 6901. Purpose
+## § 6901. Purpose
 
 The purpose of this chapter is to provide the Secretary of Agriculture with the necessary authority to streamline and reorganize the Department of Agriculture to achieve greater efficiency, effectiveness, and economies in the organization and management of the programs and activities carried out by the Department.
 
-(Pub. L. 103–354, title II, § 202, Oct. 13, 1994, 108 Stat. 3209.)
+(Pub. L. 103–354, title II, § 202, Oct. 13, 1994, 108 Stat. 3209.)
 
 **Editorial Notes**
 
@@ -31,15 +31,15 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–222, § 1, June 20, 2000, 114 Stat. 353, provided that: “This Act [enacting subchapter X of this chapter] may be cited as the ‘Freedom to E-File Act’.”
+Pub. L. 106–222, § 1, June 20, 2000, 114 Stat. 353, provided that: “This Act [enacting subchapter X of this chapter] may be cited as the ‘Freedom to E-File Act’.”
 
 **Short Title**
 
-Pub. L. 103–354, § 1(a), Oct. 13, 1994, 108 Stat. 3178, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994’.”
+Pub. L. 103–354, § 1(a), Oct. 13, 1994, 108 Stat. 3178, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994’.”
 
-Pub. L. 103–354, title II, § 201(a), Oct. 13, 1994, 108 Stat. 3209, provided that: “This title [see Tables for classification] may be cited as the ‘Department of Agriculture Reorganization Act of 1994’.”
+Pub. L. 103–354, title II, § 201(a), Oct. 13, 1994, 108 Stat. 3209, provided that: “This title [see Tables for classification] may be cited as the ‘Department of Agriculture Reorganization Act of 1994’.”
 
-## § 6902. Definitions
+## § 6902. Definitions
 
 Except where the context requires otherwise, for purposes of this chapter:
 
@@ -59,7 +59,7 @@ The term “Secretary” means the Secretary of Agriculture.
 
 The term “function” means an administrative, financial, or regulatory activity of an agency, office, officer, or employee of the Department.
 
-(Pub. L. 103–354, title II, § 203, Oct. 13, 1994, 108 Stat. 3209.)
+(Pub. L. 103–354, title II, § 203, Oct. 13, 1994, 108 Stat. 3209.)
 
 **Editorial Notes**
 
@@ -69,15 +69,15 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 ## SUBCHAPTER I—GENERAL REORGANIZATION AUTHORITIES
 
-### § 6911. Repealed. Pub. L. 115–334, title XII, § 12414(a)(1), Dec. 20, 2018, 132 Stat. 4981
+### § 6911. Repealed. Pub. L. 115–334, title XII, § 12414(a)(1), Dec. 20, 2018, 132 Stat. 4981
 
-Section, Pub. L. 103–354, title II, § 211, Oct. 13, 1994, 108 Stat. 3209; Pub. L. 104–127, title VII, § 722(c), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 107–171, title VI, § 6201(d)(3), May 13, 2002, 116 Stat. 419, related to transfer of Department functions to Secretary of Agriculture.
+Section, Pub. L. 103–354, title II, § 211, Oct. 13, 1994, 108 Stat. 3209; Pub. L. 104–127, title VII, § 722(c), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 107–171, title VI, § 6201(d)(3), May 13, 2002, 116 Stat. 419, related to transfer of Department functions to Secretary of Agriculture.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction of 2018 Amendment**
 
-Pub. L. 115–334, title XII, § 12414(c), Dec. 20, 2018, 132 Stat. 4981, provided that:
+Pub. L. 115–334, title XII, § 12414(c), Dec. 20, 2018, 132 Stat. 4981, provided that:
 
 > “Nothing in the amendments made by this section [repealing sections 6911, 6913, 6914, 6917, 6935, 6963, 6972, and 7013 of this title] shall be construed as affecting—
 
@@ -85,15 +85,15 @@ Pub. L. 115–334, title XII, § 12414(c), Dec. 20, 2018, 132 Stat. 4981, prov
 
 > **“(2)** the authority of an agency, office, officer, or employee of the Department of Agriculture to continue to perform all functions delegated or assigned to the agency, office, officer, or employee as of the date of enactment of this Act any provision of Federal law other than the provisions repealed by subsections (a) and (b).”
 
-### § 6912. Authority of Secretary to delegate transferred functions
+### § 6912. Authority of Secretary to delegate transferred functions
 
 **(a) Delegation of authority**
 
 **(1) Delegation authorized**
 
-Subject to paragraph (2), the Secretary may delegate to any agency, office, officer, or employee of the Department the authority to perform any function transferred to the Secretary under section 6911(a) 1
+Subject to paragraph (2), the Secretary may delegate to any agency, office, officer, or employee of the Department the authority to perform any function transferred to the Secretary under section 6911(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or any other function vested in the Secretary as of October 13, 1994. The authority provided in the preceding sentence includes the authority to establish, consolidate, alter, or discontinue any agency, office, or other administrative unit of the Department.
 
@@ -141,13 +141,13 @@ Section 1531 of title 31 shall apply to any transfer of funds under paragraph (1
 
 **(3)** an agency, office, officer, or employee of the Department.
 
-(Pub. L. 103–354, title II, § 212, Oct. 13, 1994, 108 Stat. 3210; Pub. L. 110–234, title VII, § 7511(c)(27), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(27), June 18, 2008, 122 Stat. 1664, 2031.)
+(Pub. L. 103–354, title II, § 212, Oct. 13, 1994, 108 Stat. 3210; Pub. L. 110–234, title VII, § 7511(c)(27), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(27), June 18, 2008, 122 Stat. 1664, 2031.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 6911 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 115–334, title XII, § 12414(a)(1), Dec. 20, 2018, 132 Stat. 4981.
+Section 6911 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 115–334, title XII, § 12414(a)(1), Dec. 20, 2018, 132 Stat. 4981.
 
 This chapter, referred to in subsecs. (b)(2), (c), and (d)(1), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
@@ -157,7 +157,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(2)(A). Pub. L. 110–246, § 7511(c)(27), substituted “6971(f),” for “6971(d),”.
+2008—Subsec. (a)(2)(A). Pub. L. 110–246, § 7511(c)(27), substituted “6971(f),” for “6971(d),”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,13 +167,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(27) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
-### §§ 6913, 6914. Repealed. Pub. L. 115–334, title XII, § 12414(a)(2), (3), Dec. 20, 2018, 132 Stat. 4981
+### §§ 6913, 6914. Repealed. Pub. L. 115–334, title XII, § 12414(a)(2), (3), Dec. 20, 2018, 132 Stat. 4981
 
-Section 6913, Pub. L. 103–354, title II, § 213, Oct. 13, 1994, 108 Stat. 3211, related to reductions in number of Department personnel.
+Section 6913, Pub. L. 103–354, title II, § 213, Oct. 13, 1994, 108 Stat. 3211, related to reductions in number of Department personnel.
 
-Section 6914, Pub. L. 103–354, title II, § 214, Oct. 13, 1994, 108 Stat. 3211, related to consolidation of headquarters offices.
+Section 6914, Pub. L. 103–354, title II, § 214, Oct. 13, 1994, 108 Stat. 3211, related to consolidation of headquarters offices.
 
-### § 6915. Combination of field offices
+### § 6915. Combination of field offices
 
 **(a) Combination of offices required**
 
@@ -183,19 +183,19 @@ Where practicable and to the extent consistent with efficient, effective, and im
 
 When two or more agencies of the Department share a common field office, the Secretary shall require the agencies to jointly use office space, equipment, office supplies, administrative personnel, and clerical personnel associated with that field office.
 
-(Pub. L. 103–354, title II, § 215, Oct. 13, 1994, 108 Stat. 3211.)
+(Pub. L. 103–354, title II, § 215, Oct. 13, 1994, 108 Stat. 3211.)
 
-### § 6916. Improvement of information sharing
+### § 6916. Improvement of information sharing
 
 Whenever the Secretary procures or uses computer systems, as may be provided for in advance in appropriations Acts, the Secretary shall do so in a manner that enhances efficiency, productivity, and client services and is consistent with the goal of promoting computer information sharing among agencies of the Department.
 
-(Pub. L. 103–354, title II, § 216, Oct. 13, 1994, 108 Stat. 3212.)
+(Pub. L. 103–354, title II, § 216, Oct. 13, 1994, 108 Stat. 3212.)
 
-### § 6917. Repealed. Pub. L. 115–334, title XII, § 12414(a)(4), Dec. 20, 2018, 132 Stat. 4981
+### § 6917. Repealed. Pub. L. 115–334, title XII, § 12414(a)(4), Dec. 20, 2018, 132 Stat. 4981
 
-Section, Pub. L. 103–354, title II, § 217, Oct. 13, 1994, 108 Stat. 3212, related to reports by Secretary.
+Section, Pub. L. 103–354, title II, § 217, Oct. 13, 1994, 108 Stat. 3212, related to reports by Secretary.
 
-### § 6918. Assistant Secretaries of Agriculture
+### § 6918. Assistant Secretaries of Agriculture
 
 **(a) Authorization** The Secretary is authorized to establish in the Department the positions of—
 
@@ -217,31 +217,31 @@ If the Secretary establishes any position of Assistant Secretary authorized unde
 
 **(3)** ensuring that necessary and appropriate civil rights components are properly incorporated into all strategic planning initiatives of the Department and agencies of the Department.
 
-(Pub. L. 103–354, title II, § 218, Oct. 13, 1994, 108 Stat. 3212; Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(1)], Oct. 21, 1998, 112 Stat. 2681, 2681–41; Pub. L. 107–171, title X, § 10704(a), May 13, 2002, 116 Stat. 518; Pub. L. 112–166, § 2(a)(1), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 115–334, title XII, §§ 12401(a), 12415(b)(1), Dec. 20, 2018, 132 Stat. 4971, 4981.)
+(Pub. L. 103–354, title II, § 218, Oct. 13, 1994, 108 Stat. 3212; Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(1)], Oct. 21, 1998, 112 Stat. 2681, 2681–41; Pub. L. 107–171, title X, § 10704(a), May 13, 2002, 116 Stat. 518; Pub. L. 112–166, § 2(a)(1), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 115–334, title XII, §§ 12401(a), 12415(b)(1), Dec. 20, 2018, 132 Stat. 4971, 4981.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 12401(a), substituted “Relations and Intergovernmental Affairs” for “Relations”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 12401(a), substituted “Relations and Intergovernmental Affairs” for “Relations”.
 
-Subsecs. (c), (d). Pub. L. 115–334, § 12415(b)(1), amended this section, as in effect on the day before the effective date of the amendments made by section 2(a)(1) of Pub. L. 112–166, by redesignating subsec. (d) as (c) and striking out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Any official who is serving as Assistant Secretary of Agriculture for Administration or Assistant Secretary of Agriculture for Congressional Relations on October 13, 1994, and who was appointed as such Assistant Secretary by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).” See 2012 Amendment note and Effective Date of 2012 Amendment note below.
+Subsecs. (c), (d). Pub. L. 115–334, § 12415(b)(1), amended this section, as in effect on the day before the effective date of the amendments made by section 2(a)(1) of Pub. L. 112–166, by redesignating subsec. (d) as (c) and striking out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Any official who is serving as Assistant Secretary of Agriculture for Administration or Assistant Secretary of Agriculture for Congressional Relations on October 13, 1994, and who was appointed as such Assistant Secretary by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).” See 2012 Amendment note and Effective Date of 2012 Amendment note below.
 
-2012—Subsec. (b). Pub. L. 112–166, § 2(a)(1)(A), substituted “paragraph (1) or (3) of subsection (a)” for “subsection (a)”.
+2012—Subsec. (b). Pub. L. 112–166, § 2(a)(1)(A), substituted “paragraph (1) or (3) of subsection (a)” for “subsection (a)”.
 
-Subsecs. (c), (d). Pub. L. 112–166, § 2(a)(1)(B), (C), which directed that subsec. (b) be amended by striking out subsec. (c) and redesignating subsec. (d) as (c), was executed by making the amendment to the entire section, striking out subsec. (c) and redesignating subsec. (d) as (c), to reflect the probable intent of Congress. Prior to amendment, text of subsec. (c) read as follows: “Any official who is serving as Assistant Secretary of Agriculture for Administration or Assistant Secretary of Agriculture for Congressional Relations on October 13, 1994, and who was appointed as such Assistant Secretary by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).”
+Subsecs. (c), (d). Pub. L. 112–166, § 2(a)(1)(B), (C), which directed that subsec. (b) be amended by striking out subsec. (c) and redesignating subsec. (d) as (c), was executed by making the amendment to the entire section, striking out subsec. (c) and redesignating subsec. (d) as (c), to reflect the probable intent of Congress. Prior to amendment, text of subsec. (c) read as follows: “Any official who is serving as Assistant Secretary of Agriculture for Administration or Assistant Secretary of Agriculture for Congressional Relations on October 13, 1994, and who was appointed as such Assistant Secretary by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).”
 
-2002—Subsec. (a)(3). Pub. L. 107–171, § 10704(a)(1), added par. (3).
+2002—Subsec. (a)(3). Pub. L. 107–171, § 10704(a)(1), added par. (3).
 
-Subsecs. (d), (e). Pub. L. 107–171, § 10704(a)(2), added subsec. (d) and struck out former subsecs. (d) and (e), which amended section 5315 of Title 5, Government Organization and Employees, and section 3128 of this title and repealed sections 2212 to 2212c of this title and section 2 of Reorg. Plan No. 2 of 1953, set out as a note under section 2201 of this title.
+Subsecs. (d), (e). Pub. L. 107–171, § 10704(a)(2), added subsec. (d) and struck out former subsecs. (d) and (e), which amended section 5315 of Title 5, Government Organization and Employees, and section 3128 of this title and repealed sections 2212 to 2212c of this title and section 2 of Reorg. Plan No. 2 of 1953, set out as a note under section 2201 of this title.
 
-1998—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “Assistant Secretary of Agriculture for Marketing and Regulatory Programs.”
+1998—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “Assistant Secretary of Agriculture for Marketing and Regulatory Programs.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title XII, § 12415(b)(2), Dec. 20, 2018, 132 Stat. 4981, provided that: “The amendments made by paragraph (1) [amending this section] take effect on the effective date described in section 6(a) of the Presidential Appointment Efficiency and Streamlining Act of 2011 (Public Law 112–166; 126 Stat. 1295) [see Effective Date of 2012 Amendment note below].”
+Pub. L. 115–334, title XII, § 12415(b)(2), Dec. 20, 2018, 132 Stat. 4981, provided that: “The amendments made by paragraph (1) [amending this section] take effect on the effective date described in section 6(a) of the Presidential Appointment Efficiency and Streamlining Act of 2011 (Public Law 112–166; 126 Stat. 1295) [see Effective Date of 2012 Amendment note below].”
 
 **Effective Date of 2012 Amendment**
 
@@ -249,9 +249,9 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 **Succession of Assistant Secretary of Agriculture for Congressional Relations**
 
-Pub. L. 115–334, title XII, § 12401(b), Dec. 20, 2018, 132 Stat. 4971, provided that: “Any official who is serving as the Assistant Secretary of Agriculture for Congressional Relations on the date of enactment of this Act [Dec. 20, 2018] and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed as a result of the change made to the name of that position under the amendment made by subsection (a) [amending this section].”
+Pub. L. 115–334, title XII, § 12401(b), Dec. 20, 2018, 132 Stat. 4971, provided that: “Any official who is serving as the Assistant Secretary of Agriculture for Congressional Relations on the date of enactment of this Act [Dec. 20, 2018] and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed as a result of the change made to the name of that position under the amendment made by subsection (a) [amending this section].”
 
-### § 6919. Military Veterans Agricultural Liaison
+### § 6919. Military Veterans Agricultural Liaison
 
 **(a) Authorization**
 
@@ -373,27 +373,27 @@ In carrying out this section, the Secretary shall consult with organizations tha
 
 Not later than the day before the date on which the Military Veterans Agricultural Liaison makes publicly available the information under paragraph (1), the Military Veterans Agricultural Liaison shall provide that information to the Department of Defense, the Department of Veterans Affairs, the Small Business Administration, and the Department of Labor.
 
-(Pub. L. 103–354, title II, § 219, as added Pub. L. 113–79, title XII, § 12304, Feb. 7, 2014, 128 Stat. 985; amended Pub. L. 115–334, title XII, § 12402, Dec. 20, 2018, 132 Stat. 4971.)
+(Pub. L. 103–354, title II, § 219, as added Pub. L. 113–79, title XII, § 12304, Feb. 7, 2014, 128 Stat. 985; amended Pub. L. 115–334, title XII, § 12402, Dec. 20, 2018, 132 Stat. 4971.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6919, Pub. L. 103–354, title II, § 219, Oct. 13, 1994, 108 Stat. 3213, provided that compensation of any officer or employee of the Department on Oct. 13, 1994, was not to be increased as a result of enactment of this chapter, prior to repeal by Pub. L. 105–277, div. A, § 101(e) [title III, § 362], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305.
+A prior section 6919, Pub. L. 103–354, title II, § 219, Oct. 13, 1994, 108 Stat. 3213, provided that compensation of any officer or employee of the Department on Oct. 13, 1994, was not to be increased as a result of enactment of this chapter, prior to repeal by Pub. L. 105–277, div. A, § 101(e) [title III, § 362], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305.
 
 **Amendments**
 
-2018—Subsec. (b)(5), (6). Pub. L. 115–334, § 12402(1), added pars. (5) and (6).
+2018—Subsec. (b)(5), (6). Pub. L. 115–334, § 12402(1), added pars. (5) and (6).
 
-Subsecs. (d) to (g). Pub. L. 115–334, § 12402(2), added subsecs. (d) to (g).
+Subsecs. (d) to (g). Pub. L. 115–334, § 12402(2), added subsecs. (d) to (g).
 
-### § 6920. Office of Energy Policy and New Uses
+### § 6920. Office of Energy Policy and New Uses
 
 The Secretary shall establish for the Department, in the Office of the Secretary, an Office of Energy Policy and New Uses.
 
-(Pub. L. 103–354, title II, § 220, as added Pub. L. 105–185, title VI, § 602, June 23, 1998, 112 Stat. 585.)
+(Pub. L. 103–354, title II, § 220, as added Pub. L. 105–185, title VI, § 602, June 23, 1998, 112 Stat. 585.)
 
-### § 6921. Office of Tribal Relations
+### § 6921. Office of Tribal Relations
 
 **(a) In general**
 
@@ -539,19 +539,19 @@ Members of the Committee shall be compensated at a rate equal to the daily equiv
 
 **(7) Federal Advisory Committee Act exemption**
 
-Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1
+Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to the Committee.
 
-(Pub. L. 103–354, title III, § 309, as added Pub. L. 113–79, title XII, § 12303, Feb. 7, 2014, 128 Stat. 985; amended Pub. L. 115–334, title XII, § 12303, Dec. 20, 2018, 132 Stat. 4962.)
+(Pub. L. 103–354, title III, § 309, as added Pub. L. 113–79, title XII, § 12303, Feb. 7, 2014, 128 Stat. 985; amended Pub. L. 115–334, title XII, § 12303, Dec. 20, 2018, 132 Stat. 4962.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(7), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(7), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 **Codification**
 
@@ -561,7 +561,7 @@ Section was enacted as part of the Federal Crop Insurance Reform and Department 
 
 2018—Pub. L. 115–334 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-### § 6922. Office of Homeland Security
+### § 6922. Office of Homeland Security
 
 **(a) Definition of agriculture and food defense**
 
@@ -587,9 +587,9 @@ The Office of Homeland Security shall be headed by an Executive Director, who sh
 
 **(A)** coordinate in the Department the gathering of information relevant to early warning and awareness of threats and risks to the food and agriculture critical infrastructure sector; and
 
-**(B)** share that information with, and provide assistance with interpretation and risk characterization of that information to, the intelligence community (as defined in section 3003 of title 50), law enforcement agencies, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and State fusion centers (as defined in section 124h(j) of title 6 1
+**(B)** share that information with, and provide assistance with interpretation and risk characterization of that information to, the intelligence community (as defined in section 3003 of title 50), law enforcement agencies, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and State fusion centers (as defined in section 124h(j) of title 6 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 ;
 
@@ -605,7 +605,7 @@ The Office of Homeland Security shall be headed by an Executive Director, who sh
 
 **(1) Interagency exchange program**
 
-The Secretary, in partnership with the intelligence community (as defined in section 3003 of title 50) and fusion centers (as defined in section 124h(j) of title 6 <sup>1</sup> that have analysis and intelligence capabilities relating to the defense of the food and agriculture critical infrastructure sector, shall establish and carry out an interagency exchange program of personnel and information to improve communication and analysis for the defense of the food and agriculture critical infrastructure sector.
+The Secretary, in partnership with the intelligence community (as defined in section 3003 of title 50) and fusion centers (as defined in section 124h(j) of title 6 <sup>1</sup> that have analysis and intelligence capabilities relating to the defense of the food and agriculture critical infrastructure sector, shall establish and carry out an interagency exchange program of personnel and information to improve communication and analysis for the defense of the food and agriculture critical infrastructure sector.
 
 **(2) Collaboration with Federal, State, and local authorities** To carry out the program established under paragraph (1), the Secretary may—
 
@@ -613,9 +613,9 @@ The Secretary, in partnership with the intelligence community (as defined in sec
 
 **(B)** carry out any other activity under any other authority of the Secretary that is appropriate to engage the authorities described in subparagraph (A) for the defense of the food and agriculture critical infrastructure sector, as determined by the Secretary.
 
-(Pub. L. 103–354, title II, § 221, as added Pub. L. 115–334, title XII, § 12202, Dec. 20, 2018, 132 Stat. 4944.)
+(Pub. L. 103–354, title II, § 221, as added Pub. L. 115–334, title XII, § 12202, Dec. 20, 2018, 132 Stat. 4944.)
 
-### § 6923. Office of Urban Agriculture and Innovative Production
+### § 6923. Office of Urban Agriculture and Innovative Production
 
 **(a) Office**
 
@@ -847,9 +847,9 @@ The recipient of assistance for a pilot project under this paragraph shall provi
 
 There is authorized to be appropriated to carry out this section and the amendments made by this section $25,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 103–354, title II, § 222, as added Pub. L. 115–334, title XII, § 12302, Dec. 20, 2018, 132 Stat. 4958.)
+(Pub. L. 103–354, title II, § 222, as added Pub. L. 115–334, title XII, § 12302, Dec. 20, 2018, 132 Stat. 4958.)
 
-### § 6924. Food Loss and Waste Reduction Liaison
+### § 6924. Food Loss and Waste Reduction Liaison
 
 **(a) Establishment**
 
@@ -901,9 +901,9 @@ Not later than 1 year after December 20, 2018, the Food Loss and Waste Liaison s
 
 **(B)** the results of the food waste reduction and loss prevention activities carried out or led by the Department of Agriculture.
 
-(Pub. L. 103–354, title II, § 224, as added Pub. L. 115–334, title XII, § 12504, Dec. 20, 2018, 132 Stat. 4987.)
+(Pub. L. 103–354, title II, § 224, as added Pub. L. 115–334, title XII, § 12504, Dec. 20, 2018, 132 Stat. 4987.)
 
-### § 6925. Food Access Liaison
+### § 6925. Food Access Liaison
 
 **(a) Establishment**
 
@@ -923,7 +923,7 @@ The Secretary shall establish the position of Food Access Liaison to coordinate 
 
 **(6)** submit to Congress an annual report with respect to the efforts of the Department to reduce barriers to food access.
 
-(Pub. L. 103–354, title II, § 225, as added Pub. L. 115–334, title XII, § 12614(a), Dec. 20, 2018, 132 Stat. 5014.)
+(Pub. L. 103–354, title II, § 225, as added Pub. L. 115–334, title XII, § 12614(a), Dec. 20, 2018, 132 Stat. 5014.)
 
 **Editorial Notes**
 
@@ -935,7 +935,7 @@ Another section 225 of Pub. L. 103–354 is classified to section 6931 of this t
 
 **Technical Assistance**
 
-Pub. L. 115–334, title XII, § 12614(b), Dec. 20, 2018, 132 Stat. 5014, provided that: “The Secretary [of Agriculture] shall provide technical assistance to entities that are participants, or seek to participate, in Department of Agriculture programs related to reduction of barriers to food access.”
+Pub. L. 115–334, title XII, § 12614(b), Dec. 20, 2018, 132 Stat. 5014, provided that: “The Secretary [of Agriculture] shall provide technical assistance to entities that are participants, or seek to participate, in Department of Agriculture programs related to reduction of barriers to food access.”
 
 ## SUBCHAPTER II—FARM PRODUCTION AND CONSERVATION
 
@@ -943,9 +943,9 @@ Pub. L. 115–334, title XII, § 12614(b), Dec. 20, 2018, 132 Stat. 5014, prov
 
 **Codification**
 
-Pub. L. 115–141, div. A, title VII, § 772(a)(1), Mar. 23, 2018, 132 Stat. 397, substituted “FARM PRODUCTION AND CONSERVATION” for “FARM AND FOREIGN AGRICULTURAL SERVICES” in subchapter heading.
+Pub. L. 115–141, div. A, title VII, § 772(a)(1), Mar. 23, 2018, 132 Stat. 397, substituted “FARM PRODUCTION AND CONSERVATION” for “FARM AND FOREIGN AGRICULTURAL SERVICES” in subchapter heading.
 
-### § 6931. Under Secretary of Agriculture for Farm Production and Conservation
+### § 6931. Under Secretary of Agriculture for Farm Production and Conservation
 
 **(a) Authorization**
 
@@ -955,7 +955,7 @@ The Secretary is authorized to establish in the Department the position of Under
 
 If the Secretary establishes the position of Under Secretary of Agriculture for Farm Production and Conservation authorized under subsection (a), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
-**(c) Functions of Undersecretary 1 [footnote: 1 So in original. Probably should be “Under Secretary”.]**
+**(c) Functions of Undersecretary 1 [footnote: 1 So in original. Probably should be “Under Secretary”.]**
 
 The Under Secretary of Agriculture for Farm Production and Conservation shall perform such functions and duties as the Secretary shall prescribe.
 
@@ -963,7 +963,7 @@ The Under Secretary of Agriculture for Farm Production and Conservation shall pe
 
 Any official who is serving as Under Secretary of Agriculture for Farm and Foreign Agricultural Services on March 23, 2018, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a).
 
-(Pub. L. 103–354, title II, § 225, Oct. 13, 1994, 108 Stat. 3213; Pub. L. 115–141, div. A, title VII, § 772(a)(2), Mar. 23, 2018, 132 Stat. 397.)
+(Pub. L. 103–354, title II, § 225, Oct. 13, 1994, 108 Stat. 3213; Pub. L. 115–141, div. A, title VII, § 772(a)(2), Mar. 23, 2018, 132 Stat. 397.)
 
 **Editorial Notes**
 
@@ -977,7 +977,7 @@ Another section 225 of Pub. L. 103–354 is classified to section 6925 of this t
 
 2018—Pub. L. 115–141 amended section generally. Prior to amendment, section related to Under Secretary of Agriculture for Farm and Foreign Agricultural Services.
 
-### § 6932. Farm Service Agency
+### § 6932. Farm Service Agency
 
 **(a) Establishment**
 
@@ -987,7 +987,7 @@ The Secretary is authorized to establish and maintain in the Department a Farm S
 
 **(1)** Agricultural price and income support programs, production adjustment programs, and related programs.
 
-**(2)** Repealed. Pub. L. 104–127, title I, § 194(c), Apr. 4, 1996, 110 Stat. 946.
+**(2)** Repealed. Pub. L. 104–127, title I, § 194(c), Apr. 4, 1996, 110 Stat. 946.
 
 **(3)** Agricultural credit programs assigned before October 13, 1994, by law to the Farmers Home Administration (including farm ownership and operating, emergency, and disaster loan programs) and other lending programs for agricultural producers and others engaged in the production of agricultural commodities.
 
@@ -1053,13 +1053,13 @@ Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a
 
 **(2)** A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6936(b) of this title.
 
-(Pub. L. 103–354, title II, § 226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, § 194(c), title III, §§ 315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005; Pub. L. 115–334, title XII, §§ 12404(a), 12410(c)(2)(A), Dec. 20, 2018, 132 Stat. 4974, 4978.)
+(Pub. L. 103–354, title II, § 226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, § 194(c), title III, §§ 315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005; Pub. L. 115–334, title XII, §§ 12404(a), 12410(c)(2)(A), Dec. 20, 2018, 132 Stat. 4974, 4978.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -1067,29 +1067,29 @@ Section is comprised of section 226 of Pub. L. 103–354. Subsec. (h) of section
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 12404(a)(1), (3), substituted “Farm” for “Consolidated Farm” in section catchline and wherever appearing in text.
+2018—Pub. L. 115–334, § 12404(a)(1), (3), substituted “Farm” for “Consolidated Farm” in section catchline and wherever appearing in text.
 
-Subsec. (b). Pub. L. 115–334, § 12404(a)(2), struck out “of Consolidated Farm Service Agency” after “Functions” in heading.
+Subsec. (b). Pub. L. 115–334, § 12404(a)(2), struck out “of Consolidated Farm Service Agency” after “Functions” in heading.
 
-Subsecs. (b)(5), (g)(2). Pub. L. 115–334, § 12410(c)(2)(A), substituted “section 6936(b) of this title” for “section 6962(b) of this title”.
+Subsecs. (b)(5), (g)(2). Pub. L. 115–334, § 12410(c)(2)(A), substituted “section 6936(b) of this title” for “section 6962(b) of this title”.
 
-1996—Subsec. (b)(2). Pub. L. 104–127, § 194(c), struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
+1996—Subsec. (b)(2). Pub. L. 104–127, § 194(c), struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
 
-Subsec. (b)(4). Pub. L. 104–127, § 336(a)(2)(C), struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)”.
+Subsec. (b)(4). Pub. L. 104–127, § 336(a)(2)(C), struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)”.
 
-Subsec. (d)(2). Pub. L. 104–127, § 315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (d)(2). Pub. L. 104–127, § 315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Farm Service Agency Accountability**
 
-Pub. L. 115–334, title I, § 1705, Dec. 20, 2018, 132 Stat. 4526, provided that:
+Pub. L. 115–334, title I, § 1705, Dec. 20, 2018, 132 Stat. 4526, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of enactment of this Act [Dec. 20, 2018], the Secretary [of Agriculture] shall establish policies, procedures, and plans to improve program accountability and integrity through targeted and coordinated activities, including utilizing data mining to identify and reduce errors, waste, fraud, and abuse in programs administered by the Farm Service Agency.
 
 > **“(b) Report.—** Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress and results of the activities conducted under subsection (a).”
 
-### § 6932a. Prohibition on closure or relocation of county offices for the Farm Service Agency
+### § 6932a. Prohibition on closure or relocation of county offices for the Farm Service Agency
 
 **(a) Temporary prohibition**
 
@@ -1117,7 +1117,7 @@ Subject to paragraph (2), until the date that is two years after the date of the
 
 **(B)** after the public meeting referred to in subparagraph (A), but not less than 90 days before the date on which the Secretary approves the closure of such office, the Secretary notifies the Committee on Agriculture and the Committee on Appropriations of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate, each Senator representing the State in which the office proposed to be closed is located, and the member of the House of Representatives who represents the Congressional district in which the office proposed to be closed is located of the proposed closure of such office.
 
-(Pub. L. 110–234, title XIV, § 14212, May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, § 4(a), title XIV, § 14212, June 18, 2008, 122 Stat. 1664, 2227.)
+(Pub. L. 110–234, title XIV, § 14212, May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, § 4(a), title XIV, § 14212, June 18, 2008, 122 Stat. 1664, 2227.)
 
 **Editorial Notes**
 
@@ -1137,7 +1137,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 6933. Office of Risk Management
+### § 6933. Office of Risk Management
 
 **(a) Establishment**
 
@@ -1173,21 +1173,21 @@ Certain functions of the Office of Risk Management, such as human resources, pub
 
 Notwithstanding paragraph (1) or any other provision of law or order of the Secretary, the Secretary shall provide the Office of Risk Management with human and capital resources sufficient for the Office to carry out its functions in a timely and efficient manner.
 
-(Pub. L. 103–354, title II, § 226A, as added Pub. L. 104–127, title I, § 194(a), Apr. 4, 1996, 110 Stat. 945; amended Pub. L. 115–334, title XII, §§ 12405(a), 12415(a), Dec. 20, 2018, 132 Stat. 4975, 4981.)
+(Pub. L. 103–354, title II, § 226A, as added Pub. L. 104–127, title I, § 194(a), Apr. 4, 1996, 110 Stat. 945; amended Pub. L. 115–334, title XII, §§ 12405(a), 12415(a), Dec. 20, 2018, 132 Stat. 4975, 4981.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 12415(a), substituted “The Secretary” for “Subject to subsection (e), the Secretary”.
+2018—Subsec. (a). Pub. L. 115–334, § 12415(a), substituted “The Secretary” for “Subject to subsection (e), the Secretary”.
 
-Subsec. (d)(1). Pub. L. 115–334, § 12405(a), substituted “Under Secretary of Agriculture for Farm Production and Conservation” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
+Subsec. (d)(1). Pub. L. 115–334, § 12405(a), substituted “Under Secretary of Agriculture for Farm Production and Conservation” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
 
-### § 6934. Office of Partnerships and Public Engagement
+### § 6934. Office of Partnerships and Public Engagement
 
 **(a) Definitions** In this section:
 
@@ -1201,9 +1201,9 @@ The term “Office” means the Office of Partnerships and Public Engagement est
 
 **(3) Socially disadvantaged farmer or rancher**
 
-The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 1
+The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -1257,11 +1257,11 @@ The Secretary shall establish within the Office the Socially Disadvantaged Farme
 
 **(A)** shall carry out section 2279 of this title; and
 
-**(B)** in the case of activities described in section 2279(a) <sup>1</sup> of this title, may conduct such activities through other agencies and offices of the Department.
+**(B)** in the case of activities described in section 2279(a) <sup>1</sup> of this title, may conduct such activities through other agencies and offices of the Department.
 
 **(3) Socially disadvantaged farmers and farmworkers** The Socially Disadvantaged Farmers Group shall oversee the operations of—
 
-**(A)** the Advisory Committee on Minority Farmers established under section 14009 of the Food, Conservation, and Energy Act of 2008; <sup>1</sup> and
+**(A)** the Advisory Committee on Minority Farmers established under section 14009 of the Food, Conservation, and Energy Act of 2008; <sup>1</sup> and
 
 **(B)** the position of Farmworker Coordinator established under subsection (f).
 
@@ -1293,7 +1293,7 @@ The Small Farms and Beginning Farmers and Ranchers Group shall consult with the 
 
 **(C) Advisory Committee for Beginning Farmers and Ranchers**
 
-The Small Farms and Beginning Farmers and Ranchers Group shall coordinate the activities of the Group with the Advisory Committee for Beginning Farmers and Ranchers established under section 5(b) of the Agricultural Credit Improvement Act of 1992 (7 U.S.C. 1621 <sup>1</sup> note; Public Law 102–554).
+The Small Farms and Beginning Farmers and Ranchers Group shall coordinate the activities of the Group with the Advisory Committee for Beginning Farmers and Ranchers established under section 5(b) of the Agricultural Credit Improvement Act of 1992 (7 U.S.C. 1621 <sup>1</sup> note; Public Law 102–554).
 
 **(D) Other duties**
 
@@ -1325,7 +1325,7 @@ The Secretary shall establish within the Office the position of Farmworker Coord
 
 **(B)** $2,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 103–354, title II, § 226B, as added Pub. L. 110–234, title XIV, § 14013(a), May 22, 2008, 122 Stat. 1450, and Pub. L. 110–246, § 4(a), title XIV, § 14013(a), June 18, 2008, 122 Stat. 1664, 2212; amended Pub. L. 113–79, title XII, § 12202, Feb. 7, 2014, 128 Stat. 984; Pub. L. 115–334, title XII, §§ 12301(a)(2)(A), 12406(a)(1), (b), (c), Dec. 20, 2018, 132 Stat. 4950, 4975, 4976.)
+(Pub. L. 103–354, title II, § 226B, as added Pub. L. 110–234, title XIV, § 14013(a), May 22, 2008, 122 Stat. 1450, and Pub. L. 110–246, § 4(a), title XIV, § 14013(a), June 18, 2008, 122 Stat. 1664, 2212; amended Pub. L. 113–79, title XII, § 12202, Feb. 7, 2014, 128 Stat. 984; Pub. L. 115–334, title XII, §§ 12301(a)(2)(A), 12406(a)(1), (b), (c), Dec. 20, 2018, 132 Stat. 4950, 4975, 4976.)
 
 **Editorial Notes**
 
@@ -1345,25 +1345,25 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 12406(a)(1)(A), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach” in section catchline.
+2018—Pub. L. 115–334, § 12406(a)(1)(A), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach” in section catchline.
 
-Subsec. (a)(2). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach”.
+Subsec. (a)(2). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach”.
 
-Subsec. (b)(1). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach” in introductory provisions.
+Subsec. (b)(1). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach” in introductory provisions.
 
-Subsec. (b)(1)(B)(iv), (v), (C). Pub. L. 115–334, § 12406(b)(1), added cls. (iv) and (v) of subpar. (B) and subpar. (C).
+Subsec. (b)(1)(B)(iv), (v), (C). Pub. L. 115–334, § 12406(b)(1), added cls. (iv) and (v) of subpar. (B) and subpar. (C).
 
-Subsec. (c). Pub. L. 115–334, § 12406(b)(2)(A), inserted “veteran farmers and ranchers,” after “beginning farmers or ranchers,” in introductory provisions.
+Subsec. (c). Pub. L. 115–334, § 12406(b)(2)(A), inserted “veteran farmers and ranchers,” after “beginning farmers or ranchers,” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 115–334, § 12406(b)(2)(B), substituted “socially disadvantaged, or veteran” for “or socially disadvantaged”.
+Subsec. (c)(1). Pub. L. 115–334, § 12406(b)(2)(B), substituted “socially disadvantaged, or veteran” for “or socially disadvantaged”.
 
-Subsec. (c)(5). Pub. L. 115–334, § 12406(b)(2)(C), inserted “veteran farmers or ranchers,” after “beginning farmers or ranchers,”.
+Subsec. (c)(5). Pub. L. 115–334, § 12406(b)(2)(C), inserted “veteran farmers or ranchers,” after “beginning farmers or ranchers,”.
 
-Subsec. (d)(4)(B). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach”.
+Subsec. (d)(4)(B). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach”.
 
-Subsec. (e)(2)(B). Pub. L. 115–334, § 12406(a)(2)(A), substituted “the beginning farmer and rancher development grant program established under subsection (d) of section 2279 of this title.” for “the beginning farmer and rancher development program established under section 3319f of this title.”
+Subsec. (e)(2)(B). Pub. L. 115–334, § 12406(a)(2)(A), substituted “the beginning farmer and rancher development grant program established under subsection (d) of section 2279 of this title.” for “the beginning farmer and rancher development program established under section 3319f of this title.”
 
-Subsec. (f)(3)(B). Pub. L. 115–334, § 12406(c), substituted “2023” for “2018”.
+Subsec. (f)(3)(B). Pub. L. 115–334, § 12406(c), substituted “2023” for “2018”.
 
 2014—Subsec. (f)(3). Pub. L. 113–79 amended par. (3) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2009 through 2012.”
 
@@ -1371,13 +1371,13 @@ Subsec. (f)(3)(B). Pub. L. 115–334, § 12406(c), substituted “2023” for 
 
 **Change of Name**
 
-Pub. L. 115–334, title XII, § 12406(a)(2), Dec. 20, 2018, 132 Stat. 4976, provided that: “Beginning on the date of the enactment of this Act [Dec. 20, 2018], any reference to the Office of Advocacy and Outreach established under section 226B of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6934) in any provision of Federal law shall be deemed to be a reference to the Office of Partnerships and Public Engagement.”
+Pub. L. 115–334, title XII, § 12406(a)(2), Dec. 20, 2018, 132 Stat. 4976, provided that: “Beginning on the date of the enactment of this Act [Dec. 20, 2018], any reference to the Office of Advocacy and Outreach established under section 226B of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6934) in any provision of Federal law shall be deemed to be a reference to the Office of Partnerships and Public Engagement.”
 
 **Effective Date**
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 6934a. Beginning farmer and rancher coordination
+### § 6934a. Beginning farmer and rancher coordination
 
 **(a) Definitions** In this section:
 
@@ -1475,19 +1475,19 @@ The Secretary shall develop a training plan to provide to each State coordinator
 
 **(E)** coordinate partnerships and joint outreach efforts with other organizations and government agencies serving beginning farmers and ranchers.
 
-(Pub. L. 107–171, title VII, § 7404, as added Pub. L. 115–334, title XII, § 12304, Dec. 20, 2018, 132 Stat. 4965.)
+(Pub. L. 107–171, title VII, § 7404, as added Pub. L. 115–334, title XII, § 12304, Dec. 20, 2018, 132 Stat. 4965.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7404 of Pub. L. 107–171 was classified as a note under section 3101 of this title, prior to repeal by Pub. L. 115–334, title VII, § 7506, Dec. 20, 2018, 132 Stat. 4823.
+A prior section 7404 of Pub. L. 107–171 was classified as a note under section 3101 of this title, prior to repeal by Pub. L. 115–334, title VII, § 7506, Dec. 20, 2018, 132 Stat. 4823.
 
 **Codification**
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
 
-### § 6934b. Agricultural Youth Organization Coordinator
+### § 6934b. Agricultural Youth Organization Coordinator
 
 **(a) Authorization**
 
@@ -1521,13 +1521,13 @@ The Secretary shall establish in the Department the position of Agricultural You
 
 **(5)** the provision of internship opportunities.
 
-(Pub. L. 107–171, title VII, § 7405, as added Pub. L. 115–334, title XII, § 12305, Dec. 20, 2018, 132 Stat. 4967.)
+(Pub. L. 107–171, title VII, § 7405, as added Pub. L. 115–334, title XII, § 12305, Dec. 20, 2018, 132 Stat. 4967.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7405 of Pub. L. 107–171 was classified to section 3319f of this title, prior to repeal by Pub. L. 115–334, title XII, § 12301(a)(1), Dec. 20, 2018, 132 Stat. 4950.
+A prior section 7405 of Pub. L. 107–171 was classified to section 3319f of this title, prior to repeal by Pub. L. 115–334, title XII, § 12301(a)(1), Dec. 20, 2018, 132 Stat. 4950.
 
 **Codification**
 
@@ -1539,11 +1539,11 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 “Department” means the Department of Agriculture and “Secretary” means the Secretary of Agriculture, see section 7401 of Pub. L. 107–171, set out as a note under section 3319b of this title.
 
-### § 6935. Repealed. Pub. L. 115–334, title XII, § 12414(b), Dec. 20, 2018, 132 Stat. 4981
+### § 6935. Repealed. Pub. L. 115–334, title XII, § 12414(b), Dec. 20, 2018, 132 Stat. 4981
 
-Section, Pub. L. 113–79, title III, § 3208, Feb. 7, 2014, 128 Stat. 781, related to Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.
+Section, Pub. L. 113–79, title III, § 3208, Feb. 7, 2014, 128 Stat. 781, related to Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.
 
-### § 6936. Natural Resources Conservation Service
+### § 6936. Natural Resources Conservation Service
 
 **(a) Establishment**
 
@@ -1605,21 +1605,21 @@ The Secretary shall not permanently relocate any field-based employees of the Na
 
 The requirements under paragraphs (1) and (2) shall cease to be effective on September 30, 2023.
 
-(Pub. L. 103–354, title II, § 228, formerly § 246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, § 336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005, 1006; Pub. L. 107–171, title VIII, § 8002(c), May 13, 2002, 116 Stat. 473; renumbered § 228 and amended Pub. L. 115–334, title XII, §§ 12404(b)(1), 12410(a)–(c)(1), Dec. 20, 2018, 132 Stat. 4975, 4977, 4978.)
+(Pub. L. 103–354, title II, § 228, formerly § 246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, § 336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005, 1006; Pub. L. 107–171, title VIII, § 8002(c), May 13, 2002, 116 Stat. 473; renumbered § 228 and amended Pub. L. 115–334, title XII, §§ 12404(b)(1), 12410(a)–(c)(1), Dec. 20, 2018, 132 Stat. 4975, 4977, 4978.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
+The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2), (5), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2), (5), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-The Farms for the Future Act of 1990, referred to in subsec. (b)(4), is Pub. L. 101–624, title XIV, ch. 2, §§ 1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended, which is set out as a note under section 4201 of this title.
+The Farms for the Future Act of 1990, referred to in subsec. (b)(4), is Pub. L. 101–624, title XIV, ch. 2, §§ 1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended, which is set out as a note under section 4201 of this title.
 
 **Codification**
 
-Section was formerly part of subtitle E of title II of Pub. L. 103–354 and classified as section 6962 of this title, prior to being moved so as to appear at the end of subtitle B of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12410(c)(1)(B), Dec. 20, 2018, 132 Stat. 4978, and editorially reclassified as this section.
+Section was formerly part of subtitle E of title II of Pub. L. 103–354 and classified as section 6962 of this title, prior to being moved so as to appear at the end of subtitle B of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12410(c)(1)(B), Dec. 20, 2018, 132 Stat. 4978, and editorially reclassified as this section.
 
 Section is comprised of section 228 of Pub. L. 103–354. Subsec. (f) of section 228 of Pub. L. 103–354 amended sections 2001, 2002, 2005, and 3862 of Title 16, Conservation, and repealed section 590e of Title 16.
 
@@ -1627,43 +1627,43 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 
 **Amendments**
 
-2018—Subsec. (b)(2), (3). Pub. L. 115–334, § 12410(b)(1)(A), (B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The forest land enhancement program under section 2103 of title 16.”
+2018—Subsec. (b)(2), (3). Pub. L. 115–334, § 12410(b)(1)(A), (B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The forest land enhancement program under section 2103 of title 16.”
 
-Subsec. (b)(4). Pub. L. 115–334, § 12410(b)(1)(B), (C), redesignated par. (5) as (4) and inserted “; Public Law 101–624” after “note”. Former par. (4) redesignated (3).
+Subsec. (b)(4). Pub. L. 115–334, § 12410(b)(1)(B), (C), redesignated par. (5) as (4) and inserted “; Public Law 101–624” after “note”. Former par. (4) redesignated (3).
 
-Subsec. (b)(5), (6). Pub. L. 115–334, § 12410(b)(1)(B), (D), redesignated par. (6) as (5) and substituted “3831 et seq.” for “3831–3836”. Former par. (5) redesignated (4).
+Subsec. (b)(5), (6). Pub. L. 115–334, § 12410(b)(1)(B), (D), redesignated par. (6) as (5) and substituted “3831 et seq.” for “3831–3836”. Former par. (5) redesignated (4).
 
-Subsec. (c). Pub. L. 115–334, § 12410(b)(2), substituted “paragraphs (1) and (3) of subsection (b)” for “paragraphs (1), (2), and (4) of subsection (b) and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837–3837f)” in introductory provisions.
+Subsec. (c). Pub. L. 115–334, § 12410(b)(2), substituted “paragraphs (1) and (3) of subsection (b)” for “paragraphs (1), (2), and (4) of subsection (b) and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837–3837f)” in introductory provisions.
 
-Subsec. (c)(1), (2). Pub. L. 115–334, § 12404(b)(1)(A), substituted “Farm” for “Consolidated Farm”.
+Subsec. (c)(1), (2). Pub. L. 115–334, § 12404(b)(1)(A), substituted “Farm” for “Consolidated Farm”.
 
-Subsec. (e)(2). Pub. L. 115–334, § 12404(b)(1)(B), substituted “Farm” for “Consolidated Farm” in two places.
+Subsec. (e)(2). Pub. L. 115–334, § 12404(b)(1)(B), substituted “Farm” for “Consolidated Farm” in two places.
 
-Subsec. (g). Pub. L. 115–334, § 12410(a), added subsec. (g).
+Subsec. (g). Pub. L. 115–334, § 12410(a), added subsec. (g).
 
 2002—Subsec. (b)(2). Pub. L. 107–171 substituted “forest land enhancement program” for “forestry incentive program”.
 
-1996—Subsec. (b)(1). Pub. L. 104–127, § 336(d)(2)(A), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “The rural environmental conservation program under title X of the Agricultural Act of 1970 (16 U.S.C. 1501 et seq.).”
+1996—Subsec. (b)(1). Pub. L. 104–127, § 336(d)(2)(A), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “The rural environmental conservation program under title X of the Agricultural Act of 1970 (16 U.S.C. 1501 et seq.).”
 
-Subsec. (b)(2). Pub. L. 104–127, § 336(b)(2)(B), (d)(2)(A)(ii), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “The Great Plains Conservation Program under section 16(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590p(b)).”
+Subsec. (b)(2). Pub. L. 104–127, § 336(b)(2)(B), (d)(2)(A)(ii), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “The Great Plains Conservation Program under section 16(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590p(b)).”
 
-Subsec. (b)(3). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated par. (5) as (3). Former par. (3) redesignated (1).
+Subsec. (b)(3). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated par. (5) as (3). Former par. (3) redesignated (1).
 
-Subsec. (b)(4). Pub. L. 104–127, § 336(c)(3), (d)(2)(A)(ii), redesignated par. (6) as (4) and substituted “measures” for “program”. Former par. (4) redesignated (2).
+Subsec. (b)(4). Pub. L. 104–127, § 336(c)(3), (d)(2)(A)(ii), redesignated par. (6) as (4) and substituted “measures” for “program”. Former par. (4) redesignated (2).
 
-Subsec. (b)(5). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated par. (7) as (5). Former par. (5) redesignated (3).
+Subsec. (b)(5). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated par. (7) as (5). Former par. (5) redesignated (3).
 
-Subsec. (b)(6). Pub. L. 104–127, § 336(a)(2)(D), (d)(2)(A)(ii), redesignated par. (8) as (6) and struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)”. Former par. (6) redesignated (4).
+Subsec. (b)(6). Pub. L. 104–127, § 336(a)(2)(D), (d)(2)(A)(ii), redesignated par. (8) as (6) and struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)”. Former par. (6) redesignated (4).
 
-Subsec. (b)(7), (8). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated pars. (7) and (8) as (5) and (6), respectively.
+Subsec. (b)(7), (8). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated pars. (7) and (8) as (5) and (6), respectively.
 
-Subsec. (c). Pub. L. 104–127, § 336(d)(2)(B), in introductory provisions, substituted “(1), (2), and (4)” for “(2), (3), (4), and (6)”.
+Subsec. (c). Pub. L. 104–127, § 336(d)(2)(B), in introductory provisions, substituted “(1), (2), and (4)” for “(2), (3), (4), and (6)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Conservation Technical Assistance**
 
-Pub. L. 117–169, title II, § 21002, Aug. 16, 2022, 136 Stat. 2018, provided that:
+Pub. L. 117–169, title II, § 21002, Aug. 16, 2022, 136 Stat. 2018, provided that:
 
 > **“(a) Appropriations.—** In addition to amounts otherwise available (and subject to subsection (b)), there are appropriated to the Secretary [of Agriculture] for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, to remain available until September 30, 2031 (subject to the condition that no such funds may be disbursed after September 30, 2031)—
 
@@ -1687,11 +1687,11 @@ Pub. L. 117–169, title II, § 21002, Aug. 16, 2022, 136 Stat. 2018, provided
 
 **Definition of “Secretary”**
 
-Pub. L. 117–169, title II, § 20001, Aug. 16, 2022, 136 Stat. 2015, provided that: “In this title [amending section 8103 of this title and sections 3839aa–2, 3839aa–8, 3839aa–22, 3839aa–24, 3841, 3844, and 3871d of Title 16, Conservation, enacting provisions set out as a note above, repealing provisions set out as a note under section 1921 of this title, and amending provisions set out as a note under section 2279 of this title], the term ‘Secretary’ means the Secretary of Agriculture.”
+Pub. L. 117–169, title II, § 20001, Aug. 16, 2022, 136 Stat. 2015, provided that: “In this title [amending section 8103 of this title and sections 3839aa–2, 3839aa–8, 3839aa–22, 3839aa–24, 3841, 3844, and 3871d of Title 16, Conservation, enacting provisions set out as a note above, repealing provisions set out as a note under section 1921 of this title, and amending provisions set out as a note under section 2279 of this title], the term ‘Secretary’ means the Secretary of Agriculture.”
 
 ## SUBCHAPTER III—RURAL ECONOMIC AND COMMUNITY DEVELOPMENT
 
-### § 6941. Under Secretary of Agriculture for Rural Development
+### § 6941. Under Secretary of Agriculture for Rural Development
 
 **(a) Authorization**
 
@@ -1719,13 +1719,13 @@ Any official who is serving as Under Secretary of Agriculture for Small Communit
 
 Approval authority for loans and loan guarantees in connection with the electric and telephone loan and loan guarantee programs authorized by the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) shall not be transferred to, or conditioned on review of, a State director or other employee whose primary duty is not the review and approval of such loans or the provision of assistance to such borrowers.
 
-(Pub. L. 103–354, title II, § 231, Oct. 13, 1994, 108 Stat. 3218; Pub. L. 104–127, title VII, § 794(a), Apr. 4, 1996, 110 Stat. 1155; Pub. L. 115–334, title XII, § 12407, Dec. 20, 2018, 132 Stat. 4976.)
+(Pub. L. 103–354, title II, § 231, Oct. 13, 1994, 108 Stat. 3218; Pub. L. 104–127, title VII, § 794(a), Apr. 4, 1996, 110 Stat. 1155; Pub. L. 115–334, title XII, § 12407, Dec. 20, 2018, 132 Stat. 4976.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (e), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (e), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 **Codification**
 
@@ -1733,13 +1733,13 @@ Section is comprised of section 231 of Pub. L. 103–354. Subsec. (f) of section
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 12407(1), substituted “shall” for “is authorized to”.
+2018—Subsec. (a). Pub. L. 115–334, § 12407(1), substituted “shall” for “is authorized to”.
 
-Subsec. (b). Pub. L. 115–334, § 12407(2), substituted “The Under Secretary of Agriculture for Rural Development shall” for “If the Secretary establishes the position of Under Secretary of Agriculture for Rural Development authorized under subsection (a), the Under Secretary shall”.
+Subsec. (b). Pub. L. 115–334, § 12407(2), substituted “The Under Secretary of Agriculture for Rural Development shall” for “If the Secretary establishes the position of Under Secretary of Agriculture for Rural Development authorized under subsection (a), the Under Secretary shall”.
 
 1996—Pub. L. 104–127 struck out “Economic and Community” after “Under Secretary of Agriculture for Rural”, wherever appearing in section catchline and subsecs. (a) to (c).
 
-### § 6941a. Coordinator for Chronically Underserved Rural Areas
+### § 6941a. Coordinator for Chronically Underserved Rural Areas
 
 **(a) Establishment**
 
@@ -1757,7 +1757,7 @@ The Coordinator shall consult with other offices in directing technical assistan
 
 There are authorized to be appropriated to the Secretary such sums as necessary to carry out this section for fiscal years 2008 through 2012.
 
-(Pub. L. 110–234, title XIV, § 14218, May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, § 4(a), title XIV, § 14218, June 18, 2008, 122 Stat. 1664, 2244.)
+(Pub. L. 110–234, title XIV, § 14218, May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, § 4(a), title XIV, § 14218, June 18, 2008, 122 Stat. 1664, 2244.)
 
 **Editorial Notes**
 
@@ -1773,7 +1773,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 6942. Rural Utilities Service
+### § 6942. Rural Utilities Service
 
 **(a) Establishment required**
 
@@ -1795,9 +1795,9 @@ The Administrator of the Rural Utilities Service shall receive basic pay at a ra
 
 **(A)** the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.); and
 
-**(B)** section 1926–1 1
+**(B)** section 1926–1 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
@@ -1805,21 +1805,21 @@ of this title; and
 
 **(A)** sections 1926, 1926a, 1926b,<sup>1</sup> and 1926c of this title, the provisions of sections 1929 and 1929a of this title relating to assets, terms, and conditions of water and sewer programs, section 1932(b) of this title, and section 1013a of this title; and
 
-**(B)** section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990 <sup>1</sup> (7 U.S.C. 1926 note).
+**(B)** section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990 <sup>1</sup> (7 U.S.C. 1926 note).
 
-(Pub. L. 103–354, title II, § 232, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, § 747(b)(2), Apr. 4, 1996, 110 Stat. 1128; Pub. L. 112–166, § 2(a)(2), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 115–334, title XII, § 12408(a)(1), Dec. 20, 2018, 132 Stat. 4976.)
+(Pub. L. 103–354, title II, § 232, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, § 747(b)(2), Apr. 4, 1996, 110 Stat. 1128; Pub. L. 112–166, § 2(a)(2), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 115–334, title XII, § 12408(a)(1), Dec. 20, 2018, 132 Stat. 4976.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (c)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (c)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
-Section 1926–1 of this title, referred to in subsec. (c)(1)(B), was repealed by Pub. L. 104–127, title VII, § 702, Apr. 4, 1996, 110 Stat. 1108.
+Section 1926–1 of this title, referred to in subsec. (c)(1)(B), was repealed by Pub. L. 104–127, title VII, § 702, Apr. 4, 1996, 110 Stat. 1108.
 
-Section 1926b of this title, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 104–127, title VII, § 743, Apr. 4, 1996, 110 Stat. 1125.
+Section 1926b of this title, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 104–127, title VII, § 743, Apr. 4, 1996, 110 Stat. 1125.
 
-Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2)(B), is section 2324 of Pub. L. 101–624, which was set out as a note under section 1926 of this title prior to repeal by Pub. L. 104–127, title VII, § 703, Apr. 4, 1996, 110 Stat. 1108.
+Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2)(B), is section 2324 of Pub. L. 101–624, which was set out as a note under section 1926 of this title prior to repeal by Pub. L. 104–127, title VII, § 703, Apr. 4, 1996, 110 Stat. 1108.
 
 **Codification**
 
@@ -1829,9 +1829,9 @@ Section is comprised of section 232 of Pub. L. 103–354. Prior to amendment of 
 
 2018—Subsec. (b). Pub. L. 115–334 amended subsec. (b) generally. Prior to amendment, par. (2) amended section 5315 of Title 5, Government Organization and Employees, and text of par. (1) read as follows: “The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.”
 
-2012—Subsec. (b)(1). Pub. L. 112–166, § 2(a)(2)(A), struck out “, by and with the advice and consent of the Senate” before period at end.
+2012—Subsec. (b)(1). Pub. L. 112–166, § 2(a)(2)(A), struck out “, by and with the advice and consent of the Senate” before period at end.
 
-Subsec. (b)(2). Pub. L. 112–166, § 2(a)(2)(B), (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: “Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
+Subsec. (b)(2). Pub. L. 112–166, § 2(a)(2)(B), (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: “Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
 
 “(A) may be considered to be serving in the successor position established under paragraph (1); and
 
@@ -1845,7 +1845,7 @@ Subsec. (b)(2). Pub. L. 112–166, § 2(a)(2)(B), (C), which directed that sub
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
-### § 6943. Rural Housing and Community Development Service
+### § 6943. Rural Housing and Community Development Service
 
 **(a) Establishment authorized**
 
@@ -1857,19 +1857,19 @@ Notwithstanding any other provision of law, the Secretary is authorized to estab
 
 **(2)** Programs and activities that relate to rural community lending programs, including programs authorized by section 2008d of this title.
 
-(Pub. L. 103–354, title II, § 233, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, §§ 747(b)(3), 753(b)(2), Apr. 4, 1996, 110 Stat. 1128, 1131.)
+(Pub. L. 103–354, title II, § 233, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, §§ 747(b)(3), 753(b)(2), Apr. 4, 1996, 110 Stat. 1128, 1131.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 **Amendments**
 
 1996—Subsec. (b)(2), (3). Pub. L. 104–127 redesignated par. (3) as (2), substituted “section 2008d of this title” for “sections 2008 through 2008d of this title”, and struck out former par. (2) which read as follows: “Programs and activities authorized under section 1932(i) of this title and related provisions of law.”
 
-### § 6944. Rural Business and Cooperative Development Service
+### § 6944. Rural Business and Cooperative Development Service
 
 **(a) Establishment authorized**
 
@@ -1879,9 +1879,9 @@ Notwithstanding any other provision of law, the Secretary is authorized to estab
 
 **(1)** Section 313 and title V of the Rural Electrification Act of 1936 (7 U.S.C. 940c and 950aa et seq.).
 
-**(2)** Subtitle G 1
+**(2)** Subtitle G 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
@@ -1891,19 +1891,19 @@ of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
 **(5)** The Act of July 2, 1926 (44 Stat. 802, chapter 725; 7 U.S.C. 451 et seq.).
 
-(Pub. L. 103–354, title II, § 234, Oct. 13, 1994, 108 Stat. 3220.)
+(Pub. L. 103–354, title II, § 234, Oct. 13, 1994, 108 Stat. 3220.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (b)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363. Title V of the Act is classified generally to subchapter V (§ 950aa et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (b)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363. Title V of the Act is classified generally to subchapter V (§ 950aa et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 1421 of this title and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 1421 of this title and Tables.
 
-Act of July 2, 1926, referred to in subsec. (b)(5), is act July 2, 1926, ch. 725, 44 Stat. 802, which is classified generally to chapter 18 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of July 2, 1926, referred to in subsec. (b)(5), is act July 2, 1926, ch. 725, 44 Stat. 802, which is classified generally to chapter 18 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-### § 6945. Rural Development Disaster Assistance Fund
+### § 6945. Rural Development Disaster Assistance Fund
 
 **(a) Rural Development Disaster Assistance Fund**
 
@@ -1921,7 +1921,7 @@ Subject to subsection (d), amounts in the Rural Development Disaster Assistance 
 
 **(3)** with respect to grants authorized by 7 U.S.C. 1926(a)(19),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Secretary of Agriculture shall not require the applicant to demonstrate that it is unable to finance the proposed project from its own resources, or through commercial credit at reasonable rates and terms, or other funding sources without grant assistance.
 
@@ -1949,7 +1949,7 @@ Amounts in the Rural Development Disaster Assistance Fund, except for amounts de
 
 The Secretary of Agriculture shall submit, on a quarterly basis, to the Committees on Appropriations of the House of Representatives and the Senate a report describing the status of the Rural Development Disaster Assistance Fund and any transactions that have affected the Fund since the previous report.
 
-(Pub. L. 110–329, div. B, title I, § 10101, Sept. 30, 2008, 122 Stat. 3586; Pub. L. 111–80, title VII, § 702, Oct. 21, 2009, 123 Stat. 2118; Pub. L. 118–158, div. B, § 2101(1), (2), Dec. 21, 2024, 138 Stat. 1730, 1731.)
+(Pub. L. 110–329, div. B, title I, § 10101, Sept. 30, 2008, 122 Stat. 3586; Pub. L. 111–80, title VII, § 702, Oct. 21, 2009, 123 Stat. 2118; Pub. L. 118–158, div. B, § 2101(1), (2), Dec. 21, 2024, 138 Stat. 1730, 1731.)
 
 **Editorial Notes**
 
@@ -1965,15 +1965,15 @@ Section was enacted as part of the Disaster Relief and Recovery Supplemental App
 
 **Amendments**
 
-2024—Subsec. (b). Pub. L. 118–158, § 2101(1)(B), (C), inserted “The cost of such direct and guaranteed loans, including the cost of modifying loans, shall be as defined in section 661a of title 2.” before “Amounts so provided” and “, but shall not be limited to the original form of assistance, if any” after “to carry out the activity”.
+2024—Subsec. (b). Pub. L. 118–158, § 2101(1)(B), (C), inserted “The cost of such direct and guaranteed loans, including the cost of modifying loans, shall be as defined in section 661a of title 2.” before “Amounts so provided” and “, but shall not be limited to the original form of assistance, if any” after “to carry out the activity”.
 
-Pub. L. 118–158, § 2101(1)(A), substituted “, in the form of loans, grants, loan guarantees, or cooperative agreements, for any authorized activity” for “for authorized activities” and “President, the” for “President or the” and directed insertion of “, or the Governor of a State or Territory” after “the Secretary of Agriculture”, which was executed by making the insertion after “the Secretary of Agriculture” the second place appearing, to reflect the probable intent of Congress.
+Pub. L. 118–158, § 2101(1)(A), substituted “, in the form of loans, grants, loan guarantees, or cooperative agreements, for any authorized activity” for “for authorized activities” and “President, the” for “President or the” and directed insertion of “, or the Governor of a State or Territory” after “the Secretary of Agriculture”, which was executed by making the insertion after “the Secretary of Agriculture” the second place appearing, to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 118–158, § 2101(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Agriculture may waive any limits on population, income, or cost-sharing otherwise applicable to an activity or project for which amounts in the Rural Development Disaster Assistance Fund will be obligated under subsection (b), except that, if the amounts proposed to be obligated in connection with the disaster would exceed the amount specified in subsection (h), the notification required by that subsection shall include information and justification with regard to any waivers to be granted under this subsection.”
+Subsec. (c). Pub. L. 118–158, § 2101(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Agriculture may waive any limits on population, income, or cost-sharing otherwise applicable to an activity or project for which amounts in the Rural Development Disaster Assistance Fund will be obligated under subsection (b), except that, if the amounts proposed to be obligated in connection with the disaster would exceed the amount specified in subsection (h), the notification required by that subsection shall include information and justification with regard to any waivers to be granted under this subsection.”
 
 2009—Subsec. (b). Pub. L. 111–80 inserted at end “In carrying out this section, the Secretary may transfer funds into existing or new accounts as determined by the Secretary.”
 
-### § 6946. Rural Health Liaison
+### § 6946. Rural Health Liaison
 
 **(a) Authorization**
 
@@ -1999,11 +1999,11 @@ The Secretary shall establish in the Department the position of Rural Health Lia
 
 **(9)** provide technical assistance and guidance with respect to activities relating to rural health to the outreach, extension, and county offices of the Department.
 
-(Pub. L. 103–354, title II, § 236, as added Pub. L. 115–334, title XII, § 12409, Dec. 20, 2018, 132 Stat. 4977.)
+(Pub. L. 103–354, title II, § 236, as added Pub. L. 115–334, title XII, § 12409, Dec. 20, 2018, 132 Stat. 4977.)
 
 ## SUBCHAPTER IV—FOOD, NUTRITION, AND CONSUMER SERVICES
 
-### § 6951. Under Secretary of Agriculture for Food, Nutrition, and Consumer Services
+### § 6951. Under Secretary of Agriculture for Food, Nutrition, and Consumer Services
 
 **(a) Authorization**
 
@@ -2027,7 +2027,7 @@ The Under Secretary of Agriculture for Food, Nutrition, and Consumer Services sh
 
 Any official who is serving as Assistant Secretary of Agriculture for Food and Consumer Services on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
 
-(Pub. L. 103–354, title II, § 241, Oct. 13, 1994, 108 Stat. 3222.)
+(Pub. L. 103–354, title II, § 241, Oct. 13, 1994, 108 Stat. 3222.)
 
 **Editorial Notes**
 
@@ -2035,7 +2035,7 @@ Any official who is serving as Assistant Secretary of Agriculture for Food and C
 
 Section is comprised of section 241 of Pub. L. 103–354. Subsec. (e) of section 241 of Pub. L. 103–354 amended section 5314 of Title 5, Government Organization and Employees.
 
-### § 6952. Multiagency task force
+### § 6952. Multiagency task force
 
 **(a) In general**
 
@@ -2077,7 +2077,7 @@ The Secretary shall establish, in the office of the Under Secretary for Food, Nu
 
 **(2)** policies implemented for the improvement of commodity procurement programs.
 
-(Pub. L. 103–354, title II, § 242, as added Pub. L. 113–79, title IV, § 4205, Feb. 7, 2014, 128 Stat. 823; amended Pub. L. 115–334, title XII, § 12405(b), Dec. 20, 2018, 132 Stat. 4975.)
+(Pub. L. 103–354, title II, § 242, as added Pub. L. 113–79, title IV, § 4205, Feb. 7, 2014, 128 Stat. 823; amended Pub. L. 115–334, title XII, § 12405(b), Dec. 20, 2018, 132 Stat. 4975.)
 
 **Editorial Notes**
 
@@ -2085,7 +2085,7 @@ The Secretary shall establish, in the office of the Under Secretary for Food, Nu
 
 2018—Subsec. (b)(3). Pub. L. 115–334 substituted “Under Secretary of Agriculture for Farm Production and Conservation” for “Under Secretary for Farm and Foreign Agricultural Services”.
 
-### § 6953. Healthy food financing initiative
+### § 6953. Healthy food financing initiative
 
 **(a) Purpose**
 
@@ -2201,23 +2201,23 @@ In carrying out the Initiative, the Secretary shall provide funding to entities 
 
 There is authorized to be appropriated to the Secretary to carry out this section $125,000,000, to remain available until expended.
 
-(Pub. L. 103–354, title II, § 243, as added Pub. L. 113–79, title IV, § 4206, Feb. 7, 2014, 128 Stat. 824; amended Pub. L. 115–334, title IV, § 4204, Dec. 20, 2018, 132 Stat. 4656.)
+(Pub. L. 103–354, title II, § 243, as added Pub. L. 113–79, title IV, § 4206, Feb. 7, 2014, 128 Stat. 824; amended Pub. L. 115–334, title IV, § 4204, Dec. 20, 2018, 132 Stat. 4656.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(B)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(B)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 **Amendments**
 
-2018—Subsecs. (a), (b)(3)(B)(iii). Pub. L. 115–334, § 4204(1), (2), inserted “and enterprises” after “retailers”.
+2018—Subsecs. (a), (b)(3)(B)(iii). Pub. L. 115–334, § 4204(1), (2), inserted “and enterprises” after “retailers”.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 115–334, § 4204(3), inserted “as applicable,” before “to accept”.
+Subsec. (c)(2)(B)(ii). Pub. L. 115–334, § 4204(3), inserted “as applicable,” before “to accept”.
 
 ## SUBCHAPTER V—NATURAL RESOURCES AND ENVIRONMENT
 
-### § 6961. Under Secretary of Agriculture for Natural Resources and Environment
+### § 6961. Under Secretary of Agriculture for Natural Resources and Environment
 
 **(a) Authorization**
 
@@ -2241,7 +2241,7 @@ The Under Secretary of Agriculture for Natural Resources and Environment shall p
 
 Any official who is serving as Assistant Secretary of Agriculture for Natural Resources and Environment on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
 
-(Pub. L. 103–354, title II, § 245, Oct. 13, 1994, 108 Stat. 3223.)
+(Pub. L. 103–354, title II, § 245, Oct. 13, 1994, 108 Stat. 3223.)
 
 **Editorial Notes**
 
@@ -2249,19 +2249,19 @@ Any official who is serving as Assistant Secretary of Agriculture for Natural Re
 
 Section is comprised of section 245 of Pub. L. 103–354. Subsec. (e) of section 245 of Pub. L. 103–354 amended section 5314 of Title 5, Government Organization and Employees.
 
-### § 6962. Transferred
+### § 6962. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 103–354, title II, § 228, formerly § 246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, § 336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005, 1006; Pub. L. 107–171, title VIII, § 8002(c), May 13, 2002, 116 Stat. 473; Pub. L. 115–334, title XII, §§ 12404(b)(1), 12410(a)(c)(1)(A), Dec. 20, 2018, 132 Stat. 4975, 4977, 4978, was moved so as to appear at the end of subtitle B of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12410(c)(1)(B), Dec. 20, 2018, 132 Stat. 4978, and editorially reclassified as section 6936 of this title.
+Section, Pub. L. 103–354, title II, § 228, formerly § 246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, § 336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005, 1006; Pub. L. 107–171, title VIII, § 8002(c), May 13, 2002, 116 Stat. 473; Pub. L. 115–334, title XII, §§ 12404(b)(1), 12410(a)(c)(1)(A), Dec. 20, 2018, 132 Stat. 4975, 4977, 4978, was moved so as to appear at the end of subtitle B of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12410(c)(1)(B), Dec. 20, 2018, 132 Stat. 4978, and editorially reclassified as section 6936 of this title.
 
-### § 6962a. Cooperative agreements
+### § 6962a. Cooperative agreements
 
 Notwithstanding any other provision of law (including provisions of law requiring competition), the Secretary of Agriculture may on and after October 28, 2000, enter into cooperative agreements (which may provide for the acquisition of goods or services, including personal services) with a State, political subdivision, or agency thereof, a public or private agency, organization, or any other person, if the Secretary determines that the objectives of the agreement will: (1) serve a mutual interest of the parties to the agreement in carrying out the programs administered by the Natural Resources Conservation Service; and (2) all parties will contribute resources to the accomplishment of these objectives: *Provided*, That Commodity Credit Corporation funds obligated for such purposes shall not exceed the level obligated by the Commodity Credit Corporation for such purposes in fiscal year 1998.
 
-(Pub. L. 106–387, § 1(a) [title VII, § 714], Oct. 28, 2000, 114 Stat. 1549, 1549A–30.)
+(Pub. L. 106–387, § 1(a) [title VII, § 714], Oct. 28, 2000, 114 Stat. 1549, 1549A–30.)
 
 **Editorial Notes**
 
@@ -2269,13 +2269,13 @@ Notwithstanding any other provision of law (including provisions of law requirin
 
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
 
-### § 6963. Repealed. Pub. L. 115–334, title XII, § 12414(a)(5), Dec. 20, 2018, 132 Stat. 4981
+### § 6963. Repealed. Pub. L. 115–334, title XII, § 12414(a)(5), Dec. 20, 2018, 132 Stat. 4981
 
-Section, Pub. L. 103–354, title II, § 247, Oct. 13, 1994, 108 Stat. 3225, related to reorganization of Forest Service.
+Section, Pub. L. 103–354, title II, § 247, Oct. 13, 1994, 108 Stat. 3225, related to reorganization of Forest Service.
 
 ## SUBCHAPTER VI—RESEARCH, EDUCATION, AND ECONOMICS
 
-### § 6971. Under Secretary of Agriculture for Research, Education, and Economics
+### § 6971. Under Secretary of Agriculture for Research, Education, and Economics
 
 **(a) Authorization**
 
@@ -2453,9 +2453,9 @@ The term “applied research” means research that includes expansion of the fi
 
 **(v)** Each program established under section 1417(b) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3152(b)).
 
-**(vi)** The animal health and disease research program established under subtitle E of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3191 et seq.) 1
+**(vi)** The animal health and disease research program established under subtitle E of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3191 et seq.) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 except for the competitive grant program under section 1433(b) [7 U.S.C. 3195(b)].
 
@@ -2615,7 +2615,7 @@ In addition to funds otherwise appropriated to carry out each program administer
 
 Funding made available under subparagraph (A) shall be allocated according to recommendations contained in the roadmap described in section 7614a of this title.
 
-(Pub. L. 103–354, title II, § 251, Oct. 13, 1994, 108 Stat. 3226; Pub. L. 110–234, title VII, § 7511(a), May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, § 4(a), title VII, § 7511(a), June 18, 2008, 122 Stat. 1664, 2021; Pub. L. 113–79, title VII, §§ 7111(b)(2), 7212(b), Feb. 7, 2014, 128 Stat. 874, 886; Pub. L. 115–334, title XI, § 11125(b), title XII, §§ 12301(a)(2)(B), 12411(a), (b)(1), Dec. 20, 2018, 132 Stat. 4936, 4950, 4978, 4979.)
+(Pub. L. 103–354, title II, § 251, Oct. 13, 1994, 108 Stat. 3226; Pub. L. 110–234, title VII, § 7511(a), May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, § 4(a), title VII, § 7511(a), June 18, 2008, 122 Stat. 1664, 2021; Pub. L. 113–79, title VII, §§ 7111(b)(2), 7212(b), Feb. 7, 2014, 128 Stat. 874, 886; Pub. L. 115–334, title XI, § 11125(b), title XII, §§ 12301(a)(2)(B), 12411(a), (b)(1), Dec. 20, 2018, 132 Stat. 4936, 4950, 4978, 4979.)
 
 **Editorial Notes**
 
@@ -2627,51 +2627,51 @@ This Act, referred to in subsec. (e)(3)(E), is Pub. L. 103–354, Oct. 13, 1994,
 
 The Hatch Act of 1887, referred to in subsec. (f)(1)(C)(iv), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§ 3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§ 3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
-The Renewable Resources Extension Act of 1978, referred to in subsec. (f)(1)(C)(xiii), is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which is classified generally to subchapter III (§ 1671 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 1600 of Title 16 and Tables.
+The Renewable Resources Extension Act of 1978, referred to in subsec. (f)(1)(C)(xiii), is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which is classified generally to subchapter III (§ 1671 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 1600 of Title 16 and Tables.
 
 **Codification**
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly (e), of section 251 of Pub. L. 103–354, as redesignated by Pub. L. 110–246, § 7511(a)(3), amended section 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly (e), of section 251 of Pub. L. 103–354, as redesignated by Pub. L. 110–246, § 7511(a)(3), amended section 5314 of Title 5, Government Organization and Employees.
 
 **Amendments**
 
-2018—Subsec. (e). Pub. L. 115–334, § 12411(a)(1), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office” in heading.
+2018—Subsec. (e). Pub. L. 115–334, § 12411(a)(1), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office” in heading.
 
-Subsec. (e)(1). Pub. L. 115–334, § 12411(a)(2), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
+Subsec. (e)(1). Pub. L. 115–334, § 12411(a)(2), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
 
-Subsec. (e)(2). Pub. L. 115–334, § 12411(a)(3), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office” in introductory provisions.
+Subsec. (e)(2). Pub. L. 115–334, § 12411(a)(3), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office” in introductory provisions.
 
-Subsec. (e)(3)(C). Pub. L. 115–334, § 12411(a)(4), substituted “clauses (i) and (iii) of subparagraph (A) shall be for not less than 3 years” for “subparagraph (A) shall not exceed 4 years”.
+Subsec. (e)(3)(C). Pub. L. 115–334, § 12411(a)(4), substituted “clauses (i) and (iii) of subparagraph (A) shall be for not less than 3 years” for “subparagraph (A) shall not exceed 4 years”.
 
-Subsec. (e)(4). Pub. L. 115–334, § 12411(a)(6), added par. (4). Former par. (4) redesignated (5).
+Subsec. (e)(4). Pub. L. 115–334, § 12411(a)(6), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (e)(5). Pub. L. 115–334, § 12411(a)(5), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (e)(5). Pub. L. 115–334, § 12411(a)(5), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (e)(5)(A). Pub. L. 115–334, § 12411(a)(7)(A), designated existing provisions as cl. (ii), inserted heading, substituted “In addition to amounts made available under clause (i), notwithstanding” for “Notwithstanding”, and added cl. (i).
+Subsec. (e)(5)(A). Pub. L. 115–334, § 12411(a)(7)(A), designated existing provisions as cl. (ii), inserted heading, substituted “In addition to amounts made available under clause (i), notwithstanding” for “Notwithstanding”, and added cl. (i).
 
-Subsec. (e)(5)(C)(iii). Pub. L. 115–334, § 12411(a)(7)(B), added cl. (iii).
+Subsec. (e)(5)(C)(iii). Pub. L. 115–334, § 12411(a)(7)(B), added cl. (iii).
 
-Subsec. (e)(6). Pub. L. 115–334, § 12411(a)(5), (8), redesignated par. (5) as (6) and substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
+Subsec. (e)(6). Pub. L. 115–334, § 12411(a)(5), (8), redesignated par. (5) as (6) and substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
 
-Subsec. (f)(1)(D)(ii). Pub. L. 115–334, § 11125(b), substituted “section 1524(a) of this title” for “section 1524(a)(3) of this title”.
+Subsec. (f)(1)(D)(ii). Pub. L. 115–334, § 11125(b), substituted “section 1524(a) of this title” for “section 1524(a)(3) of this title”.
 
-Subsec. (f)(1)(D)(iv). Pub. L. 115–334, § 12301(a)(2)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “The program providing grants for beginning farmer and rancher development established under section 3319f of this title.”
+Subsec. (f)(1)(D)(iv). Pub. L. 115–334, § 12301(a)(2)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “The program providing grants for beginning farmer and rancher development established under section 3319f of this title.”
 
-Subsec. (f)(5)(B). Pub. L. 115–334, § 12411(b)(1), substituted “Office of the Chief Scientist” for “Research, Education and Extension Office”.
+Subsec. (f)(5)(B). Pub. L. 115–334, § 12411(b)(1), substituted “Office of the Chief Scientist” for “Research, Education and Extension Office”.
 
-2014—Subsec. (f)(1)(C)(vi). Pub. L. 113–79, § 7111(b)(2), inserted “except for the competitive grant program under section 1433(b)” before period at end.
+2014—Subsec. (f)(1)(C)(vi). Pub. L. 113–79, § 7111(b)(2), inserted “except for the competitive grant program under section 1433(b)” before period at end.
 
-Subsec. (f)(1)(D)(xi) to (xiii). Pub. L. 113–79, § 7212(b), redesignated cls. (xii) and (xiii) as (xi) and (xii), respectively, and struck out former cl. (xi) which read as follows: “The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under section 5925e of this title.”
+Subsec. (f)(1)(D)(xi) to (xiii). Pub. L. 113–79, § 7212(b), redesignated cls. (xii) and (xiii) as (xi) and (xii), respectively, and struck out former cl. (xi) which read as follows: “The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under section 5925e of this title.”
 
-2008—Subsec. (a). Pub. L. 110–246, § 7511(a)(1), inserted “(referred to in this section as the ‘Under Secretary’)” before period at end.
+2008—Subsec. (a). Pub. L. 110–246, § 7511(a)(1), inserted “(referred to in this section as the ‘Under Secretary’)” before period at end.
 
-Subsecs. (b) to (f). Pub. L. 110–246, § 7511(a)(2), (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment and functions of the Cooperative State Research, Education, and Extension Service.
+Subsecs. (b) to (f). Pub. L. 110–246, § 7511(a)(2), (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment and functions of the Cooperative State Research, Education, and Extension Service.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2679,13 +2679,13 @@ Subsecs. (b) to (f). Pub. L. 110–246, § 7511(a)(2), (4), added subsecs. (b)
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 6972. Repealed. Pub. L. 115–334, title XII, § 12414(a)(6), Dec. 20, 2018, 132 Stat. 4981
+### § 6972. Repealed. Pub. L. 115–334, title XII, § 12414(a)(6), Dec. 20, 2018, 132 Stat. 4981
 
-Section, Pub. L. 103–354, title II, § 252, Oct. 13, 1994, 108 Stat. 3227, related to program staff.
+Section, Pub. L. 103–354, title II, § 252, Oct. 13, 1994, 108 Stat. 3227, related to program staff.
 
 ## SUBCHAPTER VII—FOOD SAFETY
 
-### § 6981. Under Secretary of Agriculture for Food Safety
+### § 6981. Under Secretary of Agriculture for Food Safety
 
 **(a) Establishment**
 
@@ -2709,7 +2709,7 @@ The Under Secretary of Agriculture for Food Safety shall perform such other func
 
 **(2)** appoint and pay the members of the groups, except that officers and employees of the United States shall not receive additional compensation for service as a member of a group.
 
-(Pub. L. 103–354, title II, § 261, Oct. 13, 1994, 108 Stat. 3227.)
+(Pub. L. 103–354, title II, § 261, Oct. 13, 1994, 108 Stat. 3227.)
 
 **Editorial Notes**
 
@@ -2717,7 +2717,7 @@ The Under Secretary of Agriculture for Food Safety shall perform such other func
 
 Section is comprised of section 261 of Pub. L. 103–354. Subsec. (c) of section 261 of Pub. L. 103–354 amended section 5314 of Title 5, Government Organization and Employees.
 
-### § 6982. Conditions for implementation of alterations in the level of additives allowed in animal diets
+### § 6982. Conditions for implementation of alterations in the level of additives allowed in animal diets
 
 **(a) Conditions** The Food and Drug Administration shall not implement or enforce the final rule described in subsection (b) to alter the level of selenium allowed to be used as a supplement in animal diets unless the Commissioner of the Food and Drug Administration makes a determination that—
 
@@ -2735,11 +2735,11 @@ Section is comprised of section 261 of Pub. L. 103–354. Subsec. (c) of section
 
 The final rule referred to in subsection (a) is the final rule issued by the Food and Drug Administration and published in the Federal Register on September 13, 1993 (58 Fed. Reg. 47962), in which the Administration stayed 1987 amendments to the selenium food additive regulations, and any modification of such rule issued after October 13, 1994.
 
-(Pub. L. 103–354, title II, § 262, Oct. 13, 1994, 108 Stat. 3227.)
+(Pub. L. 103–354, title II, § 262, Oct. 13, 1994, 108 Stat. 3227.)
 
 ## SUBCHAPTER VIII—NATIONAL APPEALS DIVISION
 
-### § 6991. Definitions
+### § 6991. Definitions
 
 For purposes of this subchapter:
 
@@ -2791,23 +2791,23 @@ The term “implement” refers to those actions necessary to effectuate fully a
 
 The term “participant” shall have the meaning given that term by the Secretary by regulation.
 
-(Pub. L. 103–354, title II, § 271, Oct. 13, 1994, 108 Stat. 3228; Pub. L. 115–334, title XII, §§ 12404(b)(2), 12410(c)(2)(B), Dec. 20, 2018, 132 Stat. 4975, 4978.)
+(Pub. L. 103–354, title II, § 271, Oct. 13, 1994, 108 Stat. 3228; Pub. L. 115–334, title XII, §§ 12404(b)(2), 12410(c)(2)(B), Dec. 20, 2018, 132 Stat. 4975, 4978.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle H (§§ 271–283) of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3228, which enacted this subchapter, amended sections 2006 and 5101 to 5106 of this title and section 2202e of Title 12, Banks and Banking, and repealed sections 1433e and 1983b of this title.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle H (§§ 271–283) of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3228, which enacted this subchapter, amended sections 2006 and 5101 to 5106 of this title and section 2202e of Title 12, Banks and Banking, and repealed sections 1433e and 1983b of this title.
 
 This chapter, referred to in par. (6), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 **Amendments**
 
-2018—Par. (2)(A). Pub. L. 115–334, § 12404(b)(2), substituted “Farm” for “Consolidated Farm” in two places.
+2018—Par. (2)(A). Pub. L. 115–334, § 12404(b)(2), substituted “Farm” for “Consolidated Farm” in two places.
 
-Par. (2)(F). Pub. L. 115–334, § 12410(c)(2)(B), substituted “section 6936(b) of this title” for “section 6962(b) of this title”.
+Par. (2)(F). Pub. L. 115–334, § 12410(c)(2)(B), substituted “section 6936(b) of this title” for “section 6962(b) of this title”.
 
-### § 6992. National Appeals Division and Director
+### § 6992. National Appeals Division and Director
 
 **(a) Establishment of Division**
 
@@ -2867,13 +2867,13 @@ The Director shall recommend to the Secretary persons for appointment as hearing
 
 **(D)** a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
 
-(Pub. L. 103–354, title II, § 272, Oct. 13, 1994, 108 Stat. 3229; Pub. L. 113–79, title I, § 1610(a), Feb. 7, 2014, 128 Stat. 709; Pub. L. 115–334, title XII, § 12412, Dec. 20, 2018, 132 Stat. 4980.)
+(Pub. L. 103–354, title II, § 272, Oct. 13, 1994, 108 Stat. 3229; Pub. L. 113–79, title I, § 1610(a), Feb. 7, 2014, 128 Stat. 709; Pub. L. 115–334, title XII, § 12412, Dec. 20, 2018, 132 Stat. 4980.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsec. (e), was in the original “this subtitle”, meaning subtitle H (§§ 271–283) of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3228, which enacted this subchapter, amended sections 2006 and 5101 to 5106 of this title and section 2202e of Title 12, Banks and Banking, and repealed sections 1433e and 1983b of this title.
+This subchapter, referred to in subsec. (e), was in the original “this subtitle”, meaning subtitle H (§§ 271–283) of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3228, which enacted this subchapter, amended sections 2006 and 5101 to 5106 of this title and section 2202e of Title 12, Banks and Banking, and repealed sections 1433e and 1983b of this title.
 
 **Amendments**
 
@@ -2881,23 +2881,23 @@ This subchapter, referred to in subsec. (e), was in the original “this subtitl
 
 2014—Subsec. (c). Pub. L. 113–79 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Director shall be free from the direction and control of any person other than the Secretary. The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary. The Secretary may not delegate to any other officer or employee of the Department, other than the Director, the authority of the Secretary with respect to the Division.”
 
-### § 6993. Transfer of functions
+### § 6993. Transfer of functions
 
 There are transferred to the Division all functions exercised and all administrative appeals pending before the effective date of this subchapter (including all related functions of any officer or employee) of or relating to—
 
-**(1)** the National Appeals Division established by section 1433e(c) 1
+**(1)** the National Appeals Division established by section 1433e(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title (as in effect on the day before October 13, 1994);
 
-**(2)** the National Appeals Division established by subsections (d) through (g) of section 1983b <sup>1</sup> of this title (as in effect on the day before October 13, 1994);
+**(2)** the National Appeals Division established by subsections (d) through (g) of section 1983b <sup>1</sup> of this title (as in effect on the day before October 13, 1994);
 
 **(3)** appeals of decisions made by the Federal Crop Insurance Corporation; and
 
 **(4)** appeals of decisions made by the Soil Conservation Service (as in effect on the day before October 13, 1994).
 
-(Pub. L. 103–354, title II, § 273, Oct. 13, 1994, 108 Stat. 3230.)
+(Pub. L. 103–354, title II, § 273, Oct. 13, 1994, 108 Stat. 3230.)
 
 **Editorial Notes**
 
@@ -2905,17 +2905,17 @@ of this title (as in effect on the day before October 13, 1994);
 
 The effective date of this subchapter, referred to in text, probably means the date of enactment of Pub. L. 103–354, which was approved Oct. 13, 1994.
 
-Section 1433e of this title, referred to in par. (1), was repealed by Pub. L. 103–354, title II, § 281(b), Oct. 13, 1994, 108 Stat. 3233.
+Section 1433e of this title, referred to in par. (1), was repealed by Pub. L. 103–354, title II, § 281(b), Oct. 13, 1994, 108 Stat. 3233.
 
-Section 1983b of this title, referred to in par. (2), was repealed by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233.
+Section 1983b of this title, referred to in par. (2), was repealed by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233.
 
-### § 6994. Notice and opportunity for hearing
+### § 6994. Notice and opportunity for hearing
 
 Not later than 10 working days after an adverse decision is made that affects the participant, the Secretary shall provide the participant with written notice of such adverse decision and the rights available to the participant under this subchapter or other law for the review of such adverse decision.
 
-(Pub. L. 103–354, title II, § 274, Oct. 13, 1994, 108 Stat. 3230.)
+(Pub. L. 103–354, title II, § 274, Oct. 13, 1994, 108 Stat. 3230.)
 
-### § 6995. Informal hearings
+### § 6995. Informal hearings
 
 **(a) In general**
 
@@ -2931,13 +2931,13 @@ With respect to programs carried out through the Farm Service Agency (or other o
 
 **(2)** to the maximum extent practicable, be allowed to use both informal agency review and mediation to resolve disputes under that title.
 
-(Pub. L. 103–354, title II, § 275, Oct. 13, 1994, 108 Stat. 3230; Pub. L. 110–234, title XII, § 12032, May 22, 2008, 122 Stat. 1391; Pub. L. 110–246, § 4(a), title XII, § 12032, June 18, 2008, 122 Stat. 1664, 2153; Pub. L. 115–334, title XII, § 12404(b)(3), Dec. 20, 2018, 132 Stat. 4975.)
+(Pub. L. 103–354, title II, § 275, Oct. 13, 1994, 108 Stat. 3230; Pub. L. 110–234, title XII, § 12032, May 22, 2008, 122 Stat. 1391; Pub. L. 110–246, § 4(a), title XII, § 12032, June 18, 2008, 122 Stat. 1664, 2153; Pub. L. 115–334, title XII, § 12404(b)(3), Dec. 20, 2018, 132 Stat. 4975.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Credit Act of 1987, referred to in subsec. (c), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568. Title V of the Act is classified principally to chapter 82 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 2001 of Title 12, Banks and Banking, and Tables.
+The Agricultural Credit Act of 1987, referred to in subsec. (c), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568. Title V of the Act is classified principally to chapter 82 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 2001 of Title 12, Banks and Banking, and Tables.
 
 **Codification**
 
@@ -2947,7 +2947,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (b). Pub. L. 115–334 substituted “Farm” for “Consolidated Farm” in two places.
 
-2008—Pub. L. 110–246, § 12032, designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
+2008—Pub. L. 110–246, § 12032, designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2955,7 +2955,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 6996. Right of participants to Division hearing
+### § 6996. Right of participants to Division hearing
 
 **(a) Appeal to Division for hearing**
 
@@ -2965,9 +2965,9 @@ Subject to subsection (b), a participant shall have the right to appeal an adver
 
 To be entitled to a hearing under section 6997 of this title, a participant shall request the hearing not later than 30 days after the date on which the participant first received notice of the adverse decision.
 
-(Pub. L. 103–354, title II, § 276, Oct. 13, 1994, 108 Stat. 3230.)
+(Pub. L. 103–354, title II, § 276, Oct. 13, 1994, 108 Stat. 3230.)
 
-### § 6997. Division hearings
+### § 6997. Division hearings
 
 **(a) General powers of Director and hearing officers**
 
@@ -3011,9 +3011,9 @@ The hearing officer shall issue a notice of the determination on the appeal not 
 
 The final determination shall be effective as of the date of filing of an application, the date of the transaction or event in question, or the date of the original adverse decision, whichever is applicable.
 
-(Pub. L. 103–354, title II, § 277, Oct. 13, 1994, 108 Stat. 3230.)
+(Pub. L. 103–354, title II, § 277, Oct. 13, 1994, 108 Stat. 3230.)
 
-### § 6998. Director review of determinations of hearing officers
+### § 6998. Director review of determinations of hearing officers
 
 **(a) Requests for Director review**
 
@@ -3043,7 +3043,7 @@ Subject to regulations issued by the Secretary, the Director shall have the auth
 
 A final determination issued by the Director shall be effective as of the date of filing of an application, the date of the transaction or event in question, or the date of the original adverse decision, whichever is applicable.
 
-(Pub. L. 103–354, title II, § 278, Oct. 13, 1994, 108 Stat. 3232; Pub. L. 107–171, title I, § 1613(j)(2), May 13, 2002, 116 Stat. 221.)
+(Pub. L. 103–354, title II, § 278, Oct. 13, 1994, 108 Stat. 3232; Pub. L. 107–171, title I, § 1613(j)(2), May 13, 2002, 116 Stat. 221.)
 
 **Editorial Notes**
 
@@ -3051,13 +3051,13 @@ A final determination issued by the Director shall be effective as of the date o
 
 2002—Subsec. (d). Pub. L. 107–171 substituted “section 7996 of this title” for “section 1339a of this title”.
 
-### § 6999. Judicial review
+### § 6999. Judicial review
 
 A final determination of the Division shall be reviewable and enforceable by any United States district court of competent jurisdiction in accordance with chapter 7 of title 5.
 
-(Pub. L. 103–354, title II, § 279, Oct. 13, 1994, 108 Stat. 3233.)
+(Pub. L. 103–354, title II, § 279, Oct. 13, 1994, 108 Stat. 3233.)
 
-### § 7000. Implementation of final determinations of Division
+### § 7000. Implementation of final determinations of Division
 
 **(a) In general**
 
@@ -3081,7 +3081,7 @@ On the return of a case to an agency pursuant to the final determination of the 
 
 Each month, the head of each agency shall publish on the website of the Department any updates to the reports submitted under paragraph (1).
 
-(Pub. L. 103–354, title II, § 280, Oct. 13, 1994, 108 Stat. 3233; Pub. L. 110–234, title XIV, § 14009, May 22, 2008, 122 Stat. 1446; Pub. L. 110–246, § 4(a), title XIV, § 14009, June 18, 2008, 122 Stat. 1664, 2208.)
+(Pub. L. 103–354, title II, § 280, Oct. 13, 1994, 108 Stat. 3233; Pub. L. 110–234, title XIV, § 14009, May 22, 2008, 122 Stat. 1446; Pub. L. 110–246, § 4(a), title XIV, § 14009, June 18, 2008, 122 Stat. 1664, 2208.)
 
 **Editorial Notes**
 
@@ -3095,7 +3095,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 14009, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2008—Pub. L. 110–246, § 14009, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3103,7 +3103,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 7001. Conforming amendments relating to National Appeals Division
+### § 7001. Conforming amendments relating to National Appeals Division
 
 **(a) Decisions of State, county, and area committees**
 
@@ -3135,7 +3135,7 @@ For purposes of this subsection, a reference to the “Farm Service Agency” in
 
 **(b) , (c) Omitted**
 
-(Pub. L. 103–354, title II, § 281, Oct. 13, 1994, 108 Stat. 3233; Pub. L. 107–171, title I, § 1613(i), May 13, 2002, 116 Stat. 221.)
+(Pub. L. 103–354, title II, § 281, Oct. 13, 1994, 108 Stat. 3233; Pub. L. 107–171, title I, § 1613(i), May 13, 2002, 116 Stat. 221.)
 
 **Editorial Notes**
 
@@ -3145,21 +3145,21 @@ Section is comprised of section 281 of Pub. L. 103–354. Subsecs. (b) and (c) o
 
 **Amendments**
 
-2002—Subsec. (a)(1). Pub. L. 107–171, § 1613(i)(1), (2), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), this subsection” for “This subsection” and “Farm Service Agency” for “Consolidated Farm Service Agency”, and added subpar. (B).
+2002—Subsec. (a)(1). Pub. L. 107–171, § 1613(i)(1), (2), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), this subsection” for “This subsection” and “Farm Service Agency” for “Consolidated Farm Service Agency”, and added subpar. (B).
 
-Subsec. (a)(2). Pub. L. 107–171, § 1613(i)(3), inserted “, before the end of the 90-day period,” after “unless the decision” in introductory provisions.
+Subsec. (a)(2). Pub. L. 107–171, § 1613(i)(3), inserted “, before the end of the 90-day period,” after “unless the decision” in introductory provisions.
 
-Subsec. (a)(2)(B), (3), (4). Pub. L. 107–171, § 1613(i)(1), substituted “Farm Service Agency” for “Consolidated Farm Service Agency” wherever appearing.
+Subsec. (a)(2)(B), (3), (4). Pub. L. 107–171, § 1613(i)(1), substituted “Farm Service Agency” for “Consolidated Farm Service Agency” wherever appearing.
 
-### § 7002. Authorization of appropriations
+### § 7002. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the activities of the Division.
 
-(Pub. L. 103–354, title II, § 283, Oct. 13, 1994, 108 Stat. 3235.)
+(Pub. L. 103–354, title II, § 283, Oct. 13, 1994, 108 Stat. 3235.)
 
 ## SUBCHAPTER VIII–A—MARKETING AND REGULATORY PROGRAMS
 
-### § 7005. Under Secretary of Agriculture for Marketing and Regulatory Programs
+### § 7005. Under Secretary of Agriculture for Marketing and Regulatory Programs
 
 **(a) Authorization**
 
@@ -3183,7 +3183,7 @@ The Under Secretary of Agriculture for Marketing and Regulatory Programs shall p
 
 Any official who is serving as Assistant Secretary of Agriculture for Marketing and Regulatory Programs on October 21, 1998, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 21, 1998 (or such later date set by the Secretary if litigation delays rapid succession).
 
-(Pub. L. 103–354, title II, § 285, as added Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(3)], Oct. 21, 1998, 112 Stat. 2681, 2681–41.)
+(Pub. L. 103–354, title II, § 285, as added Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(3)], Oct. 21, 1998, 112 Stat. 2681, 2681–41.)
 
 **Editorial Notes**
 
@@ -3193,7 +3193,7 @@ Section is comprised of section 285 of Pub. L. 103–354, as added by Pub. L. 10
 
 ## SUBCHAPTER VIII–B—TRADE AND FOREIGN AGRICULTURAL AFFAIRS
 
-### § 7007. Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs
+### § 7007. Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs
 
 **(a) Establishment**
 
@@ -3215,7 +3215,7 @@ The Secretary shall delegate to the Under Secretary of Agriculture for Trade and
 
 **(B)** prescribed by the Secretary.
 
-(Pub. L. 103–354, title II, § 287, as added Pub. L. 115–334, title XII, § 12413(2), Dec. 20, 2018, 132 Stat. 4980.)
+(Pub. L. 103–354, title II, § 287, as added Pub. L. 115–334, title XII, § 12413(2), Dec. 20, 2018, 132 Stat. 4980.)
 
 ## SUBCHAPTER IX—MISCELLANEOUS REORGANIZATION PROVISIONS
 
@@ -3223,9 +3223,9 @@ The Secretary shall delegate to the Under Secretary of Agriculture for Trade and
 
 **Codification**
 
-This subchapter was originally added as subtitle I of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3235, and subsequently redesignated subtitle J of title II of Pub. L. 103–354 by Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(2)], Oct. 21, 1998, 112 Stat. 2681, 2681–41, and then subtitle K of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12413(1), Dec. 20, 2018, 132 Stat. 4980.
+This subchapter was originally added as subtitle I of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3235, and subsequently redesignated subtitle J of title II of Pub. L. 103–354 by Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(2)], Oct. 21, 1998, 112 Stat. 2681, 2681–41, and then subtitle K of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12413(1), Dec. 20, 2018, 132 Stat. 4980.
 
-### § 7011. Successorship provisions relating to bargaining units and exclusive representatives
+### § 7011. Successorship provisions relating to bargaining units and exclusive representatives
 
 **(a) Voluntary agreement**
 
@@ -3277,7 +3277,7 @@ Any action taken by a regional director under subparagraph (A) shall be subject 
 
 **(2)** the Department of Agriculture.
 
-(Pub. L. 103–354, title II, § 291, Oct. 13, 1994, 108 Stat. 3235.)
+(Pub. L. 103–354, title II, § 291, Oct. 13, 1994, 108 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -3285,7 +3285,7 @@ Any action taken by a regional director under subparagraph (A) shall be subject 
 
 This chapter, referred to in subsecs. (a)(1) and (c)(1), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-### § 7012. Purchase of American-made equipment and products
+### § 7012. Purchase of American-made equipment and products
 
 **(a) Sense of Congress**
 
@@ -3295,7 +3295,7 @@ It is the sense of the Congress that, to the greatest extent practicable, all eq
 
 In providing financial assistance to, or entering into any contract with, any entity using funds made available pursuant to this chapter, the Secretary, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) by the Congress.
 
-(Pub. L. 103–354, title II, § 292, Oct. 13, 1994, 108 Stat. 3237.)
+(Pub. L. 103–354, title II, § 292, Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -3303,11 +3303,11 @@ In providing financial assistance to, or entering into any contract with, any en
 
 This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-### § 7013. Repealed. Pub. L. 115–334, title XII, § 12414(a)(7), Dec. 20, 2018, 132 Stat. 4981
+### § 7013. Repealed. Pub. L. 115–334, title XII, § 12414(a)(7), Dec. 20, 2018, 132 Stat. 4981
 
-Section, Pub. L. 103–354, title II, § 295, Oct. 13, 1994, 108 Stat. 3238, related to proposed conforming amendments.
+Section, Pub. L. 103–354, title II, § 295, Oct. 13, 1994, 108 Stat. 3238, related to proposed conforming amendments.
 
-### § 7014. Termination of authority
+### § 7014. Termination of authority
 
 **(a) In general**
 
@@ -3341,7 +3341,7 @@ Subject to subsection (b), the authority delegated to the Secretary by this chap
 
 **(10)** The authority of the Secretary to carry out the amendments made to this chapter by the Agriculture Improvement Act of 2018.
 
-(Pub. L. 103–354, title II, § 296, Oct. 13, 1994, 108 Stat. 3238; Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(4)], Oct. 21, 1998, 112 Stat. 2681, 2681–42; Pub. L. 107–171, title X, § 10704(c), May 13, 2002, 116 Stat. 518; Pub. L. 110–234, title VII, § 7511(b), title XIV, § 14013(b), May 22, 2008, 122 Stat. 1267, 1453; Pub. L. 110–246, § 4(a), title VII, § 7511(b), title XIV, § 14013(b), June 18, 2008, 122 Stat. 1664, 2028, 2215; Pub. L. 113–79, title I, § 1610(b), Feb. 7, 2014, 128 Stat. 710; Pub. L. 115–334, title XII, §§ 12411(b)(2), 12416, Dec. 20, 2018, 132 Stat. 4980, 4982.)
+(Pub. L. 103–354, title II, § 296, Oct. 13, 1994, 108 Stat. 3238; Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(4)], Oct. 21, 1998, 112 Stat. 2681, 2681–42; Pub. L. 107–171, title X, § 10704(c), May 13, 2002, 116 Stat. 518; Pub. L. 110–234, title VII, § 7511(b), title XIV, § 14013(b), May 22, 2008, 122 Stat. 1267, 1453; Pub. L. 110–246, § 4(a), title VII, § 7511(b), title XIV, § 14013(b), June 18, 2008, 122 Stat. 1664, 2028, 2215; Pub. L. 113–79, title I, § 1610(b), Feb. 7, 2014, 128 Stat. 710; Pub. L. 115–334, title XII, §§ 12411(b)(2), 12416, Dec. 20, 2018, 132 Stat. 4980, 4982.)
 
 **Editorial Notes**
 
@@ -3363,19 +3363,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (b)(6)(B). Pub. L. 115–334, § 12411(b)(2), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
+2018—Subsec. (b)(6)(B). Pub. L. 115–334, § 12411(b)(2), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
 
-Subsec. (b)(9), (10). Pub. L. 115–334, § 12416, added pars. (9) and (10).
+Subsec. (b)(9), (10). Pub. L. 115–334, § 12416, added pars. (9) and (10).
 
-2014—Subsec. (b). Pub. L. 113–79, § 1610(b)(2)–(4), substituted “The authority” for “the authority” in pars. (1) to (7), a period for semicolon at end of pars. (1) to (5), and a period for “; or” at end of par. (6)(C).
+2014—Subsec. (b). Pub. L. 113–79, § 1610(b)(2)–(4), substituted “The authority” for “the authority” in pars. (1) to (7), a period for semicolon at end of pars. (1) to (5), and a period for “; or” at end of par. (6)(C).
 
-Pub. L. 113–79, § 1610(b)(1), substituted “affect:” for “affect—” in introductory provisions.
+Pub. L. 113–79, § 1610(b)(1), substituted “affect:” for “affect—” in introductory provisions.
 
-Subsec. (b)(8). Pub. L. 113–79, § 1610(b)(5), added par. (8).
+Subsec. (b)(8). Pub. L. 113–79, § 1610(b)(5), added par. (8).
 
-2008—Subsec. (b)(6). Pub. L. 110–246, § 7511(b), added par. (6).
+2008—Subsec. (b)(6). Pub. L. 110–246, § 7511(b), added par. (6).
 
-Subsec. (b)(7). Pub. L. 110–246, § 14013(b), added par. (7).
+Subsec. (b)(7). Pub. L. 110–246, § 14013(b), added par. (7).
 
 2002—Subsec. (b)(5). Pub. L. 107–171 added par. (5).
 
@@ -3399,7 +3399,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 This subchapter was enacted as part of the Freedom to E-File Act, and not as part of the Department of Agriculture Reorganization Act of 1994 which in part comprises this chapter.
 
-### § 7031. Electronic filing and retrieval
+### § 7031. Electronic filing and retrieval
 
 **(a) In general**
 
@@ -3435,9 +3435,9 @@ Not later than 180 days after June 20, 2000, in accordance with subsection (c), 
 
 Not later than 180 days after June 20, 2000, the Secretary shall submit to Congress a report that describes the progress made toward implementing the Internet-based system required under this section.
 
-(Pub. L. 106–222, § 2, June 20, 2000, 114 Stat. 353.)
+(Pub. L. 106–222, § 2, June 20, 2000, 114 Stat. 353.)
 
-### § 7032. Accessing information and filing over the Internet
+### § 7032. Accessing information and filing over the Internet
 
 **(a) In general**
 
@@ -3451,9 +3451,9 @@ Not later than 2 years after June 20, 2000, in accordance with subsection (b), t
 
 **(3)** to access information of the Department concerning farm programs, quarterly trade, economic, and production reports, and other similar production agriculture information that is readily available to the public in paper form.
 
-(Pub. L. 106–222, § 3, June 20, 2000, 114 Stat. 354.)
+(Pub. L. 106–222, § 3, June 20, 2000, 114 Stat. 354.)
 
-### § 7033. Availability of agency information technology funds
+### § 7033. Availability of agency information technology funds
 
 **(a) Reservation of funds** From funds made available for agencies of the Department specified in section 7031(b) of this title for information technology or information resource management, the Secretary shall reserve from those agencies’ applicable accounts a total amount equal to not more than the following:
 
@@ -3479,9 +3479,9 @@ Once the system is established and operational, reserved amounts shall be used f
 
 Funds reserved under subsection (a) and unobligated at the end of the fiscal year shall be returned to the agency from which the funds were reserved, to remain available until expended.
 
-(Pub. L. 106–222, § 4, June 20, 2000, 114 Stat. 354.)
+(Pub. L. 106–222, § 4, June 20, 2000, 114 Stat. 354.)
 
-### § 7034. Federal Crop Insurance Corporation and Risk Management Agency
+### § 7034. Federal Crop Insurance Corporation and Risk Management Agency
 
 **(a) In general** Not later than December 1, 2000, the Federal Crop Insurance Corporation and the Risk Management Agency shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan, that is consistent with this subchapter, to allow agricultural producers to—
 
@@ -3505,9 +3505,9 @@ Funds reserved under subsection (a) and unobligated at the end of the fiscal yea
 
 Not later than December 1, 2001, the Federal Crop Insurance Corporation and the Risk Management Agency shall complete implementation of the plan submitted under subsection (a).
 
-(Pub. L. 106–222, § 5, June 20, 2000, 114 Stat. 355.)
+(Pub. L. 106–222, § 5, June 20, 2000, 114 Stat. 355.)
 
-### § 7035. Confidentiality
+### § 7035. Confidentiality
 
 In carrying out this subchapter, the Secretary—
 
@@ -3515,4 +3515,4 @@ In carrying out this subchapter, the Secretary—
 
 **(2)** shall ensure, to the maximum extent practicable, that the confidentiality of persons is maintained.
 
-(Pub. L. 106–222, § 6, June 20, 2000, 114 Stat. 355.)
+(Pub. L. 106–222, § 6, June 20, 2000, 114 Stat. 355.)

@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1988—Pub. L. 100–702, title X, § 1022(2), Nov. 19, 1988, 102 Stat. 4673, added item 297.
+1988—Pub. L. 100–702, title X, § 1022(2), Nov. 19, 1988, 102 Stat. 4673, added item 297.
 
-1982—Pub. L. 97–164, title I, § 110(c), Apr. 2, 1982, 96 Stat. 29, substituted “the Court of International Trade” for “other courts” in item 293.
+1982—Pub. L. 97–164, title I, § 110(c), Apr. 2, 1982, 96 Stat. 29, substituted “the Court of International Trade” for “other courts” in item 293.
 
-1958—Pub. L. 85–755, § 8, Aug. 25, 1958, 72 Stat. 850, substituted “Judges of other courts” for “Circuit or district judges to Court of Customs and Patent Appeals” in item 293.
+1958—Pub. L. 85–755, § 8, Aug. 25, 1958, 72 Stat. 850, substituted “Judges of other courts” for “Circuit or district judges to Court of Customs and Patent Appeals” in item 293.
 
-## § 291. Circuit judges
+## § 291. Circuit judges
 
 **(a)** The Chief Justice of the United States may, in the public interest, designate and assign temporarily any circuit judge to act as circuit judge in another circuit upon request by the chief judge or circuit justice of such circuit.
 
 **(b)** The chief judge of a circuit or the circuit justice may, in the public interest, designate and assign temporarily any circuit judge within the circuit, including a judge designated and assigned to temporary duty therein, to hold a district court in any district within the circuit.
 
-(June 25, 1948, ch. 646, 62 Stat. 900; July 28, 1953, ch. 253, § 2, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 39(b), 68 Stat. 1240; July 9, 1956, ch. 517, § 1(a), 70 Stat. 497; Pub. L. 85–755, § 2, Aug. 25, 1958, 72 Stat. 848; Pub. L. 95–598, title II, § 202, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 97–164, title I, § 108, Apr. 2, 1982, 96 Stat. 28; Pub. L. 102–572, title I, § 104, Oct. 29, 1992, 106 Stat. 4507.)
+(June 25, 1948, ch. 646, 62 Stat. 900; July 28, 1953, ch. 253, § 2, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 39(b), 68 Stat. 1240; July 9, 1956, ch. 517, § 1(a), 70 Stat. 497; Pub. L. 85–755, § 2, Aug. 25, 1958, 72 Stat. 848; Pub. L. 95–598, title II, § 202, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 97–164, title I, § 108, Apr. 2, 1982, 96 Stat. 28; Pub. L. 102–572, title I, § 104, Oct. 29, 1992, 106 Stat. 4507.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 17, 22 (Mar. 3, 1911, ch. 231, §§ 13, 18, 36 Stat. 1089; Oct. 3, 1913, ch. 18, 38 Stat. 203; Sept. 14, 1922, ch. 306, §§ 3, 5, 42 Stat. 839; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 24, 1937, ch. 754, § 4, 50 Stat. 753; Dec. 29, 1942, ch. 835, § 1, 56 Stat. 1094).
+Based on title 28, U.S.C., 1940 ed., §§ 17, 22 (Mar. 3, 1911, ch. 231, §§ 13, 18, 36 Stat. 1089; Oct. 3, 1913, ch. 18, 38 Stat. 203; Sept. 14, 1922, ch. 306, §§ 3, 5, 42 Stat. 839; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 24, 1937, ch. 754, § 4, 50 Stat. 753; Dec. 29, 1942, ch. 835, § 1, 56 Stat. 1094).
 
 Section consolidates all provisions of sections 17 and 22 of title 28, U.S.C., 1940 ed., relating to designation and assignment of circuit judges.
 
@@ -91,9 +91,9 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **Jurisdiction of United States Court of Customs and Patent Appeals**
 
-Pub. L. 85–755, § 7, Aug. 25, 1958, 72 Stat. 850, provided that: “Nothing contained in this Act [amending this section and sections 211 and 292 to 295 of this title] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Court of Customs and Patent Appeals [now United States Court of Appeals for the Federal Circuit] by any provision of law.”
+Pub. L. 85–755, § 7, Aug. 25, 1958, 72 Stat. 850, provided that: “Nothing contained in this Act [amending this section and sections 211 and 292 to 295 of this title] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Court of Customs and Patent Appeals [now United States Court of Appeals for the Federal Circuit] by any provision of law.”
 
-## § 292. District judges
+## § 292. District judges
 
 **(a)** The chief judge of a circuit may designate and assign one or more district judges within the circuit to sit upon the court of appeals or a division thereof whenever the business of that court so requires. Such designations or assignments shall be in conformity with the rules or orders of the court of appeals of the circuit.
 
@@ -105,11 +105,11 @@ Pub. L. 85–755, § 7, Aug. 25, 1958, 72 Stat. 850, provided that: “Nothing
 
 **(e)** The Chief Justice of the United States may designate and assign temporarily any district judge to serve as a judge of the Court of International Trade upon presentation to him of a certificate of necessity by the chief judge of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, § 3, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 39(c), 68 Stat. 1240; July 9, 1956, ch. 517, § 1(b), 70 Stat. 497; July 14, 1956, ch. 589, § 2, 70 Stat. 532; Pub. L. 85–755, § 3, Aug. 25, 1958, 72 Stat. 848; Pub. L. 91–358, title I, § 172(e), July 29, 1970, 84 Stat. 591; Pub. L. 95–598, title II, §§ 203, 204, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title V, § 501(7), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 109, Apr. 2, 1982, 96 Stat. 28.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, § 3, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 39(c), 68 Stat. 1240; July 9, 1956, ch. 517, § 1(b), 70 Stat. 497; July 14, 1956, ch. 589, § 2, 70 Stat. 532; Pub. L. 85–755, § 3, Aug. 25, 1958, 72 Stat. 848; Pub. L. 91–358, title I, § 172(e), July 29, 1970, 84 Stat. 591; Pub. L. 95–598, title II, §§ 203, 204, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title V, § 501(7), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 109, Apr. 2, 1982, 96 Stat. 28.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 17, 21 and 216 (Mar. 3, 1911, ch. 231, §§ 13, 17, 120, 36 Stat. 1089, 1132; Sept. 14, 1922, ch. 306, § 3, 42 Stat. 839; Aug. 24, 1937, ch. 754, § 4, 50 Stat. 753; Dec. 29, 1942, ch. 835, § 1, 56 Stat. 1094).
+Based on title 28, U.S.C., 1940 ed., §§ 17, 21 and 216 (Mar. 3, 1911, ch. 231, §§ 13, 17, 120, 36 Stat. 1089, 1132; Sept. 14, 1922, ch. 306, § 3, 42 Stat. 839; Aug. 24, 1937, ch. 754, § 4, 50 Stat. 753; Dec. 29, 1942, ch. 835, § 1, 56 Stat. 1094).
 
 Section consolidates and simplifies all provisions of sections 17, 21 and 216 of title 28, U.S.C., 1940 ed., relating to designation and assignment of district judges.
 
@@ -181,19 +181,19 @@ Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the U
 
 Amendment by act July 14, 1956, not to be construed as limiting or altering the jurisdiction heretofore conferred upon the Customs Court [now United States Court of International Trade], see section 4 of act July 14, 1956, set out as a note under section 251 of this title.
 
-## § 293. Judges of the Court of International Trade
+## § 293. Judges of the Court of International Trade
 
-**(a)**  1
+**(a)** 1
 
-<sup>1</sup>  So in original. No subsec. (b) has been enacted.
+<sup>1</sup> So in original. No subsec. (b) has been enacted.
 
 The Chief Justice of the United States may designate and assign temporarily any judge of the Court of International Trade to perform judicial duties in any circuit, either in a court of appeals or district court, upon presentation of a certificate of necessity by the chief judge or circuit justice of the circuit in which the need arises.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 14, 1956, ch. 589, § 3(a), 70 Stat. 532; Pub. L. 85–755, § 4, Aug. 25, 1958, 72 Stat. 848; Pub. L. 95–598, title II, § 205, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title I, § 102, title V, § 501(8), Oct. 10, 1980, 94 Stat. 1727, 1742; Pub. L. 97–164, title I, § 110(a), (b), Apr. 2, 1982, 96 Stat. 29.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 14, 1956, ch. 589, § 3(a), 70 Stat. 532; Pub. L. 85–755, § 4, Aug. 25, 1958, 72 Stat. 848; Pub. L. 95–598, title II, § 205, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title I, § 102, title V, § 501(8), Oct. 10, 1980, 94 Stat. 1727, 1742; Pub. L. 97–164, title I, § 110(a), (b), Apr. 2, 1982, 96 Stat. 29.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 301 (Mar. 3, 1911, ch. 231, § 188, 36 Stat. 1143; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475).
+Based on title 28, U.S.C., 1940 ed., § 301 (Mar. 3, 1911, ch. 231, § 188, 36 Stat. 1143; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475).
 
 Section simplifies last sentence of section 301 of title 28, U.S.C., 1940 ed., and is in conformity with other designation and assignment provisions of this chapter.
 
@@ -211,21 +211,21 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1982—Pub. L. 97–164, § 110(b), substituted “the Court of International Trade” for “other courts” in section catchline.
+1982—Pub. L. 97–164, § 110(b), substituted “the Court of International Trade” for “other courts” in section catchline.
 
-Subsec. (a). Pub. L. 97–164, § 110(a)(1), (2), redesignated subsec. (b) as (a). Former subsec. (a), which authorized the Chief Justice to designate and assign judges of the Court of Claims or the Court of Customs and Patent Appeals to serve temporarily on the other of these two courts or in a court of appeals or district court of any circuit in times of necessity, was struck out.
+Subsec. (a). Pub. L. 97–164, § 110(a)(1), (2), redesignated subsec. (b) as (a). Former subsec. (a), which authorized the Chief Justice to designate and assign judges of the Court of Claims or the Court of Customs and Patent Appeals to serve temporarily on the other of these two courts or in a court of appeals or district court of any circuit in times of necessity, was struck out.
 
-Subsec. (b). Pub. L. 97–164, § 110(a)(2), (3), redesignated subsec. (e), as that subsec. was to have become effective pursuant to Pub. L. 95–598, as subsec. (b). Former subsec. (b) redesignated (a). See 1978 Amendment note below.
+Subsec. (b). Pub. L. 97–164, § 110(a)(2), (3), redesignated subsec. (e), as that subsec. was to have become effective pursuant to Pub. L. 95–598, as subsec. (b). Former subsec. (b) redesignated (a). See 1978 Amendment note below.
 
-Subsecs. (c), (d). Pub. L. 97–164, § 110(a)(1), struck out subsecs. (c) and (d) which related, respectively, to the authority of the chief judge of the Court of Customs and Patent Appeals to designate and assign temporarily any judge of the Court of Customs and Patent Appeals to serve as a judge of the Court of International Trade and to the authority of the chief judge of the Court of International Trade to designate and assign temporarily any judge of the Court of International Trade to serve as a judge of the Court of Customs and Patent Appeals or the Court of Claims.
+Subsecs. (c), (d). Pub. L. 97–164, § 110(a)(1), struck out subsecs. (c) and (d) which related, respectively, to the authority of the chief judge of the Court of Customs and Patent Appeals to designate and assign temporarily any judge of the Court of Customs and Patent Appeals to serve as a judge of the Court of International Trade and to the authority of the chief judge of the Court of International Trade to designate and assign temporarily any judge of the Court of International Trade to serve as a judge of the Court of Customs and Patent Appeals or the Court of Claims.
 
-Subsec. (e). Pub. L. 97–164, § 110(a)(3), redesignated subsec. (e), as that subsec. was to have become effective pursuant to Pub. L. 95–598, as subsec. (b). See 1978 Amendment note below.
+Subsec. (e). Pub. L. 97–164, § 110(a)(3), redesignated subsec. (e), as that subsec. was to have become effective pursuant to Pub. L. 95–598, as subsec. (b). See 1978 Amendment note below.
 
-1980—Subsec. (b). Pub. L. 96–417, § 102(a), redesignated the Customs Court as the Court of International Trade and authorized performance of judicial functions in a court of appeals.
+1980—Subsec. (b). Pub. L. 96–417, § 102(a), redesignated the Customs Court as the Court of International Trade and authorized performance of judicial functions in a court of appeals.
 
-Subsec. (c). Pub. L. 96–417, § 501(8), redesignated the Customs Court as the Court of International Trade.
+Subsec. (c). Pub. L. 96–417, § 501(8), redesignated the Customs Court as the Court of International Trade.
 
-Subsec. (d). Pub. L. 96–417, § 102(b), redesignated the Customs Court as the Court of International Trade and authorized temporary assignments to the Court of Claims of judges of the Court of International Trade upon presentation of a certificate of necessity by the chief judge of the Court of Claims.
+Subsec. (d). Pub. L. 96–417, § 102(b), redesignated the Customs Court as the Court of International Trade and authorized temporary assignments to the Court of Claims of judges of the Court of International Trade upon presentation of a certificate of necessity by the chief judge of the Court of Claims.
 
 1978—Subsec. (e). Pub. L. 95–598 directed the amendment of this section by adding subsec. (e) relating to temporary assignments of bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
@@ -257,7 +257,7 @@ Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the U
 
 Amendment by act July 14, 1956, not to be construed as limiting or altering the jurisdiction heretofore conferred upon the Customs Court [now United States Court of International Trade], see section 4 of act July 14, 1956, set out as a note under section 251 of this title.
 
-## § 294. Assignment of retired Justices or judges to active duty
+## § 294. Assignment of retired Justices or judges to active duty
 
 **(a)** Any retired Chief Justice of the United States or Associate Justice of the Supreme Court may be designated and assigned by the Chief Justice of the United States to perform such judicial duties in any circuit, including those of a circuit justice, as he is willing to undertake.
 
@@ -269,11 +269,11 @@ Amendment by act July 14, 1956, not to be construed as limiting or altering the 
 
 **(e)** No retired justice or judge shall perform judicial duties except when designated and assigned.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, § 1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29, 1957, 71 Stat. 495; Pub. L. 85–755, § 5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, § 206, Nov. 6, 1978, 92 Stat. 2660.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, § 1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29, 1957, 71 Stat. 495; Pub. L. 85–755, § 5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, § 206, Nov. 6, 1978, 92 Stat. 2660.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 375, 375a, and 375f (Mar. 3, 1911, ch. 231, § 260, 36 Stat. 1161; Feb. 25, 1919, ch. 29, § 6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, 50 Stat. 24; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, § 5, as added May 11, 1944, ch. 192, §§ 1–3, 58 Stat. 218, 219).
+Based on title 28, U.S.C., 1940 ed., §§ 375, 375a, and 375f (Mar. 3, 1911, ch. 231, § 260, 36 Stat. 1161; Feb. 25, 1919, ch. 29, § 6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, 50 Stat. 24; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, § 5, as added May 11, 1944, ch. 192, §§ 1–3, 58 Stat. 218, 219).
 
 Section consolidates those parts of sections 375, 375a, and 375f of title 28, U.S.C., 1940 ed., relating to designation and assignment of retired justices and judges. Other provisions of said sections 375 and 375a, appear in sections 136, 371, and 756 of this title.
 
@@ -285,7 +285,7 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1978—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “district or bankruptcy judge” for “or district” and the amendment of subsec. (d) by substituting “, district judge or bankruptcy judge” for “or district judge”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “district or bankruptcy judge” for “or district” and the amendment of subsec. (d) by substituting “, district judge or bankruptcy judge” for “or district judge”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 1958—Subsec. (a). Pub. L. 85–755 reenacted subsec. (a) without change.
 
@@ -303,7 +303,7 @@ Subsec. (e). Pub. L. 85–755 reenacted subsec. (e) without change.
 
 Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the United States Court of Customs and Patent Appeals [now United States Court of Appeals for the Federal Circuit], see section 7 of Pub. L. 85–755, set out as a note under section 291 of this title.
 
-## § 295. Conditions upon designation and assignment
+## § 295. Conditions upon designation and assignment
 
 No designation and assignment of a circuit or district judge in active service shall be made without the consent of the chief judge or judicial council of the circuit from which the judge is to be designated and assigned. No designation and assignment of a judge of any other court of the United States in active service shall be made without the consent of the chief judge of such court.
 
@@ -311,11 +311,11 @@ All designations and assignments of justices and judges shall be filed with the 
 
 The Chief Justice of the United States, a circuit justice or a chief judge of a circuit may make new designation and assignments in accordance with the provisions of this chapter and may revoke those previously made by him.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; Sept. 3, 1954, ch. 1263, § 39(d), 68 Stat. 1240; July 14, 1956, ch. 589, § 3(b), 70 Stat. 532; Pub. L. 85–755, § 6, Aug. 25, 1958, 72 Stat. 850; Pub. L. 95–598, title II, § 207, Nov. 6, 1978, 92 Stat. 2660.)
+(June 25, 1948, ch. 646, 62 Stat. 901; Sept. 3, 1954, ch. 1263, § 39(d), 68 Stat. 1240; July 14, 1956, ch. 589, § 3(b), 70 Stat. 532; Pub. L. 85–755, § 6, Aug. 25, 1958, 72 Stat. 850; Pub. L. 95–598, title II, § 207, Nov. 6, 1978, 92 Stat. 2660.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 17, 20 (Mar. 3, 1911, ch. 231, §§ 13, 16, 36 Stat. 1089; Sept. 14, 1922, ch. 306, § 3, 42 Stat. 839; Aug. 24, 1937, ch. 754, § 4, 50 Stat. 753; Dec. 29, 1942, ch. 835, §§ 1, 4, 56 Stat. 1094, 1095).
+Based on title 28, U.S.C., 1940 ed., §§ 17, 20 (Mar. 3, 1911, ch. 231, §§ 13, 16, 36 Stat. 1089; Sept. 14, 1922, ch. 306, § 3, 42 Stat. 839; Aug. 24, 1937, ch. 754, § 4, 50 Stat. 753; Dec. 29, 1942, ch. 835, §§ 1, 4, 56 Stat. 1094, 1095).
 
 This section consolidates and simplifies provisions of sections 17 and 20 of title 28, U.S.C., 1940 ed., relating to conditions upon designation and assignment as well as those applicable to filing, revoking and making new designations.
 
@@ -351,7 +351,7 @@ Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the U
 
 Amendment by act July 14, 1956, not to be construed as limiting or altering the jurisdiction heretofore conferred upon the Customs Court [now United States Court of International Trade], see section 4 of act July 14, 1956, set out as a note under section 251 of this title.
 
-## § 296. Powers upon designation and assignment
+## § 296. Powers upon designation and assignment
 
 A justice or judge shall discharge, during the period of his designation and assignment, all judicial duties for which he is designated and assigned. He may be required to perform any duty which might be required of a judge of the court or district or circuit to which he is designated and assigned.
 
@@ -359,11 +359,11 @@ Such justice or judge shall have all the powers of a judge of the court, circuit
 
 A justice or judge who has sat by designation and assignment in another district or circuit may, notwithstanding his absence from such district or circuit or the expiration of the period of his designation and assignment, decide or join in the decision and final disposition of all matters submitted to him during such period and in the consideration and disposition of applications for rehearing or further proceedings in such matters.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; Pub. L. 110–177, title V, § 503, Jan. 7, 2008, 121 Stat. 2542.)
+(June 25, 1948, ch. 646, 62 Stat. 901; Pub. L. 110–177, title V, § 503, Jan. 7, 2008, 121 Stat. 2542.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 17, 18, 22, 23, 301 (Mar. 3, 1911, ch. 231, §§ 13, 14, 18, 19, 188, 36 Stat. 1089, 1143; Oct. 3, 1913, ch. 18, 38 Stat. 203; Feb. 25, 1919, ch. 29, §§ 2, 5, 40 Stat. 1156, 1157; Sept. 14, 1922, ch. 306, §§ 3, 4, 5, 42 Stat. 839; Dec. 13, 1926, ch. 6, § 1, 44 Stat. 919; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 24, 1937, ch. 754, § 4, 50 Stat. 753; Dec. 29, 1942, ch. 835, §§ 1, 2, 5, 6, 56 Stat. 1094, 1095).
+Based on title 28, U.S.C., 1940 ed., §§ 17, 18, 22, 23, 301 (Mar. 3, 1911, ch. 231, §§ 13, 14, 18, 19, 188, 36 Stat. 1089, 1143; Oct. 3, 1913, ch. 18, 38 Stat. 203; Feb. 25, 1919, ch. 29, §§ 2, 5, 40 Stat. 1156, 1157; Sept. 14, 1922, ch. 306, §§ 3, 4, 5, 42 Stat. 839; Dec. 13, 1926, ch. 6, § 1, 44 Stat. 919; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 24, 1937, ch. 754, § 4, 50 Stat. 753; Dec. 29, 1942, ch. 835, §§ 1, 2, 5, 6, 56 Stat. 1094, 1095).
 
 Section simplifies provisions of sections 17, 18, paragraphs (b) and (c) of section 22, and sections 23 and 301 of title 28, U.S.C., 1940 ed., relating to powers and duties of designated judges.
 
@@ -383,13 +383,13 @@ The provision in the last paragraph of said section 22 that the action of the as
 
 2008—Pub. L. 110–177 inserted at end of second par. “However, a district judge who has retired from regular active service under section 371(b) of this title, when designated and assigned to the court to which such judge was appointed, having performed in the preceding calendar year an amount of work equal to or greater than the amount of work an average judge in active service on that court would perform in 6 months, and having elected to exercise such powers, shall have the powers of a judge of that court to participate in appointment of court officers and magistrate judges, rulemaking, governance, and administrative matters.”
 
-## § 297. Assignment of judges to courts of the freely associated compact states
+## § 297. Assignment of judges to courts of the freely associated compact states
 
 **(a)** The Chief Justice or the chief judge of the United States Court of Appeals for the Ninth Circuit may assign any circuit, district, magistrate, or territorial judge of a court of the Ninth Circuit, with the consent of the judge so assigned, to serve temporarily as a judge of any duly constituted court of the freely associated compact states whenever an official duly authorized by the laws of the respective compact state requests such assignment and such assignment is necessary for the proper dispatch of the business of the respective court.
 
 **(b)** The Congress consents to the acceptance and retention by any judge so authorized of reimbursement from the countries referred to in subsection (a) of all necessary travel expenses, including transportation, and of subsistence, or of a reasonable per diem allowance in lieu of subsistence. The judge shall report to the Administrative Office of the United States Courts any amount received pursuant to this subsection.
 
-(Added Pub. L. 100–702, title X, § 1022(1), Nov. 19, 1988, 102 Stat. 4672; amended Pub. L. 112–149, § 3, July 26, 2012, 126 Stat. 1145.)
+(Added Pub. L. 100–702, title X, § 1022(1), Nov. 19, 1988, 102 Stat. 4672; amended Pub. L. 112–149, § 3, July 26, 2012, 126 Stat. 1145.)
 
 **Editorial Notes**
 

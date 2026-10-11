@@ -17,21 +17,21 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 551. Protection of national forests; rules and regulations
+### § 551. Protection of national forests; rules and regulations
 
-The Secretary of Agriculture shall make provisions for the protection against destruction by fire and depredations upon the public forests and national forests which may have been set aside or which may be hereafter set aside under the provisions of section 471 1
+The Secretary of Agriculture shall make provisions for the protection against destruction by fire and depredations upon the public forests and national forests which may have been set aside or which may be hereafter set aside under the provisions of section 471 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, and which may be continued; and he may make such rules and regulations and establish such service as will insure the objects of such reservations, namely, to regulate their occupancy and use and to preserve the forests thereon from destruction; and any violation of the provisions of this section, sections 473 to 478 and 479 to 482 of this title or such rules and regulations shall be punished by a fine of not more than $500 or imprisonment for not more than six months, or both. Any person charged with the violation of such rules and regulations may be tried and sentenced by any United States magistrate judge specially designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401(b) to (e) of title 18.
 
-(June 4, 1897, ch. 2, § 1, 30 Stat. 35; Feb. 1, 1905, ch. 288, § 1, 33 Stat. 628; Pub. L. 87–869, § 6, Oct. 23, 1962, 76 Stat. 1157; Pub. L. 88–537, Aug. 31, 1964, 78 Stat. 745; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 4, 1897, ch. 2, § 1, 30 Stat. 35; Feb. 1, 1905, ch. 288, § 1, 33 Stat. 628; Pub. L. 87–869, § 6, Oct. 23, 1962, 76 Stat. 1157; Pub. L. 88–537, Aug. 31, 1964, 78 Stat. 745; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 471 of this title, referred to in text, was in the original a reference to act Mar. 3, 1891, 26 Stat. 1103, and was repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.
+Section 471 of this title, referred to in text, was in the original a reference to act Mar. 3, 1891, 26 Stat. 1103, and was repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.
 
 **Codification**
 
@@ -47,19 +47,19 @@ Section 471 of this title, referred to in text, was in the original a reference 
 
 **Change of Name**
 
-“United States magistrate judge” substituted for “United States magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judge” substituted for “United States magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–275, § 1, Dec. 14, 2016, 130 Stat. 1405, provided that: “This Act [enacting section 551c–1 of this title and provisions set out as a note under section 551c–1 of this title] may be cited as the ‘Prescribed Burn Approval Act of 2016’.”
+Pub. L. 114–275, § 1, Dec. 14, 2016, 130 Stat. 1405, provided that: “This Act [enacting section 551c–1 of this title and provisions set out as a note under section 551c–1 of this title] may be cited as the ‘Prescribed Burn Approval Act of 2016’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–286, § 1, May 9, 1990, 104 Stat. 171, provided that: “This Act [enacting sections 551b and 551c of this title, amending sections 18i and 558c of this title and section 1737 of Title 43, Public Lands, and enacting provisions set out as notes under this section and section 551b of this title] may be cited as the ‘Wildfire Disaster Recovery Act of 1989’.”
+Pub. L. 101–286, § 1, May 9, 1990, 104 Stat. 171, provided that: “This Act [enacting sections 551b and 551c of this title, amending sections 18i and 558c of this title and section 1737 of Title 43, Public Lands, and enacting provisions set out as notes under this section and section 551b of this title] may be cited as the ‘Wildfire Disaster Recovery Act of 1989’.”
 
 **Repeal; Savings Provision**
 
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
 **Transfer of Functions**
 
@@ -77,23 +77,23 @@ Provisions of section 706(a) of Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2793, 
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with provisions of sections 473, 474 to 482, and 551 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with provisions of sections 473, 474 to 482, and 551 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 551a. Cooperation by Secretary of Agriculture with States and political subdivisions in law enforcement
+### § 551a. Cooperation by Secretary of Agriculture with States and political subdivisions in law enforcement
 
 The Secretary of Agriculture, in connection with the administration and regulation of the use and occupancy of the national forests and national grasslands, is authorized to cooperate with any State or political subdivision thereof, on lands which are within or part of any unit of the national forest system, in the enforcement or supervision of the laws or ordinances of a State or subdivision thereof. Such cooperation may include the reimbursement of a State or its subdivision for expenditures incurred in connection with activities on national forest system lands. This section shall not deprive any State or political subdivision thereof of its right to exercise civil and criminal jurisdiction, within or on lands which are a part of the national forest system.
 
 (Pub. L. 92–82, Aug. 10, 1971, 85 Stat. 303.)
 
-### § 551b. Omitted
+### § 551b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 101–286, title II, § 202, May 9, 1990, 104 Stat. 174, which required the Secretaries of Agriculture and the Interior, for areas under their respective jurisdictions, to submit annual reports to Congress on rehabilitation needs resulting from disastrous forest fire damage, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, pages 47 and 108 of House Document No. 103–7.
+Section, Pub. L. 101–286, title II, § 202, May 9, 1990, 104 Stat. 174, which required the Secretaries of Agriculture and the Interior, for areas under their respective jurisdictions, to submit annual reports to Congress on rehabilitation needs resulting from disastrous forest fire damage, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, pages 47 and 108 of House Document No. 103–7.
 
-### § 551c. Planning for fire protection
+### § 551c. Planning for fire protection
 
 **(a) Volunteer firefighters**
 
@@ -115,21 +115,21 @@ that documents mobilization plans that provide for the use of firefighting equip
 
 Not later than one year after May 9, 1990, information from the Secretary of Agriculture on presuppression needs for each region of the National Forest System and information from the Secretary of the Interior on the presuppression needs for each region of the National Park System and for each State unit of the Bureau of Land Management shall be submitted to Congress. These reports shall include needs, including an estimate of the funds required, for fire prevention, fuel reduction, training and seasonal fire crews.
 
-(Pub. L. 101–286, title II, § 203, May 9, 1990, 104 Stat. 175.)
+(Pub. L. 101–286, title II, § 203, May 9, 1990, 104 Stat. 175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862, referred to in subsec. (b), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
+Act of July 2, 1862, referred to in subsec. (b), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
-Act of August 30, 1890, referred to in subsec. (b), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
+Act of August 30, 1890, referred to in subsec. (b), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Forest Service Large Airtanker and Aerial Asset Firefighting Recapitalization Pilot Program**
 
-Pub. L. 113–79, title VIII, § 8305, Feb. 7, 2014, 128 Stat. 925, provided that:
+Pub. L. 113–79, title VIII, § 8305, Feb. 7, 2014, 128 Stat. 925, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations, the Secretary [of Agriculture], acting through the Chief of the Forest Service, may establish a large airtanker and aerial asset lease program in accordance with this section.
 
@@ -149,7 +149,7 @@ Pub. L. 113–79, title VIII, § 8305, Feb. 7, 2014, 128 Stat. 925, provided t
 
 **Forest Firefighting Planning and Cooperation; Findings**
 
-Pub. L. 101–286, title II, § 201, May 9, 1990, 104 Stat. 174, provided that:
+Pub. L. 101–286, title II, § 201, May 9, 1990, 104 Stat. 174, provided that:
 
 > “The Congress finds that—
 
@@ -157,7 +157,7 @@ Pub. L. 101–286, title II, § 201, May 9, 1990, 104 Stat. 174, provided that
 
 > **“(2)** volunteers should be trained to assist where possible.”
 
-### § 551c–1. Limitations on prescribed burns
+### § 551c–1. Limitations on prescribed burns
 
 **(a) In general**
 
@@ -173,13 +173,13 @@ The Secretary may authorize a prescribed burn under a condition described in sub
 
 **(2)** each prescribed burn during that fiscal year that was authorized by the Secretary pursuant to subsection (b).
 
-(Pub. L. 114–275, § 3, Dec. 14, 2016, 130 Stat. 1405.)
+(Pub. L. 114–275, § 3, Dec. 14, 2016, 130 Stat. 1405.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Definitions**
 
-Pub. L. 114–275, § 2, Dec. 14, 2016, 130 Stat. 1405, provided that:
+Pub. L. 114–275, § 2, Dec. 14, 2016, 130 Stat. 1405, provided that:
 
 > “In this Act [enacting this section and provisions set out as a note under section 551 of this title]:
 
@@ -189,7 +189,7 @@ Pub. L. 114–275, § 2, Dec. 14, 2016, 130 Stat. 1405, provided that:
 
 > **“(3) Secretary.—** The term ‘Secretary’ means the Secretary of Agriculture, acting through the Chief of the Forest Service.”
 
-### § 551d. Wildland firefighter safety
+### § 551d. Wildland firefighter safety
 
 **(a) Definitions** In this section:
 
@@ -233,13 +233,13 @@ The Secretaries shall jointly submit to Congress an annual report on the wildlan
 
 **(III)** the results of those actions.
 
-(Pub. L. 111–11, title III, § 3101, Mar. 30, 2009, 123 Stat. 1127.)
+(Pub. L. 111–11, title III, § 3101, Mar. 30, 2009, 123 Stat. 1127.)
 
-### § 552. Consent to agreement by States for conservation of forests and water supply
+### § 552. Consent to agreement by States for conservation of forests and water supply
 
 Consent of the Congress of the United States is given to each of the several States of the Union to enter into any agreement or compact, not in conflict with any law of the United States, with any other State or States for the purpose of conserving the forests and the water supply of the States entering into such agreement or compact.
 
-(Mar. 1, 1911, ch. 186, § 1, 36 Stat. 961.)
+(Mar. 1, 1911, ch. 186, § 1, 36 Stat. 961.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -247,11 +247,11 @@ Consent of the Congress of the United States is given to each of the several Sta
 
 Act Mar. 1, 1911, ch. 186, 36 Stat. 961, which enacted this section, former sections 513 and 514 of this title, and sections 515 to 519, 521, and 563 of this title and amended sections 480 and 500 of this title, is popularly known as the Weeks Law.
 
-### § 552a. Restoration of withdrawn national forest lands to appropriation
+### § 552a. Restoration of withdrawn national forest lands to appropriation
 
 The President, upon recommendation of the Secretaries of the Interior and Agriculture, may, by Executive order, when in his judgment the public interest would best be served thereby and after reasonable notice has been given through the Department of the Interior, restore any reserved national-forest lands covered by a cooperative agreement with the Secretary of Agriculture for the protection of a watershed within a national forest from which water is secured, to appropriation under any applicable public-lands law.
 
-(May 28, 1940, ch. 220, § 1, 54 Stat. 224; Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
+(May 28, 1940, ch. 220, § 1, 54 Stat. 224; Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
 **Editorial Notes**
 
@@ -273,23 +273,23 @@ Section 704(a) of Pub. L. 94–579 provided in part that this section is amended
 
 Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under section 1701 of Title 43, Public Lands.
 
-### § 552b. Administration of withdrawn lands; rules and regulations
+### § 552b. Administration of withdrawn lands; rules and regulations
 
 Lands withdrawn under the provisions of sections 552a to 552d of this title shall be administered by the Secretary of Agriculture under such agreements for the protection of the watershed as he may make with the municipality concerned, and the Secretary of Agriculture is authorized, in addition to the rules and regulations adopted for the administration of the national forests, to adopt and prescribe such further rules and regulations as he considers necessary to effect the adequate protection of the watershed, including a rule or regulation forbidding persons other than forest officers and representatives of the municipality from going on the lands so reserved or making any use whatever thereof.
 
-(May 28, 1940, ch. 220, § 2, 54 Stat. 224.)
+(May 28, 1940, ch. 220, § 2, 54 Stat. 224.)
 
-### § 552c. Reimbursement of United States for loss of revenue
+### § 552c. Reimbursement of United States for loss of revenue
 
 Whenever national-forest lands are withdrawn under sections 552a to 552d of this title, and the municipality concerned objects to the utilization of the timber or other resources of lands withdrawn, and the Secretary of Agriculture agrees to withhold such resources from utilization, said municipality shall pay to the Forest Service annually an amount which the Secretary of Agriculture shall determine is necessary to reimburse the United States for the loss of net annual revenues which would be derived from the resources so withheld from disposition.
 
-(May 28, 1940, ch. 220, § 3, 54 Stat. 225.)
+(May 28, 1940, ch. 220, § 3, 54 Stat. 225.)
 
-### § 552d. Punishment of violations of regulations
+### § 552d. Punishment of violations of regulations
 
 Any violation of the regulations issued under sections 552a to 552d of this title shall be punished as is provided in section 1853 of title 18.
 
-(May 28, 1940, ch. 220, § 4, 54 Stat. 225.)
+(May 28, 1940, ch. 220, § 4, 54 Stat. 225.)
 
 **Editorial Notes**
 
@@ -297,7 +297,7 @@ Any violation of the regulations issued under sections 552a to 552d of this titl
 
 “Section 1853 of title 18” substituted in text for “section 104 of title 18” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
 
-### § 553. Duties of officials of Forest Service; stock laws; protection of fish and game
+### § 553. Duties of officials of Forest Service; stock laws; protection of fish and game
 
 Officials of the Forest Service designated by the Secretary of Agriculture shall, in all ways that are practicable, aid in the enforcement of the laws of the States or Territories with regard to stock, for the prevention and extinguishment of forest fires, and for the protection of fish and game, and with respect to national forests, shall aid the other Federal bureaus and departments on request from them, in the performance of the duties imposed on them by law.
 
@@ -307,17 +307,17 @@ Officials of the Forest Service designated by the Secretary of Agriculture shall
 
 **Transfer of Functions**
 
-Functions of Secretary of Agriculture, administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by Reorg. Plan No. II of 1939, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Secretary of Agriculture, administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by Reorg. Plan No. II of 1939, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 553a. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655
+### § 553a. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655
 
-Section, acts June 29, 1949, ch. 280, title I, 63 Stat. 337; Oct. 15, 1949, ch. 695, § 6(a), 63 Stat. 881, prescribed salary of Chief Forester. See section 5316 of Title 5, Government Organization and Employees.
+Section, acts June 29, 1949, ch. 280, title I, 63 Stat. 337; Oct. 15, 1949, ch. 695, § 6(a), 63 Stat. 881, prescribed salary of Chief Forester. See section 5316 of Title 5, Government Organization and Employees.
 
-### § 554. Forest supervisors and rangers
+### § 554. Forest supervisors and rangers
 
 Forest supervisors and rangers shall be selected, when practicable, from qualified citizens of the States or Territories in which the national forests, respectively, are situated.
 
-(Feb. 1, 1905, ch. 288, § 3, 33 Stat. 628.)
+(Feb. 1, 1905, ch. 288, § 3, 33 Stat. 628.)
 
 **Editorial Notes**
 
@@ -325,11 +325,11 @@ Forest supervisors and rangers shall be selected, when practicable, from qualifi
 
 “National forests” substituted in text for “reserves” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
-### § 554a. Employees to be appointed without regard to political affiliations
+### § 554a. Employees to be appointed without regard to political affiliations
 
 Forest inspectors, superintendents, supervisors, surveyors, rangers, and fire patrol are to be hereafter appointed by the Secretary of Agriculture wholly with reference to their fitness and without regard for their political affiliations.
 
-(July 7, 1898, ch. 571, § 1, 30 Stat. 673; Feb. 1, 1905, ch. 288, § 1, 33 Stat. 628.)
+(July 7, 1898, ch. 571, § 1, 30 Stat. 673; Feb. 1, 1905, ch. 288, § 1, 33 Stat. 628.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -337,11 +337,11 @@ Forest inspectors, superintendents, supervisors, surveyors, rangers, and fire pa
 
 Act Feb. 1, 1905, transferred certain functions with regard to the administration of public forests from Secretary of the Interior to Secretary of Agriculture.
 
-### § 554b. Medical care for employees engaged in hazardous work; notification and transportation of employees
+### § 554b. Medical care for employees engaged in hazardous work; notification and transportation of employees
 
 Appropriations for the Forest Service shall be available for medical supplies and services and other assistance necessary for the immediate relief of artisans, laborers, and other employees engaged in any hazardous work under the Forest Service, and for expenses of notifying employees of the death or serious illness of close relatives and, in such cases where no public transportation is available, for transporting the employees to a point where public transportation is available.
 
-(Sept. 21, 1944, ch. 412, title II, § 202, 58 Stat. 736; Pub. L. 85–464, § 4, June 20, 1958, 72 Stat. 217.)
+(Sept. 21, 1944, ch. 412, title II, § 202, 58 Stat. 736; Pub. L. 85–464, § 4, June 20, 1958, 72 Stat. 217.)
 
 **Editorial Notes**
 
@@ -353,11 +353,11 @@ Section was enacted as a part of the Department of Agriculture Organic Act of 19
 
 1958—Pub. L. 85–464 made appropriations available for expenses of notifying employees of the death or serious illness of close relatives, and for transportation of employees.
 
-### § 554c. Care of employees’ graves
+### § 554c. Care of employees’ graves
 
 Appropriations for the Forest Service shall be available within such limitations as may be prescribed therein for the expenses of properly caring for the graves of persons who have lost their lives as a result of fighting fires while employed by the Forest Service.
 
-(Sept. 21, 1944, ch. 412, title II, § 206, 58 Stat. 736.)
+(Sept. 21, 1944, ch. 412, title II, § 206, 58 Stat. 736.)
 
 **Editorial Notes**
 
@@ -365,11 +365,11 @@ Appropriations for the Forest Service shall be available within such limitations
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.
 
-### § 554d. Recreation facilities for employees of Forest Service and their immediate families
+### § 554d. Recreation facilities for employees of Forest Service and their immediate families
 
 Not to exceed $100,000 annually of funds available to the Forest Service may be expended for providing recreation facilities, equipment, and services for use by employees of the Service located at isolated situations and, where deemed to be in the public interest, by members of the immediate families of such employees.
 
-(Pub. L. 87–869, § 3, Oct. 23, 1962, 76 Stat. 1157; Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1944.)
+(Pub. L. 87–869, § 3, Oct. 23, 1962, 76 Stat. 1157; Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1944.)
 
 **Editorial Notes**
 
@@ -377,11 +377,11 @@ Not to exceed $100,000 annually of funds available to the Forest Service may be 
 
 1990—Pub. L. 101–512 substituted “$100,000” for “$35,000”.
 
-### § 554e. Employment of workers for emergencies
+### § 554e. Employment of workers for emergencies
 
 Notwithstanding any other provision of law, on and after October 21, 1998, the Forest Service is authorized to employ or otherwise contract with persons at regular rates of pay, as determined by the Service, to perform work occasioned by emergencies such as fires, storms, floods, earthquakes or any other unavoidable cause without regard to Sundays, Federal holidays, and the regular workweek.
 
-(Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–273.)
+(Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–273.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -391,9 +391,9 @@ Provisions similar to this section were contained in the following prior appropr
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1577.
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
+Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
 
-Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–185; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–185; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2524.
 
@@ -405,11 +405,11 @@ Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1019.
 
 Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1944.
 
-### § 555. Forest headquarters, ranger stations, dwellings, or other needed sites
+### § 555. Forest headquarters, ranger stations, dwellings, or other needed sites
 
 Where no suitable Government land is available for national forest headquarters, ranger stations, dwellings, or for other sites required for the effective conduct of the authorized activities of the Forest Service, the Secretary of Agriculture is authorized to purchase such lands out of the appropriation applicable to the purpose for which the land is to be used, and to accept donations of land for any national forest or experimental purpose: *Provided*, That such lands may be acquired subject to such reservations and outstanding interests as the Secretary determines will not interfere with the purpose for which acquired: *Provided further*, That not to exceed $50,000 may be expended in any one fiscal year pursuant to this authority.
 
-(Mar. 3, 1925, ch. 457, § 5, 43 Stat. 1133; Apr. 24, 1950, ch. 97, § 13, 64 Stat. 86; Pub. L. 85–464, § 9, June 20, 1958, 72 Stat. 218.)
+(Mar. 3, 1925, ch. 457, § 5, 43 Stat. 1133; Apr. 24, 1950, ch. 97, § 13, 64 Stat. 86; Pub. L. 85–464, § 9, June 20, 1958, 72 Stat. 218.)
 
 **Editorial Notes**
 
@@ -419,23 +419,23 @@ Where no suitable Government land is available for national forest headquarters,
 
 1950—Act Apr. 24, 1950, applied section to dwellings or other needed sites and inserted provisos.
 
-### § 555a. Exchange of lands
+### § 555a. Exchange of lands
 
 Where lands under the jurisdiction of the Forest Service have been acquired and are being administered under laws which contain no provision for their exchange, the Secretary of Agriculture may convey such lands and in exchange therefor may accept on behalf of the United States title to any lands which in his opinion are suitable for use in connection with activities of the Forest Service. The value of the lands so conveyed by the Secretary of Agriculture shall not exceed the value of the lands accepted by him.
 
-(Pub. L. 87–869, § 1, Oct. 23, 1962, 76 Stat. 1157.)
+(Pub. L. 87–869, § 1, Oct. 23, 1962, 76 Stat. 1157.)
 
-### § 555b. Street improvements; availability of Forest Service funds
+### § 555b. Street improvements; availability of Forest Service funds
 
 Funds available to the Forest Service shall be available for expenses of, or payment of assessment for, construction of sidewalks, curbs, or street paving along the boundary of Government-owned residential or otherwise improved lots.
 
-(Pub. L. 87–869, § 9, Oct. 23, 1962, 76 Stat. 1157.)
+(Pub. L. 87–869, § 9, Oct. 23, 1962, 76 Stat. 1157.)
 
-### § 556. Appropriations for Forest Service; use for transportation or traveling expenses; preparation or publication of newspaper or magazine articles
+### § 556. Appropriations for Forest Service; use for transportation or traveling expenses; preparation or publication of newspaper or magazine articles
 
 No part of any funds appropriated for the Forest Service shall be used to pay the transportation or traveling expenses of any forest officer or agent except he be traveling on business directly connected with the Forest Service and in furtherance of the works, aims, and objects specified and authorized by law; nor shall any such funds be paid or used for the purpose of paying for, in whole or in part, the preparation or publication of any newspaper or magazine article, but this shall not prevent the giving out to all persons, without discrimination, including newspapers and magazine writers and publishers, of any facts or official information of value to the public: *Provided*, That this prohibition shall not apply to scientific or technical articles prepared for or published in scientific publications.
 
-(May 11, 1922, ch. 185, 42 Stat. 521; Pub. L. 85–464, § 8, June 20, 1958, 72 Stat. 218.)
+(May 11, 1922, ch. 185, 42 Stat. 521; Pub. L. 85–464, § 8, June 20, 1958, 72 Stat. 218.)
 
 **Editorial Notes**
 
@@ -443,31 +443,31 @@ No part of any funds appropriated for the Forest Service shall be used to pay th
 
 1958—Pub. L. 85–464 made prohibition inapplicable to scientific or technical articles prepared for or published in scientific publications.
 
-### § 556a. Omitted
+### § 556a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts June 16, 1955, ch. 147, title II, § 203, 69 Stat. 156; June 13, 1956, ch. 380, title II, § 202, 70 Stat. 270, which related to expenditures for options to purchase lands from appropriations made for the Forest Service, was superseded by section 2268a of Title 7, Agriculture.
+Section, acts June 16, 1955, ch. 147, title II, § 203, 69 Stat. 156; June 13, 1956, ch. 380, title II, § 202, 70 Stat. 270, which related to expenditures for options to purchase lands from appropriations made for the Forest Service, was superseded by section 2268a of Title 7, Agriculture.
 
-### § 556b. Use of appropriations for expenses of transporting automobiles of employees between points in Alaska
+### § 556b. Use of appropriations for expenses of transporting automobiles of employees between points in Alaska
 
 Funds available to the Forest Service may be used, in accordance with regulations prescribed by the Secretary of Agriculture for expenses of transporting automobiles of employees of that Service between points in Alaska in connection with transfers of official stations of such employees to meet the needs of the Service.
 
-(Pub. L. 85–464, § 3, June 20, 1958, 72 Stat. 217.)
+(Pub. L. 85–464, § 3, June 20, 1958, 72 Stat. 217.)
 
-### § 556c. Reimbursement of employees for property losses resulting from fires, floods, or other casualties
+### § 556c. Reimbursement of employees for property losses resulting from fires, floods, or other casualties
 
 Funds available to the Forest Service may be used in amounts not exceeding $100 in any single claim, for reimbursing employees of the Forest Service for loss of or damage to clothing and other personal effects resulting from fires, floods, or other casualties at or near the place in which such property is temporarily stored during services of the employees in connection with such casualties.
 
-(Pub. L. 85–464, § 2, June 20, 1958, 72 Stat. 217.)
+(Pub. L. 85–464, § 2, June 20, 1958, 72 Stat. 217.)
 
-### § 556d. Advances of public moneys to Forest Service for fighting forest fires in emergency cases
+### § 556d. Advances of public moneys to Forest Service for fighting forest fires in emergency cases
 
 Advances of money under any appropriation for the Forest Service may be made to the Forest Service and by authority of the Secretary of Agriculture to chiefs of field parties for fighting forest fires in emergency cases and detailed accounts arising under such advances shall be rendered through and by the Department of Agriculture to the Government Accountability Office.
 
-(May 23, 1908, ch. 192, 35 Stat. 259; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 92–310, title II, § 231(v), June 6, 1972, 86 Stat. 211; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(May 23, 1908, ch. 192, 35 Stat. 259; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 92–310, title II, § 231(v), June 6, 1972, 86 Stat. 211; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -475,7 +475,7 @@ Advances of money under any appropriation for the Forest Service may be made to 
 
 Section was enacted as a part of the Agricultural Appropriation Act for the fiscal year 1909, act May 23, 1908.
 
-Section was formerly classified to section 534 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 534 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -487,11 +487,11 @@ Section was formerly classified to section 534 of Title 31 prior to the general 
 
 “Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “Treasury Department” pursuant to act June 10, 1921, which transferred all powers and duties conferred upon Comptroller, six auditors, and certain other officers of the Treasury to General Accounting Office. See section 701 et seq. of Title 31.
 
-### § 556e. Emergency appropriations for rehabilitation and wildfire suppression
+### § 556e. Emergency appropriations for rehabilitation and wildfire suppression
 
-Beginning in fiscal year 1993, and in each year thereafter, only amounts for emergency rehabilitation and wildfire suppression activities that are in excess of the average of such costs for the previous ten years shall be considered “emergency requirements” pursuant to section 901(b)(2)(D) 1
+Beginning in fiscal year 1993, and in each year thereafter, only amounts for emergency rehabilitation and wildfire suppression activities that are in excess of the average of such costs for the previous ten years shall be considered “emergency requirements” pursuant to section 901(b)(2)(D) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 2, and such amounts shall on and after November 13, 1991, be so designated.
 
@@ -503,23 +503,23 @@ of title 2, and such amounts shall on and after November 13, 1991, be so designa
 
 Section 901 of title 2, referred to in text, was amended, and as so amended, section 901(b)(2)(D) no longer refers to “emergency requirements”. However, “emergency requirements” are referred to elsewhere in section 901.
 
-### § 556f. Expenses of student interns
+### § 556f. Expenses of student interns
 
 On and after October 5, 1992, funds appropriated to the Department of Agriculture, Forest Service may be used to pay transportation, lodging, and subsistence expenses of student interns, defined as employees who assist scientific, professional, or technical employees and who are bona fide students of accredited colleges or universities who are pursuing courses related to the field in which employed.
 
 (Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1403.)
 
-### § 556g. Reimbursement of employee license costs and certification fees
+### § 556g. Reimbursement of employee license costs and certification fees
 
 Notwithstanding any other provision of law, in fiscal year 1993 and thereafter, appropriations or funds available to the Department of the Interior or the Forest Service, Department of Agriculture, may be used to reimburse employees for the cost of State licenses and certification fees pursuant to their employment and that are necessary to comply with State or Federal laws, regulations, or requirements.
 
-(Pub. L. 102–381, title III, § 317, Oct. 5, 1992, 106 Stat. 1417.)
+(Pub. L. 102–381, title III, § 317, Oct. 5, 1992, 106 Stat. 1417.)
 
-### § 556h. Recognition of private contributors to Forest Service programs
+### § 556h. Recognition of private contributors to Forest Service programs
 
 Notwithstanding any other provision of law, on and after October 21, 1998, any appropriations or funds available to the Forest Service may be used to disseminate program information to private and public individuals and organizations through the use of nonmonetary items of nominal value and to provide nonmonetary awards of nominal value and to incur necessary expenses for the nonmonetary recognition of private individuals and organizations that make contributions to Forest Service programs.
 
-(Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272.)
+(Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -529,9 +529,9 @@ Provisions similar to this section were contained in the following prior appropr
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1576.
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
+Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
 
-Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–184; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–184; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2524.
 
@@ -545,7 +545,7 @@ Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1942.
 
 Pub. L. 101–121, title II, Oct. 23, 1989, 103 Stat. 726.
 
-### § 556i. Transfer of funds made available to Forest Service
+### § 556i. Transfer of funds made available to Forest Service
 
 None of the funds made available to the Forest Service in this Act or any other Act with respect to any fiscal year shall be subject to transfer under the provisions of section 2257 of title 7, section 7772 of title 7, or section 8316(b) of title 7.
 
@@ -587,11 +587,11 @@ Pub. L. 111–8, div. E, title III, Mar. 11, 2009, 123 Stat. 733.
 
 Pub. L. 110–161, div. F, title III, Dec. 26, 2007, 121 Stat. 2133.
 
-### § 557. Employees of Forest Service; subsistence furnished to; personal equipment; supplies, and medical attention
+### § 557. Employees of Forest Service; subsistence furnished to; personal equipment; supplies, and medical attention
 
 The Secretary of Agriculture is authorized to furnish subsistence to employees of the Forest Service, to purchase personal equipment and supplies for them, and to make deductions therefor from moneys appropriated for salary payments or otherwise due such employees. He is also authorized, in his discretion, to provide out of moneys appropriated for the general expenses of the Forest Service medical attention for employees of the Forest Service located at isolated situations, including the moving of such employees to hospitals or other places where medical assistance is available, and in case of death to remove the bodies of deceased employees to the nearest place where they can be prepared for shipment or for burial: *Provided*, That when a transient without permanent residence, or any other person while away from his place of residence, is temporarily employed by the Forest Service and while so employed becomes disabled because of injury or illness not attributable to official work, he may be provided hospitalization and other necessary medical care, subsistence, and lodging for a period of not to exceed fifteen days during such disability, the cost thereof to be payable from any funds available to the Forest Service applicable to the work for which such person is employed.
 
-(Mar. 3, 1925, ch. 457, §§ 4, 6, 43 Stat. 1133; Apr. 24, 1950, ch. 97, § 15, 64 Stat. 86.)
+(Mar. 3, 1925, ch. 457, §§ 4, 6, 43 Stat. 1133; Apr. 24, 1950, ch. 97, § 15, 64 Stat. 86.)
 
 **Editorial Notes**
 
@@ -599,43 +599,43 @@ The Secretary of Agriculture is authorized to furnish subsistence to employees o
 
 1950—Act Apr. 24, 1950, inserted proviso to provide medical care for temporary employees.
 
-### § 557a. Field season contracts; authority to make prior to appropriation
+### § 557a. Field season contracts; authority to make prior to appropriation
 
 The Secretary of Agriculture is hereafter authorized, in connection with the administration of the national forests, to enter into contracts for the procurement of services, materials, and supplies for the ensuing fiscal year, prior to the passage of an appropriation therefor: *Provided*, That such contracts shall aliquot the cost for such service by fiscal years and shall not be binding on the United States as to that part for the ensuing year unless and until an appropriation applicable to the payment thereof is made: *And provided further*, That all such contracts shall by their terms provide that the obligation of the United States is contingent upon the passage of an applicable appropriation and that no payment thereunder will be made until such appropriation becomes available for expenditure.
 
 (June 30, 1932, ch. 331, 47 Stat. 473.)
 
-### § 557b. Omitted
+### § 557b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 16, 1955, ch. 147, title II, § 202, 69 Stat. 156, which related to employment of aliens in the Forest Service, was enacted as part of the Department of the Interior and Related Agencies Appropriation Act, 1956, and was not repeated in the Department of the Interior and Related Agencies Appropriation Act, 1957 (approved June 13, 1956, ch. 380, 70 Stat. 257), or subsequent appropriation acts.
+Section, act June 16, 1955, ch. 147, title II, § 202, 69 Stat. 156, which related to employment of aliens in the Forest Service, was enacted as part of the Department of the Interior and Related Agencies Appropriation Act, 1956, and was not repeated in the Department of the Interior and Related Agencies Appropriation Act, 1957 (approved June 13, 1956, ch. 380, 70 Stat. 257), or subsequent appropriation acts.
 
-### § 558. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642
+### § 558. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642
 
-Section, act Mar. 4, 1913, ch. 145, § 1[part], 37 Stat. 843, related to leaves of absence to employees of Forest Service in Alaska.
+Section, act Mar. 4, 1913, ch. 145, § 1[part], 37 Stat. 843, related to leaves of absence to employees of Forest Service in Alaska.
 
-### § 558a. Purpose
+### § 558a. Purpose
 
 The purpose of this Act is to leverage volunteer engagement to supplement projects that are carried out by the Secretaries to fulfill the missions of the Forest Service and the Bureau of Land Management and are accomplished with appropriated funds.
 
-(Pub. L. 92–300, § 2, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
+(Pub. L. 92–300, § 2, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted this section and sections 558b to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted this section and sections 558b to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 **Codification**
 
-The Volunteers in the National Forests and Public Lands Act, enacting this section and sections 558b to 558g of this title, was orignally enacted as Pub. L. 92–300, May 18, 1972, 86 Stat. 147, known as the Volunteers in the National Forests Act of 1972, which enacted former sections 558a to 558d of this title. Pub. L. 92–300 was amended by Pub. L. 95–289, § 1, June 5, 1978, 92 Stat. 289; Pub. L. 101–286, title II, § 204(a), May 9, 1990, 104 Stat. 175; Pub. L. 103–82, title IV, § 405(d), Sept. 21, 1993, 107 Stat. 921; Pub. L. 114–245, § 4(d)(1), Nov. 28, 2016, 130 Stat. 992. Pub. L. 92–300 was subsequently amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, including an amendment to provide that the Act be cited as the Volunteers in the National Forests and Public Lands Act. Pub. L. 92–300 is shown herein, however, as having been added by Pub. L. 118–234 without reference to those intervening amendments because of the extensive revision of Pub. L. 92–300 by Pub. L. 118–234.
+The Volunteers in the National Forests and Public Lands Act, enacting this section and sections 558b to 558g of this title, was orignally enacted as Pub. L. 92–300, May 18, 1972, 86 Stat. 147, known as the Volunteers in the National Forests Act of 1972, which enacted former sections 558a to 558d of this title. Pub. L. 92–300 was amended by Pub. L. 95–289, § 1, June 5, 1978, 92 Stat. 289; Pub. L. 101–286, title II, § 204(a), May 9, 1990, 104 Stat. 175; Pub. L. 103–82, title IV, § 405(d), Sept. 21, 1993, 107 Stat. 921; Pub. L. 114–245, § 4(d)(1), Nov. 28, 2016, 130 Stat. 992. Pub. L. 92–300 was subsequently amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, including an amendment to provide that the Act be cited as the Volunteers in the National Forests and Public Lands Act. Pub. L. 92–300 is shown herein, however, as having been added by Pub. L. 118–234 without reference to those intervening amendments because of the extensive revision of Pub. L. 92–300 by Pub. L. 118–234.
 
 **Prior Provisions**
 
-A prior section 558a, Pub. L. 92–300, § 1, May 18, 1972, 86 Stat. 147; Pub. L. 103–82, title IV, § 405(d), Sept. 21, 1993, 107 Stat. 921, authorized the Secretary of Agriculture to recruit, train, and accept volunteers in the National Forests Program, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+A prior section 558a, Pub. L. 92–300, § 1, May 18, 1972, 86 Stat. 147; Pub. L. 103–82, title IV, § 405(d), Sept. 21, 1993, 107 Stat. 921, authorized the Secretary of Agriculture to recruit, train, and accept volunteers in the National Forests Program, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
 A prior section 2 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was classified to section 558b of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
@@ -643,17 +643,17 @@ A prior section 2 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was classifie
 
 **Short Title**
 
-Pub. L. 92–300, § 1, as added by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, provided that: “This Act [enacting this section and sections 558b to 558g of this title] may be cited as the ‘Volunteers in the National Forests and Public Lands Act’.”
+Pub. L. 92–300, § 1, as added by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, provided that: “This Act [enacting this section and sections 558b to 558g of this title] may be cited as the ‘Volunteers in the National Forests and Public Lands Act’.”
 
 [For prior section 1 of Pub. L. 92–300, see Prior Provisions note above.]
 
-Pub. L. 92–300, § 5, May 18, 1972, 86 Stat. 147, provided that Pub. L. 92–300, which enacted former sections 558a to 558d of this title, could be cited as the “Volunteers in the National Forests Act of 1972”, prior to the general amendment of Pub. L. 92–300 by Pub. L. 118–234.
+Pub. L. 92–300, § 5, May 18, 1972, 86 Stat. 147, provided that Pub. L. 92–300, which enacted former sections 558a to 558d of this title, could be cited as the “Volunteers in the National Forests Act of 1972”, prior to the general amendment of Pub. L. 92–300 by Pub. L. 118–234.
 
 **Reference to Volunteers in the National Forests Act of 1972**
 
-Pub. L. 118–234, title III, § 342, Jan. 4, 2025, 138 Stat. 2914, provided that: “Any reference to the Volunteers in the National Forests Act of 1972 in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Volunteers in the National Forests and Public Land[s] Act [see Short Title note above].”
+Pub. L. 118–234, title III, § 342, Jan. 4, 2025, 138 Stat. 2914, provided that: “Any reference to the Volunteers in the National Forests Act of 1972 in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Volunteers in the National Forests and Public Land[s] Act [see Short Title note above].”
 
-### § 558b. Definition of Secretaries
+### § 558b. Definition of Secretaries
 
 In this Act, the term “Secretaries” means each of—
 
@@ -661,49 +661,49 @@ In this Act, the term “Secretaries” means each of—
 
 **(2)** the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
 
-(Pub. L. 92–300, § 3, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
+(Pub. L. 92–300, § 3, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted sections 558a to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted sections 558a to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 558b, Pub. L. 92–300, § 2, May 18, 1972, 86 Stat. 147, authorized the Secretary to provide for incidental expenses to program volunteers, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+A prior section 558b, Pub. L. 92–300, § 2, May 18, 1972, 86 Stat. 147, authorized the Secretary to provide for incidental expenses to program volunteers, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
 A prior section 3 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was classified to section 558c of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
-### § 558c. Authorization
+### § 558c. Authorization
 
 The Secretaries are authorized to recruit, train, and accept without regard to the civil service and classification laws, rules, or regulations the services of individuals without compensation as volunteers for or in aid of recreation access, trail construction or maintenance, facility construction or maintenance, educational uses (including outdoor classroom construction or maintenance), interpretive functions, visitor services, conservation measures and development, or other activities in and related to areas administered by the Secretaries. In carrying out this section, the Secretaries shall consider referrals of prospective volunteers made by the Corporation for National and Community Service.
 
-(Pub. L. 92–300, § 4, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
+(Pub. L. 92–300, § 4, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 558c, Pub. L. 92–300, § 3, May 18, 1972, 86 Stat. 147; Pub. L. 101–286, title II, § 204(a), May 9, 1990, 104 Stat. 175; Pub. L. 114–245, § 4(d)(1), Nov. 28, 2016, 130 Stat. 992, related to employment status of volunteers, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+A prior section 558c, Pub. L. 92–300, § 3, May 18, 1972, 86 Stat. 147; Pub. L. 101–286, title II, § 204(a), May 9, 1990, 104 Stat. 175; Pub. L. 114–245, § 4(d)(1), Nov. 28, 2016, 130 Stat. 992, related to employment status of volunteers, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
 A prior section 4 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was classified to section 558d of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
-### § 558d. Incidental expenses
+### § 558d. Incidental expenses
 
 The Secretaries are authorized to provide for incidental expenses, such as transportation, uniforms, lodging, training, equipment, and subsistence.
 
-(Pub. L. 92–300, § 5, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
+(Pub. L. 92–300, § 5, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 558d, Pub. L. 92–300, § 4, May 18, 1972, 86 Stat. 147; Pub. L. 95–289, § 1, June 5, 1978, 92 Stat. 289, authorized appropriations for former sections 558a to 558d of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+A prior section 558d, Pub. L. 92–300, § 4, May 18, 1972, 86 Stat. 147; Pub. L. 95–289, § 1, June 5, 1978, 92 Stat. 289, authorized appropriations for former sections 558a to 558d of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
 A prior section 5 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was set out as a Short Title note under section 558a of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
-### § 558e. Consideration as Federal employee
+### § 558e. Consideration as Federal employee
 
 **(a)** Except as otherwise provided in this section, a volunteer shall not be deemed a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
 
@@ -733,43 +733,43 @@ A prior section 5 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was set out a
 
 **(G)** any other terms and conditions that are determined to be necessary by the applicable Secretary.
 
-(Pub. L. 92–300, § 6, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
+(Pub. L. 92–300, § 6, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (b) to (d), is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted sections 558a to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+This Act, referred to in subsecs. (b) to (d), is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted sections 558a to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
-### § 558f. Promotion of volunteer opportunities
+### § 558f. Promotion of volunteer opportunities
 
 The Secretaries shall promote volunteer opportunities in areas administered by the Secretaries.
 
-(Pub. L. 92–300, § 7, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2914.)
+(Pub. L. 92–300, § 7, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2914.)
 
-### § 558g. Liability insurance
+### § 558g. Liability insurance
 
 The Secretaries shall not require a cooperator or volunteer (as those terms are used in section 558e of this title) to have liability insurance to provide the volunteer services authorized under this Act.
 
-(Pub. L. 92–300, § 8, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2914.)
+(Pub. L. 92–300, § 8, as added Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2914.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted this section and sections 558a to 558f of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted this section and sections 558a to 558f of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
-### § 559. Arrests by employees of Forest Service for violations of laws and regulations
+### § 559. Arrests by employees of Forest Service for violations of laws and regulations
 
 All persons employed in the Forest Service of the United States shall have authority to make arrests for the violation of the laws and regulations relating to the national forests, and any person so arrested shall be taken before the nearest United States magistrate judge, within whose jurisdiction the forest is located, for trial; and upon sworn information by any competent person any United States magistrate judge in the proper jurisdiction shall issue process for the arrest of any person charged with the violation of said laws and regulations; but nothing herein contained shall be construed as preventing the arrest by any officer of the United States, without process, of any person taken in the act of violating said laws and regulations.
 
-(Mar. 3, 1905, ch. 1405, 33 Stat. 873; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 91–383, § 10(a)(2), Aug. 18, 1970, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1941; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Mar. 3, 1905, ch. 1405, 33 Stat. 873; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 91–383, § 10(a)(2), Aug. 18, 1970, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1941; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Forest Service of the United States” substituted for “forest reserve of the United States” as the probable intent of Congress in that the federal forest reserves were transferred from Department of the Interior to Department of Agriculture by act Feb. 1, 1905, ch. 288, § 1, 33 Stat. 628, and administration of forest reserves was placed in Forest Service which was created by that act.
+“Forest Service of the United States” substituted for “forest reserve of the United States” as the probable intent of Congress in that the federal forest reserves were transferred from Department of the Interior to Department of Agriculture by act Feb. 1, 1905, ch. 288, § 1, 33 Stat. 628, and administration of forest reserves was placed in Forest Service which was created by that act.
 
 Words “national forests” and “forest” substituted for “forest reserves” and “reservation”, respectively, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
@@ -777,19 +777,19 @@ That part of act Mar. 3, 1905, which related to arrests by employees of the Nati
 
 **Amendments**
 
-1976—Pub. L. 91–383, § 10(a)(2), as added Pub. L. 94–458, struck out “and national parks” after “national forests” and “or national park” after “jurisdiction the forest”.
+1976—Pub. L. 91–383, § 10(a)(2), as added Pub. L. 94–458, struck out “and national parks” after “national forests” and “or national park” after “jurisdiction the forest”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-“United States magistrate judge” substituted for “United States magistrate” wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judge” substituted for “United States magistrate” wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
-### § 559a. Reward for information leading to arrest and conviction for violating laws and regulations
+### § 559a. Reward for information leading to arrest and conviction for violating laws and regulations
 
 The Secretary of Agriculture may pay rewards from appropriations available for the protection and management of the national forests, under such regulations as he may prescribe, for information leading to the arrest and conviction for violation of the laws and regulations relating to fires in or near national forests, or for the unlawful taking of, or injury to, Government property.
 
-(Sept. 21, 1944, ch. 412, title II, § 201, 58 Stat. 736.)
+(Sept. 21, 1944, ch. 412, title II, § 201, 58 Stat. 736.)
 
 **Editorial Notes**
 
@@ -797,7 +797,7 @@ The Secretary of Agriculture may pay rewards from appropriations available for t
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.
 
-### § 559b. Prevention of manufacture, etc., of marijuana and other controlled substances
+### § 559b. Prevention of manufacture, etc., of marijuana and other controlled substances
 
 **(a) Purpose**
 
@@ -811,7 +811,7 @@ Nothing in sections 559b to 559f of this title shall diminish in any way the law
 
 As used in sections 559b to 559f of this title, the terms “manufacture”, “dispense”, and “distribute” shall have the same meaning given such terms in section 802 of title 21.
 
-(Pub. L. 99–570, title XV, § 15002, Oct. 27, 1986, 100 Stat. 3207–191.)
+(Pub. L. 99–570, title XV, § 15002, Oct. 27, 1986, 100 Stat. 3207–191.)
 
 **Editorial Notes**
 
@@ -823,11 +823,11 @@ Sections 559b to 559f of this title, referred to in text, was in the original �
 
 **Short Title**
 
-Pub. L. 99–570, title XV, § 15001, Oct. 27, 1986, 100 Stat. 3207–191, provided that: “This title [enacting this section and sections 559c to 559f of this title and amending section 841 of Title 21, Food and Drugs] may be cited as the ‘National Forest System Drug Control Act of 1986’.”
+Pub. L. 99–570, title XV, § 15001, Oct. 27, 1986, 100 Stat. 3207–191, provided that: “This title [enacting this section and sections 559c to 559f of this title and amending section 841 of Title 21, Food and Drugs] may be cited as the ‘National Forest System Drug Control Act of 1986’.”
 
 **National Forest System, National Park System, and Bureau of Land Management Public Lands Safety; Findings**
 
-Pub. L. 100–690, title VI, § 6254(a), Nov. 18, 1988, 102 Stat. 4363, provided that:
+Pub. L. 100–690, title VI, § 6254(a), Nov. 18, 1988, 102 Stat. 4363, provided that:
 
 > “Congress finds that—
 
@@ -855,7 +855,7 @@ Pub. L. 100–690, title VI, § 6254(a), Nov. 18, 1988, 102 Stat. 4363, provid
 
 > **“(6)** the Forest Service, in the exercise of its law enforcement powers, should cooperate to every extent possible with any other Federal, State, or local law enforcement authority having jurisdiction in areas where national forests are located, particularly where coordinated investigative and enforcement actions can be effective to control crime which affects multiple agencies.”
 
-### § 559c. Powers of officers and employees of Forest Service
+### § 559c. Powers of officers and employees of Forest Service
 
 For the purposes of sections 559b to 559f of this title, if specifically designated by the Secretary and specially trained, not to exceed 1,000 special agents and law enforcement officers of the Forest Service when in the performance of their duties shall have authority to—
 
@@ -863,9 +863,9 @@ For the purposes of sections 559b to 559f of this title, if specifically designa
 
 **(2)** conduct, within the exterior boundaries of the National Forest System, investigations of violations of and enforce section 841 of title 21 and other criminal violations relating to marijuana and other controlled substances that are manufactured, distributed, or dispensed on National Forest System lands and to conduct such investigations and enforcement of such laws outside the exterior boundaries of the National Forest System for offenses committed within the National Forest System or which affect the administration of the National Forest System (including the pursuit of persons suspected of such offenses who flee the National Forest System to avoid arrest);
 
-**(3)** make arrests with a warrant or process for misdemeanor violations, or without a warrant or process for violations of such misdemeanors that any such officer or employee has probable cause to believe are being committed in his presence or view, or for a felony with a warrant or without a warrant if he has probable cause to believe that the person to be arrested has committed or is committing such felony, for offenses committed within the National Forest System or which affect the administration of the National Forest System;; 1
+**(3)** make arrests with a warrant or process for misdemeanor violations, or without a warrant or process for violations of such misdemeanors that any such officer or employee has probable cause to believe are being committed in his presence or view, or for a felony with a warrant or without a warrant if he has probable cause to believe that the person to be arrested has committed or is committing such felony, for offenses committed within the National Forest System or which affect the administration of the National Forest System;; 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(4)** serve warrants and other process issued by a court or officer of competent jurisdiction;
 
@@ -873,19 +873,19 @@ For the purposes of sections 559b to 559f of this title, if specifically designa
 
 **(6)** seize with or without warrant or process any evidentiary item according to Federal law or rule of law.
 
-(Pub. L. 99–570, title XV, § 15003, Oct. 27, 1986, 100 Stat. 3207–191; Pub. L. 100–690, title VI, § 6254(b), Nov. 18, 1988, 102 Stat. 4363.)
+(Pub. L. 99–570, title XV, § 15003, Oct. 27, 1986, 100 Stat. 3207–191; Pub. L. 100–690, title VI, § 6254(b), Nov. 18, 1988, 102 Stat. 4363.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–690, § 6254(b)(1), in introductory provision substituted “1,000 special agents and law enforcement officers” for “500 officers and employees”, and struck out “within the boundaries of the National Forest System” after “shall have authority”.
+1988—Pub. L. 100–690, § 6254(b)(1), in introductory provision substituted “1,000 special agents and law enforcement officers” for “500 officers and employees”, and struck out “within the boundaries of the National Forest System” after “shall have authority”.
 
-Par. (2). Pub. L. 100–690, § 6254(b)(2), inserted “, within the exterior boundaries of the National Forest System,” after “conduct” and “and to conduct such investigations and enforcement of such laws outside the exterior boundaries of the National Forest System for offenses committed within the National Forest System or which affect the administration of the National Forest System (including the pursuit of persons suspected of such offenses who flee the National Forest System to avoid arrest)” before semicolon at end.
+Par. (2). Pub. L. 100–690, § 6254(b)(2), inserted “, within the exterior boundaries of the National Forest System,” after “conduct” and “and to conduct such investigations and enforcement of such laws outside the exterior boundaries of the National Forest System for offenses committed within the National Forest System or which affect the administration of the National Forest System (including the pursuit of persons suspected of such offenses who flee the National Forest System to avoid arrest)” before semicolon at end.
 
-Par. (3). Pub. L. 100–690, § 6254(b)(3), inserted “, for offenses committed within the National Forest System or which affect the administration of the National Forest System;” before semicolon at end.
+Par. (3). Pub. L. 100–690, § 6254(b)(3), inserted “, for offenses committed within the National Forest System or which affect the administration of the National Forest System;” before semicolon at end.
 
-### § 559d. Cooperation with other Federal, State, and local law enforcement agencies
+### § 559d. Cooperation with other Federal, State, and local law enforcement agencies
 
 For the purposes of sections 559b to 559f of this title, in exercising the authority provided by section 559c of this title—
 
@@ -893,7 +893,7 @@ For the purposes of sections 559b to 559f of this title, in exercising the autho
 
 **(2)** the Secretary may authorize the Forest Service to cooperate with the law enforcement officials of any Federal agency, State, or political subdivision in the investigation of violations of and enforcement of section 401 of the Controlled Substances Act (21 U.S.C. 841), other laws and regulations relating to marijuana and other controlled substances, and State drug control laws or ordinances for offenses committed within the National Forest System or which affect the administration of the National Forest System.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(3)** the Forest Service shall cooperate with the Attorney General in carrying out the seizure and forfeiture provisions of section 511 of the Controlled Substances Act (21 U.S.C. 881) for violations of the Controlled Substances Act [21 U.S.C. 801 et seq.] relating to offenses committed within the National Forest System, or which affect the administration of the National Forest System;
 
@@ -901,25 +901,25 @@ For the purposes of sections 559b to 559f of this title, in exercising the autho
 
 **(5)** the Forest Service is authorized to accept law enforcement designation from any other Federal agency or agency of a State or political subdivision thereof for the purpose of cooperating in a multi-agency law enforcement task force investigation of violations of the Controlled Substances Act [21 U.S.C. 801 et seq.] and other offenses committed in the course of or in connection with such violations.
 
-(Pub. L. 99–570, title XV, § 15004, Oct. 27, 1986, 100 Stat. 3207–191; Pub. L. 100–690, title VI, § 6254(c), Nov. 18, 1988, 102 Stat. 4364.)
+(Pub. L. 99–570, title XV, § 15004, Oct. 27, 1986, 100 Stat. 3207–191; Pub. L. 100–690, title VI, § 6254(c), Nov. 18, 1988, 102 Stat. 4364.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in pars. (3) and (5), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in pars. (3) and (5), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 **Amendments**
 
-1988—Par. (2). Pub. L. 100–690, § 6254(c)(2), substituted “for offenses committed within the National Forest System or which affect the administration of the National Forest System” for “, within the boundaries of the National Forest System”.
+1988—Par. (2). Pub. L. 100–690, § 6254(c)(2), substituted “for offenses committed within the National Forest System or which affect the administration of the National Forest System” for “, within the boundaries of the National Forest System”.
 
-Pars. (3) to (5). Pub. L. 100–690, § 6254(c)(3), added pars. (3) to (5).
+Pars. (3) to (5). Pub. L. 100–690, § 6254(c)(3), added pars. (3) to (5).
 
-### § 559e. Forest Service authorization
+### § 559e. Forest Service authorization
 
 In order to improve Federal law enforcement activities relating to the use and production of narcotics and controlled substances on lands administered by the Forest Service, from amounts appropriated there shall be made available to the Secretary, in addition to sums made available under other authority of law, $10,000,000 for fiscal year 1989, and for each fiscal year thereafter, to be used for employment and training of additional and existing Forest Service law enforcement personnel, for expenses related to such employment, training, equipment, and facilities, and for cooperative programs with State and local law enforcement agencies.
 
-(Pub. L. 99–570, title XV, § 15006, Oct. 27, 1986, 100 Stat. 3207–192; Pub. L. 100–690, title VI, § 6254(d)(1), Nov. 18, 1988, 102 Stat. 4364.)
+(Pub. L. 99–570, title XV, § 15006, Oct. 27, 1986, 100 Stat. 3207–192; Pub. L. 100–690, title VI, § 6254(d)(1), Nov. 18, 1988, 102 Stat. 4364.)
 
 **Editorial Notes**
 
@@ -927,11 +927,11 @@ In order to improve Federal law enforcement activities relating to the use and p
 
 1988—Pub. L. 100–690 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated $10,000,000 for each fiscal year to carry out sections 559b to 559f of this title.”
 
-### § 559f. Approval of Secretary of Agriculture and Attorney General
+### § 559f. Approval of Secretary of Agriculture and Attorney General
 
 The authorities conferred herein shall be exercised pursuant to an agreement approved by the Secretary of Agriculture and the Attorney General.
 
-(Pub. L. 99–570, title XV, § 15007, Oct. 27, 1986, 100 Stat. 3207–192.)
+(Pub. L. 99–570, title XV, § 15007, Oct. 27, 1986, 100 Stat. 3207–192.)
 
 **Editorial Notes**
 
@@ -939,7 +939,7 @@ The authorities conferred herein shall be exercised pursuant to an agreement app
 
 Herein, referred to in text, probably means title XV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–191, known as the National Forest System Drug Control Act of 1986, which enacted sections 559b to 559f of this title, amended section 841 of Title 21, Food and Drugs, and enacted provisions set out as a note under section 559b of this title. For complete classification of title XV to the Code, see Short Title note set out under section 559b of this title and Tables.
 
-### § 559g. Designation authority of Secretary of Agriculture
+### § 559g. Designation authority of Secretary of Agriculture
 
 **(a) Purpose**
 
@@ -953,15 +953,15 @@ The Secretary is authorized to designate law enforcement officers of any other F
 
 The Forest Service is authorized to accept law enforcement designation from any other Federal agency or agency of a State or political subdivision thereof for the purpose of cooperating in the investigation and enforcement of any Federal or State law or ordinance and regulation of any such agency, when such investigation or enforcement is mutually beneficial to the National Forest System and the cooperating agency or jurisdiction, upon entering into a memorandum of understanding or cooperative agreement with such agency or jurisdiction.
 
-(Pub. L. 99–570, title XV, § 15008, as added Pub. L. 100–690, title VI, § 6254(e), Nov. 18, 1988, 102 Stat. 4365.)
+(Pub. L. 99–570, title XV, § 15008, as added Pub. L. 100–690, title VI, § 6254(e), Nov. 18, 1988, 102 Stat. 4365.)
 
-### § 560. Use of timber for telephone lines for fire protection
+### § 560. Use of timber for telephone lines for fire protection
 
 The Secretary of Agriculture, whenever he may deem it necessary for the protection of the national forests from fire, may permit the use of timber free of charge for the construction of telephone lines.
 
-(Mar. 4, 1913, ch. 145, § 1 (part), 37 Stat. 843.)
+(Mar. 4, 1913, ch. 145, § 1 (part), 37 Stat. 843.)
 
-### § 560a. Omitted
+### § 560a. Omitted
 
 **Editorial Notes**
 
@@ -993,35 +993,35 @@ July 26, 1963, Pub. L. 88–79, title II, 77 Stat. 110.
 
 Aug. 9, 1962, Pub. L. 87–578, title II, 76 Stat. 348.
 
-Aug. 3, 1961, Pub. L. 87–122, title II, § 201, 75 Stat. 259.
+Aug. 3, 1961, Pub. L. 87–122, title II, § 201, 75 Stat. 259.
 
-May 13, 1960, Pub. L. 86–455, title II, § 202, 74 Stat. 116.
+May 13, 1960, Pub. L. 86–455, title II, § 202, 74 Stat. 116.
 
-June 23, 1959, Pub. L. 86–60, title II, § 202, 73 Stat. 105.
+June 23, 1959, Pub. L. 86–60, title II, § 202, 73 Stat. 105.
 
-June 4, 1958, Pub. L. 85–439, title II, § 202, 72 Stat. 168.
+June 4, 1958, Pub. L. 85–439, title II, § 202, 72 Stat. 168.
 
-July 1, 1957, Pub. L. 85–77, title II, § 202, 71 Stat. 270.
+July 1, 1957, Pub. L. 85–77, title II, § 202, 71 Stat. 270.
 
-June 13, 1956, ch. 380, title II, § 203, 70 Stat. 270.
+June 13, 1956, ch. 380, title II, § 203, 70 Stat. 270.
 
-June 16, 1955, ch. 147, title II, § 204, 69 Stat. 156.
+June 16, 1955, ch. 147, title II, § 204, 69 Stat. 156.
 
-### § 561. Repealed. Oct. 31, 1951, ch. 654, § 1(45), 65 Stat. 703
+### § 561. Repealed. Oct. 31, 1951, ch. 654, § 1(45), 65 Stat. 703
 
-Section, act Mar. 15, 1920, ch. 100, §§ 3, 4, 41 Stat. 531, related to transfer of surplus telephone supplies from the Military Establishment to the Department of Agriculture for use of the Forest Service.
+Section, act Mar. 15, 1920, ch. 100, §§ 3, 4, 41 Stat. 531, related to transfer of surplus telephone supplies from the Military Establishment to the Department of Agriculture for use of the Forest Service.
 
-### § 562. Forest experiment station in California
+### § 562. Forest experiment station in California
 
 In order to determine and demonstrate the best methods for the conservative management of forest and forest lands and the protection of timber and other forest products, the Secretary of Agriculture is authorized and directed (1) to establish and maintain, in cooperation with the State of California and with the surrounding States, a forest experiment station at such place or places as he may determine to be most suitable, and (2) to conduct, independently or in cooperation with other branches of the Federal Government, the States, universities, colleges, county and municipal agencies, business organizations, and individuals, such silvicultural, dendrological, forest fire, economic, and other experiments and investigations as may be necessary.
 
-(Mar. 3, 1925, ch. 424, § 1, 43 Stat. 1108.)
+(Mar. 3, 1925, ch. 424, § 1, 43 Stat. 1108.)
 
-### § 562a. Forest experiment station in Ohio and Mississippi Valleys
+### § 562a. Forest experiment station in Ohio and Mississippi Valleys
 
 The Secretary of Agriculture is authorized to establish and maintain a forest experiment station in the States of the Ohio Valley and central Mississippi Valley, at such a place or places as may be selected by him, and he is authorized and directed to conduct silvicultural, forest-fire, dendrological, and other experiments and investigations, independently or in cooperation with other branches of the Federal Government, and with States, universities, colleges, county and municipal agencies, associations, and individuals, to determine the best methods for the growing, management, and protection of timber crops on forest lands and farm wood lots. Such annual appropriations as may thereafter be necessary for its maintenance and operation are hereby authorized.
 
-(July 3, 1926, ch. 767, §§ 1, 2, 44 Stat. 838.)
+(July 3, 1926, ch. 767, §§ 1, 2, 44 Stat. 838.)
 
 **Editorial Notes**
 
@@ -1029,17 +1029,17 @@ The Secretary of Agriculture is authorized to establish and maintain a forest ex
 
 A provision authorizing an appropriation of $30,000 for fiscal year ending June 30, 1927, for establishment of the forest experiment station referred to in this section was omitted as executed.
 
-### § 562b. Forest experiment station in Pennsylvania
+### § 562b. Forest experiment station in Pennsylvania
 
 In order to determine and demonstrate the best methods for the growing, management, and protection of timber crops on forest lands and farm wood lots, the Secretary of Agriculture is authorized and directed to establish and maintain a forest experiment station at such place or places as may be determined as most suitable by him, in cooperation with the State of Pennsylvania and with the neighboring States, and to conduct such silvicultural and other forest experiments and investigations as may be necessary, either independently or in cooperation with other organizations, institutions, or individuals, and to carry out the purposes of this section an appropriation in the amount of $30,000 is authorized.
 
 (July 3, 1926, ch. 770, 44 Stat. 840.)
 
-### § 563. Cooperation with States for fire protection on private or State forest lands upon the watersheds of navigable rivers
+### § 563. Cooperation with States for fire protection on private or State forest lands upon the watersheds of navigable rivers
 
 The Secretary of Agriculture is authorized, and on such conditions as he deems wise, to stipulate and agree with any State or group of States to cooperate in the organization and maintenance of a system of fire protection on any private or State forest lands within such State or States and situated upon the watershed of a navigable river. No such stipulation or agreement shall be made with any State which has not provided by law for a system of forest-fire protection. In no case shall the amount expended in any State exceed in any fiscal year the amount appropriated by that State for the same purpose during the same fiscal year.
 
-(Mar. 1, 1911, ch. 186, § 2, 36 Stat. 961.)
+(Mar. 1, 1911, ch. 186, § 2, 36 Stat. 961.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1047,11 +1047,11 @@ The Secretary of Agriculture is authorized, and on such conditions as he deems w
 
 Fiscal year transition period of July 1, 1976, through Sept. 30, 1976, deemed fiscal year for purposes of this section relating to matching requirements, see section 202(1) of Pub. L. 94–274, Apr. 21, 1976, 90 Stat. 390, set out as a note under section 2652 of Title 7, Agriculture.
 
-### §§ 564, 565. Repealed. Pub. L. 95–313, § 16(a)(1), formerly § 13(a)(1), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(1), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
+### §§ 564, 565. Repealed. Pub. L. 95–313, § 16(a)(1), formerly § 13(a)(1), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(1), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
 
-Section 564, act June 7, 1924, ch. 348, § 1, 43 Stat. 653, required cooperation between the Secretary of Agriculture and State officials as to recommendations for forest fire prevention and suppression systems.
+Section 564, act June 7, 1924, ch. 348, § 1, 43 Stat. 653, required cooperation between the Secretary of Agriculture and State officials as to recommendations for forest fire prevention and suppression systems.
 
-Section 565, acts June 7, 1924, ch. 348, § 2, 43 Stat. 653; Mar. 3, 1925, ch. 447, 43 Stat. 1127; Apr. 13, 1926, ch. 119, 44 Stat. 242; Sept. 21, 1944, ch. 412, title II, § 207, 58 Stat. 736; July 25, 1947, ch. 327, § 1, 61 Stat. 449, required cooperation between the Secretary of Agriculture and State officials in fire protection of timbered and forest-producing lands.
+Section 565, acts June 7, 1924, ch. 348, § 2, 43 Stat. 653; Mar. 3, 1925, ch. 447, 43 Stat. 1127; Apr. 13, 1926, ch. 119, 44 Stat. 242; Sept. 21, 1944, ch. 412, title II, § 207, 58 Stat. 736; July 25, 1947, ch. 327, § 1, 61 Stat. 449, required cooperation between the Secretary of Agriculture and State officials in fire protection of timbered and forest-producing lands.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1059,11 +1059,11 @@ Section 565, acts June 7, 1924, ch. 348, § 2, 43 Stat. 653; Mar. 3, 1925, ch.
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of this title.
 
-### § 565a. Cooperation by Secretary of Agriculture with Territories
+### § 565a. Cooperation by Secretary of Agriculture with Territories
 
-The Secretary of Agriculture is authorized to cooperate with the Territories of the United States on the same terms and conditions as with States under sections 564 and 565 1
+The Secretary of Agriculture is authorized to cooperate with the Territories of the United States on the same terms and conditions as with States under sections 564 and 565 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -1073,19 +1073,19 @@ of this title.
 
 **References in Text**
 
-Sections 564 and 565 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.
+Sections 564 and 565 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.
 
-### § 565a–1. Cooperative agreements between Secretary of Agriculture and public or private agencies, organizations, institutions, and persons covering Forest Service programs; authority; funding
+### § 565a–1. Cooperative agreements between Secretary of Agriculture and public or private agencies, organizations, institutions, and persons covering Forest Service programs; authority; funding
 
 To facilitate the administration of the programs and activities of the Forest Service, the Secretary is authorized to negotiate and enter into cooperative agreements with public or private agencies, organizations, institutions, or persons to construct, operate, and maintain cooperative pollution abatement equipment and facilities, including sanitary landfills, water systems, and sewer systems; to engage in cooperative manpower and job training and development programs; to develop and publish cooperative environmental education and forest history materials; and to perform forestry protection, including fire protection, timber stand improvement, debris removal, and thinning of trees. The Secretary may enter into aforesaid agreements when he determines that the public interest will be benefited and that there exists a mutual interest other than monetary considerations. In such cooperative arrangements, the Secretary is authorized to advance or reimburse funds to cooperators from any Forest Service appropriation available for similar kinds of work or by furnishing or sharing materials, supplies, facilities, or equipment without regard to the provisions of section 3324(a) and (b) of title 31, relating to the advance of public moneys.
 
-(Pub. L. 94–148, § 1, Dec. 12, 1975, 89 Stat. 804.)
+(Pub. L. 94–148, § 1, Dec. 12, 1975, 89 Stat. 804.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 3324(a) and (b) of title 31” substituted in text for “the Act of January 31, 1823 (Rev. Stat. 3648, as amended; 31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 3324(a) and (b) of title 31” substituted in text for “the Act of January 31, 1823 (Rev. Stat. 3648, as amended; 31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1095,7 +1095,7 @@ Chapter 63 of title 31 not applicable to an agreement entered into under this se
 
 **Forest Service Partnership Agreements**
 
-Pub. L. 113–76, div. G, title IV, § 426, Jan. 17, 2014, 128 Stat. 344, provided that:
+Pub. L. 113–76, div. G, title IV, § 426, Jan. 17, 2014, 128 Stat. 344, provided that:
 
 > **“(a) Agreements Authorized.—** The Secretary of Agriculture may enter into an agreement under section 1 of Public Law 94–148 (16 U.S.C. 565a–1) with a Federal, tribal, State, or local government or a nonprofit entity for the following additional purposes:
 
@@ -1115,49 +1115,49 @@ Pub. L. 113–76, div. G, title IV, § 426, Jan. 17, 2014, 128 Stat. 344, prov
 
 > **“(c) Duration.—** The authority provided by subsections (a) and (b) expires September 30, 2019.”
 
-[Pub. L. 119–74, div. C, title IV, § 423, Jan. 23, 2026, 140 Stat. 163, provided that: “Section 426 of division G of Public Law 113–76 (16 U.S.C. 565a–1 note) [set out above] shall be applied by substituting ‘September 30, 2026’ for ‘September 30, 2019’.” ]
+[Pub. L. 119–74, div. C, title IV, § 423, Jan. 23, 2026, 140 Stat. 163, provided that: “Section 426 of division G of Public Law 113–76 (16 U.S.C. 565a–1 note) [set out above] shall be applied by substituting ‘September 30, 2026’ for ‘September 30, 2019’.” ]
 
 [Similar provisions were contained in the following prior appropriation acts:
 
-[Pub. L. 118–42, div. E, title IV, § 425, Mar. 9, 2024, 138 Stat. 290.]
+[Pub. L. 118–42, div. E, title IV, § 425, Mar. 9, 2024, 138 Stat. 290.]
 
-[Pub. L. 117–328, div. G, title IV, § 425, Dec. 29, 2022, 136 Stat. 4826.]
+[Pub. L. 117–328, div. G, title IV, § 425, Dec. 29, 2022, 136 Stat. 4826.]
 
-[Pub. L. 117–103, div. G, title IV, § 425, Mar. 15, 2022, 136 Stat. 415.]
+[Pub. L. 117–103, div. G, title IV, § 425, Mar. 15, 2022, 136 Stat. 415.]
 
-[Pub. L. 116–260, div. G, title IV, § 427, Dec. 27, 2020, 134 Stat. 1542.]
+[Pub. L. 116–260, div. G, title IV, § 427, Dec. 27, 2020, 134 Stat. 1542.]
 
-[Pub. L. 116–94, div. D, title IV, § 430, Dec. 20, 2019, 133 Stat. 2749.]
+[Pub. L. 116–94, div. D, title IV, § 430, Dec. 20, 2019, 133 Stat. 2749.]
 
 **Mutual Benefit of Agreements to Forest Service and Other Parties**
 
-Pub. L. 108–7, div. F, title III, § 321, Feb. 20, 2003, 117 Stat. 274, as amended by Pub. L. 109–54, title IV, § 426, Aug. 2, 2005, 119 Stat. 555; Pub. L. 110–161, div. F, title IV, § 417, Dec. 26, 2007, 121 Stat. 2149, provided that: “Until September 30, 2010, the authority of the Secretary of Agriculture to enter into an agreement under the first section of Public Law 94–148 (16 U.S.C. 565a–1) for a purpose described in such section includes the authority to use that legal instrument when the principal purpose of the resulting relationship is to the mutually significant benefit of the Forest Service and the other party or parties to the agreement, including nonprofit entities. An agreement entered into under this section shall not be subject to Public Law 95–224, Federal Grant and Cooperative Agreement Act (1977) [see section 6301 et seq. of Title 31, Money and Finance].”
+Pub. L. 108–7, div. F, title III, § 321, Feb. 20, 2003, 117 Stat. 274, as amended by Pub. L. 109–54, title IV, § 426, Aug. 2, 2005, 119 Stat. 555; Pub. L. 110–161, div. F, title IV, § 417, Dec. 26, 2007, 121 Stat. 2149, provided that: “Until September 30, 2010, the authority of the Secretary of Agriculture to enter into an agreement under the first section of Public Law 94–148 (16 U.S.C. 565a–1) for a purpose described in such section includes the authority to use that legal instrument when the principal purpose of the resulting relationship is to the mutually significant benefit of the Forest Service and the other party or parties to the agreement, including nonprofit entities. An agreement entered into under this section shall not be subject to Public Law 95–224, Federal Grant and Cooperative Agreement Act (1977) [see section 6301 et seq. of Title 31, Money and Finance].”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 107–63, title III, § 328, Nov. 5, 2001, 115 Stat. 470.
+Pub. L. 107–63, title III, § 328, Nov. 5, 2001, 115 Stat. 470.
 
-### § 565a–2. Federal employee status of cooperators
+### § 565a–2. Federal employee status of cooperators
 
 In any agreement authorized by section 565a–1 of this title, cooperators and their employees may perform cooperative work under supervision of the Forest Service in emergencies or otherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for the purposes of chapter 171 of title 28 and chapter 81 of title 5.
 
-(Pub. L. 94–148, § 2, Dec. 12, 1975, 89 Stat. 804.)
+(Pub. L. 94–148, § 2, Dec. 12, 1975, 89 Stat. 804.)
 
-### § 565a–3. Agreements otherwise authorized by law
+### § 565a–3. Agreements otherwise authorized by law
 
 Nothing in sections 565a–1 to 565a–3 of this title shall be construed as limiting or modifying the authority of the Secretary to enter into cooperative agreements otherwise authorized by law.
 
-(Pub. L. 94–148, § 3, Dec. 12, 1975, 89 Stat. 804.)
+(Pub. L. 94–148, § 3, Dec. 12, 1975, 89 Stat. 804.)
 
-### § 565b. Transfer of fire lookout towers and other improvements for fire control to States, political subdivisions or agencies; reversion
+### § 565b. Transfer of fire lookout towers and other improvements for fire control to States, political subdivisions or agencies; reversion
 
 The Secretary of Agriculture is authorized, subject to such conditions as he may prescribe, to transfer, without reimbursement or at such prices and upon such terms as he may impose, to States and political subdivisions or agencies thereof fire lookout towers and other structures or improvements used by the Forest Service for fire prevention or suppression purposes, and the land used in connection therewith if such land is outside national forest boundaries, when they are no longer needed by the Forest Service for such purposes but are of value to the State or political subdivision or agency thereof in its fire protection system: *Provided*, That if any property so transferred is not put to use for the purpose for which it was transferred within two years from the date of transfer, or if, within fifteen years from the date of transfer, any such property should cease to be used for the purpose for which it was transferred for a period of two years, title thereto shall revert to and immediately revest in the United States.
 
-(Pub. L. 85–464, § 5, June 20, 1958, 72 Stat. 217.)
+(Pub. L. 85–464, § 5, June 20, 1958, 72 Stat. 217.)
 
-### § 566. Repealed. Pub. L. 95–313, § 16(a)(1), formerly § 13(a)(1), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(1), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
+### § 566. Repealed. Pub. L. 95–313, § 16(a)(1), formerly § 13(a)(1), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(1), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
 
-Section, acts June 7, 1924, ch. 348, § 3, 43 Stat. 653; May 5, 1944, ch. 189, 58 Stat. 216; May 5, 1972, Pub. L. 92–288, § 3(a), 86 Stat. 134, authorized expenditures by the Secretary of Agriculture for study of effects of tax and other laws on forest perpetuation, etc.
+Section, acts June 7, 1924, ch. 348, § 3, 43 Stat. 653; May 5, 1944, ch. 189, 58 Stat. 216; May 5, 1972, Pub. L. 92–288, § 3(a), 86 Stat. 134, authorized expenditures by the Secretary of Agriculture for study of effects of tax and other laws on forest perpetuation, etc.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1165,15 +1165,15 @@ Section, acts June 7, 1924, ch. 348, § 3, 43 Stat. 653; May 5, 1944, ch. 189,
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of this title.
 
-### § 566a. Repealed. Pub. L. 92–288, § 3(b), May 5, 1972, 86 Stat. 134
+### § 566a. Repealed. Pub. L. 92–288, § 3(b), May 5, 1972, 86 Stat. 134
 
-Section, act Oct. 26, 1949, ch. 735, § 1, 63 Stat. 909, provided for annual authorization of appropriations for carrying out sections 564, 565, and 566 of this title, with maximum limits for the fiscal years ending June 30, 1950 through June 30, 1954.
+Section, act Oct. 26, 1949, ch. 735, § 1, 63 Stat. 909, provided for annual authorization of appropriations for carrying out sections 564, 565, and 566 of this title, with maximum limits for the fiscal years ending June 30, 1950 through June 30, 1954.
 
-### § 566b. Annual appropriations; limitation on use of other funds for the purposes of sections 564, 565, and 566 1 [footnote: 1 See References in Text note below.]
+### § 566b. Annual appropriations; limitation on use of other funds for the purposes of sections 564, 565, and 566 1 [footnote: 1 See References in Text note below.]
 
-Notwithstanding any other provision of law, no funds heretofore or hereafter authorized to be appropriated to the Department of Agriculture or available under any other than the Act of June 7, 1924 (43 Stat. 653), shall be used for carrying out the programs or activities authorized by sections 564, 565, and 566 <sup>1</sup> of this title: *Provided*, That whenever the programs and activities being carried out under the provisions of sections 564, 565, and 566 <sup>1</sup> of this title are inadequate to the needs and purposes of programs and activities authorized by other law the use of funds specifically authorized to be appropriated to the Department of Agriculture or made available under other law shall not be prohibited to the extent that the programs and activities under said sections are inadequate to accomplish the purposes of such other programs or activities.
+Notwithstanding any other provision of law, no funds heretofore or hereafter authorized to be appropriated to the Department of Agriculture or available under any other than the Act of June 7, 1924 (43 Stat. 653), shall be used for carrying out the programs or activities authorized by sections 564, 565, and 566 <sup>1</sup> of this title: *Provided*, That whenever the programs and activities being carried out under the provisions of sections 564, 565, and 566 <sup>1</sup> of this title are inadequate to the needs and purposes of programs and activities authorized by other law the use of funds specifically authorized to be appropriated to the Department of Agriculture or made available under other law shall not be prohibited to the extent that the programs and activities under said sections are inadequate to accomplish the purposes of such other programs or activities.
 
-(Oct. 26, 1949, ch. 735, § 4, 63 Stat. 910.)
+(Oct. 26, 1949, ch. 735, § 4, 63 Stat. 910.)
 
 **Editorial Notes**
 
@@ -1181,11 +1181,11 @@ Notwithstanding any other provision of law, no funds heretofore or hereafter aut
 
 Act of June 7, 1924, referred to in text, is act June 7, 1924, ch. 348, 43 Stat. 653, which is classified to sections 471, 499, 505, 515, 564, 565, 566, 567, 568, 569, and 570 of this title. For complete classification of this Act to the Code, see Tables.
 
-Sections 564, 565, and 566 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.
+Sections 564, 565, and 566 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.
 
-### § 567. Repealed. Pub. L. 95–313, § 16(a)(1), formerly § 13(a)(1), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(1), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
+### § 567. Repealed. Pub. L. 95–313, § 16(a)(1), formerly § 13(a)(1), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(1), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
 
-Section, acts June 7, 1924, ch. 348, § 4, 43 Stat. 654; Oct. 26, 1949, ch. 735, § 2, 63 Stat. 909, required cooperation between Secretary of Agriculture and States in procuring, etc., forest-tree seeds and plants.
+Section, acts June 7, 1924, ch. 348, § 4, 43 Stat. 654; Oct. 26, 1949, ch. 735, § 2, 63 Stat. 909, required cooperation between Secretary of Agriculture and States in procuring, etc., forest-tree seeds and plants.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1193,13 +1193,13 @@ Section, acts June 7, 1924, ch. 348, § 4, 43 Stat. 654; Oct. 26, 1949, ch. 73
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of this title.
 
-### § 567a. Cooperation by Secretary of Agriculture with States in acquisition and administration of State forests
+### § 567a. Cooperation by Secretary of Agriculture with States in acquisition and administration of State forests
 
 For the purpose of stimulating the acquisition, development, and proper administration and management of State forests and of insuring coordinated effort by Federal and State agencies in carrying out a comprehensive national program of forest-land management, the Secretary of Agriculture is authorized to enter into cooperative agreements with appropriate officials of any State or States for acquiring in the name of the United States, by purchase or otherwise, such forest lands within the cooperating State as in his judgment the State is adequately prepared to administer, develop, and manage as State forests in accordance with the provisions of sections 567a to 567c of this title and with such other terms not inconsistent therewith as he shall prescribe, such acquisition to include the mapping, examination, appraisal, and surveying of such lands and the doing of all things necessary to perfect title thereto in the United States: *Provided*, That, since it is the declared policy of Congress to maintain and, where it is in the national interest to extend the national-forest system, nothing herein shall be construed to modify, limit, or change in any manner whatsoever the future ownership and administration by the United States of existing national forests and related facilities, or hereafter to restrict or prevent their extension through the acquisition by purchase or otherwise of additional lands for any national-forest purpose: *Provided further*, That sections 567a to 567c of this title shall not be construed to limit or repeal any legislation authorizing land exchanges by the Federal Government, and private lands acquired by exchange within the limits of any area subject to a cooperative agreement of the character herein authorized shall hereafter be subject to the provisions of sections 567a to 567c of this title.
 
-(Aug. 29, 1935, ch. 808, § 1, 49 Stat. 963.)
+(Aug. 29, 1935, ch. 808, § 1, 49 Stat. 963.)
 
-### § 567b. Conditions and requirements for cooperation in acquisition and management of State forests
+### § 567b. Conditions and requirements for cooperation in acquisition and management of State forests
 
 No cooperative agreement shall be entered into or continued in force under the authority of sections 567a to 567c of this title or any land acquired hereunder turned over to the cooperating State for administration, development, and management unless the State concerned, as a consideration for the benefits extended to it thereunder, complies in a manner satisfactory to the Secretary of Agriculture with the following conditions and requirements which shall constitute a part of every such agreement:
 
@@ -1225,7 +1225,7 @@ No cooperative agreement shall be entered into or continued in force under the a
 
 **(k)** When a State or political unit thereof acquires under tax delinquency laws title to forest lands without cost to the United States and which lands are included within a State or other public forest, the Secretary of Agriculture, on behalf of the Federal Government, may contribute annually out of any funds made available under sections 567a to 567c of this title not to exceed one-half the cost of administering, developing, and managing said lands.
 
-(Aug. 29, 1935, ch. 808, § 2, 49 Stat. 963.)
+(Aug. 29, 1935, ch. 808, § 2, 49 Stat. 963.)
 
 **Editorial Notes**
 
@@ -1233,17 +1233,17 @@ No cooperative agreement shall be entered into or continued in force under the a
 
 The National Forest Reservation Commission, referred to in subsecs. (d), (e), and (i), was created by section 4 of act Mar. 1, 1911 (16 U.S.C. 513). Section 4 of the 1911 Act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.
 
-### § 567c. Authorization of appropriation for cooperation in acquisition and management of State forests
+### § 567c. Authorization of appropriation for cooperation in acquisition and management of State forests
 
 For the purposes of sections 567a to 567c of this title, there is authorized to be appropriated, a sum or sums out of any money in the Treasury not otherwise appropriated, not to exceed $5,000,000, as Congress may from time to time appropriate.
 
-(Aug. 29, 1935, ch. 808, § 3, 49 Stat. 965.)
+(Aug. 29, 1935, ch. 808, § 3, 49 Stat. 965.)
 
-### § 568. Cooperation by Secretary of Agriculture with States in establishing, etc., wood lots, shelter belts, windbreaks, etc.; limitation on expenditure; authorization of appropriations
+### § 568. Cooperation by Secretary of Agriculture with States in establishing, etc., wood lots, shelter belts, windbreaks, etc.; limitation on expenditure; authorization of appropriations
 
 The Secretary of Agriculture is authorized and directed, in cooperation with the land grant colleges and universities of the various States or, in his discretion, with other suitable State agencies, to aid farmers through advice, education, demonstrations, and other similar means in establishing, renewing, protecting, and managing wood lots, shelter belts, windbreaks, and other valuable forest growth, and in harvesting, utilizing, and marketing the products thereof. Except for preliminary investigations, the amount expended by the Federal Government under this section in cooperation with any State or other cooperating agency during any fiscal year shall not exceed the amount expended by the State or other cooperating agency for the same purpose during the same fiscal year, and the Secretary of Agriculture is authorized to make expenditures on the certificate of the appropriate State official that the State expenditures, as provided for in this section, have been made. There is authorized to be appropriated annually out of any money in the Treasury not otherwise appropriated, not more than $500,000 to enable the Secretary of Agriculture to carry out the provisions of this section.
 
-(June 7, 1924, ch. 348, § 5, 43 Stat. 654; Oct. 26, 1949, ch. 735, § 3, 63 Stat. 910.)
+(June 7, 1924, ch. 348, § 5, 43 Stat. 654; Oct. 26, 1949, ch. 735, § 3, 63 Stat. 910.)
 
 **Editorial Notes**
 
@@ -1259,17 +1259,17 @@ Fiscal year transition period of July 1, 1976, through Sept. 30, 1976, deemed fi
 
 **Contributions by States, etc.**
 
-Act Sept. 21, 1944, ch. 412, title II, § 208, 58 Stat. 736, provided: “No part of any appropriation which is available for carrying out the Cooperative Farm Forestry Act (16 U.S.C. 568b) [repealed] and sections 4 and 5 of the Clarke-McNary Act (16 U.S.C. 567 [repealed], 568) shall be expended in any State or Territory unless the State or Territory, or local subdivision thereof, or individuals, or associations contribute a sum equal to that to be allotted therefrom by the Government or make contributions other than money deemed by the Secretary to be the value equivalent thereof.”
+Act Sept. 21, 1944, ch. 412, title II, § 208, 58 Stat. 736, provided: “No part of any appropriation which is available for carrying out the Cooperative Farm Forestry Act (16 U.S.C. 568b) [repealed] and sections 4 and 5 of the Clarke-McNary Act (16 U.S.C. 567 [repealed], 568) shall be expended in any State or Territory unless the State or Territory, or local subdivision thereof, or individuals, or associations contribute a sum equal to that to be allotted therefrom by the Government or make contributions other than money deemed by the Secretary to be the value equivalent thereof.”
 
 **Appropriations Available for 3 Years**
 
-Act Sept. 21, 1944, ch. 412, title II, § 209, 58 Stat. 737, provided: “Appropriations for carrying out the Cooperative Farm Forestry Act (16 U.S.C. 568b) [repealed] and sections 4 and 5 of the Clarke-McNary Act (16 U.S.C. 567 [repealed], 568) and Acts supplementary thereto allocated for the production or procurement of nursery stock by any Federal agency, or funds appropriated to any Federal agency for allocation to cooperating States for the production or procurement of nursery stock, shall remain available for expenditure for not more than three fiscal years.”
+Act Sept. 21, 1944, ch. 412, title II, § 209, 58 Stat. 737, provided: “Appropriations for carrying out the Cooperative Farm Forestry Act (16 U.S.C. 568b) [repealed] and sections 4 and 5 of the Clarke-McNary Act (16 U.S.C. 567 [repealed], 568) and Acts supplementary thereto allocated for the production or procurement of nursery stock by any Federal agency, or funds appropriated to any Federal agency for allocation to cooperating States for the production or procurement of nursery stock, shall remain available for expenditure for not more than three fiscal years.”
 
-### § 568a. Cooperation by Secretary of Agriculture with Territories and other possessions
+### § 568a. Cooperation by Secretary of Agriculture with Territories and other possessions
 
 The Secretary of Agriculture is authorized to cooperate with Territories and other possessions of the United States on the same terms and conditions as with States under sections 566, 567,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 568 of this title.
 
@@ -1279,19 +1279,19 @@ and 568 of this title.
 
 **References in Text**
 
-Sections 566 and 567 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.
+Sections 566 and 567 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.
 
-### § 568b. Repealed. Aug. 25, 1950, ch. 781, § 3, 64 Stat. 473, eff. June 30, 1951
+### § 568b. Repealed. Aug. 25, 1950, ch. 781, § 3, 64 Stat. 473, eff. June 30, 1951
 
 Section, act May 18, 1937, ch. 226, 50 Stat. 188, related to cooperation by Secretary of Agriculture in development of farm forestry in States and Territories. This section was known as the “Cooperative Farm Forestry Act”.
 
-### §§ 568c to 568e. Repealed. Pub. L. 95–313, § 16(a)(4), (5), formerly § 13(a)(4), (5), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(4), (5), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
+### §§ 568c to 568e. Repealed. Pub. L. 95–313, § 16(a)(4), (5), formerly § 13(a)(4), (5), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(4), (5), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
 
-Section 568c, acts Aug. 25, 1950, ch. 781, § 1, 64 Stat. 473; May 5, 1972, Pub. L. 92–288, § 1, 86 Stat. 134, required cooperation between Secretary of Agriculture and State officials in providing technical services to private landowners, etc.
+Section 568c, acts Aug. 25, 1950, ch. 781, § 1, 64 Stat. 473; May 5, 1972, Pub. L. 92–288, § 1, 86 Stat. 134, required cooperation between Secretary of Agriculture and State officials in providing technical services to private landowners, etc.
 
-Section 568d, acts Aug. 25, 1950, ch. 781, § 2, 64 Stat. 473; Sept. 25, 1962, Pub. L. 87–680, 76 Stat. 569; May 5, 1972, Pub. L. 92–288, § 2, 86 Stat. 134, set forth funding requirements for cooperative forest management programs involving private landowners, etc.
+Section 568d, acts Aug. 25, 1950, ch. 781, § 2, 64 Stat. 473; Sept. 25, 1962, Pub. L. 87–680, 76 Stat. 569; May 5, 1972, Pub. L. 92–288, § 2, 86 Stat. 134, set forth funding requirements for cooperative forest management programs involving private landowners, etc.
 
-Section 568e, act May 28, 1956, ch. 327, title IV, § 401, 70 Stat. 207, set forth provisions relating to assistance to States for tree planting and reforestation through the Secretary of Agriculture.
+Section 568e, act May 28, 1956, ch. 327, title IV, § 401, 70 Stat. 207, set forth provisions relating to assistance to States for tree planting and reforestation through the Secretary of Agriculture.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1301,23 +1301,23 @@ Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an
 
 **Short Title**
 
-Section 4 of act Aug. 25, 1950, setting forth the popular name of the act of Aug. 25, 1950, as the “Cooperative Forest Management Act,” was repealed by Pub. L. 95–313, § 16(a)(4), formerly § 13(a)(4), July 1, 1978, 92 Stat. 374, renumbered § 16(a)(4), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.
+Section 4 of act Aug. 25, 1950, setting forth the popular name of the act of Aug. 25, 1950, as the “Cooperative Forest Management Act,” was repealed by Pub. L. 95–313, § 16(a)(4), formerly § 13(a)(4), July 1, 1978, 92 Stat. 374, renumbered § 16(a)(4), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.
 
-### §§ 568f, 568g. Omitted
+### §§ 568f, 568g. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 568f, act May 28, 1956, ch. 327, title IV, § 402, 70 Stat. 208, required the Secretary of Agriculture to make a study of price trends and relationships for basic forest products and submit a report to the Congress within one year from May 28, 1956.
+Section 568f, act May 28, 1956, ch. 327, title IV, § 402, 70 Stat. 208, required the Secretary of Agriculture to make a study of price trends and relationships for basic forest products and submit a report to the Congress within one year from May 28, 1956.
 
-Section 568g, act May 28, 1956, ch. 327, title IV, § 403, as added Aug. 28, 1958, Pub. L. 85–829, 72 Stat. 986, which provided that as used in section 568e of this title, the term “State” included the Territory of Hawaii, is obsolete in view of the repeal of section 568e of this title by Pub. L. 95–313, § 13(a)(5), July 1, 1978, 92 Stat. 374.
+Section 568g, act May 28, 1956, ch. 327, title IV, § 403, as added Aug. 28, 1958, Pub. L. 85–829, 72 Stat. 986, which provided that as used in section 568e of this title, the term “State” included the Territory of Hawaii, is obsolete in view of the repeal of section 568e of this title by Pub. L. 95–313, § 13(a)(5), July 1, 1978, 92 Stat. 374.
 
-### § 569. Donations to United States of lands for timber purposes
+### § 569. Donations to United States of lands for timber purposes
 
 To enable owners of lands chiefly valuable for the growing of timber crops to donate or devise such lands to the United States in order to assure future timber supplies for the agricultural and other industries of the State or for other national forest purposes, the Secretary of Agriculture is authorized, in his discretion, to accept on behalf of the United States title to any such land so donated or devised, subject to such reservations by the donor of the present stand of merchantable timber or of mineral or other rights for a period not exceeding twenty years as the Secretary of Agriculture may find to be reasonable and not detrimental to the purposes of this section, and to pay out of any moneys appropriated for the general expenses of the Forest Service the cost of recording deeds or other expenses incident to the examination and acceptance of title. Any lands to which title is so accepted shall be in units of such size or so located as to be capable of economical administration as national forests either separately or jointly with other lands acquired under this section, or jointly with an existing national forest. All lands to which title is accepted under this section shall, upon acceptance of title, become national forest lands, subject to all laws applicable to lands acquired under the Act of March 1, 1911, and amendments thereto. In the sale of timber from national forest lands acquired under this section preference shall be given to applicants who will furnish the products desired therefrom to meet the necessities of citizens of the United States engaged in agriculture in the States in which such national forest is situated. All property, rights, easements, and benefits authorized by this section to be retained by or reserved to owners of lands donated or devised to the United States shall be subject to the tax laws of the States where such lands are located.
 
-(June 7, 1924, ch. 348, § 7, 43 Stat. 654.)
+(June 7, 1924, ch. 348, § 7, 43 Stat. 654.)
 
 **Editorial Notes**
 
@@ -1325,11 +1325,11 @@ To enable owners of lands chiefly valuable for the growing of timber crops to do
 
 Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
-### § 570. Ascertainment by Secretary of Agriculture of public lands valuable for stream-flow protection and report thereof
+### § 570. Ascertainment by Secretary of Agriculture of public lands valuable for stream-flow protection and report thereof
 
 The Secretary of Agriculture is authorized to ascertain and determine the location of public lands chiefly valuable for stream-flow protection or for timber production, which can be economically administered as parts of national forests, and to report his findings to the National Forest Reservation Commission established under the Act of March 1, 1911, and if the commission shall determine that the administration of said lands by the Federal Government will protect the flow of streams used for navigation or for irrigation, or will promote a future timber supply, the President shall lay the findings of the commission before the Congress of the United States.
 
-(June 7, 1924, ch. 348, § 8, 43 Stat. 655.)
+(June 7, 1924, ch. 348, § 8, 43 Stat. 655.)
 
 **Editorial Notes**
 
@@ -1337,11 +1337,11 @@ The Secretary of Agriculture is authorized to ascertain and determine the locati
 
 The National Forest Reservation Commission, referred to in text, was established under section 4 of Act Mar. 1, 1911 (16 U.S.C. 513). Section 4 of the 1911 act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.
 
-### § 571. Repealed. Apr. 24, 1950, ch. 97, § 17(a), 64 Stat. 87
+### § 571. Repealed. Apr. 24, 1950, ch. 97, § 17(a), 64 Stat. 87
 
-Section, act Mar. 3, 1925, ch. 457, § 2, 43 Stat. 1132, related to construction of buildings for national forest purposes.
+Section, act Mar. 3, 1925, ch. 457, § 2, 43 Stat. 1132, related to construction of buildings for national forest purposes.
 
-### §§ 571a, 571b. Omitted
+### §§ 571a, 571b. Omitted
 
 **Editorial Notes**
 
@@ -1419,19 +1419,19 @@ June 22, 1946, ch. 445, 60 Stat. 283.
 
 May 5, 1945, ch. 109, 59 Stat. 152.
 
-### § 571c. Erection of permanent facilities on land not owned by United States; long term leases
+### § 571c. Erection of permanent facilities on land not owned by United States; long term leases
 
 Notwithstanding the provisions of existing law and without regard to sections 3111 and 3112 of title 40, but within the limitations of cost otherwise applicable, appropriations of the Forest Service may be expended for the erection of buildings, lookout towers, and other structures on land owned by States, counties, municipalities, or other political subdivisions, corporations, or individuals: *Provided*, That prior to such erection there is obtained the right to use the land for the estimated life of or need for the structure, including the right to remove any such structure within a reasonable time after the termination of the right to use the land.
 
-(Apr. 24, 1950, ch. 97, § 1, 64 Stat. 82.)
+(Apr. 24, 1950, ch. 97, § 1, 64 Stat. 82.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Sections 3111 and 3112 of title 40” substituted in text for “section 355, Revised Statutes, as amended (40 U.S.C. 255)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3111 and 3112 of title 40” substituted in text for “section 355, Revised Statutes, as amended (40 U.S.C. 255)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-### § 572. Cooperation between Secretary of Agriculture and public or private agencies in working land under State or private ownership
+### § 572. Cooperation between Secretary of Agriculture and public or private agencies in working land under State or private ownership
 
 **(a) Payment of expenses by interested parties; work contemplated**
 
@@ -1445,7 +1445,7 @@ Cooperation and assistance on the same basis as that authorized in subsection (a
 
 Moneys deposited under this section shall be covered into the Treasury and shall constitute a special fund, which is made available until expended for payment of the cost of work performed by the Forest Service and for refunds to depositors of amounts deposited by them in excess of their share of said cost: *Provided*, That when deposits are received for a number of similar types of work on adjacent or overlapping areas, or on areas which in the aggregate are determined to cover a single work unit, they may be expended on such combined areas for the purposes for which deposited, in which event refunds to the depositors of the total amount of the excess deposits involved will be made on a proportionate basis: *Provided further*, That when so provided by written agreement payment for work undertaken pursuant to this section may be made from any Forest Service appropriation available for similar types of work, and reimbursement received from said agencies, organizations, institutions, or persons covering their proportionate share of the cost and the funds received as reimbursement shall be deposited to the credit of the Forest Service appropriation from which initially paid or to appropriations for similar purposes currently available at the time of deposit: *Provided further*, That when by the terms of a written agreement either party thereto furnishes materials, supplies, equipment, or services for fire emergencies in excess of its proportionate share, adjustment may be made by reimbursement or by replacement in kind of supplies, materials, and equipment consumed or destroyed in excess of the furnishing party’s proportionate share.
 
-(Mar. 3, 1925, ch. 457, § 1, 43 Stat. 1132; Apr. 24, 1950, ch. 97, § 5, 64 Stat. 83.)
+(Mar. 3, 1925, ch. 457, § 1, 43 Stat. 1132; Apr. 24, 1950, ch. 97, § 5, 64 Stat. 83.)
 
 **Editorial Notes**
 
@@ -1463,11 +1463,11 @@ Appropriation of all moneys received as contributions toward cooperative work un
 
 Classification as trust funds, appropriation and disbursement of funds appearing on books of Government as “Cooperative work, Forest Service,” see section 1321 of Title 31, Money and Finance.
 
-### § 572a. Deposits from timber purchasers to defray cost of scaling services
+### § 572a. Deposits from timber purchasers to defray cost of scaling services
 
 The Forest Service may accept money from timber purchasers for deposit into the Treasury in the trust account, “Forest Service cooperative fund”, which moneys are made available for scaling services requested by purchasers in addition to those required by the Forest Service, and for refunds of amounts deposited in excess of the cost of such work.
 
-(Sept. 21, 1944, ch. 412, title II, § 210, 58 Stat. 737.)
+(Sept. 21, 1944, ch. 412, title II, § 210, 58 Stat. 737.)
 
 **Editorial Notes**
 
@@ -1475,15 +1475,15 @@ The Forest Service may accept money from timber purchasers for deposit into the 
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.
 
-### § 573. Repealed. Apr. 24, 1950, ch. 97, § 17(a), 64 Stat. 87
+### § 573. Repealed. Apr. 24, 1950, ch. 97, § 17(a), 64 Stat. 87
 
-Section, act May 27, 1930, ch. 337, § 1, 46 Stat. 387, related to water supply and sanitary systems.
+Section, act May 27, 1930, ch. 337, § 1, 46 Stat. 387, related to water supply and sanitary systems.
 
-### § 574. Damages caused private property in protection, administration, and improvement of national forests; reimbursement
+### § 574. Damages caused private property in protection, administration, and improvement of national forests; reimbursement
 
 The Secretary of Agriculture is authorized to reimburse owners of private property for damage or destruction thereof caused by employees of the United States in connection with the protection, administration, or improvement of the national forests, payment to be made from any funds appropriated for the protection, administration, and improvement of the national forests: *Provided*, That no payment in excess of $2,500 shall be made on any such claim.
 
-(May 27, 1930, ch. 337, § 2, 46 Stat. 387; Pub. L. 87–869, § 8, Oct. 23, 1962, 76 Stat. 1157.)
+(May 27, 1930, ch. 337, § 2, 46 Stat. 387; Pub. L. 87–869, § 8, Oct. 23, 1962, 76 Stat. 1157.)
 
 **Editorial Notes**
 
@@ -1491,17 +1491,17 @@ The Secretary of Agriculture is authorized to reimburse owners of private proper
 
 1962—Pub. L. 87–869 increased from $500 to $2,500 the authorization for reimbursement of owners of private property for damages caused in protection, administration, and improvement of national forests.
 
-### § 575. Search for lost persons, and transportation of sick, injured, or dead persons, within national forests; authorization to incur expense
+### § 575. Search for lost persons, and transportation of sick, injured, or dead persons, within national forests; authorization to incur expense
 
 The Secretary of Agriculture is authorized in cases of emergency to incur such expenses as may be necessary in searching for persons lost in the national forests and in transporting persons seriously ill, injured, or who die within the national forests to the nearest place where the sick or injured person, or the body, may be transferred to interested parties or local authorities.
 
-(May 27, 1930, ch. 337, § 3, 46 Stat. 387.)
+(May 27, 1930, ch. 337, § 3, 46 Stat. 387.)
 
-### § 576. Reforestation; establishment of forest tree nurseries; tree planting; seed sowing and forest improvement work
+### § 576. Reforestation; establishment of forest tree nurseries; tree planting; seed sowing and forest improvement work
 
 The Secretary of Agriculture is authorized to establish forest tree nurseries and do all other things needful in preparation for planting on national forests on the scale possible under the appropriations authorized by section 576a of this title: *Provided*, That nothing in this section shall be deemed to restrict the authority of the said Secretary under other authority of law.
 
-(June 9, 1930, ch. 416, § 1, 46 Stat. 527.)
+(June 9, 1930, ch. 416, § 1, 46 Stat. 527.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1509,19 +1509,19 @@ The Secretary of Agriculture is authorized to establish forest tree nurseries an
 
 The act of June 9, 1930, ch. 416, 46 Stat. 527, as amended, which is classified to sections 576 to 576b of this title, is popularly known as the “Knutson-Vandenberg Act”.
 
-### § 576a. Authorization of appropriation for reforestation
+### § 576a. Authorization of appropriation for reforestation
 
 There is authorized to be appropriated for each fiscal year after year ending June 30, 1934, not to exceed $400,000, to enable the Secretary of Agriculture to establish and operate nurseries, to collect or to purchase tree seed or young trees, to plant trees, and to do all other things necessary for reforestation by planting or seeding national forests and for the additional protection, care, and improvement of the resulting plantations or young growth.
 
-(June 9, 1930, ch. 416, § 2, 46 Stat. 527.)
+(June 9, 1930, ch. 416, § 2, 46 Stat. 527.)
 
-### § 576b. Purchasers of national-forest timber; deposits of money in addition to payments for timber; use of deposits; seedlings and young trees for burned-over areas in national parks
+### § 576b. Purchasers of national-forest timber; deposits of money in addition to payments for timber; use of deposits; seedlings and young trees for burned-over areas in national parks
 
 **(a)** The Secretary of Agriculture may, when in his or her judgment such action will be in the public interest, require any purchaser of national-forest timber to make deposits of money in addition to the payments for the timber, to cover the cost to the United States of (1) planting (including the production or purchase of young trees), (2) sowing with tree seeds (including the collection or purchase of such seeds), (3) cutting, destroying, or otherwise removing undesirable trees or other growth, on the national-forest land cut over by the purchaser, in order to improve the future stand of timber, (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management, or (5) watershed restoration, wildlife habitat improvement, control of insects, disease and noxious weeds, community protection activities, and the maintenance of forest roads, within the Forest Service region in which the timber sale occurred: *Provided*, That such activities may be performed through the use of contracts, forest product sales, and cooperative agreements. Such deposits shall be covered into the Treasury and shall constitute a special fund, which is appropriated and made available until expended, to cover the cost to the United States of such tree planting, seed sowing, and forest improvement work, as the Secretary of Agriculture may direct. The Secretary of Agriculture is authorized, upon application of the Secretary of the Interior, to furnish seedlings and/or young trees for replanting of burned-over areas in any national park.
 
-**(c)**  1
+**(c)** 1
 
-<sup>1</sup>  See 2004 Amendment notes below.
+<sup>1</sup> See 2004 Amendment notes below.
 
 Any portion of the balance at the end of a fiscal year in the special fund established pursuant to this section that the Secretary of Agriculture determines to be in excess of the cost of doing work described in subsection (a) (as well as any portion of the balance in the special fund that the Secretary determined, before October 1, 2004, to be excess of the cost of doing work described in subsection (a), but which has not been transferred by that date) shall be transferred to miscellaneous receipts, National Forest Fund, as a National Forest receipt, but only if the Secretary also determines that—
 
@@ -1529,7 +1529,7 @@ Any portion of the balance at the end of a fiscal year in the special fund estab
 
 **(2)** the amount to be transferred to miscellaneous receipts, National Forest Fund, exceeds the outstanding balance of unreimbursed funds transferred from the special fund in prior fiscal years for wildfire suppression.
 
-(June 9, 1930, ch. 416, § 3, 46 Stat. 527; Pub. L. 94–588, § 18, Oct. 22, 1976, 90 Stat. 2962; Pub. L. 108–447, div. E, title III, § 318, Dec. 8, 2004, 118 Stat. 3096; Pub. L. 109–54, title IV, § 412, Aug. 2, 2005, 119 Stat. 551.)
+(June 9, 1930, ch. 416, § 3, 46 Stat. 527; Pub. L. 94–588, § 18, Oct. 22, 1976, 90 Stat. 2962; Pub. L. 108–447, div. E, title III, § 318, Dec. 8, 2004, 118 Stat. 3096; Pub. L. 109–54, title IV, § 412, Aug. 2, 2005, 119 Stat. 551.)
 
 **Editorial Notes**
 
@@ -1537,23 +1537,23 @@ Any portion of the balance at the end of a fiscal year in the special fund estab
 
 2005—Subsec. (a). Pub. L. 109–54 added cl. (5).
 
-2004—Pub. L. 108–447, § 318(1), which directed the amendment of this section “by striking ‘The Secretary of Agriculture may, when in his’ and inserting ‘(a) The Secretary of Agriculture may, when in his or her’;
+2004—Pub. L. 108–447, § 318(1), which directed the amendment of this section “by striking ‘The Secretary of Agriculture may, when in his’ and inserting ‘(a) The Secretary of Agriculture may, when in his or her’;
 
-‘(b) Amounts deposited under subsection (a)’ ”,
+‘(b) Amounts deposited under subsection (a)’ ”,
 
 was partially executed by designating existing text as subsec. (a) and substituting “The Secretary of Agriculture may, when in his or her” for “The Secretary of Agriculture may, when in his”. However, the provisions relating to subsec. (b) were not inserted, because of missing directory language.
 
-Subsec. (a). Pub. L. 108–447, § 318(2), substituted “may direct. The Secretary of Agriculture” for “may direct: *Provided*, That any portion of any deposit found to be in excess of the cost of doing said work shall, upon the determination that it is so in excess, be transferred to miscellaneous receipts, forest reserve fund, as a national-forest receipt of the fiscal year in which such transfer is made: *Provided further*, That the Secretary of Agriculture”.
+Subsec. (a). Pub. L. 108–447, § 318(2), substituted “may direct. The Secretary of Agriculture” for “may direct: *Provided*, That any portion of any deposit found to be in excess of the cost of doing said work shall, upon the determination that it is so in excess, be transferred to miscellaneous receipts, forest reserve fund, as a national-forest receipt of the fiscal year in which such transfer is made: *Provided further*, That the Secretary of Agriculture”.
 
-Subsec. (c). Pub. L. 108–447, § 318(3), added subsec. (c).
+Subsec. (c). Pub. L. 108–447, § 318(3), added subsec. (c).
 
-1976—Pub. L. 94–588 struck out “or” before “(3)” and substituted “, or (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management” for “: *Provided*, That the total amount so required to be deposited by any purchaser shall not exceed, on an acreage basis, the average cost of planting (including the production or purchase of young trees) other comparable national-forest lands during the previous three years”.
+1976—Pub. L. 94–588 struck out “or” before “(3)” and substituted “, or (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management” for “: *Provided*, That the total amount so required to be deposited by any purchaser shall not exceed, on an acreage basis, the average cost of planting (including the production or purchase of young trees) other comparable national-forest lands during the previous three years”.
 
-### § 576c. Supplemental National Forest Reforestation Fund; establishment; duration; authorization of appropriations
+### § 576c. Supplemental National Forest Reforestation Fund; establishment; duration; authorization of appropriations
 
 Notwithstanding any other provision of law, the Secretary of Agriculture shall establish a “Supplemental National Forest Reforestation Fund”, and transfer to that fund beginning with the fiscal year, commencing July 1, 1972, and ending on September 30, 1987, such amounts as may be appropriated therefor. There is hereby authorized to be appropriated for such purpose for each of the fiscal years during such period the sum of $65,000,000.
 
-(Pub. L. 92–421, § 1, Sept. 18, 1972, 86 Stat. 678; Pub. L. 94–273, § 2(9), Apr. 21, 1976, 90 Stat. 375.)
+(Pub. L. 92–421, § 1, Sept. 18, 1972, 86 Stat. 678; Pub. L. 94–273, § 2(9), Apr. 21, 1976, 90 Stat. 375.)
 
 **Editorial Notes**
 
@@ -1561,31 +1561,31 @@ Notwithstanding any other provision of law, the Secretary of Agriculture shall e
 
 1976—Pub. L. 94–273 substituted “September” for “June”.
 
-### § 576d. Expenditure of Supplemental National Forest Reforestation Fund moneys; availability of moneys from other sources unaffected
+### § 576d. Expenditure of Supplemental National Forest Reforestation Fund moneys; availability of moneys from other sources unaffected
 
-Moneys transferred to the National Forest Reforestation Fund under the provisions of sections 576c to 576e 1
+Moneys transferred to the National Forest Reforestation Fund under the provisions of sections 576c to 576e 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall be available to the Secretary of Agriculture, for expenditure upon appropriation, for the purpose of supplementing programs of tree planting and seeding of national forest lands determined by the Secretary to be in need of reforestation. Such moneys shall be available until expended, and shall be provided without prejudice to appropriations or funds available from other sources for the same purposes, including those available pursuant to section 576b of this title.
 
-(Pub. L. 92–421, § 2, Sept. 18, 1972, 86 Stat. 678.)
+(Pub. L. 92–421, § 2, Sept. 18, 1972, 86 Stat. 678.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 576e of this title, referred to in text, was repealed by Pub. L. 96–470, title I, § 102(b), Oct. 19, 1980, 94 Stat. 2237.
+Section 576e of this title, referred to in text, was repealed by Pub. L. 96–470, title I, § 102(b), Oct. 19, 1980, 94 Stat. 2237.
 
-### § 576e. Repealed. Pub. L. 96–470, title I, § 102(b), Oct. 19, 1980, 94 Stat. 2237
+### § 576e. Repealed. Pub. L. 96–470, title I, § 102(b), Oct. 19, 1980, 94 Stat. 2237
 
-Section, Pub. L. 92–421, § 3, Sept. 18, 1972, 86 Stat. 678, required Secretary of Agriculture to provide, within one year after Sept. 18, 1972, a report to Congress setting forth scope of total national forest reforestation needs and a planned program for reforesting such lands, including a description of extent to which funds authorized by sections 576c to 576e of this title were to be applied and to annually thereafter make a report to Congress on use of funds authorized by sections 576c to 576e of this title and progress toward completion of the planned national forest reforestation program.
+Section, Pub. L. 92–421, § 3, Sept. 18, 1972, 86 Stat. 678, required Secretary of Agriculture to provide, within one year after Sept. 18, 1972, a report to Congress setting forth scope of total national forest reforestation needs and a planned program for reforesting such lands, including a description of extent to which funds authorized by sections 576c to 576e of this title were to be applied and to annually thereafter make a report to Congress on use of funds authorized by sections 576c to 576e of this title and progress toward completion of the planned national forest reforestation program.
 
-### § 577. Public lands in northern Minnesota; withdrawal from entry and appropriation
+### § 577. Public lands in northern Minnesota; withdrawal from entry and appropriation
 
 All public lands of the United States situated north of township 60 north in the Counties of Cook and Lake, State of Minnesota, including the natural shore lines of Lake Superior within such area; all public lands of the United States situated in that part of St. Louis County, State of Minnesota, lying north of a line beginning at the northeast corner of Township 63 north, Range 12 west, 4th P. M., thence westerly along the township line to the southwest corner of Township 64 north, Range 18 west, 4th P. M., thence northerly to the northwest corner of Township 65 north, Range 18 west, 4th P. M., thence westerly to the southwest corner, Township 66 north, Range 21 west, 4th P. M., thence northerly along the Township line to its intersection with the international boundary between the United States and the Dominion of Canada; all public lands of the United States on the shore lines of the lakes and streams forming the international boundary, so far as such lands lie within the areas heretofore described in this section; all public lands of the United States in that part of the Superior National Forest located in Townships 61 and 62, Ranges 12 and 13 west, 4th P. M.; and all public lands of the United States on the shore lines of Burntside Lake and Lake Vermilion, State of Minnesota, are withdrawn from all forms of entry or appropriation under the public land laws of the United States, subject to prior existing legal rights initiated under the public land laws, so long as such claims are maintained as required by the applicable law or laws and subject to such permits and licenses as may be granted or issued by the Department of Agriculture under laws or regulations generally applicable to national forests.
 
-(July 10, 1930, ch. 881, § 1, 46 Stat. 1020.)
+(July 10, 1930, ch. 881, § 1, 46 Stat. 1020.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1597,45 +1597,45 @@ The act of July 10, 1930, ch. 881, 46 Stat. 1020, which is classified to section
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 577a. Conserving shore line beauty for recreational use of public lands in northern Minnesota; regulation of logging
+### § 577a. Conserving shore line beauty for recreational use of public lands in northern Minnesota; regulation of logging
 
 The principle of conserving the natural beauty of shore lines for recreational use shall apply to all Federal lands which border upon any boundary lake or stream contiguous to this area, or any other lake or stream within this area which is now or eventually to be in general use for boat or canoe travel, and that for the purpose of carrying out this principle logging of all such shores to a depth of four hundred feet from the natural water line is forbidden except as the Forest Service of the Department of Agriculture may see fit in particular instances to vary the distance for practical reasons: *Provided*, That in no case shall logging of any timber other than diseased, insect infested, dying, or dead be permitted closer to the natural shore line than two hundred feet, except where necessary to open areas for banking grounds, landings, and other uses connected with logging operations.
 
-(July 10, 1930, ch. 881, § 2, 46 Stat. 1021.)
+(July 10, 1930, ch. 881, § 2, 46 Stat. 1021.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 577b. Preserving water level of lakes and streams of public lands in northern Minnesota; reservoirs; water power
+### § 577b. Preserving water level of lakes and streams of public lands in northern Minnesota; reservoirs; water power
 
 In order to preserve the shore lines, rapids, waterfalls, beaches, and other natural features of the region in an unmodified state of nature, no further alteration of the natural water level of any lake or stream within or bordering upon the designated area shall be authorized by any permit, license, lease, or other authorization granted by any official or commission of the United States, which will result in flooding lands of the United States within or immediately adjacent to the Superior National Forest, unless and until specific authority for granting such permit, license, lease, or other authorization shall have first been obtained by special Act from the Congress of the United States covering each such project: *Provided*, That nothing in this section shall be construed as interfering with the duties of the International Joint Commission created pursuant to the convention concerning the boundary waters between the United States and Canada and concluded between the United States and Great Britain on January 11, 1909, and action taken or to be taken in accordance with provisions of the convention, protocol, and agreement between the United States and Canada, which were signed at Washington on February 24, 1925, for the purpose of regulating the levels of the Lake of the Woods: *Provided*, That with the written approval and consent of the Forest Service of the Department of Agriculture, reservoirs not exceeding one hundred acres in area may be constructed and maintained for the transportation of logs or in connection with authorized recreational uses of national-forest lands, and maximum water levels not higher than the normal high-water mark may be maintained temporarily where essential strictly for logging purposes, in the streams between lakes by the construction and operation of small temporary dams: *Provided, however*, That nothing herein shall be construed to prevent the Secretary of Agriculture from listing for homestead entry under the provisions of the Act of June 11, 1906 (34 Stat. 233), any of the above-described lands found by him to be chiefly valuable for agriculture and not needed for public purposes: *Provided further*, That the provisions of this section shall not apply to any proposed development for water-power purposes for which an application for license was pending under the terms of the Federal Power Act [16 U.S.C. 791a et seq.] on or before January 1, 1928.
 
-(July 10, 1930, ch. 881, § 3, 46 Stat. 1021.)
+(July 10, 1930, ch. 881, § 3, 46 Stat. 1021.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 11, 1906 (34 Stat. 233), referred to in text, which was classified to sections 506 to 508 and 509 of this title, was repealed by Pub. L. 87–869, § 4, Oct. 23, 1962, 76 Stat. 1157.
+Act of June 11, 1906 (34 Stat. 233), referred to in text, which was classified to sections 506 to 508 and 509 of this title, was repealed by Pub. L. 87–869, § 4, Oct. 23, 1962, 76 Stat. 1157.
 
-The Federal Power Act, referred to in text, was in the original the “Federal Water Power Act”, which was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in text, was in the original the “Federal Water Power Act”, which was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 577c. Acquisition of additional lands in northern Minnesota
+### § 577c. Acquisition of additional lands in northern Minnesota
 
 To protect and administer more effectively the publicly owned lands within certain parts of the area described in section 577 of this title, and to accomplish certain public purposes explicit and implicit in sections 577a and 577b of this title, the Secretary of Agriculture is authorized and directed to acquire any lands or interest in lands, and appurtenances thereto, situated within the area described in section 577d of this title, where in his opinion development or exploitation, or the potentialities for development or exploitation, impair or threaten to impair the unique qualities and natural features of the remaining wilderness canoe country.
 
-(June 22, 1948, ch. 593, § 1, 62 Stat. 568; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772.)
+(June 22, 1948, ch. 593, § 1, 62 Stat. 568; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772.)
 
 **Editorial Notes**
 
@@ -1649,7 +1649,7 @@ To protect and administer more effectively the publicly owned lands within certa
 
 The act of June 22, 1948, ch. 593, 62 Stat. 568, as amended, which is classified to sections 577c, 577d, and 577e to 577h of this title, is popularly known as the “Thye-Blatnik Act”.
 
-### § 577d. Boundary limits of additional lands acquired in northern Minnesota
+### § 577d. Boundary limits of additional lands acquired in northern Minnesota
 
 The authority granted in section 577c of this title shall be supplemental to the authority granted by existing Acts relating to the acquisition of lands for national-forest purposes and shall not be deemed as repealing any portions of those Acts except as provided hereinafter; and said supplemental authority granted by section 577c of this title, but not the authority granted by existing Acts, shall be confined to the following described areas in Cook, Lake, and Saint Louis Counties, State of Minnesota:
 
@@ -1743,9 +1743,9 @@ Township 68 north, ranges 13, 14, 15, and 16 west, fourth principal meridian, en
 
 Township 68 north, range 17 west, fourth principal meridian, that portion of section 36 east of Crane Lake.
 
-(June 22, 1948, ch. 593, § 2, 62 Stat. 568.)
+(June 22, 1948, ch. 593, § 2, 62 Stat. 568.)
 
-### § 577d–1. Extension to other sections of land
+### § 577d–1. Extension to other sections of land
 
 Except as hereinafter provided, the provisions of sections 577c, 577d, 577e to 577h of this title, are extended and made applicable to the following described lands:
 
@@ -1835,7 +1835,7 @@ Township 66 north, range 16 west, fourth principal meridian: Sections 13, 24, an
 
 Township 67 north, range 4 west, fourth principal meridian: Entire township.
 
-(June 22, 1956, ch. 425, § 1, 70 Stat. 326.)
+(June 22, 1956, ch. 425, § 1, 70 Stat. 326.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1843,11 +1843,11 @@ Township 67 north, range 4 west, fourth principal meridian: Entire township.
 
 The act of June 22, 1956, ch. 425, 70 Stat. 326, as amended, which is classified to sections 577d–1, 577g–1 and 577h of this title, is popularly known as the “Humphrey-Thye-Blatnik-Andresen Act”.
 
-### § 577e. Approval by National Forest Reservation Commission for acquisition of additional lands
+### § 577e. Approval by National Forest Reservation Commission for acquisition of additional lands
 
 Lands shall be acquired by purchase or condemnation under the supplemental authority granted in section 577c of this title only with prior approval of the National Forest Reservation Commission created by section 4 of the Act approved March 1, 1911, as amended, and lands so acquired shall become parts of the Superior National Forest and be subject to the provisions of said Act, as amended, and of such other laws as apply to land acquired under the provisions of said Act, as amended, except as hereinafter provided.
 
-(June 22, 1948, ch. 593, § 3, 62 Stat. 570.)
+(June 22, 1948, ch. 593, § 3, 62 Stat. 570.)
 
 **Editorial Notes**
 
@@ -1857,29 +1857,29 @@ The National Forest Reservation Commission, referred to in text, was created by 
 
 Said Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
-### § 577f. Exchange of lands
+### § 577f. Exchange of lands
 
 Upon finding and determination by the Secretary of Agriculture that the public purposes and objectives explicit and implicit in sections 577 to 577b of this title, more effectively can be accomplished by exchanging lands of the United States situated within the boundaries described in said sections for other lands in State, county, or private ownership situated within the said boundaries which are more suitable for public ownership, management, and use, for the purposes contemplated by said sections, such lands of the United States shall be subject to exchange under the provisions of sections 485 and 486 of this title, or the provisions of section 516 of this title.
 
-(June 22, 1948, ch. 593, § 4, 62 Stat. 570.)
+(June 22, 1948, ch. 593, § 4, 62 Stat. 570.)
 
-### § 577g. Payment for additional lands acquired in northern Minnesota
+### § 577g. Payment for additional lands acquired in northern Minnesota
 
 The Secretary of the Treasury, upon the certification of the Secretary of Agriculture, shall pay to the State of Minnesota, at the close of each fiscal year from any national-forest receipts not otherwise appropriated a sum of money equivalent to three-quarters of 1 per centum of the fair appraised value of such national-forest lands as may be situated within the area described in section 577d of this title at the end of each fiscal year; and the payments made hereunder shall be distributed to each of the three aforesaid counties in conformity with the fair appraised value of such national-forest lands in each county: *Provided*, That the fair appraised value of the lands shall be determined by the Secretary of Agriculture at ten-year intervals and his determination shall be conclusive and final: *Provided further*, That the first payment to the State of Minnesota under the provisions of this section shall not be due until the close of the first full fiscal year after June 22, 1948: *And provided further*, That the provisions of section 500 of this title, shall not be applicable to the national-forest lands to which this section applies.
 
-(June 22, 1948, ch. 593, § 5, 62 Stat. 570.)
+(June 22, 1948, ch. 593, § 5, 62 Stat. 570.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section, as amended by act June 22, 1956, ch. 425, § 2, 70 Stat. 328, is set out as section 577g–1 of this title.
+Section, as amended by act June 22, 1956, ch. 425, § 2, 70 Stat. 328, is set out as section 577g–1 of this title.
 
-### § 577g–1. Payment to State of Minnesota for extension to other sections of land
+### § 577g–1. Payment to State of Minnesota for extension to other sections of land
 
 The Secretary of the Treasury, upon the certification of the Secretary of Agriculture, shall pay to the State of Minnesota, at the close of each fiscal year from any national-forest receipts not otherwise appropriated a sum of money equivalent to three-quarters of 1 per centum of the fair appraised value of such national-forest lands as may be situated within the area described in section 577d–1 of this title at the end of each fiscal year; and the payments made hereunder shall be distributed to each of the three aforesaid counties in conformity with the fair appraised value of such national-forest lands in each county: *Provided*, That the fair appraised value of the lands shall be determined by the Secretary of Agriculture at ten-year intervals and his determination shall be conclusive and final: *Provided further*, That the first payment to the State of Minnesota under the provisions of this section shall be due at the close of the fiscal year 1959: *And provided further*, That the provisions of section 500 of this title, shall not be applicable to the national-forest lands to which this section applies.
 
-(June 22, 1948, ch. 593, § 5, 62 Stat. 570; June 22, 1956, ch. 425, § 2, 70 Stat. 328.)
+(June 22, 1948, ch. 593, § 5, 62 Stat. 570; June 22, 1956, ch. 425, § 2, 70 Stat. 328.)
 
 **Editorial Notes**
 
@@ -1891,7 +1891,7 @@ Section 5 of act June 22, 1948, as it read prior to amendment by act June 22, 19
 
 1956—Act June 22, 1956, amended section with respect to the lands described in section 577d–1 by revising the proviso to fix the due date of the first payment to Minnesota as of the close of the fiscal year 1959. For payment for lands described in section 577d, see section 577g of this title.
 
-### § 577h. Authorization of appropriations; limitation on amount for purchase of additional lands, water or interests therein; availability of other funds; annual report to Congress
+### § 577h. Authorization of appropriations; limitation on amount for purchase of additional lands, water or interests therein; availability of other funds; annual report to Congress
 
 **(a) Appropriations authorized; purposes**
 
@@ -1901,7 +1901,7 @@ There are authorized to be appropriated annually such sums as are necessary to i
 
 Not later than March 1 of each year 1977 through 1980, the Secretary of Agriculture shall submit to the Congress a report concerning the acquisition of lands or interests in lands under sections 577c, 577d, and 577e to 577h of this title. The final report of the Secretary shall specify whether additional authorizations or appropriations are necessary to carry out the purposes of said sections.
 
-(June 22, 1948, ch. 593, § 6, 62 Stat. 570; June 22, 1956, ch. 425, § 3, 70 Stat. 328; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772; Pub. L. 94–384, Aug. 13, 1976, 90 Stat. 1123; Pub. L. 113–287, § 5(d)(19), Dec. 19, 2014, 128 Stat. 3266.)
+(June 22, 1948, ch. 593, § 6, 62 Stat. 570; June 22, 1956, ch. 425, § 3, 70 Stat. 328; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772; Pub. L. 94–384, Aug. 13, 1976, 90 Stat. 1123; Pub. L. 113–287, § 5(d)(19), Dec. 19, 2014, 128 Stat. 3266.)
 
 **Editorial Notes**
 
@@ -1921,7 +1921,7 @@ Not later than March 1 of each year 1977 through 1980, the Secretary of Agricult
 
 Pub. L. 87–351 provided in part that: “Funds appropriated to carry out the purposes of the Act [sections 577c, 577d and 577e to 577h of this title] shall remain available until expended.”
 
-### §§ 578 to 579. Omitted
+### §§ 578 to 579. Omitted
 
 **Editorial Notes**
 
@@ -1961,11 +1961,11 @@ July 1, 1941, ch. 267, 55 Stat. 422.
 
 June 25, 1940, ch. 421, 54 Stat. 546.
 
-### § 579a. Operation of aerial facilities and services
+### § 579a. Operation of aerial facilities and services
 
 The Forest Service by contract or otherwise may provide for procurement and operation of aerial facilities and services for the protection and management of the national forests and other lands administered by it, including the furnishing, at the airbase, of facilities, equipment, materials and the preparation, mixing and loading into aircraft, with authority to renew any contract for such purpose annually, not more than twice, without additional advertising.
 
-(Sept. 21, 1944, ch. 412, title II, § 205, 58 Stat. 736; Apr. 24, 1950, ch. 97, § 4, 64 Stat. 83; Pub. L. 91–435, Oct. 6, 1970, 84 Stat. 888.)
+(Sept. 21, 1944, ch. 412, title II, § 205, 58 Stat. 736; Apr. 24, 1950, ch. 97, § 4, 64 Stat. 83; Pub. L. 91–435, Oct. 6, 1970, 84 Stat. 888.)
 
 **Editorial Notes**
 
@@ -1979,11 +1979,11 @@ Section was enacted as a part of the Department of Agriculture Organic Act of 19
 
 1950—Act Apr. 24, 1950, amended section to provide for aerial facilities and services for the protection and management of our national forests.
 
-### § 579b. Working capital fund; establishment; availability; transfer; capitalization; advance payments credited
+### § 579b. Working capital fund; establishment; availability; transfer; capitalization; advance payments credited
 
 There is established a working capital fund which shall be available without fiscal year limitation for expenses necessary, including the purchase or construction of buildings and improvements within the limitations thereon set forth in the appropriations for the Forest Service, for furnishing supply and equipment services in support of programs of the Forest Service. The Secretary of Agriculture is authorized to transfer to the fund, without reimbursement, and to capitalize in the fund at fair and reasonable values, such receivables, inventories, equipment, and other assets as he may determine, and assume the liabilities in connection with such assets: *Provided*, That the fund shall be credited with advance payments in connection with firm orders and reimbursements from appropriations and funds of the Forest Service, other departmental and Federal agencies, and from other sources, as authorized by law, at rates approximately equal to the cost of furnishing the facilities and service.
 
-(Aug. 3, 1956, ch. 950, § 13, 70 Stat. 1034; Pub. L. 87–869, § 10, Oct. 23, 1962, 76 Stat. 1157.)
+(Aug. 3, 1956, ch. 950, § 13, 70 Stat. 1034; Pub. L. 87–869, § 10, Oct. 23, 1962, 76 Stat. 1157.)
 
 **Editorial Notes**
 
@@ -1991,13 +1991,13 @@ There is established a working capital fund which shall be available without fis
 
 1962—Pub. L. 87–869 struck out the $25,000,000 limitation on amount of capitalization in Forest Service working capital fund.
 
-### § 579c. Availability of funds received from forfeitures, judgments, compromises, or settlements
+### § 579c. Availability of funds received from forfeitures, judgments, compromises, or settlements
 
 Any moneys received by the United States with respect to lands under the administration of the Forest Service (1) as a result of the forfeiture of a bond or deposit by a permittee or timber purchaser for failure to complete performance of improvement, protection, or rehabilitation work required under the permit or timber sale contract or (2) as a result of a judgment, compromise, or settlement of any claim, involving present or potential damage to lands or improvements, shall be covered into the Treasury and are hereby appropriated and made available until expended to cover the cost to the United States of any improvement, protection, or rehabilitation work on lands under the administration of the Forest Service rendered necessary by the action which led to the forfeiture, judgment, compromise, or settlement: *Provided*, That any portion of the moneys so received in excess of the amount expended in performing the work necessitated by the action which led to their receipt shall be transferred to miscellaneous receipts.
 
-(Pub. L. 85–464, § 7, June 20, 1958, 72 Stat. 217.)
+(Pub. L. 85–464, § 7, June 20, 1958, 72 Stat. 217.)
 
-### § 579c–1. Forest Service interest bearing account
+### § 579c–1. Forest Service interest bearing account
 
 **(a) Investment authority**
 
@@ -2015,9 +2015,9 @@ Any portion of the monies received or earned under subsection (a) in excess of t
 
 This section shall apply with respect to fiscal year 2023 and each succeeding fiscal year.
 
-(Pub. L. 117–328, div. G, title IV, § 441, Dec. 29, 2022, 136 Stat. 4832.)
+(Pub. L. 117–328, div. G, title IV, § 441, Dec. 29, 2022, 136 Stat. 4832.)
 
-### § 579d. Indirect expenditures; future budget justifications
+### § 579d. Indirect expenditures; future budget justifications
 
 The Forest Service shall implement and adhere to the definitions of indirect expenditures established pursuant to Public Law 105–277 on a nationwide basis without flexibility for modification by any organizational level except the Washington Office, and when changed by the Washington Office, such changes in definition shall be reported in budget requests submitted by the Forest Service: *Provided further*, That the Forest Service shall provide in all future budget justifications, planned indirect expenditures in accordance with the definitions, summarized and displayed to the Regional, Station, Area, and detached unit office level. The justification shall display the estimated source and amount of indirect expenditures, by expanded budget line item, of funds in the agency’s annual budget justification. The display shall include appropriated funds and the Knutson-Vandenberg, Brush Disposal, Cooperative Work-Other, and Salvage Sale funds. Changes between estimated and actual indirect expenditures shall be reported in subsequent budget justifications.
 
@@ -2039,15 +2039,15 @@ Provisions similar to this section were contained in the following prior appropr
 
 Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 973.
 
-Pub. L. 106–113, div. B, § 1000(a)(3) [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–178.
+Pub. L. 106–113, div. B, § 1000(a)(3) [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–178.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Definitions of Indirect Expenditures**
 
-Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–274, provided in part: “That not later than 90 days after the date of the enactment of this Act [Oct. 21, 1998], the Forest Service shall provide, to the Committees on Appropriations of the House of Representatives and Senate, proposed definitions, which are consistent with Federal Accounting Standards Advisory Board standards, to be used with the fiscal year 2000 budget, for indirect expenditures: *Provided further*, That the Forest Service shall implement and adhere to the definitions on a nationwide basis without flexibility for modification by any organizational level except the Washington Office, and when changed by the Washington Office, such changes in definition shall be reported in budget requests submitted by the Forest Service: *Provided further*, That the Forest Service shall provide in the fiscal year 2000 budget justification, planned indirect expenditures in accordance with the definitions, summarized and displayed to the Regional, Station, Area, and detached unit office level. The justification shall display the estimated source and amount of indirect expenditures, by expanded budget line item, of funds in the agency’s annual budget justification. The display shall include appropriated funds and the Knutson-Vandenberg, Brush Disposal, Cooperative Work-Other, and Salvage Sale funds. Changes between estimated and actual indirect expenditures shall be reported in subsequent budget justifications”.
+Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–274, provided in part: “That not later than 90 days after the date of the enactment of this Act [Oct. 21, 1998], the Forest Service shall provide, to the Committees on Appropriations of the House of Representatives and Senate, proposed definitions, which are consistent with Federal Accounting Standards Advisory Board standards, to be used with the fiscal year 2000 budget, for indirect expenditures: *Provided further*, That the Forest Service shall implement and adhere to the definitions on a nationwide basis without flexibility for modification by any organizational level except the Washington Office, and when changed by the Washington Office, such changes in definition shall be reported in budget requests submitted by the Forest Service: *Provided further*, That the Forest Service shall provide in the fiscal year 2000 budget justification, planned indirect expenditures in accordance with the definitions, summarized and displayed to the Regional, Station, Area, and detached unit office level. The justification shall display the estimated source and amount of indirect expenditures, by expanded budget line item, of funds in the agency’s annual budget justification. The display shall include appropriated funds and the Knutson-Vandenberg, Brush Disposal, Cooperative Work-Other, and Salvage Sale funds. Changes between estimated and actual indirect expenditures shall be reported in subsequent budget justifications”.
 
-### § 579e. Forest service budget restructure
+### § 579e. Forest service budget restructure
 
 **(a)** The Secretary of Agriculture shall establish the ‘Forest Service Operations’ account not later than October 1, 2020, for the necessary expenses of the Forest Service: (1) for the base salary and expenses of employees in the Chief’s Office, the Work Environment and Performance Office, the Business Operations Deputy Area, and the Chief Financial Officer’s Office to carry out administrative and general management support functions; (2) for the costs of facility maintenance, repairs, and leases for buildings and sites; (3) for the costs of utility and communication expenses, business services, and information technology, including cybersecurity requirements; and (4) for such other administrative support function expenses necessary for the operation of the Forest Service.
 
@@ -2069,13 +2069,13 @@ Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681
 
 **(D)** an identification of funds directed for a specific activity.
 
-(Pub. L. 116–94, div. D, title IV, § 435, Dec. 20, 2019, 133 Stat. 2750.)
+(Pub. L. 116–94, div. D, title IV, § 435, Dec. 20, 2019, 133 Stat. 2750.)
 
-### § 579f. Forest Service Nonrecurring Expenses Fund
+### § 579f. Forest Service Nonrecurring Expenses Fund
 
 There is hereby established in the Treasury of the United States a fund to be known as the “Forest Service Nonrecurring Expenses Fund” (the Fund): *Provided*, That unobligated balances of expired discretionary funds, and discretionary no-year funds at least four years old and deemed by the Chief of the Forest Service no longer needed for their intended purpose, appropriated for this or any succeeding fiscal year from the general fund of the Treasury to the Forest Service by this or any other Act may be transferred into the Fund: *Provided further*, That amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available, for information technology; administrative expenses such as, but not limited to, utility and lease payments; facilities infrastructure maintenance, improvements, and construction; and roads infrastructure maintenance, subject to approval by the Office of Management and Budget: *Provided further*, That amounts in the Fund may not be obligated without written notification to and the prior approval of the Committees on Appropriations of the House of Representatives and the Senate in conformance with the reprogramming guidelines described in this Act.
 
-(Pub. L. 118–42, div. E, title IV, § 444, Mar. 9, 2024, 138 Stat. 297.)
+(Pub. L. 118–42, div. E, title IV, § 444, Mar. 9, 2024, 138 Stat. 297.)
 
 **Editorial Notes**
 
@@ -2089,11 +2089,11 @@ There is hereby established in the Treasury of the United States a fund to be kn
 
 For definition of “this Act” as used in this section, see section 3 of Pub. L. 118–42, set out as a note under section 1 of Title 1, General Provisions.
 
-### § 580. Use of Forest Service appropriations for repair, etc. of equipment; rental of fire control equipment to non-Federal agencies
+### § 580. Use of Forest Service appropriations for repair, etc. of equipment; rental of fire control equipment to non-Federal agencies
 
 Appropriations for the work of the Forest Service available for the operation, repair, maintenance, and replacement of motor and other equipment may be reimbursed for use of such equipment on projects of the Forest Service chargeable to other appropriations, or on work of other Federal agencies, when requested by such agencies, reimbursement to be made from appropriations applicable to the work on which used at rental rates fixed by the Chief Forester based on the actual or estimated cost of operation, repair, maintenance, depreciation, and equipment management control, and credited to appropriations currently available at the time adjustment is effected. The Forest Service may also rent equipment for fire-control purposes to State, county, private, or other non-Federal agencies cooperating with the Forest Service in fire control under the terms of written cooperative agreements, the amount collected for such rental to be credited to appropriations currently available at the time payment is received.
 
-(Sept. 21, 1944, ch. 412, title II, § 204, 58 Stat. 736.)
+(Sept. 21, 1944, ch. 412, title II, § 204, 58 Stat. 736.)
 
 **Editorial Notes**
 
@@ -2113,11 +2113,11 @@ July 22, 1942, ch. 516, 56 Stat. 679.
 
 July 1, 1941, ch. 267, 55 Stat. 421.
 
-### § 580a. Sale and distribution of supplies, equipment, and materials to other Government activities and to cooperating State and private agencies; reimbursement
+### § 580a. Sale and distribution of supplies, equipment, and materials to other Government activities and to cooperating State and private agencies; reimbursement
 
 The Forest Service may sell and distribute supplies, equipment, and materials to other Government activities and to State and private agencies who cooperate with the Forest Service in fire control under terms of written cooperative agreements, the cost of such supplies, equipment, and materials, including the cost of supervision, transportation, warehousing, and handling, to be reimbursed to appropriations current at the time additional supplies, equipment, and materials are procured for warehouse stocks.
 
-(Sept. 21, 1944, ch. 412, title II, § 203, 58 Stat. 736.)
+(Sept. 21, 1944, ch. 412, title II, § 203, 58 Stat. 736.)
 
 **Editorial Notes**
 
@@ -2155,29 +2155,29 @@ Mar. 3, 1933, ch. 203, 47 Stat. 1447.
 
 July 7, 1932, ch. 443, 47 Stat. 625.
 
-### § 580b. Forest Service telephone lines; correction of inductive interference
+### § 580b. Forest Service telephone lines; correction of inductive interference
 
 Appropriations for the Forest Service shall be available hereafter for the correction of inductive interference on Forest Service telephone lines caused by transmission lines constructed by organizations financed by loans from the Rural Electrification Administration.
 
 (June 29, 1949, ch. 280, title I, 63 Stat. 338.)
 
-### § 580c. Purchases of experimental materials, special devices, test models, etc.
+### § 580c. Purchases of experimental materials, special devices, test models, etc.
 
 The provisions of section 6101 of title 41 shall not apply to purchases by the Forest Service of (1) materials to be tested or upon which experiments are to be made or (2) special devices, test models, or parts thereof, to be used (a) for experimentation to determine their suitability for or adaptability to accomplishment of the work for which designed or (b) in the designing or developing of new equipment: *Provided*, That not to exceed $50,000 may be expended in any one fiscal year pursuant to this authority and not to exceed $10,000 on any one item or purchase.
 
-(Apr. 24, 1950, ch. 97, § 3, 64 Stat. 83.)
+(Apr. 24, 1950, ch. 97, § 3, 64 Stat. 83.)
 
 **Editorial Notes**
 
 **Codification**
 
-In text, “section 6101 of title 41” substituted for “section 3709, Revised Statutes (41 U.S.C. 5),” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “section 6101 of title 41” substituted for “section 3709, Revised Statutes (41 U.S.C. 5),” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-### § 580d. Use of Forest Service structures or improvements and land by public and private agencies, etc.; terms
+### § 580d. Use of Forest Service structures or improvements and land by public and private agencies, etc.; terms
 
 The Secretary of Agriculture, under such regulations as he may prescribe and at rates and for periods not exceeding thirty years as determined by him, is authorized to permit the use by public and private agencies, corporations, firms, associations, or individuals, of structures or improvements under the administrative control of the Forest Service and land used in connection therewith: *Provided*, That as all or a part of the consideration for permits issued under this section, the Secretary may require the permittees at their expense to renovate, recondition, improve, and maintain the structures and land to a satisfactory standard.
 
-(Apr. 24, 1950, ch. 97, § 7, 64 Stat. 84; Pub. L. 105–277, div. A, § 101(e) [title III, § 346], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298.)
+(Apr. 24, 1950, ch. 97, § 7, 64 Stat. 84; Pub. L. 105–277, div. A, § 101(e) [title III, § 346], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298.)
 
 **Editorial Notes**
 
@@ -2189,7 +2189,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 **Authorization for Lease of Forest Service Sites**
 
-Pub. L. 115–334, title VIII, § 8623, Dec. 20, 2018, 132 Stat. 4853, as amended by Pub. L. 118–234, title I, § 151, Jan. 4, 2025, 138 Stat. 2866, provided that:
+Pub. L. 115–334, title VIII, § 8623, Dec. 20, 2018, 132 Stat. 4853, as amended by Pub. L. 118–234, title I, § 151, Jan. 4, 2025, 138 Stat. 2866, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -2385,7 +2385,7 @@ Pub. L. 115–334, title VIII, § 8623, Dec. 20, 2018, 132 Stat. 4853, as amen
 
 **Forest Service Facility Realignment and Enhancement**
 
-Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, § 422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, § 421, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 115–141, div. G, title IV, § 423, Mar. 23, 2018, 132 Stat. 692; Pub. L. 115–334, title VIII, § 8504, Dec. 20, 2018, 132 Stat. 4847; Pub. L. 116–6, div. E, title IV, § 422, Feb. 15, 2019, 133 Stat. 263, provided that:
+Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, § 422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, § 421, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 115–141, div. G, title IV, § 423, Mar. 23, 2018, 132 Stat. 692; Pub. L. 115–334, title VIII, § 8504, Dec. 20, 2018, 132 Stat. 4847; Pub. L. 116–6, div. E, title IV, § 422, Feb. 15, 2019, 133 Stat. 263, provided that:
 
 > **“SEC. 501. SHORT TITLE.**
 
@@ -2561,63 +2561,63 @@ Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 11
 
 > **“(c) Brokerage Services.—** The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title.”
 
-[Pub. L. 119–74, div. C, title IV, § 418, Jan. 23, 2026, 140 Stat. 161, provided that: “Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) [set out above] shall be applied by substituting ‘September 30, 2026’ for ‘September 30, 2019’.” ]
+[Pub. L. 119–74, div. C, title IV, § 418, Jan. 23, 2026, 140 Stat. 161, provided that: “Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) [set out above] shall be applied by substituting ‘September 30, 2026’ for ‘September 30, 2019’.” ]
 
 [Similar provisions were contained in the following prior appropriation acts:
 
-[Pub. L. 118–42, div. E, title IV, § 418, Mar. 9, 2024, 138 Stat. 289.]
+[Pub. L. 118–42, div. E, title IV, § 418, Mar. 9, 2024, 138 Stat. 289.]
 
-[Pub. L. 117–328, div. G, title IV, § 418, Dec. 29, 2022, 136 Stat. 4825.]
+[Pub. L. 117–328, div. G, title IV, § 418, Dec. 29, 2022, 136 Stat. 4825.]
 
-[Pub. L. 117–103, div. G, title IV, § 418, Mar. 15, 2022, 136 Stat. 414.]
+[Pub. L. 117–103, div. G, title IV, § 418, Mar. 15, 2022, 136 Stat. 414.]
 
-[Pub. L. 116–260, div. G, title IV, § 420, Dec. 27, 2020, 134 Stat. 1540.]
+[Pub. L. 116–260, div. G, title IV, § 420, Dec. 27, 2020, 134 Stat. 1540.]
 
-[Pub. L. 116–94, div. D, title IV, § 420, Dec. 20, 2019, 133 Stat. 2747.]
+[Pub. L. 116–94, div. D, title IV, § 420, Dec. 20, 2019, 133 Stat. 2747.]
 
-[Pub. L. 115–334, title VIII, § 8504, Dec. 20, 2018, 132 Stat. 4847, which directed amendment of section 503(f) of Pub. L. 109–54, set out above, by substituting “2023” for “2016”, could not be executed because of the intervening amendment by Pub. L. 115–141.]
+[Pub. L. 115–334, title VIII, § 8504, Dec. 20, 2018, 132 Stat. 4847, which directed amendment of section 503(f) of Pub. L. 109–54, set out above, by substituting “2023” for “2016”, could not be executed because of the intervening amendment by Pub. L. 115–141.]
 
 **Conveyance of Excess Forest Service Structures**
 
-Pub. L. 107–63, title III, § 329, Nov. 5, 2001, 115 Stat. 471, as amended by Pub. L. 108–7, div. F, title III, § 325, Feb. 20, 2003, 117 Stat. 275; Pub. L. 108–108, title III, § 322, Nov. 10, 2003, 117 Stat. 1307; Pub. L. 108–447, div. E, title III, § 322, Dec. 8, 2004, 118 Stat. 3098, which gave the Secretary of Agriculture temporary and limited authority to convey excess structures located on National Forest System lands and to use the proceeds from those conveyances for certain maintenance and rehabilitation activities, was repealed, effective Sept. 30, 2006, by Pub. L. 109–54, title V, § 503(g), Aug. 2, 2005, 119 Stat. 561, which also provided that the Secretary could complete any conveyance initiated before the effective date of the repeal.
+Pub. L. 107–63, title III, § 329, Nov. 5, 2001, 115 Stat. 471, as amended by Pub. L. 108–7, div. F, title III, § 325, Feb. 20, 2003, 117 Stat. 275; Pub. L. 108–108, title III, § 322, Nov. 10, 2003, 117 Stat. 1307; Pub. L. 108–447, div. E, title III, § 322, Dec. 8, 2004, 118 Stat. 3098, which gave the Secretary of Agriculture temporary and limited authority to convey excess structures located on National Forest System lands and to use the proceeds from those conveyances for certain maintenance and rehabilitation activities, was repealed, effective Sept. 30, 2006, by Pub. L. 109–54, title V, § 503(g), Aug. 2, 2005, 119 Stat. 561, which also provided that the Secretary could complete any conveyance initiated before the effective date of the repeal.
 
 **Definition of National Forest System**
 
-Pub. L. 115–334, title VIII, § 8601, Dec. 20, 2018, 132 Stat. 4847, provided that: “In this subtitle [subtitle F (§§ 8601–8644) of title VIII of Pub. L. 115–334, enacting section 6591e of this title and sections 7655c and 7655d of Title 7, Agriculture, amending sections 521d, 521e, 2113a, 3851a, and 7303 of this title and section 8113 of Title 7, and enacting provisions set out as notes under this section and sections 1132 and 1642 of this title, section 7655c of Title 7, and section 1772 of Title 43, Public Lands], the term ‘National Forest System’ has the meaning given the term in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a)).”
+Pub. L. 115–334, title VIII, § 8601, Dec. 20, 2018, 132 Stat. 4847, provided that: “In this subtitle [subtitle F (§§ 8601–8644) of title VIII of Pub. L. 115–334, enacting section 6591e of this title and sections 7655c and 7655d of Title 7, Agriculture, amending sections 521d, 521e, 2113a, 3851a, and 7303 of this title and section 8113 of Title 7, and enacting provisions set out as notes under this section and sections 1132 and 1642 of this title, section 7655c of Title 7, and section 1772 of Title 43, Public Lands], the term ‘National Forest System’ has the meaning given the term in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a)).”
 
-### § 580e. Services furnished persons attending Forest Service demonstrations and users of national forest resources and recreational facilities; rate of charges; disposition of moneys
+### § 580e. Services furnished persons attending Forest Service demonstrations and users of national forest resources and recreational facilities; rate of charges; disposition of moneys
 
 The Secretary of Agriculture is authorized to furnish persons attending Forest Service demonstrations, and users of national forest resources and recreational facilities, with meals, lodging, bedding, fuel, and other services, where such facilities are not otherwise available, at rates approximating but not less than the actual or estimated cost thereof and to deposit all moneys received therefor to the credit of the appropriation from which the cost thereof is paid, or a similar appropriation current at the time the moneys are received: *Provided*, That such receipts obtained in excess of $10,000 in any one fiscal year shall be deposited in the Treasury as miscellaneous receipts.
 
-(Apr. 24, 1950, ch. 97, § 8, 64 Stat. 84.)
+(Apr. 24, 1950, ch. 97, § 8, 64 Stat. 84.)
 
-### § 580f. Telephones for official use in private residences
+### § 580f. Telephones for official use in private residences
 
 Notwithstanding the provisions of section 1348 of title 31, appropriations for the protection and management of the national forests and other lands administered by the Forest Service shall be available to pay for telephone service installed in residences of employees and of persons cooperating with the Forest Service who reside within or near such lands when such installation is determined by the Secretary of Agriculture to be needed in protecting such lands: *Provided*, That in addition to the monthly local service charge, the Government may pay only such tolls or other charges as are required strictly for the public business.
 
-(Apr. 24, 1950, ch. 97, § 10, 64 Stat. 85; Pub. L. 85–464, § 6, June 20, 1958, 72 Stat. 217.)
+(Apr. 24, 1950, ch. 97, § 10, 64 Stat. 85; Pub. L. 85–464, § 6, June 20, 1958, 72 Stat. 217.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 1348 of title 31” substituted in text for “section 7 of the Act of August 23, 1912, as amended (31 U.S.C. 679)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 1348 of title 31” substituted in text for “section 7 of the Act of August 23, 1912, as amended (31 U.S.C. 679)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 1958—Pub. L. 85–464 inserted “and other lands administered by the Forest Service” after “forests”, and substituted “residences of employees” for “residences of seasonal employees”, and “such lands” for “the national forests” in two places.
 
-### § 580g. Seeding leased range land; conditions and limitations
+### § 580g. Seeding leased range land; conditions and limitations
 
 Whenever such action is deemed to be in the public interest, the Secretary of Agriculture is authorized to pay from any appropriation available for the protection and management of the national forests all or any part of the cost of leasing, seeding, and protective fencing of public range land (other than national forest land) and privately owned land intermingled with or adjacent to national forest or other land administered by the Forest Service, if the use of the land to be seeded is controlled by the Forest Service under a lease or agreement which in the judgment of the Chief of the Forest Service gives the Forest Service control over the land for a sufficient period to justify such expenditures: *Provided*, That payment may not be made under authority of this section for the seeding of more than one thousand acres in any one private ownership: *Provided further*, That payment may not be made under authority of this section for the seeding of more than twenty-five thousand acres in any one fiscal year: *Provided further*, That the period of any lease under this authority may not exceed twenty years.
 
-(Apr. 24, 1950, ch. 97, § 11, 64 Stat. 85.)
+(Apr. 24, 1950, ch. 97, § 11, 64 Stat. 85.)
 
-### § 580h. Range improvements from appropriated funds
+### § 580h. Range improvements from appropriated funds
 
 Of the moneys received from grazing fees by the Treasury from each national forest during each fiscal year there shall be available at the end thereof when appropriated by Congress an amount equivalent to 2 cents per animal-month for sheep and goats and 10 cents per animal-month for other kinds of livestock under permit on such national forest during the calendar year in which the fiscal year begins, which appropriated amount shall be available until expended on such national forest, under such regulations as the Secretary of Agriculture may prescribe, for (1) artificial revegetation, including the collection or purchase of necessary seed; (2) construction and maintenance of drift or division fences and stock-watering places, bridges, corrals, driveways, or other necessary range improvements; (3) control of range-destroying rodents; or (4) eradication of poisonous plants and noxious weeds, in order to protect or improve the future productivity of the range.
 
-(Apr. 24, 1950, ch. 97, § 12, 64 Stat. 85.)
+(Apr. 24, 1950, ch. 97, § 12, 64 Stat. 85.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2625,7 +2625,7 @@ Of the moneys received from grazing fees by the Treasury from each national fore
 
 Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as affecting the distribution of livestock grazing revenues to local governments under this section, see section 701(j) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
-### § 580i. Acquisition of winter range, land, and helicopter landing site
+### § 580i. Acquisition of winter range, land, and helicopter landing site
 
 There are authorized to be appropriated—
 
@@ -2637,19 +2637,19 @@ There are authorized to be appropriated—
 
 Land acquired under this section may be subject to such reservations and outstanding interests as the Secretary of Agriculture determines will not interfere with the purpose for which acquired.
 
-(Apr. 24, 1950, ch. 97, § 14, 64 Stat. 86.)
+(Apr. 24, 1950, ch. 97, § 14, 64 Stat. 86.)
 
-### § 580j. Injury benefits for temporary employees
+### § 580j. Injury benefits for temporary employees
 
 Appropriations of the Forest Service chargeable with salaries and wages shall be available for payment to temporary employees of the Forest Service for loss of time due to injury in official work at rates not in excess of those provided by subchapter I of chapter 81 of title 5, when the injured person is in need of immediate financial assistance to avoid hardship: *Provided*, That such payment shall not be made for a period in excess of fifteen days and the Secretary of Labor shall be notified promptly of the amount so paid, which amount shall be deducted from the amount, if any, otherwise payable by the Secretary of Labor to the employee on account of the injury, the amount so deducted by the Secretary of Labor to be paid to the Forest Service for deposit to the credit of the Forest Service appropriation from which the expenditure was made: *Provided further*, That when any person assisting in the suppression of forest fires or in other emergency work under the direction of the Forest Service, without compensation from the United States, pursuant to the terms of a contract, agreement, or permit, is injured in such work, the Forest Service may furnish hospitalization and other medical care, subsistence, and lodging for a period of not to exceed fifteen days during such disability, the cost thereof to be payable from the appropriation applicable to the work upon which the injury occurred, except that this proviso shall not apply when such person is within the purview of a State or other compensation act: *Provided further*, That determination by the Forest Service that payment is allowable under this section shall be final as to payments made hereunder, but such determination or payments with respect to employees shall not prevent the Secretary of Labor from denying further payments should the Secretary of Labor determine that compensation is not properly allowable under the provisions of subchapter I of chapter 81 of title 5.
 
-(Apr. 24, 1950, ch. 97, § 16, 64 Stat. 86.)
+(Apr. 24, 1950, ch. 97, § 16, 64 Stat. 86.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Subchapter I of chapter 81 of title 5” substituted in text for references to the United States Employees’ Compensation Act, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter I of chapter 81 of title 5” substituted in text for references to the United States Employees’ Compensation Act, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Executive Documents**
 
@@ -2657,7 +2657,7 @@ Appropriations of the Forest Service chargeable with salaries and wages shall be
 
 References to Secretary of Labor substituted in text for references to the United States Employees’ Compensation Commission. United States Employees’ Compensation Commission, created by section 28 of act Sept. 7, 1916, ch. 458, 39 Stat. 748, abolished and functions thereof transferred to Federal Security Agency to be performed in such manner and under such rules and regulations as Federal Security Administrator shall prescribe, by section 3 of Reorg. Plan No. 2 of 1946. These functions subsequently transferred to Department of Labor, to be administered under direction and supervision of Secretary of Labor, by section 1 of Reorg. Plan No. 19, of 1950.
 
-### § 580k. Grazing advisory boards
+### § 580k. Grazing advisory boards
 
 **(a) Composition; election meetings**
 
@@ -2675,21 +2675,21 @@ Upon the request of any party affected thereby, the Secretary of Agriculture, or
 
 **(c) Notification by Secretary of Agriculture of intention to issue regulations; recommendations; written explanation of reasons for overruling**
 
-**(1)** At least thirty days prior to the issuance by the Secretary of Agriculture of any regulation under sections 490, 500, 504, 504a, 555, 557, 571c, 572, 579a, 580c to 580*l*, and 581 1
+**(1)** At least thirty days prior to the issuance by the Secretary of Agriculture of any regulation under sections 490, 500, 504, 504a, 555, 557, 571c, 572, 579a, 580c to 580*l*, and 581 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or otherwise, with respect to the administration of grazing on national forest lands, or of amendments or additions to, or modifications in, any such regulation, which in his judgment would substantially modify existing policy with respect to grazing in national forests, or which would materially affect preferences of permittees in the area involved, the local advisory board for each area that will be affected thereby shall be notified of the intention to take such action. If as a result of this notice the Secretary of Agriculture shall receive any recommendation respecting the issuance of the proposed regulation and shall overrule, disregard, or modify any such regulations, he or his representative shall furnish in writing to the local advisory board his reasons for such action.
 
 **(2)** Any such local advisory board may at any time recommend to the Secretary of Agriculture, or his representative, the issuance of regulations or instructions relating to the use of national forest lands, seasons of use, grazing capacity of such lands, and any other matters affecting the administration of grazing in the area represented by such board.
 
-(Apr. 24, 1950, ch. 97, § 18, 64 Stat. 87.)
+(Apr. 24, 1950, ch. 97, § 18, 64 Stat. 87.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 581 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 95–307, § 8(a), June 30, 1978, 92 Stat. 356.
+Section 581 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 95–307, § 8(a), June 30, 1978, 92 Stat. 356.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2697,31 +2697,31 @@ Section 581 of this title, referred to in subsec. (c)(1), was repealed by Pub. L
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 580l. Permits for grazing livestock on national forests
+### § 580l. Permits for grazing livestock on national forests
 
 The Secretary of Agriculture in regulating grazing on the national forests and other lands administered by him in connection therewith is authorized, upon such terms and conditions as he may deem proper, to issue permits for the grazing of livestock for periods not exceeding ten years and renewals thereof: *Provided*, That nothing herein shall be construed as limiting or restricting any right, title, or interest of the United States in any land or resources.
 
-(Apr. 24, 1950, ch. 97, § 19, 64 Stat. 88.)
+(Apr. 24, 1950, ch. 97, § 19, 64 Stat. 88.)
 
-### § 580m. Development of reservoir areas for future resources of timber; Congressional declaration of policy
+### § 580m. Development of reservoir areas for future resources of timber; Congressional declaration of policy
 
 It is declared to be the policy of the United States to provide that reservoir areas of projects for flood control, navigation, hydroelectric power development, and other related purposes owned in fee and under the jurisdiction of the Secretary of the Army and the Chief of Engineers shall be developed and maintained so as to encourage, promote, and assure fully adequate and dependable future resources of readily available timber, through sustained yield programs, reforestation, and accepted conservation practices, and to increase the value of such areas for conservation, recreation, and other beneficial uses: *Provided*, That such development and management shall be accomplished to the extent practicable and compatible with other uses of the project.
 
-(Pub. L. 86–717, § 1, Sept. 6, 1960, 74 Stat. 817.)
+(Pub. L. 86–717, § 1, Sept. 6, 1960, 74 Stat. 817.)
 
-### § 580n. Protection and development of forest or other vegetative cover; establishment and maintenance of conservation measures; coordination of programs and policies
+### § 580n. Protection and development of forest or other vegetative cover; establishment and maintenance of conservation measures; coordination of programs and policies
 
 In order to carry out the national policy declared in section 580m of this title, the Chief of Engineers, under the supervision of the Secretary of the Army, shall provide for the protection and development of forest or other vegetative cover and the establishment and maintenance of other conservation measures on reservoir areas under his jurisdiction, so as to yield the maximum benefit and otherwise improve such areas. Programs and policies developed pursuant to the preceding sentence shall be coordinated with the Secretary of Agriculture, and with appropriate State conservation agencies.
 
-(Pub. L. 86–717, § 2, Sept. 6, 1960, 74 Stat. 817.)
+(Pub. L. 86–717, § 2, Sept. 6, 1960, 74 Stat. 817.)
 
-### § 580o. Forest Service appropriations
+### § 580o. Forest Service appropriations
 
 Notwithstanding any other provision of law, there are hereby authorized to be appropriated for the necessary expenses of the Forest Service for carrying out the programs for Forest Research, State and Private Forestry, and National Forest System under the appropriations account for Forest Management, Protection, and Utilization, and the programs under the appropriations account for Construction and Land Acquisition: $1,575,552,000 for fiscal year 1981; $1,498,000,000 for fiscal year 1982; $1,560,000,000 for fiscal year 1983; and $1,620,000,000 for fiscal year 1984: *Provided*, That none of the funds authorized to be appropriated hereby may be used for carrying out the Bald Mountain road in the Siskiyou National Forest.
 
-(Pub. L. 97–35, title I, § 122, Aug. 13, 1981, 95 Stat. 368.)
+(Pub. L. 97–35, title I, § 122, Aug. 13, 1981, 95 Stat. 368.)
 
-### § 580p. “Woodsy Owl” and “Smokey Bear” characters and names; definitions
+### § 580p. “Woodsy Owl” and “Smokey Bear” characters and names; definitions
 
 As used in this Act—
 
@@ -2729,11 +2729,11 @@ As used in this Act—
 
 **(2)** the term “Smokey Bear” means the name and character “Smokey Bear” originated by the Forest Service of the United States Department of Agriculture in cooperation with the Association of State Foresters and the Advertising Council.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(3)** the term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 93–318, § 1, June 22, 1974, 88 Stat. 244.)
+(Pub. L. 93–318, § 1, June 22, 1974, 88 Stat. 244.)
 
 **Editorial Notes**
 
@@ -2743,9 +2743,9 @@ This Act, referred to in text, is Pub. L. 93–318, June 22, 1974, 88 Stat. 244,
 
 **Codification**
 
-Section was formerly classified to section 488b–3 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 488b–3 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
-### § 580p–1. Property of the United States
+### § 580p–1. Property of the United States
 
 The following are hereby declared the property of the United States:
 
@@ -2753,37 +2753,37 @@ The following are hereby declared the property of the United States:
 
 **(2)** The name and character “Woodsy Owl” and the associated slogan, “Give a Hoot, Don’t Pollute”.
 
-(Pub. L. 93–318, § 2, June 22, 1974, 88 Stat. 245.)
+(Pub. L. 93–318, § 2, June 22, 1974, 88 Stat. 245.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 488b–4 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 488b–4 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
-### § 580p–2. Deposit of fees collected under regulations relating to “Smokey Bear”; availability
+### § 580p–2. Deposit of fees collected under regulations relating to “Smokey Bear”; availability
 
 The Secretary of Agriculture shall deposit into a special account to be available for furthering the nationwide forest-fire prevention campaign all fees collected under regulations promulgated by him relating to “Smokey Bear”.
 
-(May 23, 1952, ch. 327, § 3, 66 Stat. 92; Pub. L. 93–318, § 7, June 22, 1974, 88 Stat. 245.)
+(May 23, 1952, ch. 327, § 3, 66 Stat. 92; Pub. L. 93–318, § 7, June 22, 1974, 88 Stat. 245.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 488a of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 488a of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
 1974—Pub. L. 93–318 struck out “under the provisions of section 711 of title 18” after “relating to ‘Smokey Bear’.”
 
-### § 580p–3. Use of royalty fees; special account
+### § 580p–3. Use of royalty fees; special account
 
 **(a)** The Secretary may establish and collect use or royalty fees for the manufacture, reproduction, or use of the name or character “Woodsy Owl” and the associated slogan, “Give a Hoot, Don’t Pollute”, as a symbol for a public service campaign to promote wise use of the environment and programs which foster maintenance and improvement of environmental quality.
 
 **(b)** The Secretary shall deposit into a special account all fees collected pursuant to this Act. Such fees are hereby made available for obligation and expenditure for the purpose of furthering the “Woodsy Owl” campaign.
 
-(Pub. L. 93–318, § 3, June 22, 1974, 88 Stat. 245.)
+(Pub. L. 93–318, § 3, June 22, 1974, 88 Stat. 245.)
 
 **Editorial Notes**
 
@@ -2793,45 +2793,35 @@ This Act, referred to in subsec. (b), is Pub. L. 93–318, June 22, 1974, 88 Sta
 
 **Codification**
 
-Section was formerly classified to section 488b–5 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 488b–5 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
-### § 580p–4. Injunction against unauthorized manufacture, use, or reproduction
+### § 580p–4. Injunction against unauthorized manufacture, use, or reproduction
 
 **(a)** Whoever, except as provided by rules and regulations issued by the Secretary, manufactures, uses, or reproduces the character “Smokey Bear”, or the name “Smokey Bear”, or a facsimile or simulation of such character or name in such a manner as suggests “Smokey Bear” may be enjoined from such manufacture, use, or reproduction at the suit of the Attorney General upon complaint by the Secretary.
 
 **(b)** Whoever, except as provided by rules and regulations issued by the Secretary, manufactures, uses, or reproduces the character “Woodsy Owl”, the name “Woodsy Owl”, or the slogan “Give a Hoot, Don’t Pollute”, or a fac­simile or simulation of such character, name, or slogan in such a manner as suggests “Woodsy Owl” may be enjoined from such manufacture, use, or reproduction at the suit of the Attorney General upon complaint by the Secretary.
 
-(Pub. L. 93–318, § 4, June 22, 1974, 88 Stat. 245.)
+(Pub. L. 93–318, § 4, June 22, 1974, 88 Stat. 245.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 488b–6 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 488b–6 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
-### § 580q. National Tree Seed Laboratory; disposition of fees
+### § 580q. National Tree Seed Laboratory; disposition of fees
 
 Notwithstanding any other provision of law, fees received by the National Tree Seed Laboratory, administered by the Forest Service, United States Department of Agriculture, for the provision of a tree seed testing service, shall be retained and deposited as a reimbursement to current appropriations used to cover the costs of providing such service.
 
-(Pub. L. 99–198, title XVII, § 1772, Dec. 23, 1985, 99 Stat. 1658.)
+(Pub. L. 99–198, title XVII, § 1772, Dec. 23, 1985, 99 Stat. 1658.)
 
 ## SUBCHAPTER II—INVESTIGATIONS, EXPERIMENTS, AND TESTS AFFECTING REFORESTATION AND FOREST PRODUCTS
 
-### §§ 581, 581a. Repealed. Pub. L. 95–307, § 8(a), June 30, 1978, 92 Stat. 356
+### §§ 581, 581a. Repealed. Pub. L. 95–307, § 8(a), June 30, 1978, 92 Stat. 356
 
-Section 581, acts May 22, 1928, ch. 678, § 1, 45 Stat. 699; Apr. 24, 1950, ch. 97, § 17(a), 64 Stat. 87, authorized investigations, experiments, and tests affecting reforestation and forest products through cooperation with State and other agencies.
+Section 581, acts May 22, 1928, ch. 678, § 1, 45 Stat. 699; Apr. 24, 1950, ch. 97, § 17(a), 64 Stat. 87, authorized investigations, experiments, and tests affecting reforestation and forest products through cooperation with State and other agencies.
 
-Section 581a, acts May 22, 1928, ch. 678, § 2, 45 Stat. 700; June 15, 1936, ch. 553, 49 Stat. 1515, set forth provisions establishing and authorizing appropriations for specific forest experiment stations.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1978, see section 9 of Pub. L. 95–307, set out as an Effective Date note under section 1641 of this title.
-
-### § 581a–1. Repealed. Pub. L. 95–307, § 4(d), June 30, 1978, 92 Stat. 355
-
-Section, act Aug. 31, 1951, ch. 374, title I, § 101, 65 Stat. 233, authorized receipt of funds on or after Aug. 31, 1951, from States, etc., for establishment or operation of forest research facilities.
+Section 581a, acts May 22, 1928, ch. 678, § 2, 45 Stat. 700; June 15, 1936, ch. 553, 49 Stat. 1515, set forth provisions establishing and authorizing appropriations for specific forest experiment stations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2839,39 +2829,49 @@ Section, act Aug. 31, 1951, ch. 374, title I, § 101, 65 Stat. 233, authorized
 
 Repeal effective Oct. 1, 1978, see section 9 of Pub. L. 95–307, set out as an Effective Date note under section 1641 of this title.
 
-### § 581a–2. Omitted
+### § 581a–1. Repealed. Pub. L. 95–307, § 4(d), June 30, 1978, 92 Stat. 355
+
+Section, act Aug. 31, 1951, ch. 374, title I, § 101, 65 Stat. 233, authorized receipt of funds on or after Aug. 31, 1951, from States, etc., for establishment or operation of forest research facilities.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1978, see section 9 of Pub. L. 95–307, set out as an Effective Date note under section 1641 of this title.
+
+### § 581a–2. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 13, 1956, ch. 380, title II, § 200, 70 Stat. 269, which authorized advance of funds to cooperators, was from the Department of the Interior and Related Agencies Appropriation Act, 1957, and was not repeated in subsequent appropriation acts. Similar provisions were contained in following prior appropriation acts:
+Section, act June 13, 1956, ch. 380, title II, § 200, 70 Stat. 269, which authorized advance of funds to cooperators, was from the Department of the Interior and Related Agencies Appropriation Act, 1957, and was not repeated in subsequent appropriation acts. Similar provisions were contained in following prior appropriation acts:
 
-June 16, 1955, ch. 147, title II, § 200, 69 Stat. 154.
+June 16, 1955, ch. 147, title II, § 200, 69 Stat. 154.
 
-June 29, 1954, ch. 409, title I, § 101, 68 Stat. 308.
+June 29, 1954, ch. 409, title I, § 101, 68 Stat. 308.
 
-July 28, 1953, ch. 251, title I, § 101, 67 Stat. 212.
+July 28, 1953, ch. 251, title I, § 101, 67 Stat. 212.
 
-Act July 5, 1952, ch. 574, title I, § 101, 66 Stat. 343.
+Act July 5, 1952, ch. 574, title I, § 101, 66 Stat. 343.
 
-### §§ 581b to 581i. Repealed. Pub. L. 95–307, § 8(a), June 30, 1978, 92 Stat. 356
+### §§ 581b to 581i. Repealed. Pub. L. 95–307, § 8(a), June 30, 1978, 92 Stat. 356
 
-Section 581b, act May 22, 1928, ch. 678, § 3, 45 Stat. 701, authorized appropriations for investigations of diseases of forest trees and products.
+Section 581b, act May 22, 1928, ch. 678, § 3, 45 Stat. 701, authorized appropriations for investigations of diseases of forest trees and products.
 
-Section 581c, act May 22, 1928, ch. 678, § 4, 45 Stat. 701, authorized appropriations for investigations of forest insects.
+Section 581c, act May 22, 1928, ch. 678, § 4, 45 Stat. 701, authorized appropriations for investigations of forest insects.
 
-Section 581d, act May 22, 1928, ch. 678, § 5, 45 Stat. 701, authorized appropriations for experiments and investigations of life histories and habits of forest animals, birds, and wildlife.
+Section 581d, act May 22, 1928, ch. 678, § 5, 45 Stat. 701, authorized appropriations for experiments and investigations of life histories and habits of forest animals, birds, and wildlife.
 
-Section 581e, act May 22, 1928, ch. 678, § 6, 45 Stat. 701, authorized appropriations for investigations of the relationship of weather conditions to forest fires.
+Section 581e, act May 22, 1928, ch. 678, § 6, 45 Stat. 701, authorized appropriations for investigations of the relationship of weather conditions to forest fires.
 
-Section 581f, act May 22, 1928, ch. 678, § 7, 45 Stat. 701, authorized appropriations for experiments and investigations for development of improved methods of management of forest ranges.
+Section 581f, act May 22, 1928, ch. 678, § 7, 45 Stat. 701, authorized appropriations for experiments and investigations for development of improved methods of management of forest ranges.
 
-Section 581g, act May 22, 1928, ch. 678, § 8, 45 Stat. 701, authorized appropriations for experiments, investigations, and tests of the physical and chemical properties of forest products.
+Section 581g, act May 22, 1928, ch. 678, § 8, 45 Stat. 701, authorized appropriations for experiments, investigations, and tests of the physical and chemical properties of forest products.
 
-Section 581h, acts May 22, 1928, ch. 678, § 9, 45 Stat. 702; May 31, 1944, ch. 217, 58 Stat. 265; June 25, 1949, ch. 245, 63 Stat. 271; Aug. 8, 1953, ch. 378, 67 Stat. 489; Sept. 25, 1962, Pub. L. 87–685, 76 Stat. 579; Dec. 14, 1967, Pub. L. 90–193, 81 Stat. 579; Aug. 17, 1974, Pub. L. 93–378, § 3(b), formerly § 2(b), 88 Stat. 476, renumbered Oct. 22, 1976, Pub. L. 94–588, § 2, 90 Stat. 2949, set forth provisions relating to comprehensive survey and analysis of the present and prospective conditions of and requirements for renewable resources.
+Section 581h, acts May 22, 1928, ch. 678, § 9, 45 Stat. 702; May 31, 1944, ch. 217, 58 Stat. 265; June 25, 1949, ch. 245, 63 Stat. 271; Aug. 8, 1953, ch. 378, 67 Stat. 489; Sept. 25, 1962, Pub. L. 87–685, 76 Stat. 579; Dec. 14, 1967, Pub. L. 90–193, 81 Stat. 579; Aug. 17, 1974, Pub. L. 93–378, § 3(b), formerly § 2(b), 88 Stat. 476, renumbered Oct. 22, 1976, Pub. L. 94–588, § 2, 90 Stat. 2949, set forth provisions relating to comprehensive survey and analysis of the present and prospective conditions of and requirements for renewable resources.
 
-Section 581i, act May 22, 1928, ch. 678, § 10, 45 Stat. 702, authorized appropriations for economic investigations of forest lands and forest products.
+Section 581i, act May 22, 1928, ch. 678, § 10, 45 Stat. 702, authorized appropriations for economic investigations of forest lands and forest products.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2879,23 +2879,23 @@ Section 581i, act May 22, 1928, ch. 678, § 10, 45 Stat. 702, authorized appro
 
 Repeal effective Oct. 1, 1978, see section 9 of Pub. L. 95–307, set out as an Effective Date note under section 1641 of this title.
 
-### § 581i–1. Advance of funds for cooperative research
+### § 581i–1. Advance of funds for cooperative research
 
 For the purpose of fostering and stimulating participation with the Forest Service in forest, range, and watershed management research through investigations, experiments, tests, or such other means as he may deem advisable, and in order to aid in obtaining the fullest cooperation from States and other public and private agencies, organizations, institutions, and individuals, in effectuating such research the Secretary of Agriculture is authorized in accordance with such regulations as he may issue and when in his judgment such cooperative work will be stimulated or facilitated to make funds available to the cooperators without regard to the provisions of section 3324(a) and (b) of title 31, prohibiting advances of public moneys.
 
-(Apr. 24, 1950, ch. 97, § 20, as added Apr. 6, 1956, ch. 176, 70 Stat. 100.)
+(Apr. 24, 1950, ch. 97, § 20, as added Apr. 6, 1956, ch. 176, 70 Stat. 100.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 3324(a) and (b) of title 31” substituted in text for “section 3648, Revised Statutes [31 U.S.C. 529]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 3324(a) and (b) of title 31” substituted in text for “section 3648, Revised Statutes [31 U.S.C. 529]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-### § 581j. Congressional declaration of policy on reforestation and revegetation
+### § 581j. Congressional declaration of policy on reforestation and revegetation
 
 It is the declared policy of the Congress to accelerate and provide a continuing basis for the needed reforestation and revegetation of national-forest lands and other lands under administration or control of the Forest Service of the Department of Agriculture in order to obtain the benefits hereinbefore enumerated.
 
-(Oct. 11, 1949, ch. 674, § 1, 63 Stat. 763.)
+(Oct. 11, 1949, ch. 674, § 1, 63 Stat. 763.)
 
 **Editorial Notes**
 
@@ -2931,13 +2931,13 @@ The preamble to act Oct. 11, 1949, provided that:
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note in Appendix to Title 5, Government Organization and Employees.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note in Appendix to Title 5, Government Organization and Employees.
 
-### § 581k. Authorization of appropriations for reforestation and revegetation
+### § 581k. Authorization of appropriations for reforestation and revegetation
 
 For the purpose of carrying out the provisions of this joint resolution on national-forest lands and other lands under the administration or control of the Forest Service of the Department of Agriculture, including the acquisition of land or interests therein for nurseries, there is authorized to be appropriated to remain available until December 31 of the ensuing fiscal year, $3,000,000 for the fiscal year ending June 30, 1951; $5,000,000 for the fiscal year ending June 30, 1952; $7,000,000 for the fiscal year ending June 30, 1953; $8,000,000 for the fiscal year ending June 30, 1954; $10,000,000 for the fiscal year ending June 30, 1955; a like amount for each subsequent year through the fiscal year ending June 30, 1965, and thereafter such amounts as may be needed for reforestation; and $1,500,000 for the fiscal year ending June 30, 1951; $1,750,000 for the fiscal year ending June 30, 1952; $2,000,000 for the fiscal year ending June 30, 1953; $2,500,000 for the fiscal year ending June 30, 1954; $3,000,000 for the fiscal year ending June 30, 1955; a like amount for each subsequent year through the fiscal year ending June 30, 1965, and thereafter such amounts as may be needed for range revegetation.
 
-(Oct. 11, 1949, ch. 674, § 2, 63 Stat. 763.)
+(Oct. 11, 1949, ch. 674, § 2, 63 Stat. 763.)
 
 **Editorial Notes**
 
@@ -2945,11 +2945,11 @@ For the purpose of carrying out the provisions of this joint resolution on natio
 
 This joint resolution, referred to in text, means Joint Res. 53, Oct. 11, 1949, ch. 674, 63 Stat. 762, which is classified to this section and section 581j of this title.
 
-### § 582. Puerto Rico; application of forest protection laws
+### § 582. Puerto Rico; application of forest protection laws
 
 The provisions of sections 515, 564, 565,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 569 of this title are extended to the Territory of Puerto Rico, and the Secretary of Agriculture is authorized to cooperate with the appropriate officials of Puerto Rico on the same terms and conditions as with the States: *Provided*, That not to exceed fifty thousand acres of land may be acquired in Puerto Rico under section 515 of this title.
 
@@ -2959,7 +2959,7 @@ and 569 of this title are extended to the Territory of Puerto Rico, and the Secr
 
 **References in Text**
 
-Sections 564 and 565 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.
+Sections 564 and 565 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2969,25 +2969,25 @@ Sections 564 and 565 of this title, referred to in text, were repealed by Pub. L
 
 ## SUBCHAPTER III—RESEARCH PROGRAMS
 
-### § 582a. Congressional findings
+### § 582a. Congressional findings
 
 It is recognized that research in forestry is the driving force behind progress in developing and utilizing the resources of the Nation’s forest and related rangelands. The production, protection, and utilization of the forest resources depend on strong technological advances and continuing development of the knowledge necessary to increase the efficiency of forestry practices and to extend the benefits that flow from forest and related rangelands. It is recognized that the total forestry research efforts of the several State colleges and universities and of the Federal Government are more fully effective if there is close coordination between such programs, and it is further recognized that forestry schools are especially vital in the training of research workers in forestry. It is also recognized that the provisions of this subchapter are essential to assist in providing the research background that undergirds the Forest and Rangeland Renewable Resources Planning Act of 1974 [16 U.S.C. 1600 et seq.], the Renewable Resources Extension Act of 1978,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the Soil and Water Resources Conservation Act of 1977 [16 U.S.C. 2001 et seq.].
 
-(Pub. L. 87–788, § 1, Oct. 10, 1962, 76 Stat. 806; Pub. L. 97–98, title XIV, § 1441(a), Dec. 22, 1981, 95 Stat. 1320.)
+(Pub. L. 87–788, § 1, Oct. 10, 1962, 76 Stat. 806; Pub. L. 97–98, title XIV, § 1441(a), Dec. 22, 1981, 95 Stat. 1320.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in text, is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in text, is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
-The Renewable Resources Extension Act of 1978, referred to in text, is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which was classified generally to subchapter III (§ 1671 et seq.) of chapter 36 of this title, and subsequently was omitted from the Code pursuant to section 8 of Pub. L. 95–306, set out as an Effective and Termination Dates note under section 1671 of this title.
+The Renewable Resources Extension Act of 1978, referred to in text, is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which was classified generally to subchapter III (§ 1671 et seq.) of chapter 36 of this title, and subsequently was omitted from the Code pursuant to section 8 of Pub. L. 95–306, set out as an Effective and Termination Dates note under section 1671 of this title.
 
-The Soil and Water Resources Conservation Act of 1977, referred to in text, is Pub. L. 95–192, Nov. 18, 1977, 91 Stat. 1407, which is classified generally to chapter 40 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Soil and Water Resources Conservation Act of 1977, referred to in text, is Pub. L. 95–192, Nov. 18, 1977, 91 Stat. 1407, which is classified generally to chapter 40 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
 **Amendments**
 
@@ -3005,21 +3005,21 @@ Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, which is classified g
 
 **Reaffirmation of McIntire-Stennis Research Program**
 
-Pub. L. 101–624, title XII, § 1231, Nov. 28, 1990, 104 Stat. 3543, provided that: “It is the sense of Congress to reaffirm the importance of Public Law 87–788 (16 U.S.C. 582a et seq.) commonly known as the McIntire-Stennis Cooperative Forestry Act.”
+Pub. L. 101–624, title XII, § 1231, Nov. 28, 1990, 104 Stat. 3543, provided that: “It is the sense of Congress to reaffirm the importance of Public Law 87–788 (16 U.S.C. 582a et seq.) commonly known as the McIntire-Stennis Cooperative Forestry Act.”
 
-### § 582a–1. Cooperation by Secretary of Agriculture with States; assistance: plans, eligible institutions and amount
+### § 582a–1. Cooperation by Secretary of Agriculture with States; assistance: plans, eligible institutions and amount
 
 In order to promote research in forestry, the Secretary of Agriculture is authorized to cooperate with the several States for the purpose of encouraging and assisting them in carrying out programs of forestry research.
 
 Such assistance shall be in accordance with plans to be agreed upon in advance by the Secretary and (a) land-grant colleges or agricultural experiment stations established under the Morrill Act of July 2, 1862, as amended [7 U.S.C. 301 et seq.], and the Hatch Act of March 2, 1887, as amended [7 U.S.C. 361a et seq.], 1890 Institutions (as defined in section 7601 of title 7), and 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)) that offer an associate’s degree or a baccalaureate degree in forestry, and (b) other State-supported colleges and universities offering graduate training in the sciences basic to forestry and having a forestry school; however, an appropriate State representative designated by the State’s Governor shall, in any agreement drawn up with the Secretary of Agriculture for the purposes of this subchapter, certify those eligible institutions of the State which will qualify for assistance and shall determine the proportionate amounts of assistance to be extended these certified institutions. If more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complementary programs of forestry research for the State.
 
-(Pub. L. 87–788, § 2, Oct. 10, 1962, 76 Stat. 806; Pub. L. 97–98, title XIV, § 1441(b), Dec. 22, 1981, 95 Stat. 1320; Pub. L. 110–234, title VII, § 7412(a), May 22, 2008, 122 Stat. 1255; Pub. L. 110–246, § 4(a), title VII, § 7412(a), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 115–334, title VII, § 7604, Dec. 20, 2018, 132 Stat. 4828.)
+(Pub. L. 87–788, § 2, Oct. 10, 1962, 76 Stat. 806; Pub. L. 97–98, title XIV, § 1441(b), Dec. 22, 1981, 95 Stat. 1320; Pub. L. 110–234, title VII, § 7412(a), May 22, 2008, 122 Stat. 1255; Pub. L. 110–246, § 4(a), title VII, § 7412(a), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 115–334, title VII, § 7604, Dec. 20, 2018, 132 Stat. 4828.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Morrill Act of July 2, 1862, referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
+The Morrill Act of July 2, 1862, referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
 The Hatch Act of March 2, 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
 
@@ -3031,7 +3031,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Pub. L. 115–334 struck out “and” before “1890 Institutions” and inserted “and 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)) that offer an associate’s degree or a baccalaureate degree in forestry,” before “and (b)”.
 
-2008—Pub. L. 110–246, § 7412(a), inserted “and 1890 Institutions (as defined in section 7601 of title 7),” before “and (b)”.
+2008—Pub. L. 110–246, § 7412(a), inserted “and 1890 Institutions (as defined in section 7601 of title 7),” before “and (b)”.
 
 1981—Pub. L. 97–98 inserted provision that if more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complimentary programs of forestry research for the State.
 
@@ -3041,7 +3041,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title VII, § 7412(b), May 22, 2008, 122 Stat. 1255, and Pub. L. 110–246, § 4(a), title VII, § 7412(b), June 18, 2008, 122 Stat. 1664, 2017, provided that: “The amendment made by subsection (a) [amending this section] takes effect on October 1, 2008.”
+Pub. L. 110–234, title VII, § 7412(b), May 22, 2008, 122 Stat. 1255, and Pub. L. 110–246, § 4(a), title VII, § 7412(b), June 18, 2008, 122 Stat. 1664, 2017, provided that: “The amendment made by subsection (a) [amending this section] takes effect on October 1, 2008.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
@@ -3049,17 +3049,17 @@ Pub. L. 110–234, title VII, § 7412(b), May 22, 2008, 122 Stat. 1255, and Pu
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of Title 7, Agriculture.
 
-### § 582a–2. Authorization of appropriations; other allotments and grants
+### § 582a–2. Authorization of appropriations; other allotments and grants
 
 To enable the Secretary to carry out the provisions of this subchapter there are authorized to be appropriated such sums as the Congress may from time to time determine to be necessary but not exceeding in any one fiscal year one-half the amount appropriated for Federal forestry research conducted directly by the Department of Agriculture for the fiscal year preceding the year in which the budget is presented for such appropriation. Funds appropriated and made available to the States under this subchapter shall be in addition to allotments or grants that may be made under other authorizations.
 
-(Pub. L. 87–788, § 3, Oct. 10, 1962, 76 Stat. 806.)
+(Pub. L. 87–788, § 3, Oct. 10, 1962, 76 Stat. 806.)
 
-### § 582a–3. Matching funds; reapportionment to other qualifying institutions; reductions
+### § 582a–3. Matching funds; reapportionment to other qualifying institutions; reductions
 
 The amount paid by the Federal Government to any State-certified institutions eligible for assistance under this subchapter shall not exceed during any fiscal year the amount available to and budgeted for expenditure by such college or university during the same fiscal year for forestry research from non-Federal sources, except that for the fiscal years ending June 30, 1971, and June 30, 1972, the matching funds requirement hereof shall not be applicable to the Virgin Islands and Guam, and sums authorized for such years for the Virgin Islands and Guam may be used to pay the total cost of programs for forestry research. The Secretary is authorized to make such expenditures on the certificate of the appropriate official of the college or university having charge of the forestry research for which the expenditures as herein provided are to be made. If any or all of the colleges or universities certified for receipt of funds under this subchapter fails to make available and budget for expenditure for forestry research in any fiscal year sums at least as much as the amount for which it would be eligible for such year under this subchapter, the difference between the Federal funds available and the funds made available and budgeted for expenditure by the college or university shall be reapportioned by the Secretary to other eligible colleges or universities of the same State if there be any which qualify therefor and, if there be none, the Secretary shall reapportion such differences to the qualifying colleges and universities of other States participating in the forestry research program. If in any year the amount made available by a State from its own funds (including any revenue-sharing funds) to a State-certified institution eligible for assistance under this subchapter is reduced because of an increase in the allotment made available under this subchapter, the allotment of such State-certified institution from the next succeeding appropriation shall be reduced in an equivalent amount. The Secretary shall reapportion the amount of such reduction to other eligible colleges and universities of the same State if there be any that qualify therefor and, if there be none, the Secretary shall reapportion such amount to the qualifying colleges and universities of other States participating in the forestry research program.
 
-(Pub. L. 87–788, § 4, Oct. 10, 1962, 76 Stat. 806; Pub. L. 92–318, title V, § 506(i), June 23, 1972, 86 Stat. 351; Pub. L. 97–98, title XIV, § 1442(b), Dec. 22, 1981, 95 Stat. 1321.)
+(Pub. L. 87–788, § 4, Oct. 10, 1962, 76 Stat. 806; Pub. L. 92–318, title V, § 506(i), June 23, 1972, 86 Stat. 351; Pub. L. 97–98, title XIV, § 1442(b), Dec. 22, 1981, 95 Stat. 1321.)
 
 **Editorial Notes**
 
@@ -3079,7 +3079,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as an Effective Date note under section 326a of Title 7, Agriculture.
 
-### § 582a–4. Regulations; advice and assistance; appointment, membership, etc., of council
+### § 582a–4. Regulations; advice and assistance; appointment, membership, etc., of council
 
 **(a) Regulations and assistance**
 
@@ -3089,7 +3089,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 The Secretary shall appoint a council of not fewer than sixteen members which shall be constituted to give representation to Federal and State agencies concerned with developing and utilizing the Nation’s forest resources, the forest industries, the forestry schools of the State-certified eligible institutions, State agricultural experiment stations, and volunteer public groups concerned with forests and related natural resources. The council shall meet at least annually and shall submit a report to the Secretary on regional and national planning and coordination of forestry research within the Federal and State agencies, forestry schools, and the forest industries, and shall advise the Secretary on the apportionment of funds. The Secretary shall seek, at least once each year, the advice of the council to accomplish efficiently the purposes of this subchapter.
 
-(Pub. L. 87–788, § 5, Oct. 10, 1962, 76 Stat. 807; Pub. L. 97–98, title XIV, § 1441(c), Dec. 22, 1981, 95 Stat. 1320.)
+(Pub. L. 87–788, § 5, Oct. 10, 1962, 76 Stat. 807; Pub. L. 97–98, title XIV, § 1441(c), Dec. 22, 1981, 95 Stat. 1320.)
 
 **Editorial Notes**
 
@@ -3107,11 +3107,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 582a–5. Apportionments, advice, criteria, etc.
+### § 582a–5. Apportionments, advice, criteria, etc.
 
 Apportionments among participating States shall be determined by the Secretary after consultation with the council appointed under section 582a–4 of this title. In making such apportionments, consideration shall be given to pertinent factors including non-Federal expenditures for forestry research by State-certified eligible institutions, areas of non-Federal commercial forest land, and the volume of timber cut annually. Three per centum of such funds as may be appropriated shall be made available to the Secretary for administration of this subchapter. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for purposes of assessing research opportunities or research planning.
 
-(Pub. L. 87–788, § 6, Oct. 10, 1962, 76 Stat. 807; Pub. L. 97–98, title XIV, § 1441(c), Dec. 22, 1981, 95 Stat. 1320.)
+(Pub. L. 87–788, § 6, Oct. 10, 1962, 76 Stat. 807; Pub. L. 97–98, title XIV, § 1441(c), Dec. 22, 1981, 95 Stat. 1320.)
 
 **Editorial Notes**
 
@@ -3125,17 +3125,17 @@ Apportionments among participating States shall be determined by the Secretary a
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of Title 7, Agriculture.
 
-### § 582a–6. Scope of forestry research
+### § 582a–6. Scope of forestry research
 
 The term “forestry research” as used in this subchapter shall include investigations relating to: (1) Reforestation and management of land for the production of crops of timber and other related products of the forest; (2) management of forest and related watershed lands to improve conditions of waterflow and to protect resources against floods and erosion; (3) management of forest and related rangeland for production of forage for domestic livestock and game and improvement of food and habitat for wildlife; (4) management of forest lands for outdoor recreation; (5) protection of forest land and resources against fire, insects, diseases, or other destructive agents; (6) utilization of wood and other forest products; (7) development of sound policies for the management of forest lands and the harvesting and marketing of forest products; and (8) such other studies as may be necessary to obtain the fullest and most effective use of forest resources.
 
-(Pub. L. 87–788, § 7, Oct. 10, 1962, 76 Stat. 807.)
+(Pub. L. 87–788, § 7, Oct. 10, 1962, 76 Stat. 807.)
 
-### § 582a–7. “State” defined
+### § 582a–7. “State” defined
 
 The term “State” as used in this subchapter shall include Puerto Rico, the Virgin Islands, and Guam.
 
-(Pub. L. 87–788, § 8, Oct. 10, 1962, 76 Stat. 807; Pub. L. 92–318, title V, § 506(j), June 23, 1972, 86 Stat. 351.)
+(Pub. L. 87–788, § 8, Oct. 10, 1962, 76 Stat. 807; Pub. L. 92–318, title V, § 506(j), June 23, 1972, 86 Stat. 351.)
 
 **Editorial Notes**
 
@@ -3149,7 +3149,7 @@ The term “State” as used in this subchapter shall include Puerto Rico, the V
 
 Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as an Effective Date note under section 326a of Title 7, Agriculture.
 
-### § 582a–8. Competitive forestry, natural resources, and environmental grants program
+### § 582a–8. Competitive forestry, natural resources, and environmental grants program
 
 **(a) Establishment**
 
@@ -3229,7 +3229,7 @@ The Secretary may make grants under this section for periods of not to exceed 5 
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 101–624, title XII, § 1232, Nov. 28, 1990, 104 Stat. 3543; Pub. L. 115–334, title VIII, § 8708, Dec. 20, 2018, 132 Stat. 4882.)
+(Pub. L. 101–624, title XII, § 1232, Nov. 28, 1990, 104 Stat. 3543; Pub. L. 115–334, title VIII, § 8708, Dec. 20, 2018, 132 Stat. 4882.)
 
 **Editorial Notes**
 
@@ -3239,39 +3239,39 @@ Section was enacted as part of the Forest Stewardship Act of 1990 and as part of
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 8708(1), inserted “or forest restoration” after “research”.
+2018—Subsec. (a). Pub. L. 115–334, § 8708(1), inserted “or forest restoration” after “research”.
 
-Subsec. (c). Pub. L. 115–334, § 8708(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to applicant priority based on use of grants for certain research areas.
+Subsec. (c). Pub. L. 115–334, § 8708(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to applicant priority based on use of grants for certain research areas.
 
 ## SUBCHAPTER IV—SUSTAINED-YIELD FOREST MANAGEMENT
 
-### § 583. Establishment of sustained-yield units to stabilize forest industries, employment, communities and taxable wealth
+### § 583. Establishment of sustained-yield units to stabilize forest industries, employment, communities and taxable wealth
 
 In order to promote the stability of forest industries, of employment, of communities, and of taxable forest wealth, through continuous supplies of timber; in order to provide for a continuous and ample supply of forest products; and in order to secure the benefits of forests in maintenance of water supply, regulation of stream flow, prevention of soil erosion, amelioration of climate, and preservation of wildlife, the Secretary of Agriculture and the Secretary of the Interior are severally authorized to establish by formal declaration, when in their respective judgments such action would be in the public interest, cooperative sustained-yield units which shall consist of federally owned or administered forest land under the jurisdiction of the Secretary establishing the unit and, in addition thereto, land which reasonably may be expected to be made the subject of one or more of the cooperative agreements with private landowners authorized by section 583a of this title.
 
-(Mar. 29, 1944, ch. 146, § 1, 58 Stat. 132.)
+(Mar. 29, 1944, ch. 146, § 1, 58 Stat. 132.)
 
-### § 583a. Cooperative agreements with private owners; privileges of private owners; recordation of agreements
+### § 583a. Cooperative agreements with private owners; privileges of private owners; recordation of agreements
 
 The Secretary of Agriculture, with respect to forest land under his jurisdiction, and the Secretary of the Interior, with respect to forest land under his jurisdiction, are severally authorized, for the purposes specified in section 583 of this title, to enter into cooperative agreements with private owners of forest land within a cooperative sustained-yield unit, established pursuant to said section, providing for the coordinated management of such private forest land and of federally owned or administered forest lands within the sustained-yield unit involved. Each cooperative agreement may give the cooperating private landowner the privilege of purchasing without competitive bidding at prices not less than their appraised value, subject to periodic readjustments of stumpage rates and to such other conditions and requirements as the Secretary may prescribe, timber and other forest products from federally owned or administered forest land within the unit, in accordance with the provisions of sustained-yield management plans formulated or approved by the Secretary for the unit; shall limit the time, rate, and method of cutting or otherwise harvesting timber and other forest products from the land of the cooperating private landowner, due consideration being given to the character and condition of the timber, to the relation of the proposed cutting to the sustained-yield plan for the unit, and to the productive capacity of the land; shall prescribe the terms and conditions, but not the price, upon which the cooperating private landowner may sell to any person timber and other forest products from his land, compliance by the purchaser with such conditions to be required by the contract of sale; shall contain such provisions as the Secretary deems necessary to protect the reasonable interest of other owners of forest land within the unit; and shall contain such other provisions as the Secretary believes necessary to carry out the purposes of this subchapter.
 
 Each cooperative agreement shall be placed on record in the county or counties in which the lands of the cooperating private landowner covered thereby are located, and the costs incident to such recordation may be paid out of any funds available for the protection or management of federally owned or administered forest land within the unit. When thus recorded, the agreement shall be binding upon the heirs, successors, and assigns of the owner of such land, and upon purchasers of timber or other forest products from such land, throughout the life of such cooperative agreement.
 
-(Mar. 29, 1944, ch. 146, § 2, 58 Stat. 132.)
+(Mar. 29, 1944, ch. 146, § 2, 58 Stat. 132.)
 
-### § 583b. Establishment of sustained-yield units to stabilize sale of timber and forest products
+### § 583b. Establishment of sustained-yield units to stabilize sale of timber and forest products
 
 The Secretary of Agriculture and the Secretary of the Interior are further severally authorized, whenever in their respective judgments the maintenance of a stable community or communities is primarily dependent upon the sale of timber or other forest products from federally owned or administered forest land and such maintenance cannot effectively be secured by following the usual procedures in selling such timber or other forest products, to establish by formal declaration for the purpose of maintaining the stability of such community or communities a sustained-yield unit consisting of forest land under the jurisdiction of the Secretary establishing such unit, to determine and define the boundaries of the community or communities for whose benefit such unit is created, and to sell, subject to such conditions and requirements as the Secretary believes necessary, federally owned or administered timber and other forest products from such unit without competitive bidding at prices not less than their appraised values, to responsible purchasers within such community or communities.
 
-(Mar. 29, 1944, ch. 146, § 3, 58 Stat. 133.)
+(Mar. 29, 1944, ch. 146, § 3, 58 Stat. 133.)
 
-### § 583c. Agreements between Secretaries of Agriculture and the Interior, or with other Federal agencies having jurisdiction over forest land
+### § 583c. Agreements between Secretaries of Agriculture and the Interior, or with other Federal agencies having jurisdiction over forest land
 
 Each of the said Secretaries is further authorized in his discretion to enter into cooperative agreements with the other Secretary, or with any Federal agency having jurisdiction over federally owned or administered forest land, or with any State or local agency having jurisdiction over publicly owned or administered forest land, providing for the inclusion of such land in any coordinated plan of management otherwise authorized by the provisions of this subchapter when by such a cooperative agreement he may be aided in accomplishing the purposes of this subchapter; but no federally or publicly owned or administered forest land not under the jurisdiction of the Secretary establishing the sustained-yield unit concerned shall be included in any such plan except in pursuance of a cooperative agreement made under this section.
 
-(Mar. 29, 1944, ch. 146, § 4, 58 Stat. 133.)
+(Mar. 29, 1944, ch. 146, § 4, 58 Stat. 133.)
 
-### § 583d. Notice; registered mail and publication; costs; contents; request for hearing; time; determination and record available for inspection
+### § 583d. Notice; registered mail and publication; costs; contents; request for hearing; time; determination and record available for inspection
 
 Before any sustained-yield unit authorized by section 583 or 583b of this title shall be established, and before any cooperative agreement authorized by section 583a or 583c of this title shall be entered into, advance notice thereof shall be given by registered mail or by certified mail to each landowner whose land is proposed to be included and by publication in one or more newspapers of general circulation in the vicinity of the place where the timber is located, and the costs incident to such publication may be paid out of any funds available for the protection or management of the federally owned or administered forest land involved. This notice shall state: (1) the location of the proposed unit; (2) the name of each proposed cooperator; (3) the duration of the proposed cooperative agreement or agreements; (4) the location and estimated quantity of timber on the land of each proposed cooperator and on the Federal land involved; (5) the expected rate of cutting of such timber; and (6) the time and place of a public hearing to be held not less than thirty days after the first publication of said notice for the presentation of the advantages and disadvantages of the proposed action to the community or communities affected.
 
@@ -3279,7 +3279,7 @@ Before any sale agreement made without competition and involving more than $500 
 
 The determination made by the Secretary having jurisdiction upon the proposals considered at any such hearing, which determination may include the modification of the terms of such proposals, together with the minutes or other record of the hearing, shall be available for public inspection during the life of any coordinated plan of management or agreement entered into in consequence of such determination.
 
-(Mar. 29, 1944, ch. 146, § 5, 58 Stat. 133; Pub. L. 86–507, § 1(17), June 11, 1960, 74 Stat. 201.)
+(Mar. 29, 1944, ch. 146, § 5, 58 Stat. 133; Pub. L. 86–507, § 1(17), June 11, 1960, 74 Stat. 201.)
 
 **Editorial Notes**
 
@@ -3287,39 +3287,39 @@ The determination made by the Secretary having jurisdiction upon the proposals c
 
 1960—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-### § 583e. Remedies against private owners; jurisdiction; final orders; “owner” defined
+### § 583e. Remedies against private owners; jurisdiction; final orders; “owner” defined
 
 In addition to any other remedy available under existing law, upon failure of any private owner of forest land which is subject to a cooperative agreement entered into pursuant to this subchapter to comply with the terms of such agreement, or upon failure of any purchaser of timber or other forest products from such land to comply with the terms and conditions required by such agreement to be included in the contract of sale, the Attorney General, at the request of the Secretary concerned, is authorized to institute against such owner or such purchaser a proceeding in equity in the proper district court of the United States, to require compliance with the terms and conditions of said cooperative agreement; and jurisdiction is conferred upon said district courts to hear and determine such proceedings, to order compliance with the terms and conditions of cooperative agreements entered into pursuant to this subchapter, and to make such temporary and final orders as shall be deemed just in the premises. As used in this section the term “owner” shall include the heirs, successors, and assigns of the landowner entering into the cooperative agreements.
 
-(Mar. 29, 1944, ch. 146, § 6, 58 Stat. 134.)
+(Mar. 29, 1944, ch. 146, § 6, 58 Stat. 134.)
 
-### § 583f. “Federally owned or administered forest land” defined
+### § 583f. “Federally owned or administered forest land” defined
 
 Whenever used in this subchapter, the term “federally owned or administered forest land” shall be construed to mean forest land in which, or in the natural resources of which, the United States has a legal or equitable interest of any character sufficient to entitle the United States to control the management or disposition of the timber or other forest products thereon, except land heretofore or hereafter reserved or withdrawn for purposes which are inconsistent with the exercise of the authority conferred by this subchapter; and shall include trust or restricted Indian land, whether tribal or allotted, except that such land shall not be included without the consent of the Indians concerned.
 
-(Mar. 29, 1944, ch. 146, § 7, 58 Stat. 134.)
+(Mar. 29, 1944, ch. 146, § 7, 58 Stat. 134.)
 
-### § 583g. Rules and regulations; delegation of powers and duties
+### § 583g. Rules and regulations; delegation of powers and duties
 
 The Secretary of Agriculture and the Secretary of the Interior may severally prescribe such rules and regulations as may be appropriate to carry out the purposes of this subchapter. Each Secretary may delegate any of his powers and duties under this subchapter to other officers or employees of his Department.
 
-(Mar. 29, 1944, ch. 146, § 8, 58 Stat. 134.)
+(Mar. 29, 1944, ch. 146, § 8, 58 Stat. 134.)
 
-### § 583h. Prior acts as affecting or affected by subchapter
+### § 583h. Prior acts as affecting or affected by subchapter
 
 Nothing contained in this subchapter shall be construed to abrogate or curtail any authority conferred upon the Secretary of Agriculture or the Secretary of the Interior by any Act relating to management of federally owned or administered forest lands, and nothing contained in any such Acts shall be construed to limit or restrict any authority conferred upon the Secretary of Agriculture or the Secretary of the Interior by this subchapter.
 
-(Mar. 29, 1944, ch. 146, § 9, 58 Stat. 134.)
+(Mar. 29, 1944, ch. 146, § 9, 58 Stat. 134.)
 
-### § 583i. Authorization of appropriations
+### § 583i. Authorization of appropriations
 
 Funds available for the protection or management of Federally owned or administered forest land within the unit concerned may also be expended in carrying out the purposes of this subchapter, and there are authorized to be appropriated such additional sums for the purposes of this subchapter as the Congress may from time to time deem necessary, but such additional sums shall not exceed $150,000 for the Department of Agriculture and $50,000 for the Department of the Interior, for any fiscal year.
 
-(Mar. 29, 1944, ch. 146, § 10, 58 Stat. 135.)
+(Mar. 29, 1944, ch. 146, § 10, 58 Stat. 135.)
 
 ## SUBCHAPTER V—FOREST FOUNDATION
 
-### § 583j. Establishment and purposes of Foundation
+### § 583j. Establishment and purposes of Foundation
 
 **(a) Establishment**
 
@@ -3347,19 +3347,19 @@ There is established the National Forest Foundation (hereinafter referred to as 
 
 **(ii)** has any direct or indirect financial interest.
 
-(Pub. L. 101–593, title IV, § 402, Nov. 16, 1990, 104 Stat. 2970.)
+(Pub. L. 101–593, title IV, § 402, Nov. 16, 1990, 104 Stat. 2970.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–106, § 1, Oct. 12, 1993, 107 Stat. 1031, provided that: “This Act [amending sections 583j–3 and 583j–8 of this title and enacting provisions set out as a note under section 583j–3 of this title] may be cited as the ‘National Forest Foundation Act Amendment Act of 1993’.”
+Pub. L. 103–106, § 1, Oct. 12, 1993, 107 Stat. 1031, provided that: “This Act [amending sections 583j–3 and 583j–8 of this title and enacting provisions set out as a note under section 583j–3 of this title] may be cited as the ‘National Forest Foundation Act Amendment Act of 1993’.”
 
 **Short Title**
 
-Pub. L. 101–593, title IV, § 401, Nov. 16, 1990, 104 Stat. 2969, provided that: “This title [enacting this subchapter] may be cited as the ‘National Forest Foundation Act’.”
+Pub. L. 101–593, title IV, § 401, Nov. 16, 1990, 104 Stat. 2969, provided that: “This title [enacting this subchapter] may be cited as the ‘National Forest Foundation Act’.”
 
-### § 583j–1. Board of Directors of Foundation
+### § 583j–1. Board of Directors of Foundation
 
 **(a) Establishment and membership**
 
@@ -3393,7 +3393,7 @@ The Board may complete the organization of the Foundation by appointing employee
 
 Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their services. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-(Pub. L. 101–593, title IV, § 403, Nov. 16, 1990, 104 Stat. 2970; Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 450; Pub. L. 111–88, div. A, title IV, § 432, Oct. 30, 2009, 123 Stat. 2964.)
+(Pub. L. 101–593, title IV, § 403, Nov. 16, 1990, 104 Stat. 2970; Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 450; Pub. L. 111–88, div. A, title IV, § 432, Oct. 30, 2009, 123 Stat. 2964.)
 
 **Editorial Notes**
 
@@ -3407,7 +3407,7 @@ This subchapter, referred to in subsec. (g), was in the original “this subtitl
 
 2001—Subsec. (a). Pub. L. 107–63 inserted “At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty.” after first sentence.
 
-### § 583j–2. Corporate powers and obligations
+### § 583j–2. Corporate powers and obligations
 
 **(a) In general** The Foundation—
 
@@ -3453,17 +3453,17 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 **(4)** Contributions, gifts, and other transfers made to or for the use of the Foundation shall be treated as contributions, gifts, or transfers to an organization exempt from taxation under section 501(c)(3) of title 26.
 
-(Pub. L. 101–593, title IV, § 404, Nov. 16, 1990, 104 Stat. 2971; Pub. L. 114–54, title II, § 201(c)(1), Sept. 30, 2015, 129 Stat. 516.)
+(Pub. L. 101–593, title IV, § 404, Nov. 16, 1990, 104 Stat. 2971; Pub. L. 114–54, title II, § 201(c)(1), Sept. 30, 2015, 129 Stat. 516.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a)(4). Pub. L. 114–54, § 201(c)(1)(A), inserted “notice or” after “authorized to accept”.
+2015—Subsec. (a)(4). Pub. L. 114–54, § 201(c)(1)(A), inserted “notice or” after “authorized to accept”.
 
-Subsec. (b). Pub. L. 114–54, § 201(c)(1)(B), substituted “by subsection (a)(4)” for “under this paragraph”.
+Subsec. (b). Pub. L. 114–54, § 201(c)(1)(B), substituted “by subsection (a)(4)” for “under this paragraph”.
 
-### § 583j–3. Administrative services and support
+### § 583j–3. Administrative services and support
 
 **(a) Startup funds**
 
@@ -3477,7 +3477,7 @@ In addition to the startup funds provided under subsection (a) of this section, 
 
 At any time, the Secretary may provide the Foundation use of Department of Agriculture personnel, facilities, and equipment, with partial or no reimbursement, with such limitations and on such terms and conditions as the Secretary shall establish.
 
-(Pub. L. 101–593, title IV, § 405, Nov. 16, 1990, 104 Stat. 2972; Pub. L. 103–106, § 3(a), Oct. 12, 1993, 107 Stat. 1031; Pub. L. 114–54, title II, § 201(a), Sept. 30, 2015, 129 Stat. 515; Pub. L. 115–334, title VIII, § 8503(a), Dec. 20, 2018, 132 Stat. 4847.)
+(Pub. L. 101–593, title IV, § 405, Nov. 16, 1990, 104 Stat. 2972; Pub. L. 103–106, § 3(a), Oct. 12, 1993, 107 Stat. 1031; Pub. L. 114–54, title II, § 201(a), Sept. 30, 2015, 129 Stat. 515; Pub. L. 115–334, title VIII, § 8503(a), Dec. 20, 2018, 132 Stat. 4847.)
 
 **Editorial Notes**
 
@@ -3487,15 +3487,15 @@ At any time, the Secretary may provide the Foundation use of Department of Agric
 
 2015—Subsec. (b). Pub. L. 114–54 substituted “during fiscal years 2016 through 2018” for “for a period of five years beginning October 1, 1992”.
 
-1993—Subsec. (a). Pub. L. 103–106, § 3(a)(1), inserted “, project,” after “administrative” and substituted “beginning October 1, 1992” for “following November 16, 1990”.
+1993—Subsec. (a). Pub. L. 103–106, § 3(a)(1), inserted “, project,” after “administrative” and substituted “beginning October 1, 1992” for “following November 16, 1990”.
 
-Subsec. (b). Pub. L. 103–106, § 3(a)(2), substituted “beginning October 1, 1992” for “from November 16, 1990” and inserted “and project” after “administrative”.
+Subsec. (b). Pub. L. 103–106, § 3(a)(2), substituted “beginning October 1, 1992” for “from November 16, 1990” and inserted “and project” after “administrative”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Purpose of Pub. L. 103–106**
 
-Pub. L. 103–106, § 2, Oct. 12, 1993, 107 Stat. 1031, provided that:
+Pub. L. 103–106, § 2, Oct. 12, 1993, 107 Stat. 1031, provided that:
 
 > “It is the purpose of this Act [see Short Title of 1993 Amendment note set out under section 583j of this title]—
 
@@ -3503,21 +3503,21 @@ Pub. L. 103–106, § 2, Oct. 12, 1993, 107 Stat. 1031, provided that:
 
 > **“(2)** to extend the funding authorization for start-up expenses for 1 year.”
 
-### § 583j–4. Volunteers
+### § 583j–4. Volunteers
 
 The Secretary may accept, without regard to the civil service classification laws, rules and regulations, any director, officer, employee or agent of the Foundation as a volunteer for purposes of the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558a through 558d; 86 Stat. 147).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 101–593, title IV, § 406, Nov. 16, 1990, 104 Stat. 2973.)
+(Pub. L. 101–593, title IV, § 406, Nov. 16, 1990, 104 Stat. 2973.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Volunteers in the National Forests Act of 1972, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under section 558a of this title, provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+The Volunteers in the National Forests Act of 1972, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under section 558a of this title, provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
-### § 583j–5. Audits and report requirements
+### § 583j–5. Audits and report requirements
 
 **(a) Audits**
 
@@ -3527,29 +3527,29 @@ For purposes of section 10101 of title 36 the Foundation shall be treated as a c
 
 The Foundation shall transmit each year to Congress a report of its proceedings and activities of the previous year, including a full and complete statement of its receipts, expenditures, and investments.
 
-(Pub. L. 101–593, title IV, § 407, Nov. 16, 1990, 104 Stat. 2973; Pub. L. 114–54, title II, § 201(c)(2), Sept. 30, 2015, 129 Stat. 516.)
+(Pub. L. 101–593, title IV, § 407, Nov. 16, 1990, 104 Stat. 2973; Pub. L. 114–54, title II, § 201(c)(2), Sept. 30, 2015, 129 Stat. 516.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law,’ approved August 30, 1964 (36 U.S.C. 1101 through 1103; Public Law 88–504)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+In subsec. (a), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law,’ approved August 30, 1964 (36 U.S.C. 1101 through 1103; Public Law 88–504)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 **Amendments**
 
 2015—Subsec. (b). Pub. L. 114–54 struck out comma after “The Foundation shall”.
 
-### § 583j–6. United States release from liability
+### § 583j–6. United States release from liability
 
 The United States shall not be liable for any debts, defaults, acts or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligations of the Foundation.
 
-(Pub. L. 101–593, title IV, § 408, Nov. 16, 1990, 104 Stat. 2973.)
+(Pub. L. 101–593, title IV, § 408, Nov. 16, 1990, 104 Stat. 2973.)
 
-### § 583j–7. Activities of Foundation and United States Forest Service
+### § 583j–7. Activities of Foundation and United States Forest Service
 
 The activities of the Foundation authorized under the provisions of this Act shall be supplemental to and shall not preempt any authority or responsibility of the United States Forest Service under any other provision of law.
 
-(Pub. L. 101–593, title IV, § 409, Nov. 16, 1990, 104 Stat. 2973.)
+(Pub. L. 101–593, title IV, § 409, Nov. 16, 1990, 104 Stat. 2973.)
 
 **Editorial Notes**
 
@@ -3557,7 +3557,7 @@ The activities of the Foundation authorized under the provisions of this Act sha
 
 This Act, referred to in text, is Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 2954, which enacted this subchapter, chapter 32A of this title, and section 777e–1 of this title, amended sections 2910, 3702, 3709, 4403, and 4404 of this title, and enacted provisions listed in a table of National Environmental Centers set out under section 668dd of this title and provisions set out in notes under section 3701 of this title and section 4321 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-### § 583j–8. Authorization of appropriations
+### § 583j–8. Authorization of appropriations
 
 **(a) Startup funds**
 
@@ -3567,7 +3567,7 @@ For the purposes of section 583j–3 of this title, there are authorized to be a
 
 For the purposes of section 583j–3 of this title, there are authorized to be appropriated $3,000,000 for each of fiscal years 2016 through 2023 to the Secretary of Agriculture to be made available to the Foundation to match, on a one-for-one basis, private contributions made to the Foundation.
 
-(Pub. L. 101–593, title IV, § 410, Nov. 16, 1990, 104 Stat. 2973; Pub. L. 103–106, § 3(b), Oct. 12, 1993, 107 Stat. 1032; Pub. L. 114–54, title II, § 201(b), Sept. 30, 2015, 129 Stat. 515; Pub. L. 115–334, title VIII, § 8503(b), Dec. 20, 2018, 132 Stat. 4847.)
+(Pub. L. 101–593, title IV, § 410, Nov. 16, 1990, 104 Stat. 2973; Pub. L. 103–106, § 3(b), Oct. 12, 1993, 107 Stat. 1032; Pub. L. 114–54, title II, § 201(b), Sept. 30, 2015, 129 Stat. 515; Pub. L. 115–334, title VIII, § 8503(b), Dec. 20, 2018, 132 Stat. 4847.)
 
 **Editorial Notes**
 
@@ -3579,7 +3579,7 @@ For the purposes of section 583j–3 of this title, there are authorized to be a
 
 1993—Subsec. (b). Pub. L. 103–106 substituted “beginning October 1, 1992” for “following November 16, 1990”.
 
-### § 583j–9. Federal funds
+### § 583j–9. Federal funds
 
 For fiscal year 2014 and thereafter, the National Forest Foundation may hold Federal funds made available but not immediately disbursed and may use any interest or other investment income earned (before, on, or after January 17, 2014) on Federal funds to carry out the purposes of Public Law 101–593: *Provided further*, That such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
@@ -3603,9 +3603,9 @@ Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 450.
 
 Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 972.
 
-Pub. L. 106–113, div. B, § 1000(a)(3) [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–176.
+Pub. L. 106–113, div. B, § 1000(a)(3) [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–176.
 
-Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–273.
+Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–273.
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1577.
 
@@ -3623,7 +3623,7 @@ Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 256.
 
 ## SUBCHAPTER VI—NATIONAL FOREST SYSTEM TRAILS STEWARDSHIP
 
-### § 583k. Findings
+### § 583k. Findings
 
 Congress finds as follows:
 
@@ -3637,15 +3637,15 @@ Congress finds as follows:
 
 **(5)** Volunteers, partners, and outfitters and guides play an important role in maintaining National Forest System trails, and a comprehensive strategy is needed to ensure that volunteers and partners are used as effectively as possible.
 
-(Pub. L. 114–245, § 2, Nov. 28, 2016, 130 Stat. 990.)
+(Pub. L. 114–245, § 2, Nov. 28, 2016, 130 Stat. 990.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 114–245, § 1(a), Nov. 28, 2016, 130 Stat. 990, provided that: “This Act [enacting this subchapter and amending section 558c of this title] may be cited as the ‘National Forest System Trails Stewardship Act’.”
+Pub. L. 114–245, § 1(a), Nov. 28, 2016, 130 Stat. 990, provided that: “This Act [enacting this subchapter and amending section 558c of this title] may be cited as the ‘National Forest System Trails Stewardship Act’.”
 
-### § 583k–1. Definitions
+### § 583k–1. Definitions
 
 In this subchapter:
 
@@ -3691,17 +3691,17 @@ The term “strategy” means the National Forest System Trails Volunteer and Pa
 
 The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558a et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 114–245, § 3, Nov. 28, 2016, 130 Stat. 990.)
+(Pub. L. 114–245, § 3, Nov. 28, 2016, 130 Stat. 990.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Volunteers in the National Forests Act of 1972, referred to in par. (9), is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under section 558a of this title, provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+The Volunteers in the National Forests Act of 1972, referred to in par. (9), is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under section 558a of this title, provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
-### § 583k–2. National Forest System Trails Volunteer and Partnership Strategy
+### § 583k–2. National Forest System Trails Volunteer and Partnership Strategy
 
 **(a) In general**
 
@@ -3759,7 +3759,7 @@ The Secretary shall require each administrative unit to develop a volunteer and 
 
 **(B)** the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives.
 
-(Pub. L. 114–245, § 4, Nov. 28, 2016, 130 Stat. 991.)
+(Pub. L. 114–245, § 4, Nov. 28, 2016, 130 Stat. 991.)
 
 **Editorial Notes**
 
@@ -3767,7 +3767,7 @@ The Secretary shall require each administrative unit to develop a volunteer and 
 
 Section is comprised of section 4 of Pub. L. 114–245. Subsec. (d)(1) of section 4 of Pub. L. 114–245 amended former section 558c of this title.
 
-### § 583k–3. Priority trail maintenance program
+### § 583k–3. Priority trail maintenance program
 
 **(a) Selection**
 
@@ -3819,9 +3819,9 @@ The regional volunteer and partnership coordinators may be responsible for assis
 
 The Secretary shall periodically review the priority areas to determine whether revisions are necessary and may revise the priority areas, including the selection of new priority areas or removal of existing priority areas, at his sole discretion.
 
-(Pub. L. 114–245, § 5, Nov. 28, 2016, 130 Stat. 993.)
+(Pub. L. 114–245, § 5, Nov. 28, 2016, 130 Stat. 993.)
 
-### § 583k–4. Cooperative agreements
+### § 583k–4. Cooperative agreements
 
 **(a) In general**
 
@@ -3835,9 +3835,9 @@ The Secretary may enter into a cooperative agreement with any State, tribal, loc
 
 **(3)** advance trail maintenance in a manner deemed appropriate by the Secretary.
 
-(Pub. L. 114–245, § 6, Nov. 28, 2016, 130 Stat. 994.)
+(Pub. L. 114–245, § 6, Nov. 28, 2016, 130 Stat. 994.)
 
-### § 583k–5. Stewardship credits for outfitters and guides
+### § 583k–5. Stewardship credits for outfitters and guides
 
 **(a) Pilot program**
 
@@ -3849,4 +3849,4 @@ Within 1 year after November 28, 2016, in accordance with this section, the Secr
 
 **(2)** establish appropriate terms and conditions, including meeting National Quality Standards for Trails and the Trail Management Objectives identified for the trail.
 
-(Pub. L. 114–245, § 7, Nov. 28, 2016, 130 Stat. 994.)
+(Pub. L. 114–245, § 7, Nov. 28, 2016, 130 Stat. 994.)

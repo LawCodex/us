@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1974—Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139, added chapter heading.
+1974—Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139, added chapter heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139, cited as a credit in an amendment to this analysis, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139, cited as a credit in an amendment to this analysis, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 4351. Establishment; Advisory Board; appointment of members; compensation; officers; committees; delegation of powers; Director, appointment and powers 1 [footnote: 1 Section catchline editorially supplied.]
+## § 4351. Establishment; Advisory Board; appointment of members; compensation; officers; committees; delegation of powers; Director, appointment and powers 1 [footnote: 1 Section catchline editorially supplied.]
 
 **(a)** There is hereby established within the Bureau of Prisons a National Institute of Corrections.
 
-**(b)** The overall policy and operations of the National Institute of Corrections shall be under the supervision of an Advisory Board. The Board shall consist of sixteen members. The following six individuals shall serve as members of the Commission ex officio: the Director of the Federal Bureau of Prisons or his designee, the Director of the Bureau of Justice Assistance or his designee, Chairman of the United States Sentencing Commission or his designee, the Director of the Federal Judicial Center or his designee, the Associate Administrator for the Office of Juvenile Justice and Delinquency Prevention 2
+**(b)** The overall policy and operations of the National Institute of Corrections shall be under the supervision of an Advisory Board. The Board shall consist of sixteen members. The following six individuals shall serve as members of the Commission ex officio: the Director of the Federal Bureau of Prisons or his designee, the Director of the Bureau of Justice Assistance or his designee, Chairman of the United States Sentencing Commission or his designee, the Director of the Federal Judicial Center or his designee, the Associate Administrator for the Office of Juvenile Justice and Delinquency Prevention 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 or his designee, and the Assistant Secretary for Human Development of the Department of Health, Education, and Welfare or his designee.
 
@@ -53,7 +53,7 @@ or his designee, and the Assistant Secretary for Human Development of the Depart
 
 **(h)** The Institute shall be under the supervision of an officer to be known as the Director, who shall be appointed by the Attorney General after consultation with the Board. The Director shall have authority to supervise the organization, employees, enrollees, financial affairs, and all other operations of the Institute and may employ such staff, faculty, and administrative personnel, subject to the civil service and classification laws, as are necessary to the functioning of the Institute. The Director shall have the power to acquire and hold real and personal property for the Institute and may receive gifts, donations, and trusts on behalf of the Institute. The Director shall also have the power to appoint such technical or other advisory councils comprised of consultants to guide and advise the Board. The Director is authorized to delegate his powers under this title to such persons as he deems appropriate.
 
-(Added Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139; amended Pub. L. 95–115, § 8(a), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, § 223(*o*), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 103–322, title XXXIII, § 330001(i), Sept. 13, 1994, 108 Stat. 2140.)
+(Added Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139; amended Pub. L. 95–115, § 8(a), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, § 223(*o*), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 103–322, title XXXIII, § 330001(i), Sept. 13, 1994, 108 Stat. 2140.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec
 
 **Change of Name**
 
-Department of Health, Education, and Welfare redesignated Department of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+Department of Health, Education, and Welfare redesignated Department of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 **Effective Date of 1984 Amendment**
 
@@ -85,15 +85,15 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of Title 34, Crime Control and Law Enforcement, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of Title 34.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of Title 34, Crime Control and Law Enforcement, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of Title 34.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Termination of Advisory Boards**
 
@@ -103,7 +103,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 For exceptions to the membership requirements set forth in this section, which exceptions are applicable for five-year period following Nov. 1, 1987, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 4352. Authority of Institute; time; records of recipients; access; scope of section 1 [footnote: 1 Section catchline editorially supplied.]
+## § 4352. Authority of Institute; time; records of recipients; access; scope of section 1 [footnote: 1 Section catchline editorially supplied.]
 
 **(a)** In addition to the other powers, express and implied, the National Institute of Corrections shall have authority—
 
@@ -135,7 +135,7 @@ For exceptions to the membership requirements set forth in this section, which e
 
 **(14)** to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
 
-**[(b)** Repealed. Pub. L. 97–375, title I, § 109(a), Dec. 21, 1982, 96 Stat. 1820.]
+**[(b)** Repealed. Pub. L. 97–375, title I, § 109(a), Dec. 21, 1982, 96 Stat. 1820.]
 
 **(c)** Each recipient of assistance under this chapter shall keep such records as the Institute shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
@@ -143,19 +143,19 @@ For exceptions to the membership requirements set forth in this section, which e
 
 **(e)** The provision of this section shall apply to all recipients of assistance under this title, whether by direct grant or contract from the Institute or by subgrant or subcontract from primary grantees or contractors of the Institute.
 
-(Added Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I, § 109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, § 3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, § 261(b), July 29, 2010, 124 Stat. 2299.)
+(Added Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I, § 109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, § 3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, § 261(b), July 29, 2010, 124 Stat. 2299.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1), (3), (4). Pub. L. 111–211, § 261(b)(1), inserted “tribal,” after “State,”.
+2010—Subsec. (a)(1), (3), (4). Pub. L. 111–211, § 261(b)(1), inserted “tribal,” after “State,”.
 
-Subsec. (a)(6). Pub. L. 111–211, § 261(b)(2), inserted “and tribal communities,” after “States” and “, tribal,” after “State”.
+Subsec. (a)(6). Pub. L. 111–211, § 261(b)(2), inserted “and tribal communities,” after “States” and “, tribal,” after “State”.
 
-Subsec. (a)(8). Pub. L. 111–211, § 261(b)(1), inserted “tribal,” after “State,”.
+Subsec. (a)(8). Pub. L. 111–211, § 261(b)(1), inserted “tribal,” after “State,”.
 
-Subsec. (a)(12). Pub. L. 111–211, § 261(b)(3), inserted “, tribal,” after “State”.
+Subsec. (a)(12). Pub. L. 111–211, § 261(b)(3), inserted “, tribal,” after “State”.
 
 1990—Subsec. (c). Pub. L. 101–647 substituted “this chapter shall” for “this shall”.
 
@@ -165,20 +165,20 @@ Subsec. (a)(12). Pub. L. 111–211, § 261(b)(3), inserted “, tribal,” a
 
 **Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget**
 
-Pub. L. 104–208, div. A, title I, § 101(a), [title I], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: “That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under 18 U.S.C. 4351, et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible”.
+Pub. L. 104–208, div. A, title I, § 101(a), [title I], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: “That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under 18 U.S.C. 4351, et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible”.
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1140, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1140, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **National Training Center for Prison Drug Rehabilitation Program Personnel**
 
-Pub. L. 100–690, title VI, § 6292, Nov. 18, 1988, 102 Stat. 4369, which provided that the Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, was to establish and operate, at any suitable location, a national training center for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals, was editorially reclassified as section 10426 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 100–690, title VI, § 6292, Nov. 18, 1988, 102 Stat. 4369, which provided that the Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, was to establish and operate, at any suitable location, a national training center for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals, was editorially reclassified as section 10426 of Title 34, Crime Control and Law Enforcement.
 
-## [§ 4353. Repealed. Pub. L. 107–273, div. A, title III, § 301(a), Nov. 2, 2002, 116 Stat. 1780]
+## [§ 4353. Repealed. Pub. L. 107–273, div. A, title III, § 301(a), Nov. 2, 2002, 116 Stat. 1780]
 
-Section, added Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1141, authorized appropriations to carry out purposes of this chapter.
+Section, added Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1141, authorized appropriations to carry out purposes of this chapter.

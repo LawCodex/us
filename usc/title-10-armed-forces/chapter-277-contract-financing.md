@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 277 “CONTRACT FINANCING”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3801, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1834(a), Jan. 1, 2021, 134 Stat. 4234.
+A prior chapter 277 “CONTRACT FINANCING”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3801, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1834(a), Jan. 1, 2021, 134 Stat. 4234.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(n)(1)(A), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), Jan. 1, 2021, 134 Stat. 4234, which added this analysis, by adding item 3808. Amendment directing “adding at the following new item” was executed as if it had read “adding at the end the following new item” to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(n)(1)(A), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), Jan. 1, 2021, 134 Stat. 4234, which added this analysis, by adding item 3808. Amendment directing “adding at the following new item” was executed as if it had read “adding at the end the following new item” to reflect the probable intent of Congress.
 
-## § 3801. Authority of agency
+## § 3801. Authority of agency
 
 **(a) Payment Authority.—** The head of any agency may—
 
@@ -39,21 +39,21 @@ A prior chapter 277 “CONTRACT FINANCING”, as added by Pub. L. 115–232, div
 
 **(2) Subcontractors.—** For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if the prime contractor agrees to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (b), Jan. 1, 2021, 134 Stat. 4234.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (b), Jan. 1, 2021, 134 Stat. 4234.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (a) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(b), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, § 9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 103–355, title II, § 2001(a)(2), (c), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 115–232, div. A, title VIII, § 852, Aug. 13, 2018, 132 Stat. 1884; Pub. L. 116–92, div. A, title XVII, § 1731(a)(40), Dec. 20, 2019, 133 Stat. 1814; Pub. L. 116–283, div. A, title VIII, § 815, Jan. 1, 2021, 134 Stat. 3750; Pub. L. 117–81, div. A, title VIII, § 814, Dec. 27, 2021, 135 Stat. 1823.
+The text of subsec. (a) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(b), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, § 9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 103–355, title II, § 2001(a)(2), (c), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 115–232, div. A, title VIII, § 852, Aug. 13, 2018, 132 Stat. 1884; Pub. L. 116–92, div. A, title XVII, § 1731(a)(40), Dec. 20, 2019, 133 Stat. 1814; Pub. L. 116–283, div. A, title VIII, § 815, Jan. 1, 2021, 134 Stat. 3750; Pub. L. 117–81, div. A, title VIII, § 814, Dec. 27, 2021, 135 Stat. 1823.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1834(b)(1)(A), (2), transferred subsec. (a) of section 2307 of this title to this section, struck out par. (1) designation before “The head of”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former par. (2) of subsec. (a) redesignated subsec. (b).
+2021—Subsec. (a). Pub. L. 116–283, § 1834(b)(1)(A), (2), transferred subsec. (a) of section 2307 of this title to this section, struck out par. (1) designation before “The head of”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former par. (2) of subsec. (a) redesignated subsec. (b).
 
-Subsec. (b). Pub. L. 116–283, § 1834(b)(1)(B), (3)(A)–(C)(i), redesignated par. (2) of subsec. (a) as subsec. (b), inserted subsec. heading, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and inserted par. headings.
+Subsec. (b). Pub. L. 116–283, § 1834(b)(1)(B), (3)(A)–(C)(i), redesignated par. (2) of subsec. (a) as subsec. (b), inserted subsec. heading, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and inserted par. headings.
 
-Subsec. (b)(2). Pub. L. 116–283, § 1834(b)(3)(C)(ii), which directed amendment of par. (2) by redesignating cls. (i) and (ii) as subpars. (A) and (B), respectively, could not be executed because of the amendment made by section 815(2) of Pub. L. 116–283, which struck out cls. (i) and (ii) in section 2307(a)(2)(B) of this title prior to its transfer and redesignation as subsec. (b)(2) of this section.
+Subsec. (b)(2). Pub. L. 116–283, § 1834(b)(3)(C)(ii), which directed amendment of par. (2) by redesignating cls. (i) and (ii) as subpars. (A) and (B), respectively, could not be executed because of the amendment made by section 815(2) of Pub. L. 116–283, which struck out cls. (i) and (ii) in section 2307(a)(2)(B) of this title prior to its transfer and redesignation as subsec. (b)(2) of this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -61,7 +61,7 @@ Subsec. (b)(2). Pub. L. 116–283, § 1834(b)(3)(C)(ii), which directed amendm
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3802. Payment
+## § 3802. Payment
 
 **(a) Preference for Performance-Based Payments.—** Whenever practicable, payments under section 3801 of this title shall be made using performance-based payments on any of the following bases:
 
@@ -83,27 +83,27 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(e) Eligibility of Nontraditional Defense Contractors.—** The Secretary of Defense shall ensure that nontraditional defense contractors and other private sector companies are eligible for performance-based payments, consistent with best commercial practices.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (c), Jan. 1, 2021, 134 Stat. 4234, 4235.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (c), Jan. 1, 2021, 134 Stat. 4234, 4235.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b) of section 2307 of this title, which was transferred to this section, redesignated as subsecs. (a), (b), (c), and (e), and amended by Pub. L. 116–283, § 1834(c)(1)–(5), (7), was based on Pub. L. 103–355, title II, § 2001(b), Oct. 13, 1994, 108 Stat. 3302; Pub. L. 114–328, div. A, title VIII, § 831(a), Dec. 23, 2016, 130 Stat. 2282.
+The text of subsec. (b) of section 2307 of this title, which was transferred to this section, redesignated as subsecs. (a), (b), (c), and (e), and amended by Pub. L. 116–283, § 1834(c)(1)–(5), (7), was based on Pub. L. 103–355, title II, § 2001(b), Oct. 13, 1994, 108 Stat. 3302; Pub. L. 114–328, div. A, title VIII, § 831(a), Dec. 23, 2016, 130 Stat. 2282.
 
-The text of subsec. (c) of section 2307 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, § 1834(c)(1), (6), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, § 9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 103–355, title II, § 2001(a)(3), (7), Oct. 13, 1994, 108 Stat. 3301.
+The text of subsec. (c) of section 2307 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, § 1834(c)(1), (6), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, § 9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 103–355, title II, § 2001(a)(3), (7), Oct. 13, 1994, 108 Stat. 3301.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1834(c)(1)–(3), redesignated subsec. (b) of section 2307 of this title as subsec. (a) of this section, struck out par. (1) designation before “Whenever practicable”, substituted “section 3801 of this title” for “subsection (a)” in introductory provisions, and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively. Amendment directing striking out par. (1) designation before “Whenever possible” was executed by striking it out before “Whenever practicable” to reflect the probable intent of Congress. Former pars. (2) to (4) of subsec. (a) redesignated subsecs. (b), (e), and (c), respectively.
+2021—Subsec. (a). Pub. L. 116–283, § 1834(c)(1)–(3), redesignated subsec. (b) of section 2307 of this title as subsec. (a) of this section, struck out par. (1) designation before “Whenever practicable”, substituted “section 3801 of this title” for “subsection (a)” in introductory provisions, and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively. Amendment directing striking out par. (1) designation before “Whenever possible” was executed by striking it out before “Whenever practicable” to reflect the probable intent of Congress. Former pars. (2) to (4) of subsec. (a) redesignated subsecs. (b), (e), and (c), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1834(c)(2)(B), (4), after redesignation of section 2307(b) of this title as subsec. (a) of this section, redesignated par. (2) of subsec. (a) as subsec. (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (b). Pub. L. 116–283, § 1834(c)(2)(B), (4), after redesignation of section 2307(b) of this title as subsec. (a) of this section, redesignated par. (2) of subsec. (a) as subsec. (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
 
-Subsec. (c). Pub. L. 116–283, § 1834(c)(2)(D), (5), after redesignation of section 2307(b) of this title as subsec. (a) of this section, redesignated par. (4) of subsec. (a) as subsec. (c), inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins, and, in par. (2), substituted “this chapter” for “this section”.
+Subsec. (c). Pub. L. 116–283, § 1834(c)(2)(D), (5), after redesignation of section 2307(b) of this title as subsec. (a) of this section, redesignated par. (4) of subsec. (a) as subsec. (c), inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins, and, in par. (2), substituted “this chapter” for “this section”.
 
-Subsec. (d). Pub. L. 116–283, § 1834(c)(1), (6), redesignated subsec. (c) of section 2307 of this title as subsec. (d) of this section and substituted “section 3801 of this title” for “subsection (a)”.
+Subsec. (d). Pub. L. 116–283, § 1834(c)(1), (6), redesignated subsec. (c) of section 2307 of this title as subsec. (d) of this section and substituted “section 3801 of this title” for “subsection (a)”.
 
-Subsec. (e). Pub. L. 116–283, § 1834(c)(2)(C), (7), after redesignation of section 2307(b) of this title as subsec. (a) of this section, redesignated par. (3) of subsec. (a) as subsec. (e), moved it to the end of the section, and inserted heading.
+Subsec. (e). Pub. L. 116–283, § 1834(c)(2)(C), (7), after redesignation of section 2307(b) of this title as subsec. (a) of this section, redesignated par. (3) of subsec. (a) as subsec. (e), moved it to the end of the section, and inserted heading.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,23 +113,23 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Regulations**
 
-Pub. L. 114–328, div. A, title VIII, § 831(b), Dec. 23, 2016, 130 Stat. 2283, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall revise the Department of Defense Federal Acquisition Regulation Supplement to conform with section 2307(b) of title 10, United States Code [see 10 U.S.C. 3802(a)–(c), (e)], as amended by subsection (a).”
+Pub. L. 114–328, div. A, title VIII, § 831(b), Dec. 23, 2016, 130 Stat. 2283, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall revise the Department of Defense Federal Acquisition Regulation Supplement to conform with section 2307(b) of title 10, United States Code [see 10 U.S.C. 3802(a)–(c), (e)], as amended by subsection (a).”
 
-## § 3803. Security for advance payments
+## § 3803. Security for advance payments
 
 Advance payments made under section 3801 of this title may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (d), Jan. 1, 2021, 134 Stat. 4234, 4236.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (d), Jan. 1, 2021, 134 Stat. 4234, 4236.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (d) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(d), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, § 9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 103–355, title II, § 2001(a)(4), (7), (d), Oct. 13, 1994, 108 Stat. 3301, 3302.
+The text of subsec. (d) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(d), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, § 9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 103–355, title II, § 2001(a)(4), (7), (d), Oct. 13, 1994, 108 Stat. 3301, 3302.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1834(d), transferred subsec. (d) of section 2307 of this title to this section, struck out subsec. (d) designation and heading “Security for Advance Payments” at beginning, and substituted “section 3801 of this title” for “subsection (a)”.
+2021—Pub. L. 116–283, § 1834(d), transferred subsec. (d) of section 2307 of this title to this section, struck out subsec. (d) designation and heading “Security for Advance Payments” at beginning, and substituted “section 3801 of this title” for “subsection (a)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -137,7 +137,7 @@ The text of subsec. (d) of section 2307 of this title, which was transferred to 
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3804. Conditions for progress payments
+## § 3804. Conditions for progress payments
 
 **(a) Payment Commensurate With Work.—** The Secretary of Defense shall ensure that any payment for work in progress (including materials, labor, and other items) under a defense contract that provides for such payments is commensurate with the work accomplished that meets standards established under the contract. The contractor shall provide such information and evidence as the Secretary of Defense determines necessary to permit the Secretary to carry out the preceding sentence.
 
@@ -145,23 +145,23 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(c) Applicability.—** This section applies to any contract in an amount greater than $25,000.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (e), Jan. 1, 2021, 134 Stat. 4234, 4236.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (e), Jan. 1, 2021, 134 Stat. 4234, 4236.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (e) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(e), was based on Pub. L. 100–370, § 1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title XIII, § 1322(a)(4)(B), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–25, title VII, § 701(d)(4), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title II, § 2001(a)(5), (7), (e), Oct. 13, 1994, 108 Stat. 3301, 3302.
+The text of subsec. (e) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(e), was based on Pub. L. 100–370, § 1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title XIII, § 1322(a)(4)(B), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–25, title VII, § 701(d)(4), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title II, § 2001(a)(5), (7), (e), Oct. 13, 1994, 108 Stat. 3301, 3302.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1834(e)(1), transferred subsec. (e) of section 2307 of this title to this section and struck out subsec. (e) designation and heading “Conditions for Progress Payments” at beginning.
+2021—Pub. L. 116–283, § 1834(e)(1), transferred subsec. (e) of section 2307 of this title to this section and struck out subsec. (e) designation and heading “Conditions for Progress Payments” at beginning.
 
-Subsec. (a). Pub. L. 116–283, § 1834(e)(1)(B), (2), after transfer of section 2307(e) of this title to this section, redesignated par. (1) as subsec. (a) and inserted heading.
+Subsec. (a). Pub. L. 116–283, § 1834(e)(1)(B), (2), after transfer of section 2307(e) of this title to this section, redesignated par. (1) as subsec. (a) and inserted heading.
 
-Subsec. (b). Pub. L. 116–283, § 1834(e)(1)(B), (3), after transfer of section 2307(e) of this title to this section, redesignated par. (2) as subsec. (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (b). Pub. L. 116–283, § 1834(e)(1)(B), (3), after transfer of section 2307(e) of this title to this section, redesignated par. (2) as subsec. (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
 
-Subsec. (c). Pub. L. 116–283, § 1834(e)(1)(B), (4), after transfer of section 2307(e) of this title to this section, redesignated par. (3) as subsec. (c), inserted heading, and substituted “This section” for “This subsection”.
+Subsec. (c). Pub. L. 116–283, § 1834(e)(1)(B), (4), after transfer of section 2307(e) of this title to this section, redesignated par. (3) as subsec. (c), inserted heading, and substituted “This section” for “This subsection”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -171,7 +171,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Pilot Program To Incentivize Progress Payments**
 
-Pub. L. 118–31, div. A, title VIII, § 874, Dec. 22, 2023, 137 Stat. 352, provided that:
+Pub. L. 118–31, div. A, title VIII, § 874, Dec. 22, 2023, 137 Stat. 352, provided that:
 
 > **“(a) Pilot Program.—** The Under Secretary of Defense for Acquisition and Sustainment shall establish and implement a pilot program to incentivize contractor performance by paying covered contractors a progress payment rate that is up to 10 percent higher than the customary progress payment rate on a contract-by-contract basis.
 
@@ -205,9 +205,9 @@ Pub. L. 118–31, div. A, title VIII, § 874, Dec. 22, 2023, 137 Stat. 352, pr
 
 **Waivers of Certain Conditions for Progress Payments Under Certain Contracts During the COVID–19 National Emergency**
 
-Pub. L. 116–283, div. A, title VIII, § 891, Jan. 1, 2021, 134 Stat. 3793, which related to waivers of certain conditions for progress payments under certain contracts during the COVID–19 national emergency, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(3)(C), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 116–283, div. A, title VIII, § 891, Jan. 1, 2021, 134 Stat. 3793, which related to waivers of certain conditions for progress payments under certain contracts during the COVID–19 national emergency, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(3)(C), Dec. 18, 2025, 139 Stat. 948.
 
-## § 3805. Payments for commercial products and commercial services
+## § 3805. Payments for commercial products and commercial services
 
 **(a) Terms and Conditions for Payments.—** Payments under section 3801 of this title for commercial products and commercial services may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States.
 
@@ -235,31 +235,31 @@ Pub. L. 116–283, div. A, title VIII, § 891, Jan. 1, 2021, 134 Stat. 3793, w
 
 **(2)** The term “covered service” means a commercial service that includes access to or use of any combination of hardware, equipment, software, labor, or services, including access to commercial satellite data and associated services, that is integrated to provide a capability.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (f), Jan. 1, 2021, 134 Stat. 4234, 4236; Pub. L. 119–60, div. A, title XVIII, § 1827, Dec. 18, 2025, 139 Stat. 1250.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (f), Jan. 1, 2021, 134 Stat. 4234, 4236; Pub. L. 119–60, div. A, title XVIII, § 1827, Dec. 18, 2025, 139 Stat. 1250.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (f) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(f), was based on Pub. L. 103–355, title II, § 2001(f), Oct. 13, 1994, 108 Stat. 3302; Pub. L. 115–232, div. A, title VIII, § 836(c)(6), Aug. 13, 2018, 132 Stat. 1866.
+The text of subsec. (f) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(f), was based on Pub. L. 103–355, title II, § 2001(f), Oct. 13, 1994, 108 Stat. 3302; Pub. L. 115–232, div. A, title VIII, § 836(c)(6), Aug. 13, 2018, 132 Stat. 1866.
 
 **Amendments**
 
-2025—Subsec. (d). Pub. L. 119–60, § 1827(1), designated existing provisions as par. (1) and added par. (2).
+2025—Subsec. (d). Pub. L. 119–60, § 1827(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 119–60, § 1827(2), added subsec. (e).
+Subsec. (e). Pub. L. 119–60, § 1827(2), added subsec. (e).
 
-2021—Pub. L. 116–283, § 1834(f)(1)(A), transferred subsec. (f) of section 2307 of this title to this section and struck out subsec. (f) designation and heading “Conditions for Payments for Commercial Products and Commercial Services” at beginning.
+2021—Pub. L. 116–283, § 1834(f)(1)(A), transferred subsec. (f) of section 2307 of this title to this section and struck out subsec. (f) designation and heading “Conditions for Payments for Commercial Products and Commercial Services” at beginning.
 
-Subsec. (a). Pub. L. 116–283, § 1834(f)(1)(B), (4), after transfer of section 2307(f) of this title to this section, redesignated par. (1) as subsec. (a), inserted heading, and substituted “section 3801 of this title” for “subsection (a)”.
+Subsec. (a). Pub. L. 116–283, § 1834(f)(1)(B), (4), after transfer of section 2307(f) of this title to this section, redesignated par. (1) as subsec. (a), inserted heading, and substituted “section 3801 of this title” for “subsection (a)”.
 
-Subsec. (b). Pub. L. 116–283, § 1834(f)(4), inserted heading.
+Subsec. (b). Pub. L. 116–283, § 1834(f)(4), inserted heading.
 
-Pub. L. 116–283, § 1834(f)(2), which directed the designation of “the second sentence of subsection (a) as subsection (b)”, was executed by designating the second and third sentences of subsec. (a) as (b), to reflect the probable intent of Congress.
+Pub. L. 116–283, § 1834(f)(2), which directed the designation of “the second sentence of subsection (a) as subsection (b)”, was executed by designating the second and third sentences of subsec. (a) as (b), to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 116–283, § 1834(f)(1)(B), (5), after transfer of section 2307(f) of this title to this section, redesignated par. (2) as subsec. (c), inserted heading, and substituted “section 3801 of this title” for “subsection (a)”.
+Subsec. (c). Pub. L. 116–283, § 1834(f)(1)(B), (5), after transfer of section 2307(f) of this title to this section, redesignated par. (2) as subsec. (c), inserted heading, and substituted “section 3801 of this title” for “subsection (a)”.
 
-Subsec. (d). Pub. L. 116–283, § 1834(f)(1)(B), (6), after transfer of section 2307(f) of this title to this section, redesignated par. (3) as subsec. (d), inserted heading, and substituted “sections 3803 and 3804 of this title” for “subsections (d) and (e)” and “this section” for “paragraphs (1) and (2)”.
+Subsec. (d). Pub. L. 116–283, § 1834(f)(1)(B), (6), after transfer of section 2307(f) of this title to this section, redesignated par. (3) as subsec. (d), inserted heading, and substituted “sections 3803 and 3804 of this title” for “subsections (d) and (e)” and “this section” for “paragraphs (1) and (2)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -267,7 +267,7 @@ Subsec. (d). Pub. L. 116–283, § 1834(f)(1)(B), (6), after transfer of secti
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3806. Action in case of fraud
+## § 3806. Action in case of fraud
 
 **(a) Remedy Coordination Official Defined.—** In this section, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
@@ -293,7 +293,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(j) Inapplicability to Coast Guard.—** This section applies to the agencies named in paragraphs (1), (2), (3), (4), and (6) of section 3063 of this title.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (g), Jan. 1, 2021, 134 Stat. 4234, 4237.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (g), Jan. 1, 2021, 134 Stat. 4234, 4237.)
 
 **Editorial Notes**
 
@@ -303,31 +303,31 @@ Level IV of the Executive Schedule, referred to in subsec. (i), is set out in se
 
 **Codification**
 
-The text of subsec. (i) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(g), was based on Pub. L. 101–510, div. A, title VIII, § 836(a), Nov. 5, 1990, 104 Stat. 1615; Pub. L. 102–25, title VII, § 701(j)(2)(A), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, § 1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, § 2001(a)(7), Oct. 13, 1994, 108 Stat. 3301; Pub. L. 105–85, div. A, title VIII, § 802(1), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, § 306, Oct. 30, 2000, 114 Stat. 1592.
+The text of subsec. (i) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(g), was based on Pub. L. 101–510, div. A, title VIII, § 836(a), Nov. 5, 1990, 104 Stat. 1615; Pub. L. 102–25, title VII, § 701(j)(2)(A), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, § 1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, § 2001(a)(7), Oct. 13, 1994, 108 Stat. 3301; Pub. L. 105–85, div. A, title VIII, § 802(1), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, § 306, Oct. 30, 2000, 114 Stat. 1592.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1834(g)(1), (2), (11), transferred subsec. (i) of section 2307 of this title to this section, struck out subsec. (i) designation and heading “Action in Case of Fraud” at beginning, and redesignated par. (10) as subsec. (a), pars. (1) to (7) as subsecs. (b) to (h), respectively, and pars. (9) and (8) as subsecs. (i) and (j), respectively.
+2021—Pub. L. 116–283, § 1834(g)(1), (2), (11), transferred subsec. (i) of section 2307 of this title to this section, struck out subsec. (i) designation and heading “Action in Case of Fraud” at beginning, and redesignated par. (10) as subsec. (a), pars. (1) to (7) as subsecs. (b) to (h), respectively, and pars. (9) and (8) as subsecs. (i) and (j), respectively.
 
-Subsec. (a). Pub. L. 116–283, § 1834(g)(3), inserted heading and substituted “this section” for “this subsection”.
+Subsec. (a). Pub. L. 116–283, § 1834(g)(3), inserted heading and substituted “this section” for “this subsection”.
 
-Subsec. (b). Pub. L. 116–283, § 1834(g)(4), inserted heading.
+Subsec. (b). Pub. L. 116–283, § 1834(g)(4), inserted heading.
 
-Subsec. (c). Pub. L. 116–283, § 1834(g)(5), inserted heading and substituted “subsection (b)” for “paragraph (1)”.
+Subsec. (c). Pub. L. 116–283, § 1834(g)(5), inserted heading and substituted “subsection (b)” for “paragraph (1)”.
 
-Subsec. (d). Pub. L. 116–283, § 1834(g)(6), inserted heading and substituted “subsection (c)” for “paragraph (2)”.
+Subsec. (d). Pub. L. 116–283, § 1834(g)(6), inserted heading and substituted “subsection (c)” for “paragraph (2)”.
 
-Subsec. (e). Pub. L. 116–283, § 1834(g)(7), inserted heading and substituted “subsection (c)” for “paragraph (2)”.
+Subsec. (e). Pub. L. 116–283, § 1834(g)(7), inserted heading and substituted “subsection (c)” for “paragraph (2)”.
 
-Subsec. (f). Pub. L. 116–283, § 1834(g)(8), inserted heading and substituted “subsection (c)” for “paragraph (2)”.
+Subsec. (f). Pub. L. 116–283, § 1834(g)(8), inserted heading and substituted “subsection (c)” for “paragraph (2)”.
 
-Subsec. (g). Pub. L. 116–283, § 1834(g)(9), inserted heading, substituted “subsection (c)” for “paragraph (2)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (g). Pub. L. 116–283, § 1834(g)(9), inserted heading, substituted “subsection (c)” for “paragraph (2)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (h). Pub. L. 116–283, § 1834(g)(10), inserted heading and substituted “subsection (c)” for “paragraph (2)”.
+Subsec. (h). Pub. L. 116–283, § 1834(g)(10), inserted heading and substituted “subsection (c)” for “paragraph (2)”.
 
-Subsec. (i). Pub. L. 116–283, § 1834(g)(12), inserted heading and substituted “this section” for “this subsection”.
+Subsec. (i). Pub. L. 116–283, § 1834(g)(12), inserted heading and substituted “this section” for “this subsection”.
 
-Subsec. (j). Pub. L. 116–283, § 1834(g)(13), inserted heading and substituted “section applies” for “subsection applies” and “section 3063” for “section 2303(a)”.
+Subsec. (j). Pub. L. 116–283, § 1834(g)(13), inserted heading and substituted “section applies” for “subsection applies” and “section 3063” for “section 2303(a)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -335,21 +335,21 @@ Subsec. (j). Pub. L. 116–283, § 1834(g)(13), inserted heading and substitut
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3807. Vesting of title in the United States
+## § 3807. Vesting of title in the United States
 
 If a contract paid by a method authorized under section 3801(a) of this title provides for title to property to vest in the United States, the title to the property shall vest in accordance with the terms of the contract, regardless of any security interest in the property that is asserted before or after the contract is entered into.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (h), Jan. 1, 2021, 134 Stat. 4234, 4239; Pub. L. 117–81, div. A, title XVII, § 1701(b)(13), Dec. 27, 2021, 135 Stat. 2134.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (h), Jan. 1, 2021, 134 Stat. 4234, 4239; Pub. L. 117–81, div. A, title XVII, § 1701(b)(13), Dec. 27, 2021, 135 Stat. 2134.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (h) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(h), was based on Pub. L. 105–85, div. A, title VIII, § 802(2), Nov. 18, 1997, 111 Stat. 1831.
+The text of subsec. (h) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(h), was based on Pub. L. 105–85, div. A, title VIII, § 802(2), Nov. 18, 1997, 111 Stat. 1831.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1834(h), as amended by Pub. L. 117–81, § 1701(b)(13), transferred subsec. (h) of section 2307 of this title to this section, struck out subsec. (h) designation and heading “Vesting of Title in the United States” at beginning, and substituted “section 3801(a) of this title” for “subsection (a)(1)”.
+2021—Pub. L. 116–283, § 1834(h), as amended by Pub. L. 117–81, § 1701(b)(13), transferred subsec. (h) of section 2307 of this title to this section, struck out subsec. (h) designation and heading “Vesting of Title in the United States” at beginning, and substituted “section 3801(a) of this title” for “subsection (a)(1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -361,7 +361,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3808. Certain Navy contracts
+## § 3808. Certain Navy contracts
 
 **(a) Repair, Maintenance, or Overhaul of Naval Vessels: Rate for Progress Payments.—** The Secretary of the Navy shall provide that the rate for progress payments on any contract awarded by the Secretary for repair, maintenance, or overhaul of a naval vessel shall be not less than—
 
@@ -373,17 +373,17 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(c) Security for Construction and Conversion of Naval Vessels.—** The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (i)(1)–(4), as added and amended Pub. L. 117–81, div. A, title XVII, § 1701(n)(1)(B), (2), Dec. 27, 2021, 135 Stat. 2145.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (i)(1)–(4), as added and amended Pub. L. 117–81, div. A, title XVII, § 1701(n)(1)(B), (2), Dec. 27, 2021, 135 Stat. 2145.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (g) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(i)(1)–(4), as added by Pub. L. 117–81, § 1701(n)(2), was based on Pub. L. 103–355, title II, § 2001(g), Oct. 13, 1994, 108 Stat. 3302.
+The text of subsec. (g) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(i)(1)–(4), as added by Pub. L. 117–81, § 1701(n)(2), was based on Pub. L. 103–355, title II, § 2001(g), Oct. 13, 1994, 108 Stat. 3302.
 
 **Prior Provisions**
 
-Prior sections 3811 to 3813 were repealed by Pub. L. 90–235, § 3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758.
+Prior sections 3811 to 3813 were repealed by Pub. L. 90–235, § 3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758.
 
 Section 3811, act Aug. 10, 1956, ch. 1041, 70A Stat. 220, provided for discharge of enlisted members of Army and limitations thereon, and for issuance of discharge certificates. See section 1169 of this title.
 
@@ -391,33 +391,33 @@ Section 3812, act Aug. 1956, ch. 1041, 70A Stat. 220, provided for the discharge
 
 Section 3813, act Aug. 10, 1956, ch. 1041, 70A Stat. 220, provided for dependency discharges for enlisted members of the Army.
 
-A prior section 3814, act Aug. 10, 1956, ch. 1041, 70A Stat. 220, authorized Secretary of the Army to discharge a regular commissioned officer who has less than three years of continuous service as a commissioned officer therein, provided that such officer not be dismissed because of his marriage, unless marriage occurred within one year after date of his original appointment, prior to repeal by Pub. L. 96–513, title II, § 214, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See section 630 of this title.
+A prior section 3814, act Aug. 10, 1956, ch. 1041, 70A Stat. 220, authorized Secretary of the Army to discharge a regular commissioned officer who has less than three years of continuous service as a commissioned officer therein, provided that such officer not be dismissed because of his marriage, unless marriage occurred within one year after date of his original appointment, prior to repeal by Pub. L. 96–513, title II, § 214, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See section 630 of this title.
 
-A prior section 3814a, added Pub. L. 93–558, § 1, Dec. 30, 1974, 88 Stat. 1793, related to discharge, during a reduction in force, of regular commissioned officers, second lieutenants, first lieutenants, and captains, expired three years after its effective date, Dec. 30, 1974, in accordance with section 2 of Pub. L. 93–558, and was repealed by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(2), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
+A prior section 3814a, added Pub. L. 93–558, § 1, Dec. 30, 1974, 88 Stat. 1793, related to discharge, during a reduction in force, of regular commissioned officers, second lieutenants, first lieutenants, and captains, expired three years after its effective date, Dec. 30, 1974, in accordance with section 2 of Pub. L. 93–558, and was repealed by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(2), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
 
-Prior sections 3815 and 3816 were repealed by Pub. L. 90–235, § 3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758.
+Prior sections 3815 and 3816 were repealed by Pub. L. 90–235, § 3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758.
 
 Section 3815, act Aug. 10, 1956, ch. 1041, 70A Stat. 220, provided for resignation of regular enlisted members of Army enlisted on a career basis and limitations thereon.
 
 Section 3816, act Aug. 10, 1956, ch. 1041, 70A Stat. 221, provided for minority discharges for regular enlisted members of Army. See section 1170 of this title.
 
-A prior section 3818, acts Aug. 10, 1956, ch. 1041, 70A Stat. 221; Oct. 20, 1978, Pub. L. 95–485, title VIII, § 820(g), 92 Stat. 1627, authorized the Secretary of the Army to terminate appointment of a female commissioned officer of Regular Army, other than by dismissal, under regulations prescribed by President, or to terminate the appointment of a female warrant officer or enlistment of a female member of Regular Army by discharge from the Army, prior to repeal by Pub. L. 96–513, title II, § 236, title VII, § 701, Dec. 12, 1980, 94 Stat. 2887, 2955, effective Sept. 15, 1981.
+A prior section 3818, acts Aug. 10, 1956, ch. 1041, 70A Stat. 221; Oct. 20, 1978, Pub. L. 95–485, title VIII, § 820(g), 92 Stat. 1627, authorized the Secretary of the Army to terminate appointment of a female commissioned officer of Regular Army, other than by dismissal, under regulations prescribed by President, or to terminate the appointment of a female warrant officer or enlistment of a female member of Regular Army by discharge from the Army, prior to repeal by Pub. L. 96–513, title II, § 236, title VII, § 701, Dec. 12, 1980, 94 Stat. 2887, 2955, effective Sept. 15, 1981.
 
-Prior sections 3819 and 3820 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(2), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
+Prior sections 3819 and 3820 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(2), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
 
-Section 3819, added Pub. L. 85–861, § 1(93)(A), Sept. 2, 1958, 72 Stat. 1482; amended Pub. L. 98–525, title V, § 528(b), Oct. 19, 1984, 98 Stat. 2526, related to discharge of Army Reserve officers for failure of promotion to first lieutenant. See section 14503 of this title.
+Section 3819, added Pub. L. 85–861, § 1(93)(A), Sept. 2, 1958, 72 Stat. 1482; amended Pub. L. 98–525, title V, § 528(b), Oct. 19, 1984, 98 Stat. 2526, related to discharge of Army Reserve officers for failure of promotion to first lieutenant. See section 14503 of this title.
 
-Section 3820, acts Aug. 10, 1956, ch. 1041, 70A Stat. 221; Sept. 2, 1958, Pub. L. 85–861, § 1(93)(B), 72 Stat. 1482, related to discharge and withdrawal of Federal recognition of officers of Army National Guard of United States absent without leave. See section 14907 of this title.
+Section 3820, acts Aug. 10, 1956, ch. 1041, 70A Stat. 221; Sept. 2, 1958, Pub. L. 85–861, § 1(93)(B), 72 Stat. 1482, related to discharge and withdrawal of Federal recognition of officers of Army National Guard of United States absent without leave. See section 14907 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1834(i)(1), as added by Pub. L. 117–81, § 1701(n)(2), transferred subsec. (g) of section 2307 of this title to this section, struck out subsec. (g) designation and heading “Certain Navy Contracts” at beginning, and redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively.
+2021—Pub. L. 116–283, § 1834(i)(1), as added by Pub. L. 117–81, § 1701(n)(2), transferred subsec. (g) of section 2307 of this title to this section, struck out subsec. (g) designation and heading “Certain Navy Contracts” at beginning, and redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively.
 
-Subsec. (a). Pub. L. 116–283, § 1834(i)(2), as added by Pub. L. 117–81, § 1701(n)(2), inserted heading and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (a). Pub. L. 116–283, § 1834(i)(2), as added by Pub. L. 117–81, § 1701(n)(2), inserted heading and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1834(i)(3), as added by Pub. L. 117–81, § 1701(n)(2), inserted heading and substituted “this subsection” for “this paragraph” in second sentence.
+Subsec. (b). Pub. L. 116–283, § 1834(i)(3), as added by Pub. L. 117–81, § 1701(n)(2), inserted heading and substituted “this subsection” for “this paragraph” in second sentence.
 
-Subsec. (c). Pub. L. 116–283, § 1834(i)(4), as added by Pub. L. 117–81, § 1701(n)(2), inserted heading.
+Subsec. (c). Pub. L. 116–283, § 1834(i)(4), as added by Pub. L. 117–81, § 1701(n)(2), inserted heading.
 
 **Statutory Notes and Related Subsidiaries**
 

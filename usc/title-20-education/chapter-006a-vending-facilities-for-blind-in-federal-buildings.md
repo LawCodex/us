@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 6A—VENDING FACILITIES FOR BLIND IN FEDERAL BUILDINGS
 
-## § 107. Operation of vending facilities
+## § 107. Operation of vending facilities
 
 **(a) Authorization**
 
@@ -29,7 +29,7 @@ For the purposes of providing blind persons with remunerative employment, enlarg
 
 Any limitation on the placement or operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
 
-(June 20, 1936, ch. 638, § 1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, § 4(a), 68 Stat. 663; Pub. L. 93–516, title II, § 202, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, § 202, Nov. 21, 1974, 89 Stat. 2–8.)
+(June 20, 1936, ch. 638, § 1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, § 4(a), 68 Stat. 663; Pub. L. 93–516, title II, § 202, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, § 202, Nov. 21, 1974, 89 Stat. 2–8.)
 
 **Editorial Notes**
 
@@ -55,23 +55,23 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–516, title II, § 200, Dec. 7, 1974, 88 Stat. 1622, provided that: “This title [enacting sections 107b–1 to 107b–3 and 107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
+Pub. L. 93–516, title II, § 200, Dec. 7, 1974, 88 Stat. 1622, provided that: “This title [enacting sections 107b–1 to 107b–3 and 107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
 
 An identical provision is in section 200 of Pub. L. 93–651. See Codification note above.
 
 **Short Title of 1954 Amendment**
 
-Act Aug. 3, 1954, ch. 655, § 1, 68 Stat. 652, provided that: “This Act [enacting section 107e–1 of this title and amending this section and sections 107a, 107b, 107e, and 107f of this title and sections 31 to 41, 42, 49b, and 49g of Title 29, Labor] may be cited as the ‘Vocational Rehabilitation Amendments of 1954’.”
+Act Aug. 3, 1954, ch. 655, § 1, 68 Stat. 652, provided that: “This Act [enacting section 107e–1 of this title and amending this section and sections 107a, 107b, 107e, and 107f of this title and sections 31 to 41, 42, 49b, and 49g of Title 29, Labor] may be cited as the ‘Vocational Rehabilitation Amendments of 1954’.”
 
 **Short Title**
 
-Act June 20, 1936, ch. 638, § 11, as added by Pub. L. 108–136, div. A, title VIII, § 852(c), Nov. 24, 2003, 117 Stat. 1556, provided that: “This Act [enacting this chapter] may be cited as the ‘Randolph-Sheppard Act’.”
+Act June 20, 1936, ch. 638, § 11, as added by Pub. L. 108–136, div. A, title VIII, § 852(c), Nov. 24, 2003, 117 Stat. 1556, provided that: “This Act [enacting this chapter] may be cited as the ‘Randolph-Sheppard Act’.”
 
 The act June 20, 1936 is also popularly known as the “Randolph-Sheppard Vending Stand Act”.
 
 **Congressional Findings**
 
-Pub. L. 93–516, title II, § 201, Dec. 7, 1974, 88 Stat. 1622, provided that:
+Pub. L. 93–516, title II, § 201, Dec. 7, 1974, 88 Stat. 1622, provided that:
 
 > “The Congress finds—
 
@@ -97,7 +97,7 @@ Pub. L. 93–516, title II, § 201, Dec. 7, 1974, 88 Stat. 1622, provided that
 
 An identical provision is in section 201 of Pub. L. 93–651. See Codification note above.
 
-## § 107a. Federal and State responsibilities
+## § 107a. Federal and State responsibilities
 
 **(a) Functions of Secretary; surveys; designation of State licensing agencies; qualifications for license; evaluation of programs** The Secretary of Education shall—
 
@@ -113,7 +113,7 @@ An identical provision is in section 201 of Pub. L. 93–651. See Codification n
 
 **(6)** Through the Commission,1
 
-<sup>1</sup>  So in original. Probably should be “Commissioner,”.
+<sup>1</sup> So in original. Probably should be “Commissioner,”.
 
 (A) conduct periodic evaluations of the program authorized by this chapter, including upward mobility and other training required by section 107d–4 of this title, and (B) take such other steps, including the issuance of such rules and regulations, as may be necessary or desirable in carrying out the provisions of this chapter.
 
@@ -137,7 +137,7 @@ The State licensing agency designated by the Secretary is authorized, with the a
 
 In any State having an approved plan for vocational rehabilitation pursuant to the Vocational Rehabilitation Act or the Rehabilitation Act of 1973 [29 U.S.C. 701 et seq.], the State licensing agency designated under paragraph (5) of subsection (a) of this section shall be the State agency designated under section 101(a)(2)(A) of such Rehabilitation Act of 1973 [29 U.S.C. 721(a)(2)(A)].
 
-(June 20, 1936, ch. 638, § 2, 49 Stat. 1559; 1939 Reorg. Plan No. I, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, § 6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, § 4(b)–(d), 68 Stat. 663; Pub. L. 93–516, title II, § 203, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, § 203, Nov. 21, 1974, 89 Stat. 2–8; Pub. L. 96–88, title III, § 301(a)(4)(B), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 104–66, title I, § 1041(i), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–220, title IV, § 414(a), Aug. 7, 1998, 112 Stat. 1241.)
+(June 20, 1936, ch. 638, § 2, 49 Stat. 1559; 1939 Reorg. Plan No. I, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, § 6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, § 4(b)–(d), 68 Stat. 663; Pub. L. 93–516, title II, § 203, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, § 203, Nov. 21, 1974, 89 Stat. 2–8; Pub. L. 96–88, title III, § 301(a)(4)(B), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 104–66, title I, § 1041(i), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–220, title IV, § 414(a), Aug. 7, 1998, 112 Stat. 1241.)
 
 **Editorial Notes**
 
@@ -145,15 +145,15 @@ In any State having an approved plan for vocational rehabilitation pursuant to t
 
 For the date of the enactment of the Randolph-Sheppard Act Amendments of 1974, referred to in subsec. (a)(1), see Codification note below.
 
-The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, which was classified to chapter 4 (§ 31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, § 500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to section 790 of Title 29, provides in part that references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
+The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, which was classified to chapter 4 (§ 31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, § 500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to section 790 of Title 29, provides in part that references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
 
-The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 **Codification**
 
 The content of Pub. L. 93–516, including provisions of section 203 thereof which amended this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 1422 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, § 203, Nov. 21, 1974, 89 Stat. 2–8, 2–9, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 1422 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, § 203, Nov. 21, 1974, 89 Stat. 2–8, 2–9, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
 
 **Amendments**
 
@@ -161,23 +161,23 @@ Pursuant to an order of the United States District Court for the District of Col
 
 1995—Subsec. (a)(6)(A). Pub. L. 104–66 struck out “and annually submit to the appropriate committees of Congress a report based on such evaluations,” after “section 107d–4 of this title,”.
 
-1974—Subsec. (a)(1). Pub. L. 93–516, § 203(a)(1), added par. (1). Former par. (1) redesignated (2). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+1974—Subsec. (a)(1). Pub. L. 93–516, § 203(a)(1), added par. (1). Former par. (1) redesignated (2). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 93–516, § 203(a)(1), (2), redesignated former par. (1) as (2) and substituted “Through the Commissioner, make annual surveys of concessions vending opportunities for blind persons on Federal and other property in the United States, particularly with respect to Federal property under the control of the General Services Administration, the Department of Defense, and the United States Postal Service” for “Make surveys of concession-stand opportunities for blind persons on Federal and other property in the United States”. Former par. (2) redesignated (3). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsec. (a)(2). Pub. L. 93–516, § 203(a)(1), (2), redesignated former par. (1) as (2) and substituted “Through the Commissioner, make annual surveys of concessions vending opportunities for blind persons on Federal and other property in the United States, particularly with respect to Federal property under the control of the General Services Administration, the Department of Defense, and the United States Postal Service” for “Make surveys of concession-stand opportunities for blind persons on Federal and other property in the United States”. Former par. (2) redesignated (3). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsec. (a)(3). Pub. L. 93–516, § 203(a)(1), redesignated former par. (2) as (3). Former par. (3) redesignated (4). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsec. (a)(3). Pub. L. 93–516, § 203(a)(1), redesignated former par. (2) as (3). Former par. (3) redesignated (4). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsec. (a)(4). Pub. L. 93–516, § 203(a)(1), redesignated former par. (3) as (4). Former par. (4) redesignated (5). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsec. (a)(4). Pub. L. 93–516, § 203(a)(1), redesignated former par. (3) as (4). Former par. (4) redesignated (5). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsec. (a)(5). Pub. L. 93–516, § 203(a)(1), (3), redesignated former par. (4) as (5), substituted “State agency for the blind in each State, or, in any State in which there is no such agency, some other public agency to issue licenses to blind persons who are citizens of the United States for the operating of vending facilities” for “State commission for the blind in each State, or, in any State in which there is no such commission, some other public agency to issue licenses to blind persons who are citizens of the United States and at least twenty-one years of age for the operating of vending stands”, and “foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, as determined by the State licensing agency, and including the vending or exchange of chances for any lottery authorized by State law and conducted by an agency of a State” for “articles dispensed automatically or in containers or wrapping in which they are placed before receipt by the vending stand, and such other articles as may be approved for each property by the department or agency in control of the maintenance, operation, and protection thereof and the State licensing agency in accordance with the regulations prescribed pursuant to section 107 of this title”, and struck out proviso that effective four years after the enactment of the Vocational Rehabilitation Amendments of 1954, in States having an approved plan for vocational rehabilitation pursuant to the Vocational Rehabilitation Act, the licensing agency to be designated hereunder shall be the State agency designated pursuant to section 35(a)(1) of title 29 as the sole agency with respect to vocational rehabilitation of the blind, and that prior to such time, no license shall be granted except upon certification by a vocational rehabilitation agency that the individual is qualified to operate a vending stand. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsec. (a)(5). Pub. L. 93–516, § 203(a)(1), (3), redesignated former par. (4) as (5), substituted “State agency for the blind in each State, or, in any State in which there is no such agency, some other public agency to issue licenses to blind persons who are citizens of the United States for the operating of vending facilities” for “State commission for the blind in each State, or, in any State in which there is no such commission, some other public agency to issue licenses to blind persons who are citizens of the United States and at least twenty-one years of age for the operating of vending stands”, and “foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, as determined by the State licensing agency, and including the vending or exchange of chances for any lottery authorized by State law and conducted by an agency of a State” for “articles dispensed automatically or in containers or wrapping in which they are placed before receipt by the vending stand, and such other articles as may be approved for each property by the department or agency in control of the maintenance, operation, and protection thereof and the State licensing agency in accordance with the regulations prescribed pursuant to section 107 of this title”, and struck out proviso that effective four years after the enactment of the Vocational Rehabilitation Amendments of 1954, in States having an approved plan for vocational rehabilitation pursuant to the Vocational Rehabilitation Act, the licensing agency to be designated hereunder shall be the State agency designated pursuant to section 35(a)(1) of title 29 as the sole agency with respect to vocational rehabilitation of the blind, and that prior to such time, no license shall be granted except upon certification by a vocational rehabilitation agency that the individual is qualified to operate a vending stand. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsec. (a)(6). Pub. L. 93–516, § 203(a)(1), (4), redesignated former par. (5) as (6), substantially reenacted existing provisions in cl. (B), and added cl. (A) and provisions preceding cl. (A). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsec. (a)(6). Pub. L. 93–516, § 203(a)(1), (4), redesignated former par. (5) as (6), substantially reenacted existing provisions in cl. (B), and added cl. (A) and provisions preceding cl. (A). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsec. (b). Pub. L. 93–516, § 203(b), substituted “operation of a vending facility” for “operation of a vending stand”, struck out one year residency requirement for giving preference, and in provisions relating to qualifications of applicants, struck out “but are able, in spite of such infirmity, to operate such stands”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsec. (b). Pub. L. 93–516, § 203(b), substituted “operation of a vending facility” for “operation of a vending stand”, struck out one year residency requirement for giving preference, and in provisions relating to qualifications of applicants, struck out “but are able, in spite of such infirmity, to operate such stands”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsec. (c). Pub. L. 93–516, § 203(c), substituted “facility” for “stand” in three places. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsec. (c). Pub. L. 93–516, § 203(c), substituted “facility” for “stand” in three places. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsecs. (d), (e). Pub. L. 93–516, § 203(d), added subsecs. (d) and (e). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsecs. (d), (e). Pub. L. 93–516, § 203(d), added subsecs. (d) and (e). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 1954—Act Aug. 3, 1954, added to the list of articles which may be vended, articles dispensed automatically or in containers or wrappings received by the stand and to provide that after four years the agency designated under section 35(a)(1) of title 29 shall be the sole State agency for vocational rehabilitation of the blind and to require, prior to that time, certification by agencies as a condition for issuing licenses.
 
@@ -201,7 +201,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 “Federal Security Administrator” substituted for “Office of Education under the Federal Security Agency, subject to the direction of the Commissioner of Education and such rules and regulations as he may, with the approval of the Federal Security Administrator, prescribe” in subsec. (a) and for “Office of Education” in subsec. (c) by Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5, which transferred functions of Office of Education and Commissioner of Education under sections 107 to 107f of this title to Federal Security Administrator. Federal Security Agency Order 62, July 16, 1946, 11 F.R. 7943, provided that these functions shall be performed under supervision and direction of Commissioner for Special Services by Director of Vocational Rehabilitation and such officers and employees of Office of Vocational Rehabilitation as Director shall designate.
 
-Office of Education originally established in Department of the Interior from which it was transferred to Federal Security Agency by Reorg. Plan No. I of 1939, § 201, which is set out in the Appendix to Title 5.
+Office of Education originally established in Department of the Interior from which it was transferred to Federal Security Agency by Reorg. Plan No. I of 1939, § 201, which is set out in the Appendix to Title 5.
 
 **Federal Support for the Randolph-Sheppard Vending Facility Program**
 
@@ -223,7 +223,7 @@ The Secretary of Education is hereby authorized and directed to publish this mem
 
 Barack Obama.
 
-## § 107b. Application for designation as State licensing agency; cooperation with Secretary; furnishing initial stock
+## § 107b. Application for designation as State licensing agency; cooperation with Secretary; furnishing initial stock
 
 A State agency for the blind or other State agency desiring to be designated as the licensing agency shall, with the approval of the chief executive of the State, make application to the Secretary and agree—
 
@@ -239,7 +239,7 @@ A State agency for the blind or other State agency desiring to be designated as 
 
 **(6)** to provide to any blind licensee dissatisfied with any action arising from the operation or administration of the vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title.
 
-(June 20, 1936, ch. 638, § 3, 49 Stat. 1560; 1946 Reorg. Plan No. 2, § 6, eff. July 16, 1946, 11 F.R 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, § 4(e), 68 Stat. 664; Pub. L. 93–516, title II, § 204, Dec. 7, 1974, 88 Stat. 1625; Pub. L. 93–651, title II, § 204, Nov. 21, 1974, 89 Stat. 2–10.)
+(June 20, 1936, ch. 638, § 3, 49 Stat. 1560; 1946 Reorg. Plan No. 2, § 6, eff. July 16, 1946, 11 F.R 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, § 4(e), 68 Stat. 664; Pub. L. 93–516, title II, § 204, Dec. 7, 1974, 88 Stat. 1625; Pub. L. 93–651, title II, § 204, Nov. 21, 1974, 89 Stat. 2–10.)
 
 **Editorial Notes**
 
@@ -247,17 +247,17 @@ A State agency for the blind or other State agency desiring to be designated as 
 
 The content of Pub. L. 93–516, including provisions of section 204 thereof which amended this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, § 204, Nov. 21, 1974, 89 Stat. 2–10, in exactly the same manner as it was amended by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, § 204, Nov. 21, 1974, 89 Stat. 2–10, in exactly the same manner as it was amended by Pub. L. 93–516.
 
 **Amendments**
 
-1974—Pub. L. 93–516, § 204(a)(1), substituted “A State agency” for “A State commission” in provisions preceding par. (1). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+1974—Pub. L. 93–516, § 204(a)(1), substituted “A State agency” for “A State commission” in provisions preceding par. (1). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Par. (2). Pub. L. 93–516, § 204(a)(2), substituted “vending facility” for “vending stand” in two places. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Par. (2). Pub. L. 93–516, § 204(a)(2), substituted “vending facility” for “vending stand” in two places. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Par. (3). Pub. L. 93–516, § 204(a)(2), (b), (c), in provisions preceding subpar. (A), substituted “the net proceeds of the operation of the vending facilities” for “the proceeds of the operation of the vending stands”, in subpar. (D), substituted “vending facilities” for “vending stands”, added subpar. (E), and in proviso following subpar. (E) substituted “the net proceeds of any vending facility” for “the proceeds of any vending stand”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Par. (3). Pub. L. 93–516, § 204(a)(2), (b), (c), in provisions preceding subpar. (A), substituted “the net proceeds of the operation of the vending facilities” for “the proceeds of the operation of the vending stands”, in subpar. (D), substituted “vending facilities” for “vending stands”, added subpar. (E), and in proviso following subpar. (E) substituted “the net proceeds of any vending facility” for “the proceeds of any vending stand”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Par. (6). Pub. L. 93–516, § 204(a)(3), substituted “vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title” for “vending stand program an opportunity for a fair hearing”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Par. (6). Pub. L. 93–516, § 204(a)(3), substituted “vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title” for “vending stand program an opportunity for a fair hearing”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 1954—Act Aug. 3, 1954, amended section generally and, among other changes, added pars. (3) to (6).
 
@@ -271,11 +271,11 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 For transfer of functions, see note set out under section 107a of this title.
 
-## § 107b–1. Access to information with State licensing agencies; election and responsibilities of Committee of Blind Vendors
+## § 107b–1. Access to information with State licensing agencies; election and responsibilities of Committee of Blind Vendors
 
-In addition to other requirements imposed in this title 1
+In addition to other requirements imposed in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and in the Randolph-Sheppard Act [20 U.S.C. 107 et seq.] upon State licensing agencies, such agencies shall—
 
@@ -283,13 +283,13 @@ and in the Randolph-Sheppard Act [20 U.S.C. 107 et seq.] upon State licensing ag
 
 **(2)** conduct the biennial election of a Committee of Blind Vendors who shall be fully representative of all blind licensees in the State program,2
 
-<sup>2</sup>  So in original. The comma probably should be a semicolon.
+<sup>2</sup> So in original. The comma probably should be a semicolon.
 
 and
 
 **(3)** insure that such committee’s responsibilities include (A) participation, with the State agency, in major administrative decisions and policy and program development, (B) receiving grievances of blind licensees and serving as advocates for such licensees, (C) participation, with the State agency, in the development and administration of a transfer and promotion system for blind licensees, (D) participation, with the State agency, in developing training and retraining programs, and (E) sponsorship, with the assistance of the State agency, of meetings and instructional conferences for blind licensees.
 
-(Pub. L. 93–516, title II, § 209, Dec. 7, 1974, 88 Stat. 1630; Pub. L. 93–651, title II, § 209, Nov. 21, 1974, 89 Stat. 2–15.)
+(Pub. L. 93–516, title II, § 209, Dec. 7, 1974, 88 Stat. 1630; Pub. L. 93–651, title II, § 209, Nov. 21, 1974, 89 Stat. 2–15.)
 
 **Editorial Notes**
 
@@ -305,25 +305,25 @@ Section was enacted as part of the Randolph-Sheppard Act Amendments of 1974, and
 
 The content of Pub. L. 93–516, including provisions of section 209 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 209, Nov. 21, 1974, 89 Stat. 2–15, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 209, Nov. 21, 1974, 89 Stat. 2–15, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
-## § 107b–2. Omitted
+## § 107b–2. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 93–516, title II, § 210, Dec. 7, 1974, 88 Stat. 1630, required the Secretary to promulgate national standards for funds set aside, to study and report the feasibility of establishing retirement, pension, and health insurance systems for blind licensees, and to evaluate the income assignment methods and required the State agencies to submit certain reports.
+Section, Pub. L. 93–516, title II, § 210, Dec. 7, 1974, 88 Stat. 1630, required the Secretary to promulgate national standards for funds set aside, to study and report the feasibility of establishing retirement, pension, and health insurance systems for blind licensees, and to evaluate the income assignment methods and required the State agencies to submit certain reports.
 
 The content of Pub. L. 93–516, including provisions of section 210 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 210, Nov. 21, 1974, 89 Stat. 2–15, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 210, Nov. 21, 1974, 89 Stat. 2–15, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
-## § 107b–3. Audit of nonappropriated fund activities
+## § 107b–3. Audit of nonappropriated fund activities
 
 The Comptroller General is authorized to conduct regular and periodic audits of all nonappropriated fund activities which receive income from vending machines on Federal property, under such rules and regulations as he may prescribe. In the conduct of such audits he and his duly authorized representatives shall have access to any relevant books, documents, papers, accounts, and records of such activities as he deems necessary.
 
-(Pub. L. 93–516, title II, § 211, Dec. 7, 1974, 88 Stat. 1630; Pub. L. 93–651, title II, § 211, Nov. 21, 1974, 89 Stat. 2–15.)
+(Pub. L. 93–516, title II, § 211, Dec. 7, 1974, 88 Stat. 1630; Pub. L. 93–651, title II, § 211, Nov. 21, 1974, 89 Stat. 2–15.)
 
 **Editorial Notes**
 
@@ -333,17 +333,17 @@ Section was enacted as part of the Randolph-Sheppard Act Amendments of 1974, and
 
 The content of Pub. L. 93–516, including provisions of section 211 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 211, Nov. 21, 1974, 89 Stat. 2–15, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 211, Nov. 21, 1974, 89 Stat. 2–15, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
-## § 107c. Repealed. Pub. L. 93–516, title II, § 205, Dec. 7, 1974, 88 Stat. 1626
+## § 107c. Repealed. Pub. L. 93–516, title II, § 205, Dec. 7, 1974, 88 Stat. 1626
 
-Section, act June 20, 1936, ch. 638, § 4, 49 Stat. 1560; Reorg. Plan No. 2 of 1946, § 6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Reorg. Plan No. 1 of 1953, §§ 5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, related to provisions authorizing the Secretary to cooperate with State boards for rehabilitation of handicapped persons, established by the several States pursuant to sections 31 to 42b of Title 29, Labor, as amended and supplemented, in carrying out the provisions of this chapter. See section 701 et seq. of Title 29.
+Section, act June 20, 1936, ch. 638, § 4, 49 Stat. 1560; Reorg. Plan No. 2 of 1946, § 6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Reorg. Plan No. 1 of 1953, §§ 5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, related to provisions authorizing the Secretary to cooperate with State boards for rehabilitation of handicapped persons, established by the several States pursuant to sections 31 to 42b of Title 29, Labor, as amended and supplemented, in carrying out the provisions of this chapter. See section 701 et seq. of Title 29.
 
 The content of Pub. L. 93–516, including provisions of section 205 thereof which repealed this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been repealed by Pub. L. 93–651, title II, § 205, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was repealed by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been repealed by Pub. L. 93–651, title II, § 205, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was repealed by Pub. L. 93–516.
 
-## § 107d. Expenditures
+## § 107d. Expenditures
 
 **(a) Personal services, rent, printing, etc.**
 
@@ -353,7 +353,7 @@ The Secretary is authorized to make such expenditures out of any money appropria
 
 The Secretary shall, in employing such additional personnel as may be necessary, give preference to blind persons who are capable of discharging the required duties.
 
-(June 20, 1936, ch. 638, § 4, formerly § 5, 49 Stat. 1560; 1946 Reorg. Plan No. 2, § 6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered § 4 and amended Pub. L. 93–516, title II, §§ 206, 208(d), Dec. 7, 1974, 88 Stat. 1626, 1629; Pub. L. 93–651, title II, §§ 206, 208(d), Nov. 21, 1974, 89 Stat. 2–11, 2–14.)
+(June 20, 1936, ch. 638, § 4, formerly § 5, 49 Stat. 1560; 1946 Reorg. Plan No. 2, § 6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered § 4 and amended Pub. L. 93–516, title II, §§ 206, 208(d), Dec. 7, 1974, 88 Stat. 1626, 1629; Pub. L. 93–651, title II, §§ 206, 208(d), Nov. 21, 1974, 89 Stat. 2–11, 2–14.)
 
 **Editorial Notes**
 
@@ -361,11 +361,11 @@ The Secretary shall, in employing such additional personnel as may be necessary,
 
 The content of Pub. L. 93–516, including provisions of sections 206 and 208(d) thereof which amended and renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§ 206, 208(d), Nov. 21, 1974, 89 Stat. 2–11, 2–14, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§ 206, 208(d), Nov. 21, 1974, 89 Stat. 2–11, 2–14, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
 
 **Amendments**
 
-1974—Subsec. (b). Pub. L. 93–516, § 208(d), struck out requirement that at least 50 percent of the additional personnel be blind persons. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+1974—Subsec. (b). Pub. L. 93–516, § 208(d), struck out requirement that at least 50 percent of the additional personnel be blind persons. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -373,7 +373,7 @@ Pursuant to an order of the United States District Court for the District of Col
 
 For transfer of functions, see note set out under section 107a of this title.
 
-## § 107d–1. Grievances of blind licensees
+## § 107d–1. Grievances of blind licensees
 
 **(a) Hearing and arbitration**
 
@@ -383,7 +383,7 @@ Any blind licensee who is dissatisfied with any action arising from the operatio
 
 Whenever any State licensing agency determines that any department, agency, or instrumentality of the United States that has control of the maintenance, operation, and protection of Federal property is failing to comply with the provisions of this chapter or any regulations issued thereunder (including a limitation on the placement or operation of a vending facility as described in section 107(b) of this title and the Secretary’s determination thereon) such licensing agency may file a complaint with the Secretary who shall convene a panel to arbitrate the dispute pursuant to section 107d–2 of this title, and the decision of such panel shall be final and binding on the parties except as otherwise provided in this chapter.
 
-(June 20, 1936, ch. 638, § 5, as added Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1626; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11.)
+(June 20, 1936, ch. 638, § 5, as added Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1626; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11.)
 
 **Editorial Notes**
 
@@ -391,13 +391,13 @@ Whenever any State licensing agency determines that any department, agency, or i
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
 **Prior Provisions**
 
-A prior section 5 of act of June 20, 1936, which was classified to section 107d of this title, was renumbered section 4 by Pub. L. 93–516, § 206.
+A prior section 5 of act of June 20, 1936, which was classified to section 107d of this title, was renumbered section 4 by Pub. L. 93–516, § 206.
 
-## § 107d–2. Arbitration
+## § 107d–2. Arbitration
 
 **(a) Notice and hearing**
 
@@ -433,7 +433,7 @@ The decisions of a panel convened by the Secretary pursuant to this section shal
 
 The Secretary shall pay all reasonable costs of arbitration under this section in accordance with a schedule of fees and expenses he shall publish in the Federal Register.
 
-(June 20, 1936, ch. 638, § 6, as added Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1626; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11.)
+(June 20, 1936, ch. 638, § 6, as added Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1626; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11.)
 
 **Editorial Notes**
 
@@ -441,13 +441,13 @@ The Secretary shall pay all reasonable costs of arbitration under this section i
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
 **Prior Provisions**
 
-A prior section 6 of act June 20, 1936, which was classified to section 107e of this title, was renumbered section 9 by Pub. L. 93–516, § 206.
+A prior section 6 of act June 20, 1936, which was classified to section 107e of this title, was renumbered section 9 by Pub. L. 93–516, § 206.
 
-## § 107d–3. Vending machine income
+## § 107d–3. Vending machine income
 
 **(a) Accrual to blind licensee and alternatively to State agency; ceiling on amount for individual licensee**
 
@@ -479,7 +479,7 @@ This section shall not operate to preclude preexisting or future arrangements, o
 
 The Secretary shall take such action and promulgate such regulations as he deems necessary to assure compliance with this section.
 
-(June 20, 1936, ch. 638, § 7, as added Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1627; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–12.)
+(June 20, 1936, ch. 638, § 7, as added Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1627; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–12.)
 
 **Editorial Notes**
 
@@ -487,35 +487,35 @@ The Secretary shall take such action and promulgate such regulations as he deems
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–12, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–12, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
 **Prior Provisions**
 
-A prior section 7 of act June 20, 1936, was classified to section 107e–1 of this title, prior to repeal by Pub. L. 93–516, § 205.
+A prior section 7 of act June 20, 1936, was classified to section 107e–1 of this title, prior to repeal by Pub. L. 93–516, § 205.
 
-## § 107d–4. Training programs for maximum vocational potential for blind
+## § 107d–4. Training programs for maximum vocational potential for blind
 
 The Commissioner shall insure, through promulgation of appropriate regulations, that uniform and effective training programs, including on-the-job training, are provided for blind individuals, through services under the Rehabilitation Act of 1973 [29 U.S.C. 701 et seq.]. He shall further insure that State agencies provide programs for upward mobility (including further education and additional training or retraining for improved work opportunities) for all trainees under this chapter, and that follow-along services are provided to such trainees to assure that their maximum vocational potential is achieved.
 
-(June 20, 1936, ch. 638, § 8, as added Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1628; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–13.)
+(June 20, 1936, ch. 638, § 8, as added Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1628; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–13.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973, referred to in text, is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in text, is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 **Codification**
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–13, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–13, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
 **Prior Provisions**
 
-A prior section 8 of act June 20, 1936, which was classified to section 107f of this title, was renumbered section 10 by Pub. L. 93–516, § 206.
+A prior section 8 of act June 20, 1936, which was classified to section 107f of this title, was renumbered section 10 by Pub. L. 93–516, § 206.
 
-## § 107e. Definitions
+## § 107e. Definitions
 
 As used in this chapter—
 
@@ -535,7 +535,7 @@ As used in this chapter—
 
 **(8)** “vending machine income” means receipts (other than those of a blind licensee) from vending machine operations on Federal property, after cost of goods sold (including reasonable service and maintenance costs), where the machines are operated, serviced, or maintained by, or with the approval of, a department, agency, or instrumentality of the United States, or commissions paid (other than to a blind licensee) by a commercial vending concern which operates, services, and maintains vending machines on Federal property for, or with the approval of, a department, agency, or instrumentality of the United States.
 
-(June 20, 1936, ch. 638, § 9, formerly § 6, 49 Stat. 1560; Aug. 3, 1954, ch. 655, § 4(f), 68 Stat. 664; renumbered § 9 and amended Pub. L. 93–516, title II, §§ 206, 207, Dec. 7, 1974, 88 Stat. 1626, 1628; Pub. L. 93–651, title II, §§ 206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13; Pub. L. 96–88, title III, § 301(a)(4)(B), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
+(June 20, 1936, ch. 638, § 9, formerly § 6, 49 Stat. 1560; Aug. 3, 1954, ch. 655, § 4(f), 68 Stat. 664; renumbered § 9 and amended Pub. L. 93–516, title II, §§ 206, 207, Dec. 7, 1974, 88 Stat. 1626, 1628; Pub. L. 93–651, title II, §§ 206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13; Pub. L. 96–88, title III, § 301(a)(4)(B), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
 **Editorial Notes**
 
@@ -543,11 +543,11 @@ As used in this chapter—
 
 The content of Pub. L. 93–516, including provisions of sections 206 and 207 thereof which amended and renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§ 206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§ 206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
 
 **Amendments**
 
-1974—Pub. L. 93–516, § 207, replaced letter designations with number designations, inserted definitions of “Commissioner”, “vending facility”, and “vending machine income”, and in definition of “blind person” substituted provisions that such person meant a person whose central visual acuity does not exceed 20/200 in the better eye with correcting lenses or whose visual acuity, if better than 20/200, is accompanied by a limit to the field of vision in the better eye to such a degree that its widest diameter subtends an angle of no greater than twenty degrees, and that in determining whether a person is blind, there shall be an examination by a physician skilled in diseases of the eye, or by an optometrist, whichever the individual shall select, for provisions that such person meant a person having not more than 10 per centum visual acuity in the better eye with correction and that such blindness shall be certified by a duly licensed ophthalmologist, in definition of “United States” inserted reference to Puerto Rico, in definition of “State” inserted reference to Puerto Rico, and in definition of “Federal property” inserted reference to Department of Defense and United States Postal Service. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+1974—Pub. L. 93–516, § 207, replaced letter designations with number designations, inserted definitions of “Commissioner”, “vending facility”, and “vending machine income”, and in definition of “blind person” substituted provisions that such person meant a person whose central visual acuity does not exceed 20/200 in the better eye with correcting lenses or whose visual acuity, if better than 20/200, is accompanied by a limit to the field of vision in the better eye to such a degree that its widest diameter subtends an angle of no greater than twenty degrees, and that in determining whether a person is blind, there shall be an examination by a physician skilled in diseases of the eye, or by an optometrist, whichever the individual shall select, for provisions that such person meant a person having not more than 10 per centum visual acuity in the better eye with correction and that such blindness shall be certified by a duly licensed ophthalmologist, in definition of “United States” inserted reference to Puerto Rico, in definition of “State” inserted reference to Puerto Rico, and in definition of “Federal property” inserted reference to Department of Defense and United States Postal Service. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 1954—Subsecs. (d), (e). Act Aug. 3, 1954, added subsecs. (d) and (e).
 
@@ -563,19 +563,19 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 For transfer of functions and offices of Secretary and Department of Health, Education, and Welfare, including Rehabilitation Services Administration and Commissioner thereof, to Secretary and Department of Education, and for delegation of certain functions of Secretary of Education under this chapter to Assistant Secretary for Special Education and Rehabilitative Services, see sections 3417 and 3441 of this title.
 
-## § 107e–1. Repealed. Pub. L. 93–516, title II, § 205, Dec. 7, 1974, 88 Stat. 1626
+## § 107e–1. Repealed. Pub. L. 93–516, title II, § 205, Dec. 7, 1974, 88 Stat. 1626
 
-Section, act June 20, 1936, ch. 638, § 7, as added Aug. 3, 1954, ch. 655, § 4(g), 68 Stat. 664, related to designation and status of states acting as licensing agents before July 1, 1954.
+Section, act June 20, 1936, ch. 638, § 7, as added Aug. 3, 1954, ch. 655, § 4(g), 68 Stat. 664, related to designation and status of states acting as licensing agents before July 1, 1954.
 
 The content of Pub. L. 93–516, including provisions of section 205 thereof which repealed this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been repealed by Pub. L. 93–651, title II, § 205, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was repealed by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been repealed by Pub. L. 93–651, title II, § 205, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was repealed by Pub. L. 93–516.
 
-## § 107f. Authorization of appropriations
+## § 107f. Authorization of appropriations
 
 There is authorized to be appropriated such sums as may be necessary for carrying out the provisions of this chapter.
 
-(June 20, 1936, ch. 638, § 10, formerly § 7, 49 Stat. 1560; renumbered § 8, Aug. 3, 1954, ch. 655, § 4(g), 68 Stat. 664; renumbered § 10, Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1626; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11.)
+(June 20, 1936, ch. 638, § 10, formerly § 7, 49 Stat. 1560; renumbered § 8, Aug. 3, 1954, ch. 655, § 4(g), 68 Stat. 664; renumbered § 10, Pub. L. 93–516, title II, § 206, Dec. 7, 1974, 88 Stat. 1626; Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11.)
 
 **Editorial Notes**
 
@@ -583,4 +583,4 @@ There is authorized to be appropriated such sums as may be necessary for carryin
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been renumbered by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was amended by Pub. L. 93–516, title II, § 206, Nov. 21, 1974, 88 Stat. 1626.
+Pursuant to an order of the United States District Court for the District of Columbia (*Kennedy v. Jones*, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been renumbered by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was amended by Pub. L. 93–516, title II, § 206, Nov. 21, 1974, 88 Stat. 1626.

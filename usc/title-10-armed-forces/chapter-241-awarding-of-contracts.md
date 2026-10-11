@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 241 “AWARDING OF CONTRACTS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3301, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1816(b), Jan. 1, 2021, 134 Stat. 4182.
+A prior chapter 241 “AWARDING OF CONTRACTS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3301, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1816(b), Jan. 1, 2021, 134 Stat. 4182.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program for Anything-As-A-Service**
 
-Pub. L. 118–31, div. A, title VIII, § 809, Dec. 22, 2023, 137 Stat. 320, provided that:
+Pub. L. 118–31, div. A, title VIII, § 809, Dec. 22, 2023, 137 Stat. 320, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish a pilot program to explore the use of consumption-based solutions to address any defense need, hereafter ‘anything-as-a-service’, that is feasible to provide users on-demand access, quickly add newly released capabilities, and bill based on actual usage at fixed price units.
 
@@ -47,7 +47,7 @@ Pub. L. 118–31, div. A, title VIII, § 809, Dec. 22, 2023, 137 Stat. 320, pr
 
 **Development of Procurement Administrative Lead Time**
 
-Pub. L. 115–91, div. A, title VIII, § 886, Dec. 12, 2017, 131 Stat. 1505, as amended by Pub. L. 118–159, div. A, title XVII, § 1701(d)(1), Dec. 23, 2024, 138 Stat. 2207, provided that:
+Pub. L. 115–91, div. A, title VIII, § 886, Dec. 12, 2017, 131 Stat. 1505, as amended by Pub. L. 118–159, div. A, title XVII, § 1701(d)(1), Dec. 23, 2024, 138 Stat. 2207, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall develop, make available for public comment, and finalize—
 
@@ -69,23 +69,23 @@ Pub. L. 115–91, div. A, title VIII, § 886, Dec. 12, 2017, 131 Stat. 1505, a
 
 > **“(d) Use of Existing Procurement Data Systems.—** In developing the plan for measuring and publicly reporting data on PALT required by subsection (a), the Secretary shall, to the maximum extent practicable, rely on the information contained in the Federal procurement data system established pursuant to section 1122(a)(4) of title 41, United States Code, including any modifications to that system.”
 
-## § 3301. Basis of award and rejection
+## § 3301. Basis of award and rejection
 
 **(a) Award.—** The head of an agency shall evaluate sealed bids and competitive proposals and make an award based solely on the factors specified in the solicitation.
 
 **(b) Rejection.—** All sealed bids or competitive proposals received in response to a solicitation may be rejected if the head of the agency determines that such action is in the public interest.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(A), (3), Jan. 1, 2021, 134 Stat. 4182.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(A), (3), Jan. 1, 2021, 134 Stat. 4182.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b)(1), (2) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(A), (3), was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1191, 1192; Pub. L. 101–510, div. A, title VIII, § 802(d)(1), Nov. 5, 1990, 104 Stat. 1589.
+The text of subsec. (b)(1), (2) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(A), (3), was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1191, 1192; Pub. L. 101–510, div. A, title VIII, § 802(d)(1), Nov. 5, 1990, 104 Stat. 1589.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1816(c)(3), redesignated subsec. (b)(1) and (2) of section 2305 of this title as subsecs. (a) and (b), respectively, of this section and inserted headings.
+2021—Pub. L. 116–283, § 1816(c)(3), redesignated subsec. (b)(1) and (2) of section 2305 of this title as subsecs. (a) and (b), respectively, of this section and inserted headings.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -95,7 +95,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Increasing Competition in Defense Contracting**
 
-Pub. L. 119–60, div. A, title VIII, § 824, Dec. 18, 2025, 139 Stat. 956, provided that:
+Pub. L. 119–60, div. A, title VIII, § 824, Dec. 18, 2025, 139 Stat. 956, provided that:
 
 > **“(a) Uses of Past Performance.—**
 
@@ -131,11 +131,11 @@ Pub. L. 119–60, div. A, title VIII, § 824, Dec. 18, 2025, 139 Stat. 956, pr
 
 **Consideration of the Past Performance of Affiliate Companies of Small Business Concerns**
 
-Pub. L. 118–31, div. A, title VIII, § 865, Dec. 22, 2023, 137 Stat. 348, provided that: “Not later than July 1, 2024, the Secretary of Defense shall amend section 215.305 of the Defense Federal Acquisition Supplement (or any successor regulation) to require that when small business concerns bid on Department of Defense contracts, the past performance evaluation and source selection processes shall consider, if relevant, the past performance information of affiliate companies of the small business concerns.”
+Pub. L. 118–31, div. A, title VIII, § 865, Dec. 22, 2023, 137 Stat. 348, provided that: “Not later than July 1, 2024, the Secretary of Defense shall amend section 215.305 of the Defense Federal Acquisition Supplement (or any successor regulation) to require that when small business concerns bid on Department of Defense contracts, the past performance evaluation and source selection processes shall consider, if relevant, the past performance information of affiliate companies of the small business concerns.”
 
 **Inclusion of Best Available Information Regarding Past Performance of Subcontractors and Joint Venture Partners**
 
-Pub. L. 115–232, div. A, title VIII, § 823, Aug. 13, 2018, 132 Stat. 1855, provided that:
+Pub. L. 115–232, div. A, title VIII, § 823, Aug. 13, 2018, 132 Stat. 1855, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, in consultation with the Federal Acquisition Regulatory Council and the Administrator for Federal Procurement Policy, shall develop policies for the Department of Defense to ensure the best information regarding past performance of certain subcontractors and joint venture partners is available when awarding Department of Defense contracts. The policies shall include proposed revisions to the Defense Federal Acquisition Regulation Supplement as follows:
 
@@ -171,7 +171,7 @@ Pub. L. 115–232, div. A, title VIII, § 823, Aug. 13, 2018, 132 Stat. 1855, 
 
 **Inclusion of Data on Contractor Performance in Past Performance Databases for Source Selection Decisions**
 
-Pub. L. 112–81, div. A, title VIII, § 806, Dec. 31, 2011, 125 Stat. 1487, as amended by Pub. L. 112–239, div. A, title X, § 1076(a)(11), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–92, div. A, title IX, § 902(35), Dec. 20, 2019, 133 Stat. 1547, provided that:
+Pub. L. 112–81, div. A, title VIII, § 806, Dec. 31, 2011, 125 Stat. 1487, as amended by Pub. L. 112–239, div. A, title X, § 1076(a)(11), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–92, div. A, title IX, § 902(35), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 > **“(a) Strategy on Inclusion Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011], the Under Secretary of Defense for Acquisition and Sustainment shall develop a strategy for ensuring that timely, accurate, and complete information on contractor performance is included in past performance databases used for making source selection decisions.
 
@@ -195,7 +195,7 @@ Pub. L. 112–81, div. A, title VIII, § 806, Dec. 31, 2011, 125 Stat. 1487, a
 
 > **“(e) Comptroller General Report.—** Not later than 18 months after the date of the enactment of this Act [Dec. 31, 2011], the Comptroller General of the United States shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the actions taken by the Under Secretary of Defense for Acquisition and Sustainment pursuant to this section, including an assessment of the extent to which such actions have achieved the objectives of this section.”
 
-## § 3302. Sealed bids
+## § 3302. Sealed bids
 
 **(a) Opening of Bids.—** Sealed bids shall be opened publicly at the time and place stated in the solicitation.
 
@@ -203,25 +203,25 @@ Pub. L. 112–81, div. A, title VIII, § 806, Dec. 31, 2011, 125 Stat. 1487, a
 
 **(c) Notice of Award.—** The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within three days after the date of contract award, the head of the agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(B), (4), Jan. 1, 2021, 134 Stat. 4182.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(B), (4), Jan. 1, 2021, 134 Stat. 4182.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b)(3) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(B), (4) was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1192; Pub. L. 101–510, div. A, title VIII, § 802(d)(2), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 103–355, title I, § 1013(a), Oct. 13, 1994, 108 Stat. 3255.
+The text of subsec. (b)(3) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(B), (4) was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1192; Pub. L. 101–510, div. A, title VIII, § 802(d)(2), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 103–355, title I, § 1013(a), Oct. 13, 1994, 108 Stat. 3255.
 
 **Prior Provisions**
 
-A prior section 3302, act Aug. 10, 1956, ch. 1041, 70A Stat. 187, related to promotion to captain, major, or lieutenant colonel of commissioned officers of Medical Corps, Dental Corps, and Veterinary Corps upon examination of professional fitness and effect upon failure of promotion, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See sections 631 and 632 of this title.
+A prior section 3302, act Aug. 10, 1956, ch. 1041, 70A Stat. 187, related to promotion to captain, major, or lieutenant colonel of commissioned officers of Medical Corps, Dental Corps, and Veterinary Corps upon examination of professional fitness and effect upon failure of promotion, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See sections 631 and 632 of this title.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1816(c)(4)(A), (C), redesignated subsec. (b)(3) of section 2305 of this title as subsec. (a) of this section and inserted heading. Former second and third sentences of subsec. (a) designated subsecs. (b) and (c), respectively.
+2021—Subsec. (a). Pub. L. 116–283, § 1816(c)(4)(A), (C), redesignated subsec. (b)(3) of section 2305 of this title as subsec. (a) of this section and inserted heading. Former second and third sentences of subsec. (a) designated subsecs. (b) and (c), respectively.
 
-Subsec (b). Pub. L. 116–283, § 1816(c)(4)(B), (D), designated second sentence of subsec. (a) as subsec. (b) of this section, inserted heading, and substituted “section 3301(a) of this title” for “paragraph (1)” and “section 3301(b) of this title” for “paragraph (2)”.
+Subsec (b). Pub. L. 116–283, § 1816(c)(4)(B), (D), designated second sentence of subsec. (a) as subsec. (b) of this section, inserted heading, and substituted “section 3301(a) of this title” for “paragraph (1)” and “section 3301(b) of this title” for “paragraph (2)”.
 
-Subsec. (c). Pub. L. 116–283, § 1816(c)(4)(B), (E), designated third sentence of subsec. (a) as subsec. (c) of this section and inserted heading.
+Subsec. (c). Pub. L. 116–283, § 1816(c)(4)(B), (E), designated third sentence of subsec. (a) as subsec. (c) of this section and inserted heading.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -229,7 +229,7 @@ Subsec. (c). Pub. L. 116–283, § 1816(c)(4)(B), (E), designated third senten
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3303. Competitive proposals
+## § 3303. Competitive proposals
 
 **(a) Evaluation and Award.—** The head of an agency shall evaluate competitive proposals in accordance with section 3301(a) of this title and may award a contract—
 
@@ -245,31 +245,31 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(e) Exception for Perishable Subsistence Items.—** Subsections (c) and (d) do not apply with respect to the award of a contract for the acquisition of perishable subsistence items.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(C), (5), Jan. 1, 2021, 134 Stat. 4182, 4183; Pub. L. 117–81, div. A, title XVII, § 1701(b)(6)(A), Dec. 27, 2021, 135 Stat. 2133.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(C), (5), Jan. 1, 2021, 134 Stat. 4182, 4183; Pub. L. 117–81, div. A, title XVII, § 1701(b)(6)(A), Dec. 27, 2021, 135 Stat. 2133.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b)(4) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(C), (5) was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1192; Pub. L. 99–500, § 101(c) [title X, § 924(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, § 101(c) [title X, § 924(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, § 313(b), title IX, formerly title IV, § 924(b), Nov. 14, 1986, 100 Stat. 3853, 3933, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, § 853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, § 802(d), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 103–355, title I, § 1013(b), Oct. 13, 1994, 108 Stat. 3255; Pub. L. 104–106, div. D, title XLI, § 4103(a), Feb. 10, 1996, 110 Stat. 643.
+The text of subsec. (b)(4) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(C), (5) was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1192; Pub. L. 99–500, § 101(c) [title X, § 924(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, § 101(c) [title X, § 924(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, § 313(b), title IX, formerly title IV, § 924(b), Nov. 14, 1986, 100 Stat. 3853, 3933, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, § 853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, § 802(d), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 103–355, title I, § 1013(b), Oct. 13, 1994, 108 Stat. 3255; Pub. L. 104–106, div. D, title XLI, § 4103(a), Feb. 10, 1996, 110 Stat. 643.
 
 **Prior Provisions**
 
-A prior section 3303, act Aug. 10, 1956, ch. 1041, 70A Stat. 188; Pub. L. 86–616, § 1(3), July 12, 1960, 74 Stat. 386; Pub. L. 87–509, § 4(a), June 28, 1962, 76 Stat. 121, related to effect of failure of a promotion-list officer considered for promotion to grade of captain, major, or lieutenant colonel under section 3299 of this title to be recommended for promotion, which officer was to be known as a “deferred officer”, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See sections 631 and 632 of this title.
+A prior section 3303, act Aug. 10, 1956, ch. 1041, 70A Stat. 188; Pub. L. 86–616, § 1(3), July 12, 1960, 74 Stat. 386; Pub. L. 87–509, § 4(a), June 28, 1962, 76 Stat. 121, related to effect of failure of a promotion-list officer considered for promotion to grade of captain, major, or lieutenant colonel under section 3299 of this title to be recommended for promotion, which officer was to be known as a “deferred officer”, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See sections 631 and 632 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1816(c)(5)(A), transferred subsec. (b)(4) of section 2305 of this title to this section and struck out par. (4) designation at beginning.
+2021—Pub. L. 116–283, § 1816(c)(5)(A), transferred subsec. (b)(4) of section 2305 of this title to this section and struck out par. (4) designation at beginning.
 
-Subsec. (a). Pub. L. 116–283, § 1816(c)(5)(B), (D), redesignated subpar. (A) of former section 2305(b)(4) of this title as subsec. (a) of this section, inserted heading, substituted “section 3301(a) of this title” for “paragraph (1)” in introductory provisions, and redesignated cls. (i) and (ii) as pars. (1) and (2), respectively.
+Subsec. (a). Pub. L. 116–283, § 1816(c)(5)(B), (D), redesignated subpar. (A) of former section 2305(b)(4) of this title as subsec. (a) of this section, inserted heading, substituted “section 3301(a) of this title” for “paragraph (1)” in introductory provisions, and redesignated cls. (i) and (ii) as pars. (1) and (2), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1816(c)(5)(B), (E), redesignated subpar. (B) of former section 2305(b)(4) of this title as subsec. (b) of this section, inserted heading, and substituted “subsection (a)(1)” for “subparagraph (A)(i)”.
+Subsec. (b). Pub. L. 116–283, § 1816(c)(5)(B), (E), redesignated subpar. (B) of former section 2305(b)(4) of this title as subsec. (b) of this section, inserted heading, and substituted “subsection (a)(1)” for “subparagraph (A)(i)”.
 
-Subsec. (c). Pub. L. 116–283, § 1816(c)(5)(B), (F), redesignated subpar. (C) of former section 2305(b)(4) of this title as subsec. (c) of this section, inserted heading, and substituted “section 3301(b) of this title” for “paragraph (2)”. Former second and third sentences designated subsec. (d).
+Subsec. (c). Pub. L. 116–283, § 1816(c)(5)(B), (F), redesignated subpar. (C) of former section 2305(b)(4) of this title as subsec. (c) of this section, inserted heading, and substituted “section 3301(b) of this title” for “paragraph (2)”. Former second and third sentences designated subsec. (d).
 
-Subsec. (d). Pub. L. 116–283, § 1816(c)(5)(C), (G), as amended and added by Pub. L. 117–81, § 1701(b)(6)(A), designated the second sentence of subsec. (c) as subsec. (d) and inserted heading.
+Subsec. (d). Pub. L. 116–283, § 1816(c)(5)(C), (G), as amended and added by Pub. L. 117–81, § 1701(b)(6)(A), designated the second sentence of subsec. (c) as subsec. (d) and inserted heading.
 
-Subsec. (e). Pub. L. 116–283, § 1816(c)(5)(C), (H), as amended and added by Pub. L. 117–81, § 1701(b)(6)(A), designated the third sentence of subsec. (c) as subsec. (e), inserted heading, and substituted “Subsections (c) and (d) do not” for “This subparagraph does not”.
+Subsec. (e). Pub. L. 116–283, § 1816(c)(5)(C), (H), as amended and added by Pub. L. 117–81, § 1701(b)(6)(A), designated the third sentence of subsec. (c) as subsec. (e), inserted heading, and substituted “Subsections (c) and (d) do not” for “This subparagraph does not”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -283,13 +283,13 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Procurement of Tents or Other Temporary Structures**
 
-Pub. L. 112–81, div. A, title III, § 368, Dec. 31, 2011, 125 Stat. 1381, provided that:
+Pub. L. 112–81, div. A, title III, § 368, Dec. 31, 2011, 125 Stat. 1381, provided that:
 
 > **“(a) In General.—** In procuring tents or other temporary structures for use by the Armed Forces, and in establishing or maintaining an alternative source for such tents and structures, the Secretary of Defense shall award contracts that provide the best value to the United States. In determining the best value to the United States under this section, the Secretary shall consider the total life-cycle costs of such tents or structures, including the costs associated with any equipment or fuel needed to heat or cool such tents or structures.
 
 > **“(b) Interagency Procurement.—** The requirements of this section shall apply to any agency or department of the United States that procures tents or other temporary structures on behalf of the Department of Defense.”
 
-## § 3304. Post-award debriefings
+## § 3304. Post-award debriefings
 
 **(a) Request for Debriefing.—** When a contract is awarded by the head of an agency on the basis of competitive proposals, an unsuccessful offeror, upon written request received by the agency within 3 days after the date on which the unsuccessful offeror receives the notification of the contract award, shall be debriefed and furnished the basis for the selection decision and contract award.
 
@@ -327,41 +327,41 @@ Pub. L. 112–81, div. A, title III, § 368, Dec. 31, 2011, 125 Stat. 1381, pr
 
 **(g) Summary to Be Included in File.—** The contracting officer shall include a summary of any debriefing conducted under this section in the contract file.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(D), (6), Jan. 1, 2021, 134 Stat. 4182, 4183; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(26), Dec. 22, 2023, 137 Stat. 684.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(D), (6), Jan. 1, 2021, 134 Stat. 4182, 4183; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(26), Dec. 22, 2023, 137 Stat. 684.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b)(5) of section 2305 of this title, which was transferred to this section, redesignated as subsecs. (a) to (f), and amended by Pub. L. 116–283, § 1816(c)(1), (2)(D), (6)(A)–(J), was based on Pub. L. 103–355, title I, § 1014(2), Oct. 13, 1994, 108 Stat. 3256; Pub. L. 104–106, div. D, title XLI, § 4104(a)(1), Feb. 10, 1996, 110 Stat. 644; Pub. L. 115–91, div. A, title VIII, § 818(b), Dec. 12, 2017, 131 Stat. 1463; Pub. L. 115–232, div. A, title VIII, § 836(c)(3), Aug. 13, 2018, 132 Stat. 1864.
+The text of subsec. (b)(5) of section 2305 of this title, which was transferred to this section, redesignated as subsecs. (a) to (f), and amended by Pub. L. 116–283, § 1816(c)(1), (2)(D), (6)(A)–(J), was based on Pub. L. 103–355, title I, § 1014(2), Oct. 13, 1994, 108 Stat. 3256; Pub. L. 104–106, div. D, title XLI, § 4104(a)(1), Feb. 10, 1996, 110 Stat. 644; Pub. L. 115–91, div. A, title VIII, § 818(b), Dec. 12, 2017, 131 Stat. 1463; Pub. L. 115–232, div. A, title VIII, § 836(c)(3), Aug. 13, 2018, 132 Stat. 1864.
 
 For derivation of subsec. (g) of this section, see Codification note related to subsec. (f) set out under section 3305 of this title.
 
 **Prior Provisions**
 
-A prior section 3304, act Aug. 10, 1956, ch. 1041, 70A Stat. 189; Pub. L. 85–155, title I, § 101(14), Aug. 21, 1957, 71 Stat. 378, covered promotion of officers in the Army Nurse Corps and the Army Medical Specialists Corps to colonel and lieutenant colonel, set out the requirements of officers on the promotion lists, and provided for the procedure to be followed in determining the order of promotion, prior to repeal by Pub. L. 90–130, § 1(10)(C), Nov. 8, 1967, 81 Stat 375.
+A prior section 3304, act Aug. 10, 1956, ch. 1041, 70A Stat. 189; Pub. L. 85–155, title I, § 101(14), Aug. 21, 1957, 71 Stat. 378, covered promotion of officers in the Army Nurse Corps and the Army Medical Specialists Corps to colonel and lieutenant colonel, set out the requirements of officers on the promotion lists, and provided for the procedure to be followed in determining the order of promotion, prior to repeal by Pub. L. 90–130, § 1(10)(C), Nov. 8, 1967, 81 Stat 375.
 
 **Amendments**
 
 2023—Subsec. (g). Pub. L. 118–31 inserted “under” before “this section”.
 
-2021—Pub. L. 116–283, § 1816(c)(6)(A), transferred subsec. (b)(5) of section 2305 of this title to this section and struck out par. (5) designation at beginning.
+2021—Pub. L. 116–283, § 1816(c)(6)(A), transferred subsec. (b)(5) of section 2305 of this title to this section and struck out par. (5) designation at beginning.
 
-Subsec. (a). Pub. L. 116–283, § 1816(c)(6)(B), (E), redesignated subpar. (A) of former section 2305(b)(5) of this title as subsec. (a) of this section and inserted heading. Former second sentence of subsec. (a) designated subsec. (b).
+Subsec. (a). Pub. L. 116–283, § 1816(c)(6)(B), (E), redesignated subpar. (A) of former section 2305(b)(5) of this title as subsec. (a) of this section and inserted heading. Former second sentence of subsec. (a) designated subsec. (b).
 
-Subsec. (b). Pub. L. 116–283, § 1816(c)(6)(C), (F), designated second sentence of subsec. (a) as subsec. (b) of this section and inserted heading.
+Subsec. (b). Pub. L. 116–283, § 1816(c)(6)(C), (F), designated second sentence of subsec. (a) as subsec. (b) of this section and inserted heading.
 
-Subsec. (c)(1). Pub. L. 116–283, § 1816(c)(6)(B), (G)(i), (ii), redesignated subpar. (B) of former section 2305(b)(5) of this title and its cls. (i) to (vii) as subsec. (c)(1) of this section and subpars. (A) to (G), respectively, and inserted subsec. heading.
+Subsec. (c)(1). Pub. L. 116–283, § 1816(c)(6)(B), (G)(i), (ii), redesignated subpar. (B) of former section 2305(b)(5) of this title and its cls. (i) to (vii) as subsec. (c)(1) of this section and subpars. (A) to (G), respectively, and inserted subsec. heading.
 
-Subsec. (c)(2). Pub. L. 116–283, § 1816(c)(6)(D), (G)(iii), redesignated subpar. (C) of former section 2305(b)(5) of this title as subsec. (c)(2) of this section and substituted “paragraph (1)(G)” for “subparagraph (B)(vii)”.
+Subsec. (c)(2). Pub. L. 116–283, § 1816(c)(6)(D), (G)(iii), redesignated subpar. (C) of former section 2305(b)(5) of this title as subsec. (c)(2) of this section and substituted “paragraph (1)(G)” for “subparagraph (B)(vii)”.
 
-Subsec. (d). Pub. L. 116–283, § 1816(c)(6)(B), (H), redesignated subpar. (D) of former section 2305(b)(5) of this title as subsec. (d) of this section and inserted heading.
+Subsec. (d). Pub. L. 116–283, § 1816(c)(6)(B), (H), redesignated subpar. (D) of former section 2305(b)(5) of this title as subsec. (d) of this section and inserted heading.
 
-Subsec. (e). Pub. L. 116–283, § 1816(c)(6)(B), (I), redesignated subpar. (E) of former section 2305(b)(5) of this title as subsec. (e) of this section, inserted heading, and substituted “subsection (c)” for “subparagraph (B)”.
+Subsec. (e). Pub. L. 116–283, § 1816(c)(6)(B), (I), redesignated subpar. (E) of former section 2305(b)(5) of this title as subsec. (e) of this section, inserted heading, and substituted “subsection (c)” for “subparagraph (B)”.
 
-Subsec. (f). Pub. L. 116–283, § 1816(c)(6)(B), (J), redesignated subpar. (F) of former section 2305(b)(5) of this title as subsec. (f) of this section, inserted heading, and redesignated cls. (i) and (ii) as pars. (1) and (2), respectively.
+Subsec. (f). Pub. L. 116–283, § 1816(c)(6)(B), (J), redesignated subpar. (F) of former section 2305(b)(5) of this title as subsec. (f) of this section, inserted heading, and redesignated cls. (i) and (ii) as pars. (1) and (2), respectively.
 
-Subsec. (g). Pub. L. 116–283, § 1816(c)(6)(K), added subsec. (g) identical to subsec. (f) of section 3305 of this title.
+Subsec. (g). Pub. L. 116–283, § 1816(c)(6)(K), added subsec. (g) identical to subsec. (f) of section 3305 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,7 +371,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Enhanced Post-Award Debriefing Rights; Release of Contract Award Information**
 
-Pub. L. 115–91, div. A, title VIII, § 818(a), Dec. 12, 2017, 131 Stat. 1463, provided that:
+Pub. L. 115–91, div. A, title VIII, § 818(a), Dec. 12, 2017, 131 Stat. 1463, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that all required post-award debriefings, while protecting the confidential and proprietary information of other offerors, include, at a minimum, the following:
 
@@ -383,7 +383,7 @@ Pub. L. 115–91, div. A, title VIII, § 818(a), Dec. 12, 2017, 131 Stat. 1463
 
 > **“(4)** Robust procedures, consistent with section 2305(b)(5)(D) of title 10, United States Code [now 10 U.S.C. 3304(d)], and provisions implementing that section in the Federal Acquisition Regulation, to protect the confidential and proprietary information of other offerors.”
 
-## § 3305. Pre-award debriefings
+## § 3305. Pre-award debriefings
 
 **(a) Request for Debriefing.—** When the contracting officer excludes an offeror submitting a competitive proposal from the competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within three days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award.
 
@@ -403,35 +403,35 @@ Pub. L. 115–91, div. A, title VIII, § 818(a), Dec. 12, 2017, 131 Stat. 1463
 
 **(f) Summary to Be Included in File.—** The contracting officer shall include a summary of any debriefing conducted under this section in the contract file.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(E), (7), Jan. 1, 2021, 134 Stat. 4182, 4183; Pub. L. 117–81, div. A, title XVII, § 1701(b)(6)(B), Dec. 27, 2021, 135 Stat. 2133.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(E), (7), Jan. 1, 2021, 134 Stat. 4182, 4183; Pub. L. 117–81, div. A, title XVII, § 1701(b)(6)(B), Dec. 27, 2021, 135 Stat. 2133.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b)(6) of section 2305 of this title, which was transferred to this section, redesignated as subsecs. (a) to (e), and amended by Pub. L. 116–283, § 1816(c)(1), (2)(E), (7)(A), (C)–(I), was based on Pub. L. 104–106, div. D, title XLI, § 4104(a)(3), Feb. 10, 1996, 110 Stat. 644; Pub. L. 104–201, div. A, title X, § 1074(a)(11), Sept. 23, 1996, 110 Stat. 2659.
+The text of subsec. (b)(6) of section 2305 of this title, which was transferred to this section, redesignated as subsecs. (a) to (e), and amended by Pub. L. 116–283, § 1816(c)(1), (2)(E), (7)(A), (C)–(I), was based on Pub. L. 104–106, div. D, title XLI, § 4104(a)(3), Feb. 10, 1996, 110 Stat. 644; Pub. L. 104–201, div. A, title X, § 1074(a)(11), Sept. 23, 1996, 110 Stat. 2659.
 
-The text of subsec. (b)(7) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (f), and amended by Pub. L. 116–283, § 1816(c)(1), (2)(E), (7)(B), (J), was based on Pub. L. 104–106, div. D, title XLI, § 4104(a)(3), Feb. 10, 1996, 110 Stat. 644.
+The text of subsec. (b)(7) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (f), and amended by Pub. L. 116–283, § 1816(c)(1), (2)(E), (7)(B), (J), was based on Pub. L. 104–106, div. D, title XLI, § 4104(a)(3), Feb. 10, 1996, 110 Stat. 644.
 
 **Prior Provisions**
 
-A prior section 3305, act Aug. 10, 1956, ch. 1041, 70A Stat. 189; Pub. L. 85–155, title I, § 101(16), Aug. 21, 1957, 71 Stat. 379; Pub. L. 90–130, § 1(10)(D), (E), Nov. 8, 1967, 81 Stat. 375, related to promotion of officers in regular grade of lieutenant colonel to grade of colonel, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 619 et seq. of this title.
+A prior section 3305, act Aug. 10, 1956, ch. 1041, 70A Stat. 189; Pub. L. 85–155, title I, § 101(16), Aug. 21, 1957, 71 Stat. 379; Pub. L. 90–130, § 1(10)(D), (E), Nov. 8, 1967, 81 Stat. 375, related to promotion of officers in regular grade of lieutenant colonel to grade of colonel, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 619 et seq. of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1816(c)(7)(A), transferred subsec. (b)(6) of section 2305 of this title to this section and struck out par. (6) designation at beginning.
+2021—Pub. L. 116–283, § 1816(c)(7)(A), transferred subsec. (b)(6) of section 2305 of this title to this section and struck out par. (6) designation at beginning.
 
-Subsec. (a). Pub. L. 116–283, § 1816(c)(7)(C), (E), redesignated subpar. (A) of former section 2305(b)(6) of this title as subsec. (a) of this section and inserted heading. Former second sentence of subsec. (a) designated subsec. (b).
+Subsec. (a). Pub. L. 116–283, § 1816(c)(7)(C), (E), redesignated subpar. (A) of former section 2305(b)(6) of this title as subsec. (a) of this section and inserted heading. Former second sentence of subsec. (a) designated subsec. (b).
 
-Subsec. (b). Pub. L. 116–283, § 1816(c)(7)(D), (F), designated second sentence of subsec. (a) as subsec. (b) of this section and inserted heading.
+Subsec. (b). Pub. L. 116–283, § 1816(c)(7)(D), (F), designated second sentence of subsec. (a) as subsec. (b) of this section and inserted heading.
 
-Subsec. (c). Pub. L. 116–283, § 1816(c)(7)(B), (G), redesignated subpar. (B) of former section 2305(b)(6) of this title as subsec. (c) of this section, inserted heading, and substituted “section 3304 of this title” for “paragraph (5)” and “subsections (a) and (b)” for “subparagraph (A)”.
+Subsec. (c). Pub. L. 116–283, § 1816(c)(7)(B), (G), redesignated subpar. (B) of former section 2305(b)(6) of this title as subsec. (c) of this section, inserted heading, and substituted “section 3304 of this title” for “paragraph (5)” and “subsections (a) and (b)” for “subparagraph (A)”.
 
-Subsec. (d). Pub. L. 116–283, § 1816(c)(7)(B), (H), redesignated subpar. (C) of former section 2305(b)(6) of this title and its cls. (i) to (iii) as subsec. (d) of this section and pars. (1) to (3), respectively, inserted heading, and substituted “subsections (a) and (b)” for “subparagraph (A)” in introductory provisions.
+Subsec. (d). Pub. L. 116–283, § 1816(c)(7)(B), (H), redesignated subpar. (C) of former section 2305(b)(6) of this title and its cls. (i) to (iii) as subsec. (d) of this section and pars. (1) to (3), respectively, inserted heading, and substituted “subsections (a) and (b)” for “subparagraph (A)” in introductory provisions.
 
-Subsec. (e). Pub. L. 116–283, § 1816(c)(7)(B), (I), redesignated subpar. (D) of former section 2305(b)(6) of this title as subsec. (e) of this section, inserted heading, and substituted “subsections (a) and (b)” for “subparagraph (A)”.
+Subsec. (e). Pub. L. 116–283, § 1816(c)(7)(B), (I), redesignated subpar. (D) of former section 2305(b)(6) of this title as subsec. (e) of this section, inserted heading, and substituted “subsections (a) and (b)” for “subparagraph (A)”.
 
-Subsec. (f). Pub. L. 116–283, § 1816(c)(7)(B), (J), as amended by Pub. L. 117–81, § 1701(b)(6)(B), redesignated subsec. (b)(7) of section 2305 of this title as subsec. (f) of this section, inserted heading, and substituted “under this section” for “under paragraph (5) or (6)”.
+Subsec. (f). Pub. L. 116–283, § 1816(c)(7)(B), (J), as amended by Pub. L. 117–81, § 1701(b)(6)(B), redesignated subsec. (b)(7) of section 2305 of this title as subsec. (f) of this section, inserted heading, and substituted “under this section” for “under paragraph (5) or (6)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -443,25 +443,25 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3306. Encouragement of alternative dispute resolution
+## § 3306. Encouragement of alternative dispute resolution
 
 The Federal Acquisition Regulation shall include a provision encouraging the use of alternative dispute resolution techniques to provide informal, expeditious, and inexpensive procedures for an offeror to consider using before filing a protest, prior to the award of a contract, of the exclusion of the offeror from the competitive range (or otherwise from further consideration) for that contract.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(F), (8), Jan. 1, 2021, 134 Stat. 4182, 4185.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(F), (8), Jan. 1, 2021, 134 Stat. 4182, 4185.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b)(8) of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(F), (8), was based on Pub. L. 104–106, div. D, title XLI, § 4104(a)(3), Feb. 10, 1996, 110 Stat. 644.
+The text of subsec. (b)(8) of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(F), (8), was based on Pub. L. 104–106, div. D, title XLI, § 4104(a)(3), Feb. 10, 1996, 110 Stat. 644.
 
 **Prior Provisions**
 
-A prior section 3306, act Aug. 10, 1956, ch. 1041, 70A Stat. 190, related to promotion of officers in regular grade of colonel to grade of brigadier general, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 619 et seq. of this title.
+A prior section 3306, act Aug. 10, 1956, ch. 1041, 70A Stat. 190, related to promotion of officers in regular grade of colonel to grade of brigadier general, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 619 et seq. of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1816(c)(8), transferred subsec. (b)(8) of section 2305 of this title to this section and struck out par. (8) designation at beginning.
+2021—Pub. L. 116–283, § 1816(c)(8), transferred subsec. (b)(8) of section 2305 of this title to this section and struck out par. (8) designation at beginning.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -469,25 +469,25 @@ A prior section 3306, act Aug. 10, 1956, ch. 1041, 70A Stat. 190, related to pro
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3307. Antitrust violations
+## § 3307. Antitrust violations
 
 If the head of an agency considers that a bid or proposal evidences a violation of the antitrust laws, he shall refer the bid or proposal to the Attorney General for appropriate action.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(G), (9), Jan. 1, 2021, 134 Stat. 4182, 4185.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(G), (9), Jan. 1, 2021, 134 Stat. 4182, 4185.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b)(9) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(G), (9), was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, § 1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 103–355, title I, § 1014(1), Oct. 13, 1994, 108 Stat. 3255; Pub. L. 104–106, div. D, title XLI, § 4104(a), Feb. 10, 1996, 110 Stat. 644.
+The text of subsec. (b)(9) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(c)(1), (2)(G), (9), was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, § 1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 103–355, title I, § 1014(1), Oct. 13, 1994, 108 Stat. 3255; Pub. L. 104–106, div. D, title XLI, § 4104(a), Feb. 10, 1996, 110 Stat. 644.
 
 **Prior Provisions**
 
-A prior section 3307, act Aug. 10, 1956, ch. 1041, 70A Stat. 191, related to promotion of officers in regular grade of brigadier general to grade of major general, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 619 et seq. of this title.
+A prior section 3307, act Aug. 10, 1956, ch. 1041, 70A Stat. 191, related to promotion of officers in regular grade of brigadier general to grade of major general, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 619 et seq. of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1816(c)(9), transferred subsec. (b)(9) of section 2305 of this title to this section and struck out par. (9) designation at beginning.
+2021—Pub. L. 116–283, § 1816(c)(9), transferred subsec. (b)(9) of section 2305 of this title to this section and struck out par. (9) designation at beginning.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -495,7 +495,7 @@ A prior section 3307, act Aug. 10, 1956, ch. 1041, 70A Stat. 191, related to pro
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3308. Protests
+## § 3308. Protests
 
 **(a) Protest File.—**
 
@@ -509,25 +509,25 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(2)** may pay costs described in paragraph (1) of section 3554(c) of title 31 within the limits referred to in paragraph (2) of such section.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(d), (e), Jan. 1, 2021, 134 Stat. 4185.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(d), (e), Jan. 1, 2021, 134 Stat. 4185.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (e) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1816(e), was based on Pub. L. 103–355, title I, § 1015, Oct. 13, 1994, 108 Stat. 3256; Pub. L. 104–106, div. E, title LVI, § 5601(a), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, § 1074(b)(4)(A), Sept. 23, 1996, 110 Stat. 2660.
+The text of subsec. (e) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1816(e), was based on Pub. L. 103–355, title I, § 1015, Oct. 13, 1994, 108 Stat. 3256; Pub. L. 104–106, div. E, title LVI, § 5601(a), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, § 1074(b)(4)(A), Sept. 23, 1996, 110 Stat. 2660.
 
-The text of subsec. (f) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, § 1816(e)(1), was based on Pub. L. 103–355, title I, § 1016, Oct. 13, 1994, 108 Stat. 3257.
+The text of subsec. (f) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, § 1816(e)(1), was based on Pub. L. 103–355, title I, § 1016, Oct. 13, 1994, 108 Stat. 3257.
 
 **Prior Provisions**
 
-A prior section 3308, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, related to effect of removal from recommended list by President of name of any promotion-list officer or brigadier general of Regular Army who in President’s opinion is not qualified for promotion or who is not confirmed by Senate, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 629 of this title.
+A prior section 3308, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, related to effect of removal from recommended list by President of name of any promotion-list officer or brigadier general of Regular Army who in President’s opinion is not qualified for promotion or who is not confirmed by Senate, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 629 of this title.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1816(e), redesignated subsec. (e) of section 2305 of this title as subsec. (a) of this section and, in pars. (1) and (2), inserted headings and realigned margins.
+2021—Subsec. (a). Pub. L. 116–283, § 1816(e), redesignated subsec. (e) of section 2305 of this title as subsec. (a) of this section and, in pars. (1) and (2), inserted headings and realigned margins.
 
-Subsec. (b). Pub. L. 116–283, § 1816(e)(1), redesignated subsec. (f) of section 2305 of this title as subsec. (b) of this section.
+Subsec. (b). Pub. L. 116–283, § 1816(e)(1), redesignated subsec. (f) of section 2305 of this title as subsec. (b) of this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -535,7 +535,7 @@ Subsec. (b). Pub. L. 116–283, § 1816(e)(1), redesignated subsec. (f) of sec
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3309. Prohibition on release of contractor proposals
+## § 3309. Prohibition on release of contractor proposals
 
 **(a) Definition.—** In this section, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
@@ -543,39 +543,39 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(c) Inapplicability.—** Subsection (b) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between the Department and the contractor that submitted the proposal.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(d), (f), Jan. 1, 2021, 134 Stat. 4185.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1816(d), (f), Jan. 1, 2021, 134 Stat. 4185.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (g) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(f), was based on Pub. L. 104–201, div. A, title VIII, § 821(a), Sept. 23, 1996, 110 Stat. 2609; Pub. L. 106–65, div. A, title VIII, § 821, Oct. 5, 1999, 113 Stat. 714.
+The text of subsec. (g) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1816(f), was based on Pub. L. 104–201, div. A, title VIII, § 821(a), Sept. 23, 1996, 110 Stat. 2609; Pub. L. 106–65, div. A, title VIII, § 821, Oct. 5, 1999, 113 Stat. 714.
 
 **Prior Provisions**
 
-A prior section 3309, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, provided that President prescribe a system of physical examination for all commissioned officers of Regular Army in grades below brigadier general to determine their fitness for promotion in Regular Army, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 624 of this title.
+A prior section 3309, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, provided that President prescribe a system of physical examination for all commissioned officers of Regular Army in grades below brigadier general to determine their fitness for promotion in Regular Army, prior to repeal by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 624 of this title.
 
-A prior section 3310, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, provided that original appointments as warrant officers in the Regular Army were to be made from persons who have served on active duty at least one year in the Army, prior to repeal by Pub. L. 115–232, div. A, title V, § 511(a), Aug. 13, 2018, 132 Stat. 1751.
+A prior section 3310, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, provided that original appointments as warrant officers in the Regular Army were to be made from persons who have served on active duty at least one year in the Army, prior to repeal by Pub. L. 115–232, div. A, title V, § 511(a), Aug. 13, 2018, 132 Stat. 1751.
 
-A prior section 3311, acts Aug. 10, 1956, ch. 1041, 70A Stat. 192; Sept. 2, 1958, Pub. L. 85–861, § 1(60), 72 Stat. 1462, provided that with the exception of those appointed as commissioned officers in Medical Corps, Dental Corps, Medical Service Corps, Veterinary Corps, Army Nurse Corps, or Army Medical Specialist Corps, women be appointed as commissioned officers in Regular Army only in Women’s Army Corps, prior to repeal by Pub. L. 95–485, title VIII, § 820(d)(4), Oct. 20, 1978, 92 Stat. 1627.
+A prior section 3311, acts Aug. 10, 1956, ch. 1041, 70A Stat. 192; Sept. 2, 1958, Pub. L. 85–861, § 1(60), 72 Stat. 1462, provided that with the exception of those appointed as commissioned officers in Medical Corps, Dental Corps, Medical Service Corps, Veterinary Corps, Army Nurse Corps, or Army Medical Specialist Corps, women be appointed as commissioned officers in Regular Army only in Women’s Army Corps, prior to repeal by Pub. L. 95–485, title VIII, § 820(d)(4), Oct. 20, 1978, 92 Stat. 1627.
 
-Prior sections 3312 to 3314 were repealed by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981.
+Prior sections 3312 to 3314 were repealed by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981.
 
 Section 3312, act Aug. 10, 1956, ch. 1041, 70A Stat. 193, provided that an officer who is promoted in Regular Army is considered to have accepted his promotion on date of the order announcing it, unless he expressly declines it, without the need to take oath of office upon promotion if his service since last taking it has been continuous. See section 626 of this title.
 
 Section 3313, act Aug. 10, 1956, ch. 1041, 70A Stat. 193, provided that in time of war or national emergency declared by Congress or President, President may suspend operation of provision of law relating to promotion, mandatory retirement, or separation of commissioned officers of the Regular Army. See section 123(a) and (b) of this title.
 
-Section 3314, added Pub. L. 85–861, § 1(79)(A), Sept. 2, 1958, 72 Stat. 1467, provided that promotion to a higher grade of a commissioned officer of Regular Army who is on a recommendation list awaiting promotion not be withheld or delayed because of original appointment of any other person to a commissioned grade in Regular Army and that this section does not apply to appointments in Medical Corps, Dental Corps, Army Nurse Corps, or Army Medical Specialist Corps. See section 624 of this title.
+Section 3314, added Pub. L. 85–861, § 1(79)(A), Sept. 2, 1958, 72 Stat. 1467, provided that promotion to a higher grade of a commissioned officer of Regular Army who is on a recommendation list awaiting promotion not be withheld or delayed because of original appointment of any other person to a commissioned grade in Regular Army and that this section does not apply to appointments in Medical Corps, Dental Corps, Army Nurse Corps, or Army Medical Specialist Corps. See section 624 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1816(f)(1)(A), transferred subsec. (g) of section 2305 of this title to this section and struck out subsec. (g) designation and heading “Prohibition on Release of Contractor Proposals” at beginning.
+2021—Pub. L. 116–283, § 1816(f)(1)(A), transferred subsec. (g) of section 2305 of this title to this section and struck out subsec. (g) designation and heading “Prohibition on Release of Contractor Proposals” at beginning.
 
-Subsec. (a). Pub. L. 116–283, § 1816(f)(1)(B), (C), (2), redesignated par. (3) of former section 2305(g) of this title as subsec. (a) of this section, moved it to the beginning, inserted heading, and substituted “In this section,” for “In this subsection,”.
+Subsec. (a). Pub. L. 116–283, § 1816(f)(1)(B), (C), (2), redesignated par. (3) of former section 2305(g) of this title as subsec. (a) of this section, moved it to the beginning, inserted heading, and substituted “In this section,” for “In this subsection,”.
 
-Subsec. (b). Pub. L. 116–283, § 1816(f)(1)(B), (3), redesignated par. (1) of former section 2305(g) of this title as subsec. (b) of this section, inserted heading, and substituted “subsection (c),” for “paragraph (2),” and “section 3063” for “section 2303”.
+Subsec. (b). Pub. L. 116–283, § 1816(f)(1)(B), (3), redesignated par. (1) of former section 2305(g) of this title as subsec. (b) of this section, inserted heading, and substituted “subsection (c),” for “paragraph (2),” and “section 3063” for “section 2303”.
 
-Subsec. (c). Pub. L. 116–283, § 1816(f)(1)(B), (4), redesignated par. (2) of former section 2305(g) of this title as subsec. (c) of this section, inserted heading, and substituted “Subsection (b)” for “Paragraph (1)”.
+Subsec. (c). Pub. L. 116–283, § 1816(f)(1)(B), (4), redesignated par. (2) of former section 2305(g) of this title as subsec. (c) of this section, inserted heading, and substituted “Subsection (b)” for “Paragraph (1)”.
 
 **Statutory Notes and Related Subsidiaries**
 

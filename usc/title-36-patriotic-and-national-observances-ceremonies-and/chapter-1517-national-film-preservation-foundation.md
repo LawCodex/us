@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1517—NATIONAL FILM PRESERVATION FOUNDATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1517—NATIONAL FILM PRESERVATION FOUNDATION"
 identifier: "/us/usc/t36/stII/ptB/ch1517"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1517—NATIONAL FILM PRESERVATION FOUNDATION
 
-## § 151701. Organization
+## § 151701. Organization
 
 **(a) Federal Charter.—** National Film Preservation Foundation (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,7 +29,7 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151701(a) | 36:5701(a) (1st sentence). | Oct. 11, 1996, Pub. L. 104–285, title II, §§ 202(a), 204(a)(1), 110 Stat. 3382, 3384. |
+| 151701(a) | 36:5701(a) (1st sentence). | Oct. 11, 1996, Pub. L. 104–285, title II, §§ 202(a), 204(a)(1), 110 Stat. 3382, 3384. |
 | 151701(b) | 36:5701(a) (last sentence). |  |
 | 151701(c) | 36:5703(a)(1). |  |
 
@@ -37,7 +37,7 @@ Subsection (a) is substituted for “There is established the National Film Pres
 
 In subsection (c), the words “Except as otherwise provided” are added, and the word “existence” is substituted for “succession”, for consistency in the revised title.
 
-## § 151702. Purposes
+## § 151702. Purposes
 
 The purposes of the corporation are to—
 
@@ -47,13 +47,13 @@ The purposes of the corporation are to—
 
 **(3)** conduct activities, alone or in cooperation with other film related institutions and organizations, to further the preservation and public accessibility of films made in the United States, particularly films not protected by private interests, for the benefit of present and future generations of Americans.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1404; Pub. L. 110–336, § 3(b)(2), Oct. 2, 2008, 122 Stat. 3728.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1404; Pub. L. 110–336, § 3(b)(2), Oct. 2, 2008, 122 Stat. 3728.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151702 | 36:5701(b). | Oct. 11, 1996, Pub. L. 104–285, title II, § 202(b), 110 Stat. 3382. |
+| 151702 | 36:5701(b). | Oct. 11, 1996, Pub. L. 104–285, title II, § 202(b), 110 Stat. 3382. |
 
 **Editorial Notes**
 
@@ -65,7 +65,7 @@ The National Film Preservation Act of 1996, referred to in par. (2), is title I 
 
 2008—Par. (1). Pub. L. 110–336 substituted “United States and the repatriation of American films from foreign archives;” for “United States;”.
 
-## § 151703. Board of directors
+## § 151703. Board of directors
 
 **(a) General.—** The board of directors is the governing body of the corporation.
 
@@ -97,13 +97,13 @@ The National Film Preservation Act of 1996, referred to in par. (2), is title I 
 
 **(g) Liability of Directors.—** Directors are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1404; Pub. L. 109–9, title III, § 312(a), Apr. 27, 2005, 119 Stat. 226; Pub. L. 110–336, § 3(b)(3), Oct. 2, 2008, 122 Stat. 3728.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1404; Pub. L. 109–9, title III, § 312(a), Apr. 27, 2005, 119 Stat. 226; Pub. L. 110–336, § 3(b)(3), Oct. 2, 2008, 122 Stat. 3728.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151703(a) | 36:5702(a) (1st sentence words before 1st comma). | Oct. 11, 1996, Pub. L. 104–285, title II, §§ 203(a)–(f), (g)(2)(A) (last sentence related to board of directors), 204(c)(5) (words after 2d comma), 110 Stat. 3383, 3384, 3385. |
+| 151703(a) | 36:5702(a) (1st sentence words before 1st comma). | Oct. 11, 1996, Pub. L. 104–285, title II, §§ 203(a)–(f), (g)(2)(A) (last sentence related to board of directors), 204(c)(5) (words after 2d comma), 110 Stat. 3383, 3384, 3385. |
 | 151703(b)(1) | 36:5702(a) (3d sentence), (b) (1st sentence). |  |
 | 151703(b)(2) | 36:5702(a) (1st sentence words after 1st comma, 2d sentence). |  |
 | 151703(b)(3) | 36:5702(a) (last sentence), (g)(2)(A) (last sentence related to board of directors). |  |
@@ -116,7 +116,7 @@ Subsection (a) is substituted for “The Foundation shall have a governing Board
 
 In subsection (b)(1), the words “(hereafter in this chapter referred to as the ‘Librarian’)” in 36:5702(a) are omitted as unnecessary. The words “Within 90 days after October 11, 1996” in 36:5702(b) are omitted as obsolete.
 
-In subsection (b)(3), the words “is not an employee” are substituted for “nor . . . shall be construed to be employees” in 36:5702(g)(2)(A) (last sentence related to the board of directors), and the words “appointment to the board does not constitute appointment as an officer or employee” are substituted for “Appointment to the Board shall not constitute employment by, or the holding of an office of” in 36:5702(a), for clarity.
+In subsection (b)(3), the words “is not an employee” are substituted for “nor . . . shall be construed to be employees” in 36:5702(g)(2)(A) (last sentence related to the board of directors), and the words “appointment to the board does not constitute appointment as an officer or employee” are substituted for “Appointment to the Board shall not constitute employment by, or the holding of an office of” in 36:5702(a), for clarity.
 
 In subsection (d), the words “for the transaction of business” are omitted as unnecessary.
 
@@ -126,11 +126,11 @@ In subsection (d), the words “for the transaction of business” are omitted a
 
 2008—Subsec. (b)(5). Pub. L. 110–336 substituted “120 days” for “60 days”.
 
-2005—Subsec. (b)(2)(A). Pub. L. 109–9, § 312(a)(1), substituted “12” for “nine”.
+2005—Subsec. (b)(2)(A). Pub. L. 109–9, § 312(a)(1), substituted “12” for “nine”.
 
-Subsec. (b)(4). Pub. L. 109–9, § 312(a)(2), substituted “There shall be no limit to the number of terms to which any individual may be appointed.” for “An individual may not serve more than two consecutive terms.”
+Subsec. (b)(4). Pub. L. 109–9, § 312(a)(2), substituted “There shall be no limit to the number of terms to which any individual may be appointed.” for “An individual may not serve more than two consecutive terms.”
 
-## § 151704. Officers and employees
+## § 151704. Officers and employees
 
 **(a) Secretary of the Board.—**
 
@@ -162,16 +162,16 @@ Subsec. (b)(4). Pub. L. 109–9, § 312(a)(2), substituted “There shall be n
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151704(a) | 36:5702(g)(2)(B), (C). | Oct. 11, 1996, Pub. L. 104–285, title II, § 203(g)(1)(A), (2)(A) (1st, 2d sentences, last sentence related to employees), (B), (C), 110 Stat. 3384. |
+| 151704(a) | 36:5702(g)(2)(B), (C). | Oct. 11, 1996, Pub. L. 104–285, title II, § 203(g)(1)(A), (2)(A) (1st, 2d sentences, last sentence related to employees), (B), (C), 110 Stat. 3384. |
 | 151704(b) | 36:5702(g)(1)(A). |  |
 | 151704(c) | 36:5702(g)(2)(A) (1st sentence). |  |
 | 151704(d) | 36:5702(g)(2)(A) (2d sentence, last sentence related to employees). |  |
 
 In subsection (a)(1), the words “The first employee appointed shall be the Secretary of the Board” in 36:5702(g)(2)(B) are omitted as unnecessary. The words “executive director of the corporation” are substituted for “its executive director” in 36:5702(g)(2)(C)(i) for clarity.
 
-In subsection (b), the words “the board of directors appoints, removes, and replaces officers of the corporation” are substituted for “The Board may complete the organization of the Foundation by . . . appointing, removing, and replacing officers” for clarity.
+In subsection (b), the words “the board of directors appoints, removes, and replaces officers of the corporation” are substituted for “The Board may complete the organization of the Foundation by . . . appointing, removing, and replacing officers” for clarity.
 
-In subsection (d)(1), the words “are not employees” are substituted for “nor . . . shall be construed to be employees” in 36:5702(g)(2)(A) (last sentence related to employees) for clarity.
+In subsection (d)(1), the words “are not employees” are substituted for “nor . . . shall be construed to be employees” in 36:5702(g)(2)(A) (last sentence related to employees) for clarity.
 
 **Editorial Notes**
 
@@ -179,7 +179,7 @@ In subsection (d)(1), the words “are not employees” are substituted for “n
 
 The General Schedule, referred to in subsec. (d)(3), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-## § 151705. Powers
+## § 151705. Powers
 
 **(a) General.—** The corporation may—
 
@@ -207,13 +207,13 @@ The General Schedule, referred to in subsec. (d)(3), is set out under section 53
 
 **(c) Encumbered or Restricted Gifts.—** A gift, devise, or bequest may be accepted by the corporation even though it is encumbered, restricted, or subject to beneficial interests of private persons, if any current or future interest is for the benefit of the corporation.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1405; Pub. L. 109–9, title III, § 312(b), Apr. 27, 2005, 119 Stat. 226; Pub. L. 113–237, § 3(c)(5), Dec. 18, 2014, 128 Stat. 2840.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1405; Pub. L. 109–9, title III, § 312(b), Apr. 27, 2005, 119 Stat. 226; Pub. L. 113–237, § 3(c)(5), Dec. 18, 2014, 128 Stat. 2840.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151705(a) | 36:5702(g)(1)(B), (C). | Oct. 11, 1996, Pub. L. 104–285, title II, §§ 203(g)(1)(B), (C), 204(b), (c)(1)–(4), (5) (words before 2d comma), (6), (7), (last par.), 110 Stat. 3384, 3385. |
+| 151705(a) | 36:5702(g)(1)(B), (C). | Oct. 11, 1996, Pub. L. 104–285, title II, §§ 203(g)(1)(B), (C), 204(b), (c)(1)–(4), (5) (words before 2d comma), (6), (7), (last par.), 110 Stat. 3384, 3385. |
 |  | 36:5703(b). |  |
 | 151705(b) | 36:5703(c)(1)–(4), (5) (words before 2d comma), (6), (7). |  |
 | 151705(c) | 36:5703(c) (last par.). |  |
@@ -234,17 +234,17 @@ In subsection (b), before clause (1), the words “under section 5701 of this ti
 
 2005—Subsec. (b). Pub. L. 109–9 substituted “the jurisdiction in which the principal office of the corporation is located” for “District of Columbia” in introductory provisions.
 
-## § 151706. Principal office
+## § 151706. Principal office
 
 The principal office of the corporation shall be in the District of Columbia, or another place as determined by the board of directors. However, the corporation may conduct business throughout the States, territories, and possessions of the United States.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1406; Pub. L. 109–9, title III, § 312(c), Apr. 27, 2005, 119 Stat. 226.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1406; Pub. L. 109–9, title III, § 312(c), Apr. 27, 2005, 119 Stat. 226.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151706 | 36:5703(a)(2), (3). | Oct. 11, 1996, Pub. L. 104–285, title II, § 204(a)(2), (3), 110 Stat. 3384. |
+| 151706 | 36:5703(a)(2), (3). | Oct. 11, 1996, Pub. L. 104–285, title II, § 204(a)(2), (3), 110 Stat. 3384. |
 
 This section is substituted for the source provisions for consistency in the revised title.
 
@@ -252,9 +252,9 @@ This section is substituted for the source provisions for consistency in the rev
 
 **Amendments**
 
-2005—Pub. L. 109–9 inserted “, or another place as determined by the board of directors” after “District of Columbia”.
+2005—Pub. L. 109–9 inserted “, or another place as determined by the board of directors” after “District of Columbia”.
 
-## § 151707. Provision and acceptance of support by Librarian of Congress
+## § 151707. Provision and acceptance of support by Librarian of Congress
 
 **(a) Provision by Librarian.—**
 
@@ -270,12 +270,12 @@ This section is substituted for the source provisions for consistency in the rev
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151707(a) | 36:5704. | Oct. 11, 1996, Pub. L. 104–285, title II, §§ 205, 206, 110 Stat. 3385. |
+| 151707(a) | 36:5704. | Oct. 11, 1996, Pub. L. 104–285, title II, §§ 205, 206, 110 Stat. 3385. |
 | 151707(b) | 36:5705. |  |
 
 In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations” are substituted for “the civil service classification laws, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
 
-## § 151708. Service of process
+## § 151708. Service of process
 
 The corporation shall have a designated agent to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -285,11 +285,11 @@ The corporation shall have a designated agent to receive service of process for 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151708 | 36:5703(a)(4), (a) (last par.). | Oct. 11, 1996, Pub. L. 104–285, title II, § 204(a)(4), (a) (last par.), 110 Stat. 3384. |
+| 151708 | 36:5703(a)(4), (a) (last par.). | Oct. 11, 1996, Pub. L. 104–285, title II, § 204(a)(4), (a) (last par.), 110 Stat. 3384. |
 
 The words “at all times” are omitted as unnecessary. The word “have” is substituted for “maintain”, the words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed as service upon or notice to”, for consistency in the revised title.
 
-## § 151709. Civil action by Attorney General for equitable relief
+## § 151709. Civil action by Attorney General for equitable relief
 
 The Attorney General may bring a civil action in the United States District Court for the District of Columbia for appropriate equitable relief if the corporation—
 
@@ -303,11 +303,11 @@ The Attorney General may bring a civil action in the United States District Cour
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151709 | 36:5706(c). | Oct. 11, 1996, Pub. L. 104–285, title II, § 207(c), 110 Stat. 3385. |
+| 151709 | 36:5706(c). | Oct. 11, 1996, Pub. L. 104–285, title II, § 207(c), 110 Stat. 3385. |
 
 Before clause (1), the words “bring a civil action” are substituted for “file a petition” for consistency in the revised title and with other titles of the United States Code. The words “appropriate equitable relief” are substituted for “such equitable relief as may be necessary or appropriate” to eliminate unnecessary words.
 
-## § 151710. Immunity of United States Government
+## § 151710. Immunity of United States Government
 
 The United States Government is not liable for any debts, defaults, acts, or omissions of the corporation. The full faith and credit of the Government does not extend to any obligation of the corporation.
 
@@ -317,9 +317,9 @@ The United States Government is not liable for any debts, defaults, acts, or omi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151710 | 36:5707. | Oct. 11, 1996, Pub. L. 104–285, title II, § 208, 110 Stat. 3386. |
+| 151710 | 36:5707. | Oct. 11, 1996, Pub. L. 104–285, title II, § 208, 110 Stat. 3386. |
 
-## § 151711. Authorization of appropriations
+## § 151711. Authorization of appropriations
 
 **(a) Authorization of Appropriations.—**
 
@@ -335,13 +335,13 @@ The United States Government is not liable for any debts, defaults, acts, or omi
 
 **(b) Limitation Related to Administrative Expenses.—** Amounts authorized under this section may not be used by the corporation for management and general or fundraising expenses as reported to the Internal Revenue Service as part of an annual information return required under the Internal Revenue Code of 1986.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1407; Pub. L. 108–447, div. G, title I, § 1205(b), Dec. 8, 2004, 118 Stat. 3189; Pub. L. 109–9, title III, § 312(d), Apr. 27, 2005, 119 Stat. 226; Pub. L. 110–336, § 3(b)(1), Oct. 2, 2008, 122 Stat. 3728; Pub. L. 114–217, § 3(b), July 29, 2016, 130 Stat. 841.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1407; Pub. L. 108–447, div. G, title I, § 1205(b), Dec. 8, 2004, 118 Stat. 3189; Pub. L. 109–9, title III, § 312(d), Apr. 27, 2005, 119 Stat. 226; Pub. L. 110–336, § 3(b)(1), Oct. 2, 2008, 122 Stat. 3728; Pub. L. 114–217, § 3(b), July 29, 2016, 130 Stat. 841.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151711 | 36:5708. | Oct. 11, 1996, Pub. L. 104–285, title II, § 209, 110 Stat. 3386. |
+| 151711 | 36:5708. | Oct. 11, 1996, Pub. L. 104–285, title II, § 209, 110 Stat. 3386. |
 
 **Editorial Notes**
 
@@ -363,7 +363,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b), is classified gen
 
 2004—Subsec. (a). Pub. L. 108–447 substituted “2005” for “2003”.
 
-## § 151712. Annual report
+## § 151712. Annual report
 
 As soon as practicable after the end of each fiscal year, the corporation shall submit a report to Congress on the activities of the corporation during the prior fiscal year, including a complete statement of its receipts, expenditures, and investments.
 
@@ -373,6 +373,6 @@ As soon as practicable after the end of each fiscal year, the corporation shall 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151712 | 36:5706(b). | Oct. 11, 1996, Pub. L. 104–285, title II, § 207(b), 110 Stat. 3385. |
+| 151712 | 36:5706(b). | Oct. 11, 1996, Pub. L. 104–285, title II, § 207(b), 110 Stat. 3385. |
 
 The word “proceedings” is omitted for consistency in the revised title.

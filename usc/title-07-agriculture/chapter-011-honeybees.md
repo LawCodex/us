@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 11—HONEYBEES
 
-## § 281. Honeybee importation
+## § 281. Honeybee importation
 
 **(a) In general**
 
@@ -33,7 +33,7 @@ Honeybees or honeybee semen offered for importation into, intercepted entering, 
 
 As used in this chapter, the term “honeybee” means all life stages and the germ plasm of honeybees of the genus Apis, except honeybee semen.
 
-(Aug. 31, 1922, ch. 301, § 1, 42 Stat. 833; Pub. L. 87–539, § 1, July 19, 1962, 76 Stat. 169; Pub. L. 94–319, § 1, June 25, 1976, 90 Stat. 709; Pub. L. 103–182, title III, § 361(d)(2), Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, § 431(e), Dec. 8, 1994, 108 Stat. 4968.)
+(Aug. 31, 1922, ch. 301, § 1, 42 Stat. 833; Pub. L. 87–539, § 1, July 19, 1962, 76 Stat. 169; Pub. L. 94–319, § 1, June 25, 1976, 90 Stat. 709; Pub. L. 103–182, title III, § 361(d)(2), Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, § 431(e), Dec. 8, 1994, 108 Stat. 4968.)
 
 **Editorial Notes**
 
@@ -41,9 +41,9 @@ As used in this chapter, the term “honeybee” means all life stages and the g
 
 1994—Pub. L. 103–465 amended section generally, substituting present provisions for former subsecs. (a) to (e) restricting importation of honeybees and honeybee semen into United States, providing for promulgation of rules and regulations as to such importation, providing for destruction or immediate exportation of nonexcepted honeybees or honeybee semen offered for import or intercepted, and defining “honeybee”.
 
-1993—Subsec. (a)(3). Pub. L. 103–182, § 361(d)(2)(A), added par. (3).
+1993—Subsec. (a)(3). Pub. L. 103–182, § 361(d)(2)(A), added par. (3).
 
-Subsec. (b). Pub. L. 103–182, § 361(d)(2)(B), inserted “(1)” after “only from” and added cl. (2).
+Subsec. (b). Pub. L. 103–182, § 361(d)(2)(B), inserted “(1)” after “only from” and added cl. (2).
 
 1976—Pub. L. 94–319 incorporated existing provisions, which related only to honeybees, into subsecs. (a) to (e) relating to honeybees and honeybee semen, making honeybee provisions applicable to all life stages and the germ plasm of honeybees instead of only to honeybees in the adult stage, restating purpose of prohibiting importation of honeybees and restating conditions to be determined by Secretary of Agriculture with respect to countries from which honeybees may be imported.
 
@@ -63,11 +63,11 @@ Act Aug. 31, 1922, as amended, which is classified to this chapter, is popularly
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this section to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 282. Punishment for unlawful importation
+## § 282. Punishment for unlawful importation
 
 Any person who violates any provision of section 281 of this title or any regulation issued under it is guilty of an offense against the United States and shall, upon conviction, be fined not more than $1,000, or imprisoned for not more than one year, or both.
 
-(Aug. 31, 1922, ch. 301, § 2, 42 Stat. 834; Pub. L. 94–319, § 2, June 25, 1976, 90 Stat. 709.)
+(Aug. 31, 1922, ch. 301, § 2, 42 Stat. 834; Pub. L. 94–319, § 2, June 25, 1976, 90 Stat. 709.)
 
 **Editorial Notes**
 
@@ -75,11 +75,11 @@ Any person who violates any provision of section 281 of this title or any regula
 
 1976—Pub. L. 94–319 inserted reference to regulations, substituted characterization of violation as offense against the United States for characterization as a misdemeanor, increased maximum fine to $1,000 from $500 and struck out provision relating to discretion of the court.
 
-## § 283. Propagation of stock and release of germ plasm
+## § 283. Propagation of stock and release of germ plasm
 
 The Secretary of Agriculture may propagate bee-breeding stock and may release bee germ plasm to the public.
 
-(Sept. 21, 1944, ch. 412, title I, § 103, 58 Stat. 735; Oct. 31, 1951, ch. 654, § 3(1), 65 Stat. 708; Pub. L. 97–98, title XI, § 1120, Dec. 22, 1981, 95 Stat. 1273.)
+(Sept. 21, 1944, ch. 412, title I, § 103, 58 Stat. 735; Oct. 31, 1951, ch. 654, § 3(1), 65 Stat. 708; Pub. L. 97–98, title XI, § 1120, Dec. 22, 1981, 95 Stat. 1273.)
 
 **Editorial Notes**
 
@@ -105,7 +105,7 @@ July 12, 1943, ch. 215, 57 Stat. 407.
 
 Amendment by Pub. L. 97–98 effective on Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-## § 284. Eradication and control of undesirable species and subspecies
+## § 284. Eradication and control of undesirable species and subspecies
 
 **(a) Operations in United States**
 
@@ -119,22 +119,22 @@ The Secretary of Agriculture is authorized to cooperate with the Governments of 
 
 In performing the operations or measures authorized in this chapter, the cooperating foreign country, State, or local agency shall be responsible for the authority to carry out such operations or measures on all lands and properties within the foreign country or State, other than those owned or controlled by the Federal Government of the United States, and for such other facilities and means as in the discretion of the Secretary of Agriculture are necessary.
 
-(Aug. 31, 1922, ch. 301, § 3, as added Pub. L. 94–319, § 3, June 25, 1976, 90 Stat. 709.)
+(Aug. 31, 1922, ch. 301, § 3, as added Pub. L. 94–319, § 3, June 25, 1976, 90 Stat. 709.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Indemnification for Beekeepers**
 
-Pub. L. 91–524, title VIII, § 804, Nov. 30, 1970, 84 Stat. 1382, as amended by Pub. L. 93–86, § 1(27)(A), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–113, title II, § 207, Sept. 29, 1977, 91 Stat. 921, authorized the Secretary of Agriculture to make indemnity payments, based on net loss, to beekeepers who through no fault of their own lost honey bees after Jan. 1, 1967, as a result of utilization of economic poisons, registered and approved for use by the Federal Government, near or adjacent to the beehives, with this section expired after Sept. 30, 1981.
+Pub. L. 91–524, title VIII, § 804, Nov. 30, 1970, 84 Stat. 1382, as amended by Pub. L. 93–86, § 1(27)(A), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–113, title II, § 207, Sept. 29, 1977, 91 Stat. 921, authorized the Secretary of Agriculture to make indemnity payments, based on net loss, to beekeepers who through no fault of their own lost honey bees after Jan. 1, 1967, as a result of utilization of economic poisons, registered and approved for use by the Federal Government, near or adjacent to the beehives, with this section expired after Sept. 30, 1981.
 
-## § 285. Uses of funds
+## § 285. Uses of funds
 
 Funds appropriated to carry out the provisions of this chapter may also be used for printing and binding without regard to section 501 of title 44 for employment, by contract or otherwise, of civilian nationals of Canada, Mexico, Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, and Colombia for services abroad, and for the construction and operation of research laboratories, quarantine stations, and other buildings and facilities.
 
-(Aug. 31, 1922, ch. 301, § 4, as added Pub. L. 94–319, § 3, June 25, 1976, 90 Stat. 710.)
+(Aug. 31, 1922, ch. 301, § 4, as added Pub. L. 94–319, § 3, June 25, 1976, 90 Stat. 710.)
 
-## § 286. Authorization of appropriations
+## § 286. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-(Aug. 31, 1922, ch. 301, § 5, as added Pub. L. 94–319, § 3, June 25, 1976, 90 Stat. 710.)
+(Aug. 31, 1922, ch. 301, § 5, as added Pub. L. 94–319, § 3, June 25, 1976, 90 Stat. 710.)

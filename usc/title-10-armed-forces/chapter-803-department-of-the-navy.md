@@ -23,33 +23,33 @@ A prior chapter 803, consisting of sections 8011 to 8024, related to Department 
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title II, § 215, title IX, § 914, Dec. 22, 2023, 137 Stat. 184, 368, added item 8029 and struck out item 8024 “Naval Research Advisory Committee”. Amendments were made pursuant to section 102 of this title.
+2023—Pub. L. 118–31, div. A, title II, § 215, title IX, § 914, Dec. 22, 2023, 137 Stat. 184, 368, added item 8029 and struck out item 8024 “Naval Research Advisory Committee”. Amendments were made pursuant to section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title X, § 1022(b)(2), Dec. 23, 2022, 136 Stat. 2763, added item 8026 and struck out former item 8026 “Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation”.
+2022—Pub. L. 117–263, div. A, title X, § 1022(b)(2), Dec. 23, 2022, 136 Stat. 2763, added item 8026 and struck out former item 8026 “Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 503 of this title as this chapter and items 5011 to 5028 as 8011 to 8028, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 503 of this title as this chapter and items 5011 to 5028 as 8011 to 8028, respectively.
 
-2006—Pub. L. 109–163, div. A, title IX, § 904(d)(2), Jan. 6, 2006, 119 Stat. 3401, added item 5028.
+2006—Pub. L. 109–163, div. A, title IX, § 904(d)(2), Jan. 6, 2006, 119 Stat. 3401, added item 5028.
 
-2002—Pub. L. 107–314, div. A, title V, § 504(d)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 5027.
+2002—Pub. L. 107–314, div. A, title V, § 504(d)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 5027.
 
-1998—Pub. L. 105–261, div. A, title IX, § 935(b), Oct. 17, 1998, 112 Stat. 2110, added item 5026.
+1998—Pub. L. 105–261, div. A, title IX, § 935(b), Oct. 17, 1998, 112 Stat. 2110, added item 5026.
 
-1990—Pub. L. 101–510, div. A, title IX, § 910(b)(2), Nov. 5, 1990, 104 Stat. 1625, struck out item 5021 “Office of Naval Research: Chief; appointment, term, emoluments; Assistant Chief; succession to duties”.
+1990—Pub. L. 101–510, div. A, title IX, § 910(b)(2), Nov. 5, 1990, 104 Stat. 1625, struck out item 5021 “Office of Naval Research: Chief; appointment, term, emoluments; Assistant Chief; succession to duties”.
 
-1988—Pub. L. 100–456, div. A, title VII, § 702(b)(3), Sept. 29, 1988, 102 Stat. 1995, added item 5025.
+1988—Pub. L. 100–456, div. A, title VII, § 702(b)(3), Sept. 29, 1988, 102 Stat. 1995, added item 5025.
 
-1986—Pub. L. 99–433, title V, § 511(f), Oct. 1, 1986, 100 Stat. 1048, amended analysis generally, substituting items 5011 to 5024 for former items 5011 to 5014.
+1986—Pub. L. 99–433, title V, § 511(f), Oct. 1, 1986, 100 Stat. 1048, amended analysis generally, substituting items 5011 to 5024 for former items 5011 to 5014.
 
-1964—Pub. L. 88–426, title III, § 305(40)(B), Aug. 14, 1964, 78 Stat. 427, struck out item 5014 “Compensation of General Counsel”.
+1964—Pub. L. 88–426, title III, § 305(40)(B), Aug. 14, 1964, 78 Stat. 427, struck out item 5014 “Compensation of General Counsel”.
 
-1958—Pub. L. 85–861, § 1(106)(B), Sept. 2, 1958, 72 Stat. 1490, added item 5014.
+1958—Pub. L. 85–861, § 1(106)(B), Sept. 2, 1958, 72 Stat. 1490, added item 5014.
 
-## § 8011. Organization
+## § 8011. Organization
 
 The Department of the Navy is separately organized under the Secretary of the Navy. It operates under the authority, direction, and control of the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 277, § 5011; Pub. L. 87–651, title II, § 212, Sept. 7, 1962, 76 Stat. 524; Pub. L. 99–433, title V, § 511(b)(2), (c)(1), Oct. 1, 1986, 100 Stat. 1043; renumbered § 8011, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 277, § 5011; Pub. L. 87–651, title II, § 212, Sept. 7, 1962, 76 Stat. 524; Pub. L. 99–433, title V, § 511(b)(2), (c)(1), Oct. 1, 1986, 100 Stat. 1043; renumbered § 8011, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
@@ -61,7 +61,7 @@ The Act of July 26, 1947, ch. 343, as amended (5 U.S.C. 411a(a)) which is the Na
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5011 | 5:171a(c)(7) (1st sentence, less applicability to Departments of Army and Air Force). | July 26, 1947, ch. 343, § 202(c)(7) (1st sentence, less applicability to Departments of Army and Air Force); added Aug. 6, 1958, Pub. L. 85–599, § 3(a) (1st sentence of 8th par., less applicability to Departments of Army and Air Force), 72 Stat. 516. |
+| 5011 | 5:171a(c)(7) (1st sentence, less applicability to Departments of Army and Air Force). | July 26, 1947, ch. 343, § 202(c)(7) (1st sentence, less applicability to Departments of Army and Air Force); added Aug. 6, 1958, Pub. L. 85–599, § 3(a) (1st sentence of 8th par., less applicability to Departments of Army and Air Force), 72 Stat. 516. |
 
 The words “to include naval aviation and the United States Marine Corps” are omitted as covered by the first sentence of section 5011. The word “operates” is substituted for the words “shall function”.
 
@@ -77,9 +77,9 @@ Another prior section 8011 was renumbered section 9012 of this title.
 
 2018—Pub. L. 115–232 renumbered section 5011 of this title as this section.
 
-1986—Pub. L. 99–433, § 511(c)(1), substituted “Organization” for “Composition” in section catchline.
+1986—Pub. L. 99–433, § 511(c)(1), substituted “Organization” for “Composition” in section catchline.
 
-Pub. L. 99–433, § 511(b)(2), struck out the last two sentences which read as follows: “It is composed of the executive part of the Department of the Navy; the Headquarters, United States Marine Corps; the entire operating forces, including naval aviation, of the United States Navy and of the United States Marine Corps, and the reserve components of those operating forces; and all field activities, headquarters, forces, bases, installations, activities, and functions under the control or supervision of the Secretary of the Navy. It includes the United States Coast Guard when it is operating as a service in the Navy.” See section 5061 of this title.
+Pub. L. 99–433, § 511(b)(2), struck out the last two sentences which read as follows: “It is composed of the executive part of the Department of the Navy; the Headquarters, United States Marine Corps; the entire operating forces, including naval aviation, of the United States Navy and of the United States Marine Corps, and the reserve components of those operating forces; and all field activities, headquarters, forces, bases, installations, activities, and functions under the control or supervision of the Secretary of the Navy. It includes the United States Coast Guard when it is operating as a service in the Navy.” See section 5061 of this title.
 
 1962—Pub. L. 87–651 inserted sentences providing that the Department of the Navy is separately organized under the Secretary of the Navy, and that it operates under the authority, direction, and control of the Secretary of Defense.
 
@@ -89,11 +89,11 @@ Pub. L. 99–433, § 511(b)(2), struck out the last two sentences which read a
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8012. Department of the Navy: seal
+## § 8012. Department of the Navy: seal
 
 The Secretary of the Navy shall have a seal for the Department of the Navy. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
 
-(Added Pub. L. 99–433, title V, § 511(c)(2), Oct. 1, 1986, 100 Stat. 1043, § 5012; renumbered § 8012, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 511(c)(2), Oct. 1, 1986, 100 Stat. 1043, § 5012; renumbered § 8012, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -113,7 +113,7 @@ Another prior section 8012 was renumbered section 8013 of this title and subsequ
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8013. Secretary of the Navy
+## § 8013. Secretary of the Navy
 
 **(a)**
 
@@ -177,7 +177,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, § 511(c)(2), Oct. 1, 1986, 100 Stat. 1043, § 5013; amended Pub. L. 99–661, div. A, title V, § 534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, § 901, Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, § 931(b), Dec. 23, 2016, 130 Stat. 2363; renumbered § 8013, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 117–81, div. A, title IX, § 901(d), Dec. 27, 2021, 135 Stat. 1868.)
+(Added Pub. L. 99–433, title V, § 511(c)(2), Oct. 1, 1986, 100 Stat. 1043, § 5013; amended Pub. L. 99–661, div. A, title V, § 534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, § 901, Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, § 931(b), Dec. 23, 2016, 130 Stat. 2363; renumbered § 8013, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 117–81, div. A, title IX, § 901(d), Dec. 27, 2021, 135 Stat. 1868.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ Provisions similar to those in this section were contained in section 5031 of th
 
 A prior section 8013 was renumbered section 9013 of this title.
 
-Another prior section 8013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 488, § 8012; Sept. 2, 1958, Pub. L. 85–861, § 1(152), 72 Stat. 1513; Sept. 7, 1962, Pub. L. 87–651, title II, § 211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§ 305(7), 306(j)(7), 78 Stat. 423, 432; renumbered § 8013, Oct. 1, 1986, Pub. L. 99–433, title V, § 521(a)(1), 100 Stat. 1055, related to Secretary of the Air Force, powers and duties, and delegations, prior to repeal by Pub. L. 99–433, § 521(a)(3).
+Another prior section 8013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 488, § 8012; Sept. 2, 1958, Pub. L. 85–861, § 1(152), 72 Stat. 1513; Sept. 7, 1962, Pub. L. 87–651, title II, § 211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§ 305(7), 306(j)(7), 78 Stat. 423, 432; renumbered § 8013, Oct. 1, 1986, Pub. L. 99–433, title V, § 521(a)(1), 100 Stat. 1055, related to Secretary of the Air Force, powers and duties, and delegations, prior to repeal by Pub. L. 99–433, § 521(a)(3).
 
 Another prior section 8013 was renumbered section 8014 of this title and subsequently repealed.
 
@@ -215,7 +215,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Inclusion of Information on Amphibious Warfare Ship Spares and Repair Parts in Navy Budget Justification Materials**
 
-Pub. L. 119–60, div. A, title I, § 132, Dec. 18, 2025, 139 Stat. 758, provided that:
+Pub. L. 119–60, div. A, title I, § 132, Dec. 18, 2025, 139 Stat. 758, provided that:
 
 > **“(a) In General.—** In the budget justification materials submitted to Congress in support of the Department of the Defense budget for fiscal year 2027 and each fiscal year thereafter (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the Secretary of the Navy shall include information on the costs of spare parts and repair parts for amphibious warfare ships in the materials for other procurement, Navy.
 
@@ -223,7 +223,7 @@ Pub. L. 119–60, div. A, title I, § 132, Dec. 18, 2025, 139 Stat. 758, provi
 
 **Designation of Official Responsible for Autonomous Surface and Underwater Dual-Modality Vehicles**
 
-Pub. L. 118–159, div. A, title I, § 125, Dec. 23, 2024, 138 Stat. 1806, provided that:
+Pub. L. 118–159, div. A, title I, § 125, Dec. 23, 2024, 138 Stat. 1806, provided that:
 
 > **“(a) Designation Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of the Navy shall designate an appropriate official within the Department of the Navy to have primary responsibility for the development and acquisition of surface and underwater dual-modality, advanced autonomous vehicles, consistent with warfighter requirements.
 
@@ -231,7 +231,7 @@ Pub. L. 118–159, div. A, title I, § 125, Dec. 23, 2024, 138 Stat. 1806, pro
 
 **Pilot Program on Use of Automated Inspection Technologies at Shipyards**
 
-Pub. L. 118–159, div. A, title X, § 1030, Dec. 23, 2024, 138 Stat. 2057, provided that:
+Pub. L. 118–159, div. A, title X, § 1030, Dec. 23, 2024, 138 Stat. 2057, provided that:
 
 > **“(a) In General.—** Beginning not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of the Navy shall carry out a pilot program on the use of automated inspection technologies at shipyards.
 
@@ -259,7 +259,7 @@ Pub. L. 118–159, div. A, title X, § 1030, Dec. 23, 2024, 138 Stat. 2057, pr
 
 **Establishment of Nuclear-Armed, Sea-Launched Cruise Missile Program Element**
 
-Pub. L. 118–159, div. A, title XVI, § 1627(c), Dec. 23, 2024, 138 Stat. 2175, provided that:
+Pub. L. 118–159, div. A, title XVI, § 1627(c), Dec. 23, 2024, 138 Stat. 2175, provided that:
 
 > “Beginning on the date of the submission of the budget of the President for fiscal year 2026 in accordance with section 1105(a) of title 31, United States Code, the Secretary of the Navy shall—
 
@@ -269,11 +269,11 @@ Pub. L. 118–159, div. A, title XVI, § 1627(c), Dec. 23, 2024, 138 Stat. 217
 
 **Strategy on Use of Automation and Artificial Intelligence for Shipyard Optimization**
 
-Pub. L. 118–31, div. A, title III, § 350(a), Dec. 22, 2023, 137 Stat. 228, provided that: “The Secretary of the Navy, in coordination with the Shipyard Infrastructure Optimization Program of the Department of the Navy, shall develop and implement a strategy to leverage commercial best practices used in shipyards to improve the efficiency of operations and to demonstrate a digital platform that uses artificial intelligence to analyze data on the maintenance and condition of shipboard assets of the Navy at shipyards, for the purpose of improving the readiness of the Armed Forces, predicting and diagnosing issues prior to the occurrence of such issues, and lowering maintenance costs.”
+Pub. L. 118–31, div. A, title III, § 350(a), Dec. 22, 2023, 137 Stat. 228, provided that: “The Secretary of the Navy, in coordination with the Shipyard Infrastructure Optimization Program of the Department of the Navy, shall develop and implement a strategy to leverage commercial best practices used in shipyards to improve the efficiency of operations and to demonstrate a digital platform that uses artificial intelligence to analyze data on the maintenance and condition of shipboard assets of the Navy at shipyards, for the purpose of improving the readiness of the Armed Forces, predicting and diagnosing issues prior to the occurrence of such issues, and lowering maintenance costs.”
 
 **Digital Ambassador Program of the Navy: Cessation; Report; Restart**
 
-Pub. L. 118–31, div. A, title V, § 594, Dec. 22, 2023, 137 Stat. 286, provided that:
+Pub. L. 118–31, div. A, title V, § 594, Dec. 22, 2023, 137 Stat. 286, provided that:
 
 > **“(a) Cessation.—** The Secretary of the Navy shall cease all activities of the digital ambassador program of the Office of Information of the Department of the Navy. The Secretary shall notify each individual designated as a digital ambassador of such cessation and that the individual is not authorized to act as a digital ambassador of the Navy.
 
@@ -293,7 +293,7 @@ Pub. L. 118–31, div. A, title V, § 594, Dec. 22, 2023, 137 Stat. 286, provi
 
 **Pilot Program To Support the Development of Patentable Inventions in the Department of the Navy**
 
-Pub. L. 117–263, div. A, title II, § 224, Dec. 23, 2022, 136 Stat. 2483, provided that:
+Pub. L. 117–263, div. A, title II, § 224, Dec. 23, 2022, 136 Stat. 2483, provided that:
 
 > **“(a) In General.—** The Secretary of the Navy may carry out a pilot program to expand the support available to covered personnel who seek to engage in the development of patentable inventions that—
 
@@ -325,7 +325,7 @@ Pub. L. 117–263, div. A, title II, § 224, Dec. 23, 2022, 136 Stat. 2483, pr
 
 **Establishment of Cyber Operations Designator and Rating for the Navy**
 
-Pub. L. 117–263, div. A, title XV, § 1532, Dec. 23, 2022, 136 Stat. 2901, provided that:
+Pub. L. 117–263, div. A, title XV, § 1532, Dec. 23, 2022, 136 Stat. 2901, provided that:
 
 > **“(a) Military Career Field.—**
 
@@ -393,7 +393,7 @@ Pub. L. 117–263, div. A, title XV, § 1532, Dec. 23, 2022, 136 Stat. 2901, p
 
 **Shipyard Infrastructure Optimization Program of the Navy**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2879, Dec. 23, 2024, 138 Stat. 2289, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2879, Dec. 23, 2024, 138 Stat. 2289, provided that:
 
 > **“(a) Policy and Guidance Update.—**
 
@@ -431,7 +431,7 @@ Pub. L. 118–159, div. B, title XXVIII, § 2879, Dec. 23, 2024, 138 Stat. 228
 
 > **“(C)** Any other details the Secretary determines relevant to support the oversight by Congress of each such project and other projects under the Shipyard Infrastructure Optimization Program.”
 
-Pub. L. 117–263, div. A, title III, § 356, Dec. 23, 2022, 136 Stat. 2534, provided that:
+Pub. L. 117–263, div. A, title III, § 356, Dec. 23, 2022, 136 Stat. 2534, provided that:
 
 > **“(a) In General.—** Not later than March 1, 2023, the Secretary of the Navy shall—
 
@@ -465,7 +465,7 @@ Pub. L. 117–263, div. A, title III, § 356, Dec. 23, 2022, 136 Stat. 2534, p
 
 > **“(3)** any additional resources necessary to implement those requirements.”
 
-Pub. L. 117–81, div. A, title III, § 355, Dec. 27, 2021, 135 Stat. 1657, as amended by Pub. L. 118–31, div. A, title III, § 344(a), Dec. 22, 2023, 137 Stat. 225; Pub. L. 119–60, div. A, title III, § 339, Dec. 18, 2025, 139 Stat. 821, provided that:
+Pub. L. 117–81, div. A, title III, § 355, Dec. 27, 2021, 135 Stat. 1657, as amended by Pub. L. 118–31, div. A, title III, § 344(a), Dec. 22, 2023, 137 Stat. 225; Pub. L. 119–60, div. A, title III, § 339, Dec. 18, 2025, 139 Stat. 821, provided that:
 
 > **“(a) Updated Plan.—**
 
@@ -541,15 +541,15 @@ Pub. L. 117–81, div. A, title III, § 355, Dec. 27, 2021, 135 Stat. 1657, as
 
 **Improved Oversight of Certain Infrastructure Services Provided by Naval Facilities Engineering Systems Command Pacific**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2871, Dec. 27, 2021, 135 Stat. 2214, provided that: “The Secretary of the Navy shall designate an administrative position within the Naval Facilities Engineering Systems Command Pacific for the purpose of improving the continuity of management and oversight of real property and infrastructure assets in the Pacific Area of Responsibility related to the training needs of the Armed Forces, particularly regarding leased property for which the lease will expire within 10 years after the date of the enactment of this Act [Dec. 27, 2021].”
+Pub. L. 117–81, div. B, title XXVIII, § 2871, Dec. 27, 2021, 135 Stat. 2214, provided that: “The Secretary of the Navy shall designate an administrative position within the Naval Facilities Engineering Systems Command Pacific for the purpose of improving the continuity of management and oversight of real property and infrastructure assets in the Pacific Area of Responsibility related to the training needs of the Armed Forces, particularly regarding leased property for which the lease will expire within 10 years after the date of the enactment of this Act [Dec. 27, 2021].”
 
 **Executive Agent for Autonomy**
 
-Pub. L. 116–283, div. A, title II, § 218, Jan. 1, 2021, 134 Stat. 3463, which required designation of an existing program executive officer from within the Department of the Navy to serve as the acquisition executive agent for autonomy, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(3)(A), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 116–283, div. A, title II, § 218, Jan. 1, 2021, 134 Stat. 3463, which required designation of an existing program executive officer from within the Department of the Navy to serve as the acquisition executive agent for autonomy, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(3)(A), Dec. 18, 2025, 139 Stat. 948.
 
 **Fire Fighters Alternative Work Schedule Demonstration Project for the Navy Region Mid-Atlantic Fire and Emergency Services**
 
-Pub. L. 116–283, div. A, title XI, § 1109, Jan. 1, 2021, 134 Stat. 3891, provided that:
+Pub. L. 116–283, div. A, title XI, § 1109, Jan. 1, 2021, 134 Stat. 3891, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Commander, Navy Region Mid-Atlantic, shall establish and carry out, for a period of not less than five years, a Fire Fighters Alternative Work Schedule demonstration project for the Navy Region Mid-Atlantic Fire and Emergency Services. Such demonstration project shall provide, with respect to each employee of the Navy Region Mid-Atlantic Fire and Emergency Services, that—
 
@@ -573,13 +573,13 @@ Pub. L. 116–283, div. A, title XI, § 1109, Jan. 1, 2021, 134 Stat. 3891, pr
 
 **Notifications on Manning of Afloat Naval Forces**
 
-Pub. L. 116–92, div. A, title V, § 597(a)–(e), Dec. 20, 2019, 133 Stat. 1418, 1419, as amended by Pub. L. 117–263, div. A, title V, § 592(a)(1), (b), (c), Dec. 23, 2022, 136 Stat. 2612, which related to quarterly notifications on manning of afloat naval forces, was transferred to section 8227 of this title by Pub. L. 117–263, div. A, title V, § 592(d)(1), Dec. 23, 2022, 136 Stat. 2612.
+Pub. L. 116–92, div. A, title V, § 597(a)–(e), Dec. 20, 2019, 133 Stat. 1418, 1419, as amended by Pub. L. 117–263, div. A, title V, § 592(a)(1), (b), (c), Dec. 23, 2022, 136 Stat. 2612, which related to quarterly notifications on manning of afloat naval forces, was transferred to section 8227 of this title by Pub. L. 117–263, div. A, title V, § 592(d)(1), Dec. 23, 2022, 136 Stat. 2612.
 
-Pub. L. 115–232, div. A, title V, § 525, Aug. 13, 2018, 132 Stat. 1757, which provided that the Secretary of the Navy was to notify the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, in writing, not later than 15 days after the manning fit for a commissioned battle force ship was less than 87 percent or the manning fill for such ship was less than 90 percent, was repealed by Pub. L. 116–92, div. A, title V, § 597(f), Dec. 20, 2019, 133 Stat. 1419, which was repealed by Pub. L. 117–263, div. A, title V, § 592(a)(2), Dec. 23, 2022, 136 Stat. 2612.
+Pub. L. 115–232, div. A, title V, § 525, Aug. 13, 2018, 132 Stat. 1757, which provided that the Secretary of the Navy was to notify the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, in writing, not later than 15 days after the manning fit for a commissioned battle force ship was less than 87 percent or the manning fill for such ship was less than 90 percent, was repealed by Pub. L. 116–92, div. A, title V, § 597(f), Dec. 20, 2019, 133 Stat. 1419, which was repealed by Pub. L. 117–263, div. A, title V, § 592(a)(2), Dec. 23, 2022, 136 Stat. 2612.
 
 **Formal Training for Shipboard System Programs of Record**
 
-Pub. L. 116–92, div. A, title X, § 1036, Dec. 20, 2019, 133 Stat. 1583, provided that:
+Pub. L. 116–92, div. A, title X, § 1036, Dec. 20, 2019, 133 Stat. 1583, provided that:
 
 > **“(a) In General.—** The Secretary of the Navy shall ensure that there is formal training provided for any shipboard system that is a program of record on any Navy surface vessel.
 
@@ -591,11 +591,11 @@ Pub. L. 116–92, div. A, title X, § 1036, Dec. 20, 2019, 133 Stat. 1583, pro
 
 **Limitation on Modifications to Navy Facilities Sustainment, Restoration, and Modernization Structure and Mechanism**
 
-Pub. L. 115–232, div. A, title III, § 328, Aug. 13, 2018, 132 Stat. 1723, provided that: “The Secretary of the Navy may not make any modification to the existing Navy Facilities Sustainment, Restoration, and Modernization structure or mechanism that would modify duty relationships or significantly alter the existing structure until 90 days after providing notice of the proposed modification to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives].”
+Pub. L. 115–232, div. A, title III, § 328, Aug. 13, 2018, 132 Stat. 1723, provided that: “The Secretary of the Navy may not make any modification to the existing Navy Facilities Sustainment, Restoration, and Modernization structure or mechanism that would modify duty relationships or significantly alter the existing structure until 90 days after providing notice of the proposed modification to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives].”
 
 **Navy Watchstander Records**
 
-Pub. L. 115–232, div. A, title V, § 526, Aug. 13, 2018, 132 Stat. 1758, provided that:
+Pub. L. 115–232, div. A, title V, § 526, Aug. 13, 2018, 132 Stat. 1758, provided that:
 
 > **“(a) In General.—** The Secretary of the Navy shall require that, commencing not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], key watchstanders on Navy surface ships shall maintain a career record of watchstanding hours and specific operational evolutions.
 
@@ -617,11 +617,11 @@ Pub. L. 115–232, div. A, title V, § 526, Aug. 13, 2018, 132 Stat. 1758, pro
 
 **Reversionary Interests in Real Property Used by Closed or Realigned Naval Stations**
 
-Pub. L. 109–148, div. B, title I, § 702, Dec. 30, 2005, 119 Stat. 2773, provided that: “For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 [part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property.”
+Pub. L. 109–148, div. B, title I, § 702, Dec. 30, 2005, 119 Stat. 2773, provided that: “For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 [part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property.”
 
 **Elimination of Reversionary Interests Clouding United States Title to Property Used as Navy Homeports**
 
-Pub. L. 108–375, div. B, title XXVIII, § 2823, Oct. 28, 2004, 118 Stat. 2132, provided that:
+Pub. L. 108–375, div. B, title XXVIII, § 2823, Oct. 28, 2004, 118 Stat. 2132, provided that:
 
 > **“(a) Authority to Acquire Complete Title.—** If real property owned by the United States and used as a Navy homeport is subject to a reversionary interest of any kind, the Secretary of the Navy may enter into an agreement with the holder of the reversionary interest to acquire the reversionary interest and thereby secure for the United States all right, title, and interest in and to the property.
 
@@ -635,7 +635,7 @@ Pub. L. 108–375, div. B, title XXVIII, § 2823, Oct. 28, 2004, 118 Stat. 213
 
 **Multi-Trades Demonstration Project**
 
-Pub. L. 108–136, div. A, title III, § 338, Nov. 24, 2003, 117 Stat. 1447, as amended by Pub. L. 110–181, div. A, title III, § 329, Jan. 28, 2008, 122 Stat. 67; Pub. L. 112–239, div. A, title III, § 321, Jan. 2, 2013, 126 Stat. 1694; Pub. L. 113–66, div. A, title X, § 1091(d), Dec. 26, 2013, 127 Stat. 876; Pub. L. 115–91, div. A, title III, § 321, Dec. 12, 2017, 131 Stat. 1352, provided that:
+Pub. L. 108–136, div. A, title III, § 338, Nov. 24, 2003, 117 Stat. 1447, as amended by Pub. L. 110–181, div. A, title III, § 329, Jan. 28, 2008, 122 Stat. 67; Pub. L. 112–239, div. A, title III, § 321, Jan. 2, 2013, 126 Stat. 1694; Pub. L. 113–66, div. A, title X, § 1091(d), Dec. 26, 2013, 127 Stat. 876; Pub. L. 115–91, div. A, title III, § 321, Dec. 12, 2017, 131 Stat. 1352, provided that:
 
 > **“(a) Demonstration Project Authorized.—** In accordance with section 4703 of title 5, United States Code, the Secretary of a military department may carry out a demonstration project at facilities described in subsection (b) under which workers who are certified at the journey level as able to perform multiple trades shall be promoted by one grade level.
 
@@ -659,7 +659,7 @@ Pub. L. 108–136, div. A, title III, § 338, Nov. 24, 2003, 117 Stat. 1447, a
 
 **Use of Naval Installations for Employment Training of Nonviolent Offenders in State Penal Systems**
 
-Pub. L. 103–160, div. A, title XIII, § 1374, Nov. 30, 1993, 107 Stat. 1821, as amended by Pub. L. 103–337, div. A, title X, § 1064, Oct. 5, 1994, 108 Stat. 2848, provided that:
+Pub. L. 103–160, div. A, title XIII, § 1374, Nov. 30, 1993, 107 Stat. 1821, as amended by Pub. L. 103–337, div. A, title X, § 1064, Oct. 5, 1994, 108 Stat. 2848, provided that:
 
 > **“(a) Demonstration Project Authorized.—** The Secretary of the Navy may conduct a demonstration project to test the feasibility of using Navy facilities to provide employment training to nonviolent offenders in a State penal system prior to their release from incarceration. The demonstration project shall be limited to not more than three military installations under the jurisdiction of the Secretary.
 
@@ -691,17 +691,17 @@ Pub. L. 103–160, div. A, title XIII, § 1374, Nov. 30, 1993, 107 Stat. 1821,
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 8013a. Secretary of the Navy: powers with respect to Coast Guard
+## § 8013a. Secretary of the Navy: powers with respect to Coast Guard
 
-**(a)** Whenever the Coast Guard operates as a service in the Navy under section 3 1
+**(a)** Whenever the Coast Guard operates as a service in the Navy under section 3 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14, the Secretary of the Navy has the same powers and duties with respect to the Coast Guard as the Secretary of Homeland Security has when the Coast Guard is not so operating.
 
 **(b)** While operating as a service in the Navy, the Coast Guard is subject to the orders of the Secretary of the Navy, who may order changes in Coast Guard operations to make them uniform, to the extent he considers advisable, with Navy operations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 279, § 5032; Pub. L. 96–513, title V, § 513(3), Dec. 12, 1980, 94 Stat. 2931; renumbered § 5013a, Pub. L. 99–433, title V, § 511(c)(3), Oct. 1, 1986, 100 Stat. 1045; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered § 8013a, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 279, § 5032; Pub. L. 96–513, title V, § 513(3), Dec. 12, 1980, 94 Stat. 2931; renumbered § 5013a, Pub. L. 99–433, title V, § 511(c)(3), Oct. 1, 1986, 100 Stat. 1045; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered § 8013a, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
@@ -711,7 +711,7 @@ Subsection (a) is derived from 14 U.S.C. 5, and subsection (b) from the second s
 
 **References in Text**
 
-Section 3 of title 14, referred to in subsec. (a), was redesignated section 103 of title 14 by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 3 of title 14, referred to in subsec. (a), was redesignated section 103 of title 14 by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
@@ -737,7 +737,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8014. Office of the Secretary of the Navy
+## § 8014. Office of the Secretary of the Navy
 
 **(a)** There is in the Department of the Navy an Office of the Secretary of the Navy. The function of the Office is to assist the Secretary of the Navy in carrying out his responsibilities.
 
@@ -829,7 +829,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
-(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1045, § 5014; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, § 325(b), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, § 652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, § 1048(a)(28), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, § 504(d)(2), Dec. 2, 2002, 116 Stat. 2532; Pub. L. 114–328, div. A, title IX, § 903(d), Dec. 23, 2016, 130 Stat. 2344; renumbered § 8014, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 116–92, div. A, title IX, § 901(a)(4), Dec. 20, 2019, 133 Stat. 1542.)
+(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1045, § 5014; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, § 325(b), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, § 652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, § 1048(a)(28), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, § 504(d)(2), Dec. 2, 2002, 116 Stat. 2532; Pub. L. 114–328, div. A, title IX, § 903(d), Dec. 23, 2016, 130 Stat. 2344; renumbered § 8014, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 116–92, div. A, title IX, § 901(a)(4), Dec. 20, 2019, 133 Stat. 1542.)
 
 **Editorial Notes**
 
@@ -837,21 +837,21 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 A prior section 8014 was renumbered section 9014 of this title.
 
-Another prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, § 8013; Aug. 6, 1958, Pub. L. 85–599, § 8(c), 72 Stat. 520; Sept. 2, 1958, Pub. L. 85–861, § 1(153), 72 Stat. 1513; Aug. 14, 1964, Pub. L. 88–426, title III, § 305(8), 78 Stat. 423; Dec. 1, 1967, Pub. L. 90–168, § 2(15), 81 Stat. 523; Nov. 9, 1979, Pub. L. 96–107, title VIII, § 820(d), 93 Stat. 819; renumbered § 8014, Oct. 1, 1986, Pub. L. 99–433, title V, § 521(a)(1), 100 Stat. 1055, related to Under Secretary and Assistant Secretaries of the Air Force, appointment, and duties, prior to repeal by Pub. L. 99–433, § 521(a)(3).
+Another prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, § 8013; Aug. 6, 1958, Pub. L. 85–599, § 8(c), 72 Stat. 520; Sept. 2, 1958, Pub. L. 85–861, § 1(153), 72 Stat. 1513; Aug. 14, 1964, Pub. L. 88–426, title III, § 305(8), 78 Stat. 423; Dec. 1, 1967, Pub. L. 90–168, § 2(15), 81 Stat. 523; Nov. 9, 1979, Pub. L. 96–107, title VIII, § 820(d), 93 Stat. 819; renumbered § 8014, Oct. 1, 1986, Pub. L. 99–433, title V, § 521(a)(1), 100 Stat. 1055, related to Under Secretary and Assistant Secretaries of the Air Force, appointment, and duties, prior to repeal by Pub. L. 99–433, § 521(a)(3).
 
 Another prior section 8014 was renumbered section 8015 of this title and subsequently repealed.
 
 **Amendments**
 
-2019—Subsec. (f)(1). Pub. L. 116–92, § 901(a)(4)(A), substituted “3,150” for “2,866”.
+2019—Subsec. (f)(1). Pub. L. 116–92, § 901(a)(4)(A), substituted “3,150” for “2,866”.
 
-Subsec. (f)(2). Pub. L. 116–92, § 901(a)(4)(B), substituted “1,800” for “1,720”.
+Subsec. (f)(2). Pub. L. 116–92, § 901(a)(4)(B), substituted “1,800” for “1,720”.
 
 2018—Pub. L. 115–232 renumbered section 5014 of this title as this section.
 
-2016—Subsec. (f)(4). Pub. L. 114–328, § 903(d)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.”
+2016—Subsec. (f)(4). Pub. L. 114–328, § 903(d)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.”
 
-Subsec. (f)(5). Pub. L. 114–328, § 903(d)(2), added par. (5).
+Subsec. (f)(5). Pub. L. 114–328, § 903(d)(2), added par. (5).
 
 2002—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
@@ -871,7 +871,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title III, § 325(d), Sept. 29, 1988, 102 Stat. 1955, provided that:
+Pub. L. 100–456, div. A, title III, § 325(d), Sept. 29, 1988, 102 Stat. 1955, provided that:
 
 > **“(1)** The requirements of sections 3014(c)(5), 5014(c)(5)(A), and 8014(c)(5) [now 7014(c)(5), 8014(c)(5)(A), and 9014(c)(5)] of title 10, United States Code (as added by subsections (a), (b), and (c), respectively), shall apply with respect to any person appointed on or after the date of the enactment of this Act [Sept. 29, 1988] as the head of the office or other entity designated for conducting the auditing function in a military department.
 
@@ -885,13 +885,13 @@ Subsecs. (c) and (d) of this section to be implemented not later than 180 days a
 
 Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnel hired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
 
-## § 8015. Under Secretary of the Navy
+## § 8015. Under Secretary of the Navy
 
 **(a)** There is an Under Secretary of the Navy, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 **(b)** The Under Secretary shall perform such duties and exercise such powers as the Secretary of the Navy may prescribe.
 
-(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5015; renumbered § 8015, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5015; renumbered § 8015, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -901,7 +901,7 @@ Provisions similar to those in this section were contained in section 5033 of th
 
 A prior section 8015 was renumbered section 9015 of this title.
 
-Another prior section 8015, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, § 8014; renumbered § 8015, Oct. 1, 1986, Pub. L. 99–433, title V, § 521(a)(1), 100 Stat. 1055, related to Comptroller and Deputy Comptroller of the Air Force, powers and duties, and appointment, prior to repeal by Pub. L. 99–433, § 521(a)(3).
+Another prior section 8015, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, § 8014; renumbered § 8015, Oct. 1, 1986, Pub. L. 99–433, title V, § 521(a)(1), 100 Stat. 1055, related to Comptroller and Deputy Comptroller of the Air Force, powers and duties, and appointment, prior to repeal by Pub. L. 99–433, § 521(a)(3).
 
 **Amendments**
 
@@ -919,7 +919,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 8016. Assistant Secretaries of the Navy
+## § 8016. Assistant Secretaries of the Navy
 
 **(a)** There are four Assistant Secretaries of the Navy. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
@@ -949,7 +949,7 @@ For order of succession in event of death, permanent disability, or resignation 
 
 **(B)** The principal duty of the Assistant Secretary for Energy, Installations, and Environment shall be the overall supervision of energy, installation, and environment matters for the Department of the Navy.
 
-(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5016; amended Pub. L. 100–456, div. A, title VII, § 702(b)[(1)], Sept. 29, 1988, 102 Stat. 1994; Pub. L. 110–181, div. A, title IX, § 908(b), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title V, § 502(t), title VIII, § 802(b), Dec. 23, 2016, 130 Stat. 2104, 2249; Pub. L. 115–91, div. A, title IX, § 921(b), Dec. 12, 2017, 131 Stat. 1524; renumbered § 8016 and amended Pub. L. 115–232, div. A, title VIII, § 807(a)(1), title IX, § 915, Aug. 13, 2018, 132 Stat. 1834, 1924; Pub. L. 116–92, div. A, title VIII, § 861(j)(15), title IX, § 911(b), Dec. 20, 2019, 133 Stat. 1520, 1559.)
+(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5016; amended Pub. L. 100–456, div. A, title VII, § 702(b)[(1)], Sept. 29, 1988, 102 Stat. 1994; Pub. L. 110–181, div. A, title IX, § 908(b), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title V, § 502(t), title VIII, § 802(b), Dec. 23, 2016, 130 Stat. 2104, 2249; Pub. L. 115–91, div. A, title IX, § 921(b), Dec. 12, 2017, 131 Stat. 1524; renumbered § 8016 and amended Pub. L. 115–232, div. A, title VIII, § 807(a)(1), title IX, § 915, Aug. 13, 2018, 132 Stat. 1834, 1924; Pub. L. 116–92, div. A, title VIII, § 861(j)(15), title IX, § 911(b), Dec. 20, 2019, 133 Stat. 1520, 1559.)
 
 **Editorial Notes**
 
@@ -961,19 +961,19 @@ A prior section 8016 was renumbered section 9016 of this title.
 
 **Amendments**
 
-2019—Subsec. (b)(4)(B). Pub. L. 116–92, § 861(j)(15), substituted “under section 1731 of this title” for “under section 1733 of this title”.
+2019—Subsec. (b)(4)(B). Pub. L. 116–92, § 861(j)(15), substituted “under section 1731 of this title” for “under section 1733 of this title”.
 
-Subsec. (b)(5). Pub. L. 116–92, § 911(b), added par. (5).
+Subsec. (b)(5). Pub. L. 116–92, § 911(b), added par. (5).
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5016 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5016 of this title as this section.
 
-Subsec. (b)(4)(A). Pub. L. 115–232, § 915, substituted “acquisition, and sustainment (including maintenance) matters” for “and acquisition matters”.
+Subsec. (b)(4)(A). Pub. L. 115–232, § 915, substituted “acquisition, and sustainment (including maintenance) matters” for “and acquisition matters”.
 
 2017—Subsec. (b)(3). Pub. L. 115–91 designated first sentence as subpar. (A), designated second and third sentences as subpar. (C) and, in subpar. (C), substituted “The principal responsibility of the Assistant Secretary shall be” for “The Assistant Secretary shall have as his principal responsibility”, and added subpar. (B).
 
-2016—Subsec. (b)(4)(B). Pub. L. 114–328, § 802(b), inserted at end “In the event of a vacancy in the position of Assistant Secretary of the Navy for Research, Development, and Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.”
+2016—Subsec. (b)(4)(B). Pub. L. 114–328, § 802(b), inserted at end “In the event of a vacancy in the position of Assistant Secretary of the Navy for Research, Development, and Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.”
 
-Pub. L. 114–328, § 502(t), substituted “an officer of the Navy or the Marine Corps” for “a vice admiral of the Navy or a lieutenant general of the Marine Corps”.
+Pub. L. 114–328, § 502(t), substituted “an officer of the Navy or the Marine Corps” for “a vice admiral of the Navy or a lieutenant general of the Marine Corps”.
 
 2008—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
 
@@ -993,11 +993,11 @@ For applicability of appointment qualifications imposed by section 921 of Pub. L
 
 Amendment by Pub. L. 100–456 effective Jan. 20, 1989, see section 702(e)(1) of Pub. L. 100–456, set out as a note under section 7016 of this title.
 
-## § 8017. Secretary of the Navy: successors to duties
+## § 8017. Secretary of the Navy: successors to duties
 
-If the Secretary of the Navy dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 1
+If the Secretary of the Navy dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5, directs another person to perform those duties or until the absence or disability ceases:
 
@@ -1011,13 +1011,13 @@ of title 5, directs another person to perform those duties or until the absence 
 
 **(5)** The Commandant of the Marine Corps.
 
-(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5017; amended Pub. L. 103–337, div. A, title IX, § 902(b), Oct. 5, 1994, 108 Stat. 2823; renumbered § 8017, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5017; amended Pub. L. 103–337, div. A, title IX, § 902(b), Oct. 5, 1994, 108 Stat. 2823; renumbered § 8017, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3347 of title 5, referred to in text, was repealed and a new section 3347 was enacted by Pub. L. 105–277, div. C, title I, § 151(b), Oct. 21, 1998, 112 Stat. 2681–611, and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See section 3345 of Title 5, Government Organization and Employees.
+Section 3347 of title 5, referred to in text, was repealed and a new section 3347 was enacted by Pub. L. 105–277, div. C, title I, § 151(b), Oct. 21, 1998, 112 Stat. 2681–611, and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See section 3345 of Title 5, Government Organization and Employees.
 
 **Prior Provisions**
 
@@ -1041,11 +1041,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 8018. Administrative Assistant
+## § 8018. Administrative Assistant
 
 The Secretary of the Navy may appoint an Administrative Assistant in the Office of the Secretary of the Navy. The Administrative Assistant shall perform such duties as the Secretary may prescribe.
 
-(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5018; renumbered § 8018, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5018; renumbered § 8018, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1053,7 +1053,7 @@ The Secretary of the Navy may appoint an Administrative Assistant in the Office 
 
 A prior section 8018 was renumbered section 9018 of this title.
 
-Another prior section 8018, added Pub. L. 85–861, § 1(154)(A), Sept. 2, 1958, 72 Stat. 1513, prescribed compensation of General Counsel of Department of the Air Force, prior to repeal by Pub. L. 88–426, title III, § 305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964. See section 5316 of Title 5, Government Organization and Employees.
+Another prior section 8018, added Pub. L. 85–861, § 1(154)(A), Sept. 2, 1958, 72 Stat. 1513, prescribed compensation of General Counsel of Department of the Air Force, prior to repeal by Pub. L. 88–426, title III, § 305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964. See section 5316 of Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -1065,13 +1065,13 @@ Another prior section 8018, added Pub. L. 85–861, § 1(154)(A), Sept. 2, 195
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8019. General Counsel
+## § 8019. General Counsel
 
 **(a)** There is a General Counsel of the Department of the Navy, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 **(b)** The General Counsel shall perform such functions as the Secretary of the Navy may prescribe.
 
-(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5019; amended Pub. L. 100–456, div. A, title VII, § 703(a), Sept. 29, 1988, 102 Stat. 1996; renumbered § 8019, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 511(c)(4), Oct. 1, 1986, 100 Stat. 1047, § 5019; amended Pub. L. 100–456, div. A, title VII, § 703(a), Sept. 29, 1988, 102 Stat. 1996; renumbered § 8019, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1085,7 +1085,7 @@ Another prior section 8019 was renumbered section 9038 of this title.
 
 2018—Pub. L. 115–232 renumbered section 5019 of this title as this section.
 
-1988—Subsec. (a). Pub. L. 100–456 inserted “, by and with the advice and consent of the Senate” before period at end.
+1988—Subsec. (a). Pub. L. 100–456 inserted “, by and with the advice and consent of the Senate” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1097,7 +1097,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 100–456 applicable to appointments made under this section on and after Sept. 29, 1988, see section 703(c) of Pub. L. 100–456, set out as a note under section 7019 of this title.
 
-## § 8020. Naval Inspector General: detail; duties
+## § 8020. Naval Inspector General: detail; duties
 
 **(a)** There is in the Office of the Secretary of the Navy the Office of the Naval Inspector General. The Naval Inspector General shall be detailed from officers on the active-duty list in the line of the Navy serving in grades above captain.
 
@@ -1107,14 +1107,14 @@ Amendment by Pub. L. 100–456 applicable to appointments made under this sectio
 
 **(d)** The Naval Inspector General shall periodically propose programs of inspections to the Secretary of the Navy and shall recommend additional inspections and investigations as may appear appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 283, § 5088; Pub. L. 96–513, title V, § 503(7), Dec. 12, 1980, 94 Stat. 2911; renumbered § 5020 and amended Pub. L. 99–433, title V, § 511(c)(5), Oct. 1, 1986, 100 Stat. 1047; renumbered § 8020, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 117–286, § 4(b)(31), Dec. 27, 2022, 136 Stat. 4346.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 283, § 5088; Pub. L. 96–513, title V, § 503(7), Dec. 12, 1980, 94 Stat. 2911; renumbered § 5020 and amended Pub. L. 99–433, title V, § 511(c)(5), Oct. 1, 1986, 100 Stat. 1047; renumbered § 8020, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 117–286, § 4(b)(31), Dec. 27, 2022, 136 Stat. 4346.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5088(a), (b), (c) | 5 U.S.C. 423f. | Mar. 5, 1948, ch. 98, § 6, 62 Stat. 68. |
-| 5088(d) | 5 U.S.C. 423k (as applicable to the Naval Inspector General). | Mar. 5, 1948, ch. 98, § 11, 62 Stat. 69 (as applicable to the Naval Inspector General). |
+| 5088(a), (b), (c) | 5 U.S.C. 423f. | Mar. 5, 1948, ch. 98, § 6, 62 Stat. 68. |
+| 5088(d) | 5 U.S.C. 423k (as applicable to the Naval Inspector General). | Mar. 5, 1948, ch. 98, § 11, 62 Stat. 69 (as applicable to the Naval Inspector General). |
 
 In subsection (a) the words “In addition to the divisions herein created” are omitted as surplusage. The word “detailed” is added in order to show that the position of the Inspector General is not an appointive office.
 
@@ -1138,15 +1138,15 @@ Another prior section 8021 was renumbered section 10305 of this title.
 
 2018—Pub. L. 115–232 renumbered section 5020 of this title as this section.
 
-1986—Subsec. (a). Pub. L. 99–433, § 511(c)(5)(A), substituted “Office of the Secretary of Navy” for “Office of the Chief of Naval Operations”.
+1986—Subsec. (a). Pub. L. 99–433, § 511(c)(5)(A), substituted “Office of the Secretary of Navy” for “Office of the Chief of Naval Operations”.
 
-Subsec. (c). Pub. L. 99–433, § 511(c)(5)(B), (C), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 99–433, § 511(c)(5)(B), (C), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 99–433, § 511(c)(5)(B), redesignated former subsec. (c) as (d) and substituted “Secretary of the Navy” for “Chief of Naval Operations”.
+Subsec. (d). Pub. L. 99–433, § 511(c)(5)(B), redesignated former subsec. (c) as (d) and substituted “Secretary of the Navy” for “Chief of Naval Operations”.
 
-1980—Subsec. (a). Pub. L. 96–513, § 503(7)(A), substituted “active-duty list” for “active list”.
+1980—Subsec. (a). Pub. L. 96–513, § 503(7)(A), substituted “active-duty list” for “active list”.
 
-Subsec. (d). Pub. L. 96–513, § 503(7)(B), struck out subsec. (d) which authorized the President to designate the Naval Inspector General as an officer who performs special or unusual duty or duty of great importance and responsibility under section 5231 of this title.
+Subsec. (d). Pub. L. 96–513, § 503(7)(B), struck out subsec. (d) which authorized the President to designate the Naval Inspector General as an officer who performs special or unusual duty or duty of great importance and responsibility under section 5231 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1158,7 +1158,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8022. Office of Naval Research: duties
+## § 8022. Office of Naval Research: duties
 
 **(a)** There is in the Office of the Secretary of the Navy an Office of Naval Research.
 
@@ -1176,15 +1176,15 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 **(d)** The Office of Naval Research shall perform its duties under the authority of the Secretary, and its orders are considered as coming from the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, § 5151; renumbered § 5022, Pub. L. 99–433, title V, § 511(d), Oct. 1, 1986, 100 Stat. 1048; amended Pub. L. 101–510, div. A, title IX, § 910(b)(1), Nov. 5, 1990, 104 Stat. 1625; Pub. L. 104–201, div. A, title V, § 501(a), Sept. 23, 1996, 110 Stat. 2510; Pub. L. 106–398, § 1 [[div. A], title IX, § 904(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–225; Pub. L. 107–314, div. A, title V, § 504(f), Dec. 2, 2002, 116 Stat. 2533; Pub. L. 114–328, div. A, title V, § 502(u), Dec. 23, 2016, 130 Stat. 2104; renumbered § 8022, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, § 5151; renumbered § 5022, Pub. L. 99–433, title V, § 511(d), Oct. 1, 1986, 100 Stat. 1048; amended Pub. L. 101–510, div. A, title IX, § 910(b)(1), Nov. 5, 1990, 104 Stat. 1625; Pub. L. 104–201, div. A, title V, § 501(a), Sept. 23, 1996, 110 Stat. 2510; Pub. L. 106–398, § 1 [[div. A], title IX, § 904(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–225; Pub. L. 107–314, div. A, title V, § 504(f), Dec. 2, 2002, 116 Stat. 2533; Pub. L. 114–328, div. A, title V, § 502(u), Dec. 23, 2016, 130 Stat. 2104; renumbered § 8022, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5151(a) | 5 U.S.C. 475 (20th through 111th words). | Aug. 1, 1946, ch. 727, § 1 (22d through 114th words), 60 Stat. 779. |
-| 5151(b) | 5 U.S.C. 475d(a) (2d sentence). | Aug. 1, 1946, ch. 727, § 5(a) (2d sentence), 60 Stat. 780. |
-| 5151(c) | 5 U.S.C. 475 (2d sentence). | Aug. 1, 1946, ch. 727, § 1 (2d sentence), 60 Stat. 779. |
+| 5151(a) | 5 U.S.C. 475 (20th through 111th words). | Aug. 1, 1946, ch. 727, § 1 (22d through 114th words), 60 Stat. 779. |
+| 5151(b) | 5 U.S.C. 475d(a) (2d sentence). | Aug. 1, 1946, ch. 727, § 5(a) (2d sentence), 60 Stat. 780. |
+| 5151(c) | 5 U.S.C. 475 (2d sentence). | Aug. 1, 1946, ch. 727, § 1 (2d sentence), 60 Stat. 779. |
 
 In subsection (c) the words “shall have full force and effect as such” are omitted as surplusage.
 
@@ -1216,13 +1216,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title V, § 501(b), Sept. 23, 1996, 110 Stat. 2510, provided that: “Paragraph (2) of section 5022(a) [now 8022(a)] of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act [Sept. 23, 1996].”
+Pub. L. 104–201, div. A, title V, § 501(b), Sept. 23, 1996, 110 Stat. 2510, provided that: “Paragraph (2) of section 5022(a) [now 8022(a)] of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act [Sept. 23, 1996].”
 
 **Demonstration Project To Increase Small Business and University Participation in Office of Naval Research Efforts To Extend Benefits of Science and Technology Research to Fleet**
 
-Pub. L. 107–107, div. A, title II, § 262, Dec. 28, 2001, 115 Stat. 1044, directed the Secretary of the Navy to carry out a demonstration project, during the three-year period beginning on Dec. 28, 2001, to increase access to Navy facilities of small businesses and universities that are engaged in science and technology research beneficial to the fleet and provided that the Secretary would submit a report on the demonstration project to Congress by Feb. 1, 2004.
+Pub. L. 107–107, div. A, title II, § 262, Dec. 28, 2001, 115 Stat. 1044, directed the Secretary of the Navy to carry out a demonstration project, during the three-year period beginning on Dec. 28, 2001, to increase access to Navy facilities of small businesses and universities that are engaged in science and technology research beneficial to the fleet and provided that the Secretary would submit a report on the demonstration project to Congress by Feb. 1, 2004.
 
-## § 8023. Office of Naval Research: appropriations; time limit
+## § 8023. Office of Naval Research: appropriations; time limit
 
 **(a)** Sums appropriated for the Office of Naval Research may be used to pay the cost of performing its duties under section 8022 of this title including the cost of—
 
@@ -1234,14 +1234,14 @@ Pub. L. 107–107, div. A, title II, § 262, Dec. 28, 2001, 115 Stat. 1044, di
 
 **(b)** Sums appropriated for the purposes of this section, if obligated during the fiscal year for which appropriated, remain available for expenditure for four years after the end of that fiscal year. Any balance not spent after that four-year period shall be carried to the surplus fund and covered into the Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, § 5152; renumbered § 5023 and amended Pub. L. 99–433, title V, §§ 511(d), 514(c)(2), Oct. 1, 1986, 100 Stat. 1048, 1055; renumbered § 8023 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, § 5152; renumbered § 5023 and amended Pub. L. 99–433, title V, §§ 511(d), 514(c)(2), Oct. 1, 1986, 100 Stat. 1048, 1055; renumbered § 8023 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5152 | 5 U.S.C. 475d(a) (less 2d sentence). | Aug. 1, 1946, ch. 727, § 5 (a) (less 2d sentence), 60 Stat. 780. |
-|  | 5 U.S.C. 475d(b). | Aug. 1, 1946, ch. 727, § 5 (b), 60 Stat. 780. |
+| 5152 | 5 U.S.C. 475d(a) (less 2d sentence). | Aug. 1, 1946, ch. 727, § 5 (a) (less 2d sentence), 60 Stat. 780. |
+|  | 5 U.S.C. 475d(b). | Aug. 1, 1946, ch. 727, § 5 (b), 60 Stat. 780. |
 
 The authorization to make appropriations for the Office of Naval Research is omitted as unnecessary. The word “administration” is substituted for the words “administrative expenses” for brevity.
 
@@ -1253,13 +1253,13 @@ A prior section 8023 was renumbered section 9023 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5023 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5023 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8022” for “section 5022” in introductory provisions.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8022” for “section 5022” in introductory provisions.
 
-1986—Pub. L. 99–433, § 511(d), renumbered section 5152 of this title as this section.
+1986—Pub. L. 99–433, § 511(d), renumbered section 5152 of this title as this section.
 
-Subsec. (a). Pub. L. 99–433, § 514(c)(2), substituted “section 5022” for “section 5151”.
+Subsec. (a). Pub. L. 99–433, § 514(c)(2), substituted “section 5022” for “section 5151”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1267,13 +1267,13 @@ Subsec. (a). Pub. L. 99–433, § 514(c)(2), substituted “section 5022” fo
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## [§ 8024. Repealed. Pub. L. 118–31, div. A, title IX, § 914, Dec. 22, 2023, 137 Stat. 368]
+## [§ 8024. Repealed. Pub. L. 118–31, div. A, title IX, § 914, Dec. 22, 2023, 137 Stat. 368]
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 291, § 5153; Pub. L. 97–60, title II, § 205, Oct. 14, 1981, 95 Stat. 1007; renumbered § 5024 and amended Pub. L. 99–433, title V, §§ 511(d), 514(d)(2), Oct. 1, 1986, 100 Stat. 1048, 1055; renumbered § 8024, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834, established the Naval Research Advisory Committee.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 291, § 5153; Pub. L. 97–60, title II, § 205, Oct. 14, 1981, 95 Stat. 1007; renumbered § 5024 and amended Pub. L. 99–433, title V, §§ 511(d), 514(d)(2), Oct. 1, 1986, 100 Stat. 1048, 1055; renumbered § 8024, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834, established the Naval Research Advisory Committee.
 
 A prior section 8024 was renumbered section 9024 of this title.
 
-## § 8025. Financial management
+## § 8025. Financial management
 
 **(a)** The Secretary of the Navy shall provide that the Assistant Secretary of the Navy for Financial Management shall direct and manage financial management activities and operations of the Department of the Navy, including ensuring that financial management systems of the Department of the Navy comply with subsection (b). The authority of the Assistant Secretary for such direction and management shall include the authority to—
 
@@ -1309,7 +1309,7 @@ A prior section 8024 was renumbered section 9024 of this title.
 
 **(d)** The Assistant Secretary of the Navy for Financial Management shall transmit to the Secretary of the Navy a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include a description and analysis of the status of Department of the Navy financial management.
 
-(Added Pub. L. 100–456, div. A, title VII, § 702(b)(2), Sept. 29, 1988, 102 Stat. 1994, § 5025; amended Pub. L. 103–337, div. A, title X, § 1070(a)(15), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, § 1503(b)(1), Feb. 10, 1996, 110 Stat. 512; renumbered § 8025, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 100–456, div. A, title VII, § 702(b)(2), Sept. 29, 1988, 102 Stat. 1994, § 5025; amended Pub. L. 103–337, div. A, title X, § 1070(a)(15), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, § 1503(b)(1), Feb. 10, 1996, 110 Stat. 512; renumbered § 8025, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1331,11 +1331,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Section effective Jan. 20, 1989, see section 702(e)(1) of Pub. L. 100–456, set out as an Effective Date of 1988 Amendment note under section 7016 of this title.
 
-## § 8026. Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation or amphibious force structure and capability
+## § 8026. Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation or amphibious force structure and capability
 
 The Secretary of the Navy shall ensure that the views of the Commandant of the Marine Corps are given appropriate consideration before a major decision is made by an element of the Department of the Navy outside the Marine Corps on a matter that directly concerns Marine Corps aviation or amphibious force structure and capability.
 
-(Added Pub. L. 105–261, div. A, title IX, § 935(a), Oct. 17, 1998, 112 Stat. 2109, § 5026; renumbered § 8026, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; amended Pub. L. 117–263, div. A, title X, § 1022(a), (b)(1), Dec. 23, 2022, 136 Stat. 2763.)
+(Added Pub. L. 105–261, div. A, title IX, § 935(a), Oct. 17, 1998, 112 Stat. 2109, § 5026; renumbered § 8026, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; amended Pub. L. 117–263, div. A, title X, § 1022(a), (b)(1), Dec. 23, 2022, 136 Stat. 2763.)
 
 **Editorial Notes**
 
@@ -1351,21 +1351,21 @@ The Secretary of the Navy shall ensure that the views of the Commandant of the M
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8027. Chief of Legislative Affairs
+## § 8027. Chief of Legislative Affairs
 
 **(a)** There is a Chief of Legislative Affairs in the Department of the Navy.
 
 **(b)** The Chief of Legislative Affairs shall perform legislative affairs functions as specified for the Office of the Secretary of the Navy by section 8014(c)(1)(F) of this title.
 
-(Added Pub. L. 107–314, div. A, title V, § 504(d)(1)(A), Dec. 2, 2002, 116 Stat. 2532, § 5027; amended Pub. L. 114–328, div. A, title V, § 502(v), Dec. 23, 2016, 130 Stat. 2104; renumbered § 8027 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Added Pub. L. 107–314, div. A, title V, § 504(d)(1)(A), Dec. 2, 2002, 116 Stat. 2532, § 5027; amended Pub. L. 114–328, div. A, title V, § 502(v), Dec. 23, 2016, 130 Stat. 2104; renumbered § 8027 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5027 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5027 of this title as this section.
 
-Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 8014(c)(1)(F)” for “section 5014(c)(1)(F)”.
+Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 8014(c)(1)(F)” for “section 5014(c)(1)(F)”.
 
 2016—Subsec. (a). Pub. L. 114–328 struck out second sentence which read as follows: “An officer assigned to that position shall be an officer in the grade of rear admiral.”
 
@@ -1375,7 +1375,7 @@ Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 8014(c)(1)(F
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8028. Director of Small Business Programs
+## § 8028. Director of Small Business Programs
 
 **(a) Director.—** There is a Director of Small Business Programs in the Department of the Navy. The Director is appointed by the Secretary of the Navy.
 
@@ -1387,7 +1387,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** Section 15(k) of the Small Business Act (15 U.S.C. 644(k)), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
 
-(Added Pub. L. 109–163, div. A, title IX, § 904(d)(1), Jan. 6, 2006, 119 Stat. 3401, § 5028; renumbered § 8028, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 109–163, div. A, title IX, § 904(d)(1), Jan. 6, 2006, 119 Stat. 3401, § 5028; renumbered § 8028, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1405,7 +1405,7 @@ The Director of Small and Disadvantaged Business Utilization of the Department o
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8029. Naval Air Warfare Rapid Capabilities Office
+## § 8029. Naval Air Warfare Rapid Capabilities Office
 
 **(a) Establishment.—** There is established within the Department of the Navy an office to be known as the Naval Air Warfare Rapid Capabilities Office (in this section referred to as the “Office”).
 
@@ -1469,4 +1469,4 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(D)** any barriers to the ability of the Office to carry out its mission, including any legislative or regulatory barriers.
 
-(Added Pub. L. 118–31, div. A, title II, § 215, Dec. 22, 2023, 137 Stat. 184.)
+(Added Pub. L. 118–31, div. A, title II, § 215, Dec. 22, 2023, 137 Stat. 184.)

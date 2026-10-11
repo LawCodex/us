@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 221—THE AMERICAN SOCIETY OF INTERNATIONAL LAW"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 221—THE AMERICAN SOCIETY OF INTERNATIONAL LAW"
 identifier: "/us/usc/t36/stII/ptB/ch221"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 221—THE AMERICAN SOCIETY OF INTERNATIONAL LAW
 
-## § 22101. Organization
+## § 22101. Organization
 
 **(a) Federal Charter.—** The American Society of International Law (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,12 +27,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22101(a) | 36:341. | Sept. 20, 1950, ch. 958, §§ 1, 5 (related to perpetual succession), 10, 64 Stat. 869, 871, 872. |
+| 22101(a) | 36:341. | Sept. 20, 1950, ch. 958, §§ 1, 5 (related to perpetual succession), 10, 64 Stat. 869, 871, 872. |
 | 22101(b) | 36:345 (related to perpetual succession). 36:350. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 22102. Purposes
+## § 22102. Purposes
 
 The purposes of the corporation are—
 
@@ -46,9 +46,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22102 | 36:342 (1st sentence). | Sept. 20, 1950, ch. 958, § 2 (1st sentence), 64 Stat. 870. |
+| 22102 | 36:342 (1st sentence). | Sept. 20, 1950, ch. 958, § 2 (1st sentence), 64 Stat. 870. |
 
-## § 22103. Governing body
+## § 22103. Governing body
 
 **(a) Executive Council.—**
 
@@ -68,11 +68,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22103 | 36:343. | Sept. 20, 1950, ch. 958, § 3, 64 Stat. 870. |
+| 22103 | 36:343. | Sept. 20, 1950, ch. 958, § 3, 64 Stat. 870. |
 
 The words “The number of members of the executive council shall initially be forty-four, and the members of the said council shall initially be the persons whose names and addresses are set forth in section 341 of this title” are omitted as obsolete.
 
-## § 22104. Powers
+## § 22104. Powers
 
 The corporation may—
 
@@ -100,7 +100,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22104 | 36:345 (less perpetual succession). | Sept. 20, 1950, ch. 958, §§ 5 (less perpetual succession), 11, 64 Stat. 871, 872. |
+| 22104 | 36:345 (less perpetual succession). | Sept. 20, 1950, ch. 958, §§ 5 (less perpetual succession), 11, 64 Stat. 871, 872. |
 |  | 36:351. |  |
 
 In this section, the text of 36:351 is omitted as executed and obsolete.
@@ -119,7 +119,7 @@ In clause (6), the words “instruments of indebtedness” are substituted for �
 
 In clause (8), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary and for consistency in the revised title.
 
-## § 22105. Restrictions
+## § 22105. Restrictions
 
 **(a) Profit.—** The corporation may not operate for profit.
 
@@ -137,7 +137,7 @@ In clause (8), the words “complain and defend in any court of competent jurisd
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22105(a) | 36:342 (2d sentence words before 1st comma). | Sept. 20, 1950, ch. 958, §§ 2 (2d, last sentences), 7, 64 Stat. 870, 871. |
+| 22105(a) | 36:342 (2d sentence words before 1st comma). | Sept. 20, 1950, ch. 958, §§ 2 (2d, last sentences), 7, 64 Stat. 870, 871. |
 | 22105(b) | 36:347 (1st sentence words before 2d comma). |  |
 | 22105(c) | 36:342 (last sentence). |  |
 | 22105(d) | 36:342 (2d sentence words after 1st comma). |  |
@@ -147,7 +147,7 @@ In subsection (b), the words “shares of” are omitted as unnecessary.
 
 In subsection (d), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 22106. Principal office
+## § 22106. Principal office
 
 The principal office of the corporation shall be in the District of Columbia. However, the activities of the corporation are not confined to the District of Columbia but may be conducted throughout the United States.
 
@@ -157,9 +157,9 @@ The principal office of the corporation shall be in the District of Columbia. Ho
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22106 | 36:344. | Sept. 20, 1950, ch. 958, § 4, 64 Stat. 871. |
+| 22106 | 36:344. | Sept. 20, 1950, ch. 958, § 4, 64 Stat. 871. |
 
-The words “the activities of the corporation are not confined to the District of Columbia but may be conducted throughout the United States” are substituted for “The corporation . . . shall have the right to conduct its activities in the said District and at any other place or places in the United States” for consistency in the revised title and to eliminate unnecessary words.
+The words “the activities of the corporation are not confined to the District of Columbia but may be conducted throughout the United States” are substituted for “The corporation . . . shall have the right to conduct its activities in the said District and at any other place or places in the United States” for consistency in the revised title and to eliminate unnecessary words.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,7 +167,7 @@ The words “the activities of the corporation are not confined to the District 
 
 Pub. L. 86–208, Aug. 25, 1959, 73 Stat. 431, provided: “That the American Society of International Law, incorporated by the Act entitled ‘An Act to incorporate the American Society of International Law, and for other purposes’, approved September 20, 1950 (Public Law 794, ch. 958, Eighty-first Congress, second session (64 Stat. 869)) [now this chapter], is authorized to use the real estate described as lot 805 square 2512, situated in the city of Washington, District of Columbia, as the national headquarters of such society.”
 
-## § 22107. Records and inspection
+## § 22107. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -185,11 +185,11 @@ Pub. L. 86–208, Aug. 25, 1959, 73 Stat. 431, provided: “That the American So
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22107 | 36:348. | Sept. 20, 1950, ch. 958, § 8, 64 Stat. 872. |
+| 22107 | 36:348. | Sept. 20, 1950, ch. 958, § 8, 64 Stat. 872. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 22108. Service of process
+## § 22108. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -199,11 +199,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22108 | 36:346 (last sentence). | Sept. 20, 1950, ch. 958, § 6 (last sentence), 64 Stat. 871. |
+| 22108 | 36:346 (last sentence). | Sept. 20, 1950, ch. 958, § 6 (last sentence), 64 Stat. 871. |
 
 The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice” are substituted for “shall be deemed notice”, for consistency in the revised title and to eliminate unnecessary words.
 
-## § 22109. Liability for acts of officers and agents
+## § 22109. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -213,6 +213,6 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22109 | 36:346 (1st sentence). | Sept. 20, 1950, ch. 958, § 6 (1st sentence), 64 Stat. 871. |
+| 22109 | 36:346 (1st sentence). | Sept. 20, 1950, ch. 958, § 6 (1st sentence), 64 Stat. 871. |
 
 The words “acting within the scope of their authority” are added for clarity and consistency in the revised title.

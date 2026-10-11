@@ -49,13 +49,13 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 
 **Amendments**
 
-2020—Pub. L. 116–136, div. B, title IX, § 19011(b), Mar. 27, 2020, 134 Stat. 582, added item 710.
+2020—Pub. L. 116–136, div. B, title IX, § 19011(b), Mar. 27, 2020, 134 Stat. 582, added item 710.
 
-2000—Pub. L. 106–379, § 3(a)(1), Oct. 27, 2000, 114 Stat. 1445, struck out item 710 “Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures.”
+2000—Pub. L. 106–379, § 3(a)(1), Oct. 27, 2000, 114 Stat. 1445, struck out item 710 “Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures.”
 
-1997—Pub. L. 105–80, § 12(a)(17), Nov. 13, 1997, 111 Stat. 1535, substituted “Reproduction” for “Reproductions” in item 710.
+1997—Pub. L. 105–80, § 12(a)(17), Nov. 13, 1997, 111 Stat. 1535, substituted “Reproduction” for “Reproductions” in item 710.
 
-## § 701. The Copyright Office: General responsibilities and organization
+## § 701. The Copyright Office: General responsibilities and organization
 
 **(a)** All administrative functions and duties under this title, except as otherwise specified, are the responsibility of the Register of Copyrights as director of the Copyright Office of the Library of Congress. The Register of Copyrights, together with the subordinate officers and employees of the Copyright Office, shall be appointed by the Librarian of Congress, and shall act under the Librarian’s general direction and supervision.
 
@@ -79,7 +79,7 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 
 **(f)** The Register of Copyrights shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title. The Librarian of Congress shall establish not more than four positions for Associate Registers of Copyrights, in accordance with the recommendations of the Register of Copyrights. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights. The rate of basic pay for each Associate Register of Copyrights shall be fixed in accordance with section 5376 of title 5.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2591; Pub. L. 101–319, § 2(b), July 3, 1990, 104 Stat. 290; Pub. L. 105–304, title IV, § 401(a)(2), (b), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 116–94, div. P, title XIV, § 1404(a)(3), (b)(2), Dec. 20, 2019, 133 Stat. 3208.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2591; Pub. L. 101–319, § 2(b), July 3, 1990, 104 Stat. 290; Pub. L. 105–304, title IV, § 401(a)(2), (b), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 116–94, div. P, title XIV, § 1404(a)(3), (b)(2), Dec. 20, 2019, 133 Stat. 3208.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ The Administrative Procedure Act of June 11, 1946, referred to in subsec. (e), w
 
 2019—Subsec. (f). Pub. L. 116–94 substituted “The Register of Copyrights shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.” for “The Register of Copyrights shall be compensated at the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5.” and “The rate of basic pay for each Associate Register of Copyrights shall be fixed in accordance with section 5376 of title 5.” for “Each Associate Register of Copyrights shall be paid at a rate not to exceed the maximum annual rate of basic pay payable for GS–18 of the General Schedule under section 5332 of title 5.”
 
-1998—Subsecs. (b) to (e). Pub. L. 105–304, § 401(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
+1998—Subsecs. (b) to (e). Pub. L. 105–304, § 401(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 105–304 redesignated subsec. (e) as (f) and substituted “III” for “IV” and “5314” for “5315” in first sentence.
 
@@ -101,7 +101,7 @@ Subsec. (f). Pub. L. 105–304 redesignated subsec. (e) as (f) and substituted �
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–319, § 5, July 3, 1990, 104 Stat. 291, provided that:
+Pub. L. 101–319, § 5, July 3, 1990, 104 Stat. 291, provided that:
 
 > **“(a) Effective Date.—** The amendments made by this Act [amending this section and section 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 101 of this title] shall take effect on the date of the enactment of this Act [July 3, 1990].
 
@@ -109,21 +109,21 @@ Pub. L. 101–319, § 5, July 3, 1990, 104 Stat. 291, provided that:
 
 **National Commission on New Technological Uses of Copyrighted Works**
 
-Pub. L. 93–573, title II, §§ 201–208, Dec. 31, 1974, 88 Stat. 1873–1875, as amended by Pub. L. 94–314, June 21, 1976, 90 Stat. 692; Pub. L. 95–146, Oct. 28, 1977, 91 Stat. 1226, created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works to study and compile data on (1) the reproduction and use of copyrighted works of authorship (A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and (B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities, and (2) the creation of new works by the application or intervention of such automatic systems or machine reproduction, required the Commission to submit a final report to the President and Congress on or before July 31, 1978, and provided that the Commission terminated the sixtieth day after submitting the final report.
+Pub. L. 93–573, title II, §§ 201–208, Dec. 31, 1974, 88 Stat. 1873–1875, as amended by Pub. L. 94–314, June 21, 1976, 90 Stat. 692; Pub. L. 95–146, Oct. 28, 1977, 91 Stat. 1226, created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works to study and compile data on (1) the reproduction and use of copyrighted works of authorship (A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and (B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities, and (2) the creation of new works by the application or intervention of such automatic systems or machine reproduction, required the Commission to submit a final report to the President and Congress on or before July 31, 1978, and provided that the Commission terminated the sixtieth day after submitting the final report.
 
-## § 702. Copyright Office regulations
+## § 702. Copyright Office regulations
 
 The Register of Copyrights is authorized to establish regulations not inconsistent with law for the administration of the functions and duties made the responsibility of the Register under this title. All regulations established by the Register under this title are subject to the approval of the Librarian of Congress.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2591.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2591.)
 
-## § 703. Effective date of actions in Copyright Office
+## § 703. Effective date of actions in Copyright Office
 
 In any case in which time limits are prescribed under this title for the performance of an action in the Copyright Office, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2591.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2591.)
 
-## § 704. Retention and disposition of articles deposited in Copyright Office
+## § 704. Retention and disposition of articles deposited in Copyright Office
 
 **(a)** Upon their deposit in the Copyright Office under sections 407 and 408, all copies, phonorecords, and identifying material, including those deposited in connection with claims that have been refused registration, are the property of the United States Government.
 
@@ -135,7 +135,7 @@ In any case in which time limits are prescribed under this title for the perform
 
 **(e)** The depositor of copies, phonorecords, or identifying material under section 408, or the copyright owner of record, may request retention, under the control of the Copyright Office, of one or more of such articles for the full term of copyright in the work. The Register of Copyrights shall prescribe, by regulation, the conditions under which such requests are to be made and granted, and shall fix the fee to be charged under section 708(a) if the request is granted.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2591; Pub. L. 101–318, § 2(c), July 3, 1990, 104 Stat. 288; Pub. L. 111–295, § 6(e), Dec. 9, 2010, 124 Stat. 3181.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2591; Pub. L. 101–318, § 2(c), July 3, 1990, 104 Stat. 288; Pub. L. 111–295, § 6(e), Dec. 9, 2010, 124 Stat. 3181.)
 
 **Editorial Notes**
 
@@ -151,7 +151,7 @@ In any case in which time limits are prescribed under this title for the perform
 
 Amendment by Pub. L. 101–318 effective 6 months after July 3, 1990, and applicable to (A) claims to original, supplementary, and renewal copyright received for registration, and to items received for recordation in Copyright Office, on or after such effective date, and (B) other requests for services received on or after such effective date, or received before such effective date for services not yet rendered as of such date, and with claims to original, supplementary, and renewal copyright received for registration and items received for recordation in acceptable form in Copyright Office before such effective date, and requests for services which are rendered before such effective date, to be governed by section 708 of this title as in effect before such effective date, see section 2(d) of Pub. L. 101–318, set out as a note under section 708 of this title.
 
-## § 705. Copyright Office records: Preparation, maintenance, public inspection, and searching
+## § 705. Copyright Office records: Preparation, maintenance, public inspection, and searching
 
 **(a)** The Register of Copyrights shall ensure that records of deposits, registrations, recordations, and other actions taken under this title are maintained, and that indexes of such records are prepared.
 
@@ -159,7 +159,7 @@ Amendment by Pub. L. 101–318 effective 6 months after July 3, 1990, and applic
 
 **(c)** Upon request and payment of the fee specified by section 708, the Copyright Office shall make a search of its public records, indexes, and deposits, and shall furnish a report of the information they disclose with respect to any particular deposits, registrations, or recorded documents.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2592; Pub. L. 106–379, § 3(a)(2), Oct. 27, 2000, 114 Stat. 1445.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2592; Pub. L. 106–379, § 3(a)(2), Oct. 27, 2000, 114 Stat. 1445.)
 
 **Editorial Notes**
 
@@ -167,15 +167,15 @@ Amendment by Pub. L. 101–318 effective 6 months after July 3, 1990, and applic
 
 2000—Subsec. (a). Pub. L. 106–379 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Register of Copyrights shall provide and keep in the Copyright Office records of all deposits, registrations, recordations, and other actions taken under this title, and shall prepare indexes of all such records.”
 
-## § 706. Copies of Copyright Office records
+## § 706. Copies of Copyright Office records
 
 **(a)** Copies may be made of any public records or indexes of the Copyright Office; additional certificates of copyright registration and copies of any public records or indexes may be furnished upon request and payment of the fees specified by section 708.
 
 **(b)** Copies or reproductions of deposited articles retained under the control of the Copyright Office shall be authorized or furnished only under the conditions specified by the Copyright Office regulations.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2592.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2592.)
 
-## § 707. Copyright Office forms and publications
+## § 707. Copyright Office forms and publications
 
 **(a) Catalog of Copyright Entries.—** The Register of Copyrights shall compile and publish at periodic intervals catalogs of all copyright registrations. These catalogs shall be divided into parts in accordance with the various classes of works, and the Register has discretion to determine, on the basis of practicability and usefulness, the form and frequency of publication of each particular part.
 
@@ -183,9 +183,9 @@ Amendment by Pub. L. 101–318 effective 6 months after July 3, 1990, and applic
 
 **(c) Distribution of Publications.—** All publications of the Copyright Office shall be furnished to depository libraries as specified under section 1905 of title 44, and, aside from those furnished free of charge, shall be offered for sale to the public at prices based on the cost of reproduction and distribution.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2592.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2592.)
 
-## § 708. Copyright Office fees
+## § 708. Copyright Office fees
 
 **(a) Fees.—** Fees shall be paid to the Register of Copyrights—
 
@@ -199,7 +199,7 @@ Amendment by Pub. L. 101–318 effective 6 months after July 3, 1990, and applic
 
 **(5)** for the filing, under section 115(b),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of a notice of intention to obtain a compulsory license;
 
@@ -253,23 +253,23 @@ The Register is authorized to fix fees for other services, including the cost of
 
 **(B)** may waive a fee described in subparagraph (A) for an application submitted after the end of the covered year if the fee would have been waived under that subparagraph had the application been submitted before the last day of the covered year.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, § 406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, § 1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, § 2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, § 102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, § 7, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, § 3(a)(3), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 111–175, title I, § 106, May 27, 2010, 124 Stat. 1244; Pub. L. 117–201, § 2, Oct. 17, 2022, 136 Stat. 2222.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, § 406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, § 1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, § 2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, § 102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, § 7, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, § 3(a)(3), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 111–175, title I, § 106, May 27, 2010, 124 Stat. 1244; Pub. L. 117–201, § 2, Oct. 17, 2022, 136 Stat. 2222.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (b) of section 115, referred to in subsec. (a)(5), was struck out and a new subsection (b) was added by Pub. L. 115–264, title I, § 102(a)(2), Oct. 11, 2018, 132 Stat. 3678.
+Subsection (b) of section 115, referred to in subsec. (a)(5), was struck out and a new subsection (b) was added by Pub. L. 115–264, title I, § 102(a)(2), Oct. 11, 2018, 132 Stat. 3678.
 
 **Amendments**
 
 2022—Subsec. (e). Pub. L. 117–201 added subsec. (e).
 
-2010—Subsec. (a). Pub. L. 111–175, § 106(4), inserted at end of concluding provisions “Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements.”
+2010—Subsec. (a). Pub. L. 111–175, § 106(4), inserted at end of concluding provisions “Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements.”
 
-Subsec. (a)(10), (11). Pub. L. 111–175, § 106(1)–(3), added pars. (10) and (11).
+Subsec. (a)(10), (11). Pub. L. 111–175, § 106(1)–(3), added pars. (10) and (11).
 
-2000—Subsec. (a). Pub. L. 106–379, § 3(a)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
+2000—Subsec. (a). Pub. L. 106–379, § 3(a)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
 
 “(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made, $20;
 
@@ -293,21 +293,21 @@ Subsec. (a)(10), (11). Pub. L. 111–175, § 106(1)–(3), added pars. (10) an
 
 The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation.”
 
-Subsec. (b). Pub. L. 106–379, § 3(a)(3)(B)(i), inserted introductory provisions and struck out former introductory provisions which read as follows: “In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:”.
+Subsec. (b). Pub. L. 106–379, § 3(a)(3)(B)(i), inserted introductory provisions and struck out former introductory provisions which read as follows: “In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:”.
 
-Subsec. (b)(1). Pub. L. 106–379, § 3(a)(3)(B)(ii), substituted “adjustment” for “increase”.
+Subsec. (b)(1). Pub. L. 106–379, § 3(a)(3)(B)(ii), substituted “adjustment” for “increase”.
 
-Subsec. (b)(2). Pub. L. 106–379, § 3(a)(3)(B)(iii), substituted “adjust fees to not more” for “increase fees to not more”.
+Subsec. (b)(2). Pub. L. 106–379, § 3(a)(3)(B)(iii), substituted “adjust fees to not more” for “increase fees to not more”.
 
-Subsec. (b)(5). Pub. L. 106–379, § 3(a)(3)(B)(iv), substituted “adjusted” for “increased”.
+Subsec. (b)(5). Pub. L. 106–379, § 3(a)(3)(B)(iv), substituted “adjusted” for “increased”.
 
-1997—Subsec. (b). Pub. L. 105–80, § 7(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized.”
+1997—Subsec. (b). Pub. L. 105–80, § 7(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized.”
 
-Subsec. (d). Pub. L. 105–80, § 7(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.”
+Subsec. (d). Pub. L. 105–80, § 7(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.”
 
 1992—Subsec. (a)(2). Pub. L. 102–307 struck out “in its first term” after “copyright” and substituted “$20” for “$12”.
 
-1990—Subsec. (a). Pub. L. 101–318, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
+1990—Subsec. (a). Pub. L. 101–318, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
 
 “(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;
 
@@ -331,13 +331,13 @@ Subsec. (d). Pub. L. 105–80, § 7(b), amended subsec. (d) generally. Prior t
 
 “(11) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service.”
 
-Subsecs. (b) to (d). Pub. L. 101–318, § 2(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 101–318, § 2(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1982—Subsec. (a)(1). Pub. L. 97–366, § 1(1), substituted provision for a $10 fee on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, for provision for a $10 fee for the registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration.
+1982—Subsec. (a)(1). Pub. L. 97–366, § 1(1), substituted provision for a $10 fee on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, for provision for a $10 fee for the registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration.
 
-Subsec. (a)(2). Pub. L. 97–366, § 1(1), substituted provision for a $6 fee on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, for provision for a $6 fee for the registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration.
+Subsec. (a)(2). Pub. L. 97–366, § 1(1), substituted provision for a $6 fee on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, for provision for a $6 fee for the registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration.
 
-Subsec. (c). Pub. L. 97–366, § 1(2), struck out provision that, before making a refund in any case involving a refusal to register a claim under section 410(b), the Register could deduct all or any part of the prescribed registration fee to cover the reasonable administrative costs of processing the claim.
+Subsec. (c). Pub. L. 97–366, § 1(2), struck out provision that, before making a refund in any case involving a refusal to register a claim under section 410(b), the Register could deduct all or any part of the prescribed registration fee to cover the reasonable administrative costs of processing the claim.
 
 1977—Subsec. (c). Pub. L. 95–94 substituted provisions relating to crediting of all fees received, to the appropriation for necessary expenses of the Copyright Office, for provisions relating to crediting of all fees received in the manner directed by the Secretary of the Treasury.
 
@@ -349,7 +349,7 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–379, § 3(c)(1), Oct. 27, 2000, 114 Stat. 1445, provided that: “The amendments made by this section [amending this section and sections 121 and 705 of this title and repealing section 710 of this title] shall take effect on the date of the enactment of this Act [Oct. 27, 2000].”
+Pub. L. 106–379, § 3(c)(1), Oct. 27, 2000, 114 Stat. 1445, provided that: “The amendments made by this section [amending this section and sections 121 and 705 of this title and repealing section 710 of this title] shall take effect on the date of the enactment of this Act [Oct. 27, 2000].”
 
 **Effective Date of 1992 Amendment**
 
@@ -357,7 +357,7 @@ Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to c
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–318, § 2(d), July 3, 1990, 104 Stat. 288, provided that:
+Pub. L. 101–318, § 2(d), July 3, 1990, 104 Stat. 288, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 704 of this title] shall take effect 6 months after the date of the enactment of this Act [July 3, 1990] and shall apply to—
 
@@ -369,23 +369,23 @@ Pub. L. 101–318, § 2(d), July 3, 1990, 104 Stat. 288, provided that:
 
 **Effective Date of 1982 Amendment; Transitional Rule**
 
-Pub. L. 97–366, § 2, Oct. 25, 1982, 96 Stat. 1759, provided that: “This Act [amending this section, section 110 of this title, and section 3 of Title 35, Patents] shall take effect thirty days after its enactment [Oct. 25, 1982] and shall apply to claims to original, supplementary, and renewal copyright received for registration in the Copyright Office on or after the effective date. Claims to original, supplementary, and renewal copyright received for registration in acceptable form in the Copyright Office before the effective date shall be governed by the provisions of section 708(a)(1) and (2) in effect prior to this enactment.”
+Pub. L. 97–366, § 2, Oct. 25, 1982, 96 Stat. 1759, provided that: “This Act [amending this section, section 110 of this title, and section 3 of Title 35, Patents] shall take effect thirty days after its enactment [Oct. 25, 1982] and shall apply to claims to original, supplementary, and renewal copyright received for registration in the Copyright Office on or after the effective date. Claims to original, supplementary, and renewal copyright received for registration in acceptable form in the Copyright Office before the effective date shall be governed by the provisions of section 708(a)(1) and (2) in effect prior to this enactment.”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–94, title IV, § 406(b), Aug. 5, 1977, 91 Stat. 682, provided that the amendment made by section 406(b) is effective Jan. 1, 1978.
+Pub. L. 95–94, title IV, § 406(b), Aug. 5, 1977, 91 Stat. 682, provided that the amendment made by section 406(b) is effective Jan. 1, 1978.
 
 **Carry-over of Existing Fees**
 
-Pub. L. 106–379, § 3(c)(2), Oct. 27, 2000, 114 Stat. 1446, provided that: “The fees under section 708(a) of title 17, United States Code, on the date of the enactment of this Act [Oct. 27, 2000] shall be the fees in effect under section 708(a) of such title on the day before such date of enactment.”
+Pub. L. 106–379, § 3(c)(2), Oct. 27, 2000, 114 Stat. 1446, provided that: “The fees under section 708(a) of title 17, United States Code, on the date of the enactment of this Act [Oct. 27, 2000] shall be the fees in effect under section 708(a) of such title on the day before such date of enactment.”
 
-## § 709. Delay in delivery caused by disruption of postal or other services
+## § 709. Delay in delivery caused by disruption of postal or other services
 
 In any case in which the Register of Copyrights determines, on the basis of such evidence as the Register may by regulation require, that a deposit, application, fee, or any other material to be delivered to the Copyright Office by a particular date, would have been received in the Copyright Office in due time except for a general disruption or suspension of postal or other transportation or communications services, the actual receipt of such material in the Copyright Office within one month after the date on which the Register determines that the disruption or suspension of such services has terminated, shall be considered timely.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2594.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2594.)
 
-## § 710. Emergency relief authority
+## § 710. Emergency relief authority
 
 **(a) Emergency Action.—** If, on or before December 31, 2021, the Register of Copyrights determines that a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) generally disrupts or suspends the ordinary functioning of the copyright system under this title, or any component thereof, including on a regional basis, the Register may, on a temporary basis, toll, waive, adjust, or modify any timing provision (including any deadline or effective period, except as provided in subsection (c)) or procedural provision contained in this title or chapters II or III of title 37, Code of Federal Regulations, for no longer than the Register reasonably determines to be appropriate to mitigate the impact of the disruption caused by the national emergency. In taking such action, the Register shall consider the scope and severity of the particular national emergency, and its specific effect with respect to the particular provision, and shall tailor any remedy accordingly.
 
@@ -393,9 +393,9 @@ In any case in which the Register of Copyrights determines, on the basis of such
 
 **(c) Statement Required.—** Except as provided in subsection (d), not later than 20 days after taking any action that results in a provision being modified for a cumulative total of longer than 120 days, the Register shall submit to Congress a statement detailing the action taken, the relevant background, and rationale for the action.
 
-**(d) Exceptions.—** The authority of the Register to act under subsection (a) does not extend 1
+**(d) Exceptions.—** The authority of the Register to act under subsection (a) does not extend 1
 
-<sup>1</sup>  So in original. Probably should be followed by “to”.
+<sup>1</sup> So in original. Probably should be followed by “to”.
 
 provisions under this title requiring the commencement of an action or proceeding in Federal court within a specified period of time, except that if the Register adjusts the license availability date defined in section 115(e)(15), such adjustment shall not affect the ability to commence actions for any claim of infringement of exclusive rights provided by paragraphs (1) and (3) of section 106 against a digital music provider arising from the unauthorized reproduction or distribution of a musical work by such digital music provider in the course of engaging in covered activities that accrued after January 1, 2018, provided that such action is commenced within the time periods prescribed under section 115(d)(10)(C)(i) or 115(d)(10)(C)(ii) as calculated from the adjusted license availability date. If the Register adjusts the license availability date, the Register must provide the statement to Congress under subsection (c) at the same time as the public notice of such adjustment with a detailed explanation of why such adjustment is needed.
 
@@ -403,14 +403,14 @@ provisions under this title requiring the commencement of an action or proceedin
 
 **(f) Other Laws.—** Notwithstanding section 301 of the National Emergencies Act (50 U.S.C. 1631), the authority of the Register under subsection (a) is not contingent on a specification made by the President under such section or any other requirement under that Act (other than the emergency declaration under section 201(a) of such Act (50 U.S.C. 1621(a))). The authority described in this section supersedes the authority of title II of the National Emergencies Act (50 U.S.C. 1621 et seq.).
 
-(Added Pub. L. 116–136, div. B, title IX, § 19011(a), Mar. 27, 2020, 134 Stat. 581.)
+(Added Pub. L. 116–136, div. B, title IX, § 19011(a), Mar. 27, 2020, 134 Stat. 581.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in subsecs. (a) and (f), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. Title II of the Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsecs. (a) and (f), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. Title II of the Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 **Prior Provisions**
 
-A prior section 710, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2594, related to forms and procedures for granting the Library of Congress licenses to reproduce works for the blind and physically handicapped, prior to repeal by Pub. L. 106–379, § 3(a)(1), Oct. 27, 2000, 114 Stat. 1445.
+A prior section 710, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2594, related to forms and procedures for granting the Library of Congress licenses to reproduce works for the blind and physically handicapped, prior to repeal by Pub. L. 106–379, § 3(a)(1), Oct. 27, 2000, 114 Stat. 1445.

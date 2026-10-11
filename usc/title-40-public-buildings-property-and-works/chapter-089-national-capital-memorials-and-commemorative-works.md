@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 89—NATIONAL CAPITAL MEMORIALS AND COMMEMORATIVE WORKS
 
-## § 8901. Purposes
+## § 8901. Purposes
 
 The purposes of this chapter are—
 
@@ -31,13 +31,13 @@ The purposes of this chapter are—
 
 **(B)** reflect a consensus of the lasting national significance of the subjects involved.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227; Pub. L. 108–126, title II, § 203(a), Nov. 17, 2003, 117 Stat. 1349.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227; Pub. L. 108–126, title II, § 203(a), Nov. 17, 2003, 117 Stat. 1349.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8901 | 40:1001. | Pub. L. 99–652, § 1, Nov. 14, 1986, 100 Stat. 3650. |
+| 8901 | 40:1001. | Pub. L. 99–652, § 1, Nov. 14, 1986, 100 Stat. 3650. |
 
 **Editorial Notes**
 
@@ -49,11 +49,11 @@ The purposes of this chapter are—
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–126, title II, § 205, Nov. 17, 2003, 117 Stat. 1353, provided that: “Except for the provision in the amendment made by section 202(b) [amending section 8908 of this title] prohibiting a visitor center from being located in the Reserve (as defined in section 8902 of title 40, United States Code), nothing in this title [see Short Title of 2003 Amendment note set out under section 101 of this title] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title [Nov. 17, 2003].”
+Pub. L. 108–126, title II, § 205, Nov. 17, 2003, 117 Stat. 1353, provided that: “Except for the provision in the amendment made by section 202(b) [amending section 8908 of this title] prohibiting a visitor center from being located in the Reserve (as defined in section 8902 of title 40, United States Code), nothing in this title [see Short Title of 2003 Amendment note set out under section 101 of this title] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title [Nov. 17, 2003].”
 
 **Findings**
 
-Pub. L. 108–126, title II, § 202(a), Nov. 17, 2003, 117 Stat. 1349, provided that:
+Pub. L. 108–126, title II, § 202(a), Nov. 17, 2003, 117 Stat. 1349, provided that:
 
 > “Congress finds that—
 
@@ -61,7 +61,7 @@ Pub. L. 108–126, title II, § 202(a), Nov. 17, 2003, 117 Stat. 1349, provide
 
 > **“(2)** to preserve the integrity of the Mall, a reserve area should be designated within the core of the great cross-axis of the Mall where the siting of new commemorative works is prohibited.”
 
-## § 8902. Definitions and nonapplication
+## § 8902. Definitions and nonapplication
 
 **(a) Definitions.—** In this chapter:
 
@@ -75,14 +75,14 @@ Pub. L. 108–126, title II, § 202(a), Nov. 17, 2003, 117 Stat. 1349, provide
 
 **(b) Nonapplication.—** This chapter does not apply to commemorative works authorized by a law enacted before January 3, 1985.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227; Pub. L. 108–126, title II, § 203(b), Nov. 17, 2003, 117 Stat. 1350.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227; Pub. L. 108–126, title II, § 203(b), Nov. 17, 2003, 117 Stat. 1350.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8902(a) | 40:1002. | Pub. L. 99–652, § 2, Nov. 14, 1986, 100 Stat. 3650; Pub. L. 103–321, § 2(a), Aug. 26, 1994, 108 Stat. 1793. |
-| 8902(b) | 40:1010(e). | Pub. L. 99–652, § 10(e), Nov. 14, 1986, 100 Stat. 3654. |
+| 8902(a) | 40:1002. | Pub. L. 99–652, § 2, Nov. 14, 1986, 100 Stat. 3650; Pub. L. 103–321, § 2(a), Aug. 26, 1994, 108 Stat. 1793. |
+| 8902(b) | 40:1010(e). | Pub. L. 99–652, § 10(e), Nov. 14, 1986, 100 Stat. 3654. |
 
 In subsection (a), the text of 40:1002(a) and (b) is omitted as unnecessary because the complete names of the Secretary of the Interior and the Administrator of General Services are used the first time the terms appear in a section.
 
@@ -124,7 +124,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(4),
 
 Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 
-## § 8903. Congressional authorization of commemorative works
+## § 8903. Congressional authorization of commemorative works
 
 **(a) In General.—** Commemorative works—
 
@@ -150,17 +150,17 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 
 If these two conditions have been met, the Secretary or the Administrator (as appropriate) may extend the seven-year legislative authority for a period not to exceed three additional years. Upon expiration of the legislative authority, any previous site and design approvals shall also expire.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1228; Pub. L. 108–126, title II, § 203(c), Nov. 17, 2003, 117 Stat. 1350; Pub. L. 111–11, title VII, § 7116(e)(1), Mar. 30, 2009, 123 Stat. 1203.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1228; Pub. L. 108–126, title II, § 203(c), Nov. 17, 2003, 117 Stat. 1350; Pub. L. 111–11, title VII, § 7116(e)(1), Mar. 30, 2009, 123 Stat. 1203.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8903(a) | 40:1003(a). | Pub. L. 99–652, § 3, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 100–202, § 101(f) [title II, § 3], Dec. 22, 1987, 101 Stat. 1329–196; Pub. L. 100–230, § 3, Jan. 5, 1988, 101 Stat. 1564; Pub. L. 103–321, § 2(b), Aug. 26, 1994, 108 Stat. 1793; Pub. L 104–186, title II, § 221(18), Aug. 20, 1996, 110 Stat. 1750. |
+| 8903(a) | 40:1003(a). | Pub. L. 99–652, § 3, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 100–202, § 101(f) [title II, § 3], Dec. 22, 1987, 101 Stat. 1329–196; Pub. L. 100–230, § 3, Jan. 5, 1988, 101 Stat. 1564; Pub. L. 103–321, § 2(b), Aug. 26, 1994, 108 Stat. 1793; Pub. L 104–186, title II, § 221(18), Aug. 20, 1996, 110 Stat. 1750. |
 | 8903(b) | 40:1003(b). |  |
 | 8903(c) | 40:1003(c). |  |
 | 8903(d) | 40:1003(d). |  |
-| 8903(e) | 40:1010(b). | Pub. L. 99–652, § 10(b), Nov. 14, 1986, 100 Stat. 3654; Pub. L. 102–216, § 1, Dec. 11, 1991, 105 Stat. 1666. |
+| 8903(e) | 40:1010(b). | Pub. L. 99–652, § 10(b), Nov. 14, 1986, 100 Stat. 3654; Pub. L. 102–216, § 1, Dec. 11, 1991, 105 Stat. 1666. |
 
 In subsection (a)(1), the words “in the District of Columbia and its environs” are omitted as unnecessary.
 
@@ -172,11 +172,11 @@ In subsection (d), the words “House Administration” are substituted for “H
 
 2009—Subsec. (d). Pub. L. 111–11, which directed insertion of “Natural” before “Resources”, was executed by making the insertion before “Resources of the House”, to reflect the probable intent of Congress.
 
-2003—Subsec. (b). Pub. L. 108–126, § 203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
+2003—Subsec. (b). Pub. L. 108–126, § 203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
 
-Subsec. (d). Pub. L. 108–126, § 203(c)(2), substituted “Memorial Advisory Commission” for “Memorial Commission” in heading, and in text substituted “Resources” for “House Administration” and inserted “Advisory” before “Commission”.
+Subsec. (d). Pub. L. 108–126, § 203(c)(2), substituted “Memorial Advisory Commission” for “Memorial Commission” in heading, and in text substituted “Resources” for “House Administration” and inserted “Advisory” before “Commission”.
 
-Subsec. (e). Pub. L. 108–126, § 203(c)(3), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.”
+Subsec. (e). Pub. L. 108–126, § 203(c)(3), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,53 +187,53 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 <table>
 <tr><th>Commemorative Works</th></tr>
 <tr><th></th></tr>
-<tr><td>Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, § 142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, § 1, May 24, 2010, 124 Stat. 1192; Pub. L. 113–291, div. B, title XXX, § 3094, Dec. 19, 2014, 128 Stat. 3880; Pub. L. 116–9, title II, § 2406, Mar. 12, 2019, 133 Stat. 748.</td></tr>
+<tr><td>Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, § 142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, § 1, May 24, 2010, 124 Stat. 1192; Pub. L. 113–291, div. B, title XXX, § 3094, Dec. 19, 2014, 128 Stat. 3880; Pub. L. 116–9, title II, § 2406, Mar. 12, 2019, 133 Stat. 748.</td></tr>
 <tr><td>African-Americans Civil War Union Memorial.—Pub. L. 102–412, Oct. 14, 1992, 106 Stat. 2104.</td></tr>
-<tr><td>Air Force Memorial.—Pub. L. 103–163, Dec. 2, 1993, 107 Stat. 1973; Pub. L. 106–302, Oct. 13, 2000, 114 Stat. 1062; Pub. L. 107–107, div. B, title XXVIII, § 2863(a)–(e), Dec. 28, 2001, 115 Stat. 1330–1332; Pub. L. 118–31, div. B, title XXVIII, § 2884, Dec. 22, 2023, 137 Stat. 782.</td></tr>
+<tr><td>Air Force Memorial.—Pub. L. 103–163, Dec. 2, 1993, 107 Stat. 1973; Pub. L. 106–302, Oct. 13, 2000, 114 Stat. 1062; Pub. L. 107–107, div. B, title XXVIII, § 2863(a)–(e), Dec. 28, 2001, 115 Stat. 1330–1332; Pub. L. 118–31, div. B, title XXVIII, § 2884, Dec. 22, 2023, 137 Stat. 782.</td></tr>
 <tr><td>American Armored Force Memorial.—Pub. L. 99–620, Nov. 6, 1986, 100 Stat. 3493.</td></tr>
-<tr><td>Armed Forces Members Killed in Attack on Hamid Karzai International Airport, Kabul, Afghanistan, on Aug. 26, 2021, Commemorative Work.—Pub. L. 117–81, div. A, title X, § 1087, Dec. 27, 2021, 135 Stat. 1924; Pub. L. 117–263, div. A, title X, § 1084, Dec. 23, 2022, 136 Stat. 2800.</td></tr>
-<tr><td>Benjamin Banneker Memorial.—Pub. L. 105–355, title V, § 512, Nov. 6, 1998, 112 Stat. 3266.</td></tr>
-<tr><td>Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, § 101(h) [title I, § 118], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 118], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 99–590, title VIII, §§ 801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 103–321, § 1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, § 506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, § 1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926; Pub. L. 112–239, div. B, title XXVIII, § 2860, Jan. 2, 2013, 126 Stat. 2164; Pub. L. 113–176, Sept. 26, 2014, 128 Stat. 1910; Pub. L. 117–328, div. DD, title VII, § 703, Dec. 29, 2022, 136 Stat. 5618.</td></tr>
-<tr><td>Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, § 331, May 8, 2008, 122 Stat. 781; Pub. L. 114–92, div. B, title XXVIII, § 2852, Nov. 25, 2015, 129 Stat. 1184.</td></tr>
-<tr><td>Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, § 201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, § 1, Oct. 25, 2007, 121 Stat. 1022.</td></tr>
-<tr><td>Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, § 437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, § 423(a), Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–113, div. G, title IV, § 419(a), Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–31, div. G, title IV, § 419, May 5, 2017, 131 Stat. 498.</td></tr>
-<tr><td>Enslaved Individuals Who Endured the Middle Passage Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 707, Dec. 29, 2022, 136 Stat. 5620.</td></tr>
+<tr><td>Armed Forces Members Killed in Attack on Hamid Karzai International Airport, Kabul, Afghanistan, on Aug. 26, 2021, Commemorative Work.—Pub. L. 117–81, div. A, title X, § 1087, Dec. 27, 2021, 135 Stat. 1924; Pub. L. 117–263, div. A, title X, § 1084, Dec. 23, 2022, 136 Stat. 2800.</td></tr>
+<tr><td>Benjamin Banneker Memorial.—Pub. L. 105–355, title V, § 512, Nov. 6, 1998, 112 Stat. 3266.</td></tr>
+<tr><td>Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, § 101(h) [title I, § 118], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 118], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 99–590, title VIII, §§ 801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 103–321, § 1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, § 506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, § 1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926; Pub. L. 112–239, div. B, title XXVIII, § 2860, Jan. 2, 2013, 126 Stat. 2164; Pub. L. 113–176, Sept. 26, 2014, 128 Stat. 1910; Pub. L. 117–328, div. DD, title VII, § 703, Dec. 29, 2022, 136 Stat. 5618.</td></tr>
+<tr><td>Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, § 331, May 8, 2008, 122 Stat. 781; Pub. L. 114–92, div. B, title XXVIII, § 2852, Nov. 25, 2015, 129 Stat. 1184.</td></tr>
+<tr><td>Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, § 201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, § 1, Oct. 25, 2007, 121 Stat. 1022.</td></tr>
+<tr><td>Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, § 437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, § 423(a), Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–113, div. G, title IV, § 419(a), Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–31, div. G, title IV, § 419, May 5, 2017, 131 Stat. 498.</td></tr>
+<tr><td>Enslaved Individuals Who Endured the Middle Passage Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 707, Dec. 29, 2022, 136 Stat. 5620.</td></tr>
 <tr><td>Every Word We Utter Commemorative Work.—Pub. L. 116–217, Dec. 17, 2020, 134 Stat. 1052; Pub. L. 118–226, Jan. 4, 2025, 138 Stat. 2819.</td></tr>
-<tr><td>Fallen Journalists Memorial.—Pub. L. 116–253, Dec. 23, 2020, 134 Stat. 1135; Pub. L. 117–328, div. DD, title VII, § 708, Dec. 29, 2022, 136 Stat. 5620.</td></tr>
-<tr><td>First Division Monument.—Pub. L. 116–283, div. A, title X, § 1083, Jan. 1, 2021, 134 Stat. 3875.</td></tr>
+<tr><td>Fallen Journalists Memorial.—Pub. L. 116–253, Dec. 23, 2020, 134 Stat. 1135; Pub. L. 117–328, div. DD, title VII, § 708, Dec. 29, 2022, 136 Stat. 5620.</td></tr>
+<tr><td>First Division Monument.—Pub. L. 116–283, div. A, title X, § 1083, Jan. 1, 2021, 134 Stat. 3875.</td></tr>
 <tr><td>Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022.</td></tr>
 <tr><td>Frederick Douglass Memorial and Gardens.—Pub. L. 106–479, Nov. 9, 2000, 114 Stat. 2184.</td></tr>
-<tr><td>George Mason Memorial.—Pub. L. 101–358, Aug. 10, 1990, 104 Stat. 419; Pub. L. 102–277, Apr. 28, 1992, 106 Stat. 127; Pub. L. 105–182, § 1, June 19, 1998, 112 Stat. 516.</td></tr>
-<tr><td>Gold Star Mothers Commemorative Work.—Pub. L. 112–239, div. B, title XXVIII, § 2859, Jan. 2, 2013, 126 Stat. 2164.</td></tr>
-<tr><td>Heroic Deeds and Sacrifices of Service Animals and Handlers of Service Animals Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 704, Dec. 29, 2022, 136 Stat. 5618.</td></tr>
-<tr><td>Japanese American Patriotism in World War II Memorial.—Pub. L. 102–502, Oct. 24, 1992, 106 Stat. 3273; Pub. L. 104–333, div. I, title V, § 514, Nov. 12, 1996, 110 Stat. 4165.</td></tr>
-<tr><td>Jean Monnet Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 705, Dec. 29, 2022, 136 Stat. 5619.</td></tr>
-<tr><td>Korean War Veterans Memorial.—Pub. L. 99–572, Oct. 28, 1986, 100 Stat. 3226; Pub. L. 100–202, § 101(f) [title II, §§ 1, 2], Dec. 22, 1987, 101 Stat. 1329–195, 1329–196; Pub. L. 100–230, §§ 1, 2, Jan. 5, 1988, 101 Stat. 1563; Pub. L. 100–267, Mar. 28, 1988, 102 Stat. 41; Pub. L. 105–262, title VIII, § 8122, Oct. 17, 1998, 112 Stat. 2332.</td></tr>
+<tr><td>George Mason Memorial.—Pub. L. 101–358, Aug. 10, 1990, 104 Stat. 419; Pub. L. 102–277, Apr. 28, 1992, 106 Stat. 127; Pub. L. 105–182, § 1, June 19, 1998, 112 Stat. 516.</td></tr>
+<tr><td>Gold Star Mothers Commemorative Work.—Pub. L. 112–239, div. B, title XXVIII, § 2859, Jan. 2, 2013, 126 Stat. 2164.</td></tr>
+<tr><td>Heroic Deeds and Sacrifices of Service Animals and Handlers of Service Animals Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 704, Dec. 29, 2022, 136 Stat. 5618.</td></tr>
+<tr><td>Japanese American Patriotism in World War II Memorial.—Pub. L. 102–502, Oct. 24, 1992, 106 Stat. 3273; Pub. L. 104–333, div. I, title V, § 514, Nov. 12, 1996, 110 Stat. 4165.</td></tr>
+<tr><td>Jean Monnet Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 705, Dec. 29, 2022, 136 Stat. 5619.</td></tr>
+<tr><td>Korean War Veterans Memorial.—Pub. L. 99–572, Oct. 28, 1986, 100 Stat. 3226; Pub. L. 100–202, § 101(f) [title II, §§ 1, 2], Dec. 22, 1987, 101 Stat. 1329–195, 1329–196; Pub. L. 100–230, §§ 1, 2, Jan. 5, 1988, 101 Stat. 1563; Pub. L. 100–267, Mar. 28, 1988, 102 Stat. 41; Pub. L. 105–262, title VIII, § 8122, Oct. 17, 1998, 112 Stat. 2332.</td></tr>
 <tr><td>Korean War Veterans Memorial Wall of Remembrance.—Pub. L. 114–230, Oct. 7, 2016, 130 Stat. 947.</td></tr>
-<tr><td>Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409; Pub. L. 108–352, § 4, Oct. 21, 2004, 118 Stat. 1395.</td></tr>
-<tr><td>Mahatma Gandhi Memorial.—Pub. L. 105–284, § 1, Oct. 26, 1998, 112 Stat. 2701.</td></tr>
-<tr><td>Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, § 508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, § 1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, § 108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, § 1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, § 134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, § 301, Dec. 2, 2008, 122 Stat. 5034; Pub. L. 111–88, div. A, title I, § 129, Oct. 30, 2009, 123 Stat. 2933.</td></tr>
+<tr><td>Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409; Pub. L. 108–352, § 4, Oct. 21, 2004, 118 Stat. 1395.</td></tr>
+<tr><td>Mahatma Gandhi Memorial.—Pub. L. 105–284, § 1, Oct. 26, 1998, 112 Stat. 2701.</td></tr>
+<tr><td>Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, § 508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, § 1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, § 108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, § 1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, § 134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, § 301, Dec. 2, 2008, 122 Stat. 5034; Pub. L. 111–88, div. A, title I, § 129, Oct. 30, 2009, 123 Stat. 2933.</td></tr>
 <tr><td>Medal of Honor Recipients Commemorative Work.—Pub. L. 117–80, Dec. 27, 2021, 135 Stat. 1539.</td></tr>
-<tr><td>National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, § 3093, Dec. 19, 2014, 128 Stat. 3879; Pub. L. 115–18, Mar. 31, 2017, 131 Stat. 82.</td></tr>
-<tr><td>National Emergency Medical Services Memorial.—Pub. L. 115–275, § 1, Nov. 3, 2018, 132 Stat. 4164.</td></tr>
-<tr><td>National Global War on Terrorism Memorial.—Pub. L. 115–51, Aug. 18, 2017, 131 Stat. 1003; Pub. L. 117–81, div. F, title LXVI, § 6605, Dec. 27, 2021, 135 Stat. 2442.</td></tr>
-<tr><td>National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, § 1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.</td></tr>
-<tr><td>Peace Corps Memorial.—Pub. L. 113–78, § 1, Jan. 24, 2014, 128 Stat. 647; Pub. L. 116–318, Jan. 5, 2021, 134 Stat. 5069.</td></tr>
+<tr><td>National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, § 3093, Dec. 19, 2014, 128 Stat. 3879; Pub. L. 115–18, Mar. 31, 2017, 131 Stat. 82.</td></tr>
+<tr><td>National Emergency Medical Services Memorial.—Pub. L. 115–275, § 1, Nov. 3, 2018, 132 Stat. 4164.</td></tr>
+<tr><td>National Global War on Terrorism Memorial.—Pub. L. 115–51, Aug. 18, 2017, 131 Stat. 1003; Pub. L. 117–81, div. F, title LXVI, § 6605, Dec. 27, 2021, 135 Stat. 2442.</td></tr>
+<tr><td>National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, § 1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.</td></tr>
+<tr><td>Peace Corps Memorial.—Pub. L. 113–78, § 1, Jan. 24, 2014, 128 Stat. 647; Pub. L. 116–318, Jan. 5, 2021, 134 Stat. 5069.</td></tr>
 <tr><td>Republic of Texas Legation Memorial.—Pub. L. 116–248, Dec. 22, 2020, 134 Stat. 1124.</td></tr>
-<tr><td>Second Division Memorial.—Act Mar. 3, 1931, ch. 451, 46 Stat. 1515; Pub. L. 115–91, div. A, title III, § 352, Dec. 12, 2017, 131 Stat. 1367; Pub. L. 115–141, div. G, title I, § 121(a)(1) [div. B, title VII, § 7130], Mar. 23, 2018, 132 Stat. 661, 1225A–3.</td></tr>
-<tr><td>Thomas Paine Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 709, Dec. 29, 2022, 136 Stat. 5621.</td></tr>
-<tr><td>Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 142], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.</td></tr>
+<tr><td>Second Division Memorial.—Act Mar. 3, 1931, ch. 451, 46 Stat. 1515; Pub. L. 115–91, div. A, title III, § 352, Dec. 12, 2017, 131 Stat. 1367; Pub. L. 115–141, div. G, title I, § 121(a)(1) [div. B, title VII, § 7130], Mar. 23, 2018, 132 Stat. 661, 1225A–3.</td></tr>
+<tr><td>Thomas Paine Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 709, Dec. 29, 2022, 136 Stat. 5621.</td></tr>
+<tr><td>Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 142], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.</td></tr>
 <tr><td>Tomas G. Masaryk Memorial.—Pub. L. 107–61, Nov. 5, 2001, 115 Stat. 410.</td></tr>
 <tr><td>Ukrainian Famine-Genocide Victims Memorial.—Pub. L. 109–340, Oct. 13, 2006, 120 Stat. 1864.</td></tr>
-<tr><td>Victims of Communism Memorial.—Pub. L. 103–199, title IX, § 905, Dec. 17, 1993, 107 Stat. 2331; Pub. L. 105–277, div. A, § 101(e) [title III, § 326], Oct. 21, 1998, 112 Stat. 2681–231, 2681–291.</td></tr>
+<tr><td>Victims of Communism Memorial.—Pub. L. 103–199, title IX, § 905, Dec. 17, 1993, 107 Stat. 2331; Pub. L. 105–277, div. A, § 101(e) [title III, § 326], Oct. 21, 1998, 112 Stat. 2681–231, 2681–291.</td></tr>
 <tr><td>Vietnam Women’s Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pub. L. 101–187, Nov. 28, 1989, 103 Stat. 1350.</td></tr>
-<tr><td>Women in Military Service for America Memorial.—Pub. L. 99–500, § 101(h) [title I, § 117], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 117], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§ 901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, § 1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, § 2855, Oct. 5, 1994, 108 Stat. 3073; Pub. L. 116–92, div. B, title XXVIII, § 2834(e)(3)(B), Dec. 20, 2019, 133 Stat. 1894.</td></tr>
-<tr><td>Women Who Worked on the Home Front Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 702, Dec. 29, 2022, 136 Stat. 5617.</td></tr>
-<tr><td>World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, § 652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, § 601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19.</td></tr>
+<tr><td>Women in Military Service for America Memorial.—Pub. L. 99–500, § 101(h) [title I, § 117], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 117], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§ 901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, § 1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, § 2855, Oct. 5, 1994, 108 Stat. 3073; Pub. L. 116–92, div. B, title XXVIII, § 2834(e)(3)(B), Dec. 20, 2019, 133 Stat. 1894.</td></tr>
+<tr><td>Women Who Worked on the Home Front Commemorative Work.—Pub. L. 117–328, div. DD, title VII, § 702, Dec. 29, 2022, 136 Stat. 5617.</td></tr>
+<tr><td>World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, § 652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, § 601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19.</td></tr>
 <tr><td>World War II Memorial Prayer Plaque.—Pub. L. 113–123, June 30, 2014, 128 Stat. 1377.</td></tr>
 </table>
 
-## § 8904. National Capital Memorial Advisory Commission
+## § 8904. National Capital Memorial Advisory Commission
 
 **(a) Establishment and Composition.—** There is established the National Capital Memorial Advisory Commission, which shall be composed of—
 
@@ -259,13 +259,13 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 
 **(d) Meetings.—** The National Capital Memorial Advisory Commission shall meet at least twice annually.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1229; Pub. L. 108–126, title II, § 203(d), Nov. 17, 2003, 117 Stat. 1351; Pub. L. 111–11, title VII, § 7116(e)(2), Mar. 30, 2009, 123 Stat. 1203.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1229; Pub. L. 108–126, title II, § 203(d), Nov. 17, 2003, 117 Stat. 1351; Pub. L. 111–11, title VII, § 7116(e)(2), Mar. 30, 2009, 123 Stat. 1203.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8904(a), (b) | 40:1004(a). | Pub. L. 99–652, § 4, Nov. 14, 1986, 100 Stat. 3651. |
+| 8904(a), (b) | 40:1004(a). | Pub. L. 99–652, § 4, Nov. 14, 1986, 100 Stat. 3651. |
 | 8904(c) | 40:1004(b) (1st sentence). |  |
 | 8904(d) | 40:1004(b) (last sentence). |  |
 
@@ -275,13 +275,13 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 
 2009—Subsec. (b). Pub. L. 111–11 inserted “Advisory” before “Commission”.
 
-2003—Pub. L. 108–126, § 203(d)(1), inserted “Advisory” before “Commission” in section catchline.
+2003—Pub. L. 108–126, § 203(d)(1), inserted “Advisory” before “Commission” in section catchline.
 
-Subsec. (a). Pub. L. 108–126, § 203(d)(2), substituted “There is established the National Capital Memorial Advisory Commission, which shall be composed of” for “There is a National Capital Memorial Commission. The membership of the Commission consists of” in introductory provisions.
+Subsec. (a). Pub. L. 108–126, § 203(d)(2), substituted “There is established the National Capital Memorial Advisory Commission, which shall be composed of” for “There is a National Capital Memorial Commission. The membership of the Commission consists of” in introductory provisions.
 
-Subsec. (c). Pub. L. 108–126, § 203(d)(3), inserted “Advisory” before “Commission shall” and substituted “Services (as appropriate)” for “Services”.
+Subsec. (c). Pub. L. 108–126, § 203(d)(3), inserted “Advisory” before “Commission shall” and substituted “Services (as appropriate)” for “Services”.
 
-Subsec. (d). Pub. L. 108–126, § 203(d)(4), inserted “Advisory” before “Commission”.
+Subsec. (d). Pub. L. 108–126, § 203(d)(4), inserted “Advisory” before “Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,7 +293,7 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 
 Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 8905. Site and design approval
+## § 8905. Site and design approval
 
 **(a) Consultation on, and Submission of, Proposals.—** A sponsor authorized by law to establish a commemorative work in the District of Columbia and its environs may request a permit for construction of the commemorative work only after the following requirements are met:
 
@@ -317,7 +317,7 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 
 **(5) Museums.—** No commemorative work primarily designed as a museum may be located on lands under the jurisdiction of the Secretary in Area I or in East Potomac Park as depicted on the map referenced in section 8902(2).1
 
-<sup>1</sup>  So in original. Probably should be section “8902(a)(2).”
+<sup>1</sup> So in original. Probably should be section “8902(a)(2).”
 
 **(6) Site-specific guidelines.—** The National Capital Planning Commission and the Commission of Fine Arts may develop such criteria or guidelines specific to each site that are mutually agreed upon to ensure that the design of the commemorative work carries out the purposes of this chapter.
 
@@ -355,32 +355,32 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 
 **(5) Applicability.—** This subsection shall apply to any commemorative work dedicated after January 1, 2010.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1229; Pub. L. 108–126, title II, §§ 203(e), 204, Nov. 17, 2003, 117 Stat. 1351, 1352; Pub. L. 113–291, div. B, title XXX, § 3054(c), Dec. 19, 2014, 128 Stat. 3807.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1229; Pub. L. 108–126, title II, §§ 203(e), 204, Nov. 17, 2003, 117 Stat. 1351, 1352; Pub. L. 113–291, div. B, title XXX, § 3054(c), Dec. 19, 2014, 128 Stat. 3807.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8905(a) | 40:1007(a). | Pub. L. 99–652, § 7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, § 2(d), Aug. 26, 1994, 108 Stat. 1794. |
+| 8905(a) | 40:1007(a). | Pub. L. 99–652, § 7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, § 2(d), Aug. 26, 1994, 108 Stat. 1794. |
 | 8905(b) | 40:1007(b). |  |
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (b)(7). Pub. L. 113–291, § 3054(c)(1), struck out par. (7). Text read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
+2014—Subsec. (b)(7). Pub. L. 113–291, § 3054(c)(1), struck out par. (7). Text read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
 
-Subsec. (c). Pub. L. 113–291, § 3054(c)(2), added subsec. (c).
+Subsec. (c). Pub. L. 113–291, § 3054(c)(2), added subsec. (c).
 
-2003—Subsec. (a). Pub. L. 108–126, § 203(e)(1)(A), substituted “sponsor” for “person” wherever appearing.
+2003—Subsec. (a). Pub. L. 108–126, § 203(e)(1)(A), substituted “sponsor” for “person” wherever appearing.
 
-Subsec. (a)(1). Pub. L. 108–126, § 203(e)(1)(B), inserted “Advisory” before “Commission” and substituted “design concepts” for “designs”.
+Subsec. (a)(1). Pub. L. 108–126, § 203(e)(1)(B), inserted “Advisory” before “Commission” and substituted “design concepts” for “designs”.
 
-Subsec. (b). Pub. L. 108–126, § 203(e)(2)(A), substituted “and the Secretary or Administrator (as appropriate)” for “Secretary, and Administrator” in introductory provisions.
+Subsec. (b). Pub. L. 108–126, § 203(e)(2)(A), substituted “and the Secretary or Administrator (as appropriate)” for “Secretary, and Administrator” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 108–126, § 203(e)(2)(B), substituted “open space, existing public use, and cultural and natural resources.” for “open space and existing public use.”
+Subsec. (b)(2)(B). Pub. L. 108–126, § 203(e)(2)(B), substituted “open space, existing public use, and cultural and natural resources.” for “open space and existing public use.”
 
-Subsec. (b)(5) to (7). Pub. L. 108–126, § 204, added pars. (5) to (7).
+Subsec. (b)(5) to (7). Pub. L. 108–126, § 204, added pars. (5) to (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -388,7 +388,7 @@ Subsec. (b)(5) to (7). Pub. L. 108–126, § 204, added pars. (5) to (7).
 
 Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 
-## § 8906. Criteria for issuance of construction permit
+## § 8906. Criteria for issuance of construction permit
 
 **(a) Criteria for Issuing Permit.—** Before issuing a permit for the construction of a commemorative work in the District of Columbia and its environs, the Secretary of the Interior or Administrator of General Services, as appropriate, shall determine that—
 
@@ -414,13 +414,13 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 
 **(d) Annual Report.—** The person authorized to construct a commemorative work under this chapter must submit to the Secretary of the Interior or Administrator an annual report of operations, including financial statements audited by an independent certified public accountant. The person shall pay for the report.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1230; Pub. L. 108–126, title II, § 203(f), Nov. 17, 2003, 117 Stat. 1351.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1230; Pub. L. 108–126, title II, § 203(f), Nov. 17, 2003, 117 Stat. 1351.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8906(a) | 40:1008(a). | Pub. L. 99–652, § 8, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, § 2(e), Aug. 26, 1994, 108 Stat. 1794. |
+| 8906(a) | 40:1008(a). | Pub. L. 99–652, § 8, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, § 2(e), Aug. 26, 1994, 108 Stat. 1794. |
 | 8906(b)(1) | 40:1008(b) (words before proviso), cl. (1). |  |
 | 8906(b)(2), (3) | 40:1008(b)(2). |  |
 | 8906(b)(4) | 40:1008(b) (proviso). |  |
@@ -439,9 +439,9 @@ The date of enactment of the Commemorative Works Clarification and Revision Act 
 
 **Amendments**
 
-2003—Subsec. (a)(3), (4). Pub. L. 108–126, § 203(f)(1), substituted “sponsor” for “person”.
+2003—Subsec. (a)(3), (4). Pub. L. 108–126, § 203(f)(1), substituted “sponsor” for “person”.
 
-Subsec. (b). Pub. L. 108–126, § 203(f)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+Subsec. (b). Pub. L. 108–126, § 203(f)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
 “(1) Amount.—In addition to the criteria described in subsection (a), a construction permit may not be issued unless the person authorized to construct the commemorative work has donated an amount equal to 10 percent of the total estimated cost of construction to offset the costs of perpetual maintenance and preservation of the commemorative work. The amounts shall be credited to a separate account in the Treasury.
 
@@ -457,7 +457,7 @@ Subsec. (b). Pub. L. 108–126, § 203(f)(2), added subsec. (b) and struck out
 
 Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 
-## § 8907. Temporary site designation
+## § 8907. Temporary site designation
 
 **(a) Criterion for Designation.—** If the Secretary of the Interior, in consultation with the National Capital Memorial Commission, determines that a site where commemorative works may be displayed on a temporary basis is necessary to aid in the preservation of the limited amount of open space available to residents of, and visitors to, the Nation’s Capital, a site may be designated on land the Secretary administers in the District of Columbia.
 
@@ -471,11 +471,11 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8907(a) | 40:1009(a) (1st sentence). | Pub. L. 99–652, § 9, Nov. 14, 1986, 100 Stat. 3653; Pub. L. 103–321, § 2(f), Aug. 26, 1994, 108 Stat. 1795. |
+| 8907(a) | 40:1009(a) (1st sentence). | Pub. L. 99–652, § 9, Nov. 14, 1986, 100 Stat. 3653; Pub. L. 103–321, § 2(f), Aug. 26, 1994, 108 Stat. 1795. |
 | 8907(b) | 40:1009(a) (2d, last sentences). |  |
 | 8907(c) | 40:1009(b). |  |
 
-## § 8908. Areas I and II
+## § 8908. Areas I and II
 
 **(a) Availability of Map.—** The Secretary of the Interior or the Administrator of General Services (as appropriate) shall make available, for public inspection at appropriate offices of the National Park Service and the General Services Administration, the map entitled “Commemorative Areas Washington, DC and Environs”, numbered 869/86501 B, and dated June 24, 2003.
 
@@ -487,14 +487,14 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 
 **(c) Reserve.—** After the date of enactment of the Commemorative Works Clarification and Revision Act of 2003, no commemorative work or visitor center shall be located within the Reserve.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1231; Pub. L. 108–126, title II, §§ 202(b), 203(g), Nov. 17, 2003, 117 Stat. 1349, 1352; Pub. L. 111–11, title VII, § 7116(e)(3), Mar. 30, 2009, 123 Stat. 1203.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1231; Pub. L. 108–126, title II, §§ 202(b), 203(g), Nov. 17, 2003, 117 Stat. 1349, 1352; Pub. L. 111–11, title VII, § 7116(e)(3), Mar. 30, 2009, 123 Stat. 1203.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8908(a) | 40:1005. | Pub. L. 99–652, § 5, Nov. 14, 1986, 100 Stat. 3651. |
-| 8908(b) | 40:1006. | Pub. L. 99–652, § 6, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 103–321, § 2(c), Aug. 26, 1994, 108 Stat. 1794. |
+| 8908(a) | 40:1005. | Pub. L. 99–652, § 5, Nov. 14, 1986, 100 Stat. 3651. |
+| 8908(b) | 40:1006. | Pub. L. 99–652, § 6, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 103–321, § 2(c), Aug. 26, 1994, 108 Stat. 1794. |
 
 In subsection (b)(1), the words “the Committee on House Administration of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate” are substituted for “the committees of Congress specified in section 1003(b) [sic] of this title” for clarity. The reference to section 1003(b) should be to section 1003(d).
 
@@ -508,11 +508,11 @@ The date of enactment of the Commemorative Works Clarification and Revision Act 
 
 2009—Subsec. (b)(1). Pub. L. 111–11 inserted “Advisory” before “Commission” in first sentence and substituted “Natural Resources of the House” for “House Administration of the House” in second sentence.
 
-2003—Subsec. (a). Pub. L. 108–126, § 203(g)(2), which directed substitution of “entitled ‘Commemorative Areas Washington, DC and Environs’, numbered 869/86501 B, and dated June 24, 2003” for “numbered 869/86581, and dated May 1, 1986”, was executed by making the substitution for “numbered 869/86501, and dated May 1, 1986” to reflect the probable intent of Congress.
+2003—Subsec. (a). Pub. L. 108–126, § 203(g)(2), which directed substitution of “entitled ‘Commemorative Areas Washington, DC and Environs’, numbered 869/86501 B, and dated June 24, 2003” for “numbered 869/86581, and dated May 1, 1986”, was executed by making the substitution for “numbered 869/86501, and dated May 1, 1986” to reflect the probable intent of Congress.
 
-Pub. L. 108–126, § 203(g)(1), substituted “Secretary of the Interior or the Administrator of General Services (as appropriate)” for “Secretary of the Interior and Administrator of General Services”.
+Pub. L. 108–126, § 203(g)(1), substituted “Secretary of the Interior or the Administrator of General Services (as appropriate)” for “Secretary of the Interior and Administrator of General Services”.
 
-Subsec. (c). Pub. L. 108–126, § 202(b), added subsec. (c).
+Subsec. (c). Pub. L. 108–126, § 202(b), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -520,7 +520,7 @@ Subsec. (c). Pub. L. 108–126, § 202(b), added subsec. (c).
 
 Amendments by Pub. L. 108–126, except for the provision in the amendment made by section 202(b) prohibiting a visitor center from being located in the Reserve (as defined in section 8902 of this title), are not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 
-## § 8909. Administrative
+## § 8909. Administrative
 
 **(a) Maintenance of Documentation of Design and Construction.—** Complete documentation of design and construction of each commemorative work located in the District of Columbia and its environs shall be provided to the Secretary of the Interior or Administrator of General Services, as appropriate, and shall be permanently maintained in the manner provided by law.
 
@@ -534,15 +534,15 @@ Amendments by Pub. L. 108–126, except for the provision in the amendment made 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8909(a) | 40:1010(a). | Pub. L. 99–652, § 10(a), (c), Nov. 14, 1986, 100 Stat. 3654. |
+| 8909(a) | 40:1010(a). | Pub. L. 99–652, § 10(a), (c), Nov. 14, 1986, 100 Stat. 3654. |
 | 8909(b) | 40:1010(c). |  |
-| 8909(c) | 40:1010(d). | Pub. L. 99–652, § 10(d), Nov. 14, 1986, 100 Stat. 3654; Pub. L. 103–321, § 2(g), Aug. 26, 1994, 108 Stat. 1795. |
+| 8909(c) | 40:1010(d). | Pub. L. 99–652, § 10(d), Nov. 14, 1986, 100 Stat. 3654; Pub. L. 103–321, § 2(g), Aug. 26, 1994, 108 Stat. 1795. |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Waiver of Special Use Permit Application Fee for Veterans’ Special Events**
 
-Pub. L. 117–328, div. DD, title VI, § 642, Dec. 29, 2022, 136 Stat. 5612, provided that:
+Pub. L. 117–328, div. DD, title VI, § 642, Dec. 29, 2022, 136 Stat. 5612, provided that:
 
 > **“(a) Definitions.—** In this section:
 

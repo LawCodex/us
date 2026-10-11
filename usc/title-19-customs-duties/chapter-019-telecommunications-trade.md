@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 19—TELECOMMUNICATIONS TRADE
 
-## § 3101. Findings and purposes
+## § 3101. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -53,15 +53,15 @@ by undertaking a program to achieve an open world market for trade in telecommun
 
 **(5)** to achieve a more open world trading system for telecommunications products and services through negotiation and provision of mutually advantageous market opportunities for United States telecommunications exporters and their subsidiaries in those markets in which barriers exist to free international trade.
 
-(Pub. L. 100–418, title I, § 1372, Aug. 23, 1988, 102 Stat. 1216.)
+(Pub. L. 100–418, title I, § 1372, Aug. 23, 1988, 102 Stat. 1216.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–418, title I, § 1371, Aug. 23, 1988, 102 Stat. 1216, provided that: “This part [part 4 (§§ 1371–1382) of subtitle C of title I of Pub. L. 100–418, enacting this chapter] may be cited as the ‘Telecommunications Trade Act of 1988’.”
+Pub. L. 100–418, title I, § 1371, Aug. 23, 1988, 102 Stat. 1216, provided that: “This part [part 4 (§§ 1371–1382) of subtitle C of title I of Pub. L. 100–418, enacting this chapter] may be cited as the ‘Telecommunications Trade Act of 1988’.”
 
-## § 3102. Definitions
+## § 3102. Definitions
 
 For purposes of this chapter—
 
@@ -73,17 +73,17 @@ For purposes of this chapter—
 
 **(B)** any article classified under any of the following item numbers of such Schedules:
 
-684.57      684.67      685.28      685.39
+684.57 684.67 685.28 685.39
 
-684.58      684.80      685.30      685.48
+684.58 684.80 685.30 685.48
 
-684.59      685.16      685.31      688.17
+684.59 685.16 685.31 688.17
 
-684.65      685.24      685.33      688.41
+684.65 685.24 685.33 688.41
 
-684.66      685.25      685.34      707.90.
+684.66 685.25 685.34 707.90.
 
-(Pub. L. 100–418, title I, § 1373, Aug. 23, 1988, 102 Stat. 1217.)
+(Pub. L. 100–418, title I, § 1373, Aug. 23, 1988, 102 Stat. 1217.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ For purposes of this chapter—
 
 Such Schedules, referred to in par. (2), to be treated as a reference to the Harmonized Tariff Schedule, pursuant to section 3012 of this title. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-## § 3103. Investigation of foreign telecommunications trade barriers
+## § 3103. Investigation of foreign telecommunications trade barriers
 
 **(a) In general**
 
@@ -125,9 +125,9 @@ if information available to the Trade Representative indicates that such action 
 
 By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
 
-(Pub. L. 100–418, title I, § 1374, Aug. 23, 1988, 102 Stat. 1217.)
+(Pub. L. 100–418, title I, § 1374, Aug. 23, 1988, 102 Stat. 1217.)
 
-## § 3104. Negotiations in response to investigation
+## § 3104. Negotiations in response to investigation
 
 **(a) In general** Upon—
 
@@ -195,13 +195,13 @@ be limited to the certification by the manufacturer that the products meet the s
 
 **(12)** monitoring and effective dispute settlement mechanisms to facilitate compliance with matters referred to in the preceding paragraphs of this subsection.
 
-(Pub. L. 100–418, title I, § 1375, Aug. 23, 1988, 102 Stat. 1218.)
+(Pub. L. 100–418, title I, § 1375, Aug. 23, 1988, 102 Stat. 1218.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 17 of this title, referred to in subsec. (a), was in the original “part 1 of subtitle A”, meaning part 1 (§§ 1101–1117) of subtitle A of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121, which enacted chapter 17 (§ 2901 et seq.) of this title and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
+Chapter 17 of this title, referred to in subsec. (a), was in the original “part 1 of subtitle A”, meaning part 1 (§§ 1101–1117) of subtitle A of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121, which enacted chapter 17 (§ 2901 et seq.) of this title and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
 
 **Executive Documents**
 
@@ -209,7 +209,7 @@ Chapter 17 of this title, referred to in subsec. (a), was in the original “par
 
 Functions of President under this section relating to certain telecommunications negotiations delegated to United States Trade Representative, see section 1–401 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
 
-## § 3105. Actions to be taken if no agreement obtained
+## § 3105. Actions to be taken if no agreement obtained
 
 **(a) In general**
 
@@ -271,21 +271,21 @@ The President may modify or terminate any action taken under subsection (a) if, 
 
 The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) or of the modification or termination of any such action under subsection (d).
 
-(Pub. L. 100–418, title I, § 1376, Aug. 23, 1988, 102 Stat. 1220.)
+(Pub. L. 100–418, title I, § 1376, Aug. 23, 1988, 102 Stat. 1220.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subtitle A, referred to in subsec. (a)(1), is subtitle A (§§ 1101–1125) of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A, referred to in subsec. (a)(1), is subtitle A (§§ 1101–1125) of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121. For complete classification of subtitle A to the Code, see Tables.
 
-The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(E), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
 **Codification**
 
-In subsec. (b)(1)(D), (E), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(D), (E), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Executive Documents**
 
@@ -293,7 +293,7 @@ In subsec. (b)(1)(D), (E), “chapter 83 of title 41” substituted for “title
 
 Functions of President under subsec. (e) relating to reports to Congressional committees delegated to United States Trade Representative, see section 1–401 of Ex. Ord. No. 21661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
 
-## § 3106. Review of trade agreement implementation by Trade Representative
+## § 3106. Review of trade agreement implementation by Trade Representative
 
 **(a) In general**
 
@@ -321,15 +321,15 @@ Functions of President under subsec. (e) relating to reports to Congressional co
 
 **(2)** In taking actions under section 301 [19 U.S.C. 2411] by reason of paragraph (1), the Trade Representative shall first take those actions which most directly affect trade in telecommunications products and services with the priority foreign country referred to in paragraph (1), unless the Trade Representative determines that actions against other economic sectors would be more effective in achieving compliance by the foreign country with the trade agreement that is the subject of the affirmative determination made under subsection (a)(2).
 
-(Pub. L. 100–418, title I, § 1377, Aug. 23, 1988, 102 Stat. 1222.)
+(Pub. L. 100–418, title I, § 1377, Aug. 23, 1988, 102 Stat. 1222.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
-## § 3107. Compensation authority
+## § 3107. Compensation authority
 
 If—
 
@@ -339,7 +339,7 @@ If—
 
 the President may enter into trade agreements with such foreign country for the purpose of granting new concessions as compensation for such action in order to maintain the general level of reciprocal and mutually advantageous concessions.
 
-(Pub. L. 100–418, title I, § 1378, Aug. 23, 1988, 102 Stat. 1222; Pub. L. 103–465, title VI, § 621(a)(6), Dec. 8, 1994, 108 Stat. 4993.)
+(Pub. L. 100–418, title I, § 1378, Aug. 23, 1988, 102 Stat. 1222; Pub. L. 103–465, title VI, § 621(a)(6), Dec. 8, 1994, 108 Stat. 4993.)
 
 **Editorial Notes**
 
@@ -353,7 +353,7 @@ the President may enter into trade agreements with such foreign country for the 
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 621(b) of Pub. L. 103–465, set out as a note under section 1677k of this title.
 
-## § 3108. Consultations
+## § 3108. Consultations
 
 **(a) Advice from departments and agencies**
 
@@ -381,9 +381,9 @@ the Trade Representative shall provide an opportunity for the presentation of vi
 
 Before the President takes any action under section 3104(b)(2)(A) of this title to refine or modify specific negotiating objectives, the President shall consult with the Congress and with members of the industry, and representatives of labor, affected by the proposed refinement or modification.
 
-(Pub. L. 100–418, title I, § 1379, Aug. 23, 1988, 102 Stat. 1223.)
+(Pub. L. 100–418, title I, § 1379, Aug. 23, 1988, 102 Stat. 1223.)
 
-## § 3109. Submission of data; action to ensure compliance
+## § 3109. Submission of data; action to ensure compliance
 
 **(a) Submission of data**
 
@@ -405,15 +405,15 @@ The Federal Communications Commission (hereafter in this section referred to as 
 
 **(3)** The Secretary of the Treasury shall compile the information collected under paragraph (1)(A)(ii) into a summary and shall annually submit such summary to the Congress until the authority to negotiate trade agreements under chapter 17 of this title expires. Such information shall also be made available to the public.
 
-(Pub. L. 100–418, title I, § 1380, Aug. 23, 1988, 102 Stat. 1223.)
+(Pub. L. 100–418, title I, § 1380, Aug. 23, 1988, 102 Stat. 1223.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 17 of this title, referred to in subsec. (b)(3), was in the original “part 1 of subtitle A”, meaning part 1 (§§ 1101–1117) of subtitle A of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121, which enacted chapter 17 (§ 2901 et seq.) of this title and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
+Chapter 17 of this title, referred to in subsec. (b)(3), was in the original “part 1 of subtitle A”, meaning part 1 (§§ 1101–1117) of subtitle A of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121, which enacted chapter 17 (§ 2901 et seq.) of this title and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
 
-## § 3110. Study on telecommunications competitiveness in United States
+## § 3110. Study on telecommunications competitiveness in United States
 
 **(a) In general**
 
@@ -427,13 +427,13 @@ The Secretary of Commerce may, as appropriate, provide notice and reasonable opp
 
 The Secretary of Commerce shall, by no later than the date that is 1 year after August 23, 1988, submit to the Congress and the President a report on the findings and recommendations reached by the Secretary of Commerce as a result of the study conducted under subsection (a). Such report shall be referred to the appropriate committees of the House of Representatives and of the Senate.
 
-(Pub. L. 100–418, title I, § 1381, Aug. 23, 1988, 102 Stat. 1224.)
+(Pub. L. 100–418, title I, § 1381, Aug. 23, 1988, 102 Stat. 1224.)
 
-## § 3111. International obligations
+## § 3111. International obligations
 
 Nothing in this chapter may be construed to require actions inconsistent with the international obligations of the United States, including the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title).
 
-(Pub. L. 100–418, title I, § 1382, Aug. 23, 1988, 102 Stat. 1224; Pub. L. 103–465, title VI, § 621(a)(7), Dec. 8, 1994, 108 Stat. 4993.)
+(Pub. L. 100–418, title I, § 1382, Aug. 23, 1988, 102 Stat. 1224; Pub. L. 103–465, title VI, § 621(a)(7), Dec. 8, 1994, 108 Stat. 4993.)
 
 **Editorial Notes**
 

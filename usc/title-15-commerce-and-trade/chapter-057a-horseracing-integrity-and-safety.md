@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 57A—HORSERACING INTEGRITY AND SAFETY
 
-## § 3051. Definitions
+## § 3051. Definitions
 
 In this chapter the following definitions apply:
 
@@ -31,9 +31,9 @@ The term “breeder” means a person who is in the business of breeding covered
 
 The term “Commission” means the Federal Trade Commission.
 
-**(4) Covered horse** The term “covered horse” means any Thoroughbred horse, or any other horse made subject to this chapter by election of the applicable State racing commission or the breed governing organization for such horse under section 3054(k) 1
+**(4) Covered horse** The term “covered horse” means any Thoroughbred horse, or any other horse made subject to this chapter by election of the applicable State racing commission or the breed governing organization for such horse under section 3054(k) 1
 
-<sup>1</sup>  So in original. Probably should be “section 3054(*l*)”.
+<sup>1</sup> So in original. Probably should be “section 3054(*l*)”.
 
 of this title, during the period—
 
@@ -111,9 +111,9 @@ The term “veterinarian” means a licensed veterinarian who provides veterinar
 
 **(22) Workout**
 
-The term “workout” means a timed running of a horse over a predetermined distance not associated with a race or its first qualifying race, if such race is made subject to this chapter by election under section 3054(k) <sup>1</sup> of this title of the horse’s breed governing organization or the applicable State racing commission.
+The term “workout” means a timed running of a horse over a predetermined distance not associated with a race or its first qualifying race, if such race is made subject to this chapter by election under section 3054(k) <sup>1</sup> of this title of the horse’s breed governing organization or the applicable State racing commission.
 
-(Pub. L. 116–260, div. FF, title XII, § 1202, Dec. 27, 2020, 134 Stat. 3252.)
+(Pub. L. 116–260, div. FF, title XII, § 1202, Dec. 27, 2020, 134 Stat. 3252.)
 
 **Editorial Notes**
 
@@ -125,9 +125,9 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 **Short Title**
 
-Pub. L. 116–260, div. FF, title XII, § 1201, Dec. 27, 2020, 134 Stat. 3252, provided that: “This title [enacting this chapter] may be cited as the ‘Horseracing Integrity and Safety Act of 2020’.”
+Pub. L. 116–260, div. FF, title XII, § 1201, Dec. 27, 2020, 134 Stat. 3252, provided that: “This title [enacting this chapter] may be cited as the ‘Horseracing Integrity and Safety Act of 2020’.”
 
-## § 3052. Recognition of the Horseracing Integrity and Safety Authority
+## § 3052. Recognition of the Horseracing Integrity and Safety Authority
 
 **(a) In general**
 
@@ -363,7 +363,7 @@ Fees and fines imposed by the Authority shall be allocated toward funding of the
 
 For all items where Board approval is required, the Authority shall have present a majority of independent members.
 
-(Pub. L. 116–260, div. FF, title XII, § 1203, Dec. 27, 2020, 134 Stat. 3253.)
+(Pub. L. 116–260, div. FF, title XII, § 1203, Dec. 27, 2020, 134 Stat. 3253.)
 
 **Editorial Notes**
 
@@ -371,7 +371,7 @@ For all items where Board approval is required, the Authority shall have present
 
 This chapter, referred to in subsec. (f)(5), was in the original “this Act” and was translated as reading “this title”, meaning title XII of div. FF of Pub. L. 116–260, to reflect the probable intent of Congress.
 
-## § 3053. Federal Trade Commission oversight
+## § 3053. Federal Trade Commission oversight
 
 **(a) In general** The Authority shall submit to the Commission, in accordance with such rules as the Commission may prescribe under section 553 of title 5, any proposed rule, or proposed modification to a rule, of the Authority relating to—
 
@@ -445,7 +445,7 @@ The Commission shall publish in the Federal Register any such proposed rule, sta
 
 The Commission, by rule in accordance with section 553 of title 5, may abrogate, add to, and modify the rules of the Authority promulgated in accordance with this chapter as the Commission finds necessary or appropriate to ensure the fair administration of the Authority, to conform the rules of the Authority to requirements of this chapter and applicable rules approved by the Commission, or otherwise in furtherance of the purposes of this chapter.
 
-(Pub. L. 116–260, div. FF, title XII, § 1204, Dec. 27, 2020, 134 Stat. 3257; Pub. L. 117–328, div. O, title VII, § 701, Dec. 29, 2022, 136 Stat. 5231.)
+(Pub. L. 116–260, div. FF, title XII, § 1204, Dec. 27, 2020, 134 Stat. 3257; Pub. L. 117–328, div. O, title VII, § 701, Dec. 29, 2022, 136 Stat. 5231.)
 
 **Editorial Notes**
 
@@ -461,11 +461,11 @@ This chapter, referred to in subsecs. (c)(2)(A) and (e), was in the original “
 
 “(2) the integrity of covered horseraces and wagering on those horseraces.”
 
-## § 3054. Jurisdiction of the Commission and the Horseracing Integrity and Safety Authority
+## § 3054. Jurisdiction of the Commission and the Horseracing Integrity and Safety Authority
 
 **(a) In general** Beginning on the program effective date, the Commission, the Authority, and the anti-doping and medication control enforcement agency, each within the scope of their powers and responsibilities under this chapter, as limited by subsection (j),1
 
-<sup>1</sup>  So in original. Probably should be “subsection (k)”.
+<sup>1</sup> So in original. Probably should be “subsection (k)”.
 
 shall—
 
@@ -541,7 +541,7 @@ Any negotiations under this paragraph shall be conducted in good faith and desig
 
 Any agreement under this paragraph shall include a description of the scope of work, performance metrics, reporting obligations, and budgets of the United States Anti-Doping Agency while acting as the anti-doping and medication control enforcement agency under this chapter, as well as a provision for the revision of the agreement to increase in the scope of work as provided for in subsection (k),2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 and any other matter the Authority considers appropriate.
 
@@ -681,7 +681,7 @@ A commission or organization may not make an election under paragraph (1) unless
 
 The Authority shall apportion costs described in paragraph (2) in connection with an election under paragraph (1) fairly among all impacted segments of the horseracing industry, subject to approval by the Commission in accordance with section 3053 of this title. Such apportionment may not provide for the allocation of costs or funds among breeds of horses.
 
-(Pub. L. 116–260, div. FF, title XII, § 1205, Dec. 27, 2020, 134 Stat. 3259.)
+(Pub. L. 116–260, div. FF, title XII, § 1205, Dec. 27, 2020, 134 Stat. 3259.)
 
 **Editorial Notes**
 
@@ -689,7 +689,7 @@ The Authority shall apportion costs described in paragraph (2) in connection wit
 
 This chapter, referred to in subsecs. (a), (b), (e)(1), (j)(1), (k)(3), and (*l*)(1), (2), was in the original “this Act” and was translated as reading “this title”, meaning title XII of div. FF of Pub. L. 116–260, to reflect the probable intent of Congress.
 
-## § 3055. Horseracing anti-doping and medication control program
+## § 3055. Horseracing anti-doping and medication control program
 
 **(a) Program required**
 
@@ -699,9 +699,9 @@ Not later than the program effective date, and after notice and an opportunity f
 
 **(2) Consideration of other breeds**
 
-In developing the horseracing anti-doping and medication control program with respect to a breed of horse that is made subject to this chapter by election of a State racing commission or the breed governing organization for such horse under section 3054(k) 1
+In developing the horseracing anti-doping and medication control program with respect to a breed of horse that is made subject to this chapter by election of a State racing commission or the breed governing organization for such horse under section 3054(k) 1
 
-<sup>1</sup>  So in original. Probably should be “section 3054(*l*)”.
+<sup>1</sup> So in original. Probably should be “section 3054(*l*)”.
 
 of this title, the Authority shall consider the unique characteristics of such breed.
 
@@ -851,7 +851,7 @@ If the Authority approves a proposed modification under this paragraph, the prop
 
 The Authority shall not approve any proposed modification that renders an anti-doping and medication control rule less stringent than the baseline anti-doping and medication control rules described in paragraph (2) (including by increasing permitted medication thresholds, adding permitted medications, removing prohibited medications, or weakening enforcement mechanisms) without the approval of the anti-doping and medication control enforcement agency.
 
-(Pub. L. 116–260, div. FF, title XII, § 1206, Dec. 27, 2020, 134 Stat. 3263.)
+(Pub. L. 116–260, div. FF, title XII, § 1206, Dec. 27, 2020, 134 Stat. 3263.)
 
 **Editorial Notes**
 
@@ -859,7 +859,7 @@ The Authority shall not approve any proposed modification that renders an anti-d
 
 This chapter, referred to in subsecs. (a)(2), (b)(4), and (c)(4)(D), was in the original “this Act” and was translated as reading “this title”, meaning title XII of div. FF of Pub. L. 116–260, to reflect the probable intent of Congress.
 
-## § 3056. Racetrack safety program
+## § 3056. Racetrack safety program
 
 **(a) Establishment and considerations**
 
@@ -939,9 +939,9 @@ Not later than one year after the program effective date, and after notice and a
 
 In accordance with the registration of covered persons under section 3054(d) of this title, the Authority may require covered persons to collect and submit to the database described in subparagraph (A) such information as the Authority may require to further the goal of increased racehorse welfare.
 
-(Pub. L. 116–260, div. FF, title XII, § 1207, Dec. 27, 2020, 134 Stat. 3267.)
+(Pub. L. 116–260, div. FF, title XII, § 1207, Dec. 27, 2020, 134 Stat. 3267.)
 
-## § 3057. Rule violations and civil sanctions
+## § 3057. Rule violations and civil sanctions
 
 **(a) Description of rule violations**
 
@@ -1071,9 +1071,9 @@ The Authority shall establish uniform rules, in accordance with section 3053 of 
 
 The Authority may propose a modification to any rule established under this section as the Authority considers appropriate, and the proposed modification shall be submitted to and considered by the Commission in accordance with section 3053 of this title.
 
-(Pub. L. 116–260, div. FF, title XII, § 1208, Dec. 27, 2020, 134 Stat. 3269.)
+(Pub. L. 116–260, div. FF, title XII, § 1208, Dec. 27, 2020, 134 Stat. 3269.)
 
-## § 3058. Review of final decisions of the Authority
+## § 3058. Review of final decisions of the Authority
 
 **(a) Notice of civil sanctions**
 
@@ -1181,7 +1181,7 @@ The Commission may, on its own motion, allow the consideration of additional evi
 
 Review by an administrative law judge or the Commission under this section shall not operate as a stay of a final civil sanction of the Authority unless the administrative law judge or Commission orders such a stay.
 
-(Pub. L. 116–260, div. FF, title XII, § 1209, Dec. 27, 2020, 134 Stat. 3272.)
+(Pub. L. 116–260, div. FF, title XII, § 1209, Dec. 27, 2020, 134 Stat. 3272.)
 
 **Editorial Notes**
 
@@ -1189,7 +1189,7 @@ Review by an administrative law judge or the Commission under this section shall
 
 This chapter, referred to in subsec. (b)(2)(A)(ii), was in the original “this Act” and was translated as reading “this title”, meaning title XII of div. FF of Pub. L. 116–260, to reflect the probable intent of Congress.
 
-## § 3059. Unfair or deceptive acts or practices
+## § 3059. Unfair or deceptive acts or practices
 
 The sale of a covered horse, or of any other horse in anticipation of its future participation in a covered race, shall be considered an unfair or deceptive act or practice in or affecting commerce under section 45(a) of this title if the seller—
 
@@ -1201,9 +1201,9 @@ The sale of a covered horse, or of any other horse in anticipation of its future
 
 **(2)** fails to disclose to the buyer the administration of the bisphosphonate or other substance or method described in paragraph (1)(B).
 
-(Pub. L. 116–260, div. FF, title XII, § 1210, Dec. 27, 2020, 134 Stat. 3274.)
+(Pub. L. 116–260, div. FF, title XII, § 1210, Dec. 27, 2020, 134 Stat. 3274.)
 
-## § 3060. State delegation; cooperation
+## § 3060. State delegation; cooperation
 
 **(a) State delegation**
 
@@ -1219,4 +1219,4 @@ A State racing commission or other appropriate regulatory body of a State may no
 
 To avoid duplication of functions, facilities, and personnel, and to attain closer coordination and greater effectiveness and economy in administration of Federal and State law, where conduct by any person subject to the horseracing medication control program or the racetrack safety program may involve both a medication control or racetrack safety rule violation and violation of Federal or State law, the Authority and Federal or State law enforcement authorities shall cooperate and share information.
 
-(Pub. L. 116–260, div. FF, title XII, § 1211, Dec. 27, 2020, 134 Stat. 3274.)
+(Pub. L. 116–260, div. FF, title XII, § 1211, Dec. 27, 2020, 134 Stat. 3274.)

@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–254, div. B, title III, §§ 382(b), 384(b), Oct. 5, 2018, 132 Stat. 3320, 3323, added items 39B and 40A.
+2018—Pub. L. 115–254, div. B, title III, §§ 382(b), 384(b), Oct. 5, 2018, 132 Stat. 3320, 3323, added items 39B and 40A.
 
-2012—Pub. L. 112–95, title III, § 311(b), Feb. 14, 2012, 126 Stat. 66, transferred item 39 to appear after item 38 and added item 39A.
+2012—Pub. L. 112–95, title III, § 311(b), Feb. 14, 2012, 126 Stat. 66, transferred item 39 to appear after item 38 and added item 39A.
 
-2008—Pub. L. 110–244, title III, § 301(j), June 6, 2008, 122 Stat. 1616, redesignated item 39 “Commercial motor vehicles required to stop for inspections” as item 40.
+2008—Pub. L. 110–244, title III, § 301(j), June 6, 2008, 122 Stat. 1616, redesignated item 39 “Commercial motor vehicles required to stop for inspections” as item 40.
 
-2005—Pub. L. 109–59, title II, § 2018(b), title IV, § 4143(c)(1), Aug. 10, 2005, 119 Stat. 1543, 1748, added item 39 “Commercial motor vehicles required to stop for inspections” and item 39 “Traffic signal preemption transmitters”.
+2005—Pub. L. 109–59, title II, § 2018(b), title IV, § 4143(c)(1), Aug. 10, 2005, 119 Stat. 1543, 1748, added item 39 “Commercial motor vehicles required to stop for inspections” and item 39 “Traffic signal preemption transmitters”.
 
-2000—Pub. L. 106–181, title V, § 506(c)(2)(A), Apr. 5, 2000, 114 Stat. 139, added item 38.
+2000—Pub. L. 106–181, title V, § 506(c)(2)(A), Apr. 5, 2000, 114 Stat. 139, added item 38.
 
-1994—Pub. L. 103–322, title VI, §§ 60008(c), 60021(b), Sept. 13, 1994, 108 Stat. 1972, 1980, added items 36 and 37.
+1994—Pub. L. 103–322, title VI, §§ 60008(c), 60021(b), Sept. 13, 1994, 108 Stat. 1972, 1980, added items 36 and 37.
 
-## § 31. Definitions
+## § 31. Definitions
 
 **(a) Definitions.—** In this chapter, the following definitions apply:
 
@@ -65,7 +65,7 @@ retrieved: 2026-10-11
 
 **(b) Terms Defined in Other Law.—** In this chapter, the terms “aircraft engine”, “air navigation facility”, “appliance”, “civil aircraft”, “foreign air commerce”, “interstate air commerce”, “landing area”, “overseas air commerce”, “propeller”, “spare part”, and “special aircraft jurisdiction of the United States” have the meanings given those terms in sections 40102(a) and 46501 of title 49.
 
-(Added July 14, 1956, ch. 595, § 1, 70 Stat. 538; amended Pub. L. 98–473, title II, §§ 1010, 2013(a), Oct. 12, 1984, 98 Stat. 2141, 2187; Pub. L. 100–690, title VII, § 7015, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–272, § 5(e)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 106–181, title V, § 506(b), Apr. 5, 2000, 114 Stat. 136.)
+(Added July 14, 1956, ch. 595, § 1, 70 Stat. 538; amended Pub. L. 98–473, title II, §§ 1010, 2013(a), Oct. 12, 1984, 98 Stat. 2141, 2187; Pub. L. 100–690, title VII, § 7015, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–272, § 5(e)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 106–181, title V, § 506(b), Apr. 5, 2000, 114 Stat. 136.)
 
 **Editorial Notes**
 
@@ -73,27 +73,27 @@ retrieved: 2026-10-11
 
 2000—Pub. L. 106–181 added subsecs. (a) and (b) and struck out former text which read as follows: “When used in this chapter the term—
 
-“ ‘Aircraft engine’, ‘air navigation facility’, ‘appliance’, ‘civil aircraft’, ‘foreign air commerce’, ‘interstate air commerce’, ‘landing area’, ‘overseas air commerce’, ‘propeller’, ‘spare part’ and ‘special aircraft jurisdiction of the United States’ shall have the meaning ascribed to those terms in sections 40102(a) and 46501 of title 49.
+“ ‘Aircraft engine’, ‘air navigation facility’, ‘appliance’, ‘civil aircraft’, ‘foreign air commerce’, ‘interstate air commerce’, ‘landing area’, ‘overseas air commerce’, ‘propeller’, ‘spare part’ and ‘special aircraft jurisdiction of the United States’ shall have the meaning ascribed to those terms in sections 40102(a) and 46501 of title 49.
 
-“ ‘Motor vehicle’ means every description of carriage or other contrivance propelled or drawn by mechanical power and used for commercial purposes on the highways in the transportation of passengers, passengers and property, or property or cargo;
+“ ‘Motor vehicle’ means every description of carriage or other contrivance propelled or drawn by mechanical power and used for commercial purposes on the highways in the transportation of passengers, passengers and property, or property or cargo;
 
-“ ‘Destructive substance’ means any explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or matter of a combustible, contaminative, corrosive, or explosive nature;
+“ ‘Destructive substance’ means any explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or matter of a combustible, contaminative, corrosive, or explosive nature;
 
-“ ‘Used for commercial purposes’ means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit;
+“ ‘Used for commercial purposes’ means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit;
 
-“ ‘In flight’ means any time from the moment all the external doors of an aircraft are closed following embarkation until the moment when any such door is opened for disembarkation. In the case of a forced landing the flight shall be deemed to continue until competent authorities take over the responsibility for the aircraft and the persons and property on board; and
+“ ‘In flight’ means any time from the moment all the external doors of an aircraft are closed following embarkation until the moment when any such door is opened for disembarkation. In the case of a forced landing the flight shall be deemed to continue until competent authorities take over the responsibility for the aircraft and the persons and property on board; and
 
-“ ‘In service’ means any time from the beginning of preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight.”
+“ ‘In service’ means any time from the beginning of preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight.”
 
 1994—Pub. L. 103–272 substituted “sections 40102(a) and 46501 of title 49” for “the Federal Aviation Act of 1958, as amended” in par. beginning with definition of “Aircraft engine”.
 
 1988—Pub. L. 100–690 substituted “door is opened” for “door in opened” in definition of “in flight”.
 
-1984—Pub. L. 98–473, § 2013(a)(1), in first par. struck out “and” before “spare part”, inserted “and ‘special aircraft jurisdiction of the United States’ ”, and substituted “Federal Aviation Act of 1958” for “Civil Aeronautics Act of 1938”.
+1984—Pub. L. 98–473, § 2013(a)(1), in first par. struck out “and” before “spare part”, inserted “and ‘special aircraft jurisdiction of the United States’ ”, and substituted “Federal Aviation Act of 1958” for “Civil Aeronautics Act of 1938”.
 
-Pub. L. 98–473, § 1010, substituted “passengers and property, or property or cargo” for “or passengers and property” in definition of motor vehicle.
+Pub. L. 98–473, § 1010, substituted “passengers and property, or property or cargo” for “or passengers and property” in definition of motor vehicle.
 
-Pub. L. 98–473, § 2013(a)(2)–(4), inserted definitions of “in flight” and “in service”.
+Pub. L. 98–473, § 2013(a)(2)–(4), inserted definitions of “in flight” and “in service”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -103,19 +103,19 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 2015, Oct. 12, 1984, 98 Stat. 2190, provided that: “This part [part B (§§ 2011–2015) of chapter XX of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note below] shall become effective on the date of the enactment of this joint resolution [Oct. 12, 1984].”
+Pub. L. 98–473, title II, § 2015, Oct. 12, 1984, 98 Stat. 2190, provided that: “This part [part B (§§ 2011–2015) of chapter XX of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note below] shall become effective on the date of the enactment of this joint resolution [Oct. 12, 1984].”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–181, title V, § 506(a), Apr. 5, 2000, 114 Stat. 136, provided that: “This section [enacting section 38 of this title and amending this section and section 2516 of this title] may be cited as the ‘Aircraft Safety Act of 2000’.”
+Pub. L. 106–181, title V, § 506(a), Apr. 5, 2000, 114 Stat. 136, provided that: “This section [enacting section 38 of this title and amending this section and section 2516 of this title] may be cited as the ‘Aircraft Safety Act of 2000’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 2011, Oct. 12, 1984, 98 Stat. 2187, provided that: “This part [part B (§§ 2011–2015) of chapter XX of title II of Pub. L. 98–473, amending this section, section 32 of this title, and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section] may be cited as the ‘Aircraft Sabotage Act’.”
+Pub. L. 98–473, title II, § 2011, Oct. 12, 1984, 98 Stat. 2187, provided that: “This part [part B (§§ 2011–2015) of chapter XX of title II of Pub. L. 98–473, amending this section, section 32 of this title, and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section] may be cited as the ‘Aircraft Sabotage Act’.”
 
 **Statement of Findings and Purpose for 1984 Amendment**
 
-Pub. L. 98–473, title II, § 2012, Oct. 12, 1984, 98 Stat. 2187, provided that:
+Pub. L. 98–473, title II, § 2012, Oct. 12, 1984, 98 Stat. 2187, provided that:
 
 > “The Congress hereby finds that—
 
@@ -123,9 +123,9 @@ Pub. L. 98–473, title II, § 2012, Oct. 12, 1984, 98 Stat. 2187, provided th
 
 > **“(2)** such offenses place innocent lives in jeopardy, endanger national security, affect domestic tranquility, gravely affect interstate and foreign commerce, and are offenses against the law of nations; and
 
-> **“(3)** the purpose of this subtitle [probably means part B (§§ 2011–2015) of chapter XX of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note above] is to implement fully the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation and to expand the protection accorded to aircraft and related facilities.”
+> **“(3)** the purpose of this subtitle [probably means part B (§§ 2011–2015) of chapter XX of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note above] is to implement fully the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation and to expand the protection accorded to aircraft and related facilities.”
 
-## § 32. Destruction of aircraft or aircraft facilities
+## § 32. Destruction of aircraft or aircraft facilities
 
 **(a)** Whoever willfully—
 
@@ -161,7 +161,7 @@ shall be fined under this title or imprisoned not more than twenty years, or bot
 
 **(c)** Whoever willfully imparts or conveys any threat to do an act which would violate any of paragraphs (1) through (6) of subsection (a) or any of paragraphs (1) through (3) of subsection (b) of this section, with an apparent determination and will to carry the threat into execution shall be fined under this title or imprisoned not more than five years, or both.
 
-(Added July 14, 1956, ch. 595, § 1, 70 Stat. 539; amended Pub. L. 98–473, title II, § 2013(b), Oct. 12, 1984, 98 Stat. 2187; Pub. L. 100–690, title VII, § 7016, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, § 330016(1)(O), (S), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §§ 721(b), 723(a)(1), Apr. 24, 1996, 110 Stat. 1298, 1300; Pub. L. 109–177, title I, § 123, Mar. 9, 2006, 120 Stat. 226.)
+(Added July 14, 1956, ch. 595, § 1, 70 Stat. 539; amended Pub. L. 98–473, title II, § 2013(b), Oct. 12, 1984, 98 Stat. 2187; Pub. L. 100–690, title VII, § 7016, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, § 330016(1)(O), (S), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §§ 721(b), 723(a)(1), Apr. 24, 1996, 110 Stat. 1298, 1300; Pub. L. 109–177, title I, § 123, Mar. 9, 2006, 120 Stat. 226.)
 
 **Editorial Notes**
 
@@ -171,21 +171,21 @@ Section 101(a)(22) of the Immigration and Nationality Act, referred to in subsec
 
 **Amendments**
 
-2006—Subsec. (a)(5) to (7). Pub. L. 109–177, § 123(1), (2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+2006—Subsec. (a)(5) to (7). Pub. L. 109–177, § 123(1), (2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 109–177, § 123(1), (3), redesignated par. (7) as (8) and substituted “paragraphs (1) through (7)” for “paragraphs (1) through (6)”.
+Subsec. (a)(8). Pub. L. 109–177, § 123(1), (3), redesignated par. (7) as (8) and substituted “paragraphs (1) through (7)” for “paragraphs (1) through (6)”.
 
-Subsec. (c). Pub. L. 109–177, § 123(4), substituted “paragraphs (1) through (6)” for “paragraphs (1) through (5)”.
+Subsec. (c). Pub. L. 109–177, § 123(4), substituted “paragraphs (1) through (6)” for “paragraphs (1) through (5)”.
 
-1996—Subsec. (a)(7). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
+1996—Subsec. (a)(7). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
 
-Subsec. (b). Pub. L. 104–132, § 721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
+Subsec. (b). Pub. L. 104–132, § 721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
 
-Subsec. (b)(4). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
+Subsec. (b)(4). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
 
-1994—Subsecs. (a), (b). Pub. L. 103–322, § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000” in concluding provisions.
+1994—Subsecs. (a), (b). Pub. L. 103–322, § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000” in concluding provisions.
 
-Subsec. (c). Pub. L. 103–322, § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
+Subsec. (c). Pub. L. 103–322, § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
 1988—Subsec. (a)(3). Pub. L. 100–690 substituted “interfering” for “intefering”.
 
@@ -211,7 +211,7 @@ Subsec. (c). Pub. L. 103–322, § 330016(1)(O), substituted “fined under th
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 2015 of Pub. L. 98–473, set out as a note under section 31 of this title.
 
-## § 33. Destruction of motor vehicles or motor vehicle facilities
+## § 33. Destruction of motor vehicles or motor vehicle facilities
 
 **(a)** Whoever willfully, with intent to endanger the safety of any person on board or anyone who he believes will board the same, or with a reckless disregard for the safety of human life, damages, disables, destroys, tampers with, or places or causes to be placed any explosive or other destructive substance in, upon, or in proximity to, any motor vehicle which is used, operated, or employed in interstate or foreign commerce, or its cargo or material used or intended to be used in connection with its operation; or
 
@@ -225,7 +225,7 @@ shall be fined under this title or imprisoned not more than twenty years, or bot
 
 **(b)** Whoever is convicted of a violation of subsection (a) involving a motor vehicle that, at the time the violation occurred, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12))) or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23))), shall be fined under this title and imprisoned for any term of years not less than 30, or for life.
 
-(Added July 14, 1956, ch. 595, § 1, 70 Stat. 540; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–88, title IV, § 402(a), Dec. 29, 1995, 109 Stat. 955; Pub. L. 109–177, title IV, § 406(c)(1), Mar. 9, 2006, 120 Stat. 245.)
+(Added July 14, 1956, ch. 595, § 1, 70 Stat. 540; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–88, title IV, § 402(a), Dec. 29, 1995, 109 Stat. 955; Pub. L. 109–177, title IV, § 406(c)(1), Mar. 9, 2006, 120 Stat. 245.)
 
 **Editorial Notes**
 
@@ -243,11 +243,11 @@ shall be fined under this title or imprisoned not more than twenty years, or bot
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
-## § 34. Penalty when death results
+## § 34. Penalty when death results
 
 Whoever is convicted of any crime prohibited by this chapter, which has resulted in the death of any person, shall be subject also to the death penalty or to imprisonment for life.
 
-(Added July 14, 1956, ch. 595, § 1, 70 Stat. 540; amended Pub. L. 103–322, title VI, § 60003(a)(1), Sept. 13, 1994, 108 Stat. 1968.)
+(Added July 14, 1956, ch. 595, § 1, 70 Stat. 540; amended Pub. L. 103–322, title VI, § 60003(a)(1), Sept. 13, 1994, 108 Stat. 1968.)
 
 **Editorial Notes**
 
@@ -255,13 +255,13 @@ Whoever is convicted of any crime prohibited by this chapter, which has resulted
 
 1994—Pub. L. 103–322 substituted “imprisonment for life.” for “imprisonment for life, if the jury shall in its discretion so direct, or, in the case of a plea of guilty, or a plea of not guilty where the defendant has waived a trial by jury, if the court in its discretion shall so order.”
 
-## § 35. Imparting or conveying false information
+## § 35. Imparting or conveying false information
 
 **(a)** Whoever imparts or conveys or causes to be imparted or conveyed false information, knowing the information to be false, concerning an attempt or alleged attempt being made or to be made, to do any act which would be a crime prohibited by this chapter or chapter 97 or chapter 111 of this title shall be subject to a civil penalty of not more than $1,000 which shall be recoverable in a civil action brought in the name of the United States.
 
 **(b)** Whoever willfully and maliciously, or with reckless disregard for the safety of human life, imparts or conveys or causes to be imparted or conveyed false information, knowing the information to be false, concerning an attempt or alleged attempt being made or to be made, to do any act which would be a crime prohibited by this chapter or chapter 97 or chapter 111 of this title—shall be fined under this title, or imprisoned not more than five years, or both.
 
-(Added July 14, 1956, ch. 595, § 1, 70 Stat. 540; amended Pub. L. 87–338, Oct. 3, 1961, 75 Stat. 751; Pub. L. 89–64, July 7, 1965, 79 Stat. 210; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(Added July 14, 1956, ch. 595, § 1, 70 Stat. 540; amended Pub. L. 87–338, Oct. 3, 1961, 75 Stat. 751; Pub. L. 89–64, July 7, 1965, 79 Stat. 210; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -273,15 +273,15 @@ Whoever is convicted of any crime prohibited by this chapter, which has resulted
 
 1961—Pub. L. 87–338 designated existing provisions as subsec. (a), struck out “willfully” before “imparts or conveys”, and added subsec. (b).
 
-## § 36. Drive-by shooting
+## § 36. Drive-by shooting
 
 **(a) Definition.—** In this section, “major drug offense” means—
 
 **(1)** a continuing criminal enterprise punishable under section 408(c) of the Controlled Substances Act (21 U.S.C. 848(c));
 
-**(2)** a conspiracy to distribute controlled substances punishable under section 406 of the Controlled Substances Act (21 U.S.C. 846) section 1
+**(2)** a conspiracy to distribute controlled substances punishable under section 406 of the Controlled Substances Act (21 U.S.C. 846) section 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “or”.
+<sup>1</sup> So in original. Probably should be preceded by “or”.
 
 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 963); or
 
@@ -297,7 +297,7 @@ Whoever is convicted of any crime prohibited by this chapter, which has resulted
 
 **(B)** is a murder other than a first degree murder (as defined in section 1111(a)), be fined under this title, imprisoned for any term of years or for life, or both.
 
-(Added Pub. L. 103–322, title VI, § 60008(b), Sept. 13, 1994, 108 Stat. 1971; amended Pub. L. 104–294, title VI, § 604(b)(30), Oct. 11, 1996, 110 Stat. 3508.)
+(Added Pub. L. 103–322, title VI, § 60008(b), Sept. 13, 1994, 108 Stat. 1971; amended Pub. L. 104–294, title VI, § 604(b)(30), Oct. 11, 1996, 110 Stat. 3508.)
 
 **Editorial Notes**
 
@@ -313,9 +313,9 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Short Title**
 
-Pub. L. 103–322, title VI, § 60008(a), Sept. 13, 1994, 108 Stat. 1971, provided that: “This section [enacting this section] may be cited as the ‘Drive-By Shooting Prevention Act of 1994’.”
+Pub. L. 103–322, title VI, § 60008(a), Sept. 13, 1994, 108 Stat. 1971, provided that: “This section [enacting this section] may be cited as the ‘Drive-By Shooting Prevention Act of 1994’.”
 
-## § 37. Violence at international airports
+## § 37. Violence at international airports
 
 **(a) Offense.—** A person who unlawfully and intentionally, using any device, substance, or weapon—
 
@@ -331,29 +331,29 @@ if such an act endangers or is likely to endanger safety at that airport, or att
 
 **(2)** the prohibited activity takes place outside the United States and (A) the offender is later found in the United States; or (B) an offender or a victim is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))).
 
-**(c) Bar to Prosecution.—** It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) 1
+**(c) Bar to Prosecution.—** It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) 1
 
-<sup>1</sup>  So in original. Probably should be section “13(c)”.
+<sup>1</sup> So in original. Probably should be section “13(c)”.
 
 of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 103–322, title VI, § 60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§ 721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§ 601(q), 607(*o*), Oct. 11, 1996, 110 Stat. 3502, 3512.)
+(Added Pub. L. 103–322, title VI, § 60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§ 721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§ 601(q), 607(*o*), Oct. 11, 1996, 110 Stat. 3502, 3512.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts” in concluding provisions.
+1996—Subsec. (a). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts” in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 104–132, § 721(g), inserted subpar. (A) designation and added subpar. (B).
+Subsec. (b)(2). Pub. L. 104–132, § 721(g), inserted subpar. (A) designation and added subpar. (B).
 
-Subsec. (c). Pub. L. 104–294 inserted heading and inserted “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States” before period at end.
+Subsec. (c). Pub. L. 104–294 inserted heading and inserted “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–322, title VI, § 60021(c), Sept. 13, 1994, 108 Stat. 1980, provided that:
+Pub. L. 103–322, title VI, § 60021(c), Sept. 13, 1994, 108 Stat. 1980, provided that:
 
 > “The amendment made by subsection (a) [enacting this section] shall take effect on the later of—
 
@@ -363,7 +363,7 @@ Pub. L. 103–322, title VI, § 60021(c), Sept. 13, 1994, 108 Stat. 1980, prov
 
 [Protocol came into force and United States became a party to the Protocol Nov. 18, 1994, Treaty Doc. 100–19.]
 
-## § 38. Fraud involving aircraft or space vehicle parts in interstate or foreign commerce
+## § 38. Fraud involving aircraft or space vehicle parts in interstate or foreign commerce
 
 **(a) Offenses.—** Whoever, in or affecting interstate or foreign commerce, knowingly and with the intent to defraud—
 
@@ -431,7 +431,7 @@ shall be punished as provided in subsection (b).
 
 **(3)** an act in furtherance of the offense was committed in the United States.
 
-(Added Pub. L. 106–181, title V, § 506(c)(1), Apr. 5, 2000, 114 Stat. 137.)
+(Added Pub. L. 106–181, title V, § 506(c)(1), Apr. 5, 2000, 114 Stat. 137.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -439,7 +439,7 @@ shall be punished as provided in subsection (b).
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of Title 49, Transportation.
 
-## § 39. Traffic signal preemption transmitters
+## § 39. Traffic signal preemption transmitters
 
 **(a) Offenses.—**
 
@@ -453,7 +453,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 **(2) Nonqualifying user.—** The term “nonqualifying user” means a person who uses a traffic signal preemption transmitter and is not acting on behalf of a public agency or private corporation authorized by law to provide fire protection, law enforcement, emergency medical services, transit services, maintenance, or other services for a Federal, State, or local government entity, but does not include a person using a traffic signal preemption transmitter for classroom or instructional purposes.
 
-(Added Pub. L. 109–59, title II, § 2018(a), Aug. 10, 2005, 119 Stat. 1542.)
+(Added Pub. L. 109–59, title II, § 2018(a), Aug. 10, 2005, 119 Stat. 1542.)
 
 **Editorial Notes**
 
@@ -461,7 +461,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 Another section 39 was renumbered section 40 of this title.
 
-## § 39A. Aiming a laser pointer at an aircraft
+## § 39A. Aiming a laser pointer at an aircraft
 
 **(a) Offense.—** Whoever knowingly aims the beam of a laser pointer at an aircraft in the special aircraft jurisdiction of the United States, or at the flight path of such an aircraft, shall be fined under this title or imprisoned not more than 5 years, or both.
 
@@ -477,9 +477,9 @@ Another section 39 was renumbered section 40 of this title.
 
 **(d) Authority To Establish Additional Exceptions by Regulation.—** The Attorney General, in consultation with the Secretary of Transportation, may provide by regulation, after public notice and comment, such additional exceptions to this section as may be necessary and appropriate. The Attorney General shall provide written notification of any proposed regulations under this section to the Committees on the Judiciary of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, not less than 90 days before such regulations become final.
 
-(Added Pub. L. 112–95, title III, § 311(a), Feb. 14, 2012, 126 Stat. 65.)
+(Added Pub. L. 112–95, title III, § 311(a), Feb. 14, 2012, 126 Stat. 65.)
 
-## § 39B. Unsafe operation of unmanned aircraft
+## § 39B. Unsafe operation of unmanned aircraft
 
 **(a) Offense.—** Any person who operates an unmanned aircraft and:
 
@@ -499,9 +499,9 @@ Another section 39 was renumbered section 40 of this title.
 
 **(c) Penalty.—**
 
-**(1) In general.—** Except as provided in paragraph (2), the punishment for an offense under subsections 1
+**(1) In general.—** Except as provided in paragraph (2), the punishment for an offense under subsections 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (a) or (b) shall be a fine under this title, imprisonment for not more than 1 year, or both.
 
@@ -511,15 +511,15 @@ Another section 39 was renumbered section 40 of this title.
 
 **(B)** Causes, or attempts or conspires to cause, serious bodily injury or death during the commission of an offense under subsections (a)(1) and (b) shall be fined under this title, imprisoned for any term of years or for life, or both.
 
-(Added Pub. L. 115–254, div. B, title III, § 384(a), Oct. 5, 2018, 132 Stat. 3322.)
+(Added Pub. L. 115–254, div. B, title III, § 384(a), Oct. 5, 2018, 132 Stat. 3322.)
 
-## § 40. Commercial motor vehicles required to stop for inspections
+## § 40. Commercial motor vehicles required to stop for inspections
 
 **(a)** A driver of a commercial motor vehicle (as defined in section 31132 of title 49) shall stop and submit to inspection of the vehicle, driver, cargo, and required records when directed to do so by an authorized employee of the Federal Motor Carrier Safety Administration of the Department of Transportation, at or in the vicinity of an inspection site. The driver shall not leave the inspection site until authorized to do so by an authorized employee.
 
 **(b)** A driver of a commercial motor vehicle, as defined in subsection (a), who knowingly fails to stop for inspection when directed to do so by an authorized employee of the Administration at or in the vicinity of an inspection site, or leaves the inspection site without authorization, shall be fined under this title or imprisoned not more than 1 year, or both.
 
-(Added Pub. L. 109–59, title IV, § 4143(a), Aug. 10, 2005, 119 Stat. 1747, § 39; renumbered § 40, Pub. L. 110–244, title III, § 301(j), June 6, 2008, 122 Stat. 1616.)
+(Added Pub. L. 109–59, title IV, § 4143(a), Aug. 10, 2005, 119 Stat. 1747, § 39; renumbered § 40, Pub. L. 110–244, title III, § 301(j), June 6, 2008, 122 Stat. 1616.)
 
 **Editorial Notes**
 
@@ -527,11 +527,11 @@ Another section 39 was renumbered section 40 of this title.
 
 2008—Pub. L. 110–244 renumbered section 39 of this title, relating to inspection of commercial vehicles, as this section.
 
-## § 40A. Operation of unauthorized unmanned aircraft over wildfires
+## § 40A. Operation of unauthorized unmanned aircraft over wildfires
 
-**(a) In General.—** Except as provided in subsection (b), an individual who operates an unmanned aircraft and knowingly or recklessly interferes with a wildfire suppression, or law enforcement or emergency response efforts 1
+**(a) In General.—** Except as provided in subsection (b), an individual who operates an unmanned aircraft and knowingly or recklessly interferes with a wildfire suppression, or law enforcement or emergency response efforts 1
 
-<sup>1</sup>  So in original. Probably should be “effort”.
+<sup>1</sup> So in original. Probably should be “effort”.
 
 related to a wildfire suppression, shall be fined under this title, imprisoned for not more than 2 years, or both.
 
@@ -545,4 +545,4 @@ related to a wildfire suppression, shall be fined under this title, imprisoned f
 
 **(3) Wildfire suppression.—** The term “wildfire suppression” means an effort to contain, extinguish, or suppress a wildfire.
 
-(Added Pub. L. 115–254, div. B, title III, § 382(a), Oct. 5, 2018, 132 Stat. 3320.)
+(Added Pub. L. 115–254, div. B, title III, § 382(a), Oct. 5, 2018, 132 Stat. 3320.)

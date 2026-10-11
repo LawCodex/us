@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 111—WEATHER RESEARCH AND FORECASTING INNOVATION
 
-## § 8501. Definitions
+## § 8501. Definitions
 
 In this chapter:
 
@@ -39,7 +39,7 @@ The term “Under Secretary” means the Under Secretary of Commerce for Oceans 
 
 The terms “weather industry” and “weather enterprise” are interchangeable in this chapter, and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
 
-(Pub. L. 115–25, § 2, Apr. 18, 2017, 131 Stat. 92.)
+(Pub. L. 115–25, § 2, Apr. 18, 2017, 131 Stat. 92.)
 
 **Editorial Notes**
 
@@ -51,25 +51,25 @@ This chapter, referred to in text, is Pub. L. 115–25, April 18, 2017, 131 Stat
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–229, div. D, § 1, Dec. 16, 2022, 136 Stat. 2313, provided that: “This Act [enacting subchapter IV of this chapter] may be cited as the ‘Providing Research and Estimates of Changes In Precipitation Act’ or the ‘PRECIP Act’.”
+Pub. L. 117–229, div. D, § 1, Dec. 16, 2022, 136 Stat. 2313, provided that: “This Act [enacting subchapter IV of this chapter] may be cited as the ‘Providing Research and Estimates of Changes In Precipitation Act’ or the ‘PRECIP Act’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 115–423, § 1, Jan. 7, 2019, 132 Stat. 5454, provided that: “This Act [enacting section 8550 of this title and section 4010 of Title 33, Navigation and Navigable Waters, amending sections 313d, 8512, 8518 to 8521, 8531, and 8532 of this title and sections 4001 to 4002 and 4009 of Title 33, enacting provisions set out as a note under section 4001 of Title 33, and amending provisions set out as a note under section 313d of this title] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2018’.”
+Pub. L. 115–423, § 1, Jan. 7, 2019, 132 Stat. 5454, provided that: “This Act [enacting section 8550 of this title and section 4010 of Title 33, Navigation and Navigable Waters, amending sections 313d, 8512, 8518 to 8521, 8531, and 8532 of this title and sections 4001 to 4002 and 4009 of Title 33, enacting provisions set out as a note under section 4001 of Title 33, and amending provisions set out as a note under section 313d of this title] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2018’.”
 
 **Short Title**
 
-Pub. L. 115–25, § 1(a), Apr. 18, 2017, 131 Stat. 91, provided that: “This Act [enacting this chapter and sections 3206a and 3208 of Title 33, Navigation and Navigable Waters, amending sections 3201 to 3207 of Title 33, and enacting and repealing provisions set out as notes under section 3201 of Title 33] may be cited as the ‘Weather Research and Forecasting Innovation Act of 2017’.”
+Pub. L. 115–25, § 1(a), Apr. 18, 2017, 131 Stat. 91, provided that: “This Act [enacting this chapter and sections 3206a and 3208 of Title 33, Navigation and Navigable Waters, amending sections 3201 to 3207 of Title 33, and enacting and repealing provisions set out as notes under section 3201 of Title 33] may be cited as the ‘Weather Research and Forecasting Innovation Act of 2017’.”
 
 ## SUBCHAPTER I—UNITED STATES WEATHER RESEARCH AND FORECASTING IMPROVEMENT
 
-### § 8511. Public safety priority
+### § 8511. Public safety priority
 
 In conducting research, the Under Secretary shall prioritize improving weather data, modeling, computing, forecasting, and warnings for the protection of life and property and for the enhancement of the national economy.
 
-(Pub. L. 115–25, title I, § 101, Apr. 18, 2017, 131 Stat. 92.)
+(Pub. L. 115–25, title I, § 101, Apr. 18, 2017, 131 Stat. 92.)
 
-### § 8512. Weather research and forecasting innovation
+### § 8512. Weather research and forecasting innovation
 
 **(a) Program**
 
@@ -139,7 +139,7 @@ It is the sense of Congress that not less than 30 percent of the funds for weath
 
 Each year, concurrent with the annual budget request submitted by the President to Congress under section 1105 of title 31 for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.
 
-(Pub. L. 115–25, title I, § 102, Apr. 18, 2017, 131 Stat. 92; Pub. L. 115–423, § 4(a), Jan. 7, 2019, 132 Stat. 5456; Pub. L. 117–263, div. J, title CVI, § 10601(c)(8), Dec. 23, 2022, 136 Stat. 3997.)
+(Pub. L. 115–25, title I, § 102, Apr. 18, 2017, 131 Stat. 92; Pub. L. 115–423, § 4(a), Jan. 7, 2019, 132 Stat. 5456; Pub. L. 117–263, div. J, title CVI, § 10601(c)(8), Dec. 23, 2022, 136 Stat. 3997.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ Each year, concurrent with the annual budget request submitted by the President 
 
 2019—Subsec. (b)(4). Pub. L. 115–423 added par. (4) relating to advancing weather modeling skill.
 
-### § 8512a. Learning excellence and good examples from new developers
+### § 8512a. Learning excellence and good examples from new developers
 
 **(a) Definitions** In this section:
 
@@ -205,9 +205,9 @@ The term “suitable model” means a model that meets the requirements describe
 
 **(ii)** data used for operational models used by the Administration as of December 23, 2022.
 
-**(2) Accommodations** In developing and implementing the plan under paragraph (1), the Administrator may make such accommodations as the Administrator considers appropriate to ensure that the public release of any model, information, documentation, or data pursuant to the plan do 1
+**(2) Accommodations** In developing and implementing the plan under paragraph (1), the Administrator may make such accommodations as the Administrator considers appropriate to ensure that the public release of any model, information, documentation, or data pursuant to the plan do 1
 
-<sup>1</sup>  So in original. Probably should be “does”.
+<sup>1</sup> So in original. Probably should be “does”.
 
 not jeopardize—
 
@@ -237,7 +237,7 @@ In developing and implementing the plan under paragraph (1), the Administrator m
 
 In carrying out paragraphs (1) and (2), the Administrator may use government servers, contracts or agreements with a private vendor, or any other platform consistent with the purpose of this title.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(7) Support program**
 
@@ -265,7 +265,7 @@ The Administrator shall plan for and establish a program to support infrastructu
 
 **(iii)** for operationalizing innovations to improve suitable models; and
 
-**(C)** the use of any Federal financial assistance, including under section 3719 of this title <sup>2</sup> or the Crowdsourcing and Citizen Science Act (15 U.S.C. 3724), in order to facilitate and incentivize the sharing of externally developed improvements for testing, evaluation, validation, and application to further improve the mission of the Administration, and any other Administration priorities.
+**(C)** the use of any Federal financial assistance, including under section 3719 of this title <sup>2</sup> or the Crowdsourcing and Citizen Science Act (15 U.S.C. 3724), in order to facilitate and incentivize the sharing of externally developed improvements for testing, evaluation, validation, and application to further improve the mission of the Administration, and any other Administration priorities.
 
 **(2) Appropriate congressional committees defined** In this subsection, the term “appropriate congressional committees” means—
 
@@ -287,7 +287,7 @@ Nothing in this section shall be construed to supersede any other provision of l
 
 There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2023 through 2027.
 
-(Pub. L. 117–263, div. J, title CVI, § 10601, Dec. 23, 2022, 136 Stat. 3995.)
+(Pub. L. 117–263, div. J, title CVI, § 10601, Dec. 23, 2022, 136 Stat. 3995.)
 
 **Editorial Notes**
 
@@ -305,7 +305,7 @@ Section was enacted as part of the James M. Inhofe National Defense Authorizatio
 
 Section is comprised of section 10601 of div. J of Pub. L. 117–263. Subsec. (c)(8) of section 10601 of div. J of Pub. L. 117–263 amended section 8512 of this title.
 
-### § 8513. Tornado warning improvement and extension program
+### § 8513. Tornado warning improvement and extension program
 
 **(a) In general**
 
@@ -327,7 +327,7 @@ Not later than 180 days after April 18, 2017, the Assistant Administrator for Oc
 
 Following completion of the plan, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service, shall, not less frequently than once each year, submit to Congress a proposed budget corresponding with the activities identified in the plan.
 
-(Pub. L. 115–25, title I, § 103, Apr. 18, 2017, 131 Stat. 94; Pub. L. 117–316, § 8, Dec. 27, 2022, 136 Stat. 4412.)
+(Pub. L. 115–25, title I, § 103, Apr. 18, 2017, 131 Stat. 94; Pub. L. 117–316, § 8, Dec. 27, 2022, 136 Stat. 4412.)
 
 **Editorial Notes**
 
@@ -335,7 +335,7 @@ Following completion of the plan, the Under Secretary, acting through the Assist
 
 2022—Subsecs. (c) to (e). Pub. L. 117–316 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-### § 8514. Hurricane forecast improvement program
+### § 8514. Hurricane forecast improvement program
 
 **(a) In general**
 
@@ -355,7 +355,7 @@ The Under Secretary, in collaboration with the United States weather industry an
 
 Not later than 1 year after April 18, 2017, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in consultation with the Director of the National Weather Service, shall develop a plan for the project maintained under subsection (a) that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the goal set forth in subsection (b).
 
-(Pub. L. 115–25, title I, § 104, Apr. 18, 2017, 131 Stat. 94; Pub. L. 117–316, § 9, Dec. 27, 2022, 136 Stat. 4412.)
+(Pub. L. 115–25, title I, § 104, Apr. 18, 2017, 131 Stat. 94; Pub. L. 117–316, § 9, Dec. 27, 2022, 136 Stat. 4412.)
 
 **Editorial Notes**
 
@@ -363,7 +363,7 @@ Not later than 1 year after April 18, 2017, the Under Secretary, acting through 
 
 2022—Subsec. (b)(4). Pub. L. 117–316 added par. (4).
 
-### § 8515. Weather research and development planning
+### § 8515. Weather research and development planning
 
 Not later than 1 year after April 18, 2017, and not less frequently than once each year thereafter, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service and the Assistant Administrator for Satellite and Information Services, shall issue a research and development and research to operations plan to restore and maintain United States leadership in numerical weather prediction and forecasting that—
 
@@ -375,7 +375,7 @@ Not later than 1 year after April 18, 2017, and not less frequently than once ea
 
 **(4)** identifies, through consultation with the National Science Foundation, the United States weather industry, and academic partners, research necessary to enhance the integration of social science knowledge into weather forecast and warning processes, including to improve the communication of threat information necessary to enable improved severe weather planning and decisionmaking on the part of individuals and communities.
 
-(Pub. L. 115–25, title I, § 105, Apr. 18, 2017, 131 Stat. 95; Pub. L. 117–316, § 10, Dec. 27, 2022, 136 Stat. 4413.)
+(Pub. L. 115–25, title I, § 105, Apr. 18, 2017, 131 Stat. 95; Pub. L. 117–316, § 10, Dec. 27, 2022, 136 Stat. 4413.)
 
 **Editorial Notes**
 
@@ -383,7 +383,7 @@ Not later than 1 year after April 18, 2017, and not less frequently than once ea
 
 2022—Par. (2). Pub. L. 117–316 inserted “and flood-event” after “operational weather”.
 
-### § 8516. Observing system planning
+### § 8516. Observing system planning
 
 The Under Secretary shall—
 
@@ -395,9 +395,9 @@ The Under Secretary shall—
 
 **(4)** determine a range of options to address gaps identified under paragraph (3).
 
-(Pub. L. 115–25, title I, § 106, Apr. 18, 2017, 131 Stat. 95.)
+(Pub. L. 115–25, title I, § 106, Apr. 18, 2017, 131 Stat. 95.)
 
-### § 8517. Observing System Simulation Experiments
+### § 8517. Observing System Simulation Experiments
 
 **(a) In general** In support of the requirements of section 8516 of this title, the Assistant Administrator for Oceanic and Atmospheric Research shall undertake Observing System Simulation Experiments, or such other quantitative assessments as the Assistant Administrator considers appropriate, to quantitatively assess the relative value and benefits of observing capabilities and systems. Technical and scientific Observing System Simulation Experiment evaluations—
 
@@ -441,15 +441,15 @@ Not later than 120 days after April 18, 2017, the Assistant Administrator for Oc
 
 **(e) Results**
 
-Upon completion of all Observing System Simulation Experiments, the Assistant Administrator shall make available to the public the results an assessment 1
+Upon completion of all Observing System Simulation Experiments, the Assistant Administrator shall make available to the public the results an assessment 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 of related private and public sector weather data sourcing options, including their availability, affordability, and cost-effectiveness. Such assessments shall be developed in accordance with section 50503 of title 51.
 
-(Pub. L. 115–25, title I, § 107, Apr. 18, 2017, 131 Stat. 96.)
+(Pub. L. 115–25, title I, § 107, Apr. 18, 2017, 131 Stat. 96.)
 
-### § 8518. Computing resource efficiency improvement and annual report
+### § 8518. Computing resource efficiency improvement and annual report
 
 **(a) Computing resources**
 
@@ -495,7 +495,7 @@ There is authorized to be appropriated, out of funds appropriated to the Nationa
 
 **(7)** to create a long-term strategy to transition the programming language of weather model code to current and broadly-used coding language.
 
-(Pub. L. 115–25, title I, § 108, Apr. 18, 2017, 131 Stat. 97; Pub. L. 115–423, § 5(a), Jan. 7, 2019, 132 Stat. 5457.)
+(Pub. L. 115–25, title I, § 108, Apr. 18, 2017, 131 Stat. 97; Pub. L. 115–423, § 5(a), Jan. 7, 2019, 132 Stat. 5457.)
 
 **Editorial Notes**
 
@@ -503,7 +503,7 @@ There is authorized to be appropriated, out of funds appropriated to the Nationa
 
 2019—Pub. L. 115–423 amended section generally. Prior to amendment, section related to annual report on computing resources prioritization.
 
-### § 8519. Authorization of appropriations
+### § 8519. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated to the Office of Oceanic and Atmospheric Research to carry out this subchapter—
 
@@ -551,9 +551,9 @@ There is authorized to be appropriated, out of funds appropriated to the Nationa
 
 No additional funds are authorized to carry out this subchapter and the amendments made by this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 115–25, title I, § 110, Apr. 18, 2017, 131 Stat. 98; Pub. L. 115–423, § 3(b), Jan. 7, 2019, 132 Stat. 5455.)
+(Pub. L. 115–25, title I, § 110, Apr. 18, 2017, 131 Stat. 98; Pub. L. 115–423, § 3(b), Jan. 7, 2019, 132 Stat. 5455.)
 
 **Editorial Notes**
 
@@ -567,7 +567,7 @@ The amendments made by this title, referred to in subsec. (b), mean the amendmen
 
 2019—Pub. L. 115–423 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2017 and 2018.
 
-### § 8520. United States Weather Research Program
+### § 8520. United States Weather Research Program
 
 **(a) Establishment** The Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—
 
@@ -621,7 +621,7 @@ The amendments made by this title, referred to in subsec. (b), mean the amendmen
 
 In this section, the term “subseasonal” means the time range between 2 weeks and 3 months.
 
-(Pub. L. 102–567, title I, § 108, Oct. 29, 1992, 106 Stat. 4276; Pub. L. 115–25, title I, § 109, Apr. 18, 2017, 131 Stat. 97; Pub. L. 115–423, § 4(b), Jan. 7, 2019, 132 Stat. 5457.)
+(Pub. L. 102–567, title I, § 108, Oct. 29, 1992, 106 Stat. 4276; Pub. L. 115–25, title I, § 109, Apr. 18, 2017, 131 Stat. 97; Pub. L. 115–423, § 4(b), Jan. 7, 2019, 132 Stat. 5457.)
 
 **Editorial Notes**
 
@@ -637,13 +637,13 @@ Section was enacted as part of the National Oceanic and Atmospheric Administrati
 
 2019—Subsec. (a)(12). Pub. L. 115–423 added par. (12).
 
-2017—Subsec. (a)(5) to (11). Pub. L. 115–25, § 109(1), added pars. (5) to (11). See Codification note above.
+2017—Subsec. (a)(5) to (11). Pub. L. 115–25, § 109(1), added pars. (5) to (11). See Codification note above.
 
-Subsec. (b). Pub. L. 115–25, § 109(2), substituted “The” for “Not later than 90 days after October 29, 1992, the” in introductory provisions. See Codification note above.
+Subsec. (b). Pub. L. 115–25, § 109(2), substituted “The” for “Not later than 90 days after October 29, 1992, the” in introductory provisions. See Codification note above.
 
-Subsec. (c). Pub. L. 115–25, § 109(3), added subsec. (c). See Codification note above.
+Subsec. (c). Pub. L. 115–25, § 109(3), added subsec. (c). See Codification note above.
 
-### § 8521. Weather and climate information in agriculture
+### § 8521. Weather and climate information in agriculture
 
 **(a) Findings** Congress finds that—
 
@@ -715,9 +715,9 @@ Each Federal department and agency shall cooperate as appropriate with the Under
 
 **(1) In general** Not later than 18 months after April 18, 2017, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including—
 
-**(A)** an analysis of the 1
+**(A)** an analysis of the 1
 
-<sup>1</sup>  So in original. The word “the” probably should not appear.
+<sup>1</sup> So in original. The word “the” probably should not appear.
 
 how information from the National Oceanic and Atmospheric Administration on subseasonal and seasonal forecasts, as provided under subsection (c), is utilized in public planning and preparedness;
 
@@ -775,7 +775,7 @@ The terms “weather industry” and “weather enterprise” are interchangeabl
 
 Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Weather Service.
 
-(Pub. L. 99–198, title XVII, § 1762, Dec. 23, 1985, 99 Stat. 1651; Pub. L. 115–25, title II, § 201, Apr. 18, 2017, 131 Stat. 98; Pub. L. 115–423, § 3(a), Jan. 7, 2019, 132 Stat. 5455; Pub. L. 117–316, § 11, Dec. 27, 2022, 136 Stat. 4413.)
+(Pub. L. 99–198, title XVII, § 1762, Dec. 23, 1985, 99 Stat. 1651; Pub. L. 115–25, title II, § 201, Apr. 18, 2017, 131 Stat. 98; Pub. L. 115–423, § 3(a), Jan. 7, 2019, 132 Stat. 5455; Pub. L. 117–316, § 11, Dec. 27, 2022, 136 Stat. 4413.)
 
 **Editorial Notes**
 
@@ -789,17 +789,17 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 2022—Subsec. (f)(1). Pub. L. 117–316 substituted “shall include” for “may include”.
 
-2019—Subsec. (j). Pub. L. 115–423, § 3(a)(1), amended subsec. (j) generally. Prior to amendment, text read as follows: “For each of fiscal years 2017 and 2018, there are authorized out of funds appropriated to the National Weather Service, $26,500,000 to carry out the activities of this section.”
+2019—Subsec. (j). Pub. L. 115–423, § 3(a)(1), amended subsec. (j) generally. Prior to amendment, text read as follows: “For each of fiscal years 2017 and 2018, there are authorized out of funds appropriated to the National Weather Service, $26,500,000 to carry out the activities of this section.”
 
-Subsec. (k). Pub. L. 115–423, § 3(a)(2), added subsec. (k).
+Subsec. (k). Pub. L. 115–423, § 3(a)(2), added subsec. (k).
 
-2017—Subsecs. (a), (b). Pub. L. 115–25, § 201(1), (2), inserted headings.
+2017—Subsecs. (a), (b). Pub. L. 115–25, § 201(1), (2), inserted headings.
 
-Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
+Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 
 ## SUBCHAPTER II—WEATHER SATELLITE AND DATA INNOVATION
 
-### § 8531. National Oceanic and Atmospheric Administration satellite and data management
+### § 8531. National Oceanic and Atmospheric Administration satellite and data management
 
 **(a) Short-term management of environmental observations**
 
@@ -885,9 +885,9 @@ If the Under Secretary enters into an agreement with another organization as des
 
 **(4) Authorization of appropriations**
 
-There are authorized to be appropriated, out of funds appropriated to National 1
+There are authorized to be appropriated, out of funds appropriated to National 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Environmental Satellite, Data, and Information Service, to carry out this subsection $1,000,000 for the period encompassing fiscal years 2018 through 2019.
 
@@ -989,25 +989,25 @@ Not later than 90 days after September 30 of each fiscal year through September 
 
 Nothing in this section may be construed as limiting the authority of the National Oceanic and Atmospheric Administration to use cooperative research and development agreements, grants, procurement contracts, or cooperative agreements.
 
-(Pub. L. 115–25, title III, § 301, Apr. 18, 2017, 131 Stat. 101; Pub. L. 115–423, §§ 6, 7(a), Jan. 7, 2019, 132 Stat. 5459, 5461; Pub. L. 116–259, title V, § 503, Dec. 23, 2020, 134 Stat. 1179.)
+(Pub. L. 115–25, title III, § 301, Apr. 18, 2017, 131 Stat. 101; Pub. L. 115–423, §§ 6, 7(a), Jan. 7, 2019, 132 Stat. 5459, 5461; Pub. L. 116–259, title V, § 503, Dec. 23, 2020, 134 Stat. 1179.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (c)(1)(D). Pub. L. 116–259, § 503(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “improve weather forecasting and predictions.”
+2020—Subsec. (c)(1)(D). Pub. L. 116–259, § 503(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “improve weather forecasting and predictions.”
 
-Subsec. (d)(1). Pub. L. 116–259, § 503(2)(A), substituted “data, satellite, and other observing systems” for “data and satellite systems” and “to carry out—” and subpars. (A) and (B) for “to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1).”
+Subsec. (d)(1). Pub. L. 116–259, § 503(2)(A), substituted “data, satellite, and other observing systems” for “data and satellite systems” and “to carry out—” and subpars. (A) and (B) for “to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1).”
 
-Subsec. (d)(2)(B)(i). Pub. L. 116–259, § 503(2)(B), substituted “systems, including satellites, instrumentation, ground stations, data, and data processing;” for “satellites, instrumentation, ground stations, and data;”.
+Subsec. (d)(2)(B)(i). Pub. L. 116–259, § 503(2)(B), substituted “systems, including satellites, instrumentation, ground stations, data, and data processing;” for “satellites, instrumentation, ground stations, and data;”.
 
-Subsec. (d)(3). Pub. L. 116–259, § 503(2)(C), substituted “2030” for “2023”.
+Subsec. (d)(3). Pub. L. 116–259, § 503(2)(C), substituted “2030” for “2023”.
 
-2019—Subsec. (a)(2)(C). Pub. L. 115–423, § 7(a), added subpar. (C).
+2019—Subsec. (a)(2)(C). Pub. L. 115–423, § 7(a), added subpar. (C).
 
-Subsecs. (c) to (g). Pub. L. 115–423, § 6, added subsecs. (c) to (g).
+Subsecs. (c) to (g). Pub. L. 115–423, § 6, added subsecs. (c) to (g).
 
-### § 8532. Commercial weather data
+### § 8532. Commercial weather data
 
 **(a) Data and hosted satellite payloads** Notwithstanding any other provision of law, the Secretary of Commerce may enter into agreements for—
 
@@ -1039,9 +1039,9 @@ Not later than 180 days after April 18, 2017, the Secretary of Commerce, in cons
 
 **(3) Authority for agreements**
 
-The Assistant Administrator for National 1
+The Assistant Administrator for National 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Environmental Satellite, Data, and Information Service may enter into multiyear agreements necessary to carry out the strategy developed under this subsection.
 
@@ -1083,7 +1083,7 @@ For each of fiscal years 2019 through 2023, there are authorized to be appropria
 
 The Under Secretary shall continue to meet the international meteorological agreements into which the Under Secretary has entered, including practices set forth through World Meteorological Organization Resolution 40.
 
-(Pub. L. 115–25, title III, § 302, Apr. 18, 2017, 131 Stat. 103; Pub. L. 115–423, § 7(b), Jan. 7, 2019, 132 Stat. 5461.)
+(Pub. L. 115–25, title III, § 302, Apr. 18, 2017, 131 Stat. 103; Pub. L. 115–423, § 7(b), Jan. 7, 2019, 132 Stat. 5461.)
 
 **Editorial Notes**
 
@@ -1091,15 +1091,15 @@ The Under Secretary shall continue to meet the international meteorological agre
 
 2019—Subsec. (c)(3). Pub. L. 115–423 substituted “2019 through 2023” for “2017 through 2020” and inserted “the” before “National”.
 
-### § 8533. Unnecessary duplication
+### § 8533. Unnecessary duplication
 
 In meeting the requirements under this subchapter, the Under Secretary shall avoid unnecessary duplication between public and private sources of data and the corresponding expenditure of funds and employment of personnel.
 
-(Pub. L. 115–25, title III, § 303, Apr. 18, 2017, 131 Stat. 105.)
+(Pub. L. 115–25, title III, § 303, Apr. 18, 2017, 131 Stat. 105.)
 
 ## SUBCHAPTER III—FEDERAL WEATHER COORDINATION
 
-### § 8541. Environmental Information Services Working Group
+### § 8541. Environmental Information Services Working Group
 
 **(a) Establishment** The National Oceanic and Atmospheric Administration Science Advisory Board shall continue to maintain a standing working group named the Environmental Information Services Working Group (in this section referred to as the “Working Group”)—
 
@@ -1129,9 +1129,9 @@ The Working Group shall be composed of no fewer than 15 members. Nominees for th
 
 Not less frequently than once each year, the Working Group shall transmit to the Science Advisory Board for submission to the Under Secretary a report on progress made by National Oceanic and Atmospheric Administration in adopting the Working Group’s recommendations. The Science Advisory Board shall transmit this report to the Under Secretary. Within 30 days of receipt of such report, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a copy of such report.
 
-(Pub. L. 115–25, title IV, § 401, Apr. 18, 2017, 131 Stat. 105.)
+(Pub. L. 115–25, title IV, § 401, Apr. 18, 2017, 131 Stat. 105.)
 
-### § 8542. Interagency weather research and forecast innovation coordination
+### § 8542. Interagency weather research and forecast innovation coordination
 
 **(a) Establishment** The Director of the Office of Science and Technology Policy shall establish an Interagency Committee for Advancing Weather Services to improve coordination of relevant weather research and forecast innovation activities across the Federal Government. The Interagency Committee shall—
 
@@ -1149,15 +1149,15 @@ The Federal Coordinator for Meteorology shall serve as a co-chair of this panel.
 
 The Director of the Office of Science and Technology Policy shall take such other steps as are necessary to coordinate the activities of the Federal Government with those of the United States weather industry, State governments, emergency managers, and academic researchers.
 
-(Pub. L. 115–25, title IV, § 402, Apr. 18, 2017, 131 Stat. 106.)
+(Pub. L. 115–25, title IV, § 402, Apr. 18, 2017, 131 Stat. 106.)
 
-### § 8543. Office of Oceanic and Atmospheric Research and National Weather Service exchange program
+### § 8543. Office of Oceanic and Atmospheric Research and National Weather Service exchange program
 
 **(a) In general**
 
-The Assistant Administrator for Oceanic and Atmospheric Research and the Director of National 1
+The Assistant Administrator for Oceanic and Atmospheric Research and the Director of National 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Weather Service may establish a program to detail Office of Oceanic and Atmospheric Research personnel to the National Weather Service and National Weather Service personnel to the Office of Oceanic and Atmospheric Research.
 
@@ -1173,9 +1173,9 @@ The program shall allow up to 10 Office of Oceanic and Atmospheric Research staf
 
 Not less frequently than once each year, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on participation in such program and shall highlight any innovations that come from this interaction.
 
-(Pub. L. 115–25, title IV, § 403, Apr. 18, 2017, 131 Stat. 107.)
+(Pub. L. 115–25, title IV, § 403, Apr. 18, 2017, 131 Stat. 107.)
 
-### § 8544. Visiting fellows at National Weather Service
+### § 8544. Visiting fellows at National Weather Service
 
 **(a) In general**
 
@@ -1189,9 +1189,9 @@ This program shall be designed to provide direct interaction between forecasters
 
 Such fellows shall be competitively selected and appointed for a term not to exceed 1 year.
 
-(Pub. L. 115–25, title IV, § 404, Apr. 18, 2017, 131 Stat. 107.)
+(Pub. L. 115–25, title IV, § 404, Apr. 18, 2017, 131 Stat. 107.)
 
-### § 8545. Warning coordination meteorologists at weather forecast offices of National Weather Service
+### § 8545. Warning coordination meteorologists at weather forecast offices of National Weather Service
 
 **(a) Designation of warning coordination meteorologists**
 
@@ -1215,7 +1215,7 @@ The primary role of the warning coordination meteorologist shall be to carry out
 
 **(1) In general** Subject to paragraph (2), consistent with the analysis described in section 409,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and in order to increase impact-based decision support services, each warning coordination meteorologist designated under subsection (a) shall—
 
@@ -1259,7 +1259,7 @@ In carrying out this section, the Director of the National Weather Service may p
 
 If the Director determines that the placement of a warning coordination meteorologist placed with a State or local emergency manager under paragraph (1) is near a weather forecast office of the National Weather Service, such placement shall be treated as designation of the warning coordination meteorologist at such weather forecast office for purposes of subsection (a).
 
-(Pub. L. 115–25, title IV, § 405, Apr. 18, 2017, 131 Stat. 107.)
+(Pub. L. 115–25, title IV, § 405, Apr. 18, 2017, 131 Stat. 107.)
 
 **Editorial Notes**
 
@@ -1267,7 +1267,7 @@ If the Director determines that the placement of a warning coordination meteorol
 
 Section 409, referred to in subsec. (c)(1), is section 409 of Pub. L. 115–25, title IV, Apr. 18, 2017, 131 Stat. 112, which is not classified to the Code.
 
-### § 8546. National Oceanic and Atmospheric Administration Weather Ready All Hazards Award Program
+### § 8546. National Oceanic and Atmospheric Administration Weather Ready All Hazards Award Program
 
 **(a) Program**
 
@@ -1291,9 +1291,9 @@ Annually, the Director of the National Weather Service shall choose winners of t
 
 The Director of the National Weather Service shall establish a means of making these awards to provide maximum public awareness of the importance of National Oceanic and Atmospheric Administration Weather Radio, and such other warning tools and applications as are represented in the awards.
 
-(Pub. L. 115–25, title IV, § 407, Apr. 18, 2017, 131 Stat. 111.)
+(Pub. L. 115–25, title IV, § 407, Apr. 18, 2017, 131 Stat. 111.)
 
-### § 8547. Report on contract positions at National Weather Service
+### § 8547. Report on contract positions at National Weather Service
 
 **(a) Report required**
 
@@ -1309,9 +1309,9 @@ Not later than 180 days after April 18, 2017, the Under Secretary shall submit t
 
 **(4)** The five most common positions filled by full-time equivalent contractors at the National Weather Service and the equivalent level of the General Schedule that most closely approximates the duties of such positions.
 
-**(5)** Of the positions identified under paragraph (4), the percentage of full-time equivalent contractors in those positions that have held a prior position at the National Weather Service or another entity in National 1
+**(5)** Of the positions identified under paragraph (4), the percentage of full-time equivalent contractors in those positions that have held a prior position at the National Weather Service or another entity in National 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Oceanic and Atmospheric Administration.
 
@@ -1325,7 +1325,7 @@ Oceanic and Atmospheric Administration.
 
 For each fiscal year after the fiscal year covered by the report required by subsection (a), the Under Secretary shall, not later than 180 days after the completion of the fiscal year, publish on a publicly accessible Internet website the information described in paragraphs (1) through (8) of subsection (b) for such fiscal year.
 
-(Pub. L. 115–25, title IV, § 410, Apr. 18, 2017, 131 Stat. 112.)
+(Pub. L. 115–25, title IV, § 410, Apr. 18, 2017, 131 Stat. 112.)
 
 **Editorial Notes**
 
@@ -1333,7 +1333,7 @@ For each fiscal year after the fiscal year covered by the report required by sub
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-### § 8548. Weather enterprise outreach
+### § 8548. Weather enterprise outreach
 
 **(a) In general** The Under Secretary may establish mechanisms for outreach to the weather enterprise—
 
@@ -1361,9 +1361,9 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 **(9)** Such other stakeholder groups as the Under Secretary considers appropriate.
 
-(Pub. L. 115–25, title IV, § 412, Apr. 18, 2017, 131 Stat. 113.)
+(Pub. L. 115–25, title IV, § 412, Apr. 18, 2017, 131 Stat. 113.)
 
-### § 8549. Hurricane hunter aircraft
+### § 8549. Hurricane hunter aircraft
 
 **(a) Backup capability**
 
@@ -1381,9 +1381,9 @@ The Under Secretary shall continue the development of Airborne Phased Array Rada
 
 For each of fiscal years 2017 through 2020, support for implementing subsections (a) and (b) is authorized out of funds appropriated to the Office of Marine and Aviation Operations.
 
-(Pub. L. 115–25, title IV, § 413, Apr. 18, 2017, 131 Stat. 114.)
+(Pub. L. 115–25, title IV, § 413, Apr. 18, 2017, 131 Stat. 114.)
 
-### § 8550. Improvements to Cooperative Observer Program of National Weather Service
+### § 8550. Improvements to Cooperative Observer Program of National Weather Service
 
 **(a) In general** The Under Secretary of Commerce for Oceans and Atmosphere, acting through the National Weather Service, shall improve the Cooperative Observer Program by—
 
@@ -1411,7 +1411,7 @@ Not less frequently than every 180 days, the National Weather Service shall coor
 
 The National Weather Service shall coordinate with other Federal agencies, including the Forest Service, the Department of Agriculture, and the United States Geological Survey, to leverage opportunities to grow the Cooperative Observer Program network and to more effectively use existing infrastructure, weather stations, and staff of the Program.
 
-(Pub. L. 115–423, § 8, Jan. 7, 2019, 132 Stat. 5461.)
+(Pub. L. 115–423, § 8, Jan. 7, 2019, 132 Stat. 5461.)
 
 **Editorial Notes**
 
@@ -1421,7 +1421,7 @@ This section was enacted as part of the National Integrated Drought Information 
 
 ## SUBCHAPTER IV—IMPROVING FEDERAL PRECIPITATION INFORMATION
 
-### § 8561. Study on precipitation estimation
+### § 8561. Study on precipitation estimation
 
 **(a) In general** Not later than 90 days after December 16, 2022, the Administrator, in consultation with other Federal agencies as appropriate, shall seek to enter an agreement with the National Academies—
 
@@ -1459,9 +1459,9 @@ This section was enacted as part of the National Integrated Drought Information 
 
 There is authorized $1,500,000 to the National Oceanic and Atmospheric Administration to carry out this study.
 
-(Pub. L. 115–25, title VI, § 601, as added Pub. L. 117–229, div. D, § 2(a), Dec. 16, 2022, 136 Stat. 2313.)
+(Pub. L. 115–25, title VI, § 601, as added Pub. L. 117–229, div. D, § 2(a), Dec. 16, 2022, 136 Stat. 2313.)
 
-### § 8562. Improving probable maximum precipitation estimates
+### § 8562. Improving probable maximum precipitation estimates
 
 **(a) In general** Not later than 90 days after the date on which the National Academies makes public the report under section 8561 of this title, the Administrator, in consideration of the report recommendations, shall consult with relevant partners, including users of the data, on the development of a plan to—
 
@@ -1491,9 +1491,9 @@ Not later than 2 years after the date on which the National Academies makes publ
 
 The Administrator shall update the National Guidance Document not less than once every 10 years after the publication of the National Guidance Document under subsection (c) and publish such updates in accordance with such subsection.
 
-(Pub. L. 115–25, title VI, § 602, as added Pub. L. 117–229, div. D, § 2(a), Dec. 16, 2022, 136 Stat. 2314.)
+(Pub. L. 115–25, title VI, § 602, as added Pub. L. 117–229, div. D, § 2(a), Dec. 16, 2022, 136 Stat. 2314.)
 
-### § 8563. Definitions
+### § 8563. Definitions
 
 In this subchapter:
 
@@ -1509,4 +1509,4 @@ The term “National Academies” means the National Academies of Sciences, Engi
 
 The term “United States” means, collectively, each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.
 
-(Pub. L. 115–25, title VI, § 603, as added Pub. L. 117–229, div. D, § 2(a), Dec. 16, 2022, 136 Stat. 2315.)
+(Pub. L. 115–25, title VI, § 603, as added Pub. L. 117–229, div. D, § 2(a), Dec. 16, 2022, 136 Stat. 2315.)

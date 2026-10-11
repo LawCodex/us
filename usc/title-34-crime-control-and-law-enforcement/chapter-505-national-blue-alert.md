@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 505—NATIONAL BLUE ALERT
 
-## § 50501. Definitions
+## § 50501. Definitions
 
 In this chapter:
 
@@ -47,7 +47,7 @@ The term “network” means the Blue Alert communications network established b
 
 The term “State” means each of the 50 States, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 114–12, § 2, May 19, 2015, 129 Stat. 192.)
+(Pub. L. 114–12, § 2, May 19, 2015, 129 Stat. 192.)
 
 **Editorial Notes**
 
@@ -61,11 +61,11 @@ Section was formerly classified to section 14165 of Title 42, The Public Health 
 
 For short title of Pub. L. 114–12, which is classified to this chapter, as the “Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015”, see section 1 of Pub. L. 114–12, set out as a Short Title of 2015 Act note under section 10101 of this title.
 
-## § 50502. Blue Alert communications network
+## § 50502. Blue Alert communications network
 
 The Attorney General shall establish a national Blue Alert communications network within the Department of Justice to issue Blue Alerts through the initiation, facilitation, and promotion of Blue Alert plans, in coordination with States, units of local government, law enforcement agencies, and other appropriate entities.
 
-(Pub. L. 114–12, § 3, May 19, 2015, 129 Stat. 193.)
+(Pub. L. 114–12, § 3, May 19, 2015, 129 Stat. 193.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ The Attorney General shall establish a national Blue Alert communications networ
 
 Section was formerly classified to section 14165a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50503. Blue Alert Coordinator; guidelines
+## § 50503. Blue Alert Coordinator; guidelines
 
 **(a) Coordination within Department of Justice**
 
@@ -213,7 +213,7 @@ The Coordinator shall cooperate with the Secretary of Homeland Security, the Sec
 
 Not later than 1 year after May 19, 2015, and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the Blue Alert plans that are in effect or being developed.
 
-(Pub. L. 114–12, § 4, May 19, 2015, 129 Stat. 193.)
+(Pub. L. 114–12, § 4, May 19, 2015, 129 Stat. 193.)
 
 **Editorial Notes**
 

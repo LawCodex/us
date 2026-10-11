@@ -15,31 +15,31 @@ retrieved: 2026-10-11
 
 # CHAPTER 51—UNITED STATES CAPITOL BUILDINGS AND GROUNDS
 
-## § 5101. Definition
+## § 5101. Definition
 
-In this chapter, the term “Capitol Buildings” means the United States Capitol, the Senate and House Office Buildings and garages, the Capitol Power Plant, all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden) 1
+In this chapter, the term “Capitol Buildings” means the United States Capitol, the Senate and House Office Buildings and garages, the Capitol Power Plant, all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 all buildings on the real property described under section 5102(d), all subways and enclosed passages connecting two or more of those structures, and the real property underlying and enclosed by any of those structures.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 108–7, div. H, title I, § 1016(a), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(i), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, § 4(b)(1)(A), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 108–7, div. H, title I, § 1016(a), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(i), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, § 4(b)(1)(A), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5101 | 40:193m(1). | July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d), Oct. 20, 1967, 81 Stat. 277. |
+| 5101 | 40:193m(1). | July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d), Oct. 20, 1967, 81 Stat. 277. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(A)(i). See 2007 Amendment note below.
+2010—Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(A)(i). See 2007 Amendment note below.
 
 2008—Pub. L. 110–178 inserted “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”.
 
-2007—Pub. L. 110–161, § 1004(d)(2)(A)(i), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+2007—Pub. L. 110–161, § 1004(d)(2)(A)(i), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 2003—Pub. L. 108–7 inserted “all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden),” after “Capitol Power Plant,”.
 
@@ -63,21 +63,21 @@ Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year
 
 **Designation of David R. Obey Hearing Room**
 
-Pub. L. 117–103, div. I, title I, § 115, Mar. 15, 2022, 136 Stat. 511, provided that: “Hereafter, the hearing room of the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee on Appropriations of the House of Representatives (room 2358–C of the Rayburn House Office Building) shall be known and designated as the ‘David R. Obey Room’.”
+Pub. L. 117–103, div. I, title I, § 115, Mar. 15, 2022, 136 Stat. 511, provided that: “Hereafter, the hearing room of the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee on Appropriations of the House of Representatives (room 2358–C of the Rayburn House Office Building) shall be known and designated as the ‘David R. Obey Room’.”
 
 **Designating Small House Rotunda as “Freedom Foyer”**
 
-Pub. L. 114–74, title XII, § 1201, Nov. 2, 2015, 129 Stat. 639, provided that: “The first floor of the area of the House of Representatives wing of the United States Capitol known as the small House rotunda is designated the ‘Freedom Foyer’.”
+Pub. L. 114–74, title XII, § 1201, Nov. 2, 2015, 129 Stat. 639, provided that: “The first floor of the area of the House of Representatives wing of the United States Capitol known as the small House rotunda is designated the ‘Freedom Foyer’.”
 
 **Designation of Great Hall of the Capitol Visitor Center as “Emancipation Hall”**
 
-Pub. L. 110–139, § 1, Dec. 18, 2007, 121 Stat. 1491, provided that:
+Pub. L. 110–139, § 1, Dec. 18, 2007, 121 Stat. 1491, provided that:
 
 > **“(a) In General.—** The great hall of the Capitol Visitor Center shall be known and designated as ‘Emancipation Hall’, and any reference to the great hall in any law, rule, or regulation shall be deemed to be a reference to Emancipation Hall.
 
 > **“(b) Effective Date.—** This section shall apply on and after the date of the enactment of this Act [Dec. 18, 2007].”
 
-## § 5102. Legal description and jurisdiction of United States Capitol Grounds
+## § 5102. Legal description and jurisdiction of United States Capitol Grounds
 
 **(a) Legal Description.—** The United States Capitol Grounds comprises all squares, reservations, streets, roadways, walks, and other areas as defined on a map entitled “Map showing areas comprising United States Capitol Grounds”, dated June 25, 1946, approved by the Architect of the Capitol, and recorded in the Office of the Surveyor of the District of Columbia in book 127, page 8, including all additions added by law after June 25, 1946.
 
@@ -105,29 +105,29 @@ Pub. L. 110–139, § 1, Dec. 18, 2007, 121 Stat. 1491, provided that:
 
 **(3) Authority not limited.—** Nothing in this subsection shall limit the authority of the Architect of the Capitol under section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(d) Library of Congress Buildings and Grounds.—**
 
-**(1) In general.—** Except as provided under paragraph (2), the United States Capitol Grounds shall include the Library of Congress grounds described under section 11 of the Act entitled “An Act relating to the policing of the buildings 2
+**(1) In general.—** Except as provided under paragraph (2), the United States Capitol Grounds shall include the Library of Congress grounds described under section 11 of the Act entitled “An Act relating to the policing of the buildings 2
 
-<sup>2</sup>  So in original. Probably should be followed by “and grounds”.
+<sup>2</sup> So in original. Probably should be followed by “and grounds”.
 
 of the Library of Congress”, approved August 4, 1950 (2 U.S.C. 167j).
 
 **(2) Authority of librarian of congress.—** Notwithstanding subsections (a) and (b), the Librarian of Congress shall retain authority over the Library of Congress buildings and grounds in accordance with section 1 of the Act of June 29, 1922 (2 U.S.C. 141; 42 Stat. 715).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, § 1016(b), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(ii), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, § 4(b)(1)(B), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, § 1016(b), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(ii), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, § 4(b)(1)(B), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Definition of United States Capitol Grounds**
 
-For provisions directing amendment of this section (or section 1 of the Act of July 31, 1946, as amended (former 40 U.S.C. 193a), which was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as this section) to include within or exclude from the definition of the United States Capitol Grounds certain parcels or areas, see notes set out below and under section 6101 of this title.
+For provisions directing amendment of this section (or section 1 of the Act of July 31, 1946, as amended (former 40 U.S.C. 193a), which was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as this section) to include within or exclude from the definition of the United States Capitol Grounds certain parcels or areas, see notes set out below and under section 6101 of this title.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5102 | 40:193a. | July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 20, 1967, 81 Stat. 275; Pub. L. 93–198, § 739(g)(7), Dec. 24, 1973, 87 Stat. 829; Pub. L. 96–432, § 2, Oct. 10, 1980, 94 Stat. 1852. |
+| 5102 | 40:193a. | July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 20, 1967, 81 Stat. 275; Pub. L. 93–198, § 739(g)(7), Dec. 24, 1973, 87 Stat. 829; Pub. L. 96–432, § 2, Oct. 10, 1980, 94 Stat. 1852. |
 
 In subsection (b)(2), the words “Mayor of the District of Columbia” are substituted for “Commissioners of the District of Columbia” [meaning the Board of Commissioners of the District of Columbia] [subsequently changed to “Commissioner of the District of Columbia” because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). In subparagraph (A), the words “Washington Avenue Southwest” are substituted for “Canal Street S. W.” and “Canal Street Southwest” because of section 2 of D.C. Law 8–39. See section 7–451 note of the District of Columbia Code.
 
@@ -139,11 +139,11 @@ Section 307E of the Legislative Branch Appropriations Act, 1989, referred to in 
 
 **Amendments**
 
-2010—Subsec. (d). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(A)(ii). See 2007 Amendment note below.
+2010—Subsec. (d). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(A)(ii). See 2007 Amendment note below.
 
 2008—Subsec. (d). Pub. L. 110–178 added subsec. (d).
 
-2007—Subsec. (d). Pub. L. 110–161, § 1004(d)(2)(A)(ii), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+2007—Subsec. (d). Pub. L. 110–161, § 1004(d)(2)(A)(ii), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 2003—Subsec. (c). Pub. L. 108–7 added subsec. (c).
 
@@ -167,7 +167,7 @@ Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year
 
 **Authorizing Commercial Activity on Union Square**
 
-Pub. L. 113–76, div. I, title II, § 213, Jan. 17, 2014, 128 Stat. 436, provided that:
+Pub. L. 113–76, div. I, title II, § 213, Jan. 17, 2014, 128 Stat. 436, provided that:
 
 > **“(a) Treatment as Part of Capitol Grounds.—**
 
@@ -197,7 +197,7 @@ Pub. L. 113–76, div. I, title II, § 213, Jan. 17, 2014, 128 Stat. 436, prov
 
 **Transfers and Conveyances Affecting Properties in the District of Columbia and General Provisions**
 
-Pub. L. 109–396, title II, §§ 201, 204, title IV, §§ 401–407, Dec. 15, 2006, 120 Stat. 2713, 2715, 2718–2720, provided that:
+Pub. L. 109–396, title II, §§ 201, 204, title IV, §§ 401–407, Dec. 15, 2006, 120 Stat. 2713, 2715, 2718–2720, provided that:
 
 > **“SEC. 201. TRANSFER OF ADMINISTRATIVE JURISDICTION OVER CERTAIN PROPERTIES.**
 
@@ -261,7 +261,7 @@ Pub. L. 109–396, title II, §§ 201, 204, title IV, §§ 401–407, Dec. 1
 
 > **“SEC. 204. CONVEYANCE TO ARCHITECT OF THE CAPITOL.**
 
-> **“(a) In General.—** Prior to conveyance of title to U.S. Reservation 13 to the District of Columbia under this Act [see Pub. L. 109–396, title I, § 101, Dec. 15, 2006, 120 Stat. 2711], the District of Columbia shall convey, with the approval of the Architect of the Capitol and subject to subsections (b) and (c), not more than 12 acres of real property to the Architect of the Capitol.
+> **“(a) In General.—** Prior to conveyance of title to U.S. Reservation 13 to the District of Columbia under this Act [see Pub. L. 109–396, title I, § 101, Dec. 15, 2006, 120 Stat. 2711], the District of Columbia shall convey, with the approval of the Architect of the Capitol and subject to subsections (b) and (c), not more than 12 acres of real property to the Architect of the Capitol.
 
 > **“(b) Title Held by Secretary.—** If title to the real property identified for conveyance under subsection (a) is held by the Secretary, not later than 30 days after being notified by the Architect of the Capitol that property has been so identified, the Secretary shall agree or disagree to conveying the interest in such property to the Architect of the Capitol.
 
@@ -327,7 +327,7 @@ Pub. L. 109–396, title II, §§ 201, 204, title IV, §§ 401–407, Dec. 1
 
 **Changes in United States Capitol Grounds**
 
-Pub. L. 108–447, div. G, title II, § 213, Dec. 8, 2004, 118 Stat. 3196, provided that:
+Pub. L. 108–447, div. G, title II, § 213, Dec. 8, 2004, 118 Stat. 3196, provided that:
 
 > **“(a) Transfer of Jurisdiction.—**
 
@@ -353,7 +353,7 @@ Pub. L. 108–447, div. G, title II, § 213, Dec. 8, 2004, 118 Stat. 3196, pro
 
 > **“(c) Effective Date.—** This Act [probably means this section] shall apply to fiscal year 2005 and each fiscal year thereafter.”
 
-Pub. L. 104–333, div. I, title V, § 514, Nov. 12, 1996, 110 Stat. 4165, provided that:
+Pub. L. 104–333, div. I, title V, § 514, Nov. 12, 1996, 110 Stat. 4165, provided that:
 
 > **“(a) Purpose.—** It is the purpose of this section—
 
@@ -423,7 +423,7 @@ Pub. L. 97–379, Dec. 22, 1982, 96 Stat. 1935, provided:
 
 > **“(4)** All sidewalks and contiguous areas presently under the jurisdiction of the District of Columbia located on the east side of Third Street between the south curb of Pennsylvania Avenue, Northwest and the north curb of Maryland Avenue, Southwest.”
 
-Pub. L. 96–432, § 1, Oct. 10, 1980, 94 Stat. 1851, provided:
+Pub. L. 96–432, § 1, Oct. 10, 1980, 94 Stat. 1851, provided:
 
 > “That section 1 of the Act of July 31, 1946, as amended (40 U.S.C. 193a) [now 40 U.S.C. 5102], is amended to include within the definition of the United States Capitol Grounds the following additional areas and portions of streets which are situated as follows:
 
@@ -471,15 +471,15 @@ Pub. L. 96–432, § 1, Oct. 10, 1980, 94 Stat. 1851, provided:
 
 > **“(22)** all that area contiguous to, and surrounding, square numbered 581 from the property line thereof to the contiguous curb.”
 
-Pub. L. 93–198, title VII, § 739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective Jan. 2, 1975, [title IV of Pub. L. 93–198 having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of Pub. L. 93–198 to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
+Pub. L. 93–198, title VII, § 739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective Jan. 2, 1975, [title IV of Pub. L. 93–198 having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of Pub. L. 93–198 to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
 
 **Jurisdiction of the Capitol Police Board and the Architect of the Capitol**
 
-Pub. L. 96–432, § 3, Oct. 10, 1980, 94 Stat. 1852, provided that: “On and after the effective date of this section [see Pub. L. 96–432, § 4, Oct. 10, 1980, 94 Stat. 1853], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to the same extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
+Pub. L. 96–432, § 3, Oct. 10, 1980, 94 Stat. 1852, provided that: “On and after the effective date of this section [see Pub. L. 96–432, § 4, Oct. 10, 1980, 94 Stat. 1853], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to the same extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
 
 **United States Supreme Court and Library of Congress; Jurisdictional Boundaries**
 
-Pub. L. 96–432, § 6(a), (b), Oct. 10, 1980, 94 Stat. 1853, provided that:
+Pub. L. 96–432, § 6(a), (b), Oct. 10, 1980, 94 Stat. 1853, provided that:
 
 > **“(a)** Notwithstanding any other provisions of this Act [enacting section 1962 of Title 2, The Congress, amending section 193a of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section], with respect to those squares occupied by the United States Supreme Court and the Library of Congress, those streets or portions thereof referred to in the first section of this Act [set out as a note above] which surround such squares shall be considered a part of the Capitol Grounds only to the face of the curbs contiguous to such squares.
 
@@ -489,7 +489,7 @@ Pub. L. 96–432, § 6(a), (b), Oct. 10, 1980, 94 Stat. 1853, provided that:
 
 Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 64, provided in part: “That upon acquisition of such real property pursuant to this paragraph [incorporating by reference the provisions of Pub. L. 96–432, Oct. 10, 1980, 94 Stat. 1851, which related to the acquisition of property in squares 693, 640, and 582 in the District of Columbia], the structure located on lot 801 of square 693 shall become a part of the House Office Buildings, subject to the provisions of the Act of July 31, 1946 (40 U.S.C. secs. 193a through 193m, [207a,] 212a, [212a–2, 212a–3,] and 212b) [now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress], including any amendments thereto, which are applicable to the Capitol Buildings, and to the Act of March 4, 1907 (40 U.S.C. 175) [now 2 U.S.C. 2001].”
 
-Pub. L. 96–432, §§ 7–10, Oct. 10, 1980, 94 Stat. 1853, 1854, provided that:
+Pub. L. 96–432, §§ 7–10, Oct. 10, 1980, 94 Stat. 1853, 1854, provided that:
 
 > **“Sec. 7.**
 
@@ -543,7 +543,7 @@ WHEREAS, Squares 732 north and south were acquired as an addition to the Capitol
 
 WHEREAS, the aforesaid Additional House Office Building Act provides, in pertinent part, with respect to these properties, as follows:
 
-> “\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C., secs. 193a—193m, [207a,] 212a, [212a–2, 212a–3,] and 212b) [now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) [now 2 U.S.C. 2001].”
+> “\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C., secs. 193a—193m, [207a,] 212a, [212a–2, 212a–3,] and 212b) [now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) [now 2 U.S.C. 2001].”
 
 NOW, THEREFORE, in formal compliance with the aforecited provisions of the Additional House Office Building Act, the House Office Building Commission, in confirmation of actions heretofore taken by the Commission, hereby orders:
 
@@ -562,7 +562,7 @@ HOUSE OFFICE BUILDING COMMISSION
 |  | Emanuel Celler, *Member.* |
 |  | Charles E. Goodell, *Member.* |
 
-## § 5103. Restrictions on public use of United States Capitol Grounds
+## § 5103. Restrictions on public use of United States Capitol Grounds
 
 Public travel in, and occupancy of, the United States Capitol Grounds is restricted to the roads, walks, and places prepared for that purpose.
 
@@ -572,11 +572,11 @@ Public travel in, and occupancy of, the United States Capitol Grounds is restric
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5103 | 40:193b. | July 31, 1946, ch. 707, § 2, 60 Stat. 718. |
+| 5103 | 40:193b. | July 31, 1946, ch. 707, § 2, 60 Stat. 718. |
 
 The words “by flagging, paving, or otherwise” are omitted as unnecessary.
 
-## § 5104. Unlawful activities
+## § 5104. Unlawful activities
 
 **(a) Definitions.—** In this section—
 
@@ -594,9 +594,9 @@ The words “by flagging, paving, or otherwise” are omitted as unnecessary.
 
 **(3) Explosives.—** The term “explosives” has the meaning given that term in section 841(d) of title 18.
 
-**(4) Firearm.—** The term “firearm” has the meaning given that term in section 921(3) 1
+**(4) Firearm.—** The term “firearm” has the meaning given that term in section 921(3) 1
 
-<sup>1</sup>  So in original. Probably should be “921(a)(3)”.
+<sup>1</sup> So in original. Probably should be “921(a)(3)”.
 
 of title 18.
 
@@ -662,17 +662,17 @@ of title 18.
 
 **(2)** display in the Grounds a flag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(iii), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 4(b)(1)(C), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(iii), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 4(b)(1)(C), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5104(a) | 40:193m(2)–(5). | July 31, 1946, ch. 707, § 16(a)(2)–(5), 60 Stat. 721; Pub. L. 90–108, § 1(d) , Oct. 20, 1967, 81 Stat. 277. |
-| 5104(b) | 40:193c. | July 31, 1946, ch. 707, §§ 3–5, 7, 60 Stat. 718, 719. |
+| 5104(a) | 40:193m(2)–(5). | July 31, 1946, ch. 707, § 16(a)(2)–(5), 60 Stat. 721; Pub. L. 90–108, § 1(d) , Oct. 20, 1967, 81 Stat. 277. |
+| 5104(b) | 40:193c. | July 31, 1946, ch. 707, §§ 3–5, 7, 60 Stat. 718, 719. |
 | 5104(c) | 40:193d. |  |
 | 5104(d) | 40:193e. |  |
-| 5104(e) | 40:193f. | July 31, 1946, ch. 707, § 6, 60 Stat. 718; Pub. L. 87–571, Aug. 6, 1962, 76 Stat. 307; Pub. L. 90–108, § 1(b), Oct. 20, 1967, 81 Stat. 276. |
+| 5104(e) | 40:193f. | July 31, 1946, ch. 707, § 6, 60 Stat. 718; Pub. L. 87–571, Aug. 6, 1962, 76 Stat. 307; Pub. L. 90–108, § 1(b), Oct. 20, 1967, 81 Stat. 276. |
 | 5104(f) | 40:193g. |  |
 
 In subsection (a)(3), the words “section 841(d) of title 18” are substituted for “section 121(1) of title 50” because of the enactment of 18:ch. 39 and the repeal of the provisions classified to 50:121(1) by sections 1102 and 1106(a) of the Organized Crime Control Act of 1970 (Public Law 91–452, 84 Stat. 952, 960). The plural form “explosives” is used because that is the term defined in 18:841(d).
@@ -691,11 +691,11 @@ The Act of July 8, 1932, referred to in subsec. (a)(2)(A), is act July 8, 1932, 
 
 **Amendments**
 
-2010—Subsec. (e)(2)(C). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(A)(iii). See 2007 Amendment note below.
+2010—Subsec. (e)(2)(C). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(A)(iii). See 2007 Amendment note below.
 
 2008—Subsec. (e)(2)(C). Pub. L. 110–178 added subpar. (C) and struck out former subpar. (C) which read as follows: “with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of either House of Congress or a Member, committee, officer, or employee of Congress or either House of Congress;”.
 
-2007—Subsec. (e)(2)(C). Pub. L. 110–161, § 1004(d)(2)(A)(iii), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+2007—Subsec. (e)(2)(C). Pub. L. 110–161, § 1004(d)(2)(A)(iii), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -711,7 +711,7 @@ Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. 
 
 Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of title I of div. H of Pub. L. 110–161, set out as an Effective Date of Repeal note under section 167 of Title 2, The Congress.
 
-## § 5105. Assistance to authorities by Capitol employees
+## § 5105. Assistance to authorities by Capitol employees
 
 Each individual employed in the service of the Federal Government in the United States Capitol or within the United States Capitol Grounds shall prevent, as far as may be in the individual’s power, a violation of a provision of this chapter or section 9, 9A, 9B, 9C, or 14 of the Act of July 31, 1946 (ch. 707, 60 Stat. 719, 720), and shall aid the police in securing the arrest and conviction of the individual violating the provision.
 
@@ -721,7 +721,7 @@ Each individual employed in the service of the Federal Government in the United 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5105 | 40:193i. | July 31, 1946, ch. 707, § 10, 60 Stat. 719. |
+| 5105 | 40:193i. | July 31, 1946, ch. 707, § 10, 60 Stat. 719. |
 
 The words “by information or otherwise” are omitted as unnecessary.
 
@@ -731,7 +731,7 @@ The words “by information or otherwise” are omitted as unnecessary.
 
 Sections 9, 9A, 9B, 9C, and 14 of the Act of July 31, 1946, referred to in text, are classified to sections 1961, 1966, 1967, 1922, and 1969, respectively, of Title 2, The Congress.
 
-## § 5106. Suspension of prohibitions
+## § 5106. Suspension of prohibitions
 
 **(a) Authority To Suspend.—** To allow the observance in the United States Capitol Grounds of occasions of national interest becoming the cognizance and entertainment of Congress, the President of the Senate and the Speaker of the House of Representatives concurrently may suspend any of the prohibitions contained in sections 5103 and 5104 of this title that would prevent the use of the roads and walks within the Grounds by processions or assemblages, and the use in the Grounds of suitable decorations, music, addresses, and ceremonies, if responsible officers have been appointed and the President and the Speaker determine that adequate arrangements have been made to maintain suitable order and decorum in the proceedings and to guard the United States Capitol and its grounds from injury.
 
@@ -745,7 +745,7 @@ Sections 9, 9A, 9B, 9C, and 14 of the Act of July 31, 1946, referred to in text,
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5106(a) | 40:193j. | July 31, 1946, ch. 707, §§ 11, 12, 60 Stat. 719. |
+| 5106(a) | 40:193j. | July 31, 1946, ch. 707, §§ 11, 12, 60 Stat. 719. |
 | 5106(b) | 40:193k (words before proviso). |  |
 | 5106(c) | 40:193k (proviso). |  |
 
@@ -753,17 +753,17 @@ In subsection (b), the words “District of Columbia” are substituted for “W
 
 In subsection (c), the words “Mayor of the District of Columbia” are substituted for “Commissioners of the District of Columbia” [meaning the Board of Commissioners of the District of Columbia] [subsequently changed to “Commissioner of the District of Columbia” because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789).
 
-## § 5107. Concerts on grounds
+## § 5107. Concerts on grounds
 
 Sections 5102, 5103, 5104(b)–(f), 5105, 5106, and 5109 of this title and sections 9, 9A, 9B, and 9C of the Act of July 31, 1946 (ch. 707, 60 Stat. 719, 720), do not prohibit a band in the service of the Federal Government from giving concerts in the United States Capitol Grounds at times which will not interfere with Congress and as authorized by the Architect of the Capitol.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1178; Pub. L. 108–178, § 3(2), Dec. 15, 2003, 117 Stat. 2640.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1178; Pub. L. 108–178, § 3(2), Dec. 15, 2003, 117 Stat. 2640.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5107 | 40:193*l*. | July 31, 1946, ch. 707, § 13, 60 Stat. 720. |
+| 5107 | 40:193*l*. | July 31, 1946, ch. 707, § 13, 60 Stat. 720. |
 
 **Editorial Notes**
 
@@ -781,7 +781,7 @@ Sections 9, 9A, 9B, and 9C of the Act of July 31, 1946, referred to in text, are
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-## § 5108. Audit of private organizations
+## § 5108. Audit of private organizations
 
 A private organization (except a political party or committee constituted for the election of federal officials), whether or not organized for profit and whether or not any of its income inures to the benefit of any person, that performs services or conducts activities in the United States Capitol Buildings or Grounds is subject to a special audit of its accounts for each year in which it performs those services or conducts those activities. The Comptroller General shall conduct the audit and report the results of the audit to the Senate and the House of Representatives.
 
@@ -791,11 +791,11 @@ A private organization (except a political party or committee constituted for th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5108 | 40:193m–1. | Pub. L. 91–510, title IV, § 451(a), Oct. 26, 1970, 84 Stat. 1193. |
+| 5108 | 40:193m–1. | Pub. L. 91–510, title IV, § 451(a), Oct. 26, 1970, 84 Stat. 1193. |
 
 The words “as defined by or pursuant to law” are omitted as unnecessary because of sections 5101 and 5102 of the revised title. The words “Comptroller General” are substituted for “General Accounting Office” because of 31:702 and for consistency in the revised title.
 
-## § 5109. Penalties
+## § 5109. Penalties
 
 **(a) Firearms, Dangerous Weapons, Explosives, or Incendiary Device Offenses.—** An individual or group violating section 5104(e)(1) of this title, or attempting to commit a violation, shall be fined under title 18, imprisoned for not more than five years, or both.
 
@@ -819,13 +819,13 @@ The words “as defined by or pursuant to law” are omitted as unnecessary beca
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5109 | 40:193h. | July 31, 1946, ch. 707, § 8, 60 Stat. 719; Pub. L. 87–571, Aug. 6, 1962, 76 Stat. 307; Pub. L. 90–108, § 1(c), Oct. 20, 1967, 81 Stat. 277. |
+| 5109 | 40:193h. | July 31, 1946, ch. 707, § 8, 60 Stat. 719; Pub. L. 87–571, Aug. 6, 1962, 76 Stat. 307; Pub. L. 90–108, § 1(c), Oct. 20, 1967, 81 Stat. 277. |
 
 In subsection (a), the words “fined under title 18” are substituted for “a felony punishable by a fine not exceeding $5,000” for consistency with chapter 227 of title 18.
 
 In subsection (b), the words “fined under title 18” are substituted for “a misdemeanor punishable by a fine not exceeding $500” for consistency with chapter 227 of title 18.
 
-In subsection (c)(1), the words “An action . . . shall be brought” are substituted for [“]shall be prosecuted” for consistency with other titles of the United States Code. The words “the Attorney General” are substituted for “the United States attorney or his assistants” because of 28:509.
+In subsection (c)(1), the words “An action . . . shall be brought” are substituted for [“]shall be prosecuted” for consistency with other titles of the United States Code. The words “the Attorney General” are substituted for “the United States attorney or his assistants” because of 28:509.
 
 In subsection (c)(2)(B), the words “Superior Court of the District of Columbia” are substituted for “Municipal Court for the District of Columbia” [subsequently changed to “District of Columbia Court of General Sessions” because of sections 1 and 7 of the Act of July 8, 1963 (Public Law 88–60, 77 Stat. 77, 78)] because of section 155(a) of the District of Columbia Court Reorganization Act of 1970 (Public Law 91–358, 85 Stat. 570).
 

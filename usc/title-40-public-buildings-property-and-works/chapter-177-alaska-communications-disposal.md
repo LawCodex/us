@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 177—ALASKA COMMUNICATIONS DISPOSAL
 
-## § 17701. Definitions
+## § 17701. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -31,11 +31,11 @@ In this chapter, the following definitions apply:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17701 | 40:771. | Pub. L. 90–135, title I, § 101, Nov. 14, 1967, 81 Stat. 441. |
+| 17701 | 40:771. | Pub. L. 90–135, title I, § 101, Nov. 14, 1967, 81 Stat. 441. |
 
 In clause (1), the word “including” is substituted for “including but not restricted to” to eliminate unnecessary words. The word “estate” is omitted as being included in “interest”.
 
-## § 17702. Transfer of Government-owned long-lines communication facilities in and to Alaska
+## § 17702. Transfer of Government-owned long-lines communication facilities in and to Alaska
 
 **(a) In General.—**
 
@@ -75,7 +75,7 @@ In clause (1), the word “including” is substituted for “including but not 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17702(a)(1) | 40:781(1). | Pub. L. 90–135, title I, § 201, Nov. 14, 1967, 81 Stat. 442. |
+| 17702(a)(1) | 40:781(1). | Pub. L. 90–135, title I, § 201, Nov. 14, 1967, 81 Stat. 442. |
 | 17702(a)(2) | 40:781(5). |  |
 | 17702(a)(3) | 40:781(2). |  |
 | 17702(b) | 40:781(4). |  |
@@ -88,7 +88,7 @@ In subsection (a)(1)(A), the words “and notwithstanding provisions of any othe
 
 In subsection (c)(4), the words “the Federal Field Committee for Development Planning in Alaska” are omitted because the Committee has been terminated. See Executive Order No. 11608 (eff. July 19, 1971).
 
-## § 17703. National defense considerations and qualification of transferee
+## § 17703. National defense considerations and qualification of transferee
 
 A transfer under this chapter shall not be made unless the Secretary of Defense determines that—
 
@@ -106,9 +106,9 @@ A transfer under this chapter shall not be made unless the Secretary of Defense 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17703 | 40:782. | Pub. L. 90–135, title I, § 202, Nov. 14, 1967, 81 Stat. 443. |
+| 17703 | 40:782. | Pub. L. 90–135, title I, § 202, Nov. 14, 1967, 81 Stat. 443. |
 
-## § 17704. Contents of agreements for transfer
+## § 17704. Contents of agreements for transfer
 
 An agreement by which a transfer is made under this chapter shall provide that—
 
@@ -124,13 +124,13 @@ An agreement by which a transfer is made under this chapter shall provide that�
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17704 | 40:783. | Pub. L. 90–135, title I, § 203, Nov. 14, 1967, 81 Stat. 443. |
+| 17704 | 40:783. | Pub. L. 90–135, title I, § 203, Nov. 14, 1967, 81 Stat. 443. |
 
 In clause (1), the word “rules” is omitted as being included in “regulations”.
 
 In clause (3), the words “unless and” are omitted as unnecessary.
 
-## § 17705. Approval of Federal Communications Commission
+## § 17705. Approval of Federal Communications Commission
 
 A transfer under this chapter does not require the approval of the Federal Communications Commission except to the extent that the approval of the Commission is necessary under section 17704(3) of this title.
 
@@ -140,9 +140,9 @@ A transfer under this chapter does not require the approval of the Federal Commu
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17705 | 40:784. | Pub. L. 90–135, title I, § 204, Nov. 14, 1967, 81 Stat. 443. |
+| 17705 | 40:784. | Pub. L. 90–135, title I, § 204, Nov. 14, 1967, 81 Stat. 443. |
 
-## § 17706. Gross proceeds as miscellaneous receipts in the Treasury
+## § 17706. Gross proceeds as miscellaneous receipts in the Treasury
 
 The gross proceeds of each transfer shall be deposited in the Treasury as miscellaneous receipts.
 
@@ -152,11 +152,11 @@ The gross proceeds of each transfer shall be deposited in the Treasury as miscel
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17706 | 40:785. | Pub. L. 90–135, title I, § 205, Nov. 14, 1967, 81 Stat. 443. |
+| 17706 | 40:785. | Pub. L. 90–135, title I, § 205, Nov. 14, 1967, 81 Stat. 443. |
 
 The words “Notwithstanding the provisions of any other law” are omitted as unnecessary.
 
-## § 17707. Reports
+## § 17707. Reports
 
 The Secretary of Defense shall report to the Congress and the President—
 
@@ -170,9 +170,9 @@ The Secretary of Defense shall report to the Congress and the President—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17707 | 40:786. | Pub. L. 90–135, title I, § 206, Nov. 14, 1967, 81 Stat. 443. |
+| 17707 | 40:786. | Pub. L. 90–135, title I, § 206, Nov. 14, 1967, 81 Stat. 443. |
 
-## § 17708. Nonapplication
+## § 17708. Nonapplication
 
 This chapter does not modify in any manner the Communications Act of 1934 (47 U.S.C. 151 et seq.).
 
@@ -182,10 +182,10 @@ This chapter does not modify in any manner the Communications Act of 1934 (47 U.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17708 | 40:791. | Pub. L. 90–135, title I, § 301, Nov. 14, 1967, 81 Stat. 444. |
+| 17708 | 40:791. | Pub. L. 90–135, title I, § 301, Nov. 14, 1967, 81 Stat. 444. |
 
 **Editorial Notes**
 
 **References in Text**
 
-The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.

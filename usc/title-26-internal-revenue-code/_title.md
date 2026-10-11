@@ -13,17 +13,17 @@ retrieved: 2026-10-11
 
 # Title 26—INTERNAL REVENUE CODE
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Act Aug. 16, 1954, ch. 736, 68A Stat. 3**
 
-The following tables have been prepared as aids in comparing provisions of the Internal Revenue Code of 1954 (redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095) with provisions of the Internal Revenue Code of 1939. No inferences, implications, or presumptions of legislative construction or intent are to be drawn or made by reason of such tables.
+The following tables have been prepared as aids in comparing provisions of the Internal Revenue Code of 1954 (redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095) with provisions of the Internal Revenue Code of 1939. No inferences, implications, or presumptions of legislative construction or intent are to be drawn or made by reason of such tables.
 
 Citations to “R.A.” refer to the sections of earlier Revenue Acts.
 
 **Table I**
 
-| *1939 Code* *section number* | *1986 Code* *section number* |
+| *1939 Code* *section number* | *1986 Code* *section number* |
 |---|---|
 | 1 | Omitted |
 | 2 | 7806(a) |
@@ -1324,7 +1324,7 @@ Citations to “R.A.” refer to the sections of earlier Revenue Acts.
 | 2874(a) | 5252 (Rev. See 5236) |
 | 2875 | 5231 (Rev. See 5171(a), 5172, 5173(a), 5178(a)(1)(A), (B), (3)(A), (B)), 5246(a) (Rev. See 5212) |
 | 2876 | 5631 (Rev. See 5601(a)(12), 5615(6), 5687) |
-| 2877(a) | 5192(d) (Rev. See 7803; T. 5 § 301) |
+| 2877(a) | 5192(d) (Rev. See 7803; T. 5 § 301) |
 | 2878(a) | 5193(a) (Rev. See 5201(a), 5202(f), 5204(a), 5205(b), 5206(a), (c), 5211) |
 | 2878(b) | 5009(c), 5193(b) (Rev. See 5206(a), 5214(a)(4)) |
 | 2878(c) | 5193(c) (Rev. See 5206(b)) |
@@ -1371,10 +1371,10 @@ Citations to “R.A.” refer to the sections of earlier Revenue Acts.
 | 2908 | 5643 (Rev. See 5601(a)(12), 5604(a)(11), (12), (16), 5615(6), 5687) |
 | 2909 | 5644 (Rev. See 5604(a)(4), (5), (10)) |
 | 2910(a) | 5243(b) (Rev. See 5202(g), 5233(b)) |
-| 2911 | 5243(f) (Rev. See T. 27 § 121) |
+| 2911 | 5243(f) (Rev. See T. 27 § 121) |
 | 2912, 2913 | 5632 (Rev. See 5601(a)(12), 5615(6)) |
 | 2914(a) | 5633 (Rev. See 7214) |
-| 2915(a) | 5241(c) (Rev. See 7803; T. 5 § 301) |
+| 2915(a) | 5241(c) (Rev. See 7803; T. 5 § 301) |
 | 2916(a) | 5194(b) |
 | 3030(a) | 5001(a)(9) (Rev. See 5001(a)(8)) |
 | 3030(a)(1) | 5001(a)(5), (9) (Rev. See 5001(a)(4), (8)), 5041(a), 5041(b), 5042(a)(2), 5362, 5368(b) |
@@ -1959,7 +1959,7 @@ Citations to “R.A.” refer to the sections of earlier Revenue Acts.
 
 **Table II**
 
-| *1986 Code* *section number* | *1939 Code* *section number* |
+| *1986 Code* *section number* | *1939 Code* *section number* |
 |---|---|
 | 1 | 11, 12(b)(3), (c), (f) |
 | 2 | 12(d) |
@@ -3022,7 +3022,7 @@ Citations to “R.A.” refer to the sections of earlier Revenue Acts.
 | 5686 | 3115, 3116 |
 | 5687 | 2806(g) |
 | 5688 | 2805(a)–(b); 3118, 3173(d), 63 Stat. 377 et seq. |
-| 5689 | 2800(a)(1)(B), 3112(b), 3150(b)(3) |
+| 5689 | 2800(a)(1)(B), 3112(b), 3150(b)(3) |
 | 5690 | 3173(b)(4) |
 | 5691 | 3253 |
 | 5692 | 3252 |
@@ -3927,9 +3927,9 @@ For saving provisions, effective date provisions, and other related provisions, 
 
 (d) Enactment of Internal Revenue Title into law
 
-The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* \* \*.
+The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* \* \*.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 3; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 3; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -3941,7 +3941,7 @@ The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* 
 
 **Redesignation of Internal Revenue Code of 1954; References**
 
-Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) Redesignation of 1954 Code.—** The Internal Revenue Title enacted August 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the ‘Internal Revenue Code of 1986’.
 
@@ -3955,17 +3955,17 @@ Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 **Amendments**
 
-1997—Pub. L. 105–34, title XV, § 1531(b)(3), Aug. 5, 1997, 111 Stat. 1085, added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
+1997—Pub. L. 105–34, title XV, § 1531(b)(3), Aug. 5, 1997, 111 Stat. 1085, added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
 
-1996—Pub. L. 104–191, title IV, § 401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading “Group health plan portability, access, and renewability requirements”.
+1996—Pub. L. 104–191, title IV, § 401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading “Group health plan portability, access, and renewability requirements”.
 
-1982—Pub. L. 97–248, title III, §§ 307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Pub. L. 97–248, title III, §§ 307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1981—Pub. L. 97–119, title I, § 103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading “Trust Fund Code”.
+1981—Pub. L. 97–119, title I, § 103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading “Trust Fund Code”.
 
-1976—Pub. L. 94–455, title XIX, § 1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
+1976—Pub. L. 94–455, title XIX, § 1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
 
-1974—Pub. L. 93–443, title IV, § 408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
+1974—Pub. L. 93–443, title IV, § 408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
 
 **Table of Contents**
 
@@ -3977,15 +3977,15 @@ This Table of Contents is inserted for the convenience of users and was not enac
 
 **Amendments**
 
-2010—Pub. L. 111–152, title I, § 1402(a)(3), Mar. 30, 2010, 124 Stat. 1062, which directed amendment of the “table of chapters for subtitle A of chapter 1 of the Internal Revenue Code of 1986” by adding item for chapter 2A, was executed by adding item for chapter 2A to the table of chapters for this subtitle to reflect the probable intent of Congress.
+2010—Pub. L. 111–152, title I, § 1402(a)(3), Mar. 30, 2010, 124 Stat. 1062, which directed amendment of the “table of chapters for subtitle A of chapter 1 of the Internal Revenue Code of 1986” by adding item for chapter 2A, was executed by adding item for chapter 2A to the table of chapters for this subtitle to reflect the probable intent of Congress.
 
-Pub. L. 111–147, title V, § 501(c)(8), Mar. 18, 2010, 124 Stat. 106, which directed amendment of the “table of chapters of the Internal Revenue Code of 1986” by adding item for chapter 4 “at the end”, was executed by adding item for chapter 4 after item for chapter 3 in the table of chapters for this subtitle to reflect the probable intent of Congress.
+Pub. L. 111–147, title V, § 501(c)(8), Mar. 18, 2010, 124 Stat. 106, which directed amendment of the “table of chapters of the Internal Revenue Code of 1986” by adding item for chapter 4 “at the end”, was executed by adding item for chapter 4 after item for chapter 3 in the table of chapters for this subtitle to reflect the probable intent of Congress.
 
-1997—Pub. L. 105–34, title XI, § 1131(c)(4), Aug. 5, 1997, 111 Stat. 980, struck out item for chapter 5 “Tax on transfers to avoid income tax”.
+1997—Pub. L. 105–34, title XI, § 1131(c)(4), Aug. 5, 1997, 111 Stat. 980, struck out item for chapter 5 “Tax on transfers to avoid income tax”.
 
-1990—Pub. L. 101–508, title XI, § 11801(b)(11), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for chapter 4 “Rules applicable to recovery of excessive profits on government contracts”.
+1990—Pub. L. 101–508, title XI, § 11801(b)(11), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for chapter 4 “Rules applicable to recovery of excessive profits on government contracts”.
 
-1984—Pub. L. 98–369, div. A, title IV, § 474(r)(29)(D), July 18, 1984, 98 Stat. 844, struck out “and tax-free covenant bonds” at end of item for chapter 3.
+1984—Pub. L. 98–369, div. A, title IV, § 474(r)(29)(D), July 18, 1984, 98 Stat. 844, struck out “and tax-free covenant bonds” at end of item for chapter 3.
 
 - [CHAPTER 1—NORMAL TAXES AND SURTAXES](chapter-001-normal-taxes-and-surtaxes.md)
 
@@ -4007,13 +4007,13 @@ Pub. L. 111–147, title V, § 501(c)(8), Mar. 18, 2010, 124 Stat. 106, which 
 
 **Amendments**
 
-2008—Pub. L. 110–245, title III, § 301(b)(2), June 17, 2008, 122 Stat. 1646, added item for chapter 15.
+2008—Pub. L. 110–245, title III, § 301(b)(2), June 17, 2008, 122 Stat. 1646, added item for chapter 15.
 
-1990—Pub. L. 101–508, title XI, § 11602(c), Nov. 5, 1990, 104 Stat. 1388–500, added item for chapter 14.
+1990—Pub. L. 101–508, title XI, § 11602(c), Nov. 5, 1990, 104 Stat. 1388–500, added item for chapter 14.
 
-1986—Pub. L. 99–514, title XIV, § 1431(b), Oct. 22, 1986, 100 Stat. 2729, struck out “certain” after “Tax on” in item for chapter 13.
+1986—Pub. L. 99–514, title XIV, § 1431(b), Oct. 22, 1986, 100 Stat. 2729, struck out “certain” after “Tax on” in item for chapter 13.
 
-1976—Pub. L. 94–455, title XX, § 2006(b)(1), Oct. 4, 1976, 90 Stat. 1888, added item for chapter 13.
+1976—Pub. L. 94–455, title XX, § 2006(b)(1), Oct. 4, 1976, 90 Stat. 1888, added item for chapter 13.
 
 - [CHAPTER 11—ESTATE TAX](chapter-011-estate-tax.md)
 
@@ -4031,11 +4031,11 @@ Pub. L. 111–147, title V, § 501(c)(8), Mar. 18, 2010, 124 Stat. 106, which 
 
 **Amendments**
 
-1983—Pub. L. 98–76, title II, § 231(c), Aug. 12, 1983, 97 Stat. 429, added item for chapter 23A.
+1983—Pub. L. 98–76, title II, § 231(c), Aug. 12, 1983, 97 Stat. 429, added item for chapter 23A.
 
 Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Pub. L. 97–248, title III, §§ 307(b)(1), (6), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the heading of subtitle C is amended to read “Employment Taxes and Collection of Income Tax at Source”, the caption of chapter 24 is amended by striking out “On Wages”, and the caption of chapter 25 is amended by inserting “And Collection Of Income Taxes At Source” after “Employment Taxes”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Pub. L. 97–248, title III, §§ 307(b)(1), (6), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the heading of subtitle C is amended to read “Employment Taxes and Collection of Income Tax at Source”, the caption of chapter 24 is amended by striking out “On Wages”, and the caption of chapter 25 is amended by inserting “And Collection Of Income Taxes At Source” after “Employment Taxes”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 - [CHAPTER 21—FEDERAL INSURANCE CONTRIBUTIONS ACT](chapter-021-federal-insurance-contributions-act.md)
 
@@ -4055,53 +4055,53 @@ Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment
 
 **Amendments**
 
-2022—Pub. L. 117–169, title I, §§ 10201(c), 11003(c), Aug. 16, 2022, 136 Stat. 1831, 1864, added items for chapters 37 and 50A.
+2022—Pub. L. 117–169, title I, §§ 10201(c), 11003(c), Aug. 16, 2022, 136 Stat. 1831, 1864, added items for chapters 37 and 50A.
 
-2011—Pub. L. 111–347, title III, § 301(a)(2), Jan. 2, 2011, 124 Stat. 3666, added item for chapter 50.
+2011—Pub. L. 111–347, title III, § 301(a)(2), Jan. 2, 2011, 124 Stat. 3666, added item for chapter 50.
 
-2010—Pub. L. 111–148, title X, § 10907(c), Mar. 23, 2010, 124 Stat. 1020, added item for chapter 49.
+2010—Pub. L. 111–148, title X, § 10907(c), Mar. 23, 2010, 124 Stat. 1020, added item for chapter 49.
 
-Pub. L. 111–148, title IX, § 9017(b), Mar. 23, 2010, 124 Stat. 872, which directed amendment of analysis by adding item for chapter 49, was not executed in view of Pub. L. 111–148, title X, § 10907(a), Mar. 23, 2010, 124 Stat. 1020, which provided that the amendments made by section 9017 of Pub. L. 111–148 were deemed null, void, and of no effect.
+Pub. L. 111–148, title IX, § 9017(b), Mar. 23, 2010, 124 Stat. 872, which directed amendment of analysis by adding item for chapter 49, was not executed in view of Pub. L. 111–148, title X, § 10907(a), Mar. 23, 2010, 124 Stat. 1020, which provided that the amendments made by section 9017 of Pub. L. 111–148 were deemed null, void, and of no effect.
 
-Pub. L. 111–148, title I, § 1501(c), title VI, § 6301(e)(2)(B)(ii), Mar. 23, 2010, 124 Stat. 249, 747, added items for chapters 34 and 48 and struck out former item for chapter 34 “Documentary stamp taxes”.
+Pub. L. 111–148, title I, § 1501(c), title VI, § 6301(e)(2)(B)(ii), Mar. 23, 2010, 124 Stat. 249, 747, added items for chapters 34 and 48 and struck out former item for chapter 34 “Documentary stamp taxes”.
 
-2004—Pub. L. 108–357, title VIII, § 802(c)(2), Oct. 22, 2004, 118 Stat. 1568, added item for chapter 45.
+2004—Pub. L. 108–357, title VIII, § 802(c)(2), Oct. 22, 2004, 118 Stat. 1568, added item for chapter 45.
 
-1990—Pub. L. 101–508, title XI, § 11801(b)(17), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for chapter 37 “Sugar, coconut and palm oil”.
+1990—Pub. L. 101–508, title XI, § 11801(b)(17), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for chapter 37 “Sugar, coconut and palm oil”.
 
-1989—Pub. L. 101–239, title VI, § 6202(b)(4)(B), title VII, § 7841(d)(4), Dec. 19, 1989, 103 Stat. 2233, 2428, substituted semicolon for comma in item for chapter 42 and struck out “large” after “Certain” in item for chapter 47.
+1989—Pub. L. 101–239, title VI, § 6202(b)(4)(B), title VII, § 7841(d)(4), Dec. 19, 1989, 103 Stat. 2233, 2428, substituted semicolon for comma in item for chapter 42 and struck out “large” after “Certain” in item for chapter 47.
 
-1988—Pub. L. 100–418, title I, § 1941(b)(3)(A), Aug. 23, 1988, 102 Stat. 1324, struck out item for chapter 45 “Windfall profit tax on domestic crude oil”.
+1988—Pub. L. 100–418, title I, § 1941(b)(3)(A), Aug. 23, 1988, 102 Stat. 1324, struck out item for chapter 45 “Windfall profit tax on domestic crude oil”.
 
-1987—Pub. L. 100–203, title X, § 10712(c)(8), Dec. 22, 1987, 101 Stat. 1330–467, substituted “and certain other tax-exempt organizations” for “black lung benefit trusts” in item for chapter 42.
+1987—Pub. L. 100–203, title X, § 10712(c)(8), Dec. 22, 1987, 101 Stat. 1330–467, substituted “and certain other tax-exempt organizations” for “black lung benefit trusts” in item for chapter 42.
 
-1986—Pub. L. 99–509, title IX, § 9319(d)(2), Oct. 21, 1986, 100 Stat. 2012, added item for chapter 47.
+1986—Pub. L. 99–509, title IX, § 9319(d)(2), Oct. 21, 1986, 100 Stat. 2012, added item for chapter 47.
 
-1984—Pub. L. 98–369, div. A, title I, § 67(d)(2), July 18, 1984, 98 Stat. 587, added item for chapter 46.
+1984—Pub. L. 98–369, div. A, title I, § 67(d)(2), July 18, 1984, 98 Stat. 587, added item for chapter 46.
 
-1983—Pub. L. 97–424, title V, § 512(b)(2)(B), Jan. 6, 1983, 96 Stat. 2177, substituted “Retail excise taxes” for “Special fuels” in item for chapter 31.
+1983—Pub. L. 97–424, title V, § 512(b)(2)(B), Jan. 6, 1983, 96 Stat. 2177, substituted “Retail excise taxes” for “Special fuels” in item for chapter 31.
 
-1982—Pub. L. 97–248, title III, § 310(b)(4)(B), Sept. 3, 1982, 96 Stat. 598, added item for chapter 39.
+1982—Pub. L. 97–248, title III, § 310(b)(4)(B), Sept. 3, 1982, 96 Stat. 598, added item for chapter 39.
 
-1980—Pub. L. 96–510, title II, § 211(b), Dec. 11, 1980, 94 Stat. 2801, added item for chapter 38.
+1980—Pub. L. 96–510, title II, § 211(b), Dec. 11, 1980, 94 Stat. 2801, added item for chapter 38.
 
-Pub. L. 96–223, § 101(a)(2), Apr. 2, 1980, 94 Stat. 250, added item for chapter 45.
+Pub. L. 96–223, § 101(a)(2), Apr. 2, 1980, 94 Stat. 250, added item for chapter 45.
 
-1978—Pub. L. 95–227, § 4(c)(2)(C), Feb. 10, 1978, 92 Stat. 22, inserted “, black lung benefit trusts” after “foundations” in item for chapter 42.
+1978—Pub. L. 95–227, § 4(c)(2)(C), Feb. 10, 1978, 92 Stat. 22, inserted “, black lung benefit trusts” after “foundations” in item for chapter 42.
 
-1976—Pub. L. 94–455, title XIII, § 1307(d)(3)(A), title XVI, § 1605(c), title XIX, §§ 1904(b)(7)(E), (10)(G), 1952(n)(6), Oct. 4, 1976, 90 Stat. 1728, 1755, 1815, 1818, 1846, substituted “41. Public charities” for “41. Interest equalization tax” added item for chapter 44 and struck out items for chapters “38. Import taxes” and “39. Regulatory taxes”.
+1976—Pub. L. 94–455, title XIII, § 1307(d)(3)(A), title XVI, § 1605(c), title XIX, §§ 1904(b)(7)(E), (10)(G), 1952(n)(6), Oct. 4, 1976, 90 Stat. 1728, 1755, 1815, 1818, 1846, substituted “41. Public charities” for “41. Interest equalization tax” added item for chapter 44 and struck out items for chapters “38. Import taxes” and “39. Regulatory taxes”.
 
-1974—Pub. L. 93–406, title II, § 1016(b)(2), Sept. 2, 1974, 88 Stat. 932, added item for chapter 43.
+1974—Pub. L. 93–406, title II, § 1016(b)(2), Sept. 2, 1974, 88 Stat. 932, added item for chapter 43.
 
-1969—Pub. L. 91–172, title I, § 101(j)(59), Dec. 30, 1969, 83 Stat. 532, added item for chapter 42.
+1969—Pub. L. 91–172, title I, § 101(j)(59), Dec. 30, 1969, 83 Stat. 532, added item for chapter 42.
 
-1964—Pub. L. 88–563, § 2(b), Sept. 2, 1964, 78 Stat. 841, added item for chapter 41.
+1964—Pub. L. 88–563, § 2(b), Sept. 2, 1964, 78 Stat. 841, added item for chapter 41.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Imposition of Annual Fee on Branded Prescription Pharmaceutical Manufacturers and Importers**
 
-Pub. L. 111–148, title IX, § 9008, Mar. 23, 2010, 124 Stat. 859, as amended by Pub. L. 111–152, title I, § 1404(a), Mar. 30, 2010, 124 Stat. 1064, provided that:
+Pub. L. 111–148, title IX, § 9008, Mar. 23, 2010, 124 Stat. 859, as amended by Pub. L. 111–152, title I, § 1404(a), Mar. 30, 2010, 124 Stat. 1064, provided that:
 
 > **“(a) Imposition of Fee.—**
 
@@ -4237,19 +4237,19 @@ Pub. L. 111–148, title IX, § 9008, Mar. 23, 2010, 124 Stat. 859, as amended
 
 > [Amended section 1395t of Title 42, The Public Health and Welfare.]”
 
-[Pub. L. 111–152, title I, § 1404(b), Mar. 30, 2010, 124 Stat. 1064, provided that: “The amendments made by this section [amending section 9008 of Pub. L. 111–148, set out above] shall take effect as if included in section 9008 of the Patient Protection and Affordable Care Act [Pub. L. 111–148].” ]
+[Pub. L. 111–152, title I, § 1404(b), Mar. 30, 2010, 124 Stat. 1064, provided that: “The amendments made by this section [amending section 9008 of Pub. L. 111–148, set out above] shall take effect as if included in section 9008 of the Patient Protection and Affordable Care Act [Pub. L. 111–148].” ]
 
 **Imposition of Annual Fee on Medical Device Manufacturers and Importers**
 
-Pub. L. 111–148, title IX, § 9009, Mar. 23, 2010, 124 Stat. 862, as amended by Pub. L. 111–148, title X, § 10904(a), Mar. 23, 2010, 124 Stat. 1016, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by Pub. L. 111–152, title I, § 1405(d), Mar. 30, 2010, 124 Stat. 1065.
+Pub. L. 111–148, title IX, § 9009, Mar. 23, 2010, 124 Stat. 862, as amended by Pub. L. 111–148, title X, § 10904(a), Mar. 23, 2010, 124 Stat. 1016, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by Pub. L. 111–152, title I, § 1405(d), Mar. 30, 2010, 124 Stat. 1065.
 
-[Pub. L. 111–152, title I, § 1405(d), Mar. 30, 2010, 124 Stat. 1065, provided that the repeal of section 9009 of Pub. L. 111–148, formerly set out above, is effective as of Mar. 23, 2010.]
+[Pub. L. 111–152, title I, § 1405(d), Mar. 30, 2010, 124 Stat. 1065, provided that the repeal of section 9009 of Pub. L. 111–148, formerly set out above, is effective as of Mar. 23, 2010.]
 
 **Imposition of Annual Fee on Health Insurance Providers**
 
-Pub. L. 111–148, title IX, § 9010, title X, § 10905(a)–(f), Mar. 23, 2010, 124 Stat. 865, 1017–1019, as amended by Pub. L. 111–152, title I, § 1406(a), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 114–113, div. P, title II, § 201, Dec. 18, 2015, 129 Stat. 3037; Pub. L. 115–120, div. D, § 4003(b), Jan. 22, 2018, 132 Stat. 38, which imposed an annual fee on certain entities that provided health insurance for any United States health risk, was repealed by Pub. L. 116–94, div. N, title I, § 502(a), Dec. 20, 2019, 133 Stat. 3119.
+Pub. L. 111–148, title IX, § 9010, title X, § 10905(a)–(f), Mar. 23, 2010, 124 Stat. 865, 1017–1019, as amended by Pub. L. 111–152, title I, § 1406(a), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 114–113, div. P, title II, § 201, Dec. 18, 2015, 129 Stat. 3037; Pub. L. 115–120, div. D, § 4003(b), Jan. 22, 2018, 132 Stat. 38, which imposed an annual fee on certain entities that provided health insurance for any United States health risk, was repealed by Pub. L. 116–94, div. N, title I, § 502(a), Dec. 20, 2019, 133 Stat. 3119.
 
-[Pub. L. 116–94, div. N, title I, § 502(b), Dec. 20, 2019, 133 Stat. 3119, provided that, “The amendment made by this section [repealing section 9010 of Pub. L. 111–148, formerly set out above] shall apply to calendar years beginning after December 31, 2020.”]
+[Pub. L. 116–94, div. N, title I, § 502(b), Dec. 20, 2019, 133 Stat. 3119, provided that, “The amendment made by this section [repealing section 9010 of Pub. L. 111–148, formerly set out above] shall apply to calendar years beginning after December 31, 2020.”]
 
 - [CHAPTER 31—RETAIL EXCISE TAXES](chapter-031-retail-excise-taxes.md)
 
@@ -4265,7 +4265,7 @@ Pub. L. 111–148, title IX, § 9010, title X, § 10905(a)–(f), Mar. 23, 2
 
 - [CHAPTER 37—REPURCHASE OF CORPORATE STOCK](chapter-037-repurchase-of-corporate-stock.md)
 
-- [[CHAPTER 38—REPEALED] 1 [footnote: 1 A new chapter 38 (§ 4611 et seq.) follows.]](chapter-038-repealed-1-footnote-1-a-new-chapter-38-4611-et-seq-follows.md)
+- [[CHAPTER 38—REPEALED] 1 [footnote: 1 A new chapter 38 (§ 4611 et seq.) follows.]](chapter-038-repealed-1-footnote-1-a-new-chapter-38-4611-et-seq-follows.md)
 
 - [CHAPTER 38—ENVIRONMENTAL TAXES](chapter-038-environmental-taxes.md)
 
@@ -4301,15 +4301,15 @@ Pub. L. 111–148, title IX, § 9010, title X, § 10905(a)–(f), Mar. 23, 2
 
 **Amendments**
 
-2002—Pub. L. 107–134, title I, § 115(b), Jan. 23, 2002, 115 Stat. 2438, added item relating to chapter 55.
+2002—Pub. L. 107–134, title I, § 115(b), Jan. 23, 2002, 115 Stat. 2438, added item relating to chapter 55.
 
-1997—Pub. L. 105–33, title IX, § 9302(g)(3)(D), Aug. 5, 1997, 111 Stat. 673, added item relating to chapter 52 and struck out former item relating to chapter 52 “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes”.
+1997—Pub. L. 105–33, title IX, § 9302(g)(3)(D), Aug. 5, 1997, 111 Stat. 673, added item relating to chapter 52 and struck out former item relating to chapter 52 “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes”.
 
-1988—Pub. L. 100–647, title V, § 5061(c)(4), Nov. 10, 1988, 102 Stat. 3680, substituted “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes” for “Tobacco, cigars, cigarettes, smokeless tobacco, and cigarette papers and tubes” in item relating to chapter 52.
+1988—Pub. L. 100–647, title V, § 5061(c)(4), Nov. 10, 1988, 102 Stat. 3680, substituted “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes” for “Tobacco, cigars, cigarettes, smokeless tobacco, and cigarette papers and tubes” in item relating to chapter 52.
 
-Pub. L. 100–647, title I, § 1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, inserted “smokeless tobacco,” after “cigarettes,” in item relating to chapter 52.
+Pub. L. 100–647, title I, § 1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, inserted “smokeless tobacco,” after “cigarettes,” in item relating to chapter 52.
 
-1987—Pub. L. 100–203, title X, § 10228(c), Dec. 22, 1987, 101 Stat. 1330–418, added item relating to chapter 54.
+1987—Pub. L. 100–203, title X, § 10228(c), Dec. 22, 1987, 101 Stat. 1330–418, added item relating to chapter 54.
 
 - [CHAPTER 51—DISTILLED SPIRITS, WINES, AND BEER](chapter-051-distilled-spirits-wines-and-beer.md)
 
@@ -4327,7 +4327,7 @@ Pub. L. 100–647, title I, § 1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, ins
 
 **Amendments**
 
-1980—Pub. L. 96–589, § 6(g)(3)(E), Dec. 24, 1980, 94 Stat. 3410, substituted “Jeopardy, receiverships, etc.” for “Jeopardy, bankruptcy and receiverships” in item for chapter 70.
+1980—Pub. L. 96–589, § 6(g)(3)(E), Dec. 24, 1980, 94 Stat. 3410, substituted “Jeopardy, receiverships, etc.” for “Jeopardy, bankruptcy and receiverships” in item for chapter 70.
 
 - [CHAPTER 61—INFORMATION AND RETURNS](chapter-061-information-and-returns.md)
 
@@ -4375,7 +4375,7 @@ Pub. L. 100–647, title I, § 1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, ins
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1907(b)(1), Oct. 4, 1976, 90 Stat. 1836, struck out “Internal Revenue” in heading of subtitle G.
+1976—Pub. L. 94–455, title XIX, § 1907(b)(1), Oct. 4, 1976, 90 Stat. 1836, struck out “Internal Revenue” in heading of subtitle G.
 
 - [CHAPTER 91—ORGANIZATION AND MEMBERSHIP OF THE JOINT COMMITTEE](chapter-091-organization-and-membership-of-the-joint-committee.md)
 
@@ -4387,9 +4387,9 @@ Pub. L. 100–647, title I, § 1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, ins
 
 **Amendments**
 
-1974—Pub. L. 93–443, title IV, § 408(b), Oct. 15, 1974, 88 Stat. 1297, substituted “Presidential primary matching payment account” for “Presidential election campaign fund advisory board” in item for chapter 96.
+1974—Pub. L. 93–443, title IV, § 408(b), Oct. 15, 1974, 88 Stat. 1297, substituted “Presidential primary matching payment account” for “Presidential election campaign fund advisory board” in item for chapter 96.
 
-1971—Pub. L. 92–178, title VIII, § 801, Dec. 10, 1971, 85 Stat. 562, added subtitle H.
+1971—Pub. L. 92–178, title VIII, § 801, Dec. 10, 1971, 85 Stat. 562, added subtitle H.
 
 - [CHAPTER 95—PRESIDENTIAL ELECTION CAMPAIGN FUND](chapter-095-presidential-election-campaign-fund.md)
 
@@ -4397,11 +4397,11 @@ Pub. L. 100–647, title I, § 1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, ins
 
 ## Subtitle I—Trust Fund Code
 
-### § 9500. Short title
+### § 9500. Short title
 
 This subtitle may be cited as the “Trust Fund Code of 1981”.
 
-(Added Pub. L. 97–119, title I, § 103(a), Dec. 29, 1981, 95 Stat. 1636.)
+(Added Pub. L. 97–119, title I, § 103(a), Dec. 29, 1981, 95 Stat. 1636.)
 
 - [CHAPTER 98—TRUST FUND CODE](chapter-098-trust-fund-code.md)
 
@@ -4415,6 +4415,6 @@ This subtitle may be cited as the “Trust Fund Code of 1981”.
 
 **Amendments**
 
-1997—Pub. L. 105–34, title XV, § 1531(a)(1), Aug. 5, 1997, 111 Stat. 1080, struck out “Portability, Access, and Renewability” before “Requirements” in subtitle heading and made similar change in item for chapter 100.
+1997—Pub. L. 105–34, title XV, § 1531(a)(1), Aug. 5, 1997, 111 Stat. 1080, struck out “Portability, Access, and Renewability” before “Requirements” in subtitle heading and made similar change in item for chapter 100.
 
 - [CHAPTER 100—GROUP HEALTH PLAN REQUIREMENTS](chapter-100-group-health-plan-requirements.md)

@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–163, div. A, title V, § 589(b)(2), Jan. 6, 2006, 119 Stat. 3279, struck out item 717 “Presentation of recognition items for retention purposes”.
+2006—Pub. L. 109–163, div. A, title V, § 589(b)(2), Jan. 6, 2006, 119 Stat. 3279, struck out item 717 “Presentation of recognition items for retention purposes”.
 
-2004—Pub. L. 108–375, div. A, title V, § 520(b)(2), Oct. 28, 2004, 118 Stat. 1887, added item 717.
+2004—Pub. L. 108–375, div. A, title V, § 520(b)(2), Oct. 28, 2004, 118 Stat. 1887, added item 717.
 
-1985—Pub. L. 99–224, § 3(b), Dec. 28, 1985, 99 Stat. 1742, substituted “and travel” for “other than travel” in item 716.
+1985—Pub. L. 99–224, § 3(b), Dec. 28, 1985, 99 Stat. 1742, substituted “and travel” for “other than travel” in item 716.
 
-1980—Pub. L. 96–328, § 1(b)(2), Aug. 8, 1980, 94 Stat. 1027, substituted “Accountability for property issued to the National Guard” for “Reports of survey” in item 710.
+1980—Pub. L. 96–328, § 1(b)(2), Aug. 8, 1980, 94 Stat. 1027, substituted “Accountability for property issued to the National Guard” for “Reports of survey” in item 710.
 
-1972—Pub. L. 92–453, § 2(2), Oct. 2, 1972, 86 Stat. 759, added item 716.
+1972—Pub. L. 92–453, § 2(2), Oct. 2, 1972, 86 Stat. 759, added item 716.
 
-1968—Pub. L. 90–486, § 2(2), Aug. 13, 1968, 82 Stat. 756, substituted “Technicians: employment, use status” for “Caretakers and clerks” in item 709.
+1968—Pub. L. 90–486, § 2(2), Aug. 13, 1968, 82 Stat. 756, substituted “Technicians: employment, use status” for “Caretakers and clerks” in item 709.
 
-1960—Pub. L. 86–740, § 1(2), Sept. 13, 1960, 74 Stat. 879, added item 715.
+1960—Pub. L. 86–740, § 1(2), Sept. 13, 1960, 74 Stat. 879, added item 715.
 
-1958—Pub. L. 85–861, § 2(13), Sept. 2, 1958, 72 Stat. 1546, added item 714.
+1958—Pub. L. 85–861, § 2(13), Sept. 2, 1958, 72 Stat. 1546, added item 714.
 
-## § 701. Uniforms, arms, and equipment to be same as Army or Air Force
+## § 701. Uniforms, arms, and equipment to be same as Army or Air Force
 
 So far as practicable, the same types of uniforms, arms, and equipment as are issued to the Army shall be issued to the Army National Guard, and the same types of uniforms, arms, and equipment as are issued to the Air Force shall be issued to the Air National Guard.
 
@@ -45,11 +45,11 @@ So far as practicable, the same types of uniforms, arms, and equipment as are is
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 701 | 32:31. | June 3, 1916, ch. 134, § 82; restated June 15, 1933, ch. 87, § 17, 48 Stat. 160. |
+| 701 | 32:31. | June 3, 1916, ch. 134, § 82; restated June 15, 1933, ch. 87, § 17, 48 Stat. 160. |
 
-The words “shall be issued” are substituted for the words “shall \* \* \* be uniformed, armed, and equipped with”. The words “as are issued” are substituted for the words “as are or shall be provided”. The word “Army” is substituted for the words “Regular Army”, since the Army is the category to which uniforms, arms, and equipment are issued, and the Regular Army is a personnel category only. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
+The words “shall be issued” are substituted for the words “shall \* \* \* be uniformed, armed, and equipped with”. The words “as are issued” are substituted for the words “as are or shall be provided”. The word “Army” is substituted for the words “Regular Army”, since the Army is the category to which uniforms, arms, and equipment are issued, and the Regular Army is a personnel category only. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
 
-## § 702. Issue of supplies
+## § 702. Issue of supplies
 
 **(a)** Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force may buy or manufacture and, upon requisition of the governor of any State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands or the commanding general of the National Guard of the District of Columbia, issue to its Army National Guard and Air National Guard, respectively, the supplies necessary to uniform, arm, and equip that Army National Guard or Air National Guard for field duty.
 
@@ -59,21 +59,21 @@ The words “shall be issued” are substituted for the words “shall \* \*�
 
 **(d)** No property may be issued to the National Guard of a State or Territory, Puerto Rico, or the District of Columbia, unless that jurisdiction makes provision, satisfactory to the Secretary concerned, for its protection and care.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 612; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), (4), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(4), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 612; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), (4), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(4), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 702(a) 702(b) 702(c) 702(d) | 32:33 (less provisos). 32:33 (last proviso). 32:35. 32:33 (1st proviso). | June 3, 1916, ch. 134, §§ 83, 84, 39 Stat. 203, 204. |
+| 702(a) 702(b) 702(c) 702(d) | 32:33 (less provisos). 32:33 (last proviso). 32:35. 32:33 (1st proviso). | June 3, 1916, ch. 134, §§ 83, 84, 39 Stat. 203, 204. |
 
-In subsection (a), the word “supplies” is substituted for the detailed description of stores, material, and equipment, since under section 101(12) of this title, “supplies” includes stores, material, and equipment. The words “may buy or manufacture” are substituted for the words “is authorized to procure \* \* \* by purchase or manufacture”. The words “within the limits of available appropriations made by Congress” and “from time to time” are omitted as surplusage.
+In subsection (a), the word “supplies” is substituted for the detailed description of stores, material, and equipment, since under section 101(12) of this title, “supplies” includes stores, material, and equipment. The words “may buy or manufacture” are substituted for the words “is authorized to procure \* \* \* by purchase or manufacture”. The words “within the limits of available appropriations made by Congress” and “from time to time” are omitted as surplusage.
 
 In subsection (b), the words “the Secretary concerned is satisfied” are substituted for the words “it shall be shown to the satisfaction of the Secretary of the Army”. The words “buy any article issued by the Army or the Air Force” are substituted for the words “purchase, from the Department of the Army, of any article issued by any of the supply departments of the Army”.
 
-In subsection (c), the words “the issue of” are substituted for the words “whenever \* \* \* shall have been issued \* \* \* shall be furnished”. The words “shall be without charge” are substituted for the words “without charging the cost or value thereof or any expense connected therewith”. The words “provided for the support” are omitted as surplusage.
+In subsection (c), the words “the issue of” are substituted for the words “whenever \* \* \* shall have been issued \* \* \* shall be furnished”. The words “shall be without charge” are substituted for the words “without charging the cost or value thereof or any expense connected therewith”. The words “provided for the support” are omitted as surplusage.
 
-In subsection (d), the words “No property may be issued to \* \* \* unless that jurisdiction” are substituted for the words *“Provided*, That as a condition precedent to the issue of any property as provided for by this title” and “desiring such issue”.
+In subsection (d), the words “No property may be issued to \* \* \* unless that jurisdiction” are substituted for the words *“Provided*, That as a condition precedent to the issue of any property as provided for by this title” and “desiring such issue”.
 
 **Editorial Notes**
 
@@ -81,11 +81,11 @@ In subsection (d), the words “No property may be issued to \* \* \* unless
 
 2006—Subsec. (a). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory or Puerto Rico”.
 
-1988—Subsec. (a). Pub. L. 100–456, § 1234(b)(4), substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
+1988—Subsec. (a). Pub. L. 100–456, § 1234(b)(4), substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
 
-Subsecs. (b) to (d). Pub. L. 100–456, § 1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
+Subsecs. (b) to (d). Pub. L. 100–456, § 1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 703. Purchases of supplies by States from Army or Air Force
+## § 703. Purchases of supplies by States from Army or Air Force
 
 **(a)** Subject to the approval of the Secretary of the Army, any State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands may buy from the Department of the Army, for its National Guard or the officers thereof, supplies and military publications furnished to the Army, in addition to other supplies issued to its Army National Guard. On the same basis, it may buy similar property from the Department of the Air Force. A purchase under this subsection shall be for cash, at cost plus transportation.
 
@@ -93,15 +93,15 @@ Subsecs. (b) to (d). Pub. L. 100–456, § 1234(b)(1), struck out “the Canal
 
 **(c)** Proceeds of sales by the Department of the Army and the Department of the Air Force under this section shall be credited to the appropriations from which the property was purchased, shall not be covered into the Treasury, and may be used to replace property sold under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 613; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 613; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 703(a) 703(b)     703(c) | 32:39 (1st sentence). 32:39 (proviso of last sentence). 32:39a. 32:39 (less 1st sentence, and less proviso of last sentence). | June 3, 1916, ch. 134, § 86, 39 Stat. 204. June 23, 1910, ch. 370, 36 Stat. 603. |
+| 703(a) 703(b) 703(c) | 32:39 (1st sentence). 32:39 (proviso of last sentence). 32:39a. 32:39 (less 1st sentence, and less proviso of last sentence). | June 3, 1916, ch. 134, § 86, 39 Stat. 204. June 23, 1910, ch. 370, 36 Stat. 603. |
 
-In subsection (a), the words “stores \* \* \* materiel” are omitted as covered by the word “supplies”. The words “other supplies issued” are substituted for the words “those issued under the provisions of this title”. The words “at cost plus transportation” are substituted for the words “at the price at which they shall be listed to the Army, with cost of transportation added”.
+In subsection (a), the words “stores \* \* \* materiel” are omitted as covered by the word “supplies”. The words “other supplies issued” are substituted for the words “those issued under the provisions of this title”. The words “at cost plus transportation” are substituted for the words “at the price at which they shall be listed to the Army, with cost of transportation added”.
 
 In subsection (b), 32:39a (less last 23 words) is omitted as obsolete and superseded by 32:39 (proviso of last sentence). The Act of June 23, 1910, ch. 370 (less proviso), not contained in 32:39a, is omitted from the revised section as executed. The words “bought under subsection (a)” are substituted for the words “so purchased”. The words “for military use” are substituted for the words “for use in the military service thereof”. The words “and when so requisitioned by the United States and delivered” and “ultimate” are omitted as surplusage.
 
@@ -115,17 +115,17 @@ In subsection (c), the words “Proceeds of sales by the Department of the Army 
 
 1988—Subsecs. (a), (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 704. Accountability: relief from upon order to active duty
+## § 704. Accountability: relief from upon order to active duty
 
 Upon ordering any part of the Army National Guard of the United States or the Air National Guard of the United States to active duty, the President may, upon such terms as he may prescribe, relieve the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands, whichever is concerned, of accountability for property of the United States previously issued to it for the use of that part.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 613; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 613; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 704 | 50:1121. | July 9, 1952, ch. 608, § 711, 66 Stat. 504. |
+| 704 | 50:1121. | July 9, 1952, ch. 608, § 711, 66 Stat. 504. |
 
 The words “to active duty” are substituted for the words “into the active military service of the United States”. The word “conditions” is omitted as covered by the word “terms”. The word “previously” is substituted for the word “theretofore”. The word “liability” is omitted as covered by the word “accountability”. The words “that part” are substituted for the words “such portion of the National Guard of the United States or of the Air National Guard of the United States”.
 
@@ -137,7 +137,7 @@ The words “to active duty” are substituted for the words “into the active 
 
 1988—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 705. Purchase of uniforms and equipment by officers of National Guard from Army or Air Force
+## § 705. Purchase of uniforms and equipment by officers of National Guard from Army or Air Force
 
 Officers of the Army National Guard not in Federal service may buy articles of individual clothing and equipment from the Department of the Army, under such regulations as the Secretary of the Army may prescribe. On the same basis, officers of the Air National Guard not in Federal service may buy those items from the Department of the Air Force. Purchases under this section shall be for cash, at average current costs, including overhead, as determined by the Secretary concerned.
 
@@ -147,15 +147,15 @@ Officers of the Army National Guard not in Federal service may buy articles of i
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 705 | 32:156. | June 3, 1916, ch. 134, § 109; restated June 4, 1920, ch. 227, subch. 1, § 47; restated June 3, 1924, ch. 244, § 3; restated Oct. 14, 1940, ch. 875, § 3, 54 Stat. 1136; Mar. 25, 1948, ch. 157, § 5(b), 62 Stat. 91; Oct. 12, 1949, ch. 681, § 501(f)(2) and (3) (as applicable to § 109 of the Act of June 3, 1916, ch. 134), 63 Stat. 827; July 9, 1952, ch. 608, § 803 (12th par.), 66 Stat. 505. |
+| 705 | 32:156. | June 3, 1916, ch. 134, § 109; restated June 4, 1920, ch. 227, subch. 1, § 47; restated June 3, 1924, ch. 244, § 3; restated Oct. 14, 1940, ch. 875, § 3, 54 Stat. 1136; Mar. 25, 1948, ch. 157, § 5(b), 62 Stat. 91; Oct. 12, 1949, ch. 681, § 501(f)(2) and (3) (as applicable to § 109 of the Act of June 3, 1916, ch. 134), 63 Stat. 827; July 9, 1952, ch. 608, § 803 (12th par.), 66 Stat. 505. |
 
 The reference to 10:1106 is omitted, since that section related only to sales of uniforms and equipment to cadets at the United States Military Academy. The reference to 10:904 is omitted as covered by the language of the revised section. The words “at average current costs, including overhead, as determined by the Secretary concerned” are inserted to reflect sections 4621 and 9621 of title 10, which apply to all sales of individual clothing and equipment. The words “articles of individual clothing and equipment” are substituted for the words “uniforms, accouterments, and equipment”. The words “active and inactive”, “on proper identification”, and “rules and” are omitted as surplusage.
 
-## § 706. Return of arms and equipment upon relief from Federal service
+## § 706. Return of arms and equipment upon relief from Federal service
 
-So far as practicable, whenever units, organizations, or members of the National Guard are returned to their National Guard status under section 325(b) 1
+So far as practicable, whenever units, organizations, or members of the National Guard are returned to their National Guard status under section 325(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, arms and equipment that the Secretary concerned determines are sufficient to accomplish their peacetime mission shall be returned with them.
 
@@ -165,7 +165,7 @@ of this title, arms and equipment that the Secretary concerned determines are su
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 706 | 50:1122(b) (last 17 words.) | July 9, 1952, ch. 608, § 712(b) (last 17 words), 66 Stat. 504. |
+| 706 | 50:1122(b) (last 17 words.) | July 9, 1952, ch. 608, § 712(b) (last 17 words), 66 Stat. 504. |
 
 The words “So far as practicable” are inserted, since sufficient arms and equipment might not be available.
 
@@ -173,9 +173,9 @@ The words “So far as practicable” are inserted, since sufficient arms and eq
 
 **References in Text**
 
-Section 325(b) of this title, referred to in text, was redesignated section 325(c) of this title by Pub. L. 110–417, [div. A], title V, § 517(b)(1), Oct. 14, 2008, 122 Stat. 4442.
+Section 325(b) of this title, referred to in text, was redesignated section 325(c) of this title by Pub. L. 110–417, [div. A], title V, § 517(b)(1), Oct. 14, 2008, 122 Stat. 4442.
 
-## § 707. Use of public buildings for offices by instructors
+## § 707. Use of public buildings for offices by instructors
 
 Whenever practicable, instructors of the National Guard shall use State armories or other public buildings for offices.
 
@@ -189,7 +189,7 @@ Whenever practicable, instructors of the National Guard shall use State armories
 
 The word “instructors” is substituted for the words “inspector-instructors”, since there are no longer any “inspector-instructors”.
 
-## § 708. Property and fiscal officers
+## § 708. Property and fiscal officers
 
 **(a)** The Governor of each State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands, and the commanding general of the National Guard of the District of Columbia, shall, in consultation with the Chief of the National Guard Bureau, appoint, designate or detail, subject to the approval of the Secretary of the Army and the Secretary of the Air Force, a qualified commissioned officer of the National Guard of that jurisdiction who is also a commissioned officer of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, to be the property and fiscal officer of that jurisdiction. If the officer is not on active duty, the President may order him to active duty, with his consent, to serve as a property and fiscal officer.
 
@@ -207,13 +207,13 @@ The word “instructors” is substituted for the words “inspector-instructors
 
 **(f)** A property and fiscal officer may intrust money to an officer of the National Guard to make disbursements as his agent. Both the officer to whom money is intrusted, and the property and disbursing officer intrusting the money to him, are pecuniarily responsible for that money to the United States. The agent officer is subject, for misconduct as an agent, to the liabilities and penalties prescribed by law in like cases for the property and fiscal officer for whom he is acting.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 92–310, title II, § 207, June 6, 1972, 86 Stat. 203; Pub. L. 95–79, title VIII, § 804(b), July 30, 1977, 91 Stat. 333; Pub. L. 96–513, title V, § 515(4), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–189, div. A, title VI, § 653(g), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 109–163, div. A, title X, § 1057(b)(2), (4), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 116–92, div. A, title V, § 518, Dec. 20, 2019, 133 Stat. 1350.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 92–310, title II, § 207, June 6, 1972, 86 Stat. 203; Pub. L. 95–79, title VIII, § 804(b), July 30, 1977, 91 Stat. 333; Pub. L. 96–513, title V, § 515(4), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–189, div. A, title VI, § 653(g), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 109–163, div. A, title X, § 1057(b)(2), (4), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 116–92, div. A, title V, § 518, Dec. 20, 2019, 133 Stat. 1350.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 708(a)     708(b)   708(c)   708(d)   708(e) | 32:49 (last sentence; and 2d sentence, less last 24 words). 32:49 (3d and 4th sentences). 32:49 (last 24 words of 2d sentence). 32:49 (5th and 6th sentences). 32:49 (last sentence, less 1st 18 words). | June 3, 1916, ch. 134, § 67 (last par.), 39 Stat. 200; July 9, 1918, ch. 143, subch. III (last par.); restated July 6, 1954, ch. 462, 58 Stat. 451. June 3, 1924, ch. 244, § 5, 43 Stat. 365; July 6, 1954, ch. 462, 68 Stat. 451. |
+| 708(a) 708(b) 708(c) 708(d) 708(e) | 32:49 (last sentence; and 2d sentence, less last 24 words). 32:49 (3d and 4th sentences). 32:49 (last 24 words of 2d sentence). 32:49 (5th and 6th sentences). 32:49 (last sentence, less 1st 18 words). | June 3, 1916, ch. 134, § 67 (last par.), 39 Stat. 200; July 9, 1918, ch. 143, subch. III (last par.); restated July 6, 1954, ch. 462, 58 Stat. 451. June 3, 1924, ch. 244, § 5, 43 Stat. 365; July 6, 1954, ch. 462, 68 Stat. 451. |
 | 708(f) | 32:49 (1st 18 words of last sentence). |  |
 | 708(g) | 32:50. |  |
 
@@ -233,11 +233,11 @@ In subsection (g), the words “Under such regulations as may be prescribed by t
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–92 inserted “, in consultation with the Chief of the National Guard Bureau,” after “shall”.
+2019—Subsec. (a). Pub. L. 116–92 inserted “, in consultation with the Chief of the National Guard Bureau,” after “shall”.
 
-2006—Subsec. (a). Pub. L. 109–163, § 1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+2006—Subsec. (a). Pub. L. 109–163, § 1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
 
-Subsec. (d). Pub. L. 109–163, § 1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State or Territory, Puerto Rico, and the District of Columbia”.
+Subsec. (d). Pub. L. 109–163, § 1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State or Territory, Puerto Rico, and the District of Columbia”.
 
 1989—Subsec. (a). Pub. L. 101–189 substituted “The Governor of each State or Territory and Puerto Rico” for “The governor of each State and Territory, Puerto Rico, and the Canal Zone”.
 
@@ -245,11 +245,11 @@ Subsec. (d). Pub. L. 109–163, § 1057(b)(2), substituted “State, the Commo
 
 1980—Subsec. (b). Pub. L. 96–513 redesignated pars. (2) and (3) as (1) and (2), respectively.
 
-1977—Subsec. (d). Pub. L. 95–79, § 804(b)(1), (2), redesignated subsec. (e) as (d). Former subsec. (d), which authorized inspections at least once a year by Inspectors General of the departments concerned, was struck out.
+1977—Subsec. (d). Pub. L. 95–79, § 804(b)(1), (2), redesignated subsec. (e) as (d). Former subsec. (d), which authorized inspections at least once a year by Inspectors General of the departments concerned, was struck out.
 
-Subsec. (e). Pub. L. 95–79, § 804(b)(2), (3), redesignated subsec. (f) as (e) and substituted “(d)” for “(e)”. Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 95–79, § 804(b)(2), (3), redesignated subsec. (f) as (e) and substituted “(d)” for “(e)”. Former subsec. (e) redesignated (d).
 
-Subsecs. (f), (g). Pub. L. 95–79, § 804(b)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
+Subsecs. (f), (g). Pub. L. 95–79, § 804(b)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
 1972—Subsec. (b)(1). Pub. L. 92–310 repealed provisions which related to the bond required of property and fiscal officers.
 
@@ -257,7 +257,7 @@ Subsecs. (f), (g). Pub. L. 95–79, § 804(b)(2), redesignated subsecs. (f) an
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-## § 709. Technicians: employment, use, status
+## § 709. Technicians: employment, use, status
 
 **(a)** Under regulations prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, and subject to subsections (b) and (c), persons may be employed as technicians in—
 
@@ -315,9 +315,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(4)** a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;
 
-**(5)** with respect to an appeal concerning any activity not covered by paragraph (4), the provisions of sections 7511, 7512, and 7513 of title 5, and section 717 of the Civil Rights Act of 1991 1
+**(5)** with respect to an appeal concerning any activity not covered by paragraph (4), the provisions of sections 7511, 7512, and 7513 of title 5, and section 717 of the Civil Rights Act of 1991 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (42 U.S.C. 2000e–16) shall apply; and
 
@@ -339,13 +339,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(2)** The term “fitness for duty in the reserve components” refers only to military-unique service requirements that attend to military service generally, including service in the reserve components or service on active duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, § 2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, § 2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, § 2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, § 515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§ 523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, § 1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, § 1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, § 522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, § 524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, § 525(d), Oct. 17, 2006, 120 Stat. 2195; Pub. L. 114–328, div. A, title V, §§ 512(a), (b), 513, Dec. 23, 2016, 130 Stat. 2112, 2113.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, § 2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, § 2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, § 2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, § 515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§ 523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, § 1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, § 1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, § 522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, § 524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, § 525(d), Oct. 17, 2006, 120 Stat. 2195; Pub. L. 114–328, div. A, title V, §§ 512(a), (b), 513, Dec. 23, 2016, 130 Stat. 2112, 2113.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 709(a)     709(b)   709(c) 709(d)   709(e)   709(f) | 32:42 (1st par.). 32:42a (less 28 words before 1st proviso). 32:42 (2d par., and last sentence of 4th par.). 32:42 (3d par.). 32:42 (4th par., less last sentence). 32:42 (last par., less proviso). 32:42a (28 words before 1st proviso). 32:42 (proviso of last par.). | June 3, 1916, ch. 134, § 90; restated June 4, 1920, ch. 227, subch. I, § 46; restated Mar. 1, 1922, ch. 90; restated June 6, 1924, ch. 275, § 5; restated May 28, 1926, ch. 417, § 1; Apr. 21, 1928, ch. 397; June 19, 1935, ch. 277, § 6; June 13, 1940, ch. 343 (1st proviso under “National Guard”); restated Oct. 14, 1940, ch. 875, § 1, 54 Stat. 1134. June 25, 1938, ch. 688, 52 Stat. 1173. |
+| 709(a) 709(b) 709(c) 709(d) 709(e) 709(f) | 32:42 (1st par.). 32:42a (less 28 words before 1st proviso). 32:42 (2d par., and last sentence of 4th par.). 32:42 (3d par.). 32:42 (4th par., less last sentence). 32:42 (last par., less proviso). 32:42a (28 words before 1st proviso). 32:42 (proviso of last par.). | June 3, 1916, ch. 134, § 90; restated June 4, 1920, ch. 227, subch. I, § 46; restated Mar. 1, 1922, ch. 90; restated June 6, 1924, ch. 275, § 5; restated May 28, 1926, ch. 417, § 1; Apr. 21, 1928, ch. 397; June 19, 1935, ch. 277, § 6; June 13, 1940, ch. 343 (1st proviso under “National Guard”); restated Oct. 14, 1940, ch. 875, § 1, 54 Stat. 1134. June 25, 1938, ch. 688, 52 Stat. 1173. |
 
 In subsection (a), the words “may be spent” are substituted for the words “shall be available”. The reference to animals for military purposes and forage, bedding, and other supplies and services for them, is omitted as obsolete, since animals are not now authorized for the National Guard. The word “persons” is substituted for the word “help”. The words “Army National Guard” and “Air National Guard” are substituted for the words “organizations of all kinds”. The words “the support of” are omitted as surplusage. The words “A caretaker employed under this subsection” are substituted for the words “Moneys hereafter appropriated under the provisions of this title for compensation of help for care of material, animals, armament, and equipment, in the hands of the National Guard of the several States, Territories, and the District of Columbia shall be available for the hire of caretakers”. The words “and other duties that do not interfere with the performance of his duties as caretaker” are substituted for 32:42a (1st proviso). 32:42a (2d and 3d provisos) is omitted as executed.
 
@@ -353,7 +353,7 @@ In subsection (b), the words “However, if a unit has more than one caretaker�
 
 In subsection (c), the words “or organizations thereof” are omitted as surplusage.
 
-In subsection (d), the words “one commissioned officer \* \* \* in a grade below major \* \* \* for each pool set up under subsection (c) and for each squadron of the Air National Guard” are substituted for the words “one such officer not above the grade of captain for each heavier-than-air squadron; and one such officer not above the grade of captain for each pool”.
+In subsection (d), the words “one commissioned officer \* \* \* in a grade below major \* \* \* for each pool set up under subsection (c) and for each squadron of the Air National Guard” are substituted for the words “one such officer not above the grade of captain for each heavier-than-air squadron; and one such officer not above the grade of captain for each pool”.
 
 In subsection (e), the words “Funds appropriated by Congress” are substituted for the words “Funds hereafter appropriated under the provisions of this title for the support of”, in 32:42, and “such moneys”, in 32:42a. The words “are in addition to” are substituted for the words “shall be supplemental to”, in 32:42, and “may be used as supplemental to”, in 32:42a.
 
@@ -363,21 +363,21 @@ In subsection (f), the words “authorized to be employed under this section” 
 
 **References in Text**
 
-Section 717 of the Civil Rights Act of 1991, referred to in subsec. (f)(5), probably means section 717 of the Civil Rights Act of 1964, Pub. L. 88–352, title VII, as added Pub. L. 92–261, § 11, Mar. 24, 1972, 86 Stat. 111, which is classified to section 2000e–16 of Title 42, The Public Health and Welfare. The Civil Rights Act of 1991 does not contain a section 717.
+Section 717 of the Civil Rights Act of 1991, referred to in subsec. (f)(5), probably means section 717 of the Civil Rights Act of 1964, Pub. L. 88–352, title VII, as added Pub. L. 92–261, § 11, Mar. 24, 1972, 86 Stat. 111, which is classified to section 2000e–16 of Title 42, The Public Health and Welfare. The Civil Rights Act of 1991 does not contain a section 717.
 
 **Amendments**
 
-2016—Subsec. (f)(4). Pub. L. 114–328, § 512(a)(1)(A), substituted “when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;” for “; and”.
+2016—Subsec. (f)(4). Pub. L. 114–328, § 512(a)(1)(A), substituted “when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;” for “; and”.
 
-Subsec. (f)(5), (6). Pub. L. 114–328, § 512(a)(1)(B), (C), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (f)(5), (6). Pub. L. 114–328, § 512(a)(1)(B), (C), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (g). Pub. L. 114–328, §§ 512(a)(2), 513, designated existing provisions as par. (1), substituted “Except as provided in subsection (f), sections” for “Sections”, and added par. (2).
+Subsec. (g). Pub. L. 114–328, §§ 512(a)(2), 513, designated existing provisions as par. (1), substituted “Except as provided in subsection (f), sections” for “Sections”, and added par. (2).
 
-Subsec. (j). Pub. L. 114–328, § 512(b), added subsec. (j).
+Subsec. (j). Pub. L. 114–328, § 512(b), added subsec. (j).
 
-2006—Subsec. (a)(1). Pub. L. 109–364, § 525(d)(1)(A), substituted “organizing, administering, instructing, or” for “administration and”.
+2006—Subsec. (a)(1). Pub. L. 109–364, § 525(d)(1)(A), substituted “organizing, administering, instructing, or” for “administration and”.
 
-Subsec. (a)(3). Pub. L. 109–364, § 525(d)(1)(B)–(3), added par. (3).
+Subsec. (a)(3). Pub. L. 109–364, § 525(d)(1)(B)–(3), added par. (3).
 
 1999—Pub. L. 106–65 amended section catchline and text generally, revising and restating provisions relating to employment, use, and status of technicians.
 
@@ -385,23 +385,23 @@ Subsec. (a)(3). Pub. L. 109–364, § 525(d)(1)(B)–(3), added par. (3).
 
 1996—Subsec. (b). Pub. L. 104–106 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Except as prescribed by the Secretary concerned, a technician employed under subsection (a) shall, while so employed, be a member of the National Guard and hold the military grade specified by the Secretary concerned for that position.”
 
-1994—Subsec. (e)(6). Pub. L. 103–337, § 1070(d)(5)(A), substituted “30 days before” for “thirty days prior to”.
+1994—Subsec. (e)(6). Pub. L. 103–337, § 1070(d)(5)(A), substituted “30 days before” for “thirty days prior to”.
 
-Pub. L. 103–337, § 1070(b)(2), made technical correction to directory language of Pub. L. 103–160, § 524(c). See 1993 Amendment note below.
+Pub. L. 103–337, § 1070(b)(2), made technical correction to directory language of Pub. L. 103–160, § 524(c). See 1993 Amendment note below.
 
-Subsec. (g)(2). Pub. L. 103–337, § 1070(d)(5)(B), substituted “paragraph (1)” for “clause (1) of this subsection”.
+Subsec. (g)(2). Pub. L. 103–337, § 1070(d)(5)(B), substituted “paragraph (1)” for “clause (1) of this subsection”.
 
-1993—Subsec. (e)(6). Pub. L. 103–160, § 524(c), as amended by Pub. L. 103–337, § 1070(b)(2), inserted “, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment,” after “termination of his employment as a technician and”.
+1993—Subsec. (e)(6). Pub. L. 103–160, § 524(c), as amended by Pub. L. 103–337, § 1070(b)(2), inserted “, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment,” after “termination of his employment as a technician and”.
 
-Subsec. (h). Pub. L. 103–160, § 524(d), struck out subsec. (h) which read as follows: “In no event shall the number of technicians employed under this section at any one time exceed 53,100.”
+Subsec. (h). Pub. L. 103–160, § 524(d), struck out subsec. (h) which read as follows: “In no event shall the number of technicians employed under this section at any one time exceed 53,100.”
 
-Subsec. (i). Pub. L. 103–160, § 523(a), added subsec. (i).
+Subsec. (i). Pub. L. 103–160, § 523(a), added subsec. (i).
 
-1980—Subsec. (f). Pub. L. 96–513, § 515(5), struck out “, United States Code,” after “title 5”.
+1980—Subsec. (f). Pub. L. 96–513, § 515(5), struck out “, United States Code,” after “title 5”.
 
-Subsec. (g). Pub. L. 96–513, § 515(6), substituted “6101(a) of title 5” for “6102 of title 5, United States Code,” in two places, “5332 of title 5” for “5332 of title 5, United States Code” and “5543 of title 5” for “5543 of title 5, United States Code,”.
+Subsec. (g). Pub. L. 96–513, § 515(6), substituted “6101(a) of title 5” for “6102 of title 5, United States Code,” in two places, “5332 of title 5” for “5332 of title 5, United States Code” and “5543 of title 5” for “5543 of title 5, United States Code,”.
 
-Subsec. (h). Pub. L. 96–513, § 515(7), struck out limitation of 49,200 technicians employed during the fiscal year beginning July 1, 1971.
+Subsec. (h). Pub. L. 96–513, § 515(7), struck out limitation of 49,200 technicians employed during the fiscal year beginning July 1, 1971.
 
 1971—Subsec. (h). Pub. L. 92–119 increased number of technicians employable under section from 42,500 to 53,100 with exception that such number is fixed at 49,200 for fiscal year beginning July 1, 1971.
 
@@ -431,7 +431,7 @@ Amendment by Pub. L. 106–65 effective 180 days after the date of receipt by Co
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
+Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
 **Effective Date of 1980 Amendment**
 
@@ -439,23 +439,23 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–486, § 11, Aug. 13, 1968, 82 Stat. 760, provided that: “This Act [see Short Title note below] becomes effective January 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before the first day of the first pay period that begins on or after January 1, 1969.”
+Pub. L. 90–486, § 11, Aug. 13, 1968, 82 Stat. 760, provided that: “This Act [see Short Title note below] becomes effective January 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before the first day of the first pay period that begins on or after January 1, 1969.”
 
 **Short Title**
 
-Pub. L. 90–486, § 1, Aug. 13, 1968, 82 Stat. 755, provided: “That this Act [amending this section and section 715 of this title, sections 2105, 8332, 8334, and 8339 of Title 5, Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and section 418 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section] may be cited as the ‘National Guard Technicians Act of 1968’.”
+Pub. L. 90–486, § 1, Aug. 13, 1968, 82 Stat. 755, provided: “That this Act [amending this section and section 715 of this title, sections 2105, 8332, 8334, and 8339 of Title 5, Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and section 418 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section] may be cited as the ‘National Guard Technicians Act of 1968’.”
 
 **Military Education for Army National Guard Civilian Technicians**
 
-Pub. L. 101–189, div. A, title V, § 506(a)–(c), Nov. 29, 1989, 103 Stat. 1438, 1439, which related to attendance by civilian technicians of Army National Guard in Battle Skills Course and military promotions, courses and training meeting requirements of reserve component noncommissioned officers education program, and submission by Secretary of the Army to committees of Congress of a plan to use State and National Guard Bureau regional academies to provide portion of Reserve Component Noncommissioned Officers Education System specifically related to military occupational specialties, was repealed by Pub. L. 103–160, div. A, title V, § 523(b)(2), Nov. 30, 1993, 107 Stat. 1656.
+Pub. L. 101–189, div. A, title V, § 506(a)–(c), Nov. 29, 1989, 103 Stat. 1438, 1439, which related to attendance by civilian technicians of Army National Guard in Battle Skills Course and military promotions, courses and training meeting requirements of reserve component noncommissioned officers education program, and submission by Secretary of the Army to committees of Congress of a plan to use State and National Guard Bureau regional academies to provide portion of Reserve Component Noncommissioned Officers Education System specifically related to military occupational specialties, was repealed by Pub. L. 103–160, div. A, title V, § 523(b)(2), Nov. 30, 1993, 107 Stat. 1656.
 
-Pub. L. 100–456, div. A, title V, § 523, Sept. 29, 1988, 102 Stat. 1974, as amended by Pub. L. 101–189, div. A, title V, § 506(d), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title XIV, § 1484(*l*)(2), Nov. 5, 1990, 104 Stat. 1719, which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by Pub. L. 103–160, div. A, title V, § 523(b)(1), Nov. 30, 1993, 107 Stat. 1656.
+Pub. L. 100–456, div. A, title V, § 523, Sept. 29, 1988, 102 Stat. 1974, as amended by Pub. L. 101–189, div. A, title V, § 506(d), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title XIV, § 1484(*l*)(2), Nov. 5, 1990, 104 Stat. 1719, which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by Pub. L. 103–160, div. A, title V, § 523(b)(1), Nov. 30, 1993, 107 Stat. 1656.
 
-[Pub. L. 103–160, div. A, title V, § 523(c), Nov. 30, 1993, 107 Stat. 1656, provided that: “A civilian technician of the Army National Guard serving in an active status on the date of the enactment of this Act [Nov. 30, 1993] who under the provisions of law repealed by subsection (b) [repealing section 523 of Pub. L. 100–456 and section 506(a)–(c) of Pub. L. 101–189, formerly set out as notes above] (or under other Department of the Army policy in effect on the day before such date of enactment) was granted credit on the technician’s military record for the completion of certain education and training courses shall retain such credit, notwithstanding the provisions of subsections (a) [amending this section] and (b), for a period determined by the Secretary of the Army. Such a period may not terminate, in the case of any such civilian technician, before the effective date of such civilian technician’s next mililitary [sic] promotion.” ]
+[Pub. L. 103–160, div. A, title V, § 523(c), Nov. 30, 1993, 107 Stat. 1656, provided that: “A civilian technician of the Army National Guard serving in an active status on the date of the enactment of this Act [Nov. 30, 1993] who under the provisions of law repealed by subsection (b) [repealing section 523 of Pub. L. 100–456 and section 506(a)–(c) of Pub. L. 101–189, formerly set out as notes above] (or under other Department of the Army policy in effect on the day before such date of enactment) was granted credit on the technician’s military record for the completion of certain education and training courses shall retain such credit, notwithstanding the provisions of subsections (a) [amending this section] and (b), for a period determined by the Secretary of the Army. Such a period may not terminate, in the case of any such civilian technician, before the effective date of such civilian technician’s next mililitary [sic] promotion.” ]
 
 **Retirement Credit for Certain Former National Guard Technicians**
 
-Pub. L. 99–661, div. A, title VI, § 654, Nov. 14, 1986, 100 Stat. 3890, provided that:
+Pub. L. 99–661, div. A, title VI, § 654, Nov. 14, 1986, 100 Stat. 3890, provided that:
 
 > **“(a) Civil Service Retirement Credit.—** A period of service performed under section 709 of title 32, United States Code (or under a prior corresponding provision of law), before January 1, 1969, which would not otherwise be creditable under subchapter III of chapter 83 of title 5, United States Code, because of the antepenultimate sentence of section 8332(b) of such title, shall be considered creditable service under such subchapter, notwithstanding such sentence, in the case of an individual described in subsection (b).
 
@@ -471,7 +471,7 @@ Pub. L. 99–661, div. A, title VI, § 654, Nov. 14, 1986, 100 Stat. 3890, pro
 
 **Savings Provision for Accrued Claims; Conversion to Federal Employee Status; Credit for Past Service; Leave Credit**
 
-Pub. L. 90–486, § 3, Aug. 13, 1968, 82 Stat. 756, as amended by Pub. L. 101–530, § 2, Nov. 6, 1990, 104 Stat. 2338, provided that:
+Pub. L. 90–486, § 3, Aug. 13, 1968, 82 Stat. 756, as amended by Pub. L. 101–530, § 2, Nov. 6, 1990, 104 Stat. 2338, provided that:
 
 > **“(a)** A claim accrued under section 715 of title 32, United States Code, before the effective date of this Act [see effective date note above] by reason of the act or omission of a person employed under section 709 of title 32, United States Code, may, if otherwise allowable, be settled and paid under section 715 of title 32, United States Code.
 
@@ -481,7 +481,7 @@ Pub. L. 90–486, § 3, Aug. 13, 1968, 82 Stat. 756, as amended by Pub. L. 101
 
 > **“(d)** Annual leave and sick leave to which a technician was entitled on the day before the conversion of his position, as provided in subsection (b) of this section, shall be credited to him in his new position.”
 
-[Pub. L. 101–530, § 3(b), Nov. 6, 1990, 104 Stat. 2339, provided that:
+[Pub. L. 101–530, § 3(b), Nov. 6, 1990, 104 Stat. 2339, provided that:
 
 [“(1) General rule.—Except as provided in paragraph (2), the amendment made by section 2 [amending section 3 of Pub. L. 90–486, set out above] applies only with respect to an individual performing service as an officer or employee of the Government on or after the date of enactment of this Act [Nov. 6, 1990] and only to determine—
 
@@ -501,11 +501,11 @@ Pub. L. 90–486, § 3, Aug. 13, 1968, 82 Stat. 756, as amended by Pub. L. 101
 
 **Persons Employed Prior to January 1, 1969, Whose Employment Was Covered by Civil Service Retirement Provisions**
 
-Pub. L. 90–486, § 5(d), Aug. 13, 1968, 82 Stat. 758, provided that: “Clause (4) of subsection (a) of this section [amending section 8332(b) of Title 5, Government Organization and Employees] and subsections (b) and (c) of this section [amending section 8334(c) and adding section 8339(*l*) of title 5] do not apply to any person employed prior to the effective date of this Act [see Effective Date note above] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code.”
+Pub. L. 90–486, § 5(d), Aug. 13, 1968, 82 Stat. 758, provided that: “Clause (4) of subsection (a) of this section [amending section 8332(b) of Title 5, Government Organization and Employees] and subsections (b) and (c) of this section [amending section 8334(c) and adding section 8339(*l*) of title 5] do not apply to any person employed prior to the effective date of this Act [see Effective Date note above] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code.”
 
 **Election To Remain Under State Retirement System; Reemployed Technicians; Continuation of Federal Contributions**
 
-Pub. L. 90–486, § 6, Aug. 13, 1968, 82 Stat. 758, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–486, § 6, Aug. 13, 1968, 82 Stat. 758, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a)** Notwithstanding section 709(d) of title 32, United States Code, a person who, on the date of enactment of this Act [Aug. 13, 1968], is employed under section 709 of title 32, United States Code, and is covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, may elect, not later than the effective date of this Act [see Effective Date note above], not to be covered by subchapter III of chapter 83 of title 5, United States Code, and with the consent of the State concerned or Commonwealth of Puerto Rico, to remain covered by the employee retirement system of, or plan sponsored by, that State or the Commonwealth of Puerto Rico. Unless such an election, together with a statement of approval by the State concerned or the Commonwealth of Puerto Rico, is filed with the Secretary of the Army or the Secretary of the Air Force, as appropriate, on or before the effective date of this Act, the person concerned is covered by subchapter III of chapter 83 of title 5, United States Code, as of that date.
 
@@ -521,7 +521,7 @@ Pub. L. 90–486, § 6, Aug. 13, 1968, 82 Stat. 758, as amended by Pub. L. 99�
 
 **Compensation Rates; Conversion and Adjustment of Compensation to the General Schedule**
 
-Pub. L. 90–486, § 8, Aug. 13, 1968, 82 Stat. 759, provided that:
+Pub. L. 90–486, § 8, Aug. 13, 1968, 82 Stat. 759, provided that:
 
 > **“(a)** Except as provided in section 709(g) of title 32, United States Code, the Secretary concerned shall fix the rate of basic compensation of positions existing on the date of enactment of this Act [Aug. 13, 1968] in accordance with the General Schedule set forth in section 5332, or under the appropriate prevailing rate schedule in accordance with section 5341 of title 5, United States Code, as applicable. In fixing such rate—
 
@@ -549,7 +549,7 @@ Pub. L. 90–486, § 8, Aug. 13, 1968, 82 Stat. 759, provided that:
 
 **Regulations: Approval by Secretary of Defense; Uniformity**
 
-Pub. L. 90–486, § 10, Aug. 13, 1968, 82 Stat. 760, provided that: “Regulations prescribed by the Secretary of the Army and Secretary of the Air Force under this Act [see Short Title note above] shall be approved by the Secretary of Defense and shall, so far as practicable, be uniform.”
+Pub. L. 90–486, § 10, Aug. 13, 1968, 82 Stat. 760, provided that: “Regulations prescribed by the Secretary of the Army and Secretary of the Air Force under this Act [see Short Title note above] shall be approved by the Secretary of Defense and shall, so far as practicable, be uniform.”
 
 **Number of Caretakers for Air National Guard**
 
@@ -645,7 +645,7 @@ July 30, 1947, ch. 357, title I, 61 Stat. 564.
 
 July 16, 1946, ch. 583, 60 Stat. 556.
 
-## § 710. Accountability for property issued to the National Guard
+## § 710. Accountability for property issued to the National Guard
 
 **(a)** All military property issued by the United States to the National Guard remains the property of the United States.
 
@@ -673,7 +673,7 @@ July 16, 1946, ch. 583, 60 Stat. 556.
 
 **(B)** in the case of the Air National Guard, a commissioned officer of the Regular Air Force or a commissioned officer of the Air National Guard who is also a commissioned officer of the Air National Guard of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 615; Pub. L. 85–861, § 33(c)(3), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–328, § 1(a), (b)(1), Aug. 8, 1980, 94 Stat. 1027; Pub. L. 96–513, title V, § 515(8), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 97–258, § 3(h)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–160, div. A, title V, § 524(e), Nov. 30, 1993, 107 Stat. 1657; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 615; Pub. L. 85–861, § 33(c)(3), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–328, § 1(a), (b)(1), Aug. 8, 1980, 94 Stat. 1027; Pub. L. 96–513, title V, § 515(8), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 97–258, § 3(h)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–160, div. A, title V, § 524(e), Nov. 30, 1993, 107 Stat. 1657; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
@@ -681,7 +681,7 @@ July 16, 1946, ch. 583, 60 Stat. 556.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 710(a) 710(b) 710(c)     710(d)   710(e)   710(f) | 32:47 (1st sentence). 32:47 (2d sentence). 32:47 (3d sentence). 32:154 (last proviso of 2d par.). 32:47 (last sentence, less proviso). 32:47 (1st proviso of last sentence). 32:47 (last proviso of last sentence). | June 3, 1916, ch. 134, § 87; June 3, 1924, ch. 244, § 1; restated Feb. 28, 1925, ch. 371, § 4; restated Aug. 27, 1954, ch. 1014, 68 Stat. 880. June 3, 1916, ch. 134, § 110 (last proviso of 2d par.); restated Sept. 22, 1922, ch. 423, § 6 (last proviso of 2d par.); restated Apr. 6, 1928, ch. 322 (last proviso), 45 Stat. 408. |
+| 710(a) 710(b) 710(c) 710(d) 710(e) 710(f) | 32:47 (1st sentence). 32:47 (2d sentence). 32:47 (3d sentence). 32:154 (last proviso of 2d par.). 32:47 (last sentence, less proviso). 32:47 (1st proviso of last sentence). 32:47 (last proviso of last sentence). | June 3, 1916, ch. 134, § 87; June 3, 1924, ch. 244, § 1; restated Feb. 28, 1925, ch. 371, § 4; restated Aug. 27, 1954, ch. 1014, 68 Stat. 880. June 3, 1916, ch. 134, § 110 (last proviso of 2d par.); restated Sept. 22, 1922, ch. 423, § 6 (last proviso of 2d par.); restated Apr. 6, 1928, ch. 322 (last proviso), 45 Stat. 408. |
 
 In subsection (a), the words “as herein provided” are omitted as surplusage.
 
@@ -717,11 +717,11 @@ Section 4(b)(22) of the Permanent Appropriation Repeal Act, 1934, referred to in
 
 1982—Subsec. (d). Pub. L. 97–258 struck out “(31 U.S.C. 725c(b)(22))” after “1934”.
 
-1980—Pub. L. 96–328, § 1(b)(1), substituted “Accountability for property issued to the National Guard” for “Reports of survey” in section catchline.
+1980—Pub. L. 96–328, § 1(b)(1), substituted “Accountability for property issued to the National Guard” for “Reports of survey” in section catchline.
 
-Subsec. (b). Pub. L. 96–328, § 1(a), substituted provisions authorizing the Secretary of the Army, regarding the Army National Guard, and the Secretary of the Air Force, regarding the Air National Guard, to prescribe regulations for accounting for property issued by the United States to each service and for fixing responsibility for that property and requiring, as far as practicable, that the regulations prescribed be uniform among the components of each service for provisions authorizing, that if property issued to the National Guard is lost, damaged, or destroyed, or becomes unserviceable or unsuitable, a survey of the circumstances involved be conducted by a disinterested commissioned officer of the Regular Army, Army National Guard, Regular Air Force, or Air National Guard, as the case may be, and a report of the survey sent to the Secretary concerned or an officer designated by that Secretary to receive those reports.
+Subsec. (b). Pub. L. 96–328, § 1(a), substituted provisions authorizing the Secretary of the Army, regarding the Army National Guard, and the Secretary of the Air Force, regarding the Air National Guard, to prescribe regulations for accounting for property issued by the United States to each service and for fixing responsibility for that property and requiring, as far as practicable, that the regulations prescribed be uniform among the components of each service for provisions authorizing, that if property issued to the National Guard is lost, damaged, or destroyed, or becomes unserviceable or unsuitable, a survey of the circumstances involved be conducted by a disinterested commissioned officer of the Regular Army, Army National Guard, Regular Air Force, or Air National Guard, as the case may be, and a report of the survey sent to the Secretary concerned or an officer designated by that Secretary to receive those reports.
 
-Subsec. (c). Pub. L. 96–328, § 1(a), substituted provisions authorizing the Secretary concerned to charge liability for property lost, damaged, or destroyed to a member of the Army National Guard or Air National Guard when in similar circumstances a member of the Army or Air Force serving on active duty would be charged, to remit or cancel the liability of a member for good cause, and to charge a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia when such loss is incident to duty directed pursuant to the laws of, and in support of the authorities of, such jurisdiction for provisions authorizing the Secretary concerned to relieve a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia of liability for loss, damage, or destruction of property unless such loss occurred through negligence.
+Subsec. (c). Pub. L. 96–328, § 1(a), substituted provisions authorizing the Secretary concerned to charge liability for property lost, damaged, or destroyed to a member of the Army National Guard or Air National Guard when in similar circumstances a member of the Army or Air Force serving on active duty would be charged, to remit or cancel the liability of a member for good cause, and to charge a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia when such loss is incident to duty directed pursuant to the laws of, and in support of the authorities of, such jurisdiction for provisions authorizing the Secretary concerned to relieve a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia of liability for loss, damage, or destruction of property unless such loss occurred through negligence.
 
 Subsec. (d). Pub. L. 96–513 substituted “4(b)(22) of the Permanent Appropriation Repeal Act, 1934 (31 U.S.C. 725c(b)(22))” for “725c(b)(22) of title 31”.
 
@@ -733,23 +733,23 @@ Subsec. (d). Pub. L. 96–513 substituted “4(b)(22) of the Permanent Appropria
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Pub. L. 96–328, § 2, Aug. 8, 1980, 94 Stat. 1028, provided that: “The amendment made by subsection (a) of the first section of this Act [amending subsecs. (b) and (c) of this section] shall apply to liability for property issued by the United States to the National Guard that is lost, damaged, or destroyed on or after October 1, 1980. Liability for such property that is lost, damaged, or destroyed before such date shall be governed by the provisions of section 710 of title 32, United States Code, as in effect on the day before the date of the enactment of this Act [Aug. 8, 1980].”
+Pub. L. 96–328, § 2, Aug. 8, 1980, 94 Stat. 1028, provided that: “The amendment made by subsection (a) of the first section of this Act [amending subsecs. (b) and (c) of this section] shall apply to liability for property issued by the United States to the National Guard that is lost, damaged, or destroyed on or after October 1, 1980. Liability for such property that is lost, damaged, or destroyed before such date shall be governed by the provisions of section 710 of title 32, United States Code, as in effect on the day before the date of the enactment of this Act [Aug. 8, 1980].”
 
 **Effective Date of 1958 Amendment**
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of Title 10, Armed Forces.
 
-## § 711. Disposition of obsolete or condemned property
+## § 711. Disposition of obsolete or condemned property
 
 Each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands shall, upon receiving new property issued to its National Guard to replace obsolete or condemned issues of property, return the replaced property to the Department of the Army or the Department of the Air Force, as the case may be, or otherwise dispose of it, as the Secretary concerned directs. No money credit may be allowed for property disposed of under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 711 | 32:46. | June 3, 1916, ch. 134, § 85, 39 Stat. 204. |
+| 711 | 32:46. | June 3, 1916, ch. 134, § 85, 39 Stat. 204. |
 
 The words “to its National Guard” are inserted for clarity. The word “it” is substituted for the words “all property so replaced or condemned”. The last sentence is substituted for 32:46 (last 8 words).
 
@@ -761,7 +761,7 @@ The words “to its National Guard” are inserted for clarity. The word “it�
 
 1988—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 712. Disposition of proceeds of condemned stores issued to National Guard
+## § 712. Disposition of proceeds of condemned stores issued to National Guard
 
 The following shall be covered into the Treasury:
 
@@ -771,13 +771,13 @@ The following shall be covered into the Treasury:
 
 **(3)** Stoppage against members of the National Guard for the loss or destruction of, or damage to, property described in clause (1).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 712 | 32:45. | June 3, 1916, ch. 134, § 88, 39 Stat. 205; Oct. 31, 1951, ch. 654, § 3(5), 65 Stat. 708. |
+| 712 | 32:45. | June 3, 1916, ch. 134, § 88, 39 Stat. 205; Oct. 31, 1951, ch. 654, § 3(5), 65 Stat. 708. |
 
 The introductory clause is substituted for the words “shall be covered into the Treasury of the United States” and “as shall also”. The words “United States” are substituted for the word “Government”. The words “members of the National Guard” are substituted for the words “officers and enlisted men”.
 
@@ -789,7 +789,7 @@ The introductory clause is substituted for the words “shall be covered into th
 
 1988—Par. (1). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 713. Official mail: free transmission
+## § 713. Official mail: free transmission
 
 Units and headquarters of the National Guard, whether or not in Federal service, have the same privilege of free mailing of official matter as the Department of Defense.
 
@@ -799,11 +799,11 @@ Units and headquarters of the National Guard, whether or not in Federal service,
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 713 | 32:196. | Aug. 1, 1953, ch. 305, § 643, 67 Stat. 357. |
+| 713 | 32:196. | Aug. 1, 1953, ch. 305, § 643, 67 Stat. 357. |
 
 The word “Hereafter” is omitted as executed. The words “and the Air National Guard” are omitted, since “National Guard”, as defined in section 101(2) of this title, includes the Army National Guard and the Air National Guard. The words “Federal service” are substituted for the words “active service of the United States”. The words “mailing of official matter” are substituted for the words “transmission of official mail matter”.
 
-## § 714. Final settlement of accounts: deceased members
+## § 714. Final settlement of accounts: deceased members
 
 **(a)** In the settlement of the accounts of a member of the National Guard who dies after December 31, 1955, an amount due from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
 
@@ -825,13 +825,13 @@ The word “Hereafter” is omitted as executed. The words “and the Air Nation
 
 **(d)** A payment under this section bars recovery by any other person of the amount paid.
 
-(Added Pub. L. 85–861, § 2(12), Sept. 2, 1958, 72 Stat. 1546; amended Pub. L. 87–46, June 16, 1961, 75 Stat. 92; Pub. L. 104–316, title II, § 202(q), Oct. 19, 1996, 110 Stat. 3844.)
+(Added Pub. L. 85–861, § 2(12), Sept. 2, 1958, 72 Stat. 1546; amended Pub. L. 87–46, June 16, 1961, 75 Stat. 92; Pub. L. 104–316, title II, § 202(q), Oct. 19, 1996, 110 Stat. 3844.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 714(a)     714(b) 714(c) | 37:361. 37:362. 37:365. 37:364 (less proviso). 37:363 (less last sentence). | July 12, 1955, ch. 328, §§ 1–3, 4 (less proviso), 5 (1st sentence), 69 Stat. 295, 296. |
+| 714(a) 714(b) 714(c) | 37:361. 37:362. 37:365. 37:364 (less proviso). 37:363 (less last sentence). | July 12, 1955, ch. 328, §§ 1–3, 4 (less proviso), 5 (1st sentence), 69 Stat. 295, 296. |
 | 714(d) | 37:363 (last sentence). |  |
 
 In subsection (a), the definition of the term “Department”, in 37:361, is omitted as unnecessary, since the particular departments referred to are spelled out in the revised text. The definition of the term “uniformed services”, in 37:361, is omitted as covered by the word “member” in this revised section. Clauses (1)–(6) are substituted for the last 5 clauses of 37:362. The words “regulations to be prescribed by the Secretary concerned” are substituted for the words “regulations of the Department concerned”, since the “Department”, as such, cannot issue regulations.
@@ -862,11 +862,11 @@ for “Payments under clauses (2)–(6) of subsection (a) may be paid only after
 
 **Statutory Notes and Related Subsidiaries**
 
-**Designation of Beneficiary Made Before January 1, 1956**
+**Designation of Beneficiary Made Before January 1, 1956**
 
 Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of this section, see note set out under section 2771 of Title 10, Armed Forces.
 
-## § 715. Property loss; personal injury or death: activities under certain sections of this title
+## § 715. Property loss; personal injury or death: activities under certain sections of this title
 
 **(a)** Under such regulations as the Secretary of the Army or Secretary of the Air Force may prescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
 
@@ -902,7 +902,7 @@ For the purposes of clause (1), the dates of the beginning and end of an armed c
 
 **(h)** In this section, “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
 
-(Added Pub. L. 86–740, § 1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, § 8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, § 2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, § 6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, § 3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, § 3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, § 4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, § 202(r), Oct. 19, 1996, 110 Stat. 3844.)
+(Added Pub. L. 86–740, § 1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, § 8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, § 2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, § 6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, § 3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, § 3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, § 4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, § 202(r), Oct. 19, 1996, 110 Stat. 3844.)
 
 **Editorial Notes**
 
@@ -910,15 +910,15 @@ For the purposes of clause (1), the dates of the beginning and end of an armed c
 
 1996—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
-1984—Subsec. (a). Pub. L. 98–564, § 4(1), substituted “$100,000” for “$25,000”.
+1984—Subsec. (a). Pub. L. 98–564, § 4(1), substituted “$100,000” for “$25,000”.
 
-Subsec. (d). Pub. L. 98–564, § 4(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If the Secretary of the military department concerned considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this section, he may pay the claimant $25,000 and report the excess to Congress for its consideration”.
+Subsec. (d). Pub. L. 98–564, § 4(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If the Secretary of the military department concerned considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this section, he may pay the claimant $25,000 and report the excess to Congress for its consideration”.
 
-Subsec. (f). Pub. L. 98–564, § 4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under section 2733(g) of title 10, to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose”.
+Subsec. (f). Pub. L. 98–564, § 4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under section 2733(g) of title 10, to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose”.
 
-1974—Subsecs. (a), (d). Pub. L. 93–336, § 3(1), (2), substituted “$25,000” for “$15,000”.
+1974—Subsecs. (a), (d). Pub. L. 93–336, § 3(1), (2), substituted “$25,000” for “$15,000”.
 
-Subsec. (f). Pub. L. 93–336, § 3(3), substituted “$5,000” for “$2,500”.
+Subsec. (f). Pub. L. 93–336, § 3(3), substituted “$5,000” for “$2,500”.
 
 1972—Subsec. (b)(4). Pub. L. 92–445 inserted provision that claim may be allowed to extent that law of place where act or omission complained of occurred would permit recovery from a private individual under similar circumstances, when damage to or loss of property, or personal injury or death was caused wholly or partly by a negligent or wrongful act of claimant, his agent, or his employee.
 
@@ -944,7 +944,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Settlement and payment of claims arising under this section before January 1, 1969, see section 3(a) of Pub. L. 90–486, set out as a note under section 709 of this title.
 
-## § 716. Claims for overpayment of pay and allowances, and travel and transportation allowances
+## § 716. Claims for overpayment of pay and allowances, and travel and transportation allowances
 
 **(a)** A claim of the United States against a person arising out of an erroneous payment of any pay or allowances made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances, to or on behalf of a member or former member of the National Guard, the collection of which would be against equity and good conscience and not in the best interest of the United States, may be waived in whole or in part by—
 
@@ -970,29 +970,29 @@ Settlement and payment of claims arising under this section before January 1, 19
 
 **(f)** This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 
-(Added Pub. L. 92–453, § 2(1), Oct. 2, 1972, 86 Stat. 759; amended Pub. L. 96–513, title V, § 515(9), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 99–224, § 3(a), Dec. 28, 1985, 99 Stat. 1742; Pub. L. 102–190, div. A, title VI, § 657(c), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, § 116, Oct. 19, 1996, 110 Stat. 3835; Pub. L. 109–364, div. A, title VI, § 671(b), Oct. 17, 2006, 120 Stat. 2270.)
+(Added Pub. L. 92–453, § 2(1), Oct. 2, 1972, 86 Stat. 759; amended Pub. L. 96–513, title V, § 515(9), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 99–224, § 3(a), Dec. 28, 1985, 99 Stat. 1742; Pub. L. 102–190, div. A, title VI, § 657(c), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, § 116, Oct. 19, 1996, 110 Stat. 3835; Pub. L. 109–364, div. A, title VI, § 671(b), Oct. 17, 2006, 120 Stat. 2270.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a)(2)(A). Pub. L. 109–364, § 671(b)(1), substituted “$10,000” for “$1,500”.
+2006—Subsec. (a)(2)(A). Pub. L. 109–364, § 671(b)(1), substituted “$10,000” for “$1,500”.
 
-Subsec. (b)(2). Pub. L. 109–364, § 671(b)(2), substituted “five” for “three”.
+Subsec. (b)(2). Pub. L. 109–364, § 671(b)(2), substituted “five” for “three”.
 
-1996—Subsec. (a)(1). Pub. L. 104–316, § 116(1)(A), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
+1996—Subsec. (a)(1). Pub. L. 104–316, § 116(1)(A), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
 
-Subsec. (a)(2). Pub. L. 104–316, § 116(1)(B), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows: “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
+Subsec. (a)(2). Pub. L. 104–316, § 116(1)(B), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows: “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
 
-Subsec. (b). Pub. L. 104–316, § 116(2), substituted “The Director of the Office of Management and Budget” for “Comptroller General” in introductory provisions.
+Subsec. (b). Pub. L. 104–316, § 116(2), substituted “The Director of the Office of Management and Budget” for “Comptroller General” in introductory provisions.
 
 1991—Subsec. (a)(2)(A). Pub. L. 102–190 substituted “$1,500” for “$500”.
 
-1985—Pub. L. 99–224, § 3(a)(1), substituted “and travel” for “other than travel” in section catchline.
+1985—Pub. L. 99–224, § 3(a)(1), substituted “and travel” for “other than travel” in section catchline.
 
-Subsec. (a). Pub. L. 99–224, § 3(a)(2), substituted “made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances” for “, other than travel and transportation allowances, made before or after October 2, 1972”.
+Subsec. (a). Pub. L. 99–224, § 3(a)(2), substituted “made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances” for “, other than travel and transportation allowances, made before or after October 2, 1972”.
 
-Subsec. (b)(2). Pub. L. 99–224, § 3(a)(3), struck out “of pay or allowances, other than travel and transportation allowances,” before “was discovered”.
+Subsec. (b)(2). Pub. L. 99–224, § 3(a)(3), struck out “of pay or allowances, other than travel and transportation allowances,” before “was discovered”.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “October 2, 1972” for “the effective date of this section”.
 
@@ -1014,6 +1014,6 @@ Amendment by Pub. L. 99–224 applicable to any claim arising out of an erroneou
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-## [§ 717. Repealed. Pub. L. 109–163, div. A, title V, § 589(b)(2), Jan. 6, 2006, 119 Stat. 3279]
+## [§ 717. Repealed. Pub. L. 109–163, div. A, title V, § 589(b)(2), Jan. 6, 2006, 119 Stat. 3279]
 
-Section, added Pub. L. 108–375, div. A, title V, § 520(b)(1), Oct. 28, 2004, 118 Stat. 1886, related to presentation of recognition items for retention purposes.
+Section, added Pub. L. 108–375, div. A, title V, § 520(b)(1), Oct. 28, 2004, 118 Stat. 1886, related to presentation of recognition items for retention purposes.

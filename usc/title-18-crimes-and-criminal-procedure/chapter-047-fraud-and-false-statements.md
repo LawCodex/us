@@ -19,49 +19,49 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–179, § 2(b), Jan. 7, 2008, 121 Stat. 2557, added item 1040.
+2008—Pub. L. 110–179, § 2(b), Jan. 7, 2008, 121 Stat. 2557, added item 1040.
 
-2007—Pub. L. 109–476, § 3(b), Jan. 12, 2007, 120 Stat. 3571, added item 1039.
+2007—Pub. L. 109–476, § 3(b), Jan. 12, 2007, 120 Stat. 3571, added item 1039.
 
-2006—Pub. L. 109–177, title III, § 302(b), Mar. 9, 2006, 120 Stat. 233, inserted “or seaport” at end of item 1036.
+2006—Pub. L. 109–177, title III, § 302(b), Mar. 9, 2006, 120 Stat. 233, inserted “or seaport” at end of item 1036.
 
-2004—Pub. L. 108–458, title VI, § 6702(b), Dec. 17, 2004, 118 Stat. 3766, added item 1038.
+2004—Pub. L. 108–458, title VI, § 6702(b), Dec. 17, 2004, 118 Stat. 3766, added item 1038.
 
-Pub. L. 108–275, § 2(b), July 15, 2004, 118 Stat. 832, added item 1028A.
+Pub. L. 108–275, § 2(b), July 15, 2004, 118 Stat. 832, added item 1028A.
 
-2003—Pub. L. 108–187, § 4(a)(2), Dec. 16, 2003, 117 Stat. 2705, added item 1037.
+2003—Pub. L. 108–187, § 4(a)(2), Dec. 16, 2003, 117 Stat. 2705, added item 1037.
 
-2000—Pub. L. 106–547, § 2(b), Dec. 19, 2000, 114 Stat. 2739, added item 1036.
+2000—Pub. L. 106–547, § 2(b), Dec. 19, 2000, 114 Stat. 2739, added item 1036.
 
-1998—Pub. L. 105–318, § 3(h)(2), Oct. 30, 1998, 112 Stat. 3009, inserted “and information” at end of item 1028.
+1998—Pub. L. 105–318, § 3(h)(2), Oct. 30, 1998, 112 Stat. 3009, inserted “and information” at end of item 1028.
 
-1996—Pub. L. 104–294, title VI, § 601(f)(8), Oct. 11, 1996, 110 Stat. 3500, substituted “veteran’s facilities” for “veterans’ facilities” in item 1024.
+1996—Pub. L. 104–294, title VI, § 601(f)(8), Oct. 11, 1996, 110 Stat. 3500, substituted “veteran’s facilities” for “veterans’ facilities” in item 1024.
 
-Pub. L. 104–191, title II, § 244(b), Aug. 21, 1996, 110 Stat. 2017, added item 1035.
+Pub. L. 104–191, title II, § 244(b), Aug. 21, 1996, 110 Stat. 2017, added item 1035.
 
-1994—Pub. L. 103–322, title XXXII, § 320603(b), Sept. 13, 1994, 108 Stat. 2118, added items 1033 and 1034.
+1994—Pub. L. 103–322, title XXXII, § 320603(b), Sept. 13, 1994, 108 Stat. 2118, added items 1033 and 1034.
 
-1990—Pub. L. 101–647, title XXV, § 2501(b), title XXXV, § 3532, Nov. 29, 1990, 104 Stat. 4860, 4925, inserted a period after “1031” and added item 1032.
+1990—Pub. L. 101–647, title XXV, § 2501(b), title XXXV, § 3532, Nov. 29, 1990, 104 Stat. 4860, 4925, inserted a period after “1031” and added item 1032.
 
-1989—Pub. L. 101–73, title IX, §§ 961(g)(2), 962(a)(4), Aug. 9, 1989, 103 Stat. 500, 502, struck out item 1008 “Federal Savings and Loan Insurance Corporation transactions” and item 1009 “Rumors regarding Federal Savings and Loan Insurance Corporation”.
+1989—Pub. L. 101–73, title IX, §§ 961(g)(2), 962(a)(4), Aug. 9, 1989, 103 Stat. 500, 502, struck out item 1008 “Federal Savings and Loan Insurance Corporation transactions” and item 1009 “Rumors regarding Federal Savings and Loan Insurance Corporation”.
 
-1988—Pub. L. 100–700, § 2(c), Nov. 19, 1988, 102 Stat. 4632, added item 1031.
+1988—Pub. L. 100–700, § 2(c), Nov. 19, 1988, 102 Stat. 4632, added item 1031.
 
-1984—Pub. L. 98–473, title II, §§ 1602(b), 2102(b), Oct. 12, 1984, 98 Stat. 2184, 2192, added items 1029 and 1030.
+1984—Pub. L. 98–473, title II, §§ 1602(b), 2102(b), Oct. 12, 1984, 98 Stat. 2184, 2192, added items 1029 and 1030.
 
-1982—Pub. L. 97–398, § 3, Dec. 31, 1982, 96 Stat. 2010, added item 1028.
+1982—Pub. L. 97–398, § 3, Dec. 31, 1982, 96 Stat. 2010, added item 1028.
 
-1974—Pub. L. 93–406, title I, § 112(a)(2)(B)(iii), formerly § 111(a)(2)(B)(iii), Sept. 2, 1974, 88 Stat. 852, renumbered § 112(a)(2)(B)(iii), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354, substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act” in item 1027.
+1974—Pub. L. 93–406, title I, § 112(a)(2)(B)(iii), formerly § 111(a)(2)(B)(iii), Sept. 2, 1974, 88 Stat. 852, renumbered § 112(a)(2)(B)(iii), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354, substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act” in item 1027.
 
-1967—Pub. L. 90–19, § 24(e), May 25, 1967, 81 Stat. 28, included “Department of Housing and Urban Development” in item 1010, and substituted the same for “Public Housing Administration” in item 1012.
+1967—Pub. L. 90–19, § 24(e), May 25, 1967, 81 Stat. 28, included “Department of Housing and Urban Development” in item 1010, and substituted the same for “Public Housing Administration” in item 1012.
 
-1962—Pub. L. 87–420, § 17(d), Mar. 20, 1962, 76 Stat. 42, added item 1027.
+1962—Pub. L. 87–420, § 17(d), Mar. 20, 1962, 76 Stat. 42, added item 1027.
 
-1951—Act Oct. 31, 1951, ch. 655, § 25, 65 Stat. 720, substituted “Public Housing Administration” for “United States Housing Authority” in item 1012.
+1951—Act Oct. 31, 1951, ch. 655, § 25, 65 Stat. 720, substituted “Public Housing Administration” for “United States Housing Authority” in item 1012.
 
-1949—Act May 24, 1949, ch. 139, §§ 18, 19, 63 Stat. 92, corrected spelling in item 1012 and substituted “officers” for “offices” in item 1019.
+1949—Act May 24, 1949, ch. 139, §§ 18, 19, 63 Stat. 92, corrected spelling in item 1012 and substituted “officers” for “offices” in item 1019.
 
-## § 1001. Statements or entries generally
+## § 1001. Statements or entries generally
 
 **(a)** Except as otherwise provided in this section, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully—
 
@@ -81,11 +81,11 @@ shall be fined under this title, imprisoned not more than 5 years or, if the off
 
 **(2)** any investigation or review, conducted pursuant to the authority of any committee, subcommittee, commission or office of the Congress, consistent with applicable rules of the House or Senate.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–292, § 2, Oct. 11, 1996, 110 Stat. 3459; Pub. L. 108–458, title VI, § 6703(a), Dec. 17, 2004, 118 Stat. 3766; Pub. L. 109–248, title I, § 141(c), July 27, 2006, 120 Stat. 603.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–292, § 2, Oct. 11, 1996, 110 Stat. 3459; Pub. L. 108–458, title VI, § 6703(a), Dec. 17, 2004, 118 Stat. 3766; Pub. L. 109–248, title I, § 141(c), July 27, 2006, 120 Stat. 603.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 80 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., § 80 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 Section 80 of title 18, U.S.C., 1940 ed., was divided into two parts.
 
@@ -117,65 +117,65 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–275, § 1, July 15, 2004, 118 Stat. 831, provided that: “This Act [enacting section 1028A of this title, amending sections 641 and 1028 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Identity Theft Penalty Enhancement Act’.”
+Pub. L. 108–275, § 1, July 15, 2004, 118 Stat. 831, provided that: “This Act [enacting section 1028A of this title, amending sections 641 and 1028 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Identity Theft Penalty Enhancement Act’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–21, title VI, § 607(a), Apr. 30, 2003, 117 Stat. 689, provided that: “This section [amending section 1028 of this title] may be cited as the ‘Secure Authentication Feature and Enhanced Identification Defense Act of 2003’ or ‘SAFE ID Act’.”
+Pub. L. 108–21, title VI, § 607(a), Apr. 30, 2003, 117 Stat. 689, provided that: “This section [amending section 1028 of this title] may be cited as the ‘Secure Authentication Feature and Enhanced Identification Defense Act of 2003’ or ‘SAFE ID Act’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–578, § 1, Dec. 28, 2000, 114 Stat. 3075, provided that: “This Act [amending section 1028 of this title, repealing section 1738 of this title, and enacting provisions set out as notes under section 1028 of this title] may be cited as the ‘Internet False Identification Prevention Act of 2000’.”
+Pub. L. 106–578, § 1, Dec. 28, 2000, 114 Stat. 3075, provided that: “This Act [amending section 1028 of this title, repealing section 1738 of this title, and enacting provisions set out as notes under section 1028 of this title] may be cited as the ‘Internet False Identification Prevention Act of 2000’.”
 
 **Short Title of 1998 Amendments**
 
-Pub. L. 105–318, § 1, Oct. 30, 1998, 112 Stat. 3007, provided that: “This Act [amending sections 982, 1028, and 2516 of this title and section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1028 of this title and section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Identity Theft and Assumption Deterrence Act of 1998’.”
+Pub. L. 105–318, § 1, Oct. 30, 1998, 112 Stat. 3007, provided that: “This Act [amending sections 982, 1028, and 2516 of this title and section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1028 of this title and section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Identity Theft and Assumption Deterrence Act of 1998’.”
 
-Pub. L. 105–172, § 1, Apr. 24, 1998, 112 Stat. 53, provided that: “This Act [amending section 1029 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Wireless Telephone Protection Act’.”
+Pub. L. 105–172, § 1, Apr. 24, 1998, 112 Stat. 53, provided that: “This Act [amending section 1029 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Wireless Telephone Protection Act’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–292, § 1, Oct. 11, 1996, 110 Stat. 3459, provided that: “This Act [amending this section, sections 1515 and 6005 of this title, and section 1365 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘False Statements Accountability Act of 1996’.”
+Pub. L. 104–292, § 1, Oct. 11, 1996, 110 Stat. 3459, provided that: “This Act [amending this section, sections 1515 and 6005 of this title, and section 1365 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘False Statements Accountability Act of 1996’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–322, title XXIX, § 290001(a), Sept. 13, 1994, 108 Stat. 2097, as amended by Pub. L. 104–294, title VI, § 604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: “This section [amending section 1030 of this title] may be cited as the ‘Computer Abuse Amendments Act of 1994’.”
+Pub. L. 103–322, title XXIX, § 290001(a), Sept. 13, 1994, 108 Stat. 2097, as amended by Pub. L. 104–294, title VI, § 604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: “This section [amending section 1030 of this title] may be cited as the ‘Computer Abuse Amendments Act of 1994’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–647, title XXV, § 2500, Nov. 29, 1990, 104 Stat. 4859, provided that: “This title [see Tables for classification] may be cited as the ‘Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990’.”
+Pub. L. 101–647, title XXV, § 2500, Nov. 29, 1990, 104 Stat. 4859, provided that: “This title [see Tables for classification] may be cited as the ‘Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990’.”
 
 **Short Title of 1989 Amendment**
 
-Pub. L. 101–123, § 1, Oct. 23, 1989, 103 Stat. 759, provided that: “This Act [amending section 1031 of this title, repealing section 293 of this title, enacting provisions set out as notes under sections 293 and 1031 of this title, and repealing provisions set out as a note under section 293 of this title] may be cited as the ‘Major Fraud Act Amendments of 1989’.”
+Pub. L. 101–123, § 1, Oct. 23, 1989, 103 Stat. 759, provided that: “This Act [amending section 1031 of this title, repealing section 293 of this title, enacting provisions set out as notes under sections 293 and 1031 of this title, and repealing provisions set out as a note under section 293 of this title] may be cited as the ‘Major Fraud Act Amendments of 1989’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–700, § 1, Nov. 19, 1988, 102 Stat. 4631, provided that: “This Act [enacting sections 293 and 1031 of this title and section 256 of Title 41, Public Contracts, amending section 2324 of Title 10, Armed Forces, and section 3730 of Title 31, Money and Finance, enacting provisions set out as notes under sections 293 and 1031 of this title, section 2324 of Title 10, and section 522 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note under section 2324 of Title 10] may be cited as the ‘Major Fraud Act of 1988’.”
+Pub. L. 100–700, § 1, Nov. 19, 1988, 102 Stat. 4631, provided that: “This Act [enacting sections 293 and 1031 of this title and section 256 of Title 41, Public Contracts, amending section 2324 of Title 10, Armed Forces, and section 3730 of Title 31, Money and Finance, enacting provisions set out as notes under sections 293 and 1031 of this title, section 2324 of Title 10, and section 522 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note under section 2324 of Title 10] may be cited as the ‘Major Fraud Act of 1988’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–474, § 1, Oct. 16, 1986, 100 Stat. 1213, provided that: “This Act [amending section 1030 of this title] may be cited as the ‘Computer Fraud and Abuse Act of 1986’.”
+Pub. L. 99–474, § 1, Oct. 16, 1986, 100 Stat. 1213, provided that: “This Act [amending section 1030 of this title] may be cited as the ‘Computer Fraud and Abuse Act of 1986’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 1601, Oct. 12, 1984, 98 Stat. 2183, provided that: “This chapter [chapter XVI (§§ 1601–1603) of title II of Pub. L. 98–473, enacting section 1029 of this title and provisions set out as a note under section 1029 of this title] may be cited as the ‘Credit Card Fraud Act of 1984’.”
+Pub. L. 98–473, title II, § 1601, Oct. 12, 1984, 98 Stat. 2183, provided that: “This chapter [chapter XVI (§§ 1601–1603) of title II of Pub. L. 98–473, enacting section 1029 of this title and provisions set out as a note under section 1029 of this title] may be cited as the ‘Credit Card Fraud Act of 1984’.”
 
-Pub. L. 98–473, title II, § 2101, Oct. 12, 1984, 98 Stat. 2190, provided that: “This chapter [chapter XXI (§§ 2101–2103) of title II of Pub. L. 98–473, enacting section 1030 of this title and provisions set out as a note under section 1030 of this title] may be cited as the ‘Counterfeit Access Device and Computer Fraud and Abuse Act of 1984’.”
+Pub. L. 98–473, title II, § 2101, Oct. 12, 1984, 98 Stat. 2190, provided that: “This chapter [chapter XXI (§§ 2101–2103) of title II of Pub. L. 98–473, enacting section 1030 of this title and provisions set out as a note under section 1030 of this title] may be cited as the ‘Counterfeit Access Device and Computer Fraud and Abuse Act of 1984’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–398, § 1, Dec. 31, 1982, 96 Stat. 2009, provided: “That this Act [enacting sections 1028 and 1738 of this title and amending section 3001 of Title 39, Postal Service] may be cited as the ‘False Identification Crime Control Act of 1982’.”
+Pub. L. 97–398, § 1, Dec. 31, 1982, 96 Stat. 2009, provided: “That this Act [enacting sections 1028 and 1738 of this title and amending section 3001 of Title 39, Postal Service] may be cited as the ‘False Identification Crime Control Act of 1982’.”
 
-## § 1002. Possession of false papers to defraud United States
+## § 1002. Possession of false papers to defraud United States
 
 Whoever, knowingly and with intent to defraud the United States, or any agency thereof, possesses any false, altered, forged, or counterfeited writing or document for the purpose of enabling another to obtain from the United States, or from any agency, officer or agent thereof, any sum of money, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 74 (Mar. 4, 1909, ch. 321, § 30, 35 Stat. 1094).
+Based on title 18, U.S.C., 1940 ed., § 74 (Mar. 4, 1909, ch. 321, § 30, 35 Stat. 1094).
 
 Words “or any agency thereof” after “United States” and word “agency” after “any” and before “officer,” were inserted to eliminate any possible ambiguity as to scope of section. (See definition of “agency” in section 6 of this title.)
 
@@ -189,15 +189,15 @@ Minor verbal change was made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 1003. Demands against the United States
+## § 1003. Demands against the United States
 
 Whoever knowingly and fraudulently demands or endeavors to obtain any share or sum in the public stocks of the United States, or to have any part thereof transferred, assigned, sold, or conveyed, or to have any annuity, dividend, pension, wages, gratuity, or other debt due from the United States, or any part thereof, received, or paid by virtue of any false, forged, or counterfeited power of attorney, authority, or instrument, shall be fined under this title or imprisoned not more than five years, or both; but if the sum or value so obtained or attempted to be obtained does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 79 (Mar. 4, 1909, ch. 321, § 34, 35 Stat. 1095).
+Based on title 18, U.S.C., 1940 ed., § 79 (Mar. 4, 1909, ch. 321, § 34, 35 Stat. 1095).
 
 Words “prize money” were deleted on the ground that they are an anachronism and were so before 1909. (See reviser’s note under section 915 of this title.)
 
@@ -217,19 +217,19 @@ Minor changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” after “instrument, shall be” and for “fined not more than $1,000” after “he shall be”.
 
-## § 1004. Certification of checks
+## § 1004. Certification of checks
 
-Whoever, being an officer, director, agent, or employee of any Federal Reserve bank, member bank of the Federal Reserve System, insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act), branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or organization operating under section 25 or section 25(a) 1
+Whoever, being an officer, director, agent, or employee of any Federal Reserve bank, member bank of the Federal Reserve System, insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act), branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or organization operating under section 25 or section 25(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Reserve Act, certifies a check before the amount thereof has been regularly deposited in the bank, branch, agency, or organization, by the drawer thereof, or resorts to any device, or receives any fictitious obligation, directly or collaterally, in order to evade any of the provisions of law relating to certification of checks, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 101–647, title XXV, § 2597(g), Nov. 29, 1990, 104 Stat. 4910; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 101–647, title XXV, § 2597(g), Nov. 29, 1990, 104 Stat. 4910; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 591 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. § 5208; July 12, 1882, ch. 290, § 13, 22 Stat. 166; Sept. 26, 1918, ch. 177, § 7, 40 Stat. 972; Feb. 25, 1927, ch. 191, § 12, 44 Stat. 1231).
+Based on section 591 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. § 5208; July 12, 1882, ch. 290, § 13, 22 Stat. 166; Sept. 26, 1918, ch. 177, § 7, 40 Stat. 972; Feb. 25, 1927, ch. 191, § 12, 44 Stat. 1231).
 
 Words “be deemed guilty of a misdemeanor and shall” were omitted as unnecessary in view of definition of misdemeanor in section 1 of this title.
 
@@ -247,19 +247,19 @@ Section 3(h) of the Federal Deposit Insurance Act, referred to in text, is class
 
 Section 1(b) of the International Banking Act of 1978, referred to in text, is classified to section 3101 of Title 12.
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 **Amendments**
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1990—Pub. L. 101–647 substituted a comma for “or” after “Federal Reserve bank” and inserted “insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act), branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “Federal Reserve System,” and “, branch, agency, or organization,” after “has been regularly deposited in the bank”.
+1990—Pub. L. 101–647 substituted a comma for “or” after “Federal Reserve bank” and inserted “insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act), branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “Federal Reserve System,” and “, branch, agency, or organization,” after “has been regularly deposited in the bank”.
 
-## § 1005. Bank entries, reports and transactions
+## § 1005. Bank entries, reports and transactions
 
-Whoever, being an officer, director, agent or employee of any Federal Reserve bank, member bank, depository institution holding company, national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) 1
+Whoever, being an officer, director, agent or employee of any Federal Reserve bank, member bank, depository institution holding company, national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Reserve Act, without authority from the directors of such bank, branch, agency, or organization or company, issues or puts in circulation any notes of such bank, branch, agency, or organization or company; or
 
@@ -273,11 +273,11 @@ Shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or
 
 As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank or trust company, which has become a member of one of the Federal Reserve banks; “insured bank” includes any state bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in section 20(9) of this title. For purposes of this section, the term “depository institution holding company” has the meaning given such term in section 3(w)(1) of the Federal Deposit Insurance Act.
 
-(June 25, 1948, ch. 645, 62 Stat. 750; Pub. L. 101–73, title IX, § 961(d), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§ 2504(d), 2595(a)(3), 2597(h), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 107–273, div. B, title IV, § 4003(a)(2), Nov. 2, 2002, 116 Stat. 1811.)
+(June 25, 1948, ch. 645, 62 Stat. 750; Pub. L. 101–73, title IX, § 961(d), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§ 2504(d), 2595(a)(3), 2597(h), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 107–273, div. B, title IV, § 4003(a)(2), Nov. 2, 2002, 116 Stat. 1811.)
 
 **Historical and Revision Notes**
 
-Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. § 5209; Dec. 23, 1913, ch. 6, § 22(i) as added June 19, 1934, ch. 653, § 3, 48 Stat. 1107; Sept. 26, 1918, ch. 177, § 7, 40 Stat. 972; Aug. 23, 1935, ch. 614, § 316, 49 Stat. 712).
+Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. § 5209; Dec. 23, 1913, ch. 6, § 22(i) as added June 19, 1934, ch. 653, § 3, 48 Stat. 1107; Sept. 26, 1918, ch. 177, § 7, 40 Stat. 972; Aug. 23, 1935, ch. 614, § 316, 49 Stat. 712).
 
 (See reviser’s note under section 656 of this title for comprehensive statement of reasons for separating section 592 of title 12, U.S.C., 1940 ed., Banks and Banking, into three revised sections, and section 597 thereof into two revised sections, with the consequent extensive changes in phraseology, style, and arrangement.)
 
@@ -295,7 +295,7 @@ Since section 3231 of this title gives the district court jurisdiction of crimin
 
 **References in Text**
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 Section 3(w)(1) of the Federal Deposit Insurance Act, referred to in text, is classified to section 1813(w)(1) of Title 12.
 
@@ -303,13 +303,13 @@ Section 3(w)(1) of the Federal Deposit Insurance Act, referred to in text, is cl
 
 2002—Pub. L. 107–273, in first par. substituted “Act,” for “Act,,” and in third par. inserted “or” at end.
 
-1990—Pub. L. 101–647, §§ 2504(d), 2595(a)(3)(A), (B), 2597(h), in first par. substituted “depository institution” for “bank or savings and loan”, “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank or insured bank”, and “of such bank, branch, agency, or organization or company” for “of such bank” in two places, in third par. substituted “bank, company, branch, agency, or organization” for “bank or company” in four places, and in fifth par. substituted “30” for “20” before “years”.
+1990—Pub. L. 101–647, §§ 2504(d), 2595(a)(3)(A), (B), 2597(h), in first par. substituted “depository institution” for “bank or savings and loan”, “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank or insured bank”, and “of such bank, branch, agency, or organization or company” for “of such bank” in two places, in third par. substituted “bank, company, branch, agency, or organization” for “bank or company” in four places, and in fifth par. substituted “30” for “20” before “years”.
 
-Pub. L. 101–647, § 2597(h)(3)(A), in sixth par. struck out “and” after “one of the Federal Reserve Banks;”.
+Pub. L. 101–647, § 2597(h)(3)(A), in sixth par. struck out “and” after “one of the Federal Reserve Banks;”.
 
-Pub. L. 101–647, § 2597(h)(3)(B), which, in sixth par., directed insertion of “; and the term ‘branch or agency of a foreign bank’ means a branch or agency described in section 20(9) of this title” before the period, was inserted before period at end of first sentence to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, § 2595(a)(3)(C). See below.
+Pub. L. 101–647, § 2597(h)(3)(B), which, in sixth par., directed insertion of “; and the term ‘branch or agency of a foreign bank’ means a branch or agency described in section 20(9) of this title” before the period, was inserted before period at end of first sentence to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, § 2595(a)(3)(C). See below.
 
-Pub. L. 101–647, § 2595(a)(3)(C), inserted “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3(w)(1) of the Federal Deposit Insurance Act.” at end of sixth par.
+Pub. L. 101–647, § 2595(a)(3)(C), inserted “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3(w)(1) of the Federal Deposit Insurance Act.” at end of sixth par.
 
 1989—Pub. L. 101–73 in first par. inserted “bank or savings and loan holding company,” after “member bank,”, in third par. inserted “or company” after “bank” wherever appearing and substituted a semicolon for the dash after “Federal Reserve System”, added fourth par. reading: “Whoever with intent to defraud the United States or any agency thereof, or any financial institution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—”, and, in fifth par. substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
 
@@ -317,19 +317,19 @@ Pub. L. 101–647, § 2595(a)(3)(C), inserted “For purposes of this section,
 
 **Exception as to Transfer of Functions**
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 1006. Federal credit institution entries, reports and transactions
+## § 1006. Federal credit institution entries, reports and transactions
 
 Whoever, being an officer, agent or employee of or connected in any capacity with the Federal Deposit Insurance Corporation, National Credit Union Administration, any Federal home loan bank, the Federal Housing Finance Agency, Farm Credit Administration, Department of Housing and Urban Development, Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, or the Farm Credit System Insurance Corporation, a Farm Credit Bank, a bank for cooperatives or any lending, mortgage, insurance, credit or savings and loan corporation or association authorized or acting under the laws of the United States or any institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation, or by the National Credit Union Administration Board or any small business investment company, with intent to defraud any such institution or any other company, body politic or corporate, or any individual, or to deceive any officer, auditor, examiner or agent of any such institution or of department or agency of the United States, makes any false entry in any book, report or statement of or to any such institution, or without being duly authorized, draws any order or bill of exchange, makes any acceptance, or issues, puts forth or assigns any note, debenture, bond or other obligation, or draft, bill of exchange, mortgage, judgment, or decree, or, with intent to defraud the United States or any agency thereof, or any corporation, institution, or association referred to in this section, participates or shares in or receives directly or indirectly any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such corporation, institution, or association, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 750; May 24, 1949, ch. 139, § 20, 63 Stat. 92; July 28, 1956, ch. 773, § 2, 70 Stat. 714; Pub. L. 85–699, title VII, § 704, Aug. 21, 1958, 72 Stat. 698; Pub. L. 87–353, § 3(s), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, § 24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, § 6, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 101–73, title IX, §§ 961(e), 962(a)(7), (8)(A), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, § 2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XVI, § 1603, title XXV, §§ 2504(e), 2595(a)(4), Nov. 29, 1990, 104 Stat. 4843, 4861, 4907; Pub. L. 103–322, title XXXIII, § 330004(6), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 106–78, title VII, § 767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 110–289, div. A, title II, § 1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, § 377(5), July 21, 2010, 124 Stat. 1569.)
+(June 25, 1948, ch. 645, 62 Stat. 750; May 24, 1949, ch. 139, § 20, 63 Stat. 92; July 28, 1956, ch. 773, § 2, 70 Stat. 714; Pub. L. 85–699, title VII, § 704, Aug. 21, 1958, 72 Stat. 698; Pub. L. 87–353, § 3(s), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, § 24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, § 6, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 101–73, title IX, §§ 961(e), 962(a)(7), (8)(A), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, § 2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XVI, § 1603, title XXV, §§ 2504(e), 2595(a)(4), Nov. 29, 1990, 104 Stat. 4843, 4861, 4907; Pub. L. 103–322, title XXXIII, § 330004(6), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 106–78, title VII, § 767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 110–289, div. A, title II, § 1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, § 377(5), July 21, 2010, 124 Stat. 1569.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on sections 1026(b) and 1514(c) of title 7, U.S.C., 1940 ed., Agriculture, sections 264(u), 984, 1121, 1138d(c), 1311, 1441(c), 1467(c) and 1731(c) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(c) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, § 12B(u), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178; July 17, 1916, ch. 245, § 31, fourth par., 39 Stat. 383; July 17, 1916, ch. 245, § 211(a), as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1459; Mar. 4, 1923, ch. 252, title II, § 216(a), 42 Stat. 1471; Jan. 22, 1932, ch. 8, § 16(c), 47 Stat. 11; July 22, 1932, ch. 522, § 21(c), 47 Stat. 738; Ex. Ord. No. 6084, Mar. 27, 1933; June 13, 1933, ch. 64, § 8(c), 48 Stat. 135; June 16, 1933, ch. 98, § 64(c), 48 Stat. 268; Jan. 31, 1934, ch. 7, § 13, 48 Stat. 347; June 27, 1934, ch. 847, § 512(c), 48 Stat. 1265; Aug. 23, 1935, ch. 614, § 101, 49 Stat. 701; July 22, 1937, ch. 517, title IV, § 52(b), 50 Stat. 532; Feb. 16, 1938, ch. 30, title V, § 514(c), 52 Stat. 76; Aug. 14, 1946, ch. 964, § 3, 60 Stat. 1064).
+Based on sections 1026(b) and 1514(c) of title 7, U.S.C., 1940 ed., Agriculture, sections 264(u), 984, 1121, 1138d(c), 1311, 1441(c), 1467(c) and 1731(c) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(c) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, § 12B(u), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178; July 17, 1916, ch. 245, § 31, fourth par., 39 Stat. 383; July 17, 1916, ch. 245, § 211(a), as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1459; Mar. 4, 1923, ch. 252, title II, § 216(a), 42 Stat. 1471; Jan. 22, 1932, ch. 8, § 16(c), 47 Stat. 11; July 22, 1932, ch. 522, § 21(c), 47 Stat. 738; Ex. Ord. No. 6084, Mar. 27, 1933; June 13, 1933, ch. 64, § 8(c), 48 Stat. 135; June 16, 1933, ch. 98, § 64(c), 48 Stat. 268; Jan. 31, 1934, ch. 7, § 13, 48 Stat. 347; June 27, 1934, ch. 847, § 512(c), 48 Stat. 1265; Aug. 23, 1935, ch. 614, § 101, 49 Stat. 701; July 22, 1937, ch. 517, title IV, § 52(b), 50 Stat. 532; Feb. 16, 1938, ch. 30, title V, § 514(c), 52 Stat. 76; Aug. 14, 1946, ch. 964, § 3, 60 Stat. 1064).
 
 Each of the eleven sections from which this section was derived contained similar provisions relating to embezzlement, false entries, and fraudulent issuance or assignment of obligations with respect to one or more named agencies or corporations.
 
@@ -369,19 +369,19 @@ The conspiracy provisions of section 1138d(f) of title 12, U.S.C., 1940 ed., Ban
 
 1994—Pub. L. 103–322 struck out “Reconstruction Finance Corporation,” after “in any capacity with the” and “Farmers’ Home Corporation,” after “Federal Crop Insurance Corporation,”.
 
-1990—Pub. L. 101–647, § 2595(a)(4), substituted “Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board, the Resolution Trust Corporation,” for “Home Owners’ Loan Corporation,”, and directed substitution of “institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation”, for “institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” which was executed by making the substitution for “institution the accounts of which are insured by the Federal Deposit Insurance Corporation” to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, § 1603, see below.
+1990—Pub. L. 101–647, § 2595(a)(4), substituted “Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board, the Resolution Trust Corporation,” for “Home Owners’ Loan Corporation,”, and directed substitution of “institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation”, for “institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” which was executed by making the substitution for “institution the accounts of which are insured by the Federal Deposit Insurance Corporation” to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, § 1603, see below.
 
-Pub. L. 101–647, § 2504(e), substituted “30” for “20” before “years”.
+Pub. L. 101–647, § 2504(e), substituted “30” for “20” before “years”.
 
-Pub. L. 101–647, § 1603, substituted “Federal Deposit Insurance Corporation” for “Federal Savings and Loan Insurance Corporation”.
+Pub. L. 101–647, § 1603, substituted “Federal Deposit Insurance Corporation” for “Federal Savings and Loan Insurance Corporation”.
 
 Pub. L. 101–624 substituted “Farmers Home Administration, the Rural Development Administration” for “Farmers’ Home Administration”.
 
-1989—Pub. L. 101–73, § 962(a)(8)(A), substituted “the Farm Credit System Insurance Corporation, a Farm Credit Bank, a” for “any land bank, intermediate credit bank,”.
+1989—Pub. L. 101–73, § 962(a)(8)(A), substituted “the Farm Credit System Insurance Corporation, a Farm Credit Bank, a” for “any land bank, intermediate credit bank,”.
 
-Pub. L. 101–73, § 962(a)(7), substituted “National Credit Union Administration Board” for “Administrator of the National Credit Union Administration”.
+Pub. L. 101–73, § 962(a)(7), substituted “National Credit Union Administration Board” for “Administrator of the National Credit Union Administration”.
 
-Pub. L. 101–73, § 961(e), substituted “$1,000,000” for “$10,000” and “20 years” for “five years”.
+Pub. L. 101–73, § 961(e), substituted “$1,000,000” for “$10,000” and “20 years” for “five years”.
 
 1970—Pub. L. 91–468 added National Credit Union Administration and its Administrator to the enumeration of Federal Credit institutions and personnel.
 
@@ -409,21 +409,21 @@ Establishment as independent agency, membership etc., see section 1752 et seq. o
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Farm Credit Administration**
 
 Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084, set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
 
-## § 1007. Federal Deposit Insurance Corporation transactions
+## § 1007. Federal Deposit Insurance Corporation transactions
 
 Whoever, for the purpose of influencing in any way the action of the Federal Deposit Insurance Corporation, knowingly makes or invites reliance on a false, forged, or counterfeit statement, document, or thing shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 750; Pub. L. 101–73, title IX, § 961(f), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, § 2504(f), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, § 330002(c), Sept. 13, 1994, 108 Stat. 2140.)
+(June 25, 1948, ch. 645, 62 Stat. 750; Pub. L. 101–73, title IX, § 961(f), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, § 2504(f), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, § 330002(c), Sept. 13, 1994, 108 Stat. 2140.)
 
 **Historical and Revision Notes**
 
-Based on section 264(s) of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 12B(s), as added June 16, 1933, ch. 89, § 8, 48 Stat. 177; Aug. 23, 1935, ch. 614, § 101, 49 Stat. 700).
+Based on section 264(s) of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 12B(s), as added June 16, 1933, ch. 89, § 8, 48 Stat. 177; Aug. 23, 1935, ch. 614, § 101, 49 Stat. 700).
 
 Words “Federal Deposit Insurance” were inserted before “Corporation” in three places, so as to identify said Corporation, and phrase “under this section” was omitted as no longer applicable, considering transfer of this section to this title.
 
@@ -439,21 +439,21 @@ Minor changes were made in phraseology.
 
 1989—Pub. L. 101–73 substituted “Transactions” for “transactions” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever, for the purpose of obtaining any loan from the Federal Deposit Insurance Corporation, or any extension or renewals thereof, or the acceptance, release, or substitution of security therefor, or for the purpose of inducing the Federal Deposit Insurance Corporation to purchase any assets, or for the purpose of obtaining the payment of any insured deposit or transferred deposit or the allowance, approval, or payment of any claim, or for the purpose of influencing in any way the action of the Federal Deposit Insurance Corporation, makes any statement, knowing it to be false, or willfully overvalues any security, shall be fined not more than $5,000 or imprisoned not more than two years, or both.”
 
-## [§§ 1008, 1009. Repealed. Pub. L. 101–73, title IX, §§ 961(g)(1), 962(a)(3), Aug. 9, 1989, 103 Stat. 500, 502]
+## [§§ 1008, 1009. Repealed. Pub. L. 101–73, title IX, §§ 961(g)(1), 962(a)(3), Aug. 9, 1989, 103 Stat. 500, 502]
 
 Section 1008, act June 25, 1948, ch. 645, 62 Stat. 751, provided for fine or imprisonment for certain prohibited actions taken to obtain insurance from, or to influence in any way, the Federal Savings and Loan Insurance Corporation.
 
 Section 1009, act June 25, 1948, ch. 645, 62 Stat. 751, provided for fine or imprisonment for making certain statements or rumors, untrue in fact, which were derogatory or affected solvency or financial condition of the Federal Savings and Loan Insurance Corporation.
 
-## § 1010. Department of Housing and Urban Development and Federal Housing Administration transactions
+## § 1010. Department of Housing and Urban Development and Federal Housing Administration transactions
 
 Whoever, for the purpose of obtaining any loan or advance of credit from any person, partnership, association, or corporation with the intent that such loan or advance of credit shall be offered to or accepted by the Department of Housing and Urban Development for insurance, or for the purpose of obtaining any extension or renewal of any loan, advance of credit, or mortgage insured by such Department, or the acceptance, release, or substitution of any security on such a loan, advance of credit, or for the purpose of influencing in any way the action of such Department, makes, passes, utters, or publishes any statement, knowing the same to be false, or alters, forges, or counterfeits any instrument, paper, or document, or utters, publishes, or passes as true any instrument, paper, or document, knowing it to have been altered, forged, or counterfeited, or willfully overvalues any security, asset, or income, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 751; Pub. L. 90–19, § 24(c), May 25, 1967, 81 Stat. 28; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 751; Pub. L. 90–19, § 24(c), May 25, 1967, 81 Stat. 28; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1731(a) of title 12, U.S.C., 1940 ed., Banks and Banking (June 27, 1934, ch. 847, § 512(a), 48 Stat. 1265; Feb. 3, 1938, ch. 13, § 9, 52 Stat. 24).
+Based on section 1731(a) of title 12, U.S.C., 1940 ed., Banks and Banking (June 27, 1934, ch. 847, § 512(a), 48 Stat. 1265; Feb. 3, 1938, ch. 13, § 9, 52 Stat. 24).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -469,7 +469,7 @@ Minor changes in phraseology were made.
 
 1967—Pub. L. 90–19 included reference to Department of Housing and Urban Development in section catchline and substituted in text “Department of Housing and Urban Development” for “Federal Housing Administration” and “Department” for “Administration” in two places, respectively.
 
-## § 1011. Federal land bank mortgage transactions
+## § 1011. Federal land bank mortgage transactions
 
 Whoever, being a mortgagee, knowingly makes any false statement in any paper, proposal, or letter, relating to the sale of any mortgage, to any Federal land bank; or
 
@@ -477,11 +477,11 @@ Whoever, being an appraiser, willfully over-values any land securing such mortga
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 751; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 751; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 987 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, § 31, seventh paragraph, as added June 16, 1933, ch. 98, § 78, 48 Stat. 272).
+Based on section 987 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, § 31, seventh paragraph, as added June 16, 1933, ch. 98, § 78, 48 Stat. 272).
 
 Minor changes were made in phraseology.
 
@@ -491,7 +491,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-## § 1012. Department of Housing and Urban Development transactions
+## § 1012. Department of Housing and Urban Development transactions
 
 Whoever, with intent to defraud, makes any false entry in any book of the Department of Housing and Urban Development or makes any false report or statement to or for such Department; or
 
@@ -501,11 +501,11 @@ Whoever induces or influences such Department to purchase or acquire any propert
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 752; Oct. 31, 1951, ch. 655, § 26, 65 Stat. 720; Pub. L. 90–19, § 24(d), May 25, 1967, 81 Stat. 28; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 752; Oct. 31, 1951, ch. 655, § 26, 65 Stat. 720; Pub. L. 90–19, § 24(d), May 25, 1967, 81 Stat. 28; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 1423–1425 of title 42, U.S.C., 1940 ed., The Public Health and Welfare (Sept. 1, 1937, ch. 896, §§ 23–25, 50 Stat. 899).
+Based on sections 1423–1425 of title 42, U.S.C., 1940 ed., The Public Health and Welfare (Sept. 1, 1937, ch. 896, §§ 23–25, 50 Stat. 899).
 
 Three sections were consolidated with changes of phraseology and arrangement necessary to effect consolidation.
 
@@ -523,15 +523,15 @@ The provisions of section 1424 of title 42, U.S.C., 1940 ed., The Public Health 
 
 1951—Act Oct. 31, 1951, substituted “Public Housing Administration” for “United States Housing Authority” in section catchline and text, and “Administration” for “Authority”, wherever appearing in text.
 
-## § 1013. Farm loan bonds and credit bank debentures
+## § 1013. Farm loan bonds and credit bank debentures
 
 Whoever deceives, defrauds, or imposes upon, or attempts to deceive, defraud, or impose upon any person, partnership, corporation, or association by making any false pretense or representation concerning the character, issue, security, contents, conditions, or terms of any farm loan bond, or coupon, issued by any Federal land bank or banks; or of any debenture, coupon, or other obligation, issued by any Federal intermediate credit bank or banks; or by falsely pretending or representing that any farm loan bond, or coupon, is anything other than, or different from, what it purports to be on the face of said bond or coupon, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 97–297, § 4(a), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 103–322, title XXXIII, §§ 330004(8), 330016(1)(G), Sept. 13, 1994, 108 Stat. 2141, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 97–297, § 4(a), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 103–322, title XXXIII, §§ 330004(8), 330016(1)(G), Sept. 13, 1994, 108 Stat. 2141, 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, § 31, fifth paragraph, 39 Stat. 384; July 17, 1916, ch. 245, § 211(g), as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1461; Mar. 4, 1923, ch. 252, title II, § 216(g), 42 Stat. 1473).
+Based on sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, § 31, fifth paragraph, 39 Stat. 384; July 17, 1916, ch. 245, § 211(g), as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1461; Mar. 4, 1923, ch. 252, title II, § 216(g), 42 Stat. 1473).
 
 This section condenses and simplifies sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking, each of which contained similar provisions and similar language. The punishment provisions of all three sections were the same.
 
@@ -545,31 +545,31 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1994—Pub. L. 103–322, § 330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
+1994—Pub. L. 103–322, § 330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
 
-Pub. L. 103–322, § 330004(8), struck out “, or by any National Agricultural Credit Corporation” after “credit bank or banks”.
+Pub. L. 103–322, § 330004(8), struck out “, or by any National Agricultural Credit Corporation” after “credit bank or banks”.
 
-1982—Pub. L. 97–297 struck out “, or by any joint-stock land bank or banks” after “issued by any Federal land bank or banks”.
+1982—Pub. L. 97–297 struck out “, or by any joint-stock land bank or banks” after “issued by any Federal land bank or banks”.
 
-## § 1014. Loan and credit applications generally; renewals and discounts; crop insurance
+## § 1014. Loan and credit applications generally; renewals and discounts; crop insurance
 
 Whoever knowingly makes any false statement or report, or willfully overvalues any land, property or security, for the purpose of influencing in any way the action of the Federal Housing Administration, the Farm Credit Administration, Federal Crop Insurance Corporation or a company the Corporation reinsures, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof, or of any regional agricultural credit corporation established pursuant to law, or a Federal land bank, a Federal land bank association, a Federal Reserve bank, a small business investment company, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act, a Federal credit union, an insured State-chartered credit union, any institution the accounts of which are insured by the Federal Deposit Insurance Corporation,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-any Federal home loan bank, the Federal Housing Finance Agency, the Federal Deposit Insurance Corporation, the Farm Credit System Insurance Corporation, or the National Credit Union Administration Board, a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), an organization operating under section 25 or section 25(a) 2
+any Federal home loan bank, the Federal Housing Finance Agency, the Federal Deposit Insurance Corporation, the Farm Credit System Insurance Corporation, or the National Credit Union Administration Board, a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), an organization operating under section 25 or section 25(a) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Federal Reserve Act, or a mortgage lending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974, upon any application, advance, discount, purchase, purchase agreement, repurchase agreement, commitment, loan, or insurance agreement or application for insurance or a guarantee, or any change or extension of any of the same, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 752; May 24, 1949, ch. 139, § 21, 63 Stat. 92; July 26, 1956, ch. 741, title I, § 109, 70 Stat. 667; Pub. L. 85–699, title VII, § 705, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–353, § 3(t), Oct. 4, 1961, 75 Stat. 774; Pub. L. 88–353, § 5, July 2, 1964, 78 Stat. 269; Pub. L. 91–468, § 7, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 91–609, title IX, § 915, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 97–297, § 4(b), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 101–73, title IX, §§ 961(h), 962(a)(7), (8)(B), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, § 2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XXV, §§ 2504(g), 2595(a)(5), 2597(i), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 103–322, title XXXIII, §§ 330002(d), 330008(8), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 103–354, title I, § 119(e), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–294, title VI, §§ 602(b), 604(b)(22), 605(b), 607(d), Oct. 11, 1996, 110 Stat. 3503, 3508, 3509, 3511; Pub. L. 106–78, title VII, § 767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 107–100, § 4(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 110–289, div. A, title II, § 1216(c), div. B, title I, § 2129, July 30, 2008, 122 Stat. 2792, 2842; Pub. L. 111–21, § 2(c), May 20, 2009, 123 Stat. 1617; Pub. L. 111–203, title III, § 377(6), July 21, 2010, 124 Stat. 1569.)
+(June 25, 1948, ch. 645, 62 Stat. 752; May 24, 1949, ch. 139, § 21, 63 Stat. 92; July 26, 1956, ch. 741, title I, § 109, 70 Stat. 667; Pub. L. 85–699, title VII, § 705, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–353, § 3(t), Oct. 4, 1961, 75 Stat. 774; Pub. L. 88–353, § 5, July 2, 1964, 78 Stat. 269; Pub. L. 91–468, § 7, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 91–609, title IX, § 915, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 97–297, § 4(b), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 101–73, title IX, §§ 961(h), 962(a)(7), (8)(B), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, § 2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XXV, §§ 2504(g), 2595(a)(5), 2597(i), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 103–322, title XXXIII, §§ 330002(d), 330008(8), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 103–354, title I, § 119(e), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–294, title VI, §§ 602(b), 604(b)(22), 605(b), 607(d), Oct. 11, 1996, 110 Stat. 3503, 3508, 3509, 3511; Pub. L. 106–78, title VII, § 767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 107–100, § 4(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 110–289, div. A, title II, § 1216(c), div. B, title I, § 2129, July 30, 2008, 122 Stat. 2792, 2842; Pub. L. 111–21, § 2(c), May 20, 2009, 123 Stat. 1617; Pub. L. 111–203, title III, § 377(6), July 21, 2010, 124 Stat. 1569.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on sections 1026(a) and 1514(a) of title 7, U.S.C., 1940 ed., Agriculture, sections 596, 981, 1122, 1123, 1138d(a), 1248, 1312, 1313, 1441(a), and 1467(a), of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(a) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, § 22(h), as added June 19, 1934, ch. 653, § 3, 48 Stat. 1107; July 17, 1916, ch. 245, § 31, first paragraph, 39 Stat. 382; July 17, 1916, ch. 245, § 211(b), (c), as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1460; Mar. 4, 1923, ch. 252, title II, §§ 209(h), 216(b), (c), 42 Stat. 1468, 1472; Jan. 22, 1932, ch. 8, § 16 (a), 47 Stat. 11; July 22, 1932, ch. 522, § 21(a), 47 Stat. 738; June 13, 1933, ch. 64, § 8(a), 48 Stat. 134; June 16, 1933, ch. 98, § 64(a), 48 Stat. 267; Jan. 31, 1934, ch. 7, § 13, 48 Stat. 347; June 3, 1935, ch. 164, § 21, 49 Stat. 319; July 22, 1937, ch. 517, title IV, § 52(a); 50 Stat. 531; Feb. 16, 1938, ch. 30, title V, § 514(a), 52 Stat. 76; Aug. 14, 1946, ch. 964, § 3, 60 Stat. 1064).
+Based on sections 1026(a) and 1514(a) of title 7, U.S.C., 1940 ed., Agriculture, sections 596, 981, 1122, 1123, 1138d(a), 1248, 1312, 1313, 1441(a), and 1467(a), of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(a) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, § 22(h), as added June 19, 1934, ch. 653, § 3, 48 Stat. 1107; July 17, 1916, ch. 245, § 31, first paragraph, 39 Stat. 382; July 17, 1916, ch. 245, § 211(b), (c), as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1460; Mar. 4, 1923, ch. 252, title II, §§ 209(h), 216(b), (c), 42 Stat. 1468, 1472; Jan. 22, 1932, ch. 8, § 16 (a), 47 Stat. 11; July 22, 1932, ch. 522, § 21(a), 47 Stat. 738; June 13, 1933, ch. 64, § 8(a), 48 Stat. 134; June 16, 1933, ch. 98, § 64(a), 48 Stat. 267; Jan. 31, 1934, ch. 7, § 13, 48 Stat. 347; June 3, 1935, ch. 164, § 21, 49 Stat. 319; July 22, 1937, ch. 517, title IV, § 52(a); 50 Stat. 531; Feb. 16, 1938, ch. 30, title V, § 514(a), 52 Stat. 76; Aug. 14, 1946, ch. 964, § 3, 60 Stat. 1064).
 
 Each of the 13 sections from which this section was derived contained similar provisions either relating to false representations and statements, or overvaluation of security, with respect to one or more of the named banks, agencies, or corporations.
 
@@ -593,59 +593,59 @@ Section 1138d(f) of Title 12, U.S.C., 1940 ed., Banks and Banking, relating to c
 
 **References in Text**
 
-The Small Business Investment Act of 1958, referred to in text, is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in text, is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 Section 1(b) of the International Banking Act of 1978, referred to in text, is classified to section 3101 of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 Section 3 of the Real Estate Settlement Procedures Act of 1974, referred to in text, is classified to section 2602 of Title 12, Banks and Banking.
 
 **Amendments**
 
-2010—Pub. L. 111–203 struck out “the Office of Thrift Supervision” before “, any Federal home loan bank” and “the Resolution Trust Corporation,” before “the Farm Credit System Insurance Corporation,”.
+2010—Pub. L. 111–203 struck out “the Office of Thrift Supervision” before “, any Federal home loan bank” and “the Resolution Trust Corporation,” before “the Farm Credit System Insurance Corporation,”.
 
-2009—Pub. L. 111–21 struck out “or” after “the International Banking Act of 1978),” and inserted “, or a mortgage lending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974” after “section 25(a) of the Federal Reserve Act”.
+2009—Pub. L. 111–21 struck out “or” after “the International Banking Act of 1978),” and inserted “, or a mortgage lending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974” after “section 25(a) of the Federal Reserve Act”.
 
-2008—Pub. L. 110–289, § 2129, inserted “the Federal Housing Administration,” before “the Farm Credit Administration” and substituted “commitment, loan, or insurance agreement or application for insurance or a guarantee” for “commitment, or loan”.
+2008—Pub. L. 110–289, § 2129, inserted “the Federal Housing Administration,” before “the Farm Credit Administration” and substituted “commitment, loan, or insurance agreement or application for insurance or a guarantee” for “commitment, or loan”.
 
-Pub. L. 110–289, § 1216(c), substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+Pub. L. 110–289, § 1216(c), substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 
-2001—Pub. L. 107–100 inserted “, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act” after “small business investment company”.
+2001—Pub. L. 107–100 inserted “, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act” after “small business investment company”.
 
 1999—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
 
-1996—Pub. L. 104–294, §§ 602(b), 607(d), struck out “Reconstruction Finance Corporation,” before “Farm Credit Administration”, “Farmers’ Home Corporation,” before “the Secretary of Agriculture”, and “of the National Agricultural Credit Corporation,” before “a Federal land bank” and inserted at end “The term ‘State-chartered credit union’ includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.”
+1996—Pub. L. 104–294, §§ 602(b), 607(d), struck out “Reconstruction Finance Corporation,” before “Farm Credit Administration”, “Farmers’ Home Corporation,” before “the Secretary of Agriculture”, and “of the National Agricultural Credit Corporation,” before “a Federal land bank” and inserted at end “The term ‘State-chartered credit union’ includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.”
 
-Pub. L. 104–294, § 605(b), amended directory language of Pub. L. 101–73, § 961(h)(1). See 1989 Amendment note below.
+Pub. L. 104–294, § 605(b), amended directory language of Pub. L. 101–73, § 961(h)(1). See 1989 Amendment note below.
 
-Pub. L. 104–294, § 604(b)(22), amended directory language of Pub. L. 103–322, § 330002(d). See 1994 Amendment note below.
+Pub. L. 104–294, § 604(b)(22), amended directory language of Pub. L. 103–322, § 330002(d). See 1994 Amendment note below.
 
 1994—Pub. L. 103–354 inserted “or a company the Corporation reinsures” after “Federal Crop Insurance Corporation”.
 
-Pub. L. 103–322, § 330008(8), inserted comma after “National Credit Union Administration Board”.
+Pub. L. 103–322, § 330008(8), inserted comma after “National Credit Union Administration Board”.
 
-Pub. L. 103–322, § 330002(d), as amended by Pub. L. 104–294, § 604(b)(22), struck out a comma after “National Agricultural Credit Corporation,” and after “section 25(a) of the Federal Reserve Act,”.
+Pub. L. 103–322, § 330002(d), as amended by Pub. L. 104–294, § 604(b)(22), struck out a comma after “National Agricultural Credit Corporation,” and after “section 25(a) of the Federal Reserve Act,”.
 
-1990—Pub. L. 101–647, § 2597(i), inserted “a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “or the National Credit Union Administration Board”.
+1990—Pub. L. 101–647, § 2597(i), inserted “a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “or the National Credit Union Administration Board”.
 
-Pub. L. 101–647, § 2595(a)(5), substituted “the Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board,” for “the Federal Home Loan Bank System,” and inserted a comma after “Resolution Trust Corporation”.
+Pub. L. 101–647, § 2595(a)(5), substituted “the Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board,” for “the Federal Home Loan Bank System,” and inserted a comma after “Resolution Trust Corporation”.
 
-Pub. L. 101–647, § 2504(g), substituted “30” for “20” before “years”.
+Pub. L. 101–647, § 2504(g), substituted “30” for “20” before “years”.
 
 Pub. L. 101–624 substituted “Farmers Home Administration, the Rural Development Administration” for “Farmers’ Home Administration”.
 
-1989—Pub. L. 101–73, § 962(a)(8)(B)(i), substituted “any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof” for “any Federal intermediate credit bank, or any division, officer, or employee thereof, or of any corporation organized under sections 1131–1134m of Title 12”.
+1989—Pub. L. 101–73, § 962(a)(8)(B)(i), substituted “any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof” for “any Federal intermediate credit bank, or any division, officer, or employee thereof, or of any corporation organized under sections 1131–1134m of Title 12”.
 
-Pub. L. 101–73, § 962(a)(8)(B)(ii), substituted “Farm Credit System Insurance Corporation” for “Federal Savings and Loan Insurance Corporation”.
+Pub. L. 101–73, § 962(a)(8)(B)(ii), substituted “Farm Credit System Insurance Corporation” for “Federal Savings and Loan Insurance Corporation”.
 
-Pub. L. 101–73, § 962(a)(7), substituted “National Credit Union Administration Board” for “Administrator of the National Credit Union Administration”.
+Pub. L. 101–73, § 962(a)(7), substituted “National Credit Union Administration Board” for “Administrator of the National Credit Union Administration”.
 
-Pub. L. 101–73, § 961(h)(2), (3), (5), (6), struck out “the Federal Savings and Loan Insurance Corporation, any bank the deposits of which are insured by” after “the accounts of which are insured by”, struck out “any member of” before “the Federal Home Loan Bank System”, and substituted “$1,000,000” for “$5,000” and “20 years” for “two years”.
+Pub. L. 101–73, § 961(h)(2), (3), (5), (6), struck out “the Federal Savings and Loan Insurance Corporation, any bank the deposits of which are insured by” after “the accounts of which are insured by”, struck out “any member of” before “the Federal Home Loan Bank System”, and substituted “$1,000,000” for “$5,000” and “20 years” for “two years”.
 
-Pub. L. 101–73, § 961(h)(1), as amended by Pub. L. 104–294, § 605(b), struck out “a Federal Home Loan Bank, the Federal Home Loan Bank Board, the Home Owners’ Loan Corporation, a Federal Savings and Loan Association” after “National Agricultural Credit Corporation,”.
+Pub. L. 101–73, § 961(h)(1), as amended by Pub. L. 104–294, § 605(b), struck out “a Federal Home Loan Bank, the Federal Home Loan Bank Board, the Home Owners’ Loan Corporation, a Federal Savings and Loan Association” after “National Agricultural Credit Corporation,”.
 
-Pub. L. 101–73, § 961(h)(4), which directed the insertion of “the Resolution Trust Corporation” after “Federal Deposit Insurance Corporation,” was executed by making the insertion after the second appearance of “Federal Deposit Insurance Corporation,” as the probable intent of Congress.
+Pub. L. 101–73, § 961(h)(4), which directed the insertion of “the Resolution Trust Corporation” after “Federal Deposit Insurance Corporation,” was executed by making the insertion after the second appearance of “Federal Deposit Insurance Corporation,” as the probable intent of Congress.
 
 1982—Pub. L. 97–297 struck out “a joint-stock land bank,” after “a Federal land bank,”.
 
@@ -675,7 +675,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 Amendment by section 604(b)(22) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-Pub. L. 104–294, title VI, § 605(b), Oct. 11, 1996, 110 Stat. 3509, provided that the amendment by that section to section 961(h) of Pub. L. 101–73 was effective on the date of enactment of Pub. L. 101–73, which was approved Aug. 9, 1989.
+Pub. L. 104–294, title VI, § 605(b), Oct. 11, 1996, 110 Stat. 3509, provided that the amendment by that section to section 961(h) of Pub. L. 101–73 was effective on the date of enactment of Pub. L. 101–73, which was approved Aug. 9, 1989.
 
 **Effective Date of 1994 Amendment**
 
@@ -699,7 +699,7 @@ Establishment as independent agency, membership, etc., see section 1752 et seq. 
 
 Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
 
-## § 1015. Naturalization, citizenship or alien registry
+## § 1015. Naturalization, citizenship or alien registry
 
 **(a)** Whoever knowingly makes any false statement under oath, in any case, proceeding, or matter relating to, or under, or by virtue of any law of the United States relating to naturalization, citizenship, or registry of aliens; or
 
@@ -715,11 +715,11 @@ Establishment of Farm Credit Administration as independent agency, and other cha
 
 Shall be fined under this title or imprisoned not more than five years, or both. Subsection (f) does not apply to an alien if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of making the false statement or claim that he or she was a citizen of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 215, Sept. 30, 1996, 110 Stat. 3009–572; Pub. L. 106–395, title II, § 201(d)(2), Oct. 30, 2000, 114 Stat. 1635.)
+(June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 215, Sept. 30, 1996, 110 Stat. 3009–572; Pub. L. 106–395, title II, § 201(d)(2), Oct. 30, 2000, 114 Stat. 1635.)
 
 **Historical and Revision Notes**
 
-Based on subsections (a), paragraphs (1), (16), (17), (19), (32), (b), (d), and (*l*) of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, § 346(a), pars. (1), (16), (17), (19), (32), (b), (d), and (*l*), 45 Stat. 1163, 1165, 1167).
+Based on subsections (a), paragraphs (1), (16), (17), (19), (32), (b), (d), and (*l*) of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, § 346(a), pars. (1), (16), (17), (19), (32), (b), (d), and (*l*), 45 Stat. 1163, 1165, 1167).
 
 Section consolidates, with minor changes, subsection (a), paragraphs (1), (16), (17), (19), (32), and subsections (b), (d), and (*l*), of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality.
 
@@ -741,15 +741,15 @@ Such changes of arrangement and phraseology were made as were appropriate and ne
 
 Amendment by Pub. L. 106–395 effective as if included in the enactment of section 215 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, div. C of Pub. L. 104–208, and applicable to an alien prosecuted on or after Sept. 30, 1996, except in the case of an alien whose criminal proceeding (including judicial review thereof) has been finally concluded before Oct. 30, 2000, see section 201(d)(3) of Pub. L. 106–395, set out as a note under section 611 of this title.
 
-## § 1016. Acknowledgment of appearance or oath
+## § 1016. Acknowledgment of appearance or oath
 
 Whoever, being an officer authorized to administer oaths or to take and certify acknowledgments, knowingly makes any false acknowledgment, certificate, or statement concerning the appearance before him or the taking of an oath or affirmation by any person with respect to any proposal, contract, bond, undertaking, or other matter submitted to, made with, or taken on behalf of the United States or any department or agency thereof, concerning which an oath or affirmation is required by law or lawful regulation, or with respect to the financial standing of any principal, surety, or other party to any such proposal, contract, bond, undertaking, or other instrument, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 75 (Mar. 4, 1909, ch. 321, § 31, 35 Stat. 1094).
+Based on title 18, U.S.C., 1940 ed., § 75 (Mar. 4, 1909, ch. 321, § 31, 35 Stat. 1094).
 
 Words “or of any department or agency thereof” were inserted after “United States” so as to remove any ambiguity as to scope of section. (See definitions of “department” and “agency” in section 6 of this title.)
 
@@ -759,15 +759,15 @@ Words “or of any department or agency thereof” were inserted after “United
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 1017. Government seals wrongfully used and instruments wrongfully sealed
+## § 1017. Government seals wrongfully used and instruments wrongfully sealed
 
 Whoever fraudulently or wrongfully affixes or impresses the seal of any department or agency of the United States, to or upon any certificate, instrument, commission, document, or paper or with knowledge of its fraudulent character, with wrongful or fraudulent intent, uses, buys, procures, sells, or transfers to another any such certificate, instrument, commission, document, or paper, to which or upon which said seal has been so fraudulently affixed or impressed, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 130 (June 15, 1917, ch. 30, title X, § 1, 40 Stat. 227).
+Based on title 18, U.S.C., 1940 ed., § 130 (June 15, 1917, ch. 30, title X, § 1, 40 Stat. 227).
 
 To clarify scope of section and in view of definition of department or agency in section 6 of this title, words “department or agency” were substituted for “executive department, or of any bureau, commission, or office”.
 
@@ -779,15 +779,15 @@ Slight verbal changes were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 1018. Official certificates or writings
+## § 1018. Official certificates or writings
 
 Whoever, being a public officer or other person authorized by any law of the United States to make or give a certificate or other writing, knowingly makes and delivers as true such a certificate or writing, containing any statement which he knows to be false, in a case where the punishment thereof is not elsewhere expressly provided by law, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 195 (Mar. 4, 1909, ch. 321, § 106, 35 Stat. 1107).
+Based on title 18, U.S.C., 1940 ed., § 195 (Mar. 4, 1909, ch. 321, § 106, 35 Stat. 1107).
 
 Minor changes were made in phraseology.
 
@@ -797,15 +797,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 1019. Certificates by consular officers
+## § 1019. Certificates by consular officers
 
 Whoever, being a consul, or vice consul, or other person employed in the consular service of the United States, knowingly certifies falsely to any invoice, or other paper, to which his certificate is authorized or required by law, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 127 (Mar. 4, 1909, ch. 321, § 70, 35 Stat. 1101).
+Based on title 18, U.S.C., 1940 ed., § 127 (Mar. 4, 1909, ch. 321, § 70, 35 Stat. 1101).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -817,7 +817,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 1020. Highway projects
+## § 1020. Highway projects
 
 Whoever, being an officer, agent, or employee of the United States, or of any State or Territory, or whoever, whether a person, association, firm, or corporation, knowingly makes any false statement, false representation, or false report as to the character, quality, quantity, or cost of the material used or to be used, or the quantity or quality of the work performed or to be performed, or the costs thereof in connection with the submission of plans, maps, specifications, contracts, or costs of construction of any highway or related project submitted for approval to the Secretary of Transportation; or
 
@@ -827,11 +827,11 @@ Whoever knowingly makes any false statement or false representation as to a mate
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 753; Oct. 31, 1951, ch. 655, § 27, 65 Stat. 721; May 6, 1954, ch. 181, § 18, 68 Stat. 76; Pub. L. 89–670, § 10(f), Oct. 15, 1966, 80 Stat. 948; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 753; Oct. 31, 1951, ch. 655, § 27, 65 Stat. 721; May 6, 1954, ch. 181, § 18, 68 Stat. 76; Pub. L. 89–670, § 10(f), Oct. 15, 1966, 80 Stat. 948; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 46 of title 23, U.S.C., 1940 ed., Highways (June 19, 1922, ch. 227, § 4, par. 6, 42 Stat. 661).
+Based on section 46 of title 23, U.S.C., 1940 ed., Highways (June 19, 1922, ch. 227, § 4, par. 6, 42 Stat. 661).
 
 Words “highway, or related,” were inserted before “project” in two places for the purpose of description, in view of transfer from title 23.
 
@@ -843,7 +843,7 @@ Changes in phraseology were made.
 
 **References in Text**
 
-The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in text, is act July 11, 1916, ch. 241, 39 Stat. 355, which was repealed by Pub. L. 85–767, § 2(1), Aug. 27, 1958, 72 Stat. 919. See section 101 et seq. of Title 23, Highways.
+The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in text, is act July 11, 1916, ch. 241, 39 Stat. 355, which was repealed by Pub. L. 85–767, § 2(1), Aug. 27, 1958, 72 Stat. 919. See section 101 et seq. of Title 23, Highways.
 
 **Amendments**
 
@@ -859,23 +859,23 @@ The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in t
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Statutory Notes and Executive Documents**
 
 **Transfer of Functions**
 
-The Bureau of Public Roads, which is the principal road building agency of the Federal Government, and which was formerly under the Department of Agriculture, was redesignated the Public Roads Administration and, with its functions, transferred to the Federal Works Agency, and the functions of the Secretary of Agriculture, with respect thereto, were transferred to the Federal Works Administrator, by Reorg. Plan No. 1 of 1939, §§ 301, 302, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees. Act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380, (see Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works), abolished the Federal Works Agency, transferred its functions, the functions of all agencies thereof, the functions of the Federal Works Administrator, and the functions of the Commissioner of Public Roads, to the Administrator of General Services, and transferred the Public Roads Administration, which it redesignated the Bureau of Public Roads, to the General Services Administration. Reorg. Plan No. 7 of 1949, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070, set out in the Appendix to Title 5, Government Organization and Employees, transferred such bureau and its functions and personnel to the Department of Commerce, and transferred the functions of the Administrator of General Services, with respect thereto, to the Secretary of Commerce, to be performed by him or, subject to his direction and control, by such officers, employees and agencies of the Department of Commerce as he should designate. Reorg. Plan No. 5 of 1950, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees, transferred, with certain exceptions not applicable to this section, all functions of all other officers of the Department of Commerce, and all functions of all agencies and employees of such Department, to the Secretary of Commerce, with power vested in him to authorize their performance, or the performance of any of his functions, by any of such other officers, or by any agency or employee of the Department of Commerce. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
+The Bureau of Public Roads, which is the principal road building agency of the Federal Government, and which was formerly under the Department of Agriculture, was redesignated the Public Roads Administration and, with its functions, transferred to the Federal Works Agency, and the functions of the Secretary of Agriculture, with respect thereto, were transferred to the Federal Works Administrator, by Reorg. Plan No. 1 of 1939, §§ 301, 302, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees. Act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380, (see Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works), abolished the Federal Works Agency, transferred its functions, the functions of all agencies thereof, the functions of the Federal Works Administrator, and the functions of the Commissioner of Public Roads, to the Administrator of General Services, and transferred the Public Roads Administration, which it redesignated the Bureau of Public Roads, to the General Services Administration. Reorg. Plan No. 7 of 1949, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070, set out in the Appendix to Title 5, Government Organization and Employees, transferred such bureau and its functions and personnel to the Department of Commerce, and transferred the functions of the Administrator of General Services, with respect thereto, to the Secretary of Commerce, to be performed by him or, subject to his direction and control, by such officers, employees and agencies of the Department of Commerce as he should designate. Reorg. Plan No. 5 of 1950, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees, transferred, with certain exceptions not applicable to this section, all functions of all other officers of the Department of Commerce, and all functions of all agencies and employees of such Department, to the Secretary of Commerce, with power vested in him to authorize their performance, or the performance of any of his functions, by any of such other officers, or by any agency or employee of the Department of Commerce. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
-## § 1021. Title records
+## § 1021. Title records
 
 Whoever, being an officer or other person authorized by any law of the United States to record a conveyance of real property or any other instrument which by such law may be recorded, knowingly certifies falsely that such conveyance or instrument has or has not been recorded, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 194 (Mar. 4, 1909, ch. 321, § 105, 35 Stat. 1107).
+Based on title 18, U.S.C., 1940 ed., § 194 (Mar. 4, 1909, ch. 321, § 105, 35 Stat. 1107).
 
 Words “five years” were substituted for “seven years” as more in conformity with comparable sections of this chapter.
 
@@ -887,15 +887,15 @@ Minor change was made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 1022. Delivery of certificate, voucher, receipt for military or naval property
+## § 1022. Delivery of certificate, voucher, receipt for military or naval property
 
 Whoever, being authorized to make or deliver any certificate, voucher, receipt, or other paper certifying the receipt of arms, ammunition, provisions, clothing, or other property used or to be used in the military or naval service, makes or delivers the same to any other person without a full knowledge of the truth of the facts stated therein and with intent to defraud the United States, or any agency thereof, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 84 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., § 84 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 Word “agency” was substituted for “department” so as to eliminate any possible ambiguity as to scope of section. (See definitions of “department” and “agency” in section 6 of this title.)
 
@@ -909,15 +909,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 1023. Insufficient delivery of money or property for military or naval service
+## § 1023. Insufficient delivery of money or property for military or naval service
 
 Whoever, having charge, possession, custody, or control of any money or other public property used or to be used in the military or naval service, with intent to defraud the United States, or any agency thereof, or any corporation in which the United States has a proprietary interest, or intending to conceal such money or other property, delivers to any person having authority to receive the same any amount of such money or other property less than that for which he received a certificate or took a receipt, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 85 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., § 85 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 Word “agency” was substituted for “department” so as to eliminate any possible ambiguity as to scope of section. (See definitions of “department” and “agency” in section 6 of this title.)
 
@@ -931,15 +931,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 1024. Purchase or receipt of military, naval, or veteran’s facilities property
+## § 1024. Purchase or receipt of military, naval, or veteran’s facilities property
 
 Whoever purchases, or receives in pledge from any person any arms, equipment, ammunition, clothing, military stores, or other property furnished by the United States under a clothing allowance or otherwise, to any member of the Armed Forces of the United States or of the National Guard or Naval Militia, or to any person accompanying, serving, or retained with the land or naval forces and subject to military or naval law, or to any former member of such Armed Forces at or by any hospital, home, or facility maintained by the United States, having knowledge or reason to believe that the property has been taken from the possession of or furnished by the United States under such allowance, or otherwise, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 86 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197; Apr. 30, 1940, ch. 164, 54 Stat. 171).
+Based on title 18, U.S.C., 1940 ed., § 86 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197; Apr. 30, 1940, ch. 164, 54 Stat. 171).
 
 Minor changes were made in phraseology.
 
@@ -949,17 +949,17 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 1025. False pretenses on high seas and other waters
+## § 1025. False pretenses on high seas and other waters
 
 Whoever, upon any waters or vessel within the special maritime and territorial jurisdiction of the United States, by any fraud, or false pretense, obtains from any person anything of value, or procures the execution and delivery of any instrument of writing or conveyance of real or personal property, or the signature of any person, as maker, endorser, or guarantor, to or upon any bond, bill, receipt, promissory note, draft, or check, or any other evidence of indebtedness, or fraudulently sells, barters, or disposes of any bond, bill, receipt, promissory note, draft, or check, or other evidence of indebtedness, for value, knowing the same to be worthless, or knowing the signature of the maker, endorser, or guarantor thereof to have been obtained by any false pretenses, shall be fined under this title or imprisoned not more than five years, or both; but if the amount, value or the face value of anything so obtained does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 755; May 24, 1949, ch. 139, § 22, 63 Stat. 92; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 755; May 24, 1949, ch. 139, § 22, 63 Stat. 92; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 467a (Mar. 4, 1909, ch. 321, § 288A, as added Aug. 5, 1939, ch. 434, 53 Stat. 1205).
+Based on title 18, U.S.C., 1940 ed., § 467a (Mar. 4, 1909, ch. 321, § 288A, as added Aug. 5, 1939, ch. 434, 53 Stat. 1205).
 
 Words “upon any waters or vessel within the special maritime and territorial jurisdiction of the United States” were substituted for “upon the high seas or on any waters within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State, or within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State on board any vessel belonging in whole or in part to the United States or any citizen thereof or to any corporation created by or under the laws of the United States, or of any State, Territory, or District thereof”, near beginning of section. The deleted words are not necessary in view of definitive section 7 of this title.
 
@@ -981,15 +981,15 @@ This section [section 22] corrects a typographical error in section 1025 of titl
 
 1949—Act May 24, 1949, corrected spelling of “pretense”.
 
-## § 1026. Compromise, adjustment, or cancellation of farm indebtedness
+## § 1026. Compromise, adjustment, or cancellation of farm indebtedness
 
 Whoever knowingly makes any false statement for the purpose of influencing in any way the action of the Secretary of Agriculture, or of any person acting under his authority, in connection with any compromise, adjustment, or cancellation of any farm indebtedness as provided by sections 1150, 1150a, and 1150b of Title 12, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 755; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 755; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1150c(a) of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 20, 1944, ch. 623, § 4(a), 58 Stat. 837).
+Based on section 1150c(a) of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 20, 1944, ch. 623, § 4(a), 58 Stat. 837).
 
 Words “of Agriculture” were inserted after “Secretary” for reasons of identification.
 
@@ -1003,23 +1003,23 @@ Other changes were made in phraseology without change of substance.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 1027. False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974
+## § 1027. False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974
 
 Whoever, in any document required by title I of the Employee Retirement Income Security Act of 1974 (as amended from time to time) to be published, or kept as part of the records of any employee welfare benefit plan or employee pension benefit plan, or certified to the administrator of any such plan, makes any false statement or representation of fact, knowing it to be false, or knowingly conceals, covers up, or fails to disclose any fact the disclosure of which is required by such title or is necessary to verify, explain, clarify or check for accuracy and completeness any report required by such title to be published or any information required by such title to be certified, shall be fined under this title, or imprisoned not more than five years, or both.
 
-(Added Pub. L. 87–420, § 17(c), Mar. 20, 1962, 76 Stat. 42; amended Pub. L. 93–406, title I, § 112(a)(2)(B)(i), (ii), formerly § 111(a)(2)(B)(i), (ii), Sept. 2, 1974, 88 Stat. 851, renumbered § 112(a)(2)(B)(i), (ii), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 87–420, § 17(c), Mar. 20, 1962, 76 Stat. 42; amended Pub. L. 93–406, title I, § 112(a)(2)(B)(i), (ii), formerly § 111(a)(2)(B)(i), (ii), Sept. 2, 1974, 88 Stat. 851, renumbered § 112(a)(2)(B)(i), (ii), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 **Amendments**
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1974—Pub. L. 93–406, § 112(a)(2)(A)(i), (ii), formerly § 111(a)(2)(A)(i), (ii), as renumbered by Pub. L. 117–328, substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act” in section catchline, and “title I of the Employee Retirement Income Security Act of 1974” and “title” for “the Welfare and Pension Plans Disclosure Act” and “Act”, respectively, in text.
+1974—Pub. L. 93–406, § 112(a)(2)(A)(i), (ii), formerly § 111(a)(2)(A)(i), (ii), as renumbered by Pub. L. 117–328, substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act” in section catchline, and “title I of the Employee Retirement Income Security Act of 1974” and “title” for “the Welfare and Pension Plans Disclosure Act” and “Act”, respectively, in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1035,7 +1035,7 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1975, except as provided in sect
 
 Section effective 90 days after Mar. 20, 1962, see section 19 of Pub. L. 87–420, set out as a note under section 664 of this title.
 
-## § 1028. Fraud and related activity in connection with identification documents, authentication features, and information
+## § 1028. Fraud and related activity in connection with identification documents, authentication features, and information
 
 **(a)** Whoever, in a circumstance described in subsection (c) of this section—
 
@@ -1077,7 +1077,7 @@ shall be punished as provided in subsection (b) of this section.
 
 **(A)** any other production, transfer, or use of a means of identification, an identification document,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 authentication feature, or a false identification document; or
 
@@ -1171,111 +1171,111 @@ authentication feature, or a false identification document; or
 
 **(i) Rule of Construction.—** For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
 
-(Added Pub. L. 97–398, § 2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, § 44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, § 7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, § 1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, § 211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, § 601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, § 3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, § 3, Dec. 28, 2000, 114 Stat. 3076; Pub. L. 108–21, title VI, § 607(b), Apr. 30, 2003, 117 Stat. 689; Pub. L. 108–275, §§ 2(c), 3, July 15, 2004, 118 Stat. 832; Pub. L. 108–458, title VII, § 7216, Dec. 17, 2004, 118 Stat. 3833; Pub. L. 109–13, div. B, title II, § 203(a), May 11, 2005, 119 Stat. 315; Pub. L. 109–177, title VI, § 603, Mar. 9, 2006, 120 Stat. 253.)
+(Added Pub. L. 97–398, § 2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, § 44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, § 7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, § 1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, § 211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, § 601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, § 3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, § 3, Dec. 28, 2000, 114 Stat. 3076; Pub. L. 108–21, title VI, § 607(b), Apr. 30, 2003, 117 Stat. 689; Pub. L. 108–275, §§ 2(c), 3, July 15, 2004, 118 Stat. 832; Pub. L. 108–458, title VII, § 7216, Dec. 17, 2004, 118 Stat. 3833; Pub. L. 109–13, div. B, title II, § 203(a), May 11, 2005, 119 Stat. 315; Pub. L. 109–177, title VI, § 603, Mar. 9, 2006, 120 Stat. 253.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsecs. (a)(6), (c)(1). Pub. L. 109–177, § 603(1), (2), inserted “or a sponsoring entity of an event designated as a special event of national significance” after “United States”.
+2006—Subsecs. (a)(6), (c)(1). Pub. L. 109–177, § 603(1), (2), inserted “or a sponsoring entity of an event designated as a special event of national significance” after “United States”.
 
-Subsec. (d)(3). Pub. L. 109–177, § 603(3), inserted “a sponsoring entity of an event designated as a special event of national significance,” after “political subdivision of a State,”.
+Subsec. (d)(3). Pub. L. 109–177, § 603(3), inserted “a sponsoring entity of an event designated as a special event of national significance,” after “political subdivision of a State,”.
 
-Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, § 603(4), inserted “a sponsoring entity of an event designated by the President as a special event of national significance,” after “political subdivision of a State,”.
+Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, § 603(4), inserted “a sponsoring entity of an event designated by the President as a special event of national significance,” after “political subdivision of a State,”.
 
 2005—Subsec. (a)(8). Pub. L. 109–13 substituted “false or actual authentication features” for “false authentication features”.
 
-2004—Subsec. (a)(7). Pub. L. 108–275, § 3(1), substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
+2004—Subsec. (a)(7). Pub. L. 108–275, § 3(1), substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
 
-Subsec. (b)(1)(D). Pub. L. 108–275, § 3(2), substituted “transfer, possession,” for “transfer”.
+Subsec. (b)(1)(D). Pub. L. 108–275, § 3(2), substituted “transfer, possession,” for “transfer”.
 
-Subsec. (b)(2). Pub. L. 108–275, § 3(3), substituted “5 years” for “three years” in introductory provisions.
+Subsec. (b)(2). Pub. L. 108–275, § 3(3), substituted “5 years” for “three years” in introductory provisions.
 
 Subsec. (b)(4). Pub. L. 108–458 substituted “30 years” for “25 years”.
 
-Pub. L. 108–275, § 3(4), inserted “an act of domestic terrorism (as defined under section 2331(5) of this title) or” after “facilitate”.
+Pub. L. 108–275, § 3(4), inserted “an act of domestic terrorism (as defined under section 2331(5) of this title) or” after “facilitate”.
 
-Subsec. (d). Pub. L. 108–275, § 2(c), inserted “and section 1028A” after “In this section” in introductory provisions.
+Subsec. (d). Pub. L. 108–275, § 2(c), inserted “and section 1028A” after “In this section” in introductory provisions.
 
-2003—Pub. L. 108–21, § 607(b)(6), inserted “, authentication features,” after “documents” in section catchline.
+2003—Pub. L. 108–21, § 607(b)(6), inserted “, authentication features,” after “documents” in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–21, § 607(b)(1)(A), inserted “, authentication feature,” after “an identification document”.
+Subsec. (a)(1). Pub. L. 108–21, § 607(b)(1)(A), inserted “, authentication feature,” after “an identification document”.
 
-Subsec. (a)(2). Pub. L. 108–21, § 607(b)(1)(B), inserted “, authentication feature,” after “an identification document” and “or feature” after “such document”.
+Subsec. (a)(2). Pub. L. 108–21, § 607(b)(1)(B), inserted “, authentication feature,” after “an identification document” and “or feature” after “such document”.
 
-Subsec. (a)(3). Pub. L. 108–21, § 607(b)(1)(C), inserted “, authentication features,” after “possessor)”.
+Subsec. (a)(3). Pub. L. 108–21, § 607(b)(1)(C), inserted “, authentication features,” after “possessor)”.
 
-Subsec. (a)(4). Pub. L. 108–21, § 607(b)(1)(D), inserted “, authentication feature,” after “possessor)” and “or feature” after “such document”.
+Subsec. (a)(4). Pub. L. 108–21, § 607(b)(1)(D), inserted “, authentication feature,” after “possessor)” and “or feature” after “such document”.
 
-Subsec. (a)(5). Pub. L. 108–21, § 607(b)(1)(E), inserted “or authentication feature” after “implement” wherever appearing.
+Subsec. (a)(5). Pub. L. 108–21, § 607(b)(1)(E), inserted “or authentication feature” after “implement” wherever appearing.
 
-Subsec. (a)(6). Pub. L. 108–21, § 607(b)(1)(F), inserted “or authentication feature” before “that is or appears”, “or authentication feature” before “of the United States” and “or feature” after “such document” and struck out “or” at end.
+Subsec. (a)(6). Pub. L. 108–21, § 607(b)(1)(F), inserted “or authentication feature” before “that is or appears”, “or authentication feature” before “of the United States” and “or feature” after “such document” and struck out “or” at end.
 
-Subsec. (a)(7). Pub. L. 108–21, § 607(b)(1)(G), inserted “or” after semicolon at end.
+Subsec. (a)(7). Pub. L. 108–21, § 607(b)(1)(G), inserted “or” after semicolon at end.
 
-Subsec. (a)(8). Pub. L. 108–21, § 607(b)(1)(H), added par. (8).
+Subsec. (a)(8). Pub. L. 108–21, § 607(b)(1)(H), added par. (8).
 
-Subsec. (b)(1)(A). Pub. L. 108–21, § 607(b)(2)(A)(i)(I), inserted “, authentication feature,” before “or false” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 108–21, § 607(b)(2)(A)(i)(I), inserted “, authentication feature,” before “or false” in introductory provisions.
 
-Subsec. (b)(1)(A)(i). Pub. L. 108–21, § 607(b)(2)(A)(i)(II), inserted “or authentication feature” after “document”.
+Subsec. (b)(1)(A)(i). Pub. L. 108–21, § 607(b)(2)(A)(i)(II), inserted “or authentication feature” after “document”.
 
-Subsec. (b)(1)(B). Pub. L. 108–21, § 607(b)(2)(A)(ii), inserted “, authentication features,” before “or false”.
+Subsec. (b)(1)(B). Pub. L. 108–21, § 607(b)(2)(A)(ii), inserted “, authentication features,” before “or false”.
 
-Subsec. (b)(2)(A). Pub. L. 108–21, § 607(b)(2)(B), inserted “, authentication feature,” before “or a false”.
+Subsec. (b)(2)(A). Pub. L. 108–21, § 607(b)(2)(B), inserted “, authentication feature,” before “or a false”.
 
-Subsec. (c)(1). Pub. L. 108–21, § 607(b)(3), inserted “, authentication feature,” before “or false” in two places.
+Subsec. (c)(1). Pub. L. 108–21, § 607(b)(3), inserted “, authentication feature,” before “or false” in two places.
 
-Subsec. (d). Pub. L. 108–21, § 607(b)(4), added pars. (1), (5), (6) and (12), redesignated former pars. (1), (2), (3), (4), (5), (6), (7), and (8) as pars. (2), (3), (4), (7), (8), (9), (10), and (11), respectively, and in par. (4)(A) inserted “or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit” after “entity”.
+Subsec. (d). Pub. L. 108–21, § 607(b)(4), added pars. (1), (5), (6) and (12), redesignated former pars. (1), (2), (3), (4), (5), (6), (7), and (8) as pars. (2), (3), (4), (7), (8), (9), (10), and (11), respectively, and in par. (4)(A) inserted “or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit” after “entity”.
 
-Subsecs. (h), (i). Pub. L. 108–21, § 607(b)(5), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 108–21, § 607(b)(5), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-2000—Subsec. (c)(3)(A). Pub. L. 106–578, § 3(1), inserted “, including the transfer of a document by electronic means” after “commerce”.
+2000—Subsec. (c)(3)(A). Pub. L. 106–578, § 3(1), inserted “, including the transfer of a document by electronic means” after “commerce”.
 
-Subsec. (d)(1). Pub. L. 106–578, § 3(2)(A), inserted “template, computer file, computer disc,” after “impression,”.
+Subsec. (d)(1). Pub. L. 106–578, § 3(2)(A), inserted “template, computer file, computer disc,” after “impression,”.
 
-Subsec. (d)(3) to (8). Pub. L. 106–578, § 3(2)(B)–(F), added pars. (3) and (7) and redesignated former pars. (3), (4), (5), and (6) as (4), (5), (6), and (8), respectively.
+Subsec. (d)(3) to (8). Pub. L. 106–578, § 3(2)(B)–(F), added pars. (3) and (7) and redesignated former pars. (3), (4), (5), and (6) as (4), (5), (6), and (8), respectively.
 
-1998—Pub. L. 105–318, § 3(h)(1), inserted “and information” at end of section catchline.
+1998—Pub. L. 105–318, § 3(h)(1), inserted “and information” at end of section catchline.
 
-Subsec. (a). Pub. L. 105–318, § 3(a)(3), struck out “or attempts to do so,” before “shall be punished” in concluding provisions.
+Subsec. (a). Pub. L. 105–318, § 3(a)(3), struck out “or attempts to do so,” before “shall be punished” in concluding provisions.
 
-Subsec. (a)(7). Pub. L. 105–318, § 3(a)(1), (2), (4), added par. (7).
+Subsec. (a)(7). Pub. L. 105–318, § 3(a)(1), (2), (4), added par. (7).
 
-Subsec. (b)(1)(D). Pub. L. 105–318, § 3(b)(1), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 105–318, § 3(b)(1), added subpar. (D).
 
-Subsec. (b)(2)(A). Pub. L. 105–318, § 3(b)(2)(A), substituted “, transfer, or use of a means of identification, an identification document, or a” for “or transfer of an identification document or”.
+Subsec. (b)(2)(A). Pub. L. 105–318, § 3(b)(2)(A), substituted “, transfer, or use of a means of identification, an identification document, or a” for “or transfer of an identification document or”.
 
-Subsec. (b)(2)(B). Pub. L. 105–318, § 3(b)(2)(B), inserted “or (7)” after “(3)”.
+Subsec. (b)(2)(B). Pub. L. 105–318, § 3(b)(2)(B), inserted “or (7)” after “(3)”.
 
-Subsec. (b)(3). Pub. L. 105–318, § 3(b)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed to facilitate a drug trafficking crime (as defined in section 929(a)(2) of this title);”.
+Subsec. (b)(3). Pub. L. 105–318, § 3(b)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed to facilitate a drug trafficking crime (as defined in section 929(a)(2) of this title);”.
 
-Subsec. (b)(5), (6). Pub. L. 105–318, § 3(b)(4)–(6), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 105–318, § 3(b)(4)–(6), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (c)(3). Pub. L. 105–318, § 3(c), added par. (3) and struck out former par. (3) which read as follows: “the production, transfer, or possession prohibited by this section is in or affects interstate or foreign commerce, or the identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, or possession prohibited by this section.”
+Subsec. (c)(3). Pub. L. 105–318, § 3(c), added par. (3) and struck out former par. (3) which read as follows: “the production, transfer, or possession prohibited by this section is in or affects interstate or foreign commerce, or the identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, or possession prohibited by this section.”
 
-Subsec. (d). Pub. L. 105–318, § 3(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) to (5) defining “identification document”, “produce”, “document-making implement”, “personal identification card”, and “State” as used in this section.
+Subsec. (d). Pub. L. 105–318, § 3(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) to (5) defining “identification document”, “produce”, “document-making implement”, “personal identification card”, and “State” as used in this section.
 
-Subsec. (f). Pub. L. 105–318, § 3(e), added subsec. (f).
+Subsec. (f). Pub. L. 105–318, § 3(e), added subsec. (f).
 
-Subsec. (g). Pub. L. 105–318, § 3(f), added subsec. (g).
+Subsec. (g). Pub. L. 105–318, § 3(f), added subsec. (g).
 
-Subsec. (h). Pub. L. 105–318, § 3(g), added subsec. (h).
+Subsec. (h). Pub. L. 105–318, § 3(g), added subsec. (h).
 
-1996—Subsec. (a)(4), (5). Pub. L. 104–294, § 601(p), struck out “or” after semicolon in par. (4) and inserted “or” after semicolon in par. (5).
+1996—Subsec. (a)(4), (5). Pub. L. 104–294, § 601(p), struck out “or” after semicolon in par. (4) and inserted “or” after semicolon in par. (5).
 
-Subsec. (b). Pub. L. 104–294, § 601(a)(3), substituted “fine under this title” for “fine of under this title” wherever appearing.
+Subsec. (b). Pub. L. 104–294, § 601(a)(3), substituted “fine under this title” for “fine of under this title” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 104–208, § 211(a)(1)(A), in introductory provisions inserted “except as provided in paragraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
+Subsec. (b)(1). Pub. L. 104–208, § 211(a)(1)(A), in introductory provisions inserted “except as provided in paragraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
 
-Subsec. (b)(2). Pub. L. 104–208, § 211(a)(1)(B), inserted “except as provided in paragraphs (3) and (4),” after “(2)” in introductory provisions and struck out “and” at end.
+Subsec. (b)(2). Pub. L. 104–208, § 211(a)(1)(B), inserted “except as provided in paragraphs (3) and (4),” after “(2)” in introductory provisions and struck out “and” at end.
 
-Subsec. (b)(3) to (5). Pub. L. 104–208, § 211(a)(1)(C), (D), added pars. (3) and (4) and redesignated former par. (3) as (5).
+Subsec. (b)(3) to (5). Pub. L. 104–208, § 211(a)(1)(C), (D), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-1994—Subsec. (b)(1). Pub. L. 103–322, § 330016(1)(O), substituted “under this title” for “not more than $25,000”.
+1994—Subsec. (b)(1). Pub. L. 103–322, § 330016(1)(O), substituted “under this title” for “not more than $25,000”.
 
-Subsec. (b)(2). Pub. L. 103–322, § 330016(1)(M), substituted “under this title” for “not more than $15,000”.
+Subsec. (b)(2). Pub. L. 103–322, § 330016(1)(M), substituted “under this title” for “not more than $15,000”.
 
-Subsec. (b)(3). Pub. L. 103–322, § 330016(1)(K), substituted “under this title” for “not more than $5,000”.
+Subsec. (b)(3). Pub. L. 103–322, § 330016(1)(K), substituted “under this title” for “not more than $5,000”.
 
 1990—Subsec. (d)(5). Pub. L. 101–647 inserted “commonwealth,” before “possession or territory of the United States”.
 
@@ -1287,15 +1287,15 @@ Subsec. (b)(3). Pub. L. 103–322, § 330016(1)(K), substituted “under this 
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–578, § 5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act [amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act [Dec. 28, 2000].”
+Pub. L. 106–578, § 5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act [amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act [Dec. 28, 2000].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. C, title II, § 211(c), Sept. 30, 1996, 110 Stat. 3009–570, provided that: “This section [amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act [Sept. 30, 1996].”
+Pub. L. 104–208, div. C, title II, § 211(c), Sept. 30, 1996, 110 Stat. 3009–570, provided that: “This section [amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act [Sept. 30, 1996].”
 
 **Coordinating Committee on False Identification**
 
-Pub. L. 106–578, § 2, Dec. 28, 2000, 114 Stat. 3075, provided that:
+Pub. L. 106–578, § 2, Dec. 28, 2000, 114 Stat. 3075, provided that:
 
 > **“(a) In General.—** The Attorney General and the Secretary of the Treasury shall establish a coordinating committee to ensure, through existing interagency task forces or other means, that the creation and distribution of false identification documents (as defined in section 1028(d)(3) [now 1028(d)(4)] of title 18, United States Code, as added by section 3(2) of this Act) is vigorously investigated and prosecuted.
 
@@ -1327,11 +1327,11 @@ Pub. L. 106–578, § 2, Dec. 28, 2000, 114 Stat. 3075, provided that:
 
 **Constitutional Authority**
 
-Pub. L. 105–318, § 2, Oct. 30, 1998, 112 Stat. 3007, provided that: “The constitutional authority upon which this Act [see Short Title of 1998 Amendments note set out under section 1001 of this title] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
+Pub. L. 105–318, § 2, Oct. 30, 1998, 112 Stat. 3007, provided that: “The constitutional authority upon which this Act [see Short Title of 1998 Amendments note set out under section 1001 of this title] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
 
 **Centralized Complaint and Consumer Education Service for Victims of Identity Theft**
 
-Pub. L. 105–318, § 5, Oct. 30, 1998, 112 Stat. 3010, provided that:
+Pub. L. 105–318, § 5, Oct. 30, 1998, 112 Stat. 3010, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of enactment of this Act [Oct. 30, 1998], the Federal Trade Commission shall establish procedures to—
 
@@ -1349,7 +1349,7 @@ Pub. L. 105–318, § 5, Oct. 30, 1998, 112 Stat. 3010, provided that:
 
 **Fraud and Related Activity in Connection With Identification Documents**
 
-Pub. L. 98–473, title II, § 609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
+Pub. L. 98–473, title II, § 609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
 
 > **“(a)** For purposes of section 1028 of title 18, United States Code, to the maximum extent feasible, personal descriptors or identifiers utilized in identification documents, as defined in such section, shall utilize common descriptive terms and formats designed to—
 
@@ -1365,7 +1365,7 @@ Pub. L. 98–473, title II, § 609L, Oct. 12, 1984, 98 Stat. 2103, provided th
 
 > **“(3)** make recommendations providing for the exchange of personal identification information as authorized by Federal or State law or Executive order of the President or the chief executive officer of any of the several States.”
 
-## § 1028A. Aggravated identity theft
+## § 1028A. Aggravated identity theft
 
 **(a) Offenses.—**
 
@@ -1385,9 +1385,9 @@ Pub. L. 98–473, title II, § 609L, Oct. 12, 1984, 98 Stat. 2103, provided th
 
 **(c) Definition.—** For purposes of this section, the term “felony violation enumerated in subsection (c)” means any offense that is a felony violation of—
 
-**(1)** section 641 (relating to theft of public money, property, or rewards 1
+**(1)** section 641 (relating to theft of public money, property, or rewards 1
 
-<sup>1</sup>  So in original. Probably should be “records”.
+<sup>1</sup> So in original. Probably should be “records”.
 
 ), section 656 (relating to theft, embezzlement, or misapplication by bank officer or employee), or section 664 (relating to theft from employee benefit plans);
 
@@ -1411,17 +1411,17 @@ Pub. L. 98–473, title II, § 609L, Oct. 12, 1984, 98 Stat. 2103, provided th
 
 **(11)** section 208, 811, 1107(b), 1128B(a), or 1632 of the Social Security Act (42 U.S.C. 408, 1011, 1307(b), 1320a–7b(a), and 1383a) (relating to false statements relating to programs under the Act).
 
-(Added Pub. L. 108–275, § 2(a), July 15, 2004, 118 Stat. 831.)
+(Added Pub. L. 108–275, § 2(a), July 15, 2004, 118 Stat. 831.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (c)(10), is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 8 of title II of the Act is classified generally to part VIII (§ 1321 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(10), is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 8 of title II of the Act is classified generally to part VIII (§ 1321 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-## § 1029. Fraud and related activity in connection with access devices
+## § 1029. Fraud and related activity in connection with access devices
 
 **(a)** Whoever—
 
@@ -1509,7 +1509,7 @@ shall, if the offense affects interstate or foreign commerce, be punished as pro
 
 **(h)** Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.
 
-(Added Pub. L. 98–473, title II, § 1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, § 44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, § 1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, § 250007, title XXXIII, § 330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, § 206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, § 601(*l*), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, § 2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, § 377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, § 4002(b)(11), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–113, div. N, title IV, § 407, Dec. 18, 2015, 129 Stat. 2985.)
+(Added Pub. L. 98–473, title II, § 1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, § 44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, § 1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, § 250007, title XXXIII, § 330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, § 206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, § 601(*l*), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, § 2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, § 377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, § 4002(b)(11), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–113, div. N, title IV, § 407, Dec. 18, 2015, 129 Stat. 2985.)
 
 **Editorial Notes**
 
@@ -1517,7 +1517,7 @@ shall, if the offense affects interstate or foreign commerce, be punished as pro
 
 Section 413 of the Controlled Substances Act, referred to in subsec. (c)(2), is classified to section 853 of Title 21, Food and Drugs.
 
-The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964. Title III of the Act is classified generally to subchapter III (§ 301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964. Title III of the Act is classified generally to subchapter III (§ 301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 **Amendments**
 
@@ -1527,21 +1527,21 @@ The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 
 
 “(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.”
 
-2002—Subsec. (c)(1)(A)(ii). Pub. L. 107–273, § 4002(b)(11)(A), substituted “(9)” for “(9),”.
+2002—Subsec. (c)(1)(A)(ii). Pub. L. 107–273, § 4002(b)(11)(A), substituted “(9)” for “(9),”.
 
-Subsec. (e)(8). Pub. L. 107–273, § 4002(b)(11)(B), inserted semicolon at end.
+Subsec. (e)(8). Pub. L. 107–273, § 4002(b)(11)(B), inserted semicolon at end.
 
 2001—Subsec. (h). Pub. L. 107–56 added subsec. (h).
 
-1998—Subsec. (a)(8) to (10). Pub. L. 105–172, § 2(a), added pars. (8) and (9), redesignated former par. (9) as (10), and struck out former par. (8) which read as follows: “knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
+1998—Subsec. (a)(8) to (10). Pub. L. 105–172, § 2(a), added pars. (8) and (9), redesignated former par. (9) as (10), and struck out former par. (8) which read as follows: “knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
 
 “(A) a scanning receiver; or
 
 “(B) hardware or software used for altering or modifying telecommunications instruments to obtain unauthorized access to telecommunications services, or”.
 
-Subsec. (b)(1). Pub. L. 105–172, § 2(b)(2), substituted “subject to the same penalties as those prescribed for the offense attempted” for “punished as provided in subsection (c) of this section”.
+Subsec. (b)(1). Pub. L. 105–172, § 2(b)(2), substituted “subject to the same penalties as those prescribed for the offense attempted” for “punished as provided in subsection (c) of this section”.
 
-Subsec. (c). Pub. L. 105–172, § 2(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The punishment for an offense under subsection (a) or (b)(1) of this section is—
+Subsec. (c). Pub. L. 105–172, § 2(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The punishment for an offense under subsection (a) or (b)(1) of this section is—
 
 “(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), (7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
 
@@ -1549,61 +1549,61 @@ Subsec. (c). Pub. L. 105–172, § 2(b)(1), amended subsec. (c) generally. Pri
 
 “(3) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this paragraph.”
 
-Subsec. (e)(8). Pub. L. 105–172, § 2(c), inserted “or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument” before the period at end.
+Subsec. (e)(8). Pub. L. 105–172, § 2(c), inserted “or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument” before the period at end.
 
-Subsec. (e)(9) to (11). Pub. L. 105–172, § 2(d)(2), added pars. (9) to (11).
+Subsec. (e)(9) to (11). Pub. L. 105–172, § 2(d)(2), added pars. (9) to (11).
 
-Subsec. (g). Pub. L. 105–172, § 2(d)(1), added subsec. (g).
+Subsec. (g). Pub. L. 105–172, § 2(d)(1), added subsec. (g).
 
-1996—Subsec. (a)(5). Pub. L. 104–294, § 601(*l*)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
+1996—Subsec. (a)(5). Pub. L. 104–294, § 601(*l*)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
 
-Subsec. (a)(6). Pub. L. 104–294, § 601(*l*)(1)(C), in par. (6) relating to solicitations, struck out “or” at end.
+Subsec. (a)(6). Pub. L. 104–294, § 601(*l*)(1)(C), in par. (6) relating to solicitations, struck out “or” at end.
 
-Pub. L. 104–294, § 601(*l*)(1)(A), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8).
+Pub. L. 104–294, § 601(*l*)(1)(A), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8).
 
-Subsec. (a)(7). Pub. L. 104–294, § 601(*l*)(1)(A), (C), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7), and struck out “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress. Former par. (7) redesignated (9).
+Subsec. (a)(7). Pub. L. 104–294, § 601(*l*)(1)(A), (C), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7), and struck out “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress. Former par. (7) redesignated (9).
 
-Pub. L. 104–294, § 601(*l*)(1)(B), redesignated par. (7) as (9).
+Pub. L. 104–294, § 601(*l*)(1)(B), redesignated par. (7) as (9).
 
-Subsec. (a)(8). Pub. L. 104–294, § 601(*l*)(1)(A), (D), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8) and inserted “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress.
+Subsec. (a)(8). Pub. L. 104–294, § 601(*l*)(1)(A), (D), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8) and inserted “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress.
 
-Subsec. (a)(9). Pub. L. 104–294, § 601(*l*)(1)(B), redesignated par. (7) as (9).
+Subsec. (a)(9). Pub. L. 104–294, § 601(*l*)(1)(B), redesignated par. (7) as (9).
 
-Subsec. (c)(1). Pub. L. 104–294, § 601(*l*)(3)(A), substituted “(7), (8), or (9)” for “or (7)”.
+Subsec. (c)(1). Pub. L. 104–294, § 601(*l*)(3)(A), substituted “(7), (8), or (9)” for “or (7)”.
 
-Subsec. (c)(2). Pub. L. 104–294, § 601(*l*)(3)(B), substituted “(6), (7), or (8)” for “or (6)”.
+Subsec. (c)(2). Pub. L. 104–294, § 601(*l*)(3)(B), substituted “(6), (7), or (8)” for “or (6)”.
 
-Subsec. (e)(7), (8). Pub. L. 104–294, § 601(*l*)(2), redesignated par. (7), defining “scanning receiver”, as (8).
+Subsec. (e)(7), (8). Pub. L. 104–294, § 601(*l*)(2), redesignated par. (7), defining “scanning receiver”, as (8).
 
-1994—Subsec. (a)(3). Pub. L. 103–322, § 250007(1)(A), and Pub. L. 103–414, § 206(a)(1), amended par. (3) identically, striking “or” at end.
+1994—Subsec. (a)(3). Pub. L. 103–322, § 250007(1)(A), and Pub. L. 103–414, § 206(a)(1), amended par. (3) identically, striking “or” at end.
 
-Subsec. (a)(5). Pub. L. 103–414, § 206(a)(2), added par. (5) relating to instruments that have been modified or altered to obtain unauthorized use of telecommunications services.
+Subsec. (a)(5). Pub. L. 103–414, § 206(a)(2), added par. (5) relating to instruments that have been modified or altered to obtain unauthorized use of telecommunications services.
 
-Pub. L. 103–322, § 250007(1)(B), added par. (5) relating to transactions involving use of access devices issued to persons other than user.
+Pub. L. 103–322, § 250007(1)(B), added par. (5) relating to transactions involving use of access devices issued to persons other than user.
 
-Subsec. (a)(6). Pub. L. 103–414, § 206(a)(2), added par. (6) relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services.
+Subsec. (a)(6). Pub. L. 103–414, § 206(a)(2), added par. (6) relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services.
 
-Pub. L. 103–322, § 250007(1)(B), added par. (6) relating to solicitations which offer access devices or information regarding access devices.
+Pub. L. 103–322, § 250007(1)(B), added par. (6) relating to solicitations which offer access devices or information regarding access devices.
 
-Subsec. (a)(7). Pub. L. 103–322, § 250007(1)(B), added par. (7).
+Subsec. (a)(7). Pub. L. 103–322, § 250007(1)(B), added par. (7).
 
-Subsec. (c)(1). Pub. L. 103–322, § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $10,000 or twice the value obtained by the offense or imprisonment”.
+Subsec. (c)(1). Pub. L. 103–322, § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $10,000 or twice the value obtained by the offense or imprisonment”.
 
-Pub. L. 103–322, § 250007(2), substituted “(a)(2), (3), (5), (6), or (7)” for “(a)(2) or (a)(3)”.
+Pub. L. 103–322, § 250007(2), substituted “(a)(2), (3), (5), (6), or (7)” for “(a)(2) or (a)(3)”.
 
-Subsec. (c)(2). Pub. L. 103–414, § 206(b), substituted “(a)(1), (4), (5), or (6)” for “(a)(1) or (a)(4)”.
+Subsec. (c)(2). Pub. L. 103–414, § 206(b), substituted “(a)(1), (4), (5), or (6)” for “(a)(1) or (a)(4)”.
 
-Pub. L. 103–322, § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $50,000 or twice the value obtained by the offense or imprisonment”.
+Pub. L. 103–322, § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $50,000 or twice the value obtained by the offense or imprisonment”.
 
-Subsec. (c)(3). Pub. L. 103–322, § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $100,000 or twice the value obtained by the offense or imprisonment”.
+Subsec. (c)(3). Pub. L. 103–322, § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $100,000 or twice the value obtained by the offense or imprisonment”.
 
-Subsec. (e)(1). Pub. L. 103–414, § 206(c)(1), inserted “electronic serial number, mobile identification number, personal identification number, or other telecommunications service, equipment, or instrument identifier,” after “account number,”.
+Subsec. (e)(1). Pub. L. 103–414, § 206(c)(1), inserted “electronic serial number, mobile identification number, personal identification number, or other telecommunications service, equipment, or instrument identifier,” after “account number,”.
 
-Subsec. (e)(5), (6). Pub. L. 103–322, § 250007(3)(A), (B), and Pub. L. 103–414, § 206(c)(2), (3), amended subsec. (e) identically, striking “and” at end of par. (5) and substituting “; and” for period at end of par. (6).
+Subsec. (e)(5), (6). Pub. L. 103–322, § 250007(3)(A), (B), and Pub. L. 103–414, § 206(c)(2), (3), amended subsec. (e) identically, striking “and” at end of par. (5) and substituting “; and” for period at end of par. (6).
 
-Subsec. (e)(7). Pub. L. 103–414, § 206(c)(4), added par. (7) defining “scanning receiver”.
+Subsec. (e)(7). Pub. L. 103–414, § 206(c)(4), added par. (7) defining “scanning receiver”.
 
-Pub. L. 103–322, § 250007(3)(C), added par. (7) defining “credit card system member”.
+Pub. L. 103–322, § 250007(3)(C), added par. (7) defining “credit card system member”.
 
 1990—Subsec. (f). Pub. L. 101–647 inserted at end “For purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
@@ -1617,9 +1617,9 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 **Report to Congress**
 
-Pub. L. 98–473, title II, § 1603, Oct. 12, 1984, 98 Stat. 2184, directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
+Pub. L. 98–473, title II, § 1603, Oct. 12, 1984, 98 Stat. 2184, directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 
-## § 1030. Fraud and related activity in connection with computers
+## § 1030. Fraud and related activity in connection with computers
 
 **(a)** Whoever—
 
@@ -1627,9 +1627,9 @@ Pub. L. 98–473, title II, § 1603, Oct. 12, 1984, 98 Stat. 2184, directed At
 
 **(2)** intentionally accesses a computer without authorization or exceeds authorized access, and thereby obtains—
 
-**(A)** information contained in a financial record of a financial institution, or of a card issuer as defined in section 1602(n) 1
+**(A)** information contained in a financial record of a financial institution, or of a card issuer as defined in section 1602(n) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15, or contained in a file of a consumer reporting agency on a consumer, as such terms are defined in the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
 
@@ -1649,15 +1649,15 @@ of title 15, or contained in a file of a consumer reporting agency on a consumer
 
 **(C)** intentionally accesses a protected computer without authorization, and as a result of such conduct, causes damage and loss.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(6)** knowingly and with intent to defraud traffics (as defined in section 1029) in any password or similar information through which a computer may be accessed without authorization, if—
 
 **(A)** such trafficking affects interstate or foreign commerce; or
 
-**(B)** such computer is used by or for the Government of the United States; 3
+**(B)** such computer is used by or for the Government of the United States; 3
 
-<sup>3</sup>  So in original. Probably should be followed by “or”.
+<sup>3</sup> So in original. Probably should be followed by “or”.
 
 **(7)** with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any—
 
@@ -1699,7 +1699,7 @@ shall be punished as provided in subsection (c) of this section.
 
 **(B)** a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4),4
 
-<sup>4</sup>  So in original. The comma probably should not appear.
+<sup>4</sup> So in original. The comma probably should not appear.
 
 or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
@@ -1799,7 +1799,7 @@ or (a)(7) of this section which occurs after a conviction for another offense un
 
 **(H)** a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); and
 
-**(I)** an organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act;
+**(I)** an organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act;
 
 **(5)** the term “financial record” means information derived from any record held by a financial institution pertaining to a customer’s relationship with the financial institution;
 
@@ -1823,9 +1823,9 @@ or (a)(7) of this section which occurs after a conviction for another offense un
 
 **(f)** This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
 
-**(g)** Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses 5
+**(g)** Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses 5
 
-<sup>5</sup>  So in original. Probably should be “subclause”.
+<sup>5</sup> So in original. Probably should be “subclause”.
 
 (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i). Damages for a violation involving only conduct described in subsection (c)(4)(A)(i)(I) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage. No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.
 
@@ -1845,11 +1845,11 @@ or (a)(7) of this section which occurs after a conviction for another offense un
 
 **(1)** Any personal property used or intended to be used to commit or to facilitate the commission of any violation of this section, or a conspiracy to violate this section.
 
-**(2)** Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section 6
+**(2)** Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section 6
 
-<sup>6</sup>  So in original. Probably should be followed by a period.
+<sup>6</sup> So in original. Probably should be followed by a period.
 
-(Added Pub. L. 98–473, title II, § 2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, § 2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, § 7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, § 962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, § 1205(e), title XXV, § 2597(j), title XXXV, § 3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, § 290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, § 201, title VI, § 604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, § 506(a), title VIII, § 814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§ 4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title XXII, § 2207(g), formerly title II, § 225(g), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(g), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–326, title II, §§ 203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563; Pub. L. 116–179, § 2, Oct. 20, 2020, 134 Stat. 855.)
+(Added Pub. L. 98–473, title II, § 2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, § 2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, § 7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, § 962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, § 1205(e), title XXV, § 2597(j), title XXXV, § 3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, § 290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, § 201, title VI, § 604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, § 506(a), title VIII, § 814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§ 4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title XXII, § 2207(g), formerly title II, § 225(g), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(g), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–326, title II, §§ 203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563; Pub. L. 116–179, § 2, Oct. 20, 2020, 134 Stat. 855.)
 
 **Editorial Notes**
 
@@ -1857,29 +1857,29 @@ or (a)(7) of this section which occurs after a conviction for another offense un
 
 Section 11 of the Atomic Energy Act of 1954, referred to in subsec. (a)(1), is classified to section 2014 of Title 42, The Public Health and Welfare.
 
-Section 1602(n) of title 15, referred to in subsec. (a)(2)(A), was redesignated section 1602(*o*) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(n) of title 15, referred to in subsec. (a)(2)(A), was redesignated section 1602(*o*) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
 Section 15 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4)(F), is classified to section 78*o* of Title 15, Commerce and Trade.
 
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (e)(4)(H), is classified to section 3101 of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in subsec. (e)(4)(I), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in subsec. (e)(4)(I), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 **Amendments**
 
-2020—Subsec. (e)(2)(C). Pub. L. 116–179, § 2(1), added subpar. (C).
+2020—Subsec. (e)(2)(C). Pub. L. 116–179, § 2(1), added subpar. (C).
 
-Subsec. (e)(13), (14). Pub. L. 116–179, § 2(2)–(4), added pars. (13) and (14).
+Subsec. (e)(13), (14). Pub. L. 116–179, § 2(2)–(4), added pars. (13) and (14).
 
-2008—Subsec. (a)(2)(C). Pub. L. 110–326, § 203, struck out “if the conduct involved an interstate or foreign communication” after “computer”.
+2008—Subsec. (a)(2)(C). Pub. L. 110–326, § 203, struck out “if the conduct involved an interstate or foreign communication” after “computer”.
 
-Subsec. (a)(5). Pub. L. 110–326, § 204(a)(1), redesignated cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, substituted “damage and loss.” for “damage; and” in subpar. (C), and struck out former subpar. (B) which read as follows:
+Subsec. (a)(5). Pub. L. 110–326, § 204(a)(1), redesignated cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, substituted “damage and loss.” for “damage; and” in subpar. (C), and struck out former subpar. (B) which read as follows:
 
 “(B) by conduct described in clause (i), (ii), or (iii) of subparagraph (A), caused (or, in the case of an attempted offense, would, if completed, have caused)—
 
@@ -1893,65 +1893,65 @@ Subsec. (a)(5). Pub. L. 110–326, § 204(a)(1), redesignated cls. (i) to (iii
 
 “(v) damage affecting a computer system used by or for a government entity in furtherance of the administration of justice, national defense, or national security;”.
 
-Subsec. (a)(7). Pub. L. 110–326, § 205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;”.
+Subsec. (a)(7). Pub. L. 110–326, § 205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;”.
 
-Subsec. (b). Pub. L. 110–326, § 206, inserted “conspires to commit or” after “Whoever”.
+Subsec. (b). Pub. L. 110–326, § 206, inserted “conspires to commit or” after “Whoever”.
 
-Subsec. (c)(2)(A). Pub. L. 110–326, § 204(a)(2)(A), struck out “(a)(5)(A)(iii),” after “(a)(3),”.
+Subsec. (c)(2)(A). Pub. L. 110–326, § 204(a)(2)(A), struck out “(a)(5)(A)(iii),” after “(a)(3),”.
 
-Subsec. (c)(3)(B). Pub. L. 110–326, § 204(a)(2)(B), struck out “(a)(5)(A)(iii),” after “(a)(4),”.
+Subsec. (c)(3)(B). Pub. L. 110–326, § 204(a)(2)(B), struck out “(a)(5)(A)(iii),” after “(a)(4),”.
 
-Subsec. (c)(4). Pub. L. 110–326, § 204(a)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) related to fines and imprisonment for intentionally or recklessly causing damage to a protected computer without authorization.
+Subsec. (c)(4). Pub. L. 110–326, § 204(a)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) related to fines and imprisonment for intentionally or recklessly causing damage to a protected computer without authorization.
 
-Subsec. (c)(5). Pub. L. 110–326, § 204(a)(2)(D), struck out par. (5) which related to fine or imprisonment for knowingly or recklessly causing or attempting to cause serious bodily injury or death from certain conduct damaging a protected computer.
+Subsec. (c)(5). Pub. L. 110–326, § 204(a)(2)(D), struck out par. (5) which related to fine or imprisonment for knowingly or recklessly causing or attempting to cause serious bodily injury or death from certain conduct damaging a protected computer.
 
-Subsec. (e)(2)(B). Pub. L. 110–326, § 207, inserted “or affecting” after “which is used in”.
+Subsec. (e)(2)(B). Pub. L. 110–326, § 207, inserted “or affecting” after “which is used in”.
 
-Subsec. (g). Pub. L. 110–326, § 204(a)(3)(B), in the third sentence, substituted “subsection (c)(4)(A)(i)(I)” for “subsection (a)(5)(B)(i)”.
+Subsec. (g). Pub. L. 110–326, § 204(a)(3)(B), in the third sentence, substituted “subsection (c)(4)(A)(i)(I)” for “subsection (a)(5)(B)(i)”.
 
-Pub. L. 110–326, § 204(a)(3)(A), which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
+Pub. L. 110–326, § 204(a)(3)(A), which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
 
-Subsecs. (i), (j). Pub. L. 110–326, § 208, added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 110–326, § 208, added subsecs. (i) and (j).
 
-2002—Subsec. (a)(5)(B). Pub. L. 107–273, § 4005(a)(3), realigned margins.
+2002—Subsec. (a)(5)(B). Pub. L. 107–273, § 4005(a)(3), realigned margins.
 
-Subsec. (c)(2)(B). Pub. L. 107–273, § 4002(b)(1), realigned margins.
+Subsec. (c)(2)(B). Pub. L. 107–273, § 4002(b)(1), realigned margins.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 107–273, § 4002(b)(12)(A), inserted “and” at end.
+Subsec. (c)(2)(B)(iii). Pub. L. 107–273, § 4002(b)(12)(A), inserted “and” at end.
 
-Subsec. (c)(3)(B). Pub. L. 107–273, § 4005(d)(3), inserted comma after “(a)(4)”.
+Subsec. (c)(3)(B). Pub. L. 107–273, § 4005(d)(3), inserted comma after “(a)(4)”.
 
-Subsec. (c)(4)(A), (C). Pub. L. 107–296, § 2207(g)(2), formerly § 225(g)(2), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), inserted “except as provided in paragraph (5),” before “a fine under this title”.
+Subsec. (c)(4)(A), (C). Pub. L. 107–296, § 2207(g)(2), formerly § 225(g)(2), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), inserted “except as provided in paragraph (5),” before “a fine under this title”.
 
-Subsec. (c)(5). Pub. L. 107–296, § 2207(g)(1), (3), (4), formerly § 225(g)(1), (3), (4), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), added par. (5).
+Subsec. (c)(5). Pub. L. 107–296, § 2207(g)(1), (3), (4), formerly § 225(g)(1), (3), (4), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), added par. (5).
 
-Subsec. (e)(4)(I). Pub. L. 107–273, § 4002(b)(12)(B), substituted semicolon for period at end.
+Subsec. (e)(4)(I). Pub. L. 107–273, § 4002(b)(12)(B), substituted semicolon for period at end.
 
-2001—Subsec. (a)(5)(A). Pub. L. 107–56, § 814(a)(1)–(3), designated existing provisions as cl. (i), redesignated subpars. (B) and (C) as cls. (ii) and (iii), respectively, of subpar. (A), and inserted “and” at end of cl. (iii).
+2001—Subsec. (a)(5)(A). Pub. L. 107–56, § 814(a)(1)–(3), designated existing provisions as cl. (i), redesignated subpars. (B) and (C) as cls. (ii) and (iii), respectively, of subpar. (A), and inserted “and” at end of cl. (iii).
 
-Subsec. (a)(5)(B). Pub. L. 107–56, § 814(a)(4), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
+Subsec. (a)(5)(B). Pub. L. 107–56, § 814(a)(4), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
 
-Subsec. (a)(5)(C). Pub. L. 107–56, § 814(a)(2), redesignated subpar. (C) as cl. (iii) of subpar. (A).
+Subsec. (a)(5)(C). Pub. L. 107–56, § 814(a)(2), redesignated subpar. (C) as cl. (iii) of subpar. (A).
 
-Subsec. (a)(7). Pub. L. 107–56, § 814(b), struck out “, firm, association, educational institution, financial institution, government entity, or other legal entity,” before “any money or other thing of value”.
+Subsec. (a)(7). Pub. L. 107–56, § 814(b), struck out “, firm, association, educational institution, financial institution, government entity, or other legal entity,” before “any money or other thing of value”.
 
-Subsec. (c)(2)(A). Pub. L. 107–56, § 814(c)(1)(A), inserted “except as provided in subparagraph (B),” before “a fine”, substituted “(a)(5)(A)(iii)” for “(a)(5)(C)”, and struck out “and” at end.
+Subsec. (c)(2)(A). Pub. L. 107–56, § 814(c)(1)(A), inserted “except as provided in subparagraph (B),” before “a fine”, substituted “(a)(5)(A)(iii)” for “(a)(5)(C)”, and struck out “and” at end.
 
-Subsec. (c)(2)(B). Pub. L. 107–56, § 814(c)(1)(B), inserted “or an attempt to commit an offense punishable under this subparagraph,” after “subsection (a)(2),” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 107–56, § 814(c)(1)(B), inserted “or an attempt to commit an offense punishable under this subparagraph,” after “subsection (a)(2),” in introductory provisions.
 
-Subsec. (c)(2)(C). Pub. L. 107–56, § 814(c)(1)(C), struck out “and” at end.
+Subsec. (c)(2)(C). Pub. L. 107–56, § 814(c)(1)(C), struck out “and” at end.
 
-Subsec. (c)(3). Pub. L. 107–56, § 814(c)(2), struck out “, (a)(5)(A), (a)(5)(B),” after “subsection (a)(4)” in subpars. (A) and (B) and substituted “(a)(5)(A)(iii)” for “(a)(5)(C)” in subpar. (B).
+Subsec. (c)(3). Pub. L. 107–56, § 814(c)(2), struck out “, (a)(5)(A), (a)(5)(B),” after “subsection (a)(4)” in subpars. (A) and (B) and substituted “(a)(5)(A)(iii)” for “(a)(5)(C)” in subpar. (B).
 
-Subsec. (c)(4). Pub. L. 107–56, § 814(c)(3), added par. (4).
+Subsec. (c)(4). Pub. L. 107–56, § 814(c)(3), added par. (4).
 
-Subsec. (d). Pub. L. 107–56, § 506(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
+Subsec. (d). Pub. L. 107–56, § 506(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
 
-Subsec. (e)(2)(B). Pub. L. 107–56, § 814(d)(1), inserted “, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States” before semicolon.
+Subsec. (e)(2)(B). Pub. L. 107–56, § 814(d)(1), inserted “, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States” before semicolon.
 
-Subsec. (e)(7). Pub. L. 107–56, § 814(d)(2), struck out “and” at end.
+Subsec. (e)(7). Pub. L. 107–56, § 814(d)(2), struck out “and” at end.
 
-Subsec. (e)(8). Pub. L. 107–56, § 814(d)(3), added par. (8) and struck out former par. (8) which read as follows: “the term ‘damage’ means any impairment to the integrity or availability of data, a program, a system, or information, that—
+Subsec. (e)(8). Pub. L. 107–56, § 814(d)(3), added par. (8) and struck out former par. (8) which read as follows: “the term ‘damage’ means any impairment to the integrity or availability of data, a program, a system, or information, that—
 
 “(A) causes loss aggregating at least $5,000 in value during any 1-year period to one or more individuals;
 
@@ -1961,115 +1961,115 @@ Subsec. (e)(8). Pub. L. 107–56, § 814(d)(3), added par. (8) and struck out 
 
 “(D) threatens public health or safety; and”.
 
-Subsec. (e)(10) to (12). Pub. L. 107–56, § 814(d)(4), (5), added pars. (10) to (12).
+Subsec. (e)(10) to (12). Pub. L. 107–56, § 814(d)(4), (5), added pars. (10) to (12).
 
-Subsec. (g). Pub. L. 107–56, § 814(e), substituted “A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages.” for “Damages for violations involving damage as defined in subsection (e)(8)(A) are limited to economic damages.” and inserted at end “No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.”
+Subsec. (g). Pub. L. 107–56, § 814(e), substituted “A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages.” for “Damages for violations involving damage as defined in subsection (e)(8)(A) are limited to economic damages.” and inserted at end “No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.”
 
-1996—Subsec. (a)(1). Pub. L. 104–294, § 201(1)(A), substituted “having knowingly accessed” for “knowingly accesses”, “exceeding authorized access” for “exceeds authorized access”, “such conduct having obtained information” for “such conduct obtains information”, and “could be used to the injury of the United States” for “is to be used to the injury of the United States”, struck out “the intent or” before “reason to believe”, and inserted before semicolon at end “willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it”.
+1996—Subsec. (a)(1). Pub. L. 104–294, § 201(1)(A), substituted “having knowingly accessed” for “knowingly accesses”, “exceeding authorized access” for “exceeds authorized access”, “such conduct having obtained information” for “such conduct obtains information”, and “could be used to the injury of the United States” for “is to be used to the injury of the United States”, struck out “the intent or” before “reason to believe”, and inserted before semicolon at end “willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it”.
 
-Subsec. (a)(2). Pub. L. 104–294, § 201(1)(B), inserted dash after “thereby obtains”, redesignated remainder of par. (2) as subpar. (A), and added subpars. (B) and (C).
+Subsec. (a)(2). Pub. L. 104–294, § 201(1)(B), inserted dash after “thereby obtains”, redesignated remainder of par. (2) as subpar. (A), and added subpars. (B) and (C).
 
-Subsec. (a)(3). Pub. L. 104–294, § 201(1)(C), inserted “nonpublic” before “computer of a department or agency”, struck out “adversely” after “and such conduct”, and substituted “that use by or for the Government of the United States” for “the use of the Government’s operation of such computer”.
+Subsec. (a)(3). Pub. L. 104–294, § 201(1)(C), inserted “nonpublic” before “computer of a department or agency”, struck out “adversely” after “and such conduct”, and substituted “that use by or for the Government of the United States” for “the use of the Government’s operation of such computer”.
 
-Subsec. (a)(4). Pub. L. 104–294, § 201(1)(D), substituted “protected computer” for “Federal interest computer” and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
+Subsec. (a)(4). Pub. L. 104–294, § 201(1)(D), substituted “protected computer” for “Federal interest computer” and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
 
-Subsec. (a)(5). Pub. L. 104–294, § 201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
+Subsec. (a)(5). Pub. L. 104–294, § 201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
-Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, § 604(b)(36)(A), which directed insertion of “or” at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, § 201(1)(E). See above.
+Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, § 604(b)(36)(A), which directed insertion of “or” at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, § 201(1)(E). See above.
 
-Subsec. (a)(7). Pub. L. 104–294, § 201(1)(F), added par. (7).
+Subsec. (a)(7). Pub. L. 104–294, § 201(1)(F), added par. (7).
 
-Subsec. (c)(1). Pub. L. 104–294, § 201(2)(A), substituted “under this section” for “under such subsection” in subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 104–294, § 201(2)(A), substituted “under this section” for “under such subsection” in subpars. (A) and (B).
 
-Subsec. (c)(1)(B). Pub. L. 104–294, § 604(b)(36)(B), struck out “and” after semicolon at end.
+Subsec. (c)(1)(B). Pub. L. 104–294, § 604(b)(36)(B), struck out “and” after semicolon at end.
 
-Subsec. (c)(2)(A). Pub. L. 104–294, § 201(2)(B)(i), inserted “, (a)(5)(C),” after “(a)(3)” and substituted “under this section” for “under such subsection”.
+Subsec. (c)(2)(A). Pub. L. 104–294, § 201(2)(B)(i), inserted “, (a)(5)(C),” after “(a)(3)” and substituted “under this section” for “under such subsection”.
 
-Subsec. (c)(2)(B). Pub. L. 104–294, § 201(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (c)(2)(B). Pub. L. 104–294, § 201(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (c)(2)(C). Pub. L. 104–294, § 201(2)(B)(iv), substituted “under this section” for “under such subsection” and inserted “and” at end.
+Subsec. (c)(2)(C). Pub. L. 104–294, § 201(2)(B)(iv), substituted “under this section” for “under such subsection” and inserted “and” at end.
 
-Pub. L. 104–294, § 201(2)(B)(ii), redesignated subpar. (B) as (C).
+Pub. L. 104–294, § 201(2)(B)(ii), redesignated subpar. (B) as (C).
 
-Subsec. (c)(3)(A). Pub. L. 104–294, § 201(2)(C)(i), substituted “(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)” for “(a)(4) or (a)(5)(A)” and “under this section” for “under such subsection”.
+Subsec. (c)(3)(A). Pub. L. 104–294, § 201(2)(C)(i), substituted “(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)” for “(a)(4) or (a)(5)(A)” and “under this section” for “under such subsection”.
 
-Subsec. (c)(3)(B). Pub. L. 104–294, § 201(2)(C)(ii), substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)” for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
+Subsec. (c)(3)(B). Pub. L. 104–294, § 201(2)(C)(ii), substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)” for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
 
-Subsec. (c)(4). Pub. L. 104–294, § 201(2)(D), struck out par. (4) which read as follows: “a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under subsection (a)(5)(B).”
+Subsec. (c)(4). Pub. L. 104–294, § 201(2)(D), struck out par. (4) which read as follows: “a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under subsection (a)(5)(B).”
 
-Subsec. (d). Pub. L. 104–294, § 201(3), inserted “subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of” before “this section” in first sentence.
+Subsec. (d). Pub. L. 104–294, § 201(3), inserted “subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of” before “this section” in first sentence.
 
-Subsec. (e)(2). Pub. L. 104–294, § 201(4)(A)(i), substituted “protected” for “Federal interest” in introductory provisions.
+Subsec. (e)(2). Pub. L. 104–294, § 201(4)(A)(i), substituted “protected” for “Federal interest” in introductory provisions.
 
-Subsec. (e)(2)(A). Pub. L. 104–294, § 201(4)(A)(ii), substituted “that use by or for the financial institution or the Government” for “the use of the financial institution’s operation or the Government’s operation of such computer”.
+Subsec. (e)(2)(A). Pub. L. 104–294, § 201(4)(A)(ii), substituted “that use by or for the financial institution or the Government” for “the use of the financial institution’s operation or the Government’s operation of such computer”.
 
-Subsec. (e)(2)(B). Pub. L. 104–294, § 201(4)(A)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “which is one of two or more computers used in committing the offense, not all of which are located in the same State;”.
+Subsec. (e)(2)(B). Pub. L. 104–294, § 201(4)(A)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “which is one of two or more computers used in committing the offense, not all of which are located in the same State;”.
 
-Subsec. (e)(8), (9). Pub. L. 104–294, § 201(4)(B)–(D), added pars. (8) and (9).
+Subsec. (e)(8), (9). Pub. L. 104–294, § 201(4)(B)–(D), added pars. (8) and (9).
 
-Subsec. (g). Pub. L. 104–294, § 604(b)(36)(C), substituted “violation of this section” for “violation of the section”.
+Subsec. (g). Pub. L. 104–294, § 604(b)(36)(C), substituted “violation of this section” for “violation of the section”.
 
-Pub. L. 104–294, § 201(5), struck out “, other than a violation of subsection (a)(5)(B),” before “may maintain a civil action” and substituted “involving damage as defined in subsection (e)(8)(A)” for “of any subsection other than subsection (a)(5)(A)(ii)(II)(bb) or (a)(5)(B)(ii)(II)(bb)”.
+Pub. L. 104–294, § 201(5), struck out “, other than a violation of subsection (a)(5)(B),” before “may maintain a civil action” and substituted “involving damage as defined in subsection (e)(8)(A)” for “of any subsection other than subsection (a)(5)(A)(ii)(II)(bb) or (a)(5)(B)(ii)(II)(bb)”.
 
-Subsec. (h). Pub. L. 104–294, § 604(b)(36)(D), substituted “subsection (a)(5)” for “section 1030(a)(5) of title 18, United States Code” before period at end.
+Subsec. (h). Pub. L. 104–294, § 604(b)(36)(D), substituted “subsection (a)(5)” for “section 1030(a)(5) of title 18, United States Code” before period at end.
 
-1994—Subsec. (a)(3). Pub. L. 103–322, § 290001(f), inserted “adversely” before “affects the use of the Government’s”.
+1994—Subsec. (a)(3). Pub. L. 103–322, § 290001(f), inserted “adversely” before “affects the use of the Government’s”.
 
-Subsec. (a)(5). Pub. L. 103–322, § 290001(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “intentionally accesses a Federal interest computer without authorization, and by means of one or more instances of such conduct alters, damages, or destroys information in any such Federal interest computer, or prevents authorized use of any such computer or information, and thereby—
+Subsec. (a)(5). Pub. L. 103–322, § 290001(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “intentionally accesses a Federal interest computer without authorization, and by means of one or more instances of such conduct alters, damages, or destroys information in any such Federal interest computer, or prevents authorized use of any such computer or information, and thereby—
 
 “(A) causes loss to one or more others of a value aggregating $1,000 or more during any one year period; or
 
 “(B) modifies or impairs, or potentially modifies or impairs, the medical examination, medical diagnosis, medical treatment, or medical care of one or more individuals; or”.
 
-Subsec. (c)(3)(A). Pub. L. 103–322, § 290001(c)(2), inserted “(A)” after “(a)(5)”.
+Subsec. (c)(3)(A). Pub. L. 103–322, § 290001(c)(2), inserted “(A)” after “(a)(5)”.
 
-Subsec. (c)(4). Pub. L. 103–322, § 290001(c)(1), (3), (4), added par. (4).
+Subsec. (c)(4). Pub. L. 103–322, § 290001(c)(1), (3), (4), added par. (4).
 
-Subsec. (g). Pub. L. 103–322, § 290001(d), added subsec. (g).
+Subsec. (g). Pub. L. 103–322, § 290001(d), added subsec. (g).
 
-Subsec. (h). Pub. L. 103–322, § 290001(e), added subsec. (h).
+Subsec. (h). Pub. L. 103–322, § 290001(e), added subsec. (h).
 
-1990—Subsec. (a)(1). Pub. L. 101–647, § 3533, substituted “paragraph y” for “paragraph r”.
+1990—Subsec. (a)(1). Pub. L. 101–647, § 3533, substituted “paragraph y” for “paragraph r”.
 
-Subsec. (e)(3). Pub. L. 101–647, § 1205(e), inserted “commonwealth,” before “possession or territory of the United States”.
+Subsec. (e)(3). Pub. L. 101–647, § 1205(e), inserted “commonwealth,” before “possession or territory of the United States”.
 
-Subsec. (e)(4)(G). Pub. L. 101–647, § 2597(j)(2), which directed substitution of a semicolon for a period at end of subpar. (G), could not be executed because it ended with a semicolon.
+Subsec. (e)(4)(G). Pub. L. 101–647, § 2597(j)(2), which directed substitution of a semicolon for a period at end of subpar. (G), could not be executed because it ended with a semicolon.
 
-Subsec. (e)(4)(H), (I). Pub. L. 101–647, § 2597(j), added subpars. (H) and (I).
+Subsec. (e)(4)(H), (I). Pub. L. 101–647, § 2597(j), added subpars. (H) and (I).
 
-1989—Subsec. (e)(4)(A). Pub. L. 101–73, § 962(a)(5)(A), substituted “an institution,” for “a bank”.
+1989—Subsec. (e)(4)(A). Pub. L. 101–73, § 962(a)(5)(A), substituted “an institution,” for “a bank”.
 
-Subsec. (e)(4)(C) to (H). Pub. L. 101–73, § 962(a)(5)(B), (C), redesignated subpars. (D) to (H) as (C) to (G), respectively, and struck out former subpar. (C) which read as follows: “an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;”.
+Subsec. (e)(4)(C) to (H). Pub. L. 101–73, § 962(a)(5)(B), (C), redesignated subpars. (D) to (H) as (C) to (G), respectively, and struck out former subpar. (C) which read as follows: “an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;”.
 
 1988—Subsec. (a)(2). Pub. L. 100–690 inserted a comma after “financial institution” and struck out the comma that followed a comma after “title 15”.
 
-1986—Subsec. (a). Pub. L. 99–474, § 2(b)(2), struck out last sentence which read as follows: “It is not an offense under paragraph (2) or (3) of this subsection in the case of a person having accessed a computer with authorization and using the opportunity such access provides for purposes to which such access does not extend, if the using of such opportunity consists only of the use of the computer.”
+1986—Subsec. (a). Pub. L. 99–474, § 2(b)(2), struck out last sentence which read as follows: “It is not an offense under paragraph (2) or (3) of this subsection in the case of a person having accessed a computer with authorization and using the opportunity such access provides for purposes to which such access does not extend, if the using of such opportunity consists only of the use of the computer.”
 
-Subsec. (a)(1). Pub. L. 99–474, § 2(c), substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”.
+Subsec. (a)(1). Pub. L. 99–474, § 2(c), substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”.
 
-Subsec. (a)(2). Pub. L. 99–474, § 2(a), (c), substituted “intentionally” for “knowingly”, substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”, struck out “as such terms are defined in the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.),” after “financial institution,”, inserted “or of a card issuer as defined in section 1602(n) of title 15,” and struck out “or” appearing at end.
+Subsec. (a)(2). Pub. L. 99–474, § 2(a), (c), substituted “intentionally” for “knowingly”, substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”, struck out “as such terms are defined in the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.),” after “financial institution,”, inserted “or of a card issuer as defined in section 1602(n) of title 15,” and struck out “or” appearing at end.
 
-Subsec. (a)(3). Pub. L. 99–474, § 2(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “knowingly accesses a computer without authorization, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend, and by means of such conduct knowingly uses, modifies, destroys, or discloses information in, or prevents authorized use of, such computer, if such computer is operated for or on behalf of the Government of the United States and such conduct affects such operation;”.
+Subsec. (a)(3). Pub. L. 99–474, § 2(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “knowingly accesses a computer without authorization, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend, and by means of such conduct knowingly uses, modifies, destroys, or discloses information in, or prevents authorized use of, such computer, if such computer is operated for or on behalf of the Government of the United States and such conduct affects such operation;”.
 
-Subsec. (a)(4) to (6). Pub. L. 99–474, § 2(d), added pars. (4) to (6).
+Subsec. (a)(4) to (6). Pub. L. 99–474, § 2(d), added pars. (4) to (6).
 
-Subsec. (b). Pub. L. 99–474, § 2(e), struck out par. (1) designation and par. (2) which provided a penalty for persons conspiring to commit an offense under subsec. (a).
+Subsec. (b). Pub. L. 99–474, § 2(e), struck out par. (1) designation and par. (2) which provided a penalty for persons conspiring to commit an offense under subsec. (a).
 
-Subsec. (c). Pub. L. 99–474, § 2(f)(9), substituted “(b)” for “(b)(1)” in introductory text.
+Subsec. (c). Pub. L. 99–474, § 2(f)(9), substituted “(b)” for “(b)(1)” in introductory text.
 
-Subsec. (c)(1)(A). Pub. L. 99–474, § 2(f)(1), substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained by the offense”.
+Subsec. (c)(1)(A). Pub. L. 99–474, § 2(f)(1), substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained by the offense”.
 
-Subsec. (c)(1)(B). Pub. L. 99–474, § 2(f)(2), substituted “under this title” for “of not more than the greater of $100,000 or twice the value obtained by the offense”.
+Subsec. (c)(1)(B). Pub. L. 99–474, § 2(f)(2), substituted “under this title” for “of not more than the greater of $100,000 or twice the value obtained by the offense”.
 
-Subsec. (c)(2)(A). Pub. L. 99–474, § 2(f)(3), (4), substituted “under this title” for “of not more than the greater of $5,000 or twice the value obtained or loss created by the offense” and inserted reference to subsec. (a)(6).
+Subsec. (c)(2)(A). Pub. L. 99–474, § 2(f)(3), (4), substituted “under this title” for “of not more than the greater of $5,000 or twice the value obtained or loss created by the offense” and inserted reference to subsec. (a)(6).
 
-Subsec. (c)(2)(B). Pub. L. 99–474, § 2(f)(3), (5)–(7), substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained or loss created by the offense”, “not more than” for “not than”, inserted reference to subsec. (a)(6), and substituted “; and” for the period at end of subpar. (B).
+Subsec. (c)(2)(B). Pub. L. 99–474, § 2(f)(3), (5)–(7), substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained or loss created by the offense”, “not more than” for “not than”, inserted reference to subsec. (a)(6), and substituted “; and” for the period at end of subpar. (B).
 
-Subsec. (c)(3). Pub. L. 99–474, § 2(f)(8), added par. (3).
+Subsec. (c)(3). Pub. L. 99–474, § 2(f)(8), added par. (3).
 
-Subsec. (e). Pub. L. 99–474, § 2(g), substituted a dash for the comma after “As used in this section”, realigned remaining portion of subsection, inserted “(1)” before “the term”, substituted a semicolon for the period at the end, and added pars. (2) to (7).
+Subsec. (e). Pub. L. 99–474, § 2(g), substituted a dash for the comma after “As used in this section”, realigned remaining portion of subsection, inserted “(1)” before “the term”, substituted a semicolon for the period at the end, and added pars. (2) to (7).
 
-Subsec. (f). Pub. L. 99–474, § 2(h), added subsec. (f).
+Subsec. (f). Pub. L. 99–474, § 2(h), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2083,9 +2083,9 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 **Reports to Congress**
 
-Pub. L. 98–473, title II, § 2103, Oct. 12, 1984, 98 Stat. 2192, directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
+Pub. L. 98–473, title II, § 2103, Oct. 12, 1984, 98 Stat. 2192, directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 
-## § 1031. Major fraud against the United States
+## § 1031. Major fraud against the United States
 
 **(a)** Whoever knowingly executes, or attempts to execute, any scheme or artifice with the intent—
 
@@ -2137,23 +2137,23 @@ in any grant, contract, subcontract, subsidy, loan, guarantee, insurance, or oth
 
 **(2)** was not a participant in the unlawful activity that is the subject of said prosecution, may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney’s fees.
 
-(Added Pub. L. 100–700, § 2(a), Nov. 19, 1988, 102 Stat. 4631; amended Pub. L. 101–123, § 2(a), Oct. 23, 1989, 103 Stat. 759; Pub. L. 103–322, title XXXIII, § 330002(a), (f), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 111–21, § 2(d), May 20, 2009, 123 Stat. 1618.)
+(Added Pub. L. 100–700, § 2(a), Nov. 19, 1988, 102 Stat. 4631; amended Pub. L. 101–123, § 2(a), Oct. 23, 1989, 103 Stat. 759; Pub. L. 103–322, title XXXIII, § 330002(a), (f), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 111–21, § 2(d), May 20, 2009, 123 Stat. 1618.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 **Amendments**
 
 2009—Subsec. (a). Pub. L. 111–21, in concluding provisions, inserted “any grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, including through the Troubled Asset Relief Program, an economic stimulus, recovery or rescue plan provided by the Government, or the Government’s purchase of any troubled asset as defined in the Emergency Economic Stabilization Act of 2008, or in” before “any procurement”, substituted “such grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance” for “the contract, subcontract”, and struck out “for such property or services” before “is $1,000,000”.
 
-1994—Subsec. (g). Pub. L. 103–322, § 330002(f), redesignated second subsec. (g) as (h).
+1994—Subsec. (g). Pub. L. 103–322, § 330002(f), redesignated second subsec. (g) as (h).
 
-Subsec. (g)(2)(A). Pub. L. 103–322, § 330002(a), substituted “a Government” for “a government”.
+Subsec. (g)(2)(A). Pub. L. 103–322, § 330002(a), substituted “a Government” for “a government”.
 
-Subsec. (h). Pub. L. 103–322, § 330002(f), redesignated second subsec. (g) as (h).
+Subsec. (h). Pub. L. 103–322, § 330002(f), redesignated second subsec. (g) as (h).
 
 1989—Subsec. (g). Pub. L. 101–123 added, after subsec. (f), subsec. (g) relating to payments by the Attorney General.
 
@@ -2161,9 +2161,9 @@ Subsec. (h). Pub. L. 103–322, § 330002(f), redesignated second subsec. (g) 
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–123, § 2(b), Oct. 23, 1989, 103 Stat. 759, provided that: “The amendment made by this section [amending this section] shall apply to contracts entered into on or after the date of the enactment of this Act [Oct. 23, 1989].”
+Pub. L. 101–123, § 2(b), Oct. 23, 1989, 103 Stat. 759, provided that: “The amendment made by this section [amending this section] shall apply to contracts entered into on or after the date of the enactment of this Act [Oct. 23, 1989].”
 
-## § 1032. Concealment of assets from conservator, receiver, or liquidating agent
+## § 1032. Concealment of assets from conservator, receiver, or liquidating agent
 
 Whoever—
 
@@ -2175,7 +2175,7 @@ Whoever—
 
 shall be fined under this title or imprisoned not more than 5 years, or both.
 
-(Added Pub. L. 101–647, title XXV, § 2501(a), Nov. 29, 1990, 104 Stat. 4859; amended Pub. L. 107–273, div. B, title IV, § 4002(b)(13), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 111–203, title II, § 211(a), (b), title III, § 377(7), July 21, 2010, 124 Stat. 1514, 1569.)
+(Added Pub. L. 101–647, title XXV, § 2501(a), Nov. 29, 1990, 104 Stat. 4859; amended Pub. L. 107–273, div. B, title IV, § 4002(b)(13), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 111–203, title II, § 211(a), (b), title III, § 377(7), July 21, 2010, 124 Stat. 1514, 1569.)
 
 **Editorial Notes**
 
@@ -2183,15 +2183,15 @@ shall be fined under this title or imprisoned not more than 5 years, or both.
 
 Sections 11, 12, and 13 of the Federal Deposit Insurance Act, referred to in par. (1), are classified to sections 1821, 1822, and 1823, respectively, of Title 12, Banks and Banking.
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in par. (1), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in par. (1), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 211(b), struck out “of financial institution” after “agent” in section catchline.
+2010—Pub. L. 111–203, § 211(b), struck out “of financial institution” after “agent” in section catchline.
 
-Par. (1). Pub. L. 111–203, § 377(7), struck out “the Resolution Trust Corporation,” after “Federal Deposit Insurance Act,” and “or the Director of the Office of Thrift Supervision” after “Comptroller of the Currency”.
+Par. (1). Pub. L. 111–203, § 377(7), struck out “the Resolution Trust Corporation,” after “Federal Deposit Insurance Act,” and “or the Director of the Office of Thrift Supervision” after “Comptroller of the Currency”.
 
-Pub. L. 111–203, § 211(a), inserted “the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act,” before “or the National Credit”.
+Pub. L. 111–203, § 211(a), inserted “the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act,” before “or the National Credit”.
 
 2002—Par. (1). Pub. L. 107–273 substituted “13” for “13,”.
 
@@ -2203,7 +2203,7 @@ Amendment by section 211(a), (b) of Pub. L. 111–203 effective 1 day after July
 
 Amendment by section 377(7) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-## § 1033. Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce
+## § 1033. Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce
 
 **(a)**
 
@@ -2271,7 +2271,7 @@ by an insurer, including all acts necessary or incidental to such writing or rei
 
 **(4)** the term “State” includes any State, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(Added Pub. L. 103–322, title XXXII, § 320603(a), Sept. 13, 1994, 108 Stat. 2115.)
+(Added Pub. L. 103–322, title XXXII, § 320603(a), Sept. 13, 1994, 108 Stat. 2115.)
 
 **Executive Documents**
 
@@ -2279,15 +2279,15 @@ by an insurer, including all acts necessary or incidental to such writing or rei
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 1034. Civil penalties and injunctions for violations of section 1033
+## § 1034. Civil penalties and injunctions for violations of section 1033
 
 **(a)** The Attorney General may bring a civil action in the appropriate United States district court against any person who engages in conduct constituting an offense under section 1033 and, upon proof of such conduct by a preponderance of the evidence, such person shall be subject to a civil penalty of not more than $50,000 for each violation or the amount of compensation which the person received or offered for the prohibited conduct, whichever amount is greater. If the offense has contributed to the decision of a court of appropriate jurisdiction to issue an order directing the conservation, rehabilitation, or liquidation of an insurer, such penalty shall be remitted to the appropriate regulatory official for the benefit of the policyholders, claimants, and creditors of such insurer. The imposition of a civil penalty under this subsection does not preclude any other criminal or civil statutory, common law, or administrative remedy, which is available by law to the United States or any other person.
 
 **(b)** If the Attorney General has reason to believe that a person is engaged in conduct constituting an offense under section 1033, the Attorney General may petition an appropriate United States district court for an order prohibiting that person from engaging in such conduct. The court may issue an order prohibiting that person from engaging in such conduct if the court finds that the conduct constitutes such an offense. The filing of a petition under this section does not preclude any other remedy which is available by law to the United States or any other person.
 
-(Added Pub. L. 103–322, title XXXII, § 320603(a), Sept. 13, 1994, 108 Stat. 2118.)
+(Added Pub. L. 103–322, title XXXII, § 320603(a), Sept. 13, 1994, 108 Stat. 2118.)
 
-## § 1035. False statements relating to health care matters
+## § 1035. False statements relating to health care matters
 
 **(a)** Whoever, in any matter involving a health care benefit program, knowingly and willfully—
 
@@ -2299,9 +2299,9 @@ in connection with the delivery of or payment for health care benefits, items, o
 
 **(b)** As used in this section, the term “health care benefit program” has the meaning given such term in section 24(b) of this title.
 
-(Added Pub. L. 104–191, title II, § 244(a), Aug. 21, 1996, 110 Stat. 2017.)
+(Added Pub. L. 104–191, title II, § 244(a), Aug. 21, 1996, 110 Stat. 2017.)
 
-## § 1036. Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport or seaport
+## § 1036. Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport or seaport
 
 **(a)** Whoever, by any fraud or false pretense, enters or attempts to enter—
 
@@ -2327,21 +2327,21 @@ shall be punished as provided in subsection (b) of this section.
 
 **(2)** the term “airport” has the meaning given such term in section 47102 of title 49.
 
-(Added Pub. L. 106–547, § 2(a), Dec. 19, 2000, 114 Stat. 2738; amended Pub. L. 109–177, title III, § 302(a), Mar. 9, 2006, 120 Stat. 233.)
+(Added Pub. L. 106–547, § 2(a), Dec. 19, 2000, 114 Stat. 2738; amended Pub. L. 109–177, title III, § 302(a), Mar. 9, 2006, 120 Stat. 233.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–177, § 302(a)(4), substituted “any airport or seaport” for “any airport” in section catchline.
+2006—Pub. L. 109–177, § 302(a)(4), substituted “any airport or seaport” for “any airport” in section catchline.
 
-Subsec. (a)(3), (4). Pub. L. 109–177, § 302(a)(1), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 109–177, § 302(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(1). Pub. L. 109–177, § 302(a)(2), substituted “10 years” for “5 years”.
+Subsec. (b)(1). Pub. L. 109–177, § 302(a)(2), substituted “10 years” for “5 years”.
 
-Subsec. (c)(1). Pub. L. 109–177, § 302(a)(3), inserted “, captain of the seaport,” after “airport authority”.
+Subsec. (c)(1). Pub. L. 109–177, § 302(a)(3), inserted “, captain of the seaport,” after “airport authority”.
 
-## § 1037. Fraud and related activity in connection with electronic mail
+## § 1037. Fraud and related activity in connection with electronic mail
 
 **(a) In General.—** Whoever, in or affecting interstate or foreign commerce, knowingly—
 
@@ -2401,7 +2401,7 @@ or conspires to do so, shall be punished as provided in subsection (b).
 
 **(4) Other terms.—** Any other term has the meaning given that term by section 3 of the CAN-SPAM Act of 2003.
 
-(Added Pub. L. 108–187, § 4(a)(1), Dec. 16, 2003, 117 Stat. 2703.)
+(Added Pub. L. 108–187, § 4(a)(1), Dec. 16, 2003, 117 Stat. 2703.)
 
 **Editorial Notes**
 
@@ -2417,7 +2417,7 @@ Section 3 of the CAN-SPAM Act of 2003, referred to in subsec. (d)(4), is classif
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of Title 15, Commerce and Trade.
 
-## § 1038. False information and hoaxes
+## § 1038. False information and hoaxes
 
 **(a) Criminal Violation.—**
 
@@ -2449,9 +2449,9 @@ Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as 
 
 **(d) Activities of Law Enforcement.—** This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or political subdivision of a State, or of an intelligence agency of the United States.
 
-(Added Pub. L. 108–458, title VI, § 6702(a), Dec. 17, 2004, 118 Stat. 3764.)
+(Added Pub. L. 108–458, title VI, § 6702(a), Dec. 17, 2004, 118 Stat. 3764.)
 
-## § 1039. Fraud and related activity in connection with obtaining confidential phone records information of a covered entity
+## § 1039. Fraud and related activity in connection with obtaining confidential phone records information of a covered entity
 
 **(a) Criminal Violation.—** Whoever, in interstate or foreign commerce, knowingly and intentionally obtains, or attempts to obtain, confidential phone records information of a covered entity, by—
 
@@ -2509,7 +2509,7 @@ shall be fined under this title, imprisoned for not more than 10 years, or both.
 
 **(4) IP-enabled voice service.—** The term “IP-enabled voice service” means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted through customer premises equipment using TCP/IP protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.
 
-(Added Pub. L. 109–476, § 3(a), Jan. 12, 2007, 120 Stat. 3569.)
+(Added Pub. L. 109–476, § 3(a), Jan. 12, 2007, 120 Stat. 3569.)
 
 **Editorial Notes**
 
@@ -2521,7 +2521,7 @@ Section 222(d) of the Communications Act of 1934, referred to in subsecs. (b)(2)
 
 **Findings**
 
-Pub. L. 109–476, § 2, Jan. 12, 2007, 120 Stat. 3568, provided that:
+Pub. L. 109–476, § 2, Jan. 12, 2007, 120 Stat. 3568, provided that:
 
 > “Congress finds that—
 
@@ -2541,7 +2541,7 @@ Pub. L. 109–476, § 2, Jan. 12, 2007, 120 Stat. 3568, provided that:
 
 > **“(5)** the unauthorized disclosure of telephone records not only assaults individual privacy but, in some instances, may further acts of domestic violence or stalking, compromise the personal safety of law enforcement officers, their families, victims of crime, witnesses, or confidential informants, and undermine the integrity of law enforcement investigations.”
 
-## § 1040. Fraud in connection with major disaster or emergency benefits
+## § 1040. Fraud in connection with major disaster or emergency benefits
 
 **(a)** Whoever, in a circumstance described in subsection (b) of this section, knowingly—
 
@@ -2561,4 +2561,4 @@ in any matter involving any benefit authorized, transported, transmitted, transf
 
 **(c)** In this section, the term “benefit” means any record, voucher, payment, money or thing of value, good, service, right, or privilege provided by the United States, a State or local government, or other entity.
 
-(Added Pub. L. 110–179, § 2(a), Jan. 7, 2008, 121 Stat. 2556.)
+(Added Pub. L. 110–179, § 2(a), Jan. 7, 2008, 121 Stat. 2556.)

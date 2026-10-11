@@ -19,7 +19,7 @@ See notes preceding section 1 of Title 50, War and National Defense.
 
 ## SUBCHAPTER I—WAR MATERIALS
 
-### § 401. Illegal exportation of war materials
+### § 401. Illegal exportation of war materials
 
 **(a) Seizure and forfeiture of materials and carriers**
 
@@ -33,7 +33,7 @@ All provisions of law relating to seizure, summary and judicial forfeiture and c
 
 Arms and munitions of war forfeited under subsection (b) of this section shall be delivered to the Secretary of Defense for such use or disposition as he may deem in the public interest, or, in the event that the Secretary of Defense refuses to accept such arms and munitions of war, they shall be sold or otherwise disposed of as prescribed under existing law in the case of forfeitures for violation of the customs laws.
 
-(June 15, 1917, ch. 30, title VI, § 1, 40 Stat. 223; June 17, 1930, ch. 497, title IV, § 523, 46 Stat. 740; Aug. 13, 1953, ch. 434, § 1, 67 Stat. 577; Pub. L. 105–119, title II, § 211(a), Nov. 26, 1997, 111 Stat. 2487.)
+(June 15, 1917, ch. 30, title VI, § 1, 40 Stat. 223; June 17, 1930, ch. 497, title IV, § 523, 46 Stat. 740; Aug. 13, 1953, ch. 434, § 1, 67 Stat. 577; Pub. L. 105–119, title II, § 211(a), Nov. 26, 1997, 111 Stat. 2487.)
 
 **Editorial Notes**
 
@@ -61,23 +61,23 @@ Sec. 2. The authority conferred upon the Attorney General by section 1 of this o
 
 Dwight D. Eisenhower.
 
-### §§ 402 to 405. Repealed. Aug. 13, 1953, ch. 434, § 2, 67 Stat. 577
+### §§ 402 to 405. Repealed. Aug. 13, 1953, ch. 434, § 2, 67 Stat. 577
 
-Section 402, act June 15, 1917, ch. 30, title VI, § 2, 40 Stat. 224, related to issuance of warrant for detention of seized property.
+Section 402, act June 15, 1917, ch. 30, title VI, § 2, 40 Stat. 224, related to issuance of warrant for detention of seized property.
 
-Section 403, act June 15, 1917, ch. 30, title VI, § 3, 40 Stat. 224, related to filing petition for restoration of seized property.
+Section 403, act June 15, 1917, ch. 30, title VI, § 3, 40 Stat. 224, related to filing petition for restoration of seized property.
 
-Section 404, acts June 15, 1917, ch. 30, title VI, § 4, 40 Stat. 224; Mar. 1, 1929, ch. 420, 45 Stat. 1423, related to institution of libel proceedings and sale of seized property.
+Section 404, acts June 15, 1917, ch. 30, title VI, § 4, 40 Stat. 224; Mar. 1, 1929, ch. 420, 45 Stat. 1423, related to institution of libel proceedings and sale of seized property.
 
-Section 405, act June 15, 1917, ch. 30, title VI, § 5, 40 Stat. 224, related to method of trial and bond for redelivery.
+Section 405, act June 15, 1917, ch. 30, title VI, § 5, 40 Stat. 224, related to method of trial and bond for redelivery.
 
 For subject matter of sections 402 to 405 of this title, see section 401 of this title.
 
-### § 406. Interference with foreign trade
+### § 406. Interference with foreign trade
 
 Except in those cases in which the exportation of arms and munitions of war or other articles is forbidden by proclamation or otherwise by the President, as provided in section 401 of this title, nothing herein contained shall be construed to extend to, or interfere with any trade in such commodities, conducted with any foreign port or place wheresoever, or with any other trade which might have been lawfully carried on before June 15, 1917, under the law of nations, or under the treaties or conventions entered into by the United States, or under the laws thereof.
 
-(June 15, 1917, ch. 30, title VI, § 6, 40 Stat. 225.)
+(June 15, 1917, ch. 30, title VI, § 6, 40 Stat. 225.)
 
 **Editorial Notes**
 
@@ -85,15 +85,15 @@ Except in those cases in which the exportation of arms and munitions of war or o
 
 Herein, referred to in text, means act June 15, 1917, ch. 30, title VI, 40 Stat. 223, which enacted sections 31 to 39, 98, 130 to 133, 288, 343 to 346, 381, 502, 535, 536, 574, and 611 to 633 of former Title 18, Criminal Code and Criminal Procedure, sections 213, 231 to 233, 235, 401 to 408a, 462, and 465 of this title, and sections 30 to 42, former section 191, former sections 192 to 194, and section 195 of Title 50, War and National Defense, and amended sections 25, 27, and 349 of former Title 18. For complete classification of this Act to the Code, see Tables.
 
-### § 407. Repealed. Aug. 13, 1953, ch. 434, § 2, 67 Stat. 577
+### § 407. Repealed. Aug. 13, 1953, ch. 434, § 2, 67 Stat. 577
 
-Section, act June 15, 1917, ch. 30, title VI, § 7, 40 Stat. 225, related to President’s discretion to release seized property. See section 401 of this title.
+Section, act June 15, 1917, ch. 30, title VI, § 7, 40 Stat. 225, related to President’s discretion to release seized property. See section 401 of this title.
 
-### § 408. Use of land and naval forces to prevent exportation
+### § 408. Use of land and naval forces to prevent exportation
 
 The President may employ such part of the land or naval forces of the United States as he may deem necessary to carry out the purposes of sections 401 to 408 of this title.
 
-(June 15, 1917, ch. 30, title VI, § 8, 40 Stat. 225.)
+(June 15, 1917, ch. 30, title VI, § 8, 40 Stat. 225.)
 
 **Executive Documents**
 
@@ -101,11 +101,11 @@ The President may employ such part of the land or naval forces of the United Sta
 
 For transfer of certain functions insofar as they pertain to the Air Force, and to the extent that they were not previously transferred to the Secretary of the Air Force from the Secretary of the Army, see Secretary of Defense Transfer Order No. 40 [App. A(1)], July 22, 1949.
 
-### § 408a. “United States” defined
+### § 408a. “United States” defined
 
 The term “United States” as used in this Act includes the Canal Zone and all territory and waters, continental or insular, subject to the jurisdiction of the United States.
 
-(June 15, 1917, ch. 30, title XIII, § 1, 40 Stat. 231.)
+(June 15, 1917, ch. 30, title XIII, § 1, 40 Stat. 231.)
 
 **Editorial Notes**
 
@@ -115,13 +115,13 @@ This Act, referred to in text, means act June 15, 1917, ch. 30, 40 Stat. 217, wh
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of this title.
 
-### §§ 409, 410. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948
+### §§ 409, 410. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948
 
-Section 409, act Jan. 31, 1922, ch. 44, § 1, 42 Stat. 361, related to prohibition against exportation of arms to American countries or countries under American jurisdiction in a state of domestic violence. See section 1934 of this title.
+Section 409, act Jan. 31, 1922, ch. 44, § 1, 42 Stat. 361, related to prohibition against exportation of arms to American countries or countries under American jurisdiction in a state of domestic violence. See section 1934 of this title.
 
-Section 410, act Jan. 31, 1922, ch. 44, § 2, 42 Stat. 361, related to penalties. See section 1934 of this title.
+Section 410, act Jan. 31, 1922, ch. 44, § 2, 42 Stat. 361, related to penalties. See section 1934 of this title.
 
-### §§ 411 to 419. Omitted
+### §§ 411 to 419. Omitted
 
 **Editorial Notes**
 
@@ -129,71 +129,71 @@ Section 410, act Jan. 31, 1922, ch. 44, § 2, 42 Stat. 361, related to penalti
 
 Sections 411, 412, and 413 to 419, popularly known as the Lend-Lease Act, terminated not later than June 30, 1946, pursuant to section 412 of this title.
 
-Section 411, act Mar. 11, 1941, ch. 11, § 2, 55 Stat. 31, defined “defense article” and “defense information” for purpose of lease, loan, etc., of war materials in interest of United States defense.
+Section 411, act Mar. 11, 1941, ch. 11, § 2, 55 Stat. 31, defined “defense article” and “defense information” for purpose of lease, loan, etc., of war materials in interest of United States defense.
 
-Section 412, acts Mar. 11, 1941, ch. 11, § 3, 55 Stat. 31; Mar. 11, 1943, ch. 15, 57 Stat. 20; May 17, 1944, ch. 198, §§ 1, 2, 58 Stat. 222, 223; Apr. 16, 1945, ch. 61, §§ 1, 2, 59 Stat. 52, provided for procurement for and transfer of defense articles to other countries, repairs, limitation on amount, termination of powers after June 30, 1946, or after passage of concurrent resolution by both Houses before June 30, 1946, whichever is the earlier, naval convoys, and combat area navigation.
+Section 412, acts Mar. 11, 1941, ch. 11, § 3, 55 Stat. 31; Mar. 11, 1943, ch. 15, 57 Stat. 20; May 17, 1944, ch. 198, §§ 1, 2, 58 Stat. 222, 223; Apr. 16, 1945, ch. 61, §§ 1, 2, 59 Stat. 52, provided for procurement for and transfer of defense articles to other countries, repairs, limitation on amount, termination of powers after June 30, 1946, or after passage of concurrent resolution by both Houses before June 30, 1946, whichever is the earlier, naval convoys, and combat area navigation.
 
-Section 412a, act Mar. 18, 1943, ch. 17, title I, § 1, 57 Stat. 25, prohibited disposition of merchant vessels under sections 411 to 419 of this title except by lease for duration of war.
+Section 412a, act Mar. 18, 1943, ch. 17, title I, § 1, 57 Stat. 25, prohibited disposition of merchant vessels under sections 411 to 419 of this title except by lease for duration of war.
 
-Section 413, act Mar. 11, 1941, ch. 11, § 4, 55 Stat. 32, provided for contract restrictions against disposal of transferred articles by transferee governments.
+Section 413, act Mar. 11, 1941, ch. 11, § 4, 55 Stat. 32, provided for contract restrictions against disposal of transferred articles by transferee governments.
 
-Section 414, act Mar. 11, 1941, ch. 11, § 5, 55 Stat. 32, provided for information regarding articles exported and reports to Congress. Section 5(b) of act Mar. 11, 1941, ch. 11, 55 Stat. 32, formerly classified to section 414(b) of this title, provided for reports with respect to operations under the Lend-Lease Act, and was repealed by Pub. L. 89–348, § 1(19), Nov. 8, 1965, 79 Stat. 1311.
+Section 414, act Mar. 11, 1941, ch. 11, § 5, 55 Stat. 32, provided for information regarding articles exported and reports to Congress. Section 5(b) of act Mar. 11, 1941, ch. 11, 55 Stat. 32, formerly classified to section 414(b) of this title, provided for reports with respect to operations under the Lend-Lease Act, and was repealed by Pub. L. 89–348, § 1(19), Nov. 8, 1965, 79 Stat. 1311.
 
-Section 415, acts Mar. 11, 1941, ch. 11, § 6, 55 Stat. 33; Mar. 11, 1943, ch. 15, 57 Stat. 20; May 17, 1944, ch. 198, § 1, 58 Stat. 222; Apr. 16, 1945, ch. 61, § 1, 59 Stat. 52; July 25, 1947, ch. 327, § 1, 61 Stat. 449, authorized appropriations.
+Section 415, acts Mar. 11, 1941, ch. 11, § 6, 55 Stat. 33; Mar. 11, 1943, ch. 15, 57 Stat. 20; May 17, 1944, ch. 198, § 1, 58 Stat. 222; Apr. 16, 1945, ch. 61, § 1, 59 Stat. 52; July 25, 1947, ch. 327, § 1, 61 Stat. 449, authorized appropriations.
 
-Section 416, act Mar. 11, 1941, ch. 11, § 7, 55 Stat. 33, provided for protection of patent rights.
+Section 416, act Mar. 11, 1941, ch. 11, § 7, 55 Stat. 33, provided for protection of patent rights.
 
-Section 417, act Mar. 11, 1941, ch. 11, § 8, 55 Stat. 33, provided for acquisition of war materials from foreign governments.
+Section 417, act Mar. 11, 1941, ch. 11, § 8, 55 Stat. 33, provided for acquisition of war materials from foreign governments.
 
-Section 418, act Mar. 11, 1941, ch. 11, § 9, 55 Stat. 33, authorized executive promulgation of rules and regulations and delegation of powers.
+Section 418, act Mar. 11, 1941, ch. 11, § 9, 55 Stat. 33, authorized executive promulgation of rules and regulations and delegation of powers.
 
-Section 419, act Mar. 11, 1941, ch. 11, § 10, 55 Stat. 33, related to effect of act Mar. 11, 1941 on existing laws relating to use of land and naval forces.
+Section 419, act Mar. 11, 1941, ch. 11, § 10, 55 Stat. 33, related to effect of act Mar. 11, 1941 on existing laws relating to use of land and naval forces.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Additional Defense Aid to Other Countries; Lease of Certain Ships, Barges, Etc.**
 
-Acts Feb. 7, 1942, ch. 46, title III, § 301, 56 Stat. 82; Oct. 26, 1942, ch. 629, title I, § 103, 56 Stat. 994; Feb. 19, 1943, ch. 1, § 4, 57 Stat. 4, June 26, 1943, ch. 147, § 118, 57 Stat. 217; June 22, 1944, ch. 269, § 121, 58 Stat. 322; May 29, 1945, ch. 130, § 119, 59 Stat. 222, provided for additional defense aid to countries deemed vital to the defense of the United States and for the lease of ships for periods not extending beyond the termination of the national emergency.
+Acts Feb. 7, 1942, ch. 46, title III, § 301, 56 Stat. 82; Oct. 26, 1942, ch. 629, title I, § 103, 56 Stat. 994; Feb. 19, 1943, ch. 1, § 4, 57 Stat. 4, June 26, 1943, ch. 147, § 118, 57 Stat. 217; June 22, 1944, ch. 269, § 121, 58 Stat. 322; May 29, 1945, ch. 130, § 119, 59 Stat. 222, provided for additional defense aid to countries deemed vital to the defense of the United States and for the lease of ships for periods not extending beyond the termination of the national emergency.
 
 **Limitation on Appropriations**
 
-Act Apr. 28, 1942, ch. 247, title II, § 201, 56 Stat. 233, provided that limitation of $2,500,000,000 shall apply to all appropriations made to the Navy Department since Mar. 11, 1941.
+Act Apr. 28, 1942, ch. 247, title II, § 201, 56 Stat. 233, provided that limitation of $2,500,000,000 shall apply to all appropriations made to the Navy Department since Mar. 11, 1941.
 
 **Reduction in Value of Defense Articles**
 
-The value of defense articles was reduced to $800,000,000 by act Dec. 17, 1941, ch. 591, title I, § 102, 55 Stat. 813, and as thus limited was made inapplicable to the War Department after Dec. 17, 1941.
+The value of defense articles was reduced to $800,000,000 by act Dec. 17, 1941, ch. 591, title I, § 102, 55 Stat. 813, and as thus limited was made inapplicable to the War Department after Dec. 17, 1941.
 
 **Definitions**
 
-Act Mar. 5, 1942, ch. 141, title III, § 303, 56 Stat. 131, provided that the term “defense article” shall be deemed to include defense information and services, and the expenses in connection with the procurement or supplying of defense articles, information, and services.
+Act Mar. 5, 1942, ch. 141, title III, § 303, 56 Stat. 131, provided that the term “defense article” shall be deemed to include defense information and services, and the expenses in connection with the procurement or supplying of defense articles, information, and services.
 
-### § 420. Repealed. July 25, 1947, ch. 327, § 1, 61 Stat. 449
+### § 420. Repealed. July 25, 1947, ch. 327, § 1, 61 Stat. 449
 
-Section, acts May 2, 1941, ch. 84, § 5, 55 Stat. 150; June 16, 1942, ch. 416, 56 Stat. 370, related to application of sections 1119a and 1119b of former Title 46, Shipping, to functions of the Maritime Commission under sections 411, 412 and 413 to 419 of this title.
+Section, acts May 2, 1941, ch. 84, § 5, 55 Stat. 150; June 16, 1942, ch. 416, 56 Stat. 370, related to application of sections 1119a and 1119b of former Title 46, Shipping, to functions of the Maritime Commission under sections 411, 412 and 413 to 419 of this title.
 
-### § 421. Contracts by Government agencies for defense articles, services, etc., for foreign governments in interests of United States
+### § 421. Contracts by Government agencies for defense articles, services, etc., for foreign governments in interests of United States
 
 The President may, from time to time, when he deems it in the interest of national defense, authorize the head of any department or agency of the Government, to enter into contracts for the procurement of defense articles, information, or services for the government of any country whose defense the President deems vital to the defense of the United States, to the extent that such government agrees to pay the United States for such defense articles, information, or services prior to the receipt thereof and to make such payments from time to time as the President may require to protect the interests of the United States; and, upon payment of the full cost, the President may dispose of such articles, information, or services to such government: *Provided*, That the total amount of the outstanding contracts under this section, less the amounts which have been paid to the United States under such contracts, shall at no time exceed $600,000,000.
 
-(Oct. 28, 1941, ch. 460, title I, § 102, 55 Stat. 746.)
+(Oct. 28, 1941, ch. 460, title I, § 102, 55 Stat. 746.)
 
-### § 422. Retention for United States of defense articles procured for foreign governments
+### § 422. Retention for United States of defense articles procured for foreign governments
 
 Any defense article procured pursuant to section 421 of this title shall be retained by or transferred to and for the use of such department or agency of the United States as the President may determine, in lieu of being disposed of to a foreign government, whenever in the judgment of the President the defense of the United States will be best served thereby.
 
-(Oct. 28, 1941, ch. 460, title I, § 103, 55 Stat. 747.)
+(Oct. 28, 1941, ch. 460, title I, § 103, 55 Stat. 747.)
 
-### § 423. Omitted
+### § 423. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 14, 1943, ch. 122, § 2, 57 Stat. 152, related to retention for defense of United States of certain articles, information or service procured for foreign governments from funds appropriated by act June 14, 1943 or prior acts appropriating funds to the President for such purposes.
+Section, act June 14, 1943, ch. 122, § 2, 57 Stat. 152, related to retention for defense of United States of certain articles, information or service procured for foreign governments from funds appropriated by act June 14, 1943 or prior acts appropriating funds to the President for such purposes.
 
 ## SUBCHAPTER II—NEUTRALITY
 
-### § 441. Proclamation of state of war between foreign states
+### § 441. Proclamation of state of war between foreign states
 
 **(a) Issuance of proclamation**
 
@@ -203,23 +203,23 @@ Whenever the President, or the Congress by concurrent resolution, shall find tha
 
 Whenever the state of war which shall have caused the President to issue any proclamation under the authority of this section shall have ceased to exist with respect to any state named in such proclamation, he shall revoke such proclamation with respect to such state.
 
-(Nov. 4, 1939, ch. 2, § 1, 54 Stat. 4.)
+(Nov. 4, 1939, ch. 2, § 1, 54 Stat. 4.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Joint Res. Nov. 4, 1939, ch. 2, § 20, 54 Stat. 12, provided that: “This joint resolution [enacting this subchapter] may be cited as the ‘Neutrality Act of 1939’.”
+Joint Res. Nov. 4, 1939, ch. 2, § 20, 54 Stat. 12, provided that: “This joint resolution [enacting this subchapter] may be cited as the ‘Neutrality Act of 1939’.”
 
 **Repeals**
 
-Joint Res. Nov. 4, 1939, ch. 2, § 19, 54 Stat. 12, provided that: “The joint resolution of August 31, 1935, as amended [sections 245a to 245i of this title], and the joint resolution of January 8, 1937 [ch. 1, 50 Stat. 3], are hereby repealed; but offenses committed and penalties, forfeitures, or liabilities incurred under either of such joint resolutions prior to the date of enactment of this joint resolution [this subchapter] may be prosecuted and punished, and suits and proceedings for violations of either of such joint resolutions or of any rule or regulation issued pursuant thereto may be commenced and prosecuted, in the same manner and with the same effect as if such joint resolutions had not been repealed.”
+Joint Res. Nov. 4, 1939, ch. 2, § 19, 54 Stat. 12, provided that: “The joint resolution of August 31, 1935, as amended [sections 245a to 245i of this title], and the joint resolution of January 8, 1937 [ch. 1, 50 Stat. 3], are hereby repealed; but offenses committed and penalties, forfeitures, or liabilities incurred under either of such joint resolutions prior to the date of enactment of this joint resolution [this subchapter] may be prosecuted and punished, and suits and proceedings for violations of either of such joint resolutions or of any rule or regulation issued pursuant thereto may be commenced and prosecuted, in the same manner and with the same effect as if such joint resolutions had not been repealed.”
 
 Neutrality Act of 1939 not to be deemed repealed or modified in any manner by Joint Res. May 7, 1940, ch. 185, 54 Stat. 179, according to section 3 thereof, which resolution amended section 5(b) of the Trading With the Enemy Act, see section 4305(b) of Title 50, War and National Defense, which resolution approved and confirmed Ex. Ord. No. 8389, amending Ex. Ord. No. 6560, formerly set out as a note under section 95a of Title 12, Banks and Banking, and regulations and general rulings issued by Secretary of Treasury under Ex. Ord. No. 8389.
 
 **Separability**
 
-Joint Res. Nov. 4, 1939, ch. 2, § 17, 54 Stat. 12, provided that: “If any of the provisions of this joint resolution [this subchapter], or the application thereof to any person or circumstance, is held invalid, the remainder of the joint resolution, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Joint Res. Nov. 4, 1939, ch. 2, § 17, 54 Stat. 12, provided that: “If any of the provisions of this joint resolution [this subchapter], or the application thereof to any person or circumstance, is held invalid, the remainder of the joint resolution, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 **Purpose of and Rights Reserved Under Subchapter**
 
@@ -231,11 +231,11 @@ Joint Res. Nov. 4, 1939, ch. 2, 54 Stat. 4, provided in part as follows:
 
 “Whereas the United States hereby expressly reserves the right to repeal, change or modify this [this subchapter] or any other domestic legislation in the interests of the peace, security or welfare of the United States and its people.”
 
-### §§ 442, 443. Repealed. Nov. 17, 1941, ch. 473, § 1, 55 Stat. 764
+### §§ 442, 443. Repealed. Nov. 17, 1941, ch. 473, § 1, 55 Stat. 764
 
-Section 442, Joint Res. Nov. 4, 1939, ch. 2, § 2, 54 Stat. 4, related to commerce with states engaged in armed conflict.
+Section 442, Joint Res. Nov. 4, 1939, ch. 2, § 2, 54 Stat. 4, related to commerce with states engaged in armed conflict.
 
-Section 443, Joint Res. Nov. 4, 1939, ch. 2, § 3, 54 Stat. 7, related to combat areas.
+Section 443, Joint Res. Nov. 4, 1939, ch. 2, § 3, 54 Stat. 7, related to combat areas.
 
 **Executive Documents**
 
@@ -243,27 +243,27 @@ Section 443, Joint Res. Nov. 4, 1939, ch. 2, § 3, 54 Stat. 7, related to comb
 
 Proc. No. 2376, Nov. 4, 1939, 3 p.m., 4 F.R. 4495, 54 Stat. 2673; Proc. No. 2394, Apr. 10, 1940, 5 F.R. 1400, 54 Stat. 2693; Proc. No. 2410, June 11, 1940, 5:20 p.m. E.S.T., 5 F.R. 2209, 54 Stat. 2708, as modified by Proc. No. 2474, Apr. 10, 1941, 6 F.R. 1905, 55 Stat. 1628, defined various combat areas.
 
-### § 444. American Red Cross vessels
+### § 444. American Red Cross vessels
 
 **(a) Transport of officers, American Red Cross personnel, medical personnel, medical supplies, food and clothing**
 
-The provisions of section 442(a) 1
+The provisions of section 442(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall not prohibit the transportation by vessels, unarmed and not under convoy, under charter or other direction and control of the American Red Cross of officers and American Red Cross personnel, medical personnel, and medical supplies, food, and clothing, for the relief of human suffering: *Provided*, That where permission has not been given by the blockading power, no American Red Cross vessel shall enter a port where a blockade by aircraft, surface vessel, or submarine is being attempted through the destruction of vessels, or into a port of any country where such blockade of the whole country is being so attempted: *Provided further*, That such American Red Cross vessel shall be on a mission of mercy only and carrying only Red Cross materials and personnel.
 
 **(b) Transport of refugee children**
 
-The provisions of sections 442(a) and 443 <sup>1</sup> of this title shall not prohibit a vessel, in ballast, unarmed, and not under convoy, and transporting refugee children, under sixteen years of age, from war zones, or combat areas, and shall not prohibit such vessel entering into such war zones or combat areas for this purpose, together with such necessary American citizen adult personnel in charge as may be approved by the Secretary of State, subject to the provisions of the immigration laws, if such vessel is proceeding under safe conduct granted by all of the States named in the proclamations issued under the authority of section 441(a) of this title, and if such vessel has painted on a large scale prominently, distinctly, and unmistakably on each side thereof and upon the superstructure thereof plainly visible from the air an American flag and a statement to the effect that such vessel is a refugee-child rescue ship of the United States or under United States registry: *Provided*, That every such child so brought into the United States shall, previous to departure from the port of embarkation, have been so sponsored by some responsible American person, natural or corporate, that he will not become a public charge.
+The provisions of sections 442(a) and 443 <sup>1</sup> of this title shall not prohibit a vessel, in ballast, unarmed, and not under convoy, and transporting refugee children, under sixteen years of age, from war zones, or combat areas, and shall not prohibit such vessel entering into such war zones or combat areas for this purpose, together with such necessary American citizen adult personnel in charge as may be approved by the Secretary of State, subject to the provisions of the immigration laws, if such vessel is proceeding under safe conduct granted by all of the States named in the proclamations issued under the authority of section 441(a) of this title, and if such vessel has painted on a large scale prominently, distinctly, and unmistakably on each side thereof and upon the superstructure thereof plainly visible from the air an American flag and a statement to the effect that such vessel is a refugee-child rescue ship of the United States or under United States registry: *Provided*, That every such child so brought into the United States shall, previous to departure from the port of embarkation, have been so sponsored by some responsible American person, natural or corporate, that he will not become a public charge.
 
-(Nov. 4, 1939, ch. 2, § 4, 54 Stat. 7; June 26, 1940, ch. 431, 54 Stat. 611; Aug. 27, 1940, ch. 695, 54 Stat. 866.)
+(Nov. 4, 1939, ch. 2, § 4, 54 Stat. 7; June 26, 1940, ch. 431, 54 Stat. 611; Aug. 27, 1940, ch. 695, 54 Stat. 866.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 442(a) and 443 of this title, referred to in subsecs. (a) and (b), were repealed by act Nov. 17, 1941, ch. 473, § 1, 55 Stat. 764.
+Sections 442(a) and 443 of this title, referred to in subsecs. (a) and (b), were repealed by act Nov. 17, 1941, ch. 473, § 1, 55 Stat. 764.
 
 **Amendments**
 
@@ -271,7 +271,7 @@ Sections 442(a) and 443 of this title, referred to in subsecs. (a) and (b), were
 
 Act Aug. 27, 1940, designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 445. Travel on vessels of belligerent states
+### § 445. Travel on vessels of belligerent states
 
 **(a) Proscription by Presidential proclamation**
 
@@ -281,19 +281,19 @@ Whenever the President shall have issued a proclamation under the authority of s
 
 Whenever any proclamation issued under the authority of section 441(a) of this title shall have been revoked with respect to any state the provisions of this section shall thereupon cease to apply with respect to such state, except as to offenses committed prior to such revocation.
 
-(Nov. 4, 1939, ch. 2, § 5, 54 Stat. 7.)
+(Nov. 4, 1939, ch. 2, § 5, 54 Stat. 7.)
 
-### § 446. Repealed. Nov. 17, 1941, ch. 473, § 2, 55 Stat. 764
+### § 446. Repealed. Nov. 17, 1941, ch. 473, § 2, 55 Stat. 764
 
-Section, Joint Res. Nov. 4, 1939, ch. 2, § 6, 54 Stat. 7, prohibited arming of American merchant vessels. Joint Res. Nov. 17, 1941, § 2, which repealed this section, was itself repealed, effective July 1, 1948, by Joint Res. July 25, 1947, ch. 327, § 2(a), 61 Stat. 451, which provided that it should remain in full force and effect until such date.
+Section, Joint Res. Nov. 4, 1939, ch. 2, § 6, 54 Stat. 7, prohibited arming of American merchant vessels. Joint Res. Nov. 17, 1941, § 2, which repealed this section, was itself repealed, effective July 1, 1948, by Joint Res. July 25, 1947, ch. 327, § 2(a), 61 Stat. 451, which provided that it should remain in full force and effect until such date.
 
-### § 447. Financial transactions
+### § 447. Financial transactions
 
 **(a) Bonds, securities, or other obligations**
 
-Whenever the President shall have issued a proclamation under the authority of section 441(a) of this title, it shall thereafter be unlawful for any person within the United States to purchase, sell, or exchange bonds, securities, or other obligations of the government of any state named in such proclamation, or of any political subdivision of any such state, or of any person acting for or on behalf of the government of any such state, or political subdivision thereof, issued after the date of such proclamation, or to make any loan or extend any credit (other than necessary credits accruing in connection with the transmission of telegraph, cable, wireless and telephone services) to any such government, political subdivision, or person. The provisions of this subsection shall also apply to the sale by any person within the United States to any person in a state named in any such proclamation of any articles or materials listed in a proclamation referred to in or issued under the authority of section 452(i) 1
+Whenever the President shall have issued a proclamation under the authority of section 441(a) of this title, it shall thereafter be unlawful for any person within the United States to purchase, sell, or exchange bonds, securities, or other obligations of the government of any state named in such proclamation, or of any political subdivision of any such state, or of any person acting for or on behalf of the government of any such state, or political subdivision thereof, issued after the date of such proclamation, or to make any loan or extend any credit (other than necessary credits accruing in connection with the transmission of telegraph, cable, wireless and telephone services) to any such government, political subdivision, or person. The provisions of this subsection shall also apply to the sale by any person within the United States to any person in a state named in any such proclamation of any articles or materials listed in a proclamation referred to in or issued under the authority of section 452(i) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -313,13 +313,13 @@ Whenever any proclamation issued under the authority of section 441(a) of this t
 
 This section shall not be operative when the United States is at war.
 
-(Nov. 4, 1939, ch. 2, § 7, 54 Stat. 8; Feb. 21, 1942, ch. 104, 56 Stat. 95.)
+(Nov. 4, 1939, ch. 2, § 7, 54 Stat. 8; Feb. 21, 1942, ch. 104, 56 Stat. 95.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 452(i) of this title, referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.
+Section 452(i) of this title, referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.
 
 **Amendments**
 
@@ -327,15 +327,15 @@ Section 452(i) of this title, referred to in subsec. (a), was repealed by act Au
 
 **Statutory Notes and Related Subsidiaries**
 
-**Operation of Section Postponed Until July 1, 1953**
+**Operation of Section Postponed Until July 1, 1953**
 
-Joint Res. July 3, 1952, ch. 570, § 1(b)(7), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided that this section which is normally operative in time of peace shall not be operative by reason of the termination of a state of war on Apr. 28, 1952, but rather (in addition to being inoperative, in accordance with their terms, in time of war) shall continue to be inoperative until 6 months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950, 1950 Proc. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Title 50, War and National Defense, or until such earlier date or dates as the Congress may provide, but in no event beyond Apr. 1, 1953.
+Joint Res. July 3, 1952, ch. 570, § 1(b)(7), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided that this section which is normally operative in time of peace shall not be operative by reason of the termination of a state of war on Apr. 28, 1952, but rather (in addition to being inoperative, in accordance with their terms, in time of war) shall continue to be inoperative until 6 months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950, 1950 Proc. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Title 50, War and National Defense, or until such earlier date or dates as the Congress may provide, but in no event beyond Apr. 1, 1953.
 
 **Repeal of Prior Acts Continuing Section**
 
 Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952. This repeal shall take effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
 
-### § 448. Solicitation and collection of funds and contributions
+### § 448. Solicitation and collection of funds and contributions
 
 **(a) Unlawful acts**
 
@@ -349,25 +349,25 @@ Nothing in this section shall be construed to prohibit the solicitation or colle
 
 Whenever any proclamation issued under the authority of section 441(a) of this title shall have been revoked with respect to any state the provisions of this section shall thereupon cease to apply with respect to such state, except as to offenses committed prior to such revocation.
 
-(Nov. 4, 1939, ch. 2, § 8, 54 Stat. 8.)
+(Nov. 4, 1939, ch. 2, § 8, 54 Stat. 8.)
 
-### § 449. American republics
+### § 449. American republics
 
-This subchapter (except section 452 1
+This subchapter (except section 452 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) shall not apply to any American republic engaged in war against a non-American state or states, provided the American republic is not cooperating with a non-American state or states in such war.
 
-(Nov. 4, 1939, ch. 2, § 9, 54 Stat. 8.)
+(Nov. 4, 1939, ch. 2, § 9, 54 Stat. 8.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 452 of this title, referred to in text, was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.
+Section 452 of this title, referred to in text, was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.
 
-### § 450. Restrictions on use of American ports
+### § 450. Restrictions on use of American ports
 
 **(a) Bond to insure non-delivery of men, ammunition, fuel, etc.**
 
@@ -379,19 +379,19 @@ If the President, or any person thereunto authorized by him, shall find that a v
 
 **(c) Alien seaman; bond**
 
-Whenever the President shall have issued a proclamation under section 441(a) of this title he may, while such proclamation is in effect, require the owner, master, or person in command of any vessel, foreign or domestic, before departing from the United States, to give a bond to the United States, with sufficient sureties, in such amount as he shall deem proper, conditioned that no alien seaman who arrived on such vessel shall remain in the United States for a longer period than that permitted under the regulations, as amended from time to time, issued pursuant to section 168 1
+Whenever the President shall have issued a proclamation under section 441(a) of this title he may, while such proclamation is in effect, require the owner, master, or person in command of any vessel, foreign or domestic, before departing from the United States, to give a bond to the United States, with sufficient sureties, in such amount as he shall deem proper, conditioned that no alien seaman who arrived on such vessel shall remain in the United States for a longer period than that permitted under the regulations, as amended from time to time, issued pursuant to section 168 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 8. Notwithstanding the provisions of said section 168 1 of title 8, the President may issue such regulations with respect to the landing of such seamen as he deems necessary to insure their departure either on such vessel or another vessel at the expense of such owner, master, or person in command.
+of title 8. Notwithstanding the provisions of said section 168 1 of title 8, the President may issue such regulations with respect to the landing of such seamen as he deems necessary to insure their departure either on such vessel or another vessel at the expense of such owner, master, or person in command.
 
-(Nov. 4, 1939, ch. 2, § 10, 54 Stat. 9.)
+(Nov. 4, 1939, ch. 2, § 10, 54 Stat. 9.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 168 of title 8, referred to in subsec. (c), was repealed by act June 27, 1952, ch. 477, § 403(a)(13), 66 Stat. 279. See section 1286 of Title 8, Aliens and Nationality.
+Section 168 of title 8, referred to in subsec. (c), was repealed by act June 27, 1952, ch. 477, § 403(a)(13), 66 Stat. 279. See section 1286 of Title 8, Aliens and Nationality.
 
 **Codification**
 
@@ -403,11 +403,11 @@ In subsec. (a), “section 967 of title 18” substituted for “section 1, titl
 
 For delegation to Secretary of Homeland Security of authority vested in President by subsecs. (a) and (b) of this section, see sections 1(n) and 1(*o*) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 451. Submarines and armed merchant vessels
+### § 451. Submarines and armed merchant vessels
 
 Whenever, during any war in which the United States is neutral, the President shall find that special restrictions placed on the use of the ports and territorial waters of the United States by the submarines or armed merchant vessels of a foreign state will serve to maintain peace between the United States and foreign states, or to protect the commercial interests of the United States and its citizens, or to promote the security of the United States, and shall make proclamation thereof, it shall thereafter be unlawful for any such submarine or armed merchant vessel to enter a port or the territorial waters of the United States or to depart therefrom, except under such conditions and subject to such limitations as the President may prescribe. Whenever, in his judgment, the conditions which have caused him to issue his proclamation have ceased to exist, he shall revoke his proclamation and the provisions of this section shall thereupon cease to apply, except as to offenses committed prior to such revocation.
 
-(Nov. 4, 1939, ch. 2, § 11, 54 Stat. 9.)
+(Nov. 4, 1939, ch. 2, § 11, 54 Stat. 9.)
 
 **Executive Documents**
 
@@ -415,17 +415,17 @@ Whenever, during any war in which the United States is neutral, the President sh
 
 By Proc. Nos. 2375, Nov. 4, 1939, 4 F.R. 4494, 54 Stat. 2672; 2400, Apr. 25, 1940, 5 F.R. 1570, 54 Stat. 2699; 2406, May 11, 1940, 5 F.R. 1690, 54 Stat. 2705; 2409, June 10, 1940, 5 F.R. 2192, 54 Stat. 2707; 2445, Nov. 15, 1940, 5 F.R. 4524, 54 Stat. 2672, submarines of France, Germany, Poland, United Kingdom, India, Australia, Canada, New Zealand, Union of South Africa, Norway, Belgium, the Netherlands, Italy, and Greece were denied use of United States ports and territorial waters.
 
-### § 452. Repealed. Aug. 26, 1954, ch. 937, title V, § 542(a)(12), 68 Stat. 861
+### § 452. Repealed. Aug. 26, 1954, ch. 937, title V, § 542(a)(12), 68 Stat. 861
 
-Section, acts Nov. 4, 1939, ch. 2, § 12, 54 Stat. 10; Jan. 26, 1942, ch. 19, 56 Stat. 19, established the National Munitions Control Board. See former section 1934 and section 2778 of this title.
+Section, acts Nov. 4, 1939, ch. 2, § 12, 54 Stat. 10; Jan. 26, 1942, ch. 19, 56 Stat. 19, established the National Munitions Control Board. See former section 1934 and section 2778 of this title.
 
-Subsec. (h) was subsequently repealed by act Aug. 30, 1954, ch. 1076, § 1(28), 68 Stat. 968.
+Subsec. (h) was subsequently repealed by act Aug. 30, 1954, ch. 1076, § 1(28), 68 Stat. 968.
 
-### § 453. Regulations
+### § 453. Regulations
 
 The President may, from time to time, promulgate such rules and regulations, not inconsistent with law, as may be necessary and proper to carry out any of the provisions of this subchapter; and he may exercise any power or authority conferred on him by this subchapter through such officer or officers, or agency or agencies, as he shall direct.
 
-(Nov. 4, 1939, ch. 2, § 13, 54 Stat. 11.)
+(Nov. 4, 1939, ch. 2, § 13, 54 Stat. 11.)
 
 **Executive Documents**
 
@@ -433,21 +433,21 @@ The President may, from time to time, promulgate such rules and regulations, not
 
 Power to make rules and regulations under this subchapter delegated to Secretary of State by Proc. No. 2374, promulgated Nov. 4, 1939, 4 F.R. 4493, 54 Stat. 2671. See proclamations preceding section 1 of Title 50, War and National Defense.
 
-### § 454. Unlawful use of the American flag by vessel of foreign state
+### § 454. Unlawful use of the American flag by vessel of foreign state
 
 **(a)** It shall be unlawful for any vessel belonging to or operating under the jurisdiction of any foreign state to use the flag of the United States thereon, or to make use of any distinctive signs or markings, indicating that the same is an American vessel.
 
 **(b)** Any vessel violating the provisions of subsection (a) of this section shall be denied for a period of three months the right to enter the ports or territorial waters of the United States except in cases of force majeure.
 
-(Nov. 4, 1939, ch. 2, § 14, 54 Stat. 11.)
+(Nov. 4, 1939, ch. 2, § 14, 54 Stat. 11.)
 
-### § 455. General penalty provision
+### § 455. General penalty provision
 
 In every case of the violation of any of the provisions of this subchapter or of any rule or regulation issued pursuant thereto where a specific penalty is not provided in this subchapter, such violator or violators, upon conviction, shall be fined not more than $10,000, or imprisoned not more than two years, or both.
 
-(Nov. 4, 1939, ch. 2, § 15, 54 Stat. 11.)
+(Nov. 4, 1939, ch. 2, § 15, 54 Stat. 11.)
 
-### § 456. Definitions
+### § 456. Definitions
 
 For the purposes of this subchapter—
 
@@ -463,7 +463,7 @@ For the purposes of this subchapter—
 
 **(f)** The term “citizen” shall include any individual owing allegiance to the United States, a partnership, company, or association composed in whole or in part of citizens of the United States, and any corporation organized and existing under the laws of the United States as defined in subsection (a) of this section.
 
-(Nov. 4, 1939, ch. 2, § 16, 54 Stat. 12; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352.)
+(Nov. 4, 1939, ch. 2, § 16, 54 Stat. 12; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352.)
 
 **Editorial Notes**
 
@@ -475,19 +475,19 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 Words “(including the Philippine Islands)” omitted from definition of “United States” in subsec. (a) pursuant to the authority of Proc. No. 2695, which granted independence to the Philippines under the provisions of section 1394 of this title, and which is set out as a note under section 1394.
 
-### § 457. Appropriations
+### § 457. Appropriations
 
 There is hereby authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions and accomplish the purposes of this subchapter.
 
-(Nov. 4, 1939, ch. 2, § 18, 54 Stat. 12.)
+(Nov. 4, 1939, ch. 2, § 18, 54 Stat. 12.)
 
 ## SUBCHAPTER III—PREVENTION OF OFFENSES AGAINST NEUTRALITY
 
-### § 461. Enforcement by courts; employment of land or naval forces
+### § 461. Enforcement by courts; employment of land or naval forces
 
 The district courts shall take cognizance of all complaints, by whomsoever instituted, in cases of captures made within the waters of the United States, or within a marine league of the coasts or shores thereof. In every case in which a vessel is fitted out and armed, or attempted to be fitted out and armed, or in which the force of any vessel of war, cruiser, or other armed vessel is increased or augmented, or in which any military expedition or enterprise is begun or set on foot, contrary to the provisions and prohibitions of this subchapter and sections 958 to 962 of title 18; and in every case of the capture of a vessel within the jurisdiction or protection of the United States as before defined; and in every case in which any process issuing out of any court of the United States is disobeyed or resisted by any person having the custody of any vessel of war, cruiser, or other armed vessel of any foreign prince or state, or of any colony, district, or people, or of any subjects or citizens of any foreign prince or state, or of any colony, district, or people, it shall be lawful for the President or such other person as he shall have empowered for that purpose, to employ such part of the land or naval forces of the United States, or of the militia thereof, for the purpose of taking possession of and detaining any such vessel, with her prizes, if any, in order to enforce the execution of the prohibitions and penalties of this subchapter and sections 958 to 962 of title 18, and the restoring of such prizes in the cases in which restoration shall be adjudged; and also for the purpose of preventing the carrying on of any such expedition or enterprise from the territory or jurisdiction of the United States against the territory or dominion of any foreign prince or state, or of any colony, district, or people with whom the United States are at peace.
 
-(Mar. 4, 1909, ch. 321, § 14, 35 Stat. 1090.)
+(Mar. 4, 1909, ch. 321, § 14, 35 Stat. 1090.)
 
 **Editorial Notes**
 
@@ -499,61 +499,61 @@ This subchapter and sections 958 to 962 of title 18, referred to in text, was in
 
 “Sections 958 to 962 of title 18” substituted in text for “sections 21 to 25, and 30 of title 18” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, section 1 of which enacted Title 18, Crimes and Criminal Procedure.
 
-Section was formerly classified to section 26 of title 18 prior to the general revision and enactment of Title 18 by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
+Section was formerly classified to section 26 of title 18 prior to the general revision and enactment of Title 18 by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
 
 **Prior Provisions**
 
-Section was derived from R.S. § 5287 (act Apr. 20, 1818, ch. 88, § 8, 3 Stat. 449) which was amended by act Feb. 18, 1875, ch. 80, 18 Stat. 320, and was repealed by section 341 of the act of Mar. 4, 1909.
+Section was derived from R.S. § 5287 (act Apr. 20, 1818, ch. 88, § 8, 3 Stat. 449) which was amended by act Feb. 18, 1875, ch. 80, 18 Stat. 320, and was repealed by section 341 of the act of Mar. 4, 1909.
 
-### § 462. Compelling foreign vessels to depart
+### § 462. Compelling foreign vessels to depart
 
 It shall be lawful for the President to employ such part of the land or naval forces of the United States, or of the militia thereof, as he may deem necessary to compel any foreign vessel to depart from the United States or any of its possessions in all cases in which, by the law of nations or the treaties of the United States, it ought not to remain, and to detain or prevent any foreign vessel from so departing in all cases in which, by the law of nations or the treaties of the United States, it is not entitled to depart.
 
-(Mar. 4, 1909, ch. 321, § 15, 35 Stat. 1091; June 15, 1917, ch. 30, title V, § 10, 40 Stat. 223.)
+(Mar. 4, 1909, ch. 321, § 15, 35 Stat. 1091; June 15, 1917, ch. 30, title V, § 10, 40 Stat. 223.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 27 of title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
+Section was formerly classified to section 27 of title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
 
 Act June 15, 1917, inserted provisions relating to detention of vessels.
 
 **Prior Provisions**
 
-Section was derived from R.S. § 5288 (act Apr. 20, 1818, ch. 88, § 9, 3 Stat. 449), which was repealed by act Mar. 4, 1909, ch. 321, § 341, 35 Stat. 1153.
+Section was derived from R.S. § 5288 (act Apr. 20, 1818, ch. 88, § 9, 3 Stat. 449), which was repealed by act Mar. 4, 1909, ch. 321, § 341, 35 Stat. 1153.
 
-### § 463. Bonds from armed vessels on clearing
+### § 463. Bonds from armed vessels on clearing
 
 The owners or consignees of every armed vessel sailing out of the ports of, or under the jurisdiction of, the United States, belonging wholly or in part to citizens thereof, shall, before clearing out the same, give bond to the United States, with sufficient sureties, in double the amount of the value of the vessel and cargo on board, including her armament, conditioned that the vessel shall not be employed by such owners to cruise or commit hostilities against the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people, with whom the United States are at peace.
 
-(Mar. 4, 1909, ch. 321, § 16, 35 Stat. 1091.)
+(Mar. 4, 1909, ch. 321, § 16, 35 Stat. 1091.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 28 of title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
+Section was formerly classified to section 28 of title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
 
 **Prior Provisions**
 
-Section was derived from R.S. § 5289 (act Apr. 20, 1818, ch. 88, § 10, 3 Stat. 449), which was repealed by act Mar. 4, 1909, ch. 321, § 341, 35 Stat. 1153.
+Section was derived from R.S. § 5289 (act Apr. 20, 1818, ch. 88, § 10, 3 Stat. 449), which was repealed by act Mar. 4, 1909, ch. 321, § 341, 35 Stat. 1153.
 
-### § 464. Detention by collectors of customs
+### § 464. Detention by collectors of customs
 
 The several collectors of the customs shall detain any vessel manifestly built for warlike purposes, and about to depart the United States, or any place subject to the jurisdiction thereof, the cargo of which principally consists of arms and munitions of war, when the number of men shipped on board, or other circumstances, render it probable that such vessel is intended to be employed by the owners to cruise or commit hostilities upon the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with whom the United States are at peace, until the decision of the President is had thereon, or until the owner gives such bond and security as is required of the owners of armed vessels by section 463 of this title.
 
-(Mar. 4, 1909, ch. 321, § 17, 35 Stat. 1091.)
+(Mar. 4, 1909, ch. 321, § 17, 35 Stat. 1091.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 29 of title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
+Section was formerly classified to section 29 of title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
 
 **Prior Provisions**
 
-Section was derived from R.S. § 5290 (act Apr. 20, 1818, ch. 88, § 11, 3 Stat. 450), which was repealed by act Mar. 4, 1909, ch. 321, § 341, 35 Stat. 1153.
+Section was derived from R.S. § 5290 (act Apr. 20, 1818, ch. 88, § 11, 3 Stat. 450), which was repealed by act Mar. 4, 1909, ch. 321, § 341, 35 Stat. 1153.
 
 **Executive Documents**
 
@@ -561,11 +561,11 @@ Section was derived from R.S. § 5290 (act Apr. 20, 1818, ch. 88, § 11, 3 S
 
 Offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1, of 1965 eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-### § 465. Detention of vessels
+### § 465. Detention of vessels
 
 The President may employ such part of the land or naval forces of the United States as he may deem necessary to carry out the purposes of sections 462 and 465 of this title, and sections 756, 960, 963 to 967, and 3058 of title 18.
 
-(June 15, 1917, ch. 30, title V, § 9, 40 Stat. 223.)
+(June 15, 1917, ch. 30, title V, § 9, 40 Stat. 223.)
 
 **Editorial Notes**
 
@@ -577,7 +577,7 @@ Sections 462 and 465 of this title, and sections 756, 960, 963 to 967, and 3058 
 
 “Sections 756, 960, 963 to 967, and 3058 of title 18” substituted in text for “sections 25, and 31 to 38 of title 18” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, section 1 of which enacted Title 18, Crimes and Criminal Procedures.
 
-Section was formerly classified to section 38 of title 18 prior to the general revision and enactment of Title 18, by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
+Section was formerly classified to section 38 of title 18 prior to the general revision and enactment of Title 18, by act June 25, 1948, ch. 645, § 1, 62 Stat. 683.
 
 **Statutory Notes and Related Subsidiaries**
 

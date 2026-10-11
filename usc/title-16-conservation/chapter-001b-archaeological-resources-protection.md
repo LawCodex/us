@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 1B—ARCHAEOLOGICAL RESOURCES PROTECTION
 
-## § 470aa. Congressional findings and declaration of purpose
+## § 470aa. Congressional findings and declaration of purpose
 
 **(a)** The Congress finds that—
 
@@ -29,19 +29,19 @@ retrieved: 2026-10-11
 
 **(b)** The purpose of this chapter is to secure, for the present and future benefit of the American people, the protection of archaeological resources and sites which are on public lands and Indian lands, and to foster increased cooperation and exchange of information between governmental authorities, the professional archaeological community, and private individuals having collections of archaeological resources and data which were obtained before October 31, 1979.
 
-(Pub. L. 96–95, § 2, Oct. 31, 1979, 93 Stat. 721.)
+(Pub. L. 96–95, § 2, Oct. 31, 1979, 93 Stat. 721.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 96–95, § 1, Oct. 31, 1979, 93 Stat. 721, provided that: “This Act [enacting this chapter] may be cited as the ‘Archaeological Resources Protection Act of 1979’.”
+Pub. L. 96–95, § 1, Oct. 31, 1979, 93 Stat. 721, provided that: “This Act [enacting this chapter] may be cited as the ‘Archaeological Resources Protection Act of 1979’.”
 
 **Galisteo Basin Archaeological Sites Protection**
 
 Pub. L. 108–208, Mar. 19, 2004, 118 Stat. 558, known as the “Galisteo Basin Archaeological Sites Protection Act”, provided for the preservation, protection, and interpretation of nationally significant archaeological resources in the Galisteo Basin of New Mexico by designating Galisteo Basin Archaeological Protection Sites and their acreage and provided for addition, deletion or modification of the sites, administration, cooperative agreements, acquisition of land and interests, withdrawal of lands from mining and other public land laws, and construction of the Act.
 
-## § 470bb. Definitions
+## § 470bb. Definitions
 
 As used in this chapter—
 
@@ -69,19 +69,19 @@ As used in this chapter—
 
 **(7)** The term “State” means any of the fifty States, the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.
 
-(Pub. L. 96–95, § 3, Oct. 31, 1979, 93 Stat. 721; Pub. L. 100–588, § 1(a), Nov. 3, 1988, 102 Stat. 2983.)
+(Pub. L. 96–95, § 3, Oct. 31, 1979, 93 Stat. 721; Pub. L. 100–588, § 1(a), Nov. 3, 1988, 102 Stat. 2983.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
 1988—Par. (3). Pub. L. 100–588 substituted a period for semicolon at end.
 
-## § 470cc. Excavation and removal
+## § 470cc. Excavation and removal
 
 **(a) Application for permit**
 
@@ -117,13 +117,13 @@ Any permit issued under this section may be suspended by the Federal land manage
 
 **(1)** No permit shall be required under this section or under the Act of June 8, 1906 (16 U.S.C. 431),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
-**(2)** In the case of any permits for the excavation or removal of any archaelogical 2
+**(2)** In the case of any permits for the excavation or removal of any archaelogical 2
 
-<sup>2</sup>  So in original. Probably should be “archaeological”.
+<sup>2</sup> So in original. Probably should be “archaeological”.
 
 resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
@@ -141,25 +141,25 @@ Issuance of a permit in accordance with this section and applicable regulations 
 
 Upon the written request of the Governor of any State, the Federal land manager shall issue a permit, subject to the provisions of subsections (b)(3), (b)(4), (c), (e), (f), (g), (h), and (i) of this section for the purpose of conducting archaeological research, excavation, removal, and curation, on behalf of the State or its educational institutions, to such Governor or to such designee as the Governor deems qualified to carry out the intent of this chapter.
 
-(Pub. L. 96–95, § 4, Oct. 31, 1979, 93 Stat. 722; Pub. L. 113–287, § 5(d)(6), Dec. 19, 2014, 128 Stat. 3264.)
+(Pub. L. 96–95, § 4, Oct. 31, 1979, 93 Stat. 722; Pub. L. 113–287, § 5(d)(6), Dec. 19, 2014, 128 Stat. 3264.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as section 1866(b) of Title 18, Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as section 1866(b) of Title 18, Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 
 **Amendments**
 
-2014—Subsec. (h)(1). Pub. L. 113–287, § 5(d)(6)(A)(i), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906 (16 U.S.C. 431–433),”.
+2014—Subsec. (h)(1). Pub. L. 113–287, § 5(d)(6)(A)(i), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906 (16 U.S.C. 431–433),”.
 
-Subsec. (h)(2). Pub. L. 113–287, § 5(d)(6)(A)(ii), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906,” in two places.
+Subsec. (h)(2). Pub. L. 113–287, § 5(d)(6)(A)(ii), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906,” in two places.
 
-Subsec. (i). Pub. L. 113–287, § 5(d)(6)(B), substituted “section 306108 of title 54” for “section 470f of this title”.
+Subsec. (i). Pub. L. 113–287, § 5(d)(6)(B), substituted “section 306108 of title 54” for “section 470f of this title”.
 
-## § 470dd. Custody of archaeological resources
+## § 470dd. Custody of archaeological resources
 
 The Secretary of the Interior may promulgate regulations providing for—
 
@@ -169,7 +169,7 @@ The Secretary of the Interior may promulgate regulations providing for—
 
 Any exchange or ultimate disposition under such regulation of archaeological resources excavated or removed from Indian lands shall be subject to the consent of the Indian or Indian tribe which owns or has jurisdiction over such lands. Following promulgation of regulations under this section, notwithstanding any other provision of law, such regulations shall govern the disposition of archaeological resources removed from public lands and Indian lands pursuant to this chapter.
 
-(Pub. L. 96–95, § 5, Oct. 31, 1979, 93 Stat. 724; Pub. L. 113–287, § 5(d)(7), Dec. 19, 2014, 128 Stat. 3264.)
+(Pub. L. 96–95, § 5, Oct. 31, 1979, 93 Stat. 724; Pub. L. 113–287, § 5(d)(7), Dec. 19, 2014, 128 Stat. 3264.)
 
 **Editorial Notes**
 
@@ -177,7 +177,7 @@ Any exchange or ultimate disposition under such regulation of archaeological res
 
 2014—Par. (2). Pub. L. 113–287 substituted “chapter 3125 or chapter 3203 of title 54” for “the Act of June 27, 1960 (16 U.S.C. 469–469c) or the Act of June 8, 1906 (16 U.S.C. 431–433)”.
 
-## § 470ee. Prohibited acts and criminal penalties
+## § 470ee. Prohibited acts and criminal penalties
 
 **(a) Unauthorized excavation, removal, damage, alteration, or defacement of archaeological resources**
 
@@ -209,17 +209,17 @@ Nothing in subsection (b)(1) of this section shall be deemed applicable to any p
 
 Nothing in subsection (d) of this section shall be deemed applicable to any person with respect to the removal of arrowheads located on the surface of the ground.
 
-(Pub. L. 96–95, § 6, Oct. 31, 1979, 93 Stat. 724; Pub. L. 100–588, § 1(b), (c), Nov. 3, 1988, 102 Stat. 2983.)
+(Pub. L. 96–95, § 6, Oct. 31, 1979, 93 Stat. 724; Pub. L. 100–588, § 1(b), (c), Nov. 3, 1988, 102 Stat. 2983.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–588, § 1(b), inserted “, or attempt to excavate, remove, damage, or otherwise alter or deface” after “deface”.
+1988—Subsec. (a). Pub. L. 100–588, § 1(b), inserted “, or attempt to excavate, remove, damage, or otherwise alter or deface” after “deface”.
 
-Subsec. (d). Pub. L. 100–588, § 1(c), substituted “$500” for “$5,000”.
+Subsec. (d). Pub. L. 100–588, § 1(c), substituted “$500” for “$5,000”.
 
-## § 470ff. Civil penalties
+## § 470ff. Civil penalties
 
 **(a) Assessment by Federal land manager**
 
@@ -251,9 +251,9 @@ the Federal land managers may request the Attorney General to institute a civil 
 
 Hearings held during proceedings for the assessment of civil penalties authorized by subsection (a) shall be conducted in accordance with section 554 of title 5. The Federal land manager may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this paragraph, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Federal land manager or to appear and produce documents before the Federal land manager, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-(Pub. L. 96–95, § 7, Oct. 31, 1979, 93 Stat. 725.)
+(Pub. L. 96–95, § 7, Oct. 31, 1979, 93 Stat. 725.)
 
-## § 470gg. Enforcement
+## § 470gg. Enforcement
 
 **(a) Rewards**
 
@@ -271,9 +271,9 @@ Upon the certification of the Federal land manager concerned, the Secretary of t
 
 In cases in which a violation of the prohibition contained in subsection (a), (b), or (c) of section 470ee of this title involve archaeological resources excavated or removed from Indian lands, the Federal land manager or the court, as the case may be, shall provide for the payment to the Indian or Indian tribe involved of all penalties collected pursuant to section 470ff of this title and for the transfer to such Indian or Indian tribe of all items forfeited under this section.
 
-(Pub. L. 96–95, § 8, Oct. 31, 1979, 93 Stat. 726.)
+(Pub. L. 96–95, § 8, Oct. 31, 1979, 93 Stat. 726.)
 
-## § 470hh. Confidentiality of information concerning nature and location of archaeological resources
+## § 470hh. Confidentiality of information concerning nature and location of archaeological resources
 
 **(a) Disclosure of information** Information concerning the nature and location of any archaeological resource for which the excavation or removal requires a permit or other permission under this chapter or under any other provision of Federal law may not be made available to the public under subchapter II of chapter 5 of title 5 or under any other provision of law unless the Federal land manager concerned determines that such disclosure would—
 
@@ -291,7 +291,7 @@ In cases in which a violation of the prohibition contained in subsection (a), (b
 
 the Federal land manager concerned shall provide to the Governor information concerning the nature and location of archaeological resources within the State of the requesting Governor.
 
-(Pub. L. 96–95, § 9, Oct. 31, 1979, 93 Stat. 727; Pub. L. 113–287, § 5(d)(8), Dec. 19, 2014, 128 Stat. 3265.)
+(Pub. L. 96–95, § 9, Oct. 31, 1979, 93 Stat. 727; Pub. L. 113–287, § 5(d)(8), Dec. 19, 2014, 128 Stat. 3265.)
 
 **Editorial Notes**
 
@@ -299,11 +299,11 @@ the Federal land manager concerned shall provide to the Governor information con
 
 2014—Subsec. (a)(1). Pub. L. 113–287, which directed substitution of “chapter 3125 of title 54” for “the Act of June 27, 1960 (16 U.S.C. 469–469c)” in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.
 
-## § 470ii. Rules and regulations; intergovernmental coordination
+## § 470ii. Rules and regulations; intergovernmental coordination
 
 **(a) Promulgation; effective date**
 
-The Secretaries of the Interior, Agriculture and Defense and the Chairman of the Board of the Tennessee Valley Authority, after consultation with other Federal land managers, Indian tribes, representatives of concerned State agencies, and after public notice and hearing, shall promulgate such uniform rules and regulations as may be appropriate to carry out the purposes of this chapter. Such rules and regulations may be promulgated only after consideration of the provisions of the American Indian Religious Freedom Act (92 Stat. 469; 42 U.S.C. 1996 [, 1996a]). Each uniform rule or regulation promulgated under this chapter shall be submitted on the same calendar day to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives, and no such uniform rule or regulation may take effect before the expiration of a period of ninety calendar days following the date of its submission to such Committees.
+The Secretaries of the Interior, Agriculture and Defense and the Chairman of the Board of the Tennessee Valley Authority, after consultation with other Federal land managers, Indian tribes, representatives of concerned State agencies, and after public notice and hearing, shall promulgate such uniform rules and regulations as may be appropriate to carry out the purposes of this chapter. Such rules and regulations may be promulgated only after consideration of the provisions of the American Indian Religious Freedom Act (92 Stat. 469; 42 U.S.C. 1996 [, 1996a]). Each uniform rule or regulation promulgated under this chapter shall be submitted on the same calendar day to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives, and no such uniform rule or regulation may take effect before the expiration of a period of ninety calendar days following the date of its submission to such Committees.
 
 **(b) Federal land managers’ rules**
 
@@ -313,7 +313,7 @@ Each Federal land manager shall promulgate such rules and regulations, consisten
 
 Each Federal land manager shall establish a program to increase public awareness of the significance of the archaeological resources located on public lands and Indian lands and the need to protect such resources.
 
-(Pub. L. 96–95, § 10, Oct. 31, 1979, 93 Stat. 727; Pub. L. 100–588, § 1(d), Nov. 3, 1988, 102 Stat. 2983; Pub. L. 103–437, § 6(d)(30), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(2)(A), Nov. 12, 1996, 110 Stat. 4196.)
+(Pub. L. 96–95, § 10, Oct. 31, 1979, 93 Stat. 727; Pub. L. 100–588, § 1(d), Nov. 3, 1988, 102 Stat. 2983; Pub. L. 103–437, § 6(d)(30), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(2)(A), Nov. 12, 1996, 110 Stat. 4196.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ The American Indian Religious Freedom Act, referred to in subsec. (a), is Pub. L
 
 1988—Subsec. (c). Pub. L. 100–588 added subsec. (c).
 
-## § 470jj. Cooperation with private individuals
+## § 470jj. Cooperation with private individuals
 
 The Secretary of the Interior shall take such action as may be necessary, consistent with the purposes of this chapter, to foster and improve the communication, cooperation, and exchange of information between—
 
@@ -339,9 +339,9 @@ The Secretary of the Interior shall take such action as may be necessary, consis
 
 In carrying out this section, the Secretary shall, to the extent practicable and consistent with the provisions of this chapter, make efforts to expand the archaeological data base for the archaeological resources of the United States through increased cooperation between private individuals referred to in paragraph (1) and professional archaeologists and archaeological organizations.
 
-(Pub. L. 96–95, § 11, Oct. 31, 1979, 93 Stat. 727.)
+(Pub. L. 96–95, § 11, Oct. 31, 1979, 93 Stat. 727.)
 
-## § 470kk. Savings provisions
+## § 470kk. Savings provisions
 
 **(a) Mining, mineral leasing, reclamation, and other multiple uses**
 
@@ -355,25 +355,25 @@ Nothing in this chapter applies to, or requires a permit for, the collection for
 
 Nothing in this chapter shall be construed to affect any land other than public land or Indian land or to affect the lawful recovery, collection, or sale of archaeological resources from land other than public land or Indian land.
 
-(Pub. L. 96–95, § 12, Oct. 31, 1979, 93 Stat. 728.)
+(Pub. L. 96–95, § 12, Oct. 31, 1979, 93 Stat. 728.)
 
-## § 470ll. Annual report to Congress
+## § 470ll. Annual report to Congress
 
-As part of the annual report required to be submitted to the specified committees of the Congress pursuant to section 469a–3(c) 1
+As part of the annual report required to be submitted to the specified committees of the Congress pursuant to section 469a–3(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the Secretary of the Interior shall comprehensively report as a separate component on the activities carried out under the provisions of this chapter, and he shall make such recommendations as he deems appropriate as to changes or improvements needed in the provisions of this chapter. Such report shall include a brief summary of the actions undertaken by the Secretary under section 470jj of this title, relating to cooperation with private individuals.
 
-(Pub. L. 96–95, § 13, Oct. 31, 1979, 93 Stat. 728.)
+(Pub. L. 96–95, § 13, Oct. 31, 1979, 93 Stat. 728.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 469a–3 of this title, referred to in text, was repealed and restated as section 312504 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. Prior to repeal of section 469a–3, language in subsec. (c) of that section that required submission of an annual report was struck out by Pub. L. 104–333.
+Section 469a–3 of this title, referred to in text, was repealed and restated as section 312504 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. Prior to repeal of section 469a–3, language in subsec. (c) of that section that required submission of an annual report was struck out by Pub. L. 104–333.
 
-## § 470mm. Surveying of lands; reporting of violations
+## § 470mm. Surveying of lands; reporting of violations
 
 The Secretaries of the Interior, Agriculture, and Defense and the Chairman of the Board of the Tennessee Valley Authority shall—
 
@@ -383,4 +383,4 @@ The Secretaries of the Interior, Agriculture, and Defense and the Chairman of th
 
 **(c)** develop documents for the reporting of suspected violations of this chapter and establish when and how those documents are to be completed by officers, employees, and agents of their respective agencies.
 
-(Pub. L. 96–95, § 14, as added Pub. L. 100–555, Oct. 28, 1988, 102 Stat. 2778.)
+(Pub. L. 96–95, § 14, as added Pub. L. 100–555, Oct. 28, 1988, 102 Stat. 2778.)

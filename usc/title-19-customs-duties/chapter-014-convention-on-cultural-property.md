@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 14—CONVENTION ON CULTURAL PROPERTY
 
-## § 2601. Definitions
+## § 2601. Definitions
 
 For purposes of this chapter—
 
@@ -47,9 +47,9 @@ which was first discovered within, and is subject to export control by, the Stat
 
 **(3)** The term “Committee” means the Cultural Property Advisory Committee established under section 2605 of this title.
 
-**(4)** The term “consignee” means a consignee as defined in section 1483 1
+**(4)** The term “consignee” means a consignee as defined in section 1483 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -81,13 +81,13 @@ of this title.
 
 **(C)** any department, agency, or entity of the Federal Government or of any government of any State.
 
-(Pub. L. 97–446, title III, § 302, Jan. 12, 1983, 96 Stat. 2351.)
+(Pub. L. 97–446, title III, § 302, Jan. 12, 1983, 96 Stat. 2351.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1483 of this title, referred to in par. (4), was repealed by Pub. L. 97–446, title II, § 201(c), Jan. 12, 1983, 96 Stat. 2349. Prior to repeal, section 1483 read:
+Section 1483 of this title, referred to in par. (4), was repealed by Pub. L. 97–446, title II, § 201(c), Jan. 12, 1983, 96 Stat. 2349. Prior to repeal, section 1483 read:
 
 > “For the purposes of this subtitle—
 
@@ -103,7 +103,7 @@ Section 2605 of this title, referred to in par. (3), was in original “section 
 
 **Effective Date**
 
-Pub. L. 97–446, title III, § 315, Jan. 12, 1983, 96 Stat. 2363, provided that:
+Pub. L. 97–446, title III, § 315, Jan. 12, 1983, 96 Stat. 2363, provided that:
 
 > **“(a) In General.—** This title [enacting this chapter] shall take effect on the ninetieth day after the date of the enactment of this Act [Jan. 12, 1983] or on any date which the President shall prescribe and publish in the Federal Register, if such date is—
 
@@ -115,7 +115,7 @@ Pub. L. 97–446, title III, § 315, Jan. 12, 1983, 96 Stat. 2363, provided th
 
 **Short Title**
 
-Pub. L. 97–446, title III, § 301, Jan. 12, 1983, 96 Stat. 2350, provided that: “This title [enacting this chapter] may be cited as the ‘Convention on Cultural Property Implementation Act’.”
+Pub. L. 97–446, title III, § 301, Jan. 12, 1983, 96 Stat. 2350, provided that: “This title [enacting this chapter] may be cited as the ‘Convention on Cultural Property Implementation Act’.”
 
 **Protecting and Preserving International Cultural Property**
 
@@ -245,7 +245,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 2602. Agreements to implement Article 9 of the convention
+## § 2602. Agreements to implement Article 9 of the convention
 
 **(a) Agreement authority**
 
@@ -277,9 +277,9 @@ A request made to the United States under article 9 of the Convention by a State
 
 **(4) Implementation**
 
-In implementing this subsection, the President should endeavor to obtain the commitment of the State Party concerned to permit the exhange 1
+In implementing this subsection, the President should endeavor to obtain the commitment of the State Party concerned to permit the exhange 1
 
-<sup>1</sup>  So in original. Probably should be “exchange”.
+<sup>1</sup> So in original. Probably should be “exchange”.
 
 of its archaeological and ethnological materials under circumstances in which such exchange does not jeopardize its cultural patrimony.
 
@@ -347,7 +347,7 @@ the President shall, promptly after taking such action, submit a report to the C
 
 If any Committee report required to be considered by the President recommends that an agreement be entered into, but no such agreement is entered into, the President shall submit to the Congress a report which contains the reasons why such agreement was not entered into.
 
-(Pub. L. 97–446, title III, § 303, Jan. 12, 1983, 96 Stat. 2352.)
+(Pub. L. 97–446, title III, § 303, Jan. 12, 1983, 96 Stat. 2352.)
 
 **Editorial Notes**
 
@@ -365,7 +365,7 @@ Section effective on the 90th day after Jan. 12, 1983, or on any date which the 
 
 **Ex. Ord. No. 12555. Protection of Cultural Property**
 
-Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, as amended by Ex. Ord. No. 13286, § 44, Feb. 28, 2003, 68 F.R. 10627, provided:
+Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, as amended by Ex. Ord. No. 13286, § 44, Feb. 28, 2003, 68 F.R. 10627, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Convention on Cultural Property Implementation Act (Title III of Public Law 97–446; hereinafter referred to as the “Act”) [this chapter], and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
@@ -411,7 +411,7 @@ Sec. 4. *Enforcement in Territories and Other Areas*. The Secretary of the Inter
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.]
 
-## § 2603. Emergency implementation of import restrictions
+## § 2603. Emergency implementation of import restrictions
 
 **(a) “Emergency condition” defined** For purposes of this section, the term “emergency condition” means, with respect to any archaeological or ethnological material of any State Party, that such material is—
 
@@ -437,7 +437,7 @@ Subject to subsection (c), if the President determines that an emergency conditi
 
 **(4)** The import restrictions under this section may continue to apply in whole or in part, if before their expiration under paragraph (3), there has entered into force with respect to the archaeological or ethnological materials an agreement under section 2602 of this title or an agreement with a State Party to which the Senate has given its advice and consent to ratification. Such import restrictions may continue to apply for the duration of the agreement.
 
-(Pub. L. 97–446, title III, § 304, Jan. 12, 1983, 96 Stat. 2354.)
+(Pub. L. 97–446, title III, § 304, Jan. 12, 1983, 96 Stat. 2354.)
 
 **Editorial Notes**
 
@@ -457,11 +457,11 @@ Section effective on the 90th day after Jan. 12, 1983, or on any date which the 
 
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
 
-## § 2604. Designation of materials covered by agreements or emergency actions
+## § 2604. Designation of materials covered by agreements or emergency actions
 
 After any agreement enters into force under section 2602 of this title, or emergency action is taken under section 2603 of this title, the Secretary, in consultation with the Secretary of State, shall by regulation promulgate (and when appropriate shall revise) a list of the archaeological or ethnological material of the State Party covered by the agreement or by such action. The Secretary may list such material by type or other appropriate classification, but each listing made under this section shall be sufficiently specific and precise to insure that (1) the import restrictions under section 2606 of this title are applied only to the archeological and ethnological material covered by the agreement or emergency action; and (2) fair notice is given to importers and other persons as to what material is subject to such restrictions.
 
-(Pub. L. 97–446, title III, § 305, Jan. 12, 1983, 96 Stat. 2355; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(d), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 106–113, div. B, § 1007(a)(7) [div. A, title VIII, § 802(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–468.)
+(Pub. L. 97–446, title III, § 305, Jan. 12, 1983, 96 Stat. 2355; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(d), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 106–113, div. B, § 1007(a)(7) [div. A, title VIII, § 802(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–468.)
 
 **Editorial Notes**
 
@@ -469,7 +469,7 @@ After any agreement enters into force under section 2602 of this title, or emerg
 
 1999—Pub. L. 106–113 substituted “Secretary, in consultation with the Secretary of State, shall” for “Secretary shall” in first sentence.
 
-1998—Pub. L. 105–277 struck out “, after consultation with the Director of the United States Information Agency,” after “title, the Secretary” in first sentence.
+1998—Pub. L. 105–277 struck out “, after consultation with the Director of the United States Information Agency,” after “title, the Secretary” in first sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -481,7 +481,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
 
-## § 2605. Cultural Property Advisory Committee
+## § 2605. Cultural Property Advisory Committee
 
 **(a) Establishment**
 
@@ -531,9 +531,9 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 **(f) Reports by Committee**
 
-**(1)** The Commitee 1
+**(1)** The Commitee 1
 
-<sup>1</sup>  So in original. Probably should be “Committee”.
+<sup>1</sup> So in original. Probably should be “Committee”.
 
 shall, with respect to each request of a State Party referred to in section 2602(a) of this title, undertake an investigation and review with respect to matters referred to in section 2602(a)(1) of this title as they relate to the State Party or the request and shall prepare a report setting forth—
 
@@ -595,7 +595,7 @@ Information submitted in confidence by officers or employees of the United State
 
 Nothing contained in this section shall be construed to authorize or to permit any individual (not otherwise authorized or permitted) to participate directly in any negotiation of any agreement authorized by this chapter.
 
-(Pub. L. 97–446, title III, § 306, Jan. 12, 1983, 96 Stat. 2356; Pub. L. 100–204, title III, § 307(a), (b), Dec. 22, 1987, 101 Stat. 1380; Pub. L. 117–286, § 4(a)(140), Dec. 27, 2022, 136 Stat. 4321.)
+(Pub. L. 97–446, title III, § 306, Jan. 12, 1983, 96 Stat. 2356; Pub. L. 100–204, title III, § 307(a), (b), Dec. 22, 1987, 101 Stat. 1380; Pub. L. 117–286, § 4(a)(140), Dec. 27, 2022, 136 Stat. 4321.)
 
 **Editorial Notes**
 
@@ -603,15 +603,15 @@ Nothing contained in this section shall be construed to authorize or to permit a
 
 2022—Subsec. (h). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5 shall apply to the Committee, except that the requirements of subsections (a) and (b) of section 1009 and section 1010 of title 5” for “the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. Appendix I) shall apply to the Committee except that the requirements of subsections (a) and (b) of section 10 and section 11 of such Act” in text.
 
-1987—Subsec. (b)(3)(A). Pub. L. 100–204, § 307(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Members of the Committee shall be appointed for terms of two years and may be reappointed for 1 or more terms.”
+1987—Subsec. (b)(3)(A). Pub. L. 100–204, § 307(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Members of the Committee shall be appointed for terms of two years and may be reappointed for 1 or more terms.”
 
-Subsec. (b)(3)(B). Pub. L. 100–204, § 307(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A vacancy in the Commission shall be filled in the same manner in which the original appointment was made.”
+Subsec. (b)(3)(B). Pub. L. 100–204, § 307(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A vacancy in the Commission shall be filled in the same manner in which the original appointment was made.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–204, title III, § 307(c), Dec. 22, 1987, 101 Stat. 1380, provided that: “The amendment made by subsection (a) [amending this section] shall apply to members of the Cultural Property Advisory Committee first appointed after the date of enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–204, title III, § 307(c), Dec. 22, 1987, 101 Stat. 1380, provided that: “The amendment made by subsection (a) [amending this section] shall apply to members of the Cultural Property Advisory Committee first appointed after the date of enactment of this Act [Dec. 22, 1987].”
 
 **Effective Date**
 
@@ -627,7 +627,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
 
-## § 2606. Import restrictions
+## § 2606. Import restrictions
 
 **(a) Documentation of lawful exportation**
 
@@ -671,7 +671,7 @@ the customs officer concerned shall refuse to release the material from customs 
 
 **(3)** is a corporation or other legal entity in which the importer or person of account directly or indirectly owns, controls, or holds power to vote 20 percent or more of the outstanding voting stock or shares in the entity.
 
-(Pub. L. 97–446, title III, § 307, Jan. 12, 1983, 96 Stat. 2358.)
+(Pub. L. 97–446, title III, § 307, Jan. 12, 1983, 96 Stat. 2358.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -685,11 +685,11 @@ Section effective on the 90th day after Jan. 12, 1983, or on any date which the 
 
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
 
-## § 2607. Stolen cultural property
+## § 2607. Stolen cultural property
 
 No article of cultural property documented as appertaining to the inventory of a museum or religious or secular public monument or similar institution in any State Party which is stolen from such institution after the effective date of this chapter, or after the date of entry into force of the Convention for the State Party, whichever date is later, may be imported into the United States.
 
-(Pub. L. 97–446, title III, § 308, Jan. 12, 1983, 96 Stat. 2360.)
+(Pub. L. 97–446, title III, § 308, Jan. 12, 1983, 96 Stat. 2360.)
 
 **Editorial Notes**
 
@@ -703,7 +703,7 @@ For the effective date of this chapter, referred to in text, see section 315 of 
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
 
-## § 2608. Temporary disposition of materials and articles subject to this chapter
+## § 2608. Temporary disposition of materials and articles subject to this chapter
 
 Pending a final determination as to whether any archaeological or ethnological material, or any article of cultural property, has been imported into the United States in violation of section 2606 of this title or section 2607 of this title, the Secretary shall, upon application by any museum or other cultural or scientific institution in the United States which is open to the public, permit such material or article to be retained at such institution if he finds that—
 
@@ -711,7 +711,7 @@ Pending a final determination as to whether any archaeological or ethnological m
 
 **(2)** sufficient bond is posted by the institution to ensure its return to the Secretary.
 
-(Pub. L. 97–446, title III, § 309, Jan. 12, 1983, 96 Stat. 2360.)
+(Pub. L. 97–446, title III, § 309, Jan. 12, 1983, 96 Stat. 2360.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -719,7 +719,7 @@ Pending a final determination as to whether any archaeological or ethnological m
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
 
-## § 2609. Seizure and forfeiture
+## § 2609. Seizure and forfeiture
 
 **(a) In general**
 
@@ -753,7 +753,7 @@ No return of material may be made under paragraph (1) or (2) unless the State Pa
 
 **(B)** if not returned to such State Party, be disposed of in the manner prescribed by law for articles forfeited for violation of the customs laws.
 
-(Pub. L. 97–446, title III, § 310, Jan. 12, 1983, 96 Stat. 2360.)
+(Pub. L. 97–446, title III, § 310, Jan. 12, 1983, 96 Stat. 2360.)
 
 **Editorial Notes**
 
@@ -767,7 +767,7 @@ Section 2607 of this title, referred to in subsec. (c)(1), was in the original �
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
 
-## § 2610. Evidentiary requirements
+## § 2610. Evidentiary requirements
 
 Notwithstanding the provisions of section 1615 of this title, in any forfeiture proceeding brought under this chapter in which the material or article, as the case may be, is claimed by any person, the United States shall establish—
 
@@ -779,7 +779,7 @@ Notwithstanding the provisions of section 1615 of this title, in any forfeiture 
 
 **(B)** was stolen from such institution after the effective date of this chapter, or after the date of entry into force of the Convention for the State Party concerned, whichever date is later.
 
-(Pub. L. 97–446, title III, § 311, Jan. 12, 1983, 96 Stat. 2361.)
+(Pub. L. 97–446, title III, § 311, Jan. 12, 1983, 96 Stat. 2361.)
 
 **Editorial Notes**
 
@@ -793,7 +793,7 @@ For the effective date of this chapter, referred to in par. (2)(B), see section 
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
 
-## § 2611. Certain material and articles exempt from this chapter
+## § 2611. Certain material and articles exempt from this chapter
 
 The provisions of this chapter shall not apply to—
 
@@ -809,9 +809,9 @@ The provisions of this chapter shall not apply to—
 
 **(iii)** such article or material has been cat­aloged and the catalog material made available upon request to the public for at least two years during such three-year period;
 
-**(B)** if subparagraph (A) does not apply, has been within the United States for a period of not less than ten consecutive years and has been exhibited for not less than five years during such period in a recognized museum or religious or secular monument or similar institution in the Unites 1
+**(B)** if subparagraph (A) does not apply, has been within the United States for a period of not less than ten consecutive years and has been exhibited for not less than five years during such period in a recognized museum or religious or secular monument or similar institution in the Unites 1
 
-<sup>1</sup>  So in original. Probably should be “United”.
+<sup>1</sup> So in original. Probably should be “United”.
 
 States open to the public; or
 
@@ -819,7 +819,7 @@ States open to the public; or
 
 **(D)** if none of the preceding subparagraphs apply, has been within the United States for a period of not less than twenty consecutive years and the claimant establishes that it purchased the material or article for value without knowledge or reason to believe that it was imported in violation of law.
 
-(Pub. L. 97–446, title III, § 312, Jan. 12, 1983, 96 Stat. 2362.)
+(Pub. L. 97–446, title III, § 312, Jan. 12, 1983, 96 Stat. 2362.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -827,11 +827,11 @@ States open to the public; or
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
 
-## § 2612. Regulations
+## § 2612. Regulations
 
 The Secretary shall prescribe such rules and regulations as are necessary and appropriate to carry out the provisions of this chapter.
 
-(Pub. L. 97–446, title III, § 313, Jan. 12, 1983, 96 Stat. 2363.)
+(Pub. L. 97–446, title III, § 313, Jan. 12, 1983, 96 Stat. 2363.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -839,11 +839,11 @@ The Secretary shall prescribe such rules and regulations as are necessary and ap
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
 
-## § 2613. Enforcement
+## § 2613. Enforcement
 
 In the customs territory of the United States, and in the Virgin Islands, the provisions of this chapter shall be enforced by appropriate customs officers. In any other territory or area within the United States, but not within such customs territory or the Virgin Islands, such provisions shall be enforced by such persons as may be designated by the President.
 
-(Pub. L. 97–446, title III, § 314, Jan. 12, 1983, 96 Stat. 2363.)
+(Pub. L. 97–446, title III, § 314, Jan. 12, 1983, 96 Stat. 2363.)
 
 **Statutory Notes and Related Subsidiaries**
 

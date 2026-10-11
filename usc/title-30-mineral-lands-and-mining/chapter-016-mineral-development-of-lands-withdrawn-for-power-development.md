@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16—MINERAL DEVELOPMENT OF LANDS WITHDRAWN FOR POWER DEVELOPMENT
 
-## § 621. Entry to lands reserved for power development
+## § 621. Entry to lands reserved for power development
 
 **(a) Conditions of entry**
 
@@ -31,7 +31,7 @@ The Secretary shall establish such rules and regulations as he deems desirable c
 
 Nothing in this chapter shall affect the validity of withdrawals or reservations for purposes other than power development.
 
-(Aug. 11, 1955, ch. 797, § 2, 69 Stat. 682; Pub. L. 86–507, § 1(27), June 11, 1960, 74 Stat. 202; Pub. L. 95–91, title IV, § 402(a)(1)(A), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 584, 606, 607.)
+(Aug. 11, 1955, ch. 797, § 2, 69 Stat. 682; Pub. L. 86–507, § 1(27), June 11, 1960, 74 Stat. 202; Pub. L. 95–91, title IV, § 402(a)(1)(A), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 584, 606, 607.)
 
 **Editorial Notes**
 
@@ -39,7 +39,7 @@ Nothing in this chapter shall affect the validity of withdrawals or reservations
 
 Act of April 8, 1948, referred to in subsec. (a), is act Apr. 8, 1948, ch. 179, 62 Stat. 162, which is not classified to the Code.
 
-The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 **Amendments**
 
@@ -47,7 +47,7 @@ The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285
 
 **Short Title**
 
-Act Aug. 11, 1955, ch. 797, § 1, 69 Stat. 681, provided: “That this Act [enacting this chapter] may be cited as the ‘Mining Claims Rights Restoration Act of 1955’.”
+Act Aug. 11, 1955, ch. 797, § 1, 69 Stat. 681, provided: “That this Act [enacting this chapter] may be cited as the ‘Mining Claims Rights Restoration Act of 1955’.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -55,26 +55,26 @@ Act Aug. 11, 1955, ch. 797, § 1, 69 Stat. 681, provided: “That this Act [en
 
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to sections 402(a)(1)(A), 703, and 707 of Pub. L. 95–91, which are classified to sections 7172(a)(1)(A), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated the Federal Power Commission and transferred its functions relating to licensing and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act (16 U.S.C. 791a et seq.) to the Federal Energy Regulatory Commission.
 
-## § 622. Liability for damage, destruction, or loss of claim
+## § 622. Liability for damage, destruction, or loss of claim
 
 Prospecting and exploration for and the development and utilization of mineral resources authorized in this chapter shall be entered into or continued at the financial risk of the individual party or parties undertaking such work: *Provided*, That the United States, its permittees and licensees shall not be responsible or held liable or incur any liability for the damage, destruction, or loss of any mining claim, mill site, facility installed or erected, income, or other property or investments resulting from the actual use of such lands or portions thereof for power development at any time where such power development is made by or under the authority of the United States, except where such damage, destruction, or loss results from the negligence of the United States, its permittees and licensees.
 
-(Aug. 11, 1955, ch. 797, § 3, 69 Stat. 682.)
+(Aug. 11, 1955, ch. 797, § 3, 69 Stat. 682.)
 
-## § 623. Recording and reporting of unpatented claims; time
+## § 623. Recording and reporting of unpatented claims; time
 
 The owner of any unpatented mining claim located on land described in section 621 of this title shall file for record in the United States district land office of the land district in which the claim is situated (1) within one year after August 11, 1955, as to any or all locations heretofore made, or within sixty days of location as to locations hereafter made, a copy of the notice of location of the claim; (2) within sixty days after the expiration of any annual assessment year, a statement as to the assessment work done or improvements made during the previous assessment year.
 
-(Aug. 11, 1955, ch. 797, § 4, 69 Stat. 683.)
+(Aug. 11, 1955, ch. 797, § 4, 69 Stat. 683.)
 
-## § 624. Protection of existing valid claims
+## § 624. Protection of existing valid claims
 
 Nothing in this chapter contained shall be construed to limit or restrict the rights of the owner or owners of any valid mining claim located prior to the date of withdrawal or reservation: *Provided*, That nothing in this chapter shall be construed to limit or restrict the rights of the owner or owners of any mining claim who are diligently working to make a discovery of valuable minerals at the time any future withdrawal or reservation for power development is made.
 
-(Aug. 11, 1955, ch. 797, § 5, 69 Stat. 683.)
+(Aug. 11, 1955, ch. 797, § 5, 69 Stat. 683.)
 
-## § 625. Prohibition of unspecified use
+## § 625. Prohibition of unspecified use
 
 Notwithstanding any other provisions of this chapter, all mining claims and mill sites or mineral rights located under the terms of this chapter or otherwise contained on the public lands as described in section 621 of this title shall be used only for the purposes specified in section 621 of this title and no facility or activity shall be erected or conducted thereon for other purposes.
 
-(Aug. 11, 1955, ch. 797, § 6, 69 Stat. 683.)
+(Aug. 11, 1955, ch. 797, § 6, 69 Stat. 683.)

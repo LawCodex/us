@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 101—FEDERAL EMERGENCY MANAGEMENT AGENCY PERSONNEL
 
-## § 10101. Definitions
+## § 10101. Definitions
 
 For purposes of this chapter—
 
@@ -29,7 +29,7 @@ For purposes of this chapter—
 
 **(5)** the term “Surge Capacity Force” refers to the Surge Capacity Force, described under section 624 of the Post-Katrina Emergency Management Reform Act of 2006.
 
-(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1411.)
+(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1411.)
 
 **Editorial Notes**
 
@@ -45,7 +45,7 @@ Section 624 of the Post-Katrina Emergency Management Reform Act of 2006, referre
 
 Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security.
 
-## § 10102. Strategic human capital plan
+## § 10102. Strategic human capital plan
 
 **(a) Plan Development.—** Not later than 6 months after the date of enactment of this chapter, the Administrator shall develop and submit to the appropriate committees of Congress a strategic human capital plan to shape and improve the workforce of the Agency.
 
@@ -83,7 +83,7 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 
 **(c) Annual Updates.—** Not later than May 1, 2007, and May 1st of each of the next 5 succeeding years, the Administrator shall submit to the appropriate committees of Congress an update of the strategic human capital plan, including an assessment by the Administrator, using results-oriented performance measures, of the progress of the Department and the Agency in implementing the strategic human capital plan.
 
-(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1412.)
+(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1412.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 
 The date of enactment of this chapter, referred to in subsecs. (a) and (b)(1), is the date of enactment of Pub. L. 109–295, which was approved Oct. 4, 2006.
 
-## § 10103. Career paths
+## § 10103. Career paths
 
 **(a) In General.—** The Administrator shall—
 
@@ -111,7 +111,7 @@ The date of enactment of this chapter, referred to in subsecs. (a) and (b)(1), i
 
 **(B)** for responsibility and accountability for actions taken in that position.
 
-(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1413.)
+(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1413.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ The date of enactment of this chapter, referred to in subsecs. (a) and (b)(1), i
 
 Section 844 of the Homeland Security Act of 2002, referred to in subsec. (b), is classified to section 414 of Title 6, Domestic Security.
 
-## § 10104. Recruitment bonuses
+## § 10104. Recruitment bonuses
 
 **(a) In General.—** The Administrator may pay a bonus to an individual in order to recruit the individual for a position within the Agency that would otherwise be difficult to fill in the absence of such a bonus. Upon completion of the strategic human capital plan, such bonuses shall be paid in accordance with that plan.
 
@@ -155,7 +155,7 @@ Section 844 of the Homeland Security Act of 2002, referred to in subsec. (b), is
 
 **(B)** a determination of the extent to which such bonuses furthered the purposes of this section.
 
-(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1414.)
+(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1414.)
 
 **Editorial Notes**
 
@@ -163,7 +163,7 @@ Section 844 of the Homeland Security Act of 2002, referred to in subsec. (b), is
 
 The date of enactment of this chapter, referred to in subsec. (e), is the date of enactment of Pub. L. 109–295, which was approved Oct. 4, 2006.
 
-## § 10105. Retention bonuses
+## § 10105. Retention bonuses
 
 **(a) Authority.—** The Administrator may pay, on a case-by-case basis, a bonus under this section to an employee of the Agency if—
 
@@ -213,7 +213,7 @@ The date of enactment of this chapter, referred to in subsec. (e), is the date o
 
 **(B)** a determination of the extent to which such bonuses furthered the purposes of this section.
 
-(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1414.)
+(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1414.)
 
 **Editorial Notes**
 
@@ -221,7 +221,7 @@ The date of enactment of this chapter, referred to in subsec. (e), is the date o
 
 The date of enactment of this chapter, referred to in subsec. (e), is the date of enactment of Pub. L. 109–295, which was approved Oct. 4, 2006.
 
-## § 10106. Quarterly report on vacancy rate in employee positions
+## § 10106. Quarterly report on vacancy rate in employee positions
 
 **(a) Initial Report.—**
 
@@ -241,7 +241,7 @@ The date of enactment of this chapter, referred to in subsec. (e), is the date o
 
 **(b) Quarterly Updates.—** Not later than 3 months after submission of the initial report, and every 3 months thereafter until 5 years after the date of enactment of this chapter, the Administrator shall submit to the appropriate committees of Congress an update of the report under subsection (a), including an assessment by the Administrator of the progress of the Agency in filling vacant employee positions of the Agency.
 
-(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1416.)
+(Added Pub. L. 109–295, title VI, § 621(a), Oct. 4, 2006, 120 Stat. 1416.)
 
 **Editorial Notes**
 

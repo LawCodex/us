@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 30—INTERNATIONAL COOPERATION IN HEALTH AND MEDICAL RESEARCH
 
-## § 2101. Statement of purpose
+## § 2101. Statement of purpose
 
 It is the purpose of this chapter—
 
@@ -23,13 +23,13 @@ It is the purpose of this chapter—
 
 **(2)** to advance the international status of the health sciences through cooperative enterprises in health research, research planning, and research training.
 
-(Pub. L. 86–610, § 2, July 12, 1960, 74 Stat. 364.)
+(Pub. L. 86–610, § 2, July 12, 1960, 74 Stat. 364.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, § 106, 88 Stat. 367, and is classified to section 242*l* of Title 42, The Public Health and Welfare.
+This chapter, referred to in text, was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, § 106, 88 Stat. 367, and is classified to section 242*l* of Title 42, The Public Health and Welfare.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -41,15 +41,15 @@ Pub. L. 86–610 provided that:
 
 > “Whereas advances in combating and abating disease and in the positive promotion of human health can be stimulated by supporting and encouraging cooperation among scientists, research workers, and teachers on an international basis, with consequent benefit to the health of our people and of all peoples; and
 
-> “Whereas there already exist tested means for international cooperation in matters relating to health, including the World Health Organization, the Pan American Health Organization, and the United Nations Children’s Fund (UNICEF), with which the United States is identified and associated, and it is highly desirable that the United States establish domestic machinery for the maximum mobilization of its health research resources, the more efficiently to cooperate with and support the research, research-training and research-planning endeavors of such international organizations: Therefore be it \* \* \*”.
+> “Whereas there already exist tested means for international cooperation in matters relating to health, including the World Health Organization, the Pan American Health Organization, and the United Nations Children’s Fund (UNICEF), with which the United States is identified and associated, and it is highly desirable that the United States establish domestic machinery for the maximum mobilization of its health research resources, the more efficiently to cooperate with and support the research, research-training and research-planning endeavors of such international organizations: Therefore be it \* \* \*”.
 
 **Short Title**
 
-Pub. L. 86–610, § 1, July 12, 1960, 74 Stat. 364, provided that: “This joint resolution [enacting this chapter and section 242*l* of Title 42, The Public Health and Welfare] may be cited as the ‘International Health Research Act of 1960’.”
+Pub. L. 86–610, § 1, July 12, 1960, 74 Stat. 364, provided that: “This joint resolution [enacting this chapter and section 242*l* of Title 42, The Public Health and Welfare] may be cited as the ‘International Health Research Act of 1960’.”
 
 **Swine Influenza Study**
 
-Pub. L. 94–302, title III, § 301, May 31, 1976, 90 Stat. 596, provided that:
+Pub. L. 94–302, title III, § 301, May 31, 1976, 90 Stat. 596, provided that:
 
 > **“(a)** The Congress finds and declares that—
 
@@ -99,7 +99,7 @@ Sec. 3. *General*. (a) Executive departments and agencies shall carry out the pr
 
 William J. Clinton.
 
-## § 2102. Authority of Secretary
+## § 2102. Authority of Secretary
 
 **(a) Use of health research and research training resources**
 
@@ -125,17 +125,17 @@ To carry out the purposes of clause (1) of section 2101 of this title, the Secre
 
 **(2)** The term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
 
-(Pub. L. 86–610, § 4, July 12, 1960, 74 Stat. 365.)
+(Pub. L. 86–610, § 4, July 12, 1960, 74 Stat. 365.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Vocational Rehabilitation Act, referred to in subsec. (a), is act June 2, 1920, ch. 219, 41 Stat. 735, which was classified generally to chapter 4 (§ 31 et seq.) of Title 29, Labor, and was repealed by § 500(a) of the Rehabilitation Act of 1973, Pub. L. 93–112, title V, Sept. 26, 1973, 87 Stat. 355. The Rehabilitation Act of 1973 is classified generally to chapter 16 (§ 701 et seq.) of Title 29. Section 500(a), classified to section 790 of Title 29, in part provided that references to the Vocational Rehabilitation Act in any other provision of law be deemed reference to the Rehabilitation Act of 1973.
+The Vocational Rehabilitation Act, referred to in subsec. (a), is act June 2, 1920, ch. 219, 41 Stat. 735, which was classified generally to chapter 4 (§ 31 et seq.) of Title 29, Labor, and was repealed by § 500(a) of the Rehabilitation Act of 1973, Pub. L. 93–112, title V, Sept. 26, 1973, 87 Stat. 355. The Rehabilitation Act of 1973 is classified generally to chapter 16 (§ 701 et seq.) of Title 29. Section 500(a), classified to section 790 of Title 29, in part provided that references to the Vocational Rehabilitation Act in any other provision of law be deemed reference to the Rehabilitation Act of 1973.
 
 **Codification**
 
-In subsec. (b)(5), (6), “section 5703 of title 5” and “section 3109 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)” and “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b)(5), (6), “section 5703 of title 5” and “section 3109 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)” and “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -143,7 +143,7 @@ In subsec. (b)(5), (6), “section 5703 of title 5” and “section 3109 of tit
 
 For transfer of functions and offices relating to the Rehabilitation Act of 1973 [see References in Text note above] of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education and redes­ignation of Secretary of Health, Education, and Welfare as Secretary of Health and Human Services, see sections 3441 and 3508 of Title 20, Education.
 
-## § 2103. Authority of President
+## § 2103. Authority of President
 
 **(a) Use of foreign currencies and credits**
 
@@ -183,13 +183,13 @@ The President may delegate any authority vested in him by this section to the Se
 
 **(g) Use of foreign currencies and credits**
 
-In order to carry out the purposes of section 2101 of this title, and subject to section 1306 of title 31, the President may use or enter into agreements with foreign nations or organizations of nations to use the foreign currencies which accrue under title I of the Food for Peace Act [7 U.S.C. 1701 et seq.], and the Mutual Security Act of 1954, or which are otherwise available for utilization by the United States. The President is authorized to agree to the utilization by foreign nations, for programs designed to carry out the purposes of section 2101 of this title in cooperation with the United States, of amounts deposited in special accounts pursuant to section 142(b) 1
+In order to carry out the purposes of section 2101 of this title, and subject to section 1306 of title 31, the President may use or enter into agreements with foreign nations or organizations of nations to use the foreign currencies which accrue under title I of the Food for Peace Act [7 U.S.C. 1701 et seq.], and the Mutual Security Act of 1954, or which are otherwise available for utilization by the United States. The President is authorized to agree to the utilization by foreign nations, for programs designed to carry out the purposes of section 2101 of this title in cooperation with the United States, of amounts deposited in special accounts pursuant to section 142(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Mutual Security Act of 1954, to the extent that the amounts in such accounts exceed the requirements of other programs covered by such section 142(b). Such utilization of amounts in special accounts shall be without regard to the second proviso in clause (iii) of such section 142(b).
 
-**(h) Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286**
+**(h) Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286**
 
 **(i) Definitions** For the purposes of this section—
 
@@ -197,27 +197,27 @@ of the Mutual Security Act of 1954, to the extent that the amounts in such accou
 
 **(2)** the term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
 
-(Pub. L. 86–610, § 5, July 12, 1960, 74 Stat. 366; Pub. L. 105–362, title VI, § 601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(P), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 86–610, § 5, July 12, 1960, 74 Stat. 366; Pub. L. 105–362, title VI, § 601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(P), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (c) and (e), was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, § 106, 88 Stat. 367, and is classified to section 242*l* of Title 42, The Public Health and Welfare.
+This chapter, referred to in subsecs. (c) and (e), was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, § 106, 88 Stat. 367, and is classified to section 242*l* of Title 42, The Public Health and Welfare.
 
-The Food for Peace Act, referred to in subsec. (g), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. Title I of the Act is classified to subchapter II (§ 1701 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (g), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. Title I of the Act is classified to subchapter II (§ 1701 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Mutual Security Act of 1954, referred to in subsec. (g), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
+The Mutual Security Act of 1954, referred to in subsec. (g), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
-Section 142(b) of the Mutual Security Act of 1954, referred to in subsec. (g), was classified to section 1852 of this title, and was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460.
+Section 142(b) of the Mutual Security Act of 1954, referred to in subsec. (g), was classified to section 1852 of this title, and was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460.
 
 **Codification**
 
-In subsec. (c)(2), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes of the United States” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes of the United States” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (e), “section 3109 of title 5” and “section 5703 of title 5” substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” and “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+In subsec. (e), “section 3109 of title 5” and “section 5703 of title 5” substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” and “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
 
-In subsec. (g), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance.
+In subsec. (g), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -233,19 +233,19 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Transfer of Functions**
 
-Office of Vocational Rehabilitation redesignated Vocational Rehabilitation Administration which by Department of Health, Education, and Welfare reorganization became Rehabilitation Services Administration. The Rehabilitation Act of 1973 (29 U.S.C. § 701 et seq.) established Rehabilitation Services Administration in Office of Secretary of Health, Education, and Welfare. Functions and offices of Secretary and Department of Health, Education, and Welfare relating to Rehabilitation Act of 1973 transferred to Secretary and Department of Education by section 3441 of Title 20, Education. The Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508(b) of Title 20, Education.
+Office of Vocational Rehabilitation redesignated Vocational Rehabilitation Administration which by Department of Health, Education, and Welfare reorganization became Rehabilitation Services Administration. The Rehabilitation Act of 1973 (29 U.S.C. § 701 et seq.) established Rehabilitation Services Administration in Office of Secretary of Health, Education, and Welfare. Functions and offices of Secretary and Department of Health, Education, and Welfare relating to Rehabilitation Act of 1973 transferred to Secretary and Department of Education by section 3441 of Title 20, Education. The Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508(b) of Title 20, Education.
 
-## § 2104. Authority of Federal officers and agencies unaffected
+## § 2104. Authority of Federal officers and agencies unaffected
 
 Nothing in this chapter shall be construed to repeal or restrict authority vested in the President, the Secretary of State, the Secretary of Health, Education, and Welfare, the Surgeon General of the Public Health Service, or any other officer or agency of the United States by any other provision of law.
 
-(Pub. L. 86–610, § 6, July 12, 1960, 74 Stat. 369.)
+(Pub. L. 86–610, § 6, July 12, 1960, 74 Stat. 369.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, § 106, 88 Stat. 367, and is classified to section 242*l* of Title 42, The Public Health and Welfare.
+This chapter, referred to in text, was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, § 106, 88 Stat. 367, and is classified to section 242*l* of Title 42, The Public Health and Welfare.
 
 **Statutory Notes and Related Subsidiaries**
 

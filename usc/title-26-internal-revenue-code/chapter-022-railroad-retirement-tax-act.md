@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 22—RAILROAD RETIREMENT TAX ACT
 
-2001—Pub. L. 107–90, title II, § 204(e)(5), Dec. 21, 2001, 115 Stat. 893, added item for subchapter E.
+2001—Pub. L. 107–90, title II, § 204(e)(5), Dec. 21, 2001, 115 Stat. 893, added item for subchapter E.
 
 ## Subchapter A—Tax on Employees
 
-### § 3201. Rate of tax
+### § 3201. Rate of tax
 
 **(a) Tier 1 tax**
 
@@ -33,7 +33,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, § 206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, § 201(a), May 19, 1959, 73 Stat. 28; Pub. L. 88–133, title II, § 201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§ 105(b)(1), 111(c)(1), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§ 4, 5(a), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, § 301(a), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, § 301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 93–69, title I, § 102(a), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, § 201, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, § 1903(a)(6), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, § 741(a), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§ 211(a), 221, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, § 9031(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, § 5125(a), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, § 204(c), Dec. 21, 2001, 115 Stat. 892; Pub. L. 113–295, div. A, title II, § 221(a)(100)(A), Dec. 19, 2014, 128 Stat. 4052.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, § 206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, § 201(a), May 19, 1959, 73 Stat. 28; Pub. L. 88–133, title II, § 201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§ 105(b)(1), 111(c)(1), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§ 4, 5(a), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, § 301(a), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, § 301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 93–69, title I, § 102(a), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, § 201, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, § 1903(a)(6), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, § 741(a), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§ 211(a), 221, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, § 9031(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, § 5125(a), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, § 204(c), Dec. 21, 2001, 115 Stat. 892; Pub. L. 113–295, div. A, title II, § 221(a)(100)(A), Dec. 19, 2014, 128 Stat. 4052.)
 
 **Editorial Notes**
 
@@ -47,14 +47,14 @@ For application of different contribution bases with respect to the taxes impose
 
 1987—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the following percentage of the compensation received during any calendar year by such employee for services rendered by such employee:
 
-| **“In the case of compensation received**  **during:** | **The rate shall be:** |
+| **“In the case of compensation received** **during:** | **The rate shall be:** |
 |---|---|
 | 1985 | 3.50 |
 | 1986 or thereafter | 4.25.” |
 
-1983—Pub. L. 98–76, § 221, amended section generally, substituting a two tiered tax system with accompanying tax rate tables and a cross reference to section 3231 of this title, for provisions which had taxed an employee at 2.75 percent of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month and which had provided that the rate of tax imposed by subsection (a) be increased by the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month.
+1983—Pub. L. 98–76, § 221, amended section generally, substituting a two tiered tax system with accompanying tax rate tables and a cross reference to section 3231 of this title, for provisions which had taxed an employee at 2.75 percent of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month and which had provided that the rate of tax imposed by subsection (a) be increased by the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month.
 
-Pub. L. 98–76, § 211(a), substituted “2.75 percent” for “2.0 percent”.
+Pub. L. 98–76, § 211(a), substituted “2.75 percent” for “2.0 percent”.
 
 1981—Subsec. (a). Pub. L. 97–34 added subsec. (a).
 
@@ -92,17 +92,17 @@ Amendment by Pub. L. 107–90 applicable to calendar years beginning after Dec. 
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title IX, § 9031(b), Dec. 22, 1987, 101 Stat. 1330–296, provided that: “The amendment made by this section [amending this section] shall apply with respect to compensation received after December 31, 1987.”
+Pub. L. 100–203, title IX, § 9031(b), Dec. 22, 1987, 101 Stat. 1330–296, provided that: “The amendment made by this section [amending this section] shall apply with respect to compensation received after December 31, 1987.”
 
 **Effective and Termination Dates of 1983 Amendment**
 
-Pub. L. 98–76, title II, § 212, Aug. 12, 1983, 97 Stat. 419, provided that: “The amendments made by this part [part I (§§ 211, 212) of subtitle A of title II of Pub. L. 98–76, amending this section, sections 3211 and 3221 of this title, and section 430 of Title 42, The Public Health and Welfare] shall apply to compensation paid for services rendered after December 31, 1983, and before January 1, 1985.”
+Pub. L. 98–76, title II, § 212, Aug. 12, 1983, 97 Stat. 419, provided that: “The amendments made by this part [part I (§§ 211, 212) of subtitle A of title II of Pub. L. 98–76, amending this section, sections 3211 and 3221 of this title, and section 430 of Title 42, The Public Health and Welfare] shall apply to compensation paid for services rendered after December 31, 1983, and before January 1, 1985.”
 
-Pub. L. 98–76, title II, § 227(a), Aug. 12, 1983, 97 Stat. 426, provided that: “The amendments made by sections 221, 222, 223, and 225 [amending this section and sections 3202, 3211, 3221, and 3231 of this title and section 430 of Title 42] shall apply to remuneration paid after December 31, 1984.”
+Pub. L. 98–76, title II, § 227(a), Aug. 12, 1983, 97 Stat. 426, provided that: “The amendments made by sections 221, 222, 223, and 225 [amending this section and sections 3202, 3211, 3221, and 3231 of this title and section 430 of Title 42] shall apply to remuneration paid after December 31, 1984.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title VII, § 741(e), Aug. 13, 1981, 95 Stat. 347, provided that: “The amendments made by this section [amending this section and sections 3211, 3221, and 3231 of this title and section 430 of Title 42, The Public Health and Welfare] shall apply to compensation paid for services rendered after September 30, 1981.”
+Pub. L. 97–34, title VII, § 741(e), Aug. 13, 1981, 95 Stat. 347, provided that: “The amendments made by this section [amending this section and sections 3211, 3221, and 3231 of this title and section 430 of Title 42, The Public Health and Welfare] shall apply to compensation paid for services rendered after September 30, 1981.”
 
 **Effective Date of 1976 Amendment**
 
@@ -110,37 +110,37 @@ Amendment by Pub. L. 94–455 applicable with respect to compensation paid for s
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–93, title II, § 207, Aug. 9, 1975, 89 Stat. 467, provided that: “The amendments made by sections 201 through 205 of this title [amending this section and sections 3211, 3221, and 3231 of this title] shall apply for taxable years ending on or after the date of the enactment of this Act [Aug. 9, 1975] and for taxable years ending before the date of the enactment of this Act as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on the date of enactment of this Act. The amendment made by section 206 of this title [amending section 3231 of this title] shall apply for taxable years beginning on or after the date of enactment of this Act: *Provided, however*, That with respect to payment made prior to the date of enactment of this Act, the employee may file a written request under section 206 within six months after the enactment of this Act.”
+Pub. L. 94–93, title II, § 207, Aug. 9, 1975, 89 Stat. 467, provided that: “The amendments made by sections 201 through 205 of this title [amending this section and sections 3211, 3221, and 3231 of this title] shall apply for taxable years ending on or after the date of the enactment of this Act [Aug. 9, 1975] and for taxable years ending before the date of the enactment of this Act as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on the date of enactment of this Act. The amendment made by section 206 of this title [amending section 3231 of this title] shall apply for taxable years beginning on or after the date of enactment of this Act: *Provided, however*, That with respect to payment made prior to the date of enactment of this Act, the employee may file a written request under section 206 within six months after the enactment of this Act.”
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–69, title I, § 109(b), July 10, 1973, 87 Stat. 165, provided that: “The amendments made by section 102 of this Act [amending this section and sections 3202, 3211, and 3221 of this title] shall become effective on October 1, 1973, and shall apply only with respect to compensation paid for services rendered on or after that date: *Provided, however*, That such amendments shall not be applicable to any dock company, common carrier railroad, or railway labor organization described in section 1(a) of the Railroad Retirement Act of 1937 [section 228a(a) of Title 45, Railroads], with respect to those of its employees covered as of October 1, 1973, by a private supplemental pension plan established through collective bargaining, where a moratorium in an agreement made on or before March 8, 1973, is applicable to changes in rates of pay contained in the current collective-bargaining agreement covering such employees, until the earlier of (1) the date as of which such moratorium expires, or (2) the date as of which such dock company, common carrier railroad, or railway labor organization agrees through collective bargaining to make the provisions of such amendments applicable.”
+Pub. L. 93–69, title I, § 109(b), July 10, 1973, 87 Stat. 165, provided that: “The amendments made by section 102 of this Act [amending this section and sections 3202, 3211, and 3221 of this title] shall become effective on October 1, 1973, and shall apply only with respect to compensation paid for services rendered on or after that date: *Provided, however*, That such amendments shall not be applicable to any dock company, common carrier railroad, or railway labor organization described in section 1(a) of the Railroad Retirement Act of 1937 [section 228a(a) of Title 45, Railroads], with respect to those of its employees covered as of October 1, 1973, by a private supplemental pension plan established through collective bargaining, where a moratorium in an agreement made on or before March 8, 1973, is applicable to changes in rates of pay contained in the current collective-bargaining agreement covering such employees, until the earlier of (1) the date as of which such moratorium expires, or (2) the date as of which such dock company, common carrier railroad, or railway labor organization agrees through collective bargaining to make the provisions of such amendments applicable.”
 
 **Effective Date of 1965 Amendments**
 
-Pub. L. 89–212, § 6, Sept. 29, 1965, 79 Stat. 862, provided that: “The amendments made by sections 1 and 3 of this Act [amending sections 228b, 228c, and 228e of Title 45, Railroads] shall take effect with respect to annuities accruing and deaths occurring in months after the month in which this Act is enacted [September 1965], and shall apply also to annuities paid in lump sums equal to their commuted value because of a reduction in such annuities under section 2(e) of the Railroad Retirement Act of 1937 [section 228b(e) of Title 45], as in effect before the amendments made by this Act, as if such annuities had not been paid in such lump sums: *Provided, however*, That the amounts of such annuities which were paid in lump sums equal to their commuted value shall not be included in the amount of annuities which become payable by reason of section 1 of this Act [amending section 228b of Title 45]. The amendments made by section 2 of this Act [amending sections 3203, 3231, 3402, 6053, and 6652 of this title, and section 228a of Title 45] shall apply only with respect to tips received after 1965. The amendments made by section 4 of this Act [amending this section and sections 3202, 3211, and 3221 of this title] shall apply only with respect to calendar months after the month in which this Act is enacted. The amendments made by section 5 of this Act [amending this section and sections 3211 and 3221 of this title] shall apply only with respect to compensation paid for services rendered after September 30, 1965.”
+Pub. L. 89–212, § 6, Sept. 29, 1965, 79 Stat. 862, provided that: “The amendments made by sections 1 and 3 of this Act [amending sections 228b, 228c, and 228e of Title 45, Railroads] shall take effect with respect to annuities accruing and deaths occurring in months after the month in which this Act is enacted [September 1965], and shall apply also to annuities paid in lump sums equal to their commuted value because of a reduction in such annuities under section 2(e) of the Railroad Retirement Act of 1937 [section 228b(e) of Title 45], as in effect before the amendments made by this Act, as if such annuities had not been paid in such lump sums: *Provided, however*, That the amounts of such annuities which were paid in lump sums equal to their commuted value shall not be included in the amount of annuities which become payable by reason of section 1 of this Act [amending section 228b of Title 45]. The amendments made by section 2 of this Act [amending sections 3203, 3231, 3402, 6053, and 6652 of this title, and section 228a of Title 45] shall apply only with respect to tips received after 1965. The amendments made by section 4 of this Act [amending this section and sections 3202, 3211, and 3221 of this title] shall apply only with respect to calendar months after the month in which this Act is enacted. The amendments made by section 5 of this Act [amending this section and sections 3211 and 3221 of this title] shall apply only with respect to compensation paid for services rendered after September 30, 1965.”
 
-Pub. L. 89–97, title I, § 105(b)(4), July 30, 1965, 79 Stat. 336, provided that: “The amendments made by this subsection [amending this section and sections 3211 and 3221 of this title] shall be effective with respect to compensation paid for services rendered after December 31, 1965.”
+Pub. L. 89–97, title I, § 105(b)(4), July 30, 1965, 79 Stat. 336, provided that: “The amendments made by this subsection [amending this section and sections 3211 and 3221 of this title] shall be effective with respect to compensation paid for services rendered after December 31, 1965.”
 
 Amendment by section 111(c)(1) of Pub. L. 89–97 applicable to calendar year 1966, or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act [this chapter] provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act [section 3101 et seq. of this title] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–28, title II, § 202, May 19, 1959, 73 Stat. 30, provided that: “The amendments made by section 201 [amending this section and sections 3202, 3211, and 3221 of this title] shall, except as otherwise provided in such amendments, be effective as of the first day of the calendar month next following the month in which this Act was enacted [May, 1959], and shall apply only with respect to compensation paid after the month of such enactment, for services rendered after such month of enactment.”
+Pub. L. 86–28, title II, § 202, May 19, 1959, 73 Stat. 30, provided that: “The amendments made by section 201 [amending this section and sections 3202, 3211, and 3221 of this title] shall, except as otherwise provided in such amendments, be effective as of the first day of the calendar month next following the month in which this Act was enacted [May, 1959], and shall apply only with respect to compensation paid after the month of such enactment, for services rendered after such month of enactment.”
 
 **Effective Date of 1954 Amendment**
 
-Act Aug. 31, 1954, ch. 1164, pt. IV, § 407, 68 Stat. 1042, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that: “The amendments to the Internal Revenue Code of 1986 [formerly I.R.C. 1954] made by section 206 [amending this section and sections 3202, 3211, 3221, and 3231 of this title] shall become effective as if enacted as a part of the Internal Revenue Code of 1986.”
+Act Aug. 31, 1954, ch. 1164, pt. IV, § 407, 68 Stat. 1042, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that: “The amendments to the Internal Revenue Code of 1986 [formerly I.R.C. 1954] made by section 206 [amending this section and sections 3202, 3211, 3221, and 3231 of this title] shall become effective as if enacted as a part of the Internal Revenue Code of 1986.”
 
 **Separability**
 
-Pub. L. 93–69, title III, § 301, July 10, 1973, 87 Stat. 168, provided that: “If any provision of this Act [amending this section, sections 3202, 3211, and 3221 of this title, sections 228b, 228c, and 228e of Title 45, Railroads, and section 15a of former Title 49, and enacting provisions set out as notes under this section, and sections 228b, 228c, 228f, and 228*o* of Title 45] or the application thereof to any person or circumstances should be held invalid, the remainder of such Act or the application of such provision to other persons or circumstances shall not be affected thereby.”
+Pub. L. 93–69, title III, § 301, July 10, 1973, 87 Stat. 168, provided that: “If any provision of this Act [amending this section, sections 3202, 3211, and 3221 of this title, sections 228b, 228c, and 228e of Title 45, Railroads, and section 15a of former Title 49, and enacting provisions set out as notes under this section, and sections 228b, 228c, 228f, and 228*o* of Title 45] or the application thereof to any person or circumstances should be held invalid, the remainder of such Act or the application of such provision to other persons or circumstances shall not be affected thereby.”
 
 **Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123**
 
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by subsec. (b) of this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under section 3101 of this title.
 
-### § 3202. Deduction of tax from compensation
+### § 3202. Deduction of tax from compensation
 
 **(a) Requirement**
 
@@ -186,7 +186,7 @@ Every employer required under subsection (a) to deduct the tax shall be liable f
 
 **(B)** such payment is for coverage for periods during which an employment relationship no longer exists between the employee and the employer.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, § 206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, § 201(b), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, § 202, Oct. 5, 1963,77 Stat. 221; Pub. L. 89–212, §§ 2(a), 4, Sept. 29, 1965, 79 Stat. 858, 861; Pub. L. 89–700, title III, § 301(iii), (v), Oct. 30, 1966, 80 Stat. 1088; Pub. L. 93–69, title I, § 102(b), July 10, 1973, 87 Stat. 162; Pub. L. 94–455, title XIX, §§ 1903(a)(7), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1807, 1834; Pub. L. 98–76, title II, § 225(a)(2), (c)(1)(A), (B), (2)–(5), Aug. 12, 1983, 97 Stat. 425; Pub. L. 101–508, title V, § 5124(b), Nov. 5, 1990, 104 Stat. 1388–285.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, § 206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, § 201(b), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, § 202, Oct. 5, 1963,77 Stat. 221; Pub. L. 89–212, §§ 2(a), 4, Sept. 29, 1965, 79 Stat. 858, 861; Pub. L. 89–700, title III, § 301(iii), (v), Oct. 30, 1966, 80 Stat. 1088; Pub. L. 93–69, title I, § 102(b), July 10, 1973, 87 Stat. 162; Pub. L. 94–455, title XIX, §§ 1903(a)(7), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1807, 1834; Pub. L. 98–76, title II, § 225(a)(2), (c)(1)(A), (B), (2)–(5), Aug. 12, 1983, 97 Stat. 425; Pub. L. 101–508, title V, § 5124(b), Nov. 5, 1990, 104 Stat. 1388–285.)
 
 **Editorial Notes**
 
@@ -194,25 +194,25 @@ Every employer required under subsection (a) to deduct the tax shall be liable f
 
 1990—Subsec. (d). Pub. L. 101–508 added subsec. (d).
 
-1983—Subsec. (a). Pub. L. 98–76, § 225(a)(2), (c)(1)(A), (2), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, substituted “the amount of the taxes” for “the amount of the tax”, and “such taxes” for “such tax”, and struck out provisions that if an employee was paid compensation by more than one employer for services rendered during any calendar month and the aggregate of such compensation was in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, the tax to be deducted by each employer other than a subordinate unit of a national railway-labor-organization employer from the compensation paid by him to the employee with respect to such month would be that proportion of the tax with respect to such compensation paid by all such employers which the compensation paid by him to the employee for services rendered during such month bears to the total compensation paid by all such employers to such employee for services rendered during such month; and that in the event that the compensation so paid by such employers to the employee for services rendered during such month was less than an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, each subordinate unit of a national railway-labor-organization employer would deduct such proportion of any additional tax as the compensation paid by such employer to such employee for services rendered during such month bears to the total compensation paid by all such employers to such employee for services rendered during such month.
+1983—Subsec. (a). Pub. L. 98–76, § 225(a)(2), (c)(1)(A), (2), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, substituted “the amount of the taxes” for “the amount of the tax”, and “such taxes” for “such tax”, and struck out provisions that if an employee was paid compensation by more than one employer for services rendered during any calendar month and the aggregate of such compensation was in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, the tax to be deducted by each employer other than a subordinate unit of a national railway-labor-organization employer from the compensation paid by him to the employee with respect to such month would be that proportion of the tax with respect to such compensation paid by all such employers which the compensation paid by him to the employee for services rendered during such month bears to the total compensation paid by all such employers to such employee for services rendered during such month; and that in the event that the compensation so paid by such employers to the employee for services rendered during such month was less than an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, each subordinate unit of a national railway-labor-organization employer would deduct such proportion of any additional tax as the compensation paid by such employer to such employee for services rendered during such month bears to the total compensation paid by all such employers to such employee for services rendered during such month.
 
-Subsec. (c)(2). Pub. L. 98–76, § 225(c)(1)(B), (3), (5), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, “the taxes under paragraph (1)” for “the tax under paragraph (1)”, and “exceed” for “exceeds”.
+Subsec. (c)(2). Pub. L. 98–76, § 225(c)(1)(B), (3), (5), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, “the taxes under paragraph (1)” for “the tax under paragraph (1)”, and “exceed” for “exceeds”.
 
-Subsec. (c)(4). Pub. L. 98–76, § 225(c)(1)(B), (4), (5), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, “such taxes” for “such tax”, and “exceed” for “exceeds”.
+Subsec. (c)(4). Pub. L. 98–76, § 225(c)(1)(B), (4), (5), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, “such taxes” for “such tax”, and “exceed” for “exceeds”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1903(a)(7)(A), struck out provisions relating to the September 30, 1973, qualification on the applicability of provisions of this subsection and “of the Internal Revenue Code of 1954” before “for any month” wherever appearing.
+1976—Subsec. (a). Pub. L. 94–455, § 1903(a)(7)(A), struck out provisions relating to the September 30, 1973, qualification on the applicability of provisions of this subsection and “of the Internal Revenue Code of 1954” before “for any month” wherever appearing.
 
-Subsec. (b). Pub. L. 94–455, § 1903(a)(7)(B), struck out “made” after “to deduct the tax shall be”.
+Subsec. (b). Pub. L. 94–455, § 1903(a)(7)(B), struck out “made” after “to deduct the tax shall be”.
 
-Subsec. (c)(3). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(3). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1973—Subsec. (a). Pub. L. 93–69, in second sentence reading “If an employee . . .”, substituted “1973” for “1965” wherever appearing, struck out “(i) $450, or (ii)” before “an amount equal to” in two places, and struck out “, whichever is greater,” after “Internal Revenue Code of 1954” in two places.
+1973—Subsec. (a). Pub. L. 93–69, in second sentence reading “If an employee . . .”, substituted “1973” for “1965” wherever appearing, struck out “(i) $450, or (ii)” before “an amount equal to” in two places, and struck out “, whichever is greater,” after “Internal Revenue Code of 1954” in two places.
 
 1966—Subsec. (a). Pub. L. 89–700 substituted “after September 30, 1965” for “after the month in which this provision was amended in 1959” in six places, and “(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965” for “$400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended” in two places.
 
-1965—Subsec. (a). Pub. L. 89–212, §§ 2(a)(1), 4, inserted sentence permitting an employer who is furnished by an employee a written statement of tips pursuant to section 6053(a) to which par. (3) of section 3231(e) is applicable to deduct an amount equivalent to such tax with respect to such tips from any compensation of the employee under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20, and inserted “and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended” in two places.
+1965—Subsec. (a). Pub. L. 89–212, §§ 2(a)(1), 4, inserted sentence permitting an employer who is furnished by an employee a written statement of tips pursuant to section 6053(a) to which par. (3) of section 3231(e) is applicable to deduct an amount equivalent to such tax with respect to such tips from any compensation of the employee under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20, and inserted “and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended” in two places.
 
-Subsec. (c). Pub. L. 89–212, § 2(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 89–212, § 2(a)(2), added subsec. (c).
 
 1963—Subsec. (a). Pub. L. 88–133 limited existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
@@ -252,7 +252,7 @@ Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Interna
 
 ## Subchapter B—Tax on Employee Representatives
 
-### § 3211. Rate of tax
+### § 3211. Rate of tax
 
 **(a) Tier 1 tax**
 
@@ -266,7 +266,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 432; Aug. 31, 1954, ch. 1164, pt. II, § 206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, § 201(c), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, § 201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§ 105(b)(2), 111(c)(2), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§ 4, 5(b), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, § 301 (b), (d), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, § 301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, § 4, Mar. 17, 1970, 84 Stat. 70; Pub. L. 93–69, title I, § 102(c), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, § 202, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, § 1903(a)(8), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, § 741(b), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§ 211(c), 223, Aug. 12, 1983, 97 Stat. 419, 421; Pub. L. 101–508, title V, § 5125(b), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §§ 203(a), 204(b), Dec. 21, 2001, 115 Stat. 891; Pub. L. 113–295, div. A, title II, § 221(a)(100)(B), Dec. 19, 2014, 128 Stat. 4052.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 432; Aug. 31, 1954, ch. 1164, pt. II, § 206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, § 201(c), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, § 201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§ 105(b)(2), 111(c)(2), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§ 4, 5(b), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, § 301 (b), (d), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, § 301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, § 4, Mar. 17, 1970, 84 Stat. 70; Pub. L. 93–69, title I, § 102(c), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, § 202, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, § 1903(a)(8), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, § 741(b), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§ 211(c), 223, Aug. 12, 1983, 97 Stat. 419, 421; Pub. L. 101–508, title V, § 5125(b), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §§ 203(a), 204(b), Dec. 21, 2001, 115 Stat. 891; Pub. L. 113–295, div. A, title II, § 221(a)(100)(B), Dec. 19, 2014, 128 Stat. 4052.)
 
 **Editorial Notes**
 
@@ -274,19 +274,19 @@ For application of different contribution bases with respect to the taxes impose
 
 2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
-2001—Subsec. (a). Pub. L. 107–90, § 204(b), added subsec. (a) and struck out former subsec. (a), which related to imposition of tier 1 and 2 taxes.
+2001—Subsec. (a). Pub. L. 107–90, § 204(b), added subsec. (a) and struck out former subsec. (a), which related to imposition of tier 1 and 2 taxes.
 
-Subsec. (b). Pub. L. 107–90, § 204(b), added subsec. (b).
+Subsec. (b). Pub. L. 107–90, § 204(b), added subsec. (b).
 
-Pub. L. 107–90, § 203(a), struck out subsec. (b) which read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee representative a tax at a rate equal to the rate of excise tax imposed on every employer, provided for in section 3221(c), for each man-hour for which compensation is paid to him for services rendered as an employee representative.”
+Pub. L. 107–90, § 203(a), struck out subsec. (b) which read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee representative a tax at a rate equal to the rate of excise tax imposed on every employer, provided for in section 3221(c), for each man-hour for which compensation is paid to him for services rendered as an employee representative.”
 
-Subsec. (c). Pub. L. 107–90, § 204(b), added subsec. (c).
+Subsec. (c). Pub. L. 107–90, § 204(b), added subsec. (c).
 
 1990—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of the” and provision defining the term “applicable percentage” for provision specifying that in the case of compensation received during 1985 the rate of tax was 14.10 percent, for 1986 or 1987 the rate was 14.30 percent, for 1988 or 1989 the rate was 15.02 percent, and for 1990 or thereafter the rate was 15.30 percent.
 
-1983—Subsec. (a). Pub. L. 98–76, § 223, substituted provisions imposing a two tiered tax on each employee representative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wage” as defined in section 3121 for any month.
+1983—Subsec. (a). Pub. L. 98–76, § 223, substituted provisions imposing a two tiered tax on each employee representative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wage” as defined in section 3121 for any month.
 
-Pub. L. 98–76, § 211(c), substituted “12.75 percent” for “11.75 percent”.
+Pub. L. 98–76, § 211(c), substituted “12.75 percent” for “11.75 percent”.
 
 1981—Subsec. (a). Pub. L. 97–34 substituted “11.75” for “9.5”.
 
@@ -300,9 +300,9 @@ Pub. L. 98–76, § 211(c), substituted “12.75 percent” for “11.75 perce
 
 1966—Pub. L. 89–700 substituted “rendered after September 30, 1965” for “rendered after December 31, 1964”, and “(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965” for “$400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended”.
 
-Pub. L. 89–699, § 301(b), (d), designated existing provisions as subsec. (a), and substituted “14 percent” for “13½ percent” in subd. (3), “14½ percent” for “14 percent” in subd. (4), and “15 percent” for “14½ percent” in subd. (5).
+Pub. L. 89–699, § 301(b), (d), designated existing provisions as subsec. (a), and substituted “14 percent” for “13½ percent” in subd. (3), “14½ percent” for “14 percent” in subd. (4), and “15 percent” for “14½ percent” in subd. (5).
 
-Subsec. (b). Pub. L. 89–699, § 301(d), added subsec. (b).
+Subsec. (b). Pub. L. 89–699, § 301(d), added subsec. (b).
 
 1965—Pub. L. 89–212 substituted pars. (1) to (5) for former pars. (1) and (2) which imposed a tax equal to 13½ percent of so much of the compensation paid to such employee representative for services rendered by him after the month in which this provision was amended in 1959, and before Jan. 1, 1962, and 14½ percent of so much of the compensation paid to such employee representative for services rendered by him after Dec. 31, 1961, and inserted “and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended”.
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–90, title II, § 203(c), Dec. 21, 2001, 115 Stat. 891, provided that: “The amendments made by this section [amending this section and section 3221 of this title] shall apply to calendar years beginning after December 31, 2001.”
+Pub. L. 107–90, title II, § 203(c), Dec. 21, 2001, 115 Stat. 891, provided that: “The amendments made by this section [amending this section and section 3221 of this title] shall apply to calendar years beginning after December 31, 2001.”
 
 Amendment by section 204(b) of Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as a note under section 24 of this title.
 
@@ -350,7 +350,7 @@ Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with re
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–699, title III, § 301(f), Oct. 30, 1966, 80 Stat. 1079, as amended by Pub. L. 91–215, § 8, Mar. 17, 1970, 84 Stat. 72, provided that: “The amendments made by subsections (d) and (e) of this section [amending this section and section 3221 of this title] shall be effective with respect to man-hours, beginning with the first month following enactment of this Act [Oct. 30, 1966], for which compensation is paid.”
+Pub. L. 89–699, title III, § 301(f), Oct. 30, 1966, 80 Stat. 1079, as amended by Pub. L. 91–215, § 8, Mar. 17, 1970, 84 Stat. 72, provided that: “The amendments made by subsections (d) and (e) of this section [amending this section and section 3221 of this title] shall be effective with respect to man-hours, beginning with the first month following enactment of this Act [Oct. 30, 1966], for which compensation is paid.”
 
 **Effective Date of 1965 Amendments**
 
@@ -370,13 +370,13 @@ Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Interna
 
 **Separability**
 
-Pub. L. 91–215, § 9, Mar. 17, 1970, 84 Stat. 72, provided that: “If any provision of this Act [amending this section, section 3221 of this title, and sections 228c and 228*o* of Title 45, Railroads, enacting provisions set out as notes under section 3221 of this title and sections 228c and 228*o* of Title 45, and amending provisions set out as notes under this section] or the application thereof to any person or circumstances is held invalid, the remainder of this Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby.”
+Pub. L. 91–215, § 9, Mar. 17, 1970, 84 Stat. 72, provided that: “If any provision of this Act [amending this section, section 3221 of this title, and sections 228c and 228*o* of Title 45, Railroads, enacting provisions set out as notes under section 3221 of this title and sections 228c and 228*o* of Title 45, and amending provisions set out as notes under this section] or the application thereof to any person or circumstances is held invalid, the remainder of this Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby.”
 
 **Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123**
 
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under section 3101 of this title.
 
-### § 3212. Determination of compensation
+### § 3212. Determination of compensation
 
 The compensation of an employee representative for the purpose of ascertaining the tax thereon shall be determined in the same manner and with the same effect as if the employee organization by which such employee representative is employed were an employer as defined in section 3231(a).
 
@@ -384,7 +384,7 @@ The compensation of an employee representative for the purpose of ascertaining t
 
 ## Subchapter C—Tax on Employers
 
-### § 3221. Rate of tax
+### § 3221. Rate of tax
 
 **(a) Tier 1 tax**
 
@@ -398,7 +398,7 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 
 For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, § 206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, § 201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, § 202, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§ 105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§ 4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, § 301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§ 301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, § 5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, § 102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, § 501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, § 203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§ 1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, § 741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§ 211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, § 9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, § 5125(c), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 107–90, title II, §§ 203(b), 204(a), Dec. 21, 2001, 115 Stat. 891; Pub. L. 111–147, title I, § 101(d)(1), Mar. 18, 2010, 124 Stat. 74; Pub. L. 113–295, div. A, title II, § 221(a)(100)(C), Dec. 19, 2014, 128 Stat. 4052; Pub. L. 115–141, div. U, title IV, § 401(b)(36), Mar. 23, 2018, 132 Stat. 1204.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, § 206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, § 201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, § 202, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§ 105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§ 4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, § 301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§ 301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, § 5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, § 102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, § 501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, § 203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§ 1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, § 741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§ 211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, § 9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, § 5125(c), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 107–90, title II, §§ 203(b), 204(a), Dec. 21, 2001, 115 Stat. 891; Pub. L. 111–147, title I, § 101(d)(1), Mar. 18, 2010, 124 Stat. 74; Pub. L. 113–295, div. A, title II, § 221(a)(100)(C), Dec. 19, 2014, 128 Stat. 4052; Pub. L. 115–141, div. U, title IV, § 401(b)(36), Mar. 23, 2018, 132 Stat. 1204.)
 
 **Editorial Notes**
 
@@ -410,9 +410,9 @@ For application of different contribution bases with respect to the taxes impose
 
 2010—Subsecs. (c), (d). Pub. L. 111–147 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2001—Subsec. (b). Pub. L. 107–90, § 204(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 16.10 percent of the compensation paid during any calendar year by such employer for services rendered to such employer.”
+2001—Subsec. (b). Pub. L. 107–90, § 204(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 16.10 percent of the compensation paid during any calendar year by such employer for services rendered to such employer.”
 
-Subsecs. (c) to (e). Pub. L. 107–90, § 203(b), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which provided, in subsec. (c), for imposition of excise tax on every employer, with respect to having individuals in his employ, for each man-hour for which compensation was paid by such employer for services rendered to him during any calendar quarter, and for credit against such tax of amount equivalent in each month to the aggregate amount of reductions in supplemental annuities accruing in such month to employees of such employer, and, in subsec. (d), that such tax would not apply to an employer with respect to employees covered by a supplemental pension plan which is established pursuant to an agreement reached through collective bargaining between the employer and employees.
+Subsecs. (c) to (e). Pub. L. 107–90, § 203(b), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which provided, in subsec. (c), for imposition of excise tax on every employer, with respect to having individuals in his employ, for each man-hour for which compensation was paid by such employer for services rendered to him during any calendar quarter, and for credit against such tax of amount equivalent in each month to the aggregate amount of reductions in supplemental annuities accruing in such month to employees of such employer, and, in subsec. (d), that such tax would not apply to an employer with respect to employees covered by a supplemental pension plan which is established pursuant to an agreement reached through collective bargaining between the employer and employees.
 
 1990—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of” and provision defining “applicable percentage” for provision specifying the tax rate to be 7.05 percent, 7.15 percent, 7.51 percent, and 7.65 percent in the case of compensation paid during 1985, 1986 or 1987, 1988 or 1989, or 1990 or thereafter, respectively.
 
@@ -423,41 +423,41 @@ Subsecs. (c) to (e). Pub. L. 107–90, § 203(b), redesignated subsec. (e) as 
 | 1985 | 13.75 |
 | 1986 or thereafter | 14.75.” |
 
-1983—Subsec. (a). Pub. L. 98–76, § 222(a), in amending subsec. (a) generally, substituted provisions imposing an excise tax on employers, with respect to having individuals in his employ, equal to a percentage of compensation paid as set out in an accompanying table, for provisions which imposed an excise tax on employers, with respect to having individuals in his employ, equal to 12.75 percent of so much of the compensation paid in any calendar month by such employer for services rendered to him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, with certain exceptions dealing with multiple employers.
+1983—Subsec. (a). Pub. L. 98–76, § 222(a), in amending subsec. (a) generally, substituted provisions imposing an excise tax on employers, with respect to having individuals in his employ, equal to a percentage of compensation paid as set out in an accompanying table, for provisions which imposed an excise tax on employers, with respect to having individuals in his employ, equal to 12.75 percent of so much of the compensation paid in any calendar month by such employer for services rendered to him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, with certain exceptions dealing with multiple employers.
 
-Pub. L. 98–76, § 211(b), substituted “12.75 percent” for “11.75 percent”.
+Pub. L. 98–76, § 211(b), substituted “12.75 percent” for “11.75 percent”.
 
-Subsec. (b). Pub. L. 98–76, § 222(a), in amending subsec. (b) generally, substituted provisions imposing a second tier excise tax on employers equal to a percentage of compensation paid as set out in an accompanying table, for provisions that the rate of tax imposed by former subsec. (a) would be increased by the rate of tax imposed with respect to wages by section 3111(a) plus the rate imposed by section 3111(b).
+Subsec. (b). Pub. L. 98–76, § 222(a), in amending subsec. (b) generally, substituted provisions imposing a second tier excise tax on employers equal to a percentage of compensation paid as set out in an accompanying table, for provisions that the rate of tax imposed by former subsec. (a) would be increased by the rate of tax imposed with respect to wages by section 3111(a) plus the rate imposed by section 3111(b).
 
-Subsec. (e). Pub. L. 98–76, § 222(b), added subsec. (e).
+Subsec. (e). Pub. L. 98–76, § 222(b), added subsec. (e).
 
 1981—Subsec. (a). Pub. L. 97–34 substituted in first sentence “11.75” for “9.5”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1903(a)(9)(A), 1906(b)(13)(G), struck out provisions relating to the September 30, 1973 qualification on the applicability of provisions of this subsection, “of the Internal Revenue Code of 1954” after “as defined in section 3121” wherever appearing, and “of the Treasury” after “to the Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, §§ 1903(a)(9)(A), 1906(b)(13)(G), struck out provisions relating to the September 30, 1973 qualification on the applicability of provisions of this subsection, “of the Internal Revenue Code of 1954” after “as defined in section 3121” wherever appearing, and “of the Treasury” after “to the Secretary”.
 
-Subsec. (b). Pub. L. 94–455, § 1903(a)(9)(B), struck out “, with respect to compensation paid for services rendered after September 30, 1973,” after “shall be increased”, “of the Internal Revenue Code of 1954” after “by section 3111(a)” and “of such Code” after “by section 3111(b)”.
+Subsec. (b). Pub. L. 94–455, § 1903(a)(9)(B), struck out “, with respect to compensation paid for services rendered after September 30, 1973,” after “shall be increased”, “of the Internal Revenue Code of 1954” after “by section 3111(a)” and “of such Code” after “by section 3111(b)”.
 
-Subsec. (c). Pub. L. 94–455, §§ 1903(a)(9)(C), 1906(b)(13)(G), struck out “(1) at the rate of two cents for the period beginning November 1, 1966, and ending March 31, 1970, and (2) commencing April 1, 1970,” after “during any calendar quarter,” , “commencing with the quarter beginning April 1, 1970” after “required for each calendar quarter”, “of the Treasury” after “representatives, and the Secretary” and “of the Treasury” after “shall certify to the Secretary”.
+Subsec. (c). Pub. L. 94–455, §§ 1903(a)(9)(C), 1906(b)(13)(G), struck out “(1) at the rate of two cents for the period beginning November 1, 1966, and ending March 31, 1970, and (2) commencing April 1, 1970,” after “during any calendar quarter,” , “commencing with the quarter beginning April 1, 1970” after “required for each calendar quarter”, “of the Treasury” after “representatives, and the Secretary” and “of the Treasury” after “shall certify to the Secretary”.
 
 1975—Subsec. (a). Pub. L. 94–93 substituted “compensation paid in any calendar month by such employer” for “compensation paid by such employer”.
 
-1974—Subsec. (c). Pub. L. 93–445, § 501(a), struck out “for appropriation to the Railroad Retirement Supplemental Account provided for in section 15(b) of the Railroad Retirement Act of 1937” after “commencing April 1, 1970, at such rate as will make available”, substituted “at the level provided under section 3(j) of the Railroad Retirement Act of 1937 as in effect on December 31, 1974” for “under section 3(j) of such Act”, and inserted “or section 2(h)(2) of the Railroad Retirement Act of 1974” after “section 3(j)(2) of the Railroad Retirement Act of 1937”.
+1974—Subsec. (c). Pub. L. 93–445, § 501(a), struck out “for appropriation to the Railroad Retirement Supplemental Account provided for in section 15(b) of the Railroad Retirement Act of 1937” after “commencing April 1, 1970, at such rate as will make available”, substituted “at the level provided under section 3(j) of the Railroad Retirement Act of 1937 as in effect on December 31, 1974” for “under section 3(j) of such Act”, and inserted “or section 2(h)(2) of the Railroad Retirement Act of 1974” after “section 3(j)(2) of the Railroad Retirement Act of 1937”.
 
-Subsec. (d). Pub. L. 93–445, § 501(b), substituted “section 2(b) of the Railroad Retirement Act of 1974” for “section 3(j) of the Railroad Retirement Act of 1937” and “section 2(b) of such Act” for “section 3(j) of such Act”.
+Subsec. (d). Pub. L. 93–445, § 501(b), substituted “section 2(b) of the Railroad Retirement Act of 1974” for “section 3(j) of the Railroad Retirement Act of 1937” and “section 2(b) of such Act” for “section 3(j) of such Act”.
 
-1973—Subsec. (a). Pub. L. 93–69, § 102(d), (e), substituted new tax rate provisions on employers for services rendered after Sept. 30, 1973, for former provisions which prescribed 6¼, 6½, 7, 7¼, and 7½ percent on income for services rendered after Sept. 30, 1965; Dec. 31, 1965; Dec. 31, 1966; Dec. 31, 1967; and Dec. 31, 1968, respectively, as is, with respect to any employee for any calendar month, not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after Sept. 30, 1965, and, in first sentence, substituted “1973” for “1965” wherever appearing, struck out “(i) $450, or (ii)” before “an amount equal to” in two places, and struck out “, whichever is greater,” after “Internal Revenue Code of 1954” in two places, respectively.
+1973—Subsec. (a). Pub. L. 93–69, § 102(d), (e), substituted new tax rate provisions on employers for services rendered after Sept. 30, 1973, for former provisions which prescribed 6¼, 6½, 7, 7¼, and 7½ percent on income for services rendered after Sept. 30, 1965; Dec. 31, 1965; Dec. 31, 1966; Dec. 31, 1967; and Dec. 31, 1968, respectively, as is, with respect to any employee for any calendar month, not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after Sept. 30, 1965, and, in first sentence, substituted “1973” for “1965” wherever appearing, struck out “(i) $450, or (ii)” before “an amount equal to” in two places, and struck out “, whichever is greater,” after “Internal Revenue Code of 1954” in two places, respectively.
 
-Subsec. (b). Pub. L. 93–69, § 102(f), substituted “1973” for “1965” and “by the rate of tax imposed with respect to wages by section 3111(a) of the Internal Revenue Code of 1954 plus the rate imposed by section 3111(b) of such Code”, for “by a number of percentage points (including fractional points) equal at any given time to the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section 3111(a) plus the rate imposed by section 3111(b) at such time exceeds 2¾ percent (the rate provided by paragraph (2) of section 3111 as amended by the Social Security Amendments of 1956)”.
+Subsec. (b). Pub. L. 93–69, § 102(f), substituted “1973” for “1965” and “by the rate of tax imposed with respect to wages by section 3111(a) of the Internal Revenue Code of 1954 plus the rate imposed by section 3111(b) of such Code”, for “by a number of percentage points (including fractional points) equal at any given time to the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section 3111(a) plus the rate imposed by section 3111(b) at such time exceeds 2¾ percent (the rate provided by paragraph (2) of section 3111 as amended by the Social Security Amendments of 1956)”.
 
-1970—Subsec. (c). Pub. L. 91–215, § 5(a), provided a variable standard of taxation on employers for services rendered them during any calendar quarter at the existing 2 cent rate for each man-hour of services for the period from Nov. 1, 1966 to Mar. 31, 1970, and thereafter at such rates as will permit supplemental annuity payments under section 228c(j) of this title, and authorized the Railroad Retirement Board to make the necessary determination of rates, and made it its duty to publish notice of such determinations in the Federal Register.
+1970—Subsec. (c). Pub. L. 91–215, § 5(a), provided a variable standard of taxation on employers for services rendered them during any calendar quarter at the existing 2 cent rate for each man-hour of services for the period from Nov. 1, 1966 to Mar. 31, 1970, and thereafter at such rates as will permit supplemental annuity payments under section 228c(j) of this title, and authorized the Railroad Retirement Board to make the necessary determination of rates, and made it its duty to publish notice of such determinations in the Federal Register.
 
-Subsec. (d). Pub. L. 91–215, § 5(b)(1), added subsec. (d).
+Subsec. (d). Pub. L. 91–215, § 5(b)(1), added subsec. (d).
 
-1966—Subsec. (a). Pub. L. 89–700, §§ 301(iii), (v), 302, substituted “after September 30, 1965” for “after the month in which this provision was amended in 1959” in six places, and “(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965” for “400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended” in four places, and inserted sentence providing that where compensation for services rendered in a month is paid by two or more employers, one of the employers may, by notice to the Secretary, and by agreement with the other employer, elect for the tax imposed by section 3201 and this section to apply to all of the compensation paid by such employer for such month as does not exceed the maximum amount of compensation in respect to which taxes are imposed by section 3201 and this section; and in such a case the liability of the other employer shall be limited to the difference, if any, between the compensation paid by the electing employer and the maximum amount of compensation to which section 3201 and this section apply.
+1966—Subsec. (a). Pub. L. 89–700, §§ 301(iii), (v), 302, substituted “after September 30, 1965” for “after the month in which this provision was amended in 1959” in six places, and “(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965” for “400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended” in four places, and inserted sentence providing that where compensation for services rendered in a month is paid by two or more employers, one of the employers may, by notice to the Secretary, and by agreement with the other employer, elect for the tax imposed by section 3201 and this section to apply to all of the compensation paid by such employer for such month as does not exceed the maximum amount of compensation in respect to which taxes are imposed by section 3201 and this section; and in such a case the liability of the other employer shall be limited to the difference, if any, between the compensation paid by the electing employer and the maximum amount of compensation to which section 3201 and this section apply.
 
-Pub. L. 89–699, § 301(c), substituted “7 percent” for “6¾ percent” in subd. (3), “7¼ percent” for “7 percent” in subd. (4), and “7½ percent” for “7¼ percent” in subd. (5).
+Pub. L. 89–699, § 301(c), substituted “7 percent” for “6¾ percent” in subd. (3), “7¼ percent” for “7 percent” in subd. (4), and “7½ percent” for “7¼ percent” in subd. (5).
 
-Subsec. (b). Pub. L. 89–700, § 301(vi), substituted “after September 30, 1965” for “after December 31, 1964”.
+Subsec. (b). Pub. L. 89–700, § 301(vi), substituted “after September 30, 1965” for “after December 31, 1964”.
 
 Subsec. (c). Pub. L. 89–699 added subsec. (c).
 
@@ -467,9 +467,9 @@ Subsec. (b). Pub. L. 89–97 substituted “the rate of the tax imposed with res
 
 1963—Subsec. (a). Pub. L. 88–133 limited the existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
-1959—Subsec. (a). Pub. L. 86–28, § 201(d)(1), (2)(A), (B), designated former provisions of section as subsec. (a), increased the tax from 6¼ percent of the compensation not in excess of $350 for any calendar month to 6¾ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 7¼ percent for services rendered after Dec. 31, 1961, and substituted “after the month in which this provision was amended in 1959” for “after 1954” and for “after December 31, 1954” in six places, “not more than $400” for “not more than $350”, and “less than $400” for “less than $350”.
+1959—Subsec. (a). Pub. L. 86–28, § 201(d)(1), (2)(A), (B), designated former provisions of section as subsec. (a), increased the tax from 6¼ percent of the compensation not in excess of $350 for any calendar month to 6¾ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 7¼ percent for services rendered after Dec. 31, 1961, and substituted “after the month in which this provision was amended in 1959” for “after 1954” and for “after December 31, 1954” in six places, “not more than $400” for “not more than $350”, and “less than $400” for “less than $350”.
 
-Subsec. (b). Pub. L. 86–28, § 201(d)(2)(C), added subsec. (b).
+Subsec. (b). Pub. L. 86–28, § 201(d)(2)(C), added subsec. (b).
 
 1954—Act Aug. 31, 1954, substituted “$350” for “$300” wherever appearing.
 
@@ -491,7 +491,7 @@ Amendment by section 204(a) of Pub. L. 107–90 applicable to calendar years beg
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title IX, § 9032(b), Dec. 22, 1987, 101 Stat. 1330–296, provided that: “The amendments made by this section [amending this section] shall apply with respect to compensation paid after December 31, 1987.”
+Pub. L. 100–203, title IX, § 9032(b), Dec. 22, 1987, 101 Stat. 1330–296, provided that: “The amendments made by this section [amending this section] shall apply with respect to compensation paid after December 31, 1987.”
 
 **Effective and Termination Dates of 1983 Amendment**
 
@@ -513,7 +513,7 @@ Amendment by Pub. L. 94–93 applicable for taxable years ending on or after Aug
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–445, title VI, § 604, Oct. 16, 1974, 88 Stat. 1361, provided that: “The amendments made by the provisions of title V of this Act [amending this section and section 6413 of this title] shall become effective on January 1, 1975, and shall apply only with respect to compensation paid for services rendered on or after that date.”
+Pub. L. 93–445, title VI, § 604, Oct. 16, 1974, 88 Stat. 1361, provided that: “The amendments made by the provisions of title V of this Act [amending this section and section 6413 of this title] shall become effective on January 1, 1975, and shall apply only with respect to compensation paid for services rendered on or after that date.”
 
 **Effective Date of 1973 Amendment**
 
@@ -557,11 +557,11 @@ For provision that sick leave and family leave wages paid out by reason of certa
 
 **Excise Taxes on Employers; Employees Covered by Certain Supplemental Pension Plans**
 
-Pub. L. 91–215, § 5(b)(2), Mar. 17, 1970, 84 Stat. 71, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to (A) supplemental annuities paid on or after April 1, 1970, and (B) man-hours with respect to which compensation is paid for services rendered to such employer on or after such day.”
+Pub. L. 91–215, § 5(b)(2), Mar. 17, 1970, 84 Stat. 71, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to (A) supplemental annuities paid on or after April 1, 1970, and (B) man-hours with respect to which compensation is paid for services rendered to such employer on or after such day.”
 
 ## Subchapter D—General Provisions
 
-### § 3231. Definitions
+### § 3231. Definitions
 
 **(a) Employer**
 
@@ -661,7 +661,7 @@ clause (2) of the first sentence, and the second sentence, of subsection (c) of 
 
 **(6)** The term “compensation” shall not include any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127.
 
-**[(7)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v), Dec. 19, 2014, 128 Stat. 4040.]
+**[(7)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v), Dec. 19, 2014, 128 Stat. 4040.]
 
 **(8) Treatment of certain deferred compensation and salary reduction arrangements**
 
@@ -707,13 +707,13 @@ For purposes of this chapter, tips which constitute compensation for purposes of
 
 For purposes of this chapter, if 2 or more related corporations which are employers concurrently employ the same individual and compensate such individual through a common paymaster which is 1 of such corporations, each such corporation shall be considered to have paid as remuneration to such individual only the amounts actually disbursed by it to such individual and shall not be considered to have paid as remuneration to such individual amounts actually disbursed to such individual by another of such corporations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 434; Aug. 31, 1954, ch. 1164, pt. II, § 206(b), 68 Stat. 1040; Pub. L. 89–212, § 2(b), Sept. 29, 1965, 79 Stat. 859; Pub. L. 90–624, § 1, Oct. 22, 1968, 82 Stat. 1316; Pub. L. 94–92, title II, § 203(b), Aug. 9, 1975, 89 Stat. 465; Pub. L. 94–93, title II, §§ 204–206, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§ 1903(a)(10), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 94–547, § 4(b), Oct. 18, 1976, 90 Stat. 2526; Pub. L. 95–473, § 2(a)(2)(G), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 97–34, title VII, §§ 741(d)(2), 743(a)–(c), Aug. 13, 1981, 95 Stat. 347, 348; Pub. L. 97–123, § 3(c), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 98–76, title II, § 225(a)(1), (3), (b), (c)(1)(C), (6)–(8), Aug. 12, 1983, 97 Stat. 424, 425; Pub. L. 98–369, div. A, title V, § 531(d)(2), July 18, 1984, 98 Stat. 884; Pub. L. 98–611, § 1(f), Oct. 31, 1984, 98 Stat. 3178; Pub. L. 98–612, § 1(c), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title I, § 122(e)(2), title XVIII, § 1899A(41), Oct. 22, 1986, 100 Stat. 2112, 2960; Pub. L. 100–647, title I, §§ 1001(d)(2)(C)(ii), 1011B(a)(22)(B), Nov. 10, 1988, 102 Stat. 3351, 3486; Pub. L. 101–140, title II, § 203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §§ 10205(a), 10206(a), (b), 10207(a), (b), Dec. 19, 1989, 103 Stat. 2474–2476; Pub. L. 101–508, title XI, §§ 11331(c), 11704(a)(19), Nov. 5, 1990, 104 Stat. 1388–468, 1388–519; Pub. L. 103–66, title XIII, § 13207(c), Aug. 10, 1993, 107 Stat. 468; Pub. L. 103–296, title III, § 320(a)(1)(D), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, § 304(d), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–191, title III, § 301(c)(2)(A), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, § 1(a)(7) [title II, § 202(b)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–90, title II, § 204(e)(3), (4), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–173, title XII, § 1201(d)(2)(A), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title II, § 251(a)(2), title III, § 320(b)(2), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v), (100)(D), Dec. 19, 2014, 128 Stat. 4040, 4052.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 434; Aug. 31, 1954, ch. 1164, pt. II, § 206(b), 68 Stat. 1040; Pub. L. 89–212, § 2(b), Sept. 29, 1965, 79 Stat. 859; Pub. L. 90–624, § 1, Oct. 22, 1968, 82 Stat. 1316; Pub. L. 94–92, title II, § 203(b), Aug. 9, 1975, 89 Stat. 465; Pub. L. 94–93, title II, §§ 204–206, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§ 1903(a)(10), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 94–547, § 4(b), Oct. 18, 1976, 90 Stat. 2526; Pub. L. 95–473, § 2(a)(2)(G), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 97–34, title VII, §§ 741(d)(2), 743(a)–(c), Aug. 13, 1981, 95 Stat. 347, 348; Pub. L. 97–123, § 3(c), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 98–76, title II, § 225(a)(1), (3), (b), (c)(1)(C), (6)–(8), Aug. 12, 1983, 97 Stat. 424, 425; Pub. L. 98–369, div. A, title V, § 531(d)(2), July 18, 1984, 98 Stat. 884; Pub. L. 98–611, § 1(f), Oct. 31, 1984, 98 Stat. 3178; Pub. L. 98–612, § 1(c), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title I, § 122(e)(2), title XVIII, § 1899A(41), Oct. 22, 1986, 100 Stat. 2112, 2960; Pub. L. 100–647, title I, §§ 1001(d)(2)(C)(ii), 1011B(a)(22)(B), Nov. 10, 1988, 102 Stat. 3351, 3486; Pub. L. 101–140, title II, § 203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §§ 10205(a), 10206(a), (b), 10207(a), (b), Dec. 19, 1989, 103 Stat. 2474–2476; Pub. L. 101–508, title XI, §§ 11331(c), 11704(a)(19), Nov. 5, 1990, 104 Stat. 1388–468, 1388–519; Pub. L. 103–66, title XIII, § 13207(c), Aug. 10, 1993, 107 Stat. 468; Pub. L. 103–296, title III, § 320(a)(1)(D), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, § 304(d), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–191, title III, § 301(c)(2)(A), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, § 1(a)(7) [title II, § 202(b)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–90, title II, § 204(e)(3), (4), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–173, title XII, § 1201(d)(2)(A), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title II, § 251(a)(2), title III, § 320(b)(2), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v), (100)(D), Dec. 19, 2014, 128 Stat. 4040, 4052.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Railway Labor Act, referred to in subsecs. (a) and (c), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsecs. (a) and (c), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 Section 1 of the Railroad Retirement Act of 1937, referred to in subsec. (d)(7), was classified to section 228a of Title 45, Railroads, prior to being omitted from the Code. The subject matter of section 228a is covered by section 231 of Title 45.
 
@@ -721,7 +721,7 @@ Section 230 of the Social Security Act, referred to in subsec. (e)(2)(B), is cla
 
 Section 3(a), (f)(3), (j) of the Railroad Retirement Act of 1974, referred to in subsec. (e)(2)(B)(ii)(II), is classified to section 231b(a), (f)(3), (j) of Title 45, Railroads.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (e)(4)(A)(ii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (e)(4)(A)(ii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 Section 101(a)(15) of the Immigration and Nationality Act, referred to in subsec. (e)(1), is classified to section 1101(a)(15) of Title 8, Aliens and Nationality.
 
@@ -729,117 +729,117 @@ Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. 
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–295, § 221(a)(100)(D), in first sentence substituted “compensation.” for “compensation; except that the term ‘employee’ shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to a carrier on or after August 29, 1935.” and struck out second sentence, which included pars. (1) to (4) and concluding provisions relating to an individual deemed to have been in the employment relation to a carrier on Aug. 29, 1935.
+2014—Subsec. (b). Pub. L. 113–295, § 221(a)(100)(D), in first sentence substituted “compensation.” for “compensation; except that the term ‘employee’ shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to a carrier on or after August 29, 1935.” and struck out second sentence, which included pars. (1) to (4) and concluding provisions relating to an individual deemed to have been in the employment relation to a carrier on Aug. 29, 1935.
 
-Subsec. (e)(7). Pub. L. 113–295, § 221(a)(19)(B)(v), struck out par. (7) which read as follows: “The term ‘compensation’ shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).”
+Subsec. (e)(7). Pub. L. 113–295, § 221(a)(19)(B)(v), struck out par. (7) which read as follows: “The term ‘compensation’ shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).”
 
-2004—Subsec. (e)(5). Pub. L. 108–357, § 320(b)(2), inserted “108(f)(4),” after “74(c),”.
+2004—Subsec. (e)(5). Pub. L. 108–357, § 320(b)(2), inserted “108(f)(4),” after “74(c),”.
 
-Subsec. (e)(12). Pub. L. 108–357, § 251(a)(2), added par. (12).
+Subsec. (e)(12). Pub. L. 108–357, § 251(a)(2), added par. (12).
 
 2003—Subsec. (e)(11). Pub. L. 108–173 added par. (11).
 
-2001—Subsec. (e)(2)(A)(iii)(II). Pub. L. 107–90, § 204(e)(3), substituted “3211(a)” for “3211(a)(1)”.
+2001—Subsec. (e)(2)(A)(iii)(II). Pub. L. 107–90, § 204(e)(3), substituted “3211(a)” for “3211(a)(1)”.
 
-Subsec. (e)(2)(B)(ii)(I). Pub. L. 107–90, § 204(e)(4), substituted “3211(b)” for “3211(a)(2)”.
+Subsec. (e)(2)(B)(ii)(I). Pub. L. 107–90, § 204(e)(4), substituted “3211(b)” for “3211(a)(2)”.
 
-Subsec. (e)(4)(A). Pub. L. 107–90, § 204(e)(3), substituted “3211(a)” for “3211(a)(1)”.
+Subsec. (e)(4)(A). Pub. L. 107–90, § 204(e)(3), substituted “3211(a)” for “3211(a)(1)”.
 
 2000—Subsec. (e)(10). Pub. L. 106–554 substituted “Archer MSA” for “Medical savings account” in heading.
 
 1996—Subsec. (e)(10). Pub. L. 104–191 added par. (10).
 
-1995—Subsec. (a). Pub. L. 104–88, § 304(d)(1), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+1995—Subsec. (a). Pub. L. 104–88, § 304(d)(1), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
-Subsec. (g). Pub. L. 104–88, § 304(d)(2), substituted “a rail carrier subject to part A of subtitle IV” for “an express carrier, sleeping car carrier, or rail carrier providing transportation subject to subchapter I of chapter 105”.
+Subsec. (g). Pub. L. 104–88, § 304(d)(2), substituted “a rail carrier subject to part A of subtitle IV” for “an express carrier, sleeping car carrier, or rail carrier providing transportation subject to subchapter I of chapter 105”.
 
 1994—Subsec. (e)(1). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” in two places.
 
-1993—Subsec. (e)(2)(A)(iii). Pub. L. 103–66, § 13207(c)(1), added cl. (iii).
+1993—Subsec. (e)(2)(A)(iii). Pub. L. 103–66, § 13207(c)(1), added cl. (iii).
 
-Subsec. (e)(2)(B)(i). Pub. L. 103–66, § 13207(c)(2), amended heading and text of cl. (i) generally. Prior to amendment, text read as follows:
+Subsec. (e)(2)(B)(i). Pub. L. 103–66, § 13207(c)(2), amended heading and text of cl. (i) generally. Prior to amendment, text read as follows:
 
 “(I) In general.—Except as provided in subclause (II) of this clause and in clause (ii), the term ‘applicable base’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
 
 “(II) Hospital insurance taxes.—For purposes of applying so much of the rate applicable under section 3201(a) or 3221(a) (as the case may be) as does not exceed the rate of tax in effect under section 3101(b), and for purposes of applying so much of the rate of tax applicable under section 3211(a)(1) as does not exceed the rate of tax in effect under section 1401(b), the term ‘applicable base’ means for any calendar year the applicable contribution base determined under section 3121(x)(2) for such calendar year.”
 
-1990—Subsec. (e)(2)(B)(i). Pub. L. 101–508, § 11331(c), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Except as provided in clause (ii), the term ‘applicable base’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.”
+1990—Subsec. (e)(2)(B)(i). Pub. L. 101–508, § 11331(c), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Except as provided in clause (ii), the term ‘applicable base’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.”
 
-Subsec. (e)(8) to (10). Pub. L. 101–508, § 11704(a)(19), redesignated pars. (9) and (10) as (8) and (9), respectively.
+Subsec. (e)(8) to (10). Pub. L. 101–508, § 11704(a)(19), redesignated pars. (9) and (10) as (8) and (9), respectively.
 
-1989—Subsec. (e)(1). Pub. L. 101–239, § 10207(b), inserted at end “Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from ‘wages’ as used in such chapter shall be construed to require a similar exclusion from ‘compensation’ in regulations prescribed for purposes of this chapter.”
+1989—Subsec. (e)(1). Pub. L. 101–239, § 10207(b), inserted at end “Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from ‘wages’ as used in such chapter shall be construed to require a similar exclusion from ‘compensation’ in regulations prescribed for purposes of this chapter.”
 
-Pub. L. 101–239, § 10206(a), substituted “(iii)” for “or (iii)” and inserted “, or (iv) any remuneration which would not (if chapter 21 applied to such remuneration) be treated as wages (as defined in section 3121(a)) by reason of section 3121(a)(5)”.
+Pub. L. 101–239, § 10206(a), substituted “(iii)” for “or (iii)” and inserted “, or (iv) any remuneration which would not (if chapter 21 applied to such remuneration) be treated as wages (as defined in section 3121(a)) by reason of section 3121(a)(5)”.
 
-Pub. L. 101–239, § 10205(a), inserted “or death, except that this clause does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee” before “, (ii) tips”.
+Pub. L. 101–239, § 10205(a), inserted “or death, except that this clause does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee” before “, (ii) tips”.
 
-Subsec. (e)(8). Pub. L. 101–140 amended subsec. (e) to read as if amendments by Pub. L. 100–647, § 1011B(a)(22)(B), had not been enacted, see 1988 Amendment note below.
+Subsec. (e)(8). Pub. L. 101–140 amended subsec. (e) to read as if amendments by Pub. L. 100–647, § 1011B(a)(22)(B), had not been enacted, see 1988 Amendment note below.
 
-Subsec. (e)(9). Pub. L. 101–239, § 10206(b), added par. (9).
+Subsec. (e)(9). Pub. L. 101–239, § 10206(b), added par. (9).
 
-Subsec. (e)(10). Pub. L. 101–239, § 10207(a), added par. (10).
+Subsec. (e)(10). Pub. L. 101–239, § 10207(a), added par. (10).
 
-1988—Subsec. (e)(1). Pub. L. 100–647, § 1001(d)(2)(C)(ii), substituted “(F), (J), or (M)” for “(F) or (J)” in two places.
+1988—Subsec. (e)(1). Pub. L. 100–647, § 1001(d)(2)(C)(ii), substituted “(F), (J), or (M)” for “(F) or (J)” in two places.
 
-Subsec. (e)(8). Pub. L. 100–647, § 1011B(a)(22)(B), added par. (8).
+Subsec. (e)(8). Pub. L. 100–647, § 1011B(a)(22)(B), added par. (8).
 
-1986—Subsec. (e)(5). Pub. L. 99–514, § 122(e)(2), inserted reference to section 74(c).
+1986—Subsec. (e)(5). Pub. L. 99–514, § 122(e)(2), inserted reference to section 74(c).
 
-Subsec. (e)(6), (7). Pub. L. 99–514, § 1899A(41), redesignated par. (6), relating to amounts excludable under section 120, as (7).
+Subsec. (e)(6), (7). Pub. L. 99–514, § 1899A(41), redesignated par. (6), relating to amounts excludable under section 120, as (7).
 
-1984—Subsec. (e)(5). Pub. L. 98–369, § 531(d)(2), added par. (5).
+1984—Subsec. (e)(5). Pub. L. 98–369, § 531(d)(2), added par. (5).
 
 Subsec. (e)(6). Pub. L. 98–611 added par. (6) relating to amounts excludable under section 127.
 
 Pub. L. 98–612 added par. (6) relating to amounts excludable under section 120.
 
-1983—Subsec. (e)(1). Pub. L. 98–76, § 225(a)(3), struck out provisions that compensation which was paid in one calendar month but which would be payable in a prior or subsequent taxable month but for the fact prescribed date of payment would fall on a Saturday, Sunday or legal holiday would be deemed to have been paid in such prior or subsequent taxable month and that compensation which was earned during the period for which the Secretary would require a return of taxes under this chapter to be made and which was payable during the calendar month following such period would be deemed to have been paid during such period only.
+1983—Subsec. (e)(1). Pub. L. 98–76, § 225(a)(3), struck out provisions that compensation which was paid in one calendar month but which would be payable in a prior or subsequent taxable month but for the fact prescribed date of payment would fall on a Saturday, Sunday or legal holiday would be deemed to have been paid in such prior or subsequent taxable month and that compensation which was earned during the period for which the Secretary would require a return of taxes under this chapter to be made and which was payable during the calendar month following such period would be deemed to have been paid during such period only.
 
-Subsec. (e)(2). Pub. L. 98–76, § 225(a)(1), amended par. (2) generally, substituting provisions which exclude compensation in excess of applicable base, which define “applicable base”, and which provide for the applicability of successor employer provisions to this paragraph, for provisions that a payment made by an employer to an individual through the employer’s payroll would be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which the payment was made, that an employee receiving retroactive wage payments would be deemed to be paid compensation in the period during which such compensation was earned only upon a written request by such employee, made within six months following the payment, and a showing that such compensation was earned during a period other than the period in which it was paid, that an employee would be deemed to be paid “for time lost” the amount he was paid by an employer with respect to an identifiable period of absence from the active service of the employer, including absence on account of personal injury, and the amount he was paid by the employer for loss of earnings resulting from his displacement to a less remunerative position or occupation, and that if a payment was made by an employer with respect to a personal injury and included pay for time lost, the total payment would be deemed to be paid for time lost unless, at the time of payment, a part of such payment was specifically apportioned to factors other than time lost, in which event only such part of the payment as was not so apportioned would be deemed to be paid for time lost.
+Subsec. (e)(2). Pub. L. 98–76, § 225(a)(1), amended par. (2) generally, substituting provisions which exclude compensation in excess of applicable base, which define “applicable base”, and which provide for the applicability of successor employer provisions to this paragraph, for provisions that a payment made by an employer to an individual through the employer’s payroll would be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which the payment was made, that an employee receiving retroactive wage payments would be deemed to be paid compensation in the period during which such compensation was earned only upon a written request by such employee, made within six months following the payment, and a showing that such compensation was earned during a period other than the period in which it was paid, that an employee would be deemed to be paid “for time lost” the amount he was paid by an employer with respect to an identifiable period of absence from the active service of the employer, including absence on account of personal injury, and the amount he was paid by the employer for loss of earnings resulting from his displacement to a less remunerative position or occupation, and that if a payment was made by an employer with respect to a personal injury and included pay for time lost, the total payment would be deemed to be paid for time lost unless, at the time of payment, a part of such payment was specifically apportioned to factors other than time lost, in which event only such part of the payment as was not so apportioned would be deemed to be paid for time lost.
 
-Subsec. (e)(3). Pub. L. 98–76, § 225(c)(1)(C), (6), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, and “such taxes” for “such tax”.
+Subsec. (e)(3). Pub. L. 98–76, § 225(c)(1)(C), (6), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, and “such taxes” for “such tax”.
 
-Subsec. (e)(4)(A). Pub. L. 98–76, § 225(c)(7), substituted “3201(a), 3211(a)(1), and 3221(a)” for “3201(b) and 3221(b) (and so much of section 3211(a) as relates to the rates of the taxes imposed by sections 3101 and 3111)”.
+Subsec. (e)(4)(A). Pub. L. 98–76, § 225(c)(7), substituted “3201(a), 3211(a)(1), and 3221(a)” for “3201(b) and 3221(b) (and so much of section 3211(a) as relates to the rates of the taxes imposed by sections 3101 and 3111)”.
 
-Subsec. (h). Pub. L. 98–76, § 225(c)(8), substituted “taxes imposed by section 3201” for “tax imposed under section 3201”, and struck out “; and tips so deemed to be paid in any month shall be deemed paid for services rendered in such month” after “time received”.
+Subsec. (h). Pub. L. 98–76, § 225(c)(8), substituted “taxes imposed by section 3201” for “tax imposed under section 3201”, and struck out “; and tips so deemed to be paid in any month shall be deemed paid for services rendered in such month” after “time received”.
 
-Subsec. (i). Pub. L. 98–76, § 225(b), added subsec. (i).
+Subsec. (i). Pub. L. 98–76, § 225(b), added subsec. (i).
 
-1981—Subsec. (e)(1). Pub. L. 97–34, § 743(a), inserted after third sentence provision that “Compensation which is paid in one calendar month but which would be payable in a prior or subsequent taxable month but for the fact that prescribed date of payment would fall on a Saturday, Sunday or legal holiday shall be deemed to have been paid in such prior or subsequent taxable month.”
+1981—Subsec. (e)(1). Pub. L. 97–34, § 743(a), inserted after third sentence provision that “Compensation which is paid in one calendar month but which would be payable in a prior or subsequent taxable month but for the fact that prescribed date of payment would fall on a Saturday, Sunday or legal holiday shall be deemed to have been paid in such prior or subsequent taxable month.”
 
-Pub. L. 97–34, § 741(d)(2), struck out cl. (iii) exclusion from term “compensation” the voluntary payment by an employer, without deduction from the remuneration of the employee, of the tax imposed on such employee by section 3201, redesignated as cl. (iii) provisions formerly designated (iv).
+Pub. L. 97–34, § 741(d)(2), struck out cl. (iii) exclusion from term “compensation” the voluntary payment by an employer, without deduction from the remuneration of the employee, of the tax imposed on such employee by section 3201, redesignated as cl. (iii) provisions formerly designated (iv).
 
-Subsec. (e)(2). Pub. L. 97–34, § 743(b), (c), inserted first sentence respecting presumption of a payment through the employer’s payroll as being compensation for services rendered as an employee in the period with respect to which payment is made, and in second sentence following “an employee” inserted “receiving retroactive wage payments”.
+Subsec. (e)(2). Pub. L. 97–34, § 743(b), (c), inserted first sentence respecting presumption of a payment through the employer’s payroll as being compensation for services rendered as an employee in the period with respect to which payment is made, and in second sentence following “an employee” inserted “receiving retroactive wage payments”.
 
 Subsec. (e)(4). Pub. L. 97–123 added par. (4).
 
 1978—Subsec. (g). Pub. L. 95–473 substituted “express carrier, sleeping car carrier, or rail carrier providing transportation subject to subchapter I of chapter 105 of title 49” for “express company, sleeping-car company, or carrier by railroad, subject to part I of the Interstate Commerce Act (49 U.S.C., chapter 1)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1903(a)(10)(A), 1906(b)(13)(A), struck out “44 Stat. 577;” before “45 U.S.C., chapter 8” and “or his delegate” after “Secretary”, respectively.
+1976—Subsec. (a). Pub. L. 94–455, §§ 1903(a)(10)(A), 1906(b)(13)(A), struck out “44 Stat. 577;” before “45 U.S.C., chapter 8” and “or his delegate” after “Secretary”, respectively.
 
-Subsec. (b). Pub. L. 94–455, § 1903(a)(10)(B), struck out in provisions following par. (4) “50 Stat. 312;” before “45 U.S.C. 228f”.
+Subsec. (b). Pub. L. 94–455, § 1903(a)(10)(B), struck out in provisions following par. (4) “50 Stat. 312;” before “45 U.S.C. 228f”.
 
-Subsec. (c). Pub. L. 94–455, § 1903(a)(10)(C), struck out “44 Stat. 577;” before “45 U.S.C. chapter 8”.
+Subsec. (c). Pub. L. 94–455, § 1903(a)(10)(C), struck out “44 Stat. 577;” before “45 U.S.C. chapter 8”.
 
-Subsec. (d)(7). Pub. L. 94–455, § 1903(a)(10)(D), struck out “50 Stat. 308;” before “45 U.S.C. 228a”.
+Subsec. (d)(7). Pub. L. 94–455, § 1903(a)(10)(D), struck out “50 Stat. 308;” before “45 U.S.C. 228a”.
 
 Subsec. (e)(1). Pub. L. 94–547 provided that “compensation” not include amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of sickness or accident disability or medical or hospitalization expenses in connection with sickness or accident disability, or an amount paid specifically—either as an advance, as reimbursement or allowance—for traveling or other bona fide and necessary expenses incurred or reasonably expected to be incurred in the business of the employer provided any such payment is identified by the employer either by a separate payment or by specifically indicating the separate amounts where both wages and expense reimbursement or allowance are combined in a single payment.
 
-Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (e)(1). Pub. L. 94–93, § 204, substituted “paid to an individual for services rendered as an employee to one or more employers” for “earned by an individual for services rendered as an employee to one or more employers, or as an employee representative, including remuneration paid for time lost as an employee, but remuneration paid for time lost shall be deemed earned in the month in which such time is lost”.
+1975—Subsec. (e)(1). Pub. L. 94–93, § 204, substituted “paid to an individual for services rendered as an employee to one or more employers” for “earned by an individual for services rendered as an employee to one or more employers, or as an employee representative, including remuneration paid for time lost as an employee, but remuneration paid for time lost shall be deemed earned in the month in which such time is lost”.
 
 Pub. L. 94–92 increased from $3 to $25 amount of compensation earned in the service of a local lodge or division of a railway-labor-organization employer to be disregarded with respect to any calendar month in the determination of amount of taxes under sections 3201 and 3221.
 
-Subsec. (e)(2). Pub. L. 94–93, §§ 205, 206, substituted provision that an employee shall be deemed to be paid compensation in the period during which such compensation is earned only upon a written request by such employee, made within six months following the payment, and a showing that such compensation was earned during a period other than the period in which it was paid for provision that a payment made by an employer to an individual through the employer’s payroll shall be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which payment is made.
+Subsec. (e)(2). Pub. L. 94–93, §§ 205, 206, substituted provision that an employee shall be deemed to be paid compensation in the period during which such compensation is earned only upon a written request by such employee, made within six months following the payment, and a showing that such compensation was earned during a period other than the period in which it was paid for provision that a payment made by an employer to an individual through the employer’s payroll shall be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which payment is made.
 
 1968—Subsec. (e)(1). Pub. L. 90–624 inserted provision excluding remuneration for service performed by nonresident alien individuals temporarily in the United States as participants in a cultural exchange or training program.
 
-1965—Subsec. (e)(1). Pub. L. 89–212, § 2(b)(1), inserted “(except as is provided under paragraph (3))”.
+1965—Subsec. (e)(1). Pub. L. 89–212, § 2(b)(1), inserted “(except as is provided under paragraph (3))”.
 
-Subsec. (e)(3). Pub. L. 89–212, § 2(b)(2), added par. (3).
+Subsec. (e)(3). Pub. L. 89–212, § 2(b)(2), added par. (3).
 
-Subsec. (h). Pub. L. 89–212, § 2(b)(3), added subsec. (h).
+Subsec. (h). Pub. L. 89–212, § 2(b)(3), added subsec. (h).
 
 1954—Subsec. (e)(1). Act Aug. 31, 1954, excluded from taxation compensation, for service as a delegate to a national or international convention of a railway labor organization, of any person who has no other previous creditable service.
 
@@ -885,7 +885,7 @@ Amendment by section 11331(c) of Pub. L. 101–508 applicable to 1991 and later 
 
 **Effective Date of 1989 Amendments**
 
-Pub. L. 101–239, title X, § 10205(b), Dec. 19, 1989, 103 Stat. 2474 provided that:
+Pub. L. 101–239, title X, § 10205(b), Dec. 19, 1989, 103 Stat. 2474 provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply to—
 
@@ -897,7 +897,7 @@ Pub. L. 101–239, title X, § 10205(b), Dec. 19, 1989, 103 Stat. 2474 provide
 
 > **“(3) Benefit determinations to take into account remuneration on which tax paid.—** The term ‘compensation’ as defined in section 1(h) of the Railroad Retirement Act of 1974 [45 U.S.C. 231(h)] includes any remuneration which is included in the term ‘compensation’ as defined in section 3231(e)(1) of the Internal Revenue Code of 1986 by reason of the amendment made by subsection (a).”
 
-Pub. L. 101–239, title X, § 10206(c), Dec. 19, 1989, 103 Stat. 2475, provided that:
+Pub. L. 101–239, title X, § 10206(c), Dec. 19, 1989, 103 Stat. 2475, provided that:
 
 > **“(1) Subsection (a).—** The amendment made by subsection (a) [amending this section] shall apply to remuneration paid after December 31, 1989.
 
@@ -921,7 +921,7 @@ Pub. L. 101–239, title X, § 10206(c), Dec. 19, 1989, 103 Stat. 2475, provid
 
 > **“(5) Special rule with respect to nonqualified deferred compensation plans.—** In the case of an agreement in existence on June 15, 1989, between a nonqualified deferred compensation plan (as defined in section 3121(v)(2)(C) of such Code) and an individual, the amendment made by subsection (b) shall apply with respect to services performed by the individual after December 31, 1989. The preceding sentence shall not apply in the case of a plan to which section 457(a) of such Code applies.”
 
-Pub. L. 101–239, title X, § 10207(c), Dec. 19, 1989, 103 Stat. 2476, provided that: “The amendments made by this section [amending this section] shall apply to remuneration paid after December 31, 1989.”
+Pub. L. 101–239, title X, § 10207(c), Dec. 19, 1989, 103 Stat. 2476, provided that: “The amendments made by this section [amending this section] shall apply to remuneration paid after December 31, 1989.”
 
 Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
@@ -937,7 +937,7 @@ Amendment by section 122(e)(2) of Pub. L. 99–514 applicable to prizes and awar
 
 **Effective Date of 1984 Amendments**
 
-Pub. L. 98–612, § 1(d)(3), Oct. 31, 1984, 98 Stat. 3181, provided that: “The amendment made by subsection (c) [amending this section] shall apply to remuneration paid after December 31, 1984.”
+Pub. L. 98–612, § 1(d)(3), Oct. 31, 1984, 98 Stat. 3181, provided that: “The amendment made by subsection (c) [amending this section] shall apply to remuneration paid after December 31, 1984.”
 
 Amendment by Pub. L. 98–611 applicable to remuneration paid after Dec. 31, 1984, see section 1(g)(3) of Pub. L. 98–611, set out as a note under section 127 of this title.
 
@@ -953,11 +953,11 @@ Amendment by Pub. L. 97–123 applicable to remuneration paid after Dec. 31, 198
 
 Amendment by section 741(d)(2) of Pub. L. 97–34 applicable to compensation paid for services rendered after Sept. 30, 1981, see section 741(e) of Pub. L. 97–34, set out as a note under section 3201 of this title.
 
-Pub. L. 97–34, title VII, § 743(d), Aug. 13, 1981, 95 Stat. 349, provided that: “The amendments made by this section [amending this section] shall apply for taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title VII, § 743(d), Aug. 13, 1981, 95 Stat. 349, provided that: “The amendments made by this section [amending this section] shall apply for taxable years beginning after December 31, 1981.”
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–547, § 4(c)(2), Oct. 18, 1976, 90 Stat. 2527, provided that: “The amendments made by subsection (b) of this section [amending this section] shall apply with respect to taxable years ending after December 31, 1953: *Provided, however*, That any taxes paid under the Railroad Retirement Tax Act [this chapter] prior to the date on which this Act is enacted [Oct. 18, 1976] shall not be affected or adjusted by reason of the amendments made by such subsection (b) except to the extent that the applicable period of limitation for the assessment of tax and the filing of a claim for credit or refund has not expired prior to the date on which this Act is enacted. If the applicable period of limitation for the filing of a claim for credit or refund would expire within the six-month period following the date on which this Act is enacted, the applicable period for the filing of such a claim for credit or refund shall be extended to include such six-month period.”
+Pub. L. 94–547, § 4(c)(2), Oct. 18, 1976, 90 Stat. 2527, provided that: “The amendments made by subsection (b) of this section [amending this section] shall apply with respect to taxable years ending after December 31, 1953: *Provided, however*, That any taxes paid under the Railroad Retirement Tax Act [this chapter] prior to the date on which this Act is enacted [Oct. 18, 1976] shall not be affected or adjusted by reason of the amendments made by such subsection (b) except to the extent that the applicable period of limitation for the assessment of tax and the filing of a claim for credit or refund has not expired prior to the date on which this Act is enacted. If the applicable period of limitation for the filing of a claim for credit or refund would expire within the six-month period following the date on which this Act is enacted, the applicable period for the filing of such a claim for credit or refund shall be extended to include such six-month period.”
 
 **Effective Date of 1975 Amendments**
 
@@ -967,7 +967,7 @@ Amendment by Pub. L. 94–92 effective Jan. 1, 1975, and applicable only with re
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–624, § 4(a), Oct. 22, 1968, 82 Stat. 1316, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–624, § 4(a), Oct. 22, 1968, 82 Stat. 1316, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** The amendments made by the first two sections of this Act [amending this section and section 228a of Title 45, Railroads] shall apply with respect to service performed after December 31, 1961.
 
@@ -995,11 +995,11 @@ For purposes of this chapter, the term “compensation” shall not include the 
 
 For purposes of applying subsec. (e) of this section with respect to subsec. (e)(4) of this section, payments under a State temporary disability law to be treated as remuneration for service, see section 3(e) of Pub. L. 97–123, set out as a note under section 3121 of this title.
 
-### § 3232. Court jurisdiction
+### § 3232. Court jurisdiction
 
 The several district courts of the United States shall have jurisdiction to entertain an application by the Attorney General on behalf of the Secretary to compel an employee or other person residing within the jurisdiction of the court or an employer subject to service of process within its jurisdiction to comply with any obligations imposed on such employee, employer, or other person under the provisions of this chapter. The jurisdiction herein specifically conferred upon such Federal courts shall not be held exclusive of any jurisdiction otherwise possessed by such courts to entertain civil actions, whether legal or equitable in nature, in aid of the enforcement of rights or obligations arising under the provisions of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 437; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 437; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1007,7 +1007,7 @@ The several district courts of the United States shall have jurisdiction to ente
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 3233. Short title
+### § 3233. Short title
 
 This chapter may be cited as the “Railroad Retirement Tax Act.”
 
@@ -1015,7 +1015,7 @@ This chapter may be cited as the “Railroad Retirement Tax Act.”
 
 ## Subchapter E—Tier 2 Tax Rate Determination
 
-### § 3241. Determination of tier 2 tax rate based on average account benefits ratio
+### § 3241. Determination of tier 2 tax rate based on average account benefits ratio
 
 **(a) In general**
 
@@ -1054,7 +1054,7 @@ For purposes of this section, the term “account benefits ratio” means, with 
 
 No later than December 1 of each calendar year, the Secretary shall publish a notice in the Federal Register of the rates of tax determined under this section which are applicable for the following calendar year.
 
-(Added Pub. L. 107–90, title II, § 204(d), Dec. 21, 2001, 115 Stat. 892.)
+(Added Pub. L. 107–90, title II, § 204(d), Dec. 21, 2001, 115 Stat. 892.)
 
 **Statutory Notes and Related Subsidiaries**
 

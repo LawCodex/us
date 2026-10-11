@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 55—RESEARCH AND TRAINING FOR EASTERN EUROPE AND INDEPENDENT STATES OF FORMER SOVIET UNION
 
-## § 4501. Findings and declarations
+## § 4501. Findings and declarations
 
 The Congress finds and declares that—
 
@@ -37,7 +37,7 @@ The Congress finds and declares that—
 
 **(4)** it is in the national interest for the United States Government to provide a stable source of financial support for the functions described in this section and to supplement the financial support for those functions which is currently being furnished by Federal, State, local, regional, and private agencies, organizations, and individuals, and thereby to stabilize the conduct of these functions on a national scale, consistently, and on a long range unclassified basis.
 
-(Pub. L. 98–164, title VIII, § 802, Nov. 22, 1983, 97 Stat. 1047; Pub. L. 103–199, title III, § 302(3), Dec. 17, 1993, 107 Stat. 2322.)
+(Pub. L. 98–164, title VIII, § 802, Nov. 22, 1983, 97 Stat. 1047; Pub. L. 103–199, title III, § 302(3), Dec. 17, 1993, 107 Stat. 2322.)
 
 **Editorial Notes**
 
@@ -49,13 +49,13 @@ The Congress finds and declares that—
 
 **Short Title**
 
-Pub. L. 98–164, title VIII, § 801, Nov. 22, 1983, 97 Stat. 1047, as amended by Pub. L. 103–199, title III, § 302(2), Dec. 17, 1993, 107 Stat. 2322, provided that: “This title [enacting this chapter] may be cited as the ‘Research and Training for Eastern Europe and the Independent States of the Former Soviet Union Act of 1983’.”
+Pub. L. 98–164, title VIII, § 801, Nov. 22, 1983, 97 Stat. 1047, as amended by Pub. L. 103–199, title III, § 302(2), Dec. 17, 1993, 107 Stat. 2322, provided that: “This title [enacting this chapter] may be cited as the ‘Research and Training for Eastern Europe and the Independent States of the Former Soviet Union Act of 1983’.”
 
 **Definitions**
 
 In pars. (1), (2), and (3)(E), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 
-## § 4502. “Institution of higher education” and “Advisory Committee” defined
+## § 4502. “Institution of higher education” and “Advisory Committee” defined
 
 As used in this chapter—
 
@@ -63,7 +63,7 @@ As used in this chapter—
 
 **(2)** the term “Advisory Committee” means the Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union established by section 4503(a) of this title.
 
-(Pub. L. 98–164, title VIII, § 803, Nov. 22, 1983, 97 Stat. 1048; Pub. L. 103–199, title III, § 302(4), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 105–244, title I, § 102(a)(7)(C), Oct. 7, 1998, 112 Stat. 1619.)
+(Pub. L. 98–164, title VIII, § 803, Nov. 22, 1983, 97 Stat. 1048; Pub. L. 103–199, title III, § 302(4), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 105–244, title I, § 102(a)(7)(C), Oct. 7, 1998, 112 Stat. 1619.)
 
 **Editorial Notes**
 
@@ -79,7 +79,7 @@ As used in this chapter—
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-## § 4503. Establishment of Advisory Committee
+## § 4503. Establishment of Advisory Committee
 
 **(a) Establishment; composition; Chairman**
 
@@ -97,17 +97,17 @@ The Secretary of State may detail personnel of the Department of State to provid
 
 The Advisory Committee shall recommend grant policies for the advancement of the objectives of this chapter. In proposing recipients for grants under this chapter, the Advisory Committee shall give the highest priority to national organizations with an interest and expertise in conducting research and training concerning the countries of Eastern Europe and the independent states of the former Soviet Union and in disseminating the results of such research. In making its recommendations, the Advisory Committee shall emphasize the development of a stable, long-term research program.
 
-(Pub. L. 98–164, title VIII, § 804, Nov. 22, 1983, 97 Stat. 1048; Pub. L. 103–199, title III, § 302(5), Dec. 17, 1993, 107 Stat. 2322.)
+(Pub. L. 98–164, title VIII, § 804, Nov. 22, 1983, 97 Stat. 1048; Pub. L. 103–199, title III, § 302(5), Dec. 17, 1993, 107 Stat. 2322.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Pub. L. 103–199, § 302(5)(A), substituted “Establishment of Advisory Committee” for “Establishment of the Soviet-Eastern European Studies Advisory Committee” in section catchline.
+1993—Pub. L. 103–199, § 302(5)(A), substituted “Establishment of Advisory Committee” for “Establishment of the Soviet-Eastern European Studies Advisory Committee” in section catchline.
 
-Subsec. (a). Pub. L. 103–199, § 302(5)(B), substituted “Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union” for “Soviet-Eastern European Studies Advisory Committee”.
+Subsec. (a). Pub. L. 103–199, § 302(5)(B), substituted “Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union” for “Soviet-Eastern European Studies Advisory Committee”.
 
-Subsec. (d). Pub. L. 103–199, § 302(5)(C), substituted “the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European countries”.
+Subsec. (d). Pub. L. 103–199, § 302(5)(C), substituted “the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European countries”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -119,7 +119,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 In subsec. (d), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 
-## § 4504. Authority to make payments; purposes
+## § 4504. Authority to make payments; purposes
 
 **(a)** The Secretary of State, after consultation with the Advisory Committee, shall make payments, in accordance with the provisions of this section, out of funds made available to carry out this chapter.
 
@@ -159,23 +159,23 @@ In subsec. (d), independent states of the former Soviet Union has the meaning gi
 
 **(6)** Payments may be made to carry out other research and training in studies on the countries of Eastern Europe and the independent states of the former Soviet Union not otherwise described in this section.
 
-(Pub. L. 98–164, title VIII, § 805, Nov. 22, 1983, 97 Stat. 1048; Pub. L. 103–199, title III, § 302(6), Dec. 17, 1993, 107 Stat. 2323.)
+(Pub. L. 98–164, title VIII, § 805, Nov. 22, 1983, 97 Stat. 1048; Pub. L. 103–199, title III, § 302(6), Dec. 17, 1993, 107 Stat. 2323.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (b)(2)(A), (B). Pub. L. 103–199, § 302(6)(A), substituted “studies on the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European studies”.
+1993—Subsec. (b)(2)(A), (B). Pub. L. 103–199, § 302(6)(A), substituted “studies on the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European studies”.
 
-Subsec. (b)(3)(A). Pub. L. 103–199, § 302(6)(B), (C), substituted “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies” and “those states and countries” for “the Soviet Union and Eastern European countries”.
+Subsec. (b)(3)(A). Pub. L. 103–199, § 302(6)(B), (C), substituted “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies” and “those states and countries” for “the Soviet Union and Eastern European countries”.
 
-Subsec. (b)(3)(B). Pub. L. 103–199, § 302(6)(B), which directed the substitution of “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies”, was executed by making the substitution for “fields of Soviet and East European studies and related studies”, to reflect the probable intent of Congress.
+Subsec. (b)(3)(B). Pub. L. 103–199, § 302(6)(B), which directed the substitution of “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies”, was executed by making the substitution for “fields of Soviet and East European studies and related studies”, to reflect the probable intent of Congress.
 
-Subsec. (b)(4). Pub. L. 103–199, § 302(6)(D), substituted “independent states of the former Soviet Union” for “Union of Soviet Socialist Republics” and “those states and countries” for “the Union of Soviet Socialist Republics and Eastern European countries”.
+Subsec. (b)(4). Pub. L. 103–199, § 302(6)(D), substituted “independent states of the former Soviet Union” for “Union of Soviet Socialist Republics” and “those states and countries” for “the Union of Soviet Socialist Republics and Eastern European countries”.
 
-Subsec. (b)(5). Pub. L. 103–199, § 302(6)(E), substituted “training in the languages of the independent states of the former Soviet Union and the countries of Eastern Europe” for “language training in Russian and Eastern European languages” and inserted before period at end “and, as appropriate, studies of other languages of the independent states of the former Soviet Union”.
+Subsec. (b)(5). Pub. L. 103–199, § 302(6)(E), substituted “training in the languages of the independent states of the former Soviet Union and the countries of Eastern Europe” for “language training in Russian and Eastern European languages” and inserted before period at end “and, as appropriate, studies of other languages of the independent states of the former Soviet Union”.
 
-Subsec. (b)(6). Pub. L. 103–199, § 302(6)(A), substituted “studies on the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European studies”.
+Subsec. (b)(6). Pub. L. 103–199, § 302(6)(A), substituted “studies on the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European studies”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -183,7 +183,7 @@ Subsec. (b)(6). Pub. L. 103–199, § 302(6)(A), substituted “studies on the
 
 In subsec. (b)(2)–(6), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 
-## § 4505. Applications; payments to eligible institutions
+## § 4505. Applications; payments to eligible institutions
 
 **(a)** Any institution seeking funding under this chapter shall prepare and submit an application to the Secretary of State once each fiscal year. Each such application shall—
 
@@ -193,19 +193,19 @@ In subsec. (b)(2)–(6), independent states of the former Soviet Union has the m
 
 **(b)** Payments under this chapter may be made in installments, in advance, or by way of reimbursement, with necessary adjustments on account of overpayments and underpayments.
 
-(Pub. L. 98–164, title VIII, § 806, Nov. 22, 1983, 97 Stat. 1050.)
+(Pub. L. 98–164, title VIII, § 806, Nov. 22, 1983, 97 Stat. 1050.)
 
-## § 4506. Repealed. Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217
+## § 4506. Repealed. Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217
 
-Section, Pub. L. 98–164, title VIII, § 807, Nov. 22, 1983, 97 Stat. 1050, required Secretary of State to submit annual report on activities of institutions receiving assistance under this chapter.
+Section, Pub. L. 98–164, title VIII, § 807, Nov. 22, 1983, 97 Stat. 1050, required Secretary of State to submit annual report on activities of institutions receiving assistance under this chapter.
 
-## § 4507. Federal control of education prohibited
+## § 4507. Federal control of education prohibited
 
 Nothing contained in this chapter may be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction or research, administration, or personnel of any educational institution.
 
-(Pub. L. 98–164, title VIII, § 808, Nov. 22, 1983, 97 Stat. 1050.)
+(Pub. L. 98–164, title VIII, § 808, Nov. 22, 1983, 97 Stat. 1050.)
 
-## § 4508. Allocation of funds
+## § 4508. Allocation of funds
 
 Of the funds authorized to be appropriated by section 102(1) of this Act—
 
@@ -213,7 +213,7 @@ Of the funds authorized to be appropriated by section 102(1) of this Act—
 
 **(2)** $5,000,000 for the fiscal year 1985 shall be available only to carry out this chapter.
 
-(Pub. L. 98–164, title VIII, § 809, Nov. 22, 1983, 97 Stat. 1050.)
+(Pub. L. 98–164, title VIII, § 809, Nov. 22, 1983, 97 Stat. 1050.)
 
 **Editorial Notes**
 
@@ -221,6 +221,6 @@ Of the funds authorized to be appropriated by section 102(1) of this Act—
 
 Section 102(1) of this Act, referred to in text, is section 102(1) of Pub. L. 98–164, title I, Nov. 22, 1983, 97 Stat. 1017, which is not classified to the Code.
 
-## § 4509. Repealed. Pub. L. 102–138, title II, § 209, Oct. 28, 1991, 105 Stat. 694
+## § 4509. Repealed. Pub. L. 102–138, title II, § 209, Oct. 28, 1991, 105 Stat. 694
 
-Section, Pub. L. 98–164, title VIII, § 810, Nov. 22, 1983, 97 Stat. 1051, provided that provisions of this chapter were to cease to be effective at end of ten-year period beginning on Nov. 22, 1983.
+Section, Pub. L. 98–164, title VIII, § 810, Nov. 22, 1983, 97 Stat. 1051, provided that provisions of this chapter were to cease to be effective at end of ten-year period beginning on Nov. 22, 1983.

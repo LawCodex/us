@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 80—FASTENERS
 
-## § 5401. Findings
+## § 5401. Findings
 
 The Congress finds that—
 
@@ -29,7 +29,7 @@ The Congress finds that—
 
 **(5)** multiple criteria for the identification of fasteners exist, including grade identification markings and manufacturer’s insignia, to enable purchasers and users of fasteners to accurately evaluate the characteristics of individual fasteners.
 
-(Pub. L. 101–592, § 2, Nov. 16, 1990, 104 Stat. 2943; Pub. L. 104–113, § 11(a), Mar. 7, 1996, 110 Stat. 780; Pub. L. 106–34, § 2, June 8, 1999, 113 Stat. 118.)
+(Pub. L. 101–592, § 2, Nov. 16, 1990, 104 Stat. 2943; Pub. L. 104–113, § 11(a), Mar. 7, 1996, 110 Stat. 780; Pub. L. 106–34, § 2, June 8, 1999, 113 Stat. 118.)
 
 **Editorial Notes**
 
@@ -37,27 +37,27 @@ The Congress finds that—
 
 1999—Pub. L. 106–34 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) stating findings of Congress and purpose of this chapter.
 
-1996—Subsec. (a)(4) to (6). Pub. L. 104–113, § 11(a)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “the sale in commerce of nonconforming fasteners and the use of nonconforming fasteners in numerous critical applications have reduced the combat readiness of the Nation’s military forces, endangered the safety of other Federal projects and activities, and cost both the public and private sectors large sums in connection with the retesting and purging of fastener inventories;”.
+1996—Subsec. (a)(4) to (6). Pub. L. 104–113, § 11(a)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “the sale in commerce of nonconforming fasteners and the use of nonconforming fasteners in numerous critical applications have reduced the combat readiness of the Nation’s military forces, endangered the safety of other Federal projects and activities, and cost both the public and private sectors large sums in connection with the retesting and purging of fastener inventories;”.
 
-Subsec. (a)(7). Pub. L. 104–113, § 11(a)(2), struck out “by lot number” after “traceability”.
+Subsec. (a)(7). Pub. L. 104–113, § 11(a)(2), struck out “by lot number” after “traceability”.
 
-Pub. L. 104–113, § 11(a)(1), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+Pub. L. 104–113, § 11(a)(1), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
-Subsec. (a)(8), (9). Pub. L. 104–113, § 11(a)(1), redesignated par. (9) as (8). Former par. (8) redesignated (7).
+Subsec. (a)(8), (9). Pub. L. 104–113, § 11(a)(1), redesignated par. (9) as (8). Former par. (8) redesignated (7).
 
-Subsec. (b). Pub. L. 104–113, § 11(a)(3), substituted “in commerce” for “used in critical applications”.
+Subsec. (b). Pub. L. 104–113, § 11(a)(3), substituted “in commerce” for “used in critical applications”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–34, § 1, June 8, 1999, 113 Stat. 118, provided that: “This Act [enacting sections 5403, 5411a, and 5411b of this title, amending this section and sections 5402 and 5407 to 5411 of this title, repealing sections 5404 to 5406, 5412, and 5414 of this title, and enacting provisions set out as notes under sections 5402 and 5403 of this title] may be cited as the ‘Fastener Quality Act Amendments Act of 1999’.”
+Pub. L. 106–34, § 1, June 8, 1999, 113 Stat. 118, provided that: “This Act [enacting sections 5403, 5411a, and 5411b of this title, amending this section and sections 5402 and 5407 to 5411 of this title, repealing sections 5404 to 5406, 5412, and 5414 of this title, and enacting provisions set out as notes under sections 5402 and 5403 of this title] may be cited as the ‘Fastener Quality Act Amendments Act of 1999’.”
 
 **Short Title**
 
-Pub. L. 101–592, § 1, Nov. 16, 1990, 104 Stat. 2943, provided that: “This Act [enacting this chapter] may be cited as the ‘Fastener Quality Act’.”
+Pub. L. 101–592, § 1, Nov. 16, 1990, 104 Stat. 2943, provided that: “This Act [enacting this chapter] may be cited as the ‘Fastener Quality Act’.”
 
-## § 5402. Definitions
+## § 5402. Definitions
 
 As used in this chapter, the term—
 
@@ -167,7 +167,7 @@ As used in this chapter, the term—
 
 **(17)** “through-harden” means heating above the transformation temperature followed by quenching and tempering for the purpose of achieving uniform hardness.
 
-(Pub. L. 101–592, § 3, Nov. 16, 1990, 104 Stat. 2944; Pub. L. 104–113, § 11(b), Mar. 7, 1996, 110 Stat. 780; Pub. L. 106–34, § 3, June 8, 1999, 113 Stat. 118.)
+(Pub. L. 101–592, § 3, Nov. 16, 1990, 104 Stat. 2944; Pub. L. 104–113, § 11(b), Mar. 7, 1996, 110 Stat. 780; Pub. L. 106–34, § 3, June 8, 1999, 113 Stat. 118.)
 
 **Editorial Notes**
 
@@ -175,35 +175,35 @@ As used in this chapter, the term—
 
 1999—Pub. L. 106–34 amended section catchline and text generally, restating certain definitions, adding new definitions, and striking out definitions of “alter”, “container”, “institute”, “original equipment manufacturer”, “private label distributor”, and “standards and specifications”.
 
-1996—Par. (1)(B). Pub. L. 104–113, § 11(b)(1), struck out “having a minimum tensile strength of 150,000 pounds per square inch” after “fasteners”.
+1996—Par. (1)(B). Pub. L. 104–113, § 11(b)(1), struck out “having a minimum tensile strength of 150,000 pounds per square inch” after “fasteners”.
 
-Par. (2). Pub. L. 104–113, § 11(b)(2), inserted “consensus” after “or any other”.
+Par. (2). Pub. L. 104–113, § 11(b)(2), inserted “consensus” after “or any other”.
 
-Par. (5). Pub. L. 104–113, § 11(b)(3), inserted “or produced in accordance with ASTM F 432” after “307 Grade A” in closing provisions, inserted “or” at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any item within a category added by the Secretary in accordance with section 5403(b) of this title,”.
+Par. (5). Pub. L. 104–113, § 11(b)(3), inserted “or produced in accordance with ASTM F 432” after “307 Grade A” in closing provisions, inserted “or” at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any item within a category added by the Secretary in accordance with section 5403(b) of this title,”.
 
-Par. (6). Pub. L. 104–113, § 11(b)(4), substituted “government agency” for “other person”.
+Par. (6). Pub. L. 104–113, § 11(b)(4), substituted “government agency” for “other person”.
 
-Par. (8). Pub. L. 104–113, § 11(b)(5), substituted “Standards” for “Standard”.
+Par. (8). Pub. L. 104–113, § 11(b)(5), substituted “Standards” for “Standard”.
 
-Pars. (11), (12). Pub. L. 104–113, § 11(b)(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “ ‘original equipment manufacturer’ means a person who uses fasteners in the manufacture or assembly of its products and sells fasteners to authorized dealers as replacement or service parts for its products;”.
+Pars. (11), (12). Pub. L. 104–113, § 11(b)(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “ ‘original equipment manufacturer’ means a person who uses fasteners in the manufacture or assembly of its products and sells fasteners to authorized dealers as replacement or service parts for its products;”.
 
-Par. (13). Pub. L. 104–113, § 11(b)(7), substituted “or a government agency” for “, a government agency, or a major end-user of fasteners which defines or describes dimensional characteristics, limits of size, acceptable materials, processing, functional behavior, plating, baking, inspecting, testing, packaging, and required markings of any fastener”.
+Par. (13). Pub. L. 104–113, § 11(b)(7), substituted “or a government agency” for “, a government agency, or a major end-user of fasteners which defines or describes dimensional characteristics, limits of size, acceptable materials, processing, functional behavior, plating, baking, inspecting, testing, packaging, and required markings of any fastener”.
 
-Pub. L. 104–113, § 11(b)(6), redesignated par. (14) as (13). Former par. (13) redesignated (12).
+Pub. L. 104–113, § 11(b)(6), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
-Par. (14). Pub. L. 104–113, § 11(b)(8), inserted “for the purpose of achieving a uniform hardness” after “quenching and tempering”.
+Par. (14). Pub. L. 104–113, § 11(b)(8), inserted “for the purpose of achieving a uniform hardness” after “quenching and tempering”.
 
-Pub. L. 104–113, § 11(b)(6), redesignated par. (15) as (14). Former par. (14) redesignated (13).
+Pub. L. 104–113, § 11(b)(6), redesignated par. (15) as (14). Former par. (14) redesignated (13).
 
-Par. (15). Pub. L. 104–113, § 11(b)(6), redesignated par. (15) as (14).
+Par. (15). Pub. L. 104–113, § 11(b)(6), redesignated par. (15) as (14).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Comptroller General Report**
 
-Pub. L. 106–34, § 12, June 8, 1999, 113 Stat. 125, provided that not later than 2 years after June 8, 1999, the Comptroller General would transmit to the Congress a report describing any changes in industry practice resulting from or apparently resulting from the enactment of paragraph (6)(B) of this section.
+Pub. L. 106–34, § 12, June 8, 1999, 113 Stat. 125, provided that not later than 2 years after June 8, 1999, the Comptroller General would transmit to the Congress a report describing any changes in industry practice resulting from or apparently resulting from the enactment of paragraph (6)(B) of this section.
 
-## § 5403. Sale of fasteners
+## § 5403. Sale of fasteners
 
 **(a) General rule** It shall be unlawful for a manufacturer or distributor, in conjunction with the sale or offer for sale of fasteners from a single lot, to knowingly misrepresent or falsify—
 
@@ -225,29 +225,29 @@ A direct or indirect contractual reference to a consensus standard for the purpo
 
 In the case of fasteners manufactured solely to a consensus standard or standards, end-of-line testing required by the consensus standard or standards, if any, for the purpose of verifying that a lot of fasteners conforms with the grade identification marking called for in the consensus standard or standards to which the lot of fasteners has been manufactured shall be conducted by an accredited laboratory.
 
-(Pub. L. 101–592, § 4, as added Pub. L. 106–34, § 4(a), June 8, 1999, 113 Stat. 121.)
+(Pub. L. 101–592, § 4, as added Pub. L. 106–34, § 4(a), June 8, 1999, 113 Stat. 121.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5403, Pub. L. 101–592, § 4, Nov. 16, 1990, 104 Stat. 2945, set out special rule under which Secretary could waive requirements of this chapter on determination that category of fasteners was not used in critical applications, but that Secretary could also determine in given case that fastener was used in critical applications and was governed accordingly, prior to repeal by Pub. L. 104–113, § 11(c), Mar. 7, 1996, 110 Stat. 780.
+A prior section 5403, Pub. L. 101–592, § 4, Nov. 16, 1990, 104 Stat. 2945, set out special rule under which Secretary could waive requirements of this chapter on determination that category of fasteners was not used in critical applications, but that Secretary could also determine in given case that fastener was used in critical applications and was governed accordingly, prior to repeal by Pub. L. 104–113, § 11(c), Mar. 7, 1996, 110 Stat. 780.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–34, § 4(b), June 8, 1999, 113 Stat. 122, provided that: “Subsection (d) of section 4 of the Fastener Quality Act [15 U.S.C. § 5403(d)], as added by subsection (a) of this section, shall take effect 2 years after the date of the enactment of this Act [June 8, 1999].”
+Pub. L. 106–34, § 4(b), June 8, 1999, 113 Stat. 122, provided that: “Subsection (d) of section 4 of the Fastener Quality Act [15 U.S.C. § 5403(d)], as added by subsection (a) of this section, shall take effect 2 years after the date of the enactment of this Act [June 8, 1999].”
 
-## §§ 5404 to 5406. Repealed. Pub. L. 106–34, § 4(a), June 8, 1999, 113 Stat. 121
+## §§ 5404 to 5406. Repealed. Pub. L. 106–34, § 4(a), June 8, 1999, 113 Stat. 121
 
-Section 5404, Pub. L. 101–592, § 5, Nov. 16, 1990, 104 Stat. 2945; Pub. L. 104–113, § 11(d), Mar. 7, 1996, 110 Stat. 780, required testing and certification of fasteners.
+Section 5404, Pub. L. 101–592, § 5, Nov. 16, 1990, 104 Stat. 2945; Pub. L. 104–113, § 11(d), Mar. 7, 1996, 110 Stat. 780, required testing and certification of fasteners.
 
-Section 5405, Pub. L. 101–592, § 6, Nov. 16, 1990, 104 Stat. 2947; Pub. L. 104–113, § 11(e), Mar. 7, 1996, 110 Stat. 781, provided for laboratory accreditation.
+Section 5405, Pub. L. 101–592, § 6, Nov. 16, 1990, 104 Stat. 2947; Pub. L. 104–113, § 11(e), Mar. 7, 1996, 110 Stat. 781, provided for laboratory accreditation.
 
-Section 5406, Pub. L. 101–592, § 7, Nov. 16, 1990, 104 Stat. 2948; Pub. L. 104–113, § 11(f), Mar. 7, 1996, 110 Stat. 781, related to sale of domestic and imported fasteners subsequent to manufacture.
+Section 5406, Pub. L. 101–592, § 7, Nov. 16, 1990, 104 Stat. 2948; Pub. L. 104–113, § 11(f), Mar. 7, 1996, 110 Stat. 781, related to sale of domestic and imported fasteners subsequent to manufacture.
 
-## § 5407. Manufacturers’ insignias
+## § 5407. Manufacturers’ insignias
 
 **(a) General rule** Unless the specifications provide otherwise, fasteners that are required by the applicable consensus standard or standards to bear an insignia identifying their manufacturer shall not be offered for sale or sold in commerce unless—
 
@@ -259,7 +259,7 @@ Section 5406, Pub. L. 101–592, § 7, Nov. 16, 1990, 104 Stat. 2948; Pub. L. 
 
 The Secretary shall establish, by regulation, a program to provide for the recordation of the insignias of manufacturers described in subsection (a).
 
-(Pub. L. 101–592, § 5, formerly § 8, Nov. 16, 1990, 104 Stat. 2950; renumbered § 5 and amended Pub. L. 106–34, § 5, June 8, 1999, 113 Stat. 122.)
+(Pub. L. 101–592, § 5, formerly § 8, Nov. 16, 1990, 104 Stat. 2950; renumbered § 5 and amended Pub. L. 106–34, § 5, June 8, 1999, 113 Stat. 122.)
 
 **Editorial Notes**
 
@@ -269,11 +269,11 @@ A prior section 5 of Pub. L. 101–592 was classified to section 5404 of this ti
 
 **Amendments**
 
-1999—Subsec. (a). Pub. L. 106–34, § 5(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “No fastener which is required by the standards and specifications to which it was manufactured to bear a raised or depressed insignia identifying its manufacturer or private label distributor shall be offered for sale or sold in commerce unless the manufacturer or private label distributor of such fastener has complied with the requirements prescribed by the Secretary in connection with the program established under subsection (b) of this section.”
+1999—Subsec. (a). Pub. L. 106–34, § 5(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “No fastener which is required by the standards and specifications to which it was manufactured to bear a raised or depressed insignia identifying its manufacturer or private label distributor shall be offered for sale or sold in commerce unless the manufacturer or private label distributor of such fastener has complied with the requirements prescribed by the Secretary in connection with the program established under subsection (b) of this section.”
 
-Subsec. (b). Pub. L. 106–34, § 5(2), substituted “described in subsection (a)” for “and private label distributors described in subsection (a), to ensure the traceability of a fastener to its manufacturer or private label distributor”.
+Subsec. (b). Pub. L. 106–34, § 5(2), substituted “described in subsection (a)” for “and private label distributors described in subsection (a), to ensure the traceability of a fastener to its manufacturer or private label distributor”.
 
-## § 5408. Remedies and penalties
+## § 5408. Remedies and penalties
 
 **(a) Civil remedies**
 
@@ -309,7 +309,7 @@ Subsec. (b). Pub. L. 106–34, § 5(2), substituted “described in subsection
 
 **(2)** The Secretary shall establish and maintain a hotline system to facilitate the reporting of alleged violations of this chapter, and the Secretary shall evaluate allegations reported through that system and report any credible allegations to the Attorney General.
 
-(Pub. L. 101–592, § 6, formerly § 9, Nov. 16, 1990, 104 Stat. 2950; Pub. L. 104–113, § 11(g), Mar. 7, 1996, 110 Stat. 782; renumbered § 6 and amended Pub. L. 106–34, § 6, June 8, 1999, 113 Stat. 122.)
+(Pub. L. 101–592, § 6, formerly § 9, Nov. 16, 1990, 104 Stat. 2950; Pub. L. 104–113, § 11(g), Mar. 7, 1996, 110 Stat. 782; renumbered § 6 and amended Pub. L. 106–34, § 6, June 8, 1999, 113 Stat. 122.)
 
 **Editorial Notes**
 
@@ -319,19 +319,19 @@ A prior section 6 of Pub. L. 101–592 was classified to section 5405 of this ti
 
 **Amendments**
 
-1999—Subsec. (b)(3). Pub. L. 106–34, § 6(1), substituted “of this subsection” for “of this section”.
+1999—Subsec. (b)(3). Pub. L. 106–34, § 6(1), substituted “of this subsection” for “of this section”.
 
-Subsec. (b)(4). Pub. L. 106–34, § 6(2), inserted “arbitrate,” after “Secretary may”.
+Subsec. (b)(4). Pub. L. 106–34, § 6(2), inserted “arbitrate,” after “Secretary may”.
 
-Subsec. (d). Pub. L. 106–34, § 6(3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 106–34, § 6(3), designated existing provisions as par. (1) and added par. (2).
 
 1996—Subsec. (d). Pub. L. 104–113 added subsec. (d).
 
-## § 5409. Recordkeeping requirements
+## § 5409. Recordkeeping requirements
 
 Manufacturers and importers shall retain the record of conformance for fasteners for 5 years, on paper or in photographic or electronic format in a manner that allows for verification of authenticity. Upon request of a distributor who has purchased a fastener, or a person who has purchased a fastener for use in the production of a commercial product, the manufacturer or importer of the fastener shall make available information in the record of conformance to the requester.
 
-(Pub. L. 101–592, § 7, formerly § 10, Nov. 16, 1990, 104 Stat. 2951; Pub. L. 104–113, § 11(h), Mar. 7, 1996, 110 Stat. 782; renumbered § 7 and amended Pub. L. 106–34, § 7, June 8, 1999, 113 Stat. 123.)
+(Pub. L. 101–592, § 7, formerly § 10, Nov. 16, 1990, 104 Stat. 2951; Pub. L. 104–113, § 11(h), Mar. 7, 1996, 110 Stat. 782; renumbered § 7 and amended Pub. L. 106–34, § 7, June 8, 1999, 113 Stat. 123.)
 
 **Editorial Notes**
 
@@ -343,15 +343,15 @@ A prior section 7 of Pub. L. 101–592 was classified to section 5406 of this ti
 
 1999—Pub. L. 106–34 substituted present provisions for former provisions which consisted of subsecs. (a) and (b) relating to retention and availability of records concerning inspections, testing, and certifications of fasteners under section 5404 of this title by laboratories, manufacturers, importers, private label distributors and persons who make significant alterations.
 
-1996—Subsec. (a). Pub. L. 104–113, § 11(h)(1), substituted “5 years” for “10 years”.
+1996—Subsec. (a). Pub. L. 104–113, § 11(h)(1), substituted “5 years” for “10 years”.
 
-Subsec. (b). Pub. L. 104–113, § 11(h), substituted “5 years” for “10 years” and “the subsequent purchaser” for “any subsequent purchaser”.
+Subsec. (b). Pub. L. 104–113, § 11(h), substituted “5 years” for “10 years” and “the subsequent purchaser” for “any subsequent purchaser”.
 
-## § 5410. Relationship to State laws
+## § 5410. Relationship to State laws
 
 Nothing in this chapter shall be construed to preempt any rights or causes of action that any buyer may have with respect to any seller of fasteners under the law of any State, except to the extent that the provisions of this chapter are in conflict with such State law.
 
-(Pub. L. 101–592, § 8, formerly § 11, Nov. 16, 1990, 104 Stat. 2952; renumbered § 8, Pub. L. 106–34, § 8, June 8, 1999, 113 Stat. 123.)
+(Pub. L. 101–592, § 8, formerly § 11, Nov. 16, 1990, 104 Stat. 2952; renumbered § 8, Pub. L. 106–34, § 8, June 8, 1999, 113 Stat. 123.)
 
 **Editorial Notes**
 
@@ -359,11 +359,11 @@ Nothing in this chapter shall be construed to preempt any rights or causes of ac
 
 A prior section 8 of Pub. L. 101–592 was renumbered section 5 and is classified to section 5407 of this title.
 
-## § 5411. Construction
+## § 5411. Construction
 
 Nothing in this chapter shall be construed to limit or otherwise affect the authority of any consensus standards organization to establish, modify, or withdraw any standards and specifications under any other law or authority.
 
-(Pub. L. 101–592, § 9, formerly § 12, Nov. 16, 1990, 104 Stat. 2952; renumbered § 9 and amended Pub. L. 106–34, § 9, June 8, 1999, 113 Stat. 123.)
+(Pub. L. 101–592, § 9, formerly § 12, Nov. 16, 1990, 104 Stat. 2952; renumbered § 9 and amended Pub. L. 106–34, § 9, June 8, 1999, 113 Stat. 123.)
 
 **Editorial Notes**
 
@@ -375,7 +375,7 @@ A prior section 9 of Pub. L. 101–592 was renumbered section 6 and is classifie
 
 1999—Pub. L. 106–34 struck out “in effect on November 16, 1990” after “law or authority”.
 
-## § 5411a. Certification and accreditation
+## § 5411a. Certification and accreditation
 
 **(a) Certification**
 
@@ -401,7 +401,7 @@ A person publishing a document setting forth guidance or requirements for the ap
 
 **(3)** An affirmation required under paragraph (1) or (2) shall take the form of a self-declaration that the accreditation body meets the requirements of the applicable Guide, signed by an authorized representative of the accreditation body, without requirement for accompanying documentation. Any such affirmation shall be considered to be a continuous affirmation that the accreditation body meets the requirements of the applicable Guide, unless and until the affirmation is withdrawn by the accreditation body.
 
-(Pub. L. 101–592, § 10, as added Pub. L. 106–34, § 10, June 8, 1999, 113 Stat. 123.)
+(Pub. L. 101–592, § 10, as added Pub. L. 106–34, § 10, June 8, 1999, 113 Stat. 123.)
 
 **Editorial Notes**
 
@@ -409,11 +409,11 @@ A person publishing a document setting forth guidance or requirements for the ap
 
 A prior section 10 of Pub. L. 101–592 was renumbered section 7 and is classified to section 5409 of this title.
 
-## § 5411b. Applicability
+## § 5411b. Applicability
 
 The requirements of this chapter shall be applicable only to fasteners fabricated 180 days or more after June 8, 1999, except that if a manufacturer or distributor of fasteners fabricated before June 8, 1999, prepares a record of conformance for such fasteners, representations about such fasteners shall be subject to the requirements of this chapter.
 
-(Pub. L. 101–592, § 11, as added Pub. L. 106–34, § 11, June 8, 1999, 113 Stat. 124.)
+(Pub. L. 101–592, § 11, as added Pub. L. 106–34, § 11, June 8, 1999, 113 Stat. 124.)
 
 **Editorial Notes**
 
@@ -421,14 +421,14 @@ The requirements of this chapter shall be applicable only to fasteners fabricate
 
 A prior section 11 of Pub. L. 101–592 was renumbered section 8 and is classified to section 5410 of this title.
 
-## § 5412. Repealed. Pub. L. 106–34, § 10, June 8, 1999, 113 Stat. 123
+## § 5412. Repealed. Pub. L. 106–34, § 10, June 8, 1999, 113 Stat. 123
 
-Section, Pub. L. 101–592, § 13, Nov. 16, 1990, 104 Stat. 2952; Pub. L. 104–113, § 11(i), Mar. 7, 1996, 110 Stat. 782, required the Secretary to issue regulations necessary to implement chapter.
+Section, Pub. L. 101–592, § 13, Nov. 16, 1990, 104 Stat. 2952; Pub. L. 104–113, § 11(i), Mar. 7, 1996, 110 Stat. 782, required the Secretary to issue regulations necessary to implement chapter.
 
-## § 5413. Repealed. Pub. L. 104–113, § 11(j), Mar. 7, 1996, 110 Stat. 782
+## § 5413. Repealed. Pub. L. 104–113, § 11(j), Mar. 7, 1996, 110 Stat. 782
 
-Section, Pub. L. 101–592, § 14, Nov. 16, 1990, 104 Stat. 2952, related to appointment of an advisory committee to be available for consultation with Secretary on matters related to fasteners.
+Section, Pub. L. 101–592, § 14, Nov. 16, 1990, 104 Stat. 2952, related to appointment of an advisory committee to be available for consultation with Secretary on matters related to fasteners.
 
-## § 5414. Repealed. Pub. L. 106–34, § 10, June 8, 1999, 113 Stat. 123
+## § 5414. Repealed. Pub. L. 106–34, § 10, June 8, 1999, 113 Stat. 123
 
-Section, Pub. L. 101–592, § 15, Nov. 16, 1990, 104 Stat. 2952; Pub. L. 105–234, § 1, Aug. 14, 1998, 112 Stat. 1536, related to applicability of this chapter.
+Section, Pub. L. 101–592, § 15, Nov. 16, 1990, 104 Stat. 2952; Pub. L. 105–234, § 1, Aug. 14, 1998, 112 Stat. 1536, related to applicability of this chapter.

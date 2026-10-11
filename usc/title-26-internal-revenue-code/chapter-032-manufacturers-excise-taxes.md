@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2019—Pub. L. 116–94, div. N, title I, § 501(c) Dec. 20, 2019, 133 Stat. 3119, struck out item for subchapter E “Medical devices”.
+2019—Pub. L. 116–94, div. N, title I, § 501(c) Dec. 20, 2019, 133 Stat. 3119, struck out item for subchapter E “Medical devices”.
 
-2010—Pub. L. 111–152, title I, § 1405(a)(2), Mar. 30, 2010, 124 Stat. 1065, added item for subchapter E.
+2010—Pub. L. 111–152, title I, § 1405(a)(2), Mar. 30, 2010, 124 Stat. 1065, added item for subchapter E.
 
-1987—Pub. L. 100–203, title IX, § 9201(c), Dec. 22, 1987, 101 Stat. 1330–330, added item for subchapter C.
+1987—Pub. L. 100–203, title IX, § 9201(c), Dec. 22, 1987, 101 Stat. 1330–330, added item for subchapter C.
 
-1978—Pub. L. 95–227, § 2(c), Feb. 10, 1978, 92 Stat. 12, added item for subchapter B.
+1978—Pub. L. 95–227, § 2(c), Feb. 10, 1978, 92 Stat. 12, added item for subchapter B.
 
-1965—Pub. L. 89–44, title II, §§ 203, 204, 206, June 21, 1965, 79 Stat. 139, 140, struck out items for subchapters B, C and E.
+1965—Pub. L. 89–44, title II, §§ 203, 204, 206, June 21, 1965, 79 Stat. 139, 140, struck out items for subchapters B, C and E.
 
 ## Subchapter A—Automotive and Related Items
 
@@ -35,7 +35,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1984—Pub. L. 98–369, div. A, title VII, § 735(a)(3), (c)(5)(B), July 18, 1984, 98 Stat. 980, 982, substituted “Gas guzzlers” for “Motor vehicles” in item for part I, and struck out “and tubes” in item for part II.
+1984—Pub. L. 98–369, div. A, title VII, § 735(a)(3), (c)(5)(B), July 18, 1984, 98 Stat. 980, 982, substituted “Gas guzzlers” for “Motor vehicles” in item for part I, and struck out “and tubes” in item for part II.
 
 ### PART I—GAS GUZZLERS
 
@@ -43,21 +43,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1986—Pub. L. 99–514, title XVIII, § 1875(f), Oct. 22, 1986, 100 Stat. 2897, substituted “guzzler” for “guzzlers” in item 4064.
+1986—Pub. L. 99–514, title XVIII, § 1875(f), Oct. 22, 1986, 100 Stat. 2897, substituted “guzzler” for “guzzlers” in item 4064.
 
-1984—Pub. L. 98–369, div. A, title VII, § 735(a)(2), July 18, 1984, 98 Stat. 980, substituted “GAS GUZZLERS” for “MOTOR VEHICLES” in part I heading, struck out items 4061 “Imposition of tax”, 4062 “Articles classified as parts”, and 4063 “Exemptions”, and substituted “guzzlers” for “guzzler” in item 4064.
+1984—Pub. L. 98–369, div. A, title VII, § 735(a)(2), July 18, 1984, 98 Stat. 980, substituted “GAS GUZZLERS” for “MOTOR VEHICLES” in part I heading, struck out items 4061 “Imposition of tax”, 4062 “Articles classified as parts”, and 4063 “Exemptions”, and substituted “guzzlers” for “guzzler” in item 4064.
 
-1978—Pub. L. 95–618, title II, § 201(f), Nov. 9, 1978, 92 Stat. 3184, added item 4064.
+1978—Pub. L. 95–618, title II, § 201(f), Nov. 9, 1978, 92 Stat. 3184, added item 4064.
 
-1971—Pub. L. 92–178, title IV, § 401(g)(2)(D), Dec. 10, 1971, 85 Stat. 533, substituted “Articles classified as parts” for “Definitions” in item 4062.
+1971—Pub. L. 92–178, title IV, § 401(g)(2)(D), Dec. 10, 1971, 85 Stat. 533, substituted “Articles classified as parts” for “Definitions” in item 4062.
 
-#### [§§ 4061 to 4063. Repealed. Pub. L. 98–369, div. A, title VII, § 735(a)(1), July 18, 1984, 98 Stat. 980]
+#### [§§ 4061 to 4063. Repealed. Pub. L. 98–369, div. A, title VII, § 735(a)(1), July 18, 1984, 98 Stat. 980]
 
-Section 4061, acts Aug. 16, 1954, ch. 736, 68A Stat. 481; Mar. 30, 1955, ch. 18, § 3(a)(2), 69 Stat. 14; Aug. 12, 1955, ch. 865, § 1, 69 Stat. 709; Mar. 29, 1956, ch. 115, § 3(a)(2), 70 Stat. 66; June 29, 1956, ch. 462, title II, § 203, 70 Stat. 388; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(1), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(1), 72 Stat. 259; June 30, 1959, Pub. L. 86–75, § 3(a)(1), 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II § 202(a)(1), 74 Stat. 290; June 29, 1961, Pub. L. 87–61, title II, § 204, 75 Stat. 126; June 30, 1961, Pub. L. 87–72, § 3(a)(1), 75 Stat. 193; June 28, 1962, Pub. L. 87–508, § 3(a)(1), 76 Stat. 114; June 29, 1963, Pub. L. 88–52, § 3(a)(1), 77 Stat. 72; June 30, 1964, Pub. L. 88–348, § 2(a)(1), 78 Stat. 237; June 21, 1965, Pub. L. 89–44, title II, § 201, 79 Stat. 136; Mar. 15, 1966, Pub. L. 89–368, title II, § 201(a), 80 Stat. 65; Apr. 12, 1968, Pub. L. 90–285, § 1(a)(1), 82 Stat. 92; June 28, 1968, Pub. L. 90–364, title I, § 105(a)(1), 82 Stat. 265; Dec. 30, 1969, Pub. L. 91–172, title VII, § 702(a)(1), 83 Stat. 660; Dec. 31, 1970, Pub. L. 91–605, title III, § 303(a)(3), (4), 84 Stat. 1743; Dec. 31, 1970, Pub. L. 91–614, title II, § 201(a)(1), 84 Stat. 1843; Dec. 10, 1971, Pub. L. 92–178, title IV, § 401(a)(1), (g) (1), 85 Stat. 530, 533; May 5, 1976, Pub. L. 94–280, title III, § 303(a)(3), (4), 90 Stat. 456; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834; Nov. 6, 1978, Pub. L. 95–599, title V, § 502(a)(2), (3), 92 Stat. 2756; Jan. 6, 1983, Pub. L. 97–424, title V, § 512(a)(1), (2), 96 Stat. 2173, 2174, related to imposition of tax on trucks, buses, tractors, etc.
+Section 4061, acts Aug. 16, 1954, ch. 736, 68A Stat. 481; Mar. 30, 1955, ch. 18, § 3(a)(2), 69 Stat. 14; Aug. 12, 1955, ch. 865, § 1, 69 Stat. 709; Mar. 29, 1956, ch. 115, § 3(a)(2), 70 Stat. 66; June 29, 1956, ch. 462, title II, § 203, 70 Stat. 388; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(1), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(1), 72 Stat. 259; June 30, 1959, Pub. L. 86–75, § 3(a)(1), 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II § 202(a)(1), 74 Stat. 290; June 29, 1961, Pub. L. 87–61, title II, § 204, 75 Stat. 126; June 30, 1961, Pub. L. 87–72, § 3(a)(1), 75 Stat. 193; June 28, 1962, Pub. L. 87–508, § 3(a)(1), 76 Stat. 114; June 29, 1963, Pub. L. 88–52, § 3(a)(1), 77 Stat. 72; June 30, 1964, Pub. L. 88–348, § 2(a)(1), 78 Stat. 237; June 21, 1965, Pub. L. 89–44, title II, § 201, 79 Stat. 136; Mar. 15, 1966, Pub. L. 89–368, title II, § 201(a), 80 Stat. 65; Apr. 12, 1968, Pub. L. 90–285, § 1(a)(1), 82 Stat. 92; June 28, 1968, Pub. L. 90–364, title I, § 105(a)(1), 82 Stat. 265; Dec. 30, 1969, Pub. L. 91–172, title VII, § 702(a)(1), 83 Stat. 660; Dec. 31, 1970, Pub. L. 91–605, title III, § 303(a)(3), (4), 84 Stat. 1743; Dec. 31, 1970, Pub. L. 91–614, title II, § 201(a)(1), 84 Stat. 1843; Dec. 10, 1971, Pub. L. 92–178, title IV, § 401(a)(1), (g) (1), 85 Stat. 530, 533; May 5, 1976, Pub. L. 94–280, title III, § 303(a)(3), (4), 90 Stat. 456; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834; Nov. 6, 1978, Pub. L. 95–599, title V, § 502(a)(2), (3), 92 Stat. 2756; Jan. 6, 1983, Pub. L. 97–424, title V, § 512(a)(1), (2), 96 Stat. 2173, 2174, related to imposition of tax on trucks, buses, tractors, etc.
 
-Section 4062, acts Aug. 16, 1954, ch. 736, 68A Stat. 482; Oct. 13, 1964, Pub. L. 88–653, § 5(b), 78 Stat. 1086; Nov. 13, 1966, Pub. L. 89–809, title II, § 212(a), 80 Stat. 1585; Dec. 10, 1971, Pub. L. 92–178, title IV, § 401(g)(2)(A)–(C), 85 Stat. 533, related to articles classified as parts.
+Section 4062, acts Aug. 16, 1954, ch. 736, 68A Stat. 482; Oct. 13, 1964, Pub. L. 88–653, § 5(b), 78 Stat. 1086; Nov. 13, 1966, Pub. L. 89–809, title II, § 212(a), 80 Stat. 1585; Dec. 10, 1971, Pub. L. 92–178, title IV, § 401(g)(2)(A)–(C), 85 Stat. 533, related to articles classified as parts.
 
-Section 4063, acts Aug. 16, 1954, ch. 736, 68A Stat. 482; Aug. 11, 1955, ch. 805, § 1(g), 69 Stat. 690; Oct. 13, 1964, Pub. L. 88–653, § 5(a), 78 Stat. 1086; June 21, 1965, Pub. L. 89–44, title VIII, § 801(a), 79 Stat. 157; Dec. 30, 1969, Pub. L. 91–172, title IX, § 931(a), 83 Stat. 724; Dec. 31, 1970, Pub. L. 91–614, title III, § 303(a), 84 Stat. 1845; Dec. 10, 1971, Pub. L. 92–178, title IV, § 401(a)(2), (g)(3), 85 Stat. 530, 533; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XXI, § 2109(a), 90 Stat. 1834, 1904; Nov. 6, 1978, Pub. L. 95–600, title VII, § 701(ff)(1), 92 Stat. 2924; Nov. 9, 1978, Pub. L. 95–618, title II, § 231(a), 92 Stat. 3187; Jan. 6, 1983, Pub. L. 97–424, title V, § 512(a)(3), 96 Stat. 2174, related to exemptions from tax.
+Section 4063, acts Aug. 16, 1954, ch. 736, 68A Stat. 482; Aug. 11, 1955, ch. 805, § 1(g), 69 Stat. 690; Oct. 13, 1964, Pub. L. 88–653, § 5(a), 78 Stat. 1086; June 21, 1965, Pub. L. 89–44, title VIII, § 801(a), 79 Stat. 157; Dec. 30, 1969, Pub. L. 91–172, title IX, § 931(a), 83 Stat. 724; Dec. 31, 1970, Pub. L. 91–614, title III, § 303(a), 84 Stat. 1845; Dec. 10, 1971, Pub. L. 92–178, title IV, § 401(a)(2), (g)(3), 85 Stat. 530, 533; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XXI, § 2109(a), 90 Stat. 1834, 1904; Nov. 6, 1978, Pub. L. 95–600, title VII, § 701(ff)(1), 92 Stat. 2924; Nov. 9, 1978, Pub. L. 95–618, title II, § 231(a), 92 Stat. 3187; Jan. 6, 1983, Pub. L. 97–424, title V, § 512(a)(3), 96 Stat. 2174, related to exemptions from tax.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -65,13 +65,13 @@ Section 4063, acts Aug. 16, 1954, ch. 736, 68A Stat. 482; Aug. 11, 1955, ch. 805
 
 Repeal effective as if included in the provisions of the Highway Revenue Act of 1982, Pub. L. 97–424, see section 736 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 4051 of this title.
 
-#### § 4064. Gas guzzler tax
+#### § 4064. Gas guzzler tax
 
 **(a) Imposition of tax**
 
 There is hereby imposed on the sale by the manufacturer of each automobile a tax determined in accordance with the following table:
 
-| **If the fuel economy of the model type**  **in which the automobile falls is:** | **The tax is:** |
+| **If the fuel economy of the model type** **in which the automobile falls is:** | **The tax is:** |
 |---|---|
 | At least 22.5 | $0 |
 | At least 21.5 but less than 22.5 | 1,000 |
@@ -152,7 +152,7 @@ The EPA Administrator shall by regulation determine that quantity of any other f
 
 Testing and calculation procedures applicable to a model year, and any amendment to such procedures (other than a technical or clerical amendment), shall be promulgated not less than 12 months before the model year to which such procedures apply.
 
-(Added Pub. L. 95–618, title II, § 201(a), Nov. 9, 1978, 92 Stat. 3180; amended Pub. L. 99–514, title XVIII, § 1812(e)(1)(B)(i), (ii), Oct. 22, 1986, 100 Stat. 2836; Pub. L. 101–508, title XI, § 11216(a)–(d), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 103–272, § 5(g)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 109–59, title XI, § 11111(a), Aug. 10, 2005, 119 Stat. 1946.)
+(Added Pub. L. 95–618, title II, § 201(a), Nov. 9, 1978, 92 Stat. 3180; amended Pub. L. 99–514, title XVIII, § 1812(e)(1)(B)(i), (ii), Oct. 22, 1986, 100 Stat. 2836; Pub. L. 101–508, title XI, § 11216(a)–(d), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 103–272, § 5(g)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 109–59, title XI, § 11111(a), Aug. 10, 2005, 119 Stat. 1946.)
 
 **Editorial Notes**
 
@@ -160,7 +160,7 @@ Testing and calculation procedures applicable to a model year, and any amendment
 
 The date of enactment of this section, referred to in subsec. (b)(1)(B), is Nov. 9, 1978.
 
-Section 206 of the Clean Air Act, referred to in subsec. (c)(1), is section 206 of act July 14, 1955, ch. 360, title II, as added Dec. 31, 1970, Pub. L. 91–604, § 8(a), 84 Stat. 1694, which is classified to section 7525 of Title 42, The Public Health and Welfare.
+Section 206 of the Clean Air Act, referred to in subsec. (c)(1), is section 206 of act July 14, 1955, ch. 360, title II, as added Dec. 31, 1970, Pub. L. 91–604, § 8(a), 84 Stat. 1694, which is classified to section 7525 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -168,31 +168,31 @@ Section 206 of the Clean Air Act, referred to in subsec. (c)(1), is section 206 
 
 1994—Subsec. (b)(1)(B). Pub. L. 103–272 substituted “section 32901 of title 49, United States Code,” for “section 501 of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2001)”.
 
-1990—Subsec. (a). Pub. L. 101–508, § 11216(a), amended subsec. (a) generally, substituting present provisions for provisions which set forth gas guzzler tax tables in the case of automobiles built in each of the model years 1980 through 1986 and later.
+1990—Subsec. (a). Pub. L. 101–508, § 11216(a), amended subsec. (a) generally, substituting present provisions for provisions which set forth gas guzzler tax tables in the case of automobiles built in each of the model years 1980 through 1986 and later.
 
-Subsec. (b)(1)(A). Pub. L. 101–508, § 11216(b), inserted at end “In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).”
+Subsec. (b)(1)(A). Pub. L. 101–508, § 11216(b), inserted at end “In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).”
 
-Subsec. (b)(5)(B). Pub. L. 101–508, § 11216(c), substituted heading for one which read: “Exception for certain small manufacturers” and amended text generally. Prior to amendment, text read as follows: “A person shall not be treated as the manufacturer of any automobile if—
+Subsec. (b)(5)(B). Pub. L. 101–508, § 11216(c), substituted heading for one which read: “Exception for certain small manufacturers” and amended text generally. Prior to amendment, text read as follows: “A person shall not be treated as the manufacturer of any automobile if—
 
 “(i) such person would (but for this subparagraph) be so treated solely by reason of lengthening an existing automobile, and
 
 “(ii) such person is a small manufacturer (as defined in subsection (d)(4)) for the model year in which such lengthening occurs.”
 
-Subsec. (d). Pub. L. 101–508, § 11216(d), struck out subsec. (d) which prescribed special rules for small manufacturers.
+Subsec. (d). Pub. L. 101–508, § 11216(d), struck out subsec. (d) which prescribed special rules for small manufacturers.
 
-1986—Subsec. (b)(1)(A)(ii). Pub. L. 99–514, § 1812(e)(1)(B)(i), substituted “unloaded gross vehicle weight” for “gross vehicle weight”.
+1986—Subsec. (b)(1)(A)(ii). Pub. L. 99–514, § 1812(e)(1)(B)(i), substituted “unloaded gross vehicle weight” for “gross vehicle weight”.
 
-Subsec. (b)(5). Pub. L. 99–514, § 1812(e)(1)(B)(ii), amended par. (5) generally, designating existing provisions as subpar. (A), adding subpar. (A) heading, and adding subpar. (B).
+Subsec. (b)(5). Pub. L. 99–514, § 1812(e)(1)(B)(ii), amended par. (5) generally, designating existing provisions as subpar. (A), adding subpar. (A) heading, and adding subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11111(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 2005.”
+Pub. L. 109–59, title XI, § 11111(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 2005.”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11216(e), Nov. 5, 1990, 104 Stat. 1388–437, provided that:
+Pub. L. 101–508, title XI, § 11216(e), Nov. 5, 1990, 104 Stat. 1388–437, provided that:
 
 > **“(1) Subsections (a) and (b).—** The amendments made by subsections (a) and (b) [amending this section] shall apply to sales after December 31, 1990.
 
@@ -202,7 +202,7 @@ Pub. L. 101–508, title XI, § 11216(e), Nov. 5, 1990, 104 Stat. 1388–437, 
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XVIII, § 1812(e)(1)(B)(iii), Oct. 22, 1986, 100 Stat. 2837, provided that:
+Pub. L. 99–514, title XVIII, § 1812(e)(1)(B)(iii), Oct. 22, 1986, 100 Stat. 2837, provided that:
 
 > “The amendments made by clauses (i) and (ii) [amending this section] shall take effect as if included in the amendments made by section 201 of Public Law 95–618 [see Effective Date note below]; except that the amendment made by clause (i) shall not apply to any station wagon if—
 
@@ -214,11 +214,11 @@ Pub. L. 99–514, title XVIII, § 1812(e)(1)(B)(iii), Oct. 22, 1986, 100 Stat.
 
 **Effective Date**
 
-Pub. L. 95–618, title II, § 201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]).”
+Pub. L. 95–618, title II, § 201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]).”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 ### PART II—TIRES
 
@@ -226,13 +226,13 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 869(d)(2), Oct. 22, 2004, 118 Stat. 1623, substituted “Exemptions” for “Exemption for tires with internal wire fastening” in item 4073.
+2004—Pub. L. 108–357, title VIII, § 869(d)(2), Oct. 22, 2004, 118 Stat. 1623, substituted “Exemptions” for “Exemption for tires with internal wire fastening” in item 4073.
 
-1984—Pub. L. 98–369, div. A, title VII, § 735(c)(5)(A), (C), July 18, 1984, 98 Stat. 982, struck out “AND TUBES” from heading of part II and substituted “Exemption for tires with internal wire fastening” for “Exemptions” in item 4073.
+1984—Pub. L. 98–369, div. A, title VII, § 735(c)(5)(A), (C), July 18, 1984, 98 Stat. 982, struck out “AND TUBES” from heading of part II and substituted “Exemption for tires with internal wire fastening” for “Exemptions” in item 4073.
 
-1956—Act June 29, 1956, ch. 462, title II, § 204(d), 70 Stat. 389, substituted “Definitions” for “Definition of rubber” in item 4072.
+1956—Act June 29, 1956, ch. 462, title II, § 204(d), 70 Stat. 389, substituted “Definitions” for “Definition of rubber” in item 4072.
 
-#### § 4071. Imposition of tax
+#### § 4071. Imposition of tax
 
 **(a) Imposition and rate of tax**
 
@@ -254,7 +254,7 @@ This subsection shall not apply with respect to the sale of an automobile bus ch
 
 On and after October 1, 2028, the taxes imposed by subsection (a) shall not apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, § 204(a), 70 Stat. 388; Pub. L. 86–440, § 1(a), Apr. 22, 1960, 74 Stat. 80; Pub. L. 87–61, title II, § 202, June 29, 1961, 75 Stat. 124; Pub. L. 89–523, § 1(a), Aug. 1, 1966, 80 Stat. 331; Pub. L. 91–605, title III, § 303(a)(5), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 92–178, title IV, § 401(f), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, § 303(a)(5), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, § 502(a)(4), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 96–222, title I, § 108(c)(2)(C), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, § 4(a)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, § 1(d), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–424, title V, §§ 514(a), 516(a)(2), Jan. 6, 1983, 96 Stat. 2181, 2182; Pub. L. 98–369, div. A, title VII, § 735(c)(2), July 18, 1984, 98 Stat. 982; Pub. L. 100–17, title V, § 502(a)(3), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, § 11211(c)(2), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, § 8002(a)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, § 9002(a)(1)(E), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, § 869(a), (d)(1), Oct. 22, 2004, 118 Stat. 1623; Pub. L. 109–59, title XI, § 11101(a)(1)(E), Aug. 10, 2005, 119 Stat. 1943; Pub. L. 112–30, title I, § 142(a)(2)(C), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(a)(2)(C), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(a)(2)(C), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, § 40102(a)(2)(C), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, § 31102(a)(2)(C), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 117–58, div. H, title I, § 80102(a)(2)(C), Nov. 15, 2021, 135 Stat. 1327.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, § 204(a), 70 Stat. 388; Pub. L. 86–440, § 1(a), Apr. 22, 1960, 74 Stat. 80; Pub. L. 87–61, title II, § 202, June 29, 1961, 75 Stat. 124; Pub. L. 89–523, § 1(a), Aug. 1, 1966, 80 Stat. 331; Pub. L. 91–605, title III, § 303(a)(5), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 92–178, title IV, § 401(f), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, § 303(a)(5), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, § 502(a)(4), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 96–222, title I, § 108(c)(2)(C), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, § 4(a)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, § 1(d), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–424, title V, §§ 514(a), 516(a)(2), Jan. 6, 1983, 96 Stat. 2181, 2182; Pub. L. 98–369, div. A, title VII, § 735(c)(2), July 18, 1984, 98 Stat. 982; Pub. L. 100–17, title V, § 502(a)(3), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, § 11211(c)(2), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, § 8002(a)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, § 9002(a)(1)(E), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, § 869(a), (d)(1), Oct. 22, 2004, 118 Stat. 1623; Pub. L. 109–59, title XI, § 11101(a)(1)(E), Aug. 10, 2005, 119 Stat. 1943; Pub. L. 112–30, title I, § 142(a)(2)(C), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(a)(2)(C), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(a)(2)(C), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, § 40102(a)(2)(C), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, § 31102(a)(2)(C), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 117–58, div. H, title I, § 80102(a)(2)(C), Nov. 15, 2021, 135 Stat. 1327.)
 
 **Editorial Notes**
 
@@ -266,7 +266,7 @@ On and after October 1, 2028, the taxes imposed by subsection (a) shall not appl
 
 2012—Subsec. (d). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012”.
 
-Pub. L. 112–140, §§ 1(c), 402(a)(2)(C), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§ 1(c), 402(a)(2)(C), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
 
@@ -274,11 +274,11 @@ Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
 
 2005—Subsec. (d). Pub. L. 109–59 substituted “2011” for “2005”.
 
-2004—Subsec. (a). Pub. L. 108–357, § 869(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) imposed tax and set forth table of rates providing for no tax if the tire weighed not more than 40 lbs., tax of 15 cents per lb. in excess of 40 lbs. if the tire weighed more than 40 lbs. but not more than 70 lbs., tax of $4.50 plus 30 cents per lb. in excess of 70 lbs. if the tire weighed more than 70 lbs. but not more than 90 lbs., and tax of $10.50 plus 50 cents per lb. in excess of 90 lbs. if the tire weighed more than 90 lbs.
+2004—Subsec. (a). Pub. L. 108–357, § 869(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) imposed tax and set forth table of rates providing for no tax if the tire weighed not more than 40 lbs., tax of 15 cents per lb. in excess of 40 lbs. if the tire weighed more than 40 lbs. but not more than 70 lbs., tax of $4.50 plus 30 cents per lb. in excess of 70 lbs. if the tire weighed more than 70 lbs. but not more than 90 lbs., and tax of $10.50 plus 50 cents per lb. in excess of 90 lbs. if the tire weighed more than 90 lbs.
 
-Subsec. (c). Pub. L. 108–357, § 869(d)(1), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section, weight shall be based on total weight exclusive of metal rims or rim bases. Total weight of the articles shall be determined under regulations prescribed by the Secretary.”
+Subsec. (c). Pub. L. 108–357, § 869(d)(1), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section, weight shall be based on total weight exclusive of metal rims or rim bases. Total weight of the articles shall be determined under regulations prescribed by the Secretary.”
 
-Subsec. (e). Pub. L. 108–357, § 869(d)(1), redesignated subsec. (e) as (c).
+Subsec. (e). Pub. L. 108–357, § 869(d)(1), redesignated subsec. (e) as (c).
 
 1998—Subsec. (d). Pub. L. 105–178 substituted “2005” for “1999”.
 
@@ -288,15 +288,15 @@ Subsec. (e). Pub. L. 108–357, § 869(d)(1), redesignated subsec. (e) as (c).
 
 1987—Subsec. (d). Pub. L. 100–17 substituted “1993” for “1988”.
 
-1984—Subsec. (b). Pub. L. 98–369, § 735(c)(2)(A), struck out “or inner tube” after “any tire”, and struck out “or tube” after “such tire” in two places in first sentence.
+1984—Subsec. (b). Pub. L. 98–369, § 735(c)(2)(A), struck out “or inner tube” after “any tire”, and struck out “or tube” after “such tire” in two places in first sentence.
 
-Subsec. (c). Pub. L. 98–369, § 735(c)(2)(B), substituted “on total weight exclusive” for “on total weight, except that in the case of tires such total weight shall be exclusive”.
+Subsec. (c). Pub. L. 98–369, § 735(c)(2)(B), substituted “on total weight exclusive” for “on total weight, except that in the case of tires such total weight shall be exclusive”.
 
-Subsec. (e). Pub. L. 98–369, § 735(c)(2)(C), struck out “or inner tubes (other than bicycle tires and inner tubes)” after “equipped with tires” in provisions preceding par. (1), struck out “and inner tubes” before “with which such article is equipped” in pars. (1) and (2), and substituted “sale of an automobile bus chassis or an automobile bus body” for “sale of an article if a tax on such sale is imposed under section 4061 or if such article is an automobile bus chassis or an automobile bus body” in provisions following par. (2).
+Subsec. (e). Pub. L. 98–369, § 735(c)(2)(C), struck out “or inner tubes (other than bicycle tires and inner tubes)” after “equipped with tires” in provisions preceding par. (1), struck out “and inner tubes” before “with which such article is equipped” in pars. (1) and (2), and substituted “sale of an automobile bus chassis or an automobile bus body” for “sale of an article if a tax on such sale is imposed under section 4061 or if such article is an automobile bus chassis or an automobile bus body” in provisions following par. (2).
 
-Subsec. (f). Pub. L. 98–369, § 735(c)(2)(D), struck out subsec. (f) which related to imported recapped or retreaded United States tires.
+Subsec. (f). Pub. L. 98–369, § 735(c)(2)(D), struck out subsec. (f) which related to imported recapped or retreaded United States tires.
 
-1983—Subsec. (a). Pub. L. 97–424, § 514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is hereby imposed upon the following articles, if wholly or in part of rubber, sold by the manufacturer, producer, or importer, a tax at the following rates:
+1983—Subsec. (a). Pub. L. 97–424, § 514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is hereby imposed upon the following articles, if wholly or in part of rubber, sold by the manufacturer, producer, or importer, a tax at the following rates:
 
 “(1) Tires of the type used on highway vehicles, 9.75 cents a pound.
 
@@ -308,13 +308,13 @@ Subsec. (f). Pub. L. 98–369, § 735(c)(2)(D), struck out subsec. (f) which r
 
 “(5) Laminated tires (not of the type used on highway vehicles) which consist wholly of scrap rubber from used tire casings with an internal metal fastening agent, 1 cent a pound.”
 
-Subsec. (d). Pub. L. 97–424, § 516(a)(2), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by subsec. (a) shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by subsec. (a)(1) would be 4.875 cents a pound, that by subsec. (a)(3) would be 9 cents a pound, and that subsec. (a)(4) would not apply.
+Subsec. (d). Pub. L. 97–424, § 516(a)(2), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by subsec. (a) shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by subsec. (a)(1) would be 4.875 cents a pound, that by subsec. (a)(3) would be 9 cents a pound, and that subsec. (a)(4) would not apply.
 
-1980—Subsec. (a)(1). Pub. L. 96–596, § 4(a)(1)(A), substituted “9.75 cents” for “10 cents”.
+1980—Subsec. (a)(1). Pub. L. 96–596, § 4(a)(1)(A), substituted “9.75 cents” for “10 cents”.
 
-Subsec. (a)(2). Pub. L. 96–596, § 4(a)(1)(B), substituted “4.875 cents” for “5 cents”.
+Subsec. (a)(2). Pub. L. 96–596, § 4(a)(1)(B), substituted “4.875 cents” for “5 cents”.
 
-Subsec. (d)(1). Pub. L. 96–596, § 4(a)(1)(C), substituted “4.875 cents” for “5 cents”.
+Subsec. (d)(1). Pub. L. 96–596, § 4(a)(1)(C), substituted “4.875 cents” for “5 cents”.
 
 Subsec. (e). Pub. L. 96–222 inserted references to an automobile bus chassis or body.
 
@@ -332,17 +332,17 @@ Subsec. (d). Pub. L. 94–280 substituted “1979” for “1977”.
 
 1966—Subsecs. (b) to (d). Pub. L. 89–523 added subsec. (b) and redesignated former subsec. (b) and (c) as (c) and (d), respectively.
 
-1961—Subsec. (a)(1). Pub. L. 87–61, § 202(a), increased tax from 8 to 10 cents a pound.
+1961—Subsec. (a)(1). Pub. L. 87–61, § 202(a), increased tax from 8 to 10 cents a pound.
 
-Subsec. (a)(3). Pub. L. 87–61, § 202(c), increased tax from 9 to 10 cents a pound.
+Subsec. (a)(3). Pub. L. 87–61, § 202(c), increased tax from 9 to 10 cents a pound.
 
-Subsec. (a)(4). Pub. L. 87–61, § 202(c), increased tax from 3 to 5 cents a pound.
+Subsec. (a)(4). Pub. L. 87–61, § 202(c), increased tax from 3 to 5 cents a pound.
 
-Subsec. (c). Pub. L. 87–61, § 202(d), substituted “October 1, 1972” for “July 1, 1972”, added par. (2), and redesignated former par. (2) as (3).
+Subsec. (c). Pub. L. 87–61, § 202(d), substituted “October 1, 1972” for “July 1, 1972”, added par. (2), and redesignated former par. (2) as (3).
 
-1960—Subsec. (a)(2). Pub. L. 86–440, § 1(a)(1), inserted “(other than laminated tires to which paragraph (5) applies)” after “other tires”.
+1960—Subsec. (a)(2). Pub. L. 86–440, § 1(a)(1), inserted “(other than laminated tires to which paragraph (5) applies)” after “other tires”.
 
-Subsec. (a)(5). Pub. L. 86–440, § 1(a)(2), added par. (5).
+Subsec. (a)(5). Pub. L. 86–440, § 1(a)(2), added par. (5).
 
 1956—Act June 29, 1956, increased tax on tires of type used on highway vehicles from 5 cents a pound to 8 cents a pound, provided for a tax of 3 cents a pound on tread rubber, and required on and after July 1, 1972, a reduction in tax on tires of type used on highway vehicles from 8 cents a pound to 5 cents a pound, and elimination of tax on tread rubber.
 
@@ -372,7 +372,7 @@ Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub.
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 869(e), Oct. 22, 2004, 118 Stat. 1623, provided that: “The amendments made by this section [amending this section and sections 4072 and 4073 of this title] shall apply to sales in calendar years beginning more than 30 days after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 869(e), Oct. 22, 2004, 118 Stat. 1623, provided that: “The amendments made by this section [amending this section and sections 4072 and 4073 of this title] shall apply to sales in calendar years beginning more than 30 days after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1984 Amendment**
 
@@ -380,19 +380,19 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–424, title V, § 514(b), Jan. 6, 1983, 96 Stat. 2181, provided that: “The amendment made by this section [amending this section] shall apply to articles sold on or after January 1, 1984”.
+Pub. L. 97–424, title V, § 514(b), Jan. 6, 1983, 96 Stat. 2181, provided that: “The amendment made by this section [amending this section] shall apply to articles sold on or after January 1, 1984”.
 
 **Effective Date of 1980 Amendments**
 
-Pub. L. 96–598, § 1(e), Dec. 24, 1980, 94 Stat. 3486, provided that: “The amendments made by this section [amending this section and sections 6416 and 6511 of this title] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act [Dec. 24, 1980].”
+Pub. L. 96–598, § 1(e), Dec. 24, 1980, 94 Stat. 3486, provided that: “The amendments made by this section [amending this section and sections 6416 and 6511 of this title] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act [Dec. 24, 1980].”
 
-Pub. L. 96–596, § 4(a)(2), Dec. 24, 1980, 94 Stat. 3475, provided that: “The amendments made by this subsection [amending this section] shall apply on and after January 1, 1981.”
+Pub. L. 96–596, § 4(a)(2), Dec. 24, 1980, 94 Stat. 3475, provided that: “The amendments made by this subsection [amending this section] shall apply on and after January 1, 1981.”
 
 Amendment by Pub. L. 96–222 effective as if included in the provision of the Energy Tax Act of 1978, Pub. L. 95–618, Nov. 9, 1978, 92 Stat. 3174, to which such amendment relates, see section 108(c)(7) of Pub. L. 96–222, set out as a note under section 48 of this title.
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–178, title IV, § 401(h), Dec. 10, 1971, 85 Stat. 534, provided that:
+Pub. L. 92–178, title IV, § 401(h), Dec. 10, 1971, 85 Stat. 534, provided that:
 
 > **“(1)** Except as otherwise provided in this section, the amendments made by subsections (a), (f), and (g) [amending this section and sections 4061, 4062, 4063, 4216, 4221, 4222, 6412, and 6416 of this title] of this section shall apply with respect to articles sold on or after the day after the date of the enactment of this Act [Dec. 10, 1971].
 
@@ -412,7 +412,7 @@ Pub. L. 92–178, title IV, § 401(h), Dec. 10, 1971, 85 Stat. 534, provided t
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–523, § 1(b), Aug. 1, 1966, 80 Stat. 331, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the first calendar quarter which begins more than 20 days after the date on which this Act is enacted [Aug. 1, 1966].”
+Pub. L. 89–523, § 1(b), Aug. 1, 1966, 80 Stat. 331, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the first calendar quarter which begins more than 20 days after the date on which this Act is enacted [Aug. 1, 1966].”
 
 **Effective Date of 1961 Amendment**
 
@@ -420,7 +420,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–440, § 1(b), Apr. 22, 1960, 74 Stat. 81, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles sold on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act [April 22, 1960].”
+Pub. L. 86–440, § 1(b), Apr. 22, 1960, 74 Stat. 81, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles sold on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act [April 22, 1960].”
 
 **Effective Date of 1956 Amendment**
 
@@ -428,9 +428,9 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
 **Allowance of Credit or Refund of Overpayment of Tax Imposed**
 
-Pub. L. 96–596, § 4(b), Dec. 24, 1980, 94 Stat. 3475, provided that, applicable to any tire adjustment between Mar. 31, 1978, and Jan. 1, 1983, the determination of any overpayment of tax imposed by former subsec. (a)(1) and (2) or subsec. (b) of this section arising by reason of an adjustment of a tire after the original sale pursuant to a warranty or guarantee, and the allowance of a credit or refund of any such overpayment, would be determined with the principles set forth in regulations and rulings in effect on Mar. 31, 1978.
+Pub. L. 96–596, § 4(b), Dec. 24, 1980, 94 Stat. 3475, provided that, applicable to any tire adjustment between Mar. 31, 1978, and Jan. 1, 1983, the determination of any overpayment of tax imposed by former subsec. (a)(1) and (2) or subsec. (b) of this section arising by reason of an adjustment of a tire after the original sale pursuant to a warranty or guarantee, and the allowance of a credit or refund of any such overpayment, would be determined with the principles set forth in regulations and rulings in effect on Mar. 31, 1978.
 
-#### § 4072. Definitions
+#### § 4072. Definitions
 
 **(a) Taxable tire**
 
@@ -456,7 +456,7 @@ For purposes of this part, the term “biasply tire” means a pneumatic tire on
 
 For purposes of this part, the term “super single tire” means a single tire greater than 13 inches in cross section width designed to replace 2 tires in a dual fitment. Such term shall not include any tire designed for steering.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, § 204(b), 70 Stat. 389; Pub. L. 98–369, div. A, title VII, § 735(c)(3), July 18, 1984, 98 Stat. 982; Pub. L. 108–357, title VIII, §§ 851(c)(1), 869(b), Oct. 22, 2004, 118 Stat. 1608, 1623; Pub. L. 109–58, title XIII, § 1364(a), Aug. 8, 2005, 119 Stat. 1060.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, § 204(b), 70 Stat. 389; Pub. L. 98–369, div. A, title VII, § 735(c)(3), July 18, 1984, 98 Stat. 982; Pub. L. 108–357, title VIII, §§ 851(c)(1), 869(b), Oct. 22, 2004, 118 Stat. 1608, 1623; Pub. L. 109–58, title XIII, § 1364(a), Aug. 8, 2005, 119 Stat. 1060.)
 
 **Editorial Notes**
 
@@ -464,17 +464,17 @@ For purposes of this part, the term “super single tire” means a single tire 
 
 2005—Subsec. (e). Pub. L. 109–58 inserted at end “Such term shall not include any tire designed for steering.”
 
-2004—Subsec. (a). Pub. L. 108–357, § 869(b), added subsec. (a) and redesignated former subsec. (a) as (b).
+2004—Subsec. (a). Pub. L. 108–357, § 869(b), added subsec. (a) and redesignated former subsec. (a) as (b).
 
-Subsec. (b). Pub. L. 108–357, § 869(b), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 108–357, § 869(b), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-Pub. L. 108–357, § 851(c)(1), which directed amendment of par. (2) by inserting at end “Such term shall not include tires of a type used exclusively on vehicles described in section 4053(8).”, was executed by amending subsec. (b) by inserting that language after par. (2) to reflect the probable intent of Congress.
+Pub. L. 108–357, § 851(c)(1), which directed amendment of par. (2) by inserting at end “Such term shall not include tires of a type used exclusively on vehicles described in section 4053(8).”, was executed by amending subsec. (b) by inserting that language after par. (2) to reflect the probable intent of Congress.
 
-Subsecs. (c), (d). Pub. L. 108–357, § 869(b), redesignated subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 108–357, § 869(b), redesignated subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 
-Pub. L. 108–357, § 869(b), added subsecs. (c) and (d).
+Pub. L. 108–357, § 869(b), added subsecs. (c) and (d).
 
-Subsec. (e). Pub. L. 108–357, § 869(b), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 108–357, § 869(b), redesignated subsec. (d) as (e).
 
 1984—Subsecs. (b), (c). Pub. L. 98–369 redesignated subsec. (c) as (b) and struck out former subsec. (b) which defined “tread rubber”.
 
@@ -486,11 +486,11 @@ Act June 29, 1956, designated existing provisions as subsec. (a) and added subse
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–58, title XIII, § 1364(b), Aug. 8, 2005, 119 Stat. 1060, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 869 of the American Jobs Creation Act of 2004 [Pub. L. 108–357].”
+Pub. L. 109–58, title XIII, § 1364(b), Aug. 8, 2005, 119 Stat. 1060, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 869 of the American Jobs Creation Act of 2004 [Pub. L. 108–357].”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 851(c)(2), Oct. 22, 2004, 118 Stat. 1608, provided that: “The amendment made by this subsection [amending this section] shall take effect on the day after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 851(c)(2), Oct. 22, 2004, 118 Stat. 1608, provided that: “The amendment made by this subsection [amending this section] shall take effect on the day after the date of the enactment of this Act [Oct. 22, 2004].”
 
 Amendment by section 869(b) of Pub. L. 108–357 applicable to sales in calendar years beginning more than 30 days after Oct. 22, 2004, see section 869(e) of Pub. L. 108–357, set out as a note under section 4071 of this title.
 
@@ -502,11 +502,11 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act June 29, 1956, set out as a note under section 4041 of this title.
 
-#### § 4073. Exemptions
+#### § 4073. Exemptions
 
 The tax imposed by section 4071 shall not apply to tires sold for the exclusive use of the Department of Defense or the Coast Guard.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, § 204(c), 70 Stat. 389; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title VII, § 735(c)(4), July 18, 1984, 98 Stat. 982; Pub. L. 108–357, title VIII, § 869(c), Oct. 22, 2004, 118 Stat. 1623.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, § 204(c), 70 Stat. 389; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title VII, § 735(c)(4), July 18, 1984, 98 Stat. 982; Pub. L. 108–357, title VIII, § 869(c), Oct. 22, 2004, 118 Stat. 1623.)
 
 **Editorial Notes**
 
@@ -540,13 +540,13 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 853(d)(2)(R), Oct. 22, 2004, 118 Stat. 1614, amended analysis generally, substituting items for subparts A “Motor and aviation fuels” and B “Special provisions applicable to fuels tax” for former items for subparts A “Gasoline and diesel fuel”, B “Aviation fuel”, and C “Special provisions applicable to petroleum products”.
+2004—Pub. L. 108–357, title VIII, § 853(d)(2)(R), Oct. 22, 2004, 118 Stat. 1614, amended analysis generally, substituting items for subparts A “Motor and aviation fuels” and B “Special provisions applicable to fuels tax” for former items for subparts A “Gasoline and diesel fuel”, B “Aviation fuel”, and C “Special provisions applicable to petroleum products”.
 
-1993—Pub. L. 103–66, title XIII, § 13242(d)(43), Aug. 10, 1993, 107 Stat. 528, substituted “Gasoline and diesel fuel” for “Gasoline” in item for subpart A and “Aviation fuel” for “Diesel fuel and aviation fuel” in item for subpart B.
+1993—Pub. L. 103–66, title XIII, § 13242(d)(43), Aug. 10, 1993, 107 Stat. 528, substituted “Gasoline and diesel fuel” for “Gasoline” in item for subpart A and “Aviation fuel” for “Diesel fuel and aviation fuel” in item for subpart B.
 
-1987—Pub. L. 100–203, title X, § 10502(d)(18), Dec. 22, 1987, 101 Stat. 1330–445, added item relating to subpart B.
+1987—Pub. L. 100–203, title X, § 10502(d)(18), Dec. 22, 1987, 101 Stat. 1330–445, added item relating to subpart B.
 
-1983—Pub. L. 97–424, title V, § 515(b)(13), Jan. 6, 1983, 96 Stat. 2182, struck out the item for subpart B “Lubricating oil”.
+1983—Pub. L. 97–424, title V, § 515(b)(13), Jan. 6, 1983, 96 Stat. 2182, struck out the item for subpart B “Lubricating oil”.
 
 #### Subpart A—Motor and Aviation Fuels
 
@@ -554,19 +554,19 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 853(d)(2)(S), Oct. 22, 2004, 118 Stat. 1614, substituted “Motor and Aviation Fuels” for “Gasoline and Diesel Fuel” in subpart heading.
+2004—Pub. L. 108–357, title VIII, § 853(d)(2)(S), Oct. 22, 2004, 118 Stat. 1614, substituted “Motor and Aviation Fuels” for “Gasoline and Diesel Fuel” in subpart heading.
 
-1997—Pub. L. 105–34, title X, § 1032(e)(3)(B), Aug. 5, 1997, 111 Stat. 935, inserted “and kerosene” after “diesel fuel” in item 4082.
+1997—Pub. L. 105–34, title X, § 1032(e)(3)(B), Aug. 5, 1997, 111 Stat. 935, inserted “and kerosene” after “diesel fuel” in item 4082.
 
-1993—Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 514, substituted “Gasoline and Diesel Fuel” for “Gasoline” in subpart heading and amended section analysis generally, substituting “Exemptions for diesel fuel” for “Definitions” in item 4082 and “Definitions; special rule; administrative authority” for “Cross references” in item 4083 and adding item 4084.
+1993—Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 514, substituted “Gasoline and Diesel Fuel” for “Gasoline” in subpart heading and amended section analysis generally, substituting “Exemptions for diesel fuel” for “Definitions” in item 4082 and “Definitions; special rule; administrative authority” for “Cross references” in item 4083 and adding item 4084.
 
-1986—Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2774, struck out item 4083 “Exemption of sales to producer” and redesignated former item 4084 as 4083.
+1986—Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2774, struck out item 4083 “Exemption of sales to producer” and redesignated former item 4084 as 4083.
 
-1956—Act June 29, 1956, ch. 462, title II, § 208(e)(2), 70 Stat. 397, substituted “Cross references” for “Relief of farmers from tax in case of gasoline used on the farm” in item 4084.
+1956—Act June 29, 1956, ch. 462, title II, § 208(e)(2), 70 Stat. 397, substituted “Cross references” for “Relief of farmers from tax in case of gasoline used on the farm” in item 4084.
 
-Act Apr. 2, 1956, ch. 160, § 4(a)(2), 70 Stat. 90, added item 4084.
+Act Apr. 2, 1956, ch. 160, § 4(a)(2), 70 Stat. 90, added item 4084.
 
-##### § 4081. Imposition of tax
+##### § 4081. Imposition of tax
 
 **(a) Tax imposed**
 
@@ -694,7 +694,7 @@ The Leaking Underground Storage Tank Trust Fund financing rate under subsection 
 
 Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, § 3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, § 205, 70 Stat. 389; Pub. L. 86–342, title II, § 201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, § 201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, § 303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, § 303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, § 502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, § 221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, § 232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§ 511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, § 732(a)(1), (2), title IX, § 912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, § 521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, § 502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, § 10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, § 1017(c)(1), (14), title II, § 2001(d)(5), title VI, § 6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§ 11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, § 8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, § 1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§ 13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, § 1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, § 2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§ 1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§ 9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503; Pub. L. 108–357, title III, § 301(c)(7), title VIII, §§ 853(a)(1)–(3)(A), (4), 860(a), Oct. 22, 2004, 118 Stat. 1461, 1609–1611, 1618; Pub. L. 109–6, § 1(a), Mar. 31, 2005, 119 Stat. 20; Pub. L. 109–58, title XIII, §§ 1343(a), (b)(2), 1362(a), Aug. 8, 2005, 119 Stat. 1051, 1052, 1059; Pub. L. 109–59, title XI, §§ 11101(a)(1)(F), 11151(b)(1), (2), 11161(a)(1)–(4)(D), 11166(b)(1), Aug. 10, 2005, 119 Stat. 1944, 1968–1970, 1976; Pub. L. 110–161, div. K, title I, § 116(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, § 2(a), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, § 2(a), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, § 2(a), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, § 2(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, § 2(a), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, § 2(a), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, § 2(a), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, § 2(a), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, § 2(a), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, § 101(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, § 2(a), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, § 2(a), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, § 2(a), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, § 2(a), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, § 2(a), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, § 2(a), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title I, § 142(a)(1)(C), (2)(D), title II, § 202(a), Sept. 16, 2011, 125 Stat. 356, 357; Pub. L. 112–91, § 2(a), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, § 1101(a), Feb. 14, 2012, 126 Stat. 148; Pub. L. 112–102, title IV, § 402(a)(1)(C), (2)(D), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(a)(1)(C), (2)(D), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, § 40102(a)(1)(C), (2)(D), July 6, 2012, 126 Stat. 844; Pub. L. 114–55, title II, § 202(a), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–94, div. C, title XXXI, § 31102(a)(1)(C), (2)(D), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 114–141, title II, § 202(a), Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, § 1202(a), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, § 202(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–141, div. M, title I, § 202(a), Mar. 23, 2018, 132 Stat. 1048; Pub. L. 115–254, div. B, title VIII, § 802(a), Oct. 5, 2018, 132 Stat. 3428; Pub. L. 117–58, div. H, title I, § 80102(a)(1)(C), (2)(D), Nov. 15, 2021, 135 Stat. 1327; Pub. L. 118–15, div. B, title II, § 2212(a), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, § 202(a), Dec. 26, 2023, 137 Stat. 1115; Pub. L. 118–41, title II, § 202(a), Mar. 8, 2024, 138 Stat. 23; Pub. L. 118–63, title XIII, § 1302(a), May 16, 2024, 138 Stat. 1433.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, § 3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, § 205, 70 Stat. 389; Pub. L. 86–342, title II, § 201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, § 201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, § 303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, § 303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, § 502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, § 221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, § 232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§ 511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, § 732(a)(1), (2), title IX, § 912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, § 521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, § 502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, § 10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, § 1017(c)(1), (14), title II, § 2001(d)(5), title VI, § 6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§ 11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, § 8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, § 1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§ 13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, § 1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, § 2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§ 1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§ 9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503; Pub. L. 108–357, title III, § 301(c)(7), title VIII, §§ 853(a)(1)–(3)(A), (4), 860(a), Oct. 22, 2004, 118 Stat. 1461, 1609–1611, 1618; Pub. L. 109–6, § 1(a), Mar. 31, 2005, 119 Stat. 20; Pub. L. 109–58, title XIII, §§ 1343(a), (b)(2), 1362(a), Aug. 8, 2005, 119 Stat. 1051, 1052, 1059; Pub. L. 109–59, title XI, §§ 11101(a)(1)(F), 11151(b)(1), (2), 11161(a)(1)–(4)(D), 11166(b)(1), Aug. 10, 2005, 119 Stat. 1944, 1968–1970, 1976; Pub. L. 110–161, div. K, title I, § 116(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, § 2(a), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, § 2(a), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, § 2(a), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, § 2(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, § 2(a), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, § 2(a), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, § 2(a), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, § 2(a), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, § 2(a), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, § 101(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, § 2(a), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, § 2(a), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, § 2(a), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, § 2(a), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, § 2(a), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, § 2(a), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title I, § 142(a)(1)(C), (2)(D), title II, § 202(a), Sept. 16, 2011, 125 Stat. 356, 357; Pub. L. 112–91, § 2(a), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, § 1101(a), Feb. 14, 2012, 126 Stat. 148; Pub. L. 112–102, title IV, § 402(a)(1)(C), (2)(D), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(a)(1)(C), (2)(D), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, § 40102(a)(1)(C), (2)(D), July 6, 2012, 126 Stat. 844; Pub. L. 114–55, title II, § 202(a), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–94, div. C, title XXXI, § 31102(a)(1)(C), (2)(D), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 114–141, title II, § 202(a), Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, § 1202(a), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, § 202(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–141, div. M, title I, § 202(a), Mar. 23, 2018, 132 Stat. 1048; Pub. L. 115–254, div. B, title VIII, § 802(a), Oct. 5, 2018, 132 Stat. 3428; Pub. L. 117–58, div. H, title I, § 80102(a)(1)(C), (2)(D), Nov. 15, 2021, 135 Stat. 1327; Pub. L. 118–15, div. B, title II, § 2212(a), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, § 202(a), Dec. 26, 2023, 137 Stat. 1115; Pub. L. 118–41, title II, § 202(a), Mar. 8, 2024, 138 Stat. 23; Pub. L. 118–63, title XIII, § 1302(a), May 16, 2024, 138 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -714,9 +714,9 @@ Pub. L. 118–41 substituted “May 10, 2024” for “March 8, 2024”.
 
 Pub. L. 118–15 substituted “December 31, 2023” for “September 30, 2023”.
 
-2021—Subsec. (d)(1). Pub. L. 117–58, § 80102(a)(1)(C), substituted “September 30, 2028” for “September 30, 2022”.
+2021—Subsec. (d)(1). Pub. L. 117–58, § 80102(a)(1)(C), substituted “September 30, 2028” for “September 30, 2022”.
 
-Subsec. (d)(3). Pub. L. 117–58, § 80102(a)(2)(D), substituted “October 1, 2028” for “October 1, 2022”.
+Subsec. (d)(3). Pub. L. 117–58, § 80102(a)(2)(D), substituted “October 1, 2028” for “October 1, 2022”.
 
 2018—Subsec. (d)(2)(B). Pub. L. 115–254 substituted “September 30, 2023” for “September 30, 2018”.
 
@@ -728,31 +728,31 @@ Pub. L. 115–141 substituted “September 30, 2018” for “March 31, 2018”.
 
 Pub. L. 114–141 substituted “July 15, 2016” for “March 31, 2016”.
 
-2015—Subsec. (d)(1). Pub. L. 114–94, § 31102(a)(1)(C), substituted “September 30, 2022” for “September 30, 2016”.
+2015—Subsec. (d)(1). Pub. L. 114–94, § 31102(a)(1)(C), substituted “September 30, 2022” for “September 30, 2016”.
 
 Subsec. (d)(2)(B). Pub. L. 114–55 substituted “March 31, 2016” for “September 30, 2015”.
 
-Subsec. (d)(3). Pub. L. 114–94, § 31102(a)(2)(D), substituted “October 1, 2022” for “October 1, 2016”.
+Subsec. (d)(3). Pub. L. 114–94, § 31102(a)(2)(D), substituted “October 1, 2022” for “October 1, 2016”.
 
-2012—Subsec. (d)(1). Pub. L. 112–141, § 40102(a)(1)(C), substituted “September 30, 2016” for “June 30, 2012”.
+2012—Subsec. (d)(1). Pub. L. 112–141, § 40102(a)(1)(C), substituted “September 30, 2016” for “June 30, 2012”.
 
-Pub. L. 112–140, §§ 1(c), 402(a)(1)(C), temporarily substituted “July 6, 2012” for “June 30, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§ 1(c), 402(a)(1)(C), temporarily substituted “July 6, 2012” for “June 30, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102, § 402(a)(1)(C), substituted “June 30, 2012” for “March 31, 2012”.
+Pub. L. 112–102, § 402(a)(1)(C), substituted “June 30, 2012” for “March 31, 2012”.
 
 Subsec. (d)(2)(B). Pub. L. 112–95 substituted “September 30, 2015” for “February 17, 2012”.
 
 Pub. L. 112–91 substituted “February 17, 2012” for “January 31, 2012”.
 
-Subsec. (d)(3). Pub. L. 112–141, § 40102(a)(2)(D), substituted “October 1, 2016” for “July 1, 2012”.
+Subsec. (d)(3). Pub. L. 112–141, § 40102(a)(2)(D), substituted “October 1, 2016” for “July 1, 2012”.
 
-Pub. L. 112–140, §§ 1(c), 402(a)(2)(D), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§ 1(c), 402(a)(2)(D), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102, § 402(a)(2)(D), substituted “July 1, 2012” for “April 1, 2012”.
+Pub. L. 112–102, § 402(a)(2)(D), substituted “July 1, 2012” for “April 1, 2012”.
 
-2011—Subsec. (d)(1). Pub. L. 112–30, § 142(a)(1)(C), substituted “March 31, 2012” for “September 30, 2011”.
+2011—Subsec. (d)(1). Pub. L. 112–30, § 142(a)(1)(C), substituted “March 31, 2012” for “September 30, 2011”.
 
-Subsec. (d)(2)(B). Pub. L. 112–30, § 202(a), substituted “January 31, 2012” for “September 16, 2011”.
+Subsec. (d)(2)(B). Pub. L. 112–30, § 202(a), substituted “January 31, 2012” for “September 16, 2011”.
 
 Pub. L. 112–27 substituted “September 16, 2011” for “July 22, 2011”.
 
@@ -762,7 +762,7 @@ Pub. L. 112–16 substituted “June 30, 2011” for “May 31, 2011”.
 
 Pub. L. 112–7 substituted “May 31, 2011” for “March 31, 2011”.
 
-Subsec. (d)(3). Pub. L. 112–30, § 142(a)(2)(D), substituted “April 1, 2012” for “October 1, 2011”.
+Subsec. (d)(3). Pub. L. 112–30, § 142(a)(2)(D), substituted “April 1, 2012” for “October 1, 2011”.
 
 2010—Subsec. (d)(2)(B). Pub. L. 111–329 substituted “March 31, 2011” for “December 31, 2010”.
 
@@ -790,49 +790,49 @@ Pub. L. 110–190 substituted “June 30, 2008” for “February 29, 2008”.
 
 2007—Subsec. (d)(2)(B). Pub. L. 110–161 substituted “February 29, 2008” for “September 30, 2007”.
 
-2005—Subsec. (a)(1)(B). Pub. L. 109–59, § 11166(b)(1), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “The tax imposed by this paragraph shall not apply to any removal or entry of a taxable fuel transferred in bulk by pipeline or vessel to a terminal or refinery if the person removing or entering the taxable fuel, the operator of such pipeline or vessel, and the operator of such terminal or refinery are registered under section 4101.”
+2005—Subsec. (a)(1)(B). Pub. L. 109–59, § 11166(b)(1), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “The tax imposed by this paragraph shall not apply to any removal or entry of a taxable fuel transferred in bulk by pipeline or vessel to a terminal or refinery if the person removing or entering the taxable fuel, the operator of such pipeline or vessel, and the operator of such terminal or refinery are registered under section 4101.”
 
-Subsec. (a)(2)(A)(ii) to (iv). Pub. L. 109–59, § 11161(a)(1), inserted “and” at end of cl. (ii), substituted a period for “, and” at end of cl. (iii), and struck out cl. (iv) which read as follows: “in the case of aviation-grade kerosene, 21.8 cents per gallon.”
+Subsec. (a)(2)(A)(ii) to (iv). Pub. L. 109–59, § 11161(a)(1), inserted “and” at end of cl. (ii), substituted a period for “, and” at end of cl. (iii), and struck out cl. (iv) which read as follows: “in the case of aviation-grade kerosene, 21.8 cents per gallon.”
 
-Subsec. (a)(2)(C). Pub. L. 109–59, § 11161(a)(2), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “In the case of aviation-grade kerosene which is removed from any refinery or terminal directly into the fuel tank of an aircraft for use in commercial aviation by a person registered for such use under section 4101, the rate of tax under subparagraph (A)(iv) shall be 4.3 cents per gallon.”
+Subsec. (a)(2)(C). Pub. L. 109–59, § 11161(a)(2), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “In the case of aviation-grade kerosene which is removed from any refinery or terminal directly into the fuel tank of an aircraft for use in commercial aviation by a person registered for such use under section 4101, the rate of tax under subparagraph (A)(iv) shall be 4.3 cents per gallon.”
 
-Pub. L. 109–59, § 11151(b)(1), substituted “for use in commercial aviation by a person registered for such use under section 4101” for “for use in commercial aviation”.
+Pub. L. 109–59, § 11151(b)(1), substituted “for use in commercial aviation by a person registered for such use under section 4101” for “for use in commercial aviation”.
 
-Subsec. (a)(2)(D). Pub. L. 109–58, § 1343(a), added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 109–58, § 1343(a), added subpar. (D).
 
-Subsec. (a)(3)(A)(i). Pub. L. 109–59, § 11161(a)(3)(A), struck out “a secured area of” before “an airport”.
+Subsec. (a)(3)(A)(i). Pub. L. 109–59, § 11161(a)(3)(A), struck out “a secured area of” before “an airport”.
 
-Subsec. (a)(3)(A)(ii), (iv). Pub. L. 109–59, § 11161(a)(4)(A), struck out “aviation-grade” before “kerosene”.
+Subsec. (a)(3)(A)(ii), (iv). Pub. L. 109–59, § 11161(a)(4)(A), struck out “aviation-grade” before “kerosene”.
 
-Subsec. (a)(3)(D). Pub. L. 109–59, § 11161(a)(3)(B), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 109–59, § 11161(a)(3)(B), added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 109–59, § 11161(a)(4)(B), (C), struck out “aviation-grade” before “kerosene” in heading and substituted “paragraph (2)(C)(i)” for “paragraph (2)(C)” in text.
+Subsec. (a)(4). Pub. L. 109–59, § 11161(a)(4)(B), (C), struck out “aviation-grade” before “kerosene” in heading and substituted “paragraph (2)(C)(i)” for “paragraph (2)(C)” in text.
 
-Subsec. (c). Pub. L. 109–58, § 1343(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–58, § 1343(b)(2), added subsec. (c).
 
-Subsec. (d)(1). Pub. L. 109–59, § 11101(a)(1)(F), substituted “2011” for “2005”.
+Subsec. (d)(1). Pub. L. 109–59, § 11101(a)(1)(F), substituted “2011” for “2005”.
 
-Subsec. (d)(2). Pub. L. 109–59, § 11161(a)(4)(D), reenacted par. heading without change and amended text of introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The rates of tax specified in clauses (ii) and (iv) of subsection (a)(2)(A) shall be 4.3 cents per gallon—”.
+Subsec. (d)(2). Pub. L. 109–59, § 11161(a)(4)(D), reenacted par. heading without change and amended text of introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The rates of tax specified in clauses (ii) and (iv) of subsection (a)(2)(A) shall be 4.3 cents per gallon—”.
 
-Pub. L. 109–59, § 11151(b)(2), amended par. heading and text of introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The rate of tax specified in subsection (a)(2)(A)(ii) shall be 4.3 cents per gallon—”.
+Pub. L. 109–59, § 11151(b)(2), amended par. heading and text of introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The rate of tax specified in subsection (a)(2)(A)(ii) shall be 4.3 cents per gallon—”.
 
-Subsec. (d)(3). Pub. L. 109–58, § 1362(a), substituted “2011” for “2005”.
+Subsec. (d)(3). Pub. L. 109–58, § 1362(a), substituted “2011” for “2005”.
 
 Pub. L. 109–6 substituted “October 1, 2005” for “April 1, 2005”.
 
-2004—Subsec. (a)(1)(B). Pub. L. 108–357, § 860(a), inserted “by pipeline or vessel” after “transferred in bulk” and “, the operator of such pipeline or vessel,” after “the taxable fuel”.
+2004—Subsec. (a)(1)(B). Pub. L. 108–357, § 860(a), inserted “by pipeline or vessel” after “transferred in bulk” and “, the operator of such pipeline or vessel,” after “the taxable fuel”.
 
-Subsec. (a)(2)(A)(iv). Pub. L. 108–357, § 853(a)(1), added cl. (iv).
+Subsec. (a)(2)(A)(iv). Pub. L. 108–357, § 853(a)(1), added cl. (iv).
 
-Subsec. (a)(2)(C). Pub. L. 108–357, § 853(a)(2), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 108–357, § 853(a)(2), added subpar. (C).
 
-Subsec. (a)(3). Pub. L. 108–357, § 853(a)(3)(A), added par. (3).
+Subsec. (a)(3). Pub. L. 108–357, § 853(a)(3)(A), added par. (3).
 
-Subsec. (a)(4). Pub. L. 108–357, § 853(a)(4), added par. (4).
+Subsec. (a)(4). Pub. L. 108–357, § 853(a)(4), added par. (4).
 
-Subsec. (c). Pub. L. 108–357, § 301(c)(7), struck out subsec. (c) which related to taxation of taxable fuels mixed with alcohol.
+Subsec. (c). Pub. L. 108–357, § 301(c)(7), struck out subsec. (c) which related to taxation of taxable fuels mixed with alcohol.
 
-1998—Subsec. (c)(4)(A). Pub. L. 105–178, § 9003(b)(2)(B), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The alcohol mixture rate for a qualified alcohol mixture which contains gasoline is the excess of the rate which would (but for this paragraph) be determined under subsection (a) over—
+1998—Subsec. (c)(4)(A). Pub. L. 105–178, § 9003(b)(2)(B), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The alcohol mixture rate for a qualified alcohol mixture which contains gasoline is the excess of the rate which would (but for this paragraph) be determined under subsection (a) over—
 
 “(i) 5.4 cents per gallon for 10 percent gasohol,
 
@@ -842,13 +842,13 @@ Subsec. (c). Pub. L. 108–357, § 301(c)(7), struck out subsec. (c) which rel
 
 In the case of a mixture none of the alcohol in which consists of ethanol, clauses (i), (ii), and (iii) shall be applied by substituting ‘6 cents’ for ‘5.4 cents’, ‘4.62 cents’ for ‘4.158 cents’, and ‘3.42 cents’ for ‘3.078 cents’.”
 
-Subsec. (c)(5). Pub. L. 105–178, § 9003(b)(2)(C), substituted “the applicable blender rate (as defined in section 4041(b)(2)(C))” for “5.4 cents”.
+Subsec. (c)(5). Pub. L. 105–178, § 9003(b)(2)(C), substituted “the applicable blender rate (as defined in section 4041(b)(2)(C))” for “5.4 cents”.
 
-Subsec. (c)(8). Pub. L. 105–178, § 9003(a)(1)(C), substituted “2007” for “2000”.
+Subsec. (c)(8). Pub. L. 105–178, § 9003(a)(1)(C), substituted “2007” for “2000”.
 
-Subsec. (d)(1). Pub. L. 105–178, § 9002(a)(1)(F), substituted “2005” for “1999”.
+Subsec. (d)(1). Pub. L. 105–178, § 9002(a)(1)(F), substituted “2005” for “1999”.
 
-1997—Subsec. (a)(2)(A)(iii). Pub. L. 105–34, § 1032(b), inserted “or kerosene” after “diesel fuel”.
+1997—Subsec. (a)(2)(A)(iii). Pub. L. 105–34, § 1032(b), inserted “or kerosene” after “diesel fuel”.
 
 Subsec. (d)(1), (2). Pub. L. 105–2 added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -856,31 +856,31 @@ Subsec. (d)(1), (2). Pub. L. 105–2 added pars. (1) and (2) and struck out form
 
 “(2) Aviation gasoline.—On and after January 1, 1997, the rate specified in subsection (a)(2)(A)(ii) shall be 4.3 cents per gallon.”
 
-Subsec. (d)(2)(B). Pub. L. 105–34, § 1031(a)(2), substituted “September 30, 2007” for “September 30, 1997”.
+Subsec. (d)(2)(B). Pub. L. 105–34, § 1031(a)(2), substituted “September 30, 2007” for “September 30, 1997”.
 
-Subsec. (d)(3). Pub. L. 105–34, § 1033, substituted “shall apply after September 30, 1997, and before April 1, 2005” for “shall not apply after December 31, 1995”.
+Subsec. (d)(3). Pub. L. 105–34, § 1033, substituted “shall apply after September 30, 1997, and before April 1, 2005” for “shall not apply after December 31, 1995”.
 
 Pub. L. 105–2 struck out heading and text of par. (3) relating to aviation gasoline. Text read as follows: “After December 31, 1996, the rate of tax specified in subsection (a)(2)(A)(i) on aviation gasoline shall be 4.3 cents per gallon.”
 
-1996—Subsec. (a)(2)(A). Pub. L. 104–188, § 1609(g)(1), added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i) which read as follows: “in the case of gasoline, 18.3 cents per gallon, and”.
+1996—Subsec. (a)(2)(A). Pub. L. 104–188, § 1609(g)(1), added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i) which read as follows: “in the case of gasoline, 18.3 cents per gallon, and”.
 
-Subsec. (d)(1). Pub. L. 104–188, § 1609(a)(2)(B), (g)(4)(B), substituted “the rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) (other than the tax on aviation gasoline)” for “each rate of tax specified in subsection (a)(2)(A)”.
+Subsec. (d)(1). Pub. L. 104–188, § 1609(a)(2)(B), (g)(4)(B), substituted “the rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) (other than the tax on aviation gasoline)” for “each rate of tax specified in subsection (a)(2)(A)”.
 
-Subsec. (d)(2), (3). Pub. L. 104–188, § 1609(a)(2)(A), (g)(2), added par. (3) relating to aviation gasoline, redesignated former par. (2), relating to leaking underground storage tank trust fund financing rate, as another par. (3), and added new par. (2) relating to aviation gasoline.
+Subsec. (d)(2), (3). Pub. L. 104–188, § 1609(a)(2)(A), (g)(2), added par. (3) relating to aviation gasoline, redesignated former par. (2), relating to leaking underground storage tank trust fund financing rate, as another par. (3), and added new par. (2) relating to aviation gasoline.
 
-1993—Pub. L. 103–66, § 13242(a), amended section generally, substituting, in subsec. (a), provisions imposing tax on taxable fuels for provisions imposing tax on gasoline, in subsec. (b), provisions relating to treatment of removal or subsequent sale of taxable fuels by blender for provisions relating to treatment of removal or subsequent sale of gasoline by blender or compounder, in subsec. (c), provisions relating to taxable fuels mixed with alcohol for provisions relating to gasoline mixed with alcohol at refinery etc., in subsec. (d), provisions decreasing tax rate imposed on taxable fuels to 4.3 cents per gallon beginning on and after Oct. 1, 1999, for provisions terminating the Highway Trust Fund financing and deficit reduction rates on and after Oct. 1, 1999, and Oct. 1, 1995, respectively, and, in subsec. (e), “taxable fuel” for “gasoline” in two places.
+1993—Pub. L. 103–66, § 13242(a), amended section generally, substituting, in subsec. (a), provisions imposing tax on taxable fuels for provisions imposing tax on gasoline, in subsec. (b), provisions relating to treatment of removal or subsequent sale of taxable fuels by blender for provisions relating to treatment of removal or subsequent sale of gasoline by blender or compounder, in subsec. (c), provisions relating to taxable fuels mixed with alcohol for provisions relating to gasoline mixed with alcohol at refinery etc., in subsec. (d), provisions decreasing tax rate imposed on taxable fuels to 4.3 cents per gallon beginning on and after Oct. 1, 1999, for provisions terminating the Highway Trust Fund financing and deficit reduction rates on and after Oct. 1, 1999, and Oct. 1, 1995, respectively, and, in subsec. (e), “taxable fuel” for “gasoline” in two places.
 
-Subsec. (a)(2)(B)(iii). Pub. L. 103–66, § 13241(a), amended cl. (iii) generally, substituting “6.8 cents per gallon” for “2.5 cents a gallon”.
+Subsec. (a)(2)(B)(iii). Pub. L. 103–66, § 13241(a), amended cl. (iii) generally, substituting “6.8 cents per gallon” for “2.5 cents a gallon”.
 
-1992—Subsec. (c)(1). Pub. L. 102–486, § 1920(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Under regulations prescribed by the Secretary, subsection (a) shall be applied by substituting rates which are 10/9th of the otherwise applicable rates in the case of the removal or sale of any gasoline for use in producing gasohol at the time of such removal or sale. Subject to such terms and conditions as the Secretary may prescribe (including the application of section 4101), the treatment under the preceding sentence also shall apply to use in producing gasohol after the time of such removal or sale. For purposes of this paragraph, the term ‘gasohol’ means any mixture of gasoline if at least 10 percent of such mixture is alcohol. For purposes of this subsection, in the case of the Highway Trust Fund financing rate, the otherwise applicable rate is 6.1 cents a gallon.”
+1992—Subsec. (c)(1). Pub. L. 102–486, § 1920(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Under regulations prescribed by the Secretary, subsection (a) shall be applied by substituting rates which are 10/9th of the otherwise applicable rates in the case of the removal or sale of any gasoline for use in producing gasohol at the time of such removal or sale. Subject to such terms and conditions as the Secretary may prescribe (including the application of section 4101), the treatment under the preceding sentence also shall apply to use in producing gasohol after the time of such removal or sale. For purposes of this paragraph, the term ‘gasohol’ means any mixture of gasoline if at least 10 percent of such mixture is alcohol. For purposes of this subsection, in the case of the Highway Trust Fund financing rate, the otherwise applicable rate is 6.1 cents a gallon.”
 
-Subsec. (c)(2). Pub. L. 102–486, § 1920(b)(1), substituted “an otherwise applicable rate” for “6.1 cents a gallon”.
+Subsec. (c)(2). Pub. L. 102–486, § 1920(b)(1), substituted “an otherwise applicable rate” for “6.1 cents a gallon”.
 
-Subsec. (c)(4). Pub. L. 102–486, § 1920(b)(2), substituted heading for one which read: “Lower rate on gasohol made other than from ethanol”, added text, and struck out former text which read as follows: “In the case of gasohol none of the alcohol in which consists of ethanol, paragraphs (1) and (2) shall be applied by substituting ‘5.5 cents’ for ‘6.1 cents’.”
+Subsec. (c)(4). Pub. L. 102–486, § 1920(b)(2), substituted heading for one which read: “Lower rate on gasohol made other than from ethanol”, added text, and struck out former text which read as follows: “In the case of gasohol none of the alcohol in which consists of ethanol, paragraphs (1) and (2) shall be applied by substituting ‘5.5 cents’ for ‘6.1 cents’.”
 
 1991—Subsec. (d)(1). Pub. L. 102–240 substituted “1999” for “1995”.
 
-1990—Subsec. (a)(1). Pub. L. 101–508, § 11212(a), substituted heading for one which read: “In general” and amended text generally. Prior to amendment, text read as follows: “There is hereby imposed a tax at the rate specified in paragraph (2) on the earlier of—
+1990—Subsec. (a)(1). Pub. L. 101–508, § 11212(a), substituted heading for one which read: “In general” and amended text generally. Prior to amendment, text read as follows: “There is hereby imposed a tax at the rate specified in paragraph (2) on the earlier of—
 
 “(A) the removal, or
 
@@ -888,27 +888,27 @@ Subsec. (c)(4). Pub. L. 102–486, § 1920(b)(2), substituted heading for one 
 
 of gasoline by the refiner or importer thereof or the terminal operator.”
 
-Subsec. (a)(2)(A)(iii). Pub. L. 101–508, § 11211(a)(1), added cl. (iii).
+Subsec. (a)(2)(A)(iii). Pub. L. 101–508, § 11211(a)(1), added cl. (iii).
 
-Subsec. (a)(2)(B)(i). Pub. L. 101–508, § 11211(a)(2)(A), substituted “11.5 cents” for “9 cents”.
+Subsec. (a)(2)(B)(i). Pub. L. 101–508, § 11211(a)(2)(A), substituted “11.5 cents” for “9 cents”.
 
-Subsec. (a)(2)(B)(iii). Pub. L. 101–508, § 11211(a)(2)(B), (C), added cl. (iii).
+Subsec. (a)(2)(B)(iii). Pub. L. 101–508, § 11211(a)(2)(B), (C), added cl. (iii).
 
-Subsec. (a)(3). Pub. L. 101–508, § 11212(e)(2), struck out par. (3) which read as follows: “For purposes of paragraph (1), the bulk transfer of gasoline to a terminal operator by a refiner or importer shall not be considered a removal or sale of gasoline by such refiner or importer.”
+Subsec. (a)(3). Pub. L. 101–508, § 11212(e)(2), struck out par. (3) which read as follows: “For purposes of paragraph (1), the bulk transfer of gasoline to a terminal operator by a refiner or importer shall not be considered a removal or sale of gasoline by such refiner or importer.”
 
-Subsec. (c)(1). Pub. L. 101–508, § 11211(a)(5)(A), substituted “applied by substituting rates which are 10/9th of the otherwise applicable rates” for “applied by substituting ‘3⅓ cents’ for ‘9 cents’ and by substituting ‘⅑ cent’ for ‘0.1 cent’ ” and inserted “For purposes of this subsection, in the case of the Highway Trust Fund financing rate, the otherwise applicable rate is 6.1 cents a gallon.”
+Subsec. (c)(1). Pub. L. 101–508, § 11211(a)(5)(A), substituted “applied by substituting rates which are 10/9th of the otherwise applicable rates” for “applied by substituting ‘3⅓ cents’ for ‘9 cents’ and by substituting ‘⅑ cent’ for ‘0.1 cent’ ” and inserted “For purposes of this subsection, in the case of the Highway Trust Fund financing rate, the otherwise applicable rate is 6.1 cents a gallon.”
 
-Subsec. (c)(2). Pub. L. 101–508, § 11211(a)(5)(B), which directed the substitution of “at a Highway Trust Fund financing rate equivalent to 6.1 cents” for “at a rate equivalent to 3 cents”, was executed by making the substitution for “at a Highway Trust Fund financing rate equivalent to 3 cents” to reflect the probable intent of Congress. See 1986 Amendment note below.
+Subsec. (c)(2). Pub. L. 101–508, § 11211(a)(5)(B), which directed the substitution of “at a Highway Trust Fund financing rate equivalent to 6.1 cents” for “at a rate equivalent to 3 cents”, was executed by making the substitution for “at a Highway Trust Fund financing rate equivalent to 3 cents” to reflect the probable intent of Congress. See 1986 Amendment note below.
 
-Subsec. (c)(4). Pub. L. 101–508, § 11211(a)(5)(C), added par. (4). Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 101–508, § 11211(a)(5)(C), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 101–508, § 11211(e)(3), substituted “2000” for “1993”.
+Subsec. (c)(5). Pub. L. 101–508, § 11211(e)(3), substituted “2000” for “1993”.
 
-Pub. L. 101–508, § 11211(a)(5)(C), redesignated par. (4) as (5).
+Pub. L. 101–508, § 11211(a)(5)(C), redesignated par. (4) as (5).
 
-Subsec. (d)(1). Pub. L. 101–508, § 11211(c)(3), substituted “1995” for “1993”.
+Subsec. (d)(1). Pub. L. 101–508, § 11211(c)(3), substituted “1995” for “1993”.
 
-Subsec. (d)(2). Pub. L. 101–508, § 11215(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+Subsec. (d)(2). Pub. L. 101–508, § 11215(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(A) In general.—The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall not apply after the earlier of—
 
@@ -920,85 +920,85 @@ Subsec. (d)(2). Pub. L. 101–508, § 11215(a), amended par. (2) generally. Pr
 
 “(C) Net revenues.—For purposes of subparagraph (B), the term ‘net revenues’ means the excess of gross revenues over amounts payable by reason of section 9508(c)(2) (relating to transfer from Leaking Underground Storage Tank Trust Fund for certain repayments and credits).”
 
-Subsec. (d)(3). Pub. L. 101–508, § 11211(a)(3), added par. (3).
+Subsec. (d)(3). Pub. L. 101–508, § 11211(a)(3), added par. (3).
 
-Subsec. (e). Pub. L. 101–508, § 11212(d)(1), added subsec. (e).
+Subsec. (e). Pub. L. 101–508, § 11212(d)(1), added subsec. (e).
 
-1988—Subsec. (a). Pub. L. 100–647, § 1017(c)(1)(A), added pars. (1) and (2), struck out former par. (1) which imposed a tax at the rate specified in subsec. (d) on the earlier of the removal, or the sale of gasoline by the refiner or importer thereof or the terminal operator, and redesignated former par. (2) as (3).
+1988—Subsec. (a). Pub. L. 100–647, § 1017(c)(1)(A), added pars. (1) and (2), struck out former par. (1) which imposed a tax at the rate specified in subsec. (d) on the earlier of the removal, or the sale of gasoline by the refiner or importer thereof or the terminal operator, and redesignated former par. (2) as (3).
 
-Subsec. (b)(1). Pub. L. 100–647, § 1017(c)(1)(B), substituted “subsection (a)” for “subsection (d)”.
+Subsec. (b)(1). Pub. L. 100–647, § 1017(c)(1)(B), substituted “subsection (a)” for “subsection (d)”.
 
-Subsec. (c)(1). Pub. L. 100–647, § 6104(a), inserted after first sentence “Subject to such terms and conditions as the Secretary may prescribe (including the application of section 4101), the treatment under the preceding sentence also shall apply to use in producing gasohol after the time of such removal or sale.”
+Subsec. (c)(1). Pub. L. 100–647, § 6104(a), inserted after first sentence “Subject to such terms and conditions as the Secretary may prescribe (including the application of section 4101), the treatment under the preceding sentence also shall apply to use in producing gasohol after the time of such removal or sale.”
 
-Pub. L. 100–647, § 2001(d)(5)(A), inserted “and by substituting ‘⅑ cent’ for ‘0.1 cent’ ” before “in the case of the removal”.
+Pub. L. 100–647, § 2001(d)(5)(A), inserted “and by substituting ‘⅑ cent’ for ‘0.1 cent’ ” before “in the case of the removal”.
 
-Pub. L. 100–647, § 1017(c)(14), substituted “3⅓ cents” for “3 cents”.
+Pub. L. 100–647, § 1017(c)(14), substituted “3⅓ cents” for “3 cents”.
 
-Pub. L. 100–647, § 1017(c)(1)(B), substituted “subsection (a)” for “subsection (d)”.
+Pub. L. 100–647, § 1017(c)(1)(B), substituted “subsection (a)” for “subsection (d)”.
 
-Subsec. (c)(2). Pub. L. 100–647, § 2001(d)(5)(B), substituted “reduced by the amount of tax imposed (and not credited or refunded) on any prior removal or sale of such fuel” for “5⅔ cents a gallon”.
+Subsec. (c)(2). Pub. L. 100–647, § 2001(d)(5)(B), substituted “reduced by the amount of tax imposed (and not credited or refunded) on any prior removal or sale of such fuel” for “5⅔ cents a gallon”.
 
-Subsec. (d). Pub. L. 100–647, § 1017(c)(1)(D), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to the rate of tax.
+Subsec. (d). Pub. L. 100–647, § 1017(c)(1)(D), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to the rate of tax.
 
-Subsec. (d)(1). Pub. L. 100–647, § 1017(c)(1)(C)(i), substituted “subsection (a)(2)” for “subsection (d)(2)(A)”.
+Subsec. (d)(1). Pub. L. 100–647, § 1017(c)(1)(C)(i), substituted “subsection (a)(2)” for “subsection (d)(2)(A)”.
 
-Subsec. (d)(2)(A). Pub. L. 100–647, § 1017(c)(1)(C)(ii), substituted “subsection (a)(2)” for “subsection (d)(2)(B)”.
+Subsec. (d)(2)(A). Pub. L. 100–647, § 1017(c)(1)(C)(ii), substituted “subsection (a)(2)” for “subsection (d)(2)(B)”.
 
-Subsec. (e). Pub. L. 100–647, § 1017(c)(1)(D), redesignated subsec. (e) as (d).
+Subsec. (e). Pub. L. 100–647, § 1017(c)(1)(D), redesignated subsec. (e) as (d).
 
-1987—Subsec. (c)(4). Pub. L. 100–17, § 502(c)(2), substituted “September 30, 1993” for “December 31, 1992”.
+1987—Subsec. (c)(4). Pub. L. 100–17, § 502(c)(2), substituted “September 30, 1993” for “December 31, 1992”.
 
-Subsec. (e)(1). Pub. L. 100–17, § 502(a)(4), substituted “1993” for “1988”.
+Subsec. (e)(1). Pub. L. 100–17, § 502(a)(4), substituted “1993” for “1988”.
 
 Subsec. (e)(2)(B). Pub. L. 100–203 substituted “net revenues are at least $500,000,000 from taxes imposed by section 4041(d) and taxes attributable to Leaking Underground Storage Tank Trust Fund financing rate imposed under this section and sections 4042 and 4091.” for “net revenues from the taxes imposed by this section (to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under subsection (d)(2)(B)), section 4041(d), and section 4042 (to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under section 4042(b)) are at least $500,000,000.”
 
 1986—Pub. L. 99–514 amended section generally, substituting provisions imposing a tax on the removal or sale of gasoline by the refiner, importer, blender, or compounder thereof or the terminal operator for provisions imposing a tax on gasoline sold by the producer or importer thereof, or by any producer of gasoline.
 
-Subsec. (a). Pub. L. 99–499, § 521(a)(1)(B)(i), substituted “at the rate specified in subsection (d)” for “of 9 cents a gallon” in par. (1) as amended by Pub. L. 99–514.
+Subsec. (a). Pub. L. 99–499, § 521(a)(1)(B)(i), substituted “at the rate specified in subsection (d)” for “of 9 cents a gallon” in par. (1) as amended by Pub. L. 99–514.
 
-Pub. L. 99–499, § 521(a)(1)(A)(i), amended subsec. (a), as in effect the day before Oct. 22, 1986, generally, substituting “at the rate specified in subsection (b)” for “of 9 cents a gallon”.
+Pub. L. 99–499, § 521(a)(1)(A)(i), amended subsec. (a), as in effect the day before Oct. 22, 1986, generally, substituting “at the rate specified in subsection (b)” for “of 9 cents a gallon”.
 
-Subsec. (b). Pub. L. 99–499, § 521(a)(1)(B)(i), substituted “at the rate specified in subsection (d)” for “of 9 cents a gallon” in par. (1) as amended by Pub. L. 99–514.
+Subsec. (b). Pub. L. 99–499, § 521(a)(1)(B)(i), substituted “at the rate specified in subsection (d)” for “of 9 cents a gallon” in par. (1) as amended by Pub. L. 99–514.
 
-Pub. L. 99–499, § 521(a)(1)(A)(i), amended subsec. (b), as in effect the day before Oct. 22, 1986, generally. Prior to amendment, subsec. (b), termination, read as follows: “On and after October 1, 1988, the taxes imposed by this section shall not apply.”
+Pub. L. 99–499, § 521(a)(1)(A)(i), amended subsec. (b), as in effect the day before Oct. 22, 1986, generally. Prior to amendment, subsec. (b), termination, read as follows: “On and after October 1, 1988, the taxes imposed by this section shall not apply.”
 
-Subsec. (c)(1). Pub. L. 99–499, § 521(a)(1)(B)(iii)(I), substituted “subsection (d)” for “subsection (a)” in par. (1) as amended by Pub. L. 99–514.
+Subsec. (c)(1). Pub. L. 99–499, § 521(a)(1)(B)(iii)(I), substituted “subsection (d)” for “subsection (a)” in par. (1) as amended by Pub. L. 99–514.
 
-Pub. L. 99–499, § 521(a)(1)(A)(iii), substituted “subsection (b)” for “subsection (a)” in introductory provisions as in effect the day before Oct. 22, 1986.
+Pub. L. 99–499, § 521(a)(1)(A)(iii), substituted “subsection (b)” for “subsection (a)” in introductory provisions as in effect the day before Oct. 22, 1986.
 
-Subsec. (c)(2). Pub. L. 99–499, § 521(a)(1)(B)(iii)(II), substituted “a Highway Trust Fund financing rate” for “a rate” in par. (2) as amended by Pub. L. 99–514.
+Subsec. (c)(2). Pub. L. 99–499, § 521(a)(1)(B)(iii)(II), substituted “a Highway Trust Fund financing rate” for “a rate” in par. (2) as amended by Pub. L. 99–514.
 
-Pub. L. 99–499, § 521(a)(1)(A)(iii)(II), substituted “a Highway Trust Fund financing rate” for “a rate” in par. (2) as in effect the day before Oct. 22, 1986.
+Pub. L. 99–499, § 521(a)(1)(A)(iii)(II), substituted “a Highway Trust Fund financing rate” for “a rate” in par. (2) as in effect the day before Oct. 22, 1986.
 
-Subsec. (d). Pub. L. 99–499, § 521(a)(1)(B)(ii), added subsec. (d) to this section as amended by Pub. L. 99–514, and struck out former subsec. (d), termination, which read as follows: “On and after October 1, 1988, the taxes imposed by this section shall not apply.”
+Subsec. (d). Pub. L. 99–499, § 521(a)(1)(B)(ii), added subsec. (d) to this section as amended by Pub. L. 99–514, and struck out former subsec. (d), termination, which read as follows: “On and after October 1, 1988, the taxes imposed by this section shall not apply.”
 
-Pub. L. 99–499, § 521(a)(1)(A)(i), in amending this section as in effect the day before Oct. 22, 1986, added subsec. (d).
+Pub. L. 99–499, § 521(a)(1)(A)(i), in amending this section as in effect the day before Oct. 22, 1986, added subsec. (d).
 
-Subsec. (e). Pub. L. 99–499, § 521(a)(1)(B)(ii), added subsec. (e) to this section as amended by Pub. L. 99–514.
+Subsec. (e). Pub. L. 99–499, § 521(a)(1)(B)(ii), added subsec. (e) to this section as amended by Pub. L. 99–514.
 
-1984—Subsec. (c)(1). Pub. L. 98–369, § 912(b)(A), (B), substituted “3 cents” for “4 cents” in subpar. (A), and “3⅓ cents” for “4<sup>4</sup>⁄<sub>9</sub> cents” in subpar. (B).
+1984—Subsec. (c)(1). Pub. L. 98–369, § 912(b)(A), (B), substituted “3 cents” for “4 cents” in subpar. (A), and “3⅓ cents” for “4<sup>4</sup>⁄<sub>9</sub> cents” in subpar. (B).
 
-Pub. L. 98–369, § 732(a)(1), struck out “by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” after “shall be applied” in text preceding subpar. (A), substituted “by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasohol (the gasoline in which was not taxed under subparagraph (B)), and” for “in a mixture with alcohol, if at least 10 percent of the mixture is alcohol, or” in subpar. (A), substituted “by substituting ‘4<sup>4</sup>⁄<sub>9</sub> cents’ for ‘9 cents’ in the case of the sale of any gasoline for use in producing gasohol” for “for use in producing a mixture at least 10 percent of which is alcohol” in subpar. (B) and inserted definition of “gasohol” after subpar. (B).
+Pub. L. 98–369, § 732(a)(1), struck out “by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” after “shall be applied” in text preceding subpar. (A), substituted “by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasohol (the gasoline in which was not taxed under subparagraph (B)), and” for “in a mixture with alcohol, if at least 10 percent of the mixture is alcohol, or” in subpar. (A), substituted “by substituting ‘4<sup>4</sup>⁄<sub>9</sub> cents’ for ‘9 cents’ in the case of the sale of any gasoline for use in producing gasohol” for “for use in producing a mixture at least 10 percent of which is alcohol” in subpar. (B) and inserted definition of “gasohol” after subpar. (B).
 
-Subsec. (c)(2). Pub. L. 98–369, § 912(b)(A), (C), substituted “3 cents” for “4 cents” and “5⅔ cents” for “4<sup>5</sup>⁄<sub>9</sub> cents”.
+Subsec. (c)(2). Pub. L. 98–369, § 912(b)(A), (C), substituted “3 cents” for “4 cents” and “5⅔ cents” for “4<sup>5</sup>⁄<sub>9</sub> cents”.
 
-Pub. L. 98–369, § 732(a)(2), substituted “at a rate equivalent to 4 cents a gallon” for “at a rate of 4 cents a gallon”, and “4<sup>5</sup>⁄<sub>9</sub> cents a gallon” for “5 cents a gallon”.
+Pub. L. 98–369, § 732(a)(2), substituted “at a rate equivalent to 4 cents a gallon” for “at a rate of 4 cents a gallon”, and “4<sup>5</sup>⁄<sub>9</sub> cents a gallon” for “5 cents a gallon”.
 
-Subsec. (c)(3). Pub. L. 98–369, § 912(f), substituted “coal (including peat)” for “coal”.
+Subsec. (c)(3). Pub. L. 98–369, § 912(f), substituted “coal (including peat)” for “coal”.
 
-1983—Subsec. (a). Pub. L. 97–424, § 511(a)(1), increased tax from 4 to 9 cents a gallon.
+1983—Subsec. (a). Pub. L. 97–424, § 511(a)(1), increased tax from 4 to 9 cents a gallon.
 
-Subsec. (b). Pub. L. 97–424, § 516(a)(3), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by this section shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by this section would be 1½ cents a gallon.
+Subsec. (b). Pub. L. 97–424, § 516(a)(3), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by this section shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by this section would be 1½ cents a gallon.
 
-Subsec. (c)(1). Pub. L. 97–424, § 511(d)(1)(A), substituted “subsection (a) shall be applied by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” for “no tax shall be imposed by this section on the sale of any gasoline” after “Secretary,”.
+Subsec. (c)(1). Pub. L. 97–424, § 511(d)(1)(A), substituted “subsection (a) shall be applied by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” for “no tax shall be imposed by this section on the sale of any gasoline” after “Secretary,”.
 
-Subsec. (c)(2). Pub. L. 97–424, § 511(d)(1)(B), substituted “tax was imposed under subsection (a) at the rate of 4 cents a gallon by reason of this subsection” for “tax was not imposed by reason of this subsection” after “alcohol on which”, and inserted provision that the amount of tax imposed on any sale of such gasoline by such person shall be 5 cents a gallon.
+Subsec. (c)(2). Pub. L. 97–424, § 511(d)(1)(B), substituted “tax was imposed under subsection (a) at the rate of 4 cents a gallon by reason of this subsection” for “tax was not imposed by reason of this subsection” after “alcohol on which”, and inserted provision that the amount of tax imposed on any sale of such gasoline by such person shall be 5 cents a gallon.
 
-1980—Subsec. (c)(2). Pub. L. 96–223, § 232(d)(3), inserted “(or with respect to which a credit or payment was allowed or made by reason of section 6427(f)(1))” after “this subsection”.
+1980—Subsec. (c)(2). Pub. L. 96–223, § 232(d)(3), inserted “(or with respect to which a credit or payment was allowed or made by reason of section 6427(f)(1))” after “this subsection”.
 
-Subsec. (c)(3). Pub. L. 96–223, § 232(b)(3)(A), inserted provision that “alcohol” does not include alcohol with a proof of less than 190 (determined without regard to any added denaturants).
+Subsec. (c)(3). Pub. L. 96–223, § 232(b)(3)(A), inserted provision that “alcohol” does not include alcohol with a proof of less than 190 (determined without regard to any added denaturants).
 
-Subsec. (c)(4). Pub. L. 96–223, § 232(a)(1), added par. (4).
+Subsec. (c)(4). Pub. L. 96–223, § 232(a)(1), added par. (4).
 
 1978—Subsec. (b). Pub. L. 95–599 substituted “1984” for “1979”.
 
@@ -1008,11 +1008,11 @@ Subsec. (c). Pub. L. 95–618 added subsec. (c).
 
 1970—Subsec. (b). Pub. L. 91–605 substituted “1977” for “1972”.
 
-1961—Subsec. (a). Pub. L. 87–61, § 201(b), increased tax from 3 to 4 cents a gallon.
+1961—Subsec. (a). Pub. L. 87–61, § 201(b), increased tax from 3 to 4 cents a gallon.
 
-Subsec. (b). Pub. L. 87–61, § 201(c), substituted “October 1, 1972” for “July 1, 1972.”
+Subsec. (b). Pub. L. 87–61, § 201(c), substituted “October 1, 1972” for “July 1, 1972.”
 
-Subsec. (c). Pub. L. 87–61, § 201(d), repealed subsec. (c) which authorized a temporary increase in tax for the period October 1, 1959, to July 1, 1961.
+Subsec. (c). Pub. L. 87–61, § 201(d), repealed subsec. (c) which authorized a temporary increase in tax for the period October 1, 1959, to July 1, 1961.
 
 1959—Subsec. (c). Pub. L. 86–342 added subsec. (c).
 
@@ -1044,71 +1044,71 @@ Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of 
 
 Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 4041 of this title.
 
-Pub. L. 112–95, title XI, § 1101(c), Feb. 14, 2012, 126 Stat. 148, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on February 18, 2012.”
+Pub. L. 112–95, title XI, § 1101(c), Feb. 14, 2012, 126 Stat. 148, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on February 18, 2012.”
 
-Pub. L. 112–91, § 2(c), Jan. 31, 2012, 126 Stat. 3, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on February 1, 2012.”
+Pub. L. 112–91, § 2(c), Jan. 31, 2012, 126 Stat. 3, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on February 1, 2012.”
 
 **Effective Date of 2011 Amendment**
 
 Amendment by section 142(a)(1)(C), (2)(D) of Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 4041 of this title.
 
-Pub. L. 112–30, title II, § 202(c), Sept. 16, 2011, 125 Stat. 357, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on September 17, 2011.”
+Pub. L. 112–30, title II, § 202(c), Sept. 16, 2011, 125 Stat. 357, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on September 17, 2011.”
 
-Pub. L. 112–27, § 2(c), Aug. 5, 2011, 125 Stat. 270, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on July 23, 2011.”
+Pub. L. 112–27, § 2(c), Aug. 5, 2011, 125 Stat. 270, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on July 23, 2011.”
 
-Pub. L. 112–21, § 2(c), June 29, 2011, 125 Stat. 233, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on July 1, 2011.”
+Pub. L. 112–21, § 2(c), June 29, 2011, 125 Stat. 233, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on July 1, 2011.”
 
-Pub. L. 112–16, § 2(c), May 31, 2011, 125 Stat. 218, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on June 1, 2011.”
+Pub. L. 112–16, § 2(c), May 31, 2011, 125 Stat. 218, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on June 1, 2011.”
 
-Pub. L. 112–7, § 2(c), Mar. 31, 2011, 125 Stat. 31, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on April 1, 2011.”
+Pub. L. 112–7, § 2(c), Mar. 31, 2011, 125 Stat. 31, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on April 1, 2011.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–329, § 2(c), Dec. 22, 2010, 124 Stat. 3566, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on January 1, 2011.”
+Pub. L. 111–329, § 2(c), Dec. 22, 2010, 124 Stat. 3566, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on January 1, 2011.”
 
-Pub. L. 111–249, § 2(c), Sept. 30, 2010, 124 Stat. 2627, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on October 1, 2010.”
+Pub. L. 111–249, § 2(c), Sept. 30, 2010, 124 Stat. 2627, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on October 1, 2010.”
 
-Pub. L. 111–216, title I, § 101(c), Aug. 1, 2010, 124 Stat. 2349, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on August 2, 2010.”
+Pub. L. 111–216, title I, § 101(c), Aug. 1, 2010, 124 Stat. 2349, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on August 2, 2010.”
 
-Pub. L. 111–197, § 2(c), July 2, 2010, 124 Stat. 1353, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on July 4, 2010.”
+Pub. L. 111–197, § 2(c), July 2, 2010, 124 Stat. 1353, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on July 4, 2010.”
 
-Pub. L. 111–161, § 2(c), Apr. 30, 2010, 124 Stat. 1126, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on May 1, 2010.”
+Pub. L. 111–161, § 2(c), Apr. 30, 2010, 124 Stat. 1126, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on May 1, 2010.”
 
-Pub. L. 111–153, § 2(c), Mar. 31, 2010, 124 Stat. 1084, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on April 1, 2010.”
+Pub. L. 111–153, § 2(c), Mar. 31, 2010, 124 Stat. 1084, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on April 1, 2010.”
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–116, § 2(c), Dec. 16, 2009, 123 Stat. 3031, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on January 1, 2010.”
+Pub. L. 111–116, § 2(c), Dec. 16, 2009, 123 Stat. 3031, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on January 1, 2010.”
 
-Pub. L. 111–69, § 2(c), Oct. 1, 2009, 123 Stat. 2054, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on October 1, 2009.”
+Pub. L. 111–69, § 2(c), Oct. 1, 2009, 123 Stat. 2054, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on October 1, 2009.”
 
-Pub. L. 111–12, § 2(c), Mar. 30, 2009, 123 Stat. 1457, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on April 1, 2009.”
+Pub. L. 111–12, § 2(c), Mar. 30, 2009, 123 Stat. 1457, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on April 1, 2009.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–330, § 2(c), Sept. 30, 2008, 122 Stat. 3717, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on October 1, 2008.”
+Pub. L. 110–330, § 2(c), Sept. 30, 2008, 122 Stat. 3717, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on October 1, 2008.”
 
-Pub. L. 110–253, § 2(c), June 30, 2008, 122 Stat. 2417, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on July 1, 2008.”
+Pub. L. 110–253, § 2(c), June 30, 2008, 122 Stat. 2417, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on July 1, 2008.”
 
-Pub. L. 110–190, § 2(c), Feb. 28, 2008, 122 Stat. 643, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on March 1, 2008.”
+Pub. L. 110–190, § 2(c), Feb. 28, 2008, 122 Stat. 643, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on March 1, 2008.”
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. K, title I, § 116(d), Dec. 26, 2007, 121 Stat. 2382, provided that: “The amendments made by this section [amending this section and sections 4261, 4271, and 9502 of this title] shall take effect on October 1, 2007.”
+Pub. L. 110–161, div. K, title I, § 116(d), Dec. 26, 2007, 121 Stat. 2382, provided that: “The amendments made by this section [amending this section and sections 4261, 4271, and 9502 of this title] shall take effect on October 1, 2007.”
 
 **Effective Date of 2005 Amendments**
 
-Pub. L. 109–59, title XI, § 11151(f)(1), Aug. 10, 2005, 119 Stat. 1969, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 6421 and 6427 of this title] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 [Pub. L. 108–357] to which they relate.”
+Pub. L. 109–59, title XI, § 11151(f)(1), Aug. 10, 2005, 119 Stat. 1969, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 6421 and 6427 of this title] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 [Pub. L. 108–357] to which they relate.”
 
 Amendment by section 11161(a)(1)–(4)(D) of Pub. L. 109–59 applicable to fuels or liquids removed, entered, or sold after Sept. 30, 2005, see section 11161(e) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
-Pub. L. 109–59, title XI, § 11166(b)(2), Aug. 10, 2005, 119 Stat. 1977, provided that: “The amendment made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Aug. 10, 2005].”
+Pub. L. 109–59, title XI, § 11166(b)(2), Aug. 10, 2005, 119 Stat. 1977, provided that: “The amendment made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Aug. 10, 2005].”
 
-Pub. L. 109–58, title XIII, § 1343(c), Aug. 8, 2005, 119 Stat. 1052, provided that: “The amendments made by this section [amending this section and section 6427 of this title] shall take effect on January 1, 2006.”
+Pub. L. 109–58, title XIII, § 1343(c), Aug. 8, 2005, 119 Stat. 1052, provided that: “The amendments made by this section [amending this section and section 6427 of this title] shall take effect on January 1, 2006.”
 
 Amendment by section 1362(a) of Pub. L. 109–58 effective Oct. 1, 2005, see section 1362(d)(1) of Pub. L. 109–58, set out as a note under section 4041 of this title.
 
-Pub. L. 109–6, § 1(b), Mar. 31, 2005, 119 Stat. 20, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Mar. 31, 2005].”
+Pub. L. 109–6, § 1(b), Mar. 31, 2005, 119 Stat. 20, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Mar. 31, 2005].”
 
 **Effective Date of 2004 Amendment**
 
@@ -1116,7 +1116,7 @@ Amendment by section 301(c)(7) of Pub. L. 108–357 applicable to fuel sold or u
 
 Amendment by section 853(a)(1)–(3)(A), (4) of Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
 
-Pub. L. 108–357, title VIII, § 860(b), Oct. 22, 2004, 118 Stat. 1618, provided that: “The amendments made by this section [amending this section] shall take effect on March 1, 2005.”
+Pub. L. 108–357, title VIII, § 860(b), Oct. 22, 2004, 118 Stat. 1618, provided that: “The amendments made by this section [amending this section] shall take effect on March 1, 2005.”
 
 **Effective Date of 1998 Amendment**
 
@@ -1142,19 +1142,19 @@ Amendment by section 13242(a) of Pub. L. 103–66 effective Jan. 1, 1994, see se
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–486, title XIX, § 1920(c), Oct. 24, 1992, 106 Stat. 3027, provided that: “The amendments made by this section [amending this section] shall apply to gasoline removed (as defined in [former] section 4082 of the Internal Revenue Code of 1986) or entered after December 31, 1992.”
+Pub. L. 102–486, title XIX, § 1920(c), Oct. 24, 1992, 106 Stat. 3027, provided that: “The amendments made by this section [amending this section] shall apply to gasoline removed (as defined in [former] section 4082 of the Internal Revenue Code of 1986) or entered after December 31, 1992.”
 
 **Effective Date of 1990 Amendment**
 
 Amendment by section 11211(a)(1)–(3), (5)(A)–(C) of Pub. L. 101–508 applicable, except as otherwise provided, to gasoline removed (as defined in [former] section 4082 of this title) after Nov. 30, 1990, see section 11211(a)(6) of Pub. L. 101–508, set out as a note under section 4041 of this title.
 
-Pub. L. 101–508, title XI, § 11212(f), Nov. 5, 1990, 104 Stat. 1388–432, provided that:
+Pub. L. 101–508, title XI, § 11212(f), Nov. 5, 1990, 104 Stat. 1388–432, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting section 4103 of this title and amending this section and sections 4093, 4101, 4222, 6103, 6416, and 6724 of this title] shall take effect on July 1, 1991.
 
 > **“(2) Registration, etc.—** The amendments made by subsections (b), (c), and (e) (other than paragraph (2) thereof) [enacting section 4103 of this title and amending sections 4093, 4101, 4222, 6103, and 6724 of this title] shall take effect on December 1, 1990.”
 
-Pub. L. 101–508, title XI, § 11215(b), Nov. 5, 1990, 104 Stat. 1388–436, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on December 1, 1990.”
+Pub. L. 101–508, title XI, § 11215(b), Nov. 5, 1990, 104 Stat. 1388–436, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on December 1, 1990.”
 
 **Effective Date of 1988 Amendment**
 
@@ -1162,7 +1162,7 @@ Amendment by section 1017(c)(1), (14) of Pub. L. 100–647 effective, except as 
 
 Amendment by section 2001(d)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, Pub. L. 99–499, title V, to which it relates, see section 2001(e) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Pub. L. 100–647, title VI, § 6104(b), Nov. 10, 1988, 102 Stat. 3711, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 1989.”
+Pub. L. 100–647, title VI, § 6104(b), Nov. 10, 1988, 102 Stat. 3711, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 1989.”
 
 **Effective Date of 1987 Amendment**
 
@@ -1170,7 +1170,7 @@ Amendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see sect
 
 **Effective Date of 1986 Amendments**
 
-Pub. L. 99–514, title XVII, § 1703(h), Oct. 22, 1986, 100 Stat. 2779, provided that: “The amendments made by this section [amending this section and sections 34, 4082, 4083, 4101, 4221, 6421, 6427, 7210, 7603 to 7605, 7609, and 7610 of this title and omitting section 4084 of this title] shall apply to gasoline removed (as defined in section 4082 of the Internal Revenue Code of 1986, as amended by this section) after December 31, 1987.”
+Pub. L. 99–514, title XVII, § 1703(h), Oct. 22, 1986, 100 Stat. 2779, provided that: “The amendments made by this section [amending this section and sections 34, 4082, 4083, 4101, 4221, 6421, 6427, 7210, 7603 to 7605, 7609, and 7610 of this title and omitting section 4084 of this title] shall apply to gasoline removed (as defined in section 4082 of the Internal Revenue Code of 1986, as amended by this section) after December 31, 1987.”
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub. L. 99–499, set out as a note under section 4041 of this title.
 
@@ -1190,7 +1190,7 @@ Amendment by section 232(b)(3)(A) of Pub. L. 96–223 applicable to sales or use
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–618, title II, § 221(a)(2), Nov. 9, 1978, 92 Stat. 3185, as amended by Pub. L. 96–223, title II, § 232(a)(3), Apr. 2, 1980, 94 Stat. 273, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to sales after December 31, 1978.”
+Pub. L. 95–618, title II, § 221(a)(2), Nov. 9, 1978, 92 Stat. 3185, as amended by Pub. L. 96–223, title II, § 232(a)(3), Apr. 2, 1980, 94 Stat. 273, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to sales after December 31, 1978.”
 
 **Effective Date of 1961 Amendment**
 
@@ -1202,7 +1202,7 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
 **List of Airports With Secured Terminals**
 
-Pub. L. 108–357, title VIII, § 853(a)(3)(B), Oct. 22, 2004, 118 Stat. 1610, required the Secretary of the Treasury, no later than Dec. 15, 2004, to publish and maintain a list of airports with a secured area in which a terminal is located within the meaning of this section.
+Pub. L. 108–357, title VIII, § 853(a)(3)(B), Oct. 22, 2004, 118 Stat. 1610, required the Secretary of the Treasury, no later than Dec. 15, 2004, to publish and maintain a list of airports with a secured area in which a terminal is located within the meaning of this section.
 
 **Delayed Deposits of Highway Motor Fuel Tax Revenues**
 
@@ -1214,7 +1214,7 @@ Due date for deposit of taxes imposed by subsec. (a)(2)(A)(ii) of this section w
 
 **Motor Fuel Tax Enforcement Advisory Commission**
 
-Pub. L. 109–59, title XI, § 11141, Aug. 10, 2005, 119 Stat. 1959, provided that:
+Pub. L. 109–59, title XI, § 11141, Aug. 10, 2005, 119 Stat. 1959, provided that:
 
 > **“(a) Establishment.—** There is established a Motor Fuel Tax Enforcement Advisory Commission (in this section referred to as the ‘Commission’).
 
@@ -1276,7 +1276,7 @@ Pub. L. 109–59, title XI, § 11141, Aug. 10, 2005, 119 Stat. 1959, provided 
 
 **Floor Stocks Taxes**
 
-Pub. L. 108–357, title VIII, § 853(f), Oct. 22, 2004, 118 Stat. 1614, provided that:
+Pub. L. 108–357, title VIII, § 853(f), Oct. 22, 2004, 118 Stat. 1614, provided that:
 
 > **“(1) In general.—** There is hereby imposed on aviation-grade kerosene held on January 1, 2005, by any person a tax equal to—
 
@@ -1306,7 +1306,7 @@ Pub. L. 108–357, title VIII, § 853(f), Oct. 22, 2004, 118 Stat. 1614, provi
 
 > **“(6) Other laws applicable.—** All provisions of law, including penalties, applicable with respect to the tax imposed by section 4081 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stock tax imposed by paragraph (1) to the same extent as if such tax were imposed by such section.”
 
-Pub. L. 105–34, title X, § 1032(g), Aug. 5, 1997, 111 Stat. 936, provided that:
+Pub. L. 105–34, title X, § 1032(g), Aug. 5, 1997, 111 Stat. 936, provided that:
 
 > **“(1) Imposition of tax.—** In the case of kerosene which is held on July 1, 1998, by any person, there is hereby imposed a floor stocks tax of 24.4 cents per gallon.
 
@@ -1348,7 +1348,7 @@ Pub. L. 105–34, title X, § 1032(g), Aug. 5, 1997, 111 Stat. 936, provided t
 
 > **“(8) Other laws applicable.—** All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4081 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stock taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 4081.”
 
-Pub. L. 105–2, § 2(d), Feb. 28, 1997, 111 Stat. 6, provided that:
+Pub. L. 105–2, § 2(d), Feb. 28, 1997, 111 Stat. 6, provided that:
 
 > **“(1) Imposition of tax.—** In the case of any aviation liquid on which tax was imposed under section 4081 or 4091 of the Internal Revenue Code of 1986 before the tax effective date and which is held on such date by any person, there is hereby imposed a floor stocks tax of—
 
@@ -1402,7 +1402,7 @@ Pub. L. 105–2, § 2(d), Feb. 28, 1997, 111 Stat. 6, provided that:
 
 > **“(6) Other laws applicable.—** All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4081 or 4091 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 4081 or 4091, as the case may be.”
 
-Pub. L. 103–66, title XIII, § 13241(h), Aug. 10, 1993, 107 Stat. 512, provided that:
+Pub. L. 103–66, title XIII, § 13241(h), Aug. 10, 1993, 107 Stat. 512, provided that:
 
 > **“(1) Imposition of tax.—** In the case of gasoline, diesel fuel, and aviation fuel on which tax was imposed under section 4081 or 4091 of the Internal Revenue Code of 1986 before October 1, 1993, and which is held on such date by any person, there is hereby imposed a floor stocks tax of 4.3 cents per gallon on such gasoline, diesel fuel, and aviation fuel.
 
@@ -1454,7 +1454,7 @@ Pub. L. 103–66, title XIII, § 13241(h), Aug. 10, 1993, 107 Stat. 512, provi
 
 > **“(7) Other law applicable.—** All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4081 of such Code in the case of gasoline and section 4091 of such Code in the case of diesel fuel and aviation fuel shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stock taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 4081 or 4091.”
 
-Pub. L. 103–66, title XIII, § 13243, Aug. 10, 1993, 107 Stat. 529, provided that:
+Pub. L. 103–66, title XIII, § 13243, Aug. 10, 1993, 107 Stat. 529, provided that:
 
 > **“(a) In General.—** There is hereby imposed a floor stocks tax on diesel fuel held by any person on January 1, 1994, if—
 
@@ -1486,17 +1486,17 @@ Pub. L. 103–66, title XIII, § 13243, Aug. 10, 1993, 107 Stat. 529, provided
 
 > **“(f) Other Laws Applicable.—** All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4081 of such Code shall, insofar as applicable and not inconsistent with the provisions of this section, apply with respect to the floor stock taxes imposed by this section to the same extent as if such taxes were imposed by such section 4081.”
 
-Pub. L. 101–508, title XI, § 11211(j), Nov. 5, 1990, 104 Stat. 1388–428, imposed a floor stocks tax on (A) gasoline and diesel fuel on which tax was imposed under section 4081 or 4091 of this title before Dec. 1, 1990, and which was held on such date by any person, or (B) diesel fuel on which no tax was imposed under section 4091 of this title at the Highway Trust Fund financing rate before Dec. 1, 1990, and which was held on such date by any person for use as fuel in a train.
+Pub. L. 101–508, title XI, § 11211(j), Nov. 5, 1990, 104 Stat. 1388–428, imposed a floor stocks tax on (A) gasoline and diesel fuel on which tax was imposed under section 4081 or 4091 of this title before Dec. 1, 1990, and which was held on such date by any person, or (B) diesel fuel on which no tax was imposed under section 4091 of this title at the Highway Trust Fund financing rate before Dec. 1, 1990, and which was held on such date by any person for use as fuel in a train.
 
-Pub. L. 99–514, title XVII, § 1703(f), Oct. 22, 1986, 100 Stat. 2778, as amended by Pub. L. 100–647, title I, § 1017(c)(13), title II, § 2001(d)(4), Nov. 10, 1988, 102 Stat. 3577, 3595, imposed a floor stocks tax at the rate of 9.1 cents per gallon on gasoline subject to tax under section 4081 of this title which, on Jan. 1, 1988, was held by a dealer for sale, and with respect to which no tax had been imposed under such section.
+Pub. L. 99–514, title XVII, § 1703(f), Oct. 22, 1986, 100 Stat. 2778, as amended by Pub. L. 100–647, title I, § 1017(c)(13), title II, § 2001(d)(4), Nov. 10, 1988, 102 Stat. 3577, 3595, imposed a floor stocks tax at the rate of 9.1 cents per gallon on gasoline subject to tax under section 4081 of this title which, on Jan. 1, 1988, was held by a dealer for sale, and with respect to which no tax had been imposed under such section.
 
 **Study of Evasion of Gasoline Tax**
 
-Pub. L. 99–514, title XVII, § 1703(g), Oct. 22, 1986, 100 Stat. 2778, directed Secretary of the Treasury or his delegate to conduct a study of incidence of evasion of gasoline tax, with report of the study to be submitted, not later than Dec. 31, 1986, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
+Pub. L. 99–514, title XVII, § 1703(g), Oct. 22, 1986, 100 Stat. 2778, directed Secretary of the Treasury or his delegate to conduct a study of incidence of evasion of gasoline tax, with report of the study to be submitted, not later than Dec. 31, 1986, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
 
 **Extension of Payment Due Date for Certain Fuel Taxes**
 
-Pub. L. 97–424, title V, § 518, Jan. 6, 1983, 96 Stat. 2184, as amended by Pub. L. 98–369, div. A, title VII, § 734(i), July 18, 1984, 98 Stat. 980; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–424, title V, § 518, Jan. 6, 1983, 96 Stat. 2184, as amended by Pub. L. 98–369, div. A, title VII, § 734(i), July 18, 1984, 98 Stat. 980; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) 14-Day Extension.—** The Secretary shall prescribe regulations which permit any qualified person whose liability for tax under section 4081 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] is payable with respect to semi-monthly periods to pay such tax on or before the day which is 14 days after the close of such semi-monthly period if such payment is made by wire transfer to, except as provided in regulations prescribed by the Secretary of the Treasury or his delegate, any Federal Reserve Bank.
 
@@ -1514,13 +1514,13 @@ Pub. L. 97–424, title V, § 518, Jan. 6, 1983, 96 Stat. 2184, as amended by 
 
 **Study by Secretary of the Treasury; Report to Congress**
 
-Study respecting portion of taxes imposed by this section is attributable to fuel used in recreational motorboats and report to Congress no later than 2 years after Oct. 14, 1980, see Pub. L. 96–451, title II, § 204, Oct. 14, 1980, 94 Stat. 1988, set out as a note under section 4041 of this title.
+Study respecting portion of taxes imposed by this section is attributable to fuel used in recreational motorboats and report to Congress no later than 2 years after Oct. 14, 1980, see Pub. L. 96–451, title II, § 204, Oct. 14, 1980, 94 Stat. 1988, set out as a note under section 4041 of this title.
 
 **Expedition of Certain Ethanol Production Applications**
 
-Pub. L. 95–618, title II, § 221(d), Nov. 9, 1978, 92 Stat. 3186, directed Secretary of the Treasury to expedite applications submitted by persons with respect to the production of ethanol for use in producing gasoline and that the Secretary develop expeditious procedures for processing such applications, prior to repeal by Pub. L. 96–223, § 232(e)(2)(E), Apr. 2, 1980, 94 Stat. 280.
+Pub. L. 95–618, title II, § 221(d), Nov. 9, 1978, 92 Stat. 3186, directed Secretary of the Treasury to expedite applications submitted by persons with respect to the production of ethanol for use in producing gasoline and that the Secretary develop expeditious procedures for processing such applications, prior to repeal by Pub. L. 96–223, § 232(e)(2)(E), Apr. 2, 1980, 94 Stat. 280.
 
-##### § 4082. Exemptions for diesel fuel and kerosene
+##### § 4082. Exemptions for diesel fuel and kerosene
 
 **(a) In general** The tax imposed by section 4081 shall not apply to diesel fuel and kerosene—
 
@@ -1594,7 +1594,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 For tax on train and certain bus uses of fuel purchased tax-free, see subsections (a)(1) and (d)(3) of section 4041.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, § 201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, § 802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, § 205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§ 733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, § 1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, § 1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, § 6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, § 241(a)(2)(B), title VIII, §§ 851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, § 1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, § 11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, § 420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§ 6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487; Pub. L. 112–95, title XI, § 1103(a)(2), Feb. 14, 2012, 126 Stat. 150.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, § 201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, § 802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, § 205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§ 733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, § 1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, § 1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, § 6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, § 241(a)(2)(B), title VIII, §§ 851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, § 1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, § 11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, § 420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§ 6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487; Pub. L. 112–95, title XI, § 1103(a)(2), Feb. 14, 2012, 126 Stat. 150.)
 
 **Editorial Notes**
 
@@ -1608,9 +1608,9 @@ The date of the enactment of this subsection, referred to in subsec. (c)(1), is 
 
 2012—Subsec. (e). Pub. L. 112–95 inserted “(other than kerosene with respect to which tax is imposed under section 4043)” after “In the case of kerosene” in introductory provisions.
 
-2007—Subsec. (a). Pub. L. 110–172, § 6(d)(2)(B)(i), struck out “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
+2007—Subsec. (a). Pub. L. 110–172, § 6(d)(2)(B)(i), struck out “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
 
-Subsec. (b). Pub. L. 110–172, § 11(a)(28), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘nontaxable use’ means—
+Subsec. (b). Pub. L. 110–172, § 11(a)(28), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘nontaxable use’ means—
 
 “(1) any use which is exempt from the tax imposed by section 4041(a)(1) other than by reason of a prior imposition of tax,
 
@@ -1620,53 +1620,53 @@ Subsec. (b). Pub. L. 110–172, § 11(a)(28), reenacted heading without change
 
 The term ‘nontaxable use’ does not include the use of kerosene in an aircraft and such term shall not include any use described in section 6421(e)(2)(C).” See 2004 Amendment notes below.
 
-Subsec. (e). Pub. L. 110–172, § 6(d)(2)(C)(ii), designated last sentence as concluding provisions.
+Subsec. (e). Pub. L. 110–172, § 6(d)(2)(C)(ii), designated last sentence as concluding provisions.
 
-Pub. L. 110–172, § 6(d)(2)(C)(i), substituted “an aircraft—” and pars. (1) and (2) for “an aircraft, the rate of tax under section 4081(a)(2)(A)(iii) shall be zero.”
+Pub. L. 110–172, § 6(d)(2)(C)(i), substituted “an aircraft—” and pars. (1) and (2) for “an aircraft, the rate of tax under section 4081(a)(2)(A)(iii) shall be zero.”
 
-Subsecs. (f) to (h). Pub. L. 110–172, § 6(d)(2)(B)(ii), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+Subsecs. (f) to (h). Pub. L. 110–172, § 6(d)(2)(B)(ii), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 2006—Subsec. (d)(2)(B). Pub. L. 109–432 substituted “6427(*l*)(5)(B)” for “6427(*l*)(6)(B)”.
 
 2005—Subsec. (a). Pub. L. 109–58 inserted “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
 
-Subsec. (b). Pub. L. 109–59, § 11161(a)(4)(A), struck out “aviation-grade” before “kerosene” in concluding provisions.
+Subsec. (b). Pub. L. 109–59, § 11161(a)(4)(A), struck out “aviation-grade” before “kerosene” in concluding provisions.
 
-Subsec. (d)(2)(B). Pub. L. 109–59, § 11161(b)(3)(C), substituted “section 6427(*l*)(6)(B)” for “section 6427(*l*)(5)(B)”.
+Subsec. (d)(2)(B). Pub. L. 109–59, § 11161(b)(3)(C), substituted “section 6427(*l*)(6)(B)” for “section 6427(*l*)(5)(B)”.
 
-Subsec. (e). Pub. L. 109–59, § 11161(a)(4)(E), in heading substituted “Kerosene removed into an aircraft” for “Aviation-grade kerosene” and in text struck out “aviation-grade” before “kerosene”, substituted “section 4081(a)(2)(A)(iii)” for “section 4081(a)(2)(A)(iv)”, and inserted at end “For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.”
+Subsec. (e). Pub. L. 109–59, § 11161(a)(4)(E), in heading substituted “Kerosene removed into an aircraft” for “Aviation-grade kerosene” and in text struck out “aviation-grade” before “kerosene”, substituted “section 4081(a)(2)(A)(iii)” for “section 4081(a)(2)(A)(iv)”, and inserted at end “For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.”
 
-2004—Subsec. (a)(2). Pub. L. 108–357, § 854(a), inserted “by mechanical injection” after “indelibly dyed”.
+2004—Subsec. (a)(2). Pub. L. 108–357, § 854(a), inserted “by mechanical injection” after “indelibly dyed”.
 
-Subsec. (b). Pub. L. 108–357, § 853(a)(5)(B)(i), inserted at end “The term ‘nontaxable use’ does not include the use of aviation-grade kerosene in an aircraft.”
+Subsec. (b). Pub. L. 108–357, § 853(a)(5)(B)(i), inserted at end “The term ‘nontaxable use’ does not include the use of aviation-grade kerosene in an aircraft.”
 
-Pub. L. 108–357, § 851(d)(2), which directed amendment of subsec. (b) by inserting “and such term shall not include any use described in section 6421(e)(2)(C)” before period at end, was executed by making the insertion after amendment by Pub. L. 108–357, § 853(a)(5)(B)(i), to reflect the probable intent of Congress. See above.
+Pub. L. 108–357, § 851(d)(2), which directed amendment of subsec. (b) by inserting “and such term shall not include any use described in section 6421(e)(2)(C)” before period at end, was executed by making the insertion after amendment by Pub. L. 108–357, § 853(a)(5)(B)(i), to reflect the probable intent of Congress. See above.
 
-Subsec. (b)(3). Pub. L. 108–357, § 857(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “any use described in section 6427(b)(1) (after the application of section 6427(b)(3)).”
+Subsec. (b)(3). Pub. L. 108–357, § 857(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “any use described in section 6427(b)(1) (after the application of section 6427(b)(3)).”
 
-Subsec. (d). Pub. L. 108–357, § 853(a)(5)(B)(ii), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out heading and text of former par. (1). Text read as follows: “Subsection (a)(2) shall not apply to aviation-grade kerosene (as determined under regulations prescribed by the Secretary) which the Secretary determines is destined for use as a fuel in an aircraft.”
+Subsec. (d). Pub. L. 108–357, § 853(a)(5)(B)(ii), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out heading and text of former par. (1). Text read as follows: “Subsection (a)(2) shall not apply to aviation-grade kerosene (as determined under regulations prescribed by the Secretary) which the Secretary determines is destined for use as a fuel in an aircraft.”
 
-Subsec. (e). Pub. L. 108–357, § 853(a)(5)(A), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 108–357, § 853(a)(5)(A), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 108–357, § 853(a)(5)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 108–357, § 853(a)(5)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 108–357, § 853(a)(5)(A), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 108–357, § 853(a)(5)(A), redesignated subsec. (f) as (g).
 
-Pub. L. 108–357, § 241(a)(2)(B), which directed substitution of “subsections (a)(1) and (d)(3) of section 4041” for “section 4041(a)(1)” in subsec. (f), was executed by making the substitution in subsec. (g) to reflect the probable intent of Congress and the amendment by Pub. L. 108–357, § 853(a)(5)(A). See Amendment note above and Effective Date of 2004 Amendment notes below.
+Pub. L. 108–357, § 241(a)(2)(B), which directed substitution of “subsections (a)(1) and (d)(3) of section 4041” for “section 4041(a)(1)” in subsec. (f), was executed by making the substitution in subsec. (g) to reflect the probable intent of Congress and the amendment by Pub. L. 108–357, § 853(a)(5)(A). See Amendment note above and Effective Date of 2004 Amendment notes below.
 
-1998—Subsec. (d)(1). Pub. L. 105–206, § 6010(h)(3), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Subsection (a)(2) shall not apply to a removal, entry, or sale of aviation-grade kerosene (as determined under regulations prescribed by the Secretary) if the person receiving the kerosene is registered under section 4101 with respect to the tax imposed by section 4091.”
+1998—Subsec. (d)(1). Pub. L. 105–206, § 6010(h)(3), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Subsection (a)(2) shall not apply to a removal, entry, or sale of aviation-grade kerosene (as determined under regulations prescribed by the Secretary) if the person receiving the kerosene is registered under section 4101 with respect to the tax imposed by section 4091.”
 
-Subsec. (d)(3). Pub. L. 105–206, § 6010(h)(4), substituted “kerosene received by” for “a removal, entry, or sale of kerosene to” in introductory provisions.
+Subsec. (d)(3). Pub. L. 105–206, § 6010(h)(4), substituted “kerosene received by” for “a removal, entry, or sale of kerosene to” in introductory provisions.
 
-1997—Pub. L. 105–34, § 1032(e)(3)(A), inserted “and kerosene” after “diesel fuel” in section catchline.
+1997—Pub. L. 105–34, § 1032(e)(3)(A), inserted “and kerosene” after “diesel fuel” in section catchline.
 
-Subsecs. (a), (c). Pub. L. 105–34, § 1032(c)(1), substituted “diesel fuel and kerosene” for “diesel fuel” in introductory provisions.
+Subsecs. (a), (c). Pub. L. 105–34, § 1032(c)(1), substituted “diesel fuel and kerosene” for “diesel fuel” in introductory provisions.
 
-Subsec. (d). Pub. L. 105–34, § 1032(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 105–34, § 1032(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 105–34, § 1032(c)(1), substituted “diesel fuel and kerosene” for “diesel fuel”.
+Pub. L. 105–34, § 1032(c)(1), substituted “diesel fuel and kerosene” for “diesel fuel”.
 
-Subsecs. (e), (f). Pub. L. 105–34, § 1032(c)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (e), (f). Pub. L. 105–34, § 1032(c)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 1996—Subsecs. (c) to (e). Pub. L. 104–188 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -1688,19 +1688,19 @@ Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally, substituting provis
 
 Subsecs. (c) to (e). Pub. L. 99–514, in amending section generally, struck out subsecs. (c) to (e) which defined “sales”, “wholesale distributor”, and “producer”, respectively.
 
-1984—Subsec. (d). Pub. L. 98–369, § 733(a), in amending subsec. (d) generally, redesignated existing provisions of par. (1) as subpar. (A) and added subpar. (B), and in par. (2) inserted “but only if such person” before “elects”.
+1984—Subsec. (d). Pub. L. 98–369, § 733(a), in amending subsec. (d) generally, redesignated existing provisions of par. (1) as subpar. (A) and added subpar. (B), and in par. (2) inserted “but only if such person” before “elects”.
 
-Subsec. (e). Pub. L. 98–369, § 734(c)(1), added subpar. (e).
+Subsec. (e). Pub. L. 98–369, § 734(c)(1), added subpar. (e).
 
 1970—Subsec. (c). Pub. L. 91–258 substituted “special fuels referred to in section 4041” for “special motor fuels referred to in section 4041(b)”.
 
-1965—Subsec. (b). Pub. L. 89–44, § 802(a)(1), substituted “gasoline which are suitable for use as a motor fuel” for “gasoline (including casinghead and natural gasoline”.
+1965—Subsec. (b). Pub. L. 89–44, § 802(a)(1), substituted “gasoline which are suitable for use as a motor fuel” for “gasoline (including casinghead and natural gasoline”.
 
-Subsec. (d)(2). Pub. L. 89–44, § 802(b)(1), struck out “and give a bond” after “elects to register”.
+Subsec. (d)(2). Pub. L. 89–44, § 802(b)(1), struck out “and give a bond” after “elects to register”.
 
-1959—Subsec. (a). Pub. L. 86–342, § 201(e)(1), inserted reference to wholesale distributor.
+1959—Subsec. (a). Pub. L. 86–342, § 201(e)(1), inserted reference to wholesale distributor.
 
-Subsec. (d). Pub. L. 86–342, § 201(e)(2), added subsec. (d).
+Subsec. (d). Pub. L. 86–342, § 201(e)(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1726,13 +1726,13 @@ Amendment by Pub. L. 109–58 effective Oct. 1, 2005, and applicable to fuel ent
 
 Amendment by section 241(a)(2)(B) of Pub. L. 108–357 effective Jan. 1, 2005, see section 241(c) of Pub. L. 108–357, set out as a note under section 4041 of this title.
 
-Pub. L. 108–357, title VIII, § 851(d)(4), Oct. 22, 2004, 118 Stat. 1609, provided that: “The amendments made by this subsection [amending this section and sections 6421 and 6427 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 851(d)(4), Oct. 22, 2004, 118 Stat. 1609, provided that: “The amendments made by this subsection [amending this section and sections 6421 and 6427 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].”
 
 Amendment by section 853(a)(5) of Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
 
-Pub. L. 108–357, title VIII, § 854(d), Oct. 22, 2004, 118 Stat. 1616, provided that: “The amendments made by subsections (a) and (c) [enacting section 6715A of this title and amending this section] shall take effect on the 180th day after the date on which the Secretary issues the regulations described in subsection (b) [set out as a note below] [Such regulations were issued effective Oct. 24, 2005. See 70 F.R. 21332.].”
+Pub. L. 108–357, title VIII, § 854(d), Oct. 22, 2004, 118 Stat. 1616, provided that: “The amendments made by subsections (a) and (c) [enacting section 6715A of this title and amending this section] shall take effect on the 180th day after the date on which the Secretary issues the regulations described in subsection (b) [set out as a note below] [Such regulations were issued effective Oct. 24, 2005. See 70 F.R. 21332.].”
 
-Pub. L. 108–357, title VIII, § 857(d), Oct. 22, 2004, 118 Stat. 1617, provided that: “The amendments made by this section [amending this section and section 6427 of this title] shall apply to fuel sold after December 31, 2004.”
+Pub. L. 108–357, title VIII, § 857(d), Oct. 22, 2004, 118 Stat. 1617, provided that: “The amendments made by this section [amending this section and section 6427 of this title] shall apply to fuel sold after December 31, 2004.”
 
 **Effective Date of 1998 Amendment**
 
@@ -1744,7 +1744,7 @@ Amendment by Pub. L. 105–34 effective July 1, 1998, see section 1032(f)(1) of 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1801(b), Aug. 20, 1996, 110 Stat. 1892, provided that: “The amendments made by this section [amending this section] shall apply with respect to fuel removed, entered, or sold on or after the first day of the first calendar quarter beginning after the date of the enactment of this Act [Aug. 20, 1996].”
+Pub. L. 104–188, title I, § 1801(b), Aug. 20, 1996, 110 Stat. 1892, provided that: “The amendments made by this section [amending this section] shall apply with respect to fuel removed, entered, or sold on or after the first day of the first calendar quarter beginning after the date of the enactment of this Act [Aug. 20, 1996].”
 
 **Effective Date of 1993 Amendment**
 
@@ -1756,9 +1756,9 @@ Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in sect
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title VII, § 733(b), July 18, 1984, 98 Stat. 977, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title VII, § 733(b), July 18, 1984, 98 Stat. 977, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act [July 18, 1984].”
 
-Pub. L. 98–369, div. A, title VII, § 734(c)(3), July 18, 1984, 98 Stat. 979, provided that: “The amendments made by this subsection [amending this section and section 6427 of this title] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title VII, § 734(c)(3), July 18, 1984, 98 Stat. 979, provided that: “The amendments made by this subsection [amending this section and section 6427 of this title] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act [July 18, 1984].”
 
 **Effective Date of 1970 Amendment**
 
@@ -1766,17 +1766,17 @@ Amendment by Pub. L. 91–258 effective July 1, 1970, see section 211(a) of Pub.
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VIII, § 802(d)(1), June 21, 1965, 79 Stat. 159, provided that: “The amendments made by subsections (a)(1), (b), and (c) [amending this section and sections 4101, 4222, 7103, and 7232 of this title] shall apply with respect to articles sold on or after July 1, 1965.”
+Pub. L. 89–44, title VIII, § 802(d)(1), June 21, 1965, 79 Stat. 159, provided that: “The amendments made by subsections (a)(1), (b), and (c) [amending this section and sections 4101, 4222, 7103, and 7232 of this title] shall apply with respect to articles sold on or after July 1, 1965.”
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–342, title II, § 201(e)(3), Sept. 21, 1959, 73 Stat. 615, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] shall take effect on January 1, 1960.”
+Pub. L. 86–342, title II, § 201(e)(3), Sept. 21, 1959, 73 Stat. 615, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] shall take effect on January 1, 1960.”
 
 **Regulations**
 
-Pub. L. 108–357, title VIII, § 854(b), Oct. 22, 2004, 118 Stat. 1615, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 22, 2004], the Secretary of the Treasury shall issue regulations regarding mechanical dye injection systems described in the amendment made by subsection (a) [amending this section], and such regulations shall include standards for making such systems tamper resistant.”
+Pub. L. 108–357, title VIII, § 854(b), Oct. 22, 2004, 118 Stat. 1615, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 22, 2004], the Secretary of the Treasury shall issue regulations regarding mechanical dye injection systems described in the amendment made by subsection (a) [amending this section], and such regulations shall include standards for making such systems tamper resistant.”
 
-##### § 4083. Definitions; special rule; administrative authority
+##### § 4083. Definitions; special rule; administrative authority
 
 **(a) Taxable fuel** For purposes of this subpart—
 
@@ -1850,7 +1850,7 @@ The penalty provided by section 7342 shall apply to any refusal to admit entry o
 
 For additional assessable penalty for the refusal to admit entry or other refusal to permit an action by the Secretary authorized by paragraph (1), see section 6717.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 105–34, title IX, § 902(b)(3), title X, § 1032(a), (e)(4), Aug. 5, 1997, 111 Stat. 873, 933, 935; Pub. L. 105–206, title VI, § 6010(h)(1), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title III, § 301(c)(8), title VIII, §§ 853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, 118 Stat. 1461, 1611, 1617, 1618, 1623; Pub. L. 109–59, title XI, § 11123(b), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, § 1103(b), Feb. 14, 2012, 126 Stat. 151; Pub. L. 114–55, title II, § 202(c)(1), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–141, title II, § 202(c)(1), Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, § 1202(c)(1), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, § 202(c)(1), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–141, div. M, title I, § 202(c)(1), Mar. 23, 2018, 132 Stat. 1048; Pub. L. 115–254, div. B, title VIII, § 802(c)(2), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–15, div. B, title II, § 2212(c)(2), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, § 202(c)(2), Dec. 26, 2023, 137 Stat. 1116; Pub. L. 118–41, title II, § 202(c)(2), Mar. 8, 2024, 138 Stat. 24; Pub. L. 118–63, title XIII, § 1302(c)(2), May 16, 2024, 138 Stat. 1433.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 105–34, title IX, § 902(b)(3), title X, § 1032(a), (e)(4), Aug. 5, 1997, 111 Stat. 873, 933, 935; Pub. L. 105–206, title VI, § 6010(h)(1), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title III, § 301(c)(8), title VIII, §§ 853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, 118 Stat. 1461, 1611, 1617, 1618, 1623; Pub. L. 109–59, title XI, § 11123(b), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, § 1103(b), Feb. 14, 2012, 126 Stat. 151; Pub. L. 114–55, title II, § 202(c)(1), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–141, title II, § 202(c)(1), Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, § 1202(c)(1), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, § 202(c)(1), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–141, div. M, title I, § 202(c)(1), Mar. 23, 2018, 132 Stat. 1048; Pub. L. 115–254, div. B, title VIII, § 802(c)(2), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–15, div. B, title II, § 2212(c)(2), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, § 202(c)(2), Dec. 26, 2023, 137 Stat. 1116; Pub. L. 118–41, title II, § 202(c)(2), Mar. 8, 2024, 138 Stat. 24; Pub. L. 118–63, title XIII, § 1302(c)(2), May 16, 2024, 138 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -1880,25 +1880,25 @@ Pub. L. 114–141 substituted “July 16, 2016” for “April 1, 2016”.
 
 2005—Subsec. (b). Pub. L. 109–59 substituted “subsection (h) or (i) of section 4261” for “section 4261(h)”.
 
-2004—Subsec. (a)(2). Pub. L. 108–357, § 301(c)(8), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, par. (2) defined the term “gasoline”, to the extent prescribed in regulations, as including gasoline blend stocks and products commonly used as additives in gasoline, and defined the term “gasoline blend stock” as meaning any petroleum product component of gasoline.
+2004—Subsec. (a)(2). Pub. L. 108–357, § 301(c)(8), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, par. (2) defined the term “gasoline”, to the extent prescribed in regulations, as including gasoline blend stocks and products commonly used as additives in gasoline, and defined the term “gasoline blend stock” as meaning any petroleum product component of gasoline.
 
-Subsec. (a)(3). Pub. L. 108–357, § 870(a), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, par. (3) defined the term “diesel fuel” as meaning any liquid (other than gasoline) which is suitable for use as a fuel in a diesel-powered highway vehicle or a diesel-powered train.
+Subsec. (a)(3). Pub. L. 108–357, § 870(a), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, par. (3) defined the term “diesel fuel” as meaning any liquid (other than gasoline) which is suitable for use as a fuel in a diesel-powered highway vehicle or a diesel-powered train.
 
-Subsecs. (b), (c). Pub. L. 108–357, § 853(b), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsecs. (b), (c). Pub. L. 108–357, § 853(b), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 108–357, § 853(b), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 108–357, § 853(b), redesignated subsec. (c) as (d).
 
-Subsec. (d)(1)(A)(iii). Pub. L. 108–357, § 858(a), added cl. (iii).
+Subsec. (d)(1)(A)(iii). Pub. L. 108–357, § 858(a), added cl. (iii).
 
-Subsec. (d)(3). Pub. L. 108–357, § 859(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (d)(3). Pub. L. 108–357, § 859(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-1998—Subsec. (a)(1). Pub. L. 105–206 made technical amendment to directory language of Pub. L. 105–34, § 1032(a). See 1997 Amendment note below.
+1998—Subsec. (a)(1). Pub. L. 105–206 made technical amendment to directory language of Pub. L. 105–34, § 1032(a). See 1997 Amendment note below.
 
-1997—Subsec. (a)(1)(C). Pub. L. 105–34, § 1032(a), as amended by Pub. L. 105–206, § 6010(h)(1), added subpar. (C).
+1997—Subsec. (a)(1)(C). Pub. L. 105–34, § 1032(a), as amended by Pub. L. 105–206, § 6010(h)(1), added subpar. (C).
 
-Subsec. (a)(3). Pub. L. 105–34, § 902(b)(3), substituted “or a diesel-powered train” for “, a diesel-powered train, or a diesel-powered boat”.
+Subsec. (a)(3). Pub. L. 105–34, § 902(b)(3), substituted “or a diesel-powered train” for “, a diesel-powered train, or a diesel-powered boat”.
 
-Subsec. (b). Pub. L. 105–34, § 1032(e)(4), substituted “taxable fuels” for “gasoline, diesel fuel,”.
+Subsec. (b). Pub. L. 105–34, § 1032(e)(4), substituted “taxable fuels” for “gasoline, diesel fuel,”.
 
 1993—Pub. L. 103–66 amended heading and text generally. Prior to amendment, text read as follows:
 
@@ -1916,11 +1916,11 @@ Subsec. (b). Pub. L. 105–34, § 1032(e)(4), substituted “taxable fuels” 
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–95, title XI, § 1103(d)(2), Feb. 14, 2012, 126 Stat. 151, provided that: The amendment made by subsection (b) [amending this section] shall apply to uses of aircraft after March 31, 2012.”
+Pub. L. 112–95, title XI, § 1103(d)(2), Feb. 14, 2012, 126 Stat. 151, provided that: The amendment made by subsection (b) [amending this section] shall apply to uses of aircraft after March 31, 2012.”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11123(c), Aug. 10, 2005, 119 Stat. 1952, provided that: “The amendments made by this section [amending this section and section 4261 of this title] shall apply to transportation beginning after September 30, 2005.”
+Pub. L. 109–59, title XI, § 11123(c), Aug. 10, 2005, 119 Stat. 1952, provided that: “The amendments made by this section [amending this section and section 4261 of this title] shall apply to transportation beginning after September 30, 2005.”
 
 **Effective Date of 2004 Amendment**
 
@@ -1928,11 +1928,11 @@ Amendment by section 301(c)(8) of Pub. L. 108–357 applicable to fuel sold or u
 
 Amendment by section 853(b) of Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
 
-Pub. L. 108–357, title VIII, § 858(b), Oct. 22, 2004, 118 Stat. 1617, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 858(b), Oct. 22, 2004, 118 Stat. 1617, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].”
 
-Pub. L. 108–357, title VIII, § 859(c), Oct. 22, 2004, 118 Stat. 1618, provided that: “The amendments made by this section [enacting section 6717 of this title and amending this section] shall take effect on January 1, 2005.”
+Pub. L. 108–357, title VIII, § 859(c), Oct. 22, 2004, 118 Stat. 1618, provided that: “The amendments made by this section [enacting section 6717 of this title and amending this section] shall take effect on January 1, 2005.”
 
-Pub. L. 108–357, title VIII, § 870(c), Oct. 22, 2004, 118 Stat. 1624, provided that: “The amendment made by this section [amending this section and section 6427 of this title] shall apply to fuel removed, sold, or used after December 31, 2004.”
+Pub. L. 108–357, title VIII, § 870(c), Oct. 22, 2004, 118 Stat. 1624, provided that: “The amendment made by this section [amending this section and section 6427 of this title] shall apply to fuel removed, sold, or used after December 31, 2004.”
 
 **Effective Date of 1998 Amendment**
 
@@ -1952,7 +1952,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pu
 
 Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514 set out as a note under section 4081 of this title.
 
-##### § 4084. Cross references
+##### § 4084. Cross references
 
 **(1)** For provisions to relieve farmers from excise tax in the case of gasoline used on the farm for farming purposes, see section 6420.
 
@@ -1960,27 +1960,27 @@ Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in sect
 
 **(3)** For provisions to relieve purchasers from excise tax in the case of taxable fuel not used for taxable purposes, see section 6427.
 
-(Added Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 518.)
+(Added Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 518.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4084, added Apr. 2, 1956, ch. 160, § 4(a)(1), 70 Stat. 90; amended June 29, 1956, ch. 462, title II, § 208(e)(1), 70 Stat. 396, contained cross references, prior to the general amendment of this subpart by Pub. L. 99–514, § 1703(a).
+A prior section 4084, added Apr. 2, 1956, ch. 160, § 4(a)(1), 70 Stat. 90; amended June 29, 1956, ch. 462, title II, § 208(e)(1), 70 Stat. 396, contained cross references, prior to the general amendment of this subpart by Pub. L. 99–514, § 1703(a).
 
-A prior section 4091, added Pub. L. 100–203, title X, § 10502(a), Dec. 22, 1987, 101 Stat. 1330–438; amended Pub. L. 100–203, title X, § 10502(g), Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 100–647, title II, § 2001(d)(6)(A)–(C), Nov. 10, 1988, 102 Stat. 3596; Pub. L. 101–508, title XI, §§ 11211(b)(1), (2), (6)(A), (B), (c)(4), (e)(4), 11213(b)(1), (2)(C), (D), (d)(2)(A), 11704(a)(38), Nov. 5, 1990, 104 Stat. 1388–424 to 1388–427, 1388–432, 1388–433, 1388–435, 1388–520; Pub. L. Pub. L. 102–240, title VIII, § 8002(a)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§ 13241(b)(1), (2)(B)(i), (ii), 13242(a), Aug. 10, 1993, 107 Stat. 510, 518; Pub. L. 104–188, title I, § 1609(a)(1), Aug. 20, 1996, 110 Stat. 1841; Pub. L. 105–2, § 2(a)(1), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, § 1031(a)(1), title XIV, § 1436(a), Aug. 5, 1997, 111 Stat. 929, 1053; Pub. L. 105–178, title IX, § 9003(a)(1)(D), (b)(2)(D), June 9, 1998, 112 Stat. 502, 503; Pub. L. 105–206, title VI, § 6014(d), July 22, 1998, 112 Stat. 820, related to imposition of tax on the sale of aviation fuel, prior to repeal by Pub. L. 108–357, title VIII, § 853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
+A prior section 4091, added Pub. L. 100–203, title X, § 10502(a), Dec. 22, 1987, 101 Stat. 1330–438; amended Pub. L. 100–203, title X, § 10502(g), Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 100–647, title II, § 2001(d)(6)(A)–(C), Nov. 10, 1988, 102 Stat. 3596; Pub. L. 101–508, title XI, §§ 11211(b)(1), (2), (6)(A), (B), (c)(4), (e)(4), 11213(b)(1), (2)(C), (D), (d)(2)(A), 11704(a)(38), Nov. 5, 1990, 104 Stat. 1388–424 to 1388–427, 1388–432, 1388–433, 1388–435, 1388–520; Pub. L. Pub. L. 102–240, title VIII, § 8002(a)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§ 13241(b)(1), (2)(B)(i), (ii), 13242(a), Aug. 10, 1993, 107 Stat. 510, 518; Pub. L. 104–188, title I, § 1609(a)(1), Aug. 20, 1996, 110 Stat. 1841; Pub. L. 105–2, § 2(a)(1), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, § 1031(a)(1), title XIV, § 1436(a), Aug. 5, 1997, 111 Stat. 929, 1053; Pub. L. 105–178, title IX, § 9003(a)(1)(D), (b)(2)(D), June 9, 1998, 112 Stat. 502, 503; Pub. L. 105–206, title VI, § 6014(d), July 22, 1998, 112 Stat. 820, related to imposition of tax on the sale of aviation fuel, prior to repeal by Pub. L. 108–357, title VIII, § 853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
 
-Another prior section 4091, acts Aug. 16, 1954, ch. 736, 68A Stat. 483; Aug. 11, 1955, ch. 793, § 1(a), 69 Stat. 676; June 21, 1965, Pub. L. 89–44, title II, § 202(a), 79 Stat. 137, imposed a tax of 6 cents a gallon on lubricating oil (other than cutting oils) sold in the United States by the manufacturer or producer to be paid by the manufacturer or producer, prior to repeal by Pub. L. 97–424, title V, § 515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
+Another prior section 4091, acts Aug. 16, 1954, ch. 736, 68A Stat. 483; Aug. 11, 1955, ch. 793, § 1(a), 69 Stat. 676; June 21, 1965, Pub. L. 89–44, title II, § 202(a), 79 Stat. 137, imposed a tax of 6 cents a gallon on lubricating oil (other than cutting oils) sold in the United States by the manufacturer or producer to be paid by the manufacturer or producer, prior to repeal by Pub. L. 97–424, title V, § 515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
 
-A prior section 4092, added Pub. L. 100–203, title X, § 10502(a), Dec. 22, 1987, 101 Stat. 1330–440; amended Pub. L. 100–647, title III, § 3003(a), Nov. 10, 1988, 102 Stat. 3616; Pub. L. 103–66, title XIII, §§ 13163(a)(1), (3), 13242(a), Aug. 10, 1993, 107 Stat. 453, 519; Pub. L. 105–34, title XVI, § 1601(f)(4)(C), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 105–206, title VI, § 6023(16), July 22, 1998, 112 Stat. 825, related to exemptions from tax imposed by former section 4091, prior to repeal by Pub. L. 108–357, title VIII, § 853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
+A prior section 4092, added Pub. L. 100–203, title X, § 10502(a), Dec. 22, 1987, 101 Stat. 1330–440; amended Pub. L. 100–647, title III, § 3003(a), Nov. 10, 1988, 102 Stat. 3616; Pub. L. 103–66, title XIII, §§ 13163(a)(1), (3), 13242(a), Aug. 10, 1993, 107 Stat. 453, 519; Pub. L. 105–34, title XVI, § 1601(f)(4)(C), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 105–206, title VI, § 6023(16), July 22, 1998, 112 Stat. 825, related to exemptions from tax imposed by former section 4091, prior to repeal by Pub. L. 108–357, title VIII, § 853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
 
-Another prior section 4092, acts Aug. 16, 1954, ch. 736, 68A Stat. 484; Aug. 11, 1955, ch. 793, § 1(b), 69 Stat. 676; Nov. 9, 1978, Pub. L. 95–618, title IV, § 404(b), 92 Stat. 3205, provided for certain vendees to be considered as manufacturers and defined “cutting oils”, prior to repeal by Pub. L. 97–424, title V, § 515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
+Another prior section 4092, acts Aug. 16, 1954, ch. 736, 68A Stat. 484; Aug. 11, 1955, ch. 793, § 1(b), 69 Stat. 676; Nov. 9, 1978, Pub. L. 95–618, title IV, § 404(b), 92 Stat. 3205, provided for certain vendees to be considered as manufacturers and defined “cutting oils”, prior to repeal by Pub. L. 97–424, title V, § 515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
 
-A prior section 4093, added Pub. L. 100–203, title X, § 10502(a), Dec. 22, 1987, 101 Stat. 1330–440; amended Pub. L. 100–647, title II, § 2004(s)(1), title III, § 3001(a), Nov. 10, 1988, 102 Stat. 3609, 3613; Pub. L. 101–508, title XI, §§ 11211(b)(4)(A), 11212(b)(4), 11704(a)(20), Nov. 5, 1990, 104 Stat. 1388–425, 1388–431, 1388–519; Pub. L. 103–66, title XIII, §§ 13241(f)(3), (4), 13242(a), Aug. 10, 1993, 107 Stat. 511, 512, 520; Pub. L. 104–188, title I, § 1702(b)(2)(A), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title X, § 1032(e)(5), Aug. 5, 1997, 111 Stat. 935, defined terms for purposes of former subpart B of this part, prior to repeal by Pub. L. 108–357, title VIII, § 853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
+A prior section 4093, added Pub. L. 100–203, title X, § 10502(a), Dec. 22, 1987, 101 Stat. 1330–440; amended Pub. L. 100–647, title II, § 2004(s)(1), title III, § 3001(a), Nov. 10, 1988, 102 Stat. 3609, 3613; Pub. L. 101–508, title XI, §§ 11211(b)(4)(A), 11212(b)(4), 11704(a)(20), Nov. 5, 1990, 104 Stat. 1388–425, 1388–431, 1388–519; Pub. L. 103–66, title XIII, §§ 13241(f)(3), (4), 13242(a), Aug. 10, 1993, 107 Stat. 511, 512, 520; Pub. L. 104–188, title I, § 1702(b)(2)(A), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title X, § 1032(e)(5), Aug. 5, 1997, 111 Stat. 935, defined terms for purposes of former subpart B of this part, prior to repeal by Pub. L. 108–357, title VIII, § 853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
 
-Another prior section 4093, acts Aug. 16, 1954, ch. 736, 68A Stat. 484; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834; Nov. 9, 1978, Pub. L. 95–618, title IV, § 404(a), 92 Stat. 3204, exempted from tax lubricating oils sold to a manufacturer or producer of lubricating oils for resale, or for certain uses of lubricating oil in producing rerefined oil, prior to repeal by Pub. L. 97–424, title V, § 515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
+Another prior section 4093, acts Aug. 16, 1954, ch. 736, 68A Stat. 484; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834; Nov. 9, 1978, Pub. L. 95–618, title IV, § 404(a), 92 Stat. 3204, exempted from tax lubricating oils sold to a manufacturer or producer of lubricating oils for resale, or for certain uses of lubricating oil in producing rerefined oil, prior to repeal by Pub. L. 97–424, title V, § 515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
 
-A prior section 4094, added Pub. L. 89–44, title II, § 202(c)(1)(A), June 21, 1965, 79 Stat. 139, provided cross reference to sections 39 and 6424 of this title for provisions to relieve purchasers of lubricating oil from excise tax in the case of lubricating oil used otherwise than in a highway motor vehicle, prior to repeal by Pub. L. 97–424, title V, § 515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
+A prior section 4094, added Pub. L. 89–44, title II, § 202(c)(1)(A), June 21, 1965, 79 Stat. 139, provided cross reference to sections 39 and 6424 of this title for provisions to relieve purchasers of lubricating oil from excise tax in the case of lubricating oil used otherwise than in a highway motor vehicle, prior to repeal by Pub. L. 97–424, title V, § 515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1994,21 +1994,21 @@ Section effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set ou
 
 **Prior Provisions**
 
-A prior subpart B, consisting of sections 4091 to 4093, related to taxation of aviation fuel, prior to repeal by Pub. L. 108–357, title VIII, § 853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
+A prior subpart B, consisting of sections 4091 to 4093, related to taxation of aviation fuel, prior to repeal by Pub. L. 108–357, title VIII, § 853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
 
 **Amendments**
 
-2004—Pub. L. 108–357, title III, § 303(b), title VIII, §§ 853(d)(1), (2)(T), 866(b), Oct. 22, 2004, 118 Stat. 1466, 1612, 1614, 1622, redesignated subpart C as B, substituted “Special Provisions Applicable to Fuels Tax” for “Special Provisions Applicable to Petroleum Products” in subpart heading, and added items 4104 and 4105.
+2004—Pub. L. 108–357, title III, § 303(b), title VIII, §§ 853(d)(1), (2)(T), 866(b), Oct. 22, 2004, 118 Stat. 1466, 1612, 1614, 1622, redesignated subpart C as B, substituted “Special Provisions Applicable to Fuels Tax” for “Special Provisions Applicable to Petroleum Products” in subpart heading, and added items 4104 and 4105.
 
-1990—Pub. L. 101–508, title XI, § 11212(e)(3), Nov. 5, 1990, 104 Stat. 1388–432, added item 4103.
+1990—Pub. L. 101–508, title XI, § 11212(e)(3), Nov. 5, 1990, 104 Stat. 1388–432, added item 4103.
 
-1986—Pub. L. 99–514, title XVII, § 1703(b)(2), Oct. 22, 1986, 100 Stat. 2776, substituted “Registration and bond” for “Registration” in item 4101.
+1986—Pub. L. 99–514, title XVII, § 1703(b)(2), Oct. 22, 1986, 100 Stat. 2776, substituted “Registration and bond” for “Registration” in item 4101.
 
-1976—Pub. L. 94–455, title XII, § 1202(c)(2), Oct. 4, 1976, 90 Stat. 1686, substituted “Inspection of records by local officers” for “Inspection of records, returns, etc., by local officers” in item 4102.
+1976—Pub. L. 94–455, title XII, § 1202(c)(2), Oct. 4, 1976, 90 Stat. 1686, substituted “Inspection of records by local officers” for “Inspection of records, returns, etc., by local officers” in item 4102.
 
-1965—Pub. L. 89–44, title VIII, § 802(b)(5), June 21, 1965, 79 Stat. 159, struck out “and bond” after “Registration” in item 4101.
+1965—Pub. L. 89–44, title VIII, § 802(b)(5), June 21, 1965, 79 Stat. 159, struck out “and bond” after “Registration” in item 4101.
 
-##### § 4101. Registration and bond
+##### § 4101. Registration and bond
 
 **(a) Registration**
 
@@ -2066,7 +2066,7 @@ Rules similar to the rules of section 4222(c) shall apply to registration under 
 
 Any person who is required to report under this subsection and who has 25 or more reportable transactions in a month shall file such report in electronic format.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, § 802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, § 515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, § 1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, § 10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, § 11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, § 13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, § 1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, § 6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, § 615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, § 301(b), title VIII, §§ 853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§ 11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, § 11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, § 15321(b)(3)(A), May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, § 4(a), title XV, § 15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275; Pub. L. 112–240, title IV, § 404(b)(3)(C), Jan. 2, 2013, 126 Stat. 2339; Pub. L. 117–169, title I, §§ 13203(d)(2)(C), 13704(b)(5), Aug. 16, 2022, 136 Stat. 1935, 2003; Pub. L. 119–21, title VII, § 70521(i)(1), July 4, 2025, 139 Stat. 278.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, § 802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, § 515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, § 1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, § 10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, § 11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, § 13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, § 1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, § 6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, § 615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, § 301(b), title VIII, §§ 853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§ 11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, § 11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, § 15321(b)(3)(A), May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, § 4(a), title XV, § 15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275; Pub. L. 112–240, title IV, § 404(b)(3)(C), Jan. 2, 2013, 126 Stat. 2339; Pub. L. 117–169, title I, §§ 13203(d)(2)(C), 13704(b)(5), Aug. 16, 2022, 136 Stat. 1935, 2003; Pub. L. 119–21, title VII, § 70521(i)(1), July 4, 2025, 139 Stat. 278.)
 
 **Editorial Notes**
 
@@ -2076,33 +2076,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–21, § 70521(i)(1), amended Pub. L. 117–169, § 13704(b)(5). See 2022 Amendment note below.
+2025—Subsec. (a)(1). Pub. L. 119–21, § 70521(i)(1), amended Pub. L. 117–169, § 13704(b)(5). See 2022 Amendment note below.
 
-2022—Subsec. (a)(1). Pub. L. 117–169, § 13704(b)(5), as amended by Pub. L. 119–21, § 70521(i)(1), inserted “every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z),” after “section 40B),”.
+2022—Subsec. (a)(1). Pub. L. 117–169, § 13704(b)(5), as amended by Pub. L. 119–21, § 70521(i)(1), inserted “every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z),” after “section 40B),”.
 
-Pub. L. 117–169, § 13203(d)(2)(C), inserted “every person producing or importing sustainable aviation fuel (as defined in section 40B),” before “and every person producing second generation biofuel”.
+Pub. L. 117–169, § 13203(d)(2)(C), inserted “every person producing or importing sustainable aviation fuel (as defined in section 40B),” before “and every person producing second generation biofuel”.
 
 2013—Subsec. (a)(1). Pub. L. 112–240 substituted “second generation biofuel” for “cellulosic biofuel”.
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 15321(b)(3)(A), substituted “, every person producing or importing” for “and every person producing or importing” and inserted “, and every person producing cellulosic biofuel (as defined in section 40(b)(6)(E))” before “shall register”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 15321(b)(3)(A), substituted “, every person producing or importing” for “and every person producing or importing” and inserted “, and every person producing cellulosic biofuel (as defined in section 40(b)(6)(E))” before “shall register”.
 
 2007—Subsec. (a)(4), (5). Pub. L. 110–172 redesignated par. (4) relating to reregistration in event of change of ownership as (5).
 
-2005—Subsec. (a)(1). Pub. L. 109–59, § 11113(c), substituted “4041(a)” for “4041(a)(1)”.
+2005—Subsec. (a)(1). Pub. L. 109–59, § 11113(c), substituted “4041(a)” for “4041(a)(1)”.
 
-Subsec. (a)(4). Pub. L. 109–59, § 11164(a), added par. (4) relating to reregistration in event of change in ownership.
+Subsec. (a)(4). Pub. L. 109–59, § 11164(a), added par. (4) relating to reregistration in event of change in ownership.
 
-Pub. L. 109–59, § 11163(a), added par. (4) relating to registration of persons extending credit on certain exempt sales of fuel.
+Pub. L. 109–59, § 11163(a), added par. (4) relating to registration of persons extending credit on certain exempt sales of fuel.
 
-2004—Subsec. (a). Pub. L. 108–357, § 861(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2004—Subsec. (a). Pub. L. 108–357, § 861(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Pub. L. 108–357, § 853(d)(2)(F), substituted “or 4081” for “, 4081, or 4091”.
+Pub. L. 108–357, § 853(d)(2)(F), substituted “or 4081” for “, 4081, or 4091”.
 
-Pub. L. 108–357, § 301(b), amended par. (1), as amended by Pub. L. 108–357, § 861, by inserting “and every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A))” before “shall register with the Secretary”.
+Pub. L. 108–357, § 301(b), amended par. (1), as amended by Pub. L. 108–357, § 861, by inserting “and every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A))” before “shall register with the Secretary”.
 
-Subsec. (a)(2), (3). Pub. L. 108–357, § 862(a), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 108–357, § 862(a), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (d). Pub. L. 108–357, § 864(a), inserted concluding provisions.
+Subsec. (d). Pub. L. 108–357, § 864(a), inserted concluding provisions.
 
 2002—Subsec. (e). Pub. L. 107–147 struck out heading and text of subsec. (e). Text read as follows:
 
@@ -2136,7 +2136,7 @@ Subsec. (d). Pub. L. 108–357, § 864(a), inserted concluding provisions.
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70521(i)(2), July 4, 2025, 139 Stat. 278, provided that: “The amendment made by this subsection [amending section 13704(b)(5) of Pub. L. 117–169, which amended this section] shall apply to transportation fuel produced after December 31, 2024.”
+Pub. L. 119–21, title VII, § 70521(i)(2), July 4, 2025, 139 Stat. 278, provided that: “The amendment made by this subsection [amending section 13704(b)(5) of Pub. L. 117–169, which amended this section] shall apply to transportation fuel produced after December 31, 2024.”
 
 **Effective Date of 2022 Amendment**
 
@@ -2158,9 +2158,9 @@ Amendment by section 15321(b)(3)(A) of Pub. L. 110–246 applicable to fuel prod
 
 Amendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
-Pub. L. 109–59, title XI, § 11163(e), Aug. 10, 2005, 119 Stat. 1975, provided that: “The amendments made by this section [amending this section and sections 6206, 6416, 6427, and 6675 of this title] shall apply to sales after December 31, 2005.”
+Pub. L. 109–59, title XI, § 11163(e), Aug. 10, 2005, 119 Stat. 1975, provided that: “The amendments made by this section [amending this section and sections 6206, 6416, 6427, and 6675 of this title] shall apply to sales after December 31, 2005.”
 
-Pub. L. 109–59, title XI, § 11164(c), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendments made by this section [amending this section and sections 6719, 7232, and 7272 of this title] shall apply to actions, or failures to act, after the date of the enactment of this Act [Aug. 10, 2005].”
+Pub. L. 109–59, title XI, § 11164(c), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendments made by this section [amending this section and sections 6719, 7232, and 7272 of this title] shall apply to actions, or failures to act, after the date of the enactment of this Act [Aug. 10, 2005].”
 
 **Effective Date of 2004 Amendment**
 
@@ -2168,15 +2168,15 @@ Amendment by section 301(b) of Pub. L. 108–357 effective Apr. 1, 2005, see sec
 
 Amendment by section 853(d)(2)(F) of Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
 
-Pub. L. 108–357, title VIII, § 861(c)(1), Oct. 22, 2004, 118 Stat. 1619, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2005.”
+Pub. L. 108–357, title VIII, § 861(c)(1), Oct. 22, 2004, 118 Stat. 1619, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2005.”
 
-Pub. L. 108–357, title VIII, § 862(c), Oct. 22, 2004, 118 Stat. 1619, provided that: “The amendments made by this section [amending this section and section 6718 of this title] shall take effect on January 1, 2005.”
+Pub. L. 108–357, title VIII, § 862(c), Oct. 22, 2004, 118 Stat. 1619, provided that: “The amendments made by this section [amending this section and section 6718 of this title] shall take effect on January 1, 2005.”
 
-Pub. L. 108–357, title VIII, § 864(b), Oct. 22, 2004, 118 Stat. 1621, provided that: “The amendment made by this section [amending this section] shall apply on January 1, 2006.”
+Pub. L. 108–357, title VIII, § 864(b), Oct. 22, 2004, 118 Stat. 1621, provided that: “The amendment made by this section [amending this section] shall apply on January 1, 2006.”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–147, title VI, § 615(b), Mar. 9, 2002, 116 Stat. 62, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2002.”
+Pub. L. 107–147, title VI, § 615(b), Mar. 9, 2002, 116 Stat. 62, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2002.”
 
 **Effective Date of 1998 Amendment**
 
@@ -2212,17 +2212,17 @@ Amendment by Pub. L. 89–44 applicable with respect to articles sold on or afte
 
 **Treatment of Deep-Draft Vessels**
 
-Pub. L. 109–59, title XI, § 11166(a), Aug. 10, 2005, 119 Stat. 1976, provided that: “On and after the date of the enactment of this Act [Aug. 10, 2005], the Secretary of the Treasury shall require that a vessel described in section 4042(c)(1) of the Internal Revenue Code of 1986 be considered a vessel for purposes of the registration of the operator of such vessel under section 4101 of such Code, unless such operator uses such vessel exclusively for purposes of the entry of taxable fuel.”
+Pub. L. 109–59, title XI, § 11166(a), Aug. 10, 2005, 119 Stat. 1976, provided that: “On and after the date of the enactment of this Act [Aug. 10, 2005], the Secretary of the Treasury shall require that a vessel described in section 4042(c)(1) of the Internal Revenue Code of 1986 be considered a vessel for purposes of the registration of the operator of such vessel under section 4101 of such Code, unless such operator uses such vessel exclusively for purposes of the entry of taxable fuel.”
 
 **Publication of Registered Persons**
 
-Pub. L. 108–357, title VIII, § 860(c), Oct. 22, 2004, 118 Stat. 1618, provided that: “Beginning on January 1, 2005, the Secretary of the Treasury (or the Secretary’s delegate) shall periodically publish under section 6103(k)(7) of the Internal Revenue Code of 1986 a current list of persons registered under section 4101 of such Code who are required to register under such section.”
+Pub. L. 108–357, title VIII, § 860(c), Oct. 22, 2004, 118 Stat. 1618, provided that: “Beginning on January 1, 2005, the Secretary of the Treasury (or the Secretary’s delegate) shall periodically publish under section 6103(k)(7) of the Internal Revenue Code of 1986 a current list of persons registered under section 4101 of such Code who are required to register under such section.”
 
-##### § 4102. Inspection of records by local officers
+##### § 4102. Inspection of records by local officers
 
 Under regulations prescribed by the Secretary, records required to be kept with respect to taxes under this part shall be open to inspection by such officers of a State, or a political subdivision of any such State, as shall be charged with the enforcement or collection of any tax on any taxable fuel (as defined in section 4083).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 94–455, title XII, § 1202(c)(1), Oct. 4, 1976, 90 Stat. 1686; Pub. L. 97–424, title V, § 515(b)(9), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 103–66, title XIII, § 13242(d)(2), Aug. 10, 1993, 107 Stat. 522.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 94–455, title XII, § 1202(c)(1), Oct. 4, 1976, 90 Stat. 1686; Pub. L. 97–424, title V, § 515(b)(9), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 103–66, title XIII, § 13242(d)(2), Aug. 10, 1993, 107 Stat. 522.)
 
 **Editorial Notes**
 
@@ -2248,7 +2248,7 @@ Amendment by Pub. L. 97–424 applicable to articles sold after Jan. 6, 1983, se
 
 Amendment by Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as a note under section 6103 of this title.
 
-##### § 4103. Certain additional persons liable for tax where willful failure to pay
+##### § 4103. Certain additional persons liable for tax where willful failure to pay
 
 In any case in which there is a willful failure to pay the tax imposed by section 4041(a)(1) or 4081, each person—
 
@@ -2258,13 +2258,13 @@ In any case in which there is a willful failure to pay the tax imposed by sectio
 
 shall be jointly and severally liable with the taxpayer for the tax to which such failure relates.
 
-(Added Pub. L. 101–508, title XI, § 11212(c), Nov. 5, 1990, 104 Stat. 1388–431; amended Pub. L. 103–66, title XIII, § 13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 108–357, title VIII, § 853(d)(2)(F), Oct. 22, 2004, 118 Stat. 1613.)
+(Added Pub. L. 101–508, title XI, § 11212(c), Nov. 5, 1990, 104 Stat. 1388–431; amended Pub. L. 103–66, title XIII, § 13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 108–357, title VIII, § 853(d)(2)(F), Oct. 22, 2004, 118 Stat. 1613.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Pub. L. 108–357 substituted “or 4081” for “, 4081, or 4091” in introductory provisions.
+2004—Pub. L. 108–357 substituted “or 4081” for “, 4081, or 4091” in introductory provisions.
 
 1993—Pub. L. 103–66 substituted “4041(a)(1), 4081,” for “4081” in introductory provisions.
 
@@ -2282,7 +2282,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pu
 
 Section effective Dec. 1, 1990, see section 11212(f)(2) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 4081 of this title.
 
-##### § 4104. Information reporting for persons claiming certain tax benefits
+##### § 4104. Information reporting for persons claiming certain tax benefits
 
 **(a) In general** The Secretary shall require any person claiming tax benefits—
 
@@ -2298,7 +2298,7 @@ Any return filed under this section shall provide such information relating to s
 
 With respect to any person described in subsection (a) and subject to registration requirements under this title, rules similar to rules of section 4222(c) shall apply with respect to any requirement under this section.
 
-(Added Pub. L. 108–357, title III, § 303(a), Oct. 22, 2004, 118 Stat. 1466; amended Pub. L. 115–141, div. U, title IV, § 401(a)(220), Mar. 23, 2018, 132 Stat. 1194.)
+(Added Pub. L. 108–357, title III, § 303(a), Oct. 22, 2004, 118 Stat. 1466; amended Pub. L. 115–141, div. U, title IV, § 401(a)(220), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -2310,9 +2310,9 @@ With respect to any person described in subsection (a) and subject to registrati
 
 **Effective Date**
 
-Pub. L. 108–357, title III, § 303(c), Oct. 22, 2004, 118 Stat. 1466, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2005.”
+Pub. L. 108–357, title III, § 303(c), Oct. 22, 2004, 118 Stat. 1466, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2005.”
 
-##### § 4105. Two-party exchanges
+##### § 4105. Two-party exchanges
 
 **(a) In general**
 
@@ -2328,7 +2328,7 @@ In a two-party exchange, the delivering person shall not be liable for the tax i
 
 **(4)** The transaction is the subject of a written contract.
 
-(Added Pub. L. 108–357, title VIII, § 866(a), Oct. 22, 2004, 118 Stat. 1621.)
+(Added Pub. L. 108–357, title VIII, § 866(a), Oct. 22, 2004, 118 Stat. 1621.)
 
 **Editorial Notes**
 
@@ -2340,7 +2340,7 @@ Prior sections 4111 to 4113, 4121, and 4131 of this title constituted a former s
 
 **Effective Date**
 
-Pub. L. 108–357, title VIII, § 866(c), Oct. 22, 2004, 118 Stat. 1622, provided that: “The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 866(c), Oct. 22, 2004, 118 Stat. 1622, provided that: “The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].”
 
 ## Subchapter B—Coal
 
@@ -2350,17 +2350,17 @@ Pub. L. 108–357, title VIII, § 866(c), Oct. 22, 2004, 118 Stat. 1622, provi
 
 A prior subchapter B consisted of sections 4111 to 4113, 4121, and 4131 of this title.
 
-Section 4111, acts Aug. 16, 1954, ch. 736, 68A Stat. 485; Sept. 2, 1958, Pub. L. 85–859, title I, § 111(a), 72 Stat. 1277, imposed a manufacturers excise tax of 5 percent on household type refrigerators, quick freeze or frozen storage units, or combinations, and a tax of 10 percent on self-contained air-conditioning units, prior to repeal by Pub. L. 89–44, title II, § 203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after June 22, 1956.
+Section 4111, acts Aug. 16, 1954, ch. 736, 68A Stat. 485; Sept. 2, 1958, Pub. L. 85–859, title I, § 111(a), 72 Stat. 1277, imposed a manufacturers excise tax of 5 percent on household type refrigerators, quick freeze or frozen storage units, or combinations, and a tax of 10 percent on self-contained air-conditioning units, prior to repeal by Pub. L. 89–44, title II, § 203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after June 22, 1956.
 
-Section 4112, acts Aug. 16, 1954, ch. 736, 68A Stat. 485; Aug. 11, 1955, ch. 805, § 1(e), 69 Stat. 689, defined refrigerator components, prior to repeal by Pub. L. 85–859, title I, § 111(b)(1), Sept. 2, 1958, 72 Stat. 1277, effective the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958.
+Section 4112, acts Aug. 16, 1954, ch. 736, 68A Stat. 485; Aug. 11, 1955, ch. 805, § 1(e), 69 Stat. 689, defined refrigerator components, prior to repeal by Pub. L. 85–859, title I, § 111(b)(1), Sept. 2, 1958, 72 Stat. 1277, effective the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958.
 
-Section 4113, act Aug. 16, 1954, ch. 736, 68A Stat. 485, related to exemptions for manufacturers of refrigerator components, prior to repeal by act Aug. 11, 1955, ch. 805, § 1(d), 69 Stat. 689, effective on the first day of the first month beginning more than 10 days after Aug. 11, 1955.
+Section 4113, act Aug. 16, 1954, ch. 736, 68A Stat. 485, related to exemptions for manufacturers of refrigerator components, prior to repeal by act Aug. 11, 1955, ch. 805, § 1(d), 69 Stat. 689, effective on the first day of the first month beginning more than 10 days after Aug. 11, 1955.
 
-Section 4121, acts Aug. 16, 1954, ch. 736, 68A Stat. 486; Sept. 2, 1958, Pub. L. 85–859, title I, § 112, 72 Stat. 1277, imposed a 5 percent tax on electric, gas, and oil household appliances and their accessories, prior to repeal by Pub. L. 89–44, title II, § 203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after June 22, 1965.
+Section 4121, acts Aug. 16, 1954, ch. 736, 68A Stat. 486; Sept. 2, 1958, Pub. L. 85–859, title I, § 112, 72 Stat. 1277, imposed a 5 percent tax on electric, gas, and oil household appliances and their accessories, prior to repeal by Pub. L. 89–44, title II, § 203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after June 22, 1965.
 
-Section 4131, act Aug. 16, 1954, ch. 736, 68A Stat. 486, imposed a 10 percent tax on electric light bulbs and tubes, prior to repeal by Pub. L. 89–44, title II, § 203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after Jan. 1, 1965.
+Section 4131, act Aug. 16, 1954, ch. 736, 68A Stat. 486, imposed a 10 percent tax on electric light bulbs and tubes, prior to repeal by Pub. L. 89–44, title II, § 203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after Jan. 1, 1965.
 
-### § 4121. Imposition of tax
+### § 4121. Imposition of tax
 
 **(a) Tax imposed**
 
@@ -2402,7 +2402,7 @@ The term “United States” has the meaning given to it by paragraph (1) of sec
 
 The term “ton” means 2,000 pounds.
 
-(Added Pub. L. 95–227, § 2(a), Feb. 10, 1978, 92 Stat. 11; amended Pub. L. 97–119, title I, § 102(a), Dec. 29, 1981, 95 Stat. 1635; Pub. L. 99–272, title XIII, § 13203(a), (c), Apr. 7, 1986, 100 Stat. 312, 313; Pub. L. 99–514, title XVIII, § 1897(a), Oct. 22, 1986, 100 Stat. 2941; Pub. L. 100–203, title X, § 10503, Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 110–343, div. B, title I, § 113(a), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 116–94, div. Q, title I, § 105(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, § 149(a), Dec. 27, 2020, 134 Stat. 3056; Pub. L. 117–169, title I, § 13901(a), Aug. 16, 2022, 136 Stat. 2013.)
+(Added Pub. L. 95–227, § 2(a), Feb. 10, 1978, 92 Stat. 11; amended Pub. L. 97–119, title I, § 102(a), Dec. 29, 1981, 95 Stat. 1635; Pub. L. 99–272, title XIII, § 13203(a), (c), Apr. 7, 1986, 100 Stat. 312, 313; Pub. L. 99–514, title XVIII, § 1897(a), Oct. 22, 1986, 100 Stat. 2941; Pub. L. 100–203, title X, § 10503, Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 110–343, div. B, title I, § 113(a), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 116–94, div. Q, title I, § 105(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, § 149(a), Dec. 27, 2020, 134 Stat. 3056; Pub. L. 117–169, title I, § 13901(a), Aug. 16, 2022, 136 Stat. 2013.)
 
 **Editorial Notes**
 
@@ -2418,23 +2418,23 @@ For prior section 4121, see Prior Provisions note set out preceding this section
 
 2019—Subsec. (e)(2)(A). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2018”.
 
-2008—Subsec. (e)(2)(A). Pub. L. 110–343, § 113(a)(1), substituted “December 31, 2018” for “January 1, 2014”.
+2008—Subsec. (e)(2)(A). Pub. L. 110–343, § 113(a)(1), substituted “December 31, 2018” for “January 1, 2014”.
 
-Subsec. (e)(2)(B). Pub. L. 110–343, § 113(a)(2), substituted “December 31 after 2007” for “January 1 after 1981” in introductory provisions.
+Subsec. (e)(2)(B). Pub. L. 110–343, § 113(a)(2), substituted “December 31 after 2007” for “January 1 after 1981” in introductory provisions.
 
 1987—Subsec. (e)(2)(A). Pub. L. 100–203 substituted “2014” for “1996”.
 
-1986—Subsec. (a). Pub. L. 99–272, § 13203(a), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is hereby imposed on coal sold by the producer a tax at the rates of—
+1986—Subsec. (a). Pub. L. 99–272, § 13203(a), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is hereby imposed on coal sold by the producer a tax at the rates of—
 
 “(1) 50 cents per ton in the case of coal from underground mines located in the United States, and
 
 “(2) 25 cents per ton in the case of coal from surface mines located in the United States.”
 
-Subsec. (b). Pub. L. 99–514 struck out “, in the case of sales during any calendar year beginning after December 31, 1985” after “subsection (a)”.
+Subsec. (b). Pub. L. 99–514 struck out “, in the case of sales during any calendar year beginning after December 31, 1985” after “subsection (a)”.
 
-Pub. L. 99–272, § 13203(a), amended subsec. (b) generally. Prior to amendment subsec. (b), limitation on tax, read as follows: “The amount of the tax imposed by subsection (a) with respect to a ton of coal shall not exceed 2 percent of the price at which such ton of coal is sold by the producer.”
+Pub. L. 99–272, § 13203(a), amended subsec. (b) generally. Prior to amendment subsec. (b), limitation on tax, read as follows: “The amount of the tax imposed by subsection (a) with respect to a ton of coal shall not exceed 2 percent of the price at which such ton of coal is sold by the producer.”
 
-Subsec. (e). Pub. L. 99–272, § 13203(c), substituted “Reduction in amount of tax” for “Temporary increase in amount of tax” in heading and amended par. (1) generally. Prior to amendment par. (1) read as follows: “Effective with respect to sales after December 31, 1981, and before the temporary increase termination date—
+Subsec. (e). Pub. L. 99–272, § 13203(c), substituted “Reduction in amount of tax” for “Temporary increase in amount of tax” in heading and amended par. (1) generally. Prior to amendment par. (1) read as follows: “Effective with respect to sales after December 31, 1981, and before the temporary increase termination date—
 
 “(A) subsection (a) shall be applied—
 
@@ -2450,33 +2450,33 @@ Subsec. (e). Pub. L. 99–272, § 13203(c), substituted “Reduction in amount
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–169, title I, § 13901(b), Aug. 16, 2022, 136 Stat. 2013, provided that: “The amendment made by this section [amending this section] shall apply to sales in calendar quarters beginning after the date which is 1 day after the date of enactment of this Act [Aug. 16, 2022].”
+Pub. L. 117–169, title I, § 13901(b), Aug. 16, 2022, 136 Stat. 2013, provided that: “The amendment made by this section [amending this section] shall apply to sales in calendar quarters beginning after the date which is 1 day after the date of enactment of this Act [Aug. 16, 2022].”
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 149(b), Dec. 27, 2020, 134 Stat. 3056, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 149(b), Dec. 27, 2020, 134 Stat. 3056, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2020.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 105(b), Dec. 20, 2019, 133 Stat. 3228, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–94, div. Q, title I, § 105(b), Dec. 20, 2019, 133 Stat. 3228, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Dec. 20, 2019].”
 
 **Effective Date of 1986 Amendments**
 
-Pub. L. 99–514, title XVIII, § 1897(b), Oct. 22, 1986, 100 Stat. 2941, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendment made by section 13203 of the Consolidated Omnibus Budget Reconciliation Act of 1985 [section 13203 of Pub. L. 99–272, see note below].”
+Pub. L. 99–514, title XVIII, § 1897(b), Oct. 22, 1986, 100 Stat. 2941, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendment made by section 13203 of the Consolidated Omnibus Budget Reconciliation Act of 1985 [section 13203 of Pub. L. 99–272, see note below].”
 
-Pub. L. 99–272, title XIII, § 13203(d), Apr. 7, 1986, 100 Stat. 313, provided that: “The amendments made by this section [amending this section] shall apply to sales after March 31, 1986.”
+Pub. L. 99–272, title XIII, § 13203(d), Apr. 7, 1986, 100 Stat. 313, provided that: “The amendments made by this section [amending this section] shall apply to sales after March 31, 1986.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–119, title I, § 102(b), Dec. 29, 1981, 95 Stat. 1635, provided that: “The amendment made by subsection (a) [amending this section] shall apply to sales after December 31, 1981.”
+Pub. L. 97–119, title I, § 102(b), Dec. 29, 1981, 95 Stat. 1635, provided that: “The amendment made by subsection (a) [amending this section] shall apply to sales after December 31, 1981.”
 
 **Effective Date**
 
-Pub. L. 95–227, § 2(d), Feb. 10, 1978, 92 Stat. 12, provided that: “The amendments made by this section [enacting this section and amending sections 4218, 4221, 4293, and 6416 of this title] shall apply with respect to sales after March 31, 1978.”
+Pub. L. 95–227, § 2(d), Feb. 10, 1978, 92 Stat. 12, provided that: “The amendments made by this section [enacting this section and amending sections 4218, 4221, 4293, and 6416 of this title] shall apply with respect to sales after March 31, 1978.”
 
-Pub. L. 95–227, § 5, Feb. 10, 1978, 92 Stat. 24, provided that: “Notwithstanding any other provision of this Act [see Short Title of 1978 Amendment note set out under section 1 of this title] to the contrary, no provision of this Act (including any amendment made by any such provision) shall take effect or apply unless an Act, enacted after the date of enactment of this Act [Feb. 10, 1978], contains a provision, explicitly in satisfaction of the requirements of this section, which states that it is the intent of the Congress that the provisions of this Act shall take effect.”
+Pub. L. 95–227, § 5, Feb. 10, 1978, 92 Stat. 24, provided that: “Notwithstanding any other provision of this Act [see Short Title of 1978 Amendment note set out under section 1 of this title] to the contrary, no provision of this Act (including any amendment made by any such provision) shall take effect or apply unless an Act, enacted after the date of enactment of this Act [Feb. 10, 1978], contains a provision, explicitly in satisfaction of the requirements of this section, which states that it is the intent of the Congress that the provisions of this Act shall take effect.”
 
-[Pub. L. 95–239, § 20(c), Mar. 1, 1978, 92 Stat. 106, provided that: “In accordance with the requirements of section 5 of the Black Lung Benefits Revenue Act of 1977 [Pub. L. 95–227, set out above], it is hereby provided that such Act shall take effect in accordance with the provisions of such Act. The provisions of this subsection are hereby deemed to be in explicit satisfaction of the requirements of section 5 of such Act.” ]
+[Pub. L. 95–239, § 20(c), Mar. 1, 1978, 92 Stat. 106, provided that: “In accordance with the requirements of section 5 of the Black Lung Benefits Revenue Act of 1977 [Pub. L. 95–227, set out above], it is hereby provided that such Act shall take effect in accordance with the provisions of such Act. The provisions of this subsection are hereby deemed to be in explicit satisfaction of the requirements of section 5 of such Act.” ]
 
 **Short Title of 1978 Amendment**
 
@@ -2484,7 +2484,7 @@ For short title of Pub. L. 95–227, Feb. 10, 1978, 92 Stat. 11, as the “Black
 
 **Special Rules for Refund of the Coal Excise Tax to Certain Coal Producers and Exporters**
 
-Pub. L. 110–343, div. B, title I, § 114, Oct. 3, 2008, 122 Stat. 3826, provided that:
+Pub. L. 110–343, div. B, title I, § 114, Oct. 3, 2008, 122 Stat. 3826, provided that:
 
 > **“(a) Refund.—**
 
@@ -2566,9 +2566,9 @@ Pub. L. 110–343, div. B, title I, § 114, Oct. 3, 2008, 122 Stat. 3826, prov
 
 > **“(2) Coal producers.—** With respect to coal producers, this section shall not confer standing upon a coal producer to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by an exporter of any Federal or State tax, fee, or royalty paid by the producer and alleged to have been passed on to an exporter.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 ## Subchapter C—Certain Vaccines
 
@@ -2578,17 +2578,17 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 A prior subchapter C consisted of sections 4141 to 4143, 4151, and 4152 of this title.
 
-Section 4141, acts Aug. 16, 1954, ch. 736, 68A Stat. 487; Aug. 11, 1955, ch. 805, § 2(a), 69 Stat. 690; Sept. 2, 1958, Pub. L. 85–859, title I, § 113(a), 72 Stat. 1278, imposed a tax equivalent to 10 percent of selling price on radio and television receiving sets, phonographs, radio, television, and phonograph combinations, components, and phonograph records, prior to repeal by Pub. L. 89–44, title II, § 204, June 21, 1965, 79 Stat. 140, applicable with respect to articles sold on or after June 22, 1965.
+Section 4141, acts Aug. 16, 1954, ch. 736, 68A Stat. 487; Aug. 11, 1955, ch. 805, § 2(a), 69 Stat. 690; Sept. 2, 1958, Pub. L. 85–859, title I, § 113(a), 72 Stat. 1278, imposed a tax equivalent to 10 percent of selling price on radio and television receiving sets, phonographs, radio, television, and phonograph combinations, components, and phonograph records, prior to repeal by Pub. L. 89–44, title II, § 204, June 21, 1965, 79 Stat. 140, applicable with respect to articles sold on or after June 22, 1965.
 
-Section 4142, acts Aug. 16, 1954, ch. 736, 68A Stat. 487; Sept. 2, 1958, Pub. L. 85–859, title I, § 113(a), 72 Stat. 1278; Oct. 13, 1964, Pub. L. 88–653, § 6(a), 78 Stat. 1086, defined “radio and television components” and provided formula to determine selling price of rebuilt television picture tubes, prior to repeal by Pub. L. 89–44, title II, § 204, June 21, 1965, 79 Stat. 140, applicable with respect to articles sold on or after June 22, 1965.
+Section 4142, acts Aug. 16, 1954, ch. 736, 68A Stat. 487; Sept. 2, 1958, Pub. L. 85–859, title I, § 113(a), 72 Stat. 1278; Oct. 13, 1964, Pub. L. 88–653, § 6(a), 78 Stat. 1086, defined “radio and television components” and provided formula to determine selling price of rebuilt television picture tubes, prior to repeal by Pub. L. 89–44, title II, § 204, June 21, 1965, 79 Stat. 140, applicable with respect to articles sold on or after June 22, 1965.
 
-Section 4143, Pub. L. 85–859, title I, § 113(a), Sept. 2, 1958, 72 Stat. 1278, granted an exemption for certain types of communication, detection, and navigation equipment and components, prior to repeal by Pub. L. 89–44, title II, § 204, June 21, 1965, 79 Stat. 140, applicable with respect to articles sold on or after June 22, 1965.
+Section 4143, Pub. L. 85–859, title I, § 113(a), Sept. 2, 1958, 72 Stat. 1278, granted an exemption for certain types of communication, detection, and navigation equipment and components, prior to repeal by Pub. L. 89–44, title II, § 204, June 21, 1965, 79 Stat. 140, applicable with respect to articles sold on or after June 22, 1965.
 
-Section 4151, act Aug. 16, 1954, ch. 736, 68A Stat. 488, imposed a tax equivalent to 10 percent of selling price upon the sale of musical instruments, prior to repeal by Pub. L. 89–44, title II, § 204, June 21, 1965, 79 Stat. 140, applicable with respect to articles sold on or after June 22, 1965.
+Section 4151, act Aug. 16, 1954, ch. 736, 68A Stat. 488, imposed a tax equivalent to 10 percent of selling price upon the sale of musical instruments, prior to repeal by Pub. L. 89–44, title II, § 204, June 21, 1965, 79 Stat. 140, applicable with respect to articles sold on or after June 22, 1965.
 
-Section 4152, act Aug. 16, 1954, ch. 736, 68A Stat. 488, related to exemption of musical instruments sold for religious or educational use, prior to repeal by Pub. L. 85–859, title I, § 119(b)(2), Sept. 2, 1958, 72 Stat. 1286, effective on the first day of the first calendar quarter which began more than 60 days after Sept. 2, 1958.
+Section 4152, act Aug. 16, 1954, ch. 736, 68A Stat. 488, related to exemption of musical instruments sold for religious or educational use, prior to repeal by Pub. L. 85–859, title I, § 119(b)(2), Sept. 2, 1958, 72 Stat. 1286, effective on the first day of the first calendar quarter which began more than 60 days after Sept. 2, 1958.
 
-### § 4131. Imposition of tax
+### § 4131. Imposition of tax
 
 **(a) General rule**
 
@@ -2610,7 +2610,7 @@ If any taxable vaccine is described in more than 1 subparagraph of section 4132(
 
 **(2)** during periods after the date of the enactment of the Revenue Reconciliation Act of 1993.
 
-(Added Pub. L. 100–203, title IX, § 9201(a), Dec. 22, 1987, 101 Stat. 1330–327; amended Pub. L. 103–66, title XIII, § 13421(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 105–34, title IX, § 904(a), Aug. 5, 1997, 111 Stat. 873.)
+(Added Pub. L. 100–203, title IX, § 9201(a), Dec. 22, 1987, 101 Stat. 1330–327; amended Pub. L. 103–66, title XIII, § 13421(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 105–34, title IX, § 904(a), Aug. 5, 1997, 111 Stat. 873.)
 
 **Editorial Notes**
 
@@ -2641,15 +2641,15 @@ The date of the enactment of the Revenue Reconciliation Act of 1993, referred to
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title IX, § 904(d), Aug. 5, 1997, 111 Stat. 874, provided that: “The amendments made by this section [amending this section and section 4132 of this title] shall take effect on the day after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title IX, § 904(d), Aug. 5, 1997, 111 Stat. 874, provided that: “The amendments made by this section [amending this section and section 4132 of this title] shall take effect on the day after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date**
 
-Pub. L. 100–203, title IX, § 9201(d), Dec. 22, 1987, 101 Stat. 1330–330, provided that: “The amendments made by this section [enacting this section and section 4132 of this title and amending sections 4221 and 6416 of this title] shall take effect on January 1, 1988.”
+Pub. L. 100–203, title IX, § 9201(d), Dec. 22, 1987, 101 Stat. 1330–330, provided that: “The amendments made by this section [enacting this section and section 4132 of this title and amending sections 4221 and 6416 of this title] shall take effect on January 1, 1988.”
 
 **Floor Stocks Tax**
 
-Pub. L. 103–66, title XIII, § 13421(c), Aug. 10, 1993, 107 Stat. 566, provided that:
+Pub. L. 103–66, title XIII, § 13421(c), Aug. 10, 1993, 107 Stat. 566, provided that:
 
 > **“(1) Imposition of tax.—** On any taxable vaccine—
 
@@ -2673,7 +2673,7 @@ Pub. L. 103–66, title XIII, § 13421(c), Aug. 10, 1993, 107 Stat. 566, provi
 
 > **“(4) Other laws applicable.—** All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4131 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 4131.”
 
-### § 4132. Definitions and special rules
+### § 4132. Definitions and special rules
 
 **(a) Definitions relating to taxable vaccines** For purposes of this subchapter—
 
@@ -2765,7 +2765,7 @@ In the case of a fraction of a dose, the tax imposed by section 4131 shall be th
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4131.
 
-(Added Pub. L. 100–203, title IX, § 9201(a), Dec. 22, 1987, 101 Stat. 1330–329; amended Pub. L. 100–647, title II, § 2006(a), Nov. 10, 1988, 102 Stat. 3612; Pub. L. 105–34, title IX, § 904(b), (c), Aug. 5, 1997, 111 Stat. 873, 874; Pub. L. 105–277, div. C, title XV, § 1503(a), div. J, title III, § 3002(a), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905; Pub. L. 106–170, title V, § 523(a)(1), (b)(1), Dec. 17, 1999, 113 Stat. 1927; Pub. L. 108–357, title VIII, §§ 889(a), 890(a), Oct. 22, 2004, 118 Stat. 1643, 1644; Pub. L. 109–432, div. A, title IV, § 408(a), (b), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–15, § 1(a), June 25, 2013, 127 Stat. 476.)
+(Added Pub. L. 100–203, title IX, § 9201(a), Dec. 22, 1987, 101 Stat. 1330–329; amended Pub. L. 100–647, title II, § 2006(a), Nov. 10, 1988, 102 Stat. 3612; Pub. L. 105–34, title IX, § 904(b), (c), Aug. 5, 1997, 111 Stat. 873, 874; Pub. L. 105–277, div. C, title XV, § 1503(a), div. J, title III, § 3002(a), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905; Pub. L. 106–170, title V, § 523(a)(1), (b)(1), Dec. 17, 1999, 113 Stat. 1927; Pub. L. 108–357, title VIII, §§ 889(a), 890(a), Oct. 22, 2004, 118 Stat. 1643, 1644; Pub. L. 109–432, div. A, title IV, § 408(a), (b), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–15, § 1(a), June 25, 2013, 127 Stat. 476.)
 
 **Editorial Notes**
 
@@ -2775,25 +2775,25 @@ The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply 
 
 2006—Subsec. (a)(1)(O), (P). Pub. L. 109–432 added subpars. (O) and (P).
 
-2004—Subsec. (a)(1)(I) to (M). Pub. L. 108–357, § 889(a), added subpar. (I) and redesignated former subpars. (I) to (L) as (J) to (M), respectively.
+2004—Subsec. (a)(1)(I) to (M). Pub. L. 108–357, § 889(a), added subpar. (I) and redesignated former subpars. (I) to (L) as (J) to (M), respectively.
 
-Subsec. (a)(1)(N). Pub. L. 108–357, § 890(a), added subpar. (N).
+Subsec. (a)(1)(N). Pub. L. 108–357, § 890(a), added subpar. (N).
 
-1999—Subsec. (a)(1)(K). Pub. L. 106–170, § 523(b)(1), repealed Pub. L. 105–277, § 1503(a). See 1998 Amendment note below.
+1999—Subsec. (a)(1)(K). Pub. L. 106–170, § 523(b)(1), repealed Pub. L. 105–277, § 1503(a). See 1998 Amendment note below.
 
-Subsec. (a)(1)(L). Pub. L. 106–170, § 523(a)(1), added subpar. (L).
+Subsec. (a)(1)(L). Pub. L. 106–170, § 523(a)(1), added subpar. (L).
 
-1998—Subsec. (a)(1)(K). Pub. L. 105–277, § 3002(a), added a subpar. (K) identical to that added by Pub. L. 105–277, § 1503(a). See below.
+1998—Subsec. (a)(1)(K). Pub. L. 105–277, § 3002(a), added a subpar. (K) identical to that added by Pub. L. 105–277, § 1503(a). See below.
 
-Pub. L. 105–277, § 1503(a), which directed amendment of section 4132(1) by adding a new subpar. (K) at the end, was repealed by Pub. L. 106–170, § 523(b)(1).
+Pub. L. 105–277, § 1503(a), which directed amendment of section 4132(1) by adding a new subpar. (K) at the end, was repealed by Pub. L. 106–170, § 523(b)(1).
 
-1997—Subsec. (a)(1). Pub. L. 105–34, § 904(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘taxable vaccine’ means any vaccine—
+1997—Subsec. (a)(1). Pub. L. 105–34, § 904(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘taxable vaccine’ means any vaccine—
 
 “(A) which is listed in the table contained in section 4131(b)(1), and
 
 “(B) which is manufactured or produced in the United States or entered into the United States for consumption, use, or warehousing.”
 
-Subsec. (a)(2) to (8). Pub. L. 105–34, § 904(c), redesignated pars. (6) to (8) as (2) to (4), respectively, and struck out former pars. (2) to (5) which read as follows:
+Subsec. (a)(2) to (8). Pub. L. 105–34, § 904(c), redesignated pars. (6) to (8) as (2) to (4), respectively, and struck out former pars. (2) to (5) which read as follows:
 
 “(2) DPT vaccine.—The term ‘DPT vaccine’ means any vaccine containing pertussis bacteria, extracted or partial cell bacteria, or specific pertussis antigens.
 
@@ -2809,7 +2809,7 @@ Subsec. (a)(2) to (8). Pub. L. 105–34, § 904(c), redesignated pars. (6) to 
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–15, § 1(b), June 25, 2013, 127 Stat. 476, provided that:
+Pub. L. 113–15, § 1(b), June 25, 2013, 127 Stat. 476, provided that:
 
 > **“(1) Sales, etc.—** The amendment made by this section [amending this section] shall apply to sales and uses on or after the later of—
 
@@ -2821,7 +2821,7 @@ Pub. L. 113–15, § 1(b), June 25, 2013, 127 Stat. 476, provided that:
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. A, title IV, § 408(c), Dec. 20, 2006, 120 Stat. 2962, provided that:
+Pub. L. 109–432, div. A, title IV, § 408(c), Dec. 20, 2006, 120 Stat. 2962, provided that:
 
 > **“(1) Sales, etc.—** The amendments made by this section [amending this section] shall apply to sales and uses on or after the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act [Dec. 20, 2006].
 
@@ -2829,13 +2829,13 @@ Pub. L. 109–432, div. A, title IV, § 408(c), Dec. 20, 2006, 120 Stat. 2962,
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 889(b), Oct. 22, 2004, 118 Stat. 1643, provided that:
+Pub. L. 108–357, title VIII, § 889(b), Oct. 22, 2004, 118 Stat. 1643, provided that:
 
 > **“(1) Sales, etc.—** The amendments made by subsection (a) [amending this section] shall apply to sales and uses on or after the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act [Oct. 22, 2004].
 
 > **“(2) Deliveries.—** For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
 
-Pub. L. 108–357, title VIII, § 890(b), Oct. 22, 2004, 118 Stat. 1644, provided that:
+Pub. L. 108–357, title VIII, § 890(b), Oct. 22, 2004, 118 Stat. 1644, provided that:
 
 > **“(1) Sales, etc.—** The amendment made by this section [amending this section] shall apply to sales and uses on or after the later of—
 
@@ -2847,17 +2847,17 @@ Pub. L. 108–357, title VIII, § 890(b), Oct. 22, 2004, 118 Stat. 1644, provi
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–170, title V, § 523(a)(2), Dec. 17, 1999, 113 Stat. 1927, provided that:
+Pub. L. 106–170, title V, § 523(a)(2), Dec. 17, 1999, 113 Stat. 1927, provided that:
 
 > **“(A) Sales.—** The amendment made by this subsection [amending this section] shall apply to vaccine sales after the date of the enactment of this Act [Dec. 17, 1999], but shall not take effect if subsection (b) [see note below] does not take effect.
 
 > **“(B) Deliveries.—** For purposes of subparagraph (A), in the case of sales on or before the date described in such subparagraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
 
-Pub. L. 106–170, title V, § 523(b)(3), Dec. 17, 1999, 113 Stat. 1928, provided that: “The amendments made by this subsection [amending this section and section 9510 of this title and repealing provisions set out as notes under this section and section 9510 of this title] shall take effect as if included in the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 [Pub. L. 105–277] to which they relate.”
+Pub. L. 106–170, title V, § 523(b)(3), Dec. 17, 1999, 113 Stat. 1928, provided that: “The amendments made by this subsection [amending this section and section 9510 of this title and repealing provisions set out as notes under this section and section 9510 of this title] shall take effect as if included in the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 [Pub. L. 105–277] to which they relate.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. C, title XV, § 1503(b), div. I, title III, § 3002(b), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905, which provided that amendment of this section by Pub. L. 105–277 was applicable to sales after Oct. 21, 1998, and that delivery date would be considered sale date in the case of sales on or before Oct. 21, 1998, was repealed by Pub. L. 106–170, title V, § 523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
+Pub. L. 105–277, div. C, title XV, § 1503(b), div. I, title III, § 3002(b), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905, which provided that amendment of this section by Pub. L. 105–277 was applicable to sales after Oct. 21, 1998, and that delivery date would be considered sale date in the case of sales on or before Oct. 21, 1998, was repealed by Pub. L. 106–170, title V, § 523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
 
 **Effective Date of 1997 Amendment**
 
@@ -2865,15 +2865,15 @@ Amendment by Pub. L. 105–34 effective on the day after Aug. 5, 1997, see secti
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title II, § 2006(c), Nov. 10, 1988, 102 Stat. 3613, provided that: “The amendments made by this section [amending this section and section 9510 of this title] shall take effect as if included in the amendments made by section 9201 of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203].”
+Pub. L. 100–647, title II, § 2006(c), Nov. 10, 1988, 102 Stat. 3613, provided that: “The amendments made by this section [amending this section and section 9510 of this title] shall take effect as if included in the amendments made by section 9201 of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203].”
 
 **Limitation on Certain Credits or Refunds**
 
-Pub. L. 105–34, title IX, § 904(e), Aug. 5, 1997, 111 Stat. 874, provided that: “For purposes of applying section 4132(b) of the Internal Revenue Code of 1986 with respect to any claim for credit or refund filed before January 1, 1999, the amount of tax taken into account shall not exceed the tax computed under the rate in effect on the day after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title IX, § 904(e), Aug. 5, 1997, 111 Stat. 874, provided that: “For purposes of applying section 4132(b) of the Internal Revenue Code of 1986 with respect to any claim for credit or refund filed before January 1, 1999, the amount of tax taken into account shall not exceed the tax computed under the rate in effect on the day after the date of the enactment of this Act [Aug. 5, 1997].”
 
 ## Subchapter D—Recreational Equipment
 
-1965—Pub. L. 89–44, title II, § 205(b), June 21, 1965, 79 Stat. 140, struck out item relating to part II.
+1965—Pub. L. 89–44, title II, § 205(b), June 21, 1965, 79 Stat. 140, struck out item relating to part II.
 
 ### PART I—SPORTING GOODS
 
@@ -2881,9 +2881,9 @@ Pub. L. 105–34, title IX, § 904(e), Aug. 5, 1997, 111 Stat. 874, provided t
 
 **Amendments**
 
-1984—Pub. L. 98–369, div. A, title X, § 1015(d), July 18, 1984, 98 Stat. 1019, added item 4162.
+1984—Pub. L. 98–369, div. A, title X, § 1015(d), July 18, 1984, 98 Stat. 1019, added item 4162.
 
-#### § 4161. Imposition of tax
+#### § 4161. Imposition of tax
 
 **(a) Sport fishing equipment**
 
@@ -2957,7 +2957,7 @@ If any increase determined under clause (i) is not a multiple of 1 cent, such in
 
 No tax shall be imposed under this subsection with respect to any article taxable under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, § 205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, § 201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§ 1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub. L. 99–514, title XVIII, § 1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, § 1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§ 332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, § 1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, § 11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, § 412(uu), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. C, title V, § 503(a), Oct. 3, 2008, 122 Stat. 3877; Pub. L. 115–97, title I, § 11002(d)(11), Dec. 22, 2017, 131 Stat. 2062.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, § 205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, § 201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§ 1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub. L. 99–514, title XVIII, § 1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, § 1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§ 332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, § 1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, § 11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, § 412(uu), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. C, title V, § 503(a), Oct. 3, 2008, 122 Stat. 3877; Pub. L. 115–97, title I, § 11002(d)(11), Dec. 22, 2017, 131 Stat. 2062.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -2971,7 +2971,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 2008—Subsec. (b)(2)(B), (C). Pub. L. 110–343 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-2005—Subsec. (a)(1). Pub. L. 109–59, § 11117(a), reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
+2005—Subsec. (a)(1). Pub. L. 109–59, § 11117(a), reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
 
 Subsec. (a)(2). Pub. L. 109–135 amended heading and text of par. (2) generally. Prior to amendment, text read as follows:
 
@@ -2979,37 +2979,37 @@ Subsec. (a)(2). Pub. L. 109–135 amended heading and text of par. (2) generally
 
 “(B) $30 limitation on tax imposed on sonar devices suitable for finding fish.—The tax imposed by paragraph (1)(A) on any sonar device suitable for finding fish shall not exceed $30.”
 
-Pub. L. 109–59, § 11117(b), substituted “paragraph (1)(A)” for “paragraph (1)” in two places.
+Pub. L. 109–59, § 11117(b), substituted “paragraph (1)(A)” for “paragraph (1)” in two places.
 
-2004—Subsec. (a)(3), (4). Pub. L. 108–357, § 333(a), added par. (3) and redesignated former par. (3) as (4).
+2004—Subsec. (a)(3), (4). Pub. L. 108–357, § 333(a), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(1). Pub. L. 108–357, § 332(a), reenacted heading without change and amended text of par. (1) generally, substituting provisions imposing a tax on the sale of any bow which has a peak draw weight of 30 pounds or more, any part or accessory, and any quiver or broadhead suitable for use with an arrow described in par. (2), for provisions imposing a tax on the sale of any bow which has a draw weight of 10 pounds or more, any part of accessory, and any quiver suitable for use with arrows described in par. (2).
+Subsec. (b)(1). Pub. L. 108–357, § 332(a), reenacted heading without change and amended text of par. (1) generally, substituting provisions imposing a tax on the sale of any bow which has a peak draw weight of 30 pounds or more, any part or accessory, and any quiver or broadhead suitable for use with an arrow described in par. (2), for provisions imposing a tax on the sale of any bow which has a draw weight of 10 pounds or more, any part of accessory, and any quiver suitable for use with arrows described in par. (2).
 
-Subsec. (b)(1)(B)(ii). Pub. L. 108–493, § 1(c), substituted “quiver, broadhead, or point” for “quiver or broadhead”.
+Subsec. (b)(1)(B)(ii). Pub. L. 108–493, § 1(c), substituted “quiver, broadhead, or point” for “quiver or broadhead”.
 
-Subsec. (b)(2). Pub. L. 108–493, § 1(b), amended heading and text of par. (2) generally, substituting provisions relating to arrows for provisions relating to arrow components.
+Subsec. (b)(2). Pub. L. 108–493, § 1(b), amended heading and text of par. (2) generally, substituting provisions relating to arrows for provisions relating to arrow components.
 
-Pub. L. 108–357, § 332(c), substituted “Arrow components” for “Arrows” in heading and inserted “(other than broadheads)” after “point” in introductory provisions.
+Pub. L. 108–357, § 332(c), substituted “Arrow components” for “Arrows” in heading and inserted “(other than broadheads)” after “point” in introductory provisions.
 
-Subsec. (b)(3), (4). Pub. L. 108–493, § 1(a), repealed Pub. L. 108–357, § 332(b). See note below.
+Subsec. (b)(3), (4). Pub. L. 108–493, § 1(a), repealed Pub. L. 108–357, § 332(b). See note below.
 
-Pub. L. 108–357, § 332(b), which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by Pub. L. 108–493, § 1(a). See Construction of 2004 Amendment note below.
+Pub. L. 108–357, § 332(b), which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by Pub. L. 108–493, § 1(a). See Construction of 2004 Amendment note below.
 
 1997—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
 
 1986—Subsec. (b)(1)(B)(ii). Pub. L. 99–514 substituted a comma for the period at end.
 
-1984—Subsec. (a). Pub. L. 98–369, § 1015(a), in amending subsec. (a) generally, designated existing provisions as par. (1), substituted “any article of sport fishing equipment by the manufacturer, producer, or importer” for “fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer”, and added pars. (2) and (3).
+1984—Subsec. (a). Pub. L. 98–369, § 1015(a), in amending subsec. (a) generally, designated existing provisions as par. (1), substituted “any article of sport fishing equipment by the manufacturer, producer, or importer” for “fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer”, and added pars. (2) and (3).
 
-Subsec. (b)(1)(B). Pub. L. 98–369, § 1017(a), designated existing provisions as cl. (i) and added cl. (ii).
+Subsec. (b)(1)(B). Pub. L. 98–369, § 1017(a), designated existing provisions as cl. (i) and added cl. (ii).
 
-Subsec. (b)(2)(A). Pub. L. 98–369, § 1017(b)(2), struck out “(other than a fishing reel)” after “part or accessory”.
+Subsec. (b)(2)(A). Pub. L. 98–369, § 1017(b)(2), struck out “(other than a fishing reel)” after “part or accessory”.
 
-Subsec. (b)(3). Pub. L. 98–369, § 1017(b)(1), added par. (3).
+Subsec. (b)(3). Pub. L. 98–369, § 1017(b)(1), added par. (3).
 
-1972—Subsec. (a). Pub. L. 92–558, § 201(a)(1), designated existing provisions as subsec. (a) and inserted catchline.
+1972—Subsec. (a). Pub. L. 92–558, § 201(a)(1), designated existing provisions as subsec. (a) and inserted catchline.
 
-Subsec. (b). Pub. L. 92–558, § 201(a)(2), added subsec. (b).
+Subsec. (b). Pub. L. 92–558, § 201(a)(2), added subsec. (b).
 
 1965—Pub. L. 89–44 removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
 
@@ -3021,37 +3021,37 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–343, div. C, title V, § 503(b), Oct. 3, 2008, 122 Stat. 3877, provided that: “The amendments made by this section [amending this section] shall apply to shafts first sold after the date of enactment of this Act [Oct. 3, 2008].”
+Pub. L. 110–343, div. C, title V, § 503(b), Oct. 3, 2008, 122 Stat. 3877, provided that: “The amendments made by this section [amending this section] shall apply to shafts first sold after the date of enactment of this Act [Oct. 3, 2008].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11117(c), Aug. 10, 2005, 119 Stat. 1951, provided that: “The amendments made by this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 2005.”
+Pub. L. 109–59, title XI, § 11117(c), Aug. 10, 2005, 119 Stat. 1951, provided that: “The amendments made by this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 2005.”
 
 **Effective Date of 2004 Amendments**
 
-Pub. L. 108–493, § 1(d), Dec. 23, 2004, 118 Stat. 3985, provided that: “The amendments made by subsections (b) and (c) [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after March 31, 2005.”
+Pub. L. 108–493, § 1(d), Dec. 23, 2004, 118 Stat. 3985, provided that: “The amendments made by subsections (b) and (c) [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after March 31, 2005.”
 
-Pub. L. 108–357, title III, § 332(d), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made by this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after the date which is 30 days after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title III, § 332(d), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made by this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after the date which is 30 days after the date of the enactment of this Act [Oct. 22, 2004].”
 
-Pub. L. 108–357, title III, § 333(b), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004.”
+Pub. L. 108–357, title III, § 333(b), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1433(b), Aug. 5, 1997, 111 Stat. 1052, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 1997.”
+Pub. L. 105–34, title XIV, § 1433(b), Aug. 5, 1997, 111 Stat. 1052, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 1997.”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by section 1015(a) of Pub. L. 98–369 applicable with respect to articles sold by the manufacturer, producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
 
-Pub. L. 98–369, div. A, title X, § 1017(c), July 18, 1984, 98 Stat. 1021, provided that: “The amendments made by this section [amending this section] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.”
+Pub. L. 98–369, div. A, title X, § 1017(c), July 18, 1984, 98 Stat. 1021, provided that: “The amendments made by this section [amending this section] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.”
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–558, title II, § 201(b), Oct. 25, 1972, 86 Stat. 1173, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply with respect to articles sold by the manufacturer, producer, or importer thereof on or after January 1, 1975.”
+Pub. L. 92–558, title II, § 201(b), Oct. 25, 1972, 86 Stat. 1173, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply with respect to articles sold by the manufacturer, producer, or importer thereof on or after January 1, 1975.”
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VII, § 701(a), June 21, 1965, 79 Stat. 155, provided that:
+Pub. L. 89–44, title VII, § 701(a), June 21, 1965, 79 Stat. 155, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by titles I and II of this Act [enacting sections 4094 and 6424 of this title, amending this section and sections 4055, 4057, 4061, 4091, 4216, 4218, 4221, 4222, 4227, 6011, 6206, 6412, 6416, 6675, 7210, 7603, 7604, and 7605 of this title, repealing sections 4001 to 4003, 4011 to 4013, 4021, 4022, 4031, 4051 to 4053, 4111, 4121, 4131, 4141 to 4143, 4151, 4171 to 4173, 4191, 4192, 4201, 4211, and 4224 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act [June 21, 1965].
 
@@ -3073,9 +3073,9 @@ Pub. L. 89–44, title VII, § 701(a), June 21, 1965, 79 Stat. 155, provided t
 
 **Construction of 2004 Amendment**
 
-Pub. L. 108–493, § 1(a), Dec. 23, 2004, 118 Stat. 3984, provided that: “Subsection (b) of section 332 of the American Jobs Creation Act of 2004 [Pub. L. 108–357], and the amendments made by such subsection [amending this section], are hereby repealed; and the Internal Revenue Code of 1986 shall be applied as if such subsection and amendments had never been enacted.”
+Pub. L. 108–493, § 1(a), Dec. 23, 2004, 118 Stat. 3984, provided that: “Subsection (b) of section 332 of the American Jobs Creation Act of 2004 [Pub. L. 108–357], and the amendments made by such subsection [amending this section], are hereby repealed; and the Internal Revenue Code of 1986 shall be applied as if such subsection and amendments had never been enacted.”
 
-#### § 4162. Definitions; treatment of certain resales
+#### § 4162. Definitions; treatment of certain resales
 
 **(a) Sport fishing equipment defined** For purposes of this part, the term “sport fishing equipment” means—
 
@@ -3167,15 +3167,15 @@ For purposes of this subsection, the term “related person” has the meaning g
 
 Except to the extent provided in regulations, rules similar to the rules of this subsection shall also apply in cases (not described in paragraph (1)) in which intermediaries or other devices are used for purposes of reducing the amount of the tax imposed by section 4161(a).
 
-(Added Pub. L. 98–369, div. A, title X, § 1015(b), July 18, 1984, 98 Stat. 1017; amended Pub. L. 99–514, title II, § 201(d)(7)(C), (12), title XVIII, § 1878(b), Oct. 22, 1986, 100 Stat. 2141, 2142, 2903; Pub. L. 108–357, title III, § 334(a), (b), Oct. 22, 2004, 118 Stat. 1478.)
+(Added Pub. L. 98–369, div. A, title X, § 1015(b), July 18, 1984, 98 Stat. 1017; amended Pub. L. 99–514, title II, § 201(d)(7)(C), (12), title XVIII, § 1878(b), Oct. 22, 1986, 100 Stat. 2141, 2142, 2903; Pub. L. 108–357, title III, § 334(a), (b), Oct. 22, 2004, 118 Stat. 1478.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a)(8) to (10). Pub. L. 108–357, § 334(a), inserted “and” at end of par. (8), substituted a period for “, and” at end of par. (9), and struck out par. (10) which read as follows: “sonar devices suitable for finding fish.”
+2004—Subsec. (a)(8) to (10). Pub. L. 108–357, § 334(a), inserted “and” at end of par. (8), substituted a period for “, and” at end of par. (9), and struck out par. (10) which read as follows: “sonar devices suitable for finding fish.”
 
-Subsecs. (b), (c). Pub. L. 108–357, § 334(b), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “For purposes of this part, the term ‘sonar device suitable for finding fish’ shall not include any sonar device which is—
+Subsecs. (b), (c). Pub. L. 108–357, § 334(b), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “For purposes of this part, the term ‘sonar device suitable for finding fish’ shall not include any sonar device which is—
 
 “(1) a graph recorder,
 
@@ -3185,15 +3185,15 @@ Subsecs. (b), (c). Pub. L. 108–357, § 334(b), redesignated subsec. (c) as (
 
 “(4) a combination graph recorder or combination meter readout.”
 
-1986—Subsec. (a)(6)(I). Pub. L. 99–514, § 1878(b), amended subpar. (I) generally, substituting “hook” for “hood”.
+1986—Subsec. (a)(6)(I). Pub. L. 99–514, § 1878(b), amended subpar. (I) generally, substituting “hook” for “hood”.
 
-Subsec. (c)(3). Pub. L. 99–514, § 201(d)(7)(C), (12), made identical amendments, substituting “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
+Subsec. (c)(3). Pub. L. 99–514, § 201(d)(7)(C), (12), made identical amendments, substituting “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title III, § 334(c), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004.”
+Pub. L. 108–357, title III, § 334(c), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004.”
 
 **Effective Date of 1986 Amendment**
 
@@ -3205,19 +3205,19 @@ Amendment by section 1878(b) of Pub. L. 99–514 effective, except as otherwise 
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title X, § 1015(e), July 18, 1984, 98 Stat. 1019, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, § 1015(e), July 18, 1984, 98 Stat. 1019, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending sections 4161 and 6302 of this title] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.
 
 > **“(2) Treatment of certain resales.—** Subsection (c) of section 4162 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to treatment of certain resales), as added by this section, shall apply to sales by related persons (as defined in such subsection) after the date of the enactment of this Act [July 18, 1984].”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 ### [PART II—REPEALED]
 
-#### [§§ 4171 to 4173. Repealed. Pub. L. 89–44, title II, § 205(b), June 21, 1965, 79 Stat. 140]
+#### [§§ 4171 to 4173. Repealed. Pub. L. 89–44, title II, § 205(b), June 21, 1965, 79 Stat. 140]
 
 Section 4171, act Aug. 16, 1954, ch. 736, 68A Stat. 489, imposed a 10 percent tax on cameras, camera lenses, and unexposed photographic film on rolls and a 5 percent tax on electric motion or still picture projectors of the household type.
 
@@ -3233,7 +3233,7 @@ Repeal applicable with respect to articles sold on or after June 22, 1965, see s
 
 ### PART III—FIREARMS
 
-#### § 4181. Imposition of tax
+#### § 4181. Imposition of tax
 
 There is hereby imposed upon the sale by the manufacturer, producer, or importer of the following articles a tax equivalent to the specified percent of the price for which so sold:
 
@@ -3251,7 +3251,7 @@ Shells, and cartridges.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 490.)
 
-#### § 4182. Exemptions
+#### § 4182. Exemptions
 
 **(a) Machine guns and short barrelled firearms**
 
@@ -3275,7 +3275,7 @@ All persons treated as a single employer for purposes of subsection (a) or (b) o
 
 Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, United States Code, no person holding a Federal license under chapter 44 of title 18, United States Code, shall be required to record the name, address, or other information about the purchaser of shotgun ammunition, ammunition suitable for use only in rifles generally available in commerce, or component parts for the aforesaid types of ammunition.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 490; Pub. L. 91–128, § 5, Nov. 26, 1969, 83 Stat. 269; Pub. L. 109–59, title XI, § 11131(a), Aug. 10, 2005, 119 Stat. 1959; Pub. L. 119–21, title VII, § 70436(c), July 4, 2025, 139 Stat. 247.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 490; Pub. L. 91–128, § 5, Nov. 26, 1969, 83 Stat. 269; Pub. L. 109–59, title XI, § 11131(a), Aug. 10, 2005, 119 Stat. 1959; Pub. L. 119–21, title VII, § 70436(c), July 4, 2025, 139 Stat. 247.)
 
 **Editorial Notes**
 
@@ -3291,11 +3291,11 @@ Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, Uni
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70436(d), July 4, 2025, 139 Stat. 248, provided that: “The amendments made by this section [amending this section and sections 5811 and 5821 of this title] shall apply to calendar quarters beginning more than 90 days after the date of the enactment of this Act [July 4, 2025].”
+Pub. L. 119–21, title VII, § 70436(d), July 4, 2025, 139 Stat. 248, provided that: “The amendments made by this section [amending this section and sections 5811 and 5821 of this title] shall apply to calendar quarters beginning more than 90 days after the date of the enactment of this Act [July 4, 2025].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11131(b), Aug. 10, 2005, 119 Stat. 1959, provided that:
+Pub. L. 109–59, title XI, § 11131(b), Aug. 10, 2005, 119 Stat. 1959, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 2005.
 
@@ -3303,7 +3303,7 @@ Pub. L. 109–59, title XI, § 11131(b), Aug. 10, 2005, 119 Stat. 1959, provid
 
 **Short Title of 1969 Amendment**
 
-Pub. L. 91–128, § 1(a), Nov. 26, 1969, 83 Stat. 261, provided that: “This Act [amending this section and sections 4911, 4912, 4914, 4915, 4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under section 6680 of this title] may be cited as the ‘Interest Equalization Tax Extension Act of 1969’.”
+Pub. L. 91–128, § 1(a), Nov. 26, 1969, 83 Stat. 261, provided that: “This Act [amending this section and sections 4911, 4912, 4914, 4915, 4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under section 6680 of this title] may be cited as the ‘Interest Equalization Tax Extension Act of 1969’.”
 
 ## [Subchapter E—Repealed]
 
@@ -3311,19 +3311,19 @@ Pub. L. 91–128, § 1(a), Nov. 26, 1969, 83 Stat. 261, provided that: “This
 
 **Prior Provisions**
 
-A prior subchapter E consisted of sections 4191, 4192, 4201, and 4211 of this title, prior to repeal by Pub. L. 89–44, title II, § 206, title VII, § 701(a), June 21, 1965, 79 Stat. 140, 155, applicable with respect to articles sold on or after June 22, 1965.
+A prior subchapter E consisted of sections 4191, 4192, 4201, and 4211 of this title, prior to repeal by Pub. L. 89–44, title II, § 206, title VII, § 701(a), June 21, 1965, 79 Stat. 140, 155, applicable with respect to articles sold on or after June 22, 1965.
 
 Section 4191, act Aug. 16, 1954, ch. 736, 68A Stat. 491, imposed a tax equivalent to 10 percent of the selling price upon over fifty specified office and business machines including adding machines, bookkeeping machines, cash registers, punch card and computing machines, typewriters, and tabulating machines.
 
-Section 4192, acts Aug. 16, 1954, ch. 736, 68A Stat. 491; Sept. 2, 1958, Pub. L. 85–859, title I, § 114(a), 72 Stat. 1278, granted an exemption for cash registers used in registering over-the-counter retail sales and for stencil cutting machines.
+Section 4192, acts Aug. 16, 1954, ch. 736, 68A Stat. 491; Sept. 2, 1958, Pub. L. 85–859, title I, § 114(a), 72 Stat. 1278, granted an exemption for cash registers used in registering over-the-counter retail sales and for stencil cutting machines.
 
-Section 4201, acts Aug. 16, 1954, ch. 736, 68A Stat. 492; Sept. 14, 1960, Pub. L. 86–779, § 9(a), 74 Stat. 1003, imposed a tax equivalent to 10 percent of the selling price on mechanical pencils, fountain pens, and ballpoint pens and 10 cents on mechanical cigarette lighters.
+Section 4201, acts Aug. 16, 1954, ch. 736, 68A Stat. 492; Sept. 14, 1960, Pub. L. 86–779, § 9(a), 74 Stat. 1003, imposed a tax equivalent to 10 percent of the selling price on mechanical pencils, fountain pens, and ballpoint pens and 10 cents on mechanical cigarette lighters.
 
 Section 4211, act Aug. 16, 1954, ch. 736, 68A Stat. 492, imposed a tax of 2 cents per 1,000 for matches, except fancy wooden matches, and a tax of 5½ cents per 1,000 on fancy wooden matches.
 
-### [§ 4191. Repealed. Pub. L. 116–94, div. N, title I, § 501(a), Dec. 20, 2019, 133 Stat. 3118]
+### [§ 4191. Repealed. Pub. L. 116–94, div. N, title I, § 501(a), Dec. 20, 2019, 133 Stat. 3118]
 
-Section, added Pub. L. 111–152, title I, § 1405(a)(1), Mar. 30, 2010, 124 Stat. 1064; amended Pub. L. 114–113, div. Q, title I, § 174(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–120, div. D, § 4001(a), Jan. 22, 2018, 132 Stat. 38, imposed on the sale of any taxable medical device by the manufacturer, producer, or importer a tax equal to 2.3 percent of the price for which so sold.
+Section, added Pub. L. 111–152, title I, § 1405(a)(1), Mar. 30, 2010, 124 Stat. 1064; amended Pub. L. 114–113, div. Q, title I, § 174(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–120, div. D, § 4001(a), Jan. 22, 2018, 132 Stat. 38, imposed on the sale of any taxable medical device by the manufacturer, producer, or importer a tax equal to 2.3 percent of the price for which so sold.
 
 For prior sections 4191, 4192, 4201, and 4211, see Prior Provisions note set out preceding this section.
 
@@ -3339,11 +3339,11 @@ Repeal applicable to sales after Dec. 31, 2019, see section 501(d) of Pub. L. 11
 
 **Amendments**
 
-1958—Pub. L. 85–859, title I, §§ 117(d), 119(b)(3), Sept. 2, 1958, 72 Stat. 1281, 1286, substituted “Leases” for “Lease considered sale” in item 4217, and struck out items 4220 to 4225.
+1958—Pub. L. 85–859, title I, §§ 117(d), 119(b)(3), Sept. 2, 1958, 72 Stat. 1281, 1286, substituted “Leases” for “Lease considered sale” in item 4217, and struck out items 4220 to 4225.
 
-1956—Act June 29, 1956, ch. 462, title II, § 207(b), 70 Stat. 392, added item 4226 and redesignated former item 4226 as 4227.
+1956—Act June 29, 1956, ch. 462, title II, § 207(b), 70 Stat. 392, added item 4226 and redesignated former item 4226 as 4227.
 
-### § 4216. Definition of price
+### § 4216. Definition of price
 
 **(a) Containers, packing and transportation charges.**
 
@@ -3447,71 +3447,71 @@ Except to the extent provided by paragraphs (1) and (2), no charge or expenditur
 
 **(C)** is broadcast over a radio station or television station, appears in a newspaper or magazine, or is displayed by means of an outdoor advertising sign or poster.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 493; Aug. 9, 1955, ch. 677, §§ 1, 2, 69 Stat. 613; Pub. L. 85–859, title I, §§ 115, 116, 117(b), Sept. 2, 1958, 72 Stat. 1279–1281; Pub. L. 86–781, § 1, Sept. 14, 1960, 74 Stat. 1017; Pub. L. 87–770, § 2(a), Oct. 9, 1962, 76 Stat. 768; Pub. L. 87–858, § 1(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 89–44, title II, §§ 207(a), (b), 208(a), (b), title VIII, § 801(b), June 21, 1965, 79 Stat. 140, 141, 158; Pub. L. 91–172, title IX, § 932(a), Dec. 30, 1969, 83 Stat. 725; Pub. L. 91–614, title III, § 301(a), (b), Dec. 31, 1970, 84 Stat. 1844; Pub. L. 92–178, title IV, § 401(g)(4), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–455, title XIX, §§ 1904(a)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 95–458, § 1(a), (b), Oct. 14, 1978, 92 Stat. 1255; Pub. L. 98–369, div. A, title VII, § 735(c)(6), July 18, 1984, 98 Stat. 982.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 493; Aug. 9, 1955, ch. 677, §§ 1, 2, 69 Stat. 613; Pub. L. 85–859, title I, §§ 115, 116, 117(b), Sept. 2, 1958, 72 Stat. 1279–1281; Pub. L. 86–781, § 1, Sept. 14, 1960, 74 Stat. 1017; Pub. L. 87–770, § 2(a), Oct. 9, 1962, 76 Stat. 768; Pub. L. 87–858, § 1(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 89–44, title II, §§ 207(a), (b), 208(a), (b), title VIII, § 801(b), June 21, 1965, 79 Stat. 140, 141, 158; Pub. L. 91–172, title IX, § 932(a), Dec. 30, 1969, 83 Stat. 725; Pub. L. 91–614, title III, § 301(a), (b), Dec. 31, 1970, 84 Stat. 1844; Pub. L. 92–178, title IV, § 401(g)(4), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–455, title XIX, §§ 1904(a)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 95–458, § 1(a), (b), Oct. 14, 1978, 92 Stat. 1255; Pub. L. 98–369, div. A, title VII, § 735(c)(6), July 18, 1984, 98 Stat. 982.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (b)(1). Pub. L. 98–369, § 735(c)(6)(A), in provisions following subpar. (C) struck out “(other than an article the sale of which is taxable under section 4061(a))” in second sentence, before “the computation under the preceding sentence”, and struck out provision that in the case of an article the sale of which is taxable under section 4061(a) and which is sold at retail, the computation under the first sentence of this paragraph shall be a percentage (not greater than 100 percent) of the actual selling price based on the highest price for which such articles are sold by manufacturers and producers in the ordinary course of trade (determined without regard to any individual manufacturer’s or producer’s cost).
+1984—Subsec. (b)(1). Pub. L. 98–369, § 735(c)(6)(A), in provisions following subpar. (C) struck out “(other than an article the sale of which is taxable under section 4061(a))” in second sentence, before “the computation under the preceding sentence”, and struck out provision that in the case of an article the sale of which is taxable under section 4061(a) and which is sold at retail, the computation under the first sentence of this paragraph shall be a percentage (not greater than 100 percent) of the actual selling price based on the highest price for which such articles are sold by manufacturers and producers in the ordinary course of trade (determined without regard to any individual manufacturer’s or producer’s cost).
 
-Subsec. (b)(2)(B) to (D). Pub. L. 98–369, § 735(c)(6)(B), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which related to articles upon which tax is imposed under section 4061(a) of this title.
+Subsec. (b)(2)(B) to (D). Pub. L. 98–369, § 735(c)(6)(B), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which related to articles upon which tax is imposed under section 4061(a) of this title.
 
-Subsec. (b)(3). Pub. L. 98–369, § 735(c)(6)(D), substituted “paragraph (4)” for “paragraphs (4) and (5)”.
+Subsec. (b)(3). Pub. L. 98–369, § 735(c)(6)(D), substituted “paragraph (4)” for “paragraphs (4) and (5)”.
 
-Subsec. (b)(5), (6). Pub. L. 98–369, § 735(c)(6)(C), (E), redesignated par. (6) as par. (5), substituted “(1) and (3)” for “(1), (3) and (5)”, and struck out former par. (5) which related to constructive sale price in the case of automobiles, trucks, etc.
+Subsec. (b)(5), (6). Pub. L. 98–369, § 735(c)(6)(C), (E), redesignated par. (6) as par. (5), substituted “(1) and (3)” for “(1), (3) and (5)”, and struck out former par. (5) which related to constructive sale price in the case of automobiles, trucks, etc.
 
-Subsec. (f). Pub. L. 98–369, § 735(c)(6)(F), struck out subsec. (f) which related to certain trucks incorporating used components.
+Subsec. (f). Pub. L. 98–369, § 735(c)(6)(F), struck out subsec. (f) which related to certain trucks incorporating used components.
 
 1978—Subsec. (b)(1). Pub. L. 95–458 substituted “article sold at retail (other than an article the sale of which is taxable under section 4061(a)), the computation” for “article sold at retail, the computation” and inserted provision requiring the computation of tax on articles taxable under section 4061(a) which are sold at retail to be a percentage, but not greater than 100% of the actual selling price based on the highest price for which the articles are sold by manufacturers and producers in the ordinary course of trade, determined without regard to individual manufacturer’s or producer’s cost.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, §§ 1904(a)(2)(B), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in two places in par. (1), and substituted “subsections (a) and (e)” for “subsections (a) and (f)” in pars. (3), (4), and (5), after “or readjustments under”.
+Subsec. (b). Pub. L. 94–455, §§ 1904(a)(2)(B), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in two places in par. (1), and substituted “subsections (a) and (e)” for “subsections (a) and (f)” in pars. (3), (4), and (5), after “or readjustments under”.
 
-Subsecs. (d) to (g). Pub. L. 94–455, § 1904(a)(2)(A), redesignated subsecs. (e) to (g) as (d) to (f), respectively.
+Subsecs. (d) to (g). Pub. L. 94–455, § 1904(a)(2)(A), redesignated subsecs. (e) to (g) as (d) to (f), respectively.
 
-1971—Subsec. (b)(2)(C), (5). Pub. L. 92–178, § 401(g)(4)(A), substituted “(relating to trucks, buses, tractor, etc.)” for “(relating to automobiles, trucks, etc.)”.
+1971—Subsec. (b)(2)(C), (5). Pub. L. 92–178, § 401(g)(4)(A), substituted “(relating to trucks, buses, tractor, etc.)” for “(relating to automobiles, trucks, etc.)”.
 
-Subsec. (g). Pub. L. 92–178, § 401(g)(4)(B), inserted reference to “tractors,” after “buses,”.
+Subsec. (g). Pub. L. 92–178, § 401(g)(4)(B), inserted reference to “tractors,” after “buses,”.
 
-1970—Subsec. (b)(3). Pub. L. 91–614, § 301(b), substituted “Constructive sale price” for “Fair market price” in heading, “constructive sale price” for “fair market price” three places in text, substituted “paragraphs (4) and (5)” for “paragraph (4)” and “paragraph (1)” for “paragraph (1)(C)”.
+1970—Subsec. (b)(3). Pub. L. 91–614, § 301(b), substituted “Constructive sale price” for “Fair market price” in heading, “constructive sale price” for “fair market price” three places in text, substituted “paragraphs (4) and (5)” for “paragraph (4)” and “paragraph (1)” for “paragraph (1)(C)”.
 
-Subsec. (b)(4). Pub. L. 91–614, § 301(b)(2), substituted “Constructive sale price” for “Fair market price” in heading, “constructive sale price” for “fair market price” in text, and “paragraph (1)” for “paragraph (1)(C)”.
+Subsec. (b)(4). Pub. L. 91–614, § 301(b)(2), substituted “Constructive sale price” for “Fair market price” in heading, “constructive sale price” for “fair market price” in text, and “paragraph (1)” for “paragraph (1)(C)”.
 
-Subsec. (b)(5), (6). Pub. L. 91–614, § 301(a), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 91–614, § 301(a), added pars. (5) and (6).
 
 1969—Subsec. (b)(3), (4). Pub. L. 91–172 added pars. (3) and (4).
 
-1965—Subsec. (b)(2). Pub. L. 89–44, § 208(a), struck out reference to special dealers and to articles upon which tax is imposed under section 4191 or 4211 of this title.
+1965—Subsec. (b)(2). Pub. L. 89–44, § 208(a), struck out reference to special dealers and to articles upon which tax is imposed under section 4191 or 4211 of this title.
 
-Subsec. (b)(3). Pub. L. 89–44, § 208(b), struck out par. (3) which related to special dealers.
+Subsec. (b)(3). Pub. L. 89–44, § 208(b), struck out par. (3) which related to special dealers.
 
-Subsec. (c). Pub. L. 89–44, § 207(a), struck out “that portion of the total tax which is proportionate to the portion of the total amount to be paid represented by such payment” in text following par. (4) and inserted in lieu thereof “a percentage of such payment equal to the rate of tax in effect on the date such payment is due”.
+Subsec. (c). Pub. L. 89–44, § 207(a), struck out “that portion of the total tax which is proportionate to the portion of the total amount to be paid represented by such payment” in text following par. (4) and inserted in lieu thereof “a percentage of such payment equal to the rate of tax in effect on the date such payment is due”.
 
-Subsec. (e)(1). Pub. L. 89–44, § 207(b)(1), substituted “total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)) for “total tax”.
+Subsec. (e)(1). Pub. L. 89–44, § 207(b)(1), substituted “total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)) for “total tax”.
 
-Subsec. (e)(2). Pub. L. 89–44, § 207(b)(2), substituted, as factor (A) in the formula for computing the maximum amount, the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment for the amount for which such accounts are sold, and, as factor (B) in the formula, the rate of tax on the date that such unpaid installment payment is or was due for the rate of tax which applied on the day on which the transaction giving rise to such installment accounts took place.
+Subsec. (e)(2). Pub. L. 89–44, § 207(b)(2), substituted, as factor (A) in the formula for computing the maximum amount, the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment for the amount for which such accounts are sold, and, as factor (B) in the formula, the rate of tax on the date that such unpaid installment payment is or was due for the rate of tax which applied on the day on which the transaction giving rise to such installment accounts took place.
 
-Subsec. (g). Pub. L. 89–44, § 801(b), added subsec. (g).
+Subsec. (g). Pub. L. 89–44, § 801(b), added subsec. (g).
 
 1962—Subsec. (b)(2)(C). Pub. L. 87–858 inserted “in the case of articles upon which tax is imposed under section 4061(a) (relating to automobiles, trucks, etc.), 4191 (relating to business machines), or 4211 (relating to matches),” before “the normal method”.
 
-Subsec. (f)(4)(C). Pub. L. 87–770 substituted “, appears in a newspaper or magazine, or is displayed by means of an outdoor advertising sign or poster” for “or appears in a newspaper”.
+Subsec. (f)(4)(C). Pub. L. 87–770 substituted “, appears in a newspaper or magazine, or is displayed by means of an outdoor advertising sign or poster” for “or appears in a newspaper”.
 
 1960—Subsec. (f). Pub. L. 86–781 added subsec. (f).
 
-1958—Subsec. (b). Pub. L. 85–859, § 115, inserted provisions in par. (1) requiring, in the case of an article sold at retail, the computation to be on either the price for which the article is sold, or the highest price for which the articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, whichever is lower, and added pars. (2) and (3).
+1958—Subsec. (b). Pub. L. 85–859, § 115, inserted provisions in par. (1) requiring, in the case of an article sold at retail, the computation to be on either the price for which the article is sold, or the highest price for which the articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, whichever is lower, and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 85–859, § 117(b), substituted “section 4217(b)” for “subsection (d)”.
+Subsec. (c). Pub. L. 85–859, § 117(b), substituted “section 4217(b)” for “subsection (d)”.
 
-Subsec. (d). Pub. L. 85–859, § 117(b), repealed subsec. (d) which related to tax on leases of certain trailers.
+Subsec. (d). Pub. L. 85–859, § 117(b), repealed subsec. (d) which related to tax on leases of certain trailers.
 
-Subsec. (e). Pub. L. 85–859, § 116, added subsec. (e).
+Subsec. (e). Pub. L. 85–859, § 116, added subsec. (e).
 
-1955—Subsec. (c)(1). Act Aug. 9, 1955, § 1, inserted “(other than a lease to which subsection (d) applies)”.
+1955—Subsec. (c)(1). Act Aug. 9, 1955, § 1, inserted “(other than a lease to which subsection (d) applies)”.
 
-Subsec. (d). Act Aug. 9, 1955, § 2, added subsec. (d).
+Subsec. (d). Act Aug. 9, 1955, § 2, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3521,7 +3521,7 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–458, § 1(c), Oct. 14, 1978, 92 Stat. 1255, provided that: “The amendments made by this section [amending this section] shall apply to articles sold by the manufacturer or producer on or after the first day of the first calendar quarter beginning 30 days or more after the date of enactment of this Act [Oct. 14, 1978].”
+Pub. L. 95–458, § 1(c), Oct. 14, 1978, 92 Stat. 1255, provided that: “The amendments made by this section [amending this section] shall apply to articles sold by the manufacturer or producer on or after the first day of the first calendar quarter beginning 30 days or more after the date of enactment of this Act [Oct. 14, 1978].”
 
 **Effective Date of 1976 Amendment**
 
@@ -3533,27 +3533,27 @@ Amendment by Pub. L. 92–178 applicable with respect to articles sold on or aft
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–614, title III, § 301(c), Dec. 31, 1970, 84 Stat. 1844, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section] shall apply with respect to articles sold after December 31, 1970; except that section 4216(b)(6) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by subsection (a)) shall also apply to (1) the application of paragraph (1) of such section 4216(b) to articles sold after June 30, 1962, and before January 1, 1971, and (2) the application of paragraph (3) of such section 4216(b) to articles sold after December 31, 1969, and before January 1, 1971.”
+Pub. L. 91–614, title III, § 301(c), Dec. 31, 1970, 84 Stat. 1844, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section] shall apply with respect to articles sold after December 31, 1970; except that section 4216(b)(6) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by subsection (a)) shall also apply to (1) the application of paragraph (1) of such section 4216(b) to articles sold after June 30, 1962, and before January 1, 1971, and (2) the application of paragraph (3) of such section 4216(b) to articles sold after December 31, 1969, and before January 1, 1971.”
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 932(b), Dec. 30, 1969, 83 Stat. 725, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles sold after December 31, 1969.”
+Pub. L. 91–172, title IX, § 932(b), Dec. 30, 1969, 83 Stat. 725, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles sold after December 31, 1969.”
 
 **Effective Date of 1965 Amendment**
 
 Amendment by section 207(a), (b) of Pub. L. 89–44 effective June 22, 1965, and amendment by section 208 of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, except insofar as such amendments related to the taxes imposed by sections 4061(b), 4091, or 4131 and, as to such taxes, applicable with respect to articles sold on or after January 1, 1966, see section 701(a) of Pub. L. 89–44, set out as a note under section 4161 of this title.
 
-Pub. L. 89–44, title VIII, § 801(e), June 21, 1965, 79 Stat. 158, provided that: “The amendments made by subsections (a), (b), and (d) [amending this section and sections 4063, 4221, and 6416 of this title] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act [June 21, 1965]. The amendment made by subsection (c) [amending section 4221 of this title] shall apply with respect to articles sold on or after January 1, 1965.”
+Pub. L. 89–44, title VIII, § 801(e), June 21, 1965, 79 Stat. 158, provided that: “The amendments made by subsections (a), (b), and (d) [amending this section and sections 4063, 4221, and 6416 of this title] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act [June 21, 1965]. The amendment made by subsection (c) [amending section 4221 of this title] shall apply with respect to articles sold on or after January 1, 1965.”
 
 **Effective Date of 1962 Amendments**
 
-Pub. L. 87–858, § 1(b), Oct. 23, 1962, 76 Stat. 1134, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after October 1, 1962.”
+Pub. L. 87–858, § 1(b), Oct. 23, 1962, 76 Stat. 1134, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after October 1, 1962.”
 
-Pub. L. 87–770, § 2(b), Oct. 9, 1962, 76 Stat. 768, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than 20 days after the date of the enactment of this Act [Oct. 9, 1962].”
+Pub. L. 87–770, § 2(b), Oct. 9, 1962, 76 Stat. 768, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than 20 days after the date of the enactment of this Act [Oct. 9, 1962].”
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–781, § 3, Sept. 14, 1960, 74 Stat. 1018, provided that: “The amendments made by this Act [amending this section and section 6416 of this title] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act [Sept. 14, 1960].”
+Pub. L. 86–781, § 3, Sept. 14, 1960, 74 Stat. 1018, provided that: “The amendments made by this Act [amending this section and section 6416 of this title] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act [Sept. 14, 1960].”
 
 **Effective Date of 1958 Amendment**
 
@@ -3561,7 +3561,7 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 **Effective Date of 1955 Amendment**
 
-Act Aug. 9, 1955, ch. 677, § 4, 69 Stat. 614, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that:
+Act Aug. 9, 1955, ch. 677, § 4, 69 Stat. 614, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that:
 
 > “The amendments made by subsection (a) [probably should refer to amendments made by sections 1 to 3 of act Aug. 9, 1955, amending this section and section 4217 of this title] shall take effect on the first day of the first month which begins more than 10 days after the date of the enactment of this act [Aug. 9, 1955]. In the application of section 4216(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by this Act) to any article which has been leased before the effective date specified in the preceding sentence, under regulations prescribed by the Secretary of the Treasury or his delegate—
 
@@ -3573,7 +3573,7 @@ Act Aug. 9, 1955, ch. 677, § 4, 69 Stat. 614, as amended by act Oct. 22, 1986
 
 > **“(4)** any lease existing on such effective date shall be considered as having been entered into on such date.”
 
-### § 4217. Leases
+### § 4217. Leases
 
 **(a) Lease considered as sale**
 
@@ -3635,7 +3635,7 @@ The term “manufacturer” includes a producer or importer.
 
 The term “total gas guzzler tax” means the tax imposed by section 4064, computed at the rate in effect on the date of the first lease.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 9, 1955, ch. 677, § 3, 69 Stat. 614; Pub. L. 85–859, title I, § 117(a), Sept. 2, 1958, 72 Stat. 1280; Pub. L. 94–455, title XIX, § 1904 (a)(3), Oct. 4, 1976, 90 Stat. 1811; Pub. L. 95–618, title II, § 201(d), Nov. 9, 1978, 92 Stat. 3184.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 9, 1955, ch. 677, § 3, 69 Stat. 614; Pub. L. 85–859, title I, § 117(a), Sept. 2, 1958, 72 Stat. 1280; Pub. L. 94–455, title XIX, § 1904 (a)(3), Oct. 4, 1976, 90 Stat. 1811; Pub. L. 95–618, title II, § 201(d), Nov. 9, 1978, 92 Stat. 3184.)
 
 **Editorial Notes**
 
@@ -3673,9 +3673,9 @@ Section effective on first day of first month which begins more than ten days af
 
 **Application of Leases of Utility Trailers**
 
-Pub. L. 85–859, title I, § 117(c), Sept. 2, 1958, 72 Stat. 1281, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4216 of this title] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
+Pub. L. 85–859, title I, § 117(c), Sept. 2, 1958, 72 Stat. 1281, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4216 of this title] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
 
-### § 4218. Use by manufacturer or importer considered sale
+### § 4218. Use by manufacturer or importer considered sale
 
 **(a) General rule**
 
@@ -3689,43 +3689,43 @@ If any person manufactures, produces, or imports a tire taxable under section 40
 
 Except as provided in section 4223(b), in any case in which a person is made liable for tax by the preceding provisions of this section, the tax (if based on the price for which the article is sold) shall be computed on the price at which such or similar articles are sold, in the ordinary course of trade, by manufacturers, producers, or importers, thereof, as determined by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 11, 1955, ch. 805, § 1(a), (b), 69 Stat. 689; Pub. L. 85–859, title I, § 118, Sept. 2, 1958, 72 Stat. 1281; Pub. L. 86–418, § 2(a), Apr. 8, 1960, 74 Stat. 38; Pub. L. 87–61, title II, § 205(b), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, § 208(c), June 21, 1965, 79 Stat. 141; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, § 2(b)(1), Feb. 10, 1978, 92 Stat. 11; Pub. L. 98–369, div. A, title VII, § 735(c)(7), July 18, 1984, 98 Stat. 983.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 11, 1955, ch. 805, § 1(a), (b), 69 Stat. 689; Pub. L. 85–859, title I, § 118, Sept. 2, 1958, 72 Stat. 1281; Pub. L. 86–418, § 2(a), Apr. 8, 1960, 74 Stat. 38; Pub. L. 87–61, title II, § 205(b), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, § 208(c), June 21, 1965, 79 Stat. 141; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, § 2(b)(1), Feb. 10, 1978, 92 Stat. 11; Pub. L. 98–369, div. A, title VII, § 735(c)(7), July 18, 1984, 98 Stat. 983.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–369, § 735(c)(7)(D), substituted “(other than a tire taxable under section 4071)” for “(other than an article specified in subsection (b), (c), or (d))”.
+1984—Subsec. (a). Pub. L. 98–369, § 735(c)(7)(D), substituted “(other than a tire taxable under section 4071)” for “(other than an article specified in subsection (b), (c), or (d))”.
 
-Subsec. (b). Pub. L. 98–369, § 735(c)(7)(A), (B), struck out “and tubes” after “Tires” in heading, and in text substituted “If” for “Except as provided in subsection (d), if”, and struck out “or inner tube” before “taxable under section 4071”.
+Subsec. (b). Pub. L. 98–369, § 735(c)(7)(A), (B), struck out “and tubes” after “Tires” in heading, and in text substituted “If” for “Except as provided in subsection (d), if”, and struck out “or inner tube” before “taxable under section 4071”.
 
-Subsec. (c). Pub. L. 98–369, § 735(c)(7)(C), redesignated subsec. (e) as (c). Former subsec. (c), which related to automotive parts and accessories, was struck out.
+Subsec. (c). Pub. L. 98–369, § 735(c)(7)(C), redesignated subsec. (e) as (c). Former subsec. (c), which related to automotive parts and accessories, was struck out.
 
-Subsec. (d). Pub. L. 98–369, § 735(c)(7)(C), struck out subsec. (d) which related to bicycle tires and tubes.
+Subsec. (d). Pub. L. 98–369, § 735(c)(7)(C), struck out subsec. (d) which related to bicycle tires and tubes.
 
-Subsec. (e). Pub. L. 98–369, § 735(c)(7)(C), redesignated subsec. (e) as (c).
+Subsec. (e). Pub. L. 98–369, § 735(c)(7)(C), redesignated subsec. (e) as (c).
 
 1978—Subsec. (a). Pub. L. 95–227 inserted provisions relating to applying first sentence of this subsection to coal taxable under section 4121 of this title.
 
 1976—Subsec. (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1965—Subsec. (b). Pub. L. 89–44, § 208(c)(1), (2), struck out references to automobile receiving sets from heading, and “or an automobile radio or television receiving set taxable under section 4141,” before “and sells it”.
+1965—Subsec. (b). Pub. L. 89–44, § 208(c)(1), (2), struck out references to automobile receiving sets from heading, and “or an automobile radio or television receiving set taxable under section 4141,” before “and sells it”.
 
-Subsec. (c). Pub. L. 89–44, § 208(c)(3), (4), struck out reference to radio components and camera lenses from heading, and “a radio or television component taxable under section 4141, or a camera lens taxable under section 4171,” before “and uses it”.
+Subsec. (c). Pub. L. 89–44, § 208(c)(3), (4), struck out reference to radio components and camera lenses from heading, and “a radio or television component taxable under section 4141, or a camera lens taxable under section 4171,” before “and uses it”.
 
 1961—Subsec. (a). Pub. L. 87–61 inserted sentence making subsection inapplicable in the case of gasoline used by any person, for nonfuel purposes, as a material in the manufacture or production of another article to be manufactured or produced by him.
 
-1960—Subsec. (a). Pub. L. 86–418, § 2(a)(1), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
+1960—Subsec. (a). Pub. L. 86–418, § 2(a)(1), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
 
-Subsec. (b). Pub. L. 86–418, § 2(a)(2), substituted “Except as provided in subsection (d), if any” for “If any.”
+Subsec. (b). Pub. L. 86–418, § 2(a)(2), substituted “Except as provided in subsection (d), if any” for “If any.”
 
-Subsecs. (d), (e). Pub. L. 86–418, § 2(a)(3), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 86–418, § 2(a)(3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1958—Pub. L. 85–859 amended section generally, striking out provisions which related to refrigerator components and to sales free of tax by virtue of section 4220 or 4224 of this title, and substituting provisions making manufacturers, producers and importers of parts or accessories taxable under section 4061(b), radio or television components taxable under section 4141, or camera lenses taxable under section 4171 liable for the tax if they use the parts or accessories otherwise than as material in the manufacture or production of, or as component parts of, any other article to be manufactured or produced by them, for provisions which made section inapplicable with respect to such parts if they were used by them as material in the manufacture or production of, or as a component part of, any article.
 
-1955—Subsec. (a)(1). Act Aug. 11, 1955, § 1(a), inserted as tax exempt articles under this chapter, automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under section 4061(b), 4111, or 4171, respectively, of this title.
+1955—Subsec. (a)(1). Act Aug. 11, 1955, § 1(a), inserted as tax exempt articles under this chapter, automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under section 4061(b), 4111, or 4171, respectively, of this title.
 
-Subsec. (b). Act Aug. 11, 1955, § 1(b), excepted from application of section automobile parts or accessories, refrigerator, radio, or television components, and camera lenses, taxable under sections 4061(b), 4111, 4141, and 4171, respectively, of this title, when for use by the purchaser in the manufacture or production of, or as a component part of, any article.
+Subsec. (b). Act Aug. 11, 1955, § 1(b), excepted from application of section automobile parts or accessories, refrigerator, radio, or television components, and camera lenses, taxable under sections 4061(b), 4111, 4141, and 4171, respectively, of this title, when for use by the purchaser in the manufacture or production of, or as a component part of, any article.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3757,15 +3757,15 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 Amendment by act Aug. 11, 1955, effective on first day of first month which begins more than ten days after Aug. 11, 1955, see section 3 of act Aug. 11, 1955, set out as a note under section 6416 of this title.
 
-### § 4219. Application of tax in case of sales by other than manufacturer or importer
+### § 4219. Application of tax in case of sales by other than manufacturer or importer
 
 In case any person acquires from the manufacturer, producer, or importer of an article, by operation of law or as a result of any transaction not taxable under this chapter, the right to sell such article, the sale of such article by such person shall be taxable under this chapter as if made by the manufacturer, producer, or importer, and such person shall be liable for the tax.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 494.)
 
-### [§§ 4220 to 4225. Repealed. Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1282]
+### [§§ 4220 to 4225. Repealed. Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1282]
 
-Section 4220, acts Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 11, 1955, ch. 805, § 1(c), 69 Stat. 689, related to exemption for sales or resales to manufacturers. See section 4221 et seq. of this title.
+Section 4220, acts Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 11, 1955, ch. 805, § 1(c), 69 Stat. 689, related to exemption for sales or resales to manufacturers. See section 4221 et seq. of this title.
 
 For sections 4221 to 4225, see Prior Provisions notes set out under sections 4221 to 4225 of this title.
 
@@ -3781,17 +3781,17 @@ Repeal effective on first day of first calendar quarter which begins more than 6
 
 **Amendments**
 
-1986—Pub. L. 99–514, title XVIII, § 1899A(74), Oct. 22, 1986, 100 Stat. 2963, substituted “reference” for “references” in item 4227.
+1986—Pub. L. 99–514, title XVIII, § 1899A(74), Oct. 22, 1986, 100 Stat. 2963, substituted “reference” for “references” in item 4227.
 
-1983—Pub. L. 97–473, title II, § 202(b)(9), Jan. 14, 1983, 96 Stat. 2610, purported to substitute “Cross references” for “Cross reference” in item 4227. No change in text was required because item 4227 as originally enacted by section 119(a) of Pub. L. 85–859 already read “Cross references”.
+1983—Pub. L. 97–473, title II, § 202(b)(9), Jan. 14, 1983, 96 Stat. 2610, purported to substitute “Cross references” for “Cross reference” in item 4227. No change in text was required because item 4227 as originally enacted by section 119(a) of Pub. L. 85–859 already read “Cross references”.
 
-1976—Pub. L. 94–455, title XIX, § 1904(b)(3), Oct. 4, 1976, 90 Stat. 1815, struck out item 4226 “Floor stocks taxes”.
+1976—Pub. L. 94–455, title XIX, § 1904(b)(3), Oct. 4, 1976, 90 Stat. 1815, struck out item 4226 “Floor stocks taxes”.
 
-1965—Pub. L. 89–44, title I, § 101(b)(5), June 21, 1965, 79 Stat. 136, struck out item 4224 “Exemption for articles taxable as jewelry.”
+1965—Pub. L. 89–44, title I, § 101(b)(5), June 21, 1965, 79 Stat. 136, struck out item 4224 “Exemption for articles taxable as jewelry.”
 
-1958—Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1282, added subchapter heading and section analysis.
+1958—Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1282, added subchapter heading and section analysis.
 
-### § 4221. Certain tax-free sales
+### § 4221. Certain tax-free sales
 
 **(a) General rule** Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121 or 4081) on the sale by the manufacturer (or under subchapter C of chapter 31 on the first retail sale) of an article—
 
@@ -3893,7 +3893,7 @@ Paragraph (1) of subsection (a) shall not apply with respect to the tax imposed 
 
 Under regulations prescribed by the Secretary, the tax imposed by section 4071 shall not apply in the case of tires sold for use by the purchaser on or in connection with a qualified bus.
 
-(Added Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1282; amended Pub. L. 86–70, § 22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–344, § 2(b), Sept. 21, 1959, 73 Stat. 617; Pub. L. 86–418, § 1, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–624, § 18(e), July 12, 1960, 74 Stat. 416; Pub. L. 87–61, title II, § 205(a), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, § 208(d), title VIII, § 801(c), (d)(1), June 21, 1965, 79 Stat. 141, 158; Pub. L. 91–172, title I, § 101(j)(26), Dec. 30, 1969, 83 Stat. 529; Pub. L. 92–178, title IV, § 401(a)(3)(A), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, § 2(b)(2), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–600, title VII, § 701(ff)(2)(A), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 95–618, title II, §§ 201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, 92 Stat. 3183, 3189, 3191, 3192; Pub. L. 96–222, title I, § 108(c)(5), Apr. 1, 1980, 94 Stat. 227; Pub. L. 97–424, title V, §§ 515(b)(1), 516(b)(2), Jan. 6, 1983, 96 Stat. 2181, 2183; Pub. L. 98–369, div. A, title VII, § 735(c)(8), July 18, 1984, 98 Stat. 983; Pub. L. 99–499, title V, § 521(d)(4), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title XVII, § 1703(c)(2)(C), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–17, title V, § 502(b)(4), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title IX, § 9201(b)(1), title X, § 10502(d)(4), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 101–239, title VII, § 7841(d)(17), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §§ 11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–427, 1388–444; Pub. L. 102–240, title VIII, § 8002(b)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, § 13161(b)(1), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–178, title IX, § 9002(b)(1), June 9, 1998, 112 Stat. 500; Pub. L. 105–206, title VI, § 6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 108–357, title VIII, § 853(d)(2)(F), Oct. 22, 2004, 118 Stat. 1613; Pub. L. 109–59, title XI, § 11101(b)(1), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 109–280, title XII, § 1207(b)(1)–(3)(A), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 111–152, title I, § 1405(b)(1), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 112–30, title I, § 142(d), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(d), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(c), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, § 40102(d)(1), July 6, 2012, 126 Stat. 845; Pub. L. 113–295, div. A, title II, § 221(a)(103)(B)(i), Dec. 19, 2014, 128 Stat. 4052; Pub. L. 114–94, div. C, title XXXI, § 31102(d)(1), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 115–141, div. U, title IV, § 401(a)(221), Mar. 23, 2018, 132 Stat. 1194; Pub. L. 116–94, div. N, title I, § 501(b)(1), Dec. 20, 2019, 133 Stat. 3118; Pub. L. 117–58, div. H, title I, § 80102(d)(1), Nov. 15, 2021, 135 Stat. 1327.)
+(Added Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1282; amended Pub. L. 86–70, § 22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–344, § 2(b), Sept. 21, 1959, 73 Stat. 617; Pub. L. 86–418, § 1, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–624, § 18(e), July 12, 1960, 74 Stat. 416; Pub. L. 87–61, title II, § 205(a), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, § 208(d), title VIII, § 801(c), (d)(1), June 21, 1965, 79 Stat. 141, 158; Pub. L. 91–172, title I, § 101(j)(26), Dec. 30, 1969, 83 Stat. 529; Pub. L. 92–178, title IV, § 401(a)(3)(A), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, § 2(b)(2), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–600, title VII, § 701(ff)(2)(A), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 95–618, title II, §§ 201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, 92 Stat. 3183, 3189, 3191, 3192; Pub. L. 96–222, title I, § 108(c)(5), Apr. 1, 1980, 94 Stat. 227; Pub. L. 97–424, title V, §§ 515(b)(1), 516(b)(2), Jan. 6, 1983, 96 Stat. 2181, 2183; Pub. L. 98–369, div. A, title VII, § 735(c)(8), July 18, 1984, 98 Stat. 983; Pub. L. 99–499, title V, § 521(d)(4), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title XVII, § 1703(c)(2)(C), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–17, title V, § 502(b)(4), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title IX, § 9201(b)(1), title X, § 10502(d)(4), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 101–239, title VII, § 7841(d)(17), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §§ 11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–427, 1388–444; Pub. L. 102–240, title VIII, § 8002(b)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, § 13161(b)(1), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–178, title IX, § 9002(b)(1), June 9, 1998, 112 Stat. 500; Pub. L. 105–206, title VI, § 6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 108–357, title VIII, § 853(d)(2)(F), Oct. 22, 2004, 118 Stat. 1613; Pub. L. 109–59, title XI, § 11101(b)(1), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 109–280, title XII, § 1207(b)(1)–(3)(A), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 111–152, title I, § 1405(b)(1), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 112–30, title I, § 142(d), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(d), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(c), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, § 40102(d)(1), July 6, 2012, 126 Stat. 845; Pub. L. 113–295, div. A, title II, § 221(a)(103)(B)(i), Dec. 19, 2014, 128 Stat. 4052; Pub. L. 114–94, div. C, title XXXI, § 31102(d)(1), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 115–141, div. U, title IV, § 401(a)(221), Mar. 23, 2018, 132 Stat. 1194; Pub. L. 116–94, div. N, title I, § 501(b)(1), Dec. 20, 2019, 133 Stat. 3118; Pub. L. 117–58, div. H, title I, § 80102(d)(1), Nov. 15, 2021, 135 Stat. 1327.)
 
 **Editorial Notes**
 
@@ -3903,7 +3903,7 @@ Section 1207(b)(1)–(3)(A) of Pub. L. 109–280, which directed the amendment o
 
 **Prior Provisions**
 
-A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, § 119(a).
+A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, § 119(a).
 
 **Amendments**
 
@@ -3915,17 +3915,17 @@ A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exem
 
 2015—Subsec. (a). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016” in concluding provisions.
 
-2014—Subsec. (a). Pub. L. 113–295, § 221(a)(103)(B)(i)(II), struck out “In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.” after “regulations prescribe.” in concluding provisions.
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(103)(B)(i)(II), struck out “In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.” after “regulations prescribe.” in concluding provisions.
 
-Pub. L. 113–295, § 221(a)(103)(B)(i)(I), substituted “subchapter” for “subchapter A or” in introductory provisions.
+Pub. L. 113–295, § 221(a)(103)(B)(i)(I), substituted “subchapter” for “subchapter A or” in introductory provisions.
 
-Subsec. (c). Pub. L. 113–295, § 221(a)(103)(B)(i)(III), struck out “4001(c), 4001(d), or” after “tax under section”.
+Subsec. (c). Pub. L. 113–295, § 221(a)(103)(B)(i)(III), struck out “4001(c), 4001(d), or” after “tax under section”.
 
-Subsec. (d)(1). Pub. L. 113–295, § 221(a)(103)(B)(i)(I), substituted “subchapter” for “subchapter A or”.
+Subsec. (d)(1). Pub. L. 113–295, § 221(a)(103)(B)(i)(I), substituted “subchapter” for “subchapter A or”.
 
 2012—Subsec. (a). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012” in concluding provisions.
 
-Pub. L. 112–140, §§ 1(c), 402(c), temporarily substituted “July 7, 2012” for “July 1, 2012” in concluding provisions. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§ 1(c), 402(c), temporarily substituted “July 7, 2012” for “July 1, 2012” in concluding provisions. See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012” in concluding provisions.
 
@@ -3933,13 +3933,13 @@ Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012” in conc
 
 2010—Subsec. (a). Pub. L. 111–152 inserted at end of concluding provisions “In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.”
 
-2006—Subsec. (a). Pub. L. 109–280, § 1207(b)(2), (3)(A), in concluding provisions, substituted “Paragraphs (4), (5), and (6)” for “Paragraphs (4) and (5)” and inserted at end “In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply.” See Codification note above.
+2006—Subsec. (a). Pub. L. 109–280, § 1207(b)(2), (3)(A), in concluding provisions, substituted “Paragraphs (4), (5), and (6)” for “Paragraphs (4) and (5)” and inserted at end “In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply.” See Codification note above.
 
-Subsec. (a)(6). Pub. L. 109–280, § 1207(b)(1), added par. (6). See Codification note above.
+Subsec. (a)(6). Pub. L. 109–280, § 1207(b)(1), added par. (6). See Codification note above.
 
 2005—Subsec. (a). Pub. L. 109–59 substituted “2011” for “2005” in concluding provisions.
 
-2004—Subsec. (a). Pub. L. 108–357 substituted “or 4081” for “, 4081, or 4091” in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–357 substituted “or 4081” for “, 4081, or 4091” in introductory provisions.
 
 1998—Subsec. (a). Pub. L. 105–178 substituted “2005” for “1999” in concluding provisions.
 
@@ -3949,59 +3949,59 @@ Subsec. (c). Pub. L. 105–206 substituted “4053(6)” for “4053(a)(6)”.
 
 1991—Subsec. (a). Pub. L. 102–240 substituted “1999” for “1995” in concluding provisions.
 
-1990—Subsec. (a). Pub. L. 101–508, § 11221(b), substituted “subchapter A or C of chapter 31” for “section 4051” in introductory provisions and inserted at end “In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.”
+1990—Subsec. (a). Pub. L. 101–508, § 11221(b), substituted “subchapter A or C of chapter 31” for “section 4051” in introductory provisions and inserted at end “In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.”
 
-Pub. L. 101–508, § 11211(d)(3), substituted “1995” for “1993” in concluding provisions.
+Pub. L. 101–508, § 11211(d)(3), substituted “1995” for “1993” in concluding provisions.
 
-Subsec. (c). Pub. L. 101–508, § 11221(d)(1), substituted “section 4001(c), 4002(b), 4003(c), 4004(a), or 4053(a)(6)” for “section 4053(a)(6)”.
+Subsec. (c). Pub. L. 101–508, § 11221(d)(1), substituted “section 4001(c), 4002(b), 4003(c), 4004(a), or 4053(a)(6)” for “section 4053(a)(6)”.
 
-Subsec. (d)(1). Pub. L. 101–508, § 11221(d)(2), substituted “taxes imposed by subchapter A or C of chapter 31” for “the tax imposed by section 4051”.
+Subsec. (d)(1). Pub. L. 101–508, § 11221(d)(2), substituted “taxes imposed by subchapter A or C of chapter 31” for “the tax imposed by section 4051”.
 
 1989—Subsec. (c). Pub. L. 101–239 struck out “or 4083” after “4053(a)(6)”.
 
-1987—Subsec. (a). Pub. L. 100–203, § 10502(d)(4), substituted “(other than under section 4121, 4081, or 4091) on the sale by the manufacturer” for “(other than under section 4121 or section 4081 (at the Highway Trust Fund financing rate)) on the sale by the manufacturer” in introductory text.
+1987—Subsec. (a). Pub. L. 100–203, § 10502(d)(4), substituted “(other than under section 4121, 4081, or 4091) on the sale by the manufacturer” for “(other than under section 4121 or section 4081 (at the Highway Trust Fund financing rate)) on the sale by the manufacturer” in introductory text.
 
-Pub. L. 100–203, § 9201(b)(1), inserted at end “In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.”
+Pub. L. 100–203, § 9201(b)(1), inserted at end “In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.”
 
 Pub. L. 100–17 substituted “1993” for “1988”.
 
-1986—Subsec. (a). Pub. L. 99–514, as amended by Pub. L. 99–499, § 521(d)(4)(B), in introductory text, inserted “or section 4081 (at the Highway Trust Fund financing rate)” after “section 4121” as the probable intent of Congress, notwithstanding directory language that the insertion be made before “section 4121”, and substituted “or 4071” for “4071, or 4081 (at the Highway Trust Fund financing rate)” in last sentence.
+1986—Subsec. (a). Pub. L. 99–514, as amended by Pub. L. 99–499, § 521(d)(4)(B), in introductory text, inserted “or section 4081 (at the Highway Trust Fund financing rate)” after “section 4121” as the probable intent of Congress, notwithstanding directory language that the insertion be made before “section 4121”, and substituted “or 4071” for “4071, or 4081 (at the Highway Trust Fund financing rate)” in last sentence.
 
-Pub. L. 99–499, § 521(d)(4)(A), inserted “(at the Highway Trust Fund financing rate)” after “4081” in last sentence.
+Pub. L. 99–499, § 521(d)(4)(A), inserted “(at the Highway Trust Fund financing rate)” after “4081” in last sentence.
 
-1984—Subsec. (a). Pub. L. 98–369, § 735(c)(8)(A), inserted “(or under section 4051 on the first retail sale)”.
+1984—Subsec. (a). Pub. L. 98–369, § 735(c)(8)(A), inserted “(or under section 4051 on the first retail sale)”.
 
-Subsec. (c). Pub. L. 98–369, § 735(c)(8)(B), substituted “section 4053(a)(6)” for “section 4063(a)(6) or (7), 4063(b), 4063(e),”.
+Subsec. (c). Pub. L. 98–369, § 735(c)(8)(B), substituted “section 4053(a)(6)” for “section 4063(a)(6) or (7), 4063(b), 4063(e),”.
 
-Subsec. (d)(1). Pub. L. 98–369, § 735(c)(8)(C), inserted “, and, in the case of the tax imposed by section 4051, includes the retailer with respect to the first retail sale”.
+Subsec. (d)(1). Pub. L. 98–369, § 735(c)(8)(C), inserted “, and, in the case of the tax imposed by section 4051, includes the retailer with respect to the first retail sale”.
 
-Subsec. (d)(6). Pub. L. 98–369, § 735(c)(8)(D)(i), struck out provision at end that for purposes of subparagraph (B), the rebuilding of a part or accessory which is exempt from tax under section 4063(c) shall not constitute the manufacture or production of such part or accessory.
+Subsec. (d)(6). Pub. L. 98–369, § 735(c)(8)(D)(i), struck out provision at end that for purposes of subparagraph (B), the rebuilding of a part or accessory which is exempt from tax under section 4063(c) shall not constitute the manufacture or production of such part or accessory.
 
-Subsec. (d)(6)(A). Pub. L. 98–369, § 735(c)(8)(D)(ii), (iv), struck out “(other than an article referred to in subparagraph (B))” after “such article”, and inserted “or” at end.
+Subsec. (d)(6)(A). Pub. L. 98–369, § 735(c)(8)(D)(ii), (iv), struck out “(other than an article referred to in subparagraph (B))” after “such article”, and inserted “or” at end.
 
-Subsec. (d)(6)(B), (C). Pub. L. 98–369, § 735(c)(8)(D)(i), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to parts or accessories taxable under former section 4061(b) of this title.
+Subsec. (d)(6)(B), (C). Pub. L. 98–369, § 735(c)(8)(D)(i), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to parts or accessories taxable under former section 4061(b) of this title.
 
-Subsec. (e)(2). Pub. L. 98–369, § 735(c)(8)(E), (F), struck out “and tubes” from heading, and in text struck out “or inner tube” and “or tube”, as the case may be, after “tire” wherever appearing.
+Subsec. (e)(2). Pub. L. 98–369, § 735(c)(8)(E), (F), struck out “and tubes” from heading, and in text struck out “or inner tube” and “or tube”, as the case may be, after “tire” wherever appearing.
 
-Subsec. (e)(3) to (6). Pub. L. 98–369, § 735(c)(8)(G), added par. (3), struck out par. (4) which related to bicycle tires or tubes sold to bicycle manufacturers in general, the definition of a bicycle tire, and proof, struck out par. (5) which related to tires, tubes and tread rubber used on intercity, local, and school buses, and struck out par. (6) which related to bus parts and accessories.
+Subsec. (e)(3) to (6). Pub. L. 98–369, § 735(c)(8)(G), added par. (3), struck out par. (4) which related to bicycle tires or tubes sold to bicycle manufacturers in general, the definition of a bicycle tire, and proof, struck out par. (5) which related to tires, tubes and tread rubber used on intercity, local, and school buses, and struck out par. (6) which related to bus parts and accessories.
 
-1983—Subsec. (a). Pub. L. 97–424, § 516(b)(2), inserted provision that, in the case of taxes imposed by section 4051, 4071, or 4081, pars. (4) and (5) shall not apply on and after Oct. 1, 1988.
+1983—Subsec. (a). Pub. L. 97–424, § 516(b)(2), inserted provision that, in the case of taxes imposed by section 4051, 4071, or 4081, pars. (4) and (5) shall not apply on and after Oct. 1, 1988.
 
-Subsec. (c). Pub. L. 97–424, § 515(b)(1), substituted “or 4083” for “4083, or 4093” after “4063(e),”.
+Subsec. (c). Pub. L. 97–424, § 515(b)(1), substituted “or 4083” for “4083, or 4093” after “4063(e),”.
 
 1980—Subsec. (e)(6). Pub. L. 96–222 inserted provisions respecting selling by a purchaser or a second purchaser.
 
-1978—Subsec. (a). Pub. L. 95–618, § 201(c)(1), inserted provision that paragraphs (4) and (5) not apply to the tax imposed by section 4064.
+1978—Subsec. (a). Pub. L. 95–618, § 201(c)(1), inserted provision that paragraphs (4) and (5) not apply to the tax imposed by section 4064.
 
 Pub. L. 95–227 inserted “(other than under section 4121)” after “this chapter”.
 
 Subsec. (c). Pub. L. 95–600 substituted “4063(b), 4063(e),” for “4063(b),”.
 
-Subsec. (d)(7). Pub. L. 95–618, § 233(c)(2), added par. (7).
+Subsec. (d)(7). Pub. L. 95–618, § 233(c)(2), added par. (7).
 
-Subsec. (e)(5). Pub. L. 95–618, § 233(c)(1), substituted provisions relating to the applicability of the taxes imposed by section 4071(a)(1) and (3) in the case of tires or inner tubes for tires sold for use by the purchaser on or in connection with a qualified bus and the tax imposed by section 4071(a)(4) in the case of tread rubber sold for use by the purchaser in the recapping or retreading of any tire to be used by the purchaser on or in connection with a qualified bus for provisions relating to the applicability of the tax imposed by section 4061(a) to a bus sold to any person for use exclusively in transporting students and employees of schools operated by State or local governments or by nonprofit educational organizations.
+Subsec. (e)(5). Pub. L. 95–618, § 233(c)(1), substituted provisions relating to the applicability of the taxes imposed by section 4071(a)(1) and (3) in the case of tires or inner tubes for tires sold for use by the purchaser on or in connection with a qualified bus and the tax imposed by section 4071(a)(4) in the case of tread rubber sold for use by the purchaser in the recapping or retreading of any tire to be used by the purchaser on or in connection with a qualified bus for provisions relating to the applicability of the tax imposed by section 4061(a) to a bus sold to any person for use exclusively in transporting students and employees of schools operated by State or local governments or by nonprofit educational organizations.
 
-Subsec. (e)(6). Pub. L. 95–618, § 232(a), added par. (6).
+Subsec. (e)(6). Pub. L. 95–618, § 232(a), added par. (6).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -4009,17 +4009,17 @@ Subsec. (e)(6). Pub. L. 95–618, § 232(a), added par. (6).
 
 1969—Subsec. (d)(5). Pub. L. 91–172 substituted “section 170(b)(1)(A)(ii)” for “section 503(b)(2)”.
 
-1965—Subsec. (d)(6)(B). Pub. L. 89–44, § 208(d)(1), struck out “a radio or television component taxable under section 4141, or a camera lens taxable under section 4171,”.
+1965—Subsec. (d)(6)(B). Pub. L. 89–44, § 208(d)(1), struck out “a radio or television component taxable under section 4141, or a camera lens taxable under section 4171,”.
 
-Subsec. (d)(6). Pub. L. 89–44, § 801(c), inserted sentence providing that for purpose of subpar. (B), the rebuilding of a part or accessory which is exempt from tax under section 4063(c) shall not constitute the manufacture or production of such part or accessory.
+Subsec. (d)(6). Pub. L. 89–44, § 801(c), inserted sentence providing that for purpose of subpar. (B), the rebuilding of a part or accessory which is exempt from tax under section 4063(c) shall not constitute the manufacture or production of such part or accessory.
 
-Subsec. (e)(2). Pub. L. 89–44, § 208(d)(2)–(5), struck out reference to automobile receiving sets from catchline and wherever appearing in subpars. (A) to (C), and reference to tax imposed under section 4141 of this title from subpars. (A) and (C).
+Subsec. (e)(2). Pub. L. 89–44, § 208(d)(2)–(5), struck out reference to automobile receiving sets from catchline and wherever appearing in subpars. (A) to (C), and reference to tax imposed under section 4141 of this title from subpars. (A) and (C).
 
-Subsec. (e)(3). Pub. L. 89–44, § 208(d)(6), struck out par. (3) which related to musical instruments sold for religious use.
+Subsec. (e)(3). Pub. L. 89–44, § 208(d)(6), struck out par. (3) which related to musical instruments sold for religious use.
 
-Subsec. (e)(5). Pub. L. 89–44, § 801(d)(1), added par. (5).
+Subsec. (e)(5). Pub. L. 89–44, § 801(d)(1), added par. (5).
 
-Subsec. (f). Pub. L. 89–44, § 208(d)(7), struck out subsec. (f) which related to sales of mechanical pencils and pens for export.
+Subsec. (f). Pub. L. 89–44, § 208(d)(7), struck out subsec. (f) which related to sales of mechanical pencils and pens for export.
 
 1961—Subsec. (d)(6)(C). Pub. L. 87–61 added subpar. (C).
 
@@ -4039,7 +4039,7 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pu
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. N, title I, § 501(d), Dec. 20, 2019, 133 Stat. 3119, provided that: “The amendments made by this section [amending this section and section 6416 of this title and repealing section 4191 of this title] shall apply to sales after December 31, 2019.”
+Pub. L. 116–94, div. N, title I, § 501(d), Dec. 20, 2019, 133 Stat. 3119, provided that: “The amendments made by this section [amending this section and section 6416 of this title and repealing section 4191 of this title] shall apply to sales after December 31, 2019.”
 
 **Effective Date of 2015 Amendment**
 
@@ -4065,7 +4065,7 @@ Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub.
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–152, title I, § 1405(c), Mar. 30, 2010, 124 Stat. 1065, provided that: “The amendments made by this section [enacting section 4191 of this title and amending this section and section 6416 of this title] shall apply to sales after December 31, 2012.”
+Pub. L. 111–152, title I, § 1405(c), Mar. 30, 2010, 124 Stat. 1065, provided that: “The amendments made by this section [enacting section 4191 of this title and amending this section and section 6416 of this title] shall apply to sales after December 31, 2012.”
 
 **Effective Date of 2006 Amendment**
 
@@ -4077,11 +4077,11 @@ Amendment by Pub. L. 108–357 applicable to aviation-grade kerosene removed, en
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XIII, § 13161(c), Aug. 10, 1993, 107 Stat. 453, provided that: “The amendments made by this section [amending this section and sections 4001 to 4003 and 4222 of this title and omitting sections 4004, 4006, 4007, 4011, and 4012 of this title] shall take effect on January 1, 1993, except that the provisions of section 4001(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall take effect on the date of the enactment of this Act [Aug. 10, 1993].”
+Pub. L. 103–66, title XIII, § 13161(c), Aug. 10, 1993, 107 Stat. 453, provided that: “The amendments made by this section [amending this section and sections 4001 to 4003 and 4222 of this title and omitting sections 4004, 4006, 4007, 4011, and 4012 of this title] shall take effect on January 1, 1993, except that the provisions of section 4001(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall take effect on the date of the enactment of this Act [Aug. 10, 1993].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11221(f), Nov. 5, 1990, 104 Stat. 1388–444, provided that:
+Pub. L. 101–508, title XI, § 11221(f), Nov. 5, 1990, 104 Stat. 1388–444, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting subchapter A of chapter 31 of this title, redesignating former subchapters A and B of chapter 31 as subchapters B and C, respectively, and amending this section and sections 4222 and 4293 of this title] shall take effect on January 1, 1991.
 
@@ -4089,7 +4089,7 @@ Pub. L. 101–508, title XI, § 11221(f), Nov. 5, 1990, 104 Stat. 1388–444, 
 
 **Effective Date of 1987 Amendments**
 
-Pub. L. 100–647, title I, § 1017(c)(5), Nov. 10, 1988, 102 Stat. 3576, provided that: “The amendment made by section 10502(d)(4) of the Revenue Act of 1987 [Pub. L. 100–203, amending this section] shall be treated as if included in the amendments made by section 1703 of the Reform Act [Pub. L. 99–514] except that the reference to section 4091 of the Internal Revenue Code of 1986 shall not apply to sales before April 1, 1988.”
+Pub. L. 100–647, title I, § 1017(c)(5), Nov. 10, 1988, 102 Stat. 3576, provided that: “The amendment made by section 10502(d)(4) of the Revenue Act of 1987 [Pub. L. 100–203, amending this section] shall be treated as if included in the amendments made by section 1703 of the Reform Act [Pub. L. 99–514] except that the reference to section 4091 of the Internal Revenue Code of 1986 shall not apply to sales before April 1, 1988.”
 
 Amendment by section 9201(b)(1) of Pub. L. 100–203 effective Jan. 1, 1988, see section 9201(d) of Pub. L. 100–203, set out as an Effective Date note under section 4131 of this title.
 
@@ -4117,11 +4117,11 @@ Amendment by Pub. L. 96–222 effective as if included in the provision of the E
 
 Amendment by section 201(c)(1) of Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section 201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
 
-Pub. L. 95–618, title II, § 232(c), Nov. 9, 1978, 92 Stat. 3190, provided that: “The amendments made by this section [amending this section and section 6416 of this title] shall apply to sales on or after the first day of the first calendar month beginning more than 10 days after the date of the enactment of this Act [Nov. 9, 1978].”
+Pub. L. 95–618, title II, § 232(c), Nov. 9, 1978, 92 Stat. 3190, provided that: “The amendments made by this section [amending this section and section 6416 of this title] shall apply to sales on or after the first day of the first calendar month beginning more than 10 days after the date of the enactment of this Act [Nov. 9, 1978].”
 
 Amendment by section 233(c)(1), (2) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
 
-Pub. L. 95–600, title VII, § 701(ff)(3), Nov. 6, 1978, 92 Stat. 2925, provided that: “The amendments made by this subsection [amending this section and sections 4061 and 4222 of this title] shall take effect on the first day of the first calendar month beginning more than 20 days after the date of the enactment of this Act [Nov. 6, 1978].”
+Pub. L. 95–600, title VII, § 701(ff)(3), Nov. 6, 1978, 92 Stat. 2925, provided that: “The amendments made by this subsection [amending this section and sections 4061 and 4222 of this title] shall take effect on the first day of the first calendar month beginning more than 20 days after the date of the enactment of this Act [Nov. 6, 1978].”
 
 Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L. 95–227, set out as an Effective Date note section 4121 of this title.
 
@@ -4147,7 +4147,7 @@ Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or 
 
 Amendment by Pub. L. 86–624 effective on Aug. 21, 1959, see section 18(k) of Pub. L. 86–624, set out as a note under section 3121 of this title.
 
-Pub. L. 86–418, § 4, Apr. 8, 1960, 74 Stat. 39, provided that: “The amendments made by this Act [amending this section and sections 4218, 4223, and 6416 of this title] shall apply only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act [Apr. 8, 1960].”
+Pub. L. 86–418, § 4, Apr. 8, 1960, 74 Stat. 39, provided that: “The amendments made by this Act [amending this section and sections 4218, 4223, and 6416 of this title] shall apply only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act [Apr. 8, 1960].”
 
 **Effective Date of 1959 Amendments**
 
@@ -4159,7 +4159,7 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 
 Section effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
-### § 4222. Registration
+### § 4222. Registration
 
 **(a) General rule**
 
@@ -4179,7 +4179,7 @@ Subject to such regulations as the Secretary may prescribe for the purpose of th
 
 Subsection (a) shall apply to purchases and sales by the United States only to the extent provided by regulations prescribed by the Secretary.
 
-**[(4) Repealed. Pub. L. 89–44, title II, § 208(e), June 21, 1965, 79 Stat. 141]**
+**[(4) Repealed. Pub. L. 89–44, title II, § 208(e), June 21, 1965, 79 Stat. 141]**
 
 **(5) Supplies for vessels or aircraft**
 
@@ -4201,13 +4201,13 @@ The provisions of this section may be extended to, and made applicable with resp
 
 Terms used in this section which are defined in section 4221(d) shall have the meaning given to them by section 4221(d).
 
-(Added Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1284; amended Pub. L. 89–44, title II, § 208(e), title VIII, § 802(c), June 21, 1965, 79 Stat. 141, 159; Pub. L. 92–178, title IV, § 401(a)(3)(B), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title VII, § 701(ff)(2)(B), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 95–618, title II, §§ 201(e), 231(f)(2), Nov. 9, 1978, 92 Stat. 3184, 3189; Pub. L. 97–424, title V, § 515(b)(2), Jan. 6, 1983, 96 Stat. 2181; Pub. L. 98–369, div. A, title VII, § 735(c)(9), July 18, 1984, 98 Stat. 983; Pub. L. 100–647, title I, § 1017(c)(16), Nov. 10, 1988, 102 Stat. 3577; Pub. L. 101–508, title XI, §§ 11212(b)(2), 11221(d)(3), Nov. 5, 1990, 104 Stat. 1388–431, 1388–444; Pub. L. 103–66, title XIII, § 13161(b)(2), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–34, title XIV, § 1431(a), Aug. 5, 1997, 111 Stat. 1050; Pub. L. 105–206, title VI, § 6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 113–295, div. A, title II, § 221(a)(103)(B)(ii), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1284; amended Pub. L. 89–44, title II, § 208(e), title VIII, § 802(c), June 21, 1965, 79 Stat. 141, 159; Pub. L. 92–178, title IV, § 401(a)(3)(B), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title VII, § 701(ff)(2)(B), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 95–618, title II, §§ 201(e), 231(f)(2), Nov. 9, 1978, 92 Stat. 3184, 3189; Pub. L. 97–424, title V, § 515(b)(2), Jan. 6, 1983, 96 Stat. 2181; Pub. L. 98–369, div. A, title VII, § 735(c)(9), July 18, 1984, 98 Stat. 983; Pub. L. 100–647, title I, § 1017(c)(16), Nov. 10, 1988, 102 Stat. 3577; Pub. L. 101–508, title XI, §§ 11212(b)(2), 11221(d)(3), Nov. 5, 1990, 104 Stat. 1388–431, 1388–444; Pub. L. 103–66, title XIII, § 13161(b)(2), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–34, title XIV, § 1431(a), Aug. 5, 1997, 111 Stat. 1050; Pub. L. 105–206, title VI, § 6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 113–295, div. A, title II, § 221(a)(103)(B)(ii), Dec. 19, 2014, 128 Stat. 4053.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4222, act Aug. 16, 1954, ch. 736, 68 Stat. 495, related to exemption from tax of certain supplies for vessels and airplanes, prior to repeal by Pub. L. 85–859, § 119(a). See section 4221 of this title.
+A prior section 4222, act Aug. 16, 1954, ch. 736, 68 Stat. 495, related to exemption from tax of certain supplies for vessels and airplanes, prior to repeal by Pub. L. 85–859, § 119(a). See section 4221 of this title.
 
 **Amendments**
 
@@ -4219,9 +4219,9 @@ A prior section 4222, act Aug. 16, 1954, ch. 736, 68 Stat. 495, related to exemp
 
 1993—Subsec. (d). Pub. L. 103–66 substituted “4001(d)” for “4002(b), 4003(c), 4004(a)”.
 
-1990—Subsec. (c). Pub. L. 101–508, § 11212(b)(2), substituted “Denial, revocation, or suspension” for “Revocation or suspension” in heading, “denied, revoked, or suspended” for “revoked or suspended” in introductory provisions, and “denial, revocation, or suspension” for “revocation or suspension” in par. (2) and concluding provisions.
+1990—Subsec. (c). Pub. L. 101–508, § 11212(b)(2), substituted “Denial, revocation, or suspension” for “Revocation or suspension” in heading, “denied, revoked, or suspended” for “revoked or suspended” in introductory provisions, and “denial, revocation, or suspension” for “revocation or suspension” in par. (2) and concluding provisions.
 
-Subsec. (d). Pub. L. 101–508, § 11221(d)(3), substituted “sections 4001(c), 4002(b), 4003(c), 4004(a), 4053(a)(6)” for “sections 4053(a)(6)”.
+Subsec. (d). Pub. L. 101–508, § 11221(d)(3), substituted “sections 4001(c), 4002(b), 4003(c), 4004(a), 4053(a)(6)” for “sections 4053(a)(6)”.
 
 1988—Subsec. (d). Pub. L. 100–647 substituted “4101” for “4083”.
 
@@ -4237,9 +4237,9 @@ Pub. L. 95–600 substituted “4063(b), 4063(e),” for “4063(b),”.
 
 1971—Subsec. (d). Pub. L. 92–178 inserted reference to section 4063(a)(6) and (7).
 
-1965—Subsec. (b)(4). Pub. L. 89–44, § 208(e), struck out par. (4) which related to mechanical pencils, fountain pens, and ball point pens.
+1965—Subsec. (b)(4). Pub. L. 89–44, § 208(e), struck out par. (4) which related to mechanical pencils, fountain pens, and ball point pens.
 
-Subsec. (b)(5). Pub. L. 89–44, § 802(c), added par. (5).
+Subsec. (b)(5). Pub. L. 89–44, § 802(c), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4249,7 +4249,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1431(b), Aug. 5, 1997, 111 Stat. 1050, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1431(b), Aug. 5, 1997, 111 Stat. 1050, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1993 Amendment**
 
@@ -4277,7 +4277,7 @@ Amendment by Pub. L. 97–424 applicable to articles sold after Jan. 6, 1983, se
 
 Amendment by section 201(e) of Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section 201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
 
-Pub. L. 95–618, title II, § 231(g), Nov. 9, 1978, 92 Stat. 3189, provided that:
+Pub. L. 95–618, title II, § 231(g), Nov. 9, 1978, 92 Stat. 3189, provided that:
 
 > **“(1)** The amendments made by subsections (a) and (f) [amending this section and sections 4063 and 6412 of this title] shall apply with respect to articles sold after the date of the enactment of this Act [Nov. 9, 1978].
 
@@ -4307,7 +4307,7 @@ Amendment by section 208(e) of Pub. L. 89–44 applicable with respect to articl
 
 Amendment by section 802(c) of Pub. L. 89–44 applicable with respect to articles sold on or after July 1, 1965, see section 802(d)(1) of Pub. L. 89–44, set out as a note under section 4082 of this title.
 
-### § 4223. Special rules relating to further manufacture
+### § 4223. Special rules relating to further manufacture
 
 **(a) Purchasing manufacturer to be treated as the manufacturer**
 
@@ -4325,13 +4325,13 @@ For purposes of this chapter, a manufacturer or producer to whom an article is s
 
 For purposes of this subsection, the price for which the article was sold shall be determined as provided in section 4216. For purposes of paragraph (2) no adjustment or readjustment shall be made in such price by reason of any discount, rebate, allowance, return or repossession of a container or covering, or otherwise. An election under paragraph (2) shall be made in the return reporting the tax applicable to the sale or use of the article, and may not be revoked.
 
-(Added Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1285; amended Pub. L. 86–418, § 2(b), Apr. 8, 1960, 74 Stat. 38; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title VII, § 735(c)(10), July 18, 1984, 98 Stat. 983.)
+(Added Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1285; amended Pub. L. 86–418, § 2(b), Apr. 8, 1960, 74 Stat. 38; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title VII, § 735(c)(10), July 18, 1984, 98 Stat. 983.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4223, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption of articles manufactured or produced by Indians, prior to repeal by Pub. L. 85–859, § 119(a). See section 4225 of this title.
+A prior section 4223, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption of articles manufactured or produced by Indians, prior to repeal by Pub. L. 85–859, § 119(a). See section 4225 of this title.
 
 **Amendments**
 
@@ -4351,11 +4351,11 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 Amendment by Pub. L. 86–418 applicable only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after April 8, 1960, see section 4 of Pub. L. 86–418, set out as a note under section 4221 of this title.
 
-### [§ 4224. Repealed. Pub. L. 89–44, title I, § 101(b)(5), June 21, 1965, 79 Stat. 136]
+### [§ 4224. Repealed. Pub. L. 89–44, title I, § 101(b)(5), June 21, 1965, 79 Stat. 136]
 
-Section, Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1286, exempted, with specified exemptions, articles taxable under section 4001 from the imposition of the manufacturers excise tax.
+Section, Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1286, exempted, with specified exemptions, articles taxable under section 4001 from the imposition of the manufacturers excise tax.
 
-A prior section 4224, act Aug. 16, 1954, ch. 736, 68A Stat. 495, exempted articles for the exclusive use of any State, Territory, or political subdivision of either, or the District of Columbia, prior to repeal by Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1282.
+A prior section 4224, act Aug. 16, 1954, ch. 736, 68A Stat. 495, exempted articles for the exclusive use of any State, Territory, or political subdivision of either, or the District of Columbia, prior to repeal by Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1282.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4363,17 +4363,17 @@ A prior section 4224, act Aug. 16, 1954, ch. 736, 68A Stat. 495, exempted articl
 
 Repeal applicable with respect to articles sold on or after June 22, 1965, see section 701(a) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 4161 of this title.
 
-### § 4225. Exemption of articles manufactured or produced by Indians
+### § 4225. Exemption of articles manufactured or produced by Indians
 
 No tax shall be imposed under this chapter on any article of native Indian handicraft manufactured or produced by Indians on Indian reservations, or in Indian schools, or by Indians under the jurisdiction of the United States Government in Alaska.
 
-(Added Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1286.)
+(Added Pub. L. 85–859, title I, § 119(a), Sept. 2, 1958, 72 Stat. 1286.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4225, act Aug. 16, 1954, ch. 736, 68A Stat. 496, related to exemption for exports, prior to repeal by Pub. L. 85–859, § 119(a). See section 4221 of this title.
+A prior section 4225, act Aug. 16, 1954, ch. 736, 68A Stat. 496, related to exemption for exports, prior to repeal by Pub. L. 85–859, § 119(a). See section 4221 of this title.
 
 **Executive Documents**
 
@@ -4381,17 +4381,17 @@ A prior section 4225, act Aug. 16, 1954, ch. 736, 68A Stat. 496, related to exem
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-### [§ 4226. Repealed. Pub. L. 94–455, title XIX, § 1904(a)(4), Oct. 4, 1976, 90 Stat. 1811]
+### [§ 4226. Repealed. Pub. L. 94–455, title XIX, § 1904(a)(4), Oct. 4, 1976, 90 Stat. 1811]
 
-Section, added June 29, 1956, ch. 462, title II, § 207(a), 70 Stat. 391; amended Sept. 21, 1959, Pub. L. 86–342, title II, § 201(c)(1)–(3), 73 Stat. 614; June 29, 1961, Pub. L. 87–61, title II, § 206(a), (b), 75 Stat. 127; Aug. 1, 1966, Pub. L. 89–523, § 2, 80 Stat. 331, related to floor stocks taxes for 1956 on tires of the type used on highway vehicles, on tread rubber, on gasoline, for 1959 on gasoline, for 1961 on certain tires and inner tubes and tread rubber, provisions relating to overpayment of floor stocks taxes, due date for taxes, taxes on certain tires and tubes, and definitions of “dealer” and “held by a dealer”.
+Section, added June 29, 1956, ch. 462, title II, § 207(a), 70 Stat. 391; amended Sept. 21, 1959, Pub. L. 86–342, title II, § 201(c)(1)–(3), 73 Stat. 614; June 29, 1961, Pub. L. 87–61, title II, § 206(a), (b), 75 Stat. 127; Aug. 1, 1966, Pub. L. 89–523, § 2, 80 Stat. 331, related to floor stocks taxes for 1956 on tires of the type used on highway vehicles, on tread rubber, on gasoline, for 1959 on gasoline, for 1961 on certain tires and inner tubes and tread rubber, provisions relating to overpayment of floor stocks taxes, due date for taxes, taxes on certain tires and tubes, and definitions of “dealer” and “held by a dealer”.
 
 A prior section 4226 of this title was renumbered section 4227.
 
-### § 4227. Cross reference
+### § 4227. Cross reference
 
 For exception for a sale to an Indian tribal government (or its subdivision) for the exclusive use of an Indian tribal government (or its subdivision), see section 7871.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 496, § 4226; renumbered § 4227, June 29, 1956, ch. 462, title II, § 207(a), 70 Stat. 391; amended Pub. L. 89–44, title II, § 208(f), June 21, 1965, 79 Stat. 141; Pub. L. 94–455, title XIX, § 1904(a)(5), Oct. 4, 1976, 90 Stat. 1811; Pub. L. 97–473, title II, § 202(b)(8), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title VII, § 735(c)(11), July 18, 1984, 98 Stat. 983; Pub. L. 99–514, title XVIII, § 1899A(49), Oct. 22, 1986, 100 Stat. 2961.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 496, § 4226; renumbered § 4227, June 29, 1956, ch. 462, title II, § 207(a), 70 Stat. 391; amended Pub. L. 89–44, title II, § 208(f), June 21, 1965, 79 Stat. 141; Pub. L. 94–455, title XIX, § 1904(a)(5), Oct. 4, 1976, 90 Stat. 1811; Pub. L. 97–473, title II, § 202(b)(8), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title VII, § 735(c)(11), July 18, 1984, 98 Stat. 983; Pub. L. 99–514, title XVIII, § 1899A(49), Oct. 22, 1986, 100 Stat. 2961.)
 
 **Editorial Notes**
 

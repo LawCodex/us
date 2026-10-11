@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 90—SECURE RURAL SCHOOLS AND COMMUNITY SELF-DETERMINATION
 
-## § 7101. Purposes
+## § 7101. Purposes
 
 The purposes of this chapter are—
 
@@ -55,7 +55,7 @@ The purposes of this chapter are—
 
 **(B)** the agencies that manage the Federal land.
 
-(Pub. L. 106–393, § 2, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.)
+(Pub. L. 106–393, § 2, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.)
 
 **Editorial Notes**
 
@@ -65,19 +65,19 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Prior Provisions**
 
-A prior section 2 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 2 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–58, § 1, Dec. 18, 2025, 139 Stat. 714, provided that: “This Act [amending sections 7111 to 7113, 7125, 7126, 7128, and 7144 of this title] may be cited as the ‘Secure Rural Schools Reauthorization Act of 2025’.”
+Pub. L. 119–58, § 1, Dec. 18, 2025, 139 Stat. 714, provided that: “This Act [amending sections 7111 to 7113, 7125, 7126, 7128, and 7144 of this title] may be cited as the ‘Secure Rural Schools Reauthorization Act of 2025’.”
 
 **Short Title**
 
-Pub. L. 106–393, § 1, as added by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893, provided that: “This Act [enacting this chapter, amending section 191 of Title 30, Mineral Lands and Mining, and section 6903 of Title 31, Money and Finance, enacting provisions set out as notes under sections 181 and 191 of Title 30, and repealing provisions set out as notes under section 500 of this title and former section 1181f of Title 43, Public Lands] may be cited as the ‘Secure Rural Schools and Community Self-Determination Act of 2000’.”
+Pub. L. 106–393, § 1, as added by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893, provided that: “This Act [enacting this chapter, amending section 191 of Title 30, Mineral Lands and Mining, and section 6903 of Title 31, Money and Finance, enacting provisions set out as notes under sections 181 and 191 of Title 30, and repealing provisions set out as notes under section 500 of this title and former section 1181f of Title 43, Public Lands] may be cited as the ‘Secure Rural Schools and Community Self-Determination Act of 2000’.”
 
-## § 7102. Definitions
+## § 7102. Definitions
 
 In this chapter:
 
@@ -97,9 +97,9 @@ In this chapter:
 
 **(i)** the number of acres of Federal land described in paragraph (7)(A) in each eligible county; by
 
-**(ii)** the total number acres 1
+**(ii)** the total number acres 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “of”.
+<sup>1</sup> So in original. Probably should be preceded by “of”.
 
 of Federal land in all eligible counties in all eligible States; and
 
@@ -149,7 +149,7 @@ The term “eligible State” means a State or territory of the United States th
 
 **(i)** the number of acres of Federal land described in paragraph (7)(B) in each eligible county; by
 
-**(ii)** the total number acres <sup>1</sup> of Federal land in all eligible counties in all eligible States; and
+**(ii)** the total number acres <sup>1</sup> of Federal land in all eligible counties in all eligible States; and
 
 **(B)** the quotient obtained by dividing—
 
@@ -161,9 +161,9 @@ The term “eligible State” means a State or territory of the United States th
 
 The term “50-percent payment” means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter 876; 50 Stat. 875; 43 U.S.C. 1181f),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.) 2.
+and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.) 2.
 
 **(11) Full funding amount** The term “full funding amount” means—
 
@@ -191,7 +191,7 @@ The term “per capita personal income” means the most recent per capita perso
 
 **(14) Safety net payments**
 
-The term “safety net payments” means the special payment amounts paid to States and counties required by section 13982 or 13983 <sup>2</sup> of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 16 U.S.C. 500 note; 43 U.S.C. 1181f note).
+The term “safety net payments” means the special payment amounts paid to States and counties required by section 13982 or 13983 <sup>2</sup> of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 16 U.S.C. 500 note; 43 U.S.C. 1181f note).
 
 **(15) Secretary concerned** The term “Secretary concerned” means—
 
@@ -207,7 +207,7 @@ The term “State payment” means the payment for an eligible State calculated 
 
 The term “25-percent payment” means the payment to States required by the sixth paragraph under the heading of “FOREST SERVICE” in the Act of May 23, 1908 (35 Stat. 260; 16 U.S.C. 500), and section 13 of the Act of March 1, 1911 (36 Stat. 963; 16 U.S.C. 500).
 
-(Pub. L. 106–393, § 3, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3894; amended Pub. L. 112–141, div. F, title I, § 100101(a)(1), July 6, 2012, 126 Stat. 905; Pub. L. 115–141, div. O, title IV, § 401(a)(1), Mar. 23, 2018, 132 Stat. 1076; Pub. L. 115–334, title VIII, § 8704(a)(1)(B), Dec. 20, 2018, 132 Stat. 4877; Pub. L. 117–58, div. D, title XII, § 41202(a), Nov. 15, 2021, 135 Stat. 1132.)
+(Pub. L. 106–393, § 3, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3894; amended Pub. L. 112–141, div. F, title I, § 100101(a)(1), July 6, 2012, 126 Stat. 905; Pub. L. 115–141, div. O, title IV, § 401(a)(1), Mar. 23, 2018, 132 Stat. 1076; Pub. L. 115–334, title VIII, § 8704(a)(1)(B), Dec. 20, 2018, 132 Stat. 4877; Pub. L. 117–58, div. D, title XII, § 41202(a), Nov. 15, 2021, 135 Stat. 1132.)
 
 **Editorial Notes**
 
@@ -215,17 +215,17 @@ The term “25-percent payment” means the payment to States required by the si
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-The Act of July 22, 1937, referred to in par. (7)(A), is act July 22, 1937, ch. 517, 50 Stat. 522, known as the Bankhead-Jones Farm Tenant Act, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
+The Act of July 22, 1937, referred to in par. (7)(A), is act July 22, 1937, ch. 517, 50 Stat. 522, known as the Bankhead-Jones Farm Tenant Act, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
 
-Act of August 28, 1937, referred to in par. (10), is act Aug. 28, 1937, ch. 876, 50 Stat. 874. Section 3 of the Act was classified to section 1181c of Title 43, Public Lands, prior to repeal by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. Title II of the Act enacted section 2605 of Title 43 (formerly classified to section 1181f of Title 43), repealed section 1174 of Title 43, and enacted provisions set out as a note under section 2601 of Title 43. For complete classification of this Act to the Code, see Tables.
+Act of August 28, 1937, referred to in par. (10), is act Aug. 28, 1937, ch. 876, 50 Stat. 874. Section 3 of the Act was classified to section 1181c of Title 43, Public Lands, prior to repeal by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. Title II of the Act enacted section 2605 of Title 43 (formerly classified to section 1181f of Title 43), repealed section 1174 of Title 43, and enacted provisions set out as a note under section 2601 of Title 43. For complete classification of this Act to the Code, see Tables.
 
-Act of May 24, 1939, referred to in par. (10), is act May 24, 1939, ch. 144, 53 Stat. 753, was formerly classified to sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43 prior to editorial reclassification, and is now classified generally to subchapter II (§ 2621 et seq.) of chapter 44 of Title 43. For complete classification of this Act to the Code, see Tables.
+Act of May 24, 1939, referred to in par. (10), is act May 24, 1939, ch. 144, 53 Stat. 753, was formerly classified to sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43 prior to editorial reclassification, and is now classified generally to subchapter II (§ 2621 et seq.) of chapter 44 of Title 43. For complete classification of this Act to the Code, see Tables.
 
-Sections 13982 and 13983 of the Omnibus Budget Reconciliation Act of 1993, referred to in par. (14), are sections 13982 and 13983 of Pub. L. 103–66, which were set out as notes under section 500 of this title and section 1181f of Title 43, Public Lands, respectively, prior to repeal by Pub. L. 106–393, title IV, § 404, Oct. 30, 2000, 114 Stat. 1623.
+Sections 13982 and 13983 of the Omnibus Budget Reconciliation Act of 1993, referred to in par. (14), are sections 13982 and 13983 of Pub. L. 103–66, which were set out as notes under section 500 of this title and section 1181f of Title 43, Public Lands, respectively, prior to repeal by Pub. L. 106–393, title IV, § 404, Oct. 30, 2000, 114 Stat. 1623.
 
 **Prior Provisions**
 
-A prior section 3 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 3 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
@@ -235,7 +235,7 @@ A prior section 3 of Pub. L. 106–393 was set out in a note under section 500 o
 
 “(E) for fiscal year 2018 and each fiscal year thereafter, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year.”
 
-2018—Par. (11)(C) to (E). Pub. L. 115–141, § 401(a)(1), as amended by Pub. L. 115–334, § 8704(a)(1)(B), substituted “through fiscal year 2015” for “and each fiscal year thereafter” in subpar. (C) and added subpars. (D) and (E).
+2018—Par. (11)(C) to (E). Pub. L. 115–141, § 401(a)(1), as amended by Pub. L. 115–334, § 8704(a)(1)(B), substituted “through fiscal year 2015” for “and each fiscal year thereafter” in subpar. (C) and added subpars. (D) and (E).
 
 2012—Par. (11)(B), (C). Pub. L. 112–141 substituted “each of fiscal years 2009 through 2011” for “fiscal year 2009 and each fiscal year thereafter” in subpar. (B) and added subpar. (C).
 
@@ -255,9 +255,9 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 116–6, div. E, title IV, § 427, Feb. 15, 2019, 133 Stat. 264.
+Pub. L. 116–6, div. E, title IV, § 427, Feb. 15, 2019, 133 Stat. 264.
 
-### § 7111. Secure payments for States containing Federal land
+### § 7111. Secure payments for States containing Federal land
 
 **(a) State payment** For each of fiscal years 2008 through 2015 and 2017 through 2026, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
 
@@ -309,31 +309,31 @@ If an eligible county that will receive a county payment for fiscal year 2024 or
 
 Not later than 45 days after December 18, 2025, the Secretary of the Treasury shall make all payments under this subchapter for each of fiscal years 2024 and 2025.
 
-(Pub. L. 106–393, title I, § 101, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(1)(A), Oct. 2, 2013, 127 Stat. 544; Pub. L. 114–10, title V, § 524(a)(1), (3), Apr. 16, 2015, 129 Stat. 178, 179; Pub. L. 115–141, div. O, title IV, § 401(a)(2), Mar. 23, 2018, 132 Stat. 1077; Pub. L. 116–94, div. I, title III, § 301(a)(1), Dec. 20, 2019, 133 Stat. 3020; Pub. L. 117–58, div. D, title XII, § 41202(b)(1), Nov. 15, 2021, 135 Stat. 1132; Pub. L. 119–58, § 2(a)(1), Dec. 18, 2025, 139 Stat. 714.)
+(Pub. L. 106–393, title I, § 101, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(1)(A), Oct. 2, 2013, 127 Stat. 544; Pub. L. 114–10, title V, § 524(a)(1), (3), Apr. 16, 2015, 129 Stat. 178, 179; Pub. L. 115–141, div. O, title IV, § 401(a)(2), Mar. 23, 2018, 132 Stat. 1077; Pub. L. 116–94, div. I, title III, § 301(a)(1), Dec. 20, 2019, 133 Stat. 3020; Pub. L. 117–58, div. D, title XII, § 41202(b)(1), Nov. 15, 2021, 135 Stat. 1132; Pub. L. 119–58, § 2(a)(1), Dec. 18, 2025, 139 Stat. 714.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 101 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 101 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
-2025—Subsecs. (a), (b). Pub. L. 119–58, § 2(a)(1)(A), substituted “2026” for “2023” in introductory provisions.
+2025—Subsecs. (a), (b). Pub. L. 119–58, § 2(a)(1)(A), substituted “2026” for “2023” in introductory provisions.
 
-Subsec. (e). Pub. L. 119–58, § 2(a)(1)(B), added subsec. (e).
+Subsec. (e). Pub. L. 119–58, § 2(a)(1)(B), added subsec. (e).
 
 2021—Subsecs. (a), (b). Pub. L. 117–58 substituted “2015 and 2017 through 2023” for “2015, 2017, 2018, 2019, and 2020” in introductory provisions.
 
 2019—Subsecs. (a), (b). Pub. L. 116–94 substituted “2018, 2019, and 2020” for “and 2018” in introductory provisions.
 
-2018—Subsecs. (a), (b). Pub. L. 115–141, § 401(a)(2)(A), substituted “2015, 2017, and 2018” for “2015” in introductory provisions.
+2018—Subsecs. (a), (b). Pub. L. 115–141, § 401(a)(2)(A), substituted “2015, 2017, and 2018” for “2015” in introductory provisions.
 
-Subsec. (d). Pub. L. 115–141, § 401(a)(2)(B), added subsec. (d).
+Subsec. (d). Pub. L. 115–141, § 401(a)(2)(B), added subsec. (d).
 
-2015—Subsecs. (a), (b). Pub. L. 114–10, § 524(a)(1), substituted “2015” for “2013” in introductory provisions.
+2015—Subsecs. (a), (b). Pub. L. 114–10, § 524(a)(1), substituted “2015” for “2013” in introductory provisions.
 
-Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
 2013—Subsecs. (a), (b). Pub. L. 113–40 substituted “2013” for “2012” in introductory provisions.
 
@@ -345,7 +345,7 @@ Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 7112. Payments to States and counties
+### § 7112. Payments to States and counties
 
 **(a) Payment amounts** Except as provided in section 7113 of this title, the Secretary of the Treasury shall pay to—
 
@@ -381,7 +381,7 @@ The election otherwise required by subparagraph (A) shall not apply for fiscal y
 
 The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2017 through 2020.1
 
-<sup>1</sup>  See County Elections for Fiscal Year 2021 Under the Secure Rural Schools and Community Self-Determination Act of 2000 note below.
+<sup>1</sup> See County Elections for Fiscal Year 2021 Under the Secure Rural Schools and Community Self-Determination Act of 2000 note below.
 
 **(E) Payments for each of fiscal years 2024 and 2025**
 
@@ -511,7 +511,7 @@ None of the funds made available to an eligible county under this chapter may be
 
 Payments to States made under this chapter and 25-percent payments made to States and Territories under the Acts of May 23, 1908, and March 1, 1911 (16 U.S.C. 500), shall continue to be made as direct payments and not as Federal financial assistance.
 
-(Pub. L. 106–393, title I, § 102, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), (3), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(1)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(b), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, § 401(a)(3)(A)–(D), Mar. 23, 2018, 132 Stat. 1077, 1078; Pub. L. 116–94, div. I, title III, § 301(a)(2)(A), (B), Dec. 20, 2019, 133 Stat. 3020; Pub. L. 119–58, § 2(b), Dec. 18, 2025, 139 Stat. 714.)
+(Pub. L. 106–393, title I, § 102, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), (3), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(1)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(b), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, § 401(a)(3)(A)–(D), Mar. 23, 2018, 132 Stat. 1077, 1078; Pub. L. 116–94, div. I, title III, § 301(a)(2)(A), (B), Dec. 20, 2019, 133 Stat. 3020; Pub. L. 119–58, § 2(b), Dec. 18, 2025, 139 Stat. 714.)
 
 **Editorial Notes**
 
@@ -525,33 +525,33 @@ Act of March 1, 1911, referred to in subsec. (f)(2), is act Mar. 1, 1911, ch. 18
 
 **Prior Provisions**
 
-A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
-2025—Subsec. (b)(1)(E). Pub. L. 119–58, § 2(b)(1)(A), added subpar. (E).
+2025—Subsec. (b)(1)(E). Pub. L. 119–58, § 2(b)(1)(A), added subpar. (E).
 
-Subsec. (b)(2)(C). Pub. L. 119–58, § 2(b)(1)(B), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 119–58, § 2(b)(1)(B), added subpar. (C).
 
-Subsec. (d)(1)(G). Pub. L. 119–58, § 2(b)(2)(A), added subpar. (G).
+Subsec. (d)(1)(G). Pub. L. 119–58, § 2(b)(2)(A), added subpar. (G).
 
-Subsec. (d)(3)(E). Pub. L. 119–58, § 2(b)(2)(B), added subpar. (E).
+Subsec. (d)(3)(E). Pub. L. 119–58, § 2(b)(2)(B), added subpar. (E).
 
-2019—Subsec. (b)(1)(D). Pub. L. 116–94, § 301(a)(2)(A)(i), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
+2019—Subsec. (b)(1)(D). Pub. L. 116–94, § 301(a)(2)(A)(i), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
 
-Subsec. (b)(2). Pub. L. 116–94, § 301(a)(2)(A)(ii), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 116–94, § 301(a)(2)(A)(ii), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in subpars. (A) and (B).
 
-Subsec. (d)(1)(F). Pub. L. 116–94, § 301(a)(2)(B)(i), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
+Subsec. (d)(1)(F). Pub. L. 116–94, § 301(a)(2)(B)(i), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
 
-Subsec. (d)(3)(D). Pub. L. 116–94, § 301(a)(2)(B)(ii), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
+Subsec. (d)(3)(D). Pub. L. 116–94, § 301(a)(2)(B)(ii), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
 
-2018—Subsec. (b)(1)(D). Pub. L. 115–141, § 401(a)(3)(A)(i), added subpar. (D).
+2018—Subsec. (b)(1)(D). Pub. L. 115–141, § 401(a)(3)(A)(i), added subpar. (D).
 
-Subsec. (b)(2). Pub. L. 115–141, § 401(a)(3)(A)(ii), inserted “and for fiscal years 2017 and 2018” after “2015” in subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 115–141, § 401(a)(3)(A)(ii), inserted “and for fiscal years 2017 and 2018” after “2015” in subpars. (A) and (B).
 
-Subsec. (d)(1)(B)(ii). Pub. L. 115–141, § 401(a)(3)(C)(i), substituted “any portion of the balance” for “not more than 7 percent of the total share for the eligible county of the State payment or the county payment”.
+Subsec. (d)(1)(B)(ii). Pub. L. 115–141, § 401(a)(3)(C)(i), substituted “any portion of the balance” for “not more than 7 percent of the total share for the eligible county of the State payment or the county payment”.
 
-Subsec. (d)(1)(C). Pub. L. 115–141, § 401(a)(3)(C)(ii), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “In the case of each eligible county to which more than $100,000, but less than $350,000, is distributed for any fiscal year pursuant to either or both of paragraphs (1)(B) and (2)(B) of subsection (a), the eligible county, with respect to the balance of any funds not expended pursuant to subparagraph (A) for that fiscal year, shall—
+Subsec. (d)(1)(C). Pub. L. 115–141, § 401(a)(3)(C)(ii), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “In the case of each eligible county to which more than $100,000, but less than $350,000, is distributed for any fiscal year pursuant to either or both of paragraphs (1)(B) and (2)(B) of subsection (a), the eligible county, with respect to the balance of any funds not expended pursuant to subparagraph (A) for that fiscal year, shall—
 
 “(i) reserve any portion of the balance for—
 
@@ -563,49 +563,49 @@ Subsec. (d)(1)(C). Pub. L. 115–141, § 401(a)(3)(C)(ii), added subpar. (C) a
 
 “(ii) return the portion of the balance not reserved under clause (i) to the Treasury of the United States.”
 
-Subsec. (d)(1)(F). Pub. L. 115–141, § 401(a)(3)(B)(i), added subpar. (F).
+Subsec. (d)(1)(F). Pub. L. 115–141, § 401(a)(3)(B)(i), added subpar. (F).
 
-Subsec. (d)(3)(B)(ii). Pub. L. 115–141, § 401(a)(3)(B)(ii)(I), substituted “purposes described in section 7122(b) of this title, section 7123(c) of this title, or section 7124(a)(5) of this title” for “purpose described in section 7122(b) of this title”.
+Subsec. (d)(3)(B)(ii). Pub. L. 115–141, § 401(a)(3)(B)(ii)(I), substituted “purposes described in section 7122(b) of this title, section 7123(c) of this title, or section 7124(a)(5) of this title” for “purpose described in section 7122(b) of this title”.
 
-Subsec. (d)(3)(D). Pub. L. 115–141, § 401(a)(3)(B)(ii)(II), added subpar. (D).
+Subsec. (d)(3)(D). Pub. L. 115–141, § 401(a)(3)(B)(ii)(II), added subpar. (D).
 
-Subsec. (f). Pub. L. 115–141, § 401(a)(3)(D), added subsec. (f).
+Subsec. (f). Pub. L. 115–141, § 401(a)(3)(D), added subsec. (f).
 
-2015—Subsec. (b)(1)(C). Pub. L. 114–10, § 524(b)(1), added subpar. (C).
+2015—Subsec. (b)(1)(C). Pub. L. 114–10, § 524(b)(1), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 114–10, § 524(b)(2)(A), inserted at end “If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015.”
+Subsec. (b)(2)(A). Pub. L. 114–10, § 524(b)(2)(A), inserted at end “If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015.”
 
-Subsec. (b)(2)(B). Pub. L. 114–10, § 524(b)(2)(B), substituted “fiscal year 2015” for “fiscal year 2013”.
+Subsec. (b)(2)(B). Pub. L. 114–10, § 524(b)(2)(B), substituted “fiscal year 2015” for “fiscal year 2013”.
 
-Subsec. (d)(1)(E). Pub. L. 114–10, § 524(b)(3)(A), added subpar. (E).
+Subsec. (d)(1)(E). Pub. L. 114–10, § 524(b)(3)(A), added subpar. (E).
 
-Subsec. (d)(3)(C). Pub. L. 114–10, § 524(b)(3)(B), added subpar. (C).
+Subsec. (d)(3)(C). Pub. L. 114–10, § 524(b)(3)(B), added subpar. (C).
 
-2013—Subsec. (b)(1)(A). Pub. L. 113–40, § 10(a)(1)(B)(i), substituted “2013” for “2012”.
+2013—Subsec. (b)(1)(A). Pub. L. 113–40, § 10(a)(1)(B)(i), substituted “2013” for “2012”.
 
-Subsec. (b)(2)(B). Pub. L. 113–40, § 10(a)(1)(B)(ii), substituted “2013” for “2012” in two places.
+Subsec. (b)(2)(B). Pub. L. 113–40, § 10(a)(1)(B)(ii), substituted “2013” for “2012” in two places.
 
-2012—Subsec. (b)(1)(A). Pub. L. 112–141, § 100101(a)(3)(A), substituted “2012” for “2008”.
+2012—Subsec. (b)(1)(A). Pub. L. 112–141, § 100101(a)(3)(A), substituted “2012” for “2008”.
 
-Subsec. (b)(2)(B). Pub. L. 112–141, § 100101(a)(3)(B), inserted “in 2012” before “, the election”.
+Subsec. (b)(2)(B). Pub. L. 112–141, § 100101(a)(3)(B), inserted “in 2012” before “, the election”.
 
-Pub. L. 112–141, § 100101(a)(2), substituted “fiscal year 2012” for “fiscal year 2011”.
+Pub. L. 112–141, § 100101(a)(2), substituted “fiscal year 2012” for “fiscal year 2011”.
 
-Subsec. (d)(1)(A). Pub. L. 112–141, § 100101(a)(3)(C)(i), substituted “subparagraph (D)” for “paragraph (3)(B)”.
+Subsec. (d)(1)(A). Pub. L. 112–141, § 100101(a)(3)(C)(i), substituted “subparagraph (D)” for “paragraph (3)(B)”.
 
-Subsec. (d)(1)(D). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(II), redesignated subsec. (d)(3)(B) as subpar. (D).
+Subsec. (d)(1)(D). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(II), redesignated subsec. (d)(3)(B) as subpar. (D).
 
-Subsec. (d)(3)(A). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(I), added subpar. (A) and struck out former subpar. (A) which related to notification of the Secretary of an election and failure to make an election.
+Subsec. (d)(3)(A). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(I), added subpar. (A) and struck out former subpar. (A) which related to notification of the Secretary of an election and failure to make an election.
 
-Subsec. (d)(3)(B). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(III), added subpar. (B). Former subpar. (B) redesignated subsec. (d)(1)(D).
+Subsec. (d)(3)(B). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(III), added subpar. (B). Former subpar. (B) redesignated subsec. (d)(1)(D).
 
 **Statutory Notes and Related Subsidiaries**
 
 **County Elections for Fiscal Year 2021 Under the Secure Rural Schools and Community Self-Determination Act of 2000**
 
-Pub. L. 117–102, § 1, Mar. 15, 2022, 136 Stat. 48, provided that: “Sections 102(b)(1)(D), 102(d)(1)(F), and 102(d)(3)(D) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7112(b)(1)(D), 7112(d)(1)(F), 7112(d)(3)(D)) shall be applied for fiscal year 2021.”
+Pub. L. 117–102, § 1, Mar. 15, 2022, 136 Stat. 48, provided that: “Sections 102(b)(1)(D), 102(d)(1)(F), and 102(d)(3)(D) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7112(b)(1)(D), 7112(d)(1)(F), 7112(d)(3)(D)) shall be applied for fiscal year 2021.”
 
-### § 7113. Transition payments to States
+### § 7113. Transition payments to States
 
 **(a) Definitions** In this section:
 
@@ -613,25 +613,25 @@ Pub. L. 117–102, § 1, Mar. 15, 2022, 136 Stat. 48, provided that: “Sectio
 
 **(A)** for fiscal year 2008, 90 percent of—
 
-**(i)** the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) 1
+**(i)** the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2008; and
 
-**(ii)** the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2008;
+**(ii)** the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2008;
 
 **(B)** for fiscal year 2009, 81 percent of—
 
-**(i)** the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2009; and
+**(i)** the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2009; and
 
-**(ii)** the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2009; and
+**(ii)** the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2009; and
 
 **(C)** for fiscal year 2010, 73 percent of—
 
-**(i)** the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2010; and
+**(i)** the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2010; and
 
-**(ii)** the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2010.
+**(ii)** the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2010.
 
 **(2) Covered State**
 
@@ -645,7 +645,7 @@ For each of fiscal years 2008 through 2010, in lieu of the payment amounts that 
 
 Except as provided in subsection (d), it is the intent of Congress that the method of distributing the payments under subsection (b) among the counties in the covered States for each of fiscal years 2008 through 2010 be in the same proportion that the payments were distributed to the eligible counties in fiscal year 2006.
 
-**(d) Distribution of payments in California** The following payments shall be distributed among the eligible counties in the State of California in the same proportion that payments under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) were distributed to the eligible counties for fiscal year 2006:
+**(d) Distribution of payments in California** The following payments shall be distributed among the eligible counties in the State of California in the same proportion that payments under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) were distributed to the eligible counties for fiscal year 2006:
 
 **(1)** Payments to the State of California under subsection (b).
 
@@ -655,19 +655,19 @@ Except as provided in subsection (d), it is the intent of Congress that the meth
 
 For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under section 7112(a) of this title.
 
-(Pub. L. 106–393, title I, § 103, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3899; amended Pub. L. 112–141, div. F, title I, § 100101(a)(4), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, § 10(a)(1)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(a)(4), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, § 401(a)(3)(E), Mar. 23, 2018, 132 Stat. 1078; Pub. L. 116–94, div. I, title III, § 301(a)(2)(C), Dec. 20, 2019, 133 Stat. 3020; Pub. L. 117–58, div. D, title XII, § 41202(b)(2), Nov. 15, 2021, 135 Stat. 1132; Pub. L. 119–58, § 2(a)(2), Dec. 18, 2025, 139 Stat. 714.)
+(Pub. L. 106–393, title I, § 103, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3899; amended Pub. L. 112–141, div. F, title I, § 100101(a)(4), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, § 10(a)(1)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(a)(4), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, § 401(a)(3)(E), Mar. 23, 2018, 132 Stat. 1078; Pub. L. 116–94, div. I, title III, § 301(a)(2)(C), Dec. 20, 2019, 133 Stat. 3020; Pub. L. 117–58, div. D, title XII, § 41202(b)(2), Nov. 15, 2021, 135 Stat. 1132; Pub. L. 119–58, § 2(a)(2), Dec. 18, 2025, 139 Stat. 714.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 102(a)(2) and 103(a)(2) (as in effect on September 29, 2006), referred to in subsecs. (a)(1) and (d), mean former sections 102(a)(2) and 103(a)(2), respectively, of Pub. L. 106–393, which were set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893. See Prior Provisions notes set out below and under section 7112 of this title.
+Sections 102(a)(2) and 103(a)(2) (as in effect on September 29, 2006), referred to in subsecs. (a)(1) and (d), mean former sections 102(a)(2) and 103(a)(2), respectively, of Pub. L. 106–393, which were set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893. See Prior Provisions notes set out below and under section 7112 of this title.
 
 This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 103 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 103 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
@@ -693,7 +693,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 ## SUBCHAPTER II—SPECIAL PROJECTS ON FEDERAL LAND
 
-### § 7121. Definitions
+### § 7121. Definitions
 
 In this subchapter:
 
@@ -717,15 +717,15 @@ The term “project funds” means all funds an eligible county elects under sec
 
 **(B)** a land and resource management plan prepared by the Forest Service for units of the National Forest System pursuant to section 1604 of this title.
 
-(Pub. L. 106–393, title II, § 201, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3900.)
+(Pub. L. 106–393, title II, § 201, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3900.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 201 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 201 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
-### § 7122. General limitation on use of project funds
+### § 7122. General limitation on use of project funds
 
 **(a) Limitation**
 
@@ -739,7 +739,7 @@ Project funds may be used by the Secretary concerned for the purpose of entering
 
 A resource advisory committee may, in accordance with section 7123 of this title, propose to use not more than 10 percent of the project funds of an eligible county for any fiscal year for administrative expenses associated with operating the resource advisory committee under this subchapter.
 
-(Pub. L. 106–393, title II, § 202, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3901; amended Pub. L. 112–141, div. F, title I, § 100101(a)(5), July 6, 2012, 126 Stat. 906.)
+(Pub. L. 106–393, title II, § 202, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3901; amended Pub. L. 112–141, div. F, title I, § 100101(a)(5), July 6, 2012, 126 Stat. 906.)
 
 **Editorial Notes**
 
@@ -749,13 +749,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Prior Provisions**
 
-A prior section 202 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 202 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
 2012—Subsec. (c). Pub. L. 112–141 added subsec. (c).
 
-### § 7123. Submission of project proposals
+### § 7123. Submission of project proposals
 
 **(a) Submission of project proposals to Secretary concerned**
 
@@ -791,7 +791,7 @@ Participating counties or other persons may propose to pool project funds or oth
 
 **(A)** tracks and identifies the positive or negative impacts of the project, implementation,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and provides for validation monitoring; and
 
@@ -807,13 +807,13 @@ and provides for validation monitoring; and
 
 Projects proposed under subsection (a) shall be consistent with section 7101 of this title.
 
-(Pub. L. 106–393, title II, § 203, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3901; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(2)(A), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(c)(1), Apr. 16, 2015, 129 Stat. 180.)
+(Pub. L. 106–393, title II, § 203, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3901; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(2)(A), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(c)(1), Apr. 16, 2015, 129 Stat. 180.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 203 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 203 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
@@ -823,7 +823,7 @@ A prior section 203 of Pub. L. 106–393 was set out in a note under section 500
 
 2012—Subsec. (a)(1). Pub. L. 112–141 substituted “2012” for “2011”.
 
-### § 7124. Evaluation and approval of projects by Secretary concerned
+### § 7124. Evaluation and approval of projects by Secretary concerned
 
 **(a) Conditions for approval of proposed project** The Secretary concerned may make a decision to approve a project submitted by a resource advisory committee under section 7123 of this title only if the proposed project satisfies each of the following conditions:
 
@@ -913,13 +913,13 @@ For any project involving a contract authorized by paragraph (1) the Secretary c
 
 **(2)** to restoration of streams and watersheds.
 
-(Pub. L. 106–393, title II, § 204, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, § 100101(a)(6), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, § 10(a)(2)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(c)(2), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(b)(1), Mar. 23, 2018, 132 Stat. 1079.)
+(Pub. L. 106–393, title II, § 204, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, § 100101(a)(6), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, § 10(a)(2)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(c)(2), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(b)(1), Mar. 23, 2018, 132 Stat. 1079.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 204 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 204 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
@@ -931,7 +931,7 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under section 500
 
 2012—Subsec. (e)(3)(B)(iii). Pub. L. 112–141 substituted “through 2012” for “and 2011”.
 
-### § 7125. Resource advisory committees
+### § 7125. Resource advisory committees
 
 **(a) Establishment and purpose of resource advisory committees**
 
@@ -949,7 +949,7 @@ The Secretary concerned shall establish and maintain resource advisory committee
 
 To ensure that each unit of Federal land has access to a resource advisory committee, and that there is sufficient interest in participation on a committee to ensure that membership can be balanced in terms of the points of view represented and the functions to be performed, the Secretary concerned may,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 establish resource advisory committees for part of, or 1 or more, units of Federal land.
 
@@ -1189,7 +1189,7 @@ Nothing in this paragraph relieves the Secretary concerned from any requirement 
 
 The authority provided under this subsection terminates on October 1, 2026.
 
-(Pub. L. 106–393, title II, § 205, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, § 100101(a)(7), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, § 10(a)(2)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 115–141, div. O, title IV, § 401(b)(2), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 115–334, title VIII, § 8702, Dec. 20, 2018, 132 Stat. 4875; Pub. L. 116–94, div. I, title III, § 301(b)(1), Dec. 20, 2019, 133 Stat. 3021; Pub. L. 117–58, div. D, title XII, § 41202(c), (d)(1), Nov. 15, 2021, 135 Stat. 1132, 1134; Pub. L. 119–58, §§ 2(c)(1), 3, 4(a), Dec. 18, 2025, 139 Stat. 715.)
+(Pub. L. 106–393, title II, § 205, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, § 100101(a)(7), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, § 10(a)(2)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 115–141, div. O, title IV, § 401(b)(2), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 115–334, title VIII, § 8702, Dec. 20, 2018, 132 Stat. 4875; Pub. L. 116–94, div. I, title III, § 301(b)(1), Dec. 20, 2019, 133 Stat. 3021; Pub. L. 117–58, div. D, title XII, § 41202(c), (d)(1), Nov. 15, 2021, 135 Stat. 1132, 1134; Pub. L. 119–58, §§ 2(c)(1), 3, 4(a), Dec. 18, 2025, 139 Stat. 715.)
 
 **Editorial Notes**
 
@@ -1199,21 +1199,21 @@ This chapter, referred to in subsecs. (a)(4)(B) and (b)(3), was in the original 
 
 **Prior Provisions**
 
-A prior section 205 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 205 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
-Subsec. (c)(1)(A). Pub. L. 119–58, § 4(a)(1)(A), struck out comma after “concerned”.
+Subsec. (c)(1)(A). Pub. L. 119–58, § 4(a)(1)(A), struck out comma after “concerned”.
 
-Subsec. (c)(3). Pub. L. 119–58, § 4(a)(1)(B), substituted “October 3, 2008” for “the date of the enactment of this Act”, which had been translated as “October 3, 2008” to reflect the probable intent of Congress, thus requiring no change in text.
+Subsec. (c)(3). Pub. L. 119–58, § 4(a)(1)(B), substituted “October 3, 2008” for “the date of the enactment of this Act”, which had been translated as “October 3, 2008” to reflect the probable intent of Congress, thus requiring no change in text.
 
-Subsec. (d)(4). Pub. L. 119–58, § 4(a)(2), substituted “to the extent” for “to extent”.
+Subsec. (d)(4). Pub. L. 119–58, § 4(a)(2), substituted “to the extent” for “to extent”.
 
-Subsec. (d)(6)(C). Pub. L. 119–58, § 2(c)(1), substituted “2026” for “2023”.
+Subsec. (d)(6)(C). Pub. L. 119–58, § 2(c)(1), substituted “2026” for “2023”.
 
-Subsec. (g)(5). Pub. L. 119–58, § 3(1), substituted “2026” for “2023”.
+Subsec. (g)(5). Pub. L. 119–58, § 3(1), substituted “2026” for “2023”.
 
-Subsec. (g)(6). Pub. L. 119–58, § 3(2), struck out par. (6). Text read as follows: “Not later 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
+Subsec. (g)(6). Pub. L. 119–58, § 3(2), struck out par. (6). Text read as follows: “Not later 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
 
 “(A) with respect to appointments made under the regional pilot program compared to appointments made under the national pilot program, a description of the extent to which—
 
@@ -1223,21 +1223,21 @@ Subsec. (g)(6). Pub. L. 119–58, § 3(2), struck out par. (6). Text read as f
 
 “(B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot programs.”
 
-2021—Subsec. (a)(4)(A), (B). Pub. L. 117–58, § 41202(d)(1), substituted “December 20, 2023” for “December 20, 2021” wherever appearing.
+2021—Subsec. (a)(4)(A), (B). Pub. L. 117–58, § 41202(d)(1), substituted “December 20, 2023” for “December 20, 2021” wherever appearing.
 
-Subsec. (g). Pub. L. 117–58, § 41202(c), added subsec. (g) and struck out former subsec. (g) which related to the regional appointment pilot program.
+Subsec. (g). Pub. L. 117–58, § 41202(c), added subsec. (g) and struck out former subsec. (g) which related to the regional appointment pilot program.
 
 2019—Subsec. (a)(4)(A), (B). Pub. L. 116–94 substituted “December 20, 2021” for “September 29, 2018” wherever appearing.
 
 2018—Subsec. (a)(4)(A), (B). Pub. L. 115–141 substituted “2018” for “2012” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 115–334, § 8702(1)(A), substituted “Except as provided in paragraph (6), each” for “Each”.
+Subsec. (d)(1). Pub. L. 115–334, § 8702(1)(A), substituted “Except as provided in paragraph (6), each” for “Each”.
 
-Subsec. (d)(2). Pub. L. 115–334, § 8702(1)(B), substituted “Except as provided in paragraph (6), committee” for “Committee” in introductory provisions.
+Subsec. (d)(2). Pub. L. 115–334, § 8702(1)(B), substituted “Except as provided in paragraph (6), committee” for “Committee” in introductory provisions.
 
-Subsec. (d)(6). Pub. L. 115–334, § 8702(1)(C), added par. (6).
+Subsec. (d)(6). Pub. L. 115–334, § 8702(1)(C), added par. (6).
 
-Subsec. (g). Pub. L. 115–334, § 8702(2), added subsec. (g).
+Subsec. (g). Pub. L. 115–334, § 8702(2), added subsec. (g).
 
 2013—Subsec. (a)(4)(A), (B). Pub. L. 113–40 substituted “2012” for “2011” wherever appearing.
 
@@ -1249,7 +1249,7 @@ Subsec. (g). Pub. L. 115–334, § 8702(2), added subsec. (g).
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 7126. Use of project funds
+### § 7126. Use of project funds
 
 **(a) Agreement regarding schedule and cost of project**
 
@@ -1289,19 +1289,19 @@ For the second and subsequent fiscal years of a multiyear project to be funded i
 
 The Secretary concerned shall suspend work on the project if the project funds required by the agreement in the second and subsequent fiscal years are not available.
 
-(Pub. L. 106–393, title II, § 206, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3907; amended Pub. L. 119–58, § 4(b), Dec. 18, 2025, 139 Stat. 716.)
+(Pub. L. 106–393, title II, § 206, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3907; amended Pub. L. 119–58, § 4(b), Dec. 18, 2025, 139 Stat. 716.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 206 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 206 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
 2025—Subsec. (b)(2). Pub. L. 119–58 struck out comma after “District concerned”.
 
-### § 7127. Availability of project funds
+### § 7127. Availability of project funds
 
 **(a) Submission of proposed projects to obligate funds**
 
@@ -1325,7 +1325,7 @@ If an approved project under this chapter is enjoined or prohibited by a Federal
 
 The returned funds shall be available for the county to expend in the same manner as the funds reserved by the county under subparagraph (B)(i), (B)(ii), or (C)(i) of section 7112(d)(1) of this title.
 
-(Pub. L. 106–393, title II, § 207, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3908; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(2)(D), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(c)(3), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(b)(3), Mar. 23, 2018, 132 Stat. 1079.)
+(Pub. L. 106–393, title II, § 207, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3908; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(2)(D), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(c)(3), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(b)(3), Mar. 23, 2018, 132 Stat. 1079.)
 
 **Editorial Notes**
 
@@ -1335,7 +1335,7 @@ This chapter, referred to in subsec. (d)(1), was in the original “this Act”,
 
 **Prior Provisions**
 
-A prior section 207 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 207 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
@@ -1347,7 +1347,7 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under section 500
 
 2012—Subsec. (a). Pub. L. 112–141 substituted “2012” for “2011”.
 
-### § 7128. Termination of authority
+### § 7128. Termination of authority
 
 **(a) In general**
 
@@ -1357,43 +1357,43 @@ The authority to initiate projects under this subchapter shall terminate on Sept
 
 Any project funds not obligated by September 30, 2029, shall be deposited in the Treasury of the United States.
 
-(Pub. L. 106–393, title II, § 208, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3909; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), (8), July 6, 2012, 126 Stat. 905, 906; Pub. L. 113–40, § 10(a)(2)(E), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(c)(4), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(b)(4), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 116–94, div. I, title III, § 301(b)(2), Dec. 20, 2019, 133 Stat. 3021; Pub. L. 117–58, div. D, title XII, § 41202(d)(2), Nov. 15, 2021, 135 Stat. 1134; Pub. L. 119–58, § 2(c)(2), Dec. 18, 2025, 139 Stat. 715.)
+(Pub. L. 106–393, title II, § 208, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3909; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), (8), July 6, 2012, 126 Stat. 905, 906; Pub. L. 113–40, § 10(a)(2)(E), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(c)(4), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(b)(4), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 116–94, div. I, title III, § 301(b)(2), Dec. 20, 2019, 133 Stat. 3021; Pub. L. 117–58, div. D, title XII, § 41202(d)(2), Nov. 15, 2021, 135 Stat. 1134; Pub. L. 119–58, § 2(c)(2), Dec. 18, 2025, 139 Stat. 715.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 208 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 208 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–58, § 2(c)(2)(A), substituted “2028” for “2025”.
+2025—Subsec. (a). Pub. L. 119–58, § 2(c)(2)(A), substituted “2028” for “2025”.
 
-Subsec. (b). Pub. L. 119–58, § 2(c)(2)(B), substituted “2029” for “2026”.
+Subsec. (b). Pub. L. 119–58, § 2(c)(2)(B), substituted “2029” for “2026”.
 
-2021—Subsec. (a). Pub. L. 117–58, § 41202(d)(2)(A), substituted “2025” for “2022”.
+2021—Subsec. (a). Pub. L. 117–58, § 41202(d)(2)(A), substituted “2025” for “2022”.
 
-Subsec. (b). Pub. L. 117–58, § 41202(d)(2)(B), substituted “2026” for “2023”.
+Subsec. (b). Pub. L. 117–58, § 41202(d)(2)(B), substituted “2026” for “2023”.
 
-2019—Subsec. (a). Pub. L. 116–94, § 301(b)(2)(A), substituted “2022” for “2020”.
+2019—Subsec. (a). Pub. L. 116–94, § 301(b)(2)(A), substituted “2022” for “2020”.
 
-Subsec. (b). Pub. L. 116–94, § 301(b)(2)(B), substituted “2023” for “2021”.
+Subsec. (b). Pub. L. 116–94, § 301(b)(2)(B), substituted “2023” for “2021”.
 
-2018—Subsec. (a). Pub. L. 115–141, § 401(b)(4)(A), substituted “2020” for “2017”.
+2018—Subsec. (a). Pub. L. 115–141, § 401(b)(4)(A), substituted “2020” for “2017”.
 
-Subsec. (b). Pub. L. 115–141, § 401(b)(4)(B), substituted “2021” for “2018”.
+Subsec. (b). Pub. L. 115–141, § 401(b)(4)(B), substituted “2021” for “2018”.
 
-2015—Subsec. (a). Pub. L. 114–10, § 524(c)(4)(A), substituted “2017” for “2013”.
+2015—Subsec. (a). Pub. L. 114–10, § 524(c)(4)(A), substituted “2017” for “2013”.
 
-Subsec. (b). Pub. L. 114–10, § 524(c)(4)(B), substituted “2018” for “2014”.
+Subsec. (b). Pub. L. 114–10, § 524(c)(4)(B), substituted “2018” for “2014”.
 
-2013—Subsec. (a). Pub. L. 113–40, § 10(a)(2)(E)(i), substituted “2013” for “2012”.
+2013—Subsec. (a). Pub. L. 113–40, § 10(a)(2)(E)(i), substituted “2013” for “2012”.
 
-Subsec. (b). Pub. L. 113–40, § 10(a)(2)(E)(ii), substituted “2014” for “2013”.
+Subsec. (b). Pub. L. 113–40, § 10(a)(2)(E)(ii), substituted “2014” for “2013”.
 
-2012—Subsec. (a). Pub. L. 112–141, § 100101(a)(2), substituted “2012” for “2011”.
+2012—Subsec. (a). Pub. L. 112–141, § 100101(a)(2), substituted “2012” for “2011”.
 
-Subsec. (b). Pub. L. 112–141, § 100101(a)(8), substituted “2013” for “2012”.
+Subsec. (b). Pub. L. 112–141, § 100101(a)(8), substituted “2013” for “2012”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1403,7 +1403,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 ## SUBCHAPTER III—COUNTY FUNDS
 
-### § 7141. Definitions
+### § 7141. Definitions
 
 In this subchapter:
 
@@ -1415,15 +1415,15 @@ The term “county funds” means all funds an eligible county elects under sect
 
 The term “participating county” means an eligible county that elects under section 7112(d) of this title to expend a portion of the Federal funds received under section 7112 of this title in accordance with this subchapter.
 
-(Pub. L. 106–393, title III, § 301, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3909.)
+(Pub. L. 106–393, title III, § 301, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3909.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 301 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 301 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
-### § 7142. Use
+### § 7142. Use
 
 **(a) Authorized uses** A participating county, including any applicable agencies of the participating county, shall use county funds, in accordance with this subchapter, only—
 
@@ -1451,25 +1451,25 @@ A prior section 301 of Pub. L. 106–393 was set out in a note under section 500
 
 **(2)** submit the proposal to any resource advisory committee established under section 7125 of this title for the participating county.
 
-(Pub. L. 106–393, title III, § 302, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3909; amended Pub. L. 112–141, div. F, title I, § 100101(a)(9), July 6, 2012, 126 Stat. 906; Pub. L. 115–141, div. O, title IV, § 402, Mar. 23, 2018, 132 Stat. 1079; Pub. L. 117–58, div. D, title XII, § 41202(e), Nov. 15, 2021, 135 Stat. 1134.)
+(Pub. L. 106–393, title III, § 302, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3909; amended Pub. L. 112–141, div. F, title I, § 100101(a)(9), July 6, 2012, 126 Stat. 906; Pub. L. 115–141, div. O, title IV, § 402, Mar. 23, 2018, 132 Stat. 1079; Pub. L. 117–58, div. D, title XII, § 41202(e), Nov. 15, 2021, 135 Stat. 1134.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 302 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 302 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
 2021—Subsec. (a)(5). Pub. L. 117–58 added par. (5).
 
-2018—Subsec. (a)(2). Pub. L. 115–141, § 402(1), inserted “and law enforcement patrols” after “including firefighting” in introductory provisions and struck out “and” at end of subpar. (B).
+2018—Subsec. (a)(2). Pub. L. 115–141, § 402(1), inserted “and law enforcement patrols” after “including firefighting” in introductory provisions and struck out “and” at end of subpar. (B).
 
-Subsec. (a)(3). Pub. L. 115–141, § 402(4), added par. (3). Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 115–141, § 402(4), added par. (3). Former par. (3) redesignated (4).
 
-Pub. L. 115–141, § 402(2), inserted “and carry out” after “develop”.
+Pub. L. 115–141, § 402(2), inserted “and carry out” after “develop”.
 
-Subsec. (a)(4). Pub. L. 115–141, § 402(3), redesignated par. (3) as (4).
+Subsec. (a)(4). Pub. L. 115–141, § 402(3), redesignated par. (3) as (4).
 
 2012—Subsec. (a)(2)(A). Pub. L. 112–141 inserted “and” at end.
 
@@ -1479,7 +1479,7 @@ Subsec. (a)(4). Pub. L. 115–141, § 402(3), redesignated par. (3) as (4).
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 7143. Certification
+### § 7143. Certification
 
 **(a) In general**
 
@@ -1489,15 +1489,15 @@ Not later than February 1 of the year after the year in which any county funds w
 
 The Secretary concerned shall review the certifications submitted under subsection (a) as the Secretary concerned determines to be appropriate.
 
-(Pub. L. 106–393, title III, § 303, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910.)
+(Pub. L. 106–393, title III, § 303, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 303 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 303 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
-### § 7143a. Amounts obligated but unspent; prohibition on use of funds
+### § 7143a. Amounts obligated but unspent; prohibition on use of funds
 
 **(a) Amounts obligated but unspent** Any county funds that were obligated by the applicable participating county before October 1, 2017, but are unspent on October 1, 2020—
 
@@ -1513,7 +1513,7 @@ A prior section 303 of Pub. L. 106–393 was set out in a note under section 500
 
 Notwithstanding any other provision of law, effective beginning on November 15, 2021, no county funds made available under this subchapter may be used by any participating county for any lobbying activity, regardless of the purpose for which the funds are obligated on or before that date.
 
-(Pub. L. 106–393, title III, § 304, as added Pub. L. 117–58, div. D, title XII, § 41202(g)(2), Nov. 15, 2021, 135 Stat. 1134.)
+(Pub. L. 106–393, title III, § 304, as added Pub. L. 117–58, div. D, title XII, § 41202(g)(2), Nov. 15, 2021, 135 Stat. 1134.)
 
 **Editorial Notes**
 
@@ -1527,7 +1527,7 @@ A prior section 304 of Pub. L. 106–393 was renumbered section 305 and is class
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 7144. Termination of authority
+### § 7144. Termination of authority
 
 **(a) In general**
 
@@ -1537,39 +1537,39 @@ The authority to initiate projects under this subchapter terminates on September
 
 Any county funds not obligated by September 30, 2029, shall be returned to the Treasury of the United States.
 
-(Pub. L. 106–393, title III, § 305, formerly § 304, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), (10), July 6, 2012, 126 Stat. 905, 906; Pub. L. 113–40, § 10(a)(3), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(d), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(c), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 116–94, div. I, title III, § 301(c), Dec. 20, 2019, 133 Stat. 3021; renumbered § 305 and amended Pub. L. 117–58, div. D, title XII, § 41202(f), (g)(1), Nov. 15, 2021, 135 Stat. 1134; Pub. L. 119–58, § 2(d), Dec. 18, 2025, 139 Stat. 715.)
+(Pub. L. 106–393, title III, § 305, formerly § 304, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), (10), July 6, 2012, 126 Stat. 905, 906; Pub. L. 113–40, § 10(a)(3), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(d), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(c), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 116–94, div. I, title III, § 301(c), Dec. 20, 2019, 133 Stat. 3021; renumbered § 305 and amended Pub. L. 117–58, div. D, title XII, § 41202(f), (g)(1), Nov. 15, 2021, 135 Stat. 1134; Pub. L. 119–58, § 2(d), Dec. 18, 2025, 139 Stat. 715.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–58, § 2(d)(1), substituted “2028” for “2025”.
+2025—Subsec. (a). Pub. L. 119–58, § 2(d)(1), substituted “2028” for “2025”.
 
-Subsec. (b). Pub. L. 119–58, § 2(d)(2), substituted “2029” for “2026”.
+Subsec. (b). Pub. L. 119–58, § 2(d)(2), substituted “2029” for “2026”.
 
-2021—Subsec. (a). Pub. L. 117–58, § 41202(f)(1), substituted “2025” for “2022”.
+2021—Subsec. (a). Pub. L. 117–58, § 41202(f)(1), substituted “2025” for “2022”.
 
-Subsec. (b). Pub. L. 117–58, § 41202(f)(2), substituted “2026” for “2023”.
+Subsec. (b). Pub. L. 117–58, § 41202(f)(2), substituted “2026” for “2023”.
 
-2019—Subsec. (a). Pub. L. 116–94, § 301(c)(1), substituted “2022” for “2020”.
+2019—Subsec. (a). Pub. L. 116–94, § 301(c)(1), substituted “2022” for “2020”.
 
-Subsec. (b). Pub. L. 116–94, § 301(c)(2), substituted “2023” for “2021”.
+Subsec. (b). Pub. L. 116–94, § 301(c)(2), substituted “2023” for “2021”.
 
-2018—Subsec. (a). Pub. L. 115–141, § 401(c)(1), substituted “2020” for “2017”.
+2018—Subsec. (a). Pub. L. 115–141, § 401(c)(1), substituted “2020” for “2017”.
 
-Subsec. (b). Pub. L. 115–141, § 401(c)(2), substituted “2021” for “2018”.
+Subsec. (b). Pub. L. 115–141, § 401(c)(2), substituted “2021” for “2018”.
 
-2015—Subsec. (a). Pub. L. 114–10, § 524(d)(1), substituted “2017” for “2013”.
+2015—Subsec. (a). Pub. L. 114–10, § 524(d)(1), substituted “2017” for “2013”.
 
-Subsec. (b). Pub. L. 114–10, § 524(d)(2), substituted “2018” for “2014”.
+Subsec. (b). Pub. L. 114–10, § 524(d)(2), substituted “2018” for “2014”.
 
-2013—Subsec. (a). Pub. L. 113–40, § 10(a)(3)(A), substituted “2013” for “2012”.
+2013—Subsec. (a). Pub. L. 113–40, § 10(a)(3)(A), substituted “2013” for “2012”.
 
-Subsec. (b). Pub. L. 113–40, § 10(a)(3)(B), substituted “2014” for “2013”.
+Subsec. (b). Pub. L. 113–40, § 10(a)(3)(B), substituted “2014” for “2013”.
 
-2012—Subsec. (a). Pub. L. 112–141, § 100101(a)(2), substituted “2012” for “2011”.
+2012—Subsec. (a). Pub. L. 112–141, § 100101(a)(2), substituted “2012” for “2011”.
 
-Subsec. (b). Pub. L. 112–141, § 100101(a)(10), substituted “2013” for “2012”.
+Subsec. (b). Pub. L. 112–141, § 100101(a)(10), substituted “2013” for “2012”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1579,11 +1579,11 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 ## SUBCHAPTER IV—MISCELLANEOUS PROVISIONS
 
-### § 7151. Regulations
+### § 7151. Regulations
 
 The Secretary of Agriculture and the Secretary of the Interior shall issue regulations to carry out the purposes of this chapter.
 
-(Pub. L. 106–393, title IV, § 401, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910.)
+(Pub. L. 106–393, title IV, § 401, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910.)
 
 **Editorial Notes**
 
@@ -1593,13 +1593,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Prior Provisions**
 
-A prior section 401 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 401 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
-### § 7152. Authorization of appropriations
+### § 7152. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 106–393, title IV, § 402, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(4), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(e), Apr. 16, 2015, 129 Stat. 180.)
+(Pub. L. 106–393, title IV, § 402, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, § 10(a)(4), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(e), Apr. 16, 2015, 129 Stat. 180.)
 
 **Editorial Notes**
 
@@ -1609,7 +1609,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Prior Provisions**
 
-A prior section 402 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 402 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
@@ -1619,7 +1619,7 @@ A prior section 402 of Pub. L. 106–393 was set out in a note under section 500
 
 2012—Pub. L. 112–141 substituted “2012” for “2011”.
 
-### § 7153. Treatment of funds and revenues
+### § 7153. Treatment of funds and revenues
 
 **(a) Relation to other appropriations**
 
@@ -1629,10 +1629,10 @@ Funds made available under section 7152 of this title and funds made available t
 
 All revenues generated from projects pursuant to subchapter II, including any interest accrued from the revenues, shall be deposited in the Treasury of the United States.
 
-(Pub. L. 106–393, title IV, § 403, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910.)
+(Pub. L. 106–393, title IV, § 403, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 403 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 403 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.

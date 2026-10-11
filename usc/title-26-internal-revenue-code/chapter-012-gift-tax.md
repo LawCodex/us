@@ -21,13 +21,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1981—Pub. L. 97–34, title IV, § 442(a)(4)(E), Aug. 13, 1981, 95 Stat. 321, substituted “preceding calendar periods” for “preceding years and quarters” in item 2504.
+1981—Pub. L. 97–34, title IV, § 442(a)(4)(E), Aug. 13, 1981, 95 Stat. 321, substituted “preceding calendar periods” for “preceding years and quarters” in item 2504.
 
-1976—Pub. L. 94–455, title XX, § 2001(c)(2)(B)(i), Oct. 4, 1976, 90 Stat. 1853, added item 2505.
+1976—Pub. L. 94–455, title XX, § 2001(c)(2)(B)(i), Oct. 4, 1976, 90 Stat. 1853, added item 2505.
 
-1970—Pub. L. 91–614, title I, § 102(a)(4)(B), Dec. 31, 1970, 84 Stat. 1840, substituted “Taxable gifts for preceding years and quarters” for “Taxable gifts for preceding years” in item 2504.
+1970—Pub. L. 91–614, title I, § 102(a)(4)(B), Dec. 31, 1970, 84 Stat. 1840, substituted “Taxable gifts for preceding years and quarters” for “Taxable gifts for preceding years” in item 2504.
 
-### § 2501. Imposition of tax
+### § 2501. Imposition of tax
 
 **(a) Taxable transfers**
 
@@ -95,7 +95,7 @@ A donor who is a citizen of the United States and a resident of a possession the
 
 **(2)** For exclusion of transfers of property outside the United States by a nonresident who is not a citizen of the United States, see section 2511(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 85–866, title I, §§ 43(b), 102(b), Sept. 2, 1958, 72 Stat. 1641, 1674; Pub. L. 86–779, § 4(d), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, § 109(a), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 91–614, title I, § 102(a)(1), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–625, § 14(a), Jan. 3, 1975, 88 Stat. 2121; Pub. L. 94–455, title XIX, §§ 1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1805, 1834; Pub. L. 97–34, title IV, § 442(a)(1), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–647, title III, § 3031(a)(2), Nov. 10, 1988, 102 Stat. 3635; Pub. L. 101–508, title XI, § 11601(b)(2), Nov. 5, 1990, 104 Stat. 1388–490; Pub. L. 104–191, title V, § 511(e)(2), (f)(2)(B), Aug. 21, 1996, 110 Stat. 2098, 2100; Pub. L. 105–34, title XVI, § 1602(g)(5), Aug. 5, 1997, 111 Stat. 1095; Pub. L. 108–357, title VIII, § 804(d), Oct. 22, 2004, 118 Stat. 1571; Pub. L. 114–113, div. Q, title IV, § 408(a), Dec. 18, 2015, 129 Stat. 3120.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 85–866, title I, §§ 43(b), 102(b), Sept. 2, 1958, 72 Stat. 1641, 1674; Pub. L. 86–779, § 4(d), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, § 109(a), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 91–614, title I, § 102(a)(1), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–625, § 14(a), Jan. 3, 1975, 88 Stat. 2121; Pub. L. 94–455, title XIX, §§ 1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1805, 1834; Pub. L. 97–34, title IV, § 442(a)(1), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–647, title III, § 3031(a)(2), Nov. 10, 1988, 102 Stat. 3635; Pub. L. 101–508, title XI, § 11601(b)(2), Nov. 5, 1990, 104 Stat. 1388–490; Pub. L. 104–191, title V, § 511(e)(2), (f)(2)(B), Aug. 21, 1996, 110 Stat. 2098, 2100; Pub. L. 105–34, title XVI, § 1602(g)(5), Aug. 5, 1997, 111 Stat. 1095; Pub. L. 108–357, title VIII, § 804(d), Oct. 22, 2004, 118 Stat. 1571; Pub. L. 114–113, div. Q, title IV, § 408(a), Dec. 18, 2015, 129 Stat. 3120.)
 
 **Editorial Notes**
 
@@ -107,13 +107,13 @@ A donor who is a citizen of the United States and a resident of a possession the
 
 1997—Subsec. (a)(3)(C). Pub. L. 105–34 substituted “donor” for “decedent”.
 
-1996—Subsec. (a)(3). Pub. L. 104–191, § 511(e)(2), substituted “Exception” for “Exceptions” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (2) shall not apply in the case of a donor who at any time after March 8, 1965, and within the 10-year period ending with the date of transfer lost United States citizenship unless—
+1996—Subsec. (a)(3). Pub. L. 104–191, § 511(e)(2), substituted “Exception” for “Exceptions” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (2) shall not apply in the case of a donor who at any time after March 8, 1965, and within the 10-year period ending with the date of transfer lost United States citizenship unless—
 
 “(A) such donor’s loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487), or
 
 “(B) such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
 
-Subsec. (a)(3)(E). Pub. L. 104–191, § 511(f)(2)(B), added subpar. (E).
+Subsec. (a)(3)(E). Pub. L. 104–191, § 511(f)(2)(B), added subpar. (E).
 
 1990—Subsec. (d)(3). Pub. L. 101–508 struck out par. (3) which read as follows: “For treatment of certain transfers related to estate tax valuation freezes as gifts to which this chapter applies, see section 2036(c)(4).”
 
@@ -123,29 +123,29 @@ Subsec. (a)(3)(E). Pub. L. 104–191, § 511(f)(2)(B), added subpar. (E).
 
 1976—Subsec. (a)(1). Pub. L. 94–455 inserted “for each calendar quarter” after “hereby imposed” and struck out “For the first calendar quarter of calendar year 1971 and each calendar quarter thereafter” after “General rule-”.
 
-Subsec. (a)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (a)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1975—Subsec. (a)(5). Pub. L. 93–625 added par. (5).
 
-1970—Subsec. (a)(1). Pub. L. 91–614, § 102(a)(1)(A), substituted “For the first calendar quarter of the calendar year 1971 and each calendar quarter thereafter” for “For the calendar year 1955 and each calendar year thereafter” and “during such calendar quarter” for “during such calendar year”.
+1970—Subsec. (a)(1). Pub. L. 91–614, § 102(a)(1)(A), substituted “For the first calendar quarter of the calendar year 1971 and each calendar quarter thereafter” for “For the calendar year 1955 and each calendar year thereafter” and “during such calendar quarter” for “during such calendar year”.
 
-Subsec. (a)(4). Pub. L. 91–614, § 102(a)(1)(B), substituted “calendar quarter” for “calendar year”.
+Subsec. (a)(4). Pub. L. 91–614, § 102(a)(1)(B), substituted “calendar quarter” for “calendar year”.
 
-1966—Subsec. (a). Pub. L. 89–809 redesignated existing provisions as par. (1), struck out “, except transfers of intangible property by a nonresident not a citizen of the United States and who was not engaged in business in the United States during such calendar year” after “resident or nonresident”, and added pars. (2) to (4).
+1966—Subsec. (a). Pub. L. 89–809 redesignated existing provisions as par. (1), struck out “, except transfers of intangible property by a nonresident not a citizen of the United States and who was not engaged in business in the United States during such calendar year” after “resident or nonresident”, and added pars. (2) to (4).
 
-1960—Subsec. (a). Pub. L. 86–779, § 4(d)(2), struck out “who is” before “not a citizen”.
+1960—Subsec. (a). Pub. L. 86–779, § 4(d)(2), struck out “who is” before “not a citizen”.
 
-Subsecs. (c), (d). Pub. L. 86–779, § 4(d)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 86–779, § 4(d)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1958—Subsec. (b). Pub. L. 85–866, § 102(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+1958—Subsec. (b). Pub. L. 85–866, § 102(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-Subsec. (c). Pub. L. 85–866, § 102(b), redesignated former subsec. (b) as (c) and Pub. L. 85–866, § 43(b), made the heading read in the plural, designated existing provisions as par. (2) and added par. (1).
+Subsec. (c). Pub. L. 85–866, § 102(b), redesignated former subsec. (b) as (c) and Pub. L. 85–866, § 43(b), made the heading read in the plural, designated existing provisions as par. (2) and added par. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title IV, § 408(b), Dec. 18, 2015, 129 Stat. 3121, provided that: “The amendment made by subsection (a) [amending this section] shall apply to gifts made after the date of the enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. Q, title IV, § 408(b), Dec. 18, 2015, 129 Stat. 3121, provided that: “The amendment made by subsection (a) [amending this section] shall apply to gifts made after the date of the enactment of this Act [Dec. 18, 2015].”
 
 **Effective Date of 2004 Amendment**
 
@@ -169,27 +169,27 @@ Amendment by Pub. L. 100–647 applicable in cases where transfer referred to in
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title IV, § 442(e), Aug. 13, 1981, 95 Stat. 323, provided that: “The amendments made by this section [amending this section and sections 1015, 2502, 2503, 2504, 2505, 2512, 2513, 2522, 6019, 6075, and 6212 of this title] shall apply with respect to gifts made after December 31, 1981.”
+Pub. L. 97–34, title IV, § 442(e), Aug. 13, 1981, 95 Stat. 323, provided that: “The amendments made by this section [amending this section and sections 1015, 2502, 2503, 2504, 2505, 2512, 2513, 2522, 6019, 6075, and 6212 of this title] shall apply with respect to gifts made after December 31, 1981.”
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIX, § 1902(c)(2), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, § 703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (10), (11), and (12)(D) and (E) of subsection (a) [amending this section and sections 2522 and 2523 of this title] shall apply with respect to gifts made after December 31, 1976.”
+Pub. L. 94–455, title XIX, § 1902(c)(2), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, § 703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (10), (11), and (12)(D) and (E) of subsection (a) [amending this section and sections 2522 and 2523 of this title] shall apply with respect to gifts made after December 31, 1976.”
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–625, § 14(b), Jan. 3, 1975, 88 Stat. 2121, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transfers made after May 7, 1974.”
+Pub. L. 93–625, § 14(b), Jan. 3, 1975, 88 Stat. 2121, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transfers made after May 7, 1974.”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–614, title I, § 102(e), Dec. 31, 1970, 84 Stat. 1842, provided that: “The amendments made by this section [amending this section and sections 1015, 2012, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 6019, 6075, 6212, 6214, 6324, 6501, and 6512 of this title and enacting provisions set out as a note under this section] shall apply with respect to gifts made after December 31, 1970.”
+Pub. L. 91–614, title I, § 102(e), Dec. 31, 1970, 84 Stat. 1842, provided that: “The amendments made by this section [amending this section and sections 1015, 2012, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 6019, 6075, 6212, 6214, 6324, 6501, and 6512 of this title and enacting provisions set out as a note under this section] shall apply with respect to gifts made after December 31, 1970.”
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–809, title I, § 109(c), Nov. 13, 1966, 80 Stat. 1575, provided that: “The amendments made by this section [amending this section and section 2511 of this title] shall apply with respect to the calendar year 1967 and all calendar years there­after.”
+Pub. L. 89–809, title I, § 109(c), Nov. 13, 1966, 80 Stat. 1575, provided that: “The amendments made by this section [amending this section and section 2511 of this title] shall apply with respect to the calendar year 1967 and all calendar years there­after.”
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–779, § 4(e)(3), Sept. 14, 1960, 74 Stat. 1000, provided that: “The amendments made by subsection (d) [amending this section] shall apply with respect to gifts made after the date of the enactment of this Act [Sept. 14, 1960].”
+Pub. L. 86–779, § 4(e)(3), Sept. 14, 1960, 74 Stat. 1000, provided that: “The amendments made by subsection (d) [amending this section] shall apply with respect to gifts made after the date of the enactment of this Act [Sept. 14, 1960].”
 
 **Effective Date of 1958 Amendment**
 
@@ -197,11 +197,11 @@ Amendment by Pub. L. 85–866 applicable to gifts made after September 2, 1958, 
 
 **Construction of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title IV, § 408(c), Dec. 18, 2015, 129 Stat. 3121, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall be construed to create any inference with respect to whether any transfer of property (whether made before, on, or after the date of the enactment of this Act [Dec. 18, 2015]) to an organization described in paragraph (4), (5), or (6) of section 501(c) of the Internal Revenue Code of 1986 is a transfer of property by gift for purposes of chapter 12 of such Code.”
+Pub. L. 114–113, div. Q, title IV, § 408(c), Dec. 18, 2015, 129 Stat. 3121, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall be construed to create any inference with respect to whether any transfer of property (whether made before, on, or after the date of the enactment of this Act [Dec. 18, 2015]) to an organization described in paragraph (4), (5), or (6) of section 501(c) of the Internal Revenue Code of 1986 is a transfer of property by gift for purposes of chapter 12 of such Code.”
 
 **Election To Have Amendments by Title IV of the Economic Recovery Tax Act of 1981 Not Apply**
 
-Pub. L. 97–448, title I, § 104(d)(3), Jan. 12, 1983, 96 Stat. 2383, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–448, title I, § 104(d)(3), Jan. 12, 1983, 96 Stat. 2383, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(A)** In the case of any decedent—
 
@@ -215,7 +215,7 @@ Pub. L. 97–448, title I, § 104(d)(3), Jan. 12, 1983, 96 Stat. 2383, as amen
 
 > **“(C)** An election under subparagraph (A), once made, shall be irrevocable.”
 
-### § 2502. Rate of tax
+### § 2502. Rate of tax
 
 **(a) Computation of tax** The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
 
@@ -237,23 +237,23 @@ For purposes of paragraph (1), the term “calendar year 1932” includes only t
 
 The tax imposed by section 2501 shall be paid by the donor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 91–614, title I, § 102(a)(2), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, § 2001(b)(1), Oct. 4, 1976, 90 Stat. 1849; Pub. L. 97–34, title IV, § 442(a)(2), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–203, title X, § 10401(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 107–16, title V, § 511(d), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, § 302(b)(2), Dec. 17, 2010, 124 Stat. 3301.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 91–614, title I, § 102(a)(2), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, § 2001(b)(1), Oct. 4, 1976, 90 Stat. 1849; Pub. L. 97–34, title IV, § 442(a)(2), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–203, title X, § 10401(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 107–16, title V, § 511(d), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, § 302(b)(2), Dec. 17, 2010, 124 Stat. 3301.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–312 amended subsec. (a) to read as if amendment by Pub. L. 107–16, § 511(d), had never been enacted. See 2001 Amendment note below.
+2010—Subsec. (a). Pub. L. 111–312 amended subsec. (a) to read as if amendment by Pub. L. 107–16, § 511(d), had never been enacted. See 2001 Amendment note below.
 
-2001—Subsec. (a). Pub. L. 107–16, § 511(d), amended subsec. (a) generally. Prior to amendment, text read as follows: “The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
+2001—Subsec. (a). Pub. L. 107–16, § 511(d), amended subsec. (a) generally. Prior to amendment, text read as follows: “The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
 
 “(1) a tentative tax, computed under section 2001(c), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over
 
 “(2) a tentative tax, computed under such section, on the aggregate sum of the taxable gifts for each of the preceding calendar periods.”
 
-1987—Subsec. (a)(1). Pub. L. 100–203, § 10401(b)(2)(B)(i), substituted “under section 2001(c)” for “in accordance with the rate schedule set forth in section 2001(c)”.
+1987—Subsec. (a)(1). Pub. L. 100–203, § 10401(b)(2)(B)(i), substituted “under section 2001(c)” for “in accordance with the rate schedule set forth in section 2001(c)”.
 
-Subsec. (a)(2). Pub. L. 100–203, § 10401(b)(2)(B)(ii), substituted “under such section” for “in accordance with such rate schedule”.
+Subsec. (a)(2). Pub. L. 100–203, § 10401(b)(2)(B)(ii), substituted “under such section” for “in accordance with such rate schedule”.
 
 1981—Subsec. (a). Pub. L. 97–34 substituted in introductory text and par. (1) “calendar year” for “calendar quarter” and in pars. (1) and (2) “calendar periods” for “calendar years and calendar quarters”.
 
@@ -263,21 +263,21 @@ Subsecs. (c), (d). Pub. L. 97–34 redesignated subsec. (d) as (c). Former subse
 
 1976—Subsec. (a). Pub. L. 94–455 inserted “tentative” after “(1) a” and “(2) a” and substituted in par. (1) “section 2001(c)” for “this subsection” after “set forth in”.
 
-1970—Subsec. (a). Pub. L. 91–614, § 102(a)(2)(A), substituted a computation of tax formula based on the current calendar quarter, preceding calendar quarters, and preceding calendar years for a formula based entirely on the current and preceding calendar years.
+1970—Subsec. (a). Pub. L. 91–614, § 102(a)(2)(A), substituted a computation of tax formula based on the current calendar quarter, preceding calendar quarters, and preceding calendar years for a formula based entirely on the current and preceding calendar years.
 
-Subsec. (b). Pub. L. 91–614, § 102(a)(2)(B), substituted definition of “calendar quarter” for definition of “calendar year”.
+Subsec. (b). Pub. L. 91–614, § 102(a)(2)(B), substituted definition of “calendar quarter” for definition of “calendar year”.
 
-Subsec. (c). Pub. L. 91–614, § 102(a)(2)(B), substituted definition of “preceding calendar years and quarters” for definition of “preceding calendar years”.
+Subsec. (c). Pub. L. 91–614, § 102(a)(2)(B), substituted definition of “preceding calendar years and quarters” for definition of “preceding calendar years”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–312, title III, § 302(b)(2), Dec. 17, 2010, 124 Stat. 3301, provided that the amendment by section 302(b)(2) is effective on and after Jan. 1, 2011.
+Pub. L. 111–312, title III, § 302(b)(2), Dec. 17, 2010, 124 Stat. 3301, provided that the amendment by section 302(b)(2) is effective on and after Jan. 1, 2011.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–16, title V, § 511(f)(3), June 7, 2001, 115 Stat. 71, provided that: “The amendments made by subsections (d) and (e) [amending this section and section 2511 of this title] shall apply to gifts made after December 31, 2009.”
+Pub. L. 107–16, title V, § 511(f)(3), June 7, 2001, 115 Stat. 71, provided that: “The amendments made by subsections (d) and (e) [amending this section and section 2511 of this title] shall apply to gifts made after December 31, 2009.”
 
 **Effective Date of 1987 Amendment**
 
@@ -289,13 +289,13 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XX, § 2001(d)(2), Oct. 4, 1976, 90 Stat. 1854, provided that: “The amendments made by subsections (b) and (c)(2) [enacting section 2505 of this title, amending this section and section 2504 of this title, and repealing section 2521 of this title] shall apply to gifts made after December 31, 1976.”
+Pub. L. 94–455, title XX, § 2001(d)(2), Oct. 4, 1976, 90 Stat. 1854, provided that: “The amendments made by subsections (b) and (c)(2) [enacting section 2505 of this title, amending this section and section 2504 of this title, and repealing section 2521 of this title] shall apply to gifts made after December 31, 1976.”
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
-### § 2503. Taxable gifts
+### § 2503. Taxable gifts
 
 **(a) General definition**
 
@@ -325,7 +325,7 @@ If any amount as adjusted under the preceding sentence is not a multiple of $1,0
 
 **(B)** in the event the donee dies before attaining the age of 21 years, be payable to the estate of the donee or as he may appoint under a general power of appointment as defined in section 2514(c).
 
-**[(d) Repealed. Pub. L. 97–34, title III, § 311(h)(5), Aug. 13, 1981, 95 Stat. 282]**
+**[(d) Repealed. Pub. L. 97–34, title III, § 311(h)(5), Aug. 13, 1981, 95 Stat. 282]**
 
 **(e) Exclusion for certain transfers for educational expenses or medical expenses**
 
@@ -361,7 +361,7 @@ The term “qualified work of art” means any archaeological, historic, or crea
 
 The term “private foundation” has the meaning given such term by section 509, except that such term shall not include any private operating foundation (as defined in section 4942(j)(3)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 404; Pub. L. 91–614, title I, § 102(a)(3), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 95–600, title VII, § 702(j)(2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 97–34, title III, § 311(h)(5), title IV, §§ 441(a), (b), 442(a)(3), Aug. 13, 1981, 95 Stat. 282, 319, 320; Pub. L. 99–514, title XVIII, § 1898(h)(1)(B), Oct. 22, 1986, 100 Stat. 2957; Pub. L. 100–647, title I, § 1018(s)(2)(A), (u)(52), Nov. 10, 1988, 102 Stat. 3586, 3593; Pub. L. 101–239, title VII, § 7811(m)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 105–34, title V, § 501(c), Aug. 5, 1997, 111 Stat. 846; Pub. L. 115–97, title I, § 11002(d)(1)(EE), Dec. 22, 2017, 131 Stat. 2060.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 404; Pub. L. 91–614, title I, § 102(a)(3), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 95–600, title VII, § 702(j)(2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 97–34, title III, § 311(h)(5), title IV, §§ 441(a), (b), 442(a)(3), Aug. 13, 1981, 95 Stat. 282, 319, 320; Pub. L. 99–514, title XVIII, § 1898(h)(1)(B), Oct. 22, 1986, 100 Stat. 2957; Pub. L. 100–647, title I, § 1018(s)(2)(A), (u)(52), Nov. 10, 1988, 102 Stat. 3586, 3593; Pub. L. 101–239, title VII, § 7811(m)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 105–34, title V, § 501(c), Aug. 5, 1997, 111 Stat. 846; Pub. L. 115–97, title I, § 11002(d)(1)(EE), Dec. 22, 2017, 131 Stat. 2060.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -377,27 +377,27 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 1989—Subsecs. (f), (g). Pub. L. 101–239 redesignated subsec. (f), relating to treatment of certain loans of artworks, as (g).
 
-1988—Subsec. (e)(2)(B). Pub. L. 100–647, § 1018(u)(52), substituted “section 213(d)” for “section 213(e)”.
+1988—Subsec. (e)(2)(B). Pub. L. 100–647, § 1018(u)(52), substituted “section 213(d)” for “section 213(e)”.
 
-Subsec. (f). Pub. L. 100–647, § 1018(s)(2)(A), added subsec. (f) relating to treatment of certain loans of artworks.
+Subsec. (f). Pub. L. 100–647, § 1018(s)(2)(A), added subsec. (f) relating to treatment of certain loans of artworks.
 
 1986—Subsec. (f). Pub. L. 99–514 added subsec. (f).
 
-1981—Subsec. (a). Pub. L. 97–34, § 442(a)(3)(A), substituted “the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)” for “, in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following” and struck out provision that in the case of gifts made before Jan. 1, 1971, “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
+1981—Subsec. (a). Pub. L. 97–34, § 442(a)(3)(A), substituted “the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)” for “, in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following” and struck out provision that in the case of gifts made before Jan. 1, 1971, “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
 
-Subsec. (b). Pub. L. 97–34, § 442(a)(3)(B), substituted provision that in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such year for provision that in computing taxable gifts for the calendar quarter, in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year 1971 and subsequent calendar years, $10,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such quarter.
+Subsec. (b). Pub. L. 97–34, § 442(a)(3)(B), substituted provision that in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such year for provision that in computing taxable gifts for the calendar quarter, in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year 1971 and subsequent calendar years, $10,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such quarter.
 
-Pub. L. 97–34, § 441(a), substituted “$10,000” for “$3,000”.
+Pub. L. 97–34, § 441(a), substituted “$10,000” for “$3,000”.
 
-Subsec. (d). Pub. L. 97–34, § 311(h)(5), repealed subsec. (d) which related to individual retirement accounts, etc., for spouse.
+Subsec. (d). Pub. L. 97–34, § 311(h)(5), repealed subsec. (d) which related to individual retirement accounts, etc., for spouse.
 
-Subsec. (e). Pub. L. 97–34, § 441(b), added subsec. (e).
+Subsec. (e). Pub. L. 97–34, § 441(b), added subsec. (e).
 
 1978—Subsec. (d). Pub. L. 95–600 added subsec. (d).
 
-1970—Subsec. (a). Pub. L. 91–614, § 102(a)(3)(A), divided definition of “taxable gifts” into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
+1970—Subsec. (a). Pub. L. 91–614, § 102(a)(3)(A), divided definition of “taxable gifts” into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
 
-Subsec. (b). Pub. L. 91–614, § 102(a)(3)(B), substituted provisions with regard to computing taxable gifts for the calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
+Subsec. (b). Pub. L. 91–614, § 102(a)(3)(B), substituted provisions with regard to computing taxable gifts for the calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -415,7 +415,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1018(s)(2)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to loans after July 31, 1969.”
+Pub. L. 100–647, title I, § 1018(s)(2)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to loans after July 31, 1969.”
 
 Amendment by section 1018(u)(52) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -427,7 +427,7 @@ Amendment by Pub. L. 99–514 effective as if included in the provision of the R
 
 Amendment by section 311(h)(5) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i)(1) of Pub. L. 97–34, set out as a note under section 219 of this title.
 
-Pub. L. 97–34, title IV, § 441(c), Aug. 13, 1981, 95 Stat. 319, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title IV, § 441(c), Aug. 13, 1981, 95 Stat. 319, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to transfers after December 31, 1981.
 
@@ -447,17 +447,17 @@ Amendment by section 442(a)(3) of Pub. L. 97–34 applicable with respect to gif
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title VII, § 702(j)(3)(B), Nov. 6, 1978, 92 Stat. 2932, provided that: “The amendment made by paragraph (2) [amending this section] shall apply to transfers made after December 31, 1976.”
+Pub. L. 95–600, title VII, § 702(j)(3)(B), Nov. 6, 1978, 92 Stat. 2932, provided that: “The amendment made by paragraph (2) [amending this section] shall apply to transfers made after December 31, 1976.”
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 2504. Taxable gifts for preceding calendar periods
+### § 2504. Taxable gifts for preceding calendar periods
 
 **(a) In general** In computing taxable gifts for preceding calendar periods for purposes of computing the tax for any calendar year—
 
@@ -483,7 +483,7 @@ the value thereof shall, for purposes of computing the tax under this chapter, b
 
 The term “net gifts” as used in the corresponding provisions of prior laws shall be read as “taxable gifts” for purposes of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 405; Pub. L. 91–614, title I, § 102(a)(4)(A), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, § 2001(c)(2)(A), Oct. 4, 1976, 90 Stat. 1853; Pub. L. 97–34, title IV, § 442(a)(4)(A)–(D), Aug. 13, 1981, 95 Stat. 321; Pub. L. 105–34, title V, § 506(d), Aug. 5, 1997, 111 Stat. 856; Pub. L. 105–206, title VI, § 6007(e)(2)(B)[(C)], July 22, 1998, 112 Stat. 810.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 405; Pub. L. 91–614, title I, § 102(a)(4)(A), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, § 2001(c)(2)(A), Oct. 4, 1976, 90 Stat. 1853; Pub. L. 97–34, title IV, § 442(a)(4)(A)–(D), Aug. 13, 1981, 95 Stat. 321; Pub. L. 105–34, title V, § 506(d), Aug. 5, 1997, 111 Stat. 856; Pub. L. 105–206, title VI, § 6007(e)(2)(B)[(C)], July 22, 1998, 112 Stat. 810.)
 
 **Editorial Notes**
 
@@ -495,15 +495,15 @@ The Tax Reform Act of 1976, referred to in subsec. (a)(3), is Pub. L. 94–455, 
 
 1998—Subsec. (c). Pub. L. 105–206 substituted “gifts” for “certain gifts for preceding calendar periods” in heading and amended text generally. Prior to amendment, text read as follows: “If the time has expired within which a tax may be assessed under this chapter or under corresponding provisions of prior laws on the transfer of property by gift made during a preceding calendar period, as defined in section 2502(b), the value of such gift made in such preceding calendar period shall, for purposes of computing the tax under this chapter for any calendar year, be the value of such gift which was used in computing the tax for the last preceding calendar period for which a tax under this chapter or under corresponding provisions of prior laws was assessed or paid.”
 
-1997—Subsec. (c). Pub. L. 105–34 struck out “, and if a tax under this chapter or under corresponding provisions of prior laws has been assessed or paid for such preceding calendar period” after “as defined in section 2502(b)”.
+1997—Subsec. (c). Pub. L. 105–34 struck out “, and if a tax under this chapter or under corresponding provisions of prior laws has been assessed or paid for such preceding calendar period” after “as defined in section 2502(b)”.
 
-1981—Pub. L. 97–34, § 442(a)(4)(D), substituted “calendar periods” for “years and quarters” in section catchline.
+1981—Pub. L. 97–34, § 442(a)(4)(D), substituted “calendar periods” for “years and quarters” in section catchline.
 
-Subsec. (a). Pub. L. 97–34, § 442(a)(4)(A), substituted in introductory text “preceding calendar periods” and “calendar year” for “preceding calendar years or calendar quarters” and “calendar quarter”, incorporated existing text in provisions designated pars. (1) to (3), and substituted in par. (1) “calendar period” for “years or calendar quarters” and in par. (3) “preceding calendar periods” and “calendar year” for “calendar years or calendar quarters” and “calendar quarter”.
+Subsec. (a). Pub. L. 97–34, § 442(a)(4)(A), substituted in introductory text “preceding calendar periods” and “calendar year” for “preceding calendar years or calendar quarters” and “calendar quarter”, incorporated existing text in provisions designated pars. (1) to (3), and substituted in par. (1) “calendar period” for “years or calendar quarters” and in par. (3) “preceding calendar periods” and “calendar year” for “calendar years or calendar quarters” and “calendar quarter”.
 
-Subsec. (b). Pub. L. 97–34, § 442(a)(4)(B), substituted in heading “calendar periods” for “years and quarters” and in text “preceding calendar periods” for “preceding calendar years and calendar quarters”, “the periods” for “the years and calendar quarters”, and “such preceding calendar periods” for “such years and calendar quarters”.
+Subsec. (b). Pub. L. 97–34, § 442(a)(4)(B), substituted in heading “calendar periods” for “years and quarters” and in text “preceding calendar periods” for “preceding calendar years and calendar quarters”, “the periods” for “the years and calendar quarters”, and “such preceding calendar periods” for “such years and calendar quarters”.
 
-Subsec. (c). Pub. L. 97–34, § 442(a)(4)(C), substituted in heading “calendar periods” for “calendar years and quarters” and in text “preceding calendar period” for “preceding calendar year or calendar quarter” in four places, “any calendar year” for “any calendar quarter”, and “section 2502(b)” for “section 2502(c)”.
+Subsec. (c). Pub. L. 97–34, § 442(a)(4)(C), substituted in heading “calendar periods” for “calendar years and quarters” and in text “preceding calendar period” for “preceding calendar year or calendar quarter” in four places, “any calendar year” for “any calendar quarter”, and “section 2502(b)” for “section 2502(c)”.
 
 1976—Subsec. (a). Pub. L. 94–455 inserted “(as in effect before its repeal by the Tax Reform Act of 1976)” after “section 2521” and “ending before January 1, 1977” after “years or calendar quarters” and substituted “of” for “to previous” after “computations in respect”.
 
@@ -535,7 +535,7 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
-### § 2505. Unified credit against gift tax
+### § 2505. Unified credit against gift tax
 
 **(a) General rule** In the case of a citizen or resident of the United States, there shall be allowed as a credit against the tax imposed by section 2501 for each calendar year an amount equal to—
 
@@ -553,7 +553,7 @@ The amount allowable under subsection (a) shall be reduced by an amount equal to
 
 The amount of the credit allowed under subsection (a) for any calendar year shall not exceed the amount of the tax imposed by section 2501 for such calendar year.
 
-(Added Pub. L. 94–455, title XX, § 2001(b)(2), Oct. 4, 1976, 90 Stat. 1849; amended Pub. L. 97–34, title IV, §§ 401(b), 442(a)(5), Aug. 13, 1981, 95 Stat. 299, 321; Pub. L. 101–508, title XI, § 11801(a)(40), (c)(19)(B), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, § 501(a)(2), Aug. 5, 1997, 111 Stat. 845; Pub. L. 107–16, title V, § 521(b), June 7, 2001, 115 Stat. 71; Pub. L. 111–312, title III, §§ 301(b), 302(b)(1)(A), (d)(2), 303(b)(1), Dec. 17, 2010, 124 Stat. 3300–3303.)
+(Added Pub. L. 94–455, title XX, § 2001(b)(2), Oct. 4, 1976, 90 Stat. 1849; amended Pub. L. 97–34, title IV, §§ 401(b), 442(a)(5), Aug. 13, 1981, 95 Stat. 299, 321; Pub. L. 101–508, title XI, § 11801(a)(40), (c)(19)(B), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, § 501(a)(2), Aug. 5, 1997, 111 Stat. 845; Pub. L. 107–16, title V, § 521(b), June 7, 2001, 115 Stat. 71; Pub. L. 111–312, title III, §§ 301(b), 302(b)(1)(A), (d)(2), 303(b)(1), Dec. 17, 2010, 124 Stat. 3300–3303.)
 
 **Editorial Notes**
 
@@ -563,37 +563,37 @@ The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–312, § 302(d)(2), inserted concluding provisions.
+2010—Subsec. (a). Pub. L. 111–312, § 302(d)(2), inserted concluding provisions.
 
-Subsec. (a)(1). Pub. L. 111–312, § 303(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year, reduced by”.
+Subsec. (a)(1). Pub. L. 111–312, § 303(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year, reduced by”.
 
-Pub. L. 111–312, § 302(b)(1)(A), struck out “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”.
+Pub. L. 111–312, § 302(b)(1)(A), struck out “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”.
 
-Pub. L. 111–312, § 301(b), amended subsec. (a)(1) to read as if amendment by Pub. L. 107–16, § 521(b)(2), had never been enacted. See 2001 Amendment note below.
+Pub. L. 111–312, § 301(b), amended subsec. (a)(1) to read as if amendment by Pub. L. 107–16, § 521(b)(2), had never been enacted. See 2001 Amendment note below.
 
-2001—Subsec. (a)(1). Pub. L. 107–16, § 521(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year (determined as if the applicable exclusion amount were $1,000,000), reduced by”.
+2001—Subsec. (a)(1). Pub. L. 107–16, § 521(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year (determined as if the applicable exclusion amount were $1,000,000), reduced by”.
 
-Pub. L. 107–16, § 521(b)(1), inserted “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”.
+Pub. L. 107–16, § 521(b)(1), inserted “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”.
 
 1997—Subsec. (a)(1). Pub. L. 105–34 substituted “the applicable credit amount in effect under section 2010(c) for such calendar year” for “$192,800”.
 
 1990—Subsecs. (b) to (d). Pub. L. 101–508 redesignated subsecs. (c) and (d) as subsecs. (b) and (c), respectively, and struck out former subsec. (b) which provided for a phase-in of the unified credit against gift tax.
 
-1981—Subsec. (a). Pub. L. 97–34, § 442(a)(5)(A), substituted in provision preceding par. (1) “year” for “quarter”, and “periods” for “quarters” in par. (2).
+1981—Subsec. (a). Pub. L. 97–34, § 442(a)(5)(A), substituted in provision preceding par. (1) “year” for “quarter”, and “periods” for “quarters” in par. (2).
 
-Subsec. (a)(1). Pub. L. 97–34, § 401(b)(1), substituted “$192,800” for “$47,000”.
+Subsec. (a)(1). Pub. L. 97–34, § 401(b)(1), substituted “$192,800” for “$47,000”.
 
-Subsec. (b). Pub. L. 97–34, § 401(b)(2), struck out from heading “$47,000” before “credit”, substituted subsec. (a)(1) substitutions for “$192,800” of amounts of “$62,800”, “$79,300”, “$96,300”, “$121,800”, and “$155,800” in the case of gifts made in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a)(1) substitutions for “$47,000” of amounts of “$6,000”, “$30,000”, “$34,000”, “$38,000”, and “$42,500” in the case of gifts made after Dec. 31, 1976, and before July 1, 1977, after June 30, 1977, and before Jan. 1, 1978; after Dec. 31, 1977, and before Jan. 1, 1979, after Dec. 31, 1978, and before Jan. 1, 1980, and after Dec. 31, 1979, and before Jan. 1, 1981, respectively.
+Subsec. (b). Pub. L. 97–34, § 401(b)(2), struck out from heading “$47,000” before “credit”, substituted subsec. (a)(1) substitutions for “$192,800” of amounts of “$62,800”, “$79,300”, “$96,300”, “$121,800”, and “$155,800” in the case of gifts made in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a)(1) substitutions for “$47,000” of amounts of “$6,000”, “$30,000”, “$34,000”, “$38,000”, and “$42,500” in the case of gifts made after Dec. 31, 1976, and before July 1, 1977, after June 30, 1977, and before Jan. 1, 1978; after Dec. 31, 1977, and before Jan. 1, 1979, after Dec. 31, 1978, and before Jan. 1, 1980, and after Dec. 31, 1979, and before Jan. 1, 1981, respectively.
 
-Subsec. (d). Pub. L. 97–34, § 442(a)(5)(B), substituted “year” for “quarter” in two places.
+Subsec. (d). Pub. L. 97–34, § 442(a)(5)(B), substituted “year” for “quarter” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–312, title III, § 301(b), Dec. 17, 2010, 124 Stat. 3300, provided that the amendment by section 301(b) is effective on and after Jan. 1, 2011.
+Pub. L. 111–312, title III, § 301(b), Dec. 17, 2010, 124 Stat. 3300, provided that the amendment by section 301(b) is effective on and after Jan. 1, 2011.
 
-Pub. L. 111–312, title III, § 302(b)(1)(B), Dec. 17, 2010, 124 Stat. 3301, provided that: “The amendment made by this paragraph [amending this section] shall apply to gifts made after December 31, 2010.”
+Pub. L. 111–312, title III, § 302(b)(1)(B), Dec. 17, 2010, 124 Stat. 3301, provided that: “The amendment made by this paragraph [amending this section] shall apply to gifts made after December 31, 2010.”
 
 Amendment by section 302(d)(2) of Pub. L. 111–312 applicable to estates of decedents dying, generation-skipping transfers, and gifts made, after Dec. 31, 2009, see section 302(f) of Pub. L. 111–312, set out as a note under section 2001 of this title.
 
@@ -609,7 +609,7 @@ Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gift
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title IV, § 401(c)(2), Aug. 13, 1981, 95 Stat. 300, provided that: “The amendments made by subsection (b) [amending this section] shall apply to gifts made after such date [Dec. 31, 1981].”
+Pub. L. 97–34, title IV, § 401(c)(2), Aug. 13, 1981, 95 Stat. 300, provided that: “The amendments made by subsection (b) [amending this section] shall apply to gifts made after such date [Dec. 31, 1981].”
 
 Amendment by section 442(a)(5) of Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
 
@@ -623,17 +623,17 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 **Amendments**
 
-1986—Pub. L. 99–514, title XIV, § 1432(d)(2), title XVIII, § 1852(e)(2)(B), Oct. 22, 1986, 100 Stat. 2730, 2868, added item 2515 and struck out item 2517 “Certain annuities under qualified plans”.
+1986—Pub. L. 99–514, title XIV, § 1432(d)(2), title XVIII, § 1852(e)(2)(B), Oct. 22, 1986, 100 Stat. 2730, 2868, added item 2515 and struck out item 2517 “Certain annuities under qualified plans”.
 
-1981—Pub. L. 97–34, title IV, § 403(c)(3)(C), (d)(3)(B)(ii), Aug. 13, 1981, 95 Stat. 302, 304, as amended Pub. L. 97–448, title I, § 104(a)(3)(B), Jan. 12, 1983, 96 Stat. 2380, struck out items 2515 “Tenancies by the entirety in real property” and 2515A “Tenancies by the entirety in personal property” and added item 2519.
+1981—Pub. L. 97–34, title IV, § 403(c)(3)(C), (d)(3)(B)(ii), Aug. 13, 1981, 95 Stat. 302, 304, as amended Pub. L. 97–448, title I, § 104(a)(3)(B), Jan. 12, 1983, 96 Stat. 2380, struck out items 2515 “Tenancies by the entirety in real property” and 2515A “Tenancies by the entirety in personal property” and added item 2519.
 
-1978—Pub. L. 95–600, title VII, § 702(k)(1)(C), Nov. 6, 1978, 92 Stat. 2932, substituted in item 2515 “Tenancies by the entirety in real property” for “Tenancies by the entirety” and added item 2515A.
+1978—Pub. L. 95–600, title VII, § 702(k)(1)(C), Nov. 6, 1978, 92 Stat. 2932, substituted in item 2515 “Tenancies by the entirety in real property” for “Tenancies by the entirety” and added item 2515A.
 
-1976—Pub. L. 94–455, title XX, § 2009(b)(3)(A), Oct. 4, 1976, 90 Stat. 1894, added item 2518.
+1976—Pub. L. 94–455, title XX, § 2009(b)(3)(A), Oct. 4, 1976, 90 Stat. 1894, added item 2518.
 
-1958—Pub. L. 85–866, title I, § 68(b), Sept. 2, 1958, 72 Stat. 1659, added item 2517.
+1958—Pub. L. 85–866, title I, § 68(b), Sept. 2, 1958, 72 Stat. 1659, added item 2517.
 
-### § 2511. Transfers in general
+### § 2511. Transfers in general
 
 **(a) Scope**
 
@@ -651,7 +651,7 @@ Subject to the limitations contained in this chapter, the tax imposed by section
 
 which are owned and held by such nonresident shall be deemed to be property situated within the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 89–809, title I, § 109(b), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 107–16, title V, § 511(e), June 7, 2001, 115 Stat. 71; Pub. L. 107–147, title IV, § 411(g)(1), Mar. 9, 2002, 116 Stat. 46; Pub. L. 111–312, title III, § 302(e), Dec. 17, 2010, 124 Stat. 3302.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 89–809, title I, § 109(b), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 107–16, title V, § 511(e), June 7, 2001, 115 Stat. 71; Pub. L. 107–147, title IV, § 411(g)(1), Mar. 9, 2002, 116 Stat. 46; Pub. L. 111–312, title III, § 302(e), Dec. 17, 2010, 124 Stat. 3302.)
 
 **Editorial Notes**
 
@@ -683,7 +683,7 @@ Amendment by Pub. L. 107–16 applicable to gifts made after Dec. 31, 2009, see 
 
 Amendment by Pub. L. 89–809 applicable with respect to calendar year 1967 and all calendar years thereafter, see section 109(c) of Pub. L. 89–809, set out as a note under section 2501 of this title.
 
-### § 2512. Valuation of gifts
+### § 2512. Valuation of gifts
 
 **(a)** If the gift is made in property, the value thereof at the date of the gift shall be considered the amount of the gift.
 
@@ -693,7 +693,7 @@ Amendment by Pub. L. 89–809 applicable with respect to calendar year 1967 and 
 
 For individual’s right to be furnished on request a statement regarding any valuation made by the Secretary of a gift by that individual, see section 7517.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, § 102(b)(1), Dec. 31, 1970, 84 Stat. 1840; Pub. L. 94–455, title XX, § 2008(a)(2)(B), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 97–34, title IV, § 442(b)(1), Aug. 13, 1981, 95 Stat. 322.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, § 102(b)(1), Dec. 31, 1970, 84 Stat. 1840; Pub. L. 94–455, title XX, § 2008(a)(2)(B), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 97–34, title IV, § 442(b)(1), Aug. 13, 1981, 95 Stat. 322.)
 
 **Editorial Notes**
 
@@ -715,7 +715,7 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
-### § 2513. Gift by husband or wife to third party
+### § 2513. Gift by husband or wife to third party
 
 **(a) Considered as made one-half by each**
 
@@ -749,33 +749,33 @@ A consent under this section shall be signified in such manner as is provided un
 
 If the consent required by subsection (a)(2) is signified with respect to a gift made in any calendar year, the liability with respect to the entire tax imposed by this chapter of each spouse for such year shall be joint and several.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, § 102(b)(2), Dec. 31, 1970, 84 Stat. 1840; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title IV, § 442(b)(2), Aug. 13, 1981, 95 Stat. 322.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, § 102(b)(2), Dec. 31, 1970, 84 Stat. 1840; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title IV, § 442(b)(2), Aug. 13, 1981, 95 Stat. 322.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1981—Subsec. (a)(1), (2). Pub. L. 97–34, § 442(b)(2)(A), substituted “calendar year” for “calendar quarter”.
+1981—Subsec. (a)(1), (2). Pub. L. 97–34, § 442(b)(2)(A), substituted “calendar year” for “calendar quarter”.
 
-Subsec. (b)(2). Pub. L. 97–34, § 442(b)(2)(B)–(D), in introductory text, substituted “calendar year” for “calendar quarter”, in subpar. (A), substituted “The consent” for “the consent”, “15th day of April following the close of such year” for “15th day of the second month following the close of such calendar quarter”, and “such year” for “such calendar quarter” in two other places, and in subpar. (B) substituted “The consent” and “such year” for “the consent” and “such calendar quarter”.
+Subsec. (b)(2). Pub. L. 97–34, § 442(b)(2)(B)–(D), in introductory text, substituted “calendar year” for “calendar quarter”, in subpar. (A), substituted “The consent” for “the consent”, “15th day of April following the close of such year” for “15th day of the second month following the close of such calendar quarter”, and “such year” for “such calendar quarter” in two other places, and in subpar. (B) substituted “The consent” and “such year” for “the consent” and “such calendar quarter”.
 
-Subsec. (c). Pub. L. 97–34, § 442(b)(2)(E), in provision preceding par. (1) substituted “calendar year” for “calendar quarter” and in par. (1) “15th day of April following the close of such year” for “15th day of the second month following the close of such quarter”.
+Subsec. (c). Pub. L. 97–34, § 442(b)(2)(E), in provision preceding par. (1) substituted “calendar year” for “calendar quarter” and in par. (1) “15th day of April following the close of such year” for “15th day of the second month following the close of such quarter”.
 
-Subsec. (d). Pub. L. 97–34, § 442(b)(2)(F), substituted “any calendar year” and “such year” for “any calendar quarter” and “such calendar quarter”.
+Subsec. (d). Pub. L. 97–34, § 442(b)(2)(F), substituted “any calendar year” and “such year” for “any calendar quarter” and “such calendar quarter”.
 
 1976—Subsecs. (b)(1), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1970—Subsecs. (a), (b)(2). Pub. L. 91–614, § 102(b)(2)(A), substituted “calendar quarter” for “calendar year”.
+1970—Subsecs. (a), (b)(2). Pub. L. 91–614, § 102(b)(2)(A), substituted “calendar quarter” for “calendar year”.
 
-Subsec. (b)(2)(A). Pub. L. 91–614, § 102(b)(2)(B), substituted “the 15th day of the second month” for “the 15th day of April” and substituted “such calendar quarter” for “such year”.
+Subsec. (b)(2)(A). Pub. L. 91–614, § 102(b)(2)(B), substituted “the 15th day of the second month” for “the 15th day of April” and substituted “such calendar quarter” for “such year”.
 
-Subsec. (b)(2)(B). Pub. L. 91–614, § 102(b)(2)(C), substituted “such calendar quarter” for “such year”.
+Subsec. (b)(2)(B). Pub. L. 91–614, § 102(b)(2)(C), substituted “such calendar quarter” for “such year”.
 
-Subsec. (c). Pub. L. 91–614, § 102(b)(2)(A), substituted “calendar quarter” for “calendar year”.
+Subsec. (c). Pub. L. 91–614, § 102(b)(2)(A), substituted “calendar quarter” for “calendar year”.
 
-Subsec. (c)(1). Pub. L. 91–614, § 102(b)(2)(D), substituted “15th day of the second month following the close of such calendar quarter” for “15th day of April following the close of such year”.
+Subsec. (c)(1). Pub. L. 91–614, § 102(b)(2)(D), substituted “15th day of the second month following the close of such calendar quarter” for “15th day of April following the close of such year”.
 
-Subsec. (d). Pub. L. 91–614, § 102(b)(2)(A), (E), substituted “calendar quarter” for “calendar year” and “such calendar quarter” for “such year”.
+Subsec. (d). Pub. L. 91–614, § 102(b)(2)(A), (E), substituted “calendar quarter” for “calendar year” and “such calendar quarter” for “such year”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -787,7 +787,7 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
-### § 2514. Powers of appointment
+### § 2514. Powers of appointment
 
 **(a) Powers created on or before October 21, 1942** An exercise of a general power of appointment created on or before October 21, 1942, shall be deemed a transfer of property by the individual possessing such power; but the failure to exercise such a power or the complete release of such a power shall not be deemed an exercise thereof. If a general power of appointment created on or before October 21, 1942, has been partially released so that it is no longer a general power of appointment, the subsequent exercise of such power shall not be deemed to be the exercise of a general power of appointment if—
 
@@ -829,7 +829,7 @@ If a power of appointment created after October 21, 1942, is exercised by creati
 
 For purposes of this section a power of appointment created by a will executed on or before October 21, 1942, shall be considered a power created on or before such date if the person executing such will dies before July 1, 1949, without having republished such will, by codicil or otherwise, after October 21, 1942.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 407; Pub. L. 94–455, title XX, § 2009(b)(4)(F), Oct. 4, 1976, 90 Stat. 1894.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 407; Pub. L. 94–455, title XX, § 2009(b)(4)(F), Oct. 4, 1976, 90 Stat. 1894.)
 
 **Editorial Notes**
 
@@ -843,17 +843,17 @@ For purposes of this section a power of appointment created by a will executed o
 
 Amendment by Pub. L. 94–455 applicable to transfers creating an interest in person disclaiming made after Dec. 31, 1976, see section 2009(e)(2) of Pub. L. 94–455, set out as a note under section 2518 of this title.
 
-### § 2515. Treatment of generation-skipping transfer tax
+### § 2515. Treatment of generation-skipping transfer tax
 
 In the case of any taxable gift which is a direct skip (within the meaning of chapter 13), the amount of such gift shall be increased by the amount of any tax imposed on the transferor under chapter 13 with respect to such gift.
 
-(Added Pub. L. 99–514, title XIV, § 1432(d)(1), Oct. 22, 1986, 100 Stat. 2730.)
+(Added Pub. L. 99–514, title XIV, § 1432(d)(1), Oct. 22, 1986, 100 Stat. 2730.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section, acts Aug. 16, 1954, ch. 736, 68A Stat. 409; Dec. 31, 1970, Pub. L. 91–614, title I, § 102(b)(3), 84 Stat. 1841; Oct. 4, 1976, Pub. L. 94–455, title XX, § 2002(c)(2), 90 Stat. 1855; Nov. 6, 1978, Pub. L. 95–600, title VII, § 702(k)(1)(B), 92 Stat. 2932, related to tenancies by the entirety in real property, prior to repeal applicable to gifts made after Dec. 31, 1981, by Pub. L. 97–34, title IV, § 403(c)(3)(B), (e)(2), Aug. 13, 1981, 95 Stat. 302, 305.
+A prior section, acts Aug. 16, 1954, ch. 736, 68A Stat. 409; Dec. 31, 1970, Pub. L. 91–614, title I, § 102(b)(3), 84 Stat. 1841; Oct. 4, 1976, Pub. L. 94–455, title XX, § 2002(c)(2), 90 Stat. 1855; Nov. 6, 1978, Pub. L. 95–600, title VII, § 702(k)(1)(B), 92 Stat. 2932, related to tenancies by the entirety in real property, prior to repeal applicable to gifts made after Dec. 31, 1981, by Pub. L. 97–34, title IV, § 403(c)(3)(B), (e)(2), Aug. 13, 1981, 95 Stat. 302, 305.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -861,9 +861,9 @@ A prior section, acts Aug. 16, 1954, ch. 736, 68A Stat. 409; Dec. 31, 1970, Pub.
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### [§ 2515A. Repealed. Pub. L. 97–34, title IV, § 403(c)(3)(B), Aug. 13, 1981, 95 Stat. 302]
+### [§ 2515A. Repealed. Pub. L. 97–34, title IV, § 403(c)(3)(B), Aug. 13, 1981, 95 Stat. 302]
 
-Section, added Pub. L. 95–600, title VII, § 702(k)(1)(A), Nov. 6, 1978, 92 Stat. 2932, related to tenancies by the entirety in personal property.
+Section, added Pub. L. 95–600, title VII, § 702(k)(1)(A), Nov. 6, 1978, 92 Stat. 2932, related to tenancies by the entirety in personal property.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -871,7 +871,7 @@ Section, added Pub. L. 95–600, title VII, § 702(k)(1)(A), Nov. 6, 1978, 92 
 
 Repeal applicable to gifts made after Dec. 31, 1981, see section 403(e)(2) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 2056 of this title.
 
-### § 2516. Certain property settlements
+### § 2516. Certain property settlements
 
 Where a husband and wife enter into a written agreement relative to their marital and property rights and divorce occurs within the 3-year period beginning on the date 1 year before such agreement is entered into (whether or not such agreement is approved by the divorce decree), any transfers of property or interests in property made pursuant to such agreement—
 
@@ -881,7 +881,7 @@ Where a husband and wife enter into a written agreement relative to their marita
 
 shall be deemed to be transfers made for a full and adequate consideration in money or money’s worth.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 409; Pub. L. 98–369, div. A, title IV, § 425(b), July 18, 1984, 98 Stat. 804.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 409; Pub. L. 98–369, div. A, title IV, § 425(b), July 18, 1984, 98 Stat. 804.)
 
 **Editorial Notes**
 
@@ -893,11 +893,11 @@ shall be deemed to be transfers made for a full and adequate consideration in mo
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title IV, § 425(c)(2), July 18, 1984, 98 Stat. 804, provided that: “The amendment made by subsection (b) [amending this section] shall apply to transfers after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title IV, § 425(c)(2), July 18, 1984, 98 Stat. 804, provided that: “The amendment made by subsection (b) [amending this section] shall apply to transfers after the date of the enactment of this Act [July 18, 1984].”
 
-### [§ 2517. Repealed. Pub. L. 99–514, title XVIII, § 1852(e)(2)(A), Oct. 22, 1986, 100 Stat. 2868]
+### [§ 2517. Repealed. Pub. L. 99–514, title XVIII, § 1852(e)(2)(A), Oct. 22, 1986, 100 Stat. 2868]
 
-Section, added and amended Pub. L. 85–866, title I, §§ 23(f), 68(a), Sept. 2, 1958, 72 Stat. 1623, 1659; Pub. L. 87–792, § 7(j), Oct. 10, 1962, 76 Stat. 830; Mar. 8, 1966, Pub. L. 89–365, § 2(b), 80 Stat. 33; Dec. 30, 1969, Pub. L. 91–172, title I, § 101(j)(24), 83 Stat. 528; Pub. L. 94–455, title XX, § 2009(c) (4), (5), Oct. 4, 1976, 90 Stat. 1895, 1896; Pub. L. 97–34, title III, § 311(d)(2), Aug. 13, 1981, 95 Stat. 280; Pub. L. 98–369, div. A, title IV, § 491(d)(35), July 18, 1984, 98 Stat. 851, related to the transfers of certain annuities under qualified plans.
+Section, added and amended Pub. L. 85–866, title I, §§ 23(f), 68(a), Sept. 2, 1958, 72 Stat. 1623, 1659; Pub. L. 87–792, § 7(j), Oct. 10, 1962, 76 Stat. 830; Mar. 8, 1966, Pub. L. 89–365, § 2(b), 80 Stat. 33; Dec. 30, 1969, Pub. L. 91–172, title I, § 101(j)(24), 83 Stat. 528; Pub. L. 94–455, title XX, § 2009(c) (4), (5), Oct. 4, 1976, 90 Stat. 1895, 1896; Pub. L. 97–34, title III, § 311(d)(2), Aug. 13, 1981, 95 Stat. 280; Pub. L. 98–369, div. A, title IV, § 491(d)(35), July 18, 1984, 98 Stat. 851, related to the transfers of certain annuities under qualified plans.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -905,7 +905,7 @@ Section, added and amended Pub. L. 85–866, title I, §§ 23(f), 68(a), Sept.
 
 Repeal applicable to transfers after Oct. 22, 1986, see section 1852(e)(2)(E) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 406 of this title.
 
-### § 2518. Disclaimers
+### § 2518. Disclaimers
 
 **(a) General rule**
 
@@ -947,7 +947,7 @@ A power with respect to property shall be treated as an interest in such propert
 
 shall be treated as a qualified disclaimer.
 
-(Added Pub. L. 94–455, title XX, § 2009(b)(1), Oct. 4, 1976, 90 Stat. 1893; amended Pub. L. 95–600, title VII, § 702(m)(1), Nov. 6, 1978, 92 Stat. 2935; Pub. L. 97–34, title IV, § 426(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, § 104(e), Jan. 12, 1983, 96 Stat. 2384.)
+(Added Pub. L. 94–455, title XX, § 2009(b)(1), Oct. 4, 1976, 90 Stat. 1893; amended Pub. L. 95–600, title VII, § 702(m)(1), Nov. 6, 1978, 92 Stat. 2935; Pub. L. 97–34, title IV, § 426(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, § 104(e), Jan. 12, 1983, 96 Stat. 2384.)
 
 **Editorial Notes**
 
@@ -967,17 +967,17 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title IV, § 426(b), Aug. 13, 1981, 95 Stat. 318, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transfers creating an interest in the person disclaiming made after December 31, 1981.”
+Pub. L. 97–34, title IV, § 426(b), Aug. 13, 1981, 95 Stat. 318, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transfers creating an interest in the person disclaiming made after December 31, 1981.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title VII, § 702(m)(2), Nov. 6, 1978, 92 Stat. 2935, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to transfers creating an interest in the person disclaiming made after December 31, 1976.”
+Pub. L. 95–600, title VII, § 702(m)(2), Nov. 6, 1978, 92 Stat. 2935, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to transfers creating an interest in the person disclaiming made after December 31, 1976.”
 
 **Effective Date**
 
-Pub. L. 94–455, title XX, § 2009(e)(2), Oct. 4, 1976, 90 Stat. 1896, provided that: “The amendments made by subsection (b) [enacting this section and section 2046 of this title and amending sections 2041, 2055, 2056, and 2514 of this title] shall apply with respect to transfers creating an interest in the person disclaiming made after December 31, 1976.”
+Pub. L. 94–455, title XX, § 2009(e)(2), Oct. 4, 1976, 90 Stat. 1896, provided that: “The amendments made by subsection (b) [enacting this section and section 2046 of this title and amending sections 2041, 2055, 2056, and 2514 of this title] shall apply with respect to transfers creating an interest in the person disclaiming made after December 31, 1976.”
 
-### § 2519. Dispositions of certain life estates
+### § 2519. Dispositions of certain life estates
 
 **(a) General rule**
 
@@ -993,17 +993,17 @@ For purposes of this chapter and chapter 11, any disposition of all or part of a
 
 For right of recovery for gift tax in the case of property treated as transferred under this section, see section 2207A(b).
 
-(Added Pub. L. 97–34, title IV, § 403(d)(3)(B)(i), Aug. 13, 1981, 95 Stat. 304; amended Pub. L. 97–448, title I, § 104(a)(3), (7), Jan. 12, 1983, 96 Stat. 2380, 2381.)
+(Added Pub. L. 97–34, title IV, § 403(d)(3)(B)(i), Aug. 13, 1981, 95 Stat. 304; amended Pub. L. 97–448, title I, § 104(a)(3), (7), Jan. 12, 1983, 96 Stat. 2380, 2381.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1983—Pub. L. 97–448, § 104(a)(3)(B), amended directory language of Pub. L. 97–34, § 403(d)(3)(B)(i), to clarify that this section be inserted at end of subchapter B of chapter 12, rather than at end of subchapter B of chapter 11, and did not involve any change in text.
+1983—Pub. L. 97–448, § 104(a)(3)(B), amended directory language of Pub. L. 97–34, § 403(d)(3)(B)(i), to clarify that this section be inserted at end of subchapter B of chapter 12, rather than at end of subchapter B of chapter 11, and did not involve any change in text.
 
-Subsec. (a). Pub. L. 97–448, § 104(a)(3)(A), substituted “For purposes of this chapter and chapter 11, any disposition” for “Any disposition” and “treated as a transfer of all interests in such property other than the qualifying income interest” for “treated as a transfer of such property”.
+Subsec. (a). Pub. L. 97–448, § 104(a)(3)(A), substituted “For purposes of this chapter and chapter 11, any disposition” for “Any disposition” and “treated as a transfer of all interests in such property other than the qualifying income interest” for “treated as a transfer of such property”.
 
-Subsec. (c). Pub. L. 97–448, § 104(a)(7), added subsec. (c).
+Subsec. (c). Pub. L. 97–448, § 104(a)(7), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1021,13 +1021,13 @@ Section applicable to gifts made after Dec. 31, 1981, see section 403(e)(2) of P
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XX, § 2001(c)(2)(B)(ii), Oct. 4, 1976, 90 Stat. 1853, struck out item 2521 “Specific exemption”.
+1976—Pub. L. 94–455, title XX, § 2001(c)(2)(B)(ii), Oct. 4, 1976, 90 Stat. 1853, struck out item 2521 “Specific exemption”.
 
-### [§ 2521. Repealed. Pub. L. 94–455, title XX, § 2001(b)(3), Oct. 4, 1976, 90 Stat. 1849]
+### [§ 2521. Repealed. Pub. L. 94–455, title XX, § 2001(b)(3), Oct. 4, 1976, 90 Stat. 1849]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 410, allowed a deduction, in the case of a citizen or resident, an exemption of $30,000, less amounts claimed and allowed for calendar year 1932 and calendar years intervening between that year and year for which tax is being computed.
 
-### § 2522. Charitable and similar gifts
+### § 2522. Charitable and similar gifts
 
 **(a) Citizens or residents** In computing taxable gifts for the calendar year, there shall be allowed as a deduction in the case of a citizen or resident the amount of all gifts made during such year to or for the use of—
 
@@ -1135,7 +1135,7 @@ For purposes of this paragraph, the term “initial fractional contribution” m
 
 **(3)** For treatment of gifts to or for the use of Indian tribal governments (or their subdivisions), see section 7871.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 410; Pub. L. 85–866, title I, § 30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, § 201(d)(3), (4)(C), (D), Dec. 30, 1969, 83 Stat. 561, 562; Pub. L. 91–614, title I, § 102(c)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XII, §§ 1307(d)(1)(B)(iv), (v), 1313(b)(3), title XIX, § 1902(a)(11), (12)(D), title XXI, § 2124(e)(3), Oct. 4, 1976, 90 Stat. 1727, 1730, 1805, 1806, 1920; Pub. L. 97–34, title IV, §§ 423(b), 442(c), Aug. 13, 1981, 95 Stat. 317, 322; Pub. L. 97–248, title II, § 286(b)(3), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–473, title II, § 202(b)(7), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§ 1022(c), 1032(b)(3), July 18, 1984, 98 Stat. 1028, 1034; Pub. L. 99–514, title XIV, § 1422(b), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, § 10711(a)(5), (6), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 109–280, title XII, §§ 1218(c), 1234(c), Aug. 17, 2006, 120 Stat. 1082, 1101; Pub. L. 110–172, §§ 3(d)(2), 11(a)(16), Dec. 29, 2007, 121 Stat. 2474, 2485; Pub. L. 115–141, div. U, title IV, § 401(a)(204), Mar. 23, 2018, 132 Stat. 1194.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 410; Pub. L. 85–866, title I, § 30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, § 201(d)(3), (4)(C), (D), Dec. 30, 1969, 83 Stat. 561, 562; Pub. L. 91–614, title I, § 102(c)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XII, §§ 1307(d)(1)(B)(iv), (v), 1313(b)(3), title XIX, § 1902(a)(11), (12)(D), title XXI, § 2124(e)(3), Oct. 4, 1976, 90 Stat. 1727, 1730, 1805, 1806, 1920; Pub. L. 97–34, title IV, §§ 423(b), 442(c), Aug. 13, 1981, 95 Stat. 317, 322; Pub. L. 97–248, title II, § 286(b)(3), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–473, title II, § 202(b)(7), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§ 1022(c), 1032(b)(3), July 18, 1984, 98 Stat. 1028, 1034; Pub. L. 99–514, title XIV, § 1422(b), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, § 10711(a)(5), (6), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 109–280, title XII, §§ 1218(c), 1234(c), Aug. 17, 2006, 120 Stat. 1082, 1101; Pub. L. 110–172, §§ 3(d)(2), 11(a)(16), Dec. 29, 2007, 121 Stat. 2474, 2485; Pub. L. 115–141, div. U, title IV, § 401(a)(204), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -1147,65 +1147,65 @@ Sections 1218(c) and 1234(c) of Pub. L. 109–280, which directed the amendment 
 
 2018—Subsec. (c)(1). Pub. L. 115–141 substituted “gift to or for” for “gift to of for”.
 
-2007—Subsec. (e)(1)(A). Pub. L. 110–172, § 11(a)(16)(A), in introductory provisions, substituted “all interests in the property are” for “all interest in the property is”.
+2007—Subsec. (e)(1)(A). Pub. L. 110–172, § 11(a)(16)(A), in introductory provisions, substituted “all interests in the property are” for “all interest in the property is”.
 
-Subsec. (e)(2). Pub. L. 110–172, § 3(d)(2)(A), (B), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
+Subsec. (e)(2). Pub. L. 110–172, § 3(d)(2)(A), (B), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
 
 “(A) the fair market value of the property at the time of the initial fractional contribution, or
 
 “(B) the fair market value of the property at the time of the additional contribution.”
 
-Subsec. (e)(2)(A)(i). Pub. L. 110–172, § 11(a)(16)(B), substituted “interests” for “interest” and “on or before” for “before”.
+Subsec. (e)(2)(A)(i). Pub. L. 110–172, § 11(a)(16)(B), substituted “interests” for “interest” and “on or before” for “before”.
 
-Subsec. (e)(2)(C). Pub. L. 110–172, § 3(d)(2)(C), added subpar. (C).
+Subsec. (e)(2)(C). Pub. L. 110–172, § 3(d)(2)(C), added subpar. (C).
 
-Subsec. (e)(3). Pub. L. 110–172, § 3(d)(2)(B), redesignated par. (3) as (2).
+Subsec. (e)(3). Pub. L. 110–172, § 3(d)(2)(B), redesignated par. (3) as (2).
 
-Subsec. (e)(4). Pub. L. 110–172, § 3(d)(2)(A), struck out heading and text of par. (4). Text read as follows: “For purposes of this subsection—
+Subsec. (e)(4). Pub. L. 110–172, § 3(d)(2)(A), struck out heading and text of par. (4). Text read as follows: “For purposes of this subsection—
 
 “(A) Additional contribution.—The term ‘additional contribution’ means any gift for which a deduction is allowed under subsection (a) or (b) of any interest in a property with respect to which the donor has previously made an initial fractional contribution.
 
 “(B) Initial fractional contribution.—The term ‘initial fractional contribution’ means, with respect to any donor, the first gift of an undivided portion of the donor’s entire interest in any tangible personal property for which a deduction is allowed under subsection (a) or (b).”
 
-2006—Subsec. (c)(5). Pub. L. 109–280, § 1234(c), added par. (5). See Codification note above.
+2006—Subsec. (c)(5). Pub. L. 109–280, § 1234(c), added par. (5). See Codification note above.
 
-Subsecs. (e), (f). Pub. L. 109–280, § 1218(c), added subsec. (e) and redesignated former subsec. (e) as (f). See Codification note above.
+Subsecs. (e), (f). Pub. L. 109–280, § 1218(c), added subsec. (e) and redesignated former subsec. (e) as (f). See Codification note above.
 
 1987—Subsecs. (a)(2), (b)(2), (3). Pub. L. 100–203 inserted “(or in opposition to)” after “on behalf of”.
 
 1986—Subsecs. (d), (e). Pub. L. 99–514 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1984—Subsec. (c)(4). Pub. L. 98–369, § 1022(c), added par. (4).
+1984—Subsec. (c)(4). Pub. L. 98–369, § 1022(c), added par. (4).
 
-Subsec. (d). Pub. L. 98–369, § 1032(b)(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (d). Pub. L. 98–369, § 1032(b)(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 1983—Subsec. (d). Pub. L. 97–473 designated existing provisions as par. (1), substituted “bequests” for “gifts” second time appearing in par. (1) as so designated, and added par. (2).
 
 1982—Subsec. (a). Pub. L. 97–248 inserted provision that rules similar to rules of section 501(j) apply for purposes of par. (2).
 
-1981—Subsec. (a). Pub. L. 97–34, § 442(c), substituted “year” for “quarter” in two places in provision preceding par. (1).
+1981—Subsec. (a). Pub. L. 97–34, § 442(c), substituted “year” for “quarter” in two places in provision preceding par. (1).
 
-Subsec. (b). Pub. L. 97–34, § 442(c), substituted “year” for “quarter” in provision preceding par. (1).
+Subsec. (b). Pub. L. 97–34, § 442(c), substituted “year” for “quarter” in provision preceding par. (1).
 
-Subsec. (c)(3). Pub. L. 97–34, § 423(b), added par. (3).
+Subsec. (c)(3). Pub. L. 97–34, § 423(b), added par. (3).
 
-1976—Subsec. (a)(1). Pub. L. 94–455, § 1902(a)(12)(D), struck out “Territory” after “any State”.
+1976—Subsec. (a)(1). Pub. L. 94–455, § 1902(a)(12)(D), struck out “Territory” after “any State”.
 
-Subsec. (a)(2). Pub. L. 94–455, §§ 1307(d)(1)(B)(iv), 1313(b)(3), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “shareholder or individual” and inserted “or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)” after “or educational purposes”.
+Subsec. (a)(2). Pub. L. 94–455, §§ 1307(d)(1)(B)(iv), 1313(b)(3), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “shareholder or individual” and inserted “or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)” after “or educational purposes”.
 
-Subsec. (b)(1). Pub. L. 94–455, § 1902(a)(12)(D), struck out “Territory” after “any State”.
+Subsec. (b)(1). Pub. L. 94–455, § 1902(a)(12)(D), struck out “Territory” after “any State”.
 
-Subsec. (b)(2). Pub. L. 94–455, § 1307(d)(1)(B)(v), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “shareholder or individual”.
+Subsec. (b)(2). Pub. L. 94–455, § 1307(d)(1)(B)(v), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “shareholder or individual”.
 
-Subsec. (c)(2). Pub. L. 94–455, § 2124(e)(3), substituted “(other than an interest described in section 170(f)(3)(B))” for “(other than a remainder interest in a personal residence or farm or an undivided portion of the donor’s entire interest in property)” after “an interest in property”.
+Subsec. (c)(2). Pub. L. 94–455, § 2124(e)(3), substituted “(other than an interest described in section 170(f)(3)(B))” for “(other than a remainder interest in a personal residence or farm or an undivided portion of the donor’s entire interest in property)” after “an interest in property”.
 
-Subsec. (d). Pub. L. 94–455, § 1902(a)(11), substituted subsec. (d) for former subsec. (d), pars. (1) through (10), which dealt with cross references to specific exemptions and rules of construction for gifts to the United States and its instrumentalities.
+Subsec. (d). Pub. L. 94–455, § 1902(a)(11), substituted subsec. (d) for former subsec. (d), pars. (1) through (10), which dealt with cross references to specific exemptions and rules of construction for gifts to the United States and its instrumentalities.
 
 1970—Pub. L. 91–614 substituted “quarter” for “year” in three places.
 
-1969—Subsecs. (a)(2), (b)(2), (3). Pub. L. 91–172, § 201(d)(4)(C), (D), inserted non-participation and non-intervention in political campaigns as an additional qualification.
+1969—Subsecs. (a)(2), (b)(2), (3). Pub. L. 91–172, § 201(d)(4)(C), (D), inserted non-participation and non-intervention in political campaigns as an additional qualification.
 
-Subsec. (c). Pub. L. 91–172, § 201(d)(3), substituted substantive provisions for simple reference to sections 503 and 681 in which such substantive provisions were formerly set out.
+Subsec. (c). Pub. L. 91–172, § 201(d)(3), substituted substantive provisions for simple reference to sections 503 and 681 in which such substantive provisions were formerly set out.
 
 1958—Subsec. (c). Pub. L. 85–866 substituted “503” for “504”.
 
@@ -1245,7 +1245,7 @@ Amendment by Pub. L. 97–248 effective Oct. 5, 1976, see section 286(c) of Pub.
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title IV, § 423(c)(2), Aug. 13, 1981, 95 Stat. 317, provided that: “The amendment made by subsection (b) [amending this section] shall apply to transfers after December 31, 1981.”
+Pub. L. 97–34, title IV, § 423(c)(2), Aug. 13, 1981, 95 Stat. 317, provided that: “The amendment made by subsection (b) [amending this section] shall apply to transfers after December 31, 1981.”
 
 Amendment by section 442(c) of Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
 
@@ -1267,7 +1267,7 @@ Amendment by section 201(d)(4)(C), (D) of Pub. L. 91–172 applicable to gifts a
 
 For inclusion of provisions comparable to section 2055(e)(3) of this title in this section, see section 514(b) of Pub. L. 95–600, set out as a note under section 2055 of this title.
 
-### § 2523. Gift to spouse
+### § 2523. Gift to spouse
 
 **(a) Allowance of deduction**
 
@@ -1375,7 +1375,7 @@ Nothing in this section or any other provision of this chapter shall allow the v
 
 This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 412; Pub. L. 91–614, title I, § 102(c)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, § 1902(a)(12)(E), title XX, § 2002(b), Oct. 4, 1976, 90 Stat. 1806, 1854; Pub. L. 97–34, title IV, § 403(b)(1), (2), (d)(2), Aug. 13, 1981, 95 Stat. 301, 303; Pub. L. 97–448, title I, § 104(a)(2)(B), (4)–(6), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 99–514, title XVIII, § 1879(n)(1), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 100–647, title V, § 5033(b), title VI, § 6152(b), Nov. 10, 1988, 102 Stat. 3672, 3725; Pub. L. 101–239, title VII, § 7815(d)(1)(A), (2), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 101–508, title XI, § 11702(g)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 102–486, title XIX, § 1941(b), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XVI, § 1604(g)(4), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 115–141, div. U, title IV, § 401(a)(205), (206), Mar. 23, 2018, 132 Stat. 1194.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 412; Pub. L. 91–614, title I, § 102(c)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, § 1902(a)(12)(E), title XX, § 2002(b), Oct. 4, 1976, 90 Stat. 1806, 1854; Pub. L. 97–34, title IV, § 403(b)(1), (2), (d)(2), Aug. 13, 1981, 95 Stat. 301, 303; Pub. L. 97–448, title I, § 104(a)(2)(B), (4)–(6), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 99–514, title XVIII, § 1879(n)(1), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 100–647, title V, § 5033(b), title VI, § 6152(b), Nov. 10, 1988, 102 Stat. 3672, 3725; Pub. L. 101–239, title VII, § 7815(d)(1)(A), (2), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 101–508, title XI, § 11702(g)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 102–486, title XIX, § 1941(b), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XVI, § 1604(g)(4), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 115–141, div. U, title IV, § 401(a)(205), (206), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -1385,49 +1385,49 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 **References in Text**
 
-Sections 2515 and 2515A, referred to in subsec. (i)(3), were repealed by Pub. L. 97–34, title IV, § 403(c)(3)(B), Aug. 13, 1981, 95 Stat. 302.
+Sections 2515 and 2515A, referred to in subsec. (i)(3), were repealed by Pub. L. 97–34, title IV, § 403(c)(3)(B), Aug. 13, 1981, 95 Stat. 302.
 
 **Amendments**
 
-2018—Subsec. (g)(1). Pub. L. 115–141, § 401(a)(205), substituted “beneficiary who is not a charitable beneficiary” for “noncharitable beneficiary”.
+2018—Subsec. (g)(1). Pub. L. 115–141, § 401(a)(205), substituted “beneficiary who is not a charitable beneficiary” for “noncharitable beneficiary”.
 
-Subsec. (g)(2). Pub. L. 115–141, § 401(a)(206), substituted “term ‘charitable beneficiary’ ” for “term ‘noncharitable beneficiary’ ”.
+Subsec. (g)(2). Pub. L. 115–141, § 401(a)(206), substituted “term ‘charitable beneficiary’ ” for “term ‘noncharitable beneficiary’ ”.
 
 1997—Subsec. (g)(1). Pub. L. 105–34 substituted “qualified charitable remainder trust” for “qualified remainder trust”.
 
-1992—Subsec. (e). Pub. L. 102–486, § 1941(b)(1), in closing provisions, inserted at end “For purposes of this subsection, the term ‘specific portion’ only includes a portion determined on a fractional or percentage basis.”
+1992—Subsec. (e). Pub. L. 102–486, § 1941(b)(1), in closing provisions, inserted at end “For purposes of this subsection, the term ‘specific portion’ only includes a portion determined on a fractional or percentage basis.”
 
-Subsec. (f)(3). Pub. L. 102–486, § 1941(b)(2), inserted before period at end “and the rules of section 2056(b)(10) shall apply”.
+Subsec. (f)(3). Pub. L. 102–486, § 1941(b)(2), inserted before period at end “and the rules of section 2056(b)(10) shall apply”.
 
 1990—Subsec. (i). Pub. L. 101–508 inserted at end “This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).”
 
-1989—Subsec. (a). Pub. L. 101–239, § 7815(d)(2), struck out “who is a citizen or resident” after “Where a donor”.
+1989—Subsec. (a). Pub. L. 101–239, § 7815(d)(2), struck out “who is a citizen or resident” after “Where a donor”.
 
-Subsec. (i)(2). Pub. L. 101–239, § 7815(d)(1)(A), substituted “which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1)” for “made by the donor to such spouse”.
+Subsec. (i)(2). Pub. L. 101–239, § 7815(d)(1)(A), substituted “which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1)” for “made by the donor to such spouse”.
 
-1988—Subsec. (f)(6). Pub. L. 100–647, § 6152(b), added par. (6).
+1988—Subsec. (f)(6). Pub. L. 100–647, § 6152(b), added par. (6).
 
-Subsec. (i). Pub. L. 100–647, § 5033(b), added subsec. (i).
+Subsec. (i). Pub. L. 100–647, § 5033(b), added subsec. (i).
 
 1986—Subsec. (f)(4)(A). Pub. L. 99–514 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “An election under this subsection with respect to any property shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe.”
 
-1983—Subsec. (f)(3). Pub. L. 97–448, § 104(a)(6), substituted “rules similar to the rules of clauses (ii)” for “the rules of clauses (ii)”.
+1983—Subsec. (f)(3). Pub. L. 97–448, § 104(a)(6), substituted “rules similar to the rules of clauses (ii)” for “the rules of clauses (ii)”.
 
-Subsec. (f)(4). Pub. L. 97–448, § 104(a)(4), divided existing provisions into subpars. (A) and (B), in subpar. (A) as so designated substituted “shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe” for “shall be made on the return of the tax imposed by section 2501 for the calendar year in which the interest was transferred”, and in subpar. (B) as so designated substituted “An election under this subsection” for “Such an election”.
+Subsec. (f)(4). Pub. L. 97–448, § 104(a)(4), divided existing provisions into subpars. (A) and (B), in subpar. (A) as so designated substituted “shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe” for “shall be made on the return of the tax imposed by section 2501 for the calendar year in which the interest was transferred”, and in subpar. (B) as so designated substituted “An election under this subsection” for “Such an election”.
 
-Subsec. (f)(5). Pub. L. 97–448, § 104(a)(5), added par. (5).
+Subsec. (f)(5). Pub. L. 97–448, § 104(a)(5), added par. (5).
 
-Subsec. (h). Pub. L. 97–448, § 104(a)(2)(B), added subsec. (h).
+Subsec. (h). Pub. L. 97–448, § 104(a)(2)(B), added subsec. (h).
 
-1981—Subsec. (a). Pub. L. 97–34, § 403(b)(1), struck out “(1) In general” designation for existing text and struck out par. (2) which declared that the aggregate of the allowed deductions for any calendar quarter should not exceed the sum of $100,000 reduced, but not below zero, by the aggregate of the allowed deductions for preceding calendar quarters beginning after Dec. 31, 1976, plus 50 percent of the lesser of the amount of the allowed deductions for such calendar quarter, determined without regard to par. (2), or the amount, if any, by which the aggregate determined under cl. (i) of par. (2) for the calendar quarter and for each preceding calendar quarter beginning after Dec. 31, 1976, exceeds $200,000.
+1981—Subsec. (a). Pub. L. 97–34, § 403(b)(1), struck out “(1) In general” designation for existing text and struck out par. (2) which declared that the aggregate of the allowed deductions for any calendar quarter should not exceed the sum of $100,000 reduced, but not below zero, by the aggregate of the allowed deductions for preceding calendar quarters beginning after Dec. 31, 1976, plus 50 percent of the lesser of the amount of the allowed deductions for such calendar quarter, determined without regard to par. (2), or the amount, if any, by which the aggregate determined under cl. (i) of par. (2) for the calendar quarter and for each preceding calendar quarter beginning after Dec. 31, 1976, exceeds $200,000.
 
-Subsec. (f). Pub. L. 97–34, § 403(b)(2), (d)(2), substituted provision relating to election with respect to life estate for donee spouse for provision relating to community property.
+Subsec. (f). Pub. L. 97–34, § 403(b)(2), (d)(2), substituted provision relating to election with respect to life estate for donee spouse for provision relating to community property.
 
-Subsec. (g). Pub. L. 97–34, § 403(d)(2), added subsec. (g).
+Subsec. (g). Pub. L. 97–34, § 403(d)(2), added subsec. (g).
 
 1976—Subsec. (a). Pub. L. 94–455 designated existing provisions as par. (1), struck out “one-half of” after “interest equal to”, and added par. (2) relating to limitations on aggregate amount of deductions.
 
-Subsec. (f)(1). Pub. L. 94–455, § 1902(a)(12)(E), struck out “Territory” after “any State”.
+Subsec. (f)(1). Pub. L. 94–455, § 1902(a)(12)(E), struck out “Territory” after “any State”.
 
 1970—Subsec. (a). Pub. L. 91–614 substituted “quarter” for “year” in two places.
 
@@ -1443,19 +1443,19 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7815(d)(1)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply with respect to gifts made after June 29, 1989.”
+Pub. L. 101–239, title VII, § 7815(d)(1)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply with respect to gifts made after June 29, 1989.”
 
 Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title V, § 5033(d)(2), Nov. 10, 1988, 102 Stat. 3673, provided that: “The amendments made by subsection (b) [amending this section] shall apply to gifts on or after July 14, 1988.”
+Pub. L. 100–647, title V, § 5033(d)(2), Nov. 10, 1988, 102 Stat. 3673, provided that: “The amendments made by subsection (b) [amending this section] shall apply to gifts on or after July 14, 1988.”
 
 Amendment by section 6152(b) of Pub. L. 100–647 applicable to transfers after Dec. 31, 1981, and, in the case of any estate or gift tax return filed before Nov. 10, 1988, such amendment inapplicable to the extent it would be inconsistent with the treatment of the annuity on such return unless executor or donor otherwise elects before the day 2 years after Nov. 10, 1988, the time for making such an election not to expire before such date, see section 6152(c), of Pub. L. 100–647, set out as a note under section 2056 of this title.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XVIII, § 1879(n)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to transfers made after December 31, 1985.”
+Pub. L. 99–514, title XVIII, § 1879(n)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to transfers made after December 31, 1985.”
 
 **Effective Date of 1983 Amendment**
 
@@ -1467,7 +1467,7 @@ Amendment by Pub. L. 97–34 applicable to gifts made after Dec. 31, 1981, see s
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XX, § 2002(d)(2), Oct. 4, 1976, 90 Stat. 1856, provided that: “The amendment made by subsection (b) [amending this section] shall apply to gifts made after December 31, 1976.”
+Pub. L. 94–455, title XX, § 2002(d)(2), Oct. 4, 1976, 90 Stat. 1856, provided that: “The amendment made by subsection (b) [amending this section] shall apply to gifts made after December 31, 1976.”
 
 **Effective Date of 1970 Amendment**
 
@@ -1477,13 +1477,13 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-**Special Rule for Certain Transfers in October 1984**
+**Special Rule for Certain Transfers in October 1984**
 
-Pub. L. 99–514, title XVIII, § 1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that:
+Pub. L. 99–514, title XVIII, § 1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that:
 
 > “An election under section 2523(f) of the Internal Revenue Code of 1954 [now 1986] with respect to an interest in property which—
 
@@ -1493,7 +1493,7 @@ Pub. L. 99–514, title XVIII, § 1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, p
 
 > shall be made on the return of tax imposed by section 2501 of such Code for the calendar year 1984 which is filed on or before the due date of such return or, if a timely return is not filed, on the first such return filed after the due date of such return and before December 31, 1986.”
 
-### § 2524. Extent of deductions
+### § 2524. Extent of deductions
 
 The deductions provided in sections 2522 and 2523 shall be allowed only to the extent that the gifts therein specified are included in the amount of gifts against which such deductions are applied.
 

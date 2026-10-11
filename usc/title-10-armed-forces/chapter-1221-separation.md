@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–106, div. A, title V, § 563(a)(2)(B), Feb. 10, 1996, 110 Stat. 325, added item 12687.
+1996—Pub. L. 104–106, div. A, title V, § 563(a)(2)(B), Feb. 10, 1996, 110 Stat. 325, added item 12687.
 
-## § 12681. Reserves: discharge authority
+## § 12681. Reserves: discharge authority
 
 Subject to other provisions of this title, reserve commissioned officers may be discharged at the pleasure of the President. Other Reserves may be discharged under regulations prescribed by the Secretary concerned.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 1162(a) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
+Provisions similar to those in this section were contained in section 1162(a) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -41,7 +41,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **Availability of Transition Assistance Advisors To Assist Members of Reserve Components Who Serve on Active Duty for More Than 180 Consecutive Days**
 
-Pub. L. 112–239, div. A, title V, § 513, Jan. 2, 2013, 126 Stat. 1718, provided that:
+Pub. L. 112–239, div. A, title V, § 513, Jan. 2, 2013, 126 Stat. 1718, provided that:
 
 > **“(a) Transition Assistance Advisor Program Authorized.—** The Chief of the National Guard Bureau may establish a program to provide professionals (to be known as Transition Assistance Advisors) in each State to serve as points of contact to assist eligible members of the reserve components in accessing benefits and health care furnished under laws administered by the Secretary of Defense and benefits and health care furnished under laws administered by the Secretary of Veterans Affairs.
 
@@ -73,7 +73,7 @@ Pub. L. 112–239, div. A, title V, § 513, Jan. 2, 2013, 126 Stat. 1718, prov
 
 **Implementation of Agreement on Restructuring of Army National Guard and Army Reserve**
 
-Pub. L. 103–335, title VIII, § 8129, Sept. 30, 1994, 108 Stat. 2652, provided that:
+Pub. L. 103–335, title VIII, § 8129, Sept. 30, 1994, 108 Stat. 2652, provided that:
 
 > **“(a) Finding.—** Congress finds that the implementation of the off-site agreement may result in the loss to the Armed Forces of military personnel who have significant military experience and expertise.
 
@@ -93,21 +93,21 @@ Pub. L. 103–335, title VIII, § 8129, Sept. 30, 1994, 108 Stat. 2652, provid
 
 **Guard and Reserve Transition Initiatives**
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8050], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2714) [set out below] shall be made from appropriations in this Act [Pub. L. 104–208] which are available for the pay of reserve component personnel.”
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8050], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2714) [set out below] shall be made from appropriations in this Act [Pub. L. 104–208] which are available for the pay of reserve component personnel.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–61, title VIII, § 8061, Dec. 1, 1995, 109 Stat. 664.
+Pub. L. 104–61, title VIII, § 8061, Dec. 1, 1995, 109 Stat. 664.
 
-Pub. L. 103–335, title VIII, § 8073, Sept. 30, 1994, 108 Stat. 2635.
+Pub. L. 103–335, title VIII, § 8073, Sept. 30, 1994, 108 Stat. 2635.
 
-Pub. L. 103–139, title VIII, § 8087, Nov. 11, 1993, 107 Stat. 1459.
+Pub. L. 103–139, title VIII, § 8087, Nov. 11, 1993, 107 Stat. 1459.
 
-Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, § 202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, § 561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, § 518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, § 1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, § 561(*l*), (m), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, § 1 [[div. A], title V, § 571(*l*), (m)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title X, § 1048(h)(2), Dec. 28, 2001, 115 Stat. 1229, provided that:
+Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, § 202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, § 561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, § 518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, § 1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, § 561(*l*), (m), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, § 1 [[div. A], title V, § 571(*l*), (m)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title X, § 1048(h)(2), Dec. 28, 2001, 115 Stat. 1229, provided that:
 
 > **“SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.**
 
-> “In this subtitle [subtitle B (§§ 4411–4422) of title XLIV of div. D of Pub. L. 102–484], the term ‘force reduction transition period’ means the period beginning on October 1, 1991, and ending on December 31, 2001.
+> “In this subtitle [subtitle B (§§ 4411–4422) of title XLIV of div. D of Pub. L. 102–484], the term ‘force reduction transition period’ means the period beginning on October 1, 1991, and ending on December 31, 2001.
 
 > **“SEC. 4412. MEMBER OF SELECTED RESERVE DEFINED.**
 
@@ -185,7 +185,7 @@ Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712
 
 > **“(3)** the member applies for transfer to the Retired Reserve.
 
-> **“(c) [Repealed. Pub. L. 103–160, div. A, title V, § 561(f)(2)(B), Nov. 30, 1993, 107 Stat. 1667.]**
+> **“(c) [Repealed. Pub. L. 103–160, div. A, title V, § 561(f)(2)(B), Nov. 30, 1993, 107 Stat. 1667.]**
 
 > **“(d) Annual Payment Period.—** An annual payment granted to a member under this section shall be paid for a period of years prescribed by the Secretary concerned, except that if the member attains 60 years of age during that period the entitlement to the annual payment shall terminate on the member’s 60th birthday. A period prescribed for purposes of this subsection may not be less than one year nor more than five years.
 
@@ -281,17 +281,17 @@ Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712
 
 [Section 518(c) of Pub. L. 103–337 provided that: “The amendments made by this section [amending section 4416 of Pub. L. 102–484, set out above] shall apply only to payments to a member of the Armed Forces under subsection (b) of section 4416 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484) that are granted by the Secretary of Defense to that member after the date of the enactment of this Act [Oct. 5, 1994].” ]
 
-## § 12682. Reserves: discharge upon becoming ordained minister of religion
+## § 12682. Reserves: discharge upon becoming ordained minister of religion
 
 Under regulations to be prescribed by the Secretary of Defense, a Reserve who becomes a regular or ordained minister of religion is entitled upon his request to a discharge from his reserve enlistment or appointment.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 1162(b) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
+Provisions similar to those in this section were contained in section 1162(b) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -299,7 +299,7 @@ Provisions similar to those in this section were contained in section 1162(b) of
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12683. Reserve officers: limitation on involuntary separation
+## § 12683. Reserve officers: limitation on involuntary separation
 
 **(a)** An officer of a reserve component who has at least five years of service as a commissioned officer may not be separated from that component without his consent except—
 
@@ -317,29 +317,29 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(4)** A separation of an officer who is in an inactive status in the Standby Reserve and who is not qualified for transfer to the Retired Reserve or is qualified for transfer to the Retired Reserve and does not apply for such a transfer.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2997; amended Pub. L. 105–85, div. A, title V, § 516, Nov. 18, 1997, 111 Stat. 1733; Pub. L. 105–261, div. A, title X, § 1069(a)(8), Oct. 17, 1998, 112 Stat. 2136.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2997; amended Pub. L. 105–85, div. A, title V, § 516, Nov. 18, 1997, 111 Stat. 1733; Pub. L. 105–261, div. A, title X, § 1069(a)(8), Oct. 17, 1998, 112 Stat. 2136.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 1163(a) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
+Provisions similar to those in this section were contained in section 1163(a) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
 
 **Amendments**
 
-1998—Subsec. (b)(2). Pub. L. 105–261 substituted a period for “; or” at end.
+1998—Subsec. (b)(2). Pub. L. 105–261 substituted a period for “; or” at end.
 
-1997—Subsec. (b). Pub. L. 105–85, § 516(a)(1), substi­tuted “apply to any of the following:” for “apply—” in introductory provisions.
+1997—Subsec. (b). Pub. L. 105–85, § 516(a)(1), substi­tuted “apply to any of the following:” for “apply—” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–85, § 516(b)(1), (2), substituted “A” for “to a” and “title.” for “title;”.
+Subsec. (b)(1). Pub. L. 105–85, § 516(b)(1), (2), substituted “A” for “to a” and “title.” for “title;”.
 
-Subsec. (b)(2). Pub. L. 105–85, § 516(b)(3), which directed substitution of a period for “; and” at end of par. (2), could not be executed because “; and” did not appear in par. (2).
+Subsec. (b)(2). Pub. L. 105–85, § 516(b)(3), which directed substitution of a period for “; and” at end of par. (2), could not be executed because “; and” did not appear in par. (2).
 
-Pub. L. 105–85, § 516(b)(1), substituted “A” for “to a”.
+Pub. L. 105–85, § 516(b)(1), substituted “A” for “to a”.
 
-Subsec. (b)(3). Pub. L. 105–85, § 516(b)(1), substituted “A” for “to a”.
+Subsec. (b)(3). Pub. L. 105–85, § 516(b)(1), substituted “A” for “to a”.
 
-Subsec. (b)(4). Pub. L. 105–85, § 516(a)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 105–85, § 516(a)(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -347,7 +347,7 @@ Subsec. (b)(4). Pub. L. 105–85, § 516(a)(2), added par. (4).
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12684. Reserves: separation for absence without authority or sentence to imprisonment
+## § 12684. Reserves: separation for absence without authority or sentence to imprisonment
 
 The President or the Secretary concerned may drop from the rolls of the armed force concerned any Reserve—
 
@@ -357,13 +357,13 @@ The President or the Secretary concerned may drop from the rolls of the armed fo
 
 **(3)** who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2998; amended Pub. L. 104–106, div. A, title V, § 563(b)(2), Feb. 10, 1996, 110 Stat. 325.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2998; amended Pub. L. 104–106, div. A, title V, § 563(b)(2), Feb. 10, 1996, 110 Stat. 325.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 1163(b) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
+Provisions similar to those in this section were contained in section 1163(b) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
 
 **Amendments**
 
@@ -375,7 +375,7 @@ Provisions similar to those in this section were contained in section 1163(b) of
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12685. Reserves separated for cause: character of discharge
+## § 12685. Reserves separated for cause: character of discharge
 
 A member of a reserve component who is separated for cause, except under section 12684 of this title, is entitled to a discharge under honorable conditions unless—
 
@@ -383,13 +383,13 @@ A member of a reserve component who is separated for cause, except under section
 
 **(2)** the member consents to a discharge under conditions other than honorable with a waiver of proceedings of a court-martial or a board.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2998.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2998.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 1163(c) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
+Provisions similar to those in this section were contained in section 1163(c) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -397,19 +397,19 @@ Provisions similar to those in this section were contained in section 1163(c) of
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12686. Reserves on active duty within two years of retirement eligibility: limitation on release from active duty
+## § 12686. Reserves on active duty within two years of retirement eligibility: limitation on release from active duty
 
 **(a) Limitation.—** Under regulations to be prescribed by the Secretary concerned, which shall be as uniform as practicable, a member of a reserve component who is on active duty (other than for training) and is within two years of becoming eligible for retired pay or retainer pay under a purely military retirement system (other than the retirement system under chapter 1223 of this title), may not be involuntarily released from that duty before he becomes eligible for that pay, unless the release is approved by the Secretary.
 
 **(b) Waiver.—** With respect to a member of a reserve component who is to be ordered to active duty (other than for training) under section 12301 of this title pursuant to an order to active duty that specifies a period of less than 180 days and who (but for this subsection) would be covered by subsection (a), the Secretary concerned may require, as a condition of such order to active duty, that the member waive the applicability of subsection (a) to the member for the period of active duty covered by that order. In carrying out this subsection, the Secretary concerned may require that a waiver under the preceding sentence be executed before the period of active duty begins.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2998; amended Pub. L. 104–201, div. A, title V, § 533, Sept. 23, 1996, 110 Stat. 2520; Pub. L. 108–375, div. A, title V, § 522, Oct. 28, 2004, 118 Stat. 1888.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(i)(1), Oct. 5, 1994, 108 Stat. 2998; amended Pub. L. 104–201, div. A, title V, § 533, Sept. 23, 1996, 110 Stat. 2520; Pub. L. 108–375, div. A, title V, § 522, Oct. 28, 2004, 118 Stat. 1888.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 1163(d) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
+Provisions similar to those in this section were contained in section 1163(d) of this title, prior to repeal by Pub. L. 103–337, § 1662(i)(2).
 
 **Amendments**
 
@@ -423,8 +423,8 @@ Provisions similar to those in this section were contained in section 1163(d) of
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12687. Reserves under confinement by sentence of court-martial: separation after six months confinement
+## § 12687. Reserves under confinement by sentence of court-martial: separation after six months confinement
 
 Except as otherwise provided in regulations prescribed by the Secretary of Defense, a Reserve sentenced by a court-martial to a period of confinement for more than six months may be separated from that Reserve’s armed force at any time after the sentence to confinement has become final under chapter 47 of this title and the Reserve has served in confinement for a period of six months.
 
-(Added Pub. L. 104–106, div. A, title V, § 563(a)(2)(A), Feb. 10, 1996, 110 Stat. 325.)
+(Added Pub. L. 104–106, div. A, title V, § 563(a)(2)(A), Feb. 10, 1996, 110 Stat. 325.)

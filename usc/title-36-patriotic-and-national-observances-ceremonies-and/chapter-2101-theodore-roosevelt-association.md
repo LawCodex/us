@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2101—THEODORE ROOSEVELT ASSOCIATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2101—THEODORE ROOSEVELT ASSOCIATION"
 identifier: "/us/usc/t36/stII/ptB/ch2101"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 2101—THEODORE ROOSEVELT ASSOCIATION
 
-## § 210101. Organization
+## § 210101. Organization
 
 **(a) Federal Charter.—** Theodore Roosevelt Association (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 
@@ -27,8 +27,8 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 210101 | 36:4701. | May 31, 1920, ch. 216, § 1, 41 Stat. 691. |
-|  | 36:4702 (words before 2d comma). | May 31, 1920, ch. 216, § 2 (words before 2d comma), 41 Stat. 692; May 21, 1953, ch. 63, § 1, 67 Stat. 27. |
+| 210101 | 36:4701. | May 31, 1920, ch. 216, § 1, 41 Stat. 691. |
+|  | 36:4702 (words before 2d comma). | May 31, 1920, ch. 216, § 2 (words before 2d comma), 41 Stat. 692; May 21, 1953, ch. 63, § 1, 67 Stat. 27. |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
@@ -38,9 +38,9 @@ In subsection (b), the words “Except as otherwise provided” are added, and t
 
 **Change of Name**
 
-Act May 21, 1953, ch. 63, § 2, 67 Stat. 28, provided that: “Any law heretofore enacted by the Congress and now in effect which refers to said Roosevelt Memorial Association shall hereafter be deemed to refer to such Association by its new name, Theodore Roosevelt Association.”
+Act May 21, 1953, ch. 63, § 2, 67 Stat. 28, provided that: “Any law heretofore enacted by the Congress and now in effect which refers to said Roosevelt Memorial Association shall hereafter be deemed to refer to such Association by its new name, Theodore Roosevelt Association.”
 
-## § 210102. Purposes
+## § 210102. Purposes
 
 The purposes of the corporation are—
 
@@ -62,11 +62,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 210102 | 36:4703. | May 31, 1920, ch. 216, § 3, 41 Stat. 693; July 25, 1962, Pub. L. 87–547, § 6, 76 Stat. 217. |
+| 210102 | 36:4703. | May 31, 1920, ch. 216, § 3, 41 Stat. 693; July 25, 1962, Pub. L. 87–547, § 6, 76 Stat. 217. |
 
 In clause (2), before subclause (A), the words “among others” are substituted for “and to that end, but without restriction to the objects enumerated below” to eliminate unnecessary words.
 
-## § 210103. Membership
+## § 210103. Membership
 
 Eligibility for membership in the corporation is as provided in regulations adopted by the board of trustees.
 
@@ -76,11 +76,11 @@ Eligibility for membership in the corporation is as provided in regulations adop
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 210103 | 36:4704 (last par. related to regulations for membership). | May 31, 1920, ch. 216, § 4 (last par. related to regulations for membership), 41 Stat. 693. |
+| 210103 | 36:4704 (last par. related to regulations for membership). | May 31, 1920, ch. 216, § 4 (last par. related to regulations for membership), 41 Stat. 693. |
 
-This section is substituted for “The board of trustees shall have the power to adopt . . . regulations . . . for the admission to membership in the corporation” for consistency in the revised title.
+This section is substituted for “The board of trustees shall have the power to adopt . . . regulations . . . for the admission to membership in the corporation” for consistency in the revised title.
 
-## § 210104. Governing body
+## § 210104. Governing body
 
 **(a) Board of Trustees.—** A self-perpetuating board of trustees shall manage and direct the property and affairs of the corporation.
 
@@ -100,13 +100,13 @@ This section is substituted for “The board of trustees shall have the power to
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 210104 | 36:4704 (1st par., last par. less regulations for membership). | May 31, 1920, ch. 216, § 4 (1st par., last par. less regulations for membership), 41 Stat. 693. |
+| 210104 | 36:4704 (1st par., last par. less regulations for membership). | May 31, 1920, ch. 216, § 4 (1st par., last par. less regulations for membership), 41 Stat. 693. |
 
 The text of 36:4704 (2d sentence) is omitted as executed and obsolete.
 
-In subsection (b), before clause (1), the words “adopt and amend” are substituted for “adopt from time to time . . . and alter, amend, or repeal” for consistency in the revised title and to eliminate unnecessary words. The word “rules” is omitted as included in “regulations”.
+In subsection (b), before clause (1), the words “adopt and amend” are substituted for “adopt from time to time . . . and alter, amend, or repeal” for consistency in the revised title and to eliminate unnecessary words. The word “rules” is omitted as included in “regulations”.
 
-## § 210105. Powers
+## § 210105. Powers
 
 The corporation may—
 
@@ -130,20 +130,20 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 210105 | 36:4702 (words after 2d comma). | May 31, 1920, ch. 216, § 2 (words after 2d comma), 41 Stat. 692. |
-|  | 36:4707. | May 31, 1920, ch. 216, § 7, as added Mar. 29, 1956, ch. 102, 70 Stat. 60. |
+| 210105 | 36:4702 (words after 2d comma). | May 31, 1920, ch. 216, § 2 (words after 2d comma), 41 Stat. 692. |
+|  | 36:4707. | May 31, 1920, ch. 216, § 7, as added Mar. 29, 1956, ch. 102, 70 Stat. 60. |
 
 The text of 36:4707 is omitted as executed and obsolete.
 
 In clause (1), the word “rules” is omitted as included in “regulations”. The words “not inconsistent with the laws of the United States of America, or any State thereof” are omitted as unnecessary.
 
-In clause (2), the words “adopt and alter” are substituted for “adopt . . . and the same to alter at pleasure” for consistency in the revised title.
+In clause (2), the words “adopt and alter” are substituted for “adopt . . . and the same to alter at pleasure” for consistency in the revised title.
 
-In clause (3), the words “acquire and own property” are substituted for “hold such real and personal estate . . . and . . . receive real and personal property by gift, devise, or bequest” for consistency in the revised title and to eliminate unnecessary words.
+In clause (3), the words “acquire and own property” are substituted for “hold such real and personal estate . . . and . . . receive real and personal property by gift, devise, or bequest” for consistency in the revised title and to eliminate unnecessary words.
 
 In clause (6), the words “in courts of law and equity” are omitted as unnecessary and for consistency in the revised title.
 
-## § 210106. Restrictions
+## § 210106. Restrictions
 
 **(a) Exclusively Educational Purposes.—** The corporation shall be operated exclusively for educational purposes.
 
@@ -157,7 +157,7 @@ In clause (6), the words “in courts of law and equity” are omitted as unnece
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 210106 | 36:4705. | May 31, 1920, ch. 216, § 5, 41 Stat. 693. |
+| 210106 | 36:4705. | May 31, 1920, ch. 216, § 5, 41 Stat. 693. |
 
 In subsection (a), the words “is organized and” are omitted as executed and obsolete.
 
@@ -165,7 +165,7 @@ In subsection (b), the words “certificates of” are omitted as unnecessary.
 
 In subsection (c), the words “income or assets” are substituted for “earnings, income, or funds” for consistency in the revised title.
 
-## § 210107. Nonapplication of audit requirements
+## § 210107. Nonapplication of audit requirements
 
 The audit requirements of section 10101 of this title do not apply to the corporation.
 

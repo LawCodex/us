@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 79—METAL CASTING COMPETITIVENESS RESEARCH PROGRAM
 
-## § 5301. Findings
+## § 5301. Findings
 
 The Congress finds that—
 
@@ -33,15 +33,15 @@ The Congress finds that—
 
 **(7)** by combining the resources of the Federal Government, universities, industry, and private organizations, to conduct research and development activities, substantial technological benefits will result to the metal casting industry.
 
-(Pub. L. 101–425, § 2, Oct. 15, 1990, 104 Stat. 915.)
+(Pub. L. 101–425, § 2, Oct. 15, 1990, 104 Stat. 915.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–425, § 1, Oct. 15, 1990, 104 Stat. 915, provided that: “This Act [enacting this chapter] may be cited as the ‘Department of Energy Metal Casting Competitiveness Research Act of 1990’.”
+Pub. L. 101–425, § 1, Oct. 15, 1990, 104 Stat. 915, provided that: “This Act [enacting this chapter] may be cited as the ‘Department of Energy Metal Casting Competitiveness Research Act of 1990’.”
 
-## § 5302. Definitions
+## § 5302. Definitions
 
 As used in this chapter, the term—
 
@@ -63,29 +63,29 @@ that is located in a region where the metal casting industry is concentrated;
 
 **(5)** “non-Federal source” means the United States metal casting industry, related industries, industry-related associations, individuals, organizations, universities, State agencies, or other entities supporting the metal casting industry;
 
-**(6)** “metal casting industry” or “industry” means the industries identified by codes numbered 3321, 3322, 3324, 3325, 3363, 3364, 3365, 3366, and 3369, in the Standard Industrial Classification manual 1
+**(6)** “metal casting industry” or “industry” means the industries identified by codes numbered 3321, 3322, 3324, 3325, 3363, 3364, 3365, 3366, and 3369, in the Standard Industrial Classification manual 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 published by the Office of Management and Budget in 1987;
 
 **(7)** “Secretary” means the Secretary of Energy.
 
-(Pub. L. 101–425, § 3, Oct. 15, 1990, 104 Stat. 915.)
+(Pub. L. 101–425, § 3, Oct. 15, 1990, 104 Stat. 915.)
 
-## § 5303. Establishment of program
+## § 5303. Establishment of program
 
 The Secretary, acting in accordance with authority provided in the Federal Non-Nuclear Research and Development Act of 1974 (42 U.S.C. 5901 et seq.), except as otherwise provided in this chapter, shall establish a Metal Casting Competitiveness Research Program (hereafter in this chapter referred to as the “Program”) for the purpose of performing and promoting the performance of research and development on issues related to the technology competitiveness and energy efficiency of the United States metal casting industry.
 
-(Pub. L. 101–425, § 4, Oct. 15, 1990, 104 Stat. 916.)
+(Pub. L. 101–425, § 4, Oct. 15, 1990, 104 Stat. 916.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Non-Nuclear Research and Development Act of 1974, referred to in text, probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Non-Nuclear Research and Development Act of 1974, referred to in text, probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
-## § 5304. Operation of program
+## § 5304. Operation of program
 
 **(a) Solicitation of proposals** Within one year after October 15, 1990, the Secretary shall solicit and, subject to available appropriations, select proposals on a competitive basis from applicants to carry out the program under section 5303 of this title. In order for a proposal to be considered by the Secretary, the applicant shall have in existence at the time the proposal is submitted the following qualifications:
 
@@ -167,9 +167,9 @@ From amounts made available in separate appropriation Acts, the Secretary shall 
 
 Each recipient of financial assistance under subsection (d) shall be known as a “National Metal Casting Research Institute”.
 
-(Pub. L. 101–425, § 5, Oct. 15, 1990, 104 Stat. 916.)
+(Pub. L. 101–425, § 5, Oct. 15, 1990, 104 Stat. 916.)
 
-## § 5305. Review
+## § 5305. Review
 
 **(a) Evaluation of research activities**
 
@@ -187,9 +187,9 @@ In the event a selected applicant has substantially failed in the implementation
 
 Upon completion or discontinuance of any research activity authorized in section 5304 of this title, the Secretary shall, using available funds appropriated pursuant to this chapter, solicit new research proposals as set forth under the terms of this chapter.
 
-(Pub. L. 101–425, § 6, Oct. 15, 1990, 104 Stat. 918.)
+(Pub. L. 101–425, § 6, Oct. 15, 1990, 104 Stat. 918.)
 
-## § 5306. Industrial Advisory Board
+## § 5306. Industrial Advisory Board
 
 **(a) Establishment of Board**
 
@@ -205,7 +205,7 @@ Within 120 days after October 15, 1990, the Secretary, after consulting with rep
 
 **(B)** review the research activities of each selected applicant, and the selected applicant’s management plan, and report its findings and recommendations to the Secretary.
 
-(Pub. L. 101–425, § 7, Oct. 15, 1990, 104 Stat. 918.)
+(Pub. L. 101–425, § 7, Oct. 15, 1990, 104 Stat. 918.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -213,11 +213,11 @@ Within 120 days after October 15, 1990, the Secretary, after consulting with rep
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 5307. Authorization of appropriations
+## § 5307. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary for carrying out this chapter $5,000,000 for each of the fiscal years 1991, 1992, 1993, 1994, 1995, 1996, and 1997, to be derived from such sums as are otherwise authorized under section 13451(e) of title 42.
 
-(Pub. L. 101–425, § 8, Oct. 15, 1990, 104 Stat. 919; Pub. L. 102–486, title XXI, § 2106(b), Oct. 24, 1992, 106 Stat. 3070.)
+(Pub. L. 101–425, § 8, Oct. 15, 1990, 104 Stat. 919; Pub. L. 102–486, title XXI, § 2106(b), Oct. 24, 1992, 106 Stat. 3070.)
 
 **Editorial Notes**
 
@@ -225,7 +225,7 @@ There are authorized to be appropriated to the Secretary for carrying out this c
 
 1992—Pub. L. 102–486 substituted “1993, 1994, 1995, 1996, and 1997, to be derived from such sums as are otherwise authorized under section 13451(e) of title 42” for “and 1993”.
 
-## § 5308. Protection of proprietary rights
+## § 5308. Protection of proprietary rights
 
 **(a) Proprietary rights**
 
@@ -243,12 +243,12 @@ may provide appropriate protection against the dissemination of such information
 
 With respect to patent rights, the Institutes shall be treated in the same manner as are nonprofit organizations and small business firms under chapter 18 of title 35, notwithstanding any provisions to the contrary contained in that chapter.
 
-(Pub. L. 101–425, § 9, Oct. 15, 1990, 104 Stat. 919.)
+(Pub. L. 101–425, § 9, Oct. 15, 1990, 104 Stat. 919.)
 
-## § 5309. Omitted
+## § 5309. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 101–425, § 10, Oct. 15, 1990, 104 Stat. 919, which required, at the time the President’s annual budget request for the Department is submitted, that the Secretary provide to Congress a detailed review of the progress of the research and development activities authorized under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 84 of House Document No. 103–7.
+Section, Pub. L. 101–425, § 10, Oct. 15, 1990, 104 Stat. 919, which required, at the time the President’s annual budget request for the Department is submitted, that the Secretary provide to Congress a detailed review of the progress of the research and development activities authorized under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 84 of House Document No. 103–7.

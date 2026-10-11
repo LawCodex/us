@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–108, title II, § 201(b), Apr. 6, 2022, 136 Stat. 1146, added item 3692.
+2022—Pub. L. 117–108, title II, § 201(b), Apr. 6, 2022, 136 Stat. 1146, added item 3692.
 
-2006—Pub. L. 109–435, title II, § 206, Dec. 20, 2006, 120 Stat. 3217, added chapter heading and analysis and struck out former chapter heading “POSTAL RATES, CLASSES, AND SERVICES” and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
+2006—Pub. L. 109–435, title II, § 206, Dec. 20, 2006, 120 Stat. 3217, added chapter heading and analysis and struck out former chapter heading “POSTAL RATES, CLASSES, AND SERVICES” and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
 
-1998—Pub. L. 105–277, div. A, § 101(h) [title VI, § 648(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, added item 3663.
+1998—Pub. L. 105–277, div. A, § 101(h) [title VI, § 648(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, added item 3663.
 
-1993—Pub. L. 103–123, title VII, § 704(a)(3)(B)(ii), Oct. 28, 1993, 107 Stat. 1270, substituted “free rates” for “free and reduced rates” in item 3627 and added item 3642.
+1993—Pub. L. 103–123, title VII, § 704(a)(3)(B)(ii), Oct. 28, 1993, 107 Stat. 1270, substituted “free rates” for “free and reduced rates” in item 3627 and added item 3642.
 
-Pub. L. 103–31, § 8(h)(4), May 20, 1993, 107 Stat. 86, added item 3629.
+Pub. L. 103–31, § 8(h)(4), May 20, 1993, 107 Stat. 86, added item 3629.
 
 ## SUBCHAPTER I—PROVISIONS RELATING TO MARKET-DOMINANT PRODUCTS
 
@@ -35,17 +35,17 @@ Pub. L. 103–31, § 8(h)(4), May 20, 1993, 107 Stat. 86, added item 3629.
 
 **Prior Provisions**
 
-A prior subchapter I of this chapter consisted of sections 3601 to 3604, prior to amendment by Pub. L. 109–435, title VI, § 601(a)(2), (3), Dec. 20, 2006, 120 Stat. 3238, 3239, which struck out the subchapter heading “POSTAL RATE COMMISSION” and sections 3601 and 3602 and renumbered sections 3603 and 3604 as sections 503 and 504 of this title, respectively, and transferred those sections to chapter 5 of this title.
+A prior subchapter I of this chapter consisted of sections 3601 to 3604, prior to amendment by Pub. L. 109–435, title VI, § 601(a)(2), (3), Dec. 20, 2006, 120 Stat. 3238, 3239, which struck out the subchapter heading “POSTAL RATE COMMISSION” and sections 3601 and 3602 and renumbered sections 3603 and 3604 as sections 503 and 504 of this title, respectively, and transferred those sections to chapter 5 of this title.
 
-Section 3601, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759; Pub. L. 94–421, § 3(a), Sept. 24, 1976, 90 Stat. 1304; Pub. L. 103–123, title VII, § 708(c), Oct. 28, 1993, 107 Stat. 1273, related to establishment of the Postal Rate Commission.
+Section 3601, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759; Pub. L. 94–421, § 3(a), Sept. 24, 1976, 90 Stat. 1304; Pub. L. 103–123, title VII, § 708(c), Oct. 28, 1993, 107 Stat. 1273, related to establishment of the Postal Rate Commission.
 
 Section 3602, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, related to terms of office of the Commissioners of the Postal Rate Commission.
 
 **Amendments**
 
-2006—Pub. L. 109–435, title II, § 201(c), Dec. 20, 2006, 120 Stat. 3205, redesignated subchapter II of this chapter as this subchapter and substituted “PROVISIONS RELATING TO MARKET-DOMINANT PRODUCTS” for “PERMANENT RATES AND CLASSES OF MAIL” in subchapter heading.
+2006—Pub. L. 109–435, title II, § 201(c), Dec. 20, 2006, 120 Stat. 3205, redesignated subchapter II of this chapter as this subchapter and substituted “PROVISIONS RELATING TO MARKET-DOMINANT PRODUCTS” for “PERMANENT RATES AND CLASSES OF MAIL” in subchapter heading.
 
-### § 3621. Applicability; definitions
+### § 3621. Applicability; definitions
 
 **(a) Applicability.—** This subchapter shall apply with respect to—
 
@@ -73,25 +73,25 @@ subject to any changes the Postal Regulatory Commission may make under section 3
 
 **(b) Rule of Construction.—** Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
 
-(Added Pub. L. 109–435, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3200.)
+(Added Pub. L. 109–435, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3200.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3621, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760, authorized the Governors to fix rates and classes, prior to repeal by Pub. L. 109–435, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3200.
+A prior section 3621, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760, authorized the Governors to fix rates and classes, prior to repeal by Pub. L. 109–435, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3200.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Ratemaking Limitations**
 
-Pub. L. 103–123, title VII, § 704(b)(2), Oct. 28, 1993, 107 Stat. 1270, provided that:
+Pub. L. 103–123, title VII, § 704(b)(2), Oct. 28, 1993, 107 Stat. 1270, provided that:
 
 > **“(A) In general.—** Except as provided in subparagraph (B), rates of postage may not be established, under subchapter II [now I] of chapter 36 of title 39, United States Code, in a manner designed to allow the United States Postal Service to receive through revenues any portion of the additional revenues (referred to in section 2401(d) of such title, as amended by paragraph (1)(E)) for which amounts are authorized to be appropriated under such section 2401(d).
 
 > **“(B) Exception.—** If Congress fails to appropriate an amount authorized under section 2401(d) of title 39, United States Code (as amended by paragraph (1)(E)), rates for the various classes of mail may be adjusted in accordance with the provisions of subchapter II [now I] of chapter 36 of such title (excluding section 3627 thereof) such that the resulting increase in revenues will equal the amount that Congress so failed to appropriate.”
 
-### § 3622. Modern rate regulation
+### § 3622. Modern rate regulation
 
 **(a) Authority Generally.—** The Postal Regulatory Commission shall, within 18 months after the date of enactment of this section, by regulation establish (and may from time to time thereafter by regulation revise) a modern system for regulating rates and classes for market-dominant products.
 
@@ -241,7 +241,7 @@ Pub. L. 103–123, title VII, § 704(b)(2), Oct. 28, 1993, 107 Stat. 1270, pro
 
 **(f) Transition Rule.—** For the 1-year period beginning on the date of enactment of this section, rates and classes for market-dominant products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were last in effect before the date of enactment of this section. Proceedings initiated to consider a request for a recommended decision filed by the Postal Service during that 1-year period shall be completed in accordance with subchapter II of chapter 36 of this title and implementing regulations, as in effect before the date of enactment of this section.
 
-(Added Pub. L. 109–435, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3201.)
+(Added Pub. L. 109–435, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3201.)
 
 **Editorial Notes**
 
@@ -251,17 +251,17 @@ The date of enactment of this section and the date of enactment of the Postal Ac
 
 **Prior Provisions**
 
-A prior section 3622, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760; Pub. L. 94–421, § 10, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 105–241, § 5, Sept. 28, 1998, 112 Stat. 1573; Pub. L. 106–384, § 1(a), Oct. 27, 2000, 114 Stat. 1460, related to rates and fees, prior to repeal by Pub. L. 109–435, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3200.
+A prior section 3622, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760; Pub. L. 94–421, § 10, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 105–241, § 5, Sept. 28, 1998, 112 Stat. 1573; Pub. L. 106–384, § 1(a), Oct. 27, 2000, 114 Stat. 1460, related to rates and fees, prior to repeal by Pub. L. 109–435, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3200.
 
-### [§§ 3623 to 3625. Repealed. Pub. L. 109–435, title II, § 201(b), Dec. 20, 2006, 120 Stat. 3205]
+### [§§ 3623 to 3625. Repealed. Pub. L. 109–435, title II, § 201(b), Dec. 20, 2006, 120 Stat. 3205]
 
-Section 3623, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 761; Pub. L. 94–421, § 8, Sept. 24, 1976, 90 Stat. 1310, related to mail classification.
+Section 3623, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 761; Pub. L. 94–421, § 8, Sept. 24, 1976, 90 Stat. 1310, related to mail classification.
 
-Section 3624, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 761; Pub. L. 94–421, § 5(a), Sept. 24, 1976, 90 Stat. 1306, related to recommended decisions of the Postal Rate Commission.
+Section 3624, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 761; Pub. L. 94–421, § 5(a), Sept. 24, 1976, 90 Stat. 1306, related to recommended decisions of the Postal Rate Commission.
 
-Section 3625, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 103–123, title VII, § 708(d), Oct. 28, 1993, 107 Stat. 1273, related to action of the Board of Governors of the Postal Service.
+Section 3625, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 103–123, title VII, § 708(d), Oct. 28, 1993, 107 Stat. 1273, related to action of the Board of Governors of the Postal Service.
 
-### § 3626. Reduced rates
+### § 3626. Reduced rates
 
 **(a)**
 
@@ -337,7 +337,7 @@ Section 3625, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 103–123, 
 
 **(h)** In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former section 4358 of this title may not exceed 50 percent of the number of copies of such publication mailed at such rates to subscribers.
 
-**[(i)** Repealed. Pub. L. 103–123, title VII, § 704(a)(3)(A), Oct. 28, 1993, 107 Stat. 1269.]
+**[(i)** Repealed. Pub. L. 103–123, title VII, § 704(a)(3)(A), Oct. 28, 1993, 107 Stat. 1269.]
 
 **(j)**
 
@@ -397,7 +397,7 @@ except that—
 
 **(n)** In the administration of this section, matter that satisfies the circulation standards for requester publications shall not be excluded from being mailed at the rates for mail under former section 4358 solely because such matter is designed primarily for free circulation or for circulation at nominal rates, or fails to meet the requirements of former section 4354(a)(5).
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, § 1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, § 11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, § 11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§ 15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, § 6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§ 1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§ 704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, § 639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, § 2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, § 102(a)(12), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–384, §§ 1(b)–(e), 2(b), Oct. 27, 2000, 114 Stat. 1460–1462; Pub. L. 109–435, title X, § 1003, Dec. 20, 2006, 120 Stat. 3255; Pub. L. 117–108, title II, § 204, Apr. 6, 2022, 136 Stat. 1147.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, § 1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, § 11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, § 11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§ 15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, § 6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§ 1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§ 704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, § 639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, § 2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, § 102(a)(12), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–384, §§ 1(b)–(e), 2(b), Oct. 27, 2000, 114 Stat. 1460–1462; Pub. L. 109–435, title X, § 1003, Dec. 20, 2006, 120 Stat. 3255; Pub. L. 117–108, title II, § 204, Apr. 6, 2022, 136 Stat. 1147.)
 
 **Editorial Notes**
 
@@ -415,59 +415,59 @@ The phrase “shall take effect immediately and shall stay in effect hereafter�
 
 2022—Subsec. (h). Pub. L. 117–108 substituted “50 percent” for “10 percent”.
 
-2006—Subsec. (a)(1) to (3). Pub. L. 109–435, § 1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined “costs attributable”, “regular-rate category”, and “institutional-costs contribution”, and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
+2006—Subsec. (a)(1) to (3). Pub. L. 109–435, § 1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined “costs attributable”, “regular-rate category”, and “institutional-costs contribution”, and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
 
-Subsec. (g)(3), (4). Pub. L. 109–435, § 1003(2), added pars. (3) and (4).
+Subsec. (g)(3), (4). Pub. L. 109–435, § 1003(2), added pars. (3) and (4).
 
-Subsec. (n). Pub. L. 109–435, § 1003(3), added subsec. (n).
+Subsec. (n). Pub. L. 109–435, § 1003(3), added subsec. (n).
 
-2000—Subsec. (a)(1). Pub. L. 106–384, § 2(b), substituted “4554(b), or 4554(c)” for “4454(b), or 4454(c)”.
+2000—Subsec. (a)(1). Pub. L. 106–384, § 2(b), substituted “4554(b), or 4554(c)” for “4454(b), or 4454(c)”.
 
-Subsec. (a)(3)(A). Pub. L. 106–384, § 1(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
+Subsec. (a)(3)(A). Pub. L. 106–384, § 1(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
 
 “(i) the estimated costs attributable to such class of mail or kind of mailer; and
 
 “(ii) the product derived by multiplying the estimated costs referred to in clause (i) by the applicable percentage under subparagraph (B).”
 
-Subsec. (a)(4). Pub. L. 106–384, § 1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion.”
+Subsec. (a)(4). Pub. L. 106–384, § 1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion.”
 
-Subsec. (a)(6). Pub. L. 106–384, § 1(d), added par. (6).
+Subsec. (a)(6). Pub. L. 106–384, § 1(d), added par. (6).
 
-Subsec. (a)(7). Pub. L. 106–384, § 1(e), added par. (7).
+Subsec. (a)(7). Pub. L. 106–384, § 1(e), added par. (7).
 
 1998—Subsec. (b)(3). Pub. L. 105–244 substituted “section 101” for “section 1201(a)” and struck out “(20 U.S.C. 1141(a))” after “Act of 1965”.
 
-1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency”.
+1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency”.
 
 1994—Subsec. (j)(1)(D)(III). Pub. L. 103–329 added cl. (III).
 
-1993—Subsec. (a). Pub. L. 103–123, § 704(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+1993—Subsec. (a). Pub. L. 103–123, § 704(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(1) Except as provided in paragraph (2) of this subsection, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with applicable provisions of this chapter.
 
 “(2) Rates of postage for a class of mail or kind of mailer referred to in paragraph (1) of this subsection shall be established in accordance with the requirement that the direct and indirect postal costs attributable to such class of mail or kind of mailer (excluding any other costs of the Postal Service) shall be borne by such class of mail or kind of mailer, as the case may be: *Provided, however*, That with respect to mail under former section 4452(b) and 4452(c) of this title the preceding limitation shall apply only to rates of postage for letter shaped pieces, as such pieces are defined in the associated classification and rate schedules.”
 
-Subsec. (i). Pub. L. 103–123, § 704(a)(3)(A), struck out subsec. (i) which defined “reduced-rate category” and “regular-rate category” and provided method for determining costs recovered by revenues plus appropriations for reduced-rate categories and for the purpose of distinguishing costs recovered from regular-rate categories and reduced-rate categories and determining appropriation requests relating to reduced-rate categories.
+Subsec. (i). Pub. L. 103–123, § 704(a)(3)(A), struck out subsec. (i) which defined “reduced-rate category” and “regular-rate category” and provided method for determining costs recovered by revenues plus appropriations for reduced-rate categories and for the purpose of distinguishing costs recovered from regular-rate categories and reduced-rate categories and determining appropriation requests relating to reduced-rate categories.
 
-Subsec. (j)(1)(D). Pub. L. 103–123, § 705(a), added subpar. (D).
+Subsec. (j)(1)(D). Pub. L. 103–123, § 705(a), added subpar. (D).
 
-Subsec. (j)(3). Pub. L. 103–123, § 705(c), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (j)(3). Pub. L. 103–123, § 705(c), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (k), (*l*). Pub. L. 103–123, § 708(e), redesignated subsec. (k), defining “advertising”, as (*l*).
+Subsec. (k), (*l*). Pub. L. 103–123, § 708(e), redesignated subsec. (k), defining “advertising”, as (*l*).
 
-Subsec. (m). Pub. L. 103–123, § 705(b), added subsec. (m).
+Subsec. (m). Pub. L. 103–123, § 705(b), added subsec. (m).
 
 1991—Subsec. (a)(2). Pub. L. 102–141 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Rates of postage for a class of mail or kind of mailer referred to in paragraph (1) of this subsection shall be established in accordance with the requirement that the direct and indirect postal costs attributable to such class of mail or kind of mailer (excluding any other costs of the Postal Service) shall be borne by such class of mail or kind of mailer, as the case may be.”
 
 Subsec. (i)(2). Pub. L. 102–141 inserted “Subject to the requirements of section 2401(c) of this title and paragraph (a)(2) of this section with respect to mail under former sections 4452(b) and 4452(c) of this title,” before “This subsection”.
 
-1990—Subsec. (j). Pub. L. 101–509, § 1(a), added subsec. (j).
+1990—Subsec. (j). Pub. L. 101–509, § 1(a), added subsec. (j).
 
-Subsec. (k). Pub. L. 101–509, § 3, added subsec. (k) defining “advertising”.
+Subsec. (k). Pub. L. 101–509, § 3, added subsec. (k) defining “advertising”.
 
-Pub. L. 101–509, § 1(a), added subsec. (k) relating to mailing of matter at inapplicable rates.
+Pub. L. 101–509, § 1(a), added subsec. (k) relating to mailing of matter at inapplicable rates.
 
-1986—Subsec. (a). Pub. L. 99–272, § 15102(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
+1986—Subsec. (a). Pub. L. 99–272, § 15102(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
 
 “(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c) shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
 
@@ -477,11 +477,11 @@ Pub. L. 101–509, § 1(a), added subsec. (k) relating to mailing of matter at
 
 No person who would have been entitled to mail matter under former section 4359 of this title shall mail such matter at the rates provided under this subsection unless he files annually with the Postal Service a written request for permission to mail matter at such rates.”
 
-Subsec. (f). Pub. L. 99–272, § 15102(c), added subsec. (f).
+Subsec. (f). Pub. L. 99–272, § 15102(c), added subsec. (f).
 
-Subsec. (g). Pub. L. 99–272, § 15104, added subsec. (g).
+Subsec. (g). Pub. L. 99–272, § 15104, added subsec. (g).
 
-Subsec. (h). Pub. L. 99–272, § 15105, added subsec. (h).
+Subsec. (h). Pub. L. 99–272, § 15105, added subsec. (h).
 
 Subsec. (i). Pub. L. 99–509 added subsec. (i).
 
@@ -499,9 +499,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–123, title VII, § 704(c)(1), Oct. 28, 1993, 107 Stat. 1270, provided that: “The amendments made by subsection (a) [enacting section 3642 of this title and amending this section and section 3627 of this title] shall apply with respect to rates for mail sent after September 30, 1993.”
+Pub. L. 103–123, title VII, § 704(c)(1), Oct. 28, 1993, 107 Stat. 1270, provided that: “The amendments made by subsection (a) [enacting section 3642 of this title and amending this section and section 3627 of this title] shall apply with respect to rates for mail sent after September 30, 1993.”
 
-Pub. L. 103–123, title VII, § 705(d), Oct. 28, 1993, 107 Stat. 1272, provided that: “The amendments made by this section [amending this section] shall apply with respect to mail sent, and the rates for mail sent, after December 31, 1993.”
+Pub. L. 103–123, title VII, § 705(d), Oct. 28, 1993, 107 Stat. 1272, provided that: “The amendments made by this section [amending this section] shall apply with respect to mail sent, and the rates for mail sent, after December 31, 1993.”
 
 **Effective Date of 1990 Amendment**
 
@@ -509,13 +509,13 @@ Amendment by section 1(a) of Pub. L. 101–509 effective 90 days after Nov. 5, 1
 
 **Effective Date of 1986 Amendments**
 
-Pub. L. 99–509, title VI, § 6003(c), Oct. 21, 1986, 100 Stat. 1933, provided that: “The amendments made by this section [amending this section and section 2401 of this title] shall take effect on January 1, 1989, or on the effective date of the next general change in rates and fees under sections 3622 and 3625 of title 39, United States Code [Apr. 3, 1988, see 53 F.R. 10014], whichever is sooner.”
+Pub. L. 99–509, title VI, § 6003(c), Oct. 21, 1986, 100 Stat. 1933, provided that: “The amendments made by this section [amending this section and section 2401 of this title] shall take effect on January 1, 1989, or on the effective date of the next general change in rates and fees under sections 3622 and 3625 of title 39, United States Code [Apr. 3, 1988, see 53 F.R. 10014], whichever is sooner.”
 
-Pub. L. 99–272, title XV, § 15102(b)(2), Apr. 7, 1986, 100 Stat. 330, provided that: “The amendment made by this subsection [amending this section] shall apply with respect to rates of postage taking effect after December 31, 1985.”
+Pub. L. 99–272, title XV, § 15102(b)(2), Apr. 7, 1986, 100 Stat. 330, provided that: “The amendment made by this subsection [amending this section] shall apply with respect to rates of postage taking effect after December 31, 1985.”
 
 **Relief of Certain Periodical Publications**
 
-Pub. L. 104–52, title V, § 527, Nov. 19, 1995, 109 Stat. 496, provided that:
+Pub. L. 104–52, title V, § 527, Nov. 19, 1995, 109 Stat. 496, provided that:
 
 > “For mail classification purposes under section 3626 of title 39, United States Code, and any regulations of the United States Postal Service for the administration of that section, a weekly second-class periodical publication which—
 
@@ -529,7 +529,7 @@ Pub. L. 104–52, title V, § 527, Nov. 19, 1995, 109 Stat. 496, provided that
 
 **Forbearance Regarding Certain Postage Deficiencies**
 
-Pub. L. 101–509, title II, § 2, Nov. 5, 1990, 104 Stat. 1398, provided that:
+Pub. L. 101–509, title II, § 2, Nov. 5, 1990, 104 Stat. 1398, provided that:
 
 > **“(a) In General.—** The United States Postal Service may forbear from the collection of any postage deficiency assessed against an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, if the assessment of that deficiency arises from a violation of the cooperative mailing regulations of the Postal Service set forth at section 625.5 of the Domestic Mail Manual, and the Postal Service has made no determination that the organization knowingly or willfully violated such regulations. If any organizations authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, has paid on its own behalf all or part of a postage deficiency which the Postal Service would forbear from collecting under this section, the Postal Service may refund to that organization the amount which it has paid.
 
@@ -537,17 +537,17 @@ Pub. L. 101–509, title II, § 2, Nov. 5, 1990, 104 Stat. 1398, provided that
 
 **Construction Respecting Postage Rates Reduction Unauthorized**
 
-Pub. L. 93–328, § 2, June 30, 1974, 88 Stat. 288, provided that: “Nothing in section 1 of this Act [amending this section] shall be construed to authorize a reduction in any rate of postage in effect and being paid on the date of enactment of this Act [June 30, 1974].”
+Pub. L. 93–328, § 2, June 30, 1974, 88 Stat. 288, provided that: “Nothing in section 1 of this Act [amending this section] shall be construed to authorize a reduction in any rate of postage in effect and being paid on the date of enactment of this Act [June 30, 1974].”
 
-### § 3627. Adjusting free rates
+### § 3627. Adjusting free rates
 
-If Congress fails to appropriate an amount authorized under section 2401(c) of this title for any class of mail sent free of postage under section 3217 or 3403–3406 1
+If Congress fails to appropriate an amount authorized under section 2401(c) of this title for any class of mail sent free of postage under section 3217 or 3403–3406 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of this title,”.
+<sup>1</sup> So in original. Probably should be followed by “of this title,”.
 
 the rate for that class may be adjusted in accordance with the provisions of this subchapter so that the increased revenues received from the users of such class will equal the amount for that class that the Congress was to appropriate.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 95–593, § 11(b), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–410, title II, § 201(b)(3), Aug. 28, 1986, 100 Stat. 928; Pub. L. 103–31, § 8(h)(3), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, § 704(a)(3)(B)(i), Oct. 28, 1993, 107 Stat. 1269; Pub. L. 109–435, title X, § 1010(g)(5), Dec. 20, 2006, 120 Stat. 3263.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 95–593, § 11(b), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–410, title II, § 201(b)(3), Aug. 28, 1986, 100 Stat. 928; Pub. L. 103–31, § 8(h)(3), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, § 704(a)(3)(B)(i), Oct. 28, 1993, 107 Stat. 1269; Pub. L. 109–435, title X, § 1010(g)(5), Dec. 20, 2006, 120 Stat. 3263.)
 
 **Editorial Notes**
 
@@ -575,21 +575,21 @@ Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May
 
 Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 20301 of Title 52, Voting and Elections.
 
-### [§ 3628. Repealed. Pub. L. 109–435, title II, § 201(b), Dec. 20, 2006, 120 Stat. 3205]
+### [§ 3628. Repealed. Pub. L. 109–435, title II, § 201(b), Dec. 20, 2006, 120 Stat. 3205]
 
-Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 98–620, title IV, § 402(37), Nov. 8, 1984, 98 Stat. 3360, related to appellate review of a decision of the Board of Governors to approve, allow under protest, reject, or modify a recommended decision of the Postal Rate Commission.
+Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 98–620, title IV, § 402(37), Nov. 8, 1984, 98 Stat. 3360, related to appellate review of a decision of the Board of Governors to approve, allow under protest, reject, or modify a recommended decision of the Postal Rate Commission.
 
-### § 3629. Reduced rates for voter registration purposes
+### § 3629. Reduced rates for voter registration purposes
 
 The Postal Service shall make available to a State or local voting registration official the rate for any class of mail that is available to a qualified nonprofit organization under section 3626 for the purpose of making a mailing that the official certifies is required or authorized by the National Voter Registration Act of 1993.
 
-(Added Pub. L. 103–31, § 8(h)(1), May 20, 1993, 107 Stat. 86.)
+(Added Pub. L. 103–31, § 8(h)(1), May 20, 1993, 107 Stat. 86.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Voter Registration Act of 1993, referred to in text, is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§ 20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+The National Voter Registration Act of 1993, referred to in text, is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§ 20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -605,7 +605,7 @@ Section effective (1) with respect to a State that, on May 20, 1993, has a provi
 
 A prior subchapter II was redesignated subchapter I of this chapter.
 
-### § 3631. Applicability; definitions and updates
+### § 3631. Applicability; definitions and updates
 
 **(a) Applicability.—** This subchapter shall apply with respect to—
 
@@ -625,9 +625,9 @@ subject to subsection (d) and any changes the Postal Regulatory Commission may m
 
 **(c) Rule of Construction.—** Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
 
-(Added Pub. L. 109–435, title II, § 202, Dec. 20, 2006, 120 Stat. 3205.)
+(Added Pub. L. 109–435, title II, § 202, Dec. 20, 2006, 120 Stat. 3205.)
 
-### § 3632. Action of the Governors
+### § 3632. Action of the Governors
 
 **(a) Authority To Establish Rates and Classes.—** The Governors, with the concurrence of a majority of all of the Governors then holding office, shall establish rates and classes for products in the competitive category of mail in accordance with the requirements of this subchapter and regulations promulgated under section 3633.
 
@@ -643,7 +643,7 @@ subject to subsection (d) and any changes the Postal Regulatory Commission may m
 
 **(c) Transition Rule.—** Until regulations under section 3633 first take effect, rates and classes for competitive products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were as last in effect before the date of enactment of this section.
 
-(Added Pub. L. 109–435, title II, § 202, Dec. 20, 2006, 120 Stat. 3206.)
+(Added Pub. L. 109–435, title II, § 202, Dec. 20, 2006, 120 Stat. 3206.)
 
 **Editorial Notes**
 
@@ -651,7 +651,7 @@ subject to subsection (d) and any changes the Postal Regulatory Commission may m
 
 The date of enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 
-### § 3633. Provisions applicable to rates for competitive products
+### § 3633. Provisions applicable to rates for competitive products
 
 **(a) In General.—** The Postal Regulatory Commission shall, within 18 months after the date of enactment of this section, promulgate (and may from time to time thereafter revise) regulations to—
 
@@ -663,7 +663,7 @@ The date of enactment of this section, referred to in subsec. (c), is the date o
 
 **(b) Review of Minimum Contribution.—** Five years after the date of enactment of this section, and every 5 years thereafter, the Postal Regulatory Commission shall conduct a review to determine whether the institutional costs contribution requirement under subsection (a)(3) should be retained in its current form, modified, or eliminated. In making its determination, the Commission shall consider all relevant circumstances, including the prevailing competitive conditions in the market, and the degree to which any costs are uniquely or disproportionately associated with any competitive products.
 
-(Added Pub. L. 109–435, title II, § 202, Dec. 20, 2006, 120 Stat. 3206.)
+(Added Pub. L. 109–435, title II, § 202, Dec. 20, 2006, 120 Stat. 3206.)
 
 **Editorial Notes**
 
@@ -675,15 +675,15 @@ The date of enactment of this section, referred to in text, is the date of enact
 
 **Review of Postal Service Cost Attribution Guidelines**
 
-Pub. L. 117–108, title II, § 203, Apr. 6, 2022, 136 Stat. 1147, provided that: “Not later than the date that is one year after the date of the enactment of this Act [Apr. 6, 2022], the Postal Regulatory Commission shall initiate a review of the regulations issued pursuant to sections 3633(a) and 3652(a)(1) of title 39, United States Code, to determine whether revisions are appropriate to ensure that all direct and indirect costs attributable to competitive and market-dominant products are properly attributed to those products, including by considering the underlying methodologies in determining cost attribution and considering options to revise such methodologies. If the Commission determines, after notice and opportunity for public comment, that revisions are appropriate, the Commission shall make modifications or adopt alternative methodologies as necessary.”
+Pub. L. 117–108, title II, § 203, Apr. 6, 2022, 136 Stat. 1147, provided that: “Not later than the date that is one year after the date of the enactment of this Act [Apr. 6, 2022], the Postal Regulatory Commission shall initiate a review of the regulations issued pursuant to sections 3633(a) and 3652(a)(1) of title 39, United States Code, to determine whether revisions are appropriate to ensure that all direct and indirect costs attributable to competitive and market-dominant products are properly attributed to those products, including by considering the underlying methodologies in determining cost attribution and considering options to revise such methodologies. If the Commission determines, after notice and opportunity for public comment, that revisions are appropriate, the Commission shall make modifications or adopt alternative methodologies as necessary.”
 
 [For definitions of terms used in section 203 of Pub. L. 117–108, set out above, see section 2 of Pub. L. 117–108, set out as a note under section 501 of this title.]
 
 **Study on Equal Application of Laws to Competitive Products**
 
-Pub. L. 109–435, title VII, § 703, Dec. 20, 2006, 120 Stat. 3244, required the Federal Trade Commission to prepare and submit to the President and Congress, and to the Postal Regulatory Commission, within 1 year after Dec. 20, 2006, a comprehensive report identifying Federal and State laws that applied differently to the United States Postal Service with respect to the competitive category of mail (within the meaning of section 102 of this title) and to private companies providing similar products.
+Pub. L. 109–435, title VII, § 703, Dec. 20, 2006, 120 Stat. 3244, required the Federal Trade Commission to prepare and submit to the President and Congress, and to the Postal Regulatory Commission, within 1 year after Dec. 20, 2006, a comprehensive report identifying Federal and State laws that applied differently to the United States Postal Service with respect to the competitive category of mail (within the meaning of section 102 of this title) and to private companies providing similar products.
 
-### § 3634. Assumed Federal income tax on competitive products income
+### § 3634. Assumed Federal income tax on competitive products income
 
 **(a) Definitions.—** For purposes of this section—
 
@@ -703,7 +703,7 @@ Pub. L. 109–435, title VII, § 703, Dec. 20, 2006, 120 Stat. 3244, required 
 
 **(c) Deadline for Transfers.—** Any transfer required to be made under this section for a year shall be due on or before the January 15th next occurring after the close of such year.
 
-(Added Pub. L. 109–435, title IV, § 402, Dec. 20, 2006, 120 Stat. 3226.)
+(Added Pub. L. 109–435, title IV, § 402, Dec. 20, 2006, 120 Stat. 3226.)
 
 **Editorial Notes**
 
@@ -717,9 +717,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified to 
 
 **Amendments**
 
-2006—Pub. L. 109–435, title II, § 203, Dec. 20, 2006, 120 Stat. 3207, substituted “PROVISIONS RELATING TO EXPERIMENTAL AND NEW PRODUCTS” for “TEMPORARY RATES AND CLASSES” in subchapter heading.
+2006—Pub. L. 109–435, title II, § 203, Dec. 20, 2006, 120 Stat. 3207, substituted “PROVISIONS RELATING TO EXPERIMENTAL AND NEW PRODUCTS” for “TEMPORARY RATES AND CLASSES” in subchapter heading.
 
-### § 3641. Market tests of experimental products
+### § 3641. Market tests of experimental products
 
 **(a) Authority.—**
 
@@ -733,9 +733,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified to 
 
 **(2) Market disruption.—** The introduction or continued offering of the product will not create an unfair or otherwise inappropriate competitive advantage for the Postal Service or any mailer, particularly in regard to small business concerns (as defined under subsection (h)).
 
-**(3) Correct categorization.—** The Postal Service identifies the product, for the purpose of a test under this section, as either market-dominant or competitive, consistent with the criteria under section 3642(b)(1). Costs and revenues attributable to a product identified as competitive shall be included in any determination under section 3633(3) 1
+**(3) Correct categorization.—** The Postal Service identifies the product, for the purpose of a test under this section, as either market-dominant or competitive, consistent with the criteria under section 3642(b)(1). Costs and revenues attributable to a product identified as competitive shall be included in any determination under section 3633(3) 1
 
-<sup>1</sup>  So in original. Probably should be section “3633(a)(3)”.
+<sup>1</sup> So in original. Probably should be section “3633(a)(3)”.
 
 (relating to provisions applicable to competitive products collectively). Any test that solely affects products currently classified as competitive, or which provides services ancillary to only competitive products, shall be presumed to be in the competitive product category without regard to whether a similar ancillary product exists for market-dominant products.
 
@@ -775,7 +775,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified to 
 
 **(i) Effective Date.—** Market tests under this subchapter may be conducted in any year beginning with the first year in which occurs the deadline for the Postal Service’s first report to the Postal Regulatory Commission under section 3652(a).
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 94–421, § 6(a), Sept. 24, 1976, 90 Stat. 1306; Pub. L. 109–435, title II, § 203, Dec. 20, 2006, 120 Stat. 3207.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 94–421, § 6(a), Sept. 24, 1976, 90 Stat. 1306; Pub. L. 109–435, title II, § 203, Dec. 20, 2006, 120 Stat. 3207.)
 
 **Editorial Notes**
 
@@ -807,13 +807,13 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 
 **Rate Change Request Made on September 18, 1975, or Under Docket Number R76–1**
 
-Pub. L. 94–421, § 6(b)(1), Sept. 24, 1976, 90 Stat. 1307, provided that: “The amendment made by subsection (a) of this section [amending this section] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission [now Postal Regulatory Commission] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1.”
+Pub. L. 94–421, § 6(b)(1), Sept. 24, 1976, 90 Stat. 1307, provided that: “The amendment made by subsection (a) of this section [amending this section] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission [now Postal Regulatory Commission] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1.”
 
 **Applicability of Former Provisions of Section to Rate Change Request Made on September 18, 1975, Under Docket Number R76–1**
 
-Pub. L. 94–421, § 6(b)(2), Sept. 24, 1976, 90 Stat. 1307, provided that: “The provisions of section 3641 of title 39, United States Code, as such provisions were in effect on the day before the date of the enactment of this Act [Sept. 24, 1976], shall apply to any temporary rate or fee established by the Postal Service pursuant to its request to the Postal Rate Commission [now Postal Regulatory Commission], dated September 18, 1975, for a recommended decision, bearing Docket Number R76–1.”
+Pub. L. 94–421, § 6(b)(2), Sept. 24, 1976, 90 Stat. 1307, provided that: “The provisions of section 3641 of title 39, United States Code, as such provisions were in effect on the day before the date of the enactment of this Act [Sept. 24, 1976], shall apply to any temporary rate or fee established by the Postal Service pursuant to its request to the Postal Rate Commission [now Postal Regulatory Commission], dated September 18, 1975, for a recommended decision, bearing Docket Number R76–1.”
 
-### § 3642. New products and transfers of products between the market-dominant and competitive categories of mail
+### § 3642. New products and transfers of products between the market-dominant and competitive categories of mail
 
 **(a) In General.—** Upon request of the Postal Service or users of the mails, or upon its own initiative, the Postal Regulatory Commission may change the list of market-dominant products under section 3621 and the list of competitive products under section 3631 by adding new products to the lists, removing products from the lists, or transferring products between the lists.
 
@@ -845,7 +845,7 @@ Pub. L. 94–421, § 6(b)(2), Sept. 24, 1976, 90 Stat. 1307, provided that: �
 
 **(2)** by or under any other provision of law.
 
-(Added Pub. L. 103–123, title VII, § 704(a)(2), Oct. 28, 1993, 107 Stat. 1268; amended Pub. L. 109–435, title II, § 203, Dec. 20, 2006, 120 Stat. 3209.)
+(Added Pub. L. 103–123, title VII, § 704(a)(2), Oct. 28, 1993, 107 Stat. 1268; amended Pub. L. 109–435, title II, § 203, Dec. 20, 2006, 120 Stat. 3209.)
 
 **Editorial Notes**
 
@@ -867,7 +867,7 @@ Section applicable with respect to rates for mail sent after Sept. 30, 1993, see
 
 A prior subchapter IV was redesignated subchapter V of this chapter.
 
-### § 3651. Annual reports by the Commission
+### § 3651. Annual reports by the Commission
 
 **(a) In General.—** The Postal Regulatory Commission shall submit an annual report to the President and the Congress concerning the operations of the Commission under this title, including the extent to which regulations are achieving the objectives under sections 3622 and 3633, respectively.
 
@@ -885,9 +885,9 @@ A prior subchapter IV was redesignated subchapter V of this chapter.
 
 **(c) Information From Postal Service.—** The Postal Service shall provide the Postal Regulatory Commission with such information as may, in the judgment of the Commission, be necessary in order for the Commission to prepare its reports under this section.
 
-(Added Pub. L. 109–435, title II, § 204(b), Dec. 20, 2006, 120 Stat. 3211.)
+(Added Pub. L. 109–435, title II, § 204(b), Dec. 20, 2006, 120 Stat. 3211.)
 
-### § 3652. Annual reports to the Commission
+### § 3652. Annual reports to the Commission
 
 **(a) Costs, Revenues, Rates, and Service.—** Except as provided in subsection (c), the Postal Service shall, no later than 90 days after the end of each year, prepare and submit to the Postal Regulatory Commission a report (together with such nonpublic annex to the report as the Commission may require under subsection (e))—
 
@@ -953,9 +953,9 @@ The Inspector General shall regularly audit the data collection systems and proc
 
 **(3)** program performance reports under section 2804.
 
-(Added Pub. L. 109–435, title II, § 204(b), Dec. 20, 2006, 120 Stat. 3211.)
+(Added Pub. L. 109–435, title II, § 204(b), Dec. 20, 2006, 120 Stat. 3211.)
 
-### § 3653. Annual determination of compliance
+### § 3653. Annual determination of compliance
 
 **(a) Opportunity for Public Comment.—** After receiving the reports required under section 3652 for any year, the Postal Regulatory Commission shall promptly provide an opportunity for comment on such reports by users of the mails, affected parties, and an officer of the Commission who shall be required to represent the interests of the general public.
 
@@ -973,9 +973,9 @@ If, with respect to a year, no instance of noncompliance is found under this sub
 
 **(e) Rebuttable Presumption.—** A timely written determination described in the last sentence of subsection (b) shall, for purposes of any proceeding under section 3662, create a rebuttable presumption of compliance by the Postal Service (with regard to the matters described under paragraphs (1) and (2) of subsection (b)) during the year to which such determination relates.
 
-(Added Pub. L. 109–435, title II, § 204(b), Dec. 20, 2006, 120 Stat. 3213.)
+(Added Pub. L. 109–435, title II, § 204(b), Dec. 20, 2006, 120 Stat. 3213.)
 
-### § 3654. Additional financial reporting
+### § 3654. Additional financial reporting
 
 **(a) Additional Financial Reporting.—**
 
@@ -991,9 +991,9 @@ If, with respect to a year, no instance of noncompliance is found under this sub
 
 **(3) Internal control report.—** For purposes of defining the reports required by paragraph (1)(B), the Postal Service shall comply with the rules prescribed by the Securities and Exchange Commission implementing section 404 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262), beginning with the annual report for fiscal year 2010.
 
-**(b) Financial reporting.—**  1
+**(b) Financial reporting.—** 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 **(1)** The reports required by subsection (a)(1)(B) shall include, with respect to the Postal Service’s pension and post-retirement health obligations—
 
@@ -1037,7 +1037,7 @@ If, with respect to a year, no instance of noncompliance is found under this sub
 
 **(2) Treatment.—** Any information or other matter described in paragraph (1) to which the Commission gains access under this section shall be subject to paragraphs (2) and (3) of section 504(g) in the same way as if the Commission had received notification with respect to such matter under section 504(g)(1).
 
-(Added Pub. L. 109–435, title II, § 204(b), Dec. 20, 2006, 120 Stat. 3214.)
+(Added Pub. L. 109–435, title II, § 204(b), Dec. 20, 2006, 120 Stat. 3214.)
 
 **Editorial Notes**
 
@@ -1055,9 +1055,9 @@ A prior subchapter V was redesignated subchapter VI of this chapter.
 
 **Amendments**
 
-2006—Pub. L. 109–435, title II, § 204(a)(1), Dec. 20, 2006, 120 Stat. 3210, redesignated subchapter IV of this chapter as this subchapter and substituted “POSTAL SERVICES, COMPLAINTS, AND JUDICIAL REVIEW” for “POSTAL SERVICES AND COMPLAINTS” in subchapter heading.
+2006—Pub. L. 109–435, title II, § 204(a)(1), Dec. 20, 2006, 120 Stat. 3210, redesignated subchapter IV of this chapter as this subchapter and substituted “POSTAL SERVICES, COMPLAINTS, AND JUDICIAL REVIEW” for “POSTAL SERVICES AND COMPLAINTS” in subchapter heading.
 
-### § 3661. Postal services
+### § 3661. Postal services
 
 **(a)** The Postal Service shall develop and promote adequate and efficient postal services.
 
@@ -1065,7 +1065,7 @@ A prior subchapter V was redesignated subchapter VI of this chapter.
 
 **(c)** The Commission shall not issue its opinion on any proposal until an opportunity for hearing on the record under sections 556 and 557 of title 5 has been accorded to the Postal Service, users of the mail, and an officer of the Commission who shall be required to represent the interests of the general public. The opinion shall be in writing and shall include a certification by each Commissioner agreeing with the opinion that in his judgment the opinion conforms to the policies established under this title.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 764; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 764; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 **Editorial Notes**
 
@@ -1081,9 +1081,9 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Commission on Postal Service**
 
-Pub. L. 94–421, § 7, Sept. 24, 1976, 90 Stat. 1307, related to establishment, appointment and compensation of personnel and officers of a Commission on Postal Service and its duty to determine public service aspects of Postal Service and extent to which public service aspects of Postal Service are to be supported by appropriations, to study rate making, and to review service levels and electronic fund transfers and communication techniques, with appropriate recommendations to be transmitted to President and Congress on or before Mar. 15, 1977, 60 days after which transmittal it was to cease to exist.
+Pub. L. 94–421, § 7, Sept. 24, 1976, 90 Stat. 1307, related to establishment, appointment and compensation of personnel and officers of a Commission on Postal Service and its duty to determine public service aspects of Postal Service and extent to which public service aspects of Postal Service are to be supported by appropriations, to study rate making, and to review service levels and electronic fund transfers and communication techniques, with appropriate recommendations to be transmitted to President and Congress on or before Mar. 15, 1977, 60 days after which transmittal it was to cease to exist.
 
-### § 3662. Rate and service complaints
+### § 3662. Rate and service complaints
 
 **(a) In General.—** Any interested person (including an officer of the Postal Regulatory Commission representing the interests of the general public) who believes the Postal Service is not operating in conformance with the requirements of the provisions of sections 101(d), 401(2), 403(c), 404a, or 601, or this chapter (or regulations promulgated under any of those provisions) may lodge a complaint with the Postal Regulatory Commission in such form and manner as the Commission may prescribe.
 
@@ -1105,31 +1105,31 @@ Pub. L. 94–421, § 7, Sept. 24, 1976, 90 Stat. 1307, related to establishmen
 
 **(d) Authority To Order Fines in Cases of Deliberate Noncompliance.—** In addition, in cases of deliberate noncompliance by the Postal Service with the requirements of this title, the Postal Regulatory Commission may order, based on the nature, circumstances, extent, and seriousness of the noncompliance, a fine (in the amount specified by the Commission in its order) for each incidence of noncompliance. Fines resulting from the provision of competitive products shall be paid from the Competitive Products Fund established in section 2011. All receipts from fines imposed under this subsection shall be deposited in the general fund of the Treasury of the United States.
 
-(Added Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3216.)
+(Added Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3216.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3662, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 764, related to rate and service complaints, prior to repeal by Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3216.
+A prior section 3662, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 764, related to rate and service complaints, prior to repeal by Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3216.
 
-### § 3663. Appellate review
+### § 3663. Appellate review
 
 A person, including the Postal Service, adversely affected or aggrieved by a final order or decision of the Postal Regulatory Commission may, within 30 days after such order or decision becomes final, institute proceedings for review thereof by filing a petition in the United States Court of Appeals for the District of Columbia. The court shall review the order or decision in accordance with section 706 of title 5, and chapter 158 and section 2112 of title 28, on the basis of the record before the Commission.
 
-(Added Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3217.)
+(Added Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3217.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3663, added Pub. L. 105–277, div. A, § 101(h) [title VI, § 648(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–527, related to annual report on international services, prior to repeal by Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3216.
+A prior section 3663, added Pub. L. 105–277, div. A, § 101(h) [title VI, § 648(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–527, related to annual report on international services, prior to repeal by Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3216.
 
-### § 3664. Enforcement of orders
+### § 3664. Enforcement of orders
 
 The several district courts have jurisdiction specifically to enforce, and to enjoin and restrain the Postal Service from violating, any order issued by the Postal Regulatory Commission.
 
-(Added Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3217.)
+(Added Pub. L. 109–435, title II, § 205, Dec. 20, 2006, 120 Stat. 3217.)
 
 ## SUBCHAPTER VI—GENERAL
 
@@ -1137,13 +1137,13 @@ The several district courts have jurisdiction specifically to enforce, and to en
 
 **Amendments**
 
-2006—Pub. L. 109–435, title II, § 204(a)(2), Dec. 20, 2006, 120 Stat. 3210, redesignated subchapter V of this chapter as this subchapter.
+2006—Pub. L. 109–435, title II, § 204(a)(2), Dec. 20, 2006, 120 Stat. 3210, redesignated subchapter V of this chapter as this subchapter.
 
-### § 3681. Reimbursement
+### § 3681. Reimbursement
 
 No mailer may be reimbursed for any amount paid under any rate or fee which, after such payment, is determined to have been unlawful after proceedings in accordance with the provisions of sections 3662 through 3664 of this title, or is superseded by a lower rate or fee established under subchapter II of this chapter.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 764; Pub. L. 109–435, title X, § 1010(a), Dec. 20, 2006, 120 Stat. 3261.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 764; Pub. L. 109–435, title X, § 1010(a), Dec. 20, 2006, 120 Stat. 3261.)
 
 **Editorial Notes**
 
@@ -1157,11 +1157,11 @@ No mailer may be reimbursed for any amount paid under any rate or fee which, aft
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-### § 3682. Size and weight limits
+### § 3682. Size and weight limits
 
 The Postal Service may establish size and weight limitations for mail matter in the market-dominant category of mail consistent with regulations the Postal Regulatory Commission may prescribe under section 3622. The Postal Service may establish size and weight limitations for mail matter in the competitive category of mail consistent with its authority under section 3632.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 96–70, title I, § 1331(e)(4), Sept. 27, 1979, 93 Stat. 482; Pub. L. 97–242, § 1(a), Aug. 24, 1982, 96 Stat. 300; Pub. L. 109–435, title X, § 1010(b), Dec. 20, 2006, 120 Stat. 3261.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 96–70, title I, § 1331(e)(4), Sept. 27, 1979, 93 Stat. 482; Pub. L. 97–242, § 1(a), Aug. 24, 1982, 96 Stat. 300; Pub. L. 109–435, title X, § 1010(b), Dec. 20, 2006, 120 Stat. 3261.)
 
 **Editorial Notes**
 
@@ -1177,7 +1177,7 @@ The Postal Service may establish size and weight limitations for mail matter in 
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–242, § 1(b), Aug. 24, 1982, 96 Stat. 300, provided that: “The size and weight limitations for other than letter mail established by subsections (a) and (b) of section 3682 of title 39, United States Code, as in effect on the day prior to the effective date of this section [Aug. 24, 1982], shall remain in effect until changed pursuant to section 3682 of such title, as amended, by subsection (a) of this section.”
+Pub. L. 97–242, § 1(b), Aug. 24, 1982, 96 Stat. 300, provided that: “The size and weight limitations for other than letter mail established by subsections (a) and (b) of section 3682 of title 39, United States Code, as in effect on the day prior to the effective date of this section [Aug. 24, 1982], shall remain in effect until changed pursuant to section 3682 of such title, as amended, by subsection (a) of this section.”
 
 **Effective Date of 1979 Amendment**
 
@@ -1187,7 +1187,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-### § 3683. Uniform rates for books; films; other materials
+### § 3683. Uniform rates for books; films; other materials
 
 **(a)** Notwithstanding any other provision of this title, the rates of postage established for mail matter enumerated in former section 4554 of this title shall be uniform for such mail of the same weight, and shall not vary with the distance transported.
 
@@ -1205,7 +1205,7 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 
 **(D)** an institution, organization, or association referred to in subparagraph (A) and a publisher, if such institution, organization, or association has placed an order to purchase such materials for delivery to such institution, organization, or association.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 94–421, § 12, Sept. 24, 1976, 90 Stat. 1312; Pub. L. 103–123, title VII, § 706(a), Oct. 28, 1993, 107 Stat. 1272.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 94–421, § 12, Sept. 24, 1976, 90 Stat. 1312; Pub. L. 103–123, title VII, § 706(a), Oct. 28, 1993, 107 Stat. 1272.)
 
 **Editorial Notes**
 
@@ -1223,17 +1223,17 @@ Former sections 4452 and 4554 of this title, referred to in text, mean sections 
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–123, title VII, § 706(b), Oct. 28, 1993, 107 Stat. 1272, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to mail sent after September 30, 1993.”
+Pub. L. 103–123, title VII, § 706(b), Oct. 28, 1993, 107 Stat. 1272, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to mail sent after September 30, 1993.”
 
 **Effective Date**
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-### § 3684. Limitations
+### § 3684. Limitations
 
 Except as provided in section 3627 of this title, no provision of this chapter shall be construed to give authority to the Governors to make any change in any provision of this title.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 99–410, title II, § 201(b)(4), Aug. 28, 1986, 100 Stat. 929; Pub. L. 109–435, title X, § 1010(f), Dec. 20, 2006, 120 Stat. 3262.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 99–410, title II, § 201(b)(4), Aug. 28, 1986, 100 Stat. 929; Pub. L. 109–435, title X, § 1010(f), Dec. 20, 2006, 120 Stat. 3262.)
 
 **Editorial Notes**
 
@@ -1241,7 +1241,7 @@ Except as provided in section 3627 of this title, no provision of this chapter s
 
 2006—Pub. L. 109–435 substituted “of this title” for “of section 3682 or 3683 or chapter 30, 32, or 34 of this title”.
 
-1986—Pub. L. 99–410 struck out “, or of the Federal Voting Assistance Act of 1955” after “or 34 of this title”.
+1986—Pub. L. 99–410 struck out “, or of the Federal Voting Assistance Act of 1955” after “or 34 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1253,7 +1253,7 @@ Amendment by Pub. L. 99–410 applicable with respect to elections taking place 
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-### § 3685. Filing of information relating to periodical publications
+### § 3685. Filing of information relating to periodical publications
 
 **(a)** Each owner of a publication having periodical publication mail privileges shall furnish to the Postal Service at least once a year, and shall publish in such publication once a year, information in such form and detail and at such time as the Postal Service may require with respect to—
 
@@ -1281,7 +1281,7 @@ The Postal Service shall not require the names of persons owning less than 1 per
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-### § 3686. Bonus authority
+### § 3686. Bonus authority
 
 **(a) In General.—** The Postal Service may establish 1 or more programs to provide bonuses or other rewards to officers and employees of the Postal Service in senior executive or equivalent positions to achieve the objectives of this chapter.
 
@@ -1309,11 +1309,11 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 
 **(e) Regulations.—** The Board of Governors may prescribe regulations for the administration of this section.
 
-(Added Pub. L. 109–435, title V, § 506, Dec. 20, 2006, 120 Stat. 3236.)
+(Added Pub. L. 109–435, title V, § 506, Dec. 20, 2006, 120 Stat. 3236.)
 
 ## SUBCHAPTER VII—MODERN SERVICE STANDARDS
 
-### § 3691. Establishment of modern service standards
+### § 3691. Establishment of modern service standards
 
 **(a) Authority Generally.—** Not later than 12 months after the date of enactment of this section, the Postal Service shall, in consultation with the Postal Regulatory Commission, by regulation establish (and may from time to time thereafter by regulation revise) a set of service standards for market-dominant products.
 
@@ -1351,7 +1351,7 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 
 **(d) Review.—** The regulations promulgated pursuant to this section (and any revisions thereto), and any violations thereof, shall be subject to review upon complaint under sections 3662 and 3663.
 
-(Added Pub. L. 109–435, title III, § 301, Dec. 20, 2006, 120 Stat. 3218.)
+(Added Pub. L. 109–435, title III, § 301, Dec. 20, 2006, 120 Stat. 3218.)
 
 **Editorial Notes**
 
@@ -1363,7 +1363,7 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 **Postal Service Plan**
 
-Pub. L. 109–435, title III, § 302, Dec. 20, 2006, 120 Stat. 3219, provided that:
+Pub. L. 109–435, title III, § 302, Dec. 20, 2006, 120 Stat. 3219, provided that:
 
 > **“(a) In General.—** Within 6 months after the establishment of the service standards under section 3691 of title 39, United States Code, as added by this Act, the Postal Service shall, in consultation with the Postal Regulatory Commission, develop and submit to Congress a plan for meeting those standards.
 
@@ -1461,7 +1461,7 @@ Pub. L. 109–435, title III, § 302, Dec. 20, 2006, 120 Stat. 3219, provided 
 
 > **“(f) Continued Authority.—** Nothing in this section shall be construed to prohibit the Postal Service from implementing any change to its processing, transportation, delivery, and retail networks under any authority granted to the Postal Service for those purposes.”
 
-### § 3692. Performance targets and transparency
+### § 3692. Performance targets and transparency
 
 **(a) Performance Targets.—** Each year, to ensure that mail service for postal customers meets the service standards for market-dominant products, established under section 3691, the Postal Service shall—
 
@@ -1539,4 +1539,4 @@ Pub. L. 109–435, title III, § 302, Dec. 20, 2006, 120 Stat. 3219, provided 
 
 **(B) Website.—** The term “Website” means the website described in paragraph (1).
 
-(Added Pub. L. 117–108, title II, § 201(a), Apr. 6, 2022, 136 Stat. 1144.)
+(Added Pub. L. 117–108, title II, § 201(a), Apr. 6, 2022, 136 Stat. 1144.)

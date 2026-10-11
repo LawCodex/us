@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 100—CYBER SECURITY RESEARCH AND DEVELOPMENT
 
-## § 7401. Findings
+## § 7401. Findings
 
 The Congress finds the following:
 
@@ -43,15 +43,15 @@ The Congress finds the following:
 
 **(6)** While African-Americans, Hispanics, and Native Americans constitute 25 percent of the total United States workforce and 30 percent of the college-age population, members of these minorities comprise less than 7 percent of the United States computer and information science workforce.
 
-(Pub. L. 107–305, § 2, Nov. 27, 2002, 116 Stat. 2367.)
+(Pub. L. 107–305, § 2, Nov. 27, 2002, 116 Stat. 2367.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 107–305, § 1, Nov. 27, 2002, 116 Stat. 2367, provided that: “This Act [enacting this chapter and section 278h of this title, amending sections 278g–3, 1511e, and 7301 of this title and section 1862 of Title 42, The Public Health and Welfare, and redesignating section 278h of this title as 278q of this title] may be cited as the ‘Cyber Security Research and Development Act’.”
+Pub. L. 107–305, § 1, Nov. 27, 2002, 116 Stat. 2367, provided that: “This Act [enacting this chapter and section 278h of this title, amending sections 278g–3, 1511e, and 7301 of this title and section 1862 of Title 42, The Public Health and Welfare, and redesignating section 278h of this title as 278q of this title] may be cited as the ‘Cyber Security Research and Development Act’.”
 
-## § 7402. Definitions
+## § 7402. Definitions
 
 In this chapter:
 
@@ -63,7 +63,7 @@ The term “Director” means the Director of the National Science Foundation.
 
 The term “institution of higher education” has the meaning given that term in section 1001(a) of title 20.
 
-(Pub. L. 107–305, § 3, Nov. 27, 2002, 116 Stat. 2368.)
+(Pub. L. 107–305, § 3, Nov. 27, 2002, 116 Stat. 2368.)
 
 **Editorial Notes**
 
@@ -71,7 +71,7 @@ The term “institution of higher education” has the meaning given that term i
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-## § 7403. National Science Foundation research
+## § 7403. National Science Foundation research
 
 **(a) Computer and network security research grants**
 
@@ -209,25 +209,25 @@ The Director shall convene an annual meeting of the Centers in order to foster c
 
 **(E)** $36,000,000 for fiscal year 2007.
 
-(Pub. L. 107–305, § 4, Nov. 27, 2002, 116 Stat. 2368; Pub. L. 113–274, title II, §§ 201(e), 202, Dec. 18, 2014, 128 Stat. 2978; Pub. L. 114–329, title I, §§ 104(a), 105(r), Jan. 6, 2017, 130 Stat. 2975, 2984.)
+(Pub. L. 107–305, § 4, Nov. 27, 2002, 116 Stat. 2368; Pub. L. 113–274, title II, §§ 201(e), 202, Dec. 18, 2014, 128 Stat. 2978; Pub. L. 114–329, title I, §§ 104(a), 105(r), Jan. 6, 2017, 130 Stat. 2975, 2984.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a)(1)(Q), (R). Pub. L. 114–329, § 104(a), added subpars. (Q) and (R).
+2017—Subsec. (a)(1)(Q), (R). Pub. L. 114–329, § 104(a), added subpars. (Q) and (R).
 
-Subsec. (b)(5)(K). Pub. L. 114–329, § 105(r), substituted “networking and information technology” for “high-performance computing”.
+Subsec. (b)(5)(K). Pub. L. 114–329, § 105(r), substituted “networking and information technology” for “high-performance computing”.
 
-2014—Subsec. (a)(1)(J) to (P). Pub. L. 113–274, § 201(e), added subpars. (J) to (P).
+2014—Subsec. (a)(1)(J) to (P). Pub. L. 113–274, § 201(e), added subpars. (J) to (P).
 
-Subsec. (b)(3). Pub. L. 113–274, § 202(1), substituted “improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas” for “the research areas”.
+Subsec. (b)(3). Pub. L. 113–274, § 202(1), substituted “improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas” for “the research areas”.
 
-Subsec. (b)(4)(D). Pub. L. 113–274, § 202(2), substituted “the Center” for “the center”.
+Subsec. (b)(4)(D). Pub. L. 113–274, § 202(2), substituted “the Center” for “the center”.
 
-Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K).
+Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K).
 
-## § 7404. National Science Foundation computer and network security programs
+## § 7404. National Science Foundation computer and network security programs
 
 **(a) Computer and network security capacity building grants**
 
@@ -425,7 +425,7 @@ In making selections for graduate traineeships under this paragraph, an institut
 
 There are authorized to be appropriated to the National Science Foundation to carry out this paragraph $5,000,000 for each of fiscal years 2003 through 2007.
 
-(Pub. L. 107–305, § 5, Nov. 27, 2002, 116 Stat. 2370; Pub. L. 116–115, § 3(f), (g), Feb. 11, 2020, 134 Stat. 107.)
+(Pub. L. 107–305, § 5, Nov. 27, 2002, 116 Stat. 2370; Pub. L. 116–115, § 3(f), (g), Feb. 11, 2020, 134 Stat. 107.)
 
 **Editorial Notes**
 
@@ -435,19 +435,19 @@ The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–115, § 3(f)(1), inserted “and students who are veterans” after “these fields”.
+2020—Subsec. (a)(1). Pub. L. 116–115, § 3(f)(1), inserted “and students who are veterans” after “these fields”.
 
-Subsec. (a)(3)(J), (K). Pub. L. 116–115, § 3(f)(2), added subpar. (J) and redesignated former subpar. (J) as (K).
+Subsec. (a)(3)(J), (K). Pub. L. 116–115, § 3(f)(2), added subpar. (J) and redesignated former subpar. (J) as (K).
 
-Subsec. (c)(6)(C). Pub. L. 116–115, § 3(g), inserted “or veterans” after “disciplines”.
+Subsec. (c)(6)(C). Pub. L. 116–115, § 3(g), inserted “or veterans” after “disciplines”.
 
-## § 7405. Consultation
+## § 7405. Consultation
 
 In carrying out sections 7403 and 7404 of this title, the Director shall consult with other Federal agencies.
 
-(Pub. L. 107–305, § 6, Nov. 27, 2002, 116 Stat. 2374.)
+(Pub. L. 107–305, § 6, Nov. 27, 2002, 116 Stat. 2374.)
 
-## § 7406. National Institute of Standards and Technology programs
+## § 7406. National Institute of Standards and Technology programs
 
 **(a) , (b) Omitted**
 
@@ -499,7 +499,7 @@ The Director of the National Institute of Standards and Technology shall ensure 
 
 Paragraph (1) does not apply to any computer hardware or software system for which the National Institute of Standards and Technology does not have responsibility under section 278g–3(a)(3) of this title.
 
-(Pub. L. 107–305, § 8, Nov. 27, 2002, 116 Stat. 2375; Pub. L. 113–274, title II, § 203, Dec. 18, 2014, 128 Stat. 2979; Pub. L. 113–283, § 2(e)(2), Dec. 18, 2014, 128 Stat. 3086.)
+(Pub. L. 107–305, § 8, Nov. 27, 2002, 116 Stat. 2375; Pub. L. 113–274, title II, § 203, Dec. 18, 2014, 128 Stat. 2979; Pub. L. 113–283, § 2(e)(2), Dec. 18, 2014, 128 Stat. 3086.)
 
 **Editorial Notes**
 
@@ -513,7 +513,7 @@ Section is comprised of section 8 of Pub. L. 107–305. Subsec. (a) of section 8
 
 Subsec. (d)(1). Pub. L. 113–283, which directed amendment of section 8 of the Cybersecurity Research and Development Act by substituting “section 3554” for “section 3534” in subsec. (d)(1), was executed to this section, which is section 8 of the Cyber Security Research and Development Act, to reflect the probable intent of Congress.
 
-## § 7407. Authorization of appropriations
+## § 7407. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology—
 
@@ -529,9 +529,9 @@ There are authorized to be appropriated to the Secretary of Commerce for the Nat
 
 **(E)** $85,000,000 for fiscal year 2007; and
 
-**(2)** for activities under section 278g–3(f) 1
+**(2)** for activities under section 278g–3(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title—
 
@@ -545,15 +545,15 @@ of this title—
 
 **(E)** $6,800,000 for fiscal year 2007.
 
-(Pub. L. 107–305, § 11, Nov. 27, 2002, 116 Stat. 2379.)
+(Pub. L. 107–305, § 11, Nov. 27, 2002, 116 Stat. 2379.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 278g–3 of this title, referred to in par. (2), was amended by Pub. L. 107–347, title III, § 303, Dec. 17, 2002, 116 Stat. 2957, and, as so amended, did not contain a subsec. (f). A later amendment by Pub. L. 113–274, title II, § 204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of section 278g–3 of this title, relating to definitions, as (f).
+Section 278g–3 of this title, referred to in par. (2), was amended by Pub. L. 107–347, title III, § 303, Dec. 17, 2002, 116 Stat. 2957, and, as so amended, did not contain a subsec. (f). A later amendment by Pub. L. 113–274, title II, § 204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of section 278g–3 of this title, relating to definitions, as (f).
 
-## § 7408. National Academy of Sciences study on computer and network security in critical infrastructures
+## § 7408. National Academy of Sciences study on computer and network security in critical infrastructures
 
 **(a) Study** Not later than 3 months after November 27, 2002, the Director of the National Institute of Standards and Technology shall enter into an arrangement with the National Research Council of the National Academy of Sciences to conduct a study of the vulnerabilities of the Nation’s network infrastructure and make recommendations for appropriate improvements. The National Research Council shall—
 
@@ -575,7 +575,7 @@ The Director of the National Institute of Standards and Technology shall ensure 
 
 There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology for the purposes of carrying out this section, $700,000.
 
-(Pub. L. 107–305, § 12, Nov. 27, 2002, 116 Stat. 2380.)
+(Pub. L. 107–305, § 12, Nov. 27, 2002, 116 Stat. 2380.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -583,11 +583,11 @@ There are authorized to be appropriated to the Secretary of Commerce for the Nat
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 7409. Coordination of Federal cyber security research and development
+## § 7409. Coordination of Federal cyber security research and development
 
 The Director of the National Science Foundation and the Director of the National Institute of Standards and Technology shall coordinate the research programs authorized by this chapter or pursuant to amendments made by this chapter. The Director of the Office of Science and Technology Policy shall work with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology to ensure that programs authorized by this chapter or pursuant to amendments made by this chapter are taken into account in any government-wide cyber security research effort.
 
-(Pub. L. 107–305, § 13, Nov. 27, 2002, 116 Stat. 2380.)
+(Pub. L. 107–305, § 13, Nov. 27, 2002, 116 Stat. 2380.)
 
 **Editorial Notes**
 
@@ -595,7 +595,7 @@ The Director of the National Science Foundation and the Director of the National
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title.
 
-## § 7410. Grant eligibility requirements and compliance with immigration laws
+## § 7410. Grant eligibility requirements and compliance with immigration laws
 
 **(a) Immigration status**
 
@@ -611,7 +611,7 @@ No grant or fellowship may be awarded under this chapter, directly or indirectly
 
 **(2)** been suspended or terminated pursuant to section 1762(c) of title 8.
 
-(Pub. L. 107–305, § 16, Nov. 27, 2002, 116 Stat. 2381.)
+(Pub. L. 107–305, § 16, Nov. 27, 2002, 116 Stat. 2381.)
 
 **Editorial Notes**
 
@@ -619,11 +619,11 @@ No grant or fellowship may be awarded under this chapter, directly or indirectly
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-## § 7411. Report on grant and fellowship programs
+## § 7411. Report on grant and fellowship programs
 
 Within 24 months after November 27, 2002, the Director, in consultation with the Assistant to the President for National Security Affairs, shall submit to Congress a report reviewing this chapter to ensure that the programs and fellowships are being awarded under this chapter to individuals and institutions of higher education who are in compliance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) in order to protect our national security.
 
-(Pub. L. 107–305, § 17, Nov. 27, 2002, 116 Stat. 2381.)
+(Pub. L. 107–305, § 17, Nov. 27, 2002, 116 Stat. 2381.)
 
 **Editorial Notes**
 
@@ -631,4 +631,4 @@ Within 24 months after November 27, 2002, the Director, in consultation with the
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.

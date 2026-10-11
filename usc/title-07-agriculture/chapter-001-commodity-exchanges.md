@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 1—COMMODITY EXCHANGES
 
-## § 1. Short title
+## § 1. Short title
 
 This chapter may be cited as the “Commodity Exchange Act.”
 
-(Sept. 21, 1922, ch. 369, § 1, 42 Stat. 998; June 15, 1936, ch. 545, § 1, 49 Stat. 1491.)
+(Sept. 21, 1922, ch. 369, § 1, 42 Stat. 998; June 15, 1936, ch. 545, § 1, 49 Stat. 1491.)
 
 **Editorial Notes**
 
@@ -35,59 +35,59 @@ This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as “The
 
 **Effective Date of 1936 Amendment**
 
-Act June 15, 1936, ch. 545, § 13, 49 Stat. 1501, provided that: “All provisions of this Act [see Tables for classification] authorizing the registration of futures commission merchants and floor brokers, the fixing of fees and charges therefor, the promulgation of rules, regulations and orders, and the holding of hearings precedent to the promulgation of rules, regulations, and orders shall be effective immediately. All other provisions of this Act shall take effect ninety days after the enactment of this Act [June 15, 1936].”
+Act June 15, 1936, ch. 545, § 13, 49 Stat. 1501, provided that: “All provisions of this Act [see Tables for classification] authorizing the registration of futures commission merchants and floor brokers, the fixing of fees and charges therefor, the promulgation of rules, regulations and orders, and the holding of hearings precedent to the promulgation of rules, regulations, and orders shall be effective immediately. All other provisions of this Act shall take effect ninety days after the enactment of this Act [June 15, 1936].”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–1, title III, § 301, Jan. 12, 2015, 129 Stat. 28, provided that: “This title [amending section 6s of this title and section 78*o*–10 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 6s of this title] may be cited as the ‘Business Risk Mitigation and Price Stabilization Act of 2015’.”
+Pub. L. 114–1, title III, § 301, Jan. 12, 2015, 129 Stat. 28, provided that: “This title [amending section 6s of this title and section 78*o*–10 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 6s of this title] may be cited as the ‘Business Risk Mitigation and Price Stabilization Act of 2015’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–234, title XIII, § 13001, May 22, 2008, 122 Stat. 1427, and Pub. L. 110–246, § 4(a), title XIII, § 13001, June 18, 2008, 122 Stat. 1664, 2189, provided that: “This title [amending sections 1a, 2, 6a, 6b, 6f, 6g, 6i, 6k, 6*o*–1, 6q, 7a, 7a–2, 7b, 8, 9, 12, 13, 13a, 13a–1, 16, 18, 21, and 25 of this title and enacting provisions set out as notes under section 2 of this title] may be cited as the ‘CFTC Reauthorization Act of 2008’.”
+Pub. L. 110–234, title XIII, § 13001, May 22, 2008, 122 Stat. 1427, and Pub. L. 110–246, § 4(a), title XIII, § 13001, June 18, 2008, 122 Stat. 1664, 2189, provided that: “This title [amending sections 1a, 2, 6a, 6b, 6f, 6g, 6i, 6k, 6*o*–1, 6q, 7a, 7a–2, 7b, 8, 9, 12, 13, 13a, 13a–1, 16, 18, 21, and 25 of this title and enacting provisions set out as notes under section 2 of this title] may be cited as the ‘CFTC Reauthorization Act of 2008’.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(5) [§ 1(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–365, provided that: “This Act [H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 5, 6*o*–1, 7 to 7a–3, 7b–1, 7b–2, 9c, and 27 to 27f of this title, sections 781 to 784 of Title 11, Bankruptcy, sections 339a, 4421, and 4422 of Title 12, Banks and Banking, and sections 77b–1 and 78c–1 of Title 15, Commerce and Trade, amending sections 1a, 2, 2a, 4, 4a, 6 to 6m, 6p, 7a–2, 7b, 8 to 9a, 10a, 11, 12, 12a to 12c, 13, 13a to 13b, 16, 18 to 21, and 25 of this title, sections 101, 103, 109, and 761 of Title 11, sections 624 and 4402 of Title 12, and sections 77b, 77c, 77*l*, 77q, 78c, 78f, 78g, 78i, 78j, 78k–1, 78*l*, 78*o*, 78*o*–3, 78p, 78q, 78q–1, 78s, 78t, 78u, 78u–1, 78bb, 78ee, 78ccc, 78*lll*, 80a–2, 80b–2, and 80b–3 of Title 15, repealing sections 5, 7, 7a, and 12e of this title, and enacting provisions set out as notes under this section, section 2 of this title, and section 78c of Title 15] may be cited as the ‘Commodity Futures Modernization Act of 2000’.”
+Pub. L. 106–554, § 1(a)(5) [§ 1(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–365, provided that: “This Act [H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 5, 6*o*–1, 7 to 7a–3, 7b–1, 7b–2, 9c, and 27 to 27f of this title, sections 781 to 784 of Title 11, Bankruptcy, sections 339a, 4421, and 4422 of Title 12, Banks and Banking, and sections 77b–1 and 78c–1 of Title 15, Commerce and Trade, amending sections 1a, 2, 2a, 4, 4a, 6 to 6m, 6p, 7a–2, 7b, 8 to 9a, 10a, 11, 12, 12a to 12c, 13, 13a to 13b, 16, 18 to 21, and 25 of this title, sections 101, 103, 109, and 761 of Title 11, sections 624 and 4402 of Title 12, and sections 77b, 77c, 77*l*, 77q, 78c, 78f, 78g, 78i, 78j, 78k–1, 78*l*, 78*o*, 78*o*–3, 78p, 78q, 78q–1, 78s, 78t, 78u, 78u–1, 78bb, 78ee, 78ccc, 78*lll*, 80a–2, 80b–2, and 80b–3 of Title 15, repealing sections 5, 7, 7a, and 12e of this title, and enacting provisions set out as notes under this section, section 2 of this title, and section 78c of Title 15] may be cited as the ‘Commodity Futures Modernization Act of 2000’.”
 
-Pub. L. 106–554, § 1(a)(5) [title IV, § 401], Dec. 21, 2000, 114 Stat. 2763, 2763A–457, provided that: “This title [title IV of H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 27 to 27f of this title] may be cited as the ‘Legal Certainty for Bank Products Act of 2000’.”
+Pub. L. 106–554, § 1(a)(5) [title IV, § 401], Dec. 21, 2000, 114 Stat. 2763, 2763A–457, provided that: “This title [title IV of H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 27 to 27f of this title] may be cited as the ‘Legal Certainty for Bank Products Act of 2000’.”
 
 **Short Title of 1995 Amendment**
 
-Pub. L. 104–9, § 1, Apr. 21, 1995, 109 Stat. 154, provided that: “This Act [amending section 16 of this title] may be cited as the ‘CFTC Reauthorization Act of 1995’.”
+Pub. L. 104–9, § 1, Apr. 21, 1995, 109 Stat. 154, provided that: “This Act [amending section 16 of this title] may be cited as the ‘CFTC Reauthorization Act of 1995’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–546, § 1(a), Oct. 28, 1992, 106 Stat. 3590, provided that: “This Act [enacting sections 1a and 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title] may be cited as the ‘Futures Trading Practices Act of 1992’.”
+Pub. L. 102–546, § 1(a), Oct. 28, 1992, 106 Stat. 3590, provided that: “This Act [enacting sections 1a and 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title] may be cited as the ‘Futures Trading Practices Act of 1992’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–641, § 1, Nov. 10, 1986, 100 Stat. 3556, provided that: “This Act [enacting section 2271a of this title, amending sections 2a, 6b, 6c, 7a, 13, 13a–1, 15, 16, 21, 23, 74, 87b, 1444, 1445b–3, and 1445c–2 of this title, sections 590h and 3831 of Title 16, Conservation, sections 606, 609, 621, 671, and 676 of Title 21, Food and Drugs, repealing section 14 of this title, and enacting provisions set out as notes under sections 20, 71, 76, 87b, and 2271a of this title and sections 601, 606, 609, 621, 671, and 676 of Title 21] may be cited as the ‘Futures Trading Act of 1986’.”
+Pub. L. 99–641, § 1, Nov. 10, 1986, 100 Stat. 3556, provided that: “This Act [enacting section 2271a of this title, amending sections 2a, 6b, 6c, 7a, 13, 13a–1, 15, 16, 21, 23, 74, 87b, 1444, 1445b–3, and 1445c–2 of this title, sections 590h and 3831 of Title 16, Conservation, sections 606, 609, 621, 671, and 676 of Title 21, Food and Drugs, repealing section 14 of this title, and enacting provisions set out as notes under sections 20, 71, 76, 87b, and 2271a of this title and sections 601, 606, 609, 621, 671, and 676 of Title 21] may be cited as the ‘Futures Trading Act of 1986’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 97–444, § 1, Jan. 11, 1983, 96 Stat. 2294, provided: “That this Act [enacting sections 2a, 12d, 25, and 26 of this title, amending sections 2, 4, 4a, 5, 6, 6a, 6c, 6d, 6f, 6g, 6h, 6i, 6k, 6m, 6n, 6*o*, 6p, 7a, 8, 9, 12, 12a, 13, 13a–1, 13a–2, 13c, 16, 16a, 18, 20, 21, 23, and 612c–3 of this title, and enacting provisions set out as a note under section 2 of this title] may be cited as the ‘Futures Trading Act of 1982’.”
+Pub. L. 97–444, § 1, Jan. 11, 1983, 96 Stat. 2294, provided: “That this Act [enacting sections 2a, 12d, 25, and 26 of this title, amending sections 2, 4, 4a, 5, 6, 6a, 6c, 6d, 6f, 6g, 6h, 6i, 6k, 6m, 6n, 6*o*, 6p, 7a, 8, 9, 12, 12a, 13, 13a–1, 13a–2, 13c, 16, 16a, 18, 20, 21, 23, and 612c–3 of this title, and enacting provisions set out as a note under section 2 of this title] may be cited as the ‘Futures Trading Act of 1982’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–405, § 1, Sept. 30, 1978, 92 Stat. 865, provided: “That this Act [enacting sections 13a–2, 16a, and 23 of this title, amending sections 2, 4a, 6c, 6d, 6f, 6g, 6k, 6m, 6n, 6*o*, 7a, 8, 12, 12a, 12c, 13, 13a, 15, 16, 18, and 21 of this title and section 6001 of Title 18, Crimes and Criminal Procedure, repealing section 15a of this title, omitting sections 12–1 to 12–3 of this title, and enacting provisions set out as notes under sections 2 and 20 of this title] may be cited as the ‘Futures Trading Act of 1978’.”
+Pub. L. 95–405, § 1, Sept. 30, 1978, 92 Stat. 865, provided: “That this Act [enacting sections 13a–2, 16a, and 23 of this title, amending sections 2, 4a, 6c, 6d, 6f, 6g, 6k, 6m, 6n, 6*o*, 7a, 8, 12, 12a, 12c, 13, 13a, 15, 16, 18, and 21 of this title and section 6001 of Title 18, Crimes and Criminal Procedure, repealing section 15a of this title, omitting sections 12–1 to 12–3 of this title, and enacting provisions set out as notes under sections 2 and 20 of this title] may be cited as the ‘Futures Trading Act of 1978’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–463, § 1, Oct. 23, 1974, 88 Stat. 1389, provided: “That this Act [enacting sections 4a, 6j, 6k, 6*l*, 6m, 6n, 6*o*, 6p, 9a, 12–2, 13–3, 12c, 13a–1, 15a, 18, 19, 20, 21, and 22 of this title, amending sections 2, 4, 6, 6a, 6b, 6c, 6d, 6e, 6f, 6g, 6i, 7, 7a, 7b, 8, 9, 11, 12, 12–1, 12a, 12b, 13, 13a, 13b, 13c, 15, and 16 of this title and sections 5314, 5315, 5316, and 5108 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 2, 4a, and 6a of this title] may be cited as the ‘Commodity Futures Trading Commission Act of 1974’.”
+Pub. L. 93–463, § 1, Oct. 23, 1974, 88 Stat. 1389, provided: “That this Act [enacting sections 4a, 6j, 6k, 6*l*, 6m, 6n, 6*o*, 6p, 9a, 12–2, 13–3, 12c, 13a–1, 15a, 18, 19, 20, 21, and 22 of this title, amending sections 2, 4, 6, 6a, 6b, 6c, 6d, 6e, 6f, 6g, 6i, 7, 7a, 7b, 8, 9, 11, 12, 12–1, 12a, 12b, 13, 13a, 13b, 13c, 15, and 16 of this title and sections 5314, 5315, 5316, and 5108 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 2, 4a, and 6a of this title] may be cited as the ‘Commodity Futures Trading Commission Act of 1974’.”
 
 **Savings Provisions for 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(5) [title III, § 304], Dec. 21, 2000, 114 Stat. 2763, 2763A–457, provided that: “Nothing in this Act [see Short Title of 2000 Amendment note above] or the amendments made by this Act shall be construed as finding or implying that any swap agreement is or is not a security for any purpose under the securities laws. Nothing in this Act or the amendments made by this Act shall be construed as finding or implying that any swap agreement is or is not a futures contract or commodity option for any purpose under the Commodity Exchange Act [7 U.S.C. 1 et seq.].”
+Pub. L. 106–554, § 1(a)(5) [title III, § 304], Dec. 21, 2000, 114 Stat. 2763, 2763A–457, provided that: “Nothing in this Act [see Short Title of 2000 Amendment note above] or the amendments made by this Act shall be construed as finding or implying that any swap agreement is or is not a security for any purpose under the securities laws. Nothing in this Act or the amendments made by this Act shall be construed as finding or implying that any swap agreement is or is not a futures contract or commodity option for any purpose under the Commodity Exchange Act [7 U.S.C. 1 et seq.].”
 
 **Construction of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 122], Dec. 21, 2000, 114 Stat. 2763, 2763A–405, provided that: “Except as expressly provided in this Act [see Short Title of 2000 Amendment note above] or an amendment made by this Act, nothing in this Act or an amendment made by this Act supersedes, affects, or otherwise limits or expands the scope and applicability of laws governing the Securities and Exchange Commission.”
+Pub. L. 106–554, § 1(a)(5) [title I, § 122], Dec. 21, 2000, 114 Stat. 2763, 2763A–405, provided that: “Except as expressly provided in this Act [see Short Title of 2000 Amendment note above] or an amendment made by this Act, nothing in this Act or an amendment made by this Act supersedes, affects, or otherwise limits or expands the scope and applicability of laws governing the Securities and Exchange Commission.”
 
 **Purposes of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(5) [§ 2], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, provided that:
+Pub. L. 106–554, § 1(a)(5) [§ 2], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, provided that:
 
 > “The purposes of this Act [see Short Title of 2000 Amendment note above] are—
 
@@ -109,7 +109,7 @@ Pub. L. 106–554, § 1(a)(5) [§ 2], Dec. 21, 2000, 114 Stat. 2763, 2763A�
 
 **Report to Congress**
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 125], Dec. 21, 2000, 114 Stat. 2763, 2763A–411, provided that:
+Pub. L. 106–554, § 1(a)(5) [title I, § 125], Dec. 21, 2000, 114 Stat. 2763, 2763A–411, provided that:
 
 > **“(a)** The Commodity Futures Trading Commission (in this section referred to as the ‘Commission’) shall undertake and complete a study of the Commodity Exchange Act [7 U.S.C. 1 et seq.] (in this section referred to as ‘the Act’) and the Commission’s rules, regulations and orders governing the conduct of persons required to be registered under the Act, not later than 1 year after the date of the enactment of this Act [Dec. 21, 2000]. The study shall identify—
 
@@ -125,7 +125,7 @@ Pub. L. 106–554, § 1(a)(5) [title I, § 125], Dec. 21, 2000, 114 Stat. 27
 
 > **“(c)** The Commission shall transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report of the results of its study, which shall include an analysis of comments received.”
 
-## § 1a. Definitions
+## § 1a. Definitions
 
 As used in this chapter:
 
@@ -231,9 +231,9 @@ The Commission, by rule or regulation, may include within, or exclude from, the 
 
 **(I)** any contract of sale of a commodity for future delivery, security futures product, or swap;
 
-**(II)** any agreement, contract, or transaction described in section 2(c)(2)(C)(i) of this title or section 2(c)(2)(D)(i) of this title 1
+**(II)** any agreement, contract, or transaction described in section 2(c)(2)(C)(i) of this title or section 2(c)(2)(D)(i) of this title 1
 
-<sup>1</sup>  So in original. Probably should be followed by a semicolon.
+<sup>1</sup> So in original. Probably should be followed by a semicolon.
 
 **(III)** any commodity option authorized under section 6c of this title; or
 
@@ -389,13 +389,13 @@ except that such term does not include an entity, instrumentality, agency, or de
 
 **(II)** an associated person of a registered broker or dealer concerning the financial or securities activities of which the registered person makes and keeps records under section 15C(b) or 17(h) of the Securities Exchange Act of 1934 (15 U.S.C. 78*o*–5(b), 78q(h));
 
-**(III)** an investment bank holding company (as defined in section 17(i) 2
+**(III)** an investment bank holding company (as defined in section 17(i) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-of the Securities Exchange Act of 1934 (15 U.S.C. 78q(i)); 3
+of the Securities Exchange Act of 1934 (15 U.S.C. 78q(i)); 3
 
-<sup>3</sup>  So in original. The semicolon probably should be preceded by an additional closing parenthesis.
+<sup>3</sup> So in original. The semicolon probably should be preceded by an additional closing parenthesis.
 
 **(ix)** a futures commission merchant subject to regulation under this chapter or a foreign person performing a similar role or function subject as such to foreign regulation, except that, if the futures commission merchant or foreign person is a natural person or proprietorship, the futures commission merchant or foreign person shall not be considered to be an eligible contract participant unless the futures commission merchant or foreign person also meets the requirements of clause (v) or (xi);
 
@@ -705,13 +705,13 @@ The term “person” imports the plural or singular, and includes individuals, 
 
 **(iii)** any foreign bank which does not operate an insured branch;
 
-**(iv)** any organization operating under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.] or having an agreement with the Board under section 225 of the Federal Reserve Act 4
+**(iv)** any organization operating under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.] or having an agreement with the Board under section 225 of the Federal Reserve Act 4
 
-<sup>4</sup>  See References in Text note below.
+<sup>4</sup> See References in Text note below.
 
 ;
 
-**(v)** any bank holding company (as defined in section 2 of the Bank Holding Company Act of 1965 <sup>4</sup> (12 U.S.C. 1841)), any foreign bank (as defined in section 3101(7) of title 12) that is treated as a bank holding company under section 3106(a) of title 12, and any subsidiary of such a company or foreign bank (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered with the Commission as a swap dealer or major swap participant under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant);
+**(v)** any bank holding company (as defined in section 2 of the Bank Holding Company Act of 1965 <sup>4</sup> (12 U.S.C. 1841)), any foreign bank (as defined in section 3101(7) of title 12) that is treated as a bank holding company under section 3106(a) of title 12, and any subsidiary of such a company or foreign bank (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered with the Commission as a swap dealer or major swap participant under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant);
 
 **(vi)** after the transfer date (as defined in section 311 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [12 U.S.C. 5411]), any savings and loan holding company (as defined in section 1467a of title 12) and any subsidiary of such company (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered as a swap dealer or major swap participant with the Commission under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant); or
 
@@ -861,9 +861,9 @@ The term “significant price discovery contract” means an agreement, contract
 
 **(I)** based on a security; and
 
-**(II)** entered into directly or through an underwriter (as defined in section 2(a)(11) of the Securities Act of 1933 (15 U.S.C. 77b(a)(11)) 5
+**(II)** entered into directly or through an underwriter (as defined in section 2(a)(11) of the Securities Act of 1933 (15 U.S.C. 77b(a)(11)) 5
 
-<sup>5</sup>  So in original. A third closing parenthesis probably should appear.
+<sup>5</sup> So in original. A third closing parenthesis probably should appear.
 
 by the issuer of such security for the purposes of raising capital, unless the agreement, contract, or transaction is entered into to manage a risk associated with capital raising;
 
@@ -977,43 +977,43 @@ Any person, group of persons, dealer, broker, or facility described in clause (i
 
 A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to a derivatives clearing organization of transactions executed on or through the person or group of persons.
 
-(Sept. 21, 1922, ch. 369, § 1a, as added Pub. L. 102–546, title IV, § 404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, § 1(a)(5) [title I, §§ 101, 123(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§ 13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, § 4(a), title XIII, §§ 13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§ 721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732; Pub. L. 119–27, § 17(f), July 18, 2025, 139 Stat. 463.)
+(Sept. 21, 1922, ch. 369, § 1a, as added Pub. L. 102–546, title IV, § 404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, § 1(a)(5) [title I, §§ 101, 123(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§ 13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, § 4(a), title XIII, §§ 13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§ 721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732; Pub. L. 119–27, § 17(f), July 18, 2025, 139 Stat. 463.)
 
 **Amendment of Paragraph (9)**
 
-Pub. L. 119–27, §§ 17(f), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, paragraph (9) of this section is amended by adding at the end the following: “The term ‘commodity’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.” See 2025 Amendment note below.
+Pub. L. 119–27, §§ 17(f), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, paragraph (9) of this section is amended by adding at the end the following: “The term ‘commodity’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.” See 2025 Amendment note below.
 
 **Editorial Notes**
 
 **References in Text**
 
-The Employee Retirement Income Security Act of 1974, referred to in pars. (12)(B)(v) and (18)(A)(vi), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in pars. (12)(B)(v) and (18)(A)(vi), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Securities Act of 1933, referred to in pars. (17)(B)(ii)(I)(bb) and (47)(B)(iii)(I), (v)(I), (vi), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in pars. (17)(B)(ii)(I)(bb) and (47)(B)(iii)(I), (v)(I), (vi), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in par. (18)(A)(iii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in par. (18)(A)(iii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Investment Advisers Act of 1940, referred to in par. (18)(A)(vi)(II)(aa), (B)(ii), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in par. (18)(A)(vi)(II)(aa), (B)(ii), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in pars. (18)(A)(viii)(I) and (47)(B)(iii)(II), (v)(II), (vi), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in pars. (18)(A)(viii)(I) and (47)(B)(iii)(II), (v)(II), (vi), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-Subsec. (i) of section 17 of the Securities Exchange Act of 1934, referred to in par. (18)(A)(viii)(III), was struck out and subsec. (j) was redesignated (i) by Pub. L. 111–203, title VI, § 617(a), July 21, 2010, 124 Stat. 1616.
+Subsec. (i) of section 17 of the Securities Exchange Act of 1934, referred to in par. (18)(A)(viii)(III), was struck out and subsec. (j) was redesignated (i) by Pub. L. 111–203, title VI, § 617(a), July 21, 2010, 124 Stat. 1616.
 
-Section 25A of the Federal Reserve Act, referred to in pars. (21)(B) and (39)(A)(iv), (vii), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+Section 25A of the Federal Reserve Act, referred to in pars. (21)(B) and (39)(A)(iv), (vii), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
-Section 225 of the Federal Reserve Act, referred to in par. (39)(A)(iv), probably should be a reference to section 25 of the Federal Reserve Act, which is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking.
+Section 225 of the Federal Reserve Act, referred to in par. (39)(A)(iv), probably should be a reference to section 25 of the Federal Reserve Act, which is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking.
 
 Section 2 of the Bank Holding Company Act of 1965, referred to in par. (39)(A)(v), probably should be a reference to section 2 of the Bank Holding Company Act of 1956, act May 9, 1956, ch. 240, 70 Stat. 133, which is classified to section 1841 of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in par. (39)(A)(vii), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking.
+Section 25 of the Federal Reserve Act, referred to in par. (39)(A)(vii), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking.
 
-The Farm Credit Act of 1971, referred to in par. (39)(D), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in par. (39)(D), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
 Section 206A of the Gramm-Leach-Bliley Act, referred to in par. (47)(A)(v), is section 206A of Pub. L. 106–102 which is set out as a note under section 78c of Title 15, Commerce and Trade.
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in par. (47)(E)(i)(II), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§ 5301 et seq.) of Title 12, Banks and Banking, and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in par. (47)(E)(i)(II), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§ 5301 et seq.) of Title 12, Banks and Banking, and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
-The Wall Street Transparency and Accountability Act of 2010, referred to in par. (47)(F)(i), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
+The Wall Street Transparency and Accountability Act of 2010, referred to in par. (47)(F)(i), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
 
 **Codification**
 
@@ -1023,125 +1023,125 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2025—Par. (9). Pub. L. 119–27 inserted at end “The term ‘commodity’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.”
 
-2010—Pub. L. 111–203, § 721(a)(1), redesignated pars. (2), (3), and (4), (5) to (17), (18) to (23), (24) to (28), (29), (30), (31) to (33), and (34) as (6), (8), and (9), (11) to (23), (26) to (31), (34) to (38), (40), (41), (44) to (46), and (51), respectively.
+2010—Pub. L. 111–203, § 721(a)(1), redesignated pars. (2), (3), and (4), (5) to (17), (18) to (23), (24) to (28), (29), (30), (31) to (33), and (34) as (6), (8), and (9), (11) to (23), (26) to (31), (34) to (38), (40), (41), (44) to (46), and (51), respectively.
 
-Pars. (2), (3). Pub. L. 111–203, § 721(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (6) and (8), respectively.
+Pars. (2), (3). Pub. L. 111–203, § 721(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (6) and (8), respectively.
 
-Par. (4). Pub. L. 111–203, § 721(a)(4), which directed amendment of par. (9), as redesignated by Pub. L. 111–203, § 721(a)(1), by substituting “except onions (as provided by section 13–1 of this title) and motion picture box office receipts (or any index, measure, value, or data related to such receipts), and all services, rights, and interests (except motion picture box office receipts, or any index, measure, value or data related to such receipts) in which contracts for future delivery are presently or in the future dealt in.” for “except onions as provided in section 13–1 of this title, and all services, rights, and interests in which contracts for future delivery are presently or in the future dealt in.”, was executed by making the substitution in par. (4). Amendment was executed before amendment by Pub. L. 111–203, § 721(a)(1), to reflect the probable intent of Congress, notwithstanding effective date provisions in sections 721(f) and 754 of Pub. L. 111–203. See Effective Date of 2010 Amendment notes below.
+Par. (4). Pub. L. 111–203, § 721(a)(4), which directed amendment of par. (9), as redesignated by Pub. L. 111–203, § 721(a)(1), by substituting “except onions (as provided by section 13–1 of this title) and motion picture box office receipts (or any index, measure, value, or data related to such receipts), and all services, rights, and interests (except motion picture box office receipts, or any index, measure, value or data related to such receipts) in which contracts for future delivery are presently or in the future dealt in.” for “except onions as provided in section 13–1 of this title, and all services, rights, and interests in which contracts for future delivery are presently or in the future dealt in.”, was executed by making the substitution in par. (4). Amendment was executed before amendment by Pub. L. 111–203, § 721(a)(1), to reflect the probable intent of Congress, notwithstanding effective date provisions in sections 721(f) and 754 of Pub. L. 111–203. See Effective Date of 2010 Amendment notes below.
 
-Pub. L. 111–203, § 721(a)(2), added par. (4). Former par. (4) redesignated (9).
+Pub. L. 111–203, § 721(a)(2), added par. (4). Former par. (4) redesignated (9).
 
-Par. (5). Pub. L. 111–203, § 721(a)(2), added par. (5). Former par. (5) redesignated (11).
+Par. (5). Pub. L. 111–203, § 721(a)(2), added par. (5). Former par. (5) redesignated (11).
 
-Par. (7). Pub. L. 111–203, § 721(a)(3), added par. (7). Former par. (7) redesignated (13).
+Par. (7). Pub. L. 111–203, § 721(a)(3), added par. (7). Former par. (7) redesignated (13).
 
-Par. (10). Pub. L. 111–203, § 721(a)(5), added par. (10). Former par. (10) redesignated (16).
+Par. (10). Pub. L. 111–203, § 721(a)(5), added par. (10). Former par. (10) redesignated (16).
 
-Par. (11). Pub. L. 111–203, § 721(a)(6), added par. (11) and struck out former par. (11). Prior to amendment, text read as follows: “The term ‘commodity pool operator’ means any person engaged in a business that is of the nature of an investment trust, syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts, or receives from others, funds, securities, or property, either directly or through capital contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of trading in any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility, except that the term does not include such persons not within the intent of the definition of the term as the Commission may specify by rule, regulation, or order.”
+Par. (11). Pub. L. 111–203, § 721(a)(6), added par. (11) and struck out former par. (11). Prior to amendment, text read as follows: “The term ‘commodity pool operator’ means any person engaged in a business that is of the nature of an investment trust, syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts, or receives from others, funds, securities, or property, either directly or through capital contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of trading in any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility, except that the term does not include such persons not within the intent of the definition of the term as the Commission may specify by rule, regulation, or order.”
 
-Par. (12)(A)(i)(I). Pub. L. 111–203, § 721(a)(7)(A)(i), substituted “, security futures product, or swap” for “made or to be made on or subject to the rules of a contract market or derivatives transaction execution facility”.
+Par. (12)(A)(i)(I). Pub. L. 111–203, § 721(a)(7)(A)(i), substituted “, security futures product, or swap” for “made or to be made on or subject to the rules of a contract market or derivatives transaction execution facility”.
 
-Par. (12)(A)(i)(II) to (IV). Pub. L. 111–203, § 721(a)(7)(A)(ii), (iii), added subcl. (II) and redesignated former subcls. (II) and (III) as (III) and (IV), respectively.
+Par. (12)(A)(i)(II) to (IV). Pub. L. 111–203, § 721(a)(7)(A)(ii), (iii), added subcl. (II) and redesignated former subcls. (II) and (III) as (III) and (IV), respectively.
 
-Par. (12)(A)(iii), (iv). Pub. L. 111–203, § 721(a)(7)(A)(iv), (B), (C), added cls. (iii) and (iv).
+Par. (12)(A)(iii), (iv). Pub. L. 111–203, § 721(a)(7)(A)(iv), (B), (C), added cls. (iii) and (iv).
 
-Par. (17)(A). Pub. L. 111–203, § 721(a)(8), substituted “paragraph (18)(A)” for “paragraph (12)(A)” in introductory provisions.
+Par. (17)(A). Pub. L. 111–203, § 721(a)(8), substituted “paragraph (18)(A)” for “paragraph (12)(A)” in introductory provisions.
 
-Par. (18)(A)(iv)(II). Pub. L. 111–203, § 741(b)(10), which directed amendment of par. (19)(A)(iv)(II) by inserting before semicolon at end “provided, however, that for purposes of section 2(c)(2)(B)(vi) of this title and section 2(c)(2)(C)(vii) of this title, the term ‘eligible contract participant’ shall not include a commodity pool in which any participant is not otherwise an eligible contract participant”, was executed by making the insertion in par. (18)(A)(iv)(II) to reflect the probable intent of Congress.
+Par. (18)(A)(iv)(II). Pub. L. 111–203, § 741(b)(10), which directed amendment of par. (19)(A)(iv)(II) by inserting before semicolon at end “provided, however, that for purposes of section 2(c)(2)(B)(vi) of this title and section 2(c)(2)(C)(vii) of this title, the term ‘eligible contract participant’ shall not include a commodity pool in which any participant is not otherwise an eligible contract participant”, was executed by making the insertion in par. (18)(A)(iv)(II) to reflect the probable intent of Congress.
 
-Par. (18)(A)(vii). Pub. L. 111–203, § 721(a)(9)(A)(i), substituted “paragraph (17)(A)” for “paragraph (11)(A)” and “$50,000,000” for “$25,000,000” in concluding provisions.
+Par. (18)(A)(vii). Pub. L. 111–203, § 721(a)(9)(A)(i), substituted “paragraph (17)(A)” for “paragraph (11)(A)” and “$50,000,000” for “$25,000,000” in concluding provisions.
 
-Par. (18)(A)(xi). Pub. L. 111–203, § 721(a)(9)(A)(ii), substituted “amounts invested on a discretionary basis, the aggregate of which is” for “total assets in an amount” in introductory provisions.
+Par. (18)(A)(xi). Pub. L. 111–203, § 721(a)(9)(A)(ii), substituted “amounts invested on a discretionary basis, the aggregate of which is” for “total assets in an amount” in introductory provisions.
 
-Par. (22). Pub. L. 111–203, § 721(a)(10), added par. (22) and struck out former par. (22). Prior to amendment, text read as follows: “The term ‘floor broker’ means any person who, in or surrounding any pit, ring, post, or other place provided by a contract market or derivatives transaction execution facility for the meeting of persons similarly engaged, shall purchase or sell for any other person any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility.”
+Par. (22). Pub. L. 111–203, § 721(a)(10), added par. (22) and struck out former par. (22). Prior to amendment, text read as follows: “The term ‘floor broker’ means any person who, in or surrounding any pit, ring, post, or other place provided by a contract market or derivatives transaction execution facility for the meeting of persons similarly engaged, shall purchase or sell for any other person any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility.”
 
-Par. (23). Pub. L. 111–203, § 721(a)(11), added par. (23) and struck out former par. (23). Prior to amendment, text read as follows: “The term ‘floor trader’ means any person who, in or surrounding any pit, ring, post, or other place provided by a contract market or derivatives transaction execution facility for the meeting of persons similarly engaged, purchases, or sells solely for such person’s own account, any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility.”
+Par. (23). Pub. L. 111–203, § 721(a)(11), added par. (23) and struck out former par. (23). Prior to amendment, text read as follows: “The term ‘floor trader’ means any person who, in or surrounding any pit, ring, post, or other place provided by a contract market or derivatives transaction execution facility for the meeting of persons similarly engaged, purchases, or sells solely for such person’s own account, any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility.”
 
-Pars. (24), (25). Pub. L. 111–203, § 721(a)(12), added pars. (24) and (25). Former pars. (24) and (25) redesignated (34) and (35), respectively.
+Pars. (24), (25). Pub. L. 111–203, § 721(a)(12), added pars. (24) and (25). Former pars. (24) and (25) redesignated (34) and (35), respectively.
 
-Par. (28). Pub. L. 111–203, § 721(a)(13), added par. (28) and struck out former par. (28) which defined “futures commission merchant”.
+Par. (28). Pub. L. 111–203, § 721(a)(13), added par. (28) and struck out former par. (28) which defined “futures commission merchant”.
 
-Par. (30)(B). Pub. L. 111–203, § 721(a)(14), substituted “State” for “state”.
+Par. (30)(B). Pub. L. 111–203, § 721(a)(14), substituted “State” for “state”.
 
-Par. (31). Pub. L. 111–203, § 721(a)(15), added par. (31) and struck out former par. (31). Prior to amendment, text read as follows: “The term ‘introducing broker’ means any person (except an individual who elects to be and is registered as an associated person of a futures commission merchant) engaged in soliciting or in accepting orders for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility who does not accept any money, securities, or property (or extend credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom.”
+Par. (31). Pub. L. 111–203, § 721(a)(15), added par. (31) and struck out former par. (31). Prior to amendment, text read as follows: “The term ‘introducing broker’ means any person (except an individual who elects to be and is registered as an associated person of a futures commission merchant) engaged in soliciting or in accepting orders for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility who does not accept any money, securities, or property (or extend credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom.”
 
-Pars. (32), (33). Pub. L. 111–203, § 721(a)(16), added pars. (32) and (33). Former pars. (32) and (33) redesignated (45) and (46), respectively.
+Pars. (32), (33). Pub. L. 111–203, § 721(a)(16), added pars. (32) and (33). Former pars. (32) and (33) redesignated (45) and (46), respectively.
 
-Par. (39). Pub. L. 111–203, § 721(a)(17), added par. (39).
+Par. (39). Pub. L. 111–203, § 721(a)(17), added par. (39).
 
-Par. (40)(B) to (F). Pub. L. 111–203, § 721(a)(18), added subpars. (D) and (E), redesignated former subpars. (C), (D), and (E) as (B), (C), and (F), respectively, and struck out former subpar. (B) which read as follows: “a derivatives transaction execution facility registered under section 7a of this title;”.
+Par. (40)(B) to (F). Pub. L. 111–203, § 721(a)(18), added subpars. (D) and (E), redesignated former subpars. (C), (D), and (E) as (B), (C), and (F), respectively, and struck out former subpar. (B) which read as follows: “a derivatives transaction execution facility registered under section 7a of this title;”.
 
-Pars. (42), (43). Pub. L. 111–203, § 721(a)(19), added pars. (42) and (43).
+Pars. (42), (43). Pub. L. 111–203, § 721(a)(19), added pars. (42) and (43).
 
-Par. (46). Pub. L. 111–203, § 721(a)(20), substituted “subject to section 2(h)(5) of this title” for “subject to section 2(h)(7) of this title”.
+Par. (46). Pub. L. 111–203, § 721(a)(20), substituted “subject to section 2(h)(5) of this title” for “subject to section 2(h)(7) of this title”.
 
-Pars. (47) to (50). Pub. L. 111–203, § 721(a)(21), added pars. (47) to (50).
+Pars. (47) to (50). Pub. L. 111–203, § 721(a)(21), added pars. (47) to (50).
 
-Par. (51)(A)(i). Pub. L. 111–203, § 721(a)(22), substituted “participants” for “partipants”.
+Par. (51)(A)(i). Pub. L. 111–203, § 721(a)(22), substituted “participants” for “partipants”.
 
-2008—Par. (12)(A)(x). Pub. L. 110–246, § 13203(a), inserted “(other than an electronic trading facility with respect to a significant price discovery contract)” after “registered entity”.
+2008—Par. (12)(A)(x). Pub. L. 110–246, § 13203(a), inserted “(other than an electronic trading facility with respect to a significant price discovery contract)” after “registered entity”.
 
-Par. (29)(E). Pub. L. 110–246, § 13203(b), added subpar. (E).
+Par. (29)(E). Pub. L. 110–246, § 13203(b), added subpar. (E).
 
-Par. (33). Pub. L. 110–246, § 13201(a), added par. (33). Former par. (33) redesignated (34).
+Par. (33). Pub. L. 110–246, § 13201(a), added par. (33). Former par. (33) redesignated (34).
 
-Par. (33)(A). Pub. L. 110–246, § 13105(j), substituted “transactions—” for “transactions by accepting bids and offers made by other participants that are open to multiple participants in the facility or system.” in introductory provisions and added cls. (i) and (ii).
+Par. (33)(A). Pub. L. 110–246, § 13105(j), substituted “transactions—” for “transactions by accepting bids and offers made by other participants that are open to multiple participants in the facility or system.” in introductory provisions and added cls. (i) and (ii).
 
-Par. (34). Pub. L. 110–246, § 13201(a)(1), redesignated par. (33) as (34).
+Par. (34). Pub. L. 110–246, § 13201(a)(1), redesignated par. (33) as (34).
 
-2000—Par. (1). Pub. L. 106–554, § 1(a)(5) [title I, § 101(2)], added par. (1). Former par. (1) redesignated (2).
+2000—Par. (1). Pub. L. 106–554, § 1(a)(5) [title I, § 101(2)], added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 106–554, § 1(a)(5) [title I, § 101(3)], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘board of trade’ means any exchange or association, whether incorporated or unincorporated, of persons who are engaged in the business of buying or selling any commodity or receiving the same for sale on consignment.”
+Par. (2). Pub. L. 106–554, § 1(a)(5) [title I, § 101(3)], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘board of trade’ means any exchange or association, whether incorporated or unincorporated, of persons who are engaged in the business of buying or selling any commodity or receiving the same for sale on consignment.”
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Pars. (3), (4). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+Pars. (3), (4). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Par. (5). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market”.
+Par. (5). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market”.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market” in subpars. (A)(i)(I) and (B)(vi).
+Par. (6). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market” in subpars. (A)(i)(I) and (B)(vi).
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Pars. (7), (8). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (16).
+Pars. (7), (8). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (16).
 
-Pars. (9) to (15). Pub. L. 106–554, § 1(a)(5) [title I, § 101(4)], added pars. (9) to (15). Former pars. (9) to (12) and (13) to (15) redesignated (17) to (20) and (22) to (24), respectively.
+Pars. (9) to (15). Pub. L. 106–554, § 1(a)(5) [title I, § 101(4)], added pars. (9) to (15). Former pars. (9) to (12) and (13) to (15) redesignated (17) to (20) and (22) to (24), respectively.
 
-Par. (16). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market” in two places.
+Par. (16). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market” in two places.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (8) as (16). Former par. (16) redesignated (28).
+Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (8) as (16). Former par. (16) redesignated (28).
 
-Par. (17). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market” in two places.
+Par. (17). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market” in two places.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (9) as (17).
+Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (9) as (17).
 
-Pars. (18), (19). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated pars. (10) and (11) as (18) and (19), respectively.
+Pars. (18), (19). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated pars. (10) and (11) as (18) and (19), respectively.
 
-Par. (20). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (12) as (20).
+Par. (20). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (12) as (20).
 
-Par. (20)(A). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market”.
+Par. (20)(A). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market”.
 
-Par. (21). Pub. L. 106–554, § 1(a)(5) [title I, § 101(5)], added par. (21).
+Par. (21). Pub. L. 106–554, § 1(a)(5) [title I, § 101(5)], added par. (21).
 
-Par. (22). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (13) as (22).
+Par. (22). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (13) as (22).
 
-Par. (23). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market”.
+Par. (23). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(A)], inserted “or derivatives transaction execution facility” after “contract market”.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (14) as (23).
+Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (14) as (23).
 
-Par. (24). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(B)], substituted “registered entity” for “contract market” wherever appearing in heading and text and inserted concluding provisions.
+Par. (24). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(1)(B)], substituted “registered entity” for “contract market” wherever appearing in heading and text and inserted concluding provisions.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 101(6)], added par. (24) and struck out heading and text of former par. (24). Text read as follows: “The term ‘member of a contract market’ means an individual, association, partnership, corporation, or trust owning or holding membership in, or admitted to membership representation on, a contract market or given members’ trading privileges thereon.”
+Pub. L. 106–554, § 1(a)(5) [title I, § 101(6)], added par. (24) and struck out heading and text of former par. (24). Text read as follows: “The term ‘member of a contract market’ means an individual, association, partnership, corporation, or trust owning or holding membership in, or admitted to membership representation on, a contract market or given members’ trading privileges thereon.”
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (15) as (24).
+Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (15) as (24).
 
-Pars. (25) to (27). Pub. L. 106–554, § 1(a)(5) [title I, § 101(6)], added pars. (25) to (27).
+Pars. (25) to (27). Pub. L. 106–554, § 1(a)(5) [title I, § 101(6)], added pars. (25) to (27).
 
-Par. (28). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (16) as (28).
+Par. (28). Pub. L. 106–554, § 1(a)(5) [title I, § 101(1)], redesignated par. (16) as (28).
 
-Pars. (29) to (33). Pub. L. 106–554, § 1(a)(5) [title I, § 101(7)], added pars. (29) to (33).
+Pars. (29) to (33). Pub. L. 106–554, § 1(a)(5) [title I, § 101(7)], added pars. (29) to (33).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1151,9 +1151,9 @@ Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 mo
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title VII, § 721(f), July 21, 2010, 124 Stat. 1672, provided that: “Notwithstanding any other provision of this Act [see Tables for classification], the amendments made by subsection (a)(4) [amending this section] shall take effect on June 1, 2010.”
+Pub. L. 111–203, title VII, § 721(f), July 21, 2010, 124 Stat. 1672, provided that: “Notwithstanding any other provision of this Act [see Tables for classification], the amendments made by subsection (a)(4) [amending this section] shall take effect on June 1, 2010.”
 
-Pub. L. 111–203, title VII, § 754, July 21, 2010, 124 Stat. 1754, provided that: “Unless otherwise provided in this title [see Tables for classification], the provisions of this subtitle [subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, see Tables for classification] shall take effect on the later of 360 days after the date of the enactment of this subtitle [July 21, 2010] or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.”
+Pub. L. 111–203, title VII, § 754, July 21, 2010, 124 Stat. 1754, provided that: “Unless otherwise provided in this title [see Tables for classification], the provisions of this subtitle [subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, see Tables for classification] shall take effect on the later of 360 days after the date of the enactment of this subtitle [July 21, 2010] or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.”
 
 **Effective Date of 2008 Amendment**
 
@@ -1163,15 +1163,15 @@ Amendment by sections 13201(a) and 13203(a), (b) of Pub. L. 110–246 effective 
 
 **Effective Date**
 
-Pub. L. 102–546, title IV, § 403, Oct. 28, 1992, 106 Stat. 3625, provided that: “Except as otherwise specifically provided in this Act [enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–546, title IV, § 403, Oct. 28, 1992, 106 Stat. 3625, provided that: “Except as otherwise specifically provided in this Act [enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act [Oct. 28, 1992].”
 
 **Other Authority**
 
-Pub. L. 111–203, title VII, § 743, July 21, 2010, 124 Stat. 1735, provided that: “Unless otherwise provided by the amendments made by this subtitle [subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, see Tables for classification], the amendments made by this subtitle do not divest any appropriate Federal banking agency, the Commodity Futures Trading Commission, the Securities and Exchange Commission, or other Federal or State agency of any authority derived from any other applicable law.”
+Pub. L. 111–203, title VII, § 743, July 21, 2010, 124 Stat. 1735, provided that: “Unless otherwise provided by the amendments made by this subtitle [subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, see Tables for classification], the amendments made by this subtitle do not divest any appropriate Federal banking agency, the Commodity Futures Trading Commission, the Securities and Exchange Commission, or other Federal or State agency of any authority derived from any other applicable law.”
 
 [For definitions of “appropriate Federal banking agency” and “State” as used in section 743 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
-## § 1b. Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap”
+## § 1b. Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap”
 
 **(a) Required considerations** In determining whether to exempt foreign exchange swaps and foreign exchange forwards from the definition of the term “swap”, the Secretary of the Treasury (referred to in this section as the “Secretary”) shall consider—
 
@@ -1195,9 +1195,9 @@ Pub. L. 111–203, title VII, § 743, July 21, 2010, 124 Stat. 1735, provided 
 
 A determination by the Secretary under subsection (b) shall not exempt any foreign exchange swaps and foreign exchange forwards traded on a designated contract market or swap execution facility from any applicable antifraud and antimanipulation provision under this chapter.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Sept. 21, 1922, ch. 369, § 1b, as added Pub. L. 111–203, title VII, § 722(h), July 21, 2010, 124 Stat. 1674.)
+(Sept. 21, 1922, ch. 369, § 1b, as added Pub. L. 111–203, title VII, § 722(h), July 21, 2010, 124 Stat. 1674.)
 
 **Editorial Notes**
 
@@ -1209,9 +1209,9 @@ This chapter, referred to in subsec. (c), was in the original “this title”, 
 
 **Effective Date**
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 2. Jurisdiction of Commission; liability of principal for act of agent; Commodity Futures Trading Commission; transaction in interstate commerce
+## § 2. Jurisdiction of Commission; liability of principal for act of agent; Commodity Futures Trading Commission; transaction in interstate commerce
 
 **(a) Jurisdiction of Commission; Commodity Futures Trading Commission**
 
@@ -1229,9 +1229,9 @@ The act, omission, or failure of any official, agent, or other person acting for
 
 **(i)**
 
-**(I)** Except as provided in subclause (II), this chapter shall not apply to and the Commission shall have no jurisdiction to designate a board of trade as a contract market for any transaction whereby any party to such transaction acquires any put, call, or other option on one or more securities (as defined in section 77b(1) 1
+**(I)** Except as provided in subclause (II), this chapter shall not apply to and the Commission shall have no jurisdiction to designate a board of trade as a contract market for any transaction whereby any party to such transaction acquires any put, call, or other option on one or more securities (as defined in section 77b(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15 or section 3(a)(10) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(10)] on January 11, 1983), including any group or index of such securities, or any interest therein or based on the value thereof.
 
@@ -1247,9 +1247,9 @@ of title 15 or section 3(a)(10) of the Securities Exchange Act of 1934 [15 U.S.C
 
 **(iii)** If, in its discretion, the Commission determines that a stock index futures contract, notwithstanding its conformance with the requirements in clause (ii) of this subparagraph, can reasonably be used as a surrogate for trading a security (including a security futures product), it may, by order, require such contract and any option thereon be traded and regulated as security futures products as defined in section 3(a)(56) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(56)] and section 1a of this title subject to all rules and regulations applicable to security futures products under this chapter and the securities laws as defined in section 3(a)(47) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(47)].
 
-**(iv)** No person shall offer to enter into, enter into, or confirm the execution of any contract of sale (or option on such contract) for future delivery of any security, or interest therein or based on the value thereof, except an exempted security under or 2
+**(iv)** No person shall offer to enter into, enter into, or confirm the execution of any contract of sale (or option on such contract) for future delivery of any security, or interest therein or based on the value thereof, except an exempted security under or 2
 
-<sup>2</sup>  So in original. The word “or” probably should not appear.
+<sup>2</sup> So in original. The word “or” probably should not appear.
 
 section 3(a)(12) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(12)] as in effect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(29)] on January 11, 1983), or except as provided in clause (ii) of this subparagraph or subparagraph (D), any group or index of such securities or any interest therein or based on the value thereof.
 
@@ -1267,7 +1267,7 @@ section 3(a)(12) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(12)] a
 
 **(VI)** Any action taken by the Board, or by the Commission acting under the delegation of authority under subclause III,3
 
-<sup>3</sup>  So in original. Probably should be subclause “(III)”.
+<sup>3</sup> So in original. Probably should be subclause “(III)”.
 
 under this clause directing a contract market to alter or supplement a contract market rule shall be subject to review only in the Court of Appeals where the party seeking review resides or has its principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit. The review shall be based on the examination of all information before the Board or the Commission, as the case may be, at the time the determination was made. The court reviewing the action of the Board or the Commission shall not enter a stay or order of mandamus unless the court has determined, after notice and a hearing before a panel of the court, that the agency action complained of was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
@@ -1377,9 +1377,9 @@ under this clause directing a contract market to alter or supplement a contract 
 
 **(I)** any statutory authority of the Commission with respect to an agreement, contract, or transaction described in clause (i); or
 
-**(II)** the jurisdiction of the Commission under subparagraph (A) with respect to an agreement, contract, or transaction that is executed, traded, or cleared on a registered entity or trading facility that is not owned or operated by a regional transmission organization or independent system operator (as defined by sections 4
+**(II)** the jurisdiction of the Commission under subparagraph (A) with respect to an agreement, contract, or transaction that is executed, traded, or cleared on a registered entity or trading facility that is not owned or operated by a regional transmission organization or independent system operator (as defined by sections 4
 
-<sup>4</sup>  So in original. Probably should be “section”.
+<sup>4</sup> So in original. Probably should be “section”.
 
 796(27) and (28) of title 16).
 
@@ -1583,7 +1583,7 @@ For the purposes of this chapter (but not in any wise limiting the foregoing def
 
 **(1) In general** Except as provided in paragraph (2), nothing in this chapter (other than section,5
 
-<sup>5</sup>  So in original.
+<sup>5</sup> So in original.
 
 7a–1,5 or 16(e)(2)(B) of this title) governs or applies to an agreement, contract, or transaction in—
 
@@ -1635,9 +1635,9 @@ For the purposes of this chapter (but not in any wise limiting the foregoing def
 
 **(dd)** a financial holding company (as defined in section 1841 of title 12); or
 
-**(ff)**  6
+**(ff)** 6
 
-<sup>6</sup>  So in original. No item (ee) has been enacted.
+<sup>6</sup> So in original. No item (ee) has been enacted.
 
 a retail foreign exchange dealer that maintains adjusted net capital equal to or in excess of the dollar amount that applies for purposes of clause (ii) of this subparagraph and is registered in such capacity with the Commission, subject to such terms and conditions as the Commission shall prescribe, and is a member of a futures association registered under section 21 of this title.
 
@@ -1653,7 +1653,7 @@ a retail foreign exchange dealer that maintains adjusted net capital equal to or
 
 **(iv)**
 
-**(I)** Notwithstanding items (cc) and (gg) <sup>1</sup> of clause (i)(II), a person, unless registered in such capacity as the Commission by rule, regulation, or order shall determine and a member of a futures association registered under section 21 of this title, shall not—
+**(I)** Notwithstanding items (cc) and (gg) <sup>1</sup> of clause (i)(II), a person, unless registered in such capacity as the Commission by rule, regulation, or order shall determine and a member of a futures association registered under section 21 of this title, shall not—
 
 **(aa)** solicit or accept orders from any person that is not an eligible contract participant in connection with agreements, contracts, or transactions described in clause (i) entered into with or to be entered into with a person who is not described in item (aa), (bb), (ee),<sup>1</sup> or (ff) of clause (i)(II);
 
@@ -1669,7 +1669,7 @@ a retail foreign exchange dealer that maintains adjusted net capital equal to or
 
 **(cc)** any person who would be exempt from registration if engaging in the same activities in connection with transactions conducted on or subject to the rules of a contract market or a derivatives transaction execution facility.
 
-**(III)** Notwithstanding items (cc) and (gg) <sup>1</sup> of clause (i)(II), the Commission may make, promulgate, and enforce such rules and regulations as, in the judgment of the Commission, are reasonably necessary to effectuate any of the provisions of, or to accomplish any of the purposes of, this chapter in connection with the activities of persons subject to subclause (I).
+**(III)** Notwithstanding items (cc) and (gg) <sup>1</sup> of clause (i)(II), the Commission may make, promulgate, and enforce such rules and regulations as, in the judgment of the Commission, are reasonably necessary to effectuate any of the provisions of, or to accomplish any of the purposes of, this chapter in connection with the activities of persons subject to subclause (I).
 
 **(IV)** Subclause (III) of this clause shall not apply to—
 
@@ -1679,7 +1679,7 @@ a retail foreign exchange dealer that maintains adjusted net capital equal to or
 
 **(cc)** any person who would be exempt from registration if engaging in the same activities in connection with transactions conducted on or subject to the rules of a contract market or a derivatives transaction execution facility.
 
-**(v)** Notwithstanding items (cc) and (gg) <sup>1</sup> of clause (i)(II), the Commission may make, promulgate, and enforce such rules and regulations as, in the judgment of the Commission, are reasonably necessary to effectuate any of the provisions of, or to accomplish any of the purposes of, this chapter in connection with agreements, contracts, or transactions described in clause (i) which are offered, or entered into, by a person described in item (cc) or (gg) <sup>1</sup> of clause (i)(II).
+**(v)** Notwithstanding items (cc) and (gg) <sup>1</sup> of clause (i)(II), the Commission may make, promulgate, and enforce such rules and regulations as, in the judgment of the Commission, are reasonably necessary to effectuate any of the provisions of, or to accomplish any of the purposes of, this chapter in connection with agreements, contracts, or transactions described in clause (i) which are offered, or entered into, by a person described in item (cc) or (gg) <sup>1</sup> of clause (i)(II).
 
 **(vi)** This chapter applies to, and the Commission shall have jurisdiction over, an account or pooled investment vehicle that is offered for the purpose of trading, or that trades, any agreement, contract, or transaction in foreign currency described in clause (i).
 
@@ -1761,9 +1761,9 @@ a retail foreign exchange dealer that maintains adjusted net capital equal to or
 
 **(ii) Exceptions** This subparagraph shall not apply to—
 
-**(I)** an agreement, contract, or transaction described in paragraph (1) or subparagraphs 7
+**(I)** an agreement, contract, or transaction described in paragraph (1) or subparagraphs 7
 
-<sup>7</sup>  So in original. Probably should be “subparagraph”.
+<sup>7</sup> So in original. Probably should be “subparagraph”.
 
 (A), (B), or (C), including any agreement, contract, or transaction specifically excluded from subparagraph (A), (B), or (C);
 
@@ -2067,9 +2067,9 @@ Such definition shall not include an entity whose primary business is providing 
 
 **(VII)** a private fund, as defined in section 80b–2(a) of title 15;
 
-**(VIII)** an employee benefit plan or government 8
+**(VIII)** an employee benefit plan or government 8
 
-<sup>8</sup>  So in original. Probably should be “governmental”.
+<sup>8</sup> So in original. Probably should be “governmental”.
 
 plan, as defined in paragraphs (3) and (32) of section 1002 of title 29;
 
@@ -2129,9 +2129,9 @@ The Commission may prescribe such rules or issue interpretations of the rules as
 
 **(i)** execute the transaction on a board of trade designated as a contract market under section 7 of this title; or
 
-**(ii)** execute the transaction on a swap execution facility registered under 7b–3 9
+**(ii)** execute the transaction on a swap execution facility registered under 7b–3 9
 
-<sup>9</sup>  So in original. Probably should be preceded by “section”.
+<sup>9</sup> So in original. Probably should be preceded by “section”.
 
 of this title or a swap execution facility that is exempt from registration under section 7b–3(f) of this title.
 
@@ -2149,25 +2149,25 @@ The requirements of clauses (i) and (ii) of subparagraph (A) shall not apply if 
 
 Exemptions from the requirements of subsection (h)(1) to clear a swap and subsection (h)(8) to execute a swap through a board of trade or swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78*l*) or that is required to file reports pursuant to section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78*o*[d]) only if an appropriate committee of the issuer’s board or governing body has reviewed and approved its decision to enter into swaps that are subject to such exemptions.
 
-(Sept. 21, 1922, ch. 369, § 2, 42 Stat. 998; June 15, 1936, ch. 545, §§ 2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, § 1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, § 710(a), 68 Stat. 913; July 26, 1955, ch. 382, § 1, 69 Stat. 375; Pub. L. 90–258, § 1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, § 101(a), title II, §§ 201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, § 2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, § 101, title II, §§ 201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, § 110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§ 209(b)(1), 215, 226, title IV, § 404(b), title V, § 501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, § 1(a)(5) [title I, §§ 102—105(b), 106, 107, 123(a)(2), title II, § 251(a), (b), (i), (j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, § 10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§ 13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, § 4(a), title XIII, §§ 13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§ 717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749; Pub. L. 114–113, div. O, title VII, § 705(a), Dec. 18, 2015, 129 Stat. 3025; Pub. L. 117–286, § 4(a)(19), Dec. 27, 2022, 136 Stat. 4307.)
+(Sept. 21, 1922, ch. 369, § 2, 42 Stat. 998; June 15, 1936, ch. 545, §§ 2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, § 1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, § 710(a), 68 Stat. 913; July 26, 1955, ch. 382, § 1, 69 Stat. 375; Pub. L. 90–258, § 1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, § 101(a), title II, §§ 201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, § 2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, § 101, title II, §§ 201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, § 110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§ 209(b)(1), 215, 226, title IV, § 404(b), title V, § 501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, § 1(a)(5) [title I, §§ 102—105(b), 106, 107, 123(a)(2), title II, § 251(a), (b), (i), (j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, § 10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§ 13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, § 4(a), title XIII, §§ 13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§ 717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749; Pub. L. 114–113, div. O, title VII, § 705(a), Dec. 18, 2015, 129 Stat. 3025; Pub. L. 117–286, § 4(a)(19), Dec. 27, 2022, 136 Stat. 4307.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wall Street Transparency and Accountability Act of 2010, referred to in subsecs. (a)(1)(A), (G)(i), (H) and (i), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
+The Wall Street Transparency and Accountability Act of 2010, referred to in subsecs. (a)(1)(A), (G)(i), (H) and (i), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
 
-Section 77b(1) of title 15, referred to in subsec. (a)(1)(C)(i)(I), was redesignated section 77b(a)(1) of title 15 by Pub. L. 104–290, title I, § 106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
+Section 77b(1) of title 15, referred to in subsec. (a)(1)(C)(i)(I), was redesignated section 77b(a)(1) of title 15 by Pub. L. 104–290, title I, § 106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(1)(D)(i)(VI), (iii)(II), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(1)(D)(i)(VI), (iii)(II), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 The date of the enactment of this clause and such date of enactment, referred to in subsec. (c)(2)(B)(ii), are the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-Item (ee) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (II)(aa), (C)(i)(I)(aa), (ii)(II)(aa), (iii)(I), (II)(aa), was redesignated item (dd) by Pub. L. 111–203, title VII, § 742(c)(1)(C), July 21, 2010, 124 Stat. 1733.
+Item (ee) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (II)(aa), (C)(i)(I)(aa), (ii)(II)(aa), (iii)(I), (II)(aa), was redesignated item (dd) by Pub. L. 111–203, title VII, § 742(c)(1)(C), July 21, 2010, 124 Stat. 1733.
 
-Item (gg) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (III), (v), was redesignated item (ff) by Pub. L. 111–203, title VII, § 742(c)(1)(C), July 21, 2010, 124 Stat. 1733.
+Item (gg) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (III), (v), was redesignated item (ff) by Pub. L. 111–203, title VII, § 742(c)(1)(C), July 21, 2010, 124 Stat. 1733.
 
-The Commodity Futures Modernization Act of 2000, referred to in subsec. (g)(1)(A), (2), is H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–365. Title IV of the Act, known as the Legal Certainty for Bank Products Act of 2000, is classified to sections 27 to 27f of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of this title, and Tables.
+The Commodity Futures Modernization Act of 2000, referred to in subsec. (g)(1)(A), (2), is H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–365. Title IV of the Act, known as the Legal Certainty for Bank Products Act of 2000, is classified to sections 27 to 27f of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of this title, and Tables.
 
 For the effective date of this subsection and such effective date, referred to in subsec. (h)(5)(A), (B)(i), see Effective Date of 2010 Amendment note below.
 
@@ -2183,209 +2183,209 @@ Subsec. (a)(1)(B) of this section was formerly classified to section 4 of this t
 
 2015—Subsec. (h)(7)(D). Pub. L. 114–113 added cls. (i) to (iv) and (vi), redesignated former cl. (iii) as (v), and struck out former cls. (i) and (ii) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
 
-2010—Subsec. (a)(1)(A). Pub. L. 111–203, § 734(b)(1)(A), which directed amendment of subpar. (A) by striking “or 7a”, could not be executed because of prior amendment by Pub. L. 111–203, § 722(a)(1). See below.
+2010—Subsec. (a)(1)(A). Pub. L. 111–203, § 734(b)(1)(A), which directed amendment of subpar. (A) by striking “or 7a”, could not be executed because of prior amendment by Pub. L. 111–203, § 722(a)(1). See below.
 
-Pub. L. 111–203, § 722(a)(1), inserted “the Wall Street Transparency and Accountability Act of 2010 (including an amendment made by that Act) and” after “otherwise provided in” and substituted “(C), (D), and (I)” for “(C) and (D)”, “(c) and (f)” for “(c) through (i) of this section”, “swaps or contracts of sale” for “contracts of sale”, and “pursuant to section 7 of this title or a swap execution facility pursuant to section 7b–3 of this title” for “or derivatives transaction execution facility registered pursuant to section 7 or 7a of this title”.
+Pub. L. 111–203, § 722(a)(1), inserted “the Wall Street Transparency and Accountability Act of 2010 (including an amendment made by that Act) and” after “otherwise provided in” and substituted “(C), (D), and (I)” for “(C) and (D)”, “(c) and (f)” for “(c) through (i) of this section”, “swaps or contracts of sale” for “contracts of sale”, and “pursuant to section 7 of this title or a swap execution facility pursuant to section 7b–3 of this title” for “or derivatives transaction execution facility registered pursuant to section 7 or 7a of this title”.
 
-Subsec. (a)(1)(C)(i). Pub. L. 111–203, § 717(a), designated existing provisions as subcl. (I), substituted “Except as provided in subclause (II), this” for “This”, and added subcl. (II).
+Subsec. (a)(1)(C)(i). Pub. L. 111–203, § 717(a), designated existing provisions as subcl. (I), substituted “Except as provided in subclause (II), this” for “This”, and added subcl. (II).
 
-Subsec. (a)(1)(G), (H). Pub. L. 111–203, § 722(a)(2), added subpars. (G) and (H).
+Subsec. (a)(1)(G), (H). Pub. L. 111–203, § 722(a)(2), added subpars. (G) and (H).
 
-Subsec. (a)(1)(I). Pub. L. 111–203, § 722(e), added subpar. (I).
+Subsec. (a)(1)(I). Pub. L. 111–203, § 722(e), added subpar. (I).
 
-Subsec. (a)(13), (14). Pub. L. 111–203, § 727, added pars. (13) and (14).
+Subsec. (a)(13), (14). Pub. L. 111–203, § 727, added pars. (13) and (14).
 
-Subsec. (a)(15). Pub. L. 111–203, § 751, added par. (15).
+Subsec. (a)(15). Pub. L. 111–203, § 751, added par. (15).
 
-Subsec. (c)(1). Pub. L. 111–203, § 742(a)(1), substituted “, 7a–1, or 16(e)(2)(B) of this title)” for “7a (to the extent provided in section 7a(g) of this title), 7a–1, 7a–3, or 16(e)(2)(B) of this title)”.
+Subsec. (c)(1). Pub. L. 111–203, § 742(a)(1), substituted “, 7a–1, or 16(e)(2)(B) of this title)” for “7a (to the extent provided in section 7a(g) of this title), 7a–1, 7a–3, or 16(e)(2)(B) of this title)”.
 
-Subsec. (c)(2)(A)(ii), (iii). Pub. L. 111–203, § 722(c), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (c)(2)(A)(ii), (iii). Pub. L. 111–203, § 722(c), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (c)(2)(B). Pub. L. 111–203, § 741(b)(8)(A), struck out “(dd),” before “(ee),” wherever appearing.
+Subsec. (c)(2)(B). Pub. L. 111–203, § 741(b)(8)(A), struck out “(dd),” before “(ee),” wherever appearing.
 
-Subsec. (c)(2)(B)(i)(II)(aa). Pub. L. 111–203, § 742(c)(1)(A), inserted “United States” before “financial institution”.
+Subsec. (c)(2)(B)(i)(II)(aa). Pub. L. 111–203, § 742(c)(1)(A), inserted “United States” before “financial institution”.
 
-Subsec. (c)(2)(B)(i)(II)(cc). Pub. L. 111–203, § 721(e)(1)(A), substituted “section 1a” for “section 1a(20)” in two places.
+Subsec. (c)(2)(B)(i)(II)(cc). Pub. L. 111–203, § 721(e)(1)(A), substituted “section 1a” for “section 1a(20)” in two places.
 
-Subsec. (c)(2)(B)(i)(II)(dd). Pub. L. 111–203, § 742(c)(1)(B)–(D), redesignated item (ee) as (dd), substituted “; or” for semicolon at end, and struck out former item (dd) which read as follows: “an insurance company described in section 1a(18)(A)(ii) of this title, or a regulated subsidiary or affiliate of such an insurance company;”.
+Subsec. (c)(2)(B)(i)(II)(dd). Pub. L. 111–203, § 742(c)(1)(B)–(D), redesignated item (ee) as (dd), substituted “; or” for semicolon at end, and struck out former item (dd) which read as follows: “an insurance company described in section 1a(18)(A)(ii) of this title, or a regulated subsidiary or affiliate of such an insurance company;”.
 
-Pub. L. 111–203, § 721(e)(1)(B), substituted “section 1a(18)(A)(ii)” for “section 1a(12)(A)(ii)”.
+Pub. L. 111–203, § 721(e)(1)(B), substituted “section 1a(18)(A)(ii)” for “section 1a(12)(A)(ii)”.
 
-Subsec. (c)(2)(B)(i)(II)(ee) to (gg). Pub. L. 111–203, § 742(c)(1)(B), (C), redesignated items (ee) and (gg) as (dd) and (ff), respectively, and struck out former item (ff) which read as follows: “an investment bank holding company (as defined in section 17(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78q(i))); or”.
+Subsec. (c)(2)(B)(i)(II)(ee) to (gg). Pub. L. 111–203, § 742(c)(1)(B), (C), redesignated items (ee) and (gg) as (dd) and (ff), respectively, and struck out former item (ff) which read as follows: “an investment bank holding company (as defined in section 17(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78q(i))); or”.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 111–203, § 741(b)(8)(B), inserted “, and accounts or pooled investment vehicles described in clause (vi),” before “shall be subject to”.
+Subsec. (c)(2)(B)(iii). Pub. L. 111–203, § 741(b)(8)(B), inserted “, and accounts or pooled investment vehicles described in clause (vi),” before “shall be subject to”.
 
-Subsec. (c)(2)(B)(vi). Pub. L. 111–203, § 741(b)(8)(C), added cl. (vi).
+Subsec. (c)(2)(B)(vi). Pub. L. 111–203, § 741(b)(8)(C), added cl. (vi).
 
-Subsec. (c)(2)(C). Pub. L. 111–203, § 741(b)(9)(A), struck out “(dd),” before “(ee),” wherever appearing.
+Subsec. (c)(2)(C). Pub. L. 111–203, § 741(b)(9)(A), struck out “(dd),” before “(ee),” wherever appearing.
 
-Subsec. (c)(2)(C)(ii)(I). Pub. L. 111–203, § 741(b)(9)(B), inserted “, and accounts or pooled investment vehicles described in clause (vii),” before “shall be subject to”.
+Subsec. (c)(2)(C)(ii)(I). Pub. L. 111–203, § 741(b)(9)(B), inserted “, and accounts or pooled investment vehicles described in clause (vii),” before “shall be subject to”.
 
-Subsec. (c)(2)(C)(vii). Pub. L. 111–203, § 741(b)(9)(C), added cl. (vii).
+Subsec. (c)(2)(C)(vii). Pub. L. 111–203, § 741(b)(9)(C), added cl. (vii).
 
-Subsec. (c)(2)(D). Pub. L. 111–203, § 742(a)(2), added subpar. (D).
+Subsec. (c)(2)(D). Pub. L. 111–203, § 742(a)(2), added subpar. (D).
 
-Subsec. (c)(2)(E). Pub. L. 111–203, § 742(c)(2), added subpar. (E).
+Subsec. (c)(2)(E). Pub. L. 111–203, § 742(c)(2), added subpar. (E).
 
-Subsecs. (d), (e). Pub. L. 111–203, § 723(a)(1)(A), (2), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which related to excluded derivative transactions and excluded electronic trading facilities, respectively.
+Subsecs. (d), (e). Pub. L. 111–203, § 723(a)(1)(A), (2), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which related to excluded derivative transactions and excluded electronic trading facilities, respectively.
 
-Subsec. (g). Pub. L. 111–203, § 723(a)(1), redesignated subsec. (i) as (g) and struck out former subsec. (g) which related to excluded swap transactions.
+Subsec. (g). Pub. L. 111–203, § 723(a)(1), redesignated subsec. (i) as (g) and struck out former subsec. (g) which related to excluded swap transactions.
 
-Subsec. (g)(2). Pub. L. 111–203, § 734(b)(1)(B), substituted “section 7a–1 of this title” for “section 7a of this title (to the extent provided in section 7a(g) of this title), 7a–1 of this title, or 7a–3 of this title”.
+Subsec. (g)(2). Pub. L. 111–203, § 734(b)(1)(B), substituted “section 7a–1 of this title” for “section 7a of this title (to the extent provided in section 7a(g) of this title), 7a–1 of this title, or 7a–3 of this title”.
 
-Subsec. (h). Pub. L. 111–203, § 723(a)(1)(A), (3), added subsec. (h) and struck out former subsec. (h) which related to legal certainty for certain transactions in exempt commodities.
+Subsec. (h). Pub. L. 111–203, § 723(a)(1)(A), (3), added subsec. (h) and struck out former subsec. (h) which related to legal certainty for certain transactions in exempt commodities.
 
-Subsec. (i). Pub. L. 111–203, § 723(a)(1)(B), which directed redesignation of subsec. (i) as (g), was executed by redesignating the subsec. (i) added by Pub. L. 106–554, § 1(a)(5) [title I, § 107], relating to application of commodity futures laws, as (g), to reflect the probable intent of Congress. Another subsec. (i), relating to applicability of certain swaps provisions, was added by Pub. L. 111–203, § 722(d). See below.
+Subsec. (i). Pub. L. 111–203, § 723(a)(1)(B), which directed redesignation of subsec. (i) as (g), was executed by redesignating the subsec. (i) added by Pub. L. 106–554, § 1(a)(5) [title I, § 107], relating to application of commodity futures laws, as (g), to reflect the probable intent of Congress. Another subsec. (i), relating to applicability of certain swaps provisions, was added by Pub. L. 111–203, § 722(d). See below.
 
-Pub. L. 111–203, § 722(d), added subsec. (i) relating to applicability of certain swaps provisions.
+Pub. L. 111–203, § 722(d), added subsec. (i) relating to applicability of certain swaps provisions.
 
-Subsec. (j). Pub. L. 111–203, § 723(b), added subsec. (j).
+Subsec. (j). Pub. L. 111–203, § 723(b), added subsec. (j).
 
-2008—Subsec. (a)(1)(A). Pub. L. 110–246, § 13203(c), inserted “(including significant price discovery contracts)” after “future delivery”.
+2008—Subsec. (a)(1)(A). Pub. L. 110–246, § 13203(c), inserted “(including significant price discovery contracts)” after “future delivery”.
 
-Subsec. (c)(2)(B), (C). Pub. L. 110–246, § 13101(a), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to: in subpar. (B), applicability of chapter to an agreement, contract, or transaction in foreign currency that was a contract of sale of a commodity for future delivery or an option on such a contract and was offered to, or entered into with, a person who was not an eligible contract participant, unless the counterparty, or the person offering to be the counterparty, of the person was a financial institution, a registered broker or dealer or a registered futures commission merchant, an associated person of a registered broker or dealer or an affiliated person of a registered futures commission merchant, an insurance company or a regulated subsidiary or affiliate of such an insurance company, a financial holding company, or an investment bank holding company; and, in subpar. (C), applicability of sections 6b, 6c(b), 9, 12(a), 13a–1, 13a–2, 13b, and 15 of this title to agreements, contracts, or transactions described in former subpar. (B).
+Subsec. (c)(2)(B), (C). Pub. L. 110–246, § 13101(a), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to: in subpar. (B), applicability of chapter to an agreement, contract, or transaction in foreign currency that was a contract of sale of a commodity for future delivery or an option on such a contract and was offered to, or entered into with, a person who was not an eligible contract participant, unless the counterparty, or the person offering to be the counterparty, of the person was a financial institution, a registered broker or dealer or a registered futures commission merchant, an associated person of a registered broker or dealer or an affiliated person of a registered futures commission merchant, an insurance company or a regulated subsidiary or affiliate of such an insurance company, a financial holding company, or an investment bank holding company; and, in subpar. (C), applicability of sections 6b, 6c(b), 9, 12(a), 13a–1, 13a–2, 13b, and 15 of this title to agreements, contracts, or transactions described in former subpar. (B).
 
-Subsec. (h)(3). Pub. L. 110–246, § 13203(d), substituted “paragraphs (4) and (7)” for “paragraph (4)” in introductory provisions.
+Subsec. (h)(3). Pub. L. 110–246, § 13203(d), substituted “paragraphs (4) and (7)” for “paragraph (4)” in introductory provisions.
 
-Subsec. (h)(4)(B). Pub. L. 110–246, § 13203(e)(1), inserted “and, for a significant price discovery contract, requiring large trader reporting,” after “proscribing fraud”.
+Subsec. (h)(4)(B). Pub. L. 110–246, § 13203(e)(1), inserted “and, for a significant price discovery contract, requiring large trader reporting,” after “proscribing fraud”.
 
-Subsec. (h)(4)(D), (E). Pub. L. 110–246, § 13203(e)(2), (3), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: “such rules and regulations as the Commission may prescribe if necessary to ensure timely dissemination by the electronic trading facility of price, trading volume, and other trading data to the extent appropriate, if the Commission determines that the electronic trading facility performs a significant price discovery function for transactions in the cash market for the commodity underlying any agreement, contract, or transaction executed or traded on the electronic trading facility.”
+Subsec. (h)(4)(D), (E). Pub. L. 110–246, § 13203(e)(2), (3), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: “such rules and regulations as the Commission may prescribe if necessary to ensure timely dissemination by the electronic trading facility of price, trading volume, and other trading data to the extent appropriate, if the Commission determines that the electronic trading facility performs a significant price discovery function for transactions in the cash market for the commodity underlying any agreement, contract, or transaction executed or traded on the electronic trading facility.”
 
-Subsec. (h)(5)(B)(iii)(I). Pub. L. 110–246, § 13203(f), inserted “or to make the determination described in subparagraph (B) of paragraph (7)” after “paragraph (4)”.
+Subsec. (h)(5)(B)(iii)(I). Pub. L. 110–246, § 13203(f), inserted “or to make the determination described in subparagraph (B) of paragraph (7)” after “paragraph (4)”.
 
-Subsec. (h)(7). Pub. L. 110–246, § 13201(b), added par. (7).
+Subsec. (h)(7). Pub. L. 110–246, § 13201(b), added par. (7).
 
 2002—Subsec. (a)(7) to (12). Pub. L. 107–171 added par. (7) and redesignated former pars. (7) to (11) as (8) to (12), respectively.
 
-2000—Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(A)], inserted section catchline.
+2000—Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(A)], inserted section catchline.
 
-Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(A)], inserted headings for subsec. (a) and par. (1).
+Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(A)], inserted headings for subsec. (a) and par. (1).
 
-Subsec. (a)(1)(A). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(i)(II)], substituted “contract market designated or derivatives transaction execution facility registered pursuant to section 7 or 7a of this title” for “contract market designated pursuant to section 7 of this title”.
+Subsec. (a)(1)(A). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(i)(II)], substituted “contract market designated or derivatives transaction execution facility registered pursuant to section 7 or 7a of this title” for “contract market designated pursuant to section 7 of this title”.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(i)(I)], which directed substitution of “subparagraphs (C) and (D) of this paragraph and subsections (c) through (i) of this section” for “subparagraph (B) of this subparagraph”, was executed by making the substitution for “subparagraph (B) of this paragraph” to reflect the probable intent of Congress.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(i)(I)], which directed substitution of “subparagraphs (C) and (D) of this paragraph and subsections (c) through (i) of this section” for “subparagraph (B) of this subparagraph”, was executed by making the substitution for “subparagraph (B) of this paragraph” to reflect the probable intent of Congress.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(A)], inserted heading and struck out “(i)” before “The Commission shall have”.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(A)], inserted heading and struck out “(i)” before “The Commission shall have”.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(i)(III)], struck out cl. (ii) which read as follows: “Nothing in this chapter shall be deemed to govern or in any way be applicable to transactions in foreign currency, security warrants, security rights, resales of installment loan contracts, repurchase options, government securities, or mortgages and mortgage purchase commitments, unless such transactions involve the sale thereof for future delivery conducted on a board of trade.”
+Subsec. (a)(1)(A)(ii). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(i)(III)], struck out cl. (ii) which read as follows: “Nothing in this chapter shall be deemed to govern or in any way be applicable to transactions in foreign currency, security warrants, security rights, resales of installment loan contracts, repurchase options, government securities, or mortgages and mortgage purchase commitments, unless such transactions involve the sale thereof for future delivery conducted on a board of trade.”
 
-Subsec. (a)(1)(B). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(i)(IV)], redesignated subsec. (a)(1)(A)(iii) as subsec. (a)(1)(B) and inserted heading. Former subsec. (a)(1)(B) redesignated (a)(1)(C).
+Subsec. (a)(1)(B). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(i)(IV)], redesignated subsec. (a)(1)(A)(iii) as subsec. (a)(1)(B) and inserted heading. Former subsec. (a)(1)(B) redesignated (a)(1)(C).
 
-Subsec. (a)(1)(C). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(I)], redesignated subpar. (B) as (C).
+Subsec. (a)(1)(C). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(I)], redesignated subpar. (B) as (C).
 
-Subsec. (a)(1)(C)(i). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(III)], adjusted margins.
+Subsec. (a)(1)(C)(i). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(III)], adjusted margins.
 
-Subsec. (a)(1)(C)(ii). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(A)(iii)], substituted “or the derivatives transaction execution facility, and the applicable contract, meet” for “making such application demonstrates and the Commission expressly finds that the specific contract (or option on such contract) with respect to which the application has been made meets” in introductory provisions.
+Subsec. (a)(1)(C)(ii). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(A)(iii)], substituted “or the derivatives transaction execution facility, and the applicable contract, meet” for “making such application demonstrates and the Commission expressly finds that the specific contract (or option on such contract) with respect to which the application has been made meets” in introductory provisions.
 
-Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(A)(ii)], which directed insertion of “, and no derivatives transaction execution facility shall trade or execute such contracts of sale (or options on such contracts) for future delivery,” after “contracts) for future delivery”, was executed by making the insertion in the proviso in introductory provisions to reflect the probable intent of Congress.
+Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(A)(ii)], which directed insertion of “, and no derivatives transaction execution facility shall trade or execute such contracts of sale (or options on such contracts) for future delivery,” after “contracts) for future delivery”, was executed by making the insertion in the proviso in introductory provisions to reflect the probable intent of Congress.
 
-Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(A)(i)], inserted “or register a derivatives transaction execution facility that trades or executes,” after “contract market in,” in introductory provisions.
+Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(A)(i)], inserted “or register a derivatives transaction execution facility that trades or executes,” after “contract market in,” in introductory provisions.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(III)], adjusted margins.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(III)], adjusted margins.
 
-Subsec. (a)(1)(C)(ii)(III). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(A)(iv)], added subcl. (III) and struck out former subcl. (III) which read as follows: “Such group or index of securities shall be predominately composed of the securities of unaffiliated issuers and shall be a widely published measure of, and shall reflect, the market for all publicly traded equity or debt securities or a substantial segment thereof, or shall be comparable to such measure.”
+Subsec. (a)(1)(C)(ii)(III). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(A)(iv)], added subcl. (III) and struck out former subcl. (III) which read as follows: “Such group or index of securities shall be predominately composed of the securities of unaffiliated issuers and shall be a widely published measure of, and shall reflect, the market for all publicly traded equity or debt securities or a substantial segment thereof, or shall be comparable to such measure.”
 
-Subsec. (a)(1)(C)(iii). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(B), (C)], added cl. (iii) and struck out former cl. (iii) which read as follows: “Upon application by a board of trade for designation as a contract market with respect to any contract of sale (or option on such contract) for future delivery involving a group or index of securities, the Commission shall provide an opportunity for public comment on whether such contracts (or options on such contracts) meet the minimum requirements set forth in clause (ii) of this subparagraph.”
+Subsec. (a)(1)(C)(iii). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(B), (C)], added cl. (iii) and struck out former cl. (iii) which read as follows: “Upon application by a board of trade for designation as a contract market with respect to any contract of sale (or option on such contract) for future delivery involving a group or index of securities, the Commission shall provide an opportunity for public comment on whether such contracts (or options on such contracts) meet the minimum requirements set forth in clause (ii) of this subparagraph.”
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(III)], adjusted margins.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(III)], adjusted margins.
 
-Subsec. (a)(1)(C)(iv). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(C), (D)], redesignated cl. (v) as (iv) and struck out former cl. (iv) which related to consultation by the Commission with, and the authority of, the Securities and Exchange Commission with respect to approval of any application by a Board of Trade for designation as a contract market with respect to any contract of sale (or option of such contract) for future delivery of a group or index of securities.
+Subsec. (a)(1)(C)(iv). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(C), (D)], redesignated cl. (v) as (iv) and struck out former cl. (iv) which related to consultation by the Commission with, and the authority of, the Securities and Exchange Commission with respect to approval of any application by a Board of Trade for designation as a contract market with respect to any contract of sale (or option of such contract) for future delivery of a group or index of securities.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(III)], adjusted margins.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(III)], adjusted margins.
 
-Subsec. (a)(1)(C)(v). Pub. L. 106–554, § 1(a)(5) [title II, § 251(b)(2)], redesignated cl. (vi) as (v), added subcls. (I) to (V), and struck out former subcls. (I) to (IV) which required any contract market in a stock index futures contract (or option thereon) to file with the Board of Governors of the Federal Reserve System any rule establishing or changing the levels of margin for the stock index futures contract (or option thereon), authorized the Board to request any contract market to set the margins at certain levels, authorized the Board to delegate its authority under this clause to the Commission, and preserved the authority of the Commission to raise temporary emergency margin levels.
+Subsec. (a)(1)(C)(v). Pub. L. 106–554, § 1(a)(5) [title II, § 251(b)(2)], redesignated cl. (vi) as (v), added subcls. (I) to (V), and struck out former subcls. (I) to (IV) which required any contract market in a stock index futures contract (or option thereon) to file with the Board of Governors of the Federal Reserve System any rule establishing or changing the levels of margin for the stock index futures contract (or option thereon), authorized the Board to request any contract market to set the margins at certain levels, authorized the Board to delegate its authority under this clause to the Commission, and preserved the authority of the Commission to raise temporary emergency margin levels.
 
-Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(D)], redesignated cl. (v) as (iv).
+Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(1)(D)], redesignated cl. (v) as (iv).
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(II), (III)], struck out “section 77c of title 15” after “exempted security under”, inserted “or subparagraph (D)” after “subparagraph”, and adjusted margins.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(B)(ii)(II), (III)], struck out “section 77c of title 15” after “exempted security under”, inserted “or subparagraph (D)” after “subparagraph”, and adjusted margins.
 
-Subsec. (a)(1)(C)(vi). Pub. L. 106–554, § 1(a)(5) [title II, § 251(b)(2)], redesignated cl. (vi) as (v).
+Subsec. (a)(1)(C)(vi). Pub. L. 106–554, § 1(a)(5) [title II, § 251(b)(2)], redesignated cl. (vi) as (v).
 
-Pub. L. 106–554, § 1(a)(5) [title II, § 251(b)(1)], redesignated subcl. (V) as (VI).
+Pub. L. 106–554, § 1(a)(5) [title II, § 251(b)(1)], redesignated subcl. (V) as (VI).
 
-Subsec. (a)(1)(D). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(2)], added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 106–554, § 1(a)(5) [title II, § 251(a)(2)], added subpar. (D).
 
-Subsec. (a)(1)(E). Pub. L. 106–554, § 1(a)(5) [title II, § 251(i)], added subpar. (E).
+Subsec. (a)(1)(E). Pub. L. 106–554, § 1(a)(5) [title II, § 251(i)], added subpar. (E).
 
-Subsec. (a)(1)(F). Pub. L. 106–554, § 1(a)(5) [title II, § 251(j)], added subpar. (F).
+Subsec. (a)(1)(F). Pub. L. 106–554, § 1(a)(5) [title II, § 251(j)], added subpar. (F).
 
-Subsec. (a)(2) to (6). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(E)], adjusted margins.
+Subsec. (a)(2) to (6). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(E)], adjusted margins.
 
-Subsec. (a)(7). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(C), (E)], substituted “registered entity” for “contract market” and adjusted margins.
+Subsec. (a)(7). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(C), (E)], substituted “registered entity” for “contract market” and adjusted margins.
 
-Subsec. (a)(8). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(E)], adjusted margins.
+Subsec. (a)(8). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(E)], adjusted margins.
 
-Subsec. (a)(8)(B)(ii). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(D)(iii)], in last sentence, substituted “designating, registering, or refusing, suspending, or revoking the designation or registration of, a board of trade as a contract market or derivatives transaction execution facility involving transactions for future delivery referred to in this clause or in considering any possible action under this chapter (including without limitation emergency action under section 12a(9) of this title)” for “designating, or refusing, suspending, or revoking the designation of, a board of trade as a contract market involving transactions for future delivery referred to in this clause or in considering possible emergency action under section 12a(9) of this title” and “designation, registration, suspension, revocation, or action” for “designation, suspension, revocation, or emergency action”.
+Subsec. (a)(8)(B)(ii). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(D)(iii)], in last sentence, substituted “designating, registering, or refusing, suspending, or revoking the designation or registration of, a board of trade as a contract market or derivatives transaction execution facility involving transactions for future delivery referred to in this clause or in considering any possible action under this chapter (including without limitation emergency action under section 12a(9) of this title)” for “designating, or refusing, suspending, or revoking the designation of, a board of trade as a contract market involving transactions for future delivery referred to in this clause or in considering possible emergency action under section 12a(9) of this title” and “designation, registration, suspension, revocation, or action” for “designation, suspension, revocation, or emergency action”.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(D)(ii)], substituted “designate or register a board of trade as a contract market or derivatives transaction execution facility” for “designate a board of trade as a contract market” in second sentence.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(D)(ii)], substituted “designate or register a board of trade as a contract market or derivatives transaction execution facility” for “designate a board of trade as a contract market” in second sentence.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(D)(i)], substituted “designation or registration as a contract market or derivatives transaction execution facility” for “designation as a contract market” in first sentence.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(D)(i)], substituted “designation or registration as a contract market or derivatives transaction execution facility” for “designation as a contract market” in first sentence.
 
-Subsec. (a)(9). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(E)], adjusted margins.
+Subsec. (a)(9). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(2)(E)], adjusted margins.
 
-Subsec. (c). Pub. L. 106–554, § 1(a)(5) [title I, § 102], added subsec. (c).
+Subsec. (c). Pub. L. 106–554, § 1(a)(5) [title I, § 102], added subsec. (c).
 
-Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title I, § 103], added subsec. (d).
+Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title I, § 103], added subsec. (d).
 
-Subsec. (e). Pub. L. 106–554, § 1(a)(5) [title I, § 104], added subsec. (e).
+Subsec. (e). Pub. L. 106–554, § 1(a)(5) [title I, § 104], added subsec. (e).
 
-Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title I, § 105(a)], added subsec. (f).
+Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title I, § 105(a)], added subsec. (f).
 
-Subsec. (g). Pub. L. 106–554, § 1(a)(5) [title I, § 105(b)], added subsec. (g).
+Subsec. (g). Pub. L. 106–554, § 1(a)(5) [title I, § 105(b)], added subsec. (g).
 
-Subsec. (h). Pub. L. 106–554, § 1(a)(5) [title I, § 106], added subsec. (h).
+Subsec. (h). Pub. L. 106–554, § 1(a)(5) [title I, § 106], added subsec. (h).
 
-Subsec. (i). Pub. L. 106–554, § 1(a)(5) [title I, § 107], added subsec. (i).
+Subsec. (i). Pub. L. 106–554, § 1(a)(5) [title I, § 107], added subsec. (i).
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–546, § 404(b)(2)–(7), redesignated cls. (i) and (ii) of former third sentence as subcls. (I) and (II), respectively, designated former fifth sentence as cl. (ii), designated former eighth sentence as cl. (iii), and struck out former sixth, seventh, and ninth through last sentences, which included definitions of “future delivery”, “board of trade”, “interstate commerce”, “cooperative association of producers”, “member of a contract market”, “futures commission merchant”, “introducing broker”, “floor broker”, “the Commission”, “commodity trading advisor”, and “commodity pool operator”. See section 1a of this title.
+1992—Subsec. (a)(1)(A). Pub. L. 102–546, § 404(b)(2)–(7), redesignated cls. (i) and (ii) of former third sentence as subcls. (I) and (II), respectively, designated former fifth sentence as cl. (ii), designated former eighth sentence as cl. (iii), and struck out former sixth, seventh, and ninth through last sentences, which included definitions of “future delivery”, “board of trade”, “interstate commerce”, “cooperative association of producers”, “member of a contract market”, “futures commission merchant”, “introducing broker”, “floor broker”, “the Commission”, “commodity trading advisor”, and “commodity pool operator”. See section 1a of this title.
 
-Pub. L. 102–546, § 404(b)(1), which directed the substitution of “(i) The Commission” for the words “For the purposes” and all that followed through “; *Provided*, That the Commission”, was executed by making the substitution for the first and second sentences and the third sentence through the words “: *Provided*, That the Commission”, to reflect the probable intent of Congress. Prior to amendment, the first, second, and third sentences included definitions of “contract of sale”, “person”, and “commodity”. See section 1a of this title.
+Pub. L. 102–546, § 404(b)(1), which directed the substitution of “(i) The Commission” for the words “For the purposes” and all that followed through “; *Provided*, That the Commission”, was executed by making the substitution for the first and second sentences and the third sentence through the words “: *Provided*, That the Commission”, to reflect the probable intent of Congress. Prior to amendment, the first, second, and third sentences included definitions of “contract of sale”, “person”, and “commodity”. See section 1a of this title.
 
-Subsec. (a)(1)(B)(iv)(I). Pub. L. 102–546, § 209(b)(1)(A), made technical amendment to reference to section 9 of this title appearing in penultimate sentence to reflect change in reference to corresponding section of original act.
+Subsec. (a)(1)(B)(iv)(I). Pub. L. 102–546, § 209(b)(1)(A), made technical amendment to reference to section 9 of this title appearing in penultimate sentence to reflect change in reference to corresponding section of original act.
 
-Subsec. (a)(1)(B)(iv)(II). Pub. L. 102–546, § 209(b)(1)(B), substituted “section 8(b)” for “section 8”.
+Subsec. (a)(1)(B)(iv)(II). Pub. L. 102–546, § 209(b)(1)(B), substituted “section 8(b)” for “section 8”.
 
-Subsec. (a)(1)(B)(vi). Pub. L. 102–546, § 501, added cl. (vi).
+Subsec. (a)(1)(B)(vi). Pub. L. 102–546, § 501, added cl. (vi).
 
-Subsec. (a)(2)(A). Pub. L. 102–546, § 215, substituted second and third sentences for “The Commission shall be composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. In nominating persons for appointment, the President shall seek to establish and maintain a balanced Commission, including, but not limited to, persons of demonstrated knowledge in futures trading or its regulation and persons of demonstrated knowledge in the production, merchandising, processing or distribution of one or more of the commodities or other goods and articles, services, rights and interests covered by this chapter.”
+Subsec. (a)(2)(A). Pub. L. 102–546, § 215, substituted second and third sentences for “The Commission shall be composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. In nominating persons for appointment, the President shall seek to establish and maintain a balanced Commission, including, but not limited to, persons of demonstrated knowledge in futures trading or its regulation and persons of demonstrated knowledge in the production, merchandising, processing or distribution of one or more of the commodities or other goods and articles, services, rights and interests covered by this chapter.”
 
-Subsec. (a)(9)(C). Pub. L. 102–546, § 226, added subpar. (C).
+Subsec. (a)(9)(C). Pub. L. 102–546, § 226, added subpar. (C).
 
 1986—Subsec. (a)(1)(B)(iv)(I). Pub. L. 99–641 substituted “Securities and Exchange Commission” for “Securities Exchange Commission” before “otherwise agree”.
 
-1983—Subsec. (a)(1). Pub. L. 97–444, § 101, designated existing provisions as subpar. (A), inserted in third sentence, first proviso, “, except to the extent otherwise provided in subparagraph (B) of this paragraph,” after “exclusive jurisdiction”, and added subpar. (B).
+1983—Subsec. (a)(1). Pub. L. 97–444, § 101, designated existing provisions as subpar. (A), inserted in third sentence, first proviso, “, except to the extent otherwise provided in subparagraph (B) of this paragraph,” after “exclusive jurisdiction”, and added subpar. (B).
 
-Subsec. (a)(1)(A). Pub. L. 97–444, § 201, inserted definition of “introducing broker” and, in revising definition of “commodity training advisor”, included any person advising others through electronic media; substituted provision respecting advising others “as to the value of or the advisability of trading in any contract of sale of a commodity for future delivery made or to be made on or subject to the rules of a contract market, any commodity option authorized under section 6c of this title, or any leverage transaction authorized under section 23 of this title, or who, for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the foregoing” for provision respecting advising others “as to the value of commodities or as to the advisability of trading in any commodity for future delivery on or subject to the rules of any market, or who for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning commodities”; excluded in item (i) any person acting as an employee of any bank or trust company; substituted in cl. (ii) “news reporter, news columnist, or news editor of the print or electronic media” for “newspaper reporter, newspaper columnist, newspaper editor”; substituted in cl. (iv) “the publisher or producer of any print or electronic data of general and regular dissemination, including its employees” for “the publisher of any bona fide newspaper magazine, or business or financial publication of general and regular circulation including their employees”; inserted item (v); redesignated as items (vi) and (vii) former items (v) and (vi); and authorized Commission to effectuate purposes of definition by rule or regulation by including within definition any person advising as to the value of commodities or issuing reports or analyses concerning commodities.
+Subsec. (a)(1)(A). Pub. L. 97–444, § 201, inserted definition of “introducing broker” and, in revising definition of “commodity training advisor”, included any person advising others through electronic media; substituted provision respecting advising others “as to the value of or the advisability of trading in any contract of sale of a commodity for future delivery made or to be made on or subject to the rules of a contract market, any commodity option authorized under section 6c of this title, or any leverage transaction authorized under section 23 of this title, or who, for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the foregoing” for provision respecting advising others “as to the value of commodities or as to the advisability of trading in any commodity for future delivery on or subject to the rules of any market, or who for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning commodities”; excluded in item (i) any person acting as an employee of any bank or trust company; substituted in cl. (ii) “news reporter, news columnist, or news editor of the print or electronic media” for “newspaper reporter, newspaper columnist, newspaper editor”; substituted in cl. (iv) “the publisher or producer of any print or electronic data of general and regular dissemination, including its employees” for “the publisher of any bona fide newspaper magazine, or business or financial publication of general and regular circulation including their employees”; inserted item (v); redesignated as items (vi) and (vii) former items (v) and (vi); and authorized Commission to effectuate purposes of definition by rule or regulation by including within definition any person advising as to the value of commodities or issuing reports or analyses concerning commodities.
 
-Subsec. (a)(7). Pub. L. 97–444, § 202, struck out “(A)” after “(7)” and struck out subpar. (B) which prohibited any representative activities before the Commission for a one year period upon termination of employment occurring on a day more than four months after Sept. 30, 1978, of any Commissioner or employee of the Commission having a GS–16 or higher classified position excepted from the competitive service because of its confidential or policymaking character.
+Subsec. (a)(7). Pub. L. 97–444, § 202, struck out “(A)” after “(7)” and struck out subpar. (B) which prohibited any representative activities before the Commission for a one year period upon termination of employment occurring on a day more than four months after Sept. 30, 1978, of any Commissioner or employee of the Commission having a GS–16 or higher classified position excepted from the competitive service because of its confidential or policymaking character.
 
-1978—Subsec. (a)(1). Pub. L. 95–405, § 2(1), substituted “section 23 of this title” for “section 15a of this title”.
+1978—Subsec. (a)(1). Pub. L. 95–405, § 2(1), substituted “section 23 of this title” for “section 15a of this title”.
 
-Subsec. (a)(2). Pub. L. 95–405, § 2(2)–(5), designated existing provisions as subpar. (A) and substituted “five Commissioners” for “a chairman and four other Commissioners”, “(i)” for “(A)”, and “(ii)” for “(B)”, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 95–405, § 2(2)–(5), designated existing provisions as subpar. (A) and substituted “five Commissioners” for “a chairman and four other Commissioners”, “(i)” for “(A)”, and “(ii)” for “(B)”, and added subpar. (B).
 
-Subsec. (a)(5). Pub. L. 95–405, § 2(6), struck out “, by and with the advice and consent of the Senate,” after “by the Commission”.
+Subsec. (a)(5). Pub. L. 95–405, § 2(6), struck out “, by and with the advice and consent of the Senate,” after “by the Commission”.
 
-Subsec. (a)(6)(A). Pub. L. 95–405, § 2(7), inserted “according to budget categories, plans, programs, and priorities established and approved by the Commission,” after “expenditure of funds,”.
+Subsec. (a)(6)(A). Pub. L. 95–405, § 2(7), inserted “according to budget categories, plans, programs, and priorities established and approved by the Commission,” after “expenditure of funds,”.
 
-Subsec. (a)(6)(B). Pub. L. 95–405, § 2(8), substituted “, plans, priorities, and budgets approved by the Commission” for “of the Commission”.
+Subsec. (a)(6)(B). Pub. L. 95–405, § 2(8), substituted “, plans, priorities, and budgets approved by the Commission” for “of the Commission”.
 
-Subsec. (a)(7). Pub. L. 95–405, § 2(9), (10), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (a)(7). Pub. L. 95–405, § 2(9), (10), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(8). Pub. L. 95–405, § 2(11)–(13), designated existing provisions as subpar. (A), substituted “maintain” for “establish a separate office within the Department of Agriculture to be staffed with employees of the Commission for the purpose of maintaining”, and added subpar. (B).
+Subsec. (a)(8). Pub. L. 95–405, § 2(11)–(13), designated existing provisions as subpar. (A), substituted “maintain” for “establish a separate office within the Department of Agriculture to be staffed with employees of the Commission for the purpose of maintaining”, and added subpar. (B).
 
-Subsec. (a)(9)(A), (B). Pub. L. 95–405, § 2(14), (15), substituted “Senate Committee on Agriculture, Nutrition, and Forestry” for “Senate Committee on Agriculture and Forestry”.
+Subsec. (a)(9)(A), (B). Pub. L. 95–405, § 2(14), (15), substituted “Senate Committee on Agriculture, Nutrition, and Forestry” for “Senate Committee on Agriculture and Forestry”.
 
-1974—Subsec. (a). Pub. L. 93–463, § 101(a), designated existing provisions as par. (1), substituted “Commodity Futures Trading Commission established under paragraph (2) of this subsection” for “Commodity Exchange Commission, consisting of the Secretary of Agriculture, the Secretary of Commerce, and the Attorney General, or an official or employee of each of the executive departments concerned, designated by the Secretary of Agriculture, the Secretary of Commerce, and the Attorney General, respectively; and the Secretary of Agriculture or his designee shall serve as Chairman”, and added pars. (2) to (11).
+1974—Subsec. (a). Pub. L. 93–463, § 101(a), designated existing provisions as par. (1), substituted “Commodity Futures Trading Commission established under paragraph (2) of this subsection” for “Commodity Exchange Commission, consisting of the Secretary of Agriculture, the Secretary of Commerce, and the Attorney General, or an official or employee of each of the executive departments concerned, designated by the Secretary of Agriculture, the Secretary of Commerce, and the Attorney General, respectively; and the Secretary of Agriculture or his designee shall serve as Chairman”, and added pars. (2) to (11).
 
-Subsec. (a)(1). Pub. L. 93–463, §§ 201, 202, struck out “onions,” after “eggs,” in definition of “commodity” and inserted provisions to that definition to include as commodities all other goods and articles, except onions as provided in section 13–1 of this title, and all services, rights, and interests in which contracts for the future delivery are presently or in the future dealt in, and inserted definitions for “commodity trading advisor” and “commodity pool operator”.
+Subsec. (a)(1). Pub. L. 93–463, §§ 201, 202, struck out “onions,” after “eggs,” in definition of “commodity” and inserted provisions to that definition to include as commodities all other goods and articles, except onions as provided in section 13–1 of this title, and all services, rights, and interests in which contracts for the future delivery are presently or in the future dealt in, and inserted definitions for “commodity trading advisor” and “commodity pool operator”.
 
 1968—Subsec. (a). Pub. L. 90–418 extended definition of “commodity” in third sentence to include frozen concentrated orange juice.
 
-Pub. L. 90–258, § 1(c), provided in last sentence for representation on the Commission of Secretary of Agriculture, Secretary of Commerce, and Attorney General by an official or employee designated from executive department concerned and for service of Secretary of Agriculture or his designee as Chairman.
+Pub. L. 90–258, § 1(c), provided in last sentence for representation on the Commission of Secretary of Agriculture, Secretary of Commerce, and Attorney General by an official or employee designated from executive department concerned and for service of Secretary of Agriculture or his designee as Chairman.
 
-Pub. L. 90–258, § 1(b), substituted in definition of “floor broker” in penultimate sentence “purchase or sell for any other person” for “engage in executing for others any order for the purchase or sale of” and struck out provision for receipt or acceptance of any commission or other compensation for services as a floor broker.
+Pub. L. 90–258, § 1(b), substituted in definition of “floor broker” in penultimate sentence “purchase or sell for any other person” for “engage in executing for others any order for the purchase or sale of” and struck out provision for receipt or acceptance of any commission or other compensation for services as a floor broker.
 
-Pub. L. 90–258, § 1(a), extended definition of “commodity” in third sentence to include livestock and livestock products.
+Pub. L. 90–258, § 1(a), extended definition of “commodity” in third sentence to include livestock and livestock products.
 
 1955—Subsec. (a). Act July 26, 1955, extended “commodity” to onions.
 
@@ -2397,19 +2397,19 @@ Pub. L. 90–258, § 1(a), extended definition of “commodity” in third sen
 
 1936—Subsec. (a). Act June 15, 1936, substituted “commodity”, “any commodity”, or “commodities”, as the case may require, for “grain” wherever appearing, and “any cash commodity” for “cash grain”, substituted sentence defining “commodity” for sentence defining “grain”, and inserted definitions of “cooperative association of producers,”, “member of a contract market”, “futures commission merchant”, “floor broker”, and “the commission.”
 
-Subsec. (b). Act June 15, 1936, § 2, substituted “commodity” and “commodities”, as the case may require, for “grain” wherever appearing.
+Subsec. (b). Act June 15, 1936, § 2, substituted “commodity” and “commodities”, as the case may require, for “grain” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title XIII, § 13101(b), May 22, 2008, 122 Stat. 1432, and Pub. L. 110–246, § 4(a), title XIII, § 13101(b), June 18, 2008, 122 Stat. 1664, 2194, provided that:
+Pub. L. 110–234, title XIII, § 13101(b), May 22, 2008, 122 Stat. 1432, and Pub. L. 110–246, § 4(a), title XIII, § 13101(b), June 18, 2008, 122 Stat. 1664, 2194, provided that:
 
 > “The following provisions of the Commodity Exchange Act [7 U.S.C. 1 et seq.], as amended by subsection (a) of this section [amending this section], shall be effective 120 days after the date of the enactment of this Act [June 18, 2008] or at such other time as the Commodity Futures Trading Commission shall determine:
 
@@ -2419,9 +2419,9 @@ Pub. L. 110–234, title XIII, § 13101(b), May 22, 2008, 122 Stat. 1432, and 
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-Pub. L. 110–234, title XIII, § 13204, May 22, 2008, 122 Stat. 1441, and Pub. L. 110–246, § 4(a), title XIII, § 13204, June 18, 2008, 122 Stat. 1664, 2203, provided that:
+Pub. L. 110–234, title XIII, § 13204, May 22, 2008, 122 Stat. 1441, and Pub. L. 110–246, § 4(a), title XIII, § 13204, June 18, 2008, 122 Stat. 1664, 2203, provided that:
 
-> **“(a) In General.—** Except as provided in this section, this subtitle [subtitle B (§§ 13201–13204) of title XIII of Pub. L. 110–246, amending this section and sections 1a, 6a, 6g, 6i, 7a, 7a–2, 7b, 8, and 25 of this title] shall become effective on the date of enactment of this Act [June 18, 2008].
+> **“(a) In General.—** Except as provided in this section, this subtitle [subtitle B (§§ 13201–13204) of title XIII of Pub. L. 110–246, amending this section and sections 1a, 6a, 6g, 6i, 7a, 7a–2, 7b, 8, and 25 of this title] shall become effective on the date of enactment of this Act [June 18, 2008].
 
 > **“(b) Significant Price Discovery Standards Rulemaking.—**
 
@@ -2439,15 +2439,15 @@ Pub. L. 110–234, title XIII, § 13204, May 22, 2008, 122 Stat. 1441, and Pub
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–444, title II, § 239, Jan. 11, 1983, 96 Stat. 2327, provided that: “This Act [see Short Title of 1983 Amendment note set out under section 1 of this title] shall be effective upon the date of enactment of this Act [Jan. 11, 1983], except that sections 207, 212, and 231 of this Act [amending sections 6d, 6k, and 18 of this title] shall be effective one hundred and twenty days after the date of enactment of this Act, or such earlier date as the Commodity Futures Trading Commission shall prescribe by regulation.”
+Pub. L. 97–444, title II, § 239, Jan. 11, 1983, 96 Stat. 2327, provided that: “This Act [see Short Title of 1983 Amendment note set out under section 1 of this title] shall be effective upon the date of enactment of this Act [Jan. 11, 1983], except that sections 207, 212, and 231 of this Act [amending sections 6d, 6k, and 18 of this title] shall be effective one hundred and twenty days after the date of enactment of this Act, or such earlier date as the Commodity Futures Trading Commission shall prescribe by regulation.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–405, § 28, Sept. 30, 1978, 92 Stat. 878, provided that: “Except as otherwise provided in this Act, the provisions of this Act [see Short Title of 1978 Amendment note set out under section 1 of this title] shall become effective October 1, 1978.”
+Pub. L. 95–405, § 28, Sept. 30, 1978, 92 Stat. 878, provided that: “Except as otherwise provided in this Act, the provisions of this Act [see Short Title of 1978 Amendment note set out under section 1 of this title] shall become effective October 1, 1978.”
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–463, title IV, § 418, Oct. 23, 1974, 88 Stat. 1415, provided that:
+Pub. L. 93–463, title IV, § 418, Oct. 23, 1974, 88 Stat. 1415, provided that:
 
 > **“(a)** Except as otherwise provided specifically in this Act [see Short Title of 1974 Amendment note set out under section 1 of this title], the effective date of this Act shall be the 180th day after enactment [Oct. 23, 1974]. The Commission referred to in section 101 [Commodity Futures Trading Commission] is hereby established effective immediately on enactment of this Act. Sections 102 and 410 [amending sections 5108, 5314, 5315, and 5316 of Title 5, Government Organization and Employees] shall be effective immediately on enactment of this Act. Activities necessary to implement the changes effected by this Act may be carried out after the date of enactment and before as well as after the 180th day thereafter. Activities to be carried out after the date of enactment and before the 180th day thereafter may include, but are not limited to the following: Designation of boards of trade as contract markets, registration of futures commission merchants, floor brokers, and other persons required to be registered under the Act [this chapter], approval or modification of bylaws, rules, regulations, and resolutions of contract markets, and issuance of regulations, effective on or after the 180th day after enactment; appointment and compensation of the members of the Commission; hiring and compensation of staff; and conducting of investigations and hearings. Nothing in this Act shall limit the authority of the Secretary of Agriculture or the Commodity Exchange Commission under the Commodity Exchange Act [7 U.S.C. 1 et seq.], as amended, prior to the 180th day after enactment of this Act.
 
@@ -2455,19 +2455,19 @@ Pub. L. 93–463, title IV, § 418, Oct. 23, 1974, 88 Stat. 1415, provided tha
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–258, § 28, Feb. 19, 1968, 82 Stat. 34, provided that: “This Act [enacting sections 12b, 13b, 13c, and 17b of this title and amending this section and sections 6a, 6b, 6d, 6f, 6g, 6i, 7, 7a, 7b, 8, 9, 12, 12–1, 12a, 13, and 13a of this title] shall become effective one hundred and twenty days after enactment [Feb. 19, 1968].”
+Pub. L. 90–258, § 28, Feb. 19, 1968, 82 Stat. 34, provided that: “This Act [enacting sections 12b, 13b, 13c, and 17b of this title and amending this section and sections 6a, 6b, 6d, 6f, 6g, 6i, 7, 7a, 7b, 8, 9, 12, 12–1, 12a, 13, and 13a of this title] shall become effective one hundred and twenty days after enactment [Feb. 19, 1968].”
 
 **Effective Date of 1955 Amendment**
 
-Act July 26, 1955, ch. 382, § 2, 69 Stat. 375, provided that: “This Act [amending this section] shall take effect sixty days after the date of its enactment [July 26, 1955].”
+Act July 26, 1955, ch. 382, § 2, 69 Stat. 375, provided that: “This Act [amending this section] shall take effect sixty days after the date of its enactment [July 26, 1955].”
 
 **Effective Date of 1954 Amendment**
 
-Act Aug. 28, 1954, ch. 1041, title VII, § 710(b), 68 Stat. 913, which provided that the amendment of this section by act Aug. 28, 1954, was effective 60 days after Aug. 28, 1954, was repealed by Pub. L. 103–130, § 3(a), Nov. 1, 1993, 107 Stat. 1369, eff. Dec. 31, 1995.
+Act Aug. 28, 1954, ch. 1041, title VII, § 710(b), 68 Stat. 913, which provided that the amendment of this section by act Aug. 28, 1954, was effective 60 days after Aug. 28, 1954, was repealed by Pub. L. 103–130, § 3(a), Nov. 1, 1993, 107 Stat. 1369, eff. Dec. 31, 1995.
 
 **Effective Date of 1940 Amendment**
 
-Act Oct. 9, 1940, ch. 786, § 2, 54 Stat. 1059, provided that: “This Act [amending this section] shall take effect sixty days after the date of its enactment [Oct. 9, 1940].”
+Act Oct. 9, 1940, ch. 786, § 2, 54 Stat. 1059, provided that: “This Act [amending this section] shall take effect sixty days after the date of its enactment [Oct. 9, 1940].”
 
 **Effective Date of 1936 Amendment**
 
@@ -2475,11 +2475,11 @@ Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see secti
 
 **Separability of 1974 Amendment**
 
-Pub. L. 93–463, title IV, § 413, Oct. 23, 1974, 88 Stat. 1414, provided that: “If any provision of this Act [see Short Title of 1974 Amendment note set out under section 1 of this title] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the application of such provisions to other persons or circumstances shall not be affected thereby.”
+Pub. L. 93–463, title IV, § 413, Oct. 23, 1974, 88 Stat. 1414, provided that: “If any provision of this Act [see Short Title of 1974 Amendment note set out under section 1 of this title] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the application of such provisions to other persons or circumstances shall not be affected thereby.”
 
 **Grandfather Provisions**
 
-Pub. L. 111–203, title VII, § 723(c), July 21, 2010, 124 Stat. 1682, provided that:
+Pub. L. 111–203, title VII, § 723(c), July 21, 2010, 124 Stat. 1682, provided that:
 
 > **“(1) Legal certainty for certain transactions in exempt commodities.—** Not later than 60 days after the date of enactment of this Act [July 21, 2010], a person may submit to the Commodity Futures Trading Commission a petition to remain subject to section 2(h) of the Commodity Exchange Act (7 U.S.C. 2(h)) (as in effect on the day before the date of enactment of this Act).
 
@@ -2501,7 +2501,7 @@ Pub. L. 111–203, title VII, § 723(c), July 21, 2010, 124 Stat. 1682, provid
 
 **Portfolio Margining and Security Index Issues**
 
-Pub. L. 110–234, title XIII, § 13106, May 22, 2008, 122 Stat. 1435, and Pub. L. 110–246, § 4(a), title XIII, § 13106, June 18, 2008, 122 Stat. 1664, 2197, provided that:
+Pub. L. 110–234, title XIII, § 13106, May 22, 2008, 122 Stat. 1435, and Pub. L. 110–246, § 4(a), title XIII, § 13106, June 18, 2008, 122 Stat. 1664, 2197, provided that:
 
 > **“(a)** The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission shall work to ensure that the Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC), or both, as appropriate, have taken the actions required under subsection (b).
 
@@ -2515,7 +2515,7 @@ Pub. L. 110–234, title XIII, § 13106, May 22, 2008, 122 Stat. 1435, and Pub
 
 **Study Regarding Retail Swaps**
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 105(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–379, required the Board of Governors of the Federal Reserve System, the Secretary of the Treasury, the Commodity Futures Trading Commission, and the Securities and Exchange Commission to conduct a study of issues involving the offering of swap agreements to persons other than eligible contract participants and, before the end of the 1-year period beginning on Dec. 21, 2000, submit a report on findings and conclusions of the study and recommendations for any necessary legislative action to Congress.
+Pub. L. 106–554, § 1(a)(5) [title I, § 105(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–379, required the Board of Governors of the Federal Reserve System, the Secretary of the Treasury, the Commodity Futures Trading Commission, and the Securities and Exchange Commission to conduct a study of issues involving the offering of swap agreements to persons other than eligible contract participants and, before the end of the 1-year period beginning on Dec. 21, 2000, submit a report on findings and conclusions of the study and recommendations for any necessary legislative action to Congress.
 
 **Educational Events and Symposia**
 
@@ -2523,7 +2523,7 @@ Pub. L. 106–78, title VI, Oct. 22, 1999, 113 Stat. 1160, provided in part: “
 
 Similar provisions were contained in the following prior appropriations acts:
 
-Pub. L. 105–277, div. A, § 101(a) [title VI], Oct. 21, 1998, 112 Stat. 2681, 2681–24.
+Pub. L. 105–277, div. A, § 101(a) [title VI], Oct. 21, 1998, 112 Stat. 2681, 2681–24.
 
 Pub. L. 105–86, title VI, Nov. 18, 1997, 111 Stat. 2104.
 
@@ -2535,23 +2535,23 @@ Pub. L. 103–330, title VI, Sept. 30, 1994, 108 Stat. 2466.
 
 **Non-Abatement of Pending Proceedings**
 
-Pub. L. 93–463, title IV, § 412, Oct. 23, 1974, 88 Stat. 1414, provided that: “Pending proceedings under existing law shall not be abated by reason of any provision of this Act [see Short Title of 1974 Amendment note set out under section 1 of this title] but shall be disposed of pursuant to the applicable provisions of the Commodity Exchange Act, as amended [7 U.S.C. 1 et seq.], in effect prior to the effective date of this Act [see Effective Date of 1974 Amendment note above].”
+Pub. L. 93–463, title IV, § 412, Oct. 23, 1974, 88 Stat. 1414, provided that: “Pending proceedings under existing law shall not be abated by reason of any provision of this Act [see Short Title of 1974 Amendment note set out under section 1 of this title] but shall be disposed of pursuant to the applicable provisions of the Commodity Exchange Act, as amended [7 U.S.C. 1 et seq.], in effect prior to the effective date of this Act [see Effective Date of 1974 Amendment note above].”
 
-## §§ 2a to 4a. Transferred
+## §§ 2a to 4a. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 2a, act Sept. 21, 1922, ch. 369, § 2(a)(1)(C), formerly § 2(a)(1)(B), as added Pub. L. 97–444, title I, § 101(a)(3), Jan. 11, 1983, 96 Stat. 2294, as amended and renumbered, which related to designation of boards of trade as contract markets and approval by and jurisdiction of Commodity Futures Trading Commission and Securities and Exchange Commission, was transferred to section 2(a)(1)(C) of this title.
+Section 2a, act Sept. 21, 1922, ch. 369, § 2(a)(1)(C), formerly § 2(a)(1)(B), as added Pub. L. 97–444, title I, § 101(a)(3), Jan. 11, 1983, 96 Stat. 2294, as amended and renumbered, which related to designation of boards of trade as contract markets and approval by and jurisdiction of Commodity Futures Trading Commission and Securities and Exchange Commission, was transferred to section 2(a)(1)(C) of this title.
 
-Section 3, act Sept. 21, 1922, ch. 369, § 2(b), 42 Stat. 998, as amended, which related to transactions in interstate commerce, was transferred to section 2(b) of this title.
+Section 3, act Sept. 21, 1922, ch. 369, § 2(b), 42 Stat. 998, as amended, which related to transactions in interstate commerce, was transferred to section 2(b) of this title.
 
-Section 4, act Sept. 21, 1922, ch. 369, § 2(a)(1)(B), formerly § 2(a), 42 Stat. 998, as amended and renumbered, which related to liability of principal for act of agent, was transferred to section 2(a)(1)(B) of this title.
+Section 4, act Sept. 21, 1922, ch. 369, § 2(a)(1)(B), formerly § 2(a), 42 Stat. 998, as amended and renumbered, which related to liability of principal for act of agent, was transferred to section 2(a)(1)(B) of this title.
 
-Section 4a, act Sept. 21, 1922, ch. 369, § 2(a)(2)–(11), as added Pub. L. 93–463, title I, § 101(a)(3), Oct. 23, 1974, 88 Stat. 1389, as amended, which related to the Commodity Futures Trading Commission, was transferred to section 2(a)(2) to (11) of this title.
+Section 4a, act Sept. 21, 1922, ch. 369, § 2(a)(2)–(11), as added Pub. L. 93–463, title I, § 101(a)(3), Oct. 23, 1974, 88 Stat. 1389, as amended, which related to the Commodity Futures Trading Commission, was transferred to section 2(a)(2) to (11) of this title.
 
-## § 5. Findings and purpose
+## § 5. Findings and purpose
 
 **(a) Findings**
 
@@ -2561,15 +2561,15 @@ The transactions subject to this chapter are entered into regularly in interstat
 
 It is the purpose of this chapter to serve the public interests described in subsection (a) through a system of effective self-regulation of trading facilities, clearing systems, market participants and market professionals under the oversight of the Commission. To foster these public interests, it is further the purpose of this chapter to deter and prevent price manipulation or any other disruptions to market integrity; to ensure the financial integrity of all transactions subject to this chapter and the avoidance of systemic risk; to protect all market participants from fraudulent or other abusive sales practices and misuses of customer assets; and to promote responsible innovation and fair competition among boards of trade, other markets and market participants.
 
-(Sept. 21, 1922, ch. 369, § 3, as added Pub. L. 106–554, § 1(a)(5) [title I, § 108], Dec. 21, 2000, 114 Stat. 2763, 2763A–383.)
+(Sept. 21, 1922, ch. 369, § 3, as added Pub. L. 106–554, § 1(a)(5) [title I, § 108], Dec. 21, 2000, 114 Stat. 2763, 2763A–383.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5, acts Sept. 21, 1922, ch. 369, § 3, 42 Stat. 999; June 15, 1936, ch. 545, § 2, 49 Stat. 1491; Pub. L. 97–444, title II, § 203, Jan. 11, 1983, 96 Stat. 2298, stated legislative findings, prior to repeal by Pub. L. 106–554, § 1(a)(5) [title I, § 108], Dec. 21, 2000, 114 Stat. 2763, 2763A–383.
+A prior section 5, acts Sept. 21, 1922, ch. 369, § 3, 42 Stat. 999; June 15, 1936, ch. 545, § 2, 49 Stat. 1491; Pub. L. 97–444, title II, § 203, Jan. 11, 1983, 96 Stat. 2298, stated legislative findings, prior to repeal by Pub. L. 106–554, § 1(a)(5) [title I, § 108], Dec. 21, 2000, 114 Stat. 2763, 2763A–383.
 
-## § 6. Regulation of futures trading and foreign transactions
+## § 6. Regulation of futures trading and foreign transactions
 
 **(a) Restriction on futures trading** Unless exempted by the Commission pursuant to subsection (c) or by subsection (e), it shall be unlawful for any person to offer to enter into, to enter into, to execute, to confirm the execution of, or to conduct any office or business anywhere in the United States, its territories or possessions, for the purpose of soliciting or accepting any order for, or otherwise dealing in, any transaction in, or in connection with, a contract for the purchase or sale of a commodity for future delivery (other than a contract which is made on or subject to the rules of a board of trade, exchange, or market located outside the United States, its territories or possessions) unless—
 
@@ -2583,15 +2583,15 @@ A prior section 5, acts Sept. 21, 1922, ch. 369, § 3, 42 Stat. 999; June 15, 
 
 **(1) Foreign boards of trade**
 
-**(A) Registration** The Commission may adopt rules and regulations requiring registration with the Commission for a foreign board of trade that provides the members of the foreign board of trade or other participants located in the United States with direct access to the electronic trading and order matching system of the foreign board of trade, including rules and regulations prescribing procedures and requirements applicable to the registration of such foreign boards of trade. For purposes of this paragraph, “direct access” refers to an explicit grant of authority by a foreign board of trade to an identified member or other participant located in the United States to enter trades directly into the trade matching system of the foreign board of trade. In adopting such rules and regulations, the commission 1
+**(A) Registration** The Commission may adopt rules and regulations requiring registration with the Commission for a foreign board of trade that provides the members of the foreign board of trade or other participants located in the United States with direct access to the electronic trading and order matching system of the foreign board of trade, including rules and regulations prescribing procedures and requirements applicable to the registration of such foreign boards of trade. For purposes of this paragraph, “direct access” refers to an explicit grant of authority by a foreign board of trade to an identified member or other participant located in the United States to enter trades directly into the trade matching system of the foreign board of trade. In adopting such rules and regulations, the commission 1
 
-<sup>1</sup>  So in original. Probably should be “Commission”.
+<sup>1</sup> So in original. Probably should be “Commission”.
 
 shall consider—
 
 **(i)** whether any such foreign board of trade is subject to comparable, comprehensive supervision and regulation by the appropriate governmental authorities in the foreign board of trade’s home country; and
 
-**(ii)** any previous commission <sup>1</sup> findings that the foreign board of trade is subject to comparable comprehensive supervision and regulation by the appropriate government authorities in the foreign board of trade’s home country.
+**(ii)** any previous commission <sup>1</sup> findings that the foreign board of trade is subject to comparable comprehensive supervision and regulation by the appropriate government authorities in the foreign board of trade’s home country.
 
 **(B) Linked contracts** The Commission may not permit a foreign board of trade to provide to the members of the foreign board of trade or other participants located in the United States direct access to the electronic trading and order-matching system of the foreign board of trade with respect to an agreement, contract, or transaction that settles against any price (including the daily or final settlement price) of 1 or more contracts listed for trading on a registered entity, unless the Commission determines that—
 
@@ -2641,7 +2641,7 @@ Rules and regulations described in subparagraph (A) may impose different require
 
 **(1)** In order to promote responsible economic or financial innovation and fair competition, the Commission by rule, regulation, or order, after notice and opportunity for hearing, may (on its own initiative or on application of any person, including any board of trade designated or registered as a contract market or derivatives transaction execution facility for transactions for future delivery in any commodity under section 7 of this title) exempt any agreement, contract, or transaction (or class thereof) that is otherwise subject to subsection (a) (including any person or class of persons offering, entering into, rendering advice or rendering other services with respect to, the agreement, contract, or transaction), either unconditionally or on stated terms or conditions or for stated periods and either retroactively or prospectively, or both, from any of the requirements of subsection (a), or from any other provision of this chapter (except subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title,2
 
-<sup>2</sup>  So in original. A closing parenthesis probably should precede the comma.
+<sup>2</sup> So in original. A closing parenthesis probably should precede the comma.
 
 except that—
 
@@ -2651,25 +2651,25 @@ except that—
 
 **(I)** paragraphs (2), (3), (4), (5), and (7), paragraph (18)(A)(vii)(III), paragraphs (23), (24), (31), (32), (38), (39), (41), (42), (46), (47), (48), and (49) of section 1a of this title, and sections 2(a)(13), 2(c)(1)(D), 6a(a), 6a(b), 6d(c), 6d(d), 6r, 6s, 7a–1(a), 7a–1(b), 7(d), 7(g), 7(h),3
 
-<sup>3</sup>  So in original. Section 7 of this title does not contain subsecs. (g) and (h).
+<sup>3</sup> So in original. Section 7 of this title does not contain subsecs. (g) and (h).
 
 7a–1(c), 7a–1(i), 12(e),4
 
-<sup>4</sup>  See References in Text note below.
+<sup>4</sup> See References in Text note below.
 
 and 24a of this title; and
 
-**(II)** section 206(e) 5
+**(II)** section 206(e) 5
 
-<sup>5</sup>  So in original. Section 206 of the Act does not contain a subsec. (e).
+<sup>5</sup> So in original. Section 206 of the Act does not contain a subsec. (e).
 
 of the Gramm-Leach-Bliley Act (Public Law 106–102; 15 U.S.C. 78c note); and
 
 **(ii)** in sections 721(c) and 742 of the Dodd-Frank Wall Street Reform and Consumer Protection Act; and
 
-**(B)** the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title) 6
+**(B)** the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title) 6
 
-<sup>6</sup>  So in original. The closing parenthesis probably should not appear.
+<sup>6</sup> So in original. The closing parenthesis probably should not appear.
 
 if the Commissions determine that the exemption would be consistent with the public interest.
 
@@ -2701,7 +2701,7 @@ if the Commissions determine that the exemption would be consistent with the pub
 
 **(H)** Any governmental entity (including the United States, any state,7
 
-<sup>7</sup>  So in original. Probably should be capitalized.
+<sup>7</sup> So in original. Probably should be capitalized.
 
 or any foreign government) or political subdivision thereof, or any multinational or supranational entity or any instrumentality, agency, or department of any of the foregoing.
 
@@ -2755,65 +2755,65 @@ The granting of an exemption under this section shall not affect the authority o
 
 Nothing in this subsection shall be construed as implying or creating any presumption that a board of trade, exchange, or market is located outside the United States, or its territories or possessions, for purposes of subsection (a).
 
-(Sept. 21, 1922, ch. 369, § 4, 42 Stat. 999; June 15, 1936, ch. 545, §§ 2, 4, 49 Stat. 1491, 1492; Pub. L. 93–463, title I, § 103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, § 204, Jan. 11, 1983, 96 Stat. 2299; Pub. L. 102–546, title V, § 502(a), Oct. 28, 1992, 106 Stat. 3629; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–406; Pub. L. 111–203, title VII, §§ 721(d), 722(f), 738(a), (b), July 21, 2010, 124 Stat. 1671, 1674, 1726, 1728.)
+(Sept. 21, 1922, ch. 369, § 4, 42 Stat. 999; June 15, 1936, ch. 545, §§ 2, 4, 49 Stat. 1491, 1492; Pub. L. 93–463, title I, § 103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, § 204, Jan. 11, 1983, 96 Stat. 2299; Pub. L. 102–546, title V, § 502(a), Oct. 28, 1992, 106 Stat. 3629; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–406; Pub. L. 111–203, title VII, §§ 721(d), 722(f), 738(a), (b), July 21, 2010, 124 Stat. 1671, 1674, 1726, 1728.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subtitle A of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (c)(1)(A), is subtitle A (§§ 721–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (c)(1)(A), is subtitle A (§§ 721–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641. For complete classification of subtitle A to the Code, see Tables.
 
-Section 12(e) of this title, referred to in subsec. (c)(1)(A)(i)(I), was in the original a reference to section “8e” and has been translated as if the reference had been to section “8(e)” to reflect the probable intent of Congress. Section 8e of act Sept. 21, 1922, which was formerly classified to section 12e of this title, was repealed by Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(21)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.
+Section 12(e) of this title, referred to in subsec. (c)(1)(A)(i)(I), was in the original a reference to section “8e” and has been translated as if the reference had been to section “8(e)” to reflect the probable intent of Congress. Section 8e of act Sept. 21, 1922, which was formerly classified to section 12e of this title, was repealed by Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(21)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Section 721(c) of the Act is classified to section 8321(b) of Title 15, Commerce and Trade. Section 742 of the Act amended section 2 of this title and provisions set out as a note under section 78c of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12, Banks and Banking, and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (c)(3)(D), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (c)(3)(D), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (c)(3)(G), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (c)(3)(G), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 738(b)(1), inserted “or by subsection (e)” after “Unless exempted by the Commission pursuant to subsection (c)” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–203, § 738(b)(1), inserted “or by subsection (e)” after “Unless exempted by the Commission pursuant to subsection (c)” in introductory provisions.
 
-Subsec. (b). Pub. L. 111–203, § 738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted “Rules and regulations described in subparagraph (A)” for “Such rules and regulations”, in the introductory provisions of subpar. (C), substituted “Except as provided in paragraphs (1) and (2), no rule or regulation” for “No rule or regulation” and “that—” for “that”, and, in subpar. (C)(i), substituted “market; or” for “market, or”.
+Subsec. (b). Pub. L. 111–203, § 738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted “Rules and regulations described in subparagraph (A)” for “Such rules and regulations”, in the introductory provisions of subpar. (C), substituted “Except as provided in paragraphs (1) and (2), no rule or regulation” for “No rule or regulation” and “that—” for “that”, and, in subpar. (C)(i), substituted “market; or” for “market, or”.
 
-Subsec. (b)(1). Pub. L. 111–203, § 738(a)(4), added par. (1).
+Subsec. (b)(1). Pub. L. 111–203, § 738(a)(4), added par. (1).
 
-Subsec. (c)(1). Pub. L. 111–203, § 721(d), substituted “except that—” for “except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title), if the Commission determines that the exemption would be consistent with the public interest.” and added subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 111–203, § 721(d), substituted “except that—” for “except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title), if the Commission determines that the exemption would be consistent with the public interest.” and added subpars. (A) and (B).
 
-Subsec. (c)(6). Pub. L. 111–203, § 722(f), added par. (6).
+Subsec. (c)(6). Pub. L. 111–203, § 722(f), added par. (6).
 
-Subsec. (e). Pub. L. 111–203, § 738(b)(2), added subsec. (e).
+Subsec. (e). Pub. L. 111–203, § 738(b)(2), added subsec. (e).
 
-2000—Subsec. (a)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(A)(i)], substituted “designated or registered by the Commission as a contract market or derivatives transaction execution facility for” for “designated by the Commission as a ‘contract market’ for”.
+2000—Subsec. (a)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(A)(i)], substituted “designated or registered by the Commission as a contract market or derivatives transaction execution facility for” for “designated by the Commission as a ‘contract market’ for”.
 
-Subsec. (a)(2). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(A)(ii)], struck out “member of such” after “by or through a”.
+Subsec. (a)(2). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(A)(ii)], struck out “member of such” after “by or through a”.
 
-Subsec. (a)(3). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(A)(iii)], inserted “or derivatives transaction execution facility” after “contract market”.
+Subsec. (a)(3). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(A)(iii)], inserted “or derivatives transaction execution facility” after “contract market”.
 
-Subsec. (c)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(B)(i)], substituted “designated or registered as a contract market or derivatives transaction execution facility” for “designated as a contract market” and “subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title, except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title” for “section 2a of this title”.
+Subsec. (c)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(B)(i)], substituted “designated or registered as a contract market or derivatives transaction execution facility” for “designated as a contract market” and “subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title, except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title” for “section 2a of this title”.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(B)(ii)], inserted “or derivatives transaction execution facility” after “contract market”.
+Subsec. (c)(2)(B)(ii). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)(B)(ii)], inserted “or derivatives transaction execution facility” after “contract market”.
 
-1992—Subsec. (a). Pub. L. 102–546, § 502(a)(1), substituted “Unless exempted by the Commission pursuant to subsection (c) of this section, it shall be unlawful” for “It shall be unlawful”.
+1992—Subsec. (a). Pub. L. 102–546, § 502(a)(1), substituted “Unless exempted by the Commission pursuant to subsection (c) of this section, it shall be unlawful” for “It shall be unlawful”.
 
-Subsecs. (c), (d). Pub. L. 102–546, § 502(a)(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 102–546, § 502(a)(2), added subsecs. (c) and (d).
 
 1983—Pub. L. 97–444 amended section generally, combining into subsec. (a) existing provisions of this section together with provisions formerly contained in section 6h(1) of this title, relating to the conduct of offices or places of business anywhere in the United States or its territories that are used for dealing in commodities for future delivery unless such dealings are executed or consummated by or through a member of a contract market, and adding subsec. (b).
 
 1974—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture” and “United States Department of Agriculture”.
 
-1936—Act June 15, 1936, § 2, substituted “commodity” for “grain” wherever appearing.
+1936—Act June 15, 1936, § 2, substituted “commodity” for “grain” wherever appearing.
 
-Act June 15, 1936, § 4, struck out par. (a) and combined par. (b) with first par.
+Act June 15, 1936, § 4, struck out par. (a) and combined par. (b) with first par.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 1983 Amendment**
 
@@ -2827,7 +2827,7 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see section 13 of that act, set out as a note under section 1 of this title.
 
-## § 6a. Excessive speculation
+## § 6a. Excessive speculation
 
 **(a) Burden on interstate commerce; trading or position limits**
 
@@ -2953,7 +2953,7 @@ This section shall apply to a person that is registered as a futures commission 
 
 Nothing in this section shall prohibit or impair the adoption by any contract market, derivatives transaction execution facility, or by any other board of trade licensed, designated, or registered by the Commission or by any electronic trading facility of any bylaw, rule, regulation, or resolution fixing limits on the amount of trading which may be done or positions which may be held by any person under contracts of sale of any commodity for future delivery traded on or subject to the rules of such contract market or derivatives transaction execution facility or on an electronic trading facility, or under options on such contracts or commodities traded on or subject to the rules of such contract market, derivatives transaction execution facility, or electronic trading facility or such board of trade: *Provided*, That if the Commission shall have fixed limits under this section for any contract or under section 6c of this title for any commodity option, then the limits fixed by the bylaws, rules, regulations, and resolutions adopted by such contract market, derivatives transaction execution facility, or electronic trading facility or such board of trade shall not be higher than the limits fixed by the Commission. It shall be a violation of this chapter for any person to violate any bylaw, rule, regulation, or resolution of any contract market, derivatives transaction execution facility, or other board of trade licensed, designated, or registered by the Commission or electronic trading facility with respect to a significant price discovery contract fixing limits on the amount of trading which may be done or positions which may be held by any person under contracts of sale of any commodity for future delivery or under options on such contracts or commodities, if such bylaw, rule, regulation, or resolution has been approved by the Commission or certified by a registered entity pursuant to section 7a–2(c)(1) of this title: *Provided*, That the provisions of section 13(a)(5) of this title shall apply only to those who knowingly violate such limits.
 
-(Sept. 21, 1922, ch. 369, § 4a, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1492; amended July 24, 1956, ch. 690, § 1, 70 Stat. 630; Pub. L. 90–258, §§ 2–4, Feb. 19, 1968, 82 Stat. 26, 27; Pub. L. 93–463, title IV, §§ 403, 404, Oct. 23, 1974, 88 Stat. 1413; Pub. L. 94–16, § 4, Apr. 16, 1975, 89 Stat. 78; Pub. L. 97–444, title II, § 205, Jan. 11, 1983, 96 Stat. 2299; Pub. L. 102–546, title IV, § 402(1)(A), (2), Oct. 28, 1992, 106 Stat. 3624; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §§ 13105(a), 13203(g), May 22, 2008, 122 Stat. 1434, 1439; Pub. L. 110–246, § 4(a), title XIII, §§ 13105(a), 13203(g), June 18, 2008, 122 Stat. 1664, 2196, 2201; Pub. L. 111–203, title VII, § 737(a)–(c), July 21, 2010, 124 Stat. 1722, 1725.)
+(Sept. 21, 1922, ch. 369, § 4a, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1492; amended July 24, 1956, ch. 690, § 1, 70 Stat. 630; Pub. L. 90–258, §§ 2–4, Feb. 19, 1968, 82 Stat. 26, 27; Pub. L. 93–463, title IV, §§ 403, 404, Oct. 23, 1974, 88 Stat. 1413; Pub. L. 94–16, § 4, Apr. 16, 1975, 89 Stat. 78; Pub. L. 97–444, title II, § 205, Jan. 11, 1983, 96 Stat. 2299; Pub. L. 102–546, title IV, § 402(1)(A), (2), Oct. 28, 1992, 106 Stat. 3624; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §§ 13105(a), 13203(g), May 22, 2008, 122 Stat. 1434, 1439; Pub. L. 110–246, § 4(a), title XIII, §§ 13105(a), 13203(g), June 18, 2008, 122 Stat. 1664, 2196, 2201; Pub. L. 111–203, title VII, § 737(a)–(c), July 21, 2010, 124 Stat. 1722, 1725.)
 
 **Editorial Notes**
 
@@ -2963,63 +2963,63 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 737(a)(1)–(3), designated existing provisions as par. (1), inserted heading, substituted “swaps that perform or affect a significant price discovery function with respect to registered entities” for “on electronic trading facilities with respect to a significant price discovery contract”, inserted “, including any group or class of traders,” after “held by any person”, and substituted “swaps traded on or subject to the rules of a designated contract market or a swap execution facility, or swaps not traded on or subject to the rules of a designated contract market or a swap execution facility that performs a significant price discovery function with respect to a registered entity,” for “on an electronic trading facility with respect to a significant price discovery contract,”.
+2010—Subsec. (a). Pub. L. 111–203, § 737(a)(1)–(3), designated existing provisions as par. (1), inserted heading, substituted “swaps that perform or affect a significant price discovery function with respect to registered entities” for “on electronic trading facilities with respect to a significant price discovery contract”, inserted “, including any group or class of traders,” after “held by any person”, and substituted “swaps traded on or subject to the rules of a designated contract market or a swap execution facility, or swaps not traded on or subject to the rules of a designated contract market or a swap execution facility that performs a significant price discovery function with respect to a registered entity,” for “on an electronic trading facility with respect to a significant price discovery contract,”.
 
-Subsec. (a)(2) to (7). Pub. L. 111–203, § 737(a)(4), added pars. (2) to (7).
+Subsec. (a)(2) to (7). Pub. L. 111–203, § 737(a)(4), added pars. (2) to (7).
 
-Subsec. (b)(1). Pub. L. 111–203, § 737(b)(1), substituted “or swap execution facility or facilities” for “or derivatives transaction execution facility or facilities or electronic trading facility”.
+Subsec. (b)(1). Pub. L. 111–203, § 737(b)(1), substituted “or swap execution facility or facilities” for “or derivatives transaction execution facility or facilities or electronic trading facility”.
 
-Subsec. (b)(2). Pub. L. 111–203, § 737(b)(2), which directed substitution of “or swap execution facility” for “or derivatives transaction execution facility or facilities or electronic trading facility”, was executed by making the substitution for “or derivatives transaction execution facility or electronic trading facility” to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 111–203, § 737(b)(2), which directed substitution of “or swap execution facility” for “or derivatives transaction execution facility or facilities or electronic trading facility”, was executed by making the substitution for “or derivatives transaction execution facility or electronic trading facility” to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 111–203, § 737(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 111–203, § 737(c), designated existing provisions as par. (1) and added par. (2).
 
-2008—Subsec. (a). Pub. L. 110–246, § 13203(g)(1), inserted “, or on electronic trading facilities with respect to a significant price discovery contract” after “execution facilities” in first sentence and “, or on an electronic trading facility with respect to a significant price discovery contract,” after “execution facility” in second sentence.
+2008—Subsec. (a). Pub. L. 110–246, § 13203(g)(1), inserted “, or on electronic trading facilities with respect to a significant price discovery contract” after “execution facilities” in first sentence and “, or on an electronic trading facility with respect to a significant price discovery contract,” after “execution facility” in second sentence.
 
-Subsec. (b)(1). Pub. L. 110–246, § 13203(g)(2)(A), inserted “or electronic trading facility with respect to a significant price discovery contract” after “facility or facilities”.
+Subsec. (b)(1). Pub. L. 110–246, § 13203(g)(2)(A), inserted “or electronic trading facility with respect to a significant price discovery contract” after “facility or facilities”.
 
-Subsec. (b)(2). Pub. L. 110–246, § 13203(g)(2)(B), inserted “or electronic trading facility with respect to a significant price discovery contract” after “execution facility”.
+Subsec. (b)(2). Pub. L. 110–246, § 13203(g)(2)(B), inserted “or electronic trading facility with respect to a significant price discovery contract” after “execution facility”.
 
-Subsec. (e). Pub. L. 110–246, § 13203(g)(3), in first sentence, inserted “or by any electronic trading facility” after “registered by the Commission”, inserted “or on an electronic trading facility” after “derivatives transaction execution facility” the second place it appeared, and inserted “or electronic trading facility” before “or such board of trade” in two places, and, in second sentence, inserted “or electronic trading facility with respect to a significant price discovery contract” after “registered by the Commission”.
+Subsec. (e). Pub. L. 110–246, § 13203(g)(3), in first sentence, inserted “or by any electronic trading facility” after “registered by the Commission”, inserted “or on an electronic trading facility” after “derivatives transaction execution facility” the second place it appeared, and inserted “or electronic trading facility” before “or such board of trade” in two places, and, in second sentence, inserted “or electronic trading facility with respect to a significant price discovery contract” after “registered by the Commission”.
 
-Pub. L. 110–246, § 13105(a), inserted “or certified by a registered entity pursuant to section 7a–2(c)(1) of this title” after “approved by the Commission” and substituted “section 13(a)(5)” for “section 13(c)”.
+Pub. L. 110–246, § 13105(a), inserted “or certified by a registered entity pursuant to section 7a–2(c)(1) of this title” after “approved by the Commission” and substituted “section 13(a)(5)” for “section 13(c)”.
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)(A)], inserted “or derivatives transaction execution facilities” after “contract markets” in first sentence and “or derivatives transaction execution facility” after “contract market” in second sentence.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)(A)], inserted “or derivatives transaction execution facilities” after “contract markets” in first sentence and “or derivatives transaction execution facility” after “contract market” in second sentence.
 
-Subsec. (b)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)(B)(i)], inserted “, or derivatives transaction execution facility or facilities,” after “markets”.
+Subsec. (b)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)(B)(i)], inserted “, or derivatives transaction execution facility or facilities,” after “markets”.
 
-Subsec. (b)(2). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)(B)(ii)], inserted “or derivatives transaction execution facility” after “contract market”.
+Subsec. (b)(2). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)(B)(ii)], inserted “or derivatives transaction execution facility” after “contract market”.
 
-Subsec. (e). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)(C)], substituted “contract market, derivatives transaction execution facility, or” for “contract market or” wherever appearing, “licensed, designated, or registered” for “licensed or designated” in two places, and “contract market or derivatives transaction execution facility, or” for “contract market, or”.
+Subsec. (e). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(4)(C)], substituted “contract market, derivatives transaction execution facility, or” for “contract market or” wherever appearing, “licensed, designated, or registered” for “licensed or designated” in two places, and “contract market or derivatives transaction execution facility, or” for “contract market, or”.
 
-1992—Subsec. (a). Pub. L. 102–546, § 402(1)(A), (2)(A), (C), redesignated par. (1) as subsec. (a), substituted “Commission” for “commission” wherever appearing except in last sentence, and substituted “paragraphs (1) and (2) of subsection (b) of this section” for “subparagraphs (A) and (B) of paragraph (2)”.
+1992—Subsec. (a). Pub. L. 102–546, § 402(1)(A), (2)(A), (C), redesignated par. (1) as subsec. (a), substituted “Commission” for “commission” wherever appearing except in last sentence, and substituted “paragraphs (1) and (2) of subsection (b) of this section” for “subparagraphs (A) and (B) of paragraph (2)”.
 
-Subsec. (b). Pub. L. 102–546, § 402(1)(A), (2)(C), (D), redesignated par. (2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively, and substituted “Commission” for “commission” wherever appearing.
+Subsec. (b). Pub. L. 102–546, § 402(1)(A), (2)(C), (D), redesignated par. (2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively, and substituted “Commission” for “commission” wherever appearing.
 
-Subsec. (c). Pub. L. 102–546, § 402(2)(B), (C), redesignated par. (3) as subsec. (c) and substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (c). Pub. L. 102–546, § 402(2)(B), (C), redesignated par. (3) as subsec. (c) and substituted “subsection (a)” for “paragraph (1)”.
 
-Subsecs. (d), (e). Pub. L. 102–546, § 402(2)(C), redesignated pars. (4) and (5) as subsecs. (d) and (e), respectively.
+Subsecs. (d), (e). Pub. L. 102–546, § 402(2)(C), redesignated pars. (4) and (5) as subsecs. (d) and (e), respectively.
 
-1983—Par. (1). Pub. L. 97–444, § 205(1), (2), substituted “by rule, regulation, or order, proclaim” for “by order, proclaim” and inserted “or for different number of days remaining until the last day of trading in a contract,” after “delivery months”.
+1983—Par. (1). Pub. L. 97–444, § 205(1), (2), substituted “by rule, regulation, or order, proclaim” for “by order, proclaim” and inserted “or for different number of days remaining until the last day of trading in a contract,” after “delivery months”.
 
-Par. (2). Pub. L. 97–444, § 205(1), (3), substituted “after the promulgation of the rule, regulation, or order” for “after the order’s promulgation” in provisions before subpar. (A) and substituted “rule, regulation, or order” for “order” in provisions before subpar. (A) and in subpars. (A) and (B).
+Par. (2). Pub. L. 97–444, § 205(1), (3), substituted “after the promulgation of the rule, regulation, or order” for “after the order’s promulgation” in provisions before subpar. (A) and substituted “rule, regulation, or order” for “order” in provisions before subpar. (A) and in subpars. (A) and (B).
 
-Par. (3). Pub. L. 97–444, § 205(4), substituted “No rule, regulation, or order issued under paragraph (1) of this section shall apply to transactions or positions which are shown to be bona fide hedging transactions or positions as such terms shall be defined by the Commission by rule, regulation, or order consistent with the purposes of this chapter” for “No order issued under paragraph (1) of this section shall apply to transactions or positions which are shown to be bona fide hedging transactions or positions as such terms shall be defined by the Commission within one hundred and eighty days after the effective date of the Commodity Futures Trading Commission Act of 1974 by order consistent with the purposes of this chapter” and inserted “Such terms may be defined to permit producers, purchasers, sellers, middlemen, and users of a commodity or a product derived therefrom to hedge their legitimate anticipated business needs for that period of time into the future for which an appropriate futures contract is open and available on an exchange. To determine the adequacy of this chapter and the powers of the Commission acting thereunder to prevent unwarranted price pressures by large hedgers, the Commission shall monitor and analyze the trading activities of the largest hedgers, as determined by the Commission, operating in the cattle, hog, or pork belly markets and shall report its findings and recommendations to the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture in its annual reports for at least two years following January 11, 1983.”
+Par. (3). Pub. L. 97–444, § 205(4), substituted “No rule, regulation, or order issued under paragraph (1) of this section shall apply to transactions or positions which are shown to be bona fide hedging transactions or positions as such terms shall be defined by the Commission by rule, regulation, or order consistent with the purposes of this chapter” for “No order issued under paragraph (1) of this section shall apply to transactions or positions which are shown to be bona fide hedging transactions or positions as such terms shall be defined by the Commission within one hundred and eighty days after the effective date of the Commodity Futures Trading Commission Act of 1974 by order consistent with the purposes of this chapter” and inserted “Such terms may be defined to permit producers, purchasers, sellers, middlemen, and users of a commodity or a product derived therefrom to hedge their legitimate anticipated business needs for that period of time into the future for which an appropriate futures contract is open and available on an exchange. To determine the adequacy of this chapter and the powers of the Commission acting thereunder to prevent unwarranted price pressures by large hedgers, the Commission shall monitor and analyze the trading activities of the largest hedgers, as determined by the Commission, operating in the cattle, hog, or pork belly markets and shall report its findings and recommendations to the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture in its annual reports for at least two years following January 11, 1983.”
 
-Par. (4). Pub. L. 97–444, § 205(5), substituted “a futures commission merchant, an introducing broker, or a floor broker” for “a futures commission merchant or as floor broker”.
+Par. (4). Pub. L. 97–444, § 205(5), substituted “a futures commission merchant, an introducing broker, or a floor broker” for “a futures commission merchant or as floor broker”.
 
-Par. (5). Pub. L. 97–444, § 205(6), added par. (5).
+Par. (5). Pub. L. 97–444, § 205(6), added par. (5).
 
 1975—Par. (3). Pub. L. 94–16 substituted “one hundred and eighty days” for “ninety days”.
 
-1974—Par. (1). Pub. L. 93–463, § 403, inserted “or ‘arbitrage’ ” after “or ‘straddles’ ”, inserted definition of “arbitrage”, and authorized Commission to define “international arbitrage”.
+1974—Par. (1). Pub. L. 93–463, § 403, inserted “or ‘arbitrage’ ” after “or ‘straddles’ ”, inserted definition of “arbitrage”, and authorized Commission to define “international arbitrage”.
 
-Par. (3). Pub. L. 93–463, § 404, directed Commission to define “bona fide hedging transactions or positions” within 90 days after the effective date of the Commodity Futures Trading Commission Act of 1974 and struck out provisions which enumerated the factors to be taken into account in determining whether a hedging transaction or position was a bona fide transaction or position.
+Par. (3). Pub. L. 93–463, § 404, directed Commission to define “bona fide hedging transactions or positions” within 90 days after the effective date of the Commodity Futures Trading Commission Act of 1974 and struck out provisions which enumerated the factors to be taken into account in determining whether a hedging transaction or position was a bona fide transaction or position.
 
-1968—Par. (1). Pub. L. 90–258, § 2, substituted in second sentence “amounts of trading” for “amount of trading”, inserted “which may be done or positions which may be held by any person” before “under contracts of sale”, and struck out “which may be done” after “rules of any contract market”, inserted third sentence providing for inclusion of controlled positions and trading in determining whether prescribed position or trading limits have been exceeded and for application of such position and trading limits to activities of two or more persons acting pursuant to agreement or understanding as if the activities of a single person, and included in fourth, formerly third, sentence references to position limits and to positions, substituted “normally” for “commonly”, and struck out “trading” from “from fixing trading limits” and “from trading limits”.
+1968—Par. (1). Pub. L. 90–258, § 2, substituted in second sentence “amounts of trading” for “amount of trading”, inserted “which may be done or positions which may be held by any person” before “under contracts of sale”, and struck out “which may be done” after “rules of any contract market”, inserted third sentence providing for inclusion of controlled positions and trading in determining whether prescribed position or trading limits have been exceeded and for application of such position and trading limits to activities of two or more persons acting pursuant to agreement or understanding as if the activities of a single person, and included in fourth, formerly third, sentence references to position limits and to positions, substituted “normally” for “commonly”, and struck out “trading” from “from fixing trading limits” and “from trading limits”.
 
-Par. (2)(B). Pub. L. 90–258, § 3, substituted prohibition against holding of net long or net short positions in excess of any position limit fixed by the Commission for former prohibition of purchases or sales which result in net long or net short positions in excess of trading limits fixed by the Commission and provided that the position limit shall not apply to a position acquired in good faith prior to the effective date of the order.
+Par. (2)(B). Pub. L. 90–258, § 3, substituted prohibition against holding of net long or net short positions in excess of any position limit fixed by the Commission for former prohibition of purchases or sales which result in net long or net short positions in excess of trading limits fixed by the Commission and provided that the position limit shall not apply to a position acquired in good faith prior to the effective date of the order.
 
-Par. (3). Pub. L. 90–258, § 4, included references to positions, made hedging applicable to short and long positions, substituted “contract market” for “board of trade”, and required the activities to be those of the same person to constitute hedging.
+Par. (3). Pub. L. 90–258, § 4, included references to positions, made hedging applicable to short and long positions, substituted “contract market” for “board of trade”, and required the activities to be those of the same person to constitute hedging.
 
 1956—Par. (3)(C). Act July 24, 1956, added subpar. (C).
 
@@ -3027,7 +3027,7 @@ Par. (3). Pub. L. 90–258, § 4, included references to positions, made hedgi
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title VII, § 737(d), July 21, 2010, 124 Stat. 1725, provided that: “This section [amending this section] and the amendments made by this section shall become effective on the date of the enactment of this section [July 21, 2010].”
+Pub. L. 111–203, title VII, § 737(d), July 21, 2010, 124 Stat. 1725, provided that: “This section [amending this section] and the amendments made by this section shall become effective on the date of the enactment of this section [July 21, 2010].”
 
 **Effective Date of 2008 Amendment**
 
@@ -3041,7 +3041,7 @@ Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–463, title IV, § 404, Oct. 23, 1974, 88 Stat. 1413, provided that the amendment of par. (3) which struck out provisions that enumerated the factors to be taken into account in determining whether a hedging transaction or position was a bona fide transaction or position, was effective immediately upon the enactment of Pub. L. 93–463, which was approved Oct. 23, 1974.
+Pub. L. 93–463, title IV, § 404, Oct. 23, 1974, 88 Stat. 1413, provided that the amendment of par. (3) which struck out provisions that enumerated the factors to be taken into account in determining whether a hedging transaction or position was a bona fide transaction or position, was effective immediately upon the enactment of Pub. L. 93–463, which was approved Oct. 23, 1974.
 
 Amendment by Pub. L. 93–463 of par. (1) and that part of par. (3) directing the Commission to define “bona fide hedging transactions or positions” effective so as to allow implementation of all changes effected by this amendment to be carried out after Oct. 23, 1974, and before as well as after the 180th day thereafter, see section 418 of Pub. L. 93–463, set out as a note under section 2 of this title.
 
@@ -3051,7 +3051,7 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 **Effective Date of 1956 Amendment**
 
-Act July 24, 1956, ch. 690, § 2, 70 Stat. 630, provided that: “This Act [amending this section] shall take effect sixty days after the date of its enactment [July 24, 1956].”
+Act July 24, 1956, ch. 690, § 2, 70 Stat. 630, provided that: “This Act [amending this section] shall take effect sixty days after the date of its enactment [July 24, 1956].”
 
 **Effective Date**
 
@@ -3059,9 +3059,9 @@ For effective date of section, see section 13 of act June 15, 1936, set out as a
 
 **Regulations Defining Bona Fide Hedging Transactions and Positions**
 
-Pub. L. 93–463, title IV, § 404, Oct. 23, 1974, 88 Stat. 1413, provided in part: “That notwithstanding any other provision of law, the Secretary of Agriculture, immediately upon the enactment of the Commodity Futures Trading Commission Act of 1974 [which was approved on Oct. 23, 1974], is authorized and directed to promulgate regulations defining bona fide hedging transactions and positions: *And provided further*, That until the Secretary issues such regulations defining bona fide hedging transactions and positions and such regulations are in full force and effect, such terms shall continue to be defined as set forth in the Commodity Exchange Act [par. (3) of this section] prior to its amendment by the Commodity Futures Trading Commission Act of 1974 [Pub. L. 93–463].”
+Pub. L. 93–463, title IV, § 404, Oct. 23, 1974, 88 Stat. 1413, provided in part: “That notwithstanding any other provision of law, the Secretary of Agriculture, immediately upon the enactment of the Commodity Futures Trading Commission Act of 1974 [which was approved on Oct. 23, 1974], is authorized and directed to promulgate regulations defining bona fide hedging transactions and positions: *And provided further*, That until the Secretary issues such regulations defining bona fide hedging transactions and positions and such regulations are in full force and effect, such terms shall continue to be defined as set forth in the Commodity Exchange Act [par. (3) of this section] prior to its amendment by the Commodity Futures Trading Commission Act of 1974 [Pub. L. 93–463].”
 
-## § 6b. Contracts designed to defraud or mislead
+## § 6b. Contracts designed to defraud or mislead
 
 **(a) Unlawful actions** It shall be unlawful—
 
@@ -3101,7 +3101,7 @@ Nothing in this section shall apply to any activity that occurs on a board of tr
 
 **(3)** to engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.
 
-(Sept. 21, 1922, ch. 369, § 4b, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1493; amended Pub. L. 90–258, § 5, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title IV, § 405, Oct. 23, 1974, 88 Stat. 1413; Pub. L. 99–641, title I, § 101, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title IV, § 402(3), Oct. 28, 1992, 106 Stat. 3624; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, § 13102, May 22, 2008, 122 Stat. 1432; Pub. L. 110–246, § 4(a), title XIII, § 13102, June 18, 2008, 122 Stat. 1664, 2194; Pub. L. 111–203, title VII, § 741(b)(1), July 21, 2010, 124 Stat. 1730.)
+(Sept. 21, 1922, ch. 369, § 4b, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1493; amended Pub. L. 90–258, § 5, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title IV, § 405, Oct. 23, 1974, 88 Stat. 1413; Pub. L. 99–641, title I, § 101, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title IV, § 402(3), Oct. 28, 1992, 106 Stat. 3624; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, § 13102, May 22, 2008, 122 Stat. 1432; Pub. L. 110–246, § 4(a), title XIII, § 13102, June 18, 2008, 122 Stat. 1664, 2194; Pub. L. 111–203, title VII, § 741(b)(1), July 21, 2010, 124 Stat. 1730.)
 
 **Editorial Notes**
 
@@ -3111,13 +3111,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2010—Subsec. (a)(2). Pub. L. 111–203, § 741(b)(1)(A), substituted “or swap,” for “or other agreement, contract, or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,”.
+2010—Subsec. (a)(2). Pub. L. 111–203, § 741(b)(1)(A), substituted “or swap,” for “or other agreement, contract, or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,”.
 
-Subsec. (b). Pub. L. 111–203, § 741(b)(1)(B), substituted “or swap,” for “or other agreement, contract or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,”.
+Subsec. (b). Pub. L. 111–203, § 741(b)(1)(B), substituted “or swap,” for “or other agreement, contract or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,”.
 
-Subsec. (e). Pub. L. 111–203, § 741(b)(1)(C), added subsec. (e).
+Subsec. (e). Pub. L. 111–203, § 741(b)(1)(C), added subsec. (e).
 
-2008—Pub. L. 110–246, § 13102, inserted section catchline, added subsecs. (a) and (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which related to contracts designed to defraud or mislead and bucketing orders.
+2008—Pub. L. 110–246, § 13102, inserted section catchline, added subsecs. (a) and (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which related to contracts designed to defraud or mislead and bucketing orders.
 
 2000—Subsec. (a)(1). Pub. L. 106–554 substituted “registered entity” for “contract market” in two places.
 
@@ -3133,7 +3133,7 @@ Subsec. (e). Pub. L. 111–203, § 741(b)(1)(C), added subsec. (e).
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -3151,7 +3151,7 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 6b–1. Enforcement authority
+## § 6b–1. Enforcement authority
 
 **(a) Commodity Futures Trading Commission**
 
@@ -3185,21 +3185,21 @@ If the Commission does not initiate an enforcement proceeding before the end of 
 
 If the prudential regulator does not initiate an enforcement proceeding before the end of the 90-day period beginning on the date on which the prudential regulator receives a written report under subsection (c)(2), the Commission may initiate an enforcement proceeding.
 
-(Sept. 21, 1922, ch. 369, § 4b–1, as added Pub. L. 111–203, title VII, § 741(a), July 21, 2010, 124 Stat. 1729.)
+(Sept. 21, 1922, ch. 369, § 4b–1, as added Pub. L. 111–203, title VII, § 741(a), July 21, 2010, 124 Stat. 1729.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subtitle A of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a), is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of this title and subchapter I (§ 8301 et seq.) of chapter 109 and section 78c–2 of Title 15, Commerce and Trade, amended sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of this title, section 761 of Title 11, Bankruptcy, sections 4421 and 4422 of Title 12, Banks and Banking, and sections 78f, 78*o*, and 78s of Title 15, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of this title, and amended provisions set out as a note under section 78c of Title 15. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a), is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of this title and subchapter I (§ 8301 et seq.) of chapter 109 and section 78c–2 of Title 15, Commerce and Trade, amended sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of this title, section 761 of Title 11, Bankruptcy, sections 4421 and 4422 of Title 12, Banks and Banking, and sections 78f, 78*o*, and 78s of Title 15, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of this title, and amended provisions set out as a note under section 78c of Title 15. For complete classification of subtitle A to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 6c. Prohibited transactions
+## § 6c. Prohibited transactions
 
 **(a) In general**
 
@@ -3253,9 +3253,9 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 **(ii)** an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or
 
-**(iii)** a swap, provided, however, that nothing in this subparagraph shall preclude a person that has provided information concerning, or generated by, the person, its operations or activities, to any employee or agent of any department or agency of the Federal Government, to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee, voluntarily or as required by law, from using such information to enter into, or offer to enter into, a contract of sale, option, or swap described in clauses 1
+**(iii)** a swap, provided, however, that nothing in this subparagraph shall preclude a person that has provided information concerning, or generated by, the person, its operations or activities, to any employee or agent of any department or agency of the Federal Government, to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee, voluntarily or as required by law, from using such information to enter into, or offer to enter into, a contract of sale, option, or swap described in clauses 1
 
-<sup>1</sup>  So in original. Probably should be “clause”.
+<sup>1</sup> So in original. Probably should be “clause”.
 
 (i), (ii), or (iii).
 
@@ -3331,7 +3331,7 @@ Nothing in this chapter shall be deemed to govern or in any way be applicable to
 
 The Commission shall adopt rules requiring that a contemporaneous written record be made, as practicable, of all orders for execution on the floor or subject to the rules of each contract market or derivatives transaction execution facility placed by a member of the contract market or derivatives transaction execution facility who is present on the floor at the time such order is placed.
 
-(Sept. 21, 1922, ch. 369, § 4c, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1494; amended Pub. L. 93–463, title I, § 103(a), title IV, § 402, Oct. 23, 1974, 88 Stat. 1392, 1412; Pub. L. 95–405, § 3, Sept. 30, 1978, 92 Stat. 867; Pub. L. 97–444, title I, § 102, title II, § 206, Jan. 11, 1983, 96 Stat. 2296, 2301; Pub. L. 99–641, title I, § 102, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, § 203(a), title IV, § 402(4), Oct. 28, 1992, 106 Stat. 3600, 3624; Pub. L. 106–554, § 1(a)(5) [title I, §§ 109, 123(a)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–383, 2763A–407; Pub. L. 111–203, title VII, §§ 741(b)(2), 746, 747, July 21, 2010, 124 Stat. 1731, 1737, 1739; Pub. L. 112–105, § 5, Apr. 4, 2012, 126 Stat. 293.)
+(Sept. 21, 1922, ch. 369, § 4c, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1494; amended Pub. L. 93–463, title I, § 103(a), title IV, § 402, Oct. 23, 1974, 88 Stat. 1392, 1412; Pub. L. 95–405, § 3, Sept. 30, 1978, 92 Stat. 867; Pub. L. 97–444, title I, § 102, title II, § 206, Jan. 11, 1983, 96 Stat. 2296, 2301; Pub. L. 99–641, title I, § 102, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, § 203(a), title IV, § 402(4), Oct. 28, 1992, 106 Stat. 3600, 3624; Pub. L. 106–554, § 1(a)(5) [title I, §§ 109, 123(a)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–383, 2763A–407; Pub. L. 111–203, title VII, §§ 741(b)(2), 746, 747, July 21, 2010, 124 Stat. 1731, 1737, 1739; Pub. L. 112–105, § 5, Apr. 4, 2012, 126 Stat. 293.)
 
 **Editorial Notes**
 
@@ -3341,25 +3341,25 @@ Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. 
 
 **Amendments**
 
-2012—Subsec. (a)(3). Pub. L. 112–105, § 5(1), inserted in introductory provisions “or any Member of Congress or employee of Congress (as such terms are defined under section 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act)” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.
+2012—Subsec. (a)(3). Pub. L. 112–105, § 5(1), inserted in introductory provisions “or any Member of Congress or employee of Congress (as such terms are defined under section 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act)” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.
 
-Subsec. (a)(4)(A). Pub. L. 112–105, § 5(2)(A), inserted in introductory provisions “or any Member of Congress or employee of Congress or any judicial officer or judicial employee” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.
+Subsec. (a)(4)(A). Pub. L. 112–105, § 5(2)(A), inserted in introductory provisions “or any Member of Congress or employee of Congress or any judicial officer or judicial employee” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.
 
-Subsec. (a)(4)(B). Pub. L. 112–105, § 5(2)(B), inserted “or any Member of Congress or employee of Congress or any judicial officer or judicial employee” after “Federal Government” in introductory provisions.
+Subsec. (a)(4)(B). Pub. L. 112–105, § 5(2)(B), inserted “or any Member of Congress or employee of Congress or any judicial officer or judicial employee” after “Federal Government” in introductory provisions.
 
-Subsec. (a)(4)(C). Pub. L. 112–105, § 5(2)(C)(i), inserted “or by Congress or by the judiciary” in two places in introductory provisions.
+Subsec. (a)(4)(C). Pub. L. 112–105, § 5(2)(C)(i), inserted “or by Congress or by the judiciary” in two places in introductory provisions.
 
-Subsec. (a)(4)(C)(iii). Pub. L. 112–105, § 5(2)(C)(ii), inserted “to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee,” after “Federal Government,”.
+Subsec. (a)(4)(C)(iii). Pub. L. 112–105, § 5(2)(C)(ii), inserted “to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee,” after “Federal Government,”.
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 741(b)(2), inserted “or swap” before “if the transaction is used or may be used”.
+2010—Subsec. (a)(1). Pub. L. 111–203, § 741(b)(2), inserted “or swap” before “if the transaction is used or may be used”.
 
-Subsec. (a)(3), (4). Pub. L. 111–203, § 746, added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 111–203, § 746, added pars. (3) and (4).
 
-Subsec. (a)(5) to (7). Pub. L. 111–203, § 747, added pars. (5) to (7).
+Subsec. (a)(5) to (7). Pub. L. 111–203, § 747, added pars. (5) to (7).
 
-2000—Pub. L. 106–554, § 1(a)(5) [title I, § 109], inserted section catchline.
+2000—Pub. L. 106–554, § 1(a)(5) [title I, § 109], inserted section catchline.
 
-Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 109], added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of, any transaction involving any commodity, which is or may be used for (1) hedging any transaction in interstate commerce in such commodity or the products or byproducts thereof, or (2) determining the price basis of any such transaction in interstate commerce in such commodity, or (3) delivering any such commodity sold, shipped, or received in interstate commerce for the fulfillment thereof—
+Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 109], added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of, any transaction involving any commodity, which is or may be used for (1) hedging any transaction in interstate commerce in such commodity or the products or byproducts thereof, or (2) determining the price basis of any such transaction in interstate commerce in such commodity, or (3) delivering any such commodity sold, shipped, or received in interstate commerce for the fulfillment thereof—
 
 “(A) if such transaction is, is of the character of, or is commonly known to the trade as, a ‘wash sale,’ ‘cross trade,’ or ‘accommodation trade,’ or is a fictitious sale; or
 
@@ -3367,47 +3367,47 @@ Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 109], added subsec. 
 
 Nothing in this section shall be construed to prevent the exchange of futures in connection with cash commodity transactions or of futures for cash commodities, or of transfer trades or office trades if made in accordance with board of trade rules applying to such transactions and such rules shall have been approved by the Commission.”
 
-Subsec. (g). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” in two places.
+Subsec. (g). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” in two places.
 
-1992—Subsec. (d)(2). Pub. L. 102–546, § 402(4), made technical amendments to references to section 78c(a)(12) of title 15 in subpar. (A)(iv) and to section 2(a) of this title in concluding provisions.
+1992—Subsec. (d)(2). Pub. L. 102–546, § 402(4), made technical amendments to references to section 78c(a)(12) of title 15 in subpar. (A)(iv) and to section 2(a) of this title in concluding provisions.
 
-Subsec. (g). Pub. L. 102–546, § 203(a), added subsec. (g).
+Subsec. (g). Pub. L. 102–546, § 203(a), added subsec. (g).
 
 1986—Subsec. (c). Pub. L. 99–641, amended subsec. (c) generally, substituting provisions relating to regulations to eliminate pilot status of program for commodity option transactions for provisions relating to commodity option transactions, pilot program and permanent authorization, conditions ending prohibition, and excepted persons.
 
-1983—Subsec. (a)(B), (C). Pub. L. 97–444, § 206(1), redesignated par. (C) as (B). Former par. (B), relating to transactions involving any commodity specifically set forth in section 2(a) of this title, prior to October 23, 1974, if such transactions were of the character of, or were commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”, was struck out.
+1983—Subsec. (a)(B), (C). Pub. L. 97–444, § 206(1), redesignated par. (C) as (B). Former par. (B), relating to transactions involving any commodity specifically set forth in section 2(a) of this title, prior to October 23, 1974, if such transactions were of the character of, or were commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”, was struck out.
 
-Subsec. (b). Pub. L. 97–444, § 206(2), in revising section generally, struck out references to any transaction subject to provisions of subsection (a) of this section and to any commodity not specifically set forth in section 2(a) of this title, prior to October 23, 1974, and struck out “within one year after the effective date of the Commodity Futures Trading Commission Act of 1974 unless the Commission determines and notifies the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture that it is unable to prescribe such terms and conditions within such period of time:” after “such terms and conditions as the Commission shall prescribe”.
+Subsec. (b). Pub. L. 97–444, § 206(2), in revising section generally, struck out references to any transaction subject to provisions of subsection (a) of this section and to any commodity not specifically set forth in section 2(a) of this title, prior to October 23, 1974, and struck out “within one year after the effective date of the Commodity Futures Trading Commission Act of 1974 unless the Commission determines and notifies the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture that it is unable to prescribe such terms and conditions within such period of time:” after “such terms and conditions as the Commission shall prescribe”.
 
-Subsec. (c). Pub. L. 97–444, § 206(3), inserted “With respect to any commodity regulated under this chapter and specifically set forth in section 2(a) of this title prior to October 23, 1974, the Commission may, pursuant to the procedures set forth in this subsection, establish a pilot program for a period not to exceed three years to permit such commodity option transactions. The Commission may authorize commodity option transactions during the pilot program in as many commodities as will provide an adequate test of the trading of such option transactions. After completion of the pilot program, the Commission may authorize commodity option transactions without regard to the restrictions in the pilot program after the Commission transmits to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the documentation required under clause (1) of the first sentence of this subsection and the expiration of thirty calendar days of continuous session of Congress after the date of such transmittal.”
+Subsec. (c). Pub. L. 97–444, § 206(3), inserted “With respect to any commodity regulated under this chapter and specifically set forth in section 2(a) of this title prior to October 23, 1974, the Commission may, pursuant to the procedures set forth in this subsection, establish a pilot program for a period not to exceed three years to permit such commodity option transactions. The Commission may authorize commodity option transactions during the pilot program in as many commodities as will provide an adequate test of the trading of such option transactions. After completion of the pilot program, the Commission may authorize commodity option transactions without regard to the restrictions in the pilot program after the Commission transmits to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the documentation required under clause (1) of the first sentence of this subsection and the expiration of thirty calendar days of continuous session of Congress after the date of such transmittal.”
 
-Subsec. (d)(1). Pub. L. 97–444, § 206(4)(A), inserted “, other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “physical commodity”.
+Subsec. (d)(1). Pub. L. 97–444, § 206(4)(A), inserted “, other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “physical commodity”.
 
-Subsec. (d)(2). Pub. L. 97–444, § 206(4)(B), inserted “, other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “subsection (b) of this section” in provisions preceding subpar. (A).
+Subsec. (d)(2). Pub. L. 97–444, § 206(4)(B), inserted “, other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “subsection (b) of this section” in provisions preceding subpar. (A).
 
-Pub. L. 97–444, § 206(4)(C), inserted “, other than options on a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “The Commission may permit persons not domiciled in the United States to grant options under this subsection” in provisions following par. (2).
+Pub. L. 97–444, § 206(4)(C), inserted “, other than options on a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “The Commission may permit persons not domiciled in the United States to grant options under this subsection” in provisions following par. (2).
 
-Subsec. (f). Pub. L. 97–444, § 102, added subsec. (f).
+Subsec. (f). Pub. L. 97–444, § 102, added subsec. (f).
 
-1978—Subsec. (a). Pub. L. 95–405, § 3(1), in provisions following par. (C) substituted “have been approved” for “not have been disapproved”.
+1978—Subsec. (a). Pub. L. 95–405, § 3(1), in provisions following par. (C) substituted “have been approved” for “not have been disapproved”.
 
-Subsec. (b). Pub. L. 95–405, § 3(2), substituted “Senate Committee on Agriculture, Nutrition, and Forestry” for “Senate Committee on Agriculture and Forestry”.
+Subsec. (b). Pub. L. 95–405, § 3(2), substituted “Senate Committee on Agriculture, Nutrition, and Forestry” for “Senate Committee on Agriculture and Forestry”.
 
-Subsecs. (c) to (e). Pub. L. 95–405, § 3(3), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 95–405, § 3(3), added subsecs. (c) to (e).
 
-1974—Subsec. (a). Pub. L. 93–463, §§ 103(a), 402(a), (b), (d), designated existing provisions as subsec. (a), in par. (B) of subsec. (a) as so designated inserted “if such transaction involves any commodity specifically set forth in section 2(a) of this title, prior to the enactment of the Commodity Futures Trading Commission Act of 1974, and” and “option”, and in provisions following par. (C), struck out provisions prohibiting a construction of this section or section 6b of this title which would impair any State law applicable to any transaction enumerated or described in this section or section 6b of this title and substituted “Commission” for “Secretary of Agriculture”.
+1974—Subsec. (a). Pub. L. 93–463, §§ 103(a), 402(a), (b), (d), designated existing provisions as subsec. (a), in par. (B) of subsec. (a) as so designated inserted “if such transaction involves any commodity specifically set forth in section 2(a) of this title, prior to the enactment of the Commodity Futures Trading Commission Act of 1974, and” and “option”, and in provisions following par. (C), struck out provisions prohibiting a construction of this section or section 6b of this title which would impair any State law applicable to any transaction enumerated or described in this section or section 6b of this title and substituted “Commission” for “Secretary of Agriculture”.
 
-Subsec. (b). Pub. L. 93–463, § 402(c), added subsec. (b).
+Subsec. (b). Pub. L. 93–463, § 402(c), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–546, title II, § 203(b), Oct. 28, 1992, 106 Stat. 3600, provided that: “The Commission shall adopt the rules required by the amendment made under subsection (a) [amending this section] within two hundred and seventy days after the date of enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–546, title II, § 203(b), Oct. 28, 1992, 106 Stat. 3600, provided that: “The Commission shall adopt the rules required by the amendment made under subsection (a) [amending this section] within two hundred and seventy days after the date of enactment of this Act [Oct. 28, 1992].”
 
 **Effective Date of 1983 Amendment**
 
@@ -3425,7 +3425,7 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 6d. Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; conflict-of-interest systems and procedures; Chief Compliance Officer; rules to avoid duplicative regulations; swap requirements; portfolio margining accounts
+## § 6d. Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; conflict-of-interest systems and procedures; Chief Compliance Officer; rules to avoid duplicative regulations; swap requirements; portfolio margining accounts
 
 **(a) Futures commission merchant registration requirements; duties of merchants in handling customer receipts** It shall be unlawful for any person to be a futures commission merchant unless—
 
@@ -3437,7 +3437,7 @@ For effective date of section, see section 13 of act June 15, 1936, set out as a
 
 It shall be unlawful for any person, including but not limited to any clearing agency of a contract market or derivatives transaction execution facility and any depository, that has received any money, securities, or property for deposit in a separate account as provided in paragraph (2) of this section,1
 
-<sup>1</sup>  So in original. Probably means subsection (a)(2) of this section.
+<sup>1</sup> So in original. Probably means subsection (a)(2) of this section.
 
 to hold, dispose of, or use any such money, securities, or property as belonging to the depositing futures commission merchant or any person other than the customers of such futures commission merchant.
 
@@ -3509,35 +3509,35 @@ It shall be unlawful for any person to be an introducing broker unless such pers
 
 Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and pursuant to an exemption granted by the Commission under section 6(c) of this title or pursuant to a rule or regulation, a futures commission merchant that is registered pursuant to section 6f(a)(1) of this title and also registered as a broker or dealer pursuant to section 78(*o*)(b)(1) of title 15 may, pursuant to a portfolio margining program approved by the Securities and Exchange Commission pursuant to section 78s(b) of title 15, hold in a portfolio margining account carried as a securities account subject to section 78(*o*)(c)(3) of title 15 and the rules and regulations thereunder, a contract for the purchase or sale of a commodity for future delivery or an option on such a contract, and any money, securities or other property received from a customer to margin, guarantee or secure such a contract, or accruing to a customer as the result of such a contract. The Commission shall consult with the Securities and Exchange Commission to adopt rules to ensure that such transactions and accounts are subject to comparable requirements to the extent practical for similar products.
 
-(Sept. 21, 1922, ch. 369, § 4d, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1494; amended Pub. L. 90–258, § 6, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title I, § 103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, § 4, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, § 207, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6), title II, § 251(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–443; Pub. L. 111–203, title VII, §§ 713(b), 724(a), 732, 749(a), July 21, 2010, 124 Stat. 1646, 1682, 1712, 1746.)
+(Sept. 21, 1922, ch. 369, § 4d, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1494; amended Pub. L. 90–258, § 6, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title I, § 103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, § 4, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, § 207, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6), title II, § 251(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–443; Pub. L. 111–203, title VII, §§ 713(b), 724(a), 732, 749(a), July 21, 2010, 124 Stat. 1646, 1682, 1712, 1746.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 749(a)(1)(A), in introductory provisions, substituted “be a” for “engage as” and struck out “or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility” after “merchant”.
+2010—Subsec. (a). Pub. L. 111–203, § 749(a)(1)(A), in introductory provisions, substituted “be a” for “engage as” and struck out “or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility” after “merchant”.
 
-Subsec. (a)(1). Pub. L. 111–203, § 749(a)(1)(B), struck out “or introducing broker” after “merchant”.
+Subsec. (a)(1). Pub. L. 111–203, § 749(a)(1)(B), struck out “or introducing broker” after “merchant”.
 
-Subsec. (a)(2). Pub. L. 111–203, § 749(a)(1)(C), struck out “if a futures commission merchant,” after “such person shall,”.
+Subsec. (a)(2). Pub. L. 111–203, § 749(a)(1)(C), struck out “if a futures commission merchant,” after “such person shall,”.
 
-Subsecs. (c) to (e). Pub. L. 111–203, § 732, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+Subsecs. (c) to (e). Pub. L. 111–203, § 732, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-Subsec. (f). Pub. L. 111–203, § 724(a), which directed amendment of section by adding subsec. (f) at end, was executed by making the addition after subsec. (e) to reflect the probable intent of Congress and the addition of subsec. (h) by section 713(b) of Pub. L. 111–203.
+Subsec. (f). Pub. L. 111–203, § 724(a), which directed amendment of section by adding subsec. (f) at end, was executed by making the addition after subsec. (e) to reflect the probable intent of Congress and the addition of subsec. (h) by section 713(b) of Pub. L. 111–203.
 
-Subsec. (g). Pub. L. 111–203, § 749(a)(2), which directed amendment of section by adding subsec. (g) at end, was executed by making the addition after subsec. (f) to reflect the probable intent of Congress and the addition of subsec. (h) by section 713(b) of Pub. L. 111–203.
+Subsec. (g). Pub. L. 111–203, § 749(a)(2), which directed amendment of section by adding subsec. (g) at end, was executed by making the addition after subsec. (f) to reflect the probable intent of Congress and the addition of subsec. (h) by section 713(b) of Pub. L. 111–203.
 
-Subsec. (h). Pub. L. 111–203, § 713(b), added subsec. (h).
+Subsec. (h). Pub. L. 111–203, § 713(b), added subsec. (h).
 
-2000—Pub. L. 106–554, § 1(a)(5) [title II, § 251(f)], designated first undesignated par. as subsec. (a), designated second undesignated par. as subsec. (b), and added subsec. (c).
+2000—Pub. L. 106–554, § 1(a)(5) [title II, § 251(f)], designated first undesignated par. as subsec. (a), designated second undesignated par. as subsec. (b), and added subsec. (c).
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
 
-1983—Pub. L. 97–444, § 207(1), inserted reference to introducing brokers in provisions preceding par. (1).
+1983—Pub. L. 97–444, § 207(1), inserted reference to introducing brokers in provisions preceding par. (1).
 
-Par. (1). Pub. L. 97–444, § 207(2), inserted “or introducing broker” after “futures commission merchant”.
+Par. (1). Pub. L. 97–444, § 207(2), inserted “or introducing broker” after “futures commission merchant”.
 
-Par. (2). Pub. L. 97–444, § 207(3), inserted “if a futures commission merchant,” after “such person shall,”.
+Par. (2). Pub. L. 97–444, § 207(3), inserted “if a futures commission merchant,” after “such person shall,”.
 
 1978—Pub. L. 95–405 in par. (2) inserted provisions authorizing Commission to prescribe terms and conditions under which funds and property commingled and deposited as permitted by par. (2) may be commingled and deposited with other funds and property received by a futures commission merchant and required by Commission to be separately accounted for and treated as belonging to its customers.
 
@@ -3549,7 +3549,7 @@ Par. (2). Pub. L. 97–444, § 207(3), inserted “if a futures commission mer
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 1983 Amendment**
 
@@ -3571,11 +3571,11 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 6e. Dealings by unregistered floor trader or broker prohibited
+## § 6e. Dealings by unregistered floor trader or broker prohibited
 
 It shall be unlawful for any person to act as floor trader in executing purchases and sales, or as floor broker in executing any orders for the purchase or sale, of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility unless such person shall have registered, under this chapter, with the Commission as such floor trader or floor broker and such registration shall not have expired nor been suspended nor revoked.
 
-(Sept. 21, 1922, ch. 369, § 4e, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1495; amended Pub. L. 93–463, title I, § 103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, § 207(a), Oct. 28, 1992, 106 Stat. 3604; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407.)
+(Sept. 21, 1922, ch. 369, § 4e, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1495; amended Pub. L. 93–463, title I, § 103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, § 207(a), Oct. 28, 1992, 106 Stat. 3604; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407.)
 
 **Editorial Notes**
 
@@ -3591,7 +3591,7 @@ It shall be unlawful for any person to act as floor trader in executing purchase
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–546, title II, § 207(c), Oct. 28, 1992, 106 Stat. 3604, provided that: “The amendments made by this section [amending this section and sections 6f, 6g, 12a, and 13a–2 of this title] shall become effective one hundred and eighty days after the date of enactment of this Act [Oct. 28, 1992], and the Commodity Futures Trading Commission shall issue any regulations necessary to implement the amendments made by this section no later than one hundred and eighty days after the date of enactment of this Act.”
+Pub. L. 102–546, title II, § 207(c), Oct. 28, 1992, 106 Stat. 3604, provided that: “The amendments made by this section [amending this section and sections 6f, 6g, 12a, and 13a–2 of this title] shall become effective one hundred and eighty days after the date of enactment of this Act [Oct. 28, 1992], and the Commodity Futures Trading Commission shall issue any regulations necessary to implement the amendments made by this section no later than one hundred and eighty days after the date of enactment of this Act.”
 
 **Effective Date of 1974 Amendment**
 
@@ -3601,7 +3601,7 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 6f. Registration and financial requirements; risk assessment
+## § 6f. Registration and financial requirements; risk assessment
 
 **(a) Registration of futures commission merchants, introducing brokers, and floor brokers and traders**
 
@@ -3685,7 +3685,7 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 **(A)** ,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 If, as a result of adverse market conditions or based on reports provided to the Commission pursuant to paragraph (2) or other available information, the Commission reasonably concludes that the Commission has concerns regarding the financial or operational condition of any registered futures commission merchant, the Commission may require the futures commission merchant to make reports concerning the futures and other financial activities of any of such person’s affiliated persons, other than a natural person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of the futures commission merchant.
 
@@ -3693,9 +3693,9 @@ If, as a result of adverse market conditions or based on reports provided to the
 
 **(4)**
 
-**(A)** in 2
+**(A)** in 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 developing and implementing reporting requirements pursuant to paragraph (2) with respect to affiliated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to the written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish the comment and response in the Federal Register at the time of publishing the adopted rule.
 
@@ -3733,13 +3733,13 @@ developing and implementing reporting requirements pursuant to paragraph (2) wit
 
 **(11)** Nothing in paragraphs (1) through (10) shall be construed to supersede or to limit in any way the authority or powers of the Commission pursuant to any other provision of this chapter or regulations issued under this chapter.
 
-(Sept. 21, 1922, ch. 369, § 4f, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1495; amended Pub. L. 90–258, § 7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, § 103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, § 5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, § 208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§ 207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6), title II, § 252(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–447; Pub. L. 110–234, title XIII, § 13105(b), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13105(b), June 18, 2008, 122 Stat. 1664, 2196.)
+(Sept. 21, 1922, ch. 369, § 4f, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1495; amended Pub. L. 90–258, § 7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, § 103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, § 5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, § 208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§ 207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6), title II, § 252(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–447; Pub. L. 110–234, title XIII, § 13105(b), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13105(b), June 18, 2008, 122 Stat. 1664, 2196.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 9 of the Federal Reserve Act, referred to in subsec. (c)(4)(B)(i), is section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Section 9 of the Federal Reserve Act, referred to in subsec. (c)(4)(B)(i), is section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 **Codification**
 
@@ -3747,31 +3747,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (c)(4)(B)(i). Pub. L. 110–246, § 13105(b), substituted “complied” for “compiled”.
+2008—Subsec. (c)(4)(B)(i). Pub. L. 110–246, § 13105(b), substituted “complied” for “compiled”.
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title II, § 252(b)], designated existing provisions as par. (1) and added pars. (2) and (3).
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title II, § 252(b)], designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (a)(4). Pub. L. 106–554, § 1(a)(5) [title II, § 252(c)], added par. (4).
+Subsec. (a)(4). Pub. L. 106–554, § 1(a)(5) [title II, § 252(c)], added par. (4).
 
-Subsecs. (b), (c)(3)(B). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
+Subsecs. (b), (c)(3)(B). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
 
-1992—Subsec. (a). Pub. L. 102–546, §§ 207(b)(1), 229(1), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
+1992—Subsec. (a). Pub. L. 102–546, §§ 207(b)(1), 229(1), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
 
-Subsec. (b). Pub. L. 102–546, § 229(1), (2), redesignated par. (2) as subsec. (b) and substituted “this subsection” for “this paragraph (2)”.
+Subsec. (b). Pub. L. 102–546, § 229(1), (2), redesignated par. (2) as subsec. (b) and substituted “this subsection” for “this paragraph (2)”.
 
-Subsec. (c). Pub. L. 102–546, § 229(3), added subsec. (c).
+Subsec. (c). Pub. L. 102–546, § 229(3), added subsec. (c).
 
-1983—Par. (1). Pub. L. 97–444, § 208(1), made grammatical changes, made registration provisions applicable to introducing brokers, and substituted “revoked pursuant to the provisions of this chapter” for “revoked after notice and hearing as prescribed in this chapter”.
+1983—Par. (1). Pub. L. 97–444, § 208(1), made grammatical changes, made registration provisions applicable to introducing brokers, and substituted “revoked pursuant to the provisions of this chapter” for “revoked after notice and hearing as prescribed in this chapter”.
 
-Par. (2). Pub. L. 97–444, § 208(2), made financial requirements applicable to introducing brokers.
+Par. (2). Pub. L. 97–444, § 208(2), made financial requirements applicable to introducing brokers.
 
 1978—Par. (1). Pub. L. 95–405 substituted “Each registration shall expire on December 31 of the year for which issued or at such other time, not less than one year from the date of issuance, as the Commission may by rule, regulation, or order prescribe” for “All registrations shall expire on the 31st day of December of the year for which issued”.
 
 1974—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture”.
 
-1968—Par. (1). Pub. L. 90–258, § 7(a), substituted “this chapter” for “section 6g of this title”.
+1968—Par. (1). Pub. L. 90–258, § 7(a), substituted “this chapter” for “section 6g of this title”.
 
-Par. (2). Pub. L. 90–258, § 7(b), substituted provisions that prescribed financial requirements for registration as futures commission merchant be met and continued at all times and that such requirements will be considered met by membership in a contract market and compliance with its minimum financial standards and related reporting requirements for former provisions for display of futures commission merchants’ registration certificates.
+Par. (2). Pub. L. 90–258, § 7(b), substituted provisions that prescribed financial requirements for registration as futures commission merchant be met and continued at all times and that such requirements will be considered met by membership in a contract market and compliance with its minimum financial standards and related reporting requirements for former provisions for display of futures commission merchants’ registration certificates.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3803,7 +3803,7 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 6g. Reporting and recordkeeping
+## § 6g. Reporting and recordkeeping
 
 **(a) In general**
 
@@ -3829,7 +3829,7 @@ Before the beginning of trading each day, the exchange shall, insofar as is prac
 
 Nothing contained in this section shall be construed to prohibit the Commission from making separate determinations for different registered entities when such determinations are warranted in the judgment of the Commission.
 
-(Sept. 21, 1922, ch. 369, § 4g, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1496; amended Pub. L. 90–258, § 8, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, § 103(a), (f), title IV, § 415, Oct. 23, 1974, 88 Stat. 1392, 1415; Pub. L. 95–405, § 6, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, § 209, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, § 207(b)(1), title IV, § 402(5), Oct. 28, 1992, 106 Stat. 3604, 3624; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(7)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, § 13202(a), May 22, 2008, 122 Stat. 1438; Pub. L. 110–246, § 4(a), title XIII, § 13202(a), June 18, 2008, 122 Stat. 1664, 2200.)
+(Sept. 21, 1922, ch. 369, § 4g, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1496; amended Pub. L. 90–258, § 8, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, § 103(a), (f), title IV, § 415, Oct. 23, 1974, 88 Stat. 1392, 1415; Pub. L. 95–405, § 6, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, § 209, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, § 207(b)(1), title IV, § 402(5), Oct. 28, 1992, 106 Stat. 3604, 3624; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(7)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, § 13202(a), May 22, 2008, 122 Stat. 1438; Pub. L. 110–246, § 4(a), title XIII, § 13202(a), June 18, 2008, 122 Stat. 1664, 2200.)
 
 **Editorial Notes**
 
@@ -3839,29 +3839,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 13202(a), inserted “, and in any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “elsewhere”.
+2008—Subsec. (a). Pub. L. 110–246, § 13202(a), inserted “, and in any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “elsewhere”.
 
-2000—Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(7)(A)], substituted “registered entity” for “clearinghouse and contract market”.
+2000—Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(7)(A)], substituted “registered entity” for “clearinghouse and contract market”.
 
-Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(7)(B)], substituted “registered entities” for “clearinghouses, contract markets, and exchanges”.
+Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(7)(B)], substituted “registered entities” for “clearinghouses, contract markets, and exchanges”.
 
-1992—Subsec. (a). Pub. L. 102–546, §§ 207(b)(1), 402(5)(A), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
+1992—Subsec. (a). Pub. L. 102–546, §§ 207(b)(1), 402(5)(A), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
 
-Subsec. (b). Pub. L. 102–546, § 402(5)(A), redesignated par. (2) as subsec. (b).
+Subsec. (b). Pub. L. 102–546, § 402(5)(A), redesignated par. (2) as subsec. (b).
 
-Subsec. (c). Pub. L. 102–546, § 402(5), redesignated par. (3) as subsec. (c) and substituted “subsection (b)” for “paragraph (2)”.
+Subsec. (c). Pub. L. 102–546, § 402(5), redesignated par. (3) as subsec. (c) and substituted “subsection (b)” for “paragraph (2)”.
 
-Subsecs. (d) to (f). Pub. L. 102–546, § 402(5)(A), redesignated pars. (4) to (6) as subsecs. (d) to (f), respectively.
+Subsecs. (d) to (f). Pub. L. 102–546, § 402(5)(A), redesignated pars. (4) to (6) as subsecs. (d) to (f), respectively.
 
-1983—Par. (1). Pub. L. 97–444, § 209(1), made reporting and recordkeeping requirements applicable to introducing brokers.
+1983—Par. (1). Pub. L. 97–444, § 209(1), made reporting and recordkeeping requirements applicable to introducing brokers.
 
-Par. (2). Pub. L. 97–444, § 209(2), made customer daily trading records requirement applicable to introducing brokers.
+Par. (2). Pub. L. 97–444, § 209(2), made customer daily trading records requirement applicable to introducing brokers.
 
 1978—Par. (3). Pub. L. 95–405 substituted “Floor brokers” for “Brokers”.
 
-1974—Par. (1). Pub. L. 93–463, §§ 103(a), (f), 415, designated existing provisions as par. (1) and substituted “Commission” for “Secretary of Agriculture” and “United States Department of Agriculture”.
+1974—Par. (1). Pub. L. 93–463, §§ 103(a), (f), 415, designated existing provisions as par. (1) and substituted “Commission” for “Secretary of Agriculture” and “United States Department of Agriculture”.
 
-Pars. (2) to (6). Pub. L. 93–463, § 415, added pars. (2) to (6).
+Pars. (2) to (6). Pub. L. 93–463, § 415, added pars. (2) to (6).
 
 1968—Pub. L. 90–258 rephrased existing provisions to express reporting and recordkeeping requirements as a positive obligation of futures commission merchants and floor brokers, rather than as a ground for revoking or suspending registration and struck out provisions for revocation or suspension of registration. See section 9 of this title.
 
@@ -3897,11 +3897,11 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 6h. False self-representation as registered entity member prohibited
+## § 6h. False self-representation as registered entity member prohibited
 
 It shall be unlawful for any person falsely to represent such person to be a member of a registered entity or the representative or agent of such member, or to be a registrant under this chapter or the representative or agent of any registrant, in soliciting or handling any order or contract for the purchase or sale of any commodity in interstate commerce or for future delivery, or falsely to represent in connection with the handling of any such order or contract that the same is to be or has been executed on, or by or through a member of, any registered entity.
 
-(Sept. 21, 1922, ch. 369, § 4h, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1496; amended Pub. L. 97–444, title II, § 210, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(8)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407.)
+(Sept. 21, 1922, ch. 369, § 4h, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1496; amended Pub. L. 97–444, title II, § 210, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(8)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407.)
 
 **Editorial Notes**
 
@@ -3921,7 +3921,7 @@ Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 6i. Reports of deals equal to or in excess of trading limits; books and records; cash and controlled transactions
+## § 6i. Reports of deals equal to or in excess of trading limits; books and records; cash and controlled transactions
 
 It shall be unlawful for any person to make any contract for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility, or any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract—
 
@@ -3931,7 +3931,7 @@ It shall be unlawful for any person to make any contract for the purchase or sal
 
 unless such person files or causes to be filed with the properly designated officer of the Commission such reports regarding any transactions or positions described in clauses (1) and (2) hereof as the Commission may by rule or regulation require and unless, in accordance with rules and regulations of the Commission, such person shall keep books and records of all such transactions and positions and transactions and positions in any such commodity traded on or subject to the rules of any other board of trade or electronic trading facility, and of cash or spot transactions in, and inventories and purchase and sale commitments of such commodity. Such books and records shall show complete details concerning all such transactions, positions, inventories, and commitments, including the names and addresses of all persons having any interest therein, and shall be open at all times to inspection by any representative of the Commission or the Department of Justice. For the purposes of this section, the futures and cash or spot transactions and positions of any person shall include such transactions and positions of any persons directly or indirectly controlled by such person.
 
-(Sept. 21, 1922, ch. 369, § 4i, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1496; amended Pub. L. 90–258, § 9, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, § 103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, § 211, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(9)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, § 13202(b), May 22, 2008, 122 Stat. 1439; Pub. L. 110–246, § 4(a), title XIII, § 13202(b), June 18, 2008, 122 Stat. 1664, 2201.)
+(Sept. 21, 1922, ch. 369, § 4i, as added June 15, 1936, ch. 545, § 5, 49 Stat. 1496; amended Pub. L. 90–258, § 9, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, § 103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, § 211, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(9)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, § 13202(b), May 22, 2008, 122 Stat. 1439; Pub. L. 110–246, § 4(a), title XIII, § 13202(b), June 18, 2008, 122 Stat. 1664, 2201.)
 
 **Editorial Notes**
 
@@ -3941,7 +3941,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 13202(b), in introductory provisions, inserted “, or any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “derivatives transaction execution facility” and, in concluding provisions, inserted “or electronic trading facility” after “board of trade”.
+2008—Pub. L. 110–246, § 13202(b), in introductory provisions, inserted “, or any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “derivatives transaction execution facility” and, in concluding provisions, inserted “or electronic trading facility” after “board of trade”.
 
 2000—Pub. L. 106–554 inserted “or derivatives transaction execution facility” after “contract market” in introductory provisions.
 
@@ -3975,7 +3975,7 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 6j. Restrictions on dual trading in security futures products on designated contract markets and registered derivatives transaction execution facilities
+## § 6j. Restrictions on dual trading in security futures products on designated contract markets and registered derivatives transaction execution facilities
 
 **(a) Issuance of regulations** The Commission shall issue regulations to prohibit the privilege of dual trading in security futures products on each contract market and registered derivatives transaction execution facility. The regulations issued by the Commission under this section—
 
@@ -4007,7 +4007,7 @@ For effective date of section, see section 13 of act June 15, 1936, set out as a
 
 **(4)** regularly share a deck of orders.
 
-(Sept. 21, 1922, ch. 369, § 4j, as added Pub. L. 93–463, title II, § 203, Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 94–16, § 2, Apr. 16, 1975, 89 Stat. 77; Pub. L. 102–546, title I, §§ 101, 102(a), Oct. 28, 1992, 106 Stat. 3591, 3594; Pub. L. 106–554, § 1(a)(5) [title II, § 251(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–442.)
+(Sept. 21, 1922, ch. 369, § 4j, as added Pub. L. 93–463, title II, § 203, Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 94–16, § 2, Apr. 16, 1975, 89 Stat. 77; Pub. L. 102–546, title I, §§ 101, 102(a), Oct. 28, 1992, 106 Stat. 3591, 3594; Pub. L. 106–554, § 1(a)(5) [title II, § 251(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–442.)
 
 **Editorial Notes**
 
@@ -4015,13 +4015,13 @@ For effective date of section, see section 13 of act June 15, 1936, set out as a
 
 2000—Pub. L. 106–554 amended section generally. Prior to amendment, section required Commission to issue regulations to prohibit the privilege of dual trading on contract markets, allowed for certain exemptions, required Commission to make determinations relating to trading by floor brokers and futures commission merchants, and restricted trading among members of broker associations.
 
-1992—Subsec. (a). Pub. L. 102–546, § 101(a)(3), added subsec. (a).
+1992—Subsec. (a). Pub. L. 102–546, § 101(a)(3), added subsec. (a).
 
-Subsec. (b). Pub. L. 102–546, § 101(a)(1), (2), redesignated par. (1) as subsec. (b) and substituted “If, in addition to the regulations issued pursuant to subsection (a) of this section, the Commission has reason to believe that dual trading-related or facilitated abuses are not being or cannot be effectively addressed by subsection (a) of this section, the Commission shall” for “The Commission shall within nine months after the effective date of the Commodity Futures Trading Commission Act of 1974, and subsequently when it determines that changes are required,”.
+Subsec. (b). Pub. L. 102–546, § 101(a)(1), (2), redesignated par. (1) as subsec. (b) and substituted “If, in addition to the regulations issued pursuant to subsection (a) of this section, the Commission has reason to believe that dual trading-related or facilitated abuses are not being or cannot be effectively addressed by subsection (a) of this section, the Commission shall” for “The Commission shall within nine months after the effective date of the Commodity Futures Trading Commission Act of 1974, and subsequently when it determines that changes are required,”.
 
-Subsec. (c). Pub. L. 102–546, § 101(a)(1), redesignated par. (2) as subsec. (c).
+Subsec. (c). Pub. L. 102–546, § 101(a)(1), redesignated par. (2) as subsec. (c).
 
-Subsec. (d). Pub. L. 102–546, § 102(a), added subsec. (d).
+Subsec. (d). Pub. L. 102–546, § 102(a), added subsec. (d).
 
 1975—Pub. L. 94–16 substituted “nine months” for “six months” in pars. (1) and (2).
 
@@ -4029,13 +4029,13 @@ Subsec. (d). Pub. L. 102–546, § 102(a), added subsec. (d).
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–546, title I, § 102(b), Oct. 28, 1992, 106 Stat. 3594, provided that: “The amendment made by subsection (a) [amending this section] shall become effective two hundred and seventy days after the date of enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–546, title I, § 102(b), Oct. 28, 1992, 106 Stat. 3594, provided that: “The amendment made by subsection (a) [amending this section] shall become effective two hundred and seventy days after the date of enactment of this Act [Oct. 28, 1992].”
 
 **Effective Date**
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 6k. Registration of associates of futures commission merchants, commodity pool operators, and commodity trading advisors; required disclosure of disqualifications; exemptions for associated persons
+## § 6k. Registration of associates of futures commission merchants, commodity pool operators, and commodity trading advisors; required disclosure of disqualifications; exemptions for associated persons
 
 **(1)** It shall be unlawful for any person to be associated with a futures commission merchant as a partner, officer, or employee, or to be associated with an introducing broker as a partner, officer, employee, or agent (or any person occupying a similar status or performing similar functions), in any capacity that involves (i) the solicitation or acceptance of customers’ orders (other than in a clerical capacity) or (ii) the supervision of any person or persons so engaged, unless such person is registered with the Commission under this chapter as an associated person of such futures commission merchant or of such introducing broker and such registration shall not have expired, been suspended (and the period of suspension has not expired), or been revoked. It shall be unlawful for a futures commission merchant or introducing broker to permit such a person to become or remain associated with the futures commission merchant or introducing broker in any such capacity if such futures commission merchant or introducing broker knew or should have known that such person was not so registered or that such registration had expired, been suspended (and the period of suspension has not expired), or been revoked. Any individual who is registered as a floor broker, futures commission merchant, or introducing broker (and such registration is not suspended or revoked) need not also register under this paragraph.
 
@@ -4067,7 +4067,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 **(I)** Section 20 of this title.
 
-(Sept. 21, 1922, ch. 369, § 4k, as added Pub. L. 93–463, title II, § 204(a), Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 95–405, § 7, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, § 212, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, § 1(a)(5) [title II, § 252(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–448; Pub. L. 110–234, title XIII, § 13105(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13105(c), June 18, 2008, 122 Stat. 1664, 2196.)
+(Sept. 21, 1922, ch. 369, § 4k, as added Pub. L. 93–463, title II, § 204(a), Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 95–405, § 7, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, § 212, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, § 1(a)(5) [title II, § 252(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–448; Pub. L. 110–234, title XIII, § 13105(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13105(c), June 18, 2008, 122 Stat. 1664, 2196.)
 
 **Editorial Notes**
 
@@ -4077,9 +4077,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pars. (5), (6). Pub. L. 110–246, § 13105(c), redesignated par. (5) relating to exempting associated persons or dealers from provisions of this chapter as (6).
+2008—Pars. (5), (6). Pub. L. 110–246, § 13105(c), redesignated par. (5) relating to exempting associated persons or dealers from provisions of this chapter as (6).
 
-2000—Par. (5). Pub. L. 106–554, § 1(a)(5) [title II, § 252(d)], which directed amendment of this section by “inserting after paragraph (4), as added by subsection (c) of this section” a new par. (5) relating to exempting associated persons or dealers from provisions of this chapter, was executed by adding that par. (5) at the end. Section 1(a)(5)[title II, § 252(c)] did not add a par. (4) to this section.
+2000—Par. (5). Pub. L. 106–554, § 1(a)(5) [title II, § 252(d)], which directed amendment of this section by “inserting after paragraph (4), as added by subsection (c) of this section” a new par. (5) relating to exempting associated persons or dealers from provisions of this chapter, was executed by adding that par. (5) at the end. Section 1(a)(5)[title II, § 252(c)] did not add a par. (4) to this section.
 
 1983—Par. (1). Pub. L. 97–444 amended par. (1) generally to apply to introducing brokers and persons associated with introducing brokers.
 
@@ -4091,9 +4091,9 @@ Par. (4). Pub. L. 97–444 redesignated former par. (2) as (4) and substituted �
 
 Par. (5). Pub. L. 97–444 added par. (5).
 
-1978—Par. (2). Pub. L. 95–405, § 7(1), inserted provisions authorizing the Commission to prescribe the period of registration of not less than one year for associated persons.
+1978—Par. (2). Pub. L. 95–405, § 7(1), inserted provisions authorizing the Commission to prescribe the period of registration of not less than one year for associated persons.
 
-Par. (3). Pub. L. 95–405, § 7(2), added par. (3).
+Par. (3). Pub. L. 95–405, § 7(2), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4113,7 +4113,7 @@ Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 6l. Commodity trading advisors and commodity pool operators; Congressional finding
+## § 6l. Commodity trading advisors and commodity pool operators; Congressional finding
 
 It is hereby found that the activities of commodity trading advisors and commodity pool operators are affected with a national public interest in that, among other things—
 
@@ -4123,7 +4123,7 @@ It is hereby found that the activities of commodity trading advisors and commodi
 
 **(3)** the foregoing transactions occur in such volume as to affect substantially transactions on contract markets or derivatives transaction execution facilities.
 
-(Sept. 21, 1922, ch. 369, § 4*l*, as added Pub. L. 93–463, title II, § 205(a), Oct. 23, 1974, 88 Stat. 1397; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(10)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408.)
+(Sept. 21, 1922, ch. 369, § 4*l*, as added Pub. L. 93–463, title II, § 205(a), Oct. 23, 1974, 88 Stat. 1397; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(10)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408.)
 
 **Editorial Notes**
 
@@ -4137,7 +4137,7 @@ It is hereby found that the activities of commodity trading advisors and commodi
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 6m. Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators; relation to other law
+## § 6m. Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators; relation to other law
 
 **(1)** It shall be unlawful for any commodity trading advisor or commodity pool operator, unless registered under this chapter, to make use of the mails or any means or instrumentality of interstate commerce in connection with his business as such commodity trading advisor or commodity pool operator: *Provided*, That the provisions of this section shall not apply to any commodity trading advisor who, during the course of the preceding twelve months, has not furnished commodity trading advice to more than fifteen persons and who does not hold himself out generally to the public as a commodity trading advisor. The provisions of this section shall not apply to any commodity trading advisor who is a (1) dealer, processor, broker, or seller in cash market transactions of any commodity specifically set forth in section 2(a) of this title prior to October 23, 1974, (or products thereof) or (2) nonprofit, voluntary membership, general farm organization, who provides advice on the sale or purchase of any commodity specifically set forth in section 2(a) of this title prior to October 23, 1974; if the advice by the person described in clause (1) or (2) of this sentence as a commodity trading advisor is solely incidental to the conduct of that person’s business: *Provided*, That such person shall be subject to proceedings under section 18 of this title.
 
@@ -4151,21 +4151,21 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 **(C) Commodity interests.—** For purposes of this paragraph, commodity interests shall include contracts of sale of a commodity for future delivery, options on such contracts, security futures, swaps, leverage contracts, foreign exchange, spot and forward contracts on physical commodities, and any monies held in an account used for trading commodity interests.
 
-(Sept. 21, 1922, ch. 369, § 4m, as added Pub. L. 93–463, title II, § 205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, § 8, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title I, § 103, Jan. 11, 1983, 96 Stat. 2296; Pub. L. 106–554, § 1(a)(5) [title II, § 251(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–443; Pub. L. 111–203, title VII, §§ 721(e)(2), 749(b), July 21, 2010, 124 Stat. 1671, 1747.)
+(Sept. 21, 1922, ch. 369, § 4m, as added Pub. L. 93–463, title II, § 205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, § 8, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title I, § 103, Jan. 11, 1983, 96 Stat. 2296; Pub. L. 106–554, § 1(a)(5) [title II, § 251(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–443; Pub. L. 111–203, title VII, §§ 721(e)(2), 749(b), July 21, 2010, 124 Stat. 1671, 1747.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in par. (2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in par. (2), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in par. (2), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 **Amendments**
 
-2010—Par. (3). Pub. L. 111–203, § 749(b), inserted heading, designated existing provisions as subpar. (A) and inserted heading, substituted “Paragraph (1)” for “Subsection (1) of this section” and “to any commodity pool that is engaged primarily in trading commodity interests.” for “to any investment trust, syndicate, or similar form of enterprise that is engaged primarily in trading in any commodity for future delivery on or subject to the rules of any contract market or registered derivatives transaction execution facility.”, and added subpars. (B) and (C).
+2010—Par. (3). Pub. L. 111–203, § 749(b), inserted heading, designated existing provisions as subpar. (A) and inserted heading, substituted “Paragraph (1)” for “Subsection (1) of this section” and “to any commodity pool that is engaged primarily in trading commodity interests.” for “to any investment trust, syndicate, or similar form of enterprise that is engaged primarily in trading in any commodity for future delivery on or subject to the rules of any contract market or registered derivatives transaction execution facility.”, and added subpars. (B) and (C).
 
-Pub. L. 111–203, § 721(e)(2), substituted “section 1a” for “section 1a(6)”.
+Pub. L. 111–203, § 721(e)(2), substituted “section 1a” for “section 1a(6)”.
 
 2000—Par. (3). Pub. L. 106–554 added par. (3).
 
@@ -4177,7 +4177,7 @@ Pub. L. 111–203, § 721(e)(2), substituted “section 1a” for “section 1
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 1983 Amendment**
 
@@ -4191,7 +4191,7 @@ Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 6n. Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports; disclosure; statements of account
+## § 6n. Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports; disclosure; statements of account
 
 **(1)** Any commodity trading advisor or commodity pool operator, or any person who contemplates becoming a commodity trading advisor or commodity pool operator, may register under this chapter by filing an application with the Commission. Such application shall contain such information, in such form and detail, as the Commission may, by rules and regulations, prescribe as necessary or appropriate in the public interest, including the following:
 
@@ -4217,7 +4217,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 **(4)** Every commodity pool operator shall regularly furnish statements of account to each participant in his operations. Such statements shall be in such form and manner as may be prescribed by the Commission and shall include complete information as to the current status of all trading accounts in which such participant has an interest.
 
-(Sept. 21, 1922, ch. 369, § 4n, as added Pub. L. 93–463, title II, § 205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, § 9, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title II, § 213, Jan. 11, 1983, 96 Stat. 2305.)
+(Sept. 21, 1922, ch. 369, § 4n, as added Pub. L. 93–463, title II, § 205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, § 9, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title II, § 213, Jan. 11, 1983, 96 Stat. 2305.)
 
 **Editorial Notes**
 
@@ -4227,9 +4227,9 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 Par. (6). Pub. L. 97–444 struck out par. (6) which authorized Commission to deny registration or revoke or suspend the registration of any commodity trading advisor or commodity pool operator if the Commission found that such denial, revocation, or suspension was in the public interest and that such person had been guilty of certain specified activities. See section 12a(2), (3), and (4) of this title.
 
-1978—Par. (2). Pub. L. 95–405, § 9(1)–(3), redesignated par. (3) as (2) and substituted “Each registration” for “All registrations” and inserted “or at such other time, not less than one year from the effective date thereof, as the Commission may rule, regulation, or order prescribe,” after “June of each year,”. Former par. (2), which provided that registration under this section becomes effective thirty days after the receipt of such application by the Commission, or within such shorter period of time as the Commission may determine, was struck out.
+1978—Par. (2). Pub. L. 95–405, § 9(1)–(3), redesignated par. (3) as (2) and substituted “Each registration” for “All registrations” and inserted “or at such other time, not less than one year from the effective date thereof, as the Commission may rule, regulation, or order prescribe,” after “June of each year,”. Former par. (2), which provided that registration under this section becomes effective thirty days after the receipt of such application by the Commission, or within such shorter period of time as the Commission may determine, was struck out.
 
-Pars. (3) to (6). Pub. L. 95–405, § 9(1), redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3) redesignated (2).
+Pars. (3) to (6). Pub. L. 95–405, § 9(1), redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3) redesignated (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4245,7 +4245,7 @@ Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 6o. Fraud and misrepresentation by commodity trading advisors, commodity pool operators, and associated persons
+## § 6o. Fraud and misrepresentation by commodity trading advisors, commodity pool operators, and associated persons
 
 **(1)** It shall be unlawful for a commodity trading advisor, associated person of a commodity trading advisor, commodity pool operator, or associated person of a commodity pool operator, by use of the mails or any means or instrumentality of interstate commerce, directly or indirectly—
 
@@ -4255,7 +4255,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 **(2)** It shall be unlawful for any commodity trading advisor, associated person of a commodity trading advisor, commodity pool operator, or associated person of a commodity pool operator registered under this chapter to represent or imply in any manner whatsoever that such person has been sponsored, recommended, or approved, or that such person’s abilities or qualifications have in any respect been passed upon, by the United States or any agency or officer thereof. This section shall not be construed to prohibit a statement that a person is registered under this chapter as a commodity trading advisor, associated person of a commodity trading advisor, commodity pool operator, or associated person of a commodity pool operator, if such statement is true in fact and if the effect of such registration is not misrepresented.
 
-(Sept. 21, 1922, ch. 369, § 4*o*, as added Pub. L. 93–463, title II, § 205(a), Oct. 23, 1974, 88 Stat. 1399; amended Pub. L. 95–405, § 10, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title II, § 214, Jan. 11, 1983, 96 Stat. 2305.)
+(Sept. 21, 1922, ch. 369, § 4*o*, as added Pub. L. 93–463, title II, § 205(a), Oct. 23, 1974, 88 Stat. 1399; amended Pub. L. 95–405, § 10, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title II, § 214, Jan. 11, 1983, 96 Stat. 2305.)
 
 **Editorial Notes**
 
@@ -4281,25 +4281,25 @@ Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 6o–1. Transferred
+## § 6o–1. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Sept. 21, 1922, ch. 369, § 4q, formerly § 4p, as added Pub. L. 106–554, § 1(a)(5) [title I, § 121], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, and renumbered, which related to special procedures to encourage and facilitate bona fide hedging by agricultural producers, was transferred to section 6q of this title.
+Section, Sept. 21, 1922, ch. 369, § 4q, formerly § 4p, as added Pub. L. 106–554, § 1(a)(5) [title I, § 121], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, and renumbered, which related to special procedures to encourage and facilitate bona fide hedging by agricultural producers, was transferred to section 6q of this title.
 
-## § 6p. Standards and examinations
+## § 6p. Standards and examinations
 
 **(a)** The Commission may specify by rules and regulations appropriate standards with respect to training, experience, and such other qualifications as the Commission finds necessary or desirable to insure the fitness of persons required to be registered with the Commission. In connection therewith, the Commission may prescribe by rules and regulations the adoption of written proficiency examinations to be given to applicants for registration and the establishment of reasonable fees to be charged to such applicants to cover the administration of such examinations. The Commission may further prescribe by rules and regulations that, in lieu of examinations administered by the Commission, futures associations registered under section 21 of this title, contract markets, or derivatives transaction execution facilities may adopt written proficiency examinations to be given to applicants for registration and charge reasonable fees to such applicants to cover the administration of such examinations. Notwithstanding any other provision of this section, the Commission may specify by rules and regulations such terms and conditions as it deems appropriate to protect the public interest wherein exception to any written proficiency examination shall be made with respect to individuals who have demonstrated, through training and experience, the degree of proficiency and skill necessary to protect the interests of customers, clients, pool participants, or other members of the public with whom such individuals deal.
 
-**(b)** The Commission shall issue regulations to require new registrants, within six months after receiving such registration, to attend a training session, and all other registrants to attend periodic training sessions, to ensure that registrants understand their responsibilities to the public under this chapter, including responsibilities to observe just and equitable principles of trade, any rule or regulation of the Commission, any rule of any appropriate contract market, derivatives transaction execution facility, registered futures association, or other self-regulatory organization, or any other applicable Federal or state 1
+**(b)** The Commission shall issue regulations to require new registrants, within six months after receiving such registration, to attend a training session, and all other registrants to attend periodic training sessions, to ensure that registrants understand their responsibilities to the public under this chapter, including responsibilities to observe just and equitable principles of trade, any rule or regulation of the Commission, any rule of any appropriate contract market, derivatives transaction execution facility, registered futures association, or other self-regulatory organization, or any other applicable Federal or state 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 law, rule or regulation.
 
-(Sept. 21, 1922, ch. 369, § 4p, as added Pub. L. 93–463, title II, § 206, Oct. 23, 1974, 88 Stat. 1400; amended Pub. L. 97–444, title II, § 215, Jan. 11, 1983, 96 Stat. 2305; Pub. L. 102–546, title II, § 210(a), Oct. 28, 1992, 106 Stat. 3607; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(11)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408.)
+(Sept. 21, 1922, ch. 369, § 4p, as added Pub. L. 93–463, title II, § 206, Oct. 23, 1974, 88 Stat. 1400; amended Pub. L. 97–444, title II, § 215, Jan. 11, 1983, 96 Stat. 2305; Pub. L. 102–546, title II, § 210(a), Oct. 28, 1992, 106 Stat. 3607; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(11)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408.)
 
 **Editorial Notes**
 
@@ -4309,9 +4309,9 @@ Another section 4p of act Sept. 21, 1922, was renumbered section 4q and is class
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(11)(A)], substituted “title, contract markets, or derivatives transaction execution facilities” for “title or contract markets”.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(11)(A)], substituted “title, contract markets, or derivatives transaction execution facilities” for “title or contract markets”.
 
-Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(11)(B)], inserted “derivatives transaction execution facility,” after “contract market,”.
+Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(11)(B)], inserted “derivatives transaction execution facility,” after “contract market,”.
 
 1992—Pub. L. 102–546 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -4329,9 +4329,9 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 **Regulations**
 
-Pub. L. 102–546, title II, § 210(b), Oct. 28, 1992, 106 Stat. 3607, provided that: “The Commodity Futures Trading Commission shall issue the regulations required by section 4p(b) of the Commodity Exchange Act [7 U.S.C. 6p(b)], as added by subsection (a), no later than one hundred and eighty days after the date of enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–546, title II, § 210(b), Oct. 28, 1992, 106 Stat. 3607, provided that: “The Commodity Futures Trading Commission shall issue the regulations required by section 4p(b) of the Commodity Exchange Act [7 U.S.C. 6p(b)], as added by subsection (a), no later than one hundred and eighty days after the date of enactment of this Act [Oct. 28, 1992].”
 
-## § 6q. Special procedures to encourage and facilitate bona fide hedging by agricultural producers
+## § 6q. Special procedures to encourage and facilitate bona fide hedging by agricultural producers
 
 **(a) Authority** The Commission shall consider issuing rules or orders which—
 
@@ -4347,7 +4347,7 @@ Pub. L. 102–546, title II, § 210(b), Oct. 28, 1992, 106 Stat. 3607, provide
 
 Within 1 year after December 21, 2000, the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the steps it has taken to implement this section and on the activities of contract markets pursuant to this section.
 
-(Sept. 21, 1922, ch. 369, § 4q, formerly § 4p, as added Pub. L. 106–554, § 1(a)(5) [title I, § 121], Dec. 21, 2000, 114 Stat. 2763, 2763A–404; renumbered § 4q, Pub. L. 110–234, title XIII, § 13105(d), May 22, 2008, 122 Stat. 1434, and Pub. L. 110–246, § 4(a), title XIII, § 13105(d), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, § 721(e)(3), July 21, 2010, 124 Stat. 1671.)
+(Sept. 21, 1922, ch. 369, § 4q, formerly § 4p, as added Pub. L. 106–554, § 1(a)(5) [title I, § 121], Dec. 21, 2000, 114 Stat. 2763, 2763A–404; renumbered § 4q, Pub. L. 110–234, title XIII, § 13105(d), May 22, 2008, 122 Stat. 1434, and Pub. L. 110–246, § 4(a), title XIII, § 13105(d), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, § 721(e)(3), July 21, 2010, 124 Stat. 1671.)
 
 **Editorial Notes**
 
@@ -4365,9 +4365,9 @@ Section was formerly classified to section 6*o*–1 of this title.
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
-## § 6r. Reporting and recordkeeping for uncleared swaps
+## § 6r. Reporting and recordkeeping for uncleared swaps
 
 **(a) Required reporting of swaps not accepted by any derivatives clearing organization**
 
@@ -4433,15 +4433,15 @@ With respect to any other swap not described in subparagraph (A) or (B), the cou
 
 In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that is not less comprehensive than the data required to be collected by swap data repositories under section 24a of this title.
 
-(Sept. 21, 1922, ch. 369, § 4r, as added Pub. L. 111–203, title VII, § 729, July 21, 2010, 124 Stat. 1701.)
+(Sept. 21, 1922, ch. 369, § 4r, as added Pub. L. 111–203, title VII, § 729, July 21, 2010, 124 Stat. 1701.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 6s. Registration and regulation of swap dealers and major swap participants
+## § 6s. Registration and regulation of swap dealers and major swap participants
 
 **(a) Registration**
 
@@ -4555,9 +4555,9 @@ In setting capital requirements for a person that is designated as a swap dealer
 
 **(I)** of the Commission to set financial responsibility rules for a futures commission merchant or introducing broker registered pursuant to section 6f(a) of this title (except for section 6f(a)(3) of this title) in accordance with section 6f(b) of this title; or
 
-**(II)** of the Securities and Exchange Commission to set financial responsibility rules for a broker or dealer registered pursuant to section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78*o*(b)) (except for section 15(b)(11) of that Act (15 U.S.C. 78*o*(b)(11)) 1
+**(II)** of the Securities and Exchange Commission to set financial responsibility rules for a broker or dealer registered pursuant to section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78*o*(b)) (except for section 15(b)(11) of that Act (15 U.S.C. 78*o*(b)(11)) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a third closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a third closing parenthesis.
 
 in accordance with section 15(c)(3) of the Securities Exchange Act of 1934 (15 U.S.C. 78*o*(c)(3)).
 
@@ -4649,9 +4649,9 @@ A swap dealer or major swap participant that acts as an advisor to a special ent
 
 **(B) Entering of swaps with respect to special entities**
 
-A swap dealer that enters into or offers to enter into swap 2
+A swap dealer that enters into or offers to enter into swap 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “a”.
+<sup>2</sup> So in original. Probably should be preceded by “a”.
 
 with a Special Entity shall comply with the requirements of subparagraph (5) with respect to such Special Entity.
 
@@ -4715,9 +4715,9 @@ Any swap dealer that acts as an advisor to a Special Entity shall have a duty to
 
 **(A)** Any swap dealer or major swap participant that offers to enter or enters into a swap with a Special Entity shall—
 
-**(i)** comply with any duty established by the Commission for a swap dealer or major swap participant, with respect to a counterparty that is an eligible contract participant within the meaning of subclause (I) or (II) of clause (vii) of section 1a(18) 3
+**(i)** comply with any duty established by the Commission for a swap dealer or major swap participant, with respect to a counterparty that is an eligible contract participant within the meaning of subclause (I) or (II) of clause (vii) of section 1a(18) 3
 
-<sup>3</sup>  So in original. Probably should be “section 1a(18)(A)”.
+<sup>3</sup> So in original. Probably should be “section 1a(18)(A)”.
 
 of this title, that requires the swap dealer or major swap participant to have a reasonable basis to believe that the counterparty that is a Special Entity has an independent representative that—
 
@@ -4733,9 +4733,9 @@ of this title, that requires the swap dealer or major swap participant to have a
 
 **(VI)** will provide written representations to the Special Entity regarding fair pricing and the appropriateness of the transaction; and
 
-**(VII)** in the case of employee benefit plans subject to the Employee Retirement Income Security act 4
+**(VII)** in the case of employee benefit plans subject to the Employee Retirement Income Security act 4
 
-<sup>4</sup>  So in original. Probably should be “Act”.
+<sup>4</sup> So in original. Probably should be “Act”.
 
 of 1974 [29 U.S.C. 1001 et seq.], is a fiduciary as defined in section 3 of that Act (29 U.S.C. 1002); and
 
@@ -4889,31 +4889,31 @@ A swap dealer or major swap participant shall be required to notify the counterp
 
 If the counterparty does not choose to require segregation of the funds or other property supplied to margin, guarantee, or secure the obligations of the counterparty, the swap dealer or major swap participant shall report to the counterparty of the swap dealer or major swap participant on a quarterly basis that the back office procedures of the swap dealer or major swap participant relating to margin and collateral requirements are in compliance with the agreement of the counterparties.
 
-(Sept. 21, 1922, ch. 369, § 4s, as added and amended Pub. L. 111–203, title VII, §§ 724(c), 731, July 21, 2010, 124 Stat. 1684, 1703; Pub. L. 114–1, title III, § 302(a), Jan. 12, 2015, 129 Stat. 28.)
+(Sept. 21, 1922, ch. 369, § 4s, as added and amended Pub. L. 111–203, title VII, §§ 724(c), 731, July 21, 2010, 124 Stat. 1684, 1703; Pub. L. 114–1, title III, § 302(a), Jan. 12, 2015, 129 Stat. 28.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsec. (e)(3)(B)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (e)(3)(B)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(5)(A)(i)(VII), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(5)(A)(i)(VII), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 **Amendments**
 
 2015—Subsec. (e)(4). Pub. L. 114–1 added par. (4).
 
-2010—Subsec. (*l*). Pub. L. 111–203, § 724(c), added subsec. (*l*).
+2010—Subsec. (*l*). Pub. L. 111–203, § 724(c), added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section and amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section and amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
 **Implementation**
 
-Pub. L. 114–1, title III, § 303, Jan. 12, 2015, 129 Stat. 28, provided that:
+Pub. L. 114–1, title III, § 303, Jan. 12, 2015, 129 Stat. 28, provided that:
 
 > “The amendments made by this title to the Commodity Exchange Act [amending this section] shall be implemented—
 
@@ -4927,7 +4927,7 @@ Pub. L. 114–1, title III, § 303, Jan. 12, 2015, 129 Stat. 28, provided that
 
 > **“(3)** such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules and regulations, that are limited to and directly a consequence of such amendments.”
 
-## § 6t. Large swap trader reporting
+## § 6t. Large swap trader reporting
 
 **(a) Prohibition**
 
@@ -4965,21 +4965,21 @@ For purposes of this section, the swaps, futures, and cash or spot transactions 
 
 In making a determination as to whether a swap performs or affects a significant price discovery function with respect to registered entities, the Commission shall consider the factors described in section 6a(a)(3) of this title.
 
-(Sept. 21, 1922, ch. 369, § 4t, as added Pub. L. 111–203, title VII, § 730, July 21, 2010, 124 Stat. 1702.)
+(Sept. 21, 1922, ch. 369, § 4t, as added Pub. L. 111–203, title VII, § 730, July 21, 2010, 124 Stat. 1702.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 7. Designation of boards of trade as contract markets
+## § 7. Designation of boards of trade as contract markets
 
 **(a) Applications**
 
 A board of trade applying to the Commission for designation as a contract market shall submit an application to the Commission that includes any relevant materials and records the Commission may require consistent with this chapter.
 
-**(b) Repealed. Pub. L. 111–203, title VII, § 735(a), July 21, 2010, 124 Stat. 1718**
+**(b) Repealed. Pub. L. 111–203, title VII, § 735(a), July 21, 2010, 124 Stat. 1718**
 
 **(c) Existing contract markets**
 
@@ -5139,9 +5139,9 @@ The governance arrangements of the board of trade shall be designed to permit co
 
 **(19) Antitrust considerations** Unless necessary or appropriate to achieve the purposes of this chapter, the board of trade shall not—
 
-**(A)** adopt any rule or taking 1
+**(A)** adopt any rule or taking 1
 
-<sup>1</sup>  So in original. Probably should be “take”.
+<sup>1</sup> So in original. Probably should be “take”.
 
 any action that results in any unreasonable restraint of trade; or
 
@@ -5179,41 +5179,41 @@ The board of trade shall keep any such records relating to swaps defined in sect
 
 **(2)** In order to promote responsible economic or financial innovation and fair competition, the Commission, on application by any person, after notice and public comment and opportunity for hearing, may prescribe rules and regulations to provide for the offer and sale of contracts for future delivery or options on such contracts to be conducted on a derivatives transaction execution facility.
 
-(Sept. 21, 1922, ch. 369, § 5, as added Pub. L. 106–554, § 1(a)(5) [title I, § 110(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–384; amended Pub. L. 111–203, title VII, §§ 721(e)(4), 735, July 21, 2010, 124 Stat. 1671, 1718.)
+(Sept. 21, 1922, ch. 369, § 5, as added Pub. L. 106–554, § 1(a)(5) [title I, § 110(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–384; amended Pub. L. 111–203, title VII, §§ 721(e)(4), 735, July 21, 2010, 124 Stat. 1671, 1718.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7, acts Sept. 21, 1922, ch. 369, § 5, 42 Stat. 1000; June 15, 1936, ch. 545, §§ 2, 6, 49 Stat. 1491, 1497; Pub. L. 90–258, §§ 10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, § 103(a), (f), (g), title II, § 207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§ 201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, § 1(a)(5) [title I, § 110(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
+A prior section 7, acts Sept. 21, 1922, ch. 369, § 5, 42 Stat. 1000; June 15, 1936, ch. 545, §§ 2, 6, 49 Stat. 1491, 1497; Pub. L. 90–258, §§ 10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, § 103(a), (f), (g), title II, § 207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§ 201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, § 1(a)(5) [title I, § 110(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–203, § 735(a), struck out subsec. (b) which related to criteria for designation as a contract market.
+2010—Subsec. (b). Pub. L. 111–203, § 735(a), struck out subsec. (b) which related to criteria for designation as a contract market.
 
-Subsec. (d). Pub. L. 111–203, § 735(b), added subsec. (d) and struck out former subsec. (d) which related to core principles for contract markets.
+Subsec. (d). Pub. L. 111–203, § 735(b), added subsec. (d) and struck out former subsec. (d) which related to core principles for contract markets.
 
-Subsec. (e)(1). Pub. L. 111–203, § 721(e)(4), substituted “section 1a(9)” for “section 1a(4)”.
+Subsec. (e)(1). Pub. L. 111–203, § 721(e)(4), substituted “section 1a(9)” for “section 1a(4)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
-## § 7a. Repealed. Pub. L. 111–203, title VII, § 734(a), July 21, 2010, 124 Stat. 1718
+## § 7a. Repealed. Pub. L. 111–203, title VII, § 734(a), July 21, 2010, 124 Stat. 1718
 
-Section, act Sept. 21, 1922, ch. 369, § 5a, as added Pub. L. 106–554, § 1(a)(5) [title I, § 111], Dec. 21, 2000, 114 Stat. 2763, 2763A–387; amended Pub. L. 110–234, title XIII, § 13203(h), May 22, 2008, 122 Stat. 1440; Pub. L. 110–246, § 4(a), title XIII, § 13203(h), June 18, 2008, 122 Stat. 1664, 2202; Pub. L. 111–203, title VII, § 721(e)(5), July 21, 2010, 124 Stat. 1671, related to derivatives transaction execution facilities.
+Section, act Sept. 21, 1922, ch. 369, § 5a, as added Pub. L. 106–554, § 1(a)(5) [title I, § 111], Dec. 21, 2000, 114 Stat. 2763, 2763A–387; amended Pub. L. 110–234, title XIII, § 13203(h), May 22, 2008, 122 Stat. 1440; Pub. L. 110–246, § 4(a), title XIII, § 13203(h), June 18, 2008, 122 Stat. 1664, 2202; Pub. L. 111–203, title VII, § 721(e)(5), July 21, 2010, 124 Stat. 1671, related to derivatives transaction execution facilities.
 
-A prior section 7a, act Sept. 21, 1922, ch. 369, § 5a, as added June 15, 1936, ch. 545, § 7, 49 Stat. 1497; amended Pub. L. 90–258, § 12, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, § 103(a), (e), (f), title II, §§ 208–210, title IV, §§ 406, 407, Oct. 23, 1974, 88 Stat. 1392, 1400, 1401, 1413; Pub. L. 95–405, §§ 11, 12, Sept. 30, 1978, 92 Stat. 870, 871; Pub. L. 97–444, title II, §§ 216, 217(a), Jan. 11, 1983, 96 Stat. 2306, 2307; Pub. L. 99–641, title I, § 110(2), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title I, § 103, title II, §§ 201(a), 206(a)(1), 213(a), 217, 222(a), Oct. 28, 1992, 106 Stat. 3594, 3595, 3601, 3609, 3611, 3615, related to duties of contract markets prior to repeal by Pub. L. 106–554, § 1(a)(5) [title I, § 110(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
+A prior section 7a, act Sept. 21, 1922, ch. 369, § 5a, as added June 15, 1936, ch. 545, § 7, 49 Stat. 1497; amended Pub. L. 90–258, § 12, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, § 103(a), (e), (f), title II, §§ 208–210, title IV, §§ 406, 407, Oct. 23, 1974, 88 Stat. 1392, 1400, 1401, 1413; Pub. L. 95–405, §§ 11, 12, Sept. 30, 1978, 92 Stat. 870, 871; Pub. L. 97–444, title II, §§ 216, 217(a), Jan. 11, 1983, 96 Stat. 2306, 2307; Pub. L. 99–641, title I, § 110(2), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title I, § 103, title II, §§ 201(a), 206(a)(1), 213(a), 217, 222(a), Oct. 28, 1992, 106 Stat. 3594, 3595, 3601, 3609, 3611, 3615, related to duties of contract markets prior to repeal by Pub. L. 106–554, § 1(a)(5) [title I, § 110(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 7a–1. Derivatives clearing organizations
+## § 7a–1. Derivatives clearing organizations
 
 **(a) Registration requirement**
 
@@ -5561,7 +5561,7 @@ Each derivatives clearing organization shall designate an individual to serve as
 
 **(ii)** include a certification that, under penalty of law, the compliance report is accurate and complete.
 
-**(k) 1 [footnote: 1 So in original. No subsec. (j) has been enacted.] Reporting requirements**
+**(k) 1 [footnote: 1 So in original. No subsec. (j) has been enacted.] Reporting requirements**
 
 **(1) Duty of derivatives clearing organizations**
 
@@ -5611,13 +5611,13 @@ Before the Commission may share information with any entity described in paragra
 
 Each derivatives clearing organization that clears swaps shall provide to the Commission (including any designee of the Commission) information under paragraph (2) in such form and at such frequency as is required by the Commission to comply with the public reporting requirements contained in section 2(a)(13) of this title.
 
-(Sept. 21, 1922, ch. 369, § 5b, as added Pub. L. 106–554, § 1(a)(5) [title I, § 112(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–396; amended Pub. L. 111–203, title VII, §§ 721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, 124 Stat. 1671, 1685–1687, 1693, 1695; Pub. L. 114–94, div. G, title LXXXVI, § 86001(a), Dec. 4, 2015, 129 Stat. 1797.)
+(Sept. 21, 1922, ch. 369, § 5b, as added Pub. L. 106–554, § 1(a)(5) [title I, § 112(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–396; amended Pub. L. 111–203, title VII, §§ 721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, 124 Stat. 1671, 1685–1687, 1693, 1695; Pub. L. 114–94, div. G, title LXXXVI, § 86001(a), Dec. 4, 2015, 129 Stat. 1797.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsecs. (a)(1)(A)(ii) and (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (a)(1)(A)(ii) and (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 **Prior Provisions**
 
@@ -5631,37 +5631,37 @@ A prior section 5b of act Sept. 21, 1922, was renumbered section 5e, and is clas
 
 “(B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under section 12 of this title.”
 
-2010—Subsec. (a). Pub. L. 111–203, § 725(a), added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations.
+2010—Subsec. (a). Pub. L. 111–203, § 725(a), added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations.
 
-Pub. L. 111–203, § 721(e)(6), substituted “section 1a” for “section 1a(9)” in introductory provisions.
+Pub. L. 111–203, § 721(e)(6), substituted “section 1a” for “section 1a(9)” in introductory provisions.
 
-Subsec. (b). Pub. L. 111–203, § 725(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A derivatives clearing organization that clears agreements, contracts, or transactions excluded from this chapter by section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title, or other over-the-counter derivative instruments (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991) may register with the Commission as a derivatives clearing organization.”
+Subsec. (b). Pub. L. 111–203, § 725(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A derivatives clearing organization that clears agreements, contracts, or transactions excluded from this chapter by section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title, or other over-the-counter derivative instruments (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991) may register with the Commission as a derivatives clearing organization.”
 
-Subsec. (c)(2). Pub. L. 111–203, § 725(c), added par. (2) and struck out former par. (2) which related to core principles for derivatives clearing organizations.
+Subsec. (c)(2). Pub. L. 111–203, § 725(c), added par. (2) and struck out former par. (2) which related to core principles for derivatives clearing organizations.
 
-Subsec. (f)(1). Pub. L. 111–203, § 725(h), inserted at end “In order to minimize systemic risk, under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization.”
+Subsec. (f)(1). Pub. L. 111–203, § 725(h), inserted at end “In order to minimize systemic risk, under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization.”
 
-Subsecs. (g) to (i). Pub. L. 111–203, § 725(b), added subsecs. (g) to (i).
+Subsecs. (g) to (i). Pub. L. 111–203, § 725(b), added subsecs. (g) to (i).
 
-Subsec. (k). Pub. L. 111–203, § 725(e), added subsec. (k).
+Subsec. (k). Pub. L. 111–203, § 725(e), added subsec. (k).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–94, div. G, title LXXXVI, § 86001(d), Dec. 4, 2015, 129 Stat. 1798, provided that: “The amendments made by this section [amending this section, section 24a of this title, and section 78m of Title 15, Commerce and Trade] shall take effect as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203).”
+Pub. L. 114–94, div. G, title LXXXVI, § 86001(d), Dec. 4, 2015, 129 Stat. 1798, provided that: “The amendments made by this section [amending this section, section 24a of this title, and section 78m of Title 15, Commerce and Trade] shall take effect as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203).”
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Conflicts of Interest**
 
-Pub. L. 111–203, title VII, § 725(d), July 21, 2010, 124 Stat. 1692, provided that: “The Commodity Futures Trading Commission shall adopt rules mitigating conflicts of interest in connection with the conduct of business by a swap dealer or a major swap participant with a derivatives clearing organization, board of trade, or a swap execution facility that clears or trades swaps in which the swap dealer or major swap participant has a material debt or material equity investment.”
+Pub. L. 111–203, title VII, § 725(d), July 21, 2010, 124 Stat. 1692, provided that: “The Commodity Futures Trading Commission shall adopt rules mitigating conflicts of interest in connection with the conduct of business by a swap dealer or a major swap participant with a derivatives clearing organization, board of trade, or a swap execution facility that clears or trades swaps in which the swap dealer or major swap participant has a material debt or material equity investment.”
 
 [For definitions of terms used in section 725(d) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
-## § 7a–2. Common provisions applicable to registered entities
+## § 7a–2. Common provisions applicable to registered entities
 
 **(a) Acceptable business practices under core principles**
 
@@ -5717,9 +5717,9 @@ A registered entity may request that the Commission grant prior approval to any 
 
 **(B) Prior approval required**
 
-Notwithstanding any other provision of this section, a designated contract market shall submit to the Commission for prior approval each rule amendment that materially changes the terms and conditions, as determined by the Commission, in any contract of sale for future delivery of a commodity specifically enumerated in section 1a(10) 1
+Notwithstanding any other provision of this section, a designated contract market shall submit to the Commission for prior approval each rule amendment that materially changes the terms and conditions, as determined by the Commission, in any contract of sale for future delivery of a commodity specifically enumerated in section 1a(10) 1
 
-<sup>1</sup>  So in original. Probably should be “section 1a(9)”.
+<sup>1</sup> So in original. Probably should be “section 1a(9)”.
 
 of this title (or any option thereon) traded through its facilities if the rule amendment applies to contracts and delivery months which have already been listed for trading and have open interest.
 
@@ -5739,9 +5739,9 @@ The Commission shall approve a new contract or other instrument unless the Commi
 
 **(C) Special rule for review and approval of event contracts and swaps contracts**
 
-**(i) Event contracts** In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) 2
+**(i) Event contracts** In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) 2
 
-<sup>2</sup>  So in original. There is no section “1a(2)(i)” in this title.
+<sup>2</sup> So in original. There is no section “1a(2)(i)” in this title.
 
 of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
 
@@ -5777,7 +5777,7 @@ In connection with the listing of a swap for clearing by a derivatives clearing 
 
 The Commission shall take final action under clauses (i) and (ii) in not later than 90 days from the commencement of its review unless the party seeking to offer the contract or swap agrees to an extension of this time limitation.
 
-**(d) Repealed. Pub. L. 111–203, title VII, § 745(c), July 21, 2010, 124 Stat. 1737**
+**(d) Repealed. Pub. L. 111–203, title VII, § 745(c), July 21, 2010, 124 Stat. 1737**
 
 **(e) Reservation of emergency authority**
 
@@ -5789,7 +5789,7 @@ Nothing in this section shall limit or in any way affect the emergency powers of
 
 **(2)** similar rules of national securities associations registered pursuant to section 78*o*–3(a) of title 15 and national securities exchanges registered pursuant to section 78f(g) of title 15 involving security futures products.
 
-(Sept. 21, 1922, ch. 369, § 5c, as added and amended Pub. L. 106–554, § 1(a)(5) [title I, § 113, title II, § 251(h)], Dec. 21, 2000, 114 Stat. 2763, 2763A–399, 2763A–444; Pub. L. 110–234, title XIII, §§ 13105(e), (f), 13203(i)–(k), May 22, 2008, 122 Stat. 1434, 1440, 1441; Pub. L. 110–246, § 4(a), title XIII, §§ 13105(e), (f), 13203(i)–(k), June 18, 2008, 122 Stat. 1664, 2196, 2202, 2203; Pub. L. 111–203, title VII, §§ 717(d), 721(e)(7), 745, 749(c), July 21, 2010, 124 Stat. 1652, 1671, 1735, 1747.)
+(Sept. 21, 1922, ch. 369, § 5c, as added and amended Pub. L. 106–554, § 1(a)(5) [title I, § 113, title II, § 251(h)], Dec. 21, 2000, 114 Stat. 2763, 2763A–399, 2763A–444; Pub. L. 110–234, title XIII, §§ 13105(e), (f), 13203(i)–(k), May 22, 2008, 122 Stat. 1434, 1440, 1441; Pub. L. 110–246, § 4(a), title XIII, §§ 13105(e), (f), 13203(i)–(k), June 18, 2008, 122 Stat. 1664, 2196, 2202, 2203; Pub. L. 111–203, title VII, §§ 717(d), 721(e)(7), 745, 749(c), July 21, 2010, 124 Stat. 1652, 1671, 1735, 1747.)
 
 **Editorial Notes**
 
@@ -5803,41 +5803,41 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 749(c)(1), struck out “, 7a(d),” after “7(d)” and “and section 2(h)(7) of this title with respect to significant price discovery contracts,” before “to describe”.
+2010—Subsec. (a)(1). Pub. L. 111–203, § 749(c)(1), struck out “, 7a(d),” after “7(d)” and “and section 2(h)(7) of this title with respect to significant price discovery contracts,” before “to describe”.
 
-Subsec. (a)(2). Pub. L. 111–203, § 745(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “An interpretation issued under paragraph (1) shall not provide the exclusive means for complying with such sections.”
+Subsec. (a)(2). Pub. L. 111–203, § 745(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “An interpretation issued under paragraph (1) shall not provide the exclusive means for complying with such sections.”
 
-Subsec. (c). Pub. L. 111–203, § 745(b), added subsec. (c) and struck out former subsec. (c) which related to new contracts, new rules, and rule amendments and Commission approval upon certification of compliance with this chapter.
+Subsec. (c). Pub. L. 111–203, § 745(b), added subsec. (c) and struck out former subsec. (c) which related to new contracts, new rules, and rule amendments and Commission approval upon certification of compliance with this chapter.
 
-Subsec. (c)(1). Pub. L. 111–203, § 717(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 111–203, § 717(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (c)(2)(B). Pub. L. 111–203, § 721(e)(7), substituted “section 1a(9)” for “section 1a(4)”.
+Subsec. (c)(2)(B). Pub. L. 111–203, § 721(e)(7), substituted “section 1a(9)” for “section 1a(4)”.
 
-Subsec. (d). Pub. L. 111–203, § 745(c), struck out subsec. (d) which related to violation of core principles.
+Subsec. (d). Pub. L. 111–203, § 745(c), struck out subsec. (d) which related to violation of core principles.
 
-Subsec. (f)(1). Pub. L. 111–203, § 749(c)(2), substituted “section 6d(e) of this title” for “section 6d(c) of this title”.
+Subsec. (f)(1). Pub. L. 111–203, § 749(c)(2), substituted “section 6d(e) of this title” for “section 6d(c) of this title”.
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 13203(i), which directed amendment of par. (1) by inserting “, and section 2(h)(7) of this title with respect to significant price discovery contracts,” after “, and 7a–1(d)(2) of this title”, was executed by making the insertion after “, and 7a–1(c)(2) of this title” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–246, § 13105(e). See below.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 13203(i), which directed amendment of par. (1) by inserting “, and section 2(h)(7) of this title with respect to significant price discovery contracts,” after “, and 7a–1(d)(2) of this title”, was executed by making the insertion after “, and 7a–1(c)(2) of this title” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–246, § 13105(e). See below.
 
-Pub. L. 110–246, § 13105(e), substituted “7a–1(c)(2)” for “7a–1(d)(2)”.
+Pub. L. 110–246, § 13105(e), substituted “7a–1(c)(2)” for “7a–1(d)(2)”.
 
-Subsec. (b)(1). Pub. L. 110–246, § 13203(j)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.”
+Subsec. (b)(1). Pub. L. 110–246, § 13203(j)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.”
 
-Subsec. (b)(2), (3). Pub. L. 110–246, § 13203(j)(2), (3), substituted “contract market, derivatives transaction execution facility, or electronic trading facility” for “contract market or derivatives transaction execution facility” wherever appearing.
+Subsec. (b)(2), (3). Pub. L. 110–246, § 13203(j)(2), (3), substituted “contract market, derivatives transaction execution facility, or electronic trading facility” for “contract market or derivatives transaction execution facility” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 110–246, § 13203(k), which directed amendment of par. (1) by inserting “or 2(h)(7)(C) of this title with respect to a significant price discovery contract traded or executed on an electronic trading facility,” after “7a–1(d)(2)”, was executed by making the insertion after “7a–1(c)(2)” in introductory provisions to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–246, § 13105(e). See below.
+Subsec. (d)(1). Pub. L. 110–246, § 13203(k), which directed amendment of par. (1) by inserting “or 2(h)(7)(C) of this title with respect to a significant price discovery contract traded or executed on an electronic trading facility,” after “7a–1(d)(2)”, was executed by making the insertion after “7a–1(c)(2)” in introductory provisions to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–246, § 13105(e). See below.
 
-Pub. L. 110–246, § 13105(e), substituted “7a–1(c)(2)” for “7a–1(d)(2)” in introductory provisions.
+Pub. L. 110–246, § 13105(e), substituted “7a–1(c)(2)” for “7a–1(d)(2)” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 110–246, § 13105(f), substituted “6d(c)” for “6d(3)”.
+Subsec. (f)(1). Pub. L. 110–246, § 13105(f), substituted “6d(c)” for “6d(3)”.
 
-2000—Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title II, § 251(h)], added subsec. (f).
+2000—Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title II, § 251(h)], added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -5845,21 +5845,21 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 13203(i)–(k) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under section 2 of this title.
 
-## § 7a–3. Repealed. Pub. L. 111–203, title VII, § 734(a), July 21, 2010, 124 Stat. 1718
+## § 7a–3. Repealed. Pub. L. 111–203, title VII, § 734(a), July 21, 2010, 124 Stat. 1718
 
-Section, act Sept. 21, 1922, ch. 369, § 5d, as added Pub. L. 106–554, § 1(a)(5) [title I, § 114], Dec. 21, 2000, 114 Stat. 2763, 2763A–401, related to exempt boards of trade.
+Section, act Sept. 21, 1922, ch. 369, § 5d, as added Pub. L. 106–554, § 1(a)(5) [title I, § 114], Dec. 21, 2000, 114 Stat. 2763, 2763A–401, related to exempt boards of trade.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 7b. Suspension or revocation of designation as registered entity
+## § 7b. Suspension or revocation of designation as registered entity
 
 The failure of a registered entity to comply with any provision of this chapter, or any regulation or order of the Commission under this chapter, shall be cause for the suspension of the registered entity for a period not to exceed 180 days, or revocation of designation as a registered entity, in accordance with the procedures and subject to the judicial review provided in section 8(b) of this title.
 
-(Sept. 21, 1922, ch. 369, § 5e, formerly § 5b, as added June 15, 1936, ch. 545, § 7, 49 Stat. 1498; amended Pub. L. 90–258, § 13, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, § 103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, § 209(b)(3), Oct. 28, 1992, 106 Stat. 3607; renumbered § 5e and amended Pub. L. 106–554, § 1(a)(5) [title I, §§ 110(1), 115], Dec. 21, 2000, 114 Stat. 2763, 2763A–384, 2763A–402; Pub. L. 110–234, title XIII, § 13203(*l*), May 22, 2008, 122 Stat. 1441; Pub. L. 110–246, § 4(a), title XIII, § 13203(*l*), June 18, 2008, 122 Stat. 1664, 2203; Pub. L. 111–203, title VII, § 749(d), July 21, 2010, 124 Stat. 1747.)
+(Sept. 21, 1922, ch. 369, § 5e, formerly § 5b, as added June 15, 1936, ch. 545, § 7, 49 Stat. 1498; amended Pub. L. 90–258, § 13, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, § 103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, § 209(b)(3), Oct. 28, 1992, 106 Stat. 3607; renumbered § 5e and amended Pub. L. 106–554, § 1(a)(5) [title I, §§ 110(1), 115], Dec. 21, 2000, 114 Stat. 2763, 2763A–384, 2763A–402; Pub. L. 110–234, title XIII, § 13203(*l*), May 22, 2008, 122 Stat. 1441; Pub. L. 110–246, § 4(a), title XIII, § 13203(*l*), June 18, 2008, 122 Stat. 1664, 2203; Pub. L. 111–203, title VII, § 749(d), July 21, 2010, 124 Stat. 1747.)
 
 **Editorial Notes**
 
@@ -5871,13 +5871,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2010—Pub. L. 111–203 struck out “or revocation of the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) of this title with respect to a significant price discovery contract,” after “or revocation of designation as a registered entity,”.
 
-2008—Pub. L. 110–246, § 13203(*l*), inserted “, or revocation of the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) of this title with respect to a significant price discovery contract,” after “designation as a registered entity”.
+2008—Pub. L. 110–246, § 13203(*l*), inserted “, or revocation of the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) of this title with respect to a significant price discovery contract,” after “designation as a registered entity”.
 
-2000—Pub. L. 106–554, § 1(a)(5) [title I, § 115], amended section generally. Prior to amendment, section read as follows: “The failure or refusal of any board of trade to comply with any of the provisions of this chapter, or any of the rules, regulations, or orders of the Commission or the commission thereunder, shall be cause for suspending for a period not to exceed six months or revoking the designation of such board of trade as a ‘contract market’ in accordance with the procedure and subject to the judicial review provided in section 8(b) of this title.”
+2000—Pub. L. 106–554, § 1(a)(5) [title I, § 115], amended section generally. Prior to amendment, section read as follows: “The failure or refusal of any board of trade to comply with any of the provisions of this chapter, or any of the rules, regulations, or orders of the Commission or the commission thereunder, shall be cause for suspending for a period not to exceed six months or revoking the designation of such board of trade as a ‘contract market’ in accordance with the procedure and subject to the judicial review provided in section 8(b) of this title.”
 
 1992—Pub. L. 102–546 substituted reference to section 8(b) of this title for reference to section 8 of this title.
 
-1974—Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+1974—Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
 
 1968—Pub. L. 90–258 substituted “rules, regulations, or orders of the Secretary of Agriculture or the commission” for “rules and regulations of the Secretary of Agriculture”.
 
@@ -5885,7 +5885,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -5905,7 +5905,7 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 7b–1. Designation of securities exchanges and associations as contract markets
+## § 7b–1. Designation of securities exchanges and associations as contract markets
 
 **(a)** Any board of trade that is registered with the Securities and Exchange Commission as a national securities exchange, is a national securities association registered pursuant to section 78*o*–3(a) of title 15, or is an alternative trading system shall be a designated contract market in security futures products if—
 
@@ -5933,9 +5933,9 @@ Such designation shall be effective contemporaneously with the submission of not
 
 **(F)** Section 12(d) of this title.
 
-**(G)** Section 13(f) 1
+**(G)** Section 13(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -5957,15 +5957,15 @@ of this title.
 
 **(C)** An alternative trading system shall not be deemed to be an exchange for any purpose as a result of the designation of such alternative trading system as a contract market under this section.
 
-(Sept. 21, 1922, ch. 369, § 5f, as added Pub. L. 106–554, § 1(a)(5) [title II, § 252(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–445.)
+(Sept. 21, 1922, ch. 369, § 5f, as added Pub. L. 106–554, § 1(a)(5) [title II, § 252(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–445.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsec. (f) of section 13 of this title, referred to in subsec. (b)(1)(G), was redesignated subsec. (e) by Pub. L. 110–246, title XIII, § 13105(h)(2), June 18, 2008, 122 Stat. 2197.
+Subsec. (f) of section 13 of this title, referred to in subsec. (b)(1)(G), was redesignated subsec. (e) by Pub. L. 110–246, title XIII, § 13105(h)(2), June 18, 2008, 122 Stat. 2197.
 
-## § 7b–2. Privacy
+## § 7b–2. Privacy
 
 **(a) Treatment as financial institutions**
 
@@ -5975,15 +5975,15 @@ Notwithstanding section 509(3)(B) of the Gramm-Leach-Bliley Act [15 U.S.C. 6809(
 
 For purposes of title V of such Act [15 U.S.C. 6801 et seq.], the Commission shall be treated as a Federal functional regulator within the meaning of section 509(2) of such Act [15 U.S.C. 6809(2)] and shall prescribe regulations under such title within 6 months after December 21, 2000.
 
-(Sept. 21, 1922, ch. 369, § 5g, as added Pub. L. 106–554, § 1(a)(5) [title I, § 124], Dec. 21, 2000, 114 Stat. 2763, 2763A–411.)
+(Sept. 21, 1922, ch. 369, § 5g, as added Pub. L. 106–554, § 1(a)(5) [title I, § 124], Dec. 21, 2000, 114 Stat. 2763, 2763A–411.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Gramm-Leach-Bliley Act, referred to in text, is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§ 6801 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Gramm-Leach-Bliley Act, referred to in text, is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§ 6801 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-## § 7b–3. Swap execution facilities
+## § 7b–3. Swap execution facilities
 
 **(a) Registration**
 
@@ -6115,9 +6115,9 @@ The swap execution facility shall be required to have the capacity to electronic
 
 **(ii)** report to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this chapter; and
 
-**(iii)** shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission.” 1
+**(iii)** shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission.” 1
 
-<sup>1</sup>  So in original. The closing quotation marks probably should not appear.
+<sup>1</sup> So in original. The closing quotation marks probably should not appear.
 
 **(B) Requirements**
 
@@ -6125,9 +6125,9 @@ The Commission shall adopt data collection and reporting requirements for swap e
 
 **(11) Antitrust considerations** Unless necessary or appropriate to achieve the purposes of this chapter, the swap execution facility shall not—
 
-**(A)** adopt any rules or taking 2
+**(A)** adopt any rules or taking 2
 
-<sup>2</sup>  So in original. Probably should be “take”.
+<sup>2</sup> So in original. Probably should be “take”.
 
 any actions that result in any unreasonable restraint of trade; or
 
@@ -6219,25 +6219,25 @@ The Commission may exempt, conditionally or unconditionally, a swap execution fa
 
 The Commission shall prescribe rules governing the regulation of alternative swap execution facilities under this section.
 
-(Sept. 21, 1922, ch. 369, § 5h, as added Pub. L. 111–203, title VII, § 733, July 21, 2010, 124 Stat. 1712.)
+(Sept. 21, 1922, ch. 369, § 5h, as added Pub. L. 111–203, title VII, § 733, July 21, 2010, 124 Stat. 1712.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 8. Application for designation as contract market or derivatives transaction execution facility; time; suspension or revocation of designation; hearing; review by court of appeals
+## § 8. Application for designation as contract market or derivatives transaction execution facility; time; suspension or revocation of designation; hearing; review by court of appeals
 
-**(a)** Any person desiring to be designated or registered as a contract market or derivatives transaction execution facility shall make application to the Commission for the designation or registration and accompany the same with a showing that it complies with the conditions set forth in this chapter, and with a sufficient assurance that it will continue to comply with the the 1
+**(a)** Any person desiring to be designated or registered as a contract market or derivatives transaction execution facility shall make application to the Commission for the designation or registration and accompany the same with a showing that it complies with the conditions set forth in this chapter, and with a sufficient assurance that it will continue to comply with the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 requirements of this chapter. The Commission shall approve or deny an application for designation or registration as a contract market or derivatives transaction execution facility within 180 days of the filing of the application. If the Commission notifies the person that its application is materially incomplete and specifies the deficiencies in the application, the running of the 180-day period shall be stayed from the time of such notification until the application is resubmitted in completed form: *Provided*, That the Commission shall have not less than sixty days to approve or deny the application from the time the application is resubmitted in completed form. If the Commission denies an application, it shall specify the grounds for the denial. In the event of a refusal to designate or register as a contract market or derivatives transaction execution facility any person that has made application therefor, the person shall be afforded an opportunity for a hearing on the record before the Commission, with the right to appeal an adverse decision after such hearing to the court of appeals as provided for in other cases in subsection (b) of this section.
 
 **(b)** The Commission is authorized to suspend for a period not to exceed 6 months or to revoke the designation or registration of any contract market or derivatives transaction execution facility on a showing that the contract market or derivatives transaction execution facility is not enforcing or has not enforced its rules of government, made a condition of its designation or registration as set forth in sections 7 through 7a–1 of this title or section 7b–1 of this title, or that the contract market or derivatives transaction execution facility or electronic trading facility, or any director, officer, agent, or employee thereof, otherwise is violating or has violated any of the provisions of this chapter or any of the rules, regulations, or orders of the Commission thereunder. Such suspension or revocation shall only be made after a notice to the officers of the contract market or derivatives transaction execution facility or electronic trading facility affected and upon a hearing on the record: *Provided*, That such suspension or revocation shall be final and conclusive, unless within fifteen days after such suspension or revocation by the Commission such person appeals to the court of appeals for the circuit in which it has its principal place of business, by filing with the clerk of such court a written petition praying that the order of the Commission be set aside or modified in the manner stated in the petition, together with a bond in such sum as the court may determine, conditioned that such person will pay the costs of the proceedings if the court so directs. The clerk of the court in which such a petition is filed shall immediately cause a copy thereof to be delivered to the Commission and file in the court the record in such proceedings, as provided in section 2112 of title 28. The testimony and evidence taken or submitted before the Commission, duly filed as aforesaid as a part of the record, shall be considered by the court of appeals as the evidence in the case. Such a court may affirm or set aside the order of the Commission or may direct it to modify its order. No such order of the Commission shall be modified or set aside by the court of appeals unless it is shown by the person that the order is unsupported by the weight of the evidence or was issued without due notice and a reasonable opportunity having been afforded to such person for a hearing, or infringes the Constitution of the United States, or is beyond the jurisdiction of the Commission.
 
-(Sept. 21, 1922, ch. 369, § 6(a), (b), formerly § 6(a), 42 Stat. 1001; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 7(a), Aug. 28, 1958, 72 Stat. 944; Pub. L. 90–258, §§ 14, 15, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, § 103(a)–(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, § 13(1), (2), Sept. 30, 1978, 92 Stat. 871; Pub. L. 97–444, title II, § 218, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 98–620, title IV, § 402(3), Nov. 8, 1984, 98 Stat. 3357; renumbered § 6(a), (b) and amended Pub. L. 102–546, title II, § 209(a)(1)–(3), title IV, § 402(1)(B), (9)(A), Oct. 28, 1992, 106 Stat. 3606, 3624, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A), (B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408; Pub. L. 110–234, title XIII, § 13203(m), May 22, 2008, 122 Stat. 1441; Pub. L. 110–246, § 4(a), title XIII, § 13203(m), June 18, 2008, 122 Stat. 1664, 2203; Pub. L. 111–203, title VII, § 749(e), July 21, 2010, 124 Stat. 1747.)
+(Sept. 21, 1922, ch. 369, § 6(a), (b), formerly § 6(a), 42 Stat. 1001; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 7(a), Aug. 28, 1958, 72 Stat. 944; Pub. L. 90–258, §§ 14, 15, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, § 103(a)–(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, § 13(1), (2), Sept. 30, 1978, 92 Stat. 871; Pub. L. 97–444, title II, § 218, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 98–620, title IV, § 402(3), Nov. 8, 1984, 98 Stat. 3357; renumbered § 6(a), (b) and amended Pub. L. 102–546, title II, § 209(a)(1)–(3), title IV, § 402(1)(B), (9)(A), Oct. 28, 1992, 106 Stat. 3606, 3624, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A), (B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408; Pub. L. 110–234, title XIII, § 13203(m), May 22, 2008, 122 Stat. 1441; Pub. L. 110–246, § 4(a), title XIII, § 13203(m), June 18, 2008, 122 Stat. 1664, 2203; Pub. L. 111–203, title VII, § 749(e), July 21, 2010, 124 Stat. 1747.)
 
 **Editorial Notes**
 
@@ -6249,49 +6249,49 @@ Section is comprised of subsecs. (a) and (b) of section 6 of act Sept. 21, 1922.
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–203 struck out “, or to revoke the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) of this title with respect to a significant price discovery contract,” before “on a showing”.
+2010—Subsec. (b). Pub. L. 111–203 struck out “, or to revoke the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) of this title with respect to a significant price discovery contract,” before “on a showing”.
 
-2008—Subsec. (b). Pub. L. 110–246, § 13203(m), added first sentence, in second sentence substituted “Such suspension or revocation shall only be made after a notice to the officers of the contract market or derivatives transaction execution facility or electronic trading facility affected and upon a hearing on the record” for “Such suspension or revocation shall only be after a notice to the officers of the contract market or derivatives transaction execution facility affected and upon a hearing on the record”, and struck out former first sentence which read as follows: “The Commission is authorized to suspend for a period not to exceed six months or to revoke the designation or registration of any contract market or derivatives transaction execution facility on a showing that such contract market or derivatives transaction execution facility is not enforcing or has not enforced its rules of government made a condition of its designation or registration as set forth in sections 7 through 7a–1 of this title or section 7b–1 of this title or that such contract market or derivatives transaction execution facility, or any director, officer, agent, or employee thereof, otherwise is violating or has violated any of the provisions of this chapter or any of the rules, regulations, or orders of the Commission or the Commission thereunder.”
+2008—Subsec. (b). Pub. L. 110–246, § 13203(m), added first sentence, in second sentence substituted “Such suspension or revocation shall only be made after a notice to the officers of the contract market or derivatives transaction execution facility or electronic trading facility affected and upon a hearing on the record” for “Such suspension or revocation shall only be after a notice to the officers of the contract market or derivatives transaction execution facility affected and upon a hearing on the record”, and struck out former first sentence which read as follows: “The Commission is authorized to suspend for a period not to exceed six months or to revoke the designation or registration of any contract market or derivatives transaction execution facility on a showing that such contract market or derivatives transaction execution facility is not enforcing or has not enforced its rules of government made a condition of its designation or registration as set forth in sections 7 through 7a–1 of this title or section 7b–1 of this title or that such contract market or derivatives transaction execution facility, or any director, officer, agent, or employee thereof, otherwise is violating or has violated any of the provisions of this chapter or any of the rules, regulations, or orders of the Commission or the Commission thereunder.”
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A)(iv)], substituted “designate or register as a contract market or derivatives transaction execution facility any person that has made application therefor, the person” for “designate as a ‘contract market’ any board of trade that has made application therefor, such board of trade” in last sentence.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A)(iv)], substituted “designate or register as a contract market or derivatives transaction execution facility any person that has made application therefor, the person” for “designate as a ‘contract market’ any board of trade that has made application therefor, such board of trade” in last sentence.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A)(iii)], in third sentence, substituted “person” for “board of trade” and “180-day period” for “one-year period”.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A)(iii)], in third sentence, substituted “person” for “board of trade” and “180-day period” for “one-year period”.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A)(ii)], substituted “designation or registration as a contract market or derivatives transaction execution facility within 180 days” for “designation as a contract market within one year” in second sentence.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A)(ii)], substituted “designation or registration as a contract market or derivatives transaction execution facility within 180 days” for “designation as a contract market within one year” in second sentence.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A)(i)], in first sentence, substituted “person desiring to be designated or registered as a contract market or derivatives transaction execution facility shall make application to the Commission for the designation or registration” for “board of trade desiring to be designated a ‘contract market’ shall make application to the Commission for such designation”, “conditions set forth in this chapter” for “above conditions”, and “the requirements of this chapter” for “above requirements”.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(A)(i)], in first sentence, substituted “person desiring to be designated or registered as a contract market or derivatives transaction execution facility shall make application to the Commission for the designation or registration” for “board of trade desiring to be designated a ‘contract market’ shall make application to the Commission for such designation”, “conditions set forth in this chapter” for “above conditions”, and “the requirements of this chapter” for “above requirements”.
 
-Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(B)(iii)], substituted “person” for “board of trade” in two places in last sentence.
+Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(B)(iii)], substituted “person” for “board of trade” in two places in last sentence.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(B)(ii)], in second sentence, substituted “contract market or derivatives transaction execution facility affected” for “board of trade affected”, “person appeals” for “board of trade appeals” and “person will” for “board of trade will”.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(B)(ii)], in second sentence, substituted “contract market or derivatives transaction execution facility affected” for “board of trade affected”, “person appeals” for “board of trade appeals” and “person will” for “board of trade will”.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(B)(i)], in first sentence, substituted “designation or registration of any contract market or derivatives transaction execution facility on” for “designation of any board of trade as a ‘contract market’ upon”, “contract market or derivatives transaction execution facility” for “board of trade” in two places, and “designation or registration as set forth in sections 7 through 7a–1 of this title or section 7b–1 of this title” for “designation as set forth in section 7 of this title”.
+Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(B)(i)], in first sentence, substituted “designation or registration of any contract market or derivatives transaction execution facility on” for “designation of any board of trade as a ‘contract market’ upon”, “contract market or derivatives transaction execution facility” for “board of trade” in two places, and “designation or registration as set forth in sections 7 through 7a–1 of this title or section 7b–1 of this title” for “designation as set forth in section 7 of this title”.
 
-1992—Pub. L. 102–546, § 209(a)(1), (2), designated first par. as subsec. (a) and redesignated former par. (a) as subsec. (b).
+1992—Pub. L. 102–546, § 209(a)(1), (2), designated first par. as subsec. (a) and redesignated former par. (a) as subsec. (b).
 
-Subsec. (a). Pub. L. 102–546, § 209(a)(3), substituted “subsection (b)” for “paragraph (a)”.
+Subsec. (a). Pub. L. 102–546, § 209(a)(3), substituted “subsection (b)” for “paragraph (a)”.
 
-Subsec. (b). Pub. L. 102–546, § 402(9)(A), which directed amendment of first sentence by striking “the Secretary of Agriculture or”, could not be executed because of amendment by Pub. L. 93–463, § 103(a). See 1974 Amendment note below.
+Subsec. (b). Pub. L. 102–546, § 402(9)(A), which directed amendment of first sentence by striking “the Secretary of Agriculture or”, could not be executed because of amendment by Pub. L. 93–463, § 103(a). See 1974 Amendment note below.
 
-Pub. L. 102–546, § 402(1)(B), substituted “Commission” for “commission” wherever appearing.
+Pub. L. 102–546, § 402(1)(B), substituted “Commission” for “commission” wherever appearing.
 
 1984—Par. (a). Pub. L. 98–620 struck out provisions requiring proceedings in such cases in the court of appeals to be made a preferred cause and expedited in every way.
 
 1983—Pub. L. 97–444 required approval or denial of application within one year period of filing of application, stay of such period following notification that application was incomplete and deficient until resubmission of application, minimum period prior to acting upon resubmitted application, and specification of grounds for denial of application.
 
-1978—Pub. L. 95–405, § 13(1), in provisions before par. (a) inserted “on the record” after “opportunity for a hearing”.
+1978—Pub. L. 95–405, § 13(1), in provisions before par. (a) inserted “on the record” after “opportunity for a hearing”.
 
-Par. (a). Pub. L. 95–405, § 13(2), inserted “on the record” after “upon a hearing”.
+Par. (a). Pub. L. 95–405, § 13(2), inserted “on the record” after “upon a hearing”.
 
-1974—Pub. L. 93–463, § 103(a), substituted “Commission” for “Secretary of Agriculture” in first par.
+1974—Pub. L. 93–463, § 103(a), substituted “Commission” for “Secretary of Agriculture” in first par.
 
-Par. (a). Pub. L. 93–463, § 103(c), struck out “the Secretary of Agriculture, who shall thereupon notify the other members of” after “The clerk of the court in which such a petition is filed shall immediately cause a copy thereof to be delivered to”.
+Par. (a). Pub. L. 93–463, § 103(c), struck out “the Secretary of Agriculture, who shall thereupon notify the other members of” after “The clerk of the court in which such a petition is filed shall immediately cause a copy thereof to be delivered to”.
 
-Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in that phrase in par. (a), section 103(b) did not apply to par. (a) and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in that phrase in par. (a), section 103(b) did not apply to par. (a) and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
 
-1968—Pub. L. 90–258, § 14, inserted provision affording any board of trade refused a contract market designation a hearing before the Commission with right to appeal in adverse decision to the court of appeals as provided for in par. (a) of this section at end of first par.
+1968—Pub. L. 90–258, § 14, inserted provision affording any board of trade refused a contract market designation a hearing before the Commission with right to appeal in adverse decision to the court of appeals as provided for in par. (a) of this section at end of first par.
 
-Par. (a). Pub. L. 90–258, § 15, amended par. (a) generally, striking out such parts both of first sentence and of proviso of last sentence as described the commission as made up of the Secretary of Agriculture, Secretary of Commerce, and Attorney General (covered in definition of “Commission” in section 2 of this title, including representation of such officials by their designees), extending grounds for suspension or revocation of designation to include violations of any provisions of this chapter or rules, regulations, or orders of the Secretary of Agriculture or commission, requiring delivery of appeal petitions to Secretary of Agriculture rather than any member of the commission, who would notify the other members, and filing of commission records of proceedings on appeal by the Secretary of Agriculture and not the commission, striking out provisions describing Secretary of Agriculture as Chairman (now found in section 2 of this title), superseding such part of proviso of seventh sentence as authorized appeals to the commission from Secretary of Agriculture’s refusal of a contract market designation by provisions of first par. of this section, and striking out such other part as made decision of court on appeal from commission final and binding on the parties.
+Par. (a). Pub. L. 90–258, § 15, amended par. (a) generally, striking out such parts both of first sentence and of proviso of last sentence as described the commission as made up of the Secretary of Agriculture, Secretary of Commerce, and Attorney General (covered in definition of “Commission” in section 2 of this title, including representation of such officials by their designees), extending grounds for suspension or revocation of designation to include violations of any provisions of this chapter or rules, regulations, or orders of the Secretary of Agriculture or commission, requiring delivery of appeal petitions to Secretary of Agriculture rather than any member of the commission, who would notify the other members, and filing of commission records of proceedings on appeal by the Secretary of Agriculture and not the commission, striking out provisions describing Secretary of Agriculture as Chairman (now found in section 2 of this title), superseding such part of proviso of seventh sentence as authorized appeals to the commission from Secretary of Agriculture’s refusal of a contract market designation by provisions of first par. of this section, and striking out such other part as made decision of court on appeal from commission final and binding on the parties.
 
 1958—Pub. L. 85–791 substituted “thereupon file in the court the record in such proceedings, as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings including the notice to the board of trade, a copy of the charges, the evidence, and the report and order” in third notice, and struck out “certified and” after “duly” in fourth sentence.
 
@@ -6303,7 +6303,7 @@ Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appea
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -6331,7 +6331,7 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as a note under section 2 of this title.
 
-## § 9. Prohibition regarding manipulation and false information
+## § 9. Prohibition regarding manipulation and false information
 
 **(1) Prohibition against manipulation** It shall be unlawful for any person, directly or indirectly, to use or employ, or attempt to use or employ, in connection with any swap, or a contract of sale of any commodity in interstate commerce, or for future delivery on or subject to the rules of any registered entity, any manipulative or deceptive device or contrivance, in contravention of such rules and regulations as the Commission shall promulgate by not later than 1 year after July 21, 2010, provided no rule or regulation promulgated by the Commission shall require any person to disclose to another person nonpublic information that may be material to the market price, rate, or level of the commodity transaction, except as necessary to make any statement made to the other person in or in connection with the transaction not misleading in any material respect.
 
@@ -6397,9 +6397,9 @@ The attendance of witnesses and the production of any such records may be requir
 
 **(7) Service**
 
-A subpoena issued under this section 1
+A subpoena issued under this section 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 may be served upon any person who is not to be found within the territorial jurisdiction of any court of the United States in such manner as the Federal Rules of Civil Procedure prescribe for service of process in a foreign country, except that a subpoena to be served on a person who is not to be found within the territorial jurisdiction of any court of the United States may be issued only on the prior approval of the Commission.
 
@@ -6469,7 +6469,7 @@ In accordance with section 2112 of title 28, the Commission shall file in the ap
 
 Upon the filing of a petition under subparagraph (B)(ii), the appropriate court described in subparagraph (B)(ii) may affirm, set aside, or modify the order of the Commission.
 
-(Sept. 21, 1922, ch. 369, § 6(c), formerly § 6(b), 42 Stat. 1002; June 15, 1936, ch. 545, § 8, 49 Stat. 1498; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; June 16, 1955, ch. 151, 69 Stat. 160; Pub. L. 85–791, § 7(b), Aug. 28, 1958, 72 Stat. 944; Pub. L. 86–507, § 1(2), June 11, 1960, 74 Stat. 200; Pub. L. 90–258, § 16, Feb. 19, 1968, 82 Stat. 30; Pub. L. 91–452, title II, § 202, Oct. 15, 1970, 84 Stat. 928; Pub. L. 93–463, title I, § 103(a), (b), (d), (e), title II, §§ 204(b), 205(b), 212(a)(1), (2), title IV, § 408, Oct. 23, 1974, 88 Stat. 1392, 1397, 1400, 1403, 1414; Pub. L. 95–405, § 13(3), Sept. 30, 1978, 92 Stat. 871; Pub. L. 97–444, title II, § 219, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, § 103, Nov. 10, 1986, 100 Stat. 3557; renumbered § 6(c) and amended Pub. L. 102–546, title II, §§ 209(a)(1), 212(b), 223, title III, § 301, title IV, § 402(1)(C), (6), (7), (9)(B), Oct. 28, 1992, 106 Stat. 3606, 3609, 3617, 3622, 3624, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(C)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 110–234, title XIII, § 13103(a), May 22, 2008, 122 Stat. 1433; Pub. L. 110–246, § 4(a), title XIII, § 13103(a), June 18, 2008, 122 Stat. 1664, 2195; Pub. L. 111–203, title VII, §§ 741(b)(3), 753(a), July 21, 2010, 124 Stat. 1731, 1750.)
+(Sept. 21, 1922, ch. 369, § 6(c), formerly § 6(b), 42 Stat. 1002; June 15, 1936, ch. 545, § 8, 49 Stat. 1498; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; June 16, 1955, ch. 151, 69 Stat. 160; Pub. L. 85–791, § 7(b), Aug. 28, 1958, 72 Stat. 944; Pub. L. 86–507, § 1(2), June 11, 1960, 74 Stat. 200; Pub. L. 90–258, § 16, Feb. 19, 1968, 82 Stat. 30; Pub. L. 91–452, title II, § 202, Oct. 15, 1970, 84 Stat. 928; Pub. L. 93–463, title I, § 103(a), (b), (d), (e), title II, §§ 204(b), 205(b), 212(a)(1), (2), title IV, § 408, Oct. 23, 1974, 88 Stat. 1392, 1397, 1400, 1403, 1414; Pub. L. 95–405, § 13(3), Sept. 30, 1978, 92 Stat. 871; Pub. L. 97–444, title II, § 219, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, § 103, Nov. 10, 1986, 100 Stat. 3557; renumbered § 6(c) and amended Pub. L. 102–546, title II, §§ 209(a)(1), 212(b), 223, title III, § 301, title IV, § 402(1)(C), (6), (7), (9)(B), Oct. 28, 1992, 106 Stat. 3606, 3609, 3617, 3622, 3624, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(C)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 110–234, title XIII, § 13103(a), May 22, 2008, 122 Stat. 1433; Pub. L. 110–246, § 4(a), title XIII, § 13103(a), June 18, 2008, 122 Stat. 1664, 2195; Pub. L. 111–203, title VII, §§ 741(b)(3), 753(a), July 21, 2010, 124 Stat. 1731, 1750.)
 
 **Editorial Notes**
 
@@ -6485,23 +6485,23 @@ Section is comprised of subsec. (c) of section 6 of act Sept. 21, 1922. Prior to
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 753(a), amended section generally. Prior to amendment, section related to exclusion of persons from privilege of “registered entities”, procedure for exclusion, review by court of appeals, and enforcement powers of Commission.
+2010—Pub. L. 111–203, § 753(a), amended section generally. Prior to amendment, section related to exclusion of persons from privilege of “registered entities”, procedure for exclusion, review by court of appeals, and enforcement powers of Commission.
 
-Pub. L. 111–203, § 741(b)(3), in first sentence, inserted “or of any swap,” before “or has willfully made”.
+Pub. L. 111–203, § 741(b)(3), in first sentence, inserted “or of any swap,” before “or has willfully made”.
 
-2008—Pub. L. 110–246, § 13103(a), in cl. (3) of third sentence inserted “(A)” after “assess such person” and added subcl. (B).
+2008—Pub. L. 110–246, § 13103(a), in cl. (3) of third sentence inserted “(A)” after “assess such person” and added subcl. (B).
 
 2000—Pub. L. 106–554 substituted “registered entity” for “contract market” wherever appearing, “registered entities” for “contract markets” wherever appearing, and “privileges” for “trading privileges” in two places.
 
-1992—Pub. L. 102–546, § 402(9)(B), which directed amendment of first sentence by striking “the Secretary of Agriculture or”, could not be executed because of amendment by Pub. L. 93–463, § 103(a). See 1974 Amendment note below.
+1992—Pub. L. 102–546, § 402(9)(B), which directed amendment of first sentence by striking “the Secretary of Agriculture or”, could not be executed because of amendment by Pub. L. 93–463, § 103(a). See 1974 Amendment note below.
 
-Pub. L. 102–546, §§ 209(a)(1), 212(b), 223, 402(1)(C), (6), substituted, in first sentence, “Commission thereunder” for “commission thereunder”, in sentence beginning “Upon evidence received”, inserted “(1)”, substituted “(2) if” for “and, if”, “suspend” for “may suspend”, “(3)” for “and may”, “the higher of $100,000 or triple the monetary gain to such person” for “$100,000”, and inserted before period “and (4) require restitution to customers of damages proximately caused by violations of such persons”, and in sentence beginning “After the issuance”, substituted “offending person” for “offending person.”.
+Pub. L. 102–546, §§ 209(a)(1), 212(b), 223, 402(1)(C), (6), substituted, in first sentence, “Commission thereunder” for “commission thereunder”, in sentence beginning “Upon evidence received”, inserted “(1)”, substituted “(2) if” for “and, if”, “suspend” for “may suspend”, “(3)” for “and may”, “the higher of $100,000 or triple the monetary gain to such person” for “$100,000”, and inserted before period “and (4) require restitution to customers of damages proximately caused by violations of such persons”, and in sentence beginning “After the issuance”, substituted “offending person” for “offending person.”.
 
-1983—Pub. L. 97–444 struck out “as futures commission merchant or any person associated therewith as described in section 6k of this title, commodity trading advisor, commodity pool operator, or as floor broker hereunder” after “such person, if registered” and also after “such person is registered” and inserted “, or in the case of an order denying registration, the circuit in which the petitioner’s principal place of business listed on petitioner’s application for registration is located,” after “court of appeals of the circuit in which the petitioner is doing business”.
+1983—Pub. L. 97–444 struck out “as futures commission merchant or any person associated therewith as described in section 6k of this title, commodity trading advisor, commodity pool operator, or as floor broker hereunder” after “such person, if registered” and also after “such person is registered” and inserted “, or in the case of an order denying registration, the circuit in which the petitioner’s principal place of business listed on petitioner’s application for registration is located,” after “court of appeals of the circuit in which the petitioner is doing business”.
 
-1974—Pub. L. 93–463, §§ 103(e), 204(b), 205(b), 212(a)(1), (2), 408, substituted “it” for “he”, inserted “or any person associated therewith as described in section 6k of this title,” after “futures commission merchant” wherever appearing, inserted “commodity trading advisor, commodity pool operator” before “or as floor broker” wherever appearing, inserted provision for the assessment of civil penalties of not more than $100,000 for each violation, set a limit of fifteen days after the issuance of an order within which period the person against whom the order was issued must file with the court of appeals his petition that the order be set aside, and substituted “an Administrative Law Judge” and “Administrative Law Judge” for “a referee” and “referee”, respectively.
+1974—Pub. L. 93–463, §§ 103(e), 204(b), 205(b), 212(a)(1), (2), 408, substituted “it” for “he”, inserted “or any person associated therewith as described in section 6k of this title,” after “futures commission merchant” wherever appearing, inserted “commodity trading advisor, commodity pool operator” before “or as floor broker” wherever appearing, inserted provision for the assessment of civil penalties of not more than $100,000 for each violation, set a limit of fifteen days after the issuance of an order within which period the person against whom the order was issued must file with the court of appeals his petition that the order be set aside, and substituted “an Administrative Law Judge” and “Administrative Law Judge” for “a referee” and “referee”, respectively.
 
-Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Section 103(a) was executed wherever the term “Secretary of Agriculture” appeared in this section including in the phrase “the Secretary of Agriculture or the commission” in the first sentence. Because the word “commission” was not capitalized in that phrase in the first sentence, section 103(b) did not apply to that phrase and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Section 103(a) was executed wherever the term “Secretary of Agriculture” appeared in this section including in the phrase “the Secretary of Agriculture or the commission” in the first sentence. Because the word “commission” was not capitalized in that phrase in the first sentence, section 103(b) did not apply to that phrase and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
 
 1968—Pub. L. 90–258 amended first sentence generally, providing for denial of trading privileges to persons other than contract markets and suspension or revocation of registration of futures commission merchants and floor brokers, who are manipulating or have attempted to manipulate prices, for willful, material, misstatements in, or omissions from, reports or registration statements, and for violations of orders of Secretary of Agriculture or commission, and authorizing the Secretary to prohibit such persons from trading on or subject to rules of any contract market.
 
@@ -6519,9 +6519,9 @@ Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appea
 
 **Effective Date of 2010 Amendment**
 
-Amendment by section 741(b)(3) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by section 741(b)(3) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
-Pub. L. 111–203, title VII, § 753(d), July 21, 2010, 124 Stat. 1754, provided that:
+Pub. L. 111–203, title VII, § 753(d), July 21, 2010, 124 Stat. 1754, provided that:
 
 > **“(1)** The amendments made by this section [amending this section and sections 13b and 25 of this title] shall take effect on the date on which the final rule promulgated by the Commodity Futures Trading Commission [see 76 F.R. 41398, effective Aug. 15, 2011] pursuant to this Act [see Tables for classification] takes effect.
 
@@ -6547,7 +6547,7 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see section 13 of act June 15, 1936, set out as a note under section 1 of this title.
 
-## § 9a. Assessment of money penalties
+## § 9a. Assessment of money penalties
 
 **(1)** In determining the amount of the money penalty assessed under section 9 of this title, the Commission shall consider the appropriateness of such penalty to the gravity of the violation.
 
@@ -6569,7 +6569,7 @@ If the person against whom the money penalty is assessed fails to pay such penal
 
 **(5)** Any swap dealer or major swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of section 2(h) of this title shall be liable for a civil money penalty in twice the amount otherwise available for a violation of section 2(h) of this title.
 
-(Sept. 21, 1922, ch. 369, § 6(e), formerly § 6(d), as added Pub. L. 93–463, title II, § 212(a)(3), Oct. 23, 1974, 88 Stat. 1403; renumbered § 6(e) and amended Pub. L. 102–546, title II, § 209(a)(1), (5), Oct. 28, 1992, 106 Stat. 3606; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(E)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 111–203, title VII, § 741(b)(11), July 21, 2010, 124 Stat. 1732.)
+(Sept. 21, 1922, ch. 369, § 6(e), formerly § 6(d), as added Pub. L. 93–463, title II, § 212(a)(3), Oct. 23, 1974, 88 Stat. 1403; renumbered § 6(e) and amended Pub. L. 102–546, title II, § 209(a)(1), (5), Oct. 28, 1992, 106 Stat. 3606; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(E)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 111–203, title VII, § 741(b)(11), July 21, 2010, 124 Stat. 1732.)
 
 **Editorial Notes**
 
@@ -6589,13 +6589,13 @@ Section is comprised of subsec. (e) of section 6 of act Sept. 21, 1922. Subsecs.
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date**
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 9b. Rules prohibiting deceptive and other abusive telemarketing acts or practices
+## § 9b. Rules prohibiting deceptive and other abusive telemarketing acts or practices
 
 **(1)** Except as provided in paragraph (2), not later than six months after the effective date of rules promulgated by the Federal Trade Commission under section 6102(a) of title 15, the Commission shall promulgate, or require each registered futures association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by any person registered or exempt from registration under this chapter in connection with such person’s business as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, leverage transaction merchant, floor broker, or floor trader, or a person associated with any such person.
 
@@ -6607,7 +6607,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 If the Commission determines that an exception described in subparagraph (A) or (B) applies, the Commission shall publish in the Federal Register its determination with the reasons for it.
 
-(Sept. 21, 1922, ch. 369, § 6(f), as added Pub. L. 103–297, § 3(e)(2), Aug. 16, 1994, 108 Stat. 1547.)
+(Sept. 21, 1922, ch. 369, § 6(f), as added Pub. L. 103–297, § 3(e)(2), Aug. 16, 1994, 108 Stat. 1547.)
 
 **Editorial Notes**
 
@@ -6615,11 +6615,11 @@ If the Commission determines that an exception described in subparagraph (A) or 
 
 Section is comprised of subsec. (f) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to section 9 of this title. Subsecs. (d), (e), and (g) of section 6 are classified to sections 13b, 9a, and 9c of this title, respectively.
 
-## § 9c. Notice of investigations and enforcement actions
+## § 9c. Notice of investigations and enforcement actions
 
 The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission pursuant to section 9 and 13b of this title against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title, any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, any associated person exempt from registration pursuant to section 6k(6) of this title, or any board of trade designated as a contract market pursuant to section 7b–1 of this title.
 
-(Sept. 21, 1922, ch. 369, § 6(g), as added Pub. L. 106–554, § 1(a)(5) [title II, § 253(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–449.)
+(Sept. 21, 1922, ch. 369, § 6(g), as added Pub. L. 106–554, § 1(a)(5) [title II, § 253(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–449.)
 
 **Editorial Notes**
 
@@ -6627,29 +6627,29 @@ The Commission shall provide the Securities and Exchange Commission with notice 
 
 Section is comprised of subsec. (g) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to section 9 of this title. Subsecs. (d), (e), and (f) of section 6 are classified to sections 13b, 9a, and 9b of this title, respectively.
 
-## § 10. Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948
+## § 10. Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948
 
-Section, acts Sept. 21, 1922, ch. 369, § 6(b), 42 Stat. 1001; June 15, 1936, ch. 545, § 8(k), 49 Stat. 1499, related to review by Supreme Court on certiorari. See section 1254 of Title 28, Judiciary and Judicial Procedure.
+Section, acts Sept. 21, 1922, ch. 369, § 6(b), 42 Stat. 1001; June 15, 1936, ch. 545, § 8(k), 49 Stat. 1499, related to review by Supreme Court on certiorari. See section 1254 of Title 28, Judiciary and Judicial Procedure.
 
-## § 10a. Cooperative associations and corporations, exclusion from board of trade; rules of board inapplicable to payment of compensation by association
+## § 10a. Cooperative associations and corporations, exclusion from board of trade; rules of board inapplicable to payment of compensation by association
 
-**(a)** No board of trade which has been designated or registered as a contract market or a derivatives transaction execution facility exclude 1
+**(a)** No board of trade which has been designated or registered as a contract market or a derivatives transaction execution facility exclude 1
 
-<sup>1</sup>  So in original. Probably should read “shall exclude”.
+<sup>1</sup> So in original. Probably should read “shall exclude”.
 
 from membership in, and all privileges on, such board of trade, any association or corporation engaged in cash commodity business having adequate financial responsibility which is organized under the cooperative laws of any State, or which has been recognized as a cooperative association of producers by the United States Government or by any agency thereof, if such association or corporation complies and agrees to comply with such terms and conditions as are or may be imposed lawfully upon other members of such board, and as are or may be imposed lawfully upon a cooperative association of producers engaged in cash commodity business, unless such board of trade is authorized by the commission to exclude such association or corporation from membership and privileges after hearing held upon at least three days’ notice subsequent to the filing of complaint by the board of trade: *Provided, however*, That if any such association or corporation shall fail to meet its obligations with any established clearing house or clearing agency of any contract market, such association or corporation shall be ipso facto debarred from further trading on such contract market, except such trading as may be necessary to close open trades and to discharge existing contracts in accordance with the rules of such contract market applicable in such cases. Such commission may prescribe that such association or corporation shall have and retain membership and privileges, with or without imposing conditions, or it may permit such board of trade immediately to bar such association or corporation from membership and privileges. Any order of said commission entered hereunder shall be reviewable by the court of appeals for the circuit in which such association or corporation, or such board of trade, has its principal place of business, on written petition either of such association or corporation, or of such board of trade, under the procedure provided in section 8(b) of this title, but such order shall not be stayed by the court pending review.
 
 **(b)** No rule of any board of trade designated or registered as a contract market or a derivatives transaction execution facility shall forbid or be construed to forbid the payment of compensation on a commodity-unit basis, or otherwise, by any federated cooperative association to its regional member-associations for services rendered or to be rendered in connection with any organization work, educational activity, or procurement of patronage, provided no part of any such compensation is returned to patrons (whether members or nonmembers) of such cooperative association, or of its regional or local member-associations, otherwise than as a dividend on capital stock or as a patronage dividend out of the net earnings or surplus of such federated cooperative association.
 
-(Sept. 21, 1922, ch. 369, § 6a, as added June 15, 1936, ch. 545, § 9, 49 Stat. 1499; amended June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 102–546, title II, § 209(b)(4), title IV, § 402(8), Oct. 28, 1992, 106 Stat. 3607, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(13)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
+(Sept. 21, 1922, ch. 369, § 6a, as added June 15, 1936, ch. 545, § 9, 49 Stat. 1499; amended June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 102–546, title II, § 209(b)(4), title IV, § 402(8), Oct. 28, 1992, 106 Stat. 3607, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(13)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(13)(A)], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a ‘contract market’ shall”.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(13)(A)], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a ‘contract market’ shall”.
 
-Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(13)(B)], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a contract market”.
+Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(13)(B)], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a contract market”.
 
 1992—Pub. L. 102–546 redesignated subsecs. (1) and (2) as (a) and (b), respectively, and in subsec. (a) substituted reference to section 8(b) of this title for reference to section 8 of this title.
 
@@ -6663,11 +6663,11 @@ Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appea
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 11. Vacation on request of designation or registration as “registered entity”; redesignation or reregistration
+## § 11. Vacation on request of designation or registration as “registered entity”; redesignation or reregistration
 
 Any person that has been designated or registered a registered entity in the manner provided in this chapter may have such designation or registration vacated and set aside by giving notice in writing to the Commission requesting that its designation or registration as a registered entity be vacated, which notice shall be served at least ninety days prior to the date named therein as the date when the vacation of designation or registration shall take effect. Upon receipt of such notice the Commission shall forthwith order the vacation of the designation or registration of the registered entity, effective upon the day named in the notice, and shall forthwith send a copy of the notice and its order to all other registered entities. From and after the date upon which the vacation became effective the said person can thereafter be designated or registered again a registered entity by making application to the Commission in the manner in this chapter provided for an original application.
 
-(Sept. 21, 1922, ch. 369, § 7, 42 Stat. 1002; Pub. L. 93–463, title I, § 103(a), (e), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(17)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
+(Sept. 21, 1922, ch. 369, § 7, 42 Stat. 1002; Pub. L. 93–463, title I, § 103(a), (e), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(17)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
 
 **Editorial Notes**
 
@@ -6683,7 +6683,7 @@ Any person that has been designated or registered a registered entity in the man
 
 For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 93–463, set out as a note under section 2 of this title.
 
-## § 12. Public disclosure
+## § 12. Public disclosure
 
 **(a) Investigations respecting operations of boards of trade and others subject to this chapter; publication of results; restrictions; information received from foreign futures authorities; undercover operations; notice of investigations and enforcement actions**
 
@@ -6737,7 +6737,7 @@ The Commission shall provide any registration information maintained by the Comm
 
 The Comptroller General of the United States shall conduct reviews and audits of the Commission and make reports thereon. For the purpose of conducting such reviews and audits, the Comptroller General shall be furnished such information regarding the powers, duties, organizations, transactions, operations, and activities of the Commission as the Comptroller General may require and the Comptroller General and the duly authorized representatives of the Comptroller General shall, for the purpose of securing such information, have access to and the right to examine any books, documents, papers, or records of the Commission, except that in reports the Comptroller General shall not include data and information that would separately disclose the business transactions of any person and trade secrets or names of customers, although such data shall be provided upon request by any committee of either House of Congress acting within the scope of its jurisdiction.
 
-(Sept. 21, 1922, ch. 369, § 8, 42 Stat. 1003; June 15, 1936, ch. 545, § 2, 49 Stat. 1491; Pub. L. 90–258, § 19(a), Feb. 19, 1968, 82 Stat. 32; Pub. L. 93–463, title I, § 103(a), (e), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, § 16, Sept. 30, 1978, 92 Stat. 873; Pub. L. 97–444, title II, § 222, Jan. 11, 1983, 96 Stat. 2309; Pub. L. 102–546, title II, § 205, title III, §§ 304, 305, title IV, § 402(7), Oct. 28, 1992, 106 Stat. 3600, 3623, 3624; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(18), title II, § 253(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–449; Pub. L. 110–234, title XIII, § 13105(g), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13105(g), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, § 725(f), July 21, 2010, 124 Stat. 1694.)
+(Sept. 21, 1922, ch. 369, § 8, 42 Stat. 1003; June 15, 1936, ch. 545, § 2, 49 Stat. 1491; Pub. L. 90–258, § 19(a), Feb. 19, 1968, 82 Stat. 32; Pub. L. 93–463, title I, § 103(a), (e), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, § 16, Sept. 30, 1978, 92 Stat. 873; Pub. L. 97–444, title II, § 222, Jan. 11, 1983, 96 Stat. 2309; Pub. L. 102–546, title II, § 205, title III, §§ 304, 305, title IV, § 402(7), Oct. 28, 1992, 106 Stat. 3600, 3623, 3624; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(18), title II, § 253(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–449; Pub. L. 110–234, title XIII, § 13105(g), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13105(g), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, § 725(f), July 21, 2010, 124 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -6745,37 +6745,37 @@ The Comptroller General of the United States shall conduct reviews and audits of
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Section is based on section 8 of Act Sept. 21, 1922, as amended generally by Pub. L. 95–405, § 16. Prior to such general amendment, section was comprised of the first paragraph of section 8, and the second, third, and fourth pars. of section 8 were classified to sections 12–1, 12–2, and 12–3 of this title, respectively.
+Section is based on section 8 of Act Sept. 21, 1922, as amended generally by Pub. L. 95–405, § 16. Prior to such general amendment, section was comprised of the first paragraph of section 8, and the second, third, and fourth pars. of section 8 were classified to sections 12–1, 12–2, and 12–3 of this title, respectively.
 
 Subsection (h), which required the Commodity Futures Trading Commission to submit an annual report to Congress detailing the operations of the Commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 158 of House Document No. 103–7.
 
 **Amendments**
 
-2010—Subsec. (e). Pub. L. 111–203, in last sentence, inserted “, central bank and ministries,” after “department” wherever appearing and substituted “, is a party.” for “. is a party.”
+2010—Subsec. (e). Pub. L. 111–203, in last sentence, inserted “, central bank and ministries,” after “department” wherever appearing and substituted “, is a party.” for “. is a party.”
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 13105(g), in concluding provisions, struck out “commenced” after “receivership proceeding” and inserted “commenced” after “in a judicial proceeding”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 13105(g), in concluding provisions, struck out “commenced” after “receivership proceeding” and inserted “commenced” after “in a judicial proceeding”.
 
-2000—Subsec. (a)(3). Pub. L. 106–554, § 1(a)(5) [title II, § 253(a)], added par. (3).
+2000—Subsec. (a)(3). Pub. L. 106–554, § 1(a)(5) [title II, § 253(a)], added par. (3).
 
-Subsec. (c). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(18)], in first sentence, substituted “registered entity” for “board of trade”.
+Subsec. (c). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(18)], in first sentence, substituted “registered entity” for “board of trade”.
 
-1992—Subsec. (a). Pub. L. 102–546, §§ 205, 304(1), designated existing provisions as par. (1), inserted provisions at end relating to disclosure of information received from foreign futures authorities, and added par. (2).
+1992—Subsec. (a). Pub. L. 102–546, §§ 205, 304(1), designated existing provisions as par. (1), inserted provisions at end relating to disclosure of information received from foreign futures authorities, and added par. (2).
 
-Subsec. (b). Pub. L. 102–546, § 304(2), inserted at end “This subsection shall not apply to the disclosure of data or information obtained by the Commission from a foreign futures authority.”
+Subsec. (b). Pub. L. 102–546, § 304(2), inserted at end “This subsection shall not apply to the disclosure of data or information obtained by the Commission from a foreign futures authority.”
 
-Subsec. (e). Pub. L. 102–546, § 305, inserted references to foreign futures authority in fifth and last sentences.
+Subsec. (e). Pub. L. 102–546, § 305, inserted references to foreign futures authority in fifth and last sentences.
 
-Subsec. (f). Pub. L. 102–546, § 402(7), substituted “subpoena” for “subpena” wherever appearing and “subpoenas” for “subpenas” in last sentence.
+Subsec. (f). Pub. L. 102–546, § 402(7), substituted “subpoena” for “subpena” wherever appearing and “subpoenas” for “subpenas” in last sentence.
 
-1983—Subsec. (a). Pub. L. 97–444, § 222(1), inserted proviso authorizing Commission to withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person.
+1983—Subsec. (a). Pub. L. 97–444, § 222(1), inserted proviso authorizing Commission to withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person.
 
-Subsec. (b). Pub. L. 97–444, § 222(2), inserted references to receivership proceedings involving a receiver appointed in a judicial proceeding brought under this chapter and to bankruptcy proceedings in which the Commission has intervened or in which Commission has right to appear and be heard under title 11.
+Subsec. (b). Pub. L. 97–444, § 222(2), inserted references to receivership proceedings involving a receiver appointed in a judicial proceeding brought under this chapter and to bankruptcy proceedings in which the Commission has intervened or in which Commission has right to appear and be heard under title 11.
 
-Subsec. (e). Pub. L. 97–444, § 222(3), struck out “of the Executive Branch” after “Upon the request of any department or agency” and inserted “Upon the request of any department or agency of any State or any political subdivision thereof, acting within the scope of its jurisdiction, or any department or agency of any foreign government or any political subdivision thereof, acting within the scope of its jurisdiction, the Commission may furnish to such department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. Any information furnished to any department or agency of any State or political subdivision thereof shall not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under this chapter or the laws of such State or political subdivision to which such State or political subdivision or any department or agency thereof is a party. The Commission shall not furnish any information to a department or agency of a foreign government or political subdivision thereof unless the Commission is satisfied that the information will not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under the laws of such foreign government or political subdivision to which such foreign government or political subdivision or any department or agency thereof is a party.”
+Subsec. (e). Pub. L. 97–444, § 222(3), struck out “of the Executive Branch” after “Upon the request of any department or agency” and inserted “Upon the request of any department or agency of any State or any political subdivision thereof, acting within the scope of its jurisdiction, or any department or agency of any foreign government or any political subdivision thereof, acting within the scope of its jurisdiction, the Commission may furnish to such department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. Any information furnished to any department or agency of any State or political subdivision thereof shall not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under this chapter or the laws of such State or political subdivision to which such State or political subdivision or any department or agency thereof is a party. The Commission shall not furnish any information to a department or agency of a foreign government or political subdivision thereof unless the Commission is satisfied that the information will not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under the laws of such foreign government or political subdivision to which such foreign government or political subdivision or any department or agency thereof is a party.”
 
-Subsecs. (f), (g). Pub. L. 97–444, § 222(5), added subsecs. (f) and (g). Former subsecs. (f) and (g) were redesignated (h) and (i), respectively.
+Subsecs. (f), (g). Pub. L. 97–444, § 222(5), added subsecs. (f) and (g). Former subsecs. (f) and (g) were redesignated (h) and (i), respectively.
 
-Subsecs. (h), (i). Pub. L. 97–444, § 222(4), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
+Subsecs. (h), (i). Pub. L. 97–444, § 222(4), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
 1978—Pub. L. 95–405 consolidated under this section provisions formerly contained in this section and sections 12–1, 12–2, and 12–3 of this title, generally revised provisions thus consolidated to clarify and expand disclosure to public of traders and their positions on boards of trade, and divided provisions thus consolidated and revised into subsecs. (a) to (g).
 
@@ -6789,7 +6789,7 @@ Subsecs. (h), (i). Pub. L. 97–444, § 222(4), redesignated former subsecs. (
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -6815,21 +6815,21 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see section 13 of act June 15, 1936, set out as a note under section 1 of this title.
 
-## §§ 12–1 to 12–3. Omitted
+## §§ 12–1 to 12–3. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 12–1 to 12–3 comprised the second, third, and fourth pars., respectively, of section 8 of the Commodity Exchange Act, Sept. 21, 1922, ch. 369, § 8, 42 Stat. 1003. Such section 8 was amended generally by Pub. L. 95–405, § 16, Sept. 30, 1978, 92 Stat. 873, and is classified in its entirety to section 12 of this title.
+Sections 12–1 to 12–3 comprised the second, third, and fourth pars., respectively, of section 8 of the Commodity Exchange Act, Sept. 21, 1922, ch. 369, § 8, 42 Stat. 1003. Such section 8 was amended generally by Pub. L. 95–405, § 16, Sept. 30, 1978, 92 Stat. 873, and is classified in its entirety to section 12 of this title.
 
-Section 12–1, as added Dec. 19, 1947, ch. 523, 61 Stat. 941; amended Feb. 19, 1968, Pub. L. 90–258, § 19(b), 82 Stat. 32; Oct. 23, 1974, Pub. L. 93–463, title I, § 103(a), (e), (f), 88 Stat. 1392, related to disclosure of names of traders on commodity markets by Commission. See section 12(e) of this title.
+Section 12–1, as added Dec. 19, 1947, ch. 523, 61 Stat. 941; amended Feb. 19, 1968, Pub. L. 90–258, § 19(b), 82 Stat. 32; Oct. 23, 1974, Pub. L. 93–463, title I, § 103(a), (e), (f), 88 Stat. 1392, related to disclosure of names of traders on commodity markets by Commission. See section 12(e) of this title.
 
-Section 12–2, as added Oct. 23, 1974, Pub. L. 93–463, title I, § 105, 88 Stat. 1392, required an annual report to Congress. See Codification note under section 12 of this title.
+Section 12–2, as added Oct. 23, 1974, Pub. L. 93–463, title I, § 105, 88 Stat. 1392, required an annual report to Congress. See Codification note under section 12 of this title.
 
-Section 12–3, as added Oct. 23, 1974, Pub. L. 93–463, title I, § 105, 88 Stat. 1392, related to reviews and audits by Comptroller General. See section 12(i) of this title.
+Section 12–3, as added Oct. 23, 1974, Pub. L. 93–463, title I, § 105, 88 Stat. 1392, related to reviews and audits by Comptroller General. See section 12(i) of this title.
 
-## § 12a. Registration of commodity dealers and associated persons; regulation of registered entities
+## § 12a. Registration of commodity dealers and associated persons; regulation of registered entities
 
 The Commission is authorized—
 
@@ -6847,11 +6847,11 @@ The Commission is authorized—
 
 **(E)** if such person, within ten years preceding the filing of the application or at any time thereafter, has been found in a proceeding brought by the Commission or any Federal or State agency or other governmental body, or by agreement of settlement to which the Commission or any Federal or State agency or other governmental body is a party, (i) to have violated any provision of this chapter, the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Public Utility Holding Company Act of 1935,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-the Trust Indenture Act of 1939 [15 U.S.C. 77aaa et seq.], the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], the Securities Investors 2
+the Trust Indenture Act of 1939 [15 U.S.C. 77aaa et seq.], the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], the Securities Investors 2
 
-<sup>2</sup>  So in original. Probably should be “Investor”.
+<sup>2</sup> So in original. Probably should be “Investor”.
 
 Protection Act of 1970 [15 U.S.C. 78aaa et seq.], the Foreign Corrupt Practices Act of 1977, chapter 96 of title 18, or any similar statute of a State or foreign jurisdiction, or any rule, regulation, or order under any such statutes, or the rules of the Municipal Securities Rulemaking Board where such violation involves embezzlement, theft, extortion, fraud, fraudulent conversion, misappropriation of funds, securities or property, forgery, counterfeiting, false pretenses, bribery, or gambling, or (ii) to have willfully aided, abetted, counseled, commanded, induced, or procured such violation by any other person;
 
@@ -6869,7 +6869,7 @@ Protection Act of 1970 [15 U.S.C. 78aaa et seq.], the Foreign Corrupt Practices 
 
 **(A)** such person has been found by the Commission or by any court of competent jurisdiction to have violated, or has consented to findings of a violation of, any provision of this chapter, or any rule, regulation, or order thereunder (other than a violation set forth in paragraph (2) of this section), or to have willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any such provision;
 
-**(B)** such person has been found by any court of competent jurisdiction or by any Federal or State agency or other governmental body, or by agreement of settlement to which any Federal or State agency or other governmental body is a party, (i) to have violated any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Public Utility Holding Company Act of 1935,<sup>1</sup> the Trust Indenture Act of 1939 [15 U.S.C. 77aaa et seq.], the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], the Securities Investors <sup>2</sup> Protection Act of 1970 [15 U.S.C. 78aaa et seq.], the Foreign Corrupt Practices Act of 1977, or any similar statute of a State or foreign jurisdiction, or any rule, regulation, or order under any such statutes, or the rules of the Municipal Securities Rulemaking Board or (ii) to have willfully aided, abetted, counseled, commanded, induced, or procured such violation by any other person;
+**(B)** such person has been found by any court of competent jurisdiction or by any Federal or State agency or other governmental body, or by agreement of settlement to which any Federal or State agency or other governmental body is a party, (i) to have violated any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Public Utility Holding Company Act of 1935,<sup>1</sup> the Trust Indenture Act of 1939 [15 U.S.C. 77aaa et seq.], the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], the Securities Investors <sup>2</sup> Protection Act of 1970 [15 U.S.C. 78aaa et seq.], the Foreign Corrupt Practices Act of 1977, or any similar statute of a State or foreign jurisdiction, or any rule, regulation, or order under any such statutes, or the rules of the Municipal Securities Rulemaking Board or (ii) to have willfully aided, abetted, counseled, commanded, induced, or procured such violation by any other person;
 
 **(C)** such person failed reasonably to supervise another person, who is subject to such person’s supervision, with a view to preventing violations of this chapter, or of any of the statutes set forth in subparagraph (B) of this paragraph, or of any of the rules, regulations, or orders thereunder, and the person subject to supervision committed such a violation: *Provided*, That no person shall be deemed to have failed reasonably to supervise another person, within the meaning of this subparagraph if (i) there have been established procedures, and a system for applying such procedures, which would reasonably be expected to prevent and detect, insofar as practicable, any such violation by such other person and (ii) such person has reasonably discharged the duties and obligations incumbent upon that person, as supervisor, by reason of such procedures and system, without reasonable cause to believe that such procedures and system were not being complied with;
 
@@ -6945,83 +6945,83 @@ Protection Act of 1970 [15 U.S.C. 78aaa et seq.], the Foreign Corrupt Practices 
 
 **(F)** A person aggrieved by an order issued under this paragraph may obtain review of such order in the same manner and on the same terms and conditions as are provided in section 8(b) of this title.
 
-(Sept. 21, 1922, ch. 369, § 8a, as added June 15, 1936, ch. 545, § 10, 49 Stat. 1500; amended Aug. 5, 1955, ch. 574, 69 Stat. 535; Pub. L. 90–258, §§ 20–23, Feb. 19, 1968, 82 Stat. 32, 33; Pub. L. 93–463, title I, § 103(a), title II, §§ 204(c), 205(c), 213–215, Oct. 23, 1974, 88 Stat. 1392, 1397, 1400, 1404; Pub. L. 95–405, § 17, Sept. 30, 1978, 92 Stat. 874; Pub. L. 97–444, title I, § 104, title II, §§ 223–225, Jan. 11, 1983, 96 Stat. 2297, 2310–2315; Pub. L. 102–546, title II, §§ 207(b)(3), (4), 208, 209(b)(6), 227, title IV, § 402(10), Oct. 28, 1992, 106 Stat. 3604, 3607, 3618, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(19)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410; Pub. L. 111–203, title VII, § 736, July 21, 2010, 124 Stat. 1722.)
+(Sept. 21, 1922, ch. 369, § 8a, as added June 15, 1936, ch. 545, § 10, 49 Stat. 1500; amended Aug. 5, 1955, ch. 574, 69 Stat. 535; Pub. L. 90–258, §§ 20–23, Feb. 19, 1968, 82 Stat. 32, 33; Pub. L. 93–463, title I, § 103(a), title II, §§ 204(c), 205(c), 213–215, Oct. 23, 1974, 88 Stat. 1392, 1397, 1400, 1404; Pub. L. 95–405, § 17, Sept. 30, 1978, 92 Stat. 874; Pub. L. 97–444, title I, § 104, title II, §§ 223–225, Jan. 11, 1983, 96 Stat. 2297, 2310–2315; Pub. L. 102–546, title II, §§ 207(b)(3), (4), 208, 209(b)(6), 227, title IV, § 402(10), Oct. 28, 1992, 106 Stat. 3604, 3607, 3618, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(19)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410; Pub. L. 111–203, title VII, § 736, July 21, 2010, 124 Stat. 1722.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in pars. (2)(E) and (3)(B), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in pars. (2)(E) and (3)(B), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in pars. (2)(E) and (3)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in pars. (2)(E) and (3)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
-The Trust Indenture Act of 1939, referred to in pars. (2)(E) and (3)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+The Trust Indenture Act of 1939, referred to in pars. (2)(E) and (3)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
 
-The Investment Advisers Act of 1940, referred to in pars. (2)(E) and (3)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in pars. (2)(E) and (3)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Securities Investor Protection Act of 1970, referred to in pars. (2)(E) and (3)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in pars. (2)(E) and (3)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 The Foreign Corrupt Practices Act of 1977, referred to in pars. (2)(E) and (3)(B), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
 **Amendments**
 
-2010—Par. (7)(C). Pub. L. 111–203, § 736(1), struck out “, excepting the setting of levels of margin” after “requirements”.
+2010—Par. (7)(C). Pub. L. 111–203, § 736(1), struck out “, excepting the setting of levels of margin” after “requirements”.
 
-Par. (7)(D) to (G). Pub. L. 111–203, § 736(2), (3), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+Par. (7)(D) to (G). Pub. L. 111–203, § 736(2), (3), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
-2000—Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(19)(A)], substituted “registered entity” for “contract market” wherever appearing.
+2000—Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(19)(A)], substituted “registered entity” for “contract market” wherever appearing.
 
-Par. (2)(F). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(19)(B)], substituted “privileges” for “trading privileges”.
+Par. (2)(F). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(19)(B)], substituted “privileges” for “trading privileges”.
 
-1992—Par. (1). Pub. L. 102–546, § 207(b)(3), substituted “floor brokers, and floor traders” for “and floor brokers”.
+1992—Par. (1). Pub. L. 102–546, § 207(b)(3), substituted “floor brokers, and floor traders” for “and floor brokers”.
 
-Par. (2). Pub. L. 102–546, § 209(b)(6)(A), made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
+Par. (2). Pub. L. 102–546, § 209(b)(6)(A), made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
 
-Par. (2)(C)(i). Pub. L. 102–546, § 207(b)(4), inserted “floor trader,” after “floor broker,”.
+Par. (2)(C)(i). Pub. L. 102–546, § 207(b)(4), inserted “floor trader,” after “floor broker,”.
 
-Par. (2)(C)(ii). Pub. L. 102–546, § 208(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “engaging in or continuing any activity involving any transaction in or advice concerning contracts of sale of a commodity for future delivery, concerning matters subject to Commission regulation under section 6c or 23 of this title, or concerning securities”.
+Par. (2)(C)(ii). Pub. L. 102–546, § 208(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “engaging in or continuing any activity involving any transaction in or advice concerning contracts of sale of a commodity for future delivery, concerning matters subject to Commission regulation under section 6c or 23 of this title, or concerning securities”.
 
-Par. (2)(D)(ii). Pub. L. 102–546, § 207(b)(4), inserted “floor trader,” after “floor broker,”.
+Par. (2)(D)(ii). Pub. L. 102–546, § 207(b)(4), inserted “floor trader,” after “floor broker,”.
 
-Par. (2)(D)(iv). Pub. L. 102–546, § 208(b), inserted references to sections 1001, 1503, 1623, 1961 to 1963, and 2314 of title 18 and sections 7201 and 7206 of title 26.
+Par. (2)(D)(iv). Pub. L. 102–546, § 208(b), inserted references to sections 1001, 1503, 1623, 1961 to 1963, and 2314 of title 18 and sections 7201 and 7206 of title 26.
 
-Par. (2)(E). Pub. L. 102–546, § 208(c), substituted “in a proceeding brought” for “by any court of competent jurisdiction,” and in cl. (i) inserted reference to chapter 96 of title 18.
+Par. (2)(E). Pub. L. 102–546, § 208(c), substituted “in a proceeding brought” for “by any court of competent jurisdiction,” and in cl. (i) inserted reference to chapter 96 of title 18.
 
-Par. (2)(G). Pub. L. 102–546, § 208(d), substituted “this paragraph and paragraph (3)” for “subparagraphs (A) through (F) of this paragraph”, “materially false” for “material false”, and “application or any update thereto” for “application”.
+Par. (2)(G). Pub. L. 102–546, § 208(d), substituted “this paragraph and paragraph (3)” for “subparagraphs (A) through (F) of this paragraph”, “materially false” for “material false”, and “application or any update thereto” for “application”.
 
-Par. (3). Pub. L. 102–546, § 209(b)(6)(B), made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
+Par. (3). Pub. L. 102–546, § 209(b)(6)(B), made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
 
-Par. (3)(D). Pub. L. 102–546, § 208(e), inserted “pleaded guilty to or” after “person”, substituted “section,” for “section within ten years preceding the filing of the application or at any time thereafter,” and “felony of the type specified in paragraph (2)(D) of this section more” for “felony, including a felony of the type specified in paragraph (2)(D) of this section, more”.
+Par. (3)(D). Pub. L. 102–546, § 208(e), inserted “pleaded guilty to or” after “person”, substituted “section,” for “section within ten years preceding the filing of the application or at any time thereafter,” and “felony of the type specified in paragraph (2)(D) of this section more” for “felony, including a felony of the type specified in paragraph (2)(D) of this section, more”.
 
-Par. (3)(E). Pub. L. 102–546, § 208(f)(1), (2), inserted “pleaded guilty to or” after “person” and struck out “within ten years preceding the filing of the application for registration or at any time thereafter” before “of any misdemeanor”.
+Par. (3)(E). Pub. L. 102–546, § 208(f)(1), (2), inserted “pleaded guilty to or” after “person” and struck out “within ten years preceding the filing of the application for registration or at any time thereafter” before “of any misdemeanor”.
 
-Par. (3)(E)(ii). Pub. L. 102–546, § 207(b)(4), inserted “floor trader,” after “floor broker,”.
+Par. (3)(E)(ii). Pub. L. 102–546, § 207(b)(4), inserted “floor trader,” after “floor broker,”.
 
-Par. (3)(E)(iv). Pub. L. 102–546, § 208(f)(3), inserted reference to sections 7203 to 7205 and 7207 of title 26.
+Par. (3)(E)(iv). Pub. L. 102–546, § 208(f)(3), inserted reference to sections 7203 to 7205 and 7207 of title 26.
 
-Par. (3)(G). Pub. L. 102–546, § 208(g)(5), which directed the insertion of “or in any registration disqualification proceeding” after “Commission”, was executed by making the insertion after “Commission” the second time it appeared to reflect the probable intent of Congress.
+Par. (3)(G). Pub. L. 102–546, § 208(g)(5), which directed the insertion of “or in any registration disqualification proceeding” after “Commission”, was executed by making the insertion after “Commission” the second time it appeared to reflect the probable intent of Congress.
 
-Pub. L. 102–546, § 208(g)(1)–(4), substituted “materially false” for “material false”, “application or any update thereto,” for “application,” and struck out “or” after “thereunder,”.
+Pub. L. 102–546, § 208(g)(1)–(4), substituted “materially false” for “material false”, “application or any update thereto,” for “application,” and struck out “or” after “thereunder,”.
 
-Par. (3)(H). Pub. L. 102–546, § 208(h), inserted “, in a United States military court,” after “State court”.
+Par. (3)(H). Pub. L. 102–546, § 208(h), inserted “, in a United States military court,” after “State court”.
 
-Par. (3)(J). Pub. L. 102–546, § 208(i), struck out “or” before “any other self-regulatory”, inserted “or any foreign regulatory body that the Commission recognizes as having a comparable regulatory program”, and substituted “association, self-regulatory organization, or foreign regulatory body” for “association, or self-regulatory organization”.
+Par. (3)(J). Pub. L. 102–546, § 208(i), struck out “or” before “any other self-regulatory”, inserted “or any foreign regulatory body that the Commission recognizes as having a comparable regulatory program”, and substituted “association, self-regulatory organization, or foreign regulatory body” for “association, or self-regulatory organization”.
 
-Par. (4). Pub. L. 102–546, § 209(b)(6)(C), made technical amendment to references to sections 9 and 15 of this title in concluding provisions to reflect change in references to corresponding section of original act.
+Par. (4). Pub. L. 102–546, § 209(b)(6)(C), made technical amendment to references to sections 9 and 15 of this title in concluding provisions to reflect change in references to corresponding section of original act.
 
-Par. (5). Pub. L. 102–546, § 402(10)(A), struck out “and” at end.
+Par. (5). Pub. L. 102–546, § 402(10)(A), struck out “and” at end.
 
-Par. (7). Pub. L. 102–546, § 402(10)(B), substituted “matters as—” for “matters as:” in introductory provisions.
+Par. (7). Pub. L. 102–546, § 402(10)(B), substituted “matters as—” for “matters as:” in introductory provisions.
 
-Par. (11). Pub. L. 102–546, § 227, added par. (11).
+Par. (11). Pub. L. 102–546, § 227, added par. (11).
 
-1983—Par. (1). Pub. L. 97–444, § 223, substituted authorization for registration of “associated persons of futures commission merchants” for “and persons associated therewith as described in section 6k of this title”; authorized registration of introducing brokers, associated persons of introducing brokers, associated persons of commodity trading advisors and associated persons of commodity pool operators, substituted “such persons” for “any persons” before “associated with the applicant”, and authorized establishment of registration and renewal fees and charges and granting of temporary licenses for terms not exceeding six months from date of issuance.
+1983—Par. (1). Pub. L. 97–444, § 223, substituted authorization for registration of “associated persons of futures commission merchants” for “and persons associated therewith as described in section 6k of this title”; authorized registration of introducing brokers, associated persons of introducing brokers, associated persons of commodity trading advisors and associated persons of commodity pool operators, substituted “such persons” for “any persons” before “associated with the applicant”, and authorized establishment of registration and renewal fees and charges and granting of temporary licenses for terms not exceeding six months from date of issuance.
 
-Par. (2). Pub. L. 97–444, § 224(1), added par. (2) and struck out prior par. (2) which authorized Commission “to refuse to register any person—
+Par. (2). Pub. L. 97–444, § 224(1), added par. (2) and struck out prior par. (2) which authorized Commission “to refuse to register any person—
 
 “(A) if the prior registration of such person has been suspended (and the period of such suspension shall not have expired) or has been revoked;
 
@@ -7029,41 +7029,41 @@ Par. (2). Pub. L. 97–444, § 224(1), added par. (2) and struck out prior par
 
 “(C) in the case of an applicant for registration as futures commission merchant, if it is found after opportunity for hearing that the applicant has not established that he meets the minimum financial requirements under section 6f of this title: *Provided*, That pending final determination under subparagraph (B) or (C), registration shall not be granted: *And provided further*, That the applicant may appeal from the refusal of registration under subparagraph (B) or (C) in the manner provided in sections 9 and 15 of this title; and”.
 
-Par. (3). Pub. L. 97–444, § 224(3), added par. (3). Former par. (3) redesignated (4).
+Par. (3). Pub. L. 97–444, § 224(3), added par. (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 97–444, § 224(2), (4), struck out par. (4) provision for establishment of registration and renewal fees and charges, covered in par. (1), redesignated par. (3) as (4), and in redesignated par. (4), authorized placing of restrictions on registrations, suspension or revocation of registration of an introducing broker and appeals from registration decisions made pursuant to this paragraph as provided in sections 9 and 15 of this title, and substituted “if cause exists under paragraph (3) of this section” for “if cause exists under paragraph (2)(B) or (C) of this section”.
+Par. (4). Pub. L. 97–444, § 224(2), (4), struck out par. (4) provision for establishment of registration and renewal fees and charges, covered in par. (1), redesignated par. (3) as (4), and in redesignated par. (4), authorized placing of restrictions on registrations, suspension or revocation of registration of an introducing broker and appeals from registration decisions made pursuant to this paragraph as provided in sections 9 and 15 of this title, and substituted “if cause exists under paragraph (3) of this section” for “if cause exists under paragraph (2)(B) or (C) of this section”.
 
-Par. (6). Pub. L. 97–444, § 104, authorized communication of full facts respecting transactions or market operations to registered futures associations and self-regulatory organizations, included concern for investors, provided for communications when necessary or appropriate to effectuate purposes of this chapter, and prohibited disclosure of furnished information except in self-regulatory actions or proceedings.
+Par. (6). Pub. L. 97–444, § 104, authorized communication of full facts respecting transactions or market operations to registered futures associations and self-regulatory organizations, included concern for investors, provided for communications when necessary or appropriate to effectuate purposes of this chapter, and prohibited disclosure of furnished information except in self-regulatory actions or proceedings.
 
-Pars. (6) to (8). Pub. L. 97–444, § 224(5), struck out “and” at end of pars. (6), (7), and (8).
+Pars. (6) to (8). Pub. L. 97–444, § 224(5), struck out “and” at end of pars. (6), (7), and (8).
 
-Par. (9). Pub. L. 97–444, § 225, authorized Commission to direct the contract market to take certain action, including, but not limited to, setting of temporary emergency margin levels on any futures contract, and fixing of limits that may apply to a market position acquired in good faith prior to the effective date of Commission’s action and inserted provisions respecting judicial review.
+Par. (9). Pub. L. 97–444, § 225, authorized Commission to direct the contract market to take certain action, including, but not limited to, setting of temporary emergency margin levels on any futures contract, and fixing of limits that may apply to a market position acquired in good faith prior to the effective date of Commission’s action and inserted provisions respecting judicial review.
 
-Par. (10). Pub. L. 97–444, § 224(6), added par. (10).
+Par. (10). Pub. L. 97–444, § 224(6), added par. (10).
 
-1978—Par. (1). Pub. L. 95–405, § 17(1), inserted “, which may require the applicant, and any persons associated with the applicant as the Commission may specify, to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing” after “by the Commission”.
+1978—Par. (1). Pub. L. 95–405, § 17(1), inserted “, which may require the applicant, and any persons associated with the applicant as the Commission may specify, to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing” after “by the Commission”.
 
-Par. (6). Pub. L. 95–405, § 17(2), struck out “and to publish” after “any contract market”.
+Par. (6). Pub. L. 95–405, § 17(2), struck out “and to publish” after “any contract market”.
 
-1974—Pub. L. 93–463, § 103(a), substituted “Commission” for “Secretary of Agriculture” in provisions preceding par. (1).
+1974—Pub. L. 93–463, § 103(a), substituted “Commission” for “Secretary of Agriculture” in provisions preceding par. (1).
 
-Par. (1). Pub. L. 93–463, §§ 103(a), 204(c), 205(c), substituted “Commission” for “Secretary of Agriculture”, inserted “and persons associated therewith as described in section 6k of this title,” after “futures commission merchants”, and inserted “commodity trading advisors, commodity pool operators” before “and floor brokers”.
+Par. (1). Pub. L. 93–463, §§ 103(a), 204(c), 205(c), substituted “Commission” for “Secretary of Agriculture”, inserted “and persons associated therewith as described in section 6k of this title,” after “futures commission merchants”, and inserted “commodity trading advisors, commodity pool operators” before “and floor brokers”.
 
-Pars. (3), (5), (6). Pub. L. 93–463, § 103(a), substituted “Commission” for “Secretary of Agriculture”.
+Pars. (3), (5), (6). Pub. L. 93–463, § 103(a), substituted “Commission” for “Secretary of Agriculture”.
 
-Par. (7). Pub. L. 93–463, § 213, amended par. (7) generally, substituting provisions covering the altering or supplementing of the rules of a contract market for provisions covering the disapproval of bylaws, rules, regulations, and resolutions made, issued, or proposed by a contract market.
+Par. (7). Pub. L. 93–463, § 213, amended par. (7) generally, substituting provisions covering the altering or supplementing of the rules of a contract market for provisions covering the disapproval of bylaws, rules, regulations, and resolutions made, issued, or proposed by a contract market.
 
-Par. (8). Pub. L. 93–463, § 214, added par. (8).
+Par. (8). Pub. L. 93–463, § 214, added par. (8).
 
-Par. (9). Pub. L. 93–463, § 215, added par. (9).
+Par. (9). Pub. L. 93–463, § 215, added par. (9).
 
-1968—Par. (2). Pub. L. 90–258, § 20, designated existing provisions as subpar. (A), substituted “if the prior registration of such person” for “if such person has violated any of the provisions of this chapter or any of the rules or regulations promulgated by the Secretary of Agriculture hereunder for which the registration of such person” and added subpars. (B) and (C).
+1968—Par. (2). Pub. L. 90–258, § 20, designated existing provisions as subpar. (A), substituted “if the prior registration of such person” for “if such person has violated any of the provisions of this chapter or any of the rules or regulations promulgated by the Secretary of Agriculture hereunder for which the registration of such person” and added subpars. (B) and (C).
 
-Par. (3). Pub. L. 90–258, § 21, authorized Secretary of Agriculture, in accordance with procedure provided for in sections 9 and 15 of this title, to suspend or revoke the registration of any person registered under this chapter if cause exists under par. (2)(B) or (C) of this section which would warrant a refusal of registration of such person.
+Par. (3). Pub. L. 90–258, § 21, authorized Secretary of Agriculture, in accordance with procedure provided for in sections 9 and 15 of this title, to suspend or revoke the registration of any person registered under this chapter if cause exists under par. (2)(B) or (C) of this section which would warrant a refusal of registration of such person.
 
-Par. (4). Pub. L. 90–258, § 22, struck out authorization for establishment of fees for copies of registration certificates.
+Par. (4). Pub. L. 90–258, § 22, struck out authorization for establishment of fees for copies of registration certificates.
 
-Par. (7). Pub. L. 90–258, § 23, added par. (7).
+Par. (7). Pub. L. 90–258, § 23, added par. (7).
 
 1955—Par. (4). Act Aug. 5, 1955, authorized Secretary to fix and establish reasonable fees for registrations and renewals, and struck out provisions which set the fee for each registration and renewal at not more than $10.
 
@@ -7071,7 +7071,7 @@ Par. (7). Pub. L. 90–258, § 23, added par. (7).
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 1992 Amendment**
 
@@ -7097,11 +7097,11 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 12b. Trading ban violations; prohibition
+## § 12b. Trading ban violations; prohibition
 
 It shall be unlawful for any person, against whom there is outstanding any order of the Commission prohibiting him from trading on or subject to the rules of any registered entity, to make or cause to be made in contravention of such order, any contract for future delivery of any commodity, on or subject to the rules of any registered entity.
 
-(Sept. 21, 1922, ch. 369, § 8b, as added Pub. L. 90–258, § 24, Feb. 19, 1968, 82 Stat. 33; amended Pub. L. 93–463, title I, § 103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(20)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.)
+(Sept. 21, 1922, ch. 369, § 8b, as added Pub. L. 90–258, § 24, Feb. 19, 1968, 82 Stat. 33; amended Pub. L. 93–463, title I, § 103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(20)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.)
 
 **Editorial Notes**
 
@@ -7121,7 +7121,7 @@ For effective date of amendment by Pub. L. 93–463 see section 418 of Pub. L. 9
 
 Section effective 120 days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as an Effective Date of 1968 Amendment note under section 2 of this title.
 
-## § 12c. Disciplinary actions
+## § 12c. Disciplinary actions
 
 **(a) Action taken; written notice of reasons for action**
 
@@ -7147,7 +7147,7 @@ The Commission, in its discretion, may order a stay of any action taken pursuant
 
 **(2)** The regulations issued by the Commission pursuant to this subsection shall prohibit, for a period of time to be determined by the Commission, any individual who is found to have committed any major violation from service on the governing board of any registered entity or registered futures association, or on any disciplinary committee thereof.
 
-(Sept. 21, 1922, ch. 369, § 8c, as added Pub. L. 93–463, title II, § 216, Oct. 23, 1974, 88 Stat. 1405; amended Pub. L. 95–405, § 18, Sept. 30, 1978, 92 Stat. 874; Pub. L. 102–546, title II, § 206(a)(2), Oct. 28, 1992, 106 Stat. 3602; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(20)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.)
+(Sept. 21, 1922, ch. 369, § 8c, as added Pub. L. 93–463, title II, § 216, Oct. 23, 1974, 88 Stat. 1405; amended Pub. L. 95–405, § 18, Sept. 30, 1978, 92 Stat. 874; Pub. L. 102–546, title II, § 206(a)(2), Oct. 28, 1992, 106 Stat. 3602; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(20)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.)
 
 **Editorial Notes**
 
@@ -7169,21 +7169,21 @@ Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1968 Amendment note under section 2 of this title.
 
-## § 12d. Commission action for noncompliance with export sales reporting requirements
+## § 12d. Commission action for noncompliance with export sales reporting requirements
 
-The Commission may, in accordance with the procedures provided for in this chapter, refuse to register, register conditionally, or suspend, place restrictions upon, or revoke the registration of, any person, and may bar for any period as it deems appropriate any person from using or participating in any manner in any market regulated by the Commission, if such person is subject to a final decision or order of any court of competent jurisdiction or agency of the United States finding such person to have knowingly violated any provision of the export sales reporting requirements of section 612c–3 1
+The Commission may, in accordance with the procedures provided for in this chapter, refuse to register, register conditionally, or suspend, place restrictions upon, or revoke the registration of, any person, and may bar for any period as it deems appropriate any person from using or participating in any manner in any market regulated by the Commission, if such person is subject to a final decision or order of any court of competent jurisdiction or agency of the United States finding such person to have knowingly violated any provision of the export sales reporting requirements of section 612c–3 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, or of any regulation issued thereunder.
 
-(Sept. 21, 1922, ch. 369, § 8d, as added Pub. L. 97–444, title II, § 226, Jan. 11, 1983, 96 Stat. 2316.)
+(Sept. 21, 1922, ch. 369, § 8d, as added Pub. L. 97–444, title II, § 226, Jan. 11, 1983, 96 Stat. 2316.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 612c–3 of this title, referred to in text, was repealed by Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702.
+Section 612c–3 of this title, referred to in text, was repealed by Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7191,19 +7191,19 @@ Section 612c–3 of this title, referred to in text, was repealed by Pub. L. 101
 
 Section effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as an Effective Date of 1983 Amendment note under section 2 of this title.
 
-## § 12e. Repealed. Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(21)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410
+## § 12e. Repealed. Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(21)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410
 
-Section, act Sept. 21, 1922, ch. 369, § 8e, as added Pub. L. 102–546, title II, § 202(a), Oct. 28, 1992, 106 Stat. 3598, related to Commission oversight and deficiency orders.
+Section, act Sept. 21, 1922, ch. 369, § 8e, as added Pub. L. 102–546, title II, § 202(a), Oct. 28, 1992, 106 Stat. 3598, related to Commission oversight and deficiency orders.
 
-## § 13. Violations generally; punishment; costs of prosecution
+## § 13. Violations generally; punishment; costs of prosecution
 
 **(a) Felonies generally** It shall be a felony punishable by a fine of not more than $1,000,000 or imprisonment for not more than 10 years, or both, together with the costs of prosecution, for:
 
 **(1)** Any person registered or required to be registered under this chapter, or any employee or agent thereof, to embezzle, steal, purloin, or with criminal intent convert to such person’s use or to the use of another, any money, securities, or property having a value in excess of $100, which was received by such person or any employee or agent thereof to margin, guarantee, or secure the trades or contracts of any customer or accruing to such customer as a result of such trades or contracts or which otherwise was received from any customer, client, or pool participant in connection with the business of such person. The word “value” as used in this paragraph means face, par, or market value, or cost price, either wholesale or retail, whichever is greater.
 
-**(2)** Any person to manipulate or attempt to manipulate the price of any commodity in interstate commerce, or for future delivery on or subject to the rules of any registered entity, or of any swap, or to corner or attempt to corner any such commodity or knowingly to deliver or cause to be delivered for transmission through the mails or interstate commerce by telegraph, telephone, wireless, or other means of communication false or misleading or knowingly inaccurate reports concerning crop or market information or conditions that affect or tend to affect the price of any commodity in interstate commerce, or knowingly to violate the provisions of section 6, section 6b, subsections (a) through (e) of subsection 1
+**(2)** Any person to manipulate or attempt to manipulate the price of any commodity in interstate commerce, or for future delivery on or subject to the rules of any registered entity, or of any swap, or to corner or attempt to corner any such commodity or knowingly to deliver or cause to be delivered for transmission through the mails or interstate commerce by telegraph, telephone, wireless, or other means of communication false or misleading or knowingly inaccurate reports concerning crop or market information or conditions that affect or tend to affect the price of any commodity in interstate commerce, or knowingly to violate the provisions of section 6, section 6b, subsections (a) through (e) of subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 6c, section 6h, section 6*o*(1), or section 23 of this title.
 
@@ -7235,7 +7235,7 @@ It shall be a felony punishable by a fine of not more than $500,000 or imprisonm
 
 Such felony shall be punishable by a fine of not more than $500,000, plus the amount of any profits realized from such trading or disclosure made in violation of this subsection, or imprisonment for not more than five years, or both, together with the costs of prosecution.
 
-(Sept. 21, 1922, ch. 369, § 9, 42 Stat. 1003; June 15, 1936, ch. 545, §§ 2, 11, 49 Stat. 1491, 1501; Pub. L. 90–258, § 25, Feb. 19, 1968, 82 Stat. 33; Pub. L. 93–463, title II, § 212(d), title IV, §§ 401, 409, Oct. 23, 1974, 88 Stat. 1404, 1412, 1414; Pub. L. 95–405, § 19, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, § 227, Jan. 11, 1983, 96 Stat. 2316; Pub. L. 99–641, title I, §§ 105, 110(3), (4), Nov. 10, 1986, 100 Stat. 3558, 3561; Pub. L. 102–546, title II, §§ 212(a), 214(a), Oct. 28, 1992, 106 Stat. 3608, 3610; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(22)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410; Pub. L. 110–234, title XIII, §§ 13103(d), 13105(h), May 22, 2008, 122 Stat. 1434, 1435; Pub. L. 110–246, § 4(a), title XIII, §§ 13103(d), 13105(h), June 18, 2008, 122 Stat. 1664, 2196, 2197; Pub. L. 111–203, title VII, § 741(b)(6), (7), July 21, 2010, 124 Stat. 1731.)
+(Sept. 21, 1922, ch. 369, § 9, 42 Stat. 1003; June 15, 1936, ch. 545, §§ 2, 11, 49 Stat. 1491, 1501; Pub. L. 90–258, § 25, Feb. 19, 1968, 82 Stat. 33; Pub. L. 93–463, title II, § 212(d), title IV, §§ 401, 409, Oct. 23, 1974, 88 Stat. 1404, 1412, 1414; Pub. L. 95–405, § 19, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, § 227, Jan. 11, 1983, 96 Stat. 2316; Pub. L. 99–641, title I, §§ 105, 110(3), (4), Nov. 10, 1986, 100 Stat. 3558, 3561; Pub. L. 102–546, title II, §§ 212(a), 214(a), Oct. 28, 1992, 106 Stat. 3608, 3610; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(22)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410; Pub. L. 110–234, title XIII, §§ 13103(d), 13105(h), May 22, 2008, 122 Stat. 1434, 1435; Pub. L. 110–246, § 4(a), title XIII, §§ 13103(d), 13105(h), June 18, 2008, 122 Stat. 1664, 2196, 2197; Pub. L. 111–203, title VII, § 741(b)(6), (7), July 21, 2010, 124 Stat. 1731.)
 
 **Editorial Notes**
 
@@ -7245,57 +7245,57 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2010—Subsec. (a)(2). Pub. L. 111–203, § 741(b)(6)(A)(i), inserted “or of any swap,” before “or to corner”.
+2010—Subsec. (a)(2). Pub. L. 111–203, § 741(b)(6)(A)(i), inserted “or of any swap,” before “or to corner”.
 
-Subsec. (a)(4). Pub. L. 111–203, § 741(b)(6)(A)(ii), inserted “swap data repository,” before “or futures association”.
+Subsec. (a)(4). Pub. L. 111–203, § 741(b)(6)(A)(ii), inserted “swap data repository,” before “or futures association”.
 
-Subsec. (a)(6). Pub. L. 111–203, § 741(b)(7), added par. (6).
+Subsec. (a)(6). Pub. L. 111–203, § 741(b)(7), added par. (6).
 
-Subsec. (e)(1). Pub. L. 111–203, § 741(b)(6)(B), inserted “swap data repository,” before “or registered futures association” and “, or swaps,” before “on the basis”.
+Subsec. (e)(1). Pub. L. 111–203, § 741(b)(6)(B), inserted “swap data repository,” before “or registered futures association” and “, or swaps,” before “on the basis”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 13103(d), in introductory provisions, struck out “(or $500,000 in the case of a person who is an individual)” after “$1,000,000” and substituted “10 years” for “five years”.
+2008—Subsec. (a). Pub. L. 110–246, § 13103(d), in introductory provisions, struck out “(or $500,000 in the case of a person who is an individual)” after “$1,000,000” and substituted “10 years” for “five years”.
 
-Subsecs. (e), (f). Pub. L. 110–246, § 13105(h), redesignated subsec. (f) as (e) and, in par. (1), substituted “; or” for period at end.
+Subsecs. (e), (f). Pub. L. 110–246, § 13105(h), redesignated subsec. (f) as (e) and, in par. (1), substituted “; or” for period at end.
 
 2000—Subsecs. (a)(2) to (4), (f)(1), (2). Pub. L. 106–554 substituted “registered entity” for “contract market”.
 
-1992—Subsec. (a). Pub. L. 102–546, § 212(a)(1)(A), (C), added subsec. (a) and struck out former subsec. (a) which related to penalty for embezzlement and larcenous actions.
+1992—Subsec. (a). Pub. L. 102–546, § 212(a)(1)(A), (C), added subsec. (a) and struck out former subsec. (a) which related to penalty for embezzlement and larcenous actions.
 
-Subsec. (b). Pub. L. 102–546, § 212(a)(1)(A), (C), added subsec. (b) and struck out former subsec. (b) which related to penalty for price manipulation, cornering, and fraudulent information.
+Subsec. (b). Pub. L. 102–546, § 212(a)(1)(A), (C), added subsec. (b) and struck out former subsec. (b) which related to penalty for price manipulation, cornering, and fraudulent information.
 
-Subsec. (c). Pub. L. 102–546, § 212(a)(1)(A), (B), (2), redesignated subsec. (d) as (c), substituted “$500,000” for “$100,000”, and struck out former subsec. (c) which related to penalty for misdemeanors.
+Subsec. (c). Pub. L. 102–546, § 212(a)(1)(A), (B), (2), redesignated subsec. (d) as (c), substituted “$500,000” for “$100,000”, and struck out former subsec. (c) which related to penalty for misdemeanors.
 
-Subsecs. (d) to (f). Pub. L. 102–546, §§ 212(a)(1)(B), (3), 214(a), redesignated subsec. (e) as (d), substituted “$500,000” for “$100,000”, and added subsec. (f).
+Subsecs. (d) to (f). Pub. L. 102–546, §§ 212(a)(1)(B), (3), 214(a), redesignated subsec. (e) as (d), substituted “$500,000” for “$100,000”, and added subsec. (f).
 
-1986—Subsec. (c). Pub. L. 99–641, § 110(3), substituted “6k,” for “6k.”
+1986—Subsec. (c). Pub. L. 99–641, § 110(3), substituted “6k,” for “6k.”
 
-Subsec. (d). Pub. L. 99–641, § 110(4), substituted “advance guaranty” for “advance guarantee”.
+Subsec. (d). Pub. L. 99–641, § 110(4), substituted “advance guaranty” for “advance guarantee”.
 
-Pub. L. 99–641, § 105, inserted “if nonpublic information is used in the investment transaction, if the investment transaction is prohibited by rule or regulation of the Commission, or if the investment transaction is effected by means of any instrument regulated by the Commission” after “actual commodity”, and substituted provisions which related to foregoing prohibitions not being applicable to transactions determined by Commission not contrary to public interest or inconsistent with this subsection for provisions which read as follows: “Such prohibition against any investment transaction in an actual commodity shall not apply to (1) a transaction in which such person buys an agricultural commodity or livestock for use in such person’s own farming or ranching operations or sells an agricultural commodity which such person has produced in connection with such person’s own farming or ranching operations nor to any transaction in which such person sells livestock owned by such person for at least three months, (2) a transaction entered into by the trustee of a trust established by such person over which such person exercises no control if such transaction is entered into solely to hedge against adverse price changes in connection with such farming or ranching operations or is a transaction for the lease of oil or gas or other mineral rights or interests owned by such person, or (3) a transaction in which such person buys or sells, directly or indirectly (except by means of an instrument regulated by the Commission), a United States Government security, a certificate of deposit, or a similar financial instrument if no nonpublic information is used by such person in such transaction. With respect to such excepted transactions, the Commission shall require any Commissioner of the Commission or any employee or agent thereof who participates in any such transaction to notify the Commission thereof in accordance with such regulations as the Commission shall prescribe and the Commission shall make such information available to the public.”
+Pub. L. 99–641, § 105, inserted “if nonpublic information is used in the investment transaction, if the investment transaction is prohibited by rule or regulation of the Commission, or if the investment transaction is effected by means of any instrument regulated by the Commission” after “actual commodity”, and substituted provisions which related to foregoing prohibitions not being applicable to transactions determined by Commission not contrary to public interest or inconsistent with this subsection for provisions which read as follows: “Such prohibition against any investment transaction in an actual commodity shall not apply to (1) a transaction in which such person buys an agricultural commodity or livestock for use in such person’s own farming or ranching operations or sells an agricultural commodity which such person has produced in connection with such person’s own farming or ranching operations nor to any transaction in which such person sells livestock owned by such person for at least three months, (2) a transaction entered into by the trustee of a trust established by such person over which such person exercises no control if such transaction is entered into solely to hedge against adverse price changes in connection with such farming or ranching operations or is a transaction for the lease of oil or gas or other mineral rights or interests owned by such person, or (3) a transaction in which such person buys or sells, directly or indirectly (except by means of an instrument regulated by the Commission), a United States Government security, a certificate of deposit, or a similar financial instrument if no nonpublic information is used by such person in such transaction. With respect to such excepted transactions, the Commission shall require any Commissioner of the Commission or any employee or agent thereof who participates in any such transaction to notify the Commission thereof in accordance with such regulations as the Commission shall prescribe and the Commission shall make such information available to the public.”
 
-1983—Subsec. (a). Pub. L. 97–444, § 227(1), expanded applicability to any person registered or required to be registered under this chapter and inserted provision suspending persons convicted under this subsec. from registration and denying reregistration for five years or longer as determined by the Commission, unless such suspension or denial is not required to protect the public interest.
+1983—Subsec. (a). Pub. L. 97–444, § 227(1), expanded applicability to any person registered or required to be registered under this chapter and inserted provision suspending persons convicted under this subsec. from registration and denying reregistration for five years or longer as determined by the Commission, unless such suspension or denial is not required to protect the public interest.
 
-Subsec. (b). Pub. L. 97–444, § 227(2), inserted “A person convicted of a felony under this subsection shall be suspended from any registration under this chapter, denied registration or reregistration for five years or such longer period as the Commission shall determine, and barred from using or participating in any manner in any market regulated by the Commission for five years or such longer period as the Commission shall determine on such terms and conditions as the Commission may prescribe, unless the Commission determines that the imposition of such suspension, denial of registration or reregistration, or market bar is not required to protect the public interest. The Commission may upon petition later review such disqualification and market bar and for good cause shown reduce the period thereof.”
+Subsec. (b). Pub. L. 97–444, § 227(2), inserted “A person convicted of a felony under this subsection shall be suspended from any registration under this chapter, denied registration or reregistration for five years or such longer period as the Commission shall determine, and barred from using or participating in any manner in any market regulated by the Commission for five years or such longer period as the Commission shall determine on such terms and conditions as the Commission may prescribe, unless the Commission determines that the imposition of such suspension, denial of registration or reregistration, or market bar is not required to protect the public interest. The Commission may upon petition later review such disqualification and market bar and for good cause shown reduce the period thereof.”
 
-Subsec. (c). Pub. L. 97–444, § 227(3), inserted “A person convicted under this subsection of knowingly violating the provisions of section 6a of this title shall be suspended from any registration under this chapter, denied registration or reregistration for a period of two years or such longer period as the Commission shall determine, and barred from using or participating in any manner in any market regulated by the Commission for two years or such longer period as the Commission shall determine on such terms and conditions as the Commission may prescribe, unless the Commission determines that the imposition of such suspension, denial of registration or reregistration, or market bar is not required to protect the public interest. The Commission may upon petition later review such disqualification and market bar and for good cause shown reduce the period thereof.”
+Subsec. (c). Pub. L. 97–444, § 227(3), inserted “A person convicted under this subsection of knowingly violating the provisions of section 6a of this title shall be suspended from any registration under this chapter, denied registration or reregistration for a period of two years or such longer period as the Commission shall determine, and barred from using or participating in any manner in any market regulated by the Commission for two years or such longer period as the Commission shall determine on such terms and conditions as the Commission may prescribe, unless the Commission determines that the imposition of such suspension, denial of registration or reregistration, or market bar is not required to protect the public interest. The Commission may upon petition later review such disqualification and market bar and for good cause shown reduce the period thereof.”
 
-Subsec. (d). Pub. L. 97–444, § 227(4), in amending subsec. (d) generally, added to range of felonious conduct, participation in any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract, and added to nonapplicability of prohibition against any investment transaction in an actual commodity, a transaction entered into by the trustee of a trust established by such person over which such person exercises no control if such transaction is entered into solely to hedge against adverse price changes in connection with such farming or ranching operations or is a transaction for the lease of oil or gas or other mineral rights or interests owned by such person, or a transaction in which such person buys or sells, directly or indirectly (except by means of an instrument regulated by the Commission), a United States Government security, a certificate of deposit, or a similar financial instrument if no nonpublic information is used by such person in such transaction.
+Subsec. (d). Pub. L. 97–444, § 227(4), in amending subsec. (d) generally, added to range of felonious conduct, participation in any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract, and added to nonapplicability of prohibition against any investment transaction in an actual commodity, a transaction entered into by the trustee of a trust established by such person over which such person exercises no control if such transaction is entered into solely to hedge against adverse price changes in connection with such farming or ranching operations or is a transaction for the lease of oil or gas or other mineral rights or interests owned by such person, or a transaction in which such person buys or sells, directly or indirectly (except by means of an instrument regulated by the Commission), a United States Government security, a certificate of deposit, or a similar financial instrument if no nonpublic information is used by such person in such transaction.
 
-Subsec. (e). Pub. L. 97–444, § 227(5), inserted after words “ ‘decline guaranty’ ” each place they appear the following: “, or in any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract”.
+Subsec. (e). Pub. L. 97–444, § 227(5), inserted after words “ ‘decline guaranty’ ” each place they appear the following: “, or in any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract”.
 
-1978—Subsec. (a). Pub. L. 95–405, § 19(1), substituted “$500,000” for “$100,000” and inserted provision relating to a fine of not more than $100,000 plus costs of prosecution for a violation by a person who is an individual.
+1978—Subsec. (a). Pub. L. 95–405, § 19(1), substituted “$500,000” for “$100,000” and inserted provision relating to a fine of not more than $100,000 plus costs of prosecution for a violation by a person who is an individual.
 
-Subsec. (b). Pub. L. 95–405, § 19(2), substituted “$500,000” for “$100,000” and inserted provisions making felonies the violation of sections 6, 6b, 6c(b) to (e), 6h, 6*o*(1) and 23 of this title, knowingly making any false or misleading statement of material fact, or omitting such fact in any application or report, and setting the fine for such felonies at not more than $100,000 for a person who is an individual.
+Subsec. (b). Pub. L. 95–405, § 19(2), substituted “$500,000” for “$100,000” and inserted provisions making felonies the violation of sections 6, 6b, 6c(b) to (e), 6h, 6*o*(1) and 23 of this title, knowingly making any false or misleading statement of material fact, or omitting such fact in any application or report, and setting the fine for such felonies at not more than $100,000 for a person who is an individual.
 
-Subsec. (c). Pub. L. 95–405, § 19(3), inserted references to subsecs. (d) and (e) of this section and substituted “sections 6a, 6c(a), 6d, 6e, 6i, 6k, 6m, 6*o*(2), or 12b of this title” for “sections 6 to 6e, 6h, 6i, 6k, 6m, 6*o* or 12b of this title”.
+Subsec. (c). Pub. L. 95–405, § 19(3), inserted references to subsecs. (d) and (e) of this section and substituted “sections 6a, 6c(a), 6d, 6e, 6i, 6k, 6m, 6*o*(2), or 12b of this title” for “sections 6 to 6e, 6h, 6i, 6k, 6m, 6*o* or 12b of this title”.
 
-Subsecs. (d), (e). Pub. L. 95–405, § 19(4), (5), substituted “$100,000” for “$10,000”.
+Subsecs. (d), (e). Pub. L. 95–405, § 19(4), (5), substituted “$100,000” for “$10,000”.
 
-1974—Subsecs. (a), (b). Pub. L. 93–463, § 212(d)(1), (2), substituted “$100,000” for “$10,000”.
+1974—Subsecs. (a), (b). Pub. L. 93–463, § 212(d)(1), (2), substituted “$100,000” for “$10,000”.
 
-Subsec. (c). Pub. L. 93–463, §§ 212(d)(3), 409, substituted “$100,000” for “$10,000” and inserted reference to sections 6k, 6m, and 6*o* of this title.
+Subsec. (c). Pub. L. 93–463, §§ 212(d)(3), 409, substituted “$100,000” for “$10,000” and inserted reference to sections 6k, 6m, and 6*o* of this title.
 
-Subsecs. (d), (e). Pub. L. 93–463, § 401, added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 93–463, § 401, added subsecs. (d) and (e).
 
 1968—Subsec. (a). Pub. L. 90–258 added subsec. (a).
 
@@ -7309,7 +7309,7 @@ Subsec. (c). Pub. L. 90–258 incorporated existing offenses in provisions desig
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -7337,19 +7337,19 @@ Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see secti
 
 **Regulations**
 
-Pub. L. 102–546, title II, § 214(b), Oct. 28, 1992, 106 Stat. 3611, provided that: “The Commodity Futures Trading Commission shall issue regulations to implement the amendment made by subsection (a) [amending this section] not later than three hundred and sixty days after the date of enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–546, title II, § 214(b), Oct. 28, 1992, 106 Stat. 3611, provided that: “The Commodity Futures Trading Commission shall issue regulations to implement the amendment made by subsection (a) [amending this section] not later than three hundred and sixty days after the date of enactment of this Act [Oct. 28, 1992].”
 
 **Penalties Study and Guidelines**
 
-Pub. L. 102–546, title II, § 225, Oct. 28, 1992, 106 Stat. 3618, provided that the Commodity Futures Trading Commission should study the penalties the Commission imposes against persons found to have violated the Commodity Exchange Act (7 U.S.C. 1 et seq.) and the penalties imposed by contract markets and registered futures associations against persons found to have violated their respective rules established under such Act, and, within two years after Oct. 28, 1992, submit to Congress a report, including proposed penalty guidelines, that describes the results of the study.
+Pub. L. 102–546, title II, § 225, Oct. 28, 1992, 106 Stat. 3618, provided that the Commodity Futures Trading Commission should study the penalties the Commission imposes against persons found to have violated the Commodity Exchange Act (7 U.S.C. 1 et seq.) and the penalties imposed by contract markets and registered futures associations against persons found to have violated their respective rules established under such Act, and, within two years after Oct. 28, 1992, submit to Congress a report, including proposed penalty guidelines, that describes the results of the study.
 
-## § 13–1. Violations, prohibition against dealings in motion picture box office receipts or onion futures; punishment
+## § 13–1. Violations, prohibition against dealings in motion picture box office receipts or onion futures; punishment
 
 **(a)** No contract for the sale of motion picture box office receipts (or any index, measure, value, or data related to such receipts) or onions for future delivery shall be made on or subject to the rules of any board of trade in the United States. The terms used in this section shall have the same meaning as when used in the Commodity Exchange Act [7 U.S.C. 1 et seq.].
 
 **(b)** Any person who shall violate the provisions of this section shall be deemed guilty of a misdemeanor and upon conviction thereof be fined not more than $5,000.
 
-(Pub. L. 85–839, § 1, Aug. 28, 1958, 72 Stat. 1013; Pub. L. 111–203, title VII, § 721(e)(10), July 21, 2010, 124 Stat. 1672.)
+(Pub. L. 85–839, § 1, Aug. 28, 1958, 72 Stat. 1013; Pub. L. 111–203, title VII, § 721(e)(10), July 21, 2010, 124 Stat. 1672.)
 
 **Editorial Notes**
 
@@ -7369,17 +7369,17 @@ Section was not enacted as part of the Commodity Exchange Act which comprises th
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date**
 
-Pub. L. 85–839, § 2, Aug. 28, 1958, 72 Stat. 1013, provided that: “This Act [enacting this section] shall take effect thirty days after its enactment [Aug. 28, 1958].”
+Pub. L. 85–839, § 2, Aug. 28, 1958, 72 Stat. 1013, provided that: “This Act [enacting this section] shall take effect thirty days after its enactment [Aug. 28, 1958].”
 
-## § 13a. Nonenforcement of rules of government or other violations; cease and desist orders; fines and penalties; imprisonment; misdemeanor; separate offenses
+## § 13a. Nonenforcement of rules of government or other violations; cease and desist orders; fines and penalties; imprisonment; misdemeanor; separate offenses
 
 If any registered entity is not enforcing or has not enforced its rules of government made a condition of its designation or registration as set forth in sections 7 through 7a–2 of this title, or if any registered entity, or any director, officer, agent, or employee of any registered entity otherwise is violating or has violated any of the provisions of this chapter or any of the rules, regulations, or orders of the Commission thereunder, the Commission may, upon notice and hearing on the record and subject to appeal as in other cases provided for in section 8(b) of this title, make and enter an order directing that such registered entity, director, officer, agent, or employee shall cease and desist from such violation, and assess a civil penalty of not more than $500,000 for each such violation, or, in any case of manipulation or attempted manipulation in violation of section 9, 15, 13b, or 13(a)(2) of this title, a civil penalty of not more than $1,000,000 for each such violation. If such registered entity, director, officer, agent, or employee, after the entry of such a cease and desist order and the lapse of the period allowed for appeal of such order or after the affirmance of such order, shall fail or refuse to obey or comply with such order, such registered entity, director, officer, agent, or employee shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $500,000 or imprisoned for not less than six months nor more than one year, or both, except that if the failure or refusal to obey or comply with the order involved any offense under section 13(a)(2) of this title, the registered entity, director, officer, agent, or employee shall be guilty of a felony and, on conviction, shall be subject to penalties under section 13(a)(2) of this title. Each day during which such failure or refusal to obey such cease and desist order continues shall be deemed a separate offense. If the offending registered entity or other person upon whom such penalty is imposed, after the lapse of the period allowed for appeal or after the affirmance of such penalty, shall fail to pay such penalty, the Commission shall refer the matter to the Attorney General who shall recover such penalty by action in the appropriate United States district court. In determining the amount of the money penalty assessed under this section, the Commission shall consider the gravity of the offense, and in the case of a registered entity shall further consider whether the amount of the penalty will materially impair the ability of the registered entity to carry on its operations and duties.
 
-(Sept. 21, 1922, ch. 369, § 6b, as added June 15, 1936, ch. 545, § 9, 49 Stat. 1500; amended Pub. L. 90–258, § 18, Feb. 19, 1968, 82 Stat. 31; Pub. L. 93–463, title II, § 212(b), Oct. 23, 1974, 88 Stat. 1403; Pub. L. 95–405, § 14, Sept. 30, 1978, 92 Stat. 872; Pub. L. 102–546, title II, §§ 209(b)(5), 212(c), Oct. 28, 1992, 106 Stat. 3607, 3609; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(14)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 110–234, title XIII, § 13103(b), May 22, 2008, 122 Stat. 1433; Pub. L. 110–246, § 4(a), title XIII, § 13103(b), June 18, 2008, 122 Stat. 1664, 2195.)
+(Sept. 21, 1922, ch. 369, § 6b, as added June 15, 1936, ch. 545, § 9, 49 Stat. 1500; amended Pub. L. 90–258, § 18, Feb. 19, 1968, 82 Stat. 31; Pub. L. 93–463, title II, § 212(b), Oct. 23, 1974, 88 Stat. 1403; Pub. L. 95–405, § 14, Sept. 30, 1978, 92 Stat. 872; Pub. L. 102–546, title II, §§ 209(b)(5), 212(c), Oct. 28, 1992, 106 Stat. 3607, 3609; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(14)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 110–234, title XIII, § 13103(b), May 22, 2008, 122 Stat. 1433; Pub. L. 110–246, § 4(a), title XIII, § 13103(b), June 18, 2008, 122 Stat. 1664, 2195.)
 
 **Editorial Notes**
 
@@ -7389,7 +7389,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 13103(b), in first sentence, inserted before period at end “, or, in any case of manipulation or attempted manipulation in violation of section 9, 15, 13b, or 13(a)(2) of this title, a civil penalty of not more than $1,000,000 for each such violation” and, in second sentence, inserted before period at end “, except that if the failure or refusal to obey or comply with the order involved any offense under section 13(a)(2) of this title, the registered entity, director, officer, agent, or employee shall be guilty of a felony and, on conviction, shall be subject to penalties under section 13(a)(2) of this title”.
+2008—Pub. L. 110–246, § 13103(b), in first sentence, inserted before period at end “, or, in any case of manipulation or attempted manipulation in violation of section 9, 15, 13b, or 13(a)(2) of this title, a civil penalty of not more than $1,000,000 for each such violation” and, in second sentence, inserted before period at end “, except that if the failure or refusal to obey or comply with the order involved any offense under section 13(a)(2) of this title, the registered entity, director, officer, agent, or employee shall be guilty of a felony and, on conviction, shall be subject to penalties under section 13(a)(2) of this title”.
 
 2000—Pub. L. 106–554 substituted “registered entity” for “contract market” wherever appearing, “designation or registration as set forth in sections 7 through 7a–2 of this title” for “designation as set forth in section 7 of this title” in first sentence, and “the ability of the registered entity” for “the contract market’s ability” in last sentence.
 
@@ -7423,7 +7423,7 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 13a–1. Enjoining or restraining violations
+## § 13a–1. Enjoining or restraining violations
 
 **(a) Action to enjoin or restrain violations**
 
@@ -7469,7 +7469,7 @@ Where the Commission elects to bring the action, it shall inform the Attorney Ge
 
 The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title, any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, any associated person exempt from registration pursuant to section 6k(6) of this title, or any board of trade designated as a contract market pursuant to section 7b–1 of this title.
 
-(Sept. 21, 1922, ch. 369, § 6c, as added Pub. L. 93–463, title II, § 211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, § 220, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, § 104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, § 221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(15), title II, § 253(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449; Pub. L. 110–234, title XIII, § 13103(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13103(c), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §§ 741(b)(5), 744, July 21, 2010, 124 Stat. 1731, 1735.)
+(Sept. 21, 1922, ch. 369, § 6c, as added Pub. L. 93–463, title II, § 211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, § 220, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, § 104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, § 221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(15), title II, § 253(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449; Pub. L. 110–234, title XIII, § 13103(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13103(c), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §§ 741(b)(5), 744, July 21, 2010, 124 Stat. 1731, 1735.)
 
 **Editorial Notes**
 
@@ -7479,19 +7479,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 741(b)(5), inserted “or any swap” after “commodity for future delivery”.
+2010—Subsec. (a). Pub. L. 111–203, § 741(b)(5), inserted “or any swap” after “commodity for future delivery”.
 
-Subsec. (d)(3). Pub. L. 111–203, § 744, added par. (3).
+Subsec. (d)(3). Pub. L. 111–203, § 744, added par. (3).
 
-2008—Subsec. (d). Pub. L. 110–246, § 13103(c), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.”
+2008—Subsec. (d). Pub. L. 110–246, § 13103(c), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.”
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(15)], substituted “registered entity” for “contract market”.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(15)], substituted “registered entity” for “contract market”.
 
-Subsec. (h). Pub. L. 106–554, § 1(a)(5) [title II, § 253(c)], added subsec. (h).
+Subsec. (h). Pub. L. 106–554, § 1(a)(5) [title II, § 253(c)], added subsec. (h).
 
 1992—Pub. L. 102–546 designated first, second, and third sentences as subsecs. (a) to (c), respectively, added subsec. (d), and designated fourth, fifth, and sixth sentences as subsecs. (e) to (g), respectively.
 
-1986—Pub. L. 99–641 inserted “, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate”.
+1986—Pub. L. 99–641 inserted “, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate”.
 
 1983—Pub. L. 97–444 inserted “(other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property)” after “*Provided*, That no restraining order”.
 
@@ -7499,7 +7499,7 @@ Subsec. (h). Pub. L. 106–554, § 1(a)(5) [title II, § 253(c)], added subs
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -7513,7 +7513,7 @@ Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 13a–2. Jurisdiction of States
+## § 13a–2. Jurisdiction of States
 
 **(1)** Whenever it shall appear to the attorney general of any State, the administrator of the securities laws of any State, or such other official as a State may designate, that the interests of the residents of that State have been, are being, or may be threatened or adversely affected because any person (other than a contract market, derivatives transaction execution facility, clearinghouse, floor broker, or floor trader) has engaged in, is engaging or is about to engage in, any act or practice constituting a violation of any provision of this chapter or any rule, regulation, or order of the Commission thereunder, the State may bring a suit in equity or an action at law on behalf of its residents to enjoin such act or practice, to enforce compliance with this chapter, or any rule, regulation, or order of the Commission thereunder, to obtain damages on behalf of their residents, or to obtain such further and other relief as the court may deem appropriate.
 
@@ -7535,7 +7535,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 **(B)** The State shall give the Commission prior written notice of its intent to proceed before instituting a proceeding in State court as described in this subsection and shall furnish the Commission with a copy of its complaint immediately upon instituting any such proceeding. The Commission shall have the right to (i) intervene in the proceeding and, upon doing so, shall be heard on all matters arising therein, and (ii) file a petition for appeal. The Commission or the defendant may remove such proceeding to the district court of the United States for the proper district by following the procedure for removal otherwise provided by law, except that the petition for removal shall be filed within sixty days after service of the summons and complaint upon the defendant. The Commission shall have the right to appear as amicus curiae in any such proceeding.
 
-(Sept. 21, 1922, ch. 369, § 6d, as added Pub. L. 95–405, § 15, Sept. 30, 1978, 92 Stat. 872; amended Pub. L. 97–444, title II, § 221, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 102–546, title II, § 207(b)(1), (2), Oct. 28, 1992, 106 Stat. 3604; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(16)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
+(Sept. 21, 1922, ch. 369, § 6d, as added Pub. L. 95–405, § 15, Sept. 30, 1978, 92 Stat. 872; amended Pub. L. 97–444, title II, § 221, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 102–546, title II, § 207(b)(1), (2), Oct. 28, 1992, 106 Stat. 3604; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(16)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
 
 **Editorial Notes**
 
@@ -7561,11 +7561,11 @@ Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L
 
 Section effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as an Effective Date of 1978 Amendment note under section 2 of this title.
 
-## § 13b. Manipulations or other violations; cease and desist orders against persons other than registered entities; punishment
+## § 13b. Manipulations or other violations; cease and desist orders against persons other than registered entities; punishment
 
 If any person (other than a registered entity), is violating or has violated section 9 of this title or any other provisions of this chapter or of the rules, regulations, or orders of the Commission thereunder, the Commission may, upon notice and hearing, and subject to appeal as in other cases provided for in section 9 of this title, make and enter an order directing that such person shall cease and desist therefrom and, if such person thereafter and after the lapse of the period allowed for appeal of such order or after the affirmance of such order, shall knowingly fail or refuse to obey or comply with such order, such person, upon conviction thereof, shall be fined not more than the higher of $140,000 or triple the monetary gain to such person, or imprisoned for not more than 1 year, or both, except that if such knowing failure or refusal to obey or comply with such order involves any offense within subsection (a) or (b) of section 13 of this title, such person, upon conviction thereof, shall be subject to the penalties of said subsection (a) or (b): *Provided*, That any such cease and desist order under this section against any respondent in any case of manipulation shall be issued only in conjunction with an order issued against such respondent under section 9 of this title.
 
-(Sept. 21, 1922, ch. 369, § 6(d), formerly § 6(c), as added Pub. L. 90–258, § 17, Feb. 19, 1968, 82 Stat. 31; amended Pub. L. 93–463, title I, § 103(a), (b), title II, § 212(c), Oct. 23, 1974, 88 Stat. 1392, 1404; renumbered § 6(d) and amended Pub. L. 102–546, title II, §§ 209(a)(1), (4), 212(b), Oct. 28, 1992, 106 Stat. 3606, 3609; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(D)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 111–203, title VII, §§ 741(b)(4), 753(b), July 21, 2010, 124 Stat. 1731, 1753.)
+(Sept. 21, 1922, ch. 369, § 6(d), formerly § 6(c), as added Pub. L. 90–258, § 17, Feb. 19, 1968, 82 Stat. 31; amended Pub. L. 93–463, title I, § 103(a), (b), title II, § 212(c), Oct. 23, 1974, 88 Stat. 1392, 1404; renumbered § 6(d) and amended Pub. L. 102–546, title II, §§ 209(a)(1), (4), 212(b), Oct. 28, 1992, 106 Stat. 3606, 3609; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(D)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 111–203, title VII, §§ 741(b)(4), 753(b), July 21, 2010, 124 Stat. 1731, 1753.)
 
 **Editorial Notes**
 
@@ -7575,23 +7575,23 @@ Section is comprised of subsec. (d) of section 6 of act Sept. 21, 1922. Subsecs.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 753(b), amended section generally. Prior to amendment, text read as follows: “If any person (other than a registered entity) is manipulating or attempting to manipulate or has manipulated or attempted to manipulate the market price of any commodity, in interstate commerce, or for future delivery on or subject to the rules of any registered entity, or of any swap, or otherwise is violating or has violated any of the provisions of this chapter or of the rules, regulations, or orders of the Commission or the commission thereunder, the Commission may, upon notice and hearing, and subject to appeal as in other cases provided for in sections 9 and 15 of this title, make and enter an order directing that such person shall cease and desist therefrom and, if such person thereafter and after the lapse of the period allowed for appeal of such order or after the affirmance of such order, shall fail or refuse to obey or comply with such order, such person shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than the higher of $100,000 or triple the monetary gain to such person, or imprisoned for not less than six months nor more than one year, or both, except that if such failure or refusal to obey or comply with such order involves any offense within paragraph (a) or (b) of section 13 of this title, such person shall be guilty of a felony and, upon conviction thereof, shall be subject to the penalties of said paragraph (a) or (b): *Provided*, That any such cease and desist order against any respondent in any case of manipulation of, or attempt to manipulate, the price of any commodity shall be issued only in conjunction with an order issued against such respondent under sections 9 and 15 of this title. Each day during which such failure or refusal to obey or comply with such order continues shall be deemed a separate offense.”
+2010—Pub. L. 111–203, § 753(b), amended section generally. Prior to amendment, text read as follows: “If any person (other than a registered entity) is manipulating or attempting to manipulate or has manipulated or attempted to manipulate the market price of any commodity, in interstate commerce, or for future delivery on or subject to the rules of any registered entity, or of any swap, or otherwise is violating or has violated any of the provisions of this chapter or of the rules, regulations, or orders of the Commission or the commission thereunder, the Commission may, upon notice and hearing, and subject to appeal as in other cases provided for in sections 9 and 15 of this title, make and enter an order directing that such person shall cease and desist therefrom and, if such person thereafter and after the lapse of the period allowed for appeal of such order or after the affirmance of such order, shall fail or refuse to obey or comply with such order, such person shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than the higher of $100,000 or triple the monetary gain to such person, or imprisoned for not less than six months nor more than one year, or both, except that if such failure or refusal to obey or comply with such order involves any offense within paragraph (a) or (b) of section 13 of this title, such person shall be guilty of a felony and, upon conviction thereof, shall be subject to the penalties of said paragraph (a) or (b): *Provided*, That any such cease and desist order against any respondent in any case of manipulation of, or attempt to manipulate, the price of any commodity shall be issued only in conjunction with an order issued against such respondent under sections 9 and 15 of this title. Each day during which such failure or refusal to obey or comply with such order continues shall be deemed a separate offense.”
 
-Pub. L. 111–203, § 741(b)(4), inserted “or of any swap,” before “or otherwise is violating”.
+Pub. L. 111–203, § 741(b)(4), inserted “or of any swap,” before “or otherwise is violating”.
 
 2000—Pub. L. 106–554 substituted “registered entity” for “contract market” in two places.
 
 1992—Pub. L. 102–546 made technical amendment to references to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and substituted “the higher of $100,000 or triple the monetary gain to such person” for “$100,000”.
 
-1974—Pub. L. 93–463, §§ 103(a), 212(c), substituted “Commission” for “Secretary” before “may” and substituted “not more than $100,000” for “not less than $500 nor more than $10,000”.
+1974—Pub. L. 93–463, §§ 103(a), 212(c), substituted “Commission” for “Secretary” before “may” and substituted “not more than $100,000” for “not less than $500 nor more than $10,000”.
 
-Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by section 741(b)(4) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by section 741(b)(4) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 Amendment by section 753(b) of Pub. L. 111–203 effective on the date on which the final rule promulgated by the Commodity Futures Trading Commission pursuant to Pub. L. 111–203 takes effect [see 76 F.R. 41398, effective Aug. 15, 2011], see section 753(d) of Pub. L. 111–203, set out as a note under section 9 of this title.
 
@@ -7603,33 +7603,33 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 Section effective 120 days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as an Effective Date of 1968 Amendment note under section 2 of this title.
 
-## § 13c. Responsibility as principal; minor violations
+## § 13c. Responsibility as principal; minor violations
 
 **(a)** Any person who commits, or who willfully aids, abets, counsels, commands, induces, or procures the commission of, a violation of any of the provisions of this chapter, or any of the rules, regulations, or orders issued pursuant to this chapter, or who acts in combination or concert with any other person in any such violation, or who willfully causes an act to be done or omitted which if directly performed or omitted by him or another would be a violation of the provisions of this chapter or any of such rules, regulations, or orders may be held responsible for such violation as a principal.
 
 **(b)** Any person who, directly or indirectly, controls any person who has violated any provision of this chapter or any of the rules, regulations, or orders issued pursuant to this chapter may be held liable for such violation in any action brought by the Commission to the same extent as such controlled person. In such action, the Commission has the burden of proving that the controlling person did not act in good faith or knowingly induced, directly or indirectly, the act or acts constituting the violation.
 
-**(c)** Nothing in this chapter shall be construed as requiring the Commission or the Commission 1
+**(c)** Nothing in this chapter shall be construed as requiring the Commission or the Commission 1
 
-<sup>1</sup>  So in original. The words “or the Commission” probably should not appear.
+<sup>1</sup> So in original. The words “or the Commission” probably should not appear.
 
 to report minor violations of this chapter for prosecution, whenever it appears that the public interest does not require such action.
 
-(Sept. 21, 1922, ch. 369, § 13, as added Pub. L. 90–258, § 26, Feb. 19, 1968, 82 Stat. 34; amended Pub. L. 93–463, title I, § 103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, § 230, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title IV, § 402(1)(D), (9)(C), Oct. 28, 1992, 106 Stat. 3624, 3625.)
+(Sept. 21, 1922, ch. 369, § 13, as added Pub. L. 90–258, § 26, Feb. 19, 1968, 82 Stat. 34; amended Pub. L. 93–463, title I, § 103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, § 230, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title IV, § 402(1)(D), (9)(C), Oct. 28, 1992, 106 Stat. 3624, 3625.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (c). Pub. L. 102–546, § 402(9)(C), which directed that “the Secretary of Agriculture or” be struck out, could not be executed because of amendment by Pub. L. 93–463, § 103(a). See 1974 Amendment note below.
+1992—Subsec. (c). Pub. L. 102–546, § 402(9)(C), which directed that “the Secretary of Agriculture or” be struck out, could not be executed because of amendment by Pub. L. 93–463, § 103(a). See 1974 Amendment note below.
 
-Pub. L. 102–546, § 402(1)(D), substituted “Commission” for “commission” before “to report”.
+Pub. L. 102–546, § 402(1)(D), substituted “Commission” for “commission” before “to report”.
 
-1983—Subsec. (a). Pub. L. 97–444, § 230(1), struck out “in administrative proceedings under this chapter” after “may be held responsible”.
+1983—Subsec. (a). Pub. L. 97–444, § 230(1), struck out “in administrative proceedings under this chapter” after “may be held responsible”.
 
-Subsecs. (b), (c). Pub. L. 97–444, § 230(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 97–444, § 230(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1974—Subsec. (b). Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+1974—Subsec. (b). Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7645,21 +7645,21 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 Section effective 120 days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as an Effective Date of 1968 Amendment note under section 2 of this title.
 
-## § 14. Repealed. Pub. L. 99–641, title I, § 110(5), Nov. 10, 1986, 100 Stat. 3561
+## § 14. Repealed. Pub. L. 99–641, title I, § 110(5), Nov. 10, 1986, 100 Stat. 3561
 
-Section, act Sept. 21, 1922, ch. 369, § 11, 42 Stat. 1003, provided that violations of this chapter occurring before Nov. 1, 1922, should not be punishable.
+Section, act Sept. 21, 1922, ch. 369, § 11, 42 Stat. 1003, provided that violations of this chapter occurring before Nov. 1, 1922, should not be punishable.
 
-## § 15. Omitted
+## § 15. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Sept. 21, 1922, ch. 369, § 6(c) (part), formerly § 6(b), 42 Stat. 1002, as amended and renumbered, which related to enforcement powers of Commission, was omitted in the general amendment of section 6(c) of act Sept. 21, 1922, by Pub. L. 111–203, title VII, § 753(a), July 21, 2010, 124 Stat. 1750. Section 6(c) is now classified to section 9 of this title.
+Section, act Sept. 21, 1922, ch. 369, § 6(c) (part), formerly § 6(b), 42 Stat. 1002, as amended and renumbered, which related to enforcement powers of Commission, was omitted in the general amendment of section 6(c) of act Sept. 21, 1922, by Pub. L. 111–203, title VII, § 753(a), July 21, 2010, 124 Stat. 1750. Section 6(c) is now classified to section 9 of this title.
 
-## § 15a. Repealed. Pub. L. 95–405, § 24, Sept. 30, 1978, 92 Stat. 877
+## § 15a. Repealed. Pub. L. 95–405, § 24, Sept. 30, 1978, 92 Stat. 877
 
-Section, Pub. L. 93–463, title II, § 217, Oct. 23, 1974, 88 Stat. 1405, related to leverage contracts for gold and silver. See section 23(b) of this title.
+Section, Pub. L. 93–463, title II, § 217, Oct. 23, 1974, 88 Stat. 1405, related to leverage contracts for gold and silver. See section 23(b) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7667,7 +7667,7 @@ Section, Pub. L. 93–463, title II, § 217, Oct. 23, 1974, 88 Stat. 1405, rel
 
 Repeal effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as an Effective Date of 1978 Amendment note under section 2 of this title.
 
-## § 15b. Cotton futures contracts
+## § 15b. Cotton futures contracts
 
 **(a) Short title**
 
@@ -7755,9 +7755,9 @@ The provisions of paragraphs (1)(C), (D), (E), (F), and (G) shall be deemed full
 
 **(3) Delivery allowances**
 
-For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic 1
+For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic 1
 
-<sup>1</sup>  So in original. Probably should be “basis”.
+<sup>1</sup> So in original. Probably should be “basis”.
 
 grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cotton established by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of another grade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
 
@@ -7823,27 +7823,27 @@ Any person who knowingly violates any regulation made in pursuance of this secti
 
 **(l) Applicability to contracts prior to effective date**
 
-The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 2
+The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 2 which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
+as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 2 which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
 
 **(m) Authorization**
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 94–455, title XIX, § 1952(a)–(m), Oct. 4, 1976, 90 Stat. 1841–1846; Pub. L. 97–35, title I, § 156(c), Aug. 13, 1981, 95 Stat. 374; Pub. L. 102–237, title I, § 123, Dec. 13, 1991, 105 Stat. 1844; Pub. L. 106–472, title III, § 311, Nov. 9, 2000, 114 Stat. 2076; Pub. L. 114–36, § 1(a), July 20, 2015, 129 Stat. 435.)
+(Pub. L. 94–455, title XIX, § 1952(a)–(m), Oct. 4, 1976, 90 Stat. 1841–1846; Pub. L. 97–35, title I, § 156(c), Aug. 13, 1981, 95 Stat. 374; Pub. L. 102–237, title I, § 123, Dec. 13, 1991, 105 Stat. 1844; Pub. L. 106–472, title III, § 311, Nov. 9, 2000, 114 Stat. 2076; Pub. L. 114–36, § 1(a), July 20, 2015, 129 Stat. 435.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
-The United States Cotton Standards Act, referred to in subsec. (c)(5), is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, which is classified generally to chapter 2 (§ 51 et seq.) of this title. For complete classification of this Act to the Code, see section 51 of this title and Tables.
+The United States Cotton Standards Act, referred to in subsec. (c)(5), is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, which is classified generally to chapter 2 (§ 51 et seq.) of this title. For complete classification of this Act to the Code, see section 51 of this title and Tables.
 
-The Internal Revenue Code of 1954, referred to in subsec. (*l*), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1954, referred to in subsec. (*l*), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
 
 **Codification**
 
@@ -7853,7 +7853,7 @@ Section is comprised of section 1952(a)–(m) of Pub. L. 94–455. Section 1952(
 
 This section, referred to in subsec. (c)(1), was in the original a reference to this “Act”, meaning the United States Cotton Futures Act, which comprises this section.
 
-In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -7861,7 +7861,7 @@ In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sec
 
 2000—Subsec. (d)(2). Pub. L. 106–472 inserted at end “A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.”
 
-1991—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”.
+1991—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”.
 
 1981—Subsec. (f)(1)(G). Pub. L. 97–35 inserted provisions relating to crediting to account referred to in section 55 of this title and provisions respecting cotton samples submitted or used becoming the property of the United States.
 
@@ -7869,7 +7869,7 @@ In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sec
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–36, § 1(b), July 20, 2015, 129 Stat. 435, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to cotton futures contracts entered into on or after the date of the enactment of this Act [July 20, 2015].”
+Pub. L. 114–36, § 1(b), July 20, 2015, 129 Stat. 435, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to cotton futures contracts entered into on or after the date of the enactment of this Act [July 20, 2015].”
 
 **Effective Date of 1981 Amendment**
 
@@ -7877,9 +7877,9 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 156(e) of Pub. 
 
 **Effective Date**
 
-Pub. L. 94–455, title XIX, § 1952(*o*), Oct. 4, 1976, 90 Stat. 1846, provided that: “The provisions of this section [enacting this section, amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26] shall take effect on the 90th day after the date of the enactment of this Act [Oct. 4, 1976].”
+Pub. L. 94–455, title XIX, § 1952(*o*), Oct. 4, 1976, 90 Stat. 1846, provided that: “The provisions of this section [enacting this section, amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26] shall take effect on the 90th day after the date of the enactment of this Act [Oct. 4, 1976].”
 
-## § 16. Commission operations
+## § 16. Commission operations
 
 **(a) Cooperation with other agencies**
 
@@ -7921,9 +7921,9 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 **(2)** This chapter shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operation of bucket shops (other than antifraud provisions of general applicability) in the case of—
 
-**(A)** an electronic trading facility excluded under section 2(e) 1
+**(A)** an electronic trading facility excluded under section 2(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
@@ -7951,13 +7951,13 @@ Consistent with its responsibilities under section 22 of this title, the Commiss
 
 **(2)** may not be regulated as an insurance contract under the law of any State.
 
-(Sept. 21, 1922, ch. 369, § 12, 42 Stat. 1003; Pub. L. 93–463, title I, § 101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, § 20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§ 228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, § 106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§ 216, 220(a), title III, §§ 302, 303, title IV, § 401, title V, § 502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, § 2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, § 1(a)(5) [title I, §§ 116, 117], Dec. 21, 2000, 114 Stat. 2763, 2763A–402; Pub. L. 110–234, title XIII, § 13104, May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13104, June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §§ 722(b), 749(f), July 21, 2010, 124 Stat. 1673, 1747.)
+(Sept. 21, 1922, ch. 369, § 12, 42 Stat. 1003; Pub. L. 93–463, title I, § 101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, § 20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§ 228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, § 106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§ 216, 220(a), title III, §§ 302, 303, title IV, § 401, title V, § 502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, § 2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, § 1(a)(5) [title I, §§ 116, 117], Dec. 21, 2000, 114 Stat. 2763, 2763A–402; Pub. L. 110–234, title XIII, § 13104, May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13104, June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §§ 722(b), 749(f), July 21, 2010, 124 Stat. 1673, 1747.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2(e) of this title relating to the exclusion of electronic trading facilities, referred to in subsec. (e)(2)(A), was struck out by Pub. L. 111–203, title VII, § 723(a)(1)(A), July 21, 2010, 124 Stat. 1675.
+Section 2(e) of this title relating to the exclusion of electronic trading facilities, referred to in subsec. (e)(2)(A), was struck out by Pub. L. 111–203, title VII, § 723(a)(1)(A), July 21, 2010, 124 Stat. 1675.
 
 **Codification**
 
@@ -7965,15 +7965,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2010—Subsec. (e)(2)(B). Pub. L. 111–203, § 749(f), substituted “section 2(c) or 2(f) of this title” for “section 2(c), 2(d), 2(f), or 2(g) of this title” and struck out “2(h) or” before “6(c)”.
+2010—Subsec. (e)(2)(B). Pub. L. 111–203, § 749(f), substituted “section 2(c) or 2(f) of this title” for “section 2(c), 2(d), 2(f), or 2(g) of this title” and struck out “2(h) or” before “6(c)”.
 
-Subsec. (h). Pub. L. 111–203, § 722(b), added subsec. (h).
+Subsec. (h). Pub. L. 111–203, § 722(b), added subsec. (h).
 
-2008—Subsec. (d). Pub. L. 110–246, § 13104, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.”
+2008—Subsec. (d). Pub. L. 110–246, § 13104, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.”
 
-2000—Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title I, § 116], substituted “2005” for “2000”.
+2000—Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title I, § 116], substituted “2005” for “2000”.
 
-Subsec. (e). Pub. L. 106–554, § 1(a)(5) [title I, § 117], added subsec. (e) and struck out former subsec. (e) which provided that this chapter did not supersede or preempt criminal prosecutions under Federal criminal statutes or the application of any Federal or State statute to certain specified transactions and persons.
+Subsec. (e). Pub. L. 106–554, § 1(a)(5) [title I, § 117], added subsec. (e) and struck out former subsec. (e) which provided that this chapter did not supersede or preempt criminal prosecutions under Federal criminal statutes or the application of any Federal or State statute to certain specified transactions and persons.
 
 1995—Subsec. (d). Pub. L. 104–9 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter—
 
@@ -7981,23 +7981,23 @@ Subsec. (e). Pub. L. 106–554, § 1(a)(5) [title I, § 117], added subsec. 
 
 “(2) $60,000,000 for fiscal year 1994.”
 
-1992—Subsec. (a). Pub. L. 102–546, § 302, inserted “any foreign futures authority, any department or agency of a foreign government or political subdivision thereof,” after “thereof,”.
+1992—Subsec. (a). Pub. L. 102–546, § 302, inserted “any foreign futures authority, any department or agency of a foreign government or political subdivision thereof,” after “thereof,”.
 
-Subsec. (b). Pub. L. 102–546, § 216, designated first through third sentences as pars. (1) to (3), respectively, and added par. (4).
+Subsec. (b). Pub. L. 102–546, § 216, designated first through third sentences as pars. (1) to (3), respectively, and added par. (4).
 
-Subsec. (d). Pub. L. 102–546, § 401, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years during the period beginning October 1, 1986, and ending September 30, 1989.”
+Subsec. (d). Pub. L. 102–546, § 401, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years during the period beginning October 1, 1986, and ending September 30, 1989.”
 
-Subsec. (e)(2)(A). Pub. L. 102–546, § 502(c), inserted “or, in the case of any State or local law that prohibits or regulates gaming or the operation of ‘bucket shops’ (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of section 6 of this title,” after “market,”.
+Subsec. (e)(2)(A). Pub. L. 102–546, § 502(c), inserted “or, in the case of any State or local law that prohibits or regulates gaming or the operation of ‘bucket shops’ (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of section 6 of this title,” after “market,”.
 
-Subsec. (f). Pub. L. 102–546, § 303, added subsec. (f).
+Subsec. (f). Pub. L. 102–546, § 303, added subsec. (f).
 
-Subsec. (g). Pub. L. 102–546, § 220(a), added subsec. (g).
+Subsec. (g). Pub. L. 102–546, § 220(a), added subsec. (g).
 
 1986—Subsec. (d). Pub. L. 99–641 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be required for each of the fiscal years during the period beginning October 1, 1982, and ending September 30, 1986.”
 
-1983—Subsec. (d). Pub. L. 97–444, § 228, substituted appropriation authorization for fiscal years during period beginning Oct. 1, 1982, and ending Sept. 30, 1986, for prior authorization for fiscal years during period beginning Oct. 1, 1978, and ending Sept. 30, 1982.
+1983—Subsec. (d). Pub. L. 97–444, § 228, substituted appropriation authorization for fiscal years during period beginning Oct. 1, 1982, and ending Sept. 30, 1986, for prior authorization for fiscal years during period beginning Oct. 1, 1978, and ending Sept. 30, 1982.
 
-Subsec. (e). Pub. L. 97–444, § 229, added subsec. (e).
+Subsec. (e). Pub. L. 97–444, § 229, added subsec. (e).
 
 1978—Subsec. (d). Pub. L. 95–405 substituted “for each of the fiscal years during the period beginning October 1, 1978, and ending September 30, 1982” for “for the fiscal year ending June 30, 1975, for the fiscal year ending June 30, 1976, for the fiscal year ending June 30, 1977, and for the fiscal year ending June 30, 1978”.
 
@@ -8007,7 +8007,7 @@ Subsec. (e). Pub. L. 97–444, § 229, added subsec. (e).
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -8027,9 +8027,9 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 16a. Service fees and National Futures Association study
+## § 16a. Service fees and National Futures Association study
 
 **(a) Development and implementation of plan for user fees; report to and approval by Congressional committees**
 
@@ -8055,13 +8055,13 @@ Notwithstanding any other provision of law, the Commodity Futures Trading Commis
 
 Nothing in this section shall limit the authority of the Commission to promulgate, after notice and opportunity for hearing, a schedule of appropriate fees to be charged for services rendered and activities and functions performed by the Commission in conjunction with its administration and enforcement of the Commodity Exchange Act [7 U.S.C. 1 et seq.]: *Provided*, That the fees for any specified service or activity or function shall not exceed the actual cost thereof to the Commission.
 
-(Pub. L. 95–405, § 26, Sept. 30, 1978, 92 Stat. 877; Pub. L. 97–444, title II, § 237, Jan. 11, 1983, 96 Stat. 2325.)
+(Pub. L. 95–405, § 26, Sept. 30, 1978, 92 Stat. 877; Pub. L. 97–444, title II, § 237, Jan. 11, 1983, 96 Stat. 2325.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in subsec. (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
+The Commodity Exchange Act, referred to in subsec. (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
 **Codification**
 
@@ -8083,19 +8083,19 @@ Section effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as a
 
 **Study of Assessments on Transactions**
 
-Pub. L. 102–546, title II, § 218, Oct. 28, 1992, 106 Stat. 3612, required the Comptroller General to conduct a study to determine whether it was feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission through the imposition of an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act, and report, by one year after Oct. 28, 1992, to Congress the Commission determinations together with any appropriate recommendations for the implementation of such a program of assessment-based funding.
+Pub. L. 102–546, title II, § 218, Oct. 28, 1992, 106 Stat. 3612, required the Comptroller General to conduct a study to determine whether it was feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission through the imposition of an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act, and report, by one year after Oct. 28, 1992, to Congress the Commission determinations together with any appropriate recommendations for the implementation of such a program of assessment-based funding.
 
-## § 17. Separability
+## § 17. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Sept. 21, 1922, ch. 369, § 10, 42 Stat. 1003.)
+(Sept. 21, 1922, ch. 369, § 10, 42 Stat. 1003.)
 
-## § 17a. Separability of 1936 amendment
+## § 17a. Separability of 1936 amendment
 
 If any provision of the act of June 15, 1936, ch. 545, 49 Stat. 1491, which amends this chapter, or the application thereof to any person or circumstances is held invalid, the provisions of the section of this chapter which is amended by such provision of said act shall apply to such person or circumstances. No proceeding shall be abated by reason of any amendment to this chapter made by said act but shall be disposed of pursuant to said act.
 
-(June 15, 1936, ch. 545, § 12, 49 Stat. 1501.)
+(June 15, 1936, ch. 545, § 12, 49 Stat. 1501.)
 
 **Editorial Notes**
 
@@ -8109,11 +8109,11 @@ Section was not enacted as part of the Commodity Exchange Act which comprises th
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-## § 17b. Separability of 1968 amendment
+## § 17b. Separability of 1968 amendment
 
 If any provision of this Act or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby, and the provisions of the section of this chapter which is amended by such provision of this Act shall apply to such person or circumstances. Pending proceedings shall not be abated by reason of any provision of this Act but shall be disposed of pursuant to the provisions of this chapter, in effect prior to the effective date of this Act.
 
-(Pub. L. 90–258, § 27, Feb. 19, 1968, 82 Stat. 34.)
+(Pub. L. 90–258, § 27, Feb. 19, 1968, 82 Stat. 34.)
 
 **Editorial Notes**
 
@@ -8127,7 +8127,7 @@ Effective date of this Act, referred to in text, as one hundred and twenty days 
 
 Section was not enacted as part of the Commodity Exchange Act which comprises this chapter.
 
-## § 18. Complaints against registered persons
+## § 18. Complaints against registered persons
 
 **(a) Petition for actual damages**
 
@@ -8169,7 +8169,7 @@ Unless the party against whom a reparation order has been issued shows to the sa
 
 Nothing in this section prohibits a registered futures commission merchant from requiring a customer that is an eligible contract participant, as a condition to the commission merchant’s conducting a transaction for the customer, to enter into an agreement waiving the right to file a claim under this section.
 
-(Sept. 21, 1922, ch. 369, § 14, as added Pub. L. 93–463, title I, § 106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, § 3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, § 21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, § 231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§ 209(b)(7), 222(b), 224, title IV, § 402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, § 1(a)(5) [title I, §§ 118, 123(a)(23)], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410; Pub. L. 110–234, title XIII, § 13105(k), May 22, 2008, 122 Stat. 1435; Pub. L. 110–246, § 4(a), title XIII, § 13105(k), June 18, 2008, 122 Stat. 1664, 2197.)
+(Sept. 21, 1922, ch. 369, § 14, as added Pub. L. 93–463, title I, § 106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, § 3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, § 21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, § 231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§ 209(b)(7), 222(b), 224, title IV, § 402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, § 1(a)(5) [title I, §§ 118, 123(a)(23)], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410; Pub. L. 110–234, title XIII, § 13105(k), May 22, 2008, 122 Stat. 1435; Pub. L. 110–246, § 4(a), title XIII, § 13105(k), June 18, 2008, 122 Stat. 1664, 2197.)
 
 **Editorial Notes**
 
@@ -8179,39 +8179,39 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (d). Pub. L. 110–246, § 13105(k), designated existing provisions as par. (1) and added par. (2).
+2008—Subsec. (d). Pub. L. 110–246, § 13105(k), designated existing provisions as par. (1) and added par. (2).
 
-2000—Subsec. (a)(1)(B). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(23)(A)], substituted “registered entity” for “ contract market”.
+2000—Subsec. (a)(1)(B). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(23)(A)], substituted “registered entity” for “ contract market”.
 
-Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(23)(B)], substituted “registered entities” for “ contract markets”.
+Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(23)(B)], substituted “registered entities” for “ contract markets”.
 
-Subsec. (g). Pub. L. 106–554, § 1(a)(5) [title I, § 118], added subsec. (g) and struck out former subsec. (g) which read as follows: “The provisions of this section shall not become effective until fifteen months after October 23, 1974: *Provided*, That claims which arise within one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period.”
+Subsec. (g). Pub. L. 106–554, § 1(a)(5) [title I, § 118], added subsec. (g) and struck out former subsec. (g) which read as follows: “The provisions of this section shall not become effective until fifteen months after October 23, 1974: *Provided*, That claims which arise within one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period.”
 
-1992—Subsec. (a). Pub. L. 102–546, § 224, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+1992—Subsec. (a). Pub. L. 102–546, § 224, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-Pub. L. 102–546, § 222(b), substituted “awarding—” and pars. (1) and (2) for “awarding actual damages proximately caused by such violation.”
+Pub. L. 102–546, § 222(b), substituted “awarding—” and pars. (1) and (2) for “awarding actual damages proximately caused by such violation.”
 
-Subsec. (e). Pub. L. 102–546, § 209(b)(7), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
+Subsec. (e). Pub. L. 102–546, § 209(b)(7), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
 
-Subsec. (g). Pub. L. 102–546, § 402(11), substituted “15-month” for second reference to “fifteen months”.
+Subsec. (g). Pub. L. 102–546, § 402(11), substituted “15-month” for second reference to “fifteen months”.
 
-1983—Subsec. (a). Pub. L. 97–444, § 231(1), substituted provisions relating to complaints against violations by persons “registered under this chapter” for provisions relating to complaints against persons “registered or required to be registered under section 6d, 6e, 6j, or 6m of this title”, and substituted provisions for application to Commission for an award of actual damages caused by such violation, for provisions authorizing application to Commission by petition, and forwarding of complaint, if warranted, to respondent for satisfaction or answer.
+1983—Subsec. (a). Pub. L. 97–444, § 231(1), substituted provisions relating to complaints against violations by persons “registered under this chapter” for provisions relating to complaints against persons “registered or required to be registered under section 6d, 6e, 6j, or 6m of this title”, and substituted provisions for application to Commission for an award of actual damages caused by such violation, for provisions authorizing application to Commission by petition, and forwarding of complaint, if warranted, to respondent for satisfaction or answer.
 
-Subsec. (b). Pub. L. 97–444, § 231(2), substituted provisions relating to promulgation by Commission of rules, regulations, and orders necessary or appropriate for administration of this section, including rules of practice and procedure governing proceedings before the Commission, for provisions relating to investigation and service of complaint by Commission, and hearing thereon before an Administrative Law Judge, except that where amount claimed as damages did not exceed $5,000, hearing need not be held, and proofs could be supplied by deposition or verified statements of fact.
+Subsec. (b). Pub. L. 97–444, § 231(2), substituted provisions relating to promulgation by Commission of rules, regulations, and orders necessary or appropriate for administration of this section, including rules of practice and procedure governing proceedings before the Commission, for provisions relating to investigation and service of complaint by Commission, and hearing thereon before an Administrative Law Judge, except that where amount claimed as damages did not exceed $5,000, hearing need not be held, and proofs could be supplied by deposition or verified statements of fact.
 
-Subsec. (c). Pub. L. 97–444, § 231(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), which provided that after opportunity for hearing on complaints where the damages claimed exceeded the sum of $5,000 had been provided or waived and on complaints where damages claimed did not exceed the sum of $5,000 not requiring hearing as provided herein, Commission would determine whether or not the respondent had violated any provision of this chapter or any rule, regulation, or order thereunder, was struck out.
+Subsec. (c). Pub. L. 97–444, § 231(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), which provided that after opportunity for hearing on complaints where the damages claimed exceeded the sum of $5,000 had been provided or waived and on complaints where damages claimed did not exceed the sum of $5,000 not requiring hearing as provided herein, Commission would determine whether or not the respondent had violated any provision of this chapter or any rule, regulation, or order thereunder, was struck out.
 
-Subsec. (d). Pub. L. 97–444, § 231(4), (5), redesignated subsec. (f) as (d) and substituted “subsection (e)” for “subsection (g)”. Former subsec. (d) was redesignated (c).
+Subsec. (d). Pub. L. 97–444, § 231(4), (5), redesignated subsec. (f) as (d) and substituted “subsection (e)” for “subsection (g)”. Former subsec. (d) was redesignated (c).
 
-Subsec. (e). Pub. L. 97–444, § 231(3), (4), redesignated subsec. (g) as (e). Former subsec. (e), which provided that if, after a hearing on a complaint made by any person under subsection (a) of this section, or without hearing as provided in subsections (b) and (c) of this section, or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified, the Commission determined that the respondent had violated any provision of this chapter, or any rule, regulation, or order thereunder, the Commission would unless the offender had already made reparation to the person complaining, determine the amount of damage, if any, to which such person was entitled as a result of such violation and would make an order directing the offender to pay to such person complaining such amount on or before the date fixed in the order, and that if, after the respondent had filed his answer to the complaint, it appeared therein that the respondent had admitted liability for a portion of the amount claimed in the complaint as damages, the Commission under such rules and regulations as it would prescribe, unless the respondent had already made reparation to the person complaining, could issue an order directing the respondent to pay to the complainant the undisputed amount on or before the date fixed in the order, leaving the respondent’s liability for the disputed amount for subsequent determination, with the remaining disputed amount to be determined in the same manner and under the same procedure as it would have been determined if no order had been issued by the Commission with respect to the undisputed sum, was struck out.
+Subsec. (e). Pub. L. 97–444, § 231(3), (4), redesignated subsec. (g) as (e). Former subsec. (e), which provided that if, after a hearing on a complaint made by any person under subsection (a) of this section, or without hearing as provided in subsections (b) and (c) of this section, or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified, the Commission determined that the respondent had violated any provision of this chapter, or any rule, regulation, or order thereunder, the Commission would unless the offender had already made reparation to the person complaining, determine the amount of damage, if any, to which such person was entitled as a result of such violation and would make an order directing the offender to pay to such person complaining such amount on or before the date fixed in the order, and that if, after the respondent had filed his answer to the complaint, it appeared therein that the respondent had admitted liability for a portion of the amount claimed in the complaint as damages, the Commission under such rules and regulations as it would prescribe, unless the respondent had already made reparation to the person complaining, could issue an order directing the respondent to pay to the complainant the undisputed amount on or before the date fixed in the order, leaving the respondent’s liability for the disputed amount for subsequent determination, with the remaining disputed amount to be determined in the same manner and under the same procedure as it would have been determined if no order had been issued by the Commission with respect to the undisputed sum, was struck out.
 
-Subsec. (f). Pub. L. 97–444, § 231(4), (6), redesignated subsec. (h) as (f), made certain grammatical changes, and inserted provision allowing party against whom a reparation order has been issued to show compliance by payment of the full amount of the order or any agreed settlement thereof.
+Subsec. (f). Pub. L. 97–444, § 231(4), (6), redesignated subsec. (h) as (f), made certain grammatical changes, and inserted provision allowing party against whom a reparation order has been issued to show compliance by payment of the full amount of the order or any agreed settlement thereof.
 
-Subsecs. (g) to (i). Pub. L. 97–444, § 231(4), redesignated subsecs. (g), (h), and (i), as (e), (f), and (g), respectively.
+Subsecs. (g) to (i). Pub. L. 97–444, § 231(4), redesignated subsecs. (g), (h), and (i), as (e), (f), and (g), respectively.
 
-1978—Subsec. (a). Pub. L. 95–405, § 21(1), substituted “who is registered or required to be registered” for “registered”.
+1978—Subsec. (a). Pub. L. 95–405, § 21(1), substituted “who is registered or required to be registered” for “registered”.
 
-Subsecs. (b), (c). Pub. L. 95–405, § 21(2), (3), substituted “$5,000” for “$2,500” wherever appearing.
+Subsecs. (b), (c). Pub. L. 95–405, § 21(2), (3), substituted “$5,000” for “$2,500” wherever appearing.
 
 1975—Subsec. (i). Pub. L. 94–16 substituted “fifteen months” for “one year” in two places, and “one year” for “nine months”.
 
@@ -8229,7 +8229,7 @@ Amendment by Pub. L. 97–444 effective 120 days after Jan. 11, 1983, or such ea
 
 Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as a note under section 2 of this title.
 
-## § 19. Consideration of costs and benefits and antitrust laws
+## § 19. Consideration of costs and benefits and antitrust laws
 
 **(a) Costs and benefits**
 
@@ -8261,7 +8261,7 @@ Before promulgating a regulation under this chapter or issuing an order (except 
 
 The Commission shall take into consideration the public interest to be protected by the antitrust laws and endeavor to take the least anticompetitive means of achieving the objectives of this chapter, as well as the policies and purposes of this chapter, in issuing any order or adopting any Commission rule or regulation (including any exemption under section 6(c) or 6c(b) of this title), or in requiring or approving any bylaw, rule, or regulation of a contract market or registered futures association established pursuant to section 21 of this title.
 
-(Sept. 21, 1922, ch. 369, § 15, as added Pub. L. 93–463, title I, § 107, Oct. 23, 1974, 88 Stat. 1395; amended Pub. L. 102–546, title V, § 502(b), Oct. 28, 1992, 106 Stat. 3631; Pub. L. 106–554, § 1(a)(5) [title I, § 119], Dec. 21, 2000, 114 Stat. 2763, 2763A–403.)
+(Sept. 21, 1922, ch. 369, § 15, as added Pub. L. 93–463, title I, § 107, Oct. 23, 1974, 88 Stat. 1395; amended Pub. L. 102–546, title V, § 502(b), Oct. 28, 1992, 106 Stat. 3631; Pub. L. 106–554, § 1(a)(5) [title I, § 119], Dec. 21, 2000, 114 Stat. 2763, 2763A–403.)
 
 **Editorial Notes**
 
@@ -8277,7 +8277,7 @@ The Commission shall take into consideration the public interest to be protected
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 20. Market reports
+## § 20. Market reports
 
 **(a) Information**
 
@@ -8299,7 +8299,7 @@ The Commission shall not disclose in such reports data and information which wou
 
 This section shall not apply to investigations involving any security underlying a security futures product.
 
-(Sept. 21, 1922, ch. 369, § 16, as added Pub. L. 93–463, title IV, § 414, Oct. 23, 1974, 88 Stat. 1414; amended Pub. L. 97–444, title II, § 232, Jan. 11, 1983, 96 Stat. 2320; Pub. L. 106–554, § 1(a)(5) [title II, § 251(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–443.)
+(Sept. 21, 1922, ch. 369, § 16, as added Pub. L. 93–463, title IV, § 414, Oct. 23, 1974, 88 Stat. 1414; amended Pub. L. 97–444, title II, § 232, Jan. 11, 1983, 96 Stat. 2320; Pub. L. 106–554, § 1(a)(5) [title II, § 251(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–443.)
 
 **Editorial Notes**
 
@@ -8321,7 +8321,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 **Study of Trading in Cattle Futures Contracts**
 
-Pub. L. 99–641, title I, § 111, Nov. 10, 1986, 100 Stat. 3561, provided that:
+Pub. L. 99–641, title I, § 111, Nov. 10, 1986, 100 Stat. 3561, provided that:
 
 > **“(a) Study.—** The Comptroller General of the United States shall conduct and complete a comprehensive study of the effect of trading in contracts for the future delivery of live cattle on the cash market price of live cattle, with particular emphasis on—
 
@@ -8353,9 +8353,9 @@ Pub. L. 99–641, title I, § 111, Nov. 10, 1986, 100 Stat. 3561, provided tha
 
 **Potato Futures Study; Submission of Report to Congress**
 
-Pub. L. 95–405, § 27, Sept. 30, 1978, 92 Stat. 877, required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes, including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerning any legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
+Pub. L. 95–405, § 27, Sept. 30, 1978, 92 Stat. 877, required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes, including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerning any legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
 
-## § 21. Registered futures associations
+## § 21. Registered futures associations
 
 **(a) Registration statement** Any association of persons may be registered with the Commission as a registered futures association pursuant to subsection (b) of this section, under the terms and conditions hereinafter provided in this section, by filing with the Commission for review and approval a registration statement in such form as the Commission may prescribe, setting forth the information, and accompanied by the documents, below specified:
 
@@ -8409,9 +8409,9 @@ Pub. L. 95–405, § 27, Sept. 30, 1978, 92 Stat. 877, required, within one ye
 
 **(C)** a statement whether the acts or practices prohibited by such rule or rules, or the omission of any act required thereby, are deemed to constitute conduct inconsistent with just and equitable principles of trade; and
 
-**(D)** a statement setting forth the penalty imposed; 1
+**(D)** a statement setting forth the penalty imposed; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 In any proceeding to determine whether a person shall be denied membership or whether any person shall be barred from being associated with a member, such rules shall provide that the person shall be notified of, and be given an opportunity to be heard upon, the specific grounds for denial or bar which are under consideration; that a record shall be kept; and that the determination shall set forth the specific grounds upon which the denial or bar is based;
 
@@ -8419,27 +8419,27 @@ In any proceeding to determine whether a person shall be denied membership or wh
 
 **(i)** for payment of actual damages proximately caused by such violation. If an award of actual damages is made against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under section 2(a)(1) of this title for the floor broker’s violation, such futures commission merchant may be required to satisfy such award; and
 
-**(ii)** where the violation is willful and intentional, for payment to the customer of punitive or exemplary damages, in addition to losses proximately caused by the violation, in an amount equal to no more than two times the amount of such losses. If punitive or exemplary damages are awarded against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of such order is held to be responsible under section 2(a)(1) of this title for the floor broker’s violation, such futures commission merchant may be required to satisfy the award of punitive or exemplary damages if the floor broker fails to do so, except that such requirement shall apply to the futures commission merchant only if it willfully and intentionally selected the floor broker with the intent to assist or facilitate the floor broker’s violation; and 2
+**(ii)** where the violation is willful and intentional, for payment to the customer of punitive or exemplary damages, in addition to losses proximately caused by the violation, in an amount equal to no more than two times the amount of such losses. If punitive or exemplary damages are awarded against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of such order is held to be responsible under section 2(a)(1) of this title for the floor broker’s violation, such futures commission merchant may be required to satisfy the award of punitive or exemplary damages if the floor broker fails to do so, except that such requirement shall apply to the futures commission merchant only if it willfully and intentionally selected the floor broker with the intent to assist or facilitate the floor broker’s violation; and 2
 
-<sup>2</sup>  So in original. The word “and” probably should not appear.
+<sup>2</sup> So in original. The word “and” probably should not appear.
 
 **(11)** such association provides for meaningful representation on the governing board of such association of a diversity of membership interests and provides that no less than 20 percent of the regular voting members of such board be comprised of qualified nonmembers of or persons who are not regulated by such association.3
 
-<sup>3</sup>  So in original. The period probably should be a semicolon.
+<sup>3</sup> So in original. The period probably should be a semicolon.
 
 **(12)**
 
-**(A)**  4
+**(A)** 4
 
-<sup>4</sup>  So in original. No subpar. (B) has been enacted.
+<sup>4</sup> So in original. No subpar. (B) has been enacted.
 
 such association provides on all major disciplinary committees for a diversity of membership sufficient to ensure fairness and to prevent special treatment or preference for any person in the conduct of disciplinary proceedings and the assessment of penalties.5
 
-<sup>5</sup>  So in original. The period probably should be “; and”.
+<sup>5</sup> So in original. The period probably should be “; and”.
 
-**(13)** A 6
+**(13)** A 6
 
-<sup>6</sup>  So in original. Probably should not be capitalized.
+<sup>6</sup> So in original. Probably should not be capitalized.
 
 major disciplinary committee hearing a disciplinary matter shall include—
 
@@ -8569,7 +8569,7 @@ The Commission shall include in its annual reports to Congress information conce
 
 **(4)** establish special supervisory guidelines to protect the public interest relating to the solicitation by telephone of new futures or options accounts and make such guidelines applicable to those members determined to require such guidelines in accordance with standards established by the Commission consistent with this chapter. Such guidelines may include a requirement that, with respect to a customer with no previous futures or commodity options trading experience, the member may not enter an order for the account of such customer for a period of three days following opening of the account and receipt of a signed acknowledgment by the customer of receipt of a risk disclosure statement.
 
-**(q) 7 [footnote: 7 Two subsecs. (q) have been enacted.] Major disciplinary rule violations**
+**(q) 7 [footnote: 7 Two subsecs. (q) have been enacted.] Major disciplinary rule violations**
 
 **(1)** The Commission shall issue regulations requiring each registered futures association to establish and make available to the public a schedule of major violations of any rule within the disciplinary jurisdiction of such registered futures association.
 
@@ -8585,7 +8585,7 @@ Each futures association registered under this section shall develop a comprehen
 
 **(2)** similar rules of national securities associations registered pursuant to section 78*o*–3(a) of title 15 involving security futures products.
 
-(Sept. 21, 1922, ch. 369, § 17, as added Pub. L. 93–463, title III, § 301, Oct. 23, 1974, 88 Stat. 1406; amended Pub. L. 95–405, § 22, Sept. 30, 1978, 92 Stat. 876; Pub. L. 97–444, title II, §§ 217(b), 233, Jan. 11, 1983, 96 Stat. 2307, 2320; Pub. L. 99–641, title I, §§ 107, 108, 110(6), (7), Nov. 10, 1986, 100 Stat. 3558, 3559, 3561; Pub. L. 102–546, title II, §§ 204(a), 206(b), 209(b)(8), 222(c), 228, title IV, § 402(12), Oct. 28, 1992, 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(24), title II, § 251(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–444; Pub. L. 110–234, title XIII, § 13105(f), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13105(f), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, § 749(g), July 21, 2010, 124 Stat. 1748.)
+(Sept. 21, 1922, ch. 369, § 17, as added Pub. L. 93–463, title III, § 301, Oct. 23, 1974, 88 Stat. 1406; amended Pub. L. 95–405, § 22, Sept. 30, 1978, 92 Stat. 876; Pub. L. 97–444, title II, §§ 217(b), 233, Jan. 11, 1983, 96 Stat. 2307, 2320; Pub. L. 99–641, title I, §§ 107, 108, 110(6), (7), Nov. 10, 1986, 100 Stat. 3558, 3559, 3561; Pub. L. 102–546, title II, §§ 204(a), 206(b), 209(b)(8), 222(c), 228, title IV, § 402(12), Oct. 28, 1992, 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625; Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(24), title II, § 251(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–444; Pub. L. 110–234, title XIII, § 13105(f), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, § 4(a), title XIII, § 13105(f), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, § 749(g), July 21, 2010, 124 Stat. 1748.)
 
 **Editorial Notes**
 
@@ -8597,41 +8597,41 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2010—Subsec. (r)(1). Pub. L. 111–203 substituted “section 6d(e) of this title” for “section 6d(c) of this title”.
 
-2008—Subsec. (r)(1). Pub. L. 110–246, § 13105(f), substituted “6d(c)” for “6d(3)”.
+2008—Subsec. (r)(1). Pub. L. 110–246, § 13105(f), substituted “6d(c)” for “6d(3)”.
 
-2000—Subsecs. (b)(2), (3), (10), (*o*)(1), (q)(2). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(24)], substituted “registered entity” for “contract market” wherever appearing.
+2000—Subsecs. (b)(2), (3), (10), (*o*)(1), (q)(2). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(24)], substituted “registered entity” for “contract market” wherever appearing.
 
-Subsec. (r). Pub. L. 106–554, § 1(a)(5) [title II, § 251(g)], added subsec. (r).
+Subsec. (r). Pub. L. 106–554, § 1(a)(5) [title II, § 251(g)], added subsec. (r).
 
-1992—Subsec. (a)(1), (2). Pub. L. 102–546, § 402(12)(A), realigned margins.
+1992—Subsec. (a)(1), (2). Pub. L. 102–546, § 402(12)(A), realigned margins.
 
-Subsec. (b)(3). Pub. L. 102–546, §§ 206(b)(1)(A), (B), 209(b)(8)(A)(i), struck out “or” at end of subpar. (A), in subpar. (B) made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and struck out “or” at end, and in subpar. (D) substituted a semicolon for period at end.
+Subsec. (b)(3). Pub. L. 102–546, §§ 206(b)(1)(A), (B), 209(b)(8)(A)(i), struck out “or” at end of subpar. (A), in subpar. (B) made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and struck out “or” at end, and in subpar. (D) substituted a semicolon for period at end.
 
-Subsec. (b)(4). Pub. L. 102–546, §§ 206(b)(1)(B), (C), 209(b)(8)(A)(ii), substituted a semicolon for period at end of subpars. (A) to (D), in subpar. (E) substituted “; and” for period at end, and in subpar. (F) made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and substituted a semicolon for period at end.
+Subsec. (b)(4). Pub. L. 102–546, §§ 206(b)(1)(B), (C), 209(b)(8)(A)(ii), substituted a semicolon for period at end of subpars. (A) to (D), in subpar. (E) substituted “; and” for period at end, and in subpar. (F) made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and substituted a semicolon for period at end.
 
-Subsec. (b)(5) to (9). Pub. L. 102–546, § 206(b)(1)(B), (C), substituted a semicolon for period at end of pars. (5) to (9) and subpars. (A), (B), and (D) of par. (9) and in par. (9)(C) substituted “; and” for period at end.
+Subsec. (b)(5) to (9). Pub. L. 102–546, § 206(b)(1)(B), (C), substituted a semicolon for period at end of pars. (5) to (9) and subpars. (A), (B), and (D) of par. (9) and in par. (9)(C) substituted “; and” for period at end.
 
-Subsec. (b)(10). Pub. L. 102–546, §§ 206(b)(1)(C), 222(c), substituted “(A)” for “(i)” and “voluntary, (B)” for “voluntary and (ii)”, inserted “, and” and subpar. (C) after “association”, and substituted “; and” for period at end.
+Subsec. (b)(10). Pub. L. 102–546, §§ 206(b)(1)(C), 222(c), substituted “(A)” for “(i)” and “voluntary, (B)” for “voluntary and (ii)”, inserted “, and” and subpar. (C) after “association”, and substituted “; and” for period at end.
 
-Subsec. (b)(11) to (13). Pub. L. 102–546, § 206(b)(1)(D), added pars. (11) to (13).
+Subsec. (b)(11) to (13). Pub. L. 102–546, § 206(b)(1)(D), added pars. (11) to (13).
 
-Subsec. (i)(4). Pub. L. 102–546, § 228, which directed that “(other than a registered futures association).” be struck out, was executed by striking “(other than a registered futures association)” after “Any person” to reflect the probable intent of Congress.
+Subsec. (i)(4). Pub. L. 102–546, § 228, which directed that “(other than a registered futures association).” be struck out, was executed by striking “(other than a registered futures association)” after “Any person” to reflect the probable intent of Congress.
 
-Pub. L. 102–546, § 209(b)(8)(B), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
+Pub. L. 102–546, § 209(b)(8)(B), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
 
-Subsec. (*l*)(2)(B). Pub. L. 102–546, § 402(12)(B), made technical amendment to reference to this chapter appearing after “violated any provision of” to reflect change in reference to corresponding provision of original act and substituted “; and” for period at end.
+Subsec. (*l*)(2)(B). Pub. L. 102–546, § 402(12)(B), made technical amendment to reference to this chapter appearing after “violated any provision of” to reflect change in reference to corresponding provision of original act and substituted “; and” for period at end.
 
-Subsec. (*o*)(4). Pub. L. 102–546, § 209(b)(8)(C), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
+Subsec. (*o*)(4). Pub. L. 102–546, § 209(b)(8)(C), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
 
-Subsec. (p)(4). Pub. L. 102–546, § 204(a), added par. (4).
+Subsec. (p)(4). Pub. L. 102–546, § 204(a), added par. (4).
 
-Subsec. (q). Pub. L. 102–546, § 206(b)(2), added subsec. (q) relating to major disciplinary rules violations.
+Subsec. (q). Pub. L. 102–546, § 206(b)(2), added subsec. (q) relating to major disciplinary rules violations.
 
-1986—Subsec. (b)(2). Pub. L. 99–641, § 110(6), substituted “within” for “with in” before “the meaning”.
+1986—Subsec. (b)(2). Pub. L. 99–641, § 110(6), substituted “within” for “with in” before “the meaning”.
 
-Subsec. (h). Pub. L. 99–641, § 107, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “If any registered futures association takes any disciplinary action against any member thereof or any person associated with such a member or denies admission to any person seeking membership therein, or bars any person from being associated with a member, such action shall be subject to review by the Commission, on its own motion, or upon application by any person aggrieved thereby filed within thirty days after such action has been taken or within such longer period as the Commission may determine. Application to the Commission for review, or the institution of review by the Commission on its own motion, shall operate as a stay of such action until an order is issued upon such review pursuant to subsection (i) of this section unless the Commission otherwise orders, after notice and opportunity for hearing on the question of a stay (which hearing may consist solely of affidavits and oral arguments).”
+Subsec. (h). Pub. L. 99–641, § 107, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “If any registered futures association takes any disciplinary action against any member thereof or any person associated with such a member or denies admission to any person seeking membership therein, or bars any person from being associated with a member, such action shall be subject to review by the Commission, on its own motion, or upon application by any person aggrieved thereby filed within thirty days after such action has been taken or within such longer period as the Commission may determine. Application to the Commission for review, or the institution of review by the Commission on its own motion, shall operate as a stay of such action until an order is issued upon such review pursuant to subsection (i) of this section unless the Commission otherwise orders, after notice and opportunity for hearing on the question of a stay (which hearing may consist solely of affidavits and oral arguments).”
 
-Subsec. (i). Pub. L. 99–641, § 107, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows:
+Subsec. (i). Pub. L. 99–641, § 107, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows:
 
 “(1) In a proceeding to review disciplinary action taken by a registered futures association against a member thereof or a person associated with a member, if the Commission, after appropriate notice and opportunity for hearing, upon consideration of the record before the association and such other evidence as it may deem relevant—
 
@@ -8643,35 +8643,35 @@ Subsec. (i). Pub. L. 99–641, § 107, amended subsec. (i) generally. Prior to
 
 “(3) In any proceeding to review the denial of membership in a registered futures association or the barring of any person from being associated with a member, if the Commission, after appropriate notice and hearing, and upon consideration of the record before the association and such other evidence as it may deem relevant, determines that the specific grounds on which such denial or bar is based exist in fact and are valid under this section, the Commission shall by order dismiss the proceeding; otherwise, the Commission shall by order set aside the action of the association and require it to admit the applicant to membership therein, or to permit such person to be associated with a member.”
 
-Subsec. (j). Pub. L. 99–641, § 108, struck out sentence which read as follows: “The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time.”
+Subsec. (j). Pub. L. 99–641, § 108, struck out sentence which read as follows: “The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time.”
 
-Subsec. (k)(1). Pub. L. 99–641, § 110(7), substituted “section” for “title”.
+Subsec. (k)(1). Pub. L. 99–641, § 110(7), substituted “section” for “title”.
 
-1983—Subsec. (b)(4)(E). Pub. L. 97–444, § 233(1), inserted “, which may require the applicant to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing. Notwithstanding any other provision of law, such an association may receive from the Attorney General all the results of such identification and processing” after “adopt procedures for verification of qualifications of the applicant”.
+1983—Subsec. (b)(4)(E). Pub. L. 97–444, § 233(1), inserted “, which may require the applicant to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing. Notwithstanding any other provision of law, such an association may receive from the Attorney General all the results of such identification and processing” after “adopt procedures for verification of qualifications of the applicant”.
 
-Subsec. (b)(10). Pub. L. 97–444, § 217(b), required association rules to provide for “expeditious” procedure, redesignated cl. (iv) as (ii) and substituted “ ‘customer’ as used in this paragraph shall not include another member of the association” for “ ‘customer’ as used in this subsection shall not include a futures commission merchant or a floor broker”, and struck out clauses “(ii) the procedure shall not be applicable to any claim in excess of $15,000, (iii) the procedure shall not result in any compulsory payment except as agreed upon between the parties,”.
+Subsec. (b)(10). Pub. L. 97–444, § 217(b), required association rules to provide for “expeditious” procedure, redesignated cl. (iv) as (ii) and substituted “ ‘customer’ as used in this paragraph shall not include another member of the association” for “ ‘customer’ as used in this subsection shall not include a futures commission merchant or a floor broker”, and struck out clauses “(ii) the procedure shall not be applicable to any claim in excess of $15,000, (iii) the procedure shall not result in any compulsory payment except as agreed upon between the parties,”.
 
-Subsec. (d). Pub. L. 97–444, § 233(2), substituted “section 12a(1) of this title” for “section 12a(4) of this title”.
+Subsec. (d). Pub. L. 97–444, § 233(2), substituted “section 12a(1) of this title” for “section 12a(4) of this title”.
 
-Subsec. (h). Pub. L. 97–444, § 233(3), substituted “subsection (i) of this section” for “subsection (k) of this section”.
+Subsec. (h). Pub. L. 97–444, § 233(3), substituted “subsection (i) of this section” for “subsection (k) of this section”.
 
-Subsec. (j). Pub. L. 97–444, § 233(4), substituted “A registered futures association shall submit to the Commission any change in or addition to its rules and may make such rules effective ten days after receipt of such submission by the Commission unless, within the ten-day period, the registered futures association requests review and approval thereof by the Commission or the Commission notifies such registered futures association in writing of its determination to review such rules for approval. The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time. The Commission shall approve such rules if such rules are determined by the Commission to be consistent with the requirements of this section and not otherwise in violation of this chapter or the regulations issued pursuant to this chapter, and the Commission shall disapprove, after appropriate notice and opportunity for hearing, any such rule which the Commission determines at any time to be inconsistent with the requirements of this section or in violation of this chapter or the regulations issued pursuant to this chapter. If the Commission does not approve or institute disapproval proceedings with respect to any rule within one hundred and eighty days after receipt or within such longer period of time as the registered futures association may agree to, or if the Commission does not conclude a disapproval proceeding with respect to any rule within one year after receipt or within such longer period as the registered futures association may agree to, such rule may be made effective by the registered futures association until such time as the Commission disapproves such rule in accordance with this subsection” for “Any change in or addition to the rules of a registered futures association shall be submitted to the Commission for approval and shall take effect upon the thirtieth day after such approval by the Commission, or upon such earlier date as the Commission may determine, unless the Commission shall enter an order disapproving such change or addition; and the Commission shall enter such an order unless such change or addition appears to the Commission to be consistent with the requirements of this section and the provisions of this chapter”.
+Subsec. (j). Pub. L. 97–444, § 233(4), substituted “A registered futures association shall submit to the Commission any change in or addition to its rules and may make such rules effective ten days after receipt of such submission by the Commission unless, within the ten-day period, the registered futures association requests review and approval thereof by the Commission or the Commission notifies such registered futures association in writing of its determination to review such rules for approval. The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time. The Commission shall approve such rules if such rules are determined by the Commission to be consistent with the requirements of this section and not otherwise in violation of this chapter or the regulations issued pursuant to this chapter, and the Commission shall disapprove, after appropriate notice and opportunity for hearing, any such rule which the Commission determines at any time to be inconsistent with the requirements of this section or in violation of this chapter or the regulations issued pursuant to this chapter. If the Commission does not approve or institute disapproval proceedings with respect to any rule within one hundred and eighty days after receipt or within such longer period of time as the registered futures association may agree to, or if the Commission does not conclude a disapproval proceeding with respect to any rule within one year after receipt or within such longer period as the registered futures association may agree to, such rule may be made effective by the registered futures association until such time as the Commission disapproves such rule in accordance with this subsection” for “Any change in or addition to the rules of a registered futures association shall be submitted to the Commission for approval and shall take effect upon the thirtieth day after such approval by the Commission, or upon such earlier date as the Commission may determine, unless the Commission shall enter an order disapproving such change or addition; and the Commission shall enter such an order unless such change or addition appears to the Commission to be consistent with the requirements of this section and the provisions of this chapter”.
 
-Subsecs. (*o*) to (q). Pub. L. 97–444, § 233(5), added subsecs. (*o*), (p), and (q).
+Subsecs. (*o*) to (q). Pub. L. 97–444, § 233(5), added subsecs. (*o*), (p), and (q).
 
-1978—Subsec. (b)(3)(B). Pub. L. 95–405, § 22(1), struck out “(7 U.S.C. 9)” after “sections 9 and 15 of this title”.
+1978—Subsec. (b)(3)(B). Pub. L. 95–405, § 22(1), struck out “(7 U.S.C. 9)” after “sections 9 and 15 of this title”.
 
-Subsec. (b)(10). Pub. L. 95–405, § 22(2), substituted “$15,000” for “$5,000”.
+Subsec. (b)(10). Pub. L. 95–405, § 22(2), substituted “$15,000” for “$5,000”.
 
-Subsec. (*l*)(1), (2)(A). Pub. L. 95–405, § 22(3), substituted “chapter” for “section” wherever appearing.
+Subsec. (*l*)(1), (2)(A). Pub. L. 95–405, § 22(3), substituted “chapter” for “section” wherever appearing.
 
-Subsecs. (m), (n). Pub. L. 95–405, § 22(4), added subsec. (m) and redesignated former subsec. (m) as (n).
+Subsecs. (m), (n). Pub. L. 95–405, § 22(4), added subsec. (m) and redesignated former subsec. (m) as (n).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date of 2008 Amendment**
 
@@ -8691,19 +8691,19 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 **Implementation**
 
-Pub. L. 102–546, title II, § 204(b), Oct. 28, 1992, 106 Stat. 3600, provided that: “The guidelines required under section 17(p)(4) of the Commodity Exchange Act [7 U.S.C. 21(p)(4)] (as added by subsection (a) of this section) shall be submitted by a futures association registered with the Commodity Futures Trading Commission on the date of enactment of this Act [Oct. 28, 1992] to the Commission for the approval of the Commission not later than one hundred and eighty days after the date of enactment of this Act.”
+Pub. L. 102–546, title II, § 204(b), Oct. 28, 1992, 106 Stat. 3600, provided that: “The guidelines required under section 17(p)(4) of the Commodity Exchange Act [7 U.S.C. 21(p)(4)] (as added by subsection (a) of this section) shall be submitted by a futures association registered with the Commodity Futures Trading Commission on the date of enactment of this Act [Oct. 28, 1992] to the Commission for the approval of the Commission not later than one hundred and eighty days after the date of enactment of this Act.”
 
 **Study on Computerized Futures Trading**
 
-Pub. L. 102–546, title II, § 220(b), (c), Oct. 28, 1992, 106 Stat. 3614, required the Commodity Futures Trading Commission to conduct a study related to trading in futures and options subject to the jurisdiction of the Commission under the Commodity Exchange Act through computers or by other electronic means, and also required the Commission, not later than two years after Oct. 28, 1992, to submit to Congress a report containing the results of the study and any appropriate recommendations.
+Pub. L. 102–546, title II, § 220(b), (c), Oct. 28, 1992, 106 Stat. 3614, required the Commodity Futures Trading Commission to conduct a study related to trading in futures and options subject to the jurisdiction of the Commission under the Commodity Exchange Act through computers or by other electronic means, and also required the Commission, not later than two years after Oct. 28, 1992, to submit to Congress a report containing the results of the study and any appropriate recommendations.
 
-## § 22. Research and information programs; reports to Congress
+## § 22. Research and information programs; reports to Congress
 
 **(a)** The Commission shall establish and maintain, as part of its ongoing operations, research and information programs to (1) determine the feasibility of trading by computer, and the expanded use of modern information system technology, electronic data processing, and modern communication systems by commodity exchanges, boards of trade, and by the Commission itself for purposes of improving, strengthening, facilitating, or regulating futures trading operations; (2) assist in the development of educational and other informational materials regarding futures trading for dissemination and use among producers, market users, and the general public; and (3) carry out the general purposes of this chapter.
 
 **(b)** The Commission shall include in its annual reports to Congress plans and findings with respect to implementing this section.
 
-(Sept. 21, 1922, ch. 369, § 18, as added Pub. L. 93–463, title IV, § 416, Oct. 23, 1974, 88 Stat. 1415.)
+(Sept. 21, 1922, ch. 369, § 18, as added Pub. L. 93–463, title IV, § 416, Oct. 23, 1974, 88 Stat. 1415.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8711,7 +8711,7 @@ Pub. L. 102–546, title II, § 220(b), (c), Oct. 28, 1992, 106 Stat. 3614, re
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-## § 23. Standardized contracts for certain commodities
+## § 23. Standardized contracts for certain commodities
 
 **(a) Margin accounts or contracts and leverage accounts or contracts prohibited except as authorized**
 
@@ -8753,7 +8753,7 @@ Except as authorized under subsection (b), no person shall offer to enter into, 
 
 This section shall not affect any rights or obligations arising out of any transaction subject to this section, as in effect before November 10, 1986, that was entered into, or the execution of which was confirmed, before November 10, 1986.
 
-(Sept. 21, 1922, ch. 369, § 19, as added Pub. L. 95–405, § 23, Sept. 30, 1978, 92 Stat. 876; amended Pub. L. 97–444, title II, § 234, Jan. 11, 1983, 96 Stat. 2322; Pub. L. 99–641, title I, § 109, Nov. 10, 1986, 100 Stat. 3560.)
+(Sept. 21, 1922, ch. 369, § 19, as added Pub. L. 95–405, § 23, Sept. 30, 1978, 92 Stat. 876; amended Pub. L. 97–444, title II, § 234, Jan. 11, 1983, 96 Stat. 2322; Pub. L. 99–641, title I, § 109, Nov. 10, 1986, 100 Stat. 3560.)
 
 **Editorial Notes**
 
@@ -8771,9 +8771,9 @@ Subsec. (c). Pub. L. 99–641 amended subsec. (c) generally. Prior to amendment,
 
 Subsec. (d). Pub. L. 99–641, in amending section generally, added subsec. (d).
 
-1983—Subsec. (c). Pub. L. 97–444, § 234(1), substituted “shall regulate” for “may prohibit or regulate” and authorized Commission prohibition of transactions for delivery of commodities under a standardized contract that was not permitted by the rules, regulations and orders of the Commission in effect on Dec. 9, 1982, where transactions are determined to be contrary to the public interest.
+1983—Subsec. (c). Pub. L. 97–444, § 234(1), substituted “shall regulate” for “may prohibit or regulate” and authorized Commission prohibition of transactions for delivery of commodities under a standardized contract that was not permitted by the rules, regulations and orders of the Commission in effect on Dec. 9, 1982, where transactions are determined to be contrary to the public interest.
 
-Subsec. (d). Pub. L. 97–444, § 234(2), struck out subsec. (d) which provided for regulation of transactions in accordance with applicable provisions of this chapter where Commission determined the transactions under subsecs. (b) and (c) of this section were contracts for future delivery within the meaning of this chapter.
+Subsec. (d). Pub. L. 97–444, § 234(2), struck out subsec. (d) which provided for regulation of transactions in accordance with applicable provisions of this chapter where Commission determined the transactions under subsecs. (b) and (c) of this section were contracts for future delivery within the meaning of this chapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8785,7 +8785,7 @@ Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L
 
 Section effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as an Effective Date of 1978 Amendment note under section 2 of this title.
 
-## § 24. Customer property with respect to commodity broker debtors; definitions
+## § 24. Customer property with respect to commodity broker debtors; definitions
 
 **(a) Regulations respecting commodity broker debtors** Notwithstanding title 11, the Commission may provide, with respect to a commodity broker that is a debtor under chapter 7 of title 11, by rule or regulation—
 
@@ -8807,7 +8807,7 @@ As used in this section, the terms “commodity broker”, “commodity contract
 
 The Commission shall exercise its authority to ensure that securities held in a portfolio margining account carried as a futures account are customer property and the owners of those accounts are customers for the purposes of subchapter IV of chapter 7 of title 11.
 
-(Sept. 21, 1922, ch. 369, § 20, formerly § 19, as added Pub. L. 95–598, title III, § 302, Nov. 6, 1978, 92 Stat. 2673; renumbered and amended Pub. L. 97–222, § 20, July 27, 1982, 96 Stat. 241; Pub. L. 111–203, title VII, § 713(c), July 21, 2010, 124 Stat. 1647.)
+(Sept. 21, 1922, ch. 369, § 20, formerly § 19, as added Pub. L. 95–598, title III, § 302, Nov. 6, 1978, 92 Stat. 2673; renumbered and amended Pub. L. 97–222, § 20, July 27, 1982, 96 Stat. 241; Pub. L. 111–203, title VII, § 713(c), July 21, 2010, 124 Stat. 1647.)
 
 **Editorial Notes**
 
@@ -8815,19 +8815,19 @@ The Commission shall exercise its authority to ensure that securities held in a 
 
 2010—Subsec. (c). Pub. L. 111–203 added subsec. (c).
 
-1982—Subsec. (a)(3). Pub. L. 97–222, § 20(b), inserted “, including the payment and allocation of margin with respect to commodity contracts not specifically identifiable to a particular customer pending their orderly liquidation”.
+1982—Subsec. (a)(3). Pub. L. 97–222, § 20(b), inserted “, including the payment and allocation of margin with respect to commodity contracts not specifically identifiable to a particular customer pending their orderly liquidation”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Effective Date**
 
 Section effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
-## § 24a. Swap data repositories
+## § 24a. Swap data repositories
 
 **(a) Registration requirement**
 
@@ -9009,21 +9009,21 @@ Any person that is required to be registered as a swap data repository under thi
 
 The Commission shall adopt rules governing persons that are registered under this section.
 
-(Sept. 21, 1922, ch. 369, § 21, as added Pub. L. 111–203, title VII, § 728, July 21, 2010, 124 Stat. 1697; amended Pub. L. 114–94, div. G, title LXXXVI, § 86001(b), Dec. 4, 2015, 129 Stat. 1797.)
+(Sept. 21, 1922, ch. 369, § 21, as added Pub. L. 111–203, title VII, § 728, July 21, 2010, 124 Stat. 1697; amended Pub. L. 114–94, div. G, title LXXXVI, § 86001(b), Dec. 4, 2015, 129 Stat. 1797.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276, § 7, June 17, 1980, 94 Stat. 542, related to silver markets activity and was set out as a note under section 4a of this title prior to repeal by Pub. L. 102–546, title IV, § 402(13), Oct. 28, 1992, 106 Stat. 3625.
+A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276, § 7, June 17, 1980, 94 Stat. 542, related to silver markets activity and was set out as a note under section 4a of this title prior to repeal by Pub. L. 102–546, title IV, § 402(13), Oct. 28, 1992, 106 Stat. 3625.
 
 **Amendments**
 
-2015—Subsec. (c)(7). Pub. L. 114–94, § 86001(b)(1)(A), substituted “swap” for “all” in introductory provisions.
+2015—Subsec. (c)(7). Pub. L. 114–94, § 86001(b)(1)(A), substituted “swap” for “all” in introductory provisions.
 
-Subsec. (c)(7)(E)(iv). Pub. L. 114–94, § 86001(b)(1)(B), added cl. (iv).
+Subsec. (c)(7)(E)(iv). Pub. L. 114–94, § 86001(b)(1)(B), added cl. (iv).
 
-Subsec. (d). Pub. L. 114–94, § 86001(b)(2), added subsec. (d) and struck out former subsec. (d) which related to confidentiality and indemnification agreement.
+Subsec. (d). Pub. L. 114–94, § 86001(b)(2), added subsec. (d) and struck out former subsec. (d) which related to confidentiality and indemnification agreement.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9033,9 +9033,9 @@ Amendment by Pub. L. 114–94 effective as if enacted as part of the Dodd-Frank 
 
 **Effective Date**
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 25. Private rights of action
+## § 25. Private rights of action
 
 **(a) Actual damages; actionable transactions; exclusive remedy**
 
@@ -9049,9 +9049,9 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 **(i)** an option subject to section 6c of this title (other than an option purchased or sold on a registered entity or other board of trade);
 
-**(ii)** a contract subject to section 23 of this title; or 1
+**(ii)** a contract subject to section 23 of this title; or 1
 
-<sup>1</sup>  So in original. The word “or” probably should not appear.
+<sup>1</sup> So in original. The word “or” probably should not appear.
 
 **(iii)** an interest or participation in a commodity pool; or
 
@@ -9097,15 +9097,15 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 **(2)** A registered futures association that fails to enforce any bylaw or rule that is required under section 21 of this title or in enforcing any such bylaw or rule violates this chapter or any Commission rule, regulation, or order shall be liable for actual damages sustained by a person that engaged in any transaction specified in subsection (a) of this section to the extent of such person’s actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaw or rule.
 
-**(3)** Any individual who, in the capacity as an officer, director, governor, committee member, or employee of registered 2
+**(3)** Any individual who, in the capacity as an officer, director, governor, committee member, or employee of registered 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “a”.
+<sup>2</sup> So in original. Probably should be preceded by “a”.
 
 entity or a registered futures association willfully aids, abets, counsels, induces, or procures any failure by any such entity to enforce (or any violation of the chapter in enforcing) any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, shall be liable for actual damages sustained by a person who engaged in any transaction specified in subsection (a) of this section on, or subject to the rules of, such registered entity or, in the case of an officer, director, governor, committee member, or employee of a registered futures association, any transaction specified in subsection (a) of this section, in either case to the extent of such person’s actual losses that resulted from such transaction and were caused by such failure or violation.
 
-**(4)** A person seeking to enforce liability under this section must establish that the registered entity 3
+**(4)** A person seeking to enforce liability under this section must establish that the registered entity 3
 
-<sup>3</sup>  So in original. Probably should be followed by a comma.
+<sup>3</sup> So in original. Probably should be followed by a comma.
 
 registered futures association, officer, director, governor, committee member, or employee acted in bad faith in failing to take action or in taking such action as was taken, and that such failure or action caused the loss.
 
@@ -9119,13 +9119,13 @@ The United States district courts shall have exclusive jurisdiction of actions b
 
 The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 [January 11, 1983]: *Provided*, That the enactment of the Futures Trading Act of 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
 
-(Sept. 21, 1922, ch. 369, § 22, as added Pub. L. 97–444, title II, § 235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§ 211, 222(d), title IV, § 402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625; Pub. L. 106–554, § 1(a)(5) [title I, §§ 120, 123(a)(25)], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, 2763A–410; Pub. L. 110–234, title XIII, §§ 13105(i), 13203(n), May 22, 2008, 122 Stat. 1435, 1441; Pub. L. 110–246, § 4(a), title XIII, §§ 13105(i), 13203(n), June 18, 2008, 122 Stat. 1664, 2197, 2203; Pub. L. 111–203, title VII, §§ 738(c), 739, 749(h), 753(c), July 21, 2010, 124 Stat. 1728, 1729, 1748, 1754.)
+(Sept. 21, 1922, ch. 369, § 22, as added Pub. L. 97–444, title II, § 235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§ 211, 222(d), title IV, § 402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625; Pub. L. 106–554, § 1(a)(5) [title I, §§ 120, 123(a)(25)], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, 2763A–410; Pub. L. 110–234, title XIII, §§ 13105(i), 13203(n), May 22, 2008, 122 Stat. 1435, 1441; Pub. L. 110–246, § 4(a), title XIII, §§ 13105(i), 13203(n), June 18, 2008, 122 Stat. 1664, 2197, 2203; Pub. L. 111–203, title VII, §§ 738(c), 739, 749(h), 753(c), July 21, 2010, 124 Stat. 1728, 1729, 1748, 1754.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a)(5), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
+The Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a)(5), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
 
 The Futures Trading Act of 1982, referred to in subsec. (d), is Pub. L. 97–444, Jan. 11, 1983, 96 Stat. 2294, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title of 1983 Amendment note set out under section 1 of this title and Tables.
 
@@ -9135,55 +9135,55 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2010—Subsec. (a)(1)(B). Pub. L. 111–203, § 749(h)(1)(B), which directed insertion of “or any swap” after “such contract”, was executed by making the insertion after “such contract” the second time appearing, to reflect the probable intent of Congress.
+2010—Subsec. (a)(1)(B). Pub. L. 111–203, § 749(h)(1)(B), which directed insertion of “or any swap” after “such contract”, was executed by making the insertion after “such contract” the second time appearing, to reflect the probable intent of Congress.
 
-Pub. L. 111–203, § 749(h)(1)(A), inserted “or any swap” after “commodity)”.
+Pub. L. 111–203, § 749(h)(1)(A), inserted “or any swap” after “commodity)”.
 
-Subsec. (a)(1)(C)(iv). Pub. L. 111–203, § 749(h)(2), added cl. (iv).
+Subsec. (a)(1)(C)(iv). Pub. L. 111–203, § 749(h)(2), added cl. (iv).
 
-Subsec. (a)(1)(D). Pub. L. 111–203, § 753(c), added subpar. (D) and struck out former subpar. (D) which read as follows: “who purchased or sold a contract referred to in subparagraph (B) hereof if the violation constitutes a manipulation of the price of any such contract or the price of the commodity underlying such contract.”
+Subsec. (a)(1)(D). Pub. L. 111–203, § 753(c), added subpar. (D) and struck out former subpar. (D) which read as follows: “who purchased or sold a contract referred to in subparagraph (B) hereof if the violation constitutes a manipulation of the price of any such contract or the price of the commodity underlying such contract.”
 
-Subsec. (a)(4), (5). Pub. L. 111–203, § 739, added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants, and no hybrid instrument sold to any investor, shall be void, voidable, or unenforceable, and no such party shall be entitled to rescind, or recover any payment made with respect to, such an agreement, contract, transaction, or instrument under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, transaction, or instrument to comply with the terms or conditions of an exemption or exclusion from any provision of this chapter or regulations of the Commission.”
+Subsec. (a)(4), (5). Pub. L. 111–203, § 739, added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants, and no hybrid instrument sold to any investor, shall be void, voidable, or unenforceable, and no such party shall be entitled to rescind, or recover any payment made with respect to, such an agreement, contract, transaction, or instrument under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, transaction, or instrument to comply with the terms or conditions of an exemption or exclusion from any provision of this chapter or regulations of the Commission.”
 
-Subsec. (a)(6). Pub. L. 111–203, § 738(c), added par. (6).
+Subsec. (a)(6). Pub. L. 111–203, § 738(c), added par. (6).
 
-Subsec. (b)(1)(A). Pub. L. 111–203, § 749(h)(3), substituted “section 7, 7a–1, 7a–2, 7b–3, or 24a of this title” for “section 2(h)(7) of this title or sections 7 through 7a–2 of this title”.
+Subsec. (b)(1)(A). Pub. L. 111–203, § 749(h)(3), substituted “section 7, 7a–1, 7a–2, 7b–3, or 24a of this title” for “section 2(h)(7) of this title or sections 7 through 7a–2 of this title”.
 
-2008—Subsec. (a)(2). Pub. L. 110–246, § 13105(i), substituted “7a–1(c)(2)(H)” for “7a–1(b)(1)(E)”.
+2008—Subsec. (a)(2). Pub. L. 110–246, § 13105(i), substituted “7a–1(c)(2)(H)” for “7a–1(b)(1)(E)”.
 
-Subsec. (b)(1)(A). Pub. L. 110–246, § 13203(n), inserted “section 2(h)(7) of this title or” before “sections 7 through 7a–2”.
+Subsec. (b)(1)(A). Pub. L. 110–246, § 13203(n), inserted “section 2(h)(7) of this title or” before “sections 7 through 7a–2”.
 
-2000—Subsec. (a)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(A)(i)(I)], substituted “registered entity” for “contract market, clearing organization of a contract market, licensed board of trade,” in introductory provisions.
+2000—Subsec. (a)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(A)(i)(I)], substituted “registered entity” for “contract market, clearing organization of a contract market, licensed board of trade,” in introductory provisions.
 
-Subsec. (a)(1)(C)(i). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(A)(i)(II)], substituted “registered entity” for “contract market”.
+Subsec. (a)(1)(C)(i). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(A)(i)(II)], substituted “registered entity” for “contract market”.
 
-Subsec. (a)(2). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(A)(ii)], substituted “sections 7(d)(13), 7a–1(b)(1)(E),” for “sections 7a(11),”.
+Subsec. (a)(2). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(A)(ii)], substituted “sections 7(d)(13), 7a–1(b)(1)(E),” for “sections 7a(11),”.
 
-Subsec. (a)(3). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(A)(iii)], substituted “registered entity” for “contract market” in introductory provisions.
+Subsec. (a)(3). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(A)(iii)], substituted “registered entity” for “contract market” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 106–554, § 1(a)(5) [title I, § 120], added par. (4).
+Subsec. (a)(4). Pub. L. 106–554, § 1(a)(5) [title I, § 120], added par. (4).
 
-Subsec. (b)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(B)(i)], substituted “registered entity that fails” for “contract market or clearing organization of a contract market that fails”, “sections 7 through 7a–2 of this title” for “section 7a(8) and section 7a(9) of this title”, “registered entity that in” for “contract market, clearing organization of a contract market, or licensed board of trade that in”, and “registered entity to the” for “contract market or licensed board of trade to the”.
+Subsec. (b)(1). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(B)(i)], substituted “registered entity that fails” for “contract market or clearing organization of a contract market that fails”, “sections 7 through 7a–2 of this title” for “section 7a(8) and section 7a(9) of this title”, “registered entity that in” for “contract market, clearing organization of a contract market, or licensed board of trade that in”, and “registered entity to the” for “contract market or licensed board of trade to the”.
 
-Subsec. (b)(3). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(B)(ii)], substituted “employee of registered entity” for “employee of a contract market, clearing organization, licensed board of trade,” and “such registered entity” for “such contract market, licensed board of trade”.
+Subsec. (b)(3). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(B)(ii)], substituted “employee of registered entity” for “employee of a contract market, clearing organization, licensed board of trade,” and “such registered entity” for “such contract market, licensed board of trade”.
 
-Subsec. (b)(4). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(B)(iii)], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
+Subsec. (b)(4). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(B)(iii)], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
 
-Subsec. (b)(5). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(B)(iv)], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
+Subsec. (b)(5). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(25)(B)(iv)], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
 
-1992—Subsec. (a)(1). Pub. L. 102–546, § 402(14)(A), substituted “subparagraphs” for “clauses” in introductory provisions and “subparagraph” for “clause” in subpar. (D).
+1992—Subsec. (a)(1). Pub. L. 102–546, § 402(14)(A), substituted “subparagraphs” for “clauses” in introductory provisions and “subparagraph” for “clause” in subpar. (D).
 
-Subsec. (a)(2). Pub. L. 102–546, § 402(14)(B), made technical amendment to reference to section 21(b)(10) of this title to correct reference to corresponding section of original act.
+Subsec. (a)(2). Pub. L. 102–546, § 402(14)(B), made technical amendment to reference to section 21(b)(10) of this title to correct reference to corresponding section of original act.
 
-Subsec. (a)(3). Pub. L. 102–546, § 222(d), added par. (3).
+Subsec. (a)(3). Pub. L. 102–546, § 222(d), added par. (3).
 
-Subsec. (c). Pub. L. 102–546, § 211, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action must be brought within two years after the date the cause of action accrued.”
+Subsec. (c). Pub. L. 102–546, § 211, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action must be brought within two years after the date the cause of action accrued.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by sections 738(c), 739, and 749(h) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by sections 738(c), 739, and 749(h) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 Amendment by section 753(c) of Pub. L. 111–203 effective on the date on which the final rule promulgated by the Commodity Futures Trading Commission pursuant to Pub. L. 111–203 takes effect [see 76 F.R. 41398, effective Aug. 15, 2011], see section 753(d) of Pub. L. 111–203, set out as a note under section 9 of this title.
 
@@ -9197,7 +9197,7 @@ Amendment by section 13203(n) of Pub. L. 110–246 effective June 18, 2008, see 
 
 Section effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as an Effective Date of 1983 Amendment note under section 2 of this title.
 
-## § 26. Commodity whistleblower incentives and protection
+## § 26. Commodity whistleblower incentives and protection
 
 **(a) Definitions** In this section:
 
@@ -9263,11 +9263,11 @@ The determination of the amount of an award made under subsection (b) shall be i
 
 **(II)** the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
 
-**(III)** the programmatic interest of the Commission in deterring violations of the 1
+**(III)** the programmatic interest of the Commission in deterring violations of the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
-chapter (including regulations under the 1 chapter) by making awards to whistleblowers who provide information that leads to the successful enforcement of such laws; and
+chapter (including regulations under the 1 chapter) by making awards to whistleblowers who provide information that leads to the successful enforcement of such laws; and
 
 **(IV)** such additional relevant factors as the Commission may establish by rule or regulation; and
 
@@ -9327,9 +9327,9 @@ Any determination described in paragraph (1) may be appealed to the appropriate 
 
 **(3) Review**
 
-The court shall review the determination made by the Commission in accordance with section 7064 2
+The court shall review the determination made by the Commission in accordance with section 7064 2
 
-<sup>2</sup>  So in original. Probably should be “section 706”.
+<sup>2</sup> So in original. Probably should be “section 706”.
 
 of title 5.
 
@@ -9505,21 +9505,21 @@ The rights and remedies provided for in this section may not be waived by any ag
 
 No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
 
-(Sept. 21, 1922, ch. 369, § 23, as added Pub. L. 111–203, title VII, § 748, July 21, 2010, 124 Stat. 1739.)
+(Sept. 21, 1922, ch. 369, § 23, as added Pub. L. 111–203, title VII, § 748, July 21, 2010, 124 Stat. 1739.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 26, act Sept. 21, 1922, ch. 369, § 23, as added Jan. 11, 1983, Pub. L. 97–444, title II, § 236, 96 Stat. 2324, provided for special studies to be conducted by Commission, Board of Governors of Federal Reserve System, and Securities and Exchange Commission, prior to repeal by Pub. L. 102–546, title IV, § 402(15), Oct. 28, 1992, 106 Stat. 3625.
+A prior section 26, act Sept. 21, 1922, ch. 369, § 23, as added Jan. 11, 1983, Pub. L. 97–444, title II, § 236, 96 Stat. 2324, provided for special studies to be conducted by Commission, Board of Governors of Federal Reserve System, and Securities and Exchange Commission, prior to repeal by Pub. L. 102–546, title IV, § 402(15), Oct. 28, 1992, 106 Stat. 3625.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 27. Definitions
+## § 27. Definitions
 
 **(a) Bank** In sections 27 to 27f of this title, the term “bank” means—
 
@@ -9535,9 +9535,9 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 **(6)** any trust company; or
 
-**(7)** any subsidiary of any entity described in paragraph 1
+**(7)** any subsidiary of any entity described in paragraph 1
 
-<sup>1</sup>  So in original. Probably should be “paragraphs”.
+<sup>1</sup> So in original. Probably should be “paragraphs”.
 
 (1) through (6) of this subsection, if the subsidiary is regulated as if the subsidiary were part of the entity and is not a broker or dealer (as such terms are defined in section 78c of title 15) or a futures commission merchant (as defined in section 1a of this title).
 
@@ -9551,13 +9551,13 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 In sections 27 to 27f of this title, the term “hybrid instrument” means an identified banking product not excluded by section 27a of this title, offered by a bank, having one or more payments indexed to the value, level, or rate of, or providing for the delivery of, one or more commodities (as defined in section 1a of this title).
 
-(Pub. L. 106–554, § 1(a)(5) [title IV, § 402], Dec. 21, 2000, 114 Stat. 2763, 2763A–457; Pub. L. 111–203, title VII, §§ 721(e)(9), 725(g)(1)(B), July 21, 2010, 124 Stat. 1672, 1694.)
+(Pub. L. 106–554, § 1(a)(5) [title IV, § 402], Dec. 21, 2000, 114 Stat. 2763, 2763A–457; Pub. L. 111–203, title VII, §§ 721(e)(9), 725(g)(1)(B), July 21, 2010, 124 Stat. 1672, 1694.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4), is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25 of the Federal Reserve Act, referred to in subsec. (a)(5), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12.
+Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4), is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25 of the Federal Reserve Act, referred to in subsec. (a)(5), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12.
 
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (b), is section 206 of Pub. L. 106–102 which is set out as a note under section 78c of Title 15, Commerce and Trade.
 
@@ -9567,25 +9567,25 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 
 **Amendments**
 
-2010—Subsec. (a)(7). Pub. L. 111–203, § 721(e)(9)(A), substituted “section 1a” for “section 1a(20)”.
+2010—Subsec. (a)(7). Pub. L. 111–203, § 721(e)(9)(A), substituted “section 1a” for “section 1a(20)”.
 
-Subsec. (b)(2). Pub. L. 111–203, § 721(e)(9)(B), substituted “section 1a” for “section 1a(12)”.
+Subsec. (b)(2). Pub. L. 111–203, § 721(e)(9)(B), substituted “section 1a” for “section 1a(12)”.
 
-Subsec. (c). Pub. L. 111–203, § 721(e)(9)(C), substituted “section 1a” for “section 1a(4)”.
+Subsec. (c). Pub. L. 111–203, § 721(e)(9)(C), substituted “section 1a” for “section 1a(4)”.
 
-Subsec. (d). Pub. L. 111–203, § 725(g)(1)(B), struck out subsec. (d) which defined covered swap agreement.
+Subsec. (d). Pub. L. 111–203, § 725(g)(1)(B), struck out subsec. (d) which defined covered swap agreement.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 **Short Title**
 
-For short title of sections 27 to 27f of this title as the “Legal Certainty for Bank Products Act of 2000”, see section 1(a)(5) [title IV, § 401] of Pub. L. 106–554, set out as a Short Title of 2000 Amendment note under section 1 of this title.
+For short title of sections 27 to 27f of this title as the “Legal Certainty for Bank Products Act of 2000”, see section 1(a)(5) [title IV, § 401] of Pub. L. 106–554, set out as a Short Title of 2000 Amendment note under section 1 of this title.
 
-## § 27a. Exclusion of identified banking product
+## § 27a. Exclusion of identified banking product
 
 **(a) Exclusion** Except as provided in subsection (b) or (c)—
 
@@ -9595,9 +9595,9 @@ For short title of sections 27 to 27f of this title as the “Legal Certainty fo
 
 **(b) Exception** An appropriate Federal banking agency may except an identified banking product of a bank under its regulatory jurisdiction from the exclusion in subsection (a) if the agency determines, in consultation with the Commodity Futures Trading Commission and the Securities and Exchange Commission, that the product—
 
-**(1)** would meet the definition of a “swap” under section 1a(47) of the Commodity Exchange Act (7 U.S.C. 1a[47]) or a “security-based swap” under that 1
+**(1)** would meet the definition of a “swap” under section 1a(47) of the Commodity Exchange Act (7 U.S.C. 1a[47]) or a “security-based swap” under that 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 section 3(a)(68) of the Securities Exchange Act of 1934; and
 
@@ -9611,7 +9611,7 @@ section 3(a)(68) of the Securities Exchange Act of 1934; and
 
 **(3)** has become known to the trade as a swap or security-based swap, or otherwise has been structured as an identified banking product for the purpose of evading the provisions of the Commodity Exchange Act (7 U.S.C. 1 et seq.), the Securities Act of 1933 (15 U.S.C. 77a et seq.), or the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
 
-(Pub. L. 106–554, § 1(a)(5) [title IV, § 403], Dec. 21, 2000, 114 Stat. 2763, 2763A–458; Pub. L. 111–203, title VII, § 725(g)(2), July 21, 2010, 124 Stat. 1694.)
+(Pub. L. 106–554, § 1(a)(5) [title IV, § 403], Dec. 21, 2000, 114 Stat. 2763, 2763A–458; Pub. L. 111–203, title VII, § 725(g)(2), July 21, 2010, 124 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -9619,9 +9619,9 @@ section 3(a)(68) of the Securities Exchange Act of 1934; and
 
 The Commodity Exchange Act, referred to in subsecs. (a)(1), (b)(2), and (c)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
-The Securities Act of 1933, referred to in subsecs. (b)(2) and (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsecs. (b)(2) and (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsecs. (b)(2) and (c)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (b)(2) and (c)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 **Codification**
 
@@ -9639,19 +9639,19 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
-## § 27b. Repealed. Pub. L. 111–203, title VII, § 725(g)(1)(A), July 21, 2010, 124 Stat. 1694
+## § 27b. Repealed. Pub. L. 111–203, title VII, § 725(g)(1)(A), July 21, 2010, 124 Stat. 1694
 
-Section, Pub. L. 106–554, § 1(a)(5) [title IV, § 404], Dec. 21, 2000, 114 Stat. 2763, 2763A–459, related to exclusion of certain identified banking products offered by banks after Dec. 5, 2000.
+Section, Pub. L. 106–554, § 1(a)(5) [title IV, § 404], Dec. 21, 2000, 114 Stat. 2763, 2763A–459, related to exclusion of certain identified banking products offered by banks after Dec. 5, 2000.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 27c. Exclusion of certain other identified banking products
+## § 27c. Exclusion of certain other identified banking products
 
 **(a) In general**
 
@@ -9671,7 +9671,7 @@ No provision of the Commodity Exchange Act [7 U.S.C. 1 et seq.] shall apply to, 
 
 For purposes of subsection (b)(3) of this title, mark-to-market margining requirements shall not include the obligation of an issuer of a secured debt instrument to increase the amount of collateral held in pledge for the benefit of the purchaser of the secured debt instrument to secure the repayment obligations of the issuer under the secured debt instrument.
 
-(Pub. L. 106–554, § 1(a)(5) [title IV, § 405], Dec. 21, 2000, 114 Stat. 2763, 2763A–459.)
+(Pub. L. 106–554, § 1(a)(5) [title IV, § 405], Dec. 21, 2000, 114 Stat. 2763, 2763A–459.)
 
 **Editorial Notes**
 
@@ -9683,7 +9683,7 @@ The Commodity Exchange Act, referred to in subsecs. (a) and (b)(4), is act Sept.
 
 Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of the Commodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.
 
-## § 27d. Administration of the predominance test
+## § 27d. Administration of the predominance test
 
 **(a) In general** No provision of the Commodity Exchange Act [7 U.S.C. 1 et seq.] shall apply to, and the Commodity Futures Trading Commission shall not regulate, a hybrid instrument, unless the Commission determines, by or under a rule issued in accordance with this section, that—
 
@@ -9727,7 +9727,7 @@ The filing of a petition by the Board pursuant to paragraph (1) shall operate as
 
 Any aggrieved party may seek judicial review pursuant to section 6(c) of the Commodity Exchange Act [7 U.S.C. 9] of a determination or rulemaking by the Commodity Futures Trading Commission under this section.
 
-(Pub. L. 106–554, § 1(a)(5) [title IV, § 406], Dec. 21, 2000, 114 Stat. 2763, 2763A–459.)
+(Pub. L. 106–554, § 1(a)(5) [title IV, § 406], Dec. 21, 2000, 114 Stat. 2763, 2763A–459.)
 
 **Editorial Notes**
 
@@ -9739,17 +9739,17 @@ The Commodity Exchange Act, referred to in subsecs. (a), (b)(2), and (c)(4)(B), 
 
 Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of the Commodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.
 
-## § 27e. Repealed. Pub. L. 111–203, title VII, § 725(g)(1)(A), July 21, 2010, 124 Stat. 1694
+## § 27e. Repealed. Pub. L. 111–203, title VII, § 725(g)(1)(A), July 21, 2010, 124 Stat. 1694
 
-Section, Pub. L. 106–554, § 1(a)(5) [title IV, § 407], Dec. 21, 2000, 114 Stat. 2763, 2763A–461, related to exclusion of covered swap agreements.
+Section, Pub. L. 106–554, § 1(a)(5) [title IV, § 407], Dec. 21, 2000, 114 Stat. 2763, 2763A–461, related to exclusion of covered swap agreements.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-## § 27f. Contract enforcement
+## § 27f. Contract enforcement
 
 **(a) Hybrid instruments**
 
@@ -9759,7 +9759,7 @@ No hybrid instrument shall be void, voidable, or unenforceable, and no party to 
 
 Sections 27 to 27f of this title shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operation of bucket shops (other than antifraud provisions of general applicability) in the case of a hybrid instrument that is predominantly a banking product.
 
-(Pub. L. 106–554, § 1(a)(5) [title IV, § 408], Dec. 21, 2000, 114 Stat. 2763, 2763A–461; Pub. L. 111–203, title VII, § 725(g)(1)(C), July 21, 2010, 124 Stat. 1694.)
+(Pub. L. 106–554, § 1(a)(5) [title IV, § 408], Dec. 21, 2000, 114 Stat. 2763, 2763A–461; Pub. L. 111–203, title VII, § 725(g)(1)(C), July 21, 2010, 124 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -9773,14 +9773,14 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–203, § 725(g)(1)(C)(ii), (iii), redesignated subsec. (c) as (b) and struck out former subsec. (b). Text of subsec. (b) read as follows: “No covered swap agreement shall be void, voidable, or unenforceable, and no party to a covered swap agreement shall be entitled to rescind, or recover any payment made with respect to, a covered swap agreement under any provision of Federal or State law, based solely on the failure of the covered swap agreement to comply with the terms or conditions of an exemption or exclusion from any provision of the Commodity Exchange Act or any regulation of the Commodity Futures Trading Commission.”
+2010—Subsec. (b). Pub. L. 111–203, § 725(g)(1)(C)(ii), (iii), redesignated subsec. (c) as (b) and struck out former subsec. (b). Text of subsec. (b) read as follows: “No covered swap agreement shall be void, voidable, or unenforceable, and no party to a covered swap agreement shall be entitled to rescind, or recover any payment made with respect to, a covered swap agreement under any provision of Federal or State law, based solely on the failure of the covered swap agreement to comply with the terms or conditions of an exemption or exclusion from any provision of the Commodity Exchange Act or any regulation of the Commodity Futures Trading Commission.”
 
-Subsec. (c). Pub. L. 111–203, § 725(g)(1)(C)(iii), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 111–203, § 725(g)(1)(C)(iii), redesignated subsec. (c) as (b).
 
-Pub. L. 111–203, § 725(g)(1)(C)(i), substituted “in the case of” for “in the case of—”, struck out par. (1) designation before “a hybrid”, substituted “product.” for “product; or”, and struck out par. (2) which read as follows: “a covered swap agreement.”
+Pub. L. 111–203, § 725(g)(1)(C)(i), substituted “in the case of” for “in the case of—”, struck out par. (1) designation before “a hybrid”, substituted “product.” for “product; or”, and struck out par. (2) which read as follows: “a covered swap agreement.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.

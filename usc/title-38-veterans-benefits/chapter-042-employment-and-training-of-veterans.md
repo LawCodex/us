@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–288, § 2(a)(2), Nov. 7, 2002, 116 Stat. 2034, added item 4215.
+2002—Pub. L. 107–288, § 2(a)(2), Nov. 7, 2002, 116 Stat. 2034, added item 4215.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 2011 to 2014 as 4211 to 4214, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 2011 to 2014 as 4211 to 4214, respectively.
 
-Pub. L. 102–16, § 9(c)(1), Mar. 22, 1991, 105 Stat. 55, struck out “DISABLED AND VIETNAM ERA” before “VETERANS” in chapter heading.
+Pub. L. 102–16, § 9(c)(1), Mar. 22, 1991, 105 Stat. 55, struck out “DISABLED AND VIETNAM ERA” before “VETERANS” in chapter heading.
 
-1980—Pub. L. 96–466, title VIII, § 801(k)(2)(B), Oct. 17, 1980, 94 Stat. 2217, substituted “Federal employment and” for “certain Federal manpower” in item 2013.
+1980—Pub. L. 96–466, title VIII, § 801(k)(2)(B), Oct. 17, 1980, 94 Stat. 2217, substituted “Federal employment and” for “certain Federal manpower” in item 2013.
 
-1974—Pub. L. 93–508, title IV, § 403(b), Dec. 3, 1974, 88 Stat. 1594, added item 2014.
+1974—Pub. L. 93–508, title IV, § 403(b), Dec. 3, 1974, 88 Stat. 1594, added item 2014.
 
-## § 4211. Definitions
+## § 4211. Definitions
 
 As used in this chapter—
 
@@ -57,7 +57,7 @@ As used in this chapter—
 
 **(6)** The term “recently separated veteran” means any veteran during the three-year period beginning on the date of such veteran’s discharge or release from active duty.
 
-(Added Pub. L. 92–540, title V, § 503(a), Oct. 24, 1972, 86 Stat. 1097, § 2011; amended Pub. L. 94–502, title VI, § 607(1), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, § 508, Oct. 17, 1980, 94 Stat. 2206; Pub. L. 97–306, title III, § 309, Oct. 14, 1982, 96 Stat. 1441; Pub. L. 98–223, title II, § 206, Mar. 2, 1984, 98 Stat. 43; Pub. L. 101–237, title IV, § 407(a)(2), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, § 1, Mar. 22, 1991, 105 Stat. 48; Pub. L. 102–54, § 14(c)(9), June 13, 1991, 105 Stat. 285; renumbered § 4211 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–127, § 5, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, § 502, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 104–106, div. A, title XV, § 1501(e)(2)(D), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title III, § 322(c), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, § 2(b)(2)(D), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–317, § 6(b), Aug. 29, 2008, 122 Stat. 3528.)
+(Added Pub. L. 92–540, title V, § 503(a), Oct. 24, 1972, 86 Stat. 1097, § 2011; amended Pub. L. 94–502, title VI, § 607(1), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, § 508, Oct. 17, 1980, 94 Stat. 2206; Pub. L. 97–306, title III, § 309, Oct. 14, 1982, 96 Stat. 1441; Pub. L. 98–223, title II, § 206, Mar. 2, 1984, 98 Stat. 43; Pub. L. 101–237, title IV, § 407(a)(2), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, § 1, Mar. 22, 1991, 105 Stat. 48; Pub. L. 102–54, § 14(c)(9), June 13, 1991, 105 Stat. 285; renumbered § 4211 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–127, § 5, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, § 502, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 104–106, div. A, title XV, § 1501(e)(2)(D), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title III, § 322(c), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, § 2(b)(2)(D), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–317, § 6(b), Aug. 29, 2008, 122 Stat. 3528.)
 
 **Editorial Notes**
 
@@ -75,19 +75,19 @@ As used in this chapter—
 
 1992—Par. (2). Pub. L. 102–568 substituted “The term” for “(A) Subject to subparagraph (B) of this paragraph, the term” and struck out subpar. (B) which read as follows: “No veteran may be considered to be a veteran of the Vietnam era under this paragraph after December 31, 1994, except for purposes of section 4214 of this title.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2011 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2011 of this title as this section.
 
-Par. (1)(A). Pub. L. 102–83, § 5(c)(1), substituted “3106” for “1506” in cl. (ii).
+Par. (1)(A). Pub. L. 102–83, § 5(c)(1), substituted “3106” for “1506” in cl. (ii).
 
-Pub. L. 102–83, § 4(a)(1), substituted “laws administered by the Secretary” for “laws administered by the Veterans’ Administration” in introductory provisions.
+Pub. L. 102–83, § 4(a)(1), substituted “laws administered by the Secretary” for “laws administered by the Veterans’ Administration” in introductory provisions.
 
-Par. (2)(B). Pub. L. 102–83, § 5(c)(1), substituted “4214” for “2014”.
+Par. (2)(B). Pub. L. 102–83, § 5(c)(1), substituted “4214” for “2014”.
 
 Pub. L. 102–54 inserted comma before “except for purposes”.
 
 Pub. L. 102–16 substituted “1994” for “1991”.
 
-Par. (3). Pub. L. 102–83, § 4(a)(1), substituted “laws administered by the Secretary” for “laws administered by the Veterans’ Administration”.
+Par. (3). Pub. L. 102–83, § 4(a)(1), substituted “laws administered by the Secretary” for “laws administered by the Veterans’ Administration”.
 
 Par. (4). Pub. L. 102–127 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘eligible veteran’ means a person who (A) served on active duty for a period of more than 180 days and was discharged or released therefrom with other than a dishonorable discharge, or (B) was discharged or released from active duty because of a service-connected disability.”
 
@@ -95,9 +95,9 @@ Par. (4). Pub. L. 102–127 amended par. (4) generally. Prior to amendment, par.
 
 1984—Par. (1). Pub. L. 98–223 expanded term “special disabled veteran” to include a veteran with a disability rated at 10 to 20 percent in the case of a veteran who has been determined under section 1506 of this title to have a serious employment handicap.
 
-1982—Pars. (1), (3). Pub. L. 97–306, § 309(1), inserted “(or who but for the receipt of military retired pay would be entitled to compensation)” after “compensation”.
+1982—Pars. (1), (3). Pub. L. 97–306, § 309(1), inserted “(or who but for the receipt of military retired pay would be entitled to compensation)” after “compensation”.
 
-Par. (5). Pub. L. 97–306, § 309(2), inserted provision that the United States Postal Service and the Postal Rate Commission are within the definition of “department or agency” and that the term “department, agency, or instrumentality in the executive branch” includes the United States Postal Service and the Postal Rate Commission.
+Par. (5). Pub. L. 97–306, § 309(2), inserted provision that the United States Postal Service and the Postal Rate Commission are within the definition of “department or agency” and that the term “department, agency, or instrumentality in the executive branch” includes the United States Postal Service and the Postal Rate Commission.
 
 1980—Pub. L. 96–466 added definitions for terms “special disabled veteran” and “eligible veteran”, in provisions defining term “veteran of the Vietnam era” substituted reference to an eligible veteran any part of whose active service was during the Vietnam era with cut-off date of Dec. 31, 1991, for reference to a person who served on active duty for more than 180 days, any part of which occurred during the Vietnam era, and was discharged or released with other than a dishonorable discharge, or was discharged or released for a service-connected disability if any part of the active duty was performed during the Vietnam era, and who was discharged or released within the 48 months preceding the person’s application for employment covered under this chapter, in the provisions defining term “disabled veteran” substituted reference to compensation under laws administered by the Veterans’ Administration for reference to disability compensation under such laws for a disability rated at 30 per centum or more and reference to a service-connected disability for reference to a disability incurred or aggravated in the line of duty, and in provisions defining term “department or agency” substituted reference to any agency of the Federal Government or the District of Columbia, including any Executive agency defined in section 105 of title 5, for reference to any department or agency of the Federal Government or any federally owned corporation.
 
@@ -111,7 +111,7 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–288, § 2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection [amending this section and section 4212 of this title] shall apply with respect to contracts entered into on or after the first day of the first month that begins 12 months after the date of the enactment of this Act [Nov. 7, 2002].”
+Pub. L. 107–288, § 2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection [amending this section and section 4212 of this title] shall apply with respect to contracts entered into on or after the first day of the first month that begins 12 months after the date of the enactment of this Act [Nov. 7, 2002].”
 
 **Effective Date of 1996 Amendment**
 
@@ -119,7 +119,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title IV, § 407(c), Dec. 18, 1989, 103 Stat. 2083, provided that: “The amendments made by this section [amending this section and section 2014 [now 4214] of this title] shall take effect on January 1, 1990.”
+Pub. L. 101–237, title IV, § 407(c), Dec. 18, 1989, 103 Stat. 2083, provided that: “The amendments made by this section [amending this section and section 2014 [now 4214] of this title] shall take effect on January 1, 1990.”
 
 **Effective Date of 1980 Amendment**
 
@@ -133,7 +133,7 @@ Amendment by Pub. L. 94–502 effective Dec. 1, 1976, see section 703(c) of Pub.
 
 Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 4101 of this title.
 
-## § 4212. Veterans’ employment emphasis under Federal contracts
+## § 4212. Veterans’ employment emphasis under Federal contracts
 
 **(a)**
 
@@ -143,7 +143,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 **(A)** each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in section 4101(7) of this title), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 other appropriate service delivery points, or America’s Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor’s organization and positions lasting three days or less;
 
@@ -183,13 +183,13 @@ other appropriate service delivery points, or America’s Job Bank (or any addit
 
 **(3)** The Secretary of Labor shall establish and maintain an Internet website on which the Secretary of Labor shall publicly disclose the information reported to the Secretary of Labor by contractors under paragraph (1).
 
-(Added Pub. L. 92–540, title V, § 503(a), Oct. 24, 1972, 86 Stat. 1097, § 2012; amended Pub. L. 93–508, title IV, § 402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§ 605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, § 6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, § 509, title VIII, § 801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, § 310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered § 4212 and amended Pub. L. 102–83, §§ 4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, § 702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§ 7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, § 322(a), (b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, § 2(b)(1), (2)(A)–(C), Nov. 7, 2002, 116 Stat. 2034, 2035; Pub. L. 112–154, title VII, § 708, Aug. 6, 2012, 126 Stat. 1207.)
+(Added Pub. L. 92–540, title V, § 503(a), Oct. 24, 1972, 86 Stat. 1097, § 2012; amended Pub. L. 93–508, title IV, § 402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§ 605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, § 6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, § 509, title VIII, § 801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, § 310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered § 4212 and amended Pub. L. 102–83, §§ 4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, § 702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§ 7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, § 322(a), (b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, § 2(b)(1), (2)(A)–(C), Nov. 7, 2002, 116 Stat. 2034, 2035; Pub. L. 112–154, title VII, § 708, Aug. 6, 2012, 126 Stat. 1207.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as a note preceding section 1121 of Title 10, Armed Forces.
 
@@ -197,57 +197,57 @@ Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as 
 
 2012—Subsec. (d)(3). Pub. L. 112–154 added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–288, § 2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any contract in the amount of $25,000 or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified special disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor’s organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.”
+2002—Subsec. (a). Pub. L. 107–288, § 2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any contract in the amount of $25,000 or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified special disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor’s organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.”
 
-Subsec. (c). Pub. L. 107–288, § 2(b)(2)(A), struck out “suitable” before “employment openings” and substituted “subsection (a)(2)(B)” for “subsection (a)(2) of this section”.
+Subsec. (c). Pub. L. 107–288, § 2(b)(2)(A), struck out “suitable” before “employment openings” and substituted “subsection (a)(2)(B)” for “subsection (a)(2) of this section”.
 
-Subsec. (d)(1). Pub. L. 107–288, § 2(b)(2)(B)(i), struck out “of this section” after “subsection (a)” in introductory provisions.
+Subsec. (d)(1). Pub. L. 107–288, § 2(b)(2)(B)(i), struck out “of this section” after “subsection (a)” in introductory provisions.
 
-Subsec. (d)(1)(A), (B). Pub. L. 107–288, § 2(b)(2)(B)(ii), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+Subsec. (d)(1)(A), (B). Pub. L. 107–288, § 2(b)(2)(B)(ii), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A) the number of employees in the work force of such contractor, by job category and hiring location, who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized;
 
 “(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized; and”.
 
-Subsec. (d)(2). Pub. L. 107–288, § 2(b)(2)(C), struck out “of this subsection” after “paragraph (1)”.
+Subsec. (d)(2). Pub. L. 107–288, § 2(b)(2)(C), struck out “of this subsection” after “paragraph (1)”.
 
-2000—Subsec. (a). Pub. L. 106–419, § 322(a), inserted “recently separated veterans,” after “veterans of the Vietnam era,” in first sentence.
+2000—Subsec. (a). Pub. L. 106–419, § 322(a), inserted “recently separated veterans,” after “veterans of the Vietnam era,” in first sentence.
 
-Subsec. (d)(1)(A), (B). Pub. L. 106–419, § 322(b), inserted “recently separated veterans,” after “veterans of the Vietnam era,”.
+Subsec. (d)(1)(A), (B). Pub. L. 106–419, § 322(b), inserted “recently separated veterans,” after “veterans of the Vietnam era,”.
 
-1998—Subsec. (a). Pub. L. 105–339, § 7(a)(1), in first sentence, substituted “$25,000” for “$10,000” and “special disabled veterans, veterans of the Vietnam era, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “special disabled veterans and veterans of the Vietnam era”.
+1998—Subsec. (a). Pub. L. 105–339, § 7(a)(1), in first sentence, substituted “$25,000” for “$10,000” and “special disabled veterans, veterans of the Vietnam era, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “special disabled veterans and veterans of the Vietnam era”.
 
-Subsec. (b). Pub. L. 105–339, § 7(a)(2), substituted “veteran covered by the first sentence of subsection (a)” for “special disabled veteran or veteran of the Vietnam era”.
+Subsec. (b). Pub. L. 105–339, § 7(a)(2), substituted “veteran covered by the first sentence of subsection (a)” for “special disabled veteran or veteran of the Vietnam era”.
 
-Subsec. (d)(1)(A), (B). Pub. L. 105–339, § 7(a)(3), substituted “special disabled veterans, veterans of the Vietnam era, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “veterans of the Vietnam era or special disabled veterans”.
+Subsec. (d)(1)(A), (B). Pub. L. 105–339, § 7(a)(3), substituted “special disabled veterans, veterans of the Vietnam era, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “veterans of the Vietnam era or special disabled veterans”.
 
-Subsec. (d)(1)(C). Pub. L. 105–339, § 8, added subpar. (C).
+Subsec. (d)(1)(C). Pub. L. 105–339, § 8, added subpar. (C).
 
 1994—Subsec. (a)(1). Pub. L. 103–446 substituted “all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor’s organization, and positions lasting three days or less,” for “all of its suitable employment openings,”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2012 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2012 of this title as this section.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “4107(c)” for “2007(c)”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “4107(c)” for “2007(c)”.
 
-Pub. L. 102–83, § 4(b)(8), substituted “Secretary of Labor” for “Secretary”.
+Pub. L. 102–83, § 4(b)(8), substituted “Secretary of Labor” for “Secretary”.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(8), substituted “Secretary of Labor” for “Secretary” wherever appearing.
+Subsec. (d). Pub. L. 102–83, § 4(b)(8), substituted “Secretary of Labor” for “Secretary” wherever appearing.
 
 1982—Subsec. (d). Pub. L. 97–306 added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–466, § 801(j), inserted “special” after “qualified” and substituted “regulations which shall require” for “regulations within 60 days after the date of enactment of this section, which regulations shall require”.
+1980—Subsec. (a). Pub. L. 96–466, § 801(j), inserted “special” after “qualified” and substituted “regulations which shall require” for “regulations within 60 days after the date of enactment of this section, which regulations shall require”.
 
-Subsec. (b). Pub. L. 96–466, § 509, among other changes, substituted reference to a special disabled veteran for reference to a disabled veteran, struck out provisions relating to the filing of a complaint by any veteran entitled to disability compensation who believed that a contractor had discriminated against such veteran because such veteran was a handicapped individual within the meaning of section 706(6) of title 29, and substituted provisions relating to the filing of a complaint with the Secretary of Labor for provisions relating to the filing of a complaint with the Veterans’ Employment Service of the Department of Labor and prompt referral of the complaint to the Secretary.
+Subsec. (b). Pub. L. 96–466, § 509, among other changes, substituted reference to a special disabled veteran for reference to a disabled veteran, struck out provisions relating to the filing of a complaint by any veteran entitled to disability compensation who believed that a contractor had discriminated against such veteran because such veteran was a handicapped individual within the meaning of section 706(6) of title 29, and substituted provisions relating to the filing of a complaint with the Secretary of Labor for provisions relating to the filing of a complaint with the Veterans’ Employment Service of the Department of Labor and prompt referral of the complaint to the Secretary.
 
 1978—Subsec. (b). Pub. L. 95–520 authorized filing of a complaint by a veteran entitled to disability compensation under laws administered by the Veterans’ Administration based on a contractor’s discrimination against the veteran because the veteran is handicapped.
 
-1976—Subsec. (b). Pub. L. 94–502, § 607(2), substituted “the contractor’s” for “his”.
+1976—Subsec. (b). Pub. L. 94–502, § 607(2), substituted “the contractor’s” for “his”.
 
-Subsec. (c). Pub. L. 94–502, § 605, added subsec. (c).
+Subsec. (c). Pub. L. 94–502, § 605, added subsec. (c).
 
-1974—Subsec. (a). Pub. L. 93–508, § 402(1), (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
+1974—Subsec. (a). Pub. L. 93–508, § 402(1), (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
 
-Subsec. (b). Pub. L. 93–508, § 402(3), substituted “relating to the employment of veterans” for “relating to giving special emphasis in employment to veterans”.
+Subsec. (b). Pub. L. 93–508, § 402(3), substituted “relating to the employment of veterans” for “relating to giving special emphasis in employment to veterans”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -275,7 +275,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 **Prescription of Regulations**
 
-Pub. L. 97–306, title III, § 310(b), Oct. 14, 1982, 96 Stat. 1442, provided that: “Within 90 days after the date of the enactment of this Act [Oct. 14, 1982], the Secretary of Labor shall prescribe regulations under subsection (d) of section 2012 [now 4212] of title 38, United States Code, as added by the amendment made by subsection (a).”
+Pub. L. 97–306, title III, § 310(b), Oct. 14, 1982, 96 Stat. 1442, provided that: “Within 90 days after the date of the enactment of this Act [Oct. 14, 1982], the Secretary of Labor shall prescribe regulations under subsection (d) of section 2012 [now 4212] of title 38, United States Code, as added by the amendment made by subsection (a).”
 
 **Executive Documents**
 
@@ -299,7 +299,7 @@ Sec. 5. Executive Order No. 11598 of June 16, 1971, is hereby superseded.
 
 Richard Nixon.
 
-## § 4213. Eligibility requirements for veterans under Federal employment and training programs
+## § 4213. Eligibility requirements for veterans under Federal employment and training programs
 
 **(a)** Amounts and periods of time specified in subsection (b) shall be disregarded in determining eligibility under any of the following:
 
@@ -325,15 +325,15 @@ Richard Nixon.
 
 **(5)** Any amount received by an eligible member under chapter 106 of title 10.
 
-(Added Pub. L. 92–540, title V, § 503(a), Oct. 24, 1972, 86 Stat. 1098, § 2013; amended Pub. L. 96–466, title VIII, § 801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, § 14(c)(10), June 13, 1991, 105 Stat. 285; renumbered § 4213, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, § 702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(29)(C), (f)(21)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 106–419, title IV, § 404(a)(9), Nov. 1, 2000, 114 Stat. 1865; Pub. L. 113–128, title V, § 512(gg)(5), July 22, 2014, 128 Stat. 1720.)
+(Added Pub. L. 92–540, title V, § 503(a), Oct. 24, 1972, 86 Stat. 1098, § 2013; amended Pub. L. 96–466, title VIII, § 801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, § 14(c)(10), June 13, 1991, 105 Stat. 285; renumbered § 4213, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, § 702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(29)(C), (f)(21)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 106–419, title IV, § 404(a)(9), Nov. 1, 2000, 114 Stat. 1865; Pub. L. 113–128, title V, § 512(gg)(5), July 22, 2014, 128 Stat. 1720.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Economic Opportunity Act of 1964, referred to in subsec. (a)(3), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (a)(3), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Amendments**
 
@@ -341,15 +341,15 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is 
 
 2000—Pub. L. 106–419 amended text generally. Prior to amendment, text read as follows: “Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program carried out under title I of the Workforce Investment Act of 1998, or any other employment or training (or related) program financed in whole or in part with Federal funds.”
 
-1998—Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(21)(C)], struck out “the Job Training Partnership Act or” after “program carried out under”.
+1998—Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(21)(C)], struck out “the Job Training Partnership Act or” after “program carried out under”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(29)(C)], substituted “program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “program assisted under the Job Training Partnership Act (29 U.S.C. 1501 et seq.),”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(29)(C)], substituted “program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “program assisted under the Job Training Partnership Act (29 U.S.C. 1501 et seq.),”.
 
-1994—Pub. L. 103–446, § 702(b)(3), substituted “eligibility under” for “the needs or qualifications of participants in”.
+1994—Pub. L. 103–446, § 702(b)(3), substituted “eligibility under” for “the needs or qualifications of participants in”.
 
-Pub. L. 103–446, § 702(b)(2), which directed insertion of “and any amounts received by an eligible person under chapter 106 of title 10,” after “chapters 13 and 35 of such title, and”, was executed by making the insertion after “chapters 13 and 35 of such title,” to reflect the probable intent of Congress.
+Pub. L. 103–446, § 702(b)(2), which directed insertion of “and any amounts received by an eligible person under chapter 106 of title 10,” after “chapters 13 and 35 of such title, and”, was executed by making the insertion after “chapters 13 and 35 of such title,” to reflect the probable intent of Congress.
 
-Pub. L. 103–446, § 702(b)(1), which directed substitution of “chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran,” for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran and”, was executed by making the substitution for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran, and” to reflect the probable intent of Congress.
+Pub. L. 103–446, § 702(b)(1), which directed substitution of “chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran,” for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran and”, was executed by making the substitution for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran, and” to reflect the probable intent of Congress.
 
 1991—Pub. L. 102–83 renumbered section 2013 of this title as this section.
 
@@ -365,7 +365,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Effective Date of 1998 Amendment**
 
-Amendment by section 101(f) [title VIII, § 405(d)(29)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(C)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(29)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(C)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1980 Amendment**
 
@@ -375,7 +375,7 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub.
 
 Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 4101 of this title.
 
-## § 4214. Employment within the Federal Government
+## § 4214. Employment within the Federal Government
 
 **(a)**
 
@@ -435,7 +435,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 **(g)** To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified covered veterans for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 6303 of this title, to serve as veterans’ representatives at certain educational institutions as provided in section 6305 of this title, or to provide readjustment counseling under section 1712A of this title.
 
-(Added Pub. L. 93–508, title IV, § 403(a), Dec. 3, 1974, 88 Stat. 1593, § 2014; amended Pub. L. 95–202, title III, § 308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, § 6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, § 510, title VIII, § 801(*l*), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, § 202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, § 211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, § 332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, § 9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered § 4214 and amended Pub. L. 102–83, §§ 2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, § 4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, § 505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, § 2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, § 402(e)(3), June 15, 2006, 120 Stat. 411.)
+(Added Pub. L. 93–508, title IV, § 403(a), Dec. 3, 1974, 88 Stat. 1593, § 2014; amended Pub. L. 95–202, title III, § 308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, § 6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, § 510, title VIII, § 801(*l*), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, § 202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, § 211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, § 332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, § 9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered § 4214 and amended Pub. L. 102–83, §§ 2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, § 4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, § 505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, § 2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, § 402(e)(3), June 15, 2006, 120 Stat. 411.)
 
 **Editorial Notes**
 
@@ -445,53 +445,53 @@ Executive Order Numbered 11521 (March 26, 1970), referred to in subsec. (b)(1), 
 
 GS–11, referred to in subsec. (b)(1)(A), is contained in the General Schedule which is set out under section 5332 of Title 5.
 
-Such Act, referred to in subsec. (c), means Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, popularly known as the Rehabilitation Act of 1973, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+Such Act, referred to in subsec. (c), means Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, popularly known as the Rehabilitation Act of 1973, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 **Amendments**
 
 2006—Subsec. (g). Pub. L. 109–233 substituted “section 6303” for “section 7722” and “section 6305” for “section 7724”.
 
-2002—Subsec. (a)(1). Pub. L. 107–288, § 2(c)(1), (3)(A)(i), substituted “life” for “life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers” in first sentence, “uniquely qualified” for “major” in second sentence, and “qualified covered veterans (as defined in paragraph (2)(B))” for “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” in third sentence.
+2002—Subsec. (a)(1). Pub. L. 107–288, § 2(c)(1), (3)(A)(i), substituted “life” for “life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers” in first sentence, “uniquely qualified” for “major” in second sentence, and “qualified covered veterans (as defined in paragraph (2)(B))” for “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” in third sentence.
 
-Subsec. (a)(2). Pub. L. 107–288, § 2(c)(3)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of this section, the term ‘agency’ means a department, agency, or instrumentality in the executive branch.”
+Subsec. (a)(2). Pub. L. 107–288, § 2(c)(3)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of this section, the term ‘agency’ means a department, agency, or instrumentality in the executive branch.”
 
-Subsec. (b)(1). Pub. L. 107–288, § 2(c)(2)(A), substituted “recruitment” for “readjustment” in introductory provisions.
+Subsec. (b)(1). Pub. L. 107–288, § 2(c)(2)(A), substituted “recruitment” for “readjustment” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 107–288, § 2(c)(2)(B), substituted “to qualified covered veterans.” for “to—” and struck out subpars. (A) and (B) which read as follows:
+Subsec. (b)(2). Pub. L. 107–288, § 2(c)(2)(B), substituted “to qualified covered veterans.” for “to—” and struck out subpars. (A) and (B) which read as follows:
 
 “(A) a veteran of the Vietnam era; and
 
 “(B) veterans who first became a member of the Armed Forces or first entered on active duty as a member of the Armed Forces after May 7, 1975, and were discharged or released from active duty under conditions other than dishonorable.”
 
-Subsec. (b)(3). Pub. L. 107–288, § 2(c)(2)(C), amended par. (3) generally, substituting present provisions for provisions limiting reception of appointment to specified time periods.
+Subsec. (b)(3). Pub. L. 107–288, § 2(c)(2)(C), amended par. (3) generally, substituting present provisions for provisions limiting reception of appointment to specified time periods.
 
-Subsec. (e)(2)(B)(i). Pub. L. 107–288, § 2(c)(3)(B), struck out “of the Vietnam era” after “veterans”.
+Subsec. (e)(2)(B)(i). Pub. L. 107–288, § 2(c)(3)(B), struck out “of the Vietnam era” after “veterans”.
 
-Subsec. (g). Pub. L. 107–288, § 2(c)(3)(C), substituted “qualified covered veterans” for “qualified special disabled veterans and qualified veterans of the Vietnam era” and “under section 1712A of this title” for “under section 1712A of this title to veterans of the Vietnam era”.
+Subsec. (g). Pub. L. 107–288, § 2(c)(3)(C), substituted “qualified covered veterans” for “qualified special disabled veterans and qualified veterans of the Vietnam era” and “under section 1712A of this title” for “under section 1712A of this title to veterans of the Vietnam era”.
 
-1992—Subsec. (b)(2)(A). Pub. L. 102–568, § 505(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a veteran of the Vietnam era who—
+1992—Subsec. (b)(2)(A). Pub. L. 102–568, § 505(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a veteran of the Vietnam era who—
 
 “(i) is entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty.; or
 
 “(ii) during such era, served on active duty in the Armed Forces in a campaign or expedition for which a campaign badge has been authorized; and”.
 
-Subsec. (b)(3)(A)(ii). Pub. L. 102–568, § 505(b)(1), substituted “1995” for “1993”.
+Subsec. (b)(3)(A)(ii). Pub. L. 102–568, § 505(b)(1), substituted “1995” for “1993”.
 
-Subsec. (b)(3)(B)(ii). Pub. L. 102–568, § 505(b)(2), substituted “December 31” for “December 18”.
+Subsec. (b)(3)(B)(ii). Pub. L. 102–568, § 505(b)(2), substituted “December 31” for “December 18”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2014 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2014 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–16, § 9(a), substituted “The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States” for “It is the policy of the United States” and “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” for “certain veterans of the Vietnam era and veterans of the post-Vietnam era”.
+Subsec. (a)(1). Pub. L. 102–16, § 9(a), substituted “The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States” for “It is the policy of the United States” and “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” for “certain veterans of the Vietnam era and veterans of the post-Vietnam era”.
 
-Subsec. (b)(1)(A). Pub. L. 102–16, § 9(b)(1)(A), substituted “up to and including the level GS–11 or its equivalent” for “up to and including the level GS–9 or its equivalent or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent”.
+Subsec. (b)(1)(A). Pub. L. 102–16, § 9(b)(1)(A), substituted “up to and including the level GS–11 or its equivalent” for “up to and including the level GS–9 or its equivalent or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent”.
 
-Subsec. (b)(1)(B) to (D). Pub. L. 102–16, § 9(b)(1)(B), added cls. (B) to (D), redesignated former cl. (D) as (E), and struck out former cls. (B) and (C) which read as follows:
+Subsec. (b)(1)(B) to (D). Pub. L. 102–16, § 9(b)(1)(B), added cls. (B) to (D), redesignated former cl. (D) as (E), and struck out former cls. (B) and (C) which read as follows:
 
 “(B) a veteran referred to in paragraph (2) of this subsection shall be eligible for such an appointment during (i) the four-year period beginning on the date of the veteran’s last discharge or release from active duty, or (ii) the two-year period beginning on the date of the enactment of the Veterans Education and Employment Amendments of 1989, whichever ends later;
 
 “(C) a veteran of the Vietnam era referred to in paragraph (2) of this subsection who is entitled to disability compensation under the laws administered by the Veterans’ Administration or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty shall be eligible for such an appointment without regard to the number of years of education completed by such veteran;”.
 
-Subsec. (b)(1)(E), (F). Pub. L. 102–16, § 9(b)(1)(C), (D), redesignated cl. (D) as (E), substituted a period for “; and” at end, and struck out former cls. (E) and (F) which read as follows:
+Subsec. (b)(1)(E), (F). Pub. L. 102–16, § 9(b)(1)(C), (D), redesignated cl. (D) as (E), substituted a period for “; and” at end, and struck out former cls. (E) and (F) which read as follows:
 
 “(E) the requirement of an educational or training program for a veteran receiving such an appointment shall not apply if the veteran has 15 years or more of education; and
 
@@ -499,79 +499,79 @@ Subsec. (b)(1)(E), (F). Pub. L. 102–16, § 9(b)(1)(C), (D), redesignated cl.
 
 Subsec. (b)(2)(A)(i). Pub. L. 102–127 substituted “is entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty.” for “has a service-connected disability”.
 
-Subsec. (b)(2)(B). Pub. L. 102–16, § 9(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “a veteran who served on active duty after the Vietnam era.”
+Subsec. (b)(2)(B). Pub. L. 102–16, § 9(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “a veteran who served on active duty after the Vietnam era.”
 
-Subsec. (b)(3). Pub. L. 102–83, § 5(c)(1), substituted “3011(a)(1)(A)(ii)(III)” for “1411(a)(1)(A)(ii)(III)” and “3018A(a)(1)” for “1418A(a)(1)” in subpar. (D).
+Subsec. (b)(3). Pub. L. 102–83, § 5(c)(1), substituted “3011(a)(1)(A)(ii)(III)” for “1411(a)(1)(A)(ii)(III)” and “3018A(a)(1)” for “1418A(a)(1)” in subpar. (D).
 
-Pub. L. 102–16, § 9(b)(2), added par. (3) and struck out former par. (3) which read as follows: “For purposes of paragraph (1)(B)(i) of this subsection, the last discharge or release from a period of active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 1411(a)(1)(A)(ii)(III) of this title.”
+Pub. L. 102–16, § 9(b)(2), added par. (3) and struck out former par. (3) which read as follows: “For purposes of paragraph (1)(B)(i) of this subsection, the last discharge or release from a period of active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 1411(a)(1)(A)(ii)(III) of this title.”
 
-Subsec. (b)(4). Pub. L. 102–16, § 9(b)(2), struck out par. (4) which read as follows: “No veterans readjustment appointment may be made under authority of this subsection after December 31, 1993.”
+Subsec. (b)(4). Pub. L. 102–16, § 9(b)(2), struck out par. (4) which read as follows: “No veterans readjustment appointment may be made under authority of this subsection after December 31, 1993.”
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “with the”.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “with the”.
 
-Subsec. (e)(2)(B). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Subsec. (e)(2)(B). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “4211” for “2011”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “4211” for “2011”.
 
-Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “1712A” for “612A”.
+Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “1712A” for “612A”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–83, § 2(c)(5), substituted “7722” for “241” and “7724” for “243”.
+Pub. L. 102–83, § 2(c)(5), substituted “7722” for “241” and “7724” for “243”.
 
-1989—Subsec. (a)(1). Pub. L. 101–237, § 407(b)(1), substituted “certain veterans of the Vietnam era and veterans of the post-Vietnam era who are qualified for such employment and advancement” for “qualified disabled veterans and veterans of the Vietnam era”.
+1989—Subsec. (a)(1). Pub. L. 101–237, § 407(b)(1), substituted “certain veterans of the Vietnam era and veterans of the post-Vietnam era who are qualified for such employment and advancement” for “qualified disabled veterans and veterans of the Vietnam era”.
 
-Subsec. (b)(1). Pub. L. 101–237, § 407(b)(2)(A)(i), substituted “veterans referred to in paragraph (2) of this subsection” for “veterans of the Vietnam era”.
+Subsec. (b)(1). Pub. L. 101–237, § 407(b)(2)(A)(i), substituted “veterans referred to in paragraph (2) of this subsection” for “veterans of the Vietnam era”.
 
-Subsec. (b)(1)(A). Pub. L. 101–237, § 407(b)(2)(A)(ii), inserted before semicolon at end “or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent”.
+Subsec. (b)(1)(A). Pub. L. 101–237, § 407(b)(2)(A)(ii), inserted before semicolon at end “or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent”.
 
-Subsec. (b)(1)(B). Pub. L. 101–237, § 407(b)(2)(A)(iii), added cl. (B) and struck out former cl. (B) which read as follows: “a veteran of the Vietnam era shall be eligible for such an appointment without any time limitation with respect to eligibility for such an appointment;”.
+Subsec. (b)(1)(B). Pub. L. 101–237, § 407(b)(2)(A)(iii), added cl. (B) and struck out former cl. (B) which read as follows: “a veteran of the Vietnam era shall be eligible for such an appointment without any time limitation with respect to eligibility for such an appointment;”.
 
-Subsec. (b)(1)(C). Pub. L. 101–237, § 407(b)(2)(A)(iv), inserted “referred to in paragraph (2) of this subsection” after “a veteran of the Vietnam era”.
+Subsec. (b)(1)(C). Pub. L. 101–237, § 407(b)(2)(A)(iv), inserted “referred to in paragraph (2) of this subsection” after “a veteran of the Vietnam era”.
 
-Subsec. (b)(1)(E), (F). Pub. L. 101–237, § 407(b)(2)(A)(v)–(vii), added subpars. (E) and (F).
+Subsec. (b)(1)(E), (F). Pub. L. 101–237, § 407(b)(2)(A)(v)–(vii), added subpars. (E) and (F).
 
-Subsec. (b)(2), (3). Pub. L. 101–237, § 407(b)(2)(B), added pars. (2) and (3). Former par. (2) redesignated (4).
+Subsec. (b)(2), (3). Pub. L. 101–237, § 407(b)(2)(B), added pars. (2) and (3). Former par. (2) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 101–237, § 407(a)(1), redesignated former par. (2) as (4) and substituted “1993” for “1989”.
+Subsec. (b)(4). Pub. L. 101–237, § 407(a)(1), redesignated former par. (2) as (4) and substituted “1993” for “1989”.
 
 1986—Subsec. (b)(2). Pub. L. 99–576 substituted “December 31, 1989” for “September 30, 1986”.
 
-1984—Subsec. (a). Pub. L. 98–543, § 211(a), designated existing provisions as par. (1) and added par. (2).
+1984—Subsec. (a). Pub. L. 98–543, § 211(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1)(A), (D). Pub. L. 98–543, § 211(b)(1), substituted “GS–9” for “GS–7” in subpar. (A) and added subpar. (D).
+Subsec. (b)(1)(A), (D). Pub. L. 98–543, § 211(b)(1), substituted “GS–9” for “GS–7” in subpar. (A) and added subpar. (D).
 
-Subsec. (b)(2). Pub. L. 98–543, § 211(b)(2), substituted “September 30, 1986” for “September 30, 1984”.
+Subsec. (b)(2). Pub. L. 98–543, § 211(b)(2), substituted “September 30, 1986” for “September 30, 1984”.
 
-Subsec. (c). Pub. L. 98–543, § 211(c), substituted “agency” for “department, agency, and instrumentality in the executive branch” and “such agency” for “such department, agency, or instrumentality”.
+Subsec. (c). Pub. L. 98–543, § 211(c), substituted “agency” for “department, agency, and instrumentality in the executive branch” and “such agency” for “such department, agency, or instrumentality”.
 
-Subsec. (d). Pub. L. 98–543, § 211(d), substituted “annual” for “semiannual” in second sentence and struck out provisions listing information to be included in the report.
+Subsec. (d). Pub. L. 98–543, § 211(d), substituted “annual” for “semiannual” in second sentence and struck out provisions listing information to be included in the report.
 
-Subsec. (e). Pub. L. 98–543, § 211(d), substituted provisions listing information to be included with respect to each agency and setting forth to whom the information shall be shown for provisions which set forth reporting requirements regarding the employment of the handicapped.
+Subsec. (e). Pub. L. 98–543, § 211(d), substituted provisions listing information to be included with respect to each agency and setting forth to whom the information shall be shown for provisions which set forth reporting requirements regarding the employment of the handicapped.
 
 1982—Subsec. (c). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 1981—Subsec. (b)(2). Pub. L. 97–72 substituted “September 30, 1984” for “September 30, 1981”.
 
-1980—Subsec. (b)(1). Pub. L. 96–466, § 801(*l*)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1980—Subsec. (b)(1). Pub. L. 96–466, § 801(*l*)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (b)(2), (3). Pub. L. 96–466, § 801(*l*)(2), redesignated par. (3) as (2). Former par. (2), which provided that in this subsection “veteran of the Vietnam era” had the meaning given such term in section 2011(2)(A) of this title, was struck out.
+Subsec. (b)(2), (3). Pub. L. 96–466, § 801(*l*)(2), redesignated par. (3) as (2). Former par. (2), which provided that in this subsection “veteran of the Vietnam era” had the meaning given such term in section 2011(2)(A) of this title, was struck out.
 
-Subsec. (c). Pub. L. 96–466, § 801(*l*)(1), (3), substituted “the Rehabilitation Act of 1973 (29 U.S.C. 791(b))” for “Public Law 93–112 (87 Stat. 391)” and “Office of Personnel Management” for “Civil Service Commission”.
+Subsec. (c). Pub. L. 96–466, § 801(*l*)(1), (3), substituted “the Rehabilitation Act of 1973 (29 U.S.C. 791(b))” for “Public Law 93–112 (87 Stat. 391)” and “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (d). Pub. L. 96–466, § 801(*l*)(1), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+Subsec. (d). Pub. L. 96–466, § 801(*l*)(1), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-Subsec. (e). Pub. L. 96–466, § 801(*l*)(1), (4), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, and “the Rehabilitation Act of 1973 (29 U.S.C. 791(d))” for “such Public Law 93–112”.
+Subsec. (e). Pub. L. 96–466, § 801(*l*)(1), (4), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, and “the Rehabilitation Act of 1973 (29 U.S.C. 791(d))” for “such Public Law 93–112”.
 
-Subsec. (g). Pub. L. 96–466, § 510, added subsec. (g).
+Subsec. (g). Pub. L. 96–466, § 510, added subsec. (g).
 
-1978—Subsec. (b). Pub. L. 95–520, § 6(b)(1), incorporated part of existing text in provisions designated par. (1), designated part of existing provision as item (A), increasing appointments to level GS–7 from GS–5, added items (B) and (C) and par. (2), designated part of existing text as par. (3), substituting Sept. 30, 1981, for June 30, 1978, as cut off date for veterans readjustment appointments, and struck out provisions: that in applying the one-year period of eligibility specified in section 2(a) of Ex. Ord. No. 11521 to a veteran or disabled veteran who enrolled, within one year following separation from the Armed Forces or following release from hospitalization or treatment following such separation in a program of education on more than a half-time basis, the time spent in such program of education was not to be counted; that the eligibility of the veteran for a readjustment appointment was to continue for not less than six months after the veteran first ceased to be enrolled therein on more than a half-time basis; and that directed the Chairman of the Civil Service Commission to report on the need for the continuation after June 30, 1978, of the authority for veterans readjustment appointments contained in subsec. (b), with the report to be submitted to the President and Congress not later than six months after enactment of the GI Bill Improvement Act of 1977 on Nov. 23, 1977.
+1978—Subsec. (b). Pub. L. 95–520, § 6(b)(1), incorporated part of existing text in provisions designated par. (1), designated part of existing provision as item (A), increasing appointments to level GS–7 from GS–5, added items (B) and (C) and par. (2), designated part of existing text as par. (3), substituting Sept. 30, 1981, for June 30, 1978, as cut off date for veterans readjustment appointments, and struck out provisions: that in applying the one-year period of eligibility specified in section 2(a) of Ex. Ord. No. 11521 to a veteran or disabled veteran who enrolled, within one year following separation from the Armed Forces or following release from hospitalization or treatment following such separation in a program of education on more than a half-time basis, the time spent in such program of education was not to be counted; that the eligibility of the veteran for a readjustment appointment was to continue for not less than six months after the veteran first ceased to be enrolled therein on more than a half-time basis; and that directed the Chairman of the Civil Service Commission to report on the need for the continuation after June 30, 1978, of the authority for veterans readjustment appointments contained in subsec. (b), with the report to be submitted to the President and Congress not later than six months after enactment of the GI Bill Improvement Act of 1977 on Nov. 23, 1977.
 
-Subsec. (d). Pub. L. 95–520, § 6(b)(2), substituted in second sentence “subsection (c) of this section” for “subsection (c) thereof” and inserted requirement that reports include certain prescribed information.
+Subsec. (d). Pub. L. 95–520, § 6(b)(2), substituted in second sentence “subsection (c) of this section” for “subsection (c) thereof” and inserted requirement that reports include certain prescribed information.
 
-Subsec. (f). Pub. L. 95–520, § 6(b)(3), substituted “as used in subsection (a) of this section” for “as used in this section”.
+Subsec. (f). Pub. L. 95–520, § 6(b)(3), substituted “as used in subsection (a) of this section” for “as used in this section”.
 
 1977—Subsec. (b). Pub. L. 95–202 inserted provision directing Chairman of Civil Service Commission to report on need for continuation after June 30, 1978, of authority for veterans readjustment appointments contained in subsec. (b), with the report to be submitted to President and Congress not later than six months after enactment of GI Bill Improvement Act of 1977.
 
@@ -579,15 +579,15 @@ Subsec. (f). Pub. L. 95–520, § 6(b)(3), substituted “as used in subsectio
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–288, § 2(c)(4), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection [amending this section] shall apply to qualified covered veterans without regard to any limitation relating to the date of the veteran’s last discharge or release from active duty that may have otherwise applied under section 4214(b)(3) as in effect on the date before the date of the enactment of this Act [Nov. 7, 2002].”
+Pub. L. 107–288, § 2(c)(4), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection [amending this section] shall apply to qualified covered veterans without regard to any limitation relating to the date of the veteran’s last discharge or release from active duty that may have otherwise applied under section 4214(b)(3) as in effect on the date before the date of the enactment of this Act [Nov. 7, 2002].”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–16, § 9(d), Mar. 22, 1991, 105 Stat. 55, as amended by Pub. L. 102–86, title V, § 506(c), Aug. 14, 1991, 105 Stat. 426; Pub. L. 103–353, § 6(a), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendments made by this section [amending this section] shall apply only to appointments made after the date of the enactment of this Act [Mar. 22, 1991].”
+Pub. L. 102–16, § 9(d), Mar. 22, 1991, 105 Stat. 55, as amended by Pub. L. 102–86, title V, § 506(c), Aug. 14, 1991, 105 Stat. 426; Pub. L. 103–353, § 6(a), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendments made by this section [amending this section] shall apply only to appointments made after the date of the enactment of this Act [Mar. 22, 1991].”
 
-[Pub. L. 103–353, § 6(b), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendment made by subsection (a) [amending section 9(d) of Pub. L. 102–16, set out above] shall take effect as if included in Public Law 102–16 to which such amendment relates.” ]
+[Pub. L. 103–353, § 6(b), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendment made by subsection (a) [amending section 9(d) of Pub. L. 102–16, set out above] shall take effect as if included in Public Law 102–16 to which such amendment relates.” ]
 
-[Pub. L. 102–86, title V, § 506(c), Aug. 14, 1991, 105 Stat. 426, provided that the amendment made by that section to section 9(d) of Pub. L. 102–16, set out above, is effective as of Mar. 22, 1991.]
+[Pub. L. 102–86, title V, § 506(c), Aug. 14, 1991, 105 Stat. 426, provided that the amendment made by that section to section 9(d) of Pub. L. 102–16, set out above, is effective as of Mar. 22, 1991.]
 
 **Effective Date of 1989 Amendment**
 
@@ -595,7 +595,7 @@ Amendment by Pub. L. 101–237 effective Jan. 1, 1990, see section 407(c) of Pub
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–72, title II, § 202(b), Nov. 3, 1981, 95 Stat. 1054, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1981.”
+Pub. L. 97–72, title II, § 202(b), Nov. 3, 1981, 95 Stat. 1054, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1981.”
 
 **Effective Date of 1980 Amendment**
 
@@ -617,7 +617,7 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (e) 
 
 **Warrior Training Advancement Course**
 
-Pub. L. 118–210, title II, § 223(a), (b), Jan. 2, 2025, 138 Stat. 2780, 2781, provided that:
+Pub. L. 118–210, title II, § 223(a), (b), Jan. 2, 2025, 138 Stat. 2780, 2781, provided that:
 
 > **“(a) Reports Required.—**
 
@@ -669,7 +669,7 @@ Pub. L. 118–210, title II, § 223(a), (b), Jan. 2, 2025, 138 Stat. 2780, 278
 
 **Employment Assistance: Other Federal Agencies**
 
-Pub. L. 112–56, title II, § 235(b), Nov. 21, 2011, 125 Stat. 724, provided that:
+Pub. L. 112–56, title II, § 235(b), Nov. 21, 2011, 125 Stat. 724, provided that:
 
 > **“(1) Definitions.—** In this subsection—
 
@@ -695,9 +695,9 @@ Pub. L. 112–56, title II, § 235(b), Nov. 21, 2011, 125 Stat. 724, provided 
 
 **Contents of Reports on Veterans’ Readjustment Appointments**
 
-Pub. L. 95–454, title III, § 307(b)(2), Oct. 13, 1978, 92 Stat. 1147, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The Director of the Office of Personnel Management shall include in the reports required by section 4214(d) [formerly 2014(d)] of title 38, United States Code, the same type of information regarding the use of the authority provided in section 3112 of title 5, United States Code (as added by paragraph (1) of this subsection), as is required by such section 4214 with respect to the use of the authority to make veterans readjustment appointments.”
+Pub. L. 95–454, title III, § 307(b)(2), Oct. 13, 1978, 92 Stat. 1147, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The Director of the Office of Personnel Management shall include in the reports required by section 4214(d) [formerly 2014(d)] of title 38, United States Code, the same type of information regarding the use of the authority provided in section 3112 of title 5, United States Code (as added by paragraph (1) of this subsection), as is required by such section 4214 with respect to the use of the authority to make veterans readjustment appointments.”
 
-## § 4215. Priority of service for veterans in Department of Labor job training programs
+## § 4215. Priority of service for veterans in Department of Labor job training programs
 
 **(a) Definitions.—** In this section:
 
@@ -721,7 +721,7 @@ Pub. L. 95–454, title III, § 307(b)(2), Oct. 13, 1978, 92 Stat. 1147, as am
 
 **(B)** Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
 
@@ -753,26 +753,26 @@ a demonstration or other temporary program, and those programs implemented by St
 
 **(2)** The Secretary may not use the proportion of representation of veterans described in subparagraph (B) of paragraph (1) as the basis for determining under such paragraph whether veterans are receiving priority of service and are being fully served by qualified job training programs.
 
-(Added Pub. L. 107–288, § 2(a)(1), Nov. 7, 2002, 116 Stat. 2033; amended Pub. L. 112–56, title II, § 239, Nov. 21, 2011, 125 Stat. 727.)
+(Added Pub. L. 107–288, § 2(a)(1), Nov. 7, 2002, 116 Stat. 2033; amended Pub. L. 112–56, title II, § 239, Nov. 21, 2011, 125 Stat. 727.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2011—Subsec. (a)(3). Pub. L. 112–56, § 239(1), inserted at end “Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.”
+2011—Subsec. (a)(3). Pub. L. 112–56, § 239(1), inserted at end “Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.”
 
-Subsec. (d). Pub. L. 112–56, § 239(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs, and whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any.”
+Subsec. (d). Pub. L. 112–56, § 239(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs, and whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Department of Labor Implementation of Regulations for Priority of Service**
 
-Pub. L. 109–461, title VI, § 605, Dec. 22, 2006, 120 Stat. 3439, provided that: “Not later than two years after the date of the enactment of this Act [Dec. 22, 2006], the Secretary of Labor shall prescribe regulations to implement section 4215 of title 38, United States Code.”
+Pub. L. 109–461, title VI, § 605, Dec. 22, 2006, 120 Stat. 3439, provided that: “Not later than two years after the date of the enactment of this Act [Dec. 22, 2006], the Secretary of Labor shall prescribe regulations to implement section 4215 of title 38, United States Code.”
 
 **Requirement To Promptly Establish One-Stop Employment Services**
 
-Pub. L. 107–288, § 4(c), Nov. 7, 2002, 116 Stat. 2044, provided that: “By not later than 18 months after the date of the enactment of this Act [Nov. 7, 2002], the Secretary of Labor shall provide one-stop services and assistance to covered persons electronically by means of the Internet, as defined in section 231(e)(3) of the Communications Act of 1934 [47 U.S.C. 231(e)(3)], and such other electronic means to enhance the delivery of such services and assistance.”
+Pub. L. 107–288, § 4(c), Nov. 7, 2002, 116 Stat. 2044, provided that: “By not later than 18 months after the date of the enactment of this Act [Nov. 7, 2002], the Secretary of Labor shall provide one-stop services and assistance to covered persons electronically by means of the Internet, as defined in section 231(e)(3) of the Communications Act of 1934 [47 U.S.C. 231(e)(3)], and such other electronic means to enhance the delivery of such services and assistance.”

@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
-## § 101. Definitions
+## § 101. Definitions
 
 In addition to the definitions in sections 1–5 of title 1, the following definitions apply in this title:
 
@@ -125,9 +125,9 @@ and includes those duties when performed by members of a reserve component in th
 
 **(G)** the Coast Guard Reserve; or
 
-**(H)** the Reserve Corps 1
+**(H)** the Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service.
 
@@ -139,14 +139,14 @@ of the Public Health Service.
 
 **(28)** The term “sustained duty” has the meaning given that term in section 101 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, § 49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, § 3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, § 3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, § 1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§ 506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, § 11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, § 3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, § 414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, § 8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, § 1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, § 631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, § 1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, § 1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, § 603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 105–261, div. A, title VI, § 651, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–107, div. A, title VI, § 603(b), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, § 654(a), Dec. 2, 2002, 116 Stat. 2581; Pub. L. 109–163, div. A, title V, § 515(d)(1)(A), Jan. 6, 2006, 119 Stat. 3235; Pub. L. 116–283, div. A, title IX, § 925(a), Jan. 1, 2021, 134 Stat. 3826; Pub. L. 119–60, div. A, title VI, § 601(a), Dec. 18, 2025, 139 Stat. 901.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, § 49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, § 3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, § 3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, § 1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§ 506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, § 11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, § 3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, § 414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, § 8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, § 1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, § 631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, § 1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, § 1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, § 603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 105–261, div. A, title VI, § 651, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–107, div. A, title VI, § 603(b), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, § 654(a), Dec. 2, 2002, 116 Stat. 2581; Pub. L. 109–163, div. A, title V, § 515(d)(1)(A), Jan. 6, 2006, 119 Stat. 3235; Pub. L. 116–283, div. A, title IX, § 925(a), Jan. 1, 2021, 134 Stat. 3826; Pub. L. 119–60, div. A, title VI, § 601(a), Dec. 18, 2025, 139 Stat. 901.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 101(1) 101(2) 101(3) 101(4) | [No source.] [No source.] 37:231(a), (j). 37:32(a). 37:231(k). | Aug. 9, 1946, ch. 931, § 2 (less (b), (c), (d), (e), (f) (less last 8 words), (g), and (h)), 60 Stat. 963. |
-| 101(5) | 37:32(f) (less last 8 words). 37:231(f). | Oct. 12, 1949, ch. 681, § 102 (less (g)), 63 Stat. 804. |
+| 101(1) 101(2) 101(3) 101(4) | [No source.] [No source.] 37:231(a), (j). 37:32(a). 37:231(k). | Aug. 9, 1946, ch. 931, § 2 (less (b), (c), (d), (e), (f) (less last 8 words), (g), and (h)), 60 Stat. 963. |
+| 101(5) | 37:32(f) (less last 8 words). 37:231(f). | Oct. 12, 1949, ch. 681, § 102 (less (g)), 63 Stat. 804. |
 | 101(6) | [No source.] |  |
 | 101(7) | [No source.] |  |
 | 101(8) | [No source.] |  |
@@ -191,13 +191,13 @@ For definition of Canal Zone, referred to in pars. (7) and (9), see section 3602
 
 **Amendments**
 
-2025—Par. (22)(A), (B). Pub. L. 119–60, § 601(a)(1), inserted “, or for members of the Space Force in space force active status not on sustained duty,” after “reserve component”.
+2025—Par. (22)(A), (B). Pub. L. 119–60, § 601(a)(1), inserted “, or for members of the Space Force in space force active status not on sustained duty,” after “reserve component”.
 
-Pars. (27), (28). Pub. L. 119–60, § 601(a)(2), added pars. (27) and (28).
+Pars. (27), (28). Pub. L. 119–60, § 601(a)(2), added pars. (27) and (28).
 
-2021—Pars. (3), (4). Pub. L. 116–283, § 925(a)(1), inserted “Space Force,” after “Marine Corps,”.
+2021—Pars. (3), (4). Pub. L. 116–283, § 925(a)(1), inserted “Space Force,” after “Marine Corps,”.
 
-Par. (5)(C). Pub. L. 116–283, § 925(a)(2), which directed insertion of “and the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” the second place appearing, to reflect the probable intent of Congress.
+Par. (5)(C). Pub. L. 116–283, § 925(a)(2), which directed insertion of “and the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” the second place appearing, to reflect the probable intent of Congress.
 
 2006—Par. (24)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
@@ -219,23 +219,23 @@ Par. (5)(D). Pub. L. 107–296 substituted “of Homeland Security” for “of 
 
 1988—Par. (5). Pub. L. 100–456 substituted “Secretary” for “secretary” in introductory provisions.
 
-1987—Pub. L. 100–26, § 8(e)(1)(A), substituted “the following definitions apply in this title:” for “for the purposes of this title—”.
+1987—Pub. L. 100–26, § 8(e)(1)(A), substituted “the following definitions apply in this title:” for “for the purposes of this title—”.
 
-Pub. L. 100–26, § 8(e)(1)(B), inserted “The term” at beginning of pars. (1) to (25).
+Pub. L. 100–26, § 8(e)(1)(B), inserted “The term” at beginning of pars. (1) to (25).
 
-Pub. L. 100–26, § 8(e)(1)(C), which directed that this section be amended by revising first word after open quotation marks in each paragraph (other than par. (1) and (6) through (10)) so that initial letter of such word is lowercase, was executed to par. (5) only because specified words in other pars. began with lowercase letters.
+Pub. L. 100–26, § 8(e)(1)(C), which directed that this section be amended by revising first word after open quotation marks in each paragraph (other than par. (1) and (6) through (10)) so that initial letter of such word is lowercase, was executed to par. (5) only because specified words in other pars. began with lowercase letters.
 
-Pub. L. 100–26, § 8(e)(1)(D), (E), which directed a period be substituted for the semicolon at end of pars. (1) to (24) and that “and” be struck out at end of par. (24), was executed by making the substitution in pars. (1) to (23) and by striking “and” at end of par. (23), to reflect the probable intent of Congress, because par. (24) already ended in a period and “and” appeared at end of par. (23), not par. (24).
+Pub. L. 100–26, § 8(e)(1)(D), (E), which directed a period be substituted for the semicolon at end of pars. (1) to (24) and that “and” be struck out at end of par. (24), was executed by making the substitution in pars. (1) to (23) and by striking “and” at end of par. (23), to reflect the probable intent of Congress, because par. (24) already ended in a period and “and” appeared at end of par. (23), not par. (24).
 
 1984—Cl. (18). Pub. L. 98–525 inserted “full-time National Guard duty,” after “annual training duty,”.
 
-1980—Cls. (3), (5)(E). Pub. L. 96–513, § 516(1)(A), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+1980—Cls. (3), (5)(E). Pub. L. 96–513, § 516(1)(A), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
 
-Cl. (5)(F). Pub. L. 96–513, § 516(1)(B), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Cl. (5)(F). Pub. L. 96–513, § 516(1)(B), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 Cls. (7), (9). Pub. L. 96–600 inserted references to Guam.
 
-Cl. (18). Pub. L. 96–513, § 506(1), struck out “duty on the active list,” after “and includes”.
+Cl. (18). Pub. L. 96–513, § 506(1), struck out “duty on the active list,” after “and includes”.
 
 Cl. (25). Pub. L. 96–579 defined “regular compensation” or “regular military compensation (RMC)” to include with respect to basic allowance for quarters any variable housing allowance or station housing allowance.
 
@@ -275,29 +275,29 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–60, § 1, Oct. 14, 1981, 95 Stat. 989, provided: “That this Act [enacting sections 308f, 315, 404a, 411c, 411d, and 411e of this title and sections 4341a and 9341a of Title 10, Armed Forces, amending sections 203, 301, 301a, 301b, 301c, 304, 305a, 308, 308a, 312b, 404, 405a, 406, 407, 411, 411b, 415, and 1006 of this title, sections 2107, 2634, 4342, 5031, 5153, 6011, 6953, 6954, 6956, 7572, and 9342 of Title 10, and section 3809 of Title 50, War and National Defense, enacting provisions set out as notes under sections 203, 301, 301a, 308, 312, 404, 404a, and 1009 of this title and sections 4341a, 6011, and 7572 of Title 10, and amending a provision set out as a note under section 7572 of Title 10] may be cited as the ‘Uniformed Services Pay Act of 1981’.”
+Pub. L. 97–60, § 1, Oct. 14, 1981, 95 Stat. 989, provided: “That this Act [enacting sections 308f, 315, 404a, 411c, 411d, and 411e of this title and sections 4341a and 9341a of Title 10, Armed Forces, amending sections 203, 301, 301a, 301b, 301c, 304, 305a, 308, 308a, 312b, 404, 405a, 406, 407, 411, 411b, 415, and 1006 of this title, sections 2107, 2634, 4342, 5031, 5153, 6011, 6953, 6954, 6956, 7572, and 9342 of Title 10, and section 3809 of Title 50, War and National Defense, enacting provisions set out as notes under sections 203, 301, 301a, 308, 312, 404, 404a, and 1009 of this title and sections 4341a, 6011, and 7572 of Title 10, and amending a provision set out as a note under section 7572 of Title 10] may be cited as the ‘Uniformed Services Pay Act of 1981’.”
 
 **Short Title of 1980 Amendments**
 
-Pub. L. 96–579, § 1, Dec. 23, 1980, 94 Stat. 3359, provided that: “This Act [enacting sections 301c and 314 of this title and section 705 of Title 10, Armed Forces, amending this section, sections 209, 301, 305a, 308, 312, 312b, 312c, and 403 of this title, sections 520, 701, 867, 4355, 6968, and 9355 of Title 10, and section 308(9), (10) of Pub. L. 95–521, title III, Oct. 26, 1978, 92 Stat. 1861, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 301c, 305a, 312, 312b, 312c, 314, and 403 of this title and sections 705 and 867 of Title 10] may be cited as the ‘Military Pay and Allowances Benefits Act of 1980’.”
+Pub. L. 96–579, § 1, Dec. 23, 1980, 94 Stat. 3359, provided that: “This Act [enacting sections 301c and 314 of this title and section 705 of Title 10, Armed Forces, amending this section, sections 209, 301, 305a, 308, 312, 312b, 312c, and 403 of this title, sections 520, 701, 867, 4355, 6968, and 9355 of Title 10, and section 308(9), (10) of Pub. L. 95–521, title III, Oct. 26, 1978, 92 Stat. 1861, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 301c, 305a, 312, 312b, 312c, 314, and 403 of this title and sections 705 and 867 of Title 10] may be cited as the ‘Military Pay and Allowances Benefits Act of 1980’.”
 
-Pub. L. 96–343, § 1, Sept. 8, 1980, 94 Stat. 1123, provided that: “This Act [enacting section 5142a of Title 10, Armed Forces, amending sections 203, 301, 301a, 305a, 403, 404, 411, 907, and 1006 of this title and sections 1201, 1203, 3914, 3925, 3962, 5142, 5703, 5787c, 5787d, 8072, 8914, 8925, and 8962 of Title 10, enacting provisions set out as notes under sections 301, 305a, 402, 403, 404, and 907 of this title and sections 3914 and 3962 of Title 10, and amending provisions set out as notes under sections 5707 and 8202 of Title 10] may be cited as the ‘Military Personnel and Compensation Amendments of 1980’.”
+Pub. L. 96–343, § 1, Sept. 8, 1980, 94 Stat. 1123, provided that: “This Act [enacting section 5142a of Title 10, Armed Forces, amending sections 203, 301, 301a, 305a, 403, 404, 411, 907, and 1006 of this title and sections 1201, 1203, 3914, 3925, 3962, 5142, 5703, 5787c, 5787d, 8072, 8914, 8925, and 8962 of Title 10, enacting provisions set out as notes under sections 301, 305a, 402, 403, 404, and 907 of this title and sections 3914 and 3962 of Title 10, and amending provisions set out as notes under sections 5707 and 8202 of Title 10] may be cited as the ‘Military Personnel and Compensation Amendments of 1980’.”
 
-Pub. L. 96–284, § 1, June 28, 1980, 94 Stat. 587, provided that: “This Act [enacting sections 302c and 303a of this title, amending sections 302 to 302b, 303, 306, 311, and 313 of this title, and enacting and repealing provisions set out as notes under section 302 of this title] may be cited as the ‘Uniformed Services Health Professionals Special Pay Act of 1980’.”
+Pub. L. 96–284, § 1, June 28, 1980, 94 Stat. 587, provided that: “This Act [enacting sections 302c and 303a of this title, amending sections 302 to 302b, 303, 306, 311, and 313 of this title, and enacting and repealing provisions set out as notes under section 302 of this title] may be cited as the ‘Uniformed Services Health Professionals Special Pay Act of 1980’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–356, § 1, July 12, 1976, 90 Stat. 901, provided: “That this Act [enacting sections 312b and 312c of this title, amending section 312 of this title, and enacting provisions set out as notes under sections 301 and 312 of this title] may be cited as the ‘Nuclear Career Incentive Act of 1975’.”
+Pub. L. 94–356, § 1, July 12, 1976, 90 Stat. 901, provided: “That this Act [enacting sections 312b and 312c of this title, amending section 312 of this title, and enacting provisions set out as notes under sections 301 and 312 of this title] may be cited as the ‘Nuclear Career Incentive Act of 1975’.”
 
 **Short Title of 1974 Amendments**
 
-Pub. L. 93–294, § 1, May 31, 1974, 88 Stat. 177, provided: “That this Act [amending section 301 of this title, enacting section 301a of this title, and enacting provisions set out as notes under section 301a of this title] may be cited as the ‘Aviation Career Incentive Act of 1974’.”
+Pub. L. 93–294, § 1, May 31, 1974, 88 Stat. 177, provided: “That this Act [amending section 301 of this title, enacting section 301a of this title, and enacting provisions set out as notes under section 301a of this title] may be cited as the ‘Aviation Career Incentive Act of 1974’.”
 
-Pub. L. 93–277, § 1, May 10, 1974, 88 Stat. 119, provided: “That this Act [amending sections 308 and 308a of this title and enacting provisions set out as notes under section 308 of this title] may be cited as the ‘Armed Forces Enlisted Personnel Bonus Revision Act of 1974’.”
+Pub. L. 93–277, § 1, May 10, 1974, 88 Stat. 119, provided: “That this Act [amending sections 308 and 308a of this title and enacting provisions set out as notes under section 308 of this title] may be cited as the ‘Armed Forces Enlisted Personnel Bonus Revision Act of 1974’.”
 
 **Short Title of 1963 Amendment**
 
-Pub. L. 88–132, § 1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act [enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
+Pub. L. 88–132, § 1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act [enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
 
 **Transfer of Functions**
 

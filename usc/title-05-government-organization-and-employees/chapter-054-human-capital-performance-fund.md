@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 54, consisting of sections 5401 to 5410, related to performance management and recognition system, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior chapter 54, consisting of sections 5401 to 5410, related to performance management and recognition system, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Treatment of Employees Covered by Performance Management and Recognition System as of Termination Date**
 
-Pub. L. 103–89, § 4, Sept. 30, 1993, 107 Stat. 983, provided that:
+Pub. L. 103–89, § 4, Sept. 30, 1993, 107 Stat. 983, provided that:
 
 > **“(a) Definitions.—** For purposes of this section—
 
@@ -37,7 +37,7 @@ Pub. L. 103–89, § 4, Sept. 30, 1993, 107 Stat. 983, provided that:
 
 > **“(4)** the term ‘pay rate’, as used in clauses (iii) through (v) of subsection (c)(2)(B), is used in the same way as such term is used under section 5335(a) of title 5, United States Code; and
 
-> **“(5)** the term ‘FEPCA’ means the Federal Employees Pay Comparability Act of 1990 [section 529 [§§ 1–412] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note set out under section 5301 of this title] (contained in the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509; 104 Stat. 1427)).
+> **“(5)** the term ‘FEPCA’ means the Federal Employees Pay Comparability Act of 1990 [section 529 [§§ 1–412] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note set out under section 5301 of this title] (contained in the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509; 104 Stat. 1427)).
 
 > **“(b) Applicability.—** Notwithstanding section 5332(a)(1) of title 5, United States Code (as amended by section 3(b)(1)(F)), or any other provision of law, the rate of basic pay for an employee covered by the performance management and recognition system on October 31, 1993, shall be determined in accordance with this section so long as such employee continues, without a break in service of more than 3 days, to occupy any position—
 
@@ -75,19 +75,19 @@ Pub. L. 103–89, § 4, Sept. 30, 1993, 107 Stat. 983, provided that:
 
 > **“(d) Regulations.—** The Office of Personnel Management shall prescribe any regulations which may be necessary for the administration of this section.”
 
-## § 5401. Purpose
+## § 5401. Purpose
 
 The purpose of this chapter is to promote, through the creation of a Human Capital Performance Fund, greater performance in the Federal Government. Monies from the Fund will be used to reward agencies’ highest performing and most valuable employees. This Fund will offer Federal managers a new tool to recognize employee performance that is critical to the achievement of agency missions.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1642.)
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1642.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5401, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1180; amended Pub. L. 97–346, § 2, Oct. 15, 1982, 96 Stat. 1647; Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3208; Pub. L. 102–378, § 2(37), Oct. 2, 1992, 106 Stat. 1351, stated purpose of chapter to provide a performance management and recognition system, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior section 5401, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1180; amended Pub. L. 97–346, § 2, Oct. 15, 1982, 96 Stat. 1647; Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3208; Pub. L. 102–378, § 2(37), Oct. 2, 1992, 106 Stat. 1351, stated purpose of chapter to provide a performance management and recognition system, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
-## § 5402. Definitions
+## § 5402. Definitions
 
 For the purpose of this chapter—
 
@@ -117,19 +117,19 @@ but does not include—
 
 **(3)** “Office” means the Office of Personnel Management.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1642; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1642; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5402, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1181; amended Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3208, related to applicability of chapter, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior section 5402, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1181; amended Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3208, related to applicability of chapter, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
 **Amendments**
 
 2004—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-## § 5403. Human Capital Performance Fund
+## § 5403. Human Capital Performance Fund
 
 **(a)** There is hereby established the Human Capital Performance Fund, to be administered by the Office for the purpose of this chapter.
 
@@ -153,15 +153,15 @@ A prior section 5402, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 
 
 **(2)** Each agency is required to provide to the Office such payroll information as the Office specifies necessary to determine the Executive branch payroll.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1642.)
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1642.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5403, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1182; amended Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3209; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(C)], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 102–378, § 2(38), Oct. 2, 1992, 106 Stat. 1351, related to general pay increases, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior section 5403, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1182; amended Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3209; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(C)], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 102–378, § 2(38), Oct. 2, 1992, 106 Stat. 1351, related to general pay increases, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
-## § 5404. Human capital performance payments
+## § 5404. Human capital performance payments
 
 **(a)**
 
@@ -185,7 +185,7 @@ A prior section 5403, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 
 
 **(2)** In subsequent years, continuation of previously awarded human capital performance payments shall be financed from other agency funds available for salaries and expenses.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1643.)
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1643.)
 
 **Editorial Notes**
 
@@ -195,9 +195,9 @@ Executive Level IV, referred to in subsec. (b)(2), is set out in section 5315 of
 
 **Prior Provisions**
 
-A prior section 5404, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3210; Pub. L. 101–103, § 3(a), Sept. 30, 1989, 103 Stat. 670, related to merit increases, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior section 5404, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3210; Pub. L. 101–103, § 3(a), Sept. 30, 1989, 103 Stat. 670, related to merit increases, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
-## § 5405. Regulations
+## § 5405. Regulations
 
 The Office shall issue such regulations as it determines to be necessary for the administration of this chapter, including the administration of the Fund. The Office’s regulations shall include criteria governing—
 
@@ -213,15 +213,15 @@ The Office shall issue such regulations as it determines to be necessary for the
 
 **(6)** the circumstances under which funds may be allocated by the Office to an agency in amounts below or in excess of the agency’s pro rata share.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1643.)
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1643.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5405, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3211; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(3)(C)], Nov. 5, 1990, 104 Stat. 1427, 1439, related to pay administration, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior section 5405, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3211; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(3)(C)], Nov. 5, 1990, 104 Stat. 1427, 1439, related to pay administration, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
-## § 5406. Agency plan
+## § 5406. Agency plan
 
 **(a)** To be eligible for consideration by the Office for an allocation under this section, an agency shall—
 
@@ -253,7 +253,7 @@ A prior section 5405, added Pub. L. 95–454, title V, § 501, Oct. 13, 1978, 
 
 **(c)** The Chief Human Capital Officers Council shall include in its annual report to Congress under section 1303(d) of the Homeland Security Act of 2002 an evaluation of the formulation and implementation of agency performance management systems.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1644.)
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1644.)
 
 **Editorial Notes**
 
@@ -263,34 +263,34 @@ Section 1303(d) of the Homeland Security Act of 2002, referred to in subsec. (c)
 
 **Prior Provisions**
 
-A prior section 5406, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3211; amended Pub. L. 101–103, § 4, Sept. 30, 1989, 103 Stat. 671; Pub. L. 102–22, § 2(b), Mar. 28, 1991, 105 Stat. 71, related to performance awards, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior section 5406, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3211; amended Pub. L. 101–103, § 4, Sept. 30, 1989, 103 Stat. 671; Pub. L. 102–22, § 2(b), Mar. 28, 1991, 105 Stat. 71, related to performance awards, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
-## § 5407. Nature of payment
+## § 5407. Nature of payment
 
 Any payment to an employee under this section shall be part of the employee’s basic pay for the purposes of subchapter III of chapter 83, and chapters 84 and 87, and for such other purposes (other than chapter 75) as the Office shall determine by regulation.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1645.)
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1645.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5407, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3213, related to cash award program, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior section 5407, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3213, related to cash award program, prior to repeal by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
-## § 5408. Appropriations
+## § 5408. Appropriations
 
 There is authorized to be appropriated $500,000,000 for fiscal year 2004, and, for each subsequent fiscal year, such sums as may be necessary to carry out the provisions of this chapter. In the first year of implementation, up to 10 percent of the amount appropriated to the Fund shall be available to participating agencies to train supervisors, managers, and other individuals involved in the appraisal process on using performance management systems to make meaningful distinctions in employee performance and on the use of the Fund.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1645.)
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1645.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 5408 to 5410 were repealed by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, effective Nov. 1, 1993.
+Prior sections 5408 to 5410 were repealed by Pub. L. 103–89, § 3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, effective Nov. 1, 1993.
 
-Section 5408, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3214, required annual reports by Office of Personnel Management.
+Section 5408, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3214, required annual reports by Office of Personnel Management.
 
-Section 5409, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3214, directed Office of Personnel Management to prescribe regulations.
+Section 5409, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3214, directed Office of Personnel Management to prescribe regulations.
 
-Section 5410, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3214; amended Pub. L. 101–103, § 2, Sept. 30, 1989, 103 Stat. 670; Pub. L. 102–22, § 2(c), Mar. 28, 1991, 105 Stat. 71; Pub. L. 103–89, § 2, Sept. 30, 1993, 107 Stat. 981, related to termination of chapter and accompanying regulations.
+Section 5410, added Pub. L. 98–615, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3214; amended Pub. L. 101–103, § 2, Sept. 30, 1989, 103 Stat. 670; Pub. L. 102–22, § 2(c), Mar. 28, 1991, 105 Stat. 71; Pub. L. 103–89, § 2, Sept. 30, 1993, 107 Stat. 981, related to termination of chapter and accompanying regulations.

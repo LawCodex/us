@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 6—THE ANALYSIS OF REGULATORY FUNCTIONS
 
-## § 601. Definitions
+## § 601. Definitions
 
 For purposes of this chapter—
 
@@ -43,7 +43,7 @@ For purposes of this chapter—
 
 **(8) Recordkeeping requirement.—** The term “recordkeeping requirement” means a requirement imposed by an agency on persons to maintain specified records.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1165; amended Pub. L. 104–121, title II, § 241(a)(2), Mar. 29, 1996, 110 Stat. 864.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1165; amended Pub. L. 104–121, title II, § 241(a)(2), Mar. 29, 1996, 110 Stat. 864.)
 
 **Editorial Notes**
 
@@ -59,23 +59,23 @@ Section 3 of the Small Business Act, referred to in par. (3), is classified to s
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–121, title II, § 245, Mar. 29, 1996, 110 Stat. 868, provided that: “This subtitle [subtitle D (§§ 241–245) of title II of Pub. L. 104–121, amending this section and sections 603 to 605, 609, 611, and 612 of this title and enacting provisions set out as a note under section 609 of this title] shall become effective on the expiration of 90 days after the date of enactment of this subtitle [Mar. 29, 1996], except that such amendments shall not apply to interpretative rules for which a notice of proposed rulemaking was published prior to the date of enactment.”
+Pub. L. 104–121, title II, § 245, Mar. 29, 1996, 110 Stat. 868, provided that: “This subtitle [subtitle D (§§ 241–245) of title II of Pub. L. 104–121, amending this section and sections 603 to 605, 609, 611, and 612 of this title and enacting provisions set out as a note under section 609 of this title] shall become effective on the expiration of 90 days after the date of enactment of this subtitle [Mar. 29, 1996], except that such amendments shall not apply to interpretative rules for which a notice of proposed rulemaking was published prior to the date of enactment.”
 
 **Effective Date**
 
-Pub. L. 96–354, § 4, Sept. 19, 1980, 94 Stat. 1170, provided that: “The provisions of this Act [enacting this chapter] shall take effect January 1, 1981, except that the requirements of sections 603 and 604 of title 5, United States Code (as added by section 3 of this Act) shall apply only to rules for which a notice of proposed rulemaking is issued on or after January 1, 1981.”
+Pub. L. 96–354, § 4, Sept. 19, 1980, 94 Stat. 1170, provided that: “The provisions of this Act [enacting this chapter] shall take effect January 1, 1981, except that the requirements of sections 603 and 604 of title 5, United States Code (as added by section 3 of this Act) shall apply only to rules for which a notice of proposed rulemaking is issued on or after January 1, 1981.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–121, § 1, Mar. 29, 1996, 110 Stat. 847, provided that: “This Act [enacting sections 801 to 808 of this title, section 657 of Title 15, Commerce and Trade, and sections 1320b–15 and 1383e of Title 42, The Public Health and Welfare, amending this section and sections 504, 603 to 605, 609, 611, and 612 of this title, sections 665e and 901 of Title 2, The Congress, section 648 of Title 15, section 2412 of Title 28, Judiciary and Judicial Procedure, section 3101 of Title 31, Money and Finance, and sections 401, 402, 403, 405, 422, 423, 425, 902, 903, 1382, 1382c, 1383, and 1383c of Title 42, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title and sections 401, 402, 403, 405, 902, 1305, 1320b–15, and 1382 of Title 42, amending provisions set out as a note under section 631 of Title 15, and repealing provisions set out as a note under section 425 of Title 42] may be cited as the ‘Contract with America Advancement Act of 1996’.”
+Pub. L. 104–121, § 1, Mar. 29, 1996, 110 Stat. 847, provided that: “This Act [enacting sections 801 to 808 of this title, section 657 of Title 15, Commerce and Trade, and sections 1320b–15 and 1383e of Title 42, The Public Health and Welfare, amending this section and sections 504, 603 to 605, 609, 611, and 612 of this title, sections 665e and 901 of Title 2, The Congress, section 648 of Title 15, section 2412 of Title 28, Judiciary and Judicial Procedure, section 3101 of Title 31, Money and Finance, and sections 401, 402, 403, 405, 422, 423, 425, 902, 903, 1382, 1382c, 1383, and 1383c of Title 42, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title and sections 401, 402, 403, 405, 902, 1305, 1320b–15, and 1382 of Title 42, amending provisions set out as a note under section 631 of Title 15, and repealing provisions set out as a note under section 425 of Title 42] may be cited as the ‘Contract with America Advancement Act of 1996’.”
 
 **Short Title**
 
-Pub. L. 96–354, § 1, Sept. 19, 1980, 94 Stat. 1164, provided: “That this Act [enacting this chapter] may be cited as the ‘Regulatory Flexibility Act’.”
+Pub. L. 96–354, § 1, Sept. 19, 1980, 94 Stat. 1164, provided: “That this Act [enacting this chapter] may be cited as the ‘Regulatory Flexibility Act’.”
 
 **Regulatory Enforcement Reports**
 
-Pub. L. 107–198, § 4, June 28, 2002, 116 Stat. 732, provided that:
+Pub. L. 107–198, § 4, June 28, 2002, 116 Stat. 732, provided that:
 
 > **“(a) Definition.—** In this section, the term ‘agency’ has the meaning given that term under section 551 of title 5, United States Code.
 
@@ -107,7 +107,7 @@ Pub. L. 107–198, § 4, June 28, 2002, 116 Stat. 732, provided that:
 
 **Assessment of Federal Regulations and Policies on Families**
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 654], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 654], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 > **“(a) Purposes.—** The purposes of this section are to—
 
@@ -169,7 +169,7 @@ Pub. L. 105–277, div. A, § 101(h) [title VI, § 654], Oct. 21, 1998, 112 
 
 **Small Business Regulatory Fairness**
 
-Pub. L. 104–121, title II, §§ 201–224, Mar. 29, 1996, 110 Stat. 857–862, as amended by Pub. L. 110–28, title VIII, § 8302, May 25, 2007, 121 Stat. 204, provided that:
+Pub. L. 104–121, title II, §§ 201–224, Mar. 29, 1996, 110 Stat. 857–862, as amended by Pub. L. 110–28, title VIII, § 8302, May 25, 2007, 121 Stat. 204, provided that:
 
 > **“SEC. 201. SHORT TITLE.**
 
@@ -327,7 +327,7 @@ Pub. L. 104–121, title II, §§ 201–224, Mar. 29, 1996, 110 Stat. 857–86
 
 **Effects of Deregulation On Rural America**
 
-Pub. L. 101–574, title III, § 309, Nov. 15, 1990, 104 Stat. 2831, provided that:
+Pub. L. 101–574, title III, § 309, Nov. 15, 1990, 104 Stat. 2831, provided that:
 
 > **“(a) Study.—** The Office of Technology Assessment shall conduct a study of the effects of deregulation on the economic vitality of rural areas. Such study shall include, but not be limited to, a thorough analysis of the impact of deregulation on—
 
@@ -347,7 +347,7 @@ Pub. L. 101–574, title III, § 309, Nov. 15, 1990, 104 Stat. 2831, provided 
 
 **Congressional Findings and Declaration of Purpose**
 
-Pub. L. 96–354, § 2, Sept. 19, 1980, 94 Stat. 1164, provided that:
+Pub. L. 96–354, § 2, Sept. 19, 1980, 94 Stat. 1164, provided that:
 
 > **“(a)** The Congress finds and declares that—
 
@@ -373,19 +373,19 @@ Pub. L. 96–354, § 2, Sept. 19, 1980, 94 Stat. 1164, provided that:
 
 **Executive Order No. 12291**
 
-Ex. Ord. No. 12291, Feb. 17, 1981, 46 F.R. 13193, which established requirements for agencies to follow in promulgating regulations, reviewing existing regulations, and developing legislative proposals concerning regulation, was revoked by Ex. Ord. No. 12866, § 11, Sept. 30, 1993, 58 F.R. 51735, set out below.
+Ex. Ord. No. 12291, Feb. 17, 1981, 46 F.R. 13193, which established requirements for agencies to follow in promulgating regulations, reviewing existing regulations, and developing legislative proposals concerning regulation, was revoked by Ex. Ord. No. 12866, § 11, Sept. 30, 1993, 58 F.R. 51735, set out below.
 
 **Executive Order No. 12498**
 
-Ex. Ord. No. 12498, Jan. 4, 1985, 50 F.R. 1036, which established a regulatory planning process by which to develop and publish a regulatory program for each year, was revoked by Ex. Ord. No. 12866, § 11, Sept. 30, 1993, 58 F.R. 51735, set out below.
+Ex. Ord. No. 12498, Jan. 4, 1985, 50 F.R. 1036, which established a regulatory planning process by which to develop and publish a regulatory program for each year, was revoked by Ex. Ord. No. 12866, § 11, Sept. 30, 1993, 58 F.R. 51735, set out below.
 
 **Executive Order No. 12606**
 
-Ex. Ord. No. 12606, Sept. 2, 1987, 52 F.R. 34188, which provided criteria for executive departments and agencies to follow in making policies and regulations to ensure consideration of effect of those policies and regulations on autonomy and rights of the family, was revoked by Ex. Ord. No. 13045, § 7, Apr. 21, 1997, 62 F.R. 19888, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 12606, Sept. 2, 1987, 52 F.R. 34188, which provided criteria for executive departments and agencies to follow in making policies and regulations to ensure consideration of effect of those policies and regulations on autonomy and rights of the family, was revoked by Ex. Ord. No. 13045, § 7, Apr. 21, 1997, 62 F.R. 19888, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 **Executive Order No. 12612**
 
-Ex. Ord. No. 12612, Oct. 26, 1987, 52 F.R. 41685, which set out fundamental federalism principles and policymaking criteria for executive departments and agencies to follow in formulating and implementing policies and limited the instances when executive departments and agencies could construe a Federal statute to preempt State law, was revoked by Ex. Ord. No. 13132, § 10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
+Ex. Ord. No. 12612, Oct. 26, 1987, 52 F.R. 41685, which set out fundamental federalism principles and policymaking criteria for executive departments and agencies to follow in formulating and implementing policies and limited the instances when executive departments and agencies could construe a Federal statute to preempt State law, was revoked by Ex. Ord. No. 13132, § 10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
 **Ex. Ord. No. 12630. Governmental Actions and Interference With Constitutionally Protected Property Rights**
 
@@ -503,7 +503,7 @@ William J. Clinton.
 
 **Ex. Ord. No. 12866. Regulatory Planning and Review**
 
-Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, as amended by Ex. Ord. No. 13258, Feb. 26, 2002, 67 F.R. 9385; Ex. Ord. No. 13422, Jan. 18, 2007, 72 F.R. 2763; Ex. Ord. No. 13497, § 1, Jan. 30, 2009, 74 F.R. 6113; Ex. Ord. No. 14094, § 1(b), Apr. 6, 2023, 88 F.R. 21879; Ex. Ord. No. 14215, § 3(a), Feb. 18, 2025, 90 F.R. 10448, provided:
+Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, as amended by Ex. Ord. No. 13258, Feb. 26, 2002, 67 F.R. 9385; Ex. Ord. No. 13422, Jan. 18, 2007, 72 F.R. 2763; Ex. Ord. No. 13497, § 1, Jan. 30, 2009, 74 F.R. 6113; Ex. Ord. No. 14094, § 1(b), Apr. 6, 2023, 88 F.R. 21879; Ex. Ord. No. 14215, § 3(a), Feb. 18, 2025, 90 F.R. 10448, provided:
 
 The American people deserve a regulatory system that works for them, not against them: a regulatory system that protects and improves their health, safety, environment, and well-being and improves the performance of the economy without imposing unacceptable or unreasonable costs on society; regulatory policies that recognize that the private sector and private markets are the best engine for economic growth; regulatory approaches that respect the role of State, local, and tribal governments; and regulations that are effective, consistent, sensible, and understandable. We do not have such a regulatory system today.
 
@@ -709,15 +709,15 @@ Sec. 11. *Revocations*. Executive Orders Nos. 12291 and 12498; all amendments to
 
 **Executive Order No. 12875**
 
-Ex. Ord. No. 12875, Oct. 26, 1993, 58 F.R. 58093, which provided for the reduction of unfunded mandates on State, local, or tribal governments and increased flexibility for State and local waivers of statutory or regulatory requirements, was revoked by Ex. Ord. No. 13132, § 10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
+Ex. Ord. No. 12875, Oct. 26, 1993, 58 F.R. 58093, which provided for the reduction of unfunded mandates on State, local, or tribal governments and increased flexibility for State and local waivers of statutory or regulatory requirements, was revoked by Ex. Ord. No. 13132, § 10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
 **Executive Order No. 13083**
 
-Ex. Ord. No. 13083, May 14, 1998, 63 F.R. 27651, which listed fundamental federalism principles and federalism policymaking criteria to guide agencies in formulating and implementing policies and required agencies to have a process to permit State and local governments to provide input into the development of regulatory policies that have federalism implications and to streamline the State and local government waiver process, was revoked by Ex. Ord. No. 13132, § 10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
+Ex. Ord. No. 13083, May 14, 1998, 63 F.R. 27651, which listed fundamental federalism principles and federalism policymaking criteria to guide agencies in formulating and implementing policies and required agencies to have a process to permit State and local governments to provide input into the development of regulatory policies that have federalism implications and to streamline the State and local government waiver process, was revoked by Ex. Ord. No. 13132, § 10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
 **Executive Order No. 13095**
 
-Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, which suspended Ex. Ord. No. 13083, was revoked by Ex. Ord. No. 13132, § 10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
+Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, which suspended Ex. Ord. No. 13083, was revoked by Ex. Ord. No. 13132, § 10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
 **Ex. Ord. No. 13107. Implementation of Human Rights Treaties**
 
@@ -905,7 +905,7 @@ William J. Clinton.
 
 **Ex. Ord. No. 13198. Agency Responsibilities With Respect to Faith-Based and Community Initiatives**
 
-Ex. Ord. No. 13198, Jan. 29, 2001, 66 F.R. 8497, as amended by Ex. Ord. No. 13831, § 2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5(a), Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2(a), Feb. 7, 2025, 90 F.R. 9499, provided:
+Ex. Ord. No. 13198, Jan. 29, 2001, 66 F.R. 8497, as amended by Ex. Ord. No. 13831, § 2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5(a), Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2(a), Feb. 7, 2025, 90 F.R. 9499, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America’s communities, it is hereby ordered as follows:
 
@@ -949,7 +949,7 @@ Sec. 7. *Administration and Judicial Review*. (a) The agencies’ actions direct
 
 (b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
-[Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13198, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” or “White House OFBCI”, “Center for Faith” for “Center for Faith-based and Community Initiatives,”, and “Centers for Faith” for “Centers for Faith-based and Community Initiatives” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships”, “Center for Faith” for “Center for Faith-Based and Neighborhood Partnerships”, and “Centers for Faith” for “Centers for Faith-Based and Neighborhood Partnerships” due to the intervening amendments by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
+[Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13198, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” or “White House OFBCI”, “Center for Faith” for “Center for Faith-based and Community Initiatives,”, and “Centers for Faith” for “Centers for Faith-based and Community Initiatives” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships”, “Center for Faith” for “Center for Faith-Based and Neighborhood Partnerships”, and “Centers for Faith” for “Centers for Faith-Based and Neighborhood Partnerships” due to the intervening amendments by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
 
 **Ex. Ord. No. 13272. Proper Consideration of Small Entities in Agency Rulemaking**
 
@@ -989,7 +989,7 @@ George W. Bush.
 
 **Ex. Ord. No. 13279. Equal Protection of the Laws for Faith-Based and Other Neighborhood Organizations**
 
-Ex. Ord. No. 13279, Dec. 12, 2002, 67 F.R. 77141, as amended by Ex. Ord. No. 13403, § 2, May 12, 2006, 71 F.R. 28543; Ex. Ord. No. 13559, Nov. 17, 2010, 75 F.R. 71319; Ex. Ord. No. 13831, § 2, May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5(a), Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2, Feb. 7, 2025, 90 F.R. 9499, provided:
+Ex. Ord. No. 13279, Dec. 12, 2002, 67 F.R. 77141, as amended by Ex. Ord. No. 13403, § 2, May 12, 2006, 71 F.R. 28543; Ex. Ord. No. 13559, Nov. 17, 2010, 75 F.R. 71319; Ex. Ord. No. 13831, § 2, May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5(a), Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2, Feb. 7, 2025, 90 F.R. 9499, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and section 301 of title 3, United States Code, and in order to guide Federal agencies in formulating and developing policies with implications for faith-based organizations and other other [sic] neighborhood organizations, to ensure equal protection of the laws for faith-based and other neighborhood organizations, to further the national effort to expand opportunities for, and strengthen the capacity of, faith-based and other other [sic] neighborhood organizations so that they may better meet social needs in America’s communities, and to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered as follows:
 
@@ -1145,11 +1145,11 @@ Sec. 7. *Judicial Review.*
 
 This order is intended only to improve the internal management of the executive branch, and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, or entities, its officers, employees or agents, or any person.
 
-[Section 2(a) of Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13279, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships”, due to the intervening amendment by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
+[Section 2(a) of Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13279, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships”, due to the intervening amendment by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
 
 **Ex. Ord. No. 13280. Responsibilities of the Department of Agriculture and the Agency for International Development With Respect to Faith-Based and Community Initiatives**
 
-Ex. Ord. No. 13280, Dec. 12, 2002, 67 F.R. 77145, as amended by Ex. Ord. No. 13831, § 2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5(a), Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2(a), Feb. 7, 2025, 90 F.R. 9499, provided:
+Ex. Ord. No. 13280, Dec. 12, 2002, 67 F.R. 77145, as amended by Ex. Ord. No. 13831, § 2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5(a), Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2(a), Feb. 7, 2025, 90 F.R. 9499, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America’s communities, it is hereby ordered as follows:
 
@@ -1197,11 +1197,11 @@ Sec. 6. *Administration and Judicial Review*. (a) The agency actions directed by
 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or entities, its officers, employees or agents, or any other person.
 
-[Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13280, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” or “White House OFBCI”, “Center for Faith” for “Center for Faith-based and Community Initiatives,”, and “Centers for Faith” for “Centers for Faith-based and Community Initiatives” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships”, “Center for Faith” for “Center for Faith-Based and Neighborhood Partnerships”, and “Centers for Faith” for “Centers for Faith-Based and Neighborhood Partnerships” due to the intervening amendments by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
+[Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13280, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” or “White House OFBCI”, “Center for Faith” for “Center for Faith-based and Community Initiatives,”, and “Centers for Faith” for “Centers for Faith-based and Community Initiatives” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships”, “Center for Faith” for “Center for Faith-Based and Neighborhood Partnerships”, and “Centers for Faith” for “Centers for Faith-Based and Neighborhood Partnerships” due to the intervening amendments by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
 
 **Ex. Ord. No. 13342. Responsibilities of the Departments of Commerce and Veterans Affairs and the Small Business Administration With Respect to Faith-Based and Community Initiatives**
 
-Ex. Ord. No. 13342, June 1, 2004, 69 F.R. 31509, as amended by Ex. Ord. No. 13831, § 2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5(a), Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2(a), Feb. 7, 2025, 90 F.R. 9499, provided:
+Ex. Ord. No. 13342, June 1, 2004, 69 F.R. 31509, as amended by Ex. Ord. No. 13831, § 2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5(a), Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2(a), Feb. 7, 2025, 90 F.R. 9499, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America’s social and community needs, it is hereby ordered as follows:
 
@@ -1249,11 +1249,11 @@ Sec. 6. *Administration and Judicial Review*. (a) The agency actions directed by
 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers, employees or agents, or any other person.
 
-[Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13342, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” or “White House OFBCI”, “Center for Faith” for “Center for Faith-based and Community Initiatives,”, and “Centers for Faith” for “Centers for Faith-based and Community Initiatives” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships”, “Center for Faith” for “Center for Faith-Based and Neighborhood Partnerships”, and “Centers for Faith” for “Centers for Faith-Based and Neighborhood Partnerships” due to the intervening amendments by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
+[Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13342, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” or “White House OFBCI”, “Center for Faith” for “Center for Faith-based and Community Initiatives,”, and “Centers for Faith” for “Centers for Faith-based and Community Initiatives” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships”, “Center for Faith” for “Center for Faith-Based and Neighborhood Partnerships”, and “Centers for Faith” for “Centers for Faith-Based and Neighborhood Partnerships” due to the intervening amendments by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
 
 **Ex. Ord. No. 13397. Responsibilities of the Department of Homeland Security With Respect to Faith-Based and Community Initiatives**
 
-Ex. Ord. No. 13397, Mar. 7, 2006, 71 F.R. 12275, as amended by Ex. Ord. No. 13831, § 2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5, Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2(a), Feb. 7, 2025, 90 F.R. 9499, provided:
+Ex. Ord. No. 13397, Mar. 7, 2006, 71 F.R. 12275, as amended by Ex. Ord. No. 13831, § 2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, § 5, Feb. 14, 2021, 86 F.R. 10008; Ex. Ord. No. 14205, § 2(a), Feb. 7, 2025, 90 F.R. 9499, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America’s social and community needs, it is hereby ordered as follows:
 
@@ -1303,7 +1303,7 @@ Sec. 6. *General Provisions*. (a) This order shall be implemented subject to the
 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 
-[Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13397, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” and “Center for Faith” for “Center for Faith-based and Community Initiatives,” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships” and “Center for Faith” for “Center for Faith-Based and Neighborhood Partnerships” due to the intervening amendments by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
+[Ex. Ord. No. 14205, which directed amendment of Ex. Ord. No. 13397, set out above, by substituting “White House Faith Office” for “White House Office of Faith-Based and Community Initiatives” and “Center for Faith” for “Center for Faith-based and Community Initiatives,” wherever appearing, was executed by substituting “White House Faith Office” for “White House Office of Faith-Based and Neighborhood Partnerships” and “Center for Faith” for “Center for Faith-Based and Neighborhood Partnerships” due to the intervening amendments by Ex. Ord. No. 14015, which was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.]
 
 **Ex. Ord. No. 13406. Protecting the Property Rights of the American People**
 
@@ -1899,31 +1899,31 @@ Barack Obama.
 
 **Executive Order No. 13771**
 
-Ex. Ord. No. 13771, Jan. 30, 2017, 82 F.R. 9339, which required an executive department or agency that publicly proposes for notice and comment or otherwise promulgates a new regulation to identify at least two existing regulations to be repealed for fiscal year 2017, and for subsequent fiscal years required annual regulatory cost submissions to the Office of Management and Budget, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of this title.
+Ex. Ord. No. 13771, Jan. 30, 2017, 82 F.R. 9339, which required an executive department or agency that publicly proposes for notice and comment or otherwise promulgates a new regulation to identify at least two existing regulations to be repealed for fiscal year 2017, and for subsequent fiscal years required annual regulatory cost submissions to the Office of Management and Budget, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of this title.
 
 **Executive Order No. 13777**
 
-Ex. Ord. No. 13777, Feb. 24, 2017, 82 F.R. 12285, which established Regulatory Reform Task Forces to identify certain regulations to repeal, replace, or modify, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of this title.
+Ex. Ord. No. 13777, Feb. 24, 2017, 82 F.R. 12285, which established Regulatory Reform Task Forces to identify certain regulations to repeal, replace, or modify, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of this title.
 
 **Executive Order No. 13828**
 
-Ex. Ord. No. 13828, Apr. 10, 2018, 83 F.R. 15941, which required certain agencies to review their regulations and guidance documents relating to public assistance programs, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
+Ex. Ord. No. 13828, Apr. 10, 2018, 83 F.R. 15941, which required certain agencies to review their regulations and guidance documents relating to public assistance programs, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
 
 **Executive Order No. 13891**
 
-Ex. Ord. No. 13891, Oct. 9, 2019, 84 F.R. 55235, which related to agency non-binding guidance documents, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of this title.
+Ex. Ord. No. 13891, Oct. 9, 2019, 84 F.R. 55235, which related to agency non-binding guidance documents, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of this title.
 
 **Executive Order No. 13893**
 
-Ex. Ord. No. 13893, Oct. 10, 2019, 84 F.R. 55487, which related to reducing mandatory spending incurred by discretionary administrative actions, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of this title.
+Ex. Ord. No. 13893, Oct. 10, 2019, 84 F.R. 55487, which related to reducing mandatory spending incurred by discretionary administrative actions, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of this title.
 
 **Executive Order No. 13924**
 
-Ex. Ord. No. 13924, May 19, 2020, 85 F.R. 31353, which related to regulatory relief to support recovery from the economic consequences of COVID–19, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
+Ex. Ord. No. 13924, May 19, 2020, 85 F.R. 31353, which related to regulatory relief to support recovery from the economic consequences of COVID–19, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
 
 **Executive Order No. 13927**
 
-Ex. Ord. No. 13927, June 4, 2020, 85 F.R. 35165, which related to accelerating the nation’s economic recovery from the COVID–19 emergency by expediting infrastructure investments and other activities, was revoked by Ex. Ord. No. 13990, § 7(a), Jan. 20, 2021, 86 F.R. 7041, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13927, June 4, 2020, 85 F.R. 35165, which related to accelerating the nation’s economic recovery from the COVID–19 emergency by expediting infrastructure investments and other activities, was revoked by Ex. Ord. No. 13990, § 7(a), Jan. 20, 2021, 86 F.R. 7041, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
 
 **Ex. Ord. No. 13966. Increasing Economic and Geographic Mobility**
 
@@ -2019,11 +2019,11 @@ Donald J. Trump.
 
 **Executive Order No. 13980**
 
-Ex. Ord. No. 13980, Jan. 18, 2021, 86 F.R. 6817, which related to regulations that may subject a violator to criminal penalties, was revoked by Ex. Ord. No. 14029, § 1, May 14, 2021, 86 F.R. 27025.
+Ex. Ord. No. 13980, Jan. 18, 2021, 86 F.R. 6817, which related to regulations that may subject a violator to criminal penalties, was revoked by Ex. Ord. No. 14029, § 1, May 14, 2021, 86 F.R. 27025.
 
 **Executive Order No. 13985**
 
-Ex. Ord. No. 13985, Jan. 20, 2021, 86 F.R. 7009, which related to advancing racial equity and support for underserved communities through the Federal government, was revoked by Ex. Ord. No. 14148, § 2(a), Jan. 20, 2025, 90 F.R. 8237.
+Ex. Ord. No. 13985, Jan. 20, 2021, 86 F.R. 7009, which related to advancing racial equity and support for underserved communities through the Federal government, was revoked by Ex. Ord. No. 14148, § 2(a), Jan. 20, 2025, 90 F.R. 8237.
 
 **Ex. Ord. No. 14017. America’s Supply Chains**
 
@@ -2123,7 +2123,7 @@ Sec. 5. *General Review and Recommendations*. As soon as practicable following t
 
 (b) reforms needed to make supply chain analyses and actions more effective, including statutory, regulatory, procedural, and institutional design changes. The report shall include recommendations on whether additional offices, personnel, resources, statistical data, or authorities are needed;
 
-(c) [Superseded by Ex. Ord. No. 14123, § 4(e), June 14, 2024, 89 F.R. 51951, see section 4(f) of Ex. Ord. No. 14123, set out below.]
+(c) [Superseded by Ex. Ord. No. 14123, § 4(e), June 14, 2024, 89 F.R. 51951, see section 4(f) of Ex. Ord. No. 14123, set out below.]
 
 (d) diplomatic, economic, security, trade policy, informational, and other actions that can successfully engage allies and partners to strengthen supply chains jointly or in coordination;
 
@@ -2163,15 +2163,15 @@ J.R. Biden, Jr.
 
 **Executive Order No. 14075**
 
-Ex. Ord. No. 14075, June 15, 2022, 87 F.R. 37189, which related to policies advancing equality for lesbian, gay, bisexual, transgender, queer, and intersex individuals, was revoked by Ex. Ord. No. 14148, § 2(ww), Jan. 20, 2025, 90 F.R. 8239, and Ex. Ord. No. 14168, § 7(b), Jan. 20, 2025, 90 F.R. 8617.
+Ex. Ord. No. 14075, June 15, 2022, 87 F.R. 37189, which related to policies advancing equality for lesbian, gay, bisexual, transgender, queer, and intersex individuals, was revoked by Ex. Ord. No. 14148, § 2(ww), Jan. 20, 2025, 90 F.R. 8239, and Ex. Ord. No. 14168, § 7(b), Jan. 20, 2025, 90 F.R. 8617.
 
 **Executive Order No. 14091**
 
-Ex. Ord. No. 14091, Feb. 16, 2023, 88 F.R. 10825, which related to advancing racial equity and support for underserved communities through the Federal Government, was revoked by Ex. Ord. No. 14148, § 2(bbb), Jan. 20, 2025, 90 F.R. 8239.
+Ex. Ord. No. 14091, Feb. 16, 2023, 88 F.R. 10825, which related to advancing racial equity and support for underserved communities through the Federal Government, was revoked by Ex. Ord. No. 14148, § 2(bbb), Jan. 20, 2025, 90 F.R. 8239.
 
 **Executive Order No. 14094**
 
-Ex. Ord. No. 14094, Apr. 6, 2023, 88 F.R. 21879, which related to modernizing and improving the effectiveness of regulatory review, was revoked by Ex. Ord. No. 14148, § 2(ddd), Jan. 20, 2025, 90 F.R. 8239.
+Ex. Ord. No. 14094, Apr. 6, 2023, 88 F.R. 21879, which related to modernizing and improving the effectiveness of regulatory review, was revoked by Ex. Ord. No. 14148, § 2(ddd), Jan. 20, 2025, 90 F.R. 8239.
 
 **Ex. Ord. No. 14123. White House Council on Supply Chain Resilience**
 
@@ -2315,7 +2315,7 @@ J.R. Biden, Jr.
 
 **Executive Order No. 14126**
 
-Ex. Ord. No. 14126, Sept. 6, 2024, 89 F.R. 73559, which related to promoting the creation of equitable workforce development pathways for workers to obtain good jobs that pay family-sustaining wages, provide critical benefits, prevent workplace discrimination, ensure worker safety, and allow workers a free and fair chance to join a union, was revoked by Ex. Ord. No. 14236, § 2(r), Mar. 14, 2025, 90 F.R. 13038.
+Ex. Ord. No. 14126, Sept. 6, 2024, 89 F.R. 73559, which related to promoting the creation of equitable workforce development pathways for workers to obtain good jobs that pay family-sustaining wages, provide critical benefits, prevent workplace discrimination, ensure worker safety, and allow workers a free and fair chance to join a union, was revoked by Ex. Ord. No. 14236, § 2(r), Mar. 14, 2025, 90 F.R. 13038.
 
 **Ex. Ord. No. 14149. Restoring Freedom of Speech and Ending Federal Censorship**
 
@@ -3117,7 +3117,7 @@ Small businesses play an essential role in the American economy; they help to fu
 
 Although small businesses and new companies provide the foundations for economic growth and job creation, they have faced severe challenges as a result of the recession. One consequence has been the loss of significant numbers of jobs.
 
-The Regulatory Flexibility Act (RFA), 5 U.S.C. 601–612, establishes a deep national commitment to achieving statutory goals without imposing unnecessary burdens on the public. The RFA emphasizes the importance of recognizing “differences in the scale and resources of regulated entities” and of considering “alternative regulatory approaches . . . which minimize the significant economic impact of rules on small businesses, small organizations, and small governmental jurisdictions.” 5 U.S.C. 601 note.
+The Regulatory Flexibility Act (RFA), 5 U.S.C. 601–612, establishes a deep national commitment to achieving statutory goals without imposing unnecessary burdens on the public. The RFA emphasizes the importance of recognizing “differences in the scale and resources of regulated entities” and of considering “alternative regulatory approaches . . . which minimize the significant economic impact of rules on small businesses, small organizations, and small governmental jurisdictions.” 5 U.S.C. 601 note.
 
 To promote its central goals, the RFA imposes a series of requirements designed to ensure that agencies produce regulatory flexibility analyses that give careful consideration to the effects of their regulations on small businesses and explore significant alternatives in order to minimize any significant economic impact on small businesses. Among other things, the RFA requires that when an agency proposing a rule with such impact is required to provide notice of the proposed rule, it must also produce an initial regulatory flexibility analysis that includes discussion of significant alternatives. Significant alternatives include the use of performance rather than design standards; simplification of compliance and reporting requirements for small businesses; establishment of different timetables that take into account the resources of small businesses; and exemption from coverage for small businesses.
 
@@ -3349,7 +3349,7 @@ This memorandum shall be implemented consistent with applicable law.
 
 Donald J. Trump.
 
-## § 602. Regulatory agenda
+## § 602. Regulatory agenda
 
 **(a)** During the months of October and April of each year, each agency shall publish in the Federal Register a regulatory flexibility agenda which shall contain—
 
@@ -3357,7 +3357,7 @@ Donald J. Trump.
 
 **(2)** a summary of the nature of any such rule under consideration for each subject area listed in the agenda pursuant to paragraph (1), the objectives and legal basis for the issuance of the rule, and an approximate schedule for completing action on any rule for which the agency has issued a general notice of proposed rulemaking,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 and
 
@@ -3369,7 +3369,7 @@ and
 
 **(d)** Nothing in this section precludes an agency from considering or acting on any matter not included in a regulatory flexibility agenda, or requires an agency to consider or act on any matter listed in such agenda.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1166.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1166.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3377,7 +3377,7 @@ and
 
 Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 603. Initial regulatory flexibility analysis
+## § 603. Initial regulatory flexibility analysis
 
 **(a)** Whenever an agency is required by section 553 of this title, or any other law, to publish general notice of proposed rulemaking for any proposed rule, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States, the agency shall prepare and make available for public comment an initial regulatory flexibility analysis. Such analysis shall describe the impact of the proposed rule on small entities. The initial regulatory flexibility analysis or a summary shall be published in the Federal Register at the time of the publication of general notice of proposed rulemaking for the rule. The agency shall transmit a copy of the initial regulatory flexibility analysis to the Chief Counsel for Advocacy of the Small Business Administration. In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.
 
@@ -3419,7 +3419,7 @@ Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a 
 
 **(B)** collect advice and recommendations from the representatives identified under subparagraph (A) relating to issues described in subparagraphs (A) and (B) of paragraph (1) and subsection (b).
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1166; amended Pub. L. 104–121, title II, § 241(a)(1), Mar. 29, 1996, 110 Stat. 864; Pub. L. 111–203, title X, § 1100G(b), July 21, 2010, 124 Stat. 2112.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1166; amended Pub. L. 104–121, title II, § 241(a)(1), Mar. 29, 1996, 110 Stat. 864; Pub. L. 111–203, title X, § 1100G(b), July 21, 2010, 124 Stat. 2112.)
 
 **Editorial Notes**
 
@@ -3427,9 +3427,9 @@ Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a 
 
 2010—Subsec. (d). Pub. L. 111–203 added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–121, § 241(a)(1)(B), inserted at end “In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.”
+1996—Subsec. (a). Pub. L. 104–121, § 241(a)(1)(B), inserted at end “In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.”
 
-Pub. L. 104–121, § 241(a)(1)(A), which directed the insertion of “, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States” after “proposed rule” was executed by making the insertion where those words appeared in first sentence to reflect the probable intent of Congress.
+Pub. L. 104–121, § 241(a)(1)(A), which directed the insertion of “, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States” after “proposed rule” was executed by making the insertion where those words appeared in first sentence to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3445,7 +3445,7 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 
 Section effective Jan. 1, 1981, except that the requirements of this section applicable only to rules for which a notice of proposed rulemaking was issued on or after Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 604. Final regulatory flexibility analysis
+## § 604. Final regulatory flexibility analysis
 
 **(a)** When an agency promulgates a final rule under section 553 of this title, after being required by that section or any other law to publish a general notice of proposed rulemaking, or promulgates a final interpretative rule involving the internal revenue laws of the United States as described in section 603(a), the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
 
@@ -3459,39 +3459,39 @@ Section effective Jan. 1, 1981, except that the requirements of this section app
 
 **(5)** a description of the projected reporting, recordkeeping and other compliance requirements of the rule, including an estimate of the classes of small entities which will be subject to the requirement and the type of professional skills necessary for preparation of the report or record;
 
-**(6)**  1
+**(6)** 1
 
-<sup>1</sup>  So in original. Two pars. (6) have been enacted.
+<sup>1</sup> So in original. Two pars. (6) have been enacted.
 
 a description of the steps the agency has taken to minimize the significant economic impact on small entities consistent with the stated objectives of applicable statutes, including a statement of the factual, policy, and legal reasons for selecting the alternative adopted in the final rule and why each one of the other significant alternatives to the rule considered by the agency which affect the impact on small entities was rejected; and
 
-**(6)**  <sup>1</sup> for a covered agency, as defined in section 609(d)(2), a description of the steps the agency has taken to minimize any additional cost of credit for small entities.
+**(6)** <sup>1</sup> for a covered agency, as defined in section 609(d)(2), a description of the steps the agency has taken to minimize any additional cost of credit for small entities.
 
 **(b)** The agency shall make copies of the final regulatory flexibility analysis available to members of the public and shall publish in the Federal Register such analysis or a summary thereof.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1167; amended Pub. L. 104–121, title II, § 241(b), Mar. 29, 1996, 110 Stat. 864; Pub. L. 111–203, title X, § 1100G(c), July 21, 2010, 124 Stat. 2113; Pub. L. 111–240, title I, § 1601, Sept. 27, 2010, 124 Stat. 2551.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1167; amended Pub. L. 104–121, title II, § 241(b), Mar. 29, 1996, 110 Stat. 864; Pub. L. 111–203, title X, § 1100G(c), July 21, 2010, 124 Stat. 2113; Pub. L. 111–240, title I, § 1601, Sept. 27, 2010, 124 Stat. 2551.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–240, § 1601(1), struck out “succinct” before “statement”.
+2010—Subsec. (a)(1). Pub. L. 111–240, § 1601(1), struck out “succinct” before “statement”.
 
-Subsec. (a)(2). Pub. L. 111–240, § 1601(2), substituted “statement” for “summary” before “of the significant issues” and “of the assessment”.
+Subsec. (a)(2). Pub. L. 111–240, § 1601(2), substituted “statement” for “summary” before “of the significant issues” and “of the assessment”.
 
-Subsec. (a)(3), (4). Pub. L. 111–240, § 1601(3), (4), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (a)(3), (4). Pub. L. 111–240, § 1601(3), (4), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 111–240, § 1601(3), redesignated par. (4) as (5). Former par. (5), relating to description of steps taken to minimize the significant economic impact on small entities, redesignated (6).
+Subsec. (a)(5). Pub. L. 111–240, § 1601(3), redesignated par. (4) as (5). Former par. (5), relating to description of steps taken to minimize the significant economic impact on small entities, redesignated (6).
 
-Pub. L. 111–203, § 1100G(c)(1), which directed amendment of par. (4) by striking “and” at the end, was executed to par. (5) to reflect the probable intent of Congress and the intervening redesignation of par. (4) as (5) by Pub. L. 111–240, § 1601(3). See above.
+Pub. L. 111–203, § 1100G(c)(1), which directed amendment of par. (4) by striking “and” at the end, was executed to par. (5) to reflect the probable intent of Congress and the intervening redesignation of par. (4) as (5) by Pub. L. 111–240, § 1601(3). See above.
 
-Subsec. (a)(6). Pub. L. 111–240, § 1601(3), redesignated par. (5), relating to description of steps taken to minimize the significant economic impact on small entities, as (6).
+Subsec. (a)(6). Pub. L. 111–240, § 1601(3), redesignated par. (5), relating to description of steps taken to minimize the significant economic impact on small entities, as (6).
 
-Pub. L. 111–203, § 1100G(c)(3), added par. (6) relating to description of steps taken to minimize any additional cost of credit for small entities.
+Pub. L. 111–203, § 1100G(c)(3), added par. (6) relating to description of steps taken to minimize any additional cost of credit for small entities.
 
-Pub. L. 111–203, § 1100G(c)(2), which directed amendment of par. (5) by substituting “; and” for period at end, was executed to par. (6), relating to description of steps taken to minimize the significant economic impact on small entities, to reflect the probable intent of Congress and the intervening redesignation of par. (5) as (6) by Pub. L. 111–240, § 1601(3). See above.
+Pub. L. 111–203, § 1100G(c)(2), which directed amendment of par. (5) by substituting “; and” for period at end, was executed to par. (6), relating to description of steps taken to minimize the significant economic impact on small entities, to reflect the probable intent of Congress and the intervening redesignation of par. (5) as (6) by Pub. L. 111–240, § 1601(3). See above.
 
-1996—Subsec. (a). Pub. L. 104–121, § 241(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “When an agency promulgates a final rule under section 553 of this title, after being required by that section or any other law to publish a general notice of proposed rulemaking, the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
+1996—Subsec. (a). Pub. L. 104–121, § 241(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “When an agency promulgates a final rule under section 553 of this title, after being required by that section or any other law to publish a general notice of proposed rulemaking, the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
 
 “(1) a succinct statement of the need for, and the objectives of, the rule;
 
@@ -3499,7 +3499,7 @@ Pub. L. 111–203, § 1100G(c)(2), which directed amendment of par. (5) by sub
 
 “(3) a description of each of the significant alternatives to the rule consistent with the stated objectives of applicable statutes and designed to minimize any significant economic impact of the rule on small entities which was considered by the agency, and a statement of the reasons why each one of such alternatives was rejected.”
 
-Subsec. (b). Pub. L. 104–121, § 241(b)(2), substituted “such analysis or a summary thereof.” for “at the time of publication of the final rule under section 553 of this title a statement describing how the public may obtain such copies.”
+Subsec. (b). Pub. L. 104–121, § 241(b)(2), substituted “such analysis or a summary thereof.” for “at the time of publication of the final rule under section 553 of this title a statement describing how the public may obtain such copies.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3515,7 +3515,7 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 
 Section effective Jan. 1, 1981, except that the requirements of this section applicable only to rules for which a notice of proposed rulemaking was issued on or after Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 605. Avoidance of duplicative or unnecessary analyses
+## § 605. Avoidance of duplicative or unnecessary analyses
 
 **(a)** Any Federal agency may perform the analyses required by sections 602, 603, and 604 of this title in conjunction with or as a part of any other agenda or analysis required by any other law if such other analysis satisfies the provisions of such sections.
 
@@ -3523,7 +3523,7 @@ Section effective Jan. 1, 1981, except that the requirements of this section app
 
 **(c)** In order to avoid duplicative action, an agency may consider a series of closely related rules as one rule for the purposes of sections 602, 603, 604 and 610 of this title.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1167; amended Pub. L. 104–121, title II, § 243(a), Mar. 29, 1996, 110 Stat. 866.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1167; amended Pub. L. 104–121, title II, § 243(a), Mar. 29, 1996, 110 Stat. 866.)
 
 **Editorial Notes**
 
@@ -3541,11 +3541,11 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 
 Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 606. Effect on other law
+## § 606. Effect on other law
 
 The requirements of sections 603 and 604 of this title do not alter in any manner standards otherwise applicable by law to agency action.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1168.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1168.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3553,11 +3553,11 @@ The requirements of sections 603 and 604 of this title do not alter in any manne
 
 Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 607. Preparation of analyses
+## § 607. Preparation of analyses
 
 In complying with the provisions of sections 603 and 604 of this title, an agency may provide either a quantifiable or numerical description of the effects of a proposed rule or alternatives to the proposed rule, or more general descriptive statements if quantification is not practicable or reliable.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1168.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1168.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3565,13 +3565,13 @@ In complying with the provisions of sections 603 and 604 of this title, an agenc
 
 Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 608. Procedure for waiver or delay of completion
+## § 608. Procedure for waiver or delay of completion
 
 **(a)** An agency head may waive or delay the completion of some or all of the requirements of section 603 of this title by publishing in the Federal Register, not later than the date of publication of the final rule, a written finding, with reasons therefor, that the final rule is being promulgated in response to an emergency that makes compliance or timely compliance with the provisions of section 603 of this title impracticable.
 
 **(b)** Except as provided in section 605(b), an agency head may not waive the requirements of section 604 of this title. An agency head may delay the completion of the requirements of section 604 of this title for a period of not more than one hundred and eighty days after the date of publication in the Federal Register of a final rule by publishing in the Federal Register, not later than such date of publication, a written finding, with reasons therefor, that the final rule is being promulgated in response to an emergency that makes timely compliance with the provisions of section 604 of this title impracticable. If the agency has not prepared a final regulatory analysis pursuant to section 604 of this title within one hundred and eighty days from the date of publication of the final rule, such rule shall lapse and have no effect. Such rule shall not be repromulgated until a final regulatory flexibility analysis has been completed by the agency.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1168.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1168.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3579,7 +3579,7 @@ Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a 
 
 Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 609. Procedures for gathering comments
+## § 609. Procedures for gathering comments
 
 **(a)** When any rule is promulgated which will have a significant economic impact on a substantial number of small entities, the head of the agency promulgating the rule or the official of the agency with statutory responsibility for the promulgation of the rule shall assure that small entities have been given an opportunity to participate in the rulemaking for the rule through the reasonable use of techniques such as—
 
@@ -3625,7 +3625,7 @@ Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a 
 
 **(3)** Whether the requirements of subsection (b) would provide the individuals identified in subsection (b)(2) with a competitive advantage relative to other small entities.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1168; amended Pub. L. 104–121, title II, § 244(a), Mar. 29, 1996, 110 Stat. 867; Pub. L. 111–203, title X, § 1100G(a), July 21, 2010, 124 Stat. 2112.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1168; amended Pub. L. 104–121, title II, § 244(a), Mar. 29, 1996, 110 Stat. 867; Pub. L. 111–203, title X, § 1100G(a), July 21, 2010, 124 Stat. 2112.)
 
 **Editorial Notes**
 
@@ -3633,11 +3633,11 @@ Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a 
 
 2010—Subsec. (d). Pub. L. 111–203 substituted “means—” for “means the Environmental Protection Agency and the Occupational Safety and Health Administration of the Department of Labor.” and added pars. (1) to (3).
 
-1996—Pub. L. 104–121, § 244(a)(2), (3), designated existing provisions as subsec. (a) and inserted “including soliciting and receiving comments over computer networks” after “entities” in par. (4).
+1996—Pub. L. 104–121, § 244(a)(2), (3), designated existing provisions as subsec. (a) and inserted “including soliciting and receiving comments over computer networks” after “entities” in par. (4).
 
-Pub. L. 104–121, § 244(a)(1), which directed insertion of “the reasonable use of” before “techniques,” in introductory provisions, was executed by making the insertion in text which did not contain a comma after the word “techniques” to reflect the probable intent of Congress.
+Pub. L. 104–121, § 244(a)(1), which directed insertion of “the reasonable use of” before “techniques,” in introductory provisions, was executed by making the insertion in text which did not contain a comma after the word “techniques” to reflect the probable intent of Congress.
 
-Subsecs. (b) to (e). Pub. L. 104–121, § 244(a)(4), added subsecs. (b) to (e).
+Subsecs. (b) to (e). Pub. L. 104–121, § 244(a)(4), added subsecs. (b) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3655,9 +3655,9 @@ Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a 
 
 **Small Business Advocacy Chairpersons**
 
-Pub. L. 104–121, title II, § 244(b), Mar. 29, 1996, 110 Stat. 868, provided that: “Not later than 30 days after the date of enactment of this Act [Mar. 29, 1996], the head of each covered agency that has conducted a final regulatory flexibility analysis shall designate a small business advocacy chairperson using existing personnel to the extent possible, to be responsible for implementing this section and to act as permanent chair of the agency’s review panels established pursuant to this section.”
+Pub. L. 104–121, title II, § 244(b), Mar. 29, 1996, 110 Stat. 868, provided that: “Not later than 30 days after the date of enactment of this Act [Mar. 29, 1996], the head of each covered agency that has conducted a final regulatory flexibility analysis shall designate a small business advocacy chairperson using existing personnel to the extent possible, to be responsible for implementing this section and to act as permanent chair of the agency’s review panels established pursuant to this section.”
 
-## § 610. Periodic review of rules
+## § 610. Periodic review of rules
 
 **(a)** Within one hundred and eighty days after the effective date of this chapter, each agency shall publish in the Federal Register a plan for the periodic review of the rules issued by the agency which have or will have a significant economic impact upon a substantial number of small entities. Such plan may be amended by the agency at any time by publishing the revision in the Federal Register. The purpose of the review shall be to determine whether such rules should be continued without change, or should be amended or rescinded, consistent with the stated objectives of applicable statutes, to minimize any significant economic impact of the rules upon a substantial number of such small entities. The plan shall provide for the review of all such agency rules existing on the effective date of this chapter within ten years of that date and for the review of such rules adopted after the effective date of this chapter within ten years of the publication of such rules as the final rule. If the head of the agency determines that completion of the review of existing rules is not feasible by the established date, he shall so certify in a statement published in the Federal Register and may extend the completion date by one year at a time for a total of not more than five years.
 
@@ -3675,7 +3675,7 @@ Pub. L. 104–121, title II, § 244(b), Mar. 29, 1996, 110 Stat. 868, provided
 
 **(c)** Each year, each agency shall publish in the Federal Register a list of the rules which have a significant economic impact on a substantial number of small entities, which are to be reviewed pursuant to this section during the succeeding twelve months. The list shall include a brief description of each rule and the need for and legal basis of such rule and shall invite public comment upon the rule.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1169.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1169.)
 
 **Editorial Notes**
 
@@ -3689,7 +3689,7 @@ The effective date of this chapter, referred to in subsec. (a), is Jan. 1, 1981.
 
 Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 611. Judicial review
+## § 611. Judicial review
 
 **(a)**
 
@@ -3721,7 +3721,7 @@ Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a 
 
 **(d)** Nothing in this section bars judicial review of any other impact statement or similar analysis required by any other law if judicial review of such statement or analysis is otherwise permitted by law.
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1169; amended Pub. L. 104–121, title II, § 242, Mar. 29, 1996, 110 Stat. 865.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1169; amended Pub. L. 104–121, title II, § 242, Mar. 29, 1996, 110 Stat. 865.)
 
 **Editorial Notes**
 
@@ -3745,7 +3745,7 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 
 Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
-## § 612. Reports and intervention rights
+## § 612. Reports and intervention rights
 
 **(a)** The Chief Counsel for Advocacy of the Small Business Administration shall monitor agency compliance with this chapter and shall report at least annually thereon to the President and to the Committees on the Judiciary and Small Business of the Senate and House of Representatives.
 
@@ -3753,15 +3753,15 @@ Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a 
 
 **(c)** A court of the United States shall grant the application of the Chief Counsel for Advocacy of the Small Business Administration to appear in any such action for the purposes described in subsection (b).
 
-(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1170; amended Pub. L. 104–121, title II, § 243(b), Mar. 29, 1996, 110 Stat. 866.)
+(Added Pub. L. 96–354, § 3(a), Sept. 19, 1980, 94 Stat. 1170; amended Pub. L. 104–121, title II, § 243(b), Mar. 29, 1996, 110 Stat. 866.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–121, § 243(b)(1), which directed substitution of “the Committees on the Judiciary and Small Business of the Senate and House of Representatives” for “the committees on the Judiciary of the Senate and the House of Representatives, the Select Committee on Small Business of the Senate, and the Committee on Small Business of the House of Representatives”, was executed by making the substitution for “the Committees on the Judiciary of the Senate and House of Representatives, the Select Committee on Small Business of the Senate, and the Committee on Small Business of the House of Representatives” to reflect the probable intent of Congress.
+1996—Subsec. (a). Pub. L. 104–121, § 243(b)(1), which directed substitution of “the Committees on the Judiciary and Small Business of the Senate and House of Representatives” for “the committees on the Judiciary of the Senate and the House of Representatives, the Select Committee on Small Business of the Senate, and the Committee on Small Business of the House of Representatives”, was executed by making the substitution for “the Committees on the Judiciary of the Senate and House of Representatives, the Select Committee on Small Business of the Senate, and the Committee on Small Business of the House of Representatives” to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 104–121, § 243(b)(2), substituted “his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the” for “his views with respect to the”.
+Subsec. (b). Pub. L. 104–121, § 243(b)(2), substituted “his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the” for “his views with respect to the”.
 
 **Statutory Notes and Related Subsidiaries**
 

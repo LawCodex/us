@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–510, div. A, title III, § 323(a)(2), title XIII, § 1331(6), Nov. 5, 1990, 104 Stat. 1530, 1673, struck out item 2455 “Reports to Congress” and added item 2458.
+1990—Pub. L. 101–510, div. A, title III, § 323(a)(2), title XIII, § 1331(6), Nov. 5, 1990, 104 Stat. 1530, 1673, struck out item 2455 “Reports to Congress” and added item 2458.
 
-1982—Pub. L. 97–295, § 1(30)(B), Oct. 12, 1982, 96 Stat. 1296, added item 2457.
+1982—Pub. L. 97–295, § 1(30)(B), Oct. 12, 1982, 96 Stat. 1296, added item 2457.
 
-## § 2451. Defense supply management
+## § 2451. Defense supply management
 
 **(a)** The Secretary of Defense shall develop a single catalog system and related program of standardizing supplies for the Department of Defense.
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 
 **(d)** The Secretary shall coordinate with the Administrator of General Services to enable the use of commercial identifiers for commercial products (as defined in section 103 of title 41) within the Federal cataloging system.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 85–861, § 33(a)(13), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 108–136, div. A, title III, § 341, Nov. 24, 2003, 117 Stat. 1448; Pub. L. 115–232, div. A, title VIII, § 836(e)(9), Aug. 13, 2018, 132 Stat. 1870.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 85–861, § 33(a)(13), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 108–136, div. A, title III, § 341, Nov. 24, 2003, 117 Stat. 1448; Pub. L. 115–232, div. A, title VIII, § 836(e)(9), Aug. 13, 2018, 132 Stat. 1870.)
 
 **Historical and Revision Notes**
 
@@ -47,13 +47,13 @@ retrieved: 2026-10-11
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2451(a) 2451(b) 2451(c) | 5:173. 5:173b(a). 5:173b(b). | July 1, 1952, ch. 539, §§ 2, 4, 66 Stat. 318, 319; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638. |
+| 2451(a) 2451(b) 2451(c) | 5:173. 5:173b(a). 5:173b(b). | July 1, 1952, ch. 539, §§ 2, 4, 66 Stat. 318, 319; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638. |
 
 In subsection (a), the words “for the Department of Defense” are inserted for clarity. 5:173 (1st sentence) is omitted as impliedly repealed by section 2 of 1953 Reorganization Plan No. 6, effective June 30, 1953, 67 Stat. 638.
 
 In subsection (b), the words “or any of the departments thereof”, “in such manner”, “original”, and “necessary or” are omitted as surplusage. The words “throughout the Department of Defense” are substituted for the words “either within a bureau or service, between bureaus or services, or between the departments”. The word “recurrently” is substituted for the word “repetitively”. The words “Only one identification may” are substituted for the words “The single item identification shall”.
 
-In subsection (c), the words “the most” are omitted as surplusage. The words “to the highest degree practicable” are substituted for the words “achieve the highest practicable degree possible” and “The greatest practicable degree of standardization \* \* \* shall be achieved”.
+In subsection (c), the words “the most” are omitted as surplusage. The words “to the highest degree practicable” are substituted for the words “achieve the highest practicable degree possible” and “The greatest practicable degree of standardization \* \* \* shall be achieved”.
 
 **1958 Act**
 
@@ -81,7 +81,7 @@ Amendment of section by Pub. L. 85–861 effective Aug. 10, 1956, see section 33
 
 **Defense-Wide Electronic Mall System for Supply Purchases**
 
-Pub. L. 105–261, div. A, title III, § 332, Oct. 17, 1998, 112 Stat. 1968, provided that:
+Pub. L. 105–261, div. A, title III, § 332, Oct. 17, 1998, 112 Stat. 1968, provided that:
 
 > **“(a) Electronic Mall System Defined.—** In this section, the term ‘electronic mall system’ means an electronic system for displaying, ordering, and purchasing supplies and materiel available from sources within the Department of Defense and from the private sector.
 
@@ -105,13 +105,13 @@ Pub. L. 105–261, div. A, title III, § 332, Oct. 17, 1998, 112 Stat. 1968, p
 
 **Standardization and Interoperability of NATO Weapons**
 
-Pub. L. 94–361, title VIII, § 803, July 14, 1976, 90 Stat. 930, which expressed the sense of Congress that the weapons systems of the NATO Allies be standardized and interoperable, that this goal would be facilitated by inter-allied procurement of arms and closer intra-European collaboration in arms procurement, and directed the Secretary of Defense to negotiate with the Allies toward these ends and to report to Congress on actions and programs undertaken to achieve them, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§ 1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
+Pub. L. 94–361, title VIII, § 803, July 14, 1976, 90 Stat. 930, which expressed the sense of Congress that the weapons systems of the NATO Allies be standardized and interoperable, that this goal would be facilitated by inter-allied procurement of arms and closer intra-European collaboration in arms procurement, and directed the Secretary of Defense to negotiate with the Allies toward these ends and to report to Congress on actions and programs undertaken to achieve them, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§ 1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
 
-Pub. L. 94–106, title VIII, § 814(a), (b), Oct. 7, 1975, 89 Stat. 540, as amended by Pub. L. 94–361, title VIII, § 802, July 14, 1976, 90 Stat. 930, which had provided that it was the policy of the United States that the equipment of our armed forces in Europe be standardized or at least interoperable with that of our NATO Allies, directed the Secretary of Defense to carry out procurement policies toward this end and to report to Congress on any agreements with the Allies involving exchange of equipment manufactured in the United States for equipment manufactured outside it, authorized the Secretary to find such agreements contrary to the public interest and required him to report on the procurement of any major weapons system not in accord with these policies, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§ 1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
+Pub. L. 94–106, title VIII, § 814(a), (b), Oct. 7, 1975, 89 Stat. 540, as amended by Pub. L. 94–361, title VIII, § 802, July 14, 1976, 90 Stat. 930, which had provided that it was the policy of the United States that the equipment of our armed forces in Europe be standardized or at least interoperable with that of our NATO Allies, directed the Secretary of Defense to carry out procurement policies toward this end and to report to Congress on any agreements with the Allies involving exchange of equipment manufactured in the United States for equipment manufactured outside it, authorized the Secretary to find such agreements contrary to the public interest and required him to report on the procurement of any major weapons system not in accord with these policies, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§ 1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
 
-Pub. L. 93–365, title III, § 302(c), Aug. 5, 1974, 88 Stat. 402, as amended by Pub. L. 94–106, title VIII, § 814(c), Oct. 7, 1975, 89 Stat. 540; Pub. L. 97–252, title XI, § 1121, Sept. 8, 1982, 96 Stat. 754, which had directed the Secretary of Defense to assess the costs and possible loss of effectiveness from the failure of the NATO Allies to standardize equipment, to suggest standardization actions, and to report these matters to the Allies and Congress and to Congress annually on them and results obtained with the Allies, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§ 1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
+Pub. L. 93–365, title III, § 302(c), Aug. 5, 1974, 88 Stat. 402, as amended by Pub. L. 94–106, title VIII, § 814(c), Oct. 7, 1975, 89 Stat. 540; Pub. L. 97–252, title XI, § 1121, Sept. 8, 1982, 96 Stat. 754, which had directed the Secretary of Defense to assess the costs and possible loss of effectiveness from the failure of the NATO Allies to standardize equipment, to suggest standardization actions, and to report these matters to the Allies and Congress and to Congress annually on them and results obtained with the Allies, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§ 1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
 
-## § 2452. Duties of Secretary of Defense
+## § 2452. Duties of Secretary of Defense
 
 The Secretary of Defense shall—
 
@@ -143,7 +143,7 @@ The Secretary of Defense shall—
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2452 | 5:173c. | July 1, 1952, ch. 539, § 5, 66 Stat. 319; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638. |
+| 2452 | 5:173c. | July 1, 1952, ch. 539, § 5, 66 Stat. 319; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638. |
 
 In clause (1), the word “establish” is omitted as surplusage.
 
@@ -165,7 +165,7 @@ In clause (8), the word “programs” is substituted for the words “authority
 
 **Regulations Relating to Increases in Prices for Spare Parts and Replacement Equipment**
 
-Pub. L. 98–94, title XII, § 1215, Sept. 24, 1983, 97 Stat. 688, as amended by Pub. L. 98–525, title XII, § 1244, Oct. 19, 1984, 98 Stat. 2609; Pub. L. 103–35, title II, § 204(b), May 31, 1993, 107 Stat. 102, provided that:
+Pub. L. 98–94, title XII, § 1215, Sept. 24, 1983, 97 Stat. 688, as amended by Pub. L. 98–525, title XII, § 1244, Oct. 19, 1984, 98 Stat. 2609; Pub. L. 103–35, title II, § 204(b), May 31, 1993, 107 Stat. 102, provided that:
 
 > **“(a)** Not later than 120 days after the date of the enactment of this Act [Sept. 24, 1983], the Secretary of Defense shall issue regulations which—
 
@@ -187,9 +187,9 @@ Pub. L. 98–94, title XII, § 1215, Sept. 24, 1983, 97 Stat. 688, as amended 
 
 **Report on Management of Acquisition of Spare Parts**
 
-Pub. L. 98–94, title XII, § 1216, Sept. 24, 1983, 97 Stat. 688, directed Secretary of Defense to submit to Congress, by June 1, 1984, a comprehensive report on management by Department of Defense of acquisition of initial and replenishment spare parts and on status of efforts within Department (including particularly the Defense Logistics Agency and the military departments) to correct problems associated with increased costs of such parts, directed Secretary, not later than Dec. 1, 1983, to submit to Congress an interim report stating briefly the actions being taken by the Department to improve acquisition and management of spare parts, and directed Secretary to put into effect at the earliest practicable date policies and procedures to achieve a long-term solution to problems relating to excessive costs of, and long lead times in the acquisition of, initial and replenishment spare parts.
+Pub. L. 98–94, title XII, § 1216, Sept. 24, 1983, 97 Stat. 688, directed Secretary of Defense to submit to Congress, by June 1, 1984, a comprehensive report on management by Department of Defense of acquisition of initial and replenishment spare parts and on status of efforts within Department (including particularly the Defense Logistics Agency and the military departments) to correct problems associated with increased costs of such parts, directed Secretary, not later than Dec. 1, 1983, to submit to Congress an interim report stating briefly the actions being taken by the Department to improve acquisition and management of spare parts, and directed Secretary to put into effect at the earliest practicable date policies and procedures to achieve a long-term solution to problems relating to excessive costs of, and long lead times in the acquisition of, initial and replenishment spare parts.
 
-## § 2453. Supply catalog: distribution and use
+## § 2453. Supply catalog: distribution and use
 
 The Secretary of Defense shall distribute the parts of the supply catalog described in section 2451 of this title as they are completed. Existing catalogs shall be replaced according to schedules established by the Secretary. After replacement no other supply catalog may be used within the Department of Defense with respect to the kinds of items covered by that part. All property reports and records shall use the nomenclature, item numbers, and descriptive data of the supply catalog.
 
@@ -199,11 +199,11 @@ The Secretary of Defense shall distribute the parts of the supply catalog descri
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2453 | 5:173d. | July 1, 1952, ch. 539, § 6, 66 Stat. 320; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638. |
+| 2453 | 5:173d. | July 1, 1952, ch. 539, § 6, 66 Stat. 320; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638. |
 
 The words “and ready for use” and “all departments, bureaus, and services” are omitted as surplusage. The words “After replacement” are substituted for the word “Thereafter”. The words “with respect to the kinds of items covered by that part” are inserted for clarity.
 
-## § 2454. Supply catalog: new or obsolete items
+## § 2454. Supply catalog: new or obsolete items
 
 **(a)** After any part of the supply catalog described in section 2451 of this title is distributed, and with respect to the kinds of items covered by that part, only the items listed in it may be procured for recurrent use in the Department of Defense. However, a military department may acquire any new item that is necessary to carry out its mission. As soon as such an item is acquired, it shall be submitted to the Secretary for inclusion in the catalog and the standardization program.
 
@@ -215,17 +215,17 @@ The words “and ready for use” and “all departments, bureaus, and services�
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2454(a)   2454(b) | 5:173e (less last 5 words of 1st proviso). 5:173e (last 5 words of 1st proviso). | July 1, 1952, ch. 539, § 7, 66 Stat. 320; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638. |
+| 2454(a) 2454(b) | 5:173e (less last 5 words of 1st proviso). 5:173e (last 5 words of 1st proviso). | July 1, 1952, ch. 539, § 7, 66 Stat. 320; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638. |
 
-In subsection (a), the words “After any part \* \* \* is distributed” are substituted for the words “Following the publication and promulgation \* \* \* or portions thereof”. The words “and with respect to the kinds of items covered by that part” are inserted for clarity. The word “recurrent” is substituted for the word “repetitive”. The words “the departments, bureaus, and services of” are omitted as surplusage. The second sentence of the revised subsection is substituted for 5:173e (1st proviso, less last 5 words; and 2d proviso).
+In subsection (a), the words “After any part \* \* \* is distributed” are substituted for the words “Following the publication and promulgation \* \* \* or portions thereof”. The words “and with respect to the kinds of items covered by that part” are inserted for clarity. The word “recurrent” is substituted for the word “repetitive”. The words “the departments, bureaus, and services of” are omitted as surplusage. The second sentence of the revised subsection is substituted for 5:173e (1st proviso, less last 5 words; and 2d proviso).
 
 In subsection (b), the words “at any time” are inserted for clarity.
 
-## [§ 2455. Repealed. Pub. L. 101–510, div. A, title XIII, § 1322(a)(9), Nov. 5, 1990, 104 Stat. 1671]
+## [§ 2455. Repealed. Pub. L. 101–510, div. A, title XIII, § 1322(a)(9), Nov. 5, 1990, 104 Stat. 1671]
 
-Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 140; Jan. 2, 1975, Pub. L. 93–608, § 2(2), 88 Stat. 1971; Dec. 21, 1982, Pub. L. 97–375, title II, § 203(c), 96 Stat. 1823, related to reports on cataloging supplies for Department of Defense.
+Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 140; Jan. 2, 1975, Pub. L. 93–608, § 2(2), 88 Stat. 1971; Dec. 21, 1982, Pub. L. 97–375, title II, § 203(c), 96 Stat. 1823, related to reports on cataloging supplies for Department of Defense.
 
-## § 2456. Coordination with General Services Administration
+## § 2456. Coordination with General Services Administration
 
 To avoid unnecessary duplication, the Administrator of General Services and the Secretary of Defense shall coordinate the cataloging and standardization activities of the General Services Administration and the Department of Defense.
 
@@ -235,9 +235,9 @@ To avoid unnecessary duplication, the Administrator of General Services and the 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2456 | 5:173i. | July 1, 1952, ch. 539, § 11, 66 Stat. 320. |
+| 2456 | 5:173i. | July 1, 1952, ch. 539, § 11, 66 Stat. 320. |
 
-## § 2457. Standardization of equipment with North Atlantic Treaty Organization members
+## § 2457. Standardization of equipment with North Atlantic Treaty Organization members
 
 **(a)** It is the policy of the United States to standardize equipment, including weapons systems, ammunition, and fuel, procured for the use of the armed forces of the United States stationed in Europe under the North Atlantic Treaty or at least to make that equipment interoperable with equipment of other members of the North Atlantic Treaty Organization. To carry out this policy, the Secretary of Defense shall—
 
@@ -259,30 +259,30 @@ To avoid unnecessary duplication, the Administrator of General Services and the 
 
 **(2)** It is further the sense of Congress that standardization of weapons and equipment within the Organization on the basis of a “two-way street” concept of cooperation in defense procurement between Europe and North America can only work in a realistic sense if the European nations operate on a united and collective basis. Therefore, the governments of Europe are encouraged to accelerate their present efforts to achieve European armaments collaboration among all European members of the Organization.
 
-**[(d)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(22), Nov. 24, 2003, 117 Stat. 1598.]
+**[(d)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(22), Nov. 24, 2003, 117 Stat. 1598.]
 
 **(e)** If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 8302 of title 41 that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 
 **(f)** The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become an integral part of the overall Organization review of force goals and development of force plans.
 
-(Added Pub. L. 97–295, § 1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, § 1311(5), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–106, div. A, title XV, § 1503(a)(24), Feb. 10, 1996, 110 Stat. 512; Pub. L. 108–136, div. A, title X, § 1031(a)(22), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, § 5(b)(33), Jan. 4, 2011, 124 Stat. 3845.)
+(Added Pub. L. 97–295, § 1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, § 1311(5), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–106, div. A, title XV, § 1503(a)(24), Feb. 10, 1996, 110 Stat. 512; Pub. L. 108–136, div. A, title X, § 1031(a)(22), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, § 5(b)(33), Jan. 4, 2011, 124 Stat. 3845.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2457(a) | 10:2451 (note). | Aug. 5, 1974, Pub. L. 93–365, § 302(c) (1st–3d sentences), 88 Stat. 402. |
-|  |  | Oct. 7, 1975, Pub. L. 94–106, § 814(a)(1), 89 Stat. 540; restated July 14, 1976, Pub. L. 94–361, § 802, 90 Stat. 930. |
-| 2457(b) | 10:2451 (note). | July 14, 1976, Pub. L. 94–361, § 803(b) (1st–4th sentences), 90 Stat. 931. |
-| 2457(c) | 10:2451 (note). | July 14, 1976, Pub. L. 94–361, § 803(a) (1st, 2d sentences), (c), 90 Stat. 930, 931. |
-| 2457(d) (words before (1)), (1) (related to (a)(1) and (2)) | 10:2451 (note). | Aug. 5, 1974, Pub. L. 93–365, § 302(c) (5th sentence), 88 Stat. 402; Oct. 7, 1975, Pub. L. 94–106, § 814(c), 89 Stat. 540. |
-| 2457(d)(1) (related to (a)(3)) | 10:2451 (note). | July 14, 1976, Pub. L. 94–361, § 803(b) (last sentence), 90 Stat. 931. |
-| 2457(d)(2) | 10:2451 (note). | Oct. 7, 1975, Pub. L. 94–106, § 814(b), 89 Stat. 540. |
-| 2457(d)(3) | 10:2451 (note). | Oct. 7, 1975, Pub. L. 94–106, § 814(a)(3), 89 Stat. 540; restated July 14, 1976, Pub. L. 94–361, § 802, 90 Stat. 930. |
-| 2457(d) (4)–(6) | 10:2451 (note). | July 14, 1976, Pub. L. 94–361, § 803(a) (3d–last sentences), 90 Stat. 930. |
-| 2457(d)(7), (8) | 10:2451 (note). | Aug. 5, 1974, Pub. L. 93–365, 88 Stat. 399, § 302(c) (6th, last sentences); added Sept. 8, 1982, Pub. L. 97–252, § 1121, 96 Stat. 754. |
-| 2457(e) | 10:2451 (note). | Oct. 7, 1975, Pub. L. 94–106, § 814(a)(2), 89 Stat. 540; restated July 14, 1976, Pub. L. 94–361, § 802, 90 Stat. 930. |
-| 2457(f) | 10:2451 (note). | Aug. 5, 1974, Pub. L. 93–365, § 302(c) (4th sentence), 88 Stat. 402. |
+| 2457(a) | 10:2451 (note). | Aug. 5, 1974, Pub. L. 93–365, § 302(c) (1st–3d sentences), 88 Stat. 402. |
+|  |  | Oct. 7, 1975, Pub. L. 94–106, § 814(a)(1), 89 Stat. 540; restated July 14, 1976, Pub. L. 94–361, § 802, 90 Stat. 930. |
+| 2457(b) | 10:2451 (note). | July 14, 1976, Pub. L. 94–361, § 803(b) (1st–4th sentences), 90 Stat. 931. |
+| 2457(c) | 10:2451 (note). | July 14, 1976, Pub. L. 94–361, § 803(a) (1st, 2d sentences), (c), 90 Stat. 930, 931. |
+| 2457(d) (words before (1)), (1) (related to (a)(1) and (2)) | 10:2451 (note). | Aug. 5, 1974, Pub. L. 93–365, § 302(c) (5th sentence), 88 Stat. 402; Oct. 7, 1975, Pub. L. 94–106, § 814(c), 89 Stat. 540. |
+| 2457(d)(1) (related to (a)(3)) | 10:2451 (note). | July 14, 1976, Pub. L. 94–361, § 803(b) (last sentence), 90 Stat. 931. |
+| 2457(d)(2) | 10:2451 (note). | Oct. 7, 1975, Pub. L. 94–106, § 814(b), 89 Stat. 540. |
+| 2457(d)(3) | 10:2451 (note). | Oct. 7, 1975, Pub. L. 94–106, § 814(a)(3), 89 Stat. 540; restated July 14, 1976, Pub. L. 94–361, § 802, 90 Stat. 930. |
+| 2457(d) (4)–(6) | 10:2451 (note). | July 14, 1976, Pub. L. 94–361, § 803(a) (3d–last sentences), 90 Stat. 930. |
+| 2457(d)(7), (8) | 10:2451 (note). | Aug. 5, 1974, Pub. L. 93–365, 88 Stat. 399, § 302(c) (6th, last sentences); added Sept. 8, 1982, Pub. L. 97–252, § 1121, 96 Stat. 754. |
+| 2457(e) | 10:2451 (note). | Oct. 7, 1975, Pub. L. 94–106, § 814(a)(2), 89 Stat. 540; restated July 14, 1976, Pub. L. 94–361, § 802, 90 Stat. 930. |
+| 2457(f) | 10:2451 (note). | Aug. 5, 1974, Pub. L. 93–365, § 302(c) (4th sentence), 88 Stat. 402. |
 
 In the introductory matter of subsection (a), before clause (1), the word “equipment” is substituted for “impedimenta” in section 302(c) of the Department of Defense Appropriation Authorization Act, 1975 (Pub. L. 93–365, Aug. 5, 1974, 88 Stat. 402), for clarity and for consistency with section 814(a)(1) of the Department of Defense Appropriation Authorization Act, 1976 (Pub. L. 94–106, Oct. 7, 1975, 89 Stat. 540), which is restated as part of this subsection.
 
@@ -290,7 +290,7 @@ In subsection (a)(1), the word “undertake” is omitted as surplus. The word �
 
 In subsection (a)(2), the words “The Secretary of Defense shall also” are omitted as unnecessary. The word “maintain” is substituted for “develop” because it is more appropriate.
 
-In subsection (a)(3), the words “of other members of the North Atlantic Treaty Organization whenever such equipment is to be used by personnel of the Armed Forces of the United States stationed in Europe under the terms of the North Atlantic Treaty” are omitted as unnecessary because of the restatement. The words “Such procedures shall also take into . . . to be procured” are omitted as unnecessary. The text of section 814(a)(1) (4th, last sentences) is omitted as executed.
+In subsection (a)(3), the words “of other members of the North Atlantic Treaty Organization whenever such equipment is to be used by personnel of the Armed Forces of the United States stationed in Europe under the terms of the North Atlantic Treaty” are omitted as unnecessary because of the restatement. The words “Such procedures shall also take into . . . to be procured” are omitted as unnecessary. The text of section 814(a)(1) (4th, last sentences) is omitted as executed.
 
 In subsection (b), the words “It is the sense of the Congress”, “It is further the sense of Congress”, “It is the Congress’ considered judgment”, “properly”, “Accordingly”, and “pursuant to these ends” are omitted as unnecessary.
 
@@ -310,7 +310,7 @@ In subsection (d)(6), the words “The Secretary of Defense shall also report on
 
 In subsection (d)(7), the words “those programs” are substituted for “all such existing and planned programs” and “all such programs” to eliminate unnecessary words.
 
-In subsection (f), the words “The Secretary shall submit the results of these . . . to Congress” are omitted as unnecessary because of the source provisions restated in subsection (d)(1). The word “submit” is substituted for “cause to be brought” to eliminate unnecessary words. The words “in order that the suggested actions and recommendations can” are omitted as unnecessary because of the restatement.
+In subsection (f), the words “The Secretary shall submit the results of these . . . to Congress” are omitted as unnecessary because of the source provisions restated in subsection (d)(1). The word “submit” is substituted for “cause to be brought” to eliminate unnecessary words. The words “in order that the suggested actions and recommendations can” are omitted as unnecessary because of the restatement.
 
 **Editorial Notes**
 
@@ -324,7 +324,7 @@ In subsection (f), the words “The Secretary shall submit the results of these 
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “Before February 1, 1989, and biennially thereafter” for “Before February 1 of each year”.
 
-## § 2458. Inventory management policies
+## § 2458. Inventory management policies
 
 **(a) Policy Required.—** The Secretary of Defense shall issue a single, uniform policy on the management of inventory items of the Department of Defense. Such policy shall—
 
@@ -336,7 +336,7 @@ In subsection (f), the words “The Secretary shall submit the results of these 
 
 **(b) Personnel Evaluations.—** The Secretary of Defense shall establish procedures to ensure that, with regard to item managers and other personnel responsible for the acquisition and management of inventory items of the Department of Defense, personnel appraisal systems for such personnel give appropriate consideration to efforts made by such personnel to eliminate wasteful practices and achieve cost savings in the acquisition and management of inventory items.
 
-(Added Pub. L. 101–510, div. A, title III, § 323(a)(1), Nov. 5, 1990, 104 Stat. 1530; amended Pub. L. 102–190, div. A, title III, § 347(a), Dec. 5, 1991, 105 Stat. 1347.)
+(Added Pub. L. 101–510, div. A, title III, § 323(a)(1), Nov. 5, 1990, 104 Stat. 1530; amended Pub. L. 102–190, div. A, title III, § 347(a), Dec. 5, 1991, 105 Stat. 1347.)
 
 **Editorial Notes**
 
@@ -352,7 +352,7 @@ Secretary of Defense to establish uniform system of valuation described in subse
 
 **Management of Conventional Ammunition Inventory**
 
-Pub. L. 113–291, div. A, title III, § 352(a), (b), Dec. 19, 2014, 128 Stat. 3347, provided that:
+Pub. L. 113–291, div. A, title III, § 352(a), (b), Dec. 19, 2014, 128 Stat. 3347, provided that:
 
 > **“(a) Consolidation of Data.—** Not later than 240 days after the date of the enactment of this Act [Dec. 19, 2014], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue Department-wide guidance designating an authoritative source of data for conventional ammunition. Not later than 10 days after issuing the guidance required by this subsection, the Under Secretary shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] on what source of data has been designated under this subsection.
 
@@ -360,27 +360,27 @@ Pub. L. 113–291, div. A, title III, § 352(a), (b), Dec. 19, 2014, 128 Stat.
 
 **Improvement of Inventory Management Practices**
 
-Pub. L. 111–84, div. A, title III, § 328, Oct. 28, 2009, 123 Stat. 2255, which required the Secretary to submit to Congress a comprehensive plan for improving the inventory management systems of the military departments and the Defense Logistics Agency to reduce the acquisition and storage of secondary excess inventory, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(44), Aug. 13, 2018, 132 Stat. 1850.
+Pub. L. 111–84, div. A, title III, § 328, Oct. 28, 2009, 123 Stat. 2255, which required the Secretary to submit to Congress a comprehensive plan for improving the inventory management systems of the military departments and the Defense Logistics Agency to reduce the acquisition and storage of secondary excess inventory, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(44), Aug. 13, 2018, 132 Stat. 1850.
 
 **Report on Inventory and Control of Military Equipment**
 
-Pub. L. 106–65, div. A, title III, § 363, Oct. 5, 1999, 113 Stat. 576, provided that not later than Aug. 31, 2000, the Secretary of Defense was to submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999, and that not later than Nov. 30, 2000, the Inspector General of the Department of Defense was to review the report and submit comments to the committees.
+Pub. L. 106–65, div. A, title III, § 363, Oct. 5, 1999, 113 Stat. 576, provided that not later than Aug. 31, 2000, the Secretary of Defense was to submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999, and that not later than Nov. 30, 2000, the Inspector General of the Department of Defense was to review the report and submit comments to the committees.
 
 **Best Commercial Inventory Practices for Management of Secondary Supply Items**
 
-Pub. L. 105–261, div. A, title III, § 347, Oct. 17, 1998, 112 Stat. 1980, which related to implementation of the best commercial inventory practices for the acquisition and distribution of secondary supply items, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(45), Aug. 13, 2018, 132 Stat. 1850.
+Pub. L. 105–261, div. A, title III, § 347, Oct. 17, 1998, 112 Stat. 1980, which related to implementation of the best commercial inventory practices for the acquisition and distribution of secondary supply items, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(45), Aug. 13, 2018, 132 Stat. 1850.
 
 **Inventory Management of In-Transit Items**
 
-Pub. L. 105–261, div. A, title III, § 349, Oct. 17, 1998, 112 Stat. 1981, as amended by Pub. L. 106–398, § 1 [[div. A], title III, § 386], Oct. 30, 2000, 114 Stat. 1654, 1654A–88, which required a comprehensive plan to ensure visibility over all in-transit end items and secondary items, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(46), Aug. 13, 2018, 132 Stat. 1850.
+Pub. L. 105–261, div. A, title III, § 349, Oct. 17, 1998, 112 Stat. 1981, as amended by Pub. L. 106–398, § 1 [[div. A], title III, § 386], Oct. 30, 2000, 114 Stat. 1654, 1654A–88, which required a comprehensive plan to ensure visibility over all in-transit end items and secondary items, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(46), Aug. 13, 2018, 132 Stat. 1850.
 
 **Inventory Management**
 
-Pub. L. 105–85, div. A, title III, § 395, Nov. 18, 1997, 111 Stat. 1718, which required the Director of the Defense Logistics Agency to develop and submit to Congress a schedule for implementing the best commercial inventory practices for the acquisition and distribution of supplies and equipment consistent with military requirements, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(47), Aug. 13, 2018, 132 Stat. 1850.
+Pub. L. 105–85, div. A, title III, § 395, Nov. 18, 1997, 111 Stat. 1718, which required the Director of the Defense Logistics Agency to develop and submit to Congress a schedule for implementing the best commercial inventory practices for the acquisition and distribution of supplies and equipment consistent with military requirements, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(47), Aug. 13, 2018, 132 Stat. 1850.
 
 **Direct Vendor Delivery System for Consumable Inventory Items of Department of Defense**
 
-Pub. L. 104–106, div. A, title III, § 352, Feb. 10, 1996, 110 Stat. 266, provided that:
+Pub. L. 104–106, div. A, title III, § 352, Feb. 10, 1996, 110 Stat. 266, provided that:
 
 > **“(a) Implementation of Direct Vendor Delivery System.—** Not later than September 30, 1997, the Secretary of Defense shall, to the maximum extent practicable, implement a system under which consumable inventory items referred to in subsection (b) are delivered to military installations throughout the United States directly by the vendors of those items. The purpose for implementing the system is to reduce the expense and necessity of maintaining extensive warehouses for those items within the Department of Defense.
 
@@ -396,4 +396,4 @@ Pub. L. 104–106, div. A, title III, § 352, Feb. 10, 1996, 110 Stat. 266, pr
 
 **Date of Issuance of Policy**
 
-Pub. L. 101–510, div. A, title III, § 323(b), Nov. 5, 1990, 104 Stat. 1530, provided that: “The policy required by section 2458(a) of title 10, United States Code (as added by subsection (a)), shall be issued not later than 180 days after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–510, div. A, title III, § 323(b), Nov. 5, 1990, 104 Stat. 1530, provided that: “The policy required by section 2458(a) of title 10, United States Code (as added by subsection (a)), shall be issued not later than 180 days after the date of the enactment of this Act [Nov. 5, 1990].”

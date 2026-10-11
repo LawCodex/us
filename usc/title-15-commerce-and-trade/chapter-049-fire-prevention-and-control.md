@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 49—FIRE PREVENTION AND CONTROL
 
-## § 2201. Congressional findings
+## § 2201. Congressional findings
 
 The Congress finds that—
 
@@ -41,75 +41,75 @@ The Congress finds that—
 
 **(11)** The unacceptably high rates of death, injury, and property loss from fire can be reduced if the Federal Government establishes a coordinated program to support and reinforce the fire prevention and control activities of State and local governments.
 
-(Pub. L. 93–498, § 2, Oct. 29, 1974, 88 Stat. 1535.)
+(Pub. L. 93–498, § 2, Oct. 29, 1974, 88 Stat. 1535.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§ 201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
+The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§ 201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–67, div. A, § 1, July 9, 2024, 138 Stat. 1447, provided that: “This division [amending sections 2216, 2229, and 2229a of this title] may be cited as the ‘Fire Grants and Safety Act of 2023’.”
+Pub. L. 118–67, div. A, § 1, July 9, 2024, 138 Stat. 1447, provided that: “This division [amending sections 2216, 2229, and 2229a of this title] may be cited as the ‘Fire Grants and Safety Act of 2023’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–246, § 1, Dec. 20, 2022, 136 Stat. 2345, provided that: “This Act [enacting section 2235 of this title] may be cited as the ‘Empowering the U.S. Fire Administration Act’.”
+Pub. L. 117–246, § 1, Dec. 20, 2022, 136 Stat. 2345, provided that: “This Act [enacting section 2235 of this title] may be cited as the ‘Empowering the U.S. Fire Administration Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–98, § 1, Jan. 3, 2018, 131 Stat. 2239, provided that: “This Act [amending sections 2216, 2229, and 2229a of this title and enacting provisions set out as notes under section 2229 of this title] may be cited as the ‘United States Fire Administration, AFG, and SAFER Program Reauthorization Act of 2017’.”
+Pub. L. 115–98, § 1, Jan. 3, 2018, 131 Stat. 2239, provided that: “This Act [amending sections 2216, 2229, and 2229a of this title and enacting provisions set out as notes under section 2229 of this title] may be cited as the ‘United States Fire Administration, AFG, and SAFER Program Reauthorization Act of 2017’.”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title XVIII, § 1801, Jan. 2, 2013, 126 Stat. 2099, provided that: “This subtitle [subtitle A (§§ 1801–1807) of title XVIII of div. A of Pub. L. 112–239, amending sections 2203, 2204, 2206, 2210, 2214, 2215, 2217, 2218, 2224, 2226, 2229, 2229a of this title and section 290a of Title 42, The Public Health and Welfare] may be cited as the ‘Fire Grants Reauthorization Act of 2012’.”
+Pub. L. 112–239, div. A, title XVIII, § 1801, Jan. 2, 2013, 126 Stat. 2099, provided that: “This subtitle [subtitle A (§§ 1801–1807) of title XVIII of div. A of Pub. L. 112–239, amending sections 2203, 2204, 2206, 2210, 2214, 2215, 2217, 2218, 2224, 2226, 2229, 2229a of this title and section 290a of Title 42, The Public Health and Welfare] may be cited as the ‘Fire Grants Reauthorization Act of 2012’.”
 
-Pub. L. 112–239, div. A, title XVIII, § 1811, Jan. 2, 2013, 126 Stat. 2117, provided that: “This subtitle [subtitle B (§§ 1811–1815) of title XVIII of div. A of Pub. L. 112–239, amending sections 2204, 2205, 2208, 2216 of this title] may be cited as the ‘United States Fire Administration Reauthorization Act of 2012’.”
+Pub. L. 112–239, div. A, title XVIII, § 1811, Jan. 2, 2013, 126 Stat. 2117, provided that: “This subtitle [subtitle B (§§ 1811–1815) of title XVIII of div. A of Pub. L. 112–239, amending sections 2204, 2205, 2208, 2216 of this title] may be cited as the ‘United States Fire Administration Reauthorization Act of 2012’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–376, § 1, Oct. 8, 2008, 122 Stat. 4056, provided that: “This subtitle [probably should be “This Act”, enacting section 2234 of this title, amending sections 2203, 2206 to 2208, 2216, and 2218 of this title and section 321d of Title 6, Domestic Security, and enacting provisions set out as a note under this section] may be cited as the ‘United States Fire Administration Reauthorization Act of 2008’.”
+Pub. L. 110–376, § 1, Oct. 8, 2008, 122 Stat. 4056, provided that: “This subtitle [probably should be “This Act”, enacting section 2234 of this title, amending sections 2203, 2206 to 2208, 2216, and 2218 of this title and section 321d of Title 6, Domestic Security, and enacting provisions set out as a note under this section] may be cited as the ‘United States Fire Administration Reauthorization Act of 2008’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–375, div. C, title XXXVI, § 3601, Oct. 28, 2004, 118 Stat. 2195, provided that: “This title [amending section 2229 of this title] may be cited as the ‘Assistance to Firefighters Grant Program Reauthorization Act of 2004’.”
+Pub. L. 108–375, div. C, title XXXVI, § 3601, Oct. 28, 2004, 118 Stat. 2195, provided that: “This title [amending section 2229 of this title] may be cited as the ‘Assistance to Firefighters Grant Program Reauthorization Act of 2004’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–169, title I, § 101, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title [amending section 2216 of this title and enacting provisions set out as a note under section 2204 of this title] may be cited as the ‘United States Fire Administration Reauthorization Act of 2003’.”
+Pub. L. 108–169, title I, § 101, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title [amending section 2216 of this title and enacting provisions set out as a note under section 2204 of this title] may be cited as the ‘United States Fire Administration Reauthorization Act of 2003’.”
 
-Pub. L. 108–169, title II, § 201, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title [amending sections 2206, 2207, 2209, and 2229 of this title and sections 151303, 151304, and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under section 2206 of this title] may be cited as the ‘Firefighting Research and Coordination Act’.”
+Pub. L. 108–169, title II, § 201, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title [amending sections 2206, 2207, 2209, and 2229 of this title and sections 151303, 151304, and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under section 2206 of this title] may be cited as the ‘Firefighting Research and Coordination Act’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–503, title I, § 101, Nov. 13, 2000, 114 Stat. 2298, provided that: “This title [enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and section 290a of Title 42, The Public Health and Welfare, and repealing sections 2222 and 2223 of this title] may be cited as the ‘Fire Administration Authorization Act of 2000’.”
+Pub. L. 106–503, title I, § 101, Nov. 13, 2000, 114 Stat. 2298, provided that: “This title [enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and section 290a of Title 42, The Public Health and Welfare, and repealing sections 2222 and 2223 of this title] may be cited as the ‘Fire Administration Authorization Act of 2000’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–108, § 1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act [amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
+Pub. L. 105–108, § 1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act [amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–254, § 1, May 19, 1994, 108 Stat. 679, provided that: “This Act [enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title] may be cited as the ‘Arson Prevention Act of 1994’.”
+Pub. L. 103–254, § 1, May 19, 1994, 108 Stat. 679, provided that: “This Act [enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title] may be cited as the ‘Arson Prevention Act of 1994’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–391, § 1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act [enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
+Pub. L. 101–391, § 1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act [enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
 
 **Short Title**
 
-Pub. L. 93–498, § 1, Oct. 29, 1974, 88 Stat. 1535, provided: “That this Act [enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
+Pub. L. 93–498, § 1, Oct. 29, 1974, 88 Stat. 1535, provided: “That this Act [enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
 
 **Study on Need for Federal Assistance to State and Local Communities To Fund Firefighting and Emergency Response Activities**
 
-Pub. L. 106–398, § 1 [[div. A], title XVII, § 1701(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the results of the study to Congress within 18 months of Oct. 30, 2000.
+Pub. L. 106–398, § 1 [[div. A], title XVII, § 1701(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the results of the study to Congress within 18 months of Oct. 30, 2000.
 
 **Local Firefighter and Emergency Services Training**
 
-Pub. L. 104–132, title VIII, § 819, Apr. 24, 1996, 110 Stat. 1316, as amended by Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410, provided that:
+Pub. L. 104–132, title VIII, § 819, Apr. 24, 1996, 110 Stat. 1316, as amended by Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410, provided that:
 
 > **“(a) Grant Authorization.—** The Attorney General, in consultation with the Administrator of the Federal Emergency Management Agency, may make grants to provide specialized training and equipment to enhance the capability of metropolitan fire and emergency service departments to respond to terrorist attacks.
 
@@ -117,7 +117,7 @@ Pub. L. 104–132, title VIII, § 819, Apr. 24, 1996, 110 Stat. 1316, as amend
 
 **Arson Prevention and Control; Congressional Findings**
 
-Pub. L. 103–254, § 2, May 19, 1994, 108 Stat. 679, provided that:
+Pub. L. 103–254, § 2, May 19, 1994, 108 Stat. 679, provided that:
 
 > “Congress finds that—
 
@@ -139,7 +139,7 @@ Pub. L. 103–254, § 2, May 19, 1994, 108 Stat. 679, provided that:
 
 **Congressional Findings and Purpose**
 
-Pub. L. 110–376, § 2, Oct. 8, 2008, 122 Stat. 4056, provided that:
+Pub. L. 110–376, § 2, Oct. 8, 2008, 122 Stat. 4056, provided that:
 
 > “Congress makes the following findings:
 
@@ -157,7 +157,7 @@ Pub. L. 110–376, § 2, Oct. 8, 2008, 122 Stat. 4056, provided that:
 
 > **“(7)** Because of the essential role of the United States Fire Administration and the fire service community in preparing for and responding to national [probably should be “natural”] and man-made disasters, the United States Fire Administration should have a prominent place within the Federal Emergency Management Agency and the Department of Homeland Security.”
 
-Pub. L. 101–391, § 2, Sept. 25, 1990, 104 Stat. 747, provided that:
+Pub. L. 101–391, § 2, Sept. 25, 1990, 104 Stat. 747, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -175,11 +175,11 @@ Pub. L. 101–391, § 2, Sept. 25, 1990, 104 Stat. 747, provided that:
 
 **Waiver of Federal Liability**
 
-Pub. L. 101–391, § 7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act [see Short Title of 1990 Amendment note above] or the amendments made by this Act.”
+Pub. L. 101–391, § 7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act [see Short Title of 1990 Amendment note above] or the amendments made by this Act.”
 
 **Effect on Certain Requirements**
 
-Pub. L. 101–391, § 8, Sept. 25, 1990, 104 Stat. 752, provided that: “Nothing in this Act [see Short Title of 1990 Amendment note above] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features.”
+Pub. L. 101–391, § 8, Sept. 25, 1990, 104 Stat. 752, provided that: “Nothing in this Act [see Short Title of 1990 Amendment note above] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features.”
 
 **Executive Documents**
 
@@ -332,7 +332,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Jimmy Carter.
 
-## § 2202. Declaration of purpose
+## § 2202. Declaration of purpose
 
 It is declared to be the purpose of Congress in this chapter to—
 
@@ -344,7 +344,7 @@ It is declared to be the purpose of Congress in this chapter to—
 
 **(4)** establish an intensified program of research into the treatment of burn and smoke injuries and the rehabilitation of victims of fires within the National Institutes of Health.
 
-(Pub. L. 93–498, § 3, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, § 2(a)(1), Oct. 5, 1978, 92 Stat. 932.)
+(Pub. L. 93–498, § 3, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, § 2(a)(1), Oct. 5, 1978, 92 Stat. 932.)
 
 **Editorial Notes**
 
@@ -368,9 +368,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Transfer of Functions**
 
-The National Fire Prevention and Control Administration [now United States Fire Administration] and the National Academy for Fire Prevention and Control and the positions of Administrator of the Administration and Superintendent of the Academy were transferred to an independent agency in the Executive Branch, to be known as the Federal Emergency Management Agency, and all functions vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration, and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the provisions of this chapter, with the exception of those functions under sections 2220 and 2221 of this title which remain vested in the Administrator of the United States Fire Administration, were transferred to the Director of the Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §§ 201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of this title, effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, §§ 1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19367.
+The National Fire Prevention and Control Administration [now United States Fire Administration] and the National Academy for Fire Prevention and Control and the positions of Administrator of the Administration and Superintendent of the Academy were transferred to an independent agency in the Executive Branch, to be known as the Federal Emergency Management Agency, and all functions vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration, and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the provisions of this chapter, with the exception of those functions under sections 2220 and 2221 of this title which remain vested in the Administrator of the United States Fire Administration, were transferred to the Director of the Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §§ 201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of this title, effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, §§ 1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19367.
 
-## § 2203. Definitions
+## § 2203. Definitions
 
 As used in this chapter, the term—
 
@@ -394,11 +394,11 @@ As used in this chapter, the term—
 
 **(10)** “State” has the meaning given the term in section 101 of title 6.1
 
-<sup>1</sup>  So in original. The period probably should be “; and”.
+<sup>1</sup> So in original. The period probably should be “; and”.
 
 **(11)** “wildland-urban interface” has the meaning given such term in section 6511 of title 16.
 
-(Pub. L. 93–498, § 4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, § 2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, § 3(b), Sept. 25, 1990, 104 Stat. 749; Pub. L. 106–503, title I, § 110(a)(2)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, § 10, Oct. 8, 2008, 122 Stat. 4061; Pub. L. 112–239, div. A, title XVIII, § 1802(a), Jan. 2, 2013, 126 Stat. 2099.)
+(Pub. L. 93–498, § 4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, § 2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, § 3(b), Sept. 25, 1990, 104 Stat. 749; Pub. L. 106–503, title I, § 110(a)(2)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, § 10, Oct. 8, 2008, 122 Stat. 4061; Pub. L. 112–239, div. A, title XVIII, § 1802(a), Jan. 2, 2013, 126 Stat. 2099.)
 
 **Editorial Notes**
 
@@ -408,31 +408,31 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-2013—Par. (3). Pub. L. 112–239, § 1802(a)(1), inserted “, except as otherwise provided,” after “means”.
+2013—Par. (3). Pub. L. 112–239, § 1802(a)(1), inserted “, except as otherwise provided,” after “means”.
 
-Par. (4). Pub. L. 112–239, § 1802(a)(2), substituted “ ‘Administrator of FEMA’ means the Administrator of the Federal Emergency Management Agency;” for “ ‘Director’ means the Director of the Federal Emergency Management Agency;”.
+Par. (4). Pub. L. 112–239, § 1802(a)(2), substituted “ ‘Administrator of FEMA’ means the Administrator of the Federal Emergency Management Agency;” for “ ‘Director’ means the Director of the Federal Emergency Management Agency;”.
 
-Par. (5). Pub. L. 112–239, § 1802(a)(3), inserted “Indian tribe,” after “county,” and substituted “and ‘fire control’ ” for “and ‘firecontrol’ ”.
+Par. (5). Pub. L. 112–239, § 1802(a)(3), inserted “Indian tribe,” after “county,” and substituted “and ‘fire control’ ” for “and ‘firecontrol’ ”.
 
-Pars. (6) to (8). Pub. L. 112–239, § 1802(a)(4), (5), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+Pars. (6) to (8). Pub. L. 112–239, § 1802(a)(4), (5), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 112–239, § 1802(a)(6), (7), added par. (9) and redesignated former par. (9) as (10). Former par. (10) redesignated (11).
+Par. (9). Pub. L. 112–239, § 1802(a)(6), (7), added par. (9) and redesignated former par. (9) as (10). Former par. (10) redesignated (11).
 
-Pub. L. 112–239, § 1802(a)(4), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+Pub. L. 112–239, § 1802(a)(4), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
-Par. (10). Pub. L. 112–239, § 1802(a)(8), amended par. (10) generally. Prior to amendment, par. (10) defined the term “State”.
+Par. (10). Pub. L. 112–239, § 1802(a)(8), amended par. (10) generally. Prior to amendment, par. (10) defined the term “State”.
 
-Pub. L. 112–239, § 1802(a)(6), redesignated par. (9) as (10). Former par. (10) redesignated (11).
+Pub. L. 112–239, § 1802(a)(6), redesignated par. (9) as (10). Former par. (10) redesignated (11).
 
-Pub. L. 112–239, § 1802(a)(4), redesignated par. (9) as (10).
+Pub. L. 112–239, § 1802(a)(4), redesignated par. (9) as (10).
 
-Par. (11). Pub. L. 112–239, § 1802(a)(6), redesignated par. (10) as (11).
+Par. (11). Pub. L. 112–239, § 1802(a)(6), redesignated par. (10) as (11).
 
-2008—Par. (3). Pub. L. 110–376, § 10(1), substituted “Administration, within the Federal Emergency Management Agency” for “Administration”.
+2008—Par. (3). Pub. L. 110–376, § 10(1), substituted “Administration, within the Federal Emergency Management Agency” for “Administration”.
 
-Par. (9). Pub. L. 110–376, § 10(2)–(4), added par. (9).
+Par. (9). Pub. L. 110–376, § 10(2)–(4), added par. (9).
 
-2000—Pars. (7) to (9). Pub. L. 106–503 inserted “and” after semicolon in par. (7), redesignated par. (9) as (8), and struck out former par. (8) which read as follows: “ ‘Secretary’ means the Secretary of Commerce; and”.
+2000—Pars. (7) to (9). Pub. L. 106–503 inserted “and” after semicolon in par. (7), redesignated par. (9) as (8), and struck out former par. (8) which read as follows: “ ‘Secretary’ means the Secretary of Commerce; and”.
 
 1990—Pars. (4) to (9). Pub. L. 101–391 added pars. (4) and (7) and redesignated former pars. (4), (5), (6), and (7) as (5), (6), (8), and (9), respectively.
 
@@ -452,7 +452,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2204. United States Fire Administration
+## § 2204. United States Fire Administration
 
 **(a) Establishment**
 
@@ -468,17 +468,17 @@ There shall be at the head of the Administration the Administrator of the United
 
 **(2)** act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
-(Pub. L. 93–498, § 5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, § 2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 106–503, title I, § 110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–166, § 2(f)(2), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 112–239, div. A, title XVIII, §§ 1802(b)(1), 1812, Jan. 2, 2013, 126 Stat. 2100, 2117.)
+(Pub. L. 93–498, § 5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, § 2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 106–503, title I, § 110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–166, § 2(f)(2), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 112–239, div. A, title XVIII, §§ 1802(b)(1), 1812, Jan. 2, 2013, 126 Stat. 2100, 2117.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (b). Pub. L. 112–239, § 1802(b)(1), substituted “Administrator of FEMA” for “Director”.
+2013—Subsec. (b). Pub. L. 112–239, § 1802(b)(1), substituted “Administrator of FEMA” for “Director”.
 
-Subsec. (c). Pub. L. 112–239, § 1812, amended subsec. (c) generally. Prior to amendment, text read as follows: “There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.”
+Subsec. (c). Pub. L. 112–239, § 1812, amended subsec. (c) generally. Prior to amendment, text read as follows: “There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.”
 
-2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President”.
+2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President”.
 
 2000—Subsec. (b). Pub. L. 106–503 substituted “Director” for “Secretary”.
 
@@ -498,11 +498,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Re-Establishment of Position of United States Fire Administrator**
 
-Pub. L. 108–169, title I, § 102, Dec. 6, 2003, 117 Stat. 2036, provided that: “Section 1513 of the Homeland Security Act of 2002 (6 U.S.C. 553) does not apply to the position or office of Administrator of the United States Fire Administration, who shall continue to be appointed and compensated as provided by section 5(b) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2204(b)).”
+Pub. L. 108–169, title I, § 102, Dec. 6, 2003, 117 Stat. 2036, provided that: “Section 1513 of the Homeland Security Act of 2002 (6 U.S.C. 553) does not apply to the position or office of Administrator of the United States Fire Administration, who shall continue to be appointed and compensated as provided by section 5(b) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2204(b)).”
 
 **Termination or Privatization of Functions**
 
-Pub. L. 105–108, § 4, Nov. 20, 1997, 111 Stat. 2264, provided that:
+Pub. L. 105–108, § 4, Nov. 20, 1997, 111 Stat. 2264, provided that:
 
 > **“(a) In General.—** Not later than 60 days before the termination or transfer to a private sector person or entity of any significant function of the United States Fire Administration, as described in subsection (b), the Administrator of the United States Fire Administration shall transmit to Congress a report providing notice of that termination or transfer.
 
@@ -514,7 +514,7 @@ Pub. L. 105–108, § 4, Nov. 20, 1997, 111 Stat. 2264, provided that:
 
 **Notice of Reprogramming or Reorganization**
 
-Pub. L. 105–108, § 5, Nov. 20, 1997, 111 Stat. 2265, provided that:
+Pub. L. 105–108, § 5, Nov. 20, 1997, 111 Stat. 2265, provided that:
 
 > **“(a) Major Reorganization Defined.—** With respect to the United States Fire Administration, the term ‘major reorganization’ means any reorganization of the Administration that involves the reassignment of more than 25 percent of the employees of the Administration.
 
@@ -528,11 +528,11 @@ Pub. L. 105–108, § 5, Nov. 20, 1997, 111 Stat. 2265, provided that:
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2205. Public education
+## § 2205. Public education
 
 The Administrator is authorized to take such steps as the Administrator considers appropriate to educate the public and overcome public indifference as to fire, fire prevention, and individual preparedness. Such steps may include, but are not limited to, publications, audiovisual presentations, and demonstrations. Such public education efforts shall include programs to provide specialized information for those groups of individuals who are particularly vulnerable to fire hazards, such as the young and the elderly. The Administrator shall sponsor and encourage research, testing, and experimentation to determine the most effective means of such public education.
 
-(Pub. L. 93–498, § 6, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 112–239, div. A, title XVIII, § 1813, Jan. 2, 2013, 126 Stat. 2117.)
+(Pub. L. 93–498, § 6, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 112–239, div. A, title XVIII, § 1813, Jan. 2, 2013, 126 Stat. 2117.)
 
 **Editorial Notes**
 
@@ -554,7 +554,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2206. National Academy for Fire Prevention and Control
+## § 2206. National Academy for Fire Prevention and Control
 
 **(a) Establishment**
 
@@ -702,7 +702,7 @@ The amounts expended by the Administrator to carry out this subsection in any fi
 
 **(2)** the desired training outcome of all such changes.
 
-(Pub. L. 93–498, § 7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, § 110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, § 204(a), (d), Dec. 6, 2003, 117 Stat. 2039; Pub. L. 110–376, § 4(a)–(c), Oct. 8, 2008, 122 Stat. 4057, 4058; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, § 7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, § 110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, § 204(a), (d), Dec. 6, 2003, 117 Stat. 2039; Pub. L. 110–376, § 4(a)–(c), Oct. 8, 2008, 122 Stat. 4057, 4058; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 **Editorial Notes**
 
@@ -710,31 +710,31 @@ The amounts expended by the Administrator to carry out this subsection in any fi
 
 2013—Subsecs. (a), (b), (g), (j). Pub. L. 112–239 substituted “Administrator of FEMA” for “Director” wherever appearing.
 
-2008—Subsec. (c)(6). Pub. L. 110–376, § 4(b)(1), inserted “, including on-site training” after “United States”.
+2008—Subsec. (c)(6). Pub. L. 110–376, § 4(b)(1), inserted “, including on-site training” after “United States”.
 
-Subsec. (d)(1)(H). Pub. L. 110–376, § 4(a)(1), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “response, tactics, and strategies for dealing with terrorist-caused national catastrophes;”.
+Subsec. (d)(1)(H). Pub. L. 110–376, § 4(a)(1), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “response, tactics, and strategies for dealing with terrorist-caused national catastrophes;”.
 
-Subsec. (d)(1)(I), (J). Pub. L. 110–376, § 4(a)(5), added subpars. (I) and (J). Former subpars. (I) and (J) redesignated (M) and (N), respectively.
+Subsec. (d)(1)(I), (J). Pub. L. 110–376, § 4(a)(5), added subpars. (I) and (J). Former subpars. (I) and (J) redesignated (M) and (N), respectively.
 
-Subsec. (d)(1)(K). Pub. L. 110–376, § 4(a)(5), added subpar. (K). Former subpar. (K) redesignated (O).
+Subsec. (d)(1)(K). Pub. L. 110–376, § 4(a)(5), added subpar. (K). Former subpar. (K) redesignated (O).
 
-Pub. L. 110–376, § 4(a)(2), substituted “wildland” for “forest”.
+Pub. L. 110–376, § 4(a)(2), substituted “wildland” for “forest”.
 
-Subsec. (d)(1)(L). Pub. L. 110–376, § 4(a)(5), added subpar. (L). Former subpar. (L) redesignated (P).
+Subsec. (d)(1)(L). Pub. L. 110–376, § 4(a)(5), added subpar. (L). Former subpar. (L) redesignated (P).
 
-Subsec. (d)(1)(M). Pub. L. 110–376, § 4(a)(4), redesignated subpar. (I) as (M). Former subpar. (M) redesignated (Q).
+Subsec. (d)(1)(M). Pub. L. 110–376, § 4(a)(4), redesignated subpar. (I) as (M). Former subpar. (M) redesignated (Q).
 
-Pub. L. 110–376, § 4(a)(3), struck out “response” before “tactics”.
+Pub. L. 110–376, § 4(a)(3), struck out “response” before “tactics”.
 
-Subsec. (d)(1)(N) to (R). Pub. L. 110–376, § 4(a)(4), redesignated subpars. (J) to (N) as (N) to (R), respectively.
+Subsec. (d)(1)(N) to (R). Pub. L. 110–376, § 4(a)(4), redesignated subpars. (J) to (N) as (N) to (R), respectively.
 
-Subsec. (f). Pub. L. 110–376, § 4(b)(2), which directed substitution of “7.5 percent” for “4 percent”, was executed by making the substitution for “4 per centum” to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 110–376, § 4(b)(2), which directed substitution of “7.5 percent” for “4 percent”, was executed by making the substitution for “4 per centum” to reflect the probable intent of Congress.
 
-Subsecs. (m), (n). Pub. L. 110–376, § 4(b)(3), (c), added subsecs. (m) and (n).
+Subsecs. (m), (n). Pub. L. 110–376, § 4(b)(3), (c), added subsecs. (m) and (n).
 
-2003—Subsec. (d)(1)(F) to (N). Pub. L. 108–169, § 204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
+2003—Subsec. (d)(1)(F) to (N). Pub. L. 108–169, § 204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
 
-Subsec. (*l*). Pub. L. 108–169, § 204(d), inserted at end “The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters.”
+Subsec. (*l*). Pub. L. 108–169, § 204(d), inserted at end “The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters.”
 
 2000—Subsecs. (a), (b), (g), (j). Pub. L. 106–503 substituted “Director” for “Secretary” wherever appearing.
 
@@ -748,11 +748,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Consultation on Fire Academy Classes**
 
-Pub. L. 108–169, title II, § 204(b), Dec. 6, 2003, 117 Stat. 2039, provided that: “The Superintendent of the National Fire Academy may consult with other Federal, State, and local agency officials in developing curricula for classes offered by the Academy.”
+Pub. L. 108–169, title II, § 204(b), Dec. 6, 2003, 117 Stat. 2039, provided that: “The Superintendent of the National Fire Academy may consult with other Federal, State, and local agency officials in developing curricula for classes offered by the Academy.”
 
 **Coordination With Other Programs To Avoid Duplication**
 
-Pub. L. 108–169, title II, § 204(c), Dec. 6, 2003, 117 Stat. 2039, provided that:
+Pub. L. 108–169, title II, § 204(c), Dec. 6, 2003, 117 Stat. 2039, provided that:
 
 > “The Administrator of the United States Fire Administration shall coordinate training provided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2206(d)(1)) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
 
@@ -770,7 +770,7 @@ Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1377, provided that: “Th
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2207. Fire technology
+## § 2207. Fire technology
 
 **(a) Development** The Administrator shall conduct a continuing program of development, testing, and evaluation of equipment for use by the Nation’s fire, rescue, and civil defense services, with the aim of making available improved suppression, protective, auxiliary, and warning devices incorporating the latest technology. Attention shall be given to the standardization, compatibility, and interchangeability of such equipment. Such development, testing, and evaluation activities shall include, but need not be limited to—
 
@@ -886,17 +886,17 @@ In establishing and conducting programs under this section, the Administrator sh
 
 No information shall be required to be published under this subsection before the date that is 1 year after October 8, 2008.
 
-(Pub. L. 93–498, § 8, Oct. 29, 1974, 88 Stat. 1540; Pub. L. 108–169, title II, § 202, Dec. 6, 2003, 117 Stat. 2037; Pub. L. 110–376, §§ 6, 9(b), Oct. 8, 2008, 122 Stat. 4059, 4061.)
+(Pub. L. 93–498, § 8, Oct. 29, 1974, 88 Stat. 1540; Pub. L. 108–169, title II, § 202, Dec. 6, 2003, 117 Stat. 2037; Pub. L. 110–376, §§ 6, 9(b), Oct. 8, 2008, 122 Stat. 4059, 4061.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (c)(2) to (5). Pub. L. 110–376, § 9(b), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+2008—Subsec. (c)(2) to (5). Pub. L. 110–376, § 9(b), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-Subsec. (d). Pub. L. 110–376, § 6(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Administrator is authorized to assist the Nation’s fire services, directly or through contracts, grants, or other forms of assistance, to sponsor and encourage research into approaches, techniques, systems, and equipment to improve fire prevention and control in the rural and remote areas of the Nation.”
+Subsec. (d). Pub. L. 110–376, § 6(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Administrator is authorized to assist the Nation’s fire services, directly or through contracts, grants, or other forms of assistance, to sponsor and encourage research into approaches, techniques, systems, and equipment to improve fire prevention and control in the rural and remote areas of the Nation.”
 
-Subsec. (h). Pub. L. 110–376, § 6(b), added subsec. (h).
+Subsec. (h). Pub. L. 110–376, § 6(b), added subsec. (h).
 
 2003—Subsecs. (e) to (g). Pub. L. 108–169 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
@@ -914,7 +914,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2208. National Fire Data Center
+## § 2208. National Fire Data Center
 
 **(a) Functions** The Administrator shall operate, directly or through contracts or grants, an integrated, comprehensive National Fire Data Center for the selection, analysis, publication, and dissemination of information related to the prevention, occurrence, control, and results of fires of all types. The program of such Data Center shall be designed to (1) provide an accurate nationwide analysis of the fire problem, (2) identify major problem areas, (3) assist in setting priorities, (4) determine possible solutions to problems, and (5) monitor the progress of programs to reduce fire losses. To carry out these functions, the Data Center shall gather and analyze—
 
@@ -964,25 +964,25 @@ The Administrator shall update the National Fire Incident Reporting System to en
 
 **(2)** other applicable regulations, including parts 160, 162, and 164 of title 45, Code of Federal Regulations (as in effect on March 12, 2019).
 
-(Pub. L. 93–498, § 9, Oct. 29, 1974, 88 Stat. 1541; Pub. L. 110–376, § 5, Oct. 8, 2008, 122 Stat. 4059; Pub. L. 112–239, div. A, title XVIII, § 1815, Jan. 2, 2013, 126 Stat. 2118; Pub. L. 116–9, title I, § 1114(g), Mar. 12, 2019, 133 Stat. 617.)
+(Pub. L. 93–498, § 9, Oct. 29, 1974, 88 Stat. 1541; Pub. L. 110–376, § 5, Oct. 8, 2008, 122 Stat. 4059; Pub. L. 112–239, div. A, title XVIII, § 1815, Jan. 2, 2013, 126 Stat. 2118; Pub. L. 116–9, title I, § 1114(g), Mar. 12, 2019, 133 Stat. 617.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (a)(2). Pub. L. 116–9, § 1114(g)(1)(A), inserted “, categorized by the type of fire” after “such injuries and deaths”.
+2019—Subsec. (a)(2). Pub. L. 116–9, § 1114(g)(1)(A), inserted “, categorized by the type of fire” after “such injuries and deaths”.
 
-Subsec. (a)(3). Pub. L. 116–9, § 1114(g)(1)(B), substituted “activities, including—” for “activities;” and added subpars. (A) to (D).
+Subsec. (a)(3). Pub. L. 116–9, § 1114(g)(1)(B), substituted “activities, including—” for “activities;” and added subpars. (A) to (D).
 
-Subsec. (b)(3). Pub. L. 116–9, § 1114(g)(2), inserted “, including the Center for Firefighter Injury Research and Safety Trends” after “public and private”.
+Subsec. (b)(3). Pub. L. 116–9, § 1114(g)(2), inserted “, including the Center for Firefighter Injury Research and Safety Trends” after “public and private”.
 
-Subsec. (e). Pub. L. 116–9, § 1114(g)(3), added subsec. (e).
+Subsec. (e). Pub. L. 116–9, § 1114(g)(3), added subsec. (e).
 
 2013—Subsec. (d). Pub. L. 112–239 struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: “Of the amounts made available pursuant to subparagraphs (E), (F), and (G) of section 2216(g)(1) of this title, the Administrator shall use not more than an aggregate amount of $5,000,000 during the 3-year period consisting of fiscal years 2009, 2010, and 2011 to carry out the activities required by paragraph (1).”
 
-2008—Subsec. (b)(2). Pub. L. 110–376, § 5(b), substituted “assist Federal, State,” for “assist State,”.
+2008—Subsec. (b)(2). Pub. L. 110–376, § 5(b), substituted “assist Federal, State,” for “assist State,”.
 
-Subsec. (d). Pub. L. 110–376, § 5(a), added subsec. (d).
+Subsec. (d). Pub. L. 110–376, § 5(a), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -998,7 +998,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2209. Master plans
+## § 2209. Master plans
 
 **(a) Encouragement by Administrator**
 
@@ -1022,7 +1022,7 @@ The Administrator shall develop and make available to State and local fire servi
 
 For the purposes of this section, a “master plan” is one which will result in the planning and implementation in the area involved of a general program of action for fire prevention and control. Such master plan is reasonably expected to include (1) a survey of the resources and personnel of existing fire services and an analysis of the effectiveness of the fire and building codes in such area; (2) an analysis of short and long term fire prevention and control needs in such area; (3) a plan to meet the fire prevention and control needs in such area; and (4) an estimate of cost and realistic plans for financing the implementation of the plan and operation on a continuing basis and a summary of problems that are anticipated in implementing such master plan.
 
-(Pub. L. 93–498, § 10, Oct. 29, 1974, 88 Stat. 1542; Pub. L. 106–503, title I, § 110(a)(1)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, § 203(a), Dec. 6, 2003, 117 Stat. 2038.)
+(Pub. L. 93–498, § 10, Oct. 29, 1974, 88 Stat. 1542; Pub. L. 106–503, title I, § 110(a)(1)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, § 203(a), Dec. 6, 2003, 117 Stat. 2038.)
 
 **Editorial Notes**
 
@@ -1050,7 +1050,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2210. Reimbursement for costs of firefighting on Federal property
+## § 2210. Reimbursement for costs of firefighting on Federal property
 
 **(a) Filing of claims**
 
@@ -1072,7 +1072,7 @@ The Administrator of FEMA shall forward the claim and a copy of the Administrato
 
 In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
 
-(Pub. L. 93–498, § 11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, § 146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–503, title I, § 110(a)(2)(B)(iii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, § 11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, § 146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–503, title I, § 110(a)(2)(B)(iii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 **Editorial Notes**
 
@@ -1108,11 +1108,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2211. Review of fire prevention codes
+## § 2211. Review of fire prevention codes
 
 The Administrator is authorized to review, evaluate, and suggest improvements in State and local fire prevention codes, building codes, and any relevant Federal or private codes and regulations. In evaluating any such code or codes, the Administrator shall consider the human impact of all code requirements, standards, or provisions in terms of comfort and habitability for residents or employees, as well as the fire prevention and control value or potential of each such requirement, standard, or provision.
 
-(Pub. L. 93–498, § 12, Oct. 29, 1974, 88 Stat. 1543.)
+(Pub. L. 93–498, § 12, Oct. 29, 1974, 88 Stat. 1543.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1128,11 +1128,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2212. Fire safety effectiveness statements
+## § 2212. Fire safety effectiveness statements
 
 The Administrator is authorized to encourage owners and managers of residential multiple-unit, commercial, industrial, and transportation structures to prepare Fire Safety Effectiveness Statements, pursuant to standards, forms, rules, and regulations to be developed and issued by the Administrator.
 
-(Pub. L. 93–498, § 13, Oct. 29, 1974, 88 Stat. 1544.)
+(Pub. L. 93–498, § 13, Oct. 29, 1974, 88 Stat. 1544.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1148,11 +1148,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2213. Annual conference
+## § 2213. Annual conference
 
 The Administrator is authorized to organize, or to participate in organizing, an annual conference on fire prevention and control. He may pay, in whole or in part, the cost of such conference and the expenses of some or all of the participants. All of the Nation’s fire services shall be eligible to send representatives to each such conference to discuss, exchange ideas on, and participate in educational programs on new techniques in fire prevention and control. Such conferences shall be open to the public.
 
-(Pub. L. 93–498, § 14, Oct. 29, 1974, 88 Stat. 1544.)
+(Pub. L. 93–498, § 14, Oct. 29, 1974, 88 Stat. 1544.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1168,7 +1168,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2214. Public safety awards
+## § 2214. Public safety awards
 
 **(a) Establishment**
 
@@ -1194,25 +1194,25 @@ The Administrator of FEMA and the Attorney General are authorized and directed t
 
 **(3)** a civil defense officer.
 
-(Pub. L. 93–498, § 15, Oct. 29, 1974, 88 Stat. 1544; Pub. L. 98–241, title II, § 202, Mar. 22, 1984, 98 Stat. 96; Pub. L. 106–503, title I, § 110(a)(2)(B)(iv), (v), (C), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 107–12, § 8, May 30, 2001, 115 Stat. 22; Pub. L. 112–239, div. A, title XVIII, § 1802(b), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, § 15, Oct. 29, 1974, 88 Stat. 1544; Pub. L. 98–241, title II, § 202, Mar. 22, 1984, 98 Stat. 96; Pub. L. 106–503, title I, § 110(a)(2)(B)(iv), (v), (C), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 107–12, § 8, May 30, 2001, 115 Stat. 22; Pub. L. 112–239, div. A, title XVIII, § 1802(b), Jan. 2, 2013, 126 Stat. 2100.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Pub. L. 112–239, § 1802(b)(2), substituted “Administrator’s Award” for “Director’s Award” wherever appearing.
+2013—Pub. L. 112–239, § 1802(b)(2), substituted “Administrator’s Award” for “Director’s Award” wherever appearing.
 
-Pub. L. 112–239, § 1802(b)(1), substituted “Administrator of FEMA” for “Director” in two places.
+Pub. L. 112–239, § 1802(b)(1), substituted “Administrator of FEMA” for “Director” in two places.
 
-2001—Subsec. (a). Pub. L. 107–12, § 8(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are hereby established two classes of honorary awards for the recognition of outstanding and distinguished service by public safety officers—
+2001—Subsec. (a). Pub. L. 107–12, § 8(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are hereby established two classes of honorary awards for the recognition of outstanding and distinguished service by public safety officers—
 
 “(1) the President’s Award For Outstanding Public Safety Service (‘President’s Award’); and
 
 “(2) the Director’s Award For Distinguished Public Safety Service (‘Director’s Award’).”
 
-Subsec. (b). Pub. L. 107–12, § 8(2), struck out pars. (1) and (2) designations and text of par. (1) which read as follows: “The President’s Award shall be presented by the President of the United States to public safety officers for extraordinary valor in the line of duty or for outstanding contribution to public safety.”
+Subsec. (b). Pub. L. 107–12, § 8(2), struck out pars. (1) and (2) designations and text of par. (1) which read as follows: “The President’s Award shall be presented by the President of the United States to public safety officers for extraordinary valor in the line of duty or for outstanding contribution to public safety.”
 
-Subsec. (c). Pub. L. 107–12, § 8(3), (4), redesignated subsec. (e) as (c) and struck out pars. (1) and (2) designations and text of par. (1), which read as follows: “Each President’s Award shall consist of—
+Subsec. (c). Pub. L. 107–12, § 8(3), (4), redesignated subsec. (e) as (c) and struck out pars. (1) and (2) designations and text of par. (1), which read as follows: “Each President’s Award shall consist of—
 
 “(A) a medal suitably inscribed, bearing such devices and emblems, and struck from such material as the Secretary of the Treasury, after consultation with the Director and the Attorney General deems appropriate. The Secretary of the Treasury shall cause the medal to be struck and furnished to the President; and
 
@@ -1220,31 +1220,31 @@ Subsec. (c). Pub. L. 107–12, § 8(3), (4), redesignated subsec. (e) as (c) a
 
 Former subsec. (c) was struck out.
 
-Pub. L. 107–12, § 8(3), struck out heading and text of subsec. (c). Text read as follows: “The Director and the Attorney General shall advise and assist the President in the selection of individuals to whom the President’s Award shall be tendered and in the course of performing such duties they shall seek and review nominations for such awards which are submitted to them by Federal, State, county, and local government officials. They shall annually transmit to the President the names of those individuals determined by them to merit the award, together with the reasons therefor. Recipients of the President’s Award shall be selected by the President.”
+Pub. L. 107–12, § 8(3), struck out heading and text of subsec. (c). Text read as follows: “The Director and the Attorney General shall advise and assist the President in the selection of individuals to whom the President’s Award shall be tendered and in the course of performing such duties they shall seek and review nominations for such awards which are submitted to them by Federal, State, county, and local government officials. They shall annually transmit to the President the names of those individuals determined by them to merit the award, together with the reasons therefor. Recipients of the President’s Award shall be selected by the President.”
 
-Subsec. (d). Pub. L. 107–12, § 8(3), redesignated subsec. (f) as (d) and struck out heading and text of former subsec. (d). Text read as follows:
+Subsec. (d). Pub. L. 107–12, § 8(3), redesignated subsec. (f) as (d) and struck out heading and text of former subsec. (d). Text read as follows:
 
 “(1) There shall not be presented in any one calendar year in excess of twelve President’s Awards.
 
 “(2) There shall be no limitation on the number of Director’s Awards presented.”
 
-Subsecs. (e) to (g). Pub. L. 107–12, § 8(3), redesignated subsecs. (e) to (g) as (c) to (e), respectively.
+Subsecs. (e) to (g). Pub. L. 107–12, § 8(3), redesignated subsecs. (e) to (g) as (c) to (e), respectively.
 
-2000—Subsec. (a)(2). Pub. L. 106–503, § 110(a)(2)(C), substituted “Director’s” for “Secretary’s” in two places.
+2000—Subsec. (a)(2). Pub. L. 106–503, § 110(a)(2)(C), substituted “Director’s” for “Secretary’s” in two places.
 
-Subsec. (b)(2). Pub. L. 106–503, § 110(a)(2)(B)(iv), (C), substituted “Director’s” for “Secretary’s” and “Director” for “Secretary”.
+Subsec. (b)(2). Pub. L. 106–503, § 110(a)(2)(B)(iv), (C), substituted “Director’s” for “Secretary’s” and “Director” for “Secretary”.
 
-Subsec. (c). Pub. L. 106–503, § 110(a)(2)(B)(iv), substituted “Director” for “Secretary”.
+Subsec. (c). Pub. L. 106–503, § 110(a)(2)(B)(iv), substituted “Director” for “Secretary”.
 
-Subsec. (d)(2). Pub. L. 106–503, § 110(a)(2)(C), substituted “Director’s” for “Secretary’s”.
+Subsec. (d)(2). Pub. L. 106–503, § 110(a)(2)(C), substituted “Director’s” for “Secretary’s”.
 
-Subsec. (e)(1)(A). Pub. L. 106–503, § 110(a)(2)(B)(v), substituted “with the Director” for “with the Secretary”.
+Subsec. (e)(1)(A). Pub. L. 106–503, § 110(a)(2)(B)(v), substituted “with the Director” for “with the Secretary”.
 
-Subsec. (e)(2). Pub. L. 106–503, § 110(a)(2)(C), substituted “Director’s” for “Secretary’s”.
+Subsec. (e)(2). Pub. L. 106–503, § 110(a)(2)(C), substituted “Director’s” for “Secretary’s”.
 
-Subsec. (f). Pub. L. 106–503, § 110(a)(2)(B)(iv), substituted “Director” for “Secretary”.
+Subsec. (f). Pub. L. 106–503, § 110(a)(2)(B)(iv), substituted “Director” for “Secretary”.
 
-1984—Subsecs. (b)(2), (c), (e)(1)(A), (f). Pub. L. 98–241 struck out “, the Secretary of Defense,” after “Secretary” wherever appearing.
+1984—Subsecs. (b)(2), (c), (e)(1)(A), (f). Pub. L. 98–241 struck out “, the Secretary of Defense,” after “Secretary” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1284,7 +1284,7 @@ Sec. 5. The Medal may be given posthumously.
 
 William J. Clinton.
 
-## § 2215. Reports to Congress and President
+## § 2215. Reports to Congress and President
 
 The Administrator of FEMA shall report to the Congress and the President not later than ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter on all activities relating to fire prevention and control, and all measures taken to implement and carry out this chapter during the preceding calendar year. Such report shall include, but need not be limited to—
 
@@ -1314,7 +1314,7 @@ The Administrator of FEMA shall report to the Congress and the President not lat
 
 **(i)** a summary of reviews, evaluations, and suggested improvements in State and local fire prevention and building codes, fire services, and any relevant Federal or private codes, regulations, and fire services.
 
-(Pub. L. 93–498, § 16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, § 202, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 106–503, title I, § 110(a)(2)(B)(vi), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, § 16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, § 202, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 106–503, title I, § 110(a)(2)(B)(vi), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 **Editorial Notes**
 
@@ -1344,13 +1344,13 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2216. Authorization of appropriations
+## § 2216. Authorization of appropriations
 
 **(a)** There are authorized to be appropriated to carry out the foregoing provisions of this chapter, except as otherwise specifically provided, with respect to the payment of claims, under section 2210 of this title, an amount not to exceed $25,210,000 for the fiscal year ending September 30, 1980, which amount includes—
 
-**(1)** $4,781,000 for programs which are recommended in the report submitted to the Congress by the Administrator pursuant to section 2220(b)(1) 1
+**(1)** $4,781,000 for programs which are recommended in the report submitted to the Congress by the Administrator pursuant to section 2220(b)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -1360,9 +1360,9 @@ of this title;
 
 **(4)** $500,000 for additional rural firefighting technical assistance and information activities;
 
-**(5)** $500,000 for the study required by section 2222 <sup>1</sup> of this title; and
+**(5)** $500,000 for the study required by section 2222 <sup>1</sup> of this title; and
 
-**(6)** $110,000 for the study required by section 2223 <sup>1</sup> of this title.
+**(6)** $110,000 for the study required by section 2223 <sup>1</sup> of this title.
 
 **(b)** There are authorized to be appropriated for the additional administrative expenses of the Federal Emergency Management Agency, which are related to this chapter and which result from Reorganization Plan Numbered 3 of 1978 (submitted June 19, 1978) and related Executive orders, an amount not to exceed $600,000 for the fiscal year ending September 30, 1980.
 
@@ -1442,7 +1442,7 @@ The funds authorized under this subsection shall be in addition to funds authori
 
 **(4)** $250,000 for each of the fiscal years 1995 and 1996 for salaries and expenses for carrying out section 2221 of this title.
 
-(Pub. L. 93–498, § 17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, § 1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, § 1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, § 1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, § 201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, § 201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, § 201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, § 1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, § 1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, § 101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, § 7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, § 2, Nov. 20, 1997, 111 Stat. 2264; Pub. L. 106–503, title I, § 102, Nov. 13, 2000, 114 Stat. 2298; Pub. L. 108–169, title I, § 103, Dec. 6, 2003, 117 Stat. 2036; Pub. L. 110–376, § 3, Oct. 8, 2008, 122 Stat. 4057; Pub. L. 112–239, div. A, title XVIII, § 1814, Jan. 2, 2013, 126 Stat. 2118; Pub. L. 115–98, § 2, Jan. 3, 2018, 131 Stat. 2239; Pub. L. 118–67, div. A, § 2, July 9, 2024, 138 Stat. 1447.)
+(Pub. L. 93–498, § 17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, § 1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, § 1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, § 1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, § 201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, § 201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, § 201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, § 1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, § 1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, § 101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, § 7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, § 2, Nov. 20, 1997, 111 Stat. 2264; Pub. L. 106–503, title I, § 102, Nov. 13, 2000, 114 Stat. 2298; Pub. L. 108–169, title I, § 103, Dec. 6, 2003, 117 Stat. 2036; Pub. L. 110–376, § 3, Oct. 8, 2008, 122 Stat. 4057; Pub. L. 112–239, div. A, title XVIII, § 1814, Jan. 2, 2013, 126 Stat. 2118; Pub. L. 115–98, § 2, Jan. 3, 2018, 131 Stat. 2239; Pub. L. 118–67, div. A, § 2, July 9, 2024, 138 Stat. 1447.)
 
 **Editorial Notes**
 
@@ -1450,9 +1450,9 @@ The funds authorized under this subsection shall be in addition to funds authori
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-Section 2220(b)(1) of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 106–503, title I, § 110(a)(1)(D), Nov. 13, 2000, 114 Stat. 2302.
+Section 2220(b)(1) of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 106–503, title I, § 110(a)(1)(D), Nov. 13, 2000, 114 Stat. 2302.
 
-Sections 2222 and 2223 of this title, referred to in subsec. (a)(5), (6), respectively, were repealed by Pub. L. 106–503, title I, § 110(a)(1)(B), Nov. 13, 2000, 114 Stat. 2302.
+Sections 2222 and 2223 of this title, referred to in subsec. (a)(5), (6), respectively, were repealed by Pub. L. 106–503, title I, § 110(a)(1)(B), Nov. 13, 2000, 114 Stat. 2302.
 
 Reorganization Plan Numbered 3 of 1978, referred to in subsec. (b), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -1460,9 +1460,9 @@ The National Bureau of Standards Authorization Act for fiscal years 1981 and 198
 
 **Amendments**
 
-2024—Subsec. (g)(1)(M). Pub. L. 118–67, § 2(2)(A), substituted “for each of fiscal” for “for for each of fiscal”.
+2024—Subsec. (g)(1)(M). Pub. L. 118–67, § 2(2)(A), substituted “for each of fiscal” for “for for each of fiscal”.
 
-Subsec. (g)(1)(N). Pub. L. 118–67, § 2(1), (2)(B), (3), added subpar. (N).
+Subsec. (g)(1)(N). Pub. L. 118–67, § 2(1), (2)(B), (3), added subpar. (N).
 
 2018—Subsec. (g)(1)(M). Pub. L. 115–98 substituted “for each of fiscal years 2017 through 2023” for “fiscal year 2017” and inserted “for each such fiscal year” after “$2,753,672”.
 
@@ -1514,7 +1514,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Arson Prevention Grants; Termination of Appropriations**
 
-Pub. L. 103–254, § 8, May 19, 1994, 108 Stat. 683, provided that: “Notwithstanding any other provision of this Act [see Short Title of 1994 Amendment note set out under section 2201 of this title], no funds are authorized to be appropriated for any fiscal year after fiscal year 1996 for carrying out the programs for which funds are authorized by this Act, or the amendments made by this Act.”
+Pub. L. 103–254, § 8, May 19, 1994, 108 Stat. 683, provided that: “Notwithstanding any other provision of this Act [see Short Title of 1994 Amendment note set out under section 2201 of this title], no funds are authorized to be appropriated for any fiscal year after fiscal year 1996 for carrying out the programs for which funds are authorized by this Act, or the amendments made by this Act.”
 
 **Executive Documents**
 
@@ -1522,7 +1522,7 @@ Pub. L. 103–254, § 8, May 19, 1994, 108 Stat. 683, provided that: “Notwit
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2217. Public access to information
+## § 2217. Public access to information
 
 Copies of any document, report, statement, or information received or sent by the Administrator of FEMA or the Administrator shall be made available to the public pursuant to the provisions of section 552 of title 5: *Provided*, That, notwithstanding the provisions of subsection (b) of such section and of section 1905 of title 18, the Administrator of FEMA may disclose information which concerns or relates to a trade secret—
 
@@ -1534,7 +1534,7 @@ Copies of any document, report, statement, or information received or sent by th
 
 **(4)** to the public when he determines such disclosure to be necessary in order to protect health and safety after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to health and safety).
 
-(Pub. L. 93–498, § 20, Oct. 29, 1974, 88 Stat. 1547; Pub. L. 106–503, title I, § 110(a)(2)(B)(viii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, § 20, Oct. 29, 1974, 88 Stat. 1547; Pub. L. 106–503, title I, § 110(a)(2)(B)(viii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 **Editorial Notes**
 
@@ -1558,7 +1558,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2218. Administrative provisions
+## § 2218. Administrative provisions
 
 **(a) Assistance to Administrator**
 
@@ -1566,9 +1566,9 @@ Each department, agency, and instrumentality of the executive branch of the Fede
 
 **(b) Powers of Administrator** With respect to this chapter, the Administrator is authorized to—
 
-**(1)** enter into, without regard to section 6101 of title 41 1
+**(1)** enter into, without regard to section 6101 of title 41 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 such contracts, grants, leases, cooperative agreements, or other transactions as may be necessary to carry out the provisions of this chapter;
 
@@ -1602,7 +1602,7 @@ The Administrator shall provide liaison at an appropriate organizational level t
 
 The Administrator shall provide liaison at an appropriate organizational level to assure coordination of the activities of the Administrator related to emergency medical services provided by fire service-based systems with Federal, State, and local government agencies and departments and nongovernmental organizations so concerned, as well as those entities concerned with emergency medical services generally.
 
-(Pub. L. 93–498, § 21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, § 2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, § 110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, § 9(a), Oct. 8, 2008, 122 Stat. 4061; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, § 21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, § 2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, § 110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, § 9(a), Oct. 8, 2008, 122 Stat. 4061; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 **Editorial Notes**
 
@@ -1612,9 +1612,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Codification**
 
-In subsec. (b)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -1636,7 +1636,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Enhancement of Science and Mathematics Programs**
 
-Pub. L. 105–108, § 7, Nov. 20, 1997, 111 Stat. 2265, provided that:
+Pub. L. 105–108, § 7, Nov. 20, 1997, 111 Stat. 2265, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1662,17 +1662,17 @@ Pub. L. 105–108, § 7, Nov. 20, 1997, 111 Stat. 2265, provided that:
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2219. Assistance to Consumer Product Safety Commission
+## § 2219. Assistance to Consumer Product Safety Commission
 
 Upon request, the Administrator shall assist the Consumer Product Safety Commission in the development of fire safety standards or codes for consumer products, as defined in the Consumer Product Safety Act (15 U.S.C. 2051 et seq.).
 
-(Pub. L. 93–498, § 22, Oct. 29, 1974, 88 Stat. 1549.)
+(Pub. L. 93–498, § 22, Oct. 29, 1974, 88 Stat. 1549.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1688,7 +1688,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-## § 2220. Arson prevention, detection, and control
+## § 2220. Arson prevention, detection, and control
 
 The Administrator shall—
 
@@ -1704,7 +1704,7 @@ The Administrator shall—
 
 **(6)** develop handbooks to assist Federal, State, and local fire service and law enforcement personnel in arson prevention and detection.
 
-(Pub. L. 93–498, § 24, as added Pub. L. 95–422, § 3(a), Oct. 5, 1978, 92 Stat. 932; amended Pub. L. 103–254, § 4, May 19, 1994, 108 Stat. 682; Pub. L. 106–503, title I, § 110(a)(1)(C), (D), Nov. 13, 2000, 114 Stat. 2302.)
+(Pub. L. 93–498, § 24, as added Pub. L. 95–422, § 3(a), Oct. 5, 1978, 92 Stat. 932; amended Pub. L. 103–254, § 4, May 19, 1994, 108 Stat. 682; Pub. L. 106–503, title I, § 110(a)(1)(C), (D), Nov. 13, 2000, 114 Stat. 2302.)
 
 **Editorial Notes**
 
@@ -1712,7 +1712,7 @@ The Administrator shall—
 
 2000—Pub. L. 106–503 struck out subsec. (a) designation and struck out subsec. (b) which required the Administrator to submit a report to Congress by Mar. 15, 1979, on ways to assist the States and local jurisdictions with arson control.
 
-1994—Subsec. (a)(2). Pub. L. 103–254 inserted before semicolon at end “, with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses”.
+1994—Subsec. (a)(2). Pub. L. 103–254 inserted before semicolon at end “, with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1726,9 +1726,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Transfer of Functions**
 
-Functions of Administrator of United States Fire Administration under this section and section 2221 of this title to remain vested in Administrator and not to be transferred to Director of Federal Emergency Management Agency, pursuant to Reorg. Plan No. 3 of 1978, §§ 201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of this title, effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, § 1–103(a), Mar. 31, 1979, 44 F.R. 19367.
+Functions of Administrator of United States Fire Administration under this section and section 2221 of this title to remain vested in Administrator and not to be transferred to Director of Federal Emergency Management Agency, pursuant to Reorg. Plan No. 3 of 1978, §§ 201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of this title, effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, § 1–103(a), Mar. 31, 1979, 44 F.R. 19367.
 
-## § 2221. Arson prevention grants
+## § 2221. Arson prevention grants
 
 **(a) Definitions** As used in this section:
 
@@ -1830,25 +1830,25 @@ It is the sense of Congress that any recipient of a grant under this section sho
 
 In allocating grants under this section, the Administrator shall provide to each recipient a notice describing the statement made in paragraph (1) by the Congress.
 
-(Pub. L. 93–498, § 25, as added Pub. L. 103–254, § 3, May 19, 1994, 108 Stat. 679.)
+(Pub. L. 93–498, § 25, as added Pub. L. 103–254, § 3, May 19, 1994, 108 Stat. 679.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2221, Pub. L. 93–498, § 25, as added Pub. L. 95–422, § 4, Oct. 5, 1978, 92 Stat. 933, authorized sale by United States Fire Administrator of former Marjorie Webster Junior College facility, located in Washington, D.C., which had previously been purchased as site for National Academy for Fire Prevention and Control, prior to repeal by Pub. L. 97–80, title II, § 202(b), Nov. 20, 1981, 95 Stat. 1083.
+A prior section 2221, Pub. L. 93–498, § 25, as added Pub. L. 95–422, § 4, Oct. 5, 1978, 92 Stat. 933, authorized sale by United States Fire Administrator of former Marjorie Webster Junior College facility, located in Washington, D.C., which had previously been purchased as site for National Academy for Fire Prevention and Control, prior to repeal by Pub. L. 97–80, title II, § 202(b), Nov. 20, 1981, 95 Stat. 1083.
 
-## §§ 2222, 2223. Repealed. Pub. L. 106–503, title I, § 110(a)(1)(B), Nov. 13, 2000, 114 Stat. 2302
+## §§ 2222, 2223. Repealed. Pub. L. 106–503, title I, § 110(a)(1)(B), Nov. 13, 2000, 114 Stat. 2302
 
-Section 2222, Pub. L. 93–498, § 26, as added Pub. L. 96–121, § 4, Nov. 16, 1979, 93 Stat. 864, related to an effectiveness study concerning smoke detectors, heat detectors, and sprinkler suppression systems.
+Section 2222, Pub. L. 93–498, § 26, as added Pub. L. 96–121, § 4, Nov. 16, 1979, 93 Stat. 864, related to an effectiveness study concerning smoke detectors, heat detectors, and sprinkler suppression systems.
 
-Section 2223, Pub. L. 93–498, § 27, as added Pub. L. 96–121, § 5, Nov. 16, 1979, 93 Stat. 865, related to a firefighter safety study.
+Section 2223, Pub. L. 93–498, § 27, as added Pub. L. 96–121, § 5, Nov. 16, 1979, 93 Stat. 865, related to a firefighter safety study.
 
-## § 2223a. Review
+## § 2223a. Review
 
 The Administrator of the United States Fire Administration (hereafter in sections 2223a to 2223e of this title referred to as the “Administrator”) shall conduct a review of existing response information used by emergency response personnel at the State and local levels to evaluate its accuracy and consistency, and to determine whether it is properly expressed. Such information should clearly communicate to emergency response personnel the probable hazards which they must contend with in an emergency situation involving hazardous materials, and the appropriate response to those hazards.
 
-(Pub. L. 101–446, § 2, Oct. 22, 1990, 104 Stat. 1045.)
+(Pub. L. 101–446, § 2, Oct. 22, 1990, 104 Stat. 1045.)
 
 **Editorial Notes**
 
@@ -1860,9 +1860,9 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 **Short Title**
 
-Pub. L. 101–446, § 1, Oct. 22, 1990, 104 Stat. 1045, provided that: “This Act [enacting this section and sections 2223b to 2223e of this title] may be cited as the ‘Firefighters’ Safety Study Act’.”
+Pub. L. 101–446, § 1, Oct. 22, 1990, 104 Stat. 1045, provided that: “This Act [enacting this section and sections 2223b to 2223e of this title] may be cited as the ‘Firefighters’ Safety Study Act’.”
 
-## § 2223b. Working group
+## § 2223b. Working group
 
 For the purpose of carrying out section 2223a of this title, the Administrator shall establish a working group which shall, at a minimum, consist of—
 
@@ -1884,7 +1884,7 @@ who develop and disseminate hazardous materials identification and response data
 
 **(3)** representatives of companies engaged in the manufacture and processing of chemicals.
 
-(Pub. L. 101–446, § 3, Oct. 22, 1990, 104 Stat. 1045; Pub. L. 107–296, title XI, § 1112(d), Nov. 25, 2002, 116 Stat. 2276.)
+(Pub. L. 101–446, § 3, Oct. 22, 1990, 104 Stat. 1045; Pub. L. 107–296, title XI, § 1112(d), Nov. 25, 2002, 116 Stat. 2276.)
 
 **Editorial Notes**
 
@@ -1902,11 +1902,11 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-## § 2223c. Report and recommendations
+## § 2223c. Report and recommendations
 
 The working group established under section 2223b of this title shall, within 1 year after October 22, 1990, submit a report to the Administrator and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate presenting the results of the review carried out under sections 2223a to 2223e of this title, along with recommendations to ensure that response information disseminated to emergency response personnel is appropriate for operational personnel at the local level.
 
-(Pub. L. 101–446, § 4, Oct. 22, 1990, 104 Stat. 1045.)
+(Pub. L. 101–446, § 4, Oct. 22, 1990, 104 Stat. 1045.)
 
 **Editorial Notes**
 
@@ -1914,11 +1914,11 @@ The working group established under section 2223b of this title shall, within 1 
 
 Section was enacted as part of the Firefighters’ Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 
-## § 2223d. Annual revision of recommendations
+## § 2223d. Annual revision of recommendations
 
 After the submission of the report cited in section 2223c of this title, the working group established under section 2223b of this title shall meet as needed, but at least once every 12 months, to review and recommend changes and additions to the report cited in section 2223c of this title, that are necessary and appropriate for operational personnel at the local level.
 
-(Pub. L. 101–446, § 5, Oct. 22, 1990, 104 Stat. 1046.)
+(Pub. L. 101–446, § 5, Oct. 22, 1990, 104 Stat. 1046.)
 
 **Editorial Notes**
 
@@ -1926,11 +1926,11 @@ After the submission of the report cited in section 2223c of this title, the wor
 
 Section was enacted as part of the Firefighters’ Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 
-## § 2223e. “Emergency response personnel” defined
+## § 2223e. “Emergency response personnel” defined
 
 As used in sections 2223a to 2223e of this title, the term “emergency response personnel” means personnel responsible for mitigation activities in a medical emergency, fire emergency, hazardous material emergency, or natural disaster.
 
-(Pub. L. 101–446, § 6, Oct. 22, 1990, 104 Stat. 1046.)
+(Pub. L. 101–446, § 6, Oct. 22, 1990, 104 Stat. 1046.)
 
 **Editorial Notes**
 
@@ -1938,7 +1938,7 @@ As used in sections 2223a to 2223e of this title, the term “emergency response
 
 Section was enacted as part of the Firefighters’ Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 
-## § 2224. Listings of places of public accommodation
+## § 2224. Listings of places of public accommodation
 
 **(a) Submissions by States**
 
@@ -1954,7 +1954,7 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 **(3)** For purposes of this subsection, the term “agency” has the meaning given to it under section 5701(1) of title 5.
 
-(Pub. L. 93–498, § 28, as added Pub. L. 101–391, § 3(a), Sept. 25, 1990, 104 Stat. 747; amended Pub. L. 102–522, title I, § 104, Oct. 26, 1992, 106 Stat. 3411; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, § 28, as added Pub. L. 101–391, § 3(a), Sept. 25, 1990, 104 Stat. 747; amended Pub. L. 102–522, title I, § 104, Oct. 26, 1992, 106 Stat. 3411; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 **Editorial Notes**
 
@@ -1962,9 +1962,9 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 Pub. L. 112–239 substituted “Administrator of FEMA” for “Director” wherever appearing.
 
-1992—Pub. L. 102–522, § 104(1), struck out “certified” before “places” in section catchline.
+1992—Pub. L. 102–522, § 104(1), struck out “certified” before “places” in section catchline.
 
-Subsec. (a). Pub. L. 102–522, § 104(2), inserted “(acting through its Governor or the Governor’s designee)” after “each State” in pars. (1) and (2) and struck out “the Governor of the State or his designee certifies” after “in the State which” in par. (1).
+Subsec. (a). Pub. L. 102–522, § 104(2), inserted “(acting through its Governor or the Governor’s designee)” after “each State” in pars. (1) and (2) and struck out “the Governor of the State or his designee certifies” after “in the State which” in par. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1974,7 +1974,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2225. Fire prevention and control guidelines for places of public accommodation
+## § 2225. Fire prevention and control guidelines for places of public accommodation
 
 **(a) Contents of guidelines** The guidelines referred to in sections 2224 and 2226 of this title consist of—
 
@@ -2000,23 +2000,23 @@ The provisions of this section shall not be construed to limit the power of any 
 
 **(3)** The term “governmental authority having jurisdiction” means the Federal, State, local, or other governmental entity with statutory or regulatory authority for the approval of fire safety systems, equipment, installations, or procedures within a specified locality.
 
-(Pub. L. 93–498, § 29, as added Pub. L. 101–391, § 3(a), Sept. 25, 1990, 104 Stat. 748; amended Pub. L. 102–522, title I, § 105, Oct. 26, 1992, 106 Stat. 3411; Pub. L. 105–108, § 3(1)–(3), Nov. 20, 1997, 111 Stat. 2264.)
+(Pub. L. 93–498, § 29, as added Pub. L. 101–391, § 3(a), Sept. 25, 1990, 104 Stat. 748; amended Pub. L. 102–522, title I, § 105, Oct. 26, 1992, 106 Stat. 3411; Pub. L. 105–108, § 3(1)–(3), Nov. 20, 1997, 111 Stat. 2264.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (a)(1). Pub. L. 105–108, § 3(1), inserted “or any successor standard to that standard” after “Association Standard 74”.
+1997—Subsec. (a)(1). Pub. L. 105–108, § 3(1), inserted “or any successor standard to that standard” after “Association Standard 74”.
 
-Subsec. (a)(2). Pub. L. 105–108, § 3(2), inserted “, or any successor standard to that standard” before “, whichever is appropriate,”.
+Subsec. (a)(2). Pub. L. 105–108, § 3(2), inserted “, or any successor standard to that standard” before “, whichever is appropriate,”.
 
-Subsec. (b)(2). Pub. L. 105–108, § 3(3), inserted “, or any successor standard to that standard” after “Association Standard 13 or 13–R”.
+Subsec. (b)(2). Pub. L. 105–108, § 3(3), inserted “, or any successor standard to that standard” after “Association Standard 13 or 13–R”.
 
-1992—Subsecs. (b) to (d). Pub. L. 102–522, § 105(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+1992—Subsecs. (b) to (d). Pub. L. 102–522, § 105(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-Subsec. (d)(3). Pub. L. 102–522, § 105(b), added par. (3).
+Subsec. (d)(3). Pub. L. 102–522, § 105(b), added par. (3).
 
-## § 2225a. Prohibiting Federal funding of conferences held at non-certified places of public accommodation
+## § 2225a. Prohibiting Federal funding of conferences held at non-certified places of public accommodation
 
 **(a) In general**
 
@@ -2050,7 +2050,7 @@ The head of an agency of the Federal Government may delegate the authority provi
 
 The provisions of this section shall take effect on the first day of the first fiscal year that begins after the expiration of the 425-day period that begins on the date of the publication in the Federal Register of the master list referred to in section 2224(b) of this title.
 
-(Pub. L. 101–391, § 6, Sept. 25, 1990, 104 Stat. 751.)
+(Pub. L. 101–391, § 6, Sept. 25, 1990, 104 Stat. 751.)
 
 **Editorial Notes**
 
@@ -2058,11 +2058,11 @@ The provisions of this section shall take effect on the first day of the first f
 
 Section was enacted as part of the Hotel and Motel Fire Safety Act of 1990, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 
-## § 2226. Dissemination of fire prevention and control information
+## § 2226. Dissemination of fire prevention and control information
 
 The Administrator of FEMA, acting through the Administrator, is authorized to take steps to encourage the States to promote the use of automatic sprinkler systems and automatic smoke detection systems, and to disseminate to the maximum extent possible information on the life safety value and use of such systems. Such steps may include, but need not be limited to, providing copies of the guidelines described in section 2225 of this title and of the master list compiled under section 2224(b) of this title to Federal agencies, State and local governments, and fire services throughout the United States, and making copies of the master list compiled under section 2224(b) of this title available upon request to interested private organizations and individuals.
 
-(Pub. L. 93–498, § 30, as added Pub. L. 101–391, § 3(a), Sept. 25, 1990, 104 Stat. 748; amended Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, § 30, as added Pub. L. 101–391, § 3(a), Sept. 25, 1990, 104 Stat. 748; amended Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 **Editorial Notes**
 
@@ -2078,7 +2078,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2227. Fire safety systems in federally assisted buildings
+## § 2227. Fire safety systems in federally assisted buildings
 
 **(a) Definitions** For purposes of this section, the following definitions apply:
 
@@ -2098,13 +2098,13 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(A)** means assistance provided by the Federal Government to be used in connection with the provision of housing,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 that is provided in the form of a grant, contract, loan, loan guarantee, cooperative agreement, interest subsidy, insurance, or direct appropriation; and
 
-**(B)** does not include assistance provided by the Secretary of Veterans Affairs; the Federal Emergency Management Agency; the Secretary of Housing and Urban Development under the single family mortgage insurance programs under the National Housing Act [12 U.S.C. 1701 et seq.] or the homeownership assistance program under section 235 of such Act [12 U.S.C. 1715z]; the National Homeownership Trust; the Federal Deposit Insurance Corporation under the affordable housing program under section 1831q of title 12; or the Resolution Trust Corporation under the affordable housing program under section 1441a(c) 2
+**(B)** does not include assistance provided by the Secretary of Veterans Affairs; the Federal Emergency Management Agency; the Secretary of Housing and Urban Development under the single family mortgage insurance programs under the National Housing Act [12 U.S.C. 1701 et seq.] or the homeownership assistance program under section 235 of such Act [12 U.S.C. 1715z]; the National Homeownership Trust; the Federal Deposit Insurance Corporation under the affordable housing program under section 1831q of title 12; or the Resolution Trust Corporation under the affordable housing program under section 1441a(c) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 12.
 
@@ -2238,33 +2238,33 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 In the implementation of this section, the process for meeting space needs in urban areas shall continue to give first consideration to a centralized community business area and adjacent areas of similar character to the extent of any Federal requirement therefor.
 
-(Pub. L. 93–498, § 31, as added Pub. L. 102–522, title I, § 106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103–254, § 6, May 19, 1994, 108 Stat. 682; Pub. L. 104–316, title I, § 107, Oct. 19, 1996, 110 Stat. 3832; Pub. L. 105–108, § 3(4), (5), Nov. 20, 1997, 111 Stat. 2264.)
+(Pub. L. 93–498, § 31, as added Pub. L. 102–522, title I, § 106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103–254, § 6, May 19, 1994, 108 Stat. 682; Pub. L. 104–316, title I, § 107, Oct. 19, 1996, 110 Stat. 3832; Pub. L. 105–108, § 3(4), (5), Nov. 20, 1997, 111 Stat. 2264.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
 
-Section 1441a(c) of title 12, referred to in subsec. (a)(5)(B), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
+Section 1441a(c) of title 12, referred to in subsec. (a)(5)(B), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
 
 **Amendments**
 
-1997—Subsec. (c)(2)(B)(i). Pub. L. 105–108, § 3(4), inserted “or any successor standard to that standard” after “(known as the Life Safety Code)”.
+1997—Subsec. (c)(2)(B)(i). Pub. L. 105–108, § 3(4), inserted “or any successor standard to that standard” after “(known as the Life Safety Code)”.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 105–108, § 3(5), inserted “or any successor standard to that standard” after “Association Standard 101”.
+Subsec. (c)(2)(B)(ii). Pub. L. 105–108, § 3(5), inserted “or any successor standard to that standard” after “Association Standard 101”.
 
 1996—Subsec. (b)(1)(B)(iii). Pub. L. 104–316 struck out cl. (iii) which read as follows: “Within 3 years after October 26, 1992, and periodically thereafter, the Comptroller General shall audit a selection of certifications made under clause (ii) and report to Congress on the results of such audit.”
 
-1994—Subsec. (c)(1)(A). Pub. L. 103–254, § 6(1), substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
+1994—Subsec. (c)(1)(A). Pub. L. 103–254, § 6(1), substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
 
-Subsec. (c)(1)(C), (D). Pub. L. 103–254, § 6(2), added subpars. (C) and (D).
+Subsec. (c)(1)(C), (D). Pub. L. 103–254, § 6(2), added subpars. (C) and (D).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 102–522, title I, § 106(b), Oct. 26, 1992, 106 Stat. 3417, provided that: “Subsection (b) of section 31 of the Federal Fire Prevention and Control Act of 1974 [15 U.S.C. 2227], as added by subsection (a) of this section, shall take effect 2 years after the date of enactment of this Act [Oct. 26, 1992].”
+Pub. L. 102–522, title I, § 106(b), Oct. 26, 1992, 106 Stat. 3417, provided that: “Subsection (b) of section 31 of the Federal Fire Prevention and Control Act of 1974 [15 U.S.C. 2227], as added by subsection (a) of this section, shall take effect 2 years after the date of enactment of this Act [Oct. 26, 1992].”
 
 **Transfer of Functions**
 
@@ -2272,13 +2272,13 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2228. CPR training
+## § 2228. CPR training
 
 No funds shall be made available to a State or local government under section 2221 of this title unless such government has a policy to actively promote the training of its firefighters in cardiopulmonary resuscitation.
 
-(Pub. L. 93–498, § 32, as added Pub. L. 103–254, § 5, May 19, 1994, 108 Stat. 682.)
+(Pub. L. 93–498, § 32, as added Pub. L. 103–254, § 5, May 19, 1994, 108 Stat. 682.)
 
-## § 2229. Firefighter assistance
+## § 2229. Firefighter assistance
 
 **(a) Definitions** In this section:
 
@@ -2362,9 +2362,9 @@ The term “volunteer fire department” means a fire department that has an all
 
 **(i) In general**
 
-Notwithstanding subparagraphs (A) and (B) 1
+Notwithstanding subparagraphs (A) and (B) 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
 
@@ -2598,9 +2598,9 @@ In the case of an application submitted under subsection (e)(1) by a nonaffiliat
 
 **(IV)** the strategic plan the recipient proposes to carry out under the grant;
 
-**(ii)** give special consideration in selecting recipients under subparagraph (A) 2
+**(ii)** give special consideration in selecting recipients under subparagraph (A) 2
 
-<sup>2</sup>  So in original. Probably should be “clause (i)”.
+<sup>2</sup> So in original. Probably should be “clause (i)”.
 
 to an applicant for a grant that consists of a partnership between—
 
@@ -2644,9 +2644,9 @@ Except as provided in subparagraph (B), an applicant seeking a grant to carry ou
 
 **(B) Exception for entities serving small communities** In the case that an applicant seeking a grant to carry out an activity under subsection (c) serves a jurisdiction of—
 
-**(i)** more than 20,000 residents but not more than 1,000,000 residents, the application 3
+**(i)** more than 20,000 residents but not more than 1,000,000 residents, the application 3
 
-<sup>3</sup>  So in original. Probably should be “applicant”.
+<sup>3</sup> So in original. Probably should be “applicant”.
 
 shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
 
@@ -2688,9 +2688,9 @@ The Administrator of FEMA shall establish and publish guidelines for determining
 
 **(I)** Changes in rates of unemployment from previous years.
 
-**(II)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 4
+**(II)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 4
 
-<sup>4</sup>  So in original. Probably should be “are currently exceeding and have consistently exceeded”.
+<sup>4</sup> So in original. Probably should be “are currently exceeding and have consistently exceeded”.
 
 the annual national average rates of unemployment.
 
@@ -2804,7 +2804,7 @@ Consistent with the requirements in subsections (c)(1) and (d)(1) that grants un
 
 The authority to award assistance and grants under this section shall expire on September 30, 2030.
 
-(Pub. L. 93–498, § 33, as added Pub. L. 106–398, § 1 [[div. A], title XVII, § 1701(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, § 1061, Dec. 28, 2001, 115 Stat. 1231; Pub. L. 108–7, div. K, title IV, § 421, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–169, title II, § 205, Dec. 6, 2003, 117 Stat. 2040; Pub. L. 108–375, div. C, title XXXVI, § 3602, Oct. 28, 2004, 118 Stat. 2195; Pub. L. 112–239, div. A, title XVIII, § 1803, Jan. 2, 2013, 126 Stat. 2100; Pub. L. 115–98, § 3, Jan. 3, 2018, 131 Stat. 2239; Pub. L. 117–286, § 4(a)(68), Dec. 27, 2022, 136 Stat. 4313; Pub. L. 118–67, div. A, § 3, July 9, 2024, 138 Stat. 1447.)
+(Pub. L. 93–498, § 33, as added Pub. L. 106–398, § 1 [[div. A], title XVII, § 1701(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, § 1061, Dec. 28, 2001, 115 Stat. 1231; Pub. L. 108–7, div. K, title IV, § 421, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–169, title II, § 205, Dec. 6, 2003, 117 Stat. 2040; Pub. L. 108–375, div. C, title XXXVI, § 3602, Oct. 28, 2004, 118 Stat. 2195; Pub. L. 112–239, div. A, title XVIII, § 1803, Jan. 2, 2013, 126 Stat. 2100; Pub. L. 115–98, § 3, Jan. 3, 2018, 131 Stat. 2239; Pub. L. 117–286, § 4(a)(68), Dec. 27, 2022, 136 Stat. 4313; Pub. L. 118–67, div. A, § 3, July 9, 2024, 138 Stat. 1447.)
 
 **Editorial Notes**
 
@@ -2814,57 +2814,57 @@ Another section 33 of Pub. L. 93–498 was renumbered section 35 and is classifi
 
 **Amendments**
 
-2024—Subsec. (q)(1). Pub. L. 118–67, § 3(b), substituted “to carry out this section $750,000,000 for each of fiscal years 2024 through 2028” for “to carry out this section—” and subpars. (A) and (B) which related to amount of appropriations authorized for 2013 to 2023.
+2024—Subsec. (q)(1). Pub. L. 118–67, § 3(b), substituted “to carry out this section $750,000,000 for each of fiscal years 2024 through 2028” for “to carry out this section—” and subpars. (A) and (B) which related to amount of appropriations authorized for 2013 to 2023.
 
-Subsec. (r). Pub. L. 118–67, § 3(a), substituted “2030” for “2024”.
+Subsec. (r). Pub. L. 118–67, § 3(a), substituted “2030” for “2024”.
 
-2022—Subsec. (f)(2). Pub. L. 117–286, § 4(a)(68)(A), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+2022—Subsec. (f)(2). Pub. L. 117–286, § 4(a)(68)(A), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-Subsec. (*l*)(3). Pub. L. 117–286, § 4(a)(68)(B), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+Subsec. (*l*)(3). Pub. L. 117–286, § 4(a)(68)(B), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2018—Subsec. (c)(3)(N). Pub. L. 115–98, § 3(c), added subpar. (N).
+2018—Subsec. (c)(3)(N). Pub. L. 115–98, § 3(c), added subpar. (N).
 
-Subsec. (q)(1)(B). Pub. L. 115–98, § 3(b), substituted “2023” for “2017” in introductory provisions.
+Subsec. (q)(1)(B). Pub. L. 115–98, § 3(b), substituted “2023” for “2017” in introductory provisions.
 
-Subsec. (r). Pub. L. 115–98, § 3(a), substituted “September 30, 2024” for “the date that is 5 years after January 2, 2013”.
+Subsec. (r). Pub. L. 115–98, § 3(a), substituted “September 30, 2024” for “the date that is 5 years after January 2, 2013”.
 
 2013—Pub. L. 112–239 amended section generally. Prior to amendment, section authorized grants for firefighter assistance.
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–375, § 3602(1), inserted “throughout the Nation” after “personnel” and struck out “and” at end.
+2004—Subsec. (b)(1)(A). Pub. L. 108–375, § 3602(1), inserted “throughout the Nation” after “personnel” and struck out “and” at end.
 
-Subsec. (b)(1)(B). Pub. L. 108–375, § 3602(2), inserted “and firefighter safety research and development” after “fire prevention” and substituted “; and” for period at end.
+Subsec. (b)(1)(B). Pub. L. 108–375, § 3602(2), inserted “and firefighter safety research and development” after “fire prevention” and substituted “; and” for period at end.
 
-Subsec. (b)(1)(C). Pub. L. 108–375, § 3602(3), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 108–375, § 3602(3), added subpar. (C).
 
-Subsec. (b)(3)(F). Pub. L. 108–375, § 3602(4), inserted “and nonaffiliated EMS organizations” after “fire departments”.
+Subsec. (b)(3)(F). Pub. L. 108–375, § 3602(4), inserted “and nonaffiliated EMS organizations” after “fire departments”.
 
-Subsec. (b)(4). Pub. L. 108–375, § 3602(5)(A), inserted “and firefighter safety research and development” after “prevention” in heading.
+Subsec. (b)(4). Pub. L. 108–375, § 3602(5)(A), inserted “and firefighter safety research and development” after “prevention” in heading.
 
-Subsec. (b)(4)(A)(ii). Pub. L. 108–375, § 3602(5)(B), inserted “that are not fire departments and” after “community organizations”, “and firefighter research and development programs,” after “fire safety programs and activities,”, and “and research to improve firefighter health and life safety” after “fire prevention programs”.
+Subsec. (b)(4)(A)(ii). Pub. L. 108–375, § 3602(5)(B), inserted “that are not fire departments and” after “community organizations”, “and firefighter research and development programs,” after “fire safety programs and activities,”, and “and research to improve firefighter health and life safety” after “fire prevention programs”.
 
-Subsec. (b)(4)(B). Pub. L. 108–375, § 3602(5)(C), substituted “to high risk groups from fire, as well as research programs that demonstrate the potential to improve firefighter safety” for “to children from fire”.
+Subsec. (b)(4)(B). Pub. L. 108–375, § 3602(5)(C), substituted “to high risk groups from fire, as well as research programs that demonstrate the potential to improve firefighter safety” for “to children from fire”.
 
-Subsec. (b)(4)(C). Pub. L. 108–375, § 3602(5)(D), added subpar. (C).
+Subsec. (b)(4)(C). Pub. L. 108–375, § 3602(5)(D), added subpar. (C).
 
-Subsec. (b)(5)(B)(iv), (v). Pub. L. 108–375, § 3602(6), added cl. (iv) and redesignated former cl. (iv) as (v).
+Subsec. (b)(5)(B)(iv), (v). Pub. L. 108–375, § 3602(6), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-Subsec. (b)(6). Pub. L. 108–375, § 3602(7), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (b)(6). Pub. L. 108–375, § 3602(7), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) In general.—Subject to subparagraph (B), the Director may provide assistance under this subsection only if the applicant for the assistance agrees to match with an equal amount of non-Federal funds 30 percent of the assistance received under this subsection for any fiscal year.
 
 “(B) Requirement for small community organizations.—In the case of an applicant whose personnel serve jurisdictions of 50,000 or fewer residents, the percent applied under the matching requirement of subparagraph (A) shall be 10 percent.”
 
-Subsec. (b)(10)(A). Pub. L. 108–375, § 3602(8)(A), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “A grant recipient under this section may not receive more than $750,000 under this section for any fiscal year.”
+Subsec. (b)(10)(A). Pub. L. 108–375, § 3602(8)(A), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “A grant recipient under this section may not receive more than $750,000 under this section for any fiscal year.”
 
-Subsec. (b)(10)(B) to (F). Pub. L. 108–375, § 3602(8)(B)–(D), redesignated subpar. (B) as (C) and added new subpars. (B) and (D) to (F).
+Subsec. (b)(10)(B) to (F). Pub. L. 108–375, § 3602(8)(B)–(D), redesignated subpar. (B) as (C) and added new subpars. (B) and (D) to (F).
 
-Subsec. (b)(13) to (17). Pub. L. 108–375, § 3602(9), added pars. (13) to (17).
+Subsec. (b)(13) to (17). Pub. L. 108–375, § 3602(9), added pars. (13) to (17).
 
-Subsec. (d). Pub. L. 108–375, § 3602(10), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “In this section, the term ‘State’ includes the District of Columbia and the Commonwealth of Puerto Rico.”
+Subsec. (d). Pub. L. 108–375, § 3602(10), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “In this section, the term ‘State’ includes the District of Columbia and the Commonwealth of Puerto Rico.”
 
-Subsec. (e)(1). Pub. L. 108–375, § 3602(11), substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
+Subsec. (e)(1). Pub. L. 108–375, § 3602(11), substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
 
-2003—Subsec. (b)(2). Pub. L. 108–169, § 205(a)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+2003—Subsec. (b)(2). Pub. L. 108–169, § 205(a)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
 “(A) Establishment.—Before providing assistance under paragraph (1), the Director shall establish an office in the Federal Emergency Management Agency to administer the assistance under this section.
 
@@ -2874,19 +2874,19 @@ Subsec. (e)(1). Pub. L. 108–375, § 3602(11), substituted “There are autho
 
 “(ii) Grant-writing assistance.—To provide grant-writing assistance to applicants.”
 
-Subsec. (b)(3)(B). Pub. L. 108–169, § 205(b), inserted “maritime firefighting,” after “arson prevention and detection,”.
+Subsec. (b)(3)(B). Pub. L. 108–169, § 205(b), inserted “maritime firefighting,” after “arson prevention and detection,”.
 
-Subsec. (b)(3)(H). Pub. L. 108–169, § 205(c)(1), inserted “equipment for fighting fires with foam in remote areas without access to water, and” after “including”.
+Subsec. (b)(3)(H). Pub. L. 108–169, § 205(c)(1), inserted “equipment for fighting fires with foam in remote areas without access to water, and” after “including”.
 
 Subsec. (b)(12). Pub. L. 108–7 added par. (12).
 
-Subsec. (e)(1). Pub. L. 108–169, § 205(c)(2), inserted at end “Of the amounts authorized in this paragraph, $3,000,000 shall be made available each year through fiscal year 2008 for foam firefighting equipment.”
+Subsec. (e)(1). Pub. L. 108–169, § 205(c)(2), inserted at end “Of the amounts authorized in this paragraph, $3,000,000 shall be made available each year through fiscal year 2008 for foam firefighting equipment.”
 
-Subsec. (e)(2). Pub. L. 108–169, § 205(a)(2), struck out “operate the office established under subsection (b)(2) of this section and” before “make grants and provide assistance under this section.”
+Subsec. (e)(2). Pub. L. 108–169, § 205(a)(2), struck out “operate the office established under subsection (b)(2) of this section and” before “make grants and provide assistance under this section.”
 
-2001—Subsec. (b)(3). Pub. L. 107–107, § 1061(b), (c), substituted “the grant funds for one or more of the following purposes:” for “the grant funds—” in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for “; or” at end of subpar. (M), inserted “(including response to a terrorism incident or use of a weapon of mass destruction)” after “emergency response” in subpar. (B), substituted “, monitoring, and response to a terrorism incident or use of a weapon of mass destruction” for “and monitoring” in subpar. (H), and inserted “, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction” after “equipment for firefighting personnel” in subpar. (I).
+2001—Subsec. (b)(3). Pub. L. 107–107, § 1061(b), (c), substituted “the grant funds for one or more of the following purposes:” for “the grant funds—” in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for “; or” at end of subpar. (M), inserted “(including response to a terrorism incident or use of a weapon of mass destruction)” after “emergency response” in subpar. (B), substituted “, monitoring, and response to a terrorism incident or use of a weapon of mass destruction” for “and monitoring” in subpar. (H), and inserted “, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction” after “equipment for firefighting personnel” in subpar. (I).
 
-Subsec. (e). Pub. L. 107–107, § 1061(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for the purposes of this section amounts as follows:
+Subsec. (e). Pub. L. 107–107, § 1061(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for the purposes of this section amounts as follows:
 
 “(1) $100,000,000 for fiscal year 2001.
 
@@ -2902,7 +2902,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Training on Administration of Fire Grant Programs**
 
-Pub. L. 115–98, § 5, Jan. 3, 2018, 131 Stat. 2240, provided that:
+Pub. L. 115–98, § 5, Jan. 3, 2018, 131 Stat. 2240, provided that:
 
 > **“(a) In General.—** The Administrator of the Federal Emergency Management Agency, acting through the Administrator of the United States Fire Administration, may develop and make widely available an electronic, online training course for members of the fire and emergency response community on matters relating to the administration of grants under sections 33 and 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229 and 2229a).
 
@@ -2914,7 +2914,7 @@ Pub. L. 115–98, § 5, Jan. 3, 2018, 131 Stat. 2240, provided that:
 
 **Framework for Oversight and Monitoring of the Assistance to Firefighters Grants Program, the Fire Prevention and Safety Grants Program, and the Staffing for Adequate Fire and Emergency Response Grant Program**
 
-Pub. L. 115–98, § 6, Jan. 3, 2018, 131 Stat. 2241, provided that:
+Pub. L. 115–98, § 6, Jan. 3, 2018, 131 Stat. 2241, provided that:
 
 > **“(a) Framework.—** Not later than 90 days after the date of enactment of this Act [Jan. 3, 2018], the Administrator of the Federal Emergency Management Agency, acting through the Administrator of the United States Fire Administration, shall develop and implement a grant monitoring and oversight framework to mitigate and minimize risks of fraud, waste, abuse, and mismanagement relating to the grants programs under sections 33 and 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229 and 2229a).
 
@@ -2930,7 +2930,7 @@ Pub. L. 115–98, § 6, Jan. 3, 2018, 131 Stat. 2241, provided that:
 
 > **“(5)** Such other oversight and monitoring tools as the Administrator of the Federal Emergency Management Agency considers necessary to mitigate and minimize fraud, waste, abuse, and mismanagement relating to the grant programs described in subsection (a).”
 
-## § 2229a. Staffing for adequate fire and emergency response
+## § 2229a. Staffing for adequate fire and emergency response
 
 **(a) Expanded authority to make grants**
 
@@ -3018,9 +3018,9 @@ The Administrator of FEMA shall establish and publish guidelines for determining
 
 **(i)** Changes in rates of unemployment from previous years.
 
-**(ii)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 1
+**(ii)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 1
 
-<sup>1</sup>  So in original. Probably should be “are currently exceeding and have consistently exceeded”.
+<sup>1</sup> So in original. Probably should be “are currently exceeding and have consistently exceeded”.
 
 the annual national average rates of unemployment.
 
@@ -3056,7 +3056,7 @@ If the Administrator of FEMA determines that a grant recipient under this sectio
 
 **(1)** The term “firefighter” has the meaning given the term “employee in fire protection activities” under section 203(y) of title 29.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(2)** The terms “Administrator of FEMA”, “career fire department”, “combination fire department”, and “volunteer fire department” have the meanings given such terms in section 2229(a) of this title.
 
@@ -3092,7 +3092,7 @@ Consistent with the requirement in subsection (a) that grants under this section
 
 The authority to award assistance and grants under this section shall expire on September 30, 2030.
 
-(Pub. L. 93–498, § 34, as added Pub. L. 108–136, div. A, title X, § 1057, Nov. 24, 2003, 117 Stat. 1616; amended Pub. L. 112–239, div. A, title XVIII, § 1804, Jan. 2, 2013, 126 Stat. 2111; Pub. L. 113–66, div. A, title X, § 1091(b)(9), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–255, div. B, title XIV, § 14001(c), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–98, § 4, Jan. 3, 2018, 131 Stat. 2240; Pub. L. 118–67, div. A, § 4, July 9, 2024, 138 Stat. 1447.)
+(Pub. L. 93–498, § 34, as added Pub. L. 108–136, div. A, title X, § 1057, Nov. 24, 2003, 117 Stat. 1616; amended Pub. L. 112–239, div. A, title XVIII, § 1804, Jan. 2, 2013, 126 Stat. 2111; Pub. L. 113–66, div. A, title X, § 1091(b)(9), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–255, div. B, title XIV, § 14001(c), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–98, § 4, Jan. 3, 2018, 131 Stat. 2240; Pub. L. 118–67, div. A, § 4, July 9, 2024, 138 Stat. 1447.)
 
 **Editorial Notes**
 
@@ -3106,43 +3106,43 @@ A prior section 34 of Pub. L. 93–498 was renumbered section 36 and is classifi
 
 **Amendments**
 
-2024—Subsec. (j)(1)(H). Pub. L. 118–67, § 4(b)(2), substituted “each of fiscal years 2024 through 2028.” for “fiscal year 2013; and”.
+2024—Subsec. (j)(1)(H). Pub. L. 118–67, § 4(b)(2), substituted “each of fiscal years 2024 through 2028.” for “fiscal year 2013; and”.
 
-Subsec. (j)(1)(I). Pub. L. 118–67, § 4(b)(1), (3), struck out subpar. (I) which read as follows: “for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
+Subsec. (j)(1)(I). Pub. L. 118–67, § 4(b)(1), (3), struck out subpar. (I) which read as follows: “for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
 
 “(i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
 
 “(ii) the Consumer Price Index for the fiscal year preceding the fiscal year described in subparagraph (A).”
 
-Subsec. (k). Pub. L. 118–67, § 4(a), substituted “2030” for “2024”.
+Subsec. (k). Pub. L. 118–67, § 4(a), substituted “2030” for “2024”.
 
-2018—Subsec. (a)(1)(B). Pub. L. 115–98, § 4(f), substituted “firefighters or to change the status of part-time or paid-on-call (as defined in section 2229(a) of this title) firefighters to full-time firefighters” for “firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises”.
+2018—Subsec. (a)(1)(B). Pub. L. 115–98, § 4(f), substituted “firefighters or to change the status of part-time or paid-on-call (as defined in section 2229(a) of this title) firefighters to full-time firefighters” for “firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises”.
 
-Subsec. (b)(3)(B). Pub. L. 115–98, § 4(c), substituted “of subsection (a)(1)(F)” for “of subsection (a)(1)(B)(ii) and (F)”.
+Subsec. (b)(3)(B). Pub. L. 115–98, § 4(c), substituted “of subsection (a)(1)(F)” for “of subsection (a)(1)(B)(ii) and (F)”.
 
-Subsec. (c)(2). Pub. L. 115–98, § 4(d), substituted “prior to the date of the application for the grant” for “prior to November 24, 2003”.
+Subsec. (c)(2). Pub. L. 115–98, § 4(d), substituted “prior to the date of the application for the grant” for “prior to November 24, 2003”.
 
-Subsec. (d)(1)(B). Pub. L. 115–98, § 4(e), substituted “subsection (a)(1)(E), (c)(2), or (c)(4)” for “subsection (a)(1)(E) or subsection (c)(2)”.
+Subsec. (d)(1)(B). Pub. L. 115–98, § 4(e), substituted “subsection (a)(1)(E), (c)(2), or (c)(4)” for “subsection (a)(1)(E) or subsection (c)(2)”.
 
-Subsec. (j)(1)(I). Pub. L. 115–98, § 4(b), substituted “2023” for “2017” in introductory provisions.
+Subsec. (j)(1)(I). Pub. L. 115–98, § 4(b), substituted “2023” for “2017” in introductory provisions.
 
-Subsec. (k). Pub. L. 115–98, § 4(a), substituted “September 30, 2024” for “the date that is 5 years after January 2, 2013”.
+Subsec. (k). Pub. L. 115–98, § 4(a), substituted “September 30, 2024” for “the date that is 5 years after January 2, 2013”.
 
 2016—Subsec. (a)(1)(B). Pub. L. 114–255 inserted before period at end “and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises”.
 
-2013—Pub. L. 112–239, § 1804(j), substituted “Staffing for adequate fire and emergency response” for “Expansion of pre-September 11, 2001, fire grant program” in section catchline.
+2013—Pub. L. 112–239, § 1804(j), substituted “Staffing for adequate fire and emergency response” for “Expansion of pre-September 11, 2001, fire grant program” in section catchline.
 
-Pub. L. 112–239, § 1804(i), as amended by Pub. L. 113–66, § 1091(b)(9)(B), substituted “Administrator of FEMA” for “Administrator” wherever appearing, except in those places in which “Administrator of FEMA” already appeared.
+Pub. L. 112–239, § 1804(i), as amended by Pub. L. 113–66, § 1091(b)(9)(B), substituted “Administrator of FEMA” for “Administrator” wherever appearing, except in those places in which “Administrator of FEMA” already appeared.
 
-Subsec. (a)(1)(A). Pub. L. 112–239, § 1804(g)(2), substituted “career fire departments, combination fire departments, and volunteer fire departments” for “career, volunteer, and combination fire departments”.
+Subsec. (a)(1)(A). Pub. L. 112–239, § 1804(g)(2), substituted “career fire departments, combination fire departments, and volunteer fire departments” for “career, volunteer, and combination fire departments”.
 
-Subsec. (a)(1)(B). Pub. L. 112–239, § 1804(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+Subsec. (a)(1)(B). Pub. L. 112–239, § 1804(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
 “(B)(i) Grants made under this paragraph shall be for 4 years and be used for programs to hire new, additional firefighters.
 
 “(ii) Grantees are required to commit to retaining for at least 1 year beyond the termination of their grants those firefighters hired under this paragraph.”
 
-Subsec. (a)(1)(E). Pub. L. 112–239, § 1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
+Subsec. (a)(1)(E). Pub. L. 112–239, § 1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
 
 “(i) 90 percent in the first year of the grant;
 
@@ -3152,61 +3152,61 @@ Subsec. (a)(1)(E). Pub. L. 112–239, § 1804(a)(2), amended subpar. (E) gener
 
 “(iv) 30 percent in the fourth year of the grant.”
 
-Subsec. (a)(2). Pub. L. 112–239, § 1804(b), substituted “national, State, local, or tribal organizations” for “organizations on a local or statewide basis”.
+Subsec. (a)(2). Pub. L. 112–239, § 1804(b), substituted “national, State, local, or tribal organizations” for “organizations on a local or statewide basis”.
 
-Subsec. (c)(4). Pub. L. 112–239, § 1804(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+Subsec. (c)(4). Pub. L. 112–239, § 1804(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
 “(4)(A) Total funding provided under this section over 4 years for hiring a firefighter may not exceed $100,000.
 
 “(B) The $100,000 cap shall be adjusted annually for inflation beginning in fiscal year 2005.”
 
-Subsec. (d). Pub. L. 112–239, § 1804(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 112–239, § 1804(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 112–239, § 1804(e), added par. (1) and designated existing provisions as par. (2) and inserted heading.
+Subsec. (e). Pub. L. 112–239, § 1804(e), added par. (1) and designated existing provisions as par. (2) and inserted heading.
 
-Pub. L. 112–239, § 1804(d)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 112–239, § 1804(d)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 112–239, § 1804(f), substituted “Report” for “Sunset and reports” in heading and “Not later than September 30, 2014, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report on” for “The authority under this section to make grants shall lapse at the conclusion of 10 years from November 24, 2003. Not later than 6 years after November 24, 2003, the Administrator shall submit a report to Congress concerning” in text.
+Subsec. (f). Pub. L. 112–239, § 1804(f), substituted “Report” for “Sunset and reports” in heading and “Not later than September 30, 2014, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report on” for “The authority under this section to make grants shall lapse at the conclusion of 10 years from November 24, 2003. Not later than 6 years after November 24, 2003, the Administrator shall submit a report to Congress concerning” in text.
 
-Pub. L. 112–239, § 1804(d)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Pub. L. 112–239, § 1804(d)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsecs. (g), (h). Pub. L. 112–239, § 1804(d)(1), redesignated subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
+Subsecs. (g), (h). Pub. L. 112–239, § 1804(d)(1), redesignated subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 112–239, § 1804(g)(1)(A), substituted “In this section:” for “In this section, the term—” in introductory provisions.
+Subsec. (i). Pub. L. 112–239, § 1804(g)(1)(A), substituted “In this section:” for “In this section, the term—” in introductory provisions.
 
-Pub. L. 112–239, § 1804(d)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Pub. L. 112–239, § 1804(d)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (i)(1). Pub. L. 112–239, § 1804(g)(1)(B), inserted “The term” before “ ‘firefighter’ has” and substituted period for “; and”.
+Subsec. (i)(1). Pub. L. 112–239, § 1804(g)(1)(B), inserted “The term” before “ ‘firefighter’ has” and substituted period for “; and”.
 
-Subsec. (i)(2). Pub. L. 112–239, § 1804(g)(1)(C), (D), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian tribe’ means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
+Subsec. (i)(2). Pub. L. 112–239, § 1804(g)(1)(C), (D), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian tribe’ means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
 
-Subsec. (j). Pub. L. 112–239, § 1804(h)(2), (3), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (9) as subpars. (A) to (I), respectively, of par. (1), redesignated subpars. (A) and (B) of former par. (9) as cls. (i) and (ii) of subpar. (I), and added pars. (2) and (3).
+Subsec. (j). Pub. L. 112–239, § 1804(h)(2), (3), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (9) as subpars. (A) to (I), respectively, of par. (1), redesignated subpars. (A) and (B) of former par. (9) as cls. (i) and (ii) of subpar. (I), and added pars. (2) and (3).
 
-Pub. L. 112–239, § 1804(d)(1), redesignated subsec. (i) as (j).
+Pub. L. 112–239, § 1804(d)(1), redesignated subsec. (i) as (j).
 
-Subsec. (j)(8), (9). Pub. L. 112–239, § 1804(h)(1), as amended by Pub. L. 113–66, § 1091(b)(9)(A), added pars. (8) and (9).
+Subsec. (j)(8), (9). Pub. L. 112–239, § 1804(h)(1), as amended by Pub. L. 113–66, § 1091(b)(9)(A), added pars. (8) and (9).
 
-Subsec. (k). Pub. L. 112–239, § 1804(k), added subsec. (k).
+Subsec. (k). Pub. L. 112–239, § 1804(k), added subsec. (k).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(9) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(9) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
 
-## § 2230. Surplus and excess Federal equipment
+## § 2230. Surplus and excess Federal equipment
 
 The Administrator shall make publicly available, including through the Internet, information on procedures for acquiring surplus and excess equipment or property that may be useful to State and local fire, emergency, and hazardous material handling service providers.
 
-(Pub. L. 93–498, § 35, formerly § 33, as added Pub. L. 106–503, title I, § 105, Nov. 13, 2000, 114 Stat. 2301; renumbered § 35, Pub. L. 108–136, div. A, title X, § 1057, Nov. 24, 2003, 117 Stat. 1616.)
+(Pub. L. 93–498, § 35, formerly § 33, as added Pub. L. 106–503, title I, § 105, Nov. 13, 2000, 114 Stat. 2301; renumbered § 35, Pub. L. 108–136, div. A, title X, § 1057, Nov. 24, 2003, 117 Stat. 1616.)
 
-## § 2231. Cooperative agreements with Federal facilities
+## § 2231. Cooperative agreements with Federal facilities
 
 The Administrator shall make publicly available, including through the Internet, information on procedures for establishing cooperative agreements between State and local fire and emergency services and Federal facilities in their region relating to the provision of fire and emergency services.
 
-(Pub. L. 93–498, § 36, formerly § 34, as added Pub. L. 106–503, title I, § 106, Nov. 13, 2000, 114 Stat. 2301; renumbered § 36, Pub. L. 108–136, div. A, title X, § 1057, Nov. 24, 2003, 117 Stat. 1616.)
+(Pub. L. 93–498, § 36, formerly § 34, as added Pub. L. 106–503, title I, § 106, Nov. 13, 2000, 114 Stat. 2301; renumbered § 36, Pub. L. 108–136, div. A, title X, § 1057, Nov. 24, 2003, 117 Stat. 1616.)
 
-## § 2232. Burn research
+## § 2232. Burn research
 
 **(a) Office**
 
@@ -3252,7 +3252,7 @@ The report shall be submitted not later than February 1, 2002.
 
 **(2)** $20,000,000 for fiscal year 2002.
 
-(Pub. L. 106–398, § 1 [[div. A], title XVII, § 1703], Oct. 30, 2000, 114 Stat. 1654, 1654A–364; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 106–398, § 1 [[div. A], title XVII, § 1703], Oct. 30, 2000, 114 Stat. 1654, 1654A–364; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 **Editorial Notes**
 
@@ -3272,7 +3272,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2233. Removal of civil liability barriers that discourage the donation of fire equipment to volunteer fire companies
+## § 2233. Removal of civil liability barriers that discourage the donation of fire equipment to volunteer fire companies
 
 **(a) Liability protection**
 
@@ -3320,7 +3320,7 @@ The term “authorized technician” means a technician who has been certified b
 
 This section applies only to liability for injury, damage, loss, or death caused by equipment that, for purposes of subsection (a), is donated on or after the date that is 30 days after March 9, 2006.
 
-(Pub. L. 109–177, title I, § 125, Mar. 9, 2006, 120 Stat. 226.)
+(Pub. L. 109–177, title I, § 125, Mar. 9, 2006, 120 Stat. 226.)
 
 **Editorial Notes**
 
@@ -3328,7 +3328,7 @@ This section applies only to liability for injury, damage, loss, or death caused
 
 Section was enacted as part of the USA PATRIOT Improvement and Reauthorization Act of 2005, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 
-## § 2234. Encouraging adoption of standards for firefighter health and safety
+## § 2234. Encouraging adoption of standards for firefighter health and safety
 
 The Administrator shall promote adoption by fire services of national voluntary consensus standards for firefighter health and safety, including such standards for firefighter operations, training, staffing, and fitness, by—
 
@@ -3338,9 +3338,9 @@ The Administrator shall promote adoption by fire services of national voluntary 
 
 **(3)** making recommendations on other ways in which the Federal Government can promote the adoption of such standards by fire services.
 
-(Pub. L. 93–498, § 37, as added Pub. L. 110–376, § 7, Oct. 8, 2008, 122 Stat. 4060.)
+(Pub. L. 93–498, § 37, as added Pub. L. 110–376, § 7, Oct. 8, 2008, 122 Stat. 4060.)
 
-## § 2235. Investigation authorities
+## § 2235. Investigation authorities
 
 **(a) In general**
 
@@ -3392,4 +3392,4 @@ In addition to a fire safety investigation conducted pursuant to subsection (a),
 
 For purposes of this section, the term “major fire” shall have the meaning given such term under regulations to be issued by the Administrator.
 
-(Pub. L. 93–498, § 38, as added Pub. L. 117–246, § 2, Dec. 20, 2022, 136 Stat. 2345.)
+(Pub. L. 93–498, § 38, as added Pub. L. 117–246, § 2, Dec. 20, 2022, 136 Stat. 2345.)

@@ -19,65 +19,65 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-Chapter was comprised of subchapter I, former section 2540, and subchapter II, former sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, § 1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
+Chapter was comprised of subchapter I, former section 2540, and subchapter II, former sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, § 1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title X, § 1081(a)(39), Jan. 1, 2021, 134 Stat. 3873, substituted “Damaged personal protective equipment: award to members separating from the Armed Forces and veterans” for “Damaged personal protective equipment: award to members separating from the armed forces and veterans” in item 2568a.
+2021—Pub. L. 116–283, div. A, title X, § 1081(a)(39), Jan. 1, 2021, 134 Stat. 3873, substituted “Damaged personal protective equipment: award to members separating from the Armed Forces and veterans” for “Damaged personal protective equipment: award to members separating from the armed forces and veterans” in item 2568a.
 
-2019—Pub. L. 116–92, div. A, title V, § 592(c)(2), title XVII, § 1731(a)(63), Dec. 20, 2019, 133 Stat. 1415, 1816, substituted “Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans” for “Provision of assistance for adaptive sports programs for members of the armed forces” in item 2564a and amended item 2568a without change.
+2019—Pub. L. 116–92, div. A, title V, § 592(c)(2), title XVII, § 1731(a)(63), Dec. 20, 2019, 133 Stat. 1415, 1816, substituted “Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans” for “Provision of assistance for adaptive sports programs for members of the armed forces” in item 2564a and amended item 2568a without change.
 
-2018—Pub. L. 115–232, div. A, title VI, § 623(b), Aug. 13, 2018, 132 Stat. 1801, added item 2568a.
+2018—Pub. L. 115–232, div. A, title VI, § 623(b), Aug. 13, 2018, 132 Stat. 1801, added item 2568a.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(a)(42), Dec. 12, 2017, 131 Stat. 1596, inserted period at end of item 2567.
+2017—Pub. L. 115–91, div. A, title X, § 1081(a)(42), Dec. 12, 2017, 131 Stat. 1596, inserted period at end of item 2567.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1253(a)(2)(C), div. B, title XXVIII, § 2812(b), Dec. 23, 2016, 130 Stat. 2532, 2717, struck out item 2562 “Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs” and added item 2567.
+2016—Pub. L. 114–328, div. A, title XII, § 1253(a)(2)(C), div. B, title XXVIII, § 2812(b), Dec. 23, 2016, 130 Stat. 2532, 2717, struck out item 2562 “Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs” and added item 2567.
 
-2013—Pub. L. 112–239, div. A, title X, § 1076(a)(4), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, § 589(b). See 2011 Amendment note below.
+2013—Pub. L. 112–239, div. A, title X, § 1076(a)(4), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, § 589(b). See 2011 Amendment note below.
 
-2011—Pub. L. 112–81, div. A, title V, § 589(b), Dec. 31, 2011, 125 Stat. 1438, as amended by Pub. L. 112–239, div. A, title X, § 1076(a)(4), Jan. 2, 2013, 126 Stat. 1948, added item 2564a.
+2011—Pub. L. 112–81, div. A, title V, § 589(b), Dec. 31, 2011, 125 Stat. 1438, as amended by Pub. L. 112–239, div. A, title X, § 1076(a)(4), Jan. 2, 2013, 126 Stat. 1948, added item 2564a.
 
-Pub. L. 111–383, div. A, title X, § 1074(b)(2), Jan. 7, 2011, 124 Stat. 4368, substituted “Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance” for “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” in item 2557.
+Pub. L. 111–383, div. A, title X, § 1074(b)(2), Jan. 7, 2011, 124 Stat. 4368, substituted “Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance” for “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” in item 2557.
 
-2008—Pub. L. 110–181, div. A, title III, § 376(b), title X, §§ 1063(a)(12), 1068(b)(2), Jan. 28, 2008, 122 Stat. 84, 322, 326, inserted period at end of item 2567 and then struck out item 2567 “Supplies, services, and equipment: provision in major public emergencies” and added item 2568.
+2008—Pub. L. 110–181, div. A, title III, § 376(b), title X, §§ 1063(a)(12), 1068(b)(2), Jan. 28, 2008, 122 Stat. 84, 322, 326, inserted period at end of item 2567 and then struck out item 2567 “Supplies, services, and equipment: provision in major public emergencies” and added item 2568.
 
-2006—Pub. L. 109–364, div. A, title X, § 1076(b)(2), Oct. 17, 2006, 120 Stat. 2406, added item 2567.
+2006—Pub. L. 109–364, div. A, title X, § 1076(b)(2), Oct. 17, 2006, 120 Stat. 2406, added item 2567.
 
-2002—Pub. L. 107–314, div. A, title X, § 1066(b), Dec. 2, 2002, 116 Stat. 2656, added item 2566.
+2002—Pub. L. 107–314, div. A, title X, § 1066(b), Dec. 2, 2002, 116 Stat. 2656, added item 2566.
 
-2001—Pub. L. 107–107, div. A, title III, § 361(b)(2), title XII, § 1201(a)(2), Dec. 28, 2001, 115 Stat. 1065, 1245, substituted “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” for “Excess nonlethal supplies: humanitarian relief” in item 2557 and substituted “2565.” for “2555.” in item 2565.
+2001—Pub. L. 107–107, div. A, title III, § 361(b)(2), title XII, § 1201(a)(2), Dec. 28, 2001, 115 Stat. 1065, 1245, substituted “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” for “Excess nonlethal supplies: humanitarian relief” in item 2557 and substituted “2565.” for “2555.” in item 2565.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(2), title XII, § 1203(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 “Nuclear test monitoring equipment: furnishing to foreign governments” at end.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(2), title XII, § 1203(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 “Nuclear test monitoring equipment: furnishing to foreign governments” at end.
 
-1997—Pub. L. 105–85, div. A, title X, § 1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory language of Pub. L. 104–201, § 367(b). See 1996 Amendment note below.
+1997—Pub. L. 105–85, div. A, title X, § 1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory language of Pub. L. 104–201, § 367(b). See 1996 Amendment note below.
 
-1996—Pub. L. 104–201, div. A, title III, § 367(b), Sept. 23, 1996, 110 Stat. 2497, as amended by Pub. L. 105–85, div. A, title X, § 1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, added item 2554.
+1996—Pub. L. 104–201, div. A, title III, § 367(b), Sept. 23, 1996, 110 Stat. 2497, as amended by Pub. L. 105–85, div. A, title X, § 1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, added item 2554.
 
-Pub. L. 104–201, div. A, title III, § 366(b), Sept. 23, 1996, 110 Stat. 2496, substituted “Equipment and services: Presidential inaugural ceremonies” for “Equipment: Inaugural Committee” in item 2543.
+Pub. L. 104–201, div. A, title III, § 366(b), Sept. 23, 1996, 110 Stat. 2496, substituted “Equipment and services: Presidential inaugural ceremonies” for “Equipment: Inaugural Committee” in item 2543.
 
-Pub. L. 104–106, div. A, title XV, § 1503(a)(29), Feb. 10, 1996, 110 Stat. 512, struck out subchapter analysis consisting of items for subchapters I “Issue to the Armed Forces” and II “Issue of Serviceable Material Other Than to the Armed Forces” and struck out headings for subchapters I “ISSUE TO THE ARMED FORCES” and II “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO THE ARMED FORCES”.
+Pub. L. 104–106, div. A, title XV, § 1503(a)(29), Feb. 10, 1996, 110 Stat. 512, struck out subchapter analysis consisting of items for subchapters I “Issue to the Armed Forces” and II “Issue of Serviceable Material Other Than to the Armed Forces” and struck out headings for subchapters I “ISSUE TO THE ARMED FORCES” and II “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO THE ARMED FORCES”.
 
-1994—Pub. L. 103–337, div. A, title III, § 339(a)(2), title XVI, § 1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struck out item 2540 “Reserve components: supplies, services, and facilities” and added item 2553.
+1994—Pub. L. 103–337, div. A, title III, § 339(a)(2), title XVI, § 1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struck out item 2540 “Reserve components: supplies, services, and facilities” and added item 2553.
 
-1992—Pub. L. 102–484, div. A, title III, § 304(c)(2), div. D, title XLIII, § 4304(b), Oct. 23, 1992, 106 Stat. 2362, 2700, added items 2551 and 2552.
+1992—Pub. L. 102–484, div. A, title III, § 304(c)(2), div. D, title XLIII, § 4304(b), Oct. 23, 1992, 106 Stat. 2362, 2700, added items 2551 and 2552.
 
-1991—Pub. L. 102–190, div. A, title VIII, § 821(e)(1), (2), Dec. 5, 1991, 105 Stat. 1431, substituted “152” for “150” as chapter number, “ISSUE OF SUPPLIES, SERVICES, AND FACILITIES” for “ISSUE TO ARMED FORCES” as chapter heading, added subchapter analysis and subchapter I heading, renumbered item 2521 as 2540, and substituted subchapter II heading for former chapter 151 heading “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO ARMED FORCES”.
+1991—Pub. L. 102–190, div. A, title VIII, § 821(e)(1), (2), Dec. 5, 1991, 105 Stat. 1431, substituted “152” for “150” as chapter number, “ISSUE OF SUPPLIES, SERVICES, AND FACILITIES” for “ISSUE TO ARMED FORCES” as chapter heading, added subchapter analysis and subchapter I heading, renumbered item 2521 as 2540, and substituted subchapter II heading for former chapter 151 heading “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO ARMED FORCES”.
 
-1990—Pub. L. 101–510, div. A, title VIII, § 823(a)(1), (b)(2), title XIV, § 1481(f)(2), (g)(2), Nov. 5, 1990, 104 Stat. 1600, 1602, 1707, substituted “150” for “149” as chapter number, renumbered item 2511 as 2521, and added items 2549 and 2550.
+1990—Pub. L. 101–510, div. A, title VIII, § 823(a)(1), (b)(2), title XIV, § 1481(f)(2), (g)(2), Nov. 5, 1990, 104 Stat. 1600, 1602, 1707, substituted “150” for “149” as chapter number, renumbered item 2511 as 2521, and added items 2549 and 2550.
 
-1989—Pub. L. 101–189, div. A, title III, § 329(a)(2), Nov. 29, 1989, 103 Stat. 1417, added item 2548.
+1989—Pub. L. 101–189, div. A, title III, § 329(a)(2), Nov. 29, 1989, 103 Stat. 1417, added item 2548.
 
-1985—Pub. L. 99–145, title XIV, § 1454(b), Nov. 8, 1985, 99 Stat. 761, added item 2547.
+1985—Pub. L. 99–145, title XIV, § 1454(b), Nov. 8, 1985, 99 Stat. 761, added item 2547.
 
-1983—Pub. L. 98–94, title III, § 305(a)(2), Sept. 24, 1983, 97 Stat. 629, added item 2546.
+1983—Pub. L. 98–94, title III, § 305(a)(2), Sept. 24, 1983, 97 Stat. 629, added item 2546.
 
-1978—Pub. L. 95–492, § 2, Oct. 20, 1978, 92 Stat. 1642, added item 2545.
+1978—Pub. L. 95–492, § 2, Oct. 20, 1978, 92 Stat. 1642, added item 2545.
 
 1972—Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, added item 2544.
 
-1958—Pub. L. 85–861, § 1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
+1958—Pub. L. 85–861, § 1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
 
-## § 2551. Equipment and barracks: national veterans’ organizations
+## § 2551. Equipment and barracks: national veterans’ organizations
 
 **(a)** The Secretary of a military department, under conditions prescribed by him, may lend cots, blankets, pillows, mattresses, bed sacks, and other supplies under the jurisdiction of that department to any recognized national veterans’ organization for use at its national or state convention or national youth athletic or recreation tournament. He may, under conditions prescribed by him, also permit the organization to use unoccupied barracks under the jurisdiction of that department for such an occasion.
 
@@ -85,7 +85,7 @@ Pub. L. 104–106, div. A, title XV, § 1503(a)(29), Feb. 10, 1996, 110 Stat. 
 
 **(c)** The Secretary of the military department concerned shall require a good and sufficient bond for the return in good condition of property lent or used under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 142, § 2541; renumbered § 2551, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 142, § 2541; renumbered § 2551, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 **Historical and Revision Notes**
 
@@ -94,7 +94,7 @@ Pub. L. 104–106, div. A, title XV, § 1503(a)(29), Feb. 10, 1996, 110 Stat. 
 | 2541(a) 2541(b) | 5:150m. 5:150n. | Aug. 1, 1949, ch. 372, 63 Stat. 483. |
 | 2541(c) | 5:150*o.* |  |
 
-In subsection (a), the word “may” is substituted for the words “are authorized to \* \* \* at their discretion”. The word “supplies” is substituted for the words “articles or equipment”. The words “available” and “as may be needed” are omitted as surplusage. The words “under the jurisdiction of that department” are substituted for the words “of the Army, Navy, or Air Force” and “under their respective jurisdictions”.
+In subsection (a), the word “may” is substituted for the words “are authorized to \* \* \* at their discretion”. The word “supplies” is substituted for the words “articles or equipment”. The words “available” and “as may be needed” are omitted as surplusage. The words “under the jurisdiction of that department” are substituted for the words “of the Army, Navy, or Air Force” and “under their respective jurisdictions”.
 
 In subsection (b), the words “prior to any such conventions or national youth athletic or recreation tournaments” are omitted as surplusage.
 
@@ -110,11 +110,11 @@ A prior section 2551 was renumbered section 2561 of this title.
 
 2000—Pub. L. 106–398 renumbered section 2541 of this title as this section.
 
-## § 2552. Equipment for instruction and practice: American National Red Cross
+## § 2552. Equipment for instruction and practice: American National Red Cross
 
 The Secretary of a military department, under regulations to be prescribed by him, may lend equipment under the jurisdiction of that department that is on hand, and that can be temporarily spared, to any organization formed by the American National Red Cross that needs it for instruction and practice for the purpose of aiding the Army, Navy, or Air Force in time of war. The Secretary shall by regulation require the immediate return, upon request, of equipment lent under this section. The Secretary shall require a bond, in double the value of the property issued under this section, for the care and safekeeping of that property and for its return when required.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 142, § 2542; renumbered § 2552, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 142, § 2542; renumbered § 2552, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 **Historical and Revision Notes**
 
@@ -122,7 +122,7 @@ The Secretary of a military department, under regulations to be prescribed by hi
 |---|---|---|
 | 2542 | 10:1255. 10:1256. 34:549. 34:550. | May 8, 1914, J. Res. 15, 38 Stat. 771. |
 
-The word “may” is substituted for the words “is authorized \* \* \* at his discretion”, in 10:1255 and 34:549. The word “lend” is substituted for the word “issue”, in 10:1255 and 34:549. The words “proper”, “to be”, “out of equipment for medical or other establishments”, and “belonging to the Government”, in 10:1255 and 34:549, are omitted as surplusage. The words “that needs it” are substituted for the words “as may appear to be required”. The words “under the jurisdiction of that department” are inserted for clarity. The words “upon request” are substituted for the words “when called for by the authority which issued them”.
+The word “may” is substituted for the words “is authorized \* \* \* at his discretion”, in 10:1255 and 34:549. The word “lend” is substituted for the word “issue”, in 10:1255 and 34:549. The words “proper”, “to be”, “out of equipment for medical or other establishments”, and “belonging to the Government”, in 10:1255 and 34:549, are omitted as surplusage. The words “that needs it” are substituted for the words “as may appear to be required”. The words “under the jurisdiction of that department” are inserted for clarity. The words “upon request” are substituted for the words “when called for by the authority which issued them”.
 
 **Editorial Notes**
 
@@ -134,7 +134,7 @@ A prior section 2552 was renumbered section 2562 of this title and was subsequen
 
 2000—Pub. L. 106–398 renumbered section 2542 of this title as this section.
 
-## § 2553. Equipment and services: Presidential inaugural ceremonies
+## § 2553. Equipment and services: Presidential inaugural ceremonies
 
 **(a) Assistance Authorized.—** The Secretary of Defense may, with respect to the ceremonies relating to the inauguration of a President, provide the assistance referred to in subsection (b) to—
 
@@ -174,13 +174,13 @@ A prior section 2552 was renumbered section 2562 of this title and was subsequen
 
 **(2)** The term “congressional Joint Inaugural Committee” means the joint committee of the Senate and House of Representatives referred to in section 507 of title 36 that is appointed with respect to the inauguration of a President-elect and Vice President-elect.
 
-(Added Pub. L. 85–861, § 1(48)(A), Sept. 2, 1958, 72 Stat. 1458, § 2543; amended Pub. L. 96–513, title V, § 511(81), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 104–201, div. A, title III, § 366(a), Sept. 23, 1996, 110 Stat. 2495; Pub. L. 105–225, § 4(a)(2), Aug. 12, 1998, 112 Stat. 1498; renumbered § 2553, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 85–861, § 1(48)(A), Sept. 2, 1958, 72 Stat. 1458, § 2543; amended Pub. L. 96–513, title V, § 511(81), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 104–201, div. A, title III, § 366(a), Sept. 23, 1996, 110 Stat. 2495; Pub. L. 105–225, § 4(a)(2), Aug. 12, 1998, 112 Stat. 1498; renumbered § 2553, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2543(a) 2543(b)   2543(c) | 36:726 (1st sentence). 36:726 (less 1st and 2d sentences). 36:721(b)(1) (as applicable to 36:726). 36:726 (2d sentence). | Aug. 6, 1956, ch. 974, §§ 1(b)(1) (as applicable to § 6), 6, 70 Stat. 1049, 1050. |
+| 2543(a) 2543(b) 2543(c) | 36:726 (1st sentence). 36:726 (less 1st and 2d sentences). 36:721(b)(1) (as applicable to 36:726). 36:726 (2d sentence). | Aug. 6, 1956, ch. 974, §§ 1(b)(1) (as applicable to § 6), 6, 70 Stat. 1049, 1050. |
 
 In subsection (a), the words “under section 721 of title 36” are inserted for clarity. The words “ensigns” and “Red Cross flags” are omitted as covered by the word “flags”.
 
@@ -198,9 +198,9 @@ A prior section 2553 was renumbered section 2563 of this title.
 
 2000—Pub. L. 106–398 renumbered section 2543 of this title as this section.
 
-1998—Subsec. (e)(1). Pub. L. 105–225, § 4(a)(2)(A), substituted “section 501 of title 36” for “subsection (b)(2) of the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721)”.
+1998—Subsec. (e)(1). Pub. L. 105–225, § 4(a)(2)(A), substituted “section 501 of title 36” for “subsection (b)(2) of the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721)”.
 
-Subsec. (e)(2). Pub. L. 105–225, § 4(a)(2)(B), substituted “section 507 of title 36” for “the proviso in section 9 of the Presidential Inaugural Ceremonies Act (36 U.S.C. 729)”.
+Subsec. (e)(2). Pub. L. 105–225, § 4(a)(2)(B), substituted “section 507 of title 36” for “the proviso in section 9 of the Presidential Inaugural Ceremonies Act (36 U.S.C. 729)”.
 
 1996—Pub. L. 104–201 substituted “Equipment and services: Presidential inaugural ceremonies” for “Equipment: Inaugural Committee” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -222,7 +222,7 @@ Subsec. (e)(2). Pub. L. 105–225, § 4(a)(2)(B), substituted “section 507 o
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 2554. Equipment and other services: Boy Scout Jamborees
+## § 2554. Equipment and other services: Boy Scout Jamborees
 
 **(a)** The Secretary of Defense is hereby authorized, under such regulations as he may prescribe, to lend to the Boy Scouts of America, for the use and accommodation of Scouts, Scouters, and officials who attend any national or world Boy Scout Jamboree, such cots, blankets, commissary equipment, flags, refrigerators, and other equipment and without reimbursement, furnish services and expendable medical supplies, as may be necessary or useful to the extent that items are in stock and items or services are available.
 
@@ -250,13 +250,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(B)** submits to Congress a report containing such determination in a timely manner, and before the waiver takes effect.
 
-(Added Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, § 2544; amended Pub. L. 104–106, div. A, title III, § 376, Feb. 10, 1996, 110 Stat. 283; renumbered § 2554, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260l; Pub. L. 107–107, div. A, title IX, § 931(a), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–148, div. A, title VIII, § 8126(c)(2), Dec. 30, 2005, 119 Stat. 2729; Pub. L. 109–163, div. A, title X, § 1058(c), Jan. 6, 2006, 119 Stat. 3443.)
+(Added Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, § 2544; amended Pub. L. 104–106, div. A, title III, § 376, Feb. 10, 1996, 110 Stat. 283; renumbered § 2554, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260l; Pub. L. 107–107, div. A, title IX, § 931(a), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–148, div. A, title VIII, § 8126(c)(2), Dec. 30, 2005, 119 Stat. 2729; Pub. L. 109–163, div. A, title X, § 1058(c), Jan. 6, 2006, 119 Stat. 3443.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 109–148, § 8126(c)(2), and Pub. L. 109–163, § 1058(c), amended this section by adding substantially identical subsecs. (i). The subsec. (i) added by Pub. L. 109–148, § 8126(c)(2), was subsequently omitted on authority of Pub. L. 109–364, § 1071(f)(1), (3), which repealed Pub. L. 109–148, § 8126(c)(2), and provided that the amendments by Pub. L. 109–148, § 8126(c)(2), and Pub. L. 109–163, § 1058(c), to this section be executed so as to appear only once in the law as amended. See Reconciliation of Duplicate Enactments note and 2005 and 2006 Amendment notes below.
+Pub. L. 109–148, § 8126(c)(2), and Pub. L. 109–163, § 1058(c), amended this section by adding substantially identical subsecs. (i). The subsec. (i) added by Pub. L. 109–148, § 8126(c)(2), was subsequently omitted on authority of Pub. L. 109–364, § 1071(f)(1), (3), which repealed Pub. L. 109–148, § 8126(c)(2), and provided that the amendments by Pub. L. 109–148, § 8126(c)(2), and Pub. L. 109–163, § 1058(c), to this section be executed so as to appear only once in the law as amended. See Reconciliation of Duplicate Enactments note and 2005 and 2006 Amendment notes below.
 
 **Prior Provisions**
 
@@ -288,13 +288,13 @@ See Codification note above.
 
 **Reconciliation of Duplicate Enactments**
 
-Pub. L. 109–364, div. A, title X, § 1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, § 1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: “In executing to section 2554 of title 10, United States Code, the amendments made by section 8126(c)(2) of Public Law 109–148 [adding subsec. (i) to this section] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 [adding subsec. (i) to this section] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended.”
+Pub. L. 109–364, div. A, title X, § 1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, § 1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: “In executing to section 2554 of title 10, United States Code, the amendments made by section 8126(c)(2) of Public Law 109–148 [adding subsec. (i) to this section] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 [adding subsec. (i) to this section] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended.”
 
 **Support for Scout Jamborees**
 
-Pub. L. 109–148, div. A, title VIII, § 8126(c)(1), Dec. 30, 2005, 119 Stat. 2729, which set forth congressional findings in support of youth organization events, such as the Boy Scouts of America’s National Scout Jamboree, was repealed by Pub. L. 109–364, div. A, title X, § 1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
+Pub. L. 109–148, div. A, title VIII, § 8126(c)(1), Dec. 30, 2005, 119 Stat. 2729, which set forth congressional findings in support of youth organization events, such as the Boy Scouts of America’s National Scout Jamboree, was repealed by Pub. L. 109–364, div. A, title X, § 1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
 
-## § 2555. Transportation services: international Girl Scout events
+## § 2555. Transportation services: international Girl Scout events
 
 **(a)** The Secretary of Defense is authorized, under such regulations as he may prescribe, to provide, without expense to the United States Government, transportation from the United States or military commands overseas, and return, on vessels of the Military Sealift Command or aircraft of the Air Mobility Command for (1) those Girl Scouts and officials certified by the Girl Scouts of the United States of America as representing the Girl Scouts of the United States of America at any International World Friendship Event or Troops on Foreign Soil meeting which is endorsed and approved by the National Board of Directors of the Girl Scouts of the United States of America and is conducted outside of the United States, (2) United States citizen delegates coming from outside of the United States to triennial meetings of the National Council of the Girl Scouts of the United States of America, and (3) the equipment and property of such Girl Scouts and officials, to the extent that such transportation will not interfere with the requirements of military operations.
 
@@ -302,7 +302,7 @@ Pub. L. 109–148, div. A, title VIII, § 8126(c)(1), Dec. 30, 2005, 119 Stat.
 
 **(c)** Amounts paid to the United States to reimburse it for the actual costs of transportation furnished under subsection (a) shall be credited to the current applicable appropriations or funds to which such costs were charged and shall be available for the same purposes as such appropriations or funds.
 
-(Added Pub. L. 95–492, § 1, Oct. 20, 1978, 92 Stat. 1642, § 2545; renumbered § 2555, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title IX, § 931(a), Dec. 28, 2001, 115 Stat. 1200.)
+(Added Pub. L. 95–492, § 1, Oct. 20, 1978, 92 Stat. 1642, § 2545; renumbered § 2555, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title IX, § 931(a), Dec. 28, 2001, 115 Stat. 1200.)
 
 **Editorial Notes**
 
@@ -316,7 +316,7 @@ Another section 2555 was renumbered section 2565 of this title.
 
 2000—Pub. L. 106–398 renumbered section 2545 of this title as this section.
 
-## § 2556. Shelter for homeless; incidental services
+## § 2556. Shelter for homeless; incidental services
 
 **(a)**
 
@@ -346,7 +346,7 @@ Another section 2555 was renumbered section 2565 of this title.
 
 **(e)** The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 98–94, title III, § 305(a)(1), Sept. 24, 1983, 97 Stat. 628, § 2546; amended Pub. L. 99–167, title VIII, § 825, Dec. 3, 1985, 99 Stat. 992; renumbered § 2556, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 98–94, title III, § 305(a)(1), Sept. 24, 1983, 97 Stat. 628, § 2546; amended Pub. L. 99–167, title VIII, § 825, Dec. 3, 1985, 99 Stat. 992; renumbered § 2556, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 **Editorial Notes**
 
@@ -360,13 +360,13 @@ Another section 2555 was renumbered section 2565 of this title.
 
 **Effective Date**
 
-Pub. L. 98–94, title III, § 305(b), Sept. 24, 1983, 97 Stat. 629, provided that: “Section 2546 [now 2556] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
+Pub. L. 98–94, title III, § 305(b), Sept. 24, 1983, 97 Stat. 629, provided that: “Section 2546 [now 2556] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
 **Prior Certification Required for Use of Department of Defense Facilities by Other Federal Agencies for Temporary Housing Support**
 
-Pub. L. 114–328, div. B, title XXVIII, § 2815, Dec. 23, 2016, 130 Stat. 2718, as amended by Pub. L. 118–31, div. B, title XXVIII, § 2840, Dec. 22, 2023, 137 Stat. 761, provided that: “The Secretary of Defense shall not sign a memorandum of agreement with another Federal agency to provide the agency with a vacant facility for purposes of temporary housing support unless the Secretary first submits to the Committees on Armed Services of the House of Representatives and Senate a certification that the provision of the facility to the agency for such purpose will not negatively affect military training, operations, readiness, or other military requirements, including National Guard and Reserve readiness. Upon granting such certification, the Secretary of Defense shall notify each Member of Congress representing the area in which such facility is located of such grant of certification.”
+Pub. L. 114–328, div. B, title XXVIII, § 2815, Dec. 23, 2016, 130 Stat. 2718, as amended by Pub. L. 118–31, div. B, title XXVIII, § 2840, Dec. 22, 2023, 137 Stat. 761, provided that: “The Secretary of Defense shall not sign a memorandum of agreement with another Federal agency to provide the agency with a vacant facility for purposes of temporary housing support unless the Secretary first submits to the Committees on Armed Services of the House of Representatives and Senate a certification that the provision of the facility to the agency for such purpose will not negatively affect military training, operations, readiness, or other military requirements, including National Guard and Reserve readiness. Upon granting such certification, the Secretary of Defense shall notify each Member of Congress representing the area in which such facility is located of such grant of certification.”
 
-## § 2557. Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance
+## § 2557. Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance
 
 **(a)**
 
@@ -392,27 +392,27 @@ Pub. L. 114–328, div. B, title XXVIII, § 2815, Dec. 23, 2016, 130 Stat. 271
 
 **(2)** The term “intelligence committees” means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Added Pub. L. 99–145, title XIV, § 1454(a), Nov. 8, 1985, 99 Stat. 761, § 2547; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIII, § 1322(a)(10), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–88, title VI, § 602(c)(3), Aug. 14, 1991, 105 Stat. 444; renumbered § 2557, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, § 361(a), (b)(1), Dec. 28, 2001, 115 Stat. 1064, 1065; Pub. L. 111–383, div. A, title X, § 1074(a), (b)(1), Jan. 7, 2011, 124 Stat. 4368; Pub. L. 113–291, div. A, title X, § 1071(c)(3), Dec. 19, 2014, 128 Stat. 3508.)
+(Added Pub. L. 99–145, title XIV, § 1454(a), Nov. 8, 1985, 99 Stat. 761, § 2547; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIII, § 1322(a)(10), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–88, title VI, § 602(c)(3), Aug. 14, 1991, 105 Stat. 444; renumbered § 2557, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, § 361(a), (b)(1), Dec. 28, 2001, 115 Stat. 1064, 1065; Pub. L. 111–383, div. A, title X, § 1074(a), (b)(1), Jan. 7, 2011, 124 Stat. 4368; Pub. L. 113–291, div. A, title X, § 1071(c)(3), Dec. 19, 2014, 128 Stat. 3508.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2014—Subsec. (c). Pub. L. 113–291 substituted “(50 U.S.C. 3091 et seq.)” for “(50 U.S.C. 413 et seq.)”.
 
-2011—Pub. L. 111–383, § 1074(b)(1), substituted “Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance” for “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” in section catchline.
+2011—Pub. L. 111–383, § 1074(b)(1), substituted “Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance” for “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” in section catchline.
 
-Subsec. (a)(1). Pub. L. 111–383, § 1074(a)(1), inserted at end “In addition, the Secretary may make nonlethal excess supplies of the Department available to support domestic emergency assistance activities.”
+Subsec. (a)(1). Pub. L. 111–383, § 1074(a)(1), inserted at end “In addition, the Secretary may make nonlethal excess supplies of the Department available to support domestic emergency assistance activities.”
 
-Subsec. (b). Pub. L. 111–383, § 1074(a)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 111–383, § 1074(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-2001—Pub. L. 107–107, § 361(b)(1), inserted “availability for homeless veteran initiatives and” before “humanitarian relief” in section catchline.
+2001—Pub. L. 107–107, § 361(b)(1), inserted “availability for homeless veteran initiatives and” before “humanitarian relief” in section catchline.
 
-Subsec. (a). Pub. L. 107–107, § 361(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (a). Pub. L. 107–107, § 361(a), designated existing provisions as par. (1) and added par. (2).
 
 2000—Pub. L. 106–398 renumbered section 2547 of this title as this section.
 
@@ -428,7 +428,7 @@ Subsec. (a). Pub. L. 107–107, § 361(a), designated existing provisions as p
 
 1987—Subsec. (e)(1), (2). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 
-## § 2558. National military associations: assistance at national conventions
+## § 2558. National military associations: assistance at national conventions
 
 **(a) Authority To Provide Services.—** The Secretary of a military department may provide services described in subsection (c) in connection with an annual conference or convention of a national military association.
 
@@ -456,7 +456,7 @@ Subsec. (a). Pub. L. 107–107, § 361(a), designated existing provisions as p
 
 **(e) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–189, div. A, title III, § 329(a)(1), Nov. 29, 1989, 103 Stat. 1417, § 2548; renumbered § 2558, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 101–189, div. A, title III, § 329(a)(1), Nov. 29, 1989, 103 Stat. 1417, § 2548; renumbered § 2558, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 **Editorial Notes**
 
@@ -468,43 +468,43 @@ Subsec. (a). Pub. L. 107–107, § 361(a), designated existing provisions as p
 
 **Effective Date**
 
-Pub. L. 101–189, div. A, title III, § 329(b), Nov. 29, 1989, 103 Stat. 1417, provided that: “Section 2548 [now 2558] of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Nov. 29, 1989].”
+Pub. L. 101–189, div. A, title III, § 329(b), Nov. 29, 1989, 103 Stat. 1417, provided that: “Section 2548 [now 2558] of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Nov. 29, 1989].”
 
-## § 2559. Provision of medical care to foreign military and diplomatic personnel: reimbursement required; waiver for provision of reciprocal services
+## § 2559. Provision of medical care to foreign military and diplomatic personnel: reimbursement required; waiver for provision of reciprocal services
 
 **(a) Reimbursement Required.—** Except as provided in subsection (b), whenever the Secretary of Defense provides medical care in the United States on an inpatient basis to foreign military and diplomatic personnel or their dependents, the Secretary shall require that the United States be reimbursed for the costs of providing such care. Payments received as reimbursement for the provision of such care shall be credited to the appropriations against which charges were made for the provision of such care.
 
 **(b) Waiver When Reciprocal Services Provided United States Military Personnel.—** Notwithstanding subsection (a), the Secretary of Defense may provide inpatient medical care in the United States without cost to military personnel and their dependents from a foreign country if comparable care is made available to a comparable number of United States military personnel and their dependents in that foreign country.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1481(f)(1), Nov. 5, 1990, 104 Stat. 1707, § 2549; renumbered § 2559, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1481(f)(1), Nov. 5, 1990, 104 Stat. 1707, § 2549; renumbered § 2559, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9020, Nov. 21, 1989, 103 Stat. 1133, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(f)(3).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9020, Nov. 21, 1989, 103 Stat. 1133, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(f)(3).
 
 **Amendments**
 
 2000—Pub. L. 106–398 renumbered section 2549 of this title as this section.
 
-## § 2560. Aircraft and vehicles: limitation on leasing to non-Federal agencies
+## § 2560. Aircraft and vehicles: limitation on leasing to non-Federal agencies
 
 The Secretary of Defense (or Secretary of a military department) may not lease to a non-Federal agency in the United States any aircraft or vehicle owned or operated by the Department of Defense if suitable aircraft or vehicles are commercially available in the private sector. However, nothing in the preceding sentence shall affect authorized and established procedures for the sale of surplus aircraft or vehicles.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1481(g)(1), Nov. 5, 1990, 104 Stat. 1707, § 2550; renumbered § 2560, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1481(g)(1), Nov. 5, 1990, 104 Stat. 1707, § 2550; renumbered § 2560, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9025, Nov. 21, 1989, 103 Stat. 1134, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(g)(4).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9025, Nov. 21, 1989, 103 Stat. 1134, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(g)(4).
 
 **Amendments**
 
 2000—Pub. L. 106–398 renumbered section 2550 of this title as this section.
 
-## § 2561. Humanitarian assistance
+## § 2561. Humanitarian assistance
 
 **(a) Authorized Assistance.—**
 
@@ -568,23 +568,23 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 **(2)** The Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-(Added Pub. L. 102–484, div. A, title III, § 304(c)(1), Oct. 23, 1992, 106 Stat. 2361, § 2551; amended Pub. L. 104–106, div. A, title XIII, § 1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 2561 and amended Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1), (c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, § 312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, § 1076(f)(31), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 117–263, div. A, title X, § 1053(a), Dec. 23, 2022, 136 Stat. 2777; Pub. L. 118–159, div. A, title XVII, § 1702, Dec. 23, 2024, 138 Stat. 2207.)
+(Added Pub. L. 102–484, div. A, title III, § 304(c)(1), Oct. 23, 1992, 106 Stat. 2361, § 2551; amended Pub. L. 104–106, div. A, title XIII, § 1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 2561 and amended Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1), (c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, § 312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, § 1076(f)(31), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 117–263, div. A, title X, § 1053(a), Dec. 23, 2022, 136 Stat. 2777; Pub. L. 118–159, div. A, title XVII, § 1702, Dec. 23, 2024, 138 Stat. 2207.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (c). Pub. L. 118–159, § 1702(2), added subsec. (c). Former subsec. (c) redesignated (d).
+2024—Subsec. (c). Pub. L. 118–159, § 1702(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsecs. (d), (e). Pub. L. 118–159, § 1702(1), (4), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted “subsection (g)” for “subsection (f)”. Former subsec. (e) redesignated (f).
+Subsecs. (d), (e). Pub. L. 118–159, § 1702(1), (4), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted “subsection (g)” for “subsection (f)”. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 118–159, § 1702(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 118–159, § 1702(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 118–159, § 1702(1), (5), redesignated subsec. (f) as (g) and substituted “subsections (c)(1), (d)(1), and (e)” for “subsections (c)(1) and (d)” in introductory provisions.
+Subsec. (g). Pub. L. 118–159, § 1702(1), (5), redesignated subsec. (f) as (g) and substituted “subsections (c)(1), (d)(1), and (e)” for “subsections (c)(1) and (d)” in introductory provisions.
 
-2022—Subsec. (c)(3)(A). Pub. L. 117–263, § 1053(a)(1), substituted “assistance” for “relief”.
+2022—Subsec. (c)(3)(A). Pub. L. 117–263, § 1053(a)(1), substituted “assistance” for “relief”.
 
-Subsec. (c)(3)(B) to (D). Pub. L. 117–263, § 1053(a)(2), added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (c)(3)(B) to (D). Pub. L. 117–263, § 1053(a)(2), added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) The number of scheduled and completed transportation missions for purposes of providing humanitarian assistance under this section.
 
@@ -594,19 +594,19 @@ Subsec. (c)(3)(B) to (D). Pub. L. 117–263, § 1053(a)(2), added subpars. (B)
 
 2003—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1) and added par. (2).
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], renumbered section 2551 of this title as this section.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], renumbered section 2551 of this title as this section.
 
-Subsec. (c)(3)(C). Pub. L. 106–398, § 1 [[div. A], title X, § 1033(c)(1)], substituted “section 2557” for “section 2547”.
+Subsec. (c)(3)(C). Pub. L. 106–398, § 1 [[div. A], title X, § 1033(c)(1)], substituted “section 2557” for “section 2547”.
 
 1999—Subsec. (f)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (b). Pub. L. 104–106, § 1312(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “Authority To Transfer Funds.—To the extent provided in defense authorization Acts for a fiscal year, the Secretary of Defense may transfer to the Secretary of State funds appropriated for the purposes of this section to provide for—
+1996—Subsec. (b). Pub. L. 104–106, § 1312(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “Authority To Transfer Funds.—To the extent provided in defense authorization Acts for a fiscal year, the Secretary of Defense may transfer to the Secretary of State funds appropriated for the purposes of this section to provide for—
 
 “(1) the payment of administrative costs incurred in providing the transportation described in subsection (a); and
 
 “(2) the purchase or other acquisition of transportation assets for the distribution of humanitarian relief supplies in the country of destination.”
 
-Subsec. (c). Pub. L. 104–106, § 1312(1), (3), added subsec. (c) and struck out former subsec. (c) which read as follows:
+Subsec. (c). Pub. L. 104–106, § 1312(1), (3), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(c) Transportation of Humanitarian Relief.—(1) Transportation of humanitarian relief provided with funds appropriated for the purposes of this section shall be provided under the direction of the Secretary of State.
 
@@ -614,13 +614,13 @@ Subsec. (c). Pub. L. 104–106, § 1312(1), (3), added subsec. (c) and struck 
 
 “(3) Nothing in this subsection shall be construed as waiving the requirements of section 2631 of this title and sections 901(b) and 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b) and 1241f).”
 
-Subsec. (d). Pub. L. 104–106, § 1312(4), redesignated subsec. (f) as (d) and substituted “the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the” for “the Committees on Appropriations and on Armed Services of the Senate and House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives of the”. Former subsec. (d) redesignated (b).
+Subsec. (d). Pub. L. 104–106, § 1312(4), redesignated subsec. (f) as (d) and substituted “the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the” for “the Committees on Appropriations and on Armed Services of the Senate and House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives of the”. Former subsec. (d) redesignated (b).
 
-Subsec. (e). Pub. L. 104–106, § 1312(3), (5), redesignated subsec. (g) as (e) and struck out former subsec. (e) which required status reports and specified time for submission, coverage, and contents.
+Subsec. (e). Pub. L. 104–106, § 1312(3), (5), redesignated subsec. (g) as (e) and struck out former subsec. (e) which required status reports and specified time for submission, coverage, and contents.
 
-Subsec. (f). Pub. L. 104–106, § 1312(6), added subsec. (f). Former subsec. (f) redesignated (d).
+Subsec. (f). Pub. L. 104–106, § 1312(6), added subsec. (f). Former subsec. (f) redesignated (d).
 
-Subsec. (g). Pub. L. 104–106, § 1312(5), redesignated subsec. (g) as (e).
+Subsec. (g). Pub. L. 104–106, § 1312(5), redesignated subsec. (g) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -630,13 +630,13 @@ Notification provided to appropriate congressional committees with respect to as
 
 **Laws Covered by Initial Reports**
 
-Pub. L. 102–484, div. A, title III, § 304(d), Oct. 28, 1992, 106 Stat. 2362, provided that for purposes of subsec. (e) of this section, section 304 of Pub. L. 102–190 (105 Stat. 1333) and the humanitarian relief laws referred to in section 304(f)(4) of Pub. L. 102–190 (as in effect on the day before Oct. 23, 1992) were to be considered as provisions of law that authorized appropriations for humanitarian assistance to be available for the purposes of this section.
+Pub. L. 102–484, div. A, title III, § 304(d), Oct. 28, 1992, 106 Stat. 2362, provided that for purposes of subsec. (e) of this section, section 304 of Pub. L. 102–190 (105 Stat. 1333) and the humanitarian relief laws referred to in section 304(f)(4) of Pub. L. 102–190 (as in effect on the day before Oct. 23, 1992) were to be considered as provisions of law that authorized appropriations for humanitarian assistance to be available for the purposes of this section.
 
-## [§ 2562. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(C), Dec. 23, 2016, 130 Stat. 2532]
+## [§ 2562. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(C), Dec. 23, 2016, 130 Stat. 2532]
 
-Section, added Pub. L. 102–484, div. D, title XLIII, § 4304(a), Oct. 23, 1992, 106 Stat. 2699, § 2552; renumbered § 2562 and amended Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1), (c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–217, § 3(b)(8), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 107–314, div. A, title X, § 1062(e)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 111–350, § 5(b)(41), Jan. 4, 2011, 124 Stat. 3846, related to the limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs.
+Section, added Pub. L. 102–484, div. D, title XLIII, § 4304(a), Oct. 23, 1992, 106 Stat. 2699, § 2552; renumbered § 2562 and amended Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1), (c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–217, § 3(b)(8), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 107–314, div. A, title X, § 1062(e)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 111–350, § 5(b)(41), Jan. 4, 2011, 124 Stat. 3846, related to the limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs.
 
-## § 2563. Articles and services of industrial facilities: sale to persons outside the Department of Defense
+## § 2563. Articles and services of industrial facilities: sale to persons outside the Department of Defense
 
 **(a) Authority To Sell Outside DOD.—**
 
@@ -702,7 +702,7 @@ Section, added Pub. L. 102–484, div. D, title XLIII, § 4304(a), Oct. 23, 19
 
 **(B)** in the case of services, the extent of the services sold.
 
-(Added Pub. L. 103–337, div. A, title III, § 339(a)(1), Oct. 5, 1994, 108 Stat. 2718, § 2553; amended Pub. L. 106–65, div. A, title III, § 331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567; renumbered § 2563, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, § 343(a), Dec. 28, 2001, 115 Stat. 1061; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 103–337, div. A, title III, § 339(a)(1), Oct. 5, 1994, 108 Stat. 2718, § 2553; amended Pub. L. 106–65, div. A, title III, § 331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567; renumbered § 2563, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, § 343(a), Dec. 28, 2001, 115 Stat. 1061; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -710,15 +710,15 @@ Section, added Pub. L. 102–484, div. D, title XLIII, § 4304(a), Oct. 23, 19
 
 2018—Subsec. (a)(2)(B). Pub. L. 115–232 substituted “section 7543” for “section 4543”.
 
-2001—Subsec. (c)(1)(B). Pub. L. 107–107, § 343(a)(1), substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
+2001—Subsec. (c)(1)(B). Pub. L. 107–107, § 343(a)(1), substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
 
-Subsec. (c)(3). Pub. L. 107–107, § 343(a)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 107–107, § 343(a)(2), added par. (3).
 
 2000—Pub. L. 106–398 renumbered section 2553 of this title as this section.
 
-1999—Subsec. (c). Pub. L. 106–65, § 331(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+1999—Subsec. (c). Pub. L. 106–65, § 331(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
 
-Subsec. (g)(2), (3). Pub. L. 106–65, § 331(b), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (g)(2), (3). Pub. L. 106–65, § 331(b), added par. (2) and redesignated former par. (2) as (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -728,9 +728,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, provided that: “Section 2553 [now 2563] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995.”
+Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, provided that: “Section 2553 [now 2563] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995.”
 
-## § 2564. Provision of support for certain sporting events
+## § 2564. Provision of support for certain sporting events
 
 **(a) Security and Safety Assistance.—** At the request of a Federal, State, or local government agency responsible for providing law enforcement services, security services, or safety services, the Secretary of Defense may authorize the commander of a military installation or other facility of the Department of Defense or the commander of a specified or unified combatant command to provide assistance for the World Cup Soccer Games, the Goodwill Games, the Olympics, and any other civilian sporting event in support of essential security and safety at such event, but only if the Attorney General certifies that such assistance is necessary to meet essential security and safety needs.
 
@@ -776,29 +776,29 @@ Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720,
 
 **(2)** The total amount expended for any fiscal year to provide support for sporting events described in subsection (c)(5) may not exceed $1,000,000.
 
-(Added Pub. L. 104–201, div. A, title III, § 367(a), Sept. 23, 1996, 110 Stat. 2496, § 2554; amended Pub. L. 105–85, div. A, title X, § 1073(a)(56), (c)(2)(A), Nov. 18, 1997, 111 Stat. 1903, 1904; renumbered § 2564, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 110–181, div. A, title III, § 372(a), Jan. 28, 2008, 122 Stat. 81; Pub. L. 115–91, div. A, title X, § 1051(a)(20), Dec. 12, 2017, 131 Stat. 1561.)
+(Added Pub. L. 104–201, div. A, title III, § 367(a), Sept. 23, 1996, 110 Stat. 2496, § 2554; amended Pub. L. 105–85, div. A, title X, § 1073(a)(56), (c)(2)(A), Nov. 18, 1997, 111 Stat. 1903, 1904; renumbered § 2564, Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 110–181, div. A, title III, § 372(a), Jan. 28, 2008, 122 Stat. 81; Pub. L. 115–91, div. A, title X, § 1051(a)(20), Dec. 12, 2017, 131 Stat. 1561.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (b)(3). Pub. L. 115–91, § 1051(a)(20)(A), substituted “section 277” for “section 377”.
+2017—Subsec. (b)(3). Pub. L. 115–91, § 1051(a)(20)(A), substituted “section 277” for “section 377”.
 
-Subsec. (e). Pub. L. 115–91, § 1051(a)(20)(D), substituted “sections 275 and 276” for “sections 375 and 376”. Directory language which read “by ‘striking sections 375 and 376’ ” was executed as if it had read “by striking ‘sections 375 and 376’ ”, to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 115–91, § 1051(a)(20)(D), substituted “sections 275 and 276” for “sections 375 and 376”. Directory language which read “by ‘striking sections 375 and 376’ ” was executed as if it had read “by striking ‘sections 375 and 376’ ”, to reflect the probable intent of Congress.
 
-Pub. L. 115–91, § 1051(a)(20)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required reports on assistance provided under this section.
+Pub. L. 115–91, § 1051(a)(20)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required reports on assistance provided under this section.
 
-Subsecs. (f), (g). Pub. L. 115–91, § 1051(a)(20)(C), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
+Subsecs. (f), (g). Pub. L. 115–91, § 1051(a)(20)(C), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
-2008—Subsec. (c)(4), (5). Pub. L. 110–181, § 372(a)(1), added pars. (4) and (5).
+2008—Subsec. (c)(4), (5). Pub. L. 110–181, § 372(a)(1), added pars. (4) and (5).
 
-Subsec. (g). Pub. L. 110–181, § 372(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 110–181, § 372(a)(2), added subsec. (g).
 
 2000—Pub. L. 106–398 renumbered section 2554 of this title as this section.
 
-1997—Pub. L. 105–85, § 1073(c)(2)(A), made technical amendment to directory language of Pub. L. 104–201, § 367(a), which enacted this section.
+1997—Pub. L. 105–85, § 1073(c)(2)(A), made technical amendment to directory language of Pub. L. 104–201, § 367(a), which enacted this section.
 
-Subsec. (c)(1). Pub. L. 105–85, § 1073(a)(56), substituted “September 23, 1996” for “the date of the enactment of this Act”.
+Subsec. (c)(1). Pub. L. 105–85, § 1073(a)(56), substituted “September 23, 1996” for “the date of the enactment of this Act”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -808,13 +808,13 @@ References to the United States Olympic Committee deemed to refer to the United 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 **Support for International Sporting Competitions, Defense, Account**
 
-Pub. L. 104–208, div. A, title V, § 5802, Sept. 30, 1996, 110 Stat. 3009–522, as amended by Pub. L. 110–181, div. A, title III, § 372(b), Jan. 28, 2008, 122 Stat. 82, provided that: “There is hereby established on the books of the Treasury an account, ‘Support for International Sporting Competitions, Defense’ (hereinafter referred to in this section as the ‘Account’) to be available until expended for logistical and security support for international sporting competitions and for support of sporting competitions authorized under section 2564(c)(4) and (5), of title 10, United States Code, (other than pay and non-travel-related allowances of members of the Armed Forces of the United States, except for members of the reserve components thereof called or ordered to active duty in connection with providing such support): *Provided*, That there shall be credited to the Account: (a) unobligated balances of the funds appropriated in Public Laws 103–335 [108 Stat. 2605] and 104–61 [109 Stat. 642] under the headings ‘Summer Olympics’; (b) any reimbursements received by the Department of Defense in connection with support to the 1993 World University Games; the 1994 World Cup Games; and the 1996 Games of the XXVI Olympiad held in Atlanta, Georgia; (c) any reimbursements received by the Department of Defense after the date of enactment of this Act [Sept. 30, 1996] for logistical and security support provided to international sporting competitions; and (d) amounts specifically appropriated to the Account, all to remain available until expended: *Provided further*, That none of the funds made available to the Account may be obligated until 15 days after the congressional defense committees [Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate] have been notified in writing by the Secretary of Defense as to the purpose for which these funds will be obligated.”
+Pub. L. 104–208, div. A, title V, § 5802, Sept. 30, 1996, 110 Stat. 3009–522, as amended by Pub. L. 110–181, div. A, title III, § 372(b), Jan. 28, 2008, 122 Stat. 82, provided that: “There is hereby established on the books of the Treasury an account, ‘Support for International Sporting Competitions, Defense’ (hereinafter referred to in this section as the ‘Account’) to be available until expended for logistical and security support for international sporting competitions and for support of sporting competitions authorized under section 2564(c)(4) and (5), of title 10, United States Code, (other than pay and non-travel-related allowances of members of the Armed Forces of the United States, except for members of the reserve components thereof called or ordered to active duty in connection with providing such support): *Provided*, That there shall be credited to the Account: (a) unobligated balances of the funds appropriated in Public Laws 103–335 [108 Stat. 2605] and 104–61 [109 Stat. 642] under the headings ‘Summer Olympics’; (b) any reimbursements received by the Department of Defense in connection with support to the 1993 World University Games; the 1994 World Cup Games; and the 1996 Games of the XXVI Olympiad held in Atlanta, Georgia; (c) any reimbursements received by the Department of Defense after the date of enactment of this Act [Sept. 30, 1996] for logistical and security support provided to international sporting competitions; and (d) amounts specifically appropriated to the Account, all to remain available until expended: *Provided further*, That none of the funds made available to the Account may be obligated until 15 days after the congressional defense committees [Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate] have been notified in writing by the Secretary of Defense as to the purpose for which these funds will be obligated.”
 
-## § 2564a. Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans
+## § 2564a. Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans
 
 **(a) Program Authorized.—**
 
@@ -848,19 +848,19 @@ Pub. L. 104–208, div. A, title V, § 5802, Sept. 30, 1996, 110 Stat. 3009–
 
 **(2)** for such related activities and expenses as the Secretary of Defense may authorize.
 
-(Added Pub. L. 112–81, div. A, title V, § 589(a), Dec. 31, 2011, 125 Stat. 1437; amended Pub. L. 116–92, div. A, title V, § 592(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1414, 1415.)
+(Added Pub. L. 112–81, div. A, title V, § 589(a), Dec. 31, 2011, 125 Stat. 1437; amended Pub. L. 116–92, div. A, title V, § 592(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1414, 1415.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 592(c)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Provision of assistance for adaptive sports programs for members of the armed forces”.
+2019—Pub. L. 116–92, § 592(c)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Provision of assistance for adaptive sports programs for members of the armed forces”.
 
-Subsec. (a)(1). Pub. L. 116–92, § 592(a), substituted “for—” and subpars. (A) and (B) for “for members of the armed forces who are eligible to participate in adaptive sports because of an injury or wound incurred in the line of duty in the armed forces.”
+Subsec. (a)(1). Pub. L. 116–92, § 592(a), substituted “for—” and subpars. (A) and (B) for “for members of the armed forces who are eligible to participate in adaptive sports because of an injury or wound incurred in the line of duty in the armed forces.”
 
-Subsec. (b). Pub. L. 116–92, § 592(b), inserted “and veterans” after “members”.
+Subsec. (b). Pub. L. 116–92, § 592(b), inserted “and veterans” after “members”.
 
-## § 2565. Nuclear test monitoring equipment: furnishing to foreign governments
+## § 2565. Nuclear test monitoring equipment: furnishing to foreign governments
 
 **(a) Authority To Transfer Title to or Otherwise Provide Nuclear Test Monitoring Equipment.—** Subject to subsection (b), the Secretary of Defense may—
 
@@ -880,29 +880,29 @@ Subsec. (b). Pub. L. 116–92, § 592(b), inserted “and veterans” after �
 
 **(d) Limitation on Delegation.—** The Secretary of Defense may delegate the authority of the Secretary to carry out this section only to the Secretary of the Air Force. Such a delegation may be redelegated.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title XII, § 1203(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–324, § 2555; renumbered § 2565 and amended Pub. L. 107–107, div. A, title XII, § 1201(a)(1), (b), Dec. 28, 2001, 115 Stat. 1245.)
+(Added Pub. L. 106–398, § 1 [[div. A], title XII, § 1203(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–324, § 2555; renumbered § 2565 and amended Pub. L. 107–107, div. A, title XII, § 1201(a)(1), (b), Dec. 28, 2001, 115 Stat. 1245.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Pub. L. 107–107, § 1201(a)(1), renumbered section 2555 of this title as this section.
+2001—Pub. L. 107–107, § 1201(a)(1), renumbered section 2555 of this title as this section.
 
-Subsec. (a). Pub. L. 107–107, § 1201(b)(1)(A), substituted “Transfer Title to or Otherwise” for “Convey or” in heading.
+Subsec. (a). Pub. L. 107–107, § 1201(b)(1)(A), substituted “Transfer Title to or Otherwise” for “Convey or” in heading.
 
-Subsec. (a)(1). Pub. L. 107–107, § 1201(b)(1)(B), substituted “transfer title” for “convey” and struck out “and” after semicolon at end.
+Subsec. (a)(1). Pub. L. 107–107, § 1201(b)(1)(B), substituted “transfer title” for “convey” and struck out “and” after semicolon at end.
 
-Subsec. (a)(3). Pub. L. 107–107, § 1201(b)(1)(C), (D), added par. (3).
+Subsec. (a)(3). Pub. L. 107–107, § 1201(b)(1)(C), (D), added par. (3).
 
-Subsec. (b). Pub. L. 107–107, § 1201(b)(2)(A), substituted “provided to a foreign government” for “conveyed or otherwise provided” in introductory provisions.
+Subsec. (b). Pub. L. 107–107, § 1201(b)(2)(A), substituted “provided to a foreign government” for “conveyed or otherwise provided” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–107, § 1201(b)(2)(B), inserted “and” after semicolon at end.
+Subsec. (b)(1). Pub. L. 107–107, § 1201(b)(2)(B), inserted “and” after semicolon at end.
 
-Subsec. (b)(2). Pub. L. 107–107, § 1201(b)(2)(C), substituted a period for “; and” at end.
+Subsec. (b)(2). Pub. L. 107–107, § 1201(b)(2)(C), substituted a period for “; and” at end.
 
-Subsec. (b)(3). Pub. L. 107–107, § 1201(b)(2)(D), struck out par. (3) which read as follows: “to return such equipment to the United States (or allow the United States to recover such equipment) if either party determines that the agreement no longer serves its interests.”
+Subsec. (b)(3). Pub. L. 107–107, § 1201(b)(2)(D), struck out par. (3) which read as follows: “to return such equipment to the United States (or allow the United States to recover such equipment) if either party determines that the agreement no longer serves its interests.”
 
-## § 2566. Space and services: provision to military welfare societies
+## § 2566. Space and services: provision to military welfare societies
 
 **(a) Authority To Provide Space and Services.—** The Secretary concerned may provide, without charge, space and services under the jurisdiction of that Secretary to a military welfare society.
 
@@ -920,17 +920,17 @@ Subsec. (b)(3). Pub. L. 107–107, § 1201(b)(2)(D), struck out par. (3) which
 
 **(2)** The term “services” includes lighting, heating, cooling, electricity, office furniture, office machines and equipment, telephone and other information technology services (including installation of lines and equipment, connectivity, and other associated services), and security systems (including installation and other associated expenses).
 
-(Added Pub. L. 107–314, div. A, title X, § 1066(a), Dec. 2, 2002, 116 Stat. 2656; amended Pub. L. 117–81, div. A, title X, § 1043, Dec. 27, 2021, 135 Stat. 1903.)
+(Added Pub. L. 107–314, div. A, title X, § 1066(a), Dec. 2, 2002, 116 Stat. 2656; amended Pub. L. 117–81, div. A, title X, § 1043, Dec. 27, 2021, 135 Stat. 1903.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–81, § 1043(1), substituted “concerned” for “of a military department”.
+2021—Subsec. (a). Pub. L. 117–81, § 1043(1), substituted “concerned” for “of a military department”.
 
-Subsec. (b)(1)(D). Pub. L. 117–81, § 1043(2), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 117–81, § 1043(2), added subpar. (D).
 
-## § 2567. Space and services: provision to WIC offices
+## § 2567. Space and services: provision to WIC offices
 
 **(a) Allotment of Space and Provision of Services Authorized.—** Upon application by a WIC office, the Secretary of a military department may allot space on a military installation under the jurisdiction of the Secretary to the WIC office without charge for rent or services if the Secretary determines that—
 
@@ -948,21 +948,21 @@ Subsec. (b)(1)(D). Pub. L. 117–81, § 1043(2), added subpar. (D).
 
 **(2)** The term “WIC office” means a local agency (as defined in subsection (b)(6) of section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786)) that participates in the special supplemental nutrition program for women, infants, and children under such section.
 
-(Added Pub. L. 114–328, div. B, title XXVIII, § 2812(a), Dec. 23, 2016, 130 Stat. 2716.)
+(Added Pub. L. 114–328, div. B, title XXVIII, § 2812(a), Dec. 23, 2016, 130 Stat. 2716.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2567, added Pub. L. 109–364, div. A, title X, § 1076(b)(1), Oct. 17, 2006, 120 Stat. 2405, which related to supplies, services, and equipment: provision in major public emergencies, was repealed by Pub. L. 110–181, div. A, title X, § 1068(b)(1), Jan. 28, 2008, 122 Stat. 326.
+A prior section 2567, added Pub. L. 109–364, div. A, title X, § 1076(b)(1), Oct. 17, 2006, 120 Stat. 2405, which related to supplies, services, and equipment: provision in major public emergencies, was repealed by Pub. L. 110–181, div. A, title X, § 1068(b)(1), Jan. 28, 2008, 122 Stat. 326.
 
-## § 2568. Retention of combat uniforms by members deployed in support of contingency operations
+## § 2568. Retention of combat uniforms by members deployed in support of contingency operations
 
 The Secretary of a military department may authorize a member of the armed forces under the jurisdiction of the Secretary who has been deployed in support of a contingency operation for at least 30 days to retain, after that member is no longer so deployed, the combat uniform issued to that member as organizational clothing and individual equipment.
 
-(Added Pub. L. 110–181, div. A, title III, § 376(a), Jan. 28, 2008, 122 Stat. 84.)
+(Added Pub. L. 110–181, div. A, title III, § 376(a), Jan. 28, 2008, 122 Stat. 84.)
 
-## § 2568a. Damaged personal protective equipment: award to members separating from the Armed Forces and veterans
+## § 2568a. Damaged personal protective equipment: award to members separating from the Armed Forces and veterans
 
 **(a) In General.—** The Secretary of a military department, acting through a disposition service distribution center of the Defense Logistics Agency, may award to a covered individual the demilitarized PPE of that covered individual. The award of PPE under this section shall be without cost to the covered individual.
 
@@ -984,4 +984,4 @@ The Secretary of a military department may authorize a member of the armed force
 
 **(B)** after September 11, 2001.
 
-(Added Pub. L. 115–232, div. A, title VI, § 623(a), Aug. 13, 2018, 132 Stat. 1800.)
+(Added Pub. L. 115–232, div. A, title VI, § 623(a), Aug. 13, 2018, 132 Stat. 1800.)

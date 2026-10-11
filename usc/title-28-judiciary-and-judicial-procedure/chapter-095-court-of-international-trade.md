@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–113, title IV, § 423(a)(3), Jan. 29, 2020, 134 Stat. 66, added item 1584 and struck out former item 1584 “Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement”.
+2020—Pub. L. 116–113, title IV, § 423(a)(3), Jan. 29, 2020, 134 Stat. 66, added item 1584 and struck out former item 1584 “Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement”.
 
-1993—Pub. L. 103–182, title IV, § 414(a)(3), Dec. 8, 1993, 107 Stat. 2147, inserted “the North American Free Trade Agreement or” in item 1584.
+1993—Pub. L. 103–182, title IV, § 414(a)(3), Dec. 8, 1993, 107 Stat. 2147, inserted “the North American Free Trade Agreement or” in item 1584.
 
-1988—Pub. L. 100–449, title IV, § 402(d)(2), Sept. 28, 1988, 102 Stat. 1884, temporarily added item 1584. See Effective and Termination Dates of 1988 Amendment note set out under section 1584 of this title.
+1988—Pub. L. 100–449, title IV, § 402(d)(2), Sept. 28, 1988, 102 Stat. 1884, temporarily added item 1584. See Effective and Termination Dates of 1988 Amendment note set out under section 1584 of this title.
 
-1982—Pub. L. 97–164, title I, § 135, Apr. 2, 1982, 96 Stat. 41, struck out item 1584 “Cure of defects”.
+1982—Pub. L. 97–164, title I, § 135, Apr. 2, 1982, 96 Stat. 41, struck out item 1584 “Cure of defects”.
 
-1980—Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1728, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in heading for chapter 95, “Civil actions against the United States and agencies and officers thereof” for “Powers generally” in item 1581, “Civil actions commenced by the United States” for “Jurisdiction of the Customs Court” in item 1582, and added items 1583 to 1585.
+1980—Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1728, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in heading for chapter 95, “Civil actions against the United States and agencies and officers thereof” for “Powers generally” in item 1581, “Civil actions commenced by the United States” for “Jurisdiction of the Customs Court” in item 1582, and added items 1583 to 1585.
 
-## § 1581. Civil actions against the United States and agencies and officers thereof
+## § 1581. Civil actions against the United States and agencies and officers thereof
 
 **(a)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to contest the denial of a protest, in whole or in part, under section 515 of the Tariff Act of 1930.
 
@@ -43,13 +43,13 @@ retrieved: 2026-10-11
 
 **(2)** any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
 
-**(3)** any final determination of the Secretary of Commerce under section 273 1
+**(3)** any final determination of the Secretary of Commerce under section 273 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act; and
 
-**(4)** any final determination of the Secretary of Agriculture under section 293 or 296 of the Trade Act of 1974 (19 U.S.C. 2401b) <sup>1</sup> with respect to the eligibility of a group of agricultural commodity producers for adjustment assistance under such Act.
+**(4)** any final determination of the Secretary of Agriculture under section 293 or 296 of the Trade Act of 1974 (19 U.S.C. 2401b) <sup>1</sup> with respect to the eligibility of a group of agricultural commodity producers for adjustment assistance under such Act.
 
 **(e)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review any final determination of the Secretary of the Treasury under section 305(b)(1) of the Trade Agreements Act of 1979.
 
@@ -85,7 +85,7 @@ of the Trade Act of 1974 with respect to the eligibility of a community for adju
 
 **(j)** The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
-(Added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, § 212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, § 1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, § 402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, § 414(a)(1), title VI, § 684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219; Pub. L. 111–5, div. B, title I, § 1873(b)(2), Feb. 17, 2009, 123 Stat. 414; Pub. L. 114–125, title IV, § 421(b), Feb. 24, 2016, 130 Stat. 168; Pub. L. 116–113, title IV, § 423(a)(1), Jan. 29, 2020, 134 Stat. 65.)
+(Added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, § 212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, § 1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, § 402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, § 414(a)(1), title VI, § 684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219; Pub. L. 111–5, div. B, title I, § 1873(b)(2), Feb. 17, 2009, 123 Stat. 414; Pub. L. 114–125, title IV, § 421(b), Feb. 24, 2016, 130 Stat. 168; Pub. L. 116–113, title IV, § 423(a)(1), Jan. 29, 2020, 134 Stat. 65.)
 
 **Amendment of Section**
 
@@ -101,7 +101,7 @@ The predecessor of the United States Customs Court was the Board of General Appr
 
 From 1890 to 1926, the Board of General Appraisers had jurisdiction over all protests from decisions of the collectors of customs and appeals for reappraisement under sections 13 and 14 of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 136.
 
-The Customs Court was established by act May 28, 1926, ch. 411, §§ 1, 2, 44 Stat. 669, sections 405a and 405b of Title 19, Customs Duties, and said act transferred to it all the jurisdiction and powers of the former Board of General Appraisers. The Tariff Act of June 1930, ch. 497, title IV, § 518, 46 Stat. 737, section 1518 of Title 19, continued the Customs Court as constituted on June 17, 1930 with, however, several important changes.
+The Customs Court was established by act May 28, 1926, ch. 411, §§ 1, 2, 44 Stat. 669, sections 405a and 405b of Title 19, Customs Duties, and said act transferred to it all the jurisdiction and powers of the former Board of General Appraisers. The Tariff Act of June 1930, ch. 497, title IV, § 518, 46 Stat. 737, section 1518 of Title 19, continued the Customs Court as constituted on June 17, 1930 with, however, several important changes.
 
 **References in Text**
 
@@ -111,7 +111,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 
 Sections 516A and 517 of the Tariff Act of 1930, referred to in subsec. (c), are classified to sections 1516a and 1517 of Title 19, Customs Duties.
 
-The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to section 2371b of Title 19, was repealed by Pub. L. 112–40, title II, § 222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to section 2371b of Title 19, was repealed by Pub. L. 112–40, title II, § 222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19, Customs Duties.
 
@@ -129,17 +129,17 @@ A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to power
 
 **Amendments**
 
-2020—Subsec. (i). Pub. L. 116–113, § 423(a)(1)(A), (B), (D), designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), added par. (2), and struck out former concluding provisions which read as follows: “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a bi­national panel under article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
+2020—Subsec. (i). Pub. L. 116–113, § 423(a)(1)(A), (B), (D), designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), added par. (2), and struck out former concluding provisions which read as follows: “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a bi­national panel under article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
 
-Subsec. (i)(1)(D). Pub. L. 116–113, § 423(a)(1)(C), substituted “subparagraphs (A) through (C) of this paragraph” for “paragraphs (1)–(3) of this subsection”.
+Subsec. (i)(1)(D). Pub. L. 116–113, § 423(a)(1)(C), substituted “subparagraphs (A) through (C) of this paragraph” for “paragraphs (1)–(3) of this subsection”.
 
 2016—Subsec. (c). Pub. L. 114–125 inserted “or 517” after “516A”.
 
 2009—Subsec. (d)(3), (4). Pub. L. 111–5 substituted “273” for “271” in par. (3) and added par. (4).
 
-1993—Subsec. (g)(3). Pub. L. 103–182, § 684(a)(1), added par. (3).
+1993—Subsec. (g)(3). Pub. L. 103–182, § 684(a)(1), added par. (3).
 
-Subsec. (i). Pub. L. 103–182, § 414(a)(1), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
+Subsec. (i). Pub. L. 103–182, § 414(a)(1), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
 
 1988—Subsec. (i). Pub. L. 100–449 temporarily inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.” See Effective and Termination Dates of 1988 Amendment note below.
 
@@ -183,7 +183,7 @@ Subsecs. (d) and (g) to (i) of this section applicable with respect to civil act
 
 **Application of 1993 Amendment**
 
-Pub. L. 103–182, title VI, § 684(b), Dec. 8, 1993, 107 Stat 2219, which provided a rule regarding the application of the amendments made by section 684(a) of Pub. L. 103–182 to accreditations of private laboratories, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title VI, § 684(b), Dec. 8, 1993, 107 Stat 2219, which provided a rule regarding the application of the amendments made by section 684(a) of Pub. L. 103–182 to accreditations of private laboratories, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 **Transfer of Functions**
 
@@ -193,7 +193,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see section 4601 of Title 19, Customs Duties.
 
-## § 1582. Civil actions commenced by the United States
+## § 1582. Civil actions commenced by the United States
 
 The Court of International Trade shall have exclusive jurisdiction of any civil action which arises out of an import transaction and which is commenced by the United States—
 
@@ -203,7 +203,7 @@ The Court of International Trade shall have exclusive jurisdiction of any civil 
 
 **(3)** to recover customs duties.
 
-(Added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1729; amended Pub. L. 98–573, title II, § 212(b)(2), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, § 1891(2), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 103–182, title VI, § 684(c), Dec. 8, 1993, 107 Stat. 2219.)
+(Added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1729; amended Pub. L. 98–573, title II, § 212(b)(2), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, § 1891(2), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 103–182, title VI, § 684(c), Dec. 8, 1993, 107 Stat. 2219.)
 
 **Editorial Notes**
 
@@ -213,7 +213,7 @@ Sections 592, 593A, 641(b)(6), 641(d)(2)(A), 704(i)(2), and 734(i)(2) of the Tar
 
 **Prior Provisions**
 
-A prior section 1582, acts June 25, 1948, ch. 646, 62 Stat. 943; June 2, 1970; Pub. L. 91–271, title I, § 110, 84 Stat. 278; July 26, 1979, Pub. L. 96–39, title X, § 1001(b)(4)(B), 93 Stat. 305, related to the jurisdiction of the Customs Court, prior to the general revision of this chapter by Pub. L. 96–417.
+A prior section 1582, acts June 25, 1948, ch. 646, 62 Stat. 943; June 2, 1970; Pub. L. 91–271, title I, § 110, 84 Stat. 278; July 26, 1979, Pub. L. 96–39, title X, § 1001(b)(4)(B), 93 Stat. 305, related to the jurisdiction of the Customs Court, prior to the general revision of this chapter by Pub. L. 96–417.
 
 **Amendments**
 
@@ -233,17 +233,17 @@ Amendment by Pub. L. 98–573 effective on close of 180th day after Oct. 30, 198
 
 Section applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(A) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
-## § 1583. Counterclaims, cross-claims, and third-party actions
+## § 1583. Counterclaims, cross-claims, and third-party actions
 
 In any civil action in the Court of International Trade, the court shall have exclusive jurisdiction to render judgment upon any counterclaim, cross-claim, or third-party action of any party, if (1) such claim or action involves the imported merchandise that is the subject matter of such civil action, or (2) such claim or action is to recover upon a bond or customs duties relating to such merchandise.
 
-(Added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1729.)
+(Added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1729.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1583, act June 25, 1948, ch. 646, 62 Stat. 943, related to certain cases of exclusive jurisdiction of the Customs Court, prior to repeal by Pub. L. 91–271, title I, § 111, June 2, 1970, 84 Stat. 278.
+A prior section 1583, act June 25, 1948, ch. 646, 62 Stat. 943, related to certain cases of exclusive jurisdiction of the Customs Court, prior to repeal by Pub. L. 91–271, title I, § 111, June 2, 1970, 84 Stat. 278.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -251,11 +251,11 @@ A prior section 1583, act June 25, 1948, ch. 646, 62 Stat. 943, related to certa
 
 Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(A) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
-## § 1584. Civil actions under the United States-Canada Free-Trade Agreement or the USMCA
+## § 1584. Civil actions under the United States-Canada Free-Trade Agreement or the USMCA
 
 The United States Court of International Trade shall have exclusive jurisdiction of any civil action which arises under section 777(f) of the Tariff Act of 1930 and is commenced by the United States to enforce administrative sanctions levied for violation of a protective order or an undertaking.
 
-(Added Pub. L. 100–449, title IV, § 402(d)(1), Sept. 28, 1988, 102 Stat. 1884; amended Pub. L. 103–182, title IV, § 414(a)(2), Dec. 8, 1993, 107 Stat. 2147; Pub. L. 116–113, title IV, § 423(a)(2), Jan. 29, 2020, 134 Stat. 65.)
+(Added Pub. L. 100–449, title IV, § 402(d)(1), Sept. 28, 1988, 102 Stat. 1884; amended Pub. L. 103–182, title IV, § 414(a)(2), Dec. 8, 1993, 107 Stat. 2147; Pub. L. 116–113, title IV, § 423(a)(2), Jan. 29, 2020, 134 Stat. 65.)
 
 **Termination of Section**
 
@@ -269,7 +269,7 @@ Section 777(f) of the Tariff Act of 1930, referred to in text, is classified to 
 
 **Prior Provisions**
 
-A prior section 1584, added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1729, provided that if a civil action within the exclusive jurisdiction of the Court of International Trade was commenced in a district court of the United States, the district court, in the interest of justice, was to transfer such civil action to the Court of International Trade, where such action would proceed as if it had been commenced in the Court of International Trade in the first instance, and that if a civil action within the exclusive jurisdiction of a district court, a court of appeals, or the Court of Customs and Patent Appeals was commenced in the Court of International Trade, the Court of International Trade, in the interest of justice, would transfer such civil action to the appropriate district court or court of appeals or to the Court of Customs and Patent Appeals where such action was to proceed as if it had been commenced in such court in the first instance, prior to repeal by Pub. L. 97–164, title I, § 135, Apr. 2, 1982, 96 Stat. 41, effective Oct. 1, 1982.
+A prior section 1584, added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1729, provided that if a civil action within the exclusive jurisdiction of the Court of International Trade was commenced in a district court of the United States, the district court, in the interest of justice, was to transfer such civil action to the Court of International Trade, where such action would proceed as if it had been commenced in the Court of International Trade in the first instance, and that if a civil action within the exclusive jurisdiction of a district court, a court of appeals, or the Court of Customs and Patent Appeals was commenced in the Court of International Trade, the Court of International Trade, in the interest of justice, would transfer such civil action to the appropriate district court or court of appeals or to the Court of Customs and Patent Appeals where such action was to proceed as if it had been commenced in such court in the first instance, prior to repeal by Pub. L. 97–164, title I, § 135, Apr. 2, 1982, 96 Stat. 41, effective Oct. 1, 1982.
 
 **Amendments**
 
@@ -295,8 +295,8 @@ Section effective on date United States-Canada Free-Trade Agreement enters into 
 
 For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see section 4601 of Title 19, Customs Duties.
 
-## § 1585. Powers in law and equity
+## § 1585. Powers in law and equity
 
 The Court of International Trade shall possess all the powers in law and equity of, or as conferred by statute upon, a district court of the United States.
 
-(Added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1730.)
+(Added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1730.)

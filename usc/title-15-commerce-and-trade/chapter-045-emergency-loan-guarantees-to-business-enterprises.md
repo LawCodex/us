@@ -15,21 +15,21 @@ retrieved: 2026-10-11
 
 # CHAPTER 45—EMERGENCY LOAN GUARANTEES TO BUSINESS ENTERPRISES
 
-## § 1841. Emergency Loan Guarantee Board; establishment; membership; voting
+## § 1841. Emergency Loan Guarantee Board; establishment; membership; voting
 
 There is created an Emergency Loan Guarantee Board (referred to in this chapter as the “Board”) composed of the Secretary of the Treasury, as Chairman, the Chairman of the Board of Governors of the Federal Reserve System, and the Chairman of the Securities and Exchange Commission. Decisions of the Board shall be made by majority vote.
 
-(Pub. L. 92–70, § 2, Aug. 9, 1971, 85 Stat. 178.)
+(Pub. L. 92–70, § 2, Aug. 9, 1971, 85 Stat. 178.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 92–70, § 1, Aug. 9, 1971, 85 Stat. 178, provided that: “This Act [enacting this chapter] may be cited as the ‘Emergency Loan Guarantee Act’.”
+Pub. L. 92–70, § 1, Aug. 9, 1971, 85 Stat. 178, provided that: “This Act [enacting this chapter] may be cited as the ‘Emergency Loan Guarantee Act’.”
 
 **Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans**
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, § 734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, § 336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, § 211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, § 205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, § 105, Dec. 26, 2007, 121 Stat. 1892; Pub. L. 111–117, div. B, title I, § 108, Dec. 16, 2009, 123 Stat. 3122, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, § 734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, § 336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, § 211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, § 205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, § 105, Dec. 26, 2007, 121 Stat. 1892; Pub. L. 111–117, div. B, title I, § 108, Dec. 16, 2009, 123 Stat. 3122, provided that:
 
 > **“CHAPTER 1**
 
@@ -273,17 +273,17 @@ Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102,
 
 > “This Act may be cited as the ‘Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999’.”
 
-[Pub. L. 110–161, div. B, title I, § 105(c), Dec. 26, 2007, 121 Stat. 1893, which directed amendment of section 101(c)(3)(C) of Pub. L. 106–51, set out above, by substituting “in 1998, and thereafter,” for “, in 1998”, was executed by making the substitution for “, in January 1998” to reflect the probable intent of Congress.]
+[Pub. L. 110–161, div. B, title I, § 105(c), Dec. 26, 2007, 121 Stat. 1893, which directed amendment of section 101(c)(3)(C) of Pub. L. 106–51, set out above, by substituting “in 1998, and thereafter,” for “, in 1998”, was executed by making the substitution for “, in January 1998” to reflect the probable intent of Congress.]
 
-[Pub. L. 107–63, title III, § 336(b), Nov. 5, 2001, 115 Stat. 472, provided that: “The amendments made by this section [amending section 101 of Pub. L. 106–51, set out above] shall apply only with respect to any guarantee issued on or after the date of the enactment of this Act [Nov. 5, 2001].” ]
+[Pub. L. 107–63, title III, § 336(b), Nov. 5, 2001, 115 Stat. 472, provided that: “The amendments made by this section [amending section 101 of Pub. L. 106–51, set out above] shall apply only with respect to any guarantee issued on or after the date of the enactment of this Act [Nov. 5, 2001].” ]
 
-## § 1842. Authority for loan guarantees; terms and conditions
+## § 1842. Authority for loan guarantees; terms and conditions
 
 The Board, on such terms and conditions as it deems appropriate, may guarantee, or make commitments to guarantee, lenders against loss of principal or interest on loans that meet the requirements of this chapter.
 
-(Pub. L. 92–70, § 3, Aug. 9, 1971, 85 Stat. 178.)
+(Pub. L. 92–70, § 3, Aug. 9, 1971, 85 Stat. 178.)
 
-## § 1843. Limitations and conditions of loan guarantees
+## § 1843. Limitations and conditions of loan guarantees
 
 **(a) Necessary findings** A guarantee of a loan may be made under this chapter only if—
 
@@ -301,15 +301,15 @@ Loans guaranteed under this chapter shall be payable in not more than five years
 
 **(2)** The Board shall prescribe and collect a guarantee fee in connection with each loan guaranteed under this chapter. Such fee shall reflect the Government’s administrative expense in making the guarantee and the risk assumed by the Government and shall not be less than an amount which, when added to the amount of interest payable to the lender of such loan, produces a total charge appropriate for loan agreements of comparable risk and maturity if supplied by the normal capital markets.
 
-(Pub. L. 92–70, § 4, Aug. 9, 1971, 85 Stat. 178.)
+(Pub. L. 92–70, § 4, Aug. 9, 1971, 85 Stat. 178.)
 
-## § 1844. Security for loan guarantees
+## § 1844. Security for loan guarantees
 
 In negotiating a loan guarantee under this chapter, the Board shall make every effort to arrange that the payment of the principal of and interest on any plan guaranteed shall be secured by sufficient property of the enterprise to collateralize fully the amount of the loan guarantee.
 
-(Pub. L. 92–70, § 5, Aug. 9, 1971, 85 Stat. 179.)
+(Pub. L. 92–70, § 5, Aug. 9, 1971, 85 Stat. 179.)
 
-## § 1845. Requirements applicable to loan guarantees
+## § 1845. Requirements applicable to loan guarantees
 
 **(a) Stock dividends or other payments, prohibition; waiver** A guarantee agreement made under this chapter with respect to an enterprise shall require that while there is any principal or interest remaining unpaid on a guaranteed loan to that enterprise the enterprise may not—
 
@@ -351,15 +351,15 @@ No payment shall be made or become due under a guarantee entered into under this
 
 **(2)** As used in paragraph (1) of this subsection, the term “collateral” includes all assets pledged under loan agreements and, if appropriate in the opinion of the Board, all sums of the borrower on deposit with the lender and subject to offset under section 68 of the Bankruptcy Act.
 
-(Pub. L. 92–70, § 6, Aug. 9, 1971, 85 Stat. 179.)
+(Pub. L. 92–70, § 6, Aug. 9, 1971, 85 Stat. 179.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 68 of the Bankruptcy Act, referred to in subsec. (f)(2), was classified to section 108 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. See sections 502(b)(3) and 553 of Title 11.
+Section 68 of the Bankruptcy Act, referred to in subsec. (f)(2), was classified to section 108 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. See sections 502(b)(3) and 553 of Title 11.
 
-## § 1846. Powers and duties
+## § 1846. Powers and duties
 
 **(a) Board; inspection of documents; disapproval of certain transactions**
 
@@ -369,7 +369,7 @@ The Board is authorized to inspect and copy all accounts, books, records, memora
 
 The Government Accountability Office shall make a detailed audit of all accounts, books, records, and transactions of any borrower with respect to which an application for a loan guarantee is made under this chapter. The Government Accountability Office shall report the results of such audit to the Board and to the Congress.
 
-(Pub. L. 92–70, § 7, Aug. 9, 1971, 85 Stat. 180; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 92–70, § 7, Aug. 9, 1971, 85 Stat. 180; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -377,13 +377,13 @@ The Government Accountability Office shall make a detailed audit of all accounts
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-## § 1847. Maximum obligation
+## § 1847. Maximum obligation
 
 The maximum obligation of the Board under all outstanding loans guaranteed by it shall not exceed at any time $250,000,000.
 
-(Pub. L. 92–70, § 8, Aug. 9, 1971, 85 Stat. 181.)
+(Pub. L. 92–70, § 8, Aug. 9, 1971, 85 Stat. 181.)
 
-## § 1848. Emergency loan guarantee fund
+## § 1848. Emergency loan guarantee fund
 
 **(a) Establishment; use; investment**
 
@@ -397,21 +397,21 @@ The Board shall prescribe and collect a guarantee fee in connection with each lo
 
 Payments required to be made as a consequence of any guarantee by the Board shall be made from the emergency loan guarantee fund. In the event that moneys in the fund are insufficient to make such payments, in order to discharge its responsibilities, the Board is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be prescribed by the Board with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations issued hereunder and for that purpose he is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31 and the purposes for which securities may be issued under that chapter are extended to include any purchase of such notes and obligations.
 
-(Pub. L. 92–70, § 9, Aug. 9, 1971, 85 Stat. 181.)
+(Pub. L. 92–70, § 9, Aug. 9, 1971, 85 Stat. 181.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended,” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended,” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-## § 1849. Federal Reserve banks as fiscal agents
+## § 1849. Federal Reserve banks as fiscal agents
 
 Any Federal Reserve bank which is requested to do so shall act as fiscal agent for the Board. Each such fiscal agent shall be reimbursed by the Board for all expenses and losses incurred by it in acting as agent on behalf of the Board.
 
-(Pub. L. 92–70, § 10, Aug. 9, 1971, 85 Stat. 181.)
+(Pub. L. 92–70, § 10, Aug. 9, 1971, 85 Stat. 181.)
 
-## § 1850. Protection of Government’s interest
+## § 1850. Protection of Government’s interest
 
 **(a) Attorney General, enforcement authority; payments into emergency loan guarantee fund**
 
@@ -421,16 +421,16 @@ The Attorney General shall take such action as may be appropriate to enforce any
 
 The Board shall be entitled to recover from the borrower, or any other person liable therefor, the amount of any payments made pursuant to any guarantee agreement entered into under this chapter, and upon making any such payment, the Board shall be subrogated to all the rights of the recipient thereof.
 
-(Pub. L. 92–70, § 11, Aug. 9, 1971, 85 Stat. 181.)
+(Pub. L. 92–70, § 11, Aug. 9, 1971, 85 Stat. 181.)
 
-## § 1851. Reports to Congress; recommendations
+## § 1851. Reports to Congress; recommendations
 
 The Board shall submit to the Congress annually a full report of its operations under this chapter. In addition, the Board shall submit to the Congress a special report not later than June 30, 1973, which shall include a full report of the Board’s operations together with its recommendations with respect to the need to continue the guarantee program beyond the termination date specified in section 1852 of this title. If the Board recommends that the program should be continued beyond such termination date, it shall state its recommendations with respect to the appropriate board, agency, or corporation which should administer the program.
 
-(Pub. L. 92–70, § 12, Aug. 9, 1971, 85 Stat. 182.)
+(Pub. L. 92–70, § 12, Aug. 9, 1971, 85 Stat. 182.)
 
-## § 1852. Termination date
+## § 1852. Termination date
 
 The authority of the Board to enter into any guarantee or to make any commitment to guarantee under this chapter terminates on December 31, 1973. Such termination does not affect the carrying out of any contract, guarantee, commitment, or other obligation entered into pursuant to this chapter prior to that date, or the taking of any action necessary to preserve or protect the interests of the United States in any amounts advanced or paid out in carrying on operations under this chapter.
 
-(Pub. L. 92–70, § 13, Aug. 9, 1971, 85 Stat. 182.)
+(Pub. L. 92–70, § 13, Aug. 9, 1971, 85 Stat. 182.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 29—INTERNATIONAL SPORTS DOPING
 
-## § 2401. Definitions
+## § 2401. Definitions
 
 **(1) Anti-doping organization**
 
@@ -33,9 +33,9 @@ The term “Code” means the World Anti-Doping Code most recently adopted by WA
 
 The term “Convention” means the United Nations Educational, Scientific, and Cultural Organization International Convention Against Doping in Sport done at Paris October 19, 2005, and ratified by the United States in 2008.
 
-**(5) Major international sport competition** The term “Major International Sport Competition”— 1
+**(5) Major international sport competition** The term “Major International Sport Competition”— 1
 
-<sup>1</sup>  So in original. Term is not capitalized as used in this chapter.
+<sup>1</sup> So in original. Term is not capitalized as used in this chapter.
 
 **(A)** means a competition—
 
@@ -75,15 +75,15 @@ The term “USADA” means the United States Anti-Doping Agency.
 
 The term “WADA” means the World Anti-Doping Agency.
 
-(Pub. L. 116–206, § 2, Dec. 4, 2020, 134 Stat. 998.)
+(Pub. L. 116–206, § 2, Dec. 4, 2020, 134 Stat. 998.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–206, § 1, Dec. 4, 2020, 134 Stat. 998, provided that: “This Act [enacting this chapter and amending section 3663A of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Rodchenkov Anti-Doping Act of 2019’.”
+Pub. L. 116–206, § 1, Dec. 4, 2020, 134 Stat. 998, provided that: “This Act [enacting this chapter and amending section 3663A of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Rodchenkov Anti-Doping Act of 2019’.”
 
-## § 2402. Major international doping fraud conspiracies
+## § 2402. Major international doping fraud conspiracies
 
 **(a) In general**
 
@@ -93,9 +93,9 @@ It shall be unlawful for any person, other than an athlete, to knowingly carry i
 
 There is extraterritorial Federal jurisdiction over an offense under this section.
 
-(Pub. L. 116–206, § 3, Dec. 4, 2020, 134 Stat. 999.)
+(Pub. L. 116–206, § 3, Dec. 4, 2020, 134 Stat. 999.)
 
-## § 2403. Criminal penalties and statute of limitations
+## § 2403. Criminal penalties and statute of limitations
 
 **(a) In general**
 
@@ -119,10 +119,10 @@ No person shall be prosecuted, tried, or punished for violation of section 2402 
 
 Upon application in the United States, filed before a return of an indictment, indicating that evidence of an offense under this chapter is in a foreign country, the district court before which a grand jury is impaneled to investigate the offense shall suspend the running of this statute of limitation for the offense if the court finds by a preponderance of the evidence that an official request has been made for such evidence and that it reasonably appears, or reasonably appeared at the time the request was made, that such evidence is, or was, in such foreign country.
 
-(Pub. L. 116–206, § 4, Dec. 4, 2020, 134 Stat. 999.)
+(Pub. L. 116–206, § 4, Dec. 4, 2020, 134 Stat. 999.)
 
-## § 2404. Coordination and sharing of information with USADA
+## § 2404. Coordination and sharing of information with USADA
 
 Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, in furtherance of the obligation of the United States under Article 7 of the Convention, the Department of Justice, the Department of Homeland Security, and the Food and Drug Administration shall coordinate with USADA with regard to any investigation related to a potential violation of section 2402 of this title, to include sharing with USADA all information in the possession of the Department of Justice, the Department of Homeland Security, or the Food and Drug Administration which may be relevant to any such potential violation.
 
-(Pub. L. 116–206, § 6, Dec. 4, 2020, 134 Stat. 1000.)
+(Pub. L. 116–206, § 6, Dec. 4, 2020, 134 Stat. 1000.)

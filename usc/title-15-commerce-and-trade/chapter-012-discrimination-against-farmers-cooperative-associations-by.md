@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 12—DISCRIMINATION AGAINST FARMERS’ COOPERATIVE ASSOCIATIONS BY BOARDS OF TRADE
 
-## § 431. Definitions
+## § 431. Definitions
 
 When used in this chapter (a) the term “agricultural products”, means agricultural, horticultural, viticultural, and dairy products, food products of livestock, the products of poultry and bee raising, the edible products of forestry, and any and all products raised or produced on farms and processed or manufactured products thereof, transported or intended to be transported in interstate and/or foreign commerce.
 
-**(b)** The words “board of trade” shall be held to include and mean any exchange or association, whether incorporated or unincorporated, of persons who shall be engaged in the business of buying or selling agricultural products or receiving the same for sale on consignment, except markets designated as contract markets under the Grain Futures Act 1
+**(b)** The words “board of trade” shall be held to include and mean any exchange or association, whether incorporated or unincorporated, of persons who shall be engaged in the business of buying or selling agricultural products or receiving the same for sale on consignment, except markets designated as contract markets under the Grain Futures Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 [7 U.S.C. 1 et seq.].
 
@@ -33,22 +33,22 @@ When used in this chapter (a) the term “agricultural products”, means agricu
 
 **(f)** The act, omission, or failure of any official, agent, or other person acting for any individual, association, partnership, corporation, or trust, within the scope of his employment or office, shall be deemed the act, omission, or failure of such individual, association, partnership, corporation, or trust, as well as of such official, agent, or other person.
 
-(Mar. 4, 1927, ch. 508, § 1, 44 Stat. 1423.)
+(Mar. 4, 1927, ch. 508, § 1, 44 Stat. 1423.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Grain Futures Act, referred to in subsec. (b), was act Sept. 21, 1922, ch. 369, 42 Stat. 998. The Act was renamed the Commodity Exchange Act by act June 15, 1936, ch. 545, § 1, 49 Stat. 1491, and is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Grain Futures Act, referred to in subsec. (b), was act Sept. 21, 1922, ch. 369, 42 Stat. 998. The Act was renamed the Commodity Exchange Act by act June 15, 1936, ch. 545, § 1, 49 Stat. 1491, and is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-## § 432. Boards of trade dealing in agricultural products; exclusion of representatives of cooperative associations prohibited
+## § 432. Boards of trade dealing in agricultural products; exclusion of representatives of cooperative associations prohibited
 
 No board of trade whose members are engaged in the business of buying or selling agricultural products or receiving the same for sale on consignment in interstate commerce shall exclude from membership in, and all privileges on, such board of trade, any duly authorized representative of any lawfully formed and conducted cooperative association, corporate or otherwise, composed substantially of producers of agricultural products, or any such representative of any organization acting for a group of such associations, if such association or organization has adequate financial responsibility and complies or agrees to comply with such terms and conditions as are or may be imposed lawfully on other members of such board: *Provided*, That no rule of a board of trade shall forbid or be construed to forbid the return on a patronage basis by such cooperative association or organization to its bona fide members of moneys collected in excess of the expense of conducting the business of such association.
 
-(Mar. 4, 1927, ch. 508, § 2, 44 Stat. 1424.)
+(Mar. 4, 1927, ch. 508, § 2, 44 Stat. 1424.)
 
-## § 433. Remedies of cooperative association excluded from representation
+## § 433. Remedies of cooperative association excluded from representation
 
 Any such cooperative association or any such organization whose duly authorized representative is excluded from such membership and privileges by any board of trade referred to in section 432 of this title may sue in the United States District Court in whose jurisdiction such board of trade is operated or maintained for a mandatory injunction compelling such board of trade to admit such duly authorized representative to such membership and privileges and for any damages sustained, and such court shall have jurisdiction to issue such an injunction and to award such incidental damages as it may deem appropriate.
 
-(Mar. 4, 1927, ch. 508, § 3, 44 Stat. 1424.)
+(Mar. 4, 1927, ch. 508, § 3, 44 Stat. 1424.)

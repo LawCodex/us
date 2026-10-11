@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–284, § 6(20), Sept. 27, 2006, 120 Stat. 1213, substituted “ASSIGNMENT” for “ASSIGMENT” in item for subchapter I.
+2006—Pub. L. 109–284, § 6(20), Sept. 27, 2006, 120 Stat. 1213, substituted “ASSIGNMENT” for “ASSIGMENT” in item for subchapter I.
 
 ## SUBCHAPTER I—TRANSFER AND ASSIGNMENT OF RIGHTS, AUTHORITIES, TITLE, AND INTERESTS
 
@@ -27,9 +27,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–284, § 6(21), Sept. 27, 2006, 120 Stat. 1213, substituted “ASSIGNMENT” for “ASSIGMENT” in heading.
+2006—Pub. L. 109–284, § 6(21), Sept. 27, 2006, 120 Stat. 1213, substituted “ASSIGNMENT” for “ASSIGMENT” in heading.
 
-### § 6701. Transfer of rights and authorities of Pennsylvania Avenue Development Corporation
+### § 6701. Transfer of rights and authorities of Pennsylvania Avenue Development Corporation
 
 **(a) In General.—** The Administrator of General Services—
 
@@ -51,11 +51,11 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6701(a) | 40:872 note (words before 1st proviso). | Pub. L. 104–208, div. A, title I, § 101(f) [title IV, 3d–6th provisos on p. 3009–335], Sept. 30, 1996, 110 Stat. 3009–335. |
+| 6701(a) | 40:872 note (words before 1st proviso). | Pub. L. 104–208, div. A, title I, § 101(f) [title IV, 3d–6th provisos on p. 3009–335], Sept. 30, 1996, 110 Stat. 3009–335. |
 | 6701(b) | 40:872 note (1st, 2d provisos). |  |
-|  | 40:872 note. | Pub. L. 105–277, § 101(h) [title IV, 9th proviso on p. 2681–502], Oct. 21, 1998, 112 Stat. 2681–502. |
+|  | 40:872 note. | Pub. L. 105–277, § 101(h) [title IV, 9th proviso on p. 2681–502], Oct. 21, 1998, 112 Stat. 2681–502. |
 | 6701(c) | 40:872 note (last proviso). |  |
-|  | 40:879(b). | Pub. L. 92–578, § 10(b), Oct. 27, 1972, 86 Stat. 1274. |
+|  | 40:879(b). | Pub. L. 92–578, § 10(b), Oct. 27, 1972, 86 Stat. 1274. |
 
 In subsection (a), before clause (1), the words “in fiscal year 1997 and thereafter” are omitted as obsolete. In clause (1), the words “leases, contracts or other” are omitted as unnecessary. The words “firm, association, or corporation” are omitted because of the definition of “person” in 1:1.
 
@@ -63,7 +63,7 @@ In subsection (b)(1), the words “notwithstanding any other provision of law”
 
 In subsection (c), the words “To the extent that the District of Columbia may not suffer undue loss of tax revenue by reason of the provisions of subsection (a) of this section” are omitted as unnecessary.
 
-### § 6702. Transfer and assignment of rights, title, and interests in property
+### § 6702. Transfer and assignment of rights, title, and interests in property
 
 **(a) In General.—**
 
@@ -131,13 +131,13 @@ In subsection (c), the words “To the extent that the District of Columbia may 
 
 **Amendment Not Shown in Text**
 
-Subsection (c)(1) of this section was derived from section 313(d)(1) of title III of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as enacted by section 101(c) of Pub. L. 104–134), set out as a note under section 872 of the former Appendix to this title, which was amended by Pub. L. 111–11, title VII, § 7116(k)(1), Mar. 30, 2009, 123 Stat. 1203. For applicability of that amendment to this section, see section 5(b)(3) of Pub. L. 107–217, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 313(d)(1) of the Department of the Interior and Related Agencies Appropriations Act, 1996, as enacted by Pub. L. 104–134, was amended by substituting “map entitled ‘Pennsylvania Avenue National Historic Site’, dated August 25, 2008, and numbered 840–82441B” for “map entitled ‘Pennsylvania Avenue National Historic Park’, dated June 1, 1995, and numbered 840–82441”.
+Subsection (c)(1) of this section was derived from section 313(d)(1) of title III of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as enacted by section 101(c) of Pub. L. 104–134), set out as a note under section 872 of the former Appendix to this title, which was amended by Pub. L. 111–11, title VII, § 7116(k)(1), Mar. 30, 2009, 123 Stat. 1203. For applicability of that amendment to this section, see section 5(b)(3) of Pub. L. 107–217, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 313(d)(1) of the Department of the Interior and Related Agencies Appropriations Act, 1996, as enacted by Pub. L. 104–134, was amended by substituting “map entitled ‘Pennsylvania Avenue National Historic Site’, dated August 25, 2008, and numbered 840–82441B” for “map entitled ‘Pennsylvania Avenue National Historic Park’, dated June 1, 1995, and numbered 840–82441”.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6702 | 40:872 note. | Pub. L. 104–134, title I, § 101(c) [title III, § 313(a)–(e)], Apr. 26, 1996, 110 Stat. 1321–198, renumbered as title I by Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327. |
+| 6702 | 40:872 note. | Pub. L. 104–134, title I, § 101(c) [title III, § 313(a)–(e)], Apr. 26, 1996, 110 Stat. 1321–198, renumbered as title I by Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327. |
 
 Subsection (a) is substituted for section 313(a) of title III of section 101(c) of the Act of April 26, 1996, to eliminate obsolete words.
 
@@ -161,23 +161,23 @@ In subsection (d), the words “Notwithstanding any other provision of law” ar
 
 **References in Text**
 
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a)(1), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and subchapter II of this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a)(1), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and subchapter II of this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 Section 5 of the Act was classified to section 874 of former Title 40 prior to repeal by Pub. L. 107–217.
 
-The Federal Triangle Development Act, referred to in subsecs. (a)(1), (b)(1)(G), and (2)(D), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, which was classified to chapter 22 (§ 1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as subchapter III of this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Federal Triangle Development Act, referred to in subsecs. (a)(1), (b)(1)(G), and (2)(D), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, which was classified to chapter 22 (§ 1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as subchapter III of this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b)(1)(F), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b)(1)(F), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 111–11, title VII, § 7116(k)(2), Mar. 30, 2009, 123 Stat. 1204, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pennsylvania Avenue National Historic Park shall be deemed to be a reference to the ‘Pennsylvania Avenue National Historic Site’.”
+Pub. L. 111–11, title VII, § 7116(k)(2), Mar. 30, 2009, 123 Stat. 1204, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pennsylvania Avenue National Historic Park shall be deemed to be a reference to the ‘Pennsylvania Avenue National Historic Site’.”
 
 ## SUBCHAPTER II—PENNSYLVANIA AVENUE DEVELOPMENT
 
-### § 6711. Definition
+### § 6711. Definition
 
 In this subchapter, the term “development area” means the area to be developed, maintained, and used in accordance with this subchapter and the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) and is the area bounded as follows:
 
@@ -221,7 +221,7 @@ thence east along the southern side of E Street to the point of beginning.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6711 | 40:871. | Pub. L. 92–578, § 2, Oct. 27, 1972, 86 Stat. 1266. |
+| 6711 | 40:871. | Pub. L. 92–578, § 2, Oct. 27, 1972, 86 Stat. 1266. |
 
 The text of 40:871(a)–(e) is omitted as obsolete.
 
@@ -231,9 +231,9 @@ The words “being the southwest corner of the intersection of Fifteenth Street 
 
 **References in Text**
 
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
-### § 6712. Powers of other agencies and instrumentalities in the development area
+### § 6712. Powers of other agencies and instrumentalities in the development area
 
 This subchapter and the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) do not preclude other agencies or instrumentalities of the Federal Government or of the District of Columbia from exercising any lawful powers in the development area consistent with the development plan described in section 5(a) of the Act (86 Stat. 1269) or the provisions and purposes of this subchapter and the Act. However, the agency or instrumentality shall not release, modify, or depart from any feature or detail of the development plan without the prior approval of the Administrator of General Services.
 
@@ -243,7 +243,7 @@ This subchapter and the Pennsylvania Avenue Development Corporation Act of 1972 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6712 | 40:876(a). | Pub. L. 92–578, § 7(a), Oct. 27, 1972, 86 Stat. 1272. |
+| 6712 | 40:876(a). | Pub. L. 92–578, § 7(a), Oct. 27, 1972, 86 Stat. 1272. |
 
 In this subchapter, the words “Administrator of General Services” are substituted for “Corporation” to reflect the transfer of the responsibilities of the Pennsylvania Avenue Development Corporation. See section 6702 of the revised title.
 
@@ -251,9 +251,9 @@ In this subchapter, the words “Administrator of General Services” are substi
 
 **References in Text**
 
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 5(a) of the Act was classified to section 874(a) of former Title 40 prior to repeal by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 5(a) of the Act was classified to section 874(a) of former Title 40 prior to repeal by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
 
-### § 6713. Certification of new construction
+### § 6713. Certification of new construction
 
 New construction (including substantial remodeling, conversion, rebuilding, enlargement, extension, or major structural improvement of existing building, but not including ordinary maintenance or remodeling or changes necessary to continue occupancy) shall not be authorized or conducted within the development area except on prior certification by the Administrator of General Services that the construction is, or may reasonably be expected to be, consistent with the carrying out of the development plan described in section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1269).
 
@@ -263,7 +263,7 @@ New construction (including substantial remodeling, conversion, rebuilding, enla
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6713 | 40:876(b). | Pub. L. 92–578, § 7(b), Oct. 27, 1972, 86 Stat. 1273; Pub. L. 93–427, § 2, Oct. 1, 1974, 88 Stat. 1170. |
+| 6713 | 40:876(b). | Pub. L. 92–578, § 7(b), Oct. 27, 1972, 86 Stat. 1273; Pub. L. 93–427, § 2, Oct. 1, 1974, 88 Stat. 1170. |
 
 The words “After October 1, 1974” and the text of 40:876(b) (proviso) are omitted as obsolete.
 
@@ -271,9 +271,9 @@ The words “After October 1, 1974” and the text of 40:876(b) (proviso) are om
 
 **References in Text**
 
-Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, was classified to section 874(a) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.
+Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, was classified to section 874(a) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.
 
-### § 6714. Relocation services
+### § 6714. Relocation services
 
 **(a) Use of District of Columbia Government.—** The Administrator of General Services may use the services of the District of Columbia government in the administration of a relocation program pursuant to the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.). The Administrator shall reimburse the government for the cost of the services.
 
@@ -287,7 +287,7 @@ Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, ref
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6714 | 40:877(b)–(d). | Pub. L. 92–578, § 8(b)–(d), Oct. 27, 1972, 86 Stat. 1273; Pub. L. 95–629, title I, § 101(1)(f), Nov. 10, 1978, 92 Stat. 3635. |
+| 6714 | 40:877(b)–(d). | Pub. L. 92–578, § 8(b)–(d), Oct. 27, 1972, 86 Stat. 1273; Pub. L. 95–629, title I, § 101(1)(f), Nov. 10, 1978, 92 Stat. 3635. |
 
 In subsection (c), the words “retail, wholesale, service or other” and “or its agent” are omitted as unnecessary. The words “upon implementation of the development plan” are omitted as obsolete.
 
@@ -295,11 +295,11 @@ In subsection (c), the words “retail, wholesale, service or other” and “or
 
 **References in Text**
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (c), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (c), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
-### § 6715. Coordination with District of Columbia
+### § 6715. Coordination with District of Columbia
 
 **(a) Local Needs, Initiative, and Participation.—** In carrying out the purposes of this subchapter and the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266), the Administrator of General Services shall—
 
@@ -317,7 +317,7 @@ The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subs
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6715 | 40:878. | Pub. L. 92–578, § 9, Oct. 27, 1972, 86 Stat. 1273. |
+| 6715 | 40:878. | Pub. L. 92–578, § 9, Oct. 27, 1972, 86 Stat. 1273. |
 
 In subsection (b), the word “reconstructing” is omitted as unnecessary.
 
@@ -325,9 +325,9 @@ In subsection (b), the word “reconstructing” is omitted as unnecessary.
 
 **References in Text**
 
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
-### § 6716. Reports
+### § 6716. Reports
 
 **(a) Reports to President and Congress.—** The Administrator of General Services shall transmit comprehensive and detailed reports of the Administrator’s operations, activities, and accomplishments under this subchapter to the President and Congress. The Administrator shall transmit a report to the President each January and to the President and Congress at other times that the Administrator considers desirable.
 
@@ -339,15 +339,15 @@ The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subs
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6716(a) | 40:880(a). | Pub. L. 92–578, § 11(a), Oct. 27, 1972, 86 Stat. 1274; Pub. L. 98–141, § 8(d), Oct. 31, 1983, 97 Stat. 910. |
-|  | 40:880(b). | Pub. L. 92–578, § 11(b), (c), as added Pub. L. 98–141, § 8(d), Oct. 31, 1983, 97 Stat. 910. |
+| 6716(a) | 40:880(a). | Pub. L. 92–578, § 11(a), Oct. 27, 1972, 86 Stat. 1274; Pub. L. 98–141, § 8(d), Oct. 31, 1983, 97 Stat. 910. |
+|  | 40:880(b). | Pub. L. 92–578, § 11(b), (c), as added Pub. L. 98–141, § 8(d), Oct. 31, 1983, 97 Stat. 910. |
 | 6716(b) | 40:880(c). |  |
 
 In subsection (a), the text of 40:880(b) is omitted as obsolete. The requirement that a report be transmitted to Congress each January is eliminated pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 205 of House Document No. 103–7.
 
 ## SUBCHAPTER III—FEDERAL TRIANGLE DEVELOPMENT
 
-### § 6731. Definitions
+### § 6731. Definitions
 
 In this subchapter—
 
@@ -377,7 +377,7 @@ thence west along the southern side of Pennsylvania Avenue to the point of begin
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6731 | 40:1109. | Pub. L. 100–113, § 10, Aug. 21, 1987, 101 Stat. 747. |
+| 6731 | 40:1109. | Pub. L. 100–113, § 10, Aug. 21, 1987, 101 Stat. 747. |
 
 In this section, the text of 40:1109(1)–(3) is omitted as unnecessary because the complete names of the Administrator of General Services, International Cultural and Trade Center Commission, and Pennsylvania Avenue Development Corporation are used the first time the terms appear in a section.
 
@@ -387,13 +387,13 @@ In paragraph (1), the words “being the southwest corner of the intersection of
 
 **References in Text**
 
-Section 3(b) of the Federal Triangle Development Act, referred to in par. (2)(B), was classified to section 1102(b) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.
+Section 3(b) of the Federal Triangle Development Act, referred to in par. (2)(B), was classified to section 1102(b) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Designation of Daniel Patrick Moynihan Place**
 
-Pub. L. 106–567, title III, § 310, Dec. 27, 2000, 114 Stat. 2841, designated as “Daniel Patrick Moynihan Place” a parcel of land located in Woodrow Wilson Plaza in the northwest quadrant of Washington, District of Columbia, directed the Administrator of General Services to erect appropriate gateways or other markers to denote that place, and provided that any reference in a law, map, regulation, document, paper, or other record of the United States to that parcel of land was to be deemed to be a reference to Daniel Patrick Moynihan Place.
+Pub. L. 106–567, title III, § 310, Dec. 27, 2000, 114 Stat. 2841, designated as “Daniel Patrick Moynihan Place” a parcel of land located in Woodrow Wilson Plaza in the northwest quadrant of Washington, District of Columbia, directed the Administrator of General Services to erect appropriate gateways or other markers to denote that place, and provided that any reference in a law, map, regulation, document, paper, or other record of the United States to that parcel of land was to be deemed to be a reference to Daniel Patrick Moynihan Place.
 
 **Designation of Woodrow Wilson Plaza**
 
@@ -401,13 +401,13 @@ Pub. L. 103–284, Aug. 1, 1994, 108 Stat. 1448, provided: “That the plaza to 
 
 **Designation of Andrew W. Mellon Auditorium**
 
-Pub. L. 100–113, § 9, Aug. 21, 1987, 101 Stat. 746, provided that:
+Pub. L. 100–113, § 9, Aug. 21, 1987, 101 Stat. 746, provided that:
 
 > **“(a)** The Departmental Auditorium, located on the Federal Triangle between the Custom Service building and Interstate Commerce Commission building on Constitution Avenue, shall on and after August 21, 1987, be known and designated as the ‘Andrew W. Mellon Auditorium’.
 
 > **“(b)** Any reference in any law, regulation, document, record, map or other paper of the United States to the auditorium referred to in subsection (a) of this section is deemed to be a reference to the ‘Andrew W. Mellon Auditorium’.”
 
-### § 6732. Federal Triangle development area
+### § 6732. Federal Triangle development area
 
 The Federal Triangle development area is deemed to be part of the development area described in section 6711 of this title. The Administrator of General Services has the same authority over the Federal Triangle development area as over the development area described in section 6711.
 
@@ -417,11 +417,11 @@ The Federal Triangle development area is deemed to be part of the development ar
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6732 | 40:1104(g). | Pub. L. 100–113, § 5(g), Aug. 21, 1987, 101 Stat. 739. |
+| 6732 | 40:1104(g). | Pub. L. 100–113, § 5(g), Aug. 21, 1987, 101 Stat. 739. |
 
 The words “For purposes of the Pennsylvania Avenue Development Corporation Act of 1972 (other than section 5)” are omitted as unnecessary and obsolete. The words “Administrator of General Services” are substituted for “Corporation” to reflect the transfer of the responsibilities of the Pennsylvania Avenue Development Corporation. See section 6702 of the revised title.
 
-### § 6733. Federal Triangle property
+### § 6733. Federal Triangle property
 
 **(a) Title.—** Title to the Federal Triangle property reverts to the Administrator of General Services not later than the date on which ownership of the Ronald Reagan Building and International Trade Center vests in the Federal Government.
 
@@ -437,12 +437,12 @@ The words “For purposes of the Pennsylvania Avenue Development Corporation Act
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6733(a) | 40:1102(a)(2) (1st sentence). | Pub. L. 100–113, §§ 3(a)(2) (1st sentence), 5(f), Aug. 21, 1987, 101 Stat. 736, 739. |
+| 6733(a) | 40:1102(a)(2) (1st sentence). | Pub. L. 100–113, §§ 3(a)(2) (1st sentence), 5(f), Aug. 21, 1987, 101 Stat. 736, 739. |
 | 6733(b) | 40:1104(f). |  |
 
 In subsection (a), the words “at such time as the Administrator and the Corporation agree but” are omitted as obsolete. The Corporation transferred its rights, title, and interest in all property to the General Services Administration on April 1, 1996. The words “Ronald Reagan Building and International Trade Center” are substituted for “building to be constructed on such property under section 1104 of this title” because of section 2 of the Act of December 22, 1995 (Public Law 104–68, 109 Stat. 766).
 
-### § 6734. Ronald Reagan Building and International Trade Center
+### § 6734. Ronald Reagan Building and International Trade Center
 
 **(a) Establishment and Designation.—** The building constructed on the Federal Triangle property shall be known and designated as the Ronald Reagan Building and International Trade Center.
 
@@ -486,8 +486,8 @@ In subsection (a), the words “at such time as the Administrator and the Corpor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6734(a) | 40:1101 note. | Pub. L 104–68, § 1, Dec. 22, 1995, 109 Stat. 766. |
-| 6734(b) | 40:1102(a)(2) (last sentence). | Pub. L. 100–113, §§ 3(a)(2) (last sentence), 4(b), 5(b)(2)(B), (d), 6, Aug. 21, 1987, 101 Stat. 736, 737, 739, 740. |
+| 6734(a) | 40:1101 note. | Pub. L 104–68, § 1, Dec. 22, 1995, 109 Stat. 766. |
+| 6734(b) | 40:1102(a)(2) (last sentence). | Pub. L. 100–113, §§ 3(a)(2) (last sentence), 4(b), 5(b)(2)(B), (d), 6, Aug. 21, 1987, 101 Stat. 736, 737, 739, 740. |
 |  | 40:1104(b)(2)(B). |  |
 | 6734(c) | 40:1103(b). |  |
 | 6734(d) | 40:1104(d). |  |
@@ -510,10 +510,10 @@ Subsection (f)(3) is substituted for 40:1105(d) to eliminate unnecessary words.
 
 **References in Text**
 
-The Federal Triangle Development Act, referred to in subsec. (f)(2)(B), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, which was classified to chapter 22 (§ 1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Federal Triangle Development Act, referred to in subsec. (f)(2)(B), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, which was classified to chapter 22 (§ 1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reference to Ronald Reagan Building and International Trade Center**
 
-Pub. L. 104–68, § 2, Dec. 22, 1995, 109 Stat. 766, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 [now 40 U.S.C. 6734(a)] shall be deemed to be a reference to the ‘Ronald Reagan Building and International Trade Center’.”
+Pub. L. 104–68, § 2, Dec. 22, 1995, 109 Stat. 766, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 [now 40 U.S.C. 6734(a)] shall be deemed to be a reference to the ‘Ronald Reagan Building and International Trade Center’.”

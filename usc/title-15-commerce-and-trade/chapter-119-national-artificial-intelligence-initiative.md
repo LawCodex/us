@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 119—NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE
 
-## § 9401. Definitions
+## § 9401. Definitions
 
 In this chapter:
 
@@ -67,7 +67,7 @@ The term “K-12 education” means elementary school and secondary school educa
 
 The term “machine learning” means an application of artificial intelligence that is characterized by providing systems the ability to automatically learn and improve on the basis of data or experience, without being explicitly programmed.
 
-(Pub. L. 116–283, div. E, § 5002, Jan. 1, 2021, 134 Stat. 4523.)
+(Pub. L. 116–283, div. E, § 5002, Jan. 1, 2021, 134 Stat. 4523.)
 
 **Editorial Notes**
 
@@ -79,17 +79,17 @@ This chapter, referred to in text, was in the original “this division”, mean
 
 **Short Title**
 
-Pub. L. 116–283, div. E, § 5001, Jan. 1, 2021, 134 Stat. 4523, provided that: “This division [enacting this chapter and section 278h–1 of this title and amending sections 1862i and 1862n–1 of Title 42, The Public Health and Welfare] may be cited as the ‘National Artificial Intelligence Initiative Act of 2020’.”
+Pub. L. 116–283, div. E, § 5001, Jan. 1, 2021, 134 Stat. 4523, provided that: “This division [enacting this chapter and section 278h–1 of this title and amending sections 1862i and 1862n–1 of Title 42, The Public Health and Welfare] may be cited as the ‘National Artificial Intelligence Initiative Act of 2020’.”
 
 **Executive Documents**
 
 **Executive Order No. 14110**
 
-Ex. Ord. No. 14110, Oct. 30, 2023, 88 F.R. 75191, which related to safe, secure, and trustworthy development and use of artificial intelligence, was revoked by Ex. Ord. No. 14148, § 2(ggg), Jan. 20, 2025, 90 F.R. 8240.
+Ex. Ord. No. 14110, Oct. 30, 2023, 88 F.R. 75191, which related to safe, secure, and trustworthy development and use of artificial intelligence, was revoked by Ex. Ord. No. 14148, § 2(ggg), Jan. 20, 2025, 90 F.R. 8240.
 
 **Executive Order No. 14141**
 
-Ex. Ord. No. 14141, Jan. 14, 2025, 90 F.R. 5469, which related to the development and operation of infrastructure necessary to establishing United States’ economic competitiveness in artificial intelligence, was revoked by Ex. Ord. No. 14318, § 4, July 23, 2025, 90 F.R. 35386, set out below.
+Ex. Ord. No. 14141, Jan. 14, 2025, 90 F.R. 5469, which related to the development and operation of infrastructure necessary to establishing United States’ economic competitiveness in artificial intelligence, was revoked by Ex. Ord. No. 14318, § 4, July 23, 2025, 90 F.R. 35386, set out below.
 
 **Ex. Ord. No. 14179. Removing Barriers to American Leadership in Artificial Intelligence**
 
@@ -237,7 +237,7 @@ Sec. 3. *Establishment of the American AI Exports Program*. (a) Within 90 days o
 
 (iv) detail requested Federal incentives and support mechanisms; and
 
-(v) comply with all relevant United States export control regimes, outbound investment regulations, and end-user policies, including chapter 58 of title 50 [subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232], United States Code, and relevant guidance from the Bureau of Industry and Security within the Department of Commerce.
+(v) comply with all relevant United States export control regimes, outbound investment regulations, and end-user policies, including chapter 58 of title 50 [subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232], United States Code, and relevant guidance from the Bureau of Industry and Security within the Department of Commerce.
 
 (c) The Department of Commerce shall require proposals to be submitted no later than 90 days after the public call for proposals is issued, and shall consider proposals on a rolling basis for inclusion in the Program.
 
@@ -261,7 +261,7 @@ Sec. 4. *Mobilization of Federal Financing Tools*. (a) The Economic Diplomacy Ac
 
 (vi) coordinating with the Small Business Administration’s Office of Investment and Innovation to facilitate, to the extent permitted under applicable law, investment in United States small businesses to the development of American AI technologies and the manufacture of AI infrastructure, hardware, and systems.
 
-(d) Members of the EDAG shall deploy, to the maximum extent permitted by law, available Federal tools to support the priority export packages selected for participation in the Program, including direct loans and loan guarantees (12 U.S.C.[ ]635) [section 2 of act July 31, 1945]; equity investments, co-financing, political risk insurance, and credit guarantees (22 U.S.C.[ ]9621) [section 1421 of Pub. L. 115–254]; and technical assistance and feasibility studies (22 U.S.C. 2421(b)) [section 661 of Pub. L. 87–195].
+(d) Members of the EDAG shall deploy, to the maximum extent permitted by law, available Federal tools to support the priority export packages selected for participation in the Program, including direct loans and loan guarantees (12 U.S.C.[ ]635) [section 2 of act July 31, 1945]; equity investments, co-financing, political risk insurance, and credit guarantees (22 U.S.C.[ ]9621) [section 1421 of Pub. L. 115–254]; and technical assistance and feasibility studies (22 U.S.C. 2421(b)) [section 661 of Pub. L. 87–195].
 
 Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -451,7 +451,7 @@ Donald J. Trump.
 
 ## SUBCHAPTER I—NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE
 
-### § 9411. National Artificial Intelligence Initiative
+### § 9411. National Artificial Intelligence Initiative
 
 **(a) Establishment; purposes** The President shall establish and implement an initiative to be known as the “National Artificial Intelligence Initiative”. The purposes of the Initiative shall be to—
 
@@ -487,9 +487,9 @@ The Initiative shall not impact sources and methods, as determined by the Direct
 
 **(d) Rules of construction** Nothing in this chapter shall be construed as—
 
-**(1)** modifying any authority or responsibility, including any operational authority or responsibility of any head of a Federal department or agency, with respect to intelligence or the intelligence community, as those terms are defined in 50 U.S.C. 3003; 1
+**(1)** modifying any authority or responsibility, including any operational authority or responsibility of any head of a Federal department or agency, with respect to intelligence or the intelligence community, as those terms are defined in 50 U.S.C. 3003; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** authorizing the Initiative, or anyone associated with its derivative efforts to approve, interfere with, direct or to conduct an intelligence activity, resource, or operation; or
 
@@ -499,7 +499,7 @@ The Initiative shall not impact sources and methods, as determined by the Direct
 
 The Initiative established in this chapter shall terminate on the date that is 10 years after January 1, 2021.
 
-(Pub. L. 116–283, div. E, title LI, § 5101, Jan. 1, 2021, 134 Stat. 4524.)
+(Pub. L. 116–283, div. E, title LI, § 5101, Jan. 1, 2021, 134 Stat. 4524.)
 
 **Editorial Notes**
 
@@ -509,7 +509,7 @@ This chapter, referred to in subsecs. (d) and (e), was in the original “this d
 
 50 U.S.C. 3003, referred to in subsec. (d)(1), was so in the original, but probably should have been a reference to section 3 of the National Security Act of 1947, act July 26, 1947, ch. 343, which is classified to section 3003 of Title 50, War and National Defense.
 
-### § 9412. National Artificial Intelligence Initiative Office
+### § 9412. National Artificial Intelligence Initiative Office
 
 **(a) In general**
 
@@ -529,9 +529,9 @@ The Director of the Office of Science and Technology Policy shall establish or d
 
 The Director of the Office of Science and Technology Policy, in coordination with each participating Federal department and agency, as appropriate, shall develop and annually update an estimate of the funds necessary to carry out the activities of the Initiative Coordination Office and submit such estimate with an agreed summary of contributions from each agency to Congress as part of the President’s annual budget request to Congress.
 
-(Pub. L. 116–283, div. E, title LI, § 5102, Jan. 1, 2021, 134 Stat. 4526.)
+(Pub. L. 116–283, div. E, title LI, § 5102, Jan. 1, 2021, 134 Stat. 4526.)
 
-### § 9413. Coordination by Interagency Committee
+### § 9413. Coordination by Interagency Committee
 
 **(a) Interagency Committee**
 
@@ -573,9 +573,9 @@ The Committee shall include representatives from Federal agencies as considered 
 
 For each fiscal year beginning with fiscal year 2022, not later than 90 days after submission of the President’s annual budget request for such fiscal year, the Interagency Committee shall prepare and submit to the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Transportation and Infrastructure, the Committee on Armed Services, the House Permanent Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, the Committee on Energy and Natural Resources, the Committee on Homeland Security and Governmental Affairs, the Committee on Armed Services, the Senate Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the Senate a report that includes a summarized budget in support of the Initiative for such fiscal year and the preceding fiscal year, including a disaggregation of spending and a description of any Institutes established under section 9431 of this title for the Department of Commerce, the Department of Defense, the Department of Energy, the Department of Agriculture, the Department of Health and Human Services, and the National Science Foundation.
 
-(Pub. L. 116–283, div. E, title LI, § 5103, Jan. 1, 2021, 134 Stat. 4526.)
+(Pub. L. 116–283, div. E, title LI, § 5103, Jan. 1, 2021, 134 Stat. 4526.)
 
-### § 9414. National Artificial Intelligence Advisory Committee
+### § 9414. National Artificial Intelligence Advisory Committee
 
 **(a) In general**
 
@@ -597,9 +597,9 @@ In selecting the members of the Advisory Committee, the Secretary of Commerce sh
 
 **(3)** the state of the science around artificial intelligence, including progress toward artificial general intelligence;
 
-**(4)** issues related to artificial intelligence and the United States workforce, including matters relating to the potential for using artificial intelligence for workforce training, the possible consequences of technological displacement, and supporting workforce training opportunities for occupations that lead to economic self-sufficiency for individuals with barriers to employment and historically underrepresented populations, including minorities, Indians (as defined in 25 U.S.C. 5304 1
+**(4)** issues related to artificial intelligence and the United States workforce, including matters relating to the potential for using artificial intelligence for workforce training, the possible consequences of technological displacement, and supporting workforce training opportunities for occupations that lead to economic self-sufficiency for individuals with barriers to employment and historically underrepresented populations, including minorities, Indians (as defined in 25 U.S.C. 5304 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 ), low-income populations, and persons with disabilities.
 
@@ -649,7 +649,7 @@ Non-Federal members of the Advisory Committee, while attending meetings of the A
 
 The Secretary of Commerce shall charter the Advisory Committee in accordance with the Federal Advisory Committee Act (5 U.S.C. App.),<sup>1</sup> except that the Advisory Committee shall be exempt from section 14 of such Act.
 
-(Pub. L. 116–283, div. E, title LI, § 5104, Jan. 1, 2021, 134 Stat. 4528.)
+(Pub. L. 116–283, div. E, title LI, § 5104, Jan. 1, 2021, 134 Stat. 4528.)
 
 **Editorial Notes**
 
@@ -657,9 +657,9 @@ The Secretary of Commerce shall charter the Advisory Committee in accordance wit
 
 25 U.S.C. 5304, referred to in subsec. (d)(4), was so in the original, but probably should have been a reference to section 4 of the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, which is classified to section 5304 of Title 25, Indians.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Section 14 of the Act was repealed and restated as section 1013 of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Section 14 of the Act was repealed and restated as section 1013 of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
-### § 9415. National AI Research Resource Task Force
+### § 9415. National AI Research Resource Task Force
 
 **(a) Establishment of Task Force**
 
@@ -701,7 +701,7 @@ Any vacancy occurring in the membership of the Task Force shall be filled in the
 
 The Director of the Office of Science and Technology Policy and the Director of the National Sciences Foundation,1
 
-<sup>1</sup>  So in original. Probably should be “National Science Foundation,”.
+<sup>1</sup> So in original. Probably should be “National Science Foundation,”.
 
 or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
 
@@ -727,9 +727,9 @@ The Task Force shall develop a coordinated roadmap and implementation plan for c
 
 **(ii)** a governance structure for the Resource, including oversight and decision-making authorities.
 
-**(C)** A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources; 2
+**(C)** A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources; 2
 
-<sup>2</sup>  So in original. The semicolon probably should be a period.
+<sup>2</sup> So in original. The semicolon probably should be a period.
 
 **(D)** Capabilities required to create and maintain a shared computing infrastructure to facilitate access to computing resources for researchers across the country, including scalability, secured access control, resident data engineering and curation expertise, provision of curated data sets, compute resources, educational tools and services, and a user interface portal.
 
@@ -809,7 +809,7 @@ The terms “National Artificial Intelligence Research Resource” and “Resour
 
 The term “ownership” means responsibility and accountability for the implementation, deployment, and ongoing development of the National Artificial Intelligence Research Resource, and for providing staff support to that effort.
 
-(Pub. L. 116–283, div. E, title LI, § 5106, Jan. 1, 2021, 134 Stat. 4531.)
+(Pub. L. 116–283, div. E, title LI, § 5106, Jan. 1, 2021, 134 Stat. 4531.)
 
 **Editorial Notes**
 
@@ -819,7 +819,7 @@ Enactment of this Act, referred to in subsec. (a)(2)(B), means the enactment of 
 
 ## SUBCHAPTER II—NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH INSTITUTES
 
-### § 9431. National Artificial Intelligence Research Institutes
+### § 9431. National Artificial Intelligence Research Institutes
 
 **(a) In general**
 
@@ -899,7 +899,7 @@ The Director of the National Science Foundation shall establish a network of Ins
 
 No funds authorized in this subchapter shall be awarded to Institutes outside of the United States. All awardees and subawardees for such Institute shall be based in the United States, in addition to any other eligibility criteria as established by each agency head.
 
-(Pub. L. 116–283, div. E, title LII, § 5201, Jan. 1, 2021, 134 Stat. 4534.)
+(Pub. L. 116–283, div. E, title LII, § 5201, Jan. 1, 2021, 134 Stat. 4534.)
 
 **Editorial Notes**
 
@@ -909,11 +909,11 @@ Section 5301 of this division, referred to in subsec. (b)(3)(A), means section 5
 
 ## SUBCHAPTER III—DEPARTMENT OF COMMERCE ARTIFICIAL INTELLIGENCE ACTIVITIES
 
-### § 9441. Stakeholder outreach
+### § 9441. Stakeholder outreach
 
 In carrying out the activities under section 278h–1 of this title as amended by title III of this Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Director shall—
 
@@ -923,7 +923,7 @@ the Director shall—
 
 **(3)** provide opportunity for public comment on guidelines and best practices developed as part of the Initiative, as appropriate.
 
-(Pub. L. 116–283, div. E, title LIII, § 5302, Jan. 1, 2021, 134 Stat. 4539.)
+(Pub. L. 116–283, div. E, title LIII, § 5302, Jan. 1, 2021, 134 Stat. 4539.)
 
 **Editorial Notes**
 
@@ -931,13 +931,13 @@ the Director shall—
 
 Section 278h–1 of this title as amended by title III of this Act, referred to in text, probably means section 278h–1 of this title as added by title LIII of Pub. L. 116–283, div. E, Jan. 1, 2021, 134 Stat. 4536.
 
-### § 9442. National Oceanic and Atmospheric Administration Artificial Intelligence Center
+### § 9442. National Oceanic and Atmospheric Administration Artificial Intelligence Center
 
 **(a) In general**
 
 The Administrator of the National Oceanic and Atmospheric Administration (hereafter referred to as “the Administrator”) shall establish,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 a Center for Artificial Intelligence (hereafter referred to as “the Center”).
 
@@ -987,17 +987,17 @@ Notwithstanding any other provision of this section, the Administrator, in consu
 
 Nothing in this section shall be construed to supersede any other provision of law governing the protection of the national security interests of the United States.
 
-(Pub. L. 116–283, div. E, title LIII, § 5303, Jan. 1, 2021, 134 Stat. 4539.)
+(Pub. L. 116–283, div. E, title LIII, § 5303, Jan. 1, 2021, 134 Stat. 4539.)
 
 ## SUBCHAPTER IV—NATIONAL SCIENCE FOUNDATION ARTIFICIAL INTELLIGENCE ACTIVITIES
 
-### § 9451. Artificial intelligence research and education
+### § 9451. Artificial intelligence research and education
 
 **(a) In general**
 
-the 1
+the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Director of the National Science Foundation shall fund research and education activities in artificial intelligence systems and related fields, including competitive awards or grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).
 
@@ -1151,7 +1151,7 @@ In carrying out the pilot program, the Director shall award grants for the condu
 
 **(5)** $1,055,060,000 for fiscal year 2025.
 
-(Pub. L. 116–283, div. E, title LIV, § 5401, Jan. 1, 2021, 134 Stat. 4540.)
+(Pub. L. 116–283, div. E, title LIV, § 5401, Jan. 1, 2021, 134 Stat. 4540.)
 
 **Editorial Notes**
 
@@ -1167,7 +1167,7 @@ Section is comprised of section 5401 of Pub. L. 116–283. Subsec. (e)(2)(C) of 
 
 ## SUBCHAPTER V—DEPARTMENT OF ENERGY ARTIFICIAL INTELLIGENCE RESEARCH PROGRAM
 
-### § 9461. Department of Energy artificial intelligence research program
+### § 9461. Department of Energy artificial intelligence research program
 
 **(a) In general**
 
@@ -1275,7 +1275,7 @@ The term “national laboratory” has the meaning given such term in section 15
 
 **(5)** $262,160,000 for fiscal year 2025.
 
-(Pub. L. 116–283, div. E, title LV, § 5501, Jan. 1, 2021, 134 Stat. 4545.)
+(Pub. L. 116–283, div. E, title LV, § 5501, Jan. 1, 2021, 134 Stat. 4545.)
 
 **Editorial Notes**
 
@@ -1287,7 +1287,7 @@ Section 5301 of this division, referred to in subsecs. (f) and (g), means sectio
 
 **Transformational Artificial Intelligence Models**
 
-Pub. L. 119–21, title V, § 50404, July 4, 2025, 139 Stat. 153, provided that:
+Pub. L. 119–21, title V, § 50404, July 4, 2025, 139 Stat. 153, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1309,7 +1309,7 @@ Pub. L. 119–21, title V, § 50404, July 4, 2025, 139 Stat. 153, provided tha
 
 > **“(d) Appropriations.—** There is appropriated, out of any funds in the Treasury not otherwise appropriated, $150,000,000, to remain available through September 30, 2026, to carry out this section.”
 
-### § 9462. Veterans’ health initiative
+### § 9462. Veterans’ health initiative
 
 **(a) Purposes** The purposes of this section are to advance Department of Energy expertise in artificial intelligence and high-performance computing in order to improve health outcomes for veteran populations by—
 
@@ -1387,7 +1387,7 @@ There are authorized to be appropriated to the Secretary to carry out this subse
 
 In this section, the term “National Laboratory” has the meaning given such term in section 15801(3) of title 42.
 
-(Pub. L. 116–260, div. Z, title IX, § 9008, Dec. 27, 2020, 134 Stat. 2600.)
+(Pub. L. 116–260, div. Z, title IX, § 9008, Dec. 27, 2020, 134 Stat. 2600.)
 
 **Editorial Notes**
 

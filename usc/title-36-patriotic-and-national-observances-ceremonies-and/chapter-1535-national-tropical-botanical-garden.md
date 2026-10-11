@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1535—NATIONAL TROPICAL BOTANICAL GARDEN"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1535—NATIONAL TROPICAL BOTANICAL GARDEN"
 identifier: "/us/usc/t36/stII/ptB/ch1535"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1535—NATIONAL TROPICAL BOTANICAL GARDEN
 
@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2014—Pub. L. 113–237, § 3(c)(7), Dec. 18, 2014, 128 Stat. 2840, added item 153514.
+2014—Pub. L. 113–237, § 3(c)(7), Dec. 18, 2014, 128 Stat. 2840, added item 153514.
 
-## § 153501. Organization
+## § 153501. Organization
 
 **(a) Federal Charter.—** National Tropical Botanical Garden (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -33,12 +33,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153501 | 36:4601. | Aug. 19, 1964, Pub. L. 88–449, § 1, 78 Stat. 496; Oct. 28, 1988, Pub. L. 100–539, § 1, 102 Stat. 2718. |
-|  | 36:4602. | Aug. 19, 1964, Pub. L. 88–449, § 2, 78 Stat. 496. |
+| 153501 | 36:4601. | Aug. 19, 1964, Pub. L. 88–449, § 1, 78 Stat. 496; Oct. 28, 1988, Pub. L. 100–539, § 1, 102 Stat. 2718. |
+|  | 36:4602. | Aug. 19, 1964, Pub. L. 88–449, § 2, 78 Stat. 496. |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
-## § 153502. Purposes
+## § 153502. Purposes
 
 The purposes of the corporation are—
 
@@ -58,11 +58,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153502 | 36:4603. | Aug. 19, 1964, Pub. L. 88–449, § 3, 78 Stat. 496. |
+| 153502 | 36:4603. | Aug. 19, 1964, Pub. L. 88–449, § 3, 78 Stat. 496. |
 
 Before clause (1), the words “objects” is omitted as unnecessary.
 
-## § 153503. Membership
+## § 153503. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -74,9 +74,9 @@ Before clause (1), the words “objects” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153503 | 36:4608. | Aug. 19, 1964, Pub. L. 88–449, § 8, 78 Stat. 498. |
+| 153503 | 36:4608. | Aug. 19, 1964, Pub. L. 88–449, § 8, 78 Stat. 498. |
 
-## § 153504. Governing body
+## § 153504. Governing body
 
 **(a) Board of Trustees.—**
 
@@ -96,14 +96,14 @@ Before clause (1), the words “objects” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153504(a) | 36:4605. | Aug. 19, 1964, Pub. L. 88–449, § 5, 78 Stat. 497; Sept. 29, 1972, Pub. L. 92–447, 86 Stat. 746. |
-| 153504(b) | 36:4606. | Aug. 19, 1964, Pub. L. 88–449, § 6, 78 Stat. 497. |
+| 153504(a) | 36:4605. | Aug. 19, 1964, Pub. L. 88–449, § 5, 78 Stat. 497; Sept. 29, 1972, Pub. L. 92–447, 86 Stat. 746. |
+| 153504(b) | 36:4606. | Aug. 19, 1964, Pub. L. 88–449, § 6, 78 Stat. 497. |
 
 In subsection (a), the text of 36:4605(a) is omitted as obsolete. The words “Except for the foregoing provision” in 36:4605(b) and “responsibilities” in 36:4605(c) are omitted as unnecessary.
 
 In subsection (b), the words “as provided” are substituted for “as may be authorized” and “as may be prescribed” for consistency in the revised title.
 
-## § 153505. Powers
+## § 153505. Powers
 
 The corporation may—
 
@@ -129,7 +129,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153505 | 36:4604. | Aug. 19, 1964, Pub. L. 88–449, § 4, 78 Stat. 497. |
+| 153505 | 36:4604. | Aug. 19, 1964, Pub. L. 88–449, § 4, 78 Stat. 497. |
 
 In clause (1), the word “alter” is omitted as unnecessary. The words “not inconsistent with the laws of the United States of America or of any State in which the corporation is to operate” are omitted as unnecessary.
 
@@ -143,7 +143,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 In clause (8), the words “any other act” are substituted for “any and all acts and things” to eliminate unnecessary words. The words “objects and” are omitted as unnecessary.
 
-## § 153506. Exclusive right to name
+## § 153506. Exclusive right to name
 
 The corporation has the exclusive right to use and to allow others to use the name “National Tropical Botanical Garden”.
 
@@ -153,9 +153,9 @@ The corporation has the exclusive right to use and to allow others to use the na
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153506 | 36:4616. | Aug. 19, 1964, Pub. L. 88–449, § 16, 78 Stat. 499; Oct. 28, 1988, Pub. L. 100–539, § 1, 102 Stat. 2718. |
+| 153506 | 36:4616. | Aug. 19, 1964, Pub. L. 88–449, § 16, 78 Stat. 499; Oct. 28, 1988, Pub. L. 100–539, § 1, 102 Stat. 2718. |
 
-## § 153507. Restrictions
+## § 153507. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -171,7 +171,7 @@ The corporation has the exclusive right to use and to allow others to use the na
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153507(a) | 36:4612. | Aug. 19, 1964, Pub. L. 88–449, §§ 12, 13, 15, 78 Stat. 499. |
+| 153507(a) | 36:4612. | Aug. 19, 1964, Pub. L. 88–449, §§ 12, 13, 15, 78 Stat. 499. |
 | 153507(b) | 36:4615. |  |
 | 153507(c) | 36:4613(a). |  |
 | 153507(d) | 36:4613(b). |  |
@@ -180,7 +180,7 @@ In subsection (a), the words “shares of” are omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 153508. Principal office and location of activities and gardens
+## § 153508. Principal office and location of activities and gardens
 
 **(a) Principal Office.—** The principal office of the corporation shall be in the District of Columbia or another place decided by the board of trustees.
 
@@ -192,13 +192,13 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153508 | 36:4607(a). | Aug. 19, 1964, Pub. L. 88–449, § 7(a), 78 Stat. 498; Oct. 28, 1988, Pub. L. 100–539, § 2, 102 Stat. 2718. |
+| 153508 | 36:4607(a). | Aug. 19, 1964, Pub. L. 88–449, § 7(a), 78 Stat. 498; Oct. 28, 1988, Pub. L. 100–539, § 2, 102 Stat. 2718. |
 
 Subsection (a) is substituted for “The corporation initially shall have its principal office in the District of Columbia and later at such place as may be determined by the board of trustees” for consistency in the revised title.
 
 Subsection (b) is substituted for “The corporation shall have the right to conduct its activities in the United States and elsewhere but shall establish a tropical botanical garden or gardens only in the United States. For purposes of this subsection, the term ‘United States’ includes any commonwealth, territory, or possession of the United States” to eliminate unnecessary words.
 
-## § 153509. Records and inspection
+## § 153509. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -216,11 +216,11 @@ Subsection (b) is substituted for “The corporation shall have the right to con
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153509 | 36:4611. | Aug. 19, 1964, Pub. L. 88–449, § 11, 78 Stat. 499. |
+| 153509 | 36:4611. | Aug. 19, 1964, Pub. L. 88–449, § 11, 78 Stat. 499. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 153510. Statement required in audit report
+## § 153510. Statement required in audit report
 
 The corporation shall include in the audit report statement required under section 10101(b)(1)(B) of this title a schedule of all contracts requiring payments greater than $10,000 and all payments of compensation or fees at a rate of greater than $10,000 a year.
 
@@ -230,7 +230,7 @@ The corporation shall include in the audit report statement required under secti
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153510 | 36:4610(b) (2d sentence cl. (2)). | Aug. 19, 1964, Pub. L. 88–449, § 10(b) (2d sentence cl. (2)), 78 Stat. 498. |
+| 153510 | 36:4610(b) (2d sentence cl. (2)). | Aug. 19, 1964, Pub. L. 88–449, § 10(b) (2d sentence cl. (2)), 78 Stat. 498. |
 
 The word “salaries” is omitted as included in “compensation”.
 
@@ -240,7 +240,7 @@ The word “salaries” is omitted as included in “compensation”.
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 205 of House Document No. 103–7.
 
-## § 153511. Service of process
+## § 153511. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -250,11 +250,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153511 | 36:4607(b). | Aug. 19, 1964, Pub. L. 88–449, § 7(b), 78 Stat. 498. |
+| 153511 | 36:4607(b). | Aug. 19, 1964, Pub. L. 88–449, § 7(b), 78 Stat. 498. |
 
 The word “have” is substituted for “maintain” for consistency in the revised title. The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed notice or service upon”, for consistency in the revised title.
 
-## § 153512. Liability for acts of officers and agents
+## § 153512. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -264,9 +264,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153512 | 36:4609. | Aug. 19, 1964, Pub. L. 88–449, § 9, 78 Stat. 498. |
+| 153512 | 36:4609. | Aug. 19, 1964, Pub. L. 88–449, § 9, 78 Stat. 498. |
 
-## § 153513. Distribution of assets on dissolution or final liquidation
+## § 153513. Distribution of assets on dissolution or final liquidation
 
 **(a) Allowable Recipients.—** On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed, as decided by the board of trustees, to—
 
@@ -276,13 +276,13 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 **(b) Restriction.—** A distribution under subsection (a) of this section shall be consistent with the purposes of the corporation and in compliance with the charter and bylaws.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1427; Pub. L. 109–284, § 5(10), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 113–287, § 5(i), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1427; Pub. L. 109–284, § 5(10), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 113–287, § 5(i), Dec. 19, 2014, 128 Stat. 3269.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153513 | 36:4614. | Aug. 19, 1964, Pub. L. 88–449, § 14, 78 Stat. 499. |
+| 153513 | 36:4614. | Aug. 19, 1964, Pub. L. 88–449, § 14, 78 Stat. 499. |
 
 In subsection (a), the words “the discharge of all liabilities” are substituted for “the corporation’s liabilities have been satisfied” for consistency in the revised title. In clause (1), the words “as amended and supplemented” are omitted as unnecessary.
 
@@ -296,10 +296,10 @@ In subsection (b), the words “and Federal and State laws” are omitted as unn
 
 2006—Subsec. (a)(1). Pub. L. 109–284 substituted “(16 U.S.C. 1 et seq.) (known as the National Park Service Organic Act)” for “(16 U.S.C. 1 et seq.), known as the National Park Service Organic Act))”.
 
-## § 153514. Authorization of appropriations
+## § 153514. Authorization of appropriations
 
 **(a) In General.—** Subject to subsection (b), there is authorized to be appropriated to the corporation for operation and maintenance expenses $500,000 for each of fiscal years 2008 through 2017.
 
 **(b) Limitation.—** Any Federal funds made available under subsection (a) shall be matched on a 1-to-1 basis by non-Federal funds.
 
-(Added Pub. L. 111–11, title XIII, § 13006, Mar. 30, 2009, 123 Stat. 1452.)
+(Added Pub. L. 111–11, title XIII, § 13006, Mar. 30, 2009, 123 Stat. 1452.)

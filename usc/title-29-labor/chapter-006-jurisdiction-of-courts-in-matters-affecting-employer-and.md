@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 6—JURISDICTION OF COURTS IN MATTERS AFFECTING EMPLOYER AND EMPLOYEE
 
-## § 101. Issuance of restraining orders and injunctions; limitation; public policy
+## § 101. Issuance of restraining orders and injunctions; limitation; public policy
 
 No court of the United States, as defined in this chapter, shall have jurisdiction to issue any restraining order or temporary or permanent injunction in a case involving or growing out of a labor dispute, except in a strict conformity with the provisions of this chapter; nor shall any such restraining order or temporary or permanent injunction be issued contrary to the public policy declared in this chapter.
 
-(Mar. 23, 1932, ch. 90, § 1, 47 Stat. 70.)
+(Mar. 23, 1932, ch. 90, § 1, 47 Stat. 70.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -27,15 +27,15 @@ No court of the United States, as defined in this chapter, shall have jurisdicti
 
 Act Mar. 23, 1932, ch. 90, 47 Stat. 70, which enacted this chapter, is popularly known as the “Norris-LaGuardia Act”.
 
-## § 102. Public policy in labor matters declared
+## § 102. Public policy in labor matters declared
 
 In the interpretation of this chapter and in determining the jurisdiction and authority of the courts of the United States, as such jurisdiction and authority are defined and limited in this chapter, the public policy of the United States is declared as follows:
 
 Whereas under prevailing economic conditions, developed with the aid of governmental authority for owners of property to organize in the corporate and other forms of ownership association, the individual unorganized worker is commonly helpless to exercise actual liberty of contract and to protect his freedom of labor, and thereby to obtain acceptable terms and conditions of employment, wherefore, though he should be free to decline to associate with his fellows, it is necessary that he have full freedom of association, self-organization, and designation of representatives of his own choosing, to negotiate the terms and conditions of his employment, and that he shall be free from the interference, restraint, or coercion of employers of labor, or their agents, in the designation of such representatives or in self-organization or in other concerted activities for the purpose of collective bargaining or other mutual aid or protection; therefore, the following definitions of, and limitations upon, the jurisdiction and authority of the courts of the United States are enacted.
 
-(Mar. 23, 1932, ch. 90, § 2, 47 Stat. 70.)
+(Mar. 23, 1932, ch. 90, § 2, 47 Stat. 70.)
 
-## § 103. Nonenforceability of undertakings in conflict with public policy; “yellow dog” contracts
+## § 103. Nonenforceability of undertakings in conflict with public policy; “yellow dog” contracts
 
 Any undertaking or promise, such as is described in this section, or any other undertaking or promise in conflict with the public policy declared in section 102 of this title, is declared to be contrary to the public policy of the United States, shall not be enforceable in any court of the United States and shall not afford any basis for the granting of legal or equitable relief by any such court, including specifically the following:
 
@@ -45,9 +45,9 @@ Every undertaking or promise hereafter made, whether written or oral, express or
 
 (b) Either party to such contract or agreement undertakes or promises that he will withdraw from an employment relation in the event that he joins, becomes, or remains a member of any labor organization or of any employer organization.
 
-(Mar. 23, 1932, ch. 90, § 3, 47 Stat. 70.)
+(Mar. 23, 1932, ch. 90, § 3, 47 Stat. 70.)
 
-## § 104. Enumeration of specific acts not subject to restraining orders or injunctions
+## § 104. Enumeration of specific acts not subject to restraining orders or injunctions
 
 No court of the United States shall have jurisdiction to issue any restraining order or temporary or permanent injunction in any case involving or growing out of any labor dispute to prohibit any person or persons participating or interested in such dispute (as these terms are herein defined) from doing, whether singly or in concert, any of the following acts:
 
@@ -69,21 +69,21 @@ No court of the United States shall have jurisdiction to issue any restraining o
 
 **(i)** Advising, urging, or otherwise causing or inducing without fraud or violence the acts heretofore specified, regardless of any such undertaking or promise as is described in section 103 of this title.
 
-(Mar. 23, 1932, ch. 90, § 4, 47 Stat. 70.)
+(Mar. 23, 1932, ch. 90, § 4, 47 Stat. 70.)
 
-## § 105. Doing in concert of certain acts as constituting unlawful combination or conspiracy subjecting person to injunctive remedies
+## § 105. Doing in concert of certain acts as constituting unlawful combination or conspiracy subjecting person to injunctive remedies
 
 No court of the United States shall have jurisdiction to issue a restraining order or temporary or permanent injunction upon the ground that any of the persons participating or interested in a labor dispute constitute or are engaged in an unlawful combination or conspiracy because of the doing in concert of the acts enumerated in section 104 of this title.
 
-(Mar. 23, 1932, ch. 90, § 5, 47 Stat. 71.)
+(Mar. 23, 1932, ch. 90, § 5, 47 Stat. 71.)
 
-## § 106. Responsibility of officers and members of associations or their organizations for unlawful acts of individual officers, members, and agents
+## § 106. Responsibility of officers and members of associations or their organizations for unlawful acts of individual officers, members, and agents
 
 No officer or member of any association or organization, and no association or organization participating or interested in a labor dispute, shall be held responsible or liable in any court of the United States for the unlawful acts of individual officers, members, or agents, except upon clear proof of actual participation in, or actual authorization of, such acts, or of ratification of such acts after actual knowledge thereof.
 
-(Mar. 23, 1932, ch. 90, § 6, 47 Stat. 71.)
+(Mar. 23, 1932, ch. 90, § 6, 47 Stat. 71.)
 
-## § 107. Issuance of injunctions in labor disputes; hearing; findings of court; notice to affected persons; temporary restraining order; undertakings
+## § 107. Issuance of injunctions in labor disputes; hearing; findings of court; notice to affected persons; temporary restraining order; undertakings
 
 No court of the United States shall have jurisdiction to issue a temporary or permanent injunction in any case involving or growing out of a labor dispute, as defined in this chapter, except after hearing the testimony of witnesses in open court (with opportunity for cross-examination) in support of the allegations of a complaint made under oath, and testimony in opposition thereto, if offered, and except after findings of fact by the court, to the effect—
 
@@ -101,27 +101,27 @@ Such hearing shall be held after due and personal notice thereof has been given,
 
 The undertaking mentioned in this section shall be understood to signify an agreement entered into by the complainant and the surety upon which a decree may be rendered in the same suit or proceeding against said complainant and surety, upon a hearing to assess damages of which hearing complainant and surety shall have reasonable notice, the said complainant and surety submitting themselves to the jurisdiction of the court for that purpose. But nothing in this section contained shall deprive any party having a claim or cause of action under or upon such undertaking from electing to pursue his ordinary remedy by suit at law or in equity.
 
-(Mar. 23, 1932, ch. 90, § 7, 47 Stat. 71.)
+(Mar. 23, 1932, ch. 90, § 7, 47 Stat. 71.)
 
-## § 108. Noncompliance with obligations involved in labor disputes or failure to settle by negotiation or arbitration as preventing injunctive relief
+## § 108. Noncompliance with obligations involved in labor disputes or failure to settle by negotiation or arbitration as preventing injunctive relief
 
 No restraining order or injunctive relief shall be granted to any complainant who has failed to comply with any obligation imposed by law which is involved in the labor dispute in question, or who has failed to make every reasonable effort to settle such dispute either by negotiation or with the aid of any available governmental machinery of mediation or voluntary arbitration.
 
-(Mar. 23, 1932, ch. 90, § 8, 47 Stat. 72.)
+(Mar. 23, 1932, ch. 90, § 8, 47 Stat. 72.)
 
-## § 109. Granting of restraining order or injunction as dependent on previous findings of fact; limitation on prohibitions included in restraining orders and injunctions
+## § 109. Granting of restraining order or injunction as dependent on previous findings of fact; limitation on prohibitions included in restraining orders and injunctions
 
 No restraining order or temporary or permanent injunction shall be granted in a case involving or growing out of a labor dispute, except on the basis of findings of fact made and filed by the court in the record of the case prior to the issuance of such restraining order or injunction; and every restraining order or injunction granted in a case involving or growing out of a labor dispute shall include only a prohibition of such specific act or acts as may be expressly complained of in the bill of complaint or petition filed in such case and as shall be expressly included in said findings of fact made and filed by the court as provided in this chapter.
 
-(Mar. 23, 1932, ch. 90, § 9, 47 Stat. 72.)
+(Mar. 23, 1932, ch. 90, § 9, 47 Stat. 72.)
 
-## § 110. Review by court of appeals of issuance or denial of temporary injunctions; record
+## § 110. Review by court of appeals of issuance or denial of temporary injunctions; record
 
-Whenever any court of the United States shall issue or deny any temporary injunction in a case involving or growing out of a labor dispute, the court shall, upon the request of any party to the proceedings and on his filing the usual bond for costs, forthwith certify as in ordinary cases the record of the case to the court of appeals for its review. Upon the filing of such record in the court of appeals, the appeal shall be heard and the temporary injunctive order affirmed, modified, or set aside expeditiously 1
+Whenever any court of the United States shall issue or deny any temporary injunction in a case involving or growing out of a labor dispute, the court shall, upon the request of any party to the proceedings and on his filing the usual bond for costs, forthwith certify as in ordinary cases the record of the case to the court of appeals for its review. Upon the filing of such record in the court of appeals, the appeal shall be heard and the temporary injunctive order affirmed, modified, or set aside expeditiously 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
-(Mar. 23, 1932, ch. 90, § 10, 47 Stat. 72; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 98–620, title IV, § 402(30), Nov. 8, 1984, 98 Stat. 3359.)
+(Mar. 23, 1932, ch. 90, § 10, 47 Stat. 72; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 98–620, title IV, § 402(30), Nov. 8, 1984, 98 Stat. 3359.)
 
 **Editorial Notes**
 
@@ -139,13 +139,13 @@ Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substitut
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-## §§ 111, 112. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948
+## §§ 111, 112. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948
 
-Section 111, act Mar. 23, 1932, ch. 90, § 11, 47 Stat. 72, related to contempts, speedy and public trial, and jury. See section 3692 of Title 18, Crimes and Criminal Procedure.
+Section 111, act Mar. 23, 1932, ch. 90, § 11, 47 Stat. 72, related to contempts, speedy and public trial, and jury. See section 3692 of Title 18, Crimes and Criminal Procedure.
 
-Section 112, act Mar. 23, 1932, ch. 90, § 12, 47 Stat. 73, related to contempts and demand for retirement of sitting judge. See rule 42 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18.
+Section 112, act Mar. 23, 1932, ch. 90, § 12, 47 Stat. 73, related to contempts and demand for retirement of sitting judge. See rule 42 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18.
 
-## § 113. Definitions of terms and words used in chapter
+## § 113. Definitions of terms and words used in chapter
 
 When used in this chapter, and for the purposes of this chapter—
 
@@ -157,16 +157,16 @@ When used in this chapter, and for the purposes of this chapter—
 
 **(d)** The term “court of the United States” means any court of the United States whose jurisdiction has been or may be conferred or defined or limited by Act of Congress, including the courts of the District of Columbia.
 
-(Mar. 23, 1932, ch. 90, § 13, 47 Stat. 73.)
+(Mar. 23, 1932, ch. 90, § 13, 47 Stat. 73.)
 
-## § 114. Separability
+## § 114. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held unconstitutional or otherwise invalid, the remaining provisions of this chapter and the application of such provisions to other persons or circumstances shall not be affected thereby.
 
-(Mar. 23, 1932, ch. 90, § 14, 47 Stat. 73.)
+(Mar. 23, 1932, ch. 90, § 14, 47 Stat. 73.)
 
-## § 115. Repeal of conflicting acts
+## § 115. Repeal of conflicting acts
 
 All acts and parts of acts in conflict with the provisions of this chapter are repealed.
 
-(Mar. 23, 1932, ch. 90, § 15, 47 Stat. 73.)
+(Mar. 23, 1932, ch. 90, § 15, 47 Stat. 73.)

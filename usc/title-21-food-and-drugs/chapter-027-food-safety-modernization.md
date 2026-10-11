@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—IMPROVING CAPACITY TO PREVENT FOOD SAFETY PROBLEMS
 
-### § 2201. Performance standards
+### § 2201. Performance standards
 
 **(a) In general**
 
@@ -39,7 +39,7 @@ The Secretary shall coordinate with the Secretary of Agriculture to avoid issuin
 
 The Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding action levels, or regulations promulgated under this section.
 
-(Pub. L. 111–353, title I, § 104, Jan. 4, 2011, 124 Stat. 3899.)
+(Pub. L. 111–353, title I, § 104, Jan. 4, 2011, 124 Stat. 3899.)
 
 **Editorial Notes**
 
@@ -51,9 +51,9 @@ The Secretary, referred to in text, probably means the Secretary of Health and H
 
 **Short Title**
 
-Pub. L. 111–353, § 1(a), Jan. 4, 2011, 124 Stat. 3885, provided that: “This Act [enacting this chapter and sections 350g to 350*l*–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amending sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacting provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350*l*, and 381 of this title] may be cited as the ‘FDA Food Safety Modernization Act’.”
+Pub. L. 111–353, § 1(a), Jan. 4, 2011, 124 Stat. 3885, provided that: “This Act [enacting this chapter and sections 350g to 350*l*–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amending sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacting provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350*l*, and 381 of this title] may be cited as the ‘FDA Food Safety Modernization Act’.”
 
-### § 2202. National Agriculture and Food Defense Strategy
+### § 2202. National Agriculture and Food Defense Strategy
 
 **(a) Development and submission of strategy**
 
@@ -161,7 +161,7 @@ Not later than 4 years after the date on which the strategy is submitted to the 
 
 In the interest of national security, the Secretary of Health and Human Services and the Secretary of Agriculture, in coordination with the Secretary of Homeland Security, may determine the manner and format in which the National Agriculture and Food Defense strategy established under this section is made publicly available on the Internet Web sites of the Department of Health and Human Services, the Department of Homeland Security, and the Department of Agriculture, as described in subsection (a)(1).
 
-(Pub. L. 111–353, title I, § 108, Jan. 4, 2011, 124 Stat. 3910.)
+(Pub. L. 111–353, title I, § 108, Jan. 4, 2011, 124 Stat. 3910.)
 
 **Editorial Notes**
 
@@ -169,7 +169,7 @@ In the interest of national security, the Secretary of Health and Human Services
 
 The Secretary, referred to in subsec. (b)(3), probably means the Secretary of Health and Human Services.
 
-### § 2203. Food and Agriculture Coordinating Councils
+### § 2203. Food and Agriculture Coordinating Councils
 
 The Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services and the Secretary of Agriculture, shall within 180 days of January 4, 2011, and annually thereafter, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Homeland Security, a report on the activities of the Food and Agriculture Government Coordinating Council and the Food and Agriculture Sector Coordinating Council, including the progress of such Councils on—
 
@@ -187,9 +187,9 @@ The Secretary of Homeland Security, in coordination with the Secretary of Health
 
 **(C)** natural disasters affecting agriculture and food.
 
-(Pub. L. 111–353, title I, § 109, Jan. 4, 2011, 124 Stat. 3912.)
+(Pub. L. 111–353, title I, § 109, Jan. 4, 2011, 124 Stat. 3912.)
 
-### § 2204. Building domestic capacity
+### § 2204. Building domestic capacity
 
 **(a) In general**
 
@@ -211,11 +211,11 @@ The Secretary of Homeland Security, in coordination with the Secretary of Health
 
 **(H)** The impact of requirements under this Act (including amendments made by this Act) on certified organic farms and facilities (as defined in section 350d of this title.1
 
-<sup>1</sup>  So in original. Probably should be “title).”
+<sup>1</sup> So in original. Probably should be “title).”
 
 **(I)** Specific efforts taken pursuant to the agreements authorized under section 350j(c) of this title (as added by section 201),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 together with, as necessary, a description of any additional authorities necessary to improve seafood safety.
 
@@ -265,9 +265,9 @@ The Secretary, the Secretary of Agriculture, and the Secretary of Homeland Secur
 
 **(A)** include conclusions concerning the reasons that such existing programs have proven successful or not successful and what factors contributed to such conclusions;
 
-**(B)** include recommendations for consolidation and elimination to reduce duplication and inefficiencies in such programs at such Department as identified during the evaluation conduct 3
+**(B)** include recommendations for consolidation and elimination to reduce duplication and inefficiencies in such programs at such Department as identified during the evaluation conduct 3
 
-<sup>3</sup>  So in original. Probably should be “conducted”.
+<sup>3</sup> So in original. Probably should be “conducted”.
 
 under this subsection; and
 
@@ -283,7 +283,7 @@ Not later than 1 year after January 4, 2011, the Secretary, acting through the C
 
 Not later than 15 months after January 4, 2011, the Secretary shall submit to Congress a report that describes the findings of the study conducted under paragraph (1) and that includes any recommendations determined appropriate by the Secretary.
 
-(Pub. L. 111–353, title I, § 110, Jan. 4, 2011, 124 Stat. 3913.)
+(Pub. L. 111–353, title I, § 110, Jan. 4, 2011, 124 Stat. 3913.)
 
 **Editorial Notes**
 
@@ -297,7 +297,7 @@ Section 350d of this title, referred to in subsec. (a)(1)(H), and section 321(r)
 
 Section 201, referred to in subsec. (a)(1)(I), and section 202, referred to in subsec. (c), mean sections 201 and 202, respectively, of Pub. L. 111–353.
 
-### § 2205. Food allergy and anaphylaxis management
+### § 2205. Food allergy and anaphylaxis management
 
 **(a) Definitions** In this section:
 
@@ -381,7 +381,7 @@ Each plan described in subparagraph (A) that is developed for an individual shal
 
 **(I)** The creation of a plan contained in each individual plan for food allergy management that addresses the appropriate response to an incident of anaphylaxis of a child while such child is engaged in extracurricular programs of a school or early childhood education program, such as non-academic outings and field trips, before- and after-school programs or before- and after-early child education program programs,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and school-sponsored or early childhood education program-sponsored programs held on weekends.
 
@@ -489,13 +489,13 @@ The food allergy and anaphylaxis management guidelines developed by the Secretar
 
 Notwithstanding paragraph (1), the Secretary may enforce an agreement by a local educational agency to implement food allergy and anaphylaxis management guidelines as a condition of the receipt of a grant under subsection (c).
 
-(Pub. L. 111–353, title I, § 112, Jan. 4, 2011, 124 Stat. 3916; Pub. L. 114–95, title IX, § 9215(jj), Dec. 10, 2015, 129 Stat. 2175.)
+(Pub. L. 111–353, title I, § 112, Jan. 4, 2011, 124 Stat. 3916; Pub. L. 114–95, title IX, § 9215(jj), Dec. 10, 2015, 129 Stat. 2175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Head Start Act, referred to in subsec. (a)(1)(A), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (a)(1)(A), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 **Amendments**
 
@@ -507,7 +507,7 @@ The Head Start Act, referred to in subsec. (a)(1)(A), is subchapter B (§ 635 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
-### § 2206. Alcohol-related facilities
+### § 2206. Alcohol-related facilities
 
 **(a) In general** Except as provided by sections 102, 206, 207, 302, 304, 402, 403, and 404 of this Act, and the amendments made by such sections, nothing in this Act, or the amendments made by this Act, shall be construed to apply to a facility that—
 
@@ -523,13 +523,13 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **(c) Rule of construction**
 
-Except as provided in subsections (a) and (b), this section shall not be construed to exempt any food, other than alcoholic beverages, as defined in section 214 1
+Except as provided in subsections (a) and (b), this section shall not be construed to exempt any food, other than alcoholic beverages, as defined in section 214 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Alcohol Administration Act (27 U.S.C. 214), from the requirements of this Act (including the amendments made by this Act).
 
-(Pub. L. 111–353, title I, § 116, Jan. 4, 2011, 124 Stat. 3922.)
+(Pub. L. 111–353, title I, § 116, Jan. 4, 2011, 124 Stat. 3922.)
 
 **Editorial Notes**
 
@@ -537,13 +537,13 @@ of the Federal Alcohol Administration Act (27 U.S.C. 214), from the requirements
 
 This Act, referred to in subsecs. (a) and (c), is Pub. L. 111–353, Jan. 4, 2011, 124 Stat. 3885, known as the FDA Food Safety Modernization Act, which enacted this chapter and sections 350g to 350*l*–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amended sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacted provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350*l*, and 381 of this title. Sections 102, 206, 207, 302, 304, 402, 403, and 404 of the Act enacted sections 350*l*, 350*l*–1, 384b, 399d, 2251, and 2252 of this title, amended sections 331, 333, 334, 350d, and 381 of this title, and enacted provisions set out as notes under sections 334, 350d, 350*l*, and 381 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-The Federal Alcohol Administration Act, referred to in subsecs. (a)(1) and (c), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. Section 214 of the Act probably means section 203 of the Act, which is classified to section 214 of Title 27 and defines “alcoholic beverage”. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsecs. (a)(1) and (c), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. Section 214 of the Act probably means section 203 of the Act, which is classified to section 214 of Title 27 and defines “alcoholic beverage”. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(1), is classified generally to Title 26, Internal Revenue Code.
 
 ## SUBCHAPTER II—IMPROVING CAPACITY TO DETECT AND RESPOND TO FOOD SAFETY PROBLEMS
 
-### § 2221. Food emergency response network
+### § 2221. Food emergency response network
 
 The Secretary, in coordination with the Secretary of Agriculture, the Secretary of Homeland Security, and State, local, and tribal governments shall, not later than 180 days after January 4, 2011, and biennially thereafter, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Health and Human Services, a report on the progress in implementing a national food emergency response laboratory network that—
 
@@ -559,7 +559,7 @@ The Secretary, in coordination with the Secretary of Agriculture, the Secretary 
 
 **(6)** is integrated with relevant laboratory networks administered by other Federal agencies.
 
-(Pub. L. 111–353, title II, § 202(b), Jan. 4, 2011, 124 Stat. 3929.)
+(Pub. L. 111–353, title II, § 202(b), Jan. 4, 2011, 124 Stat. 3929.)
 
 **Editorial Notes**
 
@@ -567,7 +567,7 @@ The Secretary, in coordination with the Secretary of Agriculture, the Secretary 
 
 The Secretary, referred to in text, probably means the Secretary of Health and Human Services.
 
-### § 2222. Integrated consortium of laboratory networks
+### § 2222. Integrated consortium of laboratory networks
 
 **(a) In general** The Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, the Secretary of Agriculture, the Secretary of Commerce, and the Administrator of the Environmental Protection Agency, shall maintain an agreement through which relevant laboratory network members, as determined by the Secretary of Homeland Security, shall—
 
@@ -585,9 +585,9 @@ The Secretary, referred to in text, probably means the Secretary of Health and H
 
 The Secretary of Homeland Security shall, on a biennial basis, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Homeland Security, a report on the progress of the integrated consortium of laboratory networks, as established under subsection (a), in carrying out this section.
 
-(Pub. L. 111–353, title II, § 203, Jan. 4, 2011, 124 Stat. 3929.)
+(Pub. L. 111–353, title II, § 203, Jan. 4, 2011, 124 Stat. 3929.)
 
-### § 2223. Enhancing tracking and tracing of food and recordkeeping
+### § 2223. Enhancing tracking and tracing of food and recordkeeping
 
 **(a) Pilot projects**
 
@@ -647,9 +647,9 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 **(G)** to the extent practicable, not require a facility to change business systems to comply with such requirements;
 
-**(H)** allow any person subject to this subsection to maintain records required under this subsection at a central or reasonably accessible location provided that such records can be made available to the Secretary not later than 24 hours after the Secretary requests such records; and 1
+**(H)** allow any person subject to this subsection to maintain records required under this subsection at a central or reasonably accessible location provided that such records can be made available to the Secretary not later than 24 hours after the Secretary requests such records; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(I)** include a process by which the Secretary may issue a waiver of the requirements under this subsection if the Secretary determines that such requirements would result in an economic hardship for an individual facility or a type of facility;
 
@@ -729,9 +729,9 @@ Recordkeeping requirements under this subsection with regard to any commingled r
 
 **(I)** the term “commingled raw agricultural commodity” means any commodity that is combined or mixed after harvesting, but before processing;
 
-**(II)** the term “commingled raw agricultural commodity” shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) 2
+**(II)** the term “commingled raw agricultural commodity” shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 would minimize the risk of serious adverse health consequences or death; and
 
@@ -783,9 +783,9 @@ In conducting the evaluation and report under paragraph (1), if the Comptroller 
 
 **(B)** presents a threat of serious adverse health consequences or death to humans or animals; and
 
-**(C)** was adulterated as described in subparagraph (A) on a particular farm (as defined in section 1.227 of chapter 3
+**(C)** was adulterated as described in subparagraph (A) on a particular farm (as defined in section 1.227 of chapter 3
 
-<sup>3</sup>  So in original. Probably should be “title”.
+<sup>3</sup> So in original. Probably should be “title”.
 
 21, Code of Federal Regulations (or any successor regulation)).
 
@@ -819,7 +819,7 @@ Not later than 180 days after promulgation of a final rule under subsection (d),
 
 **(2)** to very small businesses (as defined by the Secretary in section 350g of this title, not later than 90 days after January 4, 2011) beginning on the date that is 2 years after the effective date of the final regulations promulgated under subsection (d).
 
-(Pub. L. 111–353, title II, § 204, Jan. 4, 2011, 124 Stat. 3930.)
+(Pub. L. 111–353, title II, § 204, Jan. 4, 2011, 124 Stat. 3930.)
 
 **Editorial Notes**
 
@@ -833,7 +833,7 @@ Section 350g of this title, referred to in subsec. (i), was in the original “s
 
 Section is comprised of section 204 of Pub. L. 111–353. Subsec. (j) of section 204 of Pub. L. 111–353 amended sections 331 and 381 of this title.
 
-### § 2224. Surveillance
+### § 2224. Surveillance
 
 **(a) Definition of foodborne illness outbreak**
 
@@ -879,9 +879,9 @@ In this Act, the term “foodborne illness outbreak” means the occurrence of 2
 
 **(3) Authorization of appropriations**
 
-To carry out the activities described in paragraph (1), there is authorized to be appropriated $24,000,000 for each 1
+To carry out the activities described in paragraph (1), there is authorized to be appropriated $24,000,000 for each 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of”.
+<sup>1</sup> So in original. Probably should be followed by “of”.
 
 fiscal years 2011 through 2015.
 
@@ -911,7 +911,7 @@ fiscal years 2011 through 2015.
 
 **(D)** other State and local activities and needs as determined appropriate by the Secretary.
 
-(Pub. L. 111–353, title II, § 205, Jan. 4, 2011, 124 Stat. 3937.)
+(Pub. L. 111–353, title II, § 205, Jan. 4, 2011, 124 Stat. 3937.)
 
 **Editorial Notes**
 
@@ -925,7 +925,7 @@ The Secretary, referred to in subsecs. (b) and (c)(1), (2)(D), probably means th
 
 Section is comprised of section 205 of Pub. L. 111–353. Subsec. (d) of section 205 of Pub. L. 111–353 amended section 247b–20 of Title 42, The Public Health and Welfare.
 
-### § 2225. Decontamination and disposal standards and plans
+### § 2225. Decontamination and disposal standards and plans
 
 **(a) In general**
 
@@ -957,11 +957,11 @@ Based on the exercises described in subsection (d), the Administrator, in coordi
 
 **(3)** agents that are most difficult to clean or remediate.
 
-(Pub. L. 111–353, title II, § 208, Jan. 4, 2011, 124 Stat. 3944.)
+(Pub. L. 111–353, title II, § 208, Jan. 4, 2011, 124 Stat. 3944.)
 
 ## SUBCHAPTER III—IMPROVING THE SAFETY OF IMPORTED FOOD
 
-### § 2241. Inspection by the Secretary of Commerce
+### § 2241. Inspection by the Secretary of Commerce
 
 **(1) In general**
 
@@ -981,9 +981,9 @@ The Secretary of Commerce, in coordination with the Secretary of Health and Huma
 
 The Secretary of Health and Human Services shall consider the inspection reports described in subparagraph (A) in distributing inspection resources under section 350j of this title.
 
-(Pub. L. 111–353, title III, § 306(b), Jan. 4, 2011, 124 Stat. 3959.)
+(Pub. L. 111–353, title III, § 306(b), Jan. 4, 2011, 124 Stat. 3959.)
 
-### § 2242. Foreign offices of the Food and Drug Administration
+### § 2242. Foreign offices of the Food and Drug Administration
 
 **(a) In general**
 
@@ -997,7 +997,7 @@ In establishing the foreign offices described in subsection (a), the Secretary s
 
 Not later than October 1, 2011, the Secretary shall submit to Congress a report on the basis for the selection by the Secretary of the foreign countries in which the Secretary established offices, the progress which such offices have made with respect to assisting the governments of such countries in providing for the safety of articles of food and other products regulated by the Food and Drug Administration exported to the United States, and the plans of the Secretary for establishing additional foreign offices of the Food and Drug Administration, as appropriate.
 
-(Pub. L. 111–353, title III, § 308, Jan. 4, 2011, 124 Stat. 3966.)
+(Pub. L. 111–353, title III, § 308, Jan. 4, 2011, 124 Stat. 3966.)
 
 **Editorial Notes**
 
@@ -1005,7 +1005,7 @@ Not later than October 1, 2011, the Secretary shall submit to Congress a report 
 
 The Secretary, referred to in text, probably means the Secretary of Health and Human Services.
 
-### § 2243. Smuggled food
+### § 2243. Smuggled food
 
 **(a) In general**
 
@@ -1033,7 +1033,7 @@ Nothing in this section shall affect the authority of the Secretary to issue pub
 
 In this subsection, the term “smuggled food” means any food that a person introduces into the United States through fraudulent means or with the intent to defraud or mislead.
 
-(Pub. L. 111–353, title III, § 309, Jan. 4, 2011, 124 Stat. 3966.)
+(Pub. L. 111–353, title III, § 309, Jan. 4, 2011, 124 Stat. 3966.)
 
 **Editorial Notes**
 
@@ -1043,7 +1043,7 @@ The Secretary, referred to in text, probably means the Secretary of Health and H
 
 ## SUBCHAPTER IV—MISCELLANEOUS PROVISIONS
 
-### § 2251. Jurisdiction; authorities
+### § 2251. Jurisdiction; authorities
 
 Nothing in this Act, or an amendment made by this Act, shall be construed to—
 
@@ -1077,7 +1077,7 @@ Nothing in this Act, or an amendment made by this Act, shall be construed to—
 
 **(5)** alter, impede, or affect the authority of the Secretary of Homeland Security under the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) or any other statute, including any authority related to securing the borders of the United States, managing ports of entry, or agricultural import and entry inspection activities.
 
-(Pub. L. 111–353, title IV, § 403, Jan. 4, 2011, 124 Stat. 3972.)
+(Pub. L. 111–353, title IV, § 403, Jan. 4, 2011, 124 Stat. 3972.)
 
 **Editorial Notes**
 
@@ -1085,33 +1085,33 @@ Nothing in this Act, or an amendment made by this Act, shall be construed to—
 
 This Act, referred to in text, is Pub. L. 111–353, Jan. 4, 2011, 124 Stat. 3885, known as the FDA Food Safety Modernization Act, which enacted this chapter and sections 350g to 350*l*–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amended sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacted provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350*l*, and 381 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-The Agricultural Marketing Act of 1946, referred to in pars. (1) and (4)(G), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of Title 7 and Tables.
+The Agricultural Marketing Act of 1946, referred to in pars. (1) and (4)(G), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of Title 7 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (3)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (3)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-The Public Health Service Act, referred to in par. (3)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in par. (3)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Federal Meat Inspection Act, referred to in par. (4)(A), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Federal Meat Inspection Act, referred to in par. (4)(A), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
-The Poultry Products Inspection Act, referred to in par. (4)(B), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in par. (4)(B), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
-The Egg Products Inspection Act, referred to in par. (4)(C), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§ 1031 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+The Egg Products Inspection Act, referred to in par. (4)(C), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§ 1031 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
-The United States Grain Standards Act, referred to in par. (4)(D), is part B of act Aug. 11, 1916, ch. 313, 39 Stat. 482, which is classified generally to chapter 3 (§ 71 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 71 of Title 7 and Tables.
+The United States Grain Standards Act, referred to in par. (4)(D), is part B of act Aug. 11, 1916, ch. 313, 39 Stat. 482, which is classified generally to chapter 3 (§ 71 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 71 of Title 7 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in par. (4)(E), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in par. (4)(E), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The United States Warehouse Act, referred to in par. (4)(F), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 241 of Title 7 and Tables.
+The United States Warehouse Act, referred to in par. (4)(F), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 241 of Title 7 and Tables.
 
-The Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with the amendments made by the Agricultural Marketing Agreement Act of 1937, referred to in par. (4)(H), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
+The Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with the amendments made by the Agricultural Marketing Agreement Act of 1937, referred to in par. (4)(H), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
 
-The Homeland Security Act of 2002, referred to in par. (5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in par. (5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
-### § 2252. Compliance with international agreements
+### § 2252. Compliance with international agreements
 
 Nothing in this Act (or an amendment made by this Act) shall be construed in a manner inconsistent with the agreement establishing the World Trade Organization or any other treaty or international agreement to which the United States is a party.
 
-(Pub. L. 111–353, title IV, § 404, Jan. 4, 2011, 124 Stat. 3972.)
+(Pub. L. 111–353, title IV, § 404, Jan. 4, 2011, 124 Stat. 3972.)
 
 **Editorial Notes**
 

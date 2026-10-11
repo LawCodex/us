@@ -15,37 +15,37 @@ retrieved: 2026-10-11
 
 # CHAPTER 12G—PACIFIC NORTHWEST FEDERAL TRANSMISSION SYSTEM
 
-## § 838. Congressional findings; authority and duties of Secretary of Energy relating to Federal Columbia River Power System unaffected
+## § 838. Congressional findings; authority and duties of Secretary of Energy relating to Federal Columbia River Power System unaffected
 
 **(a)** Congress finds that in order to enable the Secretary of Energy to carry out the policies of Public Law 88–552 [16 U.S.C. 837 et seq.] relating to the marketing of electric power from hydroelectric projects in the Pacific Northwest, Public Laws 89–448 and 89–561 relating to use of revenues of the Federal Columbia River Power System to provide financial assistance to reclamation projects in the Pacific Northwest, the treaty between the United States and Canada relating to the cooperative development of the resources of the Columbia River Basin, and other applicable law, it is desirable and appropriate that the revenues of the Federal Columbia River Power System and the proceeds of revenue bonds be used to further the operation, maintenance, and further construction of the Federal transmission system in the Pacific Northwest.
 
 **(b)** Other than as specifically provided herein, the present authority and duties of the Secretary of Energy relating to the Federal Columbia River Power System shall not be affected by this chapter. The authority and duties of the Administrator referred to herein are subject to the supervision and direction of the Secretary.
 
-(Pub. L. 93–454, § 2, Oct. 18, 1974, 88 Stat. 1376; Pub. L. 95–91, title III, § 302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578.)
+(Pub. L. 93–454, § 2, Oct. 18, 1974, 88 Stat. 1376; Pub. L. 95–91, title III, § 302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 88–552, referred to in subsec. (a), is act Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 88–552, referred to in subsec. (a), is act Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-Public Law 89–448, referred to in subsec. (a), is Pub. L. 89–448, §§ 1–3, June 14, 1966, 80 Stat. 200, which enacted sections 835j and 835k of this title and amended section 832h of this title.
+Public Law 89–448, referred to in subsec. (a), is Pub. L. 89–448, §§ 1–3, June 14, 1966, 80 Stat. 200, which enacted sections 835j and 835k of this title and amended section 832h of this title.
 
-Public Law 89–561, referred to in subsec. (a), is Pub. L. 89–561, §§ 1–6, Sept. 7, 1966, 80 Stat. 707, which enacted sections 835*l* and 835m of this title and section 1962d–6 of Title 42, The Public Health and Welfare, and amended sections 835j and 835k of this title.
+Public Law 89–561, referred to in subsec. (a), is Pub. L. 89–561, §§ 1–6, Sept. 7, 1966, 80 Stat. 707, which enacted sections 835*l* and 835m of this title and section 1962d–6 of Title 42, The Public Health and Welfare, and amended sections 835j and 835k of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 93–454, § 1, Oct. 18, 1974, 88 Stat. 1376, provided that: “This Act [enacting this chapter] may be cited as the ‘Federal Columbia River Transmission System Act’.”
+Pub. L. 93–454, § 1, Oct. 18, 1974, 88 Stat. 1376, provided that: “This Act [enacting this chapter] may be cited as the ‘Federal Columbia River Transmission System Act’.”
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 838a. Definitions
+## § 838a. Definitions
 
 As used in this chapter—
 
@@ -55,7 +55,7 @@ As used in this chapter—
 
 **(c)** The term “major transmission facilities” means transmission facilities intended to be used to provide services not previously provided by the Bonneville Power Administration with its own facilities.
 
-(Pub. L. 93–454, § 3, Oct. 18, 1974, 88 Stat. 1376.)
+(Pub. L. 93–454, § 3, Oct. 18, 1974, 88 Stat. 1376.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -63,7 +63,7 @@ As used in this chapter—
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 838b. Operation and maintenance of Federal transmission system; construction of improvements, betterments, additions and replacements; criteria
+## § 838b. Operation and maintenance of Federal transmission system; construction of improvements, betterments, additions and replacements; criteria
 
 The Secretary of Energy, acting by and through the Administrator, shall operate and maintain the Federal transmission system within the Pacific Northwest and shall construct improvements, betterments, and additions to and replacements of such system within the Pacific Northwest as he determines are appropriate and required to:
 
@@ -75,15 +75,15 @@ The Secretary of Energy, acting by and through the Administrator, shall operate 
 
 **(d)** maintain the electrical stability and electrical reliability of the Federal system: *Provided, however*, That the Administrator shall not construct any transmission facilities outside the Pacific Northwest, excepting customer service facilities within any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a distribution cooperative which has (i) no generating facilities, and (ii) a distribution system from which it serves both within and without said region, nor shall he commence construction of any major transmission facility within the Pacific Northwest, unless the expenditure of the funds for the initiation of such construction is specifically approved by Act of Congress.
 
-(Pub. L. 93–454, § 4, Oct. 18, 1974, 88 Stat. 1376; Pub. L. 95–91, title III, § 302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578.)
+(Pub. L. 93–454, § 4, Oct. 18, 1974, 88 Stat. 1376; Pub. L. 95–91, title III, § 302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
-## § 838c. Acquisition by condemnation of transmission facilities
+## § 838c. Acquisition by condemnation of transmission facilities
 
 **(a) Approval by Congress; exceptions**
 
@@ -93,7 +93,7 @@ Unless specifically authorized by Act of Congress, the Administrator shall not e
 
 At least sixty days prior to the time a request for approval or authority under this section or section 838b of this title is sent to Congress, the Administrator shall give notice of such request to entities in the Pacific Northwest with which the Administrator has power sales or exchange contracts or transmission contracts or which have a transmission interconnection with the Federal transmission system.
 
-(Pub. L. 93–454, § 5, Oct. 18, 1974, 88 Stat. 1377.)
+(Pub. L. 93–454, § 5, Oct. 18, 1974, 88 Stat. 1377.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -101,11 +101,11 @@ At least sixty days prior to the time a request for approval or authority under 
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 838d. Transmission of non-Federal power
+## § 838d. Transmission of non-Federal power
 
 The Administrator shall make available to all utilities on a fair and nondiscriminatory basis, any capacity in the Federal transmission system which he determines to be in excess of the capacity required to transmit electric power generated or acquired by the United States.
 
-(Pub. L. 93–454, § 6, Oct. 18, 1974, 88 Stat. 1377.)
+(Pub. L. 93–454, § 6, Oct. 18, 1974, 88 Stat. 1377.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,11 +113,11 @@ The Administrator shall make available to all utilities on a fair and nondiscrim
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 838e. Acquisition of property
+## § 838e. Acquisition of property
 
 Subject to the provisions of section 838c of this title the Administrator may purchase or lease or otherwise acquire and hold such real and personal property in the name of the United States as he deems necessary or appropriate to carry out his duties pursuant to law.
 
-(Pub. L. 93–454, § 7, Oct. 18, 1974, 88 Stat. 1377.)
+(Pub. L. 93–454, § 7, Oct. 18, 1974, 88 Stat. 1377.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -125,11 +125,11 @@ Subject to the provisions of section 838c of this title the Administrator may pu
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 838f. Marketing of Federal power; sales agent
+## § 838f. Marketing of Federal power; sales agent
 
 The Administrator is hereby designated as the marketing agent for all electric power generated by Federal generating plants in the Pacific Northwest, constructed by, under construction by, or presently authorized for construction by the Bureau of Reclamation or the United States Corps of Engineers except electric power required for the operation of each Federal project and except electric power from the Green Springs project of the Bureau of Reclamation.
 
-(Pub. L. 93–454, § 8, Oct. 18, 1974, 88 Stat. 1377.)
+(Pub. L. 93–454, § 8, Oct. 18, 1974, 88 Stat. 1377.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -139,29 +139,29 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-## § 838g. Schedules of rates and charges for sale of Federal power and transmission of non-Federal power; confirmation and approval; criteria for modification and establishment
+## § 838g. Schedules of rates and charges for sale of Federal power and transmission of non-Federal power; confirmation and approval; criteria for modification and establishment
 
 Schedules of rates and charges for the sale, including dispositions to Federal agencies, of all electric power made available to the Administrator pursuant to section 838f of this title or otherwise acquired, and for the transmission of non-Federal electric power over the Federal transmission system, shall become effective upon confirmation and approval thereof by the Secretary of Energy. Such rate schedules may be modified from time to time by the Secretary of Energy, acting by and through the Administrator, subject to confirmation and approval by the Secretary of Energy, and shall be fixed and established (1) with a view to encouraging the widest possible diversified use of electric power at the lowest possible rates to consumers consistent with sound business principles, (2) having regard to the recovery (upon the basis of the application of such rate schedules to the capacity of the electric facilities of the projects) of the cost of producing and transmitting such electric power, including the amortization of the capital investment allocated to power over a reasonable period of years and payments provided for in section 838i(b)(9) of this title, and (3) at levels to produce such additional revenues as may be required, in the aggregate with all other revenues of the Administrator, to pay when due the principal of, premiums, discounts, and expenses in connection with the issuance of and interest on all bonds issued and outstanding pursuant to this chapter, and amounts required to establish and maintain reserve and other funds and accounts established in connection therewith.
 
-(Pub. L. 93–454, § 9, Oct. 18, 1974, 88 Stat. 1377; Pub. L. 95–91, title III, §§ 301(b), 302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578.)
+(Pub. L. 93–454, § 9, Oct. 18, 1974, 88 Stat. 1377; Pub. L. 95–91, title III, §§ 301(b), 302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted in text for “Secretary of the Interior” and “Federal Power Commission” pursuant to Pub. L. 95–91, §§ 301(b), 302(a)(1)(D), which are classified to sections 7151(b) and 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted in text for “Secretary of the Interior” and “Federal Power Commission” pursuant to Pub. L. 95–91, §§ 301(b), 302(a)(1)(D), which are classified to sections 7151(b) and 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 838h. Uniform schedules of rates and charges for sale of Federal power and transmission of non-Federal power; allocation of cost recovery
+## § 838h. Uniform schedules of rates and charges for sale of Federal power and transmission of non-Federal power; allocation of cost recovery
 
 The said schedules of rates and charges for transmission, the said schedules of rates and charges for the sale of electric power, or both such schedules, may provide, among other things, for uniform rates or rates uniform throughout prescribed transmission areas. The recovery of the cost of the Federal transmission system shall be equitably allocated between Federal and non-Federal power utilizing such system.
 
-(Pub. L. 93–454, § 10, Oct. 18, 1974, 88 Stat. 1378.)
+(Pub. L. 93–454, § 10, Oct. 18, 1974, 88 Stat. 1378.)
 
-## § 838i. Bonneville Power Administration fund
+## § 838i. Bonneville Power Administration fund
 
 **(a) Establishment; composition; availability of transferred funds for expenditures**
 
@@ -179,9 +179,9 @@ There is hereby established in the Treasury of the United States a Bonneville Po
 
 **(5)** transmission over facilities of others and rental, lease, or lease-purchase of facilities;
 
-**(6)** purchase of electric power (including the entitlement of electric plant capability) (i) on a short-term basis to meet temporary deficiencies in electric power which the Administrator is obligated by contract to supply, or 1
+**(6)** purchase of electric power (including the entitlement of electric plant capability) (i) on a short-term basis to meet temporary deficiencies in electric power which the Administrator is obligated by contract to supply, or 1
 
-<sup>1</sup>  So in original. The word “or” probably should not appear.
+<sup>1</sup> So in original. The word “or” probably should not appear.
 
 (ii) if such purchase has been heretofore authorized or is made with funds expressly appropriated for such purchase by the Congress, (iii) if to be paid for with funds provided by other entities for such purpose under a trust or agency arrangement, or (iv) on a short term basis to meet the Administrator’s obligations under section 4(h) of the Pacific Northwest Electric Power Planning and Conservation Act [16 U.S.C. 839b(h)];
 
@@ -199,9 +199,9 @@ There is hereby established in the Treasury of the United States a Bonneville Po
 
 **(c) Restriction on use of expenditures to authorized purposes; expenditures of moneys received in trust; applicability of provisions relating to control of Government corporations**
 
-Moneys heretofore or hereafter appropriated shall be used only for the purposes for which appropriated, and moneys received by the Administrator in trust shall be used only for carrying out such trust. The provisions of chapter 91 of title 31 shall be applicable to the Administrator in the same manner as they are applied to the wholly owned Government corporations named in section 9101 of title 31, but nothing in section 9105(d) 2
+Moneys heretofore or hereafter appropriated shall be used only for the purposes for which appropriated, and moneys received by the Administrator in trust shall be used only for carrying out such trust. The provisions of chapter 91 of title 31 shall be applicable to the Administrator in the same manner as they are applied to the wholly owned Government corporations named in section 9101 of title 31, but nothing in section 9105(d) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 31 shall be construed as affecting the powers granted in subsection (b)(11) of this section and in sections 832a(f), 832i(b), and 832k(a) of this title.
 
@@ -209,7 +209,7 @@ of title 31 shall be construed as affecting the powers granted in subsection (b)
 
 Notwithstanding the provisions of sections 9105 and 9106 of title 31, the financial transactions of the Administrator shall be audited by the Comptroller General at such times and to such extent as the Comptroller General deems necessary, and reports of the results of each such audit shall be made to the Congress within 6½ months following the end of the fiscal year covered by the audit.
 
-(Pub. L. 93–454, § 11, Oct. 18, 1974, 88 Stat. 1378; Pub. L. 95–91, title III, § 302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578; Pub. L. 96–501, § 8(a), (b), Dec. 5, 1980, 94 Stat. 2728.)
+(Pub. L. 93–454, § 11, Oct. 18, 1974, 88 Stat. 1378; Pub. L. 95–91, title III, § 302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578; Pub. L. 96–501, § 8(a), (b), Dec. 5, 1980, 94 Stat. 2728.)
 
 **Editorial Notes**
 
@@ -217,21 +217,21 @@ Notwithstanding the provisions of sections 9105 and 9106 of title 31, the financ
 
 Executive Order Numbered 8526 dated August 26, 1940, referred to in subsec. (a), is not classified to the Code.
 
-The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (b)(12), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
+The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (b)(12), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
 
-Section 9105 of title 31, referred to in subsec. (c), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, does not contain a subsec. (d).
+Section 9105 of title 31, referred to in subsec. (c), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, does not contain a subsec. (d).
 
 **Codification**
 
-In subsec. (c), “chapter 91 of title 31”, “section 9101 of title 31”, and “section 9105(d) of title 31” substituted for “the Government Corporation Control Act (31 U.S.C. 841 et seq.)”, “section 101 of such Act (31 U.S.C. 846)”, and “the proviso in section 850 of title 31, United States Code,”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “chapter 91 of title 31”, “section 9101 of title 31”, and “section 9105(d) of title 31” substituted for “the Government Corporation Control Act (31 U.S.C. 841 et seq.)”, “section 101 of such Act (31 U.S.C. 846)”, and “the proviso in section 850 of title 31, United States Code,”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (d), “sections 9105 and 9106 of title 31” substituted for “sections 105 and 106 of the Government Corporation Control Act [31 U.S.C. 850, 851]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
+In subsec. (d), “sections 9105 and 9106 of title 31” substituted for “sections 105 and 106 of the Government Corporation Control Act [31 U.S.C. 850, 851]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
 
 **Amendments**
 
-1980—Subsec. (b)(6)(iv). Pub. L. 96–501, § 8(a), added cl. (iv).
+1980—Subsec. (b)(6)(iv). Pub. L. 96–501, § 8(a), added cl. (iv).
 
-Subsec. (b)(12). Pub. L. 96–501, § 8(b), added par. (12).
+Subsec. (b)(12). Pub. L. 96–501, § 8(b), added par. (12).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -241,7 +241,7 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to Pub. L. 95–91, § 302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to Pub. L. 95–91, § 302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
@@ -253,15 +253,15 @@ Pub. L. 116–94, div. C, title III, Dec. 20, 2019, 133 Stat. 2675, provided in 
 
 Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: “Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
 
-## § 838j. Investment of excess moneys; deposit of moneys
+## § 838j. Investment of excess moneys; deposit of moneys
 
 **(a)** If the Administrator determines that moneys in the fund are in excess of current needs he may request the investment of such amounts as he deems advisable by the Secretary of the Treasury in direct, general obligations of, or obligations guaranteed as to both principal and interest by, the United States of America.
 
 **(b)** With the approval of the Secretary of the Treasury, the Administrator may deposit moneys of the fund in any Federal Reserve bank or other depository for funds of the United States of America, or in such other banks and financial institutions and under such terms and conditions as the Administrator and the Secretary of the Treasury may mutually agree.
 
-(Pub. L. 93–454, § 12, Oct. 18, 1974, 88 Stat. 1380.)
+(Pub. L. 93–454, § 12, Oct. 18, 1974, 88 Stat. 1380.)
 
-## § 838k. Bonneville Power Administration bonds
+## § 838k. Bonneville Power Administration bonds
 
 **(a) Issuance and sale; terms and conditions; interest rate; limitation on aggregate principal amount outstanding**
 
@@ -275,23 +275,23 @@ The principal of, premiums, if any, and interest on such bonds shall be payable 
 
 The Secretary of the Treasury shall purchase forthwith any bonds issued by the Administrator under this chapter and for that purpose is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include any purchases of the bonds issued by the Administrator under this chapter. The Secretary of the Treasury may, at any time, sell any of the bonds acquired by him under this chapter. All redemptions, purchases, and sales by the Secretary of the Treasury of such bonds shall be treated as public debt transactions of the United States.
 
-(Pub. L. 93–454, § 13, Oct. 18, 1974, 88 Stat. 1380; Pub. L. 96–501, § 8(c), (d), Dec. 5, 1980, 94 Stat. 2728, 2729.)
+(Pub. L. 93–454, § 13, Oct. 18, 1974, 88 Stat. 1380; Pub. L. 96–501, § 8(c), (d), Dec. 5, 1980, 94 Stat. 2728, 2729.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (a), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
+The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (a), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
 
 **Codification**
 
-In subsec. (c), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-1980—Subsec. (a). Pub. L. 96–501, § 8(d), inserted provision relating to the implementation of the Administrator’s authority pursuant to the Pacific Northwest Electric Power Planning and Conservation Act, inserted “issued by Government corporations” after “rates prevailing in the market for similar bonds”, increased the existing $1,250,000,000 aggregate principal limitation by an additional $1,250,000,000 after Oct. 1, 1981, to be used to provide funds for conservation and renewable resource loans and grants in a special revolving account created for that purpose, and inserted provision that, beginning in fiscal year 1982, if the Administrator fails to repay by the end of any fiscal year all of the amounts projected immediately prior to that year to be repaid to the Treasury by the end of that year under the repayment criteria of the Secretary of Energy and if that failure is due to reasons other than a decrease in power sale revenues due to fluctuating streamflows or other reasons beyond the control of the Administrator, the Secretary of the Treasury may increase the interest rate applicable to the outstanding bonds issued by the Administrator during that fiscal year.
+1980—Subsec. (a). Pub. L. 96–501, § 8(d), inserted provision relating to the implementation of the Administrator’s authority pursuant to the Pacific Northwest Electric Power Planning and Conservation Act, inserted “issued by Government corporations” after “rates prevailing in the market for similar bonds”, increased the existing $1,250,000,000 aggregate principal limitation by an additional $1,250,000,000 after Oct. 1, 1981, to be used to provide funds for conservation and renewable resource loans and grants in a special revolving account created for that purpose, and inserted provision that, beginning in fiscal year 1982, if the Administrator fails to repay by the end of any fiscal year all of the amounts projected immediately prior to that year to be repaid to the Treasury by the end of that year under the repayment criteria of the Secretary of Energy and if that failure is due to reasons other than a decrease in power sale revenues due to fluctuating streamflows or other reasons beyond the control of the Administrator, the Secretary of the Treasury may increase the interest rate applicable to the outstanding bonds issued by the Administrator during that fiscal year.
 
-Subsec. (b). Pub. L. 96–501, § 8(c), substituted “, (b)(11), and (b)(12) of this title,” for “and (b)(11) of this title,”.
+Subsec. (b). Pub. L. 96–501, § 8(c), substituted “, (b)(11), and (b)(12) of this title,” for “and (b)(11) of this title,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -303,7 +303,7 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 838l. Bonneville Power Administration refinancing
+## § 838l. Bonneville Power Administration refinancing
 
 **(a) Definitions** For the purposes of this section—
 
@@ -409,13 +409,13 @@ The unpaid balance on the principal amount of a new capital investment bears int
 
 **(2)** apart from charges necessary to repay the new principal amount of an old capital investment as established under subsection (b) and to pay the interest on the principal amount under subsection (c), no amount may be charged for return to the United States Treasury as repayment for or return on an old capital investment, whether by way of rate, rent, lease payment, assessment, user charge, or any other fee;
 
-**(3)** amounts provided under section 1304 of title 31 shall be available to pay, and shall be the sole source for payment of, a judgment against or settlement by the Administrator or the United States on a claim for a breach of the contract provisions required by this Part; 1
+**(3)** amounts provided under section 1304 of title 31 shall be available to pay, and shall be the sole source for payment of, a judgment against or settlement by the Administrator or the United States on a claim for a breach of the contract provisions required by this Part; 1
 
-<sup>1</sup>  So in original. Probably should be “section;” or “section”.
+<sup>1</sup> So in original. Probably should be “section;” or “section”.
 
 and
 
-**(4)** the contract provisions specified in this Part <sup>1</sup> do not—
+**(4)** the contract provisions specified in this Part <sup>1</sup> do not—
 
 **(A)** preclude the Administrator from recovering, through rates or other means, any tax that is generally imposed on electric utilities in the United States, or
 
@@ -435,7 +435,7 @@ This section does not affect the obligation of the Administrator to repay the pr
 
 Except as provided in subsection (e), this section does not affect the authority of the Administrator to pay all or a portion of the principal amount associated with a capital investment before the repayment date for the principal amount.
 
-(Pub. L. 104–134, title III, § 3201, Apr. 26, 1996, 110 Stat. 1321–350.)
+(Pub. L. 104–134, title III, § 3201, Apr. 26, 1996, 110 Stat. 1321–350.)
 
 **Editorial Notes**
 
@@ -445,7 +445,7 @@ Section was enacted as part of the Omnibus Consolidated Rescissions and Appropri
 
 Section is comprised of section 3201 of Pub. L. 104–134. Subsec. (h) of section 3201 of Pub. L. 104–134 amended section 6 of Pub. L. 103–436, which is not classified to the Code.
 
-## § 838m. Power marketing administration transmission borrowing authority
+## § 838m. Power marketing administration transmission borrowing authority
 
 **(a) Borrowing authority**
 
@@ -483,13 +483,13 @@ The Administrator shall issue an updated financial plan by the end of fiscal yea
 
 Any additional Treasury borrowing authority received under this section shall be fully repaid to the Treasury in a manner consistent with the applicable self-financed Federal budget accounts.
 
-(Pub. L. 117–58, div. D, title I, § 40110, Nov. 15, 2021, 135 Stat. 945.)
+(Pub. L. 117–58, div. D, title I, § 40110, Nov. 15, 2021, 135 Stat. 945.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (a)(1), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
+The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (a)(1), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
 
 The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
@@ -503,7 +503,7 @@ Section was enacted as part of the Infrastructure Investment and Jobs Act, and n
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-## § 838n. Columbia Basin power management
+## § 838n. Columbia Basin power management
 
 **(a) Definitions** In this section:
 
@@ -579,9 +579,9 @@ The Administrator shall conduct a study considering the potential hydroelectric 
 
 **(3) Coordination** In conducting the study under paragraph (1), the Administrator shall coordinate, to the extent practicable, with—
 
-**(A)** the 1
+**(A)** the 1
 
-<sup>1</sup>  So in original. The word “the” probably should not appear.
+<sup>1</sup> So in original. The word “the” probably should not appear.
 
 British Columbia or a crown corporation owned by British Columbia;
 
@@ -595,7 +595,7 @@ British Columbia or a crown corporation owned by British Columbia;
 
 There is authorized to be appropriated $10,000,000, which shall be nonreimburseable, to carry out this subsection.
 
-(Pub. L. 117–58, div. D, title I, § 40113, Nov. 15, 2021, 135 Stat. 947.)
+(Pub. L. 117–58, div. D, title I, § 40113, Nov. 15, 2021, 135 Stat. 947.)
 
 **Editorial Notes**
 

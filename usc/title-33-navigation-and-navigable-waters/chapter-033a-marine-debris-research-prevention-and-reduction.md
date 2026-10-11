@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 33A—MARINE DEBRIS RESEARCH, PREVENTION, AND REDUCTION
 
-## § 1951. Purpose
+## § 1951. Purpose
 
 The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
 
-(Pub. L. 109–449, § 2, Dec. 22, 2006, 120 Stat. 3333; Pub. L. 112–213, title VI, § 603, Dec. 20, 2012, 126 Stat. 1576; Pub. L. 116–224, title I, § 101(1), Dec. 18, 2020, 134 Stat. 1074; Pub. L. 119–65, § 6(a), Dec. 26, 2025, 139 Stat. 1990.)
+(Pub. L. 109–449, § 2, Dec. 22, 2006, 120 Stat. 3333; Pub. L. 112–213, title VI, § 603, Dec. 20, 2012, 126 Stat. 1576; Pub. L. 116–224, title I, § 101(1), Dec. 18, 2020, 134 Stat. 1074; Pub. L. 119–65, § 6(a), Dec. 26, 2025, 139 Stat. 1990.)
 
 **Editorial Notes**
 
@@ -41,15 +41,15 @@ The purpose of this chapter is to address the adverse impacts of marine debris o
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–65, § 1, Dec. 26, 2025, 139 Stat. 1986, provided that: “This Act [see Tables for classification] may be cited as the ‘Save Our Seas 2.0 Amendments Act’.”
+Pub. L. 119–65, § 1, Dec. 26, 2025, 139 Stat. 1986, provided that: “This Act [see Tables for classification] may be cited as the ‘Save Our Seas 2.0 Amendments Act’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–213, title VI, § 601, Dec. 20, 2012, 126 Stat. 1576, provided that: “This title [amending this section and sections 1952 to 1956 of this title, transferring section 1914 of this title to section 1954 of this title, repealing sections 1915 and 1954 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Marine Debris Act Amendments of 2012’.”
+Pub. L. 112–213, title VI, § 601, Dec. 20, 2012, 126 Stat. 1576, provided that: “This title [amending this section and sections 1952 to 1956 of this title, transferring section 1914 of this title to section 1954 of this title, repealing sections 1915 and 1954 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Marine Debris Act Amendments of 2012’.”
 
 **Short Title**
 
-Pub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 112–213, title VI, § 602(a), Dec. 20, 2012, 126 Stat. 1576; Pub. L. 119–65, § 6(a), Dec. 26, 2025, 139 Stat. 1990, provided that: “This Act [enacting and amending this chapter] may be cited as the ‘Marine Debris Act’.”
+Pub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 112–213, title VI, § 602(a), Dec. 20, 2012, 126 Stat. 1576; Pub. L. 119–65, § 6(a), Dec. 26, 2025, 139 Stat. 1990, provided that: “This Act [enacting and amending this chapter] may be cited as the ‘Marine Debris Act’.”
 
 [Amendment by section 6(a) of Pub. L. 119–65 substituting “Under Secretary” for “Administrator” in section 1 of Pub. L. 109–449, set out above, could not be executed because the word “Administrator” did not appear.]
 
@@ -59,9 +59,9 @@ Pub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 
 
 **Codification**
 
-Pub. L. 119–65, § 2(a)(1), Dec. 26, 2025, 139 Stat. 1986, inserted subchapter heading.
+Pub. L. 119–65, § 2(a)(1), Dec. 26, 2025, 139 Stat. 1986, inserted subchapter heading.
 
-### § 1952. NOAA Marine Debris Program
+### § 1952. NOAA Marine Debris Program
 
 **(a) Establishment of Program**
 
@@ -155,45 +155,45 @@ Each grantee under this section shall provide periodic reports as required by th
 
 With respect to any project carried out pursuant to a contract or other agreement entered into under paragraph (1) that is not a cooperative agreement or an agreement to provide financial assistance in the form of a grant, the Under Secretary may contribute on an in-kind basis the portion of the costs of the project that the Under Secretary determines represents the amount of benefit the National Oceanic and Atmospheric Administration derives from the project.
 
-(Pub. L. 109–449, § 101, formerly § 3, Dec. 22, 2006, 120 Stat. 3333; Pub. L. 112–213, title VI, § 604(a)–(c), Dec. 20, 2012, 126 Stat. 1576, 1577; Pub. L. 115–265, title I, § 101, Oct. 11, 2018, 132 Stat. 3742; renumbered § 101 and amended Pub. L. 119–65, §§ 2(a)(2), (b), 6(a), (f), Dec. 26, 2025, 139 Stat. 1986, 1990, 1991.)
+(Pub. L. 109–449, § 101, formerly § 3, Dec. 22, 2006, 120 Stat. 3333; Pub. L. 112–213, title VI, § 604(a)–(c), Dec. 20, 2012, 126 Stat. 1576, 1577; Pub. L. 115–265, title I, § 101, Oct. 11, 2018, 132 Stat. 3742; renumbered § 101 and amended Pub. L. 119–65, §§ 2(a)(2), (b), 6(a), (f), Dec. 26, 2025, 139 Stat. 1986, 1990, 1991.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–65, § 6(a), which directed substitution of “Under Secretary” for “Administrator”, was executed by making the substitution wherever appearing, to reflect the probable intent of Congress.
+2025—Pub. L. 119–65, § 6(a), which directed substitution of “Under Secretary” for “Administrator”, was executed by making the substitution wherever appearing, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 119–65, § 2(b)(1), substituted “contracts, and other agreements” for “and contracts” in heading.
+Subsec. (d). Pub. L. 119–65, § 2(b)(1), substituted “contracts, and other agreements” for “and contracts” in heading.
 
-Subsec. (d)(1). Pub. L. 119–65, § 2(b)(2), substituted “, contracts, and other agreements” for “and contracts”.
+Subsec. (d)(1). Pub. L. 119–65, § 2(b)(2), substituted “, contracts, and other agreements” for “and contracts”.
 
-Subsec. (d)(2)(B). Pub. L. 119–65, § 2(b)(3)(A), substituted “part of a matching requirement under subparagraph (A) or (C)” for “part of the matching requirement under subparagraph (A)”.
+Subsec. (d)(2)(B). Pub. L. 119–65, § 2(b)(3)(A), substituted “part of a matching requirement under subparagraph (A) or (C)” for “part of the matching requirement under subparagraph (A)”.
 
-Subsec. (d)(2)(C). Pub. L. 119–65, § 2(b)(3)(B), inserted “and except as provided in subparagraph (B)” after “subparagraph (A)” in introductory provisions.
+Subsec. (d)(2)(C). Pub. L. 119–65, § 2(b)(3)(B), inserted “and except as provided in subparagraph (B)” after “subparagraph (A)” in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 119–65, § 6(f), substituted “Tribal Government” for “tribal government”.
+Subsec. (d)(4). Pub. L. 119–65, § 6(f), substituted “Tribal Government” for “tribal government”.
 
-Subsec. (d)(7). Pub. L. 119–65, § 2(b)(4), added par. (7).
+Subsec. (d)(7). Pub. L. 119–65, § 2(b)(4), added par. (7).
 
-2018—Subsec. (b)(6) to (8). Pub. L. 115–265, § 101(1), added pars. (6) to (8).
+2018—Subsec. (b)(6) to (8). Pub. L. 115–265, § 101(1), added pars. (6) to (8).
 
-Subsecs. (c), (d). Pub. L. 115–265, § 101(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 115–265, § 101(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (d)(2)(A). Pub. L. 115–265, § 101(4)(A), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+Subsec. (d)(2)(A). Pub. L. 115–265, § 101(4)(A), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
 
-Subsec. (d)(2)(C). Pub. L. 115–265, § 101(4)(B), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 115–265, § 101(4)(B), added subpar. (C).
 
-2012—Pub. L. 112–213, § 604(a)(1), struck out “Prevention and Removal” before “Program” in section catchline.
+2012—Pub. L. 112–213, § 604(a)(1), struck out “Prevention and Removal” before “Program” in section catchline.
 
-Subsec. (a). Pub. L. 112–213, § 604(a)(2), substituted “Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the” for “Prevention and Removal Program to reduce and prevent the occurrence and” and “marine debris on the economy of the United States, the marine environment, and” for “marine debris on the marine environment and”.
+Subsec. (a). Pub. L. 112–213, § 604(a)(2), substituted “Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the” for “Prevention and Removal Program to reduce and prevent the occurrence and” and “marine debris on the economy of the United States, the marine environment, and” for “marine debris on the marine environment and”.
 
-Subsec. (b). Pub. L. 112–213, § 604(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) described components of the Marine Debris Prevention and Removal Program.
+Subsec. (b). Pub. L. 112–213, § 604(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) described components of the Marine Debris Prevention and Removal Program.
 
-Subsec. (c)(1). Pub. L. 112–213, § 604(c)(1), substituted “section 1951” for “section 1951(1)”.
+Subsec. (c)(1). Pub. L. 112–213, § 604(c)(1), substituted “section 1951” for “section 1951(1)”.
 
-Subsec. (c)(5) to (7). Pub. L. 112–213, § 604(c)(2), (3), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which required the Administrator to promulgate necessary guidelines for implementation of the grant program within 180 days after Dec. 22, 2006.
+Subsec. (c)(5) to (7). Pub. L. 112–213, § 604(c)(2), (3), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which required the Administrator to promulgate necessary guidelines for implementation of the grant program within 180 days after Dec. 22, 2006.
 
-### § 1953. Coast Guard program
+### § 1953. Coast Guard program
 
 The Commandant of the Coast Guard, in consultation with the Interagency Committee, shall—
 
@@ -209,21 +209,21 @@ The Commandant of the Coast Guard, in consultation with the Interagency Committe
 
 **(6)** establish a voluntary reporting program for commercial vessel operators and recreational boaters to report incidents of damage to vessels and disruption of navigation caused by marine debris, and observed violations of laws and regulations relating to the disposal of plastics and other marine debris.
 
-(Pub. L. 109–449, § 102, formerly § 4, Dec. 22, 2006, 120 Stat. 3335; Pub. L. 112–213, title VI, § 605, Dec. 20, 2012, 126 Stat. 1578; renumbered § 102, Pub. L. 119–65, §§ 2(a)(2), 6(a), Dec. 26, 2025, 139 Stat. 1986, 1990.)
+(Pub. L. 109–449, § 102, formerly § 4, Dec. 22, 2006, 120 Stat. 3335; Pub. L. 112–213, title VI, § 605, Dec. 20, 2012, 126 Stat. 1578; renumbered § 102, Pub. L. 119–65, §§ 2(a)(2), 6(a), Dec. 26, 2025, 139 Stat. 1986, 1990.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act to Prevent Pollution from Ships, referred to in pars. (1) and (2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Act to Prevent Pollution from Ships, referred to in pars. (1) and (2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 **Amendments**
 
-2025—Pub. L. 119–65, § 6(a), which directed amendment of this section by substituting “Under Secretary” for “Administrator”, could not be executed because the word “Administrator” did not appear.
+2025—Pub. L. 119–65, § 6(a), which directed amendment of this section by substituting “Under Secretary” for “Administrator”, could not be executed because the word “Administrator” did not appear.
 
 2012—Pub. L. 112–213 struck out subsec. (a) designation and heading “Strategy” and struck out subsecs. (b) and (c) which required reports on the Coast Guard’s progress in implementing former subsec. (a) and on the effectiveness of international and national measures to prevent and reduce marine debris and its impact.
 
-### § 1954. Coordination
+### § 1954. Coordination
 
 **(a) Establishment of Interagency Marine Debris Coordinating Committee**
 
@@ -267,47 +267,47 @@ The Committee shall meet at least twice a year to provide a public, interagency 
 
 **(5)** estimated Federal and non-Federal funding provided for marine debris and recommendations for priority funding needs.
 
-(Pub. L. 109–449, § 103, formerly § 5, formerly Pub. L. 100–220, title II, § 2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, § 5(a), Dec. 22, 2006, 120 Stat. 3337; renumbered Pub. L. 109–449, § 5, and amended Pub. L. 112–213, title VI, § 606(a)(1), (2), (b), Dec. 20, 2012, 126 Stat. 1578; Pub. L. 115–265, title I, § 104, Oct. 11, 2018, 132 Stat. 3744; renumbered § 103 and amended Pub. L. 119–65, §§ 2(a)(2), 6(b), Dec. 26, 2025, 139 Stat. 1986, 1990.)
+(Pub. L. 109–449, § 103, formerly § 5, formerly Pub. L. 100–220, title II, § 2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, § 5(a), Dec. 22, 2006, 120 Stat. 3337; renumbered Pub. L. 109–449, § 5, and amended Pub. L. 112–213, title VI, § 606(a)(1), (2), (b), Dec. 20, 2012, 126 Stat. 1578; Pub. L. 115–265, title I, § 104, Oct. 11, 2018, 132 Stat. 3744; renumbered § 103 and amended Pub. L. 119–65, §§ 2(a)(2), 6(b), Dec. 26, 2025, 139 Stat. 1986, 1990.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title V of the Act, popularly known as the National Coastal Monitoring Act, is classified generally to chapter 41 (§ 2801 et seq.) of this title. For complete classification of title V to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title V of the Act, popularly known as the National Coastal Monitoring Act, is classified generally to chapter 41 (§ 2801 et seq.) of this title. For complete classification of title V to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 The Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (d)(2), is Pub. L. 100–220, title II, Dec. 29, 1987, 101 Stat. 1460. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 1901 of this title and Tables.
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (d)(2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (d)(2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 **Codification**
 
-Former section 1954(c)(2) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub. L. 112–213, title VI, § 606(b)(1), Dec. 20, 2012, 126 Stat. 1578, was based on Pub. L. 109–449, § 5(c)(2), Dec. 22, 2006, 120 Stat. 3338.
+Former section 1954(c)(2) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub. L. 112–213, title VI, § 606(b)(1), Dec. 20, 2012, 126 Stat. 1578, was based on Pub. L. 109–449, § 5(c)(2), Dec. 22, 2006, 120 Stat. 3338.
 
 Section was formerly section 2203 of Pub. L. 100–220 and was classified to section 1914 of this title.
 
 **Prior Provisions**
 
-A prior section 5 of Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3337, which related to interagency coordination to address problems of marine debris, was classified to this section prior to repeal by Pub. L. 112–213, title VI, § 606(a)(1), Dec. 20, 2012, 126 Stat. 1578. Subsec. (a) of such prior section 5 of Pub. L. 109–449 amended section 2203 of Pub. L. 100–220, which was renumbered as a new section 5 of Pub. L. 109–449 by Pub. L. 112–213 and was transferred to this section.
+A prior section 5 of Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3337, which related to interagency coordination to address problems of marine debris, was classified to this section prior to repeal by Pub. L. 112–213, title VI, § 606(a)(1), Dec. 20, 2012, 126 Stat. 1578. Subsec. (a) of such prior section 5 of Pub. L. 109–449 amended section 2203 of Pub. L. 100–220, which was renumbered as a new section 5 of Pub. L. 109–449 by Pub. L. 112–213 and was transferred to this section.
 
 **Amendments**
 
-2025—Subsec. (d). Pub. L. 119–65, § 6(b)(2), substituted “EPA Administrator” for “Administrator of the Environmental Protection Agency”.
+2025—Subsec. (d). Pub. L. 119–65, § 6(b)(2), substituted “EPA Administrator” for “Administrator of the Environmental Protection Agency”.
 
-Pub. L. 119–65, § 6(b)(1), substituted “Under Secretary” for “Administrator of the National Oceanic and Atmospheric Administration” in introductory provisions.
+Pub. L. 119–65, § 6(b)(1), substituted “Under Secretary” for “Administrator of the National Oceanic and Atmospheric Administration” in introductory provisions.
 
-Subsec. (e)(3). Pub. L. 119–65, § 6(b)(3), made technical amendment to reference in original act which appears in text as reference to section 1952 of this title.
+Subsec. (e)(3). Pub. L. 119–65, § 6(b)(3), made technical amendment to reference in original act which appears in text as reference to section 1952 of this title.
 
 2018—Subsec. (b)(5) to (7). Pub. L. 115–265 added pars. (5) and (6) and redesignated former par. (5) as (7).
 
-2012—Subsec. (d)(2). Pub. L. 112–213, § 606(a)(2), substituted “the Marine Plastic Pollution Research and Control Act of 1987” for “this Act” and inserted “of the Marine Plastic Pollution Research and Control Act of 1987” after “section 2201”.
+2012—Subsec. (d)(2). Pub. L. 112–213, § 606(a)(2), substituted “the Marine Plastic Pollution Research and Control Act of 1987” for “this Act” and inserted “of the Marine Plastic Pollution Research and Control Act of 1987” after “section 2201”.
 
-Subsec. (e). Pub. L. 112–213, § 606(b)(2), in heading, substituted “Biennial progress reports” for “Annual progress reports” and in text, substituted “Biennially” for “Not later than 3 years after December 22, 2006, and biennially thereafter” and “Chairperson” for “chairperson”, inserted “Natural” before “Resources”, and struck out “Interagency” before “Committee, through” and before “Committee and”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
+Subsec. (e). Pub. L. 112–213, § 606(b)(2), in heading, substituted “Biennial progress reports” for “Annual progress reports” and in text, substituted “Biennially” for “Not later than 3 years after December 22, 2006, and biennially thereafter” and “Chairperson” for “chairperson”, inserted “Natural” before “Resources”, and struck out “Interagency” before “Committee, through” and before “Committee and”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
 
-Pub. L. 112–213, § 606(b)(1), transferred subsec. (c)(2) of former section 1954 of this title and redesignated it as subsec. (e) of this section. See Codification note above.
+Pub. L. 112–213, § 606(b)(1), transferred subsec. (c)(2) of former section 1954 of this title and redesignated it as subsec. (e) of this section. See Codification note above.
 
-2006—Subsec. (a). Pub. L. 109–449, § 5(a)(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Secretary of Commerce shall establish a Marine Debris Coordinating Committee.”
+2006—Subsec. (a). Pub. L. 109–449, § 5(a)(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Secretary of Commerce shall establish a Marine Debris Coordinating Committee.”
 
-Subsec. (c). Pub. L. 109–449, § 5(a)(2), inserted “public, interagency” before “forum”.
+Subsec. (c). Pub. L. 109–449, § 5(a)(2), inserted “public, interagency” before “forum”.
 
 1996—Pub. L. 104–324 amended section generally. Prior to amendment, section read as follows: “Not later than September 30, 1988, the Secretary of Commerce shall submit to the Congress a report on the effects of plastic materials on the marine environment. The report shall—
 
@@ -327,7 +327,7 @@ Subsec. (c). Pub. L. 109–449, § 5(a)(2), inserted “public, interagency”
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1955. Federal information clearinghouse
+### § 1955. Federal information clearinghouse
 
 The Under Secretary, in coordination with the Interagency Committee, shall—
 
@@ -335,23 +335,23 @@ The Under Secretary, in coordination with the Interagency Committee, shall—
 
 **(2)** take the necessary steps to ensure the confidentiality of such information (especially proprietary information), for any information required by the Under Secretary to be submitted under this section.
 
-(Pub. L. 109–449, § 104, formerly § 6, Dec. 22, 2006, 120 Stat. 3338; Pub. L. 112–213, title VI, § 607, Dec. 20, 2012, 126 Stat. 1578; renumbered § 104 and amended Pub. L. 119–65, §§ 2(a)(2), 6(a), Dec. 26, 2025, 139 Stat. 1986, 1990.)
+(Pub. L. 109–449, § 104, formerly § 6, Dec. 22, 2006, 120 Stat. 3338; Pub. L. 112–213, title VI, § 607, Dec. 20, 2012, 126 Stat. 1578; renumbered § 104 and amended Pub. L. 119–65, §§ 2(a)(2), 6(a), Dec. 26, 2025, 139 Stat. 1986, 1990.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–65, § 6(a), which directed substitution of “Under Secretary” for “Administrator”, was executed by making the substitution in both introductory provisions and par. (2), to reflect the probable intent of Congress.
+2025—Pub. L. 119–65, § 6(a), which directed substitution of “Under Secretary” for “Administrator”, was executed by making the substitution in both introductory provisions and par. (2), to reflect the probable intent of Congress.
 
 2012—Par. (2). Pub. L. 112–213 struck out “by the fishing industry” after “to be submitted”.
 
-### §§ 1956 to 1959. Transferred
+### §§ 1956 to 1959. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 7 to 10 of Pub. L. 109–449, formerly classified to sections 1956 to 1959, respectively, of this title, were renumbered sections 131 to 134 of Pub. L. 109–449 by Pub. L. 119–65, § 4(b)(1), Dec. 26, 2025, 139 Stat. 1989, and transferred to sections 1981 to 1984, respectively, of this title.
+Sections 7 to 10 of Pub. L. 109–449, formerly classified to sections 1956 to 1959, respectively, of this title, were renumbered sections 131 to 134 of Pub. L. 109–449 by Pub. L. 119–65, § 4(b)(1), Dec. 26, 2025, 139 Stat. 1989, and transferred to sections 1981 to 1984, respectively, of this title.
 
 ## SUBCHAPTER II—MARINE DEBRIS FOUNDATION
 
@@ -359,15 +359,15 @@ Sections 7 to 10 of Pub. L. 109–449, formerly classified to sections 1956 to 1
 
 **Codification**
 
-Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987, transferred subtitle B of title I of Pub. L. 116–224, formerly classified to part A (§ 4211 et seq.) of subchapter I of chapter 55 of this title, to subtitle B of Pub. L. 109–449, which comprises this subchapter.
+Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987, transferred subtitle B of title I of Pub. L. 116–224, formerly classified to part A (§ 4211 et seq.) of subchapter I of chapter 55 of this title, to subtitle B of Pub. L. 109–449, which comprises this subchapter.
 
-### § 1961. Establishment and purposes of Foundation
+### § 1961. Establishment and purposes of Foundation
 
 **(a) Establishment**
 
-There is established the Marine Debris Foundation (in this title 1
+There is established the Marine Debris Foundation (in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 referred to as the “Foundation”). The Foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States.
 
@@ -383,13 +383,13 @@ referred to as the “Foundation”). The Foundation is a charitable and nonprof
 
 **(5)** to support other Federal actions to reduce marine debris.
 
-(Pub. L. 109–449, § 111, formerly Pub. L. 116–224, title I, § 111, Dec. 18, 2020, 134 Stat. 1075; renumbered Pub. L. 109–449, § 111, and amended Pub. L. 119–65, § 3(a)–(c), Dec. 26, 2025, 139 Stat. 1987.)
+(Pub. L. 109–449, § 111, formerly Pub. L. 116–224, title I, § 111, Dec. 18, 2020, 134 Stat. 1075; renumbered Pub. L. 109–449, § 111, and amended Pub. L. 119–65, § 3(a)–(c), Dec. 26, 2025, 139 Stat. 1987.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsec. (a), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, but probably should refer to “this subtitle”, meaning subtitle B of Pub. L. 109–449, which is classified generally to this subchapter and was transferred from subtitle B of title I of Pub. L. 116–224 by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987. As originally enacted, subtitle B was the only subtitle in title I of Pub. L. 116–224 to refer to the term “Foundation” on its own.
+This title, referred to in subsec. (a), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, but probably should refer to “this subtitle”, meaning subtitle B of Pub. L. 109–449, which is classified generally to this subchapter and was transferred from subtitle B of title I of Pub. L. 116–224 by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987. As originally enacted, subtitle B was the only subtitle in title I of Pub. L. 116–224 to refer to the term “Foundation” on its own.
 
 **Codification**
 
@@ -397,21 +397,21 @@ Section was formerly classified to section 4211 of this title prior to renumberi
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–65, § 3(b), substituted “corporation” for “organization”.
+2025—Subsec. (a). Pub. L. 119–65, § 3(b), substituted “corporation” for “organization”.
 
-Subsec. (b)(3). Pub. L. 119–65, § 3(c)(1), inserted “Indian Tribes,” after “Tribal governments,”.
+Subsec. (b)(3). Pub. L. 119–65, § 3(c)(1), inserted “Indian Tribes,” after “Tribal governments,”.
 
-Subsec. (b)(4). Pub. L. 119–65, § 3(c)(2), substituted “subchapter III” for “title II”.
+Subsec. (b)(4). Pub. L. 119–65, § 3(c)(2), substituted “subchapter III” for “title II”.
 
-### § 1962. Board of Directors of the Foundation
+### § 1962. Board of Directors of the Foundation
 
 **(a) Establishment and membership**
 
 **(1) In general**
 
-The Foundation shall have a governing Board of Directors (in this title 1
+The Foundation shall have a governing Board of Directors (in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 referred to as the “Board”), which shall consist of the Under Secretary and 12 additional Directors appointed in accordance with subsection (b) from among individuals who are United States citizens.
 
@@ -483,7 +483,7 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 **(A)** appointing the initial officers and employees;
 
-**(B)** adopting a constitution and bylaws consistent with the purposes of the Foundation and the provisions of this title; <sup>1</sup> and
+**(B)** adopting a constitution and bylaws consistent with the purposes of the Foundation and the provisions of this title; <sup>1</sup> and
 
 **(C)** undertaking of other such acts as may be necessary to carry out the provisions of this title.<sup>1</sup>
 
@@ -507,13 +507,13 @@ The Board shall appoint and review the performance of, and may remove, the chief
 
 The chief executive officer of the Foundation may appoint, remove, and review the performance of any officer or employee of the Foundation.
 
-(Pub. L. 109–449, § 112, formerly Pub. L. 116–224, title I, § 112, Dec. 18, 2020, 134 Stat. 1075; renumbered Pub. L. 109–449, § 112, and amended Pub. L. 119–65, § 3(a), (d), Dec. 26, 2025, 139 Stat. 1987.)
+(Pub. L. 109–449, § 112, formerly Pub. L. 116–224, title I, § 112, Dec. 18, 2020, 134 Stat. 1075; renumbered Pub. L. 109–449, § 112, and amended Pub. L. 119–65, § 3(a), (d), Dec. 26, 2025, 139 Stat. 1987.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsecs. (a)(1) and (g)(1)(B), (C), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074. This subchapter and subchapter III of this chapter were originally enacted as subtitles B and C, respectively, of title I of Pub. L. 116–224 and were transferred to subtitles B and C, respectively, of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989. Consequently, the reference to “this title” probably should be to “this subtitle and subtitle C”.
+This title, referred to in subsecs. (a)(1) and (g)(1)(B), (C), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074. This subchapter and subchapter III of this chapter were originally enacted as subtitles B and C, respectively, of title I of Pub. L. 116–224 and were transferred to subtitles B and C, respectively, of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989. Consequently, the reference to “this title” probably should be to “this subtitle and subtitle C”.
 
 **Codification**
 
@@ -521,27 +521,27 @@ Section was formerly classified to section 4212 of this title prior to renumberi
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 119–65, § 3(d)(1)(B), added par. (1). Former par. (1) redesignated (2).
+2025—Subsec. (b)(1). Pub. L. 119–65, § 3(d)(1)(B), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (b)(2). Pub. L. 119–65, § 3(d)(1)(A), (C), redesignated par. (1) as (2) and, in introductory provisions, substituted “considering” for “and considering” and inserted “and with the approval of the Secretary of Commerce,” after “by the Board,”.
+Subsec. (b)(2). Pub. L. 119–65, § 3(d)(1)(A), (C), redesignated par. (1) as (2) and, in introductory provisions, substituted “considering” for “and considering” and inserted “and with the approval of the Secretary of Commerce,” after “by the Board,”.
 
-Subsec. (b)(3). Pub. L. 119–65, § 3(d)(1)(A), (D), redesignated par. (2) as (3) and amended it generally. Prior to amendment, par. related to length of terms of Directors and initial appointments to new member positions.
+Subsec. (b)(3). Pub. L. 119–65, § 3(d)(1)(A), (D), redesignated par. (2) as (3) and amended it generally. Prior to amendment, par. related to length of terms of Directors and initial appointments to new member positions.
 
-Subsec. (b)(4). Pub. L. 119–65, § 3(d)(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 119–65, § 3(d)(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (b)(4)(A). Pub. L. 119–65, § 3(d)(1)(E), inserted “with the approval of the Secretary of Commerce” after “the Board”.
+Subsec. (b)(4)(A). Pub. L. 119–65, § 3(d)(1)(E), inserted “with the approval of the Secretary of Commerce” after “the Board”.
 
-Subsec. (b)(5). Pub. L. 119–65, § 3(d)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 119–65, § 3(d)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 119–65, § 3(d)(1)(A), (F), redesignated par. (5) as (6) and inserted “the Administrator of the United States Agency for International Development,” after “Service,” and “and with the approval of the Secretary of Commerce” after “EPA Administrator”.
+Subsec. (b)(6). Pub. L. 119–65, § 3(d)(1)(A), (F), redesignated par. (5) as (6) and inserted “the Administrator of the United States Agency for International Development,” after “Service,” and “and with the approval of the Secretary of Commerce” after “EPA Administrator”.
 
-Subsec. (g)(1)(A). Pub. L. 119–65, § 3(d)(2)(A), substituted “the initial officers and employees” for “officers and employees”.
+Subsec. (g)(1)(A). Pub. L. 119–65, § 3(d)(2)(A), substituted “the initial officers and employees” for “officers and employees”.
 
-Subsec. (g)(2)(B)(i). Pub. L. 119–65, § 3(d)(2)(B), substituted “the chief executive officer of the Foundation” for “its chief operating officer”.
+Subsec. (g)(2)(B)(i). Pub. L. 119–65, § 3(d)(2)(B), substituted “the chief executive officer of the Foundation” for “its chief operating officer”.
 
-Subsec. (h). Pub. L. 119–65, § 3(d)(3), added subsec. (h).
+Subsec. (h). Pub. L. 119–65, § 3(d)(3), added subsec. (h).
 
-### § 1963. Rights and obligations of the Foundation
+### § 1963. Rights and obligations of the Foundation
 
 **(a) In general** The Foundation—
 
@@ -559,7 +559,7 @@ The serving of notice to, or service of process upon, the agent required under s
 
 **(1) In general** To carry out its purposes under section 1961 of this title, the Foundation shall have, in addition to the powers otherwise given it under this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the usual powers of a nonprofit corporation formed in the District of Columbia, including the power—
 
@@ -623,13 +623,13 @@ The Foundation shall develop and implement best practices for conducting outreac
 
 **(2)** to affect or modify any treaty or other right of any Tribal Government.
 
-(Pub. L. 109–449, § 113, formerly Pub. L. 116–224, title I, § 113, Dec. 18, 2020, 134 Stat. 1077; renumbered Pub. L. 109–449, § 113, and amended Pub. L. 119–65, § 3(a), (e)–(g), Dec. 26, 2025, 139 Stat. 1987, 1988.)
+(Pub. L. 109–449, § 113, formerly Pub. L. 116–224, title I, § 113, Dec. 18, 2020, 134 Stat. 1077; renumbered Pub. L. 109–449, § 113, and amended Pub. L. 119–65, § 3(a), (e)–(g), Dec. 26, 2025, 139 Stat. 1987, 1988.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsec. (c)(1), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
+This title, referred to in subsec. (c)(1), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
 
 **Codification**
 
@@ -637,13 +637,13 @@ Section was formerly classified to section 4213 of this title prior to renumberi
 
 **Amendments**
 
-2025—Subsec. (c)(1). Pub. L. 119–65, § 3(e), substituted “powers of a nonprofit corporation formed” for “powers of a corporation acting as a trustee”.
+2025—Subsec. (c)(1). Pub. L. 119–65, § 3(e), substituted “powers of a nonprofit corporation formed” for “powers of a corporation acting as a trustee”.
 
-Subsec. (g). Pub. L. 119–65, § 3(f), added subsec. (g).
+Subsec. (g). Pub. L. 119–65, § 3(f), added subsec. (g).
 
-Subsecs. (h), (i). Pub. L. 119–65, § 3(g), added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 119–65, § 3(g), added subsecs. (h) and (i).
 
-### § 1964. Administrative services and support
+### § 1964. Administrative services and support
 
 **(a) Provision of services**
 
@@ -653,7 +653,7 @@ The Under Secretary may provide personnel, facilities, and other administrative 
 
 The Under Secretary shall require reimbursement from the Foundation for any administrative service provided under subsection (a). The Under Secretary shall deposit any reimbursement received under this subsection into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services.
 
-(Pub. L. 109–449, § 114, formerly Pub. L. 116–224, title I, § 114, Dec. 18, 2020, 134 Stat. 1079; renumbered Pub. L. 109–449, § 114, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
+(Pub. L. 109–449, § 114, formerly Pub. L. 116–224, title I, § 114, Dec. 18, 2020, 134 Stat. 1079; renumbered Pub. L. 109–449, § 114, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
 
 **Editorial Notes**
 
@@ -661,25 +661,25 @@ The Under Secretary shall require reimbursement from the Foundation for any admi
 
 Section was formerly classified to section 4214 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1965. Volunteer status
+### § 1965. Volunteer status
 
 The Secretary of Commerce may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from the Department of Commerce, as volunteers in the performance of the functions authorized in this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 109–449, § 115, formerly Pub. L. 116–224, title I, § 115, Dec. 18, 2020, 134 Stat. 1079; renumbered Pub. L. 109–449, § 115, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
+(Pub. L. 109–449, § 115, formerly Pub. L. 116–224, title I, § 115, Dec. 18, 2020, 134 Stat. 1079; renumbered Pub. L. 109–449, § 115, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in text, means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
+This title, referred to in text, means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
 
 **Codification**
 
 Section was formerly classified to section 4215 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1966. Report requirements; petition of Attorney General for equitable relief
+### § 1966. Report requirements; petition of Attorney General for equitable relief
 
 **(a) Report** The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources, the Committee on Transportation and Infrastructure, and the Committee on Energy and Commerce of the House of Representatives a report—
 
@@ -693,29 +693,29 @@ Section was formerly classified to section 4215 of this title prior to renumberi
 
 **(2)** refuses, fails, or neglects to discharge its obligations under this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or threatens to do so,
 
 the Attorney General may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.
 
-(Pub. L. 109–449, § 116, formerly Pub. L. 116–224, title I, § 116, Dec. 18, 2020, 134 Stat. 1079; renumbered Pub. L. 109–449, § 116, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
+(Pub. L. 109–449, § 116, formerly Pub. L. 116–224, title I, § 116, Dec. 18, 2020, 134 Stat. 1079; renumbered Pub. L. 109–449, § 116, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsec. (b)(2), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
+This title, referred to in subsec. (b)(2), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
 
 **Codification**
 
 Section was formerly classified to section 4216 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1967. United States release from liability
+### § 1967. United States release from liability
 
 The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligation of the Foundation.
 
-(Pub. L. 109–449, § 117, formerly Pub. L. 116–224, title I, § 117, Dec. 18, 2020, 134 Stat. 1080; renumbered Pub. L. 109–449, § 117, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
+(Pub. L. 109–449, § 117, formerly Pub. L. 116–224, title I, § 117, Dec. 18, 2020, 134 Stat. 1080; renumbered Pub. L. 109–449, § 117, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
 
 **Editorial Notes**
 
@@ -723,15 +723,15 @@ The United States shall not be liable for any debts, defaults, acts, or omission
 
 Section was formerly classified to section 4217 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1968. Authorization of appropriations
+### § 1968. Authorization of appropriations
 
 **(a) Authorization of appropriations**
 
 **(1) In general**
 
-There are authorized to be appropriated to the Department of Commerce to carry out this title 1
+There are authorized to be appropriated to the Department of Commerce to carry out this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 $10,000,000 for each of fiscal years 2021 through 2024 and $2,000,000 for fiscal year 2025.
 
@@ -765,13 +765,13 @@ Federal funds provided to the Foundation under paragraph (1) shall be used by th
 
 **(2)** any activity the purpose of which is to influence legislation pending before Congress consistent with Federal-wide cost principles.
 
-(Pub. L. 109–449, § 118, formerly Pub. L. 116–224, title I, § 118, Dec. 18, 2020, 134 Stat. 1080; renumbered Pub. L. 109–449, § 118, and amended Pub. L. 119–65, § 3(a), (h), Dec. 26, 2025, 139 Stat. 1987, 1988.)
+(Pub. L. 109–449, § 118, formerly Pub. L. 116–224, title I, § 118, Dec. 18, 2020, 134 Stat. 1080; renumbered Pub. L. 109–449, § 118, and amended Pub. L. 119–65, § 3(a), (h), Dec. 26, 2025, 139 Stat. 1987, 1988.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsecs. (a)(1) and (b)(1), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
+This title, referred to in subsecs. (a)(1) and (b)(1), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
 
 **Codification**
 
@@ -779,15 +779,15 @@ Section was formerly classified to section 4218 of this title prior to renumberi
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–65, § 3(h)(1), inserted “and $2,000,000 for fiscal year 2025” after “through 2024”.
+2025—Subsec. (a)(1). Pub. L. 119–65, § 3(h)(1), inserted “and $2,000,000 for fiscal year 2025” after “through 2024”.
 
-Subsec. (a)(2). Pub. L. 119–65, § 3(h)(2), substituted “, State and local government agencies, regional organizations, Indian Tribes, Tribal organizations, and foreign governments” for “and State and local government agencies”.
+Subsec. (a)(2). Pub. L. 119–65, § 3(h)(2), substituted “, State and local government agencies, regional organizations, Indian Tribes, Tribal organizations, and foreign governments” for “and State and local government agencies”.
 
-### § 1969. Termination of authority
+### § 1969. Termination of authority
 
 The authority of the Foundation under this subchapter shall terminate on the date that is 10 years after the establishment of the Foundation, unless the Foundation is reauthorized by an Act of Congress.
 
-(Pub. L. 109–449, § 119, formerly Pub. L. 116–224, title I, § 119, Dec. 18, 2020, 134 Stat. 1080; renumbered Pub. L. 109–449, § 119, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
+(Pub. L. 109–449, § 119, formerly Pub. L. 116–224, title I, § 119, Dec. 18, 2020, 134 Stat. 1080; renumbered Pub. L. 109–449, § 119, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
 
 **Editorial Notes**
 
@@ -801,9 +801,9 @@ Section was formerly classified to section 4219 of this title prior to renumberi
 
 **Codification**
 
-Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989, transferred subtitle C of title I of Pub. L. 116–224, formerly classified to part B (§ 4231 et seq.) of subchapter I of chapter 55 of this title, to subtitle C of Pub. L. 109–449, which comprises this subchapter.
+Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989, transferred subtitle C of title I of Pub. L. 116–224, formerly classified to part B (§ 4231 et seq.) of subchapter I of chapter 55 of this title, to subtitle C of Pub. L. 109–449, which comprises this subchapter.
 
-### § 1971. Definitions
+### § 1971. Definitions
 
 In this subchapter:
 
@@ -815,7 +815,7 @@ The term “prize competition” means the competition for the award of the Geni
 
 The term “Secretary” means the Secretary of Commerce.
 
-(Pub. L. 109–449, § 121, formerly Pub. L. 116–224, title I, § 121, Dec. 18, 2020, 134 Stat. 1081; renumbered Pub. L. 109–449, § 121, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
+(Pub. L. 109–449, § 121, formerly Pub. L. 116–224, title I, § 121, Dec. 18, 2020, 134 Stat. 1081; renumbered Pub. L. 109–449, § 121, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
 
 **Editorial Notes**
 
@@ -823,7 +823,7 @@ The term “Secretary” means the Secretary of Commerce.
 
 Section was formerly classified to section 4231 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1972. Genius Prize for Save Our Seas Innovations
+### § 1972. Genius Prize for Save Our Seas Innovations
 
 **(a) In general**
 
@@ -861,7 +861,7 @@ The prize competition established under subsection (a) shall be known as the “
 
 **(B)** are to be used in fishing gear or other maritime products that have an increased likelihood of entering the coastal or ocean environment as unintentional waste.
 
-(Pub. L. 109–449, § 122, formerly Pub. L. 116–224, title I, § 122, Dec. 18, 2020, 134 Stat. 1081; renumbered Pub. L. 109–449, § 122, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
+(Pub. L. 109–449, § 122, formerly Pub. L. 116–224, title I, § 122, Dec. 18, 2020, 134 Stat. 1081; renumbered Pub. L. 109–449, § 122, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
 
 **Editorial Notes**
 
@@ -869,7 +869,7 @@ The prize competition established under subsection (a) shall be known as the “
 
 Section was formerly classified to section 4232 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1973. Agreement with the Marine Debris Foundation
+### § 1973. Agreement with the Marine Debris Foundation
 
 **(a) In general**
 
@@ -935,7 +935,7 @@ The Secretary may offer to enter into an agreement, which may include a grant or
 
 **(C)** shall not give special consideration to any Federal agency or non-Federal entity in exchange for a donation for a cash prize awarded under this section.
 
-(Pub. L. 109–449, § 123, formerly Pub. L. 116–224, title I, § 123, Dec. 18, 2020, 134 Stat. 1082; renumbered Pub. L. 109–449, § 123, and amended Pub. L. 119–65, §§ 4(a), 6(c), Dec. 26, 2025, 139 Stat. 1989, 1990.)
+(Pub. L. 109–449, § 123, formerly Pub. L. 116–224, title I, § 123, Dec. 18, 2020, 134 Stat. 1082; renumbered Pub. L. 109–449, § 123, and amended Pub. L. 119–65, §§ 4(a), 6(c), Dec. 26, 2025, 139 Stat. 1989, 1990.)
 
 **Editorial Notes**
 
@@ -945,9 +945,9 @@ Section was formerly classified to section 4233 of this title prior to renumberi
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–65, § 6(c), substituted “subchapter II” for “title I”.
+2025—Subsec. (a). Pub. L. 119–65, § 6(c), substituted “subchapter II” for “title I”.
 
-### § 1974. Judges
+### § 1974. Judges
 
 **(a) Appointment**
 
@@ -957,7 +957,7 @@ The Secretary shall appoint not fewer than 3 judges who shall, except as provide
 
 The judges appointed under subsection (a) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
 
-(Pub. L. 109–449, § 124, formerly Pub. L. 116–224, title I, § 124, Dec. 18, 2020, 134 Stat. 1083; renumbered Pub. L. 109–449, § 124, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
+(Pub. L. 109–449, § 124, formerly Pub. L. 116–224, title I, § 124, Dec. 18, 2020, 134 Stat. 1083; renumbered Pub. L. 109–449, § 124, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
 
 **Editorial Notes**
 
@@ -965,11 +965,11 @@ The judges appointed under subsection (a) shall not select any annual winner of 
 
 Section was formerly classified to section 4234 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1975. Report to Congress
+### § 1975. Report to Congress
 
 Not later than 60 days after the date on which a cash prize is awarded under this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Secretary shall post on a publicly available website a report on the prize competition that includes—
 
@@ -977,23 +977,23 @@ the Secretary shall post on a publicly available website a report on the prize c
 
 **(2)** a statement by 1 or more of the judges appointed under section 1974 of this title that explains the basis on which the winner of the cash prize was selected.
 
-(Pub. L. 109–449, § 125, formerly Pub. L. 116–224, title I, § 125, Dec. 18, 2020, 134 Stat. 1083; renumbered Pub. L. 109–449, § 125, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
+(Pub. L. 109–449, § 125, formerly Pub. L. 116–224, title I, § 125, Dec. 18, 2020, 134 Stat. 1083; renumbered Pub. L. 109–449, § 125, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in text, means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to subchapter II of this chapter and this subchapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
+This title, referred to in text, means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to subchapter II of this chapter and this subchapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
 
 **Codification**
 
 Section was formerly classified to section 4235 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1976. Authorization of appropriations
+### § 1976. Authorization of appropriations
 
 Of the amounts authorized under section 1968(a) of this title, the Secretary of Commerce shall use up to $1,000,000 to carry out this subchapter.
 
-(Pub. L. 109–449, § 126, formerly Pub. L. 116–224, title I, § 126, Dec. 18, 2020, 134 Stat. 1083; renumbered Pub. L. 109–449, § 126, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
+(Pub. L. 109–449, § 126, formerly Pub. L. 116–224, title I, § 126, Dec. 18, 2020, 134 Stat. 1083; renumbered Pub. L. 109–449, § 126, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
 
 **Editorial Notes**
 
@@ -1001,11 +1001,11 @@ Of the amounts authorized under section 1968(a) of this title, the Secretary of 
 
 Section was formerly classified to section 4236 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1977. Termination of authority
+### § 1977. Termination of authority
 
 The prize program will terminate after 5 prize competition cycles have been completed.
 
-(Pub. L. 109–449, § 127, formerly Pub. L. 116–224, title I, § 127, Dec. 18, 2020, 134 Stat. 1083; renumbered Pub. L. 109–449, § 127, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
+(Pub. L. 109–449, § 127, formerly Pub. L. 116–224, title I, § 127, Dec. 18, 2020, 134 Stat. 1083; renumbered Pub. L. 109–449, § 127, by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989.)
 
 **Editorial Notes**
 
@@ -1019,9 +1019,9 @@ Section was formerly classified to section 4237 of this title prior to renumberi
 
 **Codification**
 
-Pub. L. 119–65, § 4(b)(2), Dec. 26, 2025, 139 Stat. 1989, inserted subchapter heading.
+Pub. L. 119–65, § 4(b)(2), Dec. 26, 2025, 139 Stat. 1989, inserted subchapter heading.
 
-### § 1981. Definitions
+### § 1981. Definitions
 
 In this chapter:
 
@@ -1081,9 +1081,9 @@ The term “post-consumer materials management” has the meaning given such ter
 
 **(11) Program**
 
-The term “Program” means the Marine Debris Program established under section 1952 1
+The term “Program” means the Marine Debris Program established under section 1952 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -1115,13 +1115,13 @@ The term “Tribal organization” has the meaning given the term in section 530
 
 The term “Under Secretary” has the meaning given such term in section 4201 of this title.
 
-(Pub. L. 109–449, § 131, formerly § 7, Dec. 22, 2006, 120 Stat. 3338; Pub. L. 112–213, title VI, § 608, Dec. 20, 2012, 126 Stat. 1578; renumbered § 131 and amended Pub. L. 119–65, §§ 4(b)(1), 5(a), (b)(1), (c), Dec. 26, 2025, 139 Stat. 1989, 1990.)
+(Pub. L. 109–449, § 131, formerly § 7, Dec. 22, 2006, 120 Stat. 3338; Pub. L. 112–213, title VI, § 608, Dec. 20, 2012, 126 Stat. 1578; renumbered § 131 and amended Pub. L. 119–65, §§ 4(b)(1), 5(a), (b)(1), (c), Dec. 26, 2025, 139 Stat. 1989, 1990.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1952 of this title, referred to in par. (11), was in the original “section 3”, and was translated as reading “section 101” of Pub. L. 109–449 to reflect the probable intent of Congress and the renumbering of section 3 as 101 by Pub. L. 119–65, § 2(a)(2).
+Section 1952 of this title, referred to in par. (11), was in the original “section 3”, and was translated as reading “section 101” of Pub. L. 109–449 to reflect the probable intent of Congress and the renumbering of section 3 as 101 by Pub. L. 119–65, § 2(a)(2).
 
 **Codification**
 
@@ -1129,37 +1129,37 @@ Section was formerly classified to section 1956 of this title prior to renumberi
 
 **Amendments**
 
-2025—Par. (1). Pub. L. 119–65, § 5(a)(1), (3), added par. (1) and struck out former par. (1) which defined “Administrator” as the Administrator of the National Oceanic and Atmospheric Administration.
+2025—Par. (1). Pub. L. 119–65, § 5(a)(1), (3), added par. (1) and struck out former par. (1) which defined “Administrator” as the Administrator of the National Oceanic and Atmospheric Administration.
 
-Pars. (2) to (7). Pub. L. 119–65, § 5(a)(2), (3), added pars. (2) to (4) and redesignated former pars. (2) to (4) as (5) to (7), respectively. Former pars. (5) to (7) redesignated (11) to (13), respectively.
+Pars. (2) to (7). Pub. L. 119–65, § 5(a)(2), (3), added pars. (2) to (4) and redesignated former pars. (2) to (4) as (5) to (7), respectively. Former pars. (5) to (7) redesignated (11) to (13), respectively.
 
-Par. (8). Pub. L. 119–65, § 5(b)(1), transferred par. (7) of section 4201 of this title to par. (8) of this section.
+Par. (8). Pub. L. 119–65, § 5(b)(1), transferred par. (7) of section 4201 of this title to par. (8) of this section.
 
-Par. (8)(D). Pub. L. 119–65, § 5(c), struck out “(as defined in section 5304 of title 25)” after “Tribal organizations”.
+Par. (8)(D). Pub. L. 119–65, § 5(c), struck out “(as defined in section 5304 of title 25)” after “Tribal organizations”.
 
-Pars. (9), (10). Pub. L. 119–65, § 5(a)(4), added pars. (9) and (10).
+Pars. (9), (10). Pub. L. 119–65, § 5(a)(4), added pars. (9) and (10).
 
-Pars. (11) to (13). Pub. L. 119–65, § 5(a)(2), redesignated pars. (5) to (7) as (11) to (13), respectively.
+Pars. (11) to (13). Pub. L. 119–65, § 5(a)(2), redesignated pars. (5) to (7) as (11) to (13), respectively.
 
-Par. (13)(B) to (E). Pub. L. 119–65, § 5(a)(6), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
+Par. (13)(B) to (E). Pub. L. 119–65, § 5(a)(6), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-Pars. (14) to (16). Pub. L. 119–65, § 5(a)(5), added pars. (14) to (16).
+Pars. (14) to (16). Pub. L. 119–65, § 5(a)(5), added pars. (14) to (16).
 
-2012—Par. (2). Pub. L. 112–213, § 608(1), substituted “section 1954 of this title” for “section 1914 of this title”.
+2012—Par. (2). Pub. L. 112–213, § 608(1), substituted “section 1954 of this title” for “section 1914 of this title”.
 
-Par. (3). Pub. L. 112–213, § 608(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘United States exclusive economic zone’ means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as ‘eastern special areas’ in article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990.”
+Par. (3). Pub. L. 112–213, § 608(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘United States exclusive economic zone’ means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as ‘eastern special areas’ in article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990.”
 
-Par. (5). Pub. L. 112–213, § 608(3)–(5), redesignated par. (7) as (5), struck out “Prevention and Removal” before “Program”, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “The term ‘navigable waters’ means waters of the United States, including the territorial sea.”
+Par. (5). Pub. L. 112–213, § 608(3)–(5), redesignated par. (7) as (5), struck out “Prevention and Removal” before “Program”, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “The term ‘navigable waters’ means waters of the United States, including the territorial sea.”
 
-Par. (6). Pub. L. 112–213, § 608(6), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The term ‘territorial sea’ means the waters of the United States referred to in Presidential Proclamation No. 5928, dated December 27, 1988.”
+Par. (6). Pub. L. 112–213, § 608(6), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The term ‘territorial sea’ means the waters of the United States referred to in Presidential Proclamation No. 5928, dated December 27, 1988.”
 
-Pars. (7), (8). Pub. L. 112–213, § 608(7), redesignated par. (8) as (7). Former par. (7) redesignated (5).
+Pars. (7), (8). Pub. L. 112–213, § 608(7), redesignated par. (8) as (7). Former par. (7) redesignated (5).
 
-### § 1982. Relationship to Outer Continental Shelf Lands Act
+### § 1982. Relationship to Outer Continental Shelf Lands Act
 
 Nothing in this chapter supersedes, or limits the authority of the Secretary of the Interior under, the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
 
-(Pub. L. 109–449, § 132, formerly § 8, Dec. 22, 2006, 120 Stat. 3339; renumbered § 132, Pub. L. 119–65, § 4(b)(1), Dec. 26, 2025, 139 Stat. 1989.)
+(Pub. L. 109–449, § 132, formerly § 8, Dec. 22, 2006, 120 Stat. 3339; renumbered § 132, Pub. L. 119–65, § 4(b)(1), Dec. 26, 2025, 139 Stat. 1989.)
 
 **Editorial Notes**
 
@@ -1167,13 +1167,13 @@ Nothing in this chapter supersedes, or limits the authority of the Secretary of 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3333, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of this title and Tables.
 
-The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 **Codification**
 
 Section was formerly classified to section 1957 of this title prior to renumbering by Pub. L. 119–65.
 
-### § 1983. Authorization of appropriations
+### § 1983. Authorization of appropriations
 
 **(a) In general**
 
@@ -1183,7 +1183,7 @@ There is authorized to be appropriated to the Under Secretary $15,000,000 for ea
 
 Of the amounts authorized for each fiscal year under section 4902(1) of title 14, up to $2,000,000 is authorized for the Secretary of the department in which the Coast Guard is operating for use by the Commandant of the Coast Guard to carry out section 1953 of this title, of which not more than 5 percent is authorized for each fiscal year for administrative costs.
 
-(Pub. L. 109–449, § 133, formerly § 9, Dec. 22, 2006, 120 Stat. 3339; Pub. L. 115–265, title I, § 105, Oct. 11, 2018, 132 Stat. 3744; Pub. L. 116–224, title I, § 101(2), Dec. 18, 2020, 134 Stat. 1074; Pub. L. 117–263, div. K, title CXIII, § 11328(b), Dec. 23, 2022, 136 Stat. 4098; Pub. L. 118–31, div. C, title XXXV, § 3514(i), Dec. 22, 2023, 137 Stat. 811; Pub. L. 119–65, § 3(i), Dec. 26, 2025, 139 Stat. 1989; renumbered § 133 and amended Pub. L. 119–65, §§ 4(b)(1), 6(a), (d), Dec. 26, 2025, 139 Stat. 1989, 1990.)
+(Pub. L. 109–449, § 133, formerly § 9, Dec. 22, 2006, 120 Stat. 3339; Pub. L. 115–265, title I, § 105, Oct. 11, 2018, 132 Stat. 3744; Pub. L. 116–224, title I, § 101(2), Dec. 18, 2020, 134 Stat. 1074; Pub. L. 117–263, div. K, title CXIII, § 11328(b), Dec. 23, 2022, 136 Stat. 4098; Pub. L. 118–31, div. C, title XXXV, § 3514(i), Dec. 22, 2023, 137 Stat. 811; Pub. L. 119–65, § 3(i), Dec. 26, 2025, 139 Stat. 1989; renumbered § 133 and amended Pub. L. 119–65, §§ 4(b)(1), 6(a), (d), Dec. 26, 2025, 139 Stat. 1989, 1990.)
 
 **Editorial Notes**
 
@@ -1193,17 +1193,17 @@ Section was formerly classified to section 1958 of this title prior to renumberi
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–65, § 6(d), made technical amendment to references in original Act which appear in text as references to sections 1952, 1954, and 1955 of this title.
+2025—Subsec. (a). Pub. L. 119–65, § 6(d), made technical amendment to references in original Act which appear in text as references to sections 1952, 1954, and 1955 of this title.
 
-Pub. L. 119–65, § 6(a), substituted “Under Secretary” for “Administrator”.
+Pub. L. 119–65, § 6(a), substituted “Under Secretary” for “Administrator”.
 
-Pub. L. 119–65, § 3(i), substituted “for each of fiscal years 2018 through 2029 for carrying out” for “for fiscal year 2023 for carrying out”.
+Pub. L. 119–65, § 3(i), substituted “for each of fiscal years 2018 through 2029 for carrying out” for “for fiscal year 2023 for carrying out”.
 
-2023—Pub. L. 118–31, § 3514(i), amended directory language of Pub. L. 117–263, § 11328(b). See 2022 Amendment notes below.
+2023—Pub. L. 118–31, § 3514(i), amended directory language of Pub. L. 117–263, § 11328(b). See 2022 Amendment notes below.
 
-2022—Subsec. (a). Pub. L. 117–263, § 11328(b)(1), as amended by Pub. L. 118–31, § 3514(i), substituted “fiscal year 2023” for “each of fiscal years 2018 through 2022”.
+2022—Subsec. (a). Pub. L. 117–263, § 11328(b)(1), as amended by Pub. L. 118–31, § 3514(i), substituted “fiscal year 2023” for “each of fiscal years 2018 through 2022”.
 
-Subsec. (b). Pub. L. 117–263, § 11328(b)(2), as amended by Pub. L. 118–31, § 3514(i), substituted “4902(1)” for “2702(1)”.
+Subsec. (b). Pub. L. 117–263, § 11328(b)(2), as amended by Pub. L. 118–31, § 3514(i), substituted “4902(1)” for “2702(1)”.
 
 2020—Subsec. (a). Pub. L. 116–224 substituted “$15,000,000” for “$10,000,000” and “7 percent” for “5 percent”.
 
@@ -1213,11 +1213,11 @@ Subsec. (b). Pub. L. 117–263, § 11328(b)(2), as amended by Pub. L. 118–31
 
 “(2) to the Secretary of the Department in which the Coast Guard is operating, for the use of the Commandant of the Coast Guard in carrying out section 1953 of this title, $2,000,000, of which no more than 10 percent may be used for administrative costs.”
 
-### § 1984. Prioritization of marine debris in existing innovation and entrepreneurship programs
+### § 1984. Prioritization of marine debris in existing innovation and entrepreneurship programs
 
-In carrying out any relevant innovation and entrepreneurship programs that improve the innovation, effectiveness, and efficiency of the Marine Debris Program established under section 1952 1
+In carrying out any relevant innovation and entrepreneurship programs that improve the innovation, effectiveness, and efficiency of the Marine Debris Program established under section 1952 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title without undermining the purpose for which such program was established, the Secretary of Commerce, the Secretary of Energy, the EPA Administrator, and the heads of other relevant Federal agencies, shall prioritize efforts to combat marine debris, including by—
 
@@ -1231,13 +1231,13 @@ of this title without undermining the purpose for which such program was establi
 
 **(C)** navigation safety.
 
-(Pub. L. 109–449, § 134, formerly § 10, as added Pub. L. 116–224, title I, § 101(3), Dec. 18, 2020, 134 Stat. 1075; renumbered § 134 and amended Pub. L. 119–65, §§ 4(b)(1), 6(e), Dec. 26, 2025, 139 Stat. 1989, 1990.)
+(Pub. L. 109–449, § 134, formerly § 10, as added Pub. L. 116–224, title I, § 101(3), Dec. 18, 2020, 134 Stat. 1075; renumbered § 134 and amended Pub. L. 119–65, §§ 4(b)(1), 6(e), Dec. 26, 2025, 139 Stat. 1989, 1990.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1952 of this title, referred to in text, was in the original “section 3”, and was translated as reading “section 101” of Pub. L. 109–449 to reflect the probable intent of Congress and the renumbering of section 3 as 101 by Pub. L. 119–65, § 2(a)(2).
+Section 1952 of this title, referred to in text, was in the original “section 3”, and was translated as reading “section 101” of Pub. L. 109–449 to reflect the probable intent of Congress and the renumbering of section 3 as 101 by Pub. L. 119–65, § 2(a)(2).
 
 **Codification**
 
@@ -1245,4 +1245,4 @@ Section was formerly classified to section 1959 of this title prior to renumberi
 
 **Amendments**
 
-2025—Pub. L. 119–65, § 6(e), substituted “EPA Administrator” for “Administrator of the Environmental Protection Agency” in introductory provisions.
+2025—Pub. L. 119–65, § 6(e), substituted “EPA Administrator” for “Administrator of the Environmental Protection Agency” in introductory provisions.

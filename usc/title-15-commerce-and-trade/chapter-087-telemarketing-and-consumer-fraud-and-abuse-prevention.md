@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 87—TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION
 
-## § 6101. Findings
+## § 6101. Findings
 
 The Congress makes the following findings:
 
@@ -29,25 +29,25 @@ The Congress makes the following findings:
 
 **(5)** Consequently, Congress should enact legislation that will offer consumers necessary protection from telemarketing deception and abuse.
 
-(Pub. L. 103–297, § 2, Aug. 16, 1994, 108 Stat. 1545.)
+(Pub. L. 103–297, § 2, Aug. 16, 1994, 108 Stat. 1545.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2001 Amendment**
 
-Pub. L. 107–56, title X, § 1011(a), Oct. 26, 2001, 115 Stat. 396, provided that: “This section [amending sections 6102 and 6106 of this title and sections 917 and 2325 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Crimes Against Charitable Americans Act of 2001’.”
+Pub. L. 107–56, title X, § 1011(a), Oct. 26, 2001, 115 Stat. 396, provided that: “This section [amending sections 6102 and 6106 of this title and sections 917 and 2325 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Crimes Against Charitable Americans Act of 2001’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–534, § 1, Nov. 22, 2000, 114 Stat. 2555, provided that: “This Act [enacting provisions set out as notes under this section and section 3732 of Title 42, The Public Health and Welfare] may be cited as the ‘Protecting Seniors From Fraud Act’.”
+Pub. L. 106–534, § 1, Nov. 22, 2000, 114 Stat. 2555, provided that: “This Act [enacting provisions set out as notes under this section and section 3732 of Title 42, The Public Health and Welfare] may be cited as the ‘Protecting Seniors From Fraud Act’.”
 
 **Short Title**
 
-Pub. L. 103–297, § 1, Aug. 16, 1994, 108 Stat. 1545, provided that: “This Act [enacting this chapter and section 9b of Title 7, Agriculture, and amending section 52 of this title] may be cited as the ‘Telemarketing and Consumer Fraud and Abuse Prevention Act’.”
+Pub. L. 103–297, § 1, Aug. 16, 1994, 108 Stat. 1545, provided that: “This Act [enacting this chapter and section 9b of Title 7, Agriculture, and amending section 52 of this title] may be cited as the ‘Telemarketing and Consumer Fraud and Abuse Prevention Act’.”
 
 **Congressional Findings**
 
-Pub. L. 106–534, § 2, Nov. 22, 2000, 114 Stat. 2555, provided that:
+Pub. L. 106–534, § 2, Nov. 22, 2000, 114 Stat. 2555, provided that:
 
 > “Congress makes the following findings:
 
@@ -81,7 +81,7 @@ Pub. L. 106–534, § 2, Nov. 22, 2000, 114 Stat. 2555, provided that:
 
 **Senior Fraud Prevention Program**
 
-Pub. L. 106–534, § 3, Nov. 22, 2000, 114 Stat. 2556, provided that:
+Pub. L. 106–534, § 3, Nov. 22, 2000, 114 Stat. 2556, provided that:
 
 > **“(a) Authorization of Appropriations.—** There is authorized to be appropriated to the Attorney General $1,000,000 for each of the fiscal years 2001 through 2005 for programs for the National Association of TRIAD.
 
@@ -89,7 +89,7 @@ Pub. L. 106–534, § 3, Nov. 22, 2000, 114 Stat. 2556, provided that:
 
 **Dissemination of Information**
 
-Pub. L. 106–534, § 4, Nov. 22, 2000, 114 Stat. 2556, provided that:
+Pub. L. 106–534, § 4, Nov. 22, 2000, 114 Stat. 2556, provided that:
 
 > **“(a) In General.—** The Secretary of Health and Human Services, acting through the Assistant Secretary of Health and Human Services for Aging, shall provide to the Attorney General of each State and publicly disseminate in each State, including dissemination to area agencies on aging, information designed to educate senior citizens and raise awareness about the dangers of fraud, including telemarketing and sweepstakes fraud.
 
@@ -123,7 +123,7 @@ Pub. L. 106–534, § 4, Nov. 22, 2000, 114 Stat. 2556, provided that:
 
 > **“(d) Priority.—** In disseminating information under this section, the Secretary shall give priority to areas with high incidents of fraud against senior citizens.”
 
-## § 6102. Telemarketing rules
+## § 6102. Telemarketing rules
 
 **(a) In general**
 
@@ -137,9 +137,9 @@ Pub. L. 106–534, § 4, Nov. 22, 2000, 114 Stat. 2556, provided that:
 
 **(B)** restrictions on the hours of the day and night when unsolicited telephone calls can be made to consumers,
 
-**(C)** a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commission deems appropriate, including the nature and price of the goods and services; 1
+**(C)** a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commission deems appropriate, including the nature and price of the goods and services; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a comma.
+<sup>1</sup> So in original. The semicolon probably should be a comma.
 
 and
 
@@ -195,13 +195,13 @@ The rules promulgated by the Federal Trade Commission under subsection (a) shall
 
 **(2) Omitted**
 
-(Pub. L. 103–297, § 3, Aug. 16, 1994, 108 Stat. 1545; Pub. L. 107–56, title X, § 1011(b)(1), (2), Oct. 26, 2001, 115 Stat. 396; Pub. L. 111–203, title X, § 1100C(a), July 21, 2010, 124 Stat. 2110.)
+(Pub. L. 103–297, § 3, Aug. 16, 1994, 108 Stat. 1545; Pub. L. 107–56, title X, § 1011(b)(1), (2), Oct. 26, 2001, 115 Stat. 396; Pub. L. 111–203, title X, § 1100C(a), July 21, 2010, 124 Stat. 2110.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (b) and (c)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (b) and (c)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 **Codification**
 
@@ -215,9 +215,9 @@ Section is comprised of section 3 of Pub. L. 103–297. Subsec. (e)(2) of sectio
 
 “(c) Enforcement.—Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices.”
 
-2001—Subsec. (a)(2). Pub. L. 107–56, § 1011(b)(1), inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
+2001—Subsec. (a)(2). Pub. L. 107–56, § 1011(b)(1), inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
 
-Subsec. (a)(3)(D). Pub. L. 107–56, § 1011(b)(2), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 107–56, § 1011(b)(2), added subpar. (D).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -225,7 +225,7 @@ Subsec. (a)(3)(D). Pub. L. 107–56, § 1011(b)(2), added subpar. (D).
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 6103. Actions by States
+## § 6103. Actions by States
 
 **(a) In general**
 
@@ -253,7 +253,7 @@ Any civil action brought under subsection (a) in a district court of the United 
 
 **(2)** In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State on behalf of its residents.
 
-(Pub. L. 103–297, § 4, Aug. 16, 1994, 108 Stat. 1548; Pub. L. 111–203, title X, § 1100C(b), July 21, 2010, 124 Stat. 2111.)
+(Pub. L. 103–297, § 4, Aug. 16, 1994, 108 Stat. 1548; Pub. L. 111–203, title X, § 1100C(b), July 21, 2010, 124 Stat. 2111.)
 
 **Editorial Notes**
 
@@ -271,7 +271,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 6104. Actions by private persons
+## § 6104. Actions by private persons
 
 **(a) In general**
 
@@ -297,7 +297,7 @@ Nothing in this section shall restrict any right which any person may have under
 
 Any civil action brought under subsection (a) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
-(Pub. L. 103–297, § 5, Aug. 16, 1994, 108 Stat. 1549; Pub. L. 111–203, title X, § 1100C(c), July 21, 2010, 124 Stat. 2111.)
+(Pub. L. 103–297, § 5, Aug. 16, 1994, 108 Stat. 1549; Pub. L. 111–203, title X, § 1100C(c), July 21, 2010, 124 Stat. 2111.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ Any civil action brought under subsection (a) in a district court of the United 
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 6105. Administration and applicability of chapter
+## § 6105. Administration and applicability of chapter
 
 **(a) In general**
 
@@ -329,17 +329,17 @@ Nothing contained in this chapter shall be construed to limit the authority of t
 
 Except as otherwise provided in sections 6102(d), 6102(e), 6103, and 6104 of this title, and subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], this chapter shall be enforced by the Bureau of Consumer Financial Protection under subtitle E of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5561 et seq.], with respect to the offering or provision of a consumer financial product or service subject to that Act.
 
-(Pub. L. 103–297, § 6, Aug. 16, 1994, 108 Stat. 1549; Pub. L. 111–203, title X, § 1100C(d), July 21, 2010, 124 Stat. 2111.)
+(Pub. L. 103–297, § 6, Aug. 16, 1994, 108 Stat. 1549; Pub. L. 111–203, title X, § 1100C(d), July 21, 2010, 124 Stat. 2111.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 This chapter, referred to in subsecs. (c) and (d), was in the original “this Act”, meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -351,7 +351,7 @@ The Consumer Financial Protection Act of 2010, referred to in subsec. (d), is ti
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 6106. Definitions
+## § 6106. Definitions
 
 For purposes of this chapter:
 
@@ -373,15 +373,15 @@ For purposes of this chapter:
 
 where the person making the solicitation does not solicit customers by telephone but only receives calls initiated by customers in response to the catalog and during those calls takes orders only without further solicitation.
 
-(Pub. L. 103–297, § 7, Aug. 16, 1994, 108 Stat. 1550; Pub. L. 107–56, title X, § 1011(b)(3), Oct. 26, 2001, 115 Stat. 396.)
+(Pub. L. 103–297, § 7, Aug. 16, 1994, 108 Stat. 1550; Pub. L. 107–56, title X, § 1011(b)(3), Oct. 26, 2001, 115 Stat. 396.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Par. (4). Pub. L. 107–56 inserted “, or a charitable contribution, donation, or gift of money or any other thing of value,” after “services” in introductory provisions.
+2001—Par. (4). Pub. L. 107–56 inserted “, or a charitable contribution, donation, or gift of money or any other thing of value,” after “services” in introductory provisions.
 
-## § 6107. Enforcement of orders
+## § 6107. Enforcement of orders
 
 **(a) General authority**
 
@@ -405,10 +405,10 @@ The Attorney General shall act upon any request made under paragraph (1) within 
 
 The authority of the Federal Trade Commission to bring a criminal contempt action under subsection (a) expires 2 years after the date of the first promulgation of rules under section 6102 of this title. The expiration of such authority shall have no effect on an action brought before the expiration date.
 
-(Pub. L. 103–297, § 9, Aug. 16, 1994, 108 Stat. 1550.)
+(Pub. L. 103–297, § 9, Aug. 16, 1994, 108 Stat. 1550.)
 
-## § 6108. Review
+## § 6108. Review
 
 Upon the expiration of 5 years following the date of the first promulgation of rules under section 6102 of this title, the Commission shall review the implementation of this chapter and its effect on deceptive telemarketing acts or practices and report the results of the review to the Congress.
 
-(Pub. L. 103–297, § 10, Aug. 16, 1994, 108 Stat. 1551.)
+(Pub. L. 103–297, § 10, Aug. 16, 1994, 108 Stat. 1551.)

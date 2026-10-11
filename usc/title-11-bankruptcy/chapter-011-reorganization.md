@@ -79,19 +79,19 @@ Having discussed the general reasons why chapter 11 of the House amendment is so
 
 **Amendments**
 
-2019—Pub. L. 116–54, § 2(b), Aug. 23, 2019, 133 Stat. 1084, added subchapter V heading and items 1181 to 1195.
+2019—Pub. L. 116–54, § 2(b), Aug. 23, 2019, 133 Stat. 1084, added subchapter V heading and items 1181 to 1195.
 
-2005—Pub. L. 109–8, title III, § 321(a)(2), title IV, § 436(b), Apr. 20, 2005, 119 Stat. 95, 113, added items 1115 and 1116.
+2005—Pub. L. 109–8, title III, § 321(a)(2), title IV, § 436(b), Apr. 20, 2005, 119 Stat. 95, 113, added items 1115 and 1116.
 
-1988—Pub. L. 100–334, § 2(c), June 16, 1988, 102 Stat. 613, added item 1114.
+1988—Pub. L. 100–334, § 2(c), June 16, 1988, 102 Stat. 613, added item 1114.
 
-1984—Pub. L. 98–353, title III, §§ 514(b), 541(b), July 10, 1984, 98 Stat. 387, 391, added item 1113 and substituted “Implementation” for “Execution” in item 1142.
+1984—Pub. L. 98–353, title III, §§ 514(b), 541(b), July 10, 1984, 98 Stat. 387, 391, added item 1113 and substituted “Implementation” for “Execution” in item 1142.
 
-1983—Pub. L. 97–449, § 5(a)(1), Jan. 12, 1983, 96 Stat. 2442, substituted “subtitle IV of title 49” for “Interstate Commerce Act” in item 1166.
+1983—Pub. L. 97–449, § 5(a)(1), Jan. 12, 1983, 96 Stat. 2442, substituted “subtitle IV of title 49” for “Interstate Commerce Act” in item 1166.
 
 ## SUBCHAPTER I—OFFICERS AND ADMINISTRATION
 
-### § 1101. Definitions for this chapter
+### § 1101. Definitions for this chapter
 
 In this chapter—
 
@@ -119,7 +119,7 @@ Paragraph (3) defines for purposes of Chapter 11 a public company to mean “a d
 
 Both requirements must be met: liabilities, excluding tax obligations and trade liabilities, must be $5 million or more; and (2) the number of holders of securities, debt or equity, or both, must be not less than 1,000. The amount and number are to be determined as of any time within 12 months prior to the filing of the petition for reorganization.
 
-### § 1102. Creditors’ and equity security holders’ committees
+### § 1102. Creditors’ and equity security holders’ committees
 
 **(a)**
 
@@ -149,7 +149,7 @@ Both requirements must be met: liabilities, excluding tax obligations and trade 
 
 **(C)** be subject to a court order that compels any additional report or disclosure to be made to the creditors described in subparagraph (A).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2626; Pub. L. 98–353, title III, § 499, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, § 221, Oct. 27, 1986, 100 Stat. 3101; Pub. L. 103–394, title II, § 217(b), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§ 405, 432(b), Apr. 20, 2005, 119 Stat. 105, 110; Pub. L. 116–54, § 4(a)(11), Aug. 23, 2019, 133 Stat. 1086.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2626; Pub. L. 98–353, title III, § 499, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, § 221, Oct. 27, 1986, 100 Stat. 3101; Pub. L. 103–394, title II, § 217(b), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§ 405, 432(b), Apr. 20, 2005, 119 Stat. 105, 110; Pub. L. 116–54, § 4(a)(11), Aug. 23, 2019, 133 Stat. 1086.)
 
 **Historical and Revision Notes**
 
@@ -187,17 +187,17 @@ Section 3(a)(1) of the Small Business Act, referred to in subsec. (a)(4), is cla
 
 2019—Subsec. (a)(3). Pub. L. 116–54 added par. (3) and struck out former par. (3) which read as follows: “On request of a party in interest in a case in which the debtor is a small business debtor and for cause, the court may order that a committee of creditors not be appointed.”
 
-2005—Subsec. (a)(3). Pub. L. 109–8, § 432(b), inserted “debtor” after “small business”.
+2005—Subsec. (a)(3). Pub. L. 109–8, § 432(b), inserted “debtor” after “small business”.
 
-Subsec. (a)(4). Pub. L. 109–8, § 405(a), added par. (4).
+Subsec. (a)(4). Pub. L. 109–8, § 405(a), added par. (4).
 
-Subsec. (b)(3). Pub. L. 109–8, § 405(b), added par. (3).
+Subsec. (b)(3). Pub. L. 109–8, § 405(b), added par. (3).
 
 1994—Subsec. (a). Pub. L. 103–394 substituted “Except as provided in paragraph (3), as” for “As” in par. (1) and added par. (3).
 
-1986—Subsec. (a). Pub. L. 99–554, § 221(1), amended subsec. (a) generally, substituting “chapter 11 of this title, the United States trustee shall appoint a committee of creditors holding unsecured claims and may appoint additional committees of creditors or of equity security holders as the United States trustee deems appropriate” for “this chapter, the court shall appoint a committee of creditors holding unsecured claims” in par. (1) and “United States trustee” for “court” in par. (2).
+1986—Subsec. (a). Pub. L. 99–554, § 221(1), amended subsec. (a) generally, substituting “chapter 11 of this title, the United States trustee shall appoint a committee of creditors holding unsecured claims and may appoint additional committees of creditors or of equity security holders as the United States trustee deems appropriate” for “this chapter, the court shall appoint a committee of creditors holding unsecured claims” in par. (1) and “United States trustee” for “court” in par. (2).
 
-Subsec. (c). Pub. L. 99–554, § 221(2), struck out subsec. (c) which read as follows: “On request of a party in interest and after notice and a hearing, the court may change the membership or the size of a committee appointed under subsection (a) of this section if the membership of such committee is not representative of the different kinds of claims or interests to be represented.”
+Subsec. (c). Pub. L. 99–554, § 221(2), struck out subsec. (c) which read as follows: “On request of a party in interest and after notice and a hearing, the court may change the membership or the size of a committee appointed under subsection (a) of this section if the membership of such committee is not representative of the different kinds of claims or interests to be represented.”
 
 1984—Subsec. (b)(1). Pub. L. 98–353 substituted “commencement of the case” for “order for relief”.
 
@@ -223,7 +223,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1103. Powers and duties of committees
+### § 1103. Powers and duties of committees
 
 **(a)** At a scheduled meeting of a committee appointed under section 1102 of this title, at which a majority of the members of such committee are present, and with the court’s approval, such committee may select and authorize the employment by such committee of one or more attorneys, accountants, or other agents, to represent or perform services for such committee.
 
@@ -243,7 +243,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)** As soon as practicable after the appointment of a committee under section 1102 of this title, the trustee shall meet with such committee to transact such business as may be necessary and proper.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2627; Pub. L. 98–353, title III, §§ 324, 500, July 10, 1984, 98 Stat. 358, 384.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2627; Pub. L. 98–353, title III, §§ 324, 500, July 10, 1984, 98 Stat. 358, 384.)
 
 **Historical and Revision Notes**
 
@@ -269,11 +269,11 @@ Subsection (d) requires the trustee and each committee to meet as soon as practi
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–353, §§ 324, 500(a), substituted “An attorney or accountant” for “A person”, substituted “entity having an adverse interest” for “entity”, and inserted provision that representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
+1984—Subsec. (b). Pub. L. 98–353, §§ 324, 500(a), substituted “An attorney or accountant” for “A person”, substituted “entity having an adverse interest” for “entity”, and inserted provision that representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
 
-Subsec. (c)(3). Pub. L. 98–353, § 500(b)(1), substituted “determinations” for “recommendations”, and “acceptances or rejections” for “acceptances”.
+Subsec. (c)(3). Pub. L. 98–353, § 500(b)(1), substituted “determinations” for “recommendations”, and “acceptances or rejections” for “acceptances”.
 
-Subsec. (c)(4). Pub. L. 98–353, § 500(b)(2), struck out “if a trustee or examiner, as the case may be, has not previously been appointed under this chapter in the case” after “section 1104 of this title”.
+Subsec. (c)(4). Pub. L. 98–353, § 500(b)(2), struck out “if a trustee or examiner, as the case may be, has not previously been appointed under this chapter in the case” after “section 1104 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,7 +281,7 @@ Subsec. (c)(4). Pub. L. 98–353, § 500(b)(2), struck out “if a trustee or 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1104. Appointment of trustee or examiner
+### § 1104. Appointment of trustee or examiner
 
 **(a)** At any time after the commencement of the case but before confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court shall order the appointment of a trustee—
 
@@ -315,7 +315,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(e)** The United States trustee shall move for the appointment of a trustee under subsection (a) if there are reasonable grounds to suspect that current members of the governing body of the debtor, the debtor’s chief executive or chief financial officer, or members of the governing body who selected the debtor’s chief executive or chief financial officer, participated in actual fraud, dishonesty, or criminal conduct in the management of the debtor or the debtor’s public financial reporting.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2627; Pub. L. 99–554, title II, § 222, Oct. 27, 1986, 100 Stat. 3102; Pub. L. 103–394, title II, § 211(a), title V, § 501(d)(30), Oct. 22, 1994, 108 Stat. 4125, 4146; Pub. L. 109–8, title IV, §§ 416, 442(b), title XIV, § 1405, Apr. 20, 2005, 119 Stat. 107, 116, 215; Pub. L. 111–327, § 2(a)(30), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2627; Pub. L. 99–554, title II, § 222, Oct. 27, 1986, 100 Stat. 3102; Pub. L. 103–394, title II, § 211(a), title V, § 501(d)(30), Oct. 22, 1994, 108 Stat. 4125, 4146; Pub. L. 109–8, title IV, §§ 416, 442(b), title XIV, § 1405, Apr. 20, 2005, 119 Stat. 107, 116, 215; Pub. L. 111–327, § 2(a)(30), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Historical and Revision Notes**
 
@@ -351,25 +351,25 @@ Subsection (c) directs that the United States trustee actually select and appoin
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–327, § 2(a)(30)(A), inserted “or” at end of par. (1), substituted a period for “; or” at end of par. (2), and struck out par. (3) which read as follows: “if grounds exist to convert or dismiss the case under section 1112, but the court determines that the appointment of a trustee or an examiner is in the best interests of creditors and the estate.”
+2010—Subsec. (a). Pub. L. 111–327, § 2(a)(30)(A), inserted “or” at end of par. (1), substituted a period for “; or” at end of par. (2), and struck out par. (3) which read as follows: “if grounds exist to convert or dismiss the case under section 1112, but the court determines that the appointment of a trustee or an examiner is in the best interests of creditors and the estate.”
 
-Subsec. (b)(2)(B)(ii). Pub. L. 111–327, § 2(a)(30)(B), substituted “subsection (a)” for “subsection (d)”.
+Subsec. (b)(2)(B)(ii). Pub. L. 111–327, § 2(a)(30)(B), substituted “subsection (a)” for “subsection (d)”.
 
-2005—Subsec. (a)(3). Pub. L. 109–8, § 442(b), added par. (3).
+2005—Subsec. (a)(3). Pub. L. 109–8, § 442(b), added par. (3).
 
-Subsec. (b). Pub. L. 109–8, § 416, designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 109–8, § 416, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 109–8, § 1405, added subsec. (e).
+Subsec. (e). Pub. L. 109–8, § 1405, added subsec. (e).
 
-1994—Subsec. (b). Pub. L. 103–394, § 211(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+1994—Subsec. (b). Pub. L. 103–394, § 211(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 103–394, § 211(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 103–394, § 211(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 103–394, §§ 211(a)(1), 501(d)(30), redesignated subsec. (c) as (d) and inserted comma after “interest”.
+Subsec. (d). Pub. L. 103–394, §§ 211(a)(1), 501(d)(30), redesignated subsec. (c) as (d) and inserted comma after “interest”.
 
-1986—Subsecs. (a), (b). Pub. L. 99–554, § 222(1), (2), inserted “or the United States trustee” after “party in interest”.
+1986—Subsecs. (a), (b). Pub. L. 99–554, § 222(1), (2), inserted “or the United States trustee” after “party in interest”.
 
-Subsec. (c). Pub. L. 99–554, § 222(3), substituted “the United States trustee, after consultation with parties in interest shall appoint, subject to the court’s approval, one disinterested person other than the United States trustee to serve” for “the court shall appoint one disinterested person to serve”.
+Subsec. (c). Pub. L. 99–554, § 222(3), substituted “the United States trustee, after consultation with parties in interest shall appoint, subject to the court’s approval, one disinterested person other than the United States trustee to serve” for “the court shall appoint one disinterested person to serve”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -387,11 +387,11 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-### § 1105. Termination of trustee’s appointment
+### § 1105. Termination of trustee’s appointment
 
 At any time before confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court may terminate the trustee’s appointment and restore the debtor to possession and management of the property of the estate and of the operation of the debtor’s business.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, § 501, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, § 223, Oct. 27, 1986, 100 Stat. 3102.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, § 501, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, § 223, Oct. 27, 1986, 100 Stat. 3102.)
 
 **Historical and Revision Notes**
 
@@ -421,7 +421,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1106. Duties of trustee and examiner
+### § 1106. Duties of trustee and examiner
 
 **(a)** A trustee shall—
 
@@ -483,7 +483,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(B)** Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§ 311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, § 257(c), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, § 211(b), Oct. 22, 1994, 108 Stat. 4125; Pub. L. 109–8, title II, § 219(b), title IV, § 446(c), title XI, § 1105(b), Apr. 20, 2005, 119 Stat. 56, 118, 192; Pub. L. 111–327, § 2(a)(31), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§ 311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, § 257(c), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, § 211(b), Oct. 22, 1994, 108 Stat. 4125; Pub. L. 109–8, title II, § 219(b), title IV, § 446(c), title XI, § 1105(b), Apr. 20, 2005, 119 Stat. 56, 118, 192; Pub. L. 111–327, § 2(a)(31), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Historical and Revision Notes**
 
@@ -509,25 +509,25 @@ Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–327, § 2(a)(31)(A), substituted “704(a)” for “704”.
+2010—Subsec. (a)(1). Pub. L. 111–327, § 2(a)(31)(A), substituted “704(a)” for “704”.
 
-Subsec. (a)(2). Pub. L. 111–327, § 2(a)(31)(B), substituted “521(a)(1)” for “521(1)”.
+Subsec. (a)(2). Pub. L. 111–327, § 2(a)(31)(B), substituted “521(a)(1)” for “521(1)”.
 
-2005—Subsec. (a)(1). Pub. L. 109–8, § 1105(b), substituted “(11), and (12)” for “and (11)”.
+2005—Subsec. (a)(1). Pub. L. 109–8, § 1105(b), substituted “(11), and (12)” for “and (11)”.
 
-Pub. L. 109–8, § 446(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “perform the duties of a trustee specified in sections 704(2), 704(5), 704(7), 704(8), and 704(9) of this title;”.
+Pub. L. 109–8, § 446(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “perform the duties of a trustee specified in sections 704(2), 704(5), 704(7), 704(8), and 704(9) of this title;”.
 
-Subsec. (a)(8). Pub. L. 109–8, § 219(b)(1), added par. (8).
+Subsec. (a)(8). Pub. L. 109–8, § 219(b)(1), added par. (8).
 
-Subsec. (c). Pub. L. 109–8, § 219(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–8, § 219(b)(2), added subsec. (c).
 
 1994—Subsec. (b). Pub. L. 103–394 substituted “1104(d)” for “1104(c)”.
 
 1986—Subsec. (a)(5). Pub. L. 99–554 inserted reference to chapter 12.
 
-1984—Subsec. (a)(1). Pub. L. 98–353, § 311(b)(1), substituted “704(5), 704(7), 704(8), and 704(9)” for “704(4), 704(6), 704(7) and 704(8)”.
+1984—Subsec. (a)(1). Pub. L. 98–353, § 311(b)(1), substituted “704(5), 704(7), 704(8), and 704(9)” for “704(4), 704(6), 704(7) and 704(8)”.
 
-Subsec. (b). Pub. L. 98–353, § 502, inserted “, except to the extent that the court orders otherwise,”.
+Subsec. (b). Pub. L. 98–353, § 502, inserted “, except to the extent that the court orders otherwise,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -549,7 +549,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **Payment of Certain Benefits to Retired Former Employees**
 
-Pub. L. 99–500, § 101(b) [title VI, § 608], Oct. 18, 1986, 100 Stat. 1783–39, 1783–74, and Pub. L. 99–591, § 101(b) [title VI, § 608], Oct. 30, 1986, 100 Stat. 3341–39, 3341–74, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716; Pub. L. 100–334, § 3(a), June 16, 1988, 102 Stat. 613, provided that:
+Pub. L. 99–500, § 101(b) [title VI, § 608], Oct. 18, 1986, 100 Stat. 1783–39, 1783–74, and Pub. L. 99–591, § 101(b) [title VI, § 608], Oct. 30, 1986, 100 Stat. 3341–39, 3341–74, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716; Pub. L. 100–334, § 3(a), June 16, 1988, 102 Stat. 613, provided that:
 
 > **“(a)**
 
@@ -593,15 +593,15 @@ Pub. L. 99–500, § 101(b) [title VI, § 608], Oct. 18, 1986, 100 Stat. 178
 
 > **“(d)** This section shall not apply during any period in which a case is subject to chapter 7, title 11, United States Code.”
 
-Similar provisions were contained in Pub. L. 99–656, § 2, Nov. 14, 1986, 100 Stat. 3668, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716, and were repealed by Pub. L. 100–334, § 3(b), June 16, 1988, 102 Stat. 614.
+Similar provisions were contained in Pub. L. 99–656, § 2, Nov. 14, 1986, 100 Stat. 3668, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716, and were repealed by Pub. L. 100–334, § 3(b), June 16, 1988, 102 Stat. 614.
 
-### § 1107. Rights, powers, and duties of debtor in possession
+### § 1107. Rights, powers, and duties of debtor in possession
 
 **(a)** Subject to any limitations on a trustee serving in a case under this chapter, and to such limitations or conditions as the court prescribes, a debtor in possession shall have all the rights, other than the right to compensation under section 330 of this title, and powers, and shall perform all the functions and duties, except the duties specified in sections 1106(a)(2), (3), and (4) of this title, of a trustee serving in a case under this chapter.
 
 **(b)** Notwithstanding section 327(a) of this title, a person is not disqualified for employment under section 327 of this title by a debtor in possession solely because of such person’s employment by or representation of the debtor before the commencement of the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, § 503, July 10, 1984, 98 Stat. 384.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, § 503, July 10, 1984, 98 Stat. 384.)
 
 **Historical and Revision Notes**
 
@@ -625,11 +625,11 @@ This section places a debtor in possession in the shoes of a trustee in every wa
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1108. Authorization to operate business
+### § 1108. Authorization to operate business
 
 Unless the court, on request of a party in interest and after notice and a hearing, orders otherwise, the trustee may operate the debtor’s business.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 98–353, title III, § 504, July 10, 1984, 98 Stat. 384.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 98–353, title III, § 504, July 10, 1984, 98 Stat. 384.)
 
 **Historical and Revision Notes**
 
@@ -649,7 +649,7 @@ This section does not presume that a trustee will be appointed to operate the bu
 
 **Amendments**
 
-1984—Pub. L. 98–353 inserted “, on request of a party in interest and after notice and a hearing,”.
+1984—Pub. L. 98–353 inserted “, on request of a party in interest and after notice and a hearing,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -657,17 +657,17 @@ This section does not presume that a trustee will be appointed to operate the bu
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1109. Right to be heard
+### § 1109. Right to be heard
 
 **(a)** The Securities and Exchange Commission may raise and may appear and be heard on any issue in a case under this chapter, but the Securities and Exchange Commission may not appeal from any judgment, order, or decree entered in the case.
 
 **(b)** A party in interest, including the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, or any indenture trustee, may raise and may appear and be heard on any issue in a case under this chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 119–27, § 11(f), July 18, 2025, 139 Stat. 458.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 119–27, § 11(f), July 18, 2025, 139 Stat. 458.)
 
 **Amendment of Section**
 
-Pub. L. 119–27, §§ 11(f), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended by adding at the end the following:
+Pub. L. 119–27, §§ 11(f), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended by adding at the end the following:
 
 *(c) The Comptroller of the Currency or State payment stablecoin regulator (as defined in section 2 of the GENIUS Act) shall raise, and shall appear and be heard on, any issue, including the protection of customers, in a case under this chapter in which the debtor is a permitted payment stablecoin issuer.*
 
@@ -701,7 +701,7 @@ Section 1109 authorizes the Securities and Exchange Commission and any indenture
 
 Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under section 5901 of Title 12, Banks and Banking.
 
-### § 1110. Aircraft equipment and vessels
+### § 1110. Aircraft equipment and vessels
 
 **(a)**
 
@@ -749,7 +749,7 @@ Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 mo
 
 **(2)** the term “security interest” means a purchase-money equipment security interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 103–272, § 5(c), July 5, 1994, 108 Stat. 1373; Pub. L. 103–394, title II, § 201(a), Oct. 22, 1994, 108 Stat. 4119; Pub. L. 106–181, title VII, § 744(b), Apr. 5, 2000, 114 Stat. 177; Pub. L. 109–304, § 17(b)(2), Oct. 6, 2006, 120 Stat. 1707.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 103–272, § 5(c), July 5, 1994, 108 Stat. 1373; Pub. L. 103–394, title II, § 201(a), Oct. 22, 1994, 108 Stat. 4119; Pub. L. 106–181, title VII, § 744(b), Apr. 5, 2000, 114 Stat. 177; Pub. L. 109–304, § 17(b)(2), Oct. 6, 2006, 120 Stat. 1707.)
 
 **Historical and Revision Notes**
 
@@ -829,7 +829,7 @@ Pub. L. 103–7, Mar. 17, 1993, 107 Stat. 36, provided that:
 
 > then such agreement shall be treated as a lease for purposes of section 1110 of such title 11.”
 
-### § 1111. Claims and interests
+### § 1111. Claims and interests
 
 **(a)** A proof of claim or interest is deemed filed under section 501 of this title for any claim or interest that appears in the schedules filed under section 521(a)(1) or 1106(a)(2) of this title, except a claim or interest that is scheduled as disputed, contingent, or unliquidated.
 
@@ -851,7 +851,7 @@ Pub. L. 103–7, Mar. 17, 1993, 107 Stat. 36, provided that:
 
 **(2)** If such an election is made, then notwithstanding section 506(a) of this title, such claim is a secured claim to the extent that such claim is allowed.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 111–327, § 2(a)(32), Dec. 22, 2010, 124 Stat. 3561.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 111–327, § 2(a)(32), Dec. 22, 2010, 124 Stat. 3561.)
 
 **Historical and Revision Notes**
 
@@ -869,7 +869,7 @@ This section dispenses with the need for every creditor and equity security hold
 
 2010—Subsec. (a). Pub. L. 111–327 substituted “521(a)(1)” for “521(1)”.
 
-### § 1112. Conversion or dismissal
+### § 1112. Conversion or dismissal
 
 **(a)** The debtor may convert a case under this chapter to a case under chapter 7 of this title unless—
 
@@ -943,7 +943,7 @@ This section dispenses with the need for every creditor and equity security hold
 
 **(f)** Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, § 505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§ 224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, § 217(c), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, § 442(a), Apr. 20, 2005, 119 Stat. 115; Pub. L. 111–327, § 2(a)(33), Dec. 22, 2010, 124 Stat. 3561.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, § 505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§ 224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, § 217(c), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, § 442(a), Apr. 20, 2005, 119 Stat. 115; Pub. L. 111–327, § 2(a)(33), Dec. 22, 2010, 124 Stat. 3561.)
 
 **Historical and Revision Notes**
 
@@ -973,33 +973,33 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(G), are
 
 **Amendments**
 
-2010—Subsec. (b)(1). Pub. L. 111–327, § 2(a)(33)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.”
+2010—Subsec. (b)(1). Pub. L. 111–327, § 2(a)(33)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.”
 
-Subsec. (b)(2). Pub. L. 111–327, § 2(a)(33)(A)(ii)(I), inserted introductory provisions and struck out former introductory provisions which read as follows: “The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—”.
+Subsec. (b)(2). Pub. L. 111–327, § 2(a)(33)(A)(ii)(I), inserted introductory provisions and struck out former introductory provisions which read as follows: “The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—”.
 
-Subsec. (b)(2)(B). Pub. L. 111–327, § 2(a)(33)(A)(ii)(II), substituted “converting or dismissing the case” for “granting such relief”.
+Subsec. (b)(2)(B). Pub. L. 111–327, § 2(a)(33)(A)(ii)(II), substituted “converting or dismissing the case” for “granting such relief”.
 
-Subsec. (e). Pub. L. 111–327, § 2(a)(33)(B), substituted “521(a)” for “521”.
+Subsec. (e). Pub. L. 111–327, § 2(a)(33)(B), substituted “521(a)” for “521”.
 
 2005—Subsec. (b). Pub. L. 109–8 added subsec. (b) and struck out former subsec. (b) which consisted of introductory provisions and pars. (1) to (10) relating to conversion of cases under this chapter to chapter 7 cases or dismissal for cause in the best interest of creditors and the estate.
 
 1994—Subsec. (b). Pub. L. 103–394 inserted “or bankruptcy administrator” after “United States trustee”.
 
-1986—Subsec. (b). Pub. L. 99–554, § 224(1)(A), inserted “or the United States trustee” after “party in interest”.
+1986—Subsec. (b). Pub. L. 99–554, § 224(1)(A), inserted “or the United States trustee” after “party in interest”.
 
-Subsec. (b)(10). Pub. L. 99–554, § 224(1)(B)–(D), added par. (10).
+Subsec. (b)(10). Pub. L. 99–554, § 224(1)(B)–(D), added par. (10).
 
-Subsec. (d). Pub. L. 99–554, § 256, inserted reference to chapter 12 and added par. (3).
+Subsec. (d). Pub. L. 99–554, § 256, inserted reference to chapter 12 and added par. (3).
 
-Subsecs. (e), (f). Pub. L. 99–554, § 224(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 99–554, § 224(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1984—Subsec. (a)(2). Pub. L. 98–353, § 505(a)(1), substituted “originally was commenced as an involuntary case” for “is an involuntary case originally commenced”.
+1984—Subsec. (a)(2). Pub. L. 98–353, § 505(a)(1), substituted “originally was commenced as an involuntary case” for “is an involuntary case originally commenced”.
 
-Subsec. (a)(3). Pub. L. 98–353, § 505(a)(2), substituted “other than on” for “on other than”.
+Subsec. (a)(3). Pub. L. 98–353, § 505(a)(2), substituted “other than on” for “on other than”.
 
-Subsec. (b)(5). Pub. L. 98–353, § 505(b)(1), inserted “a request made for” before “additional”.
+Subsec. (b)(5). Pub. L. 98–353, § 505(b)(1), inserted “a request made for” before “additional”.
 
-Subsec. (b)(8). Pub. L. 98–353, § 505(b)(2), substituted “or” for “and”.
+Subsec. (b)(8). Pub. L. 98–353, § 505(b)(2), substituted “or” for “and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1021,7 +1021,7 @@ Amendment by section 256 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1113. Rejection of collective bargaining agreements
+### § 1113. Rejection of collective bargaining agreements
 
 **(a)** The debtor in possession, or the trustee if one has been appointed under the provisions of this chapter, other than a trustee in a case covered by subchapter IV of this chapter and by title I of the Railway Labor Act, may assume or reject a collective bargaining agreement only in accordance with the provisions of this section.
 
@@ -1055,21 +1055,21 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(f)** No provision of this title shall be construed to permit a trustee to unilaterally terminate or alter any provisions of a collective bargaining agreement prior to compliance with the provisions of this section.
 
-(Added Pub. L. 98–353, title III, § 541(a), July 10, 1984, 98 Stat. 390.)
+(Added Pub. L. 98–353, title III, § 541(a), July 10, 1984, 98 Stat. 390.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Railway Labor Act, referred to in subsec. (a), is act May 20, 1926, ch. 347, 44 Stat. 577. Title I of the Railway Labor Act is classified principally to subchapter I (§ 151 et seq.) of chapter 8 of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (a), is act May 20, 1926, ch. 347, 44 Stat. 577. Title I of the Railway Labor Act is classified principally to subchapter I (§ 151 et seq.) of chapter 8 of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–353, title III, § 541(c), July 10, 1984, 98 Stat. 391, provided that: “The amendments made by this section [enacting this section] shall become effective upon the date of enactment of this Act [July 10, 1984]; provided that this section shall not apply to cases filed under title 11 of the United States Code which were commenced prior to the date of enactment of this section.”
+Pub. L. 98–353, title III, § 541(c), July 10, 1984, 98 Stat. 391, provided that: “The amendments made by this section [enacting this section] shall become effective upon the date of enactment of this Act [July 10, 1984]; provided that this section shall not apply to cases filed under title 11 of the United States Code which were commenced prior to the date of enactment of this section.”
 
-### § 1114. Payment of insurance benefits to retired employees
+### § 1114. Payment of insurance benefits to retired employees
 
 **(a)** For purposes of this section, the term “retiree benefits” means payments to any entity or person for the purpose of providing or reimbursing payments for retired employees and their spouses and dependents, for medical, surgical, or hospital care benefits, or benefits in the event of sickness, accident, disability, or death under any plan, fund, or program (through the purchase of insurance or otherwise) maintained or established in whole or in part by the debtor prior to filing a petition commencing a case under this title.
 
@@ -1149,15 +1149,15 @@ the court, on motion of a party in interest, and after notice and a hearing, sha
 
 **(m)** This section shall not apply to any retiree, or the spouse or dependents of such retiree, if such retiree’s gross income for the twelve months preceding the filing of the bankruptcy petition equals or exceeds $250,000, unless such retiree can demonstrate to the satisfaction of the court that he is unable to obtain health, medical, life, and disability coverage for himself, his spouse, and his dependents who would otherwise be covered by the employer’s insurance plan, comparable to the coverage provided by the employer on the day before the filing of a petition under this title.
 
-(Added Pub. L. 100–334, § 2(a), June 16, 1988, 102 Stat. 610; amended Pub. L. 109–8, title IV, § 447, title XIV, § 1403, Apr. 20, 2005, 119 Stat. 118, 215.)
+(Added Pub. L. 100–334, § 2(a), June 16, 1988, 102 Stat. 610; amended Pub. L. 109–8, title IV, § 447, title XIV, § 1403, Apr. 20, 2005, 119 Stat. 118, 215.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (d). Pub. L. 109–8, § 447, substituted “order the appointment of” for “appoint” and inserted “The United States trustee shall appoint any such committee.” at end.
+2005—Subsec. (d). Pub. L. 109–8, § 447, substituted “order the appointment of” for “appoint” and inserted “The United States trustee shall appoint any such committee.” at end.
 
-Subsecs. (*l*), (m). Pub. L. 109–8, § 1403, added subsec. (*l*) and redesignated former subsec. (*l*) as (m).
+Subsecs. (*l*), (m). Pub. L. 109–8, § 1403, added subsec. (*l*) and redesignated former subsec. (*l*) as (m).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1169,7 +1169,7 @@ Amendment by section 447 of Pub. L. 109–8 effective 180 days after Apr. 20, 20
 
 **Effective Date**
 
-Pub. L. 100–334, § 4, June 16, 1988, 102 Stat. 615, provided that:
+Pub. L. 100–334, § 4, June 16, 1988, 102 Stat. 615, provided that:
 
 > **“(a) General Effective Date.—** Except as provided in subsection (b), this Act and the amendments made by this Act [enacting this section, amending section 1129 of this title, enacting provisions set out as a note under section 101 of this title, and amending and repealing provisions set out as notes under section 1106 of this title] shall take effect on the date of the enactment of this Act [June 16, 1988].
 
@@ -1177,9 +1177,9 @@ Pub. L. 100–334, § 4, June 16, 1988, 102 Stat. 615, provided that:
 
 **Payment of Certain Benefits to Retired Former Employees**
 
-For payment of benefits by bankruptcy trustee to retired employees in enumerated circumstances with respect to cases commenced under this chapter in which a plan for reorganization had not been confirmed by the court and in which any such benefit was still being paid on October 2, 1986, and in cases that became subject to this chapter after October 2, 1986, and before June 16, 1988, see section 101(b) [title VI, § 608] of Pub. L. 99–500, and Pub. L. 99–591, as amended, set out as a note under section 1106 of this title.
+For payment of benefits by bankruptcy trustee to retired employees in enumerated circumstances with respect to cases commenced under this chapter in which a plan for reorganization had not been confirmed by the court and in which any such benefit was still being paid on October 2, 1986, and in cases that became subject to this chapter after October 2, 1986, and before June 16, 1988, see section 101(b) [title VI, § 608] of Pub. L. 99–500, and Pub. L. 99–591, as amended, set out as a note under section 1106 of this title.
 
-### § 1115. Property of the estate
+### § 1115. Property of the estate
 
 **(a)** In a case in which the debtor is an individual, property of the estate includes, in addition to the property specified in section 541—
 
@@ -1189,7 +1189,7 @@ For payment of benefits by bankruptcy trustee to retired employees in enumerated
 
 **(b)** Except as provided in section 1104 or a confirmed plan or order confirming a plan, the debtor shall remain in possession of all property of the estate.
 
-(Added Pub. L. 109–8, title III, § 321(a)(1), Apr. 20, 2005, 119 Stat. 94.)
+(Added Pub. L. 109–8, title III, § 321(a)(1), Apr. 20, 2005, 119 Stat. 94.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1197,7 +1197,7 @@ For payment of benefits by bankruptcy trustee to retired employees in enumerated
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1116. Duties of trustee or debtor in possession in small business cases
+### § 1116. Duties of trustee or debtor in possession in small business cases
 
 In a small business case, a trustee or the debtor in possession, in addition to the duties provided in this title and as otherwise required by law, shall—
 
@@ -1223,7 +1223,7 @@ In a small business case, a trustee or the debtor in possession, in addition to 
 
 **(7)** allow the United States trustee, or a designated representative of the United States trustee, to inspect the debtor’s business premises, books, and records at reasonable times, after reasonable prior written notice, unless notice is waived by the debtor.
 
-(Added Pub. L. 109–8, title IV, § 436(a), Apr. 20, 2005, 119 Stat. 112.)
+(Added Pub. L. 109–8, title IV, § 436(a), Apr. 20, 2005, 119 Stat. 112.)
 
 **Editorial Notes**
 
@@ -1239,7 +1239,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER II—THE PLAN
 
-### § 1121. Who may file a plan
+### § 1121. Who may file a plan
 
 **(a)** The debtor may file a plan with a petition commencing a voluntary case, or at any time in a voluntary case or an involuntary case.
 
@@ -1281,7 +1281,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(C)** the order extending time is signed before the existing deadline has expired.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, § 506, July 10, 1984, 98 Stat. 385; Pub. L. 99–554, title II, § 283(u), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title II, § 217(d), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§ 411, 437, Apr. 20, 2005, 119 Stat. 106, 113.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, § 506, July 10, 1984, 98 Stat. 385; Pub. L. 99–554, title II, § 283(u), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title II, § 217(d), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§ 411, 437, Apr. 20, 2005, 119 Stat. 106, 113.)
 
 **Historical and Revision Notes**
 
@@ -1301,9 +1301,9 @@ Subsection (d) permits the court, for cause, to increase or reduce the 120-day a
 
 **Amendments**
 
-2005—Subsec. (d). Pub. L. 109–8, § 411, designated existing provisions as par. (1), substituted “Subject to paragraph (2), on” for “On”, and added par. (2).
+2005—Subsec. (d). Pub. L. 109–8, § 411, designated existing provisions as par. (1), substituted “Subject to paragraph (2), on” for “On”, and added par. (2).
 
-Subsec. (e). Pub. L. 109–8, § 437, added subsec. (e) and struck out former subsec. (e) which read as follows: “In a case in which the debtor is a small business and elects to be considered a small business—
+Subsec. (e). Pub. L. 109–8, § 437, added subsec. (e) and struck out former subsec. (e) which read as follows: “In a case in which the debtor is a small business and elects to be considered a small business—
 
 “(1) only the debtor may file a plan until after 100 days after the date of the order for relief under this chapter;
 
@@ -1319,9 +1319,9 @@ Subsec. (e). Pub. L. 109–8, § 437, added subsec. (e) and struck out former 
 
 1986—Subsec. (d). Pub. L. 99–554 inserted reference to subsection (b) of this section.
 
-1984—Subsec. (c)(3). Pub. L. 98–353, § 506(a), substituted “of claims or interests that is” for “the claims or interests of which are”.
+1984—Subsec. (c)(3). Pub. L. 98–353, § 506(a), substituted “of claims or interests that is” for “the claims or interests of which are”.
 
-Subsec. (d). Pub. L. 98–353, § 506(b), inserted “made within the respective periods specified in subsection (c) of this section”.
+Subsec. (d). Pub. L. 98–353, § 506(b), inserted “made within the respective periods specified in subsection (c) of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1341,7 +1341,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1122. Classification of claims or interests
+### § 1122. Classification of claims or interests
 
 **(a)** Except as provided in subsection (b) of this section, a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.
 
@@ -1357,7 +1357,7 @@ This section codifies current case law surrounding the classification of claims 
 
 Subsection (b), also a codification of existing practice, contains an exception. The plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
 
-### § 1123. Contents of plan
+### § 1123. Contents of plan
 
 **(a)** Notwithstanding any otherwise applicable nonbankruptcy law, a plan shall—
 
@@ -1419,7 +1419,7 @@ Subsection (b), also a codification of existing practice, contains an exception.
 
 **(d)** Notwithstanding subsection (a) of this section and sections 506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a plan to cure a default the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, § 507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, § 206, title III, §§ 304(h)(6), 305(a), title V, § 501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146; Pub. L. 109–8, title III, § 321(b), title XV, § 1502(a)(7), Apr. 20, 2005, 119 Stat. 95, 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, § 507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, § 206, title III, §§ 304(h)(6), 305(a), title V, § 501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146; Pub. L. 109–8, title III, § 321(b), title XV, § 1502(a)(7), Apr. 20, 2005, 119 Stat. 95, 216.)
 
 **Historical and Revision Notes**
 
@@ -1451,27 +1451,27 @@ Subsection (c) protects an individual debtor’s exempt property by prohibiting 
 
 **Amendments**
 
-2005—Subsec. (a)(1). Pub. L. 109–8, § 1502(a)(7), substituted “507(a)(2), 507(a)(3)” for “507(a)(1), 507(a)(2)”.
+2005—Subsec. (a)(1). Pub. L. 109–8, § 1502(a)(7), substituted “507(a)(2), 507(a)(3)” for “507(a)(1), 507(a)(2)”.
 
-Subsec. (a)(8). Pub. L. 109–8, § 321(b), added par. (8).
+Subsec. (a)(8). Pub. L. 109–8, § 321(b), added par. (8).
 
-1994—Subsec. (a)(1). Pub. L. 103–394, §§ 304(h)(6), 501(d)(31), substituted “507(a)(8) of this title,” for “507(a)(7) of this title”.
+1994—Subsec. (a)(1). Pub. L. 103–394, §§ 304(h)(6), 501(d)(31), substituted “507(a)(8) of this title,” for “507(a)(7) of this title”.
 
-Subsec. (b)(5), (6). Pub. L. 103–394, § 206, added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 103–394, § 206, added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (d). Pub. L. 103–394, § 305(a), added subsec. (d).
+Subsec. (d). Pub. L. 103–394, § 305(a), added subsec. (d).
 
-1984—Subsec. (a). Pub. L. 98–353, § 507(a)(1), in provisions preceding par. (1) substituted “Notwithstanding any otherwise applicable nonbankruptcy law, a” for “A”.
+1984—Subsec. (a). Pub. L. 98–353, § 507(a)(1), in provisions preceding par. (1) substituted “Notwithstanding any otherwise applicable nonbankruptcy law, a” for “A”.
 
-Subsec. (a)(1). Pub. L. 98–353, § 507(a)(2), inserted a comma after “classes of claims” and substituted “507(a)(7) of this title,” for “507(a)(6) of this title”.
+Subsec. (a)(1). Pub. L. 98–353, § 507(a)(2), inserted a comma after “classes of claims” and substituted “507(a)(7) of this title,” for “507(a)(6) of this title”.
 
-Subsec. (a)(3). Pub. L. 98–353, § 507(a)(3), struck out “shall” before “specify the treatment”.
+Subsec. (a)(3). Pub. L. 98–353, § 507(a)(3), struck out “shall” before “specify the treatment”.
 
-Subsec. (a)(5). Pub. L. 98–353, § 507(a)(4), substituted “implementation” for “execution”.
+Subsec. (a)(5). Pub. L. 98–353, § 507(a)(4), substituted “implementation” for “execution”.
 
-Subsec. (a)(5)(G). Pub. L. 98–353, § 507(a)(5), inserted “of” after “waiving”.
+Subsec. (a)(5)(G). Pub. L. 98–353, § 507(a)(5), inserted “of” after “waiving”.
 
-Subsec. (b)(2). Pub. L. 98–353, § 507(b), substituted “rejection, or assignment” for “or rejection”, and “under such section” for “under section 365 of this title”.
+Subsec. (b)(2). Pub. L. 98–353, § 507(b), substituted “rejection, or assignment” for “or rejection”, and “under such section” for “under section 365 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1487,7 +1487,7 @@ Amendment by sections 206, 304(h)(6), and 501(d)(31) of Pub. L. 103–394 effect
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1124. Impairment of claims or interests
+### § 1124. Impairment of claims or interests
 
 Except as provided in section 1123(a)(4) of this title, a class of claims or interests is impaired under a plan unless, with respect to each claim or interest of such class, the plan—
 
@@ -1505,7 +1505,7 @@ Except as provided in section 1123(a)(4) of this title, a class of claims or int
 
 **(E)** does not otherwise alter the legal, equitable, or contractual rights to which such claim or interest entitles the holder of such claim or interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, § 508, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, § 213(d), Oct. 22, 1994, 108 Stat. 4126; Pub. L. 109–8, title III, § 328(b), Apr. 20, 2005, 119 Stat. 100.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, § 508, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, § 213(d), Oct. 22, 1994, 108 Stat. 4126; Pub. L. 109–8, title III, § 328(b), Apr. 20, 2005, 119 Stat. 100.)
 
 **Historical and Revision Notes**
 
@@ -1549,9 +1549,9 @@ Third, the plan may leave a claim or interest unimpaired by paying its amount in
 
 **Amendments**
 
-2005—Par. (2)(A). Pub. L. 109–8, § 328(b)(1), inserted “or of a kind that section 365(b)(2) expressly does not require to be cured” before semicolon at end.
+2005—Par. (2)(A). Pub. L. 109–8, § 328(b)(1), inserted “or of a kind that section 365(b)(2) expressly does not require to be cured” before semicolon at end.
 
-Par. (2)(D), (E). Pub. L. 109–8, § 328(b)(2)–(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+Par. (2)(D), (E). Pub. L. 109–8, § 328(b)(2)–(4), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 1994—Par. (3). Pub. L. 103–394 struck out par. (3) which read as follows: “provides that, on the effective date of the plan, the holder of such claim or interest receives, on account of such claim or interest, cash equal to—
 
@@ -1563,9 +1563,9 @@ Par. (2)(D), (E). Pub. L. 109–8, § 328(b)(2)–(4), added subpar. (D) and r
 
 “(ii) any fixed price at which the debtor, under the terms of such security, may redeem such security from such holder.”
 
-1984—Par. (2)(A). Pub. L. 98–353, § 508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of this title, that occurred before or after the commencement of the case under this title;”.
+1984—Par. (2)(A). Pub. L. 98–353, § 508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of this title, that occurred before or after the commencement of the case under this title;”.
 
-Par. (3)(B)(i). Pub. L. 98–353, § 508(2), substituted “or” for “and”.
+Par. (3)(B)(i). Pub. L. 98–353, § 508(2), substituted “or” for “and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1581,7 +1581,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1125. Postpetition disclosure and solicitation
+### § 1125. Postpetition disclosure and solicitation
 
 **(a)** In this section—
 
@@ -1619,7 +1619,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(g)** Notwithstanding subsection (b), an acceptance or rejection of the plan may be solicited from a holder of a claim or interest if such solicitation complies with applicable nonbankruptcy law and if such holder was solicited before the commencement of the case in a manner complying with applicable nonbankruptcy law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, § 509, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, § 217(e), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§ 408, 431, title VII, § 717, Apr. 20, 2005, 119 Stat. 106, 109, 131.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, § 509, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, § 217(e), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§ 408, 431, title VII, § 717, Apr. 20, 2005, 119 Stat. 106, 109, 131.)
 
 **Historical and Revision Notes**
 
@@ -1673,11 +1673,11 @@ Subsection (e) is a safe harbor provision, and is necessary to make the exemptio
 
 **Amendments**
 
-2005—Subsec. (a)(1). Pub. L. 109–8, § 717, inserted “including a discussion of the potential material Federal tax consequences of the plan to the debtor, any successor to the debtor, and a hypothetical investor typical of the holders of claims or interests in the case,” after “records,” and substituted “such a hypothetical investor” for “a hypothetical reasonable investor typical of holders of claims or interests”.
+2005—Subsec. (a)(1). Pub. L. 109–8, § 717, inserted “including a discussion of the potential material Federal tax consequences of the plan to the debtor, any successor to the debtor, and a hypothetical investor typical of the holders of claims or interests in the case,” after “records,” and substituted “such a hypothetical investor” for “a hypothetical reasonable investor typical of holders of claims or interests”.
 
-Pub. L. 109–8, § 431(1), inserted before semicolon “and in determining whether a disclosure statement provides adequate information, the court shall consider the complexity of the case, the benefit of additional information to creditors and other parties in interest, and the cost of providing additional information”.
+Pub. L. 109–8, § 431(1), inserted before semicolon “and in determining whether a disclosure statement provides adequate information, the court shall consider the complexity of the case, the benefit of additional information to creditors and other parties in interest, and the cost of providing additional information”.
 
-Subsec. (f). Pub. L. 109–8, § 431(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b), in a case in which the debtor has elected under section 1121(e) to be considered a small business—
+Subsec. (f). Pub. L. 109–8, § 431(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b), in a case in which the debtor has elected under section 1121(e) to be considered a small business—
 
 “(1) the court may conditionally approve a disclosure statement subject to final approval after notice and a hearing;
 
@@ -1685,19 +1685,19 @@ Subsec. (f). Pub. L. 109–8, § 431(2), added subsec. (f) and struck out form
 
 “(3) a hearing on the disclosure statement may be combined with a hearing on confirmation of a plan.”
 
-Subsec. (g). Pub. L. 109–8, § 408, added subsec. (g).
+Subsec. (g). Pub. L. 109–8, § 408, added subsec. (g).
 
 1994—Subsec. (f). Pub. L. 103–394 added subsec. (f).
 
-1984—Subsec. (a)(1). Pub. L. 98–353, § 509(a)(1), inserted “, but adequate information need not include such information about any other possible or proposed plan”.
+1984—Subsec. (a)(1). Pub. L. 98–353, § 509(a)(1), inserted “, but adequate information need not include such information about any other possible or proposed plan”.
 
-Subsec. (a)(2)(B). Pub. L. 98–353, § 509(a)(2), inserted “the” after “with”.
+Subsec. (a)(2)(B). Pub. L. 98–353, § 509(a)(2), inserted “the” after “with”.
 
-Subsec. (a)(2)(C). Pub. L. 98–353, § 509(a)(3), inserted “of” after “holders”.
+Subsec. (a)(2)(C). Pub. L. 98–353, § 509(a)(3), inserted “of” after “holders”.
 
-Subsec. (d). Pub. L. 98–353, § 509(b), inserted “required under subsection (b) of this section” and “, or otherwise seek review of,”.
+Subsec. (d). Pub. L. 98–353, § 509(b), inserted “required under subsection (b) of this section” and “, or otherwise seek review of,”.
 
-Subsec. (e). Pub. L. 98–353, § 509(c), inserted “acceptance or rejection of a plan” after “solicits”, and “solicitation of acceptance or rejection of a plan or” after “governing”.
+Subsec. (e). Pub. L. 98–353, § 509(c), inserted “acceptance or rejection of a plan” after “solicits”, and “solicitation of acceptance or rejection of a plan or” after “governing”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1713,7 +1713,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1126. Acceptance of plan
+### § 1126. Acceptance of plan
 
 **(a)** The holder of a claim or interest allowed under section 502 of this title may accept or reject a plan. If the United States is a creditor or equity security holder, the Secretary of the Treasury may accept or reject the plan on behalf of the United States.
 
@@ -1733,7 +1733,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(g)** Notwithstanding any other provision of this section, a class is deemed not to have accepted a plan if such plan provides that the claims or interests of such class do not entitle the holders of such claims or interests to receive or retain any property under the plan on account of such claims or interests.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2634; Pub. L. 98–353, title III, § 510, July 10, 1984, 98 Stat. 386.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2634; Pub. L. 98–353, title III, § 510, July 10, 1984, 98 Stat. 386.)
 
 **Historical and Revision Notes**
 
@@ -1767,13 +1767,13 @@ Subsection (g) provides that any class denied participation under the plan is co
 
 **Amendments**
 
-1984—Subsec. (b)(2). Pub. L. 98–353, § 510(a), substituted “1125(a)” for “1125(a)(1)”.
+1984—Subsec. (b)(2). Pub. L. 98–353, § 510(a), substituted “1125(a)” for “1125(a)(1)”.
 
-Subsec. (d). Pub. L. 98–353, § 510(b), inserted a comma after “such interests”.
+Subsec. (d). Pub. L. 98–353, § 510(b), inserted a comma after “such interests”.
 
-Subsec. (f). Pub. L. 98–353, § 510(c), substituted “, and each holder of a claim or interest of such class, are conclusively presumed” for “is deemed”, “solicitation” for “solicititation”, and “interests” for “interest”.
+Subsec. (f). Pub. L. 98–353, § 510(c), substituted “, and each holder of a claim or interest of such class, are conclusively presumed” for “is deemed”, “solicitation” for “solicititation”, and “interests” for “interest”.
 
-Subsec. (g). Pub. L. 98–353, § 510(d), substituted “receive or retain any property” for “any payment or compensation”.
+Subsec. (g). Pub. L. 98–353, § 510(d), substituted “receive or retain any property” for “any payment or compensation”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1781,7 +1781,7 @@ Subsec. (g). Pub. L. 98–353, § 510(d), substituted “receive or retain any
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1127. Modification of plan
+### § 1127. Modification of plan
 
 **(a)** The proponent of a plan may modify such plan at any time before confirmation, but may not modify such plan so that such plan as modified fails to meet the requirements of sections 1122 and 1123 of this title. After the proponent of a plan files a modification of such plan with the court, the plan as modified becomes the plan.
 
@@ -1805,7 +1805,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** The plan, as modified, shall become the plan only after there has been disclosure under section 1125 as the court may direct, notice and a hearing, and such modification is approved.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, § 511, July 10, 1984, 98 Stat. 386; Pub. L. 109–8, title III, § 321(e), Apr. 20, 2005, 119 Stat. 96; Pub. L. 111–327, § 2(a)(34), Dec. 22, 2010, 124 Stat. 3561.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, § 511, July 10, 1984, 98 Stat. 386; Pub. L. 109–8, title III, § 321(e), Apr. 20, 2005, 119 Stat. 96; Pub. L. 111–327, § 2(a)(34), Dec. 22, 2010, 124 Stat. 3561.)
 
 **Historical and Revision Notes**
 
@@ -1841,9 +1841,9 @@ Subsection (d) simplifies modification procedure by deeming any creditor or equi
 
 2005—Subsecs. (e), (f). Pub. L. 109–8 added subsecs. (e) and (f).
 
-1984—Subsec. (a). Pub. L. 98–353, § 511(a), inserted “of a plan” after “After the proponent”, and “of such plan” after “modification”.
+1984—Subsec. (a). Pub. L. 98–353, § 511(a), inserted “of a plan” after “After the proponent”, and “of such plan” after “modification”.
 
-Subsec. (b). Pub. L. 98–353, § 511(b), substituted “circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under section 1129 of this title” for “the court, after notice and a hearing, confirms such plan, as modified, under section 1129 of this title, and circumstances warrant such modification”.
+Subsec. (b). Pub. L. 98–353, § 511(b), substituted “circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under section 1129 of this title” for “the court, after notice and a hearing, confirms such plan, as modified, under section 1129 of this title, and circumstances warrant such modification”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1855,7 +1855,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1128. Confirmation hearing
+### § 1128. Confirmation hearing
 
 **(a)** After notice, the court shall hold a hearing on confirmation of a plan.
 
@@ -1871,7 +1871,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 Subsection (b) permits any party in interest to object to the confirmation of the plan. The Securities and Exchange Commission and indenture trustees, as parties in interest under section 1109, may object to confirmation of the plan.
 
-### § 1129. Confirmation of plan
+### § 1129. Confirmation of plan
 
 **(a)** The court shall confirm a plan only if all of the following requirements are met:
 
@@ -1985,7 +1985,7 @@ Subsection (b) permits any party in interest to object to the confirmation of th
 
 **(e)** In a small business case, the court shall confirm a plan that complies with the applicable provisions of this title and that is filed in accordance with section 1121(e) not later than 45 days after the plan is filed unless the time for confirmation is extended in accordance with section 1121(e)(3).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, § 512, July 10, 1984, 98 Stat. 386; Pub. L. 99–554, title II, §§ 225, 283(v), Oct. 27, 1986, 100 Stat. 3102, 3118; Pub. L. 100–334, § 2(b), June 16, 1988, 102 Stat. 613; Pub. L. 103–394, title III, § 304(h)(7), title V, § 501(d)(32), Oct. 22, 1994, 108 Stat. 4134, 4146; Pub. L. 109–8, title II, § 213(1), title III, § 321(c), title IV, § 438, title VII, § 710, title XII, § 1221(b), title XV, § 1502(a)(8), Apr. 20, 2005, 119 Stat. 52, 95, 113, 127, 196, 216; Pub. L. 111–327, § 2(a)(35), Dec. 22, 2010, 124 Stat. 3561.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, § 512, July 10, 1984, 98 Stat. 386; Pub. L. 99–554, title II, §§ 225, 283(v), Oct. 27, 1986, 100 Stat. 3102, 3118; Pub. L. 100–334, § 2(b), June 16, 1988, 102 Stat. 613; Pub. L. 103–394, title III, § 304(h)(7), title V, § 501(d)(32), Oct. 22, 1994, 108 Stat. 4134, 4146; Pub. L. 109–8, title II, § 213(1), title III, § 321(c), title IV, § 438, title VII, § 710, title XII, § 1221(b), title XV, § 1502(a)(8), Apr. 20, 2005, 119 Stat. 52, 95, 113, 127, 196, 216; Pub. L. 111–327, § 2(a)(35), Dec. 22, 2010, 124 Stat. 3561.)
 
 **Historical and Revision Notes**
 
@@ -2077,7 +2077,7 @@ Paragraph (9)(A) would permit a senior creditor to adjust his participation for 
 
 <table>
 <tr><th></th><th>Claims and stock (millions)</th><th>Equity (millions)</th></tr>
-<tr><td colspan="3">1 No value.</td></tr>
+<tr><td colspan="3">1 No value.</td></tr>
 <tr><td>(1) Senior debt</td><td>$1.2</td><td>$1.2</td></tr>
 <tr><td>(2) Junior debt</td><td>.5</td><td>.3</td></tr>
 <tr><td>(3) Stock</td><td>(1)</td><td>–</td></tr>
@@ -2181,69 +2181,69 @@ Section 5 of the Securities Act of 1933, referred to in subsec. (d), is classifi
 
 2010—Subsec. (a)(16). Pub. L. 111–327 substituted “under the plan” for “of the plan”.
 
-2005—Subsec. (a)(9)(A). Pub. L. 109–8, § 1502(a)(8)(A), substituted “507(a)(2) or 507(a)(3)” for “507(a)(1) or 507(a)(2)”.
+2005—Subsec. (a)(9)(A). Pub. L. 109–8, § 1502(a)(8)(A), substituted “507(a)(2) or 507(a)(3)” for “507(a)(1) or 507(a)(2)”.
 
-Subsec. (a)(9)(B). Pub. L. 109–8, § 1502(a)(8)(B), substituted “507(a)(1)” for “507(a)(3)”.
+Subsec. (a)(9)(B). Pub. L. 109–8, § 1502(a)(8)(B), substituted “507(a)(1)” for “507(a)(3)”.
 
-Subsec. (a)(9)(C). Pub. L. 109–8, § 710(2), substituted “regular installment payments in cash—” and cls. (i) to (iii) for “deferred cash payments, over a period not exceeding six years after the date of assessment of such claim, of a value, as of the effective date of the plan, equal to the allowed amount of such claim.”
+Subsec. (a)(9)(C). Pub. L. 109–8, § 710(2), substituted “regular installment payments in cash—” and cls. (i) to (iii) for “deferred cash payments, over a period not exceeding six years after the date of assessment of such claim, of a value, as of the effective date of the plan, equal to the allowed amount of such claim.”
 
-Subsec. (a)(9)(D). Pub. L. 109–8, § 710(1), (3), added subpar. (D).
+Subsec. (a)(9)(D). Pub. L. 109–8, § 710(1), (3), added subpar. (D).
 
-Subsec. (a)(14). Pub. L. 109–8, § 213(1), added par. (14).
+Subsec. (a)(14). Pub. L. 109–8, § 213(1), added par. (14).
 
-Subsec. (a)(15). Pub. L. 109–8, § 321(c)(1), added par. (15).
+Subsec. (a)(15). Pub. L. 109–8, § 321(c)(1), added par. (15).
 
-Subsec. (a)(16). Pub. L. 109–8, § 1221(b), added par. (16).
+Subsec. (a)(16). Pub. L. 109–8, § 1221(b), added par. (16).
 
-Subsec. (b)(2)(B)(ii). Pub. L. 109–8, § 321(c)(2), inserted before period at end “, except that in a case in which the debtor is an individual, the debtor may retain property included in the estate under section 1115, subject to the requirements of subsection (a)(14) of this section”.
+Subsec. (b)(2)(B)(ii). Pub. L. 109–8, § 321(c)(2), inserted before period at end “, except that in a case in which the debtor is an individual, the debtor may retain property included in the estate under section 1115, subject to the requirements of subsection (a)(14) of this section”.
 
-Subsec. (e). Pub. L. 109–8, § 438, added subsec. (e).
+Subsec. (e). Pub. L. 109–8, § 438, added subsec. (e).
 
-1994—Subsec. (a)(4). Pub. L. 103–394, § 501(d)(32)(A)(i), substituted period for semicolon at end.
+1994—Subsec. (a)(4). Pub. L. 103–394, § 501(d)(32)(A)(i), substituted period for semicolon at end.
 
-Subsec. (a)(9)(B). Pub. L. 103–394, § 304(h)(7)(i), substituted “, 507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
+Subsec. (a)(9)(B). Pub. L. 103–394, § 304(h)(7)(i), substituted “, 507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
 
-Subsec. (a)(9)(C). Pub. L. 103–394, § 304(h)(7)(ii), substituted “507(a)(8)” for “507(a)(7)”.
+Subsec. (a)(9)(C). Pub. L. 103–394, § 304(h)(7)(ii), substituted “507(a)(8)” for “507(a)(7)”.
 
-Subsec. (a)(12). Pub. L. 103–394, § 501(d)(32)(A)(ii), inserted “of title 28” after “section 1930”.
+Subsec. (a)(12). Pub. L. 103–394, § 501(d)(32)(A)(ii), inserted “of title 28” after “section 1930”.
 
-Subsec. (d). Pub. L. 103–394, § 501(d)(32)(B), struck out “(15 U.S.C. 77e)” after “Act of 1933”.
+Subsec. (d). Pub. L. 103–394, § 501(d)(32)(B), struck out “(15 U.S.C. 77e)” after “Act of 1933”.
 
 1988—Subsec. (a)(13). Pub. L. 100–334 added par. (13).
 
-1986—Subsec. (a)(7). Pub. L. 99–554, § 283(v)(1), struck out “of” after “to”.
+1986—Subsec. (a)(7). Pub. L. 99–554, § 283(v)(1), struck out “of” after “to”.
 
-Subsec. (a)(9)(B). Pub. L. 99–554, § 283(v)(2), inserted reference to section 507(a)(6).
+Subsec. (a)(9)(B). Pub. L. 99–554, § 283(v)(2), inserted reference to section 507(a)(6).
 
-Subsec. (a)(9)(C). Pub. L. 99–554, § 283(v)(3), substituted “507(a)(7)” for “507(a)(6)”.
+Subsec. (a)(9)(C). Pub. L. 99–554, § 283(v)(3), substituted “507(a)(7)” for “507(a)(6)”.
 
-Subsec. (a)(12). Pub. L. 99–554, § 225, added par. (12).
+Subsec. (a)(12). Pub. L. 99–554, § 225, added par. (12).
 
-1984—Subsec. (a)(1), (2). Pub. L. 98–353, § 512(a)(1), (2), substituted “title” for “chapter”.
+1984—Subsec. (a)(1), (2). Pub. L. 98–353, § 512(a)(1), (2), substituted “title” for “chapter”.
 
-Subsec. (a)(4). Pub. L. 98–353, § 512(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “(A) Any payment made or promised by the proponent, by the debtor, or by a person issuing securities or acquiring property under the plan, for services or for costs and expenses in, or in connection with, the case, or in connection with the plan and incident to the case, has been disclosed to the court; and (B)(i) any such payment made before confirmation of the plan is reasonable; or (ii) if such payment is to be fixed after confirmation of the plan, such payment is subject to the approval of the court as reasonable.”
+Subsec. (a)(4). Pub. L. 98–353, § 512(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “(A) Any payment made or promised by the proponent, by the debtor, or by a person issuing securities or acquiring property under the plan, for services or for costs and expenses in, or in connection with, the case, or in connection with the plan and incident to the case, has been disclosed to the court; and (B)(i) any such payment made before confirmation of the plan is reasonable; or (ii) if such payment is to be fixed after confirmation of the plan, such payment is subject to the approval of the court as reasonable.”
 
-Subsec. (a)(5)(A)(ii). Pub. L. 98–353, § 512(a)(4), substituted “; and” for the period at the end.
+Subsec. (a)(5)(A)(ii). Pub. L. 98–353, § 512(a)(4), substituted “; and” for the period at the end.
 
-Subsec. (a)(5)(B). Pub. L. 98–353, § 512(a)(5), substituted “the” for “The”.
+Subsec. (a)(5)(B). Pub. L. 98–353, § 512(a)(5), substituted “the” for “The”.
 
-Subsec. (a)(6). Pub. L. 98–353, § 512(a)(6), inserted “governmental” after “Any”.
+Subsec. (a)(6). Pub. L. 98–353, § 512(a)(6), inserted “governmental” after “Any”.
 
-Subsec. (a)(7). Pub. L. 98–353, § 512(a)(7)(A), substituted “of each impaired class of claims or interests” for “each class”.
+Subsec. (a)(7). Pub. L. 98–353, § 512(a)(7)(A), substituted “of each impaired class of claims or interests” for “each class”.
 
-Subsec. (a)(7)(B). Pub. L. 98–353, § 512(a)(7)(B), substituted “holder’s” for “creditor’s”.
+Subsec. (a)(7)(B). Pub. L. 98–353, § 512(a)(7)(B), substituted “holder’s” for “creditor’s”.
 
-Subsec. (a)(8). Pub. L. 98–353, § 512(a)(8), inserted “of claims or interests” after “each class”.
+Subsec. (a)(8). Pub. L. 98–353, § 512(a)(8), inserted “of claims or interests” after “each class”.
 
-Subsec. (a)(10). Pub. L. 98–353, § 512(a)(9), substituted “If a class of claims is impaired under the plan, at least one class of claims that is impaired under the plan has accepted the plan, determined without including any acceptance of the plan by any insider” for “At least one class of claims has accepted the plan, determined without including any acceptance of the plan by any insider holding a claim of such class”.
+Subsec. (a)(10). Pub. L. 98–353, § 512(a)(9), substituted “If a class of claims is impaired under the plan, at least one class of claims that is impaired under the plan has accepted the plan, determined without including any acceptance of the plan by any insider” for “At least one class of claims has accepted the plan, determined without including any acceptance of the plan by any insider holding a claim of such class”.
 
-Subsec. (b)(2)(A)(i)(I), (ii). Pub. L. 98–353, § 512(b)(1), substituted “liens” for “lien” wherever appearing.
+Subsec. (b)(2)(A)(i)(I), (ii). Pub. L. 98–353, § 512(b)(1), substituted “liens” for “lien” wherever appearing.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 98–353, § 512(b)(2), inserted “under the plan” after “retain”.
+Subsec. (b)(2)(B)(ii). Pub. L. 98–353, § 512(b)(2), inserted “under the plan” after “retain”.
 
-Subsec. (b)(2)(C)(i). Pub. L. 98–353, § 512(b)(3), substituted “interest” for “claim”, and “or the value” for “and the value”.
+Subsec. (b)(2)(C)(i). Pub. L. 98–353, § 512(b)(3), substituted “interest” for “claim”, and “or the value” for “and the value”.
 
-Subsec. (d). Pub. L. 98–353, § 512(c), inserted “the application of” and provisions requiring that in any hearing under this subsection, the governmental unit has the burden of proof on the issue of avoidance.
+Subsec. (d). Pub. L. 98–353, § 512(c), inserted “the application of” and provisions requiring that in any hearing under this subsection, the governmental unit has the burden of proof on the issue of avoidance.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2273,7 +2273,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 ## SUBCHAPTER III—POSTCONFIRMATION MATTERS
 
-### § 1141. Effect of confirmation
+### § 1141. Effect of confirmation
 
 **(a)** Except as provided in subsections (d)(2) and (d)(3) of this section, the provisions of a confirmed plan bind the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan, and any creditor, equity security holder, or general partner in the debtor, whether or not the claim or interest of such creditor, equity security holder, or general partner is impaired under the plan and whether or not such creditor, equity security holder, or general partner has accepted the plan.
 
@@ -2337,7 +2337,7 @@ and if the requirements of subparagraph (A) or (B) are met.
 
 **(ii)** willfully attempted in any manner to evade or to defeat such tax or such customs duty.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2638; Pub. L. 98–353, title III, § 513, July 10, 1984, 98 Stat. 387; Pub. L. 109–8, title III, §§ 321(d), 330(b), title VII, § 708, Apr. 20, 2005, 119 Stat. 95, 101, 126; Pub. L. 111–327, § 2(a)(36), Dec. 22, 2010, 124 Stat. 3561.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2638; Pub. L. 98–353, title III, § 513, July 10, 1984, 98 Stat. 387; Pub. L. 109–8, title III, §§ 321(d), 330(b), title VII, § 708, Apr. 20, 2005, 119 Stat. 95, 101, 126; Pub. L. 111–327, § 2(a)(36), Dec. 22, 2010, 124 Stat. 3561.)
 
 **Historical and Revision Notes**
 
@@ -2367,21 +2367,21 @@ Paragraph (2) [of subsec. (d)] makes applicable to an individual debtor the gene
 
 **Amendments**
 
-2010—Subsec. (d)(5)(B)(iii). Pub. L. 111–327, § 2(a)(36)(A), added cl. (iii).
+2010—Subsec. (d)(5)(B)(iii). Pub. L. 111–327, § 2(a)(36)(A), added cl. (iii).
 
-Subsec. (d)(5)(C). Pub. L. 111–327, § 2(a)(36)(B), substituted “the court may grant a discharge if,” for “unless” in introductory provisions and inserted concluding provisions.
+Subsec. (d)(5)(C). Pub. L. 111–327, § 2(a)(36)(B), substituted “the court may grant a discharge if,” for “unless” in introductory provisions and inserted concluding provisions.
 
-2005—Subsec. (d)(2). Pub. L. 109–8, § 321(d)(1), substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
+2005—Subsec. (d)(2). Pub. L. 109–8, § 321(d)(1), substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
 
-Subsec. (d)(5). Pub. L. 109–8, § 321(d)(2), added par. (5).
+Subsec. (d)(5). Pub. L. 109–8, § 321(d)(2), added par. (5).
 
-Subsec. (d)(5)(C). Pub. L. 109–8, § 330(b), added subpar. (C).
+Subsec. (d)(5)(C). Pub. L. 109–8, § 330(b), added subpar. (C).
 
-Subsec. (d)(6). Pub. L. 109–8, § 708, added par. (6).
+Subsec. (d)(6). Pub. L. 109–8, § 708, added par. (6).
 
-1984—Subsec. (a). Pub. L. 98–353, § 513(a), substituted “any creditor, equity security holder, or general partner in” for “any creditor or equity security holder of, or general partner in,”.
+1984—Subsec. (a). Pub. L. 98–353, § 513(a), substituted “any creditor, equity security holder, or general partner in” for “any creditor or equity security holder of, or general partner in,”.
 
-Subsec. (c). Pub. L. 98–353, § 513(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan.”
+Subsec. (c). Pub. L. 98–353, § 513(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2393,23 +2393,23 @@ Amendments by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amend
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1142. Implementation of plan
+### § 1142. Implementation of plan
 
 **(a)** Notwithstanding any otherwise applicable nonbankruptcy law, rule, or regulation relating to financial condition, the debtor and any entity organized or to be organized for the purpose of carrying out the plan shall carry out the plan and shall comply with any orders of the court.
 
 **(b)** The court may direct the debtor and any other necessary party to execute or deliver or to join in the execution or delivery of any instrument required to effect a transfer of property dealt with by a confirmed plan, and to perform any other act, including the satisfaction of any lien, that is necessary for the consummation of the plan.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, § 514(a), (c), (d), July 10, 1984, 98 Stat. 387.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, § 514(a), (c), (d), July 10, 1984, 98 Stat. 387.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Pub. L. 98–353, § 514(a), substituted “Implementation” for “Execution” in section catchline.
+1984—Pub. L. 98–353, § 514(a), substituted “Implementation” for “Execution” in section catchline.
 
-Subsec. (a). Pub. L. 98–353, § 514(c), struck out the comma after “shall carry out the plan”.
+Subsec. (a). Pub. L. 98–353, § 514(c), struck out the comma after “shall carry out the plan”.
 
-Subsec. (b). Pub. L. 98–353, § 514(d), inserted “a” after “by”.
+Subsec. (b). Pub. L. 98–353, § 514(d), inserted “a” after “by”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2417,7 +2417,7 @@ Subsec. (b). Pub. L. 98–353, § 514(d), inserted “a” after “by”.
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1143. Distribution
+### § 1143. Distribution
 
 If a plan requires presentment or surrender of a security or the performance of any other act as a condition to participation in distribution under the plan, such action shall be taken not later than five years after the date of the entry of the order of confirmation. Any entity that has not within such time presented or surrendered such entity’s security or taken any such other action that the plan requires may not participate in distribution under the plan.
 
@@ -2429,7 +2429,7 @@ If a plan requires presentment or surrender of a security or the performance of 
 
 Section 1143 fixes a 5-year limitation on presentment or surrender of securities or the performance of any other act that is a condition to participation in distribution under the plan. The 5 years runs from the date of the entry of the order of confirmation. Any entity that does not take the appropriate action with the 5-year period is barred from participation in the distribution under the plan.
 
-### § 1144. Revocation of an order of confirmation
+### § 1144. Revocation of an order of confirmation
 
 On request of a party in interest at any time before 180 days after the date of the entry of the order of confirmation, and after notice and a hearing, the court may revoke such order if and only if such order was procured by fraud. An order under this section revoking an order of confirmation shall—
 
@@ -2437,7 +2437,7 @@ On request of a party in interest at any time before 180 days after the date of 
 
 **(2)** revoke the discharge of the debtor.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, § 515, July 10, 1984, 98 Stat. 387.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, § 515, July 10, 1984, 98 Stat. 387.)
 
 **Historical and Revision Notes**
 
@@ -2457,7 +2457,7 @@ If an order of confirmation was procured by fraud, then the court may revoke the
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1145. Exemption from securities laws
+### § 1145. Exemption from securities laws
 
 **(a)** Except with respect to an entity that is an underwriter as defined in subsection (b) of this section, section 5 of the Securities Act of 1933 and any State or local law requiring registration for offer or sale of a security or registration or licensing of an issuer of, underwriter of, or broker or dealer in, a security do not apply to—
 
@@ -2519,13 +2519,13 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)** The Trust Indenture Act of 1939 does not apply to a note issued under the plan that matures not later than one year after the effective date of the plan.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, § 516, July 10, 1984, 98 Stat. 387; Pub. L. 103–394, title V, § 501(d)(33), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 111–327, § 2(a)(37), Dec. 22, 2010, 124 Stat. 3561.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, § 516, July 10, 1984, 98 Stat. 387; Pub. L. 103–394, title V, § 501(d)(33), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 111–327, § 2(a)(37), Dec. 22, 2010, 124 Stat. 3561.)
 
 **Historical and Revision Notes**
 
 **legislative statements**
 
-Section 1145 of the House amendment deletes a provision contained in section 1145(a)(1) of the House bill in favor of a more adequate provision contained in section 364(f) of the House amendment. In addition, section 1145(d) has been added to indicate that the Trust Indenture Act [15 U.S.C. 77aaa et seq.] does not apply to a commercial note issued under a plan, if the note matures not later than 1 year after the effective date of the plan. Some commercial notes receive such an exemption under 304(a)(4) of the Trust Indenture Act of 1939 (15 U.S.C. § 77ddd(a)(4)) and others may receive protection by incorporation by reference into the Trust Indenture Act of securities exempt under section 3a(3), (7), (9), or (10) of the Securities Act of 1933 [15 U.S.C. 77c(a)(3), (7), (9), (10)].
+Section 1145 of the House amendment deletes a provision contained in section 1145(a)(1) of the House bill in favor of a more adequate provision contained in section 364(f) of the House amendment. In addition, section 1145(d) has been added to indicate that the Trust Indenture Act [15 U.S.C. 77aaa et seq.] does not apply to a commercial note issued under a plan, if the note matures not later than 1 year after the effective date of the plan. Some commercial notes receive such an exemption under 304(a)(4) of the Trust Indenture Act of 1939 (15 U.S.C. § 77ddd(a)(4)) and others may receive protection by incorporation by reference into the Trust Indenture Act of securities exempt under section 3a(3), (7), (9), or (10) of the Securities Act of 1933 [15 U.S.C. 77c(a)(3), (7), (9), (10)].
 
 In light of the amendments made to the Securities Act of 1933 [15 U.S.C. 77a et seq.] in title III of the House amendment to H.R. 8200, a specific exemption from the Trust Indenture Act [15 U.S.C. 77aaa et seq.] is required in order to create certainty regarding plans of reorganization. Section 1145(d) is not intended to imply that commercial notes issued under a plan that matures more than 1 year after the effective date of the plan are automatically covered by the Trust Indenture Act of 1939 since such notes may fall within another exemption thereto.
 
@@ -2569,33 +2569,33 @@ Section 5 of the Securities Act of 1933, referred to in subsec. (a), is classifi
 
 Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(i), are classified to sections 78m and 78*o*(d), respectively, of Title 15, Commerce and Trade.
 
-The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
 
 **Amendments**
 
 2010—Subsec. (b). Pub. L. 111–327 substituted “2(a)(11)” for “2(11)” wherever appearing.
 
-1994—Subsec. (a). Pub. L. 103–394, § 501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78*o*(d))” after “Act of 1934”.
+1994—Subsec. (a). Pub. L. 103–394, § 501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78*o*(d))” after “Act of 1934”.
 
-Subsec. (b)(1). Pub. L. 103–394, § 501(d)(33)(B), struck out “(15 U.S.C. 77b(11))” after “Act of 1933”.
+Subsec. (b)(1). Pub. L. 103–394, § 501(d)(33)(B), struck out “(15 U.S.C. 77b(11))” after “Act of 1933”.
 
-Subsec. (d). Pub. L. 103–394, § 501(d)(33)(C), struck out “(15 U.S.C. 77aaa et seq.)” after “Act of 1939”.
+Subsec. (d). Pub. L. 103–394, § 501(d)(33)(C), struck out “(15 U.S.C. 77aaa et seq.)” after “Act of 1939”.
 
-1984—Subsec. (a)(3)(B)(i). Pub. L. 98–353, § 516(a)(1), inserted “or 15(d)” after “13”, and “or 78*o*(d)” after “78m”.
+1984—Subsec. (a)(3)(B)(i). Pub. L. 98–353, § 516(a)(1), inserted “or 15(d)” after “13”, and “or 78*o*(d)” after “78m”.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 98–353, § 516(a)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in compliance with all applicable requirements for the continuance of trading in such security on the date of such offer or sale; and”.
+Subsec. (a)(3)(B)(ii). Pub. L. 98–353, § 516(a)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in compliance with all applicable requirements for the continuance of trading in such security on the date of such offer or sale; and”.
 
-Subsec. (a)(4). Pub. L. 98–353, § 516(a)(3), substituted “stockbroker” for “stockholder” in two places.
+Subsec. (a)(4). Pub. L. 98–353, § 516(a)(3), substituted “stockbroker” for “stockholder” in two places.
 
-Subsec. (b)(1). Pub. L. 98–353, § 516(b)(1), inserted “and except with respect to ordinary trading transactions of an entity that is not an issuer”.
+Subsec. (b)(1). Pub. L. 98–353, § 516(b)(1), inserted “and except with respect to ordinary trading transactions of an entity that is not an issuer”.
 
-Subsec. (b)(1)(C). Pub. L. 98–353, § 516(b)(2), substituted “from” for “for”.
+Subsec. (b)(1)(C). Pub. L. 98–353, § 516(b)(2), substituted “from” for “for”.
 
-Subsec. (b)(2)(A)(i). Pub. L. 98–353, § 516(b)(3), substituted “or combining” for “combination”.
+Subsec. (b)(2)(A)(i). Pub. L. 98–353, § 516(b)(3), substituted “or combining” for “combination”.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 98–353, § 516(b)(4), substituted “from or to” for “among”.
+Subsec. (b)(2)(A)(ii). Pub. L. 98–353, § 516(b)(4), substituted “from or to” for “among”.
 
-Subsec. (d). Pub. L. 98–353, § 516(c), struck out “commercial” before “note”.
+Subsec. (d). Pub. L. 98–353, § 516(c), struck out “commercial” before “note”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2607,7 +2607,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1146. Special tax provisions
+### § 1146. Special tax provisions
 
 **(a)** The issuance, transfer, or exchange of a security, or the making or delivery of an instrument of transfer under a plan confirmed under section 1129 or 1191 of this title, may not be taxed under any law imposing a stamp tax or similar tax.
 
@@ -2617,7 +2617,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** 270 days after such request.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641; Pub. L. 98–353, title III, § 517, July 10, 1984, 98 Stat. 388; Pub. L. 109–8, title VII, § 719(b)(3), Apr. 20, 2005, 119 Stat. 133; Pub. L. 116–54, § 4(a)(12), Aug. 23, 2019, 133 Stat. 1086.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641; Pub. L. 98–353, title III, § 517, July 10, 1984, 98 Stat. 388; Pub. L. 109–8, title VII, § 719(b)(3), Apr. 20, 2005, 119 Stat. 133; Pub. L. 116–54, § 4(a)(12), Aug. 23, 2019, 133 Stat. 1086.)
 
 **Historical and Revision Notes**
 
@@ -2661,9 +2661,9 @@ Subsection (d) permits the court to authorize the proponent of a plan to request
 
 “(b) The trustee shall make a State or local tax return of income for the estate of an individual debtor in a case under this chapter for each taxable period after the order for relief under this chapter during which the case is pending.”
 
-1984—Subsec. (c). Pub. L. 98–353, § 517(a), struck out “State or local” before “law imposing a stamp tax”.
+1984—Subsec. (c). Pub. L. 98–353, § 517(a), struck out “State or local” before “law imposing a stamp tax”.
 
-Subsec. (d)(1). Pub. L. 98–353, § 517(b), substituted “or” for “and”.
+Subsec. (d)(1). Pub. L. 98–353, § 517(b), substituted “or” for “and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2681,7 +2681,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 ## SUBCHAPTER IV—RAILROAD REORGANIZATION
 
-### § 1161. Inapplicability of other sections
+### § 1161. Inapplicability of other sections
 
 Sections 341, 343, 1102(a)(1), 1104, 1105, 1107, 1129(a)(7), and 1129(c) of this title do not apply in a case concerning a railroad.
 
@@ -2693,17 +2693,17 @@ Sections 341, 343, 1102(a)(1), 1104, 1105, 1107, 1129(a)(7), and 1129(c) of this
 
 This section makes inapplicable sections of the bill which are either inappropriate in railroad reorganizations, or relate to matters which are otherwise dealt with in subchapter IV.
 
-### § 1162. Definition
+### § 1162. Definition
 
 In this subchapter, “Board” means the “Surface Transportation Board”.
 
-(Added Pub. L. 104–88, title III, § 302(1), Dec. 29, 1995, 109 Stat. 943.)
+(Added Pub. L. 104–88, title III, § 302(1), Dec. 29, 1995, 109 Stat. 943.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1162, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641, defined “Commission”, prior to repeal by Pub. L. 104–88, title III, § 302(1), Dec. 29, 1995, 109 Stat. 943.
+A prior section 1162, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641, defined “Commission”, prior to repeal by Pub. L. 104–88, title III, § 302(1), Dec. 29, 1995, 109 Stat. 943.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2711,11 +2711,11 @@ A prior section 1162, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641, defined “
 
 Section effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of Title 49, Transportation.
 
-### § 1163. Appointment of trustee
+### § 1163. Appointment of trustee
 
 As soon as practicable after the order for relief the Secretary of Transportation shall submit a list of five disinterested persons that are qualified and willing to serve as trustees in the case. The United States trustee shall appoint one of such persons to serve as trustee in the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641; Pub. L. 99–554, title II, § 226, Oct. 27, 1986, 100 Stat. 3102.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641; Pub. L. 99–554, title II, § 226, Oct. 27, 1986, 100 Stat. 3102.)
 
 **Historical and Revision Notes**
 
@@ -2745,11 +2745,11 @@ The House amendment deletes section 1163 of the Senate amendment in order to cov
 
 Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-### § 1164. Right to be heard
+### § 1164. Right to be heard
 
 The Board, the Department of Transportation, and any State or local commission having regulatory jurisdiction over the debtor may raise and may appear and be heard on any issue in a case under this chapter, but may not appeal from any judgment, order, or decree entered in the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641; Pub. L. 104–88, title III, § 302(2), Dec. 29, 1995, 109 Stat. 943.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641; Pub. L. 104–88, title III, § 302(2), Dec. 29, 1995, 109 Stat. 943.)
 
 **Historical and Revision Notes**
 
@@ -2775,7 +2775,7 @@ Section 1164 of the House amendment is derived from section 1163 of the House bi
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
-### § 1165. Protection of the public interest
+### § 1165. Protection of the public interest
 
 In applying sections 1166, 1167, 1169, 1170, 1171, 1172, 1173, and 1174 of this title, the court and the trustee shall consider the public interest in addition to the interests of the debtor, creditors, and equity security holders.
 
@@ -2793,7 +2793,7 @@ Section 1165 requires the court, in consideration of the relief to be granted up
 
 Section 1167 [enacted as section 1165] imposes on the trustee the obligations, in addition to his other duties and responsibilities, to take into account the “public interest” in the preservation of the debtor’s rail service.
 
-### § 1166. Effect of subtitle IV of title 49 and of Federal, State, or local regulations
+### § 1166. Effect of subtitle IV of title 49 and of Federal, State, or local regulations
 
 Except with respect to abandonment under section 1170 of this title, or merger, modification of the financial structure of the debtor, or issuance or sale of securities under a plan, the trustee and the debtor are subject to the provisions of subtitle IV of title 49 that are applicable to railroads, and the trustee is subject to orders of any Federal, State, or local regulatory body to the same extent as the debtor would be if a petition commencing the case under this chapter had not been filed, but—
 
@@ -2801,7 +2801,7 @@ Except with respect to abandonment under section 1170 of this title, or merger, 
 
 **(2)** the provisions of this chapter are subject to section 601(b) of the Regional Rail Reorganization Act of 1973.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 97–449, § 5(a)(2), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 98–353, title III, § 518, July 10, 1984, 98 Stat. 388; Pub. L. 103–394, title V, § 501(d)(34), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 97–449, § 5(a)(2), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 98–353, title III, § 518, July 10, 1984, 98 Stat. 388; Pub. L. 103–394, title V, § 501(d)(34), Oct. 22, 1994, 108 Stat. 4146.)
 
 **Historical and Revision Notes**
 
@@ -2843,11 +2843,11 @@ Section 601(b) of the Regional Rail Reorganization Act of 1973, referred to in p
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-### § 1167. Collective bargaining agreements
+### § 1167. Collective bargaining agreements
 
 Notwithstanding section 365 of this title, neither the court nor the trustee may change the wages or working conditions of employees of the debtor established by a collective bargaining agreement that is subject to the Railway Labor Act except in accordance with section 6 of such Act.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 103–394, title V, § 501(d)(35), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 103–394, title V, § 501(d)(35), Oct. 22, 1994, 108 Stat. 4146.)
 
 **Historical and Revision Notes**
 
@@ -2863,7 +2863,7 @@ Section 1167 is derived from present section 77(n) [section 205(n) of former tit
 
 **References in Text**
 
-The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. Section 6 of the Act is classified to section 156 of Title 45. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. Section 6 of the Act is classified to section 156 of Title 45. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 **Amendments**
 
@@ -2875,7 +2875,7 @@ The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Sta
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-### § 1168. Rolling stock equipment
+### § 1168. Rolling stock equipment
 
 **(a)**
 
@@ -2919,7 +2919,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 **(e)** With respect to equipment first placed in service after October 22, 1994, for purposes of this section, the term “rolling stock equipment” includes rolling stock equipment that is substantially rebuilt and accessories used on such equipment.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 98–353, title III, § 519, July 10, 1984, 98 Stat. 388; Pub. L. 103–394, title II, § 201(b), Oct. 22, 1994, 108 Stat. 4120; Pub. L. 106–181, title VII, § 744(a), Apr. 5, 2000, 114 Stat. 175.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 98–353, title III, § 519, July 10, 1984, 98 Stat. 388; Pub. L. 103–394, title II, § 201(b), Oct. 22, 1994, 108 Stat. 4120; Pub. L. 106–181, title VII, § 744(a), Apr. 5, 2000, 114 Stat. 175.)
 
 **Historical and Revision Notes**
 
@@ -2975,7 +2975,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1169. Effect of rejection of lease of railroad line
+### § 1169. Effect of rejection of lease of railroad line
 
 **(a)** Except as provided in subsection (b) of this section, if a lease of a line of railroad under which the debtor is the lessee is rejected under section 365 of this title, and if the trustee, within such time as the court fixes, and with the court’s approval, elects not to operate the leased line, the lessor under such lease, after such approval, shall operate the line.
 
@@ -2983,7 +2983,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(c)** During any such operation, such lessor is deemed a carrier subject to the provisions of subtitle IV of title 49 that are applicable to railroads.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 97–449, § 5(a)(3), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 98–353, title III, § 520, July 10, 1984, 98 Stat. 388.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 97–449, § 5(a)(3), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 98–353, title III, § 520, July 10, 1984, 98 Stat. 388.)
 
 **Historical and Revision Notes**
 
@@ -3009,9 +3009,9 @@ Subsection (c) deems the lessor a carrier subject to the provisions of the Inter
 
 1984—Subsec. (c). Pub. L. 98–353 directed substitution of “subtitle IV of title 49” for “the Interstate Commerce Act (49 U.S.C. 1 et seq.)”, which substitution had previously been made by Pub. L. 97–449.
 
-1983—Subsec. (c). Pub. L. 97–449 substituted “sub­title IV of title 49” for “the Interstate Commerce Act (49 U.S.C. § 1 et seq.)”.
+1983—Subsec. (c). Pub. L. 97–449 substituted “sub­title IV of title 49” for “the Interstate Commerce Act (49 U.S.C. § 1 et seq.)”.
 
-### § 1170. Abandonment of railroad line
+### § 1170. Abandonment of railroad line
 
 **(a)** The court, after notice and a hearing, may authorize the abandonment of all or a portion of a railroad line if such abandonment is—
 
@@ -3039,7 +3039,7 @@ Subsection (c) deems the lessor a carrier subject to the provisions of the Inter
 
 **(2)** Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 96–448, title II, § 227(a), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 98–353, title III, § 521, July 10, 1984, 98 Stat. 388; Pub. L. 104–88, title III, § 302(2), Dec. 29, 1995, 109 Stat. 943; Pub. L. 109–8, title XII, § 1217, Apr. 20, 2005, 119 Stat. 195.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 96–448, title II, § 227(a), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 98–353, title III, § 521, July 10, 1984, 98 Stat. 388; Pub. L. 104–88, title III, § 302(2), Dec. 29, 1995, 109 Stat. 943; Pub. L. 109–8, title XII, § 1217, Apr. 20, 2005, 119 Stat. 195.)
 
 **Historical and Revision Notes**
 
@@ -3061,11 +3061,11 @@ Subsection (d) stays the enforcement of an abandonment until the time for taking
 
 1995—Subsecs. (b), (c), (d)(2). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
 
-1984—Subsec. (a). Pub. L. 98–353, § 521(a), inserted “of all or a portion” after “the abandonment”.
+1984—Subsec. (a). Pub. L. 98–353, § 521(a), inserted “of all or a portion” after “the abandonment”.
 
-Subsec. (c). Pub. L. 98–353, § 521(b), inserted a comma after “abandonment”.
+Subsec. (c). Pub. L. 98–353, § 521(b), inserted a comma after “abandonment”.
 
-Subsec. (d)(2). Pub. L. 98–353, § 521(c), substituted “such abandonment” for “the abandonment of a railroad line”, and “suspension” for “termination” in two places.
+Subsec. (d)(2). Pub. L. 98–353, § 521(c), substituted “such abandonment” for “the abandonment of a railroad line”, and “suspension” for “termination” in two places.
 
 1980—Subsec. (e). Pub. L. 96–448 added subsec. (e).
 
@@ -3085,7 +3085,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–448, title VII, § 710, Oct. 14, 1980, 94 Stat. 1966, provided that:
+Pub. L. 96–448, title VII, § 710, Oct. 14, 1980, 94 Stat. 1966, provided that:
 
 > **“(a)** Except as provided in subsections (b), (c), and (d) of this section, the provisions of this Act and the amendments made by this Act [see Tables for classification] shall take effect on October 1, 1980.
 
@@ -3095,13 +3095,13 @@ Pub. L. 96–448, title VII, § 710, Oct. 14, 1980, 94 Stat. 1966, provided th
 
 > **“(d)** Section 701 of this Act [enacting section 1018 of Title 45, Railroads, and amending sections 231f, 825, 906, 913, 914, 1002, 1005, 1007, and 1008 of Title 45] shall take effect on the date of enactment of this Act [Oct. 14, 1980].”
 
-### § 1171. Priority claims
+### § 1171. Priority claims
 
 **(a)** There shall be paid as an administrative expense any claim of an individual or of the personal representative of a deceased individual against the debtor or the estate, for personal injury to or death of such individual arising out of the operation of the debtor or the estate, whether such claim arose before or after the commencement of the case.
 
 **(b)** Any unsecured claim against the debtor that would have been entitled to priority if a receiver in equity of the property of the debtor had been appointed by a Federal court on the date of the order for relief under this title shall be entitled to the same priority in the case under this chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 98–353, title III, § 522, July 10, 1984, 98 Stat. 388.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 98–353, title III, § 522, July 10, 1984, 98 Stat. 388.)
 
 **Historical and Revision Notes**
 
@@ -3127,7 +3127,7 @@ Subsection (b) follows present section 77(b) of the Bankruptcy Act [section 205(
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1172. Contents of plan
+### § 1172. Contents of plan
 
 **(a)** In addition to the provisions required or permitted under section 1123 of this title, a plan—
 
@@ -3147,7 +3147,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, § 227(b), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 104–88, title III, § 302(2), Dec. 29, 1995, 109 Stat. 943; Pub. L. 109–8, title XII, § 1218, Apr. 20, 2005, 119 Stat. 195.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, § 227(b), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 104–88, title III, § 302(2), Dec. 29, 1995, 109 Stat. 943; Pub. L. 109–8, title XII, § 1218, Apr. 20, 2005, 119 Stat. 195.)
 
 **Historical and Revision Notes**
 
@@ -3205,7 +3205,7 @@ Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub.
 
 For provision that subsec. (c) of this section does not apply to Amtrak and its employees, see section 142(d) of Pub. L. 105–134, set out in an Employee Protection Reforms note under section 24706 of Title 49, Transportation.
 
-### § 1173. Confirmation of plan
+### § 1173. Confirmation of plan
 
 **(a)** The court shall confirm a plan if—
 
@@ -3219,7 +3219,7 @@ For provision that subsec. (c) of this section does not apply to Amtrak and its 
 
 **(b)** If the requirements of subsection (a) of this section are met with respect to more than one plan, the court shall confirm the plan that is most likely to maintain adequate rail service in the public interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 98–353, title III, § 523, July 10, 1984, 98 Stat. 388.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 98–353, title III, § 523, July 10, 1984, 98 Stat. 388.)
 
 **Historical and Revision Notes**
 
@@ -3255,7 +3255,7 @@ The public interest requirement, found in current law, will now be decided by th
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 1174. Liquidation
+### § 1174. Liquidation
 
 On request of a party in interest and after notice and a hearing, the court may, or, if a plan has not been confirmed under section 1173 of this title before five years after the date of the order for relief, the court shall, order the trustee to cease the debtor’s operation and to collect and reduce to money all of the property of the estate in the same manner as if the case were a case under chapter 7 of this title.
 
@@ -3275,7 +3275,7 @@ Section 1174 permits the court to convert the case to a liquidation under chapte
 
 ## SUBCHAPTER V—SMALL BUSINESS DEBTOR REORGANIZATION
 
-### § 1181. Inapplicability of other sections
+### § 1181. Inapplicability of other sections
 
 **(a) In General.—** Sections 105(d), 1101(1), 1104, 1105, 1106, 1107, 1108, 1115, 1116, 1121, 1123(a)(8), 1123(c), 1127, 1129(a)(15), 1129(b), 1129(c), 1129(e), and 1141(d)(5) of this title do not apply in a case under this subchapter.
 
@@ -3283,7 +3283,7 @@ Section 1174 permits the court to convert the case to a liquidation under chapte
 
 **(c) Special Rule for Discharge.—** If a plan is confirmed under section 1191(b) of this title, section 1141(d) of this title shall not apply, except as provided in section 1192 of this title.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1079.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1079.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3291,7 +3291,7 @@ Section 1174 permits the court to convert the case to a liquidation under chapte
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1182. Definitions
+### § 1182. Definitions
 
 In this subchapter:
 
@@ -3299,19 +3299,19 @@ In this subchapter:
 
 **(2) Debtor in possession.—** The term “debtor in possession” means the debtor, unless removed as debtor in possession under section 1185(a) of this title.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1079; amended Pub. L. 116–136, div. A, title I, § 1113(a)(1), (5), Mar. 27, 2020, 134 Stat. 310, 311; Pub. L. 117–151, § 2(d), (i)(1)(B), June 21, 2022, 136 Stat. 1298, 1300.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1079; amended Pub. L. 116–136, div. A, title I, § 1113(a)(1), (5), Mar. 27, 2020, 134 Stat. 310, 311; Pub. L. 117–151, § 2(d), (i)(1)(B), June 21, 2022, 136 Stat. 1298, 1300.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Par. (1). Pub. L. 117–151, § 2(i)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining “debtor”.
+2022—Par. (1). Pub. L. 117–151, § 2(i)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining “debtor”.
 
-Pub. L. 117–151, § 2(d), amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘debtor’ means a small business debtor.”
+Pub. L. 117–151, § 2(d), amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘debtor’ means a small business debtor.”
 
-2020—Par. (1). Pub. L. 116–136, § 1113(a)(5), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining “debtor”.
+2020—Par. (1). Pub. L. 116–136, § 1113(a)(5), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining “debtor”.
 
-Pub. L. 116–136, § 1113(a)(1), temporarily amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘debtor’ means a small business debtor.”
+Pub. L. 116–136, § 1113(a)(1), temporarily amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘debtor’ means a small business debtor.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3319,19 +3319,19 @@ Pub. L. 116–136, § 1113(a)(1), temporarily amended par. (1) generally. Prio
 
 Amendment by section 2(d) of Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under section 101 of this title.
 
-Pub. L. 117–151, § 2(i)(1), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(B) is effective on the date that is 2 years after June 21, 2022.
+Pub. L. 117–151, § 2(i)(1), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(B) is effective on the date that is 2 years after June 21, 2022.
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–136, div. A, title I, § 1113(a)(3), Mar. 27, 2020, 134 Stat. 311, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to cases commenced under title 11, United States Code, on or after the date of enactment of this Act [Mar. 27, 2020].”
+Pub. L. 116–136, div. A, title I, § 1113(a)(3), Mar. 27, 2020, 134 Stat. 311, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to cases commenced under title 11, United States Code, on or after the date of enactment of this Act [Mar. 27, 2020].”
 
-Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, as amended by Pub. L. 117–5, § 2(a)(1), Mar. 27, 2021, 135 Stat. 249, provided in part that the amendment made by section 1113(a)(5) of Pub. L. 116–136 is effective 2 years after Mar. 27, 2020.
+Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, as amended by Pub. L. 117–5, § 2(a)(1), Mar. 27, 2021, 135 Stat. 249, provided in part that the amendment made by section 1113(a)(5) of Pub. L. 116–136 is effective 2 years after Mar. 27, 2020.
 
 **Effective Date**
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1183. Trustee
+### § 1183. Trustee
 
 **(a) In General.—** If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this subchapter, and if such individual qualifies as a trustee under section 322 of this title, then that individual shall serve as trustee in any case under this subchapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case, as necessary.
 
@@ -3369,13 +3369,13 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 **(2) Service of notice of substantial consummation.—** Not later than 14 days after the plan of the debtor is substantially consummated, the debtor shall file with the court and serve on the trustee, the United States trustee, and all parties in interest notice of such substantial consummation.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1079; amended Pub. L. 117–151, § 2(e), June 21, 2022, 136 Stat. 1299.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1079; amended Pub. L. 117–151, § 2(e), June 21, 2022, 136 Stat. 1299.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (b)(5). Pub. L. 117–151 substituted “possession—” for “possession,”, designated remainder of existing provisions as subpar. (A), struck out “, including operating the business of the debtor” after “1106(a) of this title”, inserted “and” at end, and added subpar. (B).
+2022—Subsec. (b)(5). Pub. L. 117–151 substituted “possession—” for “possession,”, designated remainder of existing provisions as subpar. (A), struck out “, including operating the business of the debtor” after “1106(a) of this title”, inserted “and” at end, and added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3387,11 +3387,11 @@ Amendment by Pub. L. 117–151 applicable with respect to any case that is comme
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1184. Rights and powers of a debtor in possession
+### § 1184. Rights and powers of a debtor in possession
 
 Subject to such limitations or conditions as the court may prescribe, a debtor in possession shall have all the rights, other than the right to compensation under section 330 of this title, and powers, and shall perform all functions and duties, except the duties specified in paragraphs (2), (3), and (4) of section 1106(a) of this title, of a trustee serving in a case under this chapter, including operating the business of the debtor.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1080.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1080.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3399,13 +3399,13 @@ Subject to such limitations or conditions as the court may prescribe, a debtor i
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1185. Removal of debtor in possession
+### § 1185. Removal of debtor in possession
 
 **(a) In General.—** On request of a party in interest, and after notice and a hearing, the court shall order that the debtor shall not be a debtor in possession for cause, including fraud, dishonesty, incompetence, or gross mismanagement of the affairs of the debtor, either before or after the date of commencement of the case, or for failure to perform the obligations of the debtor under a plan confirmed under this subchapter.
 
 **(b) Reinstatement.—** On request of a party in interest, and after notice and a hearing, the court may reinstate the debtor in possession.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1080.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1080.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3413,7 +3413,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1186. Property of the estate
+### § 1186. Property of the estate
 
 **(a) Inclusions.—** If a plan is confirmed under section 1191(b) of this title, property of the estate includes, in addition to the property specified in section 541 of this title—
 
@@ -3423,7 +3423,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 **(b) Debtor Remaining in Possession.—** Except as provided in section 1185 of this title, a plan confirmed under this subchapter, or an order confirming a plan under this subchapter, the debtor shall remain in possession of all property of the estate.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1081.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1081.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3431,7 +3431,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1187. Duties and reporting requirements of debtors
+### § 1187. Duties and reporting requirements of debtors
 
 **(a) Filing Requirements.—** Upon electing to be a debtor under this subchapter, the debtor shall file the documents required by subparagraphs (A) and (B) of section 1116(1) of this title.
 
@@ -3439,7 +3439,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 **(c) Separate Disclosure Statement Exemption.—** If the court orders under section 1181(b) of this title that section 1125 of this title applies, section 1125(f) of this title shall apply.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1081.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1081.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3447,7 +3447,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1188. Status conference
+### § 1188. Status conference
 
 **(a) In General.—** Except as provided in subsection (b), not later than 60 days after the entry of the order for relief under this chapter, the court shall hold a status conference to further the expeditious and economical resolution of a case under this subchapter.
 
@@ -3455,7 +3455,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 **(c) Report.—** Not later than 14 days before the date of the status conference under subsection (a), the debtor shall file with the court and serve on the trustee and all parties in interest a report that details the efforts the debtor has undertaken and will undertake to attain a consensual plan of reorganization.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1081.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1081.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3463,13 +3463,13 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1189. Filing of the plan
+### § 1189. Filing of the plan
 
 **(a) Who May File a Plan.—** Only the debtor may file a plan under this subchapter.
 
 **(b) Deadline.—** The debtor shall file a plan not later than 90 days after the order for relief under this chapter, except that the court may extend the period if the need for the extension is attributable to circumstances for which the debtor should not justly be held accountable.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1081.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1081.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3477,7 +3477,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1190. Contents of plan
+### § 1190. Contents of plan
 
 A plan filed under this subchapter—
 
@@ -3497,7 +3497,7 @@ A plan filed under this subchapter—
 
 **(B)** used primarily in connection with the small business of the debtor.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1082.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1082.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3505,11 +3505,11 @@ A plan filed under this subchapter—
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1191. Confirmation of plan
+### § 1191. Confirmation of plan
 
-**(a) Terms.—** The court shall confirm a plan under this subchapter only if all of the requirements of section 1129(a), other than paragraph (15) of that section, of this title 1
+**(a) Terms.—** The court shall confirm a plan under this subchapter only if all of the requirements of section 1129(a), other than paragraph (15) of that section, of this title 1
 
-<sup>1</sup>  So in original. The words “of this title” probably should follow “1129(a)”.
+<sup>1</sup> So in original. The words “of this title” probably should follow “1129(a)”.
 
 are met.
 
@@ -3547,7 +3547,7 @@ are met.
 
 **(e) Special Rule.—** Notwithstanding section 1129(a)(9)(A) of this title, a plan that provides for the payment through the plan of a claim of a kind specified in paragraph (2) or (3) of section 507(a) of this title may be confirmed under subsection (b) of this section.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1082; amended Pub. L. 116–260, div. N, title III, § 320(c), (f)(2)(A)(iii), Dec. 27, 2020, 134 Stat. 2016, 2017; Pub. L. 117–151, § 2(f), June 21, 2022, 136 Stat. 1299.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1082; amended Pub. L. 116–260, div. N, title III, § 320(c), (f)(2)(A)(iii), Dec. 27, 2020, 134 Stat. 2016, 2017; Pub. L. 117–151, § 2(f), June 21, 2022, 136 Stat. 1299.)
 
 **Editorial Notes**
 
@@ -3561,9 +3561,9 @@ are met.
 
 “(B) the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.”
 
-2020—Subsec. (f). Pub. L. 116–260, § 320(f)(2)(A)(iii), contingent on its addition by Pub. L. 116–260, § 320(c), struck out subsec. (f). Text read as follows: “Notwithstanding section 1129(a)(9)(A) of this title and subsection (e) of this section, a plan that provides for payment of a claim of a kind specified in section 503(b)(10) of this title may be confirmed under subsection (b) of this section if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.”
+2020—Subsec. (f). Pub. L. 116–260, § 320(f)(2)(A)(iii), contingent on its addition by Pub. L. 116–260, § 320(c), struck out subsec. (f). Text read as follows: “Notwithstanding section 1129(a)(9)(A) of this title and subsection (e) of this section, a plan that provides for payment of a claim of a kind specified in section 503(b)(10) of this title may be confirmed under subsection (b) of this section if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.”
 
-Pub. L. 116–260, § 320(c), added subsec. (f).
+Pub. L. 116–260, § 320(c), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3581,7 +3581,7 @@ Amendment by section 320(c) of div. N of Pub. L. 116–260 effective on the date
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1192. Discharge
+### § 1192. Discharge
 
 If the plan of the debtor is confirmed under section 1191(b) of this title, as soon as practicable after completion by the debtor of all payments due within the first 3 years of the plan, or such longer period not to exceed 5 years as the court may fix, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided in section 1141(d)(1)(A) of this title, and all other debts allowed under section 503 of this title and provided for in the plan, except any debt—
 
@@ -3589,7 +3589,7 @@ If the plan of the debtor is confirmed under section 1191(b) of this title, as s
 
 **(2)** of the kind specified in section 523(a) of this title.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1083.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1083.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3597,7 +3597,7 @@ If the plan of the debtor is confirmed under section 1191(b) of this title, as s
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1193. Modification of plan
+### § 1193. Modification of plan
 
 **(a) Modification Before Confirmation.—** The debtor may modify a plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of sections 1122 and 1123 of this title, with the exception of subsection (a)(8) of such section 1123. After the modification is filed with the court, the plan as modified becomes the plan.
 
@@ -3607,7 +3607,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 **(d) Holders of a Claim or Interest.—** If a plan has been confirmed under section 1191(a) of this title, any holder of a claim or interest that has accepted or rejected the plan is deemed to have accepted or rejected, as the case may be, the plan as modified, unless, within the time fixed by the court, such holder changes the previous acceptance or rejection of the holder.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1083.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1083.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3615,7 +3615,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1194. Payments
+### § 1194. Payments
 
 **(a) Retention and Distribution by Trustee.—** Payments and funds received by the trustee shall be retained by the trustee until confirmation or denial of confirmation of a plan. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan. If a plan is not confirmed, the trustee shall return any such payments to the debtor after deducting—
 
@@ -3629,7 +3629,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 **(c) Payments Prior to Confirmation.—** Prior to confirmation of a plan, the court, after notice and a hearing, may authorize the trustee to make payments to the holder of a secured claim for the purpose of providing adequate protection of an interest in property.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1084.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1084.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3637,11 +3637,11 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.
 
-### § 1195. Transactions with professionals
+### § 1195. Transactions with professionals
 
 Notwithstanding section 327(a) of this title, a person is not disqualified for employment under section 327 of this title, by a debtor solely because that person holds a claim of less than $10,000 that arose prior to commencement of the case.
 
-(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1084.)
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1084.)
 
 **Statutory Notes and Related Subsidiaries**
 

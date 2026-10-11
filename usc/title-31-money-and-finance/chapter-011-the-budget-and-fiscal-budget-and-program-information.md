@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–190, §§ 2(a)(2), 6(c), Dec. 23, 2024, 138 Stat. 2654, 2656, added item 1121 and struck out former item 1121 “Quarterly priority progress reviews and use of performance information” and items 1118 “Pilot projects for performance goals” and 1119 “Pilot projects for performance budgeting”.
+2024—Pub. L. 118–190, §§ 2(a)(2), 6(c), Dec. 23, 2024, 138 Stat. 2654, 2656, added item 1121 and struck out former item 1121 “Quarterly priority progress reviews and use of performance information” and items 1118 “Pilot projects for performance goals” and 1119 “Pilot projects for performance budgeting”.
 
-2011—Pub. L. 111–352, § 13(b), (c), Jan. 4, 2011, 124 Stat. 3882, added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 “Performance plans” and 1116 “Program performance reports”.
+2011—Pub. L. 111–352, § 13(b), (c), Jan. 4, 2011, 124 Stat. 3882, added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 “Performance plans” and 1116 “Program performance reports”.
 
-1994—Pub. L. 103–355, title II, § 2454(c)(3)(B), Oct. 13, 1994, 108 Stat. 3326, struck out item 1114 “Budget information on consulting services”.
+1994—Pub. L. 103–355, title II, § 2454(c)(3)(B), Oct. 13, 1994, 108 Stat. 3326, struck out item 1114 “Budget information on consulting services”.
 
-1993—Pub. L. 103–62, § 11(b)(1), Aug. 3, 1993, 107 Stat. 295, added items 1115 to 1119.
+1993—Pub. L. 103–62, § 11(b)(1), Aug. 3, 1993, 107 Stat. 295, added items 1115 to 1119.
 
-## § 1101. Definitions
+## § 1101. Definitions
 
 In this chapter—
 
@@ -47,8 +47,8 @@ In this chapter—
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1101(1) | 31:2(1st–4th pars.). | June 10, 1921, ch. 18, § 2(1st–5th pars.), 42 Stat. 20; Apr. 3, 1939, ch. 36, § 201, 53 Stat. 565; July 31, 1953, ch. 302, § 101(1st proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299. |
-| 1101(2) | 31:2(last par.). | June 10, 1921, ch. 18, 42 Stat. 20, § 2(last par.); added Sept. 12, 1950, ch. 946, § 101, 64 Stat. 832. |
+| 1101(1) | 31:2(1st–4th pars.). | June 10, 1921, ch. 18, § 2(1st–5th pars.), 42 Stat. 20; Apr. 3, 1939, ch. 36, § 201, 53 Stat. 565; July 31, 1953, ch. 302, § 101(1st proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299. |
+| 1101(2) | 31:2(last par.). | June 10, 1921, ch. 18, 42 Stat. 20, § 2(last par.); added Sept. 12, 1950, ch. 946, § 101, 64 Stat. 832. |
 
 In the section, a reference to 31:71 and 471 is omitted because the definitions in the section are not used in 31:71 and 471.
 
@@ -58,37 +58,37 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–190, § 1, Dec. 23, 2024, 138 Stat. 2653, provided that: “This Act [amending sections 1115, 1116, 1120 to 1122, and 9704 of this title and section 306 of Title 5, Government Organization and Employees, and repealing sections 1118 and 1119 of this title] may be cited as the ‘Federal Agency Performance Act of 2024’.”
+Pub. L. 118–190, § 1, Dec. 23, 2024, 138 Stat. 2653, provided that: “This Act [amending sections 1115, 1116, 1120 to 1122, and 9704 of this title and section 306 of Title 5, Government Organization and Employees, and repealing sections 1118 and 1119 of this title] may be cited as the ‘Federal Agency Performance Act of 2024’.”
 
-Pub. L. 118–172, § 1, Dec. 23, 2024, 138 Stat. 2593, provided that: “This Act [amending sections 1105 and 1125 of this title, enacting provisions set out as a note under section 1125 of this title, and amending provisions set out as a note preceding section 4101 of Title 44, Public Printing and Documents] may be cited as the ‘Eliminate Useless Reports Act of 2024’.”
+Pub. L. 118–172, § 1, Dec. 23, 2024, 138 Stat. 2593, provided that: “This Act [amending sections 1105 and 1125 of this title, enacting provisions set out as a note under section 1125 of this title, and amending provisions set out as a note preceding section 4101 of Title 44, Public Printing and Documents] may be cited as the ‘Eliminate Useless Reports Act of 2024’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LIII, § 5303(a), Dec. 23, 2022, 136 Stat. 3250, provided that: “This section [amending section 1115 of this title] may be cited as the ‘Performance Enhancement Reform Act’.”
+Pub. L. 117–263, div. E, title LIII, § 5303(a), Dec. 23, 2022, 136 Stat. 3250, provided that: “This section [amending section 1115 of this title] may be cited as the ‘Performance Enhancement Reform Act’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 115–414, § 1, Jan. 3, 2019, 132 Stat. 5430, provided that: “This Act [amending section 720 of this title and enacting provisions set out as a note under section 1105 of this title] may be cited as the ‘Good Accounting Obligation in Government Act’ or the ‘GAO–IG Act’.”
+Pub. L. 115–414, § 1, Jan. 3, 2019, 132 Stat. 5430, provided that: “This Act [amending section 720 of this title and enacting provisions set out as a note under section 1105 of this title] may be cited as the ‘Good Accounting Obligation in Government Act’ or the ‘GAO–IG Act’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 111–352, § 1(a), Jan. 4, 2011, 124 Stat. 3866, provided that: “This Act [enacting sections 1115, 1116, and 1120 to 1125 of this title and section 306 of Title 5, Government Organization and Employees, amending section 1105 of this title, repealing sections 1115 and 1116 of this title and section 306 of Title 5, and enacting provisions set out as notes under section 1115 of this title and section 5105 of Title 5] may be cited as the ‘GPRA Modernization Act of 2010’.”
+Pub. L. 111–352, § 1(a), Jan. 4, 2011, 124 Stat. 3866, provided that: “This Act [enacting sections 1115, 1116, and 1120 to 1125 of this title and section 306 of Title 5, Government Organization and Employees, amending section 1105 of this title, repealing sections 1115 and 1116 of this title and section 306 of Title 5, and enacting provisions set out as notes under section 1115 of this title and section 5105 of Title 5] may be cited as the ‘GPRA Modernization Act of 2010’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–291, title IV, § 401, Dec. 8, 2010, 124 Stat. 3097, provided that: “This title [amending section 1105 of this title, enacting provisions set out as a note under section 1105 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Crow Tribe Water Rights Settlement Act of 2010’.”
+Pub. L. 111–291, title IV, § 401, Dec. 8, 2010, 124 Stat. 3097, provided that: “This title [amending section 1105 of this title, enacting provisions set out as a note under section 1105 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Crow Tribe Water Rights Settlement Act of 2010’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–62, § 1, Aug. 3, 1993, 107 Stat. 285, provided that: “This Act [enacting sections 1115 to 1119, 9703, and 9704 of this title, section 306 of Title 5, Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amending section 1105 of this title, and enacting provisions set out as notes under section 1115 of this title] may be cited as the ‘Government Performance and Results Act of 1993’.”
+Pub. L. 103–62, § 1, Aug. 3, 1993, 107 Stat. 285, provided that: “This Act [enacting sections 1115 to 1119, 9703, and 9704 of this title, section 306 of Title 5, Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amending section 1105 of this title, and enacting provisions set out as notes under section 1115 of this title] may be cited as the ‘Government Performance and Results Act of 1993’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–501, title II, § 201, Oct. 19, 1984, 98 Stat. 2324, provided that: “This title [amending section 1105 of this title and enacting provisions set out as a note under section 1105 of this title] may be cited as the ‘Federal Capital Investment Program Information Act of 1984’.”
+Pub. L. 98–501, title II, § 201, Oct. 19, 1984, 98 Stat. 2324, provided that: “This title [amending section 1105 of this title and enacting provisions set out as a note under section 1105 of this title] may be cited as the ‘Federal Capital Investment Program Information Act of 1984’.”
 
 **Construction of 1993 Amendment**
 
-Pub. L. 103–62, § 10, Aug. 3, 1993, 107 Stat. 295, provided that:
+Pub. L. 103–62, § 10, Aug. 3, 1993, 107 Stat. 295, provided that:
 
 > “No provision or amendment made by this Act [see Short Title of 1993 Amendment note set out above] may be construed as—
 
@@ -98,7 +98,7 @@ Pub. L. 103–62, § 10, Aug. 3, 1993, 107 Stat. 295, provided that:
 
 **Congressional Findings and Statement of Purposes**
 
-Pub. L. 103–62, § 2, Aug. 3, 1993, 107 Stat. 285, provided that:
+Pub. L. 103–62, § 2, Aug. 3, 1993, 107 Stat. 285, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -124,15 +124,15 @@ Pub. L. 103–62, § 2, Aug. 3, 1993, 107 Stat. 285, provided that:
 
 **Congressional Oversight**
 
-Pub. L. 103–62, § 8(a), Aug. 3, 1993, 107 Stat. 294, provided that: “Nothing in this Act [see Short Title of 1993 Amendment note set out above] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a performance goal. Any such action shall have the effect of superseding that goal in the plan submitted under section 1105(a)(29) [now 1105(a)(28)] of title 31, United States Code.”
+Pub. L. 103–62, § 8(a), Aug. 3, 1993, 107 Stat. 294, provided that: “Nothing in this Act [see Short Title of 1993 Amendment note set out above] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a performance goal. Any such action shall have the effect of superseding that goal in the plan submitted under section 1105(a)(29) [now 1105(a)(28)] of title 31, United States Code.”
 
 **Executive Documents**
 
 **Executive Order No. 13037**
 
-Ex. Ord. No. 13037, Mar. 3, 1997, 62 F.R. 10185, as amended by Ex. Ord. No. 13066, Oct. 29, 1997, 62 F.R. 59273; Ex. Ord. No. 13108, Dec. 11, 1998, 63 F.R. 69175, which established the Commission to Study Capital Budgeting, was revoked by Ex. Ord. No. 13138, § 3(d), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13037, Mar. 3, 1997, 62 F.R. 10185, as amended by Ex. Ord. No. 13066, Oct. 29, 1997, 62 F.R. 59273; Ex. Ord. No. 13108, Dec. 11, 1998, 63 F.R. 69175, which established the Commission to Study Capital Budgeting, was revoked by Ex. Ord. No. 13138, § 3(d), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
-## § 1102. Fiscal year
+## § 1102. Fiscal year
 
 The fiscal year of the Treasury begins on October 1 of each year and ends on September 30 of the following year. Accounts of receipts and expenditures required under law to be published each year shall be published for the fiscal year.
 
@@ -142,7 +142,7 @@ The fiscal year of the Treasury begins on October 1 of each year and ends on Sep
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1102 | 31:1020. | R.S. § 237; Oct. 1, 1890, ch. 1256, § 9, 26 Stat. 646; restated July 12, 1974, Pub. L. 93–344, § 501, 88 Stat. 321. |
+| 1102 | 31:1020. | R.S. § 237; Oct. 1, 1890, ch. 1256, § 9, 26 Stat. 646; restated July 12, 1974, Pub. L. 93–344, § 501, 88 Stat. 321. |
 
 The words “in all matters of accounts, receipts, expenditures, estimates, and appropriations” are omitted as being included in “fiscal”. The word “prepared” is omitted as being included in “published”. The words “as established by subsection (a) of this section” are omitted as unnecessary because of the restatement. The text of 31:1020(a)(1) and the words “beginning on October 1, 1976” are omitted as executed.
 
@@ -152,7 +152,7 @@ The words “in all matters of accounts, receipts, expenditures, estimates, and 
 
 Pub. L. 94–274, Apr. 21, 1976, 90 Stat. 383, provided for an orderly transition to the new Oct. 1 to Sept. 30 fiscal year for particular acts by specifying how the period of July 1, 1976, through Sept. 30, 1976, was to be treated for fiscal year purposes.
 
-## § 1103. Budget ceiling
+## § 1103. Budget ceiling
 
 Congress reaffirms its commitment that budget outlays of the United States Government for a fiscal year may be not more than the receipts of the Government for that year.
 
@@ -162,11 +162,11 @@ Congress reaffirms its commitment that budget outlays of the United States Gover
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1103 | 31:27. | Oct. 10, 1978, Pub. L. 95–435, § 7, 92 Stat. 1053; restated Oct. 7, 1980, Pub. L. 96–389, § 3, 94 Stat. 1553. |
+| 1103 | 31:27. | Oct. 10, 1978, Pub. L. 95–435, § 7, 92 Stat. 1053; restated Oct. 7, 1980, Pub. L. 96–389, § 3, 94 Stat. 1553. |
 
 The word “total” is omitted as surplus. The words “for a fiscal year” are substituted for “beginning with Fiscal Year 1981” because of the restatement and to eliminate executed words. The words “for that year” are added because of the restatement.
 
-## § 1104. Budget and appropriations authority of the President
+## § 1104. Budget and appropriations authority of the President
 
 **(a)** The President shall prepare budgets of the United States Government under section 1105 of this title and proposed deficiency and supplemental appropriations under section 1107 of this title. To the extent practicable, the President shall use uniform terms in stating the purposes and conditions of appropriations.
 
@@ -178,20 +178,20 @@ The word “total” is omitted as surplus. The words “for a fiscal year” ar
 
 **(e)** Under regulations prescribed by the President, each agency shall provide information required by the President in carrying out this chapter. The President has access to, and may inspect, records of an agency to obtain information.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 99–177, title II, § 224, Dec. 12, 1985, 99 Stat. 1060.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 99–177, title II, § 224, Dec. 12, 1985, 99 Stat. 1060.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1104(a) | 31:16(last sentence related to preparation of budgets and appropriations). | June 10, 1921, ch. 18, § 207(last sentence related to preparation of budgets and appropriations), 42 Stat. 22; restated Sept. 12, 1950, ch. 946, § 102(e), 64 Stat. 833; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-|  | 31:623. | June 23, 1913, ch. 3, § 3, 38 Stat. 75; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-| 1104(b) | 31:581. | June 10, 1921, ch. 18, § 204, 42 Stat. 21; restated Sept. 12, 1950, ch. 946, § 102(c), 64 Stat. 833. |
-| 1104(c) | 31:11d. | July 12, 1974, Pub. L. 93–344, § 802, 88 Stat. 330. |
-|  | 31:581a. | June 10, 1921, ch. 18, § 205, 42 Stat. 21; restated Sept. 12, 1950, ch. 946, § 102(d), 64 Stat. 833. |
-| 1104(d) | 31:18b. | Sept. 12, 1950, ch. 946, § 103, 64 Stat. 834; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-|  | 44:3503(note). | Dec. 11, 1980, Pub. L. 96–511, § 3(a), 94 Stat. 2825. |
-| 1104(e) | 31:21. | June 10, 1921, ch. 18, § 213, 42 Stat. 23; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 1104(a) | 31:16(last sentence related to preparation of budgets and appropriations). | June 10, 1921, ch. 18, § 207(last sentence related to preparation of budgets and appropriations), 42 Stat. 22; restated Sept. 12, 1950, ch. 946, § 102(e), 64 Stat. 833; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+|  | 31:623. | June 23, 1913, ch. 3, § 3, 38 Stat. 75; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 1104(b) | 31:581. | June 10, 1921, ch. 18, § 204, 42 Stat. 21; restated Sept. 12, 1950, ch. 946, § 102(c), 64 Stat. 833. |
+| 1104(c) | 31:11d. | July 12, 1974, Pub. L. 93–344, § 802, 88 Stat. 330. |
+|  | 31:581a. | June 10, 1921, ch. 18, § 205, 42 Stat. 21; restated Sept. 12, 1950, ch. 946, § 102(d), 64 Stat. 833. |
+| 1104(d) | 31:18b. | Sept. 12, 1950, ch. 946, § 103, 64 Stat. 834; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+|  | 44:3503(note). | Dec. 11, 1980, Pub. L. 96–511, § 3(a), 94 Stat. 2825. |
+| 1104(e) | 31:21. | June 10, 1921, ch. 18, § 213, 42 Stat. 23; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
 
 In the section, the word “President” is substituted for “Office” in 31:16(last sentence), “President, through the Director of the Office of Management and Budget” in 31:18b, “President and the Director of the Office of Management and Budget” in 44:3503(note), and “Office of Management and Budget” in 31:21 and 623, because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085), designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
@@ -199,9 +199,9 @@ In subsection (a), the words “under such rules and regulations as the Presiden
 
 In subsection (b), the word “arrangement” is omitted as being included in “order”. The word “information” is substituted for “notes and other data”, and the word “submitted” is substituted for “transmitted”, for consistency. The words “The President shall include” are substituted for “shall be accompanied by” because of the authority of the President under subsection (a) to prepare the budget. The words “proposed appropriations” are substituted for “proposed supplemental or deficiency appropriations” because of the restatement. The word “personnel” is substituted for “personal services” for clarity. The word “way” is substituted for “manner and form” for consistency. The words “either generally or in specific cases” are omitted as surplus. The word “request” is substituted for “request and receive” to eliminate unnecessary words. The words “it prescribes” are substituted for “as they may desire in consideration of and action upon budget estimates” to eliminate unnecessary words.
 
-In subsection (c), the words “President makes” are substituted for “is made” in 31:581a as being more precise. The word “information” is substituted for “explanatory notes and tables” for consistency in the revised title. The words “to Congress”, “as may be necessary”, and “various” are omitted as surplus. The words “The President may change” are substituted for “Any change . . . shall be made only” in 31:11d because the President prepares and submits the budget under 31:11. The word “budget” is substituted for “Budget of the United States Government transmitted pursuant to section 11 of this title” to eliminate unnecessary words and for consistency in the chapter.
+In subsection (c), the words “President makes” are substituted for “is made” in 31:581a as being more precise. The word “information” is substituted for “explanatory notes and tables” for consistency in the revised title. The words “to Congress”, “as may be necessary”, and “various” are omitted as surplus. The words “The President may change” are substituted for “Any change . . . shall be made only” in 31:11d because the President prepares and submits the budget under 31:11. The word “budget” is substituted for “Budget of the United States Government transmitted pursuant to section 11 of this title” to eliminate unnecessary words and for consistency in the chapter.
 
-In subsection (d), the word “gathering” in 31:18b is omitted as being included in “compilation”. The text of 31:18b(last sentence) is omitted as unnecessary because of the restatement of the source provisions in subsection (e). The words “carry out . . . through” are substituted for “delegate to” in 44:3503(note) for consistency.
+In subsection (d), the word “gathering” in 31:18b is omitted as being included in “compilation”. The text of 31:18b(last sentence) is omitted as unnecessary because of the restatement of the source provisions in subsection (e). The words “carry out . . . through” are substituted for “delegate to” in 44:3503(note) for consistency.
 
 In subsection (e), the word “provide” is substituted for “furnish” for consistency. The words “required by the President in carrying out this chapter” are substituted for “as the Office may from time to time require” because of section 101 of Reorganization Plan No. 2 of 1970 and to provide comparable limiting language on when information may be required. The words “the director and the assistant director, or any employee of the Office when duly authorized” are omitted because of 3:301. The word “inspect” is substituted for “examine” for consistency in the revised title. The word “records” is substituted for “books, documents, papers, or records” for consistency in the revised title and with other titles of the United States Code.
 
@@ -215,7 +215,7 @@ In subsection (e), the word “provide” is substituted for “furnish” for c
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 **Executive Documents**
 
@@ -251,7 +251,7 @@ Sec. 7. As required by Section 3(a) of the Paperwork Reduction Act of 1980 (94 S
 
 Sec. 8. [Revoked by Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833.]
 
-## § 1105. Budget contents and submission to Congress
+## § 1105. Budget contents and submission to Congress
 
 **(a)** On or after the first Monday in January but not later than the first Monday in February of each year, the President shall submit a budget of the United States Government for the following fiscal year. Each budget shall include a budget message and summary and supporting information. The President shall include in each budget the following:
 
@@ -519,7 +519,7 @@ To the extent that any analysis required by this paragraph relates to any progra
 
 **(3)** In this subsection, the term “budget justification materials” has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, § 1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, § 203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, § 241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, § 106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, § 5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, § 108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, § 1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, § 13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, § 203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, § 4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, § 4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, § 310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, § 2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, § 4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, § 10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, § 713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, § 638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, § 2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, § 4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, § 3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, § 889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, § 802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, § 4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, § 203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, § 7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, § 2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§ 411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, § 11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, § 244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, § 601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, § 630(a), May 5, 2017, 131 Stat. 375; Pub. L. 117–40, § 2(b), Sept. 24, 2021, 135 Stat. 338; Pub. L. 117–286, § 4(b)(50), Dec. 27, 2022, 136 Stat. 4348; Pub. L. 118–172, § 2(b), Dec. 23, 2024, 138 Stat. 2595.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, § 1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, § 203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, § 241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, § 106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, § 5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, § 108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, § 1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, § 13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, § 203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, § 4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, § 4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, § 310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, § 2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, § 4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, § 10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, § 713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, § 638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, § 2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, § 4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, § 3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, § 889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, § 802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, § 4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, § 203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, § 7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, § 2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§ 411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, § 11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, § 244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, § 601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, § 630(a), May 5, 2017, 131 Stat. 375; Pub. L. 117–40, § 2(b), Sept. 24, 2021, 135 Stat. 338; Pub. L. 117–286, § 4(b)(50), Dec. 27, 2022, 136 Stat. 4348; Pub. L. 118–172, § 2(b), Dec. 23, 2024, 138 Stat. 2595.)
 
 **Historical and Revision Notes**
 
@@ -527,24 +527,24 @@ To the extent that any analysis required by this paragraph relates to any progra
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1105(a) (1)–(14) | 31:11(a)(less (5)(words after 2d comma)). | June 10, 1921, ch. 18, § 201(a), 42 Stat. 20; restated Sept. 12, 1950, ch. 946, § 102(a), 64 Stat. 832; Aug. 1, 1956, ch. 814, § 1(a), 70 Stat. 782; Oct. 26, 1970, Pub. L. 91–510, § 221(a), 84 Stat. 1169; July 12, 1974, Pub. L. 93–344, §§ 603, 604, 88 Stat. 324. |
-|  | 31:19. | June 10, 1921, ch. 18, § 211, 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-| 1105(a)(15) | 31:11(d). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(d)–(f), (g)(last sentence)–(i)(1st sentence); added July 12, 1974, Pub. L. 93–344, § 601, 88 Stat. 323. |
+| 1105(a) (1)–(14) | 31:11(a)(less (5)(words after 2d comma)). | June 10, 1921, ch. 18, § 201(a), 42 Stat. 20; restated Sept. 12, 1950, ch. 946, § 102(a), 64 Stat. 832; Aug. 1, 1956, ch. 814, § 1(a), 70 Stat. 782; Oct. 26, 1970, Pub. L. 91–510, § 221(a), 84 Stat. 1169; July 12, 1974, Pub. L. 93–344, §§ 603, 604, 88 Stat. 324. |
+|  | 31:19. | June 10, 1921, ch. 18, § 211, 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 1105(a)(15) | 31:11(d). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(d)–(f), (g)(last sentence)–(i)(1st sentence); added July 12, 1974, Pub. L. 93–344, § 601, 88 Stat. 323. |
 | 1105(a)(16) | 31:11(e). |  |
 | 1105(a)(17) | 31:11(h). |  |
 | 1105(a) (18)–(20) | 31:11(f). |  |
-| 1105(a)(21) | 31:25 | Oct. 18, 1962, Pub. L. 87–843, § 304(1st par.), 76 Stat. 1097; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085; Sept. 17, 1978, Pub. L. 95–367, § 5(g)(2), 92 Stat. 603. |
+| 1105(a)(21) | 31:25 | Oct. 18, 1962, Pub. L. 87–843, § 304(1st par.), 76 Stat. 1097; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085; Sept. 17, 1978, Pub. L. 95–367, § 5(g)(2), 92 Stat. 603. |
 | 1105(a)(22) | 31:11(i)(1st sentence). |  |
-| 1105(a)(23) | 31:11(note). | Nov. 9, 1977, Pub. L. 95–164, § 305, 91 Stat. 1322. |
-| 1105(a)(24) | 31:859. | Dec. 6, 1945, ch. 557, § 204, 59 Stat. 601. |
+| 1105(a)(23) | 31:11(note). | Nov. 9, 1977, Pub. L. 95–164, § 305, 91 Stat. 1322. |
+| 1105(a)(24) | 31:859. | Dec. 6, 1945, ch. 557, § 204, 59 Stat. 601. |
 | 1105(b) | 28:605(last par.). |  |
 |  | 31:11(a)(5)(words after 2d comma). |  |
-| 1105(c) | 31:13. | June 10, 1921, ch. 18, § 202, 42 Stat. 21. |
+| 1105(c) | 31:13. | June 10, 1921, ch. 18, § 202, 42 Stat. 21. |
 | 1105(d) | 31:11(g)(last sentence). |  |
 
 In the section, the word “current” is substituted for “in progress”, and the word “prior” is substituted for “last completed”, for consistency in the revised title.
 
-In subsection (a), before clause (1), the text of 31:19 is omitted as superseded by the broader authority of 31:11(a)(5). The words “for the following fiscal year” are added for clarity. The words “summary and supporting information” are substituted for “summary data and text, and supporting detail” in the introductory matter of 31:11(a) for consistency. The words “in such form and detail as the President may determine” are omitted as unnecessary because of the authority of the President under section 1104(a) of the revised title to prepare the budget. The words “The President shall . . . in each budget the following” are substituted for “The Budget transmitted pursuant to subsection (a) of this section for each fiscal year shall” in 31:11(d)–(f), (h), and (i) because of the restatement. The word “President” is substituted for “Office of Management and Budget” in 31:25 because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “in connection with the budget presentation for fiscal year 1964 and each succeeding year thereafter” are omitted as executed.
+In subsection (a), before clause (1), the text of 31:19 is omitted as superseded by the broader authority of 31:11(a)(5). The words “for the following fiscal year” are added for clarity. The words “summary and supporting information” are substituted for “summary data and text, and supporting detail” in the introductory matter of 31:11(a) for consistency. The words “in such form and detail as the President may determine” are omitted as unnecessary because of the authority of the President under section 1104(a) of the revised title to prepare the budget. The words “The President shall . . . in each budget the following” are substituted for “The Budget transmitted pursuant to subsection (a) of this section for each fiscal year shall” in 31:11(d)–(f), (h), and (i) because of the restatement. The word “President” is substituted for “Office of Management and Budget” in 31:25 because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “in connection with the budget presentation for fiscal year 1964 and each succeeding year thereafter” are omitted as executed.
 
 In subsection (a)(1), the words “information on” are added for clarity.
 
@@ -554,7 +554,7 @@ In subsection (a)(3), the word “information” is substituted for “data” f
 
 In subsection (a)(5) and (6), the words “fiscal year for which the budget is submitted” are substituted for “ensuing fiscal year” the first time they appear for clarity. The words “the 4 fiscal years after that year” are substituted for “projections for the four fiscal years immediately following the ensuing fiscal year” to eliminate unnecessary words.
 
-In subsection (a)(6), the words “proposals . . . to increase revenues” are substituted for “revenue proposals” for consistency in the revised title.
+In subsection (a)(6), the words “proposals . . . to increase revenues” are substituted for “revenue proposals” for consistency in the revised title.
 
 In subsection (a)(7), the word “actual” is omitted as surplus.
 
@@ -596,7 +596,7 @@ In subsection (d), the words “When the President submits a budget or supportin
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1105(a)(25) | 31 App.:11(k)(1). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L. 97–255, § 3, 96 Stat. 815. |
+| 1105(a)(25) | 31 App.:11(k)(1). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L. 97–255, § 3, 96 Stat. 815. |
 
 The words “The President shall include in the supporting detail accompanying each Budget” are omitted as being included in the introductory provisions of 31:1105(a). The words “submitted on or after January 1, 1983” are omitted as executed. The words “by the President” and “if any” are omitted as surplus.
 
@@ -604,17 +604,17 @@ The words “The President shall include in the supporting detail accompanying e
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(23), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(23), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, which is classified principally to chapter 22 (§ 801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
+The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, which is classified principally to chapter 22 (§ 801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
 
 Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5, Government Organization and Employees.
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Section 257(b)(2) of the Act is classified to section 907(b)(2) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to section 5232 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to section 5232 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a)(36), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(36), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to in subsec. (a)(38), is section 411 of Pub. L. 111–291, title IV, Dec. 8, 2010, 124 Stat. 3113, subsec. (h) of which amended this section. Subsecs. (a) to (g) of section 411, which relate to establishment of the Crow Settlement Fund, are not classified to the Code.
 
@@ -632,27 +632,27 @@ The date of enactment of this subsection, referred to in subsec. (i)(2)(B), is t
 
 2021—Subsec. (i). Pub. L. 117–40 added subsec. (i).
 
-2017—Subsec. (a)(35). Pub. L. 115–31, § 630(a)(2), substituted “cybersecurity” for “homeland security” wherever appearing.
+2017—Subsec. (a)(35). Pub. L. 115–31, § 630(a)(2), substituted “cybersecurity” for “homeland security” wherever appearing.
 
-Subsec. (a)(35)(B). Pub. L. 115–31, § 630(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.”
+Subsec. (a)(35)(B). Pub. L. 115–31, § 630(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.”
 
-Pub. L. 115–31, § 630(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “In this paragraph, consistent with the Office of Management and Budget’s June 2002 ‘Annual Report to Congress on Combatting Terrorism’, the term ‘homeland security’ refers to those activities that detect, deter, protect against, and respond to terrorist attacks occurring within the United States and its territories.”
+Pub. L. 115–31, § 630(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “In this paragraph, consistent with the Office of Management and Budget’s June 2002 ‘Annual Report to Congress on Combatting Terrorism’, the term ‘homeland security’ refers to those activities that detect, deter, protect against, and respond to terrorist attacks occurring within the United States and its territories.”
 
-Subsec. (a)(35)(C). Pub. L. 115–31, § 630(a)(1), redesignated subpar. (C) as (B).
+Subsec. (a)(35)(C). Pub. L. 115–31, § 630(a)(1), redesignated subpar. (C) as (B).
 
 2016—Subsec. (a)(37)(G). Pub. L. 114–315 added subpar. (G).
 
-2014—Subsec. (a)(37). Pub. L. 113–235, § 244(d)(1), added par. (37) and struck out former par. (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration.
+2014—Subsec. (a)(37). Pub. L. 113–235, § 244(d)(1), added par. (37) and struck out former par. (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration.
 
-Subsec. (a)(39). Pub. L. 113–235, § 244(d)(2), redesignated par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation as par. (39).
+Subsec. (a)(39). Pub. L. 113–235, § 244(d)(2), redesignated par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation as par. (39).
 
-2011—Subsec. (a)(33), (35). Pub. L. 111–352, § 11(a)(1), made amendment identical to that made by Pub. L. 111–291, § 411(h)(2). See 2010 Amendment note below.
+2011—Subsec. (a)(33), (35). Pub. L. 111–352, § 11(a)(1), made amendment identical to that made by Pub. L. 111–291, § 411(h)(2). See 2010 Amendment note below.
 
-Subsec. (a)(37). Pub. L. 111–352, § 11(a)(2), added par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation.
+Subsec. (a)(37). Pub. L. 111–352, § 11(a)(2), added par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation.
 
-2010—Subsec. (a)(33), (35). Pub. L. 111–291, § 411(h)(2), redesignated par. (33) relating to detailed, separate analysis of homeland security appropriations, obligational authority, and outlays as (35). Former par. (35) redesignated (36).
+2010—Subsec. (a)(33), (35). Pub. L. 111–291, § 411(h)(2), redesignated par. (33) relating to detailed, separate analysis of homeland security appropriations, obligational authority, and outlays as (35). Former par. (35) redesignated (36).
 
-Subsec. (a)(36) to (38). Pub. L. 111–291, § 411(h)(1), (3), redesignated par. (35) as (36) and (36) as (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration and added par. (38).
+Subsec. (a)(36) to (38). Pub. L. 111–291, § 411(h)(1), (3), redesignated par. (35) as (36) and (36) as (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration and added par. (38).
 
 2009—Subsec. (a)(36). Pub. L. 111–81 added par. (36).
 
@@ -688,11 +688,11 @@ Subsec. (g). Pub. L. 103–355 added subsec. (g).
 
 1993—Subsec. (a)(29). Pub. L. 103–62 added par. (29).
 
-1990—Subsec. (a). Pub. L. 101–508, § 13112(c)(1), substituted “On or after the first Monday in January but not later than the first Monday in February of each year” for “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)”.
+1990—Subsec. (a). Pub. L. 101–508, § 13112(c)(1), substituted “On or after the first Monday in January but not later than the first Monday in February of each year” for “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)”.
 
 Subsec. (a)(28). Pub. L. 101–576 added par. (28).
 
-Subsec. (f). Pub. L. 101–508, § 13112(c)(2), amended subsec. (f) generally, substituting “The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.” for
+Subsec. (f). Pub. L. 101–508, § 13112(c)(2), amended subsec. (f) generally, substituting “The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.” for
 
 “(f)(1) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared on the basis of the best estimates then available, in such a manner as to ensure that the deficit for such fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974.
 
@@ -706,9 +706,9 @@ Subsec. (f). Pub. L. 101–508, § 13112(c)(2), amended subsec. (f) generally,
 
 1988—Subsec. (a)(25). Pub. L. 100–504 amended par. (25) generally. Prior to amendment, par. (25) read as follows: “a separate statement, for each agency having an Office of Inspector General, of the amount of the appropriation requested for the Office.”
 
-Subsec. (a)(26). Pub. L. 100–690, §§ 1006, 1009, temporarily added par. (26) relating to statement of appropriations requested for drug programs. See Effective and Termination Dates of 1988 Amendments note below.
+Subsec. (a)(26). Pub. L. 100–690, §§ 1006, 1009, temporarily added par. (26) relating to statement of appropriations requested for drug programs. See Effective and Termination Dates of 1988 Amendments note below.
 
-Pub. L. 100–418, §§ 5301, 5303, temporarily added par. (26) which read as follows: “an analysis, prepared by the Office of Management and Budget after consultation with the chairman of the Council of Economic Advisers, of the budget’s impact on the international competitiveness of United States business and the United States balance of payments position and shall include the following projections, based upon the best information available at the time, for the fiscal year for which the budget is submitted—
+Pub. L. 100–418, §§ 5301, 5303, temporarily added par. (26) which read as follows: “an analysis, prepared by the Office of Management and Budget after consultation with the chairman of the Council of Economic Advisers, of the budget’s impact on the international competitiveness of United States business and the United States balance of payments position and shall include the following projections, based upon the best information available at the time, for the fiscal year for which the budget is submitted—
 
 “(A) the amount of borrowing by the Government in private credit markets;
 
@@ -726,9 +726,9 @@ See Effective and Termination Dates of 1988 Amendments note below.
 
 1987—Subsec. (f)(3) to (5). Pub. L. 100–119 added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-1985—Subsec. (a). Pub. L. 99–177, § 241(a), substituted “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)” for “During the first 15 days of each regular session of Congress”.
+1985—Subsec. (a). Pub. L. 99–177, § 241(a), substituted “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)” for “During the first 15 days of each regular session of Congress”.
 
-Subsec. (f). Pub. L. 99–177, § 241(b), added subsec. (f).
+Subsec. (f). Pub. L. 99–177, § 241(b), added subsec. (f).
 
 1984—Subsec. (e). Pub. L. 98–501 added subsec. (e).
 
@@ -738,15 +738,15 @@ Subsec. (f). Pub. L. 99–177, § 241(b), added subsec. (f).
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–31, div. E, title VI, § 630(b), May 5, 2017, 131 Stat. 376, provided that: “The amendments made by subsection (a) [amending this section] shall apply to budget submissions under section 1105(a) of title 31, United States Code, for fiscal year 2018 and each subsequent fiscal year.”
+Pub. L. 115–31, div. E, title VI, § 630(b), May 5, 2017, 131 Stat. 376, provided that: “The amendments made by subsection (a) [amending this section] shall apply to budget submissions under section 1105(a) of title 31, United States Code, for fiscal year 2018 and each subsequent fiscal year.”
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title VI, § 601(c), Dec. 16, 2016, 130 Stat. 1569, provided that: “The amendments made by this section [amending this section and section 117 of Title 38, Veterans’ Benefits] shall apply to fiscal years beginning on and after October 1, 2017.”
+Pub. L. 114–315, title VI, § 601(c), Dec. 16, 2016, 130 Stat. 1569, provided that: “The amendments made by this section [amending this section and section 117 of Title 38, Veterans’ Benefits] shall apply to fiscal years beginning on and after October 1, 2017.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–343, div. A, title II, § 203(c), Oct. 3, 2008, 122 Stat. 3801, provided that: “This section [amending this section and enacting provisions set out as a note under this section] and the amendment made by this section shall apply beginning with respect to the fiscal year 2010 budget submission of the President.”
+Pub. L. 110–343, div. A, title II, § 203(c), Oct. 3, 2008, 122 Stat. 3801, provided that: “This section [amending this section and enacting provisions set out as a note under this section] and the amendment made by this section shall apply beginning with respect to the fiscal year 2010 budget submission of the President.”
 
 **Effective Date of 2003 Amendment**
 
@@ -756,7 +756,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–296, title VIII, § 889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: “This section [amending this section and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title] and the amendment made by this section shall apply beginning with respect to the fiscal year 2005 budget submission.”
+Pub. L. 107–296, title VIII, § 889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: “This section [amending this section and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title] and the amendment made by this section shall apply beginning with respect to the fiscal year 2005 budget submission.”
 
 **Effective Date of 1999 Amendment**
 
@@ -776,11 +776,11 @@ Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see secti
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (f) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (f) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 **Repeal on Failure To Meet Enforceability Date**
 
-Pub. L. 111–291, title IV, § 415, Dec. 8, 2010, 124 Stat. 3121, provided that:
+Pub. L. 111–291, title IV, § 415, Dec. 8, 2010, 124 Stat. 3121, provided that:
 
 > “If the Secretary does not publish a statement of findings under section 410(e) [124 Stat. 3112] not later than March 31, 2016, or the extended date agreed to by the Tribe and the Secretary, after reasonable notice to the State of Montana, as applicable—
 
@@ -798,7 +798,7 @@ Pub. L. 111–291, title IV, § 415, Dec. 8, 2010, 124 Stat. 3121, provided th
 
 > **“(B)** any funds made available to carry out the activities authorized in this title from other authorized sources.”
 
-[For definitions of terms used in section 415 of Pub. L. 111–291, set out above, see Pub. L. 111–291, title IV, § 403, Dec. 8, 2010, 124 Stat. 3097, which is not classified to the Code.]
+[For definitions of terms used in section 415 of Pub. L. 111–291, set out above, see Pub. L. 111–291, title IV, § 403, Dec. 8, 2010, 124 Stat. 3097, which is not classified to the Code.]
 
 [For notice of statement of findings under section 410(e) of Pub. L. 111–291 [124 Stat. 3112] effective June 22, 2016, see 81 F.R. 40720.]
 
@@ -808,7 +808,7 @@ Amendment made by Pub. L. 103–62 not to be construed as creating any right, pr
 
 **Reports on Outstanding Government Accountability Office and Inspector General Recommendations**
 
-Pub. L. 115–414, § 2, Jan. 3, 2019, 132 Stat. 5430, provided that:
+Pub. L. 115–414, § 2, Jan. 3, 2019, 132 Stat. 5430, provided that:
 
 > **“(a) Definition.—** In this section, the term ‘agency’ means—
 
@@ -854,11 +854,11 @@ Pub. L. 115–414, § 2, Jan. 3, 2019, 132 Stat. 5430, provided that:
 
 **Annual Agency Reports Required**
 
-Pub. L. 113–235, div. D, title IV, § 404, Dec. 16, 2014, 128 Stat. 2331, provided that: “For this fiscal year, and each fiscal year hereafter, each independent agency receiving funding under this title [see Tables for classification] shall submit to the Committees on Appropriations of the House of Representatives and the Senate a Congressional Budget Justification and a detailed annual report.”
+Pub. L. 113–235, div. D, title IV, § 404, Dec. 16, 2014, 128 Stat. 2331, provided that: “For this fiscal year, and each fiscal year hereafter, each independent agency receiving funding under this title [see Tables for classification] shall submit to the Committees on Appropriations of the House of Representatives and the Senate a Congressional Budget Justification and a detailed annual report.”
 
 **Administrative Expenses of Executive Branch Entities; Separate Categories**
 
-Pub. L. 111–85, title V, § 504, Oct. 28, 2009, 123 Stat. 2879, provided that:
+Pub. L. 111–85, title V, § 504, Oct. 28, 2009, 123 Stat. 2879, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -882,11 +882,11 @@ Pub. L. 111–85, title V, § 504, Oct. 28, 2009, 123 Stat. 2879, provided tha
 
 **Consultation**
 
-Pub. L. 110–343, div. A, title II, § 203(b), Oct. 3, 2008, 122 Stat. 3801, provided that: “In implementing this section [amending this section and enacting provisions set out as a note under this section], the Director of [the] Office of Management and Budget shall consult periodically, but at least annually, with the Committee on the Budget of the House of Representatives, the Committee on the Budget of the Senate, and the Director of the Congressional Budget Office.”
+Pub. L. 110–343, div. A, title II, § 203(b), Oct. 3, 2008, 122 Stat. 3801, provided that: “In implementing this section [amending this section and enacting provisions set out as a note under this section], the Director of [the] Office of Management and Budget shall consult periodically, but at least annually, with the Committee on the Budget of the House of Representatives, the Committee on the Budget of the Senate, and the Director of the Congressional Budget Office.”
 
 **Procedures in the House of Representatives**
 
-Pub. L. 108–173, title VIII, § 803, Dec. 8, 2003, 117 Stat. 2360, provided that:
+Pub. L. 108–173, title VIII, § 803, Dec. 8, 2003, 117 Stat. 2360, provided that:
 
 > **“(a) Introduction and Referral of President’s Legislative Proposal.—**
 
@@ -942,7 +942,7 @@ Pub. L. 108–173, title VIII, § 803, Dec. 8, 2003, 117 Stat. 2360, provided 
 
 **Procedures in the Senate**
 
-Pub. L. 108–173, title VIII, § 804, Dec. 8, 2003, 117 Stat. 2363, provided that:
+Pub. L. 108–173, title VIII, § 804, Dec. 8, 2003, 117 Stat. 2363, provided that:
 
 > **“(a) Introduction and Referral of President’s Legislative Proposal.—**
 
@@ -988,13 +988,13 @@ Pub. L. 108–173, title VIII, § 804, Dec. 8, 2003, 117 Stat. 2363, provided 
 
 **Transportation Security Administration**
 
-Pub. L. 107–71, title I, § 142, Nov. 19, 2001, 115 Stat. 644, provided that: “The President’s budget submission for fiscal year 2003 and each fiscal year thereafter shall reflect the establishment of the Transportation Security Administration.”
+Pub. L. 107–71, title I, § 142, Nov. 19, 2001, 115 Stat. 644, provided that: “The President’s budget submission for fiscal year 2003 and each fiscal year thereafter shall reflect the establishment of the Transportation Security Administration.”
 
 [For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
 **Annual Statement and Report on Rules and Regulations**
 
-Pub. L. 106–554, § 1(a)(3) [title VI, § 624], Dec. 21, 2000, 114 Stat. 2763, 2763A–161, as amended by Pub. L. 117–286, § 4(a)(194), Dec. 27, 2022, 136 Stat. 4327, provided that:
+Pub. L. 106–554, § 1(a)(3) [title VI, § 624], Dec. 21, 2000, 114 Stat. 2763, 2763A–161, as amended by Pub. L. 117–286, § 4(a)(194), Dec. 27, 2022, 136 Stat. 4327, provided that:
 
 > **“(a) In General.—** For calendar year 2002 and each year thereafter, the Director of the Office of Management and Budget shall prepare and submit to Congress, with the budget submitted under section 1105 of title 31, United States Code, an accounting statement and associated report containing—
 
@@ -1022,33 +1022,33 @@ Pub. L. 106–554, § 1(a)(3) [title VI, § 624], Dec. 21, 2000, 114 Stat. 2
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–58, title VI, § 628, Sept. 29, 1999, 113 Stat. 472.
+Pub. L. 106–58, title VI, § 628, Sept. 29, 1999, 113 Stat. 472.
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 638], Oct. 21, 1998, 112 Stat. 2681–480, 2681–525.
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 638], Oct. 21, 1998, 112 Stat. 2681–480, 2681–525.
 
 **Federal Motor Carrier Safety Administration**
 
-Pub. L. 106–159, title I, § 107(b), Dec. 9, 1999, 113 Stat. 1758, provided that: “The President’s budget submission for fiscal year 2001 and each fiscal year thereafter shall reflect the establishment of the Federal Motor Carrier Safety Administration in accordance with this Act [see Tables for classification].”
+Pub. L. 106–159, title I, § 107(b), Dec. 9, 1999, 113 Stat. 1758, provided that: “The President’s budget submission for fiscal year 2001 and each fiscal year thereafter shall reflect the establishment of the Federal Motor Carrier Safety Administration in accordance with this Act [see Tables for classification].”
 
 **Administrative Expenses of Legislative Branch Entities; Separate Categories; Compliance Reporting**
 
-Pub. L. 103–69, title III, § 308, Aug. 11, 1993, 107 Stat. 710, as amended by Pub. L. 104–316, title I, § 115(c), Oct. 19, 1996, 110 Stat. 3834, for fiscal years 1995, 1996, and 1997, required submissions in support of amounts included in Budget for each entity of the legislative branch to set forth a separate category for administrative expenses, for fiscal years 1993 and 1994, required administrative expenses for each entity of the legislative branch to be calculated and submitted in a separate category in same format as if submitted in support of amounts included in the Budget, for fiscal years 1994, 1995, 1996, and 1997, required submissions in the separate category for administrative expenses for each entity of the legislative branch to include reductions by a specific percentage for fiscal years 1994 to 1997, and authorized the Comptroller General to carry out compliance reporting under this section.
+Pub. L. 103–69, title III, § 308, Aug. 11, 1993, 107 Stat. 710, as amended by Pub. L. 104–316, title I, § 115(c), Oct. 19, 1996, 110 Stat. 3834, for fiscal years 1995, 1996, and 1997, required submissions in support of amounts included in Budget for each entity of the legislative branch to set forth a separate category for administrative expenses, for fiscal years 1993 and 1994, required administrative expenses for each entity of the legislative branch to be calculated and submitted in a separate category in same format as if submitted in support of amounts included in the Budget, for fiscal years 1994, 1995, 1996, and 1997, required submissions in the separate category for administrative expenses for each entity of the legislative branch to include reductions by a specific percentage for fiscal years 1994 to 1997, and authorized the Comptroller General to carry out compliance reporting under this section.
 
 **Separate Object Class for Consulting Services in Annual Budgets**
 
-Pub. L. 102–394, title V, § 512, Oct. 6, 1992, 106 Stat. 1826, which directed the Office of Management and Budget to establish funding for consulting services for each department and agency as separate object class in each budget annually submitted to Congress under this section, was repealed and restated in subsec. (g) of this section by Pub. L. 103–355, title II, § 2454(a), (b), Oct. 13, 1994, 108 Stat. 3326.
+Pub. L. 102–394, title V, § 512, Oct. 6, 1992, 106 Stat. 1826, which directed the Office of Management and Budget to establish funding for consulting services for each department and agency as separate object class in each budget annually submitted to Congress under this section, was repealed and restated in subsec. (g) of this section by Pub. L. 103–355, title II, § 2454(a), (b), Oct. 13, 1994, 108 Stat. 3326.
 
 **NASA Triennial Budget Requests and Estimates**
 
-Pub. L. 100–685, title I, § 104, Nov. 17, 1988, 102 Stat. 4086, provided that: “Commencing in fiscal year 1990 and every year thereafter, the President shall submit to Congress a budget request for the National Aeronautics and Space Administration for the immediate fiscal year and the following fiscal year, and include budget estimates for the third fiscal year.”
+Pub. L. 100–685, title I, § 104, Nov. 17, 1988, 102 Stat. 4086, provided that: “Commencing in fiscal year 1990 and every year thereafter, the President shall submit to Congress a budget request for the National Aeronautics and Space Administration for the immediate fiscal year and the following fiscal year, and include budget estimates for the third fiscal year.”
 
 **Two-Year Budget Cycle for Coast Guard**
 
-Pub. L. 102–241, § 11, Dec. 19, 1991, 105 Stat. 2212, provided that: “Notwithstanding another law, the President is not required to submit a two-year budget request for the Coast Guard until the President is required to submit a two-year budget request for the Department of Transportation.”
+Pub. L. 102–241, § 11, Dec. 19, 1991, 105 Stat. 2212, provided that: “Notwithstanding another law, the President is not required to submit a two-year budget request for the Coast Guard until the President is required to submit a two-year budget request for the Department of Transportation.”
 
 [For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-Pub. L. 100–448, § 24, Sept. 28, 1988, 102 Stat. 1847, provided that:
+Pub. L. 100–448, § 24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 
 > **“(a) Opinion of Congress.—** It is the opinion of the Congress that the programs and activities of the Coast Guard could be more effectively and efficiently planned and managed if funds for the Coast Guard were provided on a 2-year cycle rather than annually.
 
@@ -1066,15 +1066,15 @@ Pub. L. 100–448, § 24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 
 **Water and Sewer Services Furnished to Government Facilities in District of Columbia**
 
-Pub. L. 100–202, § 101(c) [title I, § 136], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: “After the effective date of this Joint Resolution [Dec. 22, 1987], the President shall include, without change, in each annual budget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612).”
+Pub. L. 100–202, § 101(c) [title I, § 136], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: “After the effective date of this Joint Resolution [Dec. 22, 1987], the President shall include, without change, in each annual budget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612).”
 
 **Two-Year Budget Cycle for Department of Defense**
 
-Pub. L. 99–145, title XIV, § 1405, Nov. 8, 1985, 99 Stat. 744, which related to congressional findings concerning a two-year budget cycle for the Defense Department, requirement that President submit two-year budget proposals, and a report by the Secretary of Defense to be submitted not later than Apr. 1, 1986, was repealed by Pub. L. 110–181, div. A, title X, § 1006, Jan. 28, 2008, 122 Stat. 303.
+Pub. L. 99–145, title XIV, § 1405, Nov. 8, 1985, 99 Stat. 744, which related to congressional findings concerning a two-year budget cycle for the Defense Department, requirement that President submit two-year budget proposals, and a report by the Secretary of Defense to be submitted not later than Apr. 1, 1986, was repealed by Pub. L. 110–181, div. A, title X, § 1006, Jan. 28, 2008, 122 Stat. 303.
 
 **Federal Capital Investment Program; Congressional Statement of Purposes**
 
-Pub. L. 98–501, title II, § 202, Oct. 19, 1984, 98 Stat. 2324, provided that:
+Pub. L. 98–501, title II, § 202, Oct. 19, 1984, 98 Stat. 2324, provided that:
 
 > “The purposes of this title [amending this section and enacting provisions set out as notes under this section and section 1101 of this title] are—
 
@@ -1090,11 +1090,11 @@ Pub. L. 98–501, title II, § 202, Oct. 19, 1984, 98 Stat. 2324, provided tha
 
 **Deficit Reduction Fund**
 
-For provisions requiring information about Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund to be included in budget transmitted under this section, see Ex. Ord. No. 12858, § 3, Aug. 4, 1993, 58 F.R. 42185, set out as a note under section 900 of Title 2, The Congress.
+For provisions requiring information about Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund to be included in budget transmitted under this section, see Ex. Ord. No. 12858, § 3, Aug. 4, 1993, 58 F.R. 42185, set out as a note under section 900 of Title 2, The Congress.
 
 **Budget Control**
 
-For provisions requiring annual review of direct spending and receipts to be part of each budget submitted under subsec. (a) of this section, see Ex. Ord. No. 12857, § 3, Aug. 4, 1993, 58 F.R. 42181, formerly set out as a note under section 900 of Title 2, The Congress.
+For provisions requiring annual review of direct spending and receipts to be part of each budget submitted under subsec. (a) of this section, see Ex. Ord. No. 12857, § 3, Aug. 4, 1993, 58 F.R. 42181, formerly set out as a note under section 900 of Title 2, The Congress.
 
 **Executive Documents**
 
@@ -1122,7 +1122,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-## § 1106. Supplemental budget estimates and changes
+## § 1106. Supplemental budget estimates and changes
 
 **(a)** Before July 16 of each year, the President shall submit to Congress a supplemental summary of the budget for the fiscal year for which the budget is submitted under section 1105(a) of this title. The summary shall include—
 
@@ -1144,14 +1144,14 @@ George W. Bush.
 
 **(c)** Subsection (f) of section 1105 shall apply to revisions and supplemental summaries submitted under this section to the same extent that such subsection applies to the budget submitted under section 1105(a) to which such revisions and summaries relate.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 911; Pub. L. 99–177, title II, § 242, Dec. 12, 1985, 99 Stat. 1063.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 911; Pub. L. 99–177, title II, § 242, Dec. 12, 1985, 99 Stat. 1063.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1106(a) | 31:11(b), (c). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(b), (c); added Aug. 25, 1958, Pub. L. 85–759, § 1, 72 Stat. 852; restated Oct. 26, 1970, Pub. L. 91–510, § 221(b), 84 Stat. 1169; July 12, 1974, Pub. L. 93–344, § 602, 88 Stat. 324. |
-| 1106(b) | 31:11(g)(1st–3d sentences). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(g)(1st–3d sentences); added July 12, 1974, Pub. L. 93–344, § 601, 88 Stat. 323. |
+| 1106(a) | 31:11(b), (c). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(b), (c); added Aug. 25, 1958, Pub. L. 85–759, § 1, 72 Stat. 852; restated Oct. 26, 1970, Pub. L. 91–510, § 221(b), 84 Stat. 1169; July 12, 1974, Pub. L. 93–344, § 602, 88 Stat. 324. |
+| 1106(b) | 31:11(g)(1st–3d sentences). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(g)(1st–3d sentences); added July 12, 1974, Pub. L. 93–344, § 601, 88 Stat. 323. |
 
 In subsection (a), before clause (1), the words “Before July 16” are substituted for “on or before July 15” for consistency. The words “budget for the fiscal year for which the budget is submitted” are substituted for “Budget for the ensuing fiscal year transmitted to the Congress by the President” to eliminate unnecessary words and for consistency in the chapter. The words “in such form and detail as he may determine” are omitted as unnecessary. In clause (1)(D), the words “in summary form” and “summary of” are omitted as unnecessary. The word “necessary” is omitted as being included in “advisable”. In clauses (2) and (3), the word “information” is substituted for “summaries” because of the restatement. In clause (2), the words “programs authorized to continue in future years, or that are considered mandatory, under law” are substituted for “continuing programs which have a legal commitment for future years or are considered mandatory under existing law” for consistency.
 
@@ -1161,27 +1161,27 @@ In subsection (b), the words “Before April 11 and July 16” are substituted f
 
 **Amendments**
 
-1985—Subsec. (b). Pub. L. 99–177, § 242(a), struck out “April 11 and” before “July 16”.
+1985—Subsec. (b). Pub. L. 99–177, § 242(a), struck out “April 11 and” before “July 16”.
 
-Subsec. (c). Pub. L. 99–177, § 242(b), added subsec. (c).
+Subsec. (c). Pub. L. 99–177, § 242(b), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (c) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (c) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-## § 1107. Deficiency and supplemental appropriations
+## § 1107. Deficiency and supplemental appropriations
 
 The President may submit to Congress proposed deficiency and supplemental appropriations the President decides are necessary because of laws enacted after the submission of the budget or that are in the public interest. The President shall include the reasons for the submission of the proposed appropriations and the reasons the proposed appropriations were not included in the budget. When the total proposed appropriations would have required the President to make a recommendation under section 1105(c) of this title if they had been included in the budget, the President shall make a recommendation under that section. The President shall transmit promptly to Congress without change, proposed deficiency and supplemental appropriations submitted to the President by the legislative branch and the judicial branch.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 911; Pub. L. 112–74, div. C, title VI, § 619, Dec. 23, 2011, 125 Stat. 926.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 911; Pub. L. 112–74, div. C, title VI, § 619, Dec. 23, 2011, 125 Stat. 926.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1107 | 31:14. | June 10, 1921, ch. 18, § 203, 42 Stat. 21; restated Sept. 12, 1950, ch. 946, § 102(b), 64 Stat. 833. |
+| 1107 | 31:14. | June 10, 1921, ch. 18, § 203, 42 Stat. 21; restated Sept. 12, 1950, ch. 946, § 102(b), 64 Stat. 833. |
 
 In the section, the words “reach an aggregate which” are omitted as surplus.
 
@@ -1191,7 +1191,7 @@ In the section, the words “reach an aggregate which” are omitted as surplus.
 
 2011—Pub. L. 112–74 inserted at end “The President shall transmit promptly to Congress without change, proposed deficiency and supplemental appropriations submitted to the President by the legislative branch and the judicial branch.”
 
-## § 1108. Preparation and submission of appropriations requests to the President
+## § 1108. Preparation and submission of appropriations requests to the President
 
 **(a)** In this section (except subsections (b)(1) and (e)), “agency” means a department, agency, or instrumentality of the United States Government.
 
@@ -1226,17 +1226,17 @@ In the section, the words “reach an aggregate which” are omitted as surplus.
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 1108(a) | (no source). |  |
-| 1108(b)(1) | 31:16(last sentence related to appropriations requests). | June 10, 1921, ch. 18, § 207(last sentence related to appropriations requests), 42 Stat. 22; restated Sept. 12, 1950, ch. 946, § 102(e), 64 Stat. 833; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-|  | 31:22, 23. | June 10, 1921, ch. 18, §§ 214, 215, 42 Stat. 23; restated Sept. 12, 1950, ch. 946, § 102(f), (g), 64 Stat. 833; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-|  | 31:24(a). | June 10, 1921, ch. 18, § 216(a), 42 Stat. 23; restated Sept. 12, 1950, ch. 946, § 102(h), 64 Stat. 834; Aug. 1, 1956, ch. 814, § 1(b), 70 Stat. 782; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-|  | 31:24(b), (c). | June 10, 1921, ch. 18, 42 Stat. 20, § 216(b), (c); added Aug. 1, 1956, ch. 814, § 1(b), 70 Stat. 782. |
-| 1108(b)(2) | 31:581b. | Sept. 12, 1950, ch. 946, § 201, 64 Stat. 838; Reorg. Plan. No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-| 1108(c) | 31:200(b). | Aug. 26, 1954, ch. 935, § 1311(b), 68 Stat. 830; restated July 8, 1959, Pub. L. 86–79, § 210(a), 73 Stat. 167; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-|  | 31:200(c). | Aug. 26, 1954, ch. 935, § 1311(c), 68 Stat. 831. |
-| 1108(d) | 31:11(i)(last sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(i)(last sentence); added July 12, 1974, Pub. L. 93–344, § 601, 88 Stat. 323. |
-| 1108(e) | 31:15. | June 10, 1921, ch. 18, § 206, 42 Stat. 21. |
-| 1108(f) | 31:11(j). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(j); added Feb. 5, 1976, Pub. L. 94–210, § 311, 90 Stat. 60. |
-| 1108(g) | 31:22a. | Aug. 7, 1953, ch. 340, § 1314, 67 Stat. 438. |
+| 1108(b)(1) | 31:16(last sentence related to appropriations requests). | June 10, 1921, ch. 18, § 207(last sentence related to appropriations requests), 42 Stat. 22; restated Sept. 12, 1950, ch. 946, § 102(e), 64 Stat. 833; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+|  | 31:22, 23. | June 10, 1921, ch. 18, §§ 214, 215, 42 Stat. 23; restated Sept. 12, 1950, ch. 946, § 102(f), (g), 64 Stat. 833; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+|  | 31:24(a). | June 10, 1921, ch. 18, § 216(a), 42 Stat. 23; restated Sept. 12, 1950, ch. 946, § 102(h), 64 Stat. 834; Aug. 1, 1956, ch. 814, § 1(b), 70 Stat. 782; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+|  | 31:24(b), (c). | June 10, 1921, ch. 18, 42 Stat. 20, § 216(b), (c); added Aug. 1, 1956, ch. 814, § 1(b), 70 Stat. 782. |
+| 1108(b)(2) | 31:581b. | Sept. 12, 1950, ch. 946, § 201, 64 Stat. 838; Reorg. Plan. No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 1108(c) | 31:200(b). | Aug. 26, 1954, ch. 935, § 1311(b), 68 Stat. 830; restated July 8, 1959, Pub. L. 86–79, § 210(a), 73 Stat. 167; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+|  | 31:200(c). | Aug. 26, 1954, ch. 935, § 1311(c), 68 Stat. 831. |
+| 1108(d) | 31:11(i)(last sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(i)(last sentence); added July 12, 1974, Pub. L. 93–344, § 601, 88 Stat. 323. |
+| 1108(e) | 31:15. | June 10, 1921, ch. 18, § 206, 42 Stat. 21. |
+| 1108(f) | 31:11(j). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(j); added Feb. 5, 1976, Pub. L. 94–210, § 311, 90 Stat. 60. |
+| 1108(g) | 31:22a. | Aug. 7, 1953, ch. 340, § 1314, 67 Stat. 438. |
 
 Subsection (a) is included because the source provisions restated in subsections (c), (d), (f), and (g) of the revised section are derived from laws that apply to all organizational units and branches of the United States Government rather than the units and branches included in the chapter-wide definition in section 1101.
 
@@ -1262,19 +1262,19 @@ In subsection (g), the word “Amounts” is substituted for “Funds”, the wo
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
-## § 1109. Current programs and activities estimates
+## § 1109. Current programs and activities estimates
 
 **(a)** On or before the first Monday after January 3 of each year (on or before February 5 in 1986), the President shall submit to both Houses of Congress the estimated budget outlays and proposed budget authority that would be included in the budget for the following fiscal year if programs and activities of the United States Government were carried on during that year at the same level as the current fiscal year without a change in policy. The President shall state the estimated budget outlays and proposed budget authority by function and subfunction under the classifications in the budget summary table under the heading “Budget Authority and Outlays by Function and Agency”, by major programs in each function, and by agency. The President also shall include a statement of the economic and program assumptions on which those budget outlays and budget authority are based, including inflation, real economic growth, and unemployment rates, program caseloads, and pay increases.
 
 **(b)** The Joint Economic Committee shall review the estimated budget outlays and proposed budget authority and submit an economic evaluation of the budget outlays and budget authority to the Committees on the Budget of both Houses before March 1 of each year.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 913; Pub. L. 99–177, title II, § 222, Dec. 12, 1985, 99 Stat. 1060.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 913; Pub. L. 99–177, title II, § 222, Dec. 12, 1985, 99 Stat. 1060.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1109(a) | 31:11a(a). | July 12, 1974, Pub. L. 93–344, § 605, 88 Stat. 325. |
+| 1109(a) | 31:11a(a). | July 12, 1974, Pub. L. 93–344, § 605, 88 Stat. 325. |
 | 1109(b) | 31:11a(b). |  |
 
 In the section, the words “budget outlays” are substituted for “outlays” for consistency in the revised title.
@@ -1287,17 +1287,17 @@ In subsection (b), the words “so submitted” are omitted as unnecessary. The 
 
 **Amendments**
 
-1985—Subsec. (a). Pub. L. 99–177, § 222(a), substituted “On or before the first Monday after January 3 of each year (on or before February 5 in 1986)” for “Before November 11 of each year”.
+1985—Subsec. (a). Pub. L. 99–177, § 222(a), substituted “On or before the first Monday after January 3 of each year (on or before February 5 in 1986)” for “Before November 11 of each year”.
 
-Subsec. (b). Pub. L. 99–177, § 222(b), substituted “March 1” for “January 1”.
+Subsec. (b). Pub. L. 99–177, § 222(b), substituted “March 1” for “January 1”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-## § 1110. Year-ahead requests for authorizing legislation
+## § 1110. Year-ahead requests for authorizing legislation
 
 A request to enact legislation authorizing new budget authority to continue a program or activity for a fiscal year shall be submitted to Congress before May 16 of the year before the year in which the fiscal year begins. If a new program or activity will continue for more than one year, the request must be submitted for at least the first and 2d fiscal years.
 
@@ -1307,11 +1307,11 @@ A request to enact legislation authorizing new budget authority to continue a pr
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1110 | 31:11c. | July 12, 1974, Pub. L. 93–344, § 607, 88 Stat. 325. |
+| 1110 | 31:11c. | July 12, 1974, Pub. L. 93–344, § 607, 88 Stat. 325. |
 
 The words “Notwithstanding any other provision of law” are omitted as unnecessary. The words “the enactment of” before “new” are omitted as surplus. The words “(beginning with the fiscal year commencing October 1, 1976)” are omitted as executed. The words “a request for the enactment of legislation authorizing the enactment of new budget authority for” are omitted for consistency in the chapter.
 
-## § 1111. Improving economy and efficiency
+## § 1111. Improving economy and efficiency
 
 To improve economy and efficiency in the United States Government, the President shall—
 
@@ -1333,8 +1333,8 @@ To improve economy and efficiency in the United States Government, the President
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1111 | 31:18. | June 10, 1921, ch. 18, § 209, 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-|  | 31:18a. | Sept. 12, 1950, ch. 946, § 104, 64 Stat. 834; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 1111 | 31:18. | June 10, 1921, ch. 18, § 209, 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+|  | 31:18a. | Sept. 12, 1950, ch. 946, § 104, 64 Stat. 834; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
 
 In the section, before clause (1), the words “To improve economy and efficiency in the United States Government” are substituted for “(with a view of securing greater economy and efficiency in the conduct of the public service)” in 31:18 and “with a view to efficient and economical service” in 31:18a to eliminate unnecessary words. The word “President” is substituted for “Office of Management and Budget, when directed by the President” in 31:18 and “President, through the Director of the Office of Management and Budget” in 31:18a because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. In clause (1), the words “existing” and “detailed” are omitted as surplus.
 
@@ -1344,7 +1344,7 @@ In the section, before clause (1), the words “To improve economy and efficienc
 
 For provisions requiring executive departments and agencies to undertake to eliminate not less than 50 percent of its civilian internal management regulations not required by law, see Ex. Ord. No. 12861, Sept. 11, 1993, 58 F.R. 48255, set out as a note under section 601 of Title 5, Government Organization and Employees.
 
-## § 1112. Fiscal, budget, and program information
+## § 1112. Fiscal, budget, and program information
 
 **(a)** In this section, “agency” means a department, agency, or instrumentality of the United States Government except a mixed-ownership Government corporation.
 
@@ -1360,7 +1360,7 @@ For provisions requiring executive departments and agencies to undertake to elim
 
 **(d)** Agencies shall use the standard terms and classifications published under subsection (c)(1) of this section in providing fiscal, budget, and program information to Congress.
 
-**(e)** In consultation with the President, the head of each executive agency shall take actions necessary to achieve to the extent possible—
+**(e)** In consultation with the President, the head of each executive agency shall take actions necessary to achieve to the extent possible—
 
 **(1)** consistency in budget and accounting classifications;
 
@@ -1376,28 +1376,28 @@ For provisions requiring executive departments and agencies to undertake to elim
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1112(a) | 31:1157. | Oct. 26, 1970, Pub. L. 91–510, § 207, 84 Stat. 1168. |
-| 1112(b) | 31:1151. | Oct. 26, 1970, Pub. L. 91–510, §§ 201, 202(a), (b), 203(d), 84 Stat. 1167, 1168; restated July 12, 1974, Pub. L. 93–344, § 801(a), 88 Stat. 327, 328, 329. |
+| 1112(a) | 31:1157. | Oct. 26, 1970, Pub. L. 91–510, § 207, 84 Stat. 1168. |
+| 1112(b) | 31:1151. | Oct. 26, 1970, Pub. L. 91–510, §§ 201, 202(a), (b), 203(d), 84 Stat. 1167, 1168; restated July 12, 1974, Pub. L. 93–344, § 801(a), 88 Stat. 327, 328, 329. |
 | 1112(c) | 31:1152(a)(1)(1st, 2d sentences), (2), (b). |  |
 | 1112(d) | 31:1152(a)(1)(last sentence). |  |
-| 1112(e) | 31:18c. | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 106; added Aug. 1, 1956, ch. 814, § 2(a), 70 Stat. 782; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 1112(e) | 31:18c. | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 106; added Aug. 1, 1956, ch. 814, § 2(a), 70 Stat. 782; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
 | 1112(f) | 31:1153(d). |  |
 
 In the section, the words “program information” are substituted for “program-related data and information” to eliminate unnecessary words.
 
-In subsection (a), the words “ ‘agency’ . . . of the United States Government except a mixed-ownership Government corporation” are substituted for “ ‘Federal agency’ . . . wholly owned Government corporation” for clarity and consistency in the revised title and with other titles of the United States Code. The word “establishment” is omitted as surplus. The words “government of the District of Columbia” are omitted as superseded by sections 441–455, 501, and 736 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 798, 812, 823).
+In subsection (a), the words “ ‘agency’ . . . of the United States Government except a mixed-ownership Government corporation” are substituted for “ ‘Federal agency’ . . . wholly owned Government corporation” for clarity and consistency in the revised title and with other titles of the United States Code. The word “establishment” is omitted as surplus. The words “government of the District of Columbia” are omitted as superseded by sections 441–455, 501, and 736 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 798, 812, 823).
 
 In subsections (b) and (c)(1), the word “develop” is omitted as being included in “establish”.
 
 In subsection (b), the words “The development, establishment, and maintenance of such systems shall be carried out so as” are omitted as unnecessary because of the restatement.
 
-In subsection (c)(1) and (2), the words “terms and classifications” are substituted for “terminology, definitions, classifications, and codes” to eliminate unnecessary words. In clause (1), the words “The authority contained in this section shall include, but not be limited to” are omitted as surplus. In clause (2), the words “After June 30, 1975” are omitted as executed. The word “additional” is omitted as surplus. The words “establishment, maintenance, and use of” are substituted for “development, establishment, and maintenance, modification . . . implementation” to eliminate unnecessary words and for consistency in the revised section. The words “by the executive branch of the Government” are substituted for “executive” for clarity. The text of 31:1152(a)(2)(1st sentence) is omitted as executed. In clause (3), the words “this subsection” are substituted for “this responsibility” because of the restatement.
+In subsection (c)(1) and (2), the words “terms and classifications” are substituted for “terminology, definitions, classifications, and codes” to eliminate unnecessary words. In clause (1), the words “The authority contained in this section shall include, but not be limited to” are omitted as surplus. In clause (2), the words “After June 30, 1975” are omitted as executed. The word “additional” is omitted as surplus. The words “establishment, maintenance, and use of” are substituted for “development, establishment, and maintenance, modification . . . implementation” to eliminate unnecessary words and for consistency in the revised section. The words “by the executive branch of the Government” are substituted for “executive” for clarity. The text of 31:1152(a)(2)(1st sentence) is omitted as executed. In clause (3), the words “this subsection” are substituted for “this responsibility” because of the restatement.
 
 In subsection (c)(1), the word “revenues” is omitted as being included in “receipts”. The word “spending” is substituted for “expenditures” for consistency in the revised title.
 
 In subsection (e), the word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
-## § 1113. Congressional information
+## § 1113. Congressional information
 
 **(a)**
 
@@ -1457,7 +1457,7 @@ In subsection (e), the word “President” is substituted for “Director of th
 
 **(C)** the use of standard classifications.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 914; Pub. L. 97–452, § 1(3), Jan. 12, 1983, 96 Stat. 2467.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 914; Pub. L. 97–452, § 1(3), Jan. 12, 1983, 96 Stat. 2467.)
 
 **Historical and Revision Notes**
 
@@ -1465,9 +1465,9 @@ In subsection (e), the word “President” is substituted for “Director of th
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1113(a) | 31:20. | June 10, 1921, ch. 18, § 212, 42 Stat. 23; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-| 1113(b)–(d) | 31:1153(a)–(c). | Oct. 26, 1970, Pub. L. 91–510, § 203(a)–(c), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 801(a), 88 Stat. 328. |
-| 1113(e)(1) | 31:1152(c), (d). | Oct. 26, 1970, Pub. L. 91–510, § 202(c)–(f), 84 Stat. 1167; restated July 12, 1974, Pub. L. 93–344, § 801(a), 88 Stat. 328. |
+| 1113(a) | 31:20. | June 10, 1921, ch. 18, § 212, 42 Stat. 23; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 1113(b)–(d) | 31:1153(a)–(c). | Oct. 26, 1970, Pub. L. 91–510, § 203(a)–(c), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 801(a), 88 Stat. 328. |
+| 1113(e)(1) | 31:1152(c), (d). | Oct. 26, 1970, Pub. L. 91–510, § 202(c)–(f), 84 Stat. 1167; restated July 12, 1974, Pub. L. 93–344, § 801(a), 88 Stat. 328. |
 | 1113(e)(2) | 31:1152(e). |  |
 | 1113(e)(3) | 31:1152(f). |  |
 
@@ -1481,7 +1481,7 @@ In subsection (b)(1) and (3), the words “to such committee or joint committee,
 
 In subsection (c), the word “inventory” is omitted as unnecessary. In clause (1), the word “develop” is omitted as being included in “establish”. In clause (2), the word “obtaining” is substituted for “securing” as being more precise. In clause (3), the word “evaluating” is substituted for “appraising and analyzing” for clarity and to eliminate unnecessary words.
 
-In subsection (d), the words “individually or jointly . . . file” are substituted for “central file or files” for clarity. The word “information” is substituted for “data and information”, and the word “needs” is substituted for “requirements”, for consistency in the section. The words “carry out” are substituted for “carry out the purposes of” because of the restatement. A cross reference to 31:1155–1156 is not included because those sections are not relevant to the information file described in the source provisions. The words “so that it is easier” are substituted for “facilitate” for clarity. The word “modern” is omitted as surplus.
+In subsection (d), the words “individually or jointly . . . file” are substituted for “central file or files” for clarity. The word “information” is substituted for “data and information”, and the word “needs” is substituted for “requirements”, for consistency in the section. The words “carry out” are substituted for “carry out the purposes of” because of the restatement. A cross reference to 31:1155–1156 is not included because those sections are not relevant to the information file described in the source provisions. The words “so that it is easier” are substituted for “facilitate” for clarity. The word “modern” is omitted as surplus.
 
 In subsection (e)(1)(A), the word “specify” is omitted as being included in “identify”. The words “carry out” are substituted for “support the objectives” for consistency. A cross reference to 31:1154–1156 is not included because those sections are not relevant to the continuing program described in the source provisions. In clause (B), the words “including such needs expressed in legislative requirements” are omitted as surplus. In clause (D), the word “duplicative” is omitted as being included in “unnecessary”.
 
@@ -1493,7 +1493,7 @@ In subsection (e)(3), the words “Before March 2 of each year” are substitute
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1113(e)(2) | 31 App.:11(k)(2). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L. 97–255, § 3, 96 Stat. 815. |
+| 1113(e)(2) | 31 App.:11(k)(2). | June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L. 97–255, § 3, 96 Stat. 815. |
 
 **Editorial Notes**
 
@@ -1505,15 +1505,15 @@ In subsection (e)(3), the words “Before March 2 of each year” are substitute
 
 **Termination of Reporting Requirements Contained in This Section**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes below.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes below.
 
 **Oversight of Counterterrorism and Antiterrorism Activities; Report**
 
-Pub. L. 105–85, div. A, title X, § 1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, title XIV, § 1403, Oct. 17, 1998, 112 Stat. 2168, which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by Pub. L. 107–296, title VIII, § 889(b)(1), Nov. 25, 2002, 116 Stat. 2251.
+Pub. L. 105–85, div. A, title X, § 1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, title XIV, § 1403, Oct. 17, 1998, 112 Stat. 2168, which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by Pub. L. 107–296, title VIII, § 889(b)(1), Nov. 25, 2002, 116 Stat. 2251.
 
 **Termination of Reporting Requirements**
 
-Pub. L. 108–203, title IV, § 413, Mar. 2, 2004, 118 Stat. 529, provided that:
+Pub. L. 108–203, title IV, § 413, Mar. 2, 2004, 118 Stat. 529, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1531,7 +1531,7 @@ Pub. L. 108–203, title IV, § 413, Mar. 2, 2004, 118 Stat. 529, provided tha
 
 > **“(B)** Section 221(i)(3) of the Social Security Act (42 U.S.C. 421(i)(3)).”
 
-Pub. L. 107–303, title III, § 302(a), Nov. 27, 2002, 116 Stat. 2360, provided that:
+Pub. L. 107–303, title III, § 302(a), Nov. 27, 2002, 116 Stat. 2360, provided that:
 
 > **“(a) In General.—** Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; Public Law 104–66) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1555,7 +1555,7 @@ Pub. L. 107–303, title III, § 302(a), Nov. 27, 2002, 116 Stat. 2360, provid
 
 > **“(10) National requirements and costs of water pollution control.—** Section 516 of the Federal Water Pollution Control Act (33 U.S.C. 1375).”
 
-Pub. L. 107–295, title III, § 322(b), Nov. 25, 2002, 116 Stat. 2103, as amended by Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], § 8605(b)(2), Jan. 1, 2021, 134 Stat. 4765, provided that:
+Pub. L. 107–295, title III, § 322(b), Nov. 25, 2002, 116 Stat. 2103, as amended by Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], § 8605(b)(2), Jan. 1, 2021, 134 Stat. 4765, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1571,7 +1571,7 @@ Pub. L. 107–295, title III, § 322(b), Nov. 25, 2002, 116 Stat. 2103, as ame
 
 > **“(6) Activities of interagency coordinating committee on oil pollution research.—** Section 7001(e) of the Oil Pollution Act of 1990 (33 U.S.C. 2761(e)).”
 
-Pub. L. 107–74, § 1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110–69, title VII, § 7024(a)(3), Aug. 9, 2007, 121 Stat. 689, provided that:
+Pub. L. 107–74, § 1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110–69, title VII, § 7024(a)(3), Aug. 9, 2007, 121 Stat. 689, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1633,7 +1633,7 @@ Pub. L. 107–74, § 1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 11
 
 > **“(29)** Section 16 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2215).”
 
-Pub. L. 106–569, title XI, § 1102, Dec. 27, 2000, 114 Stat. 3029, as amended by Pub. L. 111–67, § 12(b)(2), Sept. 30, 2009, 123 Stat. 2022, provided that:
+Pub. L. 106–569, title XI, § 1102, Dec. 27, 2000, 114 Stat. 3029, as amended by Pub. L. 111–67, § 12(b)(2), Sept. 30, 2009, 123 Stat. 2022, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1711,7 +1711,7 @@ Pub. L. 106–569, title XI, § 1102, Dec. 27, 2000, 114 Stat. 3029, as amende
 
 > **“(37)** Section 202(b)(8) of the National Housing Act (12 U.S.C. 1708(b)(8)).”
 
-Pub. L. 106–554, § 1(a)(4) [div. A, § 1402], Dec. 21, 2000, 114 Stat. 2763, 2763A–214, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. A, § 1402], Dec. 21, 2000, 114 Stat. 2763, 2763A–214, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1723,7 +1723,7 @@ Pub. L. 106–554, § 1(a)(4) [div. A, § 1402], Dec. 21, 2000, 114 Stat. 27
 
 > **“(4)** Section 1014(e) of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 685(e)).”
 
-Pub. L. 106–554, § 1(a)(7) [title III, § 301], Dec. 21, 2000, 114 Stat. 2763, 2763A–629, as amended by Pub. L. 117–286, § 4(b)(51), Dec. 27, 2022, 136 Stat. 4349, provided that:
+Pub. L. 106–554, § 1(a)(7) [title III, § 301], Dec. 21, 2000, 114 Stat. 2763, 2763A–629, as amended by Pub. L. 117–286, § 4(b)(51), Dec. 27, 2022, 136 Stat. 4349, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1917,7 +1917,7 @@ Pub. L. 106–554, § 1(a)(7) [title III, § 301], Dec. 21, 2000, 114 Stat. 
 
 > **“(33)** Section 4207(f) of the Omnibus Budget Reconciliation Act of 1990 [Pub. L. 101–508] (42 U.S.C. 1395b–1 note).”
 
-Pub. L. 106–476, title I, § 1463, Nov. 9, 2000, 114 Stat. 2173, provided that:
+Pub. L. 106–476, title I, § 1463, Nov. 9, 2000, 114 Stat. 2173, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1925,9 +1925,9 @@ Pub. L. 106–476, title I, § 1463, Nov. 9, 2000, 114 Stat. 2173, provided th
 
 > **“(2)** Section 181 of the Trade Act of 1974 (19 U.S.C. 2241).”
 
-Pub. L. 106–419, title IV, § 403(a), Nov. 1, 2000, 114 Stat. 1863, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following: sections 503(c), 529, 541(c), 542(c), 3036, and 7312(d) of title 38, United States Code.”
+Pub. L. 106–419, title IV, § 403(a), Nov. 1, 2000, 114 Stat. 1863, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following: sections 503(c), 529, 541(c), 542(c), 3036, and 7312(d) of title 38, United States Code.”
 
-Pub. L. 106–197, § 1, May 2, 2000, 114 Stat. 246, provided that:
+Pub. L. 106–197, § 1, May 2, 2000, 114 Stat. 246, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1975,7 +1975,7 @@ Pub. L. 106–197, § 1, May 2, 2000, 114 Stat. 246, provided that:
 
 > **“(22)** Section 102(b)(5) of the Department of Justice and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395] (28 U.S.C. 533 note).”
 
-Pub. L. 106–181, title I, § 163, Apr. 5, 2000, 114 Stat. 91, provided that:
+Pub. L. 106–181, title I, § 163, Apr. 5, 2000, 114 Stat. 91, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -1985,7 +1985,7 @@ Pub. L. 106–181, title I, § 163, Apr. 5, 2000, 114 Stat. 91, provided that:
 
 > **“(3)** [Former] Section 47131 of such title.”
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -2025,7 +2025,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(e)], Nov.
 
 > **“(18)** Section 5(b) of the Japan-United States Friendship Act (Public Law 94–118; 22 U.S.C. 2904(b)) (relating to Japan-United States Friendship Commission activities).”
 
-Pub. L. 106–65, div. A, title X, § 1031, Oct. 5, 1999, 113 Stat. 749, as amended by Pub. L. 115–232, div. A, title VIII, § 813(i)(2), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], § 8605(b)(3), Jan. 1, 2021, 134 Stat. 4765, provided that:
+Pub. L. 106–65, div. A, title X, § 1031, Oct. 5, 1999, 113 Stat. 749, as amended by Pub. L. 115–232, div. A, title VIII, § 813(i)(2), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], § 8605(b)(3), Jan. 1, 2021, 134 Stat. 4765, provided that:
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -2091,13 +2091,13 @@ Pub. L. 106–65, div. A, title X, § 1031, Oct. 5, 1999, 113 Stat. 749, as am
 
 > **“(31)** Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158) [now 50 U.S.C. 4558].
 
-> **“[(32)** Repealed. Pub. L. 115–232, div. A, title VIII, § 813(i)(2), Aug. 13, 2018, 132 Stat. 1852.]
+> **“[(32)** Repealed. Pub. L. 115–232, div. A, title VIII, § 813(i)(2), Aug. 13, 2018, 132 Stat. 1852.]
 
 > **“(33)** Section 704 of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1377).
 
 > **“(34)** Section 113(b) of the National Defense Authorization Act for Fiscal Year 1990 and 1991 (Public Law 101–189; 103 Stat. 1373).”
 
-Pub. L. 104–66, title III, § 3003, Dec. 21, 1995, 109 Stat. 734, as amended by Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 236], Nov. 29, 1999, 113 Stat. 1536, 1501A–302; Pub. L. 110–314, title II, § 203(b), Aug. 14, 2008, 122 Stat. 3040; Pub. L. 117–286, § 4(b)(52), Dec. 27, 2022, 136 Stat. 4349, provided that:
+Pub. L. 104–66, title III, § 3003, Dec. 21, 1995, 109 Stat. 734, as amended by Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 236], Nov. 29, 1999, 113 Stat. 1536, 1501A–302; Pub. L. 110–314, title II, § 203(b), Aug. 14, 2008, 122 Stat. 3040; Pub. L. 117–286, § 4(b)(52), Dec. 27, 2022, 136 Stat. 4349, provided that:
 
 > **“(a) Termination.—**
 
@@ -2183,7 +2183,7 @@ Pub. L. 104–66, title III, § 3003, Dec. 21, 1995, 109 Stat. 734, as amended
 
 **Authority To Increase Efficiency in Reporting to Congress**
 
-Pub. L. 103–356, title III, § 301, Oct. 13, 1994, 108 Stat. 3412, provided that:
+Pub. L. 103–356, title III, § 301, Oct. 13, 1994, 108 Stat. 3412, provided that:
 
 > **“(a) Purpose.—** The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlines that shall provide for more efficient workload distribution or improve the quality of reports.
 
@@ -2193,7 +2193,7 @@ Pub. L. 103–356, title III, § 301, Oct. 13, 1994, 108 Stat. 3412, provided 
 
 > **“(d) Consultation.—** Before the publication of the recommendations under subsection (b), the Director or his designee shall consult with the appropriate congressional committees concerning the recommendations.”
 
-## [§ 1114. Repealed. Pub. L. 103–355, title II, § 2454(c)(2), Oct. 13, 1994, 108 Stat. 3326]
+## [§ 1114. Repealed. Pub. L. 103–355, title II, § 2454(c)(2), Oct. 13, 1994, 108 Stat. 3326]
 
 Section, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 916, related to budget information on consulting services.
 
@@ -2203,7 +2203,7 @@ Section, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 916, related to budget infor
 
 For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 8752 of Title 10, Armed Forces.
 
-## § 1115. Federal Government and agency performance plans
+## § 1115. Federal Government and agency performance plans
 
 **(a) Federal Government Performance Plans.—** In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on a website described in section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
 
@@ -2333,21 +2333,21 @@ For effective date and applicability of repeal, see section 10001 of Pub. L. 103
 
 **(12)** “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
-(Added Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867; amended Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(A), Jan. 1, 2021, 134 Stat. 4827; Pub. L. 117–263, div. E, title LIII, § 5303(b), Dec. 23, 2022, 136 Stat. 3250; Pub. L. 118–190, § 5, Dec. 23, 2024, 138 Stat. 2656.)
+(Added Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867; amended Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(A), Jan. 1, 2021, 134 Stat. 4827; Pub. L. 117–263, div. E, title LIII, § 5303(b), Dec. 23, 2022, 136 Stat. 3250; Pub. L. 118–190, § 5, Dec. 23, 2024, 138 Stat. 2656.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1115, added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, § 1311(a), Nov. 25, 2002, 116 Stat. 2289; Pub. L. 108–136, div. A, title XIV, § 1421(b), Nov. 24, 2003, 117 Stat. 1667, related to performance plans, prior to repeal by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867.
+A prior section 1115, added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, § 1311(a), Nov. 25, 2002, 116 Stat. 2289; Pub. L. 108–136, div. A, title XIV, § 1421(b), Nov. 24, 2003, 117 Stat. 1667, related to performance plans, prior to repeal by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867.
 
 **Amendments**
 
 2024—Subsec. (a)(3). Pub. L. 118–190 added par. (3) and struck out former par. (3) which read as follows: “for each Federal Government performance goal, identify a lead Government official who shall be responsible for coordinating the efforts to achieve the goal;”.
 
-2022—Subsec. (b)(5). Pub. L. 117–263, § 5303(b)(1), amended par. (5) generally. Prior to amendment, par. (5) provided standards for a description of how the performance goals were to be achieved.
+2022—Subsec. (b)(5). Pub. L. 117–263, § 5303(b)(1), amended par. (5) generally. Prior to amendment, par. (5) provided standards for a description of how the performance goals were to be achieved.
 
-Subsec. (g). Pub. L. 117–263, § 5303(b)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) required the Chief Human Capital Officer to prepare the portion of the annual performance plan described under subsec. (b)(5)(A).
+Subsec. (g). Pub. L. 117–263, § 5303(b)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) required the Chief Human Capital Officer to prepare the portion of the annual performance plan described under subsec. (b)(5)(A).
 
 2021—Subsec. (a). Pub. L. 116–283 substituted “a website described in” for “the website provided under” in introductory provisions.
 
@@ -2355,7 +2355,7 @@ Subsec. (g). Pub. L. 117–263, § 5303(b)(2), amended subsec. (g) generally. 
 
 **Format of Performance Plans and Reports**
 
-Pub. L. 111–352, § 10, Jan. 4, 2011, 124 Stat. 3880, as amended by Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(B), Jan. 1, 2021, 134 Stat. 4827, provided that:
+Pub. L. 111–352, § 10, Jan. 4, 2011, 124 Stat. 3880, as amended by Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(B), Jan. 1, 2021, 134 Stat. 4827, provided that:
 
 > **“(a) Searchable, Machine-readable Plans and Reports.—** For fiscal year 2012 and each fiscal year thereafter, each agency required to produce strategic plans, performance plans, and performance updates in accordance with the amendments made by this Act [see Short Title of 2011 Amendment note set out under section 1101 of this title] shall—
 
@@ -2375,7 +2375,7 @@ Pub. L. 111–352, § 10, Jan. 4, 2011, 124 Stat. 3880, as amended by Pub. L. 
 
 **Implementation of Pub. L. 111–352**
 
-Pub. L. 111–352, § 14, Jan. 4, 2011, 124 Stat. 3883, provided that:
+Pub. L. 111–352, § 14, Jan. 4, 2011, 124 Stat. 3883, provided that:
 
 > **“(a) Interim Planning and Reporting.—**
 
@@ -2399,7 +2399,7 @@ Pub. L. 111–352, § 14, Jan. 4, 2011, 124 Stat. 3883, provided that:
 
 **Congressional Oversight and Legislation**
 
-Pub. L. 111–352, § 15, Jan. 4, 2011, 124 Stat. 3883, provided that:
+Pub. L. 111–352, § 15, Jan. 4, 2011, 124 Stat. 3883, provided that:
 
 > **“(a) In General.—** Nothing in this Act [see Short Title of 2011 Amendment note set out under section 1101 of this title] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a goal of the Federal Government or an agency.
 
@@ -2439,7 +2439,7 @@ Pub. L. 111–352, § 15, Jan. 4, 2011, 124 Stat. 3883, provided that:
 
 **Strategic Planning and Performance Measurement Training**
 
-Pub. L. 103–62, § 9, Aug. 3, 1993, 107 Stat. 295, provided that: “The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement.”
+Pub. L. 103–62, § 9, Aug. 3, 1993, 107 Stat. 295, provided that: “The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement.”
 
 **Executive Documents**
 
@@ -2583,7 +2583,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 George W. Bush.
 
-## § 1116. Agency performance reporting
+## § 1116. Agency performance reporting
 
 **(a)** The head of each agency shall make available on a public website of the agency and to the Office of Management and Budget an update on agency performance.
 
@@ -2631,27 +2631,27 @@ George W. Bush.
 
 **(e)** The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of agency performance updates under this section shall be performed only by Federal employees.
 
-(Added Pub. L. 111–352, § 4, Jan. 4, 2011, 124 Stat. 3871; amended Pub. L. 118–190, §§ 2(b), 7(b), Dec. 23, 2024, 138 Stat. 2654, 2656.)
+(Added Pub. L. 111–352, § 4, Jan. 4, 2011, 124 Stat. 3871; amended Pub. L. 118–190, §§ 2(b), 7(b), Dec. 23, 2024, 138 Stat. 2654, 2656.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1116, added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 288; amended Pub. L. 106–531, § 5(a)(1), (b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–296, title XIII, § 1311(b), Nov. 25, 2002, 116 Stat. 2290, related to program performance reports, prior to repeal by Pub. L. 111–352, § 4, Jan. 4, 2011, 124 Stat. 3871.
+A prior section 1116, added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 288; amended Pub. L. 106–531, § 5(a)(1), (b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–296, title XIII, § 1311(b), Nov. 25, 2002, 116 Stat. 2290, related to program performance reports, prior to repeal by Pub. L. 111–352, § 4, Jan. 4, 2011, 124 Stat. 3871.
 
 **Amendments**
 
-2024—Subsec. (b)(1). Pub. L. 118–190, § 7(b), substituted “shall occur not later than 150 days after” for “shall occur no less than 150 days after”.
+2024—Subsec. (b)(1). Pub. L. 118–190, § 7(b), substituted “shall occur not later than 150 days after” for “shall occur no less than 150 days after”.
 
-Subsec. (c)(8). Pub. L. 118–190, § 2(b)(1), added par. (8).
+Subsec. (c)(8). Pub. L. 118–190, § 2(b)(1), added par. (8).
 
-Subsecs. (f) to (i). Pub. L. 118–190, § 2(b)(2), struck out subsecs. (f) to (i) which related to determination of unmet performance goals and various action plans to address unmet goals after 1, 2, and 3 consecutive fiscal years.
+Subsecs. (f) to (i). Pub. L. 118–190, § 2(b)(2), struck out subsecs. (f) to (i) which related to determination of unmet performance goals and various action plans to address unmet goals after 1, 2, and 3 consecutive fiscal years.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Merit Systems Protection Board**
 
-Pub. L. 112–199, title I, § 116(b), Nov. 27, 2012, 126 Stat. 1474, provided that:
+Pub. L. 112–199, title I, § 116(b), Nov. 27, 2012, 126 Stat. 1474, provided that:
 
 > **“(1) In general.—** Each report submitted annually by the Merit Systems Protection Board under section 1116 of title 31, United States Code, shall, with respect to the period covered by such report, include as an addendum the following:
 
@@ -2661,11 +2661,11 @@ Pub. L. 112–199, title I, § 116(b), Nov. 27, 2012, 126 Stat. 1474, provided
 
 > **“(2) First report.—** The first report described under paragraph (1) submitted after the date of enactment of this Act [Nov. 27, 2012] shall include an addendum required under that paragraph that covers the period beginning on the effective date of this Act [see Effective Date of 2012 Amendment note set out under section 1204 of Title 5, Government Organization and Employees] and ending at the end of the fiscal year in which such effective date occurs.”
 
-## § 1117. Exemption
+## § 1117. Exemption
 
 The Director of the Office of Management and Budget may exempt from the requirements of sections 1115 and 1116 of this title and section 306 of title 5, any agency with annual outlays of $20,000,000 or less.
 
-(Added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 289.)
+(Added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2673,13 +2673,13 @@ The Director of the Office of Management and Budget may exempt from the requirem
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
 
-## [§§ 1118, 1119. Repealed. Pub. L. 118–190, § 6(a), Dec. 23, 2024, 138 Stat. 2656]
+## [§§ 1118, 1119. Repealed. Pub. L. 118–190, § 6(a), Dec. 23, 2024, 138 Stat. 2656]
 
-Section 1118, added Pub. L. 103–62, § 6(a), Aug. 3, 1993, 107 Stat. 290, designated agencies as pilot projects in performance measurement for fiscal years 1994, 1995, and 1996.
+Section 1118, added Pub. L. 103–62, § 6(a), Aug. 3, 1993, 107 Stat. 290, designated agencies as pilot projects in performance measurement for fiscal years 1994, 1995, and 1996.
 
-Section 1119, added Pub. L. 103–62, § 6(c), Aug. 3, 1993, 107 Stat. 291, designated agencies as pilot projects in performance budgeting for fiscal years 1998 and 1999.
+Section 1119, added Pub. L. 103–62, § 6(c), Aug. 3, 1993, 107 Stat. 291, designated agencies as pilot projects in performance budgeting for fiscal years 1998 and 1999.
 
-## § 1120. Federal Government and agency priority goals
+## § 1120. Federal Government and agency priority goals
 
 **(a) Federal Government Priority Goals.—**
 
@@ -2749,7 +2749,7 @@ Section 1119, added Pub. L. 103–62, § 6(c), Aug. 3, 1993, 107 Stat. 291, de
 
 **(c)** The functions and activities of this section shall be considered to be inherently governmental functions. The development of Federal Government and agency priority goals shall be performed only by Federal employees.
 
-(Added Pub. L. 111–352, § 5, Jan. 4, 2011, 124 Stat. 3873; amended Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(C), Jan. 1, 2021, 134 Stat. 4828; Pub. L. 118–190, § 4, Dec. 23, 2024, 138 Stat. 2655.)
+(Added Pub. L. 111–352, § 5, Jan. 4, 2011, 124 Stat. 3873; amended Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(C), Jan. 1, 2021, 134 Stat. 4828; Pub. L. 118–190, § 4, Dec. 23, 2024, 138 Stat. 2655.)
 
 **Editorial Notes**
 
@@ -2765,7 +2765,7 @@ Section 1119, added Pub. L. 103–62, § 6(c), Aug. 3, 1993, 107 Stat. 291, de
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 1121. Progress reviews and use of performance information
+## § 1121. Progress reviews and use of performance information
 
 **(a) Use of Performance Information To Achieve Federal Government Priority Goals.—** Not less than quarterly, the Director of the Office of Management and Budget, with the support of the Performance Improvement Council, shall—
 
@@ -2797,7 +2797,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(2) Review.—** Not less frequently than annually and consistent with guidance issued by the Director of the Office of Management and Budget, the head and Chief Operating Officer of each agency,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 shall—
 
@@ -2833,17 +2833,17 @@ shall—
 
 **(C)** any other senior agency official designated by the head of the agency, the sustained involvement of whom may help the agency increase the likelihood of achieving 1 or more covered goals.
 
-(Added Pub. L. 111–352, § 6, Jan. 4, 2011, 124 Stat. 3875; amended Pub. L. 118–190, § 2(a)(1), Dec. 23, 2024, 138 Stat. 2653.)
+(Added Pub. L. 111–352, § 6, Jan. 4, 2011, 124 Stat. 3875; amended Pub. L. 118–190, § 2(a)(1), Dec. 23, 2024, 138 Stat. 2653.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–190, § 2(a)(1)(A), substituted “Progress reviews and use of performance information” for “Quarterly priority progress reviews and use of performance information” in section catchline.
+2024—Pub. L. 118–190, § 2(a)(1)(A), substituted “Progress reviews and use of performance information” for “Quarterly priority progress reviews and use of performance information” in section catchline.
 
-Subsec. (c). Pub. L. 118–190, § 2(a)(1)(B), added subsec. (c).
+Subsec. (c). Pub. L. 118–190, § 2(a)(1)(B), added subsec. (c).
 
-## § 1122. Transparency of programs, priority goals, and results
+## § 1122. Transparency of programs, priority goals, and results
 
 **(a) Transparency of Agency Programs.—**
 
@@ -2999,7 +2999,7 @@ Subsec. (c). Pub. L. 118–190, § 2(a)(1)(B), added subsec. (c).
 
 **(d) Information.—** The information made available under this section shall be readily accessible and easily found on the Internet by the public and members and committees of Congress. Such information shall also be presented in a searchable, machine-readable format. The Director of the Office of Management and Budget shall issue guidance to ensure that such information is provided in a way that presents a coherent picture of all Federal programs, and the performance of the Federal Government as well as individual agencies.
 
-(Added Pub. L. 111–352, § 7, Jan. 4, 2011, 124 Stat. 3876; amended Pub. L. 116–283, div. H, title XCVI, § 9601(a), (c)(1), Jan. 1, 2021, 134 Stat. 4823, 4827; Pub. L. 118–190, § 3, Dec. 23, 2024, 138 Stat. 2654.)
+(Added Pub. L. 111–352, § 7, Jan. 4, 2011, 124 Stat. 3876; amended Pub. L. 116–283, div. H, title XCVI, § 9601(a), (c)(1), Jan. 1, 2021, 134 Stat. 4823, 4827; Pub. L. 118–190, § 3, Dec. 23, 2024, 138 Stat. 2654.)
 
 **Editorial Notes**
 
@@ -3013,45 +3013,45 @@ Section 2(b) of the Federal Funding Accountability and Transparency Act of 2006,
 
 **Amendments**
 
-2024—Subsec. (a)(2)(C). Pub. L. 118–190, § 3(1)(A)(i)(I), inserted “required to be included on the single website under subparagraph (A) and the information” before “in the program inventory”.
+2024—Subsec. (a)(2)(C). Pub. L. 118–190, § 3(1)(A)(i)(I), inserted “required to be included on the single website under subparagraph (A) and the information” before “in the program inventory”.
 
-Subsec. (a)(2)(E). Pub. L. 118–190, § 3(1)(A)(i)(II)–(iii), added subpar. (E).
+Subsec. (a)(2)(E). Pub. L. 118–190, § 3(1)(A)(i)(II)–(iii), added subpar. (E).
 
-Subsec. (a)(4)(A). Pub. L. 118–190, § 3(1)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is made available under paragraph (3); and”.
+Subsec. (a)(4)(A). Pub. L. 118–190, § 3(1)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is made available under paragraph (3); and”.
 
-Subsec. (b)(6). Pub. L. 118–190, § 3(2), added par. (6) and struck out former par. (6) which read as follows: “the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;”.
+Subsec. (b)(6). Pub. L. 118–190, § 3(2), added par. (6) and struck out former par. (6) which read as follows: “the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;”.
 
-Subsec. (c)(5). Pub. L. 118–190, § 3(3), added par. (5) and struck out former par. (5) which read as follows: “the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;”.
+Subsec. (c)(5). Pub. L. 118–190, § 3(3), added par. (5) and struck out former par. (5) which read as follows: “the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;”.
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 9601(a)(2), added par. (1). Former par. (1) redesignated (2).
+2021—Subsec. (a)(1). Pub. L. 116–283, § 9601(a)(2), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (a)(2). Pub. L. 116–283, § 9601(a)(1), (3)(A), redesignated former par. (1) as (2) and substituted “Website and program inventory” for “In general” in heading and “The Director of the Office of Management and Budget shall” for “Not later than October 1, 2012, the Office of Management and Budget shall” in introductory provisions. Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 116–283, § 9601(a)(1), (3)(A), redesignated former par. (1) as (2) and substituted “Website and program inventory” for “In general” in heading and “The Director of the Office of Management and Budget shall” for “Not later than October 1, 2012, the Office of Management and Budget shall” in introductory provisions. Former par. (2) redesignated (3).
 
-Subsec. (a)(2)(A). Pub. L. 116–283, § 9601(a)(3)(B), inserted “that includes the information required under subsections (b) and (c)” after “a single website”.
+Subsec. (a)(2)(A). Pub. L. 116–283, § 9601(a)(3)(B), inserted “that includes the information required under subsections (b) and (c)” after “a single website”.
 
-Subsec. (a)(2)(B). Pub. L. 116–283, § 9601(a)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “at a minimum, update the website on a quarterly basis; and”.
+Subsec. (a)(2)(B). Pub. L. 116–283, § 9601(a)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “at a minimum, update the website on a quarterly basis; and”.
 
-Subsec. (a)(2)(C). Pub. L. 116–283, § 9601(a)(3)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “include on the website information about each program identified by the agencies.”
+Subsec. (a)(2)(C). Pub. L. 116–283, § 9601(a)(3)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “include on the website information about each program identified by the agencies.”
 
-Subsec. (a)(2)(D). Pub. L. 116–283, § 9601(a)(3)(C), added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 116–283, § 9601(a)(3)(C), added subpar. (D).
 
-Subsec. (a)(3). Pub. L. 116–283, § 9601(a)(1), (4)(A), redesignated former subpar. (2) as (3) and substituted “identified in the program inventory required under paragraph (2)(B) shall include” for “described under paragraph (1) shall include” in introductory provisions.
+Subsec. (a)(3). Pub. L. 116–283, § 9601(a)(1), (4)(A), redesignated former subpar. (2) as (3) and substituted “identified in the program inventory required under paragraph (2)(B) shall include” for “described under paragraph (1) shall include” in introductory provisions.
 
-Subsec. (a)(3)(D). Pub. L. 116–283, § 9601(a)(4)(B)–(D), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 116–283, § 9601(a)(4)(B)–(D), added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 116–283, § 9601(a)(5), added par. (4).
+Subsec. (a)(4). Pub. L. 116–283, § 9601(a)(5), added par. (4).
 
-Subsec. (b). Pub. L. 116–283, § 9601(c)(1)(A), inserted “described in subsection (a)(2)(A)” after “the website” in two places in introductory provisions.
+Subsec. (b). Pub. L. 116–283, § 9601(c)(1)(A), inserted “described in subsection (a)(2)(A)” after “the website” in two places in introductory provisions.
 
-Subsec. (c). Pub. L. 116–283, § 9601(c)(1)(B), inserted “described in subsection (a)(2)(A)” after “the website” in introductory provisions.
+Subsec. (c). Pub. L. 116–283, § 9601(c)(1)(B), inserted “described in subsection (a)(2)(A)” after “the website” in introductory provisions.
 
-Subsec. (d). Pub. L. 116–283, § 9601(c)(1)(C), struck out “on Website” after “Information” in heading and “on the website” after “available” in text.
+Subsec. (d). Pub. L. 116–283, § 9601(c)(1)(C), struck out “on Website” after “Information” in heading and “on the website” after “available” in text.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Guidance, Implementation, Reporting, and Review**
 
-Pub. L. 116–283, div. H, title XCVI, § 9601(b), Jan. 1, 2021, 134 Stat. 4825, provided that:
+Pub. L. 116–283, div. H, title XCVI, § 9601(b), Jan. 1, 2021, 134 Stat. 4825, provided that:
 
 > **“(1) Definitions.—** In this subsection—
 
@@ -3115,7 +3115,7 @@ Pub. L. 116–283, div. H, title XCVI, § 9601(b), Jan. 1, 2021, 134 Stat. 482
 
 > **“(D)** include the recommendations of the Comptroller General, if any, for improving implementation of this section and the amendments made by this section.”
 
-## § 1123. Chief Operating Officers
+## § 1123. Chief Operating Officers
 
 **(a) Establishment.—** At each agency, the deputy head of agency, or equivalent, shall be the Chief Operating Officer of the agency.
 
@@ -3129,9 +3129,9 @@ Pub. L. 116–283, div. H, title XCVI, § 9601(b), Jan. 1, 2021, 134 Stat. 482
 
 **(4)** coordinate and collaborate with relevant personnel within and external to the agency who have a significant role in contributing to and achieving the mission and goals of the agency, such as the Chief Financial Officer, Chief Human Capital Officer, Chief Acquisition Officer/Senior Procurement Executive, Chief Information Officer, and other line of business chiefs at the agency.
 
-(Added Pub. L. 111–352, § 8, Jan. 4, 2011, 124 Stat. 3878.)
+(Added Pub. L. 111–352, § 8, Jan. 4, 2011, 124 Stat. 3878.)
 
-## § 1124. Performance Improvement Officers and the Performance Improvement Council
+## § 1124. Performance Improvement Officers and the Performance Improvement Council
 
 **(a) Performance Improvement Officers.—**
 
@@ -3191,9 +3191,9 @@ Pub. L. 116–283, div. H, title XCVI, § 9601(b), Jan. 1, 2021, 134 Stat. 482
 
 **(B) Personnel.—** The heads of agencies with Performance Improvement Officers serving on the Council shall, as appropriate and to the extent permitted by law, provide at the request of the chairperson of the Performance Improvement Council up to 2 personnel authorizations to serve at the direction of the chairperson.
 
-(Added Pub. L. 111–352, § 9, Jan. 4, 2011, 124 Stat. 3878.)
+(Added Pub. L. 111–352, § 9, Jan. 4, 2011, 124 Stat. 3878.)
 
-## § 1125. Elimination of unnecessary agency reporting
+## § 1125. Elimination of unnecessary agency reporting
 
 **(a) Definitions.—** In this section:
 
@@ -3265,7 +3265,7 @@ Pub. L. 116–283, div. H, title XCVI, § 9601(b), Jan. 1, 2021, 134 Stat. 482
 
 **(d) Request for Elimination of Unnecessary Reports.—** In addition to including the list of plans and reports determined to be outdated or duplicative by each agency in the budget justification materials of each agency, the Director of the Office of Management and Budget may concurrently submit to Congress legislation to eliminate or consolidate such plans and reports.
 
-(Added Pub. L. 111–352, § 11(b), Jan. 4, 2011, 124 Stat. 3881; amended Pub. L. 118–172, § 2(a), Dec. 23, 2024, 138 Stat. 2593.)
+(Added Pub. L. 111–352, § 11(b), Jan. 4, 2011, 124 Stat. 3881; amended Pub. L. 118–172, § 2(a), Dec. 23, 2024, 138 Stat. 2593.)
 
 **Editorial Notes**
 
@@ -3275,21 +3275,21 @@ Sections 7243(b)(1)(C)(vii) and 7244(a), (b) of the James M. Inhofe National Def
 
 **Amendments**
 
-2024—Subsecs. (a), (b). Pub. L. 118–172, § 2(a)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to agency identification of unnecessary reports and plans and reports for first year of implementation and subsequent years, respectively.
+2024—Subsecs. (a), (b). Pub. L. 118–172, § 2(a)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to agency identification of unnecessary reports and plans and reports for first year of implementation and subsequent years, respectively.
 
-Subsec. (c). Pub. L. 118–172, § 2(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 118–172, § 2(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 118–172, § 2(a)(3), substituted “in the budget justification materials of each agency” for “in the budget of the United States Government, as provided by section 1105(a)(37)”.
+Subsec. (d). Pub. L. 118–172, § 2(a)(3), substituted “in the budget justification materials of each agency” for “in the budget of the United States Government, as provided by section 1105(a)(37)”.
 
-Pub. L. 118–172, § 2(a)(1), redesignated subsec. (c) as (d).
+Pub. L. 118–172, § 2(a)(1), redesignated subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Updated OMB Guidance**
 
-Pub. L. 118–172, § 2(c)(2), Dec. 23, 2024, 138 Stat. 2596, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of the Office of Management and Budget shall issue updated guidance to agencies to ensure that the requirements under subsections (a) and (b) of section 1125 of title 31, United States Code, as amended by this Act, for agency submissions of recommendations and justifications for plans and reports to sunset, modify, consolidate, or reduce the frequency of the submission of [sic] are also submitted as a separate attachment in conformity with the agency submission requirements of electronic copies of reports submitted by agencies under section 7244(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; chapter 41 of title 44, United States Code, note [44 U.S.C. 4101 note prec.]) for publication on the online portal established under section 7243 of such Act.”
+Pub. L. 118–172, § 2(c)(2), Dec. 23, 2024, 138 Stat. 2596, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of the Office of Management and Budget shall issue updated guidance to agencies to ensure that the requirements under subsections (a) and (b) of section 1125 of title 31, United States Code, as amended by this Act, for agency submissions of recommendations and justifications for plans and reports to sunset, modify, consolidate, or reduce the frequency of the submission of [sic] are also submitted as a separate attachment in conformity with the agency submission requirements of electronic copies of reports submitted by agencies under section 7244(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; chapter 41 of title 44, United States Code, note [44 U.S.C. 4101 note prec.]) for publication on the online portal established under section 7243 of such Act.”
 
-## § 1126. Program Management Improvement Officers and Program Management Policy Council
+## § 1126. Program Management Improvement Officers and Program Management Policy Council
 
 **(a) Program Management Improvement Officers.—**
 
@@ -3371,21 +3371,21 @@ Pub. L. 118–172, § 2(c)(2), Dec. 23, 2024, 138 Stat. 2596, provided that: �
 
 **(5) Support.—** The head of each agency with a Project Management Improvement Officer serving on the Council shall provide administrative support to the Council, as appropriate, at the request of the Chairperson.
 
-(Added Pub. L. 114–264, § 2(b)(1), Dec. 14, 2016, 130 Stat. 1372; amended Pub. L. 116–92, div. A, title IX, § 902(86), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 116–283, div. A, title VIII, § 884, div. H, title XCVI, § 9601(c)(2)(D), Jan. 1, 2021, 134 Stat. 3790, 4828.)
+(Added Pub. L. 114–264, § 2(b)(1), Dec. 14, 2016, 130 Stat. 1372; amended Pub. L. 116–92, div. A, title IX, § 902(86), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 116–283, div. A, title VIII, § 884, div. H, title XCVI, § 9601(c)(2)(D), Jan. 1, 2021, 134 Stat. 3790, 4828.)
 
 **Editorial Notes**
 
 **Similar Provisions**
 
-Another section 1126, added Pub. L. 114–328, div. A, title VIII, § 861(b)(1), Dec. 23, 2016, 130 Stat. 2299, which was substantially identical to section 1126 as added by Pub. L. 114–264, was repealed by Pub. L. 115–91, div. A, title VIII, § 810(b), Dec. 12, 2017, 131 Stat. 1458.
+Another section 1126, added Pub. L. 114–328, div. A, title VIII, § 861(b)(1), Dec. 23, 2016, 130 Stat. 2299, which was substantially identical to section 1126 as added by Pub. L. 114–264, was repealed by Pub. L. 115–91, div. A, title VIII, § 810(b), Dec. 12, 2017, 131 Stat. 1458.
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 884(1), inserted “, who has significant program and project management oversight responsibilities,” after “senior executive of the agency”.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 884(1), inserted “, who has significant program and project management oversight responsibilities,” after “senior executive of the agency”.
 
-Subsec. (b)(2)(E). Pub. L. 116–283, § 9601(c)(2)(D), substituted “a website described in” for “the website of the Office of Management and Budget pursuant to”.
+Subsec. (b)(2)(E). Pub. L. 116–283, § 9601(c)(2)(D), substituted “a website described in” for “the website of the Office of Management and Budget pursuant to”.
 
-Subsec. (b)(4). Pub. L. 116–283, § 884(2), substituted “four times” for “twice”.
+Subsec. (b)(4). Pub. L. 116–283, § 884(2), substituted “four times” for “twice”.
 
 2019—Subsec. (a)(3). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
@@ -3393,7 +3393,7 @@ Subsec. (b)(4). Pub. L. 116–283, § 884(2), substituted “four times” for
 
 **Program and Project Management Personnel Standards**
 
-Pub. L. 114–264, § 2(c), Dec. 14, 2016, 130 Stat. 1374, provided that:
+Pub. L. 114–264, § 2(c), Dec. 14, 2016, 130 Stat. 1374, provided that:
 
 > **“(1) Definition.—** In this subsection, the term ‘agency’ means each agency described in section 901(b) of title 31, United States Code, other than the Department of Defense.
 
@@ -3405,4 +3405,4 @@ Pub. L. 114–264, § 2(c), Dec. 14, 2016, 130 Stat. 1374, provided that:
 
 > **“(C)** establish a new career path for program and project managers within an agency.”
 
-Similar provisions were contained in Pub. L. 114–328, div. A, title VIII, § 861(c), Dec. 23, 2016, 130 Stat. 2301, prior to repeal by Pub. L. 115–91, div. A, title VIII, § 810(c), Dec. 12, 2017, 131 Stat. 1458.
+Similar provisions were contained in Pub. L. 114–328, div. A, title VIII, § 861(c), Dec. 23, 2016, 130 Stat. 2301, prior to repeal by Pub. L. 115–91, div. A, title VIII, § 810(c), Dec. 12, 2017, 131 Stat. 1458.

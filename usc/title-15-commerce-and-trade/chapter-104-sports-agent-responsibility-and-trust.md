@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 104—SPORTS AGENT RESPONSIBILITY AND TRUST
 
-## § 7801. Definitions
+## § 7801. Definitions
 
 As used in this chapter, the following definitions apply:
 
@@ -55,15 +55,15 @@ The term “State” includes a State of the United States, the District of Colu
 
 The term “student athlete” means an individual who engages in, is eligible to engage in, or may be eligible in the future to engage in, any intercollegiate sport. An individual who is permanently ineligible to participate in a particular intercollegiate sport is not a student athlete for purposes of that sport.
 
-(Pub. L. 108–304, § 2, Sept. 24, 2004, 118 Stat. 1125.)
+(Pub. L. 108–304, § 2, Sept. 24, 2004, 118 Stat. 1125.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 108–304, § 1, Sept. 24, 2004, 118 Stat. 1125, provided that: “This Act [enacting this chapter] may be cited as the ‘Sports Agent Responsibility and Trust Act’.”
+Pub. L. 108–304, § 1, Sept. 24, 2004, 118 Stat. 1125, provided that: “This Act [enacting this chapter] may be cited as the ‘Sports Agent Responsibility and Trust Act’.”
 
-## § 7802. Regulation of unfair and deceptive acts and practices in connection with the contact between an athlete agent and a student athlete
+## § 7802. Regulation of unfair and deceptive acts and practices in connection with the contact between an athlete agent and a student athlete
 
 **(a) Conduct prohibited** It is unlawful for an athlete agent to—
 
@@ -91,9 +91,9 @@ The disclosure document must be signed by the student athlete, or, if the studen
 
 The disclosure document must contain, in close proximity to the signature of the student athlete, or, if the student athlete is under the age of 18, the signature of such student athlete’s parent or legal guardian, a conspicuous notice in boldface type stating: “Warning to Student Athlete: If you agree orally or in writing to be represented by an agent now or in the future you may lose your eligibility to compete as a student athlete in your sport. Within 72 hours after entering into this contract or before the next athletic event in which you are eligible to participate, whichever occurs first, both you and the agent by whom you are agreeing to be represented must notify the athletic director of the educational institution at which you are enrolled, or other individual responsible for athletic programs at such educational institution, that you have entered into an agency contract.”
 
-(Pub. L. 108–304, § 3, Sept. 24, 2004, 118 Stat. 1126.)
+(Pub. L. 108–304, § 3, Sept. 24, 2004, 118 Stat. 1126.)
 
-## § 7803. Enforcement
+## § 7803. Enforcement
 
 **(a) Unfair or deceptive act or practice**
 
@@ -103,15 +103,15 @@ A violation of this chapter shall be treated as a violation of a rule defining a
 
 The Commission shall enforce this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter.
 
-(Pub. L. 108–304, § 4, Sept. 24, 2004, 118 Stat. 1127.)
+(Pub. L. 108–304, § 4, Sept. 24, 2004, 118 Stat. 1127.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-## § 7804. Actions by States
+## § 7804. Actions by States
 
 **(a) In general**
 
@@ -147,9 +147,9 @@ On receiving notice under subsection (a)(2), the Commission shall have the right
 
 **(B)** to file a petition for appeal.
 
-**(c) Construction** For purposes of bringing any civil action under subsection (a), nothing in this chapter 1
+**(c) Construction** For purposes of bringing any civil action under subsection (a), nothing in this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
 
@@ -173,7 +173,7 @@ Any action brought under subsection (a) may be brought in the district court of 
 
 **(2)** may be found.
 
-(Pub. L. 108–304, § 5, Sept. 24, 2004, 118 Stat. 1127.)
+(Pub. L. 108–304, § 5, Sept. 24, 2004, 118 Stat. 1127.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ Any action brought under subsection (a) may be brought in the district court of 
 
 This chapter, referred to in subsec. (c), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 108–304, to reflect the probable intent of Congress, because Pub. L. 108–304 does not contain titles.
 
-## § 7805. Protection of educational institution
+## § 7805. Protection of educational institution
 
 **(a) Notice required**
 
@@ -205,16 +205,16 @@ In an action taken under this section, the court may award to the prevailing par
 
 This section does not restrict the rights, remedies, or defenses of any person under law or equity.
 
-(Pub. L. 108–304, § 6, Sept. 24, 2004, 118 Stat. 1128.)
+(Pub. L. 108–304, § 6, Sept. 24, 2004, 118 Stat. 1128.)
 
-## § 7806. Limitation
+## § 7806. Limitation
 
 Nothing in this chapter shall be construed to prohibit an individual from seeking any remedies available under existing Federal or State law or equity.
 
-(Pub. L. 108–304, § 7, Sept. 24, 2004, 118 Stat. 1128.)
+(Pub. L. 108–304, § 7, Sept. 24, 2004, 118 Stat. 1128.)
 
-## § 7807. Sense of Congress
+## § 7807. Sense of Congress
 
 It is the sense of Congress that States should enact the Uniform Athlete Agents Act of 2000 drafted by the National Conference of Commissioners on Uniform State Laws, to protect student athletes and the integrity of amateur sports from unscrupulous sports agents. In particular, it is the sense of Congress that States should enact the provisions relating to the registration of sports agents, the required form of contract, the right of the student athlete to cancel an agency contract, the disclosure requirements relating to record maintenance, reporting, renewal, notice, warning, and security, and the provisions for reciprocity among the States.
 
-(Pub. L. 108–304, § 8, Sept. 24, 2004, 118 Stat. 1129.)
+(Pub. L. 108–304, § 8, Sept. 24, 2004, 118 Stat. 1129.)

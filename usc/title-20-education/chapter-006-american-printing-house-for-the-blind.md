@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 6—AMERICAN PRINTING HOUSE FOR THE BLIND
 
-## § 101. Annual appropriations
+## § 101. Annual appropriations
 
 For the purpose of enabling the American Printing House for the Blind more adequately to provide books and apparatus for the education of the blind, there is hereby authorized to be appropriated annually to it, such sum as the Congress may determine; which sum shall be expended in accordance with the requirements of sections 101, 102, and 104 of this title, under rules and regulations prescribed by the Secretary of Education, to promote the education of the blind.
 
-(Mar. 3, 1879, ch. 186, §§ 1, 2, 20 Stat. 468; June 25, 1906, ch. 3536, 34 Stat. 460; Aug. 4, 1919, ch. 31, 41 Stat. 272; Feb. 8, 1927, ch. 76, 44 Stat. 1060; Aug. 23, 1937, ch. 736, 50 Stat. 744; May 22, 1952, ch. 321, 66 Stat. 89; Aug. 2, 1956, ch. 882, § 2, 70 Stat. 939; Pub. L. 87–294, § 4, Sept. 22, 1961, 75 Stat. 627; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 100–630, title IV, §§ 402(a), 403, Nov. 7, 1988, 102 Stat. 3316.)
+(Mar. 3, 1879, ch. 186, §§ 1, 2, 20 Stat. 468; June 25, 1906, ch. 3536, 34 Stat. 460; Aug. 4, 1919, ch. 31, 41 Stat. 272; Feb. 8, 1927, ch. 76, 44 Stat. 1060; Aug. 23, 1937, ch. 736, 50 Stat. 744; May 22, 1952, ch. 321, 66 Stat. 89; Aug. 2, 1956, ch. 882, § 2, 70 Stat. 939; Pub. L. 87–294, § 4, Sept. 22, 1961, 75 Stat. 627; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 100–630, title IV, §§ 402(a), 403, Nov. 7, 1988, 102 Stat. 3316.)
 
 **Editorial Notes**
 
@@ -29,9 +29,9 @@ Prior to amendment by Pub. L. 100–630, section was comprised of two sentences.
 
 **Amendments**
 
-1988—Pub. L. 100–630, § 402(a), which provided that the perpetual trust fund and permanent annual appropriations thereof established by the Act of Mar. 3, 1879, as amended by the Act of June 25, 1906, are terminated, was executed by striking the first sentence of this section which read as follows: “The sum of $250,000, set apart as a perpetual trust fund for the purpose of aiding the education of the blind in the United States, through the American Printing House for the Blind, shall be credited on the books of the Treasury Department as a perpetual trust fund for that purpose, to be held by the Secretary of the Treasury; and the sum of $10,000, being equivalent to 4 per centum on the principal of said trust fund, is appropriated, out of any moneys in the Treasury not otherwise appropriated, and such appropriation shall be deemed a permanent annual appropriation and shall be expended in the manner and for the purposes authorized by sections 101, 102, and 104 of this title.” See Codification note above.
+1988—Pub. L. 100–630, § 402(a), which provided that the perpetual trust fund and permanent annual appropriations thereof established by the Act of Mar. 3, 1879, as amended by the Act of June 25, 1906, are terminated, was executed by striking the first sentence of this section which read as follows: “The sum of $250,000, set apart as a perpetual trust fund for the purpose of aiding the education of the blind in the United States, through the American Printing House for the Blind, shall be credited on the books of the Treasury Department as a perpetual trust fund for that purpose, to be held by the Secretary of the Treasury; and the sum of $10,000, being equivalent to 4 per centum on the principal of said trust fund, is appropriated, out of any moneys in the Treasury not otherwise appropriated, and such appropriation shall be deemed a permanent annual appropriation and shall be expended in the manner and for the purposes authorized by sections 101, 102, and 104 of this title.” See Codification note above.
 
-Pub. L. 100–630, § 403, struck out “In addition to the permanent appropriation of $10,000, made in this section”.
+Pub. L. 100–630, § 403, struck out “In addition to the permanent appropriation of $10,000, made in this section”.
 
 1961—Pub. L. 87–294 struck out provisions which authorized an annual appropriation of not more than $400,000, inserted provisions authorizing an annual appropriation of such sum as the Congress may determine, and required expenditure of such sum under rules and regulations prescribed by the Secretary of Health, Education, and Welfare.
 
@@ -47,15 +47,15 @@ Pub. L. 100–630, § 403, struck out “In addition to the permanent appropri
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–630, title IV, § 402(b), Nov. 7, 1988, 102 Stat. 3316, provided that: “This section [amending this section] shall take effect on October 1, 1989.”
+Pub. L. 100–630, title IV, § 402(b), Nov. 7, 1988, 102 Stat. 3316, provided that: “This section [amending this section] shall take effect on October 1, 1989.”
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–294, § 5, Sept. 22, 1961, 75 Stat. 627, provided that: “The amendments made by this Act [amending this section and section 102 of this title] shall be effective immediately after the date of its enactment [Sept. 22, 1961].”
+Pub. L. 87–294, § 5, Sept. 22, 1961, 75 Stat. 627, provided that: “The amendments made by this Act [amending this section and section 102 of this title] shall be effective immediately after the date of its enactment [Sept. 22, 1961].”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–630, title IV, § 401, Nov. 7, 1988, 102 Stat. 3316, provided that: “This title [amending this section and enacting provisions set out as notes under this section] may be cited as the ‘American Printing House for the Blind Amendments of 1988’.”
+Pub. L. 100–630, title IV, § 401, Nov. 7, 1988, 102 Stat. 3316, provided that: “This title [amending this section and enacting provisions set out as notes under this section] may be cited as the ‘American Printing House for the Blind Amendments of 1988’.”
 
 **Transfer of Functions**
 
@@ -63,11 +63,11 @@ Pub. L. 100–630, title IV, § 401, Nov. 7, 1988, 102 Stat. 3316, provided th
 
 **Compensation to American Printing House for the Blind for Vested Rights**
 
-Pub. L. 100–630, title IV, § 404, Nov. 7, 1988, 102 Stat. 3316, provided that: “Any and all rights of the American Printing House for the Blind determined to have vested in the perpetual trust fund established by the Act of March 3, 1879 [see Codification note above], shall be deemed to be compensated by the appropriation to the American Printing House for the Blind for fiscal year 1990.”
+Pub. L. 100–630, title IV, § 404, Nov. 7, 1988, 102 Stat. 3316, provided that: “Any and all rights of the American Printing House for the Blind determined to have vested in the perpetual trust fund established by the Act of March 3, 1879 [see Codification note above], shall be deemed to be compensated by the appropriation to the American Printing House for the Blind for fiscal year 1990.”
 
 **Ineffectiveness of References to Perpetual Trust Fund and Annual Appropriations**
 
-Pub. L. 100–630, title IV, § 405, Nov. 7, 1988, 102 Stat. 3317, provided that: “Notwithstanding any Federal law, reference to the perpetual trust fund and permanent annual appropriations thereof established by the Act of March 3, 1879 [see Codification note above], shall not be given any effect.”
+Pub. L. 100–630, title IV, § 405, Nov. 7, 1988, 102 Stat. 3317, provided that: “Notwithstanding any Federal law, reference to the perpetual trust fund and permanent annual appropriations thereof established by the Act of March 3, 1879 [see Codification note above], shall not be given any effect.”
 
 **Executive Documents**
 
@@ -75,9 +75,9 @@ Pub. L. 100–630, title IV, § 405, Nov. 7, 1988, 102 Stat. 3317, provided th
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
+Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
 
-## § 102. Application of appropriations
+## § 102. Application of appropriations
 
 The Secretary of Education is authorized to pay over semiannually, to the trustees of the American Printing House for the Blind, located in Louisville, Kentucky, and chartered in 1858 by the Legislature of Kentucky, upon requisition of their president, countersigned by their treasurer, one-half of such annual appropriation upon the following conditions:
 
@@ -107,7 +107,7 @@ Fifth. Before any money be paid to the treasurer of the American Printing House 
 
 Sixth. The superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall each, ex officio, be a member of the Board of Trustees of the American Printing House for the Blind only for purposes of administering sections 101, 102 and 104 of this title.
 
-(Mar. 3, 1879, ch. 186, § 3, 20 Stat. 468; June 25, 1906, ch. 3536, 34 Stat. 460; Aug. 2, 1956, ch. 882, § 1, 70 Stat. 938; Pub. L. 87–294, §§ 1–3, Sept. 22, 1961, 75 Stat. 627; Pub. L. 91–230, title VIII, § 811(a), (b), Apr. 13, 1970, 84 Stat. 194, 195; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
+(Mar. 3, 1879, ch. 186, § 3, 20 Stat. 468; June 25, 1906, ch. 3536, 34 Stat. 460; Aug. 2, 1956, ch. 882, § 1, 70 Stat. 938; Pub. L. 87–294, §§ 1–3, Sept. 22, 1961, 75 Stat. 627; Pub. L. 91–230, title VIII, § 811(a), (b), Apr. 13, 1970, 84 Stat. 194, 195; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
 **Editorial Notes**
 
@@ -117,15 +117,15 @@ For purposes of codification, the provisions of section 3 of act Mar. 3, 1879, w
 
 **Amendments**
 
-1970—Par. First. Pub. L. 91–230, § 811(a), designated existing provisions as subpar. (A), made provisions applicable to private nonprofit institutions, and added subpars. (B) and (C).
+1970—Par. First. Pub. L. 91–230, § 811(a), designated existing provisions as subpar. (A), made provisions applicable to private nonprofit institutions, and added subpars. (B) and (C).
 
-Par. Fourth. Pub. L. 91–230, § 811(b), made provisions applicable to private nonprofit institutions.
+Par. Fourth. Pub. L. 91–230, § 811(b), made provisions applicable to private nonprofit institutions.
 
-1961—Pub. L. 87–294, § 1, substituted “Secretary of Health, Education, and Welfare” for “Secretary of the Treasury of the United States” and struck out “permanent” before “annual appropriation” in opening clause.
+1961—Pub. L. 87–294, § 1, substituted “Secretary of Health, Education, and Welfare” for “Secretary of the Treasury of the United States” and struck out “permanent” before “annual appropriation” in opening clause.
 
-Par. Second. Pub. L. 87–294, § 2, authorized the trustees to use each year a reasonable sum of the annual appropriation for salaries and other expenses of experts and other staff to assist special committees which may be appointed in performance of their functions, and for expenses of such special committees.
+Par. Second. Pub. L. 87–294, § 2, authorized the trustees to use each year a reasonable sum of the annual appropriation for salaries and other expenses of experts and other staff to assist special committees which may be appointed in performance of their functions, and for expenses of such special committees.
 
-Par. Sixth. Pub. L. 87–294, § 3, substituted “superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall” for “superintendents of the various public institutions for the education of the blind in the United States shall”, and limited the duties of the Board to the administration of sections 101, 102, and 104 of this title.
+Par. Sixth. Pub. L. 87–294, § 3, substituted “superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall” for “superintendents of the various public institutions for the education of the blind in the United States shall”, and limited the duties of the Board to the administration of sections 101, 102, and 104 of this title.
 
 1956—Par. First. Act Aug. 2, 1956, authorized wider distribution of books and other special instructional material for the blind.
 
@@ -145,19 +145,19 @@ Amendment by Pub. L. 87–294 effective immediately after Sept. 22, 1961, see se
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
+Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
 
-## § 103. Publications for National Library for the Blind
+## § 103. Publications for National Library for the Blind
 
 Two copies of each of the publication printed by the American Printing House for the Blind shall be furnished free of charge to the National Library for the Blind located at 1729 H Street Northwest, Washington, District of Columbia.
 
-(Nov. 4, 1919, ch. 93, § 1, 41 Stat. 332.)
+(Nov. 4, 1919, ch. 93, § 1, 41 Stat. 332.)
 
-## § 104. Annual reports by trustees
+## § 104. Annual reports by trustees
 
 The trustees of said American Printing House for the Blind shall annually make to the Secretary of Education a report of the items of their expenditure of the appropriation aforesaid during the year preceding their report, and shall annually furnish him with a voucher from each public or private nonprofit institution for the education of the blind, showing that the amount of books and tangible apparatus due has been received.
 
-(Mar. 3, 1879, ch. 186, § 4, 20 Stat. 469; June 25, 1906, ch. 3536, 34 Stat. 460; 1939 Reorg. Plan No. II, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 91–230, title VIII, § 811(c), Apr. 13, 1970, 84 Stat. 195; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
+(Mar. 3, 1879, ch. 186, § 4, 20 Stat. 469; June 25, 1906, ch. 3536, 34 Stat. 460; 1939 Reorg. Plan No. II, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 91–230, title VIII, § 811(c), Apr. 13, 1970, 84 Stat. 195; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
 **Editorial Notes**
 
@@ -181,19 +181,19 @@ The word “appropriation” substituted in text for “income” to conform to 
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
+Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
 
-## § 105. Books for Library of Congress
+## § 105. Books for Library of Congress
 
 The distribution of embossed books manufactured by the American Printing House for the Blind at Louisville, Kentucky, out of the income of the fund provided by sections 101, 102, and 104 of this title, shall include one copy of every book so manufactured to be deposited in the Library of Congress at Washington.
 
-(Mar. 4, 1913, ch. 142, § 1, 37 Stat. 748.)
+(Mar. 4, 1913, ch. 142, § 1, 37 Stat. 748.)
 
-## § 106. Purchases through the General Services Administration
+## § 106. Purchases through the General Services Administration
 
 On and after September 8, 1978, the American Printing House for the Blind is authorized to make purchases through the General Services Administration.
 
-(Pub. L. 95–355, title I, § 100, Sept. 8, 1978, 92 Stat. 531.)
+(Pub. L. 95–355, title I, § 100, Sept. 8, 1978, 92 Stat. 531.)
 
 **Editorial Notes**
 
@@ -201,11 +201,11 @@ On and after September 8, 1978, the American Printing House for the Blind is aut
 
 Section is from the Second Supplemental Appropriations Act, 1978, and contained additional provisions relating to purchases by Howard University, Gallaudet University, and the National Technical Institute for the Deaf, which are set out in sections 130 and 4362 of this title.
 
-## § 106a. Financial and program audit by Secretary
+## § 106a. Financial and program audit by Secretary
 
 Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts to the American Printing House for the Blind shall be subject to financial and program audit by the Secretary of Education and the Secretary may withhold all or any portion of these appropriations if he determines that an institution has not cooperated fully in the conduct of such audits.
 
-(Pub. L. 102–394, title III, § 301, Oct. 6, 1992, 106 Stat. 1819.)
+(Pub. L. 102–394, title III, § 301, Oct. 6, 1992, 106 Stat. 1819.)
 
 **Editorial Notes**
 

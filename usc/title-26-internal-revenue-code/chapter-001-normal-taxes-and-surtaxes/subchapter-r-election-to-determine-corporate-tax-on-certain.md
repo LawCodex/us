@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior subchapter R, consisting of section 1361, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, § 4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
+A prior subchapter R, consisting of section 1361, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, § 4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
 
-## § 1352. Alternative tax on qualifying shipping activities
+## § 1352. Alternative tax on qualifying shipping activities
 
 In the case of an electing corporation, the tax imposed by section 11 shall be the amount equal to the sum of—
 
@@ -33,7 +33,7 @@ In the case of an electing corporation, the tax imposed by section 11 shall be t
 
 **(B)** the notional shipping income for the taxable year.
 
-(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1450.)
+(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1450.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -41,7 +41,7 @@ In the case of an electing corporation, the tax imposed by section 11 shall be t
 
 Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
 
-## § 1353. Notional shipping income
+## § 1353. Notional shipping income
 
 **(a) In general**
 
@@ -69,7 +69,7 @@ In the case of a qualifying vessel any of the income from which is not included 
 
 If for any period 2 or more persons are operators of a qualifying vessel, the notional shipping income from the operation of such vessel for such period shall be allocated among such persons on the basis of their respective ownership, charter, and operating agreement interests in such vessel or on such other basis as the Secretary may prescribe by regulations.
 
-(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1450; amended Pub. L. 109–135, title IV, § 403(g)(1)(A), Dec. 21, 2005, 119 Stat. 2624.)
+(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1450; amended Pub. L. 109–135, title IV, § 403(g)(1)(A), Dec. 21, 2005, 119 Stat. 2624.)
 
 **Editorial Notes**
 
@@ -87,7 +87,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
 
-## § 1354. Alternative tax election; revocation; termination
+## § 1354. Alternative tax election; revocation; termination
 
 **(a) In general**
 
@@ -141,7 +141,7 @@ The Secretary shall prescribe such annualization and other rules as are appropri
 
 If a qualifying vessel operator has made an election under subsection (a) and if such election has been terminated under subsection (d), such operator (and any successor operator) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1451; amended Pub. L. 109–135, title IV, § 403(g)(4), Dec. 21, 2005, 119 Stat. 2624; Pub. L. 114–41, title II, § 2006(a)(2)(C), July 31, 2015, 129 Stat. 457.)
+(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1451; amended Pub. L. 109–135, title IV, § 403(g)(4), Dec. 21, 2005, 119 Stat. 2624; Pub. L. 114–41, title II, § 2006(a)(2)(C), July 31, 2015, 129 Stat. 457.)
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
 
-## § 1355. Definitions and special rules
+## § 1355. Definitions and special rules
 
 **(a) Definitions** For purposes of this subchapter—
 
@@ -343,7 +343,7 @@ The term “qualified zone” means the Great Lakes Waterway and the St. Lawrenc
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1452; amended Pub. L. 109–135, title IV, § 403(g)(1)(B)–(2), Dec. 21, 2005, 119 Stat. 2624; Pub. L. 109–222, title II, § 205(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §§ 413(a), 415(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 115–141, div. U, title IV, § 401(a)(187), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1452; amended Pub. L. 109–135, title IV, § 403(g)(1)(B)–(2), Dec. 21, 2005, 119 Stat. 2624; Pub. L. 109–222, title II, § 205(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §§ 413(a), 415(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 115–141, div. U, title IV, § 401(a)(187), Mar. 23, 2018, 132 Stat. 1193.)
 
 **Editorial Notes**
 
@@ -351,37 +351,37 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 2018—Subsec. (f)(3). Pub. L. 115–141 substituted “on which” for “of which” in introductory provisions.
 
-2006—Subsec. (a)(4). Pub. L. 109–432, § 413(a), substituted “6,000” for “10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)”.
+2006—Subsec. (a)(4). Pub. L. 109–432, § 413(a), substituted “6,000” for “10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)”.
 
 Pub. L. 109–222 inserted “(6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)” after “10,000”.
 
-Subsecs. (g), (h). Pub. L. 109–432, § 415(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 109–432, § 415(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-2005—Subsec. (a)(8). Pub. L. 109–135, § 403(g)(1)(B), struck out heading and text of par. (8). Text read as follows: “The term ‘charter’ includes an operating agreement.”
+2005—Subsec. (a)(8). Pub. L. 109–135, § 403(g)(1)(B), struck out heading and text of par. (8). Text read as follows: “The term ‘charter’ includes an operating agreement.”
 
-Subsec. (b)(1). Pub. L. 109–135, § 403(g)(1)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), a person is treated as operating any vessel during any period if such vessel is—
+Subsec. (b)(1). Pub. L. 109–135, § 403(g)(1)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), a person is treated as operating any vessel during any period if such vessel is—
 
 “(A) owned by, or chartered (including a time charter) to, the person, and
 
 “(B) is in use as a qualifying vessel during such period.”
 
-Subsec. (c)(3). Pub. L. 109–135, § 403(g)(2), substituted “determined by treating all members of such group as 1 person.” for “determined—
+Subsec. (c)(3). Pub. L. 109–135, § 403(g)(2), substituted “determined by treating all members of such group as 1 person.” for “determined—
 
 “(A) by treating all members of such group as 1 person, and
 
 “(B) by disregarding vessel charters between members of such group.”
 
-Subsec. (d)(3). Pub. L. 109–135, § 403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the extent of a partner’s ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner’s interest in the partnership.”
+Subsec. (d)(3). Pub. L. 109–135, § 403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the extent of a partner’s ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner’s interest in the partnership.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. A, title IV, § 413(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 205 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222].”
+Pub. L. 109–432, div. A, title IV, § 413(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 205 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222].”
 
-Pub. L. 109–432, div. A, title IV, § 415(b), Dec. 20, 2006, 120 Stat. 2965, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 20, 2006].”
+Pub. L. 109–432, div. A, title IV, § 415(b), Dec. 20, 2006, 120 Stat. 2965, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 20, 2006].”
 
-Pub. L. 109–222, title II, § 205(b), May 17, 2006, 120 Stat. 350, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 109–222, title II, § 205(b), May 17, 2006, 120 Stat. 350, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2005.”
 
 **Effective Date of 2005 Amendment**
 
@@ -391,7 +391,7 @@ Amendments by Pub. L. 109–135 effective as if included in the provisions of th
 
 Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
 
-## § 1356. Qualifying shipping activities
+## § 1356. Qualifying shipping activities
 
 **(a) Qualifying shipping activities** For purposes of this subchapter, the term “qualifying shipping activities” means—
 
@@ -441,15 +441,15 @@ Such term shall not include any core qualifying activities.
 
 In the case of an electing group, subsections (c)(1) and (d)(3) shall be applied as if such group were 1 entity, and the limitations under such subsections shall be allocated among the corporations in such group.
 
-(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1454; amended Pub. L. 109–135, title IV, § 403(g)(3), Dec. 21, 2005, 119 Stat. 2624.)
+(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1454; amended Pub. L. 109–135, title IV, § 403(g)(3), Dec. 21, 2005, 119 Stat. 2624.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (c)(2). Pub. L. 109–135, § 403(g)(3)(B), inserted concluding provisions.
+2005—Subsec. (c)(2). Pub. L. 109–135, § 403(g)(3)(B), inserted concluding provisions.
 
-Subsec. (c)(3). Pub. L. 109–135, § 403(g)(3)(A), struck out heading and text of par. (3). Text read as follows:
+Subsec. (c)(3). Pub. L. 109–135, § 403(g)(3)(A), struck out heading and text of par. (3). Text read as follows:
 
 “(A) In general.—Such term shall not include any core qualifying activities.
 
@@ -465,7 +465,7 @@ Amendments by Pub. L. 109–135 effective as if included in the provisions of th
 
 Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
 
-## § 1357. Items not subject to regular tax; depreciation; interest
+## § 1357. Items not subject to regular tax; depreciation; interest
 
 **(a) Exclusion from gross income**
 
@@ -507,7 +507,7 @@ Except as provided in subparagraph (B), the interest expense of an electing corp
 
 In the case of a corporation which is a member of an electing group, the interest expense of such corporation shall be disallowed in the ratio that the fair market value of such corporation’s qualifying vessels bears to the fair market value of the electing groups total assets.
 
-(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1455.)
+(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1455.)
 
 **Editorial Notes**
 
@@ -521,7 +521,7 @@ The date of the enactment of this subchapter, referred to in subsec. (c)(2)(B)(i
 
 Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
 
-## § 1358. Allocation of credits, income, and deductions
+## § 1358. Allocation of credits, income, and deductions
 
 **(a) Qualifying shipping activities**
 
@@ -539,15 +539,15 @@ For purposes of this chapter, the qualifying shipping activities of an electing 
 
 **(2)** as between a person’s qualifying shipping activities and other activities carried on by it.
 
-(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1456; amended Pub. L. 115–141, div. U, title IV, § 401(a)(188), (189), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1456; amended Pub. L. 115–141, div. U, title IV, § 401(a)(188), (189), Mar. 23, 2018, 132 Stat. 1193.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–141, § 401(a)(188), substituted “section 1352(2)” for “section 1352(a)(2)”.
+2018—Subsec. (b)(1). Pub. L. 115–141, § 401(a)(188), substituted “section 1352(2)” for “section 1352(a)(2)”.
 
-Subsec. (c)(2). Pub. L. 115–141, § 401(a)(189), substituted “a person’s” for “an person’s”.
+Subsec. (c)(2). Pub. L. 115–141, § 401(a)(189), substituted “a person’s” for “an person’s”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -555,7 +555,7 @@ Subsec. (c)(2). Pub. L. 115–141, § 401(a)(189), substituted “a person’s
 
 Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
 
-## § 1359. Disposition of qualifying vessels
+## § 1359. Disposition of qualifying vessels
 
 **(a) In general**
 
@@ -583,7 +583,7 @@ For purposes of this section, the term “qualifying vessel operator” includes
 
 In the case of any replacement qualifying vessel purchased by the qualifying vessel operator which resulted in the nonrecognition of any part of the gain realized as the result of a sale or other disposition of a qualifying vessel, the basis shall be the cost of the replacement qualifying vessel decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.
 
-(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1456.)
+(Added Pub. L. 108–357, title II, § 248(a), Oct. 22, 2004, 118 Stat. 1456.)
 
 **Statutory Notes and Related Subsidiaries**
 

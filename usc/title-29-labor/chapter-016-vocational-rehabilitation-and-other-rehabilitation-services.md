@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## GENERAL PROVISIONS
 
-### § 701. Findings; purpose; policy
+### § 701. Findings; purpose; policy
 
 **(a) Findings** Congress finds that—
 
@@ -91,27 +91,27 @@ retrieved: 2026-10-11
 
 **(5)** support for individual and systemic advocacy and community involvement.
 
-(Pub. L. 93–112, § 2, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1095; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, § 402, July 22, 2014, 128 Stat. 1631.)
+(Pub. L. 93–112, § 2, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1095; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, § 402, July 22, 2014, 128 Stat. 1631.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(5), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(5), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 **Prior Provisions**
 
-A prior section 701, Pub. L. 93–112, § 2, Sept. 26, 1973, 87 Stat. 357; Pub. L. 95–602, title I, § 122(a)(1), Nov. 6, 1978, 92 Stat. 2984; Pub. L. 99–506, title I, § 101, Oct. 21, 1986, 100 Stat. 1808; Pub. L. 102–569, title I, § 101, Oct. 29, 1992, 106 Stat. 4346, related to findings, purpose, and policy, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
+A prior section 701, Pub. L. 93–112, § 2, Sept. 26, 1973, 87 Stat. 357; Pub. L. 95–602, title I, § 122(a)(1), Nov. 6, 1978, 92 Stat. 2984; Pub. L. 99–506, title I, § 101, Oct. 21, 1986, 100 Stat. 1808; Pub. L. 102–569, title I, § 101, Oct. 29, 1992, 106 Stat. 4346, related to findings, purpose, and policy, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
 
 **Amendments**
 
-2014—Subsec. (a)(4). Pub. L. 113–128, § 402(a)(1), substituted “workforce development systems defined in section 3102 of this title” for “workforce investment systems under title I of the Workforce Investment Act of 1998”.
+2014—Subsec. (a)(4). Pub. L. 113–128, § 402(a)(1), substituted “workforce development systems defined in section 3102 of this title” for “workforce investment systems under title I of the Workforce Investment Act of 1998”.
 
-Subsec. (a)(7). Pub. L. 113–128, § 402(a)(2)–(4), added par. (7).
+Subsec. (a)(7). Pub. L. 113–128, § 402(a)(2)–(4), added par. (7).
 
-Subsec. (b)(1)(A). Pub. L. 113–128, § 402(b)(1)(A), substituted “workforce development systems defined in section 3102 of this title” for “workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998”.
+Subsec. (b)(1)(A). Pub. L. 113–128, § 402(b)(1)(A), substituted “workforce development systems defined in section 3102 of this title” for “workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998”.
 
-Subsec. (b)(2) to (5). Pub. L. 113–128, § 402(b)(1)(B), (2)–(5), added par. (2), redesignated former par. (2) as (3), and added pars. (4) and (5).
+Subsec. (b)(2) to (5). Pub. L. 113–128, § 402(b)(1)(B), (2)–(5), added par. (2), redesignated former par. (2) as (3), and added pars. (4) and (5).
 
 1998—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
 
@@ -119,55 +119,55 @@ Subsec. (b)(2) to (5). Pub. L. 113–128, § 402(b)(1)(B), (2)–(5), added pa
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–213, § 1, July 29, 2010, 124 Stat. 2343, provided that: “This Act [enacting provisions set out as notes under sections 796f–1 and 796f–2 of this title] may be cited as the ‘Independent Living Centers Technical Adjustment Act’.”
+Pub. L. 111–213, § 1, July 29, 2010, 124 Stat. 2343, provided that: “This Act [enacting provisions set out as notes under sections 796f–1 and 796f–2 of this title] may be cited as the ‘Independent Living Centers Technical Adjustment Act’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–220, title IV, § 401, Aug. 7, 1998, 112 Stat. 1092, provided that title IV of Pub. L. 105–220 could be cited as the “Rehabilitation Act Amendments of 1998”, prior to repeal by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
+Pub. L. 105–220, title IV, § 401, Aug. 7, 1998, 112 Stat. 1092, provided that title IV of Pub. L. 105–220 could be cited as the “Rehabilitation Act Amendments of 1998”, prior to repeal by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–73, § 1, Aug. 11, 1993, 107 Stat. 718, provided that: “This Act [enacting sections 753 and 753a of this title, amending sections 706, 718 to 718b, 721 to 723, 725, 730 to 732, 744, 761a, 762, 771a, 777, 777a, 777f, 783, 791, 792, 794e, 795*l*, 796, 796c, 796d to 796e–2, 796f to 796f–4, and 796k of this title, sections 1431, 4301 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of Title 20, Education, and section 46 of Title 41, Public Contracts, enacting provisions set out as notes under section 725 of this title and section 4301 of Title 20, and amending provisions set out as a note under this section] may be cited as the ‘Rehabilitation Act Amendments of 1993’.”
+Pub. L. 103–73, § 1, Aug. 11, 1993, 107 Stat. 718, provided that: “This Act [enacting sections 753 and 753a of this title, amending sections 706, 718 to 718b, 721 to 723, 725, 730 to 732, 744, 761a, 762, 771a, 777, 777a, 777f, 783, 791, 792, 794e, 795*l*, 796, 796c, 796d to 796e–2, 796f to 796f–4, and 796k of this title, sections 1431, 4301 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of Title 20, Education, and section 46 of Title 41, Public Contracts, enacting provisions set out as notes under section 725 of this title and section 4301 of Title 20, and amending provisions set out as a note under this section] may be cited as the ‘Rehabilitation Act Amendments of 1993’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–569, § 1(a), Oct. 29, 1992, 106 Stat. 4344, provided that: “This Act [see Tables for classification] may be cited as the ‘Rehabilitation Act Amendments of 1992’.”
+Pub. L. 102–569, § 1(a), Oct. 29, 1992, 106 Stat. 4344, provided that: “This Act [see Tables for classification] may be cited as the ‘Rehabilitation Act Amendments of 1992’.”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–52, § 1, June 6, 1991, 105 Stat. 260, provided that: “This Act [amending sections 720, 732, 741, 761, 771, 772, 774, 775, 777, 777a, 777f, 785, 792, 795f, 795i, 795q, 796i, and 1904 of this title and section 1475 of Title 20, Education] may be cited as the ‘Rehabilitation Act Amendments of 1991’.”
+Pub. L. 102–52, § 1, June 6, 1991, 105 Stat. 260, provided that: “This Act [amending sections 720, 732, 741, 761, 771, 772, 774, 775, 777, 777a, 777f, 785, 792, 795f, 795i, 795q, 796i, and 1904 of this title and section 1475 of Title 20, Education] may be cited as the ‘Rehabilitation Act Amendments of 1991’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–506, § 1(a), Oct. 21, 1986, 100 Stat. 1807, provided that: “This Act [enacting sections 716, 717, 752, 794d, 795j to 795q, and 796d–1 of this title and section 2000d–7 of Title 42, The Public Health and Welfare, amending this section and sections 702, 705, 706, 711 to 715, 720 to 724, 730 to 732, 740, 741, 750, 751, 760 to 761b, 762, 762a, 770 to 777b, 777f, 780, 781, 783, 785, 791 to 794, 794c, 795, 795d to 795i, 796a, 796b, 796d to 796i, and 1904 of this title, and section 155a of former Title 36, Patriotic Societies and Observances, repealing section 751 of this title, and enacting provisions set out as notes under this section and sections 706, 730, 761a, and 795m of this title and section 1414 of Title 20, Education] may be cited as the ‘Rehabilitation Act Amendments of 1986’.”
+Pub. L. 99–506, § 1(a), Oct. 21, 1986, 100 Stat. 1807, provided that: “This Act [enacting sections 716, 717, 752, 794d, 795j to 795q, and 796d–1 of this title and section 2000d–7 of Title 42, The Public Health and Welfare, amending this section and sections 702, 705, 706, 711 to 715, 720 to 724, 730 to 732, 740, 741, 750, 751, 760 to 761b, 762, 762a, 770 to 777b, 777f, 780, 781, 783, 785, 791 to 794, 794c, 795, 795d to 795i, 796a, 796b, 796d to 796i, and 1904 of this title, and section 155a of former Title 36, Patriotic Societies and Observances, repealing section 751 of this title, and enacting provisions set out as notes under this section and sections 706, 730, 761a, and 795m of this title and section 1414 of Title 20, Education] may be cited as the ‘Rehabilitation Act Amendments of 1986’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–221, § 1, Feb. 22, 1984, 98 Stat. 17, provided: “That this Act [enacting sections 780a and 1901 to 1906 of this title, amending sections 706, 712 to 714, 720 to 722, 730, 732, 741, 761 to 762a, 771, 772, 774, 775, 777, 777a, 777f, 780, 781, 783, 791, 792, 794c, 795a, 795c, 795f, 795g, 795i, 796e, and 796i of this title and sections 6001, 6012, 6033, 6061, and 6081 of Title 42, The Public Health and Welfare, repealing section 777c of this title, enacting provisions set out as a note under section 1901 of this title and amending provisions set out as a note under section 713 of this title] may be cited as the ‘Rehabilitation Amendments of 1984’.”
+Pub. L. 98–221, § 1, Feb. 22, 1984, 98 Stat. 17, provided: “That this Act [enacting sections 780a and 1901 to 1906 of this title, amending sections 706, 712 to 714, 720 to 722, 730, 732, 741, 761 to 762a, 771, 772, 774, 775, 777, 777a, 777f, 780, 781, 783, 791, 792, 794c, 795a, 795c, 795f, 795g, 795i, 796e, and 796i of this title and sections 6001, 6012, 6033, 6061, and 6081 of Title 42, The Public Health and Welfare, repealing section 777c of this title, enacting provisions set out as a note under section 1901 of this title and amending provisions set out as a note under section 713 of this title] may be cited as the ‘Rehabilitation Amendments of 1984’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–602, § 1, Nov. 6, 1978, 92 Stat. 2955, provided that: “This Act [enacting sections 710 to 715, 751, 761a, 761b, 762a, 775, 777 to 777f, 780 to 785, 794a to 794c, 795 to 795i, and 796 to 796i of this title and section 6000 of Title 42, The Public Health and Welfare, amending this section, sections 702, 706, 709, 720 to 724, 730 to 732, 740, 741, 750, 760 to 762, 770 to 774, 776, and 792 to 794 of this title, section 1904 [now 3904] of Title 38, Veterans’ Benefits, and sections 6001, 6008 to 6012, 6031 to 6033, 6061 to 6065, 6067, 6081, and 6862 of Title 42, repealing sections 764, 786, and 787 of this title and section 6007 of Title 42, omitting sections 6041 to 6043 of Title 42, enacting provisions set out as notes under sections 713 and 795 of this title and sections 6000 and 6001 of Title 42, and repealing a provision set out as a note under section 6001 of Title 42] may be cited as the ‘Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978’.”
+Pub. L. 95–602, § 1, Nov. 6, 1978, 92 Stat. 2955, provided that: “This Act [enacting sections 710 to 715, 751, 761a, 761b, 762a, 775, 777 to 777f, 780 to 785, 794a to 794c, 795 to 795i, and 796 to 796i of this title and section 6000 of Title 42, The Public Health and Welfare, amending this section, sections 702, 706, 709, 720 to 724, 730 to 732, 740, 741, 750, 760 to 762, 770 to 774, 776, and 792 to 794 of this title, section 1904 [now 3904] of Title 38, Veterans’ Benefits, and sections 6001, 6008 to 6012, 6031 to 6033, 6061 to 6065, 6067, 6081, and 6862 of Title 42, repealing sections 764, 786, and 787 of this title and section 6007 of Title 42, omitting sections 6041 to 6043 of Title 42, enacting provisions set out as notes under sections 713 and 795 of this title and sections 6000 and 6001 of Title 42, and repealing a provision set out as a note under section 6001 of Title 42] may be cited as the ‘Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–230, § 1, Mar. 15, 1976, 90 Stat. 211, provided that: “This Act [amending sections 720, 732, 741, 761, 771, 772, 774, 775, 783, 785, and 792 of this title and enacting provisions set out as a note under section 720 of this title] may be cited as the ‘Rehabilitation Act Extension of 1976’.”
+Pub. L. 94–230, § 1, Mar. 15, 1976, 90 Stat. 211, provided that: “This Act [amending sections 720, 732, 741, 761, 771, 772, 774, 775, 783, 785, and 792 of this title and enacting provisions set out as a note under section 720 of this title] may be cited as the ‘Rehabilitation Act Extension of 1976’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–516, title I, § 100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title [amending sections 702, 706, 720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under section 702 of this title] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
+Pub. L. 93–516, title I, § 100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title [amending sections 702, 706, 720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under section 702 of this title] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
 
-An identical provision is contained in Pub. L. 93–651, title I, § 100, Nov. 21, 1974, 89 Stat. 2–3.
+An identical provision is contained in Pub. L. 93–651, title I, § 100, Nov. 21, 1974, 89 Stat. 2–3.
 
 **Short Title**
 
-Pub. L. 93–112, § 1(a), as added by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093, and amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, provided that: “This Act [enacting this chapter] may be cited as the ‘Rehabilitation Act of 1973’.”
+Pub. L. 93–112, § 1(a), as added by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093, and amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, provided that: “This Act [enacting this chapter] may be cited as the ‘Rehabilitation Act of 1973’.”
 
-Pub. L. 93–112, title VI, § 601, as added by Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1210, provided that: “This title [enacting subchapter VI of this chapter] may be cited as the ‘Employment Opportunities for Individuals With Disabilities Act’.”
+Pub. L. 93–112, title VI, § 601, as added by Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1210, provided that: “This title [enacting subchapter VI of this chapter] may be cited as the ‘Employment Opportunities for Individuals With Disabilities Act’.”
 
-Pub. L. 93–112, § 1, Sept. 26, 1973, 87 Stat. 355, provided in part that Pub. L. 93–112, which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, could be cited as the “Rehabilitation Act of 1973”, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
+Pub. L. 93–112, § 1, Sept. 26, 1973, 87 Stat. 355, provided in part that Pub. L. 93–112, which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, could be cited as the “Rehabilitation Act of 1973”, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
 
-Pub. L. 93–112, title VI, § 601, as added by Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 102–569, title I, § 102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that title VI of Pub. L. 93–112, enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of Pub. L. 93–112 by Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1210.
+Pub. L. 93–112, title VI, § 601, as added by Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 102–569, title I, § 102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that title VI of Pub. L. 93–112, enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of Pub. L. 93–112 by Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1210.
 
 **Executive Documents**
 
@@ -187,7 +187,7 @@ Sec. 4. The Federal Acquisition Regulations and, to the extent necessary, any su
 
 **Ex. Ord. No. 13078. Increasing Employment of Adults With Disabilities**
 
-Ex. Ord. No. 13078, Mar. 13, 1998, 63 F.R. 13111, as amended by Ex. Ord. No. 13172, Oct. 25, 2000, 65 F.R. 64577; Ex. Ord. No. 13187, § 4(b), Jan. 10, 2001, 66 F.R. 3858, provided:
+Ex. Ord. No. 13078, Mar. 13, 1998, 63 F.R. 13111, as amended by Ex. Ord. No. 13172, Oct. 25, 2000, 65 F.R. 64577; Ex. Ord. No. 13187, § 4(b), Jan. 10, 2001, 66 F.R. 3858, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to increase the employment of adults with disabilities to a rate that is as close as possible to the employment rate of the general adult population and to support the goals articulated in the findings and purpose section of the Americans with Disabilities Act of 1990 [42 U.S.C. 12101 et seq.], it is hereby ordered as follows:
 
@@ -241,7 +241,7 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998.
 
-(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 [Pub. L. 105–220, repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
+(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 [Pub. L. 105–220, repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
 
 Sec. 3. Cooperation. All efforts taken by executive departments and agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with public and private sector employers, organizations that represent people with disabilities, organized labor, veteran service organizations, and State and local governments whenever such partnerships and cooperation are possible and would promote the employment and gainful economic activities of individuals with disabilities.
 
@@ -293,65 +293,65 @@ Sec. 4. *Prior Orders and Transition*. (a) Executive Order 12640 of May 10, 1988
 
 William J. Clinton.
 
-### § 702. Rehabilitation Services Administration
+### § 702. Rehabilitation Services Administration
 
 **(a)** There is established in the Office of the Secretary in the Department of Education a Rehabilitation Services Administration which shall be headed by a Commissioner (hereinafter in this chapter referred to as the “Commissioner”) appointed by the President by and with the advice and consent of the Senate. Such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of the Department for purposes of carrying out subchapters I, III, VI, and part B of subchapter VII. The Commissioner shall be an individual with substantial experience in rehabilitation and in rehabilitation program management. In the performance of the functions of the office, the Commissioner shall be directly responsible to the Secretary of Education or to the Under Secretary or an appropriate Assistant Secretary of such Department, as designated by the Secretary. The functions of the Commissioner shall not be delegated to any officer not directly responsible, both with respect to program operation and administration, to the Commissioner. Any reference in this chapter to duties to be carried out by the Commissioner shall be considered to be a reference to duties to be carried out by the Secretary of Education acting through the Commissioner. In carrying out any of the functions of the office under this chapter, the Commissioner shall be guided by general policies of the National Council on Disability established under subchapter IV of this chapter.
 
 **(b)** The Secretary of Education shall take whatever action is necessary to ensure that funds appropriated pursuant to this chapter are expended only for the programs, personnel, and administration of programs carried out under this chapter.
 
-(Pub. L. 93–112, § 3, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1096; amended Pub. L. 113–128, title IV, § 403, July 22, 2014, 128 Stat. 1632.)
+(Pub. L. 93–112, § 3, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1096; amended Pub. L. 113–128, title IV, § 403, July 22, 2014, 128 Stat. 1632.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 702, Pub. L. 93–112, § 3, Sept. 26, 1973, 87 Stat. 357; Pub. L. 93–516, title I, § 101(a), Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, title I, § 101(a), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 95–602, title I, § 122(a)(2), (3), Nov. 6, 1978, 92 Stat. 2984; Pub. L. 99–506, title I, § 102, title X, § 1001(a)(1), Oct. 21, 1986, 100 Stat. 1808, 1841; Pub. L. 100–630, title II, § 201(a), Nov. 7, 1988, 102 Stat. 3303, related to the Rehabilitation Services Administration, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
+A prior section 702, Pub. L. 93–112, § 3, Sept. 26, 1973, 87 Stat. 357; Pub. L. 93–516, title I, § 101(a), Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, title I, § 101(a), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 95–602, title I, § 122(a)(2), (3), Nov. 6, 1978, 92 Stat. 2984; Pub. L. 99–506, title I, § 102, title X, § 1001(a)(1), Oct. 21, 1986, 100 Stat. 1808, 1841; Pub. L. 100–630, title II, § 201(a), Nov. 7, 1988, 102 Stat. 3303, related to the Rehabilitation Services Administration, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 403(1), inserted “in the Department of Education” after “Secretary” in first sentence, substituted “Such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of the Department for purposes of carrying out subchapters I, III, VI, and part B of subchapter VII.” for “Except for subchapters IV and V and as otherwise specifically provided in this chapter, such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of such Department for carrying out this chapter.” in second sentence, and inserted “of Education” after “to the Secretary” in fourth sentence and after “by the Secretary” in sixth sentence.
+2014—Subsec. (a). Pub. L. 113–128, § 403(1), inserted “in the Department of Education” after “Secretary” in first sentence, substituted “Such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of the Department for purposes of carrying out subchapters I, III, VI, and part B of subchapter VII.” for “Except for subchapters IV and V and as otherwise specifically provided in this chapter, such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of such Department for carrying out this chapter.” in second sentence, and inserted “of Education” after “to the Secretary” in fourth sentence and after “by the Secretary” in sixth sentence.
 
-Subsec. (b). Pub. L. 113–128, § 403(2), inserted “of Education” after “Secretary”.
+Subsec. (b). Pub. L. 113–128, § 403(2), inserted “of Education” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Additional Personnel for Office for the Blind and Visually Handicapped**
 
-Pub. L. 93–516, title II, § 208(a), Dec. 7, 1974, 88 Stat. 1629, provided that: “The Secretary of Health, Education, and Welfare [now Secretary of Education] is directed to assign to the Office for the Blind and Visually Handicapped of the Rehabilitation Services Administration of the Department of Health, Education, and Welfare [now Department of Education] ten additional full-time personnel (or their equivalent), five of whom shall be supportive personnel, to carry out duties related to the administration of the Randolph-Sheppard Act [section 107 et seq. of Title 20, Education].”
+Pub. L. 93–516, title II, § 208(a), Dec. 7, 1974, 88 Stat. 1629, provided that: “The Secretary of Health, Education, and Welfare [now Secretary of Education] is directed to assign to the Office for the Blind and Visually Handicapped of the Rehabilitation Services Administration of the Department of Health, Education, and Welfare [now Department of Education] ten additional full-time personnel (or their equivalent), five of whom shall be supportive personnel, to carry out duties related to the administration of the Randolph-Sheppard Act [section 107 et seq. of Title 20, Education].”
 
-An identical provision is contained in Pub. L. 93–651, title II, § 208(a), Nov. 21, 1974, 89 Stat. 2–14.
+An identical provision is contained in Pub. L. 93–651, title II, § 208(a), Nov. 21, 1974, 89 Stat. 2–14.
 
 **Preference to Blind in Selecting Personnel**
 
-Pub. L. 93–516, title II, § 208(c), Dec. 7, 1974, 88 Stat. 1629, provided that: “In selecting personnel to fill any position under this section [authorizing assignment of 11 additional full-time personnel to the Office for the Blind and Visually Handicapped of the Rehabilitation Service Administration of the Department of Health, Education, and Welfare under subsecs. (a) and (b) of Pub. L. 93–516], the Secretary of Health, Education, and Welfare [now Secretary of Education] shall give preference to blind individuals.”
+Pub. L. 93–516, title II, § 208(c), Dec. 7, 1974, 88 Stat. 1629, provided that: “In selecting personnel to fill any position under this section [authorizing assignment of 11 additional full-time personnel to the Office for the Blind and Visually Handicapped of the Rehabilitation Service Administration of the Department of Health, Education, and Welfare under subsecs. (a) and (b) of Pub. L. 93–516], the Secretary of Health, Education, and Welfare [now Secretary of Education] shall give preference to blind individuals.”
 
-An identical provision is contained in Pub. L. 93–651, title II, § 208(c), Nov. 21, 1974, 89 Stat. 2–14.
+An identical provision is contained in Pub. L. 93–651, title II, § 208(c), Nov. 21, 1974, 89 Stat. 2–14.
 
-### § 703. Advance funding
+### § 703. Advance funding
 
 **(a)** For the purpose of affording adequate notice of funding available under this chapter, appropriations under this chapter are authorized to be included in the appropriation Act for the fiscal year preceding the fiscal year for which they are available for obligation.
 
 **(b)** In order to effect a transition to the advance funding method of timing appropriation action, the authority provided by subsection (a) of this section shall apply notwithstanding that its initial application will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.
 
-(Pub. L. 93–112, § 4, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1097.)
+(Pub. L. 93–112, § 4, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1097.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 703, Pub. L. 93–112, § 4, Sept. 26, 1973, 87 Stat. 358, related to advance funding, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
+A prior section 703, Pub. L. 93–112, § 4, Sept. 26, 1973, 87 Stat. 358, related to advance funding, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
 
-### § 704. Joint funding
+### § 704. Joint funding
 
 Pursuant to regulations prescribed by the President, and to the extent consistent with the other provisions of this chapter, where funds are provided for a single project by more than one Federal agency to an agency or organization assisted under this chapter, the Federal agency principally involved may be designated to act for all in administering the funds provided, and, in such cases, a single non-Federal share requirement may be established according to the proportion of funds advanced by each agency. When the principal agency involved is the Rehabilitation Services Administration, it may waive any grant or contract requirement (as defined by such regulations) under or pursuant to any law other than this chapter, which requirement is inconsistent with the similar requirements of the administering agency under or pursuant to this chapter.
 
-(Pub. L. 93–112, § 5, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1097.)
+(Pub. L. 93–112, § 5, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1097.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 704, Pub. L. 93–112, § 5, Sept. 26, 1973, 87 Stat. 359, related to joint funding, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
+A prior section 704, Pub. L. 93–112, § 5, Sept. 26, 1973, 87 Stat. 359, related to joint funding, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
 
 **Executive Documents**
 
@@ -359,7 +359,7 @@ A prior section 704, Pub. L. 93–112, § 5, Sept. 26, 1973, 87 Stat. 359, rel
 
 Authority of the President under this section delegated to Director of Office of Management and Budget by section 1 of Ex. Ord. No. 11893, Dec. 31, 1975, 41 F.R. 1040, set out as a note under section 7103 of Title 31, Money and Finance.
 
-### § 705. Definitions
+### § 705. Definitions
 
 For the purposes of this chapter:
 
@@ -435,7 +435,7 @@ The term “assistive technology” has the meaning given such term in section 3
 
 The term “assistive technology device” has the meaning given such term in section 3002 of this title, except that the reference in such section to the term “individuals with disabilities” shall be deemed to mean more than 1 individual with a disability as defined in paragraph (20)(A)).1
 
-<sup>1</sup>  So in original. The second closing parenthesis probably should not appear.
+<sup>1</sup> So in original. The second closing parenthesis probably should not appear.
 
 **(C) Assistive technology service** The term “assistive technology service” has the meaning given such term in section 3002 of this title, except that the reference in such section—
 
@@ -839,7 +839,7 @@ The term “nonprofit”, when used with respect to a community rehabilitation p
 
 The term “personal assistance services” means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual’s control in life and ability to perform everyday activities on or off the job.
 
-**(30) 2 [footnote: 2 So in original. There is no par. (29).] Pre-employment transition services**
+**(30) 2 [footnote: 2 So in original. There is no par. (29).] Pre-employment transition services**
 
 The term “pre-employment transition services” means services provided in accordance with section 733 of this title.
 
@@ -935,25 +935,25 @@ The term “workforce investment activities” means workforce investment activi
 
 The term “youth with disabilities” means more than 1 youth with a disability.
 
-(Pub. L. 93–112, § 7, formerly § 6, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, § 102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered § 7 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (b)(3), (c)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, § 402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, § 7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, § 2(d)(1), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, § 404, July 22, 2014, 128 Stat. 1632.)
+(Pub. L. 93–112, § 7, formerly § 6, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, § 102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered § 7 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (b)(3), (c)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, § 402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, § 7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, § 2(d)(1), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, § 404, July 22, 2014, 128 Stat. 1632.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in par. (10)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in par. (10)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (37)(A)(i)(II)(bb), (ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (37)(A)(i)(II)(bb), (ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in par. (41), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (41), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Prior Provisions**
 
 Provisions similar to this section were contained in section 706 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 705, Pub. L. 93–112, § 6, Sept. 26, 1973, 87 Stat. 359; Pub. L. 99–506, title X, § 1001(a)(2), Oct. 21, 1986, 100 Stat. 1841; Pub. L. 100–630, title II, § 201(b), Nov. 7, 1988, 102 Stat. 3303; Pub. L. 102–569, title I, § 128(b)(1), Oct. 29, 1992, 106 Stat. 4388, related to consolidated rehabilitation plan, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
+A prior section 705, Pub. L. 93–112, § 6, Sept. 26, 1973, 87 Stat. 359; Pub. L. 99–506, title X, § 1001(a)(2), Oct. 21, 1986, 100 Stat. 1841; Pub. L. 100–630, title II, § 201(b), Nov. 7, 1988, 102 Stat. 3303; Pub. L. 102–569, title I, § 128(b)(1), Oct. 29, 1992, 106 Stat. 4388, related to consolidated rehabilitation plan, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
 
 A prior section 7 of Pub. L. 93–112 was renumbered section 8 and is classified to section 706 of this title.
 
@@ -961,81 +961,81 @@ Another prior section 7 of Pub. L. 93–112 was classified to section 706 of thi
 
 **Amendments**
 
-2014—Par. (2)(B)(v). Pub. L. 113–128, § 404(1), added cl. (v).
+2014—Par. (2)(B)(v). Pub. L. 113–128, § 404(1), added cl. (v).
 
-Par. (3). Pub. L. 113–128, § 404(2), added par. (3) and struck out former par. (3) which defined “assistive technology device”.
+Par. (3). Pub. L. 113–128, § 404(2), added par. (3) and struck out former par. (3) which defined “assistive technology device”.
 
-Par. (4). Pub. L. 113–128, § 404(3), redesignated par. (5) as (4).
+Par. (4). Pub. L. 113–128, § 404(3), redesignated par. (5) as (4).
 
-Pub. L. 113–128, § 404(2), struck out par. (4) which defined “assistive technology service”.
+Pub. L. 113–128, § 404(2), struck out par. (4) which defined “assistive technology service”.
 
-Par. (4)(O). Pub. L. 113–128, § 404(4)(B), added subpar. (O). Former subpar. (O) redesignated (P).
+Par. (4)(O). Pub. L. 113–128, § 404(4)(B), added subpar. (O). Former subpar. (O) redesignated (P).
 
-Par. (4)(P), (Q). Pub. L. 113–128, § 404(4)(A), redesignated subpars. (O) and (P) as (P) and (Q), respectively. Former subpar. (Q) redesignated (R).
+Par. (4)(P), (Q). Pub. L. 113–128, § 404(4)(A), redesignated subpars. (O) and (P) as (P) and (Q), respectively. Former subpar. (Q) redesignated (R).
 
-Par. (4)(R). Pub. L. 113–128, § 404(4)(C), substituted “(Q)” for “(P)”.
+Par. (4)(R). Pub. L. 113–128, § 404(4)(C), substituted “(Q)” for “(P)”.
 
-Pub. L. 113–128, § 404(4)(A), redesignated subpar. (Q) as (R).
+Pub. L. 113–128, § 404(4)(A), redesignated subpar. (Q) as (R).
 
-Par. (5). Pub. L. 113–128, § 404(5), added par. (5). Former par. (5) redesignated (4).
+Par. (5). Pub. L. 113–128, § 404(5), added par. (5). Former par. (5) redesignated (4).
 
-Par. (6)(B). Pub. L. 113–128, § 404(6), substituted “includes architects’ fees” for “includes architects’ fees”.
+Par. (6)(B). Pub. L. 113–128, § 404(6), substituted “includes architects’ fees” for “includes architects’ fees”.
 
-Par. (7). Pub. L. 113–128, § 404(7), added par. (7).
+Par. (7). Pub. L. 113–128, § 404(7), added par. (7).
 
-Par. (11)(C). Pub. L. 113–128, § 404(8), inserted “of Education” after “Secretary” and “customized employment,” after “vocational outcome of”.
+Par. (11)(C). Pub. L. 113–128, § 404(8), inserted “of Education” after “Secretary” and “customized employment,” after “vocational outcome of”.
 
-Par. (12). Pub. L. 113–128, § 404(9), inserted “of Education” after “Secretary” in two places.
+Par. (12). Pub. L. 113–128, § 404(9), inserted “of Education” after “Secretary” in two places.
 
-Par. (14)(C). Pub. L. 113–128, § 404(10), inserted “of Education” after “Secretary”.
+Par. (14)(C). Pub. L. 113–128, § 404(10), inserted “of Education” after “Secretary”.
 
-Par. (17)(E). Pub. L. 113–128, § 404(11), added subpar. (E).
+Par. (17)(E). Pub. L. 113–128, § 404(11), added subpar. (E).
 
-Par. (18). Pub. L. 113–128, § 404(12), substituted “term ‘independent living services’ includes—” for “term ‘independent living services’ includes—” in introductory provisions.
+Par. (18). Pub. L. 113–128, § 404(12), substituted “term ‘independent living services’ includes—” for “term ‘independent living services’ includes—” in introductory provisions.
 
-Par. (19)(A). Pub. L. 113–128, § 404(13)(A), inserted “and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602)” before period at end.
+Par. (19)(A). Pub. L. 113–128, § 404(13)(A), inserted “and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602)” before period at end.
 
-Par. (19)(B). Pub. L. 113–128, § 404(13)(B), inserted “and a tribal organization (as defined in section 5304(*l*) of title 25)” before period at end.
+Par. (19)(B). Pub. L. 113–128, § 404(13)(B), inserted “and a tribal organization (as defined in section 5304(*l*) of title 25)” before period at end.
 
-Par. (23). Pub. L. 113–128, § 404(14), substituted “section 1002” for “section 1001”.
+Par. (23). Pub. L. 113–128, § 404(14), substituted “section 1002” for “section 1001”.
 
-Par. (25). Pub. L. 113–128, § 404(15), added par. (25) and struck out former par. (25) which defined “local workforce investment board”.
+Par. (25). Pub. L. 113–128, § 404(15), added par. (25) and struck out former par. (25) which defined “local workforce investment board”.
 
-Par. (29). Pub. L. 113–128, § 404(17), redesignated par. (29) as (31).
+Par. (29). Pub. L. 113–128, § 404(17), redesignated par. (29) as (31).
 
-Par. (30). Pub. L. 113–128, § 404(18), added par. (30). Former par. (30) redesignated (32).
+Par. (30). Pub. L. 113–128, § 404(18), added par. (30). Former par. (30) redesignated (32).
 
-Pars. (31), (32). Pub. L. 113–128, § 404(17), redesignated pars. (29) and (30) as (31) and (32), respectively. Former pars. (31) and (32) redesignated (33) and (34), respectively.
+Pars. (31), (32). Pub. L. 113–128, § 404(17), redesignated pars. (29) and (30) as (31) and (32), respectively. Former pars. (31) and (32) redesignated (33) and (34), respectively.
 
-Par. (33). Pub. L. 113–128, § 404(19), added par. (33) and struck out former par. (33) which defined “Secretary”.
+Par. (33). Pub. L. 113–128, § 404(19), added par. (33) and struck out former par. (33) which defined “Secretary”.
 
-Pub. L. 113–128, § 404(17), redesignated par. (31) as (33). Former par. (33) redesignated (35).
+Pub. L. 113–128, § 404(17), redesignated par. (31) as (33). Former par. (33) redesignated (35).
 
-Par. (34). Pub. L. 113–128, § 404(17), redesignated par. (32) as (34). Former par. (34) redesignated (36).
+Par. (34). Pub. L. 113–128, § 404(17), redesignated par. (32) as (34). Former par. (34) redesignated (36).
 
-Pars. (35), (36). Pub. L. 113–128, § 404(20), added pars. (35) and (36) and struck out former pars. (35) and (36), which defined “State workforce investment board” and “statewide workforce investment system”, respectively.
+Pars. (35), (36). Pub. L. 113–128, § 404(20), added pars. (35) and (36) and struck out former pars. (35) and (36), which defined “State workforce investment board” and “statewide workforce investment system”, respectively.
 
-Pub. L. 113–128, § 404(17), redesignated pars. (33) and (34) as (35) and (36), respectively. Former pars. (35) and (36) redesignated (38) and (39), respectively.
+Pub. L. 113–128, § 404(17), redesignated pars. (33) and (34) as (35) and (36), respectively. Former pars. (35) and (36) redesignated (38) and (39), respectively.
 
-Par. (37). Pub. L. 113–128, § 404(16), (21), added par. (37) and struck out former par. (37) which defined “transition services”.
+Par. (37). Pub. L. 113–128, § 404(16), (21), added par. (37) and struck out former par. (37) which defined “transition services”.
 
-Pars. (38), (39). Pub. L. 113–128, § 404(22), added pars. (38) and (39) and struck out former pars. (38) and (39) which defined “supported employment” and “supported employment services”, respectively.
+Pars. (38), (39). Pub. L. 113–128, § 404(22), added pars. (38) and (39) and struck out former pars. (38) and (39) which defined “supported employment” and “supported employment services”, respectively.
 
-Pub. L. 113–128, § 404(17), redesignated pars. (35) and (36) as (38) and (39), respectively. Former pars. (38) and (39) redesignated (40) and (41), respectively.
+Pub. L. 113–128, § 404(17), redesignated pars. (35) and (36) as (38) and (39), respectively. Former pars. (38) and (39) redesignated (40) and (41), respectively.
 
-Par. (40). Pub. L. 113–128, § 404(17), redesignated par. (38) as (40).
+Par. (40). Pub. L. 113–128, § 404(17), redesignated par. (38) as (40).
 
-Par. (41). Pub. L. 113–128, § 404(23), substituted “as defined in section 3 of the Workforce Innovation and Opportunity Act” for “as defined in section 101 of the Workforce Investment Act of 1998”.
+Par. (41). Pub. L. 113–128, § 404(23), substituted “as defined in section 3 of the Workforce Innovation and Opportunity Act” for “as defined in section 101 of the Workforce Investment Act of 1998”.
 
-Pub. L. 113–128, § 404(17), redesignated par. (39) as (41).
+Pub. L. 113–128, § 404(17), redesignated par. (39) as (41).
 
-Par. (42). Pub. L. 113–128, § 404(24), added par. (42).
+Par. (42). Pub. L. 113–128, § 404(24), added par. (42).
 
 2010—Par. (21)(A)(iii). Pub. L. 111–256 substituted “intellectual disability,” for “mental retardation,”.
 
-2008—Par. (9)(B). Pub. L. 110–325, § 7(1), substituted “the meaning given it in section 12102 of title 42” for “a physical or mental impairment that substantially limits one or more major life activities”.
+2008—Par. (9)(B). Pub. L. 110–325, § 7(1), substituted “the meaning given it in section 12102 of title 42” for “a physical or mental impairment that substantially limits one or more major life activities”.
 
-Par. (20)(B). Pub. L. 110–325, § 7(2), substituted “any person who has a disability as defined in section 12102 of title 42.” for “any person who—
+Par. (20)(B). Pub. L. 110–325, § 7(2), substituted “any person who has a disability as defined in section 12102 of title 42.” for “any person who—
 
 “(i) has a physical or mental impairment which substantially limits one or more of such person’s major life activities;
 
@@ -1043,27 +1043,27 @@ Par. (20)(B). Pub. L. 110–325, § 7(2), substituted “any person who has a 
 
 “(iii) is regarded as having such an impairment.”
 
-1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(3)], made technical amendment to section designation and catchline in the original and inserted par. (1) heading.
+1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(3)], made technical amendment to section designation and catchline in the original and inserted par. (1) heading.
 
-Par. (2)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(1)(A)], substituted “nature” for “objectives, nature,”.
+Par. (2)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(1)(A)], substituted “nature” for “objectives, nature,”.
 
-Par. (3). Pub. L. 105–394, § 402(a)(1), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(2)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, § 101(f) [title VIII, § 402(a)(1)].
+Par. (3). Pub. L. 105–394, § 402(a)(1), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(2)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, § 101(f) [title VIII, § 402(a)(1)].
 
-Par. (4). Pub. L. 105–394, § 402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(3)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, § 101(f) [title VIII, § 402(a)(1)].
+Par. (4). Pub. L. 105–394, § 402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(3)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, § 101(f) [title VIII, § 402(a)(1)].
 
-Par. (7). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(1)(B)], struck out heading and text of par. (7). Text read as follows: “The term ‘criminal act’ means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime.”
+Par. (7). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(1)(B)], struck out heading and text of par. (7). Text read as follows: “The term ‘criminal act’ means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime.”
 
-Par. (16)(A)(iii). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(1)(C)], substituted “eligible individual” for “client”.
+Par. (16)(A)(iii). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(1)(C)], substituted “eligible individual” for “client”.
 
 Par. (23). Pub. L. 105–244 substituted “section 1001 of title 20” for “section 1141(a) of title 20”.
 
-Par. (36)(C). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(1)(D)], substituted “employment outcome” for “rehabilitation objectives”.
+Par. (36)(C). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(1)(D)], substituted “employment outcome” for “rehabilitation objectives”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–325, § 8, Sept. 25, 2008, 122 Stat. 3559, provided that: “This Act [enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare, amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42] and the amendments made by this Act shall become effective on January 1, 2009.”
+Pub. L. 110–325, § 8, Sept. 25, 2008, 122 Stat. 3559, provided that: “This Act [enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare, amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42] and the amendments made by this Act shall become effective on January 1, 2009.”
 
 **Effective Date of 1998 Amendment**
 
@@ -1073,7 +1073,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 
-### § 706. Allotment percentage
+### § 706. Allotment percentage
 
 **(a)**
 
@@ -1089,7 +1089,7 @@ For meaning of references to an intellectual disability and to individuals with 
 
 **(b)** The population of the several States and of the United States shall be determined on the basis of the most recent data available, to be furnished by the Department of Commerce by October 1 of the year preceding the fiscal year for which funds are appropriated pursuant to statutory authorizations.
 
-(Pub. L. 93–112, § 8, formerly § 7, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 8, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 405(a), July 22, 2014, 128 Stat. 1637.)
+(Pub. L. 93–112, § 8, formerly § 7, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 8, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 405(a), July 22, 2014, 128 Stat. 1637.)
 
 **Editorial Notes**
 
@@ -1097,7 +1097,7 @@ For meaning of references to an intellectual disability and to individuals with 
 
 Provisions similar to this section were contained in section 707 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 706, Pub. L. 93–112, § 7, Sept. 26, 1973, 87 Stat. 359; Pub. L. 93–516, title I, § 111(a), Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 111(a), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, § 122(a)(4)–(8), Nov. 6, 1978, 92 Stat. 2984, 2985; Pub. L. 98–221, title I, § 101, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, title I, § 103(a), (b), (c)(1), (d)(1), (2)(A), (C), (e)–(h)(1), (i), (j), title X, §§ 1001(a)(3), 1002(a), Oct. 21, 1986, 100 Stat. 1809–1811, 1841, 1844; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–259, § 9, Mar. 22, 1988, 102 Stat. 31; Pub. L. 100–630, title II, § 201(c), Nov. 7, 1988, 102 Stat. 3303; Pub. L. 101–336, title V, § 513, formerly § 512, July 26, 1990, 104 Stat. 376, renumbered § 513, Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558; Pub. L. 102–569, title I, § 102(a)–(n), (p)(3), Oct. 29, 1992, 106 Stat. 4347–4350, 4356; Pub. L. 103–73, title I, §§ 102(1), 103, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, title IV, § 404, Mar. 9, 1994, 108 Stat. 97, defined terms for purposes of this chapter, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 705 of this title.
+A prior section 706, Pub. L. 93–112, § 7, Sept. 26, 1973, 87 Stat. 359; Pub. L. 93–516, title I, § 111(a), Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 111(a), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, § 122(a)(4)–(8), Nov. 6, 1978, 92 Stat. 2984, 2985; Pub. L. 98–221, title I, § 101, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, title I, § 103(a), (b), (c)(1), (d)(1), (2)(A), (C), (e)–(h)(1), (i), (j), title X, §§ 1001(a)(3), 1002(a), Oct. 21, 1986, 100 Stat. 1809–1811, 1841, 1844; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–259, § 9, Mar. 22, 1988, 102 Stat. 31; Pub. L. 100–630, title II, § 201(c), Nov. 7, 1988, 102 Stat. 3303; Pub. L. 101–336, title V, § 513, formerly § 512, July 26, 1990, 104 Stat. 376, renumbered § 513, Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558; Pub. L. 102–569, title I, § 102(a)–(n), (p)(3), Oct. 29, 1992, 106 Stat. 4347–4350, 4356; Pub. L. 103–73, title I, §§ 102(1), 103, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, title IV, § 404, Mar. 9, 1994, 108 Stat. 97, defined terms for purposes of this chapter, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 705 of this title.
 
 A prior section 8 of Pub. L. 93–112 was renumbered section 10 and is classified to section 707 of this title.
 
@@ -1107,7 +1107,7 @@ Another prior section 8 of Pub. L. 93–112 was classified to section 707 of thi
 
 2014—Subsec. (a)(2). Pub. L. 113–128 inserted “of Education” after “Secretary”.
 
-### § 707. Nonduplication
+### § 707. Nonduplication
 
 In determining the amount of any State’s Federal share of expenditures for planning, administration, and services incurred by it under a State plan approved in accordance with section 721 of this title, there shall be disregarded—
 
@@ -1117,7 +1117,7 @@ In determining the amount of any State’s Federal share of expenditures for pla
 
 No payment may be made from funds provided under one provision of this chapter relating to any cost with respect to which any payment is made under any other provision of this chapter, except that this section shall not be construed to limit or reduce fees for services rendered by community rehabilitation programs.
 
-(Pub. L. 93–112, § 10, formerly § 8, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 10 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (c)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–415.)
+(Pub. L. 93–112, § 10, formerly § 8, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 10 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (c)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–415.)
 
 **Editorial Notes**
 
@@ -1125,7 +1125,7 @@ No payment may be made from funds provided under one provision of this chapter r
 
 Provisions similar to this section were contained in section 709 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 707, Pub. L. 93–112, § 8, Sept. 26, 1973, 87 Stat. 362; Pub. L. 94–273, § 10, Apr. 21, 1976, 90 Stat. 378; Pub. L. 102–569, title I, § 103, Oct. 29, 1992, 106 Stat. 4361, related to allotment percentage, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 706 of this title.
+A prior section 707, Pub. L. 93–112, § 8, Sept. 26, 1973, 87 Stat. 362; Pub. L. 94–273, § 10, Apr. 21, 1976, 90 Stat. 378; Pub. L. 102–569, title I, § 103, Oct. 29, 1992, 106 Stat. 4361, related to allotment percentage, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 706 of this title.
 
 A prior section 10 of Pub. L. 93–112 was renumbered section 12 and is classified to section 709 of this title.
 
@@ -1133,15 +1133,15 @@ Another prior section 10 of Pub. L. 93–112 was classified to section 709 of th
 
 **Amendments**
 
-1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(2)], substituted a dash for a colon after “disregarded” and amended text to set out cls. (1) and (2) as indented pars. and last sentence as flush provision.
+1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(2)], substituted a dash for a colon after “disregarded” and amended text to set out cls. (1) and (2) as indented pars. and last sentence as flush provision.
 
-### § 708. Application of other laws
+### § 708. Application of other laws
 
 **(a)** The provisions of chapter 71 of title 31 and of title V of the Act of October 15, 1977 (Public Law 95–134) shall not apply to the administration of the provisions of this chapter or to the administration of any program or activity under this chapter.
 
 **(b)** Section 501 of the Workforce Innovation and Opportunity Act [29 U.S.C. 3341] shall apply, as specified in that section, to amendments to this chapter that were made by the Workforce Innovation and Opportunity Act.
 
-(Pub. L. 93–112, § 11, formerly § 9, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 11, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 405(b), July 22, 2014, 128 Stat. 1637.)
+(Pub. L. 93–112, § 11, formerly § 9, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 11, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 405(b), July 22, 2014, 128 Stat. 1637.)
 
 **Editorial Notes**
 
@@ -1149,17 +1149,17 @@ Another prior section 10 of Pub. L. 93–112 was classified to section 709 of th
 
 Act of October 15, 1977, referred to in subsec. (a), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, popularly known as the Omnibus Territories Act of 1977. Title V of the Act enacted section 4368b of Title 42, The Public Health and Welfare, and section 1469a of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Codification**
 
-“Chapter 71 of title 31” substituted in text for “the Act of December 5, 1974 (Public Law 93–510) on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Chapter 71 of title 31” substituted in text for “the Act of December 5, 1974 (Public Law 93–510) on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Prior Provisions**
 
 Provisions similar to this section were contained in section 710 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 708, Pub. L. 93–112, § 9, Sept. 26, 1973, 87 Stat. 362, related to audit and examination of records, scope of disclosure, and access to representatives, prior to repeal by Pub. L. 103–382, title II, § 272, Oct. 20, 1994, 108 Stat. 3931.
+A prior section 708, Pub. L. 93–112, § 9, Sept. 26, 1973, 87 Stat. 362, related to audit and examination of records, scope of disclosure, and access to representatives, prior to repeal by Pub. L. 103–382, title II, § 272, Oct. 20, 1994, 108 Stat. 3931.
 
 A prior section 11 of Pub. L. 93–112 was renumbered section 13 and is classified to section 710 of this title.
 
@@ -1169,7 +1169,7 @@ Another prior section 11 of Pub. L. 93–112 was classified to section 710 of th
 
 2014—Pub. L. 113–128 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 709. Administration
+### § 709. Administration
 
 **(a) Technical assistance; short-term traineeships; special projects; dissemination of information; monitoring and evaluations** In carrying out the purposes of this chapter, the Commissioner may—
 
@@ -1229,19 +1229,19 @@ Another prior section 11 of Pub. L. 93–112 was classified to section 710 of th
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(Pub. L. 93–112, § 12, formerly § 10, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1111; renumbered § 12, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 405(c), July 22, 2014, 128 Stat. 1637.)
+(Pub. L. 93–112, § 12, formerly § 10, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1111; renumbered § 12, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 405(c), July 22, 2014, 128 Stat. 1637.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Prior Provisions**
 
 Provisions similar to this section were contained in section 711 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 709, Pub. L. 93–112, § 10, Sept. 26, 1973, 87 Stat. 363; Pub. L. 95–602, title I, § 122(a)(9), Nov. 6, 1978, 92 Stat. 2985; Pub. L. 100–630, title II, § 201(d), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–569, title I, § 104, Oct. 29, 1992, 106 Stat. 4361, related to nonduplication prohibition, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 707 of this title.
+A prior section 709, Pub. L. 93–112, § 10, Sept. 26, 1973, 87 Stat. 363; Pub. L. 95–602, title I, § 122(a)(9), Nov. 6, 1978, 92 Stat. 2985; Pub. L. 100–630, title II, § 201(d), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–569, title I, § 104, Oct. 29, 1992, 106 Stat. 4361, related to nonduplication prohibition, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 707 of this title.
 
 A prior section 12 of Pub. L. 93–112 was renumbered section 14 and is classified to section 711 of this title.
 
@@ -1249,27 +1249,27 @@ Another prior section 12 of Pub. L. 93–112 was classified to section 711 of th
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 405(c)(1)(A), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+2014—Subsec. (a)(1). Pub. L. 113–128, § 405(c)(1)(A), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
-Subsec. (a)(2). Pub. L. 113–128, § 405(c)(1)(B), struck out “, centers for independent living,” after “community rehabilitation programs”.
+Subsec. (a)(2). Pub. L. 113–128, § 405(c)(1)(B), struck out “, centers for independent living,” after “community rehabilitation programs”.
 
-Subsec. (c). Pub. L. 113–128, § 405(c)(6)(A), (D), (E), designated existing provisions as par. (1) and redesignated subsec. (f) as par. (2).
+Subsec. (c). Pub. L. 113–128, § 405(c)(6)(A), (D), (E), designated existing provisions as par. (1) and redesignated subsec. (f) as par. (2).
 
-Pub. L. 113–128, § 405(c)(2), substituted “Secretary of Education” for “Commissioner”.
+Pub. L. 113–128, § 405(c)(2), substituted “Secretary of Education” for “Commissioner”.
 
-Subsec. (d). Pub. L. 113–128, § 405(c)(6)(B), (C), designated existing provisions as par. (1) and redesignated subsec. (e) as par. (2).
+Subsec. (d). Pub. L. 113–128, § 405(c)(6)(B), (C), designated existing provisions as par. (1) and redesignated subsec. (e) as par. (2).
 
-Pub. L. 113–128, § 405(c)(3), inserted “of Education” after “Secretary”.
+Pub. L. 113–128, § 405(c)(3), inserted “of Education” after “Secretary”.
 
-Subsec. (e). Pub. L. 113–128, § 405(c)(7), added subsec. (e). Former subsec. (e) redesignated par. (2) of subsec. (d).
+Subsec. (e). Pub. L. 113–128, § 405(c)(7), added subsec. (e). Former subsec. (e) redesignated par. (2) of subsec. (d).
 
-Pub. L. 113–128, § 405(c)(4), amended reference in original act which resulted in substitution of “July 22, 2014” for “August 7, 1998” in text, inserted “of Education” after “Secretary”, and substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
+Pub. L. 113–128, § 405(c)(4), amended reference in original act which resulted in substitution of “July 22, 2014” for “August 7, 1998” in text, inserted “of Education” after “Secretary”, and substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
 
-Subsec. (f). Pub. L. 113–128, § 405(c)(7), added subsec. (f). Former subsec. (f) redesignated par. (2) of subsec. (c).
+Subsec. (f). Pub. L. 113–128, § 405(c)(7), added subsec. (f). Former subsec. (f) redesignated par. (2) of subsec. (c).
 
-Pub. L. 113–128, § 405(c)(5), inserted “of Education” after “Secretary”.
+Pub. L. 113–128, § 405(c)(5), inserted “of Education” after “Secretary”.
 
-### § 710. Reports
+### § 710. Reports
 
 **(a) Annual reports required**
 
@@ -1281,9 +1281,9 @@ The Commissioner shall collect information to determine whether the purposes of 
 
 **(c) Information to be included in reports**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. There is no par. (2).
+<sup>1</sup> So in original. There is no par. (2).
 
 In preparing the report, the Commissioner shall annually collect and include in the report information based on the information submitted by States in accordance with section 721(a)(10) of this title, including information on administrative costs as required by section 721(a)(10)(D) of this title. The Commissioner shall, to the maximum extent appropriate, include in the report all information that is required to be submitted in the reports described in section 3141(d)(2) of this title and that pertains to the employment of individuals with disabilities.
 
@@ -1291,7 +1291,7 @@ In preparing the report, the Commissioner shall annually collect and include in 
 
 The Commissioner shall ensure that the report described in this section is made publicly available in a timely manner, including through electronic means, in order to inform the public about the administration and performance of programs under this chapter.
 
-(Pub. L. 93–112, § 13, formerly § 11, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1111; renumbered § 13, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 406, July 22, 2014, 128 Stat. 1638.)
+(Pub. L. 93–112, § 13, formerly § 11, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1111; renumbered § 13, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 406, July 22, 2014, 128 Stat. 1638.)
 
 **Editorial Notes**
 
@@ -1299,7 +1299,7 @@ The Commissioner shall ensure that the report described in this section is made 
 
 Provisions similar to this section were contained in section 712 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 710, Pub. L. 93–112, § 11, as added Pub. L. 95–602, title I, § 121, Nov. 6, 1978, 92 Stat. 2984, related to application of other laws, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 708 of this title.
+A prior section 710, Pub. L. 93–112, § 11, as added Pub. L. 95–602, title I, § 121, Nov. 6, 1978, 92 Stat. 2984, related to application of other laws, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 708 of this title.
 
 A prior section 13 of Pub. L. 93–112 was renumbered section 15 and is classified to section 712 of this title.
 
@@ -1307,17 +1307,17 @@ Another prior section 13 of Pub. L. 93–112 was classified to section 712 of th
 
 **Amendments**
 
-2014—Subsec. (c)(1). Pub. L. 113–128, § 406(1), designated existing provisions as par. (1) and substituted “section 3141(d)(2) of this title” for “section 2871(d) of this title”.
+2014—Subsec. (c)(1). Pub. L. 113–128, § 406(1), designated existing provisions as par. (1) and substituted “section 3141(d)(2) of this title” for “section 2871(d) of this title”.
 
-Subsec. (d). Pub. L. 113–128, § 406(2), added subsec. (d).
+Subsec. (d). Pub. L. 113–128, § 406(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Exchange of Data**
 
-Pub. L. 102–569, title I, § 137, Oct. 29, 1992, 106 Stat. 4397, provided that: “The Secretary of Education and the Secretary of Health and Human Services shall enter into a memorandum of understanding for the purpose of exchanging data of mutual importance, regarding clients of State vocational rehabilitation agencies, that are contained in databases maintained by the Rehabilitation Services Administration, as required under section 13 of the Rehabilitation Act of 1973 ([former] 29 U.S.C. 712), and the Social Security Administration, from its Summary Earnings and Records and Master Beneficiary Records. For purposes of the exchange, the Social Security data shall not be considered tax information and, as appropriate, the confidentiality of all client information shall be maintained by both agencies.”
+Pub. L. 102–569, title I, § 137, Oct. 29, 1992, 106 Stat. 4397, provided that: “The Secretary of Education and the Secretary of Health and Human Services shall enter into a memorandum of understanding for the purpose of exchanging data of mutual importance, regarding clients of State vocational rehabilitation agencies, that are contained in databases maintained by the Rehabilitation Services Administration, as required under section 13 of the Rehabilitation Act of 1973 ([former] 29 U.S.C. 712), and the Social Security Administration, from its Summary Earnings and Records and Master Beneficiary Records. For purposes of the exchange, the Social Security data shall not be considered tax information and, as appropriate, the confidentiality of all client information shall be maintained by both agencies.”
 
-### § 711. Evaluation
+### § 711. Evaluation
 
 **(a) Statement of purpose; standards; persons eligible to conduct evaluations**
 
@@ -1361,7 +1361,7 @@ For the purpose of improving program management and effectiveness, the Secretary
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(Pub. L. 93–112, § 14, formerly § 12, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 14, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 407(a), July 22, 2014, 128 Stat. 1638.)
+(Pub. L. 93–112, § 14, formerly § 12, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 14, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 407(a), July 22, 2014, 128 Stat. 1638.)
 
 **Editorial Notes**
 
@@ -1369,7 +1369,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 Provisions similar to this section were contained in section 713 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 711, Pub. L. 93–112, § 12, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2985; amended Pub. L. 99–506, title I, § 104, title X, § 1001(a)(4), Oct. 21, 1986, 100 Stat. 1811, 1841; Pub. L. 100–630, title II, § 201(e), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–569, title I, § 105, Oct. 29, 1992, 106 Stat. 4361, related to administration of this chapter, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 709 of this title.
+A prior section 711, Pub. L. 93–112, § 12, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2985; amended Pub. L. 99–506, title I, § 104, title X, § 1001(a)(4), Oct. 21, 1986, 100 Stat. 1811, 1841; Pub. L. 100–630, title II, § 201(e), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–569, title I, § 105, Oct. 29, 1992, 106 Stat. 4361, related to administration of this chapter, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 709 of this title.
 
 A prior section 14 of Pub. L. 93–112 was renumbered section 16 and is classified to section 713 of this title.
 
@@ -1377,23 +1377,23 @@ Another prior section 14 of Pub. L. 93–112 was classified to section 713 of th
 
 **Amendments**
 
-2014—Pub. L. 113–128, § 407(a)(1), inserted “of Education” after “Secretary” wherever appearing.
+2014—Pub. L. 113–128, § 407(a)(1), inserted “of Education” after “Secretary” wherever appearing.
 
-Subsec. (b). Pub. L. 113–128, § 407(a)(3)(A)–(C), designated existing provisions as par. (1), redesignated subsec. (c) as par. (2), and redesignated subsec. (d) as par. (3).
+Subsec. (b). Pub. L. 113–128, § 407(a)(3)(A)–(C), designated existing provisions as par. (1), redesignated subsec. (c) as par. (2), and redesignated subsec. (d) as par. (3).
 
-Subsecs. (c), (d). Pub. L. 113–128, § 407(a)(3)(D), redesignated subsecs. (e) and (f) as (c) and (d), respectively. Former subsecs. (c) and (d) redesignated pars. (2) and (3), respectively, of subsec. (b).
+Subsecs. (c), (d). Pub. L. 113–128, § 407(a)(3)(D), redesignated subsecs. (e) and (f) as (c) and (d), respectively. Former subsecs. (c) and (d) redesignated pars. (2) and (3), respectively, of subsec. (b).
 
-Subsecs. (e), (f). Pub. L. 113–128, § 407(a)(4), added subsecs. (e) and (f). Former subsecs. (e) and (f) redesignated (c) and (d), respectively.
+Subsecs. (e), (f). Pub. L. 113–128, § 407(a)(4), added subsecs. (e) and (f). Former subsecs. (e) and (f) redesignated (c) and (d), respectively.
 
-Subsec. (f)(2). Pub. L. 113–128, § 407(a)(2), inserted “competitive” after “nonintegrated to”.
+Subsec. (f)(2). Pub. L. 113–128, § 407(a)(2), inserted “competitive” after “nonintegrated to”.
 
-### § 712. Information clearinghouse
+### § 712. Information clearinghouse
 
 **(a) Establishment; information and resources for individuals with disabilities** The Secretary of Education shall establish a central clearinghouse for information and resource availability for individuals with disabilities which shall provide information and data regarding—
 
-**(1)** the location, provision, and availability of services and programs for individuals with disabilities, including such information and data provided by State workforce development boards regarding such services and programs authorized under title I of such Act; 1
+**(1)** the location, provision, and availability of services and programs for individuals with disabilities, including such information and data provided by State workforce development boards regarding such services and programs authorized under title I of such Act; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** research and recent medical and scientific developments bearing on disabilities (and their prevention, amelioration, causes, and cures); and
 
@@ -1413,19 +1413,19 @@ The office established to carry out the provisions of this section shall be know
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(Pub. L. 93–112, § 15, formerly § 13, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1113; renumbered § 15, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 407(b), July 22, 2014, 128 Stat. 1639.)
+(Pub. L. 93–112, § 15, formerly § 13, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1113; renumbered § 15, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 407(b), July 22, 2014, 128 Stat. 1639.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Such Act, referred to in subsec. (a)(1), probably means the Workforce Investment Act of 1998, which is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of this title. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+Such Act, referred to in subsec. (a)(1), probably means the Workforce Investment Act of 1998, which is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of this title. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Prior Provisions**
 
 Provisions similar to this section were contained in section 714 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 712, Pub. L. 93–112, § 13, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2985; amended Pub. L. 98–221, title I, § 102, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, title I, § 105, Oct. 21, 1986, 100 Stat. 1812; Pub. L. 102–569, title I, §§ 102(p)(4), 106, Oct. 29, 1992, 106 Stat. 4356, 4362; Pub. L. 104–66, title I, § 1042(c), Dec. 21, 1995, 109 Stat. 715, related to reports to President and Congress, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 710 of this title.
+A prior section 712, Pub. L. 93–112, § 13, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2985; amended Pub. L. 98–221, title I, § 102, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, title I, § 105, Oct. 21, 1986, 100 Stat. 1812; Pub. L. 102–569, title I, §§ 102(p)(4), 106, Oct. 29, 1992, 106 Stat. 4356, 4362; Pub. L. 104–66, title I, § 1042(c), Dec. 21, 1995, 109 Stat. 715, related to reports to President and Congress, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 710 of this title.
 
 A prior section 15 of Pub. L. 93–112 was renumbered section 17 and is classified to section 714 of this title.
 
@@ -1433,19 +1433,19 @@ Another prior section 15 of Pub. L. 93–112 was classified to section 714 of th
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 407(b)(1)(A), inserted “of Education” after “Secretary” in introductory and concluding provisions.
+2014—Subsec. (a). Pub. L. 113–128, § 407(b)(1)(A), inserted “of Education” after “Secretary” in introductory and concluding provisions.
 
-Subsec. (a)(1). Pub. L. 113–128, § 407(b)(1)(B), substituted “State workforce development boards” for “State workforce investment boards”.
+Subsec. (a)(1). Pub. L. 113–128, § 407(b)(1)(B), substituted “State workforce development boards” for “State workforce investment boards”.
 
-Subsec. (b). Pub. L. 113–128, § 407(b)(2), substituted “Secretary of Education” for “Secretary”.
+Subsec. (b). Pub. L. 113–128, § 407(b)(2), substituted “Secretary of Education” for “Secretary”.
 
-### § 713. Transfer of funds
+### § 713. Transfer of funds
 
 **(a)** Except as provided in subsection (b) of this section, no funds appropriated under this chapter for any program or activity may be used for any purpose other than that for which the funds were specifically authorized.
 
 **(b)** No more than 1 percent of funds appropriated for discretionary grants, contracts, or cooperative agreements authorized by this chapter may be used for the purpose of providing non-Federal panels of experts to review applications for such grants, contracts, or cooperative agreements.
 
-(Pub. L. 93–112, § 16, formerly § 14, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1113; renumbered § 16, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
+(Pub. L. 93–112, § 16, formerly § 14, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1113; renumbered § 16, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
 
 **Editorial Notes**
 
@@ -1453,17 +1453,17 @@ Subsec. (b). Pub. L. 113–128, § 407(b)(2), substituted “Secretary of Educ
 
 Provisions similar to this section were contained in section 715 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 713, Pub. L. 93–112, § 14, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2986; amended Pub. L. 98–221, title I, § 103, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, title I, §§ 103(d)(2)(C), 106, title X, § 1001(a)(5), Oct. 21, 1986, 100 Stat. 1810, 1812, 1841; Pub. L. 100–630, title II, § 201(f), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–569, title I, §§ 102(p)(5), 107, Oct. 29, 1992, 106 Stat. 4356, 4362, related to program and project evaluation, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 711 of this title.
+A prior section 713, Pub. L. 93–112, § 14, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2986; amended Pub. L. 98–221, title I, § 103, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, title I, §§ 103(d)(2)(C), 106, title X, § 1001(a)(5), Oct. 21, 1986, 100 Stat. 1810, 1812, 1841; Pub. L. 100–630, title II, § 201(f), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–569, title I, §§ 102(p)(5), 107, Oct. 29, 1992, 106 Stat. 4356, 4362, related to program and project evaluation, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 711 of this title.
 
 A prior section 16 of Pub. L. 93–112 was renumbered section 18 and is classified to section 715 of this title.
 
 Another prior section 16 of Pub. L. 93–112 was classified to section 715 of this title prior to repeal by Pub. L. 105–220.
 
-### § 714. State administration
+### § 714. State administration
 
 The application of any State rule or policy relating to the administration or operation of programs funded by this chapter (including any rule or policy based on State interpretation of any Federal law, regulation, or guideline) shall be identified as a State imposed requirement.
 
-(Pub. L. 93–112, § 17, formerly § 15, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1114; renumbered § 17, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
+(Pub. L. 93–112, § 17, formerly § 15, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1114; renumbered § 17, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
 
 **Editorial Notes**
 
@@ -1471,17 +1471,17 @@ The application of any State rule or policy relating to the administration or op
 
 Provisions similar to this section were contained in section 716 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 714, Pub. L. 93–112, § 15, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2986; amended Pub. L. 96–374, title XIII, § 1322, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, § 104(a)(1), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title I, § 102(p)(6), Oct. 29, 1992, 106 Stat. 4356, related to information clearinghouse, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 712 of this title.
+A prior section 714, Pub. L. 93–112, § 15, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2986; amended Pub. L. 96–374, title XIII, § 1322, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, § 104(a)(1), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title I, § 102(p)(6), Oct. 29, 1992, 106 Stat. 4356, related to information clearinghouse, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 712 of this title.
 
 A prior section 17 of Pub. L. 93–112 was renumbered section 19 and is classified to section 716 of this title.
 
 Another prior section 17 of Pub. L. 93–112 was classified to section 716 of this title prior to repeal by Pub. L. 105–220.
 
-### § 715. Review of applications
+### § 715. Review of applications
 
 Applications for grants in excess of $100,000 in the aggregate authorized to be funded under this chapter, other than grants primarily for the purpose of conducting dissemination or conferences, shall be reviewed by panels of experts which shall include a majority of non-Federal members. Non-Federal members may be provided travel, per diem, and consultant fees not to exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5.
 
-(Pub. L. 93–112, § 18, formerly § 16, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1114; renumbered § 18, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
+(Pub. L. 93–112, § 18, formerly § 16, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1114; renumbered § 18, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
 
 **Editorial Notes**
 
@@ -1489,13 +1489,13 @@ Applications for grants in excess of $100,000 in the aggregate authorized to be 
 
 Provisions similar to this section were contained in section 717 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 715, Pub. L. 93–112, § 16, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2987; amended Pub. L. 99–506, title I, § 107, Oct. 21, 1986, 100 Stat. 1812; Pub. L. 102–569, title I, § 108(a), Oct. 29, 1992, 106 Stat. 4363, related to transfer of funds, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 713 of this title.
+A prior section 715, Pub. L. 93–112, § 16, as added Pub. L. 95–602, title I, § 122(a)(10), Nov. 6, 1978, 92 Stat. 2987; amended Pub. L. 99–506, title I, § 107, Oct. 21, 1986, 100 Stat. 1812; Pub. L. 102–569, title I, § 108(a), Oct. 29, 1992, 106 Stat. 4363, related to transfer of funds, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 713 of this title.
 
 A prior section 18 of Pub. L. 93–112 was renumbered section 20 and is classified to section 717 of this title.
 
 Another prior section 18 of Pub. L. 93–112 was classified to section 717 of this title prior to repeal by Pub. L. 105–220.
 
-### § 716. Carryover
+### § 716. Carryover
 
 **(a) In general** Except as provided in subsection (b), and notwithstanding any other provision of law—
 
@@ -1509,19 +1509,19 @@ shall remain available for obligation and expenditure by such recipients during 
 
 Such funds shall remain available for obligation and expenditure by a recipient as provided in subsection (a) only to the extent that the recipient complied with any Federal share requirements applicable to the program for the fiscal year for which the funds were appropriated.
 
-(Pub. L. 93–112, § 19, formerly § 17, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1114; renumbered § 19 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (b)(4)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413; Pub. L. 113–128, title IV, § 408, July 22, 2014, 128 Stat. 1639.)
+(Pub. L. 93–112, § 19, formerly § 17, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1114; renumbered § 19 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (b)(4)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413; Pub. L. 113–128, title IV, § 408, July 22, 2014, 128 Stat. 1639.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
 Provisions similar to this section were contained in section 718 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 716, Pub. L. 93–112, § 17, as added Pub. L. 99–506, title I, § 108(a), Oct. 21, 1986, 100 Stat. 1812, related to State administration, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 714 of this title.
+A prior section 716, Pub. L. 93–112, § 17, as added Pub. L. 99–506, title I, § 108(a), Oct. 21, 1986, 100 Stat. 1812, related to State administration, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 714 of this title.
 
 A prior section 19 of Pub. L. 93–112 was renumbered section 21 and is classified to section 718 of this title.
 
@@ -1531,13 +1531,13 @@ Another prior section 19 of Pub. L. 93–112 was classified to section 718 of th
 
 2014—Subsec. (a)(1). Pub. L. 113–128 substituted “subchapter VI” for “part B of subchapter VI”.
 
-1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(4)], made technical amendment in the original to section designation and catchline.
+1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(4)], made technical amendment in the original to section designation and catchline.
 
-### § 717. Client assistance information
+### § 717. Client assistance information
 
 All programs, including community rehabilitation programs, and projects, that provide services to individuals with disabilities under this chapter shall advise such individuals who are applicants for or recipients of the services, or the applicants’ representatives or individuals’ representatives, of the availability and purposes of the client assistance program under section 732 of this title, including information on means of seeking assistance under such program.
 
-(Pub. L. 93–112, § 20, formerly § 18, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1114; renumbered § 20 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (b)(5)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413.)
+(Pub. L. 93–112, § 20, formerly § 18, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1114; renumbered § 20 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (b)(5)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413.)
 
 **Editorial Notes**
 
@@ -1545,15 +1545,15 @@ All programs, including community rehabilitation programs, and projects, that pr
 
 Provisions similar to this section were contained in section 718a of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 717, Pub. L. 93–112, § 18, as added Pub. L. 99–506, title I, § 109(a), Oct. 21, 1986, 100 Stat. 1813; amended Pub. L. 100–630, title II, § 201(g), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–569, title I, § 108(b), Oct. 29, 1992, 106 Stat. 4363, related to review of applications, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 715 of this title.
+A prior section 717, Pub. L. 93–112, § 18, as added Pub. L. 99–506, title I, § 109(a), Oct. 21, 1986, 100 Stat. 1813; amended Pub. L. 100–630, title II, § 201(g), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–569, title I, § 108(b), Oct. 29, 1992, 106 Stat. 4363, related to review of applications, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093. See section 715 of this title.
 
 A prior section 20 of Pub. L. 93–112 was classified to section 718a of this title prior to repeal by Pub. L. 105–220.
 
 **Amendments**
 
-1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(5)], made technical amendment to section designation and catchline in the original.
+1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(5)], made technical amendment to section designation and catchline in the original.
 
-### § 718. Traditionally underserved populations
+### § 718. Traditionally underserved populations
 
 **(a) Findings** With respect to the programs authorized in subchapters II through VII, the Congress finds as follows:
 
@@ -1613,7 +1613,7 @@ The term “minority entity” means an entity that is a historically Black coll
 
 In awarding grants, or entering into contracts or cooperative agreements under subchapters I, II, III, VI, and VII of this chapter, and section 794e of this title, the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research, in appropriate cases, shall require applicants to demonstrate how the applicants will address, in whole or in part, the needs of individuals with disabilities from minority backgrounds.
 
-(Pub. L. 93–112, § 21, formerly § 19, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1115; renumbered § 21 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (b)(6), (c)(3)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 113–128, title IV, § 409, July 22, 2014, 128 Stat. 1639.)
+(Pub. L. 93–112, § 21, formerly § 19, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1115; renumbered § 21 and amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1), (b)(6), (c)(3)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 113–128, title IV, § 409, July 22, 2014, 128 Stat. 1639.)
 
 **Editorial Notes**
 
@@ -1621,27 +1621,27 @@ In awarding grants, or entering into contracts or cooperative agreements under s
 
 Provisions similar to this section were contained in section 718b of this title prior to repeal by Pub. L. 105–220.
 
-Prior sections 718 to 718b were repealed by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
+Prior sections 718 to 718b were repealed by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
 
-Section 718, Pub. L. 93–112, § 19, as added Pub. L. 102–569, title I, § 109(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, § 104, Aug. 11, 1993, 107 Stat. 719, related to carryover of funds. See section 716 of this title.
+Section 718, Pub. L. 93–112, § 19, as added Pub. L. 102–569, title I, § 109(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, § 104, Aug. 11, 1993, 107 Stat. 719, related to carryover of funds. See section 716 of this title.
 
-Section 718a, Pub. L. 93–112, § 20, as added Pub. L. 102–569, title I, § 110(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, § 105, Aug. 11, 1993, 107 Stat. 719, related to client assistance information. See section 717 of this title.
+Section 718a, Pub. L. 93–112, § 20, as added Pub. L. 102–569, title I, § 110(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, § 105, Aug. 11, 1993, 107 Stat. 719, related to client assistance information. See section 717 of this title.
 
-Section 718b, Pub. L. 93–112, § 21, as added Pub. L. 102–569, title I, § 111(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, § 106, Aug. 11, 1993, 107 Stat. 719, related to traditionally underserved populations.
+Section 718b, Pub. L. 93–112, § 21, as added Pub. L. 102–569, title I, § 111(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, § 106, Aug. 11, 1993, 107 Stat. 719, related to traditionally underserved populations.
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 409(1)(A), in first sentence, substituted “demographic” for “racial”; in second sentence, substituted “While the percentage increase from 2000 to 2010” for “While the rate of increase”, “was 9.7” for “is 3.2”, “percentage increase for racial” for “rate of increase for racial”, “was much” for “is much”, “43.0” for “38.6”, “12.3” for “14.6”, and “43.2” for “40.1” and struck out “and other ethnic groups” before period at end; and struck out last sentence which read as follows: “By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American.”
+2014—Subsec. (a)(1). Pub. L. 113–128, § 409(1)(A), in first sentence, substituted “demographic” for “racial”; in second sentence, substituted “While the percentage increase from 2000 to 2010” for “While the rate of increase”, “was 9.7” for “is 3.2”, “percentage increase for racial” for “rate of increase for racial”, “was much” for “is much”, “43.0” for “38.6”, “12.3” for “14.6”, and “43.2” for “40.1” and struck out “and other ethnic groups” before period at end; and struck out last sentence which read as follows: “By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American.”
 
-Subsec. (a)(2). Pub. L. 113–128, § 409(1)(B), substituted “In 2011—” and subpars. (A) to (C) for second and third sentences which read as follows: “The rate of work-related disability for American Indians is about one and one-half times that of the general population. African-Americans are also one and one-half times more likely to be disabled than whites and twice as likely to be significantly disabled.”
+Subsec. (a)(2). Pub. L. 113–128, § 409(1)(B), substituted “In 2011—” and subpars. (A) to (C) for second and third sentences which read as follows: “The rate of work-related disability for American Indians is about one and one-half times that of the general population. African-Americans are also one and one-half times more likely to be disabled than whites and twice as likely to be significantly disabled.”
 
-Subsec. (b)(1). Pub. L. 113–128, § 409(2), substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
+Subsec. (b)(1). Pub. L. 113–128, § 409(2), substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
 
-Subsec. (c). Pub. L. 113–128, § 409(3), substituted “Director of the National Institute on Disability, Independent Living, and Rehabilitation Research” for “Director”.
+Subsec. (c). Pub. L. 113–128, § 409(3), substituted “Director of the National Institute on Disability, Independent Living, and Rehabilitation Research” for “Director”.
 
-1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(6)], made technical amendment in original to section designation and catchline.
+1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(6)], made technical amendment in original to section designation and catchline.
 
-Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(3)], substituted “is denied” for “are denied” and “is closed” for “are closed”.
+Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(3)], substituted “is denied” for “are denied” and “is closed” for “are closed”.
 
 ## SUBCHAPTER I—VOCATIONAL REHABILITATION SERVICES
 
@@ -1649,11 +1649,11 @@ Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(3)], sub
 
 **Codification**
 
-Title I of the Rehabilitation Act of 1973, comprising this subchapter, was originally enacted by Pub. L. 93–112, title I, Sept. 26, 1973, 87 Stat. 363, and amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, Nov. 6, 1978, 92 Stat. 2955; Pub. L. 97–375, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2435; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–54, June 13, 1991, 105 Stat. 267; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707; Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 186. Title I is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1116, without reference to those intervening amendments because of the extensive revision of title I by Pub. L. 105–220.
+Title I of the Rehabilitation Act of 1973, comprising this subchapter, was originally enacted by Pub. L. 93–112, title I, Sept. 26, 1973, 87 Stat. 363, and amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, Nov. 6, 1978, 92 Stat. 2955; Pub. L. 97–375, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2435; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–54, June 13, 1991, 105 Stat. 267; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707; Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 186. Title I is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1116, without reference to those intervening amendments because of the extensive revision of title I by Pub. L. 105–220.
 
 ### Part A—General Provisions
 
-#### § 720. Declaration of policy; authorization of appropriations
+#### § 720. Declaration of policy; authorization of appropriations
 
 **(a) Findings; purpose; policy**
 
@@ -1767,39 +1767,39 @@ For the purposes of paragraph (1)(A), Congress shall not be deemed to have passe
 
 In any case where the Commissioner is required under an applicable statute to carry out certain acts or make certain determinations which are necessary for the continuation of the program authorized by this subchapter, if such acts or determinations are required during the terminal year of such program, such acts and determinations shall be required during any fiscal year in which the extension described in that part of paragraph (1) that follows clause (ii) of paragraph (1)(A) is in effect.
 
-(Pub. L. 93–112, title I, § 100, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1116; amended Pub. L. 113–128, title IV, § 411, July 22, 2014, 128 Stat. 1640.)
+(Pub. L. 93–112, title I, § 100, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1116; amended Pub. L. 113–128, title IV, § 411, July 22, 2014, 128 Stat. 1640.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 720, Pub. L. 93–112, title I, § 100, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, § 102(a), Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 102(a), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §§ 2(a), 11(b)(2), (3), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, § 101(a), (b), Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, title I, § 111(a)–(d), Feb. 22, 1984, 98 Stat. 19; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 201, Oct. 21, 1986, 100 Stat. 1810, 1813; Pub. L. 100–630, title II, § 202(a), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–52, § 2(a), (b)(1), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, § 121(a), (b), Oct. 29, 1992, 106 Stat. 4365, 4367, related to congressional findings, purpose, policy, authorization of appropriations, change in Consumer Price Index, and extension of program, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 720, Pub. L. 93–112, title I, § 100, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, § 102(a), Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 102(a), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §§ 2(a), 11(b)(2), (3), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, § 101(a), (b), Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, title I, § 111(a)–(d), Feb. 22, 1984, 98 Stat. 19; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 201, Oct. 21, 1986, 100 Stat. 1810, 1813; Pub. L. 100–630, title II, § 202(a), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–52, § 2(a), (b)(1), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, § 121(a), (b), Oct. 29, 1992, 106 Stat. 4365, 4367, related to congressional findings, purpose, policy, authorization of appropriations, change in Consumer Price Index, and extension of program, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a)(1)(C). Pub. L. 113–128, § 411(a)(1)(A), substituted “competitive integrated employment” for “integrated”.
+2014—Subsec. (a)(1)(C). Pub. L. 113–128, § 411(a)(1)(A), substituted “competitive integrated employment” for “integrated”.
 
-Subsec. (a)(1)(D)(iii). Pub. L. 113–128, § 411(a)(1)(B), substituted “Medicare and Medicaid” for “medicare and medicaid”.
+Subsec. (a)(1)(D)(iii). Pub. L. 113–128, § 411(a)(1)(B), substituted “Medicare and Medicaid” for “medicare and medicaid”.
 
-Subsec. (a)(1)(F). Pub. L. 113–128, § 411(a)(1)(C), substituted “development” for “investment”.
+Subsec. (a)(1)(F). Pub. L. 113–128, § 411(a)(1)(C), substituted “development” for “investment”.
 
-Subsec. (a)(1)(G). Pub. L. 113–128, § 411(a)(1)(D), substituted “workforce development systems” for “workforce investment systems” and “workforce development activities” for “workforce investment activities”.
+Subsec. (a)(1)(G). Pub. L. 113–128, § 411(a)(1)(D), substituted “workforce development systems” for “workforce investment systems” and “workforce development activities” for “workforce investment activities”.
 
-Subsec. (a)(2)(A). Pub. L. 113–128, § 411(a)(2)(A), substituted “workforce development system” for “workforce investment system”.
+Subsec. (a)(2)(A). Pub. L. 113–128, § 411(a)(2)(A), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(2)(B). Pub. L. 113–128, § 411(a)(2)(B), substituted “informed choice, and economic self-sufficiency,” for “and informed choice,”.
+Subsec. (a)(2)(B). Pub. L. 113–128, § 411(a)(2)(B), substituted “informed choice, and economic self-sufficiency,” for “and informed choice,”.
 
-Subsec. (a)(3)(B). Pub. L. 113–128, § 411(a)(3)(A), substituted “competitive integrated employment” for “gainful employment in integrated settings”.
+Subsec. (a)(3)(B). Pub. L. 113–128, § 411(a)(3)(A), substituted “competitive integrated employment” for “gainful employment in integrated settings”.
 
-Subsec. (a)(3)(E). Pub. L. 113–128, § 411(a)(3)(B), inserted “should” before “facilitate the accomplishment”.
+Subsec. (a)(3)(E). Pub. L. 113–128, § 411(a)(3)(B), inserted “should” before “facilitate the accomplishment”.
 
-Subsec. (b)(1). Pub. L. 113–128, § 411(b), substituted “$3,302,053,000 for each of the fiscal years 2015 through 2020” for “such sums as may be necessary for fiscal years 1999 through 2003”.
+Subsec. (b)(1). Pub. L. 113–128, § 411(b), substituted “$3,302,053,000 for each of the fiscal years 2015 through 2020” for “such sums as may be necessary for fiscal years 1999 through 2003”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1807,7 +1807,7 @@ Subsec. (b)(1). Pub. L. 113–128, § 411(b), substituted “$3,302,053,000 fo
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 721. State plans
+#### § 721. State plans
 
 **(a) Plan requirements**
 
@@ -2029,9 +2029,9 @@ In specifying the information to be submitted in the reports, the Commissioner s
 
 **(IV)** the number of individuals with open cases (disaggregated by those who are receiving training and those who are in postsecondary education), and the type of services the individuals are receiving (including supported employment);
 
-**(V)** the number of students with disabilities who are receiving pre-employment transition services under this subchapter: 1
+**(V)** the number of students with disabilities who are receiving pre-employment transition services under this subchapter: 1
 
-<sup>1</sup>  So in original. The colon probably should be a semicolon.
+<sup>1</sup> So in original. The colon probably should be a semicolon.
 
 and
 
@@ -2287,9 +2287,9 @@ If the designated State agency uses an order of selection in accordance with par
 
 **(A)** the Federal share of the cost of construction for the facilities for a fiscal year will not exceed an amount equal to 10 percent of the State’s allotment under section 730 of this title for such year;
 
-**(B)** the provisions of section 776 2
+**(B)** the provisions of section 776 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title (as in effect on the day before August 7, 1998) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
 
@@ -2413,7 +2413,7 @@ The State plan shall provide an assurance describing how the State will utilize 
 
 Nothing in this part shall be construed to reduce the obligation under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) of a local educational agency or any other agency to provide or pay for any transition services that are also considered special education or related services and that are necessary for ensuring a free appropriate public education to children with disabilities within the State involved.
 
-(Pub. L. 93–112, title I, § 101, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1119; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(4)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 108–446, title III, § 305(h)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, § 412, July 22, 2014, 128 Stat. 1641.)
+(Pub. L. 93–112, title I, § 101, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1119; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(4)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 108–446, title III, § 305(h)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, § 412, July 22, 2014, 128 Stat. 1641.)
 
 **Editorial Notes**
 
@@ -2421,139 +2421,139 @@ Nothing in this part shall be construed to reduce the obligation under the Indiv
 
 For the effective date of the Workforce Innovation and Opportunity Act, referred to in subsec. (a)(1)(B), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-The Architectural Barriers Act of 1968, referred to in subsec. (a)(6)(C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Architectural Barriers Act of 1968, referred to in subsec. (a)(6)(C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(7)(A)(ii), (15)(A)(ii) and (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(7)(A)(ii), (15)(A)(ii) and (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7)(A)(v)(II), (10)(D)(i), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7)(A)(v)(II), (10)(D)(i), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (a)(11)(G), (K), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(11)(G), (K), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 776 of this title, referred to in subsec. (a)(17)(B), was in the original a reference to section 306 which was renumbered section 304 of Pub. L. 93–112 by Pub. L. 113–128, title IV, § 443(2), July 22, 2014, 128 Stat. 1674.
+Section 776 of this title, referred to in subsec. (a)(17)(B), was in the original a reference to section 306 which was renumbered section 304 of Pub. L. 93–112 by Pub. L. 113–128, title IV, § 443(2), July 22, 2014, 128 Stat. 1674.
 
 **Prior Provisions**
 
-A prior section 721, Pub. L. 93–112, title I, § 101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, § 111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, § 111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§ 102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, § 104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, § 4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, § 103(d)(2), title II, § 202, title X, § 1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, § 202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, § 13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§ 102(*o*), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§ 102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 721, Pub. L. 93–112, title I, § 101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, § 111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, § 111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§ 102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, § 104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, § 4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, § 103(d)(2), title II, § 202, title X, § 1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, § 202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, § 13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§ 102(*o*), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§ 102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a)(1)(A). Pub. L. 113–128, § 412(a)(1)(A), substituted “to receive funds under this subchapter for a fiscal year, a State shall submit, and have approved by the Secretary and the Secretary of Labor, a unified State plan in accordance with section 102, or a combined State plan in accordance with section 103, of the Workforce Innovation and Opportunity Act. The unified or combined State plan shall include, in the portion of the plan described in section 102(b)(2)(D) of such Act (referred to in this subsection as the ‘vocational rehabilitation services portion’), the provisions of a State plan for vocational rehabilitation services, described in this subsection.” for “to participate in programs under this subchapter, a State shall submit to the Commissioner a State plan for vocational rehabilitation services that meets the requirements of this section, on the same date that the State submits a State plan under section 112 of the Workforce Investment Act of 1998.”
+2014—Subsec. (a)(1)(A). Pub. L. 113–128, § 412(a)(1)(A), substituted “to receive funds under this subchapter for a fiscal year, a State shall submit, and have approved by the Secretary and the Secretary of Labor, a unified State plan in accordance with section 102, or a combined State plan in accordance with section 103, of the Workforce Innovation and Opportunity Act. The unified or combined State plan shall include, in the portion of the plan described in section 102(b)(2)(D) of such Act (referred to in this subsection as the ‘vocational rehabilitation services portion’), the provisions of a State plan for vocational rehabilitation services, described in this subsection.” for “to participate in programs under this subchapter, a State shall submit to the Commissioner a State plan for vocational rehabilitation services that meets the requirements of this section, on the same date that the State submits a State plan under section 112 of the Workforce Investment Act of 1998.”
 
-Subsec. (a)(1)(B). Pub. L. 113–128, § 412(a)(1)(B), substituted “as part of the vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A),” for “in the State plan for vocational rehabilitation services,” and “the effective date of the Workforce Innovation and Opportunity Act” for “the effective date of the Rehabilitation Act Amendments of 1998”, which had been translated as “August 7, 1998”.
+Subsec. (a)(1)(B). Pub. L. 113–128, § 412(a)(1)(B), substituted “as part of the vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A),” for “in the State plan for vocational rehabilitation services,” and “the effective date of the Workforce Innovation and Opportunity Act” for “the effective date of the Rehabilitation Act Amendments of 1998”, which had been translated as “August 7, 1998”.
 
-Subsec. (a)(1)(C). Pub. L. 113–128, § 412(a)(1)(C), substituted “The vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A) shall remain in effect until the State submits and receives approval of a new State plan in accordance with subparagraph (A), or until the submission of such modifications” for “The State plan shall remain in effect subject to the submission of such modifications” and struck out “, until the State submits and receives approval of a new State plan” before period at end.
+Subsec. (a)(1)(C). Pub. L. 113–128, § 412(a)(1)(C), substituted “The vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A) shall remain in effect until the State submits and receives approval of a new State plan in accordance with subparagraph (A), or until the submission of such modifications” for “The State plan shall remain in effect subject to the submission of such modifications” and struck out “, until the State submits and receives approval of a new State plan” before period at end.
 
-Subsec. (a)(2)(A). Pub. L. 113–128, § 412(a)(2)(A), substituted “The State plan for vocational rehabilitation services” for “The State plan” in introductory provisions.
+Subsec. (a)(2)(A). Pub. L. 113–128, § 412(a)(2)(A), substituted “The State plan for vocational rehabilitation services” for “The State plan” in introductory provisions.
 
-Subsec. (a)(2)(B)(ii)(II). Pub. L. 113–128, § 412(a)(2)(B)(i), inserted “who is responsible for the day-to-day operation of the vocational rehabilitation program” before semicolon at end.
+Subsec. (a)(2)(B)(ii)(II). Pub. L. 113–128, § 412(a)(2)(B)(i), inserted “who is responsible for the day-to-day operation of the vocational rehabilitation program” before semicolon at end.
 
-Subsec. (a)(2)(B)(ii)(V). Pub. L. 113–128, § 412(a)(2)(B)(ii)–(iv), added subcl. (V).
+Subsec. (a)(2)(B)(ii)(V). Pub. L. 113–128, § 412(a)(2)(B)(ii)–(iv), added subcl. (V).
 
-Subsec. (a)(5)(D), (E). Pub. L. 113–128, § 412(a)(3), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (a)(5)(D), (E). Pub. L. 113–128, § 412(a)(3), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (a)(7)(A)(v)(I). Pub. L. 113–128, § 412(a)(4)(A)(i), inserted “, including training implemented in coordination with entities carrying out State programs under section 3003 of this title” after “rehabilitation technology”.
+Subsec. (a)(7)(A)(v)(I). Pub. L. 113–128, § 412(a)(4)(A)(i), inserted “, including training implemented in coordination with entities carrying out State programs under section 3003 of this title” after “rehabilitation technology”.
 
-Subsec. (a)(7)(A)(v)(II). Pub. L. 113–128, § 412(a)(4)(A)(ii), substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
+Subsec. (a)(7)(A)(v)(II). Pub. L. 113–128, § 412(a)(4)(A)(ii), substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
 
-Subsec. (a)(7)(B)(ii). Pub. L. 113–128, § 412(a)(4)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and”.
+Subsec. (a)(7)(B)(ii). Pub. L. 113–128, § 412(a)(4)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and”.
 
-Subsec. (a)(8)(A)(i). Pub. L. 113–128, § 412(a)(5)(A), in introductory provisions, inserted “an accommodation or auxiliary aid or service or” after “prior to providing” and substituted “(5)(E)” for “(5)(D)”.
+Subsec. (a)(8)(A)(i). Pub. L. 113–128, § 412(a)(5)(A), in introductory provisions, inserted “an accommodation or auxiliary aid or service or” after “prior to providing” and substituted “(5)(E)” for “(5)(D)”.
 
-Subsec. (a)(8)(B). Pub. L. 113–128, § 412(a)(5)(B)(i), in introductory provisions, substituted “Medicaid” for “medicaid”, “workforce development system” for “workforce investment system”, and “(5)(E)” for “(5)(D)”, inserted “and, if appropriate, accommodations or auxiliary aids and services,” before “that are included”, and substituted “provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services)” for “provision of such vocational rehabilitation services”.
+Subsec. (a)(8)(B). Pub. L. 113–128, § 412(a)(5)(B)(i), in introductory provisions, substituted “Medicaid” for “medicaid”, “workforce development system” for “workforce investment system”, and “(5)(E)” for “(5)(D)”, inserted “and, if appropriate, accommodations or auxiliary aids and services,” before “that are included”, and substituted “provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services)” for “provision of such vocational rehabilitation services”.
 
-Subsec. (a)(8)(B)(iv). Pub. L. 113–128, § 412(a)(5)(B)(ii), substituted “(5)(E)” for “(5)(D)” and inserted “, and accommodations or auxiliary aids and services” before period at end.
+Subsec. (a)(8)(B)(iv). Pub. L. 113–128, § 412(a)(5)(B)(ii), substituted “(5)(E)” for “(5)(D)” and inserted “, and accommodations or auxiliary aids and services” before period at end.
 
-Subsec. (a)(8)(C)(i). Pub. L. 113–128, § 412(a)(5)(C), substituted “(5)(E)” for “(5)(D)”.
+Subsec. (a)(8)(C)(i). Pub. L. 113–128, § 412(a)(5)(C), substituted “(5)(E)” for “(5)(D)”.
 
-Subsec. (a)(10)(B). Pub. L. 113–128, § 412(a)(6)(A), substituted “annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State’s performance on the standards and indicators described in section 726(a) of this title” for “annual reporting on the eligible individuals receiving the services, on those specific data elements described in section 136(d)(2) of the Workforce Investment Act of 1998”.
+Subsec. (a)(10)(B). Pub. L. 113–128, § 412(a)(6)(A), substituted “annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State’s performance on the standards and indicators described in section 726(a) of this title” for “annual reporting on the eligible individuals receiving the services, on those specific data elements described in section 136(d)(2) of the Workforce Investment Act of 1998”.
 
-Subsec. (a)(10)(C). Pub. L. 113–128, § 412(a)(6)(B)(i), inserted “, from each State,” after “additional data” in introductory provisions.
+Subsec. (a)(10)(C). Pub. L. 113–128, § 412(a)(6)(B)(i), inserted “, from each State,” after “additional data” in introductory provisions.
 
-Subsec. (a)(10)(C)(i). Pub. L. 113–128, § 412(a)(6)(B)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “the number of applicants and the number of individuals determined to be eligible or ineligible for the program carried out under this subchapter, including—
+Subsec. (a)(10)(C)(i). Pub. L. 113–128, § 412(a)(6)(B)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “the number of applicants and the number of individuals determined to be eligible or ineligible for the program carried out under this subchapter, including—
 
 “(I) the number of individuals determined to be ineligible because they did not require vocational rehabilitation services, as provided in section 722(a) of this title; and
 
 “(II) the number of individuals determined, on the basis of clear and convincing evidence, to be too severely disabled to benefit in terms of an employment outcome from vocational rehabilitation services;”.
 
-Subsec. (a)(10)(C)(ii)(I). Pub. L. 113–128, § 412(a)(6)(B)(iii)(I), substituted “(5)(E)” for “(5)(D)”.
+Subsec. (a)(10)(C)(ii)(I). Pub. L. 113–128, § 412(a)(6)(B)(iii)(I), substituted “(5)(E)” for “(5)(D)”.
 
-Subsec. (a)(10)(C)(ii)(IV) to (VI). Pub. L. 113–128, § 412(a)(6)(B)(iii)(II), (III), added subcls. (IV) to (VI).
+Subsec. (a)(10)(C)(ii)(IV) to (VI). Pub. L. 113–128, § 412(a)(6)(B)(iii)(II), (III), added subcls. (IV) to (VI).
 
-Subsec. (a)(10)(C)(iv)(I). Pub. L. 113–128, § 412(a)(6)(B)(iv), inserted “and, for those who achieved employment outcomes, the average length of time to obtain employment” before semicolon.
+Subsec. (a)(10)(C)(iv)(I). Pub. L. 113–128, § 412(a)(6)(B)(iv), inserted “and, for those who achieved employment outcomes, the average length of time to obtain employment” before semicolon.
 
-Subsec. (a)(10)(D)(i). Pub. L. 113–128, § 412(a)(6)(C), substituted “title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
+Subsec. (a)(10)(D)(i). Pub. L. 113–128, § 412(a)(6)(C), substituted “title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
 
-Subsec. (a)(10)(E)(ii). Pub. L. 113–128, § 412(a)(6)(D), substituted “of the State in meeting the standards and indicators established pursuant to section 726 of this title.” for “of the State in meeting—
+Subsec. (a)(10)(E)(ii). Pub. L. 113–128, § 412(a)(6)(D), substituted “of the State in meeting the standards and indicators established pursuant to section 726 of this title.” for “of the State in meeting—
 
 “(I) the State performance measures established under section 136(b) of the Workforce Investment Act of 1998, to the extent the measures are applicable to individuals with disabilities; and
 
 “(II) the standards and indicators established pursuant to section 726 of this title.”
 
-Subsec. (a)(10)(G), (H). Pub. L. 113–128, § 412(a)(6)(E), added subpars. (G) and (H).
+Subsec. (a)(10)(G), (H). Pub. L. 113–128, § 412(a)(6)(E), added subpars. (G) and (H).
 
-Subsec. (a)(11)(A). Pub. L. 113–128, § 412(a)(7)(A)(i), (ii), substituted “workforce development systems” for “workforce investment systems” in heading and “workforce development system” for “workforce investment system” in introductory provisions.
+Subsec. (a)(11)(A). Pub. L. 113–128, § 412(a)(7)(A)(i), (ii), substituted “workforce development systems” for “workforce investment systems” in heading and “workforce development system” for “workforce investment system” in introductory provisions.
 
-Subsec. (a)(11)(A)(i)(II). Pub. L. 113–128, § 412(a)(7)(A)(iii), substituted “development” for “investment” and inserted “(including programmatic accessibility and physical accessibility)” after “program accessibility”.
+Subsec. (a)(11)(A)(i)(II). Pub. L. 113–128, § 412(a)(7)(A)(iii), substituted “development” for “investment” and inserted “(including programmatic accessibility and physical accessibility)” after “program accessibility”.
 
-Subsec. (a)(11)(A)(ii). Pub. L. 113–128, § 412(a)(7)(A)(iv), substituted “workforce development system” for “workforce investment system”.
+Subsec. (a)(11)(A)(ii). Pub. L. 113–128, § 412(a)(7)(A)(iv), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(11)(A)(v). Pub. L. 113–128, § 412(a)(7)(A)(v), substituted “workforce development system” for “workforce investment system”.
+Subsec. (a)(11)(A)(v). Pub. L. 113–128, § 412(a)(7)(A)(v), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(11)(B). Pub. L. 113–128, § 412(a)(7)(B), substituted “workforce development system” for “workforce investment system”.
+Subsec. (a)(11)(B). Pub. L. 113–128, § 412(a)(7)(B), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(11)(C). Pub. L. 113–128, § 412(a)(7)(C), inserted “the State programs carried out under section 3003 of this title,” after “including” and “, noneducational agencies serving out-of-school youth,” after “Agriculture” and substituted “such Federal, State, and local agencies and programs” for “such agencies and programs” and “workforce development system” for “workforce investment system”.
+Subsec. (a)(11)(C). Pub. L. 113–128, § 412(a)(7)(C), inserted “the State programs carried out under section 3003 of this title,” after “including” and “, noneducational agencies serving out-of-school youth,” after “Agriculture” and substituted “such Federal, State, and local agencies and programs” for “such agencies and programs” and “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(11)(D). Pub. L. 113–128, § 412(a)(7)(D), inserted “, including pre-employment transition services,” after “vocational rehabilitation services” in introductory provisions and “, which may be provided using alternative means for meeting participation (such as video conferences and conference calls),” after “consultation and technical assistance” in cl. (i) and substituted “implementation” for “completion” in cl. (ii).
+Subsec. (a)(11)(D). Pub. L. 113–128, § 412(a)(7)(D), inserted “, including pre-employment transition services,” after “vocational rehabilitation services” in introductory provisions and “, which may be provided using alternative means for meeting participation (such as video conferences and conference calls),” after “consultation and technical assistance” in cl. (i) and substituted “implementation” for “completion” in cl. (ii).
 
-Subsec. (a)(11)(E). Pub. L. 113–128, § 412(a)(7)(F), added subpar. (E). Former subpar. (E) redesignated (F).
+Subsec. (a)(11)(E). Pub. L. 113–128, § 412(a)(7)(F), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (a)(11)(F). Pub. L. 113–128, § 412(a)(7)(G), made technical amendment to reference in original act which appears in text as reference to subpart 3 of part A of subchapter VII and inserted “, as appropriate” before period at end.
+Subsec. (a)(11)(F). Pub. L. 113–128, § 412(a)(7)(G), made technical amendment to reference in original act which appears in text as reference to subpart 3 of part A of subchapter VII and inserted “, as appropriate” before period at end.
 
-Pub. L. 113–128, § 412(a)(7)(E), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (H).
+Pub. L. 113–128, § 412(a)(7)(E), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (H).
 
-Subsec. (a)(11)(G). Pub. L. 113–128, § 412(a)(7)(H), added subpar. (G).
+Subsec. (a)(11)(G). Pub. L. 113–128, § 412(a)(7)(H), added subpar. (G).
 
-Subsec. (a)(11)(H). Pub. L. 113–128, § 412(a)(7)(E), redesignated subpar. (F) as (H).
+Subsec. (a)(11)(H). Pub. L. 113–128, § 412(a)(7)(E), redesignated subpar. (F) as (H).
 
-Subsec. (a)(11)(H)(ii) to (iv). Pub. L. 113–128, § 412(a)(7)(I), inserted “on or” before “near” and struck out “and” after semicolon in cl. (ii), added cl. (iii), and redesignated former cl. (iii) as (iv).
+Subsec. (a)(11)(H)(ii) to (iv). Pub. L. 113–128, § 412(a)(7)(I), inserted “on or” before “near” and struck out “and” after semicolon in cl. (ii), added cl. (iii), and redesignated former cl. (iii) as (iv).
 
-Subsec. (a)(11)(I) to (K). Pub. L. 113–128, § 412(a)(7)(J), added subpars. (I) to (K).
+Subsec. (a)(11)(I) to (K). Pub. L. 113–128, § 412(a)(7)(J), added subpars. (I) to (K).
 
-Subsec. (a)(14). Pub. L. 113–128, § 412(a)(8)(A), substituted “Semiannual” for “Annual” in heading.
+Subsec. (a)(14). Pub. L. 113–128, § 412(a)(8)(A), substituted “Semiannual” for “Annual” in heading.
 
-Subsec. (a)(14)(A). Pub. L. 113–128, § 412(a)(8)(B), substituted “a semiannual” for “an annual”, “is employed” for “has achieved an employment outcome”, “beginning of such employment, and annually thereafter” for “achievement of the outcome (and thereafter if requested by the individual or, if appropriate, the individual’s representative)”, and “to competitive integrated employment or training for competitive integrated employment;” for “to competitive employment or training for competitive employment;”.
+Subsec. (a)(14)(A). Pub. L. 113–128, § 412(a)(8)(B), substituted “a semiannual” for “an annual”, “is employed” for “has achieved an employment outcome”, “beginning of such employment, and annually thereafter” for “achievement of the outcome (and thereafter if requested by the individual or, if appropriate, the individual’s representative)”, and “to competitive integrated employment or training for competitive integrated employment;” for “to competitive employment or training for competitive employment;”.
 
-Subsec. (a)(14)(C), (D). Pub. L. 113–128, § 412(a)(8)(C)–(E), substituted “individuals described in subparagraph (A) in attaining competitive integrated employment; and” for “the individuals described in subparagraph (A) in engaging in competitive employment.” in subpar. (C) and added subpar. (D).
+Subsec. (a)(14)(C), (D). Pub. L. 113–128, § 412(a)(8)(C)–(E), substituted “individuals described in subparagraph (A) in attaining competitive integrated employment; and” for “the individuals described in subparagraph (A) in engaging in competitive employment.” in subpar. (C) and added subpar. (D).
 
-Subsec. (a)(15)(A)(i)(III). Pub. L. 113–128, § 412(a)(9)(A)(i)(II)(aa), substituted “workforce development system” for “workforce investment system”.
+Subsec. (a)(15)(A)(i)(III). Pub. L. 113–128, § 412(a)(9)(A)(i)(II)(aa), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(15)(A)(i)(IV). Pub. L. 113–128, § 412(a)(9)(A)(i)(I), (II)(bb), (III), added subcl. (IV).
+Subsec. (a)(15)(A)(i)(IV). Pub. L. 113–128, § 412(a)(9)(A)(i)(I), (II)(bb), (III), added subcl. (IV).
 
-Subsec. (a)(15)(A)(ii) to (iv). Pub. L. 113–128, § 412(a)(9)(A)(ii), (iii), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+Subsec. (a)(15)(A)(ii) to (iv). Pub. L. 113–128, § 412(a)(9)(A)(ii), (iii), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-Subsec. (a)(15)(B)(ii). Pub. L. 113–128, § 412(a)(9)(B)(i), substituted “subchapter VI” for “part B of subchapter VI”.
+Subsec. (a)(15)(B)(ii). Pub. L. 113–128, § 412(a)(9)(B)(i), substituted “subchapter VI” for “part B of subchapter VI”.
 
-Subsec. (a)(15)(B)(iii), (iv). Pub. L. 113–128, § 412(a)(9)(B)(ii), (iii), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (a)(15)(B)(iii), (iv). Pub. L. 113–128, § 412(a)(9)(B)(ii), (iii), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (a)(15)(D)(iii) to (vi). Pub. L. 113–128, § 412(a)(9)(C), added cl. (iii), redesignated former cls. (iii) to (v) as (iv) to (vi), respectively, and, in cl. (vi), substituted “workforce development system” for “workforce investment system”.
+Subsec. (a)(15)(D)(iii) to (vi). Pub. L. 113–128, § 412(a)(9)(C), added cl. (iii), redesignated former cls. (iii) to (v) as (iv) to (vi), respectively, and, in cl. (vi), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(20)(A), (B)(i). Pub. L. 113–128, § 412(a)(10), substituted “workforce development system” for “workforce investment system”.
+Subsec. (a)(20)(A), (B)(i). Pub. L. 113–128, § 412(a)(10), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(22). Pub. L. 113–128, § 412(a)(11), substituted “subchapter VI” for “part B of subchapter VI”.
+Subsec. (a)(22). Pub. L. 113–128, § 412(a)(11), substituted “subchapter VI” for “part B of subchapter VI”.
 
-Subsec. (a)(25), (26). Pub. L. 113–128, § 412(a)(12), added pars. (25) and (26).
+Subsec. (a)(25), (26). Pub. L. 113–128, § 412(a)(12), added pars. (25) and (26).
 
-Subsec. (b). Pub. L. 113–128, § 412(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to approval and disapproval of State plans.
+Subsec. (b). Pub. L. 113–128, § 412(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to approval and disapproval of State plans.
 
-Subsec. (c). Pub. L. 113–128, § 412(c), added subsec. (c).
+Subsec. (c). Pub. L. 113–128, § 412(c), added subsec. (c).
 
 2004—Subsec. (a)(11)(D)(ii). Pub. L. 108–446 struck out “(as added by section 101 of Public Law 105–17)” before semicolon at end.
 
-1998—Subsec. (a)(18)(C). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(4)(A)], substituted “were utilized during the preceding year” for “will be utilized”.
+1998—Subsec. (a)(18)(C). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(4)(A)], substituted “were utilized during the preceding year” for “will be utilized”.
 
-Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(4)(B)], substituted “commission” for “Commission”.
+Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(4)(B)], substituted “commission” for “Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2561,7 +2561,7 @@ Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, § 101(f) [title VIII, § 
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 722. Eligibility and individualized plan for employment
+#### § 722. Eligibility and individualized plan for employment
 
 **(a) Eligibility**
 
@@ -2949,63 +2949,63 @@ The confidentiality of records of applicants and eligible individuals maintained
 
 **(5)** to ensure that the availability and scope of informed choice provided under this section is consistent with the obligations of the designated State agency under this subchapter.
 
-(Pub. L. 93–112, title I, § 102, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1138; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(5)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 113–128, title IV, § 413, July 22, 2014, 128 Stat. 1649.)
+(Pub. L. 93–112, title I, § 102, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1138; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(5)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 113–128, title IV, § 413, July 22, 2014, 128 Stat. 1649.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 722, Pub. L. 93–112, title I, § 102, Sept. 26, 1973, 87 Stat. 368; Pub. L. 93–516, title I, § 111(e), Dec. 7, 1974, 88 Stat. 1620; Pub. L. 93–651, title I, § 111(e), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§ 103, 122(b)(1), Nov. 6, 1978, 92 Stat. 2959, 2987; Pub. L. 98–221, title I, §§ 104(a)(3), 112, Feb. 22, 1984, 98 Stat. 18, 20; Pub. L. 99–506, title I, § 103(d)(2)(A), (B), title II, § 203, title X, § 1001(b)(5), Oct. 21, 1986, 100 Stat. 1810, 1815, 1842; Pub. L. 100–630, title II, § 202(c), Nov. 7, 1988, 102 Stat. 3305; Pub. L. 102–569, title I, §§ 102(p)(8), 123, Oct. 29, 1992, 106 Stat. 4357, 4375; Pub. L. 103–73, title I, § 107(b), Aug. 11, 1993, 107 Stat. 720, related to individualized written rehabilitation program, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 722, Pub. L. 93–112, title I, § 102, Sept. 26, 1973, 87 Stat. 368; Pub. L. 93–516, title I, § 111(e), Dec. 7, 1974, 88 Stat. 1620; Pub. L. 93–651, title I, § 111(e), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§ 103, 122(b)(1), Nov. 6, 1978, 92 Stat. 2959, 2987; Pub. L. 98–221, title I, §§ 104(a)(3), 112, Feb. 22, 1984, 98 Stat. 18, 20; Pub. L. 99–506, title I, § 103(d)(2)(A), (B), title II, § 203, title X, § 1001(b)(5), Oct. 21, 1986, 100 Stat. 1810, 1815, 1842; Pub. L. 100–630, title II, § 202(c), Nov. 7, 1988, 102 Stat. 3305; Pub. L. 102–569, title I, §§ 102(p)(8), 123, Oct. 29, 1992, 106 Stat. 4357, 4375; Pub. L. 103–73, title I, § 107(b), Aug. 11, 1993, 107 Stat. 720, related to individualized written rehabilitation program, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 413(a)(1)(C), which directed the insertion “at the end” of “For purposes of an assessment for determining eligibility and vocational rehabilitation needs under this chapter, an individual shall be presumed to have a goal of an employment outcome.”, was executed by inserting text as concluding provisions of par. (1) to reflect the probable intent of Congress.
+2014—Subsec. (a)(1). Pub. L. 113–128, § 413(a)(1)(C), which directed the insertion “at the end” of “For purposes of an assessment for determining eligibility and vocational rehabilitation needs under this chapter, an individual shall be presumed to have a goal of an employment outcome.”, was executed by inserting text as concluding provisions of par. (1) to reflect the probable intent of Congress.
 
-Subsec. (a)(1)(A). Pub. L. 113–128, § 413(a)(1)(A), substituted “has undergone an assessment for determining eligibility and vocational rehabilitation needs and as a result has been determined to be an” for “is an”.
+Subsec. (a)(1)(A). Pub. L. 113–128, § 413(a)(1)(A), substituted “has undergone an assessment for determining eligibility and vocational rehabilitation needs and as a result has been determined to be an” for “is an”.
 
-Subsec. (a)(1)(B). Pub. L. 113–128, § 413(a)(1)(B), substituted “advance in, or regain employment that is consistent with the individual’s strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.” for “or regain employment.”
+Subsec. (a)(1)(B). Pub. L. 113–128, § 413(a)(1)(B), substituted “advance in, or regain employment that is consistent with the individual’s strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.” for “or regain employment.”
 
-Subsec. (a)(2)(A). Pub. L. 113–128, § 413(a)(2)(A), substituted “Applicants” for “Demonstration” in heading and struck out “, unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual” before period at end.
+Subsec. (a)(2)(A). Pub. L. 113–128, § 413(a)(2)(A), substituted “Applicants” for “Demonstration” in heading and struck out “, unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual” before period at end.
 
-Subsec. (a)(2)(B). Pub. L. 113–128, § 413(a)(2)(B), in heading, substituted “Responsibilities” for “Methods” and, in text, substituted “Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual’s disability or that the individual is ineligible for vocational rehabilitation services,” for “In making the demonstration required under subparagraph (A),”, “through the designated State unit.” for “through the designated State unit, except under limited circumstances when an individual cannot take advantage of such experiences.”, and “individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.” for “individual or to determine the existence of clear and convincing evidence that the individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.”
+Subsec. (a)(2)(B). Pub. L. 113–128, § 413(a)(2)(B), in heading, substituted “Responsibilities” for “Methods” and, in text, substituted “Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual’s disability or that the individual is ineligible for vocational rehabilitation services,” for “In making the demonstration required under subparagraph (A),”, “through the designated State unit.” for “through the designated State unit, except under limited circumstances when an individual cannot take advantage of such experiences.”, and “individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.” for “individual or to determine the existence of clear and convincing evidence that the individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.”
 
-Subsec. (a)(3)(A)(ii). Pub. L. 113–128, § 413(a)(3), substituted “outcome due to the severity of the individual’s disability (as of the date of the determination).” for “outcome from vocational rehabilitation services due to the severity of the disability of the individual in accordance with paragraph (2).”
+Subsec. (a)(3)(A)(ii). Pub. L. 113–128, § 413(a)(3), substituted “outcome due to the severity of the individual’s disability (as of the date of the determination).” for “outcome from vocational rehabilitation services due to the severity of the disability of the individual in accordance with paragraph (2).”
 
-Subsec. (a)(5). Pub. L. 113–128, § 413(a)(4)(B), (C), added subpar. (A) and redesignated former subpars. (A) to (D) as (B) to (E), respectively.
+Subsec. (a)(5). Pub. L. 113–128, § 413(a)(4)(B), (C), added subpar. (A) and redesignated former subpars. (A) to (D) as (B) to (E), respectively.
 
-Pub. L. 113–128, § 413(a)(4)(A), in introductory provisions, substituted “If, after the designated State unit carries out the activities described in paragraph (2)(B), a review of existing data, and, to the extent necessary, the assessment activities described in section 705(2)(A)(ii) of this title, an individual” for “If an individual” and “subchapter is determined not to be” for “subchapter is determined, based on the review of existing data and, to the extent necessary, the assessment activities described in section 705(2)(A)(ii) of this title, not to be”.
+Pub. L. 113–128, § 413(a)(4)(A), in introductory provisions, substituted “If, after the designated State unit carries out the activities described in paragraph (2)(B), a review of existing data, and, to the extent necessary, the assessment activities described in section 705(2)(A)(ii) of this title, an individual” for “If an individual” and “subchapter is determined not to be” for “subchapter is determined, based on the review of existing data and, to the extent necessary, the assessment activities described in section 705(2)(A)(ii) of this title, not to be”.
 
-Subsec. (a)(5)(C)(i). Pub. L. 113–128, § 413(a)(4)(D), inserted “, including the clear and convincing evidence that forms the basis for the determination of ineligibility” after “determination”.
+Subsec. (a)(5)(C)(i). Pub. L. 113–128, § 413(a)(4)(D), inserted “, including the clear and convincing evidence that forms the basis for the determination of ineligibility” after “determination”.
 
-Subsec. (b)(1)(A). Pub. L. 113–128, § 413(b)(1), struck out “, to the extent determined to be appropriate by the eligible individual,” after “availability of assistance” and inserted “or, as appropriate, a disability advocacy organization” after “counselor”.
+Subsec. (b)(1)(A). Pub. L. 113–128, § 413(b)(1), struck out “, to the extent determined to be appropriate by the eligible individual,” after “availability of assistance” and inserted “or, as appropriate, a disability advocacy organization” after “counselor”.
 
-Subsec. (b)(2). Pub. L. 113–128, § 413(b)(3), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 113–128, § 413(b)(3), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 113–128, § 413(b)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (b)(3). Pub. L. 113–128, § 413(b)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(3)(E)(iii). Pub. L. 113–128, § 413(b)(4)(A), added cl. (iii).
+Subsec. (b)(3)(E)(iii). Pub. L. 113–128, § 413(b)(4)(A), added cl. (iii).
 
-Subsec. (b)(3)(F). Pub. L. 113–128, § 413(b)(4)(B), added subpar. (F).
+Subsec. (b)(3)(F). Pub. L. 113–128, § 413(b)(4)(B), added subpar. (F).
 
-Subsec. (b)(4). Pub. L. 113–128, § 413(b)(2), redesignated par. (3) as (4).
+Subsec. (b)(4). Pub. L. 113–128, § 413(b)(2), redesignated par. (3) as (4).
 
-Subsec. (b)(4)(A). Pub. L. 113–128, § 413(b)(5)(A), substituted “choice of the eligible individual, consistent with the general goal of competitive integrated employment (except that in the case of an eligible individual who is a student, the description may be a description of the student’s projected postschool employment outcome);” for “choice of the eligible individual, and, to the maximum extent appropriate, results in employment in an integrated setting;”.
+Subsec. (b)(4)(A). Pub. L. 113–128, § 413(b)(5)(A), substituted “choice of the eligible individual, consistent with the general goal of competitive integrated employment (except that in the case of an eligible individual who is a student, the description may be a description of the student’s projected postschool employment outcome);” for “choice of the eligible individual, and, to the maximum extent appropriate, results in employment in an integrated setting;”.
 
-Subsec. (b)(4)(B)(i). Pub. L. 113–128, § 413(b)(5)(B), added subcls. (I) and (II), redesignated former subcl. (II) as (III), and struck out former subcl. (I) which read as follows: “needed to achieve the employment outcome, including, as appropriate, the provision of assistive technology devices and assistive technology services, and personal assistance services, including training in the management of such services; and”.
+Subsec. (b)(4)(B)(i). Pub. L. 113–128, § 413(b)(5)(B), added subcls. (I) and (II), redesignated former subcl. (II) as (III), and struck out former subcl. (I) which read as follows: “needed to achieve the employment outcome, including, as appropriate, the provision of assistive technology devices and assistive technology services, and personal assistance services, including training in the management of such services; and”.
 
-Subsec. (b)(4)(H). Pub. L. 113–128, § 413(b)(5)(C)–(E), added subpar. (H).
+Subsec. (b)(4)(H). Pub. L. 113–128, § 413(b)(5)(C)–(E), added subpar. (H).
 
-Subsec. (c)(1). Pub. L. 113–128, § 413(c)(1), inserted at end “The procedures shall allow an applicant or an eligible individual the opportunity to request mediation, an impartial due process hearing, or both procedures.”
+Subsec. (c)(1). Pub. L. 113–128, § 413(c)(1), inserted at end “The procedures shall allow an applicant or an eligible individual the opportunity to request mediation, an impartial due process hearing, or both procedures.”
 
-Subsec. (c)(2)(A)(iv). Pub. L. 113–128, § 413(c)(2), added cl. (iv).
+Subsec. (c)(2)(A)(iv). Pub. L. 113–128, § 413(c)(2), added cl. (iv).
 
-Subsec. (c)(5)(A). Pub. L. 113–128, § 413(c)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who shall issue a decision based on the provisions of the approved State plan, this chapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the decision in writing to the applicant or eligible individual, or, as appropriate, the applicant’s representative or individual’s representative, and to the designated State unit.”
+Subsec. (c)(5)(A). Pub. L. 113–128, § 413(c)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who shall issue a decision based on the provisions of the approved State plan, this chapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the decision in writing to the applicant or eligible individual, or, as appropriate, the applicant’s representative or individual’s representative, and to the designated State unit.”
 
-Subsec. (c)(5)(B). Pub. L. 113–128, § 413(c)(3)(B), substituted “about Federal laws” for “in laws” in introductory provisions.
+Subsec. (c)(5)(B). Pub. L. 113–128, § 413(c)(3)(B), substituted “about Federal laws” for “in laws” in introductory provisions.
 
 1998—Subsec. (c)(5)(F)(iv). Pub. L. 105–277 added cl. (iv).
 
@@ -3015,7 +3015,7 @@ Subsec. (c)(5)(B). Pub. L. 113–128, § 413(c)(3)(B), substituted “about Fe
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 723. Vocational rehabilitation services
+#### § 723. Vocational rehabilitation services
 
 **(a) Vocational rehabilitation services for individuals** Vocational rehabilitation services provided under this subchapter are any services described in an individualized plan for employment necessary to assist an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual, including—
 
@@ -3107,33 +3107,33 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 except that the limitations of subsection (a)(5) that apply to training services shall apply to support described in this paragraph, and nothing in this paragraph shall prevent any designated State unit from providing similar support to individuals with disabilities within the State who are eligible to receive support under this subchapter and who are not served under this paragraph.
 
-(Pub. L. 93–112, title I, § 103, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1148; amended Pub. L. 113–128, title IV, § 414, July 22, 2014, 128 Stat. 1652.)
+(Pub. L. 93–112, title I, § 103, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1148; amended Pub. L. 113–128, title IV, § 414, July 22, 2014, 128 Stat. 1652.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Assistive Technology Act of 1998, referred to in subsec. (b)(8), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Assistive Technology Act of 1998, referred to in subsec. (b)(8), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 723, Pub. L. 93–112, title I, § 103, Sept. 26, 1973, 87 Stat. 368; Pub. L. 95–602, title I, § 104, Nov. 6, 1978, 92 Stat. 2960; Pub. L. 99–506, title I, § 103(d)(2), title II, § 204, Oct. 21, 1986, 100 Stat. 1810, 1817; Pub. L. 100–630, title II, § 202(d), Nov. 7, 1988, 102 Stat. 3305; Pub. L. 102–569, title I, §§ 102(p)(9), 124, Oct. 29, 1992, 106 Stat. 4357, 4379; Pub. L. 103–73, title I, § 107(c), Aug. 11, 1993, 107 Stat. 721, related to scope of vocational rehabilitation services, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 723, Pub. L. 93–112, title I, § 103, Sept. 26, 1973, 87 Stat. 368; Pub. L. 95–602, title I, § 104, Nov. 6, 1978, 92 Stat. 2960; Pub. L. 99–506, title I, § 103(d)(2), title II, § 204, Oct. 21, 1986, 100 Stat. 1810, 1817; Pub. L. 100–630, title II, § 202(d), Nov. 7, 1988, 102 Stat. 3305; Pub. L. 102–569, title I, §§ 102(p)(9), 124, Oct. 29, 1992, 106 Stat. 4357, 4379; Pub. L. 103–73, title I, § 107(c), Aug. 11, 1993, 107 Stat. 721, related to scope of vocational rehabilitation services, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a)(13). Pub. L. 113–128, § 414(1)(A), substituted “workforce development system” for “workforce investment system”.
+2014—Subsec. (a)(13). Pub. L. 113–128, § 414(1)(A), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(15). Pub. L. 113–128, § 414(1)(B), added par. (15) and struck out former par. (15) which read as follows: “transition services for students with disabilities, that facilitate the achievement of the employment outcome identified in the individualized plan for employment;”.
+Subsec. (a)(15). Pub. L. 113–128, § 414(1)(B), added par. (15) and struck out former par. (15) which read as follows: “transition services for students with disabilities, that facilitate the achievement of the employment outcome identified in the individualized plan for employment;”.
 
-Subsec. (a)(17) to (20). Pub. L. 113–128, § 414(1)(C), (D), added pars. (17) and (18) and redesignated former pars. (17) and (18) as (19) and (20), respectively.
+Subsec. (a)(17) to (20). Pub. L. 113–128, § 414(1)(C), (D), added pars. (17) and (18) and redesignated former pars. (17) and (18) as (19) and (20), respectively.
 
-Subsec. (b)(2). Pub. L. 113–128, § 414(2)(A), struck out subpar. (A) designation, substituted “Such programs shall be used to provide services described in this section that promote integration into the community and that prepare individuals with disabilities for competitive integrated employment, including supported employment and customized employment.” for “Such programs shall be used to provide services that promote integration and competitive employment.”, and struck out subpar. (B) which read as follows: “The provision of other services, that promise to contribute substantially to the rehabilitation of a group of individuals but that are not related directly to the individualized plan for employment of any 1 individual with a disability.”
+Subsec. (b)(2). Pub. L. 113–128, § 414(2)(A), struck out subpar. (A) designation, substituted “Such programs shall be used to provide services described in this section that promote integration into the community and that prepare individuals with disabilities for competitive integrated employment, including supported employment and customized employment.” for “Such programs shall be used to provide services that promote integration and competitive employment.”, and struck out subpar. (B) which read as follows: “The provision of other services, that promise to contribute substantially to the rehabilitation of a group of individuals but that are not related directly to the individualized plan for employment of any 1 individual with a disability.”
 
-Subsec. (b)(5). Pub. L. 113–128, § 414(2)(B), added par. (5) and struck out former par. (5) which read as follows: “Technical assistance and support services to businesses that are not subject to title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and that are seeking to employ individuals with disabilities.”
+Subsec. (b)(5). Pub. L. 113–128, § 414(2)(B), added par. (5) and struck out former par. (5) which read as follows: “Technical assistance and support services to businesses that are not subject to title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and that are seeking to employ individuals with disabilities.”
 
-Subsec. (b)(6) to (9). Pub. L. 113–128, § 414(2)(C), added pars. (6) to (9) and struck out former par. (6) which read as follows: “Consultative and technical assistance services to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including employment.”
+Subsec. (b)(6) to (9). Pub. L. 113–128, § 414(2)(C), added pars. (6) to (9) and struck out former par. (6) which read as follows: “Consultative and technical assistance services to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including employment.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3141,19 +3141,19 @@ Subsec. (b)(6) to (9). Pub. L. 113–128, § 414(2)(C), added pars. (6) to (9)
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 724. Non-Federal share for establishment of program or construction
+#### § 724. Non-Federal share for establishment of program or construction
 
 For the purpose of determining the amount of payments to States for carrying out part B (or to an Indian tribe under part C), the non-Federal share, subject to such limitations and conditions as may be prescribed in regulations by the Commissioner, shall include contributions of funds made by any private agency, organization, or individual to a State or local agency to assist in meeting the costs of establishment of a community rehabilitation program or construction, under special circumstances, of a facility for such a program, which would be regarded as State or local funds except for the condition, imposed by the contributor, limiting use of such funds to establishment of such a program or construction of such a facility.
 
-(Pub. L. 93–112, title I, § 104, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1151.)
+(Pub. L. 93–112, title I, § 104, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1151.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 724, Pub. L. 93–112, title I, § 104, Sept. 26, 1973, 87 Stat. 370; Pub. L. 95–602, title I, § 122(b)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title II, § 205, Oct. 21, 1986, 100 Stat. 1817; Pub. L. 102–569, title I, § 125, Oct. 29, 1992, 106 Stat. 4381, related to non-Federal share for construction, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 724, Pub. L. 93–112, title I, § 104, Sept. 26, 1973, 87 Stat. 370; Pub. L. 95–602, title I, § 122(b)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title II, § 205, Oct. 21, 1986, 100 Stat. 1817; Pub. L. 102–569, title I, § 125, Oct. 29, 1992, 106 Stat. 4381, related to non-Federal share for construction, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-#### § 725. State Rehabilitation Council
+#### § 725. State Rehabilitation Council
 
 **(a) Establishment**
 
@@ -3359,43 +3359,43 @@ The Council may use funds allocated to the Council by the designated State unit 
 
 The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
-(Pub. L. 93–112, title I, § 105, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(6)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, § 401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–446, title III, § 305(h)(2), (3), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, § 415, July 22, 2014, 128 Stat. 1654.)
+(Pub. L. 93–112, title I, § 105, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(6)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, § 401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–446, title III, § 305(h)(2), (3), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, § 415, July 22, 2014, 128 Stat. 1654.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(A)(x), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(A)(x), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Assistive Technology Act of 1998, referred to in subsec. (c)(6), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Assistive Technology Act of 1998, referred to in subsec. (c)(6), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 725, Pub. L. 93–112, title I, § 105, as added Pub. L. 102–569, title I, § 126(a), Oct. 29, 1992, 106 Stat. 4381; amended Pub. L. 103–73, title I, § 107(d)(1), Aug. 11, 1993, 107 Stat. 721, related to State Rehabilitation Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 725, Pub. L. 93–112, title I, § 105, as added Pub. L. 102–569, title I, § 126(a), Oct. 29, 1992, 106 Stat. 4381; amended Pub. L. 103–73, title I, § 107(d)(1), Aug. 11, 1993, 107 Stat. 721, related to State Rehabilitation Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (b)(1)(A)(ix). Pub. L. 113–128, § 415(1)(A), added cl. (ix) and struck out former cl. (ix) which read as follows: “in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects;”.
+2014—Subsec. (b)(1)(A)(ix). Pub. L. 113–128, § 415(1)(A), added cl. (ix) and struck out former cl. (ix) which read as follows: “in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects;”.
 
-Subsec. (b)(1)(A)(xi). Pub. L. 113–128, § 415(1)(B), substituted “State workforce development board” for “State workforce investment board”.
+Subsec. (b)(1)(A)(xi). Pub. L. 113–128, § 415(1)(B), substituted “State workforce development board” for “State workforce investment board”.
 
-Subsec. (c). Pub. L. 113–128, § 415(2)(A), substituted “State workforce development board” for “State workforce investment board” in introductory provisions.
+Subsec. (c). Pub. L. 113–128, § 415(2)(A), substituted “State workforce development board” for “State workforce investment board” in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 113–128, § 415(2)(B), substituted “section 300x–3(a) of title 42 and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 (29 U.S.C. 3001 et seq.);” for “section 300x–3(a) of title 42, and the State workforce investment board;”.
+Subsec. (c)(6). Pub. L. 113–128, § 415(2)(B), substituted “section 300x–3(a) of title 42 and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 (29 U.S.C. 3001 et seq.);” for “section 300x–3(a) of title 42, and the State workforce investment board;”.
 
-2004—Subsec. (b)(1)(A)(ii). Pub. L. 108–446, § 305(h)(2), substituted “671 of the Individuals with Disabilities Education Act” for “682(a) of the Individuals with Disabilities Education Act (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)”.
+2004—Subsec. (b)(1)(A)(ii). Pub. L. 108–446, § 305(h)(2), substituted “671 of the Individuals with Disabilities Education Act” for “682(a) of the Individuals with Disabilities Education Act (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)”.
 
-Subsec. (c)(6). Pub. L. 108–446, § 305(h)(3), substituted “section 612(a)(20)” for “section 612(a)(21)” and “Individuals with” for “Individual with” and struck out “(as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)” before “, the State Council”.
+Subsec. (c)(6). Pub. L. 108–446, § 305(h)(3), substituted “section 612(a)(20)” for “section 612(a)(21)” and “Individuals with” for “Individual with” and struck out “(as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)” before “, the State Council”.
 
 2000—Subsec. (c)(6). Pub. L. 106–402 substituted “the State Council on Developmental Disabilities established under section 15025 of title 42” for “the State Developmental Disabilities Council described in section 6024 of title 42”.
 
-1998—Subsec. (b)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(A)], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
+1998—Subsec. (b)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(A)], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
 
-Subsec. (b)(4)(A)(i). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(B)], substituted “section 705(20)(B)” for “section 705(20)(A)”.
+Subsec. (b)(4)(A)(i). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(B)], substituted “section 705(20)(B)” for “section 705(20)(A)”.
 
-Subsec. (b)(5)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(C)], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
+Subsec. (b)(5)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(C)], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
 
-Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(D)], substituted “appointing authority described in paragraph (3)” for “Governor”.
+Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(D)], substituted “appointing authority described in paragraph (3)” for “Governor”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3403,7 +3403,7 @@ Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, § 101(f) [title VIII, § 
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 726. Evaluation standards and performance indicators
+#### § 726. Evaluation standards and performance indicators
 
 **(a) In general**
 
@@ -3441,19 +3441,19 @@ If the Commissioner determines that a State whose performance falls below the es
 
 Beginning in fiscal year 1999, the Commissioner shall include in each annual report to the Congress under section 710 of this title an analysis of program performance, including relative State performance, based on the standards and indicators.
 
-(Pub. L. 93–112, title I, § 106, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1156; amended Pub. L. 113–128, title IV, § 416, July 22, 2014, 128 Stat. 1654.)
+(Pub. L. 93–112, title I, § 106, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1156; amended Pub. L. 113–128, title IV, § 416, July 22, 2014, 128 Stat. 1654.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 726, Pub. L. 93–112, title I, § 106, as added Pub. L. 102–569, title I, § 127(a), Oct. 29, 1992, 106 Stat. 4385, related to evaluation standards and performance indicators, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 726, Pub. L. 93–112, title I, § 106, as added Pub. L. 102–569, title I, § 127(a), Oct. 29, 1992, 106 Stat. 4385, related to evaluation standards and performance indicators, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 416(1), added subsec. (a) and struck out former subsec. (a) which provided for the establishment, review, and revision of evaluation standards and performance indicators.
+2014—Subsec. (a). Pub. L. 113–128, § 416(1), added subsec. (a) and struck out former subsec. (a) which provided for the establishment, review, and revision of evaluation standards and performance indicators.
 
-Subsec. (b)(2)(B)(i). Pub. L. 113–128, § 416(2), substituted “on a biannual basis, review the program improvement efforts of the State and, if the State has not improved its performance to acceptable levels, as determined by the Commissioner, direct the State” for “review the program improvement efforts of the State on a biannual basis and, if necessary, request the State”.
+Subsec. (b)(2)(B)(i). Pub. L. 113–128, § 416(2), substituted “on a biannual basis, review the program improvement efforts of the State and, if the State has not improved its performance to acceptable levels, as determined by the Commissioner, direct the State” for “review the program improvement efforts of the State on a biannual basis and, if necessary, request the State”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3461,7 +3461,7 @@ Subsec. (b)(2)(B)(i). Pub. L. 113–128, § 416(2), substituted “on a biannu
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 727. Monitoring and review
+#### § 727. Monitoring and review
 
 **(a) In general**
 
@@ -3575,27 +3575,27 @@ If, in an action under this subsection to review a final determination of the Co
 
 Section 706 of title 5 shall apply to the review of any determination under this subsection, except that the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such determination if the court finds that the determination is not supported by substantial evidence in the record of the proceeding submitted pursuant to paragraph (1), as supplemented by any additional submissions and presentations filed under paragraph (2).
 
-(Pub. L. 93–112, title I, § 107, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1157; amended Pub. L. 113–128, title IV, § 417(a), July 22, 2014, 128 Stat. 1654.)
+(Pub. L. 93–112, title I, § 107, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1157; amended Pub. L. 113–128, title IV, § 417(a), July 22, 2014, 128 Stat. 1654.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 727, Pub. L. 93–112, title I, § 107, as added Pub. L. 102–569, title I, § 128(a), Oct. 29, 1992, 106 Stat. 4386, related to monitoring and review, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 727, Pub. L. 93–112, title I, § 107, as added Pub. L. 102–569, title I, § 128(a), Oct. 29, 1992, 106 Stat. 4386, related to monitoring and review, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a)(3)(E). Pub. L. 113–128, § 417(a)(1)(A), inserted “, including personnel of a client assistance program under section 732 of this title, and past or current recipients of vocational rehabilitation services” before period at end.
+2014—Subsec. (a)(3)(E). Pub. L. 113–128, § 417(a)(1)(A), inserted “, including personnel of a client assistance program under section 732 of this title, and past or current recipients of vocational rehabilitation services” before period at end.
 
-Subsec. (a)(4)(A), (B). Pub. L. 113–128, § 417(a)(1)(B)(i), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (a)(4)(A), (B). Pub. L. 113–128, § 417(a)(1)(B)(i), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) the eligibility process;
 
 “(B) the provision of services, including, if applicable, the order of selection;”.
 
-Subsec. (a)(4)(D), (E). Pub. L. 113–128, § 417(a)(1)(B)(ii)–(iv), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (a)(4)(D), (E). Pub. L. 113–128, § 417(a)(1)(B)(ii)–(iv), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (b)(3). Pub. L. 113–128, § 417(a)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 113–128, § 417(a)(2), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3603,7 +3603,7 @@ Subsec. (b)(3). Pub. L. 113–128, § 417(a)(2), added par. (3).
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 728. Expenditure of certain amounts
+#### § 728. Expenditure of certain amounts
 
 **(a) Expenditure**
 
@@ -3613,17 +3613,17 @@ Amounts described in subsection (b) may not be expended by a State for any purpo
 
 The amounts referred to in subsection (a) are amounts provided to a State under the Social Security Act (42 U.S.C. 301 et seq.) as reimbursement for the expenditure of payments received by the State from allotments under section 730 of this title.
 
-(Pub. L. 93–112, title I, § 108, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 113–128, title IV, § 417(b), July 22, 2014, 128 Stat. 1655.)
+(Pub. L. 93–112, title I, § 108, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 113–128, title IV, § 417(b), July 22, 2014, 128 Stat. 1655.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 728, Pub. L. 93–112, title I, § 108, as added Pub. L. 102–569, title I, § 129(a), Oct. 29, 1992, 106 Stat. 4389, related to expenditure of certain amounts, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 728, Pub. L. 93–112, title I, § 108, as added Pub. L. 102–569, title I, § 129(a), Oct. 29, 1992, 106 Stat. 4389, related to expenditure of certain amounts, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
@@ -3635,7 +3635,7 @@ A prior section 728, Pub. L. 93–112, title I, § 108, as added Pub. L. 102�
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 728a. Training and services for employers
+#### § 728a. Training and services for employers
 
 A State may expend payments received under section 731 of this title to educate and provide services to employers who have hired or are interested in hiring individuals with disabilities under programs carried out under this subchapter, including—
 
@@ -3655,17 +3655,17 @@ A State may expend payments received under section 731 of this title to educate 
 
 **(4)** assisting employers with utilizing available financial support for hiring or accommodating individuals with disabilities.
 
-(Pub. L. 93–112, title I, § 109, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 113–128, title IV, § 418, July 22, 2014, 128 Stat. 1655.)
+(Pub. L. 93–112, title I, § 109, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 113–128, title IV, § 418, July 22, 2014, 128 Stat. 1655.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in par. (1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 728a, Pub. L. 93–112, title I, § 109, as added Pub. L. 102–569, title I, § 130(a), Oct. 29, 1992, 106 Stat. 4389, related to training of employers with respect to Americans with Disabilities Act of 1990, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 728a, Pub. L. 93–112, title I, § 109, as added Pub. L. 102–569, title I, § 130(a), Oct. 29, 1992, 106 Stat. 4389, related to training of employers with respect to Americans with Disabilities Act of 1990, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
@@ -3683,13 +3683,13 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 ### Part B—Basic Vocational Rehabilitation Services
 
-#### § 730. State allotments
+#### § 730. State allotments
 
 **(a) Computation; additional amount; minimum amount; adjustments**
 
 **(1)** Subject to the provisions of subsections (c) and (d),,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 for each fiscal year beginning before October 1, 1978, each State shall be entitled to an allotment of an amount bearing the same ratio to the amount authorized to be appropriated under section 720(b)(1) of this title for allotment under this section as the product of—
 
@@ -3703,9 +3703,9 @@ bears to the sum of the corresponding products for all the States.
 
 **(A)** For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment in an amount equal to the amount such State received under paragraph (1) for the fiscal year ending September 30, 1978, and an additional amount determined pursuant to subparagraph (B) of this paragraph.
 
-**(B)** For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) 2
+**(B)** For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title for the fiscal year ending September 30, 1978, in an amount equal to the sum of—
 
@@ -3735,27 +3735,27 @@ of this title for the fiscal year ending September 30, 1978, in an amount equal 
 
 **(2)** Such reserved funds shall not be used to pay for the administrative costs of providing pre-employment transition services.
 
-(Pub. L. 93–112, title I, § 110, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, § 419, July 22, 2014, 128 Stat. 1656.)
+(Pub. L. 93–112, title I, § 110, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, § 419, July 22, 2014, 128 Stat. 1656.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 720(b)(1)(A) of this title, referred to in subsec. (a)(2)(B), means section 720(b)(1)(A) prior to the general amendment of section 720(b) by Pub. L. 102–569, title I, § 121(b)(1), Oct. 29, 1992, 106 Stat. 4367, which restated subsec. (b)(1) without a subpar. (A). Section 720 was subsequently omitted, and a new section 720 added, in the general amendment of this subchapter by Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1116.
+Section 720(b)(1)(A) of this title, referred to in subsec. (a)(2)(B), means section 720(b)(1)(A) prior to the general amendment of section 720(b) by Pub. L. 102–569, title I, § 121(b)(1), Oct. 29, 1992, 106 Stat. 4367, which restated subsec. (b)(1) without a subpar. (A). Section 720 was subsequently omitted, and a new section 720 added, in the general amendment of this subchapter by Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1116.
 
 **Prior Provisions**
 
-A prior section 730, Pub. L. 93–112, title I, § 110, Sept. 26, 1973, 87 Stat. 370; Pub. L. 95–602, title I, §§ 101(c), (d), 122(b)(1), Nov. 6, 1978, 92 Stat. 2956, 2957, 2987; Pub. L. 98–221, title I, § 111(e), Feb. 22, 1984, 98 Stat. 20; Pub. L. 99–506, title I, § 103(c)(2), title II, §§ 206, 207, Oct. 21, 1986, 100 Stat. 1810, 1817, 1818; Pub. L. 102–569, title I, § 131, Oct. 29, 1992, 106 Stat. 4389; Pub. L. 103–73, title I, § 107(e), Aug. 11, 1993, 107 Stat. 723, related to State allotments, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 730, Pub. L. 93–112, title I, § 110, Sept. 26, 1973, 87 Stat. 370; Pub. L. 95–602, title I, §§ 101(c), (d), 122(b)(1), Nov. 6, 1978, 92 Stat. 2956, 2957, 2987; Pub. L. 98–221, title I, § 111(e), Feb. 22, 1984, 98 Stat. 20; Pub. L. 99–506, title I, § 103(c)(2), title II, §§ 206, 207, Oct. 21, 1986, 100 Stat. 1810, 1817, 1818; Pub. L. 102–569, title I, § 131, Oct. 29, 1992, 106 Stat. 4389; Pub. L. 103–73, title I, § 107(e), Aug. 11, 1993, 107 Stat. 723, related to State allotments, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 419(1), substituted “Subject to the provisions of subsections (c) and (d),” for “Subject to the provisions of subsection (c)” in introductory provisions.
+2014—Subsec. (a)(1). Pub. L. 113–128, § 419(1), substituted “Subject to the provisions of subsections (c) and (d),” for “Subject to the provisions of subsection (c)” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 113–128, § 419(2)(A), substituted “2015” for “1987”.
+Subsec. (c)(1). Pub. L. 113–128, § 419(2)(A), substituted “2015” for “1987”.
 
-Subsec. (c)(2). Pub. L. 113–128, § 419(2)(B), substituted “Secretary,” for “Secretary—” and “2015 through 2020” for “2000 through 2003”, struck out subpar. (B) designation before “not less than 1 percent”, and struck out subpar. (A) which read as follows: “not less than three-quarters of 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for fiscal year 1999; and”.
+Subsec. (c)(2). Pub. L. 113–128, § 419(2)(B), substituted “Secretary,” for “Secretary—” and “2015 through 2020” for “2000 through 2003”, struck out subpar. (B) designation before “not less than 1 percent”, and struck out subpar. (A) which read as follows: “not less than three-quarters of 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for fiscal year 1999; and”.
 
-Subsec. (d). Pub. L. 113–128, § 419(3), added subsec. (d).
+Subsec. (d). Pub. L. 113–128, § 419(3), added subsec. (d).
 
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 
@@ -3765,7 +3765,7 @@ Subsec. (d). Pub. L. 113–128, § 419(3), added subsec. (d).
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 731. Payments to States
+#### § 731. Payments to States
 
 **(a) Amount**
 
@@ -3791,13 +3791,13 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 **(2)** The Commissioner shall pay, from the allotment available therefor, the amount so estimated by the Commissioner for such period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which the Commissioner finds that the estimate of the amount to be paid the State for any prior period under such subsection was greater or less than the amount which should have been paid to the State for such prior period under such subsection. Such payment shall be made prior to audit or settlement by the Government Accountability Office, shall be made through the disbursing facilities of the Treasury Department, and shall be made in such installments as the Commissioner may determine.
 
-(Pub. L. 93–112, title I, § 111, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1162; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(8)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–128, title IV, § 420, July 22, 2014, 128 Stat. 1656.)
+(Pub. L. 93–112, title I, § 111, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1162; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(8)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–128, title IV, § 420, July 22, 2014, 128 Stat. 1656.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 731, Pub. L. 93–112, title I, § 111, Sept. 26, 1973, 87 Stat. 371; Pub. L. 95–602, title I, § 122(b)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title II, § 208, title X, § 1001(b)(6), Oct. 21, 1986, 100 Stat. 1818, 1842; Pub. L. 100–630, title II, § 202(e)(1), (2)(A), (3), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, § 132, Oct. 29, 1992, 106 Stat. 4390; Pub. L. 103–73, title I, § 107(f), Aug. 11, 1993, 107 Stat. 723, related to payments to States, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 731, Pub. L. 93–112, title I, § 111, Sept. 26, 1973, 87 Stat. 371; Pub. L. 95–602, title I, § 122(b)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title II, § 208, title X, § 1001(b)(6), Oct. 21, 1986, 100 Stat. 1818, 1842; Pub. L. 100–630, title II, § 202(e)(1), (2)(A), (3), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, § 132, Oct. 29, 1992, 106 Stat. 4390; Pub. L. 103–73, title I, § 107(f), Aug. 11, 1993, 107 Stat. 723, related to payments to States, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
@@ -3813,7 +3813,7 @@ A prior section 731, Pub. L. 93–112, title I, § 111, Sept. 26, 1973, 87 Sta
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-#### § 732. Client assistance program
+#### § 732. Client assistance program
 
 **(a) Establishment of grant program**
 
@@ -3921,41 +3921,41 @@ No grant may be made under this section unless the State submits an application 
 
 **(6)** $14,098,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title I, § 112, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1163; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(9)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, § 421, July 22, 2014, 128 Stat. 1656.)
+(Pub. L. 93–112, title I, § 112, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1163; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(9)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, § 421, July 22, 2014, 128 Stat. 1656.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (e)(1)(E)(ii)(II), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (e)(1)(E)(ii)(II), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 **Prior Provisions**
 
 Prior sections 732 and 740 were omitted in the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 732, Pub. L. 93–112, title I, § 112, Sept. 26, 1973, 87 Stat. 371; Pub. L. 93–516, title I, §§ 102(b), 111(f), Dec. 7, 1974, 88 Stat. 1618, 1620; Pub. L. 93–651, title I, §§ 102(b), 111(f), Nov. 21, 1974, 89 Stat. 2–3, 2–5; Pub. L. 94–230, §§ 2(b), 11(b)(4), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, §§ 105, 122(b)(1), Nov. 6, 1978, 92 Stat. 2960, 2987; Pub. L. 97–375, title I, § 105, Dec. 21, 1982, 96 Stat. 1820; Pub. L. 98–221, title I, § 113(a), Feb. 22, 1984, 98 Stat. 20; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 209, title X, § 1001(b)(7), Oct. 21, 1986, 100 Stat. 1810, 1818, 1842; Pub. L. 100–630, title II, § 202(f), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–52, § 2(c), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, §§ 102(p)(10), 133, Oct. 29, 1992, 106 Stat. 4357, 4391; Pub. L. 103–73, title I, § 107(g), Aug. 11, 1993, 107 Stat. 723; Pub. L. 104–66, title I, § 1041(c), Dec. 21, 1995, 109 Stat. 714, related to client assistance program.
+Section 732, Pub. L. 93–112, title I, § 112, Sept. 26, 1973, 87 Stat. 371; Pub. L. 93–516, title I, §§ 102(b), 111(f), Dec. 7, 1974, 88 Stat. 1618, 1620; Pub. L. 93–651, title I, §§ 102(b), 111(f), Nov. 21, 1974, 89 Stat. 2–3, 2–5; Pub. L. 94–230, §§ 2(b), 11(b)(4), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, §§ 105, 122(b)(1), Nov. 6, 1978, 92 Stat. 2960, 2987; Pub. L. 97–375, title I, § 105, Dec. 21, 1982, 96 Stat. 1820; Pub. L. 98–221, title I, § 113(a), Feb. 22, 1984, 98 Stat. 20; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 209, title X, § 1001(b)(7), Oct. 21, 1986, 100 Stat. 1810, 1818, 1842; Pub. L. 100–630, title II, § 202(f), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–52, § 2(c), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, §§ 102(p)(10), 133, Oct. 29, 1992, 106 Stat. 4357, 4391; Pub. L. 103–73, title I, § 107(g), Aug. 11, 1993, 107 Stat. 723; Pub. L. 104–66, title I, § 1041(c), Dec. 21, 1995, 109 Stat. 714, related to client assistance program.
 
-Section 740, Pub. L. 93–112, title I, § 120, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4392, related to State eligibility for grants.
+Section 740, Pub. L. 93–112, title I, § 120, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4392, related to State eligibility for grants.
 
-Another prior section 740, Pub. L. 93–112, title I, § 120, Sept. 26, 1973, 87 Stat. 372; Pub. L. 95–602, title I, §§ 101(e)(1), 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 99–506, title X, § 1001(b)(8), Oct. 21, 1986, 100 Stat. 1842; Pub. L. 100–630, title II, § 202(g), Nov. 7, 1988, 102 Stat. 3306, provided for State allotments to assist in meeting the cost of vocational rehabilitation services, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
+Another prior section 740, Pub. L. 93–112, title I, § 120, Sept. 26, 1973, 87 Stat. 372; Pub. L. 95–602, title I, §§ 101(e)(1), 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 99–506, title X, § 1001(b)(8), Oct. 21, 1986, 100 Stat. 1842; Pub. L. 100–630, title II, § 202(g), Nov. 7, 1988, 102 Stat. 3306, provided for State allotments to assist in meeting the cost of vocational rehabilitation services, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 421(1), inserted “including under sections 733 and 794g of this title,” after “all available benefits under this chapter,”.
+2014—Subsec. (a). Pub. L. 113–128, § 421(1), inserted “including under sections 733 and 794g of this title,” after “all available benefits under this chapter,”.
 
-Subsec. (b). Pub. L. 113–128, § 421(2), struck out “not later than October 1, 1984,” after “has in effect” in introductory provisions.
+Subsec. (b). Pub. L. 113–128, § 421(2), struck out “not later than October 1, 1984,” after “has in effect” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 113–128, § 421(3)(A), substituted “After reserving funds under subparagraphs (E) and (F), the Secretary shall allot the remainder of” for “The Secretary shall allot”.
+Subsec. (e)(1)(A). Pub. L. 113–128, § 421(3)(A), substituted “After reserving funds under subparagraphs (E) and (F), the Secretary shall allot the remainder of” for “The Secretary shall allot”.
 
-Subsec. (e)(1)(E), (F). Pub. L. 113–128, § 421(3)(B), added subpars. (E) and (F).
+Subsec. (e)(1)(E), (F). Pub. L. 113–128, § 421(3)(B), added subpars. (E) and (F).
 
-Subsec. (h). Pub. L. 113–128, § 421(4), added subsec. (h) and struck out former subsec. (h) which authorized appropriations for fiscal years 1999 through 2003.
+Subsec. (h). Pub. L. 113–128, § 421(4), added subsec. (h) and struck out former subsec. (h) which authorized appropriations for fiscal years 1999 through 2003.
 
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 
-#### § 733. Provision of pre-employment transition services
+#### § 733. Provision of pre-employment transition services
 
 **(a) In general**
 
@@ -4011,15 +4011,15 @@ The Secretary shall support designated State agencies providing services under t
 
 In carrying out this section, States shall address the transition needs of all students with disabilities, including such students with physical, sensory, intellectual, and mental health disabilities.
 
-(Pub. L. 93–112, title I, § 113, as added Pub. L. 113–128, title IV, § 422, July 22, 2014, 128 Stat. 1657.)
+(Pub. L. 93–112, title I, § 113, as added Pub. L. 113–128, title IV, § 422, July 22, 2014, 128 Stat. 1657.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(5), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(5), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (d)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4029,7 +4029,7 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 ### Part C—American Indian Vocational Rehabilitation Services
 
-#### § 741. Vocational rehabilitation services grants
+#### § 741. Vocational rehabilitation services grants
 
 **(a) Governing bodies of Indian tribes; amount; non-Federal share**
 
@@ -4073,43 +4073,43 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 The term “reservation” includes Indian reservations, public domain Indian allotments, former Indian reservations in Oklahoma, and land held by incorporated Native groups, regional corporations, and village corporations under the provisions of the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.].
 
-(Pub. L. 93–112, title I, § 121, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1166; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(10)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, § 423, July 22, 2014, 128 Stat. 1659.)
+(Pub. L. 93–112, title I, § 121, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1166; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(10)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, § 423, July 22, 2014, 128 Stat. 1659.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Prior Provisions**
 
 Prior sections 741 to 744 and 750 were omitted in the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 741, Pub. L. 93–112, title I, § 121, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4392, related to contents of strategic plans.
+Section 741, Pub. L. 93–112, title I, § 121, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4392, related to contents of strategic plans.
 
-Another prior section 741, Pub. L. 93–112, title I, § 121, Sept. 26, 1973, 87 Stat. 373; Pub. L. 93–516, title I, § 102(c), Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 102(c), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, § 2(c), Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, title I, §§ 101(e)(2), 122(b), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, § 114, Feb. 22, 1984, 98 Stat. 23; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 210, Oct. 21, 1986, 100 Stat. 1810, 1819; Pub. L. 100–630, title II, § 202(h), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–52, § 2(b)(2), June 6, 1991, 105 Stat. 260, related to payments to States for planning, preparing, and initiating special programs under approved State plans and payments for the costs of constructing facilities to be used in providing services under such State plans, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
+Another prior section 741, Pub. L. 93–112, title I, § 121, Sept. 26, 1973, 87 Stat. 373; Pub. L. 93–516, title I, § 102(c), Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 102(c), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, § 2(c), Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, title I, §§ 101(e)(2), 122(b), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, § 114, Feb. 22, 1984, 98 Stat. 23; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 210, Oct. 21, 1986, 100 Stat. 1810, 1819; Pub. L. 100–630, title II, § 202(h), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–52, § 2(b)(2), June 6, 1991, 105 Stat. 260, related to payments to States for planning, preparing, and initiating special programs under approved State plans and payments for the costs of constructing facilities to be used in providing services under such State plans, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
 
-Section 742, Pub. L. 93–112, title I, § 122, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4393, related to process for developing strategic plans.
+Section 742, Pub. L. 93–112, title I, § 122, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4393, related to process for developing strategic plans.
 
-Section 743, Pub. L. 93–112, title I, § 123, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4393, related to use of funds.
+Section 743, Pub. L. 93–112, title I, § 123, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4393, related to use of funds.
 
-Section 744, Pub. L. 93–112, title I, § 124, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4395; amended Pub. L. 103–73, title I, § 107(h), Aug. 11, 1993, 107 Stat. 723, related to allotments among States.
+Section 744, Pub. L. 93–112, title I, § 124, as added Pub. L. 102–569, title I, § 134(a), Oct. 29, 1992, 106 Stat. 4395; amended Pub. L. 103–73, title I, § 107(h), Aug. 11, 1993, 107 Stat. 723, related to allotments among States.
 
-Section 750, Pub. L. 93–112, title I, § 130, Sept. 26, 1973, 87 Stat. 374; Pub. L. 93–516, title I, § 111(g), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, § 111(g), Nov. 21, 1974, 89 Stat. 2–6; Pub. L. 95–602, title I, § 106, Nov. 6, 1978, 92 Stat. 2960; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 211, title X, § 1002(b)(1), Oct. 21, 1986, 100 Stat. 1810, 1819, 1844; Pub. L. 100–630, title II, § 202(i), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, § 102(p)(11), Oct. 29, 1992, 106 Stat. 4357, related to American Indian vocational rehabilitation services grants.
+Section 750, Pub. L. 93–112, title I, § 130, Sept. 26, 1973, 87 Stat. 374; Pub. L. 93–516, title I, § 111(g), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, § 111(g), Nov. 21, 1974, 89 Stat. 2–6; Pub. L. 95–602, title I, § 106, Nov. 6, 1978, 92 Stat. 2960; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 211, title X, § 1002(b)(1), Oct. 21, 1986, 100 Stat. 1810, 1819, 1844; Pub. L. 100–630, title II, § 202(i), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, § 102(p)(11), Oct. 29, 1992, 106 Stat. 4357, related to American Indian vocational rehabilitation services grants.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 423(1), inserted “(referred to in this section as ‘eligible individuals’), consistent with such eligible individuals’ strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, so that such individuals may prepare for, and engage in, high-quality employment that will increase opportunities for economic self-sufficiency” after “on or near such reservations”.
+2014—Subsec. (a). Pub. L. 113–128, § 423(1), inserted “(referred to in this section as ‘eligible individuals’), consistent with such eligible individuals’ strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, so that such individuals may prepare for, and engage in, high-quality employment that will increase opportunities for economic self-sufficiency” after “on or near such reservations”.
 
-Subsec. (b)(1)(D). Pub. L. 113–128, § 423(2), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 113–128, § 423(2), added subpar. (D).
 
-Subsecs. (c), (d). Pub. L. 113–128, § 423(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 113–128, § 423(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 
 ### Part D—Vocational Rehabilitation Services Client Information
 
-#### § 751. Data sharing
+#### § 751. Data sharing
 
 **(a) In general**
 
@@ -4131,25 +4131,25 @@ The Secretary of Labor shall provide the Commissioner with employment statistics
 
 For purposes of the exchange described in subsection (a)(1), the data described in subsection (a)(1)(B)(ii) shall not be considered return information (as defined in section 6103(b)(2) of title 26) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
 
-(Pub. L. 93–112, title I, § 131, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1167; amended Pub. L. 113–128, title IV, § 424, July 22, 2014, 128 Stat. 1660.)
+(Pub. L. 93–112, title I, § 131, as added Pub. L. 105–220, title IV, § 404, Aug. 7, 1998, 112 Stat. 1167; amended Pub. L. 113–128, title IV, § 424, July 22, 2014, 128 Stat. 1660.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 751, Pub. L. 93–112, title I, § 131, as added Pub. L. 95–602, title I, § 106, Nov. 6, 1978, 92 Stat. 2961, and amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810, directed Secretary to submit to Congress, not less than thirty months after Nov. 6, 1978, an evaluation of programs conducted under part D of former subchapter I of this chapter, prior to repeal by Pub. L. 99–506, title X, § 1002(b)(2)(A), Oct. 21, 1986, 100 Stat. 1844.
+A prior section 751, Pub. L. 93–112, title I, § 131, as added Pub. L. 95–602, title I, § 106, Nov. 6, 1978, 92 Stat. 2961, and amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810, directed Secretary to submit to Congress, not less than thirty months after Nov. 6, 1978, an evaluation of programs conducted under part D of former subchapter I of this chapter, prior to repeal by Pub. L. 99–506, title X, § 1002(b)(2)(A), Oct. 21, 1986, 100 Stat. 1844.
 
-A prior section 752, Pub. L. 93–112, title I, § 131, formerly § 132, as added Pub. L. 99–506, title II, § 212(a), Oct. 21, 1986, 100 Stat. 1820; renumbered § 132, Pub. L. 100–630, title II, § 202(j), Nov. 7, 1988, 102 Stat. 3307, provided for study on special problems and needs of Indians with handicaps both on and off the reservation, prior to repeal by Pub. L. 102–569, title I, § 135(a), Oct. 29, 1992, 106 Stat. 4396.
+A prior section 752, Pub. L. 93–112, title I, § 131, formerly § 132, as added Pub. L. 99–506, title II, § 212(a), Oct. 21, 1986, 100 Stat. 1820; renumbered § 132, Pub. L. 100–630, title II, § 202(j), Nov. 7, 1988, 102 Stat. 3307, provided for study on special problems and needs of Indians with handicaps both on and off the reservation, prior to repeal by Pub. L. 102–569, title I, § 135(a), Oct. 29, 1992, 106 Stat. 4396.
 
 Prior sections 753 and 753a were omitted in the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 753, Pub. L. 93–112, title I, § 140, as added Pub. L. 103–73, title I, § 108, Aug. 11, 1993, 107 Stat. 724, related to review of data collection and reporting system.
+Section 753, Pub. L. 93–112, title I, § 140, as added Pub. L. 103–73, title I, § 108, Aug. 11, 1993, 107 Stat. 724, related to review of data collection and reporting system.
 
-Section 753a, Pub. L. 93–112, title I, § 141, as added Pub. L. 103–73, title I, § 108, Aug. 11, 1993, 107 Stat. 725, related to exchange of data.
+Section 753a, Pub. L. 93–112, title I, § 141, as added Pub. L. 103–73, title I, § 108, Aug. 11, 1993, 107 Stat. 725, related to exchange of data.
 
 **Amendments**
 
@@ -4167,9 +4167,9 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 **Codification**
 
-Title II of the Rehabilitation Act of 1973, comprising this subchapter, was originally enacted by Pub. L. 93–112, title II, Sept. 26, 1973, 87 Stat. 374, and amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, Nov. 6, 1978, 92 Stat. 2955; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–54, June 13, 1991, 105 Stat. 267; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, Mar. 9, 1994, 108 Stat. 50; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518. Title II is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1167, without reference to those intervening amendments because of the extensive revision of title II by Pub. L. 105–220.
+Title II of the Rehabilitation Act of 1973, comprising this subchapter, was originally enacted by Pub. L. 93–112, title II, Sept. 26, 1973, 87 Stat. 374, and amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, Nov. 6, 1978, 92 Stat. 2955; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–54, June 13, 1991, 105 Stat. 267; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, Mar. 9, 1994, 108 Stat. 50; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518. Title II is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1167, without reference to those intervening amendments because of the extensive revision of title II by Pub. L. 105–220.
 
-### § 760. Declaration of purpose
+### § 760. Declaration of purpose
 
 The purpose of this subchapter is to—
 
@@ -4203,37 +4203,37 @@ to rehabilitation professionals, individuals with disabilities, and other intere
 
 **(8)** identify effective strategies for supporting the employment of individuals with disabilities in competitive integrated employment.
 
-(Pub. L. 93–112, title II, § 200, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1167; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 113–128, title IV, § 431, July 22, 2014, 128 Stat. 1660.)
+(Pub. L. 93–112, title II, § 200, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1167; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 113–128, title IV, § 431, July 22, 2014, 128 Stat. 1660.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 760, Pub. L. 93–112, title II, § 200, Sept. 26, 1973, 87 Stat. 374; Pub. L. 95–602, title I, § 107, Nov. 6, 1978, 92 Stat. 2962; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title II, § 201, Oct. 29, 1992, 106 Stat. 4398, contained congressional declaration of purpose, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 760, Pub. L. 93–112, title II, § 200, Sept. 26, 1973, 87 Stat. 374; Pub. L. 95–602, title I, § 107, Nov. 6, 1978, 92 Stat. 2962; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title II, § 201, Oct. 29, 1992, 106 Stat. 4398, contained congressional declaration of purpose, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Pars. (1), (2). Pub. L. 113–128, § 431(1), (2), inserted “technical assistance,” after “training,”.
+2014—Pars. (1), (2). Pub. L. 113–128, § 431(1), (2), inserted “technical assistance,” after “training,”.
 
-Par. (3). Pub. L. 113–128, § 431(3), in introductory provisions, inserted “and use” after “transfer” and “, in a timely and efficient manner,” after “disabilities”.
+Par. (3). Pub. L. 113–128, § 431(3), in introductory provisions, inserted “and use” after “transfer” and “, in a timely and efficient manner,” after “disabilities”.
 
-Par. (4). Pub. L. 113–128, § 431(4), substituted “dissemination” for “distribution” in introductory provisions.
+Par. (4). Pub. L. 113–128, § 431(4), substituted “dissemination” for “distribution” in introductory provisions.
 
-Par. (5). Pub. L. 113–128, § 431(5), inserted “, including individuals with intellectual and psychiatric disabilities,” after “disabilities” and struck out “and” after semicolon at end.
+Par. (5). Pub. L. 113–128, § 431(5), inserted “, including individuals with intellectual and psychiatric disabilities,” after “disabilities” and struck out “and” after semicolon at end.
 
-Par. (6). Pub. L. 113–128, § 431(7), added par. (6). Former par. (6) redesignated (7).
+Par. (6). Pub. L. 113–128, § 431(7), added par. (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 113–128, § 431(6), redesignated par. (6) as (7).
+Par. (7). Pub. L. 113–128, § 431(6), redesignated par. (6) as (7).
 
-Par. (8). Pub. L. 113–128, § 431(8), (9), added par. (8).
+Par. (8). Pub. L. 113–128, § 431(8), (9), added par. (8).
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
+1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
-### § 761. Authorization of appropriations
+### § 761. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter $103,970,000 for fiscal year 2015, $112,001,000 for fiscal year 2016, $114,325,000 for fiscal year 2017, $116,860,000 for fiscal year 2018, $119,608,000 for fiscal year 2019, and $122,143,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title II, § 201, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 113–128, title IV, § 432, July 22, 2014, 128 Stat. 1660.)
+(Pub. L. 93–112, title II, § 201, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 113–128, title IV, § 432, July 22, 2014, 128 Stat. 1660.)
 
 **Editorial Notes**
 
@@ -4241,19 +4241,19 @@ There are authorized to be appropriated to carry out this subchapter $103,970,00
 
 Prior sections 761 to 761b were omitted in the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 761, Pub. L. 93–112, title II, § 201, Sept. 26, 1973, 87 Stat. 374; Pub. L. 93–516, title I, § 103, Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 103, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §§ 3, 11(b)(5), (6), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, § 108, Nov. 6, 1978, 92 Stat. 2962; Pub. L. 98–221, title I, § 121, Feb. 22, 1984, 98 Stat. 23; Pub. L. 99–506, title III, § 301, Oct. 21, 1986, 100 Stat. 1820; Pub. L. 100–630, title II, § 203(a), Nov. 7, 1988, 102 Stat. 3307; Pub. L. 102–52, § 3, June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title II, § 202, Oct. 29, 1992, 106 Stat. 4398, authorized appropriations.
+Section 761, Pub. L. 93–112, title II, § 201, Sept. 26, 1973, 87 Stat. 374; Pub. L. 93–516, title I, § 103, Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 103, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §§ 3, 11(b)(5), (6), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, § 108, Nov. 6, 1978, 92 Stat. 2962; Pub. L. 98–221, title I, § 121, Feb. 22, 1984, 98 Stat. 23; Pub. L. 99–506, title III, § 301, Oct. 21, 1986, 100 Stat. 1820; Pub. L. 100–630, title II, § 203(a), Nov. 7, 1988, 102 Stat. 3307; Pub. L. 102–52, § 3, June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title II, § 202, Oct. 29, 1992, 106 Stat. 4398, authorized appropriations.
 
-Section 761a, Pub. L. 93–112, title II, § 202, as added Pub. L. 95–602, title I, § 109(4), Nov. 6, 1978, 92 Stat. 2963; amended Pub. L. 98–221, title I, §§ 104(a)(4), (b)(1), 122, Feb. 22, 1984, 98 Stat. 18, 23; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, §§ 302, 303, title X, §§ 1001(c), 1002(c), Oct. 21, 1986, 100 Stat. 1810, 1820, 1821, 1842, 1844; Pub. L. 100–630, title II, § 203(b), Nov. 7, 1988, 102 Stat. 3307; Pub. L. 102–54, § 13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, § 102(p)(12), title II, § 203, Oct. 29, 1992, 106 Stat. 4357, 4399; Pub. L. 103–73, title I, §§ 102(4), 109(a), Aug. 11, 1993, 107 Stat. 718, 725; Pub. L. 103–218, title IV, § 402(a), Mar. 9, 1994, 108 Stat. 96; Pub. L. 103–382, title III, § 394(i)(1), Oct. 20, 1994, 108 Stat. 4028, related to National Institute on Disability and Rehabilitation Research. See section 762 of this title.
+Section 761a, Pub. L. 93–112, title II, § 202, as added Pub. L. 95–602, title I, § 109(4), Nov. 6, 1978, 92 Stat. 2963; amended Pub. L. 98–221, title I, §§ 104(a)(4), (b)(1), 122, Feb. 22, 1984, 98 Stat. 18, 23; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, §§ 302, 303, title X, §§ 1001(c), 1002(c), Oct. 21, 1986, 100 Stat. 1810, 1820, 1821, 1842, 1844; Pub. L. 100–630, title II, § 203(b), Nov. 7, 1988, 102 Stat. 3307; Pub. L. 102–54, § 13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, § 102(p)(12), title II, § 203, Oct. 29, 1992, 106 Stat. 4357, 4399; Pub. L. 103–73, title I, §§ 102(4), 109(a), Aug. 11, 1993, 107 Stat. 718, 725; Pub. L. 103–218, title IV, § 402(a), Mar. 9, 1994, 108 Stat. 96; Pub. L. 103–382, title III, § 394(i)(1), Oct. 20, 1994, 108 Stat. 4028, related to National Institute on Disability and Rehabilitation Research. See section 762 of this title.
 
-Section 761b, Pub. L. 93–112, title II, § 203, as added Pub. L. 95–602, title I, § 109(4), Nov. 6, 1978, 92 Stat. 2965; amended Pub. L. 96–88, title V, § 508(m)(1), Oct. 17, 1979, 93 Stat. 694; Pub. L. 98–221, title I, § 104(b)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, § 304, Oct. 21, 1986, 100 Stat. 1810, 1822; Pub. L. 100–630, title II, § 203(c), Nov. 7, 1988, 102 Stat. 3307; Pub. L. 102–54, § 13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, § 102(p)(13), title II, § 204, Oct. 29, 1992, 106 Stat. 4358, 4403, related to Interagency Committee on Disability Research. See section 763 of this title.
+Section 761b, Pub. L. 93–112, title II, § 203, as added Pub. L. 95–602, title I, § 109(4), Nov. 6, 1978, 92 Stat. 2965; amended Pub. L. 96–88, title V, § 508(m)(1), Oct. 17, 1979, 93 Stat. 694; Pub. L. 98–221, title I, § 104(b)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, § 304, Oct. 21, 1986, 100 Stat. 1810, 1822; Pub. L. 100–630, title II, § 203(c), Nov. 7, 1988, 102 Stat. 3307; Pub. L. 102–54, § 13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, § 102(p)(13), title II, § 204, Oct. 29, 1992, 106 Stat. 4358, 4403, related to Interagency Committee on Disability Research. See section 763 of this title.
 
 **Amendments**
 
 2014—Pub. L. 113–128 amended section generally. Prior to amendment, section authorized appropriations to carry out sections 762 and 764 of this title for fiscal years 1999 through 2003.
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
+1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
-### § 762. National Institute on Disability, Independent Living, and Rehabilitation Research
+### § 762. National Institute on Disability, Independent Living, and Rehabilitation Research
 
 **(a) Establishment; Director as principal officer**
 
@@ -4339,9 +4339,9 @@ with respect to individuals with disabilities;
 
 **(9)** conducting research to examine the relationship between the provision of specific services and successful, sustained employment outcomes, including employment outcomes involving self-employment, supported employment (including customized employment), and telecommuting; and
 
-**(10)** coordinating activities with the Attorney General regarding the provision of information, training, or technical assistance regarding the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) to ensure consistency with the plan for technical assistance required under section 506 2
+**(10)** coordinating activities with the Attorney General regarding the provision of information, training, or technical assistance regarding the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) to ensure consistency with the plan for technical assistance required under section 506 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of such Act (42 U.S.C. 12206).
 
@@ -4451,79 +4451,79 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 **(2)** As part of the annual report required under subsection (*l*), the Secretary shall describe each action taken by the Secretary under paragraph (1) and the outcomes of such action.
 
-(Pub. L. 93–112, title II, § 202, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, § 401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, title X, § 1076(u)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 108–173, title IX, § 900(e)(6)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 113–128, title IV, § 433, July 22, 2014, 128 Stat. 1661; Pub. L. 114–95, title IX, § 9215(mmm)(1), Dec. 10, 2015, 129 Stat. 2188.)
+(Pub. L. 93–112, title II, § 202, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, § 401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, title X, § 1076(u)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 108–173, title IX, § 900(e)(6)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 113–128, title IV, § 433, July 22, 2014, 128 Stat. 1661; Pub. L. 114–95, title IX, § 9215(mmm)(1), Dec. 10, 2015, 129 Stat. 2188.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(10), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Section 506 of the Act was renumbered section 507 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(10), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Section 506 of the Act was renumbered section 507 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(2)(D)(iii), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(2)(D)(iii), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 **Prior Provisions**
 
 Provisions similar to this section were contained in section 761a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 762, Pub. L. 93–112, title II, § 204, formerly § 202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, § 111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, § 111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§ 109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§ 104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, § 103(d)(2)(C), (h)(2), title III, §§ 302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, § 203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, § 102(p)(14), title II, § 205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, § 109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 764 of this title.
+A prior section 762, Pub. L. 93–112, title II, § 204, formerly § 202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, § 111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, § 111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§ 109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§ 104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, § 103(d)(2)(C), (h)(2), title III, §§ 302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, § 203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, § 102(p)(14), title II, § 205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, § 109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 764 of this title.
 
 **Amendments**
 
 2015—Subsec. (b)(4)(A)(i). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
-2014—Pub. L. 113–128, § 433(1), inserted “, Independent Living,” after “Disability” in section catchline.
+2014—Pub. L. 113–128, § 433(1), inserted “, Independent Living,” after “Disability” in section catchline.
 
-Subsec. (a)(1). Pub. L. 113–128, § 433(2)(A)(i), in introductory provisions, substituted “Administration for Community Living of the Department of Health and Human Services a National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the ‘Institute’), which” for “Department of Education a National Institute on Disability and Rehabilitation Research (hereinafter in this subchapter referred to as the ‘Institute’), which”.
+Subsec. (a)(1). Pub. L. 113–128, § 433(2)(A)(i), in introductory provisions, substituted “Administration for Community Living of the Department of Health and Human Services a National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the ‘Institute’), which” for “Department of Education a National Institute on Disability and Rehabilitation Research (hereinafter in this subchapter referred to as the ‘Institute’), which”.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 113–128, § 433(2)(A)(ii)(I), substituted “, training, and technical assistance;” for “and training; and”.
+Subsec. (a)(1)(A)(ii). Pub. L. 113–128, § 433(2)(A)(ii)(I), substituted “, training, and technical assistance;” for “and training; and”.
 
-Subsec. (a)(1)(A)(iii), (iv). Pub. L. 113–128, § 433(2)(A)(ii)(II), (III), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (a)(1)(A)(iii), (iv). Pub. L. 113–128, § 433(2)(A)(ii)(II), (III), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (a)(2). Pub. L. 113–128, § 433(2)(B), substituted “directly responsible to the Administrator for the Administration for Community Living of the Department of Health and Human Services.” for “directly responsible to the Secretary or to the same Under Secretary or Assistant Secretary of the Department of Education to whom the Commissioner is responsible under section 702(a) of this title.”
+Subsec. (a)(2). Pub. L. 113–128, § 433(2)(B), substituted “directly responsible to the Administrator for the Administration for Community Living of the Department of Health and Human Services.” for “directly responsible to the Secretary or to the same Under Secretary or Assistant Secretary of the Department of Education to whom the Commissioner is responsible under section 702(a) of this title.”
 
-Subsec. (b)(2)(B). Pub. L. 113–128, § 433(3)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “private organizations engaged in research relating to rehabilitation or providing rehabilitation services;”.
+Subsec. (b)(2)(B). Pub. L. 113–128, § 433(3)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “private organizations engaged in research relating to rehabilitation or providing rehabilitation services;”.
 
-Subsec. (b)(3). Pub. L. 113–128, § 433(3)(B), substituted “on disability, independent living, and rehabilitation” for “in rehabilitation”.
+Subsec. (b)(3). Pub. L. 113–128, § 433(3)(B), substituted “on disability, independent living, and rehabilitation” for “in rehabilitation”.
 
-Subsec. (b)(4). Pub. L. 113–128, § 433(3)(C), inserted “education, health and wellness,” after “independent living,” in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
+Subsec. (b)(4). Pub. L. 113–128, § 433(3)(C), inserted “education, health and wellness,” after “independent living,” in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
 
-Subsec. (b)(6). Pub. L. 113–128, § 433(3)(D), substituted “advances in disability, independent living, and rehabilitation” for “advances in rehabilitation” and inserted “education, health and wellness,” after “employment, independent living,”.
+Subsec. (b)(6). Pub. L. 113–128, § 433(3)(D), substituted “advances in disability, independent living, and rehabilitation” for “advances in rehabilitation” and inserted “education, health and wellness,” after “employment, independent living,”.
 
-Subsec. (b)(7). Pub. L. 113–128, § 433(3)(G), substituted “health and wellness, income, education,” for “health, income,” and “and evaluation of independent living, vocational, and” for “and evaluation of vocational and other”.
+Subsec. (b)(7). Pub. L. 113–128, § 433(3)(G), substituted “health and wellness, income, education,” for “health, income,” and “and evaluation of independent living, vocational, and” for “and evaluation of vocational and other”.
 
-Pub. L. 113–128, § 433(3)(E), (F), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “taking whatever action is necessary to keep the Congress fully and currently informed with respect to the implementation and conduct of programs and activities carried out under this subchapter, including dissemination activities;”.
+Pub. L. 113–128, § 433(3)(E), (F), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “taking whatever action is necessary to keep the Congress fully and currently informed with respect to the implementation and conduct of programs and activities carried out under this subchapter, including dissemination activities;”.
 
-Subsec. (b)(8). Pub. L. 113–128, § 433(3)(F), (H), redesignated par. (9) as (8) and substituted “with independent living and vocational rehabilitation services for the purpose of identifying effective independent living and rehabilitation programs and policies that promote the independence of individuals with disabilities and achievement of long-term independent living and employment goals” for “with vocational rehabilitation services for the purpose of identifying effective rehabilitation programs and policies that promote the independence of individuals with disabilities and achievement of long-term vocational goals”. Former par. (8) redesignated (7).
+Subsec. (b)(8). Pub. L. 113–128, § 433(3)(F), (H), redesignated par. (9) as (8) and substituted “with independent living and vocational rehabilitation services for the purpose of identifying effective independent living and rehabilitation programs and policies that promote the independence of individuals with disabilities and achievement of long-term independent living and employment goals” for “with vocational rehabilitation services for the purpose of identifying effective rehabilitation programs and policies that promote the independence of individuals with disabilities and achievement of long-term vocational goals”. Former par. (8) redesignated (7).
 
-Subsec. (b)(9). Pub. L. 113–128, § 433(3)(F), (I), redesignated par. (10) as (9) and substituted “, supported employment (including customized employment), and telecommuting; and” for “and telecommuting; and”. Former par. (9) redesignated (8).
+Subsec. (b)(9). Pub. L. 113–128, § 433(3)(F), (I), redesignated par. (10) as (9) and substituted “, supported employment (including customized employment), and telecommuting; and” for “and telecommuting; and”. Former par. (9) redesignated (8).
 
-Subsec. (b)(10), (11). Pub. L. 113–128, § 433(3)(F), redesignated pars. (10) and (11) as (9) and (10), respectively.
+Subsec. (b)(10), (11). Pub. L. 113–128, § 433(3)(F), redesignated pars. (10) and (11) as (9) and (10), respectively.
 
-Subsec. (d)(1). Pub. L. 113–128, § 433(4), substituted “The Director shall be an individual with substantial knowledge of and experience in independent living, rehabilitation, and research administration.” for “The Director shall be an individual with substantial experience in rehabilitation and in research administration.”
+Subsec. (d)(1). Pub. L. 113–128, § 433(4), substituted “The Director shall be an individual with substantial knowledge of and experience in independent living, rehabilitation, and research administration.” for “The Director shall be an individual with substantial experience in rehabilitation and in research administration.”
 
-Subsec. (f)(1). Pub. L. 113–128, § 433(5), substituted “The scientific peer review shall be conducted by individuals who are not Department of Health and Human Services employees. The Secretary shall consider for peer review individuals who are scientists or other experts in disability, independent living, and rehabilitation, including individuals with disabilities and the individuals’ representatives, and who have sufficient expertise to review the projects.” for “The scientific peer review shall be conducted by individuals who are not Federal employees, who are scientists or other experts in the rehabilitation field (including the independent living field), including knowledgeable individuals with disabilities, and the individuals’ representatives, and who are competent to review applications for the financial assistance.”
+Subsec. (f)(1). Pub. L. 113–128, § 433(5), substituted “The scientific peer review shall be conducted by individuals who are not Department of Health and Human Services employees. The Secretary shall consider for peer review individuals who are scientists or other experts in disability, independent living, and rehabilitation, including individuals with disabilities and the individuals’ representatives, and who have sufficient expertise to review the projects.” for “The scientific peer review shall be conducted by individuals who are not Federal employees, who are scientists or other experts in the rehabilitation field (including the independent living field), including knowledgeable individuals with disabilities, and the individuals’ representatives, and who are competent to review applications for the financial assistance.”
 
-Subsec. (h)(1)(A). Pub. L. 113–128, § 433(6)(A), substituted “priorities for disability, independent living, and rehabilitation research,” for “priorities for rehabilitation research,” and inserted “dissemination,” after “training,”.
+Subsec. (h)(1)(A). Pub. L. 113–128, § 433(6)(A), substituted “priorities for disability, independent living, and rehabilitation research,” for “priorities for rehabilitation research,” and inserted “dissemination,” after “training,”.
 
-Subsec. (h)(2)(A). Pub. L. 113–128, § 433(6)(B)(i), substituted “especially in the areas of employment and independent living” for “especially in the area of employment”.
+Subsec. (h)(2)(A). Pub. L. 113–128, § 433(6)(B)(i), substituted “especially in the areas of employment and independent living” for “especially in the area of employment”.
 
-Subsec. (h)(2)(D). Pub. L. 113–128, § 433(6)(B)(ii)(I), substituted “coordinated with the strategic plan required under section 763(c) of this title” for “developed by the Director” in introductory provisions.
+Subsec. (h)(2)(D). Pub. L. 113–128, § 433(6)(B)(ii)(I), substituted “coordinated with the strategic plan required under section 763(c) of this title” for “developed by the Director” in introductory provisions.
 
-Subsec. (h)(2)(D)(i). Pub. L. 113–128, § 433(6)(B)(ii)(II), substituted “Disability, Independent Living, and Rehabilitation” for “Rehabilitation”.
+Subsec. (h)(2)(D)(i). Pub. L. 113–128, § 433(6)(B)(ii)(II), substituted “Disability, Independent Living, and Rehabilitation” for “Rehabilitation”.
 
-Subsec. (h)(2)(D)(ii). Pub. L. 113–128, § 433(6)(B)(ii)(III), substituted “Administrator” for “Commissioner”.
+Subsec. (h)(2)(D)(ii). Pub. L. 113–128, § 433(6)(B)(ii)(III), substituted “Administrator” for “Commissioner”.
 
-Subsec. (h)(2)(D)(iv). Pub. L. 113–128, § 433(6)(B)(ii)(IV), substituted “researchers in the independent living and rehabilitation fields” for “researchers in the rehabilitation field”.
+Subsec. (h)(2)(D)(iv). Pub. L. 113–128, § 433(6)(B)(ii)(IV), substituted “researchers in the independent living and rehabilitation fields” for “researchers in the rehabilitation field”.
 
-Subsec. (h)(2)(E). Pub. L. 113–128, § 433(6)(B)(iv), added subpar. (E). Former subpar. (E) redesignated (F).
+Subsec. (h)(2)(E). Pub. L. 113–128, § 433(6)(B)(iv), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (h)(2)(F). Pub. L. 113–128, § 433(6)(B)(iii), (v), redesignated subpar. (E) as (F) and inserted “and information that clarifies implications of the results for practice,” after “covered activities,”. Former subpar. (F) redesignated (G).
+Subsec. (h)(2)(F). Pub. L. 113–128, § 433(6)(B)(iii), (v), redesignated subpar. (E) as (F) and inserted “and information that clarifies implications of the results for practice,” after “covered activities,”. Former subpar. (F) redesignated (G).
 
-Subsec. (h)(2)(G). Pub. L. 113–128, § 433(6)(B)(iii), (vi), redesignated subpar. (F) as (G) and inserted “and information that clarifies implications of the results for practice” after “covered activities”.
+Subsec. (h)(2)(G). Pub. L. 113–128, § 433(6)(B)(iii), (vi), redesignated subpar. (F) as (G) and inserted “and information that clarifies implications of the results for practice” after “covered activities”.
 
-Subsec. (j)(3). Pub. L. 113–128, § 433(7), struck out par. (3) which read as follows: “The Director shall support, directly or by grant or contract, a center associated with an institution of higher education, for research and training concerning the delivery of vocational rehabilitation services to rural areas.”
+Subsec. (j)(3). Pub. L. 113–128, § 433(7), struck out par. (3) which read as follows: “The Director shall support, directly or by grant or contract, a center associated with an institution of higher education, for research and training concerning the delivery of vocational rehabilitation services to rural areas.”
 
-Subsecs. (k) to (m). Pub. L. 113–128, § 433(8), added subsecs. (k) to (m) and struck out former subsec. (k). Prior to amendment, text of subsec. (k) read as follows: “The Director shall make grants to institutions of higher education for the training of rehabilitation researchers, including individuals with disabilities, with particular attention to research areas that support the implementation and objectives of this chapter and that improve the effectiveness of services authorized under this chapter.”
+Subsecs. (k) to (m). Pub. L. 113–128, § 433(8), added subsecs. (k) to (m) and struck out former subsec. (k). Prior to amendment, text of subsec. (k) read as follows: “The Director shall make grants to institutions of higher education for the training of rehabilitation researchers, including individuals with disabilities, with particular attention to research areas that support the implementation and objectives of this chapter and that improve the effectiveness of services authorized under this chapter.”
 
 2003—Subsec. (b)(8). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
 
@@ -4531,7 +4531,7 @@ Subsecs. (k) to (m). Pub. L. 113–128, § 433(8), added subsecs. (k) to (m) a
 
 2000—Subsec. (h)(2)(D)(iii). Pub. L. 106–402 substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
+1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4545,11 +4545,11 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **References to National Institute of Handicapped Research Amended or Deemed To Be References to National Institute on Disability and Rehabilitation Research**
 
-Pub. L. 99–506, title III, § 302(b), Oct. 21, 1986, 100 Stat. 1821, provided that: “The Act [this chapter] is amended by striking out ‘National Institute of Handicapped Research’ each place it appears in the Act (including the table of contents) and inserting in lieu thereof ‘National Institute on Disability and Rehabilitation Research’. Any reference in any other provision of law to the ‘National Institute of Handicapped Research’ shall be considered to be a reference to the ‘National Institute on Disability and Rehabilitation Research’.”
+Pub. L. 99–506, title III, § 302(b), Oct. 21, 1986, 100 Stat. 1821, provided that: “The Act [this chapter] is amended by striking out ‘National Institute of Handicapped Research’ each place it appears in the Act (including the table of contents) and inserting in lieu thereof ‘National Institute on Disability and Rehabilitation Research’. Any reference in any other provision of law to the ‘National Institute of Handicapped Research’ shall be considered to be a reference to the ‘National Institute on Disability and Rehabilitation Research’.”
 
 [Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of section 3515e of Title 42, The Public Health and Welfare.]
 
-### § 762a. Research and demonstration projects
+### § 762a. Research and demonstration projects
 
 **(a) Multiple and interrelated service needs of individuals with handicaps; report to Congress**
 
@@ -4571,19 +4571,19 @@ No funds other than those appropriated pursuant to this subsection can be used f
 
 **(4)** recommendations to improve the coordination of services under the Rehabilitation Act of 1973 with programs under sections 222 and 1615 of the Social Security Act, including recommendations for increasing savings in disability benefits payments and the rate of return to the active labor force by recipients of services under sections 222 and 1615 of the Social Security Act.
 
-(Pub. L. 95–602, title IV, § 401, Nov. 6, 1978, 92 Stat. 3002; Pub. L. 98–221, title I, § 104(c)(1), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810.)
+(Pub. L. 95–602, title IV, § 401, Nov. 6, 1978, 92 Stat. 3002; Pub. L. 98–221, title I, § 104(c)(1), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
-In subsec. (c)(3), “section 1105 of title 31” was substituted for “section 201 of the Budget and Accounting Act, 1921 [31 U.S.C. 11]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(3), “section 1105 of title 31” was substituted for “section 201 of the Budget and Accounting Act, 1921 [31 U.S.C. 11]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was enacted as part of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, and not as part of the Rehabilitation Act of 1973 which comprises this chapter.
 
@@ -4593,7 +4593,7 @@ Section was enacted as part of the Rehabilitation, Comprehensive Services, and D
 
 1984—Subsec. (a). Pub. L. 98–221 substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
 
-### § 763. Interagency Committee
+### § 763. Interagency Committee
 
 **(a) Establishment; membership; meetings**
 
@@ -4603,9 +4603,9 @@ Section was enacted as part of the Rehabilitation, Comprehensive Services, and D
 
 **(b) Duties**
 
-**(1)** After receiving input individuals 1
+**(1)** After receiving input individuals 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “from”.
+<sup>1</sup> So in original. Probably should be preceded by “from”.
 
 with disabilities, the Committee shall identify, assess, and seek to coordinate all Federal programs, activities, and projects, and plans for such programs, activities, and projects with respect to the conduct of research (including assistive technology research and research that incorporates the principles of universal design) related to independent living and rehabilitation of individuals with disabilities.
 
@@ -4657,7 +4657,7 @@ with disabilities, the Committee shall identify, assess, and seek to coordinate 
 
 **(B)** detailed budget information.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(2)** makes such recommendations as the Committee determines to be appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research (including assistive technology research and research that incorporates the principles of universal design) related to rehabilitation of individuals with disabilities; and
 
@@ -4669,7 +4669,7 @@ with disabilities, the Committee shall identify, assess, and seek to coordinate 
 
 **(2)** the term “independent living”, used in connection with research, means research on issues and topics related to attaining maximum self-sufficiency and function by individuals with disabilities, including research on assistive technology and universal design, employment, education, health and wellness, and community integration and participation.
 
-(Pub. L. 93–112, title II, § 203, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title II, § 201, Nov. 13, 1998, 112 Stat. 3651; Pub. L. 108–364, § 3(b)(1), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, § 434, July 22, 2014, 128 Stat. 1664.)
+(Pub. L. 93–112, title II, § 203, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title II, § 201, Nov. 13, 1998, 112 Stat. 3651; Pub. L. 108–364, § 3(b)(1), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, § 434, July 22, 2014, 128 Stat. 1664.)
 
 **Editorial Notes**
 
@@ -4677,45 +4677,45 @@ with disabilities, the Committee shall identify, assess, and seek to coordinate 
 
 Provisions similar to this section were contained in section 761b of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 763, Pub. L. 93–112, title II, § 203, Sept. 26, 1973, 87 Stat. 376, relating to making of grants and contracts for training of personnel involved in vocational services to handicapped individuals, was renumbered section 304 of Pub. L. 93–112 and transferred to section 774 of this title prior to repeal by Pub. L. 113–128.
+A prior section 763, Pub. L. 93–112, title II, § 203, Sept. 26, 1973, 87 Stat. 376, relating to making of grants and contracts for training of personnel involved in vocational services to handicapped individuals, was renumbered section 304 of Pub. L. 93–112 and transferred to section 774 of this title prior to repeal by Pub. L. 113–128.
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 434(1)(A), substituted “conducting disability, independent living, and rehabilitation research” for “conducting rehabilitation research”, “chaired by the Secretary, or the Secretary’s designee,” for “chaired by the Director”, and “the Director of the National Science Foundation and the Administrator of the Small Business Administration.” for “and the Director of the National Science Foundation.” and inserted “the Assistant Secretary of Labor for Disability Employment Policy, the Secretary of Defense, the Administrator of the Administration for Community Living,” after “Assistant Secretary for Special Education and Rehabilitative Services,”.
+2014—Subsec. (a)(1). Pub. L. 113–128, § 434(1)(A), substituted “conducting disability, independent living, and rehabilitation research” for “conducting rehabilitation research”, “chaired by the Secretary, or the Secretary’s designee,” for “chaired by the Director”, and “the Director of the National Science Foundation and the Administrator of the Small Business Administration.” for “and the Director of the National Science Foundation.” and inserted “the Assistant Secretary of Labor for Disability Employment Policy, the Secretary of Defense, the Administrator of the Administration for Community Living,” after “Assistant Secretary for Special Education and Rehabilitative Services,”.
 
-Subsec. (a)(2). Pub. L. 113–128, § 434(1)(B), inserted “, and for not less than 1 of such meetings at least every 2 years, the Committee shall invite policymakers, representatives from other Federal agencies conducting relevant research, individuals with disabilities, organizations representing individuals with disabilities, researchers, and providers, to offer input on the Committee’s work, including the development and implementation of the strategic plan required under subsection (c)” after “each year”.
+Subsec. (a)(2). Pub. L. 113–128, § 434(1)(B), inserted “, and for not less than 1 of such meetings at least every 2 years, the Committee shall invite policymakers, representatives from other Federal agencies conducting relevant research, individuals with disabilities, organizations representing individuals with disabilities, researchers, and providers, to offer input on the Committee’s work, including the development and implementation of the strategic plan required under subsection (c)” after “each year”.
 
-Subsec. (b)(1). Pub. L. 113–128, § 434(2)(A), substituted “individuals with disabilities” for “from targeted individuals” and inserted “independent living and” before “rehabilitation”.
+Subsec. (b)(1). Pub. L. 113–128, § 434(2)(A), substituted “individuals with disabilities” for “from targeted individuals” and inserted “independent living and” before “rehabilitation”.
 
-Subsec. (b)(2)(A). Pub. L. 113–128, § 434(2)(B)(i), inserted “independent living research,” after “assistive technology research,”.
+Subsec. (b)(2)(A). Pub. L. 113–128, § 434(2)(B)(i), inserted “independent living research,” after “assistive technology research,”.
 
-Subsec. (b)(2)(B). Pub. L. 113–128, § 434(2)(B)(ii), inserted “, independent living research,” after “assistive technology research”.
+Subsec. (b)(2)(B). Pub. L. 113–128, § 434(2)(B)(ii), inserted “, independent living research,” after “assistive technology research”.
 
-Subsec. (b)(2)(D), (E). Pub. L. 113–128, § 434(2)(B)(iii), (iv), substituted “, independent living research, and research that incorporates the principles of universal design” for “and research that incorporates the principles of universal design”.
+Subsec. (b)(2)(D), (E). Pub. L. 113–128, § 434(2)(B)(iii), (iv), substituted “, independent living research, and research that incorporates the principles of universal design” for “and research that incorporates the principles of universal design”.
 
-Subsec. (c). Pub. L. 113–128, § 434(5), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 113–128, § 434(5), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 113–128, § 434(6)(A), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate” in introductory provisions.
+Subsec. (d). Pub. L. 113–128, § 434(6)(A), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate” in introductory provisions.
 
-Pub. L. 113–128, § 434(3), (4), redesignated subsec. (c) as (d) and struck out former subsec. (d) which related to recommendations for coordinating research among Federal departments.
+Pub. L. 113–128, § 434(3), (4), redesignated subsec. (c) as (d) and struck out former subsec. (d) which related to recommendations for coordinating research among Federal departments.
 
-Subsec. (d)(1). Pub. L. 113–128, § 434(6)(B), added par. (1) and struck out former par. (1) which read as follows: “describes the progress of the Committee in fulfilling the duties described in subsection (b) of this section;”.
+Subsec. (d)(1). Pub. L. 113–128, § 434(6)(B), added par. (1) and struck out former par. (1) which read as follows: “describes the progress of the Committee in fulfilling the duties described in subsection (b) of this section;”.
 
-Subsec. (e)(2). Pub. L. 113–128, § 434(7), added par. (2) and struck out former par. (2) which read as follows: “the term ‘targeted individuals’ has the meaning given the term ‘targeted individuals and entities’ in section 3002 of this title.”
+Subsec. (e)(2). Pub. L. 113–128, § 434(7), added par. (2) and struck out former par. (2) which read as follows: “the term ‘targeted individuals’ has the meaning given the term ‘targeted individuals and entities’ in section 3002 of this title.”
 
 2004—Subsec. (e). Pub. L. 108–364 added subsec. (e) and struck out former subsec. (e) which read as follows: “In this section, the terms ‘assistive technology’, ‘targeted individuals’, and ‘universal design’ have the meanings given the terms in section 3002 of this title.”
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
+1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
-Subsec. (a)(1). Pub. L. 105–394, § 201(1), inserted “including programs relating to assistive technology research and research that incorporates the principles of universal design,” after “programs,”.
+Subsec. (a)(1). Pub. L. 105–394, § 201(1), inserted “including programs relating to assistive technology research and research that incorporates the principles of universal design,” after “programs,”.
 
-Subsec. (b). Pub. L. 105–394, § 201(2), designated existing provisions as par. (1), substituted “targeted individuals” for “individuals with disabilities and the individuals’ representatives”, inserted “(including assistive technology research and research that incorporates the principles of universal design)” after “research”, and added par. (2).
+Subsec. (b). Pub. L. 105–394, § 201(2), designated existing provisions as par. (1), substituted “targeted individuals” for “individuals with disabilities and the individuals’ representatives”, inserted “(including assistive technology research and research that incorporates the principles of universal design)” after “research”, and added par. (2).
 
-Subsec. (c). Pub. L. 105–394, § 201(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Committee shall annually submit to the President and to the appropriate committees of the Congress a report making such recommendations as the Committee deems appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research related to rehabilitation of individuals with disabilities.”
+Subsec. (c). Pub. L. 105–394, § 201(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Committee shall annually submit to the President and to the appropriate committees of the Congress a report making such recommendations as the Committee deems appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research related to rehabilitation of individuals with disabilities.”
 
-Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
 
-### § 764. Research and other covered activities
+### § 764. Research and other covered activities
 
 **(a) Federal grants and contracts for certain research projects and related activities**
 
@@ -4753,9 +4753,9 @@ Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
 
 **(1)** In addition to carrying out projects under subsection (a), the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17).1
 
-<sup>1</sup>  So in original. Probably should be “paragraphs (2) through (16)”.
+<sup>1</sup> So in original. Probably should be “paragraphs (2) through (16)”.
 
-A research grant made under any of paragraphs (2) through (17) 1 may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title.
+A research grant made under any of paragraphs (2) through (17) 1 may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title.
 
 **(2)**
 
@@ -5035,143 +5035,143 @@ No single grant under this paragraph may exceed $50,000 in any fiscal year and a
 
 **(B)** In the case of any other application for funding to carry out a covered activity under this section, the application shall also include a dissemination plan, containing strategies for disseminating educational materials, research results, or findings, conclusions, and recommendations, resulting from the covered activity.
 
-(Pub. L. 93–112, title II, § 204, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title IV, § 402(b), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 111–256, § 2(d)(2), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, § 435, July 22, 2014, 128 Stat. 1666.)
+(Pub. L. 93–112, title II, § 204, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title IV, § 402(b), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 111–256, § 2(d)(2), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, § 435, July 22, 2014, 128 Stat. 1666.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Assistive Technology Act of 1998, referred to in subsec. (b)(3)(C)(i), (G)(i), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Assistive Technology Act of 1998, referred to in subsec. (b)(3)(C)(i), (G)(i), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(D)(i)(III), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(D)(i)(III), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
 Provisions similar to this section were contained in section 762 of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 764, Pub. L. 93–112, title II, § 204, Sept. 26, 1973, 87 Stat. 376, provided that a full report on research and training activities be included in annual report to Congress, prior to repeal by Pub. L. 95–602, title I, § 109(3), Nov. 6, 1978, 92 Stat. 2963.
+A prior section 764, Pub. L. 93–112, title II, § 204, Sept. 26, 1973, 87 Stat. 376, provided that a full report on research and training activities be included in annual report to Congress, prior to repeal by Pub. L. 95–602, title I, § 109(3), Nov. 6, 1978, 92 Stat. 2963.
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 435(1)(A), substituted “fund” for “pay” and “employment, education, independent living, health and wellness,” for “employment, independent living,” and inserted “have practical applications and” before “maximize”.
+2014—Subsec. (a)(1). Pub. L. 113–128, § 435(1)(A), substituted “fund” for “pay” and “employment, education, independent living, health and wellness,” for “employment, independent living,” and inserted “have practical applications and” before “maximize”.
 
-Subsec. (a)(2)(A). Pub. L. 113–128, § 435(1)(B)(i), inserted “and from which the research findings, conclusions, or recommendations can be transferred to practice” after “State agencies”.
+Subsec. (a)(2)(A). Pub. L. 113–128, § 435(1)(B)(i), inserted “and from which the research findings, conclusions, or recommendations can be transferred to practice” after “State agencies”.
 
-Subsec. (a)(2)(B)(ii). Pub. L. 113–128, § 435(1)(B)(ii)(I), added cl. (ii) and struck out former cl. (ii) which read as follows: “studies and analysis of industrial, vocational, social, recreational, psychiatric, psychological, economic, and other factors affecting rehabilitation of individuals with disabilities;”.
+Subsec. (a)(2)(B)(ii). Pub. L. 113–128, § 435(1)(B)(ii)(I), added cl. (ii) and struck out former cl. (ii) which read as follows: “studies and analysis of industrial, vocational, social, recreational, psychiatric, psychological, economic, and other factors affecting rehabilitation of individuals with disabilities;”.
 
-Subsec. (a)(2)(B)(iii). Pub. L. 113–128, § 435(1)(B)(ii)(II), substituted “have significant challenges engaging in community life outside their homes and individuals who are in institutional settings;” for “are homebound and individuals who are institutionalized;”.
+Subsec. (a)(2)(B)(iii). Pub. L. 113–128, § 435(1)(B)(ii)(II), substituted “have significant challenges engaging in community life outside their homes and individuals who are in institutional settings;” for “are homebound and individuals who are institutionalized;”.
 
-Subsec. (a)(2)(B)(iv). Pub. L. 113–128, § 435(1)(B)(ii)(III), inserted “, including the principles of universal design and the interoperability of products and services” after “disabilities”.
+Subsec. (a)(2)(B)(iv). Pub. L. 113–128, § 435(1)(B)(ii)(III), inserted “, including the principles of universal design and the interoperability of products and services” after “disabilities”.
 
-Subsec. (a)(2)(B)(v). Pub. L. 113–128, § 435(1)(B)(ii)(IV), inserted “, and to promoting employment opportunities in competitive integrated employment” after “employment”.
+Subsec. (a)(2)(B)(v). Pub. L. 113–128, § 435(1)(B)(ii)(IV), inserted “, and to promoting employment opportunities in competitive integrated employment” after “employment”.
 
-Subsec. (a)(2)(B)(vii). Pub. L. 113–128, § 435(1)(B)(ii)(VI), substituted “, assistive technology, and communications technology; and” for “and assistive technology.”
+Subsec. (a)(2)(B)(vii). Pub. L. 113–128, § 435(1)(B)(ii)(VI), substituted “, assistive technology, and communications technology; and” for “and assistive technology.”
 
-Subsec. (a)(2)(B)(viii). Pub. L. 113–128, § 435(1)(B)(ii)(V), (VII), added cl. (viii).
+Subsec. (a)(2)(B)(viii). Pub. L. 113–128, § 435(1)(B)(ii)(V), (VII), added cl. (viii).
 
-Subsec. (a)(3). Pub. L. 113–128, § 435(1)(C), added par. (3).
+Subsec. (a)(3). Pub. L. 113–128, § 435(1)(C), added par. (3).
 
-Subsec. (b)(1). Pub. L. 113–128, § 435(2)(A), substituted “(17)” for “(18)” in two places.
+Subsec. (b)(1). Pub. L. 113–128, § 435(2)(A), substituted “(17)” for “(18)” in two places.
 
-Subsec. (b)(2)(A)(i), (ii). Pub. L. 113–128, § 435(2)(B)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (b)(2)(A)(i), (ii). Pub. L. 113–128, § 435(2)(B)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) be operated in collaboration with institutions of higher education or providers of rehabilitation services or other appropriate services; and
 
 “(ii) serve as centers of national excellence and national or regional resources for providers and individuals with disabilities and the individuals’ representatives.”
 
-Subsec. (b)(2)(B)(i). Pub. L. 113–128, § 435(2)(B)(ii)(I), inserted “independent living and” after “research in” and after “will improve” and substituted “maximize health and function (including alleviating or stabilizing conditions, or preventing secondary conditions), and promote maximum social and economic independence of individuals with disabilities, including promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;” for “alleviate or stabilize disabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;”.
+Subsec. (b)(2)(B)(i). Pub. L. 113–128, § 435(2)(B)(ii)(I), inserted “independent living and” after “research in” and after “will improve” and substituted “maximize health and function (including alleviating or stabilizing conditions, or preventing secondary conditions), and promote maximum social and economic independence of individuals with disabilities, including promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;” for “alleviate or stabilize disabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 113–128, § 435(2)(B)(ii)(III), added cl. (ii). Former cl. (ii) redesignated (iii).
+Subsec. (b)(2)(B)(ii). Pub. L. 113–128, § 435(2)(B)(ii)(III), added cl. (ii). Former cl. (ii) redesignated (iii).
 
-Subsec. (b)(2)(B)(iii). Pub. L. 113–128, § 435(2)(B)(ii)(IV), inserted “independent living and” before “rehabilitation services”.
+Subsec. (b)(2)(B)(iii). Pub. L. 113–128, § 435(2)(B)(ii)(IV), inserted “independent living and” before “rehabilitation services”.
 
-Pub. L. 113–128, § 435(2)(B)(ii)(II), redesignated cl. (ii) as (iii). Former cl. (iii) redesignated (iv).
+Pub. L. 113–128, § 435(2)(B)(ii)(II), redesignated cl. (ii) as (iii). Former cl. (iii) redesignated (iv).
 
-Subsec. (b)(2)(B)(iv). Pub. L. 113–128, § 435(2)(B)(ii)(V), inserted “independent living and” before “rehabilitation” in two places and struck out “and” at end.
+Subsec. (b)(2)(B)(iv). Pub. L. 113–128, § 435(2)(B)(ii)(V), inserted “independent living and” before “rehabilitation” in two places and struck out “and” at end.
 
-Pub. L. 113–128, § 435(2)(B)(ii)(II), redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
+Pub. L. 113–128, § 435(2)(B)(ii)(II), redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
 
-Subsec. (b)(2)(B)(v). Pub. L. 113–128, § 435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read as follows: “serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals’ representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities.”
+Subsec. (b)(2)(B)(v). Pub. L. 113–128, § 435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read as follows: “serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals’ representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities.”
 
-Pub. L. 113–128, § 435(2)(B)(ii)(II), redesignated cl. (iv) as (v).
+Pub. L. 113–128, § 435(2)(B)(ii)(II), redesignated cl. (iv) as (v).
 
-Subsec. (b)(2)(B)(vi). Pub. L. 113–128, § 435(2)(B)(ii)(VI), added cl. (vi).
+Subsec. (b)(2)(B)(vi). Pub. L. 113–128, § 435(2)(B)(ii)(VI), added cl. (vi).
 
-Subsec. (b)(2)(C)(i). Pub. L. 113–128, § 435(2)(B)(iii)(I), inserted “, including research on assistive technology devices, assistive technology services, and accessible electronic and information technology devices” after “rehabilitation research”.
+Subsec. (b)(2)(C)(i). Pub. L. 113–128, § 435(2)(B)(iii)(I), inserted “, including research on assistive technology devices, assistive technology services, and accessible electronic and information technology devices” after “rehabilitation research”.
 
-Subsec. (b)(2)(C)(ii). Pub. L. 113–128, § 435(2)(B)(iii)(II), substituted “, social, and economic” for “and social” and inserted “independent living and” before “rehabilitation”.
+Subsec. (b)(2)(C)(ii). Pub. L. 113–128, § 435(2)(B)(iii)(II), substituted “, social, and economic” for “and social” and inserted “independent living and” before “rehabilitation”.
 
-Subsec. (b)(2)(C)(iii). Pub. L. 113–128, § 435(2)(B)(iii)(V), substituted “that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities, as well as their integration in school, employment, and community activities;” for “to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities; and”.
+Subsec. (b)(2)(C)(iii). Pub. L. 113–128, § 435(2)(B)(iii)(V), substituted “that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities, as well as their integration in school, employment, and community activities;” for “to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities; and”.
 
-Pub. L. 113–128, § 435(2)(B)(iii)(III), (IV), redesignated cl. (v) as (iii) and struck out former cl. (iii) which read as follows: “research related to vocational rehabilitation;”.
+Pub. L. 113–128, § 435(2)(B)(iii)(III), (IV), redesignated cl. (v) as (iii) and struck out former cl. (iii) which read as follows: “research related to vocational rehabilitation;”.
 
-Subsec. (b)(2)(C)(iv). Pub. L. 113–128, § 435(2)(B)(iii)(VI), substituted “to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities;” for “that will improve services and policies that foster the productivity, independence, and social integration of individuals with disabilities, and enable individuals with disabilities, including individuals with intellectual disabilities and other developmental disabilities, to live in their communities.”
+Subsec. (b)(2)(C)(iv). Pub. L. 113–128, § 435(2)(B)(iii)(VI), substituted “to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities;” for “that will improve services and policies that foster the productivity, independence, and social integration of individuals with disabilities, and enable individuals with disabilities, including individuals with intellectual disabilities and other developmental disabilities, to live in their communities.”
 
-Pub. L. 113–128, § 435(2)(B)(iii)(III), (IV), redesignated cl. (vi) as (iv) and struck out former cl. (iv) which read as follows: “continuation of research that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities;”.
+Pub. L. 113–128, § 435(2)(B)(iii)(III), (IV), redesignated cl. (vi) as (iv) and struck out former cl. (iv) which read as follows: “continuation of research that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities;”.
 
-Subsec. (b)(2)(C)(v), (vi). Pub. L. 113–128, § 435(2)(B)(iii)(VII), added cls. (v) and (vi). Former cls. (v) and (vi) redesignated (iii) and (iv), respectively.
+Subsec. (b)(2)(C)(v), (vi). Pub. L. 113–128, § 435(2)(B)(iii)(VII), added cls. (v) and (vi). Former cls. (v) and (vi) redesignated (iii) and (iv), respectively.
 
-Subsec. (b)(2)(D). Pub. L. 113–128, § 435(2)(B)(iv), added subpar. (D) and struck out former subpar. (D) which read as follows: “Training of students preparing to be rehabilitation personnel shall be an important priority for such a Center.”
+Subsec. (b)(2)(D). Pub. L. 113–128, § 435(2)(B)(iv), added subpar. (D) and struck out former subpar. (D) which read as follows: “Training of students preparing to be rehabilitation personnel shall be an important priority for such a Center.”
 
-Subsec. (b)(2)(E). Pub. L. 113–128, § 435(2)(B)(v), struck out “comprehensive” after “both”.
+Subsec. (b)(2)(E). Pub. L. 113–128, § 435(2)(B)(v), struck out “comprehensive” after “both”.
 
-Subsec. (b)(2)(G)(i). Pub. L. 113–128, § 435(2)(B)(vi), inserted “independent living and” before “rehabilitation-related”.
+Subsec. (b)(2)(G)(i). Pub. L. 113–128, § 435(2)(B)(vi), inserted “independent living and” before “rehabilitation-related”.
 
-Subsec. (b)(2)(I). Pub. L. 113–128, § 435(2)(B)(vii), (viii), redesignated subpar. (J) as (I) and struck out former subpar. (I) which read as follows: “The Director shall encourage the Centers to develop practical applications for the findings of the research of the Centers.”
+Subsec. (b)(2)(I). Pub. L. 113–128, § 435(2)(B)(vii), (viii), redesignated subpar. (J) as (I) and struck out former subpar. (I) which read as follows: “The Director shall encourage the Centers to develop practical applications for the findings of the research of the Centers.”
 
-Subsec. (b)(2)(J) to (N). Pub. L. 113–128, § 435(2)(B)(viii), redesignated subpars. (K) to (O) as (J) to (N), respectively. Former subpar. (J) redesignated (I).
+Subsec. (b)(2)(J) to (N). Pub. L. 113–128, § 435(2)(B)(viii), redesignated subpars. (K) to (O) as (J) to (N), respectively. Former subpar. (J) redesignated (I).
 
-Subsec. (b)(3)(A). Pub. L. 113–128, § 435(2)(C)(i), inserted “independent living strategies and” before “rehabilitation technology”.
+Subsec. (b)(3)(A). Pub. L. 113–128, § 435(2)(C)(i), inserted “independent living strategies and” before “rehabilitation technology”.
 
-Subsec. (b)(3)(B)(i)(I). Pub. L. 113–128, § 435(2)(C)(ii)(I), inserted “independent living and” before “rehabilitation problems”.
+Subsec. (b)(3)(B)(i)(I). Pub. L. 113–128, § 435(2)(C)(ii)(I), inserted “independent living and” before “rehabilitation problems”.
 
-Subsec. (b)(3)(B)(ii)(II). Pub. L. 113–128, § 435(2)(C)(ii)(II), substituted “educational, employment,” for “employment”.
+Subsec. (b)(3)(B)(ii)(II). Pub. L. 113–128, § 435(2)(C)(ii)(II), substituted “educational, employment,” for “employment”.
 
-Subsec. (b)(3)(B)(iii)(II). Pub. L. 113–128, § 435(2)(C)(ii)(III), substituted “educational, employment,” for “employment”.
+Subsec. (b)(3)(B)(iii)(II). Pub. L. 113–128, § 435(2)(C)(ii)(III), substituted “educational, employment,” for “employment”.
 
-Subsec. (b)(3)(D)(i)(II). Pub. L. 113–128, § 435(2)(C)(iii), substituted “postsecondary education, competitive integrated employment, and other age-appropriate” for “postschool”.
+Subsec. (b)(3)(D)(i)(II). Pub. L. 113–128, § 435(2)(C)(iii), substituted “postsecondary education, competitive integrated employment, and other age-appropriate” for “postschool”.
 
-Subsec. (b)(3)(G)(ii). Pub. L. 113–128, § 435(2)(C)(iv), inserted “the impact of any commercialized product researched or developed through the Center,” after “individuals with disabilities,”.
+Subsec. (b)(3)(G)(ii). Pub. L. 113–128, § 435(2)(C)(iv), inserted “the impact of any commercialized product researched or developed through the Center,” after “individuals with disabilities,”.
 
-Subsec. (b)(4)(B)(i). Pub. L. 113–128, § 435(2)(D)(i), substituted “independent living, employment,” for “vocational” and “unique” for “special” and inserted “social and functional needs, and” before “acute care”.
+Subsec. (b)(4)(B)(i). Pub. L. 113–128, § 435(2)(D)(i), substituted “independent living, employment,” for “vocational” and “unique” for “special” and inserted “social and functional needs, and” before “acute care”.
 
-Subsec. (b)(4)(B)(iv). Pub. L. 113–128, § 435(2)(D)(ii), inserted “education, health and wellness,” after “employment,”.
+Subsec. (b)(4)(B)(iv). Pub. L. 113–128, § 435(2)(D)(ii), inserted “education, health and wellness,” after “employment,”.
 
-Subsec. (b)(8). Pub. L. 113–128, § 435(2)(E), added par. (8) and struck out former par. (8) which read as follows: “Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.”
+Subsec. (b)(8). Pub. L. 113–128, § 435(2)(E), added par. (8) and struck out former par. (8) which read as follows: “Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.”
 
-Subsec. (b)(9). Pub. L. 113–128, § 435(2)(F), (G), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “Research grants may be used to conduct a program of research related to the rehabilitation of children, or older individuals, who are individuals with disabilities, including older American Indians who are individuals with disabilities. Such research program may include projects designed to assist the adjustment of, or maintain as residents in the community, older workers who are individuals with disabilities on leaving the workforce.”
+Subsec. (b)(9). Pub. L. 113–128, § 435(2)(F), (G), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “Research grants may be used to conduct a program of research related to the rehabilitation of children, or older individuals, who are individuals with disabilities, including older American Indians who are individuals with disabilities. Such research program may include projects designed to assist the adjustment of, or maintain as residents in the community, older workers who are individuals with disabilities on leaving the workforce.”
 
-Subsec. (b)(10). Pub. L. 113–128, § 435(2)(G), redesignated par. (12) as (10). Former par. (10) redesignated (9).
+Subsec. (b)(10). Pub. L. 113–128, § 435(2)(G), redesignated par. (12) as (10). Former par. (10) redesignated (9).
 
-Subsec. (b)(11). Pub. L. 113–128, § 435(2)(H)(i), substituted “employment needs, opportunities, and outcomes (including those relating to self-employment, supported employment, and telecommuting) of individuals with disabilities, including” for “employment needs of individuals with disabilities, including” in introductory provisions.
+Subsec. (b)(11). Pub. L. 113–128, § 435(2)(H)(i), substituted “employment needs, opportunities, and outcomes (including those relating to self-employment, supported employment, and telecommuting) of individuals with disabilities, including” for “employment needs of individuals with disabilities, including” in introductory provisions.
 
-Pub. L. 113–128, § 435(2)(F), (G), redesignated par. (13) as (11) and struck out former par. (11) which read as follows: “Research grants may be used to conduct a model research and demonstration project designed to assess the feasibility of establishing a center for producing and distributing to individuals who are deaf or hard of hearing captioned video cassettes providing a broad range of educational, cultural, scientific, and vocational programming.”
+Pub. L. 113–128, § 435(2)(F), (G), redesignated par. (13) as (11) and struck out former par. (11) which read as follows: “Research grants may be used to conduct a model research and demonstration project designed to assess the feasibility of establishing a center for producing and distributing to individuals who are deaf or hard of hearing captioned video cassettes providing a broad range of educational, cultural, scientific, and vocational programming.”
 
-Subsec. (b)(11)(B). Pub. L. 113–128, § 435(2)(H)(ii), inserted “and employment related” after “the employment”.
+Subsec. (b)(11)(B). Pub. L. 113–128, § 435(2)(H)(ii), inserted “and employment related” after “the employment”.
 
-Subsec. (b)(11)(G) to (L). Pub. L. 113–128, § 435(2)(H)(iii)–(v), added subpars. (G) to (L).
+Subsec. (b)(11)(G) to (L). Pub. L. 113–128, § 435(2)(H)(iii)–(v), added subpars. (G) to (L).
 
-Subsec. (b)(12). Pub. L. 113–128, § 435(2)(I)(i), (iii), in introductory provisions, inserted “an independent living or” after “conduct” and, in concluding provisions, substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
+Subsec. (b)(12). Pub. L. 113–128, § 435(2)(I)(i), (iii), in introductory provisions, inserted “an independent living or” after “conduct” and, in concluding provisions, substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
 
-Pub. L. 113–128, § 435(2)(G), redesignated par. (14) as (12). Former par. (12) redesignated (10).
+Pub. L. 113–128, § 435(2)(G), redesignated par. (14) as (12). Former par. (12) redesignated (10).
 
-Subsec. (b)(12)(D). Pub. L. 113–128, § 435(2)(I)(ii), inserted “independent living or” before “rehabilitation”.
+Subsec. (b)(12)(D). Pub. L. 113–128, § 435(2)(I)(ii), inserted “independent living or” before “rehabilitation”.
 
-Subsec. (b)(13). Pub. L. 113–128, § 435(2)(J), inserted “independent living and” before “rehabilitation needs”.
+Subsec. (b)(13). Pub. L. 113–128, § 435(2)(J), inserted “independent living and” before “rehabilitation needs”.
 
-Pub. L. 113–128, § 435(2)(G), redesignated par. (15) as (13). Former par. (13) redesignated (11).
+Pub. L. 113–128, § 435(2)(G), redesignated par. (15) as (13). Former par. (13) redesignated (11).
 
-Subsec. (b)(14). Pub. L. 113–128, § 435(2)(K), substituted “, full participation, and economic self-sufficiency.” for “and access to gainful employment.”
+Subsec. (b)(14). Pub. L. 113–128, § 435(2)(K), substituted “, full participation, and economic self-sufficiency.” for “and access to gainful employment.”
 
-Pub. L. 113–128, § 435(2)(G), redesignated par. (16) as (14). Former par. (14) redesignated (12).
+Pub. L. 113–128, § 435(2)(G), redesignated par. (16) as (14). Former par. (14) redesignated (12).
 
-Subsec. (b)(15) to (18). Pub. L. 113–128, § 435(2)(G), redesignated pars. (17) and (18) as (15) and (16), respectively. Former pars. (15) and (16) redesignated (13) and (14), respectively.
+Subsec. (b)(15) to (18). Pub. L. 113–128, § 435(2)(G), redesignated pars. (17) and (18) as (15) and (16), respectively. Former pars. (15) and (16) redesignated (13) and (14), respectively.
 
-Subsec. (d). Pub. L. 113–128, § 435(3), added subsec. (d).
+Subsec. (d). Pub. L. 113–128, § 435(3), added subsec. (d).
 
 2010—Subsec. (b)(2)(C)(vi). Pub. L. 111–256 substituted “intellectual disabilities and other developmental disabilities” for “mental retardation and other developmental disabilities”.
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
+1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
 Subsec. (b)(3)(C)(i), (G)(i). Pub. L. 105–394 substituted “the Assistive Technology Act of 1998” for “the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (29 U.S.C. 2201 et seq.)”.
 
@@ -5181,7 +5181,7 @@ Subsec. (b)(3)(C)(i), (G)(i). Pub. L. 105–394 substituted “the Assistive Tec
 
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 
-### § 765. Disability, Independent Living, and Rehabilitation Research Advisory Council
+### § 765. Disability, Independent Living, and Rehabilitation Research Advisory Council
 
 **(a) Establishment**
 
@@ -5233,41 +5233,41 @@ On the request of the Council, the Secretary shall provide such technical assist
 
 Section 1013 of title 5 shall not apply with respect to the Council.
 
-(Pub. L. 93–112, title II, § 205, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1182; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, §§ 401(16), 402(b)(11)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–414; Pub. L. 113–128, title IV, § 436, July 22, 2014, 128 Stat. 1671; Pub. L. 117–286, § 4(a)(187), Dec. 27, 2022, 136 Stat. 4326.)
+(Pub. L. 93–112, title II, § 205, as added Pub. L. 105–220, title IV, § 405, Aug. 7, 1998, 112 Stat. 1182; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, §§ 401(16), 402(b)(11)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–414; Pub. L. 113–128, title IV, § 436, July 22, 2014, 128 Stat. 1671; Pub. L. 117–286, § 4(a)(187), Dec. 27, 2022, 136 Stat. 4326.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 765, Pub. L. 93–112, title II, § 205, as added Pub. L. 102–569, title II, § 206(a), Oct. 29, 1992, 106 Stat. 4409, related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 765, Pub. L. 93–112, title II, § 205, as added Pub. L. 102–569, title II, § 206(a), Oct. 29, 1992, 106 Stat. 4409, related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
 2022—Subsec. (i). Pub. L. 117–286 substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-2014—Pub. L. 113–128, § 436(1), inserted “Disability, Independent Living, and” before “Rehabilitation” in section catchline.
+2014—Pub. L. 113–128, § 436(1), inserted “Disability, Independent Living, and” before “Rehabilitation” in section catchline.
 
-Subsec. (a). Pub. L. 113–128, § 436(2), substituted “Department of Health and Human Services a Disability, Independent Living, and Rehabilitation Research Advisory Council” for “Department of Education a Rehabilitation Research Advisory Council” and inserted “not less than” after “composed of”.
+Subsec. (a). Pub. L. 113–128, § 436(2), substituted “Department of Health and Human Services a Disability, Independent Living, and Rehabilitation Research Advisory Council” for “Department of Education a Rehabilitation Research Advisory Council” and inserted “not less than” after “composed of”.
 
-Subsec. (c). Pub. L. 113–128, § 436(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “Members of the Council shall be generally representative of the community of rehabilitation professionals, the community of rehabilitation researchers, the community of individuals with disabilities, and the individuals’ representatives. At least one-half of the members shall be individuals with disabilities or the individuals’ representatives.”
+Subsec. (c). Pub. L. 113–128, § 436(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “Members of the Council shall be generally representative of the community of rehabilitation professionals, the community of rehabilitation researchers, the community of individuals with disabilities, and the individuals’ representatives. At least one-half of the members shall be individuals with disabilities or the individuals’ representatives.”
 
-Subsec. (g). Pub. L. 113–128, § 436(4), substituted “Department of Health and Human Services” for “Department of Education”.
+Subsec. (g). Pub. L. 113–128, § 436(4), substituted “Department of Health and Human Services” for “Department of Education”.
 
-1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(11)], made technical amendment to section designation and catchline in original.
+1998—Pub. L. 105–277, § 101(f) [title VIII, § 402(b)(11)], made technical amendment to section designation and catchline in original.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 401(16)], made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
+Pub. L. 105–277, § 101(f) [title VIII, § 401(16)], made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
-### § 766. Definition of covered school
+### § 766. Definition of covered school
 
 In this subchapter, the term “covered school” means an elementary school or secondary school (as such terms are defined in section 7801 of title 20) or an institution of higher education.
 
-(Pub. L. 93–112, title II, § 206, as added Pub. L. 113–128, title IV, § 437, July 22, 2014, 128 Stat. 1671; amended Pub. L. 114–95, title IX, § 9215(mmm)(2), Dec. 10, 2015, 129 Stat. 2188.)
+(Pub. L. 93–112, title II, § 206, as added Pub. L. 113–128, title IV, § 437, July 22, 2014, 128 Stat. 1671; amended Pub. L. 114–95, title IX, § 9215(mmm)(2), Dec. 10, 2015, 129 Stat. 2188.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 770, Pub. L. 93–112, title III, § 301, formerly § 300, Sept. 26, 1973, 87 Stat. 377; Pub. L. 95–602, title I, § 122(c)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 100–630, title II, § 204(a), Nov. 7, 1988, 102 Stat. 3308; renumbered § 301 and amended Pub. L. 102–569, title I, § 102(p)(15), title III, § 301(a), (b)(3), Oct. 29, 1992, 106 Stat. 4358, 4410, 4411, contained congressional declaration of purpose, prior to the general amendment of subchapter III of this chapter by Pub. L. 105–220.
+A prior section 770, Pub. L. 93–112, title III, § 301, formerly § 300, Sept. 26, 1973, 87 Stat. 377; Pub. L. 95–602, title I, § 122(c)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 100–630, title II, § 204(a), Nov. 7, 1988, 102 Stat. 3308; renumbered § 301 and amended Pub. L. 102–569, title I, § 102(p)(15), title III, § 301(a), (b)(3), Oct. 29, 1992, 106 Stat. 4358, 4410, 4411, contained congressional declaration of purpose, prior to the general amendment of subchapter III of this chapter by Pub. L. 105–220.
 
 **Amendments**
 
@@ -5285,9 +5285,9 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Codification**
 
-Title III of the Rehabilitation Act of 1973, comprising this subchapter, was originally enacted by Pub. L. 93–112, title III, Sept. 26, 1973, 87 Stat. 377, and amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, Mar. 15, 1976, 90 Stat. 211; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–288, May 21, 1976, 90 Stat. 520; Pub. L. 95–602, Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, Mar. 9, 1994, 108 Stat. 50; Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707. Title III is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1183, without reference to those intervening amendments because of the extensive revision of title III by Pub. L. 105–220.
+Title III of the Rehabilitation Act of 1973, comprising this subchapter, was originally enacted by Pub. L. 93–112, title III, Sept. 26, 1973, 87 Stat. 377, and amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, Mar. 15, 1976, 90 Stat. 211; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–288, May 21, 1976, 90 Stat. 520; Pub. L. 95–602, Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, Mar. 9, 1994, 108 Stat. 50; Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707. Title III is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1183, without reference to those intervening amendments because of the extensive revision of title III by Pub. L. 105–220.
 
-### § 771. Declaration of purpose and competitive basis of grants and contracts
+### § 771. Declaration of purpose and competitive basis of grants and contracts
 
 **(a) Purpose** It is the purpose of this subchapter to authorize grants and contracts to—
 
@@ -5305,29 +5305,29 @@ Title III of the Rehabilitation Act of 1973, comprising this subchapter, was ori
 
 The Secretary shall ensure that all grants and contracts are awarded under this subchapter on a competitive basis.
 
-(Pub. L. 93–112, title III, § 301, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1183; amended Pub. L. 113–128, title IV, § 441(a), July 22, 2014, 128 Stat. 1672.)
+(Pub. L. 93–112, title III, § 301, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1183; amended Pub. L. 113–128, title IV, § 441(a), July 22, 2014, 128 Stat. 1672.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 771, Pub. L. 93–112, title III, § 301, Sept. 26, 1973, 87 Stat. 377; Pub. L. 93–516, title I, § 104, Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 104, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 4, 11(b)(7), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 94–273, § 3(18), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–602, title I, §§ 112(a), 122(c)(2), Nov. 6, 1978, 92 Stat. 2967, 2987; Pub. L. 98–221, title I, § 131, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title IV, § 401, title X, § 1002(d)(1), Oct. 21, 1986, 100 Stat. 1823, 1844; Pub. L. 102–52, § 4(a), June 6, 1991, 105 Stat. 261, related to grants for construction of rehabilitation facilities, staffing, and planning assistance, prior to repeal by Pub. L. 102–569, title III, § 301(b)(2), Oct. 29, 1992, 106 Stat. 4411.
+A prior section 771, Pub. L. 93–112, title III, § 301, Sept. 26, 1973, 87 Stat. 377; Pub. L. 93–516, title I, § 104, Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 104, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 4, 11(b)(7), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 94–273, § 3(18), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–602, title I, §§ 112(a), 122(c)(2), Nov. 6, 1978, 92 Stat. 2967, 2987; Pub. L. 98–221, title I, § 131, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title IV, § 401, title X, § 1002(d)(1), Oct. 21, 1986, 100 Stat. 1823, 1844; Pub. L. 102–52, § 4(a), June 6, 1991, 105 Stat. 261, related to grants for construction of rehabilitation facilities, staffing, and planning assistance, prior to repeal by Pub. L. 102–569, title III, § 301(b)(2), Oct. 29, 1992, 106 Stat. 4411.
 
 A prior section 301 of Pub. L. 93–112 was classified to section 770 of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 771a, Pub. L. 93–112, title III, § 302, formerly title II, § 203, Sept. 26, 1973, 87 Stat. 376; renumbered title III, § 304, and amended Pub. L. 95–602, title I, §§ 109(2), 114, Nov. 6, 1978, 92 Stat. 2963, 2970; Pub. L. 98–221, title I, § 133, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 403, title X, § 1002(d)(2), Oct. 21, 1986, 100 Stat. 1810, 1824, 1844; Pub. L. 100–630, title II, § 204(c), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, § 4(c), June 6, 1991, 105 Stat. 261; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607; renumbered § 302 and amended Pub. L. 102–569, title I, § 102(p)(18), title III, §§ 301(b)(3), (4), 302, Oct. 29, 1992, 106 Stat. 4358, 4411; Pub. L. 103–73, title I, § 110(a), Aug. 11, 1993, 107 Stat. 726; Pub. L. 103–218, title IV, § 402(b), Mar. 9, 1994, 108 Stat. 96; Pub. L. 104–66, title I, § 1042(d), Dec. 21, 1995, 109 Stat. 715, related to assistance for training, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 772 of this title.
+A prior section 771a, Pub. L. 93–112, title III, § 302, formerly title II, § 203, Sept. 26, 1973, 87 Stat. 376; renumbered title III, § 304, and amended Pub. L. 95–602, title I, §§ 109(2), 114, Nov. 6, 1978, 92 Stat. 2963, 2970; Pub. L. 98–221, title I, § 133, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 403, title X, § 1002(d)(2), Oct. 21, 1986, 100 Stat. 1810, 1824, 1844; Pub. L. 100–630, title II, § 204(c), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, § 4(c), June 6, 1991, 105 Stat. 261; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607; renumbered § 302 and amended Pub. L. 102–569, title I, § 102(p)(18), title III, §§ 301(b)(3), (4), 302, Oct. 29, 1992, 106 Stat. 4358, 4411; Pub. L. 103–73, title I, § 110(a), Aug. 11, 1993, 107 Stat. 726; Pub. L. 103–218, title IV, § 402(b), Mar. 9, 1994, 108 Stat. 96; Pub. L. 104–66, title I, § 1042(d), Dec. 21, 1995, 109 Stat. 715, related to assistance for training, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 772 of this title.
 
 **Amendments**
 
-2014—Subsec. (a)(2). Pub. L. 113–128, § 441(a)(1), inserted “and” at end.
+2014—Subsec. (a)(2). Pub. L. 113–128, § 441(a)(1), inserted “and” at end.
 
-Subsec. (a)(3) to (5). Pub. L. 113–128, § 441(a)(2)–(4), redesignated par. (5) as (3), substituted “workforce development systems” for “workforce investment systems”, and struck out former pars. (3) and (4) which read as follows:
+Subsec. (a)(3) to (5). Pub. L. 113–128, § 441(a)(2)–(4), redesignated par. (5) as (3), substituted “workforce development systems” for “workforce investment systems”, and struck out former pars. (3) and (4) which read as follows:
 
 “(3) provide vocational rehabilitation services to individuals with disabilities who are migrant or seasonal farmworkers;
 
 “(4) initiate recreational programs to provide recreational activities and related experiences for individuals with disabilities to aid such individuals in employment, mobility, socialization, independence, and community integration; and”.
 
-### § 772. Training
+### § 772. Training
 
 **(a) Grants and contracts for personnel training**
 
@@ -5503,55 +5503,55 @@ The Commissioner, subject to the provisions of section 776 of this title, may re
 
 There are authorized to be appropriated to carry out this section $33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title III, § 302, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1184; amended Pub. L. 108–446, title III, § 305(h)(4), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, § 441(b), July 22, 2014, 128 Stat. 1672.)
+(Pub. L. 93–112, title III, § 302, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1184; amended Pub. L. 108–446, title III, § 305(h)(4), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, § 441(b), July 22, 2014, 128 Stat. 1672.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4) and (5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4) and (5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Prior Provisions**
 
 Provisions similar to this section were contained in section 771a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 772, Pub. L. 93–112, title III, § 303, formerly § 302, Sept. 26, 1973, 87 Stat. 378; Pub. L. 93–516, title I, § 105, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 105, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 5, 11(b)(8), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 95–602, title I, §§ 112(b), 122(c)(3), Nov. 6, 1978, 92 Stat. 2968, 2987; Pub. L. 98–221, title I, § 132, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 402, title X, § 1001(d)(1), Oct. 21, 1986, 100 Stat. 1810, 1824, 1842; Pub. L. 100–630, title II, § 204(b), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, § 4(b), June 6, 1991, 105 Stat. 261; renumbered § 303 and amended Pub. L. 102–569, title I, § 102(p)(16), title III, §§ 301(b)(3), 303, Oct. 29, 1992, 106 Stat. 4358, 4411, 4416, related to vocational rehabilitation services for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 772, Pub. L. 93–112, title III, § 303, formerly § 302, Sept. 26, 1973, 87 Stat. 378; Pub. L. 93–516, title I, § 105, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 105, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 5, 11(b)(8), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 95–602, title I, §§ 112(b), 122(c)(3), Nov. 6, 1978, 92 Stat. 2968, 2987; Pub. L. 98–221, title I, § 132, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 402, title X, § 1001(d)(1), Oct. 21, 1986, 100 Stat. 1810, 1824, 1842; Pub. L. 100–630, title II, § 204(b), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, § 4(b), June 6, 1991, 105 Stat. 261; renumbered § 303 and amended Pub. L. 102–569, title I, § 102(p)(16), title III, §§ 301(b)(3), 303, Oct. 29, 1992, 106 Stat. 4358, 4411, 4416, related to vocational rehabilitation services for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 A prior section 302 of Pub. L. 93–112 was classified to section 771a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a)(1)(E). Pub. L. 113–128, § 441(b)(1)(A)(i), substituted “supported employment services and customized employment services to individuals with the most significant disabilities;” for “services, through supported employment programs, to individuals with a most significant disability; and”.
+2014—Subsec. (a)(1)(E). Pub. L. 113–128, § 441(b)(1)(A)(i), substituted “supported employment services and customized employment services to individuals with the most significant disabilities;” for “services, through supported employment programs, to individuals with a most significant disability; and”.
 
-Subsec. (a)(1)(H). Pub. L. 113–128, § 441(b)(1)(A)(ii)–(iv), added subpar. (H).
+Subsec. (a)(1)(H). Pub. L. 113–128, § 441(b)(1)(A)(ii)–(iv), added subpar. (H).
 
-Subsec. (a)(4). Pub. L. 113–128, § 441(b)(1)(B)(i), substituted “subtitle B of title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998” in introductory provisions.
+Subsec. (a)(4). Pub. L. 113–128, § 441(b)(1)(B)(i), substituted “subtitle B of title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998” in introductory provisions.
 
-Subsec. (a)(4)(A). Pub. L. 113–128, § 441(b)(1)(B)(ii), substituted “workforce development system” for “workforce investment system”.
+Subsec. (a)(4)(A). Pub. L. 113–128, § 441(b)(1)(B)(ii), substituted “workforce development system” for “workforce investment system”.
 
-Subsec. (a)(4)(B). Pub. L. 113–128, § 441(b)(1)(B)(iii), substituted “section 121(e) of the Workforce Innovation and Opportunity Act.” for “section 134(c) of the Workforce Investment Act of 1998.”
+Subsec. (a)(4)(B). Pub. L. 113–128, § 441(b)(1)(B)(iii), substituted “section 121(e) of the Workforce Innovation and Opportunity Act.” for “section 134(c) of the Workforce Investment Act of 1998.”
 
-Subsec. (a)(5). Pub. L. 113–128, § 441(b)(1)(C), substituted “subtitle B of title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
+Subsec. (a)(5). Pub. L. 113–128, § 441(b)(1)(C), substituted “subtitle B of title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
 
-Subsec. (b)(1)(B)(i). Pub. L. 113–128, § 441(b)(2), substituted “prosthetics and orthotics, vision rehabilitation therapy, orientation and mobility instruction, or low vision therapy” for “or prosthetics and orthotics”.
+Subsec. (b)(1)(B)(i). Pub. L. 113–128, § 441(b)(2), substituted “prosthetics and orthotics, vision rehabilitation therapy, orientation and mobility instruction, or low vision therapy” for “or prosthetics and orthotics”.
 
-Subsec. (g). Pub. L. 113–128, § 441(b)(3)(A), struck out “and in-service training” after “assistance” in heading.
+Subsec. (g). Pub. L. 113–128, § 441(b)(3)(A), struck out “and in-service training” after “assistance” in heading.
 
-Subsec. (g)(1). Pub. L. 113–128, § 441(b)(3)(B), inserted after period at end “Any technical assistance provided to community rehabilitation programs shall be focused on the employment outcome of competitive integrated employment for individuals with disabilities.”
+Subsec. (g)(1). Pub. L. 113–128, § 441(b)(3)(B), inserted after period at end “Any technical assistance provided to community rehabilitation programs shall be focused on the employment outcome of competitive integrated employment for individuals with disabilities.”
 
-Subsec. (g)(3). Pub. L. 113–128, § 441(b)(3)(C), struck out par. (3) which related to use of funding for projects for in-service training for rehabilitation personnel.
+Subsec. (g)(3). Pub. L. 113–128, § 441(b)(3)(C), struck out par. (3) which related to use of funding for projects for in-service training for rehabilitation personnel.
 
-Subsec. (h). Pub. L. 113–128, § 441(b)(4), made technical amendment to reference in original act which appears in text as reference to section 776 of this title.
+Subsec. (h). Pub. L. 113–128, § 441(b)(4), made technical amendment to reference in original act which appears in text as reference to section 776 of this title.
 
-Subsec. (i). Pub. L. 113–128, § 441(b)(5), substituted “$33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
+Subsec. (i). Pub. L. 113–128, § 441(b)(5), substituted “$33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
 
 2004—Subsec. (f)(1)(D)(ii). Pub. L. 108–446 made technical amendment to reference in original act which appears in text as reference to section 1402 of title 20.
 
-### § 773. Demonstration and training programs
+### § 773. Demonstration and training programs
 
 **(a) Demonstration projects to increase client choice**
 
@@ -5781,67 +5781,67 @@ To be eligible to receive a grant, or enter into a contract, under paragraph (1)
 
 For the purpose of carrying out this section there are authorized to be appropriated $5,796,000 for fiscal year 2015, $6,244,000 for fiscal year 2016, $6,373,000 for fiscal year 2017, $6,515,000 for fiscal year 2018, $6,668,000 for fiscal year 2019, and $6,809,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title III, § 303, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1190; amended Pub. L. 108–446, title III, § 305(h)(5), (6), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, § 442, July 22, 2014, 128 Stat. 1673.)
+(Pub. L. 93–112, title III, § 303, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1190; amended Pub. L. 108–446, title III, § 305(h)(5), (6), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, § 442, July 22, 2014, 128 Stat. 1673.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(B)(viii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(B)(viii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 773, Pub. L. 93–112, title III, § 304, formerly § 303, Sept. 26, 1973, 87 Stat. 379; Pub. L. 95–602, title I, § 113, Nov. 6, 1978, 92 Stat. 2968; Pub. L. 99–506, title I, § 103(d)(2)(C), title X, § 1001(d)(2), Oct. 21, 1986, 100 Stat. 1810, 1843; renumbered § 304 and amended Pub. L. 102–569, title I, § 102(p)(17), title III, §§ 301(b)(3), 304, Oct. 29, 1992, 106 Stat. 4358, 4411, 4417, related to loan guarantees for community rehabilitation programs, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 773, Pub. L. 93–112, title III, § 304, formerly § 303, Sept. 26, 1973, 87 Stat. 379; Pub. L. 95–602, title I, § 113, Nov. 6, 1978, 92 Stat. 2968; Pub. L. 99–506, title I, § 103(d)(2)(C), title X, § 1001(d)(2), Oct. 21, 1986, 100 Stat. 1810, 1843; renumbered § 304 and amended Pub. L. 102–569, title I, § 102(p)(17), title III, §§ 301(b)(3), 304, Oct. 29, 1992, 106 Stat. 4358, 4411, 4417, related to loan guarantees for community rehabilitation programs, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 A prior section 303 of Pub. L. 93–112 was classified to section 772 of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (b)(1). Pub. L. 113–128, § 442(1)(A), made technical amendment to reference in original act which appears in text as reference to section 776 of this title.
+2014—Subsec. (b)(1). Pub. L. 113–128, § 442(1)(A), made technical amendment to reference in original act which appears in text as reference to section 776 of this title.
 
-Subsec. (b)(3)(A). Pub. L. 113–128, § 442(1)(B), substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
+Subsec. (b)(3)(A). Pub. L. 113–128, § 442(1)(B), substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
 
-Subsec. (b)(5)(A)(i). Pub. L. 113–128, § 442(1)(C)(i)(I), added cl. (i) and struck out former cl. (i) which read as follows: “special projects and demonstration programs of service delivery for adults who are either low-functioning and deaf or low-functioning and hard of hearing;”.
+Subsec. (b)(5)(A)(i). Pub. L. 113–128, § 442(1)(C)(i)(I), added cl. (i) and struck out former cl. (i) which read as follows: “special projects and demonstration programs of service delivery for adults who are either low-functioning and deaf or low-functioning and hard of hearing;”.
 
-Subsec. (b)(5)(A)(iii). Pub. L. 113–128, § 442(1)(C)(i)(II), added cl. (iii) and struck out former cl. (iii) which read as follows: “model transitional planning services for youths with disabilities.”
+Subsec. (b)(5)(A)(iii). Pub. L. 113–128, § 442(1)(C)(i)(II), added cl. (iii) and struck out former cl. (iii) which read as follows: “model transitional planning services for youths with disabilities.”
 
-Subsec. (b)(5)(B)(viii). Pub. L. 113–128, § 442(1)(C)(ii), substituted “under subtitle B of title I of the Workforce Innovation and Opportunity Act” for “under title I of the Workforce Investment Act of 1998”.
+Subsec. (b)(5)(B)(viii). Pub. L. 113–128, § 442(1)(C)(ii), substituted “under subtitle B of title I of the Workforce Innovation and Opportunity Act” for “under title I of the Workforce Investment Act of 1998”.
 
-Subsec. (b)(6). Pub. L. 113–128, § 442(1)(D), struck out par. (6) which read as follows: “The Commissioner may use funds made available to carry out this section for continuation awards for projects that were funded under sections 711 and 777a of this title (as such sections were in effect on the day before August 7, 1998).”
+Subsec. (b)(6). Pub. L. 113–128, § 442(1)(D), struck out par. (6) which read as follows: “The Commissioner may use funds made available to carry out this section for continuation awards for projects that were funded under sections 711 and 777a of this title (as such sections were in effect on the day before August 7, 1998).”
 
-Subsec. (c)(2)(F), (G). Pub. L. 113–128, § 442(2)(A), added par. (F) and redesignated former par. (F) as (G).
+Subsec. (c)(2)(F), (G). Pub. L. 113–128, § 442(2)(A), added par. (F) and redesignated former par. (F) as (G).
 
-Subsec. (c)(4)(A)(ii). Pub. L. 113–128, § 442(2)(B)(i), inserted “the” after “closely with” and “, the community parent resource centers established pursuant to section 1472 of title 20, and the eligible entities receiving awards under section 1473 of title 20” after “section 1471 of title 20”.
+Subsec. (c)(4)(A)(ii). Pub. L. 113–128, § 442(2)(B)(i), inserted “the” after “closely with” and “, the community parent resource centers established pursuant to section 1472 of title 20, and the eligible entities receiving awards under section 1473 of title 20” after “section 1471 of title 20”.
 
-Subsec. (c)(4)(C). Pub. L. 113–128, § 442(2)(B)(ii), inserted “, and demonstrate the capacity for serving,” after “shall serve”.
+Subsec. (c)(4)(C). Pub. L. 113–128, § 442(2)(B)(ii), inserted “, and demonstrate the capacity for serving,” after “shall serve”.
 
-Subsec. (c)(8). Pub. L. 113–128, § 442(2)(C), added par. (8).
+Subsec. (c)(8). Pub. L. 113–128, § 442(2)(C), added par. (8).
 
-Subsec. (e). Pub. L. 113–128, § 442(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.”
+Subsec. (e). Pub. L. 113–128, § 442(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.”
 
-2004—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, § 305(h)(6), substituted “section 1471” for “section 1482(a)”.
+2004—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, § 305(h)(6), substituted “section 1471” for “section 1482(a)”.
 
-Subsec. (c)(6). Pub. L. 108–446, § 305(h)(5), substituted “section 1471” for “section 1482(a)”.
+Subsec. (c)(6). Pub. L. 108–446, § 305(h)(5), substituted “section 1471” for “section 1482(a)”.
 
-### §§ 774, 775. Repealed. Pub. L. 113–128, title IV, § 443(1), July 22, 2014, 128 Stat. 1674
+### §§ 774, 775. Repealed. Pub. L. 113–128, title IV, § 443(1), July 22, 2014, 128 Stat. 1674
 
-Section 774, Pub. L. 93–112, title III, § 304, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1195, related to grants for vocational rehabilitation services to individuals with disabilities who are migrant or seasonal farmworkers and to the family members who are residing with such individuals.
+Section 774, Pub. L. 93–112, title III, § 304, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1195, related to grants for vocational rehabilitation services to individuals with disabilities who are migrant or seasonal farmworkers and to the family members who are residing with such individuals.
 
-A prior section 774, Pub. L. 93–112, title III, § 304, formerly title II, § 203, Sept. 26, 1973, 87 Stat. 376, renumbered and amended, which related to Federal grants, contracts, and programs for training in rehabilitation services, was renumbered section 302 of Pub. L. 93–112, by Pub. L. 102–569, title III, § 301(b)(3), Oct. 29, 1992, 106 Stat. 4411, and transferred to section 771a of this title, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 774, Pub. L. 93–112, title III, § 304, formerly title II, § 203, Sept. 26, 1973, 87 Stat. 376, renumbered and amended, which related to Federal grants, contracts, and programs for training in rehabilitation services, was renumbered section 302 of Pub. L. 93–112, by Pub. L. 102–569, title III, § 301(b)(3), Oct. 29, 1992, 106 Stat. 4411, and transferred to section 771a of this title, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 774, Pub. L. 93–112, title III, § 304, Sept. 26, 1973, 87 Stat. 381; Pub. L. 93–516, title I, §§ 106, 111(i)–(k), Dec. 7, 1974, 88 Stat. 1619, 1621; Pub. L. 93–651, title I, §§ 106, 111(i)–(k), Nov. 21, 1974, 89 Stat. 2–4, 2–6; Pub. L. 94–230, §§ 6, 11(b)(9), Mar. 15, 1976, 90 Stat. 212, 213, related to special projects and demonstrations, prior to repeal by Pub. L. 95–602, title I, § 109(1), Nov. 6, 1978, 92 Stat. 2962.
+Another prior section 774, Pub. L. 93–112, title III, § 304, Sept. 26, 1973, 87 Stat. 381; Pub. L. 93–516, title I, §§ 106, 111(i)–(k), Dec. 7, 1974, 88 Stat. 1619, 1621; Pub. L. 93–651, title I, §§ 106, 111(i)–(k), Nov. 21, 1974, 89 Stat. 2–4, 2–6; Pub. L. 94–230, §§ 6, 11(b)(9), Mar. 15, 1976, 90 Stat. 212, 213, related to special projects and demonstrations, prior to repeal by Pub. L. 95–602, title I, § 109(1), Nov. 6, 1978, 92 Stat. 2962.
 
-Section 775, Pub. L. 93–112, title III, § 305, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1196, related to grants to recreation programs to provide individuals with disabilities with recreational activities and related experiences.
+Section 775, Pub. L. 93–112, title III, § 305, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1196, related to grants to recreation programs to provide individuals with disabilities with recreational activities and related experiences.
 
-A prior section 775, Pub. L. 93–112, title III, § 305, as added Pub. L. 95–602, title I, § 115(a), Nov. 6, 1978, 92 Stat. 2971; amended Pub. L. 98–221, title I, § 134, Feb. 22, 1984, 98 Stat. 25; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 404, title X, § 1002(d)(3), Oct. 21, 1986, 100 Stat. 1810, 1825, 1844; Pub. L. 100–630, title II, § 204(d), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(d), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, § 102(p)(19), title III, § 305, Oct. 29, 1992, 106 Stat. 4358, 4417, related to comprehensive rehabilitation centers, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 775, Pub. L. 93–112, title III, § 305, as added Pub. L. 95–602, title I, § 115(a), Nov. 6, 1978, 92 Stat. 2971; amended Pub. L. 98–221, title I, § 134, Feb. 22, 1984, 98 Stat. 25; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 404, title X, § 1002(d)(3), Oct. 21, 1986, 100 Stat. 1810, 1825, 1844; Pub. L. 100–630, title II, § 204(d), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(d), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, § 102(p)(19), title III, § 305, Oct. 29, 1992, 106 Stat. 4358, 4417, related to comprehensive rehabilitation centers, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 775, Pub. L. 93–112, title III, § 305, Sept. 26, 1973, 87 Stat. 383, as amended, which authorized appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for the establishment of the Helen Keller National Center for Deaf-Blind Youths and Adults, was renumbered section 313 of Pub. L. 93–112 by Pub. L. 95–602, title I, § 109(1), Nov. 6, 1978, 92 Stat. 2962, transferred to section 777c of this title, and subsequently repealed by Pub. L. 100–630.
+Another prior section 775, Pub. L. 93–112, title III, § 305, Sept. 26, 1973, 87 Stat. 383, as amended, which authorized appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for the establishment of the Helen Keller National Center for Deaf-Blind Youths and Adults, was renumbered section 313 of Pub. L. 93–112 by Pub. L. 95–602, title I, § 109(1), Nov. 6, 1978, 92 Stat. 2962, transferred to section 777c of this title, and subsequently repealed by Pub. L. 100–630.
 
-### § 776. Measuring of project outcomes and performance
+### § 776. Measuring of project outcomes and performance
 
 The Commissioner may require that recipients of grants under this subchapter submit information, including data, as determined by the Commissioner to be necessary to measure project outcomes and performance, including any data needed to comply with the Government Performance and Results Act.
 
-(Pub. L. 93–112, title III, § 304, formerly § 306, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1197; renumbered § 304, Pub. L. 113–128, title IV, § 443(2), July 22, 2014, 128 Stat. 1674.)
+(Pub. L. 93–112, title III, § 304, formerly § 306, as added Pub. L. 105–220, title IV, § 406, Aug. 7, 1998, 112 Stat. 1197; renumbered § 304, Pub. L. 113–128, title IV, § 443(2), July 22, 2014, 128 Stat. 1674.)
 
 **Editorial Notes**
 
@@ -5851,29 +5851,29 @@ The Government Performance and Results Act, referred to in text, probably means 
 
 **Prior Provisions**
 
-A prior section 304 of Pub. L. 93–112 was classified to section 774 of this title prior to repeal by Pub. L. 113–128, § 443(1).
+A prior section 304 of Pub. L. 93–112 was classified to section 774 of this title prior to repeal by Pub. L. 113–128, § 443(1).
 
 Prior sections 776 to 777b were omitted in the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 776, Pub. L. 93–112, title III, § 306, Sept. 26, 1973, 87 Stat. 384; Pub. L. 93–516, title I, § 111(*l*), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, § 111(*l*), Nov. 21, 1974, 89 Stat. 2–6; Pub. L. 95–602, title I, §§ 115(b), 122(c)(4)–(6), Nov. 6, 1978, 92 Stat. 2972, 2987; Pub. L. 99–506, title I, § 103(d)(2)(C), title X, § 1002(d)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–630, title II, § 204(e), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–569, title I, § 102(p)(20), title III, § 306, Oct. 29, 1992, 106 Stat. 4359, 4417, related to general grant and contract requirements.
+Section 776, Pub. L. 93–112, title III, § 306, Sept. 26, 1973, 87 Stat. 384; Pub. L. 93–516, title I, § 111(*l*), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, § 111(*l*), Nov. 21, 1974, 89 Stat. 2–6; Pub. L. 95–602, title I, §§ 115(b), 122(c)(4)–(6), Nov. 6, 1978, 92 Stat. 2972, 2987; Pub. L. 99–506, title I, § 103(d)(2)(C), title X, § 1002(d)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–630, title II, § 204(e), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–569, title I, § 102(p)(20), title III, § 306, Oct. 29, 1992, 106 Stat. 4359, 4417, related to general grant and contract requirements.
 
-Section 777, Pub. L. 93–112, title III, § 310, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2973; amended Pub. L. 98–221, title I, § 135, title II, § 208(b), Feb. 22, 1984, 98 Stat. 25, 34; Pub. L. 99–506, title IV, § 405, Oct. 21, 1986, 100 Stat. 1825; Pub. L. 100–630, title II, § 204(f), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(e)(1), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title III, § 307, Oct. 29, 1992, 106 Stat. 4418; Pub. L. 103–73, title I, § 110(b), Aug. 11, 1993, 107 Stat. 726, authorized appropriations.
+Section 777, Pub. L. 93–112, title III, § 310, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2973; amended Pub. L. 98–221, title I, § 135, title II, § 208(b), Feb. 22, 1984, 98 Stat. 25, 34; Pub. L. 99–506, title IV, § 405, Oct. 21, 1986, 100 Stat. 1825; Pub. L. 100–630, title II, § 204(f), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(e)(1), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title III, § 307, Oct. 29, 1992, 106 Stat. 4418; Pub. L. 103–73, title I, § 110(b), Aug. 11, 1993, 107 Stat. 726, authorized appropriations.
 
-Section 777a, Pub. L. 93–112, title III, § 311, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2973; amended Pub. L. 98–221, title I, § 136, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, § 302(b), title IV, § 406, Oct. 21, 1986, 100 Stat. 1810, 1821, 1826; Pub. L. 100–630, title II, § 204(g), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(e)(2), June 6, 1991, 105 Stat. 261; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, § 102(p)(21), title III, § 308, Oct. 29, 1992, 106 Stat. 4359, 4418; Pub. L. 103–73, title I, § 110(c), Aug. 11, 1993, 107 Stat. 726; Pub. L. 104–66, title I, § 1041(b), Dec. 21, 1995, 109 Stat. 714, related to special demonstration programs.
+Section 777a, Pub. L. 93–112, title III, § 311, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2973; amended Pub. L. 98–221, title I, § 136, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, § 302(b), title IV, § 406, Oct. 21, 1986, 100 Stat. 1810, 1821, 1826; Pub. L. 100–630, title II, § 204(g), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(e)(2), June 6, 1991, 105 Stat. 261; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, § 102(p)(21), title III, § 308, Oct. 29, 1992, 106 Stat. 4359, 4418; Pub. L. 103–73, title I, § 110(c), Aug. 11, 1993, 107 Stat. 726; Pub. L. 104–66, title I, § 1041(b), Dec. 21, 1995, 109 Stat. 714, related to special demonstration programs.
 
-Section 777b, Pub. L. 93–112, title III, § 312, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2974; amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 100–630, title II, § 204(h), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–569, title I, § 102(p)(22), title III, § 309, Oct. 29, 1992, 106 Stat. 4359, 4420, related to migratory workers, maintenance payments, and coordination with other programs.
+Section 777b, Pub. L. 93–112, title III, § 312, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2974; amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 100–630, title II, § 204(h), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–569, title I, § 102(p)(22), title III, § 309, Oct. 29, 1992, 106 Stat. 4359, 4420, related to migratory workers, maintenance payments, and coordination with other programs.
 
-A prior section 777c, Pub. L. 93–112, title III, § 313, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2974, related to Helen Keller National Center for Deaf-Blind Youths and Adults, prior to repeal by Pub. L. 98–221, title II, § 203(a), Feb. 22, 1984, 98 Stat. 33. See chapter 21 (§ 1901 et seq.) of this title.
+A prior section 777c, Pub. L. 93–112, title III, § 313, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2974, related to Helen Keller National Center for Deaf-Blind Youths and Adults, prior to repeal by Pub. L. 98–221, title II, § 203(a), Feb. 22, 1984, 98 Stat. 33. See chapter 21 (§ 1901 et seq.) of this title.
 
-Another prior section 777c, Pub. L. 93–112, title III, § 313, formerly § 305, Sept. 26, 1973, 87 Stat. 383; Pub. L. 93–516, title I, § 107, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 107, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 7, 11(b)(10), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 94–288, §§ 1, 2, May 21, 1976, 90 Stat. 520; renumbered § 313, Pub. L. 95–602, title I, § 109(1), Nov. 6, 1978, 92 Stat. 2962, formerly classified to section 775 of this title, authorized appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for establishment of Helen Keller National Center for Deaf-Blind Youths and Adults, prior to repeal by Pub. L. 100–630, title II, § 204(k), Nov. 7, 1988, 102 Stat. 3309.
+Another prior section 777c, Pub. L. 93–112, title III, § 313, formerly § 305, Sept. 26, 1973, 87 Stat. 383; Pub. L. 93–516, title I, § 107, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 107, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 7, 11(b)(10), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 94–288, §§ 1, 2, May 21, 1976, 90 Stat. 520; renumbered § 313, Pub. L. 95–602, title I, § 109(1), Nov. 6, 1978, 92 Stat. 2962, formerly classified to section 775 of this title, authorized appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for establishment of Helen Keller National Center for Deaf-Blind Youths and Adults, prior to repeal by Pub. L. 100–630, title II, § 204(k), Nov. 7, 1988, 102 Stat. 3309.
 
 Prior sections 777d to 777f were omitted in the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 777d, Pub. L. 93–112, title III, § 314, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2975; amended Pub. L. 100–630, title II, § 204(i), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–569, title I, § 102(p)(23), Oct. 29, 1992, 106 Stat. 4359, related to reader services for individuals who are blind.
+Section 777d, Pub. L. 93–112, title III, § 314, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2975; amended Pub. L. 100–630, title II, § 204(i), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–569, title I, § 102(p)(23), Oct. 29, 1992, 106 Stat. 4359, related to reader services for individuals who are blind.
 
-Section 777e, Pub. L. 93–112, title III, § 315, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2975; amended Pub. L. 102–569, title I, § 102(p)(24), Oct. 29, 1992, 106 Stat. 4359, related to interpreter services for individuals who are deaf.
+Section 777e, Pub. L. 93–112, title III, § 315, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2975; amended Pub. L. 102–569, title I, § 102(p)(24), Oct. 29, 1992, 106 Stat. 4359, related to interpreter services for individuals who are deaf.
 
-Section 777f, Pub. L. 93–112, title III, § 316, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2976; amended Pub. L. 98–221, title I, § 137, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 407, Oct. 21, 1986, 100 Stat. 1810, 1827; Pub. L. 100–630, title II, § 204(j), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(e)(3), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, § 102(p)(25), title III, § 310, Oct. 29, 1992, 106 Stat. 4359, 4420; Pub. L. 103–73, title I, § 110(d), Aug. 11, 1993, 107 Stat. 726, related to special recreational programs.
+Section 777f, Pub. L. 93–112, title III, § 316, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2976; amended Pub. L. 98–221, title I, § 137, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 407, Oct. 21, 1986, 100 Stat. 1810, 1827; Pub. L. 100–630, title II, § 204(j), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(e)(3), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, § 102(p)(25), title III, § 310, Oct. 29, 1992, 106 Stat. 4359, 4420; Pub. L. 103–73, title I, § 110(d), Aug. 11, 1993, 107 Stat. 726, related to special recreational programs.
 
 ## SUBCHAPTER IV—NATIONAL COUNCIL ON DISABILITY
 
@@ -5881,9 +5881,9 @@ Section 777f, Pub. L. 93–112, title III, § 316, as added Pub. L. 95–602, 
 
 **Codification**
 
-Title IV of the Rehabilitation Act of 1973, comprising this subchapter, was originally enacted by Pub. L. 93–112, title IV, Sept. 26, 1973, 87 Stat. 385, and amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707. Title IV is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1198, without reference to those intervening amendments because of the extensive revision of title IV by Pub. L. 105–220.
+Title IV of the Rehabilitation Act of 1973, comprising this subchapter, was originally enacted by Pub. L. 93–112, title IV, Sept. 26, 1973, 87 Stat. 385, and amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707. Title IV is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1198, without reference to those intervening amendments because of the extensive revision of title IV by Pub. L. 105–220.
 
-### § 780. Establishment of National Council on Disability
+### § 780. Establishment of National Council on Disability
 
 **(a) Membership; purpose**
 
@@ -5945,15 +5945,15 @@ The President shall designate the Chairperson from among the members appointed t
 
 Five members of the National Council shall constitute a quorum and any vacancy in the National Council shall not affect its power to function.
 
-(Pub. L. 93–112, title IV, § 400, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1198; amended Pub. L. 112–166, § 2(q), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 113–128, title IV, § 451, July 22, 2014, 128 Stat. 1674; Pub. L. 114–18, § 3(a), May 22, 2015, 129 Stat. 214.)
+(Pub. L. 93–112, title IV, § 400, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1198; amended Pub. L. 112–166, § 2(q), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 113–128, title IV, § 451, July 22, 2014, 128 Stat. 1674; Pub. L. 114–18, § 3(a), May 22, 2015, 129 Stat. 214.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 780, Pub. L. 93–112, title IV, § 400, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, § 141(a), Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, § 103(d)(2)(C), title V, § 501, title X, § 1001(e), Oct. 21, 1986, 100 Stat. 1810, 1828, 1843; Pub. L. 100–630, title II, § 205(b), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, § 102(p)(26), title IV, § 401, Oct. 29, 1992, 106 Stat. 4360, 4421, related to establishment of the National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 780, Pub. L. 93–112, title IV, § 400, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, § 141(a), Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, § 103(d)(2)(C), title V, § 501, title X, § 1001(e), Oct. 21, 1986, 100 Stat. 1810, 1828, 1843; Pub. L. 100–630, title II, § 205(b), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, § 102(p)(26), title IV, § 401, Oct. 29, 1992, 106 Stat. 4360, 4421, related to establishment of the National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 780, Pub. L. 93–112, title IV, § 400, Sept. 26, 1973, 87 Stat. 385, related to general administrative powers of Secretary under this chapter, prior to repeal by Pub. L. 95–602, § 117.
+Another prior section 780, Pub. L. 93–112, title IV, § 400, Sept. 26, 1973, 87 Stat. 385, related to general administrative powers of Secretary under this chapter, prior to repeal by Pub. L. 95–602, § 117.
 
 **Amendments**
 
@@ -5967,7 +5967,7 @@ Another prior section 780, Pub. L. 93–112, title IV, § 400, Sept. 26, 1973,
 
 “(3) Any member appointed to fill a vacancy occurring before the expiration of the term for which such member’s predecessor was appointed shall be appointed only for the remainder of such term.”
 
-2014—Subsec. (a)(1)(A) to (C). Pub. L. 113–128, § 451(1)(B), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
+2014—Subsec. (a)(1)(A) to (C). Pub. L. 113–128, § 451(1)(B), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
 
 “(1)(A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the ‘National Council’), which shall be composed of fifteen members appointed by the President.
 
@@ -5979,27 +5979,27 @@ Another prior section 780, Pub. L. 93–112, title IV, § 400, Sept. 26, 1973,
 
 Former subpar. (C) redesignated (D).
 
-Subsec. (a)(1)(D). Pub. L. 113–128, § 451(1)(C), inserted “national leaders on disability policy,” after “guardians of individuals with disabilities,” and substituted “policy or issues that affect individuals with disabilities” for “policy or programs”.
+Subsec. (a)(1)(D). Pub. L. 113–128, § 451(1)(C), inserted “national leaders on disability policy,” after “guardians of individuals with disabilities,” and substituted “policy or issues that affect individuals with disabilities” for “policy or programs”.
 
-Pub. L. 113–128, § 451(1)(A), redesignated subpar. (C) as (D).
+Pub. L. 113–128, § 451(1)(A), redesignated subpar. (C) as (D).
 
-Subsec. (b). Pub. L. 113–128, § 451(2), which directed substitution of a period for “ ‘, except’ and all that follows”, was executed by substituting a period for “, except that the terms of service of the members initially appointed after November 6, 1978, shall be (as specified by the President) for such fewer number of years as will provide for the expiration of terms on a staggered basis.” in par. (1), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 113–128, § 451(2), which directed substitution of a period for “ ‘, except’ and all that follows”, was executed by substituting a period for “, except that the terms of service of the members initially appointed after November 6, 1978, shall be (as specified by the President) for such fewer number of years as will provide for the expiration of terms on a staggered basis.” in par. (1), to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 113–128, § 451(3), substituted “Five” for “Eight”.
+Subsec. (d). Pub. L. 113–128, § 451(3), substituted “Five” for “Eight”.
 
-2012—Subsec. (a)(1)(A). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+2012—Subsec. (a)(1)(A). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–18, § 3(b), May 22, 2015, 129 Stat. 214, provided that: “The amendment made by this section [amending this section] shall take effect as if enacted 1 day after the date of enactment of the Workforce Innovation and Opportunity Act [Pub. L. 113–128, approved July 22, 2014] (29 U.S.C. 3101 et seq.).”
+Pub. L. 114–18, § 3(b), May 22, 2015, 129 Stat. 214, provided that: “The amendment made by this section [amending this section] shall take effect as if enacted 1 day after the date of enactment of the Workforce Innovation and Opportunity Act [Pub. L. 113–128, approved July 22, 2014] (29 U.S.C. 3101 et seq.).”
 
 **Effective Date of 2012 Amendment**
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
-### § 780a. Independent status of National Council on the Handicapped
+### § 780a. Independent status of National Council on the Handicapped
 
 **(1) Council as independent agency within Federal Government**
 
@@ -6013,13 +6013,13 @@ There are transferred to the Chairman of the National Council on the Handicapped
 
 References in any statute, reorganization plan, Executive order, regulation, or other official document or proceeding to the Department of Education or the Secretary of Education with respect to functions or activities relating to the National Council on the Handicapped shall be deemed to refer to the National Council on the Handicapped or the Chairman of the National Council on the Handicapped, respectively.
 
-(Pub. L. 98–221, title I, § 141(b), Feb. 22, 1984, 98 Stat. 26.)
+(Pub. L. 98–221, title I, § 141(b), Feb. 22, 1984, 98 Stat. 26.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973, referred to in par. (2), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in par. (2), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 **Codification**
 
@@ -6029,9 +6029,9 @@ Section was enacted as part of the Rehabilitation Amendments of 1984, and not as
 
 **Change of Name**
 
-The National Council on the Handicapped was established by former section 780 of this title and was redesignated the National Council on Disability by an amendment to that section by Pub. L. 100–630, title II, § 205(b), Nov. 7, 1988, 102 Stat. 3310.
+The National Council on the Handicapped was established by former section 780 of this title and was redesignated the National Council on Disability by an amendment to that section by Pub. L. 100–630, title II, § 205(b), Nov. 7, 1988, 102 Stat. 3310.
 
-### § 781. Duties of National Council
+### § 781. Duties of National Council
 
 **(a) In general** The National Council shall—
 
@@ -6069,27 +6069,27 @@ in order to assess the effectiveness of such policies, programs, practices, proc
 
 **(3)** In determining the issues to focus on and the findings, conclusions, and recommendations to include in the report, the National Council shall seek input from the public, particularly individuals with disabilities, representatives of organizations representing a broad range of individuals with disabilities, and organizations and agencies interested in individuals with disabilities.
 
-(Pub. L. 93–112, title IV, § 401, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1199; amended Pub. L. 105–394, title II, § 202, Nov. 13, 1998, 112 Stat. 3653; Pub. L. 106–402, title IV, § 401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–364, § 3(b)(2), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, § 452, July 22, 2014, 128 Stat. 1675.)
+(Pub. L. 93–112, title IV, § 401, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1199; amended Pub. L. 105–394, title II, § 202, Nov. 13, 1998, 112 Stat. 3653; Pub. L. 106–402, title IV, § 401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–364, § 3(b)(2), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, § 452, July 22, 2014, 128 Stat. 1675.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(5)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(5)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 781, Pub. L. 93–112, title IV, § 401, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, § 142, Feb. 22, 1984, 98 Stat. 27; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, § 302(b), title V, § 502, Oct. 21, 1986, 100 Stat. 1810, 1821, 1828; Pub. L. 100–630, title II, § 205(c), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, § 102(p)(27), title IV, § 402, Oct. 29, 1992, 106 Stat. 4360, 4422; Pub. L. 104–66, title II, § 2131, Dec. 21, 1995, 109 Stat. 731, related to duties of National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 781, Pub. L. 93–112, title IV, § 401, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, § 142, Feb. 22, 1984, 98 Stat. 27; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, § 302(b), title V, § 502, Oct. 21, 1986, 100 Stat. 1810, 1821, 1828; Pub. L. 100–630, title II, § 205(c), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, § 102(p)(27), title IV, § 402, Oct. 29, 1992, 106 Stat. 4360, 4422; Pub. L. 104–66, title II, § 2131, Dec. 21, 1995, 109 Stat. 731, related to duties of National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 781, Pub. L. 93–112, title IV, § 401, Sept. 26, 1973, 87 Stat. 386, related to program and project evaluation, prior to repeal by Pub. L. 95–602, § 117.
+Another prior section 781, Pub. L. 93–112, title IV, § 401, Sept. 26, 1973, 87 Stat. 386, related to program and project evaluation, prior to repeal by Pub. L. 95–602, § 117.
 
 **Amendments**
 
-Subsec. (a)(1), (3). Pub. L. 113–128, § 452(1), substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
+Subsec. (a)(1), (3). Pub. L. 113–128, § 452(1), substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
 
-Subsec. (c). Pub. L. 113–128, § 452(2), struck out subsec. (c) which required a report describing the barriers in Federal assistive technology policy to increasing the availability of and access to assistive technology devices and assistive technology services for individuals with disabilities.
+Subsec. (c). Pub. L. 113–128, § 452(2), struck out subsec. (c) which required a report describing the barriers in Federal assistive technology policy to increasing the availability of and access to assistive technology devices and assistive technology services for individuals with disabilities.
 
 2004—Subsec. (c)(2). Pub. L. 108–364 substituted “targeted individuals and entities” for “targeted individuals”.
 
@@ -6107,7 +6107,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of section 3515e of Title 42, The Public Health and Welfare.
 
-### § 782. Compensation of National Council members
+### § 782. Compensation of National Council members
 
 **(a) Rate**
 
@@ -6121,17 +6121,17 @@ Members of the National Council who are full-time officers or employees of the U
 
 While away from their homes or regular places of business in the performance of services for the National Council, members of the National Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
-(Pub. L. 93–112, title IV, § 402, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1200.)
+(Pub. L. 93–112, title IV, § 402, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1200.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 782, Pub. L. 93–112, title IV, § 402, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2978; amended Pub. L. 100–630, title II, § 205(d), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title IV, § 403, Oct. 29, 1992, 106 Stat. 4423, related to compensation of National Council members, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 782, Pub. L. 93–112, title IV, § 402, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2978; amended Pub. L. 100–630, title II, § 205(d), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title IV, § 403, Oct. 29, 1992, 106 Stat. 4423, related to compensation of National Council members, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 782, Pub. L. 93–112, title IV, § 402, Sept. 26, 1973, 87 Stat. 387, authorized the Secretary to obtain information from Federal agencies, prior to repeal by Pub. L. 95–602, § 117.
+Another prior section 782, Pub. L. 93–112, title IV, § 402, Sept. 26, 1973, 87 Stat. 387, authorized the Secretary to obtain information from Federal agencies, prior to repeal by Pub. L. 95–602, § 117.
 
-### § 783. Staff of National Council
+### § 783. Staff of National Council
 
 **(a) Executive Director; technical and professional employees**
 
@@ -6159,25 +6159,25 @@ The Administrator of General Services shall provide to the National Council on a
 
 **(d) Investment of amounts not required for current withdrawals**
 
-**(1)** It shall be the duty of the Secretary of the Treasury to invest such portion of the amounts made available under subsection (a)(2)(B) 1
+**(1)** It shall be the duty of the Secretary of the Treasury to invest such portion of the amounts made available under subsection (a)(2)(B) 1
 
-<sup>1</sup>  So in original. Probably should be subsection “(b)(2)(B)”.
+<sup>1</sup> So in original. Probably should be subsection “(b)(2)(B)”.
 
 as is not, in the Secretary’s judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
 **(2)** The amounts described in paragraph (1), and the interest on, and the proceeds from the sale or redemption of, the obligations described in paragraph (1) shall be available to the National Council to carry out this subchapter.
 
-(Pub. L. 93–112, title IV, § 403, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1200.)
+(Pub. L. 93–112, title IV, § 403, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1200.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 783, Pub. L. 93–112, title IV, § 403, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2978; amended Pub. L. 98–221, title I, § 143, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, § 103(d)(2)(C), title V, § 503, Oct. 21, 1986, 100 Stat. 1810, 1829; Pub. L. 100–630, title II, § 205(e), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, § 102(p)(28), title IV, § 404, Oct. 29, 1992, 106 Stat. 4360, 4423; Pub. L. 103–73, title I, § 111, Aug. 11, 1993, 107 Stat. 727, related to National Council staff, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 783, Pub. L. 93–112, title IV, § 403, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2978; amended Pub. L. 98–221, title I, § 143, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, § 103(d)(2)(C), title V, § 503, Oct. 21, 1986, 100 Stat. 1810, 1829; Pub. L. 100–630, title II, § 205(e), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, § 102(p)(28), title IV, § 404, Oct. 29, 1992, 106 Stat. 4360, 4423; Pub. L. 103–73, title I, § 111, Aug. 11, 1993, 107 Stat. 727, related to National Council staff, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 783, Pub. L. 93–112, title IV, § 403, Sept. 26, 1973, 87 Stat. 387; Pub. L. 93–516, title I, § 108, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 108, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 8, 11(b)(11), Mar. 15, 1976, 90 Stat. 212, 213, authorized appropriations to conduct program and project evaluations, prior to repeal by Pub. L. 95–602, § 117.
+Another prior section 783, Pub. L. 93–112, title IV, § 403, Sept. 26, 1973, 87 Stat. 387; Pub. L. 93–516, title I, § 108, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 108, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 8, 11(b)(11), Mar. 15, 1976, 90 Stat. 212, 213, authorized appropriations to conduct program and project evaluations, prior to repeal by Pub. L. 95–602, § 117.
 
-### § 784. Administrative powers of National Council
+### § 784. Administrative powers of National Council
 
 **(a) Bylaws and rules**
 
@@ -6199,15 +6199,15 @@ The National Council may use the United States mails in the same manner and upon
 
 The National Council may use, with the consent of the agencies represented on the Interagency Disability Coordinating Council, and as authorized in subchapter V, such services, personnel, information, and facilities as may be needed to carry out its duties under this subchapter, with or without reimbursement to such agencies.
 
-(Pub. L. 93–112, title IV, § 404, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1201.)
+(Pub. L. 93–112, title IV, § 404, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1201.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 784, Pub. L. 93–112, title IV, § 404, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2979; amended Pub. L. 102–569, title IV, § 405, Oct. 29, 1992, 106 Stat. 4423, related to administrative powers of National Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 784, Pub. L. 93–112, title IV, § 404, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2979; amended Pub. L. 102–569, title IV, § 405, Oct. 29, 1992, 106 Stat. 4423, related to administrative powers of National Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 784, Pub. L. 93–112, title IV, § 404, Sept. 26, 1973, 87 Stat. 387, directed Secretary to submit annual reports to the President and to Congress on activities carried out under this chapter, prior to repeal by Pub. L. 95–602, § 117.
+Another prior section 784, Pub. L. 93–112, title IV, § 404, Sept. 26, 1973, 87 Stat. 387, directed Secretary to submit annual reports to the President and to Congress on activities carried out under this chapter, prior to repeal by Pub. L. 95–602, § 117.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6215,25 +6215,25 @@ Another prior section 784, Pub. L. 93–112, title IV, § 404, Sept. 26, 1973,
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 785. Authorization of appropriations
+### § 785. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter $3,186,000 for fiscal year 2015, $3,432,000 for fiscal year 2016, $3,503,000 for fiscal year 2017, $3,581,000 for fiscal year 2018, $3,665,000 for fiscal year 2019, and $3,743,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title IV, § 405, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1202; amended Pub. L. 113–128, title IV, § 453, July 22, 2014, 128 Stat. 1675.)
+(Pub. L. 93–112, title IV, § 405, as added Pub. L. 105–220, title IV, § 407, Aug. 7, 1998, 112 Stat. 1202; amended Pub. L. 113–128, title IV, § 453, July 22, 2014, 128 Stat. 1675.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 785, Pub. L. 93–112, title IV, § 405, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2979; amended Pub. L. 99–506, title V, § 504, Oct. 21, 1986, 100 Stat. 1829; Pub. L. 102–52, § 5, June 6, 1991, 105 Stat. 262; Pub. L. 102–569, title IV, § 406, Oct. 29, 1992, 106 Stat. 4423, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 785, Pub. L. 93–112, title IV, § 405, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2979; amended Pub. L. 99–506, title V, § 504, Oct. 21, 1986, 100 Stat. 1829; Pub. L. 102–52, § 5, June 6, 1991, 105 Stat. 262; Pub. L. 102–569, title IV, § 406, Oct. 29, 1992, 106 Stat. 4423, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 785, Pub. L. 93–112, title IV, § 405, Sept. 26, 1973, 87 Stat. 388; Pub. L. 93–516, title I, §§ 109, 111(m), Dec. 7, 1974, 88 Stat. 1619, 1621; Pub. L. 93–651, title I, §§ 109, 111(m), Nov. 21, 1974, 89 Stat. 2–4, 2–6; Pub. L. 94–230, §§ 9, 11(b)(12), Mar. 15, 1976, 90 Stat. 212, 213, specified certain responsibilities of the Secretary, prior to repeal by Pub. L. 95–602, § 117.
+Another prior section 785, Pub. L. 93–112, title IV, § 405, Sept. 26, 1973, 87 Stat. 388; Pub. L. 93–516, title I, §§ 109, 111(m), Dec. 7, 1974, 88 Stat. 1619, 1621; Pub. L. 93–651, title I, §§ 109, 111(m), Nov. 21, 1974, 89 Stat. 2–4, 2–6; Pub. L. 94–230, §§ 9, 11(b)(12), Mar. 15, 1976, 90 Stat. 212, 213, specified certain responsibilities of the Secretary, prior to repeal by Pub. L. 95–602, § 117.
 
-Prior sections 786 and 787 were repealed by Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2977.
+Prior sections 786 and 787 were repealed by Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2977.
 
-Section 786, Pub. L. 93–112, title IV, § 406, Sept. 26, 1973, 87 Stat. 389; S. Res. 4, Feb. 4, 1977, provided that the Secretary conduct a study on the role of sheltered workshops in the rehabilitation and employment of handicapped individuals and report the results of this study to Congress within twenty-four months after Sept. 26, 1973.
+Section 786, Pub. L. 93–112, title IV, § 406, Sept. 26, 1973, 87 Stat. 389; S. Res. 4, Feb. 4, 1977, provided that the Secretary conduct a study on the role of sheltered workshops in the rehabilitation and employment of handicapped individuals and report the results of this study to Congress within twenty-four months after Sept. 26, 1973.
 
-Section 787, Pub. L. 93–112, title IV, § 407, Sept. 26, 1973, 87 Stat. 389, provided that the Secretary conduct a study on allotment of funds among the States for grants for basic vocational rehabilitation and report the results of this study to Congress not later than June 30, 1974.
+Section 787, Pub. L. 93–112, title IV, § 407, Sept. 26, 1973, 87 Stat. 389, provided that the Secretary conduct a study on allotment of funds among the States for grants for basic vocational rehabilitation and report the results of this study to Congress not later than June 30, 1974.
 
 **Amendments**
 
@@ -6241,11 +6241,11 @@ Section 787, Pub. L. 93–112, title IV, § 407, Sept. 26, 1973, 87 Stat. 389,
 
 ## SUBCHAPTER V—RIGHTS AND ADVOCACY
 
-### § 790. Repealed. Pub. L. 102–569, title V, § 502(a), Oct. 29, 1992, 106 Stat. 4424
+### § 790. Repealed. Pub. L. 102–569, title V, § 502(a), Oct. 29, 1992, 106 Stat. 4424
 
-Section, Pub. L. 93–112, title V, § 500, Sept. 26, 1973, 87 Stat. 390, related to effects on existing law, references in other provisions, availability of unexpended appropriations, savings provision, and extension of appropriations.
+Section, Pub. L. 93–112, title V, § 500, Sept. 26, 1973, 87 Stat. 390, related to effects on existing law, references in other provisions, availability of unexpended appropriations, savings provision, and extension of appropriations.
 
-### § 791. Employment of individuals with disabilities
+### § 791. Employment of individuals with disabilities
 
 **(a) Interagency Committee on Employees who are Individuals with Disabilities; establishment; membership; co-chairmen; availability of other Committee resources; purpose and functions**
 
@@ -6271,11 +6271,11 @@ An individual who, as a part of an individualized plan for employment under a St
 
 The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, § 501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, § 104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, § 103(d)(2)(C), title X, §§ 1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, § 206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, § 13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, § 102(p)(29), title V, § 503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, § 112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, § 341(c), title IV, § 408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, § 604(d), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–256, § 2(d)(3), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, § 456(a), July 22, 2014, 128 Stat. 1675.)
+(Pub. L. 93–112, title V, § 501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, § 104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, § 103(d)(2)(C), title X, §§ 1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, § 206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, § 13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, § 102(p)(29), title V, § 503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, § 112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, § 341(c), title IV, § 408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, § 604(d), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–256, § 2(d)(3), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, § 456(a), July 22, 2014, 128 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -6283,7 +6283,7 @@ of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 1221
 
 Level IV of the Executive Schedule, referred to in subsec. (a), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (f), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (f), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -6299,65 +6299,65 @@ Prior similar provisions were set out in section 38 of this title.
 
 2010—Subsec. (a). Pub. L. 111–256 substituted “President’s Disability Employment Partnership Board and the President’s Committee for People with Intellectual Disabilities” for “President’s Committees on Employment of People With Disabilities and on Mental Retardation”.
 
-2006—Subsec. (b). Pub. L. 109–435, § 604(d), substituted “Postal Regulatory Commission” for “Postal Rate Office”.
+2006—Subsec. (b). Pub. L. 109–435, § 604(d), substituted “Postal Regulatory Commission” for “Postal Rate Office”.
 
-1998—Subsec. (a). Pub. L. 105–220, § 408(a)(1)(A), substituted “President’s Committees on Employment of People With Disabilities” for “President’s Committees on Employment of the Handicapped” in third sentence.
+1998—Subsec. (a). Pub. L. 105–220, § 408(a)(1)(A), substituted “President’s Committees on Employment of People With Disabilities” for “President’s Committees on Employment of the Handicapped” in third sentence.
 
-Pub. L. 105–220, § 341(c)(1), inserted “and the Smithsonian Institution” after “Government” in fourth sentence.
+Pub. L. 105–220, § 341(c)(1), inserted “and the Smithsonian Institution” after “Government” in fourth sentence.
 
-Subsec. (b). Pub. L. 105–220, § 341(c)(2), in first sentence, inserted “and the Smithsonian Institution” after “in the executive branch” and substituted “such department, agency, instrumentality, or Institution” for “such department, agency, or instrumentality”.
+Subsec. (b). Pub. L. 105–220, § 341(c)(2), in first sentence, inserted “and the Smithsonian Institution” after “in the executive branch” and substituted “such department, agency, instrumentality, or Institution” for “such department, agency, or instrumentality”.
 
-Subsec. (d). Pub. L. 105–220, § 341(c)(3), inserted “and the Smithsonian Institution” after “instrumentality”.
+Subsec. (d). Pub. L. 105–220, § 341(c)(3), inserted “and the Smithsonian Institution” after “instrumentality”.
 
-Subsec. (e). Pub. L. 105–220, § 408(a)(1)(B), substituted “individualized plan for employment” for “individualized written rehabilitation program”.
+Subsec. (e). Pub. L. 105–220, § 408(a)(1)(B), substituted “individualized plan for employment” for “individualized written rehabilitation program”.
 
 1993—Subsec. (a). Pub. L. 103–73 in first sentence inserted comma after “Veterans Affairs”.
 
-1992—Pub. L. 102–569, § 102(p)(29)(A), substituted “disabilities” for “handicaps” in section catchline.
+1992—Pub. L. 102–569, § 102(p)(29)(A), substituted “disabilities” for “handicaps” in section catchline.
 
-Subsec. (a). Pub. L. 102–569, § 503(a), substituted “the Director of the Office of Personnel Management, the Secretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
+Subsec. (a). Pub. L. 102–569, § 503(a), substituted “the Director of the Office of Personnel Management, the Secretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
 
-Pub. L. 102–569, § 102(p)(29)(B), (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee on Handicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
+Pub. L. 102–569, § 102(p)(29)(B), (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee on Handicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
 
-Subsec. (b). Pub. L. 102–569, § 102(p)(29)(C), (D), substituted “individuals with disabilities” for “individuals with handicaps” after “advancement of” and after “opportunities for” and “employees who are individuals with disabilities” for “employees with handicaps”.
+Subsec. (b). Pub. L. 102–569, § 102(p)(29)(C), (D), substituted “individuals with disabilities” for “individuals with handicaps” after “advancement of” and after “opportunities for” and “employees who are individuals with disabilities” for “employees with handicaps”.
 
-Subsecs. (c), (d), (f)(2). Pub. L. 102–569, § 102(p)(29)(C), substituted “individuals with disabilities” for “individuals with handicaps”.
+Subsecs. (c), (d), (f)(2). Pub. L. 102–569, § 102(p)(29)(C), substituted “individuals with disabilities” for “individuals with handicaps”.
 
-Subsec. (g). Pub. L. 102–569, § 503(b), added subsec. (g).
+Subsec. (g). Pub. L. 102–569, § 503(b), added subsec. (g).
 
 1991—Subsec. (a). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1988—Subsec. (a). Pub. L. 100–630, § 206(a)(3)(C), which directed substitution of “Employment of People With Disabilities” for “Employment of the Handicapped” in second sentence, could not be executed because the words did not appear in second sentence.
+1988—Subsec. (a). Pub. L. 100–630, § 206(a)(3)(C), which directed substitution of “Employment of People With Disabilities” for “Employment of the Handicapped” in second sentence, could not be executed because the words did not appear in second sentence.
 
-Pub. L. 100–630, § 206(a)(1)–(3)(B), (4), inserted “(hereafter in this section referred to as the ‘Commission’)” after first reference to “Equal Employment Opportunity Commission” and substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing, “Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services” for “Secretaries of Labor and Education and Health and Human Services” in first sentence, “co-chairpersons” for “co-chairmen” in second sentence, and “Commission” for “Office” in cl. (2).
+Pub. L. 100–630, § 206(a)(1)–(3)(B), (4), inserted “(hereafter in this section referred to as the ‘Commission’)” after first reference to “Equal Employment Opportunity Commission” and substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing, “Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services” for “Secretaries of Labor and Education and Health and Human Services” in first sentence, “co-chairpersons” for “co-chairmen” in second sentence, and “Commission” for “Office” in cl. (2).
 
-Subsec. (b). Pub. L. 100–630, § 206(a)(2), (5), substituted “submit to the Commission” for “submit to the Equal Employment Opportunity Commission”, “employees with handicaps” for “handicapped employees”, and “Commission, if the Commission determines” for “Office, if the Office determines”.
+Subsec. (b). Pub. L. 100–630, § 206(a)(2), (5), substituted “submit to the Commission” for “submit to the Equal Employment Opportunity Commission”, “employees with handicaps” for “handicapped employees”, and “Commission, if the Commission determines” for “Office, if the Office determines”.
 
-Subsecs. (c), (d). Pub. L. 100–630, § 206(a)(2), substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing.
+Subsecs. (c), (d). Pub. L. 100–630, § 206(a)(2), substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing.
 
-Subsec. (e). Pub. L. 100–630, § 206(a)(6), substituted “an individualized” for “a individualized”.
+Subsec. (e). Pub. L. 100–630, § 206(a)(6), substituted “an individualized” for “a individualized”.
 
-Subsec. (f)(1), (2). Pub. L. 100–630, § 206(a)(7), substituted “Employment of People With Disabilities” for “Employment of the Handicapped”.
+Subsec. (f)(1), (2). Pub. L. 100–630, § 206(a)(7), substituted “Employment of People With Disabilities” for “Employment of the Handicapped”.
 
-1986—Pub. L. 99–506, § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” in section catchline.
+1986—Pub. L. 99–506, § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 99–506, §§ 103(d)(2)(C), 1002(e)(1), substituted “Equal Employment Opportunity Commission” for “Office of Personnel Management” and “individuals with handicaps” for “handicapped individuals” wherever appearing.
+Subsecs. (a) to (c). Pub. L. 99–506, §§ 103(d)(2)(C), 1002(e)(1), substituted “Equal Employment Opportunity Commission” for “Office of Personnel Management” and “individuals with handicaps” for “handicapped individuals” wherever appearing.
 
-Subsec. (d). Pub. L. 99–506, §§ 103(d)(2)(C), 1002(e)(1), (2)(A), substituted “Equal Employment Opportunity Commission” for “Office of Personnel Management” wherever appearing, “individuals with handicaps” for “handicapped individuals”, and “of the activities” for “of the the activities”.
+Subsec. (d). Pub. L. 99–506, §§ 103(d)(2)(C), 1002(e)(1), (2)(A), substituted “Equal Employment Opportunity Commission” for “Office of Personnel Management” wherever appearing, “individuals with handicaps” for “handicapped individuals”, and “of the activities” for “of the the activities”.
 
-Subsec. (e). Pub. L. 99–506, § 1001(f)(1), substituted “a individualized” for “his individualized”.
+Subsec. (e). Pub. L. 99–506, § 1001(f)(1), substituted “a individualized” for “his individualized”.
 
-Subsec. (f)(2). Pub. L. 99–506, § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals”.
+Subsec. (f)(2). Pub. L. 99–506, § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals”.
 
-1984—Subsec. (a). Pub. L. 98–221, § 104(b)(3)(A)–(D), substituted “the Chairman of the Office of Personnel Management” and “Education and Health and Human Services” for “the Chairman of the Civil Service Commission” and “Health, Education, and Welfare”, respectively, in first sentence, “Secretary of Education and the Chairman of the Office of Personnel Management” for “Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission” in second sentence, “Office of Personnel Management” for “Civil Service Commission” in four places, and “Office” for “Commission”.
+1984—Subsec. (a). Pub. L. 98–221, § 104(b)(3)(A)–(D), substituted “the Chairman of the Office of Personnel Management” and “Education and Health and Human Services” for “the Chairman of the Civil Service Commission” and “Health, Education, and Welfare”, respectively, in first sentence, “Secretary of Education and the Chairman of the Office of Personnel Management” for “Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission” in second sentence, “Office of Personnel Management” for “Civil Service Commission” in four places, and “Office” for “Commission”.
 
-Subsec. (b). Pub. L. 98–221, § 104(b)(3)(C), (D), substituted “Office of Personnel Management” for “Civil Service Commission” and substituted “Office” for “Commission” in three places.
+Subsec. (b). Pub. L. 98–221, § 104(b)(3)(C), (D), substituted “Office of Personnel Management” for “Civil Service Commission” and substituted “Office” for “Commission” in three places.
 
-Subsec. (c). Pub. L. 98–221, § 104(b)(3)(C), substituted “Office of Personnel Management” for “Civil Service Commission”.
+Subsec. (c). Pub. L. 98–221, § 104(b)(3)(C), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (d). Pub. L. 98–221, § 104(b)(3)(C), (E), substituted “Office of Personnel Management” for “Civil Service Commission” in two places and “the activities of the Office of Personnel Management” for “Civil Service Commission’s activities”.
+Subsec. (d). Pub. L. 98–221, § 104(b)(3)(C), (E), substituted “Office of Personnel Management” for “Civil Service Commission” in two places and “the activities of the Office of Personnel Management” for “Civil Service Commission’s activities”.
 
-Subsec. (f)(1). Pub. L. 98–221, § 104(b)(3)(F), substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
+Subsec. (f)(1). Pub. L. 98–221, § 104(b)(3)(F), substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6367,15 +6367,15 @@ Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and app
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–569, title I, § 138, Oct. 29, 1992, 106 Stat. 4397, as amended by Pub. L. 103–73, title I, § 102(3), Aug. 11, 1993, 107 Stat. 718, provided that:
+Pub. L. 102–569, title I, § 138, Oct. 29, 1992, 106 Stat. 4397, as amended by Pub. L. 103–73, title I, § 102(3), Aug. 11, 1993, 107 Stat. 718, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this title [enacting sections 718 to 718b, 725 to 728a, and 740 to 744 of this title, amending this section and sections 701, 705 to 707, 709, 711 to 715, 717, 720 to 724, 730 to 732, 740, 741, 750, 761a to 762, 770, 772 to 776, 777a, 777b, 777d to 777f, 780, 781, 783, 792 to 794, 795, 795d, 795e, and 795h of this title, repealing section 752 of this title, enacting provisions set out as notes under section 712 of this title, and amending provisions set out as a note under section 701 of this title] and the amendments made by this title shall take effect on the date of enactment of this Act [Oct. 29, 1992].
 
-> **“(b) Compliance.—** Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 [29 U.S.C. 720 et seq.] shall comply with the amendments made by this subtitle [subtitle B (§§ 121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing section 752 of this title], as soon as is practicable after the date of enactment of this Act [Oct. 29, 1992], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 [29 U.S.C. 701 et seq.], but not later than October 1, 1993.”
+> **“(b) Compliance.—** Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 [29 U.S.C. 720 et seq.] shall comply with the amendments made by this subtitle [subtitle B (§§ 121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing section 752 of this title], as soon as is practicable after the date of enactment of this Act [Oct. 29, 1992], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 [29 U.S.C. 701 et seq.], but not later than October 1, 1993.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–506, title X, § 1006, Oct. 21, 1986, 100 Stat. 1846, provided that: “Except as otherwise provided in this Act [see Short Title of 1986 Amendment note set out under section 701 of this title], this Act shall take effect on the date of its enactment [Oct. 21, 1986].”
+Pub. L. 99–506, title X, § 1006, Oct. 21, 1986, 100 Stat. 1846, provided that: “Except as otherwise provided in this Act [see Short Title of 1986 Amendment note set out under section 701 of this title], this Act shall take effect on the date of its enactment [Oct. 21, 1986].”
 
 **Termination of Reporting Requirements**
 
@@ -6397,7 +6397,7 @@ Ex. Ord. No. 11480, Sept. 9, 1969, 34 F.R. 14273, as amended by Ex. Ord. No. 121
 
 **Ex. Ord. No. 11830. Enlarging Membership of Interagency Committee on Handicapped Employees**
 
-Ex. Ord. No. 11830, Jan. 9, 1975, 40 F.R. 2411, as amended by Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 12450, Dec. 9, 1983, 48 F.R. 55409; Ex. Ord. No. 12672, Mar. 21, 1989, 54 F.R. 12167; Ex. Ord. No. 12704, § 1, Feb. 26, 1990, 55 F.R. 6969, provided:
+Ex. Ord. No. 11830, Jan. 9, 1975, 40 F.R. 2411, as amended by Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 12450, Dec. 9, 1983, 48 F.R. 55409; Ex. Ord. No. 12672, Mar. 21, 1989, 54 F.R. 12167; Ex. Ord. No. 12704, § 1, Feb. 26, 1990, 55 F.R. 6969, provided:
 
 By virtue of the authority vested in me by section 501(a) of the Rehabilitation Act of 1973 (Public Law 93–112; 87 Stat. 390) [subsec. (a) of this section], it is hereby ordered as follows:
 
@@ -6431,7 +6431,7 @@ Sec. 2. The Interagency Committee on Handicapped Employees shall also be referre
 
 **Executive Order No. 12640**
 
-Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President’s Committee on Employment of People with Disabilities, the Executive Committee of the President’s Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, § 4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
+Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President’s Committee on Employment of People with Disabilities, the Executive Committee of the President’s Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, § 4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
 
 **Ex. Ord. No. 13163. Increasing the Opportunity for Individuals With Disabilities To Be Employed in the Federal Government**
 
@@ -6547,7 +6547,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Barack Obama.
 
-### § 792. Architectural and Transportation Barriers Compliance Board
+### § 792. Architectural and Transportation Barriers Compliance Board
 
 **(a) Establishment; membership; chairperson; vice-chairperson; term of office; termination of membership; reappointment; compensation and travel expenses; bylaws; quorum requirements**
 
@@ -6587,9 +6587,9 @@ The chairperson and vice-chairperson of the Access Board shall be elected by maj
 
 **(A)**
 
-**(i)** The term of office of each appointed member of the Access Board shall be 4 years, except as provided in clause (ii). Each year, the terms of office of at least three appointed members of the board 1
+**(i)** The term of office of each appointed member of the Access Board shall be 4 years, except as provided in clause (ii). Each year, the terms of office of at least three appointed members of the board 1
 
-<sup>1</sup>  So in original. Probably should be “Access Board”.
+<sup>1</sup> So in original. Probably should be “Access Board”.
 
 shall expire.
 
@@ -6697,7 +6697,7 @@ Except as provided in section 518(a) of title 28, relating to litigation before 
 
 **(2)** The departments or agencies specified in subsection (a) of this section shall make available to the Access Board such technical, administrative, or other assistance as it may require to carry out its functions under this section, and the Access Board may appoint such other advisers, technical experts, and consultants as it deems necessary to assist it in carrying out its functions under this section. Special advisory and technical experts and consultants appointed pursuant to this paragraph shall, while performing their functions under this section, be entitled to receive compensation at rates fixed by the Chairperson,2
 
-<sup>2</sup>  So in original. Probably should not be capitalized.
+<sup>2</sup> So in original. Probably should not be capitalized.
 
 but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
 
@@ -6719,7 +6719,7 @@ but not exceeding the daily equivalent of the rate of pay for level 4 of the Sen
 
 There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section $7,448,000 for fiscal year 2015, $8,023,000 for fiscal year 2016, $8,190,000 for fiscal year 2017, $8,371,000 for fiscal year 2018, $8,568,000 for fiscal year 2019, and $8,750,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title V, § 502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§ 110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§ 110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§ 10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, § 2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, § 118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, § 1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, § 151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, § 103(d)(2)(C), title VI, § 601, title X, § 1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, § 206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, § 6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, § 13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, § 102(p)(30), title V, § 504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, § 112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, § 408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, § 203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, § 3(b)(3), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, § 456(b), July 22, 2014, 128 Stat. 1675.)
+(Pub. L. 93–112, title V, § 502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§ 110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§ 110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§ 10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, § 2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, § 118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, § 1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, § 151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, § 103(d)(2)(C), title VI, § 601, title X, § 1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, § 206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, § 6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, § 13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, § 102(p)(30), title V, § 504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, § 112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, § 408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, § 203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, § 3(b)(3), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, § 456(b), July 22, 2014, 128 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -6727,9 +6727,9 @@ There are authorized to be appropriated for the purpose of carrying out the duti
 
 Executive level IV, referred to in subsec. (a)(1)(B), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3)(A), (7) and (e)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3)(A), (7) and (e)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapters II (§ 12131 et seq.) and III (§ 12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapters II (§ 12131 et seq.) and III (§ 12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Codification**
 
@@ -6741,169 +6741,169 @@ Subsecs. (h) and (i)(3) of this section, which required the Board to submit an a
 
 2004—Subsec. (d). Pub. L. 108–364 substituted “targeted individuals and entities” for “targeted individuals”.
 
-1998—Subsec. (a)(1). Pub. L. 105–220, § 408(a)(2)(A), substituted “chairperson and” for “Chairperson and” in concluding provisions.
+1998—Subsec. (a)(1). Pub. L. 105–220, § 408(a)(2)(A), substituted “chairperson and” for “Chairperson and” in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 105–220, § 408(a)(2)(B)(i), substituted “information” for “guidelines”.
+Subsec. (b)(2). Pub. L. 105–220, § 408(a)(2)(B)(i), substituted “information” for “guidelines”.
 
-Subsec. (b)(3). Pub. L. 105–220, § 408(a)(2)(B)(ii), added par. (3) and struck out former par. (3) which read as follows: “establish and maintain minimum guidelines and requirements for the standards issued pursuant to the Act commonly known as the Architectural Barriers Act of 1968 and titles II and III of the Americans with Disabilities Act of 1990;”.
+Subsec. (b)(3). Pub. L. 105–220, § 408(a)(2)(B)(ii), added par. (3) and struck out former par. (3) which read as follows: “establish and maintain minimum guidelines and requirements for the standards issued pursuant to the Act commonly known as the Architectural Barriers Act of 1968 and titles II and III of the Americans with Disabilities Act of 1990;”.
 
-Subsec. (b)(11). Pub. L. 105–220, § 408(a)(2)(B)(iii)–(v), added par. (11).
+Subsec. (b)(11). Pub. L. 105–220, § 408(a)(2)(B)(iii)–(v), added par. (11).
 
-Subsec. (d). Pub. L. 105–394, § 203(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 105–394, § 203(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 105–220, § 408(a)(2)(C), substituted “procedures under this subsection” for “procedures under this section”.
+Subsec. (d)(1). Pub. L. 105–220, § 408(a)(2)(C), substituted “procedures under this subsection” for “procedures under this section”.
 
-Subsec. (e). Pub. L. 105–394, § 203(a)(1), (3), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (e)” in second sentence of par. (1). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 105–394, § 203(a)(1), (3), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (e)” in second sentence of par. (1). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (g)(2). Pub. L. 105–220, § 408(a)(2)(D), substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
+Subsec. (g)(2). Pub. L. 105–220, § 408(a)(2)(D), substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
 
-Subsec. (h). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(2)(A). Pub. L. 105–220, § 408(a)(2)(E), substituted “paragraphs (2) and (4)” for “paragraphs (5) and (7)”.
+Subsec. (h)(2)(A). Pub. L. 105–220, § 408(a)(2)(E), substituted “paragraphs (2) and (4)” for “paragraphs (5) and (7)”.
 
-Subsec. (i). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Pub. L. 105–220, § 408(a)(2)(F), substituted “fiscal years 1999 through 2003” for “fiscal years 1993 through 1997”.
+Pub. L. 105–220, § 408(a)(2)(F), substituted “fiscal years 1999 through 2003” for “fiscal years 1993 through 1997”.
 
-Subsec. (j). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (i) as (j).
+Subsec. (j). Pub. L. 105–394, § 203(a)(1), redesignated subsec. (i) as (j).
 
 1993—Subsec. (a)(5)(A). Pub. L. 103–73 substituted “level IV of the Executive Schedule under section 5315” for “level 4 of the Senior Executive Service Schedule under section 5382”.
 
-1992—Pub. L. 102–569, § 504(a)(2), (3), substituted “the Access Board” and “The Access Board” for “the Board” and “The Board”, respectively, wherever appearing.
+1992—Pub. L. 102–569, § 504(a)(2), (3), substituted “the Access Board” and “The Access Board” for “the Board” and “The Board”, respectively, wherever appearing.
 
-Subsec. (a)(1). Pub. L. 102–569, § 504(a)(1), substituted “the ‘Access Board’ ” for “the ‘Board’ ” in introductory provisions.
+Subsec. (a)(1). Pub. L. 102–569, § 504(a)(1), substituted “the ‘Access Board’ ” for “the ‘Board’ ” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 102–569, § 504(b)(1)(A), substituted “Thirteen” for “Twelve” and “at least a majority” for “six”.
+Subsec. (a)(1)(A). Pub. L. 102–569, § 504(b)(1)(A), substituted “Thirteen” for “Twelve” and “at least a majority” for “six”.
 
-Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps”.
+Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps”.
 
-Subsec. (a)(1)(B)(xii). Pub. L. 102–569, § 504(b)(1)(B), added cl. (xii).
+Subsec. (a)(1)(B)(xii). Pub. L. 102–569, § 504(b)(1)(B), added cl. (xii).
 
-Subsec. (a)(2)(A). Pub. L. 102–569, § 504(b)(2), designated existing provisions as cl. (i), substituted “4 years, except as provided in clause (ii)” for “three years” and “at least three” for “four”, and added cl. (ii).
+Subsec. (a)(2)(A). Pub. L. 102–569, § 504(b)(2), designated existing provisions as cl. (i), substituted “4 years, except as provided in clause (ii)” for “three years” and “at least three” for “four”, and added cl. (ii).
 
-Subsec. (a)(3). Pub. L. 102–569, § 504(b)(3), substituted “a Federal” for “such an” after “member becomes”.
+Subsec. (a)(3). Pub. L. 102–569, § 504(b)(3), substituted “a Federal” for “such an” after “member becomes”.
 
-Subsec. (a)(5)(A). Pub. L. 102–569, § 504(b)(4), substituted “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily rate prescribed for GS–18 under section 5332”.
+Subsec. (a)(5)(A). Pub. L. 102–569, § 504(b)(4), substituted “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily rate prescribed for GS–18 under section 5332”.
 
-Subsec. (b). Pub. L. 102–569, § 504(c), amended subsec. (b) generally, substituting present provisions for provisions which outlined eight specific functions of the Access Board.
+Subsec. (b). Pub. L. 102–569, § 504(c), amended subsec. (b) generally, substituting present provisions for provisions which outlined eight specific functions of the Access Board.
 
-Subsec. (c). Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
+Subsec. (c). Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 102–569, § 504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
+Subsec. (d)(1). Pub. L. 102–569, § 504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
 
-Subsec. (d)(3). Pub. L. 102–569, § 504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
+Subsec. (d)(3). Pub. L. 102–569, § 504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
 
-Subsec. (f). Pub. L. 102–569, § 504(e), added par. (1), designated existing provisions as par. (2) and substituted “paragraph” for “subsection”, “Chairperson” for “Secretary”, and “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily pay rate for a person employed as a GS–18 under section 5332”.
+Subsec. (f). Pub. L. 102–569, § 504(e), added par. (1), designated existing provisions as par. (2) and substituted “paragraph” for “subsection”, “Chairperson” for “Secretary”, and “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily pay rate for a person employed as a GS–18 under section 5332”.
 
-Subsec. (g). Pub. L. 102–569, § 504(f), designated existing provisions as par. (1), substituted “paragraphs (8) and (9) of such subsection” for “clauses (5) and (6) of subsection (b) of this section”, struck out at end “The Access Board shall prepare two final reports of its activities under subsection (c). One such report shall be on its activities in the field of transportation barriers facing individuals with disabilities, and the other such report shall be on its activities in the field of the housing needs of individuals with disabilities. The Access Board shall, not later than September 30, 1975, submit each such report, together with its recommendations, to the President and the Congress. The Access Board shall also prepare for such submission an interim report of its activities in each such field within 18 months after September 26, 1973. The Access Board shall prepare and submit two additional reports of its activities under subsection (c) of this section, one report on its activities in the field of transportation barriers facing individuals with disabilities and the other report on its activities in the field of the housing needs of individuals with disabilities. The two additional reports required by the previous sentence shall be submitted not later than February 1, 1988.”, and added par. (2).
+Subsec. (g). Pub. L. 102–569, § 504(f), designated existing provisions as par. (1), substituted “paragraphs (8) and (9) of such subsection” for “clauses (5) and (6) of subsection (b) of this section”, struck out at end “The Access Board shall prepare two final reports of its activities under subsection (c). One such report shall be on its activities in the field of transportation barriers facing individuals with disabilities, and the other such report shall be on its activities in the field of the housing needs of individuals with disabilities. The Access Board shall, not later than September 30, 1975, submit each such report, together with its recommendations, to the President and the Congress. The Access Board shall also prepare for such submission an interim report of its activities in each such field within 18 months after September 26, 1973. The Access Board shall prepare and submit two additional reports of its activities under subsection (c) of this section, one report on its activities in the field of transportation barriers facing individuals with disabilities and the other report on its activities in the field of the housing needs of individuals with disabilities. The two additional reports required by the previous sentence shall be submitted not later than February 1, 1988.”, and added par. (2).
 
-Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
+Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
 
-Subsec. (h)(1). Pub. L. 102–569, § 504(g)(1)–(3), redesignated par. (2) as (1), struck out at end “The Access Board may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.”, and struck out former par. (1) which read as follows: “Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance.”
+Subsec. (h)(1). Pub. L. 102–569, § 504(g)(1)–(3), redesignated par. (2) as (1), struck out at end “The Access Board may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.”, and struck out former par. (1) which read as follows: “Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance.”
 
-Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” before “with full access”.
+Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” before “with full access”.
 
-Subsec. (h)(2). Pub. L. 102–569, § 504(g)(4), which directed the addition of par. (2) “at the end” of subsec. (h), was executed by adding par. (2) before par. (3) to reflect the probable intent of Congress. Former par. (2) redesignated (1).
+Subsec. (h)(2). Pub. L. 102–569, § 504(g)(4), which directed the addition of par. (2) “at the end” of subsec. (h), was executed by adding par. (2) before par. (3) to reflect the probable intent of Congress. Former par. (2) redesignated (1).
 
-Subsec. (i). Pub. L. 102–569, § 504(h), substituted “fiscal years 1993 through 1997.” for “fiscal years 1987 through 1992, but in no event shall the amount appropriated for any one fiscal year exceed $3,000,000.”
+Subsec. (i). Pub. L. 102–569, § 504(h), substituted “fiscal years 1993 through 1997.” for “fiscal years 1987 through 1992, but in no event shall the amount appropriated for any one fiscal year exceed $3,000,000.”
 
 1991—Subsec. (a)(1)(B)(ix). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 Subsec. (i). Pub. L. 102–52 substituted “1987 through 1992” for “1987, 1988, 1989, 1990, and 1991”.
 
-1988—Subsec. (a)(2). Pub. L. 100–630, § 206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member’s predecessor was appointed.”
+1988—Subsec. (a)(2). Pub. L. 100–630, § 206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member’s predecessor was appointed.”
 
-Subsec. (a)(3). Pub. L. 100–630, § 206(b)(2), substituted “the member” for “he”.
+Subsec. (a)(3). Pub. L. 100–630, § 206(b)(2), substituted “the member” for “he”.
 
-Subsec. (a)(5)(A). Pub. L. 100–630, § 206(b)(3), substituted “travel time” for “traveltime”.
+Subsec. (a)(5)(A). Pub. L. 100–630, § 206(b)(3), substituted “travel time” for “traveltime”.
 
-Subsec. (b). Pub. L. 100–630, § 206(b)(4)–(7), inserted a comma after “surface transportation” in cl. (2), and substituted “Administrator of General Services” for “Administrator of the General Services Administration” in cl. (4), “results of” for “results to” in cl. (5), and “individuals with physical handicaps” for “physically handicapped persons” in cl. (8).
+Subsec. (b). Pub. L. 100–630, § 206(b)(4)–(7), inserted a comma after “surface transportation” in cl. (2), and substituted “Administrator of General Services” for “Administrator of the General Services Administration” in cl. (4), “results of” for “results to” in cl. (5), and “individuals with physical handicaps” for “physically handicapped persons” in cl. (8).
 
-Subsec. (c)(2)(A). Pub. L. 100–630, § 206(b)(8), inserted a comma after “expanded transportation systems”.
+Subsec. (c)(2)(A). Pub. L. 100–630, § 206(b)(8), inserted a comma after “expanded transportation systems”.
 
-Subsec. (d)(2)((B). Pub. L. 100–630, § 206(b)(9), substituted “that relate to” for “which related to”.
+Subsec. (d)(2)((B). Pub. L. 100–630, § 206(b)(9), substituted “that relate to” for “which related to”.
 
-Subsec. (f). Pub. L. 100–630, § 206(b)(10), substituted “daily pay rate for” for “daily pay rate, for”, “section 5332 of title 5” for “section 5332 of title 45”, and “travel time” for “traveltime”.
+Subsec. (f). Pub. L. 100–630, § 206(b)(10), substituted “daily pay rate for” for “daily pay rate, for”, “section 5332 of title 5” for “section 5332 of title 45”, and “travel time” for “traveltime”.
 
-Subsec. (g). Pub. L. 100–630, § 206(b)(11), substituted “transportation barriers facing individuals with handicaps” for “transportation barriers to individuals with handicaps” and for “transportation barriers of handicapped individuals” in fourth and seventh sentences, respectively, and “housing needs of individuals with handicaps” for “housing needs of handicapped individuals” in seventh sentence.
+Subsec. (g). Pub. L. 100–630, § 206(b)(11), substituted “transportation barriers facing individuals with handicaps” for “transportation barriers to individuals with handicaps” and for “transportation barriers of handicapped individuals” in fourth and seventh sentences, respectively, and “housing needs of individuals with handicaps” for “housing needs of handicapped individuals” in seventh sentence.
 
-1986—Subsec. (a)(1)(A). Pub. L. 99–506, §§ 103(d)(2)(C), 601(a)(2), substituted “Twelve” for “Eleven”, “six” for “five”, and “individuals with handicaps” for “handicapped individuals”.
+1986—Subsec. (a)(1)(A). Pub. L. 99–506, §§ 103(d)(2)(C), 601(a)(2), substituted “Twelve” for “Eleven”, “six” for “five”, and “individuals with handicaps” for “handicapped individuals”.
 
-Subsec. (a)(1)(B). Pub. L. 99–506, § 601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
+Subsec. (a)(1)(B). Pub. L. 99–506, § 601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
 
-Subsec. (a)(2)(ii), (iii). Pub. L. 99–506, § 601(a)(3), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: “any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed”.
+Subsec. (a)(2)(ii), (iii). Pub. L. 99–506, § 601(a)(3), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: “any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed”.
 
-Subsec. (a)(6). Pub. L. 99–506, § 601(a)(4), added par. (6).
+Subsec. (a)(6). Pub. L. 99–506, § 601(a)(4), added par. (6).
 
-Subsecs. (b)(2), (c). Pub. L. 99–506, § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
+Subsecs. (b)(2), (c). Pub. L. 99–506, § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
 
-Subsec. (d)(2)(A). Pub. L. 99–506, § 1002(e)(2)(B), substituted “any final order” for “any, final order”.
+Subsec. (d)(2)(A). Pub. L. 99–506, § 1002(e)(2)(B), substituted “any final order” for “any, final order”.
 
-Subsec. (d)(3). Pub. L. 99–506, § 1002(e)(2)(C), substituted “Department of Education” for “Department of Health, Education, and Welfare” and “with respect to overcoming” for “with respect overcoming to”.
+Subsec. (d)(3). Pub. L. 99–506, § 1002(e)(2)(C), substituted “Department of Education” for “Department of Health, Education, and Welfare” and “with respect to overcoming” for “with respect overcoming to”.
 
-Subsec. (e)(2). Pub. L. 99–506, § 1002(e)(2)(D), substituted “alleged noncompliance and in” for “alleged noncompliance in”.
+Subsec. (e)(2). Pub. L. 99–506, § 1002(e)(2)(D), substituted “alleged noncompliance and in” for “alleged noncompliance in”.
 
-Subsec. (g). Pub. L. 99–506, § 601(b), inserted provisions requiring the Board to submit, not later than Feb. 1, 1988, two additional reports on its activities under subsec. (c), one report to deal with its activities relating to transportation barriers to handicapped individuals, the other to deal with activities relating to the housing needs of handicapped individuals.
+Subsec. (g). Pub. L. 99–506, § 601(b), inserted provisions requiring the Board to submit, not later than Feb. 1, 1988, two additional reports on its activities under subsec. (c), one report to deal with its activities relating to transportation barriers to handicapped individuals, the other to deal with activities relating to the housing needs of handicapped individuals.
 
-Pub. L. 99–506, § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
+Pub. L. 99–506, § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
 
-Subsec. (h)(1). Pub. L. 99–506, § 103(d)(2)(C), substituted reference to individuals with handicaps for reference to handicapped individuals.
+Subsec. (h)(1). Pub. L. 99–506, § 103(d)(2)(C), substituted reference to individuals with handicaps for reference to handicapped individuals.
 
-Subsec. (i). Pub. L. 99–506, § 601(c), which directed the substitution of “of the fiscal years 1987, 1988, 1989, 1990, and 1991,” for “fiscal year ending before October 1, 1986,” was executed by making the substitution for “fiscal year ending before October 1, 1986.,” as the probable intent of Congress. See 1984 Amendment note below.
+Subsec. (i). Pub. L. 99–506, § 601(c), which directed the substitution of “of the fiscal years 1987, 1988, 1989, 1990, and 1991,” for “fiscal year ending before October 1, 1986,” was executed by making the substitution for “fiscal year ending before October 1, 1986.,” as the probable intent of Congress. See 1984 Amendment note below.
 
 1984—Subsec. (i). Pub. L. 98–221 substituted “October 1, 1986.” for “October 1, 1982”.
 
-1980—Subsec. (a)(1)(B)(i). Pub. L. 96–374, § 1321(a)(1), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+1980—Subsec. (a)(1)(B)(i). Pub. L. 96–374, § 1321(a)(1), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
-Subsec. (a)(1)(B)(xi). Pub. L. 96–374, § 1321(a)(2), added cl. (xi).
+Subsec. (a)(1)(B)(xi). Pub. L. 96–374, § 1321(a)(2), added cl. (xi).
 
-Subsec. (h)(3). Pub. L. 96–374, § 1321(b), added par. (3).
+Subsec. (h)(3). Pub. L. 96–374, § 1321(b), added par. (3).
 
-1978—Subsec. (a). Pub. L. 95–602, § 118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans’ Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
+1978—Subsec. (a). Pub. L. 95–602, § 118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans’ Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
 
-Subsec. (b)(1). Pub. L. 95–602, § 118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
+Subsec. (b)(1). Pub. L. 95–602, § 118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
 
-Subsec. (b)(2). Pub. L. 95–602, § 118(b)(2), inserted “communication,” before “and attitudinal” and “telecommunication devices,” before “public buildings”.
+Subsec. (b)(2). Pub. L. 95–602, § 118(b)(2), inserted “communication,” before “and attitudinal” and “telecommunication devices,” before “public buildings”.
 
-Subsec. (b)(7), (8). Pub. L. 95–602, § 118(b)(3), added pars. (7) and (8).
+Subsec. (b)(7), (8). Pub. L. 95–602, § 118(b)(3), added pars. (7) and (8).
 
-Subsec. (d). Pub. L. 95–602, § 118(c), designated existing provision as par. (1), substituted “public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations” for “or contracts with public or private nonprofit organizations”, “Except as provided in paragraph (3) of subsection (e), provisions” for “The provisions”, “building or public conveyance or rolling stock found” for “building found”, and “enforced under this section” for “prescribed pursuant to the Acts cited in subsection (b) of this section”, inserted provision permitting a complainant or participant in a proceeding under this subsection to obtain review of a final order pursuant to chapter 7 of title 5, and added pars. (2) and (3).
+Subsec. (d). Pub. L. 95–602, § 118(c), designated existing provision as par. (1), substituted “public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations” for “or contracts with public or private nonprofit organizations”, “Except as provided in paragraph (3) of subsection (e), provisions” for “The provisions”, “building or public conveyance or rolling stock found” for “building found”, and “enforced under this section” for “prescribed pursuant to the Acts cited in subsection (b) of this section”, inserted provision permitting a complainant or participant in a proceeding under this subsection to obtain review of a final order pursuant to chapter 7 of title 5, and added pars. (2) and (3).
 
-Subsec. (e). Pub. L. 95–602, § 118(d), designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (e). Pub. L. 95–602, § 118(d), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendment to subsec. (e) by section 2(a)(8) of Pub. L. 95–251 (although prior in time to the amendment by Pub. L. 95–602) requiring such substitution wherever appearing in text.
 
-Subsec. (h). Pub. L. 95–602, § 118(e), added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
+Subsec. (h). Pub. L. 95–602, § 118(e), added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
 
-Subsec. (i). Pub. L. 95–602, § 118(e), added subsec. (i).
+Subsec. (i). Pub. L. 95–602, § 118(e), added subsec. (i).
 
-1976—Subsec. (h). Pub. L. 94–230, § 10, authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1977.
+1976—Subsec. (h). Pub. L. 94–230, § 10, authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1977.
 
-Pub. L. 94–230, § 11(b)(13), authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1978.
+Pub. L. 94–230, § 11(b)(13), authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1978.
 
-1974—Subsec. (a). Pub. L. 93–516, § 111(n), redesignated cls. (6), (7), and (8), as cls. (7), (8), and (9), added cl. (6), and following designated clauses, inserted provisions that Secretary of Health, Education, and Welfare shall be Chairman of Board, and that Board shall appoint, upon recommendation of Secretary, a Consumer Advisory Panel, a majority of members of which shall be handicapped individuals, to provide guidance, advice, and recommendations to Board in carrying out its functions.
+1974—Subsec. (a). Pub. L. 93–516, § 111(n), redesignated cls. (6), (7), and (8), as cls. (7), (8), and (9), added cl. (6), and following designated clauses, inserted provisions that Secretary of Health, Education, and Welfare shall be Chairman of Board, and that Board shall appoint, upon recommendation of Secretary, a Consumer Advisory Panel, a majority of members of which shall be handicapped individuals, to provide guidance, advice, and recommendations to Board in carrying out its functions.
 
-Pub. L. 93–651, § 111(n), amended subsec. (a) in exactly the same manner as it was amended by Pub. L. 93–516.
+Pub. L. 93–651, § 111(n), amended subsec. (a) in exactly the same manner as it was amended by Pub. L. 93–516.
 
-Subsec. (d). Pub. L. 93–516, § 111(*o*), substituted “this chapter, the Board shall, directly or through grants to or contracts with public or private nonprofit organizations, carrying out its functions under subsections (b) and (c) of this section, and shall conduct” for “this section, the Board shall conduct”, and inserted provisions that any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality, and that an order of compliance may include the withholding or suspension of Federal funds with respect to any building found not to be in compliance with standards prescribed pursuant to the Acts referred to in subsec. (b) of this section.
+Subsec. (d). Pub. L. 93–516, § 111(*o*), substituted “this chapter, the Board shall, directly or through grants to or contracts with public or private nonprofit organizations, carrying out its functions under subsections (b) and (c) of this section, and shall conduct” for “this section, the Board shall conduct”, and inserted provisions that any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality, and that an order of compliance may include the withholding or suspension of Federal funds with respect to any building found not to be in compliance with standards prescribed pursuant to the Acts referred to in subsec. (b) of this section.
 
 Pub. L. 93–651, 111(*o*), amended subsec. (d) in exactly the same manner as it was amended by Pub. L. 93–516.
 
-Subsec. (e). Pub. L. 93–516, § 111(p), inserted provisions relating to appointment of an executive director and other professional and clerical personnel.
+Subsec. (e). Pub. L. 93–516, § 111(p), inserted provisions relating to appointment of an executive director and other professional and clerical personnel.
 
-Pub. L. 93–651, § 111(p), amended subsec. (e) in exactly the same manner as it was amended by Pub. L. 93–516.
+Pub. L. 93–651, § 111(p), amended subsec. (e) in exactly the same manner as it was amended by Pub. L. 93–516.
 
-Subsec. (g). Pub. L. 93–516, § 111(q), substituted “not later than September 30, 1975” for “prior to January 1, 1975”.
+Subsec. (g). Pub. L. 93–516, § 111(q), substituted “not later than September 30, 1975” for “prior to January 1, 1975”.
 
-Pub. L. 93–651, § 111(q), amended subsec. (g) in exactly the same manner as it was amended by Pub. L. 93–516.
+Pub. L. 93–651, § 111(q), amended subsec. (g) in exactly the same manner as it was amended by Pub. L. 93–516.
 
-Subsec. (h). Pub. L. 93–516, § 110, authorized appropriation of $1,500,000 for fiscal year ending June 30, 1976.
+Subsec. (h). Pub. L. 93–516, § 110, authorized appropriation of $1,500,000 for fiscal year ending June 30, 1976.
 
-Pub. L. 93–651, § 110, amended subsec. (h) in exactly the same manner as it was amended by Pub. L. 93–516.
+Pub. L. 93–651, § 110, amended subsec. (h) in exactly the same manner as it was amended by Pub. L. 93–516.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6913,7 +6913,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 **Extension of Vocational Rehabilitation Programs Through Fiscal Year Ending September 30, 1978; Effective Date of 1976 Amendment**
 
-Pub. L. 94–230, § 11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extended certain program authorizations in the absence of congressional action, provided that the amendments made by section 11(b) of Pub. L. 94–230 would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
+Pub. L. 94–230, § 11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extended certain program authorizations in the absence of congressional action, provided that the amendments made by section 11(b) of Pub. L. 94–230 would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
 
 **Termination of Advisory Panels**
 
@@ -6921,7 +6921,7 @@ Advisory panels established after Jan. 5, 1973, to terminate not later than the 
 
 **Accessibility of Information on Prescription Drug Container Labels by Visually Impaired and Blind Consumers**
 
-Pub. L. 112–144, title IX, § 904, July 9, 2012, 126 Stat. 1090, as amended by Pub. L. 117–286, § 4(a)(188), Dec. 27, 2022, 136 Stat. 4326, provided that:
+Pub. L. 112–144, title IX, § 904, July 9, 2012, 126 Stat. 1090, as amended by Pub. L. 117–286, § 4(a)(188), Dec. 27, 2022, 136 Stat. 4326, provided that:
 
 > **“(a) Establishment of Working Group.—**
 
@@ -6983,7 +6983,7 @@ Pub. L. 112–144, title IX, § 904, July 9, 2012, 126 Stat. 1090, as amended 
 
 > **“(3)** the term ‘prescription drug container label’ means the label with the directions for use that is affixed to the prescription drug container by the pharmacist and dispensed to the consumer.”
 
-### § 793. Employment under Federal contracts
+### § 793. Employment under Federal contracts
 
 **(a) Amount of contracts or subcontracts; provision for employment and advancement of qualified individuals with disabilities; regulations**
 
@@ -7007,7 +7007,7 @@ If any individual with a disability believes any contractor has failed or refuse
 
 The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
@@ -7015,39 +7015,39 @@ of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 1221
 
 The Secretary shall develop procedures to ensure that administrative complaints filed under this section and under the Americans with Disabilities Act of 1990 [42 U.S.C. 12101 et seq.] are dealt with in a manner that avoids duplication of effort and prevents imposition of inconsistent or conflicting standards for the same requirements under this section and the Americans with Disabilities Act of 1990.
 
-(Pub. L. 93–112, title V, § 503, Sept. 26, 1973, 87 Stat. 393; Pub. L. 95–602, title I, § 122(d)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title I, § 103(d)(2)(B), (C), title X, §§ 1001(f)(2), (3), 1002(e)(3), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, § 206(c), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, § 102(p)(31), title V, § 505, Oct. 29, 1992, 106 Stat. 4360, 4427.)
+(Pub. L. 93–112, title V, § 503, Sept. 26, 1973, 87 Stat. 393; Pub. L. 95–602, title I, § 122(d)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title I, § 103(d)(2)(B), (C), title X, §§ 1001(f)(2), (3), 1002(e)(3), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, § 206(c), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, § 102(p)(31), title V, § 505, Oct. 29, 1992, 106 Stat. 4360, 4427.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (d) and (e), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (d) and (e), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–569, §§ 102(p)(31)(A), 505(a), substituted “$10,000” for “$2,500” in two places, struck out “, in employing persons to carry out such contract,” after “contain a provision requiring that”, and substituted “individuals with disabilities” for “individuals with handicaps as defined in section 706(8) of this title”.
+1992—Subsec. (a). Pub. L. 102–569, §§ 102(p)(31)(A), 505(a), substituted “$10,000” for “$2,500” in two places, struck out “, in employing persons to carry out such contract,” after “contain a provision requiring that”, and substituted “individuals with disabilities” for “individuals with handicaps as defined in section 706(8) of this title”.
 
-Subsec. (b). Pub. L. 102–569, § 102(p)(31)(B), substituted “individual with a disability” for “individual with handicaps” and “individuals with disabilities” for “individuals with handicaps”.
+Subsec. (b). Pub. L. 102–569, § 102(p)(31)(B), substituted “individual with a disability” for “individual with handicaps” and “individuals with disabilities” for “individuals with handicaps”.
 
-Subsec. (c). Pub. L. 102–569, § 505(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 102–569, § 505(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (d), (e). Pub. L. 102–569, § 505(c), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 102–569, § 505(c), added subsecs. (d) and (e).
 
-1988—Subsec. (a). Pub. L. 100–630, § 206(c)(1), inserted a comma after “to carry out such contract”.
+1988—Subsec. (a). Pub. L. 100–630, § 206(c)(1), inserted a comma after “to carry out such contract”.
 
-Subsec. (b). Pub. L. 100–630, § 206(c)(2), substituted “refused” for “refuses”.
+Subsec. (b). Pub. L. 100–630, § 206(c)(2), substituted “refused” for “refuses”.
 
-Subsec. (c). Pub. L. 100–630, § 206(c)(3), substituted “which the President” for “which The President” and “when the President” for “when The President”.
+Subsec. (c). Pub. L. 100–630, § 206(c)(3), substituted “which the President” for “which The President” and “when the President” for “when The President”.
 
-1986—Subsec. (a). Pub. L. 99–506, §§ 103(d)(2)(C), 1002(e)(3), substituted “individuals with handicaps” for “handicapped individuals” and “section 706(8) of this title” for “section 706(7) of this title”.
+1986—Subsec. (a). Pub. L. 99–506, §§ 103(d)(2)(C), 1002(e)(3), substituted “individuals with handicaps” for “handicapped individuals” and “section 706(8) of this title” for “section 706(7) of this title”.
 
-Subsec. (b). Pub. L. 99–506, §§ 103(d)(2)(B), (C), 1001(f)(2), substituted “individual with handicaps” for “handicapped individual”, “individuals with handicaps” for “handicapped individuals”, and “a contract” for “his contract”.
+Subsec. (b). Pub. L. 99–506, §§ 103(d)(2)(B), (C), 1001(f)(2), substituted “individual with handicaps” for “handicapped individual”, “individuals with handicaps” for “handicapped individuals”, and “a contract” for “his contract”.
 
-Subsec. (c). Pub. L. 99–506, § 1001(f)(3), substituted “The President” for “he” in two places and substituted “the reasons” for “his reasons”.
+Subsec. (c). Pub. L. 99–506, § 1001(f)(3), substituted “The President” for “he” in two places and substituted “the reasons” for “his reasons”.
 
 1978—Subsec. (a). Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title”.
 
-### § 794. Nondiscrimination under Federal grants and programs
+### § 794. Nondiscrimination under Federal grants and programs
 
 **(a) Promulgation of rules and regulations**
 
@@ -7089,11 +7089,11 @@ Small providers are not required by subsection (a) to make significant structura
 
 The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, § 504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§ 119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, § 103(d)(2)(B), title X, § 1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, § 4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, § 206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, § 102(p)(32), title V, § 506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, § 394(i)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–220, title IV, § 408(a)(3), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 107–110, title X, § 1076(u)(2), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 113–128, title IV, § 456(c), July 22, 2014, 128 Stat. 1675; Pub. L. 114–95, title IX, § 9215(mmm)(3), Dec. 10, 2015, 129 Stat. 2188.)
+(Pub. L. 93–112, title V, § 504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§ 119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, § 103(d)(2)(B), title X, § 1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, § 4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, § 206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, § 102(p)(32), title V, § 506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, § 394(i)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–220, title IV, § 408(a)(3), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 107–110, title X, § 1076(u)(2), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 113–128, title IV, § 456(c), July 22, 2014, 128 Stat. 1675; Pub. L. 114–95, title IX, § 9215(mmm)(3), Dec. 10, 2015, 129 Stat. 2188.)
 
 **Editorial Notes**
 
@@ -7101,7 +7101,7 @@ of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 1221
 
 The amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978, referred to in subsec. (a), mean the amendments made by Pub. L. 95–602. See 1978 Amendments note below.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Amendments**
 
@@ -7115,19 +7115,19 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub.
 
 1994—Subsec. (b)(2)(B). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 2891(12) of title 20”.
 
-1992—Subsec. (a). Pub. L. 102–569, § 102(p)(32), substituted “a disability” for “handicaps” and “disability” for “handicap” in first sentence.
+1992—Subsec. (a). Pub. L. 102–569, § 102(p)(32), substituted “a disability” for “handicaps” and “disability” for “handicap” in first sentence.
 
-Subsec. (d). Pub. L. 102–569, § 506, added subsec. (d).
+Subsec. (d). Pub. L. 102–569, § 506, added subsec. (d).
 
-1988—Subsec. (a). Pub. L. 100–630, § 206(d)(1), substituted “her or his handicap” for “his handicap”.
+1988—Subsec. (a). Pub. L. 100–630, § 206(d)(1), substituted “her or his handicap” for “his handicap”.
 
-Pub. L. 100–259, § 4(1), designated existing provisions as subsec. (a).
+Pub. L. 100–259, § 4(1), designated existing provisions as subsec. (a).
 
-Subsec. (b). Pub. L. 100–259, § 4(2), added subsec. (b).
+Subsec. (b). Pub. L. 100–259, § 4(2), added subsec. (b).
 
-Subsec. (b)(2)(B). Pub. L. 100–630, § 206(d)(2), substituted “section 2891(12) of title 20” for “section 2854(a)(10) of title 20”.
+Subsec. (b)(2)(B). Pub. L. 100–630, § 206(d)(2), substituted “section 2891(12) of title 20” for “section 2854(a)(10) of title 20”.
 
-Subsec. (c). Pub. L. 100–259, § 4(2), added subsec. (c).
+Subsec. (c). Pub. L. 100–259, § 4(2), added subsec. (c).
 
 1986—Pub. L. 99–506 substituted “individual with handicaps” for “handicapped individual” and “section 706(8) of this title” for “section 706(7) of this title”.
 
@@ -7165,7 +7165,7 @@ For provisions relating to the coordination of implementation and enforcement of
 
 Ex. Ord. No. 11914, Apr. 28, 1976, 41 F.R. 17871, which related to nondiscrimination in federally assisted programs, was revoked by Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out as a note under section 2000d–1 of Title 42, The Public Health and Welfare.
 
-### § 794a. Remedies and attorney fees
+### § 794a. Remedies and attorney fees
 
 **(a)**
 
@@ -7175,19 +7175,19 @@ Ex. Ord. No. 11914, Apr. 28, 1976, 41 F.R. 17871, which related to nondiscrimina
 
 **(b)** In any action or proceeding to enforce or charge a violation of a provision of this subchapter, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.
 
-(Pub. L. 93–112, title V, § 505, as added Pub. L. 95–602, title I, § 120(a), Nov. 6, 1978, 92 Stat. 2982; amended Pub. L. 111–2, § 5(c)(1), Jan. 29, 2009, 123 Stat. 6.)
+(Pub. L. 93–112, title V, § 505, as added Pub. L. 95–602, title I, § 120(a), Nov. 6, 1978, 92 Stat. 2982; amended Pub. L. 111–2, § 5(c)(1), Jan. 29, 2009, 123 Stat. 6.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 **Amendments**
 
-2009—Subsec. (a)(1). Pub. L. 111–2, § 5(c)(1)(A), inserted “(and the application of section 706(e)(3) (42 U.S.C. 2000e–5(e)(3)) to claims of discrimination in compensation)” after “(42 U.S.C. 2000e–5(f) through (k))”.
+2009—Subsec. (a)(1). Pub. L. 111–2, § 5(c)(1)(A), inserted “(and the application of section 706(e)(3) (42 U.S.C. 2000e–5(e)(3)) to claims of discrimination in compensation)” after “(42 U.S.C. 2000e–5(f) through (k))”.
 
-Subsec. (a)(2). Pub. L. 111–2, § 5(c)(1)(B), inserted “(42 U.S.C. 2000d et seq.) (and in subsection (e)(3) of section 706 of such Act (42 U.S.C. 2000e–5), applied to claims of discrimination in compensation)” after “1964”.
+Subsec. (a)(2). Pub. L. 111–2, § 5(c)(1)(B), inserted “(42 U.S.C. 2000d et seq.) (and in subsection (e)(3) of section 706 of such Act (42 U.S.C. 2000e–5), applied to claims of discrimination in compensation)” after “1964”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7195,7 +7195,7 @@ Subsec. (a)(2). Pub. L. 111–2, § 5(c)(1)(B), inserted “(42 U.S.C. 2000d e
 
 Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicable to certain claims of discrimination in compensation pending on or after that date, see section 6 of Pub. L. 111–2, set out as a note under section 2000e–5 of Title 42, The Public Health and Welfare.
 
-### § 794b. Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations
+### § 794b. Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations
 
 **(a)** The Secretary may provide directly or by contract with State vocational rehabilitation agencies or experts or consultants or groups thereof, technical assistance—
 
@@ -7211,33 +7211,33 @@ for the purpose of assisting such persons or entities in removing architectural,
 
 **(d)** In order to carry out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(Pub. L. 93–112, title V, § 506, as added Pub. L. 95–602, title I, § 120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 100–630, title II, § 206(e), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, § 507, Oct. 29, 1992, 106 Stat. 4428; Pub. L. 105–220, title IV, § 408(a)(4), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 105–394, title II, § 203(b), Nov. 13, 1998, 112 Stat. 3653.)
+(Pub. L. 93–112, title V, § 506, as added Pub. L. 95–602, title I, § 120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 100–630, title II, § 206(e), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, § 507, Oct. 29, 1992, 106 Stat. 4428; Pub. L. 105–220, title IV, § 408(a)(4), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 105–394, title II, § 203(b), Nov. 13, 1998, 112 Stat. 3653.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–220, § 408(a)(4)(A), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “Any concurrence of the Access Board under this paragraph shall reflect its consideration of the cost studies carried out by States under section 792(c)(1) of this title.”
+1998—Subsec. (a). Pub. L. 105–220, § 408(a)(4)(A), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “Any concurrence of the Access Board under this paragraph shall reflect its consideration of the cost studies carried out by States under section 792(c)(1) of this title.”
 
 Subsec. (c). Pub. L. 105–394 substituted “792(i)(1)” for “792(h)(1)”.
 
-Pub. L. 105–220, § 408(a)(4)(B), substituted “provided under this subsection” for “provided under this paragraph”.
+Pub. L. 105–220, § 408(a)(4)(B), substituted “provided under this subsection” for “provided under this paragraph”.
 
-1992—Subsec. (a). Pub. L. 102–569, § 507(a), (b), substituted “community rehabilitation programs” for “rehabilitation facilities” in par. (1) and inserted “Access” before “Board” in par. (2) and concluding provisions.
+1992—Subsec. (a). Pub. L. 102–569, § 507(a), (b), substituted “community rehabilitation programs” for “rehabilitation facilities” in par. (1) and inserted “Access” before “Board” in par. (2) and concluding provisions.
 
-Subsec. (b). Pub. L. 102–569, § 507(c), substituted “the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the rate of basic pay payable for grade GS–18 of the General Schedule, under section 5332”.
+Subsec. (b). Pub. L. 102–569, § 507(c), substituted “the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the rate of basic pay payable for grade GS–18 of the General Schedule, under section 5332”.
 
-Subsec. (c). Pub. L. 102–569, § 507(a), (d), inserted “Access” before “Board” and substituted “792(h)(1)” for “792(h)(2)”.
+Subsec. (c). Pub. L. 102–569, § 507(a), (d), inserted “Access” before “Board” and substituted “792(h)(1)” for “792(h)(2)”.
 
-1988—Subsec. (a). Pub. L. 100–630, § 206(e)(1), (2), redesignated former par. (1) as subsec. (a) and former subpars. (A) and (B) as pars. (1) and (2), respectively.
+1988—Subsec. (a). Pub. L. 100–630, § 206(e)(1), (2), redesignated former par. (1) as subsec. (a) and former subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (b). Pub. L. 100–630, § 206(e)(1), (3), redesignated former par. (2) as subsec. (b) and substituted “travel time” for “traveltime”.
+Subsec. (b). Pub. L. 100–630, § 206(e)(1), (3), redesignated former par. (2) as subsec. (b) and substituted “travel time” for “traveltime”.
 
-Subsec. (c). Pub. L. 100–630, § 206(e)(1), (4), redesignated former par. (3) as subsec. (c) and inserted a comma after “the President”.
+Subsec. (c). Pub. L. 100–630, § 206(e)(1), (4), redesignated former par. (3) as subsec. (c) and inserted a comma after “the President”.
 
-Subsec. (d). Pub. L. 100–630, § 206(e)(1), redesignated former par. (4) as subsec. (d).
+Subsec. (d). Pub. L. 100–630, § 206(e)(1), redesignated former par. (4) as subsec. (d).
 
-### § 794c. Interagency Disability Coordinating Council
+### § 794c. Interagency Disability Coordinating Council
 
 **(a) Establishment**
 
@@ -7255,7 +7255,7 @@ There is hereby established an Interagency Disability Coordinating Council (here
 
 On or before July 1 of each year, the Interagency Disability Coordinating Council shall prepare and submit to the President and to the Congress a report of the activities of the Council designed to promote and meet the employment needs of individuals with disabilities, together with such recommendations for legislative and administrative changes as the Council concludes are desirable to further promote this section, along with any comments submitted by the National Council on Disability as to the effectiveness of such activities and recommendations in meeting the needs of individuals with disabilities. Nothing in this section shall impair any responsibilities assigned by any Executive order to any Federal department, agency, or instrumentality to act as a lead Federal agency with respect to any provisions of this subchapter.
 
-(Pub. L. 93–112, title V, § 507, as added Pub. L. 95–602, title I, § 120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 96–88, title V, § 508(m)(2), Oct. 17, 1979, 93 Stat. 694; Pub. L. 98–221, title I, § 104(b)(4), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title VI, § 602, title X, § 1001(f)(4), Oct. 21, 1986, 100 Stat. 1830, 1843; Pub. L. 102–569, title V, § 508(a), Oct. 29, 1992, 106 Stat. 4429; Pub. L. 113–128, title IV, § 456(d), July 22, 2014, 128 Stat. 1676.)
+(Pub. L. 93–112, title V, § 507, as added Pub. L. 95–602, title I, § 120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 96–88, title V, § 508(m)(2), Oct. 17, 1979, 93 Stat. 694; Pub. L. 98–221, title I, § 104(b)(4), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title VI, § 602, title X, § 1001(f)(4), Oct. 21, 1986, 100 Stat. 1830, 1843; Pub. L. 102–569, title V, § 508(a), Oct. 29, 1992, 106 Stat. 4429; Pub. L. 113–128, title IV, § 456(d), July 22, 2014, 128 Stat. 1676.)
 
 **Editorial Notes**
 
@@ -7265,9 +7265,9 @@ On or before July 1 of each year, the Interagency Disability Coordinating Counci
 
 1992—Pub. L. 102–569 amended section generally, changing Council name from Interagency Coordinating Council to Interagency Disability Coordinating Council, including as members Secretary of Housing and Urban Development, Secretary of Transportation, and such other officials as designated by the President, requiring Council to be responsible for developing and implementing policies and practices to eliminate inconsistencies among Federal departments and agencies responsible for enforcement of provisions of this subchapter and to carry out such studies and other activities, with advice from the National Council on Disability, to identify methods for overcoming barriers to integration into society, independence, and productivity of individuals with disabilities, and directing in annual report inclusion of any comments submitted by National Council on Disability as to effectiveness of activities and recommendations in meeting needs of individuals with disabilities.
 
-1986—Pub. L. 99–506, § 602, inserted reference to Assistant Secretary of the Interior for Indian Affairs.
+1986—Pub. L. 99–506, § 602, inserted reference to Assistant Secretary of the Interior for Indian Affairs.
 
-Pub. L. 99–506, § 1001(f)(4), which directed the substitution of “Chairperson” for “Chairman” was executed by substituting “Chairperson of the Architectural and Transportation Barriers Compliance Board” for “Chairman of the Architectural and Transportation Barriers Compliance Board” to reflect the probable intent of Congress.
+Pub. L. 99–506, § 1001(f)(4), which directed the substitution of “Chairperson” for “Chairman” was executed by substituting “Chairperson of the Architectural and Transportation Barriers Compliance Board” for “Chairman of the Architectural and Transportation Barriers Compliance Board” to reflect the probable intent of Congress.
 
 1984—Pub. L. 98–221 substituted “Chairman of the Office of Personnel Management” for “Chairman of the United States Civil Service Commission” and purported to substitute “Secretary of Education, the Secretary of Health and Human Services,” for “Secretary of Health, Education, and Welfare” which amendment could not be executed in view of the previous amendment by Pub. L. 96–88. See 1979 Amendment note below.
 
@@ -7283,7 +7283,7 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to requirement that the Council submit an annual report of activities to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 175 of House Document No. 103–7.
 
-### § 794d. Electronic and information technology
+### § 794d. Electronic and information technology
 
 **(a) Requirements for Federal departments and agencies**
 
@@ -7381,31 +7381,31 @@ The remedies, procedures, and rights set forth in sections 794a(a)(2) and 794a(b
 
 This section shall not be construed to limit any right, remedy, or procedure otherwise available under any provision of Federal law (including sections 791 through 794a of this title) that provides greater or equal protection for the rights of individuals with disabilities than this section.
 
-(Pub. L. 93–112, title V, § 508, as added Pub. L. 99–506, title VI, § 603(a), Oct. 21, 1986, 100 Stat. 1830; amended Pub. L. 100–630, title II, § 206(f), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, § 509(a), Oct. 29, 1992, 106 Stat. 4430; Pub. L. 105–220, title IV, § 408(b), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 106–246, div. B, title II, § 2405, July 13, 2000, 114 Stat. 555.)
+(Pub. L. 93–112, title V, § 508, as added Pub. L. 99–506, title VI, § 603(a), Oct. 21, 1986, 100 Stat. 1830; amended Pub. L. 100–630, title II, § 206(f), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, § 509(a), Oct. 29, 1992, 106 Stat. 4430; Pub. L. 105–220, title IV, § 408(b), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 106–246, div. B, title II, § 2405, July 13, 2000, 114 Stat. 555.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 11101(6) of title 40” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))” and “section 11103(a) of title 40” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 11101(6) of title 40” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))” and “section 11103(a) of title 40” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
-2000—Subsec. (f)(1)(A). Pub. L. 106–246, § 2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2),” for “Effective 2 years after August 7, 1998,”.
+2000—Subsec. (f)(1)(A). Pub. L. 106–246, § 2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2),” for “Effective 2 years after August 7, 1998,”.
 
-Subsec. (f)(1)(B). Pub. L. 106–246, § 2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2).” for “2 years after August 7, 1998.”
+Subsec. (f)(1)(B). Pub. L. 106–246, § 2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2).” for “2 years after August 7, 1998.”
 
 1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
 
 1992—Pub. L. 102–569 amended section generally, substituting present provisions for provisions relating to electronic equipment accessibility guidelines, in consultation with electronic industry, designed to insure individuals with handicaps use of electronic office equipment with or without special peripherals, requiring the Administrator of General Services to adopt guidelines for electronic equipment accessibility established under this section for Federal procurement of electronic equipment, and defining term “special peripherals”.
 
-1988—Subsec. (a)(1). Pub. L. 100–630, § 206(f)(1), inserted “the Director of” before “the National Institute”, struck out “the” before “General Services”, and substituted “individuals with handicaps” for “handicapped individuals”.
+1988—Subsec. (a)(1). Pub. L. 100–630, § 206(f)(1), inserted “the Director of” before “the National Institute”, struck out “the” before “General Services”, and substituted “individuals with handicaps” for “handicapped individuals”.
 
-Subsec. (a)(3). Pub. L. 100–630, § 206(f)(2), inserted “by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees” after “revised”.
+Subsec. (a)(3). Pub. L. 100–630, § 206(f)(2), inserted “by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees” after “revised”.
 
-Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with handicaps” for “a handicapped individual”.
+Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with handicaps” for “a handicapped individual”.
 
-### § 794d–1. Reports on accessibility of electronic information to individuals with disabilities
+### § 794d–1. Reports on accessibility of electronic information to individuals with disabilities
 
 **(a)**
 
@@ -7441,7 +7441,7 @@ Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual wit
 
 **(2)** The Administrator shall ensure that the reports required under this subsection are made available on a public website and are maintained as an open Government data asset (as that term is defined in section 3502 of title 44).
 
-(Pub. L. 117–328, div. E, title VII, § 752, Dec. 29, 2022, 136 Stat. 4719.)
+(Pub. L. 117–328, div. E, title VII, § 752, Dec. 29, 2022, 136 Stat. 4719.)
 
 **Editorial Notes**
 
@@ -7455,7 +7455,7 @@ Section was enacted as part of the Financial Services and General Government App
 
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 794e. Protection and advocacy of individual rights
+### § 794e. Protection and advocacy of individual rights
 
 **(a) Purpose and construction**
 
@@ -7467,9 +7467,9 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **(i)** are ineligible for protection and advocacy programs under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.] because the individuals do not have a developmental disability, as defined in section 102 of such Act [42 U.S.C. 15002]; and
 
-**(ii)** are ineligible for services under the Protection and Advocacy for Mentally Ill Individuals Act of 1986 1
+**(ii)** are ineligible for services under the Protection and Advocacy for Mentally Ill Individuals Act of 1986 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (42 U.S.C. 10801 et seq.) because the individuals are not individuals with mental illness, as defined in section 102 of such Act (42 U.S.C. 10802).
 
@@ -7543,7 +7543,7 @@ Whenever the Commissioner determines that any amount of an allotment to a system
 
 **(A)** the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
 
-**(B)** the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15001 et seq.], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.);
+**(B)** the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15001 et seq.], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.);
 
 **(6)** establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with disabilities are afforded equal opportunity to access the services of the system; and
 
@@ -7587,37 +7587,37 @@ The term “eligible system” means a protection and advocacy system that is es
 
 **(2) American Indian consortium**
 
-The term “American Indian consortium” means a consortium established as described in section 142 <sup>1</sup> of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
+The term “American Indian consortium” means a consortium established as described in section 142 <sup>1</sup> of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
 
-(Pub. L. 93–112, title V, § 509, as added Pub. L. 102–569, title V, § 510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, § 112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, § 9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, § 408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, § 402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, § 401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 113–128, title IV, § 457, July 22, 2014, 128 Stat. 1676.)
+(Pub. L. 93–112, title V, § 509, as added Pub. L. 102–569, title V, § 510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, § 112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, § 9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, § 408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, § 402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, § 401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 113–128, title IV, § 457, July 22, 2014, 128 Stat. 1676.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i), (f)(2), (5)(B), and (m)(1), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i), (f)(2), (5)(B), and (m)(1), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(1)(B)(ii) and (f)(5)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(1)(B)(ii) and (f)(5)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
-The Assistive Technology Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Assistive Technology Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042), referred to in subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, § 401(a), Oct. 30, 2000, 114 Stat. 1737.
+Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042), referred to in subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, § 401(a), Oct. 30, 2000, 114 Stat. 1737.
 
 **Amendments**
 
-2014—Subsec. (c)(1)(A). Pub. L. 113–128, § 457(1), inserted “a grant, contract, or cooperative agreement for” before “training”.
+2014—Subsec. (c)(1)(A). Pub. L. 113–128, § 457(1), inserted “a grant, contract, or cooperative agreement for” before “training”.
 
-Subsec. (f)(2). Pub. L. 113–128, § 457(2), substituted “general authorities, including the authority to access records” for “general authorities, including access to records” and inserted “of title I” after “subtitle C”.
+Subsec. (f)(2). Pub. L. 113–128, § 457(2), substituted “general authorities, including the authority to access records” for “general authorities, including access to records” and inserted “of title I” after “subtitle C”.
 
-Subsec. (*l*). Pub. L. 113–128, § 457(3), substituted “$17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
+Subsec. (*l*). Pub. L. 113–128, § 457(3), substituted “$17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
 
-2000—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, § 401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
+2000—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, § 401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
 
-Subsec. (f)(5)(B). Pub. L. 106–402, § 401(b)(3)(D), substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
+Subsec. (f)(5)(B). Pub. L. 106–402, § 401(b)(3)(D), substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
 
-Subsec. (m)(1). Pub. L. 106–402, § 401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
+Subsec. (m)(1). Pub. L. 106–402, § 401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
 
 1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (n) relating to protection and advocacy of individual rights.
 
@@ -7625,31 +7625,31 @@ Subsec. (a)(2). Pub. L. 105–394 substituted “the Assistive Technology Act of
 
 1997—Subsec. (f)(8). Pub. L. 105–12 added par. (8).
 
-1993—Subsec. (a)(1). Pub. L. 103–73, § 112(c)(1), added par. (1) and struck out former par. (1) which read as follows: “are ineligible for client assistance programs under section 732 of this title; and”.
+1993—Subsec. (a)(1). Pub. L. 103–73, § 112(c)(1), added par. (1) and struck out former par. (1) which read as follows: “are ineligible for client assistance programs under section 732 of this title; and”.
 
-Subsec. (b). Pub. L. 103–73, § 112(c)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+Subsec. (b). Pub. L. 103–73, § 112(c)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
 “(1) Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a).
 
 “(2) Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States.”
 
-Subsec. (c)(4)(A). Pub. L. 103–73, § 112(c)(3)(A)(i), substituted “paragraph (3)(B)” for “this subsection”.
+Subsec. (c)(4)(A). Pub. L. 103–73, § 112(c)(3)(A)(i), substituted “paragraph (3)(B)” for “this subsection”.
 
-Subsec. (c)(4)(B). Pub. L. 103–73, § 112(c)(3)(A)(ii), substituted “allotted under paragraph (3)(A)” for “allotted”.
+Subsec. (c)(4)(B). Pub. L. 103–73, § 112(c)(3)(A)(ii), substituted “allotted under paragraph (3)(A)” for “allotted”.
 
-Subsec. (c)(5). Pub. L. 103–73, § 112(c)(3)(B), added par. (5) and struck out heading and text of former par. (5). Text read as follows:
+Subsec. (c)(5). Pub. L. 103–73, § 112(c)(3)(B), added par. (5) and struck out heading and text of former par. (5). Text read as follows:
 
 “(A) States.—For purposes of determining the minimum amount of an allotment under paragraph (3)(B), the amount $100,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.
 
 “(B) Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.”
 
-Subsec. (d). Pub. L. 103–73, § 112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) as increased under subsection (c)(5), or to provide allotments in accordance with subsection (c)(4)(B) as increased in accordance with subsection (c)(5), shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3), but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5).”
+Subsec. (d). Pub. L. 103–73, § 112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) as increased under subsection (c)(5), or to provide allotments in accordance with subsection (c)(4)(B) as increased in accordance with subsection (c)(5), shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3), but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5).”
 
-Subsec. (i). Pub. L. 103–73, § 112(c)(6), which directed the amendment of this section “in subsection (i), to read as follows:”, was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
+Subsec. (i). Pub. L. 103–73, § 112(c)(6), which directed the amendment of this section “in subsection (i), to read as follows:”, was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
 
-Subsec. (j). Pub. L. 103–73, § 112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “An eligible system may not use more than 5 percent of any allotment under subsection (c) for the cost of administration of the system required by this section.”
+Subsec. (j). Pub. L. 103–73, § 112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “An eligible system may not use more than 5 percent of any allotment under subsection (c) for the cost of administration of the system required by this section.”
 
-Subsec. (n). Pub. L. 103–73, § 112(c)(5), redesignated subsec. (i) as (n).
+Subsec. (n). Pub. L. 103–73, § 112(c)(5), redesignated subsec. (i) as (n).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7661,15 +7661,15 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, and also applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
-### § 794f. Establishment of standards for accessible medical diagnostic equipment
+### § 794f. Establishment of standards for accessible medical diagnostic equipment
 
 **(a) Standards**
 
 Not later than 24 months after March 23, 2010,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-the Architectural and Transportation Barriers Compliance Board shall, in consultation with the Commissioner of the Food and Drug Administration, promulgate regulatory standards in accordance with the Administrative Procedure Act (2 U.S.C. 551 et seq.) 1 setting forth the minimum technical criteria for medical diagnostic equipment used in (or in conjunction with) physician’s offices, clinics, emergency rooms, hospitals, and other medical settings. The standards shall ensure that such equipment is accessible to, and usable by, individuals with accessibility needs, and shall allow independent entry to, use of, and exit from the equipment by such individuals to the maximum extent possible.
+the Architectural and Transportation Barriers Compliance Board shall, in consultation with the Commissioner of the Food and Drug Administration, promulgate regulatory standards in accordance with the Administrative Procedure Act (2 U.S.C. 551 et seq.) 1 setting forth the minimum technical criteria for medical diagnostic equipment used in (or in conjunction with) physician’s offices, clinics, emergency rooms, hospitals, and other medical settings. The standards shall ensure that such equipment is accessible to, and usable by, individuals with accessibility needs, and shall allow independent entry to, use of, and exit from the equipment by such individuals to the maximum extent possible.
 
 **(b) Medical diagnostic equipment covered**
 
@@ -7679,7 +7679,7 @@ The standards issued under subsection (a) for medical diagnostic equipment shall
 
 The Architectural and Transportation Barriers Compliance Board, in consultation with the Commissioner of the Food and Drug Administration, shall periodically review and, as appropriate, amend the standards in accordance with the Administrative Procedure Act (2 U.S.C. 551 et seq.).<sup>1</sup>
 
-(Pub. L. 93–112, title V, § 510, as added Pub. L. 111–148, title IV, § 4203, Mar. 23, 2010, 124 Stat. 570.)
+(Pub. L. 93–112, title V, § 510, as added Pub. L. 111–148, title IV, § 4203, Mar. 23, 2010, 124 Stat. 570.)
 
 **Editorial Notes**
 
@@ -7689,7 +7689,7 @@ March 23, 2010, referred to in subsec. (a), was in the original “the date of e
 
 The Administrative Procedure Act, referred to in subsecs. (a) and (c), is act June 11, 1946, ch. 324, 60 Stat. 237, which was repealed and reenacted as subchapter II of chapter 5, and chapter 7, of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-### § 794g. Limitations on use of subminimum wage
+### § 794g. Limitations on use of subminimum wage
 
 **(a) In general** No entity, including a contractor or subcontractor of the entity, which holds a special wage certificate as described in section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c)) may compensate an individual with a disability who is age 24 or younger at a wage (referred to in this section as a “subminimum wage”) that is less than the Federal minimum wage unless 1 of the following conditions is met:
 
@@ -7791,7 +7791,7 @@ The entity described in subsection (a) shall be subject to review of individual 
 
 In this section, the term “Federal minimum wage” means the rate applicable under section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)).
 
-(Pub. L. 93–112, title V, § 511, as added Pub. L. 113–128, title IV, § 458(a), July 22, 2014, 128 Stat. 1676; amended Pub. L. 114–95, title IX, § 9215(mmm)(4)(A), Dec. 10, 2015, 129 Stat. 2188.)
+(Pub. L. 93–112, title V, § 511, as added Pub. L. 113–128, title IV, § 458(a), July 22, 2014, 128 Stat. 1676; amended Pub. L. 114–95, title IX, § 9215(mmm)(4)(A), Dec. 10, 2015, 129 Stat. 2188.)
 
 **Editorial Notes**
 
@@ -7799,9 +7799,9 @@ In this section, the term “Federal minimum wage” means the rate applicable u
 
 The effective date of this section, referred to in subsec. (a)(1), means 2 years after July 22, 2014. See Effective Date note below.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(A) and (d)(2)(A)(ii), (iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(A) and (d)(2)(A)(ii), (iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (b)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (b)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 The effective date of this Act, referred to in subsec. (b)(3), may mean the effective date of Pub. L. 93–112 (Sept. 26, 1973), the effective date of Pub. L. 113–128, which added this section (see Effective Date note set out under section 3101 of this title), or the effective date of this section (see Effective Date note below).
 
@@ -7813,11 +7813,11 @@ The effective date of this Act, referred to in subsec. (b)(3), may mean the effe
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–95, title IX, § 9215(mmm)(4)(B), Dec. 10, 2015, 129 Stat. 2188, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on the same date as section 458(a) of the Workforce Innovation and Opportunity Act (Public Law 113–128; 128 Stat. 1676) [enacting this section] takes effect, and as if enacted as part of such section.”
+Pub. L. 114–95, title IX, § 9215(mmm)(4)(B), Dec. 10, 2015, 129 Stat. 2188, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on the same date as section 458(a) of the Workforce Innovation and Opportunity Act (Public Law 113–128; 128 Stat. 1676) [enacting this section] takes effect, and as if enacted as part of such section.”
 
 **Effective Date**
 
-Pub. L. 113–128, title IV, § 458(b), July 22, 2014, 128 Stat. 1679, provided that: “This section [enacting this section] takes effect 2 years after the date of enactment of the Workforce Innovation and Opportunity Act [July 22, 2014].”
+Pub. L. 113–128, title IV, § 458(b), July 22, 2014, 128 Stat. 1679, provided that: “This section [enacting this section] takes effect 2 years after the date of enactment of the Workforce Innovation and Opportunity Act [July 22, 2014].”
 
 ## SUBCHAPTER VI—EMPLOYMENT OPPORTUNITIES FOR INDIVIDUALS WITH DISABILITIES
 
@@ -7825,31 +7825,31 @@ Pub. L. 113–128, title IV, § 458(b), July 22, 2014, 128 Stat. 1679, provide
 
 **Codification**
 
-Pub. L. 113–128, title IV, § 461(1), (2), July 22, 2014, 128 Stat. 1679, amended this subchapter by striking out part A, consisting of sections 795 and 795a, and striking out the heading of part B preceding section 795g.
+Pub. L. 113–128, title IV, § 461(1), (2), July 22, 2014, 128 Stat. 1679, amended this subchapter by striking out part A, consisting of sections 795 and 795a, and striking out the heading of part B preceding section 795g.
 
-Title VI of the Rehabilitation Act of 1973, comprising this subchapter, was originally added to Pub. L. 93–112 by Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718. Title VI is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1210, without reference to those intervening amendments because of the extensive revision of title VI by Pub. L. 105–220.
+Title VI of the Rehabilitation Act of 1973, comprising this subchapter, was originally added to Pub. L. 93–112 by Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 17; Pub. L. 99–506, Oct. 21, 1986, 100 Stat. 1807; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 102–52, June 6, 1991, 105 Stat. 260; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718. Title VI is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1210, without reference to those intervening amendments because of the extensive revision of title VI by Pub. L. 105–220.
 
-### §§ 795, 795a. Repealed. Pub. L. 113–128, title IV, § 461(1), July 22, 2014, 128 Stat. 1679
+### §§ 795, 795a. Repealed. Pub. L. 113–128, title IV, § 461(1), July 22, 2014, 128 Stat. 1679
 
-Section 795, Pub. L. 93–112, title VI, § 611, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1210, related to Projects With Industry. Provisions similar to section 795 were contained in section 795g of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
+Section 795, Pub. L. 93–112, title VI, § 611, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1210, related to Projects With Industry. Provisions similar to section 795 were contained in section 795g of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 795, Pub. L. 93–112, title VI, § 611, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2989; amended Pub. L. 99–506, title I, § 103(d)(2)(C), title X, § 1002(f), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 102–569, title I, § 102(p)(36), title VI, § 601, Oct. 29, 1992, 106 Stat. 4360, 4434, authorized community service employment pilot programs for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 795, Pub. L. 93–112, title VI, § 611, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2989; amended Pub. L. 99–506, title I, § 103(d)(2)(C), title X, § 1002(f), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 102–569, title I, § 102(p)(36), title VI, § 601, Oct. 29, 1992, 106 Stat. 4360, 4434, authorized community service employment pilot programs for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 795a, Pub. L. 93–112, title VI, § 612, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1214, related to authorization of appropriations. Provisions similar to section 795a were contained in section 795i of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
+Section 795a, Pub. L. 93–112, title VI, § 612, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1214, related to authorization of appropriations. Provisions similar to section 795a were contained in section 795i of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 Prior sections 795a to 795f were omitted in the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 795a, Pub. L. 93–112, title VI, § 612, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2991; amended Pub. L. 98–221, title I, § 165, Feb. 22, 1984, 98 Stat. 30; Pub. L. 100–630, title II, § 207(a), Nov. 7, 1988, 102 Stat. 3313, related to administration of community service employment pilot programs for individuals with disabilities.
+Section 795a, Pub. L. 93–112, title VI, § 612, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2991; amended Pub. L. 98–221, title I, § 165, Feb. 22, 1984, 98 Stat. 30; Pub. L. 100–630, title II, § 207(a), Nov. 7, 1988, 102 Stat. 3313, related to administration of community service employment pilot programs for individuals with disabilities.
 
-Section 795b, Pub. L. 93–112, title VI, § 613, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2991; amended Pub. L. 102–569, title VI, § 602, Oct. 29, 1992, 106 Stat. 4434, related to employment.
+Section 795b, Pub. L. 93–112, title VI, § 613, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2991; amended Pub. L. 102–569, title VI, § 602, Oct. 29, 1992, 106 Stat. 4434, related to employment.
 
-Section 795c, Pub. L. 93–112, title VI, § 614, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2992; amended Pub. L. 98–221, title I, § 104(b)(5), Feb. 22, 1984, 98 Stat. 18, related to interagency cooperation.
+Section 795c, Pub. L. 93–112, title VI, § 614, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2992; amended Pub. L. 98–221, title I, § 104(b)(5), Feb. 22, 1984, 98 Stat. 18, related to interagency cooperation.
 
-Section 795d, Pub. L. 93–112, title VI, § 615, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2992; amended Pub. L. 99–506, title I, § 103(d)(2)(C), title VII, § 701, Oct. 21, 1986, 100 Stat. 1810, 1831; Pub. L. 102–569, title I, § 102(p)(37), Oct. 29, 1992, 106 Stat. 4360, related to award of grants or contracts.
+Section 795d, Pub. L. 93–112, title VI, § 615, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2992; amended Pub. L. 99–506, title I, § 103(d)(2)(C), title VII, § 701, Oct. 21, 1986, 100 Stat. 1810, 1831; Pub. L. 102–569, title I, § 102(p)(37), Oct. 29, 1992, 106 Stat. 4360, related to award of grants or contracts.
 
-Section 795e, Pub. L. 93–112, title VI, § 616, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title I, § 102(p)(38), title VI, § 603, Oct. 29, 1992, 106 Stat. 4361, 4434, defined terms “community service” and “pilot program”.
+Section 795e, Pub. L. 93–112, title VI, § 616, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title I, § 102(p)(38), title VI, § 603, Oct. 29, 1992, 106 Stat. 4361, 4434, defined terms “community service” and “pilot program”.
 
-Section 795f, Pub. L. 93–112, title VI, § 617, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 98–221, title I, § 161, Feb. 22, 1984, 98 Stat. 29; Pub. L. 99–506, title VII, § 702, Oct. 21, 1986, 100 Stat. 1831; Pub. L. 102–52, § 7(a), June 6, 1991, 105 Stat. 262; Pub. L. 102–569, title VI, § 604, Oct. 29, 1992, 106 Stat. 4434, authorized appropriations.
+Section 795f, Pub. L. 93–112, title VI, § 617, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 98–221, title I, § 161, Feb. 22, 1984, 98 Stat. 29; Pub. L. 99–506, title VII, § 702, Oct. 21, 1986, 100 Stat. 1831; Pub. L. 102–52, § 7(a), June 6, 1991, 105 Stat. 262; Pub. L. 102–569, title VI, § 604, Oct. 29, 1992, 106 Stat. 4434, authorized appropriations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7857,11 +7857,11 @@ Section 795f, Pub. L. 93–112, title VI, § 617, as added Pub. L. 95–602, t
 
 For short title of this subchapter as the “Employment Opportunities for Individuals With Disabilities Act”, see section 601 of Pub. L. 93–112, as amended, set out as a note under section 701 of this title.
 
-### § 795g. Purpose
+### § 795g. Purpose
 
 It is the purpose of this subchapter to authorize allotments, in addition to grants for vocational rehabilitation services under subchapter I, to assist States in developing collaborative programs with appropriate entities to provide supported employment services for individuals with the most significant disabilities, including youth with the most significant disabilities, to enable such individuals to achieve an employment outcome of supported employment in competitive integrated employment.
 
-(Pub. L. 93–112, title VI, § 602, formerly § 621, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1214; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(12)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 602 and amended Pub. L. 113–128, title IV, § 461(3), (4), July 22, 2014, 128 Stat. 1679.)
+(Pub. L. 93–112, title VI, § 602, formerly § 621, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1214; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(12)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 602 and amended Pub. L. 113–128, title IV, § 461(3), (4), July 22, 2014, 128 Stat. 1679.)
 
 **Editorial Notes**
 
@@ -7869,15 +7869,15 @@ It is the purpose of this subchapter to authorize allotments, in addition to gra
 
 Provisions similar to this section were contained in section 795j of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 795g, Pub. L. 93–112, title VI, § 621, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 98–221, title I, §§ 162, 163, Feb. 22, 1984, 98 Stat. 29, 30; Pub. L. 99–506, title I, § 103(d)(2)(B), (C), title VII, § 703(a)(1)–(3), (b)–(d), Oct. 21, 1986, 100 Stat. 1810, 1831, 1832; Pub. L. 100–630, title II, § 207(b), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–569, title VI, § 611, Oct. 29, 1992, 106 Stat. 4434, related to Projects With Industry, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 795g, Pub. L. 93–112, title VI, § 621, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 98–221, title I, §§ 162, 163, Feb. 22, 1984, 98 Stat. 29, 30; Pub. L. 99–506, title I, § 103(d)(2)(B), (C), title VII, § 703(a)(1)–(3), (b)–(d), Oct. 21, 1986, 100 Stat. 1810, 1831, 1832; Pub. L. 100–630, title II, § 207(b), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–569, title VI, § 611, Oct. 29, 1992, 106 Stat. 4434, related to Projects With Industry, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Pub. L. 113–128, § 461(4), substituted “this subchapter” for “this part” and “individuals with the most significant disabilities, including youth with the most significant disabilities, to enable such individuals to achieve an employment outcome of supported employment in competitive integrated employment.” for “individuals with the most significant disabilities to enable such individuals to achieve the employment outcome of supported employment.”
+2014—Pub. L. 113–128, § 461(4), substituted “this subchapter” for “this part” and “individuals with the most significant disabilities, including youth with the most significant disabilities, to enable such individuals to achieve an employment outcome of supported employment in competitive integrated employment.” for “individuals with the most significant disabilities to enable such individuals to achieve the employment outcome of supported employment.”
 
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 
-### § 795h. Allotments
+### § 795h. Allotments
 
 **(a) In general**
 
@@ -7909,7 +7909,7 @@ A State that receives an allotment under this subchapter shall not use more than
 
 A State that receives an allotment under this subchapter shall reserve and expend half of such allotment for the provision of supported employment services, including extended services, to youth with the most significant disabilities in order to assist those youth in achieving an employment outcome in supported employment.
 
-(Pub. L. 93–112, title VI, § 603, formerly § 622, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1214; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(13)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 603 and amended Pub. L. 113–128, title IV, § 461(3), (5), July 22, 2014, 128 Stat. 1679.)
+(Pub. L. 93–112, title VI, § 603, formerly § 622, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1214; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(13)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 603 and amended Pub. L. 113–128, title IV, § 461(3), (5), July 22, 2014, 128 Stat. 1679.)
 
 **Editorial Notes**
 
@@ -7921,25 +7921,25 @@ Part B of this subchapter (as in effect on September 30, 1992), referred to in s
 
 Provisions similar to this section were contained in section 795k of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 795h, Pub. L. 93–112, title VI, § 622, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2994, and amended, which related to business opportunities for individuals with disabilities and promulgation of regulations, was renumbered section 641 of Pub. L. 93–112, by Pub. L. 102–569, title VI, § 612(a)(2), (3), Oct. 29, 1992, 106 Stat. 4438, and transferred to section 795r of this title, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 795h, Pub. L. 93–112, title VI, § 622, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2994, and amended, which related to business opportunities for individuals with disabilities and promulgation of regulations, was renumbered section 641 of Pub. L. 93–112, by Pub. L. 102–569, title VI, § 612(a)(2), (3), Oct. 29, 1992, 106 Stat. 4438, and transferred to section 795r of this title, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 461(5)(A)(i)(I), substituted “subchapter” for “part” in introductory provisions.
+2014—Subsec. (a)(1). Pub. L. 113–128, § 461(5)(A)(i)(I), substituted “subchapter” for “part” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 113–128, § 461(5)(A)(i)(II), inserted “amount” after “whichever”.
+Subsec. (a)(1)(A). Pub. L. 113–128, § 461(5)(A)(i)(II), inserted “amount” after “whichever”.
 
-Subsec. (a)(1)(B). Pub. L. 113–128, § 461(5)(A)(i)(III), substituted “subchapter for the fiscal year” for “part for the fiscal year” and “part B of this subchapter (as in effect on September 30, 1992) in fiscal year 1992” for “this part in fiscal year 1992” and inserted “amount” after “whichever”.
+Subsec. (a)(1)(B). Pub. L. 113–128, § 461(5)(A)(i)(III), substituted “subchapter for the fiscal year” for “part for the fiscal year” and “part B of this subchapter (as in effect on September 30, 1992) in fiscal year 1992” for “this part in fiscal year 1992” and inserted “amount” after “whichever”.
 
-Subsec. (a)(2)(B). Pub. L. 113–128, § 461(5)(A)(ii), substituted “⅛ of 1 percent” for “one-eighth of one percent”.
+Subsec. (a)(2)(B). Pub. L. 113–128, § 461(5)(A)(ii), substituted “⅛ of 1 percent” for “one-eighth of one percent”.
 
-Subsec. (b). Pub. L. 113–128, § 461(5)(B), inserted “under subsection (a)” after “allotment to a State”, substituted “subchapter” for “part” in two places, and substituted “1 or more” for “one or more”.
+Subsec. (b). Pub. L. 113–128, § 461(5)(B), inserted “under subsection (a)” after “allotment to a State”, substituted “subchapter” for “part” in two places, and substituted “1 or more” for “one or more”.
 
-Subsecs. (c), (d). Pub. L. 113–128, § 461(5)(C), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 113–128, § 461(5)(C), added subsecs. (c) and (d).
 
 1998—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
 
-### § 795i. Availability of services
+### § 795i. Availability of services
 
 **(a) Supported employment services**
 
@@ -7955,17 +7955,17 @@ Except as provided in paragraph (2), funds provided under this subchapter, or su
 
 Funds allotted under this subchapter, or subchapter I, and used for the provision of services under this subchapter to youth with the most significant disabilities pursuant to section 795h(d) of this title, may be used to provide extended services to youth with the most significant disabilities. Such extended services shall be available for a period not to exceed 4 years.
 
-(Pub. L. 93–112, title VI, § 604, as added Pub. L. 113–128, title IV, § 461(6), July 22, 2014, 128 Stat. 1680.)
+(Pub. L. 93–112, title VI, § 604, as added Pub. L. 113–128, title IV, § 461(6), July 22, 2014, 128 Stat. 1680.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 795i, Pub. L. 93–112, title VI, § 604, formerly § 623, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(14)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 604, Pub. L. 113–128, title IV, § 461(3), July 22, 2014, 128 Stat. 1679, related to availability of services, prior to repeal by Pub. L. 113–128, title IV, § 461(6), July 22, 2014, 128 Stat. 1680. Provisions similar to prior section 795i were contained in section 795*l* of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 795i, Pub. L. 93–112, title VI, § 604, formerly § 623, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(14)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 604, Pub. L. 113–128, title IV, § 461(3), July 22, 2014, 128 Stat. 1679, related to availability of services, prior to repeal by Pub. L. 113–128, title IV, § 461(6), July 22, 2014, 128 Stat. 1680. Provisions similar to prior section 795i were contained in section 795*l* of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 795i, Pub. L. 93–112, title VI, § 622, formerly § 623, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2994; amended Pub. L. 98–221, title I, § 164, Feb. 22, 1984, 98 Stat. 30; Pub. L. 99–506, title VII, § 704, Oct. 21, 1986, 100 Stat. 1834; Pub. L. 100–630, title II, § 207(d), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–52, § 7(b), June 6, 1991, 105 Stat. 262; renumbered § 622 and amended Pub. L. 102–569, title VI, § 613(a), Oct. 29, 1992, 106 Stat. 4439, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
+Another prior section 795i, Pub. L. 93–112, title VI, § 622, formerly § 623, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2994; amended Pub. L. 98–221, title I, § 164, Feb. 22, 1984, 98 Stat. 30; Pub. L. 99–506, title VII, § 704, Oct. 21, 1986, 100 Stat. 1834; Pub. L. 100–630, title II, § 207(d), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–52, § 7(b), June 6, 1991, 105 Stat. 262; renumbered § 622 and amended Pub. L. 102–569, title VI, § 613(a), Oct. 29, 1992, 106 Stat. 4439, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-### § 795j. Eligibility
+### § 795j. Eligibility
 
 An individual, including a youth with a disability, shall be eligible under this subchapter to receive supported employment services authorized under this chapter if—
 
@@ -7973,15 +7973,15 @@ An individual, including a youth with a disability, shall be eligible under this
 
 **(2)** the individual is determined to be an individual with a most significant disability;
 
-**(3)** for purposes of activities carried out with funds described in section 795h(d) of this title, the individual is a youth with a disability, as defined in section 705(42) of this title; 1
+**(3)** for purposes of activities carried out with funds described in section 795h(d) of this title, the individual is a youth with a disability, as defined in section 705(42) of this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
 **(4)** a comprehensive assessment of the rehabilitation needs of the individual described in section 705(2)(B) of this title, including an evaluation of rehabilitation, career, and job needs, identifies supported employment as the appropriate employment outcome for the individual.
 
-(Pub. L. 93–112, title VI, § 605, formerly § 624, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(15)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 605 and amended Pub. L. 113–128, title IV, § 461(3), (7), July 22, 2014, 128 Stat. 1679, 1680.)
+(Pub. L. 93–112, title VI, § 605, formerly § 624, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(15)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 605 and amended Pub. L. 113–128, title IV, § 461(3), (7), July 22, 2014, 128 Stat. 1679, 1680.)
 
 **Editorial Notes**
 
@@ -7993,21 +7993,21 @@ Section 705(42) of this title, referred to in par. (3), was in the original “s
 
 Provisions similar to this section were contained in section 795m of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 795j, Pub. L. 93–112, title VI, § 631, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4439, stated purpose of program for supported employment services for individuals with severe disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795g of this title.
+A prior section 795j, Pub. L. 93–112, title VI, § 631, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4439, stated purpose of program for supported employment services for individuals with severe disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795g of this title.
 
-Another prior section 795j, Pub. L. 93–112, title VI, § 631, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1834, outlined the purpose of former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).
+Another prior section 795j, Pub. L. 93–112, title VI, § 631, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1834, outlined the purpose of former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).
 
 **Amendments**
 
-2014—Pub. L. 113–128, § 461(7)(A), in introductory provisions, inserted “, including a youth with a disability,” after “An individual” and substituted “this subchapter” for “this part”.
+2014—Pub. L. 113–128, § 461(7)(A), in introductory provisions, inserted “, including a youth with a disability,” after “An individual” and substituted “this subchapter” for “this part”.
 
-Par. (1). Pub. L. 113–128, § 461(7)(B), inserted “under subchapter I” after “rehabilitation services”.
+Par. (1). Pub. L. 113–128, § 461(7)(B), inserted “under subchapter I” after “rehabilitation services”.
 
-Pars. (3), (4). Pub. L. 113–128, § 461(7)(C)–(F), added par. (3), redesignated former par. (3) as (4), and, in par. (4), substituted “assessment of the rehabilitation needs” for “assessment of rehabilitation needs”.
+Pars. (3), (4). Pub. L. 113–128, § 461(7)(C)–(F), added par. (3), redesignated former par. (3) as (4), and, in par. (4), substituted “assessment of the rehabilitation needs” for “assessment of rehabilitation needs”.
 
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 
-### § 795k. State plan
+### § 795k. State plan
 
 **(a) State plan supplements**
 
@@ -8059,7 +8059,7 @@ To be eligible for an allotment under this subchapter, a State shall submit to t
 
 **(8)** contain such other information and be submitted in such manner as the Commissioner may require.
 
-(Pub. L. 93–112, title VI, § 606, formerly § 625, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 606 and amended Pub. L. 113–128, title IV, § 461(3), (8), July 22, 2014, 128 Stat. 1679, 1681.)
+(Pub. L. 93–112, title VI, § 606, formerly § 625, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 606 and amended Pub. L. 113–128, title IV, § 461(3), (8), July 22, 2014, 128 Stat. 1679, 1681.)
 
 **Editorial Notes**
 
@@ -8067,41 +8067,41 @@ To be eligible for an allotment under this subchapter, a State shall submit to t
 
 Provisions similar to this section were contained in section 795n of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 795k, Pub. L. 93–112, title VI, § 632, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4439, related to allotments, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795h of this title.
+A prior section 795k, Pub. L. 93–112, title VI, § 632, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4439, related to allotments, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795h of this title.
 
-Another prior section 795k, Pub. L. 93–112, title VI, § 632, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1834, related to eligibility for services under former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).
+Another prior section 795k, Pub. L. 93–112, title VI, § 632, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1834, related to eligibility for services under former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 461(8)(A), substituted “this subchapter” for “this part” and inserted “, including youth with the most significant disabilities,” after “individuals”.
+2014—Subsec. (a). Pub. L. 113–128, § 461(8)(A), substituted “this subchapter” for “this part” and inserted “, including youth with the most significant disabilities,” after “individuals”.
 
-Subsec. (b)(1). Pub. L. 113–128, § 461(8)(B)(i), substituted “this subchapter” for “this part”.
+Subsec. (b)(1). Pub. L. 113–128, § 461(8)(B)(i), substituted “this subchapter” for “this part”.
 
-Subsec. (b)(2). Pub. L. 113–128, § 461(8)(B)(ii), inserted “, including youth,” after “rehabilitation needs of individuals”.
+Subsec. (b)(2). Pub. L. 113–128, § 461(8)(B)(ii), inserted “, including youth,” after “rehabilitation needs of individuals”.
 
-Subsec. (b)(3). Pub. L. 113–128, § 461(8)(B)(iii), inserted “, including youth with the most significant disabilities,” after “provided to individuals” and made technical amendment to reference in original act which appears in text as reference to section 795h of this title.
+Subsec. (b)(3). Pub. L. 113–128, § 461(8)(B)(iii), inserted “, including youth with the most significant disabilities,” after “provided to individuals” and made technical amendment to reference in original act which appears in text as reference to section 795h of this title.
 
-Subsec. (b)(6), (7). Pub. L. 113–128, § 461(8)(B)(iv)–(vi), added par. (6), redesignated former par. (6) as (7), and struck out former par. (7) which read as follows: “provide assurances that the State agencies designated under paragraph (1) will expend not more than 5 percent of the allotment of the State under this part for administrative costs of carrying out this part; and”.
+Subsec. (b)(6), (7). Pub. L. 113–128, § 461(8)(B)(iv)–(vi), added par. (6), redesignated former par. (6) as (7), and struck out former par. (7) which read as follows: “provide assurances that the State agencies designated under paragraph (1) will expend not more than 5 percent of the allotment of the State under this part for administrative costs of carrying out this part; and”.
 
-Subsec. (b)(7)(A). Pub. L. 113–128, § 461(8)(B)(vii)(I), substituted “under this subchapter” for “under this part” in two places.
+Subsec. (b)(7)(A). Pub. L. 113–128, § 461(8)(B)(vii)(I), substituted “under this subchapter” for “under this part” in two places.
 
-Subsec. (b)(7)(B). Pub. L. 113–128, § 461(8)(B)(vii)(II), inserted “, including youth with the most significant disabilities,” after “significant disabilities”.
+Subsec. (b)(7)(B). Pub. L. 113–128, § 461(8)(B)(vii)(II), inserted “, including youth with the most significant disabilities,” after “significant disabilities”.
 
-Subsec. (b)(7)(C)(i). Pub. L. 113–128, § 461(8)(B)(vii)(III)(aa), inserted “, including, as appropriate, for youth with the most significant disabilities, transition services and pre-employment transition services” after “services to be provided”.
+Subsec. (b)(7)(C)(i). Pub. L. 113–128, § 461(8)(B)(vii)(III)(aa), inserted “, including, as appropriate, for youth with the most significant disabilities, transition services and pre-employment transition services” after “services to be provided”.
 
-Subsec. (b)(7)(C)(ii). Pub. L. 113–128, § 461(8)(B)(vii)(III)(bb), inserted “, including the extended services that may be provided to youth with the most significant disabilities under this subchapter, in accordance with an approved individualized plan for employment, for a period not to exceed 4 years” after “services needed”.
+Subsec. (b)(7)(C)(ii). Pub. L. 113–128, § 461(8)(B)(vii)(III)(bb), inserted “, including the extended services that may be provided to youth with the most significant disabilities under this subchapter, in accordance with an approved individualized plan for employment, for a period not to exceed 4 years” after “services needed”.
 
-Subsec. (b)(7)(C)(iii). Pub. L. 113–128, § 461(8)(B)(vii)(III)(cc), substituted “identify, as appropriate, the source of extended services,” for “identify the source of extended services,”, “or indicate” for “or to the extent”, and “employment is developed;” for “employment is developed, a statement describing the basis for concluding that there is a reasonable expectation that such sources will become available;”.
+Subsec. (b)(7)(C)(iii). Pub. L. 113–128, § 461(8)(B)(vii)(III)(cc), substituted “identify, as appropriate, the source of extended services,” for “identify the source of extended services,”, “or indicate” for “or to the extent”, and “employment is developed;” for “employment is developed, a statement describing the basis for concluding that there is a reasonable expectation that such sources will become available;”.
 
-Subsec. (b)(7)(D). Pub. L. 113–128, § 461(8)(B)(vii)(IV), substituted “under this subchapter” for “under this part”.
+Subsec. (b)(7)(D). Pub. L. 113–128, § 461(8)(B)(vii)(IV), substituted “under this subchapter” for “under this part”.
 
-Subsec. (b)(7)(G). Pub. L. 113–128, § 461(8)(B)(vii)(VI), struck out “for the maximum number of hours possible” after “integrated setting”.
+Subsec. (b)(7)(G). Pub. L. 113–128, § 461(8)(B)(vii)(VI), struck out “for the maximum number of hours possible” after “integrated setting”.
 
-Subsec. (b)(7)(H), (I). Pub. L. 113–128, § 461(8)(B)(vii)(V), (VII), added subpars. (H) and (I).
+Subsec. (b)(7)(H), (I). Pub. L. 113–128, § 461(8)(B)(vii)(V), (VII), added subpars. (H) and (I).
 
 1998—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
 
-### § 795l. Restriction
+### § 795l. Restriction
 
 Each State agency designated under section 795k(b)(1) of this title shall collect the information required by section 721(a)(10) of this title separately for—
 
@@ -8113,19 +8113,19 @@ Each State agency designated under section 795k(b)(1) of this title shall collec
 
 **(4)** eligible youth receiving supported employment services under subchapter I.
 
-(Pub. L. 93–112, title VI, § 607, as added Pub. L. 113–128, title IV, § 461(9), July 22, 2014, 128 Stat. 1682.)
+(Pub. L. 93–112, title VI, § 607, as added Pub. L. 113–128, title IV, § 461(9), July 22, 2014, 128 Stat. 1682.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 795*l*, Pub. L. 93–112, title VI, § 607, formerly § 626, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1216; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(17)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 607, Pub. L. 113–128, title IV, § 461(3), July 22, 2014, 128 Stat. 1679, related to restriction, prior to repeal by Pub. L. 113–128, title IV, § 461(9), July 22, 2014, 128 Stat. 1682. Provisions similar to prior section 795*l* were contained in section 795*o* of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 795*l*, Pub. L. 93–112, title VI, § 607, formerly § 626, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1216; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(17)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 607, Pub. L. 113–128, title IV, § 461(3), July 22, 2014, 128 Stat. 1679, related to restriction, prior to repeal by Pub. L. 113–128, title IV, § 461(9), July 22, 2014, 128 Stat. 1682. Provisions similar to prior section 795*l* were contained in section 795*o* of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 795*l*, Pub. L. 93–112, title VI, § 633, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4440; amended Pub. L. 103–73, title I, § 113, Aug. 11, 1993, 107 Stat. 728, related to availability of services, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795i of this title.
+Another prior section 795*l*, Pub. L. 93–112, title VI, § 633, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4440; amended Pub. L. 103–73, title I, § 113, Aug. 11, 1993, 107 Stat. 728, related to availability of services, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795i of this title.
 
-Another prior section 795*l*, Pub. L. 93–112, title VI, § 633, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1834; amended Pub. L. 100–630, title II, § 207(e), Nov. 7, 1988, 102 Stat. 3313, provided for allotments to States, unused funds, and planning grants, prior to repeal by Pub. L. 102–569, § 621(a).
+Another prior section 795*l*, Pub. L. 93–112, title VI, § 633, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1834; amended Pub. L. 100–630, title II, § 207(e), Nov. 7, 1988, 102 Stat. 3313, provided for allotments to States, unused funds, and planning grants, prior to repeal by Pub. L. 102–569, § 621(a).
 
-### § 795m. Savings provision
+### § 795m. Savings provision
 
 **(a) Supported employment services**
 
@@ -8135,7 +8135,7 @@ Nothing in this chapter shall be construed to prohibit a State from providing su
 
 Nothing in this subchapter shall be construed to prohibit a State from providing discrete postemployment services in accordance with the State plan submitted under section 721 of this title by using funds made available through a State allotment under section 730 of this title to an individual who is eligible under this subchapter.
 
-(Pub. L. 93–112, title VI, § 608, formerly § 627, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1216; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(18)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 608 and amended Pub. L. 113–128, title IV, § 461(3), (10), July 22, 2014, 128 Stat. 1679, 1682.)
+(Pub. L. 93–112, title VI, § 608, formerly § 627, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1216; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(18)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 608 and amended Pub. L. 113–128, title IV, § 461(3), (10), July 22, 2014, 128 Stat. 1679, 1682.)
 
 **Editorial Notes**
 
@@ -8143,17 +8143,17 @@ Nothing in this subchapter shall be construed to prohibit a State from providing
 
 Provisions similar to this section were contained in section 795p of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 795m, Pub. L. 93–112, title VI, § 634, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4440, related to eligibility for services, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795j of this title.
+A prior section 795m, Pub. L. 93–112, title VI, § 634, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4440, related to eligibility for services, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795j of this title.
 
-Another prior section 795m, Pub. L. 93–112, title VI, § 634, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1835; amended Pub. L. 100–630, title II, § 207(f), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607, provided for submission of State plans for assistance under former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).
+Another prior section 795m, Pub. L. 93–112, title VI, § 634, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1835; amended Pub. L. 100–630, title II, § 207(f), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607, provided for submission of State plans for assistance under former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–128, § 461(10), substituted “this subchapter” for “this part” in two places.
+2014—Subsec. (b). Pub. L. 113–128, § 461(10), substituted “this subchapter” for “this part” in two places.
 
 1998—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
 
-### § 795n. Advisory Committee on Increasing Competitive Integrated Employment for Individuals with Disabilities
+### § 795n. Advisory Committee on Increasing Competitive Integrated Employment for Individuals with Disabilities
 
 **(a) Establishment**
 
@@ -8247,23 +8247,23 @@ The Secretary of Labor shall make available to the Committee, under such arrange
 
 The Committee shall terminate on the day after the date on which the Committee submits the final report.
 
-(Pub. L. 93–112, title VI, § 609, as added Pub. L. 113–128, title IV, § 461(11), July 22, 2014, 128 Stat. 1682.)
+(Pub. L. 93–112, title VI, § 609, as added Pub. L. 113–128, title IV, § 461(11), July 22, 2014, 128 Stat. 1682.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 795n, Pub. L. 93–112, title VI, § 609, formerly § 628, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1217; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(19)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 609, Pub. L. 113–128, title IV, § 461(3), July 22, 2014, 128 Stat. 1679, related to authorization of appropriations, prior to repeal by Pub. L. 113–128, title IV, § 461(11), July 22, 2014, 128 Stat. 1682. See section 795*o* of this title. Provisions similar to prior section 795n were contained in section 795q of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 795n, Pub. L. 93–112, title VI, § 609, formerly § 628, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1217; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(19)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 609, Pub. L. 113–128, title IV, § 461(3), July 22, 2014, 128 Stat. 1679, related to authorization of appropriations, prior to repeal by Pub. L. 113–128, title IV, § 461(11), July 22, 2014, 128 Stat. 1682. See section 795*o* of this title. Provisions similar to prior section 795n were contained in section 795q of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 795n, Pub. L. 93–112, title VI, § 635, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4440, which related to State plans, was omitted in the general amendment of this subchapter by Pub. L. 105–220. See section 795k of this title.
+Another prior section 795n, Pub. L. 93–112, title VI, § 635, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4440, which related to State plans, was omitted in the general amendment of this subchapter by Pub. L. 105–220. See section 795k of this title.
 
-Another prior section 795n, Pub. L. 93–112, title VI, § 635, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1836; amended Pub. L. 100–630, title II, § 207(g), Nov. 7, 1988, 102 Stat. 3314, related to availability and comparability of services under former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).
+Another prior section 795n, Pub. L. 93–112, title VI, § 635, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1836; amended Pub. L. 100–630, title II, § 207(g), Nov. 7, 1988, 102 Stat. 3314, related to availability and comparability of services under former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).
 
-### § 795o. Authorization of appropriations
+### § 795o. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this subchapter $27,548,000 for fiscal year 2015, $29,676,000 for fiscal year 2016, $30,292,000 for fiscal year 2017, $30,963,000 for fiscal year 2018, $31,691,000 for fiscal year 2019, and $32,363,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title VI, § 610, as added Pub. L. 113–128, title IV, § 461(11), July 22, 2014, 128 Stat. 1684.)
+(Pub. L. 93–112, title VI, § 610, as added Pub. L. 113–128, title IV, § 461(11), July 22, 2014, 128 Stat. 1684.)
 
 **Editorial Notes**
 
@@ -8271,19 +8271,19 @@ There is authorized to be appropriated to carry out this subchapter $27,548,000 
 
 Prior sections 795*o* to 795r were omitted in the general amendment of this subchapter by Pub. L. 105–220.
 
-Section 795*o*, Pub. L. 93–112, title VI, § 636, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4442, related to collection of client information.
+Section 795*o*, Pub. L. 93–112, title VI, § 636, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4442, related to collection of client information.
 
-Another prior section 795*o*, Pub. L. 93–112, title VI, § 636, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1836, related to collection of client information, prior to repeal by Pub. L. 102–569, § 621(a).
+Another prior section 795*o*, Pub. L. 93–112, title VI, § 636, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1836, related to collection of client information, prior to repeal by Pub. L. 102–569, § 621(a).
 
-Section 795p, Pub. L. 93–112, title VI, § 637, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4442, contained savings provision. See section 795m of this title.
+Section 795p, Pub. L. 93–112, title VI, § 637, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4442, contained savings provision. See section 795m of this title.
 
-Another prior section 795p, Pub. L. 93–112, title VI, § 637, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1837, contained a savings provision not prohibiting a State from carrying out post-employment services leading to supported employment, prior to repeal by Pub. L. 102–569, § 621(a).
+Another prior section 795p, Pub. L. 93–112, title VI, § 637, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1837, contained a savings provision not prohibiting a State from carrying out post-employment services leading to supported employment, prior to repeal by Pub. L. 102–569, § 621(a).
 
-Section 795q, Pub. L. 93–112, title VI, § 638, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4442, authorized appropriations.
+Section 795q, Pub. L. 93–112, title VI, § 638, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4442, authorized appropriations.
 
-Another prior section 795q, Pub. L. 93–112, title VI, § 638, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1837; amended Pub. L. 100–630, title II, § 207(h), Nov. 7, 1988, 102 Stat. 3314; Pub. L. 102–52, § 7(c), June 6, 1991, 105 Stat. 262, authorized appropriations for fiscal years 1987 to 1992, prior to repeal by Pub. L. 102–569, § 621(a).
+Another prior section 795q, Pub. L. 93–112, title VI, § 638, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1837; amended Pub. L. 100–630, title II, § 207(h), Nov. 7, 1988, 102 Stat. 3314; Pub. L. 102–52, § 7(c), June 6, 1991, 105 Stat. 262, authorized appropriations for fiscal years 1987 to 1992, prior to repeal by Pub. L. 102–569, § 621(a).
 
-Section 795r, Pub. L. 93–112, title VI, § 641, formerly § 622, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2994; amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 100–630, title II, § 207(c), Nov. 7, 1988, 102 Stat. 3313; renumbered § 641 and amended Pub. L. 102–569, title I, § 102(p)(39), title VI, § 612(a)(2), (3), (b), Oct. 29, 1992, 106 Stat. 4361, 4438, related to business opportunities for individuals with disabilities.
+Section 795r, Pub. L. 93–112, title VI, § 641, formerly § 622, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2994; amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 100–630, title II, § 207(c), Nov. 7, 1988, 102 Stat. 3313; renumbered § 641 and amended Pub. L. 102–569, title I, § 102(p)(39), title VI, § 612(a)(2), (3), (b), Oct. 29, 1992, 106 Stat. 4361, 4438, related to business opportunities for individuals with disabilities.
 
 ## SUBCHAPTER VII—INDEPENDENT LIVING SERVICES AND CENTERS FOR INDEPENDENT LIVING
 
@@ -8291,13 +8291,13 @@ Section 795r, Pub. L. 93–112, title VI, § 641, formerly § 622, as added 
 
 **Codification**
 
-Title VII of the Rehabilitation Act of 1973, comprising this subchapter, was originally added to Pub. L. 93–112 by Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4443, and amended by Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718. Title VII is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1217, without reference to those intervening amendments because of the extensive revision of title VII by Pub. L. 105–220.
+Title VII of the Rehabilitation Act of 1973, comprising this subchapter, was originally added to Pub. L. 93–112 by Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4443, and amended by Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718. Title VII is shown herein, however, as having been added by Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1217, without reference to those intervening amendments because of the extensive revision of title VII by Pub. L. 105–220.
 
 ### Part A—Individuals With Significant Disabilities
 
 #### subpart 1—general provisions
 
-##### § 796. Purpose
+##### § 796. Purpose
 
 The purpose of this part is to promote a philosophy of independent living, including a philosophy of consumer control, peer support, self-help, self-determination, equal access, and individual and system advocacy, in order to maximize the leadership, empowerment, independence, and productivity of individuals with disabilities, and the integration and full inclusion of individuals with disabilities into the mainstream of American society, by—
 
@@ -8307,27 +8307,27 @@ The purpose of this part is to promote a philosophy of independent living, inclu
 
 **(3)** providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under section 796d of this title, State vocational rehabilitation programs receiving assistance under subchapter I, State programs of supported employment services receiving assistance under subchapter VI, client assistance programs receiving assistance under section 732 of this title, programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources, with the goal of improving the independence of individuals with disabilities.
 
-(Pub. L. 93–112, title VII, § 701, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1217; amended Pub. L. 113–128, title IV, § 471, July 22, 2014, 128 Stat. 1685.)
+(Pub. L. 93–112, title VII, § 701, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1217; amended Pub. L. 113–128, title IV, § 471, July 22, 2014, 128 Stat. 1685.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796, Pub. L. 93–112, title VII, § 701, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4443; amended Pub. L. 103–73, title I, § 114(a), Aug. 11, 1993, 107 Stat. 728, related to purpose of program to provide assistance for independent living for individuals with severe disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796, Pub. L. 93–112, title VII, § 701, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4443; amended Pub. L. 103–73, title I, § 114(a), Aug. 11, 1993, 107 Stat. 728, related to purpose of program to provide assistance for independent living for individuals with severe disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796, Pub. L. 93–112, title VII, § 701, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2995, provided Congressional statement of purpose of former subchapter VII, prior to repeal by Pub. L. 102–569, § 701(1).
+Another prior section 796, Pub. L. 93–112, title VII, § 701, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2995, provided Congressional statement of purpose of former subchapter VII, prior to repeal by Pub. L. 102–569, § 701(1).
 
 **Amendments**
 
-2014—Par. (3). Pub. L. 113–128 substituted “subchapter VI” for “part B of subchapter VI” and inserted before period at end “, with the goal of improving the independence of individuals with disabilities”.
+2014—Par. (3). Pub. L. 113–128 substituted “subchapter VI” for “part B of subchapter VI” and inserted before period at end “, with the goal of improving the independence of individuals with disabilities”.
 
-##### § 796–1. Administration of the independent living program
+##### § 796–1. Administration of the independent living program
 
 There is established within the Administration for Community Living of the Department of Health and Human Services, an Independent Living Administration. The Independent Living Administration shall be headed by a Director (referred to in this section as the “Director”) appointed by the Secretary of Health and Human Services. The Director shall be an individual with substantial knowledge of independent living services. The Independent Living Administration shall be the principal agency, and the Director shall be the principal officer, to carry out this part. In performing the functions of the office, the Director shall be directly responsible to the Administrator of the Administration for Community Living of the Department of Health and Human Services. The Secretary shall ensure that the Independent Living Administration has sufficient resources (including designating at least 1 individual from the Office of General Counsel who is knowledgeable about independent living services) to provide technical assistance and support to, and oversight of, the programs funded under this part.
 
-(Pub. L. 93–112, title VII, § 701A, as added Pub. L. 113–128, title IV, § 472, July 22, 2014, 128 Stat. 1685.)
+(Pub. L. 93–112, title VII, § 701A, as added Pub. L. 113–128, title IV, § 472, July 22, 2014, 128 Stat. 1685.)
 
-##### § 796a. Definitions
+##### § 796a. Definitions
 
 As used in this part:
 
@@ -8345,45 +8345,45 @@ The term “Administrator” means the Administrator of the Administration for C
 
 The term “consumer control” means, with respect to a center for independent living, that the center vests power and authority in individuals with disabilities, in terms of the management, staffing, decisionmaking, operation, and provisions of services, of the center.
 
-(Pub. L. 93–112, title VII, § 702, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1218; amended Pub. L. 113–128, title IV, § 473, July 22, 2014, 128 Stat. 1685.)
+(Pub. L. 93–112, title VII, § 702, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1218; amended Pub. L. 113–128, title IV, § 473, July 22, 2014, 128 Stat. 1685.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796a, Pub. L. 93–112, title VII, § 702, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4443, defined terms “center for independent living” and “consumer control”, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796a, Pub. L. 93–112, title VII, § 702, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4443, defined terms “center for independent living” and “consumer control”, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796a, Pub. L. 93–112, title VII, § 702, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2995; amended Pub. L. 99–506, title I, § 103(d)(2)(A), (C), title VIII, § 801, title X, §§ 1001(g)(1), 1002(h), Oct. 21, 1986, 100 Stat. 1810, 1837, 1843, 1844; Pub. L. 100–630, title II, § 208(a), Nov. 7, 1988, 102 Stat. 3314, provided eligibility requirements and definition of “comprehensive services for independent living”, prior to repeal by Pub. L. 102–569, § 701(1).
+Another prior section 796a, Pub. L. 93–112, title VII, § 702, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2995; amended Pub. L. 99–506, title I, § 103(d)(2)(A), (C), title VIII, § 801, title X, §§ 1001(g)(1), 1002(h), Oct. 21, 1986, 100 Stat. 1810, 1837, 1843, 1844; Pub. L. 100–630, title II, § 208(a), Nov. 7, 1988, 102 Stat. 3314, provided eligibility requirements and definition of “comprehensive services for independent living”, prior to repeal by Pub. L. 102–569, § 701(1).
 
 **Amendments**
 
-2014—Par. (1). Pub. L. 113–128, § 473(4), added par. (1). Former par. (1) redesignated (2).
+2014—Par. (1). Pub. L. 113–128, § 473(4), added par. (1). Former par. (1) redesignated (2).
 
-Pub. L. 113–128, § 473(1)(A), inserted “for individuals with significant disabilities (regardless of age or income)” before “that—” in introductory provisions.
+Pub. L. 113–128, § 473(1)(A), inserted “for individuals with significant disabilities (regardless of age or income)” before “that—” in introductory provisions.
 
-Par. (1)(B). Pub. L. 113–128, § 473(1)(B), inserted “, including, at a minimum, independent living core services as defined in section 705(17) of this title” before period at end.
+Par. (1)(B). Pub. L. 113–128, § 473(1)(B), inserted “, including, at a minimum, independent living core services as defined in section 705(17) of this title” before period at end.
 
-Par. (2). Pub. L. 113–128, § 473(3), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Par. (2). Pub. L. 113–128, § 473(3), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Pub. L. 113–128, § 473(2), inserted “, in terms of the management, staffing, decisionmaking, operation, and provisions of services, of the center” before period at end.
+Pub. L. 113–128, § 473(2), inserted “, in terms of the management, staffing, decisionmaking, operation, and provisions of services, of the center” before period at end.
 
-Par. (3). Pub. L. 113–128, § 473(3), redesignated par. (2) as (3).
+Par. (3). Pub. L. 113–128, § 473(3), redesignated par. (2) as (3).
 
-##### § 796b. Eligibility for receipt of services
+##### § 796b. Eligibility for receipt of services
 
 Services may be provided under this part to any individual with a significant disability, as defined in section 705(21)(B) of this title.
 
-(Pub. L. 93–112, title VII, § 703, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1218.)
+(Pub. L. 93–112, title VII, § 703, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1218.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796b, Pub. L. 93–112, title VII, § 703, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4444, related to eligibility for receipt of services, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796b, Pub. L. 93–112, title VII, § 703, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4444, related to eligibility for receipt of services, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796b, Pub. L. 93–112, title VII, § 703, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2996; amended Pub. L. 99–506, title X, § 1001(g)(2), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, § 208(b), Nov. 7, 1988, 102 Stat. 3314, related to State allotments for comprehensive services for independent living, prior to repeal by Pub. L. 102–569, § 701(1).
+Another prior section 796b, Pub. L. 93–112, title VII, § 703, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2996; amended Pub. L. 99–506, title X, § 1001(g)(2), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, § 208(b), Nov. 7, 1988, 102 Stat. 3314, related to State allotments for comprehensive services for independent living, prior to repeal by Pub. L. 102–569, § 701(1).
 
-##### § 796c. State plan
+##### § 796c. State plan
 
 **(a) In general**
 
@@ -8525,29 +8525,29 @@ The plan shall establish a method for the periodic evaluation of the effectivene
 
 The plan shall describe how the State will provide independent living services described in section 705(18) of this title that promote full access to community life for individuals with significant disabilities.
 
-(Pub. L. 93–112, title VII, § 704, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1218; amended Pub. L. 113–128, title IV, § 474, July 22, 2014, 128 Stat. 1686.)
+(Pub. L. 93–112, title VII, § 704, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1218; amended Pub. L. 113–128, title IV, § 474, July 22, 2014, 128 Stat. 1686.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796c, Pub. L. 93–112, title VII, § 704, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4444; amended Pub. L. 103–73, title I, § 114(b), Aug. 11, 1993, 107 Stat. 728, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796c, Pub. L. 93–112, title VII, § 704, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4444; amended Pub. L. 103–73, title I, § 114(b), Aug. 11, 1993, 107 Stat. 728, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796c, Pub. L. 93–112, title VII, § 704, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2997; amended Pub. L. 100–630, title II, § 208(c), Nov. 7, 1988, 102 Stat. 3314, related to payments to States from allotments to pay Federal share of expenditures, prior to repeal by Pub. L. 102–569, § 701(1).
+Another prior section 796c, Pub. L. 93–112, title VII, § 704, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2997; amended Pub. L. 100–630, title II, § 208(c), Nov. 7, 1988, 102 Stat. 3314, related to payments to States from allotments to pay Federal share of expenditures, prior to repeal by Pub. L. 102–569, § 701(1).
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 474(1)(A), substituted “Administrator” for “Commissioner” in two places and inserted “developed and signed in accordance with paragraph (2),” after “State plan”.
+2014—Subsec. (a)(1). Pub. L. 113–128, § 474(1)(A), substituted “Administrator” for “Commissioner” in two places and inserted “developed and signed in accordance with paragraph (2),” after “State plan”.
 
-Subsec. (a)(2). Pub. L. 113–128, § 474(1)(B), struck out “developed and signed by” after “jointly” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (a)(2). Pub. L. 113–128, § 474(1)(B), struck out “developed and signed by” after “jointly” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) the director of the designated State unit; and
 
 “(B) the chairperson of the Statewide Independent Living Council, acting on behalf of and at the direction of the Council.”
 
-Subsec. (a)(3)(A). Pub. L. 113–128, § 474(1)(C)(i), substituted “independent living services in the State” for “State independent living services”.
+Subsec. (a)(3)(A). Pub. L. 113–128, § 474(1)(C)(i), substituted “independent living services in the State” for “State independent living services”.
 
-Subsec. (a)(3)(C). Pub. L. 113–128, § 474(1)(C)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows:
+Subsec. (a)(3)(C). Pub. L. 113–128, § 474(1)(C)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows:
 
 “(C) working relationships between—
 
@@ -8555,27 +8555,27 @@ Subsec. (a)(3)(C). Pub. L. 113–128, § 474(1)(C)(ii), added subpar. (C) and 
 
 “(ii) the vocational rehabilitation program established under subchapter I of this chapter, and other programs providing services for individuals with disabilities.”
 
-Subsec. (a)(4). Pub. L. 113–128, § 474(1)(D), substituted “Administrator” for “Commissioner” in two places.
+Subsec. (a)(4). Pub. L. 113–128, § 474(1)(D), substituted “Administrator” for “Commissioner” in two places.
 
-Subsec. (a)(5). Pub. L. 113–128, § 474(1)(E), added par. (5).
+Subsec. (a)(5). Pub. L. 113–128, § 474(1)(E), added par. (5).
 
-Subsec. (c). Pub. L. 113–128, § 474(2)(A), (B), substituted “entity” for “unit” in heading and “a State entity of such State (referred to in this subchapter as the ‘designated State entity’)” for “the designated State unit of such State” in introductory provisions.
+Subsec. (c). Pub. L. 113–128, § 474(2)(A), (B), substituted “entity” for “unit” in heading and “a State entity of such State (referred to in this subchapter as the ‘designated State entity’)” for “the designated State unit of such State” in introductory provisions.
 
-Subsec. (c)(3), (4). Pub. L. 113–128, § 474(2)(C), substituted “Administrator” for “Commissioner”.
+Subsec. (c)(3), (4). Pub. L. 113–128, § 474(2)(C), substituted “Administrator” for “Commissioner”.
 
-Subsec. (c)(5). Pub. L. 113–128, § 474(2)(D)–(F), added par. (5).
+Subsec. (c)(5). Pub. L. 113–128, § 474(2)(D)–(F), added par. (5).
 
-Subsec. (i). Pub. L. 113–128, § 474(3), added pars. (1) to (4) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (i). Pub. L. 113–128, § 474(3), added pars. (1) to (4) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) the independent living rehabilitation service program, the Statewide Independent Living Council, and centers for independent living; and
 
 “(2) the designated State unit, other State agencies represented on such Council, other councils that address the needs of specific disability populations and issues, and other public and private entities determined to be appropriate by the Council.”
 
-Subsec. (m)(4), (5). Pub. L. 113–128, § 474(4), substituted “Administrator” for “Commissioner” wherever appearing.
+Subsec. (m)(4), (5). Pub. L. 113–128, § 474(4), substituted “Administrator” for “Commissioner” wherever appearing.
 
-Subsec. (*o*). Pub. L. 113–128, § 474(5), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 113–128, § 474(5), added subsec. (*o*).
 
-##### § 796d. Statewide Independent Living Council
+##### § 796d. Statewide Independent Living Council
 
 **(a) Establishment**
 
@@ -8713,23 +8713,23 @@ While assisting the Council in carrying out its duties, staff and other personne
 
 The Council may use available resources to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (such as personal assistance services), and to pay reasonable compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
 
-(Pub. L. 93–112, title VII, § 705, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1220; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 113–128, title IV, § 475, July 22, 2014, 128 Stat. 1687.)
+(Pub. L. 93–112, title VII, § 705, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1220; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 113–128, title IV, § 475, July 22, 2014, 128 Stat. 1687.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796d, Pub. L. 93–112, title VII, § 705, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4446; amended Pub. L. 103–73, title I, § 114(c), Aug. 11, 1993, 107 Stat. 728, related to Statewide Independent Living Councils, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796d, Pub. L. 93–112, title VII, § 705, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4446; amended Pub. L. 103–73, title I, § 114(c), Aug. 11, 1993, 107 Stat. 728, related to Statewide Independent Living Councils, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796d, Pub. L. 93–112, title VII, § 705, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2997; amended Pub. L. 99–506, title I, § 103(d)(2)(B), (C), (h)(2), title VIII, § 802, title X, § 1001(g)(3), Oct. 21, 1986, 100 Stat. 1810, 1811, 1837, 1843; Pub. L. 100–630, title II, § 208(d), Nov. 7, 1988, 102 Stat. 3314; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607, related to State plans for providing comprehensive services for independent living, prior to repeal by Pub. L. 102–569, § 701(1).
+Another prior section 796d, Pub. L. 93–112, title VII, § 705, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2997; amended Pub. L. 99–506, title I, § 103(d)(2)(B), (C), (h)(2), title VIII, § 802, title X, § 1001(g)(3), Oct. 21, 1986, 100 Stat. 1810, 1811, 1837, 1843; Pub. L. 100–630, title II, § 208(d), Nov. 7, 1988, 102 Stat. 3314; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607, related to State plans for providing comprehensive services for independent living, prior to repeal by Pub. L. 102–569, § 701(1).
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 475(1), inserted “and maintain” after “shall establish”.
+2014—Subsec. (a). Pub. L. 113–128, § 475(1), inserted “and maintain” after “shall establish”.
 
-Subsec. (b)(2)(A). Pub. L. 113–128, § 475(2)(A)(i), inserted “among its voting members,” before “at least” and substituted “1” for “one”.
+Subsec. (b)(2)(A). Pub. L. 113–128, § 475(2)(A)(i), inserted “among its voting members,” before “at least” and substituted “1” for “one”.
 
-Subsec. (b)(2)(B), (C). Pub. L. 113–128, § 475(2)(A)(ii), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (b)(2)(B), (C). Pub. L. 113–128, § 475(2)(A)(ii), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) as ex officio, nonvoting members—
 
@@ -8739,29 +8739,29 @@ Subsec. (b)(2)(B), (C). Pub. L. 113–128, § 475(2)(A)(ii), added subpars. (B
 
 “(C) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects.”
 
-Subsec. (b)(3)(B). Pub. L. 113–128, § 475(2)(B)(ii), struck out “parents and guardians of” before “individuals”.
+Subsec. (b)(3)(B). Pub. L. 113–128, § 475(2)(B)(ii), struck out “parents and guardians of” before “individuals”.
 
-Subsec. (b)(3)(C) to (G). Pub. L. 113–128, § 475(2)(B)(i), (iii), added subpar. (C) and redesignated former subpars. (C) to (F) as (D) to (G), respectively.
+Subsec. (b)(3)(C) to (G). Pub. L. 113–128, § 475(2)(B)(i), (iii), added subpar. (C) and redesignated former subpars. (C) to (F) as (D) to (G), respectively.
 
-Subsec. (b)(5)(B). Pub. L. 113–128, § 475(2)(C), substituted “paragraph (1)” for “paragraph (3)”.
+Subsec. (b)(5)(B). Pub. L. 113–128, § 475(2)(C), substituted “paragraph (1)” for “paragraph (3)”.
 
-Subsec. (b)(6)(B). Pub. L. 113–128, § 475(2)(D), inserted “, other than a representative described in paragraph (2)(A) if there is only one center for independent living within the State,” after “the Council”.
+Subsec. (b)(6)(B). Pub. L. 113–128, § 475(2)(D), inserted “, other than a representative described in paragraph (2)(A) if there is only one center for independent living within the State,” after “the Council”.
 
-Subsec. (c). Pub. L. 113–128, § 475(3), added subsec. (c) and struck out former subsec. (c) which related to duties of the Council.
+Subsec. (c). Pub. L. 113–128, § 475(3), added subsec. (c) and struck out former subsec. (c) which related to duties of the Council.
 
-Subsec. (e)(1). Pub. L. 113–128, § 475(4)(A), substituted “prepare, in conjunction with the designated State entity, a plan” for “prepare, in conjunction with the designated State unit, a plan”.
+Subsec. (e)(1). Pub. L. 113–128, § 475(4)(A), substituted “prepare, in conjunction with the designated State entity, a plan” for “prepare, in conjunction with the designated State unit, a plan”.
 
-Subsec. (e)(3). Pub. L. 113–128, § 475(4)(B), substituted “State entity” for “State agency”.
+Subsec. (e)(3). Pub. L. 113–128, § 475(4)(B), substituted “State entity” for “State agency”.
 
-Subsec. (f). Pub. L. 113–128, § 475(5), substituted “available resources” for “such resources” and “(such as personal assistance services), and to pay reasonable compensation” for “(including child care and personal assistance services), and to pay compensation”.
+Subsec. (f). Pub. L. 113–128, § 475(5), substituted “available resources” for “such resources” and “(such as personal assistance services), and to pay reasonable compensation” for “(including child care and personal assistance services), and to pay compensation”.
 
-1998—Subsec. (b)(1). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(7)(A)], in first sentence, substituted “by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “by the Governor” and, in second sentence, substituted “The appointing authority” for “The Governor”.
+1998—Subsec. (b)(1). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(7)(A)], in first sentence, substituted “by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “by the Governor” and, in second sentence, substituted “The appointing authority” for “The Governor”.
 
-Subsec. (b)(5)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(7)(B)], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
+Subsec. (b)(5)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(7)(B)], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
 
-Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(7)(C)], substituted “appointing authority described in paragraph (3)” for “Governor”.
+Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(7)(C)], substituted “appointing authority described in paragraph (3)” for “Governor”.
 
-##### § 796d–1. Responsibilities of the Administrator
+##### § 796d–1. Responsibilities of the Administrator
 
 **(a) Approval of State plans**
 
@@ -8815,43 +8815,43 @@ The Director described in section 796–1 of this title shall provide to the Adm
 
 The Director shall ensure that the report described in this subsection is made publicly available in a timely manner, including through electronic means, in order to inform the public about the administration and performance of programs under this chapter.
 
-(Pub. L. 93–112, title VII, § 706, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1223; amended Pub. L. 113–128, title IV, § 475A, July 22, 2014, 128 Stat. 1689.)
+(Pub. L. 93–112, title VII, § 706, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1223; amended Pub. L. 113–128, title IV, § 475A, July 22, 2014, 128 Stat. 1689.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796d–1, Pub. L. 93–112, title VII, § 706, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4448; amended Pub. L. 103–73, title I, § 114(d), Aug. 11, 1993, 107 Stat. 729, related to responsibilities of Commissioner, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796d–1, Pub. L. 93–112, title VII, § 706, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4448; amended Pub. L. 103–73, title I, § 114(d), Aug. 11, 1993, 107 Stat. 729, related to responsibilities of Commissioner, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796d–1, Pub. L. 93–112, title VII, § 706, as added Pub. L. 99–506, title VIII, § 803(a), Oct. 21, 1986, 100 Stat. 1837; amended Pub. L. 100–630, title II, § 208(e), Nov. 7, 1988, 102 Stat. 3314, provided for a State Independent Living Council, prior to repeal by Pub. L. 102–569, § 701(1).
+Another prior section 796d–1, Pub. L. 93–112, title VII, § 706, as added Pub. L. 99–506, title VIII, § 803(a), Oct. 21, 1986, 100 Stat. 1837; amended Pub. L. 100–630, title II, § 208(e), Nov. 7, 1988, 102 Stat. 3314, provided for a State Independent Living Council, prior to repeal by Pub. L. 102–569, § 701(1).
 
 **Amendments**
 
-2014—Pub. L. 113–128, § 475A(1), substituted “the Administrator” for “Commissioner” in section catchline.
+2014—Pub. L. 113–128, § 475A(1), substituted “the Administrator” for “Commissioner” in section catchline.
 
-Subsec. (a)(1). Pub. L. 113–128, § 475A(2)(A), substituted “Administrator” for “Commissioner” wherever appearing.
+Subsec. (a)(1). Pub. L. 113–128, § 475A(2)(A), substituted “Administrator” for “Commissioner” wherever appearing.
 
-Subsec. (a)(2)(A). Pub. L. 113–128, § 475A(2)(B)(i), substituted “Administrator” for “Commissioner”.
+Subsec. (a)(2)(A). Pub. L. 113–128, § 475A(2)(B)(i), substituted “Administrator” for “Commissioner”.
 
-Subsec. (a)(2)(B)(i). Pub. L. 113–128, § 475A(2)(B)(ii)(I), inserted “or the Commissioner” after “to the Secretary” and substituted “to the Administrator;” for “to the Commissioner; and”.
+Subsec. (a)(2)(B)(i). Pub. L. 113–128, § 475A(2)(B)(ii)(I), inserted “or the Commissioner” after “to the Secretary” and substituted “to the Administrator;” for “to the Commissioner; and”.
 
-Subsec. (a)(2)(B)(ii), (iii). Pub. L. 113–128, § 475A(2)(B)(ii)(II), (III), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (a)(2)(B)(ii), (iii). Pub. L. 113–128, § 475A(2)(B)(ii)(II), (III), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (b). Pub. L. 113–128, § 475A(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in section 796f–4 of this title.”
+Subsec. (b). Pub. L. 113–128, § 475A(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in section 796f–4 of this title.”
 
-Subsec. (c)(1). Pub. L. 113–128, § 475A(4)(A), substituted “Administrator” for “Commissioner” wherever appearing and struck out last sentence which read as follows: “The Administrator shall select the centers and State units described in this paragraph for review on a random basis.”
+Subsec. (c)(1). Pub. L. 113–128, § 475A(4)(A), substituted “Administrator” for “Commissioner” wherever appearing and struck out last sentence which read as follows: “The Administrator shall select the centers and State units described in this paragraph for review on a random basis.”
 
-Subsec. (c)(2). Pub. L. 113–128, § 475A(4)(B)(i), substituted “Administrator” for “Commissioner” in introductory provisions.
+Subsec. (c)(2). Pub. L. 113–128, § 475A(4)(B)(i), substituted “Administrator” for “Commissioner” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 113–128, § 475A(4)(B)(ii), (iii), substituted “a review described in paragraph (1)” for “such a review” and “Department of Health and Human Services” for “Department”.
+Subsec. (c)(2)(A). Pub. L. 113–128, § 475A(4)(B)(ii), (iii), substituted “a review described in paragraph (1)” for “such a review” and “Department of Health and Human Services” for “Department”.
 
-Subsec. (c)(2)(B). Pub. L. 113–128, § 475A(4)(B)(iii), substituted “Department of Health and Human Services” for “Department”.
+Subsec. (c)(2)(B). Pub. L. 113–128, § 475A(4)(B)(iii), substituted “Department of Health and Human Services” for “Department”.
 
-Subsec. (d). Pub. L. 113–128, § 475A(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Commissioner shall include, in the annual report required under section 710 of this title, information on the extent to which centers for independent living receiving funds under subpart 3 have complied with the standards and assurances set forth in section 796f–4 of this title. The Commissioner may identify individual centers for independent living in the analysis. The Commissioner shall report the results of onsite compliance reviews, identifying individual centers for independent living and other recipients of assistance under this part.”
+Subsec. (d). Pub. L. 113–128, § 475A(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Commissioner shall include, in the annual report required under section 710 of this title, information on the extent to which centers for independent living receiving funds under subpart 3 have complied with the standards and assurances set forth in section 796f–4 of this title. The Commissioner may identify individual centers for independent living in the analysis. The Commissioner shall report the results of onsite compliance reviews, identifying individual centers for independent living and other recipients of assistance under this part.”
 
 #### subpart 2—independent living services
 
-##### § 796e. Allotments
+##### § 796e. Allotments
 
 **(a) In general**
 
@@ -8895,31 +8895,31 @@ Whenever the Administrator determines that any amount of an allotment to a State
 
 Funds allotted or made available to a State under this section shall be administered by the designated State entity, in accordance with the approved State plan.
 
-(Pub. L. 93–112, title VII, § 711, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1224; amended Pub. L. 113–128, title IV, § 476(a), July 22, 2014, 128 Stat. 1690.)
+(Pub. L. 93–112, title VII, § 711, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1224; amended Pub. L. 113–128, title IV, § 476(a), July 22, 2014, 128 Stat. 1690.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Part A of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (a)(1)(B), means former part A (§ 796 et seq.) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
+Part A of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (a)(1)(B), means former part A (§ 796 et seq.) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
 
 **Prior Provisions**
 
-A prior section 796e, Pub. L. 93–112, title VII, § 711, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4450; amended Pub. L. 103–73, title I, § 114(e), Aug. 11, 1993, 107 Stat. 729, related to allotments to provide independent living services, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796e, Pub. L. 93–112, title VII, § 711, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4450; amended Pub. L. 103–73, title I, § 114(e), Aug. 11, 1993, 107 Stat. 729, related to allotments to provide independent living services, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796e, Pub. L. 93–112, title VII, § 711, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2998; amended Pub. L. 98–221, title I, § 171, Feb. 22, 1984, 98 Stat. 30; Pub. L. 99–506, title I, § 103(d)(2)(C), title VIII, §§ 804(a)(1), (b), (c), 805, Oct. 21, 1986, 100 Stat. 1810, 1838, 1839; Pub. L. 100–630, title II, § 208(f), Nov. 7, 1988, 102 Stat. 3314, related to establishment and operation of independent living centers, prior to repeal by Pub. L. 102–569, § 701(1).
+Another prior section 796e, Pub. L. 93–112, title VII, § 711, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2998; amended Pub. L. 98–221, title I, § 171, Feb. 22, 1984, 98 Stat. 30; Pub. L. 99–506, title I, § 103(d)(2)(C), title VIII, §§ 804(a)(1), (b), (c), 805, Oct. 21, 1986, 100 Stat. 1810, 1838, 1839; Pub. L. 100–630, title II, § 208(f), Nov. 7, 1988, 102 Stat. 3314, related to establishment and operation of independent living centers, prior to repeal by Pub. L. 102–569, § 701(1).
 
 **Amendments**
 
-2014—Subsec. (a)(1)(A). Pub. L. 113–128, § 476(a)(1)(A), (2), substituted “After the reservation required by section 796e–0 of this title is made, and except” for “Except”, inserted “the remainder of the” before “sums appropriated”, and substituted “Administrator” for “Commissioner”.
+2014—Subsec. (a)(1)(A). Pub. L. 113–128, § 476(a)(1)(A), (2), substituted “After the reservation required by section 796e–0 of this title is made, and except” for “Except”, inserted “the remainder of the” before “sums appropriated”, and substituted “Administrator” for “Commissioner”.
 
-Subsec. (a)(2)(B). Pub. L. 113–128, § 476(a)(1)(B), substituted “remainder described in paragraph (1)(A)” for “amounts made available for purposes of this subpart”.
+Subsec. (a)(2)(B). Pub. L. 113–128, § 476(a)(1)(B), substituted “remainder described in paragraph (1)(A)” for “amounts made available for purposes of this subpart”.
 
-Subsecs. (a)(3) to (c). Pub. L. 113–128, § 476(a)(2), substituted “Administrator” for “Commissioner” wherever appearing.
+Subsecs. (a)(3) to (c). Pub. L. 113–128, § 476(a)(2), substituted “Administrator” for “Commissioner” wherever appearing.
 
-Subsec. (d). Pub. L. 113–128, § 476(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 113–128, § 476(a)(3), added subsec. (d).
 
-##### § 796e–0. Training and technical assistance
+##### § 796e–0. Training and technical assistance
 
 **(a) Reservation of funds for training and technical assistance**
 
@@ -8933,9 +8933,9 @@ The Administrator shall conduct a survey of such Statewide Independent Living Co
 
 To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Administrator at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Administrator may require. The Administrator shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the operation of such Statewide Independent Living Councils.
 
-(Pub. L. 93–112, title VII, § 711A, as added Pub. L. 113–128, title IV, § 476(b), July 22, 2014, 128 Stat. 1690.)
+(Pub. L. 93–112, title VII, § 711A, as added Pub. L. 113–128, title IV, § 476(b), July 22, 2014, 128 Stat. 1690.)
 
-##### § 796e–1. Payments to States from allotments
+##### § 796e–1. Payments to States from allotments
 
 **(a) Payments**
 
@@ -8951,19 +8951,19 @@ The Federal share with respect to any State for any fiscal year shall be 90 perc
 
 The non-Federal share of the cost of any project that receives assistance through an allotment under this subpart may be provided in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
-(Pub. L. 93–112, title VII, § 712, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1225; amended Pub. L. 113–128, title IV, § 476(c), July 22, 2014, 128 Stat. 1691.)
+(Pub. L. 93–112, title VII, § 712, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1225; amended Pub. L. 113–128, title IV, § 476(c), July 22, 2014, 128 Stat. 1691.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796e–1, Pub. L. 93–112, title VII, § 712, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4451; amended Pub. L. 103–73, title I, § 114(f), Aug. 11, 1993, 107 Stat. 730, related to payments to States from allotments, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796e–1, Pub. L. 93–112, title VII, § 712, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4451; amended Pub. L. 103–73, title I, § 114(f), Aug. 11, 1993, 107 Stat. 730, related to payments to States from allotments, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
 2014—Subsec. (a). Pub. L. 113–128 substituted “Administrator” for “Commissioner”.
 
-##### § 796e–2. Authorized uses of funds
+##### § 796e–2. Authorized uses of funds
 
 **(a) In general**
 
@@ -8985,29 +8985,29 @@ The State may use funds received under this subpart to provide the resources des
 
 **(7)** to provide outreach to populations that are unserved or underserved by programs under this subchapter, including minority groups and urban and rural populations.
 
-(Pub. L. 93–112, title VII, § 713, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, § 476(d), July 22, 2014, 128 Stat. 1691.)
+(Pub. L. 93–112, title VII, § 713, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, § 476(d), July 22, 2014, 128 Stat. 1691.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796e–2, Pub. L. 93–112, title VII, § 713, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4451; amended Pub. L. 103–73, title I, § 114(g), Aug. 11, 1993, 107 Stat. 730, related to authorized uses of funds, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796e–2, Pub. L. 93–112, title VII, § 713, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4451; amended Pub. L. 103–73, title I, § 114(g), Aug. 11, 1993, 107 Stat. 730, related to authorized uses of funds, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Pub. L. 113–128 added subsec. (a), redesignated existing provisions as subsec. (b), in introductory provisions, substituted “The State may use the remainder of the funds described in subsection (a)—” for “The State may use funds received under this subpart to provide the resources described in section 796d(e) of this title, relating to the Statewide Independent Living Council, and may use funds received under this subpart—” and, in par. (1), inserted “, particularly those in unserved areas of the State” after “disabilities”.
+2014—Pub. L. 113–128 added subsec. (a), redesignated existing provisions as subsec. (b), in introductory provisions, substituted “The State may use the remainder of the funds described in subsection (a)—” for “The State may use funds received under this subpart to provide the resources described in section 796d(e) of this title, relating to the Statewide Independent Living Council, and may use funds received under this subpart—” and, in par. (1), inserted “, particularly those in unserved areas of the State” after “disabilities”.
 
-##### § 796e–3. Authorization of appropriations
+##### § 796e–3. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subpart $22,878,000 for fiscal year 2015, $24,645,000 for fiscal year 2016, $25,156,000 for fiscal year 2017, $25,714,000 for fiscal year 2018, $26,319,000 for fiscal year 2019, and $26,877,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title VII, § 714, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, § 476(e), July 22, 2014, 128 Stat. 1691.)
+(Pub. L. 93–112, title VII, § 714, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, § 476(e), July 22, 2014, 128 Stat. 1691.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796e–3, Pub. L. 93–112, title VII, § 714, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4452, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796e–3, Pub. L. 93–112, title VII, § 714, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4452, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
@@ -9015,7 +9015,7 @@ A prior section 796e–3, Pub. L. 93–112, title VII, § 714, as added Pub. L
 
 #### subpart 3—centers for independent living
 
-##### § 796f. Program authorization
+##### § 796f. Program authorization
 
 **(a) In general**
 
@@ -9031,7 +9031,7 @@ From the funds appropriated to carry out this subpart for any fiscal year, begin
 
 From the funds reserved under paragraph (1), the Administrator shall make grants to, or enter into contracts or cooperative agreements with, entities that have experience in the operation of centers for independent living to provide such training and technical assistance with respect to fiscal management of,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 planning, developing, conducting, administering, and evaluating centers for independent living.
 
@@ -9089,41 +9089,41 @@ To provide allotments to States in accordance with paragraph (1)(B), to provide 
 
 Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
-(Pub. L. 93–112, title VII, § 721, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, § 481, July 22, 2014, 128 Stat. 1691.)
+(Pub. L. 93–112, title VII, § 721, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, § 481, July 22, 2014, 128 Stat. 1691.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Part B of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (c)(1)(B), (C), means former part B (§ 796e) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
+Part B of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (c)(1)(B), (C), means former part B (§ 796e) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
 
 **Prior Provisions**
 
-A prior section 796f, Pub. L. 93–112, title VII, § 721, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4452; amended Pub. L. 103–73, title I, § 114(h), Aug. 11, 1993, 107 Stat. 730, authorized program to assist centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f, Pub. L. 93–112, title VII, § 721, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4452; amended Pub. L. 103–73, title I, § 114(h), Aug. 11, 1993, 107 Stat. 730, authorized program to assist centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796f, Pub. L. 93–112, title VII, § 721, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2999; amended Pub. L. 99–506, title X, § 1001(g)(4), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, § 208(g), Nov. 7, 1988, 102 Stat. 3314, related to establishment of independent living service programs for older blind individuals, prior to repeal by Pub. L. 102–569, § 701(1).
+Another prior section 796f, Pub. L. 93–112, title VII, § 721, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2999; amended Pub. L. 99–506, title X, § 1001(g)(4), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, § 208(g), Nov. 7, 1988, 102 Stat. 3314, related to establishment of independent living service programs for older blind individuals, prior to repeal by Pub. L. 102–569, § 701(1).
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 481(1), substituted “2015” for “1999” and “Administrator shall make available” for “Commissioner shall allot” and inserted “, centers for independent living,” after “States”.
+2014—Subsec. (a). Pub. L. 113–128, § 481(1), substituted “2015” for “1999” and “Administrator shall make available” for “Commissioner shall allot” and inserted “, centers for independent living,” after “States”.
 
-Subsec. (b)(1). Pub. L. 113–128, § 481(2)(A), in heading, substituted “cooperative agreements” for “other arrangements”, and in text, substituted “From the funds appropriated to carry out this subpart for any fiscal year, beginning with fiscal year 2015, the Administrator” for “For any fiscal year in which the funds appropriated to carry out this subpart exceed the funds appropriated to carry out this subpart for fiscal year 1993, the Commissioner”, “reserve not less than 1.8 percent and not more than 2 percent of the funds” for “reserve from such excess”, and “centers for independent living and eligible agencies for such fiscal year.” for “eligible agencies, centers for independent living, and Statewide Independent Living Councils for such fiscal year, not less than 1.8 percent, and not more than 2 percent, of the funds appropriated to carry out this subpart for the fiscal year involved.”
+Subsec. (b)(1). Pub. L. 113–128, § 481(2)(A), in heading, substituted “cooperative agreements” for “other arrangements”, and in text, substituted “From the funds appropriated to carry out this subpart for any fiscal year, beginning with fiscal year 2015, the Administrator” for “For any fiscal year in which the funds appropriated to carry out this subpart exceed the funds appropriated to carry out this subpart for fiscal year 1993, the Commissioner”, “reserve not less than 1.8 percent and not more than 2 percent of the funds” for “reserve from such excess”, and “centers for independent living and eligible agencies for such fiscal year.” for “eligible agencies, centers for independent living, and Statewide Independent Living Councils for such fiscal year, not less than 1.8 percent, and not more than 2 percent, of the funds appropriated to carry out this subpart for the fiscal year involved.”
 
-Subsec. (b)(2). Pub. L. 113–128, § 481(2)(B), substituted “Administrator shall make grants to, or enter into contracts or cooperative agreements with,” for “Commissioner shall make grants to, and enter into contracts and other arrangements with,” and inserted “fiscal management of,” before “planning,”.
+Subsec. (b)(2). Pub. L. 113–128, § 481(2)(B), substituted “Administrator shall make grants to, or enter into contracts or cooperative agreements with,” for “Commissioner shall make grants to, and enter into contracts and other arrangements with,” and inserted “fiscal management of,” before “planning,”.
 
-Subsec. (b)(3). Pub. L. 113–128, § 481(2)(C), (D), substituted “Administrator” for “Commissioner” and struck out “Statewide Independent Living Councils and” before “centers”.
+Subsec. (b)(3). Pub. L. 113–128, § 481(2)(C), (D), substituted “Administrator” for “Commissioner” and struck out “Statewide Independent Living Councils and” before “centers”.
 
-Subsec. (b)(4). Pub. L. 113–128, § 481(3), which directed substitution of “cooperative agreement” for “other arrangement” in par. (4), was executed by making the substitution in par. (4) of subsec. (b) to reflect the probable intent of Congress.
+Subsec. (b)(4). Pub. L. 113–128, § 481(3), which directed substitution of “cooperative agreement” for “other arrangement” in par. (4), was executed by making the substitution in par. (4) of subsec. (b) to reflect the probable intent of Congress.
 
-Pub. L. 113–128, § 481(2)(C), substituted “Administrator” for “Commissioner” wherever appearing.
+Pub. L. 113–128, § 481(2)(C), substituted “Administrator” for “Commissioner” wherever appearing.
 
-Subsec. (b)(5). Pub. L. 113–128, § 481(2)(C), substituted “Administrator” for “Commissioner”.
+Subsec. (b)(5). Pub. L. 113–128, § 481(2)(C), substituted “Administrator” for “Commissioner”.
 
-Subsec. (c). Pub. L. 113–128, § 481(4), substituted “Administrator” for “Commissioner” wherever appearing.
+Subsec. (c). Pub. L. 113–128, § 481(4), substituted “Administrator” for “Commissioner” wherever appearing.
 
-Subsec. (d). Pub. L. 113–128, § 481(5), substituted “Administrator” for “Commissioner” wherever appearing.
+Subsec. (d). Pub. L. 113–128, § 481(5), substituted “Administrator” for “Commissioner” wherever appearing.
 
-##### § 796f–1. Grants to centers for independent living in States in which Federal funding exceeds State funding
+##### § 796f–1. Grants to centers for independent living in States in which Federal funding exceeds State funding
 
 **(a) Establishment**
 
@@ -9205,33 +9205,33 @@ The Administrator shall periodically review each center receiving funds under th
 
 The Administrator shall terminate all funds under this section to such center 90 days after the date of such notification unless the center submits a plan to achieve compliance within 90 days of such notification and such plan is approved by the Administrator.
 
-(Pub. L. 93–112, title VII, § 722, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1229; amended Pub. L. 113–128, title IV, § 482(a), July 22, 2014, 128 Stat. 1692.)
+(Pub. L. 93–112, title VII, § 722, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1229; amended Pub. L. 113–128, title IV, § 482(a), July 22, 2014, 128 Stat. 1692.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796f–1, Pub. L. 93–112, title VII, § 722, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4456; amended Pub. L. 103–73, title I, § 114(i), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which Federal funding exceeds State funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f–1, Pub. L. 93–112, title VII, § 722, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4456; amended Pub. L. 103–73, title I, § 114(i), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which Federal funding exceeds State funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsecs. (a), (b). Pub. L. 113–128, § 482(a)(1), substituted “Administrator” for “Commissioner” wherever appearing.
+2014—Subsecs. (a), (b). Pub. L. 113–128, § 482(a)(1), substituted “Administrator” for “Commissioner” wherever appearing.
 
-Subsec. (c). Pub. L. 113–128, § 482(a)(1), (2), substituted “Administrator” for “Commissioner” in two places, “grants for a fiscal year” for “grants”, and “for the preceding fiscal year” for “by September 30, 1997”.
+Subsec. (c). Pub. L. 113–128, § 482(a)(1), (2), substituted “Administrator” for “Commissioner” in two places, “grants for a fiscal year” for “grants”, and “for the preceding fiscal year” for “by September 30, 1997”.
 
-Subsec. (d)(1). Pub. L. 113–128, § 482(a)(3)(A), substituted “Administrator” for “Commissioner” and “region. The Administrator’s determination of the most qualified applicant shall be consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.” for “region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.”
+Subsec. (d)(1). Pub. L. 113–128, § 482(a)(3)(A), substituted “Administrator” for “Commissioner” and “region. The Administrator’s determination of the most qualified applicant shall be consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.” for “region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.”
 
-Subsec. (d)(2). Pub. L. 113–128, § 482(a)(3)(B)(i), substituted “Administrator” for “Commissioner” in introductory provisions.
+Subsec. (d)(2). Pub. L. 113–128, § 482(a)(3)(B)(i), substituted “Administrator” for “Commissioner” in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 113–128, § 482(a)(3)(B)(ii), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “shall consider comments regarding the application, if any, by the Statewide Independent Living Council in the State in which the applicant is located;”.
+Subsec. (d)(2)(A). Pub. L. 113–128, § 482(a)(3)(B)(ii), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “shall consider comments regarding the application, if any, by the Statewide Independent Living Council in the State in which the applicant is located;”.
 
-Subsecs. (e), (g). Pub. L. 113–128, § 482(a)(4), which directed substitution of “Administrator.” for “Commissioner” wherever appearing, was executed by substituting “Administrator” for “Commissioner” wherever appearing, to reflect the probable intent of Congress.
+Subsecs. (e), (g). Pub. L. 113–128, § 482(a)(4), which directed substitution of “Administrator.” for “Commissioner” wherever appearing, was executed by substituting “Administrator” for “Commissioner” wherever appearing, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Grants to Centers for Independent Living in States in Which Federal Funding Exceeds State Funding**
 
-Pub. L. 111–213, § 2(a), July 29, 2010, 124 Stat. 2343, provided that:
+Pub. L. 111–213, § 2(a), July 29, 2010, 124 Stat. 2343, provided that:
 
 > **“(1) In general.—** If the conditions described in paragraph (2) are satisfied with respect to a State, in awarding funds to existing centers for independent living (described in section 722(c) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–1(c))) in the State, the Commissioner of the Rehabilitation Services Administration—
 
@@ -9249,7 +9249,7 @@ Pub. L. 111–213, § 2(a), July 29, 2010, 124 Stat. 2343, provided that:
 
 > **“(B)** The Commissioner is not conducting a competition to establish a new part C center for independent living with funds appropriated by the American Recovery and Reinvestment Act of 2009 in the State.”
 
-##### § 796f–2. Grants to centers for independent living in States in which State funding equals or exceeds Federal funding
+##### § 796f–2. Grants to centers for independent living in States in which State funding equals or exceeds Federal funding
 
 **(a) Establishment**
 
@@ -9359,33 +9359,33 @@ The director of the designated State unit shall annually conduct onsite complian
 
 If the director of the designated State unit proposes to take a significant adverse action against a center for independent living, the center may seek mediation and conciliation to be provided by an individual or individuals who are free of conflicts of interest identified by the chairperson of or other individual designated by the Council. If the issue is not resolved through the mediation and conciliation, the center may appeal the proposed adverse action to the Administrator for a final decision.
 
-(Pub. L. 93–112, title VII, § 723, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1231; amended Pub. L. 113–128, title IV, § 482(b), July 22, 2014, 128 Stat. 1693.)
+(Pub. L. 93–112, title VII, § 723, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1231; amended Pub. L. 113–128, title IV, § 482(b), July 22, 2014, 128 Stat. 1693.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796f–2, Pub. L. 93–112, title VII, § 723, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4458; amended Pub. L. 103–73, title I, § 114(j), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which State funding equals or exceeds Federal funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f–2, Pub. L. 93–112, title VII, § 723, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4458; amended Pub. L. 103–73, title I, § 114(j), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which State funding equals or exceeds Federal funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 482(b)(1), substituted “Administrator” for “Commissioner” wherever appearing in text.
+2014—Subsec. (a). Pub. L. 113–128, § 482(b)(1), substituted “Administrator” for “Commissioner” wherever appearing in text.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 113–128, § 482(b)(2)(A), inserted “of a designated State unit” after “director”.
+Subsec. (a)(1)(A)(ii). Pub. L. 113–128, § 482(b)(2)(A), inserted “of a designated State unit” after “director”.
 
-Subsec. (a)(3). Pub. L. 113–128, § 482(b)(2)(B), substituted “Administrator” for “Commissioner” in heading.
+Subsec. (a)(3). Pub. L. 113–128, § 482(b)(2)(B), substituted “Administrator” for “Commissioner” in heading.
 
-Subsec. (b). Pub. L. 113–128, § 482(b)(1), substituted “Administrator” for “Commissioner” in introductory provisions.
+Subsec. (b). Pub. L. 113–128, § 482(b)(1), substituted “Administrator” for “Commissioner” in introductory provisions.
 
-Subsec. (c). Pub. L. 113–128, § 482(b)(3), substituted “grants for a fiscal year” for “grants” and “for the preceding fiscal year” for “by September 30, 1997”.
+Subsec. (c). Pub. L. 113–128, § 482(b)(3), substituted “grants for a fiscal year” for “grants” and “for the preceding fiscal year” for “by September 30, 1997”.
 
-Subsecs. (g)(2), (h), (i). Pub. L. 113–128, § 482(b)(1), substituted “Administrator” for “Commissioner”.
+Subsecs. (g)(2), (h), (i). Pub. L. 113–128, § 482(b)(1), substituted “Administrator” for “Commissioner”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Grants to Centers for Independent Living in States in Which State Funding Equals or Exceeds Federal Funding**
 
-Pub. L. 111–213, § 2(b), July 29, 2010, 124 Stat. 2344, provided that:
+Pub. L. 111–213, § 2(b), July 29, 2010, 124 Stat. 2344, provided that:
 
 > “In awarding funds to existing centers for independent living (described in section 723(c) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–2(c))) in a State, the director of the designated State unit that has approval to make such awards—
 
@@ -9397,7 +9397,7 @@ Pub. L. 111–213, § 2(b), July 29, 2010, 124 Stat. 2344, provided that:
 
 > **“(2)** in fiscal year 2011 and subsequent fiscal years, may disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.).”
 
-##### § 796f–3. Centers operated by State agencies
+##### § 796f–3. Centers operated by State agencies
 
 A State that receives assistance for fiscal year 2015 with respect to a center in accordance with subsection (a) of this section (as in effect on the day before July 22, 2014) may continue to receive assistance under this subpart for fiscal year 2015 or a succeeding fiscal year if, for such fiscal year—
 
@@ -9409,21 +9409,21 @@ A State that receives assistance for fiscal year 2015 with respect to a center i
 
 **(2)** after funding all applications so submitted and approved, the Administrator determines that funds remain available to provide such assistance.
 
-(Pub. L. 93–112, title VII, § 724, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1234; amended Pub. L. 113–128, title IV, § 482(c), July 22, 2014, 128 Stat. 1693.)
+(Pub. L. 93–112, title VII, § 724, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1234; amended Pub. L. 113–128, title IV, § 482(c), July 22, 2014, 128 Stat. 1693.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796f–3, Pub. L. 93–112, title VII, § 724, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4461; amended Pub. L. 103–73, title I, § 114(k), Aug. 11, 1993, 107 Stat. 731, related to centers operated by State agencies, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f–3, Pub. L. 93–112, title VII, § 724, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4461; amended Pub. L. 103–73, title I, § 114(k), Aug. 11, 1993, 107 Stat. 731, related to centers operated by State agencies, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Pub. L. 113–128, § 482(c)(1), in introductory provisions, substituted “2015” for “1993” in two places and “July 22, 2014” for “August 7, 1998”.
+2014—Pub. L. 113–128, § 482(c)(1), in introductory provisions, substituted “2015” for “1993” in two places and “July 22, 2014” for “August 7, 1998”.
 
-Pars. (1)(A), (2). Pub. L. 113–128, § 482(c)(2), substituted “Administrator” for “Commissioner”.
+Pars. (1)(A), (2). Pub. L. 113–128, § 482(c)(2), substituted “Administrator” for “Commissioner”.
 
-##### § 796f–4. Standards and assurances for centers for independent living
+##### § 796f–4. Standards and assurances for centers for independent living
 
 **(a) In general**
 
@@ -9507,53 +9507,53 @@ The center shall conduct resource development activities to obtain funding from 
 
 **(14)** an independent living plan described in section 796c(e) of this title will be developed unless the individual who would receive services under the plan signs a waiver stating that such a plan is unnecessary.
 
-(Pub. L. 93–112, title VII, § 725, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1234; amended Pub. L. 105–332, § 5(c), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 113–128, title IV, § 483, July 22, 2014, 128 Stat. 1693.)
+(Pub. L. 93–112, title VII, § 725, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1234; amended Pub. L. 105–332, § 5(c), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 113–128, title IV, § 483, July 22, 2014, 128 Stat. 1693.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796f–4, Pub. L. 93–112, title VII, § 725, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4462; amended Pub. L. 103–73, title I, § 114(*l*), Aug. 11, 1993, 107 Stat. 731, related to standards and assurances for centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f–4, Pub. L. 93–112, title VII, § 725, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4462; amended Pub. L. 103–73, title I, § 114(*l*), Aug. 11, 1993, 107 Stat. 731, related to standards and assurances for centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (b)(1)(D). Pub. L. 113–128, § 483(1), substituted “access for” for “access of” and “, within their communities,” for “to society and”.
+2014—Subsec. (b)(1)(D). Pub. L. 113–128, § 483(1), substituted “access for” for “access of” and “, within their communities,” for “to society and”.
 
-Subsec. (c). Pub. L. 113–128, § 483(2), substituted “Administrator” for “Commissioner” wherever appearing.
+Subsec. (c). Pub. L. 113–128, § 483(2), substituted “Administrator” for “Commissioner” wherever appearing.
 
 1998—Subsec. (c)(7). Pub. L. 105–332 substituted “management;” for “management, including making arrangements for an annual independent fiscal audit, notwithstanding section 7502(a)(2)(A) of title 31;”.
 
-##### § 796f–5. “Eligible agency” defined
+##### § 796f–5. “Eligible agency” defined
 
 As used in this subpart, the term “eligible agency” means a consumer-controlled, community-based, cross-disability, nonresidential private nonprofit agency.
 
-(Pub. L. 93–112, title VII, § 726, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1237.)
+(Pub. L. 93–112, title VII, § 726, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1237.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796f–5, Pub. L. 93–112, title VII, § 726, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4464, defined “eligible agency”, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f–5, Pub. L. 93–112, title VII, § 726, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4464, defined “eligible agency”, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-##### § 796f–6. Authorization of appropriations
+##### § 796f–6. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subpart $78,305,000 for fiscal year 2015, $84,353,000 for fiscal year 2016, $86,104,000 for fiscal year 2017, $88,013,000 for fiscal year 2018, $90,083,000 for fiscal year 2019, and $91,992,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title VII, § 727, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, § 484, July 22, 2014, 128 Stat. 1693.)
+(Pub. L. 93–112, title VII, § 727, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, § 484, July 22, 2014, 128 Stat. 1693.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796f–6, Pub. L. 93–112, title VII, § 727, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4464, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f–6, Pub. L. 93–112, title VII, § 727, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4464, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Prior sections 796g to 796i were repealed by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
+Prior sections 796g to 796i were repealed by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
 
-Section 796g, Pub. L. 93–112, title VII, § 731, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 3000; amended Pub. L. 99–506, title I, § 103(h)(2), Oct. 21, 1986, 100 Stat. 1811; Pub. L. 100–630, title II, § 208(h), Nov. 7, 1988, 102 Stat. 3314, provided for grants to States to establish systems to protect and advocate for rights of individuals with severe handicaps.
+Section 796g, Pub. L. 93–112, title VII, § 731, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 3000; amended Pub. L. 99–506, title I, § 103(h)(2), Oct. 21, 1986, 100 Stat. 1811; Pub. L. 100–630, title II, § 208(h), Nov. 7, 1988, 102 Stat. 3314, provided for grants to States to establish systems to protect and advocate for rights of individuals with severe handicaps.
 
-Section 796h, Pub. L. 93–112, title VII, § 732, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 3000; amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810, related to affirmative action on part of recipients of assistance to employ and advance in employment qualified individuals with handicaps.
+Section 796h, Pub. L. 93–112, title VII, § 732, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 3000; amended Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810, related to affirmative action on part of recipients of assistance to employ and advance in employment qualified individuals with handicaps.
 
-Section 796i, Pub. L. 93–112, title VII, § 741, formerly § 731, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 3001; renumbered § 741 and amended Pub. L. 98–221, title I, § 172(a)(1), (b), Feb. 22, 1984, 98 Stat. 32; Pub. L. 99–506, title VIII, § 806, Oct. 21, 1986, 100 Stat. 1840; Pub. L. 100–630, title II, § 208(i), Nov. 7, 1988, 102 Stat. 3315; Pub. L. 102–52, § 8, June 6, 1991, 105 Stat. 262, provided for appropriations.
+Section 796i, Pub. L. 93–112, title VII, § 741, formerly § 731, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 3001; renumbered § 741 and amended Pub. L. 98–221, title I, § 172(a)(1), (b), Feb. 22, 1984, 98 Stat. 32; Pub. L. 99–506, title VIII, § 806, Oct. 21, 1986, 100 Stat. 1840; Pub. L. 100–630, title II, § 208(i), Nov. 7, 1988, 102 Stat. 3315; Pub. L. 102–52, § 8, June 6, 1991, 105 Stat. 262, provided for appropriations.
 
 **Amendments**
 
@@ -9561,19 +9561,19 @@ Section 796i, Pub. L. 93–112, title VII, § 741, formerly § 731, as added
 
 ### Part B—Independent Living Services for Older Individuals Who Are Blind
 
-#### § 796j. “Older individual who is blind” defined
+#### § 796j. “Older individual who is blind” defined
 
 For purposes of this part, the term “older individual who is blind” means an individual age 55 or older whose significant visual impairment makes competitive employment extremely difficult to attain but for whom independent living goals are feasible.
 
-(Pub. L. 93–112, title VII, § 751, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1237.)
+(Pub. L. 93–112, title VII, § 751, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1237.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102–569, title VII, § 703(a), Oct. 29, 1992, 106 Stat. 4464, defined “older individual who is blind”, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102–569, title VII, § 703(a), Oct. 29, 1992, 106 Stat. 4464, defined “older individual who is blind”, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-#### § 796j–1. Training and technical assistance
+#### § 796j–1. Training and technical assistance
 
 **(a) In general**
 
@@ -9587,9 +9587,9 @@ The Commissioner shall conduct a survey of designated State agencies that receiv
 
 To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Commissioner at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the provision of services to older individuals who are blind.
 
-(Pub. L. 93–112, title VII, § 751A, as added Pub. L. 113–128, title IV, § 486, July 22, 2014, 128 Stat. 1693.)
+(Pub. L. 93–112, title VII, § 751A, as added Pub. L. 113–128, title IV, § 486, July 22, 2014, 128 Stat. 1693.)
 
-#### § 796k. Program of grants
+#### § 796k. Program of grants
 
 **(a) In general**
 
@@ -9751,49 +9751,49 @@ From the amounts specified in subparagraph (B), the Commissioner may make grants
 
 The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a).
 
-(Pub. L. 93–112, title VII, § 752, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, § 487, July 22, 2014, 128 Stat. 1694.)
+(Pub. L. 93–112, title VII, § 752, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, § 487, July 22, 2014, 128 Stat. 1694.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Part C, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§ 796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
+Part C, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§ 796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
 
 **Prior Provisions**
 
-A prior section 796k, Pub. L. 93–112, title VII, § 752, as added Pub. L. 102–569, title VII, § 703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, § 114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796k, Pub. L. 93–112, title VII, § 752, as added Pub. L. 102–569, title VII, § 703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, § 114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
-2014—Subsec. (c)(2). Pub. L. 113–128, § 487(3), substituted “subsection (i)” for “subsection (j)” and “subsection (h)” for “subsection (i)”.
+2014—Subsec. (c)(2). Pub. L. 113–128, § 487(3), substituted “subsection (i)” for “subsection (j)” and “subsection (h)” for “subsection (i)”.
 
-Subsec. (g). Pub. L. 113–128, § 487(4), inserted “, or contracts or cooperative agreements with,” after “grants to”.
+Subsec. (g). Pub. L. 113–128, § 487(4), inserted “, or contracts or cooperative agreements with,” after “grants to”.
 
-Subsec. (h). Pub. L. 113–128, § 487(1), (2), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “The Commissioner may not make a grant under subsection (a) unless the State involved agrees that, in carrying out subsection (d)(1), the State will seek to incorporate into the State plan under section 796c of this title any new methods and approaches relating to independent living services for older individuals who are blind.”
+Subsec. (h). Pub. L. 113–128, § 487(1), (2), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “The Commissioner may not make a grant under subsection (a) unless the State involved agrees that, in carrying out subsection (d)(1), the State will seek to incorporate into the State plan under section 796c of this title any new methods and approaches relating to independent living services for older individuals who are blind.”
 
-Subsec. (h)(1). Pub. L. 113–128, § 487(5)(A), substituted “subsection (i)(4)” for “subsection (j)(4)”.
+Subsec. (h)(1). Pub. L. 113–128, § 487(5)(A), substituted “subsection (i)(4)” for “subsection (j)(4)”.
 
-Subsec. (h)(2)(A)(vi) to (C). Pub. L. 113–128, § 487(5)(B), inserted “and” after semicolon at end of subpar. (A)(vi), substituted a period for “; and” at end of subpar. (B)(ii)(III), and struck out subpar. (C) which read as follows: “an assurance that the application is consistent with the State plan for providing independent living services required by section 796c of this title.”
+Subsec. (h)(2)(A)(vi) to (C). Pub. L. 113–128, § 487(5)(B), inserted “and” after semicolon at end of subpar. (A)(vi), substituted a period for “; and” at end of subpar. (B)(ii)(III), and struck out subpar. (C) which read as follows: “an assurance that the application is consistent with the State plan for providing independent living services required by section 796c of this title.”
 
-Subsec. (i). Pub. L. 113–128, § 487(2), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 113–128, § 487(2), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-Subsec. (i)(2)(A)(ii), (3)(A). Pub. L. 113–128, § 487(6)(A), (B), inserted “, and not reserved under section 796j–1 of this title,” after “section 796*l* of this title”.
+Subsec. (i)(2)(A)(ii), (3)(A). Pub. L. 113–128, § 487(6)(A), (B), inserted “, and not reserved under section 796j–1 of this title,” after “section 796*l* of this title”.
 
-Subsec. (i)(4)(B)(i). Pub. L. 113–128, § 487(6)(C), substituted “subsection (h)” for “subsection (i)”.
+Subsec. (i)(4)(B)(i). Pub. L. 113–128, § 487(6)(C), substituted “subsection (h)” for “subsection (i)”.
 
-Subsec. (j). Pub. L. 113–128, § 487(2), redesignated subsec. (j) as (i).
+Subsec. (j). Pub. L. 113–128, § 487(2), redesignated subsec. (j) as (i).
 
-#### § 796l. Authorization of appropriations
+#### § 796l. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this part $33,317,000 for fiscal year 2015, $35,890,000 for fiscal year 2016, $36,635,000 for fiscal year 2017, $37,448,000 for fiscal year 2018, $38,328,000 for fiscal year 2019, and $39,141,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title VII, § 753, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1241; amended Pub. L. 113–128, title IV, § 488, July 22, 2014, 128 Stat. 1694.)
+(Pub. L. 93–112, title VII, § 753, as added Pub. L. 105–220, title IV, § 410, Aug. 7, 1998, 112 Stat. 1241; amended Pub. L. 113–128, title IV, § 488, July 22, 2014, 128 Stat. 1694.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 796*l*, Pub. L. 93–112, title VII, § 753, as added Pub. L. 102–569, title VII, § 703(a), Oct. 29, 1992, 106 Stat. 4468, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796*l*, Pub. L. 93–112, title VII, § 753, as added Pub. L. 102–569, title VII, § 703(a), Oct. 29, 1992, 106 Stat. 4468, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 **Amendments**
 
@@ -9801,10 +9801,10 @@ A prior section 796*l*, Pub. L. 93–112, title VII, § 753, as added Pub. L. 
 
 ## SUBCHAPTER VIII—SPECIAL DEMONSTRATIONS AND TRAINING PROJECTS
 
-### §§ 797 to 797b. Repealed. Pub. L. 105–220, title IV, § 411, Aug. 7, 1998, 112 Stat. 1241
+### §§ 797 to 797b. Repealed. Pub. L. 105–220, title IV, § 411, Aug. 7, 1998, 112 Stat. 1241
 
-Section 797, Pub. L. 93–112, title VIII, § 801, as added Pub. L. 102–569, title VIII, § 801(a), Oct. 29, 1992, 106 Stat. 4469, authorized appropriations.
+Section 797, Pub. L. 93–112, title VIII, § 801, as added Pub. L. 102–569, title VIII, § 801(a), Oct. 29, 1992, 106 Stat. 4469, authorized appropriations.
 
-Section 797a, Pub. L. 93–112, title VIII, § 802, as added Pub. L. 102–569, title VIII, § 801(a), Oct. 29, 1992, 106 Stat. 4469, authorized grants for various demonstration projects.
+Section 797a, Pub. L. 93–112, title VIII, § 802, as added Pub. L. 102–569, title VIII, § 801(a), Oct. 29, 1992, 106 Stat. 4469, authorized grants for various demonstration projects.
 
-Section 797b, Pub. L. 93–112, title VIII, § 803, as added Pub. L. 102–569, title VIII, § 801(a), Oct. 29, 1992, 106 Stat. 4478, authorized grants for training projects.
+Section 797b, Pub. L. 93–112, title VIII, § 803, as added Pub. L. 102–569, title VIII, § 801(a), Oct. 29, 1992, 106 Stat. 4478, authorized grants for training projects.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 66—MORRIS K. UDALL AND STEWART L. UDALL FOUNDATION
 
-## § 5601. Findings
+## § 5601. Findings
 
 The Congress finds that—
 
@@ -49,7 +49,7 @@ The Congress finds that—
 
 **(8)** it is fitting that the leadership and vision of Stewart L. Udall in the areas of environmental and Native American policy be jointly honored with that of Morris K. Udall through the foundation bearing the Udall name.
 
-(Pub. L. 102–259, § 3, Mar. 19, 1992, 106 Stat. 78; Pub. L. 111–90, § 3, Nov. 3, 2009, 123 Stat. 2976; Pub. L. 116–94, div. P, title III, § 302(b), Dec. 20, 2019, 133 Stat. 3187.)
+(Pub. L. 102–259, § 3, Mar. 19, 1992, 106 Stat. 78; Pub. L. 111–90, § 3, Nov. 3, 2009, 123 Stat. 2976; Pub. L. 116–94, div. P, title III, § 302(b), Dec. 20, 2019, 133 Stat. 3187.)
 
 **Editorial Notes**
 
@@ -63,27 +63,27 @@ The Congress finds that—
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–47, div. G, title II, § 201, Mar. 23, 2024, 138 Stat. 858, provided that: “This title [amending sections 5606 and 5609 of this title] may be cited as the ‘Udall Foundation Reauthorization Act of 2024’.”
+Pub. L. 118–47, div. G, title II, § 201, Mar. 23, 2024, 138 Stat. 858, provided that: “This title [amending sections 5606 and 5609 of this title] may be cited as the ‘Udall Foundation Reauthorization Act of 2024’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–90, § 1, Nov. 3, 2009, 123 Stat. 2976, provided that: “This Act [amending this section, sections 5602, 5603, 5605 to 5607, 5607b, and 5608 of this title, and provisions set out as note under this section] may be cited as the ‘Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009’.”
+Pub. L. 111–90, § 1, Nov. 3, 2009, 123 Stat. 2976, provided that: “This Act [amending this section, sections 5602, 5603, 5605 to 5607, 5607b, and 5608 of this title, and provisions set out as note under this section] may be cited as the ‘Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–160, § 1, Dec. 6, 2003, 117 Stat. 2013, provided that: “This Act [amending section 5609 of this title] may be cited as the ‘Environmental Policy and Conflict Resolution Advancement Act of 2003’.”
+Pub. L. 108–160, § 1, Dec. 6, 2003, 117 Stat. 2013, provided that: “This Act [amending section 5609 of this title] may be cited as the ‘Environmental Policy and Conflict Resolution Advancement Act of 2003’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–156, § 1, Feb. 11, 1998, 112 Stat. 8, provided that: “This Act [enacting sections 5607a and 5607b of this title and amending sections 5602 to 5607, 5608, and 5609 of this title] may be cited as the ‘Environmental Policy and Conflict Resolution Act of 1998’.”
+Pub. L. 105–156, § 1, Feb. 11, 1998, 112 Stat. 8, provided that: “This Act [enacting sections 5607a and 5607b of this title and amending sections 5602 to 5607, 5608, and 5609 of this title] may be cited as the ‘Environmental Policy and Conflict Resolution Act of 1998’.”
 
 **Short Title**
 
-Pub. L. 102–259, § 1, Mar. 19, 1992, 106 Stat. 78, as amended by Pub. L. 111–90, § 2, Nov. 3, 2009, 123 Stat. 2976, provided that: “This Act [enacting this chapter] may be cited as the ‘Morris K. Udall and Stewart L. Udall Foundation Act’.”
+Pub. L. 102–259, § 1, Mar. 19, 1992, 106 Stat. 78, as amended by Pub. L. 111–90, § 2, Nov. 3, 2009, 123 Stat. 2976, provided that: “This Act [enacting this chapter] may be cited as the ‘Morris K. Udall and Stewart L. Udall Foundation Act’.”
 
 **Findings**
 
-Pub. L. 116–94, div. P, title III, § 301, Dec. 20, 2019, 133 Stat. 3186, provided that:
+Pub. L. 116–94, div. P, title III, § 301, Dec. 20, 2019, 133 Stat. 3186, provided that:
 
 > “Congress finds the following:
 
@@ -99,9 +99,9 @@ Pub. L. 116–94, div. P, title III, § 301, Dec. 20, 2019, 133 Stat. 3186, pr
 
 **Repeal of Previous Legislation**
 
-Pub. L. 102–259, § 2, Mar. 19, 1992, 106 Stat. 78, provided that: “The Morris K. Udall Scholarship and Excellence in National Environmental Policy Act, S. 1176, One Hundred Second Congress, is hereby repealed.” [For details concerning purported pocket veto of S. 1176, One Hundred Second Congress, see Weekly Compilation of Presidential Documents, vol. 28 (1992), no. 12, p. 507, Mar. 19, Presidential Statement, and Cong. Rec., vol. 138, pt. 3, p. 4078, Mar. 3, 1992.]
+Pub. L. 102–259, § 2, Mar. 19, 1992, 106 Stat. 78, provided that: “The Morris K. Udall Scholarship and Excellence in National Environmental Policy Act, S. 1176, One Hundred Second Congress, is hereby repealed.” [For details concerning purported pocket veto of S. 1176, One Hundred Second Congress, see Weekly Compilation of Presidential Documents, vol. 28 (1992), no. 12, p. 507, Mar. 19, Presidential Statement, and Cong. Rec., vol. 138, pt. 3, p. 4078, Mar. 3, 1992.]
 
-## § 5602. Definitions
+## § 5602. Definitions
 
 For the purposes of this chapter—
 
@@ -135,7 +135,7 @@ For the purposes of this chapter—
 
 **(12)** the term “Trust Fund” means the Morris K. Udall and Stewart L. Udall Trust Fund established in section 5606 of this title.
 
-(Pub. L. 102–259, § 4, Mar. 19, 1992, 106 Stat. 78; Pub. L. 105–156, § 2, Feb. 11, 1998, 112 Stat. 8; Pub. L. 105–244, title I, § 102(a)(6)(I), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 111–90, § 4, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, § 302(a), Dec. 20, 2019, 133 Stat. 3186.)
+(Pub. L. 102–259, § 4, Mar. 19, 1992, 106 Stat. 78; Pub. L. 105–156, § 2, Feb. 11, 1998, 112 Stat. 8; Pub. L. 105–244, title I, § 102(a)(6)(I), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 111–90, § 4, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, § 302(a), Dec. 20, 2019, 133 Stat. 3186.)
 
 **Editorial Notes**
 
@@ -145,37 +145,37 @@ For ratification of Compact of Free Association with the Republic of Palau, refe
 
 **Amendments**
 
-2019—Par. (2). Pub. L. 116–94, § 302(a)(1), substituted “the Udall Center for Studies in Public Policy established in 1987 at the University of Arizona, and includes the Native Nations Institute” for “the Udall Center for Studies in Public Policy established at the University of Arizona in 1987”.
+2019—Par. (2). Pub. L. 116–94, § 302(a)(1), substituted “the Udall Center for Studies in Public Policy established in 1987 at the University of Arizona, and includes the Native Nations Institute” for “the Udall Center for Studies in Public Policy established at the University of Arizona in 1987”.
 
-Par. (3). Pub. L. 116–94, § 302(a)(4), added par. (3). Former par. (3) redesignated (4).
+Par. (3). Pub. L. 116–94, § 302(a)(4), added par. (3). Former par. (3) redesignated (4).
 
-Pars. (4), (5). Pub. L. 116–94, § 302(a)(3), redesignated pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+Pars. (4), (5). Pub. L. 116–94, § 302(a)(3), redesignated pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 116–94, § 302(a)(2), (3), redesignated par. (5) as (6) and struck out former par. (6) which defined the term “Institute”.
+Par. (6). Pub. L. 116–94, § 302(a)(2), (3), redesignated par. (5) as (6) and struck out former par. (6) which defined the term “Institute”.
 
-Par. (7). Pub. L. 116–94, § 302(a)(5), substituted “section 1001(a) of this title” for “section 1141(a) of this title”.
+Par. (7). Pub. L. 116–94, § 302(a)(5), substituted “section 1001(a) of this title” for “section 1141(a) of this title”.
 
-Par. (8). Pub. L. 116–94, § 302(a)(6), added par. (8). Former par. (8) redesignated (11).
+Par. (8). Pub. L. 116–94, § 302(a)(6), added par. (8). Former par. (8) redesignated (11).
 
-Pars. (9), (10). Pub. L. 116–94, § 302(a)(7), added pars. (9) and (10). Former par. (9) redesignated (12).
+Pars. (9), (10). Pub. L. 116–94, § 302(a)(7), added pars. (9) and (10). Former par. (9) redesignated (12).
 
-Pars. (11), (12). Pub. L. 116–94, § 302(a)(3), redesignated pars. (8) and (9) as (11) and (12), respectively.
+Pars. (11), (12). Pub. L. 116–94, § 302(a)(3), redesignated pars. (8) and (9) as (11) and (12), respectively.
 
-2009—Par. (1). Pub. L. 111–90, § 4(1), struck out “Morris K. Udall Scholarship and Excellence in National Environmental Policy” before “Foundation”.
+2009—Par. (1). Pub. L. 111–90, § 4(1), struck out “Morris K. Udall Scholarship and Excellence in National Environmental Policy” before “Foundation”.
 
-Pars. (5), (9). Pub. L. 111–90, § 4(2), (3), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy”.
+Pars. (5), (9). Pub. L. 111–90, § 4(2), (3), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy”.
 
-1998—Pars. (4), (5). Pub. L. 105–156, § 2(1), (2), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (9).
+1998—Pars. (4), (5). Pub. L. 105–156, § 2(1), (2), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (9).
 
 Par. (6). Pub. L. 105–244, which directed the substitution of “section 1001” for “section 1141(a)” in par. (6), could not be executed because “section 1141(a)” did not appear in text.
 
-Pub. L. 105–156, § 2(3), added par. (6). Former par. (6) redesignated (7).
+Pub. L. 105–156, § 2(3), added par. (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 105–156, § 2(1), (4), redesignated par. (6) as (7) and struck out “and” at end. Former par. (7) redesignated (8).
+Par. (7). Pub. L. 105–156, § 2(1), (4), redesignated par. (6) as (7) and struck out “and” at end. Former par. (7) redesignated (8).
 
-Par. (8). Pub. L. 105–156, § 2(1), (5), redesignated par. (7) as (8) and substituted “; and” for period at end.
+Par. (8). Pub. L. 105–156, § 2(1), (5), redesignated par. (7) as (8) and substituted “; and” for period at end.
 
-Par. (9). Pub. L. 105–156, § 2(1), (6), redesignated par. (5) as (9) and substituted “ ‘Trust Fund’ ” for “ ‘fund’ ” and period for semicolon at end.
+Par. (9). Pub. L. 105–156, § 2(1), (6), redesignated par. (5) as (9) and substituted “ ‘Trust Fund’ ” for “ ‘fund’ ” and period for semicolon at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -183,7 +183,7 @@ Par. (9). Pub. L. 105–156, § 2(1), (6), redesignated par. (5) as (9) and su
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-## § 5603. Establishment of Morris K. Udall and Stewart L. Udall Foundation
+## § 5603. Establishment of Morris K. Udall and Stewart L. Udall Foundation
 
 **(a) Establishment**
 
@@ -207,13 +207,13 @@ There is established as an independent entity of the executive branch of the Uni
 
 **(6)** The President of the University of Arizona shall serve as a nonvoting, ex officio member and shall not be eligible to serve as chairperson.1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 **(7)** The chairperson of the President’s Council on Environmental Quality, who shall serve as a nonvoting, ex officio member and shall not be eligible to serve as chairperson.<sup>1</sup>
 
 **(c) Term of office**
 
-**(1) 2 [footnote: 2 So in original. No par. (2) has been enacted.] In general.—** The term of office of each member of the Board shall be six years, except that—
+**(1) 2 [footnote: 2 So in original. No par. (2) has been enacted.] In general.—** The term of office of each member of the Board shall be six years, except that—
 
 **(A)** in the case of the Trustees first taking offices—
 
@@ -245,7 +245,7 @@ There shall be an Executive Director of the Foundation who shall be appointed by
 
 The Executive Director of the Foundation shall be compensated at a rate determined by the Board in accordance with section 5383 of title 5.
 
-(Pub. L. 102–259, § 5, Mar. 19, 1992, 106 Stat. 79; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 655], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 105–156, § 3, Feb. 11, 1998, 112 Stat. 8; Pub. L. 111–90, § 5, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, § 303, Dec. 20, 2019, 133 Stat. 3187.)
+(Pub. L. 102–259, § 5, Mar. 19, 1992, 106 Stat. 79; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 655], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 105–156, § 3, Feb. 11, 1998, 112 Stat. 8; Pub. L. 111–90, § 5, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, § 303, Dec. 20, 2019, 133 Stat. 3187.)
 
 **Editorial Notes**
 
@@ -253,19 +253,19 @@ The Executive Director of the Foundation shall be compensated at a rate determin
 
 2019—Subsec. (e). Pub. L. 116–94 substituted “Arizona and the District of Columbia.” for “Arizona.”
 
-2009—Pub. L. 111–90, § 5(1), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline.
+2009—Pub. L. 111–90, § 5(1), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline.
 
-Subsec. (a). Pub. L. 111–90, § 5(2), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy”.
+Subsec. (a). Pub. L. 111–90, § 5(2), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy”.
 
-Subsec. (f)(2). Pub. L. 111–90, § 5(3), substituted “a rate determined by the Board in accordance with section 5383 of title 5” for “the rate specified for employees in level IV of the Executive Schedule under section 5315 of title 5”.
+Subsec. (f)(2). Pub. L. 111–90, § 5(3), substituted “a rate determined by the Board in accordance with section 5383 of title 5” for “the rate specified for employees in level IV of the Executive Schedule under section 5315 of title 5”.
 
-1998—Subsec. (b). Pub. L. 105–156, § 3(1), substituted “thirteen” for “twelve” in introductory provisions.
+1998—Subsec. (b). Pub. L. 105–156, § 3(1), substituted “thirteen” for “twelve” in introductory provisions.
 
-Subsec. (b)(7). Pub. L. 105–156, § 3(2), added par. (7).
+Subsec. (b)(7). Pub. L. 105–156, § 3(2), added par. (7).
 
 1996—Subsec. (c)(1)(C). Pub. L. 104–208 added subpar. (C).
 
-## § 5604. Purpose of Foundation
+## § 5604. Purpose of Foundation
 
 It is the purpose of the Foundation to—
 
@@ -281,15 +281,15 @@ It is the purpose of the Foundation to—
 
 **(6)** provide educational outreach regarding environmental policy;
 
-**(7)** develop resources at the Native Nations Institute to properly train Native American and Alaska Native professionals in health care and public policy, by providing education to and conducting management and leadership training of Native Americans, Alaska Natives, and others involved in tribal leadership, providing assistance and resources for policy analysis, and carrying out other appropriate activities.; 1
+**(7)** develop resources at the Native Nations Institute to properly train Native American and Alaska Native professionals in health care and public policy, by providing education to and conducting management and leadership training of Native Americans, Alaska Natives, and others involved in tribal leadership, providing assistance and resources for policy analysis, and carrying out other appropriate activities.; 1
 
-<sup>1</sup>  So in original. The period probably should not appear.
+<sup>1</sup> So in original. The period probably should not appear.
 
 **(8)** establish as part of the Foundation the John S. McCain III National Center for Environmental Conflict Resolution to assist the Federal Government in implementing section 4331 of title 42 by providing assessment, mediation, and other related services to resolve environmental issues, conflicts, and disputes involving agencies and instrumentalities of the United States; and
 
 **(9)** complement the direction established by the President in Executive Order No. 12988 (61 Fed. Reg. 4729; relating to civil justice reform).
 
-(Pub. L. 102–259, § 6, Mar. 19, 1992, 106 Stat. 80; Pub. L. 105–156, § 4, Feb. 11, 1998, 112 Stat. 9; Pub. L. 106–568, title VIII, § 817(a), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 116–94, div. P, title III, § 304, Dec. 20, 2019, 133 Stat. 3187.)
+(Pub. L. 102–259, § 6, Mar. 19, 1992, 106 Stat. 80; Pub. L. 105–156, § 4, Feb. 11, 1998, 112 Stat. 9; Pub. L. 106–568, title VIII, § 817(a), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 116–94, div. P, title III, § 304, Dec. 20, 2019, 133 Stat. 3187.)
 
 **Editorial Notes**
 
@@ -299,21 +299,21 @@ Executive Order No. 12988, referred to in par. (9), is set out as a note under s
 
 **Amendments**
 
-2019—Par. (4). Pub. L. 116–94, § 304(1), substituted “establish a program for environmental policy research at the Center and a program for environmental conflict resolution and training at the National Center” for “establish a Program for Environmental Policy Research and Environmental Conflict Resolution and Training at the Center”.
+2019—Par. (4). Pub. L. 116–94, § 304(1), substituted “establish a program for environmental policy research at the Center and a program for environmental conflict resolution and training at the National Center” for “establish a Program for Environmental Policy Research and Environmental Conflict Resolution and Training at the Center”.
 
-Par. (5). Pub. L. 116–94, § 304(2), inserted “, natural resource, conflict resolution,” after “environmental”.
+Par. (5). Pub. L. 116–94, § 304(2), inserted “, natural resource, conflict resolution,” after “environmental”.
 
-Par. (7). Pub. L. 116–94, § 304(3), inserted “at the Native Nations Institute” after “develop resources” and “providing education to and” after “policy, by”.
+Par. (7). Pub. L. 116–94, § 304(3), inserted “at the Native Nations Institute” after “develop resources” and “providing education to and” after “policy, by”.
 
-Par. (8). Pub. L. 116–94, § 304(4), substituted “John S. McCain III National Center for Environmental Conflict Resolution” for “United States Institute for Environmental Conflict Resolution” and “resolve environmental issues, conflicts, and” for “resolve environmental”.
+Par. (8). Pub. L. 116–94, § 304(4), substituted “John S. McCain III National Center for Environmental Conflict Resolution” for “United States Institute for Environmental Conflict Resolution” and “resolve environmental issues, conflicts, and” for “resolve environmental”.
 
-2000—Par. (7). Pub. L. 106–568 inserted before semicolon at end “, by conducting management and leadership training of Native Americans, Alaska Natives, and others involved in tribal leadership, providing assistance and resources for policy analysis, and carrying out other appropriate activities.”
+2000—Par. (7). Pub. L. 106–568 inserted before semicolon at end “, by conducting management and leadership training of Native Americans, Alaska Natives, and others involved in tribal leadership, providing assistance and resources for policy analysis, and carrying out other appropriate activities.”
 
-1998—Par. (4). Pub. L. 105–156, § 4(1), substituted “Environmental Conflict Resolution and Training” for “an Environmental Conflict Resolution”.
+1998—Par. (4). Pub. L. 105–156, § 4(1), substituted “Environmental Conflict Resolution and Training” for “an Environmental Conflict Resolution”.
 
-Pars. (8), (9). Pub. L. 105–156, § 4(2)–(4), added pars. (8) and (9).
+Pars. (8), (9). Pub. L. 105–156, § 4(2)–(4), added pars. (8) and (9).
 
-## § 5605. Authority of Foundation
+## § 5605. Authority of Foundation
 
 **(a) Authority of Foundation**
 
@@ -413,55 +413,55 @@ The Foundation shall determine the priority of the programs to be carried out un
 
 **(2)** shall be available to carry out the provisions of this chapter as the Board determines to be necessary and appropriate.
 
-(Pub. L. 102–259, § 7, Mar. 19, 1992, 106 Stat. 81; Pub. L. 105–156, §§ 5, 9(b), Feb. 11, 1998, 112 Stat. 9, 12; Pub. L. 111–90, § 6, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, § 305, Dec. 20, 2019, 133 Stat. 3188.)
+(Pub. L. 102–259, § 7, Mar. 19, 1992, 106 Stat. 81; Pub. L. 105–156, §§ 5, 9(b), Feb. 11, 1998, 112 Stat. 9, 12; Pub. L. 111–90, § 6, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, § 305, Dec. 20, 2019, 133 Stat. 3188.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (a)(1)(A). Pub. L. 116–94, § 305(1)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Foundation, in consultation with the Center, is authorized to identify and conduct such programs, activities, and services as the Foundation considers appropriate to carry out the purposes described in section 5604 of this title. The Foundation shall have the authority to award scholarships, fellowships, internships, and grants and fund the Center to carry out and manage other programs, activities and services.”
+2019—Subsec. (a)(1)(A). Pub. L. 116–94, § 305(1)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Foundation, in consultation with the Center, is authorized to identify and conduct such programs, activities, and services as the Foundation considers appropriate to carry out the purposes described in section 5604 of this title. The Foundation shall have the authority to award scholarships, fellowships, internships, and grants and fund the Center to carry out and manage other programs, activities and services.”
 
-Subsec. (a)(1)(B). Pub. L. 116–94, § 305(1)(A)(i)–(iii)(I), redesignated subpar. (D) as (B), substituted “John S. McCain III National Center for Environmental Conflict Resolution” for “Institute for Environmental Conflict Resolution” in heading, and struck out former subpar. (B) which read as follows: “The Foundation may provide, directly or by contract, for the conduct of national competition for the purpose of selecting recipients of scholarships, fellowships, internships, and grants awarded under this chapter.”
+Subsec. (a)(1)(B). Pub. L. 116–94, § 305(1)(A)(i)–(iii)(I), redesignated subpar. (D) as (B), substituted “John S. McCain III National Center for Environmental Conflict Resolution” for “Institute for Environmental Conflict Resolution” in heading, and struck out former subpar. (B) which read as follows: “The Foundation may provide, directly or by contract, for the conduct of national competition for the purpose of selecting recipients of scholarships, fellowships, internships, and grants awarded under this chapter.”
 
-Subsec. (a)(1)(B)(i)(I). Pub. L. 116–94, § 305(1)(A)(iii)(II)(aa), substituted “John S. McCain III National Center for Environmental Conflict Resolution” for “United States Institute for Environmental Conflict Resolution”.
+Subsec. (a)(1)(B)(i)(I). Pub. L. 116–94, § 305(1)(A)(iii)(II)(aa), substituted “John S. McCain III National Center for Environmental Conflict Resolution” for “United States Institute for Environmental Conflict Resolution”.
 
-Subsec. (a)(1)(B)(i)(II). Pub. L. 116–94, § 305(1)(A)(iii)(II)(bb), inserted “collaboration,” after “mediation,”, substituted “to resolve—” for “to resolve environmental disputes.”, and added items (aa) and (bb).
+Subsec. (a)(1)(B)(i)(II). Pub. L. 116–94, § 305(1)(A)(iii)(II)(bb), inserted “collaboration,” after “mediation,”, substituted “to resolve—” for “to resolve environmental disputes.”, and added items (aa) and (bb).
 
-Subsec. (a)(1)(B)(ii). Pub. L. 116–94, § 305(1)(A)(iii)(III), inserted “collaboration,” after “mediation,”.
+Subsec. (a)(1)(B)(ii). Pub. L. 116–94, § 305(1)(A)(iii)(III), inserted “collaboration,” after “mediation,”.
 
-Subsec. (a)(1)(C). Pub. L. 116–94, § 305(1)(A)(i), struck out subpar. (C) which read as follows: “The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American and Alaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligible individuals who meet the minimum criteria established by the Foundation.”
+Subsec. (a)(1)(C). Pub. L. 116–94, § 305(1)(A)(i), struck out subpar. (C) which read as follows: “The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American and Alaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligible individuals who meet the minimum criteria established by the Foundation.”
 
-Subsec. (a)(1)(D). Pub. L. 116–94, § 305(1)(A)(ii), redesignated subpar. (D) as (B).
+Subsec. (a)(1)(D). Pub. L. 116–94, § 305(1)(A)(ii), redesignated subpar. (D) as (B).
 
-Subsec. (a)(5), (6). Pub. L. 116–94, § 305(1)(B), (D), added pars. (5) and (6) and struck out former par. (5) which related to awarding of grants for various purposes. Former par. (6) redesignated (7).
+Subsec. (a)(5), (6). Pub. L. 116–94, § 305(1)(B), (D), added pars. (5) and (6) and struck out former par. (5) which related to awarding of grants for various purposes. Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 116–94, § 305(1)(C), (E), redesignated par. (6) as (7) and substituted “the papers of Morris K. Udall and Stewart L. Udall” for “Morris K. Udall’s papers”. Former par. (7) redesignated (8).
+Subsec. (a)(7). Pub. L. 116–94, § 305(1)(C), (E), redesignated par. (6) as (7) and substituted “the papers of Morris K. Udall and Stewart L. Udall” for “Morris K. Udall’s papers”. Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 116–94, § 305(1)(C), redesignated par. (7) as (8).
+Subsec. (a)(8). Pub. L. 116–94, § 305(1)(C), redesignated par. (7) as (8).
 
-Subsec. (a)(9). Pub. L. 116–94, § 305(1)(F), added par. (9).
+Subsec. (a)(9). Pub. L. 116–94, § 305(1)(F), added par. (9).
 
-Subsec. (c). Pub. L. 116–94, § 305(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) of this title, section 5604(a)(3) of this title, and section 5604(a)(4) of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) of this title, section 5604(a)(6) of this title, and section 5604(a)(7) of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.”
+Subsec. (c). Pub. L. 116–94, § 305(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) of this title, section 5604(a)(3) of this title, and section 5604(a)(4) of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) of this title, section 5604(a)(6) of this title, and section 5604(a)(7) of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.”
 
-Subsec. (d). Pub. L. 116–94, § 305(3), added subsec. (d).
+Subsec. (d). Pub. L. 116–94, § 305(3), added subsec. (d).
 
-2009—Subsec. (a)(5)(E). Pub. L. 111–90, § 6(1), added subpar. (E).
+2009—Subsec. (a)(5)(E). Pub. L. 111–90, § 6(1), added subpar. (E).
 
-Subsec. (b). Pub. L. 111–90, § 6(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Recipients of scholarships, fellowships, internships, and grants under this chapter shall be known as ‘Morris K. Udall Scholars’.”
+Subsec. (b). Pub. L. 111–90, § 6(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Recipients of scholarships, fellowships, internships, and grants under this chapter shall be known as ‘Morris K. Udall Scholars’.”
 
-1998—Subsec. (a)(1)(D). Pub. L. 105–156, § 5(1), added subpar. (D).
+1998—Subsec. (a)(1)(D). Pub. L. 105–156, § 5(1), added subpar. (D).
 
-Subsec. (a)(6). Pub. L. 105–156, § 9(b), substituted “Trust Fund” for “Fund”.
+Subsec. (a)(6). Pub. L. 105–156, § 9(b), substituted “Trust Fund” for “Fund”.
 
-Subsec. (a)(7). Pub. L. 105–156, § 5(2), inserted “and Training” after “Conflict Resolution”.
+Subsec. (a)(7). Pub. L. 105–156, § 5(2), inserted “and Training” after “Conflict Resolution”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **References to United States Institute for Environmental Conflict Resolution**
 
-Pub. L. 116–94, div. P, title III, § 302(c), Dec. 20, 2019, 133 Stat. 3187, provided that: “Any reference to the United States Institute for Environmental Conflict Resolution in any Federal law, Executive Order, rule, delegation of authority, or document shall be construed to refer to the John S. McCain III National Center for Environmental Conflict Resolution established under section 7(a)(1)(B) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5605(a)(1)(B)).”
+Pub. L. 116–94, div. P, title III, § 302(c), Dec. 20, 2019, 133 Stat. 3187, provided that: “Any reference to the United States Institute for Environmental Conflict Resolution in any Federal law, Executive Order, rule, delegation of authority, or document shall be construed to refer to the John S. McCain III National Center for Environmental Conflict Resolution established under section 7(a)(1)(B) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5605(a)(1)(B)).”
 
-## § 5606. Establishment of Morris K. Udall and Stewart L. Udall Trust Fund
+## § 5606. Establishment of Morris K. Udall and Stewart L. Udall Trust Fund
 
 **(a) Establishment of Trust Fund**
 
@@ -469,9 +469,9 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 **(b) Investment of Trust Fund assets**
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] In general.—** It shall be the duty of the Secretary of the Treasury to invest, at the direction of the Foundation Board, in full the amounts appropriated to the Trust Fund. Such investments shall be in public debt securities with maturities suitable to the needs of the Trust Fund. Investments in public debt securities shall bear interest “at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States” of comparable maturity. Beginning on October 1, 2023, and thereafter, interest earned from investments made with any new appropriations to the Trust Fund shall only be available subject to appropriations and is authorized to be appropriated to carry out the provisions of this chapter.
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] In general.—** It shall be the duty of the Secretary of the Treasury to invest, at the direction of the Foundation Board, in full the amounts appropriated to the Trust Fund. Such investments shall be in public debt securities with maturities suitable to the needs of the Trust Fund. Investments in public debt securities shall bear interest “at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States” of comparable maturity. Beginning on October 1, 2023, and thereafter, interest earned from investments made with any new appropriations to the Trust Fund shall only be available subject to appropriations and is authorized to be appropriated to carry out the provisions of this chapter.
 
-(Pub. L. 102–259, § 8, Mar. 19, 1992, 106 Stat. 82; Pub. L. 105–156, § 9, Feb. 11, 1998, 112 Stat. 12; Pub. L. 111–90, § 7, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 118–47, div. G, title II, § 202, Mar. 23, 2024, 138 Stat. 858.)
+(Pub. L. 102–259, § 8, Mar. 19, 1992, 106 Stat. 82; Pub. L. 105–156, § 9, Feb. 11, 1998, 112 Stat. 12; Pub. L. 111–90, § 7, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 118–47, div. G, title II, § 202, Mar. 23, 2024, 138 Stat. 858.)
 
 **Editorial Notes**
 
@@ -481,11 +481,11 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 2009—Pub. L. 111–90 substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline and in subsec. (a).
 
-1998—Subsec. (a). Pub. L. 105–156, § 9(a), substituted “The Trust Fund” for “The fund” and “5609(a)” for “5609”.
+1998—Subsec. (a). Pub. L. 105–156, § 9(a), substituted “The Trust Fund” for “The fund” and “5609(a)” for “5609”.
 
-Subsec. (b)(1). Pub. L. 105–156, § 9(b), substituted “Trust Fund” for “Fund” in two places.
+Subsec. (b)(1). Pub. L. 105–156, § 9(b), substituted “Trust Fund” for “Fund” in two places.
 
-## § 5607. Expenditures and audit of Trust Fund
+## § 5607. Expenditures and audit of Trust Fund
 
 **(a) In general**
 
@@ -495,19 +495,19 @@ The Foundation shall pay from the interest and earnings of the Trust Fund such s
 
 The activities of the Foundation and the Center under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports filed and all other papers, things, or property belonging to or in use by the Foundation and the Center, pertaining to such federally assisted activities and necessary to facilitate the audit.
 
-(Pub. L. 102–259, § 9, Mar. 19, 1992, 106 Stat. 83; Pub. L. 105–156, § 9(b), Feb. 11, 1998, 112 Stat. 12; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–90, § 8, Nov. 3, 2009, 123 Stat. 2978.)
+(Pub. L. 102–259, § 9, Mar. 19, 1992, 106 Stat. 83; Pub. L. 105–156, § 9(b), Feb. 11, 1998, 112 Stat. 12; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–90, § 8, Nov. 3, 2009, 123 Stat. 2978.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsec. (a). Pub. L. 111–90 inserted before period at end “, including a reasonable amount for official reception and representation expenses, as determined by the Board, not to exceed $5,000 for a fiscal year”.
+2009—Subsec. (a). Pub. L. 111–90 inserted before period at end “, including a reasonable amount for official reception and representation expenses, as determined by the Board, not to exceed $5,000 for a fiscal year”.
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and in two places in text.
 
 1998—Subsec. (a). Pub. L. 105–156 substituted “Trust Fund” for “Fund”.
 
-## § 5607a. Environmental Dispute Resolution Fund
+## § 5607a. Environmental Dispute Resolution Fund
 
 **(a) Establishment**
 
@@ -545,7 +545,7 @@ Any obligation acquired by the Fund may be sold by the Secretary of the Treasury
 
 The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
 
-(Pub. L. 102–259, § 10, as added Pub. L. 105–156, § 6(b), Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, § 101(h) [title V, § 517(c)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 116–94, div. P, title III, § 306, Dec. 20, 2019, 133 Stat. 3190.)
+(Pub. L. 102–259, § 10, as added Pub. L. 105–156, § 6(b), Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, § 101(h) [title V, § 517(c)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 116–94, div. P, title III, § 306, Dec. 20, 2019, 133 Stat. 3190.)
 
 **Editorial Notes**
 
@@ -557,9 +557,9 @@ A prior section 10 of Pub. L. 102–259 was renumbered section 12 and is classif
 
 2019—Subsec. (b). Pub. L. 116–94 substituted “National Center” for “Institute”.
 
-1998—Subsec. (b). Pub. L. 105–277 inserted before period at end “, including not to exceed $1,000 annually for official reception and representation expenses”.
+1998—Subsec. (b). Pub. L. 105–277 inserted before period at end “, including not to exceed $1,000 annually for official reception and representation expenses”.
 
-## § 5607b. Use of the National Center by Federal agency or other entity
+## § 5607b. Use of the National Center by Federal agency or other entity
 
 **(a) Authorization**
 
@@ -623,11 +623,11 @@ A dispute or conflict involving agencies or instrumentalities of the Federal Gov
 
 **(e) Non-Federal entities**
 
-**(1)** Non-Federal entities, including state 1
+**(1)** Non-Federal entities, including state 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
-and local governments, Native American tribal governments, nongovernmental organizations and persons, as defined in section 1 of title 1, may use the Foundation and the National Center to provide assessment, mediation, or other related services in connection with a dispute or conflict involving the Federal government 1 related to the environment, public lands, or natural resources.
+and local governments, Native American tribal governments, nongovernmental organizations and persons, as defined in section 1 of title 1, may use the Foundation and the National Center to provide assessment, mediation, or other related services in connection with a dispute or conflict involving the Federal government 1 related to the environment, public lands, or natural resources.
 
 **(2) Payment into the environmental dispute resolution fund.—** Entities utilizing services pursuant to this subsection shall reimburse the National Center for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
 
@@ -635,7 +635,7 @@ and local governments, Native American tribal governments, nongovernmental organ
 
 Use of the Foundation or National Center to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of chapter 10 of title 5.
 
-(Pub. L. 102–259, § 11, as added Pub. L. 105–156, § 7, Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, § 101(h) [title V, § 517(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 111–90, § 9, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 116–94, div. P, title III, § 307, Dec. 20, 2019, 133 Stat. 3190; Pub. L. 117–286, § 4(a)(151), Dec. 27, 2022, 136 Stat. 4322.)
+(Pub. L. 102–259, § 11, as added Pub. L. 105–156, § 7, Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, § 101(h) [title V, § 517(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 111–90, § 9, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 116–94, div. P, title III, § 307, Dec. 20, 2019, 133 Stat. 3190; Pub. L. 117–286, § 4(a)(151), Dec. 27, 2022, 136 Stat. 4322.)
 
 **Editorial Notes**
 
@@ -647,31 +647,31 @@ A prior section 11 of Pub. L. 102–259 was renumbered section 13 and is classif
 
 2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-2019—Pub. L. 116–94, § 307(1), substituted “the National Center” for “the Institute” in section catchline.
+2019—Pub. L. 116–94, § 307(1), substituted “the National Center” for “the Institute” in section catchline.
 
-Subsec. (a). Pub. L. 116–94, § 307(2), substituted “National Center” for “Institute” and “resources, or with a Federal, State, or tribal process or procedure that may result in a dispute or conflict.” for “resources.” and inserted “collaboration,” after “mediation,”.
+Subsec. (a). Pub. L. 116–94, § 307(2), substituted “National Center” for “Institute” and “resources, or with a Federal, State, or tribal process or procedure that may result in a dispute or conflict.” for “resources.” and inserted “collaboration,” after “mediation,”.
 
-Subsec. (b)(1). Pub. L. 116–94, § 307(3), substituted “National Center” for “Institute”.
+Subsec. (b)(1). Pub. L. 116–94, § 307(3), substituted “National Center” for “Institute”.
 
-Subsec. (c)(1). Pub. L. 116–94, § 307(4)(A), substituted “National Center” for “Institute”.
+Subsec. (c)(1). Pub. L. 116–94, § 307(4)(A), substituted “National Center” for “Institute”.
 
-Subsec. (c)(2)(C). Pub. L. 116–94, § 307(4)(B), inserted “mediation, collaboration, and” after “agree to”.
+Subsec. (c)(2)(C). Pub. L. 116–94, § 307(4)(B), inserted “mediation, collaboration, and” after “agree to”.
 
-Subsec. (c)(3)(A). Pub. L. 116–94, § 307(4)(C), substituted “National Center” for “Institute”.
+Subsec. (c)(3)(A). Pub. L. 116–94, § 307(4)(C), substituted “National Center” for “Institute”.
 
-Subsec. (d)(1)(A), (2). Pub. L. 116–94, § 307(5), substituted “National Center” for “Institute”.
+Subsec. (d)(1)(A), (2). Pub. L. 116–94, § 307(5), substituted “National Center” for “Institute”.
 
-Subsec. (e). Pub. L. 116–94, § 307(6), substituted “National Center” for “Institute” in pars. (1) and (2).
+Subsec. (e). Pub. L. 116–94, § 307(6), substituted “National Center” for “Institute” in pars. (1) and (2).
 
-Subsec. (f). Pub. L. 116–94, § 307(7), substituted “National Center” for “Institute”.
+Subsec. (f). Pub. L. 116–94, § 307(7), substituted “National Center” for “Institute”.
 
 2009—Subsec. (f). Pub. L. 111–90 added subsec. (f).
 
-1998—Pub. L. 105–277, § 101(h) [title V, § 517(a)(1)], inserted “or other entity” after “Federal agency” in section catchline.
+1998—Pub. L. 105–277, § 101(h) [title V, § 517(a)(1)], inserted “or other entity” after “Federal agency” in section catchline.
 
-Subsec. (e). Pub. L. 105–277, § 101(h) [title V, § 517(a)(2)], added subsec. (e).
+Subsec. (e). Pub. L. 105–277, § 101(h) [title V, § 517(a)(2)], added subsec. (e).
 
-## § 5608. Administrative provisions
+## § 5608. Administrative provisions
 
 **(a) In general** In order to carry out the provisions of this chapter, the Foundation may—
 
@@ -691,9 +691,9 @@ Subsec. (e). Pub. L. 105–277, § 101(h) [title V, § 517(a)(2)], added sub
 
 **(6)** enter into contracts, grants, or other arrangements or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board of Trustees, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
-**(7)** to 1
+**(7)** to 1
 
-<sup>1</sup>  So in original. The word “to” probably should not appear.
+<sup>1</sup> So in original. The word “to” probably should not appear.
 
 rent office space in the District of Columbia and Tucson, Arizona, or their environs; and
 
@@ -703,31 +703,31 @@ rent office space in the District of Columbia and Tucson, Arizona, or their envi
 
 The authorities set forth above shall apply to the National Center established pursuant to section 5607a of this title and to the activities of the Foundation under section 5604(7) of this title.
 
-(Pub. L. 102–259, § 12, formerly § 10, Mar. 19, 1992, 106 Stat. 83; renumbered § 12, Pub. L. 105–156, § 6(a), Feb. 11, 1998, 112 Stat. 9; amended Pub. L. 105–277, div. A, § 101(h) [title V, § 517(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 106–568, title VIII, § 817(b), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 111–90, § 10, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 116–94, div. P, title III, § 308, Dec. 20, 2019, 133 Stat. 3190.)
+(Pub. L. 102–259, § 12, formerly § 10, Mar. 19, 1992, 106 Stat. 83; renumbered § 12, Pub. L. 105–156, § 6(a), Feb. 11, 1998, 112 Stat. 9; amended Pub. L. 105–277, div. A, § 101(h) [title V, § 517(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 106–568, title VIII, § 817(b), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 111–90, § 10, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 116–94, div. P, title III, § 308, Dec. 20, 2019, 133 Stat. 3190.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2019—Subsec. (a)(4). Pub. L. 116–94, § 308(1)(A), substituted “accept, hold, solicit, administer, and utilize donations, grants, and gifts” for “accept, hold, administer, and utilize gifts”.
+2019—Subsec. (a)(4). Pub. L. 116–94, § 308(1)(A), substituted “accept, hold, solicit, administer, and utilize donations, grants, and gifts” for “accept, hold, administer, and utilize gifts”.
 
-Subsec. (a)(7). Pub. L. 116–94, § 308(1)(B), substituted “in the District of Columbia and Tucson, Arizona, or their environs” for “in the District of Columbia or its environs”.
+Subsec. (a)(7). Pub. L. 116–94, § 308(1)(B), substituted “in the District of Columbia and Tucson, Arizona, or their environs” for “in the District of Columbia or its environs”.
 
-Subsec. (b). Pub. L. 116–94, § 308(2), substituted “apply to the National Center” for “, with the exception of paragraph (4), apply to the Institute”.
+Subsec. (b). Pub. L. 116–94, § 308(2), substituted “apply to the National Center” for “, with the exception of paragraph (4), apply to the Institute”.
 
-2009—Subsec. (a)(1). Pub. L. 111–90, § 10(1), added par. (1) and struck out former par. (1) which read as follows: “appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Director be compensated at a rate to exceed the maximum rate for employees in grade GS–15 of the General Schedule under section 5332 of title 5;”.
+2009—Subsec. (a)(1). Pub. L. 111–90, § 10(1), added par. (1) and struck out former par. (1) which read as follows: “appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Director be compensated at a rate to exceed the maximum rate for employees in grade GS–15 of the General Schedule under section 5332 of title 5;”.
 
-Subsec. (a)(7), (8). Pub. L. 111–90, § 10(2)–(4), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (a)(7), (8). Pub. L. 111–90, § 10(2)–(4), added par. (7) and redesignated former par. (7) as (8).
 
 2000—Subsec. (b). Pub. L. 106–568 inserted before period at end “and to the activities of the Foundation under section 5604(7) of this title”.
 
 1998—Pub. L. 105–277 designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 5609. Authorization of appropriations
+## § 5609. Authorization of appropriations
 
 **(a) Trust Fund**
 
@@ -743,21 +743,21 @@ There is authorized to be appropriated to the Trust Fund $2,000,000 for each of 
 
 There is authorized to be appropriated to carry out section 5604(7) of this title $12,300,000 for the 5-fiscal year period beginning with fiscal year 2025.
 
-(Pub. L. 102–259, § 13, formerly § 11, Mar. 19, 1992, 106 Stat. 84; renumbered § 13 and amended Pub. L. 105–156, §§ 6(a), 8, Feb. 11, 1998, 112 Stat. 9, 12; Pub. L. 106–568, title VIII, § 817(c), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 108–160, § 2, Dec. 6, 2003, 117 Stat. 2013; Pub. L. 116–94, div. P, title III, § 309, Dec. 20, 2019, 133 Stat. 3191; Pub. L. 118–47, div. G, title II, § 203, Mar. 23, 2024, 138 Stat. 858.)
+(Pub. L. 102–259, § 13, formerly § 11, Mar. 19, 1992, 106 Stat. 84; renumbered § 13 and amended Pub. L. 105–156, §§ 6(a), 8, Feb. 11, 1998, 112 Stat. 9, 12; Pub. L. 106–568, title VIII, § 817(c), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 108–160, § 2, Dec. 6, 2003, 117 Stat. 2013; Pub. L. 116–94, div. P, title III, § 309, Dec. 20, 2019, 133 Stat. 3191; Pub. L. 118–47, div. G, title II, § 203, Mar. 23, 2024, 138 Stat. 858.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–47, § 203(1), substituted “2029” for “2023”.
+2024—Subsec. (a). Pub. L. 118–47, § 203(1), substituted “2029” for “2023”.
 
-Subsec. (b). Pub. L. 118–47, § 203(2), substituted “2029” for “2023” in introductory provisions.
+Subsec. (b). Pub. L. 118–47, § 203(2), substituted “2029” for “2023” in introductory provisions.
 
-Subsec. (c). Pub. L. 118–47, § 203(3), substituted “5-fiscal year period beginning with fiscal year 2025.” for “5-fiscal year period beginning with the fiscal year in which this subsection is enacted.”
+Subsec. (c). Pub. L. 118–47, § 203(3), substituted “5-fiscal year period beginning with fiscal year 2025.” for “5-fiscal year period beginning with the fiscal year in which this subsection is enacted.”
 
-2019—Subsec. (a). Pub. L. 116–94, § 309(1), substituted “$2,000,000 for each of fiscal years 2020 through 2023” for “$40,000,000”.
+2019—Subsec. (a). Pub. L. 116–94, § 309(1), substituted “$2,000,000 for each of fiscal years 2020 through 2023” for “$40,000,000”.
 
-Subsec. (b). Pub. L. 116–94, § 309(2), substituted “fiscal years 2020 through 2023” for “fiscal years 2004 through 2008”.
+Subsec. (b). Pub. L. 116–94, § 309(2), substituted “fiscal years 2020 through 2023” for “fiscal years 2004 through 2008”.
 
 2003—Subsec. (b). Pub. L. 108–160 added subsec. (b) and struck out former subsec. (b) which read as follows:
 
@@ -773,4 +773,4 @@ Subsec. (b). Pub. L. 116–94, § 309(2), substituted “fiscal years 2020 thr
 
 2000—Subsec. (c). Pub. L. 106–568 added subsec. (c).
 
-1998—Pub. L. 105–156, § 8, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized to be appropriated to the Trust Fund” for “There are authorized to be appropriated to the Fund”, and added subsec. (b).
+1998—Pub. L. 105–156, § 8, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized to be appropriated to the Trust Fund” for “There are authorized to be appropriated to the Fund”, and added subsec. (b).

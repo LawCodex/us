@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 10B—FISH RESTORATION AND MANAGEMENT PROJECTS
 
-## § 777. Federal-State relationships
+## § 777. Federal-State relationships
 
 **(a) Cooperation between Federal Government and State fish and game departments; expenditure of funds**
 
@@ -37,7 +37,7 @@ Subject to paragraph (2), each coastal State, to the extent practicable, shall e
 
 As used in this subsection, the term “coastal State” means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. The term also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Aug. 9, 1950, ch. 658, § 1, 64 Stat. 430; Pub. L. 98–369, div. A, title X, § 1014(a)(1), July 18, 1984, 98 Stat. 1015; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–448, § 6(c)(1), Sept. 28, 1988, 102 Stat. 1840.)
+(Aug. 9, 1950, ch. 658, § 1, 64 Stat. 430; Pub. L. 98–369, div. A, title X, § 1014(a)(1), July 18, 1984, 98 Stat. 1015; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–448, § 6(c)(1), Sept. 28, 1988, 102 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -59,43 +59,43 @@ As used in this subsection, the term ‘coastal State’ means any one of the St
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–448, § 6(e), Sept. 28, 1988, 102 Stat. 1841, provided that: “This section [enacting section 777*l* of this title, amending this section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 13101 of Title 46, and repealing provisions set out as a note under section 13103 of Title 46] shall take effect October 1, 1988.”
+Pub. L. 100–448, § 6(e), Sept. 28, 1988, 102 Stat. 1841, provided that: “This section [enacting section 777*l* of this title, amending this section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 13101 of Title 46, and repealing provisions set out as a note under section 13103 of Title 46] shall take effect October 1, 1988.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title X, § 1014(b), July 18, 1984, 98 Stat. 1016, provided that: “The amendments made by subsection (a) [amending this section and sections 777b, 777c to 777e, 777g, and 777k of this title] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984.”
+Pub. L. 98–369, div. A, title X, § 1014(b), July 18, 1984, 98 Stat. 1016, provided that: “The amendments made by subsection (a) [amending this section and sections 777b, 777c to 777e, 777g, and 777k of this title] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984.”
 
 **Effective Date**
 
-Act Aug. 9, 1950, ch. 658, § 13, 64 Stat. 434, which provided that the effective date of this chapter was July 1, 1950, was repealed by Pub. L. 106–408, title I, § 122(a)(1), Nov. 1, 2000, 114 Stat. 1772.
+Act Aug. 9, 1950, ch. 658, § 13, 64 Stat. 434, which provided that the effective date of this chapter was July 1, 1950, was repealed by Pub. L. 106–408, title I, § 122(a)(1), Nov. 1, 2000, 114 Stat. 1772.
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–141, div. C, title IV, § 34001, July 6, 2012, 126 Stat. 841, provided that: “This title [amending section 777c of this title] may be cited as the ‘Sport Fish Restoration and Recreational Boating Safety Act of 2012’.”
+Pub. L. 112–141, div. C, title IV, § 34001, July 6, 2012, 126 Stat. 841, provided that: “This title [amending section 777c of this title] may be cited as the ‘Sport Fish Restoration and Recreational Boating Safety Act of 2012’.”
 
 **Short Title of 2005 Amendments**
 
-Pub. L. 109–74, § 1, Sept. 29, 2005, 119 Stat. 2030, provided that: “This Act [amending sections 777c and 777n of this title, section 9504 of Title 26, Internal Revenue Code, and section 13106 of Title 46, Shipping, enacting provisions set out as notes under section 777b of this title and section 9504 of Title 26, and repealing provisions set out as a note under section 777b of this title] may be cited as the ‘Sportfishing and Recreational Boating Safety Amendments Act of 2005’.”
+Pub. L. 109–74, § 1, Sept. 29, 2005, 119 Stat. 2030, provided that: “This Act [amending sections 777c and 777n of this title, section 9504 of Title 26, Internal Revenue Code, and section 13106 of Title 46, Shipping, enacting provisions set out as notes under section 777b of this title and section 9504 of Title 26, and repealing provisions set out as a note under section 777b of this title] may be cited as the ‘Sportfishing and Recreational Boating Safety Amendments Act of 2005’.”
 
-Pub. L. 109–59, title X, § 10101, Aug. 10, 2005, 119 Stat. 1926, provided that: “This subtitle [subtitle A (§§ 10101–10143) of title X of Pub. L. 109–59, enacting section 777n of this title, amending sections 777b, 777c, 777g, 777g–1, 777h, 777k, and 777m of this title and sections 13102, 13104, and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 777b of this title, and amending provisions set out as a note under this section and section 1322 of Title 33, Navigation and Navigable Waters] may be cited as the ‘Sportfishing and Recreational Boating Safety Act of 2005’.”
+Pub. L. 109–59, title X, § 10101, Aug. 10, 2005, 119 Stat. 1926, provided that: “This subtitle [subtitle A (§§ 10101–10143) of title X of Pub. L. 109–59, enacting section 777n of this title, amending sections 777b, 777c, 777g, 777g–1, 777h, 777k, and 777m of this title and sections 13102, 13104, and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 777b of this title, and amending provisions set out as a note under this section and section 1322 of Title 33, Navigation and Navigable Waters] may be cited as the ‘Sportfishing and Recreational Boating Safety Act of 2005’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–178, title VII, § 7401(a), June 9, 1998, 112 Stat. 482, provided that: “This subtitle [subtitle D (§§ 7401–7405) of title VII of Pub. L. 105–178, enacting section 777g–1 of this title and amending sections 777a, 777c, and 777g of this title and sections 13104 and 13106 of Title 46, Shipping] may be cited as the ‘Sportfishing and Boating Safety Act of 1998’.”
+Pub. L. 105–178, title VII, § 7401(a), June 9, 1998, 112 Stat. 482, provided that: “This subtitle [subtitle D (§§ 7401–7405) of title VII of Pub. L. 105–178, enacting section 777g–1 of this title and amending sections 777a, 777c, and 777g of this title and sections 13104 and 13106 of Title 46, Shipping] may be cited as the ‘Sportfishing and Boating Safety Act of 1998’.”
 
 **Short Title of 1970 Amendment**
 
-Pub. L. 91–503, title II, § 204, Oct. 23, 1970, 84 Stat. 1104, provided that: “This title [amending sections 777c, 777e to 777g, and 777k of this title] may be cited as the ‘Federal Aid in Fish Restoration Act Amendments of 1970’.”
+Pub. L. 91–503, title II, § 204, Oct. 23, 1970, 84 Stat. 1104, provided that: “This title [amending sections 777c, 777e to 777g, and 777k of this title] may be cited as the ‘Federal Aid in Fish Restoration Act Amendments of 1970’.”
 
 **Short Title**
 
-Act Aug. 9, 1950, ch. 658, § 15, formerly § 16, formerly § 15, as added by Pub. L. 106–408, title I, § 101(c), Nov. 1, 2000, 114 Stat. 1763; renumbered § 16, Pub. L. 109–59, title X, § 10119, Aug. 10, 2005, 119 Stat. 1929; renumbered § 15, Pub. L. 114–94, div. A, title X, § 10001(g)(2), Dec. 4, 2015, 129 Stat. 1621, provided that: “This Act [enacting this chapter] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
+Act Aug. 9, 1950, ch. 658, § 15, formerly § 16, formerly § 15, as added by Pub. L. 106–408, title I, § 101(c), Nov. 1, 2000, 114 Stat. 1763; renumbered § 16, Pub. L. 109–59, title X, § 10119, Aug. 10, 2005, 119 Stat. 1929; renumbered § 15, Pub. L. 114–94, div. A, title X, § 10001(g)(2), Dec. 4, 2015, 129 Stat. 1621, provided that: “This Act [enacting this chapter] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
 
 Act Aug. 9, 1950, ch. 658, as amended, is also popularly known as the “Federal Aid in Fish Restoration Act” and the “Fish Restoration and Management Projects Act”.
 
 **Fisheries Restoration and Irrigation Mitigation**
 
-Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11, title XIII, § 13002, Mar. 30, 2009, 123 Stat. 1447; Pub. L. 114–322, title III, § 4010(b)(7), Dec. 16, 2016, 130 Stat. 1874, provided that:
+Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11, title XIII, § 13002, Mar. 30, 2009, 123 Stat. 1447; Pub. L. 114–322, title III, § 4010(b)(7), Dec. 16, 2016, 130 Stat. 1874, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -255,7 +255,7 @@ Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11
 
 > **“(cc)** visiting construction sites to provide technical assistance, if requested by the applicant.”
 
-[Pub. L. 114–322, title III, § 4010(b)(7)(A), Dec. 16, 2016, 130 Stat. 1874, which directed the amendment of section 10(a) of Pub. L. 106–502, set out above, by substituting “$15 million through 2021” for “$25 million for each of fiscal years 2009 through 2015”, was executed by making the substitution for “$25,000,000 for each of fiscal years 2009 through 2015” to reflect the probable intent of Congress.]
+[Pub. L. 114–322, title III, § 4010(b)(7)(A), Dec. 16, 2016, 130 Stat. 1874, which directed the amendment of section 10(a) of Pub. L. 106–502, set out above, by substituting “$15 million through 2021” for “$25 million for each of fiscal years 2009 through 2015”, was executed by making the substitution for “$25,000,000 for each of fiscal years 2009 through 2015” to reflect the probable intent of Congress.]
 
 **Executive Documents**
 
@@ -263,7 +263,7 @@ Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf-Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 777a. Definitions
+## § 777a. Definitions
 
 For purposes of this chapter—
 
@@ -281,7 +281,7 @@ For purposes of this chapter—
 
 **(3)** the term “aquatic resource education program” means a program designed to enhance the public’s understanding of aquatic resources and sportfishing, and to promote the development of responsible attitudes and ethics toward the aquatic environment.
 
-(Aug. 9, 1950, ch. 658, § 2, 64 Stat. 431; July 2, 1956, ch. 489, § 3, 70 Stat. 473; Pub. L. 86–624, § 12, July 12, 1960, 74 Stat. 413; Pub. L. 105–178, title VII, § 7402(a), June 9, 1998, 112 Stat. 483.)
+(Aug. 9, 1950, ch. 658, § 2, 64 Stat. 431; July 2, 1956, ch. 489, § 3, 70 Stat. 473; Pub. L. 86–624, § 12, July 12, 1960, 74 Stat. 413; Pub. L. 105–178, title VII, § 7402(a), June 9, 1998, 112 Stat. 483.)
 
 **Editorial Notes**
 
@@ -299,11 +299,11 @@ For purposes of this chapter—
 
 Amendment by act July 2, 1956, as applicable only with respect to fiscal years beginning after July 2, 1956, see section 5 of act July 2, 1956, set out as a note under section 669a of this title.
 
-## § 777b. Authorization of appropriations
+## § 777b. Authorization of appropriations
 
 To carry out the provisions of this chapter for fiscal years after September 30, 1984, there are authorized to be appropriated from the Sport Fish Restoration and Boating Trust Fund established by section 9504(a) of title 26 the amounts paid, transferred, or otherwise credited to that Trust Fund, except as provided in section 9504(c) of title 26. For purposes of the provision of the Act of August 31, 1951, which refers to this section, such amounts shall be treated as the amounts that are equal to the revenues described in this section. The appropriation made under the provisions of this section for each fiscal year shall continue available during succeeding fiscal years. So much of such appropriation apportioned to any State for any fiscal year as remains unexpended at the close thereof is authorized to be made available for expenditure in that State until the close of the succeeding fiscal year. Any amount apportioned to any State under the provisions of this chapter which is unexpended or unobligated at the end of the period during which it is available for expenditure on any project is authorized to be made available for expenditure by the Secretary of the Interior to supplement the 58.012 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in section 777c(c) of this title.
 
-(Aug. 9, 1950, ch. 658, § 3, 64 Stat. 431; Pub. L. 98–369, div. A, title X, § 1014(a)(2), July 18, 1984, 98 Stat. 1015; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–59, title X, § 10112(a), (b)(1), Aug. 10, 2005, 119 Stat. 1927; Pub. L. 114–94, div. A, title X, § 10001(a), Dec. 4, 2015, 129 Stat. 1619.)
+(Aug. 9, 1950, ch. 658, § 3, 64 Stat. 431; Pub. L. 98–369, div. A, title X, § 1014(a)(2), July 18, 1984, 98 Stat. 1015; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–59, title X, § 10112(a), (b)(1), Aug. 10, 2005, 119 Stat. 1927; Pub. L. 114–94, div. A, title X, § 10001(a), Dec. 4, 2015, 129 Stat. 1619.)
 
 **Editorial Notes**
 
@@ -329,11 +329,11 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 **Effective Date of 2005 Amendments**
 
-Pub. L. 109–74, title I, § 101(b), Sept. 29, 2005, 119 Stat. 2030, provided that: “Except as provided by the amendments made by title II of this Act [amending section 777c of this title and section 13106 of Title 46, Shipping], during the period beginning on the date of the enactment of the Sportfishing and Recreational Boating Safety Act of 2005 [Aug. 10, 2005], and ending upon the expiration of fiscal year 2005, the provisions of law amended by the Sportfishing and Recreational Boating Safety Act of 2005 [see Short Title of 2005 Amendments note set out under section 777 of this title] (as amended by this Act) shall be considered to read as such laws read immediately before the enactment of that Act.”
+Pub. L. 109–74, title I, § 101(b), Sept. 29, 2005, 119 Stat. 2030, provided that: “Except as provided by the amendments made by title II of this Act [amending section 777c of this title and section 13106 of Title 46, Shipping], during the period beginning on the date of the enactment of the Sportfishing and Recreational Boating Safety Act of 2005 [Aug. 10, 2005], and ending upon the expiration of fiscal year 2005, the provisions of law amended by the Sportfishing and Recreational Boating Safety Act of 2005 [see Short Title of 2005 Amendments note set out under section 777 of this title] (as amended by this Act) shall be considered to read as such laws read immediately before the enactment of that Act.”
 
-Pub. L. 109–59, title X, § 10102, as added by Pub. L. 109–74, title I, § 101(a)(2), Sept. 29, 2005, 119 Stat. 2030, provided that: “The amendments made by this subtitle [subtitle A (§§ 10101–10143) of title X of Pub. L. 109–59, see Short Title of 2005 Amendments note set out under section 777 of this title] shall take effect October 1, 2005.”
+Pub. L. 109–59, title X, § 10102, as added by Pub. L. 109–74, title I, § 101(a)(2), Sept. 29, 2005, 119 Stat. 2030, provided that: “The amendments made by this subtitle [subtitle A (§§ 10101–10143) of title X of Pub. L. 109–59, see Short Title of 2005 Amendments note set out under section 777 of this title] shall take effect October 1, 2005.”
 
-Pub. L. 109–59, title X, § 10112(b)(2), Aug. 10, 2005, 119 Stat. 1927, which provided that the amendments made by section 10112(b)(1) of Pub. L. 109–59 (amending this section) would take effect on Oct. 1, 2005, was repealed by Pub. L. 109–74, title I, § 101(a)(1), Sept. 29, 2005, 119 Stat. 2030. See section 10102 of Pub. L. 109–59, set out above.
+Pub. L. 109–59, title X, § 10112(b)(2), Aug. 10, 2005, 119 Stat. 1927, which provided that the amendments made by section 10112(b)(1) of Pub. L. 109–59 (amending this section) would take effect on Oct. 1, 2005, was repealed by Pub. L. 109–74, title I, § 101(a)(1), Sept. 29, 2005, 119 Stat. 2030. See section 10102 of Pub. L. 109–59, set out above.
 
 **Effective Date of 1984 Amendment**
 
@@ -341,7 +341,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 
 **Availability of Funds Until Expended**
 
-Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “For carrying out the provisions of the Act of August 9, 1950 (Public Law 681) [this chapter], amounts equal to the revenues described in section 3 of said Act [this section] and credited during the next preceding fiscal year and each fiscal year thereafter, to remain available until expended.”
+Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “For carrying out the provisions of the Act of August 9, 1950 (Public Law 681) [this chapter], amounts equal to the revenues described in section 3 of said Act [this section] and credited during the next preceding fiscal year and each fiscal year thereafter, to remain available until expended.”
 
 **Executive Documents**
 
@@ -349,7 +349,7 @@ Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “F
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-## § 777c. Division of annual appropriations
+## § 777c. Division of annual appropriations
 
 **(a) In general** For each fiscal year through fiscal year 2026, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for activities under section 777m(e) of this title shall be distributed as follows:
 
@@ -357,7 +357,7 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 An amount equal to 18.673 percent to the Secretary of the Interior for distribution as provided in the Coastal Wetlands Planning, Protection,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 and Restoration Act (16 U.S.C. 3951 et seq.).
 
@@ -459,13 +459,13 @@ For each fiscal year, the Secretary of the Interior may use not more than $1,300
 
 Amounts available under paragraphs (3) and (4) of subsection (a) that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under section 13107(a) of title 46.
 
-(Aug. 9, 1950, ch. 658, § 4, 64 Stat. 432; Pub. L. 91–503, title II, § 201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, § 4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, § 1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, § 308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, § 5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§ 7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, § 9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, § 430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, § 1(a)(2) [title VI, § 605], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§ 121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, § 9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, § 7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, § 6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, § 6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, § 6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, § 9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, § 114(b), Dec. 8, 2004, 118 Stat. 2944; Pub. L. 109–14, § 8(a), (b), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, § 8(a), (b), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, § 8(a), (b), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, § 8(a), (b), July 22, 2005, 119 Stat. 404, 405; Pub. L. 109–40, § 8(a), (b), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, § 10113, Aug. 10, 2005, 119 Stat. 1927; Pub. L. 109–74, title II, §§ 201, 202, Sept. 29, 2005, 119 Stat. 2031; Pub. L. 109–241, title IX, § 901(r)(1), July 11, 2006, 120 Stat. 566; Pub. L. 109–304, § 16(c)(1), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 111–68, div. B, § 160, Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–147, title IV, § 423(b), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, § 2203(b), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title II, § 203(b), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, § 123(b), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, § 203(b), Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title II, § 203(b), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title IV, § 34002, July 6, 2012, 126 Stat. 842; Pub. L. 113–159, title I, § 1103, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, § 1103, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, § 1103, July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, § 1103, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, § 1103, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title X, § 10001(b), Dec. 4, 2015, 129 Stat. 1619; Pub. L. 117–58, div. B, title VIII, § 28001(a)(1), Nov. 15, 2021, 135 Stat. 886; Pub. L. 117–263, div. K, title CXIII, § 11324(a)(1), Dec. 23, 2022, 136 Stat. 4094.)
+(Aug. 9, 1950, ch. 658, § 4, 64 Stat. 432; Pub. L. 91–503, title II, § 201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, § 4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, § 1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, § 308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, § 5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§ 7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, § 9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, § 430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, § 1(a)(2) [title VI, § 605], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§ 121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, § 9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, § 7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, § 6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, § 6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, § 6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, § 9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, § 114(b), Dec. 8, 2004, 118 Stat. 2944; Pub. L. 109–14, § 8(a), (b), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, § 8(a), (b), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, § 8(a), (b), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, § 8(a), (b), July 22, 2005, 119 Stat. 404, 405; Pub. L. 109–40, § 8(a), (b), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, § 10113, Aug. 10, 2005, 119 Stat. 1927; Pub. L. 109–74, title II, §§ 201, 202, Sept. 29, 2005, 119 Stat. 2031; Pub. L. 109–241, title IX, § 901(r)(1), July 11, 2006, 120 Stat. 566; Pub. L. 109–304, § 16(c)(1), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 111–68, div. B, § 160, Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–147, title IV, § 423(b), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, § 2203(b), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title II, § 203(b), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, § 123(b), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, § 203(b), Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title II, § 203(b), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title IV, § 34002, July 6, 2012, 126 Stat. 842; Pub. L. 113–159, title I, § 1103, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, § 1103, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, § 1103, July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, § 1103, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, § 1103, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title X, § 10001(b), Dec. 4, 2015, 129 Stat. 1619; Pub. L. 117–58, div. B, title VIII, § 28001(a)(1), Nov. 15, 2021, 135 Stat. 886; Pub. L. 117–263, div. K, title CXIII, § 11324(a)(1), Dec. 23, 2022, 136 Stat. 4094.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (a)(1), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which enacted chapter 59A (§ 3951 et seq.) of this title and amended this section. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of this title and Tables.
+The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (a)(1), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which enacted chapter 59A (§ 3951 et seq.) of this title and amended this section. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of this title and Tables.
 
 Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A), is section 5604(c) of Pub. L. 102–587, which is set out as a note under section 1322 of Title 33, Navigation and Navigable Waters.
 
@@ -477,197 +477,197 @@ Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A
 
 “(II) $979,500; and”.
 
-2021—Subsec. (a). Pub. L. 117–58, § 28001(a)(1)(A), substituted “fiscal year 2026” for “fiscal year 2021” in introductory provisions.
+2021—Subsec. (a). Pub. L. 117–58, § 28001(a)(1)(A), substituted “fiscal year 2026” for “fiscal year 2021” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 117–58, § 28001(a)(1)(B)(i)(I), substituted “fiscal year 2026” for “fiscal year 2021”.
+Subsec. (b)(1)(A). Pub. L. 117–58, § 28001(a)(1)(B)(i)(I), substituted “fiscal year 2026” for “fiscal year 2021”.
 
-Subsec. (b)(1)(B). Pub. L. 117–58, § 28001(a)(1)(B)(i)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2001 to 2004 and thereafter.
+Subsec. (b)(1)(B). Pub. L. 117–58, § 28001(a)(1)(B)(i)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2001 to 2004 and thereafter.
 
-Subsec. (b)(2)(A). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(I), substituted “2022 through 2026” for “2016 through 2021”.
+Subsec. (b)(2)(A). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(I), substituted “2022 through 2026” for “2016 through 2021”.
 
-Subsec. (b)(2)(B). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2016, 2017, and thereafter.
+Subsec. (b)(2)(B). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2016, 2017, and thereafter.
 
-Subsec. (e)(2). Pub. L. 117–58, § 28001(a)(1)(C), substituted “$1,300,000” for “$900,000”.
+Subsec. (e)(2). Pub. L. 117–58, § 28001(a)(1)(C), substituted “$1,300,000” for “$900,000”.
 
-2015—Subsec. (a). Pub. L. 114–94, § 10001(b)(1)(A), substituted “For each fiscal year through fiscal year 2021, the balance” for “For each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015, the balance” and “activities under section 777m(e) of this title” for “multistate conservation grants under section 777m of this title” in introductory provisions.
+2015—Subsec. (a). Pub. L. 114–94, § 10001(b)(1)(A), substituted “For each fiscal year through fiscal year 2021, the balance” for “For each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015, the balance” and “activities under section 777m(e) of this title” for “multistate conservation grants under section 777m of this title” in introductory provisions.
 
-Pub. L. 114–87, § 1103(1), which directed substitution of “December 4, 2015” for “November 20, 2015” in introductory provisions, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
+Pub. L. 114–87, § 1103(1), which directed substitution of “December 4, 2015” for “November 20, 2015” in introductory provisions, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
 
-Pub. L. 114–73, § 1103(1), which directed substitution of “November 20, 2015” for “October 29, 2015” in introductory provisions, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
+Pub. L. 114–73, § 1103(1), which directed substitution of “November 20, 2015” for “October 29, 2015” in introductory provisions, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
 
-Pub. L. 114–41, § 1103(1), substituted “each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015” for “each fiscal year through 2014 and for the period beginning on October 1, 2014, and ending on July 31, 2015” in introductory provisions.
+Pub. L. 114–41, § 1103(1), substituted “each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015” for “each fiscal year through 2014 and for the period beginning on October 1, 2014, and ending on July 31, 2015” in introductory provisions.
 
-Pub. L. 114–21, § 1103(1), substituted “July 31, 2015” for “May 31, 2015” in introductory provisions.
+Pub. L. 114–21, § 1103(1), substituted “July 31, 2015” for “May 31, 2015” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 114–94, § 10001(b)(1)(B), substituted “18.673 percent” for “18.5 percent”.
+Subsec. (a)(1). Pub. L. 114–94, § 10001(b)(1)(B), substituted “18.673 percent” for “18.5 percent”.
 
-Subsec. (a)(2). Pub. L. 114–94, § 10001(b)(1)(C), substituted “17.315 percent” for “18.5 percent”.
+Subsec. (a)(2). Pub. L. 114–94, § 10001(b)(1)(C), substituted “17.315 percent” for “18.5 percent”.
 
-Subsec. (a)(3) to (5). Pub. L. 114–94, § 10001(b)(1)(D)–(F), added par. (3), redesignated par. (5) as (4), and struck out former pars. (3) and (4) which related to Clean Vessel Act and boating infrastructure, respectively.
+Subsec. (a)(3) to (5). Pub. L. 114–94, § 10001(b)(1)(D)–(F), added par. (3), redesignated par. (5) as (4), and struck out former pars. (3) and (4) which related to Clean Vessel Act and boating infrastructure, respectively.
 
-Subsec. (b)(1)(A). Pub. L. 114–94, § 10001(b)(2)(A), substituted “for each fiscal year through fiscal year 2021, the Secretary” for “for each fiscal year ending before October 1, 2015, and for the period beginning on October 1, 2015, and ending on October 29, 2015, the Secretary”.
+Subsec. (b)(1)(A). Pub. L. 114–94, § 10001(b)(2)(A), substituted “for each fiscal year through fiscal year 2021, the Secretary” for “for each fiscal year ending before October 1, 2015, and for the period beginning on October 1, 2015, and ending on October 29, 2015, the Secretary”.
 
-Pub. L. 114–87, § 1103(2), which directed substitution of “December 4, 2015,” for “November 20, 2015,”, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
+Pub. L. 114–87, § 1103(2), which directed substitution of “December 4, 2015,” for “November 20, 2015,”, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
 
-Pub. L. 114–73, § 1103(2), which directed substitution of “November 20, 2015,” for “October 29, 2015,”, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
+Pub. L. 114–73, § 1103(2), which directed substitution of “November 20, 2015,” for “October 29, 2015,”, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
 
-Pub. L. 114–41, § 1103(2), substituted “for each fiscal year ending before October 1, 2015, and for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+Pub. L. 114–41, § 1103(2), substituted “for each fiscal year ending before October 1, 2015, and for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
-Pub. L. 114–21, § 1103(2), substituted “July 31, 2015,” for “May 31, 2015,”.
+Pub. L. 114–21, § 1103(2), substituted “July 31, 2015,” for “May 31, 2015,”.
 
-Subsec. (b)(2). Pub. L. 114–94, § 10001(b)(2)(C), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 114–94, § 10001(b)(2)(C), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 114–94, § 10001(b)(2)(B), redesignated par. (2) as (3).
+Subsec. (b)(3). Pub. L. 114–94, § 10001(b)(2)(B), redesignated par. (2) as (3).
 
-Subsec. (b)(3)(A). Pub. L. 114–94, § 10001(b)(2)(D)(i), substituted “until the end of the subsequent fiscal year.” for “until the end of the fiscal year.”
+Subsec. (b)(3)(A). Pub. L. 114–94, § 10001(b)(2)(D)(i), substituted “until the end of the subsequent fiscal year.” for “until the end of the fiscal year.”
 
-Subsec. (b)(3)(B). Pub. L. 114–94, § 10001(b)(2)(D)(ii), substituted “under subsection (c)” for “under subsection (e)”.
+Subsec. (b)(3)(B). Pub. L. 114–94, § 10001(b)(2)(D)(ii), substituted “under subsection (c)” for “under subsection (e)”.
 
-Subsec. (c). Pub. L. 114–94, § 10001(b)(3), designated existing provisions as par. (1), inserted comma after “The Secretary”, substituted “activities under section 777m(e) of this title” for “grants under section 777m of this title” and “58.012 percent” for “57 percent”, and added par. (2).
+Subsec. (c). Pub. L. 114–94, § 10001(b)(3), designated existing provisions as par. (1), inserted comma after “The Secretary”, substituted “activities under section 777m(e) of this title” for “grants under section 777m of this title” and “58.012 percent” for “57 percent”, and added par. (2).
 
-Subsec. (e)(1). Pub. L. 114–94, § 10001(b)(4), substituted “those paragraphs,” for “those subsections,”.
+Subsec. (e)(1). Pub. L. 114–94, § 10001(b)(4), substituted “those paragraphs,” for “those subsections,”.
 
-2014—Subsec. (a). Pub. L. 113–159, § 1103(1), inserted “and for the period beginning on October 1, 2014, and ending on May 31, 2015” after “2014” in introductory provisions.
+2014—Subsec. (a). Pub. L. 113–159, § 1103(1), inserted “and for the period beginning on October 1, 2014, and ending on May 31, 2015” after “2014” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 113–159, § 1103(2), substituted “for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on May 31, 2015,” for “for each fiscal year through 2014,”.
+Subsec. (b)(1)(A). Pub. L. 113–159, § 1103(2), substituted “for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on May 31, 2015,” for “for each fiscal year through 2014,”.
 
-2012—Subsec. (a). Pub. L. 112–141, § 34002(1), substituted “fiscal year through 2014,” for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions.
+2012—Subsec. (a). Pub. L. 112–141, § 34002(1), substituted “fiscal year through 2014,” for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions.
 
-Pub. L. 112–140, §§ 1(c), 203(b)(1), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,” in introductory provisions. See Termination Date of 2012 Amendment note below.
+Pub. L. 112–140, §§ 1(c), 203(b)(1), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,” in introductory provisions. See Termination Date of 2012 Amendment note below.
 
-Pub. L. 112–102, § 203(b)(1), substituted “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
+Pub. L. 112–102, § 203(b)(1), substituted “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 112–141, § 34002(2), which directed substitution of “fiscal year through 2014,” for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,”, was executed by making the substitution for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” to reflect the probable intent of Congress and amendment by Pub. L. 112–102, § 203(b)(2). See below.
+Subsec. (b)(1)(A). Pub. L. 112–141, § 34002(2), which directed substitution of “fiscal year through 2014,” for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,”, was executed by making the substitution for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” to reflect the probable intent of Congress and amendment by Pub. L. 112–102, § 203(b)(2). See below.
 
-Pub. L. 112–140, §§ 1(c), 203(b)(2), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,”. See Termination Date of 2012 Amendment note below.
+Pub. L. 112–140, §§ 1(c), 203(b)(2), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,”. See Termination Date of 2012 Amendment note below.
 
-Pub. L. 112–102, § 203(b)(2), substituted “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+Pub. L. 112–102, § 203(b)(2), substituted “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
 
-2011—Subsec. (a). Pub. L. 112–30, § 123(b)(1), substituted “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,” in introductory provisions.
+2011—Subsec. (a). Pub. L. 112–30, § 123(b)(1), substituted “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,” in introductory provisions.
 
-Pub. L. 112–5, § 203(b)(1), substituted “through 2011,” for “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” in introductory provisions.
+Pub. L. 112–5, § 203(b)(1), substituted “through 2011,” for “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 112–30, § 123(b)(2), substituted “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,”.
+Subsec. (b)(1)(A). Pub. L. 112–30, § 123(b)(2), substituted “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,”.
 
-Pub. L. 112–5, § 203(b)(2), substituted “through 2011,” for “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,”.
+Pub. L. 112–5, § 203(b)(2), substituted “through 2011,” for “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,”.
 
-2010—Subsec. (a). Pub. L. 111–322, § 2203(b), substituted “For each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under section 777m of this title shall be distributed as follows:” for introductory provisions which read as follows: “For each of fiscal years 2006 through 2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010, and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) of this section and for multistate conservation grants under section 777m of this title shall be distributed as follows:”.
+2010—Subsec. (a). Pub. L. 111–322, § 2203(b), substituted “For each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under section 777m of this title shall be distributed as follows:” for introductory provisions which read as follows: “For each of fiscal years 2006 through 2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010, and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) of this section and for multistate conservation grants under section 777m of this title shall be distributed as follows:”.
 
-Pub. L. 111–147, § 423(b)(1), which directed substitution of “2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010,” for “2009,” in introductory provisions, was executed by making the substitution for “2009,” the first place it appeared.
+Pub. L. 111–147, § 423(b)(1), which directed substitution of “2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010,” for “2009,” in introductory provisions, was executed by making the substitution for “2009,” the first place it appeared.
 
-Subsec. (b)(1)(A). Pub. L. 111–322, § 2203(b)(2), substituted “From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title.” for “From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009 and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title.”
+Subsec. (b)(1)(A). Pub. L. 111–322, § 2203(b)(2), substituted “From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title.” for “From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009 and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title.”
 
-Pub. L. 111–147, § 423(b)(2), which directed substitution of “and for the period beginning on October 1, 2010, and ending on December 31, 2010,” for “2010,”, could not be executed because “2010,” did not appear.
+Pub. L. 111–147, § 423(b)(2), which directed substitution of “and for the period beginning on October 1, 2010, and ending on December 31, 2010,” for “2010,”, could not be executed because “2010,” did not appear.
 
-2009—Subsec. (a). Pub. L. 111–68, § 160(1), inserted “and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,” after “2009,” in introductory provisions.
+2009—Subsec. (a). Pub. L. 111–68, § 160(1), inserted “and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,” after “2009,” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 111–68, § 160(2), inserted “and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,” after “2009”.
+Subsec. (b)(1)(A). Pub. L. 111–68, § 160(2), inserted “and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,” after “2009”.
 
 2006—Subsec. (a)(2). Pub. L. 109–304 substituted “13107” for “13106”.
 
-Subsec. (c). Pub. L. 109–241 struck out “, for each of fiscal years 2006 through 2009,” after “The Secretary”.
+Subsec. (c). Pub. L. 109–241 struck out “, for each of fiscal years 2006 through 2009,” after “The Secretary”.
 
 Subsec. (f). Pub. L. 109–304 substituted “13107(a)” for “13106(a)”.
 
-2005—Subsec. (a). Pub. L. 109–59, § 10113(1), (2), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection, and Restoration Act (title III, Public Law 101–646). Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2019.”
+2005—Subsec. (a). Pub. L. 109–59, § 10113(1), (2), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection, and Restoration Act (title III, Public Law 101–646). Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2019.”
 
-Subsec. (b). Pub. L. 109–59, § 10113(1), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to use of the balance of each annual appropriation remaining after making the distribution under subsec. (a) in fiscal years 1998 through 2005.
+Subsec. (b). Pub. L. 109–59, § 10113(1), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to use of the balance of each annual appropriation remaining after making the distribution under subsec. (a) in fiscal years 1998 through 2005.
 
-Subsec. (b)(1)(A). Pub. L. 109–59, § 10113(3), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “For fiscal year 2001 and each fiscal year thereafter, of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) and section 777m of this title, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 777h of this title.”
+Subsec. (b)(1)(A). Pub. L. 109–59, § 10113(3), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “For fiscal year 2001 and each fiscal year thereafter, of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) and section 777m of this title, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 777h of this title.”
 
-Subsec. (b)(4). Pub. L. 109–74, § 202, substituted “Fiscal” for “First 303 days of fiscal” in heading, “September 30, 2005” for “July 30, 2005” and “$82,000,000” for “$68,071,233” in introductory provisions, “$10,000,000” for “$8,301,370” in subpar. (A), and “$8,000,000” for “$6,641,096” in subpar. (B).
+Subsec. (b)(4). Pub. L. 109–74, § 202, substituted “Fiscal” for “First 303 days of fiscal” in heading, “September 30, 2005” for “July 30, 2005” and “$82,000,000” for “$68,071,233” in introductory provisions, “$10,000,000” for “$8,301,370” in subpar. (A), and “$8,000,000” for “$6,641,096” in subpar. (B).
 
-Pub. L. 109–40, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 303 days of fiscal year 2005 for similar provisions relating to use of funds for first 300 days of fiscal year 2005.
+Pub. L. 109–40, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 303 days of fiscal year 2005 for similar provisions relating to use of funds for first 300 days of fiscal year 2005.
 
-Pub. L. 109–37, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 300 days of fiscal year 2005 for similar provisions relating to use of funds for first 42 weeks of fiscal year 2005.
+Pub. L. 109–37, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 300 days of fiscal year 2005 for similar provisions relating to use of funds for first 42 weeks of fiscal year 2005.
 
-Pub. L. 109–35, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 42 weeks of fiscal year 2005 for similar provisions relating to use of funds for first 292 days of fiscal year 2005.
+Pub. L. 109–35, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 42 weeks of fiscal year 2005 for similar provisions relating to use of funds for first 292 days of fiscal year 2005.
 
-Pub. L. 109–20, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 292 days of fiscal year 2005 for similar provisions relating to use of funds for first 9 months of fiscal year 2005.
+Pub. L. 109–20, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 292 days of fiscal year 2005 for similar provisions relating to use of funds for first 9 months of fiscal year 2005.
 
-Pub. L. 109–14, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 9 months of fiscal year 2005 for similar provisions relating to use of funds for fiscal year 2004.
+Pub. L. 109–14, § 8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 9 months of fiscal year 2005 for similar provisions relating to use of funds for fiscal year 2004.
 
-Subsec. (c). Pub. L. 109–59, § 10113(4), (5), substituted “Secretary, for each of fiscal years 2006 through 2009, after the distribution, transfer, use and deduction under subsection (b), and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance” for “Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), (c), and (d), respectively, and after deducting amounts used for grants under section 777m of this title, shall apportion the remainder” and “percent” for “per centum” after “40”, “60”, “1”, and “5”.
+Subsec. (c). Pub. L. 109–59, § 10113(4), (5), substituted “Secretary, for each of fiscal years 2006 through 2009, after the distribution, transfer, use and deduction under subsection (b), and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance” for “Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), (c), and (d), respectively, and after deducting amounts used for grants under section 777m of this title, shall apportion the remainder” and “percent” for “per centum” after “40”, “60”, “1”, and “5”.
 
-Pub. L. 109–59, § 10113(1), redesignated subsec. (e) as (c) and struck out former subsec. (c) which obligated amounts for the National Outreach and Communications Program for fiscal years 1999 through 2005.
+Pub. L. 109–59, § 10113(1), redesignated subsec. (e) as (c) and struck out former subsec. (c) which obligated amounts for the National Outreach and Communications Program for fiscal years 1999 through 2005.
 
-Subsec. (c)(7). Pub. L. 109–74, § 201, amended par. (7) generally, substituting “$10,000,000 for fiscal year 2005;” for “$8,301,370 for the period of October 1, 2004, through July 30, 2005;”.
+Subsec. (c)(7). Pub. L. 109–74, § 201, amended par. (7) generally, substituting “$10,000,000 for fiscal year 2005;” for “$8,301,370 for the period of October 1, 2004, through July 30, 2005;”.
 
-Pub. L. 109–40, § 8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,219,180 for the period of October 1, 2004, through July 27, 2005;”.
+Pub. L. 109–40, § 8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,219,180 for the period of October 1, 2004, through July 27, 2005;”.
 
-Pub. L. 109–37, § 8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,099,997 for the period of October 1, 2004, through July 21, 2005;”.
+Pub. L. 109–37, § 8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,099,997 for the period of October 1, 2004, through July 21, 2005;”.
 
-Pub. L. 109–35, § 8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,000,000 for the period of October 1, 2004, through July 19, 2005;”.
+Pub. L. 109–35, § 8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,000,000 for the period of October 1, 2004, through July 19, 2005;”.
 
-Pub. L. 109–20, § 8(a), substituted “(7) $8,000,000 for the period of October 1, 2004, through July 19, 2005;” for “(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;”.
+Pub. L. 109–20, § 8(a), substituted “(7) $8,000,000 for the period of October 1, 2004, through July 19, 2005;” for “(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;”.
 
-Pub. L. 109–14, § 8(a), directed amendment of par. (7) generally by substituting “(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;” for “(7) $6,666,664 for the period of October 1, 2004, through May 31, 2005;”. See above.
+Pub. L. 109–14, § 8(a), directed amendment of par. (7) generally by substituting “(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;” for “(7) $6,666,664 for the period of October 1, 2004, through May 31, 2005;”. See above.
 
-Subsec. (d). Pub. L. 109–59, § 10113(1), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+Subsec. (d). Pub. L. 109–59, § 10113(1), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
-Subsec. (e). Pub. L. 109–59, § 10113(1), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (c).
+Subsec. (e). Pub. L. 109–59, § 10113(1), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (c).
 
-Subsec. (e)(1). Pub. L. 109–59, § 10113(6), substituted “paragraphs (1), (3), (4), and (5) of subsection (a)” for “subsections (a), (b)(3)(A), (b)(3)(B), and (c)”.
+Subsec. (e)(1). Pub. L. 109–59, § 10113(6), substituted “paragraphs (1), (3), (4), and (5) of subsection (a)” for “subsections (a), (b)(3)(A), (b)(3)(B), and (c)”.
 
-Subsec. (f). Pub. L. 109–59, § 10113(7), added subsec. (f). Former subsec. (f) redesignated (d).
+Subsec. (f). Pub. L. 109–59, § 10113(7), added subsec. (f). Former subsec. (f) redesignated (d).
 
-Subsec. (g). Pub. L. 109–59, § 10113(1), redesignated subsec. (g) as (e).
+Subsec. (g). Pub. L. 109–59, § 10113(1), redesignated subsec. (g) as (e).
 
 2004—Subsec. (a). Pub. L. 108–447 substituted “2019” for “2009”.
 
-Subsec. (b)(4). Pub. L. 108–310, § 9(b)(1), inserted heading and struck out former heading which read “First 10 months of fiscal year 2004”.
+Subsec. (b)(4). Pub. L. 108–310, § 9(b)(1), inserted heading and struck out former heading which read “First 10 months of fiscal year 2004”.
 
-Pub. L. 108–280, § 6(b), substituted “fiscal year 2004” for “the period of October 1, 2003, through July 31, 2004” and “$82,000,000” for “$68,333,332” in introductory provisions, “$10,000,000” for “$8,333,332” in subpar. (A), and “$8,000,000” for “$6,666,668” in subpar. (B) and directed amendment of heading by striking “First 9 months of”, which could not be executed.
+Pub. L. 108–280, § 6(b), substituted “fiscal year 2004” for “the period of October 1, 2003, through July 31, 2004” and “$82,000,000” for “$68,333,332” in introductory provisions, “$10,000,000” for “$8,333,332” in subpar. (A), and “$8,000,000” for “$6,666,668” in subpar. (B) and directed amendment of heading by striking “First 9 months of”, which could not be executed.
 
-Pub. L. 108–263, § 6(b), substituted “10 months” for “9 months” in heading, “July 31” for “April 30” and “$68,333,332” for “$61,499,999” in introductory provisions, “$8,333,332” for “$7,499,999” in subpar. (A), and “$6,666,668” for “$6,000,001” in subpar. (B).
+Pub. L. 108–263, § 6(b), substituted “10 months” for “9 months” in heading, “July 31” for “April 30” and “$68,333,332” for “$61,499,999” in introductory provisions, “$8,333,332” for “$7,499,999” in subpar. (A), and “$6,666,668” for “$6,000,001” in subpar. (B).
 
-Pub. L. 108–224, § 6(b), substituted “9 months” for “7 months” in heading, “$61,499,999” for “$47,833,333” in introductory provisions, “$7,499,999” for “$5,833,333” in subpar. (A), and “$6,000,001” for “$4,666,667” in subpar. (B).
+Pub. L. 108–224, § 6(b), substituted “9 months” for “7 months” in heading, “$61,499,999” for “$47,833,333” in introductory provisions, “$7,499,999” for “$5,833,333” in subpar. (A), and “$6,000,001” for “$4,666,667” in subpar. (B).
 
-Pub. L. 108–202, § 7(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 7 months of fiscal year 2004 for similar provisions relating to use of funds for first 5 months of fiscal year 2004.
+Pub. L. 108–202, § 7(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 7 months of fiscal year 2004 for similar provisions relating to use of funds for first 5 months of fiscal year 2004.
 
-Subsec. (b)(5), (6). Pub. L. 108–310, § 9(b)(2), (3), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 108–310, § 9(b)(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (c)(6). Pub. L. 108–280, § 6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$8,333,332 for the period of October 1, 2003, through July 31, 2004;”.
+Subsec. (c)(6). Pub. L. 108–280, § 6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$8,333,332 for the period of October 1, 2003, through July 31, 2004;”.
 
-Pub. L. 108–263, § 6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$7,499,999 for the period of October 1, 2003, through June 30, 2004;”.
+Pub. L. 108–263, § 6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$7,499,999 for the period of October 1, 2003, through June 30, 2004;”.
 
-Pub. L. 108–224, § 6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$5,833,333 for the period of October 1, 2003, through April 30, 2004;”.
+Pub. L. 108–224, § 6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$5,833,333 for the period of October 1, 2003, through April 30, 2004;”.
 
-Pub. L. 108–202, § 7(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$4,166,667 for the period of October 1, 2003, through February 29, 2004;”.
+Pub. L. 108–202, § 7(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$4,166,667 for the period of October 1, 2003, through February 29, 2004;”.
 
-Subsec. (c)(7). Pub. L. 108–310, § 9(a), added par. (7).
+Subsec. (c)(7). Pub. L. 108–310, § 9(a), added par. (7).
 
-2003—Subsec. (b)(4), (5). Pub. L. 108–88, § 9(b), added par. (4) and redesignated former par. (4) as (5).
+2003—Subsec. (b)(4), (5). Pub. L. 108–88, § 9(b), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c)(6). Pub. L. 108–88, § 9(a), added par. (6).
+Subsec. (c)(6). Pub. L. 108–88, § 9(a), added par. (6).
 
-2000—Subsec. (a). Pub. L. 106–377 and Pub. L. 106–408, § 123, amended subsec. (a) identically, substituting “fiscal year 2009” for “fiscal year 2000”.
+2000—Subsec. (a). Pub. L. 106–377 and Pub. L. 106–408, § 123, amended subsec. (a) identically, substituting “fiscal year 2009” for “fiscal year 2000”.
 
-Subsec. (d). Pub. L. 106–408, § 121(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c), respectively, so much, not to exceed 6 per centum of such balance, as the Secretary of the Interior may estimate to be necessary for his or her expenses in the conduct of necessary investigations, administration, and the execution of this chapter, for an outreach and communications program and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters, shall be deducted for that purpose, and such sum is authorized to be made available until the expiration of the next succeeding fiscal year. Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c). No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register.”
+Subsec. (d). Pub. L. 106–408, § 121(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c), respectively, so much, not to exceed 6 per centum of such balance, as the Secretary of the Interior may estimate to be necessary for his or her expenses in the conduct of necessary investigations, administration, and the execution of this chapter, for an outreach and communications program and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters, shall be deducted for that purpose, and such sum is authorized to be made available until the expiration of the next succeeding fiscal year. Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c). No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register.”
 
-Subsec. (e). Pub. L. 106–408, § 122(b), inserted “and after deducting amounts used for grants under section 777m of this title,” after “respectively,” in first sentence.
+Subsec. (e). Pub. L. 106–408, § 122(b), inserted “and after deducting amounts used for grants under section 777m of this title,” after “respectively,” in first sentence.
 
-Subsec. (f). Pub. L. 106–408, § 124, struck out before period at end of first sentence “, and if unexpended or unobligated at the end of such year, such sum is hereby authorized to be made available for expenditure by the Secretary of the Interior in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”.
+Subsec. (f). Pub. L. 106–408, § 124, struck out before period at end of first sentence “, and if unexpended or unobligated at the end of such year, such sum is hereby authorized to be made available for expenditure by the Secretary of the Interior in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”.
 
-Subsec. (g). Pub. L. 106–408, § 121(c), added subsec. (g).
+Subsec. (g). Pub. L. 106–408, § 121(c), added subsec. (g).
 
 1999—Subsec. (a). Pub. L. 106–74 substituted “fiscal year 2000” for “fiscal year 1999” in second sentence.
 
-1998—Subsec. (b). Pub. L. 105–178, § 7403(a), as amended by Pub. L. 105–206, § 9012(b)(1), inserted heading and amended text generally, substituting provisions relating to fiscal years 1998 to 2003 for provisions relating to fiscal years 1993 to 1998.
+1998—Subsec. (b). Pub. L. 105–178, § 7403(a), as amended by Pub. L. 105–206, § 9012(b)(1), inserted heading and amended text generally, substituting provisions relating to fiscal years 1998 to 2003 for provisions relating to fiscal years 1993 to 1998.
 
-Subsec. (b)(3)(B). Pub. L. 105–178, § 7403(b), as added by Pub. L. 105–206, § 9012(b)(2), made a technical amendment to reference in original act which appears in text as reference to section 777g–1(d) of this title.
+Subsec. (b)(3)(B). Pub. L. 105–178, § 7403(b), as added by Pub. L. 105–206, § 9012(b)(2), made a technical amendment to reference in original act which appears in text as reference to section 777g–1(d) of this title.
 
-Subsec. (c). Pub. L. 105–178, § 7402(b)(1), (2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 105–178, § 7402(b)(1), (2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–178, § 7402(b)(3)–(5), substituted “subsections (a), (b), and (c),” for “subsections (a) and (b),”, inserted “, for an outreach and communications program” after “chapter”, and inserted at end “Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c). No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register.”
+Subsec. (d). Pub. L. 105–178, § 7402(b)(3)–(5), substituted “subsections (a), (b), and (c),” for “subsections (a) and (b),”, inserted “, for an outreach and communications program” after “chapter”, and inserted at end “Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c). No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register.”
 
-Pub. L. 105–178, § 7402(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Pub. L. 105–178, § 7402(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 105–178, § 7402(b)(6), substituted “subsections (a), (b), (c), and (d)” for “subsections (a), (b), and (c)”.
+Subsec. (e). Pub. L. 105–178, § 7402(b)(6), substituted “subsections (a), (b), (c), and (d)” for “subsections (a), (b), and (c)”.
 
-Pub. L. 105–178, § 7402(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 105–178, § 7402(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 105–178, § 7402(b)(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 105–178, § 7402(b)(1), redesignated subsec. (e) as (f).
 
 1992—Pub. L. 102–587 added subsecs. (a) to (c), inserted subsec. (d) designation and substituted “The Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), and (c), respectively, shall apportion the remainder of each such annual appropriation among the several States” for “So much, not to exceed 6 per centum, of each annual appropriation made in accordance with the provisions of section 777b of this title as the Secretary of the Interior may estimate to be necessary for his expenses in the conduct of necessary investigations, administration, and the execution of this chapter and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year. The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: *Provided*, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999. The Secretary of the Interior, after making the aforesaid deduction, shall apportion the remainder of the appropriation for each fiscal year among the several States”, and inserted subsec. (e) designation.
 
@@ -709,17 +709,17 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-## § 777d. Certification of funds deducted for expenses and amounts apportioned to States
+## § 777d. Certification of funds deducted for expenses and amounts apportioned to States
 
 For each fiscal year beginning with the fiscal year ending June 30, 1951, the Secretary of the Interior shall certify, at the time at which a deduction or apportionment is made, to the Secretary of the Treasury, and to each State fish and game department, the sum which he has estimated to be deducted for administering this chapter and the sum which he has apportioned to each State for such fiscal year.
 
-(Aug. 9, 1950, ch. 658, § 5, 64 Stat. 432; Pub. L. 98–369, div. A, title X, § 1014(a)(4), July 18, 1984, 98 Stat. 1015; Pub. L. 106–408, title I, § 125, Nov. 1, 2000, 114 Stat. 1775.)
+(Aug. 9, 1950, ch. 658, § 5, 64 Stat. 432; Pub. L. 98–369, div. A, title X, § 1014(a)(4), July 18, 1984, 98 Stat. 1015; Pub. L. 106–408, title I, § 125, Nov. 1, 2000, 114 Stat. 1775.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Pub. L. 106–408 inserted “, at the time at which a deduction or apportionment is made,” after “certify” and struck out “and executing” after “administering”.
+2000—Pub. L. 106–408 inserted “, at the time at which a deduction or apportionment is made,” after “certify” and struck out “and executing” after “administering”.
 
 1984—Pub. L. 98–369 struck out provisions relating to notice by the State to the Secretary of intention to accept, and use of funds where the State fails to accept.
 
@@ -735,7 +735,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-## § 777e. Submission and approval of plans and projects
+## § 777e. Submission and approval of plans and projects
 
 **(a) Apportionment of funds** Any State desiring to avail itself of the benefits of this chapter shall, by its State fish and game department, submit programs or projects for fish restoration in either of the following two ways:
 
@@ -757,7 +757,7 @@ Administrative costs in the form of overhead or indirect costs for services prov
 
 The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities from appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
-(Aug. 9, 1950, ch. 658, § 6, 64 Stat. 432; Pub. L. 91–503, title II, § 202, Oct. 23, 1970, 84 Stat. 1102; Pub. L. 98–369, div. A, title X, § 1014(a)(5), July 18, 1984, 98 Stat. 1016; Pub. L. 114–94, div. A, title X, § 10001(c), Dec. 4, 2015, 129 Stat. 1621.)
+(Aug. 9, 1950, ch. 658, § 6, 64 Stat. 432; Pub. L. 91–503, title II, § 202, Oct. 23, 1970, 84 Stat. 1102; Pub. L. 98–369, div. A, title X, § 1014(a)(5), July 18, 1984, 98 Stat. 1016; Pub. L. 114–94, div. A, title X, § 10001(c), Dec. 4, 2015, 129 Stat. 1621.)
 
 **Editorial Notes**
 
@@ -787,7 +787,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-## § 777e–1. New England Fishery Resources Restoration Act of 1990
+## § 777e–1. New England Fishery Resources Restoration Act of 1990
 
 **(a) Short title**
 
@@ -823,13 +823,13 @@ The Director shall inventory the natural values of river basins in New England, 
 
 **(2)** $500,000 per year for fiscal years 1991, 1992, and 1993 to conduct the study required under subsection (d); and
 
-**(3)** $500,000 to conduct the inventory and assessment required under section 1
+**(3)** $500,000 to conduct the inventory and assessment required under section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (e).
 
-(Pub. L. 101–593, title I, § 111, Nov. 16, 1990, 104 Stat. 2960.)
+(Pub. L. 101–593, title I, § 111, Nov. 16, 1990, 104 Stat. 2960.)
 
 **Editorial Notes**
 
@@ -847,7 +847,7 @@ Section was enacted as the New England Fishery Resources Restoration Act of 1990
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 777f. Payments by United States
+## § 777f. Payments by United States
 
 **(a) Payments and advances to States**
 
@@ -857,7 +857,7 @@ When the Secretary of the Interior shall find that any project approved by him h
 
 Any construction work and labor in each State shall be performed in accordance with its laws and under the direct supervision of the State fish and game department, subject to the inspection and approval of the Secretary of the Interior and in accordance with the rules and regulations made pursuant to this chapter. The Secretary of the Interior and the State fish and game department of each State may jointly determine at what times and in what amounts payments shall be made under this chapter. Such payments shall be made against the said appropriation to such official or officials, or depository, as may be designated by the State fish and game department and authorized under the laws of the State to receive public funds of the State.
 
-(Aug. 9, 1950, ch. 658, § 7, 64 Stat. 433; Pub. L. 91–503, title II, § 202, Oct. 23, 1970, 84 Stat. 1103.)
+(Aug. 9, 1950, ch. 658, § 7, 64 Stat. 433; Pub. L. 91–503, title II, § 202, Oct. 23, 1970, 84 Stat. 1103.)
 
 **Editorial Notes**
 
@@ -871,7 +871,7 @@ Any construction work and labor in each State shall be performed in accordance w
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-## § 777g. Maintenance of projects
+## § 777g. Maintenance of projects
 
 **(a) Duty of States; status of projects; title to property**
 
@@ -939,7 +939,7 @@ Paragraph (2) does not apply to a State if, within 18 months after June 9, 1998,
 
 A State that conducts a public boat access needs survey under paragraph (2) may fund the costs of conducting that assessment out of amounts allocated to it as funding dedicated to motorboat access to recreational waters under subsection (b)(1) of this section.
 
-(Aug. 9, 1950, ch. 658, § 8, 64 Stat. 433; Pub. L. 91–503, title II, § 202, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 98–369, div. A, title X, § 1014(a)(6), July 18, 1984, 98 Stat. 1016; Pub. L. 102–587, title V, § 5604(b), Nov. 4, 1992, 106 Stat. 5088; Pub. L. 105–178, title VII, §§ 7402(c), 7404(b), June 9, 1998, 112 Stat. 484, 486; Pub. L. 105–206, title IX, § 9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, § 10114, Aug. 10, 2005, 119 Stat. 1928; Pub. L. 114–94, div. A, title X, § 10001(d), Dec. 4, 2015, 129 Stat. 1621.)
+(Aug. 9, 1950, ch. 658, § 8, 64 Stat. 433; Pub. L. 91–503, title II, § 202, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 98–369, div. A, title X, § 1014(a)(6), July 18, 1984, 98 Stat. 1016; Pub. L. 102–587, title V, § 5604(b), Nov. 4, 1992, 106 Stat. 5088; Pub. L. 105–178, title VII, §§ 7402(c), 7404(b), June 9, 1998, 112 Stat. 484, 486; Pub. L. 105–206, title IX, § 9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, § 10114, Aug. 10, 2005, 119 Stat. 1928; Pub. L. 114–94, div. A, title X, § 10001(d), Dec. 4, 2015, 129 Stat. 1621.)
 
 **Editorial Notes**
 
@@ -953,27 +953,27 @@ The Clean Vessel Act of 1992, referred to in subsec. (f), is subtitle F of title
 
 2015—Subsec. (b)(2). Pub. L. 114–94 substituted “58.012 percent” for “57 percent”.
 
-2005—Subsec. (b)(2). Pub. L. 109–59, § 10114(1), substituted “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(c) of this title” for “in carrying out the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”.
+2005—Subsec. (b)(2). Pub. L. 109–59, § 10114(1), substituted “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(c) of this title” for “in carrying out the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”.
 
-Subsec. (d)(3). Pub. L. 109–59, § 10114(2), substituted “subsection (a)(5) or subsection (b)” for “subsection (c) or (d)” in introductory provisions.
+Subsec. (d)(3). Pub. L. 109–59, § 10114(2), substituted “subsection (a)(5) or subsection (b)” for “subsection (c) or (d)” in introductory provisions.
 
-1998—Subsec. (b)(1). Pub. L. 105–178, § 7402(c)(1), which directed the substitution of “15 percent” for “12½ percentum” wherever appearing, was executed by making the substitution for “12½ per centum” to reflect the probable intent of Congress.
+1998—Subsec. (b)(1). Pub. L. 105–178, § 7402(c)(1), which directed the substitution of “15 percent” for “12½ percentum” wherever appearing, was executed by making the substitution for “12½ per centum” to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 105–178, § 7402(c)(3), inserted “and communications” after “outreach”.
+Subsec. (c). Pub. L. 105–178, § 7402(c)(3), inserted “and communications” after “outreach”.
 
-Pub. L. 105–178, § 7402(c)(2), which directed the substitution of “15 percent” for “10 percentum”, was executed by making the substitution for “10 per centum” to reflect the probable intent of Congress.
+Pub. L. 105–178, § 7402(c)(2), which directed the substitution of “15 percent” for “10 percentum”, was executed by making the substitution for “10 per centum” to reflect the probable intent of Congress.
 
-Subsecs. (d) to (f). Pub. L. 105–178, § 7402(c)(4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+Subsecs. (d) to (f). Pub. L. 105–178, § 7402(c)(4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-Subsec. (g). Pub. L. 105–178, § 7404(b), as amended by Pub. L. 105–206, § 9012(c), added subsec. (g).
+Subsec. (g). Pub. L. 105–178, § 7404(b), as amended by Pub. L. 105–206, § 9012(c), added subsec. (g).
 
-1992—Subsec. (b)(1). Pub. L. 102–587, § 5604(b)(1), substituted “12½ per centum” for “10 per centum” after “allocate” and inserted at end “Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 12½ per centum in a fiscal year, provided that the total regional allocation averages 12½ per centum over a 5 year period.”
+1992—Subsec. (b)(1). Pub. L. 102–587, § 5604(b)(1), substituted “12½ per centum” for “10 per centum” after “allocate” and inserted at end “Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 12½ per centum in a fiscal year, provided that the total regional allocation averages 12½ per centum over a 5 year period.”
 
-Subsec. (b)(2). Pub. L. 102–587, § 5604(b)(2), substituted “four fiscal years” for “fiscal year” after first reference to “succeeding” and “period” for second reference to “succeeding fiscal year”.
+Subsec. (b)(2). Pub. L. 102–587, § 5604(b)(2), substituted “four fiscal years” for “fiscal year” after first reference to “succeeding” and “period” for second reference to “succeeding fiscal year”.
 
-Subsec. (c). Pub. L. 102–587, § 5604(b)(3), inserted “and outreach” after “education”.
+Subsec. (c). Pub. L. 102–587, § 5604(b)(3), inserted “and outreach” after “education”.
 
-Subsec. (d). Pub. L. 102–587, § 5604(b)(4), added subsec. (d).
+Subsec. (d). Pub. L. 102–587, § 5604(b)(4), added subsec. (d).
 
 1984—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -999,7 +999,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
 
-## § 777g–1. Boating infrastructure
+## § 777g–1. Boating infrastructure
 
 **(a) Purpose**
 
@@ -1015,9 +1015,9 @@ Within 6 months after submitting a survey to the Secretary under section 777g(g)
 
 **(1) Matching grants**
 
-The Secretary of the Interior shall obligate amounts made available under section 777c(a)(4) 1
+The Secretary of the Interior shall obligate amounts made available under section 777c(a)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
 
@@ -1041,17 +1041,17 @@ of this title to make grants to any State to pay not more than 75 percent of the
 
 **(3)** “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 105–178, title VII, § 7404, June 9, 1998, 112 Stat. 486; Pub. L. 105–206, title IX, § 9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, § 10115, Aug. 10, 2005, 119 Stat. 1928.)
+(Pub. L. 105–178, title VII, § 7404, June 9, 1998, 112 Stat. 486; Pub. L. 105–206, title IX, § 9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, § 10115, Aug. 10, 2005, 119 Stat. 1928.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraph (4) of section 777c(a), referred to in subsec. (d)(1), was repealed by Pub. L. 114–94, div. A, title X, § 10001(b)(1)(D), Dec. 4, 2015, 129 Stat. 1620. See section 777c(a)(3)(A) of this title.
+Paragraph (4) of section 777c(a), referred to in subsec. (d)(1), was repealed by Pub. L. 114–94, div. A, title X, § 10001(b)(1)(D), Dec. 4, 2015, 129 Stat. 1620. See section 777c(a)(3)(A) of this title.
 
 **Codification**
 
-Section is comprised of section 7404 of Pub. L. 105–178. Subsec. (b) of section 7404 of Pub. L. 105–178, as amended by Pub. L. 105–206, § 9012(c), amended section 777g of this title.
+Section is comprised of section 7404 of Pub. L. 105–178. Subsec. (b) of section 7404 of Pub. L. 105–178, as amended by Pub. L. 105–206, § 9012(c), amended section 777g of this title.
 
 Section was enacted as part of the Sportfishing and Boating Safety Act of 1998, and also as part of the Transportation Equity Act for the 21st Century, and not as part of the Fish Restoration and Management Projects Act which comprises this chapter.
 
@@ -1059,7 +1059,7 @@ Section was enacted as part of the Sportfishing and Boating Safety Act of 1998, 
 
 2005—Subsec. (d)(1). Pub. L. 109–59 substituted “section 777c(a)(4) of this title” for “section 777c(b)(3)(B) of this title”.
 
-1998—Subsec. (b). Pub. L. 105–206, § 9012(c), made a technical amendment to directory language of Pub. L. 105–178, § 7404(b). See Codification note above.
+1998—Subsec. (b). Pub. L. 105–206, § 9012(c), made a technical amendment to directory language of Pub. L. 105–178, § 7404(b). See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1073,7 +1073,7 @@ Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. 
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
-## § 777h. Requirements and restrictions concerning use of amounts for expenses for administration
+## § 777h. Requirements and restrictions concerning use of amounts for expenses for administration
 
 **(a) Authorized expenses for administration** Except as provided in subsection (b), the Secretary of the Interior may use available amounts under section 777c(b) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
 
@@ -1145,35 +1145,35 @@ The auditor selected under subparagraph (A) shall report to, and be supervised b
 
 **(B)** a copy of each audit under this subsection.
 
-(Aug. 9, 1950, ch. 658, § 9, 64 Stat. 433; Pub. L. 106–408, title I, § 121(b), Nov. 1, 2000, 114 Stat. 1770; Pub. L. 109–59, title X, § 10116, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 117–58, div. B, title VIII, § 28001(a)(2), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–263, div. K, title CXIII, § 11324(a)(2), Dec. 23, 2022, 136 Stat. 4095.)
+(Aug. 9, 1950, ch. 658, § 9, 64 Stat. 433; Pub. L. 106–408, title I, § 121(b), Nov. 1, 2000, 114 Stat. 1770; Pub. L. 109–59, title X, § 10116, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 117–58, div. B, title VIII, § 28001(a)(2), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–263, div. K, title CXIII, § 11324(a)(2), Dec. 23, 2022, 136 Stat. 4095.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (d)(2)(A), “section 132 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(2)(A), “section 132 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2022—Subsec. (a)(7). Pub. L. 117–263, § 11324(a)(2)(A), struck out “full-time” before “personnel”.
+2022—Subsec. (a)(7). Pub. L. 117–263, § 11324(a)(2)(A), struck out “full-time” before “personnel”.
 
-Subsec. (a)(9). Pub. L. 117–263, § 11324(a)(2)(B), struck out “on a full-time basis” after “administer this chapter”.
+Subsec. (a)(9). Pub. L. 117–263, § 11324(a)(2)(B), struck out “on a full-time basis” after “administer this chapter”.
 
-2021—Subsec. (a)(1). Pub. L. 117–58, § 28001(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “personnel costs of employees who directly administer this chapter on a full-time basis;”.
+2021—Subsec. (a)(1). Pub. L. 117–58, § 28001(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “personnel costs of employees who directly administer this chapter on a full-time basis;”.
 
-Subsec. (a)(2). Pub. L. 117–58, § 28001(a)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+Subsec. (a)(2). Pub. L. 117–58, § 28001(a)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
 
-Pub. L. 117–58, § 28001(a)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
+Pub. L. 117–58, § 28001(a)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
 
-Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-Subsec. (a)(4)(B). Pub. L. 117–58, § 28001(a)(2)(D), substituted “employee authorized under paragraph (1)” for “full-time equivalent employee authorized under paragraphs (1) and (2)”.
+Subsec. (a)(4)(B). Pub. L. 117–58, § 28001(a)(2)(D), substituted “employee authorized under paragraph (1)” for “full-time equivalent employee authorized under paragraphs (1) and (2)”.
 
-Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
+Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
 
-Subsec. (a)(8)(A). Pub. L. 117–58, § 28001(a)(2)(E), struck out “on a full-time basis” after “administer this chapter”.
+Subsec. (a)(8)(A). Pub. L. 117–58, § 28001(a)(2)(E), struck out “on a full-time basis” after “administer this chapter”.
 
-Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”. Former par. (9) redesignated (8).
+Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”. Former par. (9) redesignated (8).
 
 2005—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted “section 777c(b)” for “section 777c(d)(1)” in introductory provisions.
 
@@ -1191,11 +1191,11 @@ From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a) and (b)(1) of this 
 
 Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as a note under section 777b of this title.
 
-## § 777i. Rules and regulations
+## § 777i. Rules and regulations
 
 The Secretary of the Interior is authorized to make rules and regulations for carrying out the provisions of this chapter.
 
-(Aug. 9, 1950, ch. 658, § 10, 64 Stat. 434.)
+(Aug. 9, 1950, ch. 658, § 10, 64 Stat. 434.)
 
 **Executive Documents**
 
@@ -1203,15 +1203,15 @@ The Secretary of the Interior is authorized to make rules and regulations for ca
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-## § 777j. Repealed. Pub. L. 89–348, § 1(14), Nov. 8, 1965, 79 Stat. 1311
+## § 777j. Repealed. Pub. L. 89–348, § 1(14), Nov. 8, 1965, 79 Stat. 1311
 
-Section, act Aug. 9, 1950, ch. 658, § 11, 64 Stat. 434, required the Secretary of the Interior to make an annual report to the Congress giving detailed information as to the projects established under this chapter and expenditures therefor.
+Section, act Aug. 9, 1950, ch. 658, § 11, 64 Stat. 434, required the Secretary of the Interior to make an annual report to the Congress giving detailed information as to the projects established under this chapter and expenditures therefor.
 
-## § 777k. Payments of funds to and cooperation with Puerto Rico, the District of Columbia, Guam, American Samoa, Commonwealth of the Northern Mariana Islands, and Virgin Islands
+## § 777k. Payments of funds to and cooperation with Puerto Rico, the District of Columbia, Guam, American Samoa, Commonwealth of the Northern Mariana Islands, and Virgin Islands
 
 The Secretary of the Interior is authorized to cooperate with the Secretary of Agriculture of Puerto Rico, the Mayor of the District of Columbia, the Governor of Guam, the Governor of American Samoa, the Governor of the Commonwealth of the Northern Mariana Islands, and the Governor of the Virgin Islands, in the conduct of fish restoration and management projects, as defined in section 777a of this title, upon such terms and conditions as he shall deem fair, just, and equitable, and is authorized to apportion to Puerto Rico, the District of Columbia, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands, out of money available for apportionment under this chapter, such sums as he shall determine, not exceeding for Puerto Rico 1 per centum, for the District of Columbia one-third of 1 per centum, for Guam one-third of 1 per centum, for American Samoa one-third of 1 per centum, for the Commonwealth of the Northern Mariana Islands one-third of 1 per centum, and for the Virgin Islands one-third of 1 per centum of the total amount apportioned in any one year, but the Secretary shall in no event require any of said cooperating agencies to pay an amount which will exceed 25 per centum of the cost of any project. Any unexpended or unobligated balance of any apportionment made pursuant to this section shall be made available for expenditure in Puerto Rico, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, as the case may be, in the succeeding year, on any approved projects, and if unexpended or unobligated at the end of such year is authorized to be made available for expenditure by the Secretary of the Interior to supplement the 58.012 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(c) of this title.
 
-(Aug. 9, 1950, ch. 658, § 12, 64 Stat. 434; July 2, 1956, ch. 489, § 4, 70 Stat. 473; Aug. 1, 1956, ch. 852, § 8, 70 Stat. 908; Pub. L. 86–70, § 16, June 25, 1959, 73 Stat. 143; Pub. L. 91–503, title II, § 203, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 96–597, title III, § 302(a), Dec. 24, 1980, 94 Stat. 3477; Pub. L. 98–369, div. A, title X, § 1014(a)(7), July 18, 1984, 98 Stat. 1016; Pub. L. 109–59, title X, § 10117, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 114–94, div. A, title X, § 10001(e), Dec. 4, 2015, 129 Stat. 1621.)
+(Aug. 9, 1950, ch. 658, § 12, 64 Stat. 434; July 2, 1956, ch. 489, § 4, 70 Stat. 473; Aug. 1, 1956, ch. 852, § 8, 70 Stat. 908; Pub. L. 86–70, § 16, June 25, 1959, 73 Stat. 143; Pub. L. 91–503, title II, § 203, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 96–597, title III, § 302(a), Dec. 24, 1980, 94 Stat. 3477; Pub. L. 98–369, div. A, title X, § 1014(a)(7), July 18, 1984, 98 Stat. 1016; Pub. L. 109–59, title X, § 10117, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 114–94, div. A, title X, § 10001(e), Dec. 4, 2015, 129 Stat. 1621.)
 
 **Editorial Notes**
 
@@ -1259,17 +1259,17 @@ Amendment by act July 2, 1956, as applicable only with respect to fiscal years b
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-## § 777l. State use of contributions
+## § 777l. State use of contributions
 
 A State may use contributions of funds, real property, materials, and services to carry out an activity under this chapter in lieu of payment by the State of the State share of the cost of such activity. Such a State share shall be considered to be paid in an amount equal to the fair market value of any contribution so used.
 
-(Aug. 9, 1950, ch. 658, § 13, as added Pub. L. 100–448, § 6(c)(2), Sept. 28, 1988, 102 Stat. 1841.)
+(Aug. 9, 1950, ch. 658, § 13, as added Pub. L. 100–448, § 6(c)(2), Sept. 28, 1988, 102 Stat. 1841.)
 
 **Editorial Notes**
 
 **Codification**
 
-Another section 13 of act Aug. 9, 1950, ch. 658, which was classified as a note under section 777 of this title, was repealed by Pub. L. 106–408, title I, § 122(a)(1), Nov. 1, 2000, 114 Stat. 1772.
+Another section 13 of act Aug. 9, 1950, ch. 658, which was classified as a note under section 777 of this title, was repealed by Pub. L. 106–408, title I, § 122(a)(1), Nov. 1, 2000, 114 Stat. 1772.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1277,7 +1277,7 @@ Another section 13 of act Aug. 9, 1950, ch. 658, which was classified as a note 
 
 Section effective Oct. 1, 1988, see section 6(e) of Pub. L. 100–448, set out as an Effective Date of 1988 Amendment note under section 777 of this title.
 
-## § 777m. Multistate conservation grant program
+## § 777m. Multistate conservation grant program
 
 **(a) In general**
 
@@ -1373,7 +1373,7 @@ A grant under this section shall not be used, in whole or in part, for an activi
 
 Chapter 10 of title 5 shall not apply to any activity carried out under this section.
 
-(Aug. 9, 1950, ch. 658, § 14, as added Pub. L. 106–408, title I, § 122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, § 10118, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 109–241, title IX, § 901(r)(2), July 11, 2006, 120 Stat. 566; Pub. L. 111–281, title IX, § 903(a)(3), Oct. 15, 2010, 124 Stat. 3010; Pub. L. 114–94, div. A, title X, § 10001(f), Dec. 4, 2015, 129 Stat. 1621; Pub. L. 117–58, div. B, title VIII, § 28001(a)(3), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–286, § 4(a)(103), Dec. 27, 2022, 136 Stat. 4317.)
+(Aug. 9, 1950, ch. 658, § 14, as added Pub. L. 106–408, title I, § 122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, § 10118, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 109–241, title IX, § 901(r)(2), July 11, 2006, 120 Stat. 566; Pub. L. 111–281, title IX, § 903(a)(3), Oct. 15, 2010, 124 Stat. 3010; Pub. L. 114–94, div. A, title X, § 10001(f), Dec. 4, 2015, 129 Stat. 1621; Pub. L. 117–58, div. B, title VIII, § 28001(a)(3), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–286, § 4(a)(103), Dec. 27, 2022, 136 Stat. 4317.)
 
 **Editorial Notes**
 
@@ -1383,21 +1383,21 @@ Chapter 10 of title 5 shall not apply to any activity carried out under this sec
 
 2021—Subsec. (e)(3). Pub. L. 117–58 added par. (3).
 
-2015—Subsec. (a)(1). Pub. L. 114–94, § 10001(f)(1), struck out “of each annual appropriation made in accordance with the provisions of section 777b of this title” after “$3,000,000”.
+2015—Subsec. (a)(1). Pub. L. 114–94, § 10001(f)(1), struck out “of each annual appropriation made in accordance with the provisions of section 777b of this title” after “$3,000,000”.
 
-Subsec. (e). Pub. L. 114–94, § 10001(f)(2)(A), in introductory provisions, substituted “Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for use as follows:” for “Of amounts made available under section 777c(b) of this title for each fiscal year—”.
+Subsec. (e). Pub. L. 114–94, § 10001(f)(2)(A), in introductory provisions, substituted “Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for use as follows:” for “Of amounts made available under section 777c(b) of this title for each fiscal year—”.
 
-Subsec. (e)(1)(D). Pub. L. 114–94, § 10001(f)(2)(B), substituted period at end for “; and”.
+Subsec. (e)(1)(D). Pub. L. 114–94, § 10001(f)(2)(B), substituted period at end for “; and”.
 
-2010—Subsec. (a)(1). Pub. L. 111–281 made technical correction to directory language of Pub. L. 109–241, § 901(r)(2). See 2006 Amendment note below.
+2010—Subsec. (a)(1). Pub. L. 111–281 made technical correction to directory language of Pub. L. 109–241, § 901(r)(2). See 2006 Amendment note below.
 
-2006—Subsec. (a)(1). Pub. L. 109–241, § 901(r)(2), as amended by Pub. L. 111–281, substituted “Not more than” for “For each of fiscal years 2006 through 2009, not more than”.
+2006—Subsec. (a)(1). Pub. L. 109–241, § 901(r)(2), as amended by Pub. L. 111–281, substituted “Not more than” for “For each of fiscal years 2006 through 2009, not more than”.
 
-2005—Subsec. (a)(1). Pub. L. 109–59, § 10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.”
+2005—Subsec. (a)(1). Pub. L. 109–59, § 10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.”
 
-Subsec. (a)(2)(B). Pub. L. 109–59, § 10118(2), substituted “section 777c(c)” for “section 777c(e)” in two places.
+Subsec. (a)(2)(B). Pub. L. 109–59, § 10118(2), substituted “section 777c(c)” for “section 777c(e)” in two places.
 
-Subsec. (e). Pub. L. 109–59, § 10118(3), added introductory provisions and struck out former introductory provisions which read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—”.
+Subsec. (e). Pub. L. 109–59, § 10118(3), added introductory provisions and struck out former introductory provisions which read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1407,7 +1407,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(3) is effective with enactment of Pub. L. 109–241.
+Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(3) is effective with enactment of Pub. L. 109–241.
 
 **Effective Date of 2005 Amendments**
 
@@ -1415,9 +1415,9 @@ From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a)(1), (2)(B) and (e) 
 
 Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as a note under section 777b of this title.
 
-## § 777n. Repealed. Pub. L. 114–94, div. A, title X, § 10001(g)(1), Dec. 4, 2015, 129 Stat. 1621
+## § 777n. Repealed. Pub. L. 114–94, div. A, title X, § 10001(g)(1), Dec. 4, 2015, 129 Stat. 1621
 
-Section, act Aug. 9, 1950, ch. 658, § 15, as added Pub. L. 109–59, title X, § 10119, Aug. 10, 2005, 119 Stat. 1929; amended Pub. L. 109–74, title I, § 103, Sept. 29, 2005, 119 Stat. 2031, related to expenditure of remaining balance in the Boat Safety Account.
+Section, act Aug. 9, 1950, ch. 658, § 15, as added Pub. L. 109–59, title X, § 10119, Aug. 10, 2005, 119 Stat. 1929; amended Pub. L. 109–74, title I, § 103, Sept. 29, 2005, 119 Stat. 2031, related to expenditure of remaining balance in the Boat Safety Account.
 
 A prior section 15 of act Aug. 9, 1950, was renumbered section 16 and is set out as a note under section 777 of this title.
 

@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Title II of Pub. L. 94–462, comprising this chapter, was originally enacted as Pub. L. 94–462, title II, Oct. 8, 1976, 90 Stat. 1975; Pub. L. 96–496, title II, § 201, Dec. 4, 1980, 94 Stat. 2591; Pub. L. 98–306, §§ 8–11, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, § 318 [title II, §§ 201, 202(a)(1), (b), 203–205], Nov. 5, 1990, 104 Stat. 1960, 1974, 1975, known as the Museum Services Act, and classified to section 961 et seq. of this title. Title II is shown, herein, however, as having been added by Pub. L. 104–208 without reference to such intervening amendments because of the extensive amendments to the provisions of title II by Pub. L. 104–208.
+Title II of Pub. L. 94–462, comprising this chapter, was originally enacted as Pub. L. 94–462, title II, Oct. 8, 1976, 90 Stat. 1975; Pub. L. 96–496, title II, § 201, Dec. 4, 1980, 94 Stat. 2591; Pub. L. 98–306, §§ 8–11, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, § 318 [title II, §§ 201, 202(a)(1), (b), 203–205], Nov. 5, 1990, 104 Stat. 1960, 1974, 1975, known as the Museum Services Act, and classified to section 961 et seq. of this title. Title II is shown, herein, however, as having been added by Pub. L. 104–208 without reference to such intervening amendments because of the extensive amendments to the provisions of title II by Pub. L. 104–208.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 9101. General definitions
+### § 9101. General definitions
 
 As used in this chapter:
 
@@ -65,13 +65,13 @@ The term “Museum and Library Services Board” means the National Museum and L
 
 **(C)** such project, when taken as a whole, lacks serious literary, artistic, political, or scientific value.
 
-(Pub. L. 94–462, title II, § 202, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, § 101, Sept. 25, 2003, 117 Stat. 992; Pub. L. 111–340, title I, § 101, Dec. 22, 2010, 124 Stat. 3595; Pub. L. 115–410, § 2, Dec. 31, 2018, 132 Stat. 5412.)
+(Pub. L. 94–462, title II, § 202, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, § 101, Sept. 25, 2003, 117 Stat. 992; Pub. L. 111–340, title I, § 101, Dec. 22, 2010, 124 Stat. 3595; Pub. L. 115–410, § 2, Dec. 31, 2018, 132 Stat. 5412.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Prior Provisions**
 
@@ -79,53 +79,53 @@ A prior section 202 of Pub. L. 94–462 was classified to section 961 of this ti
 
 **Amendments**
 
-2018—Par. (2). Pub. L. 115–410, § 2(1), substituted “means the skills associated with—” and subpars. (A) and (B) for “means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information.”
+2018—Par. (2). Pub. L. 115–410, § 2(1), substituted “means the skills associated with—” and subpars. (A) and (B) for “means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information.”
 
-Par. (5). Pub. L. 115–410, § 2(2), struck out “by the Secretary of the Interior” after “which is recognized”.
+Par. (5). Pub. L. 115–410, § 2(2), struck out “by the Secretary of the Interior” after “which is recognized”.
 
 2010—Pars. (2) to (8). Pub. L. 111–340 added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
 
-2003—Par. (1). Pub. L. 108–81, § 101(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘Commission’ means the National Commission on Libraries and Information Science established under section 1502 of this title.”
+2003—Par. (1). Pub. L. 108–81, § 101(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘Commission’ means the National Commission on Libraries and Information Science established under section 1502 of this title.”
 
-Pars. (3) to (5). Pub. L. 108–81, § 101(2)–(4), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out heading and text of former par. (4). Text read as follows: “The term ‘Museum Board’ means the National Museum Services Board established under section 9175 of this title.”
+Pars. (3) to (5). Pub. L. 108–81, § 101(2)–(4), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out heading and text of former par. (4). Text read as follows: “The term ‘Museum Board’ means the National Museum Services Board established under section 9175 of this title.”
 
-Pars. (6), (7). Pub. L. 108–81, § 101(5), added pars. (6) and (7).
+Pars. (6), (7). Pub. L. 108–81, § 101(5), added pars. (6) and (7).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–81, title V, § 506, Sept. 25, 2003, 117 Stat. 1005, provided that: “The amendments made by this Act [enacting sections 9105a and 9107 to 9109 of this title, amending this section, sections 956a, 974, 1503 to 1505, 9102, 9103, 9106, 9121 to 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, and section 170 of Title 26, Internal Revenue Code, repealing sections 9174 and 9175 of this title, enacting provisions set out as a note under this section, and repealing provisions set out as notes under sections 9102, 9103, and 9105 of this title] shall take effect on the date of enactment of this Act [Sept. 25, 2003], except that the amendments made by sections 203, 204, and 305 of this Act [amending sections 9123, 9131, and 9176 of this title] shall take effect on October 1, 2003.”
+Pub. L. 108–81, title V, § 506, Sept. 25, 2003, 117 Stat. 1005, provided that: “The amendments made by this Act [enacting sections 9105a and 9107 to 9109 of this title, amending this section, sections 956a, 974, 1503 to 1505, 9102, 9103, 9106, 9121 to 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, and section 170 of Title 26, Internal Revenue Code, repealing sections 9174 and 9175 of this title, enacting provisions set out as a note under this section, and repealing provisions set out as notes under sections 9102, 9103, and 9105 of this title] shall take effect on the date of enactment of this Act [Sept. 25, 2003], except that the amendments made by sections 203, 204, and 305 of this Act [amending sections 9123, 9131, and 9176 of this title] shall take effect on October 1, 2003.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–410, § 1(a), Dec. 31, 2018, 132 Stat. 5412, provided that: “This Act [enacting section 9175 of this title and amending sections 9101, 9103, 9105a, 9108, 9111, 9121 to 9123, 9131, 9134, 9141, 9151, 9162, 9165, 9171 to 9173, and 9176 of this title] may be cited as the ‘Museum and Library Services Act of 2018’.”
+Pub. L. 115–410, § 1(a), Dec. 31, 2018, 132 Stat. 5412, provided that: “This Act [enacting section 9175 of this title and amending sections 9101, 9103, 9105a, 9108, 9111, 9121 to 9123, 9131, 9134, 9141, 9151, 9162, 9165, 9171 to 9173, and 9176 of this title] may be cited as the ‘Museum and Library Services Act of 2018’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–340, § 1(a), Dec. 22, 2010, 124 Stat. 3594, provided that: “This Act [enacting part 4 of subchapter II of this chapter and sections 9110 and 9111 of this title, amending this section and sections 953, 958, 9103, 9105, 9105a, 9107, 9108, 9121, 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, repealing chapter 34 of this title, and enacting provisions set out as notes under section 9102 of this title] may be cited as the ‘Museum and Library Services Act of 2010’.”
+Pub. L. 111–340, § 1(a), Dec. 22, 2010, 124 Stat. 3594, provided that: “This Act [enacting part 4 of subchapter II of this chapter and sections 9110 and 9111 of this title, amending this section and sections 953, 958, 9103, 9105, 9105a, 9107, 9108, 9121, 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, repealing chapter 34 of this title, and enacting provisions set out as notes under section 9102 of this title] may be cited as the ‘Museum and Library Services Act of 2010’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–81, § 1, Sept. 25, 2003, 117 Stat. 991, provided that: “This Act [enacting sections 9105a and 9107 to 9109 of this title, amending this section, sections 956a, 974, 1503 to 1505, 9102, 9103, 9106, 9121 to 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, and section 170 of Title 26, Internal Revenue Code, repealing sections 9174 and 9175 of this title, enacting provisions set out as notes under this section and section 956a of this title, and repealing provisions set out as notes under sections 9102, 9103, and 9105 of this title] may be cited as the ‘Museum and Library Services Act of 2003’.”
+Pub. L. 108–81, § 1, Sept. 25, 2003, 117 Stat. 991, provided that: “This Act [enacting sections 9105a and 9107 to 9109 of this title, amending this section, sections 956a, 974, 1503 to 1505, 9102, 9103, 9106, 9121 to 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, and section 170 of Title 26, Internal Revenue Code, repealing sections 9174 and 9175 of this title, enacting provisions set out as notes under this section and section 956a of this title, and repealing provisions set out as notes under sections 9102, 9103, and 9105 of this title] may be cited as the ‘Museum and Library Services Act of 2003’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–128, § 1, Dec. 1, 1997, 111 Stat. 2548, provided that: “This Act [amending sections 9105, 9122, 9131, 9133, 9161, and 9162 of this title] may be cited as the ‘Museum and Library Services Technical and Conforming Amendments of 1997’.”
+Pub. L. 105–128, § 1, Dec. 1, 1997, 111 Stat. 2548, provided that: “This Act [amending sections 9105, 9122, 9131, 9133, 9161, and 9162 of this title] may be cited as the ‘Museum and Library Services Technical and Conforming Amendments of 1997’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 701], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, provided that: “This title [enacting this chapter, amending sections 1069b, 1504, 1505, 3441, 3473, 3489, 6621, 6645, 6648, 6649, 6813, 8091, 8102, and 8104 of this title, section 5315 of Title 5, Government Organization and Employees, section 276d–3 of former Title 40, Public Buildings, Property, and Works, section 214 of former Title 40, Appendix, section 3338 of Title 42, The Public Health and Welfare, section 254 of Title 47, Telecommunications, and section 1666 of Title 48, Territories and Insular Possessions, repealing sections 351 to 386g, 1021 to 1047, 1221i, and 7001 to 7005 of this title, enacting provisions set out under this section and sections 9102, 9103, and 9105 of this title, and repealing provisions set out as notes under sections 351 and 1029 of this title] may be cited as the ‘Museum and Library Services Act of 1996’.”
+Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 701], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, provided that: “This title [enacting this chapter, amending sections 1069b, 1504, 1505, 3441, 3473, 3489, 6621, 6645, 6648, 6649, 6813, 8091, 8102, and 8104 of this title, section 5315 of Title 5, Government Organization and Employees, section 276d–3 of former Title 40, Public Buildings, Property, and Works, section 214 of former Title 40, Appendix, section 3338 of Title 42, The Public Health and Welfare, section 254 of Title 47, Telecommunications, and section 1666 of Title 48, Territories and Insular Possessions, repealing sections 351 to 386g, 1021 to 1047, 1221i, and 7001 to 7005 of this title, enacting provisions set out under this section and sections 9102, 9103, and 9105 of this title, and repealing provisions set out as notes under sections 351 and 1029 of this title] may be cited as the ‘Museum and Library Services Act of 1996’.”
 
 **Short Title**
 
-Pub. L. 94–462, title II, § 201, as added by Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, provided that: “This title [enacting this chapter] may be cited as the ‘Museum and Library Services Act’.”
+Pub. L. 94–462, title II, § 201, as added by Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, provided that: “This title [enacting this chapter] may be cited as the ‘Museum and Library Services Act’.”
 
-Pub. L. 94–462, title II, § 211, as added by Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, provided that: “This subtitle [subtitle B (§§ 211–263) of title II of Pub. L. 94–462, enacting subchapter II of this chapter] may be cited as the ‘Library Services and Technology Act’.”
+Pub. L. 94–462, title II, § 211, as added by Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, provided that: “This subtitle [subtitle B (§§ 211–263) of title II of Pub. L. 94–462, enacting subchapter II of this chapter] may be cited as the ‘Library Services and Technology Act’.”
 
-Pub. L. 94–462, title II, § 271, as added by Pub. L. 108–81, title III, § 306(2), Sept. 25, 2003, 117 Stat. 1002, provided that: “This subtitle [subtitle C (§§ 271–276) of title II of Pub. L. 94–462, enacting subchapter III of this chapter] may be cited as the ‘Museum Services Act’.”
+Pub. L. 94–462, title II, § 271, as added by Pub. L. 108–81, title III, § 306(2), Sept. 25, 2003, 117 Stat. 1002, provided that: “This subtitle [subtitle C (§§ 271–276) of title II of Pub. L. 94–462, enacting subchapter III of this chapter] may be cited as the ‘Museum Services Act’.”
 
-### § 9102. Institute of Museum and Library Services
+### § 9102. Institute of Museum and Library Services
 
 **(a) Establishment**
 
@@ -139,7 +139,7 @@ The Institute shall consist of an Office of Museum Services and an Office of Lib
 
 There shall be a National Museum and Library Services Board within the Institute, as provided under section 9105a of this title.
 
-(Pub. L. 94–462, title II, § 203, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, § 102, Sept. 25, 2003, 117 Stat. 992.)
+(Pub. L. 94–462, title II, § 203, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, § 102, Sept. 25, 2003, 117 Stat. 992.)
 
 **Editorial Notes**
 
@@ -149,41 +149,41 @@ A prior section 203 of Pub. L. 94–462 was classified to section 962 of this ti
 
 **Amendments**
 
-2003—Subsec. (b). Pub. L. 108–81, § 102(1), struck out at end “There shall be a National Museum Services Board in the Office of Museum Services.”
+2003—Subsec. (b). Pub. L. 108–81, § 102(1), struck out at end “There shall be a National Museum Services Board in the Office of Museum Services.”
 
-Subsec. (c). Pub. L. 108–81, § 102(2), added subsec. (c).
+Subsec. (c). Pub. L. 108–81, § 102(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Pub. L. 111–340, title IV, § 401(b), (c), Dec. 22, 2010, 124 Stat. 3604, provided that:
+Pub. L. 111–340, title IV, § 401(b), (c), Dec. 22, 2010, 124 Stat. 3604, provided that:
 
 > **“(b) Transfer of Functions.—** The functions that the National Commission on Libraries and Information Science exercised before the date of enactment of this Act [Dec. 22, 2010] shall be transferred to the Institute of Museum and Library Services established under section 203 of the Museum and Library Services Act (20 U.S.C. 9102).
 
 > **“(c) Transfer and Allocation of Appropriations and Personnel.—** The personnel and the assets, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available for the functions and activities vested by law in the National Commission on Libraries and Information Science shall be transferred to the Institute of Museum and Library Services upon the date of enactment of this Act [Dec. 22, 2010].”
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 704], Sept. 30, 1996, 110 Stat. 3009–233, 3009–307, provided for transfer of functions from the Institute of Museum Services and the Library Program Office to Director of Institute of Museum and Library Services, prior to repeal by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
+Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 704], Sept. 30, 1996, 110 Stat. 3009–233, 3009–307, provided for transfer of functions from the Institute of Museum Services and the Library Program Office to Director of Institute of Museum and Library Services, prior to repeal by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
 
 **References to National Commission on Libraries and Information Science Construed To Be References to Institute of Museum and Library Services**
 
-Pub. L. 111–340, title IV, § 401(d), Dec. 22, 2010, 124 Stat. 3605, provided that: “Any reference to the National Commission on Libraries and Information Science in any Federal law, Executive Order, rule, delegation of authority, or document shall be construed to refer to the Institute of Museum and Library Services when the reference regards functions transferred under subsection (b) [set out as a note above].”
+Pub. L. 111–340, title IV, § 401(d), Dec. 22, 2010, 124 Stat. 3605, provided that: “Any reference to the National Commission on Libraries and Information Science in any Federal law, Executive Order, rule, delegation of authority, or document shall be construed to refer to the Institute of Museum and Library Services when the reference regards functions transferred under subsection (b) [set out as a note above].”
 
 **Transition and Transfer of Funds**
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, required Director of the Office of Management and Budget to take appropriate measures to ensure orderly transition from activities previously administered by Director of Library Programs in the Office of Educational Research and Improvement in the Department of Education to the activities administered by the Institute for Museum and Library Services, prior to repeal by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
+Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, required Director of the Office of Management and Budget to take appropriate measures to ensure orderly transition from activities previously administered by Director of Library Programs in the Office of Educational Research and Improvement in the Department of Education to the activities administered by the Institute for Museum and Library Services, prior to repeal by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
 
 **Executive Documents**
 
 **Executive Order No. 14084**
 
-Ex. Ord. No. 14084, Sept. 30, 2022, 87 F.R. 60535, as amended by Ex. Ord. No. 14109, § 5, Sept. 29, 2023, 88 F.R. 68449, which established the President’s Committee on the Arts and the Humanities, was revoked by Ex. Ord. No. 14148, § 2(yy), Jan. 20, 2025, 90 F.R. 8239.
+Ex. Ord. No. 14084, Sept. 30, 2022, 87 F.R. 60535, as amended by Ex. Ord. No. 14109, § 5, Sept. 29, 2023, 88 F.R. 68449, which established the President’s Committee on the Arts and the Humanities, was revoked by Ex. Ord. No. 14148, § 2(yy), Jan. 20, 2025, 90 F.R. 8239.
 
 **Extension of Term of President’s Committee on the Arts and the Humanities**
 
 Term of President’s Committee on the Arts and the Humanities extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-### § 9103. Director of Institute
+### § 9103. Director of Institute
 
 **(a) Appointment**
 
@@ -233,13 +233,13 @@ The Director shall not delegate any of the functions of the Director to any pers
 
 **(1)** programs and activities under the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6301 et seq.] (including programs and activities under subparts 2 and 3 of part B of title II [20 U.S.C. 6641 et seq., 6661 et seq.], and parts A and B of title IV [20 U.S.C. 7101 et seq., 7171 et seq.], of such Act);
 
-**(2)** programs and activities under the Head Start Act (42 U.S.C. 9831 et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) (42 U.S.C. 9836(d)(2)); 1
+**(2)** programs and activities under the Head Start Act (42 U.S.C. 9831 et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) (42 U.S.C. 9836(d)(2)); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-**(3)** activities under the Workforce Innovation and Opportunity Act [29 U.S.C. 3101 et seq.] (including activities under section 121(e) of such Act [29 U.S.C. 3151(e)])); 2
+**(3)** activities under the Workforce Innovation and Opportunity Act [29 U.S.C. 3101 et seq.] (including activities under section 121(e) of such Act [29 U.S.C. 3151(e)])); 2
 
-<sup>2</sup>  So in original. The second closing parenthesis probably should not appear.
+<sup>2</sup> So in original. The second closing parenthesis probably should not appear.
 
 and
 
@@ -281,7 +281,7 @@ No financial assistance may be provided under this chapter with respect to any p
 
 The disapproval of an application by the Director shall not be construed to mean, and shall not be considered as evidence that, the project for which the applicant requested financial assistance is or is not obscene.
 
-(Pub. L. 94–462, title II, § 204, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, § 103, Sept. 25, 2003, 117 Stat. 992; Pub. L. 111–340, title I, § 102, Dec. 22, 2010, 124 Stat. 3595; Pub. L. 113–128, title V, § 512(t)(1), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, § 9215(aaa)(1), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, § 3, Dec. 31, 2018, 132 Stat. 5412.)
+(Pub. L. 94–462, title II, § 204, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, § 103, Sept. 25, 2003, 117 Stat. 992; Pub. L. 111–340, title I, § 102, Dec. 22, 2010, 124 Stat. 3595; Pub. L. 113–128, title V, § 512(t)(1), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, § 9215(aaa)(1), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, § 3, Dec. 31, 2018, 132 Stat. 5412.)
 
 **Editorial Notes**
 
@@ -289,11 +289,11 @@ The disapproval of an application by the Director shall not be construed to mean
 
 This chapter, referred to in subsec. (e)(2) and the second place it appears in subsec. (i)(2), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§ 6641 et seq.) and 3 (§ 6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§ 7101 et seq.) and B (§ 7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§ 6641 et seq.) and 3 (§ 6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§ 7101 et seq.) and B (§ 7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. Cl. (vii) of section 641(d)(2)(H) of that Act was redesignated cl. (vi) by Pub. L. 114–95, title IX, § 9215(nn)(2)(A)(ii), Dec. 10, 2015, 129 Stat. 2176, and is now classified to section 9836(d)(2)(H)(vi) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. Cl. (vii) of section 641(d)(2)(H) of that Act was redesignated cl. (vi) by Pub. L. 114–95, title IX, § 9215(nn)(2)(A)(ii), Dec. 10, 2015, 129 Stat. 2176, and is now classified to section 9836(d)(2)(H)(vi) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Prior Provisions**
 
@@ -301,31 +301,31 @@ A prior section 204 of Pub. L. 94–462 was classified to section 963 of this ti
 
 **Amendments**
 
-2018—Subsec. (a)(2). Pub. L. 115–410, § 3(1), inserted “, except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director’s term, the Director may serve for not more than 1 additional year or until a successor is appointed and confirmed, whichever is earlier” before period at end.
+2018—Subsec. (a)(2). Pub. L. 115–410, § 3(1), inserted “, except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director’s term, the Director may serve for not more than 1 additional year or until a successor is appointed and confirmed, whichever is earlier” before period at end.
 
-Subsec. (f)(1). Pub. L. 115–410, § 3(2)(A), added par. (1) and struck out former par. (1) which read as follows: “activities under section 6646 of this title;”.
+Subsec. (f)(1). Pub. L. 115–410, § 3(2)(A), added par. (1) and struck out former par. (1) which read as follows: “activities under section 6646 of this title;”.
 
-Subsec. (f)(4). Pub. L. 115–410, § 3(2)(B), added par. (4) and struck out former par. (4) which read as follows: “Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.”
+Subsec. (f)(4). Pub. L. 115–410, § 3(2)(B), added par. (4) and struck out former par. (4) which read as follows: “Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.”
 
-Subsec. (g). Pub. L. 115–410, § 3(3)(A), in introductory provisions, substituted “Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office,” for “Humanities, and the Director of the Office of Management and Budget,”.
+Subsec. (g). Pub. L. 115–410, § 3(3)(A), in introductory provisions, substituted “Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office,” for “Humanities, and the Director of the Office of Management and Budget,”.
 
-Subsec. (g)(1). Pub. L. 115–410, § 3(3)(B), added par. (1) and struck out former par. (1) which read as follows: “initiatives, materials, or technology to support workforce development activities undertaken by libraries;”.
+Subsec. (g)(1). Pub. L. 115–410, § 3(3)(B), added par. (1) and struck out former par. (1) which read as follows: “initiatives, materials, or technology to support workforce development activities undertaken by libraries;”.
 
-Subsec. (g)(3). Pub. L. 115–410, § 3(3)(C), substituted “technology, or research” for “or technology”.
+Subsec. (g)(3). Pub. L. 115–410, § 3(3)(C), substituted “technology, or research” for “or technology”.
 
 2015—Subsec. (f)(1). Pub. L. 114–95 added par. (1) and struck out former par. (1) which read as follows: “activities under section 6383 of this title;”.
 
 2014—Subsec. (f)(3). Pub. L. 113–128 substituted “activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))” for “activities under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.) (including activities under section 134(c) of such Act) (29 U.S.C. 2864(c))”.
 
-2010—Subsec. (c). Pub. L. 111–340, § 102(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Director shall perform such duties and exercise such powers as may be prescribed by law, including awarding financial assistance for activities described in this chapter.”
+2010—Subsec. (c). Pub. L. 111–340, § 102(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Director shall perform such duties and exercise such powers as may be prescribed by law, including awarding financial assistance for activities described in this chapter.”
 
-Subsecs. (e) to (g). Pub. L. 111–340, § 102(3), added subsecs. (e) to (g) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title.” Former subsecs. (f) and (g) redesignated (h) and (i), respectively.
+Subsecs. (e) to (g). Pub. L. 111–340, § 102(3), added subsecs. (e) to (g) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title.” Former subsecs. (f) and (g) redesignated (h) and (i), respectively.
 
-Subsecs. (h), (i). Pub. L. 111–340, § 102(2), redesignated subsecs. (f) and (g) as (h) and (i), respectively.
+Subsecs. (h), (i). Pub. L. 111–340, § 102(2), redesignated subsecs. (f) and (g) as (h) and (i), respectively.
 
-2003—Subsec. (e). Pub. L. 108–81, § 103(1), inserted at end “Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title.”
+2003—Subsec. (e). Pub. L. 108–81, § 103(1), inserted at end “Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title.”
 
-Subsecs. (f), (g). Pub. L. 108–81, § 103(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 108–81, § 103(2), added subsecs. (f) and (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -339,13 +339,13 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Service of Individuals Serving on September 30, 1996**
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 705], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which provided that the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
+Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 705], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which provided that the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
 
-### § 9104. Deputy Directors
+### § 9104. Deputy Directors
 
 The Office of Library Services shall be headed by a Deputy Director, who shall be appointed by the Director from among individuals who have a graduate degree in library science and expertise in library and information services. The Office of Museum Services shall be headed by a Deputy Director, who shall be appointed by the Director from among individuals who have expertise in museum services.
 
-(Pub. L. 94–462, title II, § 205, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295.)
+(Pub. L. 94–462, title II, § 205, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295.)
 
 **Editorial Notes**
 
@@ -353,7 +353,7 @@ The Office of Library Services shall be headed by a Deputy Director, who shall b
 
 A prior section 205 of Pub. L. 94–462 was classified to section 964 of this title prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
-### § 9105. Personnel
+### § 9105. Personnel
 
 **(a) In general**
 
@@ -389,7 +389,7 @@ The Director may accept and utilize the voluntary services of individuals and re
 
 The Director may use experts and consultants, including panels of experts, who may be employed as authorized under section 3109 of title 5.
 
-(Pub. L. 94–462, title II, § 206, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 105–128, § 2, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 111–340, title I, § 103, Dec. 22, 2010, 124 Stat. 3596.)
+(Pub. L. 94–462, title II, § 206, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 105–128, § 2, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 111–340, title I, § 103, Dec. 22, 2010, 124 Stat. 3596.)
 
 **Editorial Notes**
 
@@ -399,9 +399,9 @@ A prior section 206 of Pub. L. 94–462 was classified to section 965 of this ti
 
 **Amendments**
 
-2010—Subsec. (b)(2). Pub. L. 111–340, § 103(1), added par.(2) and struck out heading and text of former par. (2). Prior to amendment, text read as follows: “The number of employees appointed and compensated under paragraph (1) shall not exceed ⅕ of the number of full-time regular or professional employees of the Institute. The rate of basic compensation for the employees appointed and compensated under paragraph (1) may not exceed the rate prescribed for level GS–15 of the General Schedule under section 5332 of title 5.”
+2010—Subsec. (b)(2). Pub. L. 111–340, § 103(1), added par.(2) and struck out heading and text of former par. (2). Prior to amendment, text read as follows: “The number of employees appointed and compensated under paragraph (1) shall not exceed ⅕ of the number of full-time regular or professional employees of the Institute. The rate of basic compensation for the employees appointed and compensated under paragraph (1) may not exceed the rate prescribed for level GS–15 of the General Schedule under section 5332 of title 5.”
 
-Subsec. (d). Pub. L. 111–340, § 103(2), added subsec. (d).
+Subsec. (d). Pub. L. 111–340, § 103(2), added subsec. (d).
 
 1997—Subsecs. (b), (c). Pub. L. 105–128 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -409,9 +409,9 @@ Subsec. (d). Pub. L. 111–340, § 103(2), added subsec. (d).
 
 **Consideration Given to Individuals With Experience**
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 706], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, required Director of the Institute of Museum and Library Services to give strong consideration to individuals with experience in administering State-based and national library and information services programs when appointing employees of the Office of Library Services, prior to repeal by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
+Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 706], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, required Director of the Institute of Museum and Library Services to give strong consideration to individuals with experience in administering State-based and national library and information services programs when appointing employees of the Office of Library Services, prior to repeal by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
 
-### § 9105a. National Museum and Library Services Board
+### § 9105a. National Museum and Library Services Board
 
 **(a) Establishment**
 
@@ -529,7 +529,7 @@ Each member of the Museum and Library Services Board shall receive travel expens
 
 The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title.
 
-(Pub. L. 94–462, title II, § 207, as added Pub. L. 108–81, title I, § 104(2), Sept. 25, 2003, 117 Stat. 993; amended Pub. L. 111–340, title I, § 104, Dec. 22, 2010, 124 Stat. 3597; Pub. L. 112–166, § 2(r), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 115–410, § 4, Dec. 31, 2018, 132 Stat. 5413.)
+(Pub. L. 94–462, title II, § 207, as added Pub. L. 108–81, title I, § 104(2), Sept. 25, 2003, 117 Stat. 993; amended Pub. L. 111–340, title I, § 104, Dec. 22, 2010, 124 Stat. 3597; Pub. L. 112–166, § 2(r), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 115–410, § 4, Dec. 31, 2018, 132 Stat. 5413.)
 
 **Editorial Notes**
 
@@ -541,33 +541,33 @@ Another prior section 207 of Pub. L. 94–462 was classified to section 966 of t
 
 **Amendments**
 
-2018—Subsec. (b)(2)(A)(i)(II). Pub. L. 115–410, § 4(1), inserted “, including rural communities” after “underserved communities”.
+2018—Subsec. (b)(2)(A)(i)(II). Pub. L. 115–410, § 4(1), inserted “, including rural communities” after “underserved communities”.
 
-Subsec. (b)(3). Pub. L. 115–410, § 4(2), in first sentence, inserted “, and the needs of,” after “persons from” and “, including rural areas” after “United States”.
+Subsec. (b)(3). Pub. L. 115–410, § 4(2), in first sentence, inserted “, and the needs of,” after “persons from” and “, including rural areas” after “United States”.
 
-Subsec. (b)(4). Pub. L. 115–410, § 4(3), substituted “the Deputy Director of the Office of Museum Services, and the General Counsel of the Institute” for “and the Deputy Director of the Office of Museum Services”.
+Subsec. (b)(4). Pub. L. 115–410, § 4(3), substituted “the Deputy Director of the Office of Museum Services, and the General Counsel of the Institute” for “and the Deputy Director of the Office of Museum Services”.
 
-Subsecs. (f) to (j). Pub. L. 115–410, § 4(4), (5), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+Subsecs. (f) to (j). Pub. L. 115–410, § 4(4), (5), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
-2012—Subsec. (b)(1)(D), (E). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “President”.
+2012—Subsec. (b)(1)(D), (E). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “President”.
 
-2010—Subsec. (b)(1)(D) to (F). Pub. L. 111–340, § 104(1)(A), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The Chairman of the National Commission on Libraries and Information Science.”
+2010—Subsec. (b)(1)(D) to (F). Pub. L. 111–340, § 104(1)(A), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The Chairman of the National Commission on Libraries and Information Science.”
 
-Subsec. (b)(2)(A). Pub. L. 111–340, § 104(1)(B)(i), substituted “(1)(D)” for “(1)(E)” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 111–340, § 104(1)(B)(i), substituted “(1)(D)” for “(1)(E)” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 111–340, § 104(1)(B)(ii), substituted “(1)(E)” for “(1)(F)” in introductory provisions.
+Subsec. (b)(2)(B). Pub. L. 111–340, § 104(1)(B)(ii), substituted “(1)(E)” for “(1)(F)” in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 111–340, § 104(1)(C), inserted “and” after “Library Services,” and struck out “, and the Chairman of the National Commission on Library and Information Science” before “shall”.
+Subsec. (b)(4). Pub. L. 111–340, § 104(1)(C), inserted “and” after “Library Services,” and struck out “, and the Chairman of the National Commission on Library and Information Science” before “shall”.
 
-Subsec. (c)(1). Pub. L. 111–340, § 104(2)(A), substituted “Each” for “Except as otherwise provided in this subsection, each” and “(D) or (E)” for “(E) or (F)”.
+Subsec. (c)(1). Pub. L. 111–340, § 104(2)(A), substituted “Each” for “Except as otherwise provided in this subsection, each” and “(D) or (E)” for “(E) or (F)”.
 
-Subsec. (c)(2). Pub. L. 111–340, § 104(2)(B), substituted “Authority to adjust terms” for “Initial Board appointments” in heading, struck out subpars. (A) and (B) related to treatment of members serving on effective date and first appointments and subpar. (C) designation and heading, and substituted “The terms of the members” for “The terms of the first members”.
+Subsec. (c)(2). Pub. L. 111–340, § 104(2)(B), substituted “Authority to adjust terms” for “Initial Board appointments” in heading, struck out subpars. (A) and (B) related to treatment of members serving on effective date and first appointments and subpar. (C) designation and heading, and substituted “The terms of the members” for “The terms of the first members”.
 
-Subsec. (d)(1). Pub. L. 111–340, § 104(3)(A), substituted “relating to museum, library, and information services” for “relating to museum and library services, including financial assistance awarded under this chapter”.
+Subsec. (d)(1). Pub. L. 111–340, § 104(3)(A), substituted “relating to museum, library, and information services” for “relating to museum and library services, including financial assistance awarded under this chapter”.
 
-Subsec. (d)(2). Pub. L. 111–340, § 104(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Museum and Library Services Board shall advise the Director in making awards under section 9107 of this title.”
+Subsec. (d)(2). Pub. L. 111–340, § 104(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Museum and Library Services Board shall advise the Director in making awards under section 9107 of this title.”
 
-Subsec. (i). Pub. L. 111–340, § 104(4), substituted “coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title” for “take steps to ensure that the policies and activities of the Institute are coordinated with other activities of the Federal Government”.
+Subsec. (i). Pub. L. 111–340, § 104(4), substituted “coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title” for “take steps to ensure that the policies and activities of the Institute are coordinated with other activities of the Federal Government”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -575,23 +575,23 @@ Subsec. (i). Pub. L. 111–340, § 104(4), substituted “coordinate the devel
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
-### § 9106. Contributions
+### § 9106. Contributions
 
 The Institute is authorized to solicit, accept, receive, and invest in the name of the United States, gifts, bequests, or devises of money and other property or services and to use such property or services in furtherance of the functions of the Institute. Any proceeds from such gifts, bequests, or devises, after acceptance by the Institute, shall be paid by the donor or the representative of the donor to the Director. The Director shall enter the proceeds in a special-interest bearing account to the credit of the Institute for the purposes specified in each case.
 
-(Pub. L. 94–462, title II, § 208, formerly § 207, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; renumbered § 208 and amended Pub. L. 108–81, title I, § 104(1), title V, § 504(e), Sept. 25, 2003, 117 Stat. 993, 1004.)
+(Pub. L. 94–462, title II, § 208, formerly § 207, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; renumbered § 208 and amended Pub. L. 108–81, title I, § 104(1), title V, § 504(e), Sept. 25, 2003, 117 Stat. 993, 1004.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Pub. L. 108–81, § 504(e), which directed substitution of “property or services” for “property of services”, could not be executed because the words “property of services” did not appear in text.
+2003—Pub. L. 108–81, § 504(e), which directed substitution of “property or services” for “property of services”, could not be executed because the words “property of services” did not appear in text.
 
-### § 9107. Awards and medals
+### § 9107. Awards and medals
 
 The Director, with the advice of the Museum and Library Services Board, may annually award national awards and medals for library and museum services to outstanding libraries and museums that have made significant contributions in service to their communities.
 
-(Pub. L. 94–462, title II, § 209, as added Pub. L. 108–81, title I, § 105, Sept. 25, 2003, 117 Stat. 996; amended Pub. L. 111–340, title I, § 105, Dec. 22, 2010, 124 Stat. 3598.)
+(Pub. L. 94–462, title II, § 209, as added Pub. L. 108–81, title I, § 105, Sept. 25, 2003, 117 Stat. 996; amended Pub. L. 111–340, title I, § 105, Dec. 22, 2010, 124 Stat. 3598.)
 
 **Editorial Notes**
 
@@ -599,7 +599,7 @@ The Director, with the advice of the Museum and Library Services Board, may annu
 
 2010—Pub. L. 111–340 amended section catchline and text generally. Prior to amendment, text read as follows: “The Director, with the advice of the Museum and Library Services Board, may annually award National Awards for Library Service and National Awards for Museum Service to outstanding libraries and outstanding museums, respectively, that have made significant contributions in service to their communities.”
 
-### § 9108. Policy research, data collection, analysis and modeling, evaluation, and dissemination
+### § 9108. Policy research, data collection, analysis and modeling, evaluation, and dissemination
 
 **(a) In general**
 
@@ -671,7 +671,7 @@ There are authorized to be appropriated to carry out this section $3,500,000 for
 
 Sums appropriated under paragraph (1) for any fiscal year shall remain available for obligation until expended.
 
-(Pub. L. 94–462, title II, § 210, as added Pub. L. 108–81, title I, § 105, Sept. 25, 2003, 117 Stat. 996; amended Pub. L. 111–340, title I, § 106, Dec. 22, 2010, 124 Stat. 3598; Pub. L. 115–410, § 5, Dec. 31, 2018, 132 Stat. 5413.)
+(Pub. L. 94–462, title II, § 210, as added Pub. L. 108–81, title I, § 105, Sept. 25, 2003, 117 Stat. 996; amended Pub. L. 111–340, title I, § 106, Dec. 22, 2010, 124 Stat. 3598; Pub. L. 115–410, § 5, Dec. 31, 2018, 132 Stat. 5413.)
 
 **Editorial Notes**
 
@@ -681,13 +681,13 @@ This chapter, referred to in subsec. (b)(3), was in the original “this Act” 
 
 **Amendments**
 
-2018—Pub. L. 115–410, § 5(1), substituted “Policy research, data collection, analysis and modeling, evaluation, and dissemination” for “Policy research, analysis, data collection, and dissemination” in section catchline.
+2018—Pub. L. 115–410, § 5(1), substituted “Policy research, data collection, analysis and modeling, evaluation, and dissemination” for “Policy research, analysis, data collection, and dissemination” in section catchline.
 
-Subsecs. (a) to (f). Pub. L. 115–410, § 5(3), added subsecs. (a) to (f) and struck out former subsecs. (a) to (e) which required the Director annually to conduct policy research, analysis, and data collection to improve the Nation’s museum, library, and information services, set out requirements and objectives for the research, required dissemination of the results, and provided contract authority. Former subsec. (f) redesignated (g).
+Subsecs. (a) to (f). Pub. L. 115–410, § 5(3), added subsecs. (a) to (f) and struck out former subsecs. (a) to (e) which required the Director annually to conduct policy research, analysis, and data collection to improve the Nation’s museum, library, and information services, set out requirements and objectives for the research, required dissemination of the results, and provided contract authority. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 115–410, § 5(2), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 115–410, § 5(2), redesignated subsec. (f) as (g).
 
-Subsec. (g)(1). Pub. L. 115–410, § 5(4), substituted “each of the fiscal years 2020 through 2025” for “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016”.
+Subsec. (g)(1). Pub. L. 115–410, § 5(4), substituted “each of the fiscal years 2020 through 2025” for “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016”.
 
 2010—Pub. L. 111–340 amended section catchline and text generally. Prior to amendment, text read as follows: “From amounts described in sections 9123(c) and 9176(b) of this title, the Director shall carry out and publish analyses of the impact of museum and library services. Such analyses—
 
@@ -705,23 +705,23 @@ Subsec. (g)(1). Pub. L. 115–410, § 5(4), substituted “each of the fiscal 
 
 “(4) shall identify, and disseminate information on, the best practices of such programs to the agencies and entities described in paragraph (1).”
 
-### § 9109. Prohibition on use of funds for construction
+### § 9109. Prohibition on use of funds for construction
 
 No funds appropriated to carry out this chapter, subchapter II of this chapter, or subchapter III of this chapter may be used for construction expenses.
 
-(Pub. L. 94–462, title II, § 210A, as added Pub. L. 108–81, title I, § 105, Sept. 25, 2003, 117 Stat. 997.)
+(Pub. L. 94–462, title II, § 210A, as added Pub. L. 108–81, title I, § 105, Sept. 25, 2003, 117 Stat. 997.)
 
-### § 9110. Hearings
+### § 9110. Hearings
 
 The Director is authorized to conduct hearings at such times and places as the Director determines appropriate for carrying out the purposes of this subchapter.
 
-(Pub. L. 94–462, title II, § 210B, as added Pub. L. 111–340, title I, § 107, Dec. 22, 2010, 124 Stat. 3599.)
+(Pub. L. 94–462, title II, § 210B, as added Pub. L. 111–340, title I, § 107, Dec. 22, 2010, 124 Stat. 3599.)
 
-### § 9111. Administrative funds
+### § 9111. Administrative funds
 
 Notwithstanding any other provision of this chapter, the Director shall establish one account to be used to pay the Federal administrative costs of carrying out this chapter, and not more than $17,000,000 of the total funds appropriated under sections 9108(g), 9123, and 9176 of this title shall be placed in such account.
 
-(Pub. L. 94–462, title II, § 210C, as added Pub. L. 111–340, title I, § 108, Dec. 22, 2010, 124 Stat. 3599; amended Pub. L. 115–410, § 6, Dec. 31, 2018, 132 Stat. 5415.)
+(Pub. L. 94–462, title II, § 210C, as added Pub. L. 111–340, title I, § 108, Dec. 22, 2010, 124 Stat. 3599; amended Pub. L. 115–410, § 6, Dec. 31, 2018, 132 Stat. 5415.)
 
 **Editorial Notes**
 
@@ -735,7 +735,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 ## SUBCHAPTER II—LIBRARY SERVICES AND TECHNOLOGY
 
-### § 9121. Purpose
+### § 9121. Purpose
 
 It is the purpose of this subchapter—
 
@@ -763,29 +763,29 @@ It is the purpose of this subchapter—
 
 **(12)** to encourage, support, and disseminate model programs of library and museum collaboration.
 
-(Pub. L. 94–462, title II, § 212, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 108–81, title II, § 201, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, § 201, Dec. 22, 2010, 124 Stat. 3599; Pub. L. 115–410, § 7, Dec. 31, 2018, 132 Stat. 5415.)
+(Pub. L. 94–462, title II, § 212, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 108–81, title II, § 201, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, § 201, Dec. 22, 2010, 124 Stat. 3599; Pub. L. 115–410, § 7, Dec. 31, 2018, 132 Stat. 5415.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Par. (1). Pub. L. 115–410, § 7(1), inserted “, education,” after “library”.
+2018—Par. (1). Pub. L. 115–410, § 7(1), inserted “, education,” after “library”.
 
-Par. (5). Pub. L. 115–410, § 7(2), added par. (5) and struck out former par. (5) which read as follows: “to promote literacy, education, and lifelong learning and to enhance and expand the services and resources provided by libraries, including those services and resources relating to workforce development, 21st century skills, and digital literacy skills;”.
+Par. (5). Pub. L. 115–410, § 7(2), added par. (5) and struck out former par. (5) which read as follows: “to promote literacy, education, and lifelong learning and to enhance and expand the services and resources provided by libraries, including those services and resources relating to workforce development, 21st century skills, and digital literacy skills;”.
 
-Pars. (6), (7). Pub. L. 115–410, § 7(4), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
+Pars. (6), (7). Pub. L. 115–410, § 7(4), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
 
-Par. (8). Pub. L. 115–410, § 7(3), (5), redesignated par. (6) as (8) and inserted “, including those from diverse and underrepresented backgrounds,” after “professionals”.
+Par. (8). Pub. L. 115–410, § 7(3), (5), redesignated par. (6) as (8) and inserted “, including those from diverse and underrepresented backgrounds,” after “professionals”.
 
-Pars. (9) to (11). Pub. L. 115–410, § 7(3), redesignated pars. (7) to (9) as (9) to (11), respectively.
+Pars. (9) to (11). Pub. L. 115–410, § 7(3), redesignated pars. (7) to (9) as (9) to (11), respectively.
 
-Par. (12). Pub. L. 115–410, § 7(6)–(8), added par. (12).
+Par. (12). Pub. L. 115–410, § 7(6)–(8), added par. (12).
 
-2010—Par. (1). Pub. L. 111–340, § 201(1), added par. (1) and struck out former par. (1) which read as follows: “to consolidate Federal library service programs;”.
+2010—Par. (1). Pub. L. 111–340, § 201(1), added par. (1) and struck out former par. (1) which read as follows: “to consolidate Federal library service programs;”.
 
-Par. (2). Pub. L. 111–340, § 201(2), inserted “continuous” after “promote”.
+Par. (2). Pub. L. 111–340, § 201(2), inserted “continuous” after “promote”.
 
-Pars. (5) to (9). Pub. L. 111–340, § 201(3)–(5), added pars. (5) to (9).
+Pars. (5) to (9). Pub. L. 111–340, § 201(3)–(5), added pars. (5) to (9).
 
 2003—Pars. (2) to (5). Pub. L. 108–81 added pars. (2) to (4) and struck out former pars. (2) to (5) which read as follows:
 
@@ -797,7 +797,7 @@ Pars. (5) to (9). Pub. L. 111–340, § 201(3)–(5), added pars. (5) to (9).
 
 “(5) to promote targeted library services to people of diverse geographic, cultural, and socioeconomic backgrounds, to individuals with disabilities, and to people with limited functional literacy or information skills.”
 
-### § 9122. Definitions
+### § 9122. Definitions
 
 As used in this subchapter:
 
@@ -835,7 +835,7 @@ The term “State library administrative agency” means the official agency of 
 
 The term “State plan” means the document which gives assurances that the officially designated State library administrative agency has the fiscal and legal authority and capability to administer all aspects of this subchapter, provides assurances for establishing the State’s policies, priorities, criteria, and procedures necessary to the implementation of all programs under this subchapter, submits copies for approval as required by regulations promulgated by the Director, identifies a State’s library needs, and sets forth the activities to be taken toward meeting the identified needs supported with the assistance of Federal funds made available under this subchapter.
 
-(Pub. L. 94–462, title II, § 213, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 105–128, § 3, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, § 202, Sept. 25, 2003, 117 Stat. 997; Pub. L. 115–410, § 8, Dec. 31, 2018, 132 Stat. 5416.)
+(Pub. L. 94–462, title II, § 213, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 105–128, § 3, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, § 202, Sept. 25, 2003, 117 Stat. 997; Pub. L. 115–410, § 8, Dec. 31, 2018, 132 Stat. 5416.)
 
 **Editorial Notes**
 
@@ -847,7 +847,7 @@ The term “State plan” means the document which gives assurances that the off
 
 1997—Par. (2)(E). Pub. L. 105–128 inserted “or other special library” after “a private library” and “or special” after “such private”.
 
-### § 9123. Authorization of appropriations
+### § 9123. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated—
 
@@ -865,7 +865,7 @@ To the end of affording the responsible Federal, State, and local officers adequ
 
 In order to effect a transition to the timing of appropriation action authorized by subsection (a), the application of this section may result in the enactment, in a fiscal year, of separate appropriations for a program under this subchapter (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
 
-(Pub. L. 94–462, title II, § 214, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 108–81, title II, § 203, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, § 202, Dec. 22, 2010, 124 Stat. 3599; Pub. L. 115–410, § 9, Dec. 31, 2018, 132 Stat. 5416.)
+(Pub. L. 94–462, title II, § 214, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 108–81, title II, § 203, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, § 202, Dec. 22, 2010, 124 Stat. 3599; Pub. L. 115–410, § 9, Dec. 31, 2018, 132 Stat. 5416.)
 
 **Editorial Notes**
 
@@ -873,11 +873,11 @@ In order to effect a transition to the timing of appropriation action authorized
 
 2018—Subsec. (a). Pub. L. 115–410 substituted “each of the fiscal years 2020 through 2025” for “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” in pars. (1) and (2).
 
-2010—Subsec. (a). Pub. L. 111–340, § 202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
+2010—Subsec. (a). Pub. L. 111–340, § 202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
 
-Subsec. (c). Pub. L. 111–340, § 202(b), struck out heading and text of subsec. (c). Text read as follows: “Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter.”
+Subsec. (c). Pub. L. 111–340, § 202(b), struck out heading and text of subsec. (c). Text read as follows: “Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter.”
 
-2003—Subsec. (a). Pub. L. 108–81, § 203(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+2003—Subsec. (a). Pub. L. 108–81, § 203(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
 “(1) In general.—There are authorized to be appropriated $150,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2002 to carry out this subchapter.
 
@@ -887,7 +887,7 @@ Subsec. (c). Pub. L. 111–340, § 202(b), struck out heading and text of subs
 
 “(B) not exercise any authority concerning the administration of this chapter other than the transfer described in subparagraph (A).”
 
-Subsec. (c). Pub. L. 108–81, § 203(2), substituted “3.5 percent” for “3 percent”.
+Subsec. (c). Pub. L. 108–81, § 203(2), substituted “3.5 percent” for “3 percent”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -897,7 +897,7 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
 ### Part 1—Basic Program Requirements
 
-#### § 9131. Reservations and allotments
+#### § 9131. Reservations and allotments
 
 **(a) Reservations**
 
@@ -947,19 +947,19 @@ If the sum appropriated under the authority of section 9123 of this title and no
 
 The population of each State and of all the States shall be determined by the Director on the basis of the most recent data available from the Bureau of the Census.
 
-(Pub. L. 94–462, title II, § 221, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, § 4, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, § 204, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, § 203, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, § 10, Dec. 31, 2018, 132 Stat. 5416.)
+(Pub. L. 94–462, title II, § 221, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, § 4, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, § 204, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, § 203, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, § 10, Dec. 31, 2018, 132 Stat. 5416.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(1)(A). Pub. L. 115–410, § 10(1), substituted “2.25 percent” for “1.75 percent”.
+2018—Subsec. (a)(1)(A). Pub. L. 115–410, § 10(1), substituted “2.25 percent” for “1.75 percent”.
 
-Subsec. (b)(3)(C). Pub. L. 115–410, § 10(2), added subpar. (C) and struck out former subpar. (C) which related to special rule for grants to various United States territories.
+Subsec. (b)(3)(C). Pub. L. 115–410, § 10(2), added subpar. (C) and struck out former subpar. (C) which related to special rule for grants to various United States territories.
 
-2010—Subsec. (b)(3)(A). Pub. L. 111–340, § 203(1), substituted “$680,000” for “$340,000” and “$60,000” for “$40,000”.
+2010—Subsec. (b)(3)(A). Pub. L. 111–340, § 203(1), substituted “$680,000” for “$340,000” and “$60,000” for “$40,000”.
 
-Subsec. (b)(3)(C), (D). Pub. L. 111–340, § 203(2), (3), redesignated subpar. (D) as (C) and struck out former subpar. (C), which related to the minimum allotments for States when the appropriated sums exceed the aggregate of allotments for all States for fiscal year 2003.
+Subsec. (b)(3)(C), (D). Pub. L. 111–340, § 203(2), (3), redesignated subpar. (D) as (C) and struck out former subpar. (C), which related to the minimum allotments for States when the appropriated sums exceed the aggregate of allotments for all States for fiscal year 2003.
 
 2003—Subsec. (b)(3). Pub. L. 108–81 amended heading and text of par. (3) generally. Prior to amendment, text read as follows:
 
@@ -977,9 +977,9 @@ Subsec. (b)(3)(C), (D). Pub. L. 111–340, § 203(2), (3), redesignated subpar
 
 “(iv) Administrative costs.—The Director may provide not more than 5 percent of the funds made available for grants under this subparagraph to pay the administrative costs of the Pacific Region Educational Laboratory regarding activities assisted under this subparagraph.”
 
-1997—Subsec. (a)(1)(A). Pub. L. 105–128, § 4(1), substituted “1.75 percent” for “1½ percent”.
+1997—Subsec. (a)(1)(A). Pub. L. 105–128, § 4(1), substituted “1.75 percent” for “1½ percent”.
 
-Subsec. (a)(1)(B). Pub. L. 105–128, § 4(2), substituted “3.75 percent” for “4 percent”.
+Subsec. (a)(1)(B). Pub. L. 105–128, § 4(2), substituted “3.75 percent” for “4 percent”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -987,7 +987,7 @@ Subsec. (a)(1)(B). Pub. L. 105–128, § 4(2), substituted “3.75 percent” 
 
 Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L. 108–81, set out as a note under section 9101 of this title.
 
-#### § 9132. Administration
+#### § 9132. Administration
 
 **(a) In general**
 
@@ -997,9 +997,9 @@ Not more than 4 percent of the total amount of funds received under this subchap
 
 Nothing in this section shall be construed to limit spending for evaluation costs under section 9134(c) of this title from sources other than this subchapter.
 
-(Pub. L. 94–462, title II, § 222, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–298.)
+(Pub. L. 94–462, title II, § 222, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–298.)
 
-#### § 9133. Payments; Federal share; and maintenance of effort requirements
+#### § 9133. Payments; Federal share; and maintenance of effort requirements
 
 **(a) Payments**
 
@@ -1043,7 +1043,7 @@ The level of State expenditures for the purposes of paragraph (1) shall include 
 
 The Director may waive the requirements of paragraph (1) if the Director determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
 
-(Pub. L. 94–462, title II, § 223, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–299; amended Pub. L. 105–128, § 5, Dec. 1, 1997, 111 Stat. 2549.)
+(Pub. L. 94–462, title II, § 223, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–299; amended Pub. L. 105–128, § 5, Dec. 1, 1997, 111 Stat. 2549.)
 
 **Editorial Notes**
 
@@ -1051,7 +1051,7 @@ The Director may waive the requirements of paragraph (1) if the Director determi
 
 1997—Subsec. (c)(1)(A)(i). Pub. L. 105–128 amended second sentence generally. Prior to amendment, second sentence read as follows: “The amount of the reduction in allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.”
 
-#### § 9134. State plans
+#### § 9134. State plans
 
 **(a) State plan required**
 
@@ -1191,9 +1191,9 @@ Any library subject to a certification under clause (ii)(II) that cannot make th
 
 **(5) Noncompliance**
 
-**(A) Use of General Education Provisions Act remedies** Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this 1
+**(A) Use of General Education Provisions Act remedies** Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “under”.
+<sup>1</sup> So in original. Probably should be preceded by “under”.
 
 subchapter is failing to comply substantially with the requirements of this subsection, the Director may—
 
@@ -1241,53 +1241,53 @@ The term “obscene” has the meaning applicable to such term in section 1460 o
 
 The terms “sexual act” and “sexual contact” have the meanings given such terms in section 2246 of title 18.
 
-(Pub. L. 94–462, title II, § 224, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, § 205, title V, § 504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, § 204, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 113–128, title V, § 512(t)(2), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, § 9215(aaa)(2), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, § 11, Dec. 31, 2018, 132 Stat. 5417.)
+(Pub. L. 94–462, title II, § 224, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, § 205, title V, § 504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, § 204, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 113–128, title V, § 512(t)(2), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, § 9215(aaa)(2), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, § 11, Dec. 31, 2018, 132 Stat. 5417.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(6)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§ 6641 et seq.) and 3 (§ 6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§ 7101 et seq.) and B (§ 7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(6)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§ 6641 et seq.) and 3 (§ 6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§ 7101 et seq.) and B (§ 7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(6)(C)(iii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title II of the Act, known as the Adult Education and Family Literacy Act, is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of these Acts to the Code, see sections 1(a) and 201 of Pub. L. 113–128, set out as Short Title notes under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(6)(C)(iii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title II of the Act, known as the Adult Education and Family Literacy Act, is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of these Acts to the Code, see sections 1(a) and 201 of Pub. L. 113–128, set out as Short Title notes under section 3101 of Title 29 and Tables.
 
-For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see § 1(a)(4) [div. B, title XVII, § 1712(b)] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
+For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see § 1(a)(4) [div. B, title XVII, § 1712(b)] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
-The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 **Amendments**
 
-2018—Subsec. (b)(6)(A). Pub. L. 115–410, § 11(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6646 of this title;”.
+2018—Subsec. (b)(6)(A). Pub. L. 115–410, § 11(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6646 of this title;”.
 
-Subsec. (b)(6)(C)(iii). Pub. L. 115–410, § 11(2), added cl. (iii).
+Subsec. (b)(6)(C)(iii). Pub. L. 115–410, § 11(2), added cl. (iii).
 
-Subsec. (b)(6)(D). Pub. L. 115–410, § 11(3), inserted “, business,” after “economic” and substituted “, health information, critical thinking skills, digital literacy skills, financial literacy and other types of literacy skills” for “and health information”.
+Subsec. (b)(6)(D). Pub. L. 115–410, § 11(3), inserted “, business,” after “economic” and substituted “, health information, critical thinking skills, digital literacy skills, financial literacy and other types of literacy skills” for “and health information”.
 
 2015—Subsec. (b)(6)(A). Pub. L. 114–95 substituted “including coordination with the activities within the State that are supported by a grant under section 6646 of this title” for “including coordination with the activities within the State that are supported by a grant under section 6383 of this title”.
 
-2014—Subsec. (b)(6)(C)(i). Pub. L. 113–128, § 512(t)(2)(A), substituted “the activities carried out by the State workforce development board under section 3111 of title 29” for “the activities carried out by the State workforce investment board under section 2821(d) of title 29”.
+2014—Subsec. (b)(6)(C)(i). Pub. L. 113–128, § 512(t)(2)(A), substituted “the activities carried out by the State workforce development board under section 3111 of title 29” for “the activities carried out by the State workforce investment board under section 2821(d) of title 29”.
 
-Subsec. (b)(6)(C)(ii). Pub. L. 113–128, § 512(t)(2)(B), substituted “the State’s one-stop delivery system established under section 3151(e) of title 29” for “the State’s one-stop delivery system established under section 2864(c) of title 29”.
+Subsec. (b)(6)(C)(ii). Pub. L. 113–128, § 512(t)(2)(B), substituted “the State’s one-stop delivery system established under section 3151(e) of title 29” for “the State’s one-stop delivery system established under section 2864(c) of title 29”.
 
-2010—Subsec. (b)(6) to (8). Pub. L. 111–340, § 204(1), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+2010—Subsec. (b)(6) to (8). Pub. L. 111–340, § 204(1), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (e)(2). Pub. L. 111–340, § 204(2), inserted “, including through electronic means” before period at end.
+Subsec. (e)(2). Pub. L. 111–340, § 204(2), inserted “, including through electronic means” before period at end.
 
-2003—Subsec. (a)(1). Pub. L. 108–81, § 205(1), substituted “once every 5 years, as determined by the Director.” for “not later than April 1, 1997.”
+2003—Subsec. (a)(1). Pub. L. 108–81, § 205(1), substituted “once every 5 years, as determined by the Director.” for “not later than April 1, 1997.”
 
-Subsec. (b)(5). Pub. L. 108–81, § 504(f), struck out “and” at end.
+Subsec. (b)(5). Pub. L. 108–81, § 504(f), struck out “and” at end.
 
-Subsec. (f). Pub. L. 108–81, § 205(2)(A), substituted “this subchapter” for “this chapter” wherever appearing.
+Subsec. (f). Pub. L. 108–81, § 205(2)(A), substituted “this subchapter” for “this chapter” wherever appearing.
 
-Subsec. (f)(1). Pub. L. 108–81, § 205(2)(B), substituted “section 9122(1)(A) or (B)” for “9122(2)(A) or (B)” and made technical amendment to reference in original act which appears in text as reference to section 254(h)(6) of title 47.
+Subsec. (f)(1). Pub. L. 108–81, § 205(2)(B), substituted “section 9122(1)(A) or (B)” for “9122(2)(A) or (B)” and made technical amendment to reference in original act which appears in text as reference to section 254(h)(6) of title 47.
 
-Subsec. (f)(7). Pub. L. 108–81, § 205(2)(C)(i), substituted “subsection:” for “section:” in introductory provisions.
+Subsec. (f)(7). Pub. L. 108–81, § 205(2)(C)(i), substituted “subsection:” for “section:” in introductory provisions.
 
-Subsec. (f)(7)(D). Pub. L. 108–81, § 205(2)(C)(ii), substituted “applicable to” for “given”.
+Subsec. (f)(7)(D). Pub. L. 108–81, § 205(2)(C)(ii), substituted “applicable to” for “given”.
 
-2000—Subsec. (b)(6), (7). Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)(1)], added par. (6) and redesignated former par. (6) as (7).
+2000—Subsec. (b)(6), (7). Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)(1)], added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (f). Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)(2)], added subsec. (f).
+Subsec. (f). Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)(2)], added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1301,11 +1301,11 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: “The amendment made by this section [amending this section] shall take effect 120 days after the date of the enactment of this Act [Dec. 21, 2000].”
+Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: “The amendment made by this section [amending this section] shall take effect 120 days after the date of the enactment of this Act [Dec. 21, 2000].”
 
 **Availability of Certain Funds for Acquisition of Technology Protection Measures**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, as amended by Pub. L. 114–95, title IX, § 9215(q), Dec. 10, 2015, 129 Stat. 2171, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, as amended by Pub. L. 114–95, title IX, § 9215(q), Dec. 10, 2015, 129 Stat. 2171, provided that:
 
 > **“(1) In general.—** Notwithstanding any other provision of law, funds available under part B of title I of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6361 et seq.], or under section 231 of the Library Services and Technology Act [20 U.S.C. 9141], may be used for the purchase or acquisition of technology protection measures that are necessary to meet the requirements of this title [see Short Title of 2000 Amendments note set out under section 6301 of this title] and the amendments made by this title. No other sources of funds for the purchase or acquisition of such measures are authorized by this title, or the amendments made by this title.
 
@@ -1313,7 +1313,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 200
 
 ### Part 2—Library Programs
 
-#### § 9141. Grants to States
+#### § 9141. Grants to States
 
 **(a) In general** Of the funds provided to a State library administrative agency under section 9123 of this title, such agency shall expend, either directly or through subgrants or cooperative agreements, at least 96 percent of such funds for—
 
@@ -1341,23 +1341,23 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 200
 
 Each State library administrative agency receiving funds under this part may apportion the funds available for the priorities described in subsection (a) as appropriate to meet the needs of the individual State.
 
-(Pub. L. 94–462, title II, § 231, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 108–81, title II, § 206, Sept. 25, 2003, 117 Stat. 999; Pub. L. 111–340, title II, § 205, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, § 12, Dec. 31, 2018, 132 Stat. 5417.)
+(Pub. L. 94–462, title II, § 231, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 108–81, title II, § 206, Sept. 25, 2003, 117 Stat. 999; Pub. L. 111–340, title II, § 205, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, § 12, Dec. 31, 2018, 132 Stat. 5417.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–410, § 12(1), inserted “(including new and emerging technology)” after “formats” and substituted “workforce development, economic and business development, health information, critical thinking skills, digital literacy skills, and financial literacy and other types of literacy skills” for “workforce development, and digital literacy skills”.
+2018—Subsec. (a)(1). Pub. L. 115–410, § 12(1), inserted “(including new and emerging technology)” after “formats” and substituted “workforce development, economic and business development, health information, critical thinking skills, digital literacy skills, and financial literacy and other types of literacy skills” for “workforce development, and digital literacy skills”.
 
-Subsec. (a)(3)(B). Pub. L. 115–410, § 12(2), inserted “, including those from diverse and underrepresented backgrounds,” after “professionals”.
+Subsec. (a)(3)(B). Pub. L. 115–410, § 12(2), inserted “, including those from diverse and underrepresented backgrounds,” after “professionals”.
 
-Subsec. (a)(4). Pub. L. 115–410, § 12(3), inserted “, tribes,” after “agencies”.
+Subsec. (a)(4). Pub. L. 115–410, § 12(3), inserted “, tribes,” after “agencies”.
 
-2010—Subsec. (a). Pub. L. 111–340, § 205(1), inserted “in order to support such individuals’ needs for education, lifelong learning, workforce development, and digital literacy skills” before semicolon at end in par. (1), added pars. (2) and (3), redesignated former par. (2) as (7) and substituted “collaborations and networks; and” for “electronic networks;”, struck out former par. (3) which read “providing electronic and other linkages among and between all types of libraries;”, and added par. (8).
+2010—Subsec. (a). Pub. L. 111–340, § 205(1), inserted “in order to support such individuals’ needs for education, lifelong learning, workforce development, and digital literacy skills” before semicolon at end in par. (1), added pars. (2) and (3), redesignated former par. (2) as (7) and substituted “collaborations and networks; and” for “electronic networks;”, struck out former par. (3) which read “providing electronic and other linkages among and between all types of libraries;”, and added par. (8).
 
-Subsec. (b). Pub. L. 111–340, § 205(2), added subsec. (b) and struck out heading and text of former subsec. (b). Prior to amendment, text read as follows: “Each State library administrative agency receiving funds under this part may apportion the funds available for the purposes described in subsection (a) of this section among such purposes, as appropriate, to meet the needs of the individual State.”
+Subsec. (b). Pub. L. 111–340, § 205(2), added subsec. (b) and struck out heading and text of former subsec. (b). Prior to amendment, text read as follows: “Each State library administrative agency receiving funds under this part may apportion the funds available for the purposes described in subsection (a) of this section among such purposes, as appropriate, to meet the needs of the individual State.”
 
-2003—Subsec. (a)(1) to (6). Pub. L. 108–81, § 206(1), added pars. (1) to (6) and struck out former pars. (1) and (2) which read as follows:
+2003—Subsec. (a)(1) to (6). Pub. L. 108–81, § 206(1), added pars. (1) to (6) and struck out former pars. (1) and (2) which read as follows:
 
 “(1)(A) establishing or enhancing electronic linkages among or between libraries;
 
@@ -1371,17 +1371,17 @@ Subsec. (b). Pub. L. 111–340, § 205(2), added subsec. (b) and struck out he
 
 “(2) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.”
 
-Subsec. (b). Pub. L. 108–81, § 206(2), substituted “among such purposes,” for “between the two purposes described in paragraphs (1) and (2) of such subsection,”.
+Subsec. (b). Pub. L. 108–81, § 206(2), substituted “among such purposes,” for “between the two purposes described in paragraphs (1) and (2) of such subsection,”.
 
 ### Part 3—Administrative Provisions
 
 #### subpart a—state requirements
 
-##### § 9151. State advisory councils
+##### § 9151. State advisory councils
 
 Each State desiring assistance under this subchapter may establish a State advisory council which is broadly representative of the library entities in the State, including public, tribal, school, academic, special, and institutional libraries, and libraries serving people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers.
 
-(Pub. L. 94–462, title II, § 251, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 115–410, § 13, Dec. 31, 2018, 132 Stat. 5417.)
+(Pub. L. 94–462, title II, § 251, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 115–410, § 13, Dec. 31, 2018, 132 Stat. 5417.)
 
 **Editorial Notes**
 
@@ -1391,11 +1391,11 @@ Each State desiring assistance under this subchapter may establish a State advis
 
 #### subpart b—federal requirements
 
-##### § 9161. Services for Native Americans
+##### § 9161. Services for Native Americans
 
 From amounts reserved under section 9131(a)(1)(A) of this title for any fiscal year the Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in section 7517 of this title) to enable such tribes and organizations to carry out the activities described in section 9141 of this title.
 
-(Pub. L. 94–462, title II, § 261, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, § 6, Dec. 1, 1997, 111 Stat. 2549; Pub. L. 107–110, title VII, § 702(d), Jan. 8, 2002, 115 Stat. 1947; Pub. L. 114–95, title IX, § 9215(aaa)(3), Dec. 10, 2015, 129 Stat. 2184.)
+(Pub. L. 94–462, title II, § 261, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, § 6, Dec. 1, 1997, 111 Stat. 2549; Pub. L. 107–110, title VII, § 702(d), Jan. 8, 2002, 115 Stat. 1947; Pub. L. 114–95, title IX, § 9215(aaa)(3), Dec. 10, 2015, 129 Stat. 2184.)
 
 **Editorial Notes**
 
@@ -1417,7 +1417,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
-##### § 9162. National leadership grants, contracts, or cooperative agreements
+##### § 9162. National leadership grants, contracts, or cooperative agreements
 
 **(a) In general** From the amounts reserved under section 9131(a)(1)(B) of this title for any fiscal year the Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums, including by carrying out activities such as—
 
@@ -1463,7 +1463,7 @@ Grants, contracts, cooperative agreements, and other arrangements or forms of as
 
 **(4)** to the extent practicable, actively involve, have direct impact on, or provide future application in, libraries.
 
-(Pub. L. 94–462, title II, § 262, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, §§ 7, 8, Dec. 1, 1997, 111 Stat. 2549, 2550; Pub. L. 108–81, title II, § 207, title V, § 504(g), Sept. 25, 2003, 117 Stat. 1000, 1004; Pub. L. 111–340, title II, § 206, Dec. 22, 2010, 124 Stat. 3601; Pub. L. 115–410, § 14, Dec. 31, 2018, 132 Stat. 5418.)
+(Pub. L. 94–462, title II, § 262, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, §§ 7, 8, Dec. 1, 1997, 111 Stat. 2549, 2550; Pub. L. 108–81, title II, § 207, title V, § 504(g), Sept. 25, 2003, 117 Stat. 1000, 1004; Pub. L. 111–340, title II, § 206, Dec. 22, 2010, 124 Stat. 3601; Pub. L. 115–410, § 14, Dec. 31, 2018, 132 Stat. 5418.)
 
 **Editorial Notes**
 
@@ -1473,51 +1473,51 @@ This chapter, referred to in subsec. (a)(4)(B), was in the original “this Act�
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–410, § 14(1)(A), in introductory provisions, struck out “of awarding grants or entering into contracts or cooperative agreements” after “carry out a program” and substituted “museums, including by carrying out activities such as” for “museums. Such grants, contracts, and cooperative agreements shall be used for activities that may include”.
+2018—Subsec. (a)(1). Pub. L. 115–410, § 14(1)(A), in introductory provisions, struck out “of awarding grants or entering into contracts or cooperative agreements” after “carry out a program” and substituted “museums, including by carrying out activities such as” for “museums. Such grants, contracts, and cooperative agreements shall be used for activities that may include”.
 
-Subsec. (a)(2)(A). Pub. L. 115–410, § 14(1)(B), inserted “and emerging” after “new”.
+Subsec. (a)(2)(A). Pub. L. 115–410, § 14(1)(B), inserted “and emerging” after “new”.
 
-Subsec. (a)(3) to (5). Pub. L. 115–410, § 14(1)(C), (D), added pars. (3) and (4) and redesignated former par. (4) as (5).
+Subsec. (a)(3) to (5). Pub. L. 115–410, § 14(1)(C), (D), added pars. (3) and (4) and redesignated former par. (4) as (5).
 
-Subsec. (b)(1). Pub. L. 115–410, § 14(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Director may carry out the activities described in subsection (a) by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.”
+Subsec. (b)(1). Pub. L. 115–410, § 14(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Director may carry out the activities described in subsection (a) by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.”
 
-Subsec. (b)(2). Pub. L. 115–410, § 14(2)(B), substituted “cooperative agreements, and other arrangements or forms of assistance” for “and cooperative agreements”.
+Subsec. (b)(2). Pub. L. 115–410, § 14(2)(B), substituted “cooperative agreements, and other arrangements or forms of assistance” for “and cooperative agreements”.
 
-Subsec. (c). Pub. L. 115–410, § 14(3), inserted dash after “under this section” and par. (1) designation before “are administered”, substituted “experts;” for “experts.”, and added pars. (2) to (4).
+Subsec. (c). Pub. L. 115–410, § 14(3), inserted dash after “under this section” and par. (1) designation before “are administered”, substituted “experts;” for “experts.”, and added pars. (2) to (4).
 
-2010—Subsec. (a)(1), (2). Pub. L. 111–340, § 206(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+2010—Subsec. (a)(1), (2). Pub. L. 111–340, § 206(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) education, recruitment, and training of persons in library and information science, particularly in areas of new technology and other critical needs, including graduate fellowships, traineeships, institutes, or other programs;
 
 “(2) research and demonstration projects related to the improvement of libraries, education in library and information science, enhancement of library services through effective and efficient use of new technologies, and dissemination of information derived from such projects;”.
 
-Subsec. (a)(3). Pub. L. 111–340, § 206(2), substituted “digitizing” for “digitization” and inserted “, including the development of national, regional, statewide, or local emergency plans that would ensure the preservation of knowledge and library collections in the event of a disaster” before “; and”.
+Subsec. (a)(3). Pub. L. 111–340, § 206(2), substituted “digitizing” for “digitization” and inserted “, including the development of national, regional, statewide, or local emergency plans that would ensure the preservation of knowledge and library collections in the event of a disaster” before “; and”.
 
-2003—Subsec. (a)(1). Pub. L. 108–81, § 207, substituted “education, recruitment, and training” for “education and training”.
+2003—Subsec. (a)(1). Pub. L. 108–81, § 207, substituted “education, recruitment, and training” for “education and training”.
 
-Subsec. (b)(1). Pub. L. 108–81, § 504(g), substituted “cooperative agreements with,” for “cooperative agreements, with,”.
+Subsec. (b)(1). Pub. L. 108–81, § 504(g), substituted “cooperative agreements with,” for “cooperative agreements, with,”.
 
-1997—Pub. L. 105–128, § 7(1), substituted section catchline for former catchline which read as follows: “National leadership grants or contracts”.
+1997—Pub. L. 105–128, § 7(1), substituted section catchline for former catchline which read as follows: “National leadership grants or contracts”.
 
-Subsec. (a). Pub. L. 105–128, § 7(2), in introductory provisions, substituted “program of awarding grants or entering into contracts or cooperative agreements” for “program awarding national leadership grants or contracts” and “Such grants, contracts, and cooperative agreements” for “Such grants or contracts”.
+Subsec. (a). Pub. L. 105–128, § 7(2), in introductory provisions, substituted “program of awarding grants or entering into contracts or cooperative agreements” for “program awarding national leadership grants or contracts” and “Such grants, contracts, and cooperative agreements” for “Such grants or contracts”.
 
-Subsec. (a)(3). Pub. L. 105–128, § 8, substituted “preserving or digitization” for “preservation of digitization”.
+Subsec. (a)(3). Pub. L. 105–128, § 8, substituted “preserving or digitization” for “preservation of digitization”.
 
-Subsec. (b). Pub. L. 105–128, § 7(3)(A), substituted heading for former heading which read as follows: “Grants or contracts”.
+Subsec. (b). Pub. L. 105–128, § 7(3)(A), substituted heading for former heading which read as follows: “Grants or contracts”.
 
-Subsec. (b)(1). Pub. L. 105–128, § 7(3)(B), inserted “or cooperative agreements,” after “contracts”.
+Subsec. (b)(1). Pub. L. 105–128, § 7(3)(B), inserted “or cooperative agreements,” after “contracts”.
 
-Subsec. (b)(2). Pub. L. 105–128, § 7(3)(C), substituted “Grants, contracts, and cooperative agreements” for “Grants and contracts”.
+Subsec. (b)(2). Pub. L. 105–128, § 7(3)(C), substituted “Grants, contracts, and cooperative agreements” for “Grants and contracts”.
 
-##### § 9163. State and local initiatives
+##### § 9163. State and local initiatives
 
 Nothing in this subchapter shall be construed to interfere with State and local initiatives and responsibility in the conduct of library services. The administration of libraries, the selection of personnel and library books and materials, and insofar as consistent with the purposes of this subchapter, the determination of the best uses of the funds provided under this subchapter, shall be reserved for the States and their local subdivisions.
 
-(Pub. L. 94–462, title II, § 263, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302.)
+(Pub. L. 94–462, title II, § 263, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302.)
 
 ### Part 4—Laura Bush 21st Century Librarians
 
-#### § 9165. Laura Bush 21st Century Librarian Program
+#### § 9165. Laura Bush 21st Century Librarian Program
 
 **(a) Purpose** It is the purpose of this part to develop a diverse workforce of librarians by—
 
@@ -1545,21 +1545,21 @@ Nothing in this subchapter shall be construed to interfere with State and local 
 
 The Director shall establish procedures for reviewing and evaluating projects supported under this part.
 
-(Pub. L. 94–462, title II, § 264, as added Pub. L. 111–340, title II, § 207, Dec. 22, 2010, 124 Stat. 3602; amended Pub. L. 115–410, § 15, Dec. 31, 2018, 132 Stat. 5419.)
+(Pub. L. 94–462, title II, § 264, as added Pub. L. 111–340, title II, § 207, Dec. 22, 2010, 124 Stat. 3602; amended Pub. L. 115–410, § 15, Dec. 31, 2018, 132 Stat. 5419.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–410, § 15(1)(A), inserted “from diverse and underrepresented backgrounds” after “librarians” and substituted “at the middle school, high school, and postsecondary levels” for “middle or high school students and postsecondary”.
+2018—Subsec. (a)(1). Pub. L. 115–410, § 15(1)(A), inserted “from diverse and underrepresented backgrounds” after “librarians” and substituted “at the middle school, high school, and postsecondary levels” for “middle or high school students and postsecondary”.
 
-Subsec. (a)(2). Pub. L. 115–410, § 15(1)(B), inserted “from diverse and underrepresented backgrounds” after “library leaders”.
+Subsec. (a)(2). Pub. L. 115–410, § 15(1)(B), inserted “from diverse and underrepresented backgrounds” after “library leaders”.
 
-Subsec. (a)(3). Pub. L. 115–410, § 15(1)(C), added par. (3) and struck out former par. (3) which read as follows: “enhancing the training and professional development of librarians and the library workforce to meet the needs of their communities, including those needs relating to literacy and education, workforce development, lifelong learning, and digital literacy.”
+Subsec. (a)(3). Pub. L. 115–410, § 15(1)(C), added par. (3) and struck out former par. (3) which read as follows: “enhancing the training and professional development of librarians and the library workforce to meet the needs of their communities, including those needs relating to literacy and education, workforce development, lifelong learning, and digital literacy.”
 
 ## SUBCHAPTER III—MUSEUM SERVICES
 
-### § 9171. Purpose
+### § 9171. Purpose
 
 It is the purpose of this subchapter—
 
@@ -1583,7 +1583,7 @@ It is the purpose of this subchapter—
 
 **(10)** to assist museums in their civic engagement efforts to ensure that every person in the United States has access to high-quality museum services.
 
-(Pub. L. 94–462, title II, § 272, formerly § 271, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; renumbered § 272 and amended Pub. L. 108–81, title III, §§ 301, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, § 301, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 115–410, § 16, Dec. 31, 2018, 132 Stat. 5419.)
+(Pub. L. 94–462, title II, § 272, formerly § 271, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; renumbered § 272 and amended Pub. L. 108–81, title III, §§ 301, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, § 301, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 115–410, § 16, Dec. 31, 2018, 132 Stat. 5419.)
 
 **Editorial Notes**
 
@@ -1593,23 +1593,23 @@ A prior section 272 of Pub. L. 94–462 was renumbered section 273 and is classi
 
 **Amendments**
 
-2018—Par. (1). Pub. L. 115–410, § 16(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our heritage;”.
+2018—Par. (1). Pub. L. 115–410, § 16(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our heritage;”.
 
-Par. (2). Pub. L. 115–410, § 16(3), added par. (2). Former par. (2) redesignated (1).
+Par. (2). Pub. L. 115–410, § 16(3), added par. (2). Former par. (2) redesignated (1).
 
-Par. (4). Pub. L. 115–410, § 16(4), inserted “diverse” before “cultural”.
+Par. (4). Pub. L. 115–410, § 16(4), inserted “diverse” before “cultural”.
 
-Par. (5). Pub. L. 115–410, § 16(5), substituted “as they serve their communities in new and different ways” for “as a result of their increasing use by the public”.
+Par. (5). Pub. L. 115–410, § 16(5), substituted “as they serve their communities in new and different ways” for “as a result of their increasing use by the public”.
 
-Par. (9). Pub. L. 115–410, § 16(7), substituted “State and regional levels” for “State level” and “services; and” for “services.”
+Par. (9). Pub. L. 115–410, § 16(7), substituted “State and regional levels” for “State level” and “services; and” for “services.”
 
-Par. (10). Pub. L. 115–410, § 16(6), (8), added par. (10).
+Par. (10). Pub. L. 115–410, § 16(6), (8), added par. (10).
 
-2010—Par. (3). Pub. L. 111–340, § 301(1), inserted “through international, national, regional, State, and local networks and partnerships” after “services”.
+2010—Par. (3). Pub. L. 111–340, § 301(1), inserted “through international, national, regional, State, and local networks and partnerships” after “services”.
 
-Pars. (7) to (9). Pub. L. 111–340, § 301(2)–(4), added pars. (7) to (9).
+Pars. (7) to (9). Pub. L. 111–340, § 301(2)–(4), added pars. (7) to (9).
 
-2003—Pub. L. 108–81, § 301, amended section catchline and text generally. Prior to amendment, text read as follows: “It is the purpose of this subchapter—
+2003—Pub. L. 108–81, § 301, amended section catchline and text generally. Prior to amendment, text read as follows: “It is the purpose of this subchapter—
 
 “(1) to encourage and assist museums in their educational role, in conjunction with formal systems of elementary, secondary, and postsecondary education and with programs of nonformal education for all age groups;
 
@@ -1617,7 +1617,7 @@ Pars. (7) to (9). Pub. L. 111–340, § 301(2)–(4), added pars. (7) to (9).
 
 “(3) to ease the financial burden borne by museums as a result of their increasing use by the public.”
 
-### § 9172. Definitions
+### § 9172. Definitions
 
 As used in this subchapter:
 
@@ -1629,7 +1629,7 @@ The term “museum” means a public, tribal, or private nonprofit agency or ins
 
 The term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-(Pub. L. 94–462, title II, § 273, formerly § 272, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered § 273 and amended Pub. L. 108–81, title III, §§ 302, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, § 302, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 115–410, § 17, Dec. 31, 2018, 132 Stat. 5420.)
+(Pub. L. 94–462, title II, § 273, formerly § 272, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered § 273 and amended Pub. L. 108–81, title III, §§ 302, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, § 302, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 115–410, § 17, Dec. 31, 2018, 132 Stat. 5420.)
 
 **Editorial Notes**
 
@@ -1639,15 +1639,15 @@ A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classi
 
 **Amendments**
 
-2018—Par. (1). Pub. L. 115–410, § 17(2), inserted “, cultural heritage,” after “educational”.
+2018—Par. (1). Pub. L. 115–410, § 17(2), inserted “, cultural heritage,” after “educational”.
 
-Pub. L. 115–410, § 17(1), which directed insertion of “, tribal,” after “public”, was executed by making the insertion after “public” the first time appearing, to reflect the probable intent of Congress.
+Pub. L. 115–410, § 17(1), which directed insertion of “, tribal,” after “public”, was executed by making the insertion after “public” the first time appearing, to reflect the probable intent of Congress.
 
 2010—Par. (1). Pub. L. 111–340 inserted “includes museums that have tangible and digital collections and” after “Such term”.
 
-2003—Par. (1). Pub. L. 108–81, § 302, inserted at end: “Such term includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.”
+2003—Par. (1). Pub. L. 108–81, § 302, inserted at end: “Such term includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.”
 
-### § 9173. Museum services activities
+### § 9173. Museum services activities
 
 **(a) In general** The Director, subject to the policy advice of the Museum and Library Services Board, may enter into arrangements, including grants, contracts, cooperative agreements, and other forms of assistance, with museums, States, local governments, and other entities as the Director considers appropriate, to pay the Federal share of the cost of—
 
@@ -1739,7 +1739,7 @@ Individual museums may receive not more than 3 technical assistance awards under
 
 From amounts appropriated under section 9176 of this title, the Director shall reserve 2.25 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in section 7517 of this title), to enable such tribes and organizations to carry out the activities described in subsection (a).
 
-(Pub. L. 94–462, title II, § 274, formerly § 273, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered § 274 and amended Pub. L. 108–81, title III, §§ 303, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, § 303, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 114–95, title IX, § 9215(aaa)(4), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, § 18, Dec. 31, 2018, 132 Stat. 5420.)
+(Pub. L. 94–462, title II, § 274, formerly § 273, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered § 274 and amended Pub. L. 108–81, title III, §§ 303, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, § 303, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 114–95, title IX, § 9215(aaa)(4), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, § 18, Dec. 31, 2018, 132 Stat. 5420.)
 
 **Editorial Notes**
 
@@ -1749,63 +1749,63 @@ A prior section 274 of Pub. L. 94–462 was classified to section 9174 of this t
 
 **Amendments**
 
-2018—Subsec. (a)(2). Pub. L. 115–410, § 18(a)(1), added par. (2) and struck out former par. (2) which read as follows: “supporting museums in building learning partnerships with the Nation’s schools and developing museum resources and programs in support of State and local school curricula;”.
+2018—Subsec. (a)(2). Pub. L. 115–410, § 18(a)(1), added par. (2) and struck out former par. (2) which read as follows: “supporting museums in building learning partnerships with the Nation’s schools and developing museum resources and programs in support of State and local school curricula;”.
 
-Subsec. (a)(3)(D), (E). Pub. L. 115–410, § 18(a)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (a)(3)(D), (E). Pub. L. 115–410, § 18(a)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (a)(5). Pub. L. 115–410, § 18(a)(5), added par. (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 115–410, § 18(a)(5), added par. (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 115–410, § 18(a)(4), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 115–410, § 18(a)(4), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (a)(6)(C). Pub. L. 115–410, § 18(a)(6)(B), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (a)(6)(C). Pub. L. 115–410, § 18(a)(6)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (a)(6)(D). Pub. L. 115–410, § 18(a)(6)(A), (C), redesignated subpar. (C) as (D) and inserted “tribal,” after “regional,”. Former subpar. (D) redesignated (E).
+Subsec. (a)(6)(D). Pub. L. 115–410, § 18(a)(6)(A), (C), redesignated subpar. (C) as (D) and inserted “tribal,” after “regional,”. Former subpar. (D) redesignated (E).
 
-Subsec. (a)(6)(E), (F). Pub. L. 115–410, § 18(a)(6)(A), (D), redesignated subpars. (D) and (E) as (E) and (F), respectively.
+Subsec. (a)(6)(E), (F). Pub. L. 115–410, § 18(a)(6)(A), (D), redesignated subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (a)(6)(G). Pub. L. 115–410, § 18(a)(6)(D)–(F), added subpar. (G).
+Subsec. (a)(6)(G). Pub. L. 115–410, § 18(a)(6)(D)–(F), added subpar. (G).
 
-Subsec. (a)(7). Pub. L. 115–410, § 18(a)(4), (7), redesignated par. (4) as (7), struck it out, and added a new par. (7). Prior to amendment, par. read as follows: “supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;”.
+Subsec. (a)(7). Pub. L. 115–410, § 18(a)(4), (7), redesignated par. (4) as (7), struck it out, and added a new par. (7). Prior to amendment, par. read as follows: “supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;”.
 
-Pub. L. 115–410, § 18(a)(3), struck out par. (7) which read as follows: “supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;”.
+Pub. L. 115–410, § 18(a)(3), struck out par. (7) which read as follows: “supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;”.
 
-Subsec. (a)(8). Pub. L. 115–410, § 18(a)(8), added par. (8) and struck out former par. (8) which read as follows: “supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;”.
+Subsec. (a)(8). Pub. L. 115–410, § 18(a)(8), added par. (8) and struck out former par. (8) which read as follows: “supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;”.
 
-Subsec. (a)(12), (13). Pub. L. 115–410, § 18(a)(9)–(11), added pars. (12) and (13).
+Subsec. (a)(12), (13). Pub. L. 115–410, § 18(a)(9)–(11), added pars. (12) and (13).
 
-Subsec. (c)(2). Pub. L. 115–410, § 18(c)(1)(A), inserted period at end.
+Subsec. (c)(2). Pub. L. 115–410, § 18(c)(1)(A), inserted period at end.
 
-Subsec. (c)(3)(A). Pub. L. 115–410, § 18(c)(1)(B)(i), amended subpar. (A) of par. (3) to duplicate amendment made by Pub. L. 111–340, § 303(2)(C)(i), which had been directed to subpar. (A) of par. (2) but executed to par. (3) to reflect the probable intent of Congress, thus resulting in no change in text. See 2010 Amendment note below.
+Subsec. (c)(3)(A). Pub. L. 115–410, § 18(c)(1)(B)(i), amended subpar. (A) of par. (3) to duplicate amendment made by Pub. L. 111–340, § 303(2)(C)(i), which had been directed to subpar. (A) of par. (2) but executed to par. (3) to reflect the probable intent of Congress, thus resulting in no change in text. See 2010 Amendment note below.
 
-Subsec. (c)(3)(B). Pub. L. 115–410, § 18(c)(1)(B)(ii), amended subpar. (B) of par. (3) to duplicate amendment made by Pub. L. 111–340, § 303(2)(C)(ii), which had been directed to subpar. (B) of par. (2) but executed to par. (3) to reflect the probable intent of Congress, thus resulting in no change in text. See 2010 Amendment note below.
+Subsec. (c)(3)(B). Pub. L. 115–410, § 18(c)(1)(B)(ii), amended subpar. (B) of par. (3) to duplicate amendment made by Pub. L. 111–340, § 303(2)(C)(ii), which had been directed to subpar. (B) of par. (2) but executed to par. (3) to reflect the probable intent of Congress, thus resulting in no change in text. See 2010 Amendment note below.
 
-Subsec. (d). Pub. L. 115–410, § 18(b), (c)(2), substituted “2.25 percent” for “1.75 percent” and made technical amendment to reference in original act which appears in text as reference to section 9176 of this title.
+Subsec. (d). Pub. L. 115–410, § 18(b), (c)(2), substituted “2.25 percent” for “1.75 percent” and made technical amendment to reference in original act which appears in text as reference to section 9176 of this title.
 
 2015—Subsec. (d). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7517 of this title.
 
-2010—Subsec. (a). Pub. L. 111–340, § 303(1)(A), inserted “, States, local governments,” after “with museums” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–340, § 303(1)(A), inserted “, States, local governments,” after “with museums” in introductory provisions.
 
-Subsec. (a)(3) to (5). Pub. L. 111–340, § 303(1)(B), (C), added pars. (3) to (5), redesignated former par. (5) as (6), and struck out former pars. (3) and (4) which read as follows:
+Subsec. (a)(3) to (5). Pub. L. 111–340, § 303(1)(B), (C), added pars. (3) to (5), redesignated former par. (5) as (6), and struck out former pars. (3) and (4) which read as follows:
 
 “(3) supporting museums in assessing, conserving, researching, maintaining, and exhibiting their collections, and in providing educational programs to the public through the use of their collections;
 
 “(4) stimulating greater collaboration among museums, libraries, schools, and other community organizations in order to share resources and strengthen communities;”.
 
-Subsec. (a)(6). Pub. L. 111–340, § 303(1)(B), (D), redesignated par. (5) as (6) and substituted “media, including new ways to disseminate information,” for “broadcast media”. Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 111–340, § 303(1)(B), (D), redesignated par. (5) as (6) and substituted “media, including new ways to disseminate information,” for “broadcast media”. Former par. (6) redesignated (7).
 
-Subsec. (a)(7), (8). Pub. L. 111–340, § 303(1)(B), redesignated pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+Subsec. (a)(7), (8). Pub. L. 111–340, § 303(1)(B), redesignated pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
 
-Subsec. (a)(9). Pub. L. 111–340, § 303(1)(B), (E), redesignated par. (8) as (9) and substituted “, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals,” for “at all levels,”. Former par. (9) redesignated (10).
+Subsec. (a)(9). Pub. L. 111–340, § 303(1)(B), (E), redesignated par. (8) as (9) and substituted “, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals,” for “at all levels,”. Former par. (9) redesignated (10).
 
-Subsec. (a)(10), (11). Pub. L. 111–340, § 303(1)(B), redesignated pars. (9) and (10) as (10) and (11), respectively.
+Subsec. (a)(10), (11). Pub. L. 111–340, § 303(1)(B), redesignated pars. (9) and (10) as (10) and (11), respectively.
 
-Subsec. (c)(2), (3). Pub. L. 111–340, § 303(2)(A), (B), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (c)(2), (3). Pub. L. 111–340, § 303(2)(A), (B), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (c)(3)(A). Pub. L. 111–340, § 303(2)(C)(i), which directed that “awards” be struck out after “assistance” in subpar. (A) of par. (2), was executed by making the amendment in subpar. (A) of par. (3) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (3). See above.
+Subsec. (c)(3)(A). Pub. L. 111–340, § 303(2)(C)(i), which directed that “awards” be struck out after “assistance” in subpar. (A) of par. (2), was executed by making the amendment in subpar. (A) of par. (3) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (3). See above.
 
-Subsec. (c)(3)(B). Pub. L. 111–340, § 303(2)(C)(ii), which directed the substitution of “. Subsequent” for “, but subsequent” in subpar. (B) of par. (2), was executed by making the amendment in subpar. (B) of par. (3) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (3). See above.
+Subsec. (c)(3)(B). Pub. L. 111–340, § 303(2)(C)(ii), which directed the substitution of “. Subsequent” for “, but subsequent” in subpar. (B) of par. (2), was executed by making the amendment in subpar. (B) of par. (3) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (3). See above.
 
-2003—Pub. L. 108–81, § 303, amended section catchline and text generally. Prior to amendment, section contained provisions which in subsec. (a) authorized the Director to make grants to museums to pay for the Federal share of the cost of increasing and improving museum services, in subsec. (b) authorized the Director to enter into contracts and cooperative agreements with appropriate entities to pay for the Federal share of enabling the entities to undertake projects designed to strengthen museum services, in subsec. (c) established the Federal share, and in subsec. (d) required the Director to establish procedures for reviewing and evaluating grants, contracts, and cooperative agreements entered into under this subchapter.
+2003—Pub. L. 108–81, § 303, amended section catchline and text generally. Prior to amendment, section contained provisions which in subsec. (a) authorized the Director to make grants to museums to pay for the Federal share of the cost of increasing and improving museum services, in subsec. (b) authorized the Director to enter into contracts and cooperative agreements with appropriate entities to pay for the Federal share of enabling the entities to undertake projects designed to strengthen museum services, in subsec. (c) established the Federal share, and in subsec. (d) required the Director to establish procedures for reviewing and evaluating grants, contracts, and cooperative agreements entered into under this subchapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1813,11 +1813,11 @@ Subsec. (c)(3)(B). Pub. L. 111–340, § 303(2)(C)(ii), which directed the sub
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-### § 9174. Repealed. Pub. L. 108–81, title III, § 304, Sept. 25, 2003, 117 Stat. 1002
+### § 9174. Repealed. Pub. L. 108–81, title III, § 304, Sept. 25, 2003, 117 Stat. 1002
 
-Section, Pub. L. 94–462, title II, § 274, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–304, related to National Award for Museum Service.
+Section, Pub. L. 94–462, title II, § 274, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–304, related to National Award for Museum Service.
 
-### § 9175. 21st century museum professional program
+### § 9175. 21st century museum professional program
 
 **(a) Purpose** It is the purpose of this section to develop and enhance the diverse workforce of museum professionals in order to best anticipate and serve the needs of their local communities and the public by—
 
@@ -1841,17 +1841,17 @@ Section, Pub. L. 94–462, title II, § 274, as added Pub. L. 104–208, div. 
 
 The Director shall establish procedures for reviewing and evaluating arrangements supported under this section.
 
-(Pub. L. 94–462, title II, § 275, as added Pub. L. 115–410, § 19(2), Dec. 31, 2018, 132 Stat. 5421.)
+(Pub. L. 94–462, title II, § 275, as added Pub. L. 115–410, § 19(2), Dec. 31, 2018, 132 Stat. 5421.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 9175, Pub. L. 94–462, title II, § 275, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–304, related to National Museum Services Board, prior to repeal by Pub. L. 108–81, title III, § 304, Sept. 25, 2003, 117 Stat. 1002.
+A prior section 9175, Pub. L. 94–462, title II, § 275, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–304, related to National Museum Services Board, prior to repeal by Pub. L. 108–81, title III, § 304, Sept. 25, 2003, 117 Stat. 1002.
 
 A prior section 275 of Pub. L. 94–462 was renumbered section 276 and is classified to section 9176 of this title.
 
-### § 9176. Authorization of appropriations
+### § 9176. Authorization of appropriations
 
 **(a) Grants**
 
@@ -1865,23 +1865,23 @@ Sums appropriated pursuant to subsection (a) for any fiscal year shall remain av
 
 Notwithstanding any other provision of this subchapter, if the amount appropriated under subsection (a) for a fiscal year is greater than the amount appropriated under such subsection for fiscal year 2020 by more than $10,000,000, then an amount of not less than 30 percent but not more than 50 percent of the increase in appropriated funds shall be available, from the funds appropriated under such subsection for the fiscal year, to enter into arrangements under section 9173 of this title to carry out the State assessments described in section 9173(a)(4) of this title and to assist States in the implementation of such plans.
 
-(Pub. L. 94–462, title II, § 276, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–306; renumbered § 275 and amended Pub. L. 108–81, title III, § 305, Sept. 25, 2003, 117 Stat. 1002; Pub. L. 111–340, title III, § 304, Dec. 22, 2010, 124 Stat. 3604; renumbered § 276 and amended Pub. L. 115–410, §§ 19(1), 20, Dec. 31, 2018, 132 Stat. 5421, 5422.)
+(Pub. L. 94–462, title II, § 276, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–306; renumbered § 275 and amended Pub. L. 108–81, title III, § 305, Sept. 25, 2003, 117 Stat. 1002; Pub. L. 111–340, title III, § 304, Dec. 22, 2010, 124 Stat. 3604; renumbered § 276 and amended Pub. L. 115–410, §§ 19(1), 20, Dec. 31, 2018, 132 Stat. 5421, 5422.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–410, § 20(1), substituted “each of the fiscal years 2020 through 2025” for “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016”.
+2018—Subsec. (a). Pub. L. 115–410, § 20(1), substituted “each of the fiscal years 2020 through 2025” for “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016”.
 
-Subsec. (c). Pub. L. 115–410, § 20(2), substituted “fiscal year 2020” for “fiscal year 2011”.
+Subsec. (c). Pub. L. 115–410, § 20(2), substituted “fiscal year 2020” for “fiscal year 2011”.
 
-2010—Subsec. (a). Pub. L. 111–340, § 304(1), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “For the purpose of carrying out this subchapter, there are authorized to be appropriated to the Director $38,600,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
+2010—Subsec. (a). Pub. L. 111–340, § 304(1), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “For the purpose of carrying out this subchapter, there are authorized to be appropriated to the Director $38,600,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
 
-Subsec. (b). Pub. L. 111–340, § 304(2), (3), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Prior to amendment, text of former subsec. (b) read as follows: “Not more than 10 percent of the funds appropriated under this section for a fiscal year may be used to pay for the administrative costs of carrying out this subchapter.”
+Subsec. (b). Pub. L. 111–340, § 304(2), (3), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Prior to amendment, text of former subsec. (b) read as follows: “Not more than 10 percent of the funds appropriated under this section for a fiscal year may be used to pay for the administrative costs of carrying out this subchapter.”
 
-Subsec. (c). Pub. L. 111–340, § 304(4), added subsec. (c). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 111–340, § 304(4), added subsec. (c). Former subsec. (c) redesignated (b).
 
-2003—Subsec. (a). Pub. L. 108–81, § 305(1), substituted “$38,600,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.” for “$28,700,000 for the fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
+2003—Subsec. (a). Pub. L. 108–81, § 305(1), substituted “$38,600,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.” for “$28,700,000 for the fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
 
 **Statutory Notes and Related Subsidiaries**
 

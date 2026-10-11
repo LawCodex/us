@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 87—FEDERAL LANDS RECREATION ENHANCEMENT
 
-## § 6801. Definitions
+## § 6801. Definitions
 
 In this chapter:
 
@@ -139,55 +139,55 @@ The term “standard amenity recreation fee” means the recreation fee authoriz
 
 The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
 
-(Pub. L. 108–447, div. J, title VIII, § 802, Dec. 8, 2004, 118 Stat. 3377; Pub. L. 118–234, title III, § 311(a), Jan. 4, 2025, 138 Stat. 2891.)
+(Pub. L. 108–447, div. J, title VIII, § 802, Dec. 8, 2004, 118 Stat. 3377; Pub. L. 118–234, title III, § 311(a), Jan. 4, 2025, 138 Stat. 2891.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 118–234, § 311(a)(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
+2025—Pub. L. 118–234, § 311(a)(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
 
-Par. (1). Pub. L. 118–234, § 311(a)(8), redesignated par. (3) as (1). Former par. (1) redesignated (15).
+Par. (1). Pub. L. 118–234, § 311(a)(8), redesignated par. (3) as (1). Former par. (1) redesignated (15).
 
-Pub. L. 118–234, § 311(a)(2), prior to redesignation of par. (1) as (15), made technical amendment to reference in original act which appears in text as reference to section 6802(f) of this title.
+Pub. L. 118–234, § 311(a)(2), prior to redesignation of par. (1) as (15), made technical amendment to reference in original act which appears in text as reference to section 6802(f) of this title.
 
-Par. (2). Pub. L. 118–234, § 311(a)(3), made technical amendment to reference in original act which appears in text as reference to section 6802(g) of this title.
+Par. (2). Pub. L. 118–234, § 311(a)(3), made technical amendment to reference in original act which appears in text as reference to section 6802(g) of this title.
 
-Pars. (3) to (5). Pub. L. 118–234, § 311(a)(8), redesignated pars. (4) to (6) as (3) to (5), respectively. Former par. (3) redesignated (1).
+Pars. (3) to (5). Pub. L. 118–234, § 311(a)(8), redesignated pars. (4) to (6) as (3) to (5), respectively. Former par. (3) redesignated (1).
 
-Par. (6). Pub. L. 118–234, § 311(a)(8), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+Par. (6). Pub. L. 118–234, § 311(a)(8), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Pub. L. 118–234, § 311(a)(4), prior to redesignation of par. (6) as (5), made technical amendment to reference in original act which appears in text as reference to section 6804 of this title.
+Pub. L. 118–234, § 311(a)(4), prior to redesignation of par. (6) as (5), made technical amendment to reference in original act which appears in text as reference to section 6804 of this title.
 
-Pars. (7), (8). Pub. L. 118–234, § 311(a)(8), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
+Pars. (7), (8). Pub. L. 118–234, § 311(a)(8), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
 
-Par. (9). Pub. L. 118–234, § 311(a)(9), added par. (9). Former par. (9) redesignated (8).
+Par. (9). Pub. L. 118–234, § 311(a)(9), added par. (9). Former par. (9) redesignated (8).
 
-Pub. L. 118–234, § 311(a)(5), prior to redesignation of par. (9) as (8), made technical amendment to reference in original act which appears in text as reference to section 6804 of this title.
+Pub. L. 118–234, § 311(a)(5), prior to redesignation of par. (9) as (8), made technical amendment to reference in original act which appears in text as reference to section 6804 of this title.
 
-Pars. (10), (11). Pub. L. 118–234, § 311(a)(8), redesignated pars. (10) and (11) as (11) and (10), respectively.
+Pars. (10), (11). Pub. L. 118–234, § 311(a)(8), redesignated pars. (10) and (11) as (11) and (10), respectively.
 
-Par. (12). Pub. L. 118–234, § 311(a)(6), made technical amendment to reference in original act which appears in text as reference to section 6806 of this title.
+Par. (12). Pub. L. 118–234, § 311(a)(6), made technical amendment to reference in original act which appears in text as reference to section 6806 of this title.
 
-Par. (13). Pub. L. 118–234, § 311(a)(10), added par. (13). Former par. (13) redesignated (14).
+Par. (13). Pub. L. 118–234, § 311(a)(10), added par. (13). Former par. (13) redesignated (14).
 
-Pub. L. 118–234, § 311(a)(7), prior to redesignation of par. (13) as (14), substituted “section 6802(h)(2) of this title” for “section 6802(h) of this title”.
+Pub. L. 118–234, § 311(a)(7), prior to redesignation of par. (13) as (14), substituted “section 6802(h)(2) of this title” for “section 6802(h) of this title”.
 
-Par. (14). Pub. L. 118–234, § 311(a)(8), redesignated par. (13) as (14).
+Par. (14). Pub. L. 118–234, § 311(a)(8), redesignated par. (13) as (14).
 
-Par. (15). Pub. L. 118–234, § 311(a)(8), redesignated par. (1) as (15).
+Par. (15). Pub. L. 118–234, § 311(a)(8), redesignated par. (1) as (15).
 
-Par. (16). Pub. L. 118–234, § 311(a)(11), added par. (16).
+Par. (16). Pub. L. 118–234, § 311(a)(11), added par. (16).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–205, § 1, Dec. 3, 2020, 134 Stat. 996, provided that: “This Act [amending section 6804 of this title] may be cited as the ‘Wounded Veterans Recreation Act’.”
+Pub. L. 116–205, § 1, Dec. 3, 2020, 134 Stat. 996, provided that: “This Act [amending section 6804 of this title] may be cited as the ‘Wounded Veterans Recreation Act’.”
 
 **Short Title**
 
-Pub. L. 108–447, div. J, title VIII, § 801(a), Dec. 8, 2004, 118 Stat. 3377, provided that: “This title [enacting this chapter, amending section 460*l*–6a of this title, repealing sections 3911, 5982, and 5991 to 5995 of this title, and repealing provisions set out as a note under 460*l*–6a of this title] may be cited as the ‘Federal Lands Recreation Enhancement Act’.”
+Pub. L. 108–447, div. J, title VIII, § 801(a), Dec. 8, 2004, 118 Stat. 3377, provided that: “This title [enacting this chapter, amending section 460*l*–6a of this title, repealing sections 3911, 5982, and 5991 to 5995 of this title, and repealing provisions set out as a note under 460*l*–6a of this title] may be cited as the ‘Federal Lands Recreation Enhancement Act’.”
 
 **Executive Documents**
 
@@ -227,7 +227,7 @@ Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 6802. Recreation fee authority
+## § 6802. Recreation fee authority
 
 **(a) Authority of Secretary**
 
@@ -269,7 +269,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 **(G)** For travel by private, noncommercial vehicle over any national parkway or any road or highway established as a part of the Federal-aid System, as defined in section 101 of title 23,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 which is commonly used by the public as a means of travel between two places either or both of which are outside any unit or area at which recreation fees are charged under this chapter.
 
@@ -585,7 +585,7 @@ A recreation service provider may inform a customer of the recreation service pr
 
 An online payment collected under paragraph (1) that is associated with a specific unit or area of a Federal land management agency shall be distributed in accordance with section 6804(c) of this title.
 
-(Pub. L. 108–447, div. J, title VIII, § 803, Dec. 8, 2004, 118 Stat. 3378; Pub. L. 118–234, title III, §§ 311(b), 322(c), Jan. 4, 2025, 138 Stat. 2893, 2910.)
+(Pub. L. 108–447, div. J, title VIII, § 803, Dec. 8, 2004, 118 Stat. 3378; Pub. L. 118–234, title III, §§ 311(b), 322(c), Jan. 4, 2025, 138 Stat. 2893, 2910.)
 
 **Editorial Notes**
 
@@ -597,13 +597,13 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(
 
 **Amendments**
 
-2025—Subsec. (b)(5). Pub. L. 118–234, § 311(b)(2), made technical amendment to reference in original act which appears in text as reference to section 6803(d) of this title.
+2025—Subsec. (b)(5). Pub. L. 118–234, § 311(b)(2), made technical amendment to reference in original act which appears in text as reference to section 6803(d) of this title.
 
-Subsec. (d)(1), (4). Pub. L. 118–234, § 311(b)(1), made technical amendment to references in original act which appear in introductory provisions and two places in text of par. (1) and in text of par. (4) as references to this chapter.
+Subsec. (d)(1), (4). Pub. L. 118–234, § 311(b)(1), made technical amendment to references in original act which appear in introductory provisions and two places in text of par. (1) and in text of par. (4) as references to this chapter.
 
-Subsecs. (h), (i). Pub. L. 118–234, § 311(b)(3), added subsecs. (h) and (i) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: “The Secretary may issue a special recreation permit, and charge a special recreation permit fee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.”
+Subsecs. (h), (i). Pub. L. 118–234, § 311(b)(3), added subsecs. (h) and (i) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: “The Secretary may issue a special recreation permit, and charge a special recreation permit fee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.”
 
-Subsec. (j). Pub. L. 118–234, § 322(c), added subsec. (j).
+Subsec. (j). Pub. L. 118–234, § 322(c), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -611,7 +611,7 @@ Subsec. (j). Pub. L. 118–234, § 322(c), added subsec. (j).
 
 Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstanding any other provision of law, after the date of enactment of this Act [June 19, 1987], the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York.”
 
-## § 6803. Public participation
+## § 6803. Public participation
 
 **(a) In general**
 
@@ -755,7 +755,7 @@ A Recreation Resource Advisory Committee shall maintain records of the meetings 
 
 A Recreation Resource Advisory Committee is subject to the provisions of chapter 10 of title 5.
 
-(Pub. L. 108–447, div. J, title VIII, § 804, Dec. 8, 2004, 118 Stat. 3382; Pub. L. 117–286, § 4(a)(132), Dec. 27, 2022, 136 Stat. 4320; Pub. L. 118–234, title II, § 225, title III, § 311(c), Jan. 4, 2025, 138 Stat. 2888, 2897.)
+(Pub. L. 108–447, div. J, title VIII, § 804, Dec. 8, 2004, 118 Stat. 3382; Pub. L. 117–286, § 4(a)(132), Dec. 27, 2022, 136 Stat. 4320; Pub. L. 118–234, title II, § 225, title III, § 311(c), Jan. 4, 2025, 138 Stat. 2888, 2897.)
 
 **Editorial Notes**
 
@@ -765,15 +765,15 @@ This chapter, referred to in subsecs. (a), (b), and (d)(1)(B), was in the origin
 
 **Amendments**
 
-2025—Subsec. (d)(5)(A). Pub. L. 118–234, § 225(1), substituted “12” for “11”.
+2025—Subsec. (d)(5)(A). Pub. L. 118–234, § 225(1), substituted “12” for “11”.
 
-Subsec. (d)(5)(D)(ii). Pub. L. 118–234, § 225(2)(A), substituted “Four” for “Three” in introductory provisions.
+Subsec. (d)(5)(D)(ii). Pub. L. 118–234, § 225(2)(A), substituted “Four” for “Three” in introductory provisions.
 
-Subsec. (d)(5)(D)(ii)(IV). Pub. L. 118–234, § 225(2)(B), added subcl. (IV).
+Subsec. (d)(5)(D)(ii)(IV). Pub. L. 118–234, § 225(2)(B), added subcl. (IV).
 
-Subsec. (d)(8). Pub. L. 118–234, § 225(3), substituted “Six” for “Eight”.
+Subsec. (d)(8). Pub. L. 118–234, § 225(3), substituted “Six” for “Eight”.
 
-Subsec. (e). Pub. L. 118–234, § 311(c), struck out subsec. (e) which authorized the Secretary to post clear notice of any entrance fee, standard amenity recreation fee, and available recreation passes and clear notice of locations where work is performed using recreation fee or recreation pass revenues collected.
+Subsec. (e). Pub. L. 118–234, § 311(c), struck out subsec. (e) which authorized the Secretary to post clear notice of any entrance fee, standard amenity recreation fee, and available recreation passes and clear notice of locations where work is performed using recreation fee or recreation pass revenues collected.
 
 2022—Subsec. (d)(12). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
@@ -783,7 +783,7 @@ Subsec. (e). Pub. L. 118–234, § 311(c), struck out subsec. (e) which author
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 6804. Recreation passes
+## § 6804. Recreation passes
 
 **(a) America the Beautiful—the National Parks and Federal Recreational Lands Pass**
 
@@ -899,7 +899,7 @@ A passport issued under section 100904 of title 54 or title VI of the National P
 
 A permit issued under section 100904 of title 54 that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
 
-(Pub. L. 108–447, div. J, title VIII, § 805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, § 5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, § 102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, § 2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, § 625, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 117–81, div. A, title VI, § 641, Dec. 27, 2021, 135 Stat. 1776; Pub. L. 118–234, title III, § 322(a), (b), Jan. 4, 2025, 138 Stat. 2910.)
+(Pub. L. 108–447, div. J, title VIII, § 805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, § 5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, § 102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, § 2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, § 625, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 117–81, div. A, title VI, § 641, Dec. 27, 2021, 135 Stat. 1776; Pub. L. 118–234, title III, § 322(a), (b), Jan. 4, 2025, 138 Stat. 2910.)
 
 **Editorial Notes**
 
@@ -907,49 +907,49 @@ A permit issued under section 100904 of title 54 that was valid on the day befor
 
 Section 6805 of this title, referred to in subsec. (a)(6)(B), was in the original a reference to section 6, and was translated as meaning section 806 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, § 813(d)(2), Dec. 8, 2004, 118 Stat. 3391. For complete classification of this Act to the Code, see Tables.
+The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, § 813(d)(2), Dec. 8, 2004, 118 Stat. 3391. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
-In subsec. (f), “section 100904 of title 54” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” in two places on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (f), “section 100904 of title 54” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” in two places on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 **Amendments**
 
-2025—Subsec. (a)(6)(A). Pub. L. 118–234, § 322(a), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.”
+2025—Subsec. (a)(6)(A). Pub. L. 118–234, § 322(a), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.”
 
-Subsec. (a)(10). Pub. L. 118–234, § 322(b), added par. (10).
+Subsec. (a)(10). Pub. L. 118–234, § 322(b), added par. (10).
 
-2021—Subsec. (a)(4). Pub. L. 117–81, § 641(1), substituted “age discount and lifetime” for “age and disability discounted”.
+2021—Subsec. (a)(4). Pub. L. 117–81, § 641(1), substituted “age discount and lifetime” for “age and disability discounted”.
 
-Subsec. (a)(7). Pub. L. 116–283, § 625(b)(1), struck out “age and disability” before “discounts”.
+Subsec. (a)(7). Pub. L. 116–283, § 625(b)(1), struck out “age and disability” before “discounts”.
 
-Subsec. (b). Pub. L. 117–81, § 641(2)(A), substituted “Free and discounted” for “Discounted” in heading.
+Subsec. (b). Pub. L. 117–81, § 641(2)(A), substituted “Free and discounted” for “Discounted” in heading.
 
-Subsec. (b)(1)(A). Pub. L. 116–283, § 625(b)(2)(A), substituted “this paragraph” for “this subsection” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 116–283, § 625(b)(2)(A), substituted “this paragraph” for “this subsection” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 117–81, § 641(2)(B)(i), substituted “Lifetime passes” for “Disability discount” in heading.
+Subsec. (b)(2). Pub. L. 117–81, § 641(2)(B)(i), substituted “Lifetime passes” for “Disability discount” in heading.
 
-Pub. L. 116–283, § 625(b)(2)(B), which directed the substitution of “this paragraph” for “this subsection”, could not be executed due to intervening amendment by Pub. L. 116–205. See 2020 Amendment note below.
+Pub. L. 116–283, § 625(b)(2)(B), which directed the substitution of “this paragraph” for “this subsection”, could not be executed due to intervening amendment by Pub. L. 116–205. See 2020 Amendment note below.
 
-Subsec. (b)(2)(B), (C). Pub. L. 117–81, § 641(2)(B)(ii), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “Any veteran who has been found to have a service-connected disability under title 38.”
+Subsec. (b)(2)(B), (C). Pub. L. 117–81, § 641(2)(B)(ii), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “Any veteran who has been found to have a service-connected disability under title 38.”
 
-Subsec. (b)(3). Pub. L. 117–81, § 641(2)(C), substituted “Annual passes” for “Gold Star Families parks pass” in heading and “members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.” for “members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).” in text.
+Subsec. (b)(3). Pub. L. 117–81, § 641(2)(C), substituted “Annual passes” for “Gold Star Families parks pass” in heading and “members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.” for “members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).” in text.
 
-Pub. L. 116–283, § 625(a), added par. (3).
+Pub. L. 116–283, § 625(a), added par. (3).
 
 2020—Subsec. (b)(2). Pub. L. 116–205 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.”
 
-2016—Subsec. (b)(1). Pub. L. 114–289 designated existing provisions as subpar. (A), struck out “, at a cost of $10.00,” before “to any United States citizen”, substituted “shall be available—” and cls. (i) and (ii) for “shall be valid for the lifetime of the pass holder.”, and added subpar. (B).
+2016—Subsec. (b)(1). Pub. L. 114–289 designated existing provisions as subpar. (A), struck out “, at a cost of $10.00,” before “to any United States citizen”, substituted “shall be available—” and cls. (i) and (ii) for “shall be valid for the lifetime of the pass holder.”, and added subpar. (B).
 
-2014—Subsec. (f)(1). Pub. L. 113–287, § 5(d)(36)(B), struck out “; 16 U.S.C. 5991–5995” after “(Public Law 105–391”.
+2014—Subsec. (f)(1). Pub. L. 113–287, § 5(d)(36)(B), struck out “; 16 U.S.C. 5991–5995” after “(Public Law 105–391”.
 
-Pub. L. 113–287, § 5(d)(36)(A), made technical amendment to reference in original act which appeared in text as reference to “section 460*l*–6a of this title” prior to substitution of “section 100904 of title 54”. See Codification note above.
+Pub. L. 113–287, § 5(d)(36)(A), made technical amendment to reference in original act which appeared in text as reference to “section 460*l*–6a of this title” prior to substitution of “section 100904 of title 54”. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Every Kid Outdoors Act**
 
-Pub. L. 116–9, title IX, § 9001, Mar. 12, 2019, 133 Stat. 829, as amended by Pub. L. 118–234, title II, § 232, Jan. 4, 2025, 138 Stat. 2890, provided that:
+Pub. L. 116–9, title IX, § 9001, Mar. 12, 2019, 133 Stat. 829, as amended by Pub. L. 118–234, title II, § 232, Jan. 4, 2025, 138 Stat. 2890, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1023,9 +1023,9 @@ Pub. L. 116–9, title IX, § 9001, Mar. 12, 2019, 133 Stat. 829, as amended b
 
 **America the Beautiful National Parks and Federal Recreational Lands Pass Program**
 
-Pub. L. 113–121, title I, § 1048, June 10, 2014, 128 Stat. 1257, provided that: “The Secretary [of the Army] may participate in the America the Beautiful National Parks and Federal Recreational Lands Pass program in the same manner as the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, the Forest Service, and the Bureau of Reclamation, including the provision of free annual passes to active duty military personnel and dependents.”
+Pub. L. 113–121, title I, § 1048, June 10, 2014, 128 Stat. 1257, provided that: “The Secretary [of the Army] may participate in the America the Beautiful National Parks and Federal Recreational Lands Pass program in the same manner as the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, the Forest Service, and the Bureau of Reclamation, including the provision of free annual passes to active duty military personnel and dependents.”
 
-## § 6804a. Availability of Federal, State, and local recreation passes
+## § 6804a. Availability of Federal, State, and local recreation passes
 
 **(a) Establishment of program**
 
@@ -1053,9 +1053,9 @@ The Secretaries, after consultation with the States and counties, may enter into
 
 **(C)** fund transfers are completed by the end of a fiscal year for all pass sales occurring during the fiscal year.
 
-(Pub. L. 108–447, div. J, title VIII, § 805A, as added Pub. L. 118–234, title III, § 321(a), Jan. 4, 2025, 138 Stat. 2909.)
+(Pub. L. 108–447, div. J, title VIII, § 805A, as added Pub. L. 118–234, title III, § 321(a), Jan. 4, 2025, 138 Stat. 2909.)
 
-## § 6805. Cooperative agreements
+## § 6805. Cooperative agreements
 
 **(a) Fee management agreement** Notwithstanding chapter 63 of title 31, the Secretary may enter into a fee management agreement, including a contract, which may provide for a reasonable commission, reimbursement, or discount, with the following entities for the following purposes:
 
@@ -1073,9 +1073,9 @@ A State or legal subdivision of a State that enters into an agreement with the S
 
 The Secretary shall consider any proposal submitted by a county to provide services described in subsection (a). If the Secretary decides not to enter into a fee management agreement with the county under subsection (a), the Secretary shall notify the county in writing of the decision, identifying the reasons for the decision. The fee management agreement may include cooperative site planning and management provisions.
 
-(Pub. L. 108–447, div. J, title VIII, § 806, Dec. 8, 2004, 118 Stat. 3387.)
+(Pub. L. 108–447, div. J, title VIII, § 806, Dec. 8, 2004, 118 Stat. 3387.)
 
-## § 6806. Special account and distribution of fees and revenues
+## § 6806. Special account and distribution of fees and revenues
 
 **(a) Special account**
 
@@ -1115,7 +1115,7 @@ Revenues collected from the sale of the National Parks and Federal Recreational 
 
 Revenues collected from the sale of a regional multientity pass authorized under section 6804(d) of this title shall be deposited in each participating Federal land management agency’s special account in accordance with the terms of the region multientity pass agreement for the regional multientity pass.
 
-(Pub. L. 108–447, div. J, title VIII, § 807, Dec. 8, 2004, 118 Stat. 3388.)
+(Pub. L. 108–447, div. J, title VIII, § 807, Dec. 8, 2004, 118 Stat. 3388.)
 
 **Editorial Notes**
 
@@ -1125,7 +1125,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, an
 
 Section 6804 of this title, referred to in subsecs. (d) and (e), was in the original a reference to section 5, and was translated as meaning section 805 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-## § 6807. Expenditures
+## § 6807. Expenditures
 
 **(a) Use of fees at specific site or area** Amounts available for expenditure at a specific site or area—
 
@@ -1165,39 +1165,39 @@ The Secretary may use not more than an average of 15 percent of total revenues c
 
 **(2)** a regional multientity pass authorized section 6804(d) of this title during the 5-year period beginning on the date the regional multientity pass agreement for that recreation pass takes effect.
 
-(Pub. L. 108–447, div. J, title VIII, § 808, Dec. 8, 2004, 118 Stat. 3388; Pub. L. 111–11, title VII, § 7116(h), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 118–234, title III, § 311(d), Jan. 4, 2025, 138 Stat. 2897.)
+(Pub. L. 108–447, div. J, title VIII, § 808, Dec. 8, 2004, 118 Stat. 3388; Pub. L. 111–11, title VII, § 7116(h), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 118–234, title III, § 311(d), Jan. 4, 2025, 138 Stat. 2897.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (b), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (b), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Amendments**
 
-2025—Subsec. (a)(3)(F). Pub. L. 118–234, § 311(d)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 6805(a) of this title and substituted semicolon for period at end.
+2025—Subsec. (a)(3)(F). Pub. L. 118–234, § 311(d)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 6805(a) of this title and substituted semicolon for period at end.
 
-Subsec. (a)(3)(G), (H). Pub. L. 118–234, § 311(d)(2)(A), (C), added subpars. (G) and (H).
+Subsec. (a)(3)(G), (H). Pub. L. 118–234, § 311(d)(2)(A), (C), added subpars. (G) and (H).
 
-Subsecs. (c), (d). Pub. L. 118–234, § 311(d)(1), made technical amendment to references in original act which appear in text of subsec. (c) and in introductory provisions of subsec. (d) as references to this chapter.
+Subsecs. (c), (d). Pub. L. 118–234, § 311(d)(1), made technical amendment to references in original act which appear in text of subsec. (c) and in introductory provisions of subsec. (d) as references to this chapter.
 
-Subsec. (d)(1). Pub. L. 118–234, § 311(d)(3)(A), made technical amendment to reference in original act which appears in text as reference to section 6804(a)(7) of this title.
+Subsec. (d)(1). Pub. L. 118–234, § 311(d)(3)(A), made technical amendment to reference in original act which appears in text as reference to section 6804(a)(7) of this title.
 
-Subsec. (d)(2). Pub. L. 118–234, § 311(d)(3)(B), made technical amendment to reference in original act which appears in text as reference to section 6804(d) of this title.
+Subsec. (d)(2). Pub. L. 118–234, § 311(d)(3)(B), made technical amendment to reference in original act which appears in text as reference to section 6804(d) of this title.
 
 2009—Subsec. (a)(1)(F). Pub. L. 111–11, which directed technical amendment in subsec. (a)(1)(F) to reference in original act which appears in text as reference to section 6805(a) of this title, could not be executed because there is no subsec. (a)(1)(F) of this section.
 
-## § 6808. Reports
+## § 6808. Reports
 
 Not later than May 1, 2006, and every 3 years thereafter, the Secretary shall submit to Congress a report detailing the status of the recreation fee program conducted for Federal recreational lands and waters, including an evaluation of the recreation fee program, examples of projects that were funded using such fees, and future projects and programs for funding with fees, and containing any recommendations for changes in the overall fee system.
 
-(Pub. L. 108–447, div. J, title VIII, § 809, Dec. 8, 2004, 118 Stat. 3389.)
+(Pub. L. 108–447, div. J, title VIII, § 809, Dec. 8, 2004, 118 Stat. 3389.)
 
-## § 6809. Sunset provision
+## § 6809. Sunset provision
 
 The authority of the Secretary to carry out this chapter shall terminate September 30, 2031.
 
-(Pub. L. 108–447, div. J, title VIII, § 810, Dec. 8, 2004, 118 Stat. 3389; Pub. L. 113–235, div. F, title IV, § 422, Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–53, div. B, § 134, Sept. 30, 2015, 129 Stat. 509, renumbered div. B, Pub. L. 114–113, § 8(3), Dec. 18, 2015, 129 Stat. 2245; Pub. L. 114–223, div. C, § 133, Sept. 29, 2016, 130 Stat. 914; Pub. L. 115–56, div. D, § 131, Sept. 8, 2017, 131 Stat. 1145; Pub. L. 118–234, title III, § 311(e), Jan. 4, 2025, 138 Stat. 2898.)
+(Pub. L. 108–447, div. J, title VIII, § 810, Dec. 8, 2004, 118 Stat. 3389; Pub. L. 113–235, div. F, title IV, § 422, Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–53, div. B, § 134, Sept. 30, 2015, 129 Stat. 509, renumbered div. B, Pub. L. 114–113, § 8(3), Dec. 18, 2015, 129 Stat. 2245; Pub. L. 114–223, div. C, § 133, Sept. 29, 2016, 130 Stat. 914; Pub. L. 115–56, div. D, § 131, Sept. 8, 2017, 131 Stat. 1145; Pub. L. 118–234, title III, § 311(e), Jan. 4, 2025, 138 Stat. 2898.)
 
 **Editorial Notes**
 
@@ -1221,21 +1221,21 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 **Recreation Fees**
 
-Pub. L. 118–42, div. E, title IV, § 421, Mar. 9, 2024, 138 Stat. 290, provided that: “Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) shall be applied by substituting ‘October 1, 2025’ for ‘September 30, 2019’.”
+Pub. L. 118–42, div. E, title IV, § 421, Mar. 9, 2024, 138 Stat. 290, provided that: “Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) shall be applied by substituting ‘October 1, 2025’ for ‘September 30, 2019’.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 117–328, div. G, title IV, § 421, Dec. 29, 2022, 136 Stat. 4826.
+Pub. L. 117–328, div. G, title IV, § 421, Dec. 29, 2022, 136 Stat. 4826.
 
-Pub. L. 117–103, div. G, title IV, § 421, Mar. 15, 2022, 136 Stat. 415.
+Pub. L. 117–103, div. G, title IV, § 421, Mar. 15, 2022, 136 Stat. 415.
 
-Pub. L. 116–260, div. G, title IV, § 423, Dec. 27, 2020, 134 Stat. 1541.
+Pub. L. 116–260, div. G, title IV, § 423, Dec. 27, 2020, 134 Stat. 1541.
 
-Pub. L. 116–94, div. D, title IV, § 425, Dec. 20, 2019, 133 Stat. 2748.
+Pub. L. 116–94, div. D, title IV, § 425, Dec. 20, 2019, 133 Stat. 2748.
 
-Pub. L. 116–6, div. E, title IV, § 427, Feb. 15, 2019, 133 Stat. 264.
+Pub. L. 116–6, div. E, title IV, § 427, Feb. 15, 2019, 133 Stat. 264.
 
-## § 6810. Volunteers
+## § 6810. Volunteers
 
 **(a) Authority to use volunteers**
 
@@ -1253,7 +1253,7 @@ In accordance with the guidelines issued under section 6804(a)(7) of this title,
 
 The Secretary may issue a regional multientity pass authorized under section 6804(d) of this title to a volunteer in exchange for significant volunteer services performed by the volunteer, if the regional multientity pass agreement under which the regional multientity pass was established provides for the issuance of the pass to volunteers.
 
-(Pub. L. 108–447, div. J, title VIII, § 811, Dec. 8, 2004, 118 Stat. 3389.)
+(Pub. L. 108–447, div. J, title VIII, § 811, Dec. 8, 2004, 118 Stat. 3389.)
 
 **Editorial Notes**
 
@@ -1261,7 +1261,7 @@ The Secretary may issue a regional multientity pass authorized under section 680
 
 Section 6804 of this title, referred to in subsecs. (b) to (d), was in the original a reference to section 5, and was translated as meaning section 805 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-## § 6811. Enforcement and protection of receipts
+## § 6811. Enforcement and protection of receipts
 
 **(a) Enforcement authority**
 
@@ -1279,7 +1279,7 @@ The registered owner and any occupant of a vehicle charged with a nonpayment vio
 
 The failure to pay a recreation fee established under this chapter shall be punishable as a Class A or Class B misdemeanor, except that in the case of a first offense of nonpayment, the fine imposed may not exceed $100, notwithstanding section 3571(e) of title 18.
 
-(Pub. L. 108–447, div. J, title VIII, § 812, Dec. 8, 2004, 118 Stat. 3390.)
+(Pub. L. 108–447, div. J, title VIII, § 812, Dec. 8, 2004, 118 Stat. 3390.)
 
 **Editorial Notes**
 
@@ -1287,19 +1287,19 @@ The failure to pay a recreation fee established under this chapter shall be puni
 
 This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
-## § 6812. Repeal of superseded admission and use fee authorities
+## § 6812. Repeal of superseded admission and use fee authorities
 
 **(a) Land and Water Conservation Fund Act**
 
-Subsections (a), (b), (c), (d), (e), (f), (g), and (i) (except for paragraph (1)(C)) of section 4 1
+Subsections (a), (b), (c), (d), (e), (f), (g), and (i) (except for paragraph (1)(C)) of section 4 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Land and Water Conservation Fund Act of 1965 are repealed, except that the Secretary may continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under such section until the date the notice required by section 6804(a)(3) of this title is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass.
 
 **(b) Recreational fee demonstration program**
 
-Section 315 <sup>1</sup> of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134), is repealed.
+Section 315 <sup>1</sup> of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134), is repealed.
 
 **(c) Admission permits for refuge units**
 
@@ -1307,23 +1307,23 @@ Section 3911 of this title is repealed.
 
 **(d) National park passport, Golden Eagle Passport, Golden Age Passport, and Golden Access Passport** Effective on the date the notice required by section 6804(a)(3) of this title is published in the Federal Register, the following provisions of law authorizing the establishment of a national park passport program or the establishment and sale of a national park passport, Golden Eagle Passport, Golden Age Passport, or Golden Access Passport are repealed:
 
-**(1)** Section 502 <sup>1</sup> of the National Parks Omnibus Management Act of 1998 (Public Law 105–391).
+**(1)** Section 502 <sup>1</sup> of the National Parks Omnibus Management Act of 1998 (Public Law 105–391).
 
-**(2)** Title VI <sup>1</sup> of the National Parks Omnibus Management Act of 1998 (Public Law 105–391).
+**(2)** Title VI <sup>1</sup> of the National Parks Omnibus Management Act of 1998 (Public Law 105–391).
 
 **(e) Treatment of unobligated funds**
 
 **(1) Land and water conservation fund special accounts**
 
-Amounts in the special accounts established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for Federal land management agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under section 6806 of this title and shall be available to the Secretary in accordance with this chapter. A special account established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 4 <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 by subsection (a) of this section.
+Amounts in the special accounts established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for Federal land management agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under section 6806 of this title and shall be available to the Secretary in accordance with this chapter. A special account established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 4 <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 by subsection (a) of this section.
 
 **(2) National parks passport**
 
-Any funds collected under title VI <sup>1</sup> of the National Parks Omnibus Management Act of 1998 (Public Law 105–391) that are unobligated on the day before the publication of the Federal Register notice required under section 6804(a)(3) of this title shall be transferred to the special account of the National Park Service for use in accordance with this chapter. The Secretary of the Interior may use amounts available in that special account to pay any outstanding administration, marketing, or close-out costs associated with the national parks passport.
+Any funds collected under title VI <sup>1</sup> of the National Parks Omnibus Management Act of 1998 (Public Law 105–391) that are unobligated on the day before the publication of the Federal Register notice required under section 6804(a)(3) of this title shall be transferred to the special account of the National Park Service for use in accordance with this chapter. The Secretary of the Interior may use amounts available in that special account to pay any outstanding administration, marketing, or close-out costs associated with the national parks passport.
 
 **(3) Recreational fee demonstration program**
 
-Any funds collected in accordance with section 315 <sup>1</sup> of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134), that are unobligated on the day before December 8, 2004, shall be transferred to the appropriate special account and shall be available to the Secretary in accordance with this chapter.
+Any funds collected in accordance with section 315 <sup>1</sup> of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134), that are unobligated on the day before December 8, 2004, shall be transferred to the appropriate special account and shall be available to the Secretary in accordance with this chapter.
 
 **(4) Admission permits for refuge units**
 
@@ -1333,39 +1333,39 @@ Any funds collected in accordance with section 3911 of this title that are avail
 
 A regulation or policy issued under a provision of law repealed by this section shall remain in effect to the extent such a regulation or policy is consistent with the provisions of this chapter until the Secretary issues a regulation, guideline, or policy under this chapter that supersedes the earlier regulation.
 
-(Pub. L. 108–447, div. J, title VIII, § 813, Dec. 8, 2004, 118 Stat. 3390; Pub. L. 109–54, title I, § 132(a), Aug. 2, 2005, 119 Stat. 526; Pub. L. 113–287, § 5(d)(37), Dec. 19, 2014, 128 Stat. 3268.)
+(Pub. L. 108–447, div. J, title VIII, § 813, Dec. 8, 2004, 118 Stat. 3390; Pub. L. 109–54, title I, § 132(a), Aug. 2, 2005, 119 Stat. 526; Pub. L. 113–287, § 5(d)(37), Dec. 19, 2014, 128 Stat. 3268.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4 of the Land and Water Conservation Fund Act of 1965, referred to in subsecs. (a) and (e)(1), was section 4 of Pub. L. 88–578, title I, as added by Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459, which was classified to former section 460*l*–6a of this title. Subsecs. (a) to (g) and (i) (except par. (1)(C)) of section 4 were repealed by subsec. (a) of this section. Subsec. (h) of section 4 was previously repealed by Pub. L. 104–66, title I, § 1081(f), Dec. 21, 1995, 109 Stat. 721. Subsecs. (i)(1)(C) and (j) to (n) of section 4 were repealed and restated as section 100904 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
+Section 4 of the Land and Water Conservation Fund Act of 1965, referred to in subsecs. (a) and (e)(1), was section 4 of Pub. L. 88–578, title I, as added by Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459, which was classified to former section 460*l*–6a of this title. Subsecs. (a) to (g) and (i) (except par. (1)(C)) of section 4 were repealed by subsec. (a) of this section. Subsec. (h) of section 4 was previously repealed by Pub. L. 104–66, title I, § 1081(f), Dec. 21, 1995, 109 Stat. 721. Subsecs. (i)(1)(C) and (j) to (n) of section 4 were repealed and restated as section 100904 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
 
 The date the notice required by section 6804(a)(3) of this title is published in the Federal Register, referred to in subsecs. (a), (d), and (e)(2), is Dec. 19, 2006. See 71 F.R. 75935.
 
 Sections 6804 and 6806 of this title, referred to in subsecs. (a), (d), and (e)(1), (2), were in the original references to sections 5 and 7, respectively, and were translated as meaning section 805 and 807, respectively, of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-Section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996, referred to in subsecs. (b) and (e)(3), is Pub. L. 104–134, title I, § 101(c) [title III, § 315], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200, which was set out as a note under former section 460*l*–6a of this title, prior to repeal by subsec. (b) of this section.
+Section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996, referred to in subsecs. (b) and (e)(3), is Pub. L. 104–134, title I, § 101(c) [title III, § 315], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200, which was set out as a note under former section 460*l*–6a of this title, prior to repeal by subsec. (b) of this section.
 
-The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497. Section 502 of the Act was classified to section 5982 of this title, and title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by subsec. (d) of this section. For complete classification of this Act to the Code, see Tables.
+The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497. Section 502 of the Act was classified to section 5982 of this title, and title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by subsec. (d) of this section. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsecs. (e) and (f), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–287, § 5(d)(37)(A), which directed amendment of “subsection (A)” by striking out “(16 U.S.C. 460*l*–6a et seq.)”, was executed by striking out that language after “1965” in subsec. (a) to reflect the probable intent of Congress.
+2014—Subsec. (a). Pub. L. 113–287, § 5(d)(37)(A), which directed amendment of “subsection (A)” by striking out “(16 U.S.C. 460*l*–6a et seq.)”, was executed by striking out that language after “1965” in subsec. (a) to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 113–287, § 5(d)(37)(B), struck out “; 16 U.S.C. 460*l*–6a” after “Public Law 104–134”.
+Subsec. (b). Pub. L. 113–287, § 5(d)(37)(B), struck out “; 16 U.S.C. 460*l*–6a” after “Public Law 104–134”.
 
-Subsec. (d)(1). Pub. L. 113–287, § 5(d)(37)(C)(i), which directed amendment of subsec. (c)(1) by striking out “; 16 U.S.C. 5982”, was executed by striking out that language after “(Public Law 105–391” in subsec. (d)(1), to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 113–287, § 5(d)(37)(C)(i), which directed amendment of subsec. (c)(1) by striking out “; 16 U.S.C. 5982”, was executed by striking out that language after “(Public Law 105–391” in subsec. (d)(1), to reflect the probable intent of Congress.
 
-Subsec. (d)(2). Pub. L. 113–287, § 5(d)(37)(C)(ii), which directed amendment of subsec. (c)(2) by striking out “; 16 U.S.C. 5991–5995”, was executed by striking out that language after “(Public Law 105–391” in subsec. (d)(2), to reflect the probable intent of Congress.
+Subsec. (d)(2). Pub. L. 113–287, § 5(d)(37)(C)(ii), which directed amendment of subsec. (c)(2) by striking out “; 16 U.S.C. 5991–5995”, was executed by striking out that language after “(Public Law 105–391” in subsec. (d)(2), to reflect the probable intent of Congress.
 
-Subsec. (e)(1). Pub. L. 113–287, § 5(d)(37)(D)(i), struck out “(16 U.S.C. 460*l*–6a(i)(1))” after “accounts established under section 4(i)(1) of the Land and Water Conservation Fund Act of 1965”.
+Subsec. (e)(1). Pub. L. 113–287, § 5(d)(37)(D)(i), struck out “(16 U.S.C. 460*l*–6a(i)(1))” after “accounts established under section 4(i)(1) of the Land and Water Conservation Fund Act of 1965”.
 
-Subsec. (e)(2). Pub. L. 113–287, § 5(d)(37)(D)(ii), struck out “; 16 U.S.C. 5991–5995” after “(Public Law 105–391”.
+Subsec. (e)(2). Pub. L. 113–287, § 5(d)(37)(D)(ii), struck out “; 16 U.S.C. 5991–5995” after “(Public Law 105–391”.
 
-Subsec. (e)(3). Pub. L. 113–287, § 5(d)(37)(D)(iii), struck out “; 16 U.S.C. 460*l*–6a” after “Public Law 104–134”.
+Subsec. (e)(3). Pub. L. 113–287, § 5(d)(37)(D)(iii), struck out “; 16 U.S.C. 460*l*–6a” after “Public Law 104–134”.
 
 2005—Subsec. (a). Pub. L. 109–54 inserted “(except for paragraph (1)(C))” after “and (i)”.
 
@@ -1373,9 +1373,9 @@ Subsec. (e)(3). Pub. L. 113–287, § 5(d)(37)(D)(iii), struck out “; 16 U
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–54, title I, § 132(d), Aug. 2, 2005, 119 Stat. 526, provided that: “This section [amending this section and former section 460*l*–6a of this title and enacting provisions set out as a note under section 100904 of Title 54, National Park Service and Related Programs] and the amendments made by this section take effect as of December 8, 2004.”
+Pub. L. 109–54, title I, § 132(d), Aug. 2, 2005, 119 Stat. 526, provided that: “This section [amending this section and former section 460*l*–6a of this title and enacting provisions set out as a note under section 100904 of Title 54, National Park Service and Related Programs] and the amendments made by this section take effect as of December 8, 2004.”
 
-## § 6813. Relation to other laws and fee collection authorities
+## § 6813. Relation to other laws and fee collection authorities
 
 **(a) Federal and State laws unaffected**
 
@@ -1393,9 +1393,9 @@ Nothing in this chapter shall authorize Federal hunting or fishing licenses or f
 
 **(5)** Title II of the Act of August 8, 1937,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-and the Act of May 24, 1939 (43 U.S.C. 1181f et seq.) 1.
+and the Act of May 24, 1939 (43 U.S.C. 1181f et seq.) 1.
 
 **(6)** Section 869–4 of title 43.
 
@@ -1413,7 +1413,7 @@ and the Act of May 24, 1939 (43 U.S.C. 1181f et seq.) 1.
 
 **(13)** The Act of February 25, 1920 (30 U.S.C. 181 et seq.; commonly known as the Mineral Leasing Act).
 
-**(14)** Section 4(e) of the Southern Nevada Public Land Management Act of 1998 (Public Law 105–263; 31 U.S.C. 6901 note) <sup>1</sup>.
+**(14)** Section 4(e) of the Southern Nevada Public Land Management Act of 1998 (Public Law 105–263; 31 U.S.C. 6901 note) <sup>1</sup>.
 
 **(15)** Section 5(a) of the Lincoln County Land Act of 2000 (Public Law 106–298; 114 Stat. 1047).
 
@@ -1435,7 +1435,7 @@ Notwithstanding any other provision of this chapter, a third party may charge a 
 
 Revenues from the stamp established under the Act of March 16, 1934 (16 U.S.C. 718 et seq.; commonly known as the Migratory Bird Hunting Stamp Act or Duck Stamp Act), shall not be covered by this chapter.
 
-(Pub. L. 108–447, div. J, title VIII, § 814, Dec. 8, 2004, 118 Stat. 3392.)
+(Pub. L. 108–447, div. J, title VIII, § 814, Dec. 8, 2004, 118 Stat. 3392.)
 
 **Editorial Notes**
 
@@ -1447,25 +1447,25 @@ Section 6805 of this title, referred to in subsec. (b), was in the original a re
 
 The Act of August 8, 1937, referred to in subsec. (b)(5), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874. Title II of the Act enacted section 2605 of Title 43, Public Lands, repealed section 1174 of Title 43, and enacted provisions set out as a note under section 2601 of Title 43. For complete classification of this Act to the Code, see Tables.
 
-The Act of May 24, 1939, referred to in subsec. (b)(5), is act May 24, 1939, ch. 144, 53 Stat. 753, was formerly classified to sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43 prior to editorial reclassification, and is now classified generally to subchapter II (§ 2621 et seq.) of chapter 44 of Title 43. For complete classification of this Act to the Code, see Tables.
+The Act of May 24, 1939, referred to in subsec. (b)(5), is act May 24, 1939, ch. 144, 53 Stat. 753, was formerly classified to sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43 prior to editorial reclassification, and is now classified generally to subchapter II (§ 2621 et seq.) of chapter 44 of Title 43. For complete classification of this Act to the Code, see Tables.
 
-The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (b)(9), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607. Sections 1 to 3 and titles I to IV of the Act were set out as notes under section 500 of this title prior to the repeal and reenactment of sections 1 to 403 of the Act by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893–3910. The new sections 1 to 403 of the Act are classified generally to chapter 90 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (b)(9), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607. Sections 1 to 3 and titles I to IV of the Act were set out as notes under section 500 of this title prior to the repeal and reenactment of sections 1 to 403 of the Act by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893–3910. The new sections 1 to 403 of the Act are classified generally to chapter 90 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460*l*–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460*l*–12 of this title and Tables.
+The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460*l*–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460*l*–12 of this title and Tables.
 
-The Act of February 25, 1920, referred to in subsec. (b)(13), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Act of February 25, 1920, referred to in subsec. (b)(13), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 Section 4(e) of the Southern Nevada Public Land Management Act of 1998, referred to in subsec. (b)(14), is section 4(e) of Pub. L. 105–263, Oct. 19, 1998, 112 Stat. 2345, which is not classified to the Code.
 
 Section 5(a) of the Lincoln County Land Act of 2000, referred to in subsec. (b)(15), is section 5(a) of Pub. L. 106–298, Oct. 13, 2000, 114 Stat. 1047, which is not classified to the Code.
 
-The Migratory Bird Hunting Stamp Act, referred to in subsec. (f), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in subsec. (f), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
 
-## § 6814. Limitation on use of fees for employee bonuses
+## § 6814. Limitation on use of fees for employee bonuses
 
 Notwithstanding any other provision of law, fees collected under the authorities of the chapter may not be used for employee bonuses.
 
-(Pub. L. 108–447, div. J, title VIII, § 815, Dec. 8, 2004, 118 Stat. 3393.)
+(Pub. L. 108–447, div. J, title VIII, § 815, Dec. 8, 2004, 118 Stat. 3393.)
 
 **Editorial Notes**
 

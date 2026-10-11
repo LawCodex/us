@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–117, § 2(b), Mar. 2, 2020, 134 Stat. 133, added subchapter IV heading and items 3351 to 3358.
+2020—Pub. L. 116–117, § 2(b), Mar. 2, 2020, 134 Stat. 133, added subchapter IV heading and items 3351 to 3358.
 
-1994—Pub. L. 103–356, title IV, § 402(b), Oct. 13, 1994, 108 Stat. 3413, substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” in item 3332.
+1994—Pub. L. 103–356, title IV, § 402(b), Oct. 13, 1994, 108 Stat. 3413, substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” in item 3332.
 
-Pub. L. 103–272, § 4(f)(1)(G), July 5, 1994, 108 Stat. 1362, added item 3334.
+Pub. L. 103–272, § 4(f)(1)(G), July 5, 1994, 108 Stat. 1362, added item 3334.
 
-1991—Pub. L. 102–54, § 13(*l*)(4)(B), June 13, 1991, 105 Stat. 277, substituted “Department of Veterans Affairs” for “Veterans’ Administration” in item 3330.
+1991—Pub. L. 102–54, § 13(*l*)(4)(B), June 13, 1991, 105 Stat. 277, substituted “Department of Veterans Affairs” for “Veterans’ Administration” in item 3330.
 
-1990—Pub. L. 101–453, § 4(b), Oct. 24, 1990, 104 Stat. 1059, added item 3335.
+1990—Pub. L. 101–453, § 4(b), Oct. 24, 1990, 104 Stat. 1059, added item 3335.
 
 **Executive Documents**
 
@@ -37,7 +37,7 @@ Ex. Ord. No. 14247, Mar. 25, 2025, 90 F.R. 13997, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
 
-Section 1. *Purpose*.[ ]The continued use of paper-based payments by the Federal Government, including checks and money orders, flowing into and out of the United States General Fund, which might be thought of as America’s bank account, imposes unnecessary costs; delays; and risks of fraud, lost payments, theft, and inefficiencies. Mail theft complaints have increased substantially since the COVID-19 pandemic. Historically, Department of the Treasury checks are 16 times more likely to be reported lost or stolen, returned undeliverable, or altered than an electronic funds transfer (EFT). Maintaining the physical infrastructure and specialized technology for digitizing paper records cost the American taxpayer over $657 million in Fiscal Year 2024 alone.
+Section 1. *Purpose*.[ ]The continued use of paper-based payments by the Federal Government, including checks and money orders, flowing into and out of the United States General Fund, which might be thought of as America’s bank account, imposes unnecessary costs; delays; and risks of fraud, lost payments, theft, and inefficiencies. Mail theft complaints have increased substantially since the COVID-19 pandemic. Historically, Department of the Treasury checks are 16 times more likely to be reported lost or stolen, returned undeliverable, or altered than an electronic funds transfer (EFT). Maintaining the physical infrastructure and specialized technology for digitizing paper records cost the American taxpayer over $657 million in Fiscal Year 2024 alone.
 
 This order promotes operational efficiency by mandating the transition to electronic payments for all Federal disbursements and receipts by digitizing payments to the extent permissible under applicable law (but not, for avoidance of doubt, to establish a Central Bank Digital Currency).
 
@@ -99,7 +99,7 @@ Donald J. Trump.
 
 ## SUBCHAPTER I—DEPOSITS AND DEPOSITARIES
 
-### § 3301. General duties of the Secretary of the Treasury
+### § 3301. General duties of the Secretary of the Treasury
 
 **(a)** The Secretary of the Treasury shall—
 
@@ -123,38 +123,38 @@ Donald J. Trump.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3301 | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:147(less disbursement). | R.S. § 305(less disbursement). |
+| 3301 | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:147(less disbursement). | R.S. § 305(less disbursement). |
 
-In subsection (a), the words “public money” are substituted for “the moneys of the United States” to eliminate unnecessary words and for consistency. The words “Secretary of the Treasury” are substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. In clauses (3) and (4), the words “deposited in the Treasury” are substituted for “received by him” for clarity and consistency in the revised title. In clause (4), the words “signed by the Secretary of the Treasury” are omitted as surplus. In clauses (5) and (6), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. In clause (5), the word “submit” is substituted for “render” for consistency. The words “and shall transmit a copy thereof, when settled, to the Secretary of the Treasury” are omitted because of the restatement. In clause (6), the words “Secretary of the Treasury . . . or either of them” are omitted because of the restatement. The word “public” is added for consistency.
+In subsection (a), the words “public money” are substituted for “the moneys of the United States” to eliminate unnecessary words and for consistency. The words “Secretary of the Treasury” are substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. In clauses (3) and (4), the words “deposited in the Treasury” are substituted for “received by him” for clarity and consistency in the revised title. In clause (4), the words “signed by the Secretary of the Treasury” are omitted as surplus. In clauses (5) and (6), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. In clause (5), the word “submit” is substituted for “render” for consistency. The words “and shall transmit a copy thereof, when settled, to the Secretary of the Treasury” are omitted because of the restatement. In clause (6), the words “Secretary of the Treasury . . . or either of them” are omitted because of the restatement. The word “public” is added for consistency.
 
-In subsection (b), the words “Except as provided in section 3326 of this title” are added for clarity. The words “endorse . . . as required by subsection (a)(4) of this section” are substituted for “so signed” for clarity and consistency.
+In subsection (b), the words “Except as provided in section 3326 of this title” are added for clarity. The words “endorse . . . as required by subsection (a)(4) of this section” are substituted for “so signed” for clarity and consistency.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–117, § 1, Mar. 2, 2020, 134 Stat. 113, provided that: “This Act [enacting subchapter IV of this chapter, amending section 3562 of this title, section 612 of Title 6, Domestic Security, and section 1397ee of Title 42, The Public Health and Welfare, amending provisions set out as a note under 5701 of Title 5, Government Organization and Employees, and repealing provisions set out as notes under this section and section 3321 of this title] may be cited as the ‘Payment Integrity Information Act of 2019’.”
+Pub. L. 116–117, § 1, Mar. 2, 2020, 134 Stat. 113, provided that: “This Act [enacting subchapter IV of this chapter, amending section 3562 of this title, section 612 of Title 6, Domestic Security, and section 1397ee of Title 42, The Public Health and Welfare, amending provisions set out as a note under 5701 of Title 5, Government Organization and Employees, and repealing provisions set out as notes under this section and section 3321 of this title] may be cited as the ‘Payment Integrity Information Act of 2019’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–109, § 1, Dec. 18, 2015, 129 Stat. 2225, provided that: “This Act [amending provisions set out as a note under section 3321 of this title] may be cited as the ‘Federal Improper Payments Coordination Act of 2015’.”
+Pub. L. 114–109, § 1, Dec. 18, 2015, 129 Stat. 2225, provided that: “This Act [amending provisions set out as a note under section 3321 of this title] may be cited as the ‘Federal Improper Payments Coordination Act of 2015’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–204, § 1, July 22, 2010, 124 Stat. 2224, which provided that Pub. L. 111–204 (amending sections 3501 and 3562 of this title and section 612 of Title 6, Domestic Security, repealing sections 3561 and 3563 to 3567 of this title, enacting provisions set out as notes under section 3321 of this title, and amending provisions set out as a note under section 3321 of this title) could be cited as the “Improper Payments Elimination and Recovery Act of 2010”, was repealed by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
+Pub. L. 111–204, § 1, July 22, 2010, 124 Stat. 2224, which provided that Pub. L. 111–204 (amending sections 3501 and 3562 of this title and section 612 of Title 6, Domestic Security, repealing sections 3561 and 3563 to 3567 of this title, enacting provisions set out as notes under section 3321 of this title, and amending provisions set out as a note under section 3321 of this title) could be cited as the “Improper Payments Elimination and Recovery Act of 2010”, was repealed by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–433, § 1, Nov. 6, 2000, 114 Stat. 1910, provided that: “This Act [amending section 3327 of this title and enacting provisions set out as a note under section 3327 of this title] may be cited as the ‘Social Security Number Confidentiality Act of 2000’.”
+Pub. L. 106–433, § 1, Nov. 6, 2000, 114 Stat. 1910, provided that: “This Act [amending section 3327 of this title and enacting provisions set out as a note under section 3327 of this title] may be cited as the ‘Social Security Number Confidentiality Act of 2000’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–356, § 1(a), Oct. 13, 1994, 108 Stat. 3410, provided that: “This Act [see Tables for classification] may be cited as the ‘Government Management Reform Act of 1994’.”
+Pub. L. 103–356, § 1(a), Oct. 13, 1994, 108 Stat. 3410, provided that: “This Act [see Tables for classification] may be cited as the ‘Government Management Reform Act of 1994’.”
 
-Pub. L. 103–356, title IV, § 401, Oct. 13, 1994, 108 Stat. 3412, provided that: “This title [amending sections 331, 3332, 3515, and 3521 of this title and enacting provisions set out as notes under section 501 of this title] may be cited as the ‘Federal Financial Management Act of 1994’.”
+Pub. L. 103–356, title IV, § 401, Oct. 13, 1994, 108 Stat. 3412, provided that: “This title [amending sections 331, 3332, 3515, and 3521 of this title and enacting provisions set out as notes under section 501 of this title] may be cited as the ‘Federal Financial Management Act of 1994’.”
 
-### § 3302. Custodians of money
+### § 3302. Custodians of money
 
 **(a)** Except as provided by another law, an official or agent of the United States Government having custody or possession of public money shall keep the money safe without—
 
@@ -166,9 +166,9 @@ Pub. L. 103–356, title IV, § 401, Oct. 13, 1994, 108 Stat. 3412, provided t
 
 **(4)** exchanging the money for other amounts.
 
-**(b)** Except as provided in section 3718(b) 1
+**(b)** Except as provided in section 3718(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, an official or agent of the Government receiving money for the Government from any source shall deposit the money in the Treasury as soon as practicable without deduction for any charge or claim.
 
@@ -184,7 +184,7 @@ of this title, an official or agent of the Government receiving money for the Go
 
 **(f)** When authorized by the Secretary, an official or agent of the Government having custody or possession of public money, or performing other fiscal agent services, may be allowed necessary expenses to collect, keep, transfer, and pay out public money and to perform those services. However, money appropriated for those expenses may not be used to employ or pay officers and employees of the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 948; Pub. L. 97–452, § 1(10), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 98–369, div. B, title VI, § 2652(b)(1), July 18, 1984, 98 Stat. 1152; Pub. L. 103–272, § 4(f)(1)(H), July 5, 1994, 108 Stat. 1362; Pub. L. 103–429, § 7(a)(3)(A), Oct. 31, 1994, 108 Stat. 4388.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 948; Pub. L. 97–452, § 1(10), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 98–369, div. B, title VI, § 2652(b)(1), July 18, 1984, 98 Stat. 1152; Pub. L. 103–272, § 4(f)(1)(H), July 5, 1994, 108 Stat. 1362; Pub. L. 103–429, § 7(a)(3)(A), Oct. 31, 1994, 108 Stat. 4388.)
 
 **Historical and Revision Notes**
 
@@ -192,17 +192,17 @@ of this title, an official or agent of the Government receiving money for the Go
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3302(a) | 31:521. | R.S. § 3639; June 6, 1972, Pub. L. 92–310, § 231(r), 86 Stat. 210. |
-| 3302(b) | 31:484. | R.S. § 3617. |
-| 3302(c) | 31:495. | R.S. § 3621; restated May 28, 1896, ch. 252, § 5, 29 Stat. 179. |
-| 3302(d) | 31:490. | R.S. § 3619. |
-| 3302(e) | 31:525. | R.S. § 3643. |
-| 3302(f) | 31:545. | R.S. § 3653; Aug. 7, 1882, ch. 433, § 1(2d complete par. on p. 312), 22 Stat. 312; Jan. 22, 1925, ch. 87(2d par. under heading “Division of Bookkeeping and Warrants”), 43 Stat. 767. |
-|  | 31:1023(b). | June 1, 1955, ch. 119, § 1(b), 69 Stat. 82. |
+| 3302(a) | 31:521. | R.S. § 3639; June 6, 1972, Pub. L. 92–310, § 231(r), 86 Stat. 210. |
+| 3302(b) | 31:484. | R.S. § 3617. |
+| 3302(c) | 31:495. | R.S. § 3621; restated May 28, 1896, ch. 252, § 5, 29 Stat. 179. |
+| 3302(d) | 31:490. | R.S. § 3619. |
+| 3302(e) | 31:525. | R.S. § 3643. |
+| 3302(f) | 31:545. | R.S. § 3653; Aug. 7, 1882, ch. 433, § 1(2d complete par. on p. 312), 22 Stat. 312; Jan. 22, 1925, ch. 87(2d par. under heading “Division of Bookkeeping and Warrants”), 43 Stat. 767. |
+|  | 31:1023(b). | June 1, 1955, ch. 119, § 1(b), 69 Stat. 82. |
 
-In subsection (a), before clause (1), the words “Except as provided by another law” are substituted for “than as specially allowed by law” in 31:521 for clarity and consistency. The words “an official or agent of the United States Government having custody or possession of public money” are substituted for “The Treasurer of the United States, all assistant treasurers [subsequently changed to ‘all depositaries designated in accordance with section 476 of this title’ because of 31:476], and those performing the duties of assistant treasurer, all collectors of the customs, all surveyors of the customs, acting also as collectors, all receivers of public moneys at the several land offices, all postmasters, and all public officers of whatsoever character . . . all the public money collected by them, or otherwise at any time placed in their possession and custody” to eliminate unnecessary words and for consistency in the revised title. The words “till the same is ordered, by the proper department or officer of the Government, to be transferred or paid out” are omitted as superseded by source provisions restated in the chapter. The text of 31:521(words after semicolon) is omitted as unnecessary because of the restatement.
+In subsection (a), before clause (1), the words “Except as provided by another law” are substituted for “than as specially allowed by law” in 31:521 for clarity and consistency. The words “an official or agent of the United States Government having custody or possession of public money” are substituted for “The Treasurer of the United States, all assistant treasurers [subsequently changed to ‘all depositaries designated in accordance with section 476 of this title’ because of 31:476], and those performing the duties of assistant treasurer, all collectors of the customs, all surveyors of the customs, acting also as collectors, all receivers of public moneys at the several land offices, all postmasters, and all public officers of whatsoever character . . . all the public money collected by them, or otherwise at any time placed in their possession and custody” to eliminate unnecessary words and for consistency in the revised title. The words “till the same is ordered, by the proper department or officer of the Government, to be transferred or paid out” are omitted as superseded by source provisions restated in the chapter. The text of 31:521(words after semicolon) is omitted as unnecessary because of the restatement.
 
-In subsection (b), the words “any abatement or” are omitted as surplus. The words “for any charge or claim” are substituted for “on account of salary, fees, costs, charges, expenses, or claim of any description whatever”, and the words “shall deposit the money in the Treasury” are substituted for “The gross amount of all moneys received from whatever source for the use of the United States, . . . shall be paid . . . into the Treasury”, to eliminate unnecessary words. The words “except as otherwise provided in section 487 of this title” are omitted because 31:487 is obsolete. The text of 31:484(last sentence) is omitted as superseded by title 39.
+In subsection (b), the words “any abatement or” are omitted as surplus. The words “for any charge or claim” are substituted for “on account of salary, fees, costs, charges, expenses, or claim of any description whatever”, and the words “shall deposit the money in the Treasury” are substituted for “The gross amount of all moneys received from whatever source for the use of the United States, . . . shall be paid . . . into the Treasury”, to eliminate unnecessary words. The words “except as otherwise provided in section 487 of this title” are omitted because 31:487 is obsolete. The text of 31:484(last sentence) is omitted as superseded by title 39.
 
 In subsection (c), the word “Secretary” is substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The balance of subsection (c) is substituted for 31:495(words before proviso) for clarity and consistency. The text of 31:495(proviso) is omitted as superseded by title 39.
 
@@ -210,13 +210,13 @@ Subsection (d) is substituted for 31:490 for clarity and consistency.
 
 In subsection (e), the words “official or agent having custody or possession of public money” are substituted for “persons charged by law with the safekeeping, transfer, and disbursements of the public moneys” for consistency and to eliminate unnecessary words. The words “other than those connected with the United States Postal Service” are omitted as superseded by title 39.
 
-In subsection (f), the word “expressly” is omitted as surplus. The words “official or agent having custody or possession” are substituted for 31:545(words before 21st comma) for consistency and to eliminate unnecessary words. The words “additional . . . fireproof of chests or vaults or other necessary expenses of” are omitted as surplus. The words “employ or pay officers and employees of the Government” are substituted for “clerical services or payment of employees of any nature or grade” for consistency in the revised title and with other titles of the United States Code.
+In subsection (f), the word “expressly” is omitted as surplus. The words “official or agent having custody or possession” are substituted for 31:545(words before 21st comma) for consistency and to eliminate unnecessary words. The words “additional . . . fireproof of chests or vaults or other necessary expenses of” are omitted as surplus. The words “employ or pay officers and employees of the Government” are substituted for “clerical services or payment of employees of any nature or grade” for consistency in the revised title and with other titles of the United States Code.
 
 **1983 Act**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3302(b) | 31 App.:484. | Oct. 25, 1982, Pub. L. 97–365, § 13(a), 96 Stat. 1757. |
+| 3302(b) | 31 App.:484. | Oct. 25, 1982, Pub. L. 97–365, § 13(a), 96 Stat. 1757. |
 
 The reference to “952(g)(2)” in 31 App.:484 is incorrect and should be “952(f)(2)”.
 
@@ -228,13 +228,13 @@ Section 3618 (1st sentence related to non-military deposits) of the Revised Stat
 
 **References in Text**
 
-Section 3718(b) of this title, referred to in subsec. (b), was redesignated section 3718(d) of this title by Pub. L. 99–578, § 1(1), Oct. 28, 1986, 100 Stat. 3305.
+Section 3718(b) of this title, referred to in subsec. (b), was redesignated section 3718(d) of this title by Pub. L. 99–578, § 1(1), Oct. 28, 1986, 100 Stat. 3305.
 
 **Amendments**
 
 1994—Subsec. (c)(1). Pub. L. 103–272, as amended by Pub. L. 103–429, substituted a period for a comma at end of second sentence.
 
-1984—Subsec. (c). Pub. L. 98–369 designated existing provisions as par. (1), struck out “, but not later than the 30th day after the custodian receives the money,” after “without delay” in first sentence, inserted after first sentence “Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall be deposited not later than the third day after the custodian receives the money,”, and added par. (2).
+1984—Subsec. (c). Pub. L. 98–369 designated existing provisions as par. (1), struck out “, but not later than the 30th day after the custodian receives the money,” after “without delay” in first sentence, inserted after first sentence “Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall be deposited not later than the third day after the custodian receives the money,”, and added par. (2).
 
 1983—Subsec. (b). Pub. L. 97–452 inserted exception relating to section 3718(b) of this title.
 
@@ -242,13 +242,13 @@ Section 3718(b) of this title, referred to in subsec. (b), was redesignated sect
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–429, § 7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by that section is effective July 5, 1994.
+Pub. L. 103–429, § 7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by that section is effective July 5, 1994.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. B, title VI, § 2652(b)(2), July 18, 1984, 98 Stat. 1153, provided that: “The amendments made by this subsection [amending this section] shall become effective January 1, 1985.”
+Pub. L. 98–369, div. B, title VI, § 2652(b)(2), July 18, 1984, 98 Stat. 1153, provided that: “The amendments made by this subsection [amending this section] shall become effective January 1, 1985.”
 
-### § 3303. Designation of depositaries
+### § 3303. Designation of depositaries
 
 **(a)** The Secretary of the Treasury designates depositaries of money as provided in this section and under other law.
 
@@ -265,9 +265,9 @@ Pub. L. 98–369, div. B, title VI, § 2652(b)(2), July 18, 1984, 98 Stat. 115
 
 Subsection (a) is added to inform the reader that there are numerous other laws providing for the designation of depositaries. These other laws are scattered throughout the titles of the United States Code.
 
-In subsection (b), the words “carry out” are substituted for “transaction” for consistency. The words “terms and . . . as to security and otherwise” and “of public moneys” are omitted as surplus. The words “territories and possessions of the United States” are substituted for “Territories and insular possessions of the United States” for consistency. The words “to receive deposits of public money” are added for clarity.
+In subsection (b), the words “carry out” are substituted for “transaction” for consistency. The words “terms and . . . as to security and otherwise” and “of public moneys” are omitted as surplus. The words “territories and possessions of the United States” are substituted for “Territories and insular possessions of the United States” for consistency. The words “to receive deposits of public money” are added for clarity.
 
-### § 3304. Transfers of public money from depositaries
+### § 3304. Transfers of public money from depositaries
 
 The Secretary of the Treasury may transfer public money in the possession of a depositary—
 
@@ -281,11 +281,11 @@ The Secretary of the Treasury may transfer public money in the possession of a d
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3304 | 31:522. | R.S. § 3640. |
+| 3304 | 31:522. | R.S. § 3640. |
 
 In the section, before clause (1), the words “except as provided in section 523 of this title” are omitted as superseded by title 39. The words “of the United States, to the credit of the Treasurer” are omitted as unnecessary. In clause (2), the words “if the Secretary believes the safety of the public money and convenience require it” are substituted for “as the safety of the public moneys and the convenience of the public service shall seem to him to require” for clarity and to eliminate unnecessary words.
 
-### § 3305. Audits of depositaries
+### § 3305. Audits of depositaries
 
 The Secretary of the Treasury, or an officer, employee, or agent designated by the Secretary, may audit a depositary of public money. For uniformity and accuracy in accounts and safety of public money, an individual conducting an audit shall audit a depositary’s—
 
@@ -303,13 +303,13 @@ The Secretary of the Treasury, or an officer, employee, or agent designated by t
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3305 | 31:548. | R.S. § 3649. |
+| 3305 | 31:548. | R.S. § 3649. |
 
 In the section, before clause (1), the words “or an officer, employee, or agent designated by the Secretary” are substituted for “and for that purpose to appoint special agents, as occasion may require” for clarity and consistency. The words “may audit a depositary of public money” are substituted for “is authorized to cause examinations to be made of the books, accounts and money on hand, of the several depositaries” to eliminate unnecessary words and for consistency. The words “with such compensation, not exceeding $6 per day and traveling expenses, as he may think reasonable, to be fixed and declared at the time of each appointment” are omitted as superseded by 5:3109 and ch. 57. The words “be instructed to” and “as well” are omitted as surplus.
 
 ## SUBCHAPTER II—PAYMENTS
 
-### § 3321. Disbursing authority in the executive branch
+### § 3321. Disbursing authority in the executive branch
 
 **(a)** Except as provided in this section or another law, only officers and employees of the Department of the Treasury designated by the Secretary of the Treasury as disbursing officials may disburse public money available for expenditure by an executive agency.
 
@@ -323,21 +323,21 @@ In the section, before clause (1), the words “or an officer, employee, or agen
 
 **(3)** The Department of Homeland Security.1
 
-<sup>1</sup>  So in original. The period probably should not appear.
+<sup>1</sup> So in original. The period probably should not appear.
 
 (with respect to public money available for expenditure by the Coast Guard when it is not operating as a service in the Navy).
 
 **(d)** On request of the Secretary and with the approval of the head of an executive agency referred to in subsection (c) of this section, facilities of the agency may be used to assist in disbursing public money available for expenditure by another executive agency.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 949; Pub. L. 103–355, title III, § 3067, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. A, title IX, § 913(a)(1), Feb. 10, 1996, 110 Stat. 410; Pub. L. 104–201, div. A, title X, § 1009(a)(1), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 109–241, title IX, § 902(b)(1), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 949; Pub. L. 103–355, title III, § 3067, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. A, title IX, § 913(a)(1), Feb. 10, 1996, 110 Stat. 410; Pub. L. 104–201, div. A, title X, § 1009(a)(1), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 109–241, title IX, § 902(b)(1), July 11, 2006, 120 Stat. 566.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3321(a), (b) | 5:901(note). | Exec. Order No. 6166, June 10, 1933, § 4. |
-| 3321(c), (d) | 31:492–1. | R.S. § 176; Sept. 6, 1966, Pub. L. 89–554, § 8(a), 80 Stat. 632; June 6, 1972, Pub. L. 92–310, § 231(a), 86 Stat. 209. |
-|  | 5 App. | Reorg. Plan No. 4 of 1940, eff. June 30, 1940, §§ 3, 4, 54 Stat. 1234. |
+| 3321(a), (b) | 5:901(note). | Exec. Order No. 6166, June 10, 1933, § 4. |
+| 3321(c), (d) | 31:492–1. | R.S. § 176; Sept. 6, 1966, Pub. L. 89–554, § 8(a), 80 Stat. 632; June 6, 1972, Pub. L. 92–310, § 231(a), 86 Stat. 209. |
+|  | 5 App. | Reorg. Plan No. 4 of 1940, eff. June 30, 1940, §§ 3, 4, 54 Stat. 1234. |
 |  |  | Exec. Order No. 6728, May 29, 1934. |
 
 The section uses the defined term “executive agency” in section 102 of the revised title because the source provisions of this section are from a reorganization plan and executive orders that apply only to departments, agencies, and instrumentalities of the executive branch of the United States Government.
@@ -440,27 +440,27 @@ Pub. L. 115–91, div. A, title XVIII, Dec. 12, 2017, 131 Stat. 1814, provided t
 
 **Fraud Reduction and Data Analytics**
 
-Pub. L. 114–186, June 30, 2016, 130 Stat. 546, known as the “Fraud Reduction and Data Analytics Act of 2015”, which established financial and administrative controls relating to fraud and improper payments, including the establishment of a working group, was repealed by Pub. L. 116–117, § 3(a)(4), Mar. 2, 2020, 134 Stat. 133.
+Pub. L. 114–186, June 30, 2016, 130 Stat. 546, known as the “Fraud Reduction and Data Analytics Act of 2015”, which established financial and administrative controls relating to fraud and improper payments, including the establishment of a working group, was repealed by Pub. L. 116–117, § 3(a)(4), Mar. 2, 2020, 134 Stat. 133.
 
 **Improper Payments Elimination and Recovery Improvement**
 
-Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, § 204(c), Dec. 26, 2013, 127 Stat. 1181; Pub. L. 114–109, §§ 2–4, Dec. 18, 2015, 129 Stat. 2225–2227; Pub. L. 117–286, § 4(b)(53), Dec. 27, 2022, 136 Stat. 4349, known as the “Improper Payments Elimination and Recovery Improvement Act of 2012”, which set out to improve identification, prevention, and recovery of improper payments, including through the establishment of the Do Not Pay Initiative, was repealed by Pub. L. 116–117, § 3(a)(3), Mar. 2, 2020, 134 Stat. 133.
+Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, § 204(c), Dec. 26, 2013, 127 Stat. 1181; Pub. L. 114–109, §§ 2–4, Dec. 18, 2015, 129 Stat. 2225–2227; Pub. L. 117–286, § 4(b)(53), Dec. 27, 2022, 136 Stat. 4349, known as the “Improper Payments Elimination and Recovery Improvement Act of 2012”, which set out to improve identification, prevention, and recovery of improper payments, including through the establishment of the Do Not Pay Initiative, was repealed by Pub. L. 116–117, § 3(a)(3), Mar. 2, 2020, 134 Stat. 133.
 
 **Determinations of Agency Readiness for Opinion on Internal Control**
 
-Pub. L. 111–204, § 2(g), July 22, 2010, 124 Stat. 2228, which provided for determinations of agency readiness for opinions on internal control, was repealed by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
+Pub. L. 111–204, § 2(g), July 22, 2010, 124 Stat. 2228, which provided for determinations of agency readiness for opinions on internal control, was repealed by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
 
 **Recovery Audits**
 
-Pub. L. 111–204, § 2(h), July 22, 2010, 124 Stat. 2228, as amended by Pub. L. 112–248, § 3(c)(1), Jan. 10, 2013, 126 Stat. 2392, which provided that certain agencies would conduct recovery audits and set out terms and procedures for the audits, was repealed by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
+Pub. L. 111–204, § 2(h), July 22, 2010, 124 Stat. 2228, as amended by Pub. L. 112–248, § 3(c)(1), Jan. 10, 2013, 126 Stat. 2392, which provided that certain agencies would conduct recovery audits and set out terms and procedures for the audits, was repealed by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
 
 **Compliance**
 
-Pub. L. 111–204, § 3, July 22, 2010, 124 Stat. 2232, as amended by Pub. L. 112–248, § 3(c)(2), Jan. 10, 2013, 126 Stat. 2392, which provided for compliance procedures and standards related to the recovery of improper payments, was repealed by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
+Pub. L. 111–204, § 3, July 22, 2010, 124 Stat. 2232, as amended by Pub. L. 112–248, § 3(c)(2), Jan. 10, 2013, 126 Stat. 2392, which provided for compliance procedures and standards related to the recovery of improper payments, was repealed by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
 
 **Improper Payments**
 
-Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, as amended by Pub. L. 111–204, § 2(a)–(f), July 22, 2010, 124 Stat. 2224–2228; Pub. L. 112–248, §§ 3(a), (4), Jan. 10, 2013, 126 Stat. 2390, 2392, known as the “Improper Payments Information Act of 2002”, which established greater estimation and oversight of improper payment by Federal agencies, was repealed by Pub. L. 116–117, § 3(a)(1), Mar. 2, 2020, 134 Stat. 133. See, generally, subchapter IV of this chapter.
+Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, as amended by Pub. L. 111–204, § 2(a)–(f), July 22, 2010, 124 Stat. 2224–2228; Pub. L. 112–248, §§ 3(a), (4), Jan. 10, 2013, 126 Stat. 2390, 2392, known as the “Improper Payments Information Act of 2002”, which established greater estimation and oversight of improper payment by Federal agencies, was repealed by Pub. L. 116–117, § 3(a)(1), Mar. 2, 2020, 134 Stat. 133. See, generally, subchapter IV of this chapter.
 
 **Executive Documents**
 
@@ -608,7 +608,7 @@ Sec. 8. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 3322. Disbursing officials
+### § 3322. Disbursing officials
 
 **(a)** The Secretary of the Treasury shall transfer public money to a disbursing official only by draft or warrant written on the Treasury. Except as provided in section 3716 and section 3720A of this title and subsection (b) of this section, a disbursing official shall—
 
@@ -636,7 +636,7 @@ Donald J. Trump.
 
 **(B)** an equalization or other agreement.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 950; Pub. L. 98–216, § 1(3), Feb. 14, 1984, 98 Stat. 3; Pub. L. 104–134, title III, § 31001(g)(1)(A), Apr. 26, 1996, 110 Stat. 1321–363; Pub. L. 105–264, § 3(a)(1), Oct. 19, 1998, 112 Stat. 2352.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 950; Pub. L. 98–216, § 1(3), Feb. 14, 1984, 98 Stat. 3; Pub. L. 104–134, title III, § 31001(g)(1)(A), Apr. 26, 1996, 110 Stat. 1321–363; Pub. L. 105–264, § 3(a)(1), Oct. 19, 1998, 112 Stat. 2352.)
 
 **Historical and Revision Notes**
 
@@ -644,7 +644,7 @@ Donald J. Trump.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3322(a) | 31:492(a). | R.S. § 3620(a); Feb. 27, 1877, ch. 69(7th complete par. on p. 249), 19 Stat. 249; Aug. 28, 1965, Pub. L. 89–145, § 1(1), 79 Stat. 582. |
+| 3322(a) | 31:492(a). | R.S. § 3620(a); Feb. 27, 1877, ch. 69(7th complete par. on p. 249), 19 Stat. 249; Aug. 28, 1965, Pub. L. 89–145, § 1(1), 79 Stat. 582. |
 | 3322(b) | 31:82g(related to disbursing officers). | June 1, 1942, ch. 320(related to disbursing officers), 56 Stat. 306. |
 
 In the section, the words “disbursing official” are substituted for “disbursing officer” for consistency in the revised title.
@@ -677,17 +677,17 @@ Subsecs. (b), (c). Pub. L. 98–216 added subsec. (b) and redesignated former su
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–264, § 3(b), Oct. 19, 1998, 112 Stat. 2354, provided that: “The amendments made by this section [amending this section and sections 3528 and 3726 of this title] shall become effective 18 months after the date of the enactment of this Act [Oct. 19, 1998].”
+Pub. L. 105–264, § 3(b), Oct. 19, 1998, 112 Stat. 2354, provided that: “The amendments made by this section [amending this section and sections 3528 and 3726 of this title] shall become effective 18 months after the date of the enactment of this Act [Oct. 19, 1998].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–134, title III, § 31001(a)(2)(A), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “The provisions of this section [enacting sections 3720B to 3720E of this title, amending this section, sections 3325, 3331, 3332, 3343, 3701, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3701, 3711, 3716, and 3719 of this title and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under section 7701 of this title and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title] and the amendments made by this section shall take effect on the date of the enactment of this Act [Apr. 26, 1996].”
+Pub. L. 104–134, title III, § 31001(a)(2)(A), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “The provisions of this section [enacting sections 3720B to 3720E of this title, amending this section, sections 3325, 3331, 3332, 3343, 3701, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3701, 3711, 3716, and 3719 of this title and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under section 7701 of this title and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title] and the amendments made by this section shall take effect on the date of the enactment of this Act [Apr. 26, 1996].”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub. L. 98–216, set out as a note under section 490 of Title 18, Crimes and Criminal Procedure.
 
-### § 3323. Warrants
+### § 3323. Warrants
 
 **(a)** Except as provided in section 3326 of this title, the Secretary of the Treasury may pay out money only against a warrant. A warrant shall be—
 
@@ -713,13 +713,13 @@ Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3323(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:76(2d sentence words before 3d comma). | July 31, 1894, ch. 174, § 11(2d, 3d sentences), 28 Stat. 209. |
-|  | 31:147(related to disbursement). | R.S. § 305(related to disbursement); July 31, 1894, ch. 174, § 11(last sentence related to § 305), 28 Stat. 209. |
+| 3323(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:76(2d sentence words before 3d comma). | July 31, 1894, ch. 174, § 11(2d, 3d sentences), 28 Stat. 209. |
+|  | 31:147(related to disbursement). | R.S. § 305(related to disbursement); July 31, 1894, ch. 174, § 11(last sentence related to § 305), 28 Stat. 209. |
 | 3323(b) | 31:76(2d sentence words after 3d comma). |  |
 | 3323(c) | 31:76(3d sentence). |  |
 | 3323(d) | 31:44(1st sentence). |  |
-|  | 31:77. | R.S. § 3675. |
+|  | 31:77. | R.S. § 3675. |
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
@@ -731,7 +731,7 @@ In subsection (b)(1), the words “instead of being specified on the warrant” 
 
 In subsection (c), the word “depositing” is substituted for “covering” for clarity and consistency.
 
-### § 3324. Advances
+### § 3324. Advances
 
 **(a)** Except as provided in this section, a payment under a contract to provide a service or deliver an article for the United States Government may not be more than the value of the service already provided or the article already delivered.
 
@@ -769,21 +769,21 @@ In subsection (c), the word “depositing” is substituted for “covering” f
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3324(a) | 31:529(2d sentence). | R.S. § 3648; Aug. 2, 1946, ch. 744, § 11, 60 Stat. 809. |
+| 3324(a) | 31:529(2d sentence). | R.S. § 3648; Aug. 2, 1946, ch. 744, § 11, 60 Stat. 809. |
 | 3324(b) | 31:529(1st, 3d, last sentences). |  |
-| 3324(c) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:76(1st, last sentences). | July 31, 1894, ch. 174, § 11(1st, 4th sentences), 28 Stat. 209. |
-| 3324(d) | 31:530a. | June 12, 1930, ch. 470, § 1, 46 Stat. 580; July 20, 1961, Pub. L. 87–91, § 1, 75 Stat. 211. |
-|  | 31:530b. | June 12, 1930, ch. 470, 46 Stat. 580, § 2; added Dec. 22, 1974, Pub. L. 93–534, 88 Stat. 1731. |
-|  | 31:686–2. | Apr. 15, 1926, ch. 146, § 101(proviso on p. 267), 44 Stat. 267. |
+| 3324(c) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:76(1st, last sentences). | July 31, 1894, ch. 174, § 11(1st, 4th sentences), 28 Stat. 209. |
+| 3324(d) | 31:530a. | June 12, 1930, ch. 470, § 1, 46 Stat. 580; July 20, 1961, Pub. L. 87–91, § 1, 75 Stat. 211. |
+|  | 31:530b. | June 12, 1930, ch. 470, 46 Stat. 580, § 2; added Dec. 22, 1974, Pub. L. 93–534, 88 Stat. 1731. |
+|  | 31:686–2. | Apr. 15, 1926, ch. 146, § 101(proviso on p. 267), 44 Stat. 267. |
 
-In subsection (a), the words “Except as provided in this section” are added for clarity. The words “already provided” and “already delivered” are substituted for “rendered . . . delivered previously to such payment” for clarity and consistency.
+In subsection (a), the words “Except as provided in this section” are added for clarity. The words “already provided” and “already delivered” are substituted for “rendered . . . delivered previously to such payment” for clarity and consistency.
 
 In subsection (b), before clause (1), the words “in any case” and “It shall, however, be lawful under the special direction of” are omitted as surplus. In clause (2)(A)(i), the word “official” is substituted for “officer” for consistency in the revised title. The words “of the Government” are omitted as surplus. Clause (2)(A)(ii) is substituted for “the public engagements” for clarity. In clause (2)(B), the word “individual” is substituted for “persons” for consistency. The words “armed forces” are substituted for “military and naval service” for consistency with title 10. The words “and proper” are omitted as unnecessary. The words “disburse regularly pay and allowances” are substituted for “discharge of the pay and emoluments to which they may be entitled cannot be regularly effected” to eliminate unnecessary words, for clarity, and for consistency with title 37.
 
 In subsection (c), the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
-In subsection (d), before clause (1), the words “On and after April 15, 1926” in 31:686–2 are omitted as executed. The word “agency” is substituted for “department or establishment” because of section 101 of the revised title and for consistency. The words “may pay in advance from appropriations available for the purpose” are substituted for “may transfer in advance . . . such amounts as may be necessary to defray the expense of” for clarity and consistency. In clause (1), the words “Secretary of the Army” are substituted for “Signal Corps of the Army” because of 10:3012. The title of Secretary of War was changed to Secretary of the Army, and the Department of War was designated the Department of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). Clause (2) is substituted for 31:530a and 530b to eliminate unnecessary words. The words “or the municipal government of the District of Columbia” are omitted because of sections 441–445 and 736 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 798, 823).
+In subsection (d), before clause (1), the words “On and after April 15, 1926” in 31:686–2 are omitted as executed. The word “agency” is substituted for “department or establishment” because of section 101 of the revised title and for consistency. The words “may pay in advance from appropriations available for the purpose” are substituted for “may transfer in advance . . . such amounts as may be necessary to defray the expense of” for clarity and consistency. In clause (1), the words “Secretary of the Army” are substituted for “Signal Corps of the Army” because of 10:3012. The title of Secretary of War was changed to Secretary of the Army, and the Department of War was designated the Department of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). Clause (2) is substituted for 31:530a and 530b to eliminate unnecessary words. The words “or the municipal government of the District of Columbia” are omitted because of sections 441–445 and 736 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 798, 823).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -797,7 +797,7 @@ Funds available for expenditure without regard to this section, see section 289c
 
 Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
 
-### § 3325. Vouchers
+### § 3325. Vouchers
 
 **(a)** A disbursing official in the executive branch of the United States Government shall—
 
@@ -817,7 +817,7 @@ Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, s
 
 **(3)** except for the correctness of computations on a voucher or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 be held accountable for carrying out clauses (1) and (2) of this subsection.
 
@@ -827,16 +827,16 @@ be held accountable for carrying out clauses (1) and (2) of this subsection.
 
 **(d)** The head of an executive agency or an officer or employee of an executive agency referred to in subsection (a)(1)(B), as applicable, shall include with each certified voucher submitted to a disbursing official pursuant to this section the taxpayer identifying number of each person to whom payment may be made under the voucher.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 951; Pub. L. 104–106, div. A, title IX, § 913(b), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–134, title III, § 31001(g)(1)(B), (y), Apr. 26, 1996, 110 Stat. 1321–363, 1321–378; Pub. L. 104–201, div. A, title X, § 1009(b), Sept. 23, 1996, 110 Stat. 2634; Pub. L. 109–241, title IX, § 902(b)(2), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 951; Pub. L. 104–106, div. A, title IX, § 913(b), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–134, title III, § 31001(g)(1)(B), (y), Apr. 26, 1996, 110 Stat. 1321–363, 1321–378; Pub. L. 104–201, div. A, title X, § 1009(b), Sept. 23, 1996, 110 Stat. 2634; Pub. L. 109–241, title IX, § 902(b)(2), July 11, 2006, 120 Stat. 566.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3325(a) | 31:82b. | Dec. 29, 1941, ch. 641, §§ 1, 4(related to § 1), 55 Stat. 875, 876. |
-|  | 31:82f(related to disbursing officers). | Apr. 28, 1942, ch. 247, § 301(1st par. proviso under heading “Bureau of Accounts” related to disbursing officers), 56 Stat. 244. |
+| 3325(a) | 31:82b. | Dec. 29, 1941, ch. 641, §§ 1, 4(related to § 1), 55 Stat. 875, 876. |
+|  | 31:82f(related to disbursing officers). | Apr. 28, 1942, ch. 247, § 301(1st par. proviso under heading “Bureau of Accounts” related to disbursing officers), 56 Stat. 244. |
 | 3325(b) | 31:82e(related to 31:82b). |  |
-| 3325(c) | 31:82a. | May 14, 1937, ch. 180, § 1(2d par. last proviso on p. 140), 50 Stat. 140. |
+| 3325(c) | 31:82a. | May 14, 1937, ch. 180, § 1(2d par. last proviso on p. 140), 50 Stat. 140. |
 
 In subsection (a), before clause (1), the words “Notwithstanding the provisions of section 82 of this title, and section 4 of Executive Order Numbered 6166, dated June 10, 1933” in 31:82b are omitted as unnecessary. In clause (1), the word “duly” is omitted as surplus. In clause (1)(A) and (B), the words “executive agency” are substituted for “department, establishment or agency concerned” because of section 102 of the revised title and for consistency. In clause (2)(C), the words “basis of the” are omitted as surplus. In clause (3), the words “for carrying out clauses (1) and (2) of this subsection” are substituted for “accordingly” for clarity.
 
@@ -850,15 +850,15 @@ In subsection (c), the words “On and after May 14, 1937” are omitted as exec
 
 2006—Subsec. (b). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1996—Subsec. (a)(3). Pub. L. 104–134, § 31001(g)(1)(B), inserted “or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,” after “voucher”.
+1996—Subsec. (a)(3). Pub. L. 104–134, § 31001(g)(1)(B), inserted “or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,” after “voucher”.
 
 Subsec. (b). Pub. L. 104–201 substituted “members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation” for “members of the armed forces under the jurisdiction of the Secretary of Defense may certify vouchers when authorized, in writing, by the Secretary to do so”.
 
 Pub. L. 104–106 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Subsection (a) of this section does not apply to disbursements of a military department of the Department of Defense, except for disbursements for departmental pay and expenses in the District of Columbia.”
 
-Subsec. (d). Pub. L. 104–134, § 31001(y), added subsec. (d).
+Subsec. (d). Pub. L. 104–134, § 31001(y), added subsec. (d).
 
-### § 3326. Waiver of requirements for warrants and advances
+### § 3326. Waiver of requirements for warrants and advances
 
 **(a)** When the Secretary of the Treasury and the Comptroller General decide that, with sufficient safeguards, existing procedures may be changed to simplify, improve, and economize the control and accounting of public money, they may prescribe joint regulations for waiving any part of the requirements in effect on September 12, 1950, that—
 
@@ -874,28 +874,28 @@ Subsec. (d). Pub. L. 104–134, § 31001(y), added subsec. (d).
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3326(a) | 31:66c(a). | Sept. 12, 1950, ch. 946, § 115, 64 Stat. 837. |
+| 3326(a) | 31:66c(a). | Sept. 12, 1950, ch. 946, § 115, 64 Stat. 837. |
 | 3326(b) | 31:66c(b). |  |
 
 In subsection (a), before clause (1), the words “in effect on September 12, 1950” are substituted for “existing” for clarity. In clause (2), the words “under each separate appropriation head or otherwise” are omitted as surplus.
 
 In subsection (b), the word “official” is substituted for “officers” for consistency. The word “Treasury” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The words “in the rendition of their accounts or for other” and “under necessary circumstances” are omitted as surplus.
 
-### § 3327. General authority to issue checks and other drafts
+### § 3327. General authority to issue checks and other drafts
 
 **(a)** The Secretary of the Treasury may issue a check or other draft on public money in the Treasury to pay an obligation of the United States Government. When the Secretary decides it is convenient to a public creditor and in the public interest, the Secretary may designate a depositary to issue a check or other draft on public money held by the depositary to pay an obligation of the Government. As directed by the Secretary, each depositary shall report to the Secretary on public money paid and received by the depositary.
 
 **(b)** The Secretary of the Treasury shall take such actions as are necessary to ensure that Social Security account numbers (including derivatives of such numbers) are not visible on or through unopened mailings of checks or other drafts described in subsection (a) of this section.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 952; Pub. L. 106–433, § 2, Nov. 6, 2000, 114 Stat. 1910.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 952; Pub. L. 106–433, § 2, Nov. 6, 2000, 114 Stat. 1910.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3327 | 31:526. | R.S. § 3644. |
+| 3327 | 31:526. | R.S. § 3644. |
 
-The words “Secretary of the Treasury” are substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The words “may issue a check or other draft” are substituted for “shall be subject to the draft of” for consistency in the revised title. The words “public money” are substituted for “moneys” because section 10 of the Act of August 6, 1846 (ch. 90, 9 Stat. 61), from which section 3644 of the Revised Statutes is derived, used the term “public money”. The words “obligation of the United States Government” are substituted for “on the public account”, and the words “may designate a depositary to issue a check or draft on public money held by the depositary to pay an obligation of the Government” are substituted for “is authorized to draw upon any of the depositaries” for clarity and consistency. The words “at such times and in such forms . . . shall be” are omitted as surplus. The words “United States Postal Service” and “Postmaster General” are omitted because of 39:410. The words “report to the Secretary on public money paid and received by the depositary” are substituted for “so drawn upon shall make returns to the Treasury Department” for clarity and consistency.
+The words “Secretary of the Treasury” are substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The words “may issue a check or other draft” are substituted for “shall be subject to the draft of” for consistency in the revised title. The words “public money” are substituted for “moneys” because section 10 of the Act of August 6, 1846 (ch. 90, 9 Stat. 61), from which section 3644 of the Revised Statutes is derived, used the term “public money”. The words “obligation of the United States Government” are substituted for “on the public account”, and the words “may designate a depositary to issue a check or draft on public money held by the depositary to pay an obligation of the Government” are substituted for “is authorized to draw upon any of the depositaries” for clarity and consistency. The words “at such times and in such forms . . . shall be” are omitted as surplus. The words “United States Postal Service” and “Postmaster General” are omitted because of 39:410. The words “report to the Secretary on public money paid and received by the depositary” are substituted for “so drawn upon shall make returns to the Treasury Department” for clarity and consistency.
 
 **Editorial Notes**
 
@@ -907,13 +907,13 @@ The words “Secretary of the Treasury” are substituted for “Treasurer” be
 
 **Effective Date of 2000 Amendment and Transitional Rule**
 
-Pub. L. 106–433, § 3, Nov. 6, 2000, 114 Stat. 1910, provided that:
+Pub. L. 106–433, § 3, Nov. 6, 2000, 114 Stat. 1910, provided that:
 
 > **“(a) In General.—** The amendments made by this Act [amending this section] shall apply with respect to all mailings of checks or other drafts issued on or after the date which is 3 years after the date of the enactment of this Act [Nov. 6, 2000].
 
 > **“(b) Phase-in of Amendments.—** Effective on the date of the enactment of this Act, the Secretary of the Treasury shall commence procedures to gradually implement the amendments made by this Act in advance of the effective date described in subsection (a). Not later than 1 year after the date of the enactment of this Act, and annually thereafter for each of the next 2 years, the Secretary shall transmit to each House of the Congress a report describing the manner and extent to which the requirements of the preceding sentence have been carried out.”
 
-### § 3328. Paying checks and drafts
+### § 3328. Paying checks and drafts
 
 **(a) Time Limit on Treasury Checks.—**
 
@@ -955,18 +955,18 @@ Pub. L. 106–433, § 3, Nov. 6, 2000, 114 Stat. 1910, provided that:
 
 **(f) Authority To Decline Payment.—** Nothing in this section limits the authority of the Secretary to decline payment of a Treasury check after first examination thereof at the Treasury.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 952; Pub. L. 100–86, title X, § 1002, Aug. 10, 1987, 101 Stat. 658; Pub. L. 104–316, title I, § 115(d), Oct. 19, 1996, 110 Stat. 3834.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 952; Pub. L. 100–86, title X, § 1002, Aug. 10, 1987, 101 Stat. 658; Pub. L. 104–316, title I, § 115(d), Oct. 19, 1996, 110 Stat. 3834.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3328(a)(1) | 31:132(a). | July 11, 1947, ch. 222, § 1, 61 Stat. 308; restated Aug. 28, 1957, Pub. L. 85–183, § 1, 71 Stat. 464. |
-| 3328(a)(2) | 31:134(less last 30 words before 1st proviso). | July 11, 1947, ch. 222, § 3, 61 Stat. 309; restated Aug. 28, 1957, Pub. L. 85–183, § 2, 71 Stat. 464. |
+| 3328(a)(1) | 31:132(a). | July 11, 1947, ch. 222, § 1, 61 Stat. 308; restated Aug. 28, 1957, Pub. L. 85–183, § 1, 71 Stat. 464. |
+| 3328(a)(2) | 31:134(less last 30 words before 1st proviso). | July 11, 1947, ch. 222, § 3, 61 Stat. 309; restated Aug. 28, 1957, Pub. L. 85–183, § 2, 71 Stat. 464. |
 | 3328(b) | 31:132(b). |  |
 | 3328(c) | 31:132(c). |  |
 | 3328(d) | 31:134(last 30 words before 1st proviso). |  |
-| 3328(e) | 31:527 | R.S. § 3645. |
+| 3328(e) | 31:527 | R.S. § 3645. |
 
 In the section, the word “Treasury” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 
@@ -976,7 +976,7 @@ In subsections (a)(1) and (c), the words “heretofore or hereafter” are omitt
 
 In subsection (a)(1), the words “Except as provided in sections 3330 and 3331 of this title” are added for clarity. The words “including those drawn by wholly owned and mixed-ownership Government corporations” are omitted as surplus. The words “Secretary of the Treasury” are substituted for “Treasurer of the United States” after “for payment the” because of the source provisions restated in section 321(c) of the revised title. The words “doubtful”, “for payment”, and “of such check” are omitted as surplus.
 
-In subsection (a)(2), before clause (A), the words “When the Secretary decides it is appropriate” are substituted for “at appropriate intervals” for clarity. In clauses (A) and (B), the words “on the books” are omitted as surplus. In clause (A), the words “drawn on the Treasury” are added for clarity and consistency. In clause (B), the words “from the accounts . . . for the payment of unpaid checks . . . of the Treasury” are omitted as surplus. The words “and to transfer to such consolidated account or accounts the balance of the special deposit account established pursuant to section 132 of this title”, and the words “any unpaid checks heretofore payable from the special deposit account”, are omitted as executed because the account was established under 31:132 as originally enacted in 1947 and then abolished by the 1957 amendment to that section. The text of 31:134(1st proviso) is omitted as superseded by section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of 31:134(last proviso) is omitted as executed.
+In subsection (a)(2), before clause (A), the words “When the Secretary decides it is appropriate” are substituted for “at appropriate intervals” for clarity. In clauses (A) and (B), the words “on the books” are omitted as surplus. In clause (A), the words “drawn on the Treasury” are added for clarity and consistency. In clause (B), the words “from the accounts . . . for the payment of unpaid checks . . . of the Treasury” are omitted as surplus. The words “and to transfer to such consolidated account or accounts the balance of the special deposit account established pursuant to section 132 of this title”, and the words “any unpaid checks heretofore payable from the special deposit account”, are omitted as executed because the account was established under 31:132 as originally enacted in 1947 and then abolished by the 1957 amendment to that section. The text of 31:134(1st proviso) is omitted as superseded by section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of 31:134(last proviso) is omitted as executed.
 
 In subsection (b)(1), before clause (A), the words “issued by a disbursing official” are substituted for “drawn by authorized officers of the United States” for consistency. In clause (B), the words “or accounts on the books” are omitted as surplus.
 
@@ -996,13 +996,13 @@ The effective date of this section, referred to in subsec. (a)(1), probably mean
 
 **Amendments**
 
-1996—Subsec. (a)(2). Pub. L. 104–316, § 115(d)(1), substituted “until the question is settled” for “until the Comptroller General settles the question”.
+1996—Subsec. (a)(2). Pub. L. 104–316, § 115(d)(1), substituted “until the question is settled” for “until the Comptroller General settles the question”.
 
-Subsec. (b)(2). Pub. L. 104–316, § 115(d)(2), struck out “on settlement by the Comptroller General” after “the Treasury”.
+Subsec. (b)(2). Pub. L. 104–316, § 115(d)(2), struck out “on settlement by the Comptroller General” after “the Treasury”.
 
-Subsec. (d). Pub. L. 104–316, § 115(d)(3), substituted “The” for “With the approval of the Comptroller General, the”.
+Subsec. (d). Pub. L. 104–316, § 115(d)(3), substituted “The” for “With the approval of the Comptroller General, the”.
 
-1987—Subsec. (a). Pub. L. 100–86, § 1002(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+1987—Subsec. (a). Pub. L. 100–86, § 1002(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(1) Except as provided in sections 3329 and 3330 of this title, a check drawn on the Treasury may be paid at any time. However, if the Secretary of the Treasury is on notice of a question of law or fact about the check when the check is presented, the Secretary shall defer payment until the Comptroller General settles the question.
 
@@ -1012,19 +1012,19 @@ Subsec. (d). Pub. L. 104–316, § 115(d)(3), substituted “The” for “Wit
 
 “(B) an amount available, but not required, for paying checks drawn on the Treasury to the appropriate receipt account.”
 
-Subsec. (f). Pub. L. 100–86, § 1002(2), added subsec. (f).
+Subsec. (f). Pub. L. 100–86, § 1002(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–86, title X, § 1006, Aug. 10, 1987, 101 Stat. 659, provided that: “The amendments made by sections 1002, 1003, and 1004 [enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title] shall become effective 6 months after the date of enactment of this Act [Aug. 10, 1987] or on such later date as the Secretary of the Treasury may prescribe in regulations.”
+Pub. L. 100–86, title X, § 1006, Aug. 10, 1987, 101 Stat. 659, provided that: “The amendments made by sections 1002, 1003, and 1004 [enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title] shall become effective 6 months after the date of enactment of this Act [Aug. 10, 1987] or on such later date as the Secretary of the Treasury may prescribe in regulations.”
 
 **Regulations**
 
-Pub. L. 100–86, title X, § 1005, Aug. 10, 1987, 101 Stat. 659, provided that: “The Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary deems necessary to implement the amendments made by sections 1002, 1003, and 1004 [enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title], including the recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred.”
+Pub. L. 100–86, title X, § 1005, Aug. 10, 1987, 101 Stat. 659, provided that: “The Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary deems necessary to implement the amendments made by sections 1002, 1003, and 1004 [enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title], including the recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred.”
 
-### § 3329. Withholding checks to be sent to foreign countries
+### § 3329. Withholding checks to be sent to foreign countries
 
 **(a)** The Secretary of the Treasury shall prohibit a check or warrant drawn on public money from being sent to a foreign country from the United States or from a territory or possession of the United States when the Secretary decides that postal, transportation, or banking facilities generally, or local conditions in the foreign country, do not reasonably ensure that the payee—
 
@@ -1074,14 +1074,14 @@ Pub. L. 100–86, title X, § 1005, Aug. 10, 1987, 101 Stat. 659, provided tha
 
 **(3)** do not affect a check or warrant issued for the payment of pay or goods bought by the United States Government in a foreign country.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 953; Pub. L. 102–54, § 13(*l*)(2), June 13, 1991, 105 Stat. 277; Pub. L. 104–316, title I, § 115(e), Oct. 19, 1996, 110 Stat. 3834.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 953; Pub. L. 102–54, § 13(*l*)(2), June 13, 1991, 105 Stat. 277; Pub. L. 104–316, title I, § 115(e), Oct. 19, 1996, 110 Stat. 3834.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3329(a) | 31:123(words before 1st proviso). | Oct. 9, 1940, ch. 796, § 1(words before 1st proviso), 54 Stat. 1086; Dec. 2, 1942, ch. 659, 56 Stat. 1028. |
-| 3329(b) | 31:124(1st par.). | Oct. 9, 1940, ch. 796, §§ 2(1st par.), 3(1st par.), 4, 6, 54 Stat. 1086, 1087. |
+| 3329(a) | 31:123(words before 1st proviso). | Oct. 9, 1940, ch. 796, § 1(words before 1st proviso), 54 Stat. 1086; Dec. 2, 1942, ch. 659, 56 Stat. 1028. |
+| 3329(b) | 31:124(1st par.). | Oct. 9, 1940, ch. 796, §§ 2(1st par.), 3(1st par.), 4, 6, 54 Stat. 1086, 1087. |
 | 3329(c) | 31:125(1st par.). |  |
 | 3329(d) | 31:126. |  |
 |  | 31:128. |  |
@@ -1096,9 +1096,9 @@ In subsection (b)(3)(B), before subclause (i), the word “Secretary” is subst
 
 In subsection (b)(4), the word “withheld” is substituted for “undelivered” for clarity. The words “with the Treasurer of the United States” and the words “of the United States” after “Comptroller General” are omitted as unnecessary.
 
-In subsection (d)(1), the words “is now being, or . . . hereafter” and “as well as to all checks or warrants the delivery of which is now being withheld pursuant to administrative action, which administrative action is ratified and confirmed” in 31:126 are omitted as executed.
+In subsection (d)(1), the words “is now being, or . . . hereafter” and “as well as to all checks or warrants the delivery of which is now being withheld pursuant to administrative action, which administrative action is ratified and confirmed” in 31:126 are omitted as executed.
 
-In subsection (d)(2), the words “do not affect a requirement for” are substituted for “nothing in sections 123 to 128 of this title shall be construed to dispense with the necessity of” in 31:126 to eliminate unnecessary words and because of the restatement. The words “obtaining . . . authorize” and “is now or hereafter” are omitted as surplus.
+In subsection (d)(2), the words “do not affect a requirement for” are substituted for “nothing in sections 123 to 128 of this title shall be construed to dispense with the necessity of” in 31:126 to eliminate unnecessary words and because of the restatement. The words “obtaining . . . authorize” and “is now or hereafter” are omitted as surplus.
 
 In subsection (d)(3), the words “does not affect” are substituted for “Nothing contained in sections 123 to 128 of this title shall be construed as affecting or applying to” in 31:128 to eliminate unnecessary words and because of the restatement. The word “pay” is substituted for “salaries or wages” for consistency in the revised title and with other titles of the United States Code.
 
@@ -1110,7 +1110,7 @@ In subsection (d)(3), the words “does not affect” are substituted for “Not
 
 1991—Subsec. (c)(1). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” and “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
 
-### § 3330. Payment of Department of Veterans Affairs checks for the benefit of individuals in foreign countries
+### § 3330. Payment of Department of Veterans Affairs checks for the benefit of individuals in foreign countries
 
 **(a)**
 
@@ -1148,14 +1148,14 @@ In subsection (d)(3), the words “does not affect” are substituted for “Not
 
 **(2)** Payment shall include only amounts due at the time of death under ratings or decisions existing at the time of the death.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 954; Pub. L. 102–54, § 13(*l*)(3), (4)(A), June 13, 1991, 105 Stat. 277; Pub. L. 103–272, § 4(f)(1)(I), July 5, 1994, 108 Stat. 1362.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 954; Pub. L. 102–54, § 13(*l*)(3), (4)(A), June 13, 1991, 105 Stat. 277; Pub. L. 103–272, § 4(f)(1)(I), July 5, 1994, 108 Stat. 1362.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3330(a) | 31:123(provisos). | Oct. 9, 1940, ch. 796, 54 Stat. 1086, § 1(provisos); added Dec. 2, 1942, ch. 659, 56 Stat. 1028. |
-| 3330(b) | 31:124(last par.). | Oct. 9, 1940, ch. 796, §§ 2(last par.), 3(last par.), 54 Stat. 1086, 1087. |
+| 3330(a) | 31:123(provisos). | Oct. 9, 1940, ch. 796, 54 Stat. 1086, § 1(provisos); added Dec. 2, 1942, ch. 659, 56 Stat. 1028. |
+| 3330(b) | 31:124(last par.). | Oct. 9, 1940, ch. 796, §§ 2(last par.), 3(last par.), 54 Stat. 1086, 1087. |
 | 3330(c), (d) | 31:125(last par.). |  |
 
 In the section, the words “laws carried out” are substituted for “laws administered”, and the words “Administrator of Veterans’ Affairs” and “Administrator” are substituted for “Veterans’ Administration”, for consistency.
@@ -1176,17 +1176,17 @@ In subsection (d)(2), the words “and unpaid” are omitted as surplus.
 
 1994—Subsec. (d)(1)(B). Pub. L. 103–272 substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-1991—Pub. L. 102–54, § 13(*l*)(4)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in section catchline.
+1991—Pub. L. 102–54, § 13(*l*)(4)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in section catchline.
 
-Subsec. (a)(1)(B). Pub. L. 102–54, § 13(*l*)(3)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+Subsec. (a)(1)(B). Pub. L. 102–54, § 13(*l*)(3)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Subsec. (a)(2), (3). Pub. L. 102–54, § 13(*l*)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
+Subsec. (a)(2), (3). Pub. L. 102–54, § 13(*l*)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-Subsecs. (b), (c). Pub. L. 102–54, § 13(*l*)(3)(C), substituted “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
+Subsecs. (b), (c). Pub. L. 102–54, § 13(*l*)(3)(C), substituted “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
 
-Subsec. (d)(1)(A). Pub. L. 102–54, § 13(*l*)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
+Subsec. (d)(1)(A). Pub. L. 102–54, § 13(*l*)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-### § 3331. Substitute checks
+### § 3331. Substitute checks
 
 **(a)** In this section, “original check”—
 
@@ -1230,7 +1230,7 @@ Subsec. (d)(1)(A). Pub. L. 102–54, § 13(*l*)(3)(B), substituted “Secretar
 
 **(g)** Under conditions the Secretary may prescribe, the Secretary may delegate duties and powers of the Secretary under this section to the head of an agency. Consistent with a delegation from the Secretary under this subsection, the head of an agency may delegate those duties and powers to an officer or employee of the agency.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 955; Pub. L. 97–452, § 1(11), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 104–134, title III, § 31001(x)(2), Apr. 26, 1996, 110 Stat. 1321–377.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 955; Pub. L. 97–452, § 1(11), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 104–134, title III, § 31001(x)(2), Apr. 26, 1996, 110 Stat. 1321–377.)
 
 **Historical and Revision Notes**
 
@@ -1238,13 +1238,13 @@ Subsec. (d)(1)(A). Pub. L. 102–54, § 13(*l*)(3)(B), substituted “Secretar
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3331(a) | 31:528(g). | R.S. § 3646(a)–(c), (f), (g); Feb. 16, 1885, ch. 123, 23 Stat. 306; Mar. 23, 1906, ch. 1129, 34 Stat. 84; June 19, 1906, ch. 3434, 34 Stat. 301; May 27, 1908, ch. 206(par. beginning on p. 415 amending §§ 3646, 3647), 35 Stat. 415; Feb. 23, 1909, ch. 174, 35 Stat. 643; Mar. 21, 1916, ch. 52, 39 Stat. 37; July 8, 1937, ch. 444, § 9, 50 Stat. 482; Aug. 10, 1939, ch. 665, §§ 5–7, 53 Stat. 1359; restated Dec. 3, 1945, ch. 515, § 1, 59 Stat. 592; July 11, 1947, ch. 222, § 4(c), (d)(related to § 3646(c)), (e), (f), 61 Stat. 309; Aug. 28, 1957, Pub. L. 85–183, §§ 4, 5(a), (c), 71 Stat. 465; June 6, 1972, Pub. L. 92–310, § 231(s), 86 Stat. 211; Sept. 22, 1978, Pub. L. 95–380, 92 Stat. 725. |
+| 3331(a) | 31:528(g). | R.S. § 3646(a)–(c), (f), (g); Feb. 16, 1885, ch. 123, 23 Stat. 306; Mar. 23, 1906, ch. 1129, 34 Stat. 84; June 19, 1906, ch. 3434, 34 Stat. 301; May 27, 1908, ch. 206(par. beginning on p. 415 amending §§ 3646, 3647), 35 Stat. 415; Feb. 23, 1909, ch. 174, 35 Stat. 643; Mar. 21, 1916, ch. 52, 39 Stat. 37; July 8, 1937, ch. 444, § 9, 50 Stat. 482; Aug. 10, 1939, ch. 665, §§ 5–7, 53 Stat. 1359; restated Dec. 3, 1945, ch. 515, § 1, 59 Stat. 592; July 11, 1947, ch. 222, § 4(c), (d)(related to § 3646(c)), (e), (f), 61 Stat. 309; Aug. 28, 1957, Pub. L. 85–183, §§ 4, 5(a), (c), 71 Stat. 465; June 6, 1972, Pub. L. 92–310, § 231(s), 86 Stat. 211; Sept. 22, 1978, Pub. L. 95–380, 92 Stat. 725. |
 | 3331(b) | 31:528(a)(less last 28 words before proviso, proviso). |  |
 | 3331(c) | 31:528(c)(1st sentence 1st–158th words, 171st–195th words). |  |
 | 3331(d) | 31:528(a)(last 28 words before proviso, proviso), (c)(1st sentence 159th–170th words, 237th–last words, last sentence), (f). |  |
 | 3331(e) | 31:528(b), (c)(1st sentence 196th–236th words). |  |
 
-In subsection (a), before clause (1), the words “The term . . . wherever used” are omitted as unnecessary. In clause (1), before subclause (A), the words “check, warrant, or other” are omitted as surplus. In subclause (C), the word “duly” is omitted as surplus. The words “disbursing official or agent” are substituted for “officer or agent” for consistency in the revised title. The words “any wholly owned or mixed-ownership Government corporation” are omitted as already being included in the restated source provisions and because of section 101 of the revised title. Therefore, the text is not meant to exclude employees of wholly owned Government corporations and mixed-ownership Government corporations. The words “the District of Columbia, or the District Unemployment Compensation Board” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The words “or by any entity owned or controlled by the United States” are omitted as unnecessary. In subclause (D), the words “and covered . . . or deposited with the Treasurer of the United States” are omitted as surplus. The words “or another account available for payment” are added for clarity and consistency in the revised section. In clause (2), the word “money” is omitted as being covered by “coins and currency”.
+In subsection (a), before clause (1), the words “The term . . . wherever used” are omitted as unnecessary. In clause (1), before subclause (A), the words “check, warrant, or other” are omitted as surplus. In subclause (C), the word “duly” is omitted as surplus. The words “disbursing official or agent” are substituted for “officer or agent” for consistency in the revised title. The words “any wholly owned or mixed-ownership Government corporation” are omitted as already being included in the restated source provisions and because of section 101 of the revised title. Therefore, the text is not meant to exclude employees of wholly owned Government corporations and mixed-ownership Government corporations. The words “the District of Columbia, or the District Unemployment Compensation Board” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The words “or by any entity owned or controlled by the United States” are omitted as unnecessary. In subclause (D), the words “and covered . . . or deposited with the Treasurer of the United States” are omitted as surplus. The words “or another account available for payment” are added for clarity and consistency in the revised section. In clause (2), the word “money” is omitted as being covered by “coins and currency”.
 
 In subsections (b) and (c), the words “When the Secretary is satisfied” are substituted for “whenever it is clearly proved to the satisfaction of the Secretary” to eliminate unnecessary words. The words “mutilated or” are omitted as being covered by “defaced”.
 
@@ -1266,9 +1266,9 @@ The words “terms and” are omitted as surplus. The words “duties and powers
 
 **Amendments**
 
-1996—Subsec. (b). Pub. L. 104–134, § 31001(x)(2)(A), substituted “subsection (c) or (f)” for “subsection (c)”.
+1996—Subsec. (b). Pub. L. 104–134, § 31001(x)(2)(A), substituted “subsection (c) or (f)” for “subsection (c)”.
 
-Subsecs. (f), (g). Pub. L. 104–134, § 31001(x)(2)(B), (C), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 104–134, § 31001(x)(2)(B), (C), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1983—Subsec. (f). Pub. L. 97–452 added subsec. (f).
 
@@ -1276,9 +1276,9 @@ Subsecs. (f), (g). Pub. L. 104–134, § 31001(x)(2)(B), (C), added subsec. (f
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–452, § 2(i), Jan. 12, 1983, 96 Stat. 2479, provided that: “The amendments made by section 1(11), (14), (19), (22), (24), (26), and (27) [amending this section and sections 3702, 5103, 5154, 6501, 9101, 9107, and 9108 of this title] are effective as of September 13, 1982.”
+Pub. L. 97–452, § 2(i), Jan. 12, 1983, 96 Stat. 2479, provided that: “The amendments made by section 1(11), (14), (19), (22), (24), (26), and (27) [amending this section and sections 3702, 5103, 5154, 6501, 9101, 9107, and 9108 of this title] are effective as of September 13, 1982.”
 
-### § 3332. Required direct deposit
+### § 3332. Required direct deposit
 
 **(a)**
 
@@ -1360,20 +1360,20 @@ Pub. L. 97–452, § 2(i), Jan. 12, 1983, 96 Stat. 2479, provided that: “The
 
 Such term shall not include any payment under the Internal Revenue Code of 1986.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 955; Pub. L. 98–369, div. B, title VIII, § 2814, July 18, 1984, 98 Stat. 1207; Pub. L. 103–356, title IV, § 402(a), Oct. 13, 1994, 108 Stat. 3412; Pub. L. 104–134, title III, § 31001(x)(1), Apr. 26, 1996, 110 Stat. 1321–376.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 955; Pub. L. 98–369, div. B, title VIII, § 2814, July 18, 1984, 98 Stat. 1207; Pub. L. 103–356, title IV, § 402(a), Oct. 13, 1994, 108 Stat. 3412; Pub. L. 104–134, title III, § 31001(x)(1), Apr. 26, 1996, 110 Stat. 1321–376.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3332(a) | 31:492(b)(3). | R.S. § 3620(b), (c); added Aug. 28, 1965, Pub. L. 89–145, § 1(2), 79 Stat. 582; restated June 29, 1968, Pub. L. 90–365, 82 Stat. 274; July 19, 1975, Pub. L. 94–57, § 1(a), 89 Stat. 265. |
-|  | 31:492(note). | July 19, 1975, Pub. L. 94–57, § 1(b)(1st sentence), (c)(1st sentence), 89 Stat. 265. |
+| 3332(a) | 31:492(b)(3). | R.S. § 3620(b), (c); added Aug. 28, 1965, Pub. L. 89–145, § 1(2), 79 Stat. 582; restated June 29, 1968, Pub. L. 90–365, 82 Stat. 274; July 19, 1975, Pub. L. 94–57, § 1(a), 89 Stat. 265. |
+|  | 31:492(note). | July 19, 1975, Pub. L. 94–57, § 1(b)(1st sentence), (c)(1st sentence), 89 Stat. 265. |
 | 3332(b) | 31:492(b)(1)(1st sentence words before 1st comma, words between 2d comma and proviso). |  |
 | 3332(c) | 31:492(b)(1)(proviso, last sentence). |  |
-|  | 31:492(note). | July 19, 1975, Pub. L. 94–57, 89 Stat. 265, § 1(b)(2d, last sentences), (c)(2d, last sentences); added Dec. 18, 1975, Pub. L. 94–157, § 109, 89 Stat. 831. |
+|  | 31:492(note). | July 19, 1975, Pub. L. 94–57, 89 Stat. 265, § 1(b)(2d, last sentences), (c)(2d, last sentences); added Dec. 18, 1975, Pub. L. 94–157, § 109, 89 Stat. 831. |
 | 3332(d) | 31:492(b)(2)(less 32d–43d words). |  |
 | 3332(e) | 31:492(c). |  |
-| 3332(f) | 31:492(d)(1st–50th words). | R.S. § 3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506. |
+| 3332(f) | 31:492(d)(1st–50th words). | R.S. § 3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506. |
 | 3332(g) | 31:492(b)(1)(1st sentence words between 1st and 2d commas), (2)(32d–43d words), (d)(51st–last words). |  |
 |  | 31:492(note). |  |
 
@@ -1381,9 +1381,9 @@ In subsection (a), the definition of “agency” is omitted because of section 
 
 In subsections (b)–(f), the words “officer or employee” are substituted for “employee” for consistency in the revised title and with other titles of the United States Code.
 
-In subsections (b) and (d), the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the Code. The words “issue a check payable to” are substituted for “make the payment . . . by sending to . . . a check that is drawn in favor of the organization” for clarity and consistency and to eliminate unnecessary words.
+In subsections (b) and (d), the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the Code. The words “issue a check payable to” are substituted for “make the payment . . . by sending to . . . a check that is drawn in favor of the organization” for clarity and consistency and to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “Notwithstanding subsection (a) of this section or any other provision of law” are omitted as unnecessary. The words “may designate in writing not more than 3 financial organizations to which a payment of pay of the officer or employee shall be sent and the amount to be sent to each organization” are substituted for “upon the written request of an employee of the agency to whom a payment for wages or salary is to be made . . . in the form of one, two, or three checks (the number of checks . . . if more than one . . . designated by such employee” for clarity, consistency in the revised title and with other titles of the Code, and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “Notwithstanding subsection (a) of this section or any other provision of law” are omitted as unnecessary. The words “may designate in writing not more than 3 financial organizations to which a payment of pay of the officer or employee shall be sent and the amount to be sent to each organization” are substituted for “upon the written request of an employee of the agency to whom a payment for wages or salary is to be made . . . in the form of one, two, or three checks (the number of checks . . . if more than one . . . designated by such employee” for clarity, consistency in the revised title and with other titles of the Code, and to eliminate unnecessary words.
 
 In subsection (c), the words “(except for a financial organization designated by an officer or employee of either House of Congress)” are substituted for section 1(b)(last sentence) and (c)(last sentence) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), because of the restatement. The words “to which such check is sent” are omitted because of the restatement.
 
@@ -1409,9 +1409,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(3), is classified 
 
 1994—Pub. L. 103–356 substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” as section catchline and amended text generally. Prior to amendment, section authorized agency officers and employees to designate not more than 3 financial organizations to which a payment of pay or other recurring payments was to be sent without charge and required the agency head to authorize issuance of checks payable to those financial organizations in the designated amounts.
 
-1984—Subsec. (b). Pub. L. 98–369, § 2814(a), inserted “without charge” after “shall be sent”.
+1984—Subsec. (b). Pub. L. 98–369, § 2814(a), inserted “without charge” after “shall be sent”.
 
-Subsecs. (c) to (g). Pub. L. 98–369, § 2814(b), struck out subsec. (c) which related to reimbursement of an agency for issuing additional checks, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
+Subsecs. (c) to (g). Pub. L. 98–369, § 2814(b), struck out subsec. (c) which related to reimbursement of an agency for issuing additional checks, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1421,7 +1421,7 @@ Any waiver in effect on Oct. 5, 1999, under subsec. (f)(2)(A)(i) of this section
 
 **Electronic Pay Stubs**
 
-Pub. L. 110–423, § 1, Oct. 15, 2008, 122 Stat. 4818, provided that:
+Pub. L. 110–423, § 1, Oct. 15, 2008, 122 Stat. 4818, provided that:
 
 > **“(a) In General.—** The Office of Personnel Management shall take such measures as may be appropriate to ensure that all employees who receive their pay by electronic funds transfer shall be given the option of receiving their pay stubs electronically.
 
@@ -1433,7 +1433,7 @@ Pub. L. 110–423, § 1, Oct. 15, 2008, 122 Stat. 4818, provided that:
 
 > **“(3)** the term ‘Executive agency’ has the meaning given such term by section 105 of title 5, United States Code.”
 
-### § 3333. Relief for payments made without negligence
+### § 3333. Relief for payments made without negligence
 
 **(a)**
 
@@ -1451,16 +1451,16 @@ Pub. L. 110–423, § 1, Oct. 15, 2008, 122 Stat. 4818, provided that:
 
 **(b)** This section does not relieve another individual from civil or criminal liability for a check, draft, warrant, or debt obligation of the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, § 220(a), Dec. 8, 2004, 118 Stat. 3242; Pub. L. 110–161, div. D, title I, § 119, Dec. 26, 2007, 121 Stat. 1979.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, § 220(a), Dec. 8, 2004, 118 Stat. 3242; Pub. L. 110–161, div. D, title I, § 119, Dec. 26, 2007, 121 Stat. 1979.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3333(a) | 31:156(less proviso). | Aug. 4, 1947, ch. 455, § 3, 61 Stat. 730. |
+| 3333(a) | 31:156(less proviso). | Aug. 4, 1947, ch. 455, § 3, 61 Stat. 730. |
 | 3333(b) | 31:156(proviso). |  |
 
-In subsection (a)(1), before clause (A), the words “Secretary of the Treasury” are substituted for “Treasurer” before “is not liable” because of the source provisions restated in section 321(c) of the revised title. The word “depositary” is substituted for “upon the Treasurer of the United States through any Federal Reserve Bank” for consistency in the revised title. The words “Whenever . . . heretofore has been or hereafter” and “or on behalf of” are omitted as surplus. In clause (A), the word “Treasury” is substituted for “Treasurer of the United States” after “drawn upon the” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). In clause (B), the words “public . . . of the United States, including any obligation of any type whatever, the payment of which is” are omitted as surplus.
+In subsection (a)(1), before clause (A), the words “Secretary of the Treasury” are substituted for “Treasurer” before “is not liable” because of the source provisions restated in section 321(c) of the revised title. The word “depositary” is substituted for “upon the Treasurer of the United States through any Federal Reserve Bank” for consistency in the revised title. The words “Whenever . . . heretofore has been or hereafter” and “or on behalf of” are omitted as surplus. In clause (A), the word “Treasury” is substituted for “Treasurer of the United States” after “drawn upon the” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). In clause (B), the words “public . . . of the United States, including any obligation of any type whatever, the payment of which is” are omitted as surplus.
 
 In subsection (a)(2), the words “of the United States” are omitted as unnecessary. The words “of the Treasury or the depositary” are substituted for “Treasurer’s” because of the restatement.
 
@@ -1472,15 +1472,15 @@ In subsection (b), the words “another individual” are substituted for “any
 
 2007—Subsec. (a)(3). Pub. L. 110–161 added par. (3) and struck out former par. (3) which read as follows: “The amount of the relief shall be charged to the Check Forgery Insurance Fund (31 U.S.C. 3343). A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.”
 
-2004—Subsec. (a)(1). Pub. L. 108–447, § 220(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follow: “The Secretary of the Treasury is not liable for a payment made by the Secretary or depositary in due course and without negligence, of a—
+2004—Subsec. (a)(1). Pub. L. 108–447, § 220(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follow: “The Secretary of the Treasury is not liable for a payment made by the Secretary or depositary in due course and without negligence, of a—
 
 “(A) check, draft, or warrant drawn on the Treasury or the depositary; and
 
 “(B) debt obligation guaranteed or assumed by the United States Government.”
 
-Subsec. (a)(3). Pub. L. 108–447, § 220(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 108–447, § 220(a)(2), added par. (3).
 
-### § 3334. Cancellation and proceeds distribution of Treasury checks
+### § 3334. Cancellation and proceeds distribution of Treasury checks
 
 **(a) In General.—**
 
@@ -1496,7 +1496,7 @@ Subsec. (a)(3). Pub. L. 108–447, § 220(a)(2), added par. (3).
 
 **(c) No Effect on Underlying Obligation.—** Nothing in this section shall be construed to affect the underlying obligation of the United States, or any agency thereof, for which a Treasury check was issued.
 
-(Added Pub. L. 100–86, title X, § 1003, Aug. 10, 1987, 101 Stat. 658.)
+(Added Pub. L. 100–86, title X, § 1003, Aug. 10, 1987, 101 Stat. 658.)
 
 **Editorial Notes**
 
@@ -1514,7 +1514,7 @@ Section effective 6 months after Aug. 10, 1987, or on such later date as the Sec
 
 For provision permitting Secretary of the Treasury to prescribe rules, regulations, and procedures as necessary to implement this section, including recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred, see section 1005 of Pub. L. 100–86, set out as a note under section 3328 of this title.
 
-### § 3335. Timely disbursement of Federal funds
+### § 3335. Timely disbursement of Federal funds
 
 **(a)** Each head of an executive agency (other than the Tennessee Valley Authority) shall, under such regulations as the Secretary of the Treasury shall prescribe, provide for the timely disbursement of Federal funds through cash, checks, electronic funds transfer, or any other means identified by the Secretary.
 
@@ -1528,15 +1528,15 @@ For provision permitting Secretary of the Treasury to prescribe rules, regulatio
 
 **(2)** shall not be paid from amounts available for funding programs of an executive agency.
 
-(Added Pub. L. 101–453, § 4(a), Oct. 24, 1990, 104 Stat. 1058.)
+(Added Pub. L. 101–453, § 4(a), Oct. 24, 1990, 104 Stat. 1058.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 101–453, § 4(c), Oct. 24, 1990, 104 Stat. 1059, as amended by Pub. L. 102–589, § 2(1), Nov. 10, 1992, 106 Stat. 5133, provided that: “The Secretary of the Treasury shall prescribe regulations under section 3335 of title 31, United States Code, as added by subsection (a), to ensure the full implementation of that section.”
+Pub. L. 101–453, § 4(c), Oct. 24, 1990, 104 Stat. 1059, as amended by Pub. L. 102–589, § 2(1), Nov. 10, 1992, 106 Stat. 5133, provided that: “The Secretary of the Treasury shall prescribe regulations under section 3335 of title 31, United States Code, as added by subsection (a), to ensure the full implementation of that section.”
 
-### § 3336. Electronic benefit transfer pilot
+### § 3336. Electronic benefit transfer pilot
 
 **(a)** The Congress finds that:
 
@@ -1544,27 +1544,27 @@ Pub. L. 101–453, § 4(c), Oct. 24, 1990, 104 Stat. 1059, as amended by Pub. 
 
 **(2)** The designation of financial institutions as financial agents of the Federal Government for EBT is an appropriate and reasonable use of the Secretary’s authority to designate financial agents.
 
-**(3)** A joint federal-state 1
+**(3)** A joint federal-state 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
-EBT system offers convenience and economies of scale for those states 1 (and their citizens) that wish to deliver 1 state-administered benefits on a single card by entering into a partnership with the federal 1 government.1
+EBT system offers convenience and economies of scale for those states 1 (and their citizens) that wish to deliver 1 state-administered benefits on a single card by entering into a partnership with the federal 1 government.1
 
-**(4)** The Secretary’s designation of a financial agent to deliver EBT is a specialized service not available through ordinary business channels and may be offered to the states <sup>1</sup> pursuant to section 6501 *et seq*. of this title.
+**(4)** The Secretary’s designation of a financial agent to deliver EBT is a specialized service not available through ordinary business channels and may be offered to the states <sup>1</sup> pursuant to section 6501 *et seq*. of this title.
 
-**(b)** The Secretary shall continue to carry out the existing EBT pilot to disburse benefit payments electronically to recipients who do not have an account at a financial institution, which shall include the designation of one or more financial institution 2
+**(b)** The Secretary shall continue to carry out the existing EBT pilot to disburse benefit payments electronically to recipients who do not have an account at a financial institution, which shall include the designation of one or more financial institution 2
 
-<sup>2</sup>  So in original. Probably should be “institutions”.
+<sup>2</sup> So in original. Probably should be “institutions”.
 
-as a financial agent of the Government, and the offering to the participating states <sup>1</sup> of the opportunity to contract with the financial agent selected by the Secretary, as described in the Invitation for Expressions of Interest to Acquire EBT Services for the Southern Alliance of States dated March 9, 1995, as amended as of June 30, 1995, July 7, 1995, and August 1, 1995.
+as a financial agent of the Government, and the offering to the participating states <sup>1</sup> of the opportunity to contract with the financial agent selected by the Secretary, as described in the Invitation for Expressions of Interest to Acquire EBT Services for the Southern Alliance of States dated March 9, 1995, as amended as of June 30, 1995, July 7, 1995, and August 1, 1995.
 
 **(c)** The selection and designation of financial agents, the design of the pilot program, and any other matter associated with or related to the EBT pilot described in subsection (b) shall not be subject to judicial review.
 
-(Added Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 664], Sept. 30, 1996, 110 Stat. 3009–314, 3009–385.)
+(Added Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 664], Sept. 30, 1996, 110 Stat. 3009–314, 3009–385.)
 
 ## SUBCHAPTER III—MISCELLANEOUS
 
-### § 3341. Sale of Government warrants, checks, drafts, and obligations
+### § 3341. Sale of Government warrants, checks, drafts, and obligations
 
 **(a)** A disbursing official of the United States Government may sell a Government warrant, check, draft, or obligation not the property of the official at a premium, or dispose of the proceeds of the warrant, check, draft, or obligation, only if the official deposits the premium and the proceeds in the Treasury or with a depositary for the credit of the Government.
 
@@ -1576,14 +1576,14 @@ as a financial agent of the Government, and the offering to the participating st
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3341(a) | 31:544(words before last semicolon). | R.S. § 3652. |
+| 3341(a) | 31:544(words before last semicolon). | R.S. § 3652. |
 | 3341(b) | 31:544(words after last semicolon). |  |
 
-In subsection (a), the words “disbursing official” are substituted for “officer” for clarity and consistency in the revised title. The words “either directly or indirectly” and “or dispose of to any person” are omitted as surplus. The words “Government warrant, check, draft, or obligation” are substituted for “Treasury note, draft, warrant, or other public security” for consistency in the revised title. The words “or sell . . . avails or . . . in his hands for disbursement” are omitted as surplus. The words “only if the official deposits the premium and the proceeds in the Treasury or with a depositary” are substituted for “without making return of such premium, and accounting therefor by charging the same in his account” for clarity and consistency in the chapter.
+In subsection (a), the words “disbursing official” are substituted for “officer” for clarity and consistency in the revised title. The words “either directly or indirectly” and “or dispose of to any person” are omitted as surplus. The words “Government warrant, check, draft, or obligation” are substituted for “Treasury note, draft, warrant, or other public security” for consistency in the revised title. The words “or sell . . . avails or . . . in his hands for disbursement” are omitted as surplus. The words “only if the official deposits the premium and the proceeds in the Treasury or with a depositary” are substituted for “without making return of such premium, and accounting therefor by charging the same in his account” for clarity and consistency in the chapter.
 
 In subsection (b), the words “from office” are omitted as unnecessary.
 
-### § 3342. Check cashing and exchange transactions
+### § 3342. Check cashing and exchange transactions
 
 **(a)** A disbursing official of the United States Government may—
 
@@ -1647,13 +1647,13 @@ In subsection (b), the words “from office” are omitted as unnecessary.
 
 **(2)** The authority to accept, for safekeeping, deposits and transfers of funds made through the automated teller machines.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–106, div. A, title X, § 1090, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–201, div. A, title X, § 1011, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title III, § 372, Oct. 5, 1999, 113 Stat. 580; Pub. L. 108–136, div. A, title XII, § 1224, Nov. 24, 2003, 117 Stat. 1653.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–106, div. A, title X, § 1090, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–201, div. A, title X, § 1011, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title III, § 372, Oct. 5, 1999, 113 Stat. 580; Pub. L. 108–136, div. A, title XII, § 1224, Nov. 24, 2003, 117 Stat. 1653.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3342(a) | 31:492a(less 1st sentence words between 2d–7th commas, last sentence). | Dec. 23, 1944, ch. 716, §§ 1–3, 58 Stat. 921; restated June 16, 1953, ch. 115, 67 Stat. 61. |
+| 3342(a) | 31:492a(less 1st sentence words between 2d–7th commas, last sentence). | Dec. 23, 1944, ch. 716, §§ 1–3, 58 Stat. 921; restated June 16, 1953, ch. 115, 67 Stat. 61. |
 | 3342(b) | 31:492a(1st sentence words between 2d–7th commas). |  |
 | 3342(c)(1) | 31:492a(last sentence). |  |
 | 3342(c)(2), (3) | 31:492b. |  |
@@ -1661,49 +1661,49 @@ In subsection (b), the words “from office” are omitted as unnecessary.
 
 In the section, the words “disbursing official” are substituted for “disbursing officers” for clarity and consistency in the revised title.
 
-In subsection (a), the words “negotiable instruments” are substituted for “checks, drafts, bills of exchange, and other instruments” for clarity and consistency. Before clause (1), the words “Subject to regulations promulgated pursuant to sections 492a–492c of this title” are omitted as unnecessary. In clause (3), before subclause (A), the words “disbursing officers in foreign countries are also authorized . . . to” are omitted because of the restatement. The word “Treasury” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The words “person who is” are omitted as surplus. In subclause (B), the word “payee” is substituted for “person to whose order they are drawn” to eliminate unnecessary words. The words “who is a United States citizen” are added for clarity.
+In subsection (a), the words “negotiable instruments” are substituted for “checks, drafts, bills of exchange, and other instruments” for clarity and consistency. Before clause (1), the words “Subject to regulations promulgated pursuant to sections 492a–492c of this title” are omitted as unnecessary. In clause (3), before subclause (A), the words “disbursing officers in foreign countries are also authorized . . . to” are omitted because of the restatement. The word “Treasury” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The words “person who is” are omitted as surplus. In subclause (B), the word “payee” is substituted for “person to whose order they are drawn” to eliminate unnecessary words. The words “who is a United States citizen” are added for clarity.
 
-Subsection (b), before clause (1), is added because of the restatement. In clause (2), the words “the accommodation of” are omitted as surplus. The word “personnel” is substituted for “members of the Armed Forces and civilian personnel” to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. In clause (3), the words “of the Armed Forces of the United States . . . institutions operated by the Veterans’ Administration and other” are omitted as surplus.
+Subsection (b), before clause (1), is added because of the restatement. In clause (2), the words “the accommodation of” are omitted as surplus. The word “personnel” is substituted for “members of the Armed Forces and civilian personnel” to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. In clause (3), the words “of the Armed Forces of the United States . . . institutions operated by the Veterans’ Administration and other” are omitted as surplus.
 
 In subsection (c)(2), the words “For the purposes of this section” are omitted because of the restatement. The words “in the accounts of such disbursing officers” are omitted as unnecessary. The words “resulting from a transaction under subsection (a) of this section” are added for clarity. The words “not used to offset deficiencies from transactions under subsection (a)” are substituted for “resulting from operations permitted by sections 492a to 492c of this title” for clarity and consistency.
 
 Subsection (c)(3) is substituted for 31:492b(2d sentence) to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
 
-In subsection (d), the words “rules and . . . governing the disbursing officers under their respective jurisdictions, as may be deemed necessary or proper . . . the purposes of” are omitted as surplus. The words “under conditions the Secretary decides are necessary” are substituted for “subject to such terms and conditions as he may prescribe” for clarity and consistency. The words “and exercise the function of disbursement pursuant to a delegation by the Secretary of the Treasury” are omitted as unnecessary.
+In subsection (d), the words “rules and . . . governing the disbursing officers under their respective jurisdictions, as may be deemed necessary or proper . . . the purposes of” are omitted as surplus. The words “under conditions the Secretary decides are necessary” are substituted for “subject to such terms and conditions as he may prescribe” for clarity and consistency. The words “and exercise the function of disbursement pursuant to a delegation by the Secretary of the Treasury” are omitted as unnecessary.
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (b). Pub. L. 108–136, § 1224(b)(1), substituted “only for the following:” for “only for—” in introductory provisions.
+2003—Subsec. (b). Pub. L. 108–136, § 1224(b)(1), substituted “only for the following:” for “only for—” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 108–136, § 1224(b)(2), (5), substituted “An” for “an” and period for semicolon at end.
+Subsec. (b)(1). Pub. L. 108–136, § 1224(b)(2), (5), substituted “An” for “an” and period for semicolon at end.
 
-Subsec. (b)(2). Pub. L. 108–136, § 1224(b)(3), (5), substituted “Personnel” for “personnel” and period for semicolon at end.
+Subsec. (b)(2). Pub. L. 108–136, § 1224(b)(3), (5), substituted “Personnel” for “personnel” and period for semicolon at end.
 
-Subsec. (b)(3) to (5). Pub. L. 108–136, § 1224(b)(4), (5), substituted “A” for “a” and period for semicolon at end.
+Subsec. (b)(3) to (5). Pub. L. 108–136, § 1224(b)(4), (5), substituted “A” for “a” and period for semicolon at end.
 
-Subsec. (b)(6). Pub. L. 108–136, § 1224(b)(3), (6), substituted “Personnel” for “personnel” and period for “; or”.
+Subsec. (b)(6). Pub. L. 108–136, § 1224(b)(3), (6), substituted “Personnel” for “personnel” and period for “; or”.
 
-Subsec. (b)(7). Pub. L. 108–136, § 1224(b)(4), (7), substituted “A” for “a” and “1752(1)))” for “1752(1))”.
+Subsec. (b)(7). Pub. L. 108–136, § 1224(b)(4), (7), substituted “A” for “a” and “1752(1)))” for “1752(1))”.
 
-Subsec. (b)(8). Pub. L. 108–136, § 1224(a), added par. (8).
+Subsec. (b)(8). Pub. L. 108–136, § 1224(a), added par. (8).
 
 1999—Subsec. (f). Pub. L. 106–65 added subsec. (f).
 
-1996—Subsec. (b)(3). Pub. L. 104–201, § 1011(1), substituted a semicolon for the period at end.
+1996—Subsec. (b)(3). Pub. L. 104–201, § 1011(1), substituted a semicolon for the period at end.
 
-Pub. L. 104–106, § 1090(a)(2), added par. (3). Former par. (3) redesignated (4).
+Pub. L. 104–106, § 1090(a)(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4) to (6). Pub. L. 104–106, § 1090(a)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
+Subsec. (b)(4) to (6). Pub. L. 104–106, § 1090(a)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
-Subsec. (b)(7). Pub. L. 104–201, § 1011(2)–(4), added par. (7).
+Subsec. (b)(7). Pub. L. 104–201, § 1011(2)–(4), added par. (7).
 
-Subsec. (c)(3), (4). Pub. L. 104–106, § 1090(b), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (c)(3), (4). Pub. L. 104–106, § 1090(b), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (e). Pub. L. 104–106, § 1090(c), added subsec. (e).
+Subsec. (e). Pub. L. 104–106, § 1090(c), added subsec. (e).
 
-### § 3343. Check forgery insurance fund
+### § 3343. Check forgery insurance fund
 
 **(a)** The Department of the Treasury has a special deposit revolving fund, the “Check Forgery Insurance Fund”. Necessary amounts are hereafter appropriated to the Fund out of any moneys in the Treasury not otherwise appropriated, and shall remain available until expended to make the payments required or authorized under this section. The Fund consists of amounts—
 
@@ -1711,9 +1711,9 @@ Subsec. (e). Pub. L. 104–106, § 1090(c), added subsec. (e).
 
 **(2)** received under subsection (d) of this section.
 
-**(b)** The Secretary of the Treasury shall pay from the Fund to a payee or special endorsee of a check drawn on the Treasury or a depositary designated by the Secretary the amount of the check without interest if in the determination of the Secretary the payee or special endorse 1
+**(b)** The Secretary of the Treasury shall pay from the Fund to a payee or special endorsee of a check drawn on the Treasury or a depositary designated by the Secretary the amount of the check without interest if in the determination of the Secretary the payee or special endorse 1
 
-<sup>1</sup>  So in original. Probably should be “endorsee”.
+<sup>1</sup> So in original. Probably should be “endorsee”.
 
 establishes that—
 
@@ -1741,15 +1741,15 @@ establishes that—
 
 **(B)** to refund amounts to the Secretary.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–134, title III, § 31001(x)(3), Apr. 26, 1996, 110 Stat. 1321–377.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–134, title III, § 31001(x)(3), Apr. 26, 1996, 110 Stat. 1321–377.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3343(a) | 31:561. | Nov. 21, 1941, ch. 489, §§ 1–3, 55 Stat. 777. |
+| 3343(a) | 31:561. | Nov. 21, 1941, ch. 489, §§ 1–3, 55 Stat. 777. |
 | 3343(b) | 31:562. |  |
-|  | 31:563a(1st sentence). | Nov. 21, 1941, ch. 489, 55 Stat. 777, § 4; added Dec. 22, 1974, Pub. L. 93–539, § 1(b), 88 Stat. 1738. |
+|  | 31:563a(1st sentence). | Nov. 21, 1941, ch. 489, 55 Stat. 777, § 4; added Dec. 22, 1974, Pub. L. 93–539, § 1(b), 88 Stat. 1738. |
 | 3343(c) | 31:563a(2d sentence). |  |
 | 3343(d) | 31:563(words after 3d comma). |  |
 |  | 31:563a(last sentence). |  |
@@ -1769,25 +1769,25 @@ In subsection (e), the word “Secretary” is substituted for “Treasurer of t
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–134, § 31001(x)(3)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “Amounts may be appropriated to the Fund.”
+1996—Subsec. (a). Pub. L. 104–134, § 31001(x)(3)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “Amounts may be appropriated to the Fund.”
 
-Subsec. (b). Pub. L. 104–134, § 31001(x)(3)(B)(i), inserted “in the determination of the Secretary the payee or special endorse establishes that” after “without interest if” in introductory provisions.
+Subsec. (b). Pub. L. 104–134, § 31001(x)(3)(B)(i), inserted “in the determination of the Secretary the payee or special endorse establishes that” after “without interest if” in introductory provisions.
 
-Subsec. (b)(2) to (4). Pub. L. 104–134, § 31001(x)(3)(B)(ii)–(iv), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “recovery from the forger, a transferee, or a party on the check after the forgery has been or may be delayed or unsuccessful.”
+Subsec. (b)(2) to (4). Pub. L. 104–134, § 31001(x)(3)(B)(ii)–(iv), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “recovery from the forger, a transferee, or a party on the check after the forgery has been or may be delayed or unsuccessful.”
 
-Subsec. (d). Pub. L. 104–134, § 31001(x)(3)(C), inserted after first sentence “The Secretary may use amounts in the Fund to reimburse payment certifying or authorizing agencies for any payment that the Secretary determines would otherwise have been payable from the Fund, and may reimburse certifying or authorizing agencies with amounts recovered because of payee nonentitlement.”
+Subsec. (d). Pub. L. 104–134, § 31001(x)(3)(C), inserted after first sentence “The Secretary may use amounts in the Fund to reimburse payment certifying or authorizing agencies for any payment that the Secretary determines would otherwise have been payable from the Fund, and may reimburse certifying or authorizing agencies with amounts recovered because of payee nonentitlement.”
 
-Subsecs. (e) to (g). Pub. L. 104–134, § 31001(x)(3)(D), (E), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+Subsecs. (e) to (g). Pub. L. 104–134, § 31001(x)(3)(D), (E), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Availability of Fund**
 
-Pub. L. 108–447, div. H, title II, § 220(b), Dec. 8, 2004, 118 Stat. 3242, provided that: “The Check Forgery Insurance Fund (31 U.S.C. 3343) shall be available to fund amounts relating to the payment of items listed in 31 U.S.C. 3333(a)(1), as amended above [Pub. L. 108–447, § 220(a)(1)], prior to the enactment of this Act [Dec. 8, 2004].”
+Pub. L. 108–447, div. H, title II, § 220(b), Dec. 8, 2004, 118 Stat. 3242, provided that: “The Check Forgery Insurance Fund (31 U.S.C. 3343) shall be available to fund amounts relating to the payment of items listed in 31 U.S.C. 3333(a)(1), as amended above [Pub. L. 108–447, § 220(a)(1)], prior to the enactment of this Act [Dec. 8, 2004].”
 
 ## SUBCHAPTER IV—IMPROPER PAYMENTS
 
-### § 3351. Definitions
+### § 3351. Definitions
 
 In this subchapter:
 
@@ -1837,7 +1837,7 @@ In this subchapter:
 
 **(8) State.—** The term “State” means each State of the United States, the District of Columbia, each territory or possession of the United States, and each Federally recognized Indian tribe.
 
-(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 113.)
+(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 113.)
 
 **Executive Documents**
 
@@ -1967,7 +1967,7 @@ The Director of the OMB is hereby authorized and directed to publish this memora
 
 Barack Obama.
 
-### § 3352. Estimates of improper payments and reports on actions to reduce improper payments
+### § 3352. Estimates of improper payments and reports on actions to reduce improper payments
 
 **(a) Identification of Susceptible Programs and Activities.—**
 
@@ -2263,7 +2263,7 @@ Barack Obama.
 
 **(5) Rule of construction.—** Except as provided under paragraph (4), nothing in this subsection shall be construed as terminating or in any way limiting authorities that are otherwise available to executive agencies under existing provisions of law to recover improper payments and use recovered amounts.
 
-(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 114.)
+(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 114.)
 
 **Editorial Notes**
 
@@ -2271,7 +2271,7 @@ Barack Obama.
 
 The date of enactment of this section, referred to in subsecs. (g)(1), (h), and (i)(2)(G), is the date of enactment of Pub. L. 116–117, which was approved Mar. 2, 2020.
 
-Section 2(g) of the Improper Payments Elimination and Recovery Act of 2010, referred to in subsec. (h), is section 2(g) of Pub. L. 111–204, July 22, 2010, 124 Stat. 2228, which was formerly set out as a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
+Section 2(g) of the Improper Payments Elimination and Recovery Act of 2010, referred to in subsec. (h), is section 2(g) of Pub. L. 111–204, July 22, 2010, 124 Stat. 2228, which was formerly set out as a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(2), Mar. 2, 2020, 134 Stat. 133.
 
 This Act, referred to in subsec. (i)(2)(E)(i)(I), probably means Pub. L. 116–117, which enacted this subchapter, amended section 3562 of this title, section 612 of Title 6, Domestic Security, and section 1397ee of Title 42, The Public Health and Welfare, amended provisions set out as a note under 5701 of Title 5, Government Organization and Employees, and repealed provisions set out as notes under sections 3301 and 3321 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 3301 of this title and Tables.
 
@@ -2283,7 +2283,7 @@ The date of enactment of the Improper Payments Elimination and Recovery Act of 2
 
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 3353. Compliance
+### § 3353. Compliance
 
 **(a) Annual Compliance Report by Inspectors General of Executive Agencies.—**
 
@@ -2401,7 +2401,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **(2)** may be modified as determined appropriate by the Director of the Office of Management and Budget.
 
-(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 123.)
+(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 123.)
 
 **Editorial Notes**
 
@@ -2409,7 +2409,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 The date of enactment of this section, referred to in subsecs. (a)(2) to (4) and (d), is the date of enactment of Pub. L. 116–117, which was approved Mar. 2, 2020.
 
-Section 3(b) of the Improper Payments Elimination and Recovery Improvement Act of 2012, referred to in subsec. (d), is section 3 of Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(3), Mar. 2, 2020, 134 Stat. 133.
+Section 3(b) of the Improper Payments Elimination and Recovery Improvement Act of 2012, referred to in subsec. (d), is section 3 of Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(3), Mar. 2, 2020, 134 Stat. 133.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2417,7 +2417,7 @@ Section 3(b) of the Improper Payments Elimination and Recovery Improvement Act o
 
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 3354. Do Not Pay Initiative
+### § 3354. Do Not Pay Initiative
 
 **(a) Prepayment and Preaward Procedures.—**
 
@@ -2511,7 +2511,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **(B)** to impede the exercise of an exemption provided to Inspectors General or by an executive agency in coordination with an Inspector General under section 6(j) of the Inspector General Act of 1978 (5 U.S.C. App.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(e) Plan To Curb Federal Improper Payments to Deceased Individuals by Improving the Quality and Use by Federal Agencies of the Social Security Administration Death Master File and Other Death Data.—**
 
@@ -2531,19 +2531,19 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **(3) Report.—** Not later than 120 days after the date of enactment of this section, the Director of the Office of Management and Budget shall submit a report to Congress on the plan described in this subsection, including recommended legislation.
 
-(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 126.)
+(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 126.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012, referred to in subsecs. (c), (d)(2), and (e)(1), is section 5 of Pub. L. 112–248, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(3), Mar. 2, 2020, 134 Stat. 133.
+Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012, referred to in subsecs. (c), (d)(2), and (e)(1), is section 5 of Pub. L. 112–248, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(3), Mar. 2, 2020, 134 Stat. 133.
 
 The date of enactment of this section, referred to in subsecs. (c), (d)(2), and (e)(1), (3), is the date of enactment of Pub. L. 116–117, which was approved Mar. 2, 2020.
 
-Section 6(j) of the Inspector General Act of 1978, referred to in subsec. (d)(4)(B), is section 6(j) of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 406(j) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4224, 4361.
+Section 6(j) of the Inspector General Act of 1978, referred to in subsec. (d)(4)(B), is section 6(j) of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 406(j) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4224, 4361.
 
-### § 3355. Improving recovery of improper payments
+### § 3355. Improving recovery of improper payments
 
 The Director of the Office of Management and Budget shall determine—
 
@@ -2551,9 +2551,9 @@ The Director of the Office of Management and Budget shall determine—
 
 **(2)** targets for recovering improper payments, including specific information on amounts and payments recovered by recovery audit contractors.
 
-(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 130.)
+(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 130.)
 
-### § 3356. Improving the use of data by executive agencies for curbing improper payments
+### § 3356. Improving the use of data by executive agencies for curbing improper payments
 
 **(a) Prompt Reporting of Death Information by the Department of State and the Department of Defense.—** The procedure required to be established under section 7(a) of the Improper Payments Elimination and Recovery Improvement Act of 2012, as in effect on the day before the date of enactment of this section—
 
@@ -2573,7 +2573,7 @@ The Director of the Office of Management and Budget shall determine—
 
 **(2)** may be modified as determined appropriate by the Director of the Office of Management and Budget.
 
-(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 130.)
+(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 130.)
 
 **Editorial Notes**
 
@@ -2581,9 +2581,9 @@ The Director of the Office of Management and Budget shall determine—
 
 The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 116–117, which was approved Mar. 2, 2020.
 
-Section 7 of the Improper Payments Elimination and Recovery Improvement Act of 2012, referred to in subsecs. (a) and (c), is section 7 of Pub. L. 112–248, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(3), Mar. 2, 2020, 134 Stat. 133.
+Section 7 of the Improper Payments Elimination and Recovery Improvement Act of 2012, referred to in subsecs. (a) and (c), is section 7 of Pub. L. 112–248, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(3), Mar. 2, 2020, 134 Stat. 133.
 
-### § 3357. Financial and administrative controls relating to fraud and improper payments
+### § 3357. Financial and administrative controls relating to fraud and improper payments
 
 **(a) Definition.—** In this section, the term “agency” has the meaning given the term in section 551 of title 5.
 
@@ -2615,17 +2615,17 @@ Section 7 of the Improper Payments Elimination and Recovery Improvement Act of 2
 
 **(3)** establishing strategies, procedures, and other steps to curb fraud.
 
-(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 131.)
+(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 131.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3(a) of the Fraud Reduction and Data Analytics Act of 2015, referred to in subsec. (b), is section 3(a) of Pub. L. 114–186, June 30, 2016, 130 Stat. 546, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(4), Mar. 2, 2020, 134 Stat. 133.
+Section 3(a) of the Fraud Reduction and Data Analytics Act of 2015, referred to in subsec. (b), is section 3(a) of Pub. L. 114–186, June 30, 2016, 130 Stat. 546, which was formerly set out in a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, § 3(a)(4), Mar. 2, 2020, 134 Stat. 133.
 
 The date of enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 116–117, which was approved Mar. 2, 2020.
 
-### § 3358. Interagency working group for Governmentwide payment integrity improvement
+### § 3358. Interagency working group for Governmentwide payment integrity improvement
 
 **(a) Working Group.—**
 
@@ -2659,7 +2659,7 @@ The date of enactment of this section, referred to in subsec. (b), is the date o
 
 **(2)** a plan for State agencies to work with Federal agencies to regularly review lists of beneficiaries of State-managed Federal programs for duplicate enrollment between States, including how the Do Not Pay Business Center and the data analytics initiative of the Department of the Treasury could aid in the detection of duplicate enrollment.
 
-(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 132.)
+(Added Pub. L. 116–117, § 2(a), Mar. 2, 2020, 134 Stat. 132.)
 
 **Editorial Notes**
 

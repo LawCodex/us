@@ -19,55 +19,55 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title V, §§ 504(b), 543, Dec. 18, 2025, 139 Stat. 855, 873, added items 2004c and 2010. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title V, §§ 504(b), 543, Dec. 18, 2025, 139 Stat. 855, 873, added items 2004c and 2010. Amendments were made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title V, § 552(b)(1), Dec. 27, 2021, 135 Stat. 1735, added item 2001.
+2021—Pub. L. 117–81, div. A, title V, § 552(b)(1), Dec. 27, 2021, 135 Stat. 1735, added item 2001.
 
-2019—Pub. L. 116–92, div. A, title V, §§ 551(b)(2), 553(b)(2), Dec. 20, 2019, 133 Stat. 1386, 1387, substituted “Detail as students at law schools; commissioned officers; certain enlisted members” for “Detail of commissioned officers as students at law schools” in item 2004 and added item 2017.
+2019—Pub. L. 116–92, div. A, title V, §§ 551(b)(2), 553(b)(2), Dec. 20, 2019, 133 Stat. 1386, 1387, substituted “Detail as students at law schools; commissioned officers; certain enlisted members” for “Detail of commissioned officers as students at law schools” in item 2004 and added item 2017.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1244(d), Dec. 23, 2016, 130 Stat. 2518, struck out items 2010 “Participation of developing countries in combined exercises: payment of incremental expenses” and 2011 “Special operations forces: training with friendly foreign forces”.
+2016—Pub. L. 114–328, div. A, title XII, § 1244(d), Dec. 23, 2016, 130 Stat. 2518, struck out items 2010 “Participation of developing countries in combined exercises: payment of incremental expenses” and 2011 “Special operations forces: training with friendly foreign forces”.
 
-2014—Pub. L. 113–291, div. A, title V, § 551(b), Dec. 19, 2014, 128 Stat. 3377, substituted “Program to assist members in obtaining professional credentials” for “Payment of expenses to obtain professional credentials” in item 2015.
+2014—Pub. L. 113–291, div. A, title V, § 551(b), Dec. 19, 2014, 128 Stat. 3377, substituted “Program to assist members in obtaining professional credentials” for “Payment of expenses to obtain professional credentials” in item 2015.
 
-2013—Pub. L. 113–66, div. A, title V, § 541(b), Dec. 26, 2013, 127 Stat. 762, added item 2006a.
+2013—Pub. L. 113–66, div. A, title V, § 541(b), Dec. 26, 2013, 127 Stat. 762, added item 2006a.
 
-2009—Pub. L. 111–84, div. A, title V, §§ 521(b), 525(b)(2), Oct. 28, 2009, 123 Stat. 2285, 2287, added items 2004b and 2016.
+2009—Pub. L. 111–84, div. A, title V, §§ 521(b), 525(b)(2), Oct. 28, 2009, 123 Stat. 2285, 2287, added items 2004b and 2016.
 
-2006—Pub. L. 109–364, div. A, title V, § 536(b), Oct. 17, 2006, 120 Stat. 2209, added item 2004a.
+2006—Pub. L. 109–364, div. A, title V, § 536(b), Oct. 17, 2006, 120 Stat. 2209, added item 2004a.
 
-Pub. L. 109–163, div. A, title V, § 538(b), Jan. 6, 2006, 119 Stat. 3250, added item 2015.
+Pub. L. 109–163, div. A, title V, § 538(b), Jan. 6, 2006, 119 Stat. 3250, added item 2015.
 
-1997—Pub. L. 105–85, div. A, title III, § 325(b), Nov. 18, 1997, 111 Stat. 1679, added item 2014.
+1997—Pub. L. 105–85, div. A, title III, § 325(b), Nov. 18, 1997, 111 Stat. 1679, added item 2014.
 
-1996—Pub. L. 104–201, div. A, title III, § 362(a)(2), Sept. 23, 1996, 110 Stat. 2493, added item 2013.
+1996—Pub. L. 104–201, div. A, title III, § 362(a)(2), Sept. 23, 1996, 110 Stat. 2493, added item 2013.
 
-Pub. L. 104–106, div. A, title V, § 572(b), Feb. 10, 1996, 110 Stat. 355, added item 2012.
+Pub. L. 104–106, div. A, title V, § 572(b), Feb. 10, 1996, 110 Stat. 355, added item 2012.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(12), Oct. 5, 1994, 108 Stat. 3014, struck out item 2001 “Reserve components”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(12), Oct. 5, 1994, 108 Stat. 3014, struck out item 2001 “Reserve components”.
 
-1991—Pub. L. 102–190, div. A, title X, § 1052(a)(2), Dec. 5, 1991, 105 Stat. 1471, added item 2011.
+1991—Pub. L. 102–190, div. A, title X, § 1052(a)(2), Dec. 5, 1991, 105 Stat. 1471, added item 2011.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(i)(3)(B), (4)(B), Nov. 5, 1990, 104 Stat. 1718, struck out “of the military departments” after “officers” in item 2004 and substituted “Payment” for “Limitation on payment” in item 2007.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(i)(3)(B), (4)(B), Nov. 5, 1990, 104 Stat. 1718, struck out “of the military departments” after “officers” in item 2004 and substituted “Payment” for “Limitation on payment” in item 2007.
 
-1986—Pub. L. 99–661, div. A, title XIII, § 1321(a)(2), Nov. 14, 1986, 100 Stat. 3988, added item 2010.
+1986—Pub. L. 99–661, div. A, title XIII, § 1321(a)(2), Nov. 14, 1986, 100 Stat. 3988, added item 2010.
 
-1984—Pub. L. 98–525, title VII, § 706(a)(2), title XIV, §§ 1401(g)(2), 1405(31), Oct. 19, 1984, 98 Stat. 2570, 2619, 2624, substituted a colon for a semicolon in item 2003 and added items 2006 to 2009.
+1984—Pub. L. 98–525, title VII, § 706(a)(2), title XIV, §§ 1401(g)(2), 1405(31), Oct. 19, 1984, 98 Stat. 2570, 2619, 2624, substituted a colon for a semicolon in item 2003 and added items 2006 to 2009.
 
-1980—Pub. L. 96–357, § 2(b), Sept. 24, 1980, 94 Stat. 1182, added item 2005.
+1980—Pub. L. 96–357, § 2(b), Sept. 24, 1980, 94 Stat. 1182, added item 2005.
 
-1973—Pub. L. 93–155, title VIII, § 817(b), Nov. 16, 1973, 87 Stat. 622, added item 2004.
+1973—Pub. L. 93–155, title VIII, § 817(b), Nov. 16, 1973, 87 Stat. 622, added item 2004.
 
-1971—Pub. L. 92–168, § 4(2), Nov. 24, 1971, 85 Stat. 489, added item 2003.
+1971—Pub. L. 92–168, § 4(2), Nov. 24, 1971, 85 Stat. 489, added item 2003.
 
-1970—Pub. L. 91–278, § 2(3), June 12, 1970, 84 Stat. 306, substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in item 2002.
+1970—Pub. L. 91–278, § 2(3), June 12, 1970, 84 Stat. 306, substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in item 2002.
 
-1965—Pub. L. 89–160, § 1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
+1965—Pub. L. 89–160, § 1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Mandatory Training on Government Ethics and National Security Law**
 
-Pub. L. 119–60, div. A, title V, § 545, Dec. 18, 2025, 139 Stat. 873, provided that:
+Pub. L. 119–60, div. A, title V, § 545, Dec. 18, 2025, 139 Stat. 873, provided that:
 
 > **“(a) Annual Training on Government Ethics and Standards of Conduct.—**
 
@@ -97,11 +97,11 @@ Pub. L. 119–60, div. A, title V, § 545, Dec. 18, 2025, 139 Stat. 873, provi
 
 **Incorporation of Artificial Intelligence Considerations Into Cybersecurity Training**
 
-Pub. L. 119–60, div. A, title XV, § 1515, Dec. 18, 2025, 139 Stat. 1153, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, acting through the Chief Information Officer of the Department of Defense, shall revise the mandatory training on cybersecurity for members of the Armed Forces and civilian employees of the Department of Defense to include content related to the unique cybersecurity challenges posed by the use of artificial intelligence.”
+Pub. L. 119–60, div. A, title XV, § 1515, Dec. 18, 2025, 139 Stat. 1153, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, acting through the Chief Information Officer of the Department of Defense, shall revise the mandatory training on cybersecurity for members of the Armed Forces and civilian employees of the Department of Defense to include content related to the unique cybersecurity challenges posed by the use of artificial intelligence.”
 
 **Expansion of Participation in the Digital On-Demand Program**
 
-Pub. L. 118–159, div. A, title II, § 232, Dec. 23, 2024, 138 Stat. 1837, provided that:
+Pub. L. 118–159, div. A, title II, § 232, Dec. 23, 2024, 138 Stat. 1837, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall take such steps as may be necessary—
 
@@ -119,7 +119,7 @@ Pub. L. 118–159, div. A, title II, § 232, Dec. 23, 2024, 138 Stat. 1837, pr
 
 **Required Constitutional Law Training**
 
-Pub. L. 118–159, div. A, title V, § 546, Dec. 23, 2024, 138 Stat. 1893, provided that:
+Pub. L. 118–159, div. A, title V, § 546, Dec. 23, 2024, 138 Stat. 1893, provided that:
 
 > **“(a) In General.—** Beginning not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall ensure that all newly commissioned officers of the Armed Forces receive training on the Constitution of the United States prior to reporting to their first operational assignment.
 
@@ -133,7 +133,7 @@ Pub. L. 118–159, div. A, title V, § 546, Dec. 23, 2024, 138 Stat. 1893, pro
 
 **Protection and Legal Preparedness for Members of the Armed Forces Abroad**
 
-Pub. L. 118–31, div. A, title XII, § 1229, Dec. 22, 2023, 137 Stat. 456, provided that:
+Pub. L. 118–31, div. A, title XII, § 1229, Dec. 22, 2023, 137 Stat. 456, provided that:
 
 > **“(a) Review and Briefing Required.—**
 
@@ -183,7 +183,7 @@ Pub. L. 118–31, div. A, title XII, § 1229, Dec. 22, 2023, 137 Stat. 456, pr
 
 **Course of Education and Pilot Program on Authentication of Digital Content Provenance for Certain Department of Defense Media Content**
 
-Pub. L. 118–31, div. A, title XV, § 1524, Dec. 22, 2023, 137 Stat. 554, provided that:
+Pub. L. 118–31, div. A, title XV, § 1524, Dec. 22, 2023, 137 Stat. 554, provided that:
 
 > **“(a) Course of Education.—**
 
@@ -269,7 +269,7 @@ Pub. L. 118–31, div. A, title XV, § 1524, Dec. 22, 2023, 137 Stat. 554, pro
 
 **Continuing Education Curriculum on Use of Innovative Products for Military Construction Projects**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2886, Dec. 22, 2023, 137 Stat. 783, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2886, Dec. 22, 2023, 137 Stat. 783, provided that:
 
 > **“(a) Curriculum Required.—** Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Commander of the Naval Facilities Systems Engineering Command and the Deputy Commanding General for Military and International Operations for the Army Corps of Engineers, shall establish a joint continuing education curriculum for the following individuals responsible for managing military construction projects and planning and design projects within the Department of Defense:
 
@@ -317,7 +317,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2886, Dec. 22, 2023, 137 Stat. 783,
 
 **Pilot Program on Scholarship-For-Service for Civilian Behavioral Health Providers**
 
-Pub. L. 117–263, div. A, title VII, § 737(b), (e), Dec. 23, 2022, 136 Stat. 2671, 2674, provided that:
+Pub. L. 117–263, div. A, title VII, § 737(b), (e), Dec. 23, 2022, 136 Stat. 2671, 2674, provided that:
 
 > **“(b) Pilot Program on Scholarship-for-service for Civilian Behavioral Health Providers.—**
 
@@ -397,7 +397,7 @@ Pub. L. 117–263, div. A, title VII, § 737(b), (e), Dec. 23, 2022, 136 Stat.
 
 **Joint Information Operations Course**
 
-Pub. L. 117–263, div. A, title XV, § 1523, Dec. 23, 2022, 136 Stat. 2898, provided that:
+Pub. L. 117–263, div. A, title XV, § 1523, Dec. 23, 2022, 136 Stat. 2898, provided that:
 
 > **“(a) Joint Information Operations Course.—** The Secretary of Defense shall develop and provide to members of the Army, Navy, Air Force, Marine Corps, and Space Force a course to prepare the members to plan and conduct information operations in a joint environment pursuant to title 10, United States Code. Such course shall include—
 
@@ -421,7 +421,7 @@ Pub. L. 117–263, div. A, title XV, § 1523, Dec. 23, 2022, 136 Stat. 2898, p
 
 **Lease or Use Agreement for Category 3 Subterranean Training Facility**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2869(a)–(d), Dec. 23, 2022, 136 Stat. 3012, 3013, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2869(a)–(d), Dec. 23, 2022, 136 Stat. 3012, 3013, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may seek to enter into a lease or use agreement with a category 3 subterranean training facility that—
 
@@ -459,7 +459,7 @@ Pub. L. 117–263, div. B, title XXVIII, § 2869(a)–(d), Dec. 23, 2022, 136 
 
 **Executive Education on Emerging Technologies for Senior Civilian and Military Leaders**
 
-Pub. L. 117–81, div. A, title II, § 228, Dec. 27, 2021, 135 Stat. 1609, provided that:
+Pub. L. 117–81, div. A, title II, § 228, Dec. 27, 2021, 135 Stat. 1609, provided that:
 
 > **“(a) Establishment of Course.—** Not later than two years after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall establish executive education activities on emerging technologies for appropriate general and flag officers and senior executive-level civilian leaders that are designed specifically to prepare new general and flag officers and senior executive-level civilian leaders on relevant technologies and how these technologies may be applied to military and business activities in the Department of Defense.
 
@@ -485,11 +485,11 @@ Pub. L. 117–81, div. A, title II, § 228, Dec. 27, 2021, 135 Stat. 1609, pro
 
 **Authority To Maintain Access to Category 3 Subterranean Training Facility**
 
-Pub. L. 117–81, div. A, title III, § 375, Dec. 27, 2021, 135 Stat. 1667, which provided for authority to maintain access to category 3 subterranean training facility, was repealed by Pub. L. 117–263, div. B, title XXVIII, § 2869(e), Dec. 23, 2022, 136 Stat. 3013.
+Pub. L. 117–81, div. A, title III, § 375, Dec. 27, 2021, 135 Stat. 1667, which provided for authority to maintain access to category 3 subterranean training facility, was repealed by Pub. L. 117–263, div. B, title XXVIII, § 2869(e), Dec. 23, 2022, 136 Stat. 3013.
 
 **Implementation of Comptroller General Recommendations on Preventing Tactical Vehicle Training Accidents**
 
-Pub. L. 117–81, div. A, title III, § 377, Dec. 27, 2021, 135 Stat. 1668, provided that:
+Pub. L. 117–81, div. A, title III, § 377, Dec. 27, 2021, 135 Stat. 1668, provided that:
 
 > **“(a) Plan Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], each Secretary concerned shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and to the Comptroller General of the United States a plan to address the recommendations in the report of the Government Accountability Office entitled ‘Army and Marine Corps Should Take Additional Actions to Mitigate and Prevent Training Accidents’ (GAO–21–361). Each such plan shall include, with respect to each recommendation in such report that the Secretary concerned has implemented or intends to implement—
 
@@ -519,7 +519,7 @@ Pub. L. 117–81, div. A, title III, § 377, Dec. 27, 2021, 135 Stat. 1668, pr
 
 **Defense Language Continuing Education Program**
 
-Pub. L. 117–81, div. A, title V, § 559B, Dec. 27, 2021, 135 Stat. 1743, provided that:
+Pub. L. 117–81, div. A, title V, § 559B, Dec. 27, 2021, 135 Stat. 1743, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Under Secretary of Defense for Personnel and Readiness shall establish policies and procedures to provide, to linguists of the covered Armed Forces who have made the transition from formal training programs to operational and staff assignments, continuing language education to maintain their respective language proficiencies.
 
@@ -535,7 +535,7 @@ Pub. L. 117–81, div. A, title V, § 559B, Dec. 27, 2021, 135 Stat. 1743, pro
 
 **Training Program for Human Resources Personnel in Best Practices for Technical Workforce**
 
-Pub. L. 116–283, div. A, title II, § 246, Jan. 1, 2021, 134 Stat. 3490, provided that:
+Pub. L. 116–283, div. A, title II, § 246, Jan. 1, 2021, 134 Stat. 3490, provided that:
 
 > **“(a) Pilot Training Program.—**
 
@@ -575,7 +575,7 @@ Pub. L. 116–283, div. A, title II, § 246, Jan. 1, 2021, 134 Stat. 3490, pro
 
 **Pilot Program on Self-Directed Training in Advanced Technologies**
 
-Pub. L. 116–283, div. A, title II, § 248, Jan. 1, 2021, 134 Stat. 3492, provided that:
+Pub. L. 116–283, div. A, title II, § 248, Jan. 1, 2021, 134 Stat. 3492, provided that:
 
 > **“(a) Online Courses.—** The Secretary of Defense shall carry out a pilot program under which the Secretary makes available a list of approved online courses relating to advanced technologies that may be taken by civilian employees of the Department of Defense and members of the Armed Forces on a voluntary basis while not engaged in the performance of their duties.
 
@@ -603,7 +603,7 @@ Pub. L. 116–283, div. A, title II, § 248, Jan. 1, 2021, 134 Stat. 3492, pro
 
 **Training Program Regarding Foreign Malign Influence Campaigns**
 
-Pub. L. 116–283, div. A, title V, § 589E, Jan. 1, 2021, 134 Stat. 3661, as amended by Pub. L. 117–81, div. A, title V, § 549N, Dec. 27, 2021, 135 Stat. 1733; Pub. L. 117–263, div. F, title LXIII, § 6307(a)(3), Dec. 23, 2022, 136 Stat. 3505, provided that:
+Pub. L. 116–283, div. A, title V, § 589E, Jan. 1, 2021, 134 Stat. 3661, as amended by Pub. L. 117–81, div. A, title V, § 549N, Dec. 27, 2021, 135 Stat. 1733; Pub. L. 117–263, div. F, title LXIII, § 6307(a)(3), Dec. 23, 2022, 136 Stat. 3505, provided that:
 
 > **“(a) Establishment.—** Not later than September 30, 2021, the Secretary of Defense shall establish a program for training members of the Armed Forces and civilian employees of the Department of Defense regarding the threat of foreign malign influence campaigns targeted at such individuals and the families of such individuals, including such campaigns carried out through social media.
 
@@ -635,7 +635,7 @@ Pub. L. 116–283, div. A, title V, § 589E, Jan. 1, 2021, 134 Stat. 3661, as 
 
 **Artificial Intelligence and Machine Learning Education Platforms**
 
-Pub. L. 116–92, div. A, title II, §256(d), as added by Pub. L. 118–159, div. A, title II, § 222, Dec. 23, 2024, 138 Stat. 1829, provided that:
+Pub. L. 116–92, div. A, title II, §256(d), as added by Pub. L. 118–159, div. A, title II, § 222, Dec. 23, 2024, 138 Stat. 1829, provided that:
 
 > **“(1) In general.—** Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 [Dec. 23, 2024], the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall—
 
@@ -651,7 +651,7 @@ Pub. L. 116–92, div. A, title II, §256(d), as added by Pub. L. 118–159, div
 
 **Collection of Blast Exposure Information**
 
-Pub. L. 116–92, div. A, title VII, § 742(b), Dec. 20, 2019, 133 Stat. 1469, provided that:
+Pub. L. 116–92, div. A, title VII, § 742(b), Dec. 20, 2019, 133 Stat. 1469, provided that:
 
 > “The Secretary of Defense shall collect blast exposure information with respect to a member of the Armed Forces in a manner—
 
@@ -667,7 +667,7 @@ Pub. L. 116–92, div. A, title VII, § 742(b), Dec. 20, 2019, 133 Stat. 1469,
 
 **Review of Guidance on Blast Exposure During Training**
 
-Pub. L. 115–232, div. A, title II, § 253, Aug. 13, 2018, 132 Stat. 1704, provided that:
+Pub. L. 115–232, div. A, title II, § 253, Aug. 13, 2018, 132 Stat. 1704, provided that:
 
 > **“(a) Initial Review.—** Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall review the decibel level exposure, concussive effects exposure, and the frequency of exposure to heavy weapons fire of an individual during training exercises to establish appropriate limitations on such exposures.
 
@@ -693,15 +693,15 @@ Pub. L. 115–232, div. A, title II, § 253, Aug. 13, 2018, 132 Stat. 1704, pr
 
 **Annual Training Regarding the Influence Campaign of the Russian Federation**
 
-Pub. L. 115–91, div. A, title X, § 1048, Dec. 12, 2017, 131 Stat. 1558, provided that: “In addition to any currently mandated training, the Secretary of Defense may furnish annual training to all members of the Armed Forces and all civilian employees of the Department of Defense, regarding attempts by the Russian Federation and its proxies and agents to influence and recruit members of the Armed Forces as part of its influence campaign.”
+Pub. L. 115–91, div. A, title X, § 1048, Dec. 12, 2017, 131 Stat. 1558, provided that: “In addition to any currently mandated training, the Secretary of Defense may furnish annual training to all members of the Armed Forces and all civilian employees of the Department of Defense, regarding attempts by the Russian Federation and its proxies and agents to influence and recruit members of the Armed Forces as part of its influence campaign.”
 
 **Policy on Active Shooter Training for Certain Law Enforcement Personnel**
 
-Pub. L. 112–81, div. A, title III, § 367, Dec. 31, 2011, 125 Stat. 1381, provided that: “The Secretary of Defense shall establish policy and promulgate guidelines to ensure civilian and military law enforcement personnel charged with security functions on military installations shall receive Active Shooter Training as described in finding 4.3 of the document entitled ‘Protecting the Force: Lessons From Fort Hood’.”
+Pub. L. 112–81, div. A, title III, § 367, Dec. 31, 2011, 125 Stat. 1381, provided that: “The Secretary of Defense shall establish policy and promulgate guidelines to ensure civilian and military law enforcement personnel charged with security functions on military installations shall receive Active Shooter Training as described in finding 4.3 of the document entitled ‘Protecting the Force: Lessons From Fort Hood’.”
 
 **Language Training Centers for Members of the Armed Forces and Civilian Employees of the Department of Defense**
 
-Pub. L. 111–84, div. A, title V, § 529, Oct. 28, 2009, 123 Stat. 2290, as amended by Pub. L. 118–31, div. A, title V, § 575, Dec. 22, 2023, 137 Stat. 277, provided that:
+Pub. L. 111–84, div. A, title V, § 529, Oct. 28, 2009, 123 Stat. 2290, as amended by Pub. L. 118–31, div. A, title V, § 575, Dec. 22, 2023, 137 Stat. 277, provided that:
 
 > **“(a) Program Authorized.—** The Secretary of Defense shall carry out a program to establish language training centers at accredited universities, senior military colleges, or other similar institutions of higher education for purposes of accelerating the development of foundational expertise in critical and strategic languages and regional area studies (as defined by the Secretary of Defense for purposes of this section) for members of the Armed Forces, including members of the reserve components and candidates of the Reserve Officers’ Training Corps programs, and civilian employees of the Department of Defense.
 
@@ -739,7 +739,7 @@ Pub. L. 111–84, div. A, title V, § 529, Oct. 28, 2009, 123 Stat. 2290, as a
 
 **Enhancing Education Partnerships To Improve Accessibility and Flexibility for Members of the Armed Forces**
 
-Pub. L. 110–417, [div. A], title V, § 550, Oct. 14, 2008, 122 Stat. 4468, provided that:
+Pub. L. 110–417, [div. A], title V, § 550, Oct. 14, 2008, 122 Stat. 4468, provided that:
 
 > **“(a) Authority.—** The Secretary of a military department may enter into one or more education partnership agreements with educational institutions in the United States for the purpose of—
 
@@ -755,7 +755,7 @@ Pub. L. 110–417, [div. A], title V, § 550, Oct. 14, 2008, 122 Stat. 4468, p
 
 > **“(c) Educational Institution Defined.—** In this section, the term ‘educational institution’ means an accredited college, university, or technical school in the United States.”
 
-## § 2001. Human relations training
+## § 2001. Human relations training
 
 **(a) Human Relations Training.—**
 
@@ -775,15 +775,15 @@ Pub. L. 110–417, [div. A], title V, § 550, Oct. 14, 2008, 122 Stat. 4468, p
 
 **(2)** each such individual is informed that if supporting such guarantees is not possible personally for that individual, then that individual should decline to enter the armed forces.
 
-(Added Pub. L. 117–81, div. A, title V, § 552(a), Dec. 27, 2021, 135 Stat. 1735.)
+(Added Pub. L. 117–81, div. A, title V, § 552(a), Dec. 27, 2021, 135 Stat. 1735.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2001, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, related to division of reserve components into training categories, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980. See section 10141(c) of this title.
+A prior section 2001, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, related to division of reserve components into training categories, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980. See section 10141(c) of this title.
 
-## § 2002. Dependents of members of armed forces: language training
+## § 2002. Dependents of members of armed forces: language training
 
 **(a)** Notwithstanding section 701(b) of the Foreign Service Act of 1980 (22 U.S.C. 4021(b)) or any other provision of law, and under regulations to be prescribed by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security, language training may be provided in—
 
@@ -797,7 +797,7 @@ to a dependent of a member of the armed forces in anticipation of the member’s
 
 **(b)** In this section, the term “dependent” has the same meaning that it has under section 401 of title 37.
 
-(Added Pub. L. 89–160, § 1(1), Sept. 1, 1965, 79 Stat. 615; amended Pub. L. 91–278, § 2(1), (2), June 12, 1970, 84 Stat. 306; Pub. L. 96–465, title II, § 2206(c)(1), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 97–22, § 11(a)(7), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, § 1405(30), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, § 1045(a)(4), Nov. 24, 2003, 117 Stat. 1612.)
+(Added Pub. L. 89–160, § 1(1), Sept. 1, 1965, 79 Stat. 615; amended Pub. L. 91–278, § 2(1), (2), June 12, 1970, 84 Stat. 306; Pub. L. 96–465, title II, § 2206(c)(1), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 97–22, § 11(a)(7), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, § 1405(30), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, § 1045(a)(4), Nov. 24, 2003, 117 Stat. 1612.)
 
 **Editorial Notes**
 
@@ -815,11 +815,11 @@ to a dependent of a member of the armed forces in anticipation of the member’s
 
 1980—Subsec. (a). Pub. L. 96–465, in provisions preceding par. (1) substituted “section 701(b) of the Foreign Service Act of 1980” for “section 1041 of title 22” and in par. (2) substituted “section 701(a) of the Foreign Service Act of 1980” for “section 1041 of title 22”.
 
-1970—Pub. L. 91–278, § 2(1), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in section catchline.
+1970—Pub. L. 91–278, § 2(1), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in section catchline.
 
-Subsec. (a). Pub. L. 91–278, § 2(2)(A), authorized Secretary of Transportation to prescribe regulations for Coast Guard when not operating as a service in the Navy.
+Subsec. (a). Pub. L. 91–278, § 2(2)(A), authorized Secretary of Transportation to prescribe regulations for Coast Guard when not operating as a service in the Navy.
 
-Subsec. (a)(3). Pub. L. 91–278, § 2(2)(B), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
+Subsec. (a)(3). Pub. L. 91–278, § 2(2)(B), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -831,13 +831,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-## § 2003. Aeronautical rating as pilot: qualifications
+## § 2003. Aeronautical rating as pilot: qualifications
 
 To be eligible to receive an aeronautical rating as a pilot in the Army or Air Force or be designated as a naval aviator, a member of an armed force must successfully complete an undergraduate pilot course of instruction prescribed or approved by the Secretary of his military department.
 
-(Added Pub. L. 92–168, § 4(1), Nov. 24, 1971, 85 Stat. 489.)
+(Added Pub. L. 92–168, § 4(1), Nov. 24, 1971, 85 Stat. 489.)
 
-## § 2004. Detail as students at law schools; commissioned officers; certain enlisted members
+## § 2004. Detail as students at law schools; commissioned officers; certain enlisted members
 
 **(a)**
 
@@ -885,49 +885,49 @@ To be eligible to receive an aeronautical rating as a pilot in the Army or Air F
 
 **(f)** No agreement detailing any officer or enlisted member of the armed forces to an accredited law school may be entered into during any period that the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
-(Added Pub. L. 93–155, title VIII, § 817(a), Nov. 16, 1973, 87 Stat. 621; amended Pub. L. 101–510, div. A, title XIV, § 1484(i)(3)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 116–92, div. A, title V, § 551(a), (b)(1), Dec. 20, 2019, 133 Stat. 1385, 1386; Pub. L. 116–283, div. A, title X, § 1081(a)(34), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title V, § 552(a), Dec. 23, 2024, 138 Stat. 1893; Pub. L. 119–60, div. A, title V, § 551, Dec. 18, 2025, 139 Stat. 876.)
+(Added Pub. L. 93–155, title VIII, § 817(a), Nov. 16, 1973, 87 Stat. 621; amended Pub. L. 101–510, div. A, title XIV, § 1484(i)(3)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 116–92, div. A, title V, § 551(a), (b)(1), Dec. 20, 2019, 133 Stat. 1385, 1386; Pub. L. 116–283, div. A, title X, § 1081(a)(34), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title V, § 552(a), Dec. 23, 2024, 138 Stat. 1893; Pub. L. 119–60, div. A, title V, § 551, Dec. 18, 2025, 139 Stat. 876.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b)(1)(A). Pub. L. 119–60, § 551(a)(1)(A), substituted “with respect to whom the Secretary of a military department is providing funding for educational expenses in accordance with subsection (a)(2)” for “detailed pursuant to subsection (a)(1)” in introductory provisions.
+2025—Subsec. (b)(1)(A). Pub. L. 119–60, § 551(a)(1)(A), substituted “with respect to whom the Secretary of a military department is providing funding for educational expenses in accordance with subsection (a)(2)” for “detailed pursuant to subsection (a)(1)” in introductory provisions.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 119–60, § 551(a)(1)(B), substituted “10 years” for “eight years”.
+Subsec. (b)(1)(A)(ii). Pub. L. 119–60, § 551(a)(1)(B), substituted “10 years” for “eight years”.
 
-Subsec. (b)(1)(B). Pub. L. 119–60, § 551(a)(2), substituted “with respect to whom the Secretary of a military department is not providing funding for educational expenses in accordance with subsection (a)(3)” for “detailed pursuant to subsection (a)(2)” in introductory provisions.
+Subsec. (b)(1)(B). Pub. L. 119–60, § 551(a)(2), substituted “with respect to whom the Secretary of a military department is not providing funding for educational expenses in accordance with subsection (a)(3)” for “detailed pursuant to subsection (a)(2)” in introductory provisions.
 
-Subsec. (b)(3)(C)(i). Pub. L. 119–60, § 551(b)(1), substituted “subsection (a)(2)” for “subsection (a)(1)”.
+Subsec. (b)(3)(C)(i). Pub. L. 119–60, § 551(b)(1), substituted “subsection (a)(2)” for “subsection (a)(1)”.
 
-Subsec. (b)(3)(C)(ii). Pub. L. 119–60, § 551(b)(2), substituted “subsection (a)(3)” for “subsection (a)(2)”.
+Subsec. (b)(3)(C)(ii). Pub. L. 119–60, § 551(b)(2), substituted “subsection (a)(3)” for “subsection (a)(2)”.
 
-2024—Subsec. (a). Pub. L. 118–159, § 552(a)(1), designated first sentence as par. (1), added pars. (2) and (3), and struck out former second sentence which read as follows: “No more than twenty-five officers and enlisted members from each military department may commence such training in any single fiscal year.”
+2024—Subsec. (a). Pub. L. 118–159, § 552(a)(1), designated first sentence as par. (1), added pars. (2) and (3), and struck out former second sentence which read as follows: “No more than twenty-five officers and enlisted members from each military department may commence such training in any single fiscal year.”
 
-Subsec. (b)(1). Pub. L. 118–159, § 552(a)(2)(A), inserted “(A) in the case of a member detailed pursuant to subsection (a)(1),” after “(1)”, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+Subsec. (b)(1). Pub. L. 118–159, § 552(a)(2)(A), inserted “(A) in the case of a member detailed pursuant to subsection (a)(1),” after “(1)”, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (b)(3)(C). Pub. L. 118–159, § 552(a)(2)(B), which directed substitution of “period of—” and cls. (i) and (ii) for “period of two years”, was executed by making the substitution for “period of two years for each year or part thereof of his legal training under subsection (a).”, to reflect the probable intent of Congress.
+Subsec. (b)(3)(C). Pub. L. 118–159, § 552(a)(2)(B), which directed substitution of “period of—” and cls. (i) and (ii) for “period of two years”, was executed by making the substitution for “period of two years for each year or part thereof of his legal training under subsection (a).”, to reflect the probable intent of Congress.
 
 2021—Subsecs. (d), (e). Pub. L. 116–283 substituted “enlisted” for “enlistment”.
 
-2019—Pub. L. 116–92, § 551(b)(1), substituted “Detail as students at law schools; commissioned officers; certain enlisted members” for “Detail of commissioned officers as students at law schools” in section catchline.
+2019—Pub. L. 116–92, § 551(b)(1), substituted “Detail as students at law schools; commissioned officers; certain enlisted members” for “Detail of commissioned officers as students at law schools” in section catchline.
 
-Subsec. (a). Pub. L. 116–92, § 551(a)(1), inserted “and enlisted members” after “commissioned officers” and after “twenty-five officers” and struck out “bachelor of laws or” before “juris doctor”.
+Subsec. (a). Pub. L. 116–92, § 551(a)(1), inserted “and enlisted members” after “commissioned officers” and after “twenty-five officers” and struck out “bachelor of laws or” before “juris doctor”.
 
-Subsec. (b). Pub. L. 116–92, § 551(a)(2)(A), inserted “or enlisted member” after “officer” in introductory provisions.
+Subsec. (b). Pub. L. 116–92, § 551(a)(2)(A), inserted “or enlisted member” after “officer” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 116–92, § 551(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “have served on active duty for a period of not less than two years nor more than six years and be in the pay grade O–3 or below as of the time the training is to begin; and”.
+Subsec. (b)(1). Pub. L. 116–92, § 551(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “have served on active duty for a period of not less than two years nor more than six years and be in the pay grade O–3 or below as of the time the training is to begin; and”.
 
-Subsec. (b)(2), (3). Pub. L. 116–92, § 551(a)(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2), (3). Pub. L. 116–92, § 551(a)(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (b)(3)(B). Pub. L. 116–92, § 551(a)(2)(E), struck out “or law specialist” after “judge advocate”.
+Subsec. (b)(3)(B). Pub. L. 116–92, § 551(a)(2)(E), struck out “or law specialist” after “judge advocate”.
 
-Subsec. (c). Pub. L. 116–92, § 551(a)(3), inserted “and enlisted members” after “Officers” and, in two places, inserted “or enlisted member” after “officer”.
+Subsec. (c). Pub. L. 116–92, § 551(a)(3), inserted “and enlisted members” after “Officers” and, in two places, inserted “or enlisted member” after “officer”.
 
-Subsec. (d). Pub. L. 116–92, § 551(a)(4), inserted “and enlistment members” after “officers”.
+Subsec. (d). Pub. L. 116–92, § 551(a)(4), inserted “and enlistment members” after “officers”.
 
-Subsec. (e). Pub. L. 116–92, § 551(a)(5), inserted “or enlistment member” after “officer”.
+Subsec. (e). Pub. L. 116–92, § 551(a)(5), inserted “or enlistment member” after “officer”.
 
-Subsec. (f). Pub. L. 116–92, § 551(a)(6), inserted “or enlisted member” after “officer”.
+Subsec. (f). Pub. L. 116–92, § 551(a)(6), inserted “or enlisted member” after “officer”.
 
 1990—Pub. L. 101–510 struck out “of the military departments” after “officers” in section catchline.
 
@@ -935,13 +935,13 @@ Subsec. (f). Pub. L. 116–92, § 551(a)(6), inserted “or enlisted member”
 
 **Temporary Expansion**
 
-Pub. L. 118–159, div. A, title V, § 552(b), Dec. 23, 2024, 138 Stat. 1894, provided that: “During each of the three years after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of a military department may fund educational expenses under section 2004(a) of such title [10 U.S.C. 2004(a)], as amended by subsection (a), for 35 members of such military department.”
+Pub. L. 118–159, div. A, title V, § 552(b), Dec. 23, 2024, 138 Stat. 1894, provided that: “During each of the three years after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of a military department may fund educational expenses under section 2004(a) of such title [10 U.S.C. 2004(a)], as amended by subsection (a), for 35 members of such military department.”
 
 **Selection of Officers in Missing Status for Legal Training on a Noncompetitive Basis; Exemption From Numerical Limitations**
 
-Pub. L. 94–106, title VIII, § 821, Oct. 7, 1975, 89 Stat. 545, provided that: “Notwithstanding any provision of section 2004 of title 10 United States Code, an officer in any pay grade who was in a missing status (as defined in section 551(2) of title 37, United States Code) after August 4, 1964, and before May 8, 1975, may be selected for detail for legal training under that section 2004 on other than a competitive basis and, if selected for that training, is not counted in computing, for the purpose of subsection (a) of that section 2004, the number of officers who may commence that training in any single fiscal year. For the purposes of determining eligibility under that section 2004, the period of time during which an officer was in that missing status may be disregarded in computing the period he has served on active duty.”
+Pub. L. 94–106, title VIII, § 821, Oct. 7, 1975, 89 Stat. 545, provided that: “Notwithstanding any provision of section 2004 of title 10 United States Code, an officer in any pay grade who was in a missing status (as defined in section 551(2) of title 37, United States Code) after August 4, 1964, and before May 8, 1975, may be selected for detail for legal training under that section 2004 on other than a competitive basis and, if selected for that training, is not counted in computing, for the purpose of subsection (a) of that section 2004, the number of officers who may commence that training in any single fiscal year. For the purposes of determining eligibility under that section 2004, the period of time during which an officer was in that missing status may be disregarded in computing the period he has served on active duty.”
 
-## § 2004a. Detail of commissioned officers as students at medical schools
+## § 2004a. Detail of commissioned officers as students at medical schools
 
 **(a) Detail Authorized.—** The Secretary of each military department may detail commissioned officers of the armed forces as students at accredited medical schools or schools of osteopathy located in the United States for a period of training leading to the degree of doctor of medicine. No more than 25 officers from each military department may commence such training in any single fiscal year.
 
@@ -979,21 +979,21 @@ Pub. L. 94–106, title VIII, § 821, Oct. 7, 1975, 89 Stat. 545, provided tha
 
 **(i) Limitation on Details.—** No agreement detailing an officer of the armed forces to an accredited medical school or school of osteopathy may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
-(Added Pub. L. 109–364, div. A, title V, § 536(a), Oct. 17, 2006, 120 Stat. 2207; amended Pub. L. 110–181, div. A, title V, § 524(c), Jan. 28, 2008, 122 Stat. 104; Pub. L. 111–84, div. A, title X, § 1073(a)(18), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 109–364, div. A, title V, § 536(a), Oct. 17, 2006, 120 Stat. 2207; amended Pub. L. 110–181, div. A, title V, § 524(c), Jan. 28, 2008, 122 Stat. 104; Pub. L. 111–84, div. A, title X, § 1073(a)(18), Oct. 28, 2009, 123 Stat. 2473.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsec. (b)(1). Pub. L. 111–84, § 1073(a)(18)(A), substituted “pay grade O–3” for “pay grade 0–3”.
+2009—Subsec. (b)(1). Pub. L. 111–84, § 1073(a)(18)(A), substituted “pay grade O–3” for “pay grade 0–3”.
 
-Subsec. (i). Pub. L. 111–84, § 1073(a)(18)(B), inserted period at end.
+Subsec. (i). Pub. L. 111–84, § 1073(a)(18)(B), inserted period at end.
 
-2008—Subsec. (c). Pub. L. 110–181, § 524(c)(2), substituted “subsection (b)” for “subsection (c)”.
+2008—Subsec. (c). Pub. L. 110–181, § 524(c)(2), substituted “subsection (b)” for “subsection (c)”.
 
-Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
+Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 
-## § 2004b. Detail of commissioned officers as students at schools of psychology
+## § 2004b. Detail of commissioned officers as students at schools of psychology
 
 **(a) Detail Authorized.—** The Secretary of each military department may detail commissioned officers of the armed forces as students at accredited schools of psychology located in the United States for a period of training leading to the degree of Doctor of Philosophy in clinical psychology. No more than 25 officers from each military department may commence such training in any single fiscal year.
 
@@ -1029,7 +1029,7 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and re
 
 **(h) Limitation on Details.—** No agreement detailing an officer of the armed forces to an accredited school of psychology may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
-(Added Pub. L. 111–84, div. A, title V, § 521(a), Oct. 28, 2009, 123 Stat. 2283; amended Pub. L. 111–383, div. A, title X, § 1075(b)(26), Jan. 7, 2011, 124 Stat. 4370.)
+(Added Pub. L. 111–84, div. A, title V, § 521(a), Oct. 28, 2009, 123 Stat. 2283; amended Pub. L. 111–383, div. A, title X, § 1075(b)(26), Jan. 7, 2011, 124 Stat. 4370.)
 
 **Editorial Notes**
 
@@ -1037,7 +1037,7 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and re
 
 2011—Subsec. (b)(1). Pub. L. 111–383 substituted “pay grade O–3” for “pay grade 0–3”.
 
-## § 2004c. Detail as students at schools for education required for appointment as a chaplain: commissioned officers; certain enlisted members
+## § 2004c. Detail as students at schools for education required for appointment as a chaplain: commissioned officers; certain enlisted members
 
 **(a) Detail Authorized.—**
 
@@ -1093,7 +1093,7 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and re
 
 **(2)** repay the expenses incident to the detail of such officer or enlisted member and paid under subsection (f).1
 
-<sup>1</sup>  So in original. Probably should be “subsection (g).”.
+<sup>1</sup> So in original. Probably should be “subsection (g).”.
 
 **(i) Limitation on Details.—** No agreement detailing an officer or enlisted member of the armed forces to a chaplaincy school may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
@@ -1111,9 +1111,9 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and re
 
 **(6)** any recommendations of the Secretary for legislative or administrative changes to improve the equity, effectiveness, or fiscal management of the detail of members of the armed forces under this section.
 
-(Added Pub. L. 119–60, div. A, title V, § 504(b), Dec. 18, 2025, 139 Stat. 855.)
+(Added Pub. L. 119–60, div. A, title V, § 504(b), Dec. 18, 2025, 139 Stat. 855.)
 
-## § 2005. Advanced education assistance: active duty agreement; reimbursement requirements
+## § 2005. Advanced education assistance: active duty agreement; reimbursement requirements
 
 **(a)** The Secretary concerned may require, as a condition to the Secretary providing advanced education assistance to any person, that such person enter into a written agreement with the Secretary concerned under the terms of which such person shall agree—
 
@@ -1137,7 +1137,7 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and re
 
 **(3)** The term “cost of advanced education” means those costs which are, under regulations prescribed by the Secretary concerned, directly attributable to the education of the person to whom a course of advanced education is provided, including the cost of tuition and other fees (or, if none is charged, an amount determined by the Secretary concerned to be a reasonable charge for the education provided), the cost of books, supplies, transportation, and miscellaneous expenses, and the cost of room and board, but such term does not include pay or allowances under title 37 or a stipend under section 2121 of this title.
 
-(Added Pub. L. 96–357, § 2(a), Sept. 24, 1980, 94 Stat. 1180; amended Pub. L. 98–94, title X, § 1003(b)(1), title XII, § 1268(10), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title V, § 534, Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title V, § 573(a), Nov. 30, 1993, 107 Stat. 1673; Pub. L. 109–163, div. A, title VI, § 687(c)(2), Jan. 6, 2006, 119 Stat. 3333; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(B), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 96–357, § 2(a), Sept. 24, 1980, 94 Stat. 1180; amended Pub. L. 98–94, title X, § 1003(b)(1), title XII, § 1268(10), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title V, § 534, Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title V, § 573(a), Nov. 30, 1993, 107 Stat. 1673; Pub. L. 109–163, div. A, title VI, § 687(c)(2), Jan. 6, 2006, 119 Stat. 3333; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(B), Dec. 12, 2017, 131 Stat. 1426.)
 
 **Editorial Notes**
 
@@ -1145,31 +1145,31 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and re
 
 2017—Subsecs. (a)(3), (c). Pub. L. 115–91 inserted “or 373” before “of title 37”.
 
-2006—Subsec. (a)(3). Pub. L. 109–163, § 687(c)(2)(A), added par. (3) and struck out former par. (3) which read as follows: “that if such person, voluntarily or because of misconduct, fails to complete the period of active duty specified in the agreement, or fails to fulfill any term or condition prescribed pursuant to clause (4), such person will reimburse the United States in an amount that bears the same ratio to the total cost of advanced education provided such person as the unserved portion of active duty bears to the total period of active duty such person agreed to serve; and”.
+2006—Subsec. (a)(3). Pub. L. 109–163, § 687(c)(2)(A), added par. (3) and struck out former par. (3) which read as follows: “that if such person, voluntarily or because of misconduct, fails to complete the period of active duty specified in the agreement, or fails to fulfill any term or condition prescribed pursuant to clause (4), such person will reimburse the United States in an amount that bears the same ratio to the total cost of advanced education provided such person as the unserved portion of active duty bears to the total period of active duty such person agreed to serve; and”.
 
-Subsecs. (c) to (h). Pub. L. 109–163, § 687(c)(2)(B)–(D), added subsec. (c), redesignated former subsec. (e) as (d), and struck out former subsecs. (c), (d), and (f) to (h) relating to the obligation to reimburse the United States under an advanced education assistance agreement in subsec. (c), the effect of a discharge in bankruptcy under title 11 in subsec. (d), requirements for providing financial assistance in subsec. (f), failure to complete a period of active duty specified in an agreement in subsec. (g), and modification of agreements by the Secretary concerned in subsec. (h).
+Subsecs. (c) to (h). Pub. L. 109–163, § 687(c)(2)(B)–(D), added subsec. (c), redesignated former subsec. (e) as (d), and struck out former subsecs. (c), (d), and (f) to (h) relating to the obligation to reimburse the United States under an advanced education assistance agreement in subsec. (c), the effect of a discharge in bankruptcy under title 11 in subsec. (d), requirements for providing financial assistance in subsec. (f), failure to complete a period of active duty specified in an agreement in subsec. (g), and modification of agreements by the Secretary concerned in subsec. (h).
 
 1993—Subsecs. (g), (h). Pub. L. 103–160 added subsecs. (g) and (h).
 
-1990—Subsec. (a)(3). Pub. L. 101–510, § 534(1), inserted “or fails to fulfill any term or condition prescribed pursuant to clause (4),” after “agreement,”.
+1990—Subsec. (a)(3). Pub. L. 101–510, § 534(1), inserted “or fails to fulfill any term or condition prescribed pursuant to clause (4),” after “agreement,”.
 
-Subsec. (f)(1). Pub. L. 101–510, § 534(2), inserted “or fails to fulfill any term or condition prescribed pursuant to clause (4) of such subsection,” after “agreement,”.
+Subsec. (f)(1). Pub. L. 101–510, § 534(2), inserted “or fails to fulfill any term or condition prescribed pursuant to clause (4) of such subsection,” after “agreement,”.
 
-1987—Subsec. (e). Pub. L. 100–180, § 1231(17), inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
+1987—Subsec. (e). Pub. L. 100–180, § 1231(17), inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
 
-1983—Subsec. (c). Pub. L. 98–94, § 1268(10)(A), struck out “of this section” after “subsection (d)” and “subsection (a)”.
+1983—Subsec. (c). Pub. L. 98–94, § 1268(10)(A), struck out “of this section” after “subsection (d)” and “subsection (a)”.
 
-Subsec. (d). Pub. L. 98–94, § 1268(10)(A), struck out “of this section” after “subsection (a)”.
+Subsec. (d). Pub. L. 98–94, § 1268(10)(A), struck out “of this section” after “subsection (a)”.
 
-Subsec. (e). Pub. L. 98–94, § 1268(10)(B), substituted a colon for a dash after “In this section” preceding par. (1).
+Subsec. (e). Pub. L. 98–94, § 1268(10)(B), substituted a colon for a dash after “In this section” preceding par. (1).
 
-Subsec. (f). Pub. L. 98–94, § 1003(b)(1), added subsec. (f).
+Subsec. (f). Pub. L. 98–94, § 1003(b)(1), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title V, § 573(b), Nov. 30, 1993, 107 Stat. 1674, provided that:
+Pub. L. 103–160, div. A, title V, § 573(b), Nov. 30, 1993, 107 Stat. 1674, provided that:
 
 > **“(1)** Subsection (g) of section 2005 of title 10, United States Code, as added by subsection (a), shall apply with respect to persons separated from the Armed Forces after the end of the six-month period beginning on the date of the enactment of this Act [Nov. 30, 1993].
 
@@ -1177,13 +1177,13 @@ Pub. L. 103–160, div. A, title V, § 573(b), Nov. 30, 1993, 107 Stat. 1674, 
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title X, § 1003(b)(2), Sept. 24, 1983, 97 Stat. 657, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to agreements entered into after September 30, 1983.”
+Pub. L. 98–94, title X, § 1003(b)(2), Sept. 24, 1983, 97 Stat. 657, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to agreements entered into after September 30, 1983.”
 
 **Savings Provision**
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
-## § 2006. Department of Defense Education Benefits Fund
+## § 2006. Department of Defense Education Benefits Fund
 
 **(a)** There is established on the books of the Treasury a fund to be known as the Department of Defense Education Benefits Fund (hereinafter in this section referred to as the “Fund”), which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance armed forces education liabilities on an actuarially sound basis.
 
@@ -1247,7 +1247,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(g)** The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 98–525, title VII, § 706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, § 1322(a)(2), title XIV, § 1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, § 1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§ 1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, § 550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, § 654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, § 535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, § 527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, § 1071(a)(9), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, § 906(b)(2), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–377, title I, § 109(b)(2), Jan. 4, 2011, 124 Stat. 4120; Pub. L. 112–239, div. A, title X, § 1076(f)(23), Jan. 2, 2013, 126 Stat. 1953.)
+(Added Pub. L. 98–525, title VII, § 706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, § 1322(a)(2), title XIV, § 1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, § 1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§ 1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, § 550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, § 654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, § 535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, § 527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, § 1071(a)(9), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, § 906(b)(2), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–377, title I, § 109(b)(2), Jan. 4, 2011, 124 Stat. 4120; Pub. L. 112–239, div. A, title X, § 1076(f)(23), Jan. 2, 2013, 126 Stat. 1953.)
 
 **Editorial Notes**
 
@@ -1255,59 +1255,59 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 2013—Subsec. (b)(2)(F). Pub. L. 112–239 redesignated subpar. (E) relating to amounts attributable to increased amounts of educational assistance authorized by section 3316 of title 38 as (F).
 
-2011—Subsec. (b)(1). Pub. L. 111–377, § 109(b)(2)(A), inserted “or 33” after “chapter 30”.
+2011—Subsec. (b)(1). Pub. L. 111–377, § 109(b)(2)(A), inserted “or 33” after “chapter 30”.
 
-Subsec. (b)(2)(E). Pub. L. 111–377, § 109(b)(2)(B), added subpar. (E) relating to amounts attributable to increased amounts of educational assistance authorized by section 3316 of title 38.
+Subsec. (b)(2)(E). Pub. L. 111–377, § 109(b)(2)(B), added subpar. (E) relating to amounts attributable to increased amounts of educational assistance authorized by section 3316 of title 38.
 
-2008—Subsec. (c)(1). Pub. L. 110–181, § 906(b)(2)(A), substituted “subsection (f)” for “subsection (g)”.
+2008—Subsec. (c)(1). Pub. L. 110–181, § 906(b)(2)(A), substituted “subsection (f)” for “subsection (g)”.
 
-Subsec. (e). Pub. L. 110–181, § 906(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which established in the Department of Defense a Department of Defense Education Benefits Board of Actuaries.
+Subsec. (e). Pub. L. 110–181, § 906(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which established in the Department of Defense a Department of Defense Education Benefits Board of Actuaries.
 
-Subsec. (e)(5). Pub. L. 110–181, § 906(b)(2)(D), substituted “subsection (f)” for “subsection (g)”.
+Subsec. (e)(5). Pub. L. 110–181, § 906(b)(2)(D), substituted “subsection (f)” for “subsection (g)”.
 
-Subsec. (f). Pub. L. 110–181, § 906(b)(2)(C), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 110–181, § 906(b)(2)(C), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(2)(A). Pub. L. 110–181, § 906(b)(2)(E)(i), substituted “subsection (e)(3)” for “subsection (f)(3)”.
+Subsec. (f)(2)(A). Pub. L. 110–181, § 906(b)(2)(E)(i), substituted “subsection (e)(3)” for “subsection (f)(3)”.
 
-Subsec. (f)(2)(B). Pub. L. 110–181, § 906(b)(2)(E)(ii), substituted “subsection (e)(4)” for “subsection (f)(4)”.
+Subsec. (f)(2)(B). Pub. L. 110–181, § 906(b)(2)(E)(ii), substituted “subsection (e)(4)” for “subsection (f)(4)”.
 
-Subsecs. (g), (h). Pub. L. 110–181, § 906(b)(2)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Subsecs. (g), (h). Pub. L. 110–181, § 906(b)(2)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
 2006—Subsec. (b)(1). Pub. L. 109–364 inserted “of this title” after “1607” and struck out “of this title” before period at end.
 
-2004—Subsec. (b)(1). Pub. L. 108–375, § 527(b)(1)(A), substituted “chapters 1606 and 1607, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy” for “chapter 1606”.
+2004—Subsec. (b)(1). Pub. L. 108–375, § 527(b)(1)(A), substituted “chapters 1606 and 1607, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy” for “chapter 1606”.
 
-Subsec. (b)(2)(C). Pub. L. 108–375, § 527(b)(1)(B), substituted “(including funds from the Department in which the Coast Guard is operating) for educational assistance under chapters 1606 and 1607” for “for educational assistance under chapter 1606”.
+Subsec. (b)(2)(C). Pub. L. 108–375, § 527(b)(1)(B), substituted “(including funds from the Department in which the Coast Guard is operating) for educational assistance under chapters 1606 and 1607” for “for educational assistance under chapter 1606”.
 
-2003—Subsec. (b)(1). Pub. L. 108–136, § 535(b)(1), inserted “paragraphs (3) and (4) of section 510(e) and” after “Department of Defense benefits under”.
+2003—Subsec. (b)(1). Pub. L. 108–136, § 535(b)(1), inserted “paragraphs (3) and (4) of section 510(e) and” after “Department of Defense benefits under”.
 
-Subsec. (b)(2)(E). Pub. L. 108–136, § 535(b)(2), added subpar. (E).
+Subsec. (b)(2)(E). Pub. L. 108–136, § 535(b)(2), added subpar. (E).
 
 2001—Subsec. (b)(2)(D). Pub. L. 107–107 added subpar. (D).
 
-1999—Subsec. (a). Pub. L. 106–65, § 550(1), substituted “armed forces education liabilities” for “Department of Defense education liabilities”.
+1999—Subsec. (a). Pub. L. 106–65, § 550(1), substituted “armed forces education liabilities” for “Department of Defense education liabilities”.
 
-Subsec. (b)(1). Pub. L. 106–65, § 550(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Department of Defense education liabilities’ means liabilities of the Department of Defense for benefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.”
+Subsec. (b)(1). Pub. L. 106–65, § 550(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Department of Defense education liabilities’ means liabilities of the Department of Defense for benefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.”
 
-Subsec. (b)(2)(C). Pub. L. 106–65, § 550(3), inserted “Department of Defense” after “future” and substituted “chapter 1606” for “chapter 106”.
+Subsec. (b)(2)(C). Pub. L. 106–65, § 550(3), inserted “Department of Defense” after “future” and substituted “chapter 1606” for “chapter 106”.
 
-Subsec. (c)(1). Pub. L. 106–65, § 550(4), inserted “and the Secretary of the Department in which the Coast Guard is operating” after “Defense”.
+Subsec. (c)(1). Pub. L. 106–65, § 550(4), inserted “and the Secretary of the Department in which the Coast Guard is operating” after “Defense”.
 
-Subsec. (d). Pub. L. 106–65, § 550(5), substituted “armed forces” for “Department of Defense” and inserted “the Secretary of the Department in which the Coast Guard is operating,” after “Secretary of Defense,”.
+Subsec. (d). Pub. L. 106–65, § 550(5), substituted “armed forces” for “Department of Defense” and inserted “the Secretary of the Department in which the Coast Guard is operating,” after “Secretary of Defense,”.
 
-Subsec. (f)(5). Pub. L. 106–65, § 550(6), inserted “and the Department in which the Coast Guard is operating” after “Department of Defense”.
+Subsec. (f)(5). Pub. L. 106–65, § 550(6), inserted “and the Department in which the Coast Guard is operating” after “Department of Defense”.
 
-Subsec. (g). Pub. L. 106–65, § 550(7), inserted “and the Secretary of the Department in which the Coast Guard is operating” after “The Secretary of Defense” in pars. (1) and (2) and substituted “concerned” for “of a military department” in par. (3).
+Subsec. (g). Pub. L. 106–65, § 550(7), inserted “and the Secretary of the Department in which the Coast Guard is operating” after “The Secretary of Defense” in pars. (1) and (2) and substituted “concerned” for “of a military department” in par. (3).
 
-1996—Subsec. (b)(1). Pub. L. 104–106, § 1501(c)(21), substituted “chapter 1606 of this title” for “chapter 106 of this title”.
+1996—Subsec. (b)(1). Pub. L. 104–106, § 1501(c)(21), substituted “chapter 1606 of this title” for “chapter 106 of this title”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 104–106, § 1503(a)(17), substituted “section 3012 of such title” for “section 1412 of such title”.
+Subsec. (b)(2)(B)(ii). Pub. L. 104–106, § 1503(a)(17), substituted “section 3012 of such title” for “section 1412 of such title”.
 
 1994—Subsec. (b)(2). Pub. L. 103–337 substituted “section 3015(d)”, “section 3011”, and “section 3021(b)” for “section 1415(c)”, “section 1411”, and “section 1421(b)”, respectively.
 
-1990—Subsec. (d). Pub. L. 101–510, § 1484(j)(2), substituted “enable the Secretary of Veterans Affairs” for “enable the Administrator”.
+1990—Subsec. (d). Pub. L. 101–510, § 1484(j)(2), substituted “enable the Secretary of Veterans Affairs” for “enable the Administrator”.
 
-Subsec. (e)(3). Pub. L. 101–510, § 1322(a)(2), substituted “and shall recommend to the President and Congress” for “and report periodically, not less than once every four years, to the President and Congress on the status of the Fund and shall recommend”.
+Subsec. (e)(3). Pub. L. 101–510, § 1322(a)(2), substituted “and shall recommend to the President and Congress” for “and report periodically, not less than once every four years, to the President and Congress on the status of the Fund and shall recommend”.
 
 1989—Subsec. (d). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in first sentence and “Secretary of Veterans Affairs” for “Administrator” in second sentence.
 
@@ -1317,11 +1317,11 @@ Subsec. (e)(3). Pub. L. 101–510, § 1322(a)(2), substituted “and shall rec
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–377, title I, § 109(c), Jan. 4, 2011, 124 Stat. 4120, provided that: “The amendments made by this section [amending this section and section 3316 of Title 38, Veterans’ Benefits] shall take effect on August 1, 2011.”
+Pub. L. 111–377, title I, § 109(c), Jan. 4, 2011, 124 Stat. 4120, provided that: “The amendments made by this section [amending this section and section 3316 of Title 38, Veterans’ Benefits] shall take effect on August 1, 2011.”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Transfer of Functions**
 
@@ -1329,13 +1329,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **First Payment Into Fund**
 
-Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed that first payment into Department of Defense Education Benefits Fund under this section be made not later than three months after Board of Actuaries determined amounts needed to be paid into Fund for that portion of fiscal year 1985 beginning on July 1, 1985, with first payment in a lump sum equal to total of amounts that would have been paid to Fund each month between July 1, 1985, and time such first payment was made.
+Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed that first payment into Department of Defense Education Benefits Fund under this section be made not later than three months after Board of Actuaries determined amounts needed to be paid into Fund for that portion of fiscal year 1985 beginning on July 1, 1985, with first payment in a lump sum equal to total of amounts that would have been paid to Fund each month between July 1, 1985, and time such first payment was made.
 
-## § 2006a. Assistance for education and training: availability of certain assistance for use only for certain programs of education
+## § 2006a. Assistance for education and training: availability of certain assistance for use only for certain programs of education
 
 **(a) In General.—** Effective as of August 1, 2014, an individual eligible for assistance under a Department of Defense educational assistance program or authority covered by this section may, except as provided in subsection (b), only use such assistance for educational expenses incurred for a program as follows:
 
@@ -1371,7 +1371,7 @@ Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed
 
 **(2)** The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act for 1965 (20 U.S.C. 1002).
 
-(Added Pub. L. 113–66, div. A, title V, § 541(a), Dec. 26, 2013, 127 Stat. 760; amended Pub. L. 114–92, div. A, title X, § 1081(a)(6), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–232, div. A, title X, § 1081(a)(15), Aug. 13, 2018, 132 Stat. 1984.)
+(Added Pub. L. 113–66, div. A, title V, § 541(a), Dec. 26, 2013, 127 Stat. 760; amended Pub. L. 114–92, div. A, title X, § 1081(a)(6), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–232, div. A, title X, § 1081(a)(15), Aug. 13, 2018, 132 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -1385,9 +1385,9 @@ Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed
 
 **Effective Date**
 
-Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, provided that: “The amendments made by this section [enacting this section] shall take effect on August 1, 2014.”
+Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, provided that: “The amendments made by this section [enacting this section] shall take effect on August 1, 2014.”
 
-## § 2007. Payment of tuition for off-duty training or education
+## § 2007. Payment of tuition for off-duty training or education
 
 **(a)** Subject to subsections (b) and (c), the Secretary concerned may pay all or a portion of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such educational institution for education or training during the member’s off-duty periods.
 
@@ -1431,7 +1431,7 @@ Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, pr
 
 **(g)** The provisions of this section pertaining to members of the Ready Reserve, the Selected Reserve, or the Individual Ready Reserve also apply to members of the Space Force in a space force active status who are not on active duty.
 
-(Added Pub. L. 98–525, title XIV, § 1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, § 651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, § 3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, § 1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, § 632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, § 675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a), (b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359; Pub. L. 108–375, div. A, title V, § 553(a), (b), Oct. 28, 2004, 118 Stat. 1912; Pub. L. 109–163, div. A, title VI, § 687(c)(3), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 110–181, div. A, title V, § 521(a)–(d), Jan. 28, 2008, 122 Stat. 100–102; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(C), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 117–81, div. A, title V, § 559(b), Dec. 27, 2021, 135 Stat. 1742; Pub. L. 118–31, div. A, title XVII, § 1722(*l*)(1), Dec. 22, 2023, 137 Stat. 673.)
+(Added Pub. L. 98–525, title XIV, § 1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, § 651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, § 3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, § 1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, § 632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, § 675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a), (b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359; Pub. L. 108–375, div. A, title V, § 553(a), (b), Oct. 28, 2004, 118 Stat. 1912; Pub. L. 109–163, div. A, title VI, § 687(c)(3), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 110–181, div. A, title V, § 521(a)–(d), Jan. 28, 2008, 122 Stat. 100–102; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(C), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 117–81, div. A, title V, § 559(b), Dec. 27, 2021, 135 Stat. 1742; Pub. L. 118–31, div. A, title XVII, § 1722(*l*)(1), Dec. 22, 2023, 137 Stat. 673.)
 
 **Editorial Notes**
 
@@ -1439,91 +1439,91 @@ Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, pr
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8017], Oct. 12, 1984, 98 Stat. 1904, 1926.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8017], Oct. 12, 1984, 98 Stat. 1904, 1926.
 
-Pub. L. 98–212, title VII, § 720, Dec. 8, 1983, 97 Stat. 1441.
+Pub. L. 98–212, title VII, § 720, Dec. 8, 1983, 97 Stat. 1441.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 721], Dec. 21, 1982, 96 Stat. 1833, 1854.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 721], Dec. 21, 1982, 96 Stat. 1833, 1854.
 
-Pub. L. 97–114, title VII, § 721, Dec. 29, 1981, 95 Stat. 1582.
+Pub. L. 97–114, title VII, § 721, Dec. 29, 1981, 95 Stat. 1582.
 
-Pub. L. 96–527, title VII, § 722, Dec. 15, 1980, 94 Stat. 3084.
+Pub. L. 96–527, title VII, § 722, Dec. 15, 1980, 94 Stat. 3084.
 
-Pub. L. 96–154, title VII, § 722, Dec. 21, 1979, 93 Stat. 1156.
+Pub. L. 96–154, title VII, § 722, Dec. 21, 1979, 93 Stat. 1156.
 
-Pub. L. 95–457, title VIII, § 822, Oct. 13, 1978, 92 Stat. 1247.
+Pub. L. 95–457, title VIII, § 822, Oct. 13, 1978, 92 Stat. 1247.
 
-Pub. L. 95–111, title VIII, § 821, Sept. 21, 1977, 91 Stat. 903.
+Pub. L. 95–111, title VIII, § 821, Sept. 21, 1977, 91 Stat. 903.
 
-Pub. L. 94–419, title VII, § 721, Sept. 22, 1976, 90 Stat. 1295.
+Pub. L. 94–419, title VII, § 721, Sept. 22, 1976, 90 Stat. 1295.
 
-Pub. L. 94–212, title VII, § 721, Feb. 9, 1976, 90 Stat. 172.
+Pub. L. 94–212, title VII, § 721, Feb. 9, 1976, 90 Stat. 172.
 
-Pub. L. 93–437, title VIII, § 821, Oct. 8, 1974, 88 Stat. 1228.
+Pub. L. 93–437, title VIII, § 821, Oct. 8, 1974, 88 Stat. 1228.
 
-Pub. L. 93–238, title VII, § 722, Jan. 2, 1974, 87 Stat. 1042.
+Pub. L. 93–238, title VII, § 722, Jan. 2, 1974, 87 Stat. 1042.
 
-Pub. L. 92–570, title VII, § 722, Oct. 26, 1972, 86 Stat. 1200.
+Pub. L. 92–570, title VII, § 722, Oct. 26, 1972, 86 Stat. 1200.
 
-Pub. L. 92–204, title VII, § 722, Dec. 18, 1971, 85 Stat. 731.
+Pub. L. 92–204, title VII, § 722, Dec. 18, 1971, 85 Stat. 731.
 
-Pub. L. 91–668, title VIII, § 822, Jan. 11, 1971, 84 Stat. 2034.
+Pub. L. 91–668, title VIII, § 822, Jan. 11, 1971, 84 Stat. 2034.
 
-Pub. L. 91–171, title VI, § 622, Dec. 29, 1969, 83 Stat. 483.
+Pub. L. 91–171, title VI, § 622, Dec. 29, 1969, 83 Stat. 483.
 
-Pub. L. 90–580, title V, § 521, Oct. 17, 1968, 82 Stat. 1133.
+Pub. L. 90–580, title V, § 521, Oct. 17, 1968, 82 Stat. 1133.
 
-Pub. L. 90–96, title VI, § 621, Sept. 29, 1967, 81 Stat. 246.
+Pub. L. 90–96, title VI, § 621, Sept. 29, 1967, 81 Stat. 246.
 
-Pub. L. 89–687, title VI, § 621, Oct. 15, 1966, 80 Stat. 995.
+Pub. L. 89–687, title VI, § 621, Oct. 15, 1966, 80 Stat. 995.
 
-Pub. L. 89–213, title VI, § 621, Sept. 29, 1965, 79 Stat. 877.
+Pub. L. 89–213, title VI, § 621, Sept. 29, 1965, 79 Stat. 877.
 
-Pub. L. 88–446, title V, § 521, Aug. 19, 1964, 78 Stat. 478.
+Pub. L. 88–446, title V, § 521, Aug. 19, 1964, 78 Stat. 478.
 
-Pub. L. 88–149, title V, § 521, Oct. 17, 1963, 77 Stat. 267.
+Pub. L. 88–149, title V, § 521, Oct. 17, 1963, 77 Stat. 267.
 
-Pub. L. 87–577, title V, § 521, Aug. 9, 1962, 76 Stat. 332.
+Pub. L. 87–577, title V, § 521, Aug. 9, 1962, 76 Stat. 332.
 
-Pub. L. 87–144, title VI, § 621, Aug. 17, 1961, 75 Stat. 379.
+Pub. L. 87–144, title VI, § 621, Aug. 17, 1961, 75 Stat. 379.
 
-Pub. L. 86–601, title V, § 521, July 7, 1960, 74 Stat. 353.
+Pub. L. 86–601, title V, § 521, July 7, 1960, 74 Stat. 353.
 
-Pub. L. 86–166, title V, § 621, Aug. 18, 1959, 73 Stat. 382.
+Pub. L. 86–166, title V, § 621, Aug. 18, 1959, 73 Stat. 382.
 
-Pub. L. 85–724, title VI, § 623, Aug. 22, 1958, 72 Stat. 727.
+Pub. L. 85–724, title VI, § 623, Aug. 22, 1958, 72 Stat. 727.
 
-Pub. L. 85–117, title VI, § 624, Aug. 2, 1957, 71 Stat. 327.
+Pub. L. 85–117, title VI, § 624, Aug. 2, 1957, 71 Stat. 327.
 
-July 2, 1956, ch. 488, title VI, § 624, 70 Stat. 471.
+July 2, 1956, ch. 488, title VI, § 624, 70 Stat. 471.
 
-July 13, 1955, ch. 358, title VI, § 628, 69 Stat. 320.
+July 13, 1955, ch. 358, title VI, § 628, 69 Stat. 320.
 
-June 30, 1954, ch. 432, title VII, § 730, 68 Stat. 355.
+June 30, 1954, ch. 432, title VII, § 730, 68 Stat. 355.
 
 **Amendments**
 
 2023—Subsec. (g). Pub. L. 118–31 added subsec. (g).
 
-2021—Subsec. (d)(1). Pub. L. 117–81, § 559(b)(1), inserted “or chapter 1606 of this title” after “of title 38”.
+2021—Subsec. (d)(1). Pub. L. 117–81, § 559(b)(1), inserted “or chapter 1606 of this title” after “of title 38”.
 
-Subsec. (d)(2). Pub. L. 117–81, § 559(b)(2), inserted before period at end “, in the case of educational assistance under chapter 30 of such title, and section 16131(k), in the case of educational assistance under chapter 1606 of this title”.
+Subsec. (d)(2). Pub. L. 117–81, § 559(b)(2), inserted before period at end “, in the case of educational assistance under chapter 30 of such title, and section 16131(k), in the case of educational assistance under chapter 1606 of this title”.
 
 2017—Subsec. (e). Pub. L. 115–91 inserted “or 373” before “of title 37” in pars. (1) and (2).
 
-2008—Subsec. (a). Pub. L. 110–181, § 521(a), substituted “Subject to subsections (b) and (c), the Secretary concerned” for “Subject to subsection (b), the Secretary of a military department”.
+2008—Subsec. (a). Pub. L. 110–181, § 521(a), substituted “Subject to subsections (b) and (c), the Secretary concerned” for “Subject to subsection (b), the Secretary of a military department”.
 
-Subsec. (b)(1). Pub. L. 110–181, § 521(b)(1), struck out “or full-time National Guard duty” after “active duty” in two places, inserted “(other than a member of the Ready Reserve)” after “commissioned officer on active duty”, and substituted “the Secretary concerned” for “the Secretary of the military department”.
+Subsec. (b)(1). Pub. L. 110–181, § 521(b)(1), struck out “or full-time National Guard duty” after “active duty” in two places, inserted “(other than a member of the Ready Reserve)” after “commissioned officer on active duty”, and substituted “the Secretary concerned” for “the Secretary of the military department”.
 
-Subsec. (b)(2). Pub. L. 110–181, § 521(b)(2)(A), substituted “the Secretary concerned” for “the Secretary of the military department” in introductory provisions.
+Subsec. (b)(2). Pub. L. 110–181, § 521(b)(2)(A), substituted “the Secretary concerned” for “the Secretary of the military department” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 110–181, § 521(b)(2)(B), inserted “for which the officer was ordered to active duty” after “active duty service”.
+Subsec. (b)(2)(B). Pub. L. 110–181, § 521(b)(2)(B), inserted “for which the officer was ordered to active duty” after “active duty service”.
 
-Subsec. (b)(2)(C). Pub. L. 110–181, § 521(b)(2)(C), substituted “Secretary concerned” for “Secretary”.
+Subsec. (b)(2)(C). Pub. L. 110–181, § 521(b)(2)(C), substituted “Secretary concerned” for “Secretary”.
 
-Subsec. (c). Pub. L. 110–181, § 521(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) to (3) which authorized Secretary of the Army, subject to certain limitations, to pay the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer.
+Subsec. (c). Pub. L. 110–181, § 521(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) to (3) which authorized Secretary of the Army, subject to certain limitations, to pay the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer.
 
-Subsec. (d). Pub. L. 110–181, § 521(c)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
+Subsec. (d). Pub. L. 110–181, § 521(c)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
 
 “(1) a warrant officer on active duty or full-time National Guard duty;
 
@@ -1531,21 +1531,21 @@ Subsec. (d). Pub. L. 110–181, § 521(c)(2), redesignated subsec. (e) as (d) 
 
 “(3) a commissioned officer on active duty who satisfies the condition in subsection (b) relating to an agreement to remain on active duty.”
 
-Subsec. (e). Pub. L. 110–181, § 521(c)(3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (e). Pub. L. 110–181, § 521(c)(3), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 110–181, § 521(c)(2)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Pub. L. 110–181, § 521(c)(2)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 110–181, § 521(d), added subsec. (f).
+Subsec. (f). Pub. L. 110–181, § 521(d), added subsec. (f).
 
-Pub. L. 110–181, § 521(c)(2)(B), redesignated subsec. (f) as (e).
+Pub. L. 110–181, § 521(c)(2)(B), redesignated subsec. (f) as (e).
 
 2006—Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
-2004—Subsec. (b). Pub. L. 108–375, § 553(a), designated existing provisions as par. (1), inserted “or full-time National Guard duty” after “active duty” in two places, and added par. (2).
+2004—Subsec. (b). Pub. L. 108–375, § 553(a), designated existing provisions as par. (1), inserted “or full-time National Guard duty” after “active duty” in two places, and added par. (2).
 
-Subsec. (c)(1). Pub. L. 108–375, § 553(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree.”
+Subsec. (c)(1). Pub. L. 108–375, § 553(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree.”
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a)(1)], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
+2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a)(1)], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
 
 “(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years’ service, not more than 90 percent of the charges may be paid;
 
@@ -1555,13 +1555,13 @@ Subsec. (c)(1). Pub. L. 108–375, § 553(b), amended par. (1) generally. Prio
 
 “(4) in the case of a member serving in a contingency operation or similar operational mission (other than for training) designated by the Secretary concerned, all of the charges may be paid.”
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a)(1)], added subsec. (b) and struck out former subsec. (b) which read as follows: “The limitation in subsection (a) does not apply to the Program for Afloat College Education.”
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a)(1)], added subsec. (b) and struck out former subsec. (b) which read as follows: “The limitation in subsection (a) does not apply to the Program for Afloat College Education.”
 
-Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a)(2)(A)], struck out “(within the limits set forth in subsection (a))” after “educational institution” in introductory provisions.
+Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a)(2)(A)], struck out “(within the limits set forth in subsection (a))” after “educational institution” in introductory provisions.
 
-Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a)(2)(B)], substituted “subsection (b)” for “subsection (a)(3)”.
+Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(a)(2)(B)], substituted “subsection (b)” for “subsection (a)(3)”.
 
-Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(b)(1)], added subsec. (e).
+Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(b)(1)], added subsec. (e).
 
 1999—Subsec. (a)(4). Pub. L. 106–65 added par. (4).
 
@@ -1569,17 +1569,17 @@ Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title XVI, § 1602(b)(1)], a
 
 1990—Pub. L. 101–510 substituted “Payment” for “Limitation on payment” in section catchline.
 
-1987—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, § 651(a)(2). See 1986 Amendment note below.
+1987—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, § 651(a)(2). See 1986 Amendment note below.
 
-1986—Subsec. (a)(3). Pub. L. 99–661, § 651(a)(1), inserted “on active duty”.
+1986—Subsec. (a)(3). Pub. L. 99–661, § 651(a)(1), inserted “on active duty”.
 
-Subsec. (c). Pub. L. 99–661, § 651(a)(2), as amended by Pub. L. 100–26, added subsec. (c).
+Subsec. (c). Pub. L. 99–661, § 651(a)(2), as amended by Pub. L. 100–26, added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title V, § 553(c), Oct. 28, 2004, 118 Stat. 1913, provided that: “The amendment made by subsection (a) [amending this section] may, at the discretion of the Secretary concerned, be applied to a service obligation incurred by an officer serving on active duty as of the date of the enactment of this Act [Oct. 28, 2004].”
+Pub. L. 108–375, div. A, title V, § 553(c), Oct. 28, 2004, 118 Stat. 1913, provided that: “The amendment made by subsection (a) [amending this section] may, at the discretion of the Secretary concerned, be applied to a service obligation incurred by an officer serving on active duty as of the date of the enactment of this Act [Oct. 28, 2004].”
 
 **Effective Date of 1987 Amendment**
 
@@ -1587,7 +1587,7 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VI, § 651(c), Nov. 14, 1986, 100 Stat. 3888, provided that: “Subsection (c) of section 2007 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title VI, § 651(c), Nov. 14, 1986, 100 Stat. 3888, provided that: “Subsection (c) of section 2007 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Nov. 14, 1986].”
 
 **Effective Date**
 
@@ -1599,7 +1599,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **Information on Institutions of Higher Education Participating in the Department of Defense Tuition Assistance Program**
 
-Pub. L. 116–92, div. A, title V, § 560, Dec. 20, 2019, 133 Stat. 1393, provided that:
+Pub. L. 116–92, div. A, title V, § 560, Dec. 20, 2019, 133 Stat. 1393, provided that:
 
 > **“(a) List of Participating Institutions.—** The Secretary of Defense shall make available, on a publicly accessible website of the Department of Defense, a list that identifies—
 
@@ -1611,35 +1611,35 @@ Pub. L. 116–92, div. A, title V, § 560, Dec. 20, 2019, 133 Stat. 1393, prov
 
 **Tuition Payments Contingent Upon Agreement by Officer To Remain in Ready Reserve for At Least Four Years**
 
-Pub. L. 104–61, title VIII, § 8019, Dec. 1, 1995, 109 Stat. 655, provided that: “Funds appropriated for the Department of Defense during the current fiscal year and hereafter shall be available for the payment of not more than 75 percent of the charges of a postsecondary educational institution for the tuition or expenses of an officer in the Ready Reserve of the Army National Guard or Army Reserve for education or training during his off-duty periods, except that no part of the charges may be paid unless the officer agrees to remain a member of the Ready Reserve for at least four years after completion of such training or education.”
+Pub. L. 104–61, title VIII, § 8019, Dec. 1, 1995, 109 Stat. 655, provided that: “Funds appropriated for the Department of Defense during the current fiscal year and hereafter shall be available for the payment of not more than 75 percent of the charges of a postsecondary educational institution for the tuition or expenses of an officer in the Ready Reserve of the Army National Guard or Army Reserve for education or training during his off-duty periods, except that no part of the charges may be paid unless the officer agrees to remain a member of the Ready Reserve for at least four years after completion of such training or education.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 103–335, title VIII, § 8019, Sept. 30, 1994, 108 Stat. 2621.
+Pub. L. 103–335, title VIII, § 8019, Sept. 30, 1994, 108 Stat. 2621.
 
-Pub. L. 103–139, title VIII, § 8021, Nov. 11, 1993, 107 Stat. 1441.
+Pub. L. 103–139, title VIII, § 8021, Nov. 11, 1993, 107 Stat. 1441.
 
-Pub. L. 102–396, title IX, § 9025, Oct. 6, 1992, 106 Stat. 1906.
+Pub. L. 102–396, title IX, § 9025, Oct. 6, 1992, 106 Stat. 1906.
 
-Pub. L. 102–172, title VIII, § 8025, Nov. 26, 1991, 105 Stat. 1177.
+Pub. L. 102–172, title VIII, § 8025, Nov. 26, 1991, 105 Stat. 1177.
 
-Pub. L. 101–511, title VIII, § 8025, Nov. 5, 1990, 104 Stat. 1880.
+Pub. L. 101–511, title VIII, § 8025, Nov. 5, 1990, 104 Stat. 1880.
 
-Pub. L. 101–165, title IX, § 9035, Nov. 21, 1989, 103 Stat. 1136.
+Pub. L. 101–165, title IX, § 9035, Nov. 21, 1989, 103 Stat. 1136.
 
-Pub. L. 100–463, title VIII, § 8059, Oct. 1, 1988, 102 Stat. 2270–27.
+Pub. L. 100–463, title VIII, § 8059, Oct. 1, 1988, 102 Stat. 2270–27.
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8072], Dec. 22, 1987, 101 Stat. 1329–43, 1329–74.
+Pub. L. 100–202, § 101(b) [title VIII, § 8072], Dec. 22, 1987, 101 Stat. 1329–43, 1329–74.
 
-Pub. L. 99–500, § 101(c) [title IX, § 9076], Oct. 18, 1986, 100 Stat. 1783–82, 1783–114, and Pub. L. 99–591, § 101(c) [title IX, § 9076], Oct. 30, 1986, 100 Stat. 3341–82, 3341–114.
+Pub. L. 99–500, § 101(c) [title IX, § 9076], Oct. 18, 1986, 100 Stat. 1783–82, 1783–114, and Pub. L. 99–591, § 101(c) [title IX, § 9076], Oct. 30, 1986, 100 Stat. 3341–82, 3341–114.
 
-Pub. L. 99–190, § 101(b) [title VIII, § 8086], Dec. 19, 1985, 99 Stat. 1185, 1216.
+Pub. L. 99–190, § 101(b) [title VIII, § 8086], Dec. 19, 1985, 99 Stat. 1185, 1216.
 
-## § 2008. Authority to use funds for certain educational purposes
+## § 2008. Authority to use funds for certain educational purposes
 
 Funds appropriated to the Department of Defense may be used to carry out construction, as defined in section 7013(3) of the Elementary and Secondary Education Act of 1965, or to carry out section 7008 of such Act, relating to the provision of assistance to certain school facilities under the impact aid program.
 
-(Added Pub. L. 98–525, title XIV, § 1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 104–106, div. B, title XXVIII, § 2891, Feb. 10, 1996, 110 Stat. 590; Pub. L. 114–95, title IX, § 9215(uuu)(3), Dec. 10, 2015, 129 Stat. 2190.)
+(Added Pub. L. 98–525, title XIV, § 1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 104–106, div. B, title XXVIII, § 2891, Feb. 10, 1996, 110 Stat. 590; Pub. L. 114–95, title IX, § 9215(uuu)(3), Dec. 10, 2015, 129 Stat. 2190.)
 
 **Editorial Notes**
 
@@ -1663,19 +1663,19 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 2009. Military colleges: female students
+## § 2009. Military colleges: female students
 
 **(a)** Under regulations prescribed by the Secretary of Defense, any college or university designated by the Secretary of Defense as a military college shall, as a condition of maintaining such designation, provide that qualified female undergraduate students enrolled in such college or university be eligible to participate in military training at such college or university.
 
 **(b)** Regulations prescribed under subsection (a) may not require a college or university, as a condition of maintaining its designation as a military college or for any other purpose, to require female undergraduate students enrolled in such college or university to participate in military training.
 
-(Added Pub. L. 98–525, title XIV, § 1401(g)(1), Oct. 19, 1984, 98 Stat. 2619.)
+(Added Pub. L. 98–525, title XIV, § 1401(g)(1), Oct. 19, 1984, 98 Stat. 2619.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 95–485, title VIII, § 809, Oct. 20, 1978, 92 Stat. 1623, which was set out as a note under section 2102 of this title, prior to repeal by Pub. L. 98–525, §§ 1403(b), 1404.
+Provisions similar to those in this section were contained in Pub. L. 95–485, title VIII, § 809, Oct. 20, 1978, 92 Stat. 1623, which was set out as a note under section 2102 of this title, prior to repeal by Pub. L. 98–525, §§ 1403(b), 1404.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1683,25 +1683,25 @@ Provisions similar to those in this section were contained in Pub. L. 95–485, 
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 2010. Requirements with respect to motorcycle safety training
+## § 2010. Requirements with respect to motorcycle safety training
 
 The Secretaries of the military departments shall ensure that all beginner motorcycle safety training provided to members of the Armed Forces meets the motorcycle safety training requirements for licensing of the State in which the permanent station of the member receiving the training is located.
 
-(Added Pub. L. 119–60, div. A, title V, § 543, Dec. 18, 2025, 139 Stat. 873.)
+(Added Pub. L. 119–60, div. A, title V, § 543, Dec. 18, 2025, 139 Stat. 873.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 119–60, § 543, which directed amendment of chapter 21 of this title by adding this section after section 2009 of this title, was executed by adding this section to chapter 101 of this title to reflect the probable intent of Congress.
+Pub. L. 119–60, § 543, which directed amendment of chapter 21 of this title by adding this section after section 2009 of this title, was executed by adding this section to chapter 101 of this title to reflect the probable intent of Congress.
 
 **Prior Provisions**
 
 A prior section 2010 was renumbered section 321 of this title.
 
-## [§ 2011. Renumbered § 322]
+## [§ 2011. Renumbered § 322]
 
-## § 2012. Support and services for eligible organizations and activities outside Department of Defense
+## § 2012. Support and services for eligible organizations and activities outside Department of Defense
 
 **(a) Authority To Provide Services and Support.—** Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may in accordance with this section authorize units or individual members of the armed forces under that Secretary’s jurisdiction to provide support and services, including supplies incidental to such support and services, to non-Department of Defense organizations and activities specified in subsection (e), but only if—
 
@@ -1799,25 +1799,25 @@ A prior section 2010 was renumbered section 321 of this title.
 
 **(5)** Provide for oversight of project execution to ensure that a training project under this section is carried out in accordance with the proposal for that project as approved.
 
-(Added Pub. L. 104–106, div. A, title V, § 572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, § 594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, § 525(a), Oct. 17, 1998, 112 Stat. 2014; Pub. L. 117–81, div. A, title XV, § 1512, Dec. 27, 2021, 135 Stat. 2039; Pub. L. 117–286, § 4(a)(51), Dec. 27, 2022, 136 Stat. 4311; Pub. L. 118–31, div. A, title III, § 341, Dec. 22, 2023, 137 Stat. 223; Pub. L. 119–60, div. A, title III, § 332, Dec. 18, 2025, 139 Stat. 816.)
+(Added Pub. L. 104–106, div. A, title V, § 572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, § 594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, § 525(a), Oct. 17, 1998, 112 Stat. 2014; Pub. L. 117–81, div. A, title XV, § 1512, Dec. 27, 2021, 135 Stat. 2039; Pub. L. 117–286, § 4(a)(51), Dec. 27, 2022, 136 Stat. 4311; Pub. L. 118–31, div. A, title III, § 341, Dec. 22, 2023, 137 Stat. 223; Pub. L. 119–60, div. A, title III, § 332, Dec. 18, 2025, 139 Stat. 816.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§ 651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§ 651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60 inserted “, including supplies incidental to such support and services,” after “and services” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–60 inserted “, including supplies incidental to such support and services,” after “and services” in introductory provisions.
 
-2023—Subsec. (i). Pub. L. 118–31 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “, except as provided in paragraph (2),” before “for response” in subpar. (A), and added par. (2).
+2023—Subsec. (i). Pub. L. 118–31 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “, except as provided in paragraph (2),” before “for response” in subpar. (A), and added par. (2).
 
 2022—Subsec. (h)(3). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-2021—Subsec. (e)(3), (4). Pub. L. 117–81, § 1512(1), added par. (3) and redesignated former par. (3) as (4).
+2021—Subsec. (e)(3), (4). Pub. L. 117–81, § 1512(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (f)(5). Pub. L. 117–81, § 1512(2), added par. (5).
+Subsec. (f)(5). Pub. L. 117–81, § 1512(2), added par. (5).
 
 1998—Subsec. (j). Pub. L. 105–261 added subsec. (j).
 
@@ -1827,13 +1827,13 @@ Subsec. (f)(5). Pub. L. 117–81, § 1512(2), added par. (5).
 
 **Implementation**
 
-Pub. L. 105–261, div. A, title V, § 525(b), Oct. 17, 1998, 112 Stat. 2014, as amended by Pub. L. 106–65, div. A, title X, § 1066(b)(4), Oct. 5, 1999, 113 Stat. 772, provided that: “The Secretary of Defense may not initiate any project under section 2012 of title 10, United States Code, after October 1, 1998, until the program required by subsection (j) of that section (as added by subsection (a)) has been established.”
+Pub. L. 105–261, div. A, title V, § 525(b), Oct. 17, 1998, 112 Stat. 2014, as amended by Pub. L. 106–65, div. A, title X, § 1066(b)(4), Oct. 5, 1999, 113 Stat. 772, provided that: “The Secretary of Defense may not initiate any project under section 2012 of title 10, United States Code, after October 1, 1998, until the program required by subsection (j) of that section (as added by subsection (a)) has been established.”
 
 **Termination of Funding for Office of Civil-Military Programs in Office of the Secretary of Defense**
 
-Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provided that: “No funds may be obligated or expended after the date of the enactment of this Act [Feb. 10, 1996] (1) for the office that as of the date of the enactment of this Act is designated, within the Office of the Assistant Secretary of Defense for Reserve Affairs [now Assistant Secretary of Defense for Manpower and Reserve Affairs], as the Office of Civil-Military Programs, or (2) for any other entity within the Office of the Secretary of Defense that has an exclusive or principal mission of providing centralized direction for activities under section 2012 of title 10, United States Code, as added by section 572.”
+Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provided that: “No funds may be obligated or expended after the date of the enactment of this Act [Feb. 10, 1996] (1) for the office that as of the date of the enactment of this Act is designated, within the Office of the Assistant Secretary of Defense for Reserve Affairs [now Assistant Secretary of Defense for Manpower and Reserve Affairs], as the Office of Civil-Military Programs, or (2) for any other entity within the Office of the Secretary of Defense that has an exclusive or principal mission of providing centralized direction for activities under section 2012 of title 10, United States Code, as added by section 572.”
 
-## § 2013. Training at non-Government facilities
+## § 2013. Training at non-Government facilities
 
 **(a) Authority To Enter Into Agreements.—**
 
@@ -1873,35 +1873,35 @@ Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, prov
 
 **(c) Certain Expenses Excluded.—** The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 
-(Added Pub. L. 104–201, div. A, title III, § 362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, § 5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, § 1071(a)(1), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 117–263, div. A, title VI, § 626(c)(6), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 104–201, div. A, title III, § 362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, § 5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, § 1071(a)(1), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 117–263, div. A, title VI, § 626(c)(6), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (b)(2)(A). Pub. L. 117–263, § 626(c)(6)(A), substituted “sections 405 and 452” for “sections 474 and 475”.
+2022—Subsec. (b)(2)(A). Pub. L. 117–263, § 626(c)(6)(A), substituted “sections 405 and 452” for “sections 474 and 475”.
 
-Subsec. (b)(2)(B). Pub. L. 117–263, § 626(c)(6)(B), substituted “sections 452 and 453(c)” for “sections 476 and 479”.
+Subsec. (b)(2)(B). Pub. L. 117–263, § 626(c)(6)(B), substituted “sections 452 and 453(c)” for “sections 476 and 479”.
 
 2014—Subsec. (a)(1). Pub. L. 113–291 substituted “section 6101 of title 41” for “section 6101(b)–(d) of title 41”.
 
-2013—Subsec. (b)(2)(A), (B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (b)(2)(A), (B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsec. (a)(1). Pub. L. 111–350 substituted “section 6101(b)–(d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
-Subsec. (b)(2)(A), (B). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B).
+Subsec. (b)(2)(A), (B). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date**
 
-Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 2493, provided that: “Section 2013 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 2493, provided that: “Section 2013 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
 
-## § 2014. Administrative actions adversely affecting military training or other readiness activities
+## § 2014. Administrative actions adversely affecting military training or other readiness activities
 
 **(a) Congressional Notification.—** Whenever an official of an Executive agency takes or proposes to take an administrative action that, as determined by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff, affects training or any other readiness activity in a manner that has or would have a significant adverse effect on the military readiness of any of the armed forces or a critical component thereof, the Secretary shall submit a written notification of the action and each significant adverse effect to the head of the Executive agency taking or proposing to take the administrative action. At the same time, the Secretary shall transmit a copy of the notification to the President, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives.
 
@@ -1937,7 +1937,7 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 249
 
 **(g) Definition.—** In this section, the term “Executive agency” has the meaning given such term in section 105 of title 5, except that the term does not include the Government Accountability Office.
 
-(Added Pub. L. 105–85, div. A, title III, § 325(a), Nov. 18, 1997, 111 Stat. 1678; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, § 1084(c)(3), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 105–85, div. A, title III, § 325(a), Nov. 18, 1997, 111 Stat. 1678; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, § 1084(c)(3), Oct. 28, 2004, 118 Stat. 2061.)
 
 **Editorial Notes**
 
@@ -1947,7 +1947,7 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 249
 
 1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-## § 2015. Program to assist members in obtaining professional credentials
+## § 2015. Program to assist members in obtaining professional credentials
 
 **(a) Program Required.—** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials that translate into civilian occupations.
 
@@ -1993,7 +1993,7 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 249
 
 **(e) Expenses Defined.—** In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
-(Added Pub. L. 109–163, div. A, title V, § 538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, § 551(a), Dec. 19, 2014, 128 Stat. 3376; Pub. L. 114–92, div. A, title V, § 559, Nov. 25, 2015, 129 Stat. 827; Pub. L. 114–328, div. A, title V, § 561, Dec. 23, 2016, 130 Stat. 2137; Pub. L. 115–232, div. A, title V, § 556, Aug. 13, 2018, 132 Stat. 1773.)
+(Added Pub. L. 109–163, div. A, title V, § 538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, § 551(a), Dec. 19, 2014, 128 Stat. 3376; Pub. L. 114–92, div. A, title V, § 559, Nov. 25, 2015, 129 Stat. 827; Pub. L. 114–328, div. A, title V, § 561, Dec. 23, 2016, 130 Stat. 2137; Pub. L. 115–232, div. A, title V, § 556, Aug. 13, 2018, 132 Stat. 1773.)
 
 **Editorial Notes**
 
@@ -2009,11 +2009,11 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 “(2) translate into civilian occupations.”
 
-2016—Subsec. (a)(1). Pub. L. 114–328, § 561(a), struck out “incident to the performance of their military duties” after “in the armed forces”.
+2016—Subsec. (a)(1). Pub. L. 114–328, § 561(a), struck out “incident to the performance of their military duties” after “in the armed forces”.
 
-Subsec. (c)(1). Pub. L. 114–328, § 561(b)(1), substituted “meets one of the requirements specified in paragraph (2).” for “is accredited by an accreditation body that meets the requirements specified in paragraph (2).”
+Subsec. (c)(1). Pub. L. 114–328, § 561(b)(1), substituted “meets one of the requirements specified in paragraph (2).” for “is accredited by an accreditation body that meets the requirements specified in paragraph (2).”
 
-Subsec. (c)(2). Pub. L. 114–328, § 561(b)(2), added par. (2) and struck out former par. (2) which read as follows: “The requirements for accreditation bodies specified in this paragraph are requirements that an accreditation body—
+Subsec. (c)(2). Pub. L. 114–328, § 561(b)(2), added par. (2) and struck out former par. (2) which read as follows: “The requirements for accreditation bodies specified in this paragraph are requirements that an accreditation body—
 
 “(A) be an independent body that has in place mechanisms to ensure objectivity and impartiality in its accreditation activities;
 
@@ -2037,7 +2037,7 @@ Subsec. (c)(2). Pub. L. 114–328, § 561(b)(2), added par. (2) and struck out
 
 **Improvements to the Credentialing Opportunities On-Line Programs of the Armed Forces**
 
-Pub. L. 116–283, div. A, title V, § 578, Jan. 1, 2021, 134 Stat. 3649, provided that:
+Pub. L. 116–283, div. A, title V, § 578, Jan. 1, 2021, 134 Stat. 3649, provided that:
 
 > **“(a) Study on Performance Measures.—** The Secretary of Defense shall conduct a study to determine additional performance measures to evaluate the effectiveness of the Credentialing Opportunities On-Line programs (in this section referred to as the ‘COOL programs’) of each Armed Force in connecting members of the Armed Forces with professional credential programs. The study shall include the following:
 
@@ -2061,7 +2061,7 @@ Pub. L. 116–283, div. A, title V, § 578, Jan. 1, 2021, 134 Stat. 3649, prov
 
 **Programs To Facilitate the Award of Private Pilot’s Certificates**
 
-Pub. L. 116–92, div. A, title V, § 560B, Dec. 20, 2019, 133 Stat. 1393, provided that:
+Pub. L. 116–92, div. A, title V, § 560B, Dec. 20, 2019, 133 Stat. 1393, provided that:
 
 > **“(a) Programs Authorized.—** Each Secretary of a military department may carry out a program under which qualified participants may obtain a private pilot’s certificate through an institution of higher education with an accredited aviation program that is approved by such Secretary pursuant to subsection (c).
 
@@ -2095,7 +2095,7 @@ Pub. L. 116–92, div. A, title V, § 560B, Dec. 20, 2019, 133 Stat. 1393, pro
 
 **Pilot Program on Earning by Special Operations Forces Medics of Credit Toward a Physician Assistant Degree**
 
-Pub. L. 115–232, div. A, title VII, § 735, Aug. 13, 2018, 132 Stat. 1819, provided that:
+Pub. L. 115–232, div. A, title VII, § 735, Aug. 13, 2018, 132 Stat. 1819, provided that:
 
 > **“(a) In General.—** The Assistant Secretary of Defense for Health Affairs may conduct a pilot program to assess the feasibility and advisability of partnerships between special operations forces and institutions of higher education, and health care systems if determined appropriate by the Assistant Secretary for purposes of the pilot program, through which special operations forces medics earn credit toward the master’s degree of physician assistant for military operational work and training performed by the medics.
 
@@ -2133,7 +2133,7 @@ Pub. L. 115–232, div. A, title VII, § 735, Aug. 13, 2018, 132 Stat. 1819, p
 
 **Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses**
 
-Pub. L. 113–66, div. A, title V, § 542, Dec. 26, 2013, 127 Stat. 762, provided that:
+Pub. L. 113–66, div. A, title V, § 542, Dec. 26, 2013, 127 Stat. 762, provided that:
 
 > **“(a) Improvement of Information Available to Members of the Armed Forces About Correlation.—**
 
@@ -2169,7 +2169,7 @@ Pub. L. 113–66, div. A, title V, § 542, Dec. 26, 2013, 127 Stat. 762, provi
 
 **Pilot Program on Receipt of Civilian Credentialing for Skills Required for Military Occupational Specialties**
 
-Pub. L. 112–81, div. A, title V, § 558, Dec. 31, 2011, 125 Stat. 1418, as amended by Pub. L. 112–239, div. A, title V, § 543, Jan. 2, 2013, 126 Stat. 1737, provided that:
+Pub. L. 112–81, div. A, title V, § 558, Dec. 31, 2011, 125 Stat. 1418, as amended by Pub. L. 112–239, div. A, title V, § 543, Jan. 2, 2013, 126 Stat. 1737, provided that:
 
 > **“(a) Pilot Program Required.—** Commencing not later than nine months after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of permitting enlisted members of the Armed Forces to obtain civilian credentialing or licensing for skills required for military occupational specialties (MOS) or qualification for duty specialty codes.
 
@@ -2233,7 +2233,7 @@ Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 2016. Undergraduate nurse training program: establishment through agreement with academic institution
+## § 2016. Undergraduate nurse training program: establishment through agreement with academic institution
 
 **(a) Establishment Authorized.—**
 
@@ -2259,17 +2259,17 @@ Donald J. Trump.
 
 **(f) Military Service Commitment.—** The Secretary of Defense shall encourage members of the armed forces to apply to participate in an undergraduate nurse training program. Graduates of the program shall incur a military service obligation in a regular or reserve component, as determined by the Secretary.
 
-(Added Pub. L. 111–84, div. A, title V, § 525(b)(1), Oct. 28, 2009, 123 Stat. 2286; amended Pub. L. 111–383, div. A, title V, § 551(a)–(c), Jan. 7, 2011, 124 Stat. 4219.)
+(Added Pub. L. 111–84, div. A, title V, § 525(b)(1), Oct. 28, 2009, 123 Stat. 2286; amended Pub. L. 111–383, div. A, title V, § 551(a)–(c), Jan. 7, 2011, 124 Stat. 4219.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (a)(1). Pub. L. 111–383, § 551(a), substituted “a bachelor of science degree in nursing” for “a nursing degree”.
+2011—Subsec. (a)(1). Pub. L. 111–383, § 551(a), substituted “a bachelor of science degree in nursing” for “a nursing degree”.
 
-Subsec. (b). Pub. L. 111–383, § 551(b), inserted “in nursing” after “bachelor of science degree”.
+Subsec. (b). Pub. L. 111–383, § 551(b), inserted “in nursing” after “bachelor of science degree”.
 
-Subsec. (d). Pub. L. 111–383, § 551(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation. A military installation at or near which an undergraduate nurse training program is established must—
+Subsec. (d). Pub. L. 111–383, § 551(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation. A military installation at or near which an undergraduate nurse training program is established must—
 
 “(1) be one of the ten largest military installations in the United States, in terms of the number of active duty personnel assigned to the installation and family members residing on or in the vicinity of the installations; and
 
@@ -2279,7 +2279,7 @@ Subsec. (d). Pub. L. 111–383, § 551(c), amended subsec. (d) generally. Prio
 
 **Plan and Pilot Program To Establish Undergraduate Nurse Training Program**
 
-Pub. L. 111–84, div. A, title V, § 525(c)–(f), Oct. 28, 2009, 123 Stat. 2287, 2288, as amended by Pub. L. 111–383, div. A, title V, § 551(d), Jan. 7, 2011, 124 Stat. 4219, provided that:
+Pub. L. 111–84, div. A, title V, § 525(c)–(f), Oct. 28, 2009, 123 Stat. 2287, 2288, as amended by Pub. L. 111–383, div. A, title V, § 551(d), Jan. 7, 2011, 124 Stat. 4219, provided that:
 
 > **“(c) Undergraduate Nurse Training Program Plan.—** Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a plan to establish an undergraduate nurse training program in the Department of Defense in accordance with the authority provided by section 2169 of title 10, United States Code, as added by subsection (a), section 2016 of such title, as added by subsection (b), or any other authority available to the Secretary.
 
@@ -2301,16 +2301,16 @@ Pub. L. 111–84, div. A, title V, § 525(c)–(f), Oct. 28, 2009, 123 Stat. 2
 
 > **“(f) Effect on Other Recruitment Efforts.—** Nothing in this section shall be construed as limiting or terminating any current or future program of the Department of Defense related to the recruitment, accession, training, or retention of nurses.”
 
-## § 2017. Limitation on establishment of postsecondary educational institutions pending notice to Congress
+## § 2017. Limitation on establishment of postsecondary educational institutions pending notice to Congress
 
 **(a) Limitation.—** The Secretary of Defense may not establish a postsecondary educational institution within the Department of Defense until a period of one year has elapsed following the date on which the Secretary notifies the congressional defense committees of the intent of the Secretary to establish the institution.
 
 **(b) Postsecondary Educational Institution Defined.—** In this section, the term “postsecondary educational institution” means a school or other educational institution that is intended to provide students with a course of instruction that is comparable, in length and academic rigor, to a course of instruction for which an associate’s, bachelor’s, or graduate degree may be awarded.
 
-(Added Pub. L. 116–92, div. A, title V, § 553(b)(1), Dec. 20, 2019, 133 Stat. 1387.)
+(Added Pub. L. 116–92, div. A, title V, § 553(b)(1), Dec. 20, 2019, 133 Stat. 1387.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability**
 
-Pub. L. 116–92, div. A, title V, § 553(b)(3), Dec. 20, 2019, 133 Stat. 1387, provided that: “Section 2017 of title 10, United States Code, as added by paragraph (1), shall apply with respect to postsecondary educational institutions intended to be established by the Secretary of Defense on or after the date of the enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–92, div. A, title V, § 553(b)(3), Dec. 20, 2019, 133 Stat. 1387, provided that: “Section 2017 of title 10, United States Code, as added by paragraph (1), shall apply with respect to postsecondary educational institutions intended to be established by the Secretary of Defense on or after the date of the enactment of this Act [Dec. 20, 2019].”

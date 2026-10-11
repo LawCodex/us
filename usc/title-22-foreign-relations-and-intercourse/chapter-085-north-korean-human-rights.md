@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 85—NORTH KOREAN HUMAN RIGHTS
 
-## § 7801. Findings
+## § 7801. Findings
 
 Congress makes the following findings:
 
@@ -69,37 +69,37 @@ Congress makes the following findings:
 
 **(25)** In addition to infringing the rights of its own citizens, the Government of North Korea has been responsible in years past for the abduction of numerous citizens of South Korea and Japan, whose condition and whereabouts remain unknown.
 
-(Pub. L. 108–333, § 3, Oct. 18, 2004, 118 Stat. 1287.)
+(Pub. L. 108–333, § 3, Oct. 18, 2004, 118 Stat. 1287.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LV, § 5580, Dec. 23, 2022, 136 Stat. 3371, provided that: “This subtitle [subtitle F (§§ 5580–5584) of title LV of div. E of Pub. L. 117–263, amending section 7814 of this title and enacting provisions set out as notes under section 7814 of this title] may be cited as the ‘Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2022’.”
+Pub. L. 117–263, div. E, title LV, § 5580, Dec. 23, 2022, 136 Stat. 3371, provided that: “This subtitle [subtitle F (§§ 5580–5584) of title LV of div. E of Pub. L. 117–263, amending section 7814 of this title and enacting provisions set out as notes under section 7814 of this title] may be cited as the ‘Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2022’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–198, § 1, July 20, 2018, 132 Stat. 1519, provided that: “This Act [enacting section 7846 of this title, amending sections 7812 to 7814, 7817, 7831, 7833, and 7845 of this title, repealing section 9253 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘North Korean Human Rights Reauthorization Act of 2017’.”
+Pub. L. 115–198, § 1, July 20, 2018, 132 Stat. 1519, provided that: “This Act [enacting section 7846 of this title, amending sections 7812 to 7814, 7817, 7831, 7833, and 7845 of this title, repealing section 9253 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘North Korean Human Rights Reauthorization Act of 2017’.”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 112–264, § 1, Jan. 14, 2013, 126 Stat. 2432, provided that: “This Act [enacting section 7834 of this title and provisions set out as a note under section 7834 of this title] may be cited as the ‘North Korean Child Welfare Act of 2012’.”
+Pub. L. 112–264, § 1, Jan. 14, 2013, 126 Stat. 2432, provided that: “This Act [enacting section 7834 of this title and provisions set out as a note under section 7834 of this title] may be cited as the ‘North Korean Child Welfare Act of 2012’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–172, § 1, Aug. 16, 2012, 126 Stat. 1307, provided that: “This Act [amending sections 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human Rights Reauthorization Act of 2012’.”
+Pub. L. 112–172, § 1, Aug. 16, 2012, 126 Stat. 1307, provided that: “This Act [amending sections 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human Rights Reauthorization Act of 2012’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–346, § 1, Oct. 7, 2008, 122 Stat. 3939, provided that: “This Act [amending sections 7803, 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as notes under this section] may be cited as the ‘North Korean Human Rights Reauthorization Act of 2008’.”
+Pub. L. 110–346, § 1, Oct. 7, 2008, 122 Stat. 3939, provided that: “This Act [amending sections 7803, 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as notes under this section] may be cited as the ‘North Korean Human Rights Reauthorization Act of 2008’.”
 
 **Short Title**
 
-Pub. L. 108–333, § 1, Oct. 18, 2004, 118 Stat. 1287, provided that: “This Act [enacting this chapter] may be cited as the ‘North Korean Human Rights Act of 2004’.”
+Pub. L. 108–333, § 1, Oct. 18, 2004, 118 Stat. 1287, provided that: “This Act [enacting this chapter] may be cited as the ‘North Korean Human Rights Act of 2004’.”
 
 **Findings**
 
-Pub. L. 115–198, § 2, July 20, 2018, 132 Stat. 1519, provided that:
+Pub. L. 115–198, § 2, July 20, 2018, 132 Stat. 1519, provided that:
 
 > “Congress makes the following findings:
 
@@ -119,7 +119,7 @@ Pub. L. 115–198, § 2, July 20, 2018, 132 Stat. 1519, provided that:
 
 > **“(8)** Although the United States Refugee Admissions Program remains the largest in the world by far, the United States has only resettled 212 refugees from North Korea since the date of the enactment of the North Korea[n] Human Rights Act of 2004 (Public Law 108–333) [Oct. 18, 2004].”
 
-Pub. L. 112–172, § 2, Aug. 16, 2012, 126 Stat. 1307, provided that:
+Pub. L. 112–172, § 2, Aug. 16, 2012, 126 Stat. 1307, provided that:
 
 > “Congress finds the following:
 
@@ -139,7 +139,7 @@ Pub. L. 112–172, § 2, Aug. 16, 2012, 126 Stat. 1307, provided that:
 
 > **“(8)** Following his 18 years of service in the House of Representatives, including as Chairman of the Foreign Affairs Subcommittee on East Asian and Pacific Affairs, Stephen J. Solarz committed himself to, in his words, highlighting ‘the plight of ordinary North Koreans who are denied even the most basic human rights, and the dramatic and heart-rending stories of those who risk their lives in the struggle to escape what is certainly the world’s worst nightmare’, and served as co-chairman of the Committee for Human Rights in North Korea until his death in 2010.”
 
-Pub. L. 110–346, § 2, Oct. 7, 2008, 122 Stat. 3939, provided that:
+Pub. L. 110–346, § 2, Oct. 7, 2008, 122 Stat. 3939, provided that:
 
 > “Congress finds the following:
 
@@ -169,7 +169,7 @@ Pub. L. 110–346, § 2, Oct. 7, 2008, 122 Stat. 3939, provided that:
 
 **Sense of Congress**
 
-Pub. L. 110–346, § 3, Oct. 7, 2008, 122 Stat. 3940, provided that:
+Pub. L. 110–346, § 3, Oct. 7, 2008, 122 Stat. 3940, provided that:
 
 > “It is the sense of Congress that—
 
@@ -189,7 +189,7 @@ Pub. L. 110–346, § 3, Oct. 7, 2008, 122 Stat. 3940, provided that:
 
 > **“(C)** allow the United Nations High Commissioner for Refugees (UNHCR) unimpeded access to North Koreans inside China to determine whether they are refugees and whether they require assistance.”
 
-## § 7802. Purposes
+## § 7802. Purposes
 
 The purposes of this chapter are—
 
@@ -203,9 +203,9 @@ The purposes of this chapter are—
 
 **(5)** to promote progress toward the peaceful reunification of the Korean peninsula under a democratic system of government.
 
-(Pub. L. 108–333, § 4, Oct. 18, 2004, 118 Stat. 1290.)
+(Pub. L. 108–333, § 4, Oct. 18, 2004, 118 Stat. 1290.)
 
-## § 7803. Definitions
+## § 7803. Definitions
 
 In this chapter:
 
@@ -235,7 +235,7 @@ The term “North Koreans” means persons who are citizens or nationals of Nort
 
 The term “South Korea” means the Republic of Korea.
 
-(Pub. L. 108–333, § 5, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, § 4, Oct. 7, 2008, 122 Stat. 3941.)
+(Pub. L. 108–333, § 5, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, § 4, Oct. 7, 2008, 122 Stat. 3941.)
 
 **Editorial Notes**
 
@@ -245,13 +245,13 @@ The term “South Korea” means the Republic of Korea.
 
 ## SUBCHAPTER I—PROMOTING THE HUMAN RIGHTS OF NORTH KOREANS
 
-### § 7811. Sense of Congress regarding negotiations with North Korea
+### § 7811. Sense of Congress regarding negotiations with North Korea
 
 It is the sense of Congress that the human rights of North Koreans should remain a key element in future negotiations between the United States, North Korea, and other concerned parties in Northeast Asia.
 
-(Pub. L. 108–333, title I, § 101, Oct. 18, 2004, 118 Stat. 1290.)
+(Pub. L. 108–333, title I, § 101, Oct. 18, 2004, 118 Stat. 1290.)
 
-### § 7812. Support for human rights and democracy programs
+### § 7812. Support for human rights and democracy programs
 
 **(a) Support**
 
@@ -267,21 +267,21 @@ There are authorized to be appropriated to the President $2,000,000 for each of 
 
 Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 108–333, title I, § 102, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, § 5, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, § 4, Aug. 16, 2012, 126 Stat. 1308; Pub. L. 115–198, § 7(a), July 20, 2018, 132 Stat. 1523.)
+(Pub. L. 108–333, title I, § 102, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, § 5, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, § 4, Aug. 16, 2012, 126 Stat. 1308; Pub. L. 115–198, § 7(a), July 20, 2018, 132 Stat. 1523.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–198, § 7(a)(1), inserted at end “The President is also authorized to provide grants to entities to undertake research on North Korea’s denial of human rights, including on the political and military chains of command responsible for authorizing and implementing systemic human rights abuses, including at prison camps and detention facilities where political prisoners are held.”
+2018—Subsec. (a). Pub. L. 115–198, § 7(a)(1), inserted at end “The President is also authorized to provide grants to entities to undertake research on North Korea’s denial of human rights, including on the political and military chains of command responsible for authorizing and implementing systemic human rights abuses, including at prison camps and detention facilities where political prisoners are held.”
 
-Subsec. (b)(1). Pub. L. 115–198, § 7(a)(2), substituted “2022” for “2017”.
+Subsec. (b)(1). Pub. L. 115–198, § 7(a)(2), substituted “2022” for “2017”.
 
 2012—Subsec. (b)(1). Pub. L. 112–172 substituted “2017” for “2012”.
 
 2008—Subsec. (b)(1). Pub. L. 110–346 inserted “and $2,000,000 for each of fiscal years 2009 through 2012” after “2008”.
 
-### § 7813. Radio broadcasting to North Korea
+### § 7813. Radio broadcasting to North Korea
 
 **(a) Sense of Congress** It is the sense of Congress that the United States should—
 
@@ -295,15 +295,15 @@ Subsec. (b)(1). Pub. L. 115–198, § 7(a)(2), substituted “2022” for “2
 
 **(2)** outlines a plan for increasing such broadcasts to 12 hours per day, including a detailed description of the technical and fiscal requirements necessary to implement the plan.
 
-(Pub. L. 108–333, title I, § 103, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 115–198, § 4, July 20, 2018, 132 Stat. 1521.)
+(Pub. L. 108–333, title I, § 103, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 115–198, § 4, July 20, 2018, 132 Stat. 1521.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–198, § 4(1), (3), substituted “United States should—” for “United States should”, inserted par. (1) designation before “facilitate”, and added par. (2).
+2018—Subsec. (a). Pub. L. 115–198, § 4(1), (3), substituted “United States should—” for “United States should”, inserted par. (1) designation before “facilitate”, and added par. (2).
 
-Subsec. (a)(1). Pub. L. 115–198, § 4(2), substituted “broadcasting, including news rebroadcasting,” for “radio broadcasting”, “increase such broadcasts, including news rebroadcasts,” for “increase broadcasts”, and “Voice of America; and” for “Voice of America.”
+Subsec. (a)(1). Pub. L. 115–198, § 4(2), substituted “broadcasting, including news rebroadcasting,” for “radio broadcasting”, “increase such broadcasts, including news rebroadcasts,” for “increase broadcasts”, and “Voice of America; and” for “Voice of America.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -311,7 +311,7 @@ Subsec. (a)(1). Pub. L. 115–198, § 4(2), substituted “broadcasting, inclu
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
-### § 7814. Actions to promote freedom of information
+### § 7814. Actions to promote freedom of information
 
 **(a) Actions**
 
@@ -347,9 +347,9 @@ Efforts to improve information access under this subsection should include relig
 
 **(i)** a description of the effectiveness of actions taken pursuant to this section and sections 5583 and 5584 of the Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2022, including data reflecting audience and listenership, device distribution and usage, and technological development and advancement usage;
 
-**(ii)** the amount of funds expended by the United States Government pursuant to section 403; 1
+**(ii)** the amount of funds expended by the United States Government pursuant to section 403; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -373,7 +373,7 @@ Not later than 1 year after October 18, 2004, and annually through 2022, the Sec
 
 Not later than 180 days after the date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015,<sup>1</sup> the President shall submit to the appropriate congressional committees a classified report that sets forth a detailed plan for making unrestricted, unmonitored, and inexpensive electronic mass communications available to the people of North Korea.
 
-(Pub. L. 108–333, title I, § 104, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 110–346, § 7, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, § 6, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 114–122, title III, § 301, Feb. 18, 2016, 130 Stat. 112; Pub. L. 115–198, §§ 5, 7(b), July 20, 2018, 132 Stat. 1521, 1523; Pub. L. 117–263, div. E, title LV, § 5584(b), Dec. 23, 2022, 136 Stat. 3373.)
+(Pub. L. 108–333, title I, § 104, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 110–346, § 7, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, § 6, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 114–122, title III, § 301, Feb. 18, 2016, 130 Stat. 112; Pub. L. 115–198, §§ 5, 7(b), July 20, 2018, 132 Stat. 1521, 1523; Pub. L. 117–263, div. E, title LV, § 5584(b), Dec. 23, 2022, 136 Stat. 3373.)
 
 **Editorial Notes**
 
@@ -381,29 +381,29 @@ Not later than 180 days after the date of the enactment of the North Korea Sanct
 
 Sections 5583 and 5584 of the Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2022, referred to in subsec. (a)(7)(B)(i), are sections 5583 and 5584 of subtitle F of title LV of div. E of Pub. L. 117–263, Dec. 23, 2022, 136 Stat. 3372, 3373. Sections 5583 and 5584(a) of the Act are not classified to the Code. Section 5584(b) of the Act amended this section.
 
-Section 403, referred to in subsec. (a)(7)(B)(ii), may mean section 403 of the North Korea Sanctions and Policy Enhancement Act of 2016, Pub. L. 114–122, which authorized appropriations to carry out various provisions in this chapter and was classified to section 9253 of this title, prior to repeal by Pub. L. 115–198, § 9, July 20, 2018, 132 Stat. 1525. There is no section 403 of Pub. L. 108–333, of which this section is a part.
+Section 403, referred to in subsec. (a)(7)(B)(ii), may mean section 403 of the North Korea Sanctions and Policy Enhancement Act of 2016, Pub. L. 114–122, which authorized appropriations to carry out various provisions in this chapter and was classified to section 9253 of this title, prior to repeal by Pub. L. 115–198, § 9, July 20, 2018, 132 Stat. 1525. There is no section 403 of Pub. L. 108–333, of which this section is a part.
 
 The date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015, referred to in subsec. (d), probably means the date of enactment of the North Korea Sanctions and Policy Enhancement Act of 2016, Pub. L. 114–122, which was approved Feb. 18, 2016.
 
 **Amendments**
 
-2022—Subsec. (a)(7)(B). Pub. L. 117–263, § 5584(b)(1), in introductory provisions, substituted “September 30, 2022” for “1 year after July 20, 2018” and “Chief Executive Officer of the United States Agency for Global Media” for “Broadcasting Board of Governors”.
+2022—Subsec. (a)(7)(B). Pub. L. 117–263, § 5584(b)(1), in introductory provisions, substituted “September 30, 2022” for “1 year after July 20, 2018” and “Chief Executive Officer of the United States Agency for Global Media” for “Broadcasting Board of Governors”.
 
-Subsec. (a)(7)(B)(i). Pub. L. 117–263, § 5584(b)(2), inserted “and sections 5583 and 5584 of the Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2022” after “this section”.
+Subsec. (a)(7)(B)(i). Pub. L. 117–263, § 5584(b)(2), inserted “and sections 5583 and 5584 of the Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2022” after “this section”.
 
-2018—Subsec. (a). Pub. L. 115–198, § 5, designated existing provisions as par. (1), inserted heading, inserted “, USB drives, micro SD cards, audio players, video players, cell phones, wi-fi, wireless internet, web pages, internet, wireless telecommunications, and other electronic media that shares information” before period at end, and added pars. (2) to (7).
+2018—Subsec. (a). Pub. L. 115–198, § 5, designated existing provisions as par. (1), inserted heading, inserted “, USB drives, micro SD cards, audio players, video players, cell phones, wi-fi, wireless internet, web pages, internet, wireless telecommunications, and other electronic media that shares information” before period at end, and added pars. (2) to (7).
 
-Subsec. (b)(1). Pub. L. 115–198, § 7(b)(1), substituted “$3,000,000” for “$2,000,000” and “2022” for “2017”.
+Subsec. (b)(1). Pub. L. 115–198, § 7(b)(1), substituted “$3,000,000” for “$2,000,000” and “2022” for “2017”.
 
-Subsec. (c). Pub. L. 115–198, § 7(b)(2), substituted “2022” for “2017”.
+Subsec. (c). Pub. L. 115–198, § 7(b)(2), substituted “2022” for “2017”.
 
 2016—Subsec. (d). Pub. L. 114–122 added subsec. (d).
 
 2012—Subsecs. (b)(1), (c). Pub. L. 112–172 substituted “2017” for “2012”.
 
-2008—Subsec. (b)(1). Pub. L. 110–346, § 7(1), substituted “2012” for “2008”.
+2008—Subsec. (b)(1). Pub. L. 110–346, § 7(1), substituted “2012” for “2008”.
 
-Subsec. (c). Pub. L. 110–346, § 7(2), substituted “annually through 2012” for “in each of the 3 years thereafter”.
+Subsec. (c). Pub. L. 110–346, § 7(2), substituted “annually through 2012” for “in each of the 3 years thereafter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -413,7 +413,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 **Findings; Sense of Congress**
 
-Pub. L. 117–263, div. E, title LV, § 5581, Dec. 23, 2022, 136 Stat. 3371, provided that:
+Pub. L. 117–263, div. E, title LV, § 5581, Dec. 23, 2022, 136 Stat. 3371, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -427,7 +427,7 @@ Pub. L. 117–263, div. E, title LV, § 5581, Dec. 23, 2022, 136 Stat. 3371, p
 
 > **“(5)** Despite increased penalties for possession and viewership of foreign media, the people of North Korean have increased their desire for foreign media content, according to a survey of 200 defectors concluding that 90 percent had watched South Korean or other foreign media before defecting.
 
-> **“(6)** On March 23, 2021, in an annual resolution, the United Nations General Assembly condemned ‘the long-standing and ongoing systematic, widespread and gross violations of human rights in the Democratic People’s Republic of Korea’ and expressed grave concern at, among other things, ‘the denial of the right to freedom of thought, conscience, and religion . . . and of the rights to freedom of opinion, expression, and association, both online and offline, which is enforced through an absolute monopoly on information and total control over organized social life, and arbitrary and unlawful state surveillance that permeates the private lives of all citizens’.
+> **“(6)** On March 23, 2021, in an annual resolution, the United Nations General Assembly condemned ‘the long-standing and ongoing systematic, widespread and gross violations of human rights in the Democratic People’s Republic of Korea’ and expressed grave concern at, among other things, ‘the denial of the right to freedom of thought, conscience, and religion . . . and of the rights to freedom of opinion, expression, and association, both online and offline, which is enforced through an absolute monopoly on information and total control over organized social life, and arbitrary and unlawful state surveillance that permeates the private lives of all citizens’.
 
 > **“(7)** In 2018, Typhoon Yutu caused extensive damage to 15 broadcast antennas used by the United States Agency for Global Media in Asia, resulting in reduced programming to North Korea. The United States Agency for Global Media has rebuilt 5 of the 15 antenna systems as of June 2021.
 
@@ -439,7 +439,7 @@ Pub. L. 117–263, div. E, title LV, § 5581, Dec. 23, 2022, 136 Stat. 3371, p
 
 **Statement of Policy**
 
-Pub. L. 117–263, div. E, title LV, § 5582, Dec. 23, 2022, 136 Stat. 3372, provided that:
+Pub. L. 117–263, div. E, title LV, § 5582, Dec. 23, 2022, 136 Stat. 3372, provided that:
 
 > “It is the policy of the United States—
 
@@ -455,7 +455,7 @@ Pub. L. 117–263, div. E, title LV, § 5582, Dec. 23, 2022, 136 Stat. 3372, p
 
 Functions of President under section 301 of Pub. L. 114–122 (adding subsec. (d) of this section) delegated to Secretary of State by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 
-### § 7815. United Nations Commission on Human Rights
+### § 7815. United Nations Commission on Human Rights
 
 It is the sense of Congress that the United Nations has a significant role to play in promoting and improving human rights in North Korea, and that—
 
@@ -463,9 +463,9 @@ It is the sense of Congress that the United Nations has a significant role to pl
 
 **(2)** the severe human rights violations within North Korea warrant country-specific attention and reporting by the United Nations Working Group on Arbitrary Detention, the Working Group on Enforced and Involuntary Disappearances, the Special Rapporteur on Extrajudicial, Summary, or Arbitrary Executions, the Special Rapporteur on the Right to Food, the Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression, the Special Rapporteur on Freedom of Religion or Belief, and the Special Rapporteur on Violence Against Women.
 
-(Pub. L. 108–333, title I, § 105, Oct. 18, 2004, 118 Stat. 1291.)
+(Pub. L. 108–333, title I, § 105, Oct. 18, 2004, 118 Stat. 1291.)
 
-### § 7816. Establishment of regional framework
+### § 7816. Establishment of regional framework
 
 **(a) Findings**
 
@@ -473,15 +473,15 @@ The Congress finds that human rights initiatives can be undertaken on a multilat
 
 **(b) Sense of Congress**
 
-It is the sense of Congress that the United Sates 1
+It is the sense of Congress that the United Sates 1
 
-<sup>1</sup>  So in original. Probably should be “States”.
+<sup>1</sup> So in original. Probably should be “States”.
 
 should explore the possibility of a regional human rights dialogue with North Korea that is modeled on the Helsinki process, engaging all countries in the region in a common commitment to respect human rights and fundamental freedoms.
 
-(Pub. L. 108–333, title I, § 106, Oct. 18, 2004, 118 Stat. 1292.)
+(Pub. L. 108–333, title I, § 106, Oct. 18, 2004, 118 Stat. 1292.)
 
-### § 7817. Special Envoy on North Korean human rights issues
+### § 7817. Special Envoy on North Korean human rights issues
 
 **(a) Special Envoy**
 
@@ -511,7 +511,7 @@ The central objective of the Special Envoy is to coordinate and promote efforts 
 
 Not later than 180 days after October 18, 2004, and annually thereafter through 2022, the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).
 
-(Pub. L. 108–333, title I, § 107, Oct. 18, 2004, 118 Stat. 1292; Pub. L. 110–346, § 8, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, § 7, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 115–198, § 7(c), July 20, 2018, 132 Stat. 1523.)
+(Pub. L. 108–333, title I, § 107, Oct. 18, 2004, 118 Stat. 1292; Pub. L. 110–346, § 8, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, § 7, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 115–198, § 7(c), July 20, 2018, 132 Stat. 1523.)
 
 **Editorial Notes**
 
@@ -521,23 +521,23 @@ Not later than 180 days after October 18, 2004, and annually thereafter through 
 
 2012—Subsec. (d). Pub. L. 112–172 substituted “2017” for “2012”.
 
-2008—Pub. L. 110–346, § 8(1), substituted “North Korean human rights issues” for “human rights in North Korea” in section catchline.
+2008—Pub. L. 110–346, § 8(1), substituted “North Korean human rights issues” for “human rights in North Korea” in section catchline.
 
-Subsec. (a). Pub. L. 110–346, § 8(2), in first sentence, substituted “North Korean human rights issues” for “human rights in North Korea” and inserted “, by and with the advice and consent of the Senate” before period at end and, in second sentence, inserted “who shall have the rank of ambassador and shall hold the office at the pleasure of the President” before period at end.
+Subsec. (a). Pub. L. 110–346, § 8(2), in first sentence, substituted “North Korean human rights issues” for “human rights in North Korea” and inserted “, by and with the advice and consent of the Senate” before period at end and, in second sentence, inserted “who shall have the rank of ambassador and shall hold the office at the pleasure of the President” before period at end.
 
-Subsec. (b). Pub. L. 110–346, § 8(3), inserted “, including, in coordination with the Bureau of Population, Refugees, and Migration, the protection of those people who have fled as refugees” after “North Korea”.
+Subsec. (b). Pub. L. 110–346, § 8(3), inserted “, including, in coordination with the Bureau of Population, Refugees, and Migration, the protection of those people who have fled as refugees” after “North Korea”.
 
-Subsec. (c). Pub. L. 110–346, § 8(4), added par. (1), redesignated former pars. (1) to (6) as (2) to (7), respectively, and substituted “sections 7812 and 7814” for “section 7812” in par. (5).
+Subsec. (c). Pub. L. 110–346, § 8(4), added par. (1), redesignated former pars. (1) to (6) as (2) to (7), respectively, and substituted “sections 7812 and 7814” for “section 7812” in par. (5).
 
-Subsec. (d). Pub. L. 110–346, § 8(5), substituted “thereafter through 2012” for “for the subsequent 5 year-period”.
+Subsec. (d). Pub. L. 110–346, § 8(5), substituted “thereafter through 2012” for “for the subsequent 5 year-period”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Consultations on Reuniting Korean Americans With Family Members in North Korea**
 
-Pub. L. 117–263, div. E, title LV, § 5599B, Dec. 23, 2022, 136 Stat. 3400, formerly set out as a note under this section, was transferred and is set out as a note under section 7818 of this title.
+Pub. L. 117–263, div. E, title LV, § 5599B, Dec. 23, 2022, 136 Stat. 3400, formerly set out as a note under this section, was transferred and is set out as a note under section 7818 of this title.
 
-### § 7818. National registry of Korean American divided families
+### § 7818. National registry of Korean American divided families
 
 **(a) National registry**
 
@@ -595,7 +595,7 @@ The Secretary of State, acting through the Special Envoy on North Korean Human R
 
 In this section, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8361, Dec. 18, 2025, 139 Stat. 1884.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8361, Dec. 18, 2025, 139 Stat. 1884.)
 
 **Editorial Notes**
 
@@ -607,7 +607,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **Consultations on Reuniting Korean Americans With Family Members in North Korea**
 
-Pub. L. 117–263, div. E, title LV, § 5599B, Dec. 23, 2022, 136 Stat. 3400, provided that:
+Pub. L. 117–263, div. E, title LV, § 5599B, Dec. 23, 2022, 136 Stat. 3400, provided that:
 
 > **“(a) Consultations.—**
 
@@ -619,7 +619,7 @@ Pub. L. 117–263, div. E, title LV, § 5599B, Dec. 23, 2022, 136 Stat. 3400, 
 
 ## SUBCHAPTER II—ASSISTING NORTH KOREANS IN NEED
 
-### § 7831. Report on United States humanitarian assistance
+### § 7831. Report on United States humanitarian assistance
 
 **(a) Report** Not later than 180 days after October 18, 2004, and annually thereafter through 2022, the Administrator of the United States Agency for International Development, in conjunction with the Secretary of State, shall submit to the appropriate congressional committees a report that describes—
 
@@ -637,15 +637,15 @@ The report shall include a needs assessment to inform the distribution of humani
 
 The information required by subsection (a)(1) may be provided in classified form if necessary.
 
-(Pub. L. 108–333, title II, § 201, Oct. 18, 2004, 118 Stat. 1293; Pub. L. 108–447, div. D, title V, § 534(j), Dec. 8, 2004, 118 Stat. 3007; Pub. L. 110–346, § 9, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, § 8, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 115–198, § 7(d), July 20, 2018, 132 Stat. 1523.)
+(Pub. L. 108–333, title II, § 201, Oct. 18, 2004, 118 Stat. 1293; Pub. L. 108–447, div. D, title V, § 534(j), Dec. 8, 2004, 118 Stat. 3007; Pub. L. 110–346, § 9, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, § 8, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 115–198, § 7(d), July 20, 2018, 132 Stat. 1523.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–198, § 7(d)(1), substituted “2022” for “2017” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–198, § 7(d)(1), substituted “2022” for “2017” in introductory provisions.
 
-Subsecs. (b), (c). Pub. L. 115–198, § 7(d)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 115–198, § 7(d)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 2012—Subsec. (a). Pub. L. 112–172 substituted “2017” for “2012” in introductory provisions.
 
@@ -653,7 +653,7 @@ Subsecs. (b), (c). Pub. L. 115–198, § 7(d)(2), (3), added subsec. (b) and r
 
 2004—Subsec. (a)(2). Pub. L. 108–447 substituted “subparagraphs (A) through (D) of section 7832(b)(1) of this title” for “paragraphs (1) through (4) of section 7832(b) of this title”.
 
-### § 7832. Assistance provided inside North Korea
+### § 7832. Assistance provided inside North Korea
 
 **(a) Humanitarian assistance through nongovernmental and international organizations** It is the sense of the Congress that—
 
@@ -693,9 +693,9 @@ Subsecs. (b), (c). Pub. L. 115–198, § 7(d)(2), (3), added subsec. (b) and r
 
 Not later than 180 days after October 18, 2004, the Administrator of the Agency for International Development shall submit to the appropriate congressional committees a report describing compliance with this section.
 
-(Pub. L. 108–333, title II, § 202, Oct. 18, 2004, 118 Stat. 1293.)
+(Pub. L. 108–333, title II, § 202, Oct. 18, 2004, 118 Stat. 1293.)
 
-### § 7833. Assistance provided outside of North Korea
+### § 7833. Assistance provided outside of North Korea
 
 **(a) Assistance**
 
@@ -705,9 +705,9 @@ The President is authorized to provide assistance to support organizations or pe
 
 **(1)** humanitarian assistance to North Korean refugees, defectors, migrants, and orphans outside of North Korea, which may include support for refugee camps or temporary settlements; and
 
-**(2)** humanitarian assistance to North Korean women outside of North Korea who are victims of trafficking, as defined in section 7102(15) 1
+**(2)** humanitarian assistance to North Korean women outside of North Korea who are victims of trafficking, as defined in section 7102(15) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, or are in danger of being trafficked.
 
@@ -721,13 +721,13 @@ In addition to funds otherwise available for such purposes, there are authorized
 
 Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 108–333, title II, § 203, Oct. 18, 2004, 118 Stat. 1294; Pub. L. 110–346, § 10, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, § 9, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 113–4, title XII, § 1212(b)(2)(B), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–198, § 7(e), July 20, 2018, 132 Stat. 1524.)
+(Pub. L. 108–333, title II, § 203, Oct. 18, 2004, 118 Stat. 1294; Pub. L. 110–346, § 10, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, § 9, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 113–4, title XII, § 1212(b)(2)(B), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–198, § 7(e), July 20, 2018, 132 Stat. 1524.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7102(15) of this title, referred to in subsec. (b)(2), was redesignated section 7102(17) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(15) of this title, referred to in subsec. (b)(2), was redesignated section 7102(17) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Amendments**
 
@@ -739,7 +739,7 @@ Section 7102(15) of this title, referred to in subsec. (b)(2), was redesignated 
 
 2008—Subsec. (c)(1). Pub. L. 110–346 substituted “2012” for “2008”.
 
-### § 7834. Briefings on the welfare of North Korean children
+### § 7834. Briefings on the welfare of North Korean children
 
 **(a) In general**
 
@@ -757,7 +757,7 @@ The Secretary of State shall designate a representative to regularly brief the a
 
 **(5)** Department of State efforts to work with the Government of the Republic of Korea to establish pilot programs that identify, provide for the immediate care of, and assist in the family reunification of North Korean children and children of one North Korean parent living within South Korea and other countries who are fleeing persecution or are living as de jure or de facto stateless persons.
 
-(Pub. L. 112–264, § 4, Jan. 14, 2013, 126 Stat. 2432.)
+(Pub. L. 112–264, § 4, Jan. 14, 2013, 126 Stat. 2432.)
 
 **Editorial Notes**
 
@@ -769,7 +769,7 @@ This section was enacted as part of the North Korean Child Welfare Act of 2012, 
 
 **Definitions**
 
-Pub. L. 112–264, § 3, Jan. 14, 2013, 126 Stat. 2432, provided that:
+Pub. L. 112–264, § 3, Jan. 14, 2013, 126 Stat. 2432, provided that:
 
 > “In this Act [enacting this section and provisions set out as a note under section 7801 of this title]:
 
@@ -781,7 +781,7 @@ Pub. L. 112–264, § 3, Jan. 14, 2013, 126 Stat. 2432, provided that:
 
 ## SUBCHAPTER III—PROTECTING NORTH KOREAN REFUGEES
 
-### § 7841. United States policy toward refugees and defectors
+### § 7841. United States policy toward refugees and defectors
 
 **(a) Report**
 
@@ -805,9 +805,9 @@ Not later than 120 days after October 18, 2004, the Secretary of State, in consu
 
 The information required by paragraphs (1) through (5) of subsection (b) shall be provided in unclassified form. All or part of the information required by subsection (b)(6) may be provided in classified form, if necessary.
 
-(Pub. L. 108–333, title III, § 301, Oct. 18, 2004, 118 Stat. 1295.)
+(Pub. L. 108–333, title III, § 301, Oct. 18, 2004, 118 Stat. 1295.)
 
-### § 7842. Eligibility for refugee or asylum consideration
+### § 7842. Eligibility for refugee or asylum consideration
 
 **(a) Purpose**
 
@@ -817,15 +817,15 @@ The purpose of this section is to clarify that North Koreans are not barred from
 
 For purposes of eligibility for refugee status under section 1157 of title 8, or for asylum under section 1158 of title 8, a national of the Democratic People’s Republic of Korea shall not be considered a national of the Republic of Korea.
 
-(Pub. L. 108–333, title III, § 302, Oct. 18, 2004, 118 Stat. 1295.)
+(Pub. L. 108–333, title III, § 302, Oct. 18, 2004, 118 Stat. 1295.)
 
-### § 7843. Facilitating submission of applications for admission as a refugee
+### § 7843. Facilitating submission of applications for admission as a refugee
 
 The Secretary of State shall undertake to facilitate the submission of applications under section 1157 of title 8 by citizens of North Korea seeking protection as refugees (as defined in section 1101(a)(42) of title 8).
 
-(Pub. L. 108–333, title III, § 303, Oct. 18, 2004, 118 Stat. 1296.)
+(Pub. L. 108–333, title III, § 303, Oct. 18, 2004, 118 Stat. 1296.)
 
-### § 7844. United Nations High Commissioner for Refugees
+### § 7844. United Nations High Commissioner for Refugees
 
 **(a) Actions in China** It is the sense of Congress that—
 
@@ -847,9 +847,9 @@ The Secretary of State shall undertake to facilitate the submission of applicati
 
 **(2)** because access to refugees is essential to the UNHCR mandate and to the purpose of a UNHCR branch office, a failure to assert those arbitration rights in present circumstances would constitute a significant abdication by the UNHCR of one of its core responsibilities.
 
-(Pub. L. 108–333, title III, § 304, Oct. 18, 2004, 118 Stat. 1296.)
+(Pub. L. 108–333, title III, § 304, Oct. 18, 2004, 118 Stat. 1296.)
 
-### § 7845. Annual reports
+### § 7845. Annual reports
 
 **(a) Immigration and refugee information** Not later than 1 year after October 18, 2004, and every 12 months thereafter through 2022, the Secretary of State and the Secretary of Homeland Security shall submit a joint report to the appropriate congressional committees and the Committees on the Judiciary of the House of Representatives and the Senate on the operation of this subchapter during the previous year, which shall include the following:
 
@@ -867,7 +867,7 @@ The Secretary of State shall undertake to facilitate the submission of applicati
 
 **(3)** family links to the United States.
 
-(Pub. L. 108–333, title III, § 305, Oct. 18, 2004, 118 Stat. 1297; Pub. L. 110–346, § 11, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, § 10, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 115–198, § 7(f), July 20, 2018, 132 Stat. 1524.)
+(Pub. L. 108–333, title III, § 305, Oct. 18, 2004, 118 Stat. 1297; Pub. L. 110–346, § 11, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, § 10, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 115–198, § 7(f), July 20, 2018, 132 Stat. 1524.)
 
 **Editorial Notes**
 
@@ -877,11 +877,11 @@ The Secretary of State shall undertake to facilitate the submission of applicati
 
 2012—Subsec. (a). Pub. L. 112–172 substituted “2017” for “2012” in introductory provisions.
 
-2008—Subsec. (a). Pub. L. 110–346, § 11(1), (2), inserted “and refugee” before “information” in heading, and, in introductory provisions, substituted “through 2012” for “for each of the following 5 years” and “which shall include the following:” for “which shall include—”.
+2008—Subsec. (a). Pub. L. 110–346, § 11(1), (2), inserted “and refugee” before “information” in heading, and, in introductory provisions, substituted “through 2012” for “for each of the following 5 years” and “which shall include the following:” for “which shall include—”.
 
-Pub. L. 110–346, § 11(3)–(5), substituted “The number of aliens” for “the number of aliens” in pars. (1) and (2) and a period for “; and” in par. (1) and added par. (3).
+Pub. L. 110–346, § 11(3)–(5), substituted “The number of aliens” for “the number of aliens” in pars. (1) and (2) and a period for “; and” in par. (1) and added par. (3).
 
-### § 7846. Sense of Congress on humanitarian coordination related to the Korean Peninsula
+### § 7846. Sense of Congress on humanitarian coordination related to the Korean Peninsula
 
 It is the sense of Congress that—
 
@@ -889,4 +889,4 @@ It is the sense of Congress that—
 
 **(2)** as such, the United States Government should work with countries sharing a land or maritime border with North Korea to develop long-term whole-of-government plans to coordinate efforts related to humanitarian assistance and human rights promotion and to effectively assimilate North Korean defectors.
 
-(Pub. L. 108–333, title III, § 306, as added Pub. L. 115–198, § 6, July 20, 2018, 132 Stat. 1523.)
+(Pub. L. 108–333, title III, § 306, as added Pub. L. 115–198, § 6, July 20, 2018, 132 Stat. 1523.)

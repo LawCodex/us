@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 15—COMMERCE AND TRADE
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE](chapter-001-monopolies-and-combinations-in-restraint-of-trade.md)
 

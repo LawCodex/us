@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–134, title III, § 31001(i)(3)(A), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the chapter title to chapter 77 of subtitle VI of this title be amended by substituting “ACCESS TO INFORMATION FOR DEBT COLLECTION” for “LOAN REQUIREMENTS”, was executed by making the substitution in the chapter title of chapter 77 of subtitle V of this title, to reflect the probable intent of Congress.
+1996—Pub. L. 104–134, title III, § 31001(i)(3)(A), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the chapter title to chapter 77 of subtitle VI of this title be amended by substituting “ACCESS TO INFORMATION FOR DEBT COLLECTION” for “LOAN REQUIREMENTS”, was executed by making the substitution in the chapter title of chapter 77 of subtitle V of this title, to reflect the probable intent of Congress.
 
-## § 7701. Taxpayer identifying number
+## § 7701. Taxpayer identifying number
 
 **(a)** In this section—
 
@@ -53,7 +53,7 @@ retrieved: 2026-10-11
 
 **(d)** Notwithstanding section 552a(b) of title 5, United States Code, creditor agencies to which a delinquent claim is owed, and their agents, may match their debtor records with Department of Health and Human Services, and Department of Labor records to obtain names (including names of employees), name controls, names of employers, taxpayer identifying numbers, addresses (including addresses of employers), and dates of birth. The preceding sentence shall apply to the disclosure of taxpayer identifying numbers only if such disclosure is not otherwise prohibited by section 6103 of the Internal Revenue Code of 1986. The Department of Health and Human Services, and the Department of Labor shall release that information to creditor agencies and may charge reasonable fees sufficient to pay the costs associated with that release.
 
-(Added Pub. L. 103–272, § 4(f)(1)(Y)(i), July 5, 1994, 108 Stat. 1363; amended Pub. L. 104–134, title III, § 31001(i)(1), Apr. 26, 1996, 110 Stat. 1321–364.)
+(Added Pub. L. 103–272, § 4(f)(1)(Y)(i), July 5, 1994, 108 Stat. 1363; amended Pub. L. 104–134, title III, § 31001(i)(1), Apr. 26, 1996, 110 Stat. 1321–364.)
 
 **Editorial Notes**
 

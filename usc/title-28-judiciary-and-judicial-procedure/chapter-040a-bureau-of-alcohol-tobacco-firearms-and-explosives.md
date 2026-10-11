@@ -15,23 +15,23 @@ retrieved: 2026-10-11
 
 # CHAPTER 40A—BUREAU OF ALCOHOL, TOBACCO, FIREARMS, AND EXPLOSIVES
 
-## § 599A. Bureau of alcohol, tobacco, firearms, and Explosives 1 [footnote: 1 So in original. Probably should be “Bureau of Alcohol, Tobacco, Firearms, and Explosives”.]
+## § 599A. Bureau of alcohol, tobacco, firearms, and Explosives 1 [footnote: 1 So in original. Probably should be “Bureau of Alcohol, Tobacco, Firearms, and Explosives”.]
 
 **(a) Establishment.—**
 
 **(1) In general.—** There is established within the Department of Justice under the general authority of the Attorney General the Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this section referred to as the “Bureau”).
 
-**(2) Director.—** There shall be at the head of the Bureau a Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this subtitle 2
+**(2) Director.—** There shall be at the head of the Bureau a Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this subtitle 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-referred to as the “Director”). The Director shall be appointed by the President, by and with the advice and consent of the Senate 3
+referred to as the “Director”). The Director shall be appointed by the President, by and with the advice and consent of the Senate 3
 
-<sup>3</sup>  So in original. Probably should be followed by a comma.
+<sup>3</sup> So in original. Probably should be followed by a comma.
 
-and shall perform such functions as the Attorney General shall direct. The Director shall receive compensation at the rate prescribed by law under section 5314 of title V 4
+and shall perform such functions as the Attorney General shall direct. The Director shall receive compensation at the rate prescribed by law under section 5314 of title V 4
 
-<sup>4</sup>  So in original. Probably should be title “5”.
+<sup>4</sup> So in original. Probably should be title “5”.
 
 , United States Code, for positions at level III of the Executive Schedule.
 
@@ -51,15 +51,15 @@ and shall perform such functions as the Attorney General shall direct. The Direc
 
 **(1) In general.—** Subject to paragraph (2),<sup>2</sup> but notwithstanding any other provision of law, there are transferred to the Department of Justice the authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, which shall be maintained as a distinct entity within the Department of Justice, including the related functions of the Secretary of the Treasury.
 
-**(3) 5 [footnote: 5 So in original. There is no par. (2).] Building prospectus.—** Prospectus PDC-98W10, giving the General Services Administration the authority for site acquisition, design, and construction of a new headquarters building for the Bureau of Alcohol, Tobacco and Firearms, is transferred, and deemed to apply, to the Bureau of Alcohol, Tobacco, Firearms, and Explosives established in the Department of Justice under subsection (a).
+**(3) 5 [footnote: 5 So in original. There is no par. (2).] Building prospectus.—** Prospectus PDC-98W10, giving the General Services Administration the authority for site acquisition, design, and construction of a new headquarters building for the Bureau of Alcohol, Tobacco and Firearms, is transferred, and deemed to apply, to the Bureau of Alcohol, Tobacco, Firearms, and Explosives established in the Department of Justice under subsection (a).
 
-(Added and amended Pub. L. 109–162, title XI, § 1187(b), (c)(1), Jan. 5, 2006, 119 Stat. 3127; Pub. L. 109–177, title V, § 504, Mar. 9, 2006, 120 Stat. 247.)
+(Added and amended Pub. L. 109–162, title XI, § 1187(b), (c)(1), Jan. 5, 2006, 119 Stat. 3127; Pub. L. 109–177, title V, § 504, Mar. 9, 2006, 120 Stat. 247.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in subsec. (a)(2), meant subtitle B (§§ 1111–1115) of title XI of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2274, when subsec. (a) was originally included in section 1111 of Pub. L. 107–296. See Codification note below. There are no subtitles in this title of the Code. Subtitle B of title XI of Pub. L. 107–296 enacted part B (§ 531 et seq.) of subchapter XI of chapter 1 of Title 6, Domestic Security, and section 3051 of Title 18, Crimes and Criminal Procedure, amended section 2006 of this title, sections 8D and 9 of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees (see 5 U.S.C. 412, 422), section 1445–3 of Title 7, Agriculture, section 1701 of Title 8, Aliens and Nationality, section 2223b of Title 15, Commerce and Trade, sections 841 to 847, 921 to 923, 925, 926, 1261, 1952, 2341, 2343, and 2346 of Title 18, sections 6103 and 7801 of Title 26, Internal Revenue Code, sections 713 and 9705 of Title 31, Money and Finance, sections 12281 and 50102 of Title 34, Crime Control and Law Enforcement, sections 80303 and 80304 of Title 49, Transportation, and provisions set out as a note under section 921 of Title 18. For complete classification of subtitle B to the Code, see Tables.
+This subtitle, referred to in subsec. (a)(2), meant subtitle B (§§ 1111–1115) of title XI of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2274, when subsec. (a) was originally included in section 1111 of Pub. L. 107–296. See Codification note below. There are no subtitles in this title of the Code. Subtitle B of title XI of Pub. L. 107–296 enacted part B (§ 531 et seq.) of subchapter XI of chapter 1 of Title 6, Domestic Security, and section 3051 of Title 18, Crimes and Criminal Procedure, amended section 2006 of this title, sections 8D and 9 of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees (see 5 U.S.C. 412, 422), section 1445–3 of Title 7, Agriculture, section 1701 of Title 8, Aliens and Nationality, section 2223b of Title 15, Commerce and Trade, sections 841 to 847, 921 to 923, 925, 926, 1261, 1952, 2341, 2343, and 2346 of Title 18, sections 6103 and 7801 of Title 26, Internal Revenue Code, sections 713 and 9705 of Title 31, Money and Finance, sections 12281 and 50102 of Title 34, Crime Control and Law Enforcement, sections 80303 and 80304 of Title 49, Transportation, and provisions set out as a note under section 921 of Title 18. For complete classification of subtitle B to the Code, see Tables.
 
 Subsection (c) of section 1111 of the Homeland Security Act of 2002 (as enacted on the date of the enactment of such Act), referred to in subsec. (b)(2), is section 1111(c) of Pub. L. 107–296, title XI, Nov. 25, 2002, 116 Stat. 2275, which was classified to section 531(c) of Title 6, Domestic Security, prior to transfer of subsec. (c)(1), (3) of such section to subsec. (c)(1), (3) of this section.
 
@@ -67,25 +67,25 @@ Paragraph (2), referred to in subsec. (c)(1), meant paragraph (2) of section 111
 
 **Codification**
 
-The section catchline and text of subsecs. (a) to (c)(1), (3) of section 1111 of Pub. L. 107–296, formerly classified to section 531 of Title 6, Domestic Security, which were transferred to this chapter, redesignated as this section, and amended by Pub. L. 109–162, § 1187(b), (c)(1), were based on Pub. L. 107–296, title XI, § 1111(a)–(c)(1), (3), Nov. 25, 2002, 116 Stat. 2274, 2275.
+The section catchline and text of subsecs. (a) to (c)(1), (3) of section 1111 of Pub. L. 107–296, formerly classified to section 531 of Title 6, Domestic Security, which were transferred to this chapter, redesignated as this section, and amended by Pub. L. 109–162, § 1187(b), (c)(1), were based on Pub. L. 107–296, title XI, § 1111(a)–(c)(1), (3), Nov. 25, 2002, 116 Stat. 2274, 2275.
 
 **Amendments**
 
-2006—Pub. L. 109–162, § 1187(b), (c)(1)(A), transferred the section catchline and subsecs. (a) to (c)(1), (3) of section 1111 of Pub. L. 107–296 to this chapter, redesignated them as this section, and substituted “alcohol, tobacco, firearms” for “Alcohol, Tobacco, Firearms” in the section catchline. See Codification note above.
+2006—Pub. L. 109–162, § 1187(b), (c)(1)(A), transferred the section catchline and subsecs. (a) to (c)(1), (3) of section 1111 of Pub. L. 107–296 to this chapter, redesignated them as this section, and substituted “alcohol, tobacco, firearms” for “Alcohol, Tobacco, Firearms” in the section catchline. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 109–177, which directed amendment of second sentence of “section 1111(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 531(a)(2))” by substituting “President, by and with the advice and consent of the Senate” for “Attorney General” the first time appearing, was executed to this section to reflect the probable intent of Congress in light of the transfer of subsec. (a) of section 1111 of the Homeland Security Act of 2002 to this section by Pub. L. 109–162, § 1187(b). See Amendment and Codification notes above.
+Subsec. (a)(2). Pub. L. 109–177, which directed amendment of second sentence of “section 1111(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 531(a)(2))” by substituting “President, by and with the advice and consent of the Senate” for “Attorney General” the first time appearing, was executed to this section to reflect the probable intent of Congress in light of the transfer of subsec. (a) of section 1111 of the Homeland Security Act of 2002 to this section by Pub. L. 109–162, § 1187(b). See Amendment and Codification notes above.
 
-Subsec. (b)(2). Pub. L. 109–162, § 1187(c)(1)(B), inserted “of section 1111 of the Homeland Security Act of 2002 (as enacted on the date of the enactment of such Act)” after “subsection (c)”.
+Subsec. (b)(2). Pub. L. 109–162, § 1187(c)(1)(B), inserted “of section 1111 of the Homeland Security Act of 2002 (as enacted on the date of the enactment of such Act)” after “subsection (c)”.
 
-## § 599B. Personnel Management demonstration 1 [footnote: 1 So in original. Probably should be capitalized.] project 1
+## § 599B. Personnel Management demonstration 1 [footnote: 1 So in original. Probably should be capitalized.] project 1
 
-Notwithstanding any other provision of law, the Personnel Management Demonstration Project established under section 102 of title I of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act for Fiscal Year 1999 (Public Law 105–277; 122 2
+Notwithstanding any other provision of law, the Personnel Management Demonstration Project established under section 102 of title I of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act for Fiscal Year 1999 (Public Law 105–277; 122 2
 
-<sup>2</sup>  So in original. Probably should be “112”.
+<sup>2</sup> So in original. Probably should be “112”.
 
 Stat. 2681–585) shall be transferred to the Attorney General of the United States for continued use by the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and the Secretary of the Treasury for continued use by the Tax and Trade Bureau.
 
-(Added and amended Pub. L. 109–162, title XI, § 1187(b), (c)(2), Jan. 5, 2006, 119 Stat. 3127, 3128.)
+(Added and amended Pub. L. 109–162, title XI, § 1187(b), (c)(2), Jan. 5, 2006, 119 Stat. 3127, 3128.)
 
 **Editorial Notes**
 
@@ -95,7 +95,7 @@ Section 102 of title I of division C of the Omnibus Consolidated and Emergency S
 
 **Codification**
 
-The text of section 1115 of Pub. L. 107–296, formerly classified as section 533 of Title 6, Domestic Security, which was transferred to this chapter, redesignated as this section, and amended by Pub. L. 109–162, § 1187(b), (c)(2), was based on Pub. L. 107–296, title XI, § 1115, Nov. 25, 2002, 116 Stat. 2280.
+The text of section 1115 of Pub. L. 107–296, formerly classified as section 533 of Title 6, Domestic Security, which was transferred to this chapter, redesignated as this section, and amended by Pub. L. 109–162, § 1187(b), (c)(2), was based on Pub. L. 107–296, title XI, § 1115, Nov. 25, 2002, 116 Stat. 2280.
 
 **Amendments**
 

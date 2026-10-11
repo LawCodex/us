@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 2A—UNEARNED INCOME MEDICARE CONTRIBUTION
 
-## § 1411. Imposition of tax
+## § 1411. Imposition of tax
 
 **(a) In general** Except as provided in subsection (e)—
 
@@ -97,10 +97,10 @@ Net investment income shall not include any item taken into account in determini
 
 **(2)** a trust all of the unexpired interests in which are devoted to one or more of the purposes described in section 170(c)(2)(B).
 
-(Added Pub. L. 111–152, title I, § 1402(a)(1), Mar. 30, 2010, 124 Stat. 1061.)
+(Added Pub. L. 111–152, title I, § 1402(a)(1), Mar. 30, 2010, 124 Stat. 1061.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–152, title I, § 1402(a)(4), Mar. 30, 2010, 124 Stat. 1063, provided that: “The amendments made by this subsection [enacting this chapter and amending section 6654 of this title] shall apply to taxable years beginning after December 31, 2012.”
+Pub. L. 111–152, title I, § 1402(a)(4), Mar. 30, 2010, 124 Stat. 1063, provided that: “The amendments made by this subsection [enacting this chapter and amending section 6654 of this title] shall apply to taxable years beginning after December 31, 2012.”

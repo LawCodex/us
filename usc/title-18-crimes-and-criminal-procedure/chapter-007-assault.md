@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–177, title II, § 202(b), Jan. 7, 2008, 121 Stat. 2537, added item 119.
+2008—Pub. L. 110–177, title II, § 202(b), Jan. 7, 2008, 121 Stat. 2537, added item 119.
 
-2007—Pub. L. 109–472, § 4(b), Jan. 11, 2007, 120 Stat. 3555, added item 118.
+2007—Pub. L. 109–472, § 4(b), Jan. 11, 2007, 120 Stat. 3555, added item 118.
 
-1996—Pub. L. 104–208, div. C, title VI, § 645(b)(2), Sept. 30, 1996, 110 Stat. 3009–709, added item 116.
+1996—Pub. L. 104–208, div. C, title VI, § 645(b)(2), Sept. 30, 1996, 110 Stat. 3009–709, added item 116.
 
-1984—Pub. L. 98–473, title II, § 1008(b), Oct. 12, 1984, 98 Stat. 2140, added item 115.
+1984—Pub. L. 98–473, title II, § 1008(b), Oct. 12, 1984, 98 Stat. 2140, added item 115.
 
-1976—Pub. L. 94–467, § 6, Oct. 8, 1976, 90 Stat. 2000, substituted “official guests, and internationally protected persons” for “and official guests” in item 112.
+1976—Pub. L. 94–467, § 6, Oct. 8, 1976, 90 Stat. 2000, substituted “official guests, and internationally protected persons” for “and official guests” in item 112.
 
-1972—Pub. L. 92–539, title III, § 302, Oct. 24, 1972, 86 Stat. 1073, substituted “Protection of foreign officials and official guests” for “Assaulting certain foreign diplomatic and other official personnel” in item 112.
+1972—Pub. L. 92–539, title III, § 302, Oct. 24, 1972, 86 Stat. 1073, substituted “Protection of foreign officials and official guests” for “Assaulting certain foreign diplomatic and other official personnel” in item 112.
 
-1964—Pub. L. 88–493, § 2, Aug. 27, 1964, 78 Stat. 610, substituted “certain foreign diplomatic and other official personnel” for “public minister” in item 112.
+1964—Pub. L. 88–493, § 2, Aug. 27, 1964, 78 Stat. 610, substituted “certain foreign diplomatic and other official personnel” for “public minister” in item 112.
 
-## § 111. Assaulting, resisting, or impeding certain officers or employees
+## § 111. Assaulting, resisting, or impeding certain officers or employees
 
 **(a) In General.—** Whoever—
 
@@ -47,11 +47,11 @@ shall, where the acts in violation of this section constitute only simple assaul
 
 **(c) Extraterritorial Jurisdiction.—** There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, § 6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, § 320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, § 727(c), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 107–273, div. C, title I, § 11008(b), Nov. 2, 2002, 116 Stat. 1818; Pub. L. 110–177, title II, § 208(b), Jan. 7, 2008, 121 Stat. 2538; Pub. L. 117–59, § 3(1), Nov. 18, 2021, 135 Stat. 1469.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, § 6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, § 320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, § 727(c), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 107–273, div. C, title I, § 11008(b), Nov. 2, 2002, 116 Stat. 1818; Pub. L. 110–177, title II, § 208(b), Jan. 7, 2008, 121 Stat. 2538; Pub. L. 117–59, § 3(1), Nov. 18, 2021, 135 Stat. 1469.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 118, 254 (Mar. 4, 1909, ch. 321, § 62, 35 Stat. 1100; May 18, 1934, ch. 299, § 2, 48 Stat. 781).
+Based on title 18, U.S.C., 1940 ed., §§ 118, 254 (Mar. 4, 1909, ch. 321, § 62, 35 Stat. 1100; May 18, 1934, ch. 299, § 2, 48 Stat. 781).
 
 This section consolidates sections 118 and 254 with changes in phraseology and substance necessary to effect the consolidation.
 
@@ -67,15 +67,15 @@ The punishment provision of section 254 of title 18, U.S.C., 1940 ed., was adopt
 
 2008—Subsec. (a). Pub. L. 110–177 substituted “where such acts involve physical contact with the victim of that assault or the intent to commit another felony” for “in all other cases” in concluding provisions.
 
-2002—Subsec. (a). Pub. L. 107–273, § 11008(b)(1), substituted “8” for “three” in concluding provisions.
+2002—Subsec. (a). Pub. L. 107–273, § 11008(b)(1), substituted “8” for “three” in concluding provisions.
 
-Subsec. (b). Pub. L. 107–273, § 11008(b)(2), substituted “20” for “ten”.
+Subsec. (b). Pub. L. 107–273, § 11008(b)(2), substituted “20” for “ten”.
 
 1996—Subsec. (b). Pub. L. 104–132 inserted “(including a weapon intended to cause death or danger but that fails to do so by reason of a defective component)” after “deadly or dangerous weapon”.
 
-1994—Subsec. (a). Pub. L. 103–322, § 320101(a)(1), inserted “, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions.
+1994—Subsec. (a). Pub. L. 103–322, § 320101(a)(1), inserted “, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions.
 
-Subsec. (b). Pub. L. 103–322, § 320101(a)(2), inserted “or inflicts bodily injury” after “weapon”.
+Subsec. (b). Pub. L. 103–322, § 320101(a)(2), inserted “or inflicts bodily injury” after “weapon”.
 
 1988—Pub. L. 100–690 amended text generally. Prior to amendment, text read as follows:
 
@@ -87,13 +87,13 @@ Subsec. (b). Pub. L. 103–322, § 320101(a)(2), inserted “or inflicts bodil
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–273, div. C, title I, § 11008(a), Nov. 2, 2002, 116 Stat. 1818, provided that: “This section [amending this section, sections 115 and 876 of this title, and provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Federal Judiciary Protection Act of 2002’.”
+Pub. L. 107–273, div. C, title I, § 11008(a), Nov. 2, 2002, 116 Stat. 1818, provided that: “This section [amending this section, sections 115 and 876 of this title, and provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Federal Judiciary Protection Act of 2002’.”
 
 **Sense of Congress Regarding Amendment by Pub. L. 117–59**
 
 For sense of Congress regarding amendment to this section by Pub. L. 117–59, see section 2(6) of Pub. L. 117–59, set out as a note under section 1114 of this title.
 
-## § 112. Protection of foreign officials, official guests, and internationally protected persons
+## § 112. Protection of foreign officials, official guests, and internationally protected persons
 
 **(a)** Whoever assaults, strikes, wounds, imprisons, or offers violence to a foreign official, official guest, or internationally protected person or makes any other violent attack upon the person or liberty of such person, or, if likely to endanger his person or liberty, makes a violent attack upon his official premises, private accommodation, or means of transport or attempts to commit any of the foregoing shall be fined under this title or imprisoned not more than three years, or both. Whoever in the commission of any such act uses a deadly or dangerous weapon, or inflicts bodily injury, shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -125,11 +125,11 @@ shall be fined under this title or imprisoned not more than six months, or both.
 
 **(f)** In the course of enforcement of subsection (a) and any other sections prohibiting a conspiracy or attempt to violate subsection (a), the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary, notwithstanding.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 88–493, § 1, Aug. 27, 1964, 78 Stat. 610; Pub. L. 92–539, title III, § 301, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, § 5, Oct. 8, 1976, 90 Stat. 1999; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 100–690, title VI, § 6478, Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–272, § 5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXXII, § 320101(b), title XXXIII, § 330016(1)(G), (K), Sept. 13, 1994, 108 Stat. 2108, 2147; Pub. L. 104–132, title VII, § 721(d), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, § 604(b)(12)(A), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 88–493, § 1, Aug. 27, 1964, 78 Stat. 610; Pub. L. 92–539, title III, § 301, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, § 5, Oct. 8, 1976, 90 Stat. 1999; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 100–690, title VI, § 6478, Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–272, § 5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXXII, § 320101(b), title XXXIII, § 330016(1)(G), (K), Sept. 13, 1994, 108 Stat. 2108, 2147; Pub. L. 104–132, title VII, § 721(d), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, § 604(b)(12)(A), Oct. 11, 1996, 110 Stat. 3507.)
 
 **Historical and Revision Notes**
 
-Based on section 255 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (R.S. § 4062).
+Based on section 255 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (R.S. § 4062).
 
 Punishment provision was rewritten to make it more definite by substituting a maximum of $5,000 in lieu of the words “fined at the discretion of the court.” As thus revised this provision conforms with the first punishment provision of section 111 of this title. So, also, the greater punishment provided by the second paragraph of section 111 was added to this section for offenses involving the use of dangerous weapons.
 
@@ -137,19 +137,19 @@ Punishment provision was rewritten to make it more definite by substituting a ma
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–294 repealed Pub. L. 103–322, § 320101(b)(1). See 1994 Amendment note below.
+1996—Subsec. (a). Pub. L. 104–294 repealed Pub. L. 103–322, § 320101(b)(1). See 1994 Amendment note below.
 
-Subsec. (c). Pub. L. 104–132, § 721(d)(1), inserted “ ‘national of the United States’,” before “and ‘official guest’ ”.
+Subsec. (c). Pub. L. 104–132, § 721(d)(1), inserted “ ‘national of the United States’,” before “and ‘official guest’ ”.
 
-Subsec. (e). Pub. L. 104–132, § 721(d)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
+Subsec. (e). Pub. L. 104–132, § 721(d)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
 
-1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(K), substituted “under this title” for “not more than $5,000” before “or imprisoned not more than three years”.
+1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(K), substituted “under this title” for “not more than $5,000” before “or imprisoned not more than three years”.
 
-Pub. L. 103–322, § 320101(b)(2), (3), inserted “, or inflicts bodily injury,” after “weapon” and substituted “under this title” for “not more than $10,000” before “or imprisoned not more than ten years”.
+Pub. L. 103–322, § 320101(b)(2), (3), inserted “, or inflicts bodily injury,” after “weapon” and substituted “under this title” for “not more than $10,000” before “or imprisoned not more than ten years”.
 
-Pub. L. 103–322, § 320101(b)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(K), above, was repealed by Pub. L. 104–294, § 604(b)(12)(A).
+Pub. L. 103–322, § 320101(b)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(K), above, was repealed by Pub. L. 104–294, § 604(b)(12)(A).
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(G), in concluding provisions, substituted “under this title” for “not more than $500”.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(G), in concluding provisions, substituted “under this title” for “not more than $500”.
 
 Subsec. (e). Pub. L. 103–272 substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
 
@@ -183,19 +183,19 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–467, § 1, Oct. 8, 1976, 90 Stat. 1997, provided: “That this Act [enacting section 878 of this title, amending this section and sections 11, 970, 1116, and 1201 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Act for the Prevention and Punishment of Crimes Against Internationally Protected Persons’.”
+Pub. L. 94–467, § 1, Oct. 8, 1976, 90 Stat. 1997, provided: “That this Act [enacting section 878 of this title, amending this section and sections 11, 970, 1116, and 1201 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Act for the Prevention and Punishment of Crimes Against Internationally Protected Persons’.”
 
 **Short Title of 1972 Amendment**
 
-Pub. L. 92–539, § 1, Oct. 24, 1972, 86 Stat. 1070, provided: “That this Act [enacting sections 970, 1116, and 1117 of this title, amending this section and section 1201 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Act for the Protection of Foreign Officials and Official Guests of the United States’.”
+Pub. L. 92–539, § 1, Oct. 24, 1972, 86 Stat. 1070, provided: “That this Act [enacting sections 970, 1116, and 1117 of this title, amending this section and section 1201 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Act for the Protection of Foreign Officials and Official Guests of the United States’.”
 
 **State and Local Laws Not Superseded**
 
-Pub. L. 94–467, § 10, Oct. 8, 1976, 90 Stat. 2001, provided that: “Nothing contained in this Act [see Short Title of 1976 Amendment note above] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia, on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia, including the obligation of all persons having official law enforcement powers to take appropriate action, such as effecting arrests, for Federal as well as non-Federal violations.”
+Pub. L. 94–467, § 10, Oct. 8, 1976, 90 Stat. 2001, provided that: “Nothing contained in this Act [see Short Title of 1976 Amendment note above] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia, on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia, including the obligation of all persons having official law enforcement powers to take appropriate action, such as effecting arrests, for Federal as well as non-Federal violations.”
 
 **Congressional Findings and Declaration of Policy**
 
-Pub. L. 92–539, § 2, Oct. 24, 1972, 86 Stat. 1070, provided that:
+Pub. L. 92–539, § 2, Oct. 24, 1972, 86 Stat. 1070, provided that:
 
 > “The Congress recognizes that from the beginning of our history as a nation, the police power to investigate, prosecute, and punish common crimes such as murder, kidnaping, and assault has resided in the several States, and that such power should remain with the States.
 
@@ -205,13 +205,13 @@ Pub. L. 92–539, § 2, Oct. 24, 1972, 86 Stat. 1070, provided that:
 
 **Federal Preemption**
 
-Pub. L. 92–539, § 3, Oct. 24, 1972, 86 Stat. 1073, provided that: “Nothing contained in this Act [see Short Title of 1972 Amendment note above] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia.”
+Pub. L. 92–539, § 3, Oct. 24, 1972, 86 Stat. 1073, provided that: “Nothing contained in this Act [see Short Title of 1972 Amendment note above] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia.”
 
 **Immunity From Criminal Prosecution**
 
-Pub. L. 88–493, § 5, Aug. 27, 1964, 78 Stat. 610, provided that: “Nothing contained in this Act [amending this section and section 1114 of this title, and enacting section 170e–1 of former Title 5, Executive Departments and Government Officers and Employees] shall create immunity from criminal prosecution under any laws in any State, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia.”
+Pub. L. 88–493, § 5, Aug. 27, 1964, 78 Stat. 610, provided that: “Nothing contained in this Act [amending this section and section 1114 of this title, and enacting section 170e–1 of former Title 5, Executive Departments and Government Officers and Employees] shall create immunity from criminal prosecution under any laws in any State, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia.”
 
-## § 113. Assaults within maritime and territorial jurisdiction
+## § 113. Assaults within maritime and territorial jurisdiction
 
 **(a)** Whoever, within the special maritime and territorial jurisdiction of the United States, is guilty of an assault shall be punished as follows:
 
@@ -241,9 +241,9 @@ Pub. L. 88–493, § 5, Aug. 27, 1964, 78 Stat. 610, provided that: “Nothing
 
 **(2)** the term “serious bodily injury” has the meaning given that term in section 1365 of this title;
 
-**(3)** the terms “dating partner” and “spouse or intimate partner” have the meanings 1
+**(3)** the terms “dating partner” and “spouse or intimate partner” have the meanings 1
 
-<sup>1</sup>  So in original. Probably should be “meaning”.
+<sup>1</sup> So in original. Probably should be “meaning”.
 
 given those terms in section 2266;
 
@@ -251,11 +251,11 @@ given those terms in section 2266;
 
 **(5)** the term “suffocating” means intentionally, knowingly, or recklessly impeding the normal breathing of a person by covering the mouth of the person, the nose of the person, or both, regardless of whether that conduct results in any visible injury or whether there is any intent to kill or protractedly injure the victim.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 94–297, § 3, May 29, 1976, 90 Stat. 585; Pub. L. 99–646, § 87(c)(2), (3), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(2), (3), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 103–322, title XVII, § 170201(a)–(d), title XXXII, § 320101(c), title XXXIII, § 330016(2)(B), Sept. 13, 1994, 108 Stat. 2042, 2043, 2108, 2148; Pub. L. 104–294, title VI, § 604(b)(7), (12)(B), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 113–4, title IX, § 906(a), Mar. 7, 2013, 127 Stat. 124.)
+(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 94–297, § 3, May 29, 1976, 90 Stat. 585; Pub. L. 99–646, § 87(c)(2), (3), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(2), (3), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 103–322, title XVII, § 170201(a)–(d), title XXXII, § 320101(c), title XXXIII, § 330016(2)(B), Sept. 13, 1994, 108 Stat. 2042, 2043, 2108, 2148; Pub. L. 104–294, title VI, § 604(b)(7), (12)(B), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 113–4, title IX, § 906(a), Mar. 7, 2013, 127 Stat. 124.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 455 (Mar. 4, 1909, ch. 321, § 276, 35 Stat. 1143).
+Based on title 18, U.S.C., 1940 ed., § 455 (Mar. 4, 1909, ch. 321, § 276, 35 Stat. 1143).
 
 Opening paragraph was added to preserve the jurisdictional limitation provided for by section 451 of title 18, U.S.C., 1940 ed., now section 7 of this title. (See reviser’s note thereunder.)
 
@@ -265,33 +265,33 @@ Phraseology was simplified.
 
 **Amendments**
 
-2013—Subsec. (a)(1). Pub. L. 113–4, § 906(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “Assault with intent to commit murder, by imprisonment for not more than twenty years.”
+2013—Subsec. (a)(1). Pub. L. 113–4, § 906(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “Assault with intent to commit murder, by imprisonment for not more than twenty years.”
 
-Subsec. (a)(2). Pub. L. 113–4, § 906(a)(1)(B), substituted “violation of section 2241 or 2242” for “felony under chapter 109A”.
+Subsec. (a)(2). Pub. L. 113–4, § 906(a)(1)(B), substituted “violation of section 2241 or 2242” for “felony under chapter 109A”.
 
-Subsec. (a)(3). Pub. L. 113–4, § 906(a)(1)(C), struck out “and without just cause or excuse,” after “bodily harm,”.
+Subsec. (a)(3). Pub. L. 113–4, § 906(a)(1)(C), struck out “and without just cause or excuse,” after “bodily harm,”.
 
-Subsec. (a)(4). Pub. L. 113–4, § 906(a)(1)(D), substituted “1 year” for “six months”.
+Subsec. (a)(4). Pub. L. 113–4, § 906(a)(1)(D), substituted “1 year” for “six months”.
 
-Subsec. (a)(7). Pub. L. 113–4, § 906(a)(1)(E), substituted “substantial bodily injury to a spouse or intimate partner, a dating partner, or an individual who has not attained the age of 16 years” for “substantial bodily injury to an individual who has not attained the age of 16 years” and “a fine” for “fine”.
+Subsec. (a)(7). Pub. L. 113–4, § 906(a)(1)(E), substituted “substantial bodily injury to a spouse or intimate partner, a dating partner, or an individual who has not attained the age of 16 years” for “substantial bodily injury to an individual who has not attained the age of 16 years” and “a fine” for “fine”.
 
-Subsec. (a)(8). Pub. L. 113–4, § 906(a)(1)(F), added par. (8).
+Subsec. (a)(8). Pub. L. 113–4, § 906(a)(1)(F), added par. (8).
 
-Subsec. (b). Pub. L. 113–4, § 906(a)(2), inserted heading, substituted “In this section—” for “As used in this subsection—”, and added pars. (3) to (5).
+Subsec. (b). Pub. L. 113–4, § 906(a)(2), inserted heading, substituted “In this section—” for “As used in this subsection—”, and added pars. (3) to (5).
 
-1996—Pub. L. 104–294, § 604(b)(12)(B), repealed Pub. L. 103–322, § 320101(c)(1)(A), (2)(A). See 1994 Amendment note below.
+1996—Pub. L. 104–294, § 604(b)(12)(B), repealed Pub. L. 103–322, § 320101(c)(1)(A), (2)(A). See 1994 Amendment note below.
 
-Pub. L. 104–294, § 604(b)(7), repealed Pub. L. 103–322, § 170201(c)(1)–(3). See 1994 Amendment note below.
+Pub. L. 104–294, § 604(b)(7), repealed Pub. L. 103–322, § 170201(c)(1)–(3). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330016(2)(B), substituted “a fine under this title” for “fine of not more than” through the immediately following dollar amount wherever appearing.
+1994—Pub. L. 103–322, § 330016(2)(B), substituted “a fine under this title” for “fine of not more than” through the immediately following dollar amount wherever appearing.
 
-Pub. L. 103–322, § 320101(c), as amended by Pub. L. 104–294, § 604(b)(12)(B), which directed the amendment of subsec. (c) by substituting “ten years” for “five years” and the amendment of subsec. (e) by substituting “six months” for “three months”, were executed by making the substitutions in subsecs. (a)(3) and (a)(5), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(3) and (a)(5), respectively. See below.
+Pub. L. 103–322, § 320101(c), as amended by Pub. L. 104–294, § 604(b)(12)(B), which directed the amendment of subsec. (c) by substituting “ten years” for “five years” and the amendment of subsec. (e) by substituting “six months” for “three months”, were executed by making the substitutions in subsecs. (a)(3) and (a)(5), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(3) and (a)(5), respectively. See below.
 
-Pub. L. 103–322, § 170201(a)–(d), as amended by Pub. L. 104–294, § 604(b)(7), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively of subsec. (a) and realigned margins, inserted before period at end of par. (5) “, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both”, and added subsecs. (a)(7) and (b).
+Pub. L. 103–322, § 170201(a)–(d), as amended by Pub. L. 104–294, § 604(b)(7), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively of subsec. (a) and realigned margins, inserted before period at end of par. (5) “, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both”, and added subsecs. (a)(7) and (b).
 
-1986—Subsec. (a). Pub. L. 99–646, § 87(c)(2), and Pub. L. 99–654, § 3(a)(2), amended subsec. (a) identically, striking out “or rape” after “murder”.
+1986—Subsec. (a). Pub. L. 99–646, § 87(c)(2), and Pub. L. 99–654, § 3(a)(2), amended subsec. (a) identically, striking out “or rape” after “murder”.
 
-Subsec. (b). Pub. L. 99–646, § 87(c)(3), and Pub. L. 99–654, § 3(a)(3), amended subsec. (b) identically, substituting “a felony under chapter 109A” for “rape”.
+Subsec. (b). Pub. L. 99–646, § 87(c)(3), and Pub. L. 99–654, § 3(a)(3), amended subsec. (b) identically, substituting “a felony under chapter 109A” for “rape”.
 
 1976—Subsec. (f). Pub. L. 94–297 added subsec. (f).
 
@@ -305,7 +305,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 
-## § 114. Maiming within maritime and territorial jurisdiction
+## § 114. Maiming within maritime and territorial jurisdiction
 
 Whoever, within the special maritime and territorial jurisdiction of the United States, and with intent to torture (as defined in section 2340), maim, or disfigure, cuts, bites, or slits the nose, ear, or lip, or cuts out or disables the tongue, or puts out or destroys an eye, or cuts off or disables a limb or any member of another person; or
 
@@ -313,13 +313,13 @@ Whoever, within the special maritime and territorial jurisdiction of the United 
 
 Shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; May 24, 1949, ch. 139, § 3, 63 Stat. 90; Pub. L. 98–473, title II, § 1009A, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 101–647, title XXXV, § 3507, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, § 330016(1)(O), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, § 705(a)(1), Apr. 24, 1996, 110 Stat. 1295.)
+(June 25, 1948, ch. 645, 62 Stat. 689; May 24, 1949, ch. 139, § 3, 63 Stat. 90; Pub. L. 98–473, title II, § 1009A, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 101–647, title XXXV, § 3507, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, § 330016(1)(O), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, § 705(a)(1), Apr. 24, 1996, 110 Stat. 1295.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 462 (Mar. 4, 1909, ch. 321, § 283, 35 Stat. 1144).
+Based on title 18, U.S.C., 1940 ed., § 462 (Mar. 4, 1909, ch. 321, § 283, 35 Stat. 1144).
 
 The words “within the special maritime and territorial jurisdiction of the United States, and” were added to preserve jurisdictional limitation provided for by section 451 of title 18, U.S.C., 1940 ed., now section 7 of this title. (See reviser’s note thereunder.)
 
@@ -343,7 +343,7 @@ This section [section 3] corrects a typographical error in section 114 of title 
 
 1949—Act May 24, 1949, corrected spelling of “maim”.
 
-## § 115. Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member
+## § 115. Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member
 
 **(a)**
 
@@ -397,7 +397,7 @@ with intent to impede, intimidate, or interfere with such official, judge, or la
 
 **(e)** There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(Added Pub. L. 98–473, title II, § 1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§ 37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, § 6487(f)[b], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, § 3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §§ 330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§ 723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302; Pub. L. 107–273, div. B, title IV, § 4002(b)(9), div. C, title I, § 11008(c), Nov. 2, 2002, 116 Stat. 1808, 1818; Pub. L. 110–177, title II, § 208(a), Jan. 7, 2008, 121 Stat. 2538; Pub. L. 117–59, § 3(2), Nov. 18, 2021, 135 Stat. 1469.)
+(Added Pub. L. 98–473, title II, § 1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§ 37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, § 6487(f)[b], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, § 3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §§ 330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§ 723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302; Pub. L. 107–273, div. B, title IV, § 4002(b)(9), div. C, title I, § 11008(c), Nov. 2, 2002, 116 Stat. 1808, 1818; Pub. L. 110–177, title II, § 208(a), Jan. 7, 2008, 121 Stat. 2538; Pub. L. 117–59, § 3(2), Nov. 18, 2021, 135 Stat. 1469.)
 
 **Editorial Notes**
 
@@ -407,33 +407,33 @@ with intent to impede, intimidate, or interfere with such official, judge, or la
 
 2008—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: “An assault in violation of this section shall be punished as provided in section 111 of this title.”
 
-2002—Subsec. (b)(2). Pub. L. 107–273, § 4002(b)(9), substituted “or attempted kidnapping of, or a conspiracy to kidnap, a person” for “, attempted kidnapping, or conspiracy to kidnap of a person”.
+2002—Subsec. (b)(2). Pub. L. 107–273, § 4002(b)(9), substituted “or attempted kidnapping of, or a conspiracy to kidnap, a person” for “, attempted kidnapping, or conspiracy to kidnap of a person”.
 
-Subsec. (b)(4). Pub. L. 107–273, § 11008(c), substituted “10” for “five” and “6” for “three”.
+Subsec. (b)(4). Pub. L. 107–273, § 11008(c), substituted “10” for “five” and “6” for “three”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
+1996—Subsec. (a)(1)(A). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
 
-Subsec. (a)(2). Pub. L. 104–132, § 727(b)(1), which directed insertion of “, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or” after “assaults, kidnaps, or murders, or attempts to kidnap or murder”, was executed by making the substitution after “assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder” to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, § 723(a)(1). See below.
+Subsec. (a)(2). Pub. L. 104–132, § 727(b)(1), which directed insertion of “, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or” after “assaults, kidnaps, or murders, or attempts to kidnap or murder”, was executed by making the substitution after “assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder” to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, § 723(a)(1). See below.
 
-Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
+Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
 
-Subsec. (b)(2). Pub. L. 104–132, § 723(a)(2), substituted “, attempted kidnapping, or conspiracy to kidnap” for “or attempted kidnapping” in two places.
+Subsec. (b)(2). Pub. L. 104–132, § 723(a)(2), substituted “, attempted kidnapping, or conspiracy to kidnap” for “or attempted kidnapping” in two places.
 
-Subsec. (b)(3). Pub. L. 104–132, § 723(a)(3), substituted “, attempted murder, or conspiracy to murder” and “, 1113, and 1117” for “or attempted murder” and “and 1113”, respectively.
+Subsec. (b)(3). Pub. L. 104–132, § 723(a)(3), substituted “, attempted murder, or conspiracy to murder” and “, 1113, and 1117” for “or attempted murder” and “and 1113”, respectively.
 
-Subsec. (d). Pub. L. 104–132, § 727(b)(2), added subsec. (d).
+Subsec. (d). Pub. L. 104–132, § 727(b)(2), added subsec. (d).
 
-1994—Subsec. (b)(2). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping” in two places.
+1994—Subsec. (b)(2). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping” in two places.
 
-Subsec. (b)(4). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $5,000”.
+Subsec. (b)(4). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $5,000”.
 
 1990—Subsec. (c)(4). Pub. L. 101–647 substituted “the Central” for “The Central”.
 
 1988—Subsec. (a). Pub. L. 100–690 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever assaults, kidnaps, or murders, or attempts to kidnap or murder, or threatens to assault, kidnap or murder a member of the immediate family of a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section with intent to impede, intimidate, interfere with, or retaliate against such official, judge or law enforcement officer while engaged in or on account of the performance of official duties, shall be punished as provided in subsection (b).”
 
-1986—Subsec. (a). Pub. L. 99–646, § 60, substituted “section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section” for “18 U.S.C. 1114, as amended,”, “while engaged” for “while he is engaged”, and “official duties” for “his official duties”.
+1986—Subsec. (a). Pub. L. 99–646, § 60, substituted “section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section” for “18 U.S.C. 1114, as amended,”, “while engaged” for “while he is engaged”, and “official duties” for “his official duties”.
 
-Subsec. (b)(2). Pub. L. 99–646, § 37(a), inserted “for the kidnapping or attempted kidnapping of a person described in section 1201(a)(5) of this title”.
+Subsec. (b)(2). Pub. L. 99–646, § 37(a), inserted “for the kidnapping or attempted kidnapping of a person described in section 1201(a)(5) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -447,7 +447,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 116. Female genital mutilation
+## § 116. Female genital mutilation
 
 **(a)** Except as provided in subsection (b), whoever, in any circumstance described in subsection (d), knowingly—
 
@@ -493,19 +493,19 @@ shall be fined under this title, imprisoned not more than 10 years, or both.
 
 **(4)** other procedures that are harmful to the external female genitalia, including pricking, incising, scraping, or cauterizing the genital area.
 
-(Added Pub. L. 104–208, div. C, title VI, § 645(b)(1), Sept. 30, 1996, 110 Stat. 3009–709; amended Pub. L. 112–239, div. A, title X, § 1088, Jan. 2, 2013, 126 Stat. 1970; Pub. L. 116–309, § 3, Jan. 5, 2021, 134 Stat. 4923.)
+(Added Pub. L. 104–208, div. C, title VI, § 645(b)(1), Sept. 30, 1996, 110 Stat. 3009–709; amended Pub. L. 112–239, div. A, title X, § 1088, Jan. 2, 2013, 126 Stat. 1970; Pub. L. 116–309, § 3, Jan. 5, 2021, 134 Stat. 4923.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–309, § 3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided in subsection (b), whoever knowingly circumcises, excises, or infibulates the whole or any part of the labia majora or labia minora or clitoris of another person who has not attained the age of 18 years shall be fined under this title or imprisoned not more than 5 years, or both.”
+2021—Subsec. (a). Pub. L. 116–309, § 3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided in subsection (b), whoever knowingly circumcises, excises, or infibulates the whole or any part of the labia majora or labia minora or clitoris of another person who has not attained the age of 18 years shall be fined under this title or imprisoned not more than 5 years, or both.”
 
-Subsec. (c). Pub. L. 116–309, § 3(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In applying subsection (b)(1), no account shall be taken of the effect on the person on whom the operation is to be performed of any belief on the part of that person, or any other person, that the operation is required as a matter of custom or ritual.”
+Subsec. (c). Pub. L. 116–309, § 3(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In applying subsection (b)(1), no account shall be taken of the effect on the person on whom the operation is to be performed of any belief on the part of that person, or any other person, that the operation is required as a matter of custom or ritual.”
 
-Subsec. (d). Pub. L. 116–309, § 3(3), (4), added subsec. (d) and struck out former subsec. (d), which read as follows: “Whoever knowingly transports from the United States and its territories a person in foreign commerce for the purpose of conduct with regard to that person that would be a violation of subsection (a) if the conduct occurred within the United States, or attempts to do so, shall be fined under this title or imprisoned not more than 5 years, or both.”
+Subsec. (d). Pub. L. 116–309, § 3(3), (4), added subsec. (d) and struck out former subsec. (d), which read as follows: “Whoever knowingly transports from the United States and its territories a person in foreign commerce for the purpose of conduct with regard to that person that would be a violation of subsection (a) if the conduct occurred within the United States, or attempts to do so, shall be fined under this title or imprisoned not more than 5 years, or both.”
 
-Subsec. (e). Pub. L. 116–309, § 3(4), added subsec. (e).
+Subsec. (e). Pub. L. 116–309, § 3(4), added subsec. (e).
 
 2013—Subsec. (d). Pub. L. 112–239 added subsec. (d).
 
@@ -513,11 +513,11 @@ Subsec. (e). Pub. L. 116–309, § 3(4), added subsec. (e).
 
 **Effective Date**
 
-Pub. L. 104–208, div. C, title VI, § 645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: “The amendments made by subsection (b) [enacting this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Sept. 30, 1996].”
+Pub. L. 104–208, div. C, title VI, § 645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: “The amendments made by subsection (b) [enacting this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Sept. 30, 1996].”
 
 **Congressional Findings and Purpose**
 
-Pub. L. 116–309, § 2, Jan. 5, 2021, 134 Stat. 4922, provided that:
+Pub. L. 116–309, § 2, Jan. 5, 2021, 134 Stat. 4922, provided that:
 
 > “The Congress finds the following:
 
@@ -535,11 +535,11 @@ Pub. L. 116–309, § 2, Jan. 5, 2021, 134 Stat. 4922, provided that:
 
 **Sense of the Congress**
 
-Pub. L. 116–309, § 5, Jan. 5, 2021, 134 Stat. 4924, provided that: “It is the sense of the Congress that the United States District Court for the Eastern District of Michigan erred in invalidating the prior version of such section 116 [this section] (See United States v. Nagarwala, 350 F. Supp. 3d 613, 631 (E.D. Mich. 2018)). The commercial nature of female genital mutilation (hereinafter in this section referred to as ‘FGM’) is ‘self-evident,’ meaning that the ‘absence of particularized findings’ about the commercial nature of FGM in the predecessor statute did not ‘call into question Congress’s authority to legislate’ (Gonzales v. Raich, 545 U.S. 1, 21 (2005)). Nevertheless, the Congress has elected to amend the FGM statute to clarify the commercial nature of the conduct that this statute regulates. But, by doing so, Congress does not hereby ratify the district court’s erroneous interpretation in Nagarwala.”
+Pub. L. 116–309, § 5, Jan. 5, 2021, 134 Stat. 4924, provided that: “It is the sense of the Congress that the United States District Court for the Eastern District of Michigan erred in invalidating the prior version of such section 116 [this section] (See United States v. Nagarwala, 350 F. Supp. 3d 613, 631 (E.D. Mich. 2018)). The commercial nature of female genital mutilation (hereinafter in this section referred to as ‘FGM’) is ‘self-evident,’ meaning that the ‘absence of particularized findings’ about the commercial nature of FGM in the predecessor statute did not ‘call into question Congress’s authority to legislate’ (Gonzales v. Raich, 545 U.S. 1, 21 (2005)). Nevertheless, the Congress has elected to amend the FGM statute to clarify the commercial nature of the conduct that this statute regulates. But, by doing so, Congress does not hereby ratify the district court’s erroneous interpretation in Nagarwala.”
 
 **Congressional Findings**
 
-Pub. L. 104–208, div. C, title VI, § 645(a), Sept. 30, 1996, 110 Stat. 3009–708, provided that:
+Pub. L. 104–208, div. C, title VI, § 645(a), Sept. 30, 1996, 110 Stat. 3009–708, provided that:
 
 > “The Congress finds that—
 
@@ -555,7 +555,7 @@ Pub. L. 104–208, div. C, title VI, § 645(a), Sept. 30, 1996, 110 Stat. 3009
 
 > **“(6)** Congress has the affirmative power under section 8 of article I, the necessary and proper clause, section 5 of the fourteenth Amendment, as well as under the treaty clause, to the Constitution to enact such legislation.”
 
-## § 117. Domestic assault by an habitual offender
+## § 117. Domestic assault by an habitual offender
 
 **(a) In General.—** Any person who commits a domestic assault within the special maritime and territorial jurisdiction of the United States or Indian country and who has a final conviction on at least 2 separate prior occasions in Federal, State, or Indian tribal court proceedings for offenses that would be, if subject to Federal jurisdiction—
 
@@ -567,21 +567,21 @@ shall be fined under this title, imprisoned for a term of not more than 5 years,
 
 **(b) Domestic Assault Defined.—** In this section, the term “domestic assault” means an assault committed by a current or former spouse, parent, child, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse, parent, child, or guardian, or by a person similarly situated to a spouse, parent, child, or guardian of the victim.
 
-(Added Pub. L. 109–162, title IX, § 909, Jan. 5, 2006, 119 Stat. 3084; amended Pub. L. 113–104, § 3, May 20, 2014, 128 Stat. 1156.)
+(Added Pub. L. 109–162, title IX, § 909, Jan. 5, 2006, 119 Stat. 3084; amended Pub. L. 113–104, § 3, May 20, 2014, 128 Stat. 1156.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–104 inserted “, or against a child of or in the care of the person committing the domestic assault” after “intimate partner”.
+2014—Subsec. (a)(1). Pub. L. 113–104 inserted “, or against a child of or in the care of the person committing the domestic assault” after “intimate partner”.
 
-## § 118. Interference with certain protective functions
+## § 118. Interference with certain protective functions
 
 Any person who knowingly and willfully obstructs, resists, or interferes with a Federal law enforcement agent engaged, within the United States or the special maritime territorial jurisdiction of the United States, in the performance of the protective functions authorized under section 37 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2709) or section 103 of the Diplomatic Security Act (22 U.S.C. 4802) shall be fined under this title, imprisoned not more than 1 year, or both.
 
-(Added Pub. L. 109–472, § 4(a), Jan. 11, 2007, 120 Stat. 3555.)
+(Added Pub. L. 109–472, § 4(a), Jan. 11, 2007, 120 Stat. 3555.)
 
-## § 119. Protection of individuals performing certain official duties
+## § 119. Protection of individuals performing certain official duties
 
 **(a) In General.—** Whoever knowingly makes restricted personal information about a covered person, or a member of the immediate family of that covered person, publicly available—
 
@@ -609,4 +609,4 @@ shall be fined under this title, imprisoned not more than 5 years, or both.
 
 **(4)** the term “immediate family” has the meaning given the term in section 115(c)(2).
 
-(Added Pub. L. 110–177, title II, § 202(a), Jan. 7, 2008, 121 Stat. 2536.)
+(Added Pub. L. 110–177, title II, § 202(a), Jan. 7, 2008, 121 Stat. 2536.)

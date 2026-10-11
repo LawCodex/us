@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title X, § 1045(b), Dec. 27, 2021, 135 Stat. 1905, substituted “Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus” for “Use of Army and Air Force as posse comitatus” in item 1385.
+2021—Pub. L. 117–81, div. A, title X, § 1045(b), Dec. 27, 2021, 135 Stat. 1905, substituted “Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus” for “Use of Army and Air Force as posse comitatus” in item 1385.
 
-2009—Pub. L. 111–84, div. E, § 4712(b), Oct. 28, 2009, 123 Stat. 2843, added item 1389.
+2009—Pub. L. 111–84, div. E, § 4712(b), Oct. 28, 2009, 123 Stat. 2843, added item 1389.
 
-2006—Pub. L. 109–464, § 1(b), Dec. 22, 2006, 120 Stat. 3481, added item 1388.
+2006—Pub. L. 109–464, § 1(b), Dec. 22, 2006, 120 Stat. 3481, added item 1388.
 
-Pub. L. 109–228, § 3(b), May 29, 2006, 120 Stat. 389, added item 1387.
+Pub. L. 109–228, § 3(b), May 29, 2006, 120 Stat. 389, added item 1387.
 
-1991—Pub. L. 102–190, div. A, title X, § 1090(b), Dec. 5, 1991, 105 Stat. 1486, added item 1386.
+1991—Pub. L. 102–190, div. A, title X, § 1090(b), Dec. 5, 1991, 105 Stat. 1486, added item 1386.
 
-1990—Pub. L. 101–647, title XXXV, § 3547, Nov. 29, 1990, 104 Stat. 4926, struck out item 1383 “Restrictions in military areas and zones”.
+1990—Pub. L. 101–647, title XXXV, § 3547, Nov. 29, 1990, 104 Stat. 4926, struck out item 1383 “Restrictions in military areas and zones”.
 
-1956—Act Aug. 10, 1956, ch. 1041, § 18(b), 70A Stat. 626, added item 1385.
+1956—Act Aug. 10, 1956, ch. 1041, § 18(b), 70A Stat. 626, added item 1385.
 
-## § 1381. Enticing desertion and harboring deserters
+## § 1381. Enticing desertion and harboring deserters
 
 Whoever entices or procures, or attempts or endeavors to entice or procure any person in the Armed Forces of the United States, or who has been recruited for service therein, to desert therefrom, or aids any such person in deserting or in attempting to desert from such service; or
 
@@ -41,11 +41,11 @@ Whoever harbors, conceals, protects, or assists any such person who may have des
 
 Shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 94 (Mar. 4, 1909, ch. 321, § 42, 35 Stat. 1097).
+Based on title 18, U.S.C., 1940 ed., § 94 (Mar. 4, 1909, ch. 321, § 42, 35 Stat. 1097).
 
 Mandatory punishment provisions were changed to alternative.
 
@@ -59,7 +59,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in last par.
 
-## § 1382. Entering military, naval, or Coast Guard property
+## § 1382. Entering military, naval, or Coast Guard property
 
 Whoever, within the jurisdiction of the United States, goes upon any military, naval, or Coast Guard reservation, post, fort, arsenal, yard, station, or installation, for any purpose prohibited by law or lawful regulation; or
 
@@ -67,11 +67,11 @@ Whoever reenters or is found within any such reservation, post, fort, arsenal, y
 
 Shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 765; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 765; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 97 (Mar. 4, 1909, ch. 321, § 45, 35 Stat. 1097; Mar. 28, 1940, ch. 73, 54 Stat. 80).
+Based on title 18, U.S.C., 1940 ed., § 97 (Mar. 4, 1909, ch. 321, § 45, 35 Stat. 1097; Mar. 28, 1940, ch. 73, 54 Stat. 80).
 
 Reference to territory, Canal Zone, Puerto Rico and the Philippine Islands was omitted as covered by definition of United States in section 5 of this title.
 
@@ -97,9 +97,9 @@ Coast Guard transferred to Department of Transportation and all functions, power
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Coast Guard, referred to in this section, was generally a service in Department of the Treasury, but such Plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard was operating as a part of the Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Coast Guard, referred to in this section, was generally a service in Department of the Treasury, but such Plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard was operating as a part of the Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-## [§ 1383. Repealed. Pub. L. 94–412, title V, § 501(e), Sept. 14, 1976, 90 Stat. 1258]
+## [§ 1383. Repealed. Pub. L. 94–412, title V, § 501(e), Sept. 14, 1976, 90 Stat. 1258]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 765, dealt with criminal penalties for persons entering, remaining in, leaving, or committing any act in a military area or zone contrary to restrictions imposed by Executive Order or Secretary of the Army.
 
@@ -109,7 +109,7 @@ Section, act June 25, 1948, ch. 645, 62 Stat. 765, dealt with criminal penalties
 
 Repeal of this section by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of repeal, see section 501(h) of Pub. L. 94–412, set out as a note under section 1601 of Title 50, War and National Defense.
 
-## § 1384. Prostitution near military and naval establishments
+## § 1384. Prostitution near military and naval establishments
 
 Within such reasonable distance of any military or naval camp, station, fort, post, yard, base, cantonment, training or mobilization place as the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or any two or all of them shall determine to be needful to the efficiency, health, and welfare of the Army, the Navy, or the Air Force, and shall designate and publish in general orders or bulletins, whoever engages in prostitution or aids or abets prostitution or procures or solicits for purposes of prostitution, or keeps or sets up a house of ill fame, brothel, or bawdy house, or receives any person for purposes of lewdness, assignation, or prostitution into any vehicle, conveyance, place, structure, or building, or permits any person to remain for the purpose of lewdness, assignation, or prostitution in any vehicle, conveyance, place, structure, or building or leases or rents or contracts to lease or rent any vehicle, conveyance, place, structure or building, or part thereof, knowing or with good reason to know that it is intended to be used for any of the purposes herein prohibited shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -117,13 +117,13 @@ The Secretaries of the Army, Navy, and Air Force and the Federal Security Admini
 
 This section shall not be construed as conferring on the personnel of the Departments of the Army, Navy, or Air Force or the Federal Security Agency any authority to make criminal investigations, searches, seizures, or arrests of civilians charged with violations of this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 765; May 24, 1949, ch. 139, § 35, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 765; May 24, 1949, ch. 139, § 35, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 518a (July 11, 1941, ch. 287, 55 Stat. 583; May 15, 1945, ch. 126, 59 Stat. 168; May 15, 1946, ch. 258, 60 Stat. 182).
+Based on title 18, U.S.C., 1940 ed., § 518a (July 11, 1941, ch. 287, 55 Stat. 583; May 15, 1945, ch. 126, 59 Stat. 168; May 15, 1946, ch. 258, 60 Stat. 182).
 
 The word “whoever” was substituted for the words “person, corporation, partnership, or association” in conformity with section 1 of title 1, U.S.C., 1940 ed., General Provisions, as amended and without change of substance.
 
@@ -167,17 +167,17 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator were abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-## § 1385. Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus
+## § 1385. Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus
 
 Whoever, except in cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses any part of the Army, the Navy, the Marine Corps, the Air Force, or the Space Force as a posse comitatus or otherwise to execute the laws shall be fined under this title or imprisoned not more than two years, or both.
 
-(Added Aug. 10, 1956, ch. 1041, § 18(a), 70A Stat. 626; amended Pub. L. 86–70, § 17(d), June 25, 1959, 73 Stat. 144; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 117–81, div. A, title X, § 1045(a), Dec. 27, 2021, 135 Stat. 1904.)
+(Added Aug. 10, 1956, ch. 1041, § 18(a), 70A Stat. 626; amended Pub. L. 86–70, § 17(d), June 25, 1959, 73 Stat. 144; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 117–81, div. A, title X, § 1045(a), Dec. 27, 2021, 135 Stat. 1904.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1385 | 10:15. | June 18, 1878, ch. 263, § 15, 20 Stat. 152; Mar. 3, 1899, ch. 429, § 363 (proviso); added June 6, 1900, ch. 786, § 29 (less last proviso), 31 Stat. 330. |
+| 1385 | 10:15. | June 18, 1878, ch. 263, § 15, 20 Stat. 152; Mar. 3, 1899, ch. 429, § 363 (proviso); added June 6, 1900, ch. 786, § 29 (less last proviso), 31 Stat. 330. |
 
 This section is revised to conform to the style and terminology used in title 18. It is not enacted as a part of title 10, United States Code, since it is more properly allocated to title 18.
 
@@ -185,13 +185,13 @@ This section is revised to conform to the style and terminology used in title 18
 
 **Amendments**
 
-2021—Pub. L. 117–81 substituted “Army, Navy, Marine Corps, Air Force, and Space Force” for “Army and Air Force” in section catchline, and in text substituted “Army, the Navy, the Marine Corps,” for “Army or” and inserted “, or the Space Force” after “Air Force”.
+2021—Pub. L. 117–81 substituted “Army, Navy, Marine Corps, Air Force, and Space Force” for “Army and Air Force” in section catchline, and in text substituted “Army, the Navy, the Marine Corps,” for “Army or” and inserted “, or the Space Force” after “Air Force”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
 1959—Pub. L. 86–70 struck out provisions which made section inapplicable in Alaska.
 
-## § 1386. Keys and keyways used in security applications by the Department of Defense
+## § 1386. Keys and keyways used in security applications by the Department of Defense
 
 **(a)**
 
@@ -211,15 +211,15 @@ shall be punished as provided in subsection (b).
 
 **(c)** As used in this section, the term “key” means any key, keyblank, or keyway adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment.
 
-(Added Pub. L. 102–190, div. A, title X, § 1090(a), Dec. 5, 1991, 105 Stat. 1485.)
+(Added Pub. L. 102–190, div. A, title X, § 1090(a), Dec. 5, 1991, 105 Stat. 1485.)
 
-## § 1387. Demonstrations at cemeteries under the control of the National Cemetery Administration and at Arlington National Cemetery
+## § 1387. Demonstrations at cemeteries under the control of the National Cemetery Administration and at Arlington National Cemetery
 
 Whoever violates section 2413 of title 38 shall be fined under this title, imprisoned for not more than one year, or both.
 
-(Added Pub. L. 109–228, § 3(a), May 29, 2006, 120 Stat. 388.)
+(Added Pub. L. 109–228, § 3(a), May 29, 2006, 120 Stat. 388.)
 
-## § 1388. Prohibition on disruptions of funerals of members or former members of the Armed Forces
+## § 1388. Prohibition on disruptions of funerals of members or former members of the Armed Forces
 
 **(a) Prohibition.—** For any funeral of a member or former member of the Armed Forces that is not located at a cemetery under the control of the National Cemetery Administration or part of Arlington National Cemetery, it shall be unlawful for any person to engage in an activity during the period beginning 120 minutes before and ending 120 minutes after such funeral, any part of which activity—
 
@@ -291,7 +291,7 @@ Whoever violates section 2413 of title 38 shall be fined under this title, impri
 
 **(2)** the term “immediate family” means, with respect to a person, the immediate family members of such person, as such term is defined in section 115 of this title.
 
-(Added Pub. L. 109–464, § 1(a), Dec. 22, 2006, 120 Stat. 3480; amended Pub. L. 112–154, title VI, § 601(b), Aug. 6, 2012, 126 Stat. 1196.)
+(Added Pub. L. 109–464, § 1(a), Dec. 22, 2006, 120 Stat. 3480; amended Pub. L. 112–154, title VI, § 601(b), Aug. 6, 2012, 126 Stat. 1196.)
 
 **Editorial Notes**
 
@@ -303,13 +303,13 @@ Whoever violates section 2413 of title 38 shall be fined under this title, impri
 
 **Purpose and Authority**
 
-Pub. L. 112–154, title VI, § 601(a), Aug. 6, 2012, 126 Stat. 1195, provided that:
+Pub. L. 112–154, title VI, § 601(a), Aug. 6, 2012, 126 Stat. 1195, provided that:
 
 > **“(1) Purpose.—** The purpose of this section [amending this section and section 2413 of Title 38, Veterans’ Benefits] is to provide necessary and proper support for the recruitment and retention of the Armed Forces and militia employed in the service of the United States by protecting the dignity of the service of the members of such Forces and militia, and by protecting the privacy of their immediate family members and other attendees during funeral services for such members.
 
 > **“(2) Constitutional authority.—** Congress finds that this section is a necessary and proper exercise of its powers under the Constitution, article I, section 8, paragraphs 1, 12, 13, 14, 16, and 18, to provide for the common defense, raise and support armies, provide and maintain a navy, make rules for the government and regulation of the land and naval forces, and provide for organizing and governing such part of the militia as may be employed in the service of the United States.”
 
-## § 1389. Prohibition on attacks on United States servicemen on account of service
+## § 1389. Prohibition on attacks on United States servicemen on account of service
 
 **(a) In General.—** Whoever knowingly assaults or batters a United States serviceman or an immediate family member of a United States serviceman, or who knowingly destroys or injures the property of such serviceman or immediate family member, on account of the military service of that serviceman or status of that individual as a United States serviceman, or who attempts or conspires to do so, shall—
 
@@ -333,10 +333,10 @@ Pub. L. 112–154, title VI, § 601(a), Aug. 6, 2012, 126 Stat. 1195, provided
 
 **(B)** includes a former member of the Armed Forces during the 5-year period beginning on the date of the discharge from the Armed Forces of that member of the Armed Forces.
 
-(Added Pub. L. 111–84, div. E, § 4712(a), Oct. 28, 2009, 123 Stat. 2842.)
+(Added Pub. L. 111–84, div. E, § 4712(a), Oct. 28, 2009, 123 Stat. 2842.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Uniform Code of Military Justice, referred to in subsec. (b), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+The Uniform Code of Military Justice, referred to in subsec. (b), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.

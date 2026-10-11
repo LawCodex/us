@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–392, § 3(b), Dec. 21, 2018, 132 Stat. 5251, added item 2429.
+2018—Pub. L. 115–392, § 3(b), Dec. 21, 2018, 132 Stat. 5251, added item 2429.
 
-Pub. L. 115–164, § 3(b), Apr. 11, 2018, 132 Stat. 1254, added item 2421A.
+Pub. L. 115–164, § 3(b), Apr. 11, 2018, 132 Stat. 1254, added item 2421A.
 
-2006—Pub. L. 109–164, title I, § 103(d)(2), Jan. 10, 2006, 119 Stat. 3563, added item 2428.
+2006—Pub. L. 109–164, title I, § 103(d)(2), Jan. 10, 2006, 119 Stat. 3563, added item 2428.
 
-1998—Pub. L. 105–314, title I, §§ 101(b), 104(b), 105(b), Oct. 30, 1998, 112 Stat. 2975–2977, added items 2425, 2426, and 2427.
+1998—Pub. L. 105–314, title I, §§ 101(b), 104(b), 105(b), Oct. 30, 1998, 112 Stat. 2975–2977, added items 2425, 2426, and 2427.
 
-1988—Pub. L. 100–690, title VII, § 7071, Nov. 18, 1988, 102 Stat. 4405, substituted “individual” for “female” in item 2424.
+1988—Pub. L. 100–690, title VII, § 7071, Nov. 18, 1988, 102 Stat. 4405, substituted “individual” for “female” in item 2424.
 
-1986—Pub. L. 99–628, § 5(a)(1), (b)(2), Nov. 7, 1986, 100 Stat. 3511, substituted “TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES” for “WHITE SLAVE TRAFFIC” as chapter heading and substituted “and enticement” for “or enticement of female” in item 2422.
+1986—Pub. L. 99–628, § 5(a)(1), (b)(2), Nov. 7, 1986, 100 Stat. 3511, substituted “TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES” for “WHITE SLAVE TRAFFIC” as chapter heading and substituted “and enticement” for “or enticement of female” in item 2422.
 
-1978—Pub. L. 95–225, § 3(b), Feb. 6, 1978, 92 Stat. 9, substituted “Transportation of minors” for “Coercion or enticement of minor female” in item 2423.
+1978—Pub. L. 95–225, § 3(b), Feb. 6, 1978, 92 Stat. 9, substituted “Transportation of minors” for “Coercion or enticement of minor female” in item 2423.
 
-## § 2421. Transportation generally
+## § 2421. Transportation generally
 
 **(a) In General.—** Whoever knowingly transports any individual in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title or imprisoned not more than 10 years, or both.
 
@@ -43,29 +43,29 @@ Pub. L. 115–164, § 3(b), Apr. 11, 2018, 132 Stat. 1254, added item 2421A.
 
 **(2) Reason for denial.—** If the Attorney General denies a request under paragraph (1), the Attorney General shall submit to the State attorney general a detailed reason for the denial not later than 60 days after the date on which a request is received.
 
-(Added Pub. L. 114–22, title III, § 303, May 29, 2015, 129 Stat. 255.)
+(Added Pub. L. 114–22, title III, § 303, May 29, 2015, 129 Stat. 255.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2421, act June 25, 1948, ch. 645, 62 Stat. 812; May 24, 1949, ch. 139, § 47, 63 Stat. 96; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 105–314, title I, § 106, Oct. 30, 1998, 112 Stat. 2977, related to transportation of individuals generally, prior to repeal by Pub. L. 114–22, title III, § 303, May 29, 2015, 129 Stat. 255.
+A prior section 2421, act June 25, 1948, ch. 645, 62 Stat. 812; May 24, 1949, ch. 139, § 47, 63 Stat. 96; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 105–314, title I, § 106, Oct. 30, 1998, 112 Stat. 2977, related to transportation of individuals generally, prior to repeal by Pub. L. 114–22, title III, § 303, May 29, 2015, 129 Stat. 255.
 
-## § 2421A. Promotion or facilitation of prostitution and reckless disregard of sex trafficking
+## § 2421A. Promotion or facilitation of prostitution and reckless disregard of sex trafficking
 
-**(a) In General.—** Whoever, using a facility or means of interstate or foreign commerce or in or affecting interstate or foreign commerce, owns, manages, or operates an interactive computer service (as such term is defined in defined in 1
+**(a) In General.—** Whoever, using a facility or means of interstate or foreign commerce or in or affecting interstate or foreign commerce, owns, manages, or operates an interactive computer service (as such term is defined in defined in 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 section 230(f) the Communications Act of 1934 (47 U.S.C. 230(f))), or conspires or attempts to do so, with the intent to promote or facilitate the prostitution of another person shall be fined under this title, imprisoned for not more than 10 years, or both.
 
-**(b) Aggravated Violation.—** Whoever, using a facility or means of interstate or foreign commerce or in or affecting interstate or foreign commerce, owns, manages, or operates an interactive computer service (as such term is defined in defined in <sup>1</sup> section 230(f) the Communications Act of 1934 (47 U.S.C. 230(f))), or conspires or attempts to do so, with the intent to promote or facilitate the prostitution of another person and—
+**(b) Aggravated Violation.—** Whoever, using a facility or means of interstate or foreign commerce or in or affecting interstate or foreign commerce, owns, manages, or operates an interactive computer service (as such term is defined in defined in <sup>1</sup> section 230(f) the Communications Act of 1934 (47 U.S.C. 230(f))), or conspires or attempts to do so, with the intent to promote or facilitate the prostitution of another person and—
 
 **(1)** promotes or facilitates the prostitution of 5 or more persons; or
 
-**(2)** acts in reckless disregard of the fact that such conduct contributed to sex trafficking, in violation of 2
+**(2)** acts in reckless disregard of the fact that such conduct contributed to sex trafficking, in violation of 2
 
-<sup>2</sup>  So in original. Probably should be followed by “section”.
+<sup>2</sup> So in original. Probably should be followed by “section”.
 
 1591(a),
 
@@ -73,27 +73,27 @@ shall be fined under this title, imprisoned for not more than 25 years, or both.
 
 **(c) Civil Recovery.—** Any person injured by reason of a violation of section 2421A(b) may recover damages and reasonable attorneys’ fees in an action before any appropriate United States district court.
 
-**(d) Mandatory Restitution.—** Notwithstanding sections 3
+**(d) Mandatory Restitution.—** Notwithstanding sections 3
 
-<sup>3</sup>  So in original. Probably should be “section”.
+<sup>3</sup> So in original. Probably should be “section”.
 
 3663 or 3663A and in addition to any other civil or criminal penalties authorized by law, the court shall order restitution for any violation of subsection (b)(2). The scope and nature of such restitution shall be consistent with section 2327(b).
 
 **(e) Affirmative Defense.—** It shall be an affirmative defense to a charge of violating subsection (a), or subsection (b)(1) where the defendant proves, by a preponderance of the evidence, that the promotion or facilitation of prostitution is legal in the jurisdiction where the promotion or facilitation was targeted.
 
-(Added Pub. L. 115–164, § 3(a), Apr. 11, 2018, 132 Stat. 1253.)
+(Added Pub. L. 115–164, § 3(a), Apr. 11, 2018, 132 Stat. 1253.)
 
-## § 2422. Coercion and enticement
+## § 2422. Coercion and enticement
 
 **(a)** Whoever knowingly persuades, induces, entices, or coerces any individual to travel in interstate or foreign commerce, or in any Territory or Possession of the United States, to engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title or imprisoned not more than 20 years, or both.
 
 **(b)** Whoever, using the mail or any facility or means of interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States knowingly persuades, induces, entices, or coerces any individual who has not attained the age of 18 years, to engage in prostitution or any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title and imprisoned not less than 10 years or for life.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 100–690, title VII, § 7070, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 104–104, title V, § 508, Feb. 8, 1996, 110 Stat. 137; Pub. L. 105–314, title I, § 102, Oct. 30, 1998, 112 Stat. 2975; Pub. L. 108–21, title I, § 103(a)(2)(A), (B), (b)(2)(A), Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, § 203, July 27, 2006, 120 Stat. 613.)
+(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 100–690, title VII, § 7070, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 104–104, title V, § 508, Feb. 8, 1996, 110 Stat. 137; Pub. L. 105–314, title I, § 102, Oct. 30, 1998, 112 Stat. 2975; Pub. L. 108–21, title I, § 103(a)(2)(A), (B), (b)(2)(A), Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, § 203, July 27, 2006, 120 Stat. 613.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 399 (June 25, 1910, ch. 395, § 3, 36 Stat. 825).
+Based on title 18, U.S.C., 1940 ed., § 399 (June 25, 1910, ch. 395, § 3, 36 Stat. 825).
 
 Words “deemed guilty of a felony” were deleted as unnecessary in view of definition of felony in section 1 of this title. (See reviser’s note under section 550 of this title.)
 
@@ -111,13 +111,13 @@ Minor changes were made in phraseology.
 
 2006—Subsec. (b). Pub. L. 109–248 substituted “not less than 10 years or for life” for “not less than 5 years and not more than 30 years”.
 
-2003—Subsec. (a). Pub. L. 108–21, § 103(a)(2)(A), substituted “20 years” for “10 years”.
+2003—Subsec. (a). Pub. L. 108–21, § 103(a)(2)(A), substituted “20 years” for “10 years”.
 
-Subsec. (b). Pub. L. 108–21, § 103(a)(2)(B), (b)(2)(A), substituted “and imprisoned not less than 5 years and” for “, imprisoned” and “30 years” for “15 years, or both”.
+Subsec. (b). Pub. L. 108–21, § 103(a)(2)(B), (b)(2)(A), substituted “and imprisoned not less than 5 years and” for “, imprisoned” and “30 years” for “15 years, or both”.
 
-1998—Subsec. (a). Pub. L. 105–314, § 102(1), inserted “or attempts to do so,” before “shall be fined” and substituted “10 years” for “five years”.
+1998—Subsec. (a). Pub. L. 105–314, § 102(1), inserted “or attempts to do so,” before “shall be fined” and substituted “10 years” for “five years”.
 
-Subsec. (b). Pub. L. 105–314, § 102(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever, using any facility or means of interstate or foreign commerce, including the mail, or within the special maritime and territorial jurisdiction of the United States, knowingly persuades, induces, entices, or coerces any individual who has not attained the age of 18 years to engage in prostitution or any sexual act for which any person may be criminally prosecuted, or attempts to do so, shall be fined under this title or imprisoned not more than 10 years, or both.”
+Subsec. (b). Pub. L. 105–314, § 102(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever, using any facility or means of interstate or foreign commerce, including the mail, or within the special maritime and territorial jurisdiction of the United States, knowingly persuades, induces, entices, or coerces any individual who has not attained the age of 18 years to engage in prostitution or any sexual act for which any person may be criminally prosecuted, or attempts to do so, shall be fined under this title or imprisoned not more than 10 years, or both.”
 
 1996—Pub. L. 104–104 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -125,7 +125,7 @@ Subsec. (b). Pub. L. 105–314, § 102(2), added subsec. (b) and struck out fo
 
 1986—Pub. L. 99–628 substituted “and enticement” for “or enticement of female” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever knowingly persuades, induces, entices, or coerces any woman or girl to go from one place to another in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, for the purpose of prostitution or debauchery, or for any other immoral purpose, or with the intent and purpose on the part of such person that such woman or girl shall engage in the practice of prostitution or debauchery, or any other immoral practice, whether with or without her consent, and thereby knowingly causes such woman or girl to go and to be carried or transported as a passenger upon the line or route of any common carrier or carriers in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, shall be fined not more than $5,000 or imprisoned not more than five years, or both.”
 
-## § 2423. Transportation of minors
+## § 2423. Transportation of minors
 
 **(a) Transportation With Intent To Engage in Criminal Sexual Activity.—** A person who knowingly transports an individual who has not attained the age of 18 years in interstate or foreign commerce, or in any commonwealth, territory or possession of the United States, with intent that the individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title and imprisoned not less than 10 years or for life.
 
@@ -159,11 +159,11 @@ shall be fined under this title, imprisoned for not more than 30 years, or both.
 
 **(i) Defense.—** In a prosecution under this section based on illicit sexual conduct as defined in subsection (g)(2), it is a defense, which the defendant must establish by clear and convincing evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, § 3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, § 160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, § 5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§ 601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, § 103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§ 103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, § 204, July 27, 2006, 120 Stat. 613; Pub. L. 113–4, title XII, § 1211(b), Mar. 7, 2013, 127 Stat. 142; Pub. L. 114–22, title I, § 111, May 29, 2015, 129 Stat. 240; Pub. L. 115–392, § 14, Dec. 21, 2018, 132 Stat. 5256; Pub. L. 118–31, div. E, title LI, § 5102(c), (d), Dec. 22, 2023, 137 Stat. 934.)
+(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, § 3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, § 160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, § 5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§ 601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, § 103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§ 103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, § 204, July 27, 2006, 120 Stat. 613; Pub. L. 113–4, title XII, § 1211(b), Mar. 7, 2013, 127 Stat. 142; Pub. L. 114–22, title I, § 111, May 29, 2015, 129 Stat. 240; Pub. L. 115–392, § 14, Dec. 21, 2018, 132 Stat. 5256; Pub. L. 118–31, div. E, title LI, § 5102(c), (d), Dec. 22, 2023, 137 Stat. 934.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 400 (June 25, 1910, ch. 395, § 4, 36 Stat. 826).
+Based on title 18, U.S.C., 1940 ed., § 400 (June 25, 1910, ch. 395, § 4, 36 Stat. 826).
 
 Words “deemed guilty of a felony” were deleted as unnecessary in view of definition of felony in section 1 of this title. (See reviser’s note under section 550 of this title.)
 
@@ -177,57 +177,57 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-2023—Subsec. (b). Pub. L. 118–31, § 5102(c)(1), substituted “with intent to engage in any illicit sexual conduct with another person” for “with a motivating purpose of engaging in any illicit sexual conduct with another person”.
+2023—Subsec. (b). Pub. L. 118–31, § 5102(c)(1), substituted “with intent to engage in any illicit sexual conduct with another person” for “with a motivating purpose of engaging in any illicit sexual conduct with another person”.
 
-Subsec. (d). Pub. L. 118–31, § 5102(d)(1), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 118–31, § 5102(d)(1), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 118–31, § 5102(c)(3), which directed substitution of “with intent to engage in any illicit sexual conduct” for “with a motivating purpose of engaging in any illicit sexual conduct”, was executed by making the substitution for “with a motivating purpose of engaging in illicit sexual conduct” to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 118–31, § 5102(c)(3), which directed substitution of “with intent to engage in any illicit sexual conduct” for “with a motivating purpose of engaging in any illicit sexual conduct”, was executed by making the substitution for “with a motivating purpose of engaging in illicit sexual conduct” to reflect the probable intent of Congress.
 
-Pub. L. 118–31, § 5102(c)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 118–31, § 5102(c)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 118–31, § 5102(c)(2), (d)(2), redesignated subsec. (e) as (f) and substituted “(d), or (e)” for “or (d)”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 118–31, § 5102(c)(2), (d)(2), redesignated subsec. (e) as (f) and substituted “(d), or (e)” for “or (d)”. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 118–31, § 5102(c)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (i).
+Subsec. (g). Pub. L. 118–31, § 5102(c)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (i).
 
-Subsec. (h). Pub. L. 118–31, § 5102(c)(4), added subsec. (h).
+Subsec. (h). Pub. L. 118–31, § 5102(c)(4), added subsec. (h).
 
-Subsec. (i). Pub. L. 118–31, § 5102(c)(2), (d)(3), redesignated subsec. (g) as (i) and substituted “(g)(2)” for “(f)(2)”.
+Subsec. (i). Pub. L. 118–31, § 5102(c)(2), (d)(3), redesignated subsec. (g) as (i) and substituted “(g)(2)” for “(f)(2)”.
 
-2018—Subsec. (b). Pub. L. 115–392, § 14(1), substituted “with a motivating purpose” for “for the purpose”.
+2018—Subsec. (b). Pub. L. 115–392, § 14(1), substituted “with a motivating purpose” for “for the purpose”.
 
-Subsec. (d). Pub. L. 115–392, § 14(2), substituted “with a motivating purpose of engaging” for “for the purpose of engaging”.
+Subsec. (d). Pub. L. 115–392, § 14(2), substituted “with a motivating purpose of engaging” for “for the purpose of engaging”.
 
-2015—Subsec. (f). Pub. L. 114–22, § 111(a), inserted a dash after “means”, designated existing provisions containing designations (1) and (2) as pars. (1) and (2), and added par. (3).
+2015—Subsec. (f). Pub. L. 114–22, § 111(a), inserted a dash after “means”, designated existing provisions containing designations (1) and (2) as pars. (1) and (2), and added par. (3).
 
-Subsec. (g). Pub. L. 114–22, § 111(b), substituted “clear and convincing evidence” for “a preponderance of the evidence”.
+Subsec. (g). Pub. L. 114–22, § 111(b), substituted “clear and convincing evidence” for “a preponderance of the evidence”.
 
 2013—Subsec. (c). Pub. L. 113–4 inserted “or resides, either temporarily or permanently, in a foreign country” after “commerce”.
 
 2006—Subsec. (a). Pub. L. 109–248 substituted “10 years or for life” for “5 years and not more than 30 years”.
 
-2003—Subsec. (a). Pub. L. 108–21, § 105(b), struck out “or attempts to do so,” before “shall be fined”.
+2003—Subsec. (a). Pub. L. 108–21, § 105(b), struck out “or attempts to do so,” before “shall be fined”.
 
-Pub. L. 108–21, § 103(a)(2)(C), (b)(2)(B), substituted “and imprisoned not less than 5 years and” for “, imprisoned” and “30 years” for “15 years, or both”.
+Pub. L. 108–21, § 103(a)(2)(C), (b)(2)(B), substituted “and imprisoned not less than 5 years and” for “, imprisoned” and “30 years” for “15 years, or both”.
 
-Subsecs. (b) to (g). Pub. L. 108–21, § 105(a), added subsecs. (b) to (g) and struck out former subsec. (b) which read as follows:
+Subsecs. (b) to (g). Pub. L. 108–21, § 105(a), added subsecs. (b) to (g) and struck out former subsec. (b) which read as follows:
 
 “(b) Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 15 years, or both.”
 
-2002—Subsec. (b). Pub. L. 107–273 repealed Pub. L. 104–294, § 601(b)(4). See 1996 Amendment note below.
+2002—Subsec. (b). Pub. L. 107–273 repealed Pub. L. 104–294, § 601(b)(4). See 1996 Amendment note below.
 
-1998—Subsec. (a). Pub. L. 105–314, § 103(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+1998—Subsec. (a). Pub. L. 105–314, § 103(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
 “(a) Transportation With Intent To Engage in Criminal Sexual Activity.—A person who knowingly transports any individual under the age of 18 years in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title or imprisoned not more than ten years, or both.”
 
-Subsec. (b). Pub. L. 105–314, § 103(2), substituted “15 years” for “10 years”.
+Subsec. (b). Pub. L. 105–314, § 103(2), substituted “15 years” for “10 years”.
 
-1996—Pub. L. 104–294, § 604(b)(33), amended directory language of Pub. L. 103–322, § 160001(g). See 1994 Amendment note below.
+1996—Pub. L. 104–294, § 604(b)(33), amended directory language of Pub. L. 103–322, § 160001(g). See 1994 Amendment note below.
 
-Subsec. (b). Pub. L. 104–294, § 601(b)(4), which made amendment identical to that made by Pub. L. 104–71, was repealed by Pub. L. 107–273. See 1995 Amendment note below.
+Subsec. (b). Pub. L. 104–294, § 601(b)(4), which made amendment identical to that made by Pub. L. 104–71, was repealed by Pub. L. 107–273. See 1995 Amendment note below.
 
 1995—Subsec. (b). Pub. L. 104–71 substituted “2246” for “2245”.
 
-1994—Pub. L. 103–322, as amended by Pub. L. 104–294, § 604(b)(33), added subsec. (b) and substituted “(a) Transportation With Intent To Engage in Criminal Sexual Activity.—A person who” for “Whoever”.
+1994—Pub. L. 103–322, as amended by Pub. L. 104–294, § 604(b)(33), added subsec. (b) and substituted “(a) Transportation With Intent To Engage in Criminal Sexual Activity.—A person who” for “Whoever”.
 
 1986—Pub. L. 99–628 amended section generally, revising and restating as one paragraph provisions formerly contained in subsec. (a) and striking out subsec. (b) which provided definitions.
 
@@ -237,7 +237,7 @@ Subsec. (b). Pub. L. 104–294, § 601(b)(4), which made amendment identical t
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
 **Effective Date of 1996 Amendment**
 
@@ -245,7 +245,7 @@ Amendment by section 604(b)(33) of Pub. L. 104–294 effective Sept. 13, 1994, s
 
 **Sense of Congress**
 
-Pub. L. 118–31, div. E, title LI, § 5102(b), Dec. 22, 2023, 137 Stat. 933, provided that:
+Pub. L. 118–31, div. E, title LI, § 5102(b), Dec. 22, 2023, 137 Stat. 933, provided that:
 
 > “The sense of Congress is the following:
 
@@ -281,7 +281,7 @@ Pub. L. 118–31, div. E, title LI, § 5102(b), Dec. 22, 2023, 137 Stat. 933, 
 
 > **“(13)** It is the duty of Congress to provide clearer guidance to ensure that those who commit crimes against children are prosecuted to the fullest extent of the law.”
 
-## § 2424. Filing factual statement about alien individual
+## § 2424. Filing factual statement about alien individual
 
 **(a)** Whoever keeps, maintains, controls, supports, or harbors in any house or place for the purpose of prostitution, or for any other immoral purpose, any individual, knowing or in reckless disregard of the fact that the individual is an alien, shall file with the Commissioner of Immigration and Naturalization a statement in writing setting forth the name of such individual, the place at which that individual is kept, and all facts as to the date of that individual’s entry into the United States, the port through which that individual entered, that individual’s age, nationality, and parentage, and concerning that individual’s procuration to come to this country within the knowledge of such person; and
 
@@ -293,11 +293,11 @@ Shall be fined under this title or imprisoned not more than 10 years, or both.
 
 **(b)** In any prosecution brought under this section, if it appears that any such statement required is not on file in the office of the Commissioner of Immigration and Naturalization, the person whose duty it is to file such statement shall be presumed to have failed to file said statement, unless such person or persons shall prove otherwise. No person shall be excused from furnishing the statement, as required by this section, on the ground or for the reason that the statement so required by that person, or the information therein contained, might tend to criminate that person or subject that person to a penalty or forfeiture, but no information contained in the statement or any evidence which is directly or indirectly derived from such information may be used against any person making such statement in any criminal case, except a prosecution for perjury, giving a false statement or otherwise failing to comply with this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 813; Pub. L. 91–452, title II, § 226, Oct. 15, 1970, 84 Stat. 930; Pub. L. 99–628, § 5(c), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title III, § 325, Sept. 30, 1996, 110 Stat. 3009–629.)
+(June 25, 1948, ch. 645, 62 Stat. 813; Pub. L. 91–452, title II, § 226, Oct. 15, 1970, 84 Stat. 930; Pub. L. 99–628, § 5(c), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title III, § 325, Sept. 30, 1996, 110 Stat. 3009–629.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 402(2), (3) (June 25, 1910, ch. 395, § 6, 36 Stat. 826).
+Based on title 18, U.S.C., 1940 ed., § 402(2), (3) (June 25, 1910, ch. 395, § 6, 36 Stat. 826).
 
 First paragraph of section 402 of title 18, U.S.C., 1940 ed., was omitted from this section and recommended for transfer to Title 8, Aliens and Nationality.
 
@@ -309,19 +309,19 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–208, § 325(1), in first par. substituted “individual, knowing or in reckless disregard of the fact that the individual is an alien” for “alien individual within three years after that individual has entered the United States from any country, party to the arrangement adopted July 25, 1902, for the suppression of the white-slave traffic” and struck out “alien” after “the name of such”.
+1996—Subsec. (a). Pub. L. 104–208, § 325(1), in first par. substituted “individual, knowing or in reckless disregard of the fact that the individual is an alien” for “alien individual within three years after that individual has entered the United States from any country, party to the arrangement adopted July 25, 1902, for the suppression of the white-slave traffic” and struck out “alien” after “the name of such”.
 
-Pub. L. 104–208, § 325(2), in second par. substituted “five business” for “thirty” and struck out “within three years after that individual has entered the United States from any country, party to the said arrangement for the suppression of the white-slave traffic,” after “any alien individual”.
+Pub. L. 104–208, § 325(2), in second par. substituted “five business” for “thirty” and struck out “within three years after that individual has entered the United States from any country, party to the said arrangement for the suppression of the white-slave traffic,” after “any alien individual”.
 
-Pub. L. 104–208, § 325(3), substituted “10” for “two” in last par.
+Pub. L. 104–208, § 325(3), substituted “10” for “two” in last par.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in last par.
 
-1986—Pub. L. 99–628, § 5(c)(1), substituted “individual” for “female” in section catchline.
+1986—Pub. L. 99–628, § 5(c)(1), substituted “individual” for “female” in section catchline.
 
-Subsec. (a). Pub. L. 99–628, § 5(c)(2)–(4), (6), substituted “individual” for “woman or girl”, “that individual” for “she”, “that individual’s” for “her”, and “that person’s” for “his” wherever appearing.
+Subsec. (a). Pub. L. 99–628, § 5(c)(2)–(4), (6), substituted “individual” for “woman or girl”, “that individual” for “she”, “that individual’s” for “her”, and “that person’s” for “his” wherever appearing.
 
-Subsec. (b). Pub. L. 99–628, § 5(c)(5), substituted “that person” for “him” wherever appearing.
+Subsec. (b). Pub. L. 99–628, § 5(c)(5), substituted “that person” for “him” wherever appearing.
 
 1970—Subsec. (b). Pub. L. 91–452 substituted provisions that no information contained in the statement or any evidence directly or indirectly derived from such information be used against any person making such statement in any criminal case, except a prosecution for perjury, giving a false statement, or otherwise failing to comply with this section, for provisions that no person be prosecuted or subjected to any penalty or forfeiture under any law of the United States for or on account of any transaction, etc., truthfully reported in his statement.
 
@@ -335,13 +335,13 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-## § 2425. Use of interstate facilities to transmit information about a minor
+## § 2425. Use of interstate facilities to transmit information about a minor
 
 Whoever, using the mail or any facility or means of interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States, knowingly initiates the transmission of the name, address, telephone number, social security number, or electronic mail address of another individual, knowing that such other individual has not attained the age of 16 years, with the intent to entice, encourage, offer, or solicit any person to engage in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(Added Pub. L. 105–314, title I, § 101(a), Oct. 30, 1998, 112 Stat. 2975.)
+(Added Pub. L. 105–314, title I, § 101(a), Oct. 30, 1998, 112 Stat. 2975.)
 
-## § 2426. Repeat offenders
+## § 2426. Repeat offenders
 
 **(a) Maximum Term of Imprisonment.—** The maximum term of imprisonment for a violation of this chapter after a prior sex offense conviction shall be 3 times the term of imprisonment otherwise provided by this chapter, unless section 3559(e) applies.
 
@@ -355,7 +355,7 @@ Whoever, using the mail or any facility or means of interstate or foreign commer
 
 **(2)** the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 105–314, title I, § 104(a), Oct. 30, 1998, 112 Stat. 2976; amended Pub. L. 108–21, title I, § 106(b), Apr. 30, 2003, 117 Stat. 655; Pub. L. 110–457, title II, § 224(c), Dec. 23, 2008, 122 Stat. 5072; Pub. L. 115–392, § 11(2), Dec. 21, 2018, 132 Stat. 5255; Pub. L. 118–159, div. A, title V, § 569(5), Dec. 23, 2024, 138 Stat. 1906.)
+(Added Pub. L. 105–314, title I, § 104(a), Oct. 30, 1998, 112 Stat. 2976; amended Pub. L. 108–21, title I, § 106(b), Apr. 30, 2003, 117 Stat. 655; Pub. L. 110–457, title II, § 224(c), Dec. 23, 2008, 122 Stat. 5072; Pub. L. 115–392, § 11(2), Dec. 21, 2018, 132 Stat. 5255; Pub. L. 118–159, div. A, title V, § 569(5), Dec. 23, 2024, 138 Stat. 1906.)
 
 **Editorial Notes**
 
@@ -363,19 +363,19 @@ Whoever, using the mail or any facility or means of interstate or foreign commer
 
 2024—Subsec. (b)(1)(B). Pub. L. 118–159 inserted “or the Uniform Code of Military Justice” after “State law”.
 
-2018—Subsec. (a). Pub. L. 115–392, § 11(2)(A), substituted “3 times” for “twice”.
+2018—Subsec. (a). Pub. L. 115–392, § 11(2)(A), substituted “3 times” for “twice”.
 
-Subsec. (b)(1)(B). Pub. L. 115–392, § 11(2)(B), substituted “subparagraph (A)” for “paragraph (1)”.
+Subsec. (b)(1)(B). Pub. L. 115–392, § 11(2)(B), substituted “subparagraph (A)” for “paragraph (1)”.
 
 2008—Subsec. (b)(1)(A). Pub. L. 110–457 substituted “chapter 110, or section 1591” for “or chapter 110”.
 
-2003—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
+2003—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
 
-## § 2427. Inclusion of offenses relating to child pornography in definition of sexual activity for which any person can be charged with a criminal offense
+## § 2427. Inclusion of offenses relating to child pornography in definition of sexual activity for which any person can be charged with a criminal offense
 
 In this chapter, the term “sexual activity for which any person can be charged with a criminal offense” does not require interpersonal physical contact, and includes the production of child pornography, as defined in section 2256(8).
 
-(Added Pub. L. 105–314, title I, § 105(a), Oct. 30, 1998, 112 Stat. 2977; amended Pub. L. 118–31, div. E, title LI, § 5102(e), Dec. 22, 2023, 137 Stat. 935.)
+(Added Pub. L. 105–314, title I, § 105(a), Oct. 30, 1998, 112 Stat. 2977; amended Pub. L. 118–31, div. E, title LI, § 5102(e), Dec. 22, 2023, 137 Stat. 935.)
 
 **Editorial Notes**
 
@@ -383,7 +383,7 @@ In this chapter, the term “sexual activity for which any person can be charged
 
 2023—Pub. L. 118–31 inserted “does not require interpersonal physical contact, and” before “includes”.
 
-## § 2428. Forfeitures
+## § 2428. Forfeitures
 
 **(a) In General.—** The court, in imposing sentence on any person convicted of a violation of this chapter, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person shall forfeit to the United States—
 
@@ -401,9 +401,9 @@ In this chapter, the term “sexual activity for which any person can be charged
 
 **(2) Applicability of chapter 46.—** The provisions of chapter 46 of this title relating to civil forfeitures shall apply to any seizure or civil forfeiture under this subsection.
 
-(Added Pub. L. 109–164, title I, § 103(d)(1), Jan. 10, 2006, 119 Stat. 3563.)
+(Added Pub. L. 109–164, title I, § 103(d)(1), Jan. 10, 2006, 119 Stat. 3563.)
 
-## § 2429. Mandatory restitution
+## § 2429. Mandatory restitution
 
 **(a)** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
 
@@ -419,4 +419,4 @@ In this chapter, the term “sexual activity for which any person can be charged
 
 **(d)** As used in this section, the term “victim” means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of the victim’s estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.
 
-(Added Pub. L. 115–392, § 3(a), Dec. 21, 2018, 132 Stat. 5251.)
+(Added Pub. L. 115–392, § 3(a), Dec. 21, 2018, 132 Stat. 5251.)

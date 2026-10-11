@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–322, title XXXII, § 320909(b), Sept. 13, 1994, 108 Stat. 2127, added item 3239.
+1994—Pub. L. 103–322, title XXXII, § 320909(b), Sept. 13, 1994, 108 Stat. 2127, added item 3239.
 
-1984—Pub. L. 98–473, title II, § 1204(b), Oct. 12, 1984, 98 Stat. 2152, struck out item 3239 “Threatening communications”.
+1984—Pub. L. 98–473, title II, § 1204(b), Oct. 12, 1984, 98 Stat. 2152, struck out item 3239 “Threatening communications”.
 
-1978—Pub. L. 95–598, title III, § 314(j)(2), Nov. 6, 1978, 92 Stat. 2678, added item 3244.
+1978—Pub. L. 95–598, title III, § 314(j)(2), Nov. 6, 1978, 92 Stat. 2678, added item 3244.
 
-## § 3231. District courts
+## § 3231. District courts
 
 The district courts of the United States shall have original jurisdiction, exclusive of the courts of the States, of all offenses against the laws of the United States.
 
@@ -35,7 +35,7 @@ Nothing in this title shall be held to take away or impair the jurisdiction of t
 
 **Historical and Revision Notes**
 
-Based on section 588d of title 12, U.S.C., 1940 ed., Banks and Banking; title 18, U.S.C., 1940 ed., §§ 546, 547 (Mar. 4, 1909, ch. 321, §§ 326, 340, 35 Stat. 1151, 1153; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; May 18, 1934, ch. 304, § 4, 48 Stat. 783).
+Based on section 588d of title 12, U.S.C., 1940 ed., Banks and Banking; title 18, U.S.C., 1940 ed., §§ 546, 547 (Mar. 4, 1909, ch. 321, §§ 326, 340, 35 Stat. 1151, 1153; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; May 18, 1934, ch. 304, § 4, 48 Stat. 783).
 
 This section was formed by combining sections 546 and 547 of title 18, U.S.C., 1940 ed., with section 588d of title 12, U.S.C., Banks and Banking, with no change of substance.
 
@@ -45,7 +45,7 @@ The language of said section 588d of title 12, U.S.C., 1940 ed., which related t
 
 The text of this section was changed by Senate amendment. See Senate Report No. 1620, amendment No. 10, 80th Cong.
 
-## § 3232. District of offense—(Rule)
+## § 3232. District of offense—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -53,7 +53,7 @@ Proceedings to be in district and division in which offense committed, Rule 18.
 
 (June 25, 1948, ch. 645, 62 Stat. 826.)
 
-## § 3233. Transfer within district—(Rule)
+## § 3233. Transfer within district—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -67,7 +67,7 @@ Arraignment, plea, trial, sentence in district of more than one division, Rule 1
 
 Rule 19 of the Federal Rules of Criminal Procedure, referred to in text, was rescinded Feb. 28, 1966, eff. July 1, 1966.
 
-## § 3234. Change of venue to another district—(Rule)
+## § 3234. Change of venue to another district—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -75,7 +75,7 @@ Plea or disposal of case in district other than that in which defendant was arre
 
 (June 25, 1948, ch. 645, 62 Stat. 826.)
 
-## § 3235. Venue in capital cases
+## § 3235. Venue in capital cases
 
 The trial of offenses punishable with death shall be had in the county where the offense was committed, where that can be done without great inconvenience.
 
@@ -83,9 +83,9 @@ The trial of offenses punishable with death shall be had in the county where the
 
 **Historical and Revision Notes**
 
-Based on section 101 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 40, 36 Stat. 1100).
+Based on section 101 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 40, 36 Stat. 1100).
 
-## § 3236. Murder or manslaughter
+## § 3236. Murder or manslaughter
 
 In all cases of murder or manslaughter, the offense shall be deemed to have been committed at the place where the injury was inflicted, or the poison administered or other means employed which caused the death, without regard to the place where the death occurs.
 
@@ -93,9 +93,9 @@ In all cases of murder or manslaughter, the offense shall be deemed to have been
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 553 (Mar. 4, 1909, ch. 321, § 336, 35 Stat. 1152).
+Based on title 18, U.S.C., 1940 ed., § 553 (Mar. 4, 1909, ch. 321, § 336, 35 Stat. 1152).
 
-## § 3237. Offenses begun in one district and completed in another
+## § 3237. Offenses begun in one district and completed in another
 
 **(a)** Except as otherwise expressly provided by enactment of Congress, any offense against the United States begun in one district and completed in another, or committed in more than one district, may be inquired of and prosecuted in any district in which such offense was begun, continued, or completed.
 
@@ -103,11 +103,11 @@ Any offense involving the use of the mails, transportation in interstate or fore
 
 **(b)** Notwithstanding subsection (a), where an offense is described in section 7203 of the Internal Revenue Code of 1986, or where venue for prosecution of an offense described in section 7201 or 7206(1), (2), or (5) of such Code (whether or not the offense is also described in another provision of law) is based solely on a mailing to the Internal Revenue Service, and prosecution is begun in a judicial district other than the judicial district in which the defendant resides, he may upon motion filed in the district in which the prosecution is begun, elect to be tried in the district in which he was residing at the time the alleged offense was committed: *Provided*, That the motion is filed within twenty days after arraignment of the defendant upon indictment or information.
 
-(June 25, 1948, ch. 645, 62 Stat. 826; Pub. L. 85–595, Aug. 6, 1958, 72 Stat. 512; Pub. L. 89–713, § 2, Nov. 2, 1966, 80 Stat. 1108; Pub. L. 98–369, div. A, title I, § 162, July 18, 1984, 98 Stat. 697; Pub. L. 98–473, title II, § 1204(a), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(June 25, 1948, ch. 645, 62 Stat. 826; Pub. L. 85–595, Aug. 6, 1958, 72 Stat. 512; Pub. L. 89–713, § 2, Nov. 2, 1966, 80 Stat. 1108; Pub. L. 98–369, div. A, title I, § 162, July 18, 1984, 98 Stat. 697; Pub. L. 98–473, title II, § 1204(a), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Historical and Revision Notes**
 
-Based on section 103 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 42, 36 Stat. 1100).
+Based on section 103 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 42, 36 Stat. 1100).
 
 Section was completely rewritten to clarify legislative intent and in order to omit special venue provisions from many sections.
 
@@ -129,7 +129,7 @@ Section 7201 or 7206(1), (2), or (5) of such Code, referred to in subsec. (b), a
 
 1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (a). Pub. L. 98–473 inserted “or the importation of an object or person into the United States” and “, or imported object or person” in second par.
+1984—Subsec. (a). Pub. L. 98–473 inserted “or the importation of an object or person into the United States” and “, or imported object or person” in second par.
 
 Subsec. (b). Pub. L. 98–369 substituted “venue for prosecution of an offense” for “an offense involves use of the mails and is an offense” and inserted “is based solely on a mailing to the Internal Revenue Service”.
 
@@ -143,7 +143,7 @@ Subsec. (b). Pub. L. 98–369 substituted “venue for prosecution of an offense
 
 Amendment by Pub. L. 89–713 effective Nov. 2, 1966, see section 6 of Pub. L. 89–713, set out as a note under section 6091 of Title 26, Internal Revenue Code.
 
-## § 3238. Offenses not committed in any district
+## § 3238. Offenses not committed in any district
 
 The trial of all offenses begun or committed upon the high seas, or elsewhere out of the jurisdiction of any particular State or district, shall be in the district in which the offender, or any one of two or more joint offenders, is arrested or is first brought; but if such offender or offenders are not so arrested or brought into any district, an indictment or information may be filed in the district of the last known residence of the offender or of any one of two or more joint offenders, or if no such residence is known the indictment or information may be filed in the District of Columbia.
 
@@ -151,7 +151,7 @@ The trial of all offenses begun or committed upon the high seas, or elsewhere ou
 
 **Historical and Revision Notes**
 
-Based on section 102 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 41, 36 Stat. 1100).
+Based on section 102 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 41, 36 Stat. 1100).
 
 Words “begun or” were inserted to clarify scope of this section and section 3237 of this title.
 
@@ -163,15 +163,15 @@ This section is similar to section 219 of title 22, U.S.C., 1940 ed., Foreign Re
 
 1963—Pub. L. 88–27 authorized the trial of offenses not committed in any district in the district in which the offender, or any one of two or more joint offenders, is arrested; an indictment or information to be filed in the district of the last known residence of the offender or of any one of two or more joint offenders where the offender or offenders are not arrested or brought into any district; and an indictment or information to be filed in the District of Columbia where there is no knowledge of the residence of the offender or of any one of two or more joint offenders.
 
-## § 3239. Optional venue for espionage and related offenses
+## § 3239. Optional venue for espionage and related offenses
 
 The trial for any offense involving a violation, begun or committed upon the high seas or elsewhere out of the jurisdiction of any particular State or district, of—
 
 **(1)** section 793, 794, 798, or section 1030(a)(1) of this title;
 
-**(2)** section 601 of the National Security Act of 1947 (50 U.S.C. 421); 1
+**(2)** section 601 of the National Security Act of 1947 (50 U.S.C. 421); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or
 
@@ -179,29 +179,29 @@ or
 
 may be in the District of Columbia or in any other district authorized by law.
 
-(Added Pub. L. 103–322, title XXXII, § 320909(a), Sept. 13, 1994, 108 Stat. 2127.)
+(Added Pub. L. 103–322, title XXXII, § 320909(a), Sept. 13, 1994, 108 Stat. 2127.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in par. (2), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 601 of this Act is now classified to section 3121 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in par. (2), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 601 of this Act is now classified to section 3121 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
-A prior section 3239, act June 25, 1948, ch. 645, 62 Stat. 827, related to threatening communications, prior to repeal by Pub. L. 98–473, title II, § 1204(b), Oct. 12, 1984, 98 Stat. 2152.
+A prior section 3239, act June 25, 1948, ch. 645, 62 Stat. 827, related to threatening communications, prior to repeal by Pub. L. 98–473, title II, § 1204(b), Oct. 12, 1984, 98 Stat. 2152.
 
-## § 3240. Creation of new district or division
+## § 3240. Creation of new district or division
 
 Whenever any new district or division is established, or any county or territory is transferred from one district or division to another district or division, prosecutions for offenses committed within such district, division, county, or territory prior to such transfer, shall be commenced and proceeded with the same as if such new district or division had not been created, or such county or territory had not been transferred, unless the court, upon the application of the defendant, shall order the case to be removed to the new district or division for trial.
 
-(June 25, 1948, ch. 645, 62 Stat. 827; May 24, 1949, ch. 139, § 50, 63 Stat. 96.)
+(June 25, 1948, ch. 645, 62 Stat. 827; May 24, 1949, ch. 139, § 50, 63 Stat. 96.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on section 121 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 59, 36 Stat. 1103).
+Based on section 121 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 59, 36 Stat. 1103).
 
 Section 121 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary, was divided into two sections. Only the portion relating to venue in civil cases was left in title 28, U.S.C., 1940 ed., Judicial Code and Judiciary.
 
@@ -217,15 +217,15 @@ This section [section 50] strikes the second sentence of section 3240 of title 1
 
 1949—Act May 24, 1949, struck out “The transfer of such prosecutions shall be made in the manner provided in section 119 of Title 28”.
 
-## § 3241. Jurisdiction of offenses under certain sections
+## § 3241. Jurisdiction of offenses under certain sections
 
 The District Court of the Virgin Islands shall have jurisdiction of offenses under the laws of the United States, not locally inapplicable, committed within the territorial jurisdiction of such courts, and jurisdiction, concurrently with the district courts of the United States, of offenses against the laws of the United States committed upon the high seas.
 
-(June 25, 1948, ch. 645, 62 Stat. 827; Pub. L. 85–508, § 12(i), July 7, 1958, 72 Stat. 348; Pub. L. 107–273, div. B, title IV, § 4004(e), Nov. 2, 2002, 116 Stat. 1812.)
+(June 25, 1948, ch. 645, 62 Stat. 827; Pub. L. 85–508, § 12(i), July 7, 1958, 72 Stat. 348; Pub. L. 107–273, div. B, title IV, § 4004(e), Nov. 2, 2002, 116 Stat. 1812.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 39, 574; sections 23, 101, 1406 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions; section 39 of title 50, U.S.C., 1940 ed., War and National Defense (June 6, 1900, ch. 786, § 4, 31 Stat. 322; Aug. 24, 1912, ch. 387, § 3, 37 Stat. 512; June 15, 1917, ch. 30, title XIII, § 2, 40 Stat. 231; Mar. 2, 1921, ch. 110, 41 Stat. 1203; June 22, 1936, ch. 699, § 28, 49 Stat. 1814).
+Based on title 18, U.S.C., 1940 ed., §§ 39, 574; sections 23, 101, 1406 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions; section 39 of title 50, U.S.C., 1940 ed., War and National Defense (June 6, 1900, ch. 786, § 4, 31 Stat. 322; Aug. 24, 1912, ch. 387, § 3, 37 Stat. 512; June 15, 1917, ch. 30, title XIII, § 2, 40 Stat. 231; Mar. 2, 1921, ch. 110, 41 Stat. 1203; June 22, 1936, ch. 699, § 28, 49 Stat. 1814).
 
 Section consolidates portions of sections 39 and 574 of title 18, U.S.C., 1940 ed., with jurisdictional provisions of sections 23, 101, and 1406 of title 48, U.S.C., 1940 ed., and section 39 of title 50 U.S.C., 1940 ed., with changes of phraseology necessary to effect consolidation.
 
@@ -251,17 +251,17 @@ Definition of United States in section 39 of title 18, U.S.C., 1940 ed., is inco
 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of Title 28, Judiciary and Judicial Procedure, and preceding former section 21 of Title 48, Territories and Insular Possessions.
 
-## § 3242. Indians committing certain offenses; acts on reservations
+## § 3242. Indians committing certain offenses; acts on reservations
 
 All Indians committing any offense listed in the first paragraph of and punishable under section 1153 (relating to offenses committed within Indian country) of this title shall be tried in the same courts and in the same manner as are all other persons committing such offense within the exclusive jurisdiction of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 827; May 24, 1949, ch. 139, § 51, 63 Stat. 96; Pub. L. 89–707, § 2, Nov. 2, 1966, 80 Stat. 1101; Pub. L. 94–297, § 4, May 29, 1976, 90 Stat. 586.)
+(June 25, 1948, ch. 645, 62 Stat. 827; May 24, 1949, ch. 139, § 51, 63 Stat. 96; Pub. L. 89–707, § 2, Nov. 2, 1966, 80 Stat. 1101; Pub. L. 94–297, § 4, May 29, 1976, 90 Stat. 586.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 548 (Mar. 4, 1909, ch. 321, § 328, 35 Stat. 1151; June 1932, ch. 284, 47 Stat. 337).
+Based on title 18, U.S.C., 1940 ed., § 548 (Mar. 4, 1909, ch. 321, § 328, 35 Stat. 1151; June 1932, ch. 284, 47 Stat. 337).
 
 The provisions defining rape in accordance with the law of the State and prescribing imprisonment at the discretion of the court for rape by an Indian upon an Indian are now included in section 1153 of this title. (See also section 6 of this title.)
 
@@ -283,7 +283,7 @@ This section [section 51] conforms section 3242 of title 18, U.S.C., with sectio
 
 1949—Act May 24, 1949, substituted “within the Indian country” for “within any Indian reservation, including rights-of-way running through the reservation,”.
 
-## § 3243. Jurisdiction of State of Kansas over offenses committed by or against Indians on Indian reservations
+## § 3243. Jurisdiction of State of Kansas over offenses committed by or against Indians on Indian reservations
 
 Jurisdiction is conferred on the State of Kansas over offenses committed by or against Indians on Indian reservations, including trust or restricted allotments, within the State of Kansas, to the same extent as its courts have jurisdiction over offenses committed elsewhere within the State in accordance with the laws of the State.
 
@@ -299,7 +299,7 @@ The attention of Congress is directed to consideration of the question whether t
 
 Changes were made in phraseology.
 
-## § 3244. Jurisdiction of proceedings relating to transferred offenders
+## § 3244. Jurisdiction of proceedings relating to transferred offenders
 
 When a treaty is in effect between the United States and a foreign country providing for the transfer of convicted offenders—
 
@@ -313,7 +313,7 @@ When a treaty is in effect between the United States and a foreign country provi
 
 **(5)** all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender’s transfer to the United States shall be brought in the United States district court of the district in which the offender is confined or of the district in which supervision is exercised and shall name the Attorney General and the official having immediate custody or exercising immediate supervision of the offender as respondents. The Attorney General shall defend against such proceedings.
 
-(Added Pub. L. 95–144, § 3, Oct. 28, 1977, 91 Stat. 1220, title 28, § 2256; renumbered Pub. L. 95–598, title III, § 314(j)(1), Nov. 6, 1978, 92 Stat. 2677.)
+(Added Pub. L. 95–144, § 3, Oct. 28, 1977, 91 Stat. 1220, title 28, § 2256; renumbered Pub. L. 95–598, title III, § 314(j)(1), Nov. 6, 1978, 92 Stat. 2677.)
 
 **Editorial Notes**
 
@@ -325,4 +325,4 @@ Section was formerly classified to section 2256 of Title 28, Judiciary and Judic
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.

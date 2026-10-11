@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 1411—ADDITIONAL PROVISIONS RELATING TO INVOLUNTARY SEPARATION
 
-## § 14901. Separation of chaplains for loss of professional qualifications
+## § 14901. Separation of chaplains for loss of professional qualifications
 
 **(a) Separation.—** Under regulations prescribed by the Secretary of Defense, an officer on the reserve active-status list who is appointed or designated as a chaplain may, if the officer fails to maintain the qualifications needed to perform the professional function of a chaplain, be discharged. The authority under the preceding sentence applies without regard to the provisions of section 12645 of this title.
 
 **(b) Effect of Separation.—** If an officer separated under this section is eligible for retirement, the officer may be retired. If the officer has completed the years of service required for eligibility for retired pay under chapter 1223 of this title, the officer may be transferred to the Retired Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2957.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2957.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -29,7 +29,7 @@ retrieved: 2026-10-11
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14902. Separation for substandard performance and for certain other reasons
+## § 14902. Separation for substandard performance and for certain other reasons
 
 **(a) Substandard Performance of Duty.—** The Secretary of the military department concerned shall prescribe, by regulation, procedures for the review at any time of the record of any reserve officer to determine whether that officer should be required, because that officer’s performance has fallen below standards prescribed by the Secretary concerned, to show cause for retention in an active status.
 
@@ -37,7 +37,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Regulations.—** The authority of the Secretary of a military department under this section shall be carried out subject to such limitations as the Secretary of Defense may prescribe by regulation.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2958.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2958.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -45,7 +45,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14903. Boards of inquiry
+## § 14903. Boards of inquiry
 
 **(a) Convening of Boards.—** The Secretary of the military department concerned shall convene a board of inquiry at such time and place as the Secretary may prescribe to receive evidence and review the case of any officer who has been required to show cause for retention in an active status under section 14902 of this title. Each board of inquiry shall be composed of not less than three officers who have the qualifications prescribed in section 14906 of this title.
 
@@ -71,7 +71,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(B)** An officer who has been required to show cause for retention under section 14902(b) of this title and who is thereafter retained in an active status may not again be required to show cause for retention under such section solely because of conduct which was the subject of the previous proceeding, unless the recommendations of the board of inquiry that considered the officer’s case are determined to have been obtained by fraud or collusion.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2958; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(32), Feb. 10, 1996, 110 Stat. 498.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2958; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(32), Feb. 10, 1996, 110 Stat. 498.)
 
 **Editorial Notes**
 
@@ -89,7 +89,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14904. Rights and procedures
+## § 14904. Rights and procedures
 
 **(a) Procedural Rights.—** Under regulations prescribed by the Secretary of Defense, an officer required under section 14902 of this title to show cause for retention in an active status—
 
@@ -105,15 +105,15 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Remote Appearance.—** The Secretary concerned may determine that, in exceptional circumstances, the appearance of an officer before the proceedings of a board of inquiry may be via means other than in person.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2959; amended Pub. L. 118–159, div. A, title V, § 509(b), Dec. 23, 2024, 138 Stat. 1872.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2959; amended Pub. L. 118–159, div. A, title V, § 509(b), Dec. 23, 2024, 138 Stat. 1872.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a)(3). Pub. L. 118–159, § 509(b)(1), substituted “subject to subsection (c), shall be” for “shall be”.
+2024—Subsec. (a)(3). Pub. L. 118–159, § 509(b)(1), substituted “subject to subsection (c), shall be” for “shall be”.
 
-Subsec. (c). Pub. L. 118–159, § 509(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 118–159, § 509(b)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -121,7 +121,7 @@ Subsec. (c). Pub. L. 118–159, § 509(b)(2), added subsec. (c).
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14905. Officer considered for removal: retirement or discharge
+## § 14905. Officer considered for removal: retirement or discharge
 
 **(a) Voluntary Retirement or Discharge.—** At any time during proceedings under this chapter with respect to the removal of an officer from an active status, the Secretary of the military department concerned may grant a request by the officer—
 
@@ -145,7 +145,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Separation Pay.—** An officer who is discharged under subsection (b)(3) is entitled, if eligible therefor, to separation pay under section 1174(c) of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2959.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2959.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -153,7 +153,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14906. Officers eligible to serve on boards
+## § 14906. Officers eligible to serve on boards
 
 **(a) Composition of Boards.—** Each board convened under this chapter shall consist of officers appointed as follows:
 
@@ -165,7 +165,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(b) Limitation.—** A person may not be a member of more than one board convened under this chapter to consider the same officer.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2960; amended Pub. L. 106–65, div. A, title V, § 504(b), Oct. 5, 1999, 113 Stat. 591.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2960; amended Pub. L. 106–65, div. A, title V, § 504(b), Oct. 5, 1999, 113 Stat. 591.)
 
 **Editorial Notes**
 
@@ -183,7 +183,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14907. Army National Guard of the United States and Air National Guard of the United States: discharge and withdrawal of Federal recognition of officers absent without leave
+## § 14907. Army National Guard of the United States and Air National Guard of the United States: discharge and withdrawal of Federal recognition of officers absent without leave
 
 **(a) Authority To Withdraw Federal Recognition.—** If an officer of the Army National Guard of the United States or the Air National Guard of the United States has been absent without leave for three months, the Secretary of the Army or the Secretary of the Air Force, as appropriate, may—
 
@@ -193,13 +193,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(b) Discharge From Reserve Appointment.—** An officer of the Army National Guard of the United States or the Air National Guard of the United States whose Federal recognition as an officer of the National Guard is withdrawn under section 323(b) of title 32 shall be discharged from the officer’s appointment as a reserve officer of the Army or the Air Force, as the case may be.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2960.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2960.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3820(a), (b) and 8820 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(2), (c)(2).
+Provisions similar to those in this section were contained in sections 3820(a), (b) and 8820 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(2), (c)(2).
 
 **Statutory Notes and Related Subsidiaries**
 

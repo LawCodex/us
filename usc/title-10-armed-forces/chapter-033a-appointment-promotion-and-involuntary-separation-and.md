@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1993—Pub. L. 103–160, div. A, title V, § 504(b), Nov. 30, 1993, 107 Stat. 1645, added item 580a.
+1993—Pub. L. 103–160, div. A, title V, § 504(b), Nov. 30, 1993, 107 Stat. 1645, added item 580a.
 
-1992—Pub. L. 102–484, div. A, title X, § 1052(6), Oct. 23, 1992, 106 Stat. 2499, inserted “to be” after “Information” in item 576 and substituted “Promotions:” for “Promotions;” in item 578.
+1992—Pub. L. 102–484, div. A, title X, § 1052(6), Oct. 23, 1992, 106 Stat. 2499, inserted “to be” after “Information” in item 576 and substituted “Promotions:” for “Promotions;” in item 578.
 
-## § 571. Warrant officers: grades
+## § 571. Warrant officers: grades
 
 **(a)** The regular warrant officer grades in the armed forces corresponding to the pay grades prescribed for warrant officers by section 201(b) of title 37 are as follows:
 
@@ -43,17 +43,17 @@ Warrant officer, W–1.
 
 **(c)** An appointment may not be made in any of the armed forces in the regular warrant officer grade of chief warrant officer, W–5, if the appointment would result in more than 5 percent of the warrant officers of that armed force on active duty being in the grade of chief warrant officer, W–5. In computing the limitation prescribed in the preceding sentence, there shall be excluded warrant officers described in section 582 of this title.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 102–484, div. A, title X, § 1052(2), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, § 541(a)(2), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 111–383, div. A, title V, § 502(a), Jan. 7, 2011, 124 Stat. 4207.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 102–484, div. A, title X, § 1052(2), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, § 541(a)(2), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 111–383, div. A, title V, § 502(a), Jan. 7, 2011, 124 Stat. 4207.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 555 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
+Provisions similar to those in this section were contained in section 555 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
 
 **Amendments**
 
-2011—Subsec. (b). Pub. L. 111–383 substituted “, except that with respect to an armed force under the jurisdiction of the Secretary of a military department, the Secretary concerned may provide by regulation that appointments in that grade in that armed force shall be made by commission” for “by the Secretary concerned” and inserted “, and appointments (whether by warrant or commission) in the grade of regular warrant officer, W–1, shall be made by the President, except that appointments in that grade in the Coast Guard shall be made by the Secretary concerned” after “commission by the President”.
+2011—Subsec. (b). Pub. L. 111–383 substituted “, except that with respect to an armed force under the jurisdiction of the Secretary of a military department, the Secretary concerned may provide by regulation that appointments in that grade in that armed force shall be made by commission” for “by the Secretary concerned” and inserted “, and appointments (whether by warrant or commission) in the grade of regular warrant officer, W–1, shall be made by the President, except that appointments in that grade in the Coast Guard shall be made by the Secretary concerned” after “commission by the President”.
 
 1994—Subsec. (a). Pub. L. 103–337 substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps”.
 
@@ -63,7 +63,7 @@ Provisions similar to those in this section were contained in section 555 of thi
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title V, § 541(h), Oct. 5, 1994, 108 Stat. 2767, provided that: “This section [enacting section 215 of Title 14, Coast Guard, amending this section, sections 573 to 576, 580, 580a, 581, and 583 of this title, and sections 41, 214, 286a, and 334 of Title 14, repealing sections 212 and 213 of Title 14, enacting provisions set out as notes under this section, and repealing a provision set out as a note under former section 555 of this title] and the amendments made by this section shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title V, § 541(h), Oct. 5, 1994, 108 Stat. 2767, provided that: “This section [enacting section 215 of Title 14, Coast Guard, amending this section, sections 573 to 576, 580, 580a, 581, and 583 of this title, and sections 41, 214, 286a, and 334 of Title 14, repealing sections 212 and 213 of Title 14, enacting provisions set out as notes under this section, and repealing a provision set out as a note under former section 555 of this title] and the amendments made by this section shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act [Oct. 5, 1994].”
 
 **Effective Date**
 
@@ -71,11 +71,11 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **Short Title**
 
-Pub. L. 102–190, div. A, title XI, § 1101, Dec. 5, 1991, 105 Stat. 1491, provided that: “This title [enacting this chapter and section 742 of this title, amending sections 521, 522, 597, 598 [now 12242], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and section 1009 of Title 37] may be cited as the ‘Warrant Officer Management Act’.”
+Pub. L. 102–190, div. A, title XI, § 1101, Dec. 5, 1991, 105 Stat. 1491, provided that: “This title [enacting this chapter and section 742 of this title, amending sections 521, 522, 597, 598 [now 12242], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and section 1009 of Title 37] may be cited as the ‘Warrant Officer Management Act’.”
 
 **Transition and Savings Provisions**
 
-Pub. L. 103–337, div. A, title V, § 541(c), (d), Oct. 5, 1994, 108 Stat. 2765, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(3), Feb. 10, 1996, 110 Stat. 513, provided that:
+Pub. L. 103–337, div. A, title V, § 541(c), (d), Oct. 5, 1994, 108 Stat. 2765, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(3), Feb. 10, 1996, 110 Stat. 513, provided that:
 
 > **“(c) Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W–5.—**
 
@@ -117,7 +117,7 @@ Pub. L. 103–337, div. A, title V, § 541(c), (d), Oct. 5, 1994, 108 Stat. 27
 
 > shall while continuing on active duty retain such temporary grade and shall be considered for promotion to a grade equal to or lower than the permanent grade as if such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, the appointment of that warrant officer to such grade shall be a temporary appointment.”
 
-Pub. L. 102–190, div. A, title XI, §§ 1121–1124, Dec. 5, 1991, 105 Stat. 1503–1505, provided that:
+Pub. L. 102–190, div. A, title XI, §§ 1121–1124, Dec. 5, 1991, 105 Stat. 1503–1505, provided that:
 
 > **“SEC. 1121. TRANSITION FOR CERTAIN REGULAR WARRANT OFFICERS SERVING IN A HIGHER TEMPORARY GRADE BELOW CHIEF WARRANT OFFICER, W–5.**
 
@@ -189,21 +189,21 @@ Pub. L. 102–190, div. A, title XI, §§ 1121–1124, Dec. 5, 1991, 105 Stat.
 
 **Establishment of Permanent Grade of Chief Warrant Officer, W–5**
 
-Pub. L. 103–337, div. A, title V, § 541(a)(1), Oct. 5, 1994, 108 Stat. 2764, provided that: “The grade of chief warrant officer, W–5, is hereby established in the Coast Guard.”
+Pub. L. 103–337, div. A, title V, § 541(a)(1), Oct. 5, 1994, 108 Stat. 2764, provided that: “The grade of chief warrant officer, W–5, is hereby established in the Coast Guard.”
 
 [For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-Pub. L. 102–190, div. A, title XI, § 1111(a), Dec. 5, 1991, 105 Stat. 1491, provided that: “The grade of chief warrant officer, W–5, is hereby established in the Army, Navy, Air Force, and Marine Corps.”
+Pub. L. 102–190, div. A, title XI, § 1111(a), Dec. 5, 1991, 105 Stat. 1491, provided that: “The grade of chief warrant officer, W–5, is hereby established in the Army, Navy, Air Force, and Marine Corps.”
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Authority of President under subsec. (b) of this section to appoint by commission regular chief warrant officers and reserve chief warrant officers in the Coast Guard delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(g), (h), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of Title 14, Coast Guard.
+Authority of President under subsec. (b) of this section to appoint by commission regular chief warrant officers and reserve chief warrant officers in the Coast Guard delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(g), (h), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of Title 14, Coast Guard.
 
 Functions of President under second sentence of subsec. (b) of this section delegated to Secretary of Defense by section 1(b) of Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, set out as a note under section 531 of this title.
 
-## § 572. Warrant officers: original appointment; service credit
+## § 572. Warrant officers: original appointment; service credit
 
 **(a)** For the purposes of promotion, persons originally appointed in regular or reserve warrant officer grades shall be credited with such service as the Secretary concerned may prescribe. However, such a person may not be credited with a period of service greater than the period of active service performed in the grade, or pay grade corresponding to the grade, in which so appointed, or in any higher grade or pay grade.
 
@@ -213,13 +213,13 @@ Functions of President under second sentence of subsec. (b) of this section dele
 
 **(2)** For advanced education in a warrant officer field designated by the Secretary concerned, if such education is directly related to the operational needs of the armed force concerned, as determined by such Secretary concerned.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 117–263, div. A, title V, § 507(a), Dec. 23, 2022, 136 Stat. 2558.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 117–263, div. A, title V, § 507(a), Dec. 23, 2022, 136 Stat. 2558.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 556 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
+Provisions similar to those in this section were contained in section 556 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
 
 **Amendments**
 
@@ -231,7 +231,7 @@ Provisions similar to those in this section were contained in section 556 of thi
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 573. Convening of selection boards
+## § 573. Convening of selection boards
 
 **(a)**
 
@@ -249,13 +249,13 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(f)** The Secretary concerned shall prescribe all other matters relating to the functions and duties of the boards, including the number of members constituting a quorum, and instructions concerning notice of convening of boards and communications with boards.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 103–337, div. A, title V, § 541(b)(1), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–106, div. A, title XV, § 1503(a)(5), Feb. 10, 1996, 110 Stat. 511; Pub. L. 116–283, div. A, title V, § 503(a)(2), Jan. 1, 2021, 134 Stat. 3564.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 103–337, div. A, title V, § 541(b)(1), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–106, div. A, title XV, § 1503(a)(5), Feb. 10, 1996, 110 Stat. 511; Pub. L. 116–283, div. A, title V, § 503(a)(2), Jan. 1, 2021, 134 Stat. 3564.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 558 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
+Provisions similar to those in this section were contained in section 558 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
 
 **Amendments**
 
@@ -263,9 +263,9 @@ Provisions similar to those in this section were contained in section 558 of thi
 
 1996—Subsec. (a)(2). Pub. L. 104–106 substituted “active-duty list” for “active duty list”.
 
-1994—Subsec. (a)(1). Pub. L. 103–337, § 541(b)(1)(A), substituted “Secretary concerned” for “Secretary of a military department”.
+1994—Subsec. (a)(1). Pub. L. 103–337, § 541(b)(1)(A), substituted “Secretary concerned” for “Secretary of a military department”.
 
-Subsec. (a)(2). Pub. L. 103–337, § 541(b)(1)(B), struck out “of the military department” after “Secretary”.
+Subsec. (a)(2). Pub. L. 103–337, § 541(b)(1)(B), struck out “of the military department” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -279,13 +279,13 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **Other Selection Boards**
 
-Pub. L. 116–283, div. A, title V, § 503(c), Jan. 1, 2021, 134 Stat. 3565, provided that:
+Pub. L. 116–283, div. A, title V, § 503(c), Jan. 1, 2021, 134 Stat. 3565, provided that:
 
 > **“(1) In general.—** The Secretary of Defense shall ensure that the members of each selection board described in paragraph (2) represent the diverse population of the Armed Force concerned to the extent practicable.
 
 > **“(2) Selection board described.—** A selection board described in this paragraph (1) is any selection board used with respect to the promotion, education, or command assignments of members of the Armed Forces that is not covered by the amendments made by this section [amending this section and sections 612 and 14102 of this title].”
 
-## § 574. Warrant officer active-duty lists; competitive categories; number to be recommended for promotion; promotion zones
+## § 574. Warrant officer active-duty lists; competitive categories; number to be recommended for promotion; promotion zones
 
 **(a)** The Secretary concerned shall maintain for each armed force under the jurisdiction of that Secretary a single list of all warrant officers (other than warrant officers described in section 582 of this title) who are on active duty.
 
@@ -307,7 +307,7 @@ Pub. L. 116–283, div. A, title V, § 503(c), Jan. 1, 2021, 134 Stat. 3565, p
 
 **(e)** A chief warrant officer may not be considered for promotion to the next higher grade under this chapter until the officer has completed two years of service on active duty in the grade in which the officer is serving.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1494; amended Pub. L. 102–484, div. A, title X, § 1052(3), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, § 541(b)(2), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–201, div. A, title V, § 506(a), Sept. 23, 1996, 110 Stat. 2512.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1494; amended Pub. L. 102–484, div. A, title X, § 1052(3), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, § 541(b)(2), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–201, div. A, title V, § 506(a), Sept. 23, 1996, 110 Stat. 2512.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 575. Recommendations for promotion by selection boards
+## § 575. Recommendations for promotion by selection boards
 
 **(a)** A selection board convened under section 573(a) of this title shall recommend for promotion to the next higher grade those warrant officers considered by the board whom the board, giving due consideration to the needs of the armed force concerned for warrant officers with particular skills, considers best qualified for promotion within each grade (or grade and competitive category) considered by the board.
 
@@ -375,7 +375,7 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests exclusion from consideration.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1495; amended Pub. L. 103–337, div. A, title V, §§ 501(a), 541(b)(3), Oct. 5, 1994, 108 Stat. 2748, 2764; Pub. L. 104–201, div. A, title V, § 506(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 106–65, div. A, title V, § 505, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 117–263, div. A, title V, § 508(a), Dec. 23, 2022, 136 Stat. 2559.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1495; amended Pub. L. 103–337, div. A, title V, §§ 501(a), 541(b)(3), Oct. 5, 1994, 108 Stat. 2748, 2764; Pub. L. 104–201, div. A, title V, § 506(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 106–65, div. A, title V, § 505, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 117–263, div. A, title V, § 508(a), Dec. 23, 2022, 136 Stat. 2559.)
 
 **Editorial Notes**
 
@@ -389,9 +389,9 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 1996—Subsec. (b)(1). Pub. L. 104–201 inserted “chief warrant officer, W–3,” after “promotion to the grade of” in first sentence.
 
-1994—Subsec. (b)(2). Pub. L. 103–337, § 541(b)(3), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
+1994—Subsec. (b)(2). Pub. L. 103–337, § 541(b)(3), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
 
-Subsec. (d). Pub. L. 103–337, § 501(a), inserted “(except for a warrant officer precluded from consideration under regulations prescribed by the Secretary concerned under section 577 of this title)” after “under consideration”.
+Subsec. (d). Pub. L. 103–337, § 501(a), inserted “(except for a warrant officer precluded from consideration under regulations prescribed by the Secretary concerned under section 577 of this title)” after “under consideration”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,7 +407,7 @@ Amendment by section 541(b)(3) of Pub. L. 103–337 effective on the first day o
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 576. Information to be furnished to selection boards; selection procedures
+## § 576. Information to be furnished to selection boards; selection procedures
 
 **(a)** The Secretary concerned shall furnish to each selection board convened under section 573 of this title the following:
 
@@ -435,25 +435,25 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(2)** If, on the basis of a review of the report under paragraph (1), the Secretary concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under this section, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 573 of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with subsection (e).
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1496; amended Pub. L. 103–337, div. A, title V, §§ 501(b), 541(b)(4), Oct. 5, 1994, 108 Stat. 2748, 2764; Pub. L. 117–263, div. A, title V, § 508(b), Dec. 23, 2022, 136 Stat. 2560.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1496; amended Pub. L. 103–337, div. A, title V, §§ 501(b), 541(b)(4), Oct. 5, 1994, 108 Stat. 2748, 2764; Pub. L. 117–263, div. A, title V, § 508(b), Dec. 23, 2022, 136 Stat. 2560.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 560 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
+Provisions similar to those in this section were contained in section 560 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
 
 **Amendments**
 
 2022—Subsec. (c). Pub. L. 117–263 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The names of warrant officers selected for promotion under this section shall be arranged in the board’s report in order of the seniority on the warrant officer active-duty list.”
 
-1994—Subsec. (a). Pub. L. 103–337, § 541(b)(4)(A), struck out “of the military department” after “The Secretary” in introductory provisions.
+1994—Subsec. (a). Pub. L. 103–337, § 541(b)(4)(A), struck out “of the military department” after “The Secretary” in introductory provisions.
 
-Subsec. (e). Pub. L. 103–337, § 541(b)(4)(B), struck out “of the military department” after “submitted to the Secretary”.
+Subsec. (e). Pub. L. 103–337, § 541(b)(4)(B), struck out “of the military department” after “submitted to the Secretary”.
 
-Subsec. (f)(1). Pub. L. 103–337, § 501(b), struck out after first sentence “Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (e).”
+Subsec. (f)(1). Pub. L. 103–337, § 501(b), struck out after first sentence “Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (e).”
 
-Subsec. (f)(2). Pub. L. 103–337, § 541(b)(4)(C), struck out “of the military department” after “paragraph (1), the Secretary”.
+Subsec. (f)(2). Pub. L. 103–337, § 541(b)(4)(C), struck out “of the military department” after “paragraph (1), the Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -465,17 +465,17 @@ Amendment by section 541(b)(4) of Pub. L. 103–337 effective on the first day o
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 577. Promotions: effect of failure of selection for
+## § 577. Promotions: effect of failure of selection for
 
 A warrant officer who has been considered for promotion by a selection board convened under section 573 of this title, but not selected, shall be considered for promotion by each subsequent selection board that considers officers in his grade (or grade and competitive category) until he is retired or separated or he is selected for promotion. However, the Secretary concerned may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, a warrant officer who has an established separation date that is within 90 days after the date on which the board is convened or an approved retirement date.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1497; amended Pub. L. 118–159, div. A, title V, § 503(a), Dec. 23, 2024, 138 Stat. 1868.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1497; amended Pub. L. 118–159, div. A, title V, § 503(a), Dec. 23, 2024, 138 Stat. 1868.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 561 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
+Provisions similar to those in this section were contained in section 561 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
 
 **Amendments**
 
@@ -487,7 +487,7 @@ Provisions similar to those in this section were contained in section 561 of thi
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 578. Promotions: how made; effective date
+## § 578. Promotions: how made; effective date
 
 **(a)** When the report of a selection board convened under this chapter is approved by the Secretary concerned, the Secretary shall place the names of the warrant officers approved for promotion on a single promotion list for each grade (or grade and competitive category), in the order set forth in section 576(c) of this title.
 
@@ -503,7 +503,7 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(g)** Notwithstanding subsection (d), and subject to regulations prescribed by the Secretary of Defense, in the case of a warrant officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the warrant officer’s name on the applicable promotion list as approved for transfer to a new component within the same or a different armed force, the Secretary concerned may place the warrant officer’s name on a corresponding promotion list of the new component without regard to the warrant officer’s competitive category. A warrant officer’s promotion under this subsection shall be made pursuant to section 12242 of this title.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1497; amended Pub. L. 102–484, div. A, title X, § 1052(4), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, § 501(c), Oct. 5, 1994, 108 Stat. 2748; Pub. L. 117–263, div. A, title V, § 508(c), Dec. 23, 2022, 136 Stat. 2560; Pub. L. 118–31, div. A, title V, § 503(a), Dec. 22, 2023, 137 Stat. 240; Pub. L. 118–159, div. A, title XVII, § 1701(a)(13), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1497; amended Pub. L. 102–484, div. A, title X, § 1052(4), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, § 501(c), Oct. 5, 1994, 108 Stat. 2748; Pub. L. 117–263, div. A, title V, § 508(c), Dec. 23, 2022, 136 Stat. 2560; Pub. L. 118–31, div. A, title V, § 503(a), Dec. 22, 2023, 137 Stat. 240; Pub. L. 118–159, div. A, title XVII, § 1701(a)(13), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -525,7 +525,7 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 579. Removal from a promotion list
+## § 579. Removal from a promotion list
 
 **(a)** The name of a warrant officer recommended for promotion by a selection board convened under this chapter may be removed from the report of the selection board by the President.
 
@@ -537,13 +537,13 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(e)** If the next selection board does not select the warrant officer for promotion, or if his name is again removed under subsection (a) from the list of officers recommended for promotion by the selection board or under subsection (b) from the warrant officer promotion list, he shall be treated for all purposes as if he has twice failed of selection for promotion.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1497.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 562 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
+Provisions similar to those in this section were contained in section 562 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -551,7 +551,7 @@ Provisions similar to those in this section were contained in section 562 of thi
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 580. Regular warrant officers twice failing of selection for promotion: involuntary retirement or separation
+## § 580. Regular warrant officers twice failing of selection for promotion: involuntary retirement or separation
 
 **(a)**
 
@@ -565,9 +565,9 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(A)** If a warrant officer described in paragraph (1) has less than 18 years of creditable active service on (i) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (ii) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be separated (except as provided in subparagraph (C)). The date of such separation shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence.
 
-**(B)** A warrant officer separated under this paragraph shall receive separation pay computed under section 1174 of this title, or severance pay computed under section 286a 1
+**(B)** A warrant officer separated under this paragraph shall receive separation pay computed under section 1174 of this title, or severance pay computed under section 286a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14, as appropriate, except in a case in which—
 
@@ -617,37 +617,37 @@ Notwithstanding subparagraph (A), a warrant officer who would otherwise be disch
 
 **(f)** A warrant officer subject to discharge or retirement under this section, but against whom any action has been commenced with a view to trying the officer by court-martial, may be continued on active duty, without prejudice to such action, until the completion of such action.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1498; amended Pub. L. 103–160, div. A, title V, § 505(a), Nov. 30, 1993, 107 Stat. 1645; Pub. L. 103–337, div. A, title V, § 541(b)(5), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–364, div. A, title V, § 505(a), (b), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 111–383, div. A, title V, § 541, Jan. 7, 2011, 124 Stat. 4218.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1498; amended Pub. L. 103–160, div. A, title V, § 505(a), Nov. 30, 1993, 107 Stat. 1645; Pub. L. 103–337, div. A, title V, § 541(b)(5), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–364, div. A, title V, § 505(a), (b), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 111–383, div. A, title V, § 541, Jan. 7, 2011, 124 Stat. 4218.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 286a of title 14, referred to in subsec. (a)(4)(B), was redesignated section 2147 of title 14 by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 286a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 286a of title 14, referred to in subsec. (a)(4)(B), was redesignated section 2147 of title 14 by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 286a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a)(6), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note below.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 564 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
+Provisions similar to those in this section were contained in section 564 of this title prior to repeal by Pub. L. 102–190, § 1112(a).
 
 **Amendments**
 
 2011—Subsec. (f). Pub. L. 111–383 added subsec. (f).
 
-2006—Subsec. (e)(1). Pub. L. 109–364, § 505(a), substituted “continued on active duty if—” and subpars. (A) and (B) for “continued on active duty if he is selected for continuation on active duty by a selection board convened under section 573(c) of this title.”
+2006—Subsec. (e)(1). Pub. L. 109–364, § 505(a), substituted “continued on active duty if—” and subpars. (A) and (B) for “continued on active duty if he is selected for continuation on active duty by a selection board convened under section 573(c) of this title.”
 
-Subsec. (e)(2). Pub. L. 109–364, § 505(b), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (e)(2). Pub. L. 109–364, § 505(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
 2002—Subsec. (e)(6). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Subsec. (a)(4)(B). Pub. L. 103–337, § 541(b)(5)(A), inserted “, or severance pay computed under section 286a of title 14, as appropriate,” after “section 1174 of this title”.
+1994—Subsec. (a)(4)(B). Pub. L. 103–337, § 541(b)(5)(A), inserted “, or severance pay computed under section 286a of title 14, as appropriate,” after “section 1174 of this title”.
 
-Subsec. (e)(6). Pub. L. 103–337, § 541(b)(5)(B), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
+Subsec. (e)(6). Pub. L. 103–337, § 541(b)(5)(B), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
 
-1993—Subsec. (a)(4)(A). Pub. L. 103–160, § 505(a)(1), inserted “(except as provided in subparagraph (C))” after “shall be separated”.
+1993—Subsec. (a)(4)(A). Pub. L. 103–160, § 505(a)(1), inserted “(except as provided in subparagraph (C))” after “shall be separated”.
 
-Subsec. (a)(4)(C). Pub. L. 103–160, § 505(a)(2), added subpar. (C).
+Subsec. (a)(4)(C). Pub. L. 103–160, § 505(a)(2), added subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -661,7 +661,7 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title V, § 505(b), Nov. 30, 1993, 107 Stat. 1646, provided that: “The amendments made by subsection (a) [amending this section] shall apply to warrant officers who have not been separated pursuant to section 580(a)(4) of title 10, United States Code, before the date of enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. A, title V, § 505(b), Nov. 30, 1993, 107 Stat. 1646, provided that: “The amendments made by subsection (a) [amending this section] shall apply to warrant officers who have not been separated pursuant to section 580(a)(4) of title 10, United States Code, before the date of enactment of this Act [Nov. 30, 1993].”
 
 **Effective Date**
 
@@ -669,9 +669,9 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **Retired and Retainer Pay of Members on Retired Lists or Receiving Retainer Pay**
 
-Act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, as amended May 19, 1952, ch. 310, § 4, 66 Stat. 80; Apr. 23, 1956, ch. 208, § 1, 70 Stat. 114, set forth methods of computing retired pay, retirement pay, retainer pay, or equivalent pay on and after Oct. 1, 1949, for members of the uniformed services who had retired for reasons other than for physical disability before Oct. 1, 1949, members who had transferred to the Fleet Reserve or the Fleet Marine Corps Reserve before such date, and certain members of the Army Nurse Corps or the Navy Nurse Corps who had retired before such date, and provided that the amount of such pay would not exceed 75 percentum of the monthly basic pay upon which the computation had been based.
+Act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, as amended May 19, 1952, ch. 310, § 4, 66 Stat. 80; Apr. 23, 1956, ch. 208, § 1, 70 Stat. 114, set forth methods of computing retired pay, retirement pay, retainer pay, or equivalent pay on and after Oct. 1, 1949, for members of the uniformed services who had retired for reasons other than for physical disability before Oct. 1, 1949, members who had transferred to the Fleet Reserve or the Fleet Marine Corps Reserve before such date, and certain members of the Army Nurse Corps or the Navy Nurse Corps who had retired before such date, and provided that the amount of such pay would not exceed 75 percentum of the monthly basic pay upon which the computation had been based.
 
-## § 580a. Enhanced authority for selective early discharges
+## § 580a. Enhanced authority for selective early discharges
 
 **(a)** The Secretary of Defense may authorize the Secretary of a military department, during the period beginning on October 1, 2015, and ending on October 1, 2019, to take the action set forth in subsection (b) with respect to regular warrant officers of an armed force under the jurisdiction of that Secretary.
 
@@ -705,21 +705,21 @@ Act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, as amended May 19, 
 
 **(e)** This section applies to the Secretary of Homeland Security in the same manner and to the same extent as it applies to the Secretary of Defense. The Commandant of the Coast Guard shall take the action set forth in subsection (b) with respect to regular warrant officers of the Coast Guard.
 
-(Added Pub. L. 103–160, div. A, title V, § 504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L. 103–337, div. A, title V, § 541(g), title X, § 1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–92, div. A, title V, § 501, Nov. 25, 2015, 129 Stat. 806.)
+(Added Pub. L. 103–160, div. A, title V, § 504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L. 103–337, div. A, title V, § 541(g), title X, § 1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–92, div. A, title V, § 501, Nov. 25, 2015, 129 Stat. 806.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–92, § 501(1), substituted “October 1, 2015, and ending on October 1, 2019” for “November 30, 1993, and ending on October 1, 1999”.
+2015—Subsec. (a). Pub. L. 114–92, § 501(1), substituted “October 1, 2015, and ending on October 1, 2019” for “November 30, 1993, and ending on October 1, 1999”.
 
-Subsec. (c)(3) to (5). Pub. L. 114–92, § 501(2), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.”
+Subsec. (c)(3) to (5). Pub. L. 114–92, § 501(2), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.”
 
 2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Subsec. (a). Pub. L. 103–337, § 1070(a)(3), substituted “November 30, 1993,” for “the date of the enactment of this section”.
+1994—Subsec. (a). Pub. L. 103–337, § 1070(a)(3), substituted “November 30, 1993,” for “the date of the enactment of this section”.
 
-Subsec. (e). Pub. L. 103–337, § 541(g), added subsec. (e).
+Subsec. (e). Pub. L. 103–337, § 541(g), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -731,7 +731,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by section 541(g) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
 
-## § 581. Selective retirement
+## § 581. Selective retirement
 
 **(a)** A regular warrant officer who holds a warrant officer grade above warrant officer, W–1, and whose name is not on a list of warrant officers recommended for promotion and who is eligible to retire under any provision of law may be considered for retirement by a selection board convened under section 573(c) of this title. The Secretary concerned shall specify the maximum number of warrant officers that such a board may recommend for retirement.
 
@@ -757,15 +757,15 @@ Amendment by section 541(g) of Pub. L. 103–337 effective on the first day of t
 
 **(2)** An officer recommended for early retirement under this section, if approved for deferral under paragraph (1), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, § 1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, § 541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, § 504(a), Feb. 10, 1996, 110 Stat. 295; Pub. L. 113–291, div. A, title V, §§ 501, 502(a), Dec. 19, 2014, 128 Stat. 3353.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, § 1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, § 541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, § 504(a), Feb. 10, 1996, 110 Stat. 295; Pub. L. 113–291, div. A, title V, §§ 501, 502(a), Dec. 19, 2014, 128 Stat. 3353.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (d). Pub. L. 113–291, § 501, redesignated second sentence of par. (1) as (2) and former par. (2) as (3), and, in par. (2), substituted “the list shall include—” for “the list shall include each”, inserted “(A) the name of each” before “warrant officer on the active-duty list”, substituted “; or” for period at end, and added subpar. (B).
+2014—Subsec. (d). Pub. L. 113–291, § 501, redesignated second sentence of par. (1) as (2) and former par. (2) as (3), and, in par. (2), substituted “the list shall include—” for “the list shall include each”, inserted “(A) the name of each” before “warrant officer on the active-duty list”, substituted “; or” for period at end, and added subpar. (B).
 
-Subsec. (e). Pub. L. 113–291, § 502(a), designated existing provisions as par. (1), substituted “three months” for “90 days”, and added par. (2).
+Subsec. (e). Pub. L. 113–291, § 502(a), designated existing provisions as par. (1), substituted “three months” for “90 days”, and added par. (2).
 
 1996—Subsec. (e). Pub. L. 104–106 added subsec. (e).
 
@@ -783,7 +783,7 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 582. Warrant officer active-duty list: exclusions
+## § 582. Warrant officer active-duty list: exclusions
 
 Warrant officers in the following categories are not subject to this chapter:
 
@@ -797,7 +797,7 @@ Warrant officers in the following categories are not subject to this chapter:
 
 **(3)** Students enrolled in the Army Physician’s Assistant Program.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 103–337, div. A, title V, § 501(d), Oct. 5, 1994, 108 Stat. 2748; Pub. L. 104–106, div. A, title XV, § 1501(c)(5), Feb. 10, 1996, 110 Stat. 498; Pub. L. 108–375, div. A, title IV, § 416(i), Oct. 28, 2004, 118 Stat. 1869.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 103–337, div. A, title V, § 501(d), Oct. 5, 1994, 108 Stat. 2748; Pub. L. 104–106, div. A, title XV, § 1501(c)(5), Feb. 10, 1996, 110 Stat. 498; Pub. L. 108–375, div. A, title IV, § 416(i), Oct. 28, 2004, 118 Stat. 1869.)
 
 **Editorial Notes**
 
@@ -825,13 +825,13 @@ Par. (1)(D). Pub. L. 104–106 substituted “section 12304” for “section 67
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date**
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-## § 583. Definitions
+## § 583. Definitions
 
 In this chapter:
 
@@ -857,19 +857,19 @@ In this chapter:
 
 **(C)** are junior to the junior warrant officer in the promotion zone.
 
-**(4)** The active-duty list referred to in section 573(b) of this title includes the active-duty promotion list established by section 41a 1
+**(4)** The active-duty list referred to in section 573(b) of this title includes the active-duty promotion list established by section 41a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14.
 
-(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1501; amended Pub. L. 103–337, div. A, title V, § 541(f)(7), Oct. 5, 1994, 108 Stat. 2767.)
+(Added Pub. L. 102–190, div. A, title XI, § 1112(a), Dec. 5, 1991, 105 Stat. 1501; amended Pub. L. 103–337, div. A, title V, § 541(f)(7), Oct. 5, 1994, 108 Stat. 2767.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 41a of title 14, referred to in par. (4), was redesignated section 2102 of title 14 by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 41a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 41a of title 14, referred to in par. (4), was redesignated section 2102 of title 14 by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 41a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 26—DEEP SEABED HARD MINERAL RESOURCES
 
-## § 1401. Congressional findings and declaration of purpose
+## § 1401. Congressional findings and declaration of purpose
 
 **(a) Findings** The Congress finds that—
 
@@ -63,25 +63,25 @@ retrieved: 2026-10-11
 
 **(5)** to encourage the continued development of technology necessary to recover the hard mineral resources of the deep seabed.
 
-(Pub. L. 96–283, § 2, June 28, 1980, 94 Stat. 553.)
+(Pub. L. 96–283, § 2, June 28, 1980, 94 Stat. 553.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–283, June 28, 1980, 94 Stat. 553, known as the Deep Seabed Hard Mineral Resources Act, which is classified principally to this chapter (§ 1401 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–283, June 28, 1980, 94 Stat. 553, known as the Deep Seabed Hard Mineral Resources Act, which is classified principally to this chapter (§ 1401 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–507, § 1, Oct. 21, 1986, 100 Stat. 1847, provided that: “This Act [amending section 1470 of this title] may be cited as the ‘Deep Seabed Hard Mineral Resources Reauthorization Act of 1986’.”
+Pub. L. 99–507, § 1, Oct. 21, 1986, 100 Stat. 1847, provided that: “This Act [amending section 1470 of this title] may be cited as the ‘Deep Seabed Hard Mineral Resources Reauthorization Act of 1986’.”
 
 **Short Title**
 
-Pub. L. 96–283, § 1, June 28, 1980, 94 Stat. 553, provided that: “This Act [enacting this chapter and sections 4495 to 4498 of Title 26, Internal Revenue Code, and enacting a provision set out as a note under section 4495 of Title 26] may be cited as the ‘Deep Seabed Hard Mineral Resources Act’.”
+Pub. L. 96–283, § 1, June 28, 1980, 94 Stat. 553, provided that: “This Act [enacting this chapter and sections 4495 to 4498 of Title 26, Internal Revenue Code, and enacting a provision set out as a note under section 4495 of Title 26] may be cited as the ‘Deep Seabed Hard Mineral Resources Act’.”
 
-## § 1402. International objectives
+## § 1402. International objectives
 
 **(a) Disclaimer of extraterritorial sovereignty** By the enactment of this chapter, the United States—
 
@@ -95,9 +95,9 @@ Pub. L. 96–283, § 1, June 28, 1980, 94 Stat. 553, provided that: “This Ac
 
 **(2)** Until such a Treaty is concluded, the Secretary of State is encouraged to promote any international actions necessary to adequately protect the environment from adverse impacts which may result from any exploration for and commercial recovery of hard mineral resources of the deep seabed carried out by persons not subject to this chapter.
 
-(Pub. L. 96–283, § 3, June 28, 1980, 94 Stat. 555.)
+(Pub. L. 96–283, § 3, June 28, 1980, 94 Stat. 555.)
 
-## § 1403. Definitions
+## § 1403. Definitions
 
 For purposes of this chapter, the term—
 
@@ -157,11 +157,11 @@ For purposes of this chapter, the term—
 
 **(C)** any corporation, partnership, joint venture, association, or other entity (whether organized or existing under the laws of any of the United States or a foreign nation) if the controlling interest in such entity is held by an individual or entity described in subparagraph (A) or (B).
 
-(Pub. L. 96–283, § 4, June 28, 1980, 94 Stat. 555.)
+(Pub. L. 96–283, § 4, June 28, 1980, 94 Stat. 555.)
 
 ## SUBCHAPTER I—REGULATION OF EXPLORATION AND COMMERCIAL RECOVERY BY UNITED STATES CITIZENS
 
-### § 1411. Prohibited activities by United States citizens
+### § 1411. Prohibited activities by United States citizens
 
 **(a) Prohibited activities and exceptions**
 
@@ -201,9 +201,9 @@ For purposes of this chapter, the term—
 
 No United States citizen may interfere or participate in interference with any activity conducted by any licensee or permittee which is authorized to be undertaken under a license or permit issued by the United States to the licensee or permittee under this chapter or with any activity conducted by the holder of, and authorized to be undertaken under, a license or permit or equivalent authorization issued by a reciprocating state for the exploration or commercial recovery of hard mineral resources. United States citizens shall exercise their rights on the high seas with reasonable regard for the interests of other states in their exercise of the freedoms of the high seas.
 
-(Pub. L. 96–283, title I, § 101, June 28, 1980, 94 Stat. 557.)
+(Pub. L. 96–283, title I, § 101, June 28, 1980, 94 Stat. 557.)
 
-### § 1412. Licenses for exploration and permits for commercial recovery
+### § 1412. Licenses for exploration and permits for commercial recovery
 
 **(a) Authority to issue**
 
@@ -239,7 +239,7 @@ Subject to the provisions of this chapter, the Administrator shall issue to appl
 
 **(3)** Each permittee shall use at least one vessel documented under the laws of the United States for the transportation from each mining site of hard mineral resources recovered under the permit issued to the permittee.
 
-**(4)** For purposes of the shipping laws of the United States, any vessel documented under the laws of the United States and used in the commercial recovery, processing, or transportation from any mining site of hard mineral resources recovered under a permit issued under this subchapter shall be deemed to be used in, and used in an essential service in, the foreign commerce or foreign trade of the United States, as defined in section 109 of title 46, and shall be deemed to be a vessel as defined in section 53701(13) 1
+**(4)** For purposes of the shipping laws of the United States, any vessel documented under the laws of the United States and used in the commercial recovery, processing, or transportation from any mining site of hard mineral resources recovered under a permit issued under this subchapter shall be deemed to be used in, and used in an essential service in, the foreign commerce or foreign trade of the United States, as defined in section 109 of title 46, and shall be deemed to be a vessel as defined in section 53701(13) 1
 
 <sup>1</sup> See References in Text note below.
 
@@ -251,19 +251,19 @@ of title 46.
 
 **(B)** satisfactory assurances have been given by the permittee that such resource, after processing, to the extent of the permittee’s ownership therein, will be returned to the United States for domestic use, if the Administrator so requires after determining that the national interest necessitates such return.
 
-(Pub. L. 96–283, title I, § 102, June 28, 1980, 94 Stat. 558.)
+(Pub. L. 96–283, title I, § 102, June 28, 1980, 94 Stat. 558.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 53701(13) of title 46, referred to in subsec. (c)(4), was redesignated section 53701(14) of title 46 by Pub. L. 114–120, title III, § 302(a)(1)(A), Feb. 8, 2016, 130 Stat. 51.
+Section 53701(13) of title 46, referred to in subsec. (c)(4), was redesignated section 53701(14) of title 46 by Pub. L. 114–120, title III, § 302(a)(1)(A), Feb. 8, 2016, 130 Stat. 51.
 
 **Codification**
 
-In subsec. (c)(4), “section 109 of title 46” substituted for “section 905(a) of the Merchant Marine Act, 1936” and “section 53701(13) of title 46” substituted for “section 1101(b) of that Act” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 109 and 53701 of Title 46, Shipping.
+In subsec. (c)(4), “section 109 of title 46” substituted for “section 905(a) of the Merchant Marine Act, 1936” and “section 53701(13) of title 46” substituted for “section 1101(b) of that Act” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 109 and 53701 of Title 46, Shipping.
 
-### § 1413. License and permit applications, review, and certification
+### § 1413. License and permit applications, review, and certification
 
 **(a) Applications**
 
@@ -337,7 +337,7 @@ All time periods for the review of an application for issuance or transfer of a 
 
 Upon making the applicable determinations and findings required in sections 1411, 1412 of this title, and this section with respect to any applicant for the issuance or transfer of a license or a permit and the exploration or commercial recovery proposed by such applicant, after completion of procedures for receiving the application required by this chapter, and upon payment by the applicant of the fee required under section 1414 of this title, the Administrator shall certify the application for the issuance or transfer of the license or permit. The Administrator, to the maximum extent possible, shall endeavor to complete certification action on the application within 100 days after its submission. If final certification or denial of certification has not occurred within 100 days after submission of the application, the Administrator shall inform the applicant in writing of the then pending unresolved issues, the Administrator’s efforts to resolve them, and an estimate of the time required to do so.
 
-(Pub. L. 96–283, title I, § 103, June 28, 1980, 94 Stat. 560; Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(E), Nov. 2, 2002, 116 Stat. 1921.)
+(Pub. L. 96–283, title I, § 103, June 28, 1980, 94 Stat. 560; Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(E), Nov. 2, 2002, 116 Stat. 1921.)
 
 **Editorial Notes**
 
@@ -351,7 +351,7 @@ The Clayton Act (15 U.S.C. 12 et seq.), referred to in subsec. (d)(7), is act Oc
 
 Act of June 19, 1936 (commonly known as the Robinson-Patman Price Discrimination Act; 15 U.S.C. 13–13b and 21a), referred to in subsec. (d)(7), is act June 19, 1936, ch. 592, 49 Stat. 1526, also known as the Robinson-Patman Antidiscrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
-The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in subsec. (d)(7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in subsec. (d)(7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 **Amendments**
 
@@ -363,13 +363,13 @@ The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in subsec. 
 
 Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of Title 15, Commerce and Trade.
 
-### § 1414. License and permit fees
+### § 1414. License and permit fees
 
 No application for the issuance or transfer of a license for exploration or permit for commercial recovery shall be certified unless the applicant pays to the Administrator a reasonable administrative fee which shall be deposited into miscellaneous receipts of the Treasury. The amount of the administrative fee imposed by the Administrator on any applicant shall reflect the reasonable administrative costs incurred in reviewing and processing the application.
 
-(Pub. L. 96–283, title I, § 104, June 28, 1980, 94 Stat. 563.)
+(Pub. L. 96–283, title I, § 104, June 28, 1980, 94 Stat. 563.)
 
-### § 1415. License and permit terms, conditions, and restrictions; issuance and transfer of licenses and permits
+### § 1415. License and permit terms, conditions, and restrictions; issuance and transfer of licenses and permits
 
 **(a) Eligibility for issuance or transfer of license or permit** Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments received with respect to the license or permit, that the exploration or commercial recovery proposed in the application—
 
@@ -413,13 +413,13 @@ No application for the issuance or transfer of a license for exploration or perm
 
 Prior to making a determination to issue, transfer, modify, or renew a license or permit under this section, the Administrator shall consult with any affected Regional Fishery Management Council established pursuant to section 1852 of title 16, if the activities undertaken pursuant to such license or permit could adversely affect any fishery within the Fishery Conservation Zone, or any anadromous species or Continental Shelf fishery resource subject to the exclusive management authority of the United States beyond such zone.
 
-(Pub. L. 96–283, title I, § 105, June 28, 1980, 94 Stat. 563; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 96–283, title I, § 105, June 28, 1980, 94 Stat. 563; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fishery Conservation Zone, referred to in subsec. (d), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16.
+The Fishery Conservation Zone, referred to in subsec. (d), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16.
 
 **Amendments**
 
@@ -431,13 +431,13 @@ The Fishery Conservation Zone, referred to in subsec. (d), probably means the fi
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
-### § 1416. Denial of certification of applications and of issuance, transfer, suspension, and revocation of licenses and permits; suspension and modification of activities
+### § 1416. Denial of certification of applications and of issuance, transfer, suspension, and revocation of licenses and permits; suspension and modification of activities
 
 **(a) Denial, suspension, modification, and revocation**
 
@@ -473,9 +473,9 @@ The issuance of any notice of proposed suspension or revocation of a license for
 
 Any determination of the Administrator, after any appropriate administrative review under subsection (b), to certify or deny certification of an application for the issuance or transfer of, or to issue, deny issuance of, transfer, deny the transfer of, modify, renew, suspend, or revoke any license for exploration or permit for commercial recovery, or suspend or modify particular activities under such a license or permit, or any immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, pursuant to subsection (c), is subject to judicial review as provided in chapter 7 of title 5.
 
-(Pub. L. 96–283, title I, § 106, June 28, 1980, 94 Stat. 565.)
+(Pub. L. 96–283, title I, § 106, June 28, 1980, 94 Stat. 565.)
 
-### § 1417. Duration of licenses and permits
+### § 1417. Duration of licenses and permits
 
 **(a) Duration of a license**
 
@@ -485,9 +485,9 @@ Each license for exploration shall be issued for a period of 10 years. If the li
 
 Each permit for commercial recovery shall be issued for a term of 20 years and for so long thereafter as hard mineral resources are recovered annually in commercial quantities from the area to which the recovery plan associated with the permit applies. The permit of any permittee who is not recovering hard mineral resources in commercial quantities at the end of 10 years shall be terminated; except that the Administrator shall for good cause shown, including force majeure, adverse economic conditions, unavoidable delays in construction, major unanticipated vessel repairs that prevent the permittee from conducting commercial recovery activities during an annual period, or other circumstances beyond the control of the permittee, extend the 10-year period, but not beyond the initial 20-year term of the permit.
 
-(Pub. L. 96–283, title I, § 107, June 28, 1980, 94 Stat. 567.)
+(Pub. L. 96–283, title I, § 107, June 28, 1980, 94 Stat. 567.)
 
-### § 1418. Diligence requirements
+### § 1418. Diligence requirements
 
 **(a) In general**
 
@@ -501,9 +501,9 @@ Each license shall require such periodic reasonable expenditures for exploration
 
 Once commercial recovery is achieved, the Administrator shall, within reasonable limits and taking into consideration all relevant factors, require the permittee to maintain commercial recovery throughout the period of the permit; except that the Administrator shall for good cause shown, including force majeure, adverse economic conditions, or other circumstances beyond the control of the permittee, authorize the temporary suspension of commercial recovery activities. The duration of such a suspension shall not exceed one year at any one time, unless the Administrator determines that conditions justify an extension of the suspension.
 
-(Pub. L. 96–283, title I, § 108, June 28, 1980, 94 Stat. 567.)
+(Pub. L. 96–283, title I, § 108, June 28, 1980, 94 Stat. 567.)
 
-### § 1419. Protection of the environment
+### § 1419. Protection of the environment
 
 **(a) Environmental assessment**
 
@@ -561,13 +561,13 @@ For the purposes of this chapter, any vessel or other floating craft engaged in 
 
 **(4)** For purposes of this section “stable reference areas” shall mean an area or areas of the deep seabed to be used as a reference zone or zones for purposes of resource evaluation and environmental assessment of deep seabed mining in which no mining will occur.
 
-(Pub. L. 96–283, title I, § 109, June 28, 1980, 94 Stat. 568.)
+(Pub. L. 96–283, title I, § 109, June 28, 1980, 94 Stat. 568.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -575,19 +575,19 @@ The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1420. Conservation of natural resources
+### § 1420. Conservation of natural resources
 
 For the purpose of conservation of natural resources, each license and permit issued under this subchapter shall contain, as needed, terms, conditions, and restrictions which have due regard for the prevention of waste and the future opportunity for the commercial recovery of the unrecovered balance of the hard mineral resources in the area to which the license or permit applies. In establishing these terms, conditions, and restrictions, the Administrator shall consider the state of the technology, the processing system utilized and the value and potential use of any waste, the environmental effects of the exploration or commercial recovery activities, economic and resource data, and the national need for hard mineral resources. As used in this chapter, the term “conservation of natural resources” is not intended to grant, imply, or create any inference of production controls or price regulation, in particular those which would affect the volume of production, prices, profits, markets, or the decision of which minerals or metals are to be recovered, except as such effects may be incidental to actions taken pursuant to this section.
 
-(Pub. L. 96–283, title I, § 110, June 28, 1980, 94 Stat. 570.)
+(Pub. L. 96–283, title I, § 110, June 28, 1980, 94 Stat. 570.)
 
-### § 1421. Prevention of interference with other uses of the high seas
+### § 1421. Prevention of interference with other uses of the high seas
 
 Each license and permit issued under this subchapter shall include such restrictions as may be necessary and appropriate to ensure that exploration or commercial recovery activities conducted by the licensee or permittee do not unreasonably interfere with the interests of other states in their exercise of the freedoms of the high seas, as recognized under general principles of international law.
 
-(Pub. L. 96–283, title I, § 111, June 28, 1980, 94 Stat. 571.)
+(Pub. L. 96–283, title I, § 111, June 28, 1980, 94 Stat. 571.)
 
-### § 1422. Safety of life and property at sea
+### § 1422. Safety of life and property at sea
 
 **(a) Conditions regarding vessels**
 
@@ -597,19 +597,19 @@ The Secretary of the department in which the Coast Guard is operating, in consul
 
 Notwithstanding any other provision of law, any vessel described in subsection (a) shall be subject to the provisions of chapter 51 of title 46, and to the provisions of titles 52 and 53 of the Revised Statutes and all Acts amendatory thereof or supplementary thereto.
 
-(Pub. L. 96–283, title I, § 112, June 28, 1980, 94 Stat. 571.)
+(Pub. L. 96–283, title I, § 112, June 28, 1980, 94 Stat. 571.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 52 of the Revised Statutes, referred to in subsec. (b), consisted of R.S. §§ 4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§ 4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, see Disposition Table preceding section 101 of Title 46.
+Title 52 of the Revised Statutes, referred to in subsec. (b), consisted of R.S. §§ 4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§ 4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, see Disposition Table preceding section 101 of Title 46.
 
-Title 53 of the Revised Statutes, referred to in subsec. (b), consisted of R.S. §§ 4501 to 4612, which were classified to sections 541 to 543, 545 to 549, 561, 562, 564 to 571, 574 to 578, 591 to 597, 600, 602 to 605, 621 to 628, 641 to 643, 644, 645, 651 to 660, 661 to 669, 674 to 679, 681 to 687, 701 to 710, and 711 to 713 of former Title 46, Shipping. For complete classification of R.S. §§ 4501 to 4612 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, see Disposition Table preceding section 101 of Title 46.
+Title 53 of the Revised Statutes, referred to in subsec. (b), consisted of R.S. §§ 4501 to 4612, which were classified to sections 541 to 543, 545 to 549, 561, 562, 564 to 571, 574 to 578, 591 to 597, 600, 602 to 605, 621 to 628, 641 to 643, 644, 645, 651 to 660, 661 to 669, 674 to 679, 681 to 687, 701 to 710, and 711 to 713 of former Title 46, Shipping. For complete classification of R.S. §§ 4501 to 4612 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, see Disposition Table preceding section 101 of Title 46.
 
 **Codification**
 
-In subsec. (b), “chapter 51 of title 46” substituted for “the International Voyage Load Line Act of 1973” on authority of Pub. L. 99–509, title V, § 5103(b), Oct. 21, 1986, 100 Stat. 1927, section 5101 of which enacted parts C and J of subtitle II of Title 46, Shipping.
+In subsec. (b), “chapter 51 of title 46” substituted for “the International Voyage Load Line Act of 1973” on authority of Pub. L. 99–509, title V, § 5103(b), Oct. 21, 1986, 100 Stat. 1927, section 5101 of which enacted parts C and J of subtitle II of Title 46, Shipping.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -617,7 +617,7 @@ In subsec. (b), “chapter 51 of title 46” substituted for “the Internationa
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1423. Records, audits, and public disclosure
+### § 1423. Records, audits, and public disclosure
 
 **(a) Records and audits**
 
@@ -627,9 +627,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(b) Submission of data and information**
 
-Each licensee and permittee shall be required to submit to the Administrator such data or other information as the Administrator may reasonably need for purposes of making determinations with respect to the issuance, revocation, modification, or suspension of any license or permit; compliance with the reporting requirement contained in section 1469 1
+Each licensee and permittee shall be required to submit to the Administrator such data or other information as the Administrator may reasonably need for purposes of making determinations with respect to the issuance, revocation, modification, or suspension of any license or permit; compliance with the reporting requirement contained in section 1469 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and evaluation of the exploration or commercial recovery activities conducted by the licensee or permittee.
 
@@ -637,7 +637,7 @@ of this title; and evaluation of the exploration or commercial recovery activiti
 
 Copies of any document, report, communication, or other record maintained or received by the Administrator containing data or information required under this subchapter shall be made available to any person upon any request which (1) reasonably describes such record and (2) is made in accordance with rules adopted by the Administrator stating the time, place, fees (if any, not to exceed the direct cost of the services rendered), and procedures to be followed, except that neither the Administrator nor any other officer or employee of the United States may disclose any data or information knowingly and willingly required under this subchapter the disclosure of which is prohibited by section 1905 of title 18. Any officer or employee of the United States who discloses data or information in violation of this subsection shall be subject to the penalties set forth in section 1463(b) of this title.
 
-(Pub. L. 96–283, title I, § 113, June 28, 1980, 94 Stat. 571.)
+(Pub. L. 96–283, title I, § 113, June 28, 1980, 94 Stat. 571.)
 
 **Editorial Notes**
 
@@ -645,7 +645,7 @@ Copies of any document, report, communication, or other record maintained or rec
 
 Section 1469 of this title, referred to in subsec. (b), was omitted from the Code.
 
-### § 1424. Monitoring of activities of licensees and permittees
+### § 1424. Monitoring of activities of licensees and permittees
 
 Each license and permit issued under this subchapter shall require the licensee or permittee—
 
@@ -655,9 +655,9 @@ Each license and permit issued under this subchapter shall require the licensee 
 
 **(3)** to monitor the environmental effects of the exploration and commercial recovery activities in accordance with guidelines issued by the Administrator and to submit such information as the Administrator finds to be necessary and appropriate to assess environmental impacts and to develop and evaluate possible methods of mitigating adverse environmental effects.
 
-(Pub. L. 96–283, title I, § 114, June 28, 1980, 94 Stat. 572.)
+(Pub. L. 96–283, title I, § 114, June 28, 1980, 94 Stat. 572.)
 
-### § 1425. Relinquishment, surrender, and transfer of licenses and permits
+### § 1425. Relinquishment, surrender, and transfer of licenses and permits
 
 **(a) Relinquishment and surrender** Any licensee or permittee may at any time, without penalty—
 
@@ -671,9 +671,9 @@ Any licensee or permittee who surrenders a license or permit, or relinquishes an
 
 Any license or permit, upon written request of the licensee or permittee, may be transferred by the Administrator; except that no such transfer may occur unless the proposed transferee is a United States citizen and until the Administrator determines that (1) the proposed transfer is in the public interest, and (2) the proposed transferee and the exploration or commercial recovery activities the transferee proposes to conduct meet the requirements of this chapter and regulations issued under this chapter.
 
-(Pub. L. 96–283, title I, § 115, June 28, 1980, 94 Stat. 572.)
+(Pub. L. 96–283, title I, § 115, June 28, 1980, 94 Stat. 572.)
 
-### § 1426. Public notice and hearings
+### § 1426. Public notice and hearings
 
 **(a) Required procedures** The Administrator may issue regulations to carry out this chapter, establish and significantly modify terms, conditions, and restrictions in licenses and permits issued under this subchapter, and issue or transfer licenses and permits under this subchapter, only after public notice and opportunity for comment and hearings in accordance with the following:
 
@@ -685,9 +685,9 @@ Any license or permit, upon written request of the licensee or permittee, may be
 
 If the Administrator determines that there exists one or more specific and material factual issues which require resolution by formal processes, at least one adjudicatory hearing shall be held in the District of Columbia in accordance with the provisions of section 554 of title 5. The record developed in any such adjudicatory hearing shall be part of the basis for the Administrator’s decision to take any action referred to in subsection (a). Hearings held pursuant to this section shall be consolidated insofar as practicable with hearings held by other agencies.
 
-(Pub. L. 96–283, title I, § 116, June 28, 1980, 94 Stat. 573.)
+(Pub. L. 96–283, title I, § 116, June 28, 1980, 94 Stat. 573.)
 
-### § 1427. Civil actions
+### § 1427. Civil actions
 
 **(a) Equitable relief** Except as provided in subsection (b) of this section, any person may commence a civil action for equitable relief on that person’s behalf in the United States District Court for the District of Columbia—
 
@@ -717,9 +717,9 @@ The court, in issuing any final order in any action brought under subsection (a)
 
 Nothing in this section shall restrict the rights which any person or class of persons may have under other law to seek enforcement or to seek any other relief. All vessel safety and environmental requirements of or under this chapter shall be in addition to other requirements of law.
 
-(Pub. L. 96–283, title I, § 117, June 28, 1980, 94 Stat. 573.)
+(Pub. L. 96–283, title I, § 117, June 28, 1980, 94 Stat. 573.)
 
-### § 1428. Reciprocating states
+### § 1428. Reciprocating states
 
 **(a) Designation** The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, may designate any foreign nation as a reciprocating state if the Secretary of State finds that such foreign nation—
 
@@ -751,11 +751,11 @@ The President is authorized to negotiate agreements with foreign nations necessa
 
 The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall consult with foreign nations which enact, or are preparing to enact, domestic legislation establishing an interim legal framework for exploration and commercial recovery of hard mineral resources. Such consultations shall be carried out with a view to facilitating the designation of such nations as reciprocating states and, as necessary, the negotiation of agreements with foreign nations authorized by subsection (e). In addition, the Administrator shall provide such foreign nations with information on environmental impacts of exploration and commercial recovery activities, and shall provide any technical assistance requested in designing regulatory measures to protect the environment.
 
-(Pub. L. 96–283, title I, § 118, June 28, 1980, 94 Stat. 574.)
+(Pub. L. 96–283, title I, § 118, June 28, 1980, 94 Stat. 574.)
 
 ## SUBCHAPTER II—TRANSITION TO INTERNATIONAL AGREEMENT
 
-### § 1441. Declaration of Congressional intent
+### § 1441. Declaration of Congressional intent
 
 It is the intent of Congress—
 
@@ -773,9 +773,9 @@ It is the intent of Congress—
 
 **(B)** if such adoption is not forthcoming, the negotiation of a multilateral or other treaty concerning the deep seabed, and the entering into force of such treaty with respect to the United States.
 
-(Pub. L. 96–283, title II, § 201, June 28, 1980, 94 Stat. 575.)
+(Pub. L. 96–283, title II, § 201, June 28, 1980, 94 Stat. 575.)
 
-### § 1442. Effect of international agreement
+### § 1442. Effect of international agreement
 
 If an international agreement enters into force with respect to the United States, any provision of subchapter I, this subchapter, or subchapter III, and any regulation issued under any such provision, which is not inconsistent with such international agreement shall continue in effect with respect to United States citizens. In the implementation of such international agreement the Administrator, in consultation with the Secretary of State, shall make every effort, to the maximum extent practicable consistent with the provisions of that agreement, to provide for the continued operation of exploration and commercial recovery activities undertaken by United States citizens prior to entry into force of the agreement. The Administrator shall submit to the Congress, within one year after the date of such entry into force, a report on the actions taken by the Administrator under this section, which report shall include, but not be limited to—
 
@@ -783,9 +783,9 @@ If an international agreement enters into force with respect to the United State
 
 **(2)** an assessment of whether United States citizens who were engaged in exploration or commercial recovery on the date such agreement entered into force have been permitted to continue their operations.
 
-(Pub. L. 96–283, title II, § 202, June 28, 1980, 94 Stat. 576.)
+(Pub. L. 96–283, title II, § 202, June 28, 1980, 94 Stat. 576.)
 
-### § 1443. Protection of interim investments
+### § 1443. Protection of interim investments
 
 In order to further the objectives set forth in section 1441 of this title, the Administrator, not more than one year after June 28, 1980—
 
@@ -793,17 +793,17 @@ In order to further the objectives set forth in section 1441 of this title, the 
 
 **(2)** if a system for the protection of interim investments has not been so adopted, shall report to the Congress on the status of negotiations relating to the establishment of such a system.
 
-(Pub. L. 96–283, title II, § 203, June 28, 1980, 94 Stat. 576.)
+(Pub. L. 96–283, title II, § 203, June 28, 1980, 94 Stat. 576.)
 
-### § 1444. Disclaimer of obligation to pay compensation
+### § 1444. Disclaimer of obligation to pay compensation
 
 Sections 1441 and 1442 of this title do not create or express any legal or moral obligation on the part of the United States Government to compensate any person for any impairment of the value of that person’s investment in any operation for exploration or commercial recovery under subchapter I which might occur in connection with the entering into force of an international agreement with respect to the United States.
 
-(Pub. L. 96–283, title II, § 204, June 28, 1980, 94 Stat. 576.)
+(Pub. L. 96–283, title II, § 204, June 28, 1980, 94 Stat. 576.)
 
 ## SUBCHAPTER III—ENFORCEMENT AND MISCELLANEOUS PROVISIONS
 
-### § 1461. Prohibited acts
+### § 1461. Prohibited acts
 
 It is unlawful for any person who is a United States citizen, or a foreign national on board a vessel documented or numbered under the laws of the United States, or subject to the jurisdiction of the United States under a reciprocating state agreement negotiated under section 1428(e) of this title—
 
@@ -821,9 +821,9 @@ It is unlawful for any person who is a United States citizen, or a foreign natio
 
 **(7)** to interfere with, delay, or prevent, by any means, the apprehension or arrest of any other person subject to this section knowing that such other person has committed any act prohibited by this section.
 
-(Pub. L. 96–283, title III, § 301, June 28, 1980, 94 Stat. 577.)
+(Pub. L. 96–283, title III, § 301, June 28, 1980, 94 Stat. 577.)
 
-### § 1462. Civil penalties
+### § 1462. Civil penalties
 
 **(a) Assessment of penalty**
 
@@ -841,9 +841,9 @@ If any person subject to section 1461 of this title fails to pay a civil penalty
 
 The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section unless an action brought under subsection (b) or (c) is pending in a court of the United States.
 
-(Pub. L. 96–283, title III, § 302, June 28, 1980, 94 Stat. 577.)
+(Pub. L. 96–283, title III, § 302, June 28, 1980, 94 Stat. 577.)
 
-### § 1463. Criminal offenses
+### § 1463. Criminal offenses
 
 **(a) Offense**
 
@@ -853,9 +853,9 @@ A person subject to section 1461 of this title is guilty of an offense if such p
 
 Any offense described in paragraphs (1), (2), and (6) of section 1461 of this title is punishable by a fine of not more than $75,000 for each day during which the violation continues. Any offense described in paragraphs (3), (4), (5), and (7) of section 1461 of this title is punishable by a fine of not more than $75,000 or imprisonment for not more than six months, or both. If, in the commission of any offense, the person subject to the jurisdiction of the United States uses a dangerous weapon, engages in conduct that causes bodily injury to any Federal officer or employee, or places any such Federal officer or employee in fear of imminent bodily injury, the offense is punishable by a fine of not more than $100,000 or imprisonment for not more than ten years, or both.
 
-(Pub. L. 96–283, title III, § 303, June 28, 1980, 94 Stat. 578.)
+(Pub. L. 96–283, title III, § 303, June 28, 1980, 94 Stat. 578.)
 
-### § 1464. Enforcement
+### § 1464. Enforcement
 
 **(a) Responsibility**
 
@@ -887,7 +887,7 @@ For purposes of this section, the term “provisions of this chapter” or “pr
 
 Proprietary and privileged information seized or maintained under this subchapter concerning a person or vessel engaged in exploration or commercial recovery shall not be made available for general or public use or inspection. The Administrator and the Secretary of the department in which the Coast Guard is operating shall issue regulations to insure the confidentiality of privileged and proprietary information.
 
-(Pub. L. 96–283, title III, § 304, June 28, 1980, 94 Stat. 578.)
+(Pub. L. 96–283, title III, § 304, June 28, 1980, 94 Stat. 578.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -895,13 +895,13 @@ Proprietary and privileged information seized or maintained under this subchapte
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1465. Liability of vessels
+### § 1465. Liability of vessels
 
 Any vessel documented or numbered under the laws of the United States (except a public vessel engaged in noncommercial activities) which is used in any violation of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of any license or permit issued under subchapter I shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof.
 
-(Pub. L. 96–283, title III, § 305, June 28, 1980, 94 Stat. 579.)
+(Pub. L. 96–283, title III, § 305, June 28, 1980, 94 Stat. 579.)
 
-### § 1466. Civil forfeitures
+### § 1466. Civil forfeitures
 
 **(a) In general**
 
@@ -923,9 +923,9 @@ Any officer authorized to serve any process in rem which is issued by a court ha
 
 For purposes of this section, it shall be a rebuttable presumption that all hard mineral resources found on board a vessel subject to the provisions of sections 1464 and 1465 of this title which is seized in connection with an act prohibited by section 1461 of this title were recovered, processed, or retained in violation of this chapter.
 
-(Pub. L. 96–283, title III, § 306, June 28, 1980, 94 Stat. 580.)
+(Pub. L. 96–283, title III, § 306, June 28, 1980, 94 Stat. 580.)
 
-### § 1467. Jurisdiction of courts
+### § 1467. Jurisdiction of courts
 
 The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. These courts may, at any time—
 
@@ -937,9 +937,9 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 **(4)** take such other actions as are in the interest of justice.
 
-(Pub. L. 96–283, title III, § 307, June 28, 1980, 94 Stat. 580.)
+(Pub. L. 96–283, title III, § 307, June 28, 1980, 94 Stat. 580.)
 
-### § 1468. Regulations
+### § 1468. Regulations
 
 **(a) Proposed regulations**
 
@@ -957,21 +957,21 @@ The Administrator may at any time amend regulations issued pursuant to subsectio
 
 This chapter and the regulations issued under this chapter shall not be deemed to supersede any other Federal laws or treaties or regulations issued thereunder.
 
-(Pub. L. 96–283, title III, § 308, June 28, 1980, 94 Stat. 581.)
+(Pub. L. 96–283, title III, § 308, June 28, 1980, 94 Stat. 581.)
 
-### § 1469. Omitted
+### § 1469. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 96–283, title III, § 309, June 28, 1980, 94 Stat. 581, which required the Administrator of the National Oceanic and Atmospheric Administration to submit a biennial report to Congress on the administration of this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 54 of House Document No. 103–7.
+Section, Pub. L. 96–283, title III, § 309, June 28, 1980, 94 Stat. 581, which required the Administrator of the National Oceanic and Atmospheric Administration to submit a biennial report to Congress on the administration of this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 54 of House Document No. 103–7.
 
-### § 1470. Authorization of appropriations
+### § 1470. Authorization of appropriations
 
 There are authorized to be appropriated to the Administrator, for purposes of carrying out the provisions of subchapters I and II and this subchapter, such sums as may be necessary for the fiscal years ending September 30, 1981, and September 30, 1982, and $1,469,000 for the fiscal year ending September 30, 1983, $2,150,000 for the fiscal year ending September 30, 1984, $1,500,000 for each of the fiscal years ending September 30, 1985, and September 30, 1986, $1,500,000 for each of the fiscal years ending September 30, 1987, September 30, 1988, and September 30, 1989, and $1,525,000 for each of the fiscal years 1990, 1991, 1992, 1993, and 1994.
 
-(Pub. L. 96–283, title III, § 310, June 28, 1980, 94 Stat. 582; Pub. L. 97–416, Jan. 4, 1983, 96 Stat. 2084; Pub. L. 98–623, title IV, § 403, Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–507, § 2, Oct. 21, 1986, 100 Stat. 1847; Pub. L. 101–178, § 1, Nov. 28, 1989, 103 Stat. 1297.)
+(Pub. L. 96–283, title III, § 310, June 28, 1980, 94 Stat. 582; Pub. L. 97–416, Jan. 4, 1983, 96 Stat. 2084; Pub. L. 98–623, title IV, § 403, Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–507, § 2, Oct. 21, 1986, 100 Stat. 1847; Pub. L. 101–178, § 1, Nov. 28, 1989, 103 Stat. 1297.)
 
 **Editorial Notes**
 
@@ -985,13 +985,13 @@ There are authorized to be appropriated to the Administrator, for purposes of ca
 
 1983—Pub. L. 97–416 inserted provisions authorizing appropriations of $1,469,000 for fiscal year ending Sept. 30, 1983, and $2,150,000 for fiscal year ending Sept. 30, 1984.
 
-### § 1471. Severability
+### § 1471. Severability
 
 If any provision of this chapter or any application thereof is held invalid, the validity of the remainder of the chapter, or any other application, shall not be affected thereby.
 
-(Pub. L. 96–283, title III, § 311, June 28, 1980, 94 Stat. 582.)
+(Pub. L. 96–283, title III, § 311, June 28, 1980, 94 Stat. 582.)
 
-### § 1472. Deep Seabed Revenue Sharing Trust Fund; establishment
+### § 1472. Deep Seabed Revenue Sharing Trust Fund; establishment
 
 **(a) Creation of Trust Fund**
 
@@ -1001,9 +1001,9 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 **(1) In general**
 
-There are hereby appropriated to the Trust Fund amounts determined by the Secretary of the Treasury to be equivalent to the amounts of the taxes received in the Treasury under section 4495 1
+There are hereby appropriated to the Trust Fund amounts determined by the Secretary of the Treasury to be equivalent to the amounts of the taxes received in the Treasury under section 4495 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 26.
 
@@ -1041,13 +1041,13 @@ If an international deep seabed treaty is not in effect with respect to the Unit
 
 **(f) International deep seabed treaty**
 
-For purposes of this section, the term “international deep seabed treaty” has the meaning given to such term by section 4498(b) <sup>1</sup> of title 26.
+For purposes of this section, the term “international deep seabed treaty” has the meaning given to such term by section 4498(b) <sup>1</sup> of title 26.
 
-(Pub. L. 96–283, title IV, § 403, June 28, 1980, 94 Stat. 584; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 96–283, title IV, § 403, June 28, 1980, 94 Stat. 584; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **References in Text**
 
-Sections 4495 and 4498 of title 26, referred to in subsecs. (b)(1) and (f), were repealed by Pub. L. 105–34, title XIV, § 1432(b)(1), Aug. 5, 1997, 111 Stat. 1050.
+Sections 4495 and 4498 of title 26, referred to in subsecs. (b)(1) and (f), were repealed by Pub. L. 105–34, title XIV, § 1432(b)(1), Aug. 5, 1997, 111 Stat. 1050.
 
 **Codification**
 
@@ -1061,23 +1061,23 @@ Section was enacted as part of title IV of Pub. L. 96–283, and not as part of 
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the duty of the Secretary of the Treasury to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 143 of House Document No. 103–7.
 
-### § 1473. Revenue and customs or tariff treatment of deep seabed mining unaffected
+### § 1473. Revenue and customs or tariff treatment of deep seabed mining unaffected
 
-Except as otherwise provided in sections 4495 to 4498 1
+Except as otherwise provided in sections 4495 to 4498 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 26, nothing in this chapter shall affect the application of title 26. Nothing in this chapter shall affect the application of the customs or tariff laws of the United States.
 
-(Pub. L. 96–283, title IV, § 404, June 28, 1980, 94 Stat. 586; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 96–283, title IV, § 404, June 28, 1980, 94 Stat. 586; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 4495 to 4498 of title 26, referred to in text, were in the original “section 402”, meaning section 402 of Pub. L. 96–283, title IV, June 28, 1980, 94 Stat. 582, which enacted sections 4495 to 4498 of Title 26, Internal Revenue Code, and enacted a provision set out as a note under section 4495 of Title 26. Sections 4495 to 4498 of title 26 were repealed by Pub. L. 105–34, title XIV, § 1432(b)(1), Aug. 5, 1997, 111 Stat. 1050.
+Sections 4495 to 4498 of title 26, referred to in text, were in the original “section 402”, meaning section 402 of Pub. L. 96–283, title IV, June 28, 1980, 94 Stat. 582, which enacted sections 4495 to 4498 of Title 26, Internal Revenue Code, and enacted a provision set out as a note under section 4495 of Title 26. Sections 4495 to 4498 of title 26 were repealed by Pub. L. 105–34, title XIV, § 1432(b)(1), Aug. 5, 1997, 111 Stat. 1050.
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–283, June 28, 1980, 94 Stat. 553, known as the Deep Seabed Hard Mineral Resources Act, which is classified principally to this chapter (§ 1401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–283, June 28, 1980, 94 Stat. 553, known as the Deep Seabed Hard Mineral Resources Act, which is classified principally to this chapter (§ 1401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
 **Codification**
 

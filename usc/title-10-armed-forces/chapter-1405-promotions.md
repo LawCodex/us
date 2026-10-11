@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(I), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 14306.
+2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(I), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 14306.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(24), Feb. 10, 1996, 110 Stat. 497, substituted “Number” for “Numbers” in item 14307, a semicolon for a colon in item 14309, and “State” for “state” in item 14314.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(24), Feb. 10, 1996, 110 Stat. 497, substituted “Number” for “Numbers” in item 14307, a semicolon for a colon in item 14309, and “State” for “state” in item 14314.
 
-## § 14301. Eligibility for consideration for promotion: general rules
+## § 14301. Eligibility for consideration for promotion: general rules
 
 **(a) One-Year Rule.—** An officer is eligible under this chapter for consideration for promotion by a promotion board convened under section 14101(a) of this title only if—
 
@@ -91,23 +91,23 @@ retrieved: 2026-10-11
 
 **(k) Certain Officers Not to Be Considered for Selection for Promotion.—** The Secretary of the military department concerned may provide that an officer who is in an active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section (relating to membership in a reserve component), shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the reserve active-status list.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§ 503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, § 514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, § 513(a), title X, § 1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, § 505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 107–314, div. A, title V, § 521, Dec. 2, 2002, 116 Stat. 2540; Pub. L. 112–81, div. A, title V, § 517, Dec. 31, 2011, 125 Stat. 1397; Pub. L. 115–232, div. A, title V, §§ 505(b), 513, Aug. 13, 2018, 132 Stat. 1743, 1752; Pub. L. 118–159, div. A, title V, §§ 503(c), 505(a)(2), Dec. 23, 2024, 138 Stat. 1868, 1869.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§ 503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, § 514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, § 513(a), title X, § 1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, § 505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 107–314, div. A, title V, § 521, Dec. 2, 2002, 116 Stat. 2540; Pub. L. 112–81, div. A, title V, § 517, Dec. 31, 2011, 125 Stat. 1397; Pub. L. 115–232, div. A, title V, §§ 505(b), 513, Aug. 13, 2018, 132 Stat. 1743, 1752; Pub. L. 118–159, div. A, title V, §§ 503(c), 505(a)(2), Dec. 23, 2024, 138 Stat. 1868, 1869.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (f). Pub. L. 118–159, § 503(c), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.”
+2024—Subsec. (f). Pub. L. 118–159, § 503(c), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.”
 
-Subsec. (j)(2)(A). Pub. L. 118–159, § 505(a)(2), inserted “training,” after “Department,” and substituted “assignment, education, or training” for “assignment or education”.
+Subsec. (j)(2)(A). Pub. L. 118–159, § 505(a)(2), inserted “training,” after “Department,” and substituted “assignment, education, or training” for “assignment or education”.
 
-2018—Subsec. (c). Pub. L. 115–232, § 505(b)(1)(A), substituted “Certain Officers Not” for “Previously Selected Officers Not Eligible” in heading.
+2018—Subsec. (c). Pub. L. 115–232, § 505(b)(1)(A), substituted “Certain Officers Not” for “Previously Selected Officers Not Eligible” in heading.
 
-Subsec. (c)(6). Pub. L. 115–232, § 505(b)(1)(B), added par. (6).
+Subsec. (c)(6). Pub. L. 115–232, § 505(b)(1)(B), added par. (6).
 
-Subsec. (j). Pub. L. 115–232, § 505(b)(2), added subsec. (j).
+Subsec. (j). Pub. L. 115–232, § 505(b)(2), added subsec. (j).
 
-Subsec. (k). Pub. L. 115–232, § 513, added subsec. (k).
+Subsec. (k). Pub. L. 115–232, § 513, added subsec. (k).
 
 2011—Subsec. (i). Pub. L. 112–81 added subsec. (i).
 
@@ -119,31 +119,31 @@ Subsec. (k). Pub. L. 115–232, § 513, added subsec. (k).
 
 2001—Subsec. (c)(5). Pub. L. 107–107 added par. (5).
 
-1999—Subsec. (g)(1), (2). Pub. L. 106–65, § 1066(a)(32), substituted “one year” for “1 year”.
+1999—Subsec. (g)(1), (2). Pub. L. 106–65, § 1066(a)(32), substituted “one year” for “1 year”.
 
-Subsec. (h). Pub. L. 106–65, § 513(a), added subsec. (h).
+Subsec. (h). Pub. L. 106–65, § 513(a), added subsec. (h).
 
 1998—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
-1997—Subsec. (c). Pub. L. 105–85, § 503(b)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
+1997—Subsec. (c). Pub. L. 105–85, § 503(b)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–85, § 503(b)(2), (3), substituted “An officer” for “an officer” and “title.” for “title;”.
+Subsec. (c)(1). Pub. L. 105–85, § 503(b)(2), (3), substituted “An officer” for “an officer” and “title.” for “title;”.
 
-Subsec. (c)(2). Pub. L. 105–85, § 503(b)(6), added par. (2). Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 105–85, § 503(b)(6), added par. (2). Former par. (2) redesignated (3).
 
-Pub. L. 105–85, § 503(b)(2), (4), substituted “An officer” for “an officer” and “be.” for “be; or”.
+Pub. L. 105–85, § 503(b)(2), (4), substituted “An officer” for “an officer” and “be.” for “be; or”.
 
-Subsec. (c)(3). Pub. L. 105–85, § 503(c), inserted “, if that nomination is pending before the Senate” before period at end.
+Subsec. (c)(3). Pub. L. 105–85, § 503(c), inserted “, if that nomination is pending before the Senate” before period at end.
 
-Pub. L. 105–85, § 503(b)(5), redesignated par. (2) as (3) and substituted “that grade” for “the next higher grade”. Former par. (3) redesignated (4).
+Pub. L. 105–85, § 503(b)(5), redesignated par. (2) as (3) and substituted “that grade” for “the next higher grade”. Former par. (3) redesignated (4).
 
-Pub. L. 105–85, § 503(b)(2), substituted “An officer” for “an officer”.
+Pub. L. 105–85, § 503(b)(2), substituted “An officer” for “an officer”.
 
-Subsec. (c)(4). Pub. L. 105–85, § 503(c), inserted “, if that nomination is pending before the Senate” before period at end.
+Subsec. (c)(4). Pub. L. 105–85, § 503(c), inserted “, if that nomination is pending before the Senate” before period at end.
 
-Pub. L. 105–85, § 503(b)(5), redesignated par. (3) as (4) and substituted “that grade” for “the next higher grade”.
+Pub. L. 105–85, § 503(b)(5), redesignated par. (3) as (4) and substituted “that grade” for “the next higher grade”.
 
-Subsecs. (e) to (g). Pub. L. 105–85, § 514(b), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows:
+Subsecs. (e) to (g). Pub. L. 105–85, § 514(b), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows:
 
 “(e) Reserve Officers of the Army; Consideration for Brigadier General and Major General.—In the case of officers of the Army, if the Secretary of the Army determines that vacancies are authorized or anticipated in the reserve grades of major general or brigadier general for officers who are on the reserve active-status list and who are not assigned to units organized to serve as a unit and the Secretary convenes a mandatory promotion board under section 14101(a) of this title to consider officers for promotion to fill such vacancies, the Secretary may limit the officers to be considered by that board to those determined to be exceptionally well qualified for promotion under such criteria and procedures as the Secretary may by regulation prescribe.”
 
@@ -151,7 +151,7 @@ Subsecs. (e) to (g). Pub. L. 105–85, § 514(b), redesignated subsecs. (f) an
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title V, § 513(b), Oct. 5, 1999, 113 Stat. 593, provided that:
+Pub. L. 106–65, div. A, title V, § 513(b), Oct. 5, 1999, 113 Stat. 593, provided that:
 
 > **“(1)** Subsection (h) of section 14301 of title 10, United States Code (as added by subsection (a)), shall apply with respect to boards convened under section 14101(a) of such title before, on, or after the date of the enactment of this Act [Oct. 5, 1999].
 
@@ -165,7 +165,7 @@ Amendment by section 503(b), (c) of Pub. L. 105–85 effective Nov. 18, 1997, an
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14302. Promotion zones
+## § 14302. Promotion zones
 
 **(a) Promotion Zones Generally.—** For purposes of this chapter, a promotion zone is an eligibility category for the consideration of officers by a mandatory promotion board. A promotion zone consists of those officers on the reserve active-status list who are in the same grade and competitive category and who meet the requirements of both paragraphs (1) and (2) or the requirements of paragraph (3), as follows:
 
@@ -201,7 +201,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(3)** are junior to the junior officer in the promotion zone for that competitive category.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2932; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(RR), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2932; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(RR), Jan. 6, 2006, 119 Stat. 3234.)
 
 **Editorial Notes**
 
@@ -215,7 +215,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14303. Eligibility for consideration for promotion: minimum years of service in grade
+## § 14303. Eligibility for consideration for promotion: minimum years of service in grade
 
 **(a) Officers in Pay Grades O–1 and O–2.—** An officer who is on the reserve active-status list of the Army, Navy, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant as a reserve officer of the Army, Air Force, or Marine Corps, or in the grade of ensign or lieutenant (junior grade) as a reserve officer of the Navy, may not be promoted to the next higher grade, or granted Federal recognition in that grade, until the officer has completed the following years of service in grade:
 
@@ -235,7 +235,7 @@ This subsection does not apply to an adjutant general or assistant adjutant gene
 
 **(d) Waivers To Ensure Two Below-the-Zone Considerations.—** Subject to section 14307(b) of this title, the Secretary of the military department concerned may waive subsection (b) to the extent necessary to ensure that officers described in paragraph (1) of that subsection have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2933.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2933.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -243,7 +243,7 @@ This subsection does not apply to an adjutant general or assistant adjutant gene
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14304. Eligibility for consideration for promotion: maximum years of service in grade
+## § 14304. Eligibility for consideration for promotion: maximum years of service in grade
 
 **(a) Consideration for Promotion Within Specified Times.—**
 
@@ -263,7 +263,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Waiver Authority for Navy and Marine Corps Running Mate System.—** If the Secretary of the Navy establishes promotion zones for officers on the reserve active-status list of the Navy or the Marine Corps Reserve in accordance with a running mate system under section 14306 of this title, the Secretary may waive the requirements of subsection (a) to the extent the Secretary considers necessary in any case in which the years of service for promotion, or for consideration for promotion, within those zones will exceed the maximum years of service in grade specified in subsection (a).
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2934.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2934.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -273,9 +273,9 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **Minimum Service Qualifications for Promotion**
 
-Pub. L. 103–337, div. A, title XVI, § 1685, Oct. 5, 1994, 108 Stat. 3024, provided that during the five-year period beginning on Oct. 1, 1996, the Secretary of the Army and the Secretary of the Air Force could waive the provisions of this section and during any period in which such a waiver is in effect, establish minimum periods of total years of commissioned service an officer must have served to be eligible for consideration for promotion to the grade of captain, major, or lieutenant colonel by boards convened under section 14101(a) of this title.
+Pub. L. 103–337, div. A, title XVI, § 1685, Oct. 5, 1994, 108 Stat. 3024, provided that during the five-year period beginning on Oct. 1, 1996, the Secretary of the Army and the Secretary of the Air Force could waive the provisions of this section and during any period in which such a waiver is in effect, establish minimum periods of total years of commissioned service an officer must have served to be eligible for consideration for promotion to the grade of captain, major, or lieutenant colonel by boards convened under section 14101(a) of this title.
 
-## § 14305. Establishment of promotion zones: mandatory consideration for promotion
+## § 14305. Establishment of promotion zones: mandatory consideration for promotion
 
 **(a) Establishment of Zone.—** Before convening a mandatory promotion board under section 14101(a) of this title, the Secretary of the military department concerned shall establish a promotion zone for officers serving in each grade and competitive category to be considered by the board.
 
@@ -289,7 +289,7 @@ Pub. L. 103–337, div. A, title XVI, § 1685, Oct. 5, 1994, 108 Stat. 3024, p
 
 **(3)** The number of officers that should be placed in the promotion zone in each of the next five years to provide to officers in those years relatively similar opportunities for promotion.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2935.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2935.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -297,7 +297,7 @@ Pub. L. 103–337, div. A, title XVI, § 1685, Oct. 5, 1994, 108 Stat. 3024, p
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14306. Establishment of promotion zones: Navy Reserve and Marine Corps Reserve running mate system
+## § 14306. Establishment of promotion zones: Navy Reserve and Marine Corps Reserve running mate system
 
 **(a) Authority of Secretary of the Navy.—** The Secretary of the Navy may by regulation implement section 14305 of this title by requiring that the promotion zone for consideration of officers on the reserve active-status list of the Navy or the Marine Corps for promotion to the next higher grade be determined in accordance with a running mate system as provided in subsection (b).
 
@@ -305,13 +305,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Consideration of Officers Below the Zone Under a Running Mate System.—** If the Secretary of the Navy authorizes the selection of officers for promotion from below the promotion zone in accordance with section 14307 of this title, the number of officers to be considered from below the zone may be established through the application of the running mate system or otherwise as the Secretary determines to be appropriate to meet the needs of the Navy or Marine Corps.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2935; amended Pub. L. 109–163, div. A, title V, § 515(b)(3)(J), Jan. 6, 2006, 119 Stat. 3235.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2935; amended Pub. L. 109–163, div. A, title V, § 515(b)(3)(J), Jan. 6, 2006, 119 Stat. 3235.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (b) of this section were contained in section 5899 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in subsec. (b) of this section were contained in section 5899 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Amendments**
 
@@ -323,7 +323,7 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14307. Number of officers to be recommended for promotion
+## § 14307. Number of officers to be recommended for promotion
 
 **(a) Determination of Maximum Number.—** Before convening a promotion board under section 14101(a) of this title for a grade and competitive category (other than a vacancy promotion board), the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense, shall determine the maximum number of officers in that grade and competitive category that the board may recommend for promotion. The Secretary shall make the determination under the preceding sentence of the maximum number that may be recommended with a view to having on the reserve active-status list a sufficient number of officers in each grade and competitive category to meet the needs of the armed force concerned for officers on that list. In order to make that determination, the Secretary shall determine (1) the number of positions needed to accomplish mission objectives which require officers of such competitive category in the grade to which the board will recommend officers for promotion, (2) the estimated number of officers needed to fill vacancies in such positions during the period in which it is anticipated that officers selected for promotion will be promoted, (3) the number of officers authorized by the Secretary of the military department concerned to serve on the reserve active-status list in the grade and competitive category under consideration, and (4) any statutory limitation on the number of officers in any grade or category (or combination thereof) authorized to be on the reserve active-status list.
 
@@ -335,13 +335,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(3)** The number of officers recommended for promotion from below the promotion zone does not increase the maximum number of officers that the board is authorized to recommend for promotion under subsection (a).
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2936.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2936.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5901 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in this section were contained in section 5901 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -349,7 +349,7 @@ Provisions similar to those in this section were contained in section 5901 of th
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14308. Promotions: how made
+## § 14308. Promotions: how made
 
 **(a) Promotion List.—** When the report of a selection board convened under section 14101(a) or 14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list or based on particular merit, as determined by the promotion board. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
 
@@ -411,13 +411,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(g) Army and Air Force General Officer Promotions.—** A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, § 514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§ 505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089; Pub. L. 109–364, div. A, title V, § 511(d)(2), Oct. 17, 2006, 120 Stat. 2183; Pub. L. 114–92, div. A, title V, § 502(b), Nov. 25, 2015, 129 Stat. 806; Pub. L. 115–232, div. A, title V, § 518(a), Aug. 13, 2018, 132 Stat. 1754; Pub. L. 116–92, div. A, title V, § 510(c), Dec. 20, 2019, 133 Stat. 1347; Pub. L. 117–263, div. A, title V, § 513, Dec. 23, 2022, 136 Stat. 2565; Pub. L. 118–31, div. A, title V, § 503(b)(2), Dec. 22, 2023, 137 Stat. 241.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, § 514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§ 505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089; Pub. L. 109–364, div. A, title V, § 511(d)(2), Oct. 17, 2006, 120 Stat. 2183; Pub. L. 114–92, div. A, title V, § 502(b), Nov. 25, 2015, 129 Stat. 806; Pub. L. 115–232, div. A, title V, § 518(a), Aug. 13, 2018, 132 Stat. 1754; Pub. L. 116–92, div. A, title V, § 510(c), Dec. 20, 2019, 133 Stat. 1347; Pub. L. 117–263, div. A, title V, § 513, Dec. 23, 2022, 136 Stat. 2565; Pub. L. 118–31, div. A, title V, § 503(b)(2), Dec. 22, 2023, 137 Stat. 241.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 **Amendments**
 
@@ -427,29 +427,29 @@ Provisions similar to those in subsecs. (a), (d), and (f) of this section were c
 
 2019—Subsec. (a). Pub. L. 116–92 inserted “or based on particular merit, as determined by the promotion board” after “reserve active-status list”.
 
-2018—Subsec. (f)(1). Pub. L. 115–232, § 518(a)(1), which directed amendment of subsec. (f) by inserting “(1)” before “The effective date of promotion”, was executed by making the insertion before “The effective date of a promotion” to reflect the probable intent of Congress.
+2018—Subsec. (f)(1). Pub. L. 115–232, § 518(a)(1), which directed amendment of subsec. (f) by inserting “(1)” before “The effective date of promotion”, was executed by making the insertion before “The effective date of a promotion” to reflect the probable intent of Congress.
 
-Subsec. (f)(2). Pub. L. 115–232, § 518(a)(2), added par. (2).
+Subsec. (f)(2). Pub. L. 115–232, § 518(a)(2), added par. (2).
 
 2015—Subsec. (b)(4)(E). Pub. L. 114–92 added subpar. (E).
 
 2006—Subsec. (a). Pub. L. 109–364 inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
 
-2001—Subsec. (b)(4). Pub. L. 107–107, § 505(b)(1), added par. (4).
+2001—Subsec. (b)(4). Pub. L. 107–107, § 505(b)(1), added par. (4).
 
-Subsec. (c)(2). Pub. L. 107–107, § 506(b)(1)(B), added par. (2). Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 107–107, § 506(b)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (c)(3). Pub. L. 107–107, § 506(b)(1)(A), (2), redesignated par. (2) as (3) and inserted “provided in paragraph (2) or as otherwise” after “Except as”.
+Subsec. (c)(3). Pub. L. 107–107, § 506(b)(1)(A), (2), redesignated par. (2) as (3) and inserted “provided in paragraph (2) or as otherwise” after “Except as”.
 
-1997—Subsec. (e)(2). Pub. L. 105–85, § 514(c)(1), inserted “a grade below colonel in” after “an officer in”.
+1997—Subsec. (e)(2). Pub. L. 105–85, § 514(c)(1), inserted “a grade below colonel in” after “an officer in”.
 
-Subsec. (g). Pub. L. 105–85, § 514(c)(2), inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
+Subsec. (g). Pub. L. 105–85, § 514(c)(2), inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title V, § 518(b), Aug. 13, 2018, 132 Stat. 1754, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 13, 2018], and shall apply with respect to promotions of officers whose State effective date is on or after that date.”
+Pub. L. 115–232, div. A, title V, § 518(b), Aug. 13, 2018, 132 Stat. 1754, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 13, 2018], and shall apply with respect to promotions of officers whose State effective date is on or after that date.”
 
 **Effective Date of 2006 Amendment**
 
@@ -463,19 +463,19 @@ Subsec. (c)(2) of this section applicable with respect to any report of a select
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14309. Acceptance of promotion; oath of office
+## § 14309. Acceptance of promotion; oath of office
 
 **(a) Acceptance.—** An officer who is appointed to a higher grade under this chapter shall be considered to have accepted the appointment on the date on which the appointment is made unless the officer expressly declines the appointment or is granted a delay of promotion under section 14312 of this title.
 
 **(b) Oath.—** An officer who has served continuously since taking the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this chapter.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2938.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2938.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3394 and 8394 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
+Provisions similar to those in this section were contained in sections 3394 and 8394 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -483,7 +483,7 @@ Provisions similar to those in this section were contained in sections 3394 and 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14310. Removal of officers from a list of officers recommended for promotion
+## § 14310. Removal of officers from a list of officers recommended for promotion
 
 **(a) Removal by President.—** The President may remove the name of any officer from a promotion list at any time before the date on which the officer is promoted.
 
@@ -501,29 +501,29 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(e) Continued Eligibility for Promotion.—** An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer’s grade and competitive category and the officer is promoted, the Secretary of the military department concerned may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list, as the officer would have had if the officer’s name had not been removed from the list.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2938; amended Pub. L. 109–364, div. A, title V, § 515(b), Oct. 17, 2006, 120 Stat. 2186; Pub. L. 110–181, div. A, title X, § 1063(a)(16), Jan. 28, 2008, 122 Stat. 322; Pub. L. 111–383, div. A, title V, § 504(b), title X, § 1075(f)(7), Jan. 7, 2011, 124 Stat. 4208, 4376.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2938; amended Pub. L. 109–364, div. A, title V, § 515(b), Oct. 17, 2006, 120 Stat. 2186; Pub. L. 110–181, div. A, title X, § 1063(a)(16), Jan. 28, 2008, 122 Stat. 322; Pub. L. 111–383, div. A, title V, § 504(b), title X, § 1075(f)(7), Jan. 7, 2011, 124 Stat. 4208, 4376.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5905 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in this section were contained in section 5905 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Amendments**
 
-2011—Subsec. (d). Pub. L. 111–383, § 504(b)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+2011—Subsec. (d). Pub. L. 111–383, § 504(b)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 111–383, § 1075(f)(7), made technical amendment to directory language of Pub. L. 110–181, § 1063(a)(16). See 2008 Amendment note below.
+Subsec. (e). Pub. L. 111–383, § 1075(f)(7), made technical amendment to directory language of Pub. L. 110–181, § 1063(a)(16). See 2008 Amendment note below.
 
-Pub. L. 111–383, § 504(b)(1), redesignated subsec. (d) as (e).
+Pub. L. 111–383, § 504(b)(1), redesignated subsec. (d) as (e).
 
-2008—Subsec. (d). Pub. L. 110–181, § 1063(a)(16), as amended by Pub. L. 111–383, § 1075(f)(7), inserted comma after “(a)”.
+2008—Subsec. (d). Pub. L. 110–181, § 1063(a)(16), as amended by Pub. L. 111–383, § 1075(f)(7), inserted comma after “(a)”.
 
-2006—Subsec. (c). Pub. L. 109–364, § 515(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+2006—Subsec. (c). Pub. L. 109–364, § 515(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 109–364, § 515(b)(2), which directed amendment of par. (1) of subsec. (d) by substituting “(b), or (c)” for “or (b)”, was executed by amending text of subsec. (d), which does not contain any pars., to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 109–364, § 515(b)(2), which directed amendment of par. (1) of subsec. (d) by substituting “(b), or (c)” for “or (b)”, was executed by amending text of subsec. (d), which does not contain any pars., to reflect the probable intent of Congress.
 
-Pub. L. 109–364, § 515(b)(1)(A), redesignated subsec. (c) as (d).
+Pub. L. 109–364, § 515(b)(1)(A), redesignated subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -537,7 +537,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **Removals From Promotion List**
 
-Pub. L. 103–337, div. A, title XVI, § 1684(b), Oct. 5, 1994, 108 Stat. 3024, as amended by Pub. L. 104–106, div. A, title XV, § 1501(a)(9), Feb. 10, 1996, 110 Stat. 495, provided that: “An action that was initiated before the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14111(c) or 14310, as appropriate, of title 10, United States Code, as added by this title.”
+Pub. L. 103–337, div. A, title XVI, § 1684(b), Oct. 5, 1994, 108 Stat. 3024, as amended by Pub. L. 104–106, div. A, title XV, § 1501(a)(9), Feb. 10, 1996, 110 Stat. 495, provided that: “An action that was initiated before the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14111(c) or 14310, as appropriate, of title 10, United States Code, as added by this title.”
 
 **Executive Documents**
 
@@ -545,9 +545,9 @@ Pub. L. 103–337, div. A, title XVI, § 1684(b), Oct. 5, 1994, 108 Stat. 3024
 
 For assignment of functions of President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
 
-Functions of President under subsec. (c)(2) of this section delegated to Secretary of Defense, with authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§ 1(b), 2, Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (c)(2) of this section delegated to Secretary of Defense, with authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§ 1(b), 2, Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.
 
-## § 14311. Delay of promotion: involuntary
+## § 14311. Delay of promotion: involuntary
 
 **(a) Delay During Investigations and Proceedings.—**
 
@@ -591,39 +591,39 @@ Functions of President under subsec. (c)(2) of this section delegated to Secreta
 
 **(4)** If an officer whose promotion is delayed under paragraph (1) or (2) completes the period of active duty or full-time National Guard duty that the officer is required by law or regulation to perform as a member of a reserve component, the officer may request release from active duty or full-time National Guard duty. If the request is granted, the officer’s promotion shall be effective upon the officer’s release from such duty. The date of rank and position on the reserve active-status list of the officer shall be the date the officer would have been promoted to or recognized in the higher grade had the limitations imposed under regulations prescribed by the Secretary of Defense contained in section 12011 of this title not existed. If an officer whose promotion is delayed under paragraph (1) or (2) has not completed the period of active duty or full-time National Guard duty that the officer is required by law or regulation to perform as a member of a reserve component, the officer may be retained on active duty or on full-time National Guard duty in the grade in which the officer was serving before the officer’s being found qualified for Federal recognition or the officer’s selection for the promotion until the officer completes that required period of duty.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2939; amended Pub. L. 107–107, div. A, title V, § 505(c)(2)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, § 511(b), Oct. 17, 2006, 120 Stat. 2182; Pub. L. 111–383, div. A, title X, § 1075(g)(4), Jan. 7, 2011, 124 Stat. 4377; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title V, § 505(b)(3), Jan. 1, 2021, 134 Stat. 3572.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2939; amended Pub. L. 107–107, div. A, title V, § 505(c)(2)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, § 511(b), Oct. 17, 2006, 120 Stat. 2182; Pub. L. 111–383, div. A, title X, § 1075(g)(4), Jan. 7, 2011, 124 Stat. 4377; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title V, § 505(b)(3), Jan. 1, 2021, 134 Stat. 3572.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3363(e), 3380(b), 5902(d), 8363(g), and 8380(b) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in this section were contained in sections 3363(e), 3380(b), 5902(d), 8363(g), and 8380(b) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 **Amendments**
 
-2021—Subsec. (a)(1)(F). Pub. L. 116–283, § 505(b)(3)(A)(i), added subpar. (F).
+2021—Subsec. (a)(1)(F). Pub. L. 116–283, § 505(b)(3)(A)(i), added subpar. (F).
 
-Subsec. (a)(3). Pub. L. 116–283, § 505(b)(3)(A)(ii), added par. (3).
+Subsec. (a)(3). Pub. L. 116–283, § 505(b)(3)(A)(ii), added par. (3).
 
-Subsec. (c)(3). Pub. L. 116–283, § 505(b)(3)(B), added par. (3).
+Subsec. (c)(3). Pub. L. 116–283, § 505(b)(3)(B), added par. (3).
 
 2018—Subsecs. (a)(2), (b). Pub. L. 115–232 substituted “section 7233, 8167, or 9233” for “section 3583, 5947, or 8583” in subsec. (a)(2) and in two places in subsec. (b).
 
-2011—Subsec. (b). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–364, § 511(b)(3). See 2006 Amendment note below.
+2011—Subsec. (b). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–364, § 511(b)(3). See 2006 Amendment note below.
 
-2006—Subsec. (a)(1). Pub. L. 109–364, § 511(b)(1), substituted “Secretary of Defense” for “Secretary of the military department concerned” in introductory provisions.
+2006—Subsec. (a)(1). Pub. L. 109–364, § 511(b)(1), substituted “Secretary of Defense” for “Secretary of the military department concerned” in introductory provisions.
 
-Subsec. (a)(1)(E). Pub. L. 109–364, § 511(b)(2)(A), added subpar. (E).
+Subsec. (a)(1)(E). Pub. L. 109–364, § 511(b)(2)(A), added subpar. (E).
 
-Subsec. (a)(2). Pub. L. 109–364, § 511(b)(2)(B), struck out “or” after “show cause for retention,” and inserted “or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion,” after “of the charges,”.
+Subsec. (a)(2). Pub. L. 109–364, § 511(b)(2)(B), struck out “or” after “show cause for retention,” and inserted “or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion,” after “of the charges,”.
 
-Subsec. (b). Pub. L. 109–364, § 511(b)(3), as amended by Pub. L. 111–383, § 1075(g)(4), inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to the higher grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to the higher grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to the higher grade”.
+Subsec. (b). Pub. L. 109–364, § 511(b)(3), as amended by Pub. L. 111–383, § 1075(g)(4), inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to the higher grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to the higher grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to the higher grade”.
 
-Pub. L. 109–364, § 511(b)(1), substituted “Secretary of Defense” for “Secretary of the military department concerned”.
+Pub. L. 109–364, § 511(b)(1), substituted “Secretary of Defense” for “Secretary of the military department concerned”.
 
-2001—Subsec. (a)(2). Pub. L. 107–107, § 505(c)(2)(B)(i), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list”.
+2001—Subsec. (a)(2). Pub. L. 107–107, § 505(c)(2)(B)(i), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list”.
 
-Subsec. (b). Pub. L. 107–107, § 505(c)(2)(B)(ii), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list” in second sentence.
+Subsec. (b). Pub. L. 107–107, § 505(c)(2)(B)(ii), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list” in second sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -633,7 +633,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title X, § 1075(g), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(g)(4) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(g), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(g)(4) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
 
 **Effective Date of 2006 Amendment**
 
@@ -645,13 +645,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **Delays in Promotions**
 
-Pub. L. 103–337, div. A, title XVI, § 1684(a), Oct. 5, 1994, 108 Stat. 3024, provided that:
+Pub. L. 103–337, div. A, title XVI, § 1684(a), Oct. 5, 1994, 108 Stat. 3024, provided that:
 
 > **“(1)** A delay in a promotion that is in effect on the day before the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title] under the laws and regulations in effect on that date shall continue in effect on and after that date as if the promotion had been delayed under section 14311 of title 10, United States Code, as added by this title.
 
 > **“(2)** The delay of the promotion of a reserve officer of the Army or the Air Force which was in effect solely to achieve compliance with limitations set out in section 524 of title 10, United States Code, or with regulations prescribed by the Secretary of Defense with respect to sections 3380(c) and 8380(c) of title 10, United States Code, as in effect on the day before the effective date of this title, shall continue in effect as if the promotion had been delayed under section 14311(e) of such title, as added by this title.”
 
-## § 14312. Delay of promotion: voluntary
+## § 14312. Delay of promotion: voluntary
 
 **(a) Authority for Voluntary Delays.—**
 
@@ -673,7 +673,7 @@ Pub. L. 103–337, div. A, title XVI, § 1684(a), Oct. 5, 1994, 108 Stat. 3024
 
 **(3)** The Secretary concerned has approved the request of an officer for a delay of promotion and, upon the end of the period of delay authorized in accordance with regulations prescribed under subsection (a), the officer then declines to accept an appointment to a higher grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2941.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2941.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -681,7 +681,7 @@ Pub. L. 103–337, div. A, title XVI, § 1684(a), Oct. 5, 1994, 108 Stat. 3024
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14313. Authority to vacate promotions to grade of brigadier general or rear admiral (lower half)
+## § 14313. Authority to vacate promotions to grade of brigadier general or rear admiral (lower half)
 
 **(a) Authority.—** The President may vacate the appointment of a reserve officer to the grade of brigadier general or rear admiral (lower half) if the period of time during which the officer has served in that grade after promotion to that grade is less than 18 months.
 
@@ -689,7 +689,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Special Rule for Officers Serving as Adjutant General.—** In the case of an officer serving as an adjutant general or assistant adjutant general whose promotion to the grade of brigadier general is vacated under this section, the officer then holds the reserve grade held by that officer immediately before the officer’s appointment as adjutant general or assistant adjutant general.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(SS), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(SS), Jan. 6, 2006, 119 Stat. 3234.)
 
 **Editorial Notes**
 
@@ -703,7 +703,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14314. Army and Air Force commissioned officers: generals ceasing to occupy positions commensurate with grade; State adjutants general
+## § 14314. Army and Air Force commissioned officers: generals ceasing to occupy positions commensurate with grade; State adjutants general
 
 **(a) General Officers.—**
 
@@ -733,19 +733,19 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Credit for Service in Grade.—** An officer who is appointed under subsection (a)(1)(C) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 104–201, div. A, title V, § 544(c), Sept. 23, 1996, 110 Stat. 2523; Pub. L. 118–159, div. A, title V, § 512, Dec. 23, 2024, 138 Stat. 1875.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 104–201, div. A, title V, § 544(c), Sept. 23, 1996, 110 Stat. 2523; Pub. L. 118–159, div. A, title V, § 512, Dec. 23, 2024, 138 Stat. 1875.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
+Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 512(1), designated introductory provisions as par. (1) and substituted “Except as provided in paragraph (2), within” for “Within”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+2024—Subsec. (a). Pub. L. 118–159, § 512(1), designated introductory provisions as par. (1) and substituted “Except as provided in paragraph (2), within” for “Within”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
-Subsec. (c). Pub. L. 118–159, § 512(2), substituted “subsection (a)(1)(C)” for “subsection (a)(3)”.
+Subsec. (c). Pub. L. 118–159, § 512(2), substituted “subsection (a)(1)(C)” for “subsection (a)(3)”.
 
 1996—Subsec. (b)(2)(B). Pub. L. 104–201 struck out “of the Air Force” after “reserve officer”.
 
@@ -755,7 +755,7 @@ Subsec. (c). Pub. L. 118–159, § 512(2), substituted “subsection (a)(1)(C)
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14315. Position vacancy promotions: Army and Air Force officers
+## § 14315. Position vacancy promotions: Army and Air Force officers
 
 **(a) Officers Eligible for Consideration For Vacancy Promotions Below Brigadier General.—** A reserve officer of the Army who is in the Army Reserve, or a reserve officer of the Air Force who is in the Air Force Reserve, who is on the reserve active-status list in the grade of first lieutenant, captain, major, or lieutenant colonel is eligible for consideration for promotion to the next higher grade under this section if each of the following applies:
 
@@ -777,21 +777,21 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(e) Special Rule for Officers Failed of Selection.—** A reserve officer of the Army or the Air Force who is considered as failed of selection for promotion under section 14501 of this title to a grade may be considered for promotion under this section or, if selected, promoted to that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill the vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(25), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, § 514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, § 1 [[div. A], title V, § 501], Oct. 30, 2000, 114 Stat. 1654, 1654A–98; Pub. L. 108–136, div. A, title V, § 512(b), Nov. 24, 2003, 117 Stat. 1460.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(25), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, § 514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, § 1 [[div. A], title V, § 501], Oct. 30, 2000, 114 Stat. 1654, 1654A–98; Pub. L. 108–136, div. A, title V, § 512(b), Nov. 24, 2003, 117 Stat. 1460.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3384 and 8373 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
+Provisions similar to those in this section were contained in sections 3384 and 8373 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
 
 **Amendments**
 
 2003—Subsec. (a)(1). Pub. L. 108–136 substituted “under regulations prescribed by the Secretary concerned, has been recommended” for “as determined by the Secretary concerned, is available”.
 
-2000—Subsec. (b)(1)(A). Pub. L. 106–398, § 1 [[div. A], title V, § 501(1)], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Army” after “Army Reserve”.
+2000—Subsec. (b)(1)(A). Pub. L. 106–398, § 1 [[div. A], title V, § 501(1)], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Army” after “Army Reserve”.
 
-Subsec. (b)(2)(A). Pub. L. 106–398, § 1 [[div. A], title V, § 501(2)], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Air Force” after “reserve grade”.
+Subsec. (b)(2)(A). Pub. L. 106–398, § 1 [[div. A], title V, § 501(2)], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Air Force” after “reserve grade”.
 
 1997—Subsec. (b)(1)(A). Pub. L. 105–85 substituted “duties of a general officer of the next higher reserve grade in the Army Reserve,” for “duties of a general officer of the next higher reserve grade in a unit of the Army Reserve organized to serve as a unit,”.
 
@@ -807,7 +807,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14316. Army National Guard and Air National Guard: appointment to and Federal recognition in a higher reserve grade after selection for promotion
+## § 14316. Army National Guard and Air National Guard: appointment to and Federal recognition in a higher reserve grade after selection for promotion
 
 **(a) Opportunity for Promotion To Fill a Vacancy in the Guard.—** If an officer of the Army National Guard of the United States or the Air National Guard of the United States is recommended by a mandatory selection board convened under section 14101(a) or a special selection board convened under section 14502 of this title for promotion to the next higher grade, an opportunity shall be given to the appropriate authority of the State to promote that officer to fill a vacancy in the Army National Guard or the Air National Guard of that jurisdiction.
 
@@ -821,7 +821,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(d) Transfer to Army Reserve or Air Force Reserve.—** If, on the date on which an officer of the Army National Guard of the United States or of the Air National Guard of the United States who is on a promotion list as described in subsection (a) is to be promoted, the officer has not been promoted to fill a vacancy in the higher grade in the Army National Guard or the Air National Guard, the officer’s Federal recognition in the officer’s reserve grade shall be withdrawn and the officer shall be promoted and transferred to the Army Reserve or the Air Force Reserve as appropriate.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2944.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2944.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -829,7 +829,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14317. Officers in transition to and from the active-status list or active-duty list
+## § 14317. Officers in transition to and from the active-status list or active-duty list
 
 **(a) Effect of Transfer to Inactive Status or Retired Status.—** If a reserve officer on the reserve active-status list is transferred to an inactive status or to a retired status after having been recommended for promotion to a higher grade under this chapter or chapter 36 of this title, or after having been found qualified for Federal recognition in the higher grade under title 32, but before being promoted, the officer—
 
@@ -867,23 +867,23 @@ unless the officer is again recommended for promotion by a selection board conve
 
 **(4)** Consideration of an officer for promotion under this subsection shall be under regulations prescribed by the Secretary of the military department concerned.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2945; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(26), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title X, § 1073(a)(68), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title V, § 512(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 110–417, [div. A], title V, § 513, Oct. 14, 2008, 122 Stat. 4441.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2945; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(26), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title X, § 1073(a)(68), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title V, § 512(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 110–417, [div. A], title V, § 513, Oct. 14, 2008, 122 Stat. 4441.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 **Amendments**
 
-2008—Subsec. (d). Pub. L. 110–417, § 513(a), designated first sentence as par. (1) and second sentence as par. (2) and, in par. (1), substituted “unless the officer—” for “unless the officer”, inserted subpar. (A) designation before “is ordered”, substituted “duty; or” for “duty.”, and added subpar. (B).
+2008—Subsec. (d). Pub. L. 110–417, § 513(a), designated first sentence as par. (1) and second sentence as par. (2) and, in par. (1), substituted “unless the officer—” for “unless the officer”, inserted subpar. (A) designation before “is ordered”, substituted “duty; or” for “duty.”, and added subpar. (B).
 
-Subsec. (e)(1)(B). Pub. L. 110–417, § 513(b), inserted “, or by examination for Federal recognition under title 32” before period at end.
+Subsec. (e)(1)(B). Pub. L. 110–417, § 513(b), inserted “, or by examination for Federal recognition under title 32” before period at end.
 
-2003—Subsec. (d). Pub. L. 108–136, § 512(a)(1), substituted “Except as provided in subsection (e), if a reserve officer” for “If a reserve officer”.
+2003—Subsec. (d). Pub. L. 108–136, § 512(a)(1), substituted “Except as provided in subsection (e), if a reserve officer” for “If a reserve officer”.
 
-Subsec. (e). Pub. L. 108–136, § 512(a)(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is not on the active-duty list and who is ordered to active duty in time of war or national emergency may, if eligible, be considered for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title for not more than two years from the date the officer is ordered to active duty unless the President suspends the operation of this section under the provisions of section 123 or 10213 of this title.”
+Subsec. (e). Pub. L. 108–136, § 512(a)(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is not on the active-duty list and who is ordered to active duty in time of war or national emergency may, if eligible, be considered for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title for not more than two years from the date the officer is ordered to active duty unless the President suspends the operation of this section under the provisions of section 123 or 10213 of this title.”
 
 1997—Subsec. (d). Pub. L. 105–85 substituted “section 14315” for “section 14314”.
 

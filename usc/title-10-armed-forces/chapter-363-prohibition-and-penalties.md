@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 363 “PROHIBITIONS AND PENALTIES”, consisting of reserved section 4651, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1862(a), Jan. 1, 2021, 134 Stat. 4277.
+A prior chapter 363 “PROHIBITIONS AND PENALTIES”, consisting of reserved section 4651, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1862(a), Jan. 1, 2021, 134 Stat. 4277.
 
-Another prior chapter 363, consisting of sections 3841 to 3855 relating to separation or transfer to the Retired Reserve, some of which had previously been repealed, was repealed in its entirety by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
+Another prior chapter 363, consisting of sections 3841 to 3855 relating to separation or transfer to the Retired Reserve, some of which had previously been repealed, was repealed in its entirety by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 841(b), Dec. 18, 2025, 139 Stat. 972, added item 4664. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 841(b), Dec. 18, 2025, 139 Stat. 972, added item 4664. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title VIII, § 851(a), Dec. 23, 2024, 138 Stat. 1995, added item 4663. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title VIII, § 851(a), Dec. 23, 2024, 138 Stat. 1995, added item 4663. Amendment was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title VIII, § 803, Dec. 22, 2023, 137 Stat. 312, added item 4662. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title VIII, § 803, Dec. 22, 2023, 137 Stat. 312, added item 4662. Amendment was made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title VIII, § 855(c), Dec. 23, 2022, 136 Stat. 2723, added item 4661.
+2022—Pub. L. 117–263, div. A, title VIII, § 855(c), Dec. 23, 2022, 136 Stat. 2723, added item 4661.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Strategy To Eliminate Acquisition of Optical Glass From Certain Nations**
 
-Pub. L. 119–60, div. A, title VIII, § 834, Dec. 18, 2025, 139 Stat. 964, provided that:
+Pub. L. 119–60, div. A, title VIII, § 834, Dec. 18, 2025, 139 Stat. 964, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall develop and implement a strategy to eliminate the reliance of the Department of Defense on any covered nation to acquire optical glass or optical systems by January 1, 2030.
 
@@ -77,7 +77,7 @@ Pub. L. 119–60, div. A, title VIII, § 834, Dec. 18, 2025, 139 Stat. 964, pr
 
 **Strategy To Eliminate Sourcing of Computer Displays From Certain Nations**
 
-Pub. L. 119–60, div. A, title VIII, § 835, Dec. 18, 2025, 139 Stat. 965, provided that:
+Pub. L. 119–60, div. A, title VIII, § 835, Dec. 18, 2025, 139 Stat. 965, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall develop and implement a strategy to eliminate the reliance of the Department of Defense on any covered nation for the acquisition of computer displays by January 1, 2030.
 
@@ -109,7 +109,7 @@ Pub. L. 119–60, div. A, title VIII, § 835, Dec. 18, 2025, 139 Stat. 965, pr
 
 **Prohibition on Procurement Related to Certain Additive Manufacturing Machines**
 
-Pub. L. 119–60, div. A, title VIII, § 849, Dec. 18, 2025, 139 Stat. 979, provided that:
+Pub. L. 119–60, div. A, title VIII, § 849, Dec. 18, 2025, 139 Stat. 979, provided that:
 
 > **“(a) Prohibition on Agency Procurement.—** Beginning on the date that is one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense may not enter into a contract for the procurement of a covered additive manufacturing machine.
 
@@ -139,7 +139,7 @@ Pub. L. 119–60, div. A, title VIII, § 849, Dec. 18, 2025, 139 Stat. 979, pr
 
 **Prohibition on Operation, Procurement, and Contracting Related to Foreign-Made Light Detection and Ranging Technology**
 
-Pub. L. 118–159, div. A, title I, § 164, Dec. 23, 2024, 138 Stat. 1818, as amended by Pub. L. 119–60, div. A, title I, § 162, Dec. 18, 2025, 139 Stat. 768, provided that:
+Pub. L. 118–159, div. A, title I, § 164, Dec. 23, 2024, 138 Stat. 1818, as amended by Pub. L. 119–60, div. A, title I, § 162, Dec. 18, 2025, 139 Stat. 768, provided that:
 
 > **“(a) Prohibition on Agency Operation or Procurement.—** The Secretary of Defense may not operate, or enter into or renew a contract for the procurement of—
 
@@ -207,7 +207,7 @@ Pub. L. 118–159, div. A, title I, § 164, Dec. 23, 2024, 138 Stat. 1818, as 
 
 **Prohibition on Procurement of Covered Semiconductor Products and Services From Companies Providing Covered Semiconductor Products and Services to Huawei**
 
-Pub. L. 118–159, div. A, title VIII, § 853, Dec. 23, 2024, 138 Stat. 1996, provided that:
+Pub. L. 118–159, div. A, title VIII, § 853, Dec. 23, 2024, 138 Stat. 1996, provided that:
 
 > **“(a) Prohibition.—** Beginning on the date that is 270 days after the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall not enter into or renew a contract for the procurement of any covered semiconductor products and services for the Department of Defense with any entity that knowingly provides covered semiconductor products and services to Huawei.
 
@@ -239,11 +239,11 @@ Pub. L. 118–159, div. A, title VIII, § 853, Dec. 23, 2024, 138 Stat. 1996, 
 
 **Prohibition on Contracts for Online Tutoring Services**
 
-Pub. L. 118–159, div. A, title VIII, § 854, Dec. 23, 2024, 138 Stat. 1997, provided that: “The Secretary of Defense may not enter into a contract for online tutoring services which could result in personal data of citizens of the United States being transferred to the control of the People’s Republic of China.”
+Pub. L. 118–159, div. A, title VIII, § 854, Dec. 23, 2024, 138 Stat. 1997, provided that: “The Secretary of Defense may not enter into a contract for online tutoring services which could result in personal data of citizens of the United States being transferred to the control of the People’s Republic of China.”
 
 **Study and Report on Department of Defense Use of Unmanned Ground Vehicle Systems Manufactured by Certain Foreign Entities**
 
-Pub. L. 118–159, div. A, title X, § 1078, Dec. 23, 2024, 138 Stat. 2075, provided that:
+Pub. L. 118–159, div. A, title X, § 1078, Dec. 23, 2024, 138 Stat. 2075, provided that:
 
 > **“(a) Study on Department of Defense Use of Certain Unmanned Ground Vehicle Systems.—**
 
@@ -311,7 +311,7 @@ Pub. L. 118–159, div. A, title X, § 1078, Dec. 23, 2024, 138 Stat. 2075, pr
 
 **Prohibition on Availability of Funds for Procurement of Certain Batteries**
 
-Pub. L. 118–31, div. A, title I, § 154, Dec. 22, 2023, 137 Stat. 180, provided that:
+Pub. L. 118–31, div. A, title I, § 154, Dec. 22, 2023, 137 Stat. 180, provided that:
 
 > **“(a) Limitation.—** Beginning on October 1, 2027, none of the funds authorized to be appropriated or otherwise made available for the Department of Defense may be obligated or expended to procure a battery produced by an entity specified in subsection (b).
 
@@ -341,7 +341,7 @@ Pub. L. 118–31, div. A, title I, § 154, Dec. 22, 2023, 137 Stat. 180, provi
 
 **Limitation on Sourcing Chemical Materials for Munitions From Certain Countries**
 
-Pub. L. 118–31, div. A, title II, § 244, Dec. 22, 2023, 137 Stat. 209, provided that:
+Pub. L. 118–31, div. A, title II, § 244, Dec. 22, 2023, 137 Stat. 209, provided that:
 
 > **“(a) Limitation.—** The Secretary of Defense may not procure a chemical material for munitions specified in subsection (b) from any country specified in subsection (c).
 
@@ -361,7 +361,7 @@ Pub. L. 118–31, div. A, title II, § 244, Dec. 22, 2023, 137 Stat. 209, prov
 
 **Prohibition on Required Disclosure by Department of Defense Contractors of Information Relating to Greenhouse Gas Emissions**
 
-Pub. L. 118–31, div. A, title III, § 318, Dec. 22, 2023, 137 Stat. 218, as amended by Pub. L. 118–159, div. A, title III, § 316, Dec. 23, 2024, 138 Stat. 1852, provided that:
+Pub. L. 118–31, div. A, title III, § 318, Dec. 22, 2023, 137 Stat. 218, as amended by Pub. L. 118–159, div. A, title III, § 316, Dec. 23, 2024, 138 Stat. 1852, provided that:
 
 > **“(a) Prohibition on Disclosure Requirements.—**
 
@@ -395,7 +395,7 @@ Pub. L. 118–31, div. A, title III, § 318, Dec. 22, 2023, 137 Stat. 218, as 
 
 **Prohibition on Contracting With Entities or Individuals That Have Fossil Fuel Operations With the Government of the Russian Federation or the Russian Energy Sector**
 
-Pub. L. 118–31, div. A, title VIII, § 804, Dec. 22, 2023, 137 Stat. 313, as amended by Pub. L. 119–60, div. A, title VIII, § 846, Dec. 18, 2025, 139 Stat. 977, provided that:
+Pub. L. 118–31, div. A, title VIII, § 804, Dec. 22, 2023, 137 Stat. 313, as amended by Pub. L. 119–60, div. A, title VIII, § 846, Dec. 18, 2025, 139 Stat. 977, provided that:
 
 > **“(a) Prohibition.—**
 
@@ -487,7 +487,7 @@ Pub. L. 118–31, div. A, title VIII, § 804, Dec. 22, 2023, 137 Stat. 313, as
 
 **Prohibition of the Department of Defense Procurement Related to Entities Identified as Chinese Military Companies Operating in the United States**
 
-Pub. L. 118–31, div. A, title VIII, § 805, Dec. 22, 2023, 137 Stat. 315, as amended by Pub. L. 119–60, div. A, title VIII, § 845, Dec. 18, 2025, 139 Stat. 977, provided that:
+Pub. L. 118–31, div. A, title VIII, § 805, Dec. 22, 2023, 137 Stat. 315, as amended by Pub. L. 119–60, div. A, title VIII, § 845, Dec. 18, 2025, 139 Stat. 977, provided that:
 
 > **“(a) Prohibition on Use or Procurement.—**
 
@@ -551,11 +551,11 @@ Pub. L. 118–31, div. A, title VIII, § 805, Dec. 22, 2023, 137 Stat. 315, as
 
 **Prohibition on Certain Procurements From the Xinjiang Uyghur Autonomous Region**
 
-Pub. L. 117–81, div. A, title VIII, § 848, Dec. 27, 2021, 135 Stat. 1843, which related to procurement of products mined, produced, or manufactured wholly or in part by forced labor from Xinjiang Uyghur Autonomous Region of the People’s Republic of China, was repealed by Pub. L. 117–263, div. A, title VIII, § 855(a), Dec. 23, 2022, 136 Stat. 2723. See section 4661 of this title.
+Pub. L. 117–81, div. A, title VIII, § 848, Dec. 27, 2021, 135 Stat. 1843, which related to procurement of products mined, produced, or manufactured wholly or in part by forced labor from Xinjiang Uyghur Autonomous Region of the People’s Republic of China, was repealed by Pub. L. 117–263, div. A, title VIII, § 855(a), Dec. 23, 2022, 136 Stat. 2723. See section 4661 of this title.
 
 **Employment Transparency Regarding Individuals Who Perform Work in the People’s Republic of China**
 
-Pub. L. 117–81, div. A, title VIII, § 855, Dec. 27, 2021, 135 Stat. 1850, as amended by Pub. L. 118–159, div. A, title VIII, § 839, Dec. 23, 2024, 138 Stat. 1988, provided that:
+Pub. L. 117–81, div. A, title VIII, § 855, Dec. 27, 2021, 135 Stat. 1850, as amended by Pub. L. 118–159, div. A, title VIII, § 839, Dec. 23, 2024, 138 Stat. 1988, provided that:
 
 > **“(a) Disclosure Requirements.—**
 
@@ -601,7 +601,7 @@ Pub. L. 117–81, div. A, title VIII, § 855, Dec. 27, 2021, 135 Stat. 1850, a
 
 **Prohibition on Procurements From Chinese Military Companies**
 
-Pub. L. 109–163, div. A, title XII, § 1211, Jan. 6, 2006, 119 Stat. 3461, as amended by Pub. L. 112–81, div. A, title XII, § 1243(a), (b), Dec. 31, 2011, 125 Stat. 1645; Pub. L. 114–328, div. A, title XII, § 1296, Dec. 23, 2016, 130 Stat. 2562; Pub. L. 117–263, div. A, title VIII, § 857(b), Dec. 23, 2022, 136 Stat. 2729, provided that:
+Pub. L. 109–163, div. A, title XII, § 1211, Jan. 6, 2006, 119 Stat. 3461, as amended by Pub. L. 112–81, div. A, title XII, § 1243(a), (b), Dec. 31, 2011, 125 Stat. 1645; Pub. L. 114–328, div. A, title XII, § 1296, Dec. 23, 2016, 130 Stat. 2562; Pub. L. 117–263, div. A, title VIII, § 857(b), Dec. 23, 2022, 136 Stat. 2729, provided that:
 
 > **“(a) Prohibition.—** The Secretary of Defense may not procure goods or services described in subsection (b), through a contract or any subcontract (at any tier) under a contract, from any Communist Chinese military company, any Chinese military company, any Non-SDN Chinese military-industrial complex company, or any other covered company.
 
@@ -657,9 +657,9 @@ Pub. L. 109–163, div. A, title XII, § 1211, Jan. 6, 2006, 119 Stat. 3461, a
 
 > **“(f) Effective Date.—** With respect to goods and services described in clause (ii) of subparagraph (b)(1)(B), the prohibition shall take effect 180 days after the date on which the Secretary of Defense certifies to the congressional defense committees that a sufficient number of commercially viable providers exist outside of the People’s Republic of China that collectively can provide the Department of Defense with satisfactory quality and sufficient quantity of such goods or services as and when needed at United States market prices.”
 
-[Pub. L. 112–81, div. A, title XII, § 1243(c), Dec. 31, 2011, 125 Stat. 1646, provided that: “The amendments made by this section [amending section 1211 of Pub. L. 109–163, set out above] take effect on the date of the enactment of this Act [Dec. 31, 2011] and apply with respect to contracts and subcontracts of the Department of Defense entered into on or after the date of the enactment of this Act.” ]
+[Pub. L. 112–81, div. A, title XII, § 1243(c), Dec. 31, 2011, 125 Stat. 1646, provided that: “The amendments made by this section [amending section 1211 of Pub. L. 109–163, set out above] take effect on the date of the enactment of this Act [Dec. 31, 2011] and apply with respect to contracts and subcontracts of the Department of Defense entered into on or after the date of the enactment of this Act.” ]
 
-## § 4651. Expenditure of appropriations: limitation
+## § 4651. Expenditure of appropriations: limitation
 
 **(a)** Money appropriated to the Department of Defense may not be spent under a contract other than a contract for personal services unless that contract provides that—
 
@@ -671,21 +671,21 @@ The existence of facts upon which the Secretary makes findings under clause (1) 
 
 **(b)** This section does not apply to a contract that is for an amount not greater than the simplified acquisition threshold (as defined in section 134 of title 41).
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520, § 2207; amended Pub. L. 104–106, div. A, title VIII, § 801, Feb. 10, 1996, 110 Stat. 389; Pub. L. 111–350, § 5(b)(5), Jan. 4, 2011, 124 Stat. 3842; renumbered § 4651, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520, § 2207; amended Pub. L. 104–106, div. A, title VIII, § 801, Feb. 10, 1996, 110 Stat. 389; Pub. L. 111–350, § 5(b)(5), Jan. 4, 2011, 124 Stat. 3842; renumbered § 4651, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2207 | 5:174d. | June 30, 1954, ch. 432, § 719, 68 Stat. 353. |
+| 2207 | 5:174d. | June 30, 1954, ch. 432, § 719, 68 Stat. 353. |
 
-The following substitutions are made: “spent” for “expended”; “United States” for “Government”; “if a contract is terminated under clause (1)” for “that in the event any such contract is so terminated”; and “has . . . that it would have had if” for “shall be entitled . . . to pursue . . . as it could pursue in the event of”. The word “official” is inserted for clarity. The words “entered into after June 30, 1954” are omitted as executed.
+The following substitutions are made: “spent” for “expended”; “United States” for “Government”; “if a contract is terminated under clause (1)” for “that in the event any such contract is so terminated”; and “has . . . that it would have had if” for “shall be entitled . . . to pursue . . . as it could pursue in the event of”. The word “official” is inserted for clarity. The words “entered into after June 30, 1954” are omitted as executed.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4651, Aug. 10, 1956, ch. 1041, 70A Stat. 260; Pub. L. 99–145, title XIII, § 1301(b(3)(C), Nov. 8, 1985, 99 Stat. 736, related to issuance of arms, tentage, and equipment necessary for proper military training to institutions not maintaining units of the Reserve Officers’ Training Corps, prior to repeal by Pub. L. 112–239, div. A, title V, § 552(b), Jan. 2, 2013, 126 Stat. 1741.
+A prior section 4651, Aug. 10, 1956, ch. 1041, 70A Stat. 260; Pub. L. 99–145, title XIII, § 1301(b(3)(C), Nov. 8, 1985, 99 Stat. 736, related to issuance of arms, tentage, and equipment necessary for proper military training to institutions not maintaining units of the Reserve Officers’ Training Corps, prior to repeal by Pub. L. 112–239, div. A, title V, § 552(b), Jan. 2, 2013, 126 Stat. 1741.
 
 **Amendments**
 
@@ -701,11 +701,11 @@ A prior section 4651, Aug. 10, 1956, ch. 1041, 70A Stat. 260; Pub. L. 99–145, 
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4652. Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs
+## § 4652. Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs
 
 No funds appropriated by the Congress may be obligated or expended to assist any contractor of the Department of Defense in preparing any material, report, lists, or analysis with respect to the actual or projected economic or employment impact in a particular State or congressional district of an acquisition program for which all research, development, testing, and evaluation has not been completed.
 
-(Added Pub. L. 103–355, title VII, § 7202(a)(1), Oct. 13, 1994, 108 Stat. 3379, § 2247; renumbered § 2249, Pub. L. 104–106, div. D, title XLIII, § 4321(b)(2)(A), Feb. 10, 1996, 110 Stat. 672; renumbered § 4652, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 103–355, title VII, § 7202(a)(1), Oct. 13, 1994, 108 Stat. 3379, § 2247; renumbered § 2249, Pub. L. 104–106, div. D, title XLIII, § 4321(b)(2)(A), Feb. 10, 1996, 110 Stat. 672; renumbered § 4652, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
@@ -729,13 +729,13 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under section 8752 of this title.
 
-## § 4653. Prohibition on use of funds to relieve economic dislocations
+## § 4653. Prohibition on use of funds to relieve economic dislocations
 
 **(a)** In order to help avoid the uneconomic use of Department of Defense funds in the procurement of goods and services, the Congress finds that it is necessary to prohibit the use of such funds for certain purposes.
 
 **(b)** No funds appropriated to or for the use of the Department of Defense may be used to pay, in connection with any contract awarded by the Department of Defense, a price differential for the purpose of relieving economic dislocations.
 
-(Added Pub. L. 97–86, title IX, § 913(a)(1), Dec. 1, 1981, 95 Stat. 1123, § 2392; renumbered § 4653, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 97–86, title IX, § 913(a)(1), Dec. 1, 1981, 95 Stat. 1123, § 2392; renumbered § 4653, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
@@ -753,7 +753,7 @@ A prior section 4653 was renumbered section 7653 of this title.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4654. Prohibition against doing business with certain offerors or contractors
+## § 4654. Prohibition against doing business with certain offerors or contractors
 
 **(a)**
 
@@ -775,7 +775,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(d)** The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41). The requirement shall not apply in the case of a subcontract for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
 
-(Added Pub. L. 97–86, title IX, § 914(a), Dec. 1, 1981, 95 Stat. 1124, § 2393; amended Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title VIII, § 813, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–190, div. A, title X, § 1061(a)(11), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–355, title IV, § 4102(e), title VIII, § 8105(c), Oct. 13, 1994, 108 Stat. 3340, 3392; Pub. L. 111–350, § 5(b)(24), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 113–66, div. A, title VIII, § 813, Dec. 26, 2013, 127 Stat. 808; Pub. L. 115–232, div. A, title VIII, § 836(e)(3), Aug. 13, 2018, 132 Stat. 1869; renumbered § 4654, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 97–86, title IX, § 914(a), Dec. 1, 1981, 95 Stat. 1124, § 2393; amended Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title VIII, § 813, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–190, div. A, title X, § 1061(a)(11), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–355, title IV, § 4102(e), title VIII, § 8105(c), Oct. 13, 1994, 108 Stat. 3340, 3392; Pub. L. 111–350, § 5(b)(24), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 113–66, div. A, title VIII, § 813, Dec. 26, 2013, 127 Stat. 808; Pub. L. 115–232, div. A, title VIII, § 836(e)(3), Aug. 13, 2018, 132 Stat. 1869; renumbered § 4654, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
@@ -815,7 +815,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of this title.
 
-## § 4655. Prohibition of contractors limiting subcontractor sales directly to the United States
+## § 4655. Prohibition of contractors limiting subcontractor sales directly to the United States
 
 **(a)** Each contract for the purchase of supplies or services made by the Department of Defense shall provide that the contractor will not—
 
@@ -833,7 +833,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 **(2)** In paragraph (1), the terms “commercial product” and “commercial service” have the meanings given those terms in sections 103 and 103a, respectively, of title 41.
 
-(Added Pub. L. 98–525, title XII, § 1234(a), Oct. 19, 1984, 98 Stat. 2601, § 2402; amended Pub. L. 103–355, title IV, § 4102(f), title VIII, § 8105(g), Oct. 13, 1994, 108 Stat. 3340, 3392; Pub. L. 111–350, § 5(b)(25), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, § 836(e)(4), Aug. 13, 2018, 132 Stat. 1869; renumbered § 4655, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 98–525, title XII, § 1234(a), Oct. 19, 1984, 98 Stat. 2601, § 2402; amended Pub. L. 103–355, title IV, § 4102(f), title VIII, § 8105(g), Oct. 13, 1994, 108 Stat. 3340, 3392; Pub. L. 111–350, § 5(b)(25), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, § 836(e)(4), Aug. 13, 2018, 132 Stat. 1869; renumbered § 4655, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
@@ -845,13 +845,13 @@ A prior section 4655 was renumbered section 7655 of this title.
 
 2021—Pub. L. 116–283 renumbered section 2402 of this title as this section.
 
-2018—Subsec. (d)(1). Pub. L. 115–232, § 836(e)(4)(A), substituted “commercial products or commercial services” for “commercial items” in two places.
+2018—Subsec. (d)(1). Pub. L. 115–232, § 836(e)(4)(A), substituted “commercial products or commercial services” for “commercial items” in two places.
 
-Subsec. (d)(2). Pub. L. 115–232, § 836(e)(4)(B), substituted “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.” for “the term ‘commercial item’ has the meaning given such term in section 103 of title 41.”
+Subsec. (d)(2). Pub. L. 115–232, § 836(e)(4)(B), substituted “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.” for “the term ‘commercial item’ has the meaning given such term in section 103 of title 41.”
 
-2011—Subsec. (c). Pub. L. 111–350, § 5(b)(25)(A), substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
+2011—Subsec. (c). Pub. L. 111–350, § 5(b)(25)(A), substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
 
-Subsec. (d)(2). Pub. L. 111–350, § 5(b)(25)(B), substituted “section 103 of title 41” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))”.
+Subsec. (d)(2). Pub. L. 111–350, § 5(b)(25)(B), substituted “section 103 of title 41” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))”.
 
 1994—Subsecs. (c), (d). Pub. L. 103–355 added subsecs. (c) and (d).
 
@@ -871,9 +871,9 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 **Effective Date**
 
-Pub. L. 98–525, title XII, § 1234(c), Oct. 19, 1984, 98 Stat. 2604, provided that: “Section 2402 of title 10, United States Code [now 10 U.S.C. 4655] (as added by subsection (a)), shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act [Oct. 19, 1984].”
+Pub. L. 98–525, title XII, § 1234(c), Oct. 19, 1984, 98 Stat. 2604, provided that: “Section 2402 of title 10, United States Code [now 10 U.S.C. 4655] (as added by subsection (a)), shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act [Oct. 19, 1984].”
 
-## § 4656. Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors
+## § 4656. Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors
 
 **(a) Prohibition.—**
 
@@ -911,7 +911,7 @@ Pub. L. 98–525, title XII, § 1234(c), Oct. 19, 1984, 98 Stat. 2604, provide
 
 **(2)** The procedure for obtaining such information shall be specified in regulations prescribed by the Secretary of Defense under subsection (a).
 
-(Added Pub. L. 99–500, § 101(c) [title X, § 941(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–161, and Pub. L. 99–591, § 101(c) [title X, § 941(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–161, § 2408; Pub. L. 99–661, div. A, title IX, formerly title IV, § 941(a)(1), Nov. 14, 1986, 100 Stat. 3941, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–456, div. A, title VIII, § 831(a), Sept. 29, 1988, 102 Stat. 2023; Pub. L. 101–510, div. A, title VIII, § 812, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–484, div. A, title VIII, § 815(a), Oct. 23, 1992, 106 Stat. 2454; Pub. L. 103–355, title IV, § 4102(g), title VIII, § 8105(h), Oct. 13, 1994, 108 Stat. 3340, 3393; Pub. L. 104–106, div. A, title X, § 1062(e), Feb. 10, 1996, 110 Stat. 444; Pub. L. 111–350, § 5(b)(26), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, § 836(e)(5), Aug. 13, 2018, 132 Stat. 1870; renumbered § 4656, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 99–500, § 101(c) [title X, § 941(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–161, and Pub. L. 99–591, § 101(c) [title X, § 941(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–161, § 2408; Pub. L. 99–661, div. A, title IX, formerly title IV, § 941(a)(1), Nov. 14, 1986, 100 Stat. 3941, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–456, div. A, title VIII, § 831(a), Sept. 29, 1988, 102 Stat. 2023; Pub. L. 101–510, div. A, title VIII, § 812, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–484, div. A, title VIII, § 815(a), Oct. 23, 1992, 106 Stat. 2454; Pub. L. 103–355, title IV, § 4102(g), title VIII, § 8105(h), Oct. 13, 1994, 108 Stat. 3340, 3393; Pub. L. 104–106, div. A, title X, § 1062(e), Feb. 10, 1996, 110 Stat. 444; Pub. L. 111–350, § 5(b)(26), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, § 836(e)(5), Aug. 13, 2018, 132 Stat. 1870; renumbered § 4656, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
@@ -931,31 +931,31 @@ A prior section 4656 was renumbered section 7656 of this title.
 
 2018—Subsec. (a)(4)(B). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “commercial items (as defined in section 103 of title 41)”.
 
-2011—Subsec. (a)(4)(A). Pub. L. 111–350, § 5(b)(26)(A), substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
+2011—Subsec. (a)(4)(A). Pub. L. 111–350, § 5(b)(26)(A), substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
 
-Subsec. (a)(4)(B). Pub. L. 111–350, § 5(b)(26)(B), substituted “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
+Subsec. (a)(4)(B). Pub. L. 111–350, § 5(b)(26)(B), substituted “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
 
 1996—Subsec. (a)(3). Pub. L. 104–106 struck out at end “If the five-year period is waived, the Secretary shall submit to Congress a report stating the reasons for the waiver.”
 
-1994—Subsec. (a)(4). Pub. L. 103–355, § 4102(g), added introductory provisions and subpar. (A).
+1994—Subsec. (a)(4). Pub. L. 103–355, § 4102(g), added introductory provisions and subpar. (A).
 
-Subsec. (a)(4)(B). Pub. L. 103–355, § 8105(h)(1), added subpar. (B).
+Subsec. (a)(4)(B). Pub. L. 103–355, § 8105(h)(1), added subpar. (B).
 
-Subsec. (a)(4)(C). Pub. L. 103–355, § 8105(h)(2), inserted “or (B)” before period at end.
+Subsec. (a)(4)(C). Pub. L. 103–355, § 8105(h)(2), inserted “or (B)” before period at end.
 
-Pub. L. 103–355, § 4102(g), added subpar. (C).
+Pub. L. 103–355, § 4102(g), added subpar. (C).
 
 1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–510, § 812(a)(1), inserted before period at end “or any first tier subcontract of a defense contract”.
+1990—Subsec. (a)(1)(A). Pub. L. 101–510, § 812(a)(1), inserted before period at end “or any first tier subcontract of a defense contract”.
 
-Subsec. (a)(1)(B). Pub. L. 101–510, § 812(a)(2), inserted before period at end “or any subcontractor awarded a contract directly by a defense contractor”.
+Subsec. (a)(1)(B). Pub. L. 101–510, § 812(a)(2), inserted before period at end “or any subcontractor awarded a contract directly by a defense contractor”.
 
-Subsec. (a)(1)(C). Pub. L. 101–510, § 812(a)(3), inserted before period at end “or any subcontractor awarded a contract directly by a defense contractor”.
+Subsec. (a)(1)(C). Pub. L. 101–510, § 812(a)(3), inserted before period at end “or any subcontractor awarded a contract directly by a defense contractor”.
 
-Subsec. (a)(1)(D). Pub. L. 101–510, § 812(a)(4), inserted before period at end “or first tier subcontract of a defense contract”.
+Subsec. (a)(1)(D). Pub. L. 101–510, § 812(a)(4), inserted before period at end “or first tier subcontract of a defense contract”.
 
-Subsec. (b). Pub. L. 101–510, § 812(b), inserted “or subcontractor” after “contractor” wherever appearing.
+Subsec. (b). Pub. L. 101–510, § 812(b), inserted “or subcontractor” after “contractor” wherever appearing.
 
 1988—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A person who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from working in a management or supervisory capacity on any defense contract, or serving on the board of directors of any defense contractor, for a period, as determined by the Secretary of Defense, of not less than one year from the date of the conviction.”
 
@@ -975,13 +975,13 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VIII, § 831(b), Sept. 29, 1988, 102 Stat. 2023, provided that: “Section 2408(a) of title 10, United States Code [now 10 U.S.C. 4656(a)], as amended by subsection (a), shall apply with respect to individuals convicted after the date of the enactment of this Act [Sept. 29, 1988].”
+Pub. L. 100–456, div. A, title VIII, § 831(b), Sept. 29, 1988, 102 Stat. 2023, provided that: “Section 2408(a) of title 10, United States Code [now 10 U.S.C. 4656(a)], as amended by subsection (a), shall apply with respect to individuals convicted after the date of the enactment of this Act [Sept. 29, 1988].”
 
 **Effective Date**
 
-Pub. L. 99–500, § 101(c) [title X, § 941(c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, Pub. L. 99–591, § 101(c) [title X, § 941(c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 941(c), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2408 of title 10, United States Code [now 10 U.S.C. 4656] (as added by subsection (a)(1)), shall apply with respect to employment or service on a board of directors after the date of the enactment of this Act [Oct. 18, 1986].”
+Pub. L. 99–500, § 101(c) [title X, § 941(c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, Pub. L. 99–591, § 101(c) [title X, § 941(c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 941(c), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2408 of title 10, United States Code [now 10 U.S.C. 4656] (as added by subsection (a)(1)), shall apply with respect to employment or service on a board of directors after the date of the enactment of this Act [Oct. 18, 1986].”
 
-## § 4657. Prohibition on criminal history inquiries by contractors prior to conditional offer
+## § 4657. Prohibition on criminal history inquiries by contractors prior to conditional offer
 
 **(a) Limitation on Criminal History Inquiries.—**
 
@@ -1037,7 +1037,7 @@ Pub. L. 99–500, § 101(c) [title X, § 941(c)], Oct. 18, 1986, 100 Stat. 1
 
 **(2) Criminal history record information.—** The term “criminal history record information” has the meaning given that term in section 9201 of title 5.
 
-(Added Pub. L. 116–92, div. A, title XI, § 1123(b)(1), Dec. 20, 2019, 133 Stat. 1612, § 2339; renumbered § 4657, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 116–92, div. A, title XI, § 1123(b)(1), Dec. 20, 2019, 133 Stat. 1612, § 2339; renumbered § 4657, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
@@ -1045,7 +1045,7 @@ Pub. L. 99–500, § 101(c) [title X, § 941(c)], Oct. 18, 1986, 100 Stat. 1
 
 The date of enactment of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (a)(3)(B)(i), is the date of enactment of subtitle B of title XI of div. A of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(3)(B)(ii)(I), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(3)(B)(ii)(I), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -1063,37 +1063,37 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 116–92, div. A, title XI, § 1123(b)(2), Dec. 20, 2019, 133 Stat. 1614, as amended by Pub. L. 116–283, div. A, title XVIII, § 1862(c)(3)(A), Jan. 1, 2021, 134 Stat. 4278, provided that: “Section 4657(a) of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant to solicitations issued after the effective date described in section 1122(b)(2) of this subtitle [2 years after Dec. 20, 2019, see Effective Date note set out under section 9202 of Title 5, Government Organization and Employees].”
+Pub. L. 116–92, div. A, title XI, § 1123(b)(2), Dec. 20, 2019, 133 Stat. 1614, as amended by Pub. L. 116–283, div. A, title XVIII, § 1862(c)(3)(A), Jan. 1, 2021, 134 Stat. 4278, provided that: “Section 4657(a) of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant to solicitations issued after the effective date described in section 1122(b)(2) of this subtitle [2 years after Dec. 20, 2019, see Effective Date note set out under section 9202 of Title 5, Government Organization and Employees].”
 
 **Revisions to Federal Acquisition Regulation**
 
-Pub. L. 116–92, div. A, title XI, § 1123(c), Dec. 20, 2019, 133 Stat. 1614, as amended by Pub. L. 116–283, div. A, title XVIII, § 1862(c)(3)(B), Jan. 1, 2021, 134 Stat. 4278, provided that:
+Pub. L. 116–92, div. A, title XI, § 1123(c), Dec. 20, 2019, 133 Stat. 1614, as amended by Pub. L. 116–283, div. A, title XVIII, § 1862(c)(3)(B), Jan. 1, 2021, 134 Stat. 4278, provided that:
 
 > **“(1) In general.—** Not later than 18 months after the date of enactment of this subtitle [Dec. 20, 2019], the Federal Acquisition Regulatory Council shall revise the Federal Acquisition Regulation to implement section 4714 of title 41, United States Code, and section 4657 of title 10, United States Code, as added by this section.
 
 > **“(2) Consistency with office of personnel management regulations.—** The Federal Acquisition Regulatory Council shall revise the Federal Acquisition Regulation under paragraph (1) to be consistent with the regulations issued by the Director of the Office of Personnel Management under section 1122(b)(1) [5 U.S.C. 9201 note] to the maximum extent practicable. The Council shall include together with such revision an explanation of any substantive modification of the Office of Personnel Management regulations, including an explanation of how such modification will more effectively implement the rights and protections under this section.”
 
-## § 4658. Debarment of persons convicted of fraudulent use of “Made in America” labels
+## § 4658. Debarment of persons convicted of fraudulent use of “Made in America” labels
 
 **(a)** If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription, or another inscription with the same meaning, to any product sold in or shipped to the United States that is not made in America, the Secretary shall determine, not later than 90 days after determining that the person has been so convicted, whether the person should be debarred from contracting with the Department of Defense.
 
 **(b)** In this section, the term “debar” has the meaning given that term by section 4654(c) of this title.
 
-(Added Pub. L. 102–484, div. A, title VIII, § 834(a)(1), Oct. 23, 1992, 106 Stat. 2461, § 2410f; amended Pub. L. 104–106, div. A, title X, § 1062(f), title XV, § 1503(a)(22), Feb. 10, 1996, 110 Stat. 444, 512; Pub. L. 107–107, div. A, title X, § 1048(a)(20), Dec. 28, 2001, 115 Stat. 1223; renumbered § 4658 and amended Pub. L. 116–283, div. A, title XVIII, § 1862(b), (c)(2), Jan. 1, 2021, 134 Stat. 4277, 4278; Pub. L. 117–81, div. A, title XVII, § 1701(b)(20), Dec. 27, 2021, 135 Stat. 2135.)
+(Added Pub. L. 102–484, div. A, title VIII, § 834(a)(1), Oct. 23, 1992, 106 Stat. 2461, § 2410f; amended Pub. L. 104–106, div. A, title X, § 1062(f), title XV, § 1503(a)(22), Feb. 10, 1996, 110 Stat. 444, 512; Pub. L. 107–107, div. A, title X, § 1048(a)(20), Dec. 28, 2001, 115 Stat. 1223; renumbered § 4658 and amended Pub. L. 116–283, div. A, title XVIII, § 1862(b), (c)(2), Jan. 1, 2021, 134 Stat. 4277, 4278; Pub. L. 117–81, div. A, title XVII, § 1701(b)(20), Dec. 27, 2021, 135 Stat. 2135.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1862(b), renumbered section 2410f of this title as this section.
+2021—Pub. L. 116–283, § 1862(b), renumbered section 2410f of this title as this section.
 
-Subsec. (b). Pub. L. 116–283, § 1862(c)(2), as amended by Pub. L. 117–81, § 1701(b)(20), substituted “section 4654(c)” for “section 2393(c)”.
+Subsec. (b). Pub. L. 116–283, § 1862(c)(2), as amended by Pub. L. 117–81, § 1701(b)(20), substituted “section 4654(c)” for “section 2393(c)”.
 
-2001—Subsec. (a). Pub. L. 107–107 inserted “, or another inscription with the same meaning,” after “inscription”.
+2001—Subsec. (a). Pub. L. 107–107 inserted “, or another inscription with the same meaning,” after “inscription”.
 
-1996—Subsec. (a). Pub. L. 104–106, § 1062(f), struck out at end “If the Secretary determines that the person should not be debarred, the Secretary shall submit to Congress a report on such determination not later than 30 days after the determination is made.”
+1996—Subsec. (a). Pub. L. 104–106, § 1062(f), struck out at end “If the Secretary determines that the person should not be debarred, the Secretary shall submit to Congress a report on such determination not later than 30 days after the determination is made.”
 
-Subsec. (b). Pub. L. 104–106, § 1503(a)(22), substituted “In” for “For purposes of”.
+Subsec. (b). Pub. L. 104–106, § 1503(a)(22), substituted “In” for “For purposes of”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1105,23 +1105,23 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 102–484, div. A, title VIII, § 834(b), Oct. 23, 1992, 106 Stat. 2461, provided that: “Section 2410f of title 10, United States Code [now 10 U.S.C. 4658], as added by subsection (a), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–484, div. A, title VIII, § 834(b), Oct. 23, 1992, 106 Stat. 2461, provided that: “Section 2410f of title 10, United States Code [now 10 U.S.C. 4658], as added by subsection (a), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”
 
 **Prohibition of Contracts**
 
-Pub. L. 106–398, § 1 [[div. A], title VIII, § 825(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–220, provided that: “If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a ‘Made in America’ inscription, or another inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the Secretary shall determine, in accordance with section 2410f of title 10, United States Code [now 10 U.S.C. 4658], whether the person should be debarred from contracting with the Department of Defense.”
+Pub. L. 106–398, § 1 [[div. A], title VIII, § 825(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–220, provided that: “If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a ‘Made in America’ inscription, or another inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the Secretary shall determine, in accordance with section 2410f of title 10, United States Code [now 10 U.S.C. 4658], whether the person should be debarred from contracting with the Department of Defense.”
 
 Similar provisions were contained in the following prior authorization acts:
 
-Pub. L. 106–65, div. A, title VIII, § 816(b), Oct. 5, 1999, 113 Stat. 712.
+Pub. L. 106–65, div. A, title VIII, § 816(b), Oct. 5, 1999, 113 Stat. 712.
 
-Pub. L. 103–160, div. A, title VIII, § 849(b), Nov. 30, 1993, 107 Stat. 1725.
+Pub. L. 103–160, div. A, title VIII, § 849(b), Nov. 30, 1993, 107 Stat. 1725.
 
-## § 4659. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel
+## § 4659. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel
 
-**(a) Policy.—** Under section 3(5)(A) 1
+**(a) Policy.—** Under section 3(5)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
 
@@ -1139,13 +1139,13 @@ of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), it is the polic
 
 **(2)** to contracts pertaining to the use of any equipment, technology, data, or services for intelligence or classified purposes by the United States Government in the interests of national security or to the acquisition or lease of any such equipment, technology, data, or services by the United States Government in the interests of national security.
 
-(Added Pub. L. 102–484, div. A, title XIII, § 1332(a), Oct. 23, 1992, 106 Stat. 2555, § 2410i; amended Pub. L. 111–350, §§ 4, 5(b)(31), Jan. 4, 2011, 124 Stat. 3841, 3845; Pub. L. 114–328, div. A, title X, § 1081(b)(3)(D), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 115–91, div. A, title X, § 1051(a)(16), Dec. 12, 2017, 131 Stat. 1561; renumbered § 4659, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 102–484, div. A, title XIII, § 1332(a), Oct. 23, 1992, 106 Stat. 2555, § 2410i; amended Pub. L. 111–350, §§ 4, 5(b)(31), Jan. 4, 2011, 124 Stat. 3841, 3845; Pub. L. 114–328, div. A, title X, § 1081(b)(3)(D), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 115–91, div. A, title X, § 1051(a)(16), Dec. 12, 2017, 131 Stat. 1561; renumbered § 4659, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Amendments**
 
@@ -1163,7 +1163,7 @@ Section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)),
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4660. Prohibition on collection of political information
+## § 4660. Prohibition on collection of political information
 
 **(a) Prohibition on Requiring Submission of Political Information.—** The head of an agency may not require a contractor to submit political information related to the contractor or a subcontractor at any tier, or any partner, officer, director, or employee of the contractor or subcontractor—
 
@@ -1187,39 +1187,39 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(3) Other terms.—** Each of the terms “contribution”, “expenditure”, “independent expenditure”, “candidate”, “election”, “electioneering communication”, and “Federal office” has the meaning given that term in the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.).
 
-(Added Pub. L. 112–81, div. A, title VIII, § 823(a), Dec. 31, 2011, 125 Stat. 1502, § 2335; amended Pub. L. 113–291, div. A, title X, § 1071(f)(17), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, § 1081(a)(32), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 115–232, div. A, title VIII, § 836(c)(10), Aug. 13, 2018, 132 Stat. 1866; renumbered § 4660 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1862(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4277, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(d)(14), Dec. 27, 2021, 135 Stat. 2137.)
+(Added Pub. L. 112–81, div. A, title VIII, § 823(a), Dec. 31, 2011, 125 Stat. 1502, § 2335; amended Pub. L. 113–291, div. A, title X, § 1071(f)(17), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, § 1081(a)(32), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 115–232, div. A, title VIII, § 836(c)(10), Aug. 13, 2018, 132 Stat. 1866; renumbered § 4660 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1862(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4277, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(d)(14), Dec. 27, 2021, 135 Stat. 2137.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Election Campaign Act of 1971, referred to in subsecs. (c)(1) and (d)(3), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§ 30101 et seq.) of Title 52, Voting and Elections. For complete classification of this Act to the Code, see Tables.
+The Federal Election Campaign Act of 1971, referred to in subsecs. (c)(1) and (d)(3), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§ 30101 et seq.) of Title 52, Voting and Elections. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
-A prior section 4681, act Aug. 10, 1956, ch. 1041, 70A Stat. 262; Pub. L. 96–513, title V, § 512(19), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 107–217, § 3(b)(24), Aug. 21, 2002, 116 Stat. 1297, related to sale to States and certain foreign governments of surplus war material, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(D), Dec. 23, 2016, 130 Stat. 2532.
+A prior section 4681, act Aug. 10, 1956, ch. 1041, 70A Stat. 262; Pub. L. 96–513, title V, § 512(19), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 107–217, § 3(b)(24), Aug. 21, 2002, 116 Stat. 1297, related to sale to States and certain foreign governments of surplus war material, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(D), Dec. 23, 2016, 130 Stat. 2532.
 
 Prior sections 4682 to 4690 were renumbered sections 7682 to 7690 of this title, respectively.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1862(b), renumbered section 2335 of this title as this section.
+2021—Pub. L. 116–283, § 1862(b), renumbered section 2335 of this title as this section.
 
 Subsec. (c)(2). Pub. L. 117–81 substituted “subchapter I of chapter 273” for “section 2324”.
 
-Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2324”, which was redesignated as multiple sections.
+Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2324”, which was redesignated as multiple sections.
 
 2018—Subsec. (b). Pub. L. 115–232 substituted “commercial products and commercial services” for “commercial items”.
 
 2017—Subsecs. (c)(1), (d)(3). Pub. L. 115–91 substituted “(52 U.S.C. 30101 et seq.)” for “(2 U.S.C. 431 et seq.)”.
 
-2014—Subsec. (d)(2). Pub. L. 113–291, § 1071(f)(17)(A), redesignated last sentence as par. (3).
+2014—Subsec. (d)(2). Pub. L. 113–291, § 1071(f)(17)(A), redesignated last sentence as par. (3).
 
-Subsec. (d)(3). Pub. L. 113–291, § 1071(f)(17)(B)(ii), (iii), substituted “that term” for “the term” and “Federal Election Campaign” for “Federal Campaign”.
+Subsec. (d)(3). Pub. L. 113–291, § 1071(f)(17)(B)(ii), (iii), substituted “that term” for “the term” and “Federal Election Campaign” for “Federal Campaign”.
 
-Pub. L. 113–291, § 1071(f)(17)(B)(i), which directed amendment of par. (3) by inserting “Other terms.—” before “each of”, was executed by making the insertion before “Each of” to reflect the probable intent of Congress.
+Pub. L. 113–291, § 1071(f)(17)(B)(i), which directed amendment of par. (3) by inserting “Other terms.—” before “each of”, was executed by making the insertion before “Each of” to reflect the probable intent of Congress.
 
-Pub. L. 113–291, § 1071(f)(17)(A), redesignated last sentence of par. (2) as (3).
+Pub. L. 113–291, § 1071(f)(17)(A), redesignated last sentence of par. (2) as (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1233,21 +1233,21 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 4661. Prohibition on certain procurements from the Xinjiang Uyghur Autonomous Region
+## § 4661. Prohibition on certain procurements from the Xinjiang Uyghur Autonomous Region
 
 **(a) Prohibition on the Availability of Funds for Certain Procurements From XUAR.—** None of the funds authorized to be appropriated by a national defense authorization Act or any other Act, or otherwise made available for any fiscal year for the Department of Defense, may be obligated or expended to knowingly procure any products mined, produced, or manufactured wholly or in part by forced labor from XUAR or from an entity that has used labor from within or transferred from XUAR as part of a “poverty alleviation” or “pairing assistance” program.
 
 **(b) Definitions.—** In this section, the terms “forced labor” and “XUAR” have the meanings given, respectively, in section 2496 of this title.
 
-(Added Pub. L. 117–263, div. A, title VIII, § 855(b), Dec. 23, 2022, 136 Stat. 2723.)
+(Added Pub. L. 117–263, div. A, title VIII, § 855(b), Dec. 23, 2022, 136 Stat. 2723.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Policy Required**
 
-Pub. L. 117–263, div. A, title VIII, § 855(d), Dec. 23, 2022, 136 Stat. 2723, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall issue a policy to require that an offeror or awardee of a Department of Defense contract shall make a good faith effort to determine that forced labor from XUAR, as described in section 4661 of title 10, United States Code (as amended by subsection (b)), will not be used in the performance of such contract.”
+Pub. L. 117–263, div. A, title VIII, § 855(d), Dec. 23, 2022, 136 Stat. 2723, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall issue a policy to require that an offeror or awardee of a Department of Defense contract shall make a good faith effort to determine that forced labor from XUAR, as described in section 4661 of title 10, United States Code (as amended by subsection (b)), will not be used in the performance of such contract.”
 
-## § 4662. Prohibition on the transfer of certain data on employees of the Department of Defense to third parties
+## § 4662. Prohibition on the transfer of certain data on employees of the Department of Defense to third parties
 
 **(a) In General.—** Each contract entered into by the Department of Defense on or after the date of the enactment of this section shall include a provision prohibiting the contractor and each subcontractor under such contract from selling, licensing, or otherwise transferring covered individually identifiable Department employee data to any individual or entity other than the Federal Government, except to the extent required to perform such contract or a subcontract under such contract. This provision does not apply in circumstances where the transfer of such data would otherwise be authorized by law.
 
@@ -1275,7 +1275,7 @@ Pub. L. 117–263, div. A, title VIII, § 855(d), Dec. 23, 2022, 136 Stat. 272
 
 **(B)** which may be used to infer, by either direct or indirect means, the identity of such an employee to whom the information applies.
 
-(Added Pub. L. 118–31, div. A, title VIII, § 803, Dec. 22, 2023, 137 Stat. 312; amended Pub. L. 118–159, div. A, title VIII, § 836, Dec. 23, 2024, 138 Stat. 1987.)
+(Added Pub. L. 118–31, div. A, title VIII, § 803, Dec. 22, 2023, 137 Stat. 312; amended Pub. L. 118–159, div. A, title VIII, § 836, Dec. 23, 2024, 138 Stat. 1987.)
 
 **Editorial Notes**
 
@@ -1285,15 +1285,15 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 836(1), struck out “and that would be permissible pursuant to statute or guidance from the Director of the Office of Management and Budget” after “or a subcontract under such contract” and inserted at end “This provision does not apply in circumstances where the transfer of such data would otherwise be authorized by law.”
+2024—Subsec. (a). Pub. L. 118–159, § 836(1), struck out “and that would be permissible pursuant to statute or guidance from the Director of the Office of Management and Budget” after “or a subcontract under such contract” and inserted at end “This provision does not apply in circumstances where the transfer of such data would otherwise be authorized by law.”
 
-Subsec. (b). Pub. L. 118–159, § 836(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense may waive the requirements of subsection (a) with respect to a sale, licensing, or other transfer of covered individually identifiable Department employee data if the Secretary determines that such waiver is appropriate.”
+Subsec. (b). Pub. L. 118–159, § 836(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense may waive the requirements of subsection (a) with respect to a sale, licensing, or other transfer of covered individually identifiable Department employee data if the Secretary determines that such waiver is appropriate.”
 
-Subsecs. (c), (d). Pub. L. 118–159, § 836(3), (5), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 118–159, § 836(3), (5), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (d)(1). Pub. L. 118–159, § 836(4), amended par. (1) generally. Prior to amendment, par. (1) defined covered individually identifiable Department employee data.
+Subsec. (d)(1). Pub. L. 118–159, § 836(4), amended par. (1) generally. Prior to amendment, par. (1) defined covered individually identifiable Department employee data.
 
-## § 4663. Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies
+## § 4663. Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies
 
 **(a) Prohibition on Entering Into Contracts With Covered Entities.—** Except as provided in subsection (c), the Secretary of Defense may not enter into a contract with an entity, a parent company of such entity, or a subsidiary of such entity if such entity is a party to a contract with a covered lobbyist.
 
@@ -1307,7 +1307,7 @@ Subsec. (d)(1). Pub. L. 118–159, § 836(4), amended par. (1) generally. Prio
 
 **(2)** The term “lobbying activities” has the meaning given in section 1045(c) of the National Defense Authorization Act for Fiscal Year 2018 (10 U.S.C. 971 note prec.).
 
-(Added Pub. L. 118–159, div. A, title VIII, § 851(a), Dec. 23, 2024, 138 Stat. 1995; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(29), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 118–159, div. A, title VIII, § 851(a), Dec. 23, 2024, 138 Stat. 1995; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(29), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
@@ -1325,9 +1325,9 @@ Section 1045(c) of the National Defense Authorization Act for Fiscal Year 2018, 
 
 **Effective Date**
 
-Pub. L. 118–159, div. A, title VIII, § 851(b), Dec. 23, 2024, 138 Stat. 1995, provided that: “This section [enacting this section] and the amendments made by this section shall take effect on June 30, 2026.”
+Pub. L. 118–159, div. A, title VIII, § 851(b), Dec. 23, 2024, 138 Stat. 1995, provided that: “This section [enacting this section] and the amendments made by this section shall take effect on June 30, 2026.”
 
-## § 4664. Requirements relating to long-term concessions agreements with certain retailers
+## § 4664. Requirements relating to long-term concessions agreements with certain retailers
 
 **(a) Prohibition on Contracting With Certain Retailers.—** Except as provided by subsections (b) and (c), the Secretary of Defense may not renew, extend, or enter into a long-term concessions agreement with a retailer that is controlled by a covered nation to permit such retailer to operate or conduct business through a physical location on a covered military installation.
 
@@ -1379,13 +1379,13 @@ Pub. L. 118–159, div. A, title VIII, § 851(b), Dec. 23, 2024, 138 Stat. 199
 
 **(C)** a Secretary of a military department.
 
-(Added Pub. L. 119–60, div. A, title VIII, § 841(b), Dec. 18, 2025, 139 Stat. 972.)
+(Added Pub. L. 119–60, div. A, title VIII, § 841(b), Dec. 18, 2025, 139 Stat. 972.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Requirements Relating to Long-Term Concessions Agreements With Certain Retailers**
 
-Pub. L. 119–60, div. A, title VIII, § 841(a), Dec. 18, 2025, 139 Stat. 971, provided that:
+Pub. L. 119–60, div. A, title VIII, § 841(a), Dec. 18, 2025, 139 Stat. 971, provided that:
 
 > **“(a) Assessment of Established Agreements.—**
 

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 6901. Findings
+### § 6901. Findings
 
 The Congress finds the following:
 
@@ -45,25 +45,25 @@ The Congress finds the following:
 
 **(12)** The Congress deplores violations by the Government of the People’s Republic of China of human rights, religious freedoms, and worker rights that are referred to in the Department of State’s 1999 Country Reports on Human Rights Practices for the People’s Republic of China, including the banning of the Falun Gong spiritual movement, denial in many cases, particularly politically sensitive ones, of effective representation by counsel and public trials, extrajudicial killings and torture, forced abortion and sterilization, restriction of access to Tibet and Xinjiang, perpetuation of “reeducation through labor”, denial of the right of workers to organize labor unions or bargain collectively with their employers, and failure to implement a 1992 memorandum of understanding prohibiting trade in products made by prison labor.
 
-(Pub. L. 106–286, div. B, title II, § 202, Oct. 10, 2000, 114 Stat. 892.)
+(Pub. L. 106–286, div. B, title II, § 202, Oct. 10, 2000, 114 Stat. 892.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–70, § 1, July 12, 2024, 138 Stat. 1487, provided that: “This Act [enacting and amending provisions set out as notes under this section] may be cited as the ‘Promoting a Resolution to the Tibet-China Dispute Act’.”
+Pub. L. 118–70, § 1, July 12, 2024, 138 Stat. 1487, provided that: “This Act [enacting and amending provisions set out as notes under this section] may be cited as the ‘Promoting a Resolution to the Tibet-China Dispute Act’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–145, § 1(a), June 17, 2020, 134 Stat. 648, provided that: “This Act [enacting provisions set out as a note under this section] may be cited as the ‘Uyghur Human Rights Policy Act of 2020’.”
+Pub. L. 116–145, § 1(a), June 17, 2020, 134 Stat. 648, provided that: “This Act [enacting provisions set out as a note under this section] may be cited as the ‘Uyghur Human Rights Policy Act of 2020’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–7, div. P, § 1, Feb. 20, 2003, 117 Stat. 552, provided that: “This division [amending section 7002 of this title and enacting provisions set out as notes under section 7002 of this title] may be cited as the ‘United States-China Economic and Security Review Commission’.”
+Pub. L. 108–7, div. P, § 1, Feb. 20, 2003, 117 Stat. 552, provided that: “This division [amending section 7002 of this title and enacting provisions set out as notes under section 7002 of this title] may be cited as the ‘United States-China Economic and Security Review Commission’.”
 
 **Short Title**
 
-Pub. L. 106–286, div. B, title II, § 201(a), Oct. 10, 2000, 114 Stat. 891, provided that: “This division [enacting this chapter] may be cited as the ‘U.S.-China Relations Act of 2000’.”
+Pub. L. 106–286, div. B, title II, § 201(a), Oct. 10, 2000, 114 Stat. 891, provided that: “This division [enacting this chapter] may be cited as the ‘U.S.-China Relations Act of 2000’.”
 
 **Transfer of Functions**
 
@@ -71,7 +71,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Countering PRC Influence Fund Unit**
 
-Pub. L. 119–60, div. E, title I, § 5148, Dec. 18, 2025, 139 Stat. 1576, provided that:
+Pub. L. 119–60, div. E, title I, § 5148, Dec. 18, 2025, 139 Stat. 1576, provided that:
 
 > **“(a) Establishment.—** The Secretary [of State] shall establish and maintain a Countering the PRC Influence Fund Unit (in this section referred to as the ‘CPIF Unit’) in the Bureau of East Asian and Pacific Affairs.
 
@@ -131,7 +131,7 @@ Pub. L. 119–60, div. E, title I, § 5148, Dec. 18, 2025, 139 Stat. 1576, pro
 
 **Ending China’s Developing Nation Status**
 
-Pub. L. 118–31, div. E, title LIV, § 5413, Dec. 22, 2023, 137 Stat. 951, provided that:
+Pub. L. 118–31, div. E, title LIV, § 5413, Dec. 22, 2023, 137 Stat. 951, provided that:
 
 > **“(a) Finding; Statement of Policy.—**
 
@@ -243,7 +243,7 @@ Pub. L. 117–78, Dec. 23, 2021, 135 Stat. 1525, provided that:
 
 > “It is the policy of the United States—
 
-> **“(1)** to strengthen the prohibition against the importation of goods made with forced labor, including by ensuring that the Government of the People’s Republic of China does not undermine the effective enforcement of section 307 of the Tariff Act of 1930 (19 U.S.C. 1307), which prohibits the importation of all ‘goods, wares, articles, and merchandise mined, produced or manufactured wholly or in part in any foreign country by \* \* \* forced labor’;
+> **“(1)** to strengthen the prohibition against the importation of goods made with forced labor, including by ensuring that the Government of the People’s Republic of China does not undermine the effective enforcement of section 307 of the Tariff Act of 1930 (19 U.S.C. 1307), which prohibits the importation of all ‘goods, wares, articles, and merchandise mined, produced or manufactured wholly or in part in any foreign country by \* \* \* forced labor’;
 
 > **“(2)** to lead the international community in ending forced labor practices wherever such practices occur through all means available to the United States Government, including by stopping the importation of any goods made with forced labor, including those goods mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region;
 
@@ -465,7 +465,7 @@ Pub. L. 117–78, Dec. 23, 2021, 135 Stat. 1525, provided that:
 
 **Imposition of Sanctions**
 
-Pub. L. 116–145, § 6, June 17, 2020, 134 Stat. 651, as amended by Pub. L. 117–78, § 5(a), Dec. 23, 2021, 135 Stat. 1531; Pub. L. 118–159, div. G, title LXXVIII, § 7812(h), Dec. 23, 2024, 138 Stat. 2566, provided that:
+Pub. L. 116–145, § 6, June 17, 2020, 134 Stat. 651, as amended by Pub. L. 117–78, § 5(a), Dec. 23, 2021, 135 Stat. 1531; Pub. L. 118–159, div. G, title LXXVIII, § 7812(h), Dec. 23, 2024, 138 Stat. 2566, provided that:
 
 > **“(a) Report Required.—**
 
@@ -567,7 +567,7 @@ Pub. L. 116–145, § 6, June 17, 2020, 134 Stat. 651, as amended by Pub. L. 1
 
 **Monitoring of Implementation of 1979 Agreement Between the United States and China on Cooperation in Science and Technology**
 
-Pub. L. 107–314, div. A, title XII, § 1207, Dec. 2, 2002, 116 Stat. 2666, as amended by Pub. L. 114–323, title VII, § 715(b)(4), Dec. 16, 2016, 130 Stat. 1946, provided that:
+Pub. L. 107–314, div. A, title XII, § 1207, Dec. 2, 2002, 116 Stat. 2666, as amended by Pub. L. 114–323, title VII, § 715(b)(4), Dec. 16, 2016, 130 Stat. 1946, provided that:
 
 > **“(a) In General.—** The Secretary of State shall—
 
@@ -597,7 +597,7 @@ Pub. L. 107–314, div. A, title XII, § 1207, Dec. 2, 2002, 116 Stat. 2666, a
 
 **Tibetan Policy**
 
-Pub. L. 118–70, § 3, July 12, 2024, 138 Stat. 1488, provided that:
+Pub. L. 118–70, § 3, July 12, 2024, 138 Stat. 1488, provided that:
 
 > “It is the policy of the United States—
 
@@ -609,7 +609,7 @@ Pub. L. 118–70, § 3, July 12, 2024, 138 Stat. 1488, provided that:
 
 > **“(4)** to encourage the People’s Republic of China to ratify the International Covenant on Civil and Political Rights and uphold all its commitments under the International Covenant on Economic, Social and Cultural Rights; and
 
-> **“(5)** in accordance with the Tibetan Policy and Support Act of 2020 [Pub. L. 116–260, div. FF, title III, subtitle E (§§ 341–346), see Tables for classification]—
+> **“(5)** in accordance with the Tibetan Policy and Support Act of 2020 [Pub. L. 116–260, div. FF, title III, subtitle E (§§ 341–346), see Tables for classification]—
 
 > **“(A)** to promote substantive dialogue without pre-conditions, between the Government of the People’s Republic of China and the Dalai Lama, his or her representatives, or democratically elected leaders of the Tibetan community, or explore activities to improve prospects for dialogue, that leads to a negotiated agreement on Tibet;
 
@@ -617,7 +617,7 @@ Pub. L. 118–70, § 3, July 12, 2024, 138 Stat. 1488, provided that:
 
 > **“(C)** to encourage the Government of the People’s Republic of China to address the aspirations of the Tibetan people with regard to their distinct historical, cultural, religious, and linguistic identity.”
 
-Pub. L. 116–260, div. FF, title III, § 342, Dec. 27, 2020, 134 Stat. 3122, provided that:
+Pub. L. 116–260, div. FF, title III, § 342, Dec. 27, 2020, 134 Stat. 3122, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -633,7 +633,7 @@ Pub. L. 116–260, div. FF, title III, § 342, Dec. 27, 2020, 134 Stat. 3122, 
 
 > **“(6)** Since 2011, the 14th Dalai Lama has reiterated publicly on numerous occasions that decisions on the successions, emanations, or reincarnations of the Dalai Lama belongs to the Tibetan Buddhist faith community alone.
 
-> **“(7)** On June 8, 2015, the United States House of Representatives unanimously approved House Resolution 337 which calls on the United States Government to ‘underscore that government interference in the Tibetan reincarnation process is a violation of the internationally recognized right to religious freedom … and to highlight the fact that other countries besides China have long Tibetan Buddhist traditions, and that matters related to reincarnations in Tibetan Buddhism are of keen interest to Tibetan Buddhist populations worldwide’.
+> **“(7)** On June 8, 2015, the United States House of Representatives unanimously approved House Resolution 337 which calls on the United States Government to ‘underscore that government interference in the Tibetan reincarnation process is a violation of the internationally recognized right to religious freedom … and to highlight the fact that other countries besides China have long Tibetan Buddhist traditions, and that matters related to reincarnations in Tibetan Buddhism are of keen interest to Tibetan Buddhist populations worldwide’.
 
 > **“(8)** On April 25, 2018, the United States Senate unanimously approved Senate Resolution 429 which ‘expresses its sense that the identification and installation of Tibetan Buddhist religious leaders, including a future 15th Dalai Lama, is a matter that should be determined solely within the Tibetan Buddhist faith community, in accordance with the inalienable right to religious freedom’.
 
@@ -655,7 +655,7 @@ Pub. L. 116–260, div. FF, title III, § 342, Dec. 27, 2020, 134 Stat. 3122, 
 
 > **“(d) Department of State Programming to Promote Religious Freedom for Tibetan Buddhists.—** Consistent with section 401 of the Frank R. Wolf International Religious Freedom Act (Public Law 114–281; 130 Stat. 1436), the Ambassador-at-Large for International Religious Freedom should support efforts to protect and promote international religious freedom in China and for programs to protect Tibetan Buddhism in China and elsewhere.”
 
-Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396, as amended by Pub. L. 114–323, title VII, § 715(b)(1), Dec. 16, 2016, 130 Stat. 1946; Pub. L. 115–94, § 13, Dec. 18, 2017, 131 Stat. 2041; Pub. L. 116–260, div. FF, title III, § 341, Dec. 27, 2020, 134 Stat. 3119; Pub. L. 118–70, § 5, July 12, 2024, 138 Stat. 1489, provided that:
+Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396, as amended by Pub. L. 114–323, title VII, § 715(b)(1), Dec. 16, 2016, 130 Stat. 1946; Pub. L. 115–94, § 13, Dec. 18, 2017, 131 Stat. 2041; Pub. L. 116–260, div. FF, title III, § 341, Dec. 27, 2020, 134 Stat. 3119; Pub. L. 118–70, § 5, July 12, 2024, 138 Stat. 1489, provided that:
 
 > **“SEC. 611. SHORT TITLE.**
 
@@ -967,7 +967,7 @@ Sec. 3. The Secretary of State is authorized and directed to publish this memora
 
 J.R. Biden, Jr.
 
-### § 6902. Policy
+### § 6902. Policy
 
 It is the policy of the United States—
 
@@ -1001,9 +1001,9 @@ It is the policy of the United States—
 
 **(6)** to highlight in the United Nations Human Rights Commission and in other appropriate fora violations of human rights by foreign governments and to seek the support of other governments in urging improvements in human rights practices.
 
-(Pub. L. 106–286, div. B, title II, § 203, Oct. 10, 2000, 114 Stat. 893.)
+(Pub. L. 106–286, div. B, title II, § 203, Oct. 10, 2000, 114 Stat. 893.)
 
-### § 6903. Definitions
+### § 6903. Definitions
 
 In this chapter:
 
@@ -1035,17 +1035,17 @@ The term “WTO Agreement” means the Agreement Establishing the World Trade Or
 
 The term “WTO member” has the meaning given that term in section 3501(10) of title 19.
 
-(Pub. L. 106–286, div. B, title II, § 204, Oct. 10, 2000, 114 Stat. 894.)
+(Pub. L. 106–286, div. B, title II, § 204, Oct. 10, 2000, 114 Stat. 894.)
 
 ## SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF CHINA
 
-### § 6911. Establishment of Congressional-Executive Commission on the People’s Republic of China
+### § 6911. Establishment of Congressional-Executive Commission on the People’s Republic of China
 
 There is established a Congressional-Executive Commission on the People’s Republic of China (in this subchapter referred to as the “Commission”).
 
-(Pub. L. 106–286, div. B, title III, § 301, Oct. 10, 2000, 114 Stat. 895.)
+(Pub. L. 106–286, div. B, title III, § 301, Oct. 10, 2000, 114 Stat. 895.)
 
-### § 6912. Functions of the Commission
+### § 6912. Functions of the Commission
 
 **(a) Monitoring compliance with human rights** The Commission shall monitor the acts of the People’s Republic of China which reflect compliance with or violation of human rights, in particular, those contained in the International Covenant on Civil and Political Rights and in the Universal Declaration of Human Rights, including, but not limited to, effectively affording—
 
@@ -1099,9 +1099,9 @@ The Commission shall compile and maintain lists of persons believed to be impris
 
 **(4)** the extent to which administrative and judicial decisions are supported by statements of reasons that are based upon written statutes, regulations, rules, and other legal acts of the Government of the People’s Republic of China;
 
-**(5)** the extent to which individuals are treated equally under the laws of the of the 1
+**(5)** the extent to which individuals are treated equally under the laws of the of the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 People’s Republic of China without regard to citizenship;
 
@@ -1147,7 +1147,7 @@ The Commission shall issue a report to the President and the Congress not later 
 
 The Commission may submit to the President and the Congress reports that supplement the reports described in subsection (g), as appropriate, in carrying out subsections (a) through (c).
 
-(Pub. L. 106–286, div. B, title III, § 302, Oct. 10, 2000, 114 Stat. 895; Pub. L. 107–228, div. A, title VI, § 615, Sept. 30, 2002, 116 Stat. 1396.)
+(Pub. L. 106–286, div. B, title III, § 302, Oct. 10, 2000, 114 Stat. 895; Pub. L. 107–228, div. A, title VI, § 615, Sept. 30, 2002, 116 Stat. 1396.)
 
 **Editorial Notes**
 
@@ -1161,7 +1161,7 @@ The Commission may submit to the President and the Congress reports that supplem
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 6913. Membership of the Commission
+### § 6913. Membership of the Commission
 
 **(a) Selection and appointment of members** The Commission shall be composed of 23 members as follows:
 
@@ -1187,31 +1187,31 @@ At the beginning of each odd-numbered Congress, the President of the Senate, on 
 
 At the beginning of each odd-numbered Congress, the Speaker of the House of Representatives shall designate one of the members of the Commission from the House as Cochairman of the Commission. At the beginning of each even-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the members of the Commission from the Senate as Cochairman of the Commission.
 
-(Pub. L. 106–286, div. B, title III, § 303, Oct. 10, 2000, 114 Stat. 898.)
+(Pub. L. 106–286, div. B, title III, § 303, Oct. 10, 2000, 114 Stat. 898.)
 
-### § 6914. Votes of the Commission
+### § 6914. Votes of the Commission
 
-Decisions of the Commission, including adoption of reports and recommendations to the executive branch or to the Congress, shall be made by a majority vote of the members of the Commission present and voting. Two-thirds of the Members 1
+Decisions of the Commission, including adoption of reports and recommendations to the executive branch or to the Congress, shall be made by a majority vote of the members of the Commission present and voting. Two-thirds of the Members 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 of the Commission shall constitute a quorum for purposes of conducting business.
 
-(Pub. L. 106–286, div. B, title III, § 304, Oct. 10, 2000, 114 Stat. 899.)
+(Pub. L. 106–286, div. B, title III, § 304, Oct. 10, 2000, 114 Stat. 899.)
 
-### § 6915. Expenditure of appropriations
+### § 6915. Expenditure of appropriations
 
 For each fiscal year for which an appropriation is made to the Commission, the Commission shall issue a report to the Congress on its expenditures under that appropriation.
 
-(Pub. L. 106–286, div. B, title III, § 305, Oct. 10, 2000, 114 Stat. 899.)
+(Pub. L. 106–286, div. B, title III, § 305, Oct. 10, 2000, 114 Stat. 899.)
 
-### § 6916. Testimony of witnesses, production of evidence; issuance of subpoenas; administration of oaths
+### § 6916. Testimony of witnesses, production of evidence; issuance of subpoenas; administration of oaths
 
 In carrying out this subchapter, the Commission may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, documents, and electronically recorded data as it considers necessary. Subpoenas may be issued only pursuant to a two-thirds vote of members of the Commission present and voting. Subpoenas may be issued over the signature of the Chairman of the Commission or any member designated by the Chairman, and may be served by any person designated by the Chairman or such member. The Chairman of the Commission, or any member designated by the Chairman, may administer oaths to any witness.
 
-(Pub. L. 106–286, div. B, title III, § 306, Oct. 10, 2000, 114 Stat. 899.)
+(Pub. L. 106–286, div. B, title III, § 306, Oct. 10, 2000, 114 Stat. 899.)
 
-### § 6917. Appropriations for the Commission
+### § 6917. Appropriations for the Commission
 
 **(a) Authorization; disbursements**
 
@@ -1229,9 +1229,9 @@ There are authorized to be appropriated to the Commission for fiscal year 2001, 
 
 Foreign travel for official purposes by members and staff of the Commission may be authorized by either the Chairman or the Cochairman.
 
-(Pub. L. 106–286, div. B, title III, § 307, Oct. 10, 2000, 114 Stat. 899.)
+(Pub. L. 106–286, div. B, title III, § 307, Oct. 10, 2000, 114 Stat. 899.)
 
-### § 6918. Staff of the Commission
+### § 6918. Staff of the Commission
 
 **(a) Personnel and administration committee**
 
@@ -1261,29 +1261,29 @@ For purposes of pay and other employment benefits, rights, and privileges, and f
 
 **(2) Competitive status**
 
-For purposes of section 3304(i)(1) 1
+For purposes of section 3304(i)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5, employees of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.
 
-(Pub. L. 106–286, div. B, title III, § 308, Oct. 10, 2000, 114 Stat. 899; Pub. L. 118–188, § 2(a)(2)(C), Dec. 23, 2024, 138 Stat. 2645.)
+(Pub. L. 106–286, div. B, title III, § 308, Oct. 10, 2000, 114 Stat. 899; Pub. L. 118–188, § 2(a)(2)(C), Dec. 23, 2024, 138 Stat. 2645.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3304(i)(1) of title 5, referred to in subsec. (e)(2), probably means section 3304(c)(1) of title 5 prior to the amendments made by Pub. L. 104–65, § 16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out section 3304(c) of title 5 and redesignated section 3304(d) of title 5 as 3304(c), and by Pub. L. 118–188, § 2(a)(1)(A), Dec. 23, 2024, 138 Stat. 2644, which redesignated section 3304(c) of title 5 as section 3304(i). Prior to these amendments, section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives.
+Section 3304(i)(1) of title 5, referred to in subsec. (e)(2), probably means section 3304(c)(1) of title 5 prior to the amendments made by Pub. L. 104–65, § 16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out section 3304(c) of title 5 and redesignated section 3304(d) of title 5 as 3304(c), and by Pub. L. 118–188, § 2(a)(1)(A), Dec. 23, 2024, 138 Stat. 2644, which redesignated section 3304(c) of title 5 as section 3304(i). Prior to these amendments, section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives.
 
 **Amendments**
 
 2024—Subsec. (e)(2). Pub. L. 118–188 substituted “3304(i)(1)” for “3304(c)(1)”.
 
-### § 6919. Printing and binding costs
+### § 6919. Printing and binding costs
 
 For purposes of costs relating to printing and binding, including the costs of personnel detailed from the Government Publishing Office, the Commission shall be deemed to be a committee of the Congress.
 
-(Pub. L. 106–286, div. B, title III, § 309, Oct. 10, 2000, 114 Stat. 900; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 106–286, div. B, title III, § 309, Oct. 10, 2000, 114 Stat. 900; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1295,15 +1295,15 @@ For purposes of costs relating to printing and binding, including the costs of p
 
 ### Part A—Review of Membership of the People’s Republic of China in the WTO
 
-#### § 6931. Review within the WTO
+#### § 6931. Review within the WTO
 
 It shall be the objective of the United States to obtain as part of the Protocol of Accession of the People’s Republic of China to the WTO, an annual review within the WTO of the compliance by the People’s Republic of China with its terms of accession to the WTO.
 
-(Pub. L. 106–286, div. B, title IV, § 401, Oct. 10, 2000, 114 Stat. 900.)
+(Pub. L. 106–286, div. B, title IV, § 401, Oct. 10, 2000, 114 Stat. 900.)
 
 ### Part B—Authorization To Promote Compliance With Trade Agreements
 
-#### § 6941. Findings
+#### § 6941. Findings
 
 The Congress finds as follows:
 
@@ -1317,15 +1317,15 @@ The Congress finds as follows:
 
 **(5)** For these opportunities to be fully realized, the United States Government must effectively monitor and enforce its rights under the agreements on the accession of the People’s Republic of China to the WTO.
 
-(Pub. L. 106–286, div. B, title IV, § 411, Oct. 10, 2000, 114 Stat. 901.)
+(Pub. L. 106–286, div. B, title IV, § 411, Oct. 10, 2000, 114 Stat. 901.)
 
-#### § 6942. Purpose
+#### § 6942. Purpose
 
 The purpose of this part is to authorize additional resources for the agencies and departments engaged in monitoring and enforcement of United States trade agreements and trade laws with respect to the People’s Republic of China.
 
-(Pub. L. 106–286, div. B, title IV, § 412, Oct. 10, 2000, 114 Stat. 901.)
+(Pub. L. 106–286, div. B, title IV, § 412, Oct. 10, 2000, 114 Stat. 901.)
 
-#### § 6943. Authorization of appropriations
+#### § 6943. Authorization of appropriations
 
 **(a) Department of Commerce** There is authorized to be appropriated to the Department of Commerce, in addition to amounts otherwise available for such purposes, such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff for—
 
@@ -1359,17 +1359,17 @@ The annual report on compliance by the People’s Republic of China submitted to
 
 There are authorized to be appropriated to the Department of Agriculture, in addition to amounts otherwise available for such purposes, such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff to increase legal and technical expertise in areas covered by trade agreements and United States trade law, including food safety and biotechnology, for purposes of monitoring compliance by the People’s Republic of China with its trade agreement obligations.
 
-(Pub. L. 106–286, div. B, title IV, § 413, Oct. 10, 2000, 114 Stat. 901.)
+(Pub. L. 106–286, div. B, title IV, § 413, Oct. 10, 2000, 114 Stat. 901.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title III of the Act is classified principally to subchapter III (§ 2411 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title III of the Act is classified principally to subchapter III (§ 2411 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 ### Part C—Report on Compliance by the People’s Republic of China With WTO Obligations
 
-#### § 6951. Report on compliance
+#### § 6951. Report on compliance
 
 **(a) In general**
 
@@ -1379,19 +1379,19 @@ Not later than 1 year after the entry into force of the Protocol of Accession of
 
 In preparing the report described in subsection (a), the Trade Representative shall seek public participation by publishing a notice in the Federal Register and holding a public hearing.
 
-(Pub. L. 106–286, div. B, title IV, § 421, Oct. 10, 2000, 114 Stat. 903.)
+(Pub. L. 106–286, div. B, title IV, § 421, Oct. 10, 2000, 114 Stat. 903.)
 
 ## SUBCHAPTER IV—TRADE AND RULE OF LAW ISSUES IN THE PEOPLE’S REPUBLIC OF CHINA
 
 ### Part A—Task Force on Prohibition of Importation of Products of Forced or Prison Labor From the People’s Republic of China
 
-#### § 6961. Establishment of Task Force
+#### § 6961. Establishment of Task Force
 
 There is hereby established a task force on prohibition of importation of products of forced or prison labor from the People’s Republic of China (hereafter in this part referred to as the “Task Force”).
 
-(Pub. L. 106–286, div. B, title V, § 501, Oct. 10, 2000, 114 Stat. 903.)
+(Pub. L. 106–286, div. B, title V, § 501, Oct. 10, 2000, 114 Stat. 903.)
 
-#### § 6962. Functions of Task Force
+#### § 6962. Functions of Task Force
 
 The Task Force shall monitor and promote effective enforcement of and compliance with section 1307 of title 19 by performing the following functions:
 
@@ -1407,7 +1407,7 @@ The Task Force shall monitor and promote effective enforcement of and compliance
 
 **(6)** Provide to the Customs Service all information obtained by the departments represented on the Task Force relating to the use of convict labor, forced labor, or/and indentured labor under penal sanctions in the mining, production, or manufacture of goods which may be imported into the United States.
 
-(Pub. L. 106–286, div. B, title V, § 502, Oct. 10, 2000, 114 Stat. 903.)
+(Pub. L. 106–286, div. B, title V, § 502, Oct. 10, 2000, 114 Stat. 903.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1415,11 +1415,11 @@ The Task Force shall monitor and promote effective enforcement of and compliance
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-#### § 6963. Composition of Task Force
+#### § 6963. Composition of Task Force
 
 The Secretary of the Treasury, the Secretary of Commerce, the Secretary of Labor, the Secretary of State, the Commissioner of U.S. Customs and Border Protection, and the heads of other executive branch agencies, as appropriate, acting through their respective designees at or above the level of Deputy Assistant Secretary, or in the case of the Customs Service, at or above the level of Assistant Commissioner, shall compose the Task Force. The designee of the Secretary of the Treasury shall chair the Task Force.
 
-(Pub. L. 106–286, div. B, title V, § 503, Oct. 10, 2000, 114 Stat. 904; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 106–286, div. B, title V, § 503, Oct. 10, 2000, 114 Stat. 904; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1431,13 +1431,13 @@ The Secretary of the Treasury, the Secretary of Commerce, the Secretary of Labor
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-#### § 6964. Authorization of appropriations
+#### § 6964. Authorization of appropriations
 
 There are authorized to be appropriated for fiscal year 2001, and each fiscal year thereafter, such sums as may be necessary for the Task Force to carry out the functions described in section 6962 of this title.
 
-(Pub. L. 106–286, div. B, title V, § 504, Oct. 10, 2000, 114 Stat. 904.)
+(Pub. L. 106–286, div. B, title V, § 504, Oct. 10, 2000, 114 Stat. 904.)
 
-#### § 6965. Reports to Congress
+#### § 6965. Reports to Congress
 
 **(a) Frequency of reports**
 
@@ -1445,9 +1445,9 @@ Not later than the date that is 1 year after October 10, 2000, and not later tha
 
 **(b) Contents of reports** Each report under subsection (a) shall set forth, at a minimum—
 
-**(1)** the number of allegations of violations of section 1307 of title 19 with respect to products of the Peoples’ 1
+**(1)** the number of allegations of violations of section 1307 of title 19 with respect to products of the Peoples’ 1
 
-<sup>1</sup>  So in original. Probably should be “People’s”.
+<sup>1</sup> So in original. Probably should be “People’s”.
 
 Republic of China that were investigated during the preceding 1-year period;
 
@@ -1463,11 +1463,11 @@ Republic of China that were investigated during the preceding 1-year period;
 
 **(4)** such other information as the Task Force considers useful in monitoring and enforcing compliance with section 1307 of title 19.
 
-(Pub. L. 106–286, div. B, title V, § 505, Oct. 10, 2000, 114 Stat. 904.)
+(Pub. L. 106–286, div. B, title V, § 505, Oct. 10, 2000, 114 Stat. 904.)
 
 ### Part B—Assistance To Develop Commercial and Labor Rule of Law
 
-#### § 6981. Establishment of technical assistance and rule of law programs
+#### § 6981. Establishment of technical assistance and rule of law programs
 
 **(a) Commerce rule of law program**
 
@@ -1483,7 +1483,7 @@ The Secretary of Labor, in consultation with the Secretary of State, is authoriz
 
 **(A)** developing,1
 
-<sup>1</sup>  So in original. Comma probably should not appear.
+<sup>1</sup> So in original. Comma probably should not appear.
 
 laws, regulations, and other measures to implement internationally recognized worker rights;
 
@@ -1505,29 +1505,29 @@ The Secretary of State is authorized to establish a program to conduct rule of l
 
 The programs authorized by this section may be used to conduct activities such as seminars and workshops, drafting of commercial and labor codes, legal training, publications, financing the operating costs for nongovernmental organizations working in this area, and funding the travel of individuals to the United States and to the People’s Republic of China to provide and receive training.
 
-(Pub. L. 106–286, div. B, title V, § 511, Oct. 10, 2000, 114 Stat. 905.)
+(Pub. L. 106–286, div. B, title V, § 511, Oct. 10, 2000, 114 Stat. 905.)
 
-#### § 6982. Administrative authorities
+#### § 6982. Administrative authorities
 
 In carrying out the programs authorized by section 6981 of this title, the Secretary of Commerce and the Secretary of Labor (in consultation with the Secretary of State) may utilize any of the authorities contained in the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] and the Foreign Service Act of 1980 [22 U.S.C. 3901 et seq.].
 
-(Pub. L. 106–286, div. B, title V, § 512, Oct. 10, 2000, 114 Stat. 906.)
+(Pub. L. 106–286, div. B, title V, § 512, Oct. 10, 2000, 114 Stat. 906.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-#### § 6983. Prohibition relating to human rights abuses
+#### § 6983. Prohibition relating to human rights abuses
 
 Amounts made available to carry out this part may not be provided to a component of a ministry or other administrative unit of the national, provincial, or other local governments of the People’s Republic of China, to a nongovernmental organization, or to an official of such governments or organizations, if the President has credible evidence that such component, administrative unit, organization or official has been materially responsible for the commission of human rights violations.
 
-(Pub. L. 106–286, div. B, title V, § 513, Oct. 10, 2000, 114 Stat. 906.)
+(Pub. L. 106–286, div. B, title V, § 513, Oct. 10, 2000, 114 Stat. 906.)
 
-#### § 6984. Authorization of appropriations
+#### § 6984. Authorization of appropriations
 
 **(a) Commercial law program**
 
@@ -1545,11 +1545,11 @@ There are authorized to be appropriated to the Secretary of State to carry out t
 
 Except as provided in this chapter, funds may be made available to carry out the purposes of this part notwithstanding any other provision of law.
 
-(Pub. L. 106–286, div. B, title V, § 514, Oct. 10, 2000, 114 Stat. 906.)
+(Pub. L. 106–286, div. B, title V, § 514, Oct. 10, 2000, 114 Stat. 906.)
 
 ## SUBCHAPTER V—ACCESSION OF TAIWAN TO THE WTO
 
-### § 6991. Accession of Taiwan to the WTO
+### § 6991. Accession of Taiwan to the WTO
 
 It is the sense of the Congress that—
 
@@ -1557,11 +1557,11 @@ It is the sense of the Congress that—
 
 **(2)** the United States should be prepared to aggressively counter any effort by any WTO member, upon the approval of the General Council of the WTO of the terms and conditions of the accession of the People’s Republic of China to the WTO, to block the accession of Taiwan to the WTO.
 
-(Pub. L. 106–286, div. B, title VI, § 601, Oct. 10, 2000, 114 Stat. 906.)
+(Pub. L. 106–286, div. B, title VI, § 601, Oct. 10, 2000, 114 Stat. 906.)
 
 ## SUBCHAPTER VI—RELATED ISSUES
 
-### § 7001. Authorizations of appropriations for broadcasting capital improvements and international broadcasting operations
+### § 7001. Authorizations of appropriations for broadcasting capital improvements and international broadcasting operations
 
 **(a) Broadcasting capital improvements**
 
@@ -1581,15 +1581,15 @@ In addition to such sums as are otherwise authorized to be appropriated, there a
 
 **(C)** VOA enhancements, including the opening of new news bureaus in Taipei and Shanghai, enhancement of TV Mandarin, and an increase of stringer presence abroad.
 
-(Pub. L. 106–286, div. B, title VII, § 701, Oct. 10, 2000, 114 Stat. 907; Pub. L. 107–228, div. A, title I, § 121(b), Sept. 30, 2002, 116 Stat. 1361.)
+(Pub. L. 106–286, div. B, title VII, § 701, Oct. 10, 2000, 114 Stat. 907; Pub. L. 107–228, div. A, title I, § 121(b), Sept. 30, 2002, 116 Stat. 1361.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–228, § 121(b)(1), substituted “2003” for “2001”.
+2002—Subsec. (a). Pub. L. 107–228, § 121(b)(1), substituted “2003” for “2001”.
 
-Subsec. (b)(1). Pub. L. 107–228, § 121(b)(2), substituted “2001, 2002, and 2003” for “2001 and 2002”.
+Subsec. (b)(1). Pub. L. 107–228, § 121(b)(2), substituted “2001, 2002, and 2003” for “2001 and 2002”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1597,7 +1597,7 @@ Subsec. (b)(1). Pub. L. 107–228, § 121(b)(2), substituted “2001, 2002, an
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
-### § 7002. United States-China Economic and Security Review Commission
+### § 7002. United States-China Economic and Security Review Commission
 
 **(a) Purposes** The purposes of this section are as follows:
 
@@ -1767,7 +1767,7 @@ The provisions of chapter 10 of title 5 shall apply to the activities of the Com
 
 This section shall take effect on the first day of the 107th Congress.
 
-(Pub. L. 106–398, § 1 [[div. A], title XII, § 1238], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§ 645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, § 2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, § 635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285; Pub. L. 113–291, div. A, title XII, § 1259B(a), Dec. 19, 2014, 128 Stat. 3578; Pub. L. 117–286, § 4(a)(173), Dec. 27, 2022, 136 Stat. 4324.)
+(Pub. L. 106–398, § 1 [[div. A], title XII, § 1238], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§ 645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, § 2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, § 635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285; Pub. L. 113–291, div. A, title XII, § 1259B(a), Dec. 19, 2014, 128 Stat. 3578; Pub. L. 117–286, § 4(a)(173), Dec. 27, 2022, 136 Stat. 4324.)
 
 **Editorial Notes**
 
@@ -1791,29 +1791,29 @@ Section was enacted as part of the Floyd D. Spence National Defense Authorizatio
 
 2005—Subsec. (g). Pub. L. 109–108 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
 
-2003—Pub. L. 108–7, § 2(b)(1)(A), inserted “Economic and” before “Security” in section catchline.
+2003—Pub. L. 108–7, § 2(b)(1)(A), inserted “Economic and” before “Security” in section catchline.
 
-Subsec. (a)(1), (2). Pub. L. 108–7, § 2(b)(1)(B), inserted “Economic and” before “Security”.
+Subsec. (a)(1), (2). Pub. L. 108–7, § 2(b)(1)(B), inserted “Economic and” before “Security”.
 
-Subsec. (b). Pub. L. 108–7, § 2(b)(1)(C)(i), inserted “Economic and” before “Security” in heading.
+Subsec. (b). Pub. L. 108–7, § 2(b)(1)(C)(i), inserted “Economic and” before “Security” in heading.
 
-Subsec. (b)(1). Pub. L. 108–7, § 2(b)(1)(C)(ii), inserted “Economic and” before “Security”.
+Subsec. (b)(1). Pub. L. 108–7, § 2(b)(1)(C)(ii), inserted “Economic and” before “Security”.
 
-Subsec. (b)(3). Pub. L. 108–7, § 2(b)(1)(C)(iii)(I), which directed the amendment of introductory provisions by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
+Subsec. (b)(3). Pub. L. 108–7, § 2(b)(1)(C)(iii)(I), which directed the amendment of introductory provisions by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-Subsec. (b)(3)(F). Pub. L. 108–7, § 2(c)(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “members shall be appointed to the Commission not later than 30 days after the date on which each new Congress convenes;”.
+Subsec. (b)(3)(F). Pub. L. 108–7, § 2(c)(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “members shall be appointed to the Commission not later than 30 days after the date on which each new Congress convenes;”.
 
-Subsecs. (b)(3)(H), (4), (e)(1), (2). Pub. L. 108–7, § 2(b)(1)(C)(iii)(II), (iv), (D)(i), (ii), which directed insertion of “Economic and” before “Security”, could not be executed because “Security” does not appear.
+Subsecs. (b)(3)(H), (4), (e)(1), (2). Pub. L. 108–7, § 2(b)(1)(C)(iii)(II), (iv), (D)(i), (ii), which directed insertion of “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-Subsec. (e)(3). Pub. L. 108–7, § 2(b)(1)(D)(iii)(II), inserted “Economic and” before “Security” in second sentence.
+Subsec. (e)(3). Pub. L. 108–7, § 2(b)(1)(D)(iii)(II), inserted “Economic and” before “Security” in second sentence.
 
-Pub. L. 108–7, § 2(b)(1)(D)(iii)(I), which directed the amendment of first sentence by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
+Pub. L. 108–7, § 2(b)(1)(D)(iii)(I), which directed the amendment of first sentence by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-Subsec. (e)(4), (6). Pub. L. 108–7, § 2(b)(1)(D)(iv), (v), which directed the amendment of pars. (4) and (6) by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
+Subsec. (e)(4), (6). Pub. L. 108–7, § 2(b)(1)(D)(iv), (v), which directed the amendment of pars. (4) and (6) by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-2001—Subsec. (c)(1). Pub. L. 107–67, § 648, substituted “June” for “March”.
+2001—Subsec. (c)(1). Pub. L. 107–67, § 648, substituted “June” for “March”.
 
-Subsec. (e)(3). Pub. L. 107–67, § 645(a), inserted at end “The executive director and any personnel who are employees of the United States-China Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.”
+Subsec. (e)(3). Pub. L. 107–67, § 645(a), inserted at end “The executive director and any personnel who are employees of the United States-China Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1821,23 +1821,23 @@ Subsec. (e)(3). Pub. L. 107–67, § 645(a), inserted at end “The executive 
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Pub. L. 108–7, div. P, § 2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that: “Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall be deemed to refer to the United States-China Economic and Security Review Commission.”
+Pub. L. 108–7, div. P, § 2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that: “Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall be deemed to refer to the United States-China Economic and Security Review Commission.”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title XII, § 1259B(b), Dec. 19, 2014, 128 Stat. 3579, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 19, 2014], and shall apply with respect to annual reports submitted under section 1238(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [22 U.S.C. 7002(c)] after such date of enactment.”
+Pub. L. 113–291, div. A, title XII, § 1259B(b), Dec. 19, 2014, 128 Stat. 3579, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 19, 2014], and shall apply with respect to annual reports submitted under section 1238(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [22 U.S.C. 7002(c)] after such date of enactment.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. P, § 2(c)(3), Feb. 20, 2003, 117 Stat. 554, provided that: “This section [amending this section and enacting provisions set out as notes under this section] shall take effect on the date of enactment of this Act [Feb. 20, 2003].”
+Pub. L. 108–7, div. P, § 2(c)(3), Feb. 20, 2003, 117 Stat. 554, provided that: “This section [amending this section and enacting provisions set out as notes under this section] shall take effect on the date of enactment of this Act [Feb. 20, 2003].”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–67, title VI, § 645(b), Nov. 12, 2001, 115 Stat. 556, provided that: “The amendment made by this section [amending this section] shall take effect on January 3, 2001.”
+Pub. L. 107–67, title VI, § 645(b), Nov. 12, 2001, 115 Stat. 556, provided that: “The amendment made by this section [amending this section] shall take effect on January 3, 2001.”
 
 **Responsibilities of the Commission**
 
-Pub. L. 108–7, div. P, § 2(c)(2), Feb. 20, 2003, 117 Stat. 553, provided that:
+Pub. L. 108–7, div. P, § 2(c)(2), Feb. 20, 2003, 117 Stat. 553, provided that:
 
 > “The United States-China Commission shall focus, in lieu of any other areas of work or study, on the following:
 
@@ -1861,9 +1861,9 @@ Pub. L. 108–7, div. P, § 2(c)(2), Feb. 20, 2003, 117 Stat. 553, provided th
 
 Similar provisions were contained in the following appropriation act:
 
-Pub. L. 109–108, title VI, § 635(a), Nov. 22, 2005, 119 Stat. 2346.
+Pub. L. 109–108, title VI, § 635(a), Nov. 22, 2005, 119 Stat. 2346.
 
-### § 7003. Strategy to respond to global bases of the People’s Republic of China
+### § 7003. Strategy to respond to global bases of the People’s Republic of China
 
 **(a) Assessment**
 
@@ -1931,7 +1931,7 @@ The term “PRC” means the People’s Republic of China.
 
 The term “PRC global base” means a physical location outside of the PRC where the PRC maintains an element of the People’s Liberation Army, PRC intelligence or security forces, or infrastructure designed to support the presence of PRC military, intelligence, or security forces, for the purposes of power projection.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8367, Dec. 18, 2025, 139 Stat. 1903.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8367, Dec. 18, 2025, 139 Stat. 1903.)
 
 **Editorial Notes**
 

@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–168, § 1(b)(2), title IX, §§ 907, 909, Aug. 10, 2022, 136 Stat. 1759, 1813, 1815, added items 704 and 706.
+2022—Pub. L. 117–168, § 1(b)(2), title IX, §§ 907, 909, Aug. 10, 2022, 136 Stat. 1759, 1813, 1815, added items 704 and 706.
 
-2018—Pub. L. 115–407, title V, § 501(b), Dec. 31, 2018, 132 Stat. 5376, which directed adding item 728 after item 728, was executed by adding item 728 after item 727 to reflect the probable intent of Congress.
+2018—Pub. L. 115–407, title V, § 501(b), Dec. 31, 2018, 132 Stat. 5376, which directed adding item 728 after item 728, was executed by adding item 728 after item 727 to reflect the probable intent of Congress.
 
-Pub. L. 115–188, § 2(b), June 21, 2018, 132 Stat. 1491, which directed adding item 727 after item 725, was executed by adding item 727 after item 726 to reflect the probable intent of Congress.
+Pub. L. 115–188, § 2(b), June 21, 2018, 132 Stat. 1491, which directed adding item 727 after item 725, was executed by adding item 727 after item 726 to reflect the probable intent of Congress.
 
-Pub. L. 115–182, title V, § 501(b), June 6, 2018, 132 Stat. 1475, added item 726.
+Pub. L. 115–182, title V, § 501(b), June 6, 2018, 132 Stat. 1475, added item 726.
 
-2017—Pub. L. 115–46, title II, §§ 202(c), 203(b), Aug. 12, 2017, 131 Stat. 962, added item 725 and added item for subchapter III and item 741.
+2017—Pub. L. 115–46, title II, §§ 202(c), 203(b), Aug. 12, 2017, 131 Stat. 962, added item 725 and added item for subchapter III and item 741.
 
-Pub. L. 115–41, title I, § 102(b), title II, §§ 201(c), 202(b)(1), 203(a)(2), 204(b), 205(b), June 23, 2017, 131 Stat. 867, 869, 873, 875–877, substituted “removal, demotion, or suspension” for “removal” in item 713, added items 714, 719, 721, 723, and 731 to 733, and struck out former items 731 “Whistleblower complaint defined”, 732 “Treatment of whistleblower complaints”, and 733 “Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints”, and items 734 “Evaluation criteria of supervisors and treatment of bonuses”, 735 “Training regarding whistleblower complaints”, and 736 “Reports to Congress”.
+Pub. L. 115–41, title I, § 102(b), title II, §§ 201(c), 202(b)(1), 203(a)(2), 204(b), 205(b), June 23, 2017, 131 Stat. 867, 869, 873, 875–877, substituted “removal, demotion, or suspension” for “removal” in item 713, added items 714, 719, 721, 723, and 731 to 733, and struck out former items 731 “Whistleblower complaint defined”, 732 “Treatment of whistleblower complaints”, and 733 “Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints”, and items 734 “Evaluation criteria of supervisors and treatment of bonuses”, 735 “Training regarding whistleblower complaints”, and 736 “Reports to Congress”.
 
-2016—Pub. L. 114–315, title V, § 503(a)(2), Dec. 16, 2016, 130 Stat. 1568, added item 717.
+2016—Pub. L. 114–315, title V, § 503(a)(2), Dec. 16, 2016, 130 Stat. 1568, added item 717.
 
-Pub. L. 114–223, div. A, title II, § 247(a)(2)(B), (b)(2), Sept. 29, 2016, 130 Stat. 890, 891, added item for subchapter I, added item 715, and added item for subchapter II and items 731 to 736.
+Pub. L. 114–223, div. A, title II, § 247(a)(2)(B), (b)(2), Sept. 29, 2016, 130 Stat. 890, 891, added item for subchapter I, added item 715, and added item for subchapter II and items 731 to 736.
 
-2014—Pub. L. 113–146, title VII, § 707(a)(2), Aug. 7, 2014, 128 Stat. 1800, added item 713.
+2014—Pub. L. 113–146, title VII, § 707(a)(2), Aug. 7, 2014, 128 Stat. 1800, added item 713.
 
-2001—Pub. L. 107–103, title V, § 509(a)(2), Dec. 27, 2001, 115 Stat. 997, struck out item 712 “Full-time equivalent positions: limitation on reduction”.
+2001—Pub. L. 107–103, title V, § 509(a)(2), Dec. 27, 2001, 115 Stat. 997, struck out item 712 “Full-time equivalent positions: limitation on reduction”.
 
-1994—Pub. L. 103–446, title XI, § 1102(b), Nov. 2, 1994, 108 Stat. 4681, added item 712.
+1994—Pub. L. 103–446, title XI, § 1102(b), Nov. 2, 1994, 108 Stat. 4681, added item 712.
 
 ## SUBCHAPTER I—GENERAL EMPLOYEE MATTERS
 
@@ -47,13 +47,13 @@ Pub. L. 114–223, div. A, title II, § 247(a)(2)(B), (b)(2), Sept. 29, 2016, 
 
 **Amendments**
 
-2016—Pub. L. 114–223, div. A, title II, § 247(a)(2)(A), Sept. 29, 2016, 130 Stat. 890, inserted subchapter heading.
+2016—Pub. L. 114–223, div. A, title II, § 247(a)(2)(A), Sept. 29, 2016, 130 Stat. 890, inserted subchapter heading.
 
-### § 701. Placement of employees in military installations
+### § 701. Placement of employees in military installations
 
 The Secretary may place employees of the Department in such Army, Navy, Air Force, and Space Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, air, or space service.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 394; amended Pub. L. 116–283, div. A, title IX, § 926(a)(4), (c), Jan. 1, 2021, 134 Stat. 3830, 3831.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 394; amended Pub. L. 116–283, div. A, title IX, § 926(a)(4), (c), Jan. 1, 2021, 134 Stat. 3830, 3831.)
 
 **Editorial Notes**
 
@@ -61,7 +61,7 @@ The Secretary may place employees of the Department in such Army, Navy, Air Forc
 
 Prior sections 701 and 702 were renumbered sections 1901 and 1902 of this title, respectively.
 
-Provisions similar to those in this section were contained in section 231 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 231 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
@@ -71,7 +71,7 @@ Provisions similar to those in this section were contained in section 231 of thi
 
 **Department of Veterans Affairs Communication With Employees Responsible for Homelessness Assistance Programs**
 
-Pub. L. 117–328, div. U, title III, § 308, Dec. 29, 2022, 136 Stat. 5473, provided that:
+Pub. L. 117–328, div. U, title III, § 308, Dec. 29, 2022, 136 Stat. 5473, provided that:
 
 > “The Under Secretary for Health of the Department of Veterans Affairs shall clearly communicate with employees of the Department of Veterans Affairs whose responsibilities are related to homelessness assistance programs regarding—
 
@@ -81,7 +81,7 @@ Pub. L. 117–328, div. U, title III, § 308, Dec. 29, 2022, 136 Stat. 5473, p
 
 **Reemployment of Former Employees at Department of Veterans Affairs**
 
-Pub. L. 115–46, title II, § 204, Aug. 12, 2017, 131 Stat. 963, provided that:
+Pub. L. 115–46, title II, § 204, Aug. 12, 2017, 131 Stat. 963, provided that:
 
 > **“(a) In General.—** Notwithstanding sections 3309 through 3318 of title 5, United States Code, the Secretary of Veterans Affairs may noncompetitively appoint a qualified former career or career conditional employee to any position within the competitive service at the Department of Veterans Affairs that is one grade or equivalent higher than the grade or equivalent of the position at the Department most recently occupied by the employee.
 
@@ -97,7 +97,7 @@ Pub. L. 115–46, title II, § 204, Aug. 12, 2017, 131 Stat. 963, provided tha
 
 **Promotional Opportunities for Technical Experts at Department of Veterans Affairs**
 
-Pub. L. 115–46, title II, § 205, Aug. 12, 2017, 131 Stat. 963, provided that:
+Pub. L. 115–46, title II, § 205, Aug. 12, 2017, 131 Stat. 963, provided that:
 
 > “Not later than one year after the date of the enactment of this Act [Aug. 12, 2017], the Secretary of Veterans Affairs shall establish a promotional track system for employees of the Department of Veterans Affairs that the Secretary determines are technical experts pursuant to regulations prescribed by the Secretary for purposes of carrying out this section. Such system shall—
 
@@ -111,7 +111,7 @@ Pub. L. 115–46, title II, § 205, Aug. 12, 2017, 131 Stat. 963, provided tha
 
 **Employment of Students and Recent Graduates by Department of Veterans Affairs**
 
-Pub. L. 115–46, title II, § 206, Aug. 12, 2017, 131 Stat. 963, provided that:
+Pub. L. 115–46, title II, § 206, Aug. 12, 2017, 131 Stat. 963, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall prescribe regulations to allow for excepted service appointments of students and recent graduates leading to conversion to career or career conditional employment of a student or recent graduate of a qualifying educational institution, as defined by the Department.
 
@@ -131,7 +131,7 @@ Pub. L. 115–46, title II, § 206, Aug. 12, 2017, 131 Stat. 963, provided tha
 
 **Recruiting Database at Department of Veterans Affairs**
 
-Pub. L. 115–46, title II, § 208, Aug. 12, 2017, 131 Stat. 964, provided that:
+Pub. L. 115–46, title II, § 208, Aug. 12, 2017, 131 Stat. 964, provided that:
 
 > **“(a) Establishment.—** The Secretary of Veterans Affairs shall establish a single database that lists—
 
@@ -151,7 +151,7 @@ Pub. L. 115–46, title II, § 208, Aug. 12, 2017, 131 Stat. 964, provided tha
 
 **Exit Surveys at Department of Veterans Affairs**
 
-Pub. L. 115–46, title II, § 211, Aug. 12, 2017, 131 Stat. 966, provided that:
+Pub. L. 115–46, title II, § 211, Aug. 12, 2017, 131 Stat. 966, provided that:
 
 > **“(a) Exit Surveys Required.—**
 
@@ -201,7 +201,7 @@ Pub. L. 115–46, title II, § 211, Aug. 12, 2017, 131 Stat. 966, provided tha
 
 > **“(E)** The total number of employees who voluntarily separated from the Department and the number and percentage of whom took the exit survey under subsection (a).”
 
-### § 703. Miscellaneous authorities respecting employees
+### § 703. Miscellaneous authorities respecting employees
 
 **(a)** The Secretary may furnish and launder such wearing apparel as may be prescribed for employees in the performance of their official duties.
 
@@ -219,7 +219,7 @@ Pub. L. 115–46, title II, § 211, Aug. 12, 2017, 131 Stat. 966, provided tha
 
 **(2)** The Secretary shall establish reasonable rates to cover the cost of the service rendered under this subsection, and all proceeds collected therefrom shall be applied to the applicable appropriation.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 394.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 394.)
 
 **Editorial Notes**
 
@@ -227,21 +227,21 @@ Pub. L. 115–46, title II, § 211, Aug. 12, 2017, 131 Stat. 966, provided tha
 
 A prior section 703 was renumbered section 1903 of this title.
 
-Provisions similar to those in this section were contained in section 233 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 233 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Outreach on Availability of Mental Health Services Available to Employees of the Department of Veterans Affairs**
 
-Pub. L. 115–73, title II, § 202, Oct. 26, 2017, 131 Stat. 1241, provided that: “The Secretary of Veterans Affairs shall conduct a program of outreach to employees of the Department of Veterans Affairs to inform those employees of any mental health services, including telemedicine options, that are available to them.”
+Pub. L. 115–73, title II, § 202, Oct. 26, 2017, 131 Stat. 1241, provided that: “The Secretary of Veterans Affairs shall conduct a program of outreach to employees of the Department of Veterans Affairs to inform those employees of any mental health services, including telemedicine options, that are available to them.”
 
 **Protocols To Address Threats Against Employees of the Department of Veterans Affairs**
 
-Pub. L. 115–73, title II, § 203, Oct. 26, 2017, 131 Stat. 1241, provided that: “The Secretary of Veterans Affairs shall ensure protocols are in effect to address threats from individuals receiving health care from the Department of Veterans Affairs directed towards employees of the Department who are providing such health care.”
+Pub. L. 115–73, title II, § 203, Oct. 26, 2017, 131 Stat. 1241, provided that: “The Secretary of Veterans Affairs shall ensure protocols are in effect to address threats from individuals receiving health care from the Department of Veterans Affairs directed towards employees of the Department who are providing such health care.”
 
 **Clinic Management Training for Employees at Medical Facilities of the Department of Veterans Affairs**
 
-Pub. L. 113–146, title III, § 303, Aug. 7, 2014, 128 Stat. 1788, provided that:
+Pub. L. 113–146, title III, § 303, Aug. 7, 2014, 128 Stat. 1788, provided that:
 
 > **“(a) Clinic Management Training Program.—**
 
@@ -295,7 +295,7 @@ Pub. L. 113–146, title III, § 303, Aug. 7, 2014, 128 Stat. 1788, provided t
 
 **Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs**
 
-Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, § 951, July 22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, § 305, June 6, 2018, 132 Stat. 1469; Pub. L. 117–168, title IX, § 908(a), Aug. 10, 2022, 136 Stat. 1814, provided that:
+Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, § 951, July 22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, § 305, June 6, 2018, 132 Stat. 1469; Pub. L. 117–168, title IX, § 908(a), Aug. 10, 2022, 136 Stat. 1814, provided that:
 
 > **“(a) Limitation.—** The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:
 
@@ -305,9 +305,9 @@ Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended
 
 > **“(b) Sense of Congress.—** It is the sense of Congress that the limitation under subsection (a) should not disproportionately impact lower-wage employees and that the Department of Veterans Affairs is encouraged to use bonuses to incentivize high-performing employees in areas in which retention is challenging.”
 
-[Pub. L. 117–168, title IX, § 908(b), Aug. 10, 2022, 136 Stat. 1815, provided that: “Subsection (a) [amending section 705 of Pub. L. 113–146, set out above] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and apply as if such subsection had been enacted on September 30, 2021.” ]
+[Pub. L. 117–168, title IX, § 908(b), Aug. 10, 2022, 136 Stat. 1815, provided that: “Subsection (a) [amending section 705 of Pub. L. 113–146, set out above] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and apply as if such subsection had been enacted on September 30, 2021.” ]
 
-### § 704. Waiver of pay limitation for certain employees
+### § 704. Waiver of pay limitation for certain employees
 
 **(a) Employees of Veterans Health Administration Impacted by Closure or Realignment.—** Notwithstanding any other provision of law, the Secretary may waive any annual premium or aggregate limitation on pay for an employee of the Veterans Health Administration for the calendar year during which—
 
@@ -339,7 +339,7 @@ Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended
 
 **(f) Termination.—** This section shall terminate on September 30, 2027.
 
-(Added Pub. L. 117–168, title IX, § 907, Aug. 10, 2022, 136 Stat. 1814.)
+(Added Pub. L. 117–168, title IX, § 907, Aug. 10, 2022, 136 Stat. 1814.)
 
 **Editorial Notes**
 
@@ -347,11 +347,11 @@ Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended
 
 A prior section 704 was renumbered section 1904 of this title.
 
-### § 705. Telephone service for medical officers and facility directors
+### § 705. Telephone service for medical officers and facility directors
 
 The Secretary may pay for official telephone service and rental in the field whenever incurred in case of official telephones for directors of centers, hospitals, independent clinics, domiciliaries, and medical officers of the Department where such telephones are installed in private residences or private apartments or quarters, when authorized under regulations prescribed by the Secretary.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 395.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 395.)
 
 **Editorial Notes**
 
@@ -359,9 +359,9 @@ The Secretary may pay for official telephone service and rental in the field whe
 
 A prior section 705 was renumbered section 1905 of this title.
 
-Provisions similar to those in this section were contained in section 234 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 234 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-### § 706. Additional authority relating to recruitment and retention of personnel
+### § 706. Additional authority relating to recruitment and retention of personnel
 
 **(a) Recruitment and Relocation Bonuses.—** The Secretary may pay a recruitment or relocation bonus under section 5753(e) of title 5 without regard to any requirements for certification or approval under that section.
 
@@ -383,9 +383,9 @@ Provisions similar to those in this section were contained in section 234 of thi
 
 **(C)** employment of an individual with such skill in such position serves a critical mission-related need of the Department.
 
-**(2)** An incentive provided to an employee under paragraph (1) may not to 1
+**(2)** An incentive provided to an employee under paragraph (1) may not to 1
 
-<sup>1</sup>  So in original. The word “to” probably should not appear.
+<sup>1</sup> So in original. The word “to” probably should not appear.
 
 exceed 25 percent of the basic pay of the employee.
 
@@ -393,15 +393,15 @@ exceed 25 percent of the basic pay of the employee.
 
 **(4)** An incentive provided under paragraph (1) shall not be considered basic pay for any purpose.
 
-**(5)** The Secretary may prescribe conditions, including with respect to eligibility, and limitations on provision of incentive 2
+**(5)** The Secretary may prescribe conditions, including with respect to eligibility, and limitations on provision of incentive 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “an”.
+<sup>2</sup> So in original. Probably should be preceded by “an”.
 
 under paragraph (1).
 
-**(6)** Incentive 3
+**(6)** Incentive 3
 
-<sup>3</sup>  So in original. Probably should be “An incentive”.
+<sup>3</sup> So in original. Probably should be “An incentive”.
 
 provided under paragraph (1) shall not be included in the calculation of total amount of compensation under section 7431(e)(4) of this title.
 
@@ -429,9 +429,9 @@ provided under paragraph (1) shall not be included in the calculation of total a
 
 **(ff)** Such other officers as the Secretary determines appropriate.
 
-**(ii)** In the case of an employee of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, whose position is primarily at the Central Office of the Department, but who performs some portion of the employee’s job function at other facilities of the Department, as defined by the Secretary, not at Central 4
+**(ii)** In the case of an employee of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, whose position is primarily at the Central Office of the Department, but who performs some portion of the employee’s job function at other facilities of the Department, as defined by the Secretary, not at Central 4
 
-<sup>4</sup>  So in original. Probably should be preceded by “the”.
+<sup>4</sup> So in original. Probably should be preceded by “the”.
 
 Office—
 
@@ -495,7 +495,7 @@ Office—
 
 **(k) Termination.—** The authorities under this section shall terminate on September 30, 2027.
 
-(Added Pub. L. 117–168, title IX, § 909, Aug. 10, 2022, 136 Stat. 1815; amended Pub. L. 119–33, § 1(c), Aug. 14, 2025, 139 Stat. 484.)
+(Added Pub. L. 117–168, title IX, § 909, Aug. 10, 2022, 136 Stat. 1815; amended Pub. L. 119–33, § 1(c), Aug. 14, 2025, 139 Stat. 484.)
 
 **Editorial Notes**
 
@@ -519,7 +519,7 @@ A prior section 706 was renumbered section 1906 of this title.
 
 **Benefits for Participants in Certain Programs of the Department of Veterans Affairs**
 
-Pub. L. 118–196, § 6, Dec. 23, 2024, 138 Stat. 2674, provided that:
+Pub. L. 118–196, § 6, Dec. 23, 2024, 138 Stat. 2674, provided that:
 
 > **“(a) Establishment.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Veterans Affairs shall carry out a program to furnish certain benefits to covered participants.
 
@@ -593,7 +593,7 @@ Pub. L. 118–196, § 6, Dec. 23, 2024, 138 Stat. 2674, provided that:
 
 > **“(3)** The term ‘State’ has the meaning given such term in section 101 of title 38, United States Code.”
 
-### § 707. Benefits for employees at overseas offices who are United States citizens
+### § 707. Benefits for employees at overseas offices who are United States citizens
 
 **(a)** The Secretary may, under such rules and regulations as may be prescribed by the President or the President’s designee, provide to personnel of the Department who are United States citizens and are assigned by the Secretary to the Department offices in the Republic of the Philippines allowances and benefits similar to those provided by the following provisions of law:
 
@@ -613,25 +613,25 @@ Pub. L. 118–196, § 6, Dec. 23, 2024, 138 Stat. 2674, provided that:
 
 **(b)** The authority in subsection (a) supplements, but is not in lieu of, other allowances and benefits for overseas employees of the Department provided by title 5 and the Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.).
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 395; amended Pub. L. 104–201, div. A, title XVII, § 1723(a)(2), Sept. 23, 1996, 110 Stat. 2759.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 395; amended Pub. L. 104–201, div. A, title XVII, § 1723(a)(2), Sept. 23, 1996, 110 Stat. 2759.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in subsecs. (a)(1)–(5) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 901, 903, 904(d), and 905 of the Foreign Service Act of 1980 are classified to sections 4081, 4083, 4084(d), and 4085, respectively of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsecs. (a)(1)–(5) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 901, 903, 904(d), and 905 of the Foreign Service Act of 1980 are classified to sections 4081, 4083, 4084(d), and 4085, respectively of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Prior Provisions**
 
 Prior sections 707 and 708 were renumbered sections 1907 and 1908 of this title, respectively.
 
-Provisions similar to those in this section were contained in section 235 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 235 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
-1996—Subsec. (a)(6). Pub. L. 104–201, § 1723(a)(2)(A), substituted “Section 5724a(c)” for “Section 5724a(a)(3)”.
+1996—Subsec. (a)(6). Pub. L. 104–201, § 1723(a)(2)(A), substituted “Section 5724a(c)” for “Section 5724a(a)(3)”.
 
-Subsec. (a)(7). Pub. L. 104–201, § 1723(a)(2)(B), substituted “Section 5724a(d)” for “Section 5724a(a)(4)”.
+Subsec. (a)(7). Pub. L. 104–201, § 1723(a)(2)(B), substituted “Section 5724a(d)” for “Section 5724a(a)(4)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -671,7 +671,7 @@ By the authority vested in me as President of the United States of America by Se
 
 1–104. Executive Order No. 10853 [not classified to Code], as amended, is revoked. The rules and regulations which were prescribed by the Secretary of State or the Administrator of the Veterans Administration [now Secretary of Veterans Affairs] pursuant to Executive Order No. 10853, as amended, and which would be valid if issued pursuant to this Order, shall be deemed to have been issued under this Order.
 
-### § 709. Employment restrictions
+### § 709. Employment restrictions
 
 **(a)**
 
@@ -691,7 +691,7 @@ By the authority vested in me as President of the United States of America by Se
 
 **(B)** to the appointment of any person to (i) a Senior Executive Service position as a noncareer appointee, or (ii) a position that is excepted from the competitive service, on a temporary or permanent basis, because of the confidential or policy-determining character of the position.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 395; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 395; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -699,13 +699,13 @@ By the authority vested in me as President of the United States of America by Se
 
 Prior sections 709 and 710 were renumbered sections 1909 and 1910 of this title, respectively.
 
-Provisions similar to those in this section were contained in section 12 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, § 3(3).
+Provisions similar to those in this section were contained in section 12 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, § 3(3).
 
 **Amendments**
 
 1992—Subsec. (c)(2)(A). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
 
-### § 711. Grade reductions
+### § 711. Grade reductions
 
 **(a)** The Secretary may not implement a grade reduction described in subsection (b) unless the Secretary first submits to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing a detailed plan for such reduction and a detailed justification for the plan. The report shall include a determination by the Secretary (together with data supporting such determination) that, in the personnel area concerned, the Department has a disproportionate number of employees at the salary grade or grades selected for reduction in comparison to the number of such employees at the salary levels involved who perform comparable functions in other departments and agencies of the Federal Government and in non-Federal entities. Any grade reduction described in such report may not take effect until the end of a period of 90 calendar days (not including any day on which either House of Congress is not in session) after the report is received by the committees.
 
@@ -723,7 +723,7 @@ Provisions similar to those in this section were contained in section 12 of Pub.
 
 **(e)** In the case of Department employees not described in subsection (c), the Secretary may not in any fiscal year implement a systematic reduction for the purpose of reducing the average salary cost for such Department employees that will result in a reduction in the number of such Department employees at any specific grade level at a rate greater than the rate of the reductions systematically being made in the numbers of employees at such grade level in all other agencies and departments of the Federal Government combined.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 396; amended Pub. L. 103–446, title XII, § 1201(e)(5), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–316, title I, § 119, Oct. 19, 1996, 110 Stat. 3836.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 396; amended Pub. L. 103–446, title XII, § 1201(e)(5), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–316, title I, § 119, Oct. 19, 1996, 110 Stat. 3836.)
 
 **Editorial Notes**
 
@@ -731,17 +731,17 @@ Provisions similar to those in this section were contained in section 12 of Pub.
 
 Prior section 711 was renumbered section 1911 of this title.
 
-Provisions similar to those in this section were contained in former section 210(b)(3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in former section 210(b)(3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
-1996—Subsec. (d). Pub. L. 104–316 inserted “, upon request of either of such Committees,” after “the Comptroller General shall” in first sentence.
+1996—Subsec. (d). Pub. L. 104–316 inserted “, upon request of either of such Committees,” after “the Comptroller General shall” in first sentence.
 
 1994—Subsec. (d). Pub. L. 103–446 substituted “committees” for “Committees”.
 
-### [§ 712. Repealed. Pub. L. 107–103, title V, § 509(a)(1), Dec. 27, 2001, 115 Stat. 997]
+### [§ 712. Repealed. Pub. L. 107–103, title V, § 509(a)(1), Dec. 27, 2001, 115 Stat. 997]
 
-Section, added Pub. L. 103–446, title XI, § 1102(a), Nov. 2, 1994, 108 Stat. 4680; amended Pub. L. 104–262, title III, § 303, Oct. 9, 1996, 110 Stat. 3194; Pub. L. 105–33, title VIII, § 8023(e), Aug. 5, 1997, 111 Stat. 667; Pub. L. 105–368, title X, § 1005(b)(1), Nov. 11, 1998, 112 Stat. 3364, limited reduction of full-time equivalent positions in the Department of Veterans Affairs during the period beginning on Nov. 2, 1994, and ending on Sept. 30, 1999.
+Section, added Pub. L. 103–446, title XI, § 1102(a), Nov. 2, 1994, 108 Stat. 4680; amended Pub. L. 104–262, title III, § 303, Oct. 9, 1996, 110 Stat. 3194; Pub. L. 105–33, title VIII, § 8023(e), Aug. 5, 1997, 111 Stat. 667; Pub. L. 105–368, title X, § 1005(b)(1), Nov. 11, 1998, 112 Stat. 3364, limited reduction of full-time equivalent positions in the Department of Veterans Affairs during the period beginning on Nov. 2, 1994, and ending on Sept. 30, 1999.
 
 **Editorial Notes**
 
@@ -749,7 +749,7 @@ Section, added Pub. L. 103–446, title XI, § 1102(a), Nov. 2, 1994, 108 Stat
 
 A prior section 712 was renumbered section 1912 of this title.
 
-### § 713. Senior executives: removal, demotion, or suspension based on performance or misconduct
+### § 713. Senior executives: removal, demotion, or suspension based on performance or misconduct
 
 **(a) Authority.—**
 
@@ -807,7 +807,7 @@ A prior section 712 was renumbered section 1912 of this title.
 
 **(B)** with respect to a covered individual appointed under section 7306(a) or section 7401(1) of this title, an administrative or executive position.
 
-(Added Pub. L. 113–146, title VII, § 707(a)(1), Aug. 7, 2014, 128 Stat. 1798; amended Pub. L. 115–41, title II, § 201(a), June 23, 2017, 131 Stat. 868.)
+(Added Pub. L. 113–146, title VII, § 707(a)(1), Aug. 7, 2014, 128 Stat. 1798; amended Pub. L. 115–41, title II, § 201(a), June 23, 2017, 131 Stat. 868.)
 
 **Editorial Notes**
 
@@ -823,17 +823,17 @@ A prior section 713 was renumbered section 1913 of this title.
 
 **Construction**
 
-Pub. L. 113–146, title VII, § 707(d), Aug. 7, 2014, 128 Stat. 1801, provided a rule of construction related to appeal of a removal, transfer, or other personnel action that was pending before Aug. 7, 2014, and provided that the authority provided by former section 713 of this title would be in addition to the authority provided by section 3592 or subchapter V of chapter 75 of title 5.
+Pub. L. 113–146, title VII, § 707(d), Aug. 7, 2014, 128 Stat. 1801, provided a rule of construction related to appeal of a removal, transfer, or other personnel action that was pending before Aug. 7, 2014, and provided that the authority provided by former section 713 of this title would be in addition to the authority provided by section 3592 or subchapter V of chapter 75 of title 5.
 
 **Establishment of Expedited Review Process**
 
-Pub. L. 113–146, title VII, § 707(b), Aug. 7, 2014, 128 Stat. 1800, related to the establishment by the Merit Systems Protection Board of a process to conduct expedited reviews in accordance with former subsec. (d) of this section.
+Pub. L. 113–146, title VII, § 707(b), Aug. 7, 2014, 128 Stat. 1800, related to the establishment by the Merit Systems Protection Board of a process to conduct expedited reviews in accordance with former subsec. (d) of this section.
 
 **Temporary Exemption From Certain Limitation on Initiation of Removal From Senior Executive Service**
 
-Pub. L. 113–146, title VII, § 707(c), Aug. 7, 2014, 128 Stat. 1800, provided for a 120-day exemption, starting on Aug. 7, 2014, from certain limitations on the initiation of removals from the Senior Executive Service.
+Pub. L. 113–146, title VII, § 707(c), Aug. 7, 2014, 128 Stat. 1800, provided for a 120-day exemption, starting on Aug. 7, 2014, from certain limitations on the initiation of removals from the Senior Executive Service.
 
-### § 714. Employees: removal, demotion, or suspension based on performance or misconduct
+### § 714. Employees: removal, demotion, or suspension based on performance or misconduct
 
 **(a) In General.—**
 
@@ -961,7 +961,7 @@ Pub. L. 113–146, title VII, § 707(c), Aug. 7, 2014, 128 Stat. 1800, provide
 
 **(6)** The term “whistleblower disclosure” has the meaning given such term in section 323(g) of this title.
 
-(Added Pub. L. 115–41, title II, § 202(a), June 23, 2017, 131 Stat. 869; amended Pub. L. 116–61, § 6(1), Sept. 30, 2019, 133 Stat. 1116.)
+(Added Pub. L. 115–41, title II, § 202(a), June 23, 2017, 131 Stat. 869; amended Pub. L. 116–61, § 6(1), Sept. 30, 2019, 133 Stat. 1116.)
 
 **Editorial Notes**
 
@@ -973,13 +973,13 @@ A prior section 714 was renumbered section 1914 of this title.
 
 2019—Subsec. (e)(2)(B). Pub. L. 116–61 substituted “to refer” for “to the refer”.
 
-### § 715. Congressional testimony by employees: treatment as official duty
+### § 715. Congressional testimony by employees: treatment as official duty
 
 **(a) Congressional Testimony.—** An employee of the Department is performing official duty during the period with respect to which the employee is testifying in an official capacity in front of either chamber of Congress, a committee of either chamber of Congress, or a joint or select committee of Congress.
 
 **(b) Travel Expenses.—** The Secretary shall provide travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, to any employee of the Department of Veterans Affairs performing official duty described under subsection (a).
 
-(Added Pub. L. 114–223, div. A, title II, § 247(b)(1), Sept. 29, 2016, 130 Stat. 890.)
+(Added Pub. L. 114–223, div. A, title II, § 247(b)(1), Sept. 29, 2016, 130 Stat. 890.)
 
 **Editorial Notes**
 
@@ -987,7 +987,7 @@ A prior section 714 was renumbered section 1914 of this title.
 
 Prior sections 715 and 716 were renumbered sections 1915 and 1916 of this title, respectively.
 
-### § 717. Limitation on administrative leave
+### § 717. Limitation on administrative leave
 
 **(a) In General.—** Except as provided in subsection (b), the Secretary may not place any covered individual on administrative leave, or any other type of paid non-duty status without charge to leave, for more than a total of 14 days during any 365-day period.
 
@@ -999,7 +999,7 @@ Prior sections 715 and 716 were renumbered sections 1915 and 1916 of this title,
 
 **(2)** against whom any disciplinary action is proposed or initiated under this title or title 5.
 
-(Added Pub. L. 114–315, title V, § 503(a)(1), Dec. 16, 2016, 130 Stat. 1568.)
+(Added Pub. L. 114–315, title V, § 503(a)(1), Dec. 16, 2016, 130 Stat. 1568.)
 
 **Editorial Notes**
 
@@ -1011,9 +1011,9 @@ Prior sections 717 and 718 were renumbered sections 1917 and 1918 of this title,
 
 **Effective Date**
 
-Pub. L. 114–315, title V, § 503(b), Dec. 16, 2016, 130 Stat. 1568, provided that: “Section 717 of title 38, United States Code, as added by subsection (a)(1), shall apply with respect to any 365-day period beginning on or after the date of enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–315, title V, § 503(b), Dec. 16, 2016, 130 Stat. 1568, provided that: “Section 717 of title 38, United States Code, as added by subsection (a)(1), shall apply with respect to any 365-day period beginning on or after the date of enactment of this Act [Dec. 16, 2016].”
 
-### § 719. Reduction of benefits of employees convicted of certain crimes
+### § 719. Reduction of benefits of employees convicted of certain crimes
 
 **(a) Reduction of Annuity for Removed Employee.—**
 
@@ -1075,7 +1075,7 @@ Pub. L. 114–315, title V, § 503(b), Dec. 16, 2016, 130 Stat. 1568, provided
 
 **(3)** The term “service” has the meaning given such term in section 8331(12) or section 8401(26) of title 5, as the case may be.
 
-(Added Pub. L. 115–41, title II, § 203(a)(1), June 23, 2017, 131 Stat. 873; amended Pub. L. 118–192, § 2(b), Dec. 23, 2024, 138 Stat. 2661.)
+(Added Pub. L. 115–41, title II, § 203(a)(1), June 23, 2017, 131 Stat. 873; amended Pub. L. 118–192, § 2(b), Dec. 23, 2024, 138 Stat. 2661.)
 
 **Editorial Notes**
 
@@ -1091,9 +1091,9 @@ Prior sections 719 and 720 were renumbered sections 1919 and 1920 of this title,
 
 **Effective Date**
 
-Pub. L. 115–41, title II, § 203(b), June 23, 2017, 131 Stat. 875, provided that: “Section 719 of title 38, United States Code, as added by subsection (a)(1), shall apply to any action of removal of an employee of the Department of Veterans Affairs under section 719 or 7461 of such title or any other provision of law, commencing on or after the date of the enactment of this Act [June 23, 2017].”
+Pub. L. 115–41, title II, § 203(b), June 23, 2017, 131 Stat. 875, provided that: “Section 719 of title 38, United States Code, as added by subsection (a)(1), shall apply to any action of removal of an employee of the Department of Veterans Affairs under section 719 or 7461 of such title or any other provision of law, commencing on or after the date of the enactment of this Act [June 23, 2017].”
 
-### § 721. Recoupment of bonuses or awards paid to employees of Department
+### § 721. Recoupment of bonuses or awards paid to employees of Department
 
 **(a) In General.—** Notwithstanding any other provision of law, the Secretary may issue an order directing an employee of the Department to repay the amount, or a portion of the amount, of any award or bonus paid to the employee under title 5, including under chapters 45 or 53 of such title, or this title if—
 
@@ -1117,7 +1117,7 @@ Pub. L. 115–41, title II, § 203(b), June 23, 2017, 131 Stat. 875, provided 
 
 **(2)** The Director shall make a final decision with respect to an appeal under paragraph (1) within 30 business days after receiving such appeal.
 
-(Added Pub. L. 115–41, title II, § 204(a), June 23, 2017, 131 Stat. 875.)
+(Added Pub. L. 115–41, title II, § 204(a), June 23, 2017, 131 Stat. 875.)
 
 **Editorial Notes**
 
@@ -1129,9 +1129,9 @@ Prior sections 721 and 722 were renumbered sections 1921 and 1922 of this title,
 
 **Effective Date**
 
-Pub. L. 115–41, title II, § 204(c), June 23, 2017, 131 Stat. 876, provided that: “Section 721 of title 38, United States Code, as added by subsection (a), shall apply with respect to an award or bonus paid by the Secretary of Veterans Affairs to an employee of the Department of Veterans Affairs on or after the date of the enactment of this Act [June 23, 2017].”
+Pub. L. 115–41, title II, § 204(c), June 23, 2017, 131 Stat. 876, provided that: “Section 721 of title 38, United States Code, as added by subsection (a), shall apply with respect to an award or bonus paid by the Secretary of Veterans Affairs to an employee of the Department of Veterans Affairs on or after the date of the enactment of this Act [June 23, 2017].”
 
-### § 723. Recoupment of relocation expenses paid on behalf of employees of Department
+### § 723. Recoupment of relocation expenses paid on behalf of employees of Department
 
 **(a) In General.—** Notwithstanding any other provision of law, the Secretary may issue an order directing an employee of the Department to repay the amount, or a portion of the amount, paid to or on behalf of the employee under title 5 for relocation expenses, including any expenses under section 5724 or 5724a of such title, or this title if—
 
@@ -1155,7 +1155,7 @@ Pub. L. 115–41, title II, § 204(c), June 23, 2017, 131 Stat. 876, provided 
 
 **(2)** The Director shall make a final decision with respect to an appeal under paragraph (1) within 30 days after receiving such appeal.
 
-(Added Pub. L. 115–41, title II, § 205(a), June 23, 2017, 131 Stat. 876.)
+(Added Pub. L. 115–41, title II, § 205(a), June 23, 2017, 131 Stat. 876.)
 
 **Editorial Notes**
 
@@ -1167,9 +1167,9 @@ Prior sections 723 to 729 were renumbered sections 1923 to 1929 of this title, r
 
 **Effective Date**
 
-Pub. L. 115–41, title II, § 205(c), June 23, 2017, 131 Stat. 877, provided that: “Section 723 of title 38, United States Code, as added by subsection (a), shall apply with respect to an amount paid by the Secretary of Veterans Affairs to or on behalf of an employee of the Department of Veterans Affairs for relocation expenses on or after the date of the enactment of this Act [June 23, 2017].”
+Pub. L. 115–41, title II, § 205(c), June 23, 2017, 131 Stat. 877, provided that: “Section 723 of title 38, United States Code, as added by subsection (a), shall apply with respect to an amount paid by the Secretary of Veterans Affairs to or on behalf of an employee of the Department of Veterans Affairs for relocation expenses on or after the date of the enactment of this Act [June 23, 2017].”
 
-### § 725. Annual performance plan for political appointees
+### § 725. Annual performance plan for political appointees
 
 **(a) In General.—** The Secretary shall conduct an annual performance plan for each political appointee of the Department that is similar to the annual performance plan conducted for an employee of the Department who is appointed as a career appointee (as that term is defined in section 3132(a) of title 5) within the Senior Executive Service at the Department.
 
@@ -1189,9 +1189,9 @@ Pub. L. 115–41, title II, § 205(c), June 23, 2017, 131 Stat. 877, provided 
 
 **(2)** a position in the Senior Executive Service as a noncareer appointee (as such term is defined in section 3132(a) of title 5).
 
-(Added Pub. L. 115–46, title II, § 203(a), Aug. 12, 2017, 131 Stat. 962.)
+(Added Pub. L. 115–46, title II, § 203(a), Aug. 12, 2017, 131 Stat. 962.)
 
-### § 726. Annual report on performance awards and bonuses awarded to certain high-level employees
+### § 726. Annual report on performance awards and bonuses awarded to certain high-level employees
 
 **(a) In General.—** Not later than 100 days after the end of each fiscal year, the Secretary shall submit to the appropriate committees of Congress a report that contains, for the most recent fiscal year ending before the submittal of the report, a description of all performance awards or bonuses awarded to each of the following:
 
@@ -1227,7 +1227,7 @@ Pub. L. 115–41, title II, § 205(c), June 23, 2017, 131 Stat. 877, provided 
 
 **(3)** The term “career appointee” has the meaning given that term in section 3132(a) of title 5.
 
-(Added Pub. L. 115–182, title V, § 501(a), June 6, 2018, 132 Stat. 1474; amended Pub. L. 115–251, title II, § 211(a)(1), Sept. 29, 2018, 132 Stat. 3174.)
+(Added Pub. L. 115–182, title V, § 501(a), June 6, 2018, 132 Stat. 1474; amended Pub. L. 115–251, title II, § 211(a)(1), Sept. 29, 2018, 132 Stat. 3174.)
 
 **Editorial Notes**
 
@@ -1237,9 +1237,9 @@ Section 501(a) of Pub. L. 115–182, which directed that this section be added a
 
 **Amendments**
 
-2018—Subsec. (c)(3). Pub. L. 115–251 struck out “, United States Code” after “of title 5”.
+2018—Subsec. (c)(3). Pub. L. 115–251 struck out “, United States Code” after “of title 5”.
 
-### § 727. Reassignment of senior executives
+### § 727. Reassignment of senior executives
 
 **(a) Approval of Reassignments.—** No individual employed in a senior executive position at the Department may be reassigned to another such position at the Department unless such reassignment is approved in writing and signed by the Secretary.
 
@@ -1261,9 +1261,9 @@ Section 501(a) of Pub. L. 115–182, which directed that this section be added a
 
 **(c) Senior Executive Position Defined.—** In this section, the term “senior executive position” has the meaning given such term in section 713(d) of this title.
 
-(Added Pub. L. 115–188, § 2(a), June 21, 2018, 132 Stat. 1490.)
+(Added Pub. L. 115–188, § 2(a), June 21, 2018, 132 Stat. 1490.)
 
-### § 728. Misuse of Department purchase cards
+### § 728. Misuse of Department purchase cards
 
 **(a) In General.—**
 
@@ -1283,11 +1283,11 @@ Section 501(a) of Pub. L. 115–182, which directed that this section be added a
 
 **(5)** violating ethics standards.
 
-(Added Pub. L. 115–407, title V, § 501(a), Dec. 31, 2018, 132 Stat. 5376.)
+(Added Pub. L. 115–407, title V, § 501(a), Dec. 31, 2018, 132 Stat. 5376.)
 
 ## SUBCHAPTER II—WHISTLEBLOWER COMPLAINTS
 
-### § 731. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints
+### § 731. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints
 
 **(a) In General.—**
 
@@ -1333,35 +1333,35 @@ Section 501(a) of Pub. L. 115–182, which directed that this section be added a
 
 **(d) Whistleblower Disclosure Defined.—** In this section, the term “whistleblower disclosure” has the meaning given such term in section 323(g) of this title.
 
-(Added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 887, § 733; renumbered § 731 and amended Pub. L. 115–41, title I, § 102(a)(2), (c), title II, § 206, June 23, 2017, 131 Stat. 865, 867, 877.)
+(Added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 887, § 733; renumbered § 731 and amended Pub. L. 115–41, title I, § 102(a)(2), (c), title II, § 206, June 23, 2017, 131 Stat. 865, 867, 877.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 731, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 884, defined whistleblower complaint, prior to repeal by Pub. L. 115–41, title I, § 102(a)(1), June 23, 2017, 131 Stat. 865.
+A prior section 731, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 884, defined whistleblower complaint, prior to repeal by Pub. L. 115–41, title I, § 102(a)(1), June 23, 2017, 131 Stat. 865.
 
 **Amendments**
 
-2017—Pub. L. 115–41, § 102(a)(2), renumbered section 733 of this title as this section.
+2017—Pub. L. 115–41, § 102(a)(2), renumbered section 733 of this title as this section.
 
-Subsec. (a)(2)(B). Pub. L. 115–41, § 206, substituted “10 days” for “14 days” in cl. (i) and “10-day period” for “14-day period” in cl. (ii).
+Subsec. (a)(2)(B). Pub. L. 115–41, § 206, substituted “10 days” for “14 days” in cl. (i) and “10-day period” for “14-day period” in cl. (ii).
 
-Subsec. (c)(1)(A). Pub. L. 115–41, § 102(c)(1)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “filing a whistleblower complaint in accordance with section 732 of this title;”.
+Subsec. (c)(1)(A). Pub. L. 115–41, § 102(c)(1)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “filing a whistleblower complaint in accordance with section 732 of this title;”.
 
-Subsec. (c)(1)(B). Pub. L. 115–41, § 102(c)(1)(A), redesignated subpar. (C) as (B), substituted “disclosure made to the Assistant Secretary for Accountability and Whistleblower Protection,” for “complaint in accordance with section 732 or with”, and struck out former subpar. (B) which read as follows: “filing a whistleblower complaint with the Inspector General of the Department, the Special Counsel, or Congress;”.
+Subsec. (c)(1)(B). Pub. L. 115–41, § 102(c)(1)(A), redesignated subpar. (C) as (B), substituted “disclosure made to the Assistant Secretary for Accountability and Whistleblower Protection,” for “complaint in accordance with section 732 or with”, and struck out former subpar. (B) which read as follows: “filing a whistleblower complaint with the Inspector General of the Department, the Special Counsel, or Congress;”.
 
-Subsec. (c)(1)(C) to (F). Pub. L. 115–41, § 102(c)(1)(A)(ii), redesignated subpars. (C) to (F) as (B) to (E), respectively.
+Subsec. (c)(1)(C) to (F). Pub. L. 115–41, § 102(c)(1)(A)(ii), redesignated subpars. (C) to (F) as (B) to (E), respectively.
 
-Subsec. (c)(2). Pub. L. 115–41, § 102(c)(1)(B), substituted “through (E)” for “through (F)”.
+Subsec. (c)(2). Pub. L. 115–41, § 102(c)(1)(B), substituted “through (E)” for “through (F)”.
 
-Subsec. (d). Pub. L. 115–41, § 102(c)(2), added subsec. (d).
+Subsec. (d). Pub. L. 115–41, § 102(c)(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Improvement of Training for Supervisors**
 
-Pub. L. 115–41, title II, § 209, June 23, 2017, 131 Stat. 879, provided that:
+Pub. L. 115–41, title II, § 209, June 23, 2017, 131 Stat. 879, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall provide to each employee of the Department of Veterans Affairs who is employed as a supervisor periodic training on the following:
 
@@ -1377,7 +1377,7 @@ Pub. L. 115–41, title II, § 209, June 23, 2017, 131 Stat. 879, provided tha
 
 > **“(2) Whistleblower.—** The term ‘whistleblower’ has the meaning given such term in section 323(g) of title 38, United States Code, as added by section 101.”
 
-### § 732. Protection of whistleblowers as criteria in evaluation of supervisors
+### § 732. Protection of whistleblowers as criteria in evaluation of supervisors
 
 **(a) Development and Use of Criteria Required.—** The Secretary, in consultation with the Assistant Secretary of Accountability and Whistleblower Protection, shall develop criteria that—
 
@@ -1389,19 +1389,19 @@ Pub. L. 115–41, title II, § 209, June 23, 2017, 131 Stat. 879, provided tha
 
 **(c) Supervisory Employee and Whistleblower Defined.—** In this section, the terms “supervisory employee” and “whistleblower” have the meanings given such terms in section 323 of this title.
 
-(Added Pub. L. 115–41, title I, § 102(a)(3), June 23, 2017, 131 Stat. 865.)
+(Added Pub. L. 115–41, title I, § 102(a)(3), June 23, 2017, 131 Stat. 865.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 732, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 884, related to treatment of whistleblower complaints, prior to repeal by Pub. L. 115–41, title I, § 102(a)(1), June 23, 2017, 131 Stat. 865.
+A prior section 732, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 884, related to treatment of whistleblower complaints, prior to repeal by Pub. L. 115–41, title I, § 102(a)(1), June 23, 2017, 131 Stat. 865.
 
-### § 733. Training regarding whistleblower disclosures
+### § 733. Training regarding whistleblower disclosures
 
 **(a) Training.—** Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall provide to each employee of the Department training regarding whistleblower disclosures, including—
 
@@ -1423,13 +1423,13 @@ shall provide to each employee of the Department training regarding whistleblowe
 
 **(e) Whistleblower Disclosure Defined.—** In this section, the term “whistleblower disclosure” has the meaning given such term in section 323 of this title.
 
-(Added Pub. L. 115–41, title I, § 102(a)(3), June 23, 2017, 131 Stat. 866.)
+(Added Pub. L. 115–41, title I, § 102(a)(3), June 23, 2017, 131 Stat. 866.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3(d)(1)(C) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(d)(1)(C) of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 403(d)(1)(C) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4209, 4361.
+Section 3(d)(1)(C) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(d)(1)(C) of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 403(d)(1)(C) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4209, 4361.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(3), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
@@ -1439,13 +1439,13 @@ Section 115(a)(1) of the Whistleblower Protection Enhancement Act of 2012, refer
 
 A prior section 733 was renumbered section 731 of this title.
 
-### [§§ 734 to 736. Repealed. Pub. L. 115–41, title I, § 102(a)(1), June 23, 2017, 131 Stat. 865]
+### [§§ 734 to 736. Repealed. Pub. L. 115–41, title I, § 102(a)(1), June 23, 2017, 131 Stat. 865]
 
-Section 734, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 888, related to evaluation criteria of supervisors and treatment of bonuses.
+Section 734, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 888, related to evaluation criteria of supervisors and treatment of bonuses.
 
-Section 735, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 889; amended Pub. L. 114–315, title VIII, § 802(1), Dec. 16, 2016, 130 Stat. 1591, related to training regarding whistleblower complaints. See section 733 of this title.
+Section 735, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 889; amended Pub. L. 114–315, title VIII, § 802(1), Dec. 16, 2016, 130 Stat. 1591, related to training regarding whistleblower complaints. See section 733 of this title.
 
-Section 736, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 889, related to reports to Congress on whistleblower complaints.
+Section 736, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Sept. 29, 2016, 130 Stat. 889, related to reports to Congress on whistleblower complaints.
 
 **Editorial Notes**
 
@@ -1455,7 +1455,7 @@ Prior sections 740 to 763, 765 to 779, 781 to 788, and 801 to 806 were renumbere
 
 ## SUBCHAPTER III—EXECUTIVE MANAGEMENT FELLOWSHIP PROGRAM
 
-### § 741. Executive Management Fellowship Program
+### § 741. Executive Management Fellowship Program
 
 **(a) Fellowship Program.—** There is in the Department an Executive Management Fellowship Program. The purpose of the program shall be to provide—
 
@@ -1551,7 +1551,7 @@ Prior sections 740 to 763, 765 to 779, 781 to 788, and 801 to 806 were renumbere
 
 **(3)** The term “private-sector participant” means an employee of a private-sector entity who is participating in the fellowship under this section.
 
-(Added Pub. L. 115–46, title II, § 202(a), Aug. 12, 2017, 131 Stat. 959.)
+(Added Pub. L. 115–46, title II, § 202(a), Aug. 12, 2017, 131 Stat. 959.)
 
 **Editorial Notes**
 
@@ -1563,4 +1563,4 @@ Grade GS–14 of the General Schedule, referred to in subsec. (d)(1)(A), is set 
 
 **Deadline for Implementation**
 
-Pub. L. 115–46, title II, § 202(b), Aug. 12, 2017, 131 Stat. 962, provided that: “Not later than 1 year after the date of the enactment of this Act [Aug. 12, 2017], the Secretary of Veterans Affairs shall implement the Executive Management Fellowship Program required under section 741 of title 38, United States Code, as added by subsection (a).”
+Pub. L. 115–46, title II, § 202(b), Aug. 12, 2017, 131 Stat. 962, provided that: “Not later than 1 year after the date of the enactment of this Act [Aug. 12, 2017], the Secretary of Veterans Affairs shall implement the Executive Management Fellowship Program required under section 741 of title 38, United States Code, as added by subsection (a).”

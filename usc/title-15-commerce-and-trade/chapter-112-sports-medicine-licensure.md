@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 112—SPORTS MEDICINE LICENSURE
 
-## § 8601. Protections for covered sports medicine professionals
+## § 8601. Protections for covered sports medicine professionals
 
 **(a) In general** In the case of a covered sports medicine professional who has in effect medical professional liability insurance coverage and provides in a secondary State covered medical services that are within the scope of practice of such professional in the primary State to an athlete or an athletic team (or a staff member of such an athlete or athletic team) pursuant to an agreement described in subsection (c)(4) with respect to such athlete or athletic team—
 
@@ -101,10 +101,10 @@ The term “State” means each of the several States, the District of Columbia,
 
 The term “substantially similar”, with respect to the licensure by primary and secondary States of a sports medicine professional, means that both the primary and secondary States have in place a form of licensure for such professionals that permits such professionals to provide covered medical services.
 
-(Pub. L. 115–254, div. A, § 12, Oct. 5, 2018, 132 Stat. 3197.)
+(Pub. L. 115–254, div. A, § 12, Oct. 5, 2018, 132 Stat. 3197.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 115–254, div. A, § 11, Oct. 5, 2018, 132 Stat. 3197, provided that: “This division [enacting this chapter] may be cited as the ‘Sports Medicine Licensure Clarity Act of 2018’.”
+Pub. L. 115–254, div. A, § 11, Oct. 5, 2018, 132 Stat. 3197, provided that: “This division [enacting this chapter] may be cited as the ‘Sports Medicine Licensure Clarity Act of 2018’.”

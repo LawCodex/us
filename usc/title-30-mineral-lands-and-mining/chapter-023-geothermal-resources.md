@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 23—GEOTHERMAL RESOURCES
 
-## § 1001. Definitions
+## § 1001. Definitions
 
 As used in this chapter, the term—
 
@@ -29,13 +29,13 @@ As used in this chapter, the term—
 
 **(e)** “known geothermal resources area” means an area in which the geology, nearby discoveries, competitive interests, or other indicia would, in the opinion of the Secretary, engender a belief in men who are experienced in the subject matter that the prospects for extraction of geothermal steam or associated geothermal resources are good enough to warrant expenditures of money for that purpose.
 
-**(f)** “Significant 1
+**(f)** “Significant 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 thermal features within units of the National Park System” shall include, but not be limited to, the following:
 
-**(1)** Thermal features within units of the National Park System listed in Section <sup>1</sup> 1026(a)(1) of this title and designated as significant in the Federal Register notice of August 3, 1987 (Vol. 52, No. 148 Fed. Reg. 28790).
+**(1)** Thermal features within units of the National Park System listed in Section <sup>1</sup> 1026(a)(1) of this title and designated as significant in the Federal Register notice of August 3, 1987 (Vol. 52, No. 148 Fed. Reg. 28790).
 
 **(2)** Crater Lake National Park.
 
@@ -43,21 +43,21 @@ thermal features within units of the National Park System” shall include, but 
 
 **(4)** Thermal features within units of the National Park System added to the significant thermal features list pursuant to section 1026(a)(2) of this title.
 
-**(g)** “direct use” means utilization of geothermal resources for commercial, residential, agricultural, public facilities, or other energy needs other than the commercial production of electricity; and 2
+**(g)** “direct use” means utilization of geothermal resources for commercial, residential, agricultural, public facilities, or other energy needs other than the commercial production of electricity; and 2
 
-<sup>2</sup>  So in original. Probably should end with a period instead of “; and”.
+<sup>2</sup> So in original. Probably should end with a period instead of “; and”.
 
-(Pub. L. 91–581, § 2, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 100–443, § 2(a), Sept. 22, 1988, 102 Stat. 1766; Pub. L. 109–58, title II, § 236(1), (2), (5), Aug. 8, 2005, 119 Stat. 671.)
+(Pub. L. 91–581, § 2, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 100–443, § 2(a), Sept. 22, 1988, 102 Stat. 1766; Pub. L. 109–58, title II, § 236(1), (2), (5), Aug. 8, 2005, 119 Stat. 671.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Pub. L. 109–58, § 236(5), inserted section catchline.
+2005—Pub. L. 109–58, § 236(5), inserted section catchline.
 
-Par. (c). Pub. L. 109–58, § 236(1), substituted “geothermal resources” for “geothermal steam and associated geothermal resources”.
+Par. (c). Pub. L. 109–58, § 236(1), substituted “geothermal resources” for “geothermal steam and associated geothermal resources”.
 
-Par. (g). Pub. L. 109–58, § 236(2), added par. (g).
+Par. (g). Pub. L. 109–58, § 236(2), added par. (g).
 
 1988—Par. (f). Pub. L. 100–443 added par. (f).
 
@@ -65,21 +65,21 @@ Par. (g). Pub. L. 109–58, § 236(2), added par. (g).
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–58, title II, § 221, Aug. 8, 2005, 119 Stat. 660, provided that: “This subtitle [subtitle B (§§ 221–237) of title II of Pub. L. 109–58, enacting part B (§ 15871 et seq.) of subchapter II of chapter 149 of Title 42, The Public Health and Welfare, amending this section and sections 530 and 1002 to 1027 of this title, enacting provisions set out as notes under section 1004 of this title, and amending provisions set out as a note under this section] may be cited as the ‘John Rishel Geothermal Steam Act Amendments of 2005’.”
+Pub. L. 109–58, title II, § 221, Aug. 8, 2005, 119 Stat. 660, provided that: “This subtitle [subtitle B (§§ 221–237) of title II of Pub. L. 109–58, enacting part B (§ 15871 et seq.) of subchapter II of chapter 149 of Title 42, The Public Health and Welfare, amending this section and sections 530 and 1002 to 1027 of this title, enacting provisions set out as notes under section 1004 of this title, and amending provisions set out as a note under this section] may be cited as the ‘John Rishel Geothermal Steam Act Amendments of 2005’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–443, § 1, Sept. 22, 1988, 102 Stat. 1766, provided that: “This Act [enacting sections 1026 and 1027 of this title, amending this section and sections 191, 226–3, 1005, 1017, and 1019 of this title, and enacting provisions set out as notes under sections 1005 and 1026 of this title] may be known as the ‘Geothermal Steam Act Amendments of 1988’.”
+Pub. L. 100–443, § 1, Sept. 22, 1988, 102 Stat. 1766, provided that: “This Act [enacting sections 1026 and 1027 of this title, amending this section and sections 191, 226–3, 1005, 1017, and 1019 of this title, and enacting provisions set out as notes under sections 1005 and 1026 of this title] may be known as the ‘Geothermal Steam Act Amendments of 1988’.”
 
 **Short Title**
 
-Pub. L. 91–581, § 1, Dec. 24, 1970, 84 Stat. 1566, as amended by Pub. L. 109–58, title II, § 236(4), Aug. 8, 2005, 119 Stat. 671, provided that: “This Act [enacting this chapter and amending section 530 of this title] may be cited as the ‘Geothermal Steam Act of 1970’.”
+Pub. L. 91–581, § 1, Dec. 24, 1970, 84 Stat. 1566, as amended by Pub. L. 109–58, title II, § 236(4), Aug. 8, 2005, 119 Stat. 671, provided that: “This Act [enacting this chapter and amending section 530 of this title] may be cited as the ‘Geothermal Steam Act of 1970’.”
 
-## § 1002. Lands subject to geothermal leasing
+## § 1002. Lands subject to geothermal leasing
 
 Subject to the provisions of section 1014 of this title, the Secretary of the Interior may issue leases for the development and utilization of geothermal resources (1) in lands administered by him, including public, withdrawn, and acquired lands, (2) in any national forest or other lands administered by the Department of Agriculture through the Forest Service, including public, withdrawn, and acquired lands, and (3) in lands which have been conveyed by the United States subject to a reservation to the United States of the geothermal resources therein.
 
-(Pub. L. 91–581, § 3, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 109–58, title II, § 236(1), (6), Aug. 8, 2005, 119 Stat. 671, 672.)
+(Pub. L. 91–581, § 3, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 109–58, title II, § 236(1), (6), Aug. 8, 2005, 119 Stat. 671, 672.)
 
 **Editorial Notes**
 
@@ -87,11 +87,11 @@ Subject to the provisions of section 1014 of this title, the Secretary of the In
 
 2005—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in two places in text.
 
-## § 1002a. Repealed. Pub. L. 97–214, § 7(16), July 12, 1982, 96 Stat. 174
+## § 1002a. Repealed. Pub. L. 97–214, § 7(16), July 12, 1982, 96 Stat. 174
 
-Section, Pub. L. 95–356, title VIII, § 803(a), (b), Sept. 8, 1978, 92 Stat. 585; Pub. L. 96–125, title VIII, § 802(2), Nov. 26, 1979, 93 Stat. 948; Pub. L. 97–99, title IX, § 908, Dec. 23, 1981, 95 Stat. 1385, related to development of geothermal energy sources on military lands, contracts for provision and operation of production facilities and energy purchases, and terms, conditions and prerequisites of such contracts. See sections 2917 and 2922a of Title 10, Armed Forces.
+Section, Pub. L. 95–356, title VIII, § 803(a), (b), Sept. 8, 1978, 92 Stat. 585; Pub. L. 96–125, title VIII, § 802(2), Nov. 26, 1979, 93 Stat. 948; Pub. L. 97–99, title IX, § 908, Dec. 23, 1981, 95 Stat. 1385, related to development of geothermal energy sources on military lands, contracts for provision and operation of production facilities and energy purchases, and terms, conditions and prerequisites of such contracts. See sections 2917 and 2922a of Title 10, Armed Forces.
 
-Pub. L. 95–356, title VIII, § 803(c), Sept. 8, 1978, 92 Stat. 585, which provided that this section take effect Oct. 1, 1978, was repealed by Pub. L. 97–214, § 7(16), July 12, 1982, 96 Stat. 174.
+Pub. L. 95–356, title VIII, § 803(c), Sept. 8, 1978, 92 Stat. 585, which provided that this section take effect Oct. 1, 1978, was repealed by Pub. L. 97–214, § 7(16), July 12, 1982, 96 Stat. 174.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,7 +99,7 @@ Pub. L. 95–356, title VIII, § 803(c), Sept. 8, 1978, 92 Stat. 585, which pr
 
 Repeal effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.
 
-## § 1003. Leasing procedures
+## § 1003. Leasing procedures
 
 **(a) Nominations**
 
@@ -135,7 +135,7 @@ The Secretary shall make available for a period of 2 years for noncompetitive le
 
 It shall be a priority for the Secretary, and for the Secretary of Agriculture with respect to National Forest Systems land, to ensure timely completion of administrative actions, including amendments to applicable forest plans and resource management plans, necessary to process applications for geothermal leasing pending on August 8, 2005.1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 All future forest plans and resource management plans for areas with high geothermal resource potential shall consider geothermal leasing and development.
 
@@ -167,15 +167,15 @@ Subject to paragraph (2), a geothermal lease for the direct use of geothermal re
 
 The quantity of acreage covered by the lease shall not exceed the limitations established under section 1006 of this title.
 
-(Pub. L. 91–581, § 4, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 109–58, title II, §§ 222, 223(b), Aug. 8, 2005, 119 Stat. 660, 662; Pub. L. 116–260, div. Z, title III, § 3105, Dec. 27, 2020, 134 Stat. 2516.)
+(Pub. L. 91–581, § 4, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 109–58, title II, §§ 222, 223(b), Aug. 8, 2005, 119 Stat. 660, 662; Pub. L. 116–260, div. Z, title III, § 3105, Dec. 27, 2020, 134 Stat. 2516.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mineral Leasing Act, referred to in subsec. (b)(4), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act, referred to in subsec. (b)(4), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-The Mineral Leasing Act for Acquired Lands, referred to in subsec. (b)(4), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
+The Mineral Leasing Act for Acquired Lands, referred to in subsec. (b)(4), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
 **Codification**
 
@@ -185,11 +185,11 @@ August 8, 2005, referred to in subsec. (d)(1), was in the original “the date o
 
 2020—Subsec. (b)(4). Pub. L. 116–260 added par. (4).
 
-2005—Pub. L. 109–58, § 222, inserted section catchline and amended text generally. Prior to amendment, text related to competitive bidding requirements, conversion of prior leases to geothermal leases, conflicting land interests, conversion of prior applications, acreage limitation, regulations, and time for payment.
+2005—Pub. L. 109–58, § 222, inserted section catchline and amended text generally. Prior to amendment, text related to competitive bidding requirements, conversion of prior leases to geothermal leases, conflicting land interests, conversion of prior applications, acreage limitation, regulations, and time for payment.
 
-Subsecs. (f), (g). Pub. L. 109–58, § 223(b), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 109–58, § 223(b), added subsecs. (f) and (g).
 
-## § 1004. Rents and royalties
+## § 1004. Rents and royalties
 
 **(a) In general** Geothermal leases shall provide for—
 
@@ -209,9 +209,9 @@ Subsecs. (f), (g). Pub. L. 109–58, § 223(b), added subsecs. (f) and (g).
 
 **(ii)** in the case of a lease awarded in a competitive lease sale, $2 per acre or fraction thereof for the 1st year and $3 per acre or fraction thereof for each of the 2nd through 10th years; and
 
-**(B)** for each year after the 10th year of the lease, $5 per acre or fraction thereof; 1
+**(B)** for each year after the 10th year of the lease, $5 per acre or fraction thereof; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(b) Direct use**
 
@@ -299,37 +299,37 @@ The Secretary shall promptly notify a lessee that has not paid rental required u
 
 A lease that would otherwise terminate under paragraph (1) shall not terminate under that paragraph if the lessee pays to the Secretary, before the end of the period referred to in paragraph (1), the amount of rental due plus a late fee equal to 10 percent of the amount.
 
-(Pub. L. 91–581, § 5, Dec. 24, 1970, 84 Stat. 1567; Pub. L. 109–58, title II, §§ 223(a), 224(a), 228, 230, 232, 233, 236(7), Aug. 8, 2005, 119 Stat. 661, 662, 667–670, 672.)
+(Pub. L. 91–581, § 5, Dec. 24, 1970, 84 Stat. 1567; Pub. L. 109–58, title II, §§ 223(a), 224(a), 228, 230, 232, 233, 236(7), Aug. 8, 2005, 119 Stat. 661, 662, 667–670, 672.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 **Amendments**
 
-2005—Pub. L. 109–58, §§ 223(a)(1)–(3), 224(a)(1), 228, 230(1)–(3), 233(a), 236(7), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, redesignated subpars. (1) and (2) of par. (c) as subpars. (A) and (B), respectively, redesignated pars. (a) to (d) as pars. (1) to (4), respectively, of subsec. (a), added new pars. (1) to (3) of subsec. (a) and struck out former pars. (1) to (4) of subsec. (a) which related to royalties for amount or value of steam or other form of heat energy, royalty for value of byproducts, payment of annual rental, and royalties in lieu of rentals.
+2005—Pub. L. 109–58, §§ 223(a)(1)–(3), 224(a)(1), 228, 230(1)–(3), 233(a), 236(7), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, redesignated subpars. (1) and (2) of par. (c) as subpars. (A) and (B), respectively, redesignated pars. (a) to (d) as pars. (1) to (4), respectively, of subsec. (a), added new pars. (1) to (3) of subsec. (a) and struck out former pars. (1) to (4) of subsec. (a) which related to royalties for amount or value of steam or other form of heat energy, royalty for value of byproducts, payment of annual rental, and royalties in lieu of rentals.
 
-Subsec. (b). Pub. L. 109–58, § 223(a)(4), added subsec. (b).
+Subsec. (b). Pub. L. 109–58, § 223(a)(4), added subsec. (b).
 
-Subsecs. (c), (d). Pub. L. 109–58, § 224(a)(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 109–58, § 224(a)(2), added subsecs. (c) and (d).
 
-Subsec. (e). Pub. L. 109–58, § 230(4), added subsec. (e).
+Subsec. (e). Pub. L. 109–58, § 230(4), added subsec. (e).
 
-Subsec. (f). Pub. L. 109–58, § 232, added subsec. (f).
+Subsec. (f). Pub. L. 109–58, § 232, added subsec. (f).
 
-Subsec. (g). Pub. L. 109–58, § 233(b), added subsec. (g).
+Subsec. (g). Pub. L. 109–58, § 233(b), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–58, title II, § 223(c), Aug. 8, 2005, 119 Stat. 662, provided that: “The schedule of fees established under the amendment made by subsection (a)(4) [amending this section] shall apply with respect to payments under a lease converted under this subsection that are due and owing, and have been paid, on or after July 16, 2003. This subsection shall not require the refund of royalties paid to a State under section 20 of the Geothermal Steam Act of 1970 (30 U.S.C. 1019) prior to the date of enactment of this Act [Aug. 8, 2005].”
+Pub. L. 109–58, title II, § 223(c), Aug. 8, 2005, 119 Stat. 662, provided that: “The schedule of fees established under the amendment made by subsection (a)(4) [amending this section] shall apply with respect to payments under a lease converted under this subsection that are due and owing, and have been paid, on or after July 16, 2003. This subsection shall not require the refund of royalties paid to a State under section 20 of the Geothermal Steam Act of 1970 (30 U.S.C. 1019) prior to the date of enactment of this Act [Aug. 8, 2005].”
 
 **Incentives and Royalties for Existing Leases**
 
-Pub. L. 109–58, title II, § 224(c)–(e), Aug. 8, 2005, 119 Stat. 663, 664, provided that:
+Pub. L. 109–58, title II, § 224(c)–(e), Aug. 8, 2005, 119 Stat. 663, 664, provided that:
 
 > **“(c) Near-Term Production Incentive for Existing Leases.—**
 
@@ -373,7 +373,7 @@ Pub. L. 109–58, title II, § 224(c)–(e), Aug. 8, 2005, 119 Stat. 663, 664,
 
 > **“(4) Consultation.—** The Secretary of the Interior shall consult with the State and local governments affected by any proposed changes in lease royalty terms under this subsection.”
 
-## § 1005. Lease term and work commitment requirements
+## § 1005. Lease term and work commitment requirements
 
 **(a) In general**
 
@@ -439,13 +439,13 @@ Except as otherwise provided for in this section, for purposes of this section t
 
 Minerals locatable under the mining laws of the United States in lands subject to a geothermal lease issued under the provisions of this chapter which are not associated with the geothermal resources of such lands as defined in section 1001(c) of this title shall be locatable under said mining laws in accordance with the principles of the Multiple Mineral Development Act (68 Stat. 708; found in 30 U.S.C. 521 et seq.).
 
-(Pub. L. 91–581, § 6, Dec. 24, 1970, 84 Stat. 1568; Pub. L. 100–443, §§ 2(b), 3, Sept. 22, 1988, 102 Stat. 1766; Pub. L. 109–58, title II, §§ 231, 236(1), Aug. 8, 2005, 119 Stat. 668, 671.)
+(Pub. L. 91–581, § 6, Dec. 24, 1970, 84 Stat. 1568; Pub. L. 100–443, §§ 2(b), 3, Sept. 22, 1988, 102 Stat. 1766; Pub. L. 109–58, title II, §§ 231, 236(1), Aug. 8, 2005, 119 Stat. 668, 671.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Multiple Mineral Development Act, referred to in subsec. (i), is act Aug. 13, 1954, ch. 730, 68 Stat. 708, which is classified principally to chapter 12 (§ 521 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 521 of this title and Tables.
+The Multiple Mineral Development Act, referred to in subsec. (i), is act Aug. 13, 1954, ch. 730, 68 Stat. 708, which is classified principally to chapter 12 (§ 521 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 521 of this title and Tables.
 
 **Codification**
 
@@ -455,19 +455,19 @@ August 8, 2005, referred to in introductory provisions of subsec. (d), was in th
 
 2005—Pub. L. 109–58 inserted section catchline, added subsecs. (a) to (f), redesignated former subsecs. (c), (d), and (f) as (g), (h), and (i), respectively, substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in subsec. (i), and struck out former subsecs. (a), (b), (e), and (g) to (j), which related to primary and continuation terms, renewals, conversions to mineral leases, five-year extensions, bona fide effort requirement for extensions, payments in lieu of commercial quantities production, and significant expenditure, respectively.
 
-1988—Subsec. (d). Pub. L. 100–443, § 2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam in commercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
+1988—Subsec. (d). Pub. L. 100–443, § 2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam in commercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
 
-Subsecs. (g) to (j). Pub. L. 100–443, § 3, added subsecs. (g) to (j).
+Subsecs. (g) to (j). Pub. L. 100–443, § 3, added subsecs. (g) to (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Consistency Provision**
 
-Pub. L. 100–443, § 9, Sept. 22, 1988, 102 Stat. 1771, provided that: “To the extent that any provision in this Act [see Short Title of 1988 Amendment note set out under section 1001 of this title] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat. 3341–266) [set out below], this Act shall be deemed to supersede the provisions of such section.”
+Pub. L. 100–443, § 9, Sept. 22, 1988, 102 Stat. 1771, provided that: “To the extent that any provision in this Act [see Short Title of 1988 Amendment note set out under section 1001 of this title] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat. 3341–266) [set out below], this Act shall be deemed to supersede the provisions of such section.”
 
 **Extension of Lease; Listing, Monitoring and Protection of Significant Thermal Features in National Park System; Factors Considered in Issuing or Denying Leases; Effect on Other Provisions**
 
-Pub. L. 99–500, § 101(h) [title I, § 115], Oct. 18, 1986, 100 Stat. 1783–242, 1783–264, and Pub. L. 99–591, § 101(h) [title I, § 115], Oct. 30, 1986, 100 Stat. 3341–242, 3341–264, as amended by Pub. L. 106–510, § 3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363, provided that:
+Pub. L. 99–500, § 101(h) [title I, § 115], Oct. 18, 1986, 100 Stat. 1783–242, 1783–264, and Pub. L. 99–591, § 101(h) [title I, § 115], Oct. 30, 1986, 100 Stat. 3341–242, 3341–264, as amended by Pub. L. 106–510, § 3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363, provided that:
 
 > **“(1)** The primary term of any geothermal lease in effect as of July 27, 1984, issued pursuant to the Geothermal [Steam] Act of 1970 (Public Law 91–581, 84 Stat. 1566, 30 U.S.C. 1001–1025) is hereby extended to December 31, 1988, if the Secretary of the Interior finds that—
 
@@ -551,11 +551,11 @@ Pub. L. 99–500, § 101(h) [title I, § 115], Oct. 18, 1986, 100 Stat. 1783
 
 > The provisions of this section shall remain in effect until Congress determines otherwise.”
 
-## § 1006. Acreage limitations
+## § 1006. Acreage limitations
 
 A geothermal lease shall embrace a reasonably compact area of not more than 5,120 acres, except where a departure therefrom is occasioned by an irregular subdivision or subdivisions. No person, association, or corporation, except as otherwise provided in this chapter, shall take, hold, own, or control at one time, whether acquired directly from the Secretary under this chapter or otherwise, any direct or indirect interest in Federal geothermal leases in any one State exceeding 51,200 acres, including leases acquired under the provisions of section 1003 of this title.
 
-(Pub. L. 91–581, § 7, Dec. 24, 1970, 84 Stat. 1569; Pub. L. 109–58, title II, § 235, Aug. 8, 2005, 119 Stat. 671.)
+(Pub. L. 91–581, § 7, Dec. 24, 1970, 84 Stat. 1569; Pub. L. 109–58, title II, § 235, Aug. 8, 2005, 119 Stat. 671.)
 
 **Editorial Notes**
 
@@ -563,7 +563,7 @@ A geothermal lease shall embrace a reasonably compact area of not more than 5,12
 
 2005—Pub. L. 109–58 inserted section catchline, substituted “5,120 acres” for “two thousand five hundred and sixty acres” and “51,200 acres” for “twenty thousand four hundred and eighty acres” in text, and struck out second par. which read as follows: “At any time after fifteen years from December 24, 1970, the Secretary, after public hearings, may increase this maximum holding in any one State by regulation, not to exceed fifty-one thousand two hundred acres.”
 
-## § 1007. Readjustment of lease terms and conditions
+## § 1007. Readjustment of lease terms and conditions
 
 **(a) Initial readjustment; periodic intervals; notice; objections, relinquishment, and termination**
 
@@ -571,9 +571,9 @@ The Secretary may readjust the terms and conditions, except as otherwise provide
 
 **(b) Rentals and royalties; initial readjustment; periodic intervals; limitation on increases and on royalties; notice; objections, relinquishment, and termination**
 
-The Secretary may readjust the rentals and royalties of any geothermal lease issued under this chapter at not less than twenty-year intervals beginning thirty-five years after the date geothermal steam is produced, as determined by the Secretary. In the event of any such readjustment neither the rental nor royalty may be increased by more than 50 per centum over the rental or royalty paid during the preceding period. Each geothermal lease issue 1
+The Secretary may readjust the rentals and royalties of any geothermal lease issued under this chapter at not less than twenty-year intervals beginning thirty-five years after the date geothermal steam is produced, as determined by the Secretary. In the event of any such readjustment neither the rental nor royalty may be increased by more than 50 per centum over the rental or royalty paid during the preceding period. Each geothermal lease issue 1
 
-<sup>1</sup>  So in original. Probably should be “issued”.
+<sup>1</sup> So in original. Probably should be “issued”.
 
 under this chapter shall provide for such readjustment. The Secretary shall give notice of any proposed readjustment of rentals and royalties, and, unless the lessee files with the Secretary objection to the proposed rentals and royalties or relinquishes the lease within thirty days after receipt of such notice, the lessee shall conclusively be deemed to have agreed with such terms and conditions. If the lessee files objections, and no agreement can be reached between the Secretary and the lessee within a period of not less than sixty days, the lease may be terminated by either party.
 
@@ -581,21 +581,21 @@ under this chapter shall provide for such readjustment. The Secretary shall give
 
 Any readjustment of the terms and conditions as to use, protection, or restoration of the surface of any lease of lands withdrawn or acquired in aid of a function of a Federal department or agency other than the Department of the Interior may be made only upon notice to, and with the approval of, such department or agency.
 
-(Pub. L. 91–581, § 8, Dec. 24, 1970, 84 Stat. 1569; Pub. L. 109–58, title II, §§ 229, 236(8), Aug. 8, 2005, 119 Stat. 668, 672.)
+(Pub. L. 91–581, § 8, Dec. 24, 1970, 84 Stat. 1569; Pub. L. 109–58, title II, §§ 229, 236(8), Aug. 8, 2005, 119 Stat. 668, 672.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Pub. L. 109–58, § 236(8), inserted section catchline.
+2005—Pub. L. 109–58, § 236(8), inserted section catchline.
 
-Subsec. (b). Pub. L. 109–58, § 229, substituted “period” for “period, and in no event shall the royalty payable exceed 22½ per centum” in second sentence.
+Subsec. (b). Pub. L. 109–58, § 229, substituted “period” for “period, and in no event shall the royalty payable exceed 22½ per centum” in second sentence.
 
-## § 1008. Byproducts
+## § 1008. Byproducts
 
 If the production, use, or conversion of geothermal steam is susceptible of producing a valuable byproduct or byproducts, including commercially demineralized water for beneficial uses in accordance with applicable State water laws, the Secretary shall require substantial beneficial production or use thereof unless, in individual circumstances he modifies or waives this requirement in the interest of conservation of natural resources or for other reasons satisfactory to him. However, the production or use of such byproducts shall be subject to the rights of the holders of preexisting leases, claims, or permits covering the same land or the same minerals, if any.
 
-(Pub. L. 91–581, § 9, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(9), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 9, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(9), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
@@ -603,11 +603,11 @@ If the production, use, or conversion of geothermal steam is susceptible of prod
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1009. Relinquishment of geothermal rights
+## § 1009. Relinquishment of geothermal rights
 
 The holder of any geothermal lease at any time may make and file in the appropriate land office a written relinquishment of all rights under such lease or of any legal subdivision of the area covered by such lease. Such relinquishment shall be effective as of the date of its filing. Thereupon the lessee shall be released of all obligations thereafter accruing under said lease with respect to the lands relinquished, but no such relinquishment shall release such lessee, or his surety or bond, from any liability for breach of any obligation of the lease, other than an obligation to drill, accrued at the date of the relinquishment, or from the continued obligation, in accordance with the applicable lease terms and regulations, (1) to make payment of all accrued rentals and royalties, (2) to place all wells on the relinquished lands in condition for suspension or abandonment, and (3) to protect or restore substantially the surface and surface resources.
 
-(Pub. L. 91–581, § 10, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(10), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 10, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(10), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
@@ -615,11 +615,11 @@ The holder of any geothermal lease at any time may make and file in the appropri
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1010. Suspension of operations and production
+## § 1010. Suspension of operations and production
 
 The Secretary, upon application by the lessee, may authorize the lessee to suspend operations and production on a producing lease and he may, on his own motion, in the interest of conservation suspend operations on any lease but in either case he may extend the lease term for the period of any suspension, and he may waive, suspend, or reduce the rental or royalty required in such lease.
 
-(Pub. L. 91–581, § 11, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(11), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 11, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(11), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
@@ -627,11 +627,11 @@ The Secretary, upon application by the lessee, may authorize the lessee to suspe
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1011. Termination of leases
+## § 1011. Termination of leases
 
 Leases may be terminated by the Secretary for any violation of the regulations or lease terms after thirty days notice provided that such violation is not corrected within the notice period, or in the event the violation is such that it cannot be corrected within the notice period then provided that lessee has not commenced in good faith within said notice period to correct such violation and thereafter to proceed diligently to correct such violation. Lessee shall be entitled to a hearing on the matter of such claimed violation or proposed termination of lease if request for a hearing is made to the Secretary within the thirty-day period after notice. The period for correction of violation or commencement to correct such violation of regulations or of lease terms, as aforesaid, shall be extended to thirty days after the Secretary’s decision after such hearing if the Secretary shall find that a violation exists.
 
-(Pub. L. 91–581, § 12, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(12), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 12, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(12), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
@@ -639,11 +639,11 @@ Leases may be terminated by the Secretary for any violation of the regulations o
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1012. Waiver, suspension, or reduction of rental or royalty
+## § 1012. Waiver, suspension, or reduction of rental or royalty
 
 The Secretary may waive, suspend, or reduce the rental or royalty for any lease or portion thereof in the interests of conservation and to encourage the greatest ultimate recovery of geothermal resources, if he determines that this is necessary to promote development or that the lease cannot be successfully operated under the lease terms.
 
-(Pub. L. 91–581, § 13, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(13), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 13, Dec. 24, 1970, 84 Stat. 1570; Pub. L. 109–58, title II, § 236(13), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
@@ -651,11 +651,11 @@ The Secretary may waive, suspend, or reduce the rental or royalty for any lease 
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1013. Surface land use
+## § 1013. Surface land use
 
 Subject to the other provisions of this chapter, a lessee shall be entitled to use so much of the surface of the land covered by his geothermal lease as may be found by the Secretary to be necessary for the production, utilization, and conservation of geothermal resources.
 
-(Pub. L. 91–581, § 14, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 109–58, title II, § 236(14), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 14, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 109–58, title II, § 236(14), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
@@ -663,7 +663,7 @@ Subject to the other provisions of this chapter, a lessee shall be entitled to u
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1014. Lands subject to geothermal leasing
+## § 1014. Lands subject to geothermal leasing
 
 **(a) Terms and conditions for lands withdrawn or acquired for Department of the Interior**
 
@@ -677,17 +677,17 @@ Geothermal leases for lands withdrawn or acquired in aid of functions of the Dep
 
 Geothermal leases under this chapter shall not be issued for lands administered in accordance with (1) the Act of August 25, 1916 (39 Stat. 535),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as amended or supplemented, (2) for lands within a national recreation area, (3) for lands in a fish hatchery administered by the Secretary, wildlife refuge, wildlife range, game range, wildlife management area, waterfowl production area, or for lands acquired or reserved for the protection and conservation of fish and wildlife that are threatened with extinction, (4) for tribally or individually owned Indian trust or restricted lands, within or without the boundaries of Indian reservations.
 
-(Pub. L. 91–581, § 15, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 95–91, title III, § 301(b), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 578, 606, 607; Pub. L. 109–58, title II, § 236(15), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 15, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 95–91, title III, § 301(b), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 578, 606, 607; Pub. L. 109–58, title II, § 236(15), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (c), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of Title 16, Conservation, and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (c), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of Title 16, Conservation, and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 **Amendments**
 
@@ -699,11 +699,11 @@ The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (c), is act Au
 
 “Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to sections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated the Federal Power Commission and transferred its functions (with certain exceptions) to the Secretary of Energy.
 
-## § 1015. Requirement for lessees
+## § 1015. Requirement for lessees
 
 Leases under this chapter may be issued only to citizens of the United States, associations of such citizens, corporations organized under the laws of the United States or of any State or the District of Columbia, or governmental units, including, without limitation, municipalities.
 
-(Pub. L. 91–581, § 16, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 109–58, title II, § 236(16), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 16, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 109–58, title II, § 236(16), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
@@ -711,11 +711,11 @@ Leases under this chapter may be issued only to citizens of the United States, a
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1016. Administration
+## § 1016. Administration
 
 Administration of this chapter shall be under the principles of multiple use of lands and resources, and geothermal leases shall, insofar as feasible, allow for coexistence of other leases of the same lands for deposits of minerals under the laws applicable to them, for the location and production of claims under the mining laws, and for other uses of the areas covered by them. Operations under such other leases or for such other uses, however, shall not unreasonably interfere with or endanger operations under any lease issued pursuant to this chapter, nor shall operations under leases so issued unreasonably interfere with or endanger operations under any lease, license, claim, or permit issued pursuant to the provisions of any other Act.
 
-(Pub. L. 91–581, § 17, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 109–58, title II, § 236(17), Aug. 8, 2005, 119 Stat. 672.)
+(Pub. L. 91–581, § 17, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 109–58, title II, § 236(17), Aug. 8, 2005, 119 Stat. 672.)
 
 **Editorial Notes**
 
@@ -723,7 +723,7 @@ Administration of this chapter shall be under the principles of multiple use of 
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1017. Unit and communitization agreements
+## § 1017. Unit and communitization agreements
 
 **(a) Adoption of units by lessees**
 
@@ -801,7 +801,7 @@ Each lease operated under an approved drilling or development contract, and inte
 
 The Secretary shall coordinate unitization and pooling activities with appropriate State agencies.
 
-(Pub. L. 91–581, § 18, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 100–443, § 4, Sept. 22, 1988, 102 Stat. 1768; Pub. L. 109–58, title II, § 227, Aug. 8, 2005, 119 Stat. 666.)
+(Pub. L. 91–581, § 18, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 100–443, § 4, Sept. 22, 1988, 102 Stat. 1768; Pub. L. 109–58, title II, § 227, Aug. 8, 2005, 119 Stat. 666.)
 
 **Editorial Notes**
 
@@ -809,13 +809,13 @@ The Secretary shall coordinate unitization and pooling activities with appropria
 
 2005—Pub. L. 109–58 inserted section catchline and amended text generally. Prior to amendment, text related to cooperative or unit plan of development or operation of geothermal pool, field, or like area, public interest, determination and certification, regulations, protection of parties in interest, authority respecting rate of prospecting, development, and production, five year review, and leases excepted from control for purposes of State acreage limitation.
 
-1988—Pub. L. 100–443, § 4, inserted provisions relating to five year review of plans and elimination of leases from plans.
+1988—Pub. L. 100–443, § 4, inserted provisions relating to five year review of plans and elimination of leases from plans.
 
-## § 1018. Data from Federal agencies
+## § 1018. Data from Federal agencies
 
 Upon request of the Secretary, other Federal departments and agencies shall furnish him with any relevant data then in their possession or knowledge concerning or having bearing upon fair and adequate charges to be made for geothermal steam produced or to be produced for conversion to electric power or other purposes. Data given to any department or agency as confidential under law shall not be furnished in any fashion which identifies or tends to identify the business entity whose activities are the subject of such data or the person or persons who furnished such information.
 
-(Pub. L. 91–581, § 19, Dec. 24, 1970, 84 Stat. 1572; Pub. L. 109–58, title II, § 236(18), Aug. 8, 2005, 119 Stat. 673.)
+(Pub. L. 91–581, § 19, Dec. 24, 1970, 84 Stat. 1572; Pub. L. 109–58, title II, § 236(18), Aug. 8, 2005, 119 Stat. 673.)
 
 **Editorial Notes**
 
@@ -823,7 +823,7 @@ Upon request of the Secretary, other Federal departments and agencies shall furn
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1019. Disposal of moneys from sales, bonuses, rentals, and royalties
+## § 1019. Disposal of moneys from sales, bonuses, rentals, and royalties
 
 **(a) In general** Except with respect to lands in the State of Alaska, all monies received by the United States from sales, bonuses, rentals, and royalties under this chapter shall be paid into the Treasury of the United States. Of amounts deposited under this subsection, subject to the provisions of subsection (b) of section 191 of this title and section 1004(a)(2) of this title—
 
@@ -835,7 +835,7 @@ Upon request of the Secretary, other Federal departments and agencies shall furn
 
 Amounts paid to a State or county under subsection (a) shall be used consistent with the terms of section 191 of this title.
 
-(Pub. L. 91–581, § 20, Dec. 24, 1970, 84 Stat. 1572; Pub. L. 100–443, § 5(a), Sept. 22, 1988, 102 Stat. 1768; Pub. L. 103–66, title X, § 10202(b), Aug. 10, 1993, 107 Stat. 408; Pub. L. 109–58, title II, § 224(b), Aug. 8, 2005, 119 Stat. 663.)
+(Pub. L. 91–581, § 20, Dec. 24, 1970, 84 Stat. 1572; Pub. L. 100–443, § 5(a), Sept. 22, 1988, 102 Stat. 1768; Pub. L. 103–66, title X, § 10202(b), Aug. 10, 1993, 107 Stat. 408; Pub. L. 109–58, title II, § 224(b), Aug. 8, 2005, 119 Stat. 663.)
 
 **Editorial Notes**
 
@@ -847,11 +847,11 @@ Amounts paid to a State or county under subsection (a) shall be used consistent 
 
 1988—Pub. L. 100–443 amended section generally. Prior to amendment, section read as follows: “All moneys received under this chapter from public lands under the jurisdiction of the Secretary shall be disposed of in the same manner as moneys received from the sale of public lands. Moneys received under this chapter from other lands shall be disposed of in the same manner as other receipts from such lands.”
 
-## § 1020. Publication in Federal Register; reservation of mineral rights
+## § 1020. Publication in Federal Register; reservation of mineral rights
 
 Geothermal resources in lands the surface of which has passed from Federal ownership but in which the minerals have been reserved to the United States shall not be developed or produced except under geothermal leases made pursuant to this chapter. If the Secretary of the Interior finds that such development is imminent, or that production from a well heretofore drilled on such lands is imminent, he shall so report to the Attorney General, and the Attorney General is authorized and directed to institute an appropriate proceeding in the United States district court of the district in which such lands are located, to quiet the title of the United States in such resources, and if the court determines that the reservation of minerals to the United States in the lands involved included the geothermal resources, to enjoin their production otherwise than under the terms of this chapter: *Provided*, That upon an authoritative judicial determination that Federal mineral reservation does not include geothermal resources the duties of the Secretary of the Interior to report and of the Attorney General to institute proceedings, as hereinbefore set forth, shall cease.
 
-(Pub. L. 91–581, § 21, Dec. 24, 1970, 84 Stat. 1572; Pub. L. 109–58, title II, § 236(1), (3), (19), Aug. 8, 2005, 119 Stat. 671, 673.)
+(Pub. L. 91–581, § 21, Dec. 24, 1970, 84 Stat. 1572; Pub. L. 109–58, title II, § 236(1), (3), (19), Aug. 8, 2005, 119 Stat. 671, 673.)
 
 **Editorial Notes**
 
@@ -859,11 +859,11 @@ Geothermal resources in lands the surface of which has passed from Federal owner
 
 2005—Pub. L. 109–58 inserted section catchline, struck out “(b)” before “Geothermal”, substituted “does not include geothermal resources” for “does not include geothermal steam and associated geothermal resources”, and struck out subsec. (a) which read as follows: “Within one hundred and twenty days after December 24, 1970, the Secretary shall cause to be published in the Federal Register a determination of all lands which were included within any known geothermal resources area on December 24, 1970. He shall likewise publish in the Federal Register from time to time his determination of other known geothermal resources areas specifying in each case the date the lands were included in such area; and”.
 
-## § 1021. Federal exemption from State water laws
+## § 1021. Federal exemption from State water laws
 
 Nothing in this chapter shall constitute an express or implied claim or denial on the part of the Federal Government as to its exemption from State water laws.
 
-(Pub. L. 91–581, § 22, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(20), Aug. 8, 2005, 119 Stat. 673.)
+(Pub. L. 91–581, § 22, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(20), Aug. 8, 2005, 119 Stat. 673.)
 
 **Editorial Notes**
 
@@ -871,13 +871,13 @@ Nothing in this chapter shall constitute an express or implied claim or denial o
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1022. Prevention of waste; exclusivity
+## § 1022. Prevention of waste; exclusivity
 
 **(a)** All leases under this chapter shall be subject to the condition that the lessee will, in conducting his exploration, development, and producing operations, use all reasonable precautions to prevent waste of geothermal resources developed in the lands leased.
 
 **(b)** Rights to develop and utilize geothermal resources underlying lands owned by the United States may be acquired solely in accordance with the provisions of this chapter.
 
-(Pub. L. 91–581, § 23, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(1), (21), Aug. 8, 2005, 119 Stat. 671, 673.)
+(Pub. L. 91–581, § 23, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(1), (21), Aug. 8, 2005, 119 Stat. 671, 673.)
 
 **Editorial Notes**
 
@@ -885,11 +885,11 @@ Nothing in this chapter shall constitute an express or implied claim or denial o
 
 2005—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in subsecs. (a) and (b).
 
-## § 1023. Rules and regulations
+## § 1023. Rules and regulations
 
 The Secretary shall prescribe such rules and regulations as he may deem appropriate to carry out the provisions of this chapter. Such regulations may include, without limitation, provisions for (a) the prevention of waste, (b) development and conservation of geothermal and other natural resources, (c) the protection of the public interest, (d) assignment, segregation, extension of terms, relinquishment of leases, development contracts, unitization, pooling, and drilling agreements, (e) compensatory royalty agreements, suspension of operations or production, and suspension or reduction of rentals or royalties, (f) the filing of surety bonds to assure compliance with the terms of the lease and to protect surface use and resources, (g) use of the surface by a lessee of the lands embraced in his lease, (h) the maintenance by the lessee of an active development program, and (i) protection of water quality and other environmental qualities.
 
-(Pub. L. 91–581, § 24, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(22), Aug. 8, 2005, 119 Stat. 673.)
+(Pub. L. 91–581, § 24, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(22), Aug. 8, 2005, 119 Stat. 673.)
 
 **Editorial Notes**
 
@@ -901,13 +901,13 @@ The Secretary shall prescribe such rules and regulations as he may deem appropri
 
 **Transfer of Functions**
 
-Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
-## § 1024. Inclusion of geothermal leasing under certain other laws
+## § 1024. Inclusion of geothermal leasing under certain other laws
 
 As to any land subject to geothermal leasing under section 1002 of this title, all laws which either (a) provide for the disposal of land by patent or other form of conveyance or by grant or by operation of law subject to a reservation of any mineral or (b) prevent or restrict the disposal of such land because of the mineral character of the land, shall hereafter be deemed to embrace geothermal resources as a substance which either must be reserved or must prevent or restrict the disposal of such land, as the case may be. This section shall not be construed to affect grants, patents, or other forms of conveyances made prior to December 24, 1970.
 
-(Pub. L. 91–581, § 25, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(1), (23), Aug. 8, 2005, 119 Stat. 671, 673.)
+(Pub. L. 91–581, § 25, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(1), (23), Aug. 8, 2005, 119 Stat. 671, 673.)
 
 **Editorial Notes**
 
@@ -915,11 +915,11 @@ As to any land subject to geothermal leasing under section 1002 of this title, a
 
 2005—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in text.
 
-## § 1025. Federal reservation of certain mineral rights
+## § 1025. Federal reservation of certain mineral rights
 
 The United States reserves the ownership of and the right to extract under such rules and regulations as the Secretary may prescribe oil, hydrocarbon gas, and helium from all geothermal resources produced from lands leased under this chapter in accordance with presently applicable laws: *Provided*, That whenever the right to extract oil, hydrocarbon gas, and helium from geothermal resources produced from such lands is exercised pursuant to this section, it shall be exercised so as to cause no substantial interference with the production of geothermal resources from such lands.
 
-(Pub. L. 91–581, § 27, Dec. 24, 1970, 84 Stat. 1574; Pub. L. 109–58, title II, § 236(1), (25), Aug. 8, 2005, 119 Stat. 671, 673.)
+(Pub. L. 91–581, § 27, Dec. 24, 1970, 84 Stat. 1574; Pub. L. 109–58, title II, § 236(1), (25), Aug. 8, 2005, 119 Stat. 671, 673.)
 
 **Editorial Notes**
 
@@ -927,7 +927,7 @@ The United States reserves the ownership of and the right to extract under such 
 
 2005—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” wherever appearing in text.
 
-## § 1026. Significant thermal features
+## § 1026. Significant thermal features
 
 **(a) Units of National Park System**
 
@@ -1009,7 +1009,7 @@ The Secretary of Agriculture shall consider the effects on significant thermal f
 
 Nothing in this chapter shall affect the ban on leasing under this chapter with respect to the Island Park Geothermal Area, as designated by the map in the “Final Environmental Impact Statement of the Island Park Geothermal Area” (January 15, 1980, p. XI), and provided for in Public Law 98–473.
 
-(Pub. L. 91–581, § 28, as added Pub. L. 100–443, § 6, Sept. 22, 1988, 102 Stat. 1769; amended Pub. L. 106–510, § 3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 109–58, title II, § 236(1), (26), Aug. 8, 2005, 119 Stat. 671, 673.)
+(Pub. L. 91–581, § 28, as added Pub. L. 100–443, § 6, Sept. 22, 1988, 102 Stat. 1769; amended Pub. L. 106–510, § 3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 109–58, title II, § 236(1), (26), Aug. 8, 2005, 119 Stat. 671, 673.)
 
 **Editorial Notes**
 
@@ -1019,19 +1019,19 @@ Public Law 98–473, referred to in subsec. (f), is Pub. L. 98–473, Oct. 12, 1
 
 **Amendments**
 
-2005—Pub. L. 109–58, § 236(26), inserted section catchline.
+2005—Pub. L. 109–58, § 236(26), inserted section catchline.
 
-Subsec. (d)(3). Pub. L. 109–58, § 236(1), substituted “geothermal resources” for “geothermal steam and associated geothermal resources”.
+Subsec. (d)(3). Pub. L. 109–58, § 236(1), substituted “geothermal resources” for “geothermal steam and associated geothermal resources”.
 
-2000—Subsec. (a)(1)(N). Pub. L. 106–510, § 3(a)(2), substituted “Hawaiʻi Volcanoes National Park” for “Hawaii Volcanoes National Park”.
+2000—Subsec. (a)(1)(N). Pub. L. 106–510, § 3(a)(2), substituted “Hawaiʻi Volcanoes National Park” for “Hawaii Volcanoes National Park”.
 
-Subsec. (a)(1)(O). Pub. L. 106–510, § 3(b)(2), substituted “Haleakala̅ National Park” for “Haleakala National Park”.
+Subsec. (a)(1)(O). Pub. L. 106–510, § 3(b)(2), substituted “Haleakala̅ National Park” for “Haleakala National Park”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Corwin Springs Known Geothermal Resource Area Study**
 
-Pub. L. 100–443, § 8, Sept. 22, 1988, 102 Stat. 1771, provided that:
+Pub. L. 100–443, § 8, Sept. 22, 1988, 102 Stat. 1771, provided that:
 
 > **“(a)** The United States Geological Survey, in consultation with the National Park Service, shall conduct a study on the impact of present and potential geothermal development in the vicinity of Yellowstone National Park on the thermal features within the park. The area to be studied shall be the lands within the Corwin Springs Known Geothermal Resource Area as designated in the July 22, 1975, Federal Register (Fed. Reg. Vol. 40, No. 141). The study shall be transmitted to Congress no later than December 1, 1990.
 
@@ -1041,11 +1041,11 @@ Pub. L. 100–443, § 8, Sept. 22, 1988, 102 Stat. 1771, provided that:
 
 > **“(d)** If the Secretary determines that geothermal drilling and related activities within the area studied pursuant to subsection (a) of this section may adversely affect the thermal features of Yellowstone National Park, the Secretary shall include in the study required under subsection (a) of this section recommendations regarding the acquisition of the geothermal rights necessary to protect such thermal resources and features.”
 
-## § 1027. Land subject to prohibition on leasing
+## § 1027. Land subject to prohibition on leasing
 
 The Secretary shall not issue any lease under this chapter on those lands subject to the prohibition provided under section 226–3 of this title.
 
-(Pub. L. 91–581, § 29, as added Pub. L. 100–443, § 5(d), Sept. 22, 1988, 102 Stat. 1769; amended Pub. L. 109–58, title II, § 236(27), Aug. 8, 2005, 119 Stat. 673.)
+(Pub. L. 91–581, § 29, as added Pub. L. 100–443, § 5(d), Sept. 22, 1988, 102 Stat. 1769; amended Pub. L. 109–58, title II, § 236(27), Aug. 8, 2005, 119 Stat. 673.)
 
 **Editorial Notes**
 
@@ -1053,7 +1053,7 @@ The Secretary shall not issue any lease under this chapter on those lands subjec
 
 2005—Pub. L. 109–58 inserted section catchline.
 
-## § 1028. Hot dry rock geothermal energy
+## § 1028. Hot dry rock geothermal energy
 
 **(a) Definition of enhanced geothermal systems**
 
@@ -1085,7 +1085,7 @@ The Secretary of the Interior, acting through the United States Geological Surve
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 102–486, title XXV, § 2501, Oct. 24, 1992, 106 Stat. 3101; Pub. L. 116–260, div. Z, title III, § 3002(m), Dec. 27, 2020, 134 Stat. 2496.)
+(Pub. L. 102–486, title XXV, § 2501, Oct. 24, 1992, 106 Stat. 3101; Pub. L. 116–260, div. Z, title III, § 3002(m), Dec. 27, 2020, 134 Stat. 2496.)
 
 **Editorial Notes**
 
@@ -1095,10 +1095,10 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–260, § 3002(m)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+2020—Subsec. (a). Pub. L. 116–260, § 3002(m)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 116–260, § 3002(m)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (d).
+Subsec. (b). Pub. L. 116–260, § 3002(m)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (d).
 
-Subsec. (c). Pub. L. 116–260, § 3002(m)(3), added subsec. (c).
+Subsec. (c). Pub. L. 116–260, § 3002(m)(3), added subsec. (c).
 
-Subsec. (d). Pub. L. 116–260, § 3002(m)(1), (4), redesignated subsec. (b) as (d) and substituted “necessary” for “necesary”.
+Subsec. (d). Pub. L. 116–260, § 3002(m)(1), (4), redesignated subsec. (b) as (d) and substituted “necessary” for “necesary”.

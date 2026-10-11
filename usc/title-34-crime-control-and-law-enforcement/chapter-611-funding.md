@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 611—FUNDING
 
-## § 61101. Bridging Immigration-related Deficits Experienced Nationwide Reimbursement Fund
+## § 61101. Bridging Immigration-related Deficits Experienced Nationwide Reimbursement Fund
 
 **(a) Establishment**
 
@@ -53,4 +53,4 @@ In addition to amounts otherwise available for the purposes described in subsect
 
 The Attorney General may provide grants under this section to State agencies and units of local government for expenditures made by State agencies or units of local government for completed, ongoing, or new activities determined to be eligible for such grant funding that occurred on or after January 20, 2021. Amounts made available under this section shall be distributed to more than 1 State.
 
-(Pub. L. 119–21, title X, § 100055, July 4, 2025, 139 Stat. 392.)
+(Pub. L. 119–21, title X, § 100055, July 4, 2025, 139 Stat. 392.)

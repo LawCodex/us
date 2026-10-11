@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 4C—APPRENTICE LABOR
 
-## § 50. Promotion of labor standards of apprenticeship
+## § 50. Promotion of labor standards of apprenticeship
 
 The Secretary of Labor is authorized and directed to formulate and promote the furtherance of labor standards necessary to safeguard the welfare of apprentices, to extend the application of such standards by encouraging the inclusion thereof in contracts of apprenticeship, to bring together employers and labor for the formulation of programs of apprenticeship, to cooperate with State agencies engaged in the formulation and promotion of standards of apprenticeship, and to cooperate with the Secretary of Education in accordance with section 17 of title 20. For the purposes of this chapter the term “State” shall include the District of Columbia.
 
-(Aug. 16, 1937, ch. 663, § 1, 50 Stat. 664; 1939 Reorg. Plan No. I, §§  201, 204, 206, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, 1425; July 12, 1943, ch. 221, title VII, 57 Stat. 518; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 93–198, title II, §  204(h), Dec. 24, 1973, 87 Stat. 784; Pub. L. 96–88, title III, § 301(a)(1), Oct. 17, 1979, 93 Stat. 677.)
+(Aug. 16, 1937, ch. 663, § 1, 50 Stat. 664; 1939 Reorg. Plan No. I, §§ 201, 204, 206, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, 1425; July 12, 1943, ch. 221, title VII, 57 Stat. 518; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 93–198, title II, § 204(h), Dec. 24, 1973, 87 Stat. 784; Pub. L. 96–88, title III, § 301(a)(1), Oct. 17, 1979, 93 Stat. 677.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 17 of title 20, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 643.
+Section 17 of title 20, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 643.
 
 **Codification**
 
@@ -43,7 +43,7 @@ Amendment by Pub. L. 93–198 effective July 1, 1974, see section 771(b) of Pub.
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–134, § 1, Mar. 26, 2020, 134 Stat. 276, provided that: “This Act [enacting section 50c of this title] may be cited as the ‘Support for Veterans in Effective Apprenticeships Act of 2019’.”
+Pub. L. 116–134, § 1, Mar. 26, 2020, 134 Stat. 276, provided that: “This Act [enacting section 50c of this title] may be cited as the ‘Support for Veterans in Effective Apprenticeships Act of 2019’.”
 
 **Short Title**
 
@@ -67,19 +67,19 @@ Ex. Ord. No. 13801, June 15, 2017, 82 F.R. 28229, which related to expanding app
 
 **Executive Order No. 14119**
 
-Ex. Ord. No. 14119, Mar. 6, 2024, 89 F.R. 17265, relating to scaling and expanding the use of registered apprenticeships in industries and the Federal Government and promoting Labor-Management Forums, was revoked by Ex. Ord. No. 14236, § 2(q), Mar. 14, 2025, 90 F.R. 13038.
+Ex. Ord. No. 14119, Mar. 6, 2024, 89 F.R. 17265, relating to scaling and expanding the use of registered apprenticeships in industries and the Federal Government and promoting Labor-Management Forums, was revoked by Ex. Ord. No. 14236, § 2(q), Mar. 14, 2025, 90 F.R. 13038.
 
-## § 50a. Publication of information; national advisory committees
+## § 50a. Publication of information; national advisory committees
 
 The Secretary of Labor may publish information relating to existing and proposed labor standards of apprenticeship, and may appoint national advisory committees to serve without compensation. Such committees shall include representatives of employers, representatives of labor, educators, and officers of other executive departments, with the consent of the head of any such department.
 
-(Aug. 16, 1937, ch. 663, § 2, 50 Stat. 665.)
+(Aug. 16, 1937, ch. 663, § 2, 50 Stat. 665.)
 
-## § 50b. Appointment of employees
+## § 50b. Appointment of employees
 
 The Secretary of Labor is authorized to appoint such employees as he may from time to time find necessary for the administration of this chapter, with regard to existing laws applicable to the appointment and compensation of employees of the United States.
 
-(Aug. 16, 1937, ch. 663, § 3, 50 Stat. 665; July 12, 1943, ch. 221, title VII, 57 Stat. 518.)
+(Aug. 16, 1937, ch. 663, § 3, 50 Stat. 665; July 12, 1943, ch. 221, title VII, 57 Stat. 518.)
 
 **Editorial Notes**
 
@@ -89,7 +89,7 @@ Proviso authorizing employment of certain persons in the division of apprentice 
 
 Provision formerly in this section relieved National Youth Administration, after August 16, 1937, of responsibility for promotion of labor standards of apprenticeship, and directed transfer of records and papers to Department of Labor.
 
-## § 50c. Improved apprenticeship program coordination between the Department of Labor and the Department of Veterans Affairs
+## § 50c. Improved apprenticeship program coordination between the Department of Labor and the Department of Veterans Affairs
 
 **(a) Definitions** In this Act:
 
@@ -123,7 +123,7 @@ The term “Secretary” means the Secretary of Labor.
 
 **(3)** when the Secretary approves the registered apprenticeship program, provide a copy of the program’s certificate of registration to the State approving agency designated under chapter 36 of title 38 in the State where the program is located.
 
-(Pub. L. 116–134, § 2, Mar. 26, 2020, 134 Stat. 276.)
+(Pub. L. 116–134, § 2, Mar. 26, 2020, 134 Stat. 276.)
 
 **Editorial Notes**
 

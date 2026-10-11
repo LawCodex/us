@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 46—INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE
 
-## § 5301. Congressional statement of findings
+## § 5301. Congressional statement of findings
 
 **(a) Findings respecting historical and special legal relationship, and resultant responsibilities** The Congress, after careful review of the Federal Government’s historical and special legal relationship with, and resulting responsibilities to, American Indian people, finds that—
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 **(3)** parental and community control of the educational process is of crucial importance to the Indian people.
 
-(Pub. L. 93–638, § 2, Jan. 4, 1975, 88 Stat. 2203.)
+(Pub. L. 93–638, § 2, Jan. 4, 1975, 88 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -43,51 +43,51 @@ Section was formerly classified to section 450 of this title prior to editorial 
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. DD, § 1, Dec. 27, 2020, 134 Stat. 3008, provided that: “This division [amending section 5363 of this title and repealing in part and omitting in part section 671 of Title 16, Conservation] may be cited as the ‘Montana Water Rights Protection Act’.”
+Pub. L. 116–260, div. DD, § 1, Dec. 27, 2020, 134 Stat. 3008, provided that: “This division [amending section 5363 of this title and repealing in part and omitting in part section 671 of Title 16, Conservation] may be cited as the ‘Montana Water Rights Protection Act’.”
 
-Pub. L. 116–180, § 1(a), Oct. 21, 2020, 134 Stat. 857, provided that: “This Act [enacting sections 5364 to 5377 of this title, amending sections 5304, 5305, 5321, 5324, 5325, 5329, and 5361 to 5363 of this title, repealing sections 5364 to 5368 of this title, and enacting provisions set out as notes under sections 5305 and 5361 of this title] may be cited as the ‘Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019’ or the ‘PROGRESS for Indian Tribes Act’.”
+Pub. L. 116–180, § 1(a), Oct. 21, 2020, 134 Stat. 857, provided that: “This Act [enacting sections 5364 to 5377 of this title, amending sections 5304, 5305, 5321, 5324, 5325, 5329, and 5361 to 5363 of this title, repealing sections 5364 to 5368 of this title, and enacting provisions set out as notes under sections 5305 and 5361 of this title] may be cited as the ‘Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019’ or the ‘PROGRESS for Indian Tribes Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–404, § 1, Dec. 31, 2018, 132 Stat. 5349, provided that: “This Act [enacting section 5348 of this title] may be cited as the ‘Johnson-O’Malley Supplemental Indian Education Program Modernization Act’.”
+Pub. L. 115–404, § 1, Dec. 31, 2018, 132 Stat. 5349, provided that: “This Act [enacting section 5348 of this title] may be cited as the ‘Johnson-O’Malley Supplemental Indian Education Program Modernization Act’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–568, title VIII, § 801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title [see Tables for classification] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
+Pub. L. 106–568, title VIII, § 801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title [see Tables for classification] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
 
-Pub. L. 106–568, title XIII, § 1301, Dec. 27, 2000, 114 Stat. 2936, provided that: “This title [enacting subchapter VII of this chapter] may be cited as the ‘American Indian Education Foundation Act of 2000’.”
+Pub. L. 106–568, title XIII, § 1301, Dec. 27, 2000, 114 Stat. 2936, provided that: “This title [enacting subchapter VII of this chapter] may be cited as the ‘American Indian Education Foundation Act of 2000’.”
 
-Pub. L. 106–260, § 1, Aug. 18, 2000, 114 Stat. 711, provided that: “This Act [see Tables for classification] may be cited as the ‘Tribal Self-Governance Amendments of 2000’.”
+Pub. L. 106–260, § 1, Aug. 18, 2000, 114 Stat. 711, provided that: “This Act [see Tables for classification] may be cited as the ‘Tribal Self-Governance Amendments of 2000’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–413, § 1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Act [see Tables for classification] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
+Pub. L. 103–413, § 1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Act [see Tables for classification] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
 
-Pub. L. 103–413, title I, § 101, Oct. 25, 1994, 108 Stat. 4250, provided that: “This title [see Tables for classification] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
+Pub. L. 103–413, title I, § 101, Oct. 25, 1994, 108 Stat. 4250, provided that: “This title [see Tables for classification] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
 
-Pub. L. 103–413, title II, § 201, Oct. 25, 1994, 108 Stat. 4270, provided that: “This title [enacting subchapter IV (§ 5361 et seq.) of this chapter and provisions set out as notes under section 5361 of this title] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
+Pub. L. 103–413, title II, § 201, Oct. 25, 1994, 108 Stat. 4270, provided that: “This title [enacting subchapter IV (§ 5361 et seq.) of this chapter and provisions set out as notes under section 5361 of this title] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–644, title II, § 201, Nov. 29, 1990, 104 Stat. 4665, provided that: “This title [see Tables for classification] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1990’.”
+Pub. L. 101–644, title II, § 201, Nov. 29, 1990, 104 Stat. 4665, provided that: “This title [see Tables for classification] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–472, title I, § 101, Oct. 5, 1988, 102 Stat. 2285, provided that: “This Act [see Tables for classification] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1988’.”
+Pub. L. 100–472, title I, § 101, Oct. 5, 1988, 102 Stat. 2285, provided that: “This Act [see Tables for classification] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1988’.”
 
 **Short Title**
 
-Pub. L. 93–638, § 1, Jan. 4, 1975, 88 Stat. 2203, provided: “That this Act [enacting this chapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 3806 of Title 50, War and National Defense] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
+Pub. L. 93–638, § 1, Jan. 4, 1975, 88 Stat. 2203, provided: “That this Act [enacting this chapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 3806 of Title 50, War and National Defense] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
 
-Pub. L. 93–638, title I, § 101, Jan. 4, 1975, 88 Stat. 2206, provided that: “This title [enacting subchapter I (§ 5321 et seq.) of this chapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 3806 of Title 50, War and National Defense] may be cited as the ‘Indian Self-Determination Act’.”
+Pub. L. 93–638, title I, § 101, Jan. 4, 1975, 88 Stat. 2206, provided that: “This title [enacting subchapter I (§ 5321 et seq.) of this chapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 3806 of Title 50, War and National Defense] may be cited as the ‘Indian Self-Determination Act’.”
 
-Pub. L. 93–638, title II, § 201, Jan. 4, 1975, 88 Stat. 2213, provided that: “This title [enacting subchapter III (§ 5351 et seq.) of this chapter, sections 5345 to 5347 of this title, and provisions set out as a note under section 5347 of this title] may be cited as the ‘Indian Education Assistance Act’.”
+Pub. L. 93–638, title II, § 201, Jan. 4, 1975, 88 Stat. 2213, provided that: “This title [enacting subchapter III (§ 5351 et seq.) of this chapter, sections 5345 to 5347 of this title, and provisions set out as a note under section 5347 of this title] may be cited as the ‘Indian Education Assistance Act’.”
 
 Act April 16, 1934, ch. 147, 48 Stat. 596, which enacted sections 5342 to 5348 of this title, is popularly known as the “Johnson-O’Malley Act”.
 
 **Savings Provisions**
 
-Pub. L. 100–472, title II, § 210, Oct. 5, 1988, 102 Stat. 2298, provided that:
+Pub. L. 100–472, title II, § 210, Oct. 5, 1988, 102 Stat. 2298, provided that:
 
 > “Nothing in this Act [see Tables for classification] shall be construed as—
 
@@ -97,11 +97,11 @@ Pub. L. 100–472, title II, § 210, Oct. 5, 1988, 102 Stat. 2298, provided th
 
 **Severability**
 
-Pub. L. 100–472, title II, § 211, Oct. 5, 1988, 102 Stat. 2298, provided that: “If any provision of this Act [see Tables for classification] or the application thereof to any Indian tribe, entity, person or circumstance is held invalid, neither the remainder of this Act, nor the application of any provisions herein to other Indian tribes, entities, persons, or circumstances, shall be affected thereby.”
+Pub. L. 100–472, title II, § 211, Oct. 5, 1988, 102 Stat. 2298, provided that: “If any provision of this Act [see Tables for classification] or the application thereof to any Indian tribe, entity, person or circumstance is held invalid, neither the remainder of this Act, nor the application of any provisions herein to other Indian tribes, entities, persons, or circumstances, shall be affected thereby.”
 
 **Consultation With Alaska Native Corporations**
 
-Pub. L. 108–199, div. H, § 161, Jan. 23, 2004, 118 Stat. 452, as amended by Pub. L. 108–447, div. H, title V, § 518, Dec. 8, 2004, 118 Stat. 3267, provided that: “The Director of the Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 [set out below].”
+Pub. L. 108–199, div. H, § 161, Jan. 23, 2004, 118 Stat. 452, as amended by Pub. L. 108–447, div. H, title V, § 518, Dec. 8, 2004, 118 Stat. 3267, provided that: “The Director of the Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 [set out below].”
 
 **Executive Documents**
 
@@ -333,7 +333,7 @@ Barack Obama.
 
 **Executive Order No. 14112**
 
-Ex. Ord. No. 14112, Dec. 6, 2023, 88 F.R. 86021, which related to reforming Federal funding and support for Tribal Nations to better embrace our trust responsibilities and promote the next era of tribal self-determination, was revoked by Ex. Ord. No. 14236, § 2(p), Mar. 14, 2025, 90 F.R. 13038.
+Ex. Ord. No. 14112, Dec. 6, 2023, 88 F.R. 86021, which related to reforming Federal funding and support for Tribal Nations to better embrace our trust responsibilities and promote the next era of tribal self-determination, was revoked by Ex. Ord. No. 14236, § 2(p), Mar. 14, 2025, 90 F.R. 13038.
 
 **Government-to-Government Relations With Native American Tribal Governments**
 
@@ -519,7 +519,7 @@ Sec. 11. *General Provisions*. (a) Nothing in this memorandum shall be construed
 
 J.R. Biden, Jr.
 
-## § 5302. Congressional declaration of policy
+## § 5302. Congressional declaration of policy
 
 **(a) Recognition of obligation of United States**
 
@@ -533,7 +533,7 @@ The Congress declares its commitment to the maintenance of the Federal Governmen
 
 The Congress declares that a major national goal of the United States is to provide the quantity and quality of educational services and opportunities which will permit Indian children to compete and excel in the life areas of their choice, and to achieve the measure of self-determination essential to their social and economic well-being.
 
-(Pub. L. 93–638, § 3, Jan. 4, 1975, 88 Stat. 2203; Pub. L. 100–472, title I, § 102, Oct. 5, 1988, 102 Stat. 2285.)
+(Pub. L. 93–638, § 3, Jan. 4, 1975, 88 Stat. 2203; Pub. L. 100–472, title I, § 102, Oct. 5, 1988, 102 Stat. 2285.)
 
 **Editorial Notes**
 
@@ -545,11 +545,11 @@ Section was formerly classified to section 450a of this title prior to editorial
 
 1988—Subsec. (b). Pub. L. 100–472 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Congress declares its commitment to the maintenance of the Federal Government’s unique and continuing relationship with and responsibility to the Indian people through the establishment of a meaningful Indian self-determination policy which will permit an orderly transition from Federal domination of programs for and services to Indians to effective and meaningful participation by the Indian people in the planning, conduct, and administration of those programs and services.”
 
-## § 5303. Tribal and Federal advisory committees
+## § 5303. Tribal and Federal advisory committees
 
 Notwithstanding any other provision of law (including any regulation), the Secretary of the Interior and the Secretary of Health and Human Services are authorized to jointly establish and fund advisory committees or other advisory bodies composed of members of Indian tribes or members of Indian tribes and representatives of the Federal Government to ensure tribal participation in the implementation of the Indian Self-Determination and Education Assistance Act (Public Law 93–638) [25 U.S.C. 5301 et seq.].
 
-(Pub. L. 101–644, title II, § 204, as added Pub. L. 103–435, § 22(b), Nov. 2, 1994, 108 Stat. 4575.)
+(Pub. L. 101–644, title II, § 204, as added Pub. L. 103–435, § 22(b), Nov. 2, 1994, 108 Stat. 4575.)
 
 **Editorial Notes**
 
@@ -563,7 +563,7 @@ Section was enacted as part of the Indian Self-Determination and Education Assis
 
 Section was formerly classified to section 450a–1 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5304. Definitions
+## § 5304. Definitions
 
 For purposes of this chapter, the term—
 
@@ -603,7 +603,7 @@ For purposes of this chapter, the term—
 
 **(3)** for the health facility maintenance and improvement program administered by the Secretary of Health and Human Services.
 
-(Pub. L. 93–638, § 4, Jan. 4, 1975, 88 Stat. 2204; Pub. L. 100–472, title I, § 103, Oct. 5, 1988, 102 Stat. 2286; Pub. L. 100–581, title II, § 208, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–301, § 2(a)(1)–(3), May 24, 1990, 104 Stat. 206; Pub. L. 101–644, title II, § 202(1), (2), Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–413, title I, § 102(1), Oct. 25, 1994, 108 Stat. 4250; Pub. L. 116–180, title II, § 201(a), Oct. 21, 2020, 134 Stat. 878.)
+(Pub. L. 93–638, § 4, Jan. 4, 1975, 88 Stat. 2204; Pub. L. 100–472, title I, § 103, Oct. 5, 1988, 102 Stat. 2286; Pub. L. 100–581, title II, § 208, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–301, § 2(a)(1)–(3), May 24, 1990, 104 Stat. 206; Pub. L. 101–644, title II, § 202(1), (2), Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–413, title I, § 102(1), Oct. 25, 1994, 108 Stat. 4250; Pub. L. 116–180, title II, § 201(a), Oct. 21, 2020, 134 Stat. 878.)
 
 **Editorial Notes**
 
@@ -611,9 +611,9 @@ For purposes of this chapter, the term—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
 
-Subchapter I, referred to in subsec. (j), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I, referred to in subsec. (j), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -621,33 +621,33 @@ Section was formerly classified to section 450b of this title prior to editorial
 
 **Amendments**
 
-2020—Subsec. (e). Pub. L. 116–180, § 201(a)(2)(A), substituted “ ‘Indian tribe’ or ‘Indian Tribe’ means” for “ ‘Indian tribe’ means”.
+2020—Subsec. (e). Pub. L. 116–180, § 201(a)(2)(A), substituted “ ‘Indian tribe’ or ‘Indian Tribe’ means” for “ ‘Indian tribe’ means”.
 
-Subsec. (j). Pub. L. 116–180, § 201(a)(1), added subsec. (j) and struck out former subsec. (j) which defined “self-determination contract”.
+Subsec. (j). Pub. L. 116–180, § 201(a)(1), added subsec. (j) and struck out former subsec. (j) which defined “self-determination contract”.
 
-Subsec. (*l*). Pub. L. 116–180, § 201(a)(2)(B), substituted “ ‘Tribal organization’ or ‘tribal organization’ means” for “ ‘tribal organization’ means”.
+Subsec. (*l*). Pub. L. 116–180, § 201(a)(2)(B), substituted “ ‘Tribal organization’ or ‘tribal organization’ means” for “ ‘tribal organization’ means”.
 
-1994—Subsec. (g). Pub. L. 103–413, § 102(1)(A), substituted “indirect cost rate” for “indirect costs rate”.
+1994—Subsec. (g). Pub. L. 103–413, § 102(1)(A), substituted “indirect cost rate” for “indirect costs rate”.
 
-Subsec. (m). Pub. L. 103–413, § 102(1)(B)–(D), added subsec. (m).
+Subsec. (m). Pub. L. 103–413, § 102(1)(B)–(D), added subsec. (m).
 
-1990—Subsec. (e). Pub. L. 101–301, § 2(a)(1), inserted a comma before “which is recognized”.
+1990—Subsec. (e). Pub. L. 101–301, § 2(a)(1), inserted a comma before “which is recognized”.
 
-Subsec. (h). Pub. L. 101–644, § 202(1), struck out “in existence on October 5, 1988,” before “which meets this definition”.
+Subsec. (h). Pub. L. 101–644, § 202(1), struck out “in existence on October 5, 1988,” before “which meets this definition”.
 
-Subsec. (j). Pub. L. 101–644, § 202(2), substituted “contract (or grant or cooperative agreement utilized under section 5308 of this title) entered” for “contract entered” in two places.
+Subsec. (j). Pub. L. 101–644, § 202(2), substituted “contract (or grant or cooperative agreement utilized under section 5308 of this title) entered” for “contract entered” in two places.
 
-Pub. L. 101–301, § 2(a)(2), (3), substituted “under this chapter” for “pursuant to this Act” in two places and struck out “the” before “Secretary”.
+Pub. L. 101–301, § 2(a)(2), (3), substituted “under this chapter” for “pursuant to this Act” in two places and struck out “the” before “Secretary”.
 
 1988—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (*l*) for former subsecs. (a) to (d) and (f) which defined “Indian”, “Indian tribe”, “Tribal organization”, “Secretary”, and “State education agency”.
 
-Subsec. (h). Pub. L. 100–581, § 208(a)(1), substituted “by a tribal organization” for “by tribal organization”.
+Subsec. (h). Pub. L. 100–581, § 208(a)(1), substituted “by a tribal organization” for “by tribal organization”.
 
-Pub. L. 100–581, § 208(a)(2), which directed the amendment of subsec. (h) by substituting “a tribal organization or the tribal organization’s Indian tribe for purposes of section 5321(a) of this title” for “a tribal organization or a tribal governing body” was executed by substituting the new language for “a tribal organization or tribal governing body” to reflect the probable intent of Congress.
+Pub. L. 100–581, § 208(a)(2), which directed the amendment of subsec. (h) by substituting “a tribal organization or the tribal organization’s Indian tribe for purposes of section 5321(a) of this title” for “a tribal organization or a tribal governing body” was executed by substituting the new language for “a tribal organization or tribal governing body” to reflect the probable intent of Congress.
 
-Subsec. (j). Pub. L. 100–581, § 208(b), substituted “the Secretary for the planning” for “Secretary the planning” and “except as provided the last proviso in section 5324(a) of this title, no contract” for “no contract”.
+Subsec. (j). Pub. L. 100–581, § 208(b), substituted “the Secretary for the planning” for “Secretary the planning” and “except as provided the last proviso in section 5324(a) of this title, no contract” for “no contract”.
 
-## § 5305. Reporting and audit requirements for recipients of Federal financial assistance
+## § 5305. Reporting and audit requirements for recipients of Federal financial assistance
 
 **(a) Maintenance of records**
 
@@ -661,9 +661,9 @@ Subsec. (j). Pub. L. 100–581, § 208(b), substituted “the Secretary for th
 
 **(D)** such other information as will facilitate an effective audit.
 
-**(2)** For the purposes of this subsection, such records for a mature contract shall consist of quarterly financial statements for the purpose of accounting for Federal funds, the annual single-agency audit required by chapter 75 of title 31 1
+**(2)** For the purposes of this subsection, such records for a mature contract shall consist of quarterly financial statements for the purpose of accounting for Federal funds, the annual single-agency audit required by chapter 75 of title 31 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 and a brief annual program report.
 
@@ -677,9 +677,9 @@ Each recipient of Federal financial assistance referred to in subsection (a) of 
 
 **(d) Repayment to Treasury by recipient of unexpended or unused funds**
 
-Except as provided in section 13a or 5325(a)(3) 2
+Except as provided in section 13a or 5325(a)(3) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title, funds paid to a financial assistance recipient referred to in subsection (a) of this section and not expended or used for the purposes for which paid shall be repaid to the Treasury of the United States through the respective Secretary.
 
@@ -695,7 +695,7 @@ The Secretary shall report annually in writing to each tribe regarding projected
 
 **(3)** Any disagreement over reporting requirements shall be subject to the declination criteria and procedures set forth in section 5321 of this title.
 
-(Pub. L. 93–638, § 5, formerly § 5 and title I, § 108, Jan. 4, 1975, 88 Stat. 2204, 2212; renumbered and amended Pub. L. 100–472, title I, § 104, title II, § 208, Oct. 5, 1988, 102 Stat. 2287, 2296; Pub. L. 100–581, title II, § 209, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–301, § 2(a)(4), May 24, 1990, 104 Stat. 206; Pub. L. 101–644, title II, § 202(3), Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–413, title I, § 102(2), Oct. 25, 1994, 108 Stat. 4250; Pub. L. 116–180, title II, § 201(b), Oct. 21, 2020, 134 Stat. 879.)
+(Pub. L. 93–638, § 5, formerly § 5 and title I, § 108, Jan. 4, 1975, 88 Stat. 2204, 2212; renumbered and amended Pub. L. 100–472, title I, § 104, title II, § 208, Oct. 5, 1988, 102 Stat. 2287, 2296; Pub. L. 100–581, title II, § 209, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–301, § 2(a)(4), May 24, 1990, 104 Stat. 206; Pub. L. 101–644, title II, § 202(3), Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–413, title I, § 102(2), Oct. 25, 1994, 108 Stat. 4250; Pub. L. 116–180, title II, § 201(b), Oct. 21, 2020, 134 Stat. 879.)
 
 **Editorial Notes**
 
@@ -703,7 +703,7 @@ The Secretary shall report annually in writing to each tribe regarding projected
 
 This chapter, referred to in subsecs. (a)(1) and (f)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Section 5325(a)(3) of this title, referred to in subsec. (d), was repealed and a new subsec. (a)(3) of section 5325 was added by Pub. L. 103–413, title I, § 102(14)(C), Oct. 25, 1994, 108 Stat. 4257. See section 5325(a)(4) of this title.
+Section 5325(a)(3) of this title, referred to in subsec. (d), was repealed and a new subsec. (a)(3) of section 5325 was added by Pub. L. 103–413, title I, § 102(14)(C), Oct. 25, 1994, 108 Stat. 4257. See section 5325(a)(4) of this title.
 
 **Codification**
 
@@ -711,9 +711,9 @@ Section was formerly classified to section 450c of this title prior to editorial
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–180, § 201(b)(1), substituted “after the retention period for the report that is submitted to the Secretary under subsection (a)” for “after completion of the project or undertaking referred to in the preceding subsection of this section” and inserted at end “The retention period shall be defined in regulations promulgated by the Secretary pursuant to section 5373 of this title.”
+2020—Subsec. (b). Pub. L. 116–180, § 201(b)(1), substituted “after the retention period for the report that is submitted to the Secretary under subsection (a)” for “after completion of the project or undertaking referred to in the preceding subsection of this section” and inserted at end “The retention period shall be defined in regulations promulgated by the Secretary pursuant to section 5373 of this title.”
 
-Subsec. (f)(1). Pub. L. 116–180, § 201(b)(2), inserted “if the Indian Tribal organization expends $500,000 or more in Federal awards during such fiscal year” after “under this chapter,”.
+Subsec. (f)(1). Pub. L. 116–180, § 201(b)(2), inserted “if the Indian Tribal organization expends $500,000 or more in Federal awards during such fiscal year” after “under this chapter,”.
 
 1994—Subsec. (f). Pub. L. 103–413 added subsec. (f) and struck out former subsec. (f) which read as follows: “For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract or grant under this chapter, the Indian tribe which requested such contract or grant shall submit to the appropriate Secretary a report including, but not limited to, an accounting of the amounts and purposes for which Federal funds were expended, information on the conduct of the program or service involved, and such other information as the appropriate Secretary may request through regulations promulgated under sections 552 and 553 of title 5.”
 
@@ -721,25 +721,25 @@ Subsec. (f)(1). Pub. L. 116–180, § 201(b)(2), inserted “if the Indian Tri
 
 Subsec. (d). Pub. L. 101–644 substituted “Except as provided in section 13a or 5325(a)(3) of this title,” for “Any” and inserted “through the respective Secretary” before period at end.
 
-1988—Subsec. (a). Pub. L. 100–472, § 104(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each recipient of Federal financial assistance from the Secretary of Interior or the Secretary of Health, Education, and Welfare, under this chapter, shall keep such records as the appropriate Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.”
+1988—Subsec. (a). Pub. L. 100–472, § 104(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each recipient of Federal financial assistance from the Secretary of Interior or the Secretary of Health, Education, and Welfare, under this chapter, shall keep such records as the appropriate Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.”
 
 Subsec. (e). Pub. L. 100–581 substituted “to each tribe” for “to tribes”.
 
-Pub. L. 100–472, § 104(b), added subsec. (e).
+Pub. L. 100–472, § 104(b), added subsec. (e).
 
-Subsec. (f). Pub. L. 100–472, § 208, redesignated former section 450*l* of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
+Subsec. (f). Pub. L. 100–472, § 208, redesignated former section 450*l* of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–180, title II, § 201(c), Oct. 21, 2020, 134 Stat. 879, provided that: “The amendment made by subsection (b)(2) [amending this section] shall not take effect until 14 months after the date of enactment of this Act [Oct. 21, 2020].”
+Pub. L. 116–180, title II, § 201(c), Oct. 21, 2020, 134 Stat. 879, provided that: “The amendment made by subsection (b)(2) [amending this section] shall not take effect until 14 months after the date of enactment of this Act [Oct. 21, 2020].”
 
-## § 5306. Criminal activities involving grants, contracts, etc.; penalties
+## § 5306. Criminal activities involving grants, contracts, etc.; penalties
 
 Whoever, being an officer, director, agent, or employee of, or connected in any capacity with, any recipient of a contract, subcontract, grant, or subgrant pursuant to this chapter or the Act of April 16, 1934 (48 Stat. 596), as amended [25 U.S.C. 5342 et seq.], embezzles, willfully misapplies, steals, or obtains by fraud any of the money, funds, assets, or property which are the subject of such a grant, subgrant, contract, or subcontract, shall be fined not more than $10,000 or imprisoned for not more than two years, or both, but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $100, he shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-(Pub. L. 93–638, § 6, Jan. 4, 1975, 88 Stat. 2205.)
+(Pub. L. 93–638, § 6, Jan. 4, 1975, 88 Stat. 2205.)
 
 **Editorial Notes**
 
@@ -753,13 +753,13 @@ Act of April 16, 1934, referred to in text, is act Apr. 16, 1934, ch. 147, 48 St
 
 Section was formerly classified to section 450d of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5307. Wage and labor standards
+## § 5307. Wage and labor standards
 
 **(a) Similar construction in locality**
 
-All laborers and mechanics employed by contractors or subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of buildings or other facilities in connection with contracts or grants entered into pursuant to this chapter, shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. With respect to construction, alteration, or repair work to which the Act of March 3, 1921 1
+All laborers and mechanics employed by contractors or subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of buildings or other facilities in connection with contracts or grants entered into pursuant to this chapter, shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. With respect to construction, alteration, or repair work to which the Act of March 3, 1921 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 is applicable under the terms of this section, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14, of 1950, and section 3145 of title 40.
 
@@ -773,7 +773,7 @@ is applicable under the terms of this section, the Secretary of Labor shall have
 
 Notwithstanding subsections (a) and (b) of this section, with respect to any self-determination contract, or portion of a self-determination contract, that is intended to benefit one tribe, the tribal employment or contract preference laws adopted by such tribe shall govern with respect to the administration of the contract or portion of the contract.
 
-(Pub. L. 93–638, § 7, Jan. 4, 1975, 88 Stat. 2205; Pub. L. 103–413, title I, § 102(3), (4), Oct. 25, 1994, 108 Stat. 4251.)
+(Pub. L. 93–638, § 7, Jan. 4, 1975, 88 Stat. 2205; Pub. L. 103–413, title I, § 102(3), (4), Oct. 25, 1994, 108 Stat. 4251.)
 
 **Editorial Notes**
 
@@ -781,7 +781,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any sel
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Act of March 3, 1921, referred to in subsec. (a), probably means the act of March 3, 1931, ch. 411, 46 Stat. 1494, known as the Davis Bacon Act, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Act of March 3, 1921, referred to in subsec. (a), probably means the act of March 3, 1931, ch. 411, 46 Stat. 1494, known as the Davis Bacon Act, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -791,23 +791,23 @@ Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147
 
 Section was formerly classified to section 450e of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494), as amended” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948, 40 U.S.C. 276c)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494), as amended” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948, 40 U.S.C. 276c)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–413, § 102(3), substituted “or subcontractors (excluding tribes and tribal organizations)” for “of subcontractors”.
+1994—Subsec. (a). Pub. L. 103–413, § 102(3), substituted “or subcontractors (excluding tribes and tribal organizations)” for “of subcontractors”.
 
-Subsec. (c). Pub. L. 103–413, § 102(4), added subsec. (c).
+Subsec. (c). Pub. L. 103–413, § 102(4), added subsec. (c).
 
-## § 5308. Grant and cooperative agreements
+## § 5308. Grant and cooperative agreements
 
-The provisions of this chapter shall not be subject to the requirements of chapter 63 of title 31: *Provided*, That a grant agreement or a cooperative agreement may be utilized in lieu of a contract under section 5321 1
+The provisions of this chapter shall not be subject to the requirements of chapter 63 of title 31: *Provided*, That a grant agreement or a cooperative agreement may be utilized in lieu of a contract under section 5321 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 of this title when mutually agreed to by the appropriate Secretary and the tribal organization involved.
 
-(Pub. L. 93–638, § 9, as added Pub. L. 98–250, § 1, Apr. 3, 1984, 98 Stat. 118; amended Pub. L. 101–301, § 2(a)(5), May 24, 1990, 104 Stat. 206.)
+(Pub. L. 93–638, § 9, as added Pub. L. 98–250, § 1, Apr. 3, 1984, 98 Stat. 118; amended Pub. L. 101–301, § 2(a)(5), May 24, 1990, 104 Stat. 206.)
 
 **Editorial Notes**
 
@@ -817,7 +817,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Codification**
 
-Section 5321 of this title, referred to in text, was in the original “sections 102 and 103 of this Act”, and was translated as meaning section 102 of Pub. L. 93–638 because section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed and the remainder of section 103 of Pub. L. 93–638 was redesignated as section 102(d) by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289.
+Section 5321 of this title, referred to in text, was in the original “sections 102 and 103 of this Act”, and was translated as meaning section 102 of Pub. L. 93–638 because section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed and the remainder of section 103 of Pub. L. 93–638 was redesignated as section 102(d) by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289.
 
 Section was formerly classified to section 450e–1 of this title prior to editorial reclassification and renumbering as this section.
 
@@ -825,11 +825,11 @@ Section was formerly classified to section 450e–1 of this title prior to edito
 
 1990—Pub. L. 101–301 substituted “chapter 63 of title 31” for “the Federal Grant and Cooperative Agreement Act of 1977 (Pub. L. 95–224; 92 Stat. 3)”.
 
-## § 5309. Use of excess funds
+## § 5309. Use of excess funds
 
 Beginning in fiscal year 1998 and thereafter, where the actual costs of construction projects under self-determination contracts, compacts, or grants, pursuant to Public Laws 93–638, 103–413, or 100–297, are less than the estimated costs thereof, use of the resulting excess funds shall be determined by the appropriate Secretary after consultation with the tribes.
 
-(Pub. L. 105–83, title III, § 310, Nov. 14, 1997, 111 Stat. 1590.)
+(Pub. L. 105–83, title III, § 310, Nov. 14, 1997, 111 Stat. 1590.)
 
 **Editorial Notes**
 
@@ -837,7 +837,7 @@ Beginning in fiscal year 1998 and thereafter, where the actual costs of construc
 
 Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Public Law 103–413, referred to in text, is Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, known as the Indian Self-Determination Act Amendments of 1994, which is classified principally to subchapter IV (§ 5361 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 5301 of this title and Tables.
+Public Law 103–413, referred to in text, is Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, known as the Indian Self-Determination Act Amendments of 1994, which is classified principally to subchapter IV (§ 5361 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 5301 of this title and Tables.
 
 Public Law 100–297, referred to in text, is Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130, known as the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 6301 of Title 20, Education, and Tables.
 
@@ -851,15 +851,15 @@ Section was formerly classified to section 450e–2 of this title prior to edito
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title III, § 310], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221.
+Pub. L. 104–208, div. A, title I, § 101(d) [title III, § 310], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221.
 
-Pub. L. 104–134, title I, § 101(c) [title III, § 310], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title III, § 310], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-## § 5310. Investment of advance payments; restrictions
+## § 5310. Investment of advance payments; restrictions
 
-Advance payments made by the Department of the Interior to Indian tribes, tribal organizations, and tribal consortia pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+Advance payments made by the Department of the Interior to Indian tribes, tribal organizations, and tribal consortia pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.) may on and after December 8, 2004, be invested by the Indian tribe, tribal organization, or consortium before such funds are expended for the purposes of the grant, compact, or annual funding agreement so long as such funds are—
 
@@ -867,15 +867,15 @@ or the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.) may on a
 
 **(2)** deposited only into accounts that are insured by an agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
 
-(Pub. L. 108–447, div. E, title I, § 111, Dec. 8, 2004, 118 Stat. 3064.)
+(Pub. L. 108–447, div. E, title I, § 111, Dec. 8, 2004, 118 Stat. 3064.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in text, is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in text, is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 **Codification**
 
@@ -887,23 +887,23 @@ Section was formerly classified to section 450e–3 of this title prior to edito
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–108, title I, § 111, Nov. 10, 2003, 117 Stat. 1266.
+Pub. L. 108–108, title I, § 111, Nov. 10, 2003, 117 Stat. 1266.
 
-Pub. L. 108–7, div. F, title I, § 111, Feb. 20, 2003, 117 Stat. 239.
+Pub. L. 108–7, div. F, title I, § 111, Feb. 20, 2003, 117 Stat. 239.
 
-Pub. L. 107–63, title I, § 111, Nov. 5, 2001, 115 Stat. 438.
+Pub. L. 107–63, title I, § 111, Nov. 5, 2001, 115 Stat. 438.
 
-Pub. L. 106–291, title I, § 111, Oct. 11, 2000, 114 Stat. 942.
+Pub. L. 106–291, title I, § 111, Oct. 11, 2000, 114 Stat. 942.
 
-Pub. L. 106–113, div. B, § 1000(a)(3), [title I, § 111], Nov. 29, 1999, 113 Stat. 1535, 1501A–156.
+Pub. L. 106–113, div. B, § 1000(a)(3), [title I, § 111], Nov. 29, 1999, 113 Stat. 1535, 1501A–156.
 
-Pub. L. 105–277, div. A, § 101(e), [title I, § 111], Oct. 21, 1998, 112 Stat. 2681–231, 2681–254.
+Pub. L. 105–277, div. A, § 101(e), [title I, § 111], Oct. 21, 1998, 112 Stat. 2681–231, 2681–254.
 
-Pub. L. 105–83, title I, § 112, Nov. 14, 1997, 111 Stat. 1562.
+Pub. L. 105–83, title I, § 112, Nov. 14, 1997, 111 Stat. 1562.
 
 ## SUBCHAPTER I—INDIAN SELF-DETERMINATION
 
-### § 5321. Self-determination contracts
+### § 5321. Self-determination contracts
 
 **(a) Request by tribe; authorized programs**
 
@@ -935,7 +935,7 @@ The programs, functions, services, or activities that are contracted under this 
 
 Notwithstanding any other provision of law, the Secretary may extend or otherwise alter the 90-day period specified in the second sentence of this subsection,1
 
-<sup>1</sup>  So in original. Probably should be “paragraph,”.
+<sup>1</sup> So in original. Probably should be “paragraph,”.
 
 if before the expiration of such period, the Secretary obtains the voluntary and express written consent of the tribe or tribal organization to extend or otherwise alter such period. The contractor shall include in the proposal of the contractor the standards under which the tribal organization will operate the contracted program, service, function, or activity, including in the area of construction, provisions regarding the use of licensed and qualified architects, applicable health and safety standards, adherence to applicable Federal, State, local, or tribal building codes and engineering standards. The standards referred to in the preceding sentence shall ensure structural integrity, accountability of funds, adequate competition for subcontracting under tribal or other applicable law, the commencement, performance, and completion of the contract, adherence to project plans and specifications (including any applicable Federal construction guidelines and manuals), the use of proper materials and workmanship, necessary inspection and testing, and changes, modifications, stop work, and termination of the work when warranted.
 
@@ -971,9 +971,9 @@ subject to any alteration in the scope of the proposal that the Secretary and th
 
 **(d) Tribal organizations and Indian contractors deemed part of Public Health Service**
 
-For purposes of section 233 of title 42, with respect to claims by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations for personal injury, including death, resulting from the performance prior to, including, or after December 22, 1987, of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigations, or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle, an Indian tribe, a tribal organization or Indian contractor carrying out a contract, grant agreement, or cooperative agreement under sections 2
+For purposes of section 233 of title 42, with respect to claims by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations for personal injury, including death, resulting from the performance prior to, including, or after December 22, 1987, of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigations, or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle, an Indian tribe, a tribal organization or Indian contractor carrying out a contract, grant agreement, or cooperative agreement under sections 2
 
-<sup>2</sup>  So in original. Probably should be “section”.
+<sup>2</sup> So in original. Probably should be “section”.
 
 5321 or 5322 of this title is deemed to be part of the Public Health Service in the Department of Health and Human Services while carrying out any such contract or agreement and its employees (including those acting on behalf of the organization or contractor as provided in section 2671 of title 28 and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service) are deemed employees of the Service while acting within the scope of their employment in carrying out the contract or agreement: *Provided*, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor.
 
@@ -1001,7 +1001,7 @@ For purposes of section 233 of title 42, with respect to claims by any person, i
 
 Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this chapter and each provision of a contract or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-determination, and any ambiguity shall be resolved in favor of the Indian Tribe.
 
-(Pub. L. 93–638, title I, § 102, formerly §§ 102 and 103(c), Jan. 4, 1975, 88 Stat. 2206; Pub. L. 100–202, § 101(g) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–213, 1329–246; Pub. L. 100–446, title II, § 201, Sept. 27, 1988, 102 Stat. 1817; renumbered § 102 and amended Pub. L. 100–472, title II, § 201(a), (b)(1), Oct. 5, 1988, 102 Stat. 2288, 2289; Pub. L. 100–581, title II, § 210, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–644, title II, § 203(b), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, § 102(5)–(9), Oct. 25, 1994, 108 Stat. 4251–4253; Pub. L. 106–260, § 6, Aug. 18, 2000, 114 Stat. 732; Pub. L. 116–180, title II, § 202, Oct. 21, 2020, 134 Stat. 879.)
+(Pub. L. 93–638, title I, § 102, formerly §§ 102 and 103(c), Jan. 4, 1975, 88 Stat. 2206; Pub. L. 100–202, § 101(g) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–213, 1329–246; Pub. L. 100–446, title II, § 201, Sept. 27, 1988, 102 Stat. 1817; renumbered § 102 and amended Pub. L. 100–472, title II, § 201(a), (b)(1), Oct. 5, 1988, 102 Stat. 2288, 2289; Pub. L. 100–581, title II, § 210, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–644, title II, § 203(b), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, § 102(5)–(9), Oct. 25, 1994, 108 Stat. 4251–4253; Pub. L. 106–260, § 6, Aug. 18, 2000, 114 Stat. 732; Pub. L. 116–180, title II, § 202, Oct. 21, 2020, 134 Stat. 879.)
 
 **Editorial Notes**
 
@@ -1009,11 +1009,11 @@ Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision 
 
 Act of April 16, 1934, referred to in subsec. (a)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsecs. (c)(1), (f)(2), and (g), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (c)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (c)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 The PROGRESS for Indian Tribes Act, referred to in subsec. (f)(2)(B), is Pub. L. 116–180, Oct. 21, 2020, 134 Stat. 857, also known as the Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 5301 of this title and Tables.
 
@@ -1023,39 +1023,39 @@ Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (g)
 
 Except as provided below, section was formerly classified to section 450f of this title prior to editorial reclassification and renumbering as this section.
 
-Subsec. (d) of this section was formerly classified to the last sentence of subsec. (c) of former section 450g of this title prior to redesignation as subsec. (d) of former section 450f of this title by Pub. L. 100–472, § 201(b)(1), and editorial reclassification and renumbering of former section 450f of this title as this section. See 1988 Amendment note below.
+Subsec. (d) of this section was formerly classified to the last sentence of subsec. (c) of former section 450g of this title prior to redesignation as subsec. (d) of former section 450f of this title by Pub. L. 100–472, § 201(b)(1), and editorial reclassification and renumbering of former section 450f of this title as this section. See 1988 Amendment note below.
 
 **Amendments**
 
-2020—Subsec. (c)(2). Pub. L. 116–180, § 202(1), substituted “economic enterprises (as defined in section 1452 of this title), except that” for “economic enterprises as defined in section 1452 of this title, except that”.
+2020—Subsec. (c)(2). Pub. L. 116–180, § 202(1), substituted “economic enterprises (as defined in section 1452 of this title), except that” for “economic enterprises as defined in section 1452 of this title, except that”.
 
-Subsecs. (f), (g). Pub. L. 116–180, § 202(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 116–180, § 202(2), added subsecs. (f) and (g).
 
 2000—Subsec. (e)(1). Pub. L. 106–260 inserted “or any civil action conducted pursuant to section 5331(a) of this title” after “subsection (b)(3) of this section”.
 
-1994—Subsec. (a)(1). Pub. L. 103–413, § 102(5), inserted concluding provisions.
+1994—Subsec. (a)(1). Pub. L. 103–413, § 102(5), inserted concluding provisions.
 
-Subsec. (a)(2). Pub. L. 103–413, § 102(6)(A)(i), (ii), (vi), inserted “, or a proposal to amend or renew a self-determination contract,” before “to the Secretary for review” in first sentence and, in second sentence, substituted “Subject to the provisions of paragraph (4), the Secretary” for “The Secretary”, inserted “and award the contract” after “approve the proposal”, substituted “the Secretary provides written notification to the applicant that contains a specific finding that clearly demonstrates that, or that is supported by a controlling legal authority that” for “, within sixty days of receipt of the proposal, a specific finding is made that”, and inserted concluding provisions.
+Subsec. (a)(2). Pub. L. 103–413, § 102(6)(A)(i), (ii), (vi), inserted “, or a proposal to amend or renew a self-determination contract,” before “to the Secretary for review” in first sentence and, in second sentence, substituted “Subject to the provisions of paragraph (4), the Secretary” for “The Secretary”, inserted “and award the contract” after “approve the proposal”, substituted “the Secretary provides written notification to the applicant that contains a specific finding that clearly demonstrates that, or that is supported by a controlling legal authority that” for “, within sixty days of receipt of the proposal, a specific finding is made that”, and inserted concluding provisions.
 
-Subsec. (a)(2)(D), (E). Pub. L. 103–413, § 102(6)(A)(iii)–(v), added subpars. (D) and (E).
+Subsec. (a)(2)(D), (E). Pub. L. 103–413, § 102(6)(A)(iii)–(v), added subpars. (D) and (E).
 
-Subsec. (a)(4). Pub. L. 103–413, § 102(6)(B), added par. (4).
+Subsec. (a)(4). Pub. L. 103–413, § 102(6)(B), added par. (4).
 
-Subsec. (b)(3). Pub. L. 103–413, § 102(7), inserted “with the right to engage in full discovery relevant to any issue raised in the matter” after “record” and “, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise the option to initiate an action in a Federal district court and proceed directly to such court pursuant to section 5331(a) of this title” before period at end.
+Subsec. (b)(3). Pub. L. 103–413, § 102(7), inserted “with the right to engage in full discovery relevant to any issue raised in the matter” after “record” and “, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise the option to initiate an action in a Federal district court and proceed directly to such court pursuant to section 5331(a) of this title” before period at end.
 
-Subsec. (d). Pub. L. 103–413, § 102(8), substituted “as provided in section 2671 of title 28 and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service)” for “as provided in section 2671 of title 28)”.
+Subsec. (d). Pub. L. 103–413, § 102(8), substituted “as provided in section 2671 of title 28 and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service)” for “as provided in section 2671 of title 28)”.
 
-Subsec. (e). Pub. L. 103–413, § 102(9), added subsec. (e).
+Subsec. (e). Pub. L. 103–413, § 102(9), added subsec. (e).
 
 1990—Subsec. (d). Pub. L. 101–644 inserted “or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle,” after “investigations,”.
 
-1988—Pub. L. 100–472, § 201(a), amended section generally, revising and restating provisions of subsecs. (a) to (c).
+1988—Pub. L. 100–472, § 201(a), amended section generally, revising and restating provisions of subsecs. (a) to (c).
 
 Subsec. (c)(2). Pub. L. 100–581 which directed amendment of par. (2) by substituting “section 1452 of this title” for “section 1425 of title 25, United States Code” was executed by making the substitution for “section 1425, title 25, United States Code” to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 100–472, § 201(b)(1), redesignated the last sentence of subsec. (c) of former section 450g of this title as subsec. (d) of this section and substituted reference to sections 5321 or 5322 of this title for reference to former sections 450g and 450h(b) of this title. See Codification notes above and set out under section 5322 of this title.
+Subsec. (d). Pub. L. 100–472, § 201(b)(1), redesignated the last sentence of subsec. (c) of former section 450g of this title as subsec. (d) of this section and substituted reference to sections 5321 or 5322 of this title for reference to former sections 450g and 450h(b) of this title. See Codification notes above and set out under section 5322 of this title.
 
-Pub. L. 100–446 inserted into sentence beginning “For purposes of” the words “by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations” after “claims”, “prior to, including, or after December 22, 1987,” after “performance”, “an Indian tribe,” after “investigations,” and “: *Provided*, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor” after “the contract or agreement”.
+Pub. L. 100–446 inserted into sentence beginning “For purposes of” the words “by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations” after “claims”, “prior to, including, or after December 22, 1987,” after “performance”, “an Indian tribe,” after “investigations,” and “: *Provided*, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor” after “the contract or agreement”.
 
 1987—Subsec. (d). Pub. L. 100–202 inserted sentence at end deeming a tribal organization or Indian contractor carrying out a contract, grant agreement, or cooperative agreement to be part of the Public Health Service while carrying out any such contract or agreement and its employees to be employees of the Service while acting within the scope of their employment in carrying out the contract or agreement.
 
@@ -1067,11 +1067,11 @@ For short title of this subchapter as the “Indian Self-Determination Act”, s
 
 **Savings Provision**
 
-Pub. L. 106–260, § 11, Aug. 18, 2000, 114 Stat. 734, provided that: “Funds appropriated for title III of the Indian Self-Determination and Education Assistance Act ([Pub. L. 93–638, former] 25 U.S.C. 450f note) shall be available for use under title V of such Act [25 U.S.C. 5381 et seq.].”
+Pub. L. 106–260, § 11, Aug. 18, 2000, 114 Stat. 734, provided that: “Funds appropriated for title III of the Indian Self-Determination and Education Assistance Act ([Pub. L. 93–638, former] 25 U.S.C. 450f note) shall be available for use under title V of such Act [25 U.S.C. 5381 et seq.].”
 
 **Indian Tribal Tort Claims and Risk Management**
 
-Pub. L. 105–277, div. A, § 101(e) [title VII], Oct. 21, 1998, 112 Stat. 2681–231, 2681–335, provided that:
+Pub. L. 105–277, div. A, § 101(e) [title VII], Oct. 21, 1998, 112 Stat. 2681–231, 2681–335, provided that:
 
 > **“SEC. 701. SHORT TITLE.**
 
@@ -1143,15 +1143,15 @@ Pub. L. 105–277, div. A, § 101(e) [title VII], Oct. 21, 1998, 112 Stat. 268
 
 **Claims Resulting From Performance of Contract, Grant Agreement, or Cooperative Agreement; Civil Action Against Tribe, Tribal Organization, Etc., Deemed Action Against United States; Reimbursement of Treasury for Payment of Claims**
 
-Pub. L. 101–512, title III, § 314, Nov. 5, 1990, 104 Stat. 1959, as amended by Pub. L. 103–138, title III, § 308, Nov. 11, 1993, 107 Stat. 1416, provided that: “With respect to claims resulting from the performance of functions during fiscal year 1991 and thereafter, or claims asserted after September 30, 1990, but resulting from the performance of functions prior to fiscal year 1991, under a contract, grant agreement, or any other agreement or compact authorized by the Indian Self-Determination and Education Assistance Act of 1975, as amended (88 Stat. 2203; 25 U.S.C. 450 et seq. [now 25 U.S.C. 5301 et seq.]) [Pub. L. 93–638, see Short Title note set out under section 5301 of this title and Tables] or by title V, part B, Tribally Controlled School Grants of the Hawkins-Stafford Elementary and Secondary School Improvement Amendments of 1988, as amended (102 Stat. 385; 25 U.S.C. 2501 et seq.), an Indian tribe, tribal organization or Indian contractor is deemed hereafter to be part of the Bureau of Indian Affairs in the Department of the Interior or the Indian Health Service in the Department of Health and Human Services while carrying out any such contract or agreement and its employees are deemed employees of the Bureau or Service while acting within the scope of their employment in carrying out the contract or agreement: *Provided*, That after September 30, 1990, any civil action or proceeding involving such claims brought hereafter against any tribe, tribal organization, Indian contractor or tribal employee covered by this provision shall be deemed to be an action against the United States and will be defended by the Attorney General and be afforded the full protection and coverage of the Federal Tort Claims Act [See Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure]: *Provided further*, That beginning with the fiscal year ending September 30, 1991, and thereafter, the appropriate Secretary shall request through annual appropriations funds sufficient to reimburse the Treasury for any claims paid in the prior fiscal year pursuant to the foregoing provisions: *Provided further*, That nothing in this section shall in any way affect the provisions of section 102(d) of the Indian Self-Determination and Education Assistance Act of 1975, as amended (88 Stat. 2203; 25 U.S.C. 450 et seq. [now 25 U.S.C. 5301 et seq.]) [25 U.S.C. 5321(d)].”
+Pub. L. 101–512, title III, § 314, Nov. 5, 1990, 104 Stat. 1959, as amended by Pub. L. 103–138, title III, § 308, Nov. 11, 1993, 107 Stat. 1416, provided that: “With respect to claims resulting from the performance of functions during fiscal year 1991 and thereafter, or claims asserted after September 30, 1990, but resulting from the performance of functions prior to fiscal year 1991, under a contract, grant agreement, or any other agreement or compact authorized by the Indian Self-Determination and Education Assistance Act of 1975, as amended (88 Stat. 2203; 25 U.S.C. 450 et seq. [now 25 U.S.C. 5301 et seq.]) [Pub. L. 93–638, see Short Title note set out under section 5301 of this title and Tables] or by title V, part B, Tribally Controlled School Grants of the Hawkins-Stafford Elementary and Secondary School Improvement Amendments of 1988, as amended (102 Stat. 385; 25 U.S.C. 2501 et seq.), an Indian tribe, tribal organization or Indian contractor is deemed hereafter to be part of the Bureau of Indian Affairs in the Department of the Interior or the Indian Health Service in the Department of Health and Human Services while carrying out any such contract or agreement and its employees are deemed employees of the Bureau or Service while acting within the scope of their employment in carrying out the contract or agreement: *Provided*, That after September 30, 1990, any civil action or proceeding involving such claims brought hereafter against any tribe, tribal organization, Indian contractor or tribal employee covered by this provision shall be deemed to be an action against the United States and will be defended by the Attorney General and be afforded the full protection and coverage of the Federal Tort Claims Act [See Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure]: *Provided further*, That beginning with the fiscal year ending September 30, 1991, and thereafter, the appropriate Secretary shall request through annual appropriations funds sufficient to reimburse the Treasury for any claims paid in the prior fiscal year pursuant to the foregoing provisions: *Provided further*, That nothing in this section shall in any way affect the provisions of section 102(d) of the Indian Self-Determination and Education Assistance Act of 1975, as amended (88 Stat. 2203; 25 U.S.C. 450 et seq. [now 25 U.S.C. 5301 et seq.]) [25 U.S.C. 5321(d)].”
 
 **Reference to Former Section 450g(c) in Public Law 100–446**
 
-Pub. L. 100–472, title II, § 201(b)(2), Oct. 5, 1988, 102 Stat. 2289, provided that: “Any reference to section 103(c) [§ 103(c) of Pub. L. 93–638, former 25 U.S.C. 450g(c)] contained in an Act making appropriations for the Department of the Interior and Related Agencies for fiscal year 1989 [Pub. L. 100–446, see Tables for classification] shall be deemed to apply to section 102(d) of such Act [§ 102(d) of Pub. L. 93–638, former 25 U.S.C. 450f(d), now 25 U.S.C. 5321(d)] as amended by this Act.”
+Pub. L. 100–472, title II, § 201(b)(2), Oct. 5, 1988, 102 Stat. 2289, provided that: “Any reference to section 103(c) [§ 103(c) of Pub. L. 93–638, former 25 U.S.C. 450g(c)] contained in an Act making appropriations for the Department of the Interior and Related Agencies for fiscal year 1989 [Pub. L. 100–446, see Tables for classification] shall be deemed to apply to section 102(d) of such Act [§ 102(d) of Pub. L. 93–638, former 25 U.S.C. 450f(d), now 25 U.S.C. 5321(d)] as amended by this Act.”
 
 See Codification notes above.
 
-### § 5322. Grants to tribal organizations or tribes
+### § 5322. Grants to tribal organizations or tribes
 
 **(a) Request by tribe for contract or grant by Secretary of the Interior for improving, etc., tribal governmental, contracting, and program planning activities** The Secretary of the Interior is authorized, upon the request of any Indian tribe (from funds appropriated for the benefit of Indians pursuant to section 13 of this title, and any Act subsequent thereto) to contract with or make a grant or grants to any tribal organization for—
 
@@ -1159,9 +1159,9 @@ See Codification notes above.
 
 **(2)** the planning, training, evaluation of other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 5321 of this title and the additional costs associated with the initial years of operation under such a contract or contracts; or
 
-**(3)** the acquisition of land in connection with items (1) and (2) above: *Provided*, That in the case of land within Indian country (as defined in chapter 53 of title 18) or which adjoins on at least two sides lands held in trust by the United States for the tribe or for individual Indians, the Secretary of 1
+**(3)** the acquisition of land in connection with items (1) and (2) above: *Provided*, That in the case of land within Indian country (as defined in chapter 53 of title 18) or which adjoins on at least two sides lands held in trust by the United States for the tribe or for individual Indians, the Secretary of 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 Interior may (upon request of the tribe) acquire such land in trust for the tribe.
 
@@ -1171,7 +1171,7 @@ Interior may (upon request of the tribe) acquire such land in trust for the trib
 
 **(2)** planning, training, evaluation or other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 103 of this Act.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(c) Use as matching shares for other similar Federal grant programs**
 
@@ -1191,13 +1191,13 @@ The provisions of any other Act notwithstanding, any funds made available to a t
 
 **(2)** the planning, designing, monitoring, and evaluating of Federal programs serving the tribe, including Federal administrative functions.
 
-(Pub. L. 93–638, title I, § 103, formerly § 104, Jan. 4, 1975, 88 Stat. 2207; renumbered § 103 and amended Pub. L. 100–472, title II, § 202, Oct. 5, 1988, 102 Stat. 2289; Pub. L. 101–644, title II, § 203(g)(1), Nov. 29, 1990, 104 Stat. 4666.)
+(Pub. L. 93–638, title I, § 103, formerly § 104, Jan. 4, 1975, 88 Stat. 2207; renumbered § 103 and amended Pub. L. 100–472, title II, § 202, Oct. 5, 1988, 102 Stat. 2289; Pub. L. 101–644, title II, § 203(g)(1), Nov. 29, 1990, 104 Stat. 4666.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 103 of this Act, referred to in subsec. (b)(2), probably means former section 103 of Pub. L. 93–638, which was classified to former section 450g of this title, prior to repeal in part and transfer in part to former section 450f(d) of this title by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289, and editorial reclassification and renumbering of former section 450f(d) as section 5321(d) of this title. See Prior Provisions note below.
+Section 103 of this Act, referred to in subsec. (b)(2), probably means former section 103 of Pub. L. 93–638, which was classified to former section 450g of this title, prior to repeal in part and transfer in part to former section 450f(d) of this title by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289, and editorial reclassification and renumbering of former section 450f(d) as section 5321(d) of this title. See Prior Provisions note below.
 
 This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -1207,25 +1207,25 @@ Section was formerly classified to section 450h of this title prior to editorial
 
 **Prior Provisions**
 
-A prior section 103 of Pub. L. 93–638 was classified to former section 450g of this title prior to repeal in part and transfer in part to former section 450f(d) of this title by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289, and editorial reclassification and renumbering of former section 450f(d) as section 5321(d) of this title.
+A prior section 103 of Pub. L. 93–638 was classified to former section 450g of this title prior to repeal in part and transfer in part to former section 450f(d) of this title by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289, and editorial reclassification and renumbering of former section 450f(d) as section 5321(d) of this title.
 
 **Amendments**
 
 1990—Subsec. (a)(3). Pub. L. 101–644, which directed the substitution of “Indian country (as defined in chapter 53 of title 18)” for “reservation boundaries” in “section 301(a)(3) of the Indian Self-Determination Act”, was executed to this section, which is section 103(a)(3) of that Act, to reflect the probable intent of Congress.
 
-1988—Subsec. (a). Pub. L. 100–472, § 202(b), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the planning, designing, monitoring, and evaluating of Federal programs serving the tribe.”
+1988—Subsec. (a). Pub. L. 100–472, § 202(b), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the planning, designing, monitoring, and evaluating of Federal programs serving the tribe.”
 
-Subsec. (b). Pub. L. 100–472, § 202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsec. (b). Pub. L. 100–472, § 202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-Subsecs. (d), (e). Pub. L. 100–472, § 202(d), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 100–472, § 202(d), added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authority of Secretary To Acquire Lands In Trust**
 
-Pub. L. 101–644, title II, § 203(g)(2), Nov. 29, 1990, 104 Stat. 4666, provided that: “The amendment made by paragraph (1) [amending this section] shall not alter or otherwise modify or affect existing prohibitions or limitations on the Secretary’s authority to acquire lands in trust.”
+Pub. L. 101–644, title II, § 203(g)(2), Nov. 29, 1990, 104 Stat. 4666, provided that: “The amendment made by paragraph (1) [amending this section] shall not alter or otherwise modify or affect existing prohibitions or limitations on the Secretary’s authority to acquire lands in trust.”
 
-### § 5323. Retention of Federal employee coverage, rights and benefits by employees of tribal organizations
+### § 5323. Retention of Federal employee coverage, rights and benefits by employees of tribal organizations
 
 **(a) to (d) Omitted**
 
@@ -1271,7 +1271,7 @@ The President may prescribe regulations necessary to carry out the provisions of
 
 The status of an Indian (as defined in section 5129 of this title) appointed (except temporary appointments) to the Federal service under an excepted appointment under the authority of section 5116 of this title, or any other provision of law granting a preference to Indians in personnel actions, shall be converted to a career appointment in the competitive service after three years of continuous service and satisfactory performance. The conversion shall not alter the Indian’s eligibility for preference in personnel actions.
 
-(Pub. L. 93–638, title I, § 104, formerly § 105, Jan. 4, 1975, 88 Stat. 2208; Pub. L. 89–702, title II, § 210(a), as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 99–221, § 3(a), Dec. 26, 1985, 99 Stat. 1735; renumbered § 104 and amended Pub. L. 100–472, title II, § 203, Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, § 2(a)(6), May 24, 1990, 104 Stat. 206; Pub. L. 110–81, title I, § 104(b), Sept. 14, 2007, 121 Stat. 740.)
+(Pub. L. 93–638, title I, § 104, formerly § 105, Jan. 4, 1975, 88 Stat. 2208; Pub. L. 89–702, title II, § 210(a), as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 99–221, § 3(a), Dec. 26, 1985, 99 Stat. 1735; renumbered § 104 and amended Pub. L. 100–472, title II, § 203, Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, § 2(a)(6), May 24, 1990, 104 Stat. 206; Pub. L. 110–81, title I, § 104(b), Sept. 14, 2007, 121 Stat. 740.)
 
 **Editorial Notes**
 
@@ -1291,27 +1291,27 @@ A prior section 104 of Pub. L. 93–638 was renumbered section 103 by Pub. L. 10
 
 1990—Subsec. (m). Pub. L. 101–301 substituted “an Indian (as defined in section 5129 of this title) appointed (except temporary appointments)” for “an Indian appointed”.
 
-1988—Subsecs. (a), (b). Pub. L. 100–472, § 203(b), (c), amended subsecs. (a) and (b). See Codification note above.
+1988—Subsecs. (a), (b). Pub. L. 100–472, § 203(b), (c), amended subsecs. (a) and (b). See Codification note above.
 
-Subsec. (e). Pub. L. 100–472, § 203(d), (e), in introductory provisions, substituted “Notwithstanding the provisions of sections 8347(*o*), 8713, and 8914 of title 5” for “Notwithstanding any other law” and struck out “on or before December 31, 1988” after “title 43”, and in par. (2), inserted “or chapter 84 (‘Federal Employees Retirement System’)”. Notwithstanding directory language that the substitution of “Notwithstanding the provisions of sections 8347(*o*), 8713, and 8914 of title 5” be made in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
+Subsec. (e). Pub. L. 100–472, § 203(d), (e), in introductory provisions, substituted “Notwithstanding the provisions of sections 8347(*o*), 8713, and 8914 of title 5” for “Notwithstanding any other law” and struck out “on or before December 31, 1988” after “title 43”, and in par. (2), inserted “or chapter 84 (‘Federal Employees Retirement System’)”. Notwithstanding directory language that the substitution of “Notwithstanding the provisions of sections 8347(*o*), 8713, and 8914 of title 5” be made in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
 
-Subsecs. (k), (*l*). Pub. L. 100–472, § 203(f), added subsecs. (k) and (*l*). See Codification note above.
+Subsecs. (k), (*l*). Pub. L. 100–472, § 203(f), added subsecs. (k) and (*l*). See Codification note above.
 
-Subsec. (m). Pub. L. 100–472, § 203(f), added subsec. (m).
+Subsec. (m). Pub. L. 100–472, § 203(f), added subsec. (m).
 
 1985—Subsec. (e). Pub. L. 99–221 substituted “1988” for “1985”.
 
-1983—Subsec. (e). Pub. L. 89–702, § 210(a), as added by Pub. L. 98–129, inserted “, the city of St. Paul, Alaska, the city of St. George, Alaska, upon incorporation, or the Village Corporations of St. Paul and St. George Islands established pursuant to section 1607 of title 43”.
+1983—Subsec. (e). Pub. L. 89–702, § 210(a), as added by Pub. L. 98–129, inserted “, the city of St. Paul, Alaska, the city of St. George, Alaska, upon incorporation, or the Village Corporations of St. Paul and St. George Islands established pursuant to section 1607 of title 43”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–81, title I, § 105(d), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 104 [amending this section and section 207 of Title 18, Crimes and Criminal Procedure] shall take effect on the date of the enactment of this Act [Sept. 14, 2007], except that section 104(j)(2) of the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5323(j)(2)] (as amended by section 104(b)) shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the 60th day after the date of the enactment of this Act.”
+Pub. L. 110–81, title I, § 105(d), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 104 [amending this section and section 207 of Title 18, Crimes and Criminal Procedure] shall take effect on the date of the enactment of this Act [Sept. 14, 2007], except that section 104(j)(2) of the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5323(j)(2)] (as amended by section 104(b)) shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the 60th day after the date of the enactment of this Act.”
 
 **Pribilof Island Natives Employed by Federal Government on October 28, 1983**
 
-Pub. L. 89–702, title II, § 210(b), as added by Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844, provided that: “Notwithstanding any other provision of law, any Native of the Pribilof Islands employed by the Federal government on October 28, 1983, shall be deemed to have been covered under chapters 81, 83, 85 and 87 of title 5, United States Code, on such date for the purposes of determining eligibility for continuity of benefits under section 105(e) of the Act of January 4, 1975 (Public Law 93–638), known as the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5323(e)].”
+Pub. L. 89–702, title II, § 210(b), as added by Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844, provided that: “Notwithstanding any other provision of law, any Native of the Pribilof Islands employed by the Federal government on October 28, 1983, shall be deemed to have been covered under chapters 81, 83, 85 and 87 of title 5, United States Code, on such date for the purposes of determining eligibility for continuity of benefits under section 105(e) of the Act of January 4, 1975 (Public Law 93–638), known as the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5323(e)].”
 
 **Executive Documents**
 
@@ -1327,7 +1327,7 @@ Sec. 2. The Office of Personnel Management shall, after consultation with the De
 
 Sec. 3. The Secretary of Labor is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, the authority vested in the President by section 105(i) of the act [25 U.S.C. 5323(i)] to issue regulations necessary to carry out the provisions of section 105(e)(1) of the act [25 U.S.C. 5323(e)(1)], except as provided in section 1 of this order.
 
-### § 5324. Contract or grant provisions and administration
+### § 5324. Contract or grant provisions and administration
 
 **(a) Applicability of Federal contracting laws and regulations; waiver of requirements**
 
@@ -1337,9 +1337,9 @@ Sec. 3. The Secretary of Labor is hereby designated and empowered to exercise, w
 
 **(3)**
 
-**(A)** With respect to a construction contract (or a subcontract of such a construction contract), the provisions of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41 and the regulations relating to acquisitions promulgated under division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41 shall apply only to the extent that the application of such provision 1
+**(A)** With respect to a construction contract (or a subcontract of such a construction contract), the provisions of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41 and the regulations relating to acquisitions promulgated under division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41 shall apply only to the extent that the application of such provision 1
 
-<sup>1</sup>  So in original. Probably should be “provisions”.
+<sup>1</sup> So in original. Probably should be “provisions”.
 
 to the construction contract (or subcontract) is—
 
@@ -1361,9 +1361,9 @@ to the construction contract (or subcontract) is—
 
 **(II)** Section 6101 of title 41.
 
-**(III)** Section 9(c) 2
+**(III)** Section 9(c) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Act of Aug. 2, 1946 (60 Stat. 809, chapter 744).
 
@@ -1501,7 +1501,7 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 **(iv)** In the case of a fixed-price contract, a fair profit determined by taking into consideration the relevant risks and local market conditions.
 
-**(v)** If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 5321 of this title (including providing opportunity for an appeal pursuant to section 5321(b) of this title).
+**(v)** If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 5321 of this title (including providing opportunity for an appeal pursuant to section 5321(b) of this title).
 
 **(n) Rental rates for housing for Government employees in Alaska** Notwithstanding any other provision of law, the rental rates for housing provided to an employee by the Federal Government in Alaska pursuant to a self-determination contract shall be determined on the basis of—
 
@@ -1535,15 +1535,15 @@ Patient records that are deemed to be Federal records under those provisions of 
 
 **(q) Technical assistance for internal controls**
 
-**(1) Technical Assistance for Internal Controls.—**  3
+**(1) Technical Assistance for Internal Controls.—** 3
 
-<sup>3</sup>  So in original. The heading of par. (1) was probably meant for subsec. (q), the heading of which was editorially supplied.
+<sup>3</sup> So in original. The heading of par. (1) was probably meant for subsec. (q), the heading of which was editorially supplied.
 
 In considering proposals for, amendments to, or in the course of, a contract under this subchapter and compacts under subchapters IV and V of this chapter, if the Secretary determines that the Indian Tribe lacks adequate internal controls necessary to manage the contracted program or programs, the Secretary shall, as soon as practicable, provide the necessary technical assistance to assist the Indian Tribe in developing adequate internal controls. As part of that technical assistance, the Secretary and the Tribe shall develop a plan for assessing the subsequent effectiveness of such technical assistance. The inability of the Secretary to provide technical assistance or lack of a plan under this subsection shall not result in the reassumption of an existing agreement, contract, or compact, or declination or rejection of a new agreement, contract, or compact.
 
 **(2)** The Secretary shall prepare a report to be included in the information required for the reports under sections 5372(b)(2)(A) and 5394(b)(2)(A) of this title. The Secretary shall include in this report, in the aggregate, a description of the internal controls that were inadequate, the technical assistance provided, and a description of Secretarial actions taken to address any remaining inadequate internal controls after the provision of technical assistance and implementation of the plan required by paragraph (1).
 
-(Pub. L. 93–638, title I, § 105, formerly § 106, Jan. 4, 1975, 88 Stat. 2210; renumbered § 105 and amended Pub. L. 100–472, title II, § 204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, § 2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, § 203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§ 102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, § 7, Feb. 12, 1996, 110 Stat. 764; Pub. L. 106–260, §§ 7, 8, Aug. 18, 2000, 114 Stat. 732, 733; Pub. L. 116–180, title II, § 203, Oct. 21, 2020, 134 Stat. 880.)
+(Pub. L. 93–638, title I, § 105, formerly § 106, Jan. 4, 1975, 88 Stat. 2210; renumbered § 105 and amended Pub. L. 100–472, title II, § 204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, § 2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, § 203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§ 102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, § 7, Feb. 12, 1996, 110 Stat. 764; Pub. L. 106–260, §§ 7, 8, Aug. 18, 2000, 114 Stat. 732, 733; Pub. L. 116–180, title II, § 203, Oct. 21, 2020, 134 Stat. 880.)
 
 **Editorial Notes**
 
@@ -1551,41 +1551,41 @@ In considering proposals for, amendments to, or in the course of, a contract und
 
 This chapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f)(3), (k), (*l*)(1), and (m)(1), (4)(C)(i), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of former Title 41, Public Contracts, and was repealed by Pub. L. 111–350, § 7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
+Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of former Title 41, Public Contracts, and was repealed by Pub. L. 111–350, § 7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
-Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479), referred to in subsec. (a)(3)(C)(ii)(V), is act Oct. 3, 1944, ch. 479, § 13, 58 Stat. 770, which is set out as a note under section 545 of Title 40, Public Buildings, Property, and Works.
+Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479), referred to in subsec. (a)(3)(C)(ii)(V), is act Oct. 3, 1944, ch. 479, § 13, 58 Stat. 770, which is set out as a note under section 545 of Title 40, Public Buildings, Property, and Works.
 
-The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under section 631 of Title 15, Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under section 701 of Title 29, Labor.
 
-This subchapter, referred to in subsecs. (b), (i)(2), and (q)(1), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This subchapter, referred to in subsecs. (b), (i)(2), and (q)(1), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in subsec. (m)(1)(B), is section 314 of Pub. L. 101–512, which is set out as a note under section 5321 of this title.
 
 Subsections (a)(2) and (b) of section 5321 of this title, referred to in subsec. (m)(4)(C)(v), was in the original “sections 102(a)(2) and 102(b) of section 102”, and was translated as reading “subsections (a)(2) and (b) of section 102”, meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
 
-The Federal Records Act of 1950, referred to in subsec. (*o*), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, § 4, Aug. 21, 2002, 116 Stat. 1303.
+The Federal Records Act of 1950, referred to in subsec. (*o*), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, § 4, Aug. 21, 2002, 116 Stat. 1303.
 
 **Codification**
 
 Section was formerly classified to section 450j of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (a)(3)(A), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)” and for “such Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(A), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)” and for “such Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(I), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(I), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(II), “Section 6101 of title 41” substituted for “Section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(II), “Section 6101 of title 41” substituted for “Section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(IV), “Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “Title III of the Federal Property and Administrative Services Act of 1949 (63 Stat. 393 et seq., chapter 288)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(IV), “Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “Title III of the Federal Property and Administrative Services Act of 1949 (63 Stat. 393 et seq., chapter 288)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(VII), “Section 3145 of title 40” substituted for “Section 2 of the Act of June 13, 1934 (48 Stat 948, chapter 483 [482])” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a)(3)(C)(ii)(VII), “Section 3145 of title 40” substituted for “Section 2 of the Act of June 13, 1934 (48 Stat 948, chapter 483 [482])” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (a)(3)(C)(ii)(VIII), “Chapter 65 of title 41” substituted for “Sections 1 through 12 of the Act of June 30, 1936 (49 Stat. 2036 et seq. chapter 881)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(VIII), “Chapter 65 of title 41” substituted for “Sections 1 through 12 of the Act of June 30, 1936 (49 Stat. 2036 et seq. chapter 881)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(IX), “Chapter 67 of title 41” substituted for “The Service Control [Contract] Act of 1965 (41 U.S.C. 351 et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(IX), “Chapter 67 of title 41” substituted for “The Service Control [Contract] Act of 1965 (41 U.S.C. 351 et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (k), “section 501 of title 40” substituted for “section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (k), “section 501 of title 40” substituted for “section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
 **Prior Provisions**
 
@@ -1593,61 +1593,61 @@ A prior section 105 of Pub. L. 93–638 was renumbered section 104 by Pub. L. 10
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–180, § 203(1), substituted reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, or section 5322 of this title. For disposition of former section 103 of Pub. L. 93–638, see Prior Provisions note set out under section 5322 of this title.
+2020—Subsec. (b). Pub. L. 116–180, § 203(1), substituted reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, or section 5322 of this title. For disposition of former section 103 of Pub. L. 93–638, see Prior Provisions note set out under section 5322 of this title.
 
-Subsecs. (p), (q). Pub. L. 116–180, § 203(2), added subsecs. (p) and (q).
+Subsecs. (p), (q). Pub. L. 116–180, § 203(2), added subsecs. (p) and (q).
 
-2000—Subsec. (k). Pub. L. 106–260, § 7, substituted “deemed an executive agency and part of the Indian Health Service” for “deemed an executive agency” and inserted at end “For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.”
+2000—Subsec. (k). Pub. L. 106–260, § 7, substituted “deemed an executive agency and part of the Indian Health Service” for “deemed an executive agency” and inserted at end “For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.”
 
-Subsec. (*o*). Pub. L. 106–260, § 8, added subsec. (*o*).
+Subsec. (*o*). Pub. L. 106–260, § 8, added subsec. (*o*).
 
-1996—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, § 102(11). See 1994 Amendment note below.
+1996—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, § 102(11). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–413, § 102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to section 5321 of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: *Provided*, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: *Provided further*, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
+1994—Subsec. (a). Pub. L. 103–413, § 102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to section 5321 of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: *Provided*, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: *Provided further*, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
 
-Subsec. (e). Pub. L. 103–413, § 102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
+Subsec. (e). Pub. L. 103–413, § 102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
 
-Subsec. (f)(2). Pub. L. 103–413, § 102(12), added par. (2) and struck out former par. (2) which read as follows: “donate to an Indian tribe or tribal organization the title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and”.
+Subsec. (f)(2). Pub. L. 103–413, § 102(12), added par. (2) and struck out former par. (2) which read as follows: “donate to an Indian tribe or tribal organization the title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and”.
 
-Subsec. (h). Pub. L. 103–413, § 106, struck out “and the rules and regulations adopted by the Secretaries of the Interior and Health and Human Services pursuant to section 5328 of this title” after “sections 5321 and 5322 of this title”.
+Subsec. (h). Pub. L. 103–413, § 106, struck out “and the rules and regulations adopted by the Secretaries of the Interior and Health and Human Services pursuant to section 5328 of this title” after “sections 5321 and 5322 of this title”.
 
-Subsecs. (i) to (n). Pub. L. 103–413, § 102(13), added subsecs. (i) to (n).
+Subsecs. (i) to (n). Pub. L. 103–413, § 102(13), added subsecs. (i) to (n).
 
 1990—Subsec. (a). Pub. L. 101–301 substituted “sub-contracts of such a construction contract” for “sub-contracts in such cases where the tribal contractor has sub-contracted the activity”.
 
-Subsec. (c)(1)(B). Pub. L. 101–644, § 203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for an indefinite term in the case of a mature contract.”
+Subsec. (c)(1)(B). Pub. L. 101–644, § 203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for an indefinite term in the case of a mature contract.”
 
-Subsec. (d). Pub. L. 101–644, § 203(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+Subsec. (d). Pub. L. 101–644, § 203(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(1) No later than fiscal year 1990, the Secretary shall begin using the calendar year as the basis for contracts and agreements under this Act except for instances where the Secretary and the Indian tribe or tribal organization agree on a different period.
 
 “(2) The Secretary shall submit a report to the Congress within ninety days of October 5, 1988, on the amounts of any additional obligational authority needed to implement this subsection in fiscal year 1989.”
 
-Subsec. (f)(2), (3). Pub. L. 101–644, § 203(e), inserted “or real” after “personal”.
+Subsec. (f)(2), (3). Pub. L. 101–644, § 203(e), inserted “or real” after “personal”.
 
-1988—Subsec. (a). Pub. L. 100–472, § 204(b), (c), substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638 and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts. See Prior Provisions note set out under section 5322 of this title.
+1988—Subsec. (a). Pub. L. 100–472, § 204(b), (c), substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638 and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts. See Prior Provisions note set out under section 5322 of this title.
 
-Subsec. (b). Pub. L. 100–472, § 204(d), which directed the amendment of subsec. (b) by substituting reference to sections 5321 and 5322 of this title for text in original Act reading “sections 102, 103, and 104”, could not be executed because text enacted by Pub. L. 93–638 read “section 102, 103, or 104”. Intended amendment was reenacted by Pub. L. 116–180, § 203(1), see 2020 Amendment note above.
+Subsec. (b). Pub. L. 100–472, § 204(d), which directed the amendment of subsec. (b) by substituting reference to sections 5321 and 5322 of this title for text in original Act reading “sections 102, 103, and 104”, could not be executed because text enacted by Pub. L. 93–638 read “section 102, 103, or 104”. Intended amendment was reenacted by Pub. L. 116–180, § 203(1), see 2020 Amendment note above.
 
-Subsec. (c). Pub. L. 100–472, § 204(e), added subsec. (c) and struck out former subsec. (c) which related to limitation on term of any contract requested by a tribe pursuant to section 5321 of this title and former section 103 of Pub. L. 93–638 and annual renegotiation of amounts. See Prior Provisions note set out under section 5322 of this title.
+Subsec. (c). Pub. L. 100–472, § 204(e), added subsec. (c) and struck out former subsec. (c) which related to limitation on term of any contract requested by a tribe pursuant to section 5321 of this title and former section 103 of Pub. L. 93–638 and annual renegotiation of amounts. See Prior Provisions note set out under section 5322 of this title.
 
-Subsec. (d). Pub. L. 100–472, § 204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
+Subsec. (d). Pub. L. 100–472, § 204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
 
-Subsec. (e). Pub. L. 100–472, § 204(e), added subsec. (e) and struck out former subsec. (e) which authorized the Secretary to permit tribal organizations to use existing school buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
+Subsec. (e). Pub. L. 100–472, § 204(e), added subsec. (e) and struck out former subsec. (e) which authorized the Secretary to permit tribal organizations to use existing school buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
 
-Subsec. (f). Pub. L. 100–472, § 204(e), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 100–472, § 204(e), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–472, § 204(f), redesignated former subsec. (f) as (g) and substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638. Former subsec. (g) redesignated (h). See Prior Provisions note set out under section 5322 of this title.
+Subsec. (g). Pub. L. 100–472, § 204(f), redesignated former subsec. (f) as (g) and substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638. Former subsec. (g) redesignated (h). See Prior Provisions note set out under section 5322 of this title.
 
-Subsec. (h). Pub. L. 100–472, § 204(g), (h), redesignated former subsec. (g) as (h), substituted reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, and section 5322 of this title, and reference to Health and Human Services for reference to Health, Education, and Welfare. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out. See Prior Provisions note set out under section 5322 of this title.
+Subsec. (h). Pub. L. 100–472, § 204(g), (h), redesignated former subsec. (g) as (h), substituted reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, and section 5322 of this title, and reference to Health and Human Services for reference to Health, Education, and Welfare. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out. See Prior Provisions note set out under section 5322 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continued Availability of Certain Funds**
 
-Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part that: “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 [25 U.S.C. 5321 et seq.] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A [probably means prior versions of 25 U.S.C. 2001 and 2008a]) shall remain available until expended by the contractor or grantee”.
+Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part that: “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 [25 U.S.C. 5321 et seq.] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A [probably means prior versions of 25 U.S.C. 2001 and 2008a]) shall remain available until expended by the contractor or grantee”.
 
-### § 5325. Contract funding and indirect costs
+### § 5325. Contract funding and indirect costs
 
 **(a) Amount of funds provided**
 
@@ -1801,7 +1801,7 @@ To the extent that programs, functions, services, or activities carried out by t
 
 Notwithstanding any other provision of law (including any regulation), a tribal organization that carries out a self-determination contract may, with respect to allocations within the approved budget of the contract, rebudget to meet contract requirements, if such rebudgeting would not have an adverse effect on the performance of the contract.
 
-(Pub. L. 93–638, title I, § 106, as added Pub. L. 100–472, title II, § 205, Oct. 5, 1988, 102 Stat. 2292; amended Pub. L. 101–301, § 2(a)(8), (9), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, § 203(a), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, § 102(14)–(19), Oct. 25, 1994, 108 Stat. 4257–4259; Pub. L. 105–362, title VIII, § 801(g), Nov. 10, 1998, 112 Stat. 3288; Pub. L. 106–260, § 9, Aug. 18, 2000, 114 Stat. 733; Pub. L. 116–180, title II, § 204, Oct. 21, 2020, 134 Stat. 880.)
+(Pub. L. 93–638, title I, § 106, as added Pub. L. 100–472, title II, § 205, Oct. 5, 1988, 102 Stat. 2292; amended Pub. L. 101–301, § 2(a)(8), (9), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, § 203(a), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, § 102(14)–(19), Oct. 25, 1994, 108 Stat. 4257–4259; Pub. L. 105–362, title VIII, § 801(g), Nov. 10, 1998, 112 Stat. 3288; Pub. L. 106–260, § 9, Aug. 18, 2000, 114 Stat. 733; Pub. L. 116–180, title II, § 204, Oct. 21, 2020, 134 Stat. 880.)
 
 **Editorial Notes**
 
@@ -1819,53 +1819,53 @@ A prior section 106 of Pub. L. 93–638 was renumbered section 105 by Pub. L. 10
 
 **Amendments**
 
-2020—Subsec. (a)(3)(A). Pub. L. 116–180, § 204(1), substituted “; and” for “, and” in cl. (i) and “expense incurred by the governing body of the Indian Tribe or Tribal organization and any overhead expense incurred” for “expense related to the overhead incurred” in cl. (ii).
+2020—Subsec. (a)(3)(A). Pub. L. 116–180, § 204(1), substituted “; and” for “, and” in cl. (i) and “expense incurred by the governing body of the Indian Tribe or Tribal organization and any overhead expense incurred” for “expense related to the overhead incurred” in cl. (ii).
 
-Subsec. (a)(3)(B), (C). Pub. L. 116–180, § 204(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (a)(3)(B), (C). Pub. L. 116–180, § 204(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 2000—Subsecs. (c) to (*o*). Pub. L. 106–260 added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (*o*), respectively.
 
 1998—Subsecs. (c) to (*o*). Pub. L. 105–362 redesignated subsecs. (d) to (*o*) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary’s annual report to Congress on implementation of this chapter.
 
-1994—Subsec. (a)(1). Pub. L. 103–413, § 102(14)(A), inserted before period at end “, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated”.
+1994—Subsec. (a)(1). Pub. L. 103–413, § 102(14)(A), inserted before period at end “, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated”.
 
-Subsec. (a)(2). Pub. L. 103–413, § 102(14)(B), inserted “an amount for” after “consist of”.
+Subsec. (a)(2). Pub. L. 103–413, § 102(14)(B), inserted “an amount for” after “consist of”.
 
-Subsec. (a)(3). Pub. L. 103–413, § 102(14)(C), added par. (3) and struck out former par. (3) which read as follows: “Any savings in operation under a self-determination contract shall be utilized to provide additional services or benefits under the contract or be expended in the succeeding fiscal year as provided in section 13a of this title.”
+Subsec. (a)(3). Pub. L. 103–413, § 102(14)(C), added par. (3) and struck out former par. (3) which read as follows: “Any savings in operation under a self-determination contract shall be utilized to provide additional services or benefits under the contract or be expended in the succeeding fiscal year as provided in section 13a of this title.”
 
-Subsec. (a)(4) to (6). Pub. L. 103–413, § 102(14)(C), added pars. (4) to (6).
+Subsec. (a)(4) to (6). Pub. L. 103–413, § 102(14)(C), added pars. (4) to (6).
 
-Subsec. (c). Pub. L. 103–413, § 102(15)(A), substituted “May 15” for “March 15” in introductory provisions.
+Subsec. (c). Pub. L. 103–413, § 102(15)(A), substituted “May 15” for “March 15” in introductory provisions.
 
-Subsec. (c)(1), (2). Pub. L. 103–413, § 102(15)(B), substituted “contract support costs” for “indirect costs”.
+Subsec. (c)(1), (2). Pub. L. 103–413, § 102(15)(B), substituted “contract support costs” for “indirect costs”.
 
-Subsec. (c)(6). Pub. L. 103–413, § 102(15)(C)–(E), added par. (6).
+Subsec. (c)(6). Pub. L. 103–413, § 102(15)(C)–(E), added par. (6).
 
-Subsec. (f). Pub. L. 103–413, § 102(16), inserted after second sentence “For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law.”
+Subsec. (f). Pub. L. 103–413, § 102(16), inserted after second sentence “For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law.”
 
-Subsec. (g). Pub. L. 103–413, § 102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
+Subsec. (g). Pub. L. 103–413, § 102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
 
-Subsec. (i). Pub. L. 103–413, § 102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
+Subsec. (i). Pub. L. 103–413, § 102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
 
-Subsecs. (j) to (*o*). Pub. L. 103–413, § 102(19), added subsecs. (j) to (*o*).
+Subsecs. (j) to (*o*). Pub. L. 103–413, § 102(19), added subsecs. (j) to (*o*).
 
 1990—Subsec. (e). Pub. L. 101–644 substituted “1992” for “1988”.
 
-Subsec. (f). Pub. L. 101–301, § 2(a)(8), substituted “prior to enactment of chapter 75 of title 31” for “prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)”, which for purposes of codification was translated as “prior to October 19, 1984”, requiring no change in text.
+Subsec. (f). Pub. L. 101–301, § 2(a)(8), substituted “prior to enactment of chapter 75 of title 31” for “prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)”, which for purposes of codification was translated as “prior to October 19, 1984”, requiring no change in text.
 
-Subsec. (i). Pub. L. 101–301, § 2(a)(9), substituted “agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency)” for “agency personnel”.
+Subsec. (i). Pub. L. 101–301, § 2(a)(9), substituted “agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency)” for “agency personnel”.
 
-### § 5326. Indian Health Service: availability of funds for Indian self-determination or self-governance contract or grant support costs
+### § 5326. Indian Health Service: availability of funds for Indian self-determination or self-governance contract or grant support costs
 
 Before, on, and after October 21, 1998, and notwithstanding any other provision of law, funds available to the Indian Health Service in this Act or any other Act for Indian self-determination or self-governance contract or grant support costs may be expended only for costs directly attributable to contracts, grants and compacts pursuant to the Indian Self-Determination Act [25 U.S.C. 5321 et seq.] and no funds appropriated by this or any other Act shall be available for any contract support costs or indirect costs associated with any contract, grant, cooperative agreement, self-governance compact, or funding agreement entered into between an Indian tribe or tribal organization and any entity other than the Indian Health Service.
 
-(Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–280.)
+(Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–280.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -1873,23 +1873,23 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 Section was formerly classified to section 450j–2 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5327. Department of the Interior: availability of funds for Indian self-determination or self-governance contract or grant support costs
+### § 5327. Department of the Interior: availability of funds for Indian self-determination or self-governance contract or grant support costs
 
-Notwithstanding any other provision of law, including but not limited to the Indian Self-Determination Act of 1975, as amended [25 U.S.C. 5321 et seq.], on and after November 29, 1999, funds available to the Department of the Interior for Indian self-determination or self-governance contract or grant support costs may be expended only for costs directly attributable to contracts, grants and compacts pursuant to the Indian Self-Determination Act of 1975 and on and after November 29, 1999, funds appropriated in this title 1
+Notwithstanding any other provision of law, including but not limited to the Indian Self-Determination Act of 1975, as amended [25 U.S.C. 5321 et seq.], on and after November 29, 1999, funds available to the Department of the Interior for Indian self-determination or self-governance contract or grant support costs may be expended only for costs directly attributable to contracts, grants and compacts pursuant to the Indian Self-Determination Act of 1975 and on and after November 29, 1999, funds appropriated in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not be available for any contract support costs or indirect costs associated with any contract, grant, cooperative agreement, self-governance compact or funding agreement entered into between an Indian tribe or tribal organization and any entity other than an agency of the Department of the Interior.
 
-(Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–157.)
+(Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–157.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act of 1975, referred to in text, probably means the Indian Self-Determination Act, title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act of 1975, referred to in text, probably means the Indian Self-Determination Act, title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-This title, referred to in text, is title I of the Department of the Interior and Related Agencies Appropriations Act, 2000, as enacted by Pub. L. 106–113, div. B, § 1000(a)(3), Nov. 29, 1999, 113 Stat. 1535, 1501A–135. For complete classification of this title to the Code, see Tables.
+This title, referred to in text, is title I of the Department of the Interior and Related Agencies Appropriations Act, 2000, as enacted by Pub. L. 106–113, div. B, § 1000(a)(3), Nov. 29, 1999, 113 Stat. 1535, 1501A–135. For complete classification of this title to the Code, see Tables.
 
 **Codification**
 
@@ -1901,9 +1901,9 @@ Section was formerly classified to section 450j–3 of this title prior to edito
 
 **Similar Provisions**
 
-Similar provisions were contained in Pub. L. 105–277, div. A, § 101(e) [title I, § 114], Oct. 21, 1998, 112 Stat. 2681–231, 2681–255.
+Similar provisions were contained in Pub. L. 105–277, div. A, § 101(e) [title I, § 114], Oct. 21, 1998, 112 Stat. 2681–231, 2681–255.
 
-### § 5328. Rules and regulations
+### § 5328. Rules and regulations
 
 **(a) Authority of Secretaries of the Interior and of Health and Human Services to promulgate; time restriction**
 
@@ -1951,7 +1951,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 The Secretary may, with respect to a contract entered into under this chapter, make exceptions in the regulations promulgated to carry out this chapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this chapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 5321 of this title.
 
-(Pub. L. 93–638, title I, § 107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, § 207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, § 203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, § 105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, § 22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, § 10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, § 1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, § 6(e), Oct. 11, 1996, 110 Stat. 3399.)
+(Pub. L. 93–638, title I, § 107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, § 207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, § 203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, § 105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, § 22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, § 10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, § 1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, § 6(e), Oct. 11, 1996, 110 Stat. 3399.)
 
 **Editorial Notes**
 
@@ -1965,21 +1965,21 @@ The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec
 
 Section was formerly classified to section 450k of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (a)(1), “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
 1996—Subsec. (a)(2)(B). Pub. L. 104–133 substituted “20 months” for “18 months”.
 
-Subsec. (b). Pub. L. 104–287 repealed Pub. L. 103–437, § 10(c)(2)(A). See 1994 Amendment note below.
+Subsec. (b). Pub. L. 104–287 repealed Pub. L. 103–437, § 10(c)(2)(A). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–413, § 105(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretaries of the Interior and of Health and Human Services are each authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purposes of carrying out the provisions of this chapter: *Provided, however*, That all Federal requirements for self-determination contracts and grants under this Act shall be promulgated as regulations in conformity with sections 552 and 553 of title 5.”
+1994—Subsec. (a). Pub. L. 103–413, § 105(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretaries of the Interior and of Health and Human Services are each authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purposes of carrying out the provisions of this chapter: *Provided, however*, That all Federal requirements for self-determination contracts and grants under this Act shall be promulgated as regulations in conformity with sections 552 and 553 of title 5.”
 
-Subsec. (b). Pub. L. 103–437, § 10(c)(2)(A), which directed that subsec. (b) be repealed, was itself repealed by Pub. L. 104–287, § 6(e). See Effective Date and Construction of 1996 Amendment note below.
+Subsec. (b). Pub. L. 103–437, § 10(c)(2)(A), which directed that subsec. (b) be repealed, was itself repealed by Pub. L. 104–287, § 6(e). See Effective Date and Construction of 1996 Amendment note below.
 
-Pub. L. 103–435, which directed substitution of “Committee on Natural Resources” for “Committee on Interior and Insular Affairs” in par. (2), could not be executed because “Committee on Interior and Insular Affairs” did not appear in text subsequent to amendment by Pub. L. 103–413, § 105(1). See below.
+Pub. L. 103–435, which directed substitution of “Committee on Natural Resources” for “Committee on Interior and Insular Affairs” in par. (2), could not be executed because “Committee on Interior and Insular Affairs” did not appear in text subsequent to amendment by Pub. L. 103–413, § 105(1). See below.
 
-Pub. L. 103–413, § 105(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
+Pub. L. 103–413, § 105(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
 “(b)(1) Within three months from October 5, 1988, the Secretary shall consider and formulate appropriate regulations to implement the provisions of this Act, with the participation of Indian tribes. Such proposed regulations shall contain all Federal requirements applicable to self-determination contracts and grants under this Act.
 
@@ -1989,15 +1989,15 @@ Pub. L. 103–413, § 105(1), added subsec. (b) and struck out former subsec. 
 
 “(4) Within ten months from October 5, 1988, the Secretary shall promulgate regulations to implement the provisions of such Act.”
 
-Subsec. (c). Pub. L. 103–437, § 10(c)(2)(B), substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
+Subsec. (c). Pub. L. 103–437, § 10(c)(2)(B), substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
 
-Subsecs. (d), (e). Pub. L. 103–413, § 105(2), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 103–413, § 105(2), added subsecs. (d) and (e).
 
-1990—Subsec. (c). Pub. L. 101–644 inserted “, with the participation of Indian tribes and tribal organizations,” after “authorized”.
+1990—Subsec. (c). Pub. L. 101–644 inserted “, with the participation of Indian tribes and tribal organizations,” after “authorized”.
 
-1988—Subsec. (a). Pub. L. 100–472, § 207(a), substituted “Health and Human Services” for “Health, Education, and Welfare”, and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
+1988—Subsec. (a). Pub. L. 100–472, § 207(a), substituted “Health and Human Services” for “Health, Education, and Welfare”, and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
 
-Subsec. (b). Pub. L. 100–472, § 207(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+Subsec. (b). Pub. L. 100–472, § 207(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) Within six months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each to the extent practicable, consult with national and regional Indian organizations to consider and formulate appropriate rules and regulations to implement the provisions of this chapter.
 
@@ -2015,9 +2015,9 @@ Subsec. (b). Pub. L. 100–472, § 207(b), amended subsec. (b) generally. Prio
 
 **Effective Date and Construction of 1996 Amendment**
 
-Pub. L. 104–287, § 6(e), Oct. 11, 1996, 110 Stat. 3399, provided that: “Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) [amending this section], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)) [now 25 U.S.C. 5328(b)], as amended by section 105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted.”
+Pub. L. 104–287, § 6(e), Oct. 11, 1996, 110 Stat. 3399, provided that: “Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) [amending this section], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)) [now 25 U.S.C. 5328(b)], as amended by section 105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted.”
 
-### § 5329. Contract or grant specifications
+### § 5329. Contract or grant specifications
 
 **(a) Terms** Each self-determination contract entered into under this chapter shall—
 
@@ -2037,17 +2037,17 @@ The model agreement referred to in subsection (a)(1) of this section reads as fo
 
 **“(a) Authority and Purpose.—**
 
-**“(1) Authority.—** This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+**“(1) Authority.—** This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-and by the authority of the \_\_\_\_\_\_ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1 are incorporated in this agreement.
+and by the authority of the \_\_\_\_\_\_ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1 are incorporated in this agreement.
 
-**“(2) Purpose.—** Each provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> and each provision of this Contract shall be liberally construed for the benefit of the Contractor to transfer the funding and the following related functions, services, activities, and programs (or portions thereof), that are otherwise contractable under section 102(a) of such Act, including all related administrative functions, from the Federal Government to the Contractor: (List functions, services, activities, and programs).
+**“(2) Purpose.—** Each provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> and each provision of this Contract shall be liberally construed for the benefit of the Contractor to transfer the funding and the following related functions, services, activities, and programs (or portions thereof), that are otherwise contractable under section 102(a) of such Act, including all related administrative functions, from the Federal Government to the Contractor: (List functions, services, activities, and programs).
 
 **“(b) Terms, Provisions, and Conditions.—**
 
-**“(1) Term.—** Pursuant to section 105(c)(1) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(1)),<sup>1</sup> the term of this contract shall be \_\_ years. Pursuant to section 105(d)(1) of such Act (25 U.S.C. 450j(d)) <sup>1</sup>, upon the election by the Contractor, the period of this Contract shall be determined on the basis of a calendar year, unless the Secretary and the Contractor agree on a different period in the annual funding agreement incorporated by reference in subsection (f)(2).
+**“(1) Term.—** Pursuant to section 105(c)(1) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(1)),<sup>1</sup> the term of this contract shall be \_\_ years. Pursuant to section 105(d)(1) of such Act (25 U.S.C. 450j(d)) <sup>1</sup>, upon the election by the Contractor, the period of this Contract shall be determined on the basis of a calendar year, unless the Secretary and the Contractor agree on a different period in the annual funding agreement incorporated by reference in subsection (f)(2).
 
 **“(2) Effective date.—** This Contract shall become effective upon the date of the approval and execution by the Contractor and the Secretary, unless the Contractor and the Secretary agree on an effective date other than the date specified in this paragraph.
 
@@ -2117,7 +2117,7 @@ shall be required prior to the expenditure of such funds.
 
 **“(10) Transportation.—** Beginning on the effective date of this Contract, the Secretary shall authorize the Contractor to obtain interagency motor pool vehicles and related services for performance of any activities carried out under this Contract.
 
-**“(11) Federal program guidelines, manuals, or policy directives.—** Except as specifically provided in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> the Contractor is not required to abide by program guidelines, manuals, or policy directives of the Secretary, unless otherwise agreed to by the Contractor and the Secretary, or otherwise required by law.
+**“(11) Federal program guidelines, manuals, or policy directives.—** Except as specifically provided in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> the Contractor is not required to abide by program guidelines, manuals, or policy directives of the Secretary, unless otherwise agreed to by the Contractor and the Secretary, or otherwise required by law.
 
 **“(12) Disputes.—**
 
@@ -2139,7 +2139,7 @@ shall be required prior to the expenditure of such funds.
 
 **“(14) Successor annual funding agreement.—**
 
-**“(A) In general.—** Negotiations for a successor annual funding agreement, provided for in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(2)) <sup>1</sup> the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act (25 U.S.C. 450j–1(b)).<sup>1</sup>
+**“(A) In general.—** Negotiations for a successor annual funding agreement, provided for in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(2)) <sup>1</sup> the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act (25 U.S.C. 450j–1(b)).<sup>1</sup>
 
 **“(B) Information.—** The Secretary shall prepare and supply relevant information, and promptly comply with any request by the Contractor for information that the Contractor reasonably needs to determine the amount of funds that may be available for a successor annual funding agreement, as provided for in subsection (f)(2) of this Contract.
 
@@ -2213,7 +2213,7 @@ shall be required prior to the expenditure of such funds.
 
 **“(B) Incorporation by reference.—** The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2.”
 
-(Pub. L. 93–638, title I, § 108, as added Pub. L. 103–413, title I, § 103, Oct. 25, 1994, 108 Stat. 4260; amended Pub. L. 106–568, title VIII, § 812(a), Dec. 27, 2000, 114 Stat. 2917; Pub. L. 116–180, title II, § 205, Oct. 21, 2020, 134 Stat. 881.)
+(Pub. L. 93–638, title I, § 108, as added Pub. L. 103–413, title I, § 103, Oct. 25, 1994, 108 Stat. 4260; amended Pub. L. 106–568, title VIII, § 812(a), Dec. 27, 2000, 114 Stat. 2917; Pub. L. 116–180, title II, § 205, Oct. 21, 2020, 134 Stat. 881.)
 
 **Editorial Notes**
 
@@ -2221,15 +2221,15 @@ shall be required prior to the expenditure of such funds.
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. Title I of the Act was classified principally to part A (§ 450f et seq.) of chapter 14 of this title prior to editorial reclassification as this subchapter. Sections 105, 106, and 110 of the Act were classified to sections 450j, 450j–1, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5324, 5325, and 5331, respectively, of this title. Section 102(a) of the Act is classified to section 5321(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. Title I of the Act was classified principally to part A (§ 450f et seq.) of chapter 14 of this title prior to editorial reclassification as this subchapter. Sections 105, 106, and 110 of the Act were classified to sections 450j, 450j–1, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5324, 5325, and 5331, respectively, of this title. Section 102(a) of the Act is classified to section 5321(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§ 1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
+The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§ 1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 16 of the Act of June 18, 1934, referred to in section 1(b)(15)(A) of the provisions of subsec. (c) setting out the model agreement, is section 16 of act June 18, 1934, ch. 576, 48 Stat. 987, which was classified to section 476 of this title prior to editorial reclassification as section 5123 of this title.
 
 The Act of July 3, 1952, referred to in section 1(b)(15)(A) of the provisions of subsec. (c) setting out the model agreement, is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
 
-The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 **Codification**
 
@@ -2241,51 +2241,51 @@ A prior section 108 of Pub. L. 93–638 was renumbered section 5(f) and was clas
 
 **Amendments**
 
-2020—Subsec. (a)(2). Pub. L. 116–180, § 205(1), inserted “subject to subsections (a) and (b) of section 5321 of this title,” before “contain”.
+2020—Subsec. (a)(2). Pub. L. 116–180, § 205(1), inserted “subject to subsections (a) and (b) of section 5321 of this title,” before “contain”.
 
-Subsec. (c). Pub. L. 116–180, § 205(3), substituted “two performance monitoring visits” for “one performance monitoring visit” in the introductory provisions of section 1(b)(7)(C) of the provisions setting out the model agreement.
+Subsec. (c). Pub. L. 116–180, § 205(3), substituted “two performance monitoring visits” for “one performance monitoring visit” in the introductory provisions of section 1(b)(7)(C) of the provisions setting out the model agreement.
 
-Pub. L. 116–180, § 205(2), inserted “subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5321),” before “such other provisions” in section 1(f)(2)(A)(ii) of the provisions setting out the model agreement.
+Pub. L. 116–180, § 205(2), inserted “subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5321),” before “such other provisions” in section 1(f)(2)(A)(ii) of the provisions setting out the model agreement.
 
-2000—Subsec. (c). Pub. L. 106–568 substituted “, section 16 of the Act of June 18, 1934” for “and section 16 of the Act of June 18, 1934” and “and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply” for “shall not apply” in section 1(b)(15)(A) of the provisions setting out the model agreement.
+2000—Subsec. (c). Pub. L. 106–568 substituted “, section 16 of the Act of June 18, 1934” for “and section 16 of the Act of June 18, 1934” and “and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply” for “shall not apply” in section 1(b)(15)(A) of the provisions setting out the model agreement.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Quarterly Payments of Funds to Tribes**
 
-Pub. L. 105–83, title III, § 311, Nov. 14, 1997, 111 Stat. 1590, provided that: “Notwithstanding Public Law 103–413 [see Short Title of 1994 Amendment note set out under section 5301 of this title], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to section 108 of Public Law 93–638 [25 U.S.C. 5329], as amended, beginning in fiscal year 1998 and therafter [sic], may be made on the first business day following the first day of a fiscal quarter.”
+Pub. L. 105–83, title III, § 311, Nov. 14, 1997, 111 Stat. 1590, provided that: “Notwithstanding Public Law 103–413 [see Short Title of 1994 Amendment note set out under section 5301 of this title], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to section 108 of Public Law 93–638 [25 U.S.C. 5329], as amended, beginning in fiscal year 1998 and therafter [sic], may be made on the first business day following the first day of a fiscal quarter.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title III, § 311], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221.
+Pub. L. 104–208, div. A, title I, § 101(d) [title III, § 311], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221.
 
-Pub. L. 104–134, title I, § 101(c) [title III, § 311], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title III, § 311], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-### § 5330. Rescission of contract or grant and assumption of control of program, etc.; authority; grounds; procedure; correction of violation as prerequisite to new contract or grant agreement; construction with occupational safety and health requirements
+### § 5330. Rescission of contract or grant and assumption of control of program, etc.; authority; grounds; procedure; correction of violation as prerequisite to new contract or grant agreement; construction with occupational safety and health requirements
 
-Each contract or grant agreement entered into pursuant to sections 5321 and 5322 1
+Each contract or grant agreement entered into pursuant to sections 5321 and 5322 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 of this title shall provide that in any case where the appropriate Secretary determines that the tribal organization’s performance under such contract or grant agreement involves (1) the violation of the rights or endangerment of the health, safety, or welfare of any persons; or (2) gross negligence or mismanagement in the handling or use of funds provided to the tribal organization pursuant to such contract or grant agreement, or in the management of trust fund, trust lands or interests in such lands pursuant to such contract or grant agreement, such Secretary may, under regulations prescribed by him and after providing notice and a hearing on the record to such tribal organization, rescind such contract or grant agreement, in whole or in part, and assume or resume control or operation of the program, activity, or service involved if he determines that the tribal organization has not taken corrective action as prescribed by the Secretary to remedy the contract deficiency, except that the appropriate Secretary may, upon written notice to a tribal organization, and the tribe served by the tribal organization, immediately rescind a contract or grant, in whole or in part, and resume control or operation of a program, activity, function, or service, if the Secretary finds that (i) there is an immediate threat of imminent harm to the safety of any person, or imminent substantial and irreparable harm to trust funds, trust lands, or interests in such lands, and (ii) such threat arises from the failure of the contractor to fulfill the requirements of the contract. In such cases, the Secretary shall provide the tribal organization with a hearing on the record within ten days or such later date as the tribal organization may approve. Such Secretary may decline to enter into a new contract or grant agreement and retain control of such program, activity, or service until such time as he is satisfied that the violations of rights or endangerment of health, safety, or welfare which necessitated the rescission has been corrected. In any hearing or appeal provided for under this section, the Secretary shall have the burden of proof to establish, by clearly demonstrating the validity of the grounds for rescinding, assuming, or reassuming the contract that is the subject of the hearing. Nothing in this section shall be construed as contravening the Occupational Safety and Health Act of 1970, as amended [29 U.S.C. 651 et seq.].
 
-(Pub. L. 93–638, title I, § 109, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 100–581, title II, § 211, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–301, § 2(a)(10), May 24, 1990, 104 Stat. 207; Pub. L. 103–413, title I, § 104(1), Oct. 25, 1994, 108 Stat. 4268.)
+(Pub. L. 93–638, title I, § 109, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 100–581, title II, § 211, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–301, § 2(a)(10), May 24, 1990, 104 Stat. 207; Pub. L. 103–413, title I, § 104(1), Oct. 25, 1994, 108 Stat. 4268.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 **Codification**
 
-Sections 5321 and 5322 of this title, referred to in text, was in the original “sections 102, 103, and 104 of this Act”, and was translated as meaning sections 102 and 103 of Pub. L. 93–638 because section 104 of Pub. L. 93–638 was renumbered section 103 and former section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed and the remainder of section 103 of Pub. L. 93–638 was redesignated as section 102(d) by Pub. L. 100–472, title II, §§ 201(b)(1), 202, Oct. 5, 1988, 102 Stat. 2289.
+Sections 5321 and 5322 of this title, referred to in text, was in the original “sections 102, 103, and 104 of this Act”, and was translated as meaning sections 102 and 103 of Pub. L. 93–638 because section 104 of Pub. L. 93–638 was renumbered section 103 and former section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed and the remainder of section 103 of Pub. L. 93–638 was redesignated as section 102(d) by Pub. L. 100–472, title II, §§ 201(b)(1), 202, Oct. 5, 1988, 102 Stat. 2289.
 
 Section was formerly classified to section 450m of this title prior to editorial reclassification and renumbering as this section.
 
 **Amendments**
 
-1994—Pub. L. 103–413 inserted “or in the management of trust fund, trust lands or interests in such lands pursuant to such contract or grant agreement,” after “pursuant to such contract or grant agreement,” and “, in whole or in part,” after “rescind such contract or grant agreement”, substituted “action as prescribed by the Secretary to remedy the contract deficiency, except that the appropriate Secretary may, upon written notice to a tribal organization, and the tribe served by the tribal organization, immediately rescind a contract or grant, in whole or in part, and resume control or operation of a program, activity, function, or service, if the Secretary finds that (i) there is an immediate threat of imminent harm to the safety of any person, or imminent substantial and irreparable harm to trust funds, trust lands, or interests in such lands, and (ii) such threat arises from the failure of the contractor to fulfill the requirements of the contract. In such cases, the Secretary” for “action as prescribed by him: *Provided*, That the appropriate Secretary may, upon notice to a tribal organization, immediately rescind a contract or grant and resume control or operation of a program, activity, or service if he finds that there is an immediate threat to safety and, in such cases, he”, struck out second period after “the tribal organization may approve”, and inserted before last sentence “In any hearing or appeal provided for under this section, the Secretary shall have the burden of proof to establish, by clearly demonstrating the validity of the grounds for rescinding, assuming, or reassuming the contract that is the subject of the hearing.”
+1994—Pub. L. 103–413 inserted “or in the management of trust fund, trust lands or interests in such lands pursuant to such contract or grant agreement,” after “pursuant to such contract or grant agreement,” and “, in whole or in part,” after “rescind such contract or grant agreement”, substituted “action as prescribed by the Secretary to remedy the contract deficiency, except that the appropriate Secretary may, upon written notice to a tribal organization, and the tribe served by the tribal organization, immediately rescind a contract or grant, in whole or in part, and resume control or operation of a program, activity, function, or service, if the Secretary finds that (i) there is an immediate threat of imminent harm to the safety of any person, or imminent substantial and irreparable harm to trust funds, trust lands, or interests in such lands, and (ii) such threat arises from the failure of the contractor to fulfill the requirements of the contract. In such cases, the Secretary” for “action as prescribed by him: *Provided*, That the appropriate Secretary may, upon notice to a tribal organization, immediately rescind a contract or grant and resume control or operation of a program, activity, or service if he finds that there is an immediate threat to safety and, in such cases, he”, struck out second period after “the tribal organization may approve”, and inserted before last sentence “In any hearing or appeal provided for under this section, the Secretary shall have the burden of proof to establish, by clearly demonstrating the validity of the grounds for rescinding, assuming, or reassuming the contract that is the subject of the hearing.”
 
 1990—Pub. L. 101–301 substituted “providing notice and a hearing” for “providing notice and hearing”.
 
@@ -2293,7 +2293,7 @@ Section was formerly classified to section 450m of this title prior to editorial
 
 Pub. L. 100–581 which directed amendment of this section by substituting “in such cases, he shall provide the tribal organization with a hearing on the record within ten days or such later date as the tribal organization may approve.” for “in such cases, he shall hold a hearing within ten days thereof” was executed by substituting the new language for “in such cases, he shall hold a hearing on such action within ten days thereof” to reflect the probable intent of Congress.
 
-### § 5331. Contract disputes and claims
+### § 5331. Contract disputes and claims
 
 **(a) Civil actions; concurrent jurisdiction; relief**
 
@@ -2305,23 +2305,23 @@ The Secretary shall not revise or amend a self-determination contract with a tri
 
 **(c) Application of laws to administrative appeals**
 
-The Equal Access to Justice Act (Publc 1
+The Equal Access to Justice Act (Publc 1
 
-<sup>1</sup>  So in original. Probably should be “Public”, “21,”, and “94”, respectively.
+<sup>1</sup> So in original. Probably should be “Public”, “21,”, and “94”, respectively.
 
-Law 96–481, Act of October 1,1 1980; 92 1 Stat. 2325, as amended), section 504 of title 5, and section 2412 of title 28 shall apply to administrative appeals pending on or filed after October 5, 1988, by tribal organizations regarding self-determination contracts.
+Law 96–481, Act of October 1,1 1980; 92 1 Stat. 2325, as amended), section 504 of title 5, and section 2412 of title 28 shall apply to administrative appeals pending on or filed after October 5, 1988, by tribal organizations regarding self-determination contracts.
 
 **(d) Application of chapter 71 of title 41**
 
 Chapter 71 of title 41 shall apply to self-determination contracts, except that all administrative appeals relating to such contracts shall be heard by the Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607).2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(e) Application of subsection (d)**
 
-Subsection (d) of this section shall apply to any case pending or commenced on or after March 17, 1986, before the Boards of Contract Appeals of the Department of the Interior or the Department of Health and Human Services <sup>2</sup> except that in any such cases finally disposed of before October 5, 1988, the thirty-day period referred to in section 504(a)(2) of title 5 shall be deemed to commence on October 5, 1988.
+Subsection (d) of this section shall apply to any case pending or commenced on or after March 17, 1986, before the Boards of Contract Appeals of the Department of the Interior or the Department of Health and Human Services <sup>2</sup> except that in any such cases finally disposed of before October 5, 1988, the thirty-day period referred to in section 504(a)(2) of title 5 shall be deemed to commence on October 5, 1988.
 
-(Pub. L. 93–638, title I, § 110, as added Pub. L. 100–472, title II, § 206(a), Oct. 5, 1988, 102 Stat. 2294; amended Pub. L. 100–581, title II, § 212, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–301, §§ 1(a)(2), 2(b), May 24, 1990, 104 Stat. 206, 207; Pub. L. 103–413, title I, § 104(2), (3), Oct. 25, 1994, 108 Stat. 4268.)
+(Pub. L. 93–638, title I, § 110, as added Pub. L. 100–472, title II, § 206(a), Oct. 5, 1988, 102 Stat. 2294; amended Pub. L. 100–581, title II, § 212, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–301, §§ 1(a)(2), 2(b), May 24, 1990, 104 Stat. 206, 207; Pub. L. 103–413, title I, § 104(2), (3), Oct. 25, 1994, 108 Stat. 4268.)
 
 **Editorial Notes**
 
@@ -2331,9 +2331,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 The Equal Access to Justice Act, referred to in subsec. (c), is Pub. L. 96–481, title II, Oct. 21, 1980, 94 Stat. 2325. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5, Government Organization and Employees, and Tables.
 
-The Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607), referred to in subsec. (d), terminated effective 1 year after Jan. 6, 2006, pursuant to section 847(g) of Pub. L. 109–163, set out as an Effective Date of 2006 Amendment note under section 5372a of Title 5, Government Organization and Employees. Any reference to such Board to be treated as referring to the Civilian Board of Contract Appeals pursuant to Pub. L. 109–163, div. A, title VIII, § 847(e), Jan. 6, 2006, 119 Stat. 3394, formerly set out in a note under section 607 of former Title 41, Public Contracts. The Civilian Board of Contract Appeals was established by section 42 of Pub. L. 93–400 which was classified to section 438 of former Title 41 prior to being repealed and restated as section 7105(b) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+The Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607), referred to in subsec. (d), terminated effective 1 year after Jan. 6, 2006, pursuant to section 847(g) of Pub. L. 109–163, set out as an Effective Date of 2006 Amendment note under section 5372a of Title 5, Government Organization and Employees. Any reference to such Board to be treated as referring to the Civilian Board of Contract Appeals pursuant to Pub. L. 109–163, div. A, title VIII, § 847(e), Jan. 6, 2006, 119 Stat. 3394, formerly set out in a note under section 607 of former Title 41, Public Contracts. The Civilian Board of Contract Appeals was established by section 42 of Pub. L. 93–400 which was classified to section 438 of former Title 41 prior to being repealed and restated as section 7105(b) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
-The Boards of Contract Appeals of the Department of the Interior or the Department of Health and Human Services, referred to in subsec. (e), terminated effective 1 year after Jan. 6, 2006, pursuant to section 847(g) of Pub. L. 109–163, set out as an Effective Date of 2006 Amendment note under section 5372a of Title 5, Government Organization and Employees. Any reference to such Boards to be treated as referring to the Civilian Board of Contract Appeals pursuant to Pub. L. 109–163, div. A, title VIII, § 847(e), Jan. 6, 2006, 119 Stat. 3394, formerly set out in a note under section 607 of former Title 41, Public Contracts. The Civilian Board of Contract Appeals was established by section 42 of Pub. L. 93–400 which was classified to section 438 of former Title 41 prior to being repealed and restated as section 7105(b) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+The Boards of Contract Appeals of the Department of the Interior or the Department of Health and Human Services, referred to in subsec. (e), terminated effective 1 year after Jan. 6, 2006, pursuant to section 847(g) of Pub. L. 109–163, set out as an Effective Date of 2006 Amendment note under section 5372a of Title 5, Government Organization and Employees. Any reference to such Boards to be treated as referring to the Civilian Board of Contract Appeals pursuant to Pub. L. 109–163, div. A, title VIII, § 847(e), Jan. 6, 2006, 119 Stat. 3394, formerly set out in a note under section 607 of former Title 41, Public Contracts. The Civilian Board of Contract Appeals was established by section 42 of Pub. L. 93–400 which was classified to section 438 of former Title 41 prior to being repealed and restated as section 7105(b) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
 October 5, 1988, referred to in subsec. (e), was in the original “the date of enactment of these amendments” and “the date of enactment of this subsection”, meaning the date of enactment of the Indian Self-Determination and Education Assistance Act Amendments of 1988, Pub. L. 100–472, which enacted this section.
 
@@ -2341,7 +2341,7 @@ October 5, 1988, referred to in subsec. (e), was in the original “the date of 
 
 Section was formerly classified to section 450m–1 of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (d), “Chapter 71 of title 41” substituted for “The Contract Disputes Act (Public Law 95–563, Act of November 1, 1978; 92 Stat. 2383, as amended)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), “Chapter 71 of title 41” substituted for “The Contract Disputes Act (Public Law 95–563, Act of November 1, 1978; 92 Stat. 2383, as amended)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Prior Provisions**
 
@@ -2349,23 +2349,23 @@ A prior section 110 of Pub. L. 93–638 was renumbered section 111 by Pub. L. 10
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–413, § 104(2), inserted before period at end “(including immediate injunctive relief to reverse a declination finding under section 5321(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract)”.
+1994—Subsec. (a). Pub. L. 103–413, § 104(2), inserted before period at end “(including immediate injunctive relief to reverse a declination finding under section 5321(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract)”.
 
-Subsec. (d). Pub. L. 103–413, § 104(3), inserted before period at end “, except that all administrative appeals relating to such contracts shall be heard by the Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607)”.
+Subsec. (d). Pub. L. 103–413, § 104(3), inserted before period at end “, except that all administrative appeals relating to such contracts shall be heard by the Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607)”.
 
-1990—Subsec. (a). Pub. L. 101–301, § 1(a)(2), made technical correction to directory language of Pub. L. 100–581, § 212(a). See 1988 Amendment note below.
+1990—Subsec. (a). Pub. L. 101–301, § 1(a)(2), made technical correction to directory language of Pub. L. 100–581, § 212(a). See 1988 Amendment note below.
 
-Subsec. (b). Pub. L. 101–301, § 2(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Unless otherwise agreed to by the resolution of tribal organization, the Secretary shall not revise or amend a self-determination contract with such tribal organization.”
+Subsec. (b). Pub. L. 101–301, § 2(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Unless otherwise agreed to by the resolution of tribal organization, the Secretary shall not revise or amend a self-determination contract with such tribal organization.”
 
-Subsec. (c). Pub. L. 101–301, § 1(a)(2), made technical correction to directory language of Pub. L. 100–581, § 212(c). See 1988 Amendment note below.
+Subsec. (c). Pub. L. 101–301, § 1(a)(2), made technical correction to directory language of Pub. L. 100–581, § 212(c). See 1988 Amendment note below.
 
-1988—Subsec. (a). Pub. L. 100–581, § 212(a), as amended by Pub. L. 101–301, § 1(a)(2), substituted “over any civil action” for “over civil action” after “Court of Claims,”.
+1988—Subsec. (a). Pub. L. 100–581, § 212(a), as amended by Pub. L. 101–301, § 1(a)(2), substituted “over any civil action” for “over civil action” after “Court of Claims,”.
 
-Subsec. (b). Pub. L. 100–581, § 212(b), substituted “of tribal organization” for “of an Indian tribe” and “such tribal organization” for “such tribe”.
+Subsec. (b). Pub. L. 100–581, § 212(b), substituted “of tribal organization” for “of an Indian tribe” and “such tribal organization” for “such tribe”.
 
-Subsec. (c). Pub. L. 100–581, § 212(c), as amended by Pub. L. 101–301, § 1(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Equal Access to Justice Act (Public Law 96–481, Act of October 1 [21], 1980; 94 Stat. 2325, as amended) shall apply to administrative appeals by tribal organizations regarding self-determination contracts.”
+Subsec. (c). Pub. L. 100–581, § 212(c), as amended by Pub. L. 101–301, § 1(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Equal Access to Justice Act (Public Law 96–481, Act of October 1 [21], 1980; 94 Stat. 2325, as amended) shall apply to administrative appeals by tribal organizations regarding self-determination contracts.”
 
-### § 5332. Sovereign immunity and trusteeship rights unaffected
+### § 5332. Sovereign immunity and trusteeship rights unaffected
 
 Nothing in this chapter shall be construed as—
 
@@ -2373,7 +2373,7 @@ Nothing in this chapter shall be construed as—
 
 **(2)** authorizing or requiring the termination of any existing trust responsibility of the United States with respect to the Indian people.
 
-(Pub. L. 93–638, title I, § 111, formerly § 110, Jan. 4, 1975, 88 Stat. 2213; renumbered § 111, Pub. L. 100–472, title II, § 206(b), Oct. 5, 1988, 102 Stat. 2295.)
+(Pub. L. 93–638, title I, § 111, formerly § 110, Jan. 4, 1975, 88 Stat. 2213; renumbered § 111, Pub. L. 100–472, title II, § 206(b), Oct. 5, 1988, 102 Stat. 2295.)
 
 **Editorial Notes**
 
@@ -2393,7 +2393,7 @@ Section was formerly classified to section 450n of this title prior to editorial
 
 Subchapter, consisting of sections 5341 to 5347 of this title, was not enacted as part of the Indian Self-Determination and Education Assistance Act which comprises this chapter.
 
-### § 5341. Donations for Indians; use of gifts; annual report to Congress
+### § 5341. Donations for Indians; use of gifts; annual report to Congress
 
 The Secretary of the Interior may accept donations of funds or other property for the advancement of the Indian race, and he may use the donated property in accordance with the terms of the donation in furtherance of any program authorized by other provision of law for the benefit of Indians. An annual report shall be made to the Congress on donations received and allocations made from such donations. This report shall include administrative costs and other pertinent data.
 
@@ -2417,11 +2417,11 @@ Section was formerly classified to section 451 of this title prior to editorial 
 
 For termination, effective May 15, 2000, of provisions in this section relating to making an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 113 of House Document No. 103–7.
 
-### § 5342. Contracts for education, medical attention, relief and social welfare of Indians
+### § 5342. Contracts for education, medical attention, relief and social welfare of Indians
 
 The Secretary of the Interior is authorized, in his discretion, to enter into a contract or contracts with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution, for the education, medical attention, agricultural assistance, and social welfare, including relief of distress, of Indians in such State or Territory, through the agencies of the State or Territory or of the corporations and organizations hereinbefore named, and to expend under such contract or contracts, moneys appropriated by Congress for the education, medical attention, agricultural assistance, and social welfare, including relief of distress, of Indians in such State or Territory.
 
-(Apr. 16, 1934, ch. 147, § 1, 48 Stat. 596; June 4, 1936, ch. 490, § 1, 49 Stat. 1458.)
+(Apr. 16, 1934, ch. 147, § 1, 48 Stat. 596; June 4, 1936, ch. 490, § 1, 49 Stat. 1458.)
 
 **Editorial Notes**
 
@@ -2445,17 +2445,17 @@ Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1795, provided that: “no
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 100–202, § 101(g) [title I], Dec. 22, 1987, 101 Stat. 1329–213, 1329–228.
+Pub. L. 100–202, § 101(g) [title I], Dec. 22, 1987, 101 Stat. 1329–213, 1329–228.
 
 **Limitation on Contract Authority**
 
-Pub. L. 99–190, § 101(d) [title I], Dec. 19, 1985, 99 Stat. 1224, 1235, provided that: “notwithstanding any law or regulation, in allocating funds for aid to public schools under the Act of April 16, 1934, as amended [25 U.S.C. 5342 et seq.], the Secretary shall enter into contracts only for the provision of supplementary educational services for Indian children”.
+Pub. L. 99–190, § 101(d) [title I], Dec. 19, 1985, 99 Stat. 1224, 1235, provided that: “notwithstanding any law or regulation, in allocating funds for aid to public schools under the Act of April 16, 1934, as amended [25 U.S.C. 5342 et seq.], the Secretary shall enter into contracts only for the provision of supplementary educational services for Indian children”.
 
-### § 5343. Use of Government property by States and Territories
+### § 5343. Use of Government property by States and Territories
 
 The Secretary of the Interior, in making any contract authorized by sections 5342 to 5348 of this title, may permit such contracting party to utilize, for the purposes of said sections, existing school buildings, hospitals, and other facilities, and all equipment therein or appertaining thereto, including livestock and other personal property owned by the Government, under such terms and conditions as may be agreed upon for their use and maintenance.
 
-(Apr. 16, 1934, ch. 147, § 2, 48 Stat. 596; June 4, 1936, ch. 490, § 2, 49 Stat. 1459.)
+(Apr. 16, 1934, ch. 147, § 2, 48 Stat. 596; June 4, 1936, ch. 490, § 2, 49 Stat. 1459.)
 
 **Editorial Notes**
 
@@ -2465,13 +2465,13 @@ Section was formerly classified to section 453 of this title prior to editorial 
 
 **Amendments**
 
-1936—Act June 4, 1936, substituted “, may permit such contracting party” for “with any State or Territory, may permit such State or Territory”.
+1936—Act June 4, 1936, substituted “, may permit such contracting party” for “with any State or Territory, may permit such State or Territory”.
 
-### § 5344. Rules and regulations; minimum standards of service
+### § 5344. Rules and regulations; minimum standards of service
 
 The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations, including minimum standards of service, as may be necessary and proper for the purpose of carrying the provisions of sections 5342 to 5348 of this title into effect: *Provided*, That such minimum standards of service are not less than the highest maintained by the States or Territories within which said contract or contracts, as herein provided, are to be effective.
 
-(Apr. 16, 1934, ch. 147, § 3, 48 Stat. 596; June 4, 1936, ch. 490, § 3, 49 Stat. 1459.)
+(Apr. 16, 1934, ch. 147, § 3, 48 Stat. 596; June 4, 1936, ch. 490, § 3, 49 Stat. 1459.)
 
 **Editorial Notes**
 
@@ -2483,11 +2483,11 @@ Section was formerly classified to section 454 of this title prior to editorial 
 
 1936—Act June 4, 1936, substituted “within which” for “with which”.
 
-### § 5345. Contracts for education in public schools; submission of education plan by contractor as prerequisite; criteria for approval of plan by Secretary of the Interior; participation by non-Indian students
+### § 5345. Contracts for education in public schools; submission of education plan by contractor as prerequisite; criteria for approval of plan by Secretary of the Interior; participation by non-Indian students
 
 The Secretary of the Interior shall not enter into any contract for the education of Indians unless the prospective contractor has submitted to, and has had approved by the Secretary of the Interior, an education plan, which plan, in the determination of the Secretary, contains educational objectives which adequately address the educational needs of the Indian students who are to be beneficiaries of the contract and assures that the contract is capable of meeting such objectives: *Provided*, That where students other than Indian students participate in such programs, money expended under such contract shall be prorated to cover the participation of only the Indian students.
 
-(Apr. 16, 1934, ch. 147, § 4, as added Pub. L. 93–638, title II, § 202, Jan. 4, 1975, 88 Stat. 2213.)
+(Apr. 16, 1934, ch. 147, § 4, as added Pub. L. 93–638, title II, § 202, Jan. 4, 1975, 88 Stat. 2213.)
 
 **Editorial Notes**
 
@@ -2497,9 +2497,9 @@ Section was formerly classified to section 455 of this title prior to editorial 
 
 **Prior Provisions**
 
-A prior section 4 of act Apr. 16, 1934, ch. 147, 48 Stat. 596; June 4, 1936, ch. 490, 49 Stat. 1458, directed Secretary of the Interior to report to Congress any contracts made under provisions of sections 5342 to 5344 of this title, prior to repeal by Pub. L. 86–533, § 1(15), June 29, 1960, 74 Stat. 248.
+A prior section 4 of act Apr. 16, 1934, ch. 147, 48 Stat. 596; June 4, 1936, ch. 490, 49 Stat. 1458, directed Secretary of the Interior to report to Congress any contracts made under provisions of sections 5342 to 5344 of this title, prior to repeal by Pub. L. 86–533, § 1(15), June 29, 1960, 74 Stat. 248.
 
-### § 5346. Local committee of Indian parents in school districts having school boards composed of non-Indian majority
+### § 5346. Local committee of Indian parents in school districts having school boards composed of non-Indian majority
 
 **(a) Election; functions**
 
@@ -2509,7 +2509,7 @@ Whenever a school district affected by a contract or contracts for the education
 
 The Secretary of the Interior may, in his discretion, revoke any contract if the contractor fails to permit a local committee to perform its duties pursuant to subsection (a) of this section.
 
-(Apr. 16, 1934, ch. 147, § 5, as added Pub. L. 93–638, title II, § 202, Jan. 4, 1975, 88 Stat. 2213; amended Pub. L. 103–382, title III, § 393(d), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title VII, § 702(e), Jan. 8, 2002, 115 Stat. 1947; Pub. L. 114–95, title IX, § 9215(a), Dec. 10, 2015, 129 Stat. 2166.)
+(Apr. 16, 1934, ch. 147, § 5, as added Pub. L. 93–638, title II, § 202, Jan. 4, 1975, 88 Stat. 2213; amended Pub. L. 103–382, title III, § 393(d), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title VII, § 702(e), Jan. 8, 2002, 115 Stat. 1947; Pub. L. 114–95, title IX, § 9215(a), Dec. 10, 2015, 129 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -2535,11 +2535,11 @@ A prior section 5 of act Apr. 16, 1934, ch. 147, 48 Stat. 596, which excluded Ok
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
-### § 5347. Reimbursement to school districts for educating non-resident students
+### § 5347. Reimbursement to school districts for educating non-resident students
 
 Any school district educating Indian students who are members of recognized Indian tribes, who do not normally reside in the State in which such school district is located, and who are residing in Federal boarding facilities for the purposes of attending public schools within such district may, in the discretion of the Secretary of the Interior, be reimbursed by him for the full per capita costs of educating such Indian students.
 
-(Apr. 16, 1934, ch. 147, § 6, as added Pub. L. 93–638, title II, § 202, Jan. 4, 1975, 88 Stat. 2214.)
+(Apr. 16, 1934, ch. 147, § 6, as added Pub. L. 93–638, title II, § 202, Jan. 4, 1975, 88 Stat. 2214.)
 
 **Editorial Notes**
 
@@ -2547,7 +2547,7 @@ Any school district educating Indian students who are members of recognized Indi
 
 Section was formerly classified to section 457 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5348. Computation of student count
+### § 5348. Computation of student count
 
 **(a) Definitions** For the purposes of sections 5342 to 5348 of this title, the following definitions apply:
 
@@ -2765,7 +2765,7 @@ The Secretary shall ensure that data is collected and each report is prepared un
 
 **(2)** replaces or diminishes the effect of regulations to carry out sections 5342 to 5348 of this title existing on the day before December 31, 2018, unless expressly provided in this section.
 
-(Apr. 16, 1934, ch. 147, § 7, as added Pub. L. 115–404, § 2, Dec. 31, 2018, 132 Stat. 5349.)
+(Apr. 16, 1934, ch. 147, § 7, as added Pub. L. 115–404, § 2, Dec. 31, 2018, 132 Stat. 5349.)
 
 **Editorial Notes**
 
@@ -2773,11 +2773,11 @@ The Secretary shall ensure that data is collected and each report is prepared un
 
 The Johnson-O’Malley Supplemental Indian Education Program Modernization Act, referred to subsec. (a)(4), is Pub. L. 115–404, Dec. 31, 2018, 132 Stat. 5349, which enacted this section and provisions set out as a note under section 5301 of this title. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 5301 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 ## SUBCHAPTER III—INDIAN EDUCATION ASSISTANCE
 
-### § 5351. School construction, acquisition, or renovation contracts
+### § 5351. School construction, acquisition, or renovation contracts
 
 **(a) Authorization; prerequisites**
 
@@ -2785,11 +2785,11 @@ The Secretary is authorized to enter into a contract or contracts with any State
 
 **(b) Eligibility requirements for assistance in federally-affected areas; applicability to projects in determining maximum amount, allocation, of funds, etc.**
 
-The Secretary may expend not less than 75 per centum of such funds as are authorized and appropriated pursuant to this section on those projects which meet the eligibility requirements under subsections (a) and (b) of section 644 1
+The Secretary may expend not less than 75 per centum of such funds as are authorized and appropriated pursuant to this section on those projects which meet the eligibility requirements under subsections (a) and (b) of section 644 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 20. Such funds shall be allocated on the basis of existing funding priorities, if any, established by the Secretary of Education under subsections (a) and (b) of section 644 1 of title 20. The Secretary of Education is directed to submit to the Secretary, at the beginning of each fiscal year, commencing with the first full fiscal year after January 4, 1975, a list of those projects eligible for funding under subsections (a) and (b) of section 644 1 of title 20.
+of title 20. Such funds shall be allocated on the basis of existing funding priorities, if any, established by the Secretary of Education under subsections (a) and (b) of section 644 1 of title 20. The Secretary of Education is directed to submit to the Secretary, at the beginning of each fiscal year, commencing with the first full fiscal year after January 4, 1975, a list of those projects eligible for funding under subsections (a) and (b) of section 644 1 of title 20.
 
 **(c) Eligibility of private schools to receive funds; maximum amount**
 
@@ -2807,7 +2807,7 @@ The Secretary shall consult with the entity designated pursuant to section 5346 
 
 **(f) Evaluation and report to Congress of effectiveness of construction, etc., programs; scope and content of report** Within ninety days following the expiration of the three year period following January 4, 1975, the Secretary shall evaluate the effectiveness of the program pursuant to this section and transmit a report of such evaluation to the Congress. Such report shall include—
 
-**(1)** an analysis of construction costs and the impact on such costs of the provisions of subsection (f) of this section and the Act of March 3, 1921 (46 Stat. 1491), as amended; <sup>1</sup>
+**(1)** an analysis of construction costs and the impact on such costs of the provisions of subsection (f) of this section and the Act of March 3, 1921 (46 Stat. 1491), as amended; <sup>1</sup>
 
 **(2)** a description of the working relationship between the Department of the Interior and the Department of Education including any memorandum of understanding in connection with the acquisition of data pursuant to subsection (b) of this section;
 
@@ -2815,21 +2815,21 @@ The Secretary shall consult with the entity designated pursuant to section 5346 
 
 **(4)** a description of the working relationship of the Department of the Interior with local or State educational agencies in connection with the contracting for construction, acquisition, or renovation of school facilities pursuant to this section; and
 
-**(5)** the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) of section 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
+**(5)** the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) of section 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
 
 **(g) Authorization of appropriations**
 
 For the purpose of carrying out the provisions of this section, there is authorized to be appropriated the sum of $35,000,000 for the fiscal year ending June 30, 1974; $35,000,000 for each of the four succeeding fiscal years; and thereafter, such sums as may be necessary, all of such sums to remain available until expended.
 
-(Pub. L. 93–638, title II, § 204, Jan. 4, 1975, 88 Stat. 2214; Pub. L. 96–88, title III, § 301, title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 93–638, title II, § 204, Jan. 4, 1975, 88 Stat. 2214; Pub. L. 96–88, title III, § 301, title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 644 of title 20, referred to in subsecs. (b) and (f)(5), was repealed by Pub. L. 103–382, title III, § 331(a), Oct. 20, 1994, 108 Stat. 3965.
+Section 644 of title 20, referred to in subsecs. (b) and (f)(5), was repealed by Pub. L. 103–382, title III, § 331(a), Oct. 20, 1994, 108 Stat. 3965.
 
-Act of March 3, 1921, referred to in subsec. (f)(1), probably means the act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, known as the Davis-Bacon Act, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Act of March 3, 1921, referred to in subsec. (f)(1), probably means the act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, known as the Davis-Bacon Act, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 **Codification**
 
@@ -2845,11 +2845,11 @@ For short title of this subchapter as the “Indian Education Assistance Act”,
 
 “Secretary of Education” substituted for “United States Commissioner of Education” in subsec. (b), and “Department of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (f)(2), (5), pursuant to sections 301 and 507 of Pub. L. 96–88, which is classified to sections 3441 and 3507 of Title 20, Education, and which transferred functions and offices (relating to education) of Commissioner of Education and Department of Health, Education, and Welfare to Secretary and Department of Education.
 
-### § 5352. General education contract and grant provisions and requirements; school district quality and standards of excellence
+### § 5352. General education contract and grant provisions and requirements; school district quality and standards of excellence
 
 No funds from any grant or contract pursuant to this subchapter shall be made available to any school district unless the Secretary is satisfied that the quality and standard of education, including facilities and auxiliary services, for Indian students enrolled in the schools of such district are at least equal to that provided all other students from resources, other than resources provided in this subchapter, available to the local school district.
 
-(Pub. L. 93–638, title II, § 205, Jan. 4, 1975, 88 Stat. 2216.)
+(Pub. L. 93–638, title II, § 205, Jan. 4, 1975, 88 Stat. 2216.)
 
 **Editorial Notes**
 
@@ -2861,11 +2861,11 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 Section was formerly classified to section 458a of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5353. Availability of funds to agencies, institutions, and organizations
+### § 5353. Availability of funds to agencies, institutions, and organizations
 
 No funds from any contract or grant pursuant to this subchapter shall be made available by any Federal agency directly to other than public agencies and Indian tribes, institutions, and organizations: *Provided*, That school districts, State education agencies, and Indian tribes, institutions, and organizations assisted by this subchapter may use funds provided herein to contract for necessary services with any appropriate individual, organization, or corporation.
 
-(Pub. L. 93–638, title II, § 206, Jan. 4, 1975, 88 Stat. 2216.)
+(Pub. L. 93–638, title II, § 206, Jan. 4, 1975, 88 Stat. 2216.)
 
 **Editorial Notes**
 
@@ -2873,7 +2873,7 @@ No funds from any contract or grant pursuant to this subchapter shall be made av
 
 Section was formerly classified to section 458b of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5354. Rules and regulations
+### § 5354. Rules and regulations
 
 **(a) Prerequisites for promulgation**
 
@@ -2889,7 +2889,7 @@ Section was formerly classified to section 458b of this title prior to editorial
 
 The Secretary is authorized to revise and amend any rules or regulations promulgated pursuant to subsection (a) of this section: *Provided*, That prior to any revision or amendment to such rules or regulations the Secretary shall, to the extent practicable, consult with appropriate national and regional Indian organizations, and shall publish any proposed revisions in the Federal Register not less than sixty days prior to the effective date of such rules and regulations in order to provide adequate notice to, and receive comments from, other interested parties.
 
-(Pub. L. 93–638, title II, § 207, Jan. 4, 1975, 88 Stat. 2216.)
+(Pub. L. 93–638, title II, § 207, Jan. 4, 1975, 88 Stat. 2216.)
 
 **Editorial Notes**
 
@@ -2905,15 +2905,15 @@ Committee on Interior and Insular Affairs of the Senate abolished and replaced b
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-### § 5355. Eligibility for funds of tribe or tribal organization controlling or managing private schools
+### § 5355. Eligibility for funds of tribe or tribal organization controlling or managing private schools
 
-The Secretary is authorized and directed to provide funds, pursuant to this chapter; the the 1
+The Secretary is authorized and directed to provide funds, pursuant to this chapter; the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Act of April 16, 1934 (48 Stat. 596), as amended [25 U.S.C. 5342 et seq.]; or any other authority granted to him to any tribe or tribal organization which controls and manages any previously private school.
 
-(Pub. L. 93–638, title II, § 208, Jan. 4, 1975, 88 Stat. 2216; Pub. L. 97–375, title I, § 108(d), Dec. 21, 1982, 96 Stat. 1820.)
+(Pub. L. 93–638, title II, § 208, Jan. 4, 1975, 88 Stat. 2216; Pub. L. 97–375, title I, § 108(d), Dec. 21, 1982, 96 Stat. 1820.)
 
 **Editorial Notes**
 
@@ -2931,11 +2931,11 @@ Section was formerly classified to section 458d of this title prior to editorial
 
 1982—Pub. L. 97–375 struck out provisions relating to annual reporting requirements of Secretary to Congressional committees respecting educational assistance program conducted pursuant to this section.
 
-### § 5356. Supplemental assistance to funds provided to local educational agencies
+### § 5356. Supplemental assistance to funds provided to local educational agencies
 
 The assistance provided in this chapter for the education of Indians in the public schools of any State is in addition and supplemental to assistance provided under title VI of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 7401 et seq.].
 
-(Pub. L. 93–638, title II, § 209, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 103–382, title III, § 393(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 114–95, title IX, § 9215(rr), Dec. 10, 2015, 129 Stat. 2181.)
+(Pub. L. 93–638, title II, § 209, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 103–382, title III, § 393(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 114–95, title IX, § 9215(rr), Dec. 10, 2015, 129 Stat. 2181.)
 
 **Editorial Notes**
 
@@ -2943,7 +2943,7 @@ The assistance provided in this chapter for the education of Indians in the publ
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 **Codification**
 
@@ -2957,7 +2957,7 @@ Section was formerly classified to section 458e of this title prior to editorial
 
 ## SUBCHAPTER IV—TRIBAL SELF-GOVERNANCE—DEPARTMENT OF THE INTERIOR
 
-### § 5361. Definitions
+### § 5361. Definitions
 
 In this subchapter:
 
@@ -3021,7 +3021,7 @@ The term “self-governance” means the Tribal Self-Governance Program establis
 
 **(B)** quantifies or otherwise defines any water right of the Indian Tribe.
 
-(Pub. L. 93–638, title IV, § 401, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4271; Pub. L. 116–180, title I, § 101(b), Oct. 21, 2020, 134 Stat. 858.)
+(Pub. L. 93–638, title IV, § 401, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4271; Pub. L. 116–180, title I, § 101(b), Oct. 21, 2020, 134 Stat. 858.)
 
 **Editorial Notes**
 
@@ -3041,7 +3041,7 @@ For short title of this subchapter as the “Tribal Self-Governance Act of 1994�
 
 **Construction of 2020 Amendment**
 
-Pub. L. 116–180, title I, § 101(a), Oct. 21, 2020, 134 Stat. 857, provided that:
+Pub. L. 116–180, title I, § 101(a), Oct. 21, 2020, 134 Stat. 857, provided that:
 
 > “Nothing in this Act [see Short Title of 2020 Amendment note set out under section 5301 of this title], or the amendments made by this Act, shall be construed—
 
@@ -3065,11 +3065,11 @@ Pub. L. 116–180, title I, § 101(a), Oct. 21, 2020, 134 Stat. 857, provided 
 
 **Application of Other Provisions**
 
-Pub. L. 116–180, title II, § 201(d), Oct. 21, 2020, 134 Stat. 879, provided that: “Sections 4, 5, 6, 7, 102(c), 104, 105(a)(1), 105(f), 110, and 111 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304, 5305, 5306, 5307, 5321(c), 5323, 5324(a)(1), 5324(f), 5331, and 5332) and section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (Public Law 101–512; 104 Stat. 1959) [25 U.S.C. 5321 note], apply to compacts and funding agreements entered into under title IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5361 et seq.).”
+Pub. L. 116–180, title II, § 201(d), Oct. 21, 2020, 134 Stat. 879, provided that: “Sections 4, 5, 6, 7, 102(c), 104, 105(a)(1), 105(f), 110, and 111 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304, 5305, 5306, 5307, 5321(c), 5323, 5324(a)(1), 5324(f), 5331, and 5332) and section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (Public Law 101–512; 104 Stat. 1959) [25 U.S.C. 5321 note], apply to compacts and funding agreements entered into under title IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5361 et seq.).”
 
 **Congressional Statement of Findings**
 
-Pub. L. 103–413, title II, § 202, Oct. 25, 1994, 108 Stat. 4270, provided that:
+Pub. L. 103–413, title II, § 202, Oct. 25, 1994, 108 Stat. 4270, provided that:
 
 > “Congress finds that—
 
@@ -3079,7 +3079,7 @@ Pub. L. 103–413, title II, § 202, Oct. 25, 1994, 108 Stat. 4270, provided t
 
 > **“(3)** although progress has been made, the Federal bureaucracy, with its centralized rules and regulations, has eroded tribal self-governance and dominates tribal affairs;
 
-> **“(4)** the Tribal Self-Governance Demonstration Project [see Pub. L. 93–638, title III, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, formerly set out as a note under former 25 U.S.C. 450f] was designed to improve and perpetuate the government-to-government relationship between Indian tribes and the United States and to strengthen tribal control over Federal funding and program management; and
+> **“(4)** the Tribal Self-Governance Demonstration Project [see Pub. L. 93–638, title III, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, formerly set out as a note under former 25 U.S.C. 450f] was designed to improve and perpetuate the government-to-government relationship between Indian tribes and the United States and to strengthen tribal control over Federal funding and program management; and
 
 > **“(5)** Congress has reviewed the results of the Tribal Self-Governance Demonstration Project and finds that—
 
@@ -3089,7 +3089,7 @@ Pub. L. 103–413, title II, § 202, Oct. 25, 1994, 108 Stat. 4270, provided t
 
 **Congressional Declaration of Policy**
 
-Pub. L. 103–413, title II, § 203, Oct. 25, 1994, 108 Stat. 4271, provided that:
+Pub. L. 103–413, title II, § 203, Oct. 25, 1994, 108 Stat. 4271, provided that:
 
 > “It is the policy of this title [enacting this subchapter] to permanently establish and implement tribal self-governance—
 
@@ -3105,7 +3105,7 @@ Pub. L. 103–413, title II, § 203, Oct. 25, 1994, 108 Stat. 4271, provided t
 
 > **“(6)** to provide for an orderly transition through a planned and measurable parallel reduction in the Federal bureaucracy.”
 
-### § 5362. Tribal Self-Governance Program
+### § 5362. Tribal Self-Governance Program
 
 **(a) Establishment**
 
@@ -3223,13 +3223,13 @@ An Indian Tribe seeking to begin participation in self-governance shall complete
 
 Receipt of a grant under paragraph (1) shall not be a requirement of participation in self-governance.
 
-(Pub. L. 93–638, title IV, § 402, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 117], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 116–180, title I, § 101(c), Oct. 21, 2020, 134 Stat. 859.)
+(Pub. L. 93–638, title IV, § 402, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 117], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 116–180, title I, § 101(c), Oct. 21, 2020, 134 Stat. 859.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter I, referred to in subsec. (b)(4)(F), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I, referred to in subsec. (b)(4)(F), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -3241,7 +3241,7 @@ Section was formerly classified to section 458bb of this title prior to editoria
 
 1996—Subsec. (b)(1). Pub. L. 104–208 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In addition to those Indian tribes participating in Self-Governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 20 new tribes per year from the applicant pool described in subsection (c) of this section to participate in Self-Governance.”
 
-### § 5363. Funding agreements
+### § 5363. Funding agreements
 
 **(a) Authorization** The Secretary shall, on the request of any Indian Tribe or Tribal organization, negotiate and enter into a written funding agreement with the governing body of the Indian Tribe or the Tribal organization in a manner consistent with—
 
@@ -3255,9 +3255,9 @@ Section was formerly classified to section 458bb of this title prior to editoria
 
 **(A)** any program, service, function, and activity, or portion thereof, administered under the authority of—
 
-**(i)** the Act of April 16, 1934 (25 U.S.C. 452 et seq.); 1
+**(i)** the Act of April 16, 1934 (25 U.S.C. 452 et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -3393,7 +3393,7 @@ Disputes over the implementation of paragraph (1)(A) shall be subject to section
 
 An Indian Tribe may, at the discretion of the Indian Tribe, negotiate with the Secretary for a funding agreement with a term that exceeds 1 year.
 
-(Pub. L. 93–638, title IV, § 403, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, § 19, Feb. 12, 1996, 110 Stat. 766; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 106–568, title VIII, § 812(b), Dec. 27, 2000, 114 Stat. 2917; Pub. L. 110–315, title IX, § 941(k)(2)(H), Aug. 14, 2008, 122 Stat. 3467; Pub. L. 116–180, title I, § 101(d), Oct. 21, 2020, 134 Stat. 862; Pub. L. 116–260, div. DD, § 13(a)(3), Dec. 27, 2020, 134 Stat. 3033.)
+(Pub. L. 93–638, title IV, § 403, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, § 19, Feb. 12, 1996, 110 Stat. 766; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 106–568, title VIII, § 812(b), Dec. 27, 2000, 114 Stat. 2917; Pub. L. 110–315, title IX, § 941(k)(2)(H), Aug. 14, 2008, 122 Stat. 3467; Pub. L. 116–180, title I, § 101(d), Oct. 21, 2020, 134 Stat. 862; Pub. L. 116–260, div. DD, § 13(a)(3), Dec. 27, 2020, 134 Stat. 3033.)
 
 **Editorial Notes**
 
@@ -3403,33 +3403,33 @@ Act of April 16, 1934 (25 U.S.C. 452 et seq.), referred to in subsec. (b)(1)(A)(
 
 This chapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Title III of this Act, referred to in subsecs. (g)(2) and (*l*), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
+Title III of this Act, referred to in subsecs. (g)(2) and (*l*), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
 
 The Act of July 3, 1952, referred to in subsec. (h)(2), is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
 
-Subchapter I of this chapter, referred to in subsec. (*l*), was in the original “title I of this Act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I of this chapter, referred to in subsec. (*l*), was in the original “title I of this Act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (m)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (m)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 458cc of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (e)(1), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement and Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e)(1), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement and Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–180, § 101(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall negotiate and enter into an annual written funding agreement with the governing body of each participating tribal government in a manner consistent with the Federal Government’s laws and trust relationship to and responsibility for the Indian people.”
+2020—Subsec. (a). Pub. L. 116–180, § 101(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall negotiate and enter into an annual written funding agreement with the governing body of each participating tribal government in a manner consistent with the Federal Government’s laws and trust relationship to and responsibility for the Indian people.”
 
-Subsec. (b)(1). Pub. L. 116–180, § 101(d)(2)(A), in introductory provisions, substituted “the Office of the Assistant Secretary for Indian Affairs, and the Office of the Special Trustee for American Indians, without regard to the agency or office of that Bureau or those Offices” for “without regard to the agency or office of the Bureau of Indian Affairs” and “and including—” for “and including”, inserted subpar. (A) designation before “any program”, added subpar. (C), and redesignated former subpars. (A), (B), and (C) as subpars. (A)(i), (A)(ii), and (B), respectively, and realigned margins.
+Subsec. (b)(1). Pub. L. 116–180, § 101(d)(2)(A), in introductory provisions, substituted “the Office of the Assistant Secretary for Indian Affairs, and the Office of the Special Trustee for American Indians, without regard to the agency or office of that Bureau or those Offices” for “without regard to the agency or office of the Bureau of Indian Affairs” and “and including—” for “and including”, inserted subpar. (A) designation before “any program”, added subpar. (C), and redesignated former subpars. (A), (B), and (C) as subpars. (A)(i), (A)(ii), and (B), respectively, and realigned margins.
 
-Subsec. (b)(2). Pub. L. 116–180, § 101(d)(2)(B), substituted “section 5372(c) of this title” for “section 5365(c) of this title” and inserted “and” at end.
+Subsec. (b)(2). Pub. L. 116–180, § 101(d)(2)(B), substituted “section 5372(c) of this title” for “section 5365(c) of this title” and inserted “and” at end.
 
-Subsec. (b)(3). Pub. L. 116–180, § 101(d)(2)(C), substituted period for semicolon at end.
+Subsec. (b)(3). Pub. L. 116–180, § 101(d)(2)(C), substituted period for semicolon at end.
 
-Subsec. (b)(4). Pub. L. 116–260, which directed amendment of par. (4) by adding “and” at end of subpar. (A), striking out “and” at end of subpar. (B), and striking out subpar. (C), could not be executed due to intervening amendment by Pub. 116–180, § 101(d)(2)(D). See note below.
+Subsec. (b)(4). Pub. L. 116–260, which directed amendment of par. (4) by adding “and” at end of subpar. (A), striking out “and” at end of subpar. (B), and striking out subpar. (C), could not be executed due to intervening amendment by Pub. 116–180, § 101(d)(2)(D). See note below.
 
-Pub. L. 116–180, § 101(d)(2)(D), struck out par. (4) which read as follows: “prohibit the inclusion of funds provided—
+Pub. L. 116–180, § 101(d)(2)(D), struck out par. (4) which read as follows: “prohibit the inclusion of funds provided—
 
 “(A) pursuant to the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801 et seq.);
 
@@ -3437,17 +3437,17 @@ Pub. L. 116–180, § 101(d)(2)(D), struck out par. (4) which read as follows:
 
 “(C) the Flathead Agency Irrigation Division or the Flathead Agency Power Division, except that nothing in this section shall affect the contract authority of such divisions under section 5321 of this title;”.
 
-Subsec. (b)(5) to (9). Pub. L. 116–180, § 101(d)(2)(D), struck out pars. (5) to (9) which set out various requirements and responsibilities related to funding agreements.
+Subsec. (b)(5) to (9). Pub. L. 116–180, § 101(d)(2)(D), struck out pars. (5) to (9) which set out various requirements and responsibilities related to funding agreements.
 
-Subsec. (f). Pub. L. 116–180, § 101(d)(3), struck out “for review” after “Submission” in heading, substituted “such agreement to” for “such agreement to—”, struck out par. (1) designation before “each Indian tribe”, substituted “agreement.” for “agreement;”, and struck out pars. (2) and (3) which read as follows:
+Subsec. (f). Pub. L. 116–180, § 101(d)(3), struck out “for review” after “Submission” in heading, substituted “such agreement to” for “such agreement to—”, struck out par. (1) designation before “each Indian tribe”, substituted “agreement.” for “agreement;”, and struck out pars. (2) and (3) which read as follows:
 
 “(2) the Committee on Indian Affairs of the Senate; and
 
 “(3) the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives.”
 
-Subsec. (k). Pub. L. 116–180, § 101(d)(4), substituted “section 5372(c) of this title” for “section 5365(c)(1) of this title”.
+Subsec. (k). Pub. L. 116–180, § 101(d)(4), substituted “section 5372(c) of this title” for “section 5365(c)(1) of this title”.
 
-Subsecs. (m) to (p). Pub. L. 116–180, § 101(d)(5), added subsecs. (m) to (p).
+Subsecs. (m) to (p). Pub. L. 116–180, § 101(d)(5), added subsecs. (m) to (p).
 
 2008—Subsec. (b)(4)(A). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
@@ -3463,7 +3463,7 @@ Subsecs. (m) to (p). Pub. L. 116–180, § 101(d)(5), added subsecs. (m) to (p
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 5364. Compacts
+### § 5364. Compacts
 
 **(a) In general**
 
@@ -3497,15 +3497,15 @@ A compact under subsection (a) may be amended only by agreement of the parties.
 
 **(2)** to negotiate a new compact in a manner consistent with this subchapter.
 
-(Pub. L. 93–638, title IV, § 404, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864.)
+(Pub. L. 93–638, title IV, § 404, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5364, Pub. L. 93–638, title IV, § 404, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4275, related to identification of funds in annual budget request, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See section 5371 of this title. Such section was formerly classified to section 458dd of this title prior to editorial reclassification and renumbering as section 5364.
+A prior section 5364, Pub. L. 93–638, title IV, § 404, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4275, related to identification of funds in annual budget request, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See section 5371 of this title. Such section was formerly classified to section 458dd of this title prior to editorial reclassification and renumbering as section 5364.
 
-### § 5365. General provisions
+### § 5365. General provisions
 
 **(a) Applicability**
 
@@ -3577,15 +3577,15 @@ Unless an Indian Tribe specifies otherwise in the compact or funding agreement, 
 
 **(B)** on a notice period of not less than 30 days, provide the Secretary with reasonable access to the records to enable the Department to meet the requirements of sections 3101 through 3106 of title 44.
 
-(Pub. L. 93–638, title IV, § 405, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 865.)
+(Pub. L. 93–638, title IV, § 405, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 865.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5365, Pub. L. 93–638, title IV, § 405, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4276, related to reports, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See section 5372 of this title. Such section was formerly classified to section 458ee of this title prior to editorial reclassification and renumbering as section 5365.
+A prior section 5365, Pub. L. 93–638, title IV, § 405, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4276, related to reports, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See section 5372 of this title. Such section was formerly classified to section 458ee of this title prior to editorial reclassification and renumbering as section 5365.
 
-### § 5366. Provisions relating to the Secretary
+### § 5366. Provisions relating to the Secretary
 
 **(a) Trust evaluations**
 
@@ -3647,9 +3647,9 @@ If no official is designated, the Director of the Office of the Executive Secret
 
 **(5) No timely determination**
 
-If the Secretary fails to make a determination with respect to a final offer within the period specified in paragraph (2), including any extension agreed to under paragraph (3), the Secretary shall be deemed to have agreed to the offer, except that with respect to any compact or funding agreement provision concerning a program described under section 5363(c) of this title, the Secretary shall be deemed to have rejected the offer with respect to such provision and the terms of clauses (ii) through (iv) of paragraphs 1
+If the Secretary fails to make a determination with respect to a final offer within the period specified in paragraph (2), including any extension agreed to under paragraph (3), the Secretary shall be deemed to have agreed to the offer, except that with respect to any compact or funding agreement provision concerning a program described under section 5363(c) of this title, the Secretary shall be deemed to have rejected the offer with respect to such provision and the terms of clauses (ii) through (iv) of paragraphs 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (6)(A) shall apply.
 
@@ -3723,7 +3723,7 @@ The Secretary may not waive, modify, or diminish in any way the trust responsibi
 
 Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this subchapter and each provision of a compact or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-governance, and any ambiguity shall be resolved in favor of the Indian Tribe.
 
-(Pub. L. 93–638, title IV, § 406, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 866.)
+(Pub. L. 93–638, title IV, § 406, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 866.)
 
 **References in Text**
 
@@ -3733,9 +3733,9 @@ Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (i)
 
 **Prior Provisions**
 
-A prior section 5366, Pub. L. 93–638, title IV, § 406, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4277; amended Pub. L. 105–277, div. A, § 101(e) [title I, § 133], Oct. 21, 1998, 112 Stat. 2681–231, 2681–264, set out disclaimers regarding construction of provisions of this chapter and subchapter. Such ection was formerly classified to section 458ff of this title prior to editorial reclassification and renumbering as section 5366.
+A prior section 5366, Pub. L. 93–638, title IV, § 406, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4277; amended Pub. L. 105–277, div. A, § 101(e) [title I, § 133], Oct. 21, 1998, 112 Stat. 2681–231, 2681–264, set out disclaimers regarding construction of provisions of this chapter and subchapter. Such ection was formerly classified to section 458ff of this title prior to editorial reclassification and renumbering as section 5366.
 
-### § 5367. Construction programs and projects
+### § 5367. Construction programs and projects
 
 **(a) In general**
 
@@ -3827,21 +3827,21 @@ Unless otherwise agreed to by the Indian Tribe and except as otherwise provided 
 
 Upon completion of a facility constructed under this subchapter, the Secretary shall include the facility among those eligible for annual operation and maintenance funding support comparable to that provided for similar facilities funded by the Department as annual appropriations are available and to the extent that the facility size and complexity and other factors do not exceed the funding formula criteria for comparable buildings.
 
-(Pub. L. 93–638, title IV, § 407, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 870.)
+(Pub. L. 93–638, title IV, § 407, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 870.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (b) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (b) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (i), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 5367, Pub. L. 93–638, title IV, § 407, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4277, related to regulations to carry out this subchapter, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See section 5373 of this title. Such section was formerly classified to section 458gg of this title prior to editorial reclassification and renumbering as section 5367.
+A prior section 5367, Pub. L. 93–638, title IV, § 407, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4277, related to regulations to carry out this subchapter, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See section 5373 of this title. Such section was formerly classified to section 458gg of this title prior to editorial reclassification and renumbering as section 5367.
 
-### § 5368. Payment
+### § 5368. Payment
 
 **(a) In general**
 
@@ -3973,7 +3973,7 @@ The Office of Self-Governance shall be responsible for distribution of all Burea
 
 Notwithstanding any other provision of this section, section 101(a) of the PROGRESS for Indian Tribes Act applies to subsections (a) through (m).
 
-(Pub. L. 93–638, title IV, § 408, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 872.)
+(Pub. L. 93–638, title IV, § 408, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 872.)
 
 **Editorial Notes**
 
@@ -3985,9 +3985,9 @@ Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (n)
 
 **Prior Provisions**
 
-A prior section 5368, Pub. L. 93–638, title IV, § 408, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4278, authorized appropriations, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864, 872. See section 5377 of this title. Such section was formerly classified to section 458hh of this title prior to editorial reclassification and renumbering as section 5368.
+A prior section 5368, Pub. L. 93–638, title IV, § 408, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4278, authorized appropriations, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864, 872. See section 5377 of this title. Such section was formerly classified to section 458hh of this title prior to editorial reclassification and renumbering as section 5368.
 
-### § 5369. Facilitation
+### § 5369. Facilitation
 
 **(a) In general** Except as otherwise provided by law (including section 101(a) of the PROGRESS for Indian Tribes Act), the Secretary shall interpret each Federal law and regulation in a manner that facilitates—
 
@@ -4027,7 +4027,7 @@ If the Secretary fails to make a determination with respect to a waiver request 
 
 A decision of the Secretary under this section shall be final for the Department.
 
-(Pub. L. 93–638, title IV, § 409, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 874.)
+(Pub. L. 93–638, title IV, § 409, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 874.)
 
 **Editorial Notes**
 
@@ -4035,7 +4035,7 @@ A decision of the Secretary under this section shall be final for the Department
 
 Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (a), is section 101(a) of Pub. L. 116–180, which is set out as a note under section 5361 of this title.
 
-### § 5370. Discretionary application of other sections
+### § 5370. Discretionary application of other sections
 
 **(a) In general**
 
@@ -4055,7 +4055,7 @@ Except as otherwise provided in section 201(d) of the PROGRESS for Indian Tribes
 
 **(2)** control the negotiation and resulting compact and funding agreement.
 
-(Pub. L. 93–638, title IV, § 410, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 875.)
+(Pub. L. 93–638, title IV, § 410, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 875.)
 
 **Editorial Notes**
 
@@ -4063,13 +4063,13 @@ Except as otherwise provided in section 201(d) of the PROGRESS for Indian Tribes
 
 Sections 101(a) and 201(d) of the PROGRESS for Indian Tribes Act, referred to in subsec. (a), are sections 101(a) and 201(d) of Pub. L. 116–180, which are set out as notes under section 5361 of this title.
 
-Subchapter I, referred to in subsec. (a), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I, referred to in subsec. (a), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5371. Annual budget list
+### § 5371. Annual budget list
 
 The Secretary shall list, in the annual budget request submitted to Congress under section 1105 of title 31, any funds proposed to be included in funding agreements authorized under this subchapter.
 
-(Pub. L. 93–638, title IV, § 411, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 876.)
+(Pub. L. 93–638, title IV, § 411, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 876.)
 
 **Editorial Notes**
 
@@ -4077,7 +4077,7 @@ The Secretary shall list, in the annual budget request submitted to Congress und
 
 Provisions similar to those in this section were contained in section 5364 of this title prior to repeal by Pub. L. 116–180.
 
-### § 5372. Reports
+### § 5372. Reports
 
 **(a) In general**
 
@@ -4141,7 +4141,7 @@ In preparing the revised lists and programmatic targets, the Secretary shall con
 
 Not later than January 1, 2020, the Secretary shall, in consultation with Indian Tribes, develop a funding formula to determine the individual Tribal share of funds controlled by the Central Office of the Bureau of Indian Affairs and the Office of the Special Trustee for inclusion in the compacts.
 
-(Pub. L. 93–638, title IV, § 412, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 876.)
+(Pub. L. 93–638, title IV, § 412, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 876.)
 
 **Editorial Notes**
 
@@ -4149,7 +4149,7 @@ Not later than January 1, 2020, the Secretary shall, in consultation with Indian
 
 Provisions similar to those in this section were contained in section 5365 of this title prior to repeal by Pub. L. 116–180.
 
-### § 5373. Regulations
+### § 5373. Regulations
 
 **(a) In general**
 
@@ -4193,7 +4193,7 @@ Subject to section 101(a) of the PROGRESS for Indian Tribes Act and except with 
 
 The lack of promulgated regulations on an issue shall not limit the effect or implementation of this subchapter.
 
-(Pub. L. 93–638, title IV, § 413, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 877; amended Pub. L. 118–15, div. B, title I, § 2102, Sept. 30, 2023, 137 Stat. 82.)
+(Pub. L. 93–638, title IV, § 413, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 877; amended Pub. L. 118–15, div. B, title I, § 2102, Sept. 30, 2023, 137 Stat. 82.)
 
 **Editorial Notes**
 
@@ -4209,11 +4209,11 @@ Provisions similar to those in this section were contained in section 5367 of th
 
 **Amendments**
 
-2023—Subsec. (a)(2). Pub. L. 118–15, § 2102(1), substituted “38 months” for “21 months”.
+2023—Subsec. (a)(2). Pub. L. 118–15, § 2102(1), substituted “38 months” for “21 months”.
 
-Subsec. (a)(3). Pub. L. 118–15, § 2102(2), substituted “50 months” for “30 months”.
+Subsec. (a)(3). Pub. L. 118–15, § 2102(2), substituted “50 months” for “30 months”.
 
-### § 5374. Effect of circulars, policies, manuals, guidance, and rules
+### § 5374. Effect of circulars, policies, manuals, guidance, and rules
 
 Unless expressly agreed to by a participating Indian Tribe in a compact or funding agreement, the participating Indian Tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Department, except for—
 
@@ -4221,9 +4221,9 @@ Unless expressly agreed to by a participating Indian Tribe in a compact or fundi
 
 **(2)** regulations promulgated pursuant to section 5373 of this title.
 
-(Pub. L. 93–638, title IV, § 414, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 878.)
+(Pub. L. 93–638, title IV, § 414, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 878.)
 
-### § 5375. Appeals
+### § 5375. Appeals
 
 Except as provided in section 5366(d) of this title, in any administrative action, appeal, or civil action for judicial review of any decision made by the Secretary under this subchapter, the Secretary shall have the burden of proof of demonstrating by a preponderance of the evidence—
 
@@ -4231,13 +4231,13 @@ Except as provided in section 5366(d) of this title, in any administrative actio
 
 **(2)** the consistency of the decision with the requirements and policies of this subchapter.
 
-(Pub. L. 93–638, title IV, § 415, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 878.)
+(Pub. L. 93–638, title IV, § 415, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 878.)
 
-### § 5376. Application of other provisions
+### § 5376. Application of other provisions
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (Public Law 101–512; 104 Stat. 1959), shall apply to compacts and funding agreements entered into under this subchapter.
 
-(Pub. L. 93–638, title IV, § 416, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 878.)
+(Pub. L. 93–638, title IV, § 416, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 878.)
 
 **Editorial Notes**
 
@@ -4245,11 +4245,11 @@ Section 314 of the Department of the Interior and Related Agencies Appropriation
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in text, is section 314 of Pub. L. 101–512, which is set out as a note under section 5321 of this title.
 
-### § 5377. Authorization of appropriations
+### § 5377. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-(Pub. L. 93–638, title IV, § 417, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 878.)
+(Pub. L. 93–638, title IV, § 417, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 878.)
 
 **Editorial Notes**
 
@@ -4263,9 +4263,9 @@ Provisions similar to those in this section were contained in section 5368 of th
 
 **Codification**
 
-Subchapter is comprised of title V of Pub. L. 93–638, as added by Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 712. Another title V of Pub. L. 93–638, as added by Pub. L. 106–568, title XIII, § 1302, Dec. 27, 2000, 114 Stat. 2936, was redesignated title VIII, and is classified to subchapter VII (§ 5421 et seq.) of this chapter.
+Subchapter is comprised of title V of Pub. L. 93–638, as added by Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 712. Another title V of Pub. L. 93–638, as added by Pub. L. 106–568, title XIII, § 1302, Dec. 27, 2000, 114 Stat. 2936, was redesignated title VIII, and is classified to subchapter VII (§ 5421 et seq.) of this chapter.
 
-### § 5381. Definitions
+### § 5381. Definitions
 
 **(a) In general** In this subchapter:
 
@@ -4303,9 +4303,9 @@ The term “inherent Federal functions” means those Federal functions which ca
 
 **(5) Inter-tribal consortium**
 
-The term “inter-tribal consortium” means a coalition of two 1
+The term “inter-tribal consortium” means a coalition of two 1
 
-<sup>1</sup>  So in original. Probably should be followed by “or”.
+<sup>1</sup> So in original. Probably should be followed by “or”.
 
 more separate Indian tribes that join together for the purpose of participating in self-governance, including tribal organizations.
 
@@ -4325,7 +4325,7 @@ The term “tribal share” means an Indian tribe’s portion of all funds and r
 
 In any case in which an Indian tribe has authorized another Indian tribe, an inter-tribal consortium, or a tribal organization to plan for or carry out programs, services, functions, or activities (or portions thereof) on its behalf under this subchapter, the authorized Indian tribe, inter-tribal consortium, or tribal organization shall have the rights and responsibilities of the authorizing Indian tribe (except as otherwise provided in the authorizing resolution or in this subchapter). In such event, the term “Indian tribe” as used in this subchapter shall include such other authorized Indian tribe, inter-tribal consortium, or tribal organization.
 
-(Pub. L. 93–638, title V, § 501, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 712.)
+(Pub. L. 93–638, title V, § 501, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 712.)
 
 **Editorial Notes**
 
@@ -4339,11 +4339,11 @@ Another section 501 of Pub. L. 93–638 was renumbered section 801 and is classi
 
 **Effective Date**
 
-Pub. L. 106–260, § 13, Aug. 18, 2000, 114 Stat. 734, provided that: “Except as otherwise provided, the provisions of this Act [enacting this subchapter, amending sections 5321, 5324, and 5325 of this title, enacting provisions set out as notes under this section and sections 5301 and 5321 of this title, and repealing provisions set out as a note under former section 450f of this title] shall take effect on the date of the enactment of this Act [Aug. 18, 2000].”
+Pub. L. 106–260, § 13, Aug. 18, 2000, 114 Stat. 734, provided that: “Except as otherwise provided, the provisions of this Act [enacting this subchapter, amending sections 5321, 5324, and 5325 of this title, enacting provisions set out as notes under this section and sections 5301 and 5321 of this title, and repealing provisions set out as a note under former section 450f of this title] shall take effect on the date of the enactment of this Act [Aug. 18, 2000].”
 
 **Findings**
 
-Pub. L. 106–260, § 2, Aug. 18, 2000, 114 Stat. 711, provided that:
+Pub. L. 106–260, § 2, Aug. 18, 2000, 114 Stat. 711, provided that:
 
 > “Congress finds that—
 
@@ -4365,7 +4365,7 @@ Pub. L. 106–260, § 2, Aug. 18, 2000, 114 Stat. 711, provided that:
 
 **Declaration of Policy**
 
-Pub. L. 106–260, § 3, Aug. 18, 2000, 114 Stat. 712, provided that:
+Pub. L. 106–260, § 3, Aug. 18, 2000, 114 Stat. 712, provided that:
 
 > “It is the policy of Congress—
 
@@ -4391,11 +4391,11 @@ Pub. L. 106–260, § 3, Aug. 18, 2000, 114 Stat. 712, provided that:
 
 > **“(I)** to provide Indian tribes with the earliest opportunity to administer programs, services, functions, and activities (or portions thereof) from throughout the Department of Health and Human Services.”
 
-### § 5382. Establishment
+### § 5382. Establishment
 
 The Secretary shall establish and carry out a program within the Indian Health Service of the Department of Health and Human Services to be known as the “Tribal Self-Governance Program” in accordance with this subchapter.
 
-(Pub. L. 93–638, title V, § 502, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 714.)
+(Pub. L. 93–638, title V, § 502, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 714.)
 
 **Editorial Notes**
 
@@ -4405,13 +4405,13 @@ Section was formerly classified to section 458aaa–1 of this title prior to edi
 
 Another section 502 of Pub. L. 93–638 was renumbered section 802 and is classified to section 5422 of this title.
 
-### § 5383. Selection of participating Indian tribes
+### § 5383. Selection of participating Indian tribes
 
 **(a) Continuing participation**
 
-Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project under title III 1
+Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project under title III 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 on August 18, 2000, may elect to participate in self-governance under this subchapter under existing authority as reflected in tribal resolution.
 
@@ -4465,13 +4465,13 @@ For purposes of this subsection, evidence that, during the 3-year period referre
 
 Receipt of a grant under subsection (e) of this section shall not be a requirement of participation in self-governance.
 
-(Pub. L. 93–638, title V, § 503, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 714.)
+(Pub. L. 93–638, title V, § 503, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 714.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title III, referred to in subsec. (a), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
+Title III, referred to in subsec. (a), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
 
 **Codification**
 
@@ -4479,7 +4479,7 @@ Section was formerly classified to section 458aaa–2 of this title prior to edi
 
 Another section 503 of Pub. L. 93–638 was renumbered section 803 and is classified to section 5423 of this title.
 
-### § 5384. Compacts
+### § 5384. Compacts
 
 **(a) Compact required**
 
@@ -4489,9 +4489,9 @@ The Secretary shall negotiate and enter into a written compact with each Indian 
 
 Each compact required under subsection (a) of this section shall set forth the general terms of the government-to-government relationship between the Indian tribe and the Secretary, including such terms as the parties intend shall control year after year. Such compacts may only be amended by mutual agreement of the parties.
 
-**(c) Existing compacts** An Indian tribe participating in the Tribal Self-Governance Demonstration Project under title III 1
+**(c) Existing compacts** An Indian tribe participating in the Tribal Self-Governance Demonstration Project under title III 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 on August 18, 2000, shall have the option at any time after August 18, 2000, to—
 
@@ -4503,19 +4503,19 @@ on August 18, 2000, shall have the option at any time after August 18, 2000, to�
 
 The effective date of a compact shall be the date of the approval and execution by the Indian tribe or another date agreed upon by the parties, and shall remain in effect for so long as permitted by Federal law or until terminated by mutual written agreement, retrocession, or reassumption.
 
-(Pub. L. 93–638, title V, § 504, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 715.)
+(Pub. L. 93–638, title V, § 504, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 715.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title III, referred to in subsec. (c), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
+Title III, referred to in subsec. (c), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
 
 **Codification**
 
 Section was formerly classified to section 458aaa–3 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5385. Funding agreements
+### § 5385. Funding agreements
 
 **(a) Funding agreement required**
 
@@ -4531,9 +4531,9 @@ Each funding agreement required under subsection (a) of this section shall, as d
 
 **(A)** section 13 of this title;
 
-**(B)** the Act of April 16, 1934 (48 Stat. 596; chapter 147; 25 U.S.C. 452 et seq.); 1
+**(B)** the Act of April 16, 1934 (48 Stat. 596; chapter 147; 25 U.S.C. 452 et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(C)** the Act of August 5, 1954 (68 Stat. 674; chapter 658) [42 U.S.C. 2001 et seq.];
 
@@ -4569,7 +4569,7 @@ It shall not be a requirement that an Indian tribe or Indians be identified in t
 
 Absent notification from an Indian tribe that is withdrawing or retroceding the operation of one or more programs, services, functions, or activities (or portions thereof) identified in a funding agreement, or unless otherwise agreed to by the parties, each funding agreement shall remain in full force and effect until a subsequent funding agreement is executed, and the terms of the subsequent funding agreement shall be retroactive to the end of the term of the preceding funding agreement.
 
-**(f) Existing funding agreements** Each Indian tribe participating in the Tribal Self-Governance Demonstration Project established under title III <sup>1</sup> on August 18, 2000, shall have the option at any time thereafter to—
+**(f) Existing funding agreements** Each Indian tribe participating in the Tribal Self-Governance Demonstration Project established under title III <sup>1</sup> on August 18, 2000, shall have the option at any time thereafter to—
 
 **(1)** retain the Tribal Self-Governance Demonstration Project funding agreement of that Indian tribe (in whole or in part) to the extent that the provisions of that funding agreement are not directly contrary to any express provision of this subchapter; or
 
@@ -4579,7 +4579,7 @@ Absent notification from an Indian tribe that is withdrawing or retroceding the 
 
 At the option of an Indian tribe, a funding agreement may provide for a stable base budget specifying the recurring funds (including, for purposes of this provision, funds available under section 5325(a) of this title) to be transferred to such Indian tribe, for such period as may be specified in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations by sub-sub activity excluding earmarks.
 
-(Pub. L. 93–638, title V, § 505, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 716.)
+(Pub. L. 93–638, title V, § 505, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 716.)
 
 **Editorial Notes**
 
@@ -4587,19 +4587,19 @@ At the option of an Indian tribe, a funding agreement may provide for a stable b
 
 Act of April 16, 1934, referred to in subsec. (b)(2)(B), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which was classified generally to section 452 et seq. of this title prior to editorial reclassification as section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Act of August 5, 1954, referred to in subsec. (b)(2)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Act of August 5, 1954, referred to in subsec. (b)(2)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(2)(E), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(2)(E), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
-Title III, referred to in subsec. (f), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
+Title III, referred to in subsec. (f), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
 
 **Codification**
 
 Section was formerly classified to section 458aaa–4 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5386. General provisions
+### § 5386. General provisions
 
 **(a) Applicability**
 
@@ -4617,9 +4617,9 @@ The provisions of chapter 75 of title 31 requiring a single agency audit report 
 
 **(2) Cost principles**
 
-An Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 5325 of this title 1
+An Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 5325 of this title 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit under this subsection shall be subject to the provisions of section 5325(f) of this title.
 
@@ -4679,19 +4679,19 @@ If an Indian tribe elects to operate all or some programs, services, functions, 
 
 For the period for which, and to the extent to which, funding is provided under this subchapter or under the compact or funding agreement, the Indian tribe shall not be entitled to contract with the Secretary for such funds under section 5321 of this title, except that such Indian tribe shall be eligible for new programs on the same basis as other Indian tribes.
 
-(Pub. L. 93–638, title V, § 506, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 717.)
+(Pub. L. 93–638, title V, § 506, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 717.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter I of this chapter, referred to in subsec. (g)(2), (3), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I of this chapter, referred to in subsec. (g)(2), (3), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 458aaa–5 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5387. Provisions relating to the Secretary
+### § 5387. Provisions relating to the Secretary
 
 **(a) Mandatory provisions**
 
@@ -4781,7 +4781,7 @@ The Secretary is prohibited from waiving, modifying, or diminishing in any way t
 
 **(2)** by an administrative judge.
 
-(Pub. L. 93–638, title V, § 507, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 719.)
+(Pub. L. 93–638, title V, § 507, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 719.)
 
 **Editorial Notes**
 
@@ -4793,7 +4793,7 @@ Section 3 of the Tribal Self-Governance Amendments of 2000, referred to in subse
 
 Section was formerly classified to section 458aaa–6 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5388. Transfer of funds
+### § 5388. Transfer of funds
 
 **(a) In general**
 
@@ -4867,7 +4867,7 @@ All Medicare, Medicaid, or other program income earned by an Indian tribe shall 
 
 An Indian tribe shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds transferred under a compact or funding agreement. If at any time the Indian tribe has reason to believe that the total amount provided for a specific activity in the compact or funding agreement is insufficient the Indian tribe shall provide reasonable notice of such insufficiency to the Secretary. If the Secretary does not increase the amount of funds transferred under the funding agreement, the Indian tribe may suspend performance of the activity until such time as additional funds are transferred.
 
-(Pub. L. 93–638, title V, § 508, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 722.)
+(Pub. L. 93–638, title V, § 508, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 722.)
 
 **Editorial Notes**
 
@@ -4875,13 +4875,13 @@ An Indian tribe shall not be obligated to continue performance that requires an 
 
 This chapter, referred to in subsecs. (c) and (d), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (j), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (j), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 458aaa–7 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5389. Construction projects
+### § 5389. Construction projects
 
 **(a) In general** Indian tribes participating in tribal self-governance may carry out construction projects under this subchapter if they elect to assume all Federal responsibilities under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), division A of subtitle III of title 54, and related provisions of law that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
 
@@ -4917,13 +4917,13 @@ All laborers and mechanics employed by contractors and subcontractors (excluding
 
 Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41, the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this subchapter.
 
-(Pub. L. 93–638, title V, § 509, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 724; amended Pub. L. 113–287, § 5(g), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 93–638, title V, § 509, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 724; amended Pub. L. 113–287, § 5(g), Dec. 19, 2014, 128 Stat. 3269.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -4933,19 +4933,19 @@ Reorganization Plan numbered 14, of 1950, referred to in subsec. (g), is set out
 
 Section was formerly classified to section 458aaa–8 of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)”, “sections 3141–3144, 3146, and 3147 of title 40 are” substituted for “the Act of March 3, 1931, is”, and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)”, “sections 3141–3144, 3146, and 3147 of title 40 are” substituted for “the Act of March 3, 1931, is”, and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (h), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (h), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
 2014—Subsec. (a). Pub. L. 113–287, which directed substitution of “division A of subtitle III of title 54” for “the National Historic Preservation Act (16 U.S.C. 470et seq.)”, was executed by making the substitution for “the National Historic Preservation Act (16 U.S.C. 470 et seq.)” in introductory provisions to reflect the probable intent of Congress.
 
-### § 5390. Federal procurement laws and regulations
+### § 5390. Federal procurement laws and regulations
 
 Regarding construction programs or projects, the Secretary and Indian tribes may negotiate for the inclusion of specific provisions of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41 and Federal acquisition regulations in any funding agreement entered into under this subchapter. Absent a negotiated agreement, such provisions and regulatory requirements shall not apply.
 
-(Pub. L. 93–638, title V, § 510, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 726.)
+(Pub. L. 93–638, title V, § 510, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 726.)
 
 **Editorial Notes**
 
@@ -4953,9 +4953,9 @@ Regarding construction programs or projects, the Secretary and Indian tribes may
 
 Section was formerly classified to section 458aaa–9 of this title prior to editorial reclassification and renumbering as this section.
 
-In text, “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement and Policy Act (41 U.S.C. 401 et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement and Policy Act (41 U.S.C. 401 et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-### § 5391. Civil actions
+### § 5391. Civil actions
 
 **(a) Contract defined**
 
@@ -4969,7 +4969,7 @@ Section 81 of this title and section 5123 of this title, shall not apply to atto
 
 All references in this chapter to section 5201 of this title are hereby deemed to include section 82a of this title.
 
-(Pub. L. 93–638, title V, § 511, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 726.)
+(Pub. L. 93–638, title V, § 511, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 726.)
 
 **Editorial Notes**
 
@@ -4981,7 +4981,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 Section was formerly classified to section 458aaa–10 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5392. Facilitation
+### § 5392. Facilitation
 
 **(a) Secretarial interpretation** Except as otherwise provided by law, the Secretary shall interpret all Federal laws, Executive orders, and regulations in a manner that will facilitate—
 
@@ -5003,7 +5003,7 @@ Not later than 90 days after receipt by the Secretary of a written request by an
 
 **(c) Access to Federal property** In connection with any compact or funding agreement executed pursuant to this subchapter or an agreement negotiated under the Tribal Self-Governance Demonstration Project established under title III,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as in effect before August 18, 2000, upon the request of an Indian tribe, the Secretary—
 
@@ -5031,13 +5031,13 @@ States are hereby authorized and encouraged to enact legislation, and to enter i
 
 Each provision of this subchapter and each provision of a compact or funding agreement shall be liberally construed for the benefit of the Indian tribe participating in self-governance and any ambiguity shall be resolved in favor of the Indian tribe.
 
-(Pub. L. 93–638, title V, § 512, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 726.)
+(Pub. L. 93–638, title V, § 512, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 726.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title III, referred to in subsec. (c), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
+Title III, referred to in subsec. (c), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former section 450f of this title prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -5045,7 +5045,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 Section was formerly classified to section 458aaa–11 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5393. Budget request
+### § 5393. Budget request
 
 **(a) Requirement of annual budget request**
 
@@ -5061,7 +5061,7 @@ Nothing in this subsection shall be construed to authorize the Indian Health Ser
 
 In such budget request, the President shall identify the level of need presently funded and any shortfall in funding (including direct program and contract support costs) for each Indian tribe, either directly by the Secretary of Health and Human Services, under self-determination contracts, or under compacts and funding agreements authorized under this subchapter.
 
-(Pub. L. 93–638, title V, § 513, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 727.)
+(Pub. L. 93–638, title V, § 513, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 727.)
 
 **Editorial Notes**
 
@@ -5069,7 +5069,7 @@ In such budget request, the President shall identify the level of need presently
 
 Section was formerly classified to section 458aaa–12 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5394. Reports
+### § 5394. Reports
 
 **(a) Annual report**
 
@@ -5107,13 +5107,13 @@ The report under paragraph (1) shall include a detailed analysis of the level of
 
 Not later than 180 days after August 18, 2000, the Secretary shall, after consultation with Indian tribes, submit a written report to the Committee on Resources of the House of Representatives and the Committee on Indian Affairs of the Senate that describes the method or methods used to determine the individual tribal share of funds controlled by all components of the Indian Health Service (including funds assessed by any other Federal agency) for inclusion in self-governance compacts or funding agreements.
 
-(Pub. L. 93–638, title V, § 514, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 728.)
+(Pub. L. 93–638, title V, § 514, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 728.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter I of this chapter, referred to in subsec. (a)(2), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I of this chapter, referred to in subsec. (a)(2), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -5127,7 +5127,7 @@ Section was formerly classified to section 458aaa–13 of this title prior to ed
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 5395. Disclaimers
+### § 5395. Disclaimers
 
 **(a) No funding reduction**
 
@@ -5141,7 +5141,7 @@ Nothing in this chapter shall be construed to diminish in any way the trust resp
 
 The Indian Health Service under this chapter shall neither bill nor charge those Indians who may have the economic means to pay for services, nor require any Indian tribe to do so.
 
-(Pub. L. 93–638, title V, § 515, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 729.)
+(Pub. L. 93–638, title V, § 515, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 729.)
 
 **Editorial Notes**
 
@@ -5153,7 +5153,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
 Section was formerly classified to section 458aaa–14 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5396. Application of other sections of this chapter
+### § 5396. Application of other sections of this chapter
 
 **(a) Mandatory application**
 
@@ -5163,7 +5163,7 @@ All provisions of sections 5305(b), 5306, 5307, 5321(c) and (d), 5323, 5324(k) a
 
 At the request of a participating Indian tribe, any other provision of subchapter I of this chapter, to the extent such provision is not in conflict with this subchapter, shall be made a part of a funding agreement or compact entered into under this subchapter. The Secretary is obligated to include such provision at the option of the participating Indian tribe or tribes. If such provision is incorporated it shall have the same force and effect as if it were set out in full in this subchapter. In the event an Indian tribe requests such incorporation at the negotiation stage of a compact or funding agreement, such incorporation shall be deemed effective immediately and shall control the negotiation and resulting compact and funding agreement.
 
-(Pub. L. 93–638, title V, § 516, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 729.)
+(Pub. L. 93–638, title V, § 516, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 729.)
 
 **Editorial Notes**
 
@@ -5171,13 +5171,13 @@ At the request of a participating Indian tribe, any other provision of subchapte
 
 Section 314 of Pub. L. 101–512, referred to in subsec. (a), is section 314 of Pub. L. 101–512, which is set out as a note under section 5321 of this title.
 
-Subchapter I of this chapter, referred to in subsec. (b), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I of this chapter, referred to in subsec. (b), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 458aaa–15 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5397. Regulations
+### § 5397. Regulations
 
 **(a) In general**
 
@@ -5215,7 +5215,7 @@ The lack of promulgated regulations shall not limit the effect of this subchapte
 
 Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Indian Health Service, except for the eligibility provisions of section 5324(g) of this title and regulations promulgated under this section.
 
-(Pub. L. 93–638, title V, § 517, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 730.)
+(Pub. L. 93–638, title V, § 517, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 730.)
 
 **Editorial Notes**
 
@@ -5227,7 +5227,7 @@ This chapter, referred to in subsec. (b)(1), was in the original “this Act”,
 
 Section was formerly classified to section 458aaa–16 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5398. Appeals
+### § 5398. Appeals
 
 In any appeal (including civil actions) involving decisions made by the Secretary under this subchapter, the Secretary shall have the burden of proof of demonstrating by clear and convincing evidence—
 
@@ -5235,7 +5235,7 @@ In any appeal (including civil actions) involving decisions made by the Secretar
 
 **(2)** that the decision is fully consistent with provisions and policies of this subchapter.
 
-(Pub. L. 93–638, title V, § 518, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 730.)
+(Pub. L. 93–638, title V, § 518, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 730.)
 
 **Editorial Notes**
 
@@ -5243,7 +5243,7 @@ In any appeal (including civil actions) involving decisions made by the Secretar
 
 Section was formerly classified to section 458aaa–17 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5399. Authorization of appropriations
+### § 5399. Authorization of appropriations
 
 **(a) In general**
 
@@ -5253,7 +5253,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Notwithstanding any other provision of this chapter, the provision of funds under this chapter shall be subject to the availability of appropriations and the Secretary is not required to reduce funding for programs, projects, or activities serving a tribe in order to make funds available to another tribe or tribal organization under this chapter.
 
-(Pub. L. 93–638, title V, § 519, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 731.)
+(Pub. L. 93–638, title V, § 519, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 731.)
 
 **Editorial Notes**
 
@@ -5267,7 +5267,7 @@ Section was formerly classified to section 458aaa–18 of this title prior to ed
 
 ## SUBCHAPTER VI—INDIAN LAW ENFORCEMENT FOUNDATION
 
-### § 5411. Definitions
+### § 5411. Definitions
 
 In this subchapter:
 
@@ -5291,7 +5291,7 @@ The term “Foundation” means the Indian Law Enforcement Foundation establishe
 
 The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 93–638, title VII, § 701, as added Pub. L. 111–211, title II, § 231(c), July 29, 2010, 124 Stat. 2274.)
+(Pub. L. 93–638, title VII, § 701, as added Pub. L. 111–211, title II, § 231(c), July 29, 2010, 124 Stat. 2274.)
 
 **Editorial Notes**
 
@@ -5299,7 +5299,7 @@ The term “Secretary” means the Secretary of the Interior.
 
 Section was formerly classified to section 458ccc of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5412. Indian Law Enforcement Foundation
+### § 5412. Indian Law Enforcement Foundation
 
 **(a) Establishment**
 
@@ -5475,7 +5475,7 @@ The Foundation shall comply with section 10101 of title 36 as if the Foundation 
 
 For each of fiscal years 2011 through 2015, out of any unobligated amounts available to the Secretary, the Secretary may use to carry out this section not more than $500,000.
 
-(Pub. L. 93–638, title VII, § 702, as added Pub. L. 111–211, title II, § 231(c), July 29, 2010, 124 Stat. 2274.)
+(Pub. L. 93–638, title VII, § 702, as added Pub. L. 111–211, title II, § 231(c), July 29, 2010, 124 Stat. 2274.)
 
 **Editorial Notes**
 
@@ -5483,7 +5483,7 @@ For each of fiscal years 2011 through 2015, out of any unobligated amounts avail
 
 Section was formerly classified to section 458ccc–1 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5413. Administrative services and support
+### § 5413. Administrative services and support
 
 **(a) Provision of support by Secretary** Subject to subsection (b), during the 5-year period beginning on the date on which the Foundation is established, the Secretary—
 
@@ -5509,7 +5509,7 @@ Section was formerly classified to section 458ccc–1 of this title prior to edi
 
 **(2)** provided on reimbursable cost basis.
 
-(Pub. L. 93–638, title VII, § 703, as added Pub. L. 111–211, title II, § 231(c), July 29, 2010, 124 Stat. 2277.)
+(Pub. L. 93–638, title VII, § 703, as added Pub. L. 111–211, title II, § 231(c), July 29, 2010, 124 Stat. 2277.)
 
 **Editorial Notes**
 
@@ -5523,9 +5523,9 @@ Section was formerly classified to section 458ccc–2 of this title prior to edi
 
 **Codification**
 
-Subchapter is comprised of title VIII, formerly title V, of Pub. L. 93–638, which was formerly classified to part F (§ 458bbb et seq.) of subchapter II of chapter 14 of this title prior to redesignation by Pub. L. 111–211, title II, § 231(d)(1), July 29, 2010, 124 Stat. 2278, transfer to former part H (§ 458ddd et seq.) of subchapter II of chapter 14 of this title, and editorial reclassification as this subchapter.
+Subchapter is comprised of title VIII, formerly title V, of Pub. L. 93–638, which was formerly classified to part F (§ 458bbb et seq.) of subchapter II of chapter 14 of this title prior to redesignation by Pub. L. 111–211, title II, § 231(d)(1), July 29, 2010, 124 Stat. 2278, transfer to former part H (§ 458ddd et seq.) of subchapter II of chapter 14 of this title, and editorial reclassification as this subchapter.
 
-### § 5421. National Fund for Excellence in American Indian Education
+### § 5421. National Fund for Excellence in American Indian Education
 
 **(a) In general**
 
@@ -5633,7 +5633,7 @@ The Secretary may transfer to the Foundation funds held by the Department of the
 
 The Foundation shall comply with the audit requirements set forth in section 10101 of title 36, as if it were a corporation in part B of subtitle II of that title.
 
-(Pub. L. 93–638, title VIII, § 801, formerly title V, § 501, as added Pub. L. 106–568, title XIII, § 1302, Dec. 27, 2000, 114 Stat. 2936; amended Pub. L. 108–267, § 1(a),(b)(2), July 2, 2004, 118 Stat. 797; renumbered title VIII, § 801, Pub. L. 111–211, title II, § 231(d)(1), (2), July 29, 2010, 124 Stat. 2278.)
+(Pub. L. 93–638, title VIII, § 801, formerly title V, § 501, as added Pub. L. 106–568, title XIII, § 1302, Dec. 27, 2000, 114 Stat. 2936; amended Pub. L. 108–267, § 1(a),(b)(2), July 2, 2004, 118 Stat. 797; renumbered title VIII, § 801, Pub. L. 111–211, title II, § 231(d)(1), (2), July 29, 2010, 124 Stat. 2278.)
 
 **Editorial Notes**
 
@@ -5647,9 +5647,9 @@ Section was formerly classified to section 458ddd of this title prior to editori
 
 **Amendments**
 
-2004—Pub. L. 108–267, § 1(b)(2), substituted “National Fund for Excellence in American Indian Education” for “American Indian Education Foundation” in section catchline.
+2004—Pub. L. 108–267, § 1(b)(2), substituted “National Fund for Excellence in American Indian Education” for “American Indian Education Foundation” in section catchline.
 
-Subsec. (a). Pub. L. 108–267, § 1(a), substituted “a foundation to be known as the ‘National Fund for Excellence in American Indian Education’ (hereinafter referred to as the ‘Foundation’)” for “the American Indian Education Foundation”.
+Subsec. (a). Pub. L. 108–267, § 1(a), substituted “a foundation to be known as the ‘National Fund for Excellence in American Indian Education’ (hereinafter referred to as the ‘Foundation’)” for “the American Indian Education Foundation”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5657,7 +5657,7 @@ Subsec. (a). Pub. L. 108–267, § 1(a), substituted “a foundation to be kno
 
 For short title of this subchapter as the “American Indian Education Foundation Act of 2000”, see section 1301 of Pub. L. 106–568, set out as a Short Title of 2000 Amendment note under section 5301 of this title.
 
-### § 5422. Administrative services and support
+### § 5422. Administrative services and support
 
 **(a) Provision of support by Secretary** Subject to subsection (b) of this section, during the 5-year period beginning on the date that the Foundation is established, the Secretary—
 
@@ -5679,7 +5679,7 @@ Reimbursements accepted under subsection (a)(3) of this section shall be deposit
 
 Notwithstanding any other provision of this section, the Secretary may continue to provide facilities and necessary support services to the Foundation after the termination of the 5-year period specified in subsection (a) of this section, on a space available, reimbursable cost basis.
 
-(Pub. L. 93–638, title VIII, § 802, formerly title V, § 502, as added Pub. L. 106–568, title XIII, § 1302, Dec. 27, 2000, 114 Stat. 2938; renumbered title VIII, § 802, and amended Pub. L. 111–211, title II, § 231(d), July 29, 2010, 124 Stat. 2278.)
+(Pub. L. 93–638, title VIII, § 802, formerly title V, § 502, as added Pub. L. 106–568, title XIII, § 1302, Dec. 27, 2000, 114 Stat. 2938; renumbered title VIII, § 802, and amended Pub. L. 111–211, title II, § 231(d), July 29, 2010, 124 Stat. 2278.)
 
 **Editorial Notes**
 
@@ -5689,9 +5689,9 @@ Section was formerly classified to section 458ddd–1 of this title prior to edi
 
 **Amendments**
 
-2010—Subsec. (a)(2). Pub. L. 111–211, § 231(d)(3), substituted reference to section 5421 of this title for reference to former section 458bbb of this title.
+2010—Subsec. (a)(2). Pub. L. 111–211, § 231(d)(3), substituted reference to section 5421 of this title for reference to former section 458bbb of this title.
 
-### § 5423. Definitions
+### § 5423. Definitions
 
 For the purposes of this subchapter—
 
@@ -5701,13 +5701,13 @@ For the purposes of this subchapter—
 
 **(3)** the term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 93–638, title VIII, § 803, formerly title V, § 503, as added Pub. L. 106–568, title XIII, § 1302, Dec. 27, 2000, 114 Stat. 2938; renumbered title VIII, § 803, and amended Pub. L. 111–211, title II, § 231(d), July 29, 2010, 124 Stat. 2278.)
+(Pub. L. 93–638, title VIII, § 803, formerly title V, § 503, as added Pub. L. 106–568, title XIII, § 1302, Dec. 27, 2000, 114 Stat. 2938; renumbered title VIII, § 803, and amended Pub. L. 111–211, title II, § 231(d), July 29, 2010, 124 Stat. 2278.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Amendments of 1978, referred to in par. (1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
+The Education Amendments of 1978, referred to in par. (1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
 
 **Codification**
 
@@ -5715,4 +5715,4 @@ Section was formerly classified to section 458ddd–2 of this title prior to edi
 
 **Amendments**
 
-2010—Par. (2). Pub. L. 111–211, § 231(d)(3), substituted reference to section 5421 of this title for reference to former section 458bbb of this title.
+2010—Par. (2). Pub. L. 111–211, § 231(d)(3), substituted reference to section 5421 of this title for reference to former section 458bbb of this title.

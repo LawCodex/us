@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–453, § 5(c), Oct. 24, 1990, 104 Stat. 1061, substituted “Intergovernmental financing” for “Transfer and deposit requirements” in item 6503.
+1990—Pub. L. 101–453, § 5(c), Oct. 24, 1990, 104 Stat. 1061, substituted “Intergovernmental financing” for “Transfer and deposit requirements” in item 6503.
 
-## § 6501. Definitions
+## § 6501. Definitions
 
 In this chapter—
 
@@ -31,7 +31,7 @@ In this chapter—
 
 **(B)** provided by the United States Government through grant or contractual arrangements (including technical assistance programs providing assistance by loan, loan guarantee, or insurance); and
 
-**(C)** not an annual payment by the United States Government to the District of Columbia government under section 502 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 813, D.C. Code, § 47–3406).
+**(C)** not an annual payment by the United States Government to the District of Columbia government under section 502 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 813, D.C. Code, § 47–3406).
 
 **(2)** “comprehensive planning” includes, to the extent directly related to area needs or needs of a unit of general local government—
 
@@ -91,7 +91,7 @@ In this chapter—
 
 **(10)** “unit of general local government” means a county, city, town, village, or other general purpose political subdivision of a State.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1005; Pub. L. 97–452, § 1(24), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 101–453, §§ 3, 5(a), Oct. 24, 1990, 104 Stat. 1058, 1059; Pub. L. 105–33, title XI, § 11717(b), Aug. 5, 1997, 111 Stat. 786.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1005; Pub. L. 97–452, § 1(24), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 101–453, §§ 3, 5(a), Oct. 24, 1990, 104 Stat. 1058, 1059; Pub. L. 105–33, title XI, § 11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
 **Historical and Revision Notes**
 
@@ -99,7 +99,7 @@ In this chapter—
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6501(1) | 42:4201(7). | Oct. 16, 1968, Pub. L. 90–577, §§ 101–107, 109, 110, 82 Stat. 1098, 1100, 1101. |
+| 6501(1) | 42:4201(7). | Oct. 16, 1968, Pub. L. 90–577, §§ 101–107, 109, 110, 82 Stat. 1098, 1100, 1101. |
 | 6501(2) | 42:4201(9). |  |
 | 6501(3) | 42:4201(1). |  |
 | 6501(4) | 42:4201(6). |  |
@@ -109,11 +109,11 @@ In this chapter—
 | 6501(8) | 42:4201(2). |  |
 | 6501(9) | 42:4201(4). |  |
 
-In clause (1), the word “assistance” is substituted for “ ‘Federal assistance’, ‘Federal assistance programs’, or ‘federally assisted programs’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “the transfer of anything of value for a public purpose of support or stimulation that is (A) authorized by a law of the United States” are substituted for “programs that provide assistance” for consistency with section 6101(3) of the revised title. The words “section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 813, D.C. Code § 47–3406)” are substituted for “article VI of the District of Columbia Revenue Act of 1947 (D.C. Code secs. 47–2501a and 47–2501b)” because the former has superseded the latter.
+In clause (1), the word “assistance” is substituted for “ ‘Federal assistance’, ‘Federal assistance programs’, or ‘federally assisted programs’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “the transfer of anything of value for a public purpose of support or stimulation that is (A) authorized by a law of the United States” are substituted for “programs that provide assistance” for consistency with section 6101(3) of the revised title. The words “section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 813, D.C. Code § 47–3406)” are substituted for “article VI of the District of Columbia Revenue Act of 1947 (D.C. Code secs. 47–2501a and 47–2501b)” because the former has superseded the latter.
 
 Clause (3) restates the source provisions because of the definition of “executive agency” in section 102 of the revised title.
 
-In clause (4)(A) and (B), the word “grant” is substituted for “ ‘grant’ or ‘grant-in-aid’ ” for consistency in the revised title and to have only one defined term in the chapter.
+In clause (4)(A) and (B), the word “grant” is substituted for “ ‘grant’ or ‘grant-in-aid’ ” for consistency in the revised title and to have only one defined term in the chapter.
 
 In clause (4)(B), the words “a private, nonprofit community organization eligible to receive amounts under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.)” are substituted for “a community action agency under the Economic Opportunity Act of 1964, as amended” because of section 683(c)(2) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 519).
 
@@ -121,7 +121,7 @@ In clause (4)(C), the words “whether public or private” are omitted as surpl
 
 In clause (5), the words “head of a Federal agency” are omitted as unnecessary because heads of Federal agencies already have the authority to delegate.
 
-In clause (6), the words “local government” are substituted for “ ‘political subdivision’ or ‘local government’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “unit of general local government” are substituted for “local unit of government, including specifically a county, municipality, city, town, township” to incorporate the definition in clause (9).
+In clause (6), the words “local government” are substituted for “ ‘political subdivision’ or ‘local government’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “unit of general local government” are substituted for “local unit of government, including specifically a county, municipality, city, town, township” to incorporate the definition in clause (9).
 
 In clause (7), the words “public-purpose local government” are substituted for “public-purpose corporation or other strictly limited purpose political subdivision” to eliminate unnecessary words.
 
@@ -137,27 +137,27 @@ This amends 31:6501(1)(B) to clarify the section as enacted by the Act of Sept. 
 
 **References in Text**
 
-The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§ 671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§ 671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
 **Amendments**
 
 1997—Par. (1)(C). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-1990—Par. (2)(B). Pub. L. 101–453, § 3(1), substituted “subparagraph (A)” for “subclause (A) of this clause (2)”.
+1990—Par. (2)(B). Pub. L. 101–453, § 3(1), substituted “subparagraph (A)” for “subclause (A) of this clause (2)”.
 
-Par. (2)(E). Pub. L. 101–453, § 3(2), substituted “subparagraphs (A), (B), (C), and (D)” for “subclauses (A)–(D) of this clause (2)”.
+Par. (2)(E). Pub. L. 101–453, § 3(2), substituted “subparagraphs (A), (B), (C), and (D)” for “subclauses (A)–(D) of this clause (2)”.
 
-Par. (4)(A). Pub. L. 101–453, § 3(3), substituted “subparagraph (C)” for “subclause (C) of this clause (4)”.
+Par. (4)(A). Pub. L. 101–453, § 3(3), substituted “subparagraph (C)” for “subclause (C) of this clause (4)”.
 
-Par. (4)(B). Pub. L. 101–453, § 3(4), substituted “subparagraph (C)” for “subclause (C) of this clause (4)”.
+Par. (4)(B). Pub. L. 101–453, § 3(4), substituted “subparagraph (C)” for “subclause (C) of this clause (4)”.
 
-Par. (7). Pub. L. 101–453, § 5(a)(2), added par. (7). Former par. (7) redesignated (8).
+Par. (7). Pub. L. 101–453, § 5(a)(2), added par. (7). Former par. (7) redesignated (8).
 
-Par. (8). Pub. L. 101–453, § 5(a)(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Par. (8). Pub. L. 101–453, § 5(a)(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 101–453, § 5(a)(1), (3), redesignated par. (8) as (9), added new text, and struck out former text which read as follows: “ ‘State’ means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency or instrumentality of a State but does not mean a local government of a State.” Former par. (9) redesignated (10).
+Par. (9). Pub. L. 101–453, § 5(a)(1), (3), redesignated par. (8) as (9), added new text, and struck out former text which read as follows: “ ‘State’ means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency or instrumentality of a State but does not mean a local government of a State.” Former par. (9) redesignated (10).
 
-Par. (10). Pub. L. 101–453, § 5(a)(1), redesignated par. (9) as (10).
+Par. (10). Pub. L. 101–453, § 5(a)(1), redesignated par. (9) as (10).
 
 1983—Par. (1)(B). Pub. L. 97–452 struck out “the law of” after “provided by”.
 
@@ -173,17 +173,17 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–589, § 1, Nov. 10, 1992, 106 Stat. 5133, provided that: “This Act [amending sections 3718 and 3720A of this title, enacting provisions set out as notes under section 3718 of this title, and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title] may be cited as the ‘Cash Management Improvement Act Amendments of 1992’.”
+Pub. L. 102–589, § 1, Nov. 10, 1992, 106 Stat. 5133, provided that: “This Act [amending sections 3718 and 3720A of this title, enacting provisions set out as notes under section 3718 of this title, and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title] may be cited as the ‘Cash Management Improvement Act Amendments of 1992’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–453, § 1, Oct. 24, 1990, 104 Stat. 1058, provided that: “This Act [enacting section 3335 of this title, amending this section and section 6503 of this title, and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title] may be cited as the ‘Cash Management Improvement Act of 1990’.”
+Pub. L. 101–453, § 1, Oct. 24, 1990, 104 Stat. 1058, provided that: “This Act [enacting section 3335 of this title, amending this section and section 6503 of this title, and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title] may be cited as the ‘Cash Management Improvement Act of 1990’.”
 
 **Purpose of 1990 Act**
 
-Pub. L. 101–453, § 2, Oct. 24, 1990, 104 Stat. 1058, provided that: “The purpose of this Act [see Short Title of 1990 Amendment note above] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
+Pub. L. 101–453, § 2, Oct. 24, 1990, 104 Stat. 1058, provided that: “The purpose of this Act [see Short Title of 1990 Amendment note above] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
 
-## § 6502. Information on grants received
+## § 6502. Information on grants received
 
 On request of a chief executive officer of a State, a State legislature, or an official designated by either of them, an executive agency carrying out a grant program to States and local governments shall provide the requesting officer or legislature with written information on the purpose and amounts of grants provided to the State or local government.
 
@@ -193,11 +193,11 @@ On request of a chief executive officer of a State, a State legislature, or an o
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6502 | 42:4211. | Oct. 16, 1968, Pub. L. 90–577, § 201, 82 Stat. 1101. |
+| 6502 | 42:4211. | Oct. 16, 1968, Pub. L. 90–577, § 201, 82 Stat. 1101. |
 
 The words “chief executive officer” are substituted for “Governor” because the definition of State includes the District of Columbia. The words “executive agency” are substituted for “department or agency of the United States Government” because of the definition in sections 102 and 6501(3) of the revised title. The words “shall provide the requesting officer or legislature” are substituted for the last sentence of 42:4211 to eliminate unnecessary words. The word “information” is substituted for “such data” because it is more accurate. The words “in writing” and “actual” are omitted as unnecessary.
 
-## § 6503. Intergovernmental financing
+## § 6503. Intergovernmental financing
 
 **(a)** Consistent with program purposes and with regulations of the Secretary, and in accordance with an agreement under subsection (b) entered into by the Secretary and a State—
 
@@ -251,20 +251,20 @@ The words “chief executive officer” are substituted for “Governor” becau
 
 **(j)** Consistent with Federal program purposes and regulations of the Director of the Office of Management and Budget, the head of a Federal executive agency carrying out a program shall execute grant awards to States on a timely basis to assure the availability of funds to accomplish transfers in compliance with subsection (a) of this section.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1007; Pub. L. 101–453, § 5(b), Oct. 24, 1990, 104 Stat. 1059.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1007; Pub. L. 101–453, § 5(b), Oct. 24, 1990, 104 Stat. 1059.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6503(a) | 42:4213. | Oct. 16, 1968, Pub. L. 90–577, §§ 202, 203, 82 Stat. 1101. |
+| 6503(a) | 42:4213. | Oct. 16, 1968, Pub. L. 90–577, §§ 202, 203, 82 Stat. 1101. |
 | 6503(b) | 42:4212. |  |
 
 In the section, the words “executive agency” are substituted for “Federal departments and agencies” because of the definition in sections 102 and 6501(3) of the revised title.
 
 In subsection (a), the word “money” is substituted for “funds” for consistency in the section. The words “so as” and “United States” are omitted as surplus. The words “before or after” are substituted for “prior to or subsequent to” for consistency. The words “subsequent to such transfer of funds” are omitted as unnecessary the second time they are used.
 
-In subsection (b), the words “apart from other funds administered by the state”, “properly”, “In each case”, and “examination” are omitted as unnecessary. The word “money” is substituted for “all federal grant-in-aid funds” for consistency in the section. The words “United States Government grant money” are substituted for “Federal funds” for consistency in the revised title. The word “make” is substituted for “render”, the word “periodic” is substituted for “regular”, and the word “information” is substituted for “facts”, for clarity. The words “or any of their duly authorized representatives” are omitted as unnecessary. The words “Records shall be made available to . . . for auditing” are substituted for “shall have access for the purpose of audit and examination to any books, documents, papers, and records” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words “apart from other funds administered by the state”, “properly”, “In each case”, and “examination” are omitted as unnecessary. The word “money” is substituted for “all federal grant-in-aid funds” for consistency in the section. The words “United States Government grant money” are substituted for “Federal funds” for consistency in the revised title. The word “make” is substituted for “render”, the word “periodic” is substituted for “regular”, and the word “information” is substituted for “facts”, for clarity. The words “or any of their duly authorized representatives” are omitted as unnecessary. The words “Records shall be made available to . . . for auditing” are substituted for “shall have access for the purpose of audit and examination to any books, documents, papers, and records” for consistency in the revised title and with other titles of the United States Code.
 
 **Editorial Notes**
 
@@ -276,15 +276,15 @@ In subsection (b), the words “apart from other funds administered by the state
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–453, § 5(e), Oct. 24, 1990, 104 Stat. 1061, as amended by Pub. L. 102–589, § 2(2)(C), Nov. 10, 1992, 106 Stat. 5133, provided that: “The amendments made by this section [amending this section and section 6501 of this title] shall take effect on the date of enactment of this Act [Oct. 24, 1990], except that subsections (c) and (d) of section 6503 of title 31, United States Code, as added by subsection (b) of this section (relating to payments of interest between the Federal Government and State governments), shall take effect on July 1, 1993 or the first day of a State’s fiscal year beginning in 1993, whichever is later.”
+Pub. L. 101–453, § 5(e), Oct. 24, 1990, 104 Stat. 1061, as amended by Pub. L. 102–589, § 2(2)(C), Nov. 10, 1992, 106 Stat. 5133, provided that: “The amendments made by this section [amending this section and section 6501 of this title] shall take effect on the date of enactment of this Act [Oct. 24, 1990], except that subsections (c) and (d) of section 6503 of title 31, United States Code, as added by subsection (b) of this section (relating to payments of interest between the Federal Government and State governments), shall take effect on July 1, 1993 or the first day of a State’s fiscal year beginning in 1993, whichever is later.”
 
 **Treatment of Compensation or Reimbursement Paid Pursuant to Other Laws**
 
-Pub. L. 107–273, div. A, title II, § 204(f), Nov. 2, 2002, 116 Stat. 1776, as amended by Pub. L. 109–162, title XI, § 1151(a), (b), Jan. 5, 2006, 119 Stat. 3112, provided that: “No compensation or reimbursement paid pursuant to the Southwest Border Prosecutor Initiative (as carried out pursuant to paragraph (3) (117 Stat. 64) under the heading relating to Community Oriented Policing Services of the Department of Justice Appropriations Act, 2003 (title I of division B of Public Law 108–7), or as carried out pursuant to any subsequent authority) or section 501(a) of Public Law 99–603 [8 U.S.C. 1365(a)] (100 Stat. 3443) or section 241(i) of the Act of June 27, 1952 [8 U.S.C. 1231(i)] (ch. 477) shall be subject to sections [sic] 3335(b) or 6503(d) of title 31, United States Code, and no funds available to the Attorney General may be used to pay any assessment made pursuant to such sections [sic] 3335(b) or 6503 with respect to any such compensation or reimbursement.”
+Pub. L. 107–273, div. A, title II, § 204(f), Nov. 2, 2002, 116 Stat. 1776, as amended by Pub. L. 109–162, title XI, § 1151(a), (b), Jan. 5, 2006, 119 Stat. 3112, provided that: “No compensation or reimbursement paid pursuant to the Southwest Border Prosecutor Initiative (as carried out pursuant to paragraph (3) (117 Stat. 64) under the heading relating to Community Oriented Policing Services of the Department of Justice Appropriations Act, 2003 (title I of division B of Public Law 108–7), or as carried out pursuant to any subsequent authority) or section 501(a) of Public Law 99–603 [8 U.S.C. 1365(a)] (100 Stat. 3443) or section 241(i) of the Act of June 27, 1952 [8 U.S.C. 1231(i)] (ch. 477) shall be subject to sections [sic] 3335(b) or 6503(d) of title 31, United States Code, and no funds available to the Attorney General may be used to pay any assessment made pursuant to such sections [sic] 3335(b) or 6503 with respect to any such compensation or reimbursement.”
 
 **Agreements With States**
 
-Pub. L. 101–453, § 5(d), Oct. 24, 1990, 104 Stat. 1061, as amended by Pub. L. 102–589, § 2(2)(A), (B), Nov. 10, 1992, 106 Stat. 5133, provided that:
+Pub. L. 101–453, § 5(d), Oct. 24, 1990, 104 Stat. 1061, as amended by Pub. L. 102–589, § 2(2)(A), (B), Nov. 10, 1992, 106 Stat. 5133, provided that:
 
 > **“(1) Secretary’s efforts to enter agreements.—** The Secretary of the Treasury shall make all reasonable efforts to enter into an agreement with each State under section 6503(b) of title 31, United States Code, as added by this section (relating to procedures and requirements for transfers of funds between executive agencies and States), by July 1, 1993 or the first day of a State’s fiscal year beginning in 1993, whichever is later.
 
@@ -292,9 +292,9 @@ Pub. L. 101–453, § 5(d), Oct. 24, 1990, 104 Stat. 1061, as amended by Pub. 
 
 **GAO Report**
 
-Pub. L. 101–453, § 6, Oct. 24, 1990, 104 Stat. 1062, as amended by Pub. L. 102–589, § 2(3), Nov. 10, 1992, 106 Stat. 5133, which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by section 5 of Pub. L. 101–453 (which amended this section and section 6501 of this title) and to submit a report to Congress describing results of that audit, was repealed by Pub. L. 104–316, title I, § 115(i), Oct. 19, 1996, 110 Stat. 3835.
+Pub. L. 101–453, § 6, Oct. 24, 1990, 104 Stat. 1062, as amended by Pub. L. 102–589, § 2(3), Nov. 10, 1992, 106 Stat. 5133, which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by section 5 of Pub. L. 101–453 (which amended this section and section 6501 of this title) and to submit a report to Congress describing results of that audit, was repealed by Pub. L. 104–316, title I, § 115(i), Oct. 19, 1996, 110 Stat. 3835.
 
-## § 6504. Use of existing State or multimember agency to administer grant programs
+## § 6504. Use of existing State or multimember agency to administer grant programs
 
 Notwithstanding a law of the United States providing that one State agency or multimember agency must be established or designated to carry out or supervise the administration of a grant program, the head of the executive agency carrying out the program may, when requested by the executive or legislative authority of the State responsible for the organizational structure of a State government—
 
@@ -308,11 +308,11 @@ Notwithstanding a law of the United States providing that one State agency or mu
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6504 | 42:4214. | Oct. 16, 1968, Pub. L. 90–577, § 204, 82 Stat. 1101. |
+| 6504 | 42:4214. | Oct. 16, 1968, Pub. L. 90–577, § 204, 82 Stat. 1101. |
 
-In the section, the word “agency” is substituted for “board or commission” for consistency in the revised title. Before clause (1), the words “executive agency” are substituted for “Federal department or agency” because of the definition in sections 102 and 6501(3) of the revised title. The words “appropriate” and “determining or revising” are omitted as surplus. The words “Governor or other” are omitted as covered by “executive . . . authority”. In clause (2), the words “after deciding” are substituted for “*Provided*, That the head of the Federal department or agency determines” to eliminate unnecessary words.
+In the section, the word “agency” is substituted for “board or commission” for consistency in the revised title. Before clause (1), the words “executive agency” are substituted for “Federal department or agency” because of the definition in sections 102 and 6501(3) of the revised title. The words “appropriate” and “determining or revising” are omitted as surplus. The words “Governor or other” are omitted as covered by “executive . . . authority”. In clause (2), the words “after deciding” are substituted for “*Provided*, That the head of the Federal department or agency determines” to eliminate unnecessary words.
 
-## § 6505. Authority to provide specialized or technical services
+## § 6505. Authority to provide specialized or technical services
 
 **(a)** The President may prescribe statistical and other studies and compilations, development projects, technical tests and evaluations, technical information, training activities, surveys, reports, documents, and other similar services that an executive agency is especially competent and authorized by law to provide. The services prescribed must be consistent with and further the policy of the United States Government of relying on the private enterprise system to provide services reasonably and quickly available through ordinary business channels.
 
@@ -332,8 +332,8 @@ In the section, the word “agency” is substituted for “board or commission�
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6505(a) | 42:4201(8). | Oct. 16, 1968, Pub. L. 90–577, §§ 108, 303, 305, 82 Stat. 1100, 1102, 1103. |
-|  | 42:4222(proviso, words after proviso). | Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 6505(a) | 42:4201(8). | Oct. 16, 1968, Pub. L. 90–577, §§ 108, 303, 305, 82 Stat. 1100, 1102, 1103. |
+|  | 42:4222(proviso, words after proviso). | Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
 | 6505(b) | 42:4222(words before proviso). |  |
 | 6505(c) | 42:4223. |  |
 | 6505(d) | 42:4225. |  |
@@ -352,7 +352,7 @@ In subsection (d), the words “and does not supersede” are omitted as unneces
 
 **Performance of Specialized or Technical Services**
 
-Pub. L. 106–541, title II, § 211, Dec. 11, 2000, 114 Stat. 2592, as amended by Pub. L. 107–66, title I, § 109, Nov. 12, 2001, 115 Stat. 496, provided that:
+Pub. L. 106–541, title II, § 211, Dec. 11, 2000, 114 Stat. 2592, as amended by Pub. L. 107–66, title I, § 109, Nov. 12, 2001, 115 Stat. 496, provided that:
 
 > **“(a) Definition of State.—** In this section, the term ‘State’ has the meaning given the term in section 6501 of title 31, United States Code.
 
@@ -396,9 +396,9 @@ Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2444, provided in part: “
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title I], Sept. 30, 1996, 110 Stat. 3009, 3009–5.
+Pub. L. 104–208, div. A, title I, § 101(a) [title I], Sept. 30, 1996, 110 Stat. 3009, 3009–5.
 
-## § 6506. Development assistance
+## § 6506. Development assistance
 
 **(a)** The economic and social development of the United States and the achievement of satisfactory levels of living depend on the sound and orderly development of urban and rural areas. When urbanization proceeds rapidly, the sound and orderly development of urban communities depends to a large degree on the social and economic health and the sound development of smaller communities and rural areas.
 
@@ -434,7 +434,7 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title I], Sept. 30, 1996, 110 S
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6506(a) | 42:4231(a)(1st, 2d sentences). | Oct. 16, 1968, Pub. L. 90–577, §§ 401–403, 82 Stat. 1103. |
+| 6506(a) | 42:4231(a)(1st, 2d sentences). | Oct. 16, 1968, Pub. L. 90–577, §§ 401–403, 82 Stat. 1103. |
 | 6506(b) | 42:4231(a)(3d–last sentences). |  |
 | 6506(c) | 42:4231(b). |  |
 | 6506(d) | 42:4231(c). |  |
@@ -454,7 +454,7 @@ In subsection (e), the words “executive agency” are substituted for “Feder
 
 In subsection (f), the words “law of the United States” are substituted for “Federal law” for consistency.
 
-In subsection (g), the words “Office of Management and Budget . . . other” are omitted as surplus.
+In subsection (g), the words “Office of Management and Budget . . . other” are omitted as surplus.
 
 **Executive Documents**
 
@@ -498,7 +498,7 @@ Sec. 8. The Director of the Office of Management and Budget shall report to the 
 
 Ronald Reagan.
 
-## § 6507. Congressional review of grant programs
+## § 6507. Congressional review of grant programs
 
 **(a)** The committees of Congress having jurisdiction over a grant program authorized by a law of the United States without a specified expiration date for the program shall study the program. The committees may conduct studies separately or jointly and shall report the results of their findings to their respective Houses of Congress not later than the end of each period specified in subsection (b) of this section. The committees shall give special attention to—
 
@@ -522,7 +522,7 @@ Ronald Reagan.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6507(a) | 42:4241(a). | Oct. 16, 1968, Pub. L. 90–577, § 601, 82 Stat. 1106. |
+| 6507(a) | 42:4241(a). | Oct. 16, 1968, Pub. L. 90–577, § 601, 82 Stat. 1106. |
 | 6507(b) | 42:4241(b). |  |
 
 In the section, the words “law of the United States” are substituted for “Act of Congress” for clarity. The word “grants” is substituted for “grants-in-aid”, and the words “grant program” are substituted for “grant-in-aid program”, for consistency in the chapter.
@@ -531,7 +531,7 @@ In subsection (a), before clause (1), the words “grant program” are substitu
 
 In subsection (b), the words “prior to the expiration of the fourth calendar year beginning after October 16, 1968, and thereafter” are omitted as executed.
 
-## § 6508. Studies and reports
+## § 6508. Studies and reports
 
 **(a)**
 
@@ -563,7 +563,7 @@ In subsection (b), the words “prior to the expiration of the fourth calendar y
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6508(a) | 42:4242. | Oct. 16, 1968, Pub. L. 90–577, §§ 602, 603, 82 Stat. 1107. |
+| 6508(a) | 42:4242. | Oct. 16, 1968, Pub. L. 90–577, §§ 602, 603, 82 Stat. 1107. |
 | 6508(b) | 42:4243. |  |
 
 In the section, the words “of Congress” are added for clarity. The words “grant program” are substituted for “grant-in-aid program” for consistency in the chapter.

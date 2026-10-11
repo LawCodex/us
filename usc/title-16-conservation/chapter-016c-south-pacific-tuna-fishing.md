@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16C—SOUTH PACIFIC TUNA FISHING
 
-## § 973. Definitions
+## § 973. Definitions
 
 As used in this chapter—
 
@@ -63,23 +63,23 @@ As used in this chapter—
 
 **(16)** The term “Treaty” means the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed in Port Moresby, Papua New Guinea, April 2, 1987, and its Annexes, Schedules, and implementing agreements.
 
-(Pub. L. 100–330, § 2, June 7, 1988, 102 Stat. 591; Pub. L. 119–60, div. H, title LXXXIV, § 8412, Dec. 18, 2025, 139 Stat. 1914.)
+(Pub. L. 100–330, § 2, June 7, 1988, 102 Stat. 591; Pub. L. 119–60, div. H, title LXXXIV, § 8412, Dec. 18, 2025, 139 Stat. 1914.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Par. (4). Pub. L. 119–60, § 8412(a), substituted “noticed and in effect in accordance with” for “described in paragraph 1(a) of Annex I of”.
+2025—Par. (4). Pub. L. 119–60, § 8412(a), substituted “noticed and in effect in accordance with” for “described in paragraph 1(a) of Annex I of”.
 
-Par. (5). Pub. L. 119–60, § 8412(b), substituted “area within the jurisdiction of a Pacific Island Party that is closed to vessels pursuant to a national law of that Pacific Island Party and is noticed and in effect in accordance with” for “of the closed areas identified in Schedule 2 of Annex I of”.
+Par. (5). Pub. L. 119–60, § 8412(b), substituted “area within the jurisdiction of a Pacific Island Party that is closed to vessels pursuant to a national law of that Pacific Island Party and is noticed and in effect in accordance with” for “of the closed areas identified in Schedule 2 of Annex I of”.
 
-Par. (6)(C). Pub. L. 119–60, § 8412(c)(1), inserted “for any purpose” after “harvesting of fish”.
+Par. (6)(C). Pub. L. 119–60, § 8412(c)(1), inserted “for any purpose” after “harvesting of fish”.
 
-Par. (6)(F). Pub. L. 119–60, § 8412(c)(2), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “aircraft use, relating to the activities described in this paragraph except for flights in emergencies involving the health or safety of crew members or the safety of a vessel.”
+Par. (6)(F). Pub. L. 119–60, § 8412(c)(2), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “aircraft use, relating to the activities described in this paragraph except for flights in emergencies involving the health or safety of crew members or the safety of a vessel.”
 
-Par. (7). Pub. L. 119–60, § 8412(d), substituted “commercial purse seine fishing for tuna” for “commercial fishing”.
+Par. (7). Pub. L. 119–60, § 8412(d), substituted “commercial purse seine fishing for tuna” for “commercial fishing”.
 
-Par. (8). Pub. L. 119–60, § 8412(e), substituted “under the jurisdiction of a Pacific Island Party, except for internal waters, territorial seas, archipelagic waters, and any Closed Area.” for “in the Treaty Area except for—
+Par. (8). Pub. L. 119–60, § 8412(e), substituted “under the jurisdiction of a Pacific Island Party, except for internal waters, territorial seas, archipelagic waters, and any Closed Area.” for “in the Treaty Area except for—
 
 “(A) those waters subject to the jurisdiction of the United States in accordance with international law;
 
@@ -87,13 +87,13 @@ Par. (8). Pub. L. 119–60, § 8412(e), substituted “under the jurisdiction 
 
 “(C) those waters within Limited Areas closed to fishing.”
 
-Pars. (10) to (18). Pub. L. 119–60, § 8412(f), (g), added par. (13), redesignated former pars. (11) and (12) as (10) and (11), respectively, par. (14) as (12), and pars. (15) to (17) as (14) to (16), respectively, and struck out former pars. (10), (13), and (18), which defined, respectively, “Limited Area”, “Party”, and “Treaty Area”.
+Pars. (10) to (18). Pub. L. 119–60, § 8412(f), (g), added par. (13), redesignated former pars. (11) and (12) as (10) and (11), respectively, par. (14) as (12), and pars. (15) to (17) as (14) to (16), respectively, and struck out former pars. (10), (13), and (18), which defined, respectively, “Limited Area”, “Party”, and “Treaty Area”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–330, § 21, June 7, 1988, 102 Stat. 601, provided that:
+Pub. L. 100–330, § 21, June 7, 1988, 102 Stat. 601, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, this Act [enacting this chapter] shall be effective on the date on which the Treaty enters into force for the United States. [The Treaty entered into force for the United States June 15, 1988.]
 
@@ -105,17 +105,17 @@ Pub. L. 100–330, § 21, June 7, 1988, 102 Stat. 601, provided that:
 
 **Short Title**
 
-Pub. L. 100–330, § 1, June 7, 1988, 102 Stat. 591, provided: “That this Act [enacting this chapter] may be cited as the ‘South Pacific Tuna Act of 1988’.”
+Pub. L. 100–330, § 1, June 7, 1988, 102 Stat. 591, provided: “That this Act [enacting this chapter] may be cited as the ‘South Pacific Tuna Act of 1988’.”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 973a. Application to other laws
+## § 973a. Application to other laws
 
 The seizure by a Pacific Island Party of a vessel of the United States shall not be determined to be a seizure described in section 1825(a)(4)(C) of this title or section 1972 of title 22 if the seizure is found by the Secretary of State to be in accordance with the provisions of the Treaty.
 
-(Pub. L. 100–330, § 3, June 7, 1988, 102 Stat. 592; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 100–330, § 3, June 7, 1988, 102 Stat. 592; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
@@ -127,13 +127,13 @@ The seizure by a Pacific Island Party of a vessel of the United States shall not
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
-## § 973b. Regulations
+## § 973b. Regulations
 
 The Secretary of Commerce, with the concurrence of the Secretary of State and after consultation with the Secretary of the department in which the Coast Guard is operating, shall issue regulations as may be necessary to carry out the purposes and objectives of the Treaty and this chapter. These regulations shall be made applicable as necessary to all persons and vessels subject to the jurisdiction of the United States, wherever located.
 
-(Pub. L. 100–330, § 4, June 7, 1988, 102 Stat. 592.)
+(Pub. L. 100–330, § 4, June 7, 1988, 102 Stat. 592.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -145,7 +145,7 @@ Authority to promulgate regulations effective on June 7, 1988, with any such reg
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 973c. Prohibited acts
+## § 973c. Prohibited acts
 
 **(a)** It is unlawful for any person subject to the jurisdiction of the United States—
 
@@ -193,31 +193,31 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(6)** except for circumstances involving force majeure and other emergencies involving the health or safety of crew members or the safety of the vessel, to use an aircraft in association with the fishing activities of a vessel unless it is identified in the license application for the vessel, or any amendment thereto.
 
-(Pub. L. 100–330, § 5, June 7, 1988, 102 Stat. 592; Pub. L. 119–60, div. H, title LXXXIV, § 8413, Dec. 18, 2025, 139 Stat. 1915.)
+(Pub. L. 100–330, § 5, June 7, 1988, 102 Stat. 592; Pub. L. 119–60, div. H, title LXXXIV, § 8413, Dec. 18, 2025, 139 Stat. 1915.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8413(a)(1), substituted “It is unlawful” for “Except as provided in section 973d of this title, it is unlawful” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–60, § 8413(a)(1), substituted “It is unlawful” for “Except as provided in section 973d of this title, it is unlawful” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 119–60, § 8413(a)(2)–(4), redesignated par. (5) as (3), inserted “, except in accordance with an agreement pursuant to the Treaty” after “Closed Area”, and struck out former par. (3) which read as follows: “who has entered into a fishing arrangement under paragraph 3 of Article 3 of the Treaty, to violate the terms and conditions of such fishing arrangement if the Secretary of State has decided under section 973p of this title that Article 4 and paragraph 6 of Article 5 of the Treaty shall apply to the arrangement;”.
+Subsec. (a)(3). Pub. L. 119–60, § 8413(a)(2)–(4), redesignated par. (5) as (3), inserted “, except in accordance with an agreement pursuant to the Treaty” after “Closed Area”, and struck out former par. (3) which read as follows: “who has entered into a fishing arrangement under paragraph 3 of Article 3 of the Treaty, to violate the terms and conditions of such fishing arrangement if the Secretary of State has decided under section 973p of this title that Article 4 and paragraph 6 of Article 5 of the Treaty shall apply to the arrangement;”.
 
-Subsec. (a)(4). Pub. L. 119–60, § 8413(a)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “to use a vessel for fishing in any Limited Area in violation of any requirement in Schedule 3 of Annex I of the Treaty;”.
+Subsec. (a)(4). Pub. L. 119–60, § 8413(a)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “to use a vessel for fishing in any Limited Area in violation of any requirement in Schedule 3 of Annex I of the Treaty;”.
 
-Subsec. (a)(5) to (11). Pub. L. 119–60, § 8413(a)(3), redesignated pars. (7) to (13) as (5) to (11), respectively. Former pars. (5) and (6) redesignated (3) and (4), respectively.
+Subsec. (a)(5) to (11). Pub. L. 119–60, § 8413(a)(3), redesignated pars. (7) to (13) as (5) to (11), respectively. Former pars. (5) and (6) redesignated (3) and (4), respectively.
 
-Subsec. (a)(12), (13). Pub. L. 119–60, § 8413(a)(5)–(7), added pars. (12) and (13). Former pars. (12) and (13) redesignated (10) and (11), respectively.
+Subsec. (a)(12), (13). Pub. L. 119–60, § 8413(a)(5)–(7), added pars. (12) and (13). Former pars. (12) and (13) redesignated (10) and (11), respectively.
 
-Subsec. (b). Pub. L. 119–60, § 8413(b)(1), substituted “It is unlawful” for “Except as provided in section 973d of this title, it is unlawful”.
+Subsec. (b). Pub. L. 119–60, § 8413(b)(1), substituted “It is unlawful” for “Except as provided in section 973d of this title, it is unlawful”.
 
-Subsec. (b)(5) to (7). Pub. L. 119–60, § 8413(b)(2), (3), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “to operate a vessel in such a way as to disrupt or in any other way adversely affect the activities of traditional and locally based fishermen and fishing vessels;”.
+Subsec. (b)(5) to (7). Pub. L. 119–60, § 8413(b)(2), (3), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “to operate a vessel in such a way as to disrupt or in any other way adversely affect the activities of traditional and locally based fishermen and fishing vessels;”.
 
-## § 973d. Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8414, Dec. 18, 2025, 139 Stat. 1915
+## § 973d. Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8414, Dec. 18, 2025, 139 Stat. 1915
 
-Section, Pub. L. 100–330, § 6, June 7, 1988, 102 Stat. 594; Pub. L. 108–219, title IV, § 402, Apr. 13, 2004, 118 Stat. 617, created certain exceptions to prohibitions under section 973c of this title and licensing requirements under section 973g of this title.
+Section, Pub. L. 100–330, § 6, June 7, 1988, 102 Stat. 594; Pub. L. 108–219, title IV, § 402, Apr. 13, 2004, 118 Stat. 617, created certain exceptions to prohibitions under section 973c of this title and licensing requirements under section 973g of this title.
 
-## § 973e. Criminal offenses
+## § 973e. Criminal offenses
 
 **(a) Prohibited acts**
 
@@ -231,7 +231,7 @@ Any offense described in subsection (a) of this section is punishable by a fine 
 
 The district courts of the United States shall have jurisdiction over any offense described in this section.
 
-(Pub. L. 100–330, § 7, June 7, 1988, 102 Stat. 594; Pub. L. 119–60, div. H, title LXXXIV, § 8415, Dec. 18, 2025, 139 Stat. 1915.)
+(Pub. L. 100–330, § 7, June 7, 1988, 102 Stat. 594; Pub. L. 119–60, div. H, title LXXXIV, § 8415, Dec. 18, 2025, 139 Stat. 1915.)
 
 **Editorial Notes**
 
@@ -239,7 +239,7 @@ The district courts of the United States shall have jurisdiction over any offens
 
 2025—Subsec. (a). Pub. L. 119–60 substituted “paragraph (6), (8), (9), or (10) of section 973c(a)” for “section 973c(a)(8), (10), (11), or (12)”.
 
-## § 973f. Civil penalties
+## § 973f. Civil penalties
 
 **(a) Determination of liability; amount; participation by Secretary of State in assessment proceeding**
 
@@ -273,23 +273,23 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 there shall be no referral to the Attorney General under subsection (c) of this section or in rem action under subsection (d) of this section in connection with such civil penalty.
 
-(Pub. L. 100–330, § 8, June 7, 1988, 102 Stat. 594; Pub. L. 100–350, § 4(1), (2), June 27, 1988, 102 Stat. 660; Pub. L. 119–60, div. H, title LXXXIV, § 8416, Dec. 18, 2025, 139 Stat. 1915.)
+(Pub. L. 100–330, § 8, June 7, 1988, 102 Stat. 594; Pub. L. 100–350, § 4(1), (2), June 27, 1988, 102 Stat. 660; Pub. L. 119–60, div. H, title LXXXIV, § 8416, Dec. 18, 2025, 139 Stat. 1915.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8416(a), struck out “Code” after “liable to the United States” in first sentence and substituted “The amount” for “Except for those acts prohibited by section 973c(a)(4), (5), (7), (8), (10), (11), and (12), and section 973c(b)(1), (2), (3), and (7) of this title, the amount” in fourth sentence.
+2025—Subsec. (a). Pub. L. 119–60, § 8416(a), struck out “Code” after “liable to the United States” in first sentence and substituted “The amount” for “Except for those acts prohibited by section 973c(a)(4), (5), (7), (8), (10), (11), and (12), and section 973c(b)(1), (2), (3), and (7) of this title, the amount” in fourth sentence.
 
-Subsec. (g). Pub. L. 119–60, § 8416(b)(1), substituted “paragraph (1), (2), (3), (4), (5), (6), (7), (11), (12), or (13) of section 973c(a)” for “section 973c(a)(1), (2), (3), (4), (5), (6), (7), (8), (9), or (13)” in introductory provisions.
+Subsec. (g). Pub. L. 119–60, § 8416(b)(1), substituted “paragraph (1), (2), (3), (4), (5), (6), (7), (11), (12), or (13) of section 973c(a)” for “section 973c(a)(1), (2), (3), (4), (5), (6), (7), (8), (9), or (13)” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 119–60, § 8416(b)(2), struck out “, all Limited Areas closed to fishing,” after “outside of the Licensing Area”.
+Subsec. (g)(2). Pub. L. 119–60, § 8416(b)(2), struck out “, all Limited Areas closed to fishing,” after “outside of the Licensing Area”.
 
-1988—Subsec. (a). Pub. L. 100–350, § 4(1), substituted “and gravity” for “any gravity” and “history of prior” for “history or prior”.
+1988—Subsec. (a). Pub. L. 100–350, § 4(1), substituted “and gravity” for “any gravity” and “history of prior” for “history or prior”.
 
-Subsec. (g)(1). Pub. L. 100–350, § 4(2), substituted “Treaty” for “Treasury”.
+Subsec. (g)(1). Pub. L. 100–350, § 4(2), substituted “Treaty” for “Treasury”.
 
-## § 973g. Licenses
+## § 973g. Licenses
 
 **(a) Issuance; establishment of procedures; designation of agent for service of legal process in license application; reception and response to process**
 
@@ -329,45 +329,45 @@ The Secretary may establish a system of allocating licenses in the event more ap
 
 **(2)** the general permit issued on December 1, 1980, to the American Tunaboat Association under section 1374(h)(1) of this title; and
 
-**(3)** sections 1374(h)(2) and 1416(a) of this title— 1
+**(3)** sections 1374(h)(2) and 1416(a) of this title— 1
 
-<sup>1</sup>  So in original. The dash probably should be a semicolon.
+<sup>1</sup> So in original. The dash probably should be a semicolon.
 
 any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Licensing Area, and on the high seas and in waters subject to the jurisdiction of the United States west of 146 west longitude and east of 129.5 east longitude in accordance with international law, subject to the provisions of the Treaty, this chapter, and other applicable law, provided that no such vessel intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing.
 
-(Pub. L. 100–330, § 9, June 7, 1988, 102 Stat. 596; Pub. L. 104–43, title VIII, § 801, Nov. 3, 1995, 109 Stat. 395; Pub. L. 119–60, div. H, title LXXXIV, § 8417, Dec. 18, 2025, 139 Stat. 1916.)
+(Pub. L. 100–330, § 9, June 7, 1988, 102 Stat. 596; Pub. L. 104–43, title VIII, § 801, Nov. 3, 1995, 109 Stat. 395; Pub. L. 119–60, div. H, title LXXXIV, § 8417, Dec. 18, 2025, 139 Stat. 1916.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 8417(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “Except as provided in subsections (e), (f), and (g) of this section, the Secretary shall forward a vessel license application to the Secretary of State for transmittal to the Administrator whenever such application is in accordance with application procedures established by the Secretary, includes a complete application form as required by Annex II of the Treaty, and is accompanied by the required license fee.”
+2025—Subsec. (b). Pub. L. 119–60, § 8417(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “Except as provided in subsections (e), (f), and (g) of this section, the Secretary shall forward a vessel license application to the Secretary of State for transmittal to the Administrator whenever such application is in accordance with application procedures established by the Secretary, includes a complete application form as required by Annex II of the Treaty, and is accompanied by the required license fee.”
 
-Subsec. (c). Pub. L. 119–60, § 8417(b), amended subsec. (c) generally. Prior to amendment, text read as follows:
+Subsec. (c). Pub. L. 119–60, § 8417(b), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1) In the initial year of implementation, fees for the first 40 vessel licenses shall be at least $50,000 each, for any 10 vessel licenses in addition to the first 40 shall be $60,000 each, and for vessel licenses in addition to the first 50 shall be in accordance with Annex II of the Treaty.
 
 “(2) After such initial year, fees for vessel licenses shall be paid in accordance with fee schedules established under Annex II of the Treaty and published by the Secretary.”
 
-Subsec. (f). Pub. L. 119–60, § 8417(c)(2), (3), redesignated subsec. (g) as (f) and amended it generally. Prior to amendment, subsec. set forth grounds for denial of forwarding license applications. Former subsec. (f) struck out.
+Subsec. (f). Pub. L. 119–60, § 8417(c)(2), (3), redesignated subsec. (g) as (f) and amended it generally. Prior to amendment, subsec. set forth grounds for denial of forwarding license applications. Former subsec. (f) struck out.
 
-Pub. L. 119–60, § 8417(c)(1), struck out subsec. (f) which provided for minimum fees required to be received in initial year of implementation for forwarding and transmittal of license applications.
+Pub. L. 119–60, § 8417(c)(1), struck out subsec. (f) which provided for minimum fees required to be received in initial year of implementation for forwarding and transmittal of license applications.
 
-Subsec. (g). Pub. L. 119–60, § 8417(c)(4)(D), in concluding provisions, substituted “any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Licensing Area, and on the high seas and in waters subject to the jurisdiction of the United States west of 146 west longitude and east of 129.5 east longitude in accordance with international law, subject to the provisions of the Treaty, this chapter, and other applicable law, provided that no such vessel intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing.” for “any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.”
+Subsec. (g). Pub. L. 119–60, § 8417(c)(4)(D), in concluding provisions, substituted “any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Licensing Area, and on the high seas and in waters subject to the jurisdiction of the United States west of 146 west longitude and east of 129.5 east longitude in accordance with international law, subject to the provisions of the Treaty, this chapter, and other applicable law, provided that no such vessel intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing.” for “any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.”
 
-Pub. L. 119–60, § 8417(c)(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Pub. L. 119–60, § 8417(c)(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Subsec. (g)(1). Pub. L. 119–60, § 8417(c)(4)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “section 1 of the Act of August 26, 1983 (97 Stat. 587; 46 U.S.C. 12108);”.
+Subsec. (g)(1). Pub. L. 119–60, § 8417(c)(4)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “section 1 of the Act of August 26, 1983 (97 Stat. 587; 46 U.S.C. 12108);”.
 
-Subsec. (g)(2). Pub. L. 119–60, § 8417(c)(4)(B), made technical amendment to reference in original act which appears in text as reference to section 1374(h)(1) of this title.
+Subsec. (g)(2). Pub. L. 119–60, § 8417(c)(4)(B), made technical amendment to reference in original act which appears in text as reference to section 1374(h)(1) of this title.
 
-Subsec. (g)(3). Pub. L. 119–60, § 8417(c)(4)(C), made technical amendment to reference in original act which appears in text as reference to sections 1374(h)(2) and 1416(a) of this title.
+Subsec. (g)(3). Pub. L. 119–60, § 8417(c)(4)(C), made technical amendment to reference in original act which appears in text as reference to sections 1374(h)(2) and 1416(a) of this title.
 
-Subsec. (h). Pub. L. 119–60, § 8417(c)(2), redesignated subsec. (h) as (g).
+Subsec. (h). Pub. L. 119–60, § 8417(c)(2), redesignated subsec. (h) as (g).
 
 1995—Subsec. (h). Pub. L. 104–43 added subsec. (h).
 
-## § 973h. Enforcement
+## § 973h. Enforcement
 
 **(a) Federal responsibilities; utilization of personnel, etc., of other Federal and State agencies**
 
@@ -411,9 +411,9 @@ The provisions of this chapter shall be enforced by the Secretary in cooperation
 
 **(2)** To the extent possible, Authorized Officers shall exercise their powers under paragraph (1)(A)(ii), (iii), and (iv) of this subsection so as not to interfere unduly with the lawful operation of the vessel.
 
-**(3)** Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 1
+**(3)** Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14.
 
@@ -421,23 +421,23 @@ of title 14.
 
 The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter.
 
-(Pub. L. 100–330, § 10, June 7, 1988, 102 Stat. 597; Pub. L. 119–60, div. H, title LXXXIV, § 8418, Dec. 18, 2025, 139 Stat. 1917.)
+(Pub. L. 100–330, § 10, June 7, 1988, 102 Stat. 597; Pub. L. 119–60, div. H, title LXXXIV, § 8418, Dec. 18, 2025, 139 Stat. 1917.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 89 of title 14, referred to in subsec. (d)(3), redesignated section 522 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 89 of title 14, referred to in subsec. (d)(3), redesignated section 522 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
-2025—Subsec. (c)(1). Pub. L. 119–60, § 8418(a), struck out “paragraph 8 of Article 4 of” after “in accordance with” in first sentence and “Article 10 of” after “the notice under” in third sentence.
+2025—Subsec. (c)(1). Pub. L. 119–60, § 8418(a), struck out “paragraph 8 of Article 4 of” after “in accordance with” in first sentence and “Article 10 of” after “the notice under” in third sentence.
 
-Subsec. (d)(1)(A)(ii). Pub. L. 119–60, § 8418(b)(1), struck out “or” at end.
+Subsec. (d)(1)(A)(ii). Pub. L. 119–60, § 8418(b)(1), struck out “or” at end.
 
-Subsec. (d)(1)(A)(iii). Pub. L. 119–60, § 8418(b)(2), inserted “or” at end.
+Subsec. (d)(1)(A)(iii). Pub. L. 119–60, § 8418(b)(2), inserted “or” at end.
 
-## § 973i. Findings by Secretary
+## § 973i. Findings by Secretary
 
 **(a) Order of vessel to leave waters upon failure to submit to jurisdiction of Pacific Island Party; procedure applicable** Following any investigation conducted in accordance with section 973h(b) of this title, the Secretary, with the concurrence of the Secretary of State, and upon the request of the Pacific Island Party concerned, may order a fishing vessel which has not submitted to the jurisdiction of that Pacific Island Party to leave immediately the Licensing Area and all Closed Areas upon making a finding—
 
@@ -475,29 +475,29 @@ No order issued in accordance with this section is subject to judicial review.
 
 Upon a request by the Secretary, the Attorney General shall commence a civil action for appropriate relief, including permanent or temporary injunction, to enforce any order issued by the Secretary under this section.
 
-(Pub. L. 100–330, § 11, June 7, 1988, 102 Stat. 598; Pub. L. 100–350, § 4(3), June 27, 1988, 102 Stat. 660; Pub. L. 119–60, div. H, title LXXXIV, § 8419, Dec. 18, 2025, 139 Stat. 1917.)
+(Pub. L. 100–330, § 11, June 7, 1988, 102 Stat. 598; Pub. L. 100–350, § 4(3), June 27, 1988, 102 Stat. 660; Pub. L. 119–60, div. H, title LXXXIV, § 8419, Dec. 18, 2025, 139 Stat. 1917.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8419(a)(1), struck out “, all Limited Areas,” after “the Licensing Area”.
+2025—Subsec. (a). Pub. L. 119–60, § 8419(a)(1), struck out “, all Limited Areas,” after “the Licensing Area”.
 
-Subsec. (a)(1)(A). Pub. L. 119–60, § 8419(a)(2)(A), struck out “paragraph 2 of Article 3 of” after “and that under”.
+Subsec. (a)(1)(A). Pub. L. 119–60, § 8419(a)(2)(A), struck out “paragraph 2 of Article 3 of” after “and that under”.
 
-Subsec. (a)(1)(C). Pub. L. 119–60, § 8419(a)(2)(B), substituted “under the jurisdiction” for “within the Treaty Area”.
+Subsec. (a)(1)(C). Pub. L. 119–60, § 8419(a)(2)(B), substituted “under the jurisdiction” for “within the Treaty Area”.
 
-Subsec. (a)(2)(A). Pub. L. 119–60, § 8419(a)(3)(A), substituted “paragraph (3) of section 973c(a) or paragraph (2) or (3) of section 973c(b)” for “section 973c(a)(4), (a)(5), (b)(2), or (b)(3)”.
+Subsec. (a)(2)(A). Pub. L. 119–60, § 8419(a)(3)(A), substituted “paragraph (3) of section 973c(a) or paragraph (2) or (3) of section 973c(b)” for “section 973c(a)(4), (a)(5), (b)(2), or (b)(3)”.
 
-Subsec. (a)(2)(B). Pub. L. 119–60, § 8419(a)(3)(B), substituted “section 973c(b)(6)” for “section 973c(b)(7)”.
+Subsec. (a)(2)(B). Pub. L. 119–60, § 8419(a)(3)(B), substituted “section 973c(b)(6)” for “section 973c(b)(7)”.
 
-Subsec. (a)(2)(C). Pub. L. 119–60, § 8419(a)(3)(C), substituted “section 973c(a)(5)” for “section 973c(a)(7)”.
+Subsec. (a)(2)(C). Pub. L. 119–60, § 8419(a)(3)(C), substituted “section 973c(a)(5)” for “section 973c(a)(7)”.
 
-Subsec. (b). Pub. L. 119–60, § 8419(b), struck out “paragraph 7 of Article 5 of” after “Parties has been made under”.
+Subsec. (b). Pub. L. 119–60, § 8419(b), struck out “paragraph 7 of Article 5 of” after “Parties has been made under”.
 
 1988—Subsec. (a)(2)(C). Pub. L. 100–350 substituted “section 973c(a)(7) of this title” for “section 973c(b)(7) of this title”.
 
-## § 973j. Disclosure of information
+## § 973j. Disclosure of information
 
 **(a) Prohibited disclosure of certain information** Pursuant to section 552(b)(3) of title 5, except as provided in subsection (b), the Secretary shall keep confidential and may not disclose the following information:
 
@@ -515,9 +515,9 @@ Subsec. (b). Pub. L. 119–60, § 8419(b), struck out “paragraph 7 of Articl
 
 **(A)** for enforcement; or
 
-**(B)** in support of the homeland security missions and non-homeland security missions of the Coast Guard as defined in section 468 of title 6; 1
+**(B)** in support of the homeland security missions and non-homeland security missions of the Coast Guard as defined in section 468 of title 6; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3)** if the information is used by a Federal employee or an employee of a Fishery Management Council for the administration of the Treaty or fishery management and monitoring;
 
@@ -535,23 +535,23 @@ Subsec. (b). Pub. L. 119–60, § 8419(b), struck out “paragraph 7 of Articl
 
 **(2)** The absence of a provision similar to paragraph (1) in any other provision of law shall not be construed to limit the ability of the Senate or the House of Representatives, including a Committee or Member thereof, to obtain any record or information.
 
-(Pub. L. 100–330, § 12, June 7, 1988, 102 Stat. 599; Pub. L. 119–60, div. H, title LXXXIV, § 8420, Dec. 18, 2025, 139 Stat. 1917.)
+(Pub. L. 100–330, § 12, June 7, 1988, 102 Stat. 599; Pub. L. 119–60, div. H, title LXXXIV, § 8420, Dec. 18, 2025, 139 Stat. 1917.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 468 of title 6, referred to in subsec. (b)(2)(B), was amended by Pub. L. 119–60, div. G, title LXXII, § 7201(j)(2), Dec. 18, 2025, 139 Stat. 1686, by transferring subsec. (a) of that section defining “non-homeland security missions” and “homeland security missions” to section 102(a) of Title 14, Coast Guard.
+Section 468 of title 6, referred to in subsec. (b)(2)(B), was amended by Pub. L. 119–60, div. G, title LXXII, § 7201(j)(2), Dec. 18, 2025, 139 Stat. 1686, by transferring subsec. (a) of that section defining “non-homeland security missions” and “homeland security missions” to section 102(a) of Title 14, Coast Guard.
 
 **Amendments**
 
 2025—Pub. L. 119–60 amended section generally. Prior to amendment, section related to reporting requirements and the disclosure of information.
 
-## § 973k. Closed Area stowage requirements
+## § 973k. Closed Area stowage requirements
 
 At all times while a vessel is in a Closed Area, the fishing gear of the vessel shall be stowed in such a manner as not to be readily available for fishing and in accordance with any requirements established by the Secretary.
 
-(Pub. L. 100–330, § 13, June 7, 1988, 102 Stat. 599; Pub. L. 119–60, div. H, title LXXXIV, § 8421, Dec. 18, 2025, 139 Stat. 1918.)
+(Pub. L. 100–330, § 13, June 7, 1988, 102 Stat. 599; Pub. L. 119–60, div. H, title LXXXIV, § 8421, Dec. 18, 2025, 139 Stat. 1918.)
 
 **Editorial Notes**
 
@@ -559,11 +559,11 @@ At all times while a vessel is in a Closed Area, the fishing gear of the vessel 
 
 2025—Pub. L. 119–60 inserted “and in accordance with any requirements established by the Secretary” before period at end of first sentence and struck out at end “In particular, the boom shall be lowered as far as possible so that the vessel cannot be used for fishing, but so that the skiff is accessible for use in emergency situations; the helicopter, if any, shall be tied down; and launches shall be secured.”
 
-## § 973l. Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8422, Dec. 18, 2025, 139 Stat. 1918
+## § 973l. Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8422, Dec. 18, 2025, 139 Stat. 1918
 
-Section, Pub. L. 100–330, § 14, June 7, 1988, 102 Stat. 599, required the crew of a vessel to allow and assist any observer identified under the Treaty by the Pacific Island Parties.
+Section, Pub. L. 100–330, § 14, June 7, 1988, 102 Stat. 599, required the crew of a vessel to allow and assist any observer identified under the Treaty by the Pacific Island Parties.
 
-## § 973m. Fisheries-related assistance
+## § 973m. Fisheries-related assistance
 
 The Secretary and the Secretary of State may provide assistance to a Pacific Island Party to benefit such Pacific Island Party from the development of fisheries resources and the operation of fishing vessels that are licensed pursuant to the Treaty, including—
 
@@ -575,7 +575,7 @@ The Secretary and the Secretary of State may provide assistance to a Pacific Isl
 
 **(4)** other activities as determined appropriate by the Secretary and the Secretary of State.
 
-(Pub. L. 100–330, § 15, June 7, 1988, 102 Stat. 600; Pub. L. 119–60, div. H, title LXXXIV, § 8423, Dec. 18, 2025, 139 Stat. 1918.)
+(Pub. L. 100–330, § 15, June 7, 1988, 102 Stat. 600; Pub. L. 119–60, div. H, title LXXXIV, § 8423, Dec. 18, 2025, 139 Stat. 1918.)
 
 **Editorial Notes**
 
@@ -583,11 +583,11 @@ The Secretary and the Secretary of State may provide assistance to a Pacific Isl
 
 2025—Pub. L. 119–60 amended section generally. Prior to amendment, text read as follows: “The United States tuna industry shall provide $250,000 annually in technical assistance, including provision of assistance by technicians, in response to requests coordinated through the Administrator. The Secretary of State shall designate an entity to coordinate the provision of such technical assistance as provided by the United States tuna industry and to provide an annual report to the Secretary of State regarding the provision of such technical assistance.”
 
-## § 973n. Arbitration
+## § 973n. Arbitration
 
 In the event of a dispute requiring the establishment of an arbitral tribunal under the Treaty, the Secretary of State, in consultation with the Secretary, shall appoint the arbitrator to be appointed by the United States under the Treaty, shall determine the location of the arbitration, and shall represent the United States in reaching agreement under the Treaty with each Pacific Island Party involved concerning the appointment of the presiding arbitrator of the tribunal.
 
-(Pub. L. 100–330, § 16, June 7, 1988, 102 Stat. 600; Pub. L. 119–60, div. H, title LXXXIV, § 8424, Dec. 18, 2025, 139 Stat. 1919.)
+(Pub. L. 100–330, § 16, June 7, 1988, 102 Stat. 600; Pub. L. 119–60, div. H, title LXXXIV, § 8424, Dec. 18, 2025, 139 Stat. 1919.)
 
 **Editorial Notes**
 
@@ -595,11 +595,11 @@ In the event of a dispute requiring the establishment of an arbitral tribunal un
 
 2025—Pub. L. 119–60 struck out “Article 6 of” after “arbitral tribunal under” and substituted “the Treaty, shall determine the location of the arbitration, and shall represent the United States in reaching agreement under the Treaty” for “paragraph 3 of that Article, and shall represent the United States in reaching agreement under such paragraph”.
 
-## § 973o. Disposition of fees, penalties, forfeitures, and other moneys
+## § 973o. Disposition of fees, penalties, forfeitures, and other moneys
 
 To the extent required by the Treaty, an amount equivalent to the total value of any fine, penalty, or other amount collected as a result of any action, judicial or otherwise, taken pursuant to sections 973e and 973f of this title shall be paid by the United States through the Secretary of State to the Administrator as soon as reasonably possible following the date that such amount is collected.
 
-(Pub. L. 100–330, § 17, June 7, 1988, 102 Stat. 600; Pub. L. 119–60, div. H, title LXXXIV, § 8425, Dec. 18, 2025, 139 Stat. 1919.)
+(Pub. L. 100–330, § 17, June 7, 1988, 102 Stat. 600; Pub. L. 119–60, div. H, title LXXXIV, § 8425, Dec. 18, 2025, 139 Stat. 1919.)
 
 **Editorial Notes**
 
@@ -607,11 +607,11 @@ To the extent required by the Treaty, an amount equivalent to the total value of
 
 2025—Pub. L. 119–60 struck out “Article 4 of” after “extent required by”.
 
-## § 973p. Additional agreements
+## § 973p. Additional agreements
 
 The Secretary may establish procedures for review of any agreements for additional fishing access entered into pursuant to the Treaty.
 
-(Pub. L. 100–330, § 18, June 7, 1988, 102 Stat. 600; Pub. L. 119–60, div. H, title LXXXIV, § 8426, Dec. 18, 2025, 139 Stat. 1919.)
+(Pub. L. 100–330, § 18, June 7, 1988, 102 Stat. 600; Pub. L. 119–60, div. H, title LXXXIV, § 8426, Dec. 18, 2025, 139 Stat. 1919.)
 
 **Editorial Notes**
 
@@ -619,13 +619,13 @@ The Secretary may establish procedures for review of any agreements for addition
 
 2025—Pub. L. 119–60 substituted “The Secretary may establish procedures for review of any agreements for additional fishing access entered into pursuant to the Treaty.” for “Within 30 days after the Secretary of State’s receipt of notice from a Pacific Island Party that it has concluded an arrangement pursuant to paragraph 3 of Article 3 of the Treaty, the Secretary of State shall consult with the Secretary concerning whether the procedures of Article 4 and paragraph 6 of Article 5 of the Treaty should be made applicable to such arrangement. At the conclusion of the consultations the Pacific Island Party and all other persons agreeing to the arrangement shall be notified by the Secretary of State of the resulting decision.”
 
-## § 973q. Secretary of State to act for United States
+## § 973q. Secretary of State to act for United States
 
 The Secretary of State is authorized to receive on behalf of the United States reports, requests, and other communications from the Administrator and to act thereon directly or by reference to the appropriate authorities. The Secretary of State, after consultations with the Secretary, may accept or reject, on behalf of the United States, changes or amendments to Annex I of the Treaty and its Schedules and Annex II to the Treaty and its Schedules.
 
-(Pub. L. 100–330, § 19, June 7, 1988, 102 Stat. 600.)
+(Pub. L. 100–330, § 19, June 7, 1988, 102 Stat. 600.)
 
-## § 973r. Authorization of appropriations
+## § 973r. Authorization of appropriations
 
 **(a)** There are authorized to be appropriated for fiscal years 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, and 2002 such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this chapter including—
 
@@ -635,13 +635,13 @@ The Secretary of State is authorized to receive on behalf of the United States r
 
 **(b)** Funds appropriated for the purposes of the Treaty may be used notwithstanding any of the provisions of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) or of any appropriations Act that imposes restrictions on the maintenance or use of cash transfer assistance, which are inconsistent with the provisions of the Treaty.
 
-(Pub. L. 100–330, § 20, June 7, 1988, 102 Stat. 601; Pub. L. 102–523, § 3(b), Oct. 26, 1992, 106 Stat. 3433.)
+(Pub. L. 100–330, § 20, June 7, 1988, 102 Stat. 601; Pub. L. 102–523, § 3(b), Oct. 26, 1992, 106 Stat. 3433.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Amendments**
 

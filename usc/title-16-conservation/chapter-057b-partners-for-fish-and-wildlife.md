@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 57B—PARTNERS FOR FISH AND WILDLIFE
 
-## § 3771. Findings and purpose
+## § 3771. Findings and purpose
 
 **(a) Findings** Congress finds that—
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 
 The purpose of this chapter is to provide for the restoration, enhancement, and management of fish and wildlife habitats on private land through the Partners for Fish and Wildlife Program, a program that works with private landowners to conduct cost-effective habitat projects for the benefit of fish and wildlife resources in the United States.
 
-(Pub. L. 109–294, § 2, Oct. 3, 2006, 120 Stat. 1351.)
+(Pub. L. 109–294, § 2, Oct. 3, 2006, 120 Stat. 1351.)
 
 **Editorial Notes**
 
@@ -51,13 +51,13 @@ Executive Order No. 13352, referred to in subsec. (a)(6), is Ex. Ord. No. 13352,
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–159, div. E, title LIII, § 5301, Dec. 23, 2024, 138 Stat. 2445, provided that: “This subtitle [subtitle A (§§ 5301–5308) of title LIII of div. E of Pub. L. 118–159, amending sections 3774, 4211, 4245, 4264, 4266, 5304, 5306, 6303, 6305, 6603, and 6606 of this title and enacting provisions set out as a note under section 4201 of this title] may be cited as the ‘Wildlife Innovation and Longevity Driver reauthorization Act’ or the ‘WILD Act’.”
+Pub. L. 118–159, div. E, title LIII, § 5301, Dec. 23, 2024, 138 Stat. 2445, provided that: “This subtitle [subtitle A (§§ 5301–5308) of title LIII of div. E of Pub. L. 118–159, amending sections 3774, 4211, 4245, 4264, 4266, 5304, 5306, 6303, 6305, 6603, and 6606 of this title and enacting provisions set out as a note under section 4201 of this title] may be cited as the ‘Wildlife Innovation and Longevity Driver reauthorization Act’ or the ‘WILD Act’.”
 
 **Short Title**
 
-Pub. L. 109–294, § 1, Oct. 3, 2006, 120 Stat. 1351, provided that: “This Act [enacting this chapter] may be cited as the ‘Partners for Fish and Wildlife Act’.”
+Pub. L. 109–294, § 1, Oct. 3, 2006, 120 Stat. 1351, provided that: “This Act [enacting this chapter] may be cited as the ‘Partners for Fish and Wildlife Act’.”
 
-## § 3772. Definitions
+## § 3772. Definitions
 
 In this chapter:
 
@@ -151,9 +151,9 @@ The term “project” means a project carried out under the Partners for Fish a
 
 The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 109–294, § 3, Oct. 3, 2006, 120 Stat. 1352.)
+(Pub. L. 109–294, § 3, Oct. 3, 2006, 120 Stat. 1352.)
 
-## § 3773. Partners for Fish and Wildlife Program
+## § 3773. Partners for Fish and Wildlife Program
 
 The Secretary shall carry out the Partners for Fish and Wildlife Program within the United States Fish and Wildlife Service to provide—
 
@@ -161,13 +161,13 @@ The Secretary shall carry out the Partners for Fish and Wildlife Program within 
 
 **(2)** technical assistance to other public and private entities regarding fish and wildlife habitat restoration on private land.
 
-(Pub. L. 109–294, § 4, Oct. 3, 2006, 120 Stat. 1354.)
+(Pub. L. 109–294, § 4, Oct. 3, 2006, 120 Stat. 1354.)
 
-## § 3774. Authorization of appropriations
+## § 3774. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this chapter not more than $75,000,000 for each of fiscal years 2025 through 2029.
 
-(Pub. L. 109–294, § 5, Oct. 3, 2006, 120 Stat. 1354; Pub. L. 116–9, title VII, § 7001(a), Mar. 12, 2019, 133 Stat. 779; Pub. L. 118–159, div. E, title LIII, § 5302, Dec. 23, 2024, 138 Stat. 2445.)
+(Pub. L. 109–294, § 5, Oct. 3, 2006, 120 Stat. 1354; Pub. L. 116–9, title VII, § 7001(a), Mar. 12, 2019, 133 Stat. 779; Pub. L. 118–159, div. E, title LIII, § 5302, Dec. 23, 2024, 138 Stat. 2445.)
 
 **Editorial Notes**
 

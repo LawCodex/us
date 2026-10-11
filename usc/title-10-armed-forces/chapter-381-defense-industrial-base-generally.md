@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 381 “DEFENSE INDUSTRIAL BASE GENERALLY”, consisting of reserved section 4801, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1866(b), Jan. 1, 2021, 134 Stat. 4279.
+A prior chapter 381 “DEFENSE INDUSTRIAL BASE GENERALLY”, consisting of reserved section 4801, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1866(b), Jan. 1, 2021, 134 Stat. 4279.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Notice to Contractors and Employees Upon Proposed and Actual Termination or Substantial Reduction in Major Defense Programs**
 
-Pub. L. 102–484, div. D, title XLIV, § 4471, Oct. 23, 1992, 106 Stat. 2753, as amended by Pub. L. 103–160, div. A, title XIII, § 1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, § 1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, § 824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, § 1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(7)(C), (f)(6)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, as amended by Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(E), Jan. 1, 2021, 134 Stat. 4156, provided that:
+Pub. L. 102–484, div. D, title XLIV, § 4471, Oct. 23, 1992, 106 Stat. 2753, as amended by Pub. L. 103–160, div. A, title XIII, § 1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, § 1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, § 824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, § 1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(7)(C), (f)(6)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, as amended by Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(E), Jan. 1, 2021, 134 Stat. 4156, provided that:
 
 > **“(a) Notice Requirement After Enactment of Appropriations Act.—** Each year, not later than 60 days after the date of the enactment of an Act appropriating funds for the military functions of the Department of Defense, the Secretary of Defense, in accordance with regulations prescribed by the Secretary—
 
@@ -67,7 +67,7 @@ Pub. L. 102–484, div. D, title XLIV, § 4471, Oct. 23, 1992, 106 Stat. 2753,
 
 > **“(2)** The terms ‘substantial reduction’ and ‘substantially reduced’, with respect to a defense contract under a major defense program, mean a reduction of 25 percent or more in the total dollar value of the funds obligated by the contract.”
 
-## § 4801. Definitions
+## § 4801. Definitions
 
 In this subpart:
 
@@ -87,9 +87,9 @@ In this subpart:
 
 **(B)** a defense critical technology.
 
-**(7)** The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) 1
+**(7)** The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(d)).
 
@@ -131,7 +131,7 @@ Such term includes a consortium of such companies or other business entities, as
 
 **(15)** The term “integration” means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4203(a), Oct. 23, 1992, 106 Stat. 2661, § 2491; amended Pub. L. 103–160, div. A, title XI, § 1182(a)(9), title XIII, § 1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§ 1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, § 1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered § 2500 and amended Pub. L. 105–85, div. A, title III, § 371(b)(3), title X, § 1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, § 895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, § 881(b), Dec. 23, 2016, 130 Stat. 2316; renumbered § 4801 and amended Pub. L. 116–283, div. A, title XVIII, § 1866(c), Jan. 1, 2021, 134 Stat. 4279; Pub. L. 117–81, div. A, title XVII, § 1701(b)(21)(A), Dec. 27, 2021, 135 Stat. 2135; Pub. L. 117–263, div. A, title VIII, § 851, Dec. 23, 2022, 136 Stat. 2721.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4203(a), Oct. 23, 1992, 106 Stat. 2661, § 2491; amended Pub. L. 103–160, div. A, title XI, § 1182(a)(9), title XIII, § 1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§ 1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, § 1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered § 2500 and amended Pub. L. 105–85, div. A, title III, § 371(b)(3), title X, § 1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, § 895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, § 881(b), Dec. 23, 2016, 130 Stat. 2316; renumbered § 4801 and amended Pub. L. 116–283, div. A, title XVIII, § 1866(c), Jan. 1, 2021, 134 Stat. 4279; Pub. L. 117–81, div. A, title XVII, § 1701(b)(21)(A), Dec. 27, 2021, 135 Stat. 2135; Pub. L. 117–263, div. A, title VIII, § 851, Dec. 23, 2022, 136 Stat. 2721.)
 
 **Editorial Notes**
 
@@ -143,11 +143,11 @@ Section 603 of the National Science and Technology Policy, Organization, and Pri
 
 A prior section 4801 was renumbered section 7801 of this title.
 
-Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by Pub. L. 102–484, § 4202(a).
+Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by Pub. L. 102–484, § 4202(a).
 
 Prior sections 4802 to 4804 were renumbered sections 7802 to 7804 of this title, respectively.
 
-A prior section 4805, act Aug. 10, 1956, ch. 1041, 70A Stat. 271, related to reports to Congress with respect to claims under sections 4802, 4803, and 4804 of this title, prior to repeal by Pub. L. 86–533, § 1(8)(A), June 29, 1960, 74 Stat. 247.
+A prior section 4805, act Aug. 10, 1956, ch. 1041, 70A Stat. 271, related to reports to Congress with respect to claims under sections 4802, 4803, and 4804 of this title, prior to repeal by Pub. L. 86–533, § 1(8)(A), June 29, 1960, 74 Stat. 247.
 
 A prior section 4806 was renumbered section 7806 of this title.
 
@@ -155,27 +155,27 @@ A prior section 4806 was renumbered section 7806 of this title.
 
 2022—Par. (1). Pub. L. 117–263 inserted “New Zealand,” after “Australia,”.
 
-2021—Pub. L. 116–283, § 1866(c)(1), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(i), substituted “In this subpart” for “In this chapter” in introductory provisions.
+2021—Pub. L. 116–283, § 1866(c)(1), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(i), substituted “In this subpart” for “In this chapter” in introductory provisions.
 
-Pub. L. 116–283, § 1866(c), renumbered section 2500 of this title as this section.
+Pub. L. 116–283, § 1866(c), renumbered section 2500 of this title as this section.
 
-Par. (8). Pub. L. 116–283, § 1866(c)(2), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(ii), substituted “section 4816” for “section 2505” and “section 4811(a)” for “section 2501(a)”.
+Par. (8). Pub. L. 116–283, § 1866(c)(2), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(ii), substituted “section 4816” for “section 2505” and “section 4811(a)” for “section 2501(a)”.
 
-Par. (16). Pub. L. 116–283, § 1866(c)(3), which added par. (16) defining “chapter 148 legacy provision”, was repealed by Pub. L. 117–81, § 1701(b)(21)(A)(iii).
+Par. (16). Pub. L. 116–283, § 1866(c)(3), which added par. (16) defining “chapter 148 legacy provision”, was repealed by Pub. L. 117–81, § 1701(b)(21)(A)(iii).
 
-2016—Par. (1). Pub. L. 114–328 inserted “, the United Kingdom of Great Britain and Northern Ireland, Australia,” after “United States”.
+2016—Par. (1). Pub. L. 114–328 inserted “, the United Kingdom of Great Britain and Northern Ireland, Australia,” after “United States”.
 
-2011—Par. (1). Pub. L. 111–383, § 895(a)(1), substituted “integration, services, or information technology” for “or maintenance”.
+2011—Par. (1). Pub. L. 111–383, § 895(a)(1), substituted “integration, services, or information technology” for “or maintenance”.
 
-Par. (4). Pub. L. 111–383, § 895(a)(2), substituted “production, integration, services, or information technology” for “or production”.
+Par. (4). Pub. L. 111–383, § 895(a)(2), substituted “production, integration, services, or information technology” for “or production”.
 
-Par. (9)(A). Pub. L. 111–383, § 895(a)(3), substituted “manufacturing, integration, services, and information technology” for “and manufacturing”.
+Par. (9)(A). Pub. L. 111–383, § 895(a)(3), substituted “manufacturing, integration, services, and information technology” for “and manufacturing”.
 
-Par. (15). Pub. L. 111–383, § 895(a)(4), added par. (15).
+Par. (15). Pub. L. 111–383, § 895(a)(4), added par. (15).
 
-1997—Pub. L. 105–85, § 371(b)(3), renumbered section 2491 of this title as section 2500.
+1997—Pub. L. 105–85, § 371(b)(3), renumbered section 2491 of this title as section 2500.
 
-Par. (8). Pub. L. 105–85, § 1073(a)(53), substituted “that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.” for “that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title.”
+Par. (8). Pub. L. 105–85, § 1073(a)(53), substituted “that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.” for “that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title.”
 
 1996—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
 
@@ -189,15 +189,15 @@ Par. (8). Pub. L. 105–85, § 1073(a)(53), substituted “that is identified 
 
 “(C) is an eligible firm.”
 
-1994—Par. (5). Pub. L. 103–337, § 1113(d), inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
+1994—Par. (5). Pub. L. 103–337, § 1113(d), inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
 
-Par. (16). Pub. L. 103–337, § 1115(e), added par. (16).
+Par. (16). Pub. L. 103–337, § 1115(e), added par. (16).
 
-1993—Par. (2). Pub. L. 103–160, § 1182(a)(9)(A), substituted “nonmilitary applications” for “nonmilitary application”.
+1993—Par. (2). Pub. L. 103–160, § 1182(a)(9)(A), substituted “nonmilitary applications” for “nonmilitary application”.
 
-Par. (8). Pub. L. 103–160, § 1182(a)(9)(B), substituted “subsection (b)(4)” for “subsection (f)”.
+Par. (8). Pub. L. 103–160, § 1182(a)(9)(B), substituted “subsection (b)(4)” for “subsection (f)”.
 
-Pars. (13) to (15). Pub. L. 103–160, § 1315(f), added pars. (13) to (15).
+Pars. (13) to (15). Pub. L. 103–160, § 1315(f), added pars. (13) to (15).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -209,20 +209,20 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title XI, § 1101, Oct. 5, 1994, 108 Stat. 2862, provided that: “This title [enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under section 2501 of this title] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
+Pub. L. 103–337, div. A, title XI, § 1101, Oct. 5, 1994, 108 Stat. 2862, provided that: “This title [enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under section 2501 of this title] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title XIII, § 1301, Nov. 30, 1993, 107 Stat. 1783, provided that: “This title [enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
+Pub. L. 103–160, div. A, title XIII, § 1301, Nov. 30, 1993, 107 Stat. 1783, provided that: “This title [enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
 
 **Short Title**
 
-Pub. L. 102–484, div. D, § 4001, Oct. 23, 1992, 106 Stat. 2658, provided that: “This division [div. D (§§ 4001–4501) of Pub. L. 102–484, see Tables for classification] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
+Pub. L. 102–484, div. D, § 4001, Oct. 23, 1992, 106 Stat. 2658, provided that: “This division [div. D (§§ 4001–4501) of Pub. L. 102–484, see Tables for classification] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
 
 **Treatment of Interagency and State and Local Purchases When the Department of Defense Acts as Contract Intermediary for the General Services Administration**
 
-Pub. L. 114–92, div. A, title VIII, § 897, Nov. 25, 2015, 129 Stat. 954, provided that: “Contracts executed by the Department of Defense as a result of the transfer of contracts from the General Services Administration or for which the Department serves as an item manager for products on behalf of the General Services Administration shall not be subject to requirements under chapter 148 of title 10, United States Code [see chapters 381 to 385, and chapter 389, of this title], to the extent such contracts are for purchases of products by other Federal agencies or State or local governments.”
+Pub. L. 114–92, div. A, title VIII, § 897, Nov. 25, 2015, 129 Stat. 954, provided that: “Contracts executed by the Department of Defense as a result of the transfer of contracts from the General Services Administration or for which the Department serves as an item manager for products on behalf of the General Services Administration shall not be subject to requirements under chapter 148 of title 10, United States Code [see chapters 381 to 385, and chapter 389, of this title], to the extent such contracts are for purchases of products by other Federal agencies or State or local governments.”
 
 **Purposes of Title XLII of Pub. L. 102–484**
 
-Pub. L. 102–484, div. D, title XLII, § 4201, Oct. 23, 1992, 106 Stat. 2659, provided that: “The purposes of this title [see Tables for classification] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
+Pub. L. 102–484, div. D, title XLII, § 4201, Oct. 23, 1992, 106 Stat. 2659, provided that: “The purposes of this title [see Tables for classification] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”

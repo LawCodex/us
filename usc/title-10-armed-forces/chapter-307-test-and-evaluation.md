@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Pub. L. 116–283, div. A, title XVIII, § 1844(a), Jan. 1, 2021, 134 Stat. 4245, initially enacted chapter 307 of this title, consisting of sections 4141 to 4147, which was to become effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(A), Dec. 27, 2021, 135 Stat. 2153, amended section 1844(a) of Pub. L. 116–283, effective as if included therein, so that instead of enacting chapter 307, it enacted chapter 305 of this title consisting of sections 4141 to 4144.
+Pub. L. 116–283, div. A, title XVIII, § 1844(a), Jan. 1, 2021, 134 Stat. 4245, initially enacted chapter 307 of this title, consisting of sections 4141 to 4147, which was to become effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(A), Dec. 27, 2021, 135 Stat. 2153, amended section 1844(a) of Pub. L. 116–283, effective as if included therein, so that instead of enacting chapter 307, it enacted chapter 305 of this title consisting of sections 4141 to 4144.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(u)(6)(A), (C), Dec. 27, 2021, 135 Stat. 2154, amended Pub. L. 116–283, div. A, title XVIII, § 1845(a), Jan. 1, 2021, 134 Stat. 4247, which added this analysis, by redesignating chapter 309 as this chapter and by adding items 4174 and 4175.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(u)(6)(A), (C), Dec. 27, 2021, 135 Stat. 2154, amended Pub. L. 116–283, div. A, title XVIII, § 1845(a), Jan. 1, 2021, 134 Stat. 4247, which added this analysis, by redesignating chapter 309 as this chapter and by adding items 4174 and 4175.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Western Regional Range Complex Demonstration**
 
-Pub. L. 119–60, div. A, title II, § 227, Dec. 18, 2025, 139 Stat. 785, provided that:
+Pub. L. 119–60, div. A, title II, § 227, Dec. 18, 2025, 139 Stat. 785, provided that:
 
 > **“(a) Demonstration Required.—** The Secretary of Defense shall carry out a demonstration project under which the Secretary—
 
@@ -79,7 +79,7 @@ Pub. L. 119–60, div. A, title II, § 227, Dec. 18, 2025, 139 Stat. 785, prov
 
 **Authorization of Eastern Regional Range Complex for Multi-Domain Operations and Robotic Autonomous Systems Training, Testing, and Experimentation**
 
-Pub. L. 119–60, div. A, title X, § 1048, Dec. 18, 2025, 139 Stat. 1040, provided that:
+Pub. L. 119–60, div. A, title X, § 1048, Dec. 18, 2025, 139 Stat. 1040, provided that:
 
 > **“(a) Authorization.—** The Secretary of Defense, acting through the Secretaries of the military departments, may designate and develop an Eastern Regional Range Complex to serve as a joint training, testing, and experimentation hub for multi-domain operations and robotic autonomous systems, including unmanned aircraft systems and counter-unmanned aircraft systems capabilities, to address growing threats from potential adversaries.
 
@@ -123,9 +123,9 @@ Pub. L. 119–60, div. A, title X, § 1048, Dec. 18, 2025, 139 Stat. 1040, pro
 
 **Pilot Program To Test Machine-Vision Technologies To Determine the Authenticity and Security of Microelectronic Parts in Weapon Systems**
 
-Pub. L. 115–232, div. A, title VIII, § 843, Aug. 13, 2018, 132 Stat. 1878, as amended by Pub. L. 116–283, div. A, title XVIII, §§ 1806(e)(3)(C), 1866(d)(1), Jan. 1, 2021, 134 Stat. 4156, 4280, which required the establishment of a pilot program to test the feasibility and reliability of using machine-vision technologies to determine the authenticity and security of microelectronic parts in weapon systems, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(5)(C), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 115–232, div. A, title VIII, § 843, Aug. 13, 2018, 132 Stat. 1878, as amended by Pub. L. 116–283, div. A, title XVIII, §§ 1806(e)(3)(C), 1866(d)(1), Jan. 1, 2021, 134 Stat. 4156, 4280, which required the establishment of a pilot program to test the feasibility and reliability of using machine-vision technologies to determine the authenticity and security of microelectronic parts in weapon systems, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(5)(C), Dec. 18, 2025, 139 Stat. 948.
 
-## § 4171. Operational test and evaluation of defense acquisition programs
+## § 4171. Operational test and evaluation of defense acquisition programs
 
 **(a) Condition for Proceeding Beyond Low-rate Initial Production.—**
 
@@ -191,25 +191,25 @@ Pub. L. 115–232, div. A, title VIII, § 843, Aug. 13, 2018, 132 Stat. 1878, 
 
 **(3)** an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
 
-(Added Pub. L. 101–189, div. A, title VIII, § 802(a)(1), Nov. 29, 1989, 103 Stat. 1484, § 2399; amended Pub. L. 102–484, div. A, title VIII, § 819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, § 1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, § 1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, § 231(a), Oct. 17, 2006, 120 Stat. 2131; Pub. L. 111–383, div. A, title VIII, § 814(d), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 115–91, div. A, title XVI, § 1677(a), Dec. 12, 2017, 131 Stat. 1774; Pub. L. 116–92, div. A, title IX, § 902(62), Dec. 20, 2019, 133 Stat. 1550; renumbered § 4171 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1845(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4247, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(d)(10), (u)(6)(B), Dec. 27, 2021, 135 Stat. 2137, 2154.)
+(Added Pub. L. 101–189, div. A, title VIII, § 802(a)(1), Nov. 29, 1989, 103 Stat. 1484, § 2399; amended Pub. L. 102–484, div. A, title VIII, § 819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, § 1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, § 1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, § 231(a), Oct. 17, 2006, 120 Stat. 2131; Pub. L. 111–383, div. A, title VIII, § 814(d), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 115–91, div. A, title XVI, § 1677(a), Dec. 12, 2017, 131 Stat. 1774; Pub. L. 116–92, div. A, title IX, § 902(62), Dec. 20, 2019, 133 Stat. 1550; renumbered § 4171 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1845(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4247, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(d)(10), (u)(6)(B), Dec. 27, 2021, 135 Stat. 2137, 2154.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2399 of this title as this section.
+2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2399 of this title as this section.
 
-Subsec. (a)(2)(A). Pub. L. 117–81, § 1701(d)(10)(A), struck out “within the meaning of that term in section 3041 of this title” before period at end.
+Subsec. (a)(2)(A). Pub. L. 117–81, § 1701(d)(10)(A), struck out “within the meaning of that term in section 3041 of this title” before period at end.
 
-Pub. L. 116–283, § 1883(b)(2), substituted “section 3041” for “section 2302(5)”.
+Pub. L. 116–283, § 1883(b)(2), substituted “section 3041” for “section 2302(5)”.
 
-Subsec. (a)(2)(B). Pub. L. 117–81, § 1701(d)(10)(B), which directed the substitution of “under section 4203(a)(1) of this title” for “under” and all that followed through “this title”, was not executed in light of the prior amendment by section 1883(b)(2) of Pub. L. 116—283, to reflect the probable intent of Congress. See note below.
+Subsec. (a)(2)(B). Pub. L. 117–81, § 1701(d)(10)(B), which directed the substitution of “under section 4203(a)(1) of this title” for “under” and all that followed through “this title”, was not executed in light of the prior amendment by section 1883(b)(2) of Pub. L. 116—283, to reflect the probable intent of Congress. See note below.
 
-Pub. L. 116–283, § 1883(b)(2), substituted “section 4203(a)(1)” for “section 2430a(a)(1)”.
+Pub. L. 116–283, § 1883(b)(2), substituted “section 4203(a)(1)” for “section 2430a(a)(1)”.
 
 2019—Subsec. (b)(3). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “Under Secretary of Defense for Acquisition, Technology, and Logistics,”.
 
-2017—Subsec. (a)(1). Pub. L. 115–91 substituted “, a covered designated major subprogram, or an element of the ballistic missile defense system” for “or a covered designated major subprogram” and “program, subprogram, or element” for “program or subprogram”.
+2017—Subsec. (a)(1). Pub. L. 115–91 substituted “, a covered designated major subprogram, or an element of the ballistic missile defense system” for “or a covered designated major subprogram” and “program, subprogram, or element” for “program or subprogram”.
 
 2011—Subsec. (a). Pub. L. 111–383 amended subsec. (a) generally. Prior to amendment, text read as follows:
 
@@ -221,13 +221,13 @@ Pub. L. 116–283, § 1883(b)(2), substituted “section 4203(a)(1)” for “
 
 “(B) is designed for use in combat.”
 
-2006—Subsec. (b)(2). Pub. L. 109–364, § 231(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to—
+2006—Subsec. (b)(2). Pub. L. 109–364, § 231(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to—
 
 “(A) whether the test and evaluation performed were adequate; and
 
 “(B) whether the results of such test and evaluation confirm that the items or components actually tested are effective and suitable for combat.”
 
-Subsec. (b)(5), (6). Pub. L. 109–364, § 231(a)(2), (3), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 109–364, § 231(a)(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
 2003—Subsec. (h). Pub. L. 108–136 substituted “Operational Test and Evaluation Defined” for “Definitions” in heading, struck out introductory provisions which read “In this section:”, substituted “In this section, the term” for “(1) The term”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) which defined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
 
@@ -239,13 +239,13 @@ Subsec. (b)(5), (6). Pub. L. 109–364, § 231(a)(2), (3), added par. (5) and 
 
 1996—Subsec. (h)(2). Pub. L. 104–106 substituted “means—” and subpars. (A) and (B) for “means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
 
-1994—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, § 1070(a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
+1994—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, § 1070(a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
 
-Subsec. (e)(3)(B). Pub. L. 103–337, § 1070(f), substituted “solely in testing for” for “solely as a representative of”.
+Subsec. (e)(3)(B). Pub. L. 103–337, § 1070(f), substituted “solely in testing for” for “solely as a representative of”.
 
-Subsec. (g). Pub. L. 103–337, § 1070(a)(11)(B), substituted “139” for “138”.
+Subsec. (g). Pub. L. 103–337, § 1070(a)(11)(B), substituted “139” for “138”.
 
-Subsec. (h)(1). Pub. L. 103–337, § 1070(a)(11)(C), substituted “139(a)(2)(A)” for “138(a)(2)(A)”.
+Subsec. (h)(1). Pub. L. 103–337, § 1070(a)(11)(C), substituted “139(a)(2)(A)” for “138(a)(2)(A)”.
 
 1993—Subsec. (b)(3). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
@@ -267,7 +267,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this s
 
 **Alternative Test and Evaluation Pathway for Designated Defense Acquisition Programs**
 
-Pub. L. 119–60, div. A, title II, § 218, Dec. 18, 2025, 139 Stat. 776, provided that:
+Pub. L. 119–60, div. A, title II, § 218, Dec. 18, 2025, 139 Stat. 776, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense shall establish an alternative test and evaluation pathway as described in subsection (b) for covered programs to enhance agility, accelerate delivery of capabilities, and ensure data-driven decisionmaking, while maintaining independent oversight of evaluation outcomes.
 
@@ -345,7 +345,7 @@ Pub. L. 119–60, div. A, title II, § 218, Dec. 18, 2025, 139 Stat. 776, prov
 
 **Application of Software Innovation To Modernize Test and Evaluation Infrastructure**
 
-Pub. L. 119–60, div. A, title II, § 220, Dec. 18, 2025, 139 Stat. 778, provided that:
+Pub. L. 119–60, div. A, title II, § 220, Dec. 18, 2025, 139 Stat. 778, provided that:
 
 > **“(a) Establishment of Digital Test and Evaluation Environment.—**
 
@@ -397,7 +397,7 @@ Pub. L. 119–60, div. A, title II, § 220, Dec. 18, 2025, 139 Stat. 778, prov
 
 **Digital Engineering Capability To Automate Testing and Evaluation**
 
-Pub. L. 116–92, div. A, title II, § 231, Dec. 20, 2019, 133 Stat. 1274, provided that:
+Pub. L. 116–92, div. A, title II, § 231, Dec. 20, 2019, 133 Stat. 1274, provided that:
 
 > **“(a) Digital Engineering Capability.—**
 
@@ -497,7 +497,7 @@ Pub. L. 116–92, div. A, title II, § 231, Dec. 20, 2019, 133 Stat. 1274, pro
 
 **Enhancements to Transparency in Test and Evaluation Processes and Data**
 
-Pub. L. 115–91, div. A, title VIII, § 839, Dec. 12, 2017, 131 Stat. 1475, provided that:
+Pub. L. 115–91, div. A, title VIII, § 839, Dec. 12, 2017, 131 Stat. 1475, provided that:
 
 > **“(a) Additional Test and Evaluation Duties of Military Secretaries and Defense Agency Heads.—**
 
@@ -523,7 +523,7 @@ Pub. L. 115–91, div. A, title VIII, § 839, Dec. 12, 2017, 131 Stat. 1475, p
 
 > **“(c) Major Defense Acquisition Program Defined.—** In this section, the term ‘major defense acquisition program’ has the meaning provided in section 2430 of title 10, United States Code [now 10 U.S.C. 4201].”
 
-## § 4172. Major systems and munitions programs: survivability testing and lethality testing required before full-scale production
+## § 4172. Major systems and munitions programs: survivability testing and lethality testing required before full-scale production
 
 **(a) Requirements.—**
 
@@ -607,7 +607,7 @@ Pub. L. 115–91, div. A, title VIII, § 839, Dec. 12, 2017, 131 Stat. 1475, p
 
 **(8)** The term “Milestone C approval” means a decision to enter into production and deployment pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
-(Added Pub. L. 99–500, § 101(c) [title X, § 910(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, § 101(c) [title X, § 910(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, § 2366; Pub. L. 99–661, div. A, title IX, formerly title IV, § 910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, § 802, title XII, § 1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, § 1233(*l*)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§ 802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, § 1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, § 828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, § 3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, § 1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, § 821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, § 818, Dec. 2, 2002, 116 Stat. 2611; Pub. L. 108–136, div. A, title X, § 1043(b)(13), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 110–417, [div. A], title II, § 251(a), (b), Oct. 14, 2008, 122 Stat. 4400; renumbered § 4172 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1845(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4247, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 2154.)
+(Added Pub. L. 99–500, § 101(c) [title X, § 910(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, § 101(c) [title X, § 910(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, § 2366; Pub. L. 99–661, div. A, title IX, formerly title IV, § 910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, § 802, title XII, § 1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, § 1233(*l*)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§ 802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, § 1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, § 828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, § 3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, § 1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, § 821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, § 818, Dec. 2, 2002, 116 Stat. 2611; Pub. L. 108–136, div. A, title X, § 1043(b)(13), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 110–417, [div. A], title II, § 251(a), (b), Oct. 14, 2008, 122 Stat. 4400; renumbered § 4172 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1845(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4247, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 2154.)
 
 **Editorial Notes**
 
@@ -619,13 +619,13 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2366 of this title as this section.
+2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2366 of this title as this section.
 
-Subsec. (e)(1)(A)(ii), (2)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 3041” for “section 2302(5)”.
+Subsec. (e)(1)(A)(ii), (2)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 3041” for “section 2302(5)”.
 
-2008—Subsec. (d). Pub. L. 110–417, § 251(b), designated existing provisions as par. (1) and added par. (2).
+2008—Subsec. (d). Pub. L. 110–417, § 251(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e)(1). Pub. L. 110–417, § 251(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘covered system’ means a vehicle, weapon platform, or conventional weapon system—
+Subsec. (e)(1). Pub. L. 110–417, § 251(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘covered system’ means a vehicle, weapon platform, or conventional weapon system—
 
 “(A) that includes features designed to provide some degree of protection to users in combat; and
 
@@ -637,65 +637,65 @@ Subsec. (e)(1). Pub. L. 110–417, § 251(a), amended par. (1) generally. Prio
 
 “(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-2002—Subsec. (c)(1). Pub. L. 107–314, § 818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: “The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.”
+2002—Subsec. (c)(1). Pub. L. 107–314, § 818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: “The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.”
 
-Subsec. (e)(8), (9). Pub. L. 107–314, § 818(b), added pars. (8) and (9).
+Subsec. (e)(8), (9). Pub. L. 107–314, § 818(b), added pars. (8) and (9).
 
 2001—Subsec. (c)(1), (2). Pub. L. 107–107 substituted “system development and demonstration” for “engineering and manufacturing development”.
 
 1999—Subsec. (e)(7)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (d). Pub. L. 104–106, § 1502(a)(18)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
+1996—Subsec. (d). Pub. L. 104–106, § 1502(a)(18)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
 
-Subsec. (e)(7). Pub. L. 104–106, § 1502(a)(18)(B), added par. (7).
+Subsec. (e)(7). Pub. L. 104–106, § 1502(a)(18)(B), added par. (7).
 
-1994—Subsec. (c)(1). Pub. L. 103–355, § 3014(a)(2), (b), substituted “engineering and manufacturing development” for “full-scale engineering development” in first sentence and redesignated second sentence as par. (3).
+1994—Subsec. (c)(1). Pub. L. 103–355, § 3014(a)(2), (b), substituted “engineering and manufacturing development” for “full-scale engineering development” in first sentence and redesignated second sentence as par. (3).
 
-Subsec. (c)(2). Pub. L. 103–355, § 3014(a)(1), (3), added par. (2) and redesignated former par. (2) as (4).
+Subsec. (c)(2). Pub. L. 103–355, § 3014(a)(1), (3), added par. (2) and redesignated former par. (2) as (4).
 
-Subsec. (c)(3). Pub. L. 103–355, § 3014(a)(2), redesignated second sentence of par. (1) as par. (3) and substituted “certification under paragraph (1) or (2)” for “such certification”.
+Subsec. (c)(3). Pub. L. 103–355, § 3014(a)(2), redesignated second sentence of par. (1) as par. (3) and substituted “certification under paragraph (1) or (2)” for “such certification”.
 
-Subsec. (c)(4). Pub. L. 103–355, § 3014(a)(1), redesignated par. (2) as (4).
+Subsec. (c)(4). Pub. L. 103–355, § 3014(a)(1), redesignated par. (2) as (4).
 
 1993—Subsec. (d). Pub. L. 103–160 substituted “to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives” for “to the defense committees of Congress (as defined in section 2362(e)(3) of this title)”.
 
-1990—Subsec. (a)(1)(A), (B). Pub. L. 101–510 made technical correction to directory language of Pub. L. 101–189, § 804(a), see 1989 Amendment note below.
+1990—Subsec. (a)(1)(A), (B). Pub. L. 101–510 made technical correction to directory language of Pub. L. 101–189, § 804(a), see 1989 Amendment note below.
 
-1989—Pub. L. 101–189, § 802(c)(4)(A), substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in section catchline.
+1989—Pub. L. 101–189, § 802(c)(4)(A), substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in section catchline.
 
-Subsec. (a)(1)(A). Pub. L. 101–189, §§ 802(c)(1)(A), 804(a), as amended by Pub. L. 101–510, substituted “this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and” for “this section;”.
+Subsec. (a)(1)(A). Pub. L. 101–189, §§ 802(c)(1)(A), 804(a), as amended by Pub. L. 101–510, substituted “this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and” for “this section;”.
 
-Subsec. (a)(1)(B). Pub. L. 101–189, §§ 802(c)(1)(B), 804(a), as amended by Pub. L. 101–510, substituted “this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection.” for “this section; and”.
+Subsec. (a)(1)(B). Pub. L. 101–189, §§ 802(c)(1)(B), 804(a), as amended by Pub. L. 101–510, substituted “this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection.” for “this section; and”.
 
-Subsec. (a)(1)(C). Pub. L. 101–189, § 802(c)(1)(C), struck out subpar. (C) which read as follows: “a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed in accordance with this section.”
+Subsec. (a)(1)(C). Pub. L. 101–189, § 802(c)(1)(C), struck out subpar. (C) which read as follows: “a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed in accordance with this section.”
 
-Subsec. (b)(2), (3). Pub. L. 101–189, § 802(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a major defense acquisition program, no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
+Subsec. (b)(2), (3). Pub. L. 101–189, § 802(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a major defense acquisition program, no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
 
-Subsec. (d). Pub. L. 101–189, § 804(b), inserted at end “Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary’s overall assessment of the testing.”
+Subsec. (d). Pub. L. 101–189, § 804(b), inserted at end “Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary’s overall assessment of the testing.”
 
-Subsec. (e)(3) to (8). Pub. L. 101–189, § 802(c)(3), redesignated pars. (4), (5), (6), and (8) as (3), (4), (5), and (6), respectively, and struck out former par. (3) which defined “major defense acquisition program” and former par. (7) which defined “operational test and evaluation”.
+Subsec. (e)(3) to (8). Pub. L. 101–189, § 802(c)(3), redesignated pars. (4), (5), (6), and (8) as (3), (4), (5), and (6), respectively, and struck out former par. (3) which defined “major defense acquisition program” and former par. (7) which defined “operational test and evaluation”.
 
-1988—Subsec. (a)(2). Pub. L. 100–456 made technical correction to directory language of Pub. L. 100–180, § 802(a)(1)(C). See 1987 Amendment note below.
+1988—Subsec. (a)(2). Pub. L. 100–456 made technical correction to directory language of Pub. L. 100–180, § 802(a)(1)(C). See 1987 Amendment note below.
 
-1987—Subsec. (a). Pub. L. 100–180, § 802(a)(1), as amended by Pub. L. 100–456, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), and added par. (2).
+1987—Subsec. (a). Pub. L. 100–180, § 802(a)(1), as amended by Pub. L. 100–456, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), and added par. (2).
 
-Subsec. (b)(1). Pub. L. 100–180, § 802(a)(2), inserted “(including a covered product improvement program)” after “system or program” and “(or in the product modification or upgrade to the system, munition, or missile)” after “or missile”.
+Subsec. (b)(1). Pub. L. 100–180, § 802(a)(2), inserted “(including a covered product improvement program)” after “system or program” and “(or in the product modification or upgrade to the system, munition, or missile)” after “or missile”.
 
-Subsec. (b)(2). Pub. L. 100–180, § 802(b), inserted at end “The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
+Subsec. (b)(2). Pub. L. 100–180, § 802(b), inserted at end “The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
 
-Subsec. (c). Pub. L. 100–180, § 802(a)(3), (c), (d)(1), designated existing provisions as par. (1), substituted “missile program, or covered product improvement program” for “or missile program”, and inserted at end “The Secretary shall include with any such certification a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.”
+Subsec. (c). Pub. L. 100–180, § 802(a)(3), (c), (d)(1), designated existing provisions as par. (1), substituted “missile program, or covered product improvement program” for “or missile program”, and inserted at end “The Secretary shall include with any such certification a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.”
 
-Pub. L. 100–180, § 802(d)(2), designated existing provisions of former subsec. (d) as par. (2) of subsec. (c) and struck out heading of former subsec. (d) “Waiver in time of war or mobilization”.
+Pub. L. 100–180, § 802(d)(2), designated existing provisions of former subsec. (d) as par. (2) of subsec. (c) and struck out heading of former subsec. (d) “Waiver in time of war or mobilization”.
 
-Subsec. (d). Pub. L. 100–180, § 802(d)(3), added subsec. (d). Former subsec. (d) redesignated subsec. (c)(2).
+Subsec. (d). Pub. L. 100–180, § 802(d)(3), added subsec. (d). Former subsec. (d) redesignated subsec. (c)(2).
 
-Subsec. (e)(1)(B). Pub. L. 100–180, § 1231(11), substituted “section 2302(5)” for “section 2303(5)”.
+Subsec. (e)(1)(B). Pub. L. 100–180, § 1231(11), substituted “section 2302(5)” for “section 2303(5)”.
 
-Subsec. (e)(4). Pub. L. 100–180, § 802(a)(4)(A), (e), inserted “(or a covered product improvement program for a covered system)” after “covered system”, struck out “and survivability” after “for vulnerability”, and substituted “susceptibility to attack” for “operational requirements”.
+Subsec. (e)(4). Pub. L. 100–180, § 802(a)(4)(A), (e), inserted “(or a covered product improvement program for a covered system)” after “covered system”, struck out “and survivability” after “for vulnerability”, and substituted “susceptibility to attack” for “operational requirements”.
 
-Subsec. (e)(5). Pub. L. 100–180, § 802(a)(4)(B), inserted “(or a covered product improvement program for such a program)” after “missile program”.
+Subsec. (e)(5). Pub. L. 100–180, § 802(a)(4)(B), inserted “(or a covered product improvement program for such a program)” after “missile program”.
 
-Subsec. (e)(8). Pub. L. 100–180, § 802(a)(4)(C), added par. (8).
+Subsec. (e)(8). Pub. L. 100–180, § 802(a)(4)(C), added par. (8).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -707,11 +707,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title XII, § 1233(*l*)(5), Sept. 29, 1988, 102 Stat. 2058, provided that: “The amendments made by this subsection [amending this section and sections 4214 and 8855 of this title and section 301c of Title 37, Pay and Allowances of the Uniformed Services] shall apply as if included in the enactment of Public Law 100–180.”
+Pub. L. 100–456, div. A, title XII, § 1233(*l*)(5), Sept. 29, 1988, 102 Stat. 2058, provided that: “The amendments made by this subsection [amending this section and sections 4214 and 8855 of this title and section 301c of Title 37, Pay and Allowances of the Uniformed Services] shall apply as if included in the enactment of Public Law 100–180.”
 
 **Effective Date**
 
-Pub. L. 99–500, § 101(c) [title X, § 910(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–145, Pub. L. 99–591, § 101(c) [title X, § 910(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–145, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 910(b), Nov. 14, 1986, 100 Stat. 3924, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that:
+Pub. L. 99–500, § 101(c) [title X, § 910(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–145, Pub. L. 99–591, § 101(c) [title X, § 910(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–145, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 910(b), Nov. 14, 1986, 100 Stat. 3924, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that:
 
 > “Section 2366 of title 10, United States Code [now 10 U.S.C. 4172] (as added by subsection (a)), shall apply with respect to any decision to proceed with a program beyond low-rate initial production that is made—
 
@@ -721,7 +721,7 @@ Pub. L. 99–500, § 101(c) [title X, § 910(b)], Oct. 18, 1986, 100 Stat. 1
 
 **Prohibition on Use of Live Animals in Department of Defense Live Fire Trauma Training**
 
-Pub. L. 119–60, div. A, title X, § 1050, Dec. 18, 2025, 139 Stat. 1042, provided that:
+Pub. L. 119–60, div. A, title X, § 1050, Dec. 18, 2025, 139 Stat. 1042, provided that:
 
 > “Beginning on the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall—
 
@@ -731,7 +731,7 @@ Pub. L. 119–60, div. A, title X, § 1050, Dec. 18, 2025, 139 Stat. 1042, pro
 
 **Consideration of Lethality in the Analysis of Alternatives for Munitions**
 
-Pub. L. 118–31, div. A, title II, § 242, Dec. 22, 2023, 137 Stat. 208, provided that:
+Pub. L. 118–31, div. A, title II, § 242, Dec. 22, 2023, 137 Stat. 208, provided that:
 
 > **“(a) Analysis of Alternatives Review.—** The Secretary of Defense shall ensure that lethality is considered in any analysis of alternatives conducted prior to issuing a capability development document for purposes of procuring any new munition or modifying an existing munition.
 
@@ -745,7 +745,7 @@ Pub. L. 118–31, div. A, title II, § 242, Dec. 22, 2023, 137 Stat. 208, prov
 
 **Pilot Program on Incorporation of the CL20 Compound in Certain Weapon Systems**
 
-Pub. L. 118–31, div. A, title II, § 243, Dec. 22, 2023, 137 Stat. 209, provided that:
+Pub. L. 118–31, div. A, title II, § 243, Dec. 22, 2023, 137 Stat. 209, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Defense shall carry out a pilot program under which the Secretary incorporates the CL20 compound as the energetic material for the main fill in the warheads or propellants of three weapon systems under development by the Department of Defense for the purpose of determining cost, schedule, and lethality performance parameters for such systems.
 
@@ -779,7 +779,7 @@ Pub. L. 118–31, div. A, title II, § 243, Dec. 22, 2023, 137 Stat. 209, prov
 
 **Development and Implementation of Digital Technologies for Survivability and Lethality Testing**
 
-Pub. L. 117–81, div. A, title II, § 223, Dec. 27, 2021, 135 Stat. 1601, provided that:
+Pub. L. 117–81, div. A, title II, § 223, Dec. 27, 2021, 135 Stat. 1601, provided that:
 
 > **“(a) Expansion of Survivability and Lethality Testing.—**
 
@@ -931,7 +931,7 @@ Pub. L. 117–81, div. A, title II, § 223, Dec. 27, 2021, 135 Stat. 1601, pro
 
 > **“(8)** The term ‘Secretary’ means the Secretary of Defense.”
 
-## § 4173. Department of Defense Test Resource Management Center
+## § 4173. Department of Defense Test Resource Management Center
 
 **(a) Establishment as Department of Defense Field Activity.—** The Secretary of Defense shall establish within the Department of Defense under section 191 of this title a Department of Defense Test Resource Management Center (hereinafter in this section referred to as the “Center”). The Secretary shall designate the Center as a Department of Defense Field Activity.
 
@@ -1035,7 +1035,7 @@ Pub. L. 117–81, div. A, title II, § 223, Dec. 27, 2021, 135 Stat. 1601, pro
 
 **(j) Definition.—** In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 
-(Added Pub. L. 107–314, div. A, title II, § 231(a)(1), Dec. 2, 2002, 116 Stat. 2487, § 196; amended Pub. L. 108–136, div. A, title II, § 212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, § 258(a), title IX, § 902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, § 251, Oct. 28, 2009, 123 Stat. 2241; Pub. L. 113–291, div. A, title II, § 214, Dec. 19, 2014, 128 Stat. 3326; Pub. L. 114–328, div. A, title V, § 502(c), title X, § 1081(a)(3), Dec. 23, 2016, 130 Stat. 2102, 2417; Pub. L. 115–91, div. A, title II, § 222, Dec. 12, 2017, 131 Stat. 1333; Pub. L. 115–232, div. A, title II, § 221, title IX, § 904, Aug. 13, 2018, 132 Stat. 1681, 1922; renumbered § 4173 and amended Pub. L. 116–283, div. A, title II, § 272, title XVIII, § 1845(b), Jan. 1, 2021, 134 Stat. 3502, 4247; Pub. L. 117–81, div. A, title X, § 1081(a)(5), title XVII, § 1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 1919, 2154; Pub. L. 118–159, div. B, title XXVIII, § 2871(a), (b), Dec. 23, 2024, 138 Stat. 2281.)
+(Added Pub. L. 107–314, div. A, title II, § 231(a)(1), Dec. 2, 2002, 116 Stat. 2487, § 196; amended Pub. L. 108–136, div. A, title II, § 212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, § 258(a), title IX, § 902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, § 251, Oct. 28, 2009, 123 Stat. 2241; Pub. L. 113–291, div. A, title II, § 214, Dec. 19, 2014, 128 Stat. 3326; Pub. L. 114–328, div. A, title V, § 502(c), title X, § 1081(a)(3), Dec. 23, 2016, 130 Stat. 2102, 2417; Pub. L. 115–91, div. A, title II, § 222, Dec. 12, 2017, 131 Stat. 1333; Pub. L. 115–232, div. A, title II, § 221, title IX, § 904, Aug. 13, 2018, 132 Stat. 1681, 1922; renumbered § 4173 and amended Pub. L. 116–283, div. A, title II, § 272, title XVIII, § 1845(b), Jan. 1, 2021, 134 Stat. 3502, 4247; Pub. L. 117–81, div. A, title X, § 1081(a)(5), title XVII, § 1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 1919, 2154; Pub. L. 118–159, div. B, title XXVIII, § 2871(a), (b), Dec. 23, 2024, 138 Stat. 2281.)
 
 **Editorial Notes**
 
@@ -1045,65 +1045,65 @@ The date of the enactment of this subsection, referred to in subsec. (i), is the
 
 **Amendments**
 
-2024—Subsec. (c)(1)(F). Pub. L. 118–159, § 2871(a), added subpar. (F).
+2024—Subsec. (c)(1)(F). Pub. L. 118–159, § 2871(a), added subpar. (F).
 
-Subsecs. (i), (j). Pub. L. 118–159, § 2871(b), added subsec. (i) and redesignated former subsec. (i) as (j).
+Subsecs. (i), (j). Pub. L. 118–159, § 2871(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 196 of this title as this section.
+2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 196 of this title as this section.
 
-Subsec. (c)(1)(C). Pub. L. 116–283, § 272(a)(1), inserted “quadrennial” before “strategic plan”.
+Subsec. (c)(1)(C). Pub. L. 116–283, § 272(a)(1), inserted “quadrennial” before “strategic plan”.
 
-Subsec. (d). Pub. L. 117–81, § 1081(a)(5), substituted “National Defense Strategy,” for “National Defense Strategy,,”.
+Subsec. (d). Pub. L. 117–81, § 1081(a)(5), substituted “National Defense Strategy,” for “National Defense Strategy,,”.
 
-Pub. L. 116–283, § 272(a)(2), inserted “Quadrennial” before “Strategic Plan” in heading and “quadrennial” before “strategic plan” wherever appearing in text.
+Pub. L. 116–283, § 272(a)(2), inserted “Quadrennial” before “Strategic Plan” in heading and “quadrennial” before “strategic plan” wherever appearing in text.
 
-Subsec. (d)(1). Pub. L. 116–283, § 272(e), which directed substitution of “Test Resource Management Center” for “Test Resources Management Center” in subsec. (d)(1) “of such”, was executed by making substitution to “such section”, meaning subsec. (d)(1) of this section, to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 116–283, § 272(e), which directed substitution of “Test Resource Management Center” for “Test Resources Management Center” in subsec. (d)(1) “of such”, was executed by making substitution to “such section”, meaning subsec. (d)(1) of this section, to reflect the probable intent of Congress.
 
-Pub. L. 116–283, § 272(b), substituted “four fiscal years, and within one year after release of the National Defense Strategy,” for “two fiscal years” in first sentence.
+Pub. L. 116–283, § 272(b), substituted “four fiscal years, and within one year after release of the National Defense Strategy,” for “two fiscal years” in first sentence.
 
-Subsec. (d)(2)(C). Pub. L. 116–283, § 272(c), substituted “for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.” for “based on current and emerging threats and satisfy such performance measures.”
+Subsec. (d)(2)(C). Pub. L. 116–283, § 272(c), substituted “for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.” for “based on current and emerging threats and satisfy such performance measures.”
 
-Subsec. (d)(5). Pub. L. 116–283, § 272(d), added par. (5).
+Subsec. (d)(5). Pub. L. 116–283, § 272(d), added par. (5).
 
-Subsec. (e)(2)(B). Pub. L. 116–283, § 272(a)(1), inserted “quadrennial” before “strategic plan”.
+Subsec. (e)(2)(B). Pub. L. 116–283, § 272(a)(1), inserted “quadrennial” before “strategic plan”.
 
-2018—Subsec. (c)(1)(B). Pub. L. 115–232, § 904, which directed substitution of “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”, was executed by making the substitution for “Under Secretary of Acquisition, Technology, and Logistics” to reflect the probable intent of Congress.
+2018—Subsec. (c)(1)(B). Pub. L. 115–232, § 904, which directed substitution of “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”, was executed by making the substitution for “Under Secretary of Acquisition, Technology, and Logistics” to reflect the probable intent of Congress.
 
-Subsec. (d)(1). Pub. L. 115–232, § 221(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources, including modeling and simulation capabilities. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.”
+Subsec. (d)(1). Pub. L. 115–232, § 221(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources, including modeling and simulation capabilities. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.”
 
-Subsec. (d)(2)(C). Pub. L. 115–232, § 221(2), substituted “needed to meet current and future requirements based on current and emerging threats” for “needed to meet such requirements”.
+Subsec. (d)(2)(C). Pub. L. 115–232, § 221(2), substituted “needed to meet current and future requirements based on current and emerging threats” for “needed to meet such requirements”.
 
-Subsec. (g). Pub. L. 115–232, § 904, substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (g). Pub. L. 115–232, § 904, substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-2017—Subsec. (d)(1). Pub. L. 115–91, § 222(1), inserted “, including modeling and simulation capabilities” after “and resources” in the first sentence.
+2017—Subsec. (d)(1). Pub. L. 115–91, § 222(1), inserted “, including modeling and simulation capabilities” after “and resources” in the first sentence.
 
-Subsec. (e)(1). Pub. L. 115–91, § 222(2), inserted “, including modeling and simulation activities,” after “evaluation activities”.
+Subsec. (e)(1). Pub. L. 115–91, § 222(2), inserted “, including modeling and simulation activities,” after “evaluation activities”.
 
-2016—Subsec. (b)(1). Pub. L. 114–328, § 502(c), struck out second and third sentences which read as follows: “A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
+2016—Subsec. (b)(1). Pub. L. 114–328, § 502(c), struck out second and third sentences which read as follows: “A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
 
-Subsec. (c)(1)(A)(ii). Pub. L. 114–328, § 1081(a)(3), substituted “section 139(j)” for “section 139(i)”.
+Subsec. (c)(1)(A)(ii). Pub. L. 114–328, § 1081(a)(3), substituted “section 139(j)” for “section 139(i)”.
 
-2014—Subsec. (c)(1)(B). Pub. L. 113–291, § 214(a), inserted “, including with respect to the expansion, divestment, consolidation, or curtailment of activities,” after “Base”.
+2014—Subsec. (c)(1)(B). Pub. L. 113–291, § 214(a), inserted “, including with respect to the expansion, divestment, consolidation, or curtailment of activities,” after “Base”.
 
-Subsec. (d)(2)(E) to (G). Pub. L. 113–291, § 214(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+Subsec. (d)(2)(E) to (G). Pub. L. 113–291, § 214(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-Subsec. (e)(1). Pub. L. 113–291, § 214(c), inserted “and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year” after “activities for a fiscal year”.
+Subsec. (e)(1). Pub. L. 113–291, § 214(c), inserted “and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year” after “activities for a fiscal year”.
 
-Subsecs. (f) to (i). Pub. L. 113–291, § 214(d), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+Subsecs. (f) to (i). Pub. L. 113–291, § 214(d), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
 2009—Subsec. (c). Pub. L. 111–84 inserted par. (1) designation before “The Director”, redesignated former par. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
 
-2006—Subsec. (b)(1). Pub. L. 109–163, § 902(a), substituted “individuals who have substantial experience in the field of test and evaluation.” for “commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense.”
+2006—Subsec. (b)(1). Pub. L. 109–163, § 902(a), substituted “individuals who have substantial experience in the field of test and evaluation.” for “commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense.”
 
-Subsec. (b)(2). Pub. L. 109–163, § 902(b), substituted “individuals” for “senior civilian officers and employees of the Department of Defense”.
+Subsec. (b)(2). Pub. L. 109–163, § 902(b), substituted “individuals” for “senior civilian officers and employees of the Department of Defense”.
 
-Subsec. (h). Pub. L. 109–163, § 258(a), substituted “Secretary of Defense” for “Director of Operational Test and Evaluation”.
+Subsec. (h). Pub. L. 109–163, § 258(a), substituted “Secretary of Defense” for “Director of Operational Test and Evaluation”.
 
-2003—Subsec. (b)(1). Pub. L. 108–136, § 212(a), substituted “on active duty or from among senior civilian officers and employees of the Department of Defense. A commissioned officer serving as the Director” for “on active duty. The Director” and inserted at end “A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
+2003—Subsec. (b)(1). Pub. L. 108–136, § 212(a), substituted “on active duty or from among senior civilian officers and employees of the Department of Defense. A commissioned officer serving as the Director” for “on active duty. The Director” and inserted at end “A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
 
-Subsec. (c)(1)(B). Pub. L. 108–136, § 212(b)(1), inserted “, other than budgets and expenditures for activities described in section 139(i) of this title” after “Department of Defense”.
+Subsec. (c)(1)(B). Pub. L. 108–136, § 212(b)(1), inserted “, other than budgets and expenditures for activities described in section 139(i) of this title” after “Department of Defense”.
 
-Subsec. (e)(1). Pub. L. 108–136, § 212(b)(2), struck out “, the Director of Operational Test and Evaluation,” after “each military department” and substituted “or Defense Agency head’s” for “, Director’s, or head’s”.
+Subsec. (e)(1). Pub. L. 108–136, § 212(b)(2), struck out “, the Director of Operational Test and Evaluation,” after “each military department” and substituted “or Defense Agency head’s” for “, Director’s, or head’s”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1119,9 +1119,9 @@ For termination, effective Dec. 31, 2021, of provisions in subsecs. (d)(1), (4) 
 
 **Protection of Major Range and Test Facility Base**
 
-Pub. L. 117–81, div. A, title XVI, § 1686, Dec. 27, 2021, 135 Stat. 2126, provided that: “The Secretary of Defense may authorize, consistent with the authorities of the Secretary, such actions as are necessary to mitigate threats posed by space-based assets to the security or operation of the Major Range and Test Facility Base (as defined in section 196(i) of title 10, United States Code) [now 10 U.S.C. 4173(j)].”
+Pub. L. 117–81, div. A, title XVI, § 1686, Dec. 27, 2021, 135 Stat. 2126, provided that: “The Secretary of Defense may authorize, consistent with the authorities of the Secretary, such actions as are necessary to mitigate threats posed by space-based assets to the security or operation of the Major Range and Test Facility Base (as defined in section 196(i) of title 10, United States Code) [now 10 U.S.C. 4173(j)].”
 
-## § 4174. Contracts: acquisition, construction, or furnishing of test facilities and equipment
+## § 4174. Contracts: acquisition, construction, or furnishing of test facilities and equipment
 
 **(a)** A covered contract for research or development, or both, may provide for the acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The acquisition or construction of these research, developmental, or test facilities shall be subject to the cost principles applicable to allowable contract expenses. The facilities and equipment, and specialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility. The Secretary of Defense and the Secretaries of the military departments shall promulgate regulations necessary to give full force and effect to this section.
 
@@ -1167,13 +1167,13 @@ Pub. L. 117–81, div. A, title XVI, § 1686, Dec. 27, 2021, 135 Stat. 2126, p
 
 **(2)** a contract for a jointly funded project as described subsection (d).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 134, § 2353; Pub. L. 115–232, div. B, title XXVIII, § 2801, Aug. 13, 2018, 132 Stat. 2260; renumbered § 4174 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1844(b)(1), 1845(b), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), (6)(B), Dec. 27, 2021, 135 Stat. 2154; Pub. L. 119–60, div. A, title II, § 214(a), Dec. 18, 2025, 139 Stat. 774.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 134, § 2353; Pub. L. 115–232, div. B, title XXVIII, § 2801, Aug. 13, 2018, 132 Stat. 2260; renumbered § 4174 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1844(b)(1), 1845(b), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), (6)(B), Dec. 27, 2021, 135 Stat. 2154; Pub. L. 119–60, div. A, title II, § 214(a), Dec. 18, 2025, 139 Stat. 774.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2353(a) | 5:235e (1st sentence; and 2d sentence, less 2d and last provisos). 5:475j (1st sentence; and 2d sentence, less 2d and last provisos). | July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725. |
+| 2353(a) | 5:235e (1st sentence; and 2d sentence, less 2d and last provisos). 5:475j (1st sentence; and 2d sentence, less 2d and last provisos). | July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725. |
 |  | 5:628e (1st sentence; and 2d sentence, less 2d and last provisos). |  |
 | 2353(b) | 5:235e (2d proviso of 2d sentence). |  |
 |  | 5:475j (2d proviso of 2d sentence). |  |
@@ -1186,7 +1186,7 @@ In subsection (a), the words “furnished to” and “for the use thereof” ar
 
 In subsections (a) and (b), the words “United States” are substituted for the word “Government”.
 
-In subsection (b), the introductory clause is substituted for 5:235e (words of 2d proviso before clause (1)), 475j, and 628e. The words “that \* \* \* considers” are substituted for the words “as will in the opinion”. The words “an alternative” are substituted for the words “such other”.
+In subsection (b), the introductory clause is substituted for 5:235e (words of 2d proviso before clause (1)), 475j, and 628e. The words “that \* \* \* considers” are substituted for the words “as will in the opinion”. The words “an alternative” are substituted for the words “such other”.
 
 In subsection (c), the words “Proceeds of” are substituted for the words “That all moneys arising from”.
 
@@ -1194,13 +1194,13 @@ In subsection (c), the words “Proceeds of” are substituted for the words “
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 214(a)(1), substituted “A covered contract” for “A contract of a military department”.
+2025—Subsec. (a). Pub. L. 119–60, § 214(a)(1), substituted “A covered contract” for “A contract of a military department”.
 
-Subsecs. (d) to (f). Pub. L. 119–60, § 214(a)(2), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 119–60, § 214(a)(2), added subsecs. (d) to (f).
 
-2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2353 of this title as this section.
+2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2353 of this title as this section.
 
-Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of section 2353 of this title as section 4141 instead of this section, was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
+Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of section 2353 of this title as section 4141 instead of this section, was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
 
 2018—Subsec. (a). Pub. L. 115–232 inserted after first sentence “The acquisition or construction of these research, developmental, or test facilities shall be subject to the cost principles applicable to allowable contract expenses.” and at end “The Secretary of Defense and the Secretaries of the military departments shall promulgate regulations necessary to give full force and effect to this section.”
 
@@ -1214,13 +1214,13 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Regulations**
 
-Pub. L. 119–60, div. A, title II, § 214(b), Dec. 18, 2025, 139 Stat. 775, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall issue or revise regulations (as necessary) to implement the amendments made by subsection (a) [amending this section].”
+Pub. L. 119–60, div. A, title II, § 214(b), Dec. 18, 2025, 139 Stat. 775, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall issue or revise regulations (as necessary) to implement the amendments made by subsection (a) [amending this section].”
 
 **Limitations on Modifications of Certain Government-Furnished Equipment; One-Time Authority To Transfer a Certain Military Prototype**
 
-Pub. L. 111–84, div. A, title X, § 1043, Oct. 28, 2009, 123 Stat. 2456, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(12), Jan. 7, 2011, 124 Stat. 4373, which prohibited the transfer of an article of military equipment that was an end item of a major weapon system to a private entity for research, development, test and evaluation if significant modification of the equipment would be needed unless certain written certification was provided to Congress and allowed the Secretary of the Navy to make a certain one-time transfer, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(13)(B), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 111–84, div. A, title X, § 1043, Oct. 28, 2009, 123 Stat. 2456, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(12), Jan. 7, 2011, 124 Stat. 4373, which prohibited the transfer of an article of military equipment that was an end item of a major weapon system to a private entity for research, development, test and evaluation if significant modification of the equipment would be needed unless certain written certification was provided to Congress and allowed the Secretary of the Navy to make a certain one-time transfer, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(13)(B), Dec. 18, 2025, 139 Stat. 949.
 
-## § 4175. Use of test and evaluation installations by commercial entities
+## § 4175. Use of test and evaluation installations by commercial entities
 
 **(a) Contract Authority.—** The Secretary of Defense may enter into contracts with commercial entities that desire to conduct commercial test and evaluation activities at a Major Range and Test Facility Installation.
 
@@ -1248,23 +1248,23 @@ Pub. L. 111–84, div. A, title X, § 1043, Oct. 28, 2009, 123 Stat. 2456, as 
 
 **(B)** construction specifically performed for a commercial entity to conduct test and evaluation activities.
 
-(Added Pub. L. 103–160, div. A, title VIII, § 846(a), Nov. 30, 1993, 107 Stat. 1722, § 2681; amended Pub. L. 105–85, div. A, title VIII, § 842, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 105–261, div. A, title VIII, § 820, Oct. 17, 1998, 112 Stat. 2090; renumbered § 4175 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1844(b)(1), 1845(b), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), (6)(B), Dec. 27, 2021, 135 Stat. 2154.)
+(Added Pub. L. 103–160, div. A, title VIII, § 846(a), Nov. 30, 1993, 107 Stat. 1722, § 2681; amended Pub. L. 105–85, div. A, title VIII, § 842, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 105–261, div. A, title VIII, § 820, Oct. 17, 1998, 112 Stat. 2090; renumbered § 4175 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1844(b)(1), 1845(b), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), (6)(B), Dec. 27, 2021, 135 Stat. 2154.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2681 of this title as this section.
+2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2681 of this title as this section.
 
-Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of section 2681 of this title as section 4144 of this title instead of this section, was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
+Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of section 2681 of this title as section 4144 of this title instead of this section, was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
 
-1998—Subsec. (g). Pub. L. 105–261, § 820(a), struck out heading and text of subsec. (g). Text read as follows: “The authority provided to the Secretary of Defense by subsection (a) shall terminate on September 30, 2002.”
+1998—Subsec. (g). Pub. L. 105–261, § 820(a), struck out heading and text of subsec. (g). Text read as follows: “The authority provided to the Secretary of Defense by subsection (a) shall terminate on September 30, 2002.”
 
-Subsec. (h). Pub. L. 105–261, § 820(b), struck out heading and text of subsec. (h). Text read as follows: “Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report identifying existing and proposed procedures to ensure that the use of Major Range and Test Facility Installations by commercial entities does not compete with private sector test and evaluation services.”
+Subsec. (h). Pub. L. 105–261, § 820(b), struck out heading and text of subsec. (h). Text read as follows: “Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report identifying existing and proposed procedures to ensure that the use of Major Range and Test Facility Installations by commercial entities does not compete with private sector test and evaluation services.”
 
-1997—Subsec. (g). Pub. L. 105–85, § 842(a), substituted “2002” for “1998”.
+1997—Subsec. (g). Pub. L. 105–85, § 842(a), substituted “2002” for “1998”.
 
-Subsec. (h). Pub. L. 105–85, § 842(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+Subsec. (h). Pub. L. 105–85, § 842(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
 “(h) Report.—Not later than January 1, 1998, the Secretary of Defense shall submit to Congress a report describing the number and purposes of contracts entered into under subsection (a) and evaluating the extent to which the authority under this section is exercised to open Major Range and Test Facility Installations to commercial test and evaluation activities.”
 

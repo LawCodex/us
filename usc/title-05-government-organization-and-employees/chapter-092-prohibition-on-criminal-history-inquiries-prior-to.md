@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 92—PROHIBITION ON CRIMINAL HISTORY INQUIRIES PRIOR TO CONDITIONAL OFFER
 
-## § 9201. Definitions
+## § 9201. Definitions
 
 In this chapter—
 
@@ -39,15 +39,15 @@ In this chapter—
 
 **(5)** the term “suspension” has the meaning given the term in section 7501.
 
-(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1605.)
+(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1605.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 116–92, div. A, title XI, § 1122(b)(1), Dec. 20, 2019, 133 Stat. 1607, provided that: “Not later than 1 year after the date of enactment of this subtitle [subtitle A of title XI of div. A of Pub. L. 116–92, approved Dec. 20, 2019], the Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out chapter 92 of title 5, United States Code (as added by this subtitle).”
+Pub. L. 116–92, div. A, title XI, § 1122(b)(1), Dec. 20, 2019, 133 Stat. 1607, provided that: “Not later than 1 year after the date of enactment of this subtitle [subtitle A of title XI of div. A of Pub. L. 116–92, approved Dec. 20, 2019], the Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out chapter 92 of title 5, United States Code (as added by this subtitle).”
 
-## § 9202. Limitations on requests for criminal history record information
+## § 9202. Limitations on requests for criminal history record information
 
 **(a) Inquiries Prior to Conditional Offer.—** Except as provided in subsections (b) and (c), an employee of an agency may not request, in oral or written form (including through the Declaration for Federal Employment (Office of Personnel Management Optional Form 306) or any similar successor form, the USAJOBS internet website, or any other electronic means) that an applicant for an appointment to a position in the civil service disclose criminal history record information regarding the applicant before the appointing authority extends a conditional offer to the applicant.
 
@@ -73,21 +73,21 @@ Pub. L. 116–92, div. A, title XI, § 1122(b)(1), Dec. 20, 2019, 133 Stat. 16
 
 **(ii)** ensure that all hiring activities conducted pursuant to the regulations are conducted in a manner consistent with relevant Federal civil rights laws.
 
-(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1606.)
+(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1606.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–92, div. A, title XI, subtitle B, § 1122(b)(2), Dec. 20, 2019, 133 Stat. 1608, provided that: “Section 9202 of title 5, United States Code (as added by this subtitle), shall take effect on the date that is 2 years after the date of enactment of this subtitle [Dec. 20, 2019].”
+Pub. L. 116–92, div. A, title XI, subtitle B, § 1122(b)(2), Dec. 20, 2019, 133 Stat. 1608, provided that: “Section 9202 of title 5, United States Code (as added by this subtitle), shall take effect on the date that is 2 years after the date of enactment of this subtitle [Dec. 20, 2019].”
 
-## § 9203. Agency policies; complaint procedures
+## § 9203. Agency policies; complaint procedures
 
 The Director of the Office of Personnel Management shall—
 
@@ -95,9 +95,9 @@ The Director of the Office of Personnel Management shall—
 
 **(2)** establish and publish procedures under which an applicant for an appointment to a position in the civil service may submit a complaint, or any other information, relating to compliance by an employee of an agency with section 9202.
 
-(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1606.)
+(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1606.)
 
-## § 9204. Adverse action
+## § 9204. Adverse action
 
 **(a) First Violation.—** If the Director of the Office of Personnel Management determines, after notice and an opportunity for a hearing on the record, that an employee of an agency has violated section 9202, the Director shall—
 
@@ -129,9 +129,9 @@ The Director of the Office of Personnel Management shall—
 
 **(B)** a civil penalty against the employee in an amount that is not more than $1,000.
 
-(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1606.)
+(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1606.)
 
-## § 9205. Procedures
+## § 9205. Procedures
 
 **(a) Appeals.—** The Director of the Office of Personnel Management shall by rule establish procedures providing for an appeal from any adverse action taken under section 9204 by not later than 30 days after the date of the action.
 
@@ -141,9 +141,9 @@ The Director of the Office of Personnel Management shall—
 
 **(2)** except as provided in subsection (a) of this section, appeal or judicial review.
 
-(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1607.)
+(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1607.)
 
-## § 9206. Rules of construction
+## § 9206. Rules of construction
 
 Nothing in this chapter may be construed to—
 
@@ -151,4 +151,4 @@ Nothing in this chapter may be construed to—
 
 **(2)** create a private right of action for any person.
 
-(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1607.)
+(Added Pub. L. 116–92, div. A, title XI, § 1122(a), Dec. 20, 2019, 133 Stat. 1607.)

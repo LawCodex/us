@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title X, § 1055(b)(2)(B), Jan. 1, 2021, 134 Stat. 3854, added item 8932 and struck out former item 8932 “National Ocean Research Leadership Council”.
+2021—Pub. L. 116–283, div. A, title X, § 1055(b)(2)(B), Jan. 1, 2021, 134 Stat. 3854, added item 8932 and struck out former item 8932 “National Ocean Research Leadership Council”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 665 of this title as this chapter and items 7901 to 7903 as 8931 to 8933, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 665 of this title as this chapter and items 7901 to 7903 as 8931 to 8933, respectively.
 
-## § 8931. National Oceanographic Partnership Program
+## § 8931. National Oceanographic Partnership Program
 
 **(a) Establishment.—** The Secretary of the Navy shall establish a program to be known as the “National Oceanographic Partnership Program”.
 
@@ -37,7 +37,7 @@ retrieved: 2026-10-11
 
 **(B)** accepting, planning, and executing oceanographic research projects funded by grants, contracts, cooperative agreements, or other vehicles as appropriate, that contribute to assuring national security, advancing economic development, protecting quality of life, ensuring environmental stewardship, and strengthening science education and communication through improved knowledge of the ocean.
 
-(Added Pub. L. 104–201, div. A, title II, § 282(a)(1), Sept. 23, 1996, 110 Stat. 2470, § 7901; renumbered § 8931, Pub. L. 115–232, div. A, title VIII, § 807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, § 1055(a), Jan. 1, 2021, 134 Stat. 3851.)
+(Added Pub. L. 104–201, div. A, title II, § 282(a)(1), Sept. 23, 1996, 110 Stat. 2470, § 7901; renumbered § 8931, Pub. L. 115–232, div. A, title VIII, § 807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, § 1055(a), Jan. 1, 2021, 134 Stat. 3851.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Congressional Findings**
 
-Pub. L. 104–201, div. A, title II, § 281, Sept. 23, 1996, 110 Stat. 2469, provided that:
+Pub. L. 104–201, div. A, title II, § 281, Sept. 23, 1996, 110 Stat. 2469, provided that:
 
 > “Congress finds the following:
 
@@ -69,7 +69,7 @@ Pub. L. 104–201, div. A, title II, § 281, Sept. 23, 1996, 110 Stat. 2469, p
 
 > **“(5)** The need exists for a formal mechanism to coordinate existing partnerships and establish new partnerships for the sharing of resources, intellectual talent, and facilities in the ocean sciences and education, so that optimal use can be made of this most important natural resource for the well-being of all Americans.”
 
-## § 8932. Ocean Policy Committee
+## § 8932. Ocean Policy Committee
 
 **(a) Committee.—** There is established an Ocean Policy Committee (hereinafter referred to as the “Committee”). The Committee shall retain broad and inclusive membership.
 
@@ -199,7 +199,7 @@ Pub. L. 104–201, div. A, title II, § 281, Sept. 23, 1996, 110 Stat. 2469, p
 
 **(7)** the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 104–201, div. A, title II, § 282(a)(1), Sept. 23, 1996, 110 Stat. 2470, § 7902; amended Pub. L. 105–85, div. A, title II, § 241(a), title X, § 1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, § 1066(a)(30), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, § 1713, Nov. 25, 2002, 116 Stat. 2320; renumbered § 8932, Pub. L. 115–232, div. A, title VIII, § 807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, § 1055(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 3851–3853; Pub. L. 117–263, div. J, title CIII, § 10303, Dec. 23, 2022, 136 Stat. 3967.)
+(Added Pub. L. 104–201, div. A, title II, § 282(a)(1), Sept. 23, 1996, 110 Stat. 2470, § 7902; amended Pub. L. 105–85, div. A, title II, § 241(a), title X, § 1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, § 1066(a)(30), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, § 1713, Nov. 25, 2002, 116 Stat. 2320; renumbered § 8932, Pub. L. 115–232, div. A, title VIII, § 807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, § 1055(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 3851–3853; Pub. L. 117–263, div. J, title CIII, § 10303, Dec. 23, 2022, 136 Stat. 3967.)
 
 **Editorial Notes**
 
@@ -207,39 +207,39 @@ Pub. L. 104–201, div. A, title II, § 281, Sept. 23, 1996, 110 Stat. 2469, p
 
 The date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
 
 **Amendments**
 
-2022—Subsec. (b)(5). Pub. L. 117–263, § 10303(b)(1), added par. (5).
+2022—Subsec. (b)(5). Pub. L. 117–263, § 10303(b)(1), added par. (5).
 
-Subsec. (c). Pub. L. 117–263, § 10303(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “In discharging its responsibilities in support of agreed-upon scientific needs, and to assist in the execution of the responsibilities described in subsection (b), the Committee may delegate responsibilities to a subcommittee of the Committee, as the Committee determines appropriate.”
+Subsec. (c). Pub. L. 117–263, § 10303(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “In discharging its responsibilities in support of agreed-upon scientific needs, and to assist in the execution of the responsibilities described in subsection (b), the Committee may delegate responsibilities to a subcommittee of the Committee, as the Committee determines appropriate.”
 
-Subsecs. (h), (i). Pub. L. 117–263, § 10303(b)(2), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 117–263, § 10303(b)(2), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-2021—Pub. L. 116–283, § 1055(b)(2)(A), substituted “Ocean Policy Committee” for “National Ocean Research Leadership Council” in section catchline.
+2021—Pub. L. 116–283, § 1055(b)(2)(A), substituted “Ocean Policy Committee” for “National Ocean Research Leadership Council” in section catchline.
 
-Subsecs. (a) to (e). Pub. L. 116–283, § 1055(b)(1)(A), (B), added subsecs. (a) to (e) and struck out former subsecs. (a) to (e) which related to establishment, membership, chairman and vice chairman, responsibilities, and annual reports of the National Ocean Research Leadership Council.
+Subsecs. (a) to (e). Pub. L. 116–283, § 1055(b)(1)(A), (B), added subsecs. (a) to (e) and struck out former subsecs. (a) to (e) which related to establishment, membership, chairman and vice chairman, responsibilities, and annual reports of the National Ocean Research Leadership Council.
 
-Subsec. (f). Pub. L. 116–283, § 1055(b)(1)(A), (C), (D), redesignated subsec. (g) as (f), substituted “Committee” for “Council” wherever appearing, and struck out former subsec. (f) which related to establishment of a partnership program office for the National Oceanographic Partnership Program.
+Subsec. (f). Pub. L. 116–283, § 1055(b)(1)(A), (C), (D), redesignated subsec. (g) as (f), substituted “Committee” for “Council” wherever appearing, and struck out former subsec. (f) which related to establishment of a partnership program office for the National Oceanographic Partnership Program.
 
-Subsec. (g). Pub. L. 116–283, § 1055(b)(1)(C), (D), redesignated subsec. (h) as (g) and substituted “Committee” for “Council”. Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 116–283, § 1055(b)(1)(C), (D), redesignated subsec. (h) as (g) and substituted “Committee” for “Council”. Former subsec. (g) redesignated (f).
 
-Subsec. (h). Pub. L. 116–283, § 1055(b)(1)(E), added subsec. (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 116–283, § 1055(b)(1)(E), added subsec. (h). Former subsec. (h) redesignated (g).
 
 2018—Pub. L. 115–232 renumbered section 7902 of this title as this section.
 
 2002—Subsec. (b)(13), (14). Pub. L. 107–296 added pars. (13) and (14).
 
-1999—Subsec. (e)(5). Pub. L. 106–65 struck out “, United States Code,” after “title 31”.
+1999—Subsec. (e)(5). Pub. L. 106–65 struck out “, United States Code,” after “title 31”.
 
-1997—Subsec. (b)(8). Pub. L. 105–85, § 1073(a)(64), inserted “United States” before “Geological Survey”.
+1997—Subsec. (b)(8). Pub. L. 105–85, § 1073(a)(64), inserted “United States” before “Geological Survey”.
 
-Subsec. (b)(11) to (13). Pub. L. 105–85, § 241(a)(1), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “The President of the National Academy of Sciences, the President of the National Academy of Engineering, and the President of the Institute of Medicine.”
+Subsec. (b)(11) to (13). Pub. L. 105–85, § 241(a)(1), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “The President of the National Academy of Sciences, the President of the National Academy of Engineering, and the President of the Institute of Medicine.”
 
-Subsec. (b)(14) to (17). Pub. L. 105–85, § 241(a)(1)(A), struck out pars. (14) to (17) which read as follows:
+Subsec. (b)(14) to (17). Pub. L. 105–85, § 241(a)(1)(A), struck out pars. (14) to (17) which read as follows:
 
 “(14) One member appointed by the chairman from among individuals who will represent the views of ocean industries.
 
@@ -249,7 +249,7 @@ Subsec. (b)(14) to (17). Pub. L. 105–85, § 241(a)(1)(A), struck out pars. (
 
 “(17) One member appointed by the chairman from among individuals who will represent such other views as the chairman considers appropriate.”
 
-Subsecs. (d) to (i). Pub. L. 105–85, § 241(a)(2), (3), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows:
+Subsecs. (d) to (i). Pub. L. 105–85, § 241(a)(2), (3), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows:
 
 “(d) Term of Office.—The term of office of a member of the Council appointed under paragraph (14), (15), (16), or (17) of subsection (b) shall be two years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.”
 
@@ -265,7 +265,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title II, § 241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: “The amendments made by subsections (a) and (b) [amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201.”
+Pub. L. 105–85, div. A, title II, § 241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: “The amendments made by subsections (a) and (b) [amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201.”
 
 **Transfer of Functions**
 
@@ -275,13 +275,13 @@ The Minerals Management Service was abolished and functions divided among the Of
 
 **Initial Appointments of Council Members**
 
-Pub. L. 104–201, div. A, title II, § 282(b), Sept. 23, 1996, 110 Stat. 2473, directed Secretary of the Navy to make appointments required by subsec. (b) of this section, not later than Dec. 1, 1996, prior to repeal by Pub. L. 105–85, div. A, title II, § 241(c)(1), Nov. 18, 1997, 111 Stat. 1666.
+Pub. L. 104–201, div. A, title II, § 282(b), Sept. 23, 1996, 110 Stat. 2473, directed Secretary of the Navy to make appointments required by subsec. (b) of this section, not later than Dec. 1, 1996, prior to repeal by Pub. L. 105–85, div. A, title II, § 241(c)(1), Nov. 18, 1997, 111 Stat. 1666.
 
 **First Annual Report of Council**
 
-Pub. L. 104–201, div. A, title II, § 282(c), formerly § 282(d), Sept. 23, 1996, 110 Stat. 2473, as renumbered by Pub. L. 105–85, div. A, title II, § 241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that the first annual report required by former subsec. (f) of this section was to be submitted to Congress not later than Mar. 1, 1997.
+Pub. L. 104–201, div. A, title II, § 282(c), formerly § 282(d), Sept. 23, 1996, 110 Stat. 2473, as renumbered by Pub. L. 105–85, div. A, title II, § 241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that the first annual report required by former subsec. (f) of this section was to be submitted to Congress not later than Mar. 1, 1997.
 
-## § 8933. Ocean Research Advisory Panel
+## § 8933. Ocean Research Advisory Panel
 
 **(a) Establishment.—**
 
@@ -313,15 +313,15 @@ Pub. L. 104–201, div. A, title II, § 282(c), formerly § 282(d), Sept. 23
 
 **(e) Termination.—** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Advisory Panel shall terminate on January 1, 2040.
 
-(Added Pub. L. 104–201, div. A, title II, § 282(a)(1), Sept. 23, 1996, 110 Stat. 2473, § 7903; amended Pub. L. 105–85, div. A, title II, § 241(b)(1), Nov. 18, 1997, 111 Stat. 1666; Pub. L. 114–92, div. A, title X, § 1084, Nov. 25, 2015, 129 Stat. 1004; renumbered § 8933, Pub. L. 115–232, div. A, title VIII, § 807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, § 1055(c), Jan. 1, 2021, 134 Stat. 3854.)
+(Added Pub. L. 104–201, div. A, title II, § 282(a)(1), Sept. 23, 1996, 110 Stat. 2473, § 7903; amended Pub. L. 105–85, div. A, title II, § 241(b)(1), Nov. 18, 1997, 111 Stat. 1666; Pub. L. 114–92, div. A, title X, § 1084, Nov. 25, 2015, 129 Stat. 1004; renumbered § 8933, Pub. L. 115–232, div. A, title VIII, § 807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, § 1055(c), Jan. 1, 2021, 134 Stat. 3854.)
 
 **References in Text**
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 **Editorial Notes**
 
@@ -351,4 +351,4 @@ Amendment by Pub. L. 105–85 effective as of Sept. 23, 1996, as if included in 
 
 **Initial Appointments of Panel Members**
 
-Pub. L. 104–201, div. A, title II, § 282(b), formerly § 282(c), Sept. 23, 1996, 110 Stat. 2473, as renumbered and amended by Pub. L. 105–85, div. A, title II, § 241(b)(2), (c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that the National Ocean Research Leadership Council established by 10 U.S.C. 8932 was to make the appointments required by this section not later than Jan. 1, 1998.
+Pub. L. 104–201, div. A, title II, § 282(b), formerly § 282(c), Sept. 23, 1996, 110 Stat. 2473, as renumbered and amended by Pub. L. 105–85, div. A, title II, § 241(b)(2), (c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that the National Ocean Research Leadership Council established by 10 U.S.C. 8932 was to make the appointments required by this section not later than Jan. 1, 1998.

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FRANCHISE PROTECTION
 
-### § 2801. Definitions
+### § 2801. Definitions
 
 As used in this subchapter:
 
@@ -103,7 +103,7 @@ under which a refiner or distributor (as the case may be) authorizes or permits 
 
 **(19)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
-(Pub. L. 95–297, title I, § 101, June 19, 1978, 92 Stat. 322; Pub. L. 103–371, § 6, Oct. 19, 1994, 108 Stat. 3486; Pub. L. 110–140, title II, § 241(c)(1), Dec. 19, 2007, 121 Stat. 1540.)
+(Pub. L. 95–297, title I, § 101, June 19, 1978, 92 Stat. 322; Pub. L. 103–371, § 6, Oct. 19, 1994, 108 Stat. 3486; Pub. L. 110–140, title II, § 241(c)(1), Dec. 19, 2007, 121 Stat. 1540.)
 
 **Editorial Notes**
 
@@ -121,13 +121,13 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–371, § 1, Oct. 19, 1994, 108 Stat. 3484, provided that: “This Act [amending this section and sections 2802, 2805, and 2806 of this title] may be cited as the ‘Petroleum Marketing Practices Act Amendments of 1994’.”
+Pub. L. 103–371, § 1, Oct. 19, 1994, 108 Stat. 3484, provided that: “This Act [amending this section and sections 2802, 2805, and 2806 of this title] may be cited as the ‘Petroleum Marketing Practices Act Amendments of 1994’.”
 
 **Short Title**
 
-Pub. L. 95–297, § 1, June 19, 1978, 92 Stat. 322, provided: “That this Act [enacting this chapter and provisions set out as a note under section 2822 of this title] may be cited as the ‘Petroleum Marketing Practices Act’.”
+Pub. L. 95–297, § 1, June 19, 1978, 92 Stat. 322, provided: “That this Act [enacting this chapter and provisions set out as a note under section 2822 of this title] may be cited as the ‘Petroleum Marketing Practices Act’.”
 
-### § 2802. Franchise relationship
+### § 2802. Franchise relationship
 
 **(a) General prohibition against termination or nonrenewal** Except as provided in subsection (b) and section 2803 of this title, no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
 
@@ -283,17 +283,17 @@ Pub. L. 95–297, § 1, June 19, 1978, 92 Stat. 322, provided: “That this Ac
 
 **(2)** if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
 
-(Pub. L. 95–297, title I, § 102, June 19, 1978, 92 Stat. 324; Pub. L. 103–371, §§ 2, 3, Oct. 19, 1994, 108 Stat. 3484.)
+(Pub. L. 95–297, title I, § 102, June 19, 1978, 92 Stat. 324; Pub. L. 103–371, §§ 2, 3, Oct. 19, 1994, 108 Stat. 3484.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (b)(3)(A)(ii). Pub. L. 103–371, § 2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
+1994—Subsec. (b)(3)(A)(ii). Pub. L. 103–371, § 2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
 
-Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
+Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
 
-### § 2803. Trial and interim franchises
+### § 2803. Trial and interim franchises
 
 **(a) Nonapplicability of statutory nonrenewal provisions** The provisions of section 2802 of this title shall not apply to the nonrenewal of any franchise relationship—
 
@@ -353,9 +353,9 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory 
 
 **(B)** the requirements of section 2802(b)(2)(E)(ii) and (iii) of this title are satisfied.
 
-(Pub. L. 95–297, title I, § 103, June 19, 1978, 92 Stat. 328.)
+(Pub. L. 95–297, title I, § 103, June 19, 1978, 92 Stat. 328.)
 
-### § 2804. Notification of termination or nonrenewal of franchise relationship
+### § 2804. Notification of termination or nonrenewal of franchise relationship
 
 **(a) General requirements applicable to franchisor** Prior to termination of any franchise or nonrenewal of any franchise relationship, the franchisor shall furnish notification of such termination or such nonrenewal to the franchisee who is a party to such franchise or such franchise relationship—
 
@@ -405,9 +405,9 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory 
 
 **(2)** In the case of summaries required to be furnished under the provisions of section 2802(b)(2)(D) of this title or subsection (c)(3)(C) of this section before the date of publication of such summary in the Federal Register, such summary may be furnished not later than 5 days after it is so published rather than at the time required under such provisions.
 
-(Pub. L. 95–297, title I, § 104, June 19, 1978, 92 Stat. 329.)
+(Pub. L. 95–297, title I, § 104, June 19, 1978, 92 Stat. 329.)
 
-### § 2805. Enforcement provisions
+### § 2805. Enforcement provisions
 
 **(a) Maintenance of civil action by franchisee against franchisor; jurisdiction and venue; time for commencement of action** If a franchisor fails to comply with the requirements of section 2802, 2803, or 2807 of this title, the franchisee may maintain a civil action against such franchisor. Such action may be brought, without regard to the amount in controversy, in the district court of the United States in any judicial district in which the principal place of business of such franchisor is located or in which such franchisee is doing business, except that no such action may be maintained unless commenced within 1 year after the later of—
 
@@ -487,7 +487,7 @@ In any action under subsection (a), the franchisee shall have the burden of prov
 
 **(2)** No provision of any franchise shall be valid or enforceable if the provision specifies that the interpretation or enforcement of the franchise shall be governed by the law of any State other than the State in which the franchisee has the principal place of business of the franchisee.
 
-(Pub. L. 95–297, title I, § 105, June 19, 1978, 92 Stat. 331; Pub. L. 103–371, § 4, Oct. 19, 1994, 108 Stat. 3485; Pub. L. 110–140, title II, § 241(b), Dec. 19, 2007, 121 Stat. 1540.)
+(Pub. L. 95–297, title I, § 105, June 19, 1978, 92 Stat. 331; Pub. L. 103–371, § 4, Oct. 19, 1994, 108 Stat. 3485; Pub. L. 110–140, title II, § 241(b), Dec. 19, 2007, 121 Stat. 1540.)
 
 **Editorial Notes**
 
@@ -507,7 +507,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-### § 2806. Relationship of statutory provisions to State and local laws
+### § 2806. Relationship of statutory provisions to State and local laws
 
 **(a) Termination or nonrenewal of franchise**
 
@@ -521,17 +521,17 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(2)** Nothing in this subchapter shall prohibit any State from specifying the terms and conditions under which any franchise or franchise relationship may be transferred to the designated successor of a franchisee upon the death of the franchisee.
 
-(Pub. L. 95–297, title I, § 106, June 19, 1978, 92 Stat. 332; Pub. L. 103–371, § 5, Oct. 19, 1994, 108 Stat. 3485.)
+(Pub. L. 95–297, title I, § 106, June 19, 1978, 92 Stat. 332; Pub. L. 103–371, § 5, Oct. 19, 1994, 108 Stat. 3485.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–371, § 5(1), redesignated existing provisions as par. (1) and added par. (2).
+1994—Subsec. (a). Pub. L. 103–371, § 5(1), redesignated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 103–371, § 5(2), redesignated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 103–371, § 5(2), redesignated existing provisions as par. (1) and added par. (2).
 
-### § 2807. Prohibition on restriction of installation of renewable fuel pumps
+### § 2807. Prohibition on restriction of installation of renewable fuel pumps
 
 **(a) Definition** In this section:
 
@@ -575,7 +575,7 @@ Nothing in this section shall be construed to preclude a franchisor from requiri
 
 No franchise-related document that requires that 3 grades of gasoline be sold by the applicable franchisee shall prevent the franchisee from selling a renewable fuel in lieu of 1, and only 1, grade of gasoline.
 
-(Pub. L. 95–297, title I, § 107, as added Pub. L. 110–140, title II, § 241(a), Dec. 19, 2007, 121 Stat. 1538.)
+(Pub. L. 95–297, title I, § 107, as added Pub. L. 110–140, title II, § 241(a), Dec. 19, 2007, 121 Stat. 1538.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -585,7 +585,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 ## SUBCHAPTER II—OCTANE DISCLOSURE
 
-### § 2821. Definitions
+### § 2821. Definitions
 
 As used in this subchapter:
 
@@ -621,9 +621,9 @@ As used in this subchapter:
 
 **(14)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
-**(15)** the 1
+**(15)** the 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 term “person”, for purposes of applying any provision of the Federal Trade Commission Act [15 U.S.C. 41 et seq.] with respect to any provision of the subchapter, includes a partnership and a corporation.
 
@@ -649,13 +649,13 @@ term “person”, for purposes of applying any provision of the Federal Trade C
 
 (as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled “Standard Specification for Diesel Fuel Oils” designated D975 (as in effect on October 24, 1992).
 
-(Pub. L. 95–297, title II, § 201, June 19, 1978, 92 Stat. 333; Pub. L. 102–486, title XV, § 1501(a)–(c)(1), Oct. 24, 1992, 106 Stat. 2996.)
+(Pub. L. 95–297, title II, § 201, June 19, 1978, 92 Stat. 333; Pub. L. 102–486, title XV, § 1501(a)–(c)(1), Oct. 24, 1992, 106 Stat. 2996.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Codification**
 
@@ -663,37 +663,37 @@ October 24, 1992, referred to in par. (18)(B), was in the original “the date o
 
 **Amendments**
 
-1992—Par. (1). Pub. L. 102–486, § 1501(c)(1)(A), substituted “fuel” for “gasoline”.
+1992—Par. (1). Pub. L. 102–486, § 1501(c)(1)(A), substituted “fuel” for “gasoline”.
 
-Par. (2). Pub. L. 102–486, § 1501(c)(1)(B), substituted “Standard Specification for Automotive Spark-Ignition Engine Fuel” for “Standard Specifications for Automotive Gasoline” and “D4814 for “D 439”.
+Par. (2). Pub. L. 102–486, § 1501(c)(1)(B), substituted “Standard Specification for Automotive Spark-Ignition Engine Fuel” for “Standard Specifications for Automotive Gasoline” and “D4814 for “D 439”.
 
-Par. (4). Pub. L. 102–486, § 1501(c)(1)(C), substituted “automotive fuel” for first reference to “gasoline” and “fuel” for second reference to “gasoline”.
+Par. (4). Pub. L. 102–486, § 1501(c)(1)(C), substituted “automotive fuel” for first reference to “gasoline” and “fuel” for second reference to “gasoline”.
 
-Par. (5). Pub. L. 102–486, § 1501(c)(1)(D), added par. (5) and struck out former par. (5) which read as follows: “The term ‘refiner’ means any person engaged in—
+Par. (5). Pub. L. 102–486, § 1501(c)(1)(D), added par. (5) and struck out former par. (5) which read as follows: “The term ‘refiner’ means any person engaged in—
 
 “(A) the refining of crude oil to produce automotive gasoline; or
 
 “(B) the importation of automotive gasoline.”
 
-Par. (6). Pub. L. 102–486, § 1501(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘automotive gasoline’ means gasoline of a type distributed for use as a fuel in any motor vehicle.”
+Par. (6). Pub. L. 102–486, § 1501(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘automotive gasoline’ means gasoline of a type distributed for use as a fuel in any motor vehicle.”
 
-Par. (11). Pub. L. 102–486, § 1501(c)(1)(E), substituted “automotive fuel” for “octane” before “requirement” and before “rating”, and “fuel” for “gasoline” before “for use” and before “which such”.
+Par. (11). Pub. L. 102–486, § 1501(c)(1)(E), substituted “automotive fuel” for “octane” before “requirement” and before “rating”, and “fuel” for “gasoline” before “for use” and before “which such”.
 
-Par. (16). Pub. L. 102–486, § 1501(c)(1)(F), substituted “automotive fuel” for “gasoline” in two places.
+Par. (16). Pub. L. 102–486, § 1501(c)(1)(F), substituted “automotive fuel” for “gasoline” in two places.
 
-Pars. (17), (18). Pub. L. 102–486, § 1501(b), added pars. (17) and (18).
+Pars. (17), (18). Pub. L. 102–486, § 1501(b), added pars. (17) and (18).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–486, title XV, § 1501(d)(1), Oct. 24, 1992, 106 Stat. 2997, provided that: “The amendments made by this section [amending this section and sections 2822 and 2823 of this title] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act [Oct. 24, 1992].”
+Pub. L. 102–486, title XV, § 1501(d)(1), Oct. 24, 1992, 106 Stat. 2997, provided that: “The amendments made by this section [amending this section and sections 2822 and 2823 of this title] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act [Oct. 24, 1992].”
 
 **Regulations**
 
-Pub. L. 102–486, title XV, § 1501(d)(2), Oct. 24, 1992, 106 Stat. 2997, provided that: “The Federal Trade Commission shall, within 270 days after the date of the enactment of this Act [Oct. 24, 1992], prescribe rules for the purpose of implementing the amendments made in this section [amending this section and sections 2822 and 2823 of this title].”
+Pub. L. 102–486, title XV, § 1501(d)(2), Oct. 24, 1992, 106 Stat. 2997, provided that: “The Federal Trade Commission shall, within 270 days after the date of the enactment of this Act [Oct. 24, 1992], prescribe rules for the purpose of implementing the amendments made in this section [amending this section and sections 2822 and 2823 of this title].”
 
-### § 2822. Automotive fuel rating testing and disclosure requirements
+### § 2822. Automotive fuel rating testing and disclosure requirements
 
 **(a) Determination and certification of automotive fuel rating by refiner distributing automotive fuel** Each refiner who distributes automotive fuel in commerce shall—
 
@@ -741,7 +741,7 @@ No person who distributes automotive fuel in commerce may make any representatio
 
 **(2)** may be used as a fuel in such motor vehicle under all operating conditions without knocking.
 
-(Pub. L. 95–297, title II, § 202, June 19, 1978, 92 Stat. 334; Pub. L. 102–486, title XV, § 1501(c)(2), Oct. 24, 1992, 106 Stat. 2997.)
+(Pub. L. 95–297, title II, § 202, June 19, 1978, 92 Stat. 334; Pub. L. 102–486, title XV, § 1501(c)(2), Oct. 24, 1992, 106 Stat. 2997.)
 
 **Editorial Notes**
 
@@ -757,7 +757,7 @@ Amendment by Pub. L. 102–486 effective at end of one-year period beginning Oct
 
 **Effective Date**
 
-Pub. L. 95–297, title II, § 205, June 19, 1978, 92 Stat. 337, provided that:
+Pub. L. 95–297, title II, § 205, June 19, 1978, 92 Stat. 337, provided that:
 
 > **“(a)** Sections 202(a)(1) [subsec. (a)(1) of this section] and 203(b) [section 2823(b) of this title] shall take effect on the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act [June 19, 1978].
 
@@ -769,7 +769,7 @@ Pub. L. 95–297, title II, § 205, June 19, 1978, 92 Stat. 337, provided that
 
 Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protection Agency to carry out a study to determine whether the anti-knock characteristics of nonliquid fuels usable as a fuel for motor vehicles could be determined and further directed Federal Trade Commission to carry out a study to determine the need for a uniform national label on devices used to dispense automotive fuel to consumers that would consolidate all information required by Federal law to be posted on such devices, with reports of the results of the studies to be submitted to Congress within one year of Oct. 24, 1992, together with recommendations and a description of the administrative and legislative actions needed to implement the recommendations.
 
-### § 2823. Administration and enforcement provisions
+### § 2823. Administration and enforcement provisions
 
 **(a) Procedural, investigative, and enforcement powers of Federal Trade Commission**
 
@@ -829,23 +829,23 @@ The Federal Trade Commission shall have procedural, investigative, and enforceme
 
 It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 5(a)(1) of the Federal Trade Commission Act [15 U.S.C. 45(a)(1)]) for any person to violate subsection (a), (b), (c), or (e) of section 2822 of this title, or a rule prescribed under subsection (d) of section 2822 of this title. For purposes of the Federal Trade Commission Act [15 U.S.C. 41 et seq.] (including any remedy or penalty applicable to any violation thereof) such a violation shall be treated as a violation of a rule under such Act respecting unfair or deceptive acts or practices.
 
-(Pub. L. 95–297, title II, § 203, June 19, 1978, 92 Stat. 335; Pub. L. 102–486, title XV, §§ 1501(c)(3), 1502(b), (c), Oct. 24, 1992, 106 Stat. 2997, 2998.)
+(Pub. L. 95–297, title II, § 203, June 19, 1978, 92 Stat. 335; Pub. L. 102–486, title XV, §§ 1501(c)(3), 1502(b), (c), Oct. 24, 1992, 106 Stat. 2997, 2998.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (e), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (e), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
-1992—Subsec. (b)(1). Pub. L. 102–486, § 1502(c), struck out “shall” after “Agency” in introductory provisions, inserted “may” before “conduct” in subpar. (A), inserted “shall” before “certify” in subpar. (B), and in subpar. (C) inserted “shall” before “notify” and struck out before period at end “discovered in the course of such field testing”.
+1992—Subsec. (b)(1). Pub. L. 102–486, § 1502(c), struck out “shall” after “Agency” in introductory provisions, inserted “may” before “conduct” in subpar. (A), inserted “shall” before “certify” in subpar. (B), and in subpar. (C) inserted “shall” before “notify” and struck out before period at end “discovered in the course of such field testing”.
 
-Pub. L. 102–486, § 1501(c)(3)(A), (B), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing.
+Pub. L. 102–486, § 1501(c)(3)(A), (B), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing.
 
-Subsec. (c). Pub. L. 102–486, § 1501(c)(3), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing, “section 2821” for “section 2821(1)” in par. (3), and “automotive fuel ratings” for “octane ratings” in par. (4).
+Subsec. (c). Pub. L. 102–486, § 1501(c)(3), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing, “section 2821” for “section 2821(1)” in par. (3), and “automotive fuel ratings” for “octane ratings” in par. (4).
 
-Subsec. (e). Pub. L. 102–586, § 1502(b), struck out before end of second sentence “; except that for purposes of section 5(m)(1)(A) of such Act, the term ‘or knowledge fairly implied on the basis of objective circumstances’ shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title”.
+Subsec. (e). Pub. L. 102–586, § 1502(b), struck out before end of second sentence “; except that for purposes of section 5(m)(1)(A) of such Act, the term ‘or knowledge fairly implied on the basis of objective circumstances’ shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -857,13 +857,13 @@ Amendment by section 1501(c)(3) of Pub. L. 102–486 effective at the end of the
 
 Subsec. (b) of this section effective on first day of first calendar month beginning more than 6 months after June 19, 1978, see section 205(a) of Pub. L. 95–297, set out as a note under section 2822 of this title.
 
-### § 2824. Relationship of statutory provisions to State and local laws
+### § 2824. Relationship of statutory provisions to State and local laws
 
 **(a)** To the extent that any provision of this subchapter applies to any act or omission, no State or any political subdivision thereof may adopt or continue in effect, except as provided in subsection (b), any provision of law or regulation with respect to such act or omission, unless such provision of such law or regulation is the same as the applicable provision of this subchapter.
 
 **(b)** A State or political subdivision thereof may provide for any investigative or enforcement action, remedy, or penalty (including procedural actions necessary to carry out such investigative or enforcement actions, remedies, or penalties) with respect to any provision of law or regulation permitted by subsection (a).
 
-(Pub. L. 95–297, title II, § 204, June 19, 1978, 92 Stat. 337; Pub. L. 102–486, title XV, § 1502(a), Oct. 24, 1992, 106 Stat. 2997.)
+(Pub. L. 95–297, title II, § 204, June 19, 1978, 92 Stat. 337; Pub. L. 102–486, title XV, § 1502(a), Oct. 24, 1992, 106 Stat. 2997.)
 
 **Editorial Notes**
 
@@ -873,7 +873,7 @@ Subsec. (b) of this section effective on first day of first calendar month begin
 
 ## SUBCHAPTER III—SUBSIDIZATION OF MOTOR FUEL MARKETING
 
-### § 2841. Study by Secretary of Energy
+### § 2841. Study by Secretary of Energy
 
 **(a) Consultation with Chairman of Federal Trade Commission, Attorney General, and other agencies deemed appropriate by Secretary**
 
@@ -909,4 +909,4 @@ In conducting the study required by this section, the Secretary shall give appro
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 95–297, title III, § 301, June 19, 1978, 92 Stat. 337.)
+(Pub. L. 95–297, title III, § 301, June 19, 1978, 92 Stat. 337.)

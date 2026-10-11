@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 88—PRIVACY
 
-## § 1801. Video voyeurism
+## § 1801. Video voyeurism
 
 **(a)** Whoever, in the special maritime and territorial jurisdiction of the United States, has the intent to capture an image of a private area of an individual without their consent, and knowingly does so under circumstances in which the individual has a reasonable expectation of privacy, shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -37,10 +37,10 @@ retrieved: 2026-10-11
 
 **(c)** This section does not prohibit any lawful law enforcement, correctional, or intelligence activity.
 
-(Added Pub. L. 108–495, § 2(a), Dec. 23, 2004, 118 Stat. 3999.)
+(Added Pub. L. 108–495, § 2(a), Dec. 23, 2004, 118 Stat. 3999.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–495, § 1, Dec. 23, 2004, 118 Stat. 3999, provided that: “This Act [enacting this chapter] may be cited as the ‘Video Voyeurism Prevention Act of 2004’.”
+Pub. L. 108–495, § 1, Dec. 23, 2004, 118 Stat. 3999, provided that: “This Act [enacting this chapter] may be cited as the ‘Video Voyeurism Prevention Act of 2004’.”

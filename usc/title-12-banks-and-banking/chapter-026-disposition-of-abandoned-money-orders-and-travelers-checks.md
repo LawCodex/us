@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 26—DISPOSITION OF ABANDONED MONEY ORDERS AND TRAVELER’S CHECKS
 
-## § 2501. Congressional findings and declaration of purpose
+## § 2501. Congressional findings and declaration of purpose
 
 The Congress finds and declares that—
 
@@ -29,15 +29,15 @@ The Congress finds and declares that—
 
 **(5)** the cost of maintaining and retrieving addresses of purchasers of money orders and traveler’s checks is an additional burden on interstate commerce since it has been determined that most purchasers reside in the State of purchase of such instruments.
 
-(Pub. L. 93–495, title VI, § 601, Oct. 28, 1974, 88 Stat. 1525.)
+(Pub. L. 93–495, title VI, § 601, Oct. 28, 1974, 88 Stat. 1525.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability to Sums Payable on Money Orders, Etc., Deemed Abandoned on or After February 1, 1965; Exception**
 
-Pub. L. 93–495, title VI, § 604, Oct. 28, 1974, 88 Stat. 1526, provided that: “This title [enacting this chapter] shall be applicable to sums payable on money orders, traveler’s checks, and similar written instruments deemed abandoned on or after February 1, 1965, except to the extent that such sums have been paid over to a State prior to January 1, 1974.”
+Pub. L. 93–495, title VI, § 604, Oct. 28, 1974, 88 Stat. 1526, provided that: “This title [enacting this chapter] shall be applicable to sums payable on money orders, traveler’s checks, and similar written instruments deemed abandoned on or after February 1, 1965, except to the extent that such sums have been paid over to a State prior to January 1, 1974.”
 
-## § 2502. Definitions
+## § 2502. Definitions
 
 As used in this chapter—
 
@@ -47,9 +47,9 @@ As used in this chapter—
 
 **(3)** “financial organization” means any savings and loan association, building and loan association, credit union, or investment company engaged in business in the United States.
 
-(Pub. L. 93–495, title VI, § 602, Oct. 28, 1974, 88 Stat. 1525.)
+(Pub. L. 93–495, title VI, § 602, Oct. 28, 1974, 88 Stat. 1525.)
 
-## § 2503. State entitlement to escheat or custody
+## § 2503. State entitlement to escheat or custody
 
 Where any sum is payable on a money order, traveler’s check, or other similar written instrument (other than a third party bank check) on which a banking or financial organization or a business association is directly liable—
 
@@ -59,4 +59,4 @@ Where any sum is payable on a money order, traveler’s check, or other similar 
 
 **(3)** if the books and records of such banking or financial organizations or business association show the State in which such money order, traveler’s check, or similar written instrument was purchased and the laws of the State of purchase do not provide for the escheat or custodial taking of the sum payable on such instrument, the State in which the banking or financial organization or business association has its principal place of business shall be entitled to escheat or take custody of the sum payable on such money order, traveler’s check, or similar written instrument, to the extent of that State’s power under its own laws to escheat or take custody of such sum, subject to the right of the State of purchase to recover such sum from the State of principal place of business if and when the law of the State of purchase makes provision for escheat or custodial taking of such sum.
 
-(Pub. L. 93–495, title VI, § 603, Oct. 28, 1974, 88 Stat. 1525.)
+(Pub. L. 93–495, title VI, § 603, Oct. 28, 1974, 88 Stat. 1525.)

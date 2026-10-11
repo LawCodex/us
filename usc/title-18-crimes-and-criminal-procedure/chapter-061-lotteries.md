@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2014—Pub. L. 113–251, § 4(b), Dec. 18, 2014, 128 Stat. 2890, added item 1308.
+2014—Pub. L. 113–251, § 4(b), Dec. 18, 2014, 128 Stat. 2890, added item 1308.
 
-1988—Pub. L. 100–625, § 3(a)(2), Nov. 7, 1988, 102 Stat. 3206, substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in item 1307.
+1988—Pub. L. 100–625, § 3(a)(2), Nov. 7, 1988, 102 Stat. 3206, substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in item 1307.
 
-1975—Pub. L. 93–583, § 2, Jan. 2, 1975, 88 Stat. 1916, added item 1307.
+1975—Pub. L. 93–583, § 2, Jan. 2, 1975, 88 Stat. 1916, added item 1307.
 
-1967—Pub. L. 90–203, § 5(b), Dec. 15, 1967, 81 Stat. 611, added item 1306.
+1967—Pub. L. 90–203, § 5(b), Dec. 15, 1967, 81 Stat. 611, added item 1306.
 
-1950—Act Aug. 16, 1950, ch. 722, § 2, 64 Stat. 452, added item 1305.
+1950—Act Aug. 16, 1950, ch. 722, § 2, 64 Stat. 452, added item 1305.
 
-1949—Act May 24, 1949, ch. 139, § 33, 63 Stat. 94, substituted “as” for “at” in item 1303.
+1949—Act May 24, 1949, ch. 139, § 33, 63 Stat. 94, substituted “as” for “at” in item 1303.
 
-## § 1301. Importing or transporting lottery tickets
+## § 1301. Importing or transporting lottery tickets
 
 Whoever brings into the United States for the purpose of disposing of the same, or knowingly deposits with any express company or other common carrier for carriage, or carries in interstate or foreign commerce any paper, certificate, or instrument purporting to be or to represent a ticket, chance, share, or interest in or dependent upon the event of a lottery, gift enterprise, or similar scheme, offering prizes dependent in whole or in part upon lot or chance, or any advertisement of, or list of the prizes drawn or awarded by means of, any such lottery, gift enterprise, or similar scheme; or, being engaged in the business of procuring for a person in 1 State such a ticket, chance, share, or interest in a lottery, gift,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 enterprise or similar scheme conducted by another State (unless that business is permitted under an agreement between the States in question or appropriate authorities of those States), knowingly transmits in interstate or foreign commerce information to be used for the purpose of procuring such a ticket, chance, share, or interest; or knowingly takes or receives any such paper, certificate, instrument, advertisement, or list so brought, deposited, or transported, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 762; Pub. L. 103–322, title XXXII, § 320905, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2126, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 762; Pub. L. 103–322, title XXXII, § 320905, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2126, 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 387 (Mar. 4, 1909, ch. 321, § 237, 35 Stat. 1136).
+Based on title 18, U.S.C., 1940 ed., § 387 (Mar. 4, 1909, ch. 321, § 237, 35 Stat. 1136).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -63,9 +63,9 @@ Minor changes were made in phraseology.
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–625, § 1, Nov. 7, 1988, 102 Stat. 3205, provided that: “This Act [amending sections 1304 and 1307 of this title and section 3005 of Title 39, Postal Service, and enacting provisions set out as notes under sections 1304 and 1307 of this title] may be cited as the ‘Charity Games Advertising Clarification Act of 1988’.”
+Pub. L. 100–625, § 1, Nov. 7, 1988, 102 Stat. 3205, provided that: “This Act [amending sections 1304 and 1307 of this title and section 3005 of Title 39, Postal Service, and enacting provisions set out as notes under sections 1304 and 1307 of this title] may be cited as the ‘Charity Games Advertising Clarification Act of 1988’.”
 
-## § 1302. Mailing lottery tickets or related matter
+## § 1302. Mailing lottery tickets or related matter
 
 Whoever knowingly deposits in the mail, or sends or delivers by mail:
 
@@ -81,11 +81,11 @@ Any article described in section 1953 of this title—
 
 Shall be fined under this title or imprisoned not more than two years, or both; and for any subsequent offense shall be imprisoned not more than five years.
 
-(June 25, 1948, ch. 645, 62 Stat. 762; Oct. 31, 1951, ch. 655, § 29, 65 Stat. 721; Pub. L. 87–218, § 2, Sept. 13, 1961, 75 Stat. 492; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 762; Oct. 31, 1951, ch. 655, § 29, 65 Stat. 721; Pub. L. 87–218, § 2, Sept. 13, 1961, 75 Stat. 492; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 336 (Mar. 4, 1909, ch. 321, § 213, 35 Stat. 1129).
+Based on title 18, U.S.C., 1940 ed., § 336 (Mar. 4, 1909, ch. 321, § 213, 35 Stat. 1129).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -103,15 +103,15 @@ Minor changes were made in arrangement and phraseology.
 
 1951—Act Oct. 31, 1951, substituted a colon for a semicolon at end of opening clause.
 
-## § 1303. Postmaster or employee as lottery agent 1 [footnote: 1 Section catchline was not amended to conform to change made in the text by Pub. L. 91–375.]
+## § 1303. Postmaster or employee as lottery agent 1 [footnote: 1 Section catchline was not amended to conform to change made in the text by Pub. L. 91–375.]
 
 Whoever, being an officer or employee of the Postal Service, acts as agent for any lottery office, or under color of purchase or otherwise, vends lottery tickets, or knowingly sends by mail or delivers any letter, package, postal card, circular, or pamphlet advertising any lottery, gift enterprise, or similar scheme, offering prizes dependent in whole or in part upon lot or chance, or any ticket, certificate, or instrument representing any chance, share, or interest in or dependent upon the event of any lottery, gift enterprise, or similar scheme offering prizes dependent in whole or in part upon lot or chance, or any list of the prizes awarded by means of any such scheme, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 91–375, § 6(j)(10), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 91–375, § 6(j)(10), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18 U.S.C., 1940 ed., § 337 (Mar. 4, 1909, ch. 321, § 214, 35 Stat. 1130). Minor changes were made in phraseology.
+Based on title 18 U.S.C., 1940 ed., § 337 (Mar. 4, 1909, ch. 321, § 214, 35 Stat. 1130). Minor changes were made in phraseology.
 
 **Editorial Notes**
 
@@ -127,17 +127,17 @@ Based on title 18 U.S.C., 1940 ed., § 337 (Mar. 4, 1909, ch. 321, § 214, 3
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established thereby by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1304. Broadcasting lottery information
+## § 1304. Broadcasting lottery information
 
 Whoever broadcasts by means of any radio or television station for which a license is required by any law of the United States, or whoever, operating any such station, knowingly permits the broadcasting of, any advertisement of or information concerning any lottery, gift enterprise, or similar scheme, offering prizes dependent in whole or in part upon lot or chance, or any list of the prizes drawn or awarded by means of any such lottery, gift enterprise, or scheme, whether said list contains any part or all of such prizes, shall be fined under this title or imprisoned not more than one year, or both.
 
 Each day’s broadcasting shall constitute a separate offense.
 
-(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 100–625, § 3(a)(4), Nov. 7, 1988, 102 Stat. 3206; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 100–625, § 3(a)(4), Nov. 7, 1988, 102 Stat. 3206; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 316 of title 47, U.S.C., 1940 ed., Telegraphs, Telephones, and Radiotelegraphs (June 19, 1934, ch. 652, § 316, 48 Stat. 1088).
+Based on section 316 of title 47, U.S.C., 1940 ed., Telegraphs, Telephones, and Radiotelegraphs (June 19, 1934, ch. 652, § 316, 48 Stat. 1088).
 
 Words “upon conviction thereof” were deleted as surplusage since punishment can be imposed only after a conviction.
 
@@ -153,29 +153,29 @@ Minor changes were made in phraseology.
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–625, § 5, Nov. 7, 1988, 102 Stat. 3206, provided that: “The amendments made by this Act [amending this section and section 1307 of this title and section 3005 of Title 39, Postal Service] shall take effect 18 months after the date of the enactment of this Act [Nov. 7, 1988].”
+Pub. L. 100–625, § 5, Nov. 7, 1988, 102 Stat. 3206, provided that: “The amendments made by this Act [amending this section and section 1307 of this title and section 3005 of Title 39, Postal Service] shall take effect 18 months after the date of the enactment of this Act [Nov. 7, 1988].”
 
-## § 1305. Fishing contests
+## § 1305. Fishing contests
 
 The provisions of this chapter shall not apply with respect to any fishing contest not conducted for profit wherein prizes are awarded for the specie, size, weight, or quality of fish caught by contestants in any bona fide fishing or recreational event.
 
-(Added Aug. 16, 1950, ch. 722, § 1, 64 Stat. 451.)
+(Added Aug. 16, 1950, ch. 722, § 1, 64 Stat. 451.)
 
-## § 1306. Participation by financial institutions
+## § 1306. Participation by financial institutions
 
-Whoever knowingly violates section 5136A 1
+Whoever knowingly violates section 5136A 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Revised Statutes of the United States, section 9A of the Federal Reserve Act, or section 20 of the Federal Deposit Insurance Act shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added Pub. L. 90–203, § 5(a), Dec. 15, 1967, 81 Stat. 611; amended Pub. L. 101–73, title IX, § 962(b), Aug. 9, 1989, 103 Stat. 502; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 90–203, § 5(a), Dec. 15, 1967, 81 Stat. 611; amended Pub. L. 101–73, title IX, § 962(b), Aug. 9, 1989, 103 Stat. 502; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5136A of the Revised Statutes of the United States, referred to in text, was renumbered section 5136B and a new section 5136A was added by Pub. L. 106–102, title I, § 121(a), Nov. 12, 1999, 113 Stat. 1373. Sections 5136A and 5136B of the Revised Statutes are classified to sections 24a and 25a, respectively, of Title 12, Banks and Banking.
+Section 5136A of the Revised Statutes of the United States, referred to in text, was renumbered section 5136B and a new section 5136A was added by Pub. L. 106–102, title I, § 121(a), Nov. 12, 1999, 113 Stat. 1373. Sections 5136A and 5136B of the Revised Statutes are classified to sections 24a and 25a, respectively, of Title 12, Banks and Banking.
 
 Section 9A of the Federal Reserve Act, referred to in text, is classified to section 339 of Title 12.
 
@@ -193,7 +193,7 @@ Section 20 of the Federal Deposit Insurance Act, referred to in text, is classif
 
 Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a note under section 25a of Title 12, Banks and Banking.
 
-## § 1307. Exceptions relating to certain advertisements and other information and to State-conducted lotteries
+## § 1307. Exceptions relating to certain advertisements and other information and to State-conducted lotteries
 
 **(a)** The provisions of sections 1301, 1302, 1303, and 1304 shall not apply to—
 
@@ -219,7 +219,7 @@ Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a 
 
 **(d)** For the purposes of subsection (b) of this section “lottery” means the pooling of proceeds derived from the sale of tickets or chances and allotting those proceeds or parts thereof by chance to one or more chance takers or ticket purchasers. “Lottery” does not include the placing or accepting of bets or wagers on sporting events or contests. For purposes of this section, the term a “not-for-profit organization” means any organization that would qualify as tax exempt under section 501 of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 93–583, § 1, Jan. 2, 1975, 88 Stat. 1916; amended Pub. L. 94–525, § 1, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 96–90, § 1, Oct. 23, 1979, 93 Stat. 698; Pub. L. 100–625, §§ 2(a), (b), 3(a)(1), (3), Nov. 7, 1988, 102 Stat. 3205, 3206.)
+(Added Pub. L. 93–583, § 1, Jan. 2, 1975, 88 Stat. 1916; amended Pub. L. 94–525, § 1, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 96–90, § 1, Oct. 23, 1979, 93 Stat. 698; Pub. L. 100–625, §§ 2(a), (b), 3(a)(1), (3), Nov. 7, 1988, 102 Stat. 3205, 3206.)
 
 **Editorial Notes**
 
@@ -229,19 +229,19 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (d), is
 
 **Amendments**
 
-1988—Pub. L. 100–625, § 3(a)(1), substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in section catchline.
+1988—Pub. L. 100–625, § 3(a)(1), substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in section catchline.
 
-Subsec. (a). Pub. L. 100–625, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The provisions of sections 1301, 1302, 1303, and 1304 shall not apply to an advertisement, list of prizes, or information concerning a lottery conducted by a State acting under the authority of State law—
+Subsec. (a). Pub. L. 100–625, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The provisions of sections 1301, 1302, 1303, and 1304 shall not apply to an advertisement, list of prizes, or information concerning a lottery conducted by a State acting under the authority of State law—
 
 “(1) contained in a newspaper published in that State or in an adjacent State which conducts such a lottery, or
 
 “(2) broadcast by a radio or television station licensed to a location in that State or an adjacent State which conducts such a lottery.”
 
-Subsec. (d). Pub. L. 100–625, §§ 2(b), 3(a)(3), inserted “subsection (b) of” after “purposes of” and inserted at end “For purposes of this section, the term a ‘not-for-profit organization’ means any organization that would qualify as tax exempt under section 501 of the Internal Revenue Code of 1986.”
+Subsec. (d). Pub. L. 100–625, §§ 2(b), 3(a)(3), inserted “subsection (b) of” after “purposes of” and inserted at end “For purposes of this section, the term a ‘not-for-profit organization’ means any organization that would qualify as tax exempt under section 501 of the Internal Revenue Code of 1986.”
 
-1979—Subsec. (b). Pub. L. 96–90, § 1(a), incorporated existing provision in text designated cl. (1), included mailing of equipment, and added cl. (2).
+1979—Subsec. (b). Pub. L. 96–90, § 1(a), incorporated existing provision in text designated cl. (1), included mailing of equipment, and added cl. (2).
 
-Subsec. (c). Pub. L. 96–90, § 1(b), designated existing text as cl. (1) and added cl. (2).
+Subsec. (c). Pub. L. 96–90, § 1(b), designated existing text as cl. (1) and added cl. (2).
 
 1976—Subsec. (a)(1). Pub. L. 94–525 inserted “or in an adjacent State which conducts such a lottery” after “State”.
 
@@ -253,9 +253,9 @@ Amendment by Pub. L. 100–625 effective 18 months after Nov. 7, 1988, see secti
 
 **Severability**
 
-Pub. L. 100–625, § 4, Nov. 7, 1988, 102 Stat. 3206, provided that: “If any provision of this Act or the amendments made by this Act [amending sections 1304 and 1307 of this title and section 3005 of Title 39, Postal Service, and enacting provisions set out as notes under sections 1301 and 1304 of this title], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
+Pub. L. 100–625, § 4, Nov. 7, 1988, 102 Stat. 3206, provided that: “If any provision of this Act or the amendments made by this Act [amending sections 1304 and 1307 of this title and section 3005 of Title 39, Postal Service, and enacting provisions set out as notes under sections 1301 and 1304 of this title], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
-## § 1308. Limitation of applicability
+## § 1308. Limitation of applicability
 
 **(a) Limitation of Applicability.—** Sections 1301, 1302, 1303, 1304, and 1306 shall not apply—
 
@@ -279,4 +279,4 @@ Pub. L. 100–625, § 4, Nov. 7, 1988, 102 Stat. 3206, provided that: “If an
 
 **(3)** the term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481)).
 
-(Added Pub. L. 113–251, § 4(a), Dec. 18, 2014, 128 Stat. 2890.)
+(Added Pub. L. 113–251, § 4(a), Dec. 18, 2014, 128 Stat. 2890.)

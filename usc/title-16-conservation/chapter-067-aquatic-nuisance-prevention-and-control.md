@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 4701. Findings and purposes
+### § 4701. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -83,7 +83,7 @@ retrieved: 2026-10-11
 
 **(5)** to establish a program of research and technology development and assistance to States in the management and removal of zebra mussels.
 
-(Pub. L. 101–646, title I, § 1002, Nov. 29, 1990, 104 Stat. 4761; Pub. L. 104–182, title III, § 308(a), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, § 2(a)(1), (h)(1), Oct. 26, 1996, 110 Stat. 4073, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(e)(1), Dec. 23, 2022, 136 Stat. 4097.)
+(Pub. L. 101–646, title I, § 1002, Nov. 29, 1990, 104 Stat. 4761; Pub. L. 104–182, title III, § 308(a), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, § 2(a)(1), (h)(1), Oct. 26, 1996, 110 Stat. 4073, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(e)(1), Dec. 23, 2022, 136 Stat. 4097.)
 
 **Editorial Notes**
 
@@ -95,33 +95,33 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 2022—Subsec. (b)(2). Pub. L. 117–263 inserted comma after “funded”.
 
-1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1002, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1002, which enacted this section.
 
-Subsec. (a)(2), (3). Pub. L. 104–332, § 2(a)(1)(A), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (a)(2), (3). Pub. L. 104–332, § 2(a)(1)(A), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) when environmental conditions are favorable, nonindigenous species, such as the zebra mussel (Dreissena polymorpha), become established and may disrupt the aquatic environment and economy of affected coastal areas;
 
 “(3) the zebra mussel was unintentionally introduced into the Great Lakes and, if left uncontrolled, is expected to infest over two-thirds of the continental United States through the unintentional transportation of larvae and adults by vessels operating in inland waters;”.
 
-Subsec. (a)(4). Pub. L. 104–332, § 2(a)(1)(B)(i), inserted “by the zebra mussel and ruffe, round goby, and other nonindigenous species” after “other species”.
+Subsec. (a)(4). Pub. L. 104–332, § 2(a)(1)(B)(i), inserted “by the zebra mussel and ruffe, round goby, and other nonindigenous species” after “other species”.
 
 Subsec. (a)(5). Pub. L. 104–182 added par. (5).
 
-Subsec. (a)(6) to (15). Pub. L. 104–332, § 2(a)(1)(B)(ii), (C), (D), added pars. (6) to (15).
+Subsec. (a)(6) to (15). Pub. L. 104–332, § 2(a)(1)(B)(ii), (C), (D), added pars. (6) to (15).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–332, § 1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: “This Act [enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33] may be cited as the ‘National Invasive Species Act of 1996’.”
+Pub. L. 104–332, § 1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: “This Act [enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33] may be cited as the ‘National Invasive Species Act of 1996’.”
 
 **Short Title**
 
-Pub. L. 101–646, title I, § 1001, Nov. 29, 1990, 104 Stat. 4761, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [enacting this chapter and amending section 42 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990’.”
+Pub. L. 101–646, title I, § 1001, Nov. 29, 1990, 104 Stat. 4761, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [enacting this chapter and amending section 42 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990’.”
 
 **Invasive Species in Alpine Lakes Pilot Program**
 
-Pub. L. 116–260, div. AA, title V, § 507, Dec. 27, 2020, 134 Stat. 2749, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8382(b), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, § 1303(b), Jan. 4, 2025, 138 Stat. 3114, provided that:
+Pub. L. 116–260, div. AA, title V, § 507, Dec. 27, 2020, 134 Stat. 2749, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8382(b), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, § 1303(b), Jan. 4, 2025, 138 Stat. 3114, provided that:
 
 > **“(a) Establishment.—** The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a pilot program (referred to in this section as the ‘pilot program’) to develop and carry out effective measures necessary to prevent, control, or eradicate aquatic invasive species in alpine lakes that are not located within a unit of the National Park System.
 
@@ -135,7 +135,7 @@ Pub. L. 116–260, div. AA, title V, § 507, Dec. 27, 2020, 134 Stat. 2749, as
 
 **Aquatic Invasive Species Prevention**
 
-Pub. L. 113–121, title I, § 1039(b), June 10, 2014, 128 Stat. 1237, as amended by Pub. L. 116–260, div. AA, title V, § 506, Dec. 27, 2020, 134 Stat. 2749, provided that:
+Pub. L. 113–121, title I, § 1039(b), June 10, 2014, 128 Stat. 1237, as amended by Pub. L. 116–260, div. AA, title V, § 506, Dec. 27, 2020, 134 Stat. 2749, provided that:
 
 > **“(1) Multiagency effort to slow the spread of asian carp in the mississippi river and tributaries, including sub-basins.—**
 
@@ -161,7 +161,7 @@ Pub. L. 113–121, title I, § 1039(b), June 10, 2014, 128 Stat. 1237, as amen
 
 **Construction of 1996 Amendment**
 
-Pub. L. 104–332, § 3, Oct. 26, 1996, 110 Stat. 4092, provided that:
+Pub. L. 104–332, § 3, Oct. 26, 1996, 110 Stat. 4092, provided that:
 
 > “Nothing in this Act [see Short Title of 1996 Amendment note above] or the amendments made by this Act is intended to affect the authorities and responsibilities of the Great Lakes Fishery Commission established under article II of the Convention on Great Lakes Fisheries between the United States of America and Canada, signed at Washington on September 10, 1954 (hereafter in this section referred to as the ‘Convention’), including the authorities and responsibilities of the Great Lakes Fishery Commission—
 
@@ -171,9 +171,9 @@ Pub. L. 104–332, § 3, Oct. 26, 1996, 110 Stat. 4092, provided that:
 
 **Report on Establishment of Program**
 
-Pub. L. 102–567, title II, § 203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: “Not later than one year after the date of the enactment of this Act [Oct. 29, 1992], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years.”
+Pub. L. 102–567, title II, § 203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: “Not later than one year after the date of the enactment of this Act [Oct. 29, 1992], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years.”
 
-### § 4702. Definitions
+### § 4702. Definitions
 
 As used in this chapter, the term—
 
@@ -191,7 +191,7 @@ As used in this chapter, the term—
 
 **(7)** “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(8)** “Great Lakes region” means the 8 States that border on the Great Lakes;
 
@@ -243,7 +243,7 @@ As used in this chapter, the term—
 
 **(19)** “unintentional introduction” means an introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes.
 
-(Pub. L. 101–646, title I, § 1003, Nov. 29, 1990, 104 Stat. 4762; Pub. L. 102–580, title III, § 302(b)(2), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 104–332, § 2(a)(2), (h)(1), (3), Oct. 26, 1996, 110 Stat. 4074, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(a), (e)(2), Dec. 23, 2022, 136 Stat. 4096, 4098.)
+(Pub. L. 101–646, title I, § 1003, Nov. 29, 1990, 104 Stat. 4762; Pub. L. 102–580, title III, § 302(b)(2), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 104–332, § 2(a)(2), (h)(1), (3), Oct. 26, 1996, 110 Stat. 4074, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(a), (e)(2), Dec. 23, 2022, 136 Stat. 4096, 4098.)
 
 **Editorial Notes**
 
@@ -253,35 +253,35 @@ This chapter, referred to in text, was in the original “this Act”, which, to
 
 Proclamation Number 5030, referred to in par. (5), is set out under section 1453 of this title.
 
-The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Presidential Proclamation Number 5928, referred to in par. (16), is set out under section 1331 of Title 43.
 
 **Amendments**
 
-2022—Par. (7). Pub. L. 117–263, § 11327(e)(2), substituted “Canadian” for “Canandian”.
+2022—Par. (7). Pub. L. 117–263, § 11327(e)(2), substituted “Canadian” for “Canandian”.
 
-Pars. (13) to (19). Pub. L. 117–263, § 11327(a), added pars. (13) and (14) and redesignated former pars. (13) to (17) as (15) to (19), respectively.
+Pars. (13) to (19). Pub. L. 117–263, § 11327(a), added pars. (13) and (14) and redesignated former pars. (13) to (17) as (15) to (19), respectively.
 
-1996—Pub. L. 104–332, § 2(h)(1), (3), made technical amendment to Pub. L. 101–646, § 1003, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), (3), made technical amendment to Pub. L. 101–646, § 1003, which enacted this section.
 
-Par. (1). Pub. L. 104–332, § 2(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “ ‘appropriate Committees’ means the Committee on Public Works and Transportation and the Committee on Merchant Marine and Fisheries in the House of Representatives and the Committee on Environment and Public Works and Committee on Commerce, Science, and Transportation in the Senate; and”.
+Par. (1). Pub. L. 104–332, § 2(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “ ‘appropriate Committees’ means the Committee on Public Works and Transportation and the Committee on Merchant Marine and Fisheries in the House of Representatives and the Committee on Environment and Public Works and Committee on Commerce, Science, and Transportation in the Senate; and”.
 
-Par. (2). Pub. L. 104–332, § 2(a)(2)(B), substituted “ ‘Assistant Secretary’ means” for “ ‘assistant Secretary’ means”.
+Par. (2). Pub. L. 104–332, § 2(a)(2)(B), substituted “ ‘Assistant Secretary’ means” for “ ‘assistant Secretary’ means”.
 
-Pub. L. 104–332, § 2(a)(2)(A), redesignated par. (3) as (2). Former par. (2) redesignated (1).
+Pub. L. 104–332, § 2(a)(2)(A), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Pars. (3) to (7). Pub. L. 104–332, § 2(a)(2)(A), redesignated pars. (4) to (8) as (3) to (7), respectively. Former par. (3) redesignated (2).
+Pars. (3) to (7). Pub. L. 104–332, § 2(a)(2)(A), redesignated pars. (4) to (8) as (3) to (7), respectively. Former par. (3) redesignated (2).
 
-Par. (8). Pub. L. 104–332, § 2(a)(2)(D), added par. (8).
+Par. (8). Pub. L. 104–332, § 2(a)(2)(D), added par. (8).
 
-Pub. L. 104–332, § 2(a)(2)(A), redesignated par. (8) as (7).
+Pub. L. 104–332, § 2(a)(2)(A), redesignated par. (8) as (7).
 
-Pars. (9), (10). Pub. L. 104–332, § 2(a)(2)(D), added pars. (9) and (10).
+Pars. (9), (10). Pub. L. 104–332, § 2(a)(2)(D), added pars. (9) and (10).
 
-Pub. L. 104–332, § 2(a)(2)(C), redesignated pars. (9) and (10) as (11) and (12), respectively.
+Pub. L. 104–332, § 2(a)(2)(C), redesignated pars. (9) and (10) as (11) and (12), respectively.
 
-Pars. (11) to (17). Pub. L. 104–332, § 2(a)(2)(C), redesignated pars. (9) to (15) as (11) to (17), respectively.
+Pars. (11) to (17). Pub. L. 104–332, § 2(a)(2)(C), redesignated pars. (9) to (15) as (11) to (17), respectively.
 
 1992—Par. (1). Pub. L. 102–580 inserted “the Committee on Public Works and Transportation and” after “means”.
 
@@ -293,17 +293,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ## SUBCHAPTER II—PREVENTION OF UN­INTENTIONAL INTRODUCTIONS OF NONINDIGENOUS AQUATIC SPECIES
 
-### § 4711. Repealed. Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354
+### § 4711. Repealed. Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354
 
-Section, Pub. L. 101–646, title I, § 1101, Nov. 29, 1990, 104 Stat. 4763; Pub. L. 102–580, title III, § 302(b)(1), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 102–587, title IV, § 4002, Nov. 4, 1992, 106 Stat. 5068; Pub. L. 104–332, § 2(b)(2), Oct. 26, 1996, 110 Stat. 4075, related to aquatic nuisance species in waters of United States.
+Section, Pub. L. 101–646, title I, § 1101, Nov. 29, 1990, 104 Stat. 4763; Pub. L. 102–580, title III, § 302(b)(1), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 102–587, title IV, § 4002, Nov. 4, 1992, 106 Stat. 5068; Pub. L. 104–332, § 2(b)(2), Oct. 26, 1996, 110 Stat. 4075, related to aquatic nuisance species in waters of United States.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 115–282, title IX, § 903(a)(2)(A), Dec. 4, 2018, 132 Stat. 4354, provided that the repeal of this section by section 903(a)(2)(A) is effective beginning on Dec. 4, 2018.
+Pub. L. 115–282, title IX, § 903(a)(2)(A), Dec. 4, 2018, 132 Stat. 4354, provided that the repeal of this section by section 903(a)(2)(A) is effective beginning on Dec. 4, 2018.
 
-### § 4712. National ballast water management information
+### § 4712. National ballast water management information
 
 **(a) Studies on introduction of aquatic nuisance species by vessels**
 
@@ -455,13 +455,13 @@ Not later than July 1, 2019, and annually thereafter, the Secretary shall prepar
 
 Not later than 1 year after December 4, 2018, the Secretary shall establish a working group, including members from the National Ballast Information Clearinghouse and States with ballast water management programs, to establish a process for compiling and readily sharing Federal and State commercial vessel reporting and enforcement data regarding compliance with this chapter.
 
-(Pub. L. 101–646, title I, § 1102, Nov. 29, 1990, 104 Stat. 4764; Pub. L. 104–332, § 2(c), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4081, 4091; Pub. L. 105–362, title XV, § 1502(d), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 115–282, title IX, § 903(a)(2)(B), (h)(1), Dec. 4, 2018, 132 Stat. 4354, 4362.)
+(Pub. L. 101–646, title I, § 1102, Nov. 29, 1990, 104 Stat. 4764; Pub. L. 104–332, § 2(c), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4081, 4091; Pub. L. 105–362, title XV, § 1502(d), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 115–282, title IX, § 903(a)(2)(B), (h)(1), Dec. 4, 2018, 132 Stat. 4354, 4362.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4711 of this title (as in effect on the day before December 4, 2018), referred to in subsecs. (c)(1) and (f)(1)(B), means section 4711 of this title as in effect prior to repeal by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
+Section 4711 of this title (as in effect on the day before December 4, 2018), referred to in subsecs. (c)(1) and (f)(1)(B), means section 4711 of this title as in effect prior to repeal by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
 
 This chapter, referred to in subsec. (f)(2), was in the original “this title”, meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
@@ -469,11 +469,11 @@ This chapter, referred to in subsec. (f)(5), was in the original “this Act”,
 
 **Amendments**
 
-2018—Subsec. (c)(1). Pub. L. 115–282, § 903(a)(2)(B)(i), inserted “(as in effect on the day before December 4, 2018)” after “section 4711(b) of this title”.
+2018—Subsec. (c)(1). Pub. L. 115–282, § 903(a)(2)(B)(i), inserted “(as in effect on the day before December 4, 2018)” after “section 4711(b) of this title”.
 
-Subsec. (f)(1)(B). Pub. L. 115–282, § 903(a)(2)(B)(ii), inserted “(as in effect on the day before December 4, 2018)” after “section 4711(c) of this title”.
+Subsec. (f)(1)(B). Pub. L. 115–282, § 903(a)(2)(B)(ii), inserted “(as in effect on the day before December 4, 2018)” after “section 4711(c) of this title”.
 
-Subsec. (f)(2) to (5). Pub. L. 115–282, § 903(h)(1), added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
+Subsec. (f)(2) to (5). Pub. L. 115–282, § 903(h)(1), added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
 
 “(A) ballast water delivery and management; and
 
@@ -481,21 +481,21 @@ Subsec. (f)(2) to (5). Pub. L. 115–282, § 903(h)(1), added pars. (2) to (5)
 
 1998—Subsec. (f)(2). Pub. L. 105–362 substituted “biennial basis” for “biannual basis” in introductory provisions.
 
-1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1102, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1102, which enacted this section.
 
-Pub. L. 104–332, § 2(c)(1), substituted “management information” for “control program” in section catchline.
+Pub. L. 104–332, § 2(c)(1), substituted “management information” for “control program” in section catchline.
 
-Subsec. (a)(1). Pub. L. 104–332, § 2(c)(2)(A), inserted “, in cooperation with the Secretary,” before “shall conduct” in introductory provisions.
+Subsec. (a)(1). Pub. L. 104–332, § 2(c)(2)(A), inserted “, in cooperation with the Secretary,” before “shall conduct” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 104–332, § 2(c)(2), inserted “, in cooperation with the Secretary,” before “shall conduct” and “Lake Champlain and other” after “economic uses of”.
+Subsec. (a)(2). Pub. L. 104–332, § 2(c)(2), inserted “, in cooperation with the Secretary,” before “shall conduct” and “Lake Champlain and other” after “economic uses of”.
 
-Subsec. (b). Pub. L. 104–332, § 2(c)(3), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary and the Task Force shall cooperate in conducting their respective studies under this section.”
+Subsec. (b). Pub. L. 104–332, § 2(c)(3), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary and the Task Force shall cooperate in conducting their respective studies under this section.”
 
-Subsec. (c). Pub. L. 104–332, § 2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
+Subsec. (c). Pub. L. 104–332, § 2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
 
-Subsecs. (e), (f). Pub. L. 104–332, § 2(c)(4), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 104–332, § 2(c)(4), added subsecs. (e) and (f).
 
-### § 4713. Armed services ballast water programs
+### § 4713. Armed services ballast water programs
 
 **(a) Department of Defense vessels**
 
@@ -505,7 +505,7 @@ Subject to operational conditions, the Secretary of Defense, in consultation wit
 
 Subject to operational conditions, the Secretary, in consultation with the Task Force and the International Maritime Organization, shall implement a ballast water management program for seagoing vessels of the Coast Guard to minimize the risk of introduction of nonindigenous species from releases of ballast water.
 
-(Pub. L. 101–646, title I, § 1103, as added Pub. L. 104–332, § 2(d), Oct. 26, 1996, 110 Stat. 4083.)
+(Pub. L. 101–646, title I, § 1103, as added Pub. L. 104–332, § 2(d), Oct. 26, 1996, 110 Stat. 4083.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -513,7 +513,7 @@ Subject to operational conditions, the Secretary, in consultation with the Task 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 4714. Ballast water management demonstration program
+### § 4714. Ballast water management demonstration program
 
 **(a) “Technologies and practices” defined** For purposes of this section, the term “technologies and practices” means those technologies and practices that—
 
@@ -597,11 +597,11 @@ Not later than 3 years after October 26, 1996, the Secretary of the Interior and
 
 The Secretary of the Interior shall consult and cooperate with the International Maritime Organization and the Task Force in carrying out this section.
 
-(Pub. L. 101–646, title I, § 1104, as added Pub. L. 104–332, § 2(d), Oct. 26, 1996, 110 Stat. 4083.)
+(Pub. L. 101–646, title I, § 1104, as added Pub. L. 104–332, § 2(d), Oct. 26, 1996, 110 Stat. 4083.)
 
 ## SUBCHAPTER III—PREVENTION AND CONTROL OF AQUATIC NUISANCE SPECIES DISPERSAL
 
-### § 4721. Establishment of Task Force
+### § 4721. Establishment of Task Force
 
 **(a) Task Force**
 
@@ -649,29 +649,29 @@ Each Task Force member shall coordinate any action to carry out this subchapter 
 
 The chairpersons designated under subsection (d) may invite representatives of nongovernmental entities to participate as observers of the Task Force.
 
-(Pub. L. 101–646, title I, § 1201, Nov. 29, 1990, 104 Stat. 4765; Pub. L. 104–182, title III, § 308(b), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, § 2(e)(2), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(b), (c), Dec. 23, 2022, 136 Stat. 4097; Pub. L. 117–328, div. O, title IV, § 404(b), Dec. 29, 2022, 136 Stat. 5229.)
+(Pub. L. 101–646, title I, § 1201, Nov. 29, 1990, 104 Stat. 4765; Pub. L. 104–182, title III, § 308(b), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, § 2(e)(2), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(b), (c), Dec. 23, 2022, 136 Stat. 4097; Pub. L. 117–328, div. O, title IV, § 404(b), Dec. 29, 2022, 136 Stat. 5229.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (d) to (f), was in the original “this subtitle”, meaning subtitle C (§§ 1201–1209) of title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4765, which enacted this subchapter and amended section 42 of Title 18, Crimes and Criminal Procedure.
+This subchapter, referred to in subsecs. (d) to (f), was in the original “this subtitle”, meaning subtitle C (§§ 1201–1209) of title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4765, which enacted this subchapter and amended section 42 of Title 18, Crimes and Criminal Procedure.
 
 **Amendments**
 
-2022—Subsec. (b)(7) to (10). Pub. L. 117–263, § 11327(c), added pars. (7) to (9) and redesignated former par. (7) as (10).
+2022—Subsec. (b)(7) to (10). Pub. L. 117–263, § 11327(c), added pars. (7) to (9) and redesignated former par. (7) as (10).
 
 Subsec. (c). Pub. L. 117–328 inserted “Patrick Leahy” before “Lake Champlain Basin Program”.
 
-Subsec. (g). Pub. L. 117–263, § 11327(b), added subsec. (g).
+Subsec. (g). Pub. L. 117–263, § 11327(b), added subsec. (g).
 
-1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1201, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1201, which enacted this section.
 
-Subsec. (b)(5) to (7). Pub. L. 104–332, § 2(e)(2)(A), struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
+Subsec. (b)(5) to (7). Pub. L. 104–332, § 2(e)(2)(A), struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 
-Subsec. (c). Pub. L. 104–332, § 2(e)(2)(B), inserted “the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program,” before “and State agencies”.
+Subsec. (c). Pub. L. 104–332, § 2(e)(2)(B), inserted “the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program,” before “and State agencies”.
 
-Pub. L. 104–182 inserted “, the Lake Champlain Basin Program,” after “Great Lakes Commission”.
+Pub. L. 104–182 inserted “, the Lake Champlain Basin Program,” after “Great Lakes Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -679,7 +679,7 @@ Pub. L. 104–182 inserted “, the Lake Champlain Basin Program,” after “
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 4722. Aquatic nuisance species program
+### § 4722. Aquatic nuisance species program
 
 **(a) In general**
 
@@ -853,7 +853,7 @@ The Task Force shall provide opportunities for affected Federal agencies which a
 
 **(3)** Not later than 90 days after December 23, 2022, the Task Force shall submit a report to Congress recommending legislative, programmatic, or regulatory changes to eliminate remaining gaps in authorities between members of the Task Force to effectively manage and control the movement of aquatic nuisance species.
 
-(Pub. L. 101–646, title I, § 1202, Nov. 29, 1990, 104 Stat. 4766; Pub. L. 104–332, § 2(e)(3), (4), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4087, 4091; Pub. L. 109–234, title II, § 2309, June 15, 2006, 120 Stat. 457; Pub. L. 117–263, div. K, title CXIII, § 11327(d), Dec. 23, 2022, 136 Stat. 4097.)
+(Pub. L. 101–646, title I, § 1202, Nov. 29, 1990, 104 Stat. 4766; Pub. L. 104–332, § 2(e)(3), (4), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4087, 4091; Pub. L. 109–234, title II, § 2309, June 15, 2006, 120 Stat. 457; Pub. L. 117–263, div. K, title CXIII, § 11327(d), Dec. 23, 2022, 136 Stat. 4097.)
 
 **Editorial Notes**
 
@@ -863,23 +863,23 @@ This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original “
 
 **Amendments**
 
-2022—Subsec. (e)(4), (5). Pub. L. 117–263, § 11327(d)(1), added pars. (4) and (5).
+2022—Subsec. (e)(4), (5). Pub. L. 117–263, § 11327(d)(1), added pars. (4) and (5).
 
-Subsec. (k)(3). Pub. L. 117–263, § 11327(d)(2), added par. (3).
+Subsec. (k)(3). Pub. L. 117–263, § 11327(d)(2), added par. (3).
 
-2006—Subsec. (i)(3)(C). Pub. L. 109–234 substituted “such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph” for “, to carry out this paragraph, $750,000”.
+2006—Subsec. (i)(3)(C). Pub. L. 109–234 substituted “such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph” for “, to carry out this paragraph, $750,000”.
 
-1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1202, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1202, which enacted this section.
 
-Subsec. (f)(1)(A). Pub. L. 104–332, § 2(e)(3)(A), inserted “and impacts” after “economic risks”.
+Subsec. (f)(1)(A). Pub. L. 104–332, § 2(e)(3)(A), inserted “and impacts” after “economic risks”.
 
-Subsec. (i). Pub. L. 104–332, § 2(e)(3)(B), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and former subpars. (A) to (D) of par. (1) as cls. (i) to (iv), respectively, of subpar. (A), inserted new par. (1) heading, substituted “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities.” for “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research and technology development for the environmentally sound control of zebra mussels in and around public facilities.” in subpar. (B), and added subpar. (C) and pars. (2) to (5).
+Subsec. (i). Pub. L. 104–332, § 2(e)(3)(B), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and former subpars. (A) to (D) of par. (1) as cls. (i) to (iv), respectively, of subpar. (A), inserted new par. (1) heading, substituted “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities.” for “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research and technology development for the environmentally sound control of zebra mussels in and around public facilities.” in subpar. (B), and added subpar. (C) and pars. (2) to (5).
 
-Subsec. (j)(1). Pub. L. 104–332, § 2(e)(4), substituted “The Director, the Secretary,” for “Not later than 18 months after November 29, 1990, the Director”.
+Subsec. (j)(1). Pub. L. 104–332, § 2(e)(4), substituted “The Director, the Secretary,” for “Not later than 18 months after November 29, 1990, the Director”.
 
-Subsec. (k). Pub. L. 104–332, § 2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
+Subsec. (k). Pub. L. 104–332, § 2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
 
-### § 4723. Regional coordination
+### § 4723. Regional coordination
 
 **(a) Great Lakes panel**
 
@@ -925,7 +925,7 @@ The panel convened under this subsection is encouraged to invite representatives
 
 **(2)** cooperate with regional panels and similar entities that carry out the activities described in paragraph (1).
 
-(Pub. L. 101–646, title I, § 1203, Nov. 29, 1990, 104 Stat. 4769; Pub. L. 104–332, § 2(e)(5), (h)(1), Oct. 26, 1996, 110 Stat. 4087, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(e)(3), Dec. 23, 2022, 136 Stat. 4098.)
+(Pub. L. 101–646, title I, § 1203, Nov. 29, 1990, 104 Stat. 4769; Pub. L. 104–332, § 2(e)(5), (h)(1), Oct. 26, 1996, 110 Stat. 4087, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(e)(3), Dec. 23, 2022, 136 Stat. 4098.)
 
 **Editorial Notes**
 
@@ -937,17 +937,17 @@ This chapter, referred to in subsecs. (a)(1)(D) and (b)(3), was in the original 
 
 **Amendments**
 
-2022—Subsec. (a)(1)(F). Pub. L. 117–263, § 11327(e)(3)(A), inserted “and” after “research,”.
+2022—Subsec. (a)(1)(F). Pub. L. 117–263, § 11327(e)(3)(A), inserted “and” after “research,”.
 
-Subsec. (a)(3). Pub. L. 117–263, § 11327(e)(3)(B), substituted “encouraged” for “encourage”.
+Subsec. (a)(3). Pub. L. 117–263, § 11327(e)(3)(B), substituted “encouraged” for “encourage”.
 
-1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1203, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1203, which enacted this section.
 
-Pub. L. 104–332, § 2(e)(5)(A), substituted “Regional” for “Great Lakes regional” in section catchline.
+Pub. L. 104–332, § 2(e)(5)(A), substituted “Regional” for “Great Lakes regional” in section catchline.
 
-Pub. L. 104–332, § 2(e)(5)(B)–(F), designated existing provisions as subsec. (a) and inserted subsec. heading, redesignated former subsec. (a) as par. (1), and former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), in par. (1) inserted “region” before “representatives” in introductory provisions and after “Great Lakes” in subpars. (A), (C), (D), and (F), redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a), substituted “this subsection” for “this section” in those pars., and added subsecs. (b) and (c).
+Pub. L. 104–332, § 2(e)(5)(B)–(F), designated existing provisions as subsec. (a) and inserted subsec. heading, redesignated former subsec. (a) as par. (1), and former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), in par. (1) inserted “region” before “representatives” in introductory provisions and after “Great Lakes” in subpars. (A), (C), (D), and (F), redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a), substituted “this subsection” for “this section” in those pars., and added subsecs. (b) and (c).
 
-### § 4724. State aquatic nuisance species management plans
+### § 4724. State aquatic nuisance species management plans
 
 **(a) State or interstate invasive species management plans**
 
@@ -1003,51 +1003,51 @@ In addition to cash outlays and payments, in-kind contributions of property or p
 
 **(c) Enforcement assistance**
 
-Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 1
+Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
-(Pub. L. 101–646, title I, § 1204, Nov. 29, 1990, 104 Stat. 4770; Pub. L. 104–332, § 2(e)(6), (h)(1), Oct. 26, 1996, 110 Stat. 4089, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(e)(4), Dec. 23, 2022, 136 Stat. 4098.)
+(Pub. L. 101–646, title I, § 1204, Nov. 29, 1990, 104 Stat. 4770; Pub. L. 104–332, § 2(e)(6), (h)(1), Oct. 26, 1996, 110 Stat. 4089, 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(e)(4), Dec. 23, 2022, 136 Stat. 4098.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 141 of title 14, referred to in subsec. (c), was redesignated section 701 of title 14 by Pub. L. 115–282, title I, § 106(b), Dec. 4, 2018, 132 Stat. 4203, and references to section 141 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 141 of title 14, referred to in subsec. (c), was redesignated section 701 of title 14 by Pub. L. 115–282, title I, § 106(b), Dec. 4, 2018, 132 Stat. 4203, and references to section 141 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
 2022—Subsec. (b)(4). Pub. L. 117–263 substituted “Administrative” for “Adminisrative” in heading.
 
-1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1204, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1204, which enacted this section.
 
-Subsec. (a). Pub. L. 104–332, § 2(e)(6)(A)(i), substituted “State or interstate invasive species management plans” for “State plan” in heading.
+Subsec. (a). Pub. L. 104–332, § 2(e)(6)(A)(i), substituted “State or interstate invasive species management plans” for “State plan” in heading.
 
-Subsec. (a)(1). Pub. L. 104–332, § 2(e)(6)(A)(ii)(I), substituted “After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit” for “The Governor of each State may, after notice and opportunity for public comment, prepare and submit” in introductory provisions.
+Subsec. (a)(1). Pub. L. 104–332, § 2(e)(6)(A)(ii)(I), substituted “After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit” for “The Governor of each State may, after notice and opportunity for public comment, prepare and submit” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 104–332, § 2(e)(6)(A)(ii)(II), (III), inserted “or within the interstate region involved” after “within the State” and substituted “technical, enforcement, or financial assistance (or any combination thereof)” for “technical and financial assistance”.
+Subsec. (a)(1)(A). Pub. L. 104–332, § 2(e)(6)(A)(ii)(II), (III), inserted “or within the interstate region involved” after “within the State” and substituted “technical, enforcement, or financial assistance (or any combination thereof)” for “technical and financial assistance”.
 
-Subsec. (a)(1)(B). Pub. L. 104–332, § 2(e)(6)(A)(ii)(III), inserted “or within the interstate region involved” after “within the State”.
+Subsec. (a)(1)(B). Pub. L. 104–332, § 2(e)(6)(A)(ii)(III), inserted “or within the interstate region involved” after “within the State”.
 
-Subsec. (a)(2)(B). Pub. L. 104–332, § 2(e)(6)(A)(iii)(I), struck out “and” at end.
+Subsec. (a)(2)(B). Pub. L. 104–332, § 2(e)(6)(A)(iii)(I), struck out “and” at end.
 
-Subsec. (a)(2)(C). Pub. L. 104–332, § 2(e)(6)(A)(iii)(III), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (a)(2)(C). Pub. L. 104–332, § 2(e)(6)(A)(iii)(III), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (a)(2)(D). Pub. L. 104–332, § 2(e)(6)(A)(iii)(II), (IV), redesignated subpar. (C) as (D) and inserted “, and enabling legislation” before period.
+Subsec. (a)(2)(D). Pub. L. 104–332, § 2(e)(6)(A)(iii)(II), (IV), redesignated subpar. (C) as (D) and inserted “, and enabling legislation” before period.
 
-Subsec. (a)(3)(A). Pub. L. 104–332, § 2(e)(6)(A)(iv)(I), inserted “or interstate organization” after “the State” and “Indian tribes,” after “local governments and regional entities,”.
+Subsec. (a)(3)(A). Pub. L. 104–332, § 2(e)(6)(A)(iv)(I), inserted “or interstate organization” after “the State” and “Indian tribes,” after “local governments and regional entities,”.
 
-Subsec. (a)(3)(B). Pub. L. 104–332, § 2(e)(6)(A)(iv)(II), inserted “or the appropriate official of an interstate organization” after “a State”.
+Subsec. (a)(3)(B). Pub. L. 104–332, § 2(e)(6)(A)(iv)(II), inserted “or the appropriate official of an interstate organization” after “a State”.
 
-Subsec. (a)(4). Pub. L. 104–332, § 2(e)(6)(A)(v), inserted “or the interstate organization” after “the Governor”.
+Subsec. (a)(4). Pub. L. 104–332, § 2(e)(6)(A)(v), inserted “or the interstate organization” after “the Governor”.
 
-Subsec. (b)(1). Pub. L. 104–332, § 2(e)(6)(B), struck out “or the Assistant Secretary, as appropriate under subsection (a),” after “The Director” and substituted “management plans approved under subsection (a)” for “approved management plans”.
+Subsec. (b)(1). Pub. L. 104–332, § 2(e)(6)(B), struck out “or the Assistant Secretary, as appropriate under subsection (a),” after “The Director” and substituted “management plans approved under subsection (a)” for “approved management plans”.
 
-Subsec. (c). Pub. L. 104–332, § 2(e)(6)(C), added subsec. (c).
+Subsec. (c). Pub. L. 104–332, § 2(e)(6)(C), added subsec. (c).
 
-### § 4725. Relationship to other laws
+### § 4725. Relationship to other laws
 
 **(a) Consistency with environmental laws**
 
@@ -1067,7 +1067,7 @@ Any discharge incidental to the normal operation of a vessel, including any disc
 
 Compliance with the control and eradication measures of any State or political subdivision thereof regarding aquatic nuisance species shall not relieve any person of the obligation to comply with the provisions of this subchapter.
 
-(Pub. L. 101–646, title I, § 1205, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 115–282, title IX, § 903(h)(2), Dec. 4, 2018, 132 Stat. 4363.)
+(Pub. L. 101–646, title I, § 1205, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 115–282, title IX, § 903(h)(2), Dec. 4, 2018, 132 Stat. 4363.)
 
 **Editorial Notes**
 
@@ -1077,15 +1077,15 @@ This chapter, referred to in subsec. (b)(1), was in the original “this title�
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–282, § 903(h)(2)(C), designated first sentence as subsec. (a) and inserted heading.
+2018—Subsec. (a). Pub. L. 115–282, § 903(h)(2)(C), designated first sentence as subsec. (a) and inserted heading.
 
-Subsec. (b). Pub. L. 115–282, § 903(h)(2)(B), (D), designated second sentence as subsec. (b)(1), inserted subsec. (b) and par. (1) headings, substituted “Except as provided in paragraph (2), nothing” for “Nothing”, and added par. (2).
+Subsec. (b). Pub. L. 115–282, § 903(h)(2)(B), (D), designated second sentence as subsec. (b)(1), inserted subsec. (b) and par. (1) headings, substituted “Except as provided in paragraph (2), nothing” for “Nothing”, and added par. (2).
 
-Subsec. (c). Pub. L. 115–282, § 903(h)(2)(A), designated third sentence as subsec. (c) and inserted heading.
+Subsec. (c). Pub. L. 115–282, § 903(h)(2)(A), designated third sentence as subsec. (c) and inserted heading.
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1205, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1205, which enacted this section.
 
-### § 4726. International cooperation
+### § 4726. International cooperation
 
 **(a) Advice**
 
@@ -1095,33 +1095,33 @@ The Task Force shall provide timely advice to the Secretary of State concerning 
 
 The Secretary of State, in consultation with the Task Force, is encouraged to initiate negotiations with the governments of foreign countries concerning the planning and implementation of prevention, monitoring, research, education, and control programs related to aquatic nuisance species infesting shared water resources.
 
-(Pub. L. 101–646, title I, § 1206, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
+(Pub. L. 101–646, title I, § 1206, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1206, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1206, which enacted this section.
 
-### § 4727. Intentional introductions policy review
+### § 4727. Intentional introductions policy review
 
 Within one year of November 29, 1990, the Task Force shall, in consultation with State fish and wildlife agencies, other regional, State and local entities, potentially affected industries and other interested parties, identify and evaluate approaches for reducing the risk of adverse consequences associated with intentional introduction of aquatic organisms and submit a report of their findings, conclusions and recommendations to the Congress.
 
-(Pub. L. 101–646, title I, § 1207, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, § 2(g), (h)(1), Oct. 26, 1996, 110 Stat. 4091.)
+(Pub. L. 101–646, title I, § 1207, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, § 2(g), (h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1207, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1207, which enacted this section.
 
-Pub. L. 104–332, § 2(g), substituted “Congress” for “appropriate Committees”.
+Pub. L. 104–332, § 2(g), substituted “Congress” for “appropriate Committees”.
 
-### § 4728. Brown tree snake control program
+### § 4728. Brown tree snake control program
 
 The Task Force shall, within the program developed under section 4722(a) of this title, undertake a comprehensive, environmentally sound program in coordination with regional, territorial, State and local entities to control the brown tree snake (Boiga irregularis) in Guam and other areas where the species is established outside of its historic range.
 
-(Pub. L. 101–646, title I, § 1209, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(e)(5), Dec. 23, 2022, 136 Stat. 4098.)
+(Pub. L. 101–646, title I, § 1209, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 117–263, div. K, title CXIII, § 11327(e)(5), Dec. 23, 2022, 136 Stat. 4098.)
 
 **Editorial Notes**
 
@@ -1129,9 +1129,9 @@ The Task Force shall, within the program developed under section 4722(a) of this
 
 2022—Pub. L. 117–263 substituted “section 4722(a) of this title” for “subsection (a)”.
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1209, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1209, which enacted this section.
 
-### § 4729. Coastal Aquatic Invasive Species Mitigation Grant Program and Mitigation Fund
+### § 4729. Coastal Aquatic Invasive Species Mitigation Grant Program and Mitigation Fund
 
 **(1) Definitions** In this section:
 
@@ -1249,7 +1249,7 @@ In addition to the amounts transferred to the Fund under clause (i), there is au
 
 Subject to appropriations, the amounts in the Fund shall be available to the Secretary and the Foundation to award grants under the Program.
 
-(Pub. L. 115–282, title IX, § 903(f), Dec. 4, 2018, 132 Stat. 4357.)
+(Pub. L. 115–282, title IX, § 903(f), Dec. 4, 2018, 132 Stat. 4357.)
 
 **Editorial Notes**
 
@@ -1263,7 +1263,7 @@ Section was enacted as part of the Vessel Incidental Discharge Act of 2018 and a
 
 Section is comprised of subsec. (f) of section 903 of Pub. L. 115–282. For classification to the Code of other provisions of section 903, see Tables.
 
-### § 4730. Great Lakes and Lake Champlain Invasive Species Program
+### § 4730. Great Lakes and Lake Champlain Invasive Species Program
 
 **(1) Definitions** In this section:
 
@@ -1345,9 +1345,9 @@ The term “Program” means the Great Lakes and Lake Champlain Invasive Species
 
 **(D)** to assess the risk of aquatic nuisance species introduction and spread via the range of vectors active within the Great Lakes and Lake Champlain Systems;
 
-**(E)** to advance the development of type-approved ballast water management system (as defined in subsection (p)(1) of section 1322 of title 33 1
+**(E)** to advance the development of type-approved ballast water management system (as defined in subsection (p)(1) of section 1322 of title 33 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 equipment for commercial, non-seagoing vessels that operate solely within the Great Lakes System (as defined in section 1268(a)(3) of title 33);
 
@@ -1395,7 +1395,7 @@ Not later than December 31, 2019, the Director shall submit to Congress a report
 
 There is authorized to be appropriated to carry out the Program $50,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 115–282, title IX, § 903(g), Dec. 4, 2018, 132 Stat. 4359.)
+(Pub. L. 115–282, title IX, § 903(g), Dec. 4, 2018, 132 Stat. 4359.)
 
 **Editorial Notes**
 
@@ -1407,23 +1407,23 @@ Section is comprised of subsec. (g) of section 903 of Pub. L. 115–282. For cla
 
 ## SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS
 
-### § 4741. Authorization of appropriations
+### § 4741. Authorization of appropriations
 
 **(a) Prevention of unintentional introductions** There are authorized to be appropriated to develop and implement the provisions of subchapter II—
 
-**(1)** $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 1
+**(1)** $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 4712(a)(3) of this title;
 
-**(2)** $2,000,000 until the end of fiscal year 1992 to the Director and Under Secretary to carry out the studies under sections 4712(a)(1) and 4712(a)(2 2
+**(2)** $2,000,000 until the end of fiscal year 1992 to the Director and Under Secretary to carry out the studies under sections 4712(a)(1) and 4712(a)(2 2
 
-<sup>2</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>2</sup> So in original. Probably should be followed by a closing parenthesis.
 
 of this title;
 
-**(3)** to the Secretary to carry out section 4711 <sup>1</sup> of this title—
+**(3)** to the Secretary to carry out section 4711 <sup>1</sup> of this title—
 
 **(A)** $2,000,000 for each of fiscal years 1997 and 1998; and
 
@@ -1477,13 +1477,13 @@ There are authorized to be appropriated $2,500,000 to carry out section 4714 of 
 
 There are authorized to be appropriated to the Director $1,000,000 to carry out research on the prevention, monitoring, and control of aquatic nuisance species in Narragansett Bay, Rhode Island. The funds shall be made available for use by the Department of Environmental Management of the State of Rhode Island.
 
-(Pub. L. 101–646, title I, § 1301, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–186, § 4(b)(2), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 104–332, § 2(f), (h)(1), Oct. 26, 1996, 110 Stat. 4090, 4091.)
+(Pub. L. 101–646, title I, § 1301, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–186, § 4(b)(2), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 104–332, § 2(f), (h)(1), Oct. 26, 1996, 110 Stat. 4090, 4091.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4711 of this title, referred to in subsec. (a)(1), (3), was repealed by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
+Section 4711 of this title, referred to in subsec. (a)(1), (3), was repealed by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
 
 **Codification**
 
@@ -1491,15 +1491,15 @@ Section 4711 of this title, referred to in subsec. (a)(1), (3), was repealed by 
 
 **Amendments**
 
-1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1301, which enacted this section.
+1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1301, which enacted this section.
 
-Subsec. (a)(3). Pub. L. 104–332, § 2(f)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “$1,000,000 for each of fiscal years 1993, 1994, and 1995 to the Secretary for implementation and enforcement of the regulations promulgated under section 4711 of this title.”
+Subsec. (a)(3). Pub. L. 104–332, § 2(f)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “$1,000,000 for each of fiscal years 1993, 1994, and 1995 to the Secretary for implementation and enforcement of the regulations promulgated under section 4711 of this title.”
 
-Subsec. (a)(4), (5). Pub. L. 104–332, § 2(f)(1)(A), (C), added pars. (4) and (5).
+Subsec. (a)(4), (5). Pub. L. 104–332, § 2(f)(1)(A), (C), added pars. (4) and (5).
 
-Subsec. (b). Pub. L. 104–332, § 2(f)(2)(A), substituted “1997 through 2002” for “1991, 1992, 1993, 1994, and 1995” in introductory provisions.
+Subsec. (b). Pub. L. 104–332, § 2(f)(2)(A), substituted “1997 through 2002” for “1991, 1992, 1993, 1994, and 1995” in introductory provisions.
 
-Subsec. (b)(1) to (7). Pub. L. 104–332, § 2(f)(2)(B), added pars. (1) to (6) and struck out former pars. (1) to (7) which read as follows:
+Subsec. (b)(1) to (7). Pub. L. 104–332, § 2(f)(2)(B), added pars. (1) to (6) and struck out former pars. (1) to (7) which read as follows:
 
 “(1) $7,000,000 to the Director to carry out sections 4722 and 4728 of this title;
 
@@ -1519,26 +1519,26 @@ Subsec. (b)(1) to (7). Pub. L. 104–332, § 2(f)(2)(B), added pars. (1) to (6
 
 “(7) $2,000,000 to the Assistant Secretary to carry out section 4722(i)(2) of this title.”
 
-Subsec. (c). Pub. L. 104–332, § 2(f)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “There are authorized to be appropriated for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to make grants under section 4724 of this title—
+Subsec. (c). Pub. L. 104–332, § 2(f)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “There are authorized to be appropriated for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to make grants under section 4724 of this title—
 
 “(1) $2,500,000 to the Director; and
 
 “(2) $5,000,000 to the Assistant Secretary.”
 
-Subsecs. (e), (f). Pub. L. 104–332, § 2(f)(4), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 104–332, § 2(f)(4), added subsecs. (e) and (f).
 
 1991—Subsec. (b)(4)(A). Pub. L. 102–186 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “$3,375,000 to fund grants under section 1125 of title 33, and of this amount, $2,500,000 to fund grants in the Great Lakes region; and”.
 
 ## SUBCHAPTER V—COOPERATIVE ENVIRONMENTAL ANALYSES
 
-### § 4751. Environmental impact analyses
+### § 4751. Environmental impact analyses
 
 The Secretary of State, in consultation with the Council on Environmental Quality, is encouraged to enter into negotiations with the governments of Canada and Mexico to provide for reciprocal cooperative environmental impact analysis of major Federal actions which have significant transboundary effects on the quality of the human environment in the United States, Canada, and Mexico.
 
-(Pub. L. 101–646, title I, § 1401, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
+(Pub. L. 101–646, title I, § 1401, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1401, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1401, which enacted this section.

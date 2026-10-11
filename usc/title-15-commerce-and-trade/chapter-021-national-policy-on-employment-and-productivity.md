@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 21—NATIONAL POLICY ON EMPLOYMENT AND PRODUCTIVITY
 
-## § 1021. Congressional declarations
+## § 1021. Congressional declarations
 
 **(a) Generally**
 
@@ -63,13 +63,13 @@ The Congress further declares that it is the continuing policy and responsibilit
 
 The Congress further declares that it is the purpose of the Full Employment and Balanced Growth Act of 1978 [15 U.S.C. 3101 et seq.] to rely principally on the private sector for expansion of economic activity and creation of new jobs for a growing labor force. Toward this end, it is the purpose of this chapter to encourage the adoption of fiscal policies that would establish the share of the gross national product accounted for by Federal outlays at the lowest level consistent with national needs and priorities.
 
-(Feb. 20, 1946, ch. 33, § 2, 60 Stat. 23; Pub. L. 95–523, title I, § 102, Oct. 27, 1978, 92 Stat. 1890.)
+(Feb. 20, 1946, ch. 33, § 2, 60 Stat. 23; Pub. L. 95–523, title I, § 102, Oct. 27, 1978, 92 Stat. 1890.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d), (e), (f), (h), and (j), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d), (e), (f), (h), and (j), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Amendments**
 
@@ -79,11 +79,11 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d)
 
 **Short Title**
 
-Act Feb. 20, 1946, ch. 33, § 1, 60 Stat. 23, provided: “This Act [enacting this chapter] may be cited as the ‘Employment Act of 1946’.”
+Act Feb. 20, 1946, ch. 33, § 1, 60 Stat. 23, provided: “This Act [enacting this chapter] may be cited as the ‘Employment Act of 1946’.”
 
 **Statement of Purpose**
 
-Pub. L. 95–523, title I, § 101, Oct. 27, 1978, 92 Stat. 1890, provided that:
+Pub. L. 95–523, title I, § 101, Oct. 27, 1978, 92 Stat. 1890, provided that:
 
 > “It is the purpose of this title [enacting sections 1022a to 1022f of this title, amending sections 1021, 1022 and 1023 of this title and section 225a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 225a of Title 12]—
 
@@ -95,7 +95,7 @@ Pub. L. 95–523, title I, § 101, Oct. 27, 1978, 92 Stat. 1890, provided that
 
 > **“(4)** to strengthen and supplement the purposes and policies of the Employment Act of 1946 [this chapter].”
 
-## § 1022. Economic Report of President; coverage; supplementary reports; reference to Congressional joint committee; percentage rate of unemployment; definitions
+## § 1022. Economic Report of President; coverage; supplementary reports; reference to Congressional joint committee; percentage rate of unemployment; definitions
 
 **(a) Time of submission; contents** The President shall annually transmit to the Congress not later than 10 days after the submission of the budget under section 1105(a) of title 31, with copies transmitted to the Governor of each State and to other appropriate State and local officials, an economic report (hereinafter in this chapter referred to as the “Economic Report”) together with the annual report of the Council of Economic Advisers submitted in accord with section 1023(c) of this title, setting forth—
 
@@ -121,9 +121,9 @@ The Economic Report, and all supplementary reports transmitted under subsection 
 
 **(d) Rate of unemployment**
 
-For the purposes of the Full Employment and Balanced Growth Act of 1978 [15 U.S.C. 3101 et seq.] the percentage rate of unemployment as 1
+For the purposes of the Full Employment and Balanced Growth Act of 1978 [15 U.S.C. 3101 et seq.] the percentage rate of unemployment as 1
 
-<sup>1</sup>  So in original. Probably should be “is”.
+<sup>1</sup> So in original. Probably should be “is”.
 
 a percentage of the civilian labor force as set forth by the Bureau of Labor Statistics in the Department of Labor as computed under the procedures in effect as of October 27, 1978.
 
@@ -131,13 +131,13 @@ a percentage of the civilian labor force as set forth by the Bureau of Labor Sta
 
 For the purpose of the Full Employment and Balanced Growth Act of 1978 [15 U.S.C. 3101 et seq.], the terms “inflation”, “prices”, and “reasonable price stability” refer to the rate of change or level of the consumer price index as set forth by the Bureau of Labor Statistics, United States Department of Labor.
 
-(Feb. 20, 1946, ch. 33, § 3, 60 Stat. 24; Aug. 2, 1946, ch. 753, title II, § 226, 60 Stat. 838; June 18, 1956, ch. 399, § 1, 70 Stat. 289; Pub. L. 95–523, title I, § 103, Oct. 27, 1978, 92 Stat. 1892; Pub. L. 96–10, § 6(d), May 10, 1979, 93 Stat. 24; Pub. L. 101–508, title XIII, § 13112(e), Nov. 5, 1990, 104 Stat. 1388–609.)
+(Feb. 20, 1946, ch. 33, § 3, 60 Stat. 24; Aug. 2, 1946, ch. 753, title II, § 226, 60 Stat. 838; June 18, 1956, ch. 399, § 1, 70 Stat. 289; Pub. L. 95–523, title I, § 103, Oct. 27, 1978, 92 Stat. 1892; Pub. L. 96–10, § 6(d), May 10, 1979, 93 Stat. 24; Pub. L. 101–508, title XIII, § 13112(e), Nov. 5, 1990, 104 Stat. 1388–609.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d) and (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d) and (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Codification**
 
@@ -149,9 +149,9 @@ In subsec. (a), “section 1023(c) of this title” was in the original “secti
 
 1979—Subsec. (a)(2)(A). Pub. L. 96–10 inserted reference to Federal outlays as a proportion of gross national product.
 
-1978—Subsec. (a). Pub. L. 95–523, § 103(a), among other changes, inserted provisions relating to the annual report of the Council of Economic Advisers and the inclusion in the President’s Economic Report of annual numerical goals for employment, unemployment, production etc., and employment objectives for certain subgroups and struck out provisions relating to the review of the Federal Government’s economic program and economic conditions affecting employment in the United States.
+1978—Subsec. (a). Pub. L. 95–523, § 103(a), among other changes, inserted provisions relating to the annual report of the Council of Economic Advisers and the inclusion in the President’s Economic Report of annual numerical goals for employment, unemployment, production etc., and employment objectives for certain subgroups and struck out provisions relating to the review of the Federal Government’s economic program and economic conditions affecting employment in the United States.
 
-Subsecs. (d), (e). Pub. L. 95–523, § 103(b), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 95–523, § 103(b), added subsecs. (d) and (e).
 
 1956—Subsec. (a). Act June 18, 1956, substituted “not later than January 20 of each year” for “at the beginning of each regular session (commencing with the year 1947)”.
 
@@ -163,7 +163,7 @@ Subsecs. (d), (e). Pub. L. 95–523, § 103(b), added subsecs. (d) and (e).
 
 Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under section 4301 of Title 2, The Congress.
 
-## § 1022a. Medium-term economic goals and policies respecting full employment and balanced growth
+## § 1022a. Medium-term economic goals and policies respecting full employment and balanced growth
 
 **(a) Incorporation of necessary programs and policies**
 
@@ -197,13 +197,13 @@ If, after achievement of the 3 and 4 per centum goals specified in subsection (b
 
 **(f) Action taken to reduce unemployment**
 
-**(1)** In taking action to reduce unemployment in accord with the numerical goals and timetable established under section 1
+**(1)** In taking action to reduce unemployment in accord with the numerical goals and timetable established under section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
-(b), every effort shall be made to reduce those differences between the rates of unemployment among youth, women 2
+(b), every effort shall be made to reduce those differences between the rates of unemployment among youth, women 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 minorities, handicapped persons, veterans, middle-aged and older persons and other labor force groups and the overall rate of unemployment which are caused by any improper factors with the ultimate objective of removing such differentials to the extent possible.
 
@@ -221,15 +221,15 @@ minorities, handicapped persons, veterans, middle-aged and older persons and oth
 
 **(2)** For purposes of this section, the term “veteran” shall mean the same as defined in section 4211(1) or (2) of title 38.
 
-(Feb. 20, 1946, ch. 33, § 4, as added Pub. L. 95–523, title I, § 104, Oct. 27, 1978, 92 Stat. 1893; amended Pub. L. 96–10, § 6(a)–(c), May 10, 1979, 93 Stat. 23, 24; Pub. L. 103–446, title XII, § 1203(c)(4), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(11)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420.)
+(Feb. 20, 1946, ch. 33, § 4, as added Pub. L. 95–523, title I, § 104, Oct. 27, 1978, 92 Stat. 1893; amended Pub. L. 96–10, § 6(a)–(c), May 10, 1979, 93 Stat. 23, 24; Pub. L. 103–446, title XII, § 1203(c)(4), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(11)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§ 3131 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§ 3131 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, § 304, Oct. 27, 1978, 92 Stat. 1906, which amended section 632 of Title 2, The Congress.
+Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, § 304, Oct. 27, 1978, 92 Stat. 1906, which amended section 632 of Title 2, The Congress.
 
 **Prior Provisions**
 
@@ -241,13 +241,13 @@ A prior section 4 of act Feb. 20, 1946, was renumbered section 10 and is classif
 
 1994—Subsec. (g)(2). Pub. L. 103–446 substituted “this section” for “this subsection” and “section 4211(1) or (2) of title 38” for “section 2011(1) or (2)(A) of title 38”.
 
-1979—Subsec. (b)(3). Pub. L. 96–10, § 6(a), added par. (3).
+1979—Subsec. (b)(3). Pub. L. 96–10, § 6(a), added par. (3).
 
-Subsec. (c)(3). Pub. L. 96–10, § 6(b), added par. (3).
+Subsec. (c)(3). Pub. L. 96–10, § 6(b), added par. (3).
 
-Subsec. (d). Pub. L. 96–10, § 6(c), inserted reference to Federal outlays as a proportion of gross national product.
+Subsec. (d). Pub. L. 96–10, § 6(c), inserted reference to Federal outlays as a proportion of gross national product.
 
-## § 1022b. Presentation of analysis respecting short-term and medium-term goals in Economic Report of President; mutually reinforcing means
+## § 1022b. Presentation of analysis respecting short-term and medium-term goals in Economic Report of President; mutually reinforcing means
 
 **(a) Analysis of goals**
 
@@ -257,19 +257,19 @@ To aid in determining the short-term and medium-term goals for employment, produ
 
 In choosing means to achieve the goal for the reduction of unemployment and choosing means to achieve the goal of reasonable price stability, those means which are mutually reinforcing shall be used to the extent practicable.
 
-(Feb. 20, 1946, ch. 33, § 5, as added Pub. L. 95–523, title I, § 105, Oct. 27, 1978, 92 Stat. 1895.)
+(Feb. 20, 1946, ch. 33, § 5, as added Pub. L. 95–523, title I, § 105, Oct. 27, 1978, 92 Stat. 1895.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (a), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (a), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Prior Provisions**
 
 A prior section 5 of act Feb. 20, 1946, was renumbered section 11 and is classified to section 1024 of this title.
 
-## § 1022c. Inclusion of priority policies and programs in President’s Budget
+## § 1022c. Inclusion of priority policies and programs in President’s Budget
 
 To contribute to the achievement of the goals under the Full Employment and Balanced Growth Act of 1978 [15 U.S.C. 3101 et seq.], the President’s Budget for each fiscal year beginning after October 27, 1978, shall include priority policies and programs, which shall include, to the extent deemed appropriate by the President, consideration of the following—
 
@@ -305,15 +305,15 @@ To contribute to the achievement of the goals under the Full Employment and Bala
 
 **(L)** such other priority policies and programs as the President deems appropriate.
 
-(Feb. 20, 1946, ch. 33, § 6, as added Pub. L. 95–523, title I, § 106, Oct. 27, 1978, 92 Stat. 1895.)
+(Feb. 20, 1946, ch. 33, § 6, as added Pub. L. 95–523, title I, § 106, Oct. 27, 1978, 92 Stat. 1895.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Full Employment and Balanced Growth Act of 1978, referred to in provision preceding par. (A), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in provision preceding par. (A), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-## § 1022d. President’s Budget
+## § 1022d. President’s Budget
 
 **(a) Recommendations**
 
@@ -327,15 +327,15 @@ The President’s Budget shall provide five-year projections of outlays and rece
 
 The principal elements in the President’s Budget shall be set forth briefly in each Economic Report, toward the end of making clear the relationship between the President’s Budget and the goals and policies set forth in such Economic Report. Both the expenditure and revenue elements of the President’s Budget shall be developed to promote the purposes, policies, and goals of the Full Employment and Balanced Growth Act of 1978 [15 U.S.C. 3101 et seq.]. The size of the President’s expenditure and revenue proposals, and the relationships between such proposals, shall be determined in a manner which gives consideration to the needs of the economy and the people in the priority areas set forth in section 1022c of this title, and the relationship between the President’s expenditure and revenue proposals shall be guided accordingly.
 
-(Feb. 20, 1946, ch. 33, § 7, as added Pub. L. 95–523, title I, § 107, Oct. 27, 1978, 92 Stat. 1896.)
+(Feb. 20, 1946, ch. 33, § 7, as added Pub. L. 95–523, title I, § 107, Oct. 27, 1978, 92 Stat. 1896.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (c), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (c), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-## § 1022e. Inflation
+## § 1022e. Inflation
 
 **(a) Methods and requirements for achieving price stability**
 
@@ -363,9 +363,9 @@ The Congress finds that sole dependence upon fiscal or monetary policies or both
 
 **(8)** such other administrative actions and recommendations for legislation as the President deems desirable, to promote reasonable price stability.
 
-(Feb. 20, 1946, ch. 33, § 8, as added Pub. L. 95–523, title I, § 109, Oct. 27, 1978, 92 Stat. 1898.)
+(Feb. 20, 1946, ch. 33, § 8, as added Pub. L. 95–523, title I, § 109, Oct. 27, 1978, 92 Stat. 1898.)
 
-## § 1022f. Advisory board or boards
+## § 1022f. Advisory board or boards
 
 **(a) Establishment**
 
@@ -373,19 +373,19 @@ An advisory board or boards (including regional advisory boards) may be establis
 
 **(b) Composition; duties; compensation**
 
-Such advisory board or boards shall include appropriate representation of labor, small and larger businesses and industries, agriculture, consumers, State and local officials, and the public at large, and shall advise and consult with respect to matters related to this chapter, the Full Employment aand 1
+Such advisory board or boards shall include appropriate representation of labor, small and larger businesses and industries, agriculture, consumers, State and local officials, and the public at large, and shall advise and consult with respect to matters related to this chapter, the Full Employment aand 1
 
-<sup>1</sup>  So in original. Probably should be “and”.
+<sup>1</sup> So in original. Probably should be “and”.
 
 Balanced Growth Act of 1978 [15 U.S.C. 3101 et seq.], and other appropriate matters related to national economic programs and policies. The President shall, in accordance with applicable provisions of law, take the steps necessary to provide appropriate compensation to the members of such advisory board or boards.
 
-(Feb. 20, 1946, ch. 33, § 9, as added Pub. L. 95–523, title I, § 111, Oct. 27, 1978, 92 Stat. 1899.)
+(Feb. 20, 1946, ch. 33, § 9, as added Pub. L. 95–523, title I, § 111, Oct. 27, 1978, 92 Stat. 1899.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (b), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (b), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -393,7 +393,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (b),
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 1023. Council of Economic Advisers
+## § 1023. Council of Economic Advisers
 
 **(a) Creation; composition; qualifications; chairman and vice chairman**
 
@@ -447,31 +447,31 @@ In its work under this chapter and the Full Employment and Balanced Growth Act o
 
 To enable the Council to exercise its powers, functions, and duties under this chapter, there are authorized to be appropriated such sums as may be necessary.
 
-(Feb. 20, 1946, ch. 33, § 10, formerly § 4, 60 Stat. 24; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 87–49, June 16, 1961, 75 Stat. 93; renumbered § 10 and amended Pub. L. 95–523, title I, §§ 104, 110, Oct. 27, 1978, 92 Stat. 1893, 1899; Pub. L. 112–166, § 2(*o*), Aug. 10, 2012, 126 Stat. 1287.)
+(Feb. 20, 1946, ch. 33, § 10, formerly § 4, 60 Stat. 24; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 87–49, June 16, 1961, 75 Stat. 93; renumbered § 10 and amended Pub. L. 95–523, title I, §§ 104, 110, Oct. 27, 1978, 92 Stat. 1893, 1899; Pub. L. 112–166, § 2(*o*), Aug. 10, 2012, 126 Stat. 1287.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Codification**
 
 In subsec. (a), provisions that fixed the compensation of members of the Council have been omitted as obsolete. The positions of chairman and members of the Council are under the Executive Schedule, see sections 5313 and 5315 of Title 5, Government Organization and Employees.
 
-In subsec. (b), provisions that authorized the Council to fix the compensation of such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to “the Classification Act of 1923, as amended”, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+In subsec. (b), provisions that authorized the Council to fix the compensation of such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to “the Classification Act of 1923, as amended”, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in subsec. (b) for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in subsec. (b) for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 **Amendments**
 
 2012—Subsec. (a). Pub. L. 112–166 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the “Council”). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman.”
 
-1978—Subsec. (a). Pub. L. 95–523, § 110(a)(1), inserted “full” after “policy to promote”.
+1978—Subsec. (a). Pub. L. 95–523, § 110(a)(1), inserted “full” after “policy to promote”.
 
-Subsec. (c)(4). Pub. L. 95–523, § 110(a)(2), inserted “including small and larger business” after “free competitive enterprise” and inserted “full” after “and to maintain”.
+Subsec. (c)(4). Pub. L. 95–523, § 110(a)(2), inserted “including small and larger business” after “free competitive enterprise” and inserted “full” after “and to maintain”.
 
-Subsec. (e). Pub. L. 95–523, § 110(a)(3), (4), inserted in par. (1) “, and shall consult with the board or boards established under section 1022f of this title” after “as it deems advisable” and after par. (2) inserted provisions authorizing and directing the Council to seek and obtain the cooperation of executive and independent agencies in the development of specialized studies essential to its responsibilities.
+Subsec. (e). Pub. L. 95–523, § 110(a)(3), (4), inserted in par. (1) “, and shall consult with the board or boards established under section 1022f of this title” after “as it deems advisable” and after par. (2) inserted provisions authorizing and directing the Council to seek and obtain the cooperation of executive and independent agencies in the development of specialized studies essential to its responsibilities.
 
 1961—Subsec. (f). Pub. L. 87–49 struck out provisions which limited the appropriations for salaries of the members and officers and employees of the Council to not more than $345,000 for each fiscal year.
 
@@ -485,7 +485,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Termination of Advisory Committees**
 
@@ -532,7 +532,7 @@ Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, extended term until Sept. 30, 19
 
 **Ex. Ord. No. 12835. Establishment of National Economic Council**
 
-Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, § 27, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13499, Feb. 5, 2009, 74 F.R. 6979; Ex. Ord. No. 13569, § 2, Apr. 5, 2011, 76 F.R. 19891, provided:
+Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, § 27, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13499, Feb. 5, 2009, 74 F.R. 6979; Ex. Ord. No. 13569, § 2, Apr. 5, 2011, 76 F.R. 19891, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -608,7 +608,7 @@ Sec. 5. *Administration*. (a) The Council may function through established or ad
 
 (c) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
 
-## § 1024. Joint Economic Committee
+## § 1024. Joint Economic Committee
 
 **(a) Composition**
 
@@ -638,19 +638,19 @@ To enable the joint committee to exercise its powers, functions, and duties unde
 
 Service of one individual, until the completion of the investigation authorized by Senate Concurrent Resolution 26, Eighty-first Congress, as an attorney or expert for the joint committee, in any business or professional field, on a part-time basis, with or without compensation, shall not be considered as service or employment bringing such individual within the provisions of section 281, 283, or 284 of title 18,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or of any other Federal law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, or the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States.
 
-(Feb. 20, 1946, ch. 33, § 11, formerly § 5, 60 Stat. 25; Aug. 2, 1946, ch. 753, title II, § 225, 60 Stat. 838; Feb. 2, 1948, ch. 42, 62 Stat. 16; Oct. 6, 1949, ch. 627, §§ 1, 2, 63 Stat. 721; June 18, 1956, ch. 399, § 2, 70 Stat. 290; Pub. L. 86–1, Feb. 17, 1959, 73 Stat. 3; Pub. L. 88–661, Oct. 13, 1964, 78 Stat. 1093; Pub. L. 90–2, Jan. 25, 1967, 81 Stat. 4; Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1776; renumbered § 11, Pub. L. 95–523, § 104, Oct. 27, 1978, 92 Stat. 1893.)
+(Feb. 20, 1946, ch. 33, § 11, formerly § 5, 60 Stat. 25; Aug. 2, 1946, ch. 753, title II, § 225, 60 Stat. 838; Feb. 2, 1948, ch. 42, 62 Stat. 16; Oct. 6, 1949, ch. 627, §§ 1, 2, 63 Stat. 721; June 18, 1956, ch. 399, § 2, 70 Stat. 290; Pub. L. 86–1, Feb. 17, 1959, 73 Stat. 3; Pub. L. 88–661, Oct. 13, 1964, 78 Stat. 1093; Pub. L. 90–2, Jan. 25, 1967, 81 Stat. 4; Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1776; renumbered § 11, Pub. L. 95–523, § 104, Oct. 27, 1978, 92 Stat. 1893.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 281 and 283 of title 18, referred to in subsec. (f), were repealed by Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, except as they may apply to retired officers of the armed forces of the United States, and were supplanted by sections 203 and 205 of Title 18, Crimes and Criminal Procedure.
+Sections 281 and 283 of title 18, referred to in subsec. (f), were repealed by Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, except as they may apply to retired officers of the armed forces of the United States, and were supplanted by sections 203 and 205 of Title 18, Crimes and Criminal Procedure.
 
-Section 284 of title 18, referred to in subsec. (f), was repealed by Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, and was supplanted by section 207 of title 18.
+Section 284 of title 18, referred to in subsec. (f), was repealed by Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, and was supplanted by section 207 of title 18.
 
 **Amendments**
 
@@ -664,9 +664,9 @@ Section 284 of title 18, referred to in subsec. (f), was repealed by Pub. L. 87�
 
 1956—Subsec. (a). Act June 19, 1956, substituted “Joint Economic Committee” for “Joint Committee on the Economic Report”.
 
-1949—Subsec. (e). Act Oct. 6, 1949, § 1, substituted “$125,000” for “$50,000”.
+1949—Subsec. (e). Act Oct. 6, 1949, § 1, substituted “$125,000” for “$50,000”.
 
-Subsec. (f). Act Oct. 6, 1949, § 2, added subsec. (f).
+Subsec. (f). Act Oct. 6, 1949, § 2, added subsec. (f).
 
 1948—Subsec. (b)(3). Act Feb. 2, 1948, substituted “March 1” for “February 1”.
 
@@ -684,23 +684,23 @@ Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that a
 
 **Senate Members of Joint Economic Committee for 107th Congress**
 
-Pub. L. 107–20, title II, § 2806, July 24, 2001, 115 Stat. 185, provided: “That notwithstanding any other provision of law, and specifically section 5(a) of the Employment Act of 1946 (15 U.S.C. 1024(a)), the Members of the Senate to be appointed by the President of the Senate shall for the duration of the One Hundred Seventh Congress, be represented by six Members of the majority party and five Members of the minority party.”
+Pub. L. 107–20, title II, § 2806, July 24, 2001, 115 Stat. 185, provided: “That notwithstanding any other provision of law, and specifically section 5(a) of the Employment Act of 1946 (15 U.S.C. 1024(a)), the Members of the Senate to be appointed by the President of the Senate shall for the duration of the One Hundred Seventh Congress, be represented by six Members of the majority party and five Members of the minority party.”
 
 Similar provisions were contained in Pub. L. 107–3, Mar. 13, 2001, 115 Stat. 5.
 
 **Agency Contributions for Employees of Joint Economic Committee**
 
-Pub. L. 106–554, § 1(a)(2) [title I, § 7], Dec. 21, 2000, 114 Stat. 2763, 2763A–98, provided that:
+Pub. L. 106–554, § 1(a)(2) [title I, § 7], Dec. 21, 2000, 114 Stat. 2763, 2763A–98, provided that:
 
 > **“(a)** Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Joint Economic Committee’ under the heading ‘JOINT ITEMS’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
 
 > **“(b)** This section shall apply to pay periods beginning on or after October 1, 2000.”
 
-## § 1025. Printing of monthly publication by Joint Economic Committee entitled “Economic Indicators”; distribution
+## § 1025. Printing of monthly publication by Joint Economic Committee entitled “Economic Indicators”; distribution
 
 The Joint Economic Committee is authorized to issue a monthly publication entitled “Economic Indicators”, and a sufficient quantity shall be printed to furnish one copy to each Member of Congress; the Secretary and the Sergeant at Arms of the Senate; the Clerk, Sergeant at Arms, and Chief Administrative Officer of the House of Representatives; two copies to the libraries of the Senate and House, and the Congressional Library; seven hundred copies to the Joint Economic Committee; and the required number of copies to the Superintendent of Documents for distribution to depository libraries; and the Superintendent of Documents is authorized to have copies printed for sale to the public.
 
-(June 23, 1949, ch. 237, 63 Stat. 264; Pub. L. 104–186, title II, § 217, Aug. 20, 1996, 110 Stat. 1747.)
+(June 23, 1949, ch. 237, 63 Stat. 264; Pub. L. 104–186, title II, § 217, Aug. 20, 1996, 110 Stat. 1747.)
 
 **Editorial Notes**
 
@@ -708,12 +708,12 @@ The Joint Economic Committee is authorized to issue a monthly publication entitl
 
 Section was not enacted as a part of the Employment Act of 1946 which comprises this chapter.
 
-“Joint Economic Committee” substituted in text for “Joint Committee on the Economic Report” to conform to act June 18, 1956, ch. 399, § 2, 70 Stat. 290. See section 1024(a) of this title.
+“Joint Economic Committee” substituted in text for “Joint Committee on the Economic Report” to conform to act June 18, 1956, ch. 399, § 2, 70 Stat. 290. See section 1024(a) of this title.
 
 **Amendments**
 
 1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper”.
 
-## § 1026. Repealed. Pub. L. 94–136, title VI, § 601, Nov. 28, 1975, 89 Stat. 742
+## § 1026. Repealed. Pub. L. 94–136, title VI, § 601, Nov. 28, 1975, 89 Stat. 742
 
-Section, Pub. L. 92–210, § 4, Dec. 22, 1971, 85 Stat. 753; Pub. L. 93–34, May 14, 1973, 87 Stat. 72, created the President’s National Commission on Productivity and authorized appropriations for its operation through June 30, 1973. Thereafter, the Commission’s name was changed to the National Commission on Productivity and Work Quality by Pub. L. 93–311, June 8, 1974, 88 Stat. 236 and appropriations were authorized to continue operations through November 30, 1975, by Pub. L. 94–42, § 2, June 28, 1975, 89 Stat. 232, and Pub. L. 94–100, § 2, Oct. 1, 1975, 89 Stat. 483. See section 2401 et seq. of this title.
+Section, Pub. L. 92–210, § 4, Dec. 22, 1971, 85 Stat. 753; Pub. L. 93–34, May 14, 1973, 87 Stat. 72, created the President’s National Commission on Productivity and authorized appropriations for its operation through June 30, 1973. Thereafter, the Commission’s name was changed to the National Commission on Productivity and Work Quality by Pub. L. 93–311, June 8, 1974, 88 Stat. 236 and appropriations were authorized to continue operations through November 30, 1975, by Pub. L. 94–42, § 2, June 28, 1975, 89 Stat. 232, and Pub. L. 94–100, § 2, Oct. 1, 1975, 89 Stat. 483. See section 2401 et seq. of this title.

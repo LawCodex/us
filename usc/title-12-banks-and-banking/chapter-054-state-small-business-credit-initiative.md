@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 54—STATE SMALL BUSINESS CREDIT INITIATIVE
 
-## § 5701. Definitions
+## § 5701. Definitions
 
 In this chapter, the following definitions shall apply:
 
@@ -129,35 +129,35 @@ The term “socially and economically disadvantaged individual” means an indiv
 
 The term “Tribal government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021, pursuant to section 5131 of title 25.
 
-(Pub. L. 111–240, title III, § 3002, Sept. 27, 2010, 124 Stat. 2568; Pub. L. 117–2, title III, § 3301(e), (f), Mar. 11, 2021, 135 Stat. 71.)
+(Pub. L. 111–240, title III, § 3002, Sept. 27, 2010, 124 Stat. 2568; Pub. L. 117–2, title III, § 3301(e), (f), Mar. 11, 2021, 135 Stat. 71.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 Section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in par. (17), is section 308(b) of Pub. L. 101–73, which is set out in a note under section 1463 of this title.
 
 **Amendments**
 
-2021—Par. (10)(E). Pub. L. 117–2, § 3301(e), added subpar. (E).
+2021—Par. (10)(E). Pub. L. 117–2, § 3301(e), added subpar. (E).
 
-Pars. (15) to (19). Pub. L. 117–2, § 3301(f), added pars. (15) to (19).
+Pars. (15) to (19). Pub. L. 117–2, § 3301(f), added pars. (15) to (19).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–2, title III, § 3301(g), Mar. 11, 2021, 135 Stat. 72, provided that: “The amendments made by this section [amending this section and sections 5702 to 5706, 5708, and 5710 of this title and enacting provisions set out as a note below] shall apply with respect to funds appropriated under this section and funds appropriated on and after the date of enactment of this section [Mar. 11, 2021].”
+Pub. L. 117–2, title III, § 3301(g), Mar. 11, 2021, 135 Stat. 72, provided that: “The amendments made by this section [amending this section and sections 5702 to 5706, 5708, and 5710 of this title and enacting provisions set out as a note below] shall apply with respect to funds appropriated under this section and funds appropriated on and after the date of enactment of this section [Mar. 11, 2021].”
 
 **Short Title**
 
-Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided that: “This title [enacting this chapter] may be cited as the ‘State Small Business Credit Initiative Act of 2010’.”
+Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided that: “This title [enacting this chapter] may be cited as the ‘State Small Business Credit Initiative Act of 2010’.”
 
 **Appropriation**
 
-Pub. L. 117–2, title III, § 3301(a)(2), Mar. 11, 2021, 135 Stat. 69, provided that:
+Pub. L. 117–2, title III, § 3301(a)(2), Mar. 11, 2021, 135 Stat. 69, provided that:
 
 > **“(A) In general.—** In addition to amounts otherwise available, there is hereby appropriated to the Secretary of the Treasury for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $10,000,000,000, to remain available until expended, to provide support to small businesses responding to and recovering from the economic effects of the COVID–19 pandemic, ensure business enterprises owned and controlled by socially and economically disadvantaged individuals have access to credit and investments, provide technical assistance to help small businesses applying for various support programs, and to pay reasonable costs of administering such Initiative.
 
@@ -167,7 +167,7 @@ Pub. L. 117–2, title III, § 3301(a)(2), Mar. 11, 2021, 135 Stat. 69, provid
 
 > **“(ii)** any amounts that remain unexpended (whether obligated or unobligated) on September 30, 2030, shall be rescinded and deposited into the general fund of the Treasury.”
 
-## § 5702. Federal funds allocated to States
+## § 5702. Federal funds allocated to States
 
 **(a) Program established; purpose**
 
@@ -189,7 +189,7 @@ With respect to States other than Tribal governments, the Secretary shall determ
 
 The Secretary shall adjust the allocations under subparagraph (A) for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the Federal funds.
 
-**(C) 1 [footnote: 1 So in original. Two subpars. (C) have been enacted.] 2020 State employment decline defined** In this paragraph and with respect to a State, the term “2020 State employment decline” means the excess (if any) of—
+**(C) 1 [footnote: 1 So in original. Two subpars. (C) have been enacted.] 2020 State employment decline defined** In this paragraph and with respect to a State, the term “2020 State employment decline” means the excess (if any) of—
 
 **(i)** the number of individuals employed in such State determined for December 2019; over
 
@@ -311,35 +311,35 @@ Of the amounts appropriated to carry out the Program, the Secretary shall alloca
 
 **(B)** may include independent contractors and sole proprietors.
 
-(Pub. L. 111–240, title III, § 3003, Sept. 27, 2010, 124 Stat. 2570; Pub. L. 117–2, title III, § 3301(a)(1)(A), (b), (c), Mar. 11, 2021, 135 Stat. 67, 69, 70.)
+(Pub. L. 111–240, title III, § 3003, Sept. 27, 2010, 124 Stat. 2570; Pub. L. 117–2, title III, § 3301(a)(1)(A), (b), (c), Mar. 11, 2021, 135 Stat. 67, 69, 70.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 117–2, § 3301(a)(1)(A)(i)(I), amended par. (1) generally. Prior to amendment, par. (1) required allocation of funds by 30 days after Sept. 27, 2010.
+2021—Subsec. (b)(1). Pub. L. 117–2, § 3301(a)(1)(A)(i)(I), amended par. (1) generally. Prior to amendment, par. (1) required allocation of funds by 30 days after Sept. 27, 2010.
 
-Subsec. (b)(2). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(II)(bb), substituted “2020” for “2008” wherever appearing.
+Subsec. (b)(2). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(II)(bb), substituted “2020” for “2008” wherever appearing.
 
-Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(aa), substituted “2021” for “2009” in heading and in subpar. (A).
+Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(aa), substituted “2021” for “2009” in heading and in subpar. (A).
 
-Subsec. (b)(2)(A). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(cc), substituted “With respect to States other than Tribal governments, the Secretary” for “The Secretary”.
+Subsec. (b)(2)(A). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(cc), substituted “With respect to States other than Tribal governments, the Secretary” for “The Secretary”.
 
-Subsec. (b)(2)(C). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(ee), added subpar. (C) relating to separate allocation for tribal governments.
+Subsec. (b)(2)(C). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(ee), added subpar. (C) relating to separate allocation for tribal governments.
 
-Subsec. (b)(2)(C)(i). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(dd), substituted “2019” for “2007” in cl. (i) of subpar. (C) defining 2020 State employment decline.
+Subsec. (b)(2)(C)(i). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(dd), substituted “2019” for “2007” in cl. (i) of subpar. (C) defining 2020 State employment decline.
 
-Subsec. (b)(2)(D). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(ee), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(ee), added subpar. (D).
 
-Subsec. (b)(3). Pub. L. 117–2, § 3301(a)(1)(A)(i)(III), struck out par. (3) which provided for the 2010 allocation formula.
+Subsec. (b)(3). Pub. L. 117–2, § 3301(a)(1)(A)(i)(III), struck out par. (3) which provided for the 2010 allocation formula.
 
-Subsec. (c)(1)(A)(iii). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(I), inserted before period at end “that have delivered loans or investments to eligible businesses”.
+Subsec. (c)(1)(A)(iii). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(I), inserted before period at end “that have delivered loans or investments to eligible businesses”.
 
-Subsec. (c)(4). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(II), amended par. (4) generally. Prior to amendment, text read as follows: “Any portion of a participating State’s allocated amount that has not been transferred to the State under this section by the end of the 2-year period beginning on the date that the Secretary approves the State for participation may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the General Fund of the Treasury.”
+Subsec. (c)(4). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(II), amended par. (4) generally. Prior to amendment, text read as follows: “Any portion of a participating State’s allocated amount that has not been transferred to the State under this section by the end of the 2-year period beginning on the date that the Secretary approves the State for participation may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the General Fund of the Treasury.”
 
-Subsecs. (d), (e). Pub. L. 117–2, § 3301(b), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 117–2, § 3301(b), added subsecs. (d) and (e).
 
-Subsec. (f). Pub. L. 117–2, § 3301(c), added subsec. (f).
+Subsec. (f). Pub. L. 117–2, § 3301(c), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -347,7 +347,7 @@ Subsec. (f). Pub. L. 117–2, § 3301(c), added subsec. (f).
 
 Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
 
-## § 5703. Approving States for participation
+## § 5703. Approving States for participation
 
 **(a) Application**
 
@@ -415,7 +415,7 @@ If the Secretary approves municipalities to be participating municipalities unde
 
 If the Secretary approves municipalities to be participating municipalities under this subsection, the Secretary shall take into account the additional considerations in section 5705(d) of this title in making the determination under section 5704 or 5705 of this title that the State program or programs to be implemented by the participating municipalities, including a State capital access program, is eligible for Federal contributions to, or for the account of, the State program.
 
-(Pub. L. 111–240, title III, § 3004, Sept. 27, 2010, 124 Stat. 2573; Pub. L. 117–2, title III, § 3301(a)(1)(B), Mar. 11, 2021, 135 Stat. 69.)
+(Pub. L. 111–240, title III, § 3004, Sept. 27, 2010, 124 Stat. 2573; Pub. L. 117–2, title III, § 3301(a)(1)(B), Mar. 11, 2021, 135 Stat. 69.)
 
 **Editorial Notes**
 
@@ -429,7 +429,7 @@ If the Secretary approves municipalities to be participating municipalities unde
 
 Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
 
-## § 5704. Approving State capital access programs
+## § 5704. Approving State capital access programs
 
 **(a) Application**
 
@@ -521,7 +521,7 @@ In this paragraph, the terms “executive officer”, “director”, “princip
 
 At the time that a State applies to the Secretary to have the State capital access program approved as eligible for Federal contributions, the State shall deliver to the Secretary a report stating how the State plans to use the Federal contributions to the reserve fund to provide access to capital for small businesses in low- and moderate-income, minority, and other underserved communities, including women- and minority-owned small businesses.
 
-(Pub. L. 111–240, title III, § 3005, Sept. 27, 2010, 124 Stat. 2574; Pub. L. 117–2, title III, § 3301(a)(1)(C), Mar. 11, 2021, 135 Stat. 69.)
+(Pub. L. 111–240, title III, § 3005, Sept. 27, 2010, 124 Stat. 2574; Pub. L. 117–2, title III, § 3301(a)(1)(C), Mar. 11, 2021, 135 Stat. 69.)
 
 **Editorial Notes**
 
@@ -535,7 +535,7 @@ At the time that a State applies to the Secretary to have the State capital acce
 
 Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
 
-## § 5705. Approving collateral support and other innovative credit access and guarantee initiatives for small businesses and manufacturers
+## § 5705. Approving collateral support and other innovative credit access and guarantee initiatives for small businesses and manufacturers
 
 **(a) Application**
 
@@ -587,7 +587,7 @@ A State other credit support program approved under this section will be eligibl
 
 **(f) Minimum Program Requirements for State other credit support programs**
 
-**(1) Fund 1 [footnote: 1 So in original. Probably should be “Secretary”.] to prescribe**
+**(1) Fund 1 [footnote: 1 So in original. Probably should be “Secretary”.] to prescribe**
 
 The Secretary shall, by regulation or other guidance, prescribe Program requirements for approved State other credit support programs.
 
@@ -595,7 +595,7 @@ The Secretary shall, by regulation or other guidance, prescribe Program requirem
 
 In prescribing minimum Program requirements for approved State other credit support programs, the Secretary shall take into consideration, to the extent the Secretary determines applicable and appropriate, the minimum Program requirements for approved State capital access programs in section 5704(e) of this title.
 
-(Pub. L. 111–240, title III, § 3006, Sept. 27, 2010, 124 Stat. 2577; Pub. L. 117–2, title III, § 3301(a)(1)(D), Mar. 11, 2021, 135 Stat. 69.)
+(Pub. L. 111–240, title III, § 3006, Sept. 27, 2010, 124 Stat. 2577; Pub. L. 117–2, title III, § 3301(a)(1)(D), Mar. 11, 2021, 135 Stat. 69.)
 
 **Editorial Notes**
 
@@ -609,7 +609,7 @@ In prescribing minimum Program requirements for approved State other credit supp
 
 Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
 
-## § 5706. Reports
+## § 5706. Reports
 
 **(a) Quarterly use-of-funds report**
 
@@ -649,7 +649,7 @@ The reports and data filed under subsections (a) and (b) shall be in such form a
 
 The requirement to submit reports under subsections (a) and (b) shall terminate for a participating State with the submission of the completed reports due on the first March 31 to occur after 5 complete 12-month periods after the State is approved by the Secretary to be a participating State.
 
-(Pub. L. 111–240, title III, § 3007, Sept. 27, 2010, 124 Stat. 2579; Pub. L. 117–2, title III, § 3301(a)(1)(E), Mar. 11, 2021, 135 Stat. 69.)
+(Pub. L. 111–240, title III, § 3007, Sept. 27, 2010, 124 Stat. 2579; Pub. L. 117–2, title III, § 3301(a)(1)(E), Mar. 11, 2021, 135 Stat. 69.)
 
 **Editorial Notes**
 
@@ -663,7 +663,7 @@ The requirement to submit reports under subsections (a) and (b) shall terminate 
 
 Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
 
-## § 5707. Remedies for State program termination or failures
+## § 5707. Remedies for State program termination or failures
 
 **(a) Remedies**
 
@@ -685,9 +685,9 @@ Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under
 
 If, after 13 months, any portion of the amount of Federal funds allocated to a participating State is deemed by the Secretary to be no longer allocated to the State after actions taken by the Secretary under subsection (a)(1), the Secretary shall reallocate that portion among the participating States, excluding the State whose allocated funds were deemed to be no longer allocated, as provided in section 5702(b) of this title.
 
-(Pub. L. 111–240, title III, § 3008, Sept. 27, 2010, 124 Stat. 2580.)
+(Pub. L. 111–240, title III, § 3008, Sept. 27, 2010, 124 Stat. 2580.)
 
-## § 5708. Implementation and administration
+## § 5708. Implementation and administration
 
 **(a) General authorities and duties** The Secretary shall—
 
@@ -733,13 +733,13 @@ During the 1-year period beginning on March 11, 2021, the Secretary may enter in
 
 **(B)** other State or Federal programs that support small businesses.
 
-(Pub. L. 111–240, title III, § 3009, Sept. 27, 2010, 124 Stat. 2580; Pub. L. 117–2, title III, § 3301(a)(1)(F), (d), Mar. 11, 2021, 135 Stat. 69, 70.)
+(Pub. L. 111–240, title III, § 3009, Sept. 27, 2010, 124 Stat. 2580; Pub. L. 117–2, title III, § 3301(a)(1)(F), (d), Mar. 11, 2021, 135 Stat. 69, 70.)
 
 **Amendments**
 
-2021—Subsecs. (c), (d). Pub. L. 117–2, § 3301(a)(1)(F), substituted “March 11, 2021” for “September 27, 2010”.
+2021—Subsecs. (c), (d). Pub. L. 117–2, § 3301(a)(1)(F), substituted “March 11, 2021” for “September 27, 2010”.
 
-Subsec. (e). Pub. L. 117–2, § 3301(d), added subsec. (e).
+Subsec. (e). Pub. L. 117–2, § 3301(d), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -747,13 +747,13 @@ Subsec. (e). Pub. L. 117–2, § 3301(d), added subsec. (e).
 
 Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
 
-## § 5709. Regulations
+## § 5709. Regulations
 
 The Secretary, in consultation with the Administrator of the Small Business Administration, shall issue such regulations and other guidance as the Secretary determines necessary or appropriate to implement this chapter including to define terms, to establish compliance and reporting requirements, and such other terms and conditions necessary to carry out the purposes of this chapter.
 
-(Pub. L. 111–240, title III, § 3010, Sept. 27, 2010, 124 Stat. 2581.)
+(Pub. L. 111–240, title III, § 3010, Sept. 27, 2010, 124 Stat. 2581.)
 
-## § 5710. Oversight and audits
+## § 5710. Oversight and audits
 
 **(a) Inspector General oversight**
 
@@ -773,7 +773,7 @@ With respect to funds received by a participating State under the Program, any p
 
 None of the funds made available under this chapter may be used to pay the salary of any individual engaged in activities related to the Program who has been officially disciplined for violations of subpart G of the Standards of Ethical Conduct for Employees of the Executive Branch for viewing, downloading, or exchanging pornography, including child pornography, on a Federal Government computer or while performing official Federal Government duties.
 
-(Pub. L. 111–240, title III, § 3011, Sept. 27, 2010, 124 Stat. 2581; Pub. L. 113–188, title IX, § 901(d), Nov. 26, 2014, 128 Stat. 2020; Pub. L. 117–2, title III, § 3301(a)(1)(G), Mar. 11, 2021, 135 Stat. 69.)
+(Pub. L. 111–240, title III, § 3011, Sept. 27, 2010, 124 Stat. 2581; Pub. L. 113–188, title IX, § 901(d), Nov. 26, 2014, 128 Stat. 2020; Pub. L. 117–2, title III, § 3301(a)(1)(G), Mar. 11, 2021, 135 Stat. 69.)
 
 **Editorial Notes**
 

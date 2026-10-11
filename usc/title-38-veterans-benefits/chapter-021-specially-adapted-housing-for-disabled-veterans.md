@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–177, § 1(d), June 1, 2018, 132 Stat. 1378, added item 2102B.
+2018—Pub. L. 115–177, § 1(d), June 1, 2018, 132 Stat. 1378, added item 2102B.
 
-2012—Pub. L. 112–154, title VII, § 701(a)(2), Aug. 6, 2012, 126 Stat. 1203, added item 2109.
+2012—Pub. L. 112–154, title VII, § 701(a)(2), Aug. 6, 2012, 126 Stat. 1203, added item 2109.
 
-2010—Pub. L. 111–275, title II, § 203(b), Oct. 13, 2010, 124 Stat. 2874, added item 2108.
+2010—Pub. L. 111–275, title II, § 203(b), Oct. 13, 2010, 124 Stat. 2874, added item 2108.
 
-2008—Pub. L. 110–289, div. B, title VI, § 2602(b)(8), July 30, 2008, 122 Stat. 2860, substituted “Acquisition and adaptation of housing: eligible veterans” for “Veterans eligible for assistance” in item 2101, added item 2101A, and substituted “individuals” for “veterans” in item 2102A.
+2008—Pub. L. 110–289, div. B, title VI, § 2602(b)(8), July 30, 2008, 122 Stat. 2860, substituted “Acquisition and adaptation of housing: eligible veterans” for “Veterans eligible for assistance” in item 2101, added item 2101A, and substituted “individuals” for “veterans” in item 2102A.
 
-2006—Pub. L. 109–233, title I, § 101(d), June 15, 2006, 120 Stat. 399, added items 2102A and 2107.
+2006—Pub. L. 109–233, title I, § 101(d), June 15, 2006, 120 Stat. 399, added items 2102A and 2107.
 
-1992—Pub. L. 102–568, title II, § 204(b), Oct. 29, 1992, 106 Stat. 4325, substituted “Veterans’ ” for “Veteran’s” in item 2106.
+1992—Pub. L. 102–568, title II, § 204(b), Oct. 29, 1992, 106 Stat. 4325, substituted “Veterans’ ” for “Veteran’s” in item 2106.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 801 to 806 as 2101 to 2106, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 801 to 806 as 2101 to 2106, respectively.
 
-1988—Pub. L. 100–322, title III, § 333(a)(2), May 20, 1988, 102 Stat. 539, substituted “Veteran’s mortgage life insurance” for “Mortgage Protection Life Insurance” in item 806.
+1988—Pub. L. 100–322, title III, § 333(a)(2), May 20, 1988, 102 Stat. 539, substituted “Veteran’s mortgage life insurance” for “Mortgage Protection Life Insurance” in item 806.
 
-1971—Pub. L. 92–95, § 2, Aug. 11, 1971, 85 Stat. 322, added item 806.
+1971—Pub. L. 92–95, § 2, Aug. 11, 1971, 85 Stat. 322, added item 806.
 
-## § 2101. Acquisition and adaptation of housing: eligible veterans
+## § 2101. Acquisition and adaptation of housing: eligible veterans
 
 **(a) Acquisition of Housing With Special Features.—**
 
@@ -107,65 +107,65 @@ which so affect the functions of balance or propulsion as to preclude locomotion
 
 **(c) Regulations.—** Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, § 801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, § 1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, § 401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, § 301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, § 401(a), title VII, §§ 701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered § 2101 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, § 401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, § 401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, § 105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§ 2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§ 202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177; Pub. L. 113–37, § 2(g), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title IV, § 405, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, § 407, title VI, § 601(10), (11), Sept. 30, 2015, 129 Stat. 535, 538; Pub. L. 114–228, title IV, § 408, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 407, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 121, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–154, §§ 2, 3(b), Aug. 8, 2020, 134 Stat. 690, 691.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, § 801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, § 1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, § 401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, § 301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, § 401(a), title VII, §§ 701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered § 2101 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, § 401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, § 401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, § 105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§ 2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§ 202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177; Pub. L. 113–37, § 2(g), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title IV, § 405, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, § 407, title VI, § 601(10), (11), Sept. 30, 2015, 129 Stat. 535, 538; Pub. L. 114–228, title IV, § 408, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 407, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 121, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–154, §§ 2, 3(b), Aug. 8, 2020, 134 Stat. 690, 691.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 2101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, related to eligibility for mustering-out payments, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
+Prior section 2101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, related to eligibility for mustering-out payments, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 **Amendments**
 
-2020—Subsec. (a)(2)(A)(i). Pub. L. 116–154, § 2(1)(A), struck out “permanent and total” before “service-connected disability”.
+2020—Subsec. (a)(2)(A)(i). Pub. L. 116–154, § 2(1)(A), struck out “permanent and total” before “service-connected disability”.
 
-Subsec. (a)(2)(B)(i). Pub. L. 116–154, § 2(1)(B)(i), inserted “permanent and total” before “disability”.
+Subsec. (a)(2)(B)(i). Pub. L. 116–154, § 2(1)(B)(i), inserted “permanent and total” before “disability”.
 
-Subsec. (a)(2)(B)(ii). Pub. L. 116–154, § 2(1)(B)(ii), inserted “permanent” before “disability”, substituted “due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this clause, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.” for “due to—”, and struck out subcls. (I) and (II) which read as follows:
+Subsec. (a)(2)(B)(ii). Pub. L. 116–154, § 2(1)(B)(ii), inserted “permanent” before “disability”, substituted “due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this clause, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.” for “due to—”, and struck out subcls. (I) and (II) which read as follows:
 
 “(I) blindness in both eyes, having only light perception, plus
 
 “(II) loss or loss of use of one lower extremity.”
 
-Subsec. (a)(2)(B)(iii) to (v). Pub. L. 116–154, § 2(1)(B)(i), inserted “permanent and total” before “disability”.
+Subsec. (a)(2)(B)(iii) to (v). Pub. L. 116–154, § 2(1)(B)(i), inserted “permanent and total” before “disability”.
 
-Subsec. (a)(4). Pub. L. 116–154, § 3(b), substituted “120 applications” for “30 applications”.
+Subsec. (a)(4). Pub. L. 116–154, § 3(b), substituted “120 applications” for “30 applications”.
 
-Subsec. (b)(2). Pub. L. 116–154, § 2(2), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this subparagraph, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.”
+Subsec. (b)(2). Pub. L. 116–154, § 2(2), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this subparagraph, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.”
 
 2018—Subsec. (a)(4). Pub. L. 115–251 substituted “In any fiscal year, the Secretary” for “(B) In each of fiscal years 2014 through 2018, the Secretary” and struck out subpar. (A) which read as follows: “Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2018.”
 
-2017—Subsec. (a)(4)(A). Pub. L. 115–62, § 407(1), substituted “September 30, 2018” for “September 30, 2017”.
+2017—Subsec. (a)(4)(A). Pub. L. 115–62, § 407(1), substituted “September 30, 2018” for “September 30, 2017”.
 
-Subsec. (a)(4)(B). Pub. L. 115–62, § 407(2), substituted “2018” for “2017”.
+Subsec. (a)(4)(B). Pub. L. 115–62, § 407(2), substituted “2018” for “2017”.
 
-2016—Subsec. (a)(4)(A). Pub. L. 114–228, § 408(1), substituted “September 30, 2017” for “September 30, 2016”.
+2016—Subsec. (a)(4)(A). Pub. L. 114–228, § 408(1), substituted “September 30, 2017” for “September 30, 2016”.
 
-Subsec. (a)(4)(B). Pub. L. 114–228, § 408(2), substituted “2017” for “2016”.
+Subsec. (a)(4)(B). Pub. L. 114–228, § 408(2), substituted “2017” for “2016”.
 
-2015—Subsec. (a)(2). Pub. L. 114–58, § 601(10), realigned margins.
+2015—Subsec. (a)(2). Pub. L. 114–58, § 601(10), realigned margins.
 
-Subsec. (a)(2)(B)(ii). Pub. L. 114–58, § 601(11), added cl. (ii) and struck out former cl. (ii) which read as follows: “The disability is due to—
+Subsec. (a)(2)(B)(ii). Pub. L. 114–58, § 601(11), added cl. (ii) and struck out former cl. (ii) which read as follows: “The disability is due to—
 
 “(I) blindness in both eyes, having only light perception, plus (ii) loss or loss of use of one lower extremity.”
 
-Subsec. (a)(4)(A). Pub. L. 114–58, § 407(1), substituted “September 30, 2016” for “September 30, 2015”.
+Subsec. (a)(4)(A). Pub. L. 114–58, § 407(1), substituted “September 30, 2016” for “September 30, 2015”.
 
-Subsec. (a)(4)(B). Pub. L. 114–58, § 407(2), substituted “each of fiscal years 2014 through 2016” for “each of fiscal years 2014 and 2015”.
+Subsec. (a)(4)(B). Pub. L. 114–58, § 407(2), substituted “each of fiscal years 2014 through 2016” for “each of fiscal years 2014 and 2015”.
 
-2014—Subsec. (a)(4)(A). Pub. L. 113–175, § 405(1), substituted “September 30, 2015” for “September 30, 2014”.
+2014—Subsec. (a)(4)(A). Pub. L. 113–175, § 405(1), substituted “September 30, 2015” for “September 30, 2014”.
 
-Subsec. (a)(4)(B). Pub. L. 113–175, § 405(2), substituted “each of fiscal years 2014 and 2015” for “fiscal year 2014”.
+Subsec. (a)(4)(B). Pub. L. 113–175, § 405(2), substituted “each of fiscal years 2014 and 2015” for “fiscal year 2014”.
 
 2013—Subsec. (a)(4). Pub. L. 113–37 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the Secretary’s” for “The Secretary’s” and “September 30, 2014” for “September 30, 2013”, and added subpar. (B).
 
-2012—Subsec. (a)(1). Pub. L. 112–154, § 202(c)(1), substituted “to paragraphs (3) and (4)” for “to paragraph (3)”.
+2012—Subsec. (a)(1). Pub. L. 112–154, § 202(c)(1), substituted “to paragraphs (3) and (4)” for “to paragraph (3)”.
 
-Subsec. (a)(2). Pub. L. 112–154, § 202(a), amended par. (2) generally. Prior to amendment, par. (2) provided description of disabled veteran whom Secretary may assist in acquiring suitable housing.
+Subsec. (a)(2). Pub. L. 112–154, § 202(a), amended par. (2) generally. Prior to amendment, par. (2) provided description of disabled veteran whom Secretary may assist in acquiring suitable housing.
 
-Subsec. (a)(4). Pub. L. 112–154, § 202(c)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 112–154, § 202(c)(2), added par. (4).
 
-Subsec. (b)(2). Pub. L. 112–154, § 203(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the following criteria:
+Subsec. (b)(2). Pub. L. 112–154, § 203(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the following criteria:
 
 “(A) The disability is due to blindness in both eyes with 5/200 visual acuity or less.
 
@@ -173,25 +173,25 @@ Subsec. (b)(2). Pub. L. 112–154, § 203(a), amended par. (2) generally. Prio
 
 “(C) The disability is due to a severe burn injury (as so determined).”
 
-2008—Pub. L. 110–289, § 2602(b)(7)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Veterans eligible for assistance”.
+2008—Pub. L. 110–289, § 2602(b)(7)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Veterans eligible for assistance”.
 
-Subsec. (a)(2)(E). Pub. L. 110–289, § 2603(1), added subpar. (E).
+Subsec. (a)(2)(E). Pub. L. 110–289, § 2603(1), added subpar. (E).
 
-Subsec. (b)(2). Pub. L. 110–289, § 2603(2)(A), substituted “any” for “either” in introductory provisions.
+Subsec. (b)(2). Pub. L. 110–289, § 2603(2)(A), substituted “any” for “either” in introductory provisions.
 
-Subsec. (b)(2)(C). Pub. L. 110–289, § 2603(2)(B), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 110–289, § 2603(2)(B), added subpar. (C).
 
-Subsecs. (c), (d). Pub. L. 110–289, § 2602(b)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to provision of specially adapted housing to a member of the Armed Forces serving on active duty and suffering from a disability whose disability was the result of an injury incurred or disease contracted in or aggravated in the line of duty. See section 2101A of this title.
+Subsecs. (c), (d). Pub. L. 110–289, § 2602(b)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to provision of specially adapted housing to a member of the Armed Forces serving on active duty and suffering from a disability whose disability was the result of an injury incurred or disease contracted in or aggravated in the line of duty. See section 2101A of this title.
 
-2006—Subsec. (a)(3). Pub. L. 109–233, § 105(a)(3), substituted “subsection (d)” for “subsection (c)” in introductory provisions.
+2006—Subsec. (a)(3). Pub. L. 109–233, § 105(a)(3), substituted “subsection (d)” for “subsection (c)” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–233, § 105(a)(2), added subsec. (c) consisting of the text of subsec. (c) of this section as in effect immediately before the enactment of Pub. L. 108–454, as modified by amendments to pars. (1) and (2) below. See 2004 Amendment note below. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 109–233, § 105(a)(2), added subsec. (c) consisting of the text of subsec. (c) of this section as in effect immediately before the enactment of Pub. L. 108–454, as modified by amendments to pars. (1) and (2) below. See 2004 Amendment note below. Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1). Pub. L. 109–233, § 105(a)(2)(A), substituted “subparagraph (A), (B), (C), or (D) of paragraph (2)” for “paragraph (1), (2), or (3)” and “paragraph (3)” for “the second sentence”.
+Subsec. (c)(1). Pub. L. 109–233, § 105(a)(2)(A), substituted “subparagraph (A), (B), (C), or (D) of paragraph (2)” for “paragraph (1), (2), or (3)” and “paragraph (3)” for “the second sentence”.
 
-Subsec. (c)(2). Pub. L. 109–233, § 105(a)(2)(B), substituted “paragraph (2)” for “paragraph (1)” in first sentence and “paragraph (3)” for “paragraph (2)” in second sentence.
+Subsec. (c)(2). Pub. L. 109–233, § 105(a)(2)(B), substituted “paragraph (2)” for “paragraph (1)” in first sentence and “paragraph (3)” for “paragraph (2)” in second sentence.
 
-Subsec. (d). Pub. L. 109–233, § 105(a)(1), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 109–233, § 105(a)(1), redesignated subsec. (c) as (d).
 
 2004—Pub. L. 108–454 amended text of section generally. Prior to amendment, section consisted of subsecs. (a) and (b) authorizing the Secretary to assist veterans entitled to compensation under chapter 11 of this title for permanent and total service-connected disability due to loss or loss of use of lower extremities, blindness, or loss or loss of use of both hands and subsec. (c) authorizing similar assistance to members of the Armed Forces serving on active duty.
 
@@ -199,9 +199,9 @@ Subsec. (d). Pub. L. 109–233, § 105(a)(1), redesignated subsec. (c) as (d).
 
 1991—Pub. L. 102–83 renumbered section 801 of this title as this section and substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (a). Pub. L. 99–576, §§ 701(48), 702(7), substituted “the Administrator” for “he” and “veteran who” for “veteran, who”, and struck out “, based on service after April 20, 1898,” after “chapter 11 of this title”.
+1986—Subsec. (a). Pub. L. 99–576, §§ 701(48), 702(7), substituted “the Administrator” for “he” and “veteran who” for “veteran, who”, and struck out “, based on service after April 20, 1898,” after “chapter 11 of this title”.
 
-Subsec. (b)(1). Pub. L. 99–576, § 401(a), inserted at end “or in acquiring a residence already adapted with special features determined by the Administrator to be reasonably necessary for the veteran because of such disability”.
+Subsec. (b)(1). Pub. L. 99–576, § 401(a), inserted at end “or in acquiring a residence already adapted with special features determined by the Administrator to be reasonably necessary for the veteran because of such disability”.
 
 1980—Pub. L. 96–385 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -217,7 +217,7 @@ Subsec. (b)(1). Pub. L. 99–576, § 401(a), inserted at end “or in acquirin
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–154, § 3(f), Aug. 8, 2020, 134 Stat. 691, provided that: “The amendments made by this section [amending this section and section 2102 of this title] shall take effect on October 1, 2020.”
+Pub. L. 116–154, § 3(f), Aug. 8, 2020, 134 Stat. 691, provided that: “The amendments made by this section [amending this section and section 2102 of this title] shall take effect on October 1, 2020.”
 
 **Effective Date of 2013 Amendment**
 
@@ -225,13 +225,13 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title II, § 202(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2012.”
+Pub. L. 112–154, title II, § 202(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2012.”
 
-Pub. L. 112–154, title II, § 203(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2012.”
+Pub. L. 112–154, title II, § 203(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2012.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–233, title I, § 105(b), June 15, 2006, 120 Stat. 402, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of December 10, 2004, as if enacted immediately after the enactment of the Veterans Benefits Improvement Act of 2004 [Pub. L. 108–454] on that date.”
+Pub. L. 109–233, title I, § 105(b), June 15, 2006, 120 Stat. 402, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of December 10, 2004, as if enacted immediately after the enactment of the Veterans Benefits Improvement Act of 2004 [Pub. L. 108–454] on that date.”
 
 **Effective Date of 1980 Amendment**
 
@@ -243,7 +243,7 @@ Amendment by Pub. L. 95–117 effective Oct. 1, 1977, see section 501 of Pub. L.
 
 **Pilot Program to Rehabilitate and Modify Homes of Disabled and Low-Income Veterans**
 
-Pub. L. 113–291, div. A, title X, § 1079, Dec. 19, 2014, 128 Stat. 3521, as amended by Pub. L. 114–92, div. A, title X, § 1081(b)(4), Nov. 25, 2015, 129 Stat. 1001, provided that:
+Pub. L. 113–291, div. A, title X, § 1079, Dec. 19, 2014, 128 Stat. 3521, as amended by Pub. L. 114–92, div. A, title X, § 1081(b)(4), Nov. 25, 2015, 129 Stat. 1001, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -369,7 +369,7 @@ Pub. L. 113–291, div. A, title X, § 1079, Dec. 19, 2014, 128 Stat. 3521, as
 
 > **“(9) Authorization of appropriations.—** There are authorized to be appropriated for the Department of Housing and Urban Development for carrying out this section $4,000,000 for each of fiscal years 2015 through 2019.”
 
-## § 2101A. Eligibility for benefits and assistance: members of the Armed Forces with service-connected disabilities; individuals residing outside the United States
+## § 2101A. Eligibility for benefits and assistance: members of the Armed Forces with service-connected disabilities; individuals residing outside the United States
 
 **(a) Members With Service-Connected Disabilities.—**
 
@@ -391,7 +391,7 @@ Pub. L. 113–291, div. A, title X, § 1079, Dec. 19, 2014, 128 Stat. 3521, as
 
 **(d) Regulations.—** Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Added Pub. L. 110–289, div. B, title VI, § 2602(a), July 30, 2008, 122 Stat. 2858; amended Pub. L. 115–177, § 1(c)(2), June 1, 2018, 132 Stat. 1377; Pub. L. 116–283, div. A, title IX, § 926(a)(34), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 110–289, div. B, title VI, § 2602(a), July 30, 2008, 122 Stat. 2858; amended Pub. L. 115–177, § 1(c)(2), June 1, 2018, 132 Stat. 1377; Pub. L. 116–283, div. A, title IX, § 926(a)(34), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -401,7 +401,7 @@ Pub. L. 113–291, div. A, title X, § 1079, Dec. 19, 2014, 128 Stat. 3521, as
 
 2018—Subsecs. (c), (d). Pub. L. 115–177 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-## § 2102. Limitations on assistance furnished
+## § 2102. Limitations on assistance furnished
 
 **(a)** The assistance authorized by section 2101(a) of this title shall be afforded under one of the following plans, at the option of the individual—
 
@@ -515,27 +515,27 @@ Pub. L. 113–291, div. A, title X, § 1079, Dec. 19, 2014, 128 Stat. 3521, as
 
 **(9)** For the purposes of section 511 of this title, a decision to collect an overpayment from a person other than a person described in paragraph (2)(A), or a dependent or survivor of such person, may not be treated as a decision that affects the provision of benefits.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, § 802; Pub. L. 91–22, § 2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, § 6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, § 9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, § 101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, § 301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, § 502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, § 4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, § 304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, § 401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, § 301, May 20, 1988, 102 Stat. 534; renumbered § 2102 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, § 8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, § 321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, § 404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, § 402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, § 101(b), June 15, 2006, 120 Stat. 398; Pub. L. 110–289, div. B, title VI, §§ 2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861; Pub. L. 112–154, title II, § 204(a), Aug. 6, 2012, 126 Stat. 1177; Pub. L. 116–154, §§ 3(a), (c)–(e), 4, Aug. 8, 2020, 134 Stat. 690, 691; Pub. L. 116–315, title II, § 2104, Jan. 5, 2021, 134 Stat. 4982.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, § 802; Pub. L. 91–22, § 2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, § 6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, § 9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, § 101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, § 301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, § 502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, § 4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, § 304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, § 401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, § 301, May 20, 1988, 102 Stat. 534; renumbered § 2102 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, § 8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, § 321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, § 404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, § 402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, § 101(b), June 15, 2006, 120 Stat. 398; Pub. L. 110–289, div. B, title VI, §§ 2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861; Pub. L. 112–154, title II, § 204(a), Aug. 6, 2012, 126 Stat. 1177; Pub. L. 116–154, §§ 3(a), (c)–(e), 4, Aug. 8, 2020, 134 Stat. 690, 691; Pub. L. 116–315, title II, § 2104, Jan. 5, 2021, 134 Stat. 4982.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 2102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to determination of amount of mustering-out payments, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
+Prior section 2102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to determination of amount of mustering-out payments, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 **Amendments**
 
 2021—Subsec. (g). Pub. L. 116–315 added subsec. (g).
 
-2020—Subsec. (b)(2). Pub. L. 116–154, § 3(c), substituted “$19,733” for “$12,000”.
+2020—Subsec. (b)(2). Pub. L. 116–154, § 3(c), substituted “$19,733” for “$12,000”.
 
-Subsec. (d)(1). Pub. L. 116–154, § 3(d), substituted “$98,492” for “$63,780”.
+Subsec. (d)(1). Pub. L. 116–154, § 3(d), substituted “$98,492” for “$63,780”.
 
-Subsec. (d)(2). Pub. L. 116–154, § 3(e), substituted “$19,733” for “$12,756”.
+Subsec. (d)(2). Pub. L. 116–154, § 3(e), substituted “$19,733” for “$12,756”.
 
-Subsec. (d)(3). Pub. L. 116–154, § 3(a), substituted “Subject to subsection (f), no veteran” for “No veteran” and “six” for “three”.
+Subsec. (d)(3). Pub. L. 116–154, § 3(a), substituted “Subject to subsection (f), no veteran” for “No veteran” and “six” for “three”.
 
-Subsec. (f). Pub. L. 116–154, § 4, added subsec. (f).
+Subsec. (f). Pub. L. 116–154, § 4, added subsec. (f).
 
 2012—Subsec. (d). Pub. L. 112–154 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
@@ -545,71 +545,71 @@ Subsec. (f). Pub. L. 116–154, § 4, added subsec. (f).
 
 “(3) No veteran may receive more than three grants of assistance under this chapter.”
 
-2008—Subsec. (a). Pub. L. 110–289, § 2602(b)(2)(A)(i), substituted “individual” for “veteran” wherever appearing.
+2008—Subsec. (a). Pub. L. 110–289, § 2602(b)(2)(A)(i), substituted “individual” for “veteran” wherever appearing.
 
-Subsec. (a)(3). Pub. L. 110–289, § 2602(b)(2)(A)(ii), substituted “individual’s” for “veteran’s”.
+Subsec. (a)(3). Pub. L. 110–289, § 2602(b)(2)(A)(ii), substituted “individual’s” for “veteran’s”.
 
-Subsec. (b)(1). Pub. L. 110–289, § 2602(b)(2)(B), substituted “an individual” for “a veteran”.
+Subsec. (b)(1). Pub. L. 110–289, § 2602(b)(2)(B), substituted “an individual” for “a veteran”.
 
-Subsec. (b)(2). Pub. L. 110–289, § 2605(a)(1), substituted “$12,000” for “$10,000”.
+Subsec. (b)(2). Pub. L. 110–289, § 2605(a)(1), substituted “$12,000” for “$10,000”.
 
-Subsec. (c). Pub. L. 110–289, § 2602(b)(2)(C), substituted “an individual” for “a veteran” and substituted “the individual” for “the veteran” in two places.
+Subsec. (c). Pub. L. 110–289, § 2602(b)(2)(C), substituted “an individual” for “a veteran” and substituted “the individual” for “the veteran” in two places.
 
-Subsec. (d). Pub. L. 110–289, § 2602(b)(2)(D), substituted “an individual” for “a veteran” in two places.
+Subsec. (d). Pub. L. 110–289, § 2602(b)(2)(D), substituted “an individual” for “a veteran” in two places.
 
-Subsec. (d)(1). Pub. L. 110–289, § 2605(a)(2)(A), substituted “$60,000” for “$50,000”.
+Subsec. (d)(1). Pub. L. 110–289, § 2605(a)(2)(A), substituted “$60,000” for “$50,000”.
 
-Subsec. (d)(2). Pub. L. 110–289, § 2605(a)(2)(B), substituted “$12,000” for “$10,000”.
+Subsec. (d)(2). Pub. L. 110–289, § 2605(a)(2)(B), substituted “$12,000” for “$10,000”.
 
-Subsec. (e). Pub. L. 110–289, § 2605(a)(3), added subsec. (e).
+Subsec. (e). Pub. L. 110–289, § 2605(a)(3), added subsec. (e).
 
-2006—Subsec. (a). Pub. L. 109–233, § 101(b)(1), in introductory provisions, struck out “shall be limited in the case of any veteran to one housing unit, and necessary land therefor, and” before “shall be afforded” and substituted “veteran—” for “veteran but shall not exceed $50,000 in any one case—”.
+2006—Subsec. (a). Pub. L. 109–233, § 101(b)(1), in introductory provisions, struck out “shall be limited in the case of any veteran to one housing unit, and necessary land therefor, and” before “shall be afforded” and substituted “veteran—” for “veteran but shall not exceed $50,000 in any one case—”.
 
-Subsec. (d). Pub. L. 109–233, § 101(b)(2), added subsec. (d).
+Subsec. (d). Pub. L. 109–233, § 101(b)(2), added subsec. (d).
 
-2003—Subsec. (a). Pub. L. 108–183, § 402(a)(1), substituted “$50,000” for “$48,000” in introductory provisions.
+2003—Subsec. (a). Pub. L. 108–183, § 402(a)(1), substituted “$50,000” for “$48,000” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 108–183, § 402(a)(2), substituted “$10,000” for “$9,250”.
+Subsec. (b)(2). Pub. L. 108–183, § 402(a)(2), substituted “$10,000” for “$9,250”.
 
-2001—Subsec. (a). Pub. L. 107–103, § 404(1), substituted “$48,000” for “$43,000” in introductory provisions.
+2001—Subsec. (a). Pub. L. 107–103, § 404(1), substituted “$48,000” for “$43,000” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 107–103, § 404(2), substituted “$9,250” for “$8,250”.
+Subsec. (b)(2). Pub. L. 107–103, § 404(2), substituted “$9,250” for “$8,250”.
 
 2000—Subsec. (c). Pub. L. 106–419 added subsec. (c).
 
-1998—Subsec. (a). Pub. L. 105–178, § 8204(a)(1), substituted “$43,000” for “$38,000” in introductory provisions.
+1998—Subsec. (a). Pub. L. 105–178, § 8204(a)(1), substituted “$43,000” for “$38,000” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 105–178, § 8204(a)(2), substituted “$8,250” for “$6,500”.
+Subsec. (b)(2). Pub. L. 105–178, § 8204(a)(2), substituted “$8,250” for “$6,500”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 802 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 802 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “2101(a)” for “801(a)” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “2101(a)” for “801(a)” in introductory provisions.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2104(b)” for “804(b)” and substituted “2101(b)” for “801(b)” in two places.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2104(b)” for “804(b)” and substituted “2101(b)” for “801(b)” in two places.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
 
-1988—Subsec. (a). Pub. L. 100–322, § 301(1), substituted “$38,000” for “$35,500”.
+1988—Subsec. (a). Pub. L. 100–322, § 301(1), substituted “$38,000” for “$35,500”.
 
-Subsec. (b)(2). Pub. L. 100–322, § 301(2), substituted “$6,500” for “$6,000”.
+Subsec. (b)(2). Pub. L. 100–322, § 301(2), substituted “$6,500” for “$6,000”.
 
 1986—Subsec. (b)(1). Pub. L. 99–576 substituted “cost, or, in the case of a veteran acquiring a residence already adapted with special features, the fair market value,” for “cost”.
 
-1984—Subsec. (a). Pub. L. 98–543, § 304(a)(1), substituted “$35,500” for “$32,500” in provisions before par. (1).
+1984—Subsec. (a). Pub. L. 98–543, § 304(a)(1), substituted “$35,500” for “$32,500” in provisions before par. (1).
 
-Subsec. (b)(2). Pub. L. 98–543, § 304(a)(2), substituted “$6,000” for “$5,000”.
+Subsec. (b)(2). Pub. L. 98–543, § 304(a)(2), substituted “$6,000” for “$5,000”.
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “percent” for “per centum” wherever appearing.
 
-1981—Subsec. (a). Pub. L. 97–66, § 502(1), substituted “$32,500” for “$30,000” in provisions preceding par. (1), “such veteran” for “him” in pars. (1), (2), and (3), and “such veteran’s” for “his” in par. (3).
+1981—Subsec. (a). Pub. L. 97–66, § 502(1), substituted “$32,500” for “$30,000” in provisions preceding par. (1), “such veteran” for “him” in pars. (1), (2), and (3), and “such veteran’s” for “his” in par. (3).
 
-Subsec. (b). Pub. L. 97–66, § 502(2), substituted “section 804(b)” for “section 804(b)(2)”.
+Subsec. (b). Pub. L. 97–66, § 502(2), substituted “section 804(b)” for “section 804(b)(2)”.
 
-1980—Subsec. (a). Pub. L. 96–385, § 301(b)(1), (2), designated existing provisions as subsec. (a) and substituted “section 801(a)” for “section 801”.
+1980—Subsec. (a). Pub. L. 96–385, § 301(b)(1), (2), designated existing provisions as subsec. (a) and substituted “section 801(a)” for “section 801”.
 
-Subsec. (b). Pub. L. 96–385, § 301(b)(3), added subsec. (b).
+Subsec. (b). Pub. L. 96–385, § 301(b)(3), added subsec. (b).
 
 1978—Pub. L. 95–476 substituted “$30,000” for “$25,000”.
 
@@ -629,27 +629,27 @@ Amendment by Pub. L. 116–154 effective Oct. 1, 2020, see section 3(f) of Pub. 
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title II, § 204(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Aug. 6, 2012] and shall apply with respect to assistance provided under sections 2101(a), 2101(b), and 2102A of title 38, United States Code, after such date.”
+Pub. L. 112–154, title II, § 204(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Aug. 6, 2012] and shall apply with respect to assistance provided under sections 2101(a), 2101(b), and 2102A of title 38, United States Code, after such date.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–289, div. B, title VI, § 2605(b), July 30, 2008, 122 Stat. 2861, provided that: “The amendments made by this section [amending this section] shall take effect on July 1, 2008, and shall apply with respect to payments made in accordance with section 2102 of title 38, United States Code, on or after that date.”
+Pub. L. 110–289, div. B, title VI, § 2605(b), July 30, 2008, 122 Stat. 2861, provided that: “The amendments made by this section [amending this section] shall take effect on July 1, 2008, and shall apply with respect to payments made in accordance with section 2102 of title 38, United States Code, on or after that date.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–183, title IV, § 402(c), Dec. 16, 2003, 117 Stat. 2664, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 3902 of this title] shall apply with respect to assistance furnished on or after the date of the enactment of this Act [Dec. 16, 2003].”
+Pub. L. 108–183, title IV, § 402(c), Dec. 16, 2003, 117 Stat. 2664, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 3902 of this title] shall apply with respect to assistance furnished on or after the date of the enactment of this Act [Dec. 16, 2003].”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–178, title VIII, § 8204(b), June 9, 1998, 112 Stat. 494, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to limitations under section 2102 of such title on assistance furnished to a veteran under section 2101 of such title on or after October 1, 1998.”
+Pub. L. 105–178, title VIII, § 8204(b), June 9, 1998, 112 Stat. 494, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to limitations under section 2102 of such title on assistance furnished to a veteran under section 2101 of such title on or after October 1, 1998.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–322, title III, § 304, May 20, 1988, 102 Stat. 534, provided that: “The amendments made by sections 301, 302, and 303 [amending this section and sections 907 and 1902 [now 2307 and 3902] of this title] shall take effect on April 1, 1988.”
+Pub. L. 100–322, title III, § 304, May 20, 1988, 102 Stat. 534, provided that: “The amendments made by sections 301, 302, and 303 [amending this section and sections 907 and 1902 [now 2307 and 3902] of this title] shall take effect on April 1, 1988.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–543, title III, § 304(b), Oct. 24, 1984, 98 Stat. 2748, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 1985.”
+Pub. L. 98–543, title III, § 304(b), Oct. 24, 1984, 98 Stat. 2748, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 1985.”
 
 **Effective Date of 1981 Amendment**
 
@@ -669,9 +669,9 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 
 **Maintenance of Higher Rates**
 
-Pub. L. 112–154, title II, § 204(c), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed to decrease the aggregate amount of assistance available to an individual under the sections described in subsection (b) [set out as an Effective Date of 2012 Amendment note above], as most recently increased by the Secretary pursuant to section 2102(e) of such title [38 U.S.C. 2102(e)].”
+Pub. L. 112–154, title II, § 204(c), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed to decrease the aggregate amount of assistance available to an individual under the sections described in subsection (b) [set out as an Effective Date of 2012 Amendment note above], as most recently increased by the Secretary pursuant to section 2102(e) of such title [38 U.S.C. 2102(e)].”
 
-## § 2102A. Assistance for individuals residing temporarily in housing owned by a family member
+## § 2102A. Assistance for individuals residing temporarily in housing owned by a family member
 
 **(a) Provision of Assistance.—** In the case of a disabled individual who is described in subsection (a)(2) or (b)(2) of section 2101 of this title and who is residing, but does not intend to permanently reside, in a residence owned by a member of such individual’s family, the Secretary may assist the individual in acquiring such adaptations to such residence as are determined by the Secretary to be reasonably necessary because of the individual’s disability.
 
@@ -691,7 +691,7 @@ Pub. L. 112–154, title II, § 204(c), Aug. 6, 2012, 126 Stat. 1177, provided
 
 **(e) Termination.—** No assistance may be provided under this section after September 30, 2026.
 
-(Added Pub. L. 109–233, title I, § 101(a), June 15, 2006, 120 Stat. 398; amended Pub. L. 110–289, div. B, title VI, §§ 2602(b)(3), (7)(B), 2604, July 30, 2008, 122 Stat. 2859–2861; Pub. L. 112–37, § 14, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title II, § 205(a)–(c), Aug. 6, 2012, 126 Stat. 1178; Pub. L. 117–180, div. E, title II, § 204, Sept. 30, 2022, 136 Stat. 2137; Pub. L. 118–83, div. B, title III, § 321, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 119–37, div. G, title III, § 7305, Nov. 12, 2025, 139 Stat. 651.)
+(Added Pub. L. 109–233, title I, § 101(a), June 15, 2006, 120 Stat. 398; amended Pub. L. 110–289, div. B, title VI, §§ 2602(b)(3), (7)(B), 2604, July 30, 2008, 122 Stat. 2859–2861; Pub. L. 112–37, § 14, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title II, § 205(a)–(c), Aug. 6, 2012, 126 Stat. 1178; Pub. L. 117–180, div. E, title II, § 204, Sept. 30, 2022, 136 Stat. 2137; Pub. L. 118–83, div. B, title III, § 321, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 119–37, div. G, title III, § 7305, Nov. 12, 2025, 139 Stat. 651.)
 
 **Editorial Notes**
 
@@ -703,25 +703,25 @@ Pub. L. 112–154, title II, § 204(c), Aug. 6, 2012, 126 Stat. 1177, provided
 
 2022—Subsec. (e). Pub. L. 117–180 substituted “December 31, 2024” for “December 31, 2022”.
 
-2012—Subsec. (b). Pub. L. 112–154, § 205(b), redesignated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), and added par. (2).
+2012—Subsec. (b). Pub. L. 112–154, § 205(b), redesignated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), and added par. (2).
 
-Subsec. (b)(1). Pub. L. 112–154, § 205(a)(1), substituted “$28,000” for “$14,000”.
+Subsec. (b)(1). Pub. L. 112–154, § 205(a)(1), substituted “$28,000” for “$14,000”.
 
-Subsec. (b)(2). Pub. L. 112–154, § 205(a)(2), substituted “$5,000” for “$2,000”.
+Subsec. (b)(2). Pub. L. 112–154, § 205(a)(2), substituted “$5,000” for “$2,000”.
 
-Subsec. (e). Pub. L. 112–154, § 205(c), substituted “December 31, 2022” for “December 31, 2012”.
+Subsec. (e). Pub. L. 112–154, § 205(c), substituted “December 31, 2022” for “December 31, 2012”.
 
 2011—Subsec. (e). Pub. L. 112–37 substituted “2012” for “2011”.
 
-2008—Pub. L. 110–289, § 2602(b)(7)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Assistance for veterans residing temporarily in housing owned by a family member”.
+2008—Pub. L. 110–289, § 2602(b)(7)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Assistance for veterans residing temporarily in housing owned by a family member”.
 
-Subsec. (a). Pub. L. 110–289, § 2602(b)(3)(A), (B), substituted “individual” for “veteran” and “individual’s” for “veteran’s” in two places each.
+Subsec. (a). Pub. L. 110–289, § 2602(b)(3)(A), (B), substituted “individual” for “veteran” and “individual’s” for “veteran’s” in two places each.
 
-Subsec. (b). Pub. L. 110–289, § 2602(b)(3)(C), substituted “an individual” for “a veteran” in two places.
+Subsec. (b). Pub. L. 110–289, § 2602(b)(3)(C), substituted “an individual” for “a veteran” in two places.
 
-Subsec. (c). Pub. L. 110–289, § 2602(b)(3)(A), substituted “individual” for “veteran”.
+Subsec. (c). Pub. L. 110–289, § 2602(b)(3)(A), substituted “individual” for “veteran”.
 
-Subsec. (e). Pub. L. 110–289, § 2604, substituted “after December 31, 2011” for “after the end of the five-year period that begins on the date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006”.
+Subsec. (e). Pub. L. 110–289, § 2604, substituted “after December 31, 2011” for “after the end of the five-year period that begins on the date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -731,9 +731,9 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title II, § 205(d), Aug. 6, 2012, 126 Stat. 1178, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 6, 2012] and shall apply with respect to assistance furnished in accordance with section 2102A of title 38, United States Code, on or after that date.”
+Pub. L. 112–154, title II, § 205(d), Aug. 6, 2012, 126 Stat. 1178, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 6, 2012] and shall apply with respect to assistance furnished in accordance with section 2102A of title 38, United States Code, on or after that date.”
 
-## § 2102B. Adaptations to residences of veterans in rehabilitation programs
+## § 2102B. Adaptations to residences of veterans in rehabilitation programs
 
 **(a) In General.—** Subject to subsections (b) and (c), the Secretary may assist a veteran who is entitled to services and assistance under chapter 31 of this title and is pursuing a rehabilitation program under such chapter in acquiring such adaptations to such veteran’s residence as are determined necessary by the Secretary to accomplish the purposes of such rehabilitation program.
 
@@ -749,27 +749,27 @@ Pub. L. 112–154, title II, § 205(d), Aug. 6, 2012, 126 Stat. 1178, provided
 
 **(d) Rehabilitation Program Defined.—** In this section, the term “rehabilitation program” has the meaning given such term in section 3101 of this title.
 
-(Added Pub. L. 115–177, § 1(a), June 1, 2018, 132 Stat. 1376.)
+(Added Pub. L. 115–177, § 1(a), June 1, 2018, 132 Stat. 1376.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 115–177, § 1(b), June 1, 2018, 132 Stat. 1376, provided that: “The Secretary may provide assistance under section 2102B of such title [meaning title 38, United States Code], as added by subsection (a), in advance of regulations by issuing notice specifying the criteria for the application, approval, and oversight processes relating to the provision of assistance under such section.”
+Pub. L. 115–177, § 1(b), June 1, 2018, 132 Stat. 1376, provided that: “The Secretary may provide assistance under section 2102B of such title [meaning title 38, United States Code], as added by subsection (a), in advance of regulations by issuing notice specifying the criteria for the application, approval, and oversight processes relating to the provision of assistance under such section.”
 
-## § 2103. Furnishing of plans and specifications
+## § 2103. Furnishing of plans and specifications
 
 **(a) Plans and Specifications.—** The Secretary is authorized to furnish to individuals eligible for assistance under this chapter, without cost to the individuals, model plans and specifications of suitable housing units.
 
 **(b) Handbook for Design.—** The Secretary shall make available to veterans eligible for assistance under this chapter, without cost to the veterans, a handbook containing appropriate designs for specially adapted housing. The Secretary shall update such handbook at least once every six years to take into account any new or unique disabilities, including vision impairments, impairments specific to the upper limbs, and burn injuries.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, § 803; renumbered § 2103 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 110–289, div. B, title VI, § 2602(b)(4), July 30, 2008, 122 Stat. 2859; Pub. L. 110–389, title V, § 503, Oct. 10, 2008, 122 Stat. 4176.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, § 803; renumbered § 2103 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 110–289, div. B, title VI, § 2602(b)(4), July 30, 2008, 122 Stat. 2859; Pub. L. 110–389, title V, § 503, Oct. 10, 2008, 122 Stat. 4176.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 2103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to payment of mustering-out payments to beneficiaries of deceased members, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
+Prior section 2103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to payment of mustering-out payments to beneficiaries of deceased members, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 **Amendments**
 
@@ -779,7 +779,7 @@ Pub. L. 110–289 substituted “individuals” for “veterans” in two places
 
 1991—Pub. L. 102–83 renumbered section 803 of this title as this section and substituted “Secretary” for “Administrator”.
 
-## § 2104. Benefits additional to benefits under other laws
+## § 2104. Benefits additional to benefits under other laws
 
 **(a)** Any individual who accepts the benefits of this chapter shall not by reason thereof be denied the benefits of chapter 37 of this title.
 
@@ -787,33 +787,33 @@ Pub. L. 110–289 substituted “individuals” for “veterans” in two places
 
 **(c)** The Secretary may not provide assistance to a veteran under this chapter if the Secretary determines such assistance would result in a duplication of benefits under this title to the veteran.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 804; Pub. L. 96–385, title III, § 301(c), Oct. 7, 1980, 94 Stat. 1531; renumbered § 2104 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–262, title I, § 101(e)(2), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 110–289, div. B, title VI, § 2602(b)(5), July 30, 2008, 122 Stat. 2859; Pub. L. 115–177, § 1(c)(3), June 1, 2018, 132 Stat. 1377.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 804; Pub. L. 96–385, title III, § 301(c), Oct. 7, 1980, 94 Stat. 1531; renumbered § 2104 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–262, title I, § 101(e)(2), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 110–289, div. B, title VI, § 2602(b)(5), July 30, 2008, 122 Stat. 2859; Pub. L. 115–177, § 1(c)(3), June 1, 2018, 132 Stat. 1377.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 2104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to time limitations, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
+Prior section 2104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to time limitations, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–177, § 1(c)(3)(A), struck out “; however, except as provided in subsection (b) of this section, the assistance authorized by section 2101 of this title shall not be available to any individual more than once” before period at end.
+2018—Subsec. (a). Pub. L. 115–177, § 1(c)(3)(A), struck out “; however, except as provided in subsection (b) of this section, the assistance authorized by section 2101 of this title shall not be available to any individual more than once” before period at end.
 
-Subsec. (b). Pub. L. 115–177, § 1(c)(3)(B), struck out “However, no particular type of adaptation, improvement, or structural alteration provided to an individual under section 1717(a)(2) of this title may be provided to such individual under section 2101(b) of this title.” at end.
+Subsec. (b). Pub. L. 115–177, § 1(c)(3)(B), struck out “However, no particular type of adaptation, improvement, or structural alteration provided to an individual under section 1717(a)(2) of this title may be provided to such individual under section 2101(b) of this title.” at end.
 
-Subsec. (c). Pub. L. 115–177, § 1(c)(3)(C), added subsec. (c).
+Subsec. (c). Pub. L. 115–177, § 1(c)(3)(C), added subsec. (c).
 
-2008—Subsec. (a). Pub. L. 110–289, § 2602(b)(5)(A), substituted “individual” for “veteran” in two places.
+2008—Subsec. (a). Pub. L. 110–289, § 2602(b)(5)(A), substituted “individual” for “veteran” in two places.
 
-Subsec. (b). Pub. L. 110–289, § 2602(b)(5)(B), substituted “An individual” for “A veteran” and “an individual” for “a veteran” and substituted “such individual” for “such veteran” in two places.
+Subsec. (b). Pub. L. 110–289, § 2602(b)(5)(B), substituted “An individual” for “A veteran” and “an individual” for “a veteran” and substituted “such individual” for “such veteran” in two places.
 
 1996—Subsec. (b). Pub. L. 104–275 substituted “section 1717(a)(2)” for “section 1712(a)” in two places.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 804 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 804 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “2101” for “801”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “2101” for “801”.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2101(b)” for “801(b)” in two places, “2101(a)” for “801(a)”, and “1712(a)” for “612(a)” in two places.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2101(b)” for “801(b)” in two places, “2101(a)” for “801(a)”, and “1712(a)” for “612(a)” in two places.
 
 1980—Pub. L. 96–385 designated existing provisions as subsec. (a), substituted “except as provided in subsection (b) of this section, the assistance authorized by section 801 of this title” for “the assistance authorized by this chapter”, and added subsec. (b).
 
@@ -823,17 +823,17 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2101(b)” for “80
 
 Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub. L. 96–385, set out as a note under section 1114 of this title.
 
-## § 2105. Nonliability of United States
+## § 2105. Nonliability of United States
 
 The Government of the United States shall have no liability in connection with any housing unit, or necessary land therefor, or adaptation acquired under the provisions of this chapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 805; Pub. L. 96–385, title III, § 301(d), Oct. 7, 1980, 94 Stat. 1531; renumbered § 2105, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 805; Pub. L. 96–385, title III, § 301(d), Oct. 7, 1980, 94 Stat. 1531; renumbered § 2105, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 2105, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1224, related to administration of mustering-out payments provisions, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
+Prior section 2105, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1224, related to administration of mustering-out payments provisions, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 **Amendments**
 
@@ -847,7 +847,7 @@ Prior section 2105, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1224, related to a
 
 Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub. L. 96–385, set out as a note under section 1114 of this title.
 
-## § 2106. Veterans’ mortgage life insurance
+## § 2106. Veterans’ mortgage life insurance
 
 **(a)** The Secretary shall insure any individual under 70 years of age who has received assistance under this chapter against the death of the individual except for an individual who—
 
@@ -885,7 +885,7 @@ Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub.
 
 **(j)** Termination of life insurance under this section shall not affect the guaranty or insurance of the loan by the Secretary.
 
-(Added Pub. L. 92–95, § 1, Aug. 11, 1971, 85 Stat. 320, § 806; amended Pub. L. 94–433, title III, § 302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, § 701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, § 333(a)(1), May 20, 1988, 102 Stat. 537; renumbered § 2106 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, § 204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, § 1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, § 602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, § 302, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 110–289, div. B, title VI, § 2602(b)(6), July 30, 2008, 122 Stat. 2860; Pub. L. 111–275, title IV, § 407(a), Oct. 13, 2010, 124 Stat. 2880; Pub. L. 115–177, § 1(c)(4), June 1, 2018, 132 Stat. 1377.)
+(Added Pub. L. 92–95, § 1, Aug. 11, 1971, 85 Stat. 320, § 806; amended Pub. L. 94–433, title III, § 302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, § 701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, § 333(a)(1), May 20, 1988, 102 Stat. 537; renumbered § 2106 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, § 204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, § 1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, § 602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, § 302, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 110–289, div. B, title VI, § 2602(b)(6), July 30, 2008, 122 Stat. 2860; Pub. L. 111–275, title IV, § 407(a), Oct. 13, 2010, 124 Stat. 2880; Pub. L. 115–177, § 1(c)(4), June 1, 2018, 132 Stat. 1377.)
 
 **Editorial Notes**
 
@@ -895,53 +895,53 @@ Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub.
 
 2010—Subsec. (b). Pub. L. 111–275 substituted “$150,000, or after January 1, 2012, $200,000,” for “$90,000”.
 
-2008—Subsec. (a). Pub. L. 110–289, § 2602(b)(6)(A), (F), substituted “any eligible individual” for “any eligible veteran” and “the individual’s” for “the veterans’ ” and substituted “the individual” for “the veteran” in two places.
+2008—Subsec. (a). Pub. L. 110–289, § 2602(b)(6)(A), (F), substituted “any eligible individual” for “any eligible veteran” and “the individual’s” for “the veterans’ ” and substituted “the individual” for “the veteran” in two places.
 
-Subsec. (b). Pub. L. 110–289, § 2602(b)(6)(B), (F), (G), substituted “an individual” for “a veteran”, “an eligible individual” for “an eligible veteran”, and “the individual” for “the veteran”.
+Subsec. (b). Pub. L. 110–289, § 2602(b)(6)(B), (F), (G), substituted “an individual” for “a veteran”, “an eligible individual” for “an eligible veteran”, and “the individual” for “the veteran”.
 
-Subsec. (c). Pub. L. 110–289, § 2602(b)(6)(F), (G), substituted “the individual” for “the veteran” and “an individual” for “a veteran” in two places each.
+Subsec. (c). Pub. L. 110–289, § 2602(b)(6)(F), (G), substituted “the individual” for “the veteran” and “an individual” for “a veteran” in two places each.
 
-Subsec. (e). Pub. L. 110–289, § 2602(b)(6)(C), substituted “an individual” for “an eligible veteran”.
+Subsec. (e). Pub. L. 110–289, § 2602(b)(6)(C), substituted “an individual” for “an eligible veteran”.
 
-Subsec. (h). Pub. L. 110–289, § 2602(b)(6)(D), (F), substituted “each individual” for “each veteran” and “the individual” for “the veteran”.
+Subsec. (h). Pub. L. 110–289, § 2602(b)(6)(D), (F), substituted “each individual” for “each veteran” and “the individual” for “the veteran”.
 
-Subsec. (i). Pub. L. 110–289, § 2602(b)(6)(E), (F), substituted “the individual” for “the veteran” and substituted “the individual’s” for “the veteran’s” in two places.
+Subsec. (i). Pub. L. 110–289, § 2602(b)(6)(E), (F), substituted “the individual” for “the veteran” and substituted “the individual’s” for “the veteran’s” in two places.
 
-2002—Subsec. (a). Pub. L. 107–330, § 302(1), inserted “age 69 or younger” after “any eligible veteran”.
+2002—Subsec. (a). Pub. L. 107–330, § 302(1), inserted “age 69 or younger” after “any eligible veteran”.
 
-Subsec. (i)(2) to (4). Pub. L. 107–330, § 302(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The veteran’s seventieth birthday.”
+Subsec. (i)(2) to (4). Pub. L. 107–330, § 302(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The veteran’s seventieth birthday.”
 
-1998—Subsec. (e). Pub. L. 105–368 substituted “deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title” for “, as appropriate, deposited in either the direct loan or loan guaranty revolving fund established by section 3723 or 3724 of this title, respectively”.
+1998—Subsec. (e). Pub. L. 105–368 substituted “deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title” for “, as appropriate, deposited in either the direct loan or loan guaranty revolving fund established by section 3723 or 3724 of this title, respectively”.
 
 1994—Pub. L. 103–446 substituted “Veterans’ mortgage life insurance” for “Veterans’ Mortgage Life Insurance” as section catchline.
 
 1992—Subsec. (b). Pub. L. 102–568 struck out “initial” after “The” and substituted “$90,000” for “$40,000”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 806 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 806 of this title as this section.
 
-Subsecs. (a) to (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (a) to (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3723 or 3724” for “1823 or 1824”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3723 or 3724” for “1823 or 1824”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsecs. (f) to (h), (j). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (f) to (h), (j). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 1988—Pub. L. 100–322 amended section generally, substituting provisions relating to veterans’ mortgage life insurance for former provisions relating to mortgage protection life insurance.
 
-1986—Subsec. (b). Pub. L. 99–576, § 701(49)(A), substituted “the veteran’s” for “his”.
+1986—Subsec. (b). Pub. L. 99–576, § 701(49)(A), substituted “the veteran’s” for “his”.
 
-Subsec. (c). Pub. L. 99–576, § 701(49)(B), substituted “the veteran” for “he” before “may thereafter”.
+Subsec. (c). Pub. L. 99–576, § 701(49)(B), substituted “the veteran” for “he” before “may thereafter”.
 
-Subsec. (d). Pub. L. 99–576, § 701(49)(C), substituted “the veteran’s” for “he” in last sentence.
+Subsec. (d). Pub. L. 99–576, § 701(49)(C), substituted “the veteran’s” for “he” in last sentence.
 
-Subsec. (g)(2). Pub. L. 99–576, § 701(49)(D)(i), substituted “the Administrator” for “he” in two places, “the Administrator’s” for “his”, and “the Administrator” for “him” in two places.
+Subsec. (g)(2). Pub. L. 99–576, § 701(49)(D)(i), substituted “the Administrator” for “he” in two places, “the Administrator’s” for “his”, and “the Administrator” for “him” in two places.
 
-Subsec. (g)(3). Pub. L. 99–576, § 701(49)(D)(ii), substituted “the veteran” for “he”.
+Subsec. (g)(3). Pub. L. 99–576, § 701(49)(D)(ii), substituted “the veteran” for “he”.
 
-Subsec. (g)(5). Pub. L. 99–576, § 701(49)(D)(iii), substituted “the Administrator” for “him” in two places.
+Subsec. (g)(5). Pub. L. 99–576, § 701(49)(D)(iii), substituted “the Administrator” for “him” in two places.
 
-Subsec. (h). Pub. L. 99–576, § 701(49)(E), substituted “the Administrator’s” for “his” in first sentence and “the veteran’s” for “his” in second sentence.
+Subsec. (h). Pub. L. 99–576, § 701(49)(E), substituted “the Administrator’s” for “his” in first sentence and “the veteran’s” for “his” in second sentence.
 
 1976—Subsec. (c). Pub. L. 94–433 substituted $40,000 for $30,000.
 
@@ -949,11 +949,11 @@ Subsec. (h). Pub. L. 99–576, § 701(49)(E), substituted “the Administrator
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title IV, § 407(b), Oct. 13, 2010, 124 Stat. 2880, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 111–275, title IV, § 407(b), Oct. 13, 2010, 124 Stat. 2880, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2011.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title VI, § 602(f), Nov. 11, 1998, 112 Stat. 3348, provided that: “This title [enacting sections 3722 and 3771 to 3775 of this title, amending this section and sections 3702, 3703, 3711, 3720, 3727, 3729, 3733 to 3735, and 3763 of this title, repealing sections 3723 to 3725 of this title, and enacting provisions set out as a note under section 3722 of this title] and the amendments made by this title shall take effect on October 1, 1998.”
+Pub. L. 105–368, title VI, § 602(f), Nov. 11, 1998, 112 Stat. 3348, provided that: “This title [enacting sections 3722 and 3771 to 3775 of this title, amending this section and sections 3702, 3703, 3711, 3720, 3727, 3729, 3733 to 3735, and 3763 of this title, repealing sections 3723 to 3725 of this title, and enacting provisions set out as a note under section 3722 of this title] and the amendments made by this title shall take effect on October 1, 1998.”
 
 **Effective Date of 1992 Amendment**
 
@@ -961,7 +961,7 @@ Amendment by Pub. L. 102–568 effective Dec. 1, 1992, see section 205 of Pub. L
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–322, title III, § 333(b), May 20, 1988, 102 Stat. 539, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act [May 20, 1988].”
+Pub. L. 100–322, title III, § 333(b), May 20, 1988, 102 Stat. 539, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act [May 20, 1988].”
 
 **Effective Date of 1976 Amendment**
 
@@ -969,7 +969,7 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 **Savings Provision; Discontinuance of Contract Program; Definition**
 
-Pub. L. 100–322, title III, § 333(c)–(e), May 20, 1988, 102 Stat. 539, provided that:
+Pub. L. 100–322, title III, § 333(c)–(e), May 20, 1988, 102 Stat. 539, provided that:
 
 > **“(c) Savings Provision.—** Mortgage protection life insurance granted to any veteran under the former section 806 shall continue in force with the United States as insurer, subject to the terms of subsection (d). Nothing in that subsection shall impair any rights of any veteran or mortgage loan holder under the former section 806 that matured before the effective date specified in subsection (b) [see Effective Date of 1988 Amendment note above].
 
@@ -981,13 +981,13 @@ Pub. L. 100–322, title III, § 333(c)–(e), May 20, 1988, 102 Stat. 539, pr
 
 > **“(e) Former Section 806 Defined.—** For the purpose of subsections (c) and (d), the term ‘former section 806’ means section 806 [this section] of title 38, United States Code, as in effect on the day before the effective date specified in subsection (b).”
 
-## § 2107. Coordination of administration of benefits
+## § 2107. Coordination of administration of benefits
 
 The Secretary shall provide for the coordination of the administration of programs to provide specially adapted housing that are administered by the Under Secretary for Health and such programs that are administered by the Under Secretary for Benefits under this chapter, chapter 17, and chapter 31 of this title.
 
-(Added Pub. L. 109–233, title I, § 101(c), June 15, 2006, 120 Stat. 399.)
+(Added Pub. L. 109–233, title I, § 101(c), June 15, 2006, 120 Stat. 399.)
 
-## § 2108. Specially adapted housing assistive technology grant program
+## § 2108. Specially adapted housing assistive technology grant program
 
 **(a) Authority to Make Grants.—** The Secretary shall make grants to encourage the development of new assistive technologies for specially adapted housing.
 
@@ -1013,7 +1013,7 @@ The Secretary shall provide for the coordination of the administration of progra
 
 **(g) Duration.—** The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2026.
 
-(Added Pub. L. 111–275, title II, § 203(a), Oct. 13, 2010, 124 Stat. 2874; amended Pub. L. 114–228, title IV, § 409, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 408, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 122, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–159, div. E, title II, § 5201, Oct. 1, 2020, 134 Stat. 749; Pub. L. 117–180, div. E, title II, § 205, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 322, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 119–37, div. G, title III, § 7306, Nov. 12, 2025, 139 Stat. 651.)
+(Added Pub. L. 111–275, title II, § 203(a), Oct. 13, 2010, 124 Stat. 2874; amended Pub. L. 114–228, title IV, § 409, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 408, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 122, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–159, div. E, title II, § 5201, Oct. 1, 2020, 134 Stat. 749; Pub. L. 117–180, div. E, title II, § 205, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 322, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 119–37, div. G, title III, § 7306, Nov. 12, 2025, 139 Stat. 651.)
 
 **Editorial Notes**
 
@@ -1039,7 +1039,7 @@ The Secretary shall provide for the coordination of the administration of progra
 
 Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under section 111A of this title.
 
-## § 2109. Specially adapted housing destroyed or damaged by natural disasters
+## § 2109. Specially adapted housing destroyed or damaged by natural disasters
 
 **(a) In General.—** Notwithstanding the provisions of sections 2102 and 2102A of this title, the Secretary may provide assistance to a veteran whose home was previously adapted with assistance of a grant under this chapter in the event the adapted home which was being used and occupied by the veteran was destroyed or substantially damaged in a natural or other disaster, as determined by the Secretary.
 
@@ -1057,7 +1057,7 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **(2)** the maximum amount of assistance to which the veteran would have been entitled under sections 2101(a), 2101(b), and 2102A of this title had the veteran not obtained previous assistance under this chapter.
 
-(Added Pub. L. 112–154, title VII, § 701(a)(1), Aug. 6, 2012, 126 Stat. 1202; amended Pub. L. 114–58, title VI, § 601(12), Sept. 30, 2015, 129 Stat. 538.)
+(Added Pub. L. 112–154, title VII, § 701(a)(1), Aug. 6, 2012, 126 Stat. 1202; amended Pub. L. 114–58, title VI, § 601(12), Sept. 30, 2015, 129 Stat. 538.)
 
 **Editorial Notes**
 
@@ -1069,11 +1069,11 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **Effective Date**
 
-Pub. L. 112–154, title VII, § 701(g), Aug. 6, 2012, 126 Stat. 1205, provided that: “The amendments made by this section [enacting this section and amending sections 3108, 3120, 3703, and 3903 of this title] shall take effect on the date that is one year after the date of the enactment of this Act [Aug. 6, 2012].”
+Pub. L. 112–154, title VII, § 701(g), Aug. 6, 2012, 126 Stat. 1205, provided that: “The amendments made by this section [enacting this section and amending sections 3108, 3120, 3703, and 3903 of this title] shall take effect on the date that is one year after the date of the enactment of this Act [Aug. 6, 2012].”
 
 **Annual Report**
 
-Pub. L. 112–154, title VII, § 701(f), Aug. 6, 2012, 126 Stat. 1204, provided that:
+Pub. L. 112–154, title VII, § 701(f), Aug. 6, 2012, 126 Stat. 1204, provided that:
 
 > **“(1) In general.—** Each year, the Secretary of Veterans Affairs shall submit to Congress a report on the assistance provided or action taken by the Secretary in the last fiscal year pursuant to the authorities added by the amendments made by this section [enacting this section and amending sections 3108, 3120, 3703, and 3903 of this title].
 

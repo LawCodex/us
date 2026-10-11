@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–364, div. A, title V, § 547(d)(2), Oct. 17, 2006, 120 Stat. 2216, substituted “Nondisclosure” for “Confidentiality” in item 14104.
+2006—Pub. L. 109–364, div. A, title V, § 547(d)(2), Oct. 17, 2006, 120 Stat. 2216, substituted “Nondisclosure” for “Confidentiality” in item 14104.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(23), Feb. 10, 1996, 110 Stat. 497, substituted “promotion” for “selection” in item 14105.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(23), Feb. 10, 1996, 110 Stat. 497, substituted “promotion” for “selection” in item 14105.
 
-## § 14101. Convening of selection boards
+## § 14101. Convening of selection boards
 
 **(a) Promotion Boards.—**
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 
 **(2)** for selective early retirement under section 14705 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, § 514(a), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, § 505(b)(3), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 108–136, div. A, title V, § 511(b)(1), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, § 515(b)(1)(PP), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, § 514(a), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, § 505(b)(3), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 108–136, div. A, title V, § 511(b)(1), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, § 515(b)(1)(PP), Jan. 6, 2006, 119 Stat. 3234.)
 
 **Editorial Notes**
 
@@ -47,9 +47,9 @@ retrieved: 2026-10-11
 
 2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2003—Subsec. (b). Pub. L. 108–136, § 511(b)(1)(A), (D), substituted “Selective Early Separation Boards” for “Continuation Boards” in heading and struck out concluding provisions which read as follows: “A selection board convened under this subsection shall be known as a ‘continuation board’.”
+2003—Subsec. (b). Pub. L. 108–136, § 511(b)(1)(A), (D), substituted “Selective Early Separation Boards” for “Continuation Boards” in heading and struck out concluding provisions which read as follows: “A selection board convened under this subsection shall be known as a ‘continuation board’.”
 
-Subsec. (b)(1) to (3). Pub. L. 108–136, § 511(b)(1)(B), (C), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “for continuation on the reserve active-status list under section 14701 of this title;”.
+Subsec. (b)(1) to (3). Pub. L. 108–136, § 511(b)(1)(B), (C), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “for continuation on the reserve active-status list under section 14701 of this title;”.
 
 2001—Subsec. (a)(3). Pub. L. 107–107 added par. (3).
 
@@ -61,7 +61,7 @@ Subsec. (b)(1) to (3). Pub. L. 108–136, § 511(b)(1)(B), (C), redesignated p
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14102. Selection boards: appointment and composition
+## § 14102. Selection boards: appointment and composition
 
 **(a) Appointment.—** Members of selection boards convened under section 14101 of this title shall be appointed by the Secretary of the military department concerned in accordance with this section. Promotion boards and special selection boards shall consist of five or more officers. Selection boards convened under section 14101(b) of this title shall consist of three or more officers. All of the officers of any such selection board shall be of the same armed force as the officers under consideration by the board.
 
@@ -75,13 +75,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(d) Prohibition of Service on Consecutive Promotion Boards.—** No officer may be a member of two successive promotion boards convened under section 14101(a) of this title for the consideration of officers of the same competitive category and grade if the second of the two boards is to consider any officer who was considered and not recommended for promotion to the next higher grade by the first of the two boards.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 108–136, div. A, title V, § 511(b)(2), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 116–283, div. A, title V, § 503(b), Jan. 1, 2021, 134 Stat. 3565.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 108–136, div. A, title V, § 511(b)(2), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 116–283, div. A, title V, § 503(b), Jan. 1, 2021, 134 Stat. 3565.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3362(b), (c), 5893(a), (b), and 8362(b), (c) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in this section were contained in sections 3362(b), (c), 5893(a), (b), and 8362(b), (c) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 **Amendments**
 
@@ -95,17 +95,17 @@ Provisions similar to those in this section were contained in sections 3362(b), 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14103. Oath of members
+## § 14103. Oath of members
 
 Each member of a selection board convened under section 14101 of this title shall take an oath to perform the duties of a member of the board without prejudice or partiality, having in view both the special fitness of officers and the efficiency of the member’s armed force.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2925.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2925.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3362(d), 5894, and 8362(d) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in this section were contained in sections 3362(d), 5894, and 8362(d) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,7 +113,7 @@ Provisions similar to those in this section were contained in sections 3362(d), 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14104. Nondisclosure of board proceedings
+## § 14104. Nondisclosure of board proceedings
 
 **(a) Prohibition on Disclosure.—** The proceedings of a selection board convened under section 14101 or 14502 of this title may not be disclosed to any person not a member of the board, except as authorized or required to process the report of the board. This prohibition is a statutory exemption from disclosure, as described in section 552(b)(3) of title 5.
 
@@ -127,21 +127,21 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Applicability.—** This section applies to all selection boards convened under section 14101 or 14502 of this title, regardless of the date on which the board was convened.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2925; amended Pub. L. 109–364, div. A, title V, § 547(b), Oct. 17, 2006, 120 Stat. 2216; Pub. L. 111–383, div. A, title V, § 503(c), Jan. 7, 2011, 124 Stat. 4208.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2925; amended Pub. L. 109–364, div. A, title V, § 547(b), Oct. 17, 2006, 120 Stat. 2216; Pub. L. 111–383, div. A, title V, § 503(c), Jan. 7, 2011, 124 Stat. 4208.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5898(e) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in this section were contained in section 5898(e) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 111–383, § 503(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board.”
+2011—Subsec. (a). Pub. L. 111–383, § 503(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board.”
 
-Subsec. (b). Pub. L. 111–383, § 503(c)(2), substituted “Notes, and Records” for “and Records” in heading.
+Subsec. (b). Pub. L. 111–383, § 503(c)(2), substituted “Notes, and Records” for “and Records” in heading.
 
-Subsec. (c). Pub. L. 111–383, § 503(c)(3), added subsec. (c).
+Subsec. (c). Pub. L. 111–383, § 503(c)(3), added subsec. (c).
 
 2006—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, text read as follows: “Except as otherwise authorized or required by law, the proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board.”
 
@@ -155,13 +155,13 @@ This section, as amended by Pub. L. 109–364, applicable with respect to the pr
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14105. Notice of convening of promotion board
+## § 14105. Notice of convening of promotion board
 
 **(a) Required Notice.—** At least 30 days before a promotion board is convened under section 14101(a) of this title to consider officers in a grade and competitive category for promotion to the next higher grade, the Secretary concerned shall either (1) notify in writing the officers eligible for consideration by the board for promotion regarding the convening of the board, or (2) issue a general written notice to the armed force concerned regarding the convening of the board.
 
 **(b) Content of Notice.—** A notice under subsection (a) shall include the date on which the board is to convene and (except in the case of a vacancy promotion board) the name and date of rank of the junior officer, and of the senior officer, in the promotion zone as of the date of the notice.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2925.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2925.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,17 +169,17 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14106. Communication with board by officers under consideration
+## § 14106. Communication with board by officers under consideration
 
 Subject to regulations prescribed by the Secretary of the military department concerned, an officer eligible for consideration by a promotion board convened under section 14101(a) of this title who is in the promotion zone or above the promotion zone, or who is to be considered by a vacancy promotion board, may send a written communication to the board calling attention to any matter concerning the officer which the officer considers important to the officer’s case. Any such communication shall be sent so as to arrive not later than 10 calendar days before the date on which the board convenes. The board shall give consideration to any timely communication under this section.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2925; amended Pub. L. 109–163, div. A, title V, § 505(b), Jan. 6, 2006, 119 Stat. 3227; Pub. L. 115–91, div. A, title V, § 501(b), Dec. 12, 2017, 131 Stat. 1373.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2925; amended Pub. L. 109–163, div. A, title V, § 505(b), Jan. 6, 2006, 119 Stat. 3227; Pub. L. 115–91, div. A, title V, § 501(b), Dec. 12, 2017, 131 Stat. 1373.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3362(f), 5900, and 8362(f) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in this section were contained in sections 3362(f), 5900, and 8362(f) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 **Amendments**
 
@@ -201,7 +201,7 @@ Amendment by Pub. L. 109–163 effective Mar. 1, 2006, and applicable with respe
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14107. Information furnished by the Secretary concerned to promotion boards
+## § 14107. Information furnished by the Secretary concerned to promotion boards
 
 **(a) Integrity of the Promotion Selection Board Process.—**
 
@@ -261,37 +261,37 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(d) Officers in Health-Professions Competitive Categories.—** The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under section 14101(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers of the Navy Reserve, captain, a direction that the board give consideration to an officer’s clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer’s administrative and management skills.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2926; amended Pub. L. 109–163, div. A, title V, §§ 506(b), 515(b)(1)(QQ), Jan. 6, 2006, 119 Stat. 3227, 3234; Pub. L. 116–283, div. A, title V, § 505(d), Jan. 1, 2021, 134 Stat. 3573.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2926; amended Pub. L. 109–163, div. A, title V, §§ 506(b), 515(b)(1)(QQ), Jan. 6, 2006, 119 Stat. 3227, 3234; Pub. L. 116–283, div. A, title V, § 505(d), Jan. 1, 2021, 134 Stat. 3573.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (b) of this section were contained in section 5895 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in subsec. (b) of this section were contained in section 5895 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Amendments**
 
-2021—Subsec. (a)(3)(A). Pub. L. 116–283, § 505(d)(2), which directed amendment of subpar. (A) by substituting “lieutenant colonel, or, in the case of the Navy, commander” for “colonel, or, in the case of the Navy, captain”, was executed by making the substitution for “colonel or, in the case of the Navy, captain” to reflect the probable intent of Congress.
+2021—Subsec. (a)(3)(A). Pub. L. 116–283, § 505(d)(2), which directed amendment of subpar. (A) by substituting “lieutenant colonel, or, in the case of the Navy, commander” for “colonel, or, in the case of the Navy, captain”, was executed by making the substitution for “colonel or, in the case of the Navy, captain” to reflect the probable intent of Congress.
 
-Pub. L. 116–283, § 505(d)(1), designated existing provisions of par. (3) as subpar. (A).
+Pub. L. 116–283, § 505(d)(1), designated existing provisions of par. (3) as subpar. (A).
 
-Subsec. (a)(3)(B), (C). Pub. L. 116–283, § 505(d)(3), added subpars. (B) and (C).
+Subsec. (a)(3)(B), (C). Pub. L. 116–283, § 505(d)(3), added subpars. (B) and (C).
 
-2006—Subsec. (a)(3). Pub. L. 109–163, § 506(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
+2006—Subsec. (a)(3). Pub. L. 109–163, § 506(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 109–163, § 506(b)(1)(A), (2)(A), redesignated par. (3) as (4) and substituted “paragraphs (2) and (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 109–163, § 506(b)(1)(A), (2)(A), redesignated par. (3) as (4) and substituted “paragraphs (2) and (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 109–163, § 506(b)(1)(A), (2)(B), redesignated par. (4) as (5) and substituted “, (3), and (4)” for “and (3)”. Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 109–163, § 506(b)(1)(A), (2)(B), redesignated par. (4) as (5) and substituted “, (3), and (4)” for “and (3)”. Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 109–163, § 506(b)(1)(A), (2)(C)(i), redesignated par. (5) as (6) and inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions. Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 109–163, § 506(b)(1)(A), (2)(C)(i), redesignated par. (5) as (6) and inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions. Former par. (6) redesignated (7).
 
-Subsec. (a)(6)(B). Pub. L. 109–163, § 506(b)(2)(C)(ii), inserted “or (3), as applicable” after “paragraph (2)”.
+Subsec. (a)(6)(B). Pub. L. 109–163, § 506(b)(2)(C)(ii), inserted “or (3), as applicable” after “paragraph (2)”.
 
-Subsec. (a)(7). Pub. L. 109–163, § 506(b)(1)(A), redesignated par. (6) as (7).
+Subsec. (a)(7). Pub. L. 109–163, § 506(b)(1)(A), redesignated par. (6) as (7).
 
-Subsec. (a)(7)(A). Pub. L. 109–163, § 506(b)(2)(D), inserted “or (3)” after “paragraph (2)(B)”.
+Subsec. (a)(7)(A). Pub. L. 109–163, § 506(b)(2)(D), inserted “or (3)” after “paragraph (2)(B)”.
 
-Subsec. (d). Pub. L. 109–163, § 515(b)(1)(QQ), substituted “Navy Reserve” for “Naval Reserve”.
+Subsec. (d). Pub. L. 109–163, § 515(b)(1)(QQ), substituted “Navy Reserve” for “Naval Reserve”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -303,7 +303,7 @@ Amendment by section 506(b) of Pub. L. 109–163 effective Oct. 1, 2006, and app
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14108. Recommendations by promotion boards
+## § 14108. Recommendations by promotion boards
 
 **(a) Recommendation of Best Qualified Officers.—** A promotion board convened under section 14101(a) of this title shall recommend for promotion to the next higher grade those officers considered by the board whom the board considers best qualified for promotion within each competitive category considered by the board or, in the case of a vacancy promotion board, among those officers considered to fill a vacancy. In determining those officers who are best qualified for promotion, the board shall give due consideration to the needs of the armed force concerned for officers with particular skills (as noted in the guidelines or information furnished the board under section 14107 of this title).
 
@@ -337,13 +337,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(3)** For officers who receive recommendations under paragraph (1), the board shall recommend the order in which those officers should be placed on the promotion list.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L. 109–364, div. A, title V, § 512(b), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, § 510(a), Dec. 20, 2019, 133 Stat. 1347.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L. 109–364, div. A, title V, § 512(b), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, § 510(a), Dec. 20, 2019, 133 Stat. 1347.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3362(e), 5893(c), 5896, and 8362(e) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in this section were contained in sections 3362(e), 5893(c), 5896, and 8362(e) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 **Amendments**
 
@@ -351,9 +351,9 @@ Provisions similar to those in this section were contained in sections 3362(e), 
 
 2018—Subsec. (b)(3). Pub. L. 115–232 substituted “section 7233, 8167, or 9233” for “section 3583, 5947, or 8583”.
 
-2006—Subsec. (b). Pub. L. 109–364, § 512(b)(1), substituted “Actions” for “Majority” in heading.
+2006—Subsec. (b). Pub. L. 109–364, § 512(b)(1), substituted “Actions” for “Majority” in heading.
 
-Subsec. (b)(3). Pub. L. 109–364, § 512(b)(2)–(4), added par. (3).
+Subsec. (b)(3). Pub. L. 109–364, § 512(b)(2)–(4), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -369,7 +369,7 @@ Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with resp
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14109. Reports of promotion boards: in general
+## § 14109. Reports of promotion boards: in general
 
 **(a) Report of Officers Recommended for Promotion.—** Each promotion board convened under section 14101(a) of this title shall submit to the Secretary of the military department concerned a report in writing containing a list of the names of the officers recommended by the board for promotion. The report shall be signed by each member of the board.
 
@@ -391,13 +391,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(2)** the order in which the promotion board recommends those officers should be placed on the promotion list.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L. 116–92, div. A, title V, § 510(b), Dec. 20, 2019, 133 Stat. 1347.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L. 116–92, div. A, title V, § 510(b), Dec. 20, 2019, 133 Stat. 1347.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5897 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5897 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Amendments**
 
@@ -409,19 +409,19 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14110. Reports of promotion boards: review by Secretary
+## § 14110. Reports of promotion boards: review by Secretary
 
 **(a) Review of Report.—** Upon receipt of the report of a promotion board submitted under section 14109(a) of this title, the Secretary of the military department concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under section 14107(a) of this title. Following that review, unless the Secretary concerned makes a determination as described in subsection (b), the Secretary shall submit the report as required by section 14111 of this title.
 
 **(b) Return of Report for Further Proceedings.—** If, on the basis of a review of the report under subsection (a), the Secretary of the military department concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under section 14107(a) of this title, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this subsection, the selection board (or a subsequent selection board convened under section 14101(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with section 14109 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2929.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2929.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5898(a) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in this section were contained in section 5898(a) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -429,7 +429,7 @@ Provisions similar to those in this section were contained in section 5898(a) of
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14111. Reports of selection boards: transmittal to President
+## § 14111. Reports of selection boards: transmittal to President
 
 **(a) Transmittal to President.—** The Secretary concerned, after final review of the report of a selection board under section 14110 of this title, shall submit the report with the Secretary’s recommendations, to the Secretary of Defense for transmittal by the Secretary to the President for approval or disapproval. If the authority of the President to approve or disapprove the report of a promotion board is delegated to the Secretary of Defense, that authority may not be redelegated except to an official in the Office of the Secretary of Defense.
 
@@ -447,13 +447,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Recommendations for Removal of Selected Officers From Report.—** If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from the report of a promotion board and the recommendation is accompanied by information that was not presented to that promotion board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2929; amended Pub. L. 109–364, div. A, title V, § 513(b), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 119–60, div. A, title V, § 503(b), Dec. 18, 2025, 139 Stat. 855.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2929; amended Pub. L. 109–364, div. A, title V, § 513(b), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 119–60, div. A, title V, § 503(b), Dec. 18, 2025, 139 Stat. 855.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5898(b) and (c) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5898(b) and (c) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Amendments**
 
@@ -477,7 +477,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 For assignment of functions of President under first sentence of subsec. (a) of this section, see section 1(c) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, and section 1(a) of Ex. Ord. No. 13598, Jan. 27, 2012, 77 F.R. 5371, set out as notes under section 301 of Title 3, The President.
 
-## § 14112. Dissemination of names of officers selected
+## § 14112. Dissemination of names of officers selected
 
 **(a) Time for Dissemination.—** The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
 
@@ -497,13 +497,13 @@ For assignment of functions of President under first sentence of subsec. (a) of 
 
 **(2)** the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of paragraph (3)(A) of that subsection.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2930; amended Pub. L. 106–398, § 1 [[div. A], title V, § 503(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–101.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2930; amended Pub. L. 106–398, § 1 [[div. A], title V, § 503(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–101.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5898(d) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in this section were contained in section 5898(d) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Amendments**
 

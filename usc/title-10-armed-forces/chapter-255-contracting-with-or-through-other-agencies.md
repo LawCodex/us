@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, added chapter heading.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, added chapter heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Defense Procurements Made Through Contracts of Other Agencies**
 
-Pub. L. 108–375, div. A, title VIII, § 854, Oct. 28, 2004, 118 Stat. 2022, provided that:
+Pub. L. 108–375, div. A, title VIII, § 854, Oct. 28, 2004, 118 Stat. 2022, provided that:
 
 > **“(a) Limitation.—** The head of an agency may not procure goods or services (under section 1535 of title 31, United States Code, pursuant to a designation under section 11302(e) of title 40, United States Code, or otherwise) through a contract entered into by an agency outside the Department of Defense for an amount greater than the simplified acquisition threshold referred to in section 2304(g) of title 10, United States Code [now 10 U.S.C. 3205], unless the procurement is done in accordance with procedures prescribed by that head of an agency for reviewing and approving the use of such contracts.
 
@@ -55,7 +55,7 @@ Pub. L. 108–375, div. A, title VIII, § 854, Oct. 28, 2004, 118 Stat. 2022, 
 
 **Procurement of Alternative Fueled and Hybrid Light Duty Trucks**
 
-Pub. L. 107–107, div. A, title III, § 318, Dec. 28, 2001, 115 Stat. 1055, provided that:
+Pub. L. 107–107, div. A, title III, § 318, Dec. 28, 2001, 115 Stat. 1055, provided that:
 
 > **“(a) Defense Fleets Not Covered by Requirement in Energy Policy Act of 1992.—**
 
@@ -93,7 +93,7 @@ Pub. L. 107–107, div. A, title III, § 318, Dec. 28, 2001, 115 Stat. 1055, p
 
 > **“(2)** The term ‘alternative fueled vehicle’ has the meaning given that term in section 301 of the Energy Policy Act of 1992 (42 U.S.C. 13211).”
 
-## § 3651. [Reserved]
+## § 3651. [Reserved]
 
 [Reserved]
 
@@ -101,7 +101,7 @@ Pub. L. 107–107, div. A, title III, § 318, Dec. 28, 2001, 115 Stat. 1055, p
 
 **Prior Provisions**
 
-Prior sections 3661 to 3663 were repealed by Pub. L. 90–377, § 6(1), July 5, 1968, 82 Stat. 288.
+Prior sections 3661 to 3663 were repealed by Pub. L. 90–377, § 6(1), July 5, 1968, 82 Stat. 288.
 
 Section 3661, act Aug. 10, 1956, ch. 1041, 70A Stat. 208, provided for organization and administration of United States Disciplinary Barracks.
 

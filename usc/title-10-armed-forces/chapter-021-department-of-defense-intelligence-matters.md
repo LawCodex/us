@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1991—Pub. L. 102–88, title V, § 504(a)(1), Aug. 14, 1991, 105 Stat. 437, added items for subchapters I and II.
+1991—Pub. L. 102–88, title V, § 504(a)(1), Aug. 14, 1991, 105 Stat. 437, added items for subchapters I and II.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Military Intelligence Collection and Analysis Partnerships**
 
-Pub. L. 118–31, div. A, title XVI, § 1621, Dec. 22, 2023, 137 Stat. 590, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1621, Dec. 22, 2023, 137 Stat. 590, provided that:
 
 > **“(a) Use of Funds Other Than Appropriated Funds.—**
 
@@ -49,7 +49,7 @@ Pub. L. 118–31, div. A, title XVI, § 1621, Dec. 22, 2023, 137 Stat. 590, pr
 
 **Incorporation of Controlled Unclassified Information Guidance Into Program Classification Guides and Program Protection Plans**
 
-Pub. L. 117–263, div. A, title VIII, § 884, Dec. 23, 2022, 136 Stat. 2746, provided that:
+Pub. L. 117–263, div. A, title VIII, § 884, Dec. 23, 2022, 136 Stat. 2746, provided that:
 
 > **“(a) Updates Required.—**
 
@@ -73,7 +73,7 @@ Pub. L. 117–263, div. A, title VIII, § 884, Dec. 23, 2022, 136 Stat. 2746, 
 
 **Enhanced Indications and Warning for Deterrence and Dissuasion**
 
-Pub. L. 117–263, div. A, title XII, § 1256, Dec. 23, 2022, 136 Stat. 2851, provided that:
+Pub. L. 117–263, div. A, title XII, § 1256, Dec. 23, 2022, 136 Stat. 2851, provided that:
 
 > **“(a) Establishment of Program for Enhanced Indications and Warning.—**
 
@@ -111,7 +111,7 @@ Pub. L. 117–263, div. A, title XII, § 1256, Dec. 23, 2022, 136 Stat. 2851, 
 
 **Notification of Certain Threats to United States Armed Forces by Foreign Governments**
 
-Pub. L. 117–81, div. A, title XVI, § 1621, Dec. 27, 2021, 135 Stat. 2084, provided that:
+Pub. L. 117–81, div. A, title XVI, § 1621, Dec. 27, 2021, 135 Stat. 2084, provided that:
 
 > **“(a) Determination That Foreign Government Intends to Cause the Death of or Serious Bodily Injury to Members of the Armed Forces.—** The Secretary of Defense shall carry out the notification requirement under subsection (b) whenever the Secretary, in consultation with the Director of National Intelligence, determines with high confidence that, on or after the date of the enactment of this Act [Dec. 27, 2021], an official of a foreign government has taken a substantial step that is intended to cause the death of, or serious bodily injury to, any member of the United States Armed Forces, whether through direct means or indirect means, including through a promise or agreement by the foreign government to pay anything of pecuniary value to an individual or organization in exchange for causing such death or serious bodily injury.
 
@@ -159,7 +159,7 @@ Pub. L. 117–81, div. A, title XVI, § 1621, Dec. 27, 2021, 135 Stat. 2084, p
 
 **Strategy and Plan To Implement Certain Defense Intelligence Reforms**
 
-Pub. L. 117–81, div. A, title XVI, § 1622, Dec. 27, 2021, 135 Stat. 2086, provided that:
+Pub. L. 117–81, div. A, title XVI, § 1622, Dec. 27, 2021, 135 Stat. 2086, provided that:
 
 > **“(a) Strategy and Plan.—** The Secretary of Defense, in coordination with the Director of National Intelligence, shall develop and implement a strategy and plan to enable the Defense Intelligence Enterprise to more effectively fulfill the intelligence and information requirements of the commanders of the combatant commands with respect to efforts by the combatant commands to expose and counter foreign malign influence, coercion, and subversion activities undertaken by, or at the direction, on behalf, or with substantial support of the governments of, covered foreign countries.
 
@@ -233,11 +233,11 @@ Pub. L. 117–81, div. A, title XVI, § 1622, Dec. 27, 2021, 135 Stat. 2086, p
 
 **Limitation on Use of Funds**
 
-Pub. L. 115–31, div. C, title VIII, § 8037, May 5, 2017, 131 Stat. 255, provided that: “Notwithstanding any other provision of law, funds made available in this Act [div. C of Pub. L. 115–31, see Tables for classification] and hereafter for the Defense Intelligence Agency may be used for the design, development, and deployment of General Defense Intelligence Program intelligence communications and intelligence information systems for the Services, the Unified and Specified Commands, and the component commands.”
+Pub. L. 115–31, div. C, title VIII, § 8037, May 5, 2017, 131 Stat. 255, provided that: “Notwithstanding any other provision of law, funds made available in this Act [div. C of Pub. L. 115–31, see Tables for classification] and hereafter for the Defense Intelligence Agency may be used for the design, development, and deployment of General Defense Intelligence Program intelligence communications and intelligence information systems for the Services, the Unified and Specified Commands, and the component commands.”
 
 **Department of Defense Intelligence Priorities**
 
-Pub. L. 113–66, div. A, title IX, § 922, Dec. 26, 2013, 127 Stat. 828, provided that:
+Pub. L. 113–66, div. A, title IX, § 922, Dec. 26, 2013, 127 Stat. 828, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall—
 
@@ -249,7 +249,7 @@ Pub. L. 113–66, div. A, title IX, § 922, Dec. 26, 2013, 127 Stat. 828, prov
 
 **Defense Clandestine Service**
 
-Pub. L. 113–66, div. A, title IX, § 923, Dec. 26, 2013, 127 Stat. 828, as amended by Pub. L. 115–91, div. A, title X, § 1051(s)(2), Dec. 12, 2017, 131 Stat. 1566, provided that:
+Pub. L. 113–66, div. A, title IX, § 923, Dec. 26, 2013, 127 Stat. 828, as amended by Pub. L. 115–91, div. A, title X, § 1051(s)(2), Dec. 12, 2017, 131 Stat. 1566, provided that:
 
 > **“(a) Certification Required.—** Not more than 50 percent of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise available to the Department of Defense for the Defense Clandestine Service for fiscal year 2014 may be obligated or expended for the Defense Clandestine Service until such time as the Secretary of Defense certifies to the covered congressional committees that—
 
@@ -273,55 +273,55 @@ Pub. L. 113–66, div. A, title IX, § 923, Dec. 26, 2013, 127 Stat. 828, as a
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVI, § 1621(a), title XVII, § 1701(a)(8), Dec. 18, 2025, 139 Stat. 1180, 1208, substituted “Intelligence Oversight Official” for “intelligence oversight official” in item 430c and added item 430e. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVI, § 1621(a), title XVII, § 1701(a)(8), Dec. 18, 2025, 139 Stat. 1180, 1208, substituted “Intelligence Oversight Official” for “intelligence oversight official” in item 430c and added item 430e. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title IX, § 921(a), title XVI, §§ 1612(a), 1614(a)(1), Dec. 23, 2024, 138 Stat. 2036, 2167, 2168, added items 429a, 430c, and 430d. Amendments were made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title IX, § 921(a), title XVI, §§ 1612(a), 1614(a)(1), Dec. 23, 2024, 138 Stat. 2036, 2167, 2168, added items 429a, 430c, and 430d. Amendments were made pursuant to operation of section 102 of this title.
 
-2015—Pub. L. 114–92, div. A, title X, §§ 1081(a)(5), 1083(a)(2), title XVI, § 1631(b), Nov. 25, 2015, 129 Stat. 1001, 1004, 1111, added items 430 to 430b.
+2015—Pub. L. 114–92, div. A, title X, §§ 1081(a)(5), 1083(a)(2), title XVI, § 1631(b), Nov. 25, 2015, 129 Stat. 1001, 1004, 1111, added items 430 to 430b.
 
-2013—Pub. L. 113–66, div. A, title X, § 1071(b), Dec. 26, 2013, 127 Stat. 868, added item 427.
+2013—Pub. L. 113–66, div. A, title X, § 1071(b), Dec. 26, 2013, 127 Stat. 868, added item 427.
 
-2012—Pub. L. 112–87, title IV, § 433(b), Jan. 3, 2012, 125 Stat. 1895, added item 429.
+2012—Pub. L. 112–87, title IV, § 433(b), Jan. 3, 2012, 125 Stat. 1895, added item 429.
 
-2011—Pub. L. 112–81, div. A, title X, § 1061(4)(B), Dec. 31, 2011, 125 Stat. 1583, struck out item 427 “Intelligence oversight activities of Department of Defense: annual reports”.
+2011—Pub. L. 112–81, div. A, title X, § 1061(4)(B), Dec. 31, 2011, 125 Stat. 1583, struck out item 427 “Intelligence oversight activities of Department of Defense: annual reports”.
 
-Pub. L. 111–383, div. A, title X, § 1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, made technical correction to directory language of Pub. L. 111–84, § 921(b)(2). See 2009 Amendment note below.
+Pub. L. 111–383, div. A, title X, § 1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, made technical correction to directory language of Pub. L. 111–84, § 921(b)(2). See 2009 Amendment note below.
 
-2009—Pub. L. 111–84, div. A, title X, § 1073(a)(5), Oct. 28, 2009, 123 Stat. 2472, redesignated item 438 as 428.
+2009—Pub. L. 111–84, div. A, title X, § 1073(a)(5), Oct. 28, 2009, 123 Stat. 2472, redesignated item 438 as 428.
 
-Pub. L. 111–84, div. A, title IX, § 921(b)(2), Oct. 28, 2009, 123 Stat. 2432, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, added item 423 and struck out former item 423 “Authority to use proceeds from counterintelligence operations of the military departments”.
+Pub. L. 111–84, div. A, title IX, § 921(b)(2), Oct. 28, 2009, 123 Stat. 2432, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, added item 423 and struck out former item 423 “Authority to use proceeds from counterintelligence operations of the military departments”.
 
-2008—Pub. L. 110–417, [div. A], title VIII, § 845(a)(2), Oct. 14, 2008, 122 Stat. 4542, added item 438.
+2008—Pub. L. 110–417, [div. A], title VIII, § 845(a)(2), Oct. 14, 2008, 122 Stat. 4542, added item 438.
 
-2006—Pub. L. 109–364, div. A, title IX, § 932(b), Oct. 17, 2006, 120 Stat. 2363, added item 427.
+2006—Pub. L. 109–364, div. A, title IX, § 932(b), Oct. 17, 2006, 120 Stat. 2363, added item 427.
 
-2003—Pub. L. 108–136, div. A, title IX, §§ 921(d)(5)(B)(ii), 923(c)(2), Nov. 24, 2003, 117 Stat. 1569, 1576, substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in item 424 and added item 426.
+2003—Pub. L. 108–136, div. A, title IX, §§ 921(d)(5)(B)(ii), 923(c)(2), Nov. 24, 2003, 117 Stat. 1569, 1576, substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in item 424 and added item 426.
 
-2001—Pub. L. 107–108, title V, § 501(b)(3), Dec. 28, 2001, 115 Stat. 1404, substituted “Use of funds for certain incidental purposes” for “Counterintelligence official reception and representation expenses” in item 422.
+2001—Pub. L. 107–108, title V, § 501(b)(3), Dec. 28, 2001, 115 Stat. 1404, substituted “Use of funds for certain incidental purposes” for “Counterintelligence official reception and representation expenses” in item 422.
 
-1997—Pub. L. 105–107, title V, § 503(d)(2), Nov. 20, 1997, 111 Stat. 2263, added items 424 and 425 and struck out former items 424 “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency” and 425 “Disclosure of personnel information: exemption for National Reconnaissance Office”.
+1997—Pub. L. 105–107, title V, § 503(d)(2), Nov. 20, 1997, 111 Stat. 2263, added items 424 and 425 and struck out former items 424 “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency” and 425 “Disclosure of personnel information: exemption for National Reconnaissance Office”.
 
-1993—Pub. L. 103–178, title V, § 503(a)(2), Dec. 3, 1993, 107 Stat. 2039, added item 425.
+1993—Pub. L. 103–178, title V, § 503(a)(2), Dec. 3, 1993, 107 Stat. 2039, added item 425.
 
-1991—Pub. L. 102–88, title V, § 504(a)(1), Aug. 14, 1991, 105 Stat. 437, added subchapter heading.
+1991—Pub. L. 102–88, title V, § 504(a)(1), Aug. 14, 1991, 105 Stat. 437, added subchapter heading.
 
-1989—Pub. L. 101–189, div. A, title XVI, § 1622(c)(2), Nov. 29, 1989, 103 Stat. 1604, substituted “Funds for foreign cryptologic support” for “Funds for Foreign Cryptologic Support” in item 421.
+1989—Pub. L. 101–189, div. A, title XVI, § 1622(c)(2), Nov. 29, 1989, 103 Stat. 1604, substituted “Funds for foreign cryptologic support” for “Funds for Foreign Cryptologic Support” in item 421.
 
-1988—Pub. L. 100–453, title VII, §§ 701(b), 703(b), Sept. 29, 1988, 102 Stat. 1912, 1913, in item 421 substituted “Funds for Foreign Cryptologic Support” for “Funds transfers for foreign cryptologic support” and added item 424.
+1988—Pub. L. 100–453, title VII, §§ 701(b), 703(b), Sept. 29, 1988, 102 Stat. 1912, 1913, in item 421 substituted “Funds for Foreign Cryptologic Support” for “Funds transfers for foreign cryptologic support” and added item 424.
 
-1987—Pub. L. 100–180, div. A, title XII, § 1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted “departments” for “department” in item 423.
+1987—Pub. L. 100–180, div. A, title XII, § 1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted “departments” for “department” in item 423.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Strategy To Address Malign Activities by the People’s Liberation Army**
 
-Pub. L. 118–159, div. A, title XIII, § 1347, Dec. 23, 2024, 138 Stat. 2126, provided that:
+Pub. L. 118–159, div. A, title XIII, § 1347, Dec. 23, 2024, 138 Stat. 2126, provided that:
 
 > **“(a) In General.—** Not later than 270 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a transregional, multi-functional, and multi-domain strategy to coordinate activities among combatant commands for identifying and, if necessary and appropriate, addressing malign activities by the People’s Liberation Army of the People’s Republic of China.
 
 > **“(b) Combatant Command Liaisons.—** Concurrently with the submission of the strategy required by subsection (a), the Secretary shall designate, within each combatant command (other than the United States Indo-Pacific Command), an official liaison for coordinated transregional, multi-functional, and multi-domain efforts to address malign activities by the People’s Liberation Army.”
 
-### § 421. Funds for foreign cryptologic support
+### § 421. Funds for foreign cryptologic support
 
 **(a)** The Secretary of Defense may use appropriated funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support.
 
@@ -335,13 +335,13 @@ Pub. L. 118–159, div. A, title XIII, § 1347, Dec. 23, 2024, 138 Stat. 2126,
 
 **(c)** Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.). Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
 
-(Added Pub. L. 96–450, title IV, § 401(a), Oct. 14, 1980, 94 Stat. 1977, § 140a; amended Pub. L. 97–258, § 3(b)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered § 128 and amended Pub. L. 99–433, title I, §§ 101(a)(3), 110(d)(5), Oct. 1, 1986, 100 Stat. 994, 1002; renumbered § 421, Pub. L. 100–26, § 9(a)(2), Apr. 21, 1987, 101 Stat. 287; Pub. L. 100–453, title VII, § 701(a), Sept. 29, 1988, 102 Stat. 1911; Pub. L. 101–189, div. A, title XVI, § 1622(c)(3), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 113–291, div. A, title X, § 1071(c)(3), Dec. 19, 2014, 128 Stat. 3508.)
+(Added Pub. L. 96–450, title IV, § 401(a), Oct. 14, 1980, 94 Stat. 1977, § 140a; amended Pub. L. 97–258, § 3(b)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered § 128 and amended Pub. L. 99–433, title I, §§ 101(a)(3), 110(d)(5), Oct. 1, 1986, 100 Stat. 994, 1002; renumbered § 421, Pub. L. 100–26, § 9(a)(2), Apr. 21, 1987, 101 Stat. 287; Pub. L. 100–453, title VII, § 701(a), Sept. 29, 1988, 102 Stat. 1911; Pub. L. 101–189, div. A, title XVI, § 1622(c)(3), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 113–291, div. A, title X, § 1071(c)(3), Dec. 19, 2014, 128 Stat. 3508.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -361,15 +361,15 @@ The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1
 
 **Comprehensive Independent Study of National Cryptography Policy**
 
-Pub. L. 103–160, div. A, title II, § 267, Nov. 30, 1993, 107 Stat. 1611, directed Secretary of Defense, not later than 90 days after Nov. 30, 1993, to request National Research Council of National Academy of Sciences to conduct a comprehensive study to assess effect of cryptographic technologies on national security, law enforcement, commercial, and privacy interests, and effect of export controls on commercial interests, with cooperation of other agencies, and report findings and conclusions within 2 years after processing of security clearances to Secretary of Defense, and directed Secretary to submit a report in unclassified form to Committee on Armed Services, Committee on the Judiciary, and Select Committee on Intelligence of Senate and to Committee on Armed Services, Committee on the Judiciary, and Permanent Select Committee on Intelligence of House of Representatives, not later than 120 days after the report is submitted to the Secretary.
+Pub. L. 103–160, div. A, title II, § 267, Nov. 30, 1993, 107 Stat. 1611, directed Secretary of Defense, not later than 90 days after Nov. 30, 1993, to request National Research Council of National Academy of Sciences to conduct a comprehensive study to assess effect of cryptographic technologies on national security, law enforcement, commercial, and privacy interests, and effect of export controls on commercial interests, with cooperation of other agencies, and report findings and conclusions within 2 years after processing of security clearances to Secretary of Defense, and directed Secretary to submit a report in unclassified form to Committee on Armed Services, Committee on the Judiciary, and Select Committee on Intelligence of Senate and to Committee on Armed Services, Committee on the Judiciary, and Permanent Select Committee on Intelligence of House of Representatives, not later than 120 days after the report is submitted to the Secretary.
 
-### § 422. Use of funds for certain incidental purposes
+### § 422. Use of funds for certain incidental purposes
 
 **(a) Counterintelligence Official Reception and Representation Expenses.—** The Secretary of Defense may use funds available to the Department of Defense for counterintelligence programs to pay the expenses of hosting foreign officials in the United States under the auspices of the Department of Defense for consultation on counterintelligence matters.
 
 **(b) Promotional Items for Recruitment Purposes.—** The Secretary of Defense may use funds available for an intelligence element of the Department of Defense to purchase promotional items of nominal value for use in the recruitment of individuals for employment by that element.
 
-(Added Pub. L. 99–569, title IV, § 401(c), Oct. 27, 1986, 100 Stat. 3195, § 140a; renumbered § 422, Pub. L. 100–26, § 9(a)(3), Apr. 21, 1987, 101 Stat. 287; amended Pub. L. 107–108, title V, § 501(a)–(b)(2), Dec. 28, 2001, 115 Stat. 1404.)
+(Added Pub. L. 99–569, title IV, § 401(c), Oct. 27, 1986, 100 Stat. 3195, § 140a; renumbered § 422, Pub. L. 100–26, § 9(a)(3), Apr. 21, 1987, 101 Stat. 287; amended Pub. L. 107–108, title V, § 501(a)–(b)(2), Dec. 28, 2001, 115 Stat. 1404.)
 
 **Editorial Notes**
 
@@ -379,7 +379,7 @@ Pub. L. 103–160, div. A, title II, § 267, Nov. 30, 1993, 107 Stat. 1611, di
 
 1987—Pub. L. 100–26 renumbered section 140a of this title as this section.
 
-### § 423. Authority to use proceeds from counterintelligence operations of the military departments or the Defense Intelligence Agency
+### § 423. Authority to use proceeds from counterintelligence operations of the military departments or the Defense Intelligence Agency
 
 **(a)** The Secretary of Defense may authorize, without regard to the provisions of section 3302 of title 31, use of proceeds from counterintelligence operations conducted by components of the military departments or the Defense Intelligence Agency to offset necessary and reasonable expenses, not otherwise prohibited by law, incurred in such operations, and to make exceptional performance awards to personnel involved in such operations, if use of appropriated funds to meet such expenses or to make such awards would not be practicable.
 
@@ -387,7 +387,7 @@ Pub. L. 103–160, div. A, title II, § 267, Nov. 30, 1993, 107 Stat. 1611, di
 
 **(c)** The Secretary of Defense shall establish policies and procedures to govern acquisition, use, management, and disposition of proceeds from counterintelligence operations conducted by components of the military departments or the Defense Intelligence Agency, including effective internal systems of accounting and administrative controls.
 
-(Added Pub. L. 99–569, title IV, § 403(a), Oct. 27, 1986, 100 Stat. 3196, § 140b; renumbered § 423 and amended Pub. L. 100–26, § 9(a)(3), (b)(3), Apr. 21, 1987, 101 Stat. 287; Pub. L. 111–84, div. A, title IX, § 921(a), (b)(1), Oct. 28, 2009, 123 Stat. 2432.)
+(Added Pub. L. 99–569, title IV, § 403(a), Oct. 27, 1986, 100 Stat. 3196, § 140b; renumbered § 423 and amended Pub. L. 100–26, § 9(a)(3), (b)(3), Apr. 21, 1987, 101 Stat. 287; Pub. L. 111–84, div. A, title IX, § 921(a), (b)(1), Oct. 28, 2009, 123 Stat. 2432.)
 
 **Editorial Notes**
 
@@ -397,7 +397,7 @@ Pub. L. 103–160, div. A, title II, § 267, Nov. 30, 1993, 107 Stat. 1611, di
 
 1987—Pub. L. 100–26 renumbered section 140b of this title as this section and struck out “United States Code,” after “section 3302 of title 31,” in subsec. (a).
 
-### § 424. Disclosure of organizational and personnel information: exemption for specified intelligence agencies
+### § 424. Disclosure of organizational and personnel information: exemption for specified intelligence agencies
 
 **(a) Exemption From Disclosure.—** Except as required by the President or as provided in subsection (c), no provision of law shall be construed to require the disclosure of—
 
@@ -415,19 +415,19 @@ Pub. L. 103–160, div. A, title II, § 267, Nov. 30, 1993, 107 Stat. 1611, di
 
 **(c) Provision of Information to Congress.—** Subsection (a) does not apply with respect to the provision of information to Congress.
 
-(Added Pub. L. 104–201, div. A, title XI, § 1112(d), Sept. 23, 1996, 110 Stat. 2683; amended Pub. L. 108–136, div. A, title IX, § 921(d)(5)(A), (B)(i), Nov. 24, 2003, 117 Stat. 1569.)
+(Added Pub. L. 104–201, div. A, title XI, § 1112(d), Sept. 23, 1996, 110 Stat. 2683; amended Pub. L. 108–136, div. A, title IX, § 921(d)(5)(A), (B)(i), Nov. 24, 2003, 117 Stat. 1569.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 424, added Pub. L. 100–178, title VI, § 603(a), Dec. 2, 1987, 101 Stat. 1016, § 1607; renumbered § 424 and amended Pub. L. 100–453, title VII, § 703(a), Sept. 29, 1988, 102 Stat. 1912, related to disclosure of organizational and personnel information with respect to the Defense Intelligence Agency prior to repeal by Pub. L. 104–201, div. A, title XI, §§ 1112(d), 1124, Sept. 23, 1996, 110 Stat. 2683, 2688, effective Oct. 1, 1996.
+A prior section 424, added Pub. L. 100–178, title VI, § 603(a), Dec. 2, 1987, 101 Stat. 1016, § 1607; renumbered § 424 and amended Pub. L. 100–453, title VII, § 703(a), Sept. 29, 1988, 102 Stat. 1912, related to disclosure of organizational and personnel information with respect to the Defense Intelligence Agency prior to repeal by Pub. L. 104–201, div. A, title XI, §§ 1112(d), 1124, Sept. 23, 1996, 110 Stat. 2683, 2688, effective Oct. 1, 1996.
 
 **Amendments**
 
-2003—Pub. L. 108–136, § 921(d)(5)(B)(i), substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in section catchline.
+2003—Pub. L. 108–136, § 921(d)(5)(B)(i), substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in section catchline.
 
-Subsec. (b)(3). Pub. L. 108–136, § 921(d)(5)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsec. (b)(3). Pub. L. 108–136, § 921(d)(5)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -437,7 +437,7 @@ Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out a
 
 **Disclosure of Governmental Affiliation by Department of Defense Intelligence Personnel Outside of United States**
 
-Pub. L. 103–359, title V, § 503, Oct. 14, 1994, 108 Stat. 3430, provided that:
+Pub. L. 103–359, title V, § 503, Oct. 14, 1994, 108 Stat. 3430, provided that:
 
 > **“(a) In General.—** Notwithstanding section 552a(e)(3) of title 5, United States Code, intelligence personnel of the Department of Defense who are authorized by the Secretary of Defense to collect intelligence from human sources shall not be required, when making an initial assessment contact outside the United States, to give notice of governmental affiliation to potential sources who are United States persons.
 
@@ -451,9 +451,9 @@ Pub. L. 103–359, title V, § 503, Oct. 14, 1994, 108 Stat. 3430, provided th
 
 **Exemption for National Reconnaissance Office From Any Requirement for Disclosure of Personnel Information**
 
-Pub. L. 102–496, title IV, § 406, Oct. 24, 1992, 106 Stat. 3186, which provided that, except as required by President and except with respect to provision of information to Congress, nothing in Pub. L. 102–496 or any other provision of law was to be construed to require disclosure of name, title, or salary of any person employed by, or assigned or detailed to, National Reconnaissance Office or disclosure of number of such persons, was repealed and restated in former section 425 of this title by Pub. L. 103–178, title V, § 503(a)(1), (b), Dec. 3, 1993, 107 Stat. 2038, 2039.
+Pub. L. 102–496, title IV, § 406, Oct. 24, 1992, 106 Stat. 3186, which provided that, except as required by President and except with respect to provision of information to Congress, nothing in Pub. L. 102–496 or any other provision of law was to be construed to require disclosure of name, title, or salary of any person employed by, or assigned or detailed to, National Reconnaissance Office or disclosure of number of such persons, was repealed and restated in former section 425 of this title by Pub. L. 103–178, title V, § 503(a)(1), (b), Dec. 3, 1993, 107 Stat. 2038, 2039.
 
-### § 425. Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies
+### § 425. Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies
 
 **(a) Prohibition.—** Except with the written permission of both the Secretary of Defense and the Director of National Intelligence, no person may knowingly use, in connection with any merchandise, retail product, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Secretary and the Director, any of the following (or any colorable imitation thereof):
 
@@ -469,27 +469,27 @@ Pub. L. 102–496, title IV, § 406, Oct. 24, 1992, 106 Stat. 3186, which prov
 
 **(b) Authority To Enjoin Violations.—** Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
-(Added and amended Pub. L. 105–107, title V, § 503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, § 921(d)(6), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, § 931(a)(6), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(6), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
+(Added and amended Pub. L. 105–107, title V, § 503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, § 921(d)(6), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, § 931(a)(6), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(6), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 202(b) of this title, which was transferred to this section by Pub. L. 105–107, § 503(b), was based on Pub. L. 97–269, title V, § 501(a), Sept. 27, 1982, 96 Stat. 1145, § 191; renumbered § 201, Pub. L. 99–433, title III, § 301(a)(1), Oct. 1, 1986, 100 Stat. 1019; renumbered § 202, Pub. L. 102–190, div. A, title IX, § 922(a)(1), Dec. 5, 1991, 105 Stat. 1453.
+The text of section 202(b) of this title, which was transferred to this section by Pub. L. 105–107, § 503(b), was based on Pub. L. 97–269, title V, § 501(a), Sept. 27, 1982, 96 Stat. 1145, § 191; renumbered § 201, Pub. L. 99–433, title III, § 301(a)(1), Oct. 1, 1986, 100 Stat. 1019; renumbered § 202, Pub. L. 102–190, div. A, title IX, § 922(a)(1), Dec. 5, 1991, 105 Stat. 1453.
 
 **Prior Provisions**
 
-A prior section 425, added Pub. L. 103–178, title V, § 503(a)(1), Dec. 3, 1993, 107 Stat. 2038, related to disclosure of information about personnel at National Reconnaissance Office prior to repeal by Pub. L. 104–201, div. A, title XI, §§ 1112(d), 1124, Sept. 23, 1996, 110 Stat. 2683, 2688, effective Oct. 1, 1996. See section 424 of this title.
+A prior section 425, added Pub. L. 103–178, title V, § 503(a)(1), Dec. 3, 1993, 107 Stat. 2038, related to disclosure of information about personnel at National Reconnaissance Office prior to repeal by Pub. L. 104–201, div. A, title XI, §§ 1112(d), 1124, Sept. 23, 1996, 110 Stat. 2683, 2688, effective Oct. 1, 1996. See section 424 of this title.
 
 **Amendments**
 
-2009—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(6). See 2008 Amendment note below.
+2009—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(6). See 2008 Amendment note below.
 
-2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(6), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions. Pub. L. 110–417, § 932(a)(6), was repealed by Pub. L. 111–84.
+2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(6), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions. Pub. L. 110–417, § 932(a)(6), was repealed by Pub. L. 111–84.
 
 2003—Subsec. (a)(5). Pub. L. 108–136 added par. (5).
 
-1997—Subsec. (b). Pub. L. 105–107, § 503(b), renumbered section 202(b) of this title as subsec. (b) of this section and inserted heading.
+1997—Subsec. (b). Pub. L. 105–107, § 503(b), renumbered section 202(b) of this title as subsec. (b) of this section and inserted heading.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -499,9 +499,9 @@ Reference to National Imagery and Mapping Agency considered to be reference to N
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
-### § 426. Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities
+### § 426. Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities
 
 **(a) ISR Integration Council.—**
 
@@ -585,21 +585,21 @@ Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, 
 
 **(D)** The term “intelligence community” has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
-(Added Pub. L. 108–136, div. A, title IX, § 923(c)(1), Nov. 24, 2003, 117 Stat. 1575; amended Pub. L. 109–364, div. A, title X, § 1071(a)(3), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, § 931(a)(7), (8), Jan. 28, 2008, 122 Stat. 285; Pub. L. 111–383, div. A, title IX, § 922(b), Jan. 7, 2011, 124 Stat. 4331; Pub. L. 115–232, div. A, title XVI, § 1625(b), Aug. 13, 2018, 132 Stat. 2121; Pub. L. 116–92, div. A, title XVI, §§ 1621(e)(1)(A)(vii), 1622, Dec. 20, 2019, 133 Stat. 1733.)
+(Added Pub. L. 108–136, div. A, title IX, § 923(c)(1), Nov. 24, 2003, 117 Stat. 1575; amended Pub. L. 109–364, div. A, title X, § 1071(a)(3), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, § 931(a)(7), (8), Jan. 28, 2008, 122 Stat. 285; Pub. L. 111–383, div. A, title IX, § 922(b), Jan. 7, 2011, 124 Stat. 4331; Pub. L. 115–232, div. A, title XVI, § 1625(b), Aug. 13, 2018, 132 Stat. 2121; Pub. L. 116–92, div. A, title XVI, §§ 1621(e)(1)(A)(vii), 1622, Dec. 20, 2019, 133 Stat. 1733.)
 
 **Editorial Notes**
 
 **Codification**
 
-Subsec. (c) of this section was based on Pub. L. 113–291, div. A, title XVI, § 1626, Dec. 19, 2014, 128 Stat. 3635; Pub. L. 115–91, div. A, title XVI, § 1624, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 115–232, div. A, title XVI, § 1625(a), Aug. 13, 2018, 132 Stat. 2121, which was transferred to this chapter, redesignated as subsec. (c) of this section by Pub. L. 115–232, § 1625(b), and subsequently repealed.
+Subsec. (c) of this section was based on Pub. L. 113–291, div. A, title XVI, § 1626, Dec. 19, 2014, 128 Stat. 3635; Pub. L. 115–91, div. A, title XVI, § 1624, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 115–232, div. A, title XVI, § 1625(a), Aug. 13, 2018, 132 Stat. 2121, which was transferred to this chapter, redesignated as subsec. (c) of this section by Pub. L. 115–232, § 1625(b), and subsequently repealed.
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 1621(e)(1)(A)(vii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence” wherever appearing.
+2019—Pub. L. 116–92, § 1621(e)(1)(A)(vii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence” wherever appearing.
 
-Subsec. (a). Pub. L. 116–92, § 1622(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment and composition of an Intelligence, Surveillance, and Reconnaissance (ISR) Integration Council.
+Subsec. (a). Pub. L. 116–92, § 1622(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment and composition of an Intelligence, Surveillance, and Reconnaissance (ISR) Integration Council.
 
-Subsecs. (b), (c). Pub. L. 116–92, § 1622(b), added subsec. (b) and struck out former subsecs. (b) and (c) which related to ISR Integration Roadmap and annual briefing on intelligence, surveillance, and reconnaissance requirements of the combatant commands, respectively.
+Subsecs. (b), (c). Pub. L. 116–92, § 1622(b), added subsec. (b) and struck out former subsecs. (b) and (c) which related to ISR Integration Roadmap and annual briefing on intelligence, surveillance, and reconnaissance requirements of the combatant commands, respectively.
 
 2018—Subsec. (c). Pub. L. 115–232 transferred section 1626 of Pub. L. 113–291, as amended, to this section and redesignated it as subsec. (c). See Codification note above.
 
@@ -613,7 +613,7 @@ Subsecs. (b), (c). Pub. L. 116–92, § 1622(b), added subsec. (b) and struck 
 
 **Integration of Defense Intelligence, Surveillance, and Reconnaissance Capabilities**
 
-Pub. L. 108–136, div. A, title IX, § 923(a), (b), Nov. 24, 2003, 117 Stat. 1574, 1575, as amended by Pub. L. 111–383, div. A, title IX, § 922(a), Jan. 7, 2011, 124 Stat. 4330, provided that:
+Pub. L. 108–136, div. A, title IX, § 923(a), (b), Nov. 24, 2003, 117 Stat. 1574, 1575, as amended by Pub. L. 111–383, div. A, title IX, § 922(a), Jan. 7, 2011, 124 Stat. 4330, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -629,7 +629,7 @@ Pub. L. 108–136, div. A, title IX, § 923(a), (b), Nov. 24, 2003, 117 Stat. 
 
 > **“(b) Goal.—** It shall be a goal of the Department of Defense to fully integrate the intelligence, surveillance, and reconnaissance capabilities and coordinate the developmental activities of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands as those departments, agencies, and commands transform their intelligence, surveillance, and reconnaissance systems to meet current and future needs.”
 
-### § 427. Conflict Records Research Center
+### § 427. Conflict Records Research Center
 
 **(a) Center Authorized.—** The Secretary of Defense may establish a center to be known as the “Conflict Records Research Center” (in this section referred to as the “Center”).
 
@@ -681,15 +681,15 @@ Pub. L. 108–136, div. A, title IX, § 923(a), (b), Nov. 24, 2003, 117 Stat. 
 
 **(2)** The term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
-(Added Pub. L. 113–66, div. A, title X, § 1071(a), Dec. 26, 2013, 127 Stat. 867.)
+(Added Pub. L. 113–66, div. A, title X, § 1071(a), Dec. 26, 2013, 127 Stat. 867.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 427, added Pub. L. 109–364, div. A, title IX, § 932(a), Oct. 17, 2006, 120 Stat. 2362, related to submission of an annual report on intelligence oversight activities of the Department of Defense, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(4)(A), Dec. 31, 2011, 125 Stat. 1583.
+A prior section 427, added Pub. L. 109–364, div. A, title IX, § 932(a), Oct. 17, 2006, 120 Stat. 2362, related to submission of an annual report on intelligence oversight activities of the Department of Defense, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(4)(A), Dec. 31, 2011, 125 Stat. 1583.
 
-### § 428. Defense industrial security
+### § 428. Defense industrial security
 
 **(a) Responsibility for Defense Industrial Security.—** The Secretary of Defense shall be responsible for the protection of classified information disclosed to contractors of the Department of Defense.
 
@@ -701,7 +701,7 @@ A prior section 427, added Pub. L. 109–364, div. A, title IX, § 932(a), Oct
 
 **(e) Dedication of Resources.—** The Secretary shall ensure that sufficient resources are provided to staff, train, and support such personnel as are necessary to fully protect classified information disclosed to contractors of the Department of Defense.
 
-(Added Pub. L. 110–417, [div. A], title VIII, § 845(a)(1), Oct. 14, 2008, 122 Stat. 4541, § 438; renumbered § 428, Pub. L. 111–84, div. A, title X, § 1073(a)(4), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title X, § 1075(b)(11), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 115–91, div. A, title X, § 1051(a)(3), Dec. 12, 2017, 131 Stat. 1560.)
+(Added Pub. L. 110–417, [div. A], title VIII, § 845(a)(1), Oct. 14, 2008, 122 Stat. 4541, § 438; renumbered § 428, Pub. L. 111–84, div. A, title X, § 1073(a)(4), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title X, § 1075(b)(11), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 115–91, div. A, title X, § 1051(a)(3), Dec. 12, 2017, 131 Stat. 1560.)
 
 **Editorial Notes**
 
@@ -713,7 +713,7 @@ Executive Order 12829, referred to in subsec. (b), is set out as a note under se
 
 2017—Subsec. (f). Pub. L. 115–91 struck out subsec. (f) which related to biennial reports on expenditures and activities of the Department of Defense in carrying out the requirements of this section.
 
-2011—Subsec. (f). Pub. L. 111–383 struck out “, United States Code,” after “title 31”.
+2011—Subsec. (f). Pub. L. 111–383 struck out “, United States Code,” after “title 31”.
 
 2009—Pub. L. 111–84 renumbered section 438 of this title as this section.
 
@@ -721,7 +721,7 @@ Executive Order 12829, referred to in subsec. (b), is set out as a note under se
 
 **Facility Clearance Acceleration for Members of Defense Industrial Consortiums**
 
-Pub. L. 119–60, div. A, title XVIII, § 1845, Dec. 18, 2025, 139 Stat. 1261, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1845, Dec. 18, 2025, 139 Stat. 1261, provided that:
 
 > **“(a) Acceleration of Facility Clearance.—** The Secretary of Defense shall ensure that each entity that is a member of the collaborative forum described in section 1844(a) of this Act [set out in a note under section 4811 of this title]—
 
@@ -743,7 +743,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1845, Dec. 18, 2025, 139 Stat. 1261,
 
 **Establishment of Pilot Program for Access to Shared Classified Commercial Infrastructure**
 
-Pub. L. 118–159, div. A, title VIII, § 874, Dec. 23, 2024, 138 Stat. 2012, provided that:
+Pub. L. 118–159, div. A, title VIII, § 874, Dec. 23, 2024, 138 Stat. 2012, provided that:
 
 > **“(a) Pilot Program Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish a pilot program on streamlining access for small business concerns and institutions of higher learning to shared classified commercial infrastructure—
 
@@ -811,7 +811,7 @@ Pub. L. 118–159, div. A, title VIII, § 874, Dec. 23, 2024, 138 Stat. 2012, 
 
 **Pilot Program for Department of Defense Controlled Unclassified Information in the Hands of Industry**
 
-Pub. L. 115–232, div. A, title X, § 1048, Aug. 13, 2018, 132 Stat. 1961, provided that:
+Pub. L. 115–232, div. A, title X, § 1048, Aug. 13, 2018, 132 Stat. 1961, provided that:
 
 > **“(a) In General.—** The Secretary of Defense—
 
@@ -831,7 +831,7 @@ Pub. L. 115–232, div. A, title X, § 1048, Aug. 13, 2018, 132 Stat. 1961, pr
 
 **Requirements Relating to Multi-Use Sensitive Compartmented Information Facilities**
 
-Pub. L. 115–91, div. A, title XVI, § 1628, Dec. 12, 2017, 131 Stat. 1735, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1628, Dec. 12, 2017, 131 Stat. 1735, provided that:
 
 > **“(a) In General.—** In order to facilitate access for small business concerns and nontraditional defense contractors to affordable secure spaces, the Secretary of Defense, in consultation with the Director of National Intelligence, shall develop processes and procedures necessary to build, certify, and maintain certifications for multi-use sensitive compartmented information facilities not tied to a single contract and where multiple companies can securely work on multiple projects at different security levels.
 
@@ -843,7 +843,7 @@ Pub. L. 115–91, div. A, title XVI, § 1628, Dec. 12, 2017, 131 Stat. 1735, p
 
 **Requirement for Entities With Facility Clearances That Are Not Under Foreign Ownership Control or Influence Mitigation**
 
-Pub. L. 111–383, div. A, title VIII, § 845, Jan. 7, 2011, 124 Stat. 4285, provided that:
+Pub. L. 111–383, div. A, title VIII, § 845, Jan. 7, 2011, 124 Stat. 4285, provided that:
 
 > **“(a) Requirement.—** The Secretary of Defense shall develop a plan to ensure that covered entities employ and maintain policies and procedures that meet requirements under the national industrial security program. In developing the plan, the Secretary shall consider whether or not covered entities, or any category of covered entities, should be required to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
 
@@ -859,9 +859,9 @@ Pub. L. 111–383, div. A, title VIII, § 845, Jan. 7, 2011, 124 Stat. 4285, p
 
 **Submission of First Biennial Report**
 
-Pub. L. 110–417, [div. A], title VIII, § 845(b), Oct. 14, 2008, 122 Stat. 4542, required the first biennial report under former subsec. (f) of this section to be submitted no later than Sept. 1, 2009.
+Pub. L. 110–417, [div. A], title VIII, § 845(b), Oct. 14, 2008, 122 Stat. 4542, required the first biennial report under former subsec. (f) of this section to be submitted no later than Sept. 1, 2009.
 
-### § 429. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority
+### § 429. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority
 
 **(a) Accounts for Appropriations for Defense Intelligence Elements.—** The Secretary of Defense may transfer appropriations of the Department of Defense which are available for the activities of Defense intelligence elements to an account or accounts established for receipt of such transfers. Each such account may also receive transfers from the Director of National Intelligence if made pursuant to section 102A of the National Security Act of 1947 (50 U.S.C. 3024) and transfers and reimbursements arising from transactions, as authorized by law, between a Defense intelligence element and another entity. Appropriation balances in each such account may be transferred back to the account or accounts from which such appropriations originated as appropriation refunds.
 
@@ -873,19 +873,19 @@ Pub. L. 110–417, [div. A], title VIII, § 845(b), Oct. 14, 2008, 122 Stat. 4
 
 **(e) Defense Intelligence Element Defined.—** In this section, the term “Defense intelligence element” means any of the Department of Defense agencies, offices, and elements included within the definition of “intelligence community” under section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
 
-(Added Pub. L. 112–87, title IV, § 433(a), Jan. 3, 2012, 125 Stat. 1894; amended Pub. L. 113–291, div. A, title X, § 1071(c)(5), (f)(6), Dec. 19, 2014, 128 Stat. 3508, 3510.)
+(Added Pub. L. 112–87, title IV, § 433(a), Jan. 3, 2012, 125 Stat. 1894; amended Pub. L. 113–291, div. A, title X, § 1071(c)(5), (f)(6), Dec. 19, 2014, 128 Stat. 3508, 3510.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–291, § 1071(c)(5)(A), substituted “section 102A of the National Security Act of 1947 (50 U.S.C. 3024)” for “Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1)”.
+2014—Subsec. (a). Pub. L. 113–291, § 1071(c)(5)(A), substituted “section 102A of the National Security Act of 1947 (50 U.S.C. 3024)” for “Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1)”.
 
-Subsec. (c). Pub. L. 113–291, § 1071(f)(6), substituted “law” for “act”.
+Subsec. (c). Pub. L. 113–291, § 1071(f)(6), substituted “law” for “act”.
 
-Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “(50 U.S.C. 3003(4))” for “(50 U.S.C. 401a(4))”.
+Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “(50 U.S.C. 3003(4))” for “(50 U.S.C. 401a(4))”.
 
-### § 429a. Expenditure of funds for Department of Defense intelligence and counterintelligence activities
+### § 429a. Expenditure of funds for Department of Defense intelligence and counterintelligence activities
 
 **(a) In General.—** Subject to subsections (b) and (c), the Secretary of Defense may expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence activities for any purpose the Secretary determines to be proper with regard to intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature. Such a determination is final and conclusive upon the accounting officers of the United States.
 
@@ -909,27 +909,27 @@ Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “(50 U.S.C. 30
 
 **(2)** the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Added and amended Pub. L. 118–159, div. A, title XVI, § 1614(a)–(e)(1), Dec. 23, 2024, 138 Stat. 2168, 2169.)
+(Added and amended Pub. L. 118–159, div. A, title XVI, § 1614(a)–(e)(1), Dec. 23, 2024, 138 Stat. 2168, 2169.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 1057 of Pub. L. 116–92, which was transferred to this subchapter, inserted after section 429 of this title, redesignated as this section, and amended by Pub. L. 118–159, div. A, title XVI, § 1614(a)–(e)(1), Dec. 23, 2024, 138 Stat. 2168, 2169, was based on Pub. L. 116–92, div. A, title X, § 1057, Dec. 20, 2019, 133 Stat. 1593.
+The text of section 1057 of Pub. L. 116–92, which was transferred to this subchapter, inserted after section 429 of this title, redesignated as this section, and amended by Pub. L. 118–159, div. A, title XVI, § 1614(a)–(e)(1), Dec. 23, 2024, 138 Stat. 2168, 2169, was based on Pub. L. 116–92, div. A, title X, § 1057, Dec. 20, 2019, 133 Stat. 1593.
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 1614(a), transferred section 1057 of Pub. L. 116–92 to this subchapter, inserted it after section 429 of this title, redesignated it as this section, and conformed “SEC.” preceding section designation and catchline text to the style used in this title. See Codification note above.
+2024—Pub. L. 118–159, § 1614(a), transferred section 1057 of Pub. L. 116–92 to this subchapter, inserted it after section 429 of this title, redesignated it as this section, and conformed “SEC.” preceding section designation and catchline text to the style used in this title. See Codification note above.
 
-Subsec. (a). Pub. L. 118–159, § 1614(b), struck out “for any of fiscal years 2020 through 2025” after “Military Intelligence Program”.
+Subsec. (a). Pub. L. 118–159, § 1614(b), struck out “for any of fiscal years 2020 through 2025” after “Military Intelligence Program”.
 
-Subsec. (d). Pub. L. 118–159, § 1614(c), substituted “Not later than December 31 of each year” for “Not later than December 31 of each of 2020 through 2025”.
+Subsec. (d). Pub. L. 118–159, § 1614(c), substituted “Not later than December 31 of each year” for “Not later than December 31 of each of 2020 through 2025”.
 
-Subsec. (e). Pub. L. 118–159, § 1614(d), substituted “$200,000” for “$100,000”.
+Subsec. (e). Pub. L. 118–159, § 1614(d), substituted “$200,000” for “$100,000”.
 
-Subsecs. (f), (g). Pub. L. 118–159, § 1614(e)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 118–159, § 1614(e)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-### § 430. Tactical Exploitation of National Capabilities Executive Agent
+### § 430. Tactical Exploitation of National Capabilities Executive Agent
 
 **(a) Designation.—** The Under Secretary of Defense for Intelligence and Security shall designate a civilian employee of the Department or a member of the armed forces to serve as the Tactical Exploitation of National Capabilities Executive Agent.
 
@@ -943,7 +943,7 @@ Subsecs. (f), (g). Pub. L. 118–159, § 1614(e)(1), added subsec. (f) and red
 
 **(B)** promote cross-domain integration of such capabilities into military operations, training, intelligence, surveillance, and reconnaissance activities.
 
-(Added Pub. L. 113–291, div. A, title XVI, § 1621(a), Dec. 19, 2014, 128 Stat. 3631; amended Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(A)(viii), Dec. 20, 2019, 133 Stat. 1733; Pub. L. 116–283, div. A, title X, § 1081(a)(17), Jan. 1, 2021, 134 Stat. 3871.)
+(Added Pub. L. 113–291, div. A, title XVI, § 1621(a), Dec. 19, 2014, 128 Stat. 3631; amended Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(A)(viii), Dec. 20, 2019, 133 Stat. 1733; Pub. L. 116–283, div. A, title X, § 1081(a)(17), Jan. 1, 2021, 134 Stat. 3871.)
 
 **Editorial Notes**
 
@@ -953,15 +953,15 @@ Subsecs. (f), (g). Pub. L. 118–159, § 1614(e)(1), added subsec. (f) and red
 
 2019—Subsec. (a). Pub. L. 116–92 substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
 
-### § 430a. Executive agent for management and oversight of alternative compensatory control measures
+### § 430a. Executive agent for management and oversight of alternative compensatory control measures
 
 **(a) Executive Agent.—** The Secretary of Defense shall designate a senior official from among the personnel of the Department of Defense to act as the Department of Defense executive agent for the management and oversight of alternative compensatory control measures.
 
 **(b) Roles, Responsibilities, and Authorities.—** The Secretary shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a). Such roles, responsibilities, and authorities shall include the development of an annual management and oversight plan for Department-wide accountability and reporting to the congressional defense committees.
 
-(Added Pub. L. 114–92, div. A, title X, § 1083(a)(1), Nov. 25, 2015, 129 Stat. 1003.)
+(Added Pub. L. 114–92, div. A, title X, § 1083(a)(1), Nov. 25, 2015, 129 Stat. 1003.)
 
-### § 430b. Executive agent for open-source intelligence tools
+### § 430b. Executive agent for open-source intelligence tools
 
 **(a) Designation.—** Not later than April 1, 2016, the Secretary of Defense shall designate a senior official of the Department of Defense to serve as the executive agent for the Department for open-source intelligence tools.
 
@@ -991,9 +991,9 @@ Subsecs. (f), (g). Pub. L. 118–159, § 1614(e)(1), added subsec. (f) and red
 
 **(3)** The term “open-source intelligence tools” means tools for the systematic collection, processing, and analysis of publicly available information for known or anticipated intelligence requirements.
 
-(Added Pub. L. 114–92, div. A, title XVI, § 1631(a), Nov. 25, 2015, 129 Stat. 1110.)
+(Added Pub. L. 114–92, div. A, title XVI, § 1631(a), Nov. 25, 2015, 129 Stat. 1110.)
 
-### § 430c. Senior Intelligence Oversight Official
+### § 430c. Senior Intelligence Oversight Official
 
 **(a) Establishment.—** The Secretary of Defense, or a designee of the Secretary determined by regulations prescribed by the Secretary, shall designate a civilian employee of the Department of Defense in the Senior Executive Service to serve as the Senior Intelligence Oversight Official.
 
@@ -1005,7 +1005,7 @@ Subsecs. (f), (g). Pub. L. 118–159, § 1614(e)(1), added subsec. (f) and red
 
 **(2)** direct access to the Secretary of Defense and the Deputy Secretary of Defense, as circumstances require in the determination of the Senior Intelligence Oversight Official.
 
-(Added Pub. L. 118–159, div. A, title IX, § 921(a), Dec. 23, 2024, 138 Stat. 2036; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(8), Dec. 18, 2025, 139 Stat. 1208.)
+(Added Pub. L. 118–159, div. A, title IX, § 921(a), Dec. 23, 2024, 138 Stat. 2036; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(8), Dec. 18, 2025, 139 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -1017,9 +1017,9 @@ Subsecs. (f), (g). Pub. L. 118–159, § 1614(e)(1), added subsec. (f) and red
 
 **Review of Regulations**
 
-Pub. L. 118–159, div. A, title IX, § 921(b), Dec. 23, 2024, 138 Stat. 2036, provided that: “The Secretary of Defense shall review and update, as appropriate, Department of Defense Directive 5148.13, and any associated or successor regulation or directive, to conform to section 430c of title 10, United States Code, as added by subsection (a).”
+Pub. L. 118–159, div. A, title IX, § 921(b), Dec. 23, 2024, 138 Stat. 2036, provided that: “The Secretary of Defense shall review and update, as appropriate, Department of Defense Directive 5148.13, and any associated or successor regulation or directive, to conform to section 430c of title 10, United States Code, as added by subsection (a).”
 
-### § 430d. Cyber intelligence capability
+### § 430d. Cyber intelligence capability
 
 **(a) Requirement.—** Not later than October 1, 2026, the Secretary of Defense, in consultation with the Director of National Intelligence, shall ensure that the Department of Defense has a dedicated cyber intelligence capability in support of the military cyber operations requirements for the warfighting missions of the United States Cyber Command, the other combatant commands, the military departments, the Defense Agencies, the Joint Staff, and the Office of the Secretary of Defense with respect to foundational, scientific and technical, and all-source intelligence on cyber technology development, capabilities, concepts of operation, operations, and plans and intentions of cyber threat actors.
 
@@ -1035,9 +1035,9 @@ Pub. L. 118–159, div. A, title IX, § 921(b), Dec. 23, 2024, 138 Stat. 2036,
 
 **(d) Defense Budget Materials Defined.—** In this section, the term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added Pub. L. 118–159, div. A, title XVI, § 1612(a), Dec. 23, 2024, 138 Stat. 2167.)
+(Added Pub. L. 118–159, div. A, title XVI, § 1612(a), Dec. 23, 2024, 138 Stat. 2167.)
 
-### § 430e. Vendor support to clandestine activities
+### § 430e. Vendor support to clandestine activities
 
 **(a) Oversight, Deconfliction, and Risk Assessment Capability.—** The Secretary of Defense shall establish, maintain, continuously update, and use a secure, centralized technical capability to facilitate oversight, deconfliction, and risk assessments of all commercial vendor support to the Department of Defense for clandestine activities. Such capability shall—
 
@@ -1049,9 +1049,9 @@ Pub. L. 118–159, div. A, title IX, § 921(b), Dec. 23, 2024, 138 Stat. 2036,
 
 **(B)** identify the need for additional coordination with respect to clandestine activities; and
 
-**(C)** conduct aggregate risk assessments of clandestine activities involving support from commercial vendors; and 1
+**(C)** conduct aggregate risk assessments of clandestine activities involving support from commercial vendors; and 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(b) Exclusions.—**
 
@@ -1073,13 +1073,13 @@ Pub. L. 118–159, div. A, title IX, § 921(b), Dec. 23, 2024, 138 Stat. 2036,
 
 **(d) Clandestine Activity Defined.—** In this section, the term “clandestine activity” means any activity where it is intended that the role of the United States Government will not be apparent or acknowledged publicly.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1621(a), Dec. 18, 2025, 139 Stat. 1180.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1621(a), Dec. 18, 2025, 139 Stat. 1180.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation Deadline and Reports**
 
-Pub. L. 119–60, div. A, title XVI, § 1621(b), Dec. 18, 2025, 139 Stat. 1181, provided that:
+Pub. L. 119–60, div. A, title XVI, § 1621(b), Dec. 18, 2025, 139 Stat. 1181, provided that:
 
 > **“(1) Implementation deadline and certification.—** Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall—
 
@@ -1101,11 +1101,11 @@ Pub. L. 119–60, div. A, title XVI, § 1621(b), Dec. 18, 2025, 139 Stat. 1181
 
 **Amendments**
 
-1992—Pub. L. 102–484, div. A, title X, § 1052(1), Oct. 23, 1992, 106 Stat. 2499, inserted “Sec.” above item “431”.
+1992—Pub. L. 102–484, div. A, title X, § 1052(1), Oct. 23, 1992, 106 Stat. 2499, inserted “Sec.” above item “431”.
 
-1991—Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 437, added subchapter heading and analysis of sections.
+1991—Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 437, added subchapter heading and analysis of sections.
 
-### § 431. Authority to engage in commercial activities as security for intelligence collection activities
+### § 431. Authority to engage in commercial activities as security for intelligence collection activities
 
 **(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2028.
 
@@ -1135,15 +1135,15 @@ Pub. L. 119–60, div. A, title XVI, § 1621(b), Dec. 18, 2025, 139 Stat. 1181
 
 **(2)** The term “intelligence collection activities” means the collection of foreign intelligence and counterintelligence information.
 
-(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, § 503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, § 501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, § 1 [[div. A], title X, § 1077], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, § 1053, Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–375, div. A, title IX, § 921, Oct. 28, 2004, 118 Stat. 2029; Pub. L. 109–364, div. A, title IX, § 931, Oct. 17, 2006, 120 Stat. 2362; Pub. L. 110–181, div. A, title IX, § 931(b)(1), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(7), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 111–383, div. A, title IX, § 921, Jan. 7, 2011, 124 Stat. 4330; Pub. L. 113–291, div. A, title XVI, § 1623, Dec. 19, 2014, 128 Stat. 3632; Pub. L. 115–91, div. A, title XVI, § 1622, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 118–31, div. A, title XVIII, § 1802, Dec. 22, 2023, 137 Stat. 685; Pub. L. 118–159, div. A, title XVI, § 1611, Dec. 23, 2024, 138 Stat. 2166.)
+(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, § 503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, § 501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, § 1 [[div. A], title X, § 1077], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, § 1053, Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–375, div. A, title IX, § 921, Oct. 28, 2004, 118 Stat. 2029; Pub. L. 109–364, div. A, title IX, § 931, Oct. 17, 2006, 120 Stat. 2362; Pub. L. 110–181, div. A, title IX, § 931(b)(1), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(7), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 111–383, div. A, title IX, § 921, Jan. 7, 2011, 124 Stat. 4330; Pub. L. 113–291, div. A, title XVI, § 1623, Dec. 19, 2014, 128 Stat. 3632; Pub. L. 115–91, div. A, title XVI, § 1622, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 118–31, div. A, title XVIII, § 1802, Dec. 22, 2023, 137 Stat. 685; Pub. L. 118–159, div. A, title XVI, § 1611, Dec. 23, 2024, 138 Stat. 2166.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 1611(1), substituted “December 31, 2028” for “December 31, 2024”.
+2024—Subsec. (a). Pub. L. 118–159, § 1611(1), substituted “December 31, 2028” for “December 31, 2024”.
 
-Subsec. (b)(1). Pub. L. 118–159, § 1611(2), added par. (1) and struck out former par. (1) which read as follows: “be coordinated with, and (where appropriate) be supported by, the Director of the Central Intelligence Agency; and”.
+Subsec. (b)(1). Pub. L. 118–159, § 1611(2), added par. (1) and struck out former par. (1) which read as follows: “be coordinated with, and (where appropriate) be supported by, the Director of the Central Intelligence Agency; and”.
 
 2023—Subsec. (a). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
@@ -1153,9 +1153,9 @@ Subsec. (b)(1). Pub. L. 118–159, § 1611(2), added par. (1) and struck out f
 
 2011—Subsec. (a). Pub. L. 111–383 substituted “December 31, 2015” for “December 31, 2010”.
 
-2009—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(7). See 2008 Amendment note below.
+2009—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(7). See 2008 Amendment note below.
 
-2008—Subsec. (b)(1). Pub. L. 110–417, § 932(a)(7), which directed the amendment of subsec. (b)(1) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was repealed by Pub. L. 111–84.
+2008—Subsec. (b)(1). Pub. L. 110–417, § 932(a)(7), which directed the amendment of subsec. (b)(1) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was repealed by Pub. L. 111–84.
 
 Pub. L. 110–181 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
@@ -1175,11 +1175,11 @@ Pub. L. 110–181 substituted “Director of the Central Intelligence Agency” 
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date**
 
-Pub. L. 102–88, title V, § 504(b), Aug. 14, 1991, 105 Stat. 440, provided that:
+Pub. L. 102–88, title V, § 504(b), Aug. 14, 1991, 105 Stat. 440, provided that:
 
 > “The Secretary of Defense may not authorize any activity under section 431 of title 10, United States Code, as added by subsection (a), until the later of—
 
@@ -1187,7 +1187,7 @@ Pub. L. 102–88, title V, § 504(b), Aug. 14, 1991, 105 Stat. 440, provided t
 
 > **“(2)** the effective date of regulations first prescribed under section 436 of such title, as added by subsection (a).”
 
-### § 432. Use, disposition, and auditing of funds
+### § 432. Use, disposition, and auditing of funds
 
 **(a) Use of Funds.—** Funds generated by a commercial activity authorized pursuant to this subchapter may be used to offset necessary and reasonable expenses arising from that activity. Use of such funds for that purpose shall be kept to the minimum necessary to conduct the activity concerned in a secure manner. Any funds generated by the activity in excess of those required for that purpose shall be deposited, as often as may be practicable, into the Treasury as miscellaneous receipts.
 
@@ -1197,7 +1197,7 @@ Pub. L. 102–88, title V, § 504(b), Aug. 14, 1991, 105 Stat. 440, provided t
 
 **(2)** That organization shall audit the use and disposition of funds generated by any commercial activity authorized under this subchapter not less often than annually. The results of all such audits shall be reported to the congressional defense committees and the congressional intelligence committees (as defined in section 437(c) of this title) by not later than December 31 of each year.
 
-(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 438; amended Pub. L. 113–66, div. A, title IX, § 921(a), Dec. 26, 2013, 127 Stat. 827; Pub. L. 115–91, div. A, title XVI, § 1623, Dec. 12, 2017, 131 Stat. 1732.)
+(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 438; amended Pub. L. 113–66, div. A, title IX, § 921(a), Dec. 26, 2013, 127 Stat. 827; Pub. L. 115–91, div. A, title XVI, § 1623, Dec. 12, 2017, 131 Stat. 1732.)
 
 **Editorial Notes**
 
@@ -1207,7 +1207,7 @@ Pub. L. 102–88, title V, § 504(b), Aug. 14, 1991, 105 Stat. 440, provided t
 
 2013—Subsec. (b)(2). Pub. L. 113–66 substituted “the congressional defense committees and the congressional intelligence committees (as defined in section 437(c) of this title).” for “the intelligence committees (as defined in section 437(d) of this title).”
 
-### § 433. Relationship with other Federal laws
+### § 433. Relationship with other Federal laws
 
 **(a) In General.—** Except as provided by subsection (b), a commercial activity conducted pursuant to this subchapter shall be carried out in accordance with applicable Federal law.
 
@@ -1235,15 +1235,15 @@ Pub. L. 102–88, title V, § 504(b), Aug. 14, 1991, 105 Stat. 440, provided t
 
 **(7)** Foreign trade or financial transaction restrictions that would reveal the commercial activity as an activity of the United States Government.
 
-(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 438.)
+(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 438.)
 
-### § 434. Reservation of defenses and immunities
+### § 434. Reservation of defenses and immunities
 
 The submission to judicial proceedings in a State or other legal jurisdiction, in connection with a commercial activity undertaken pursuant to this subchapter, shall not constitute a waiver of the defenses and immunities of the United States.
 
-(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 439.)
+(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 439.)
 
-### § 435. Limitations
+### § 435. Limitations
 
 **(a) Lawful Activities.—** Nothing in this subchapter authorizes the conduct of any intelligence activity that is not otherwise authorized by law or Executive order.
 
@@ -1257,9 +1257,9 @@ The submission to judicial proceedings in a State or other legal jurisdiction, i
 
 **(2)** In this subsection, the term “United States person” means an individual who is a citizen of the United States or an alien lawfully admitted to the United States for permanent residence.
 
-(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 439.)
+(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 439.)
 
-### § 436. Regulations
+### § 436. Regulations
 
 The Secretary of Defense shall prescribe regulations to implement the authority provided in this subchapter. Such regulations shall be consistent with this subchapter and shall at a minimum—
 
@@ -1275,7 +1275,7 @@ The Secretary of Defense shall prescribe regulations to implement the authority 
 
 **(6)** provide for appropriate internal audit controls and oversight for such activities.
 
-(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 439; amended Pub. L. 113–66, div. A, title IX, § 921(b), Dec. 26, 2013, 127 Stat. 827.)
+(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 439; amended Pub. L. 113–66, div. A, title IX, § 921(b), Dec. 26, 2013, 127 Stat. 827.)
 
 **Editorial Notes**
 
@@ -1283,7 +1283,7 @@ The Secretary of Defense shall prescribe regulations to implement the authority 
 
 2013—Par. (4). Pub. L. 113–66 substituted “Department of Defense” for “Defense Intelligence Agency” and “oversight” for “management and supervision”.
 
-### § 437. Congressional oversight
+### § 437. Congressional oversight
 
 **(a) Proposed Regulations.—** Copies of regulations proposed to be prescribed under section 436 of this title (including any proposed revision to such regulations) shall be submitted to congressional defense committees and the congressional intelligence committees not less than 30 days before they take effect.
 
@@ -1291,26 +1291,26 @@ The Secretary of Defense shall prescribe regulations to implement the authority 
 
 **(c) Congressional Intelligence Committees Defined.—** In this section, the term “congressional intelligence committees” has the meaning given the term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
-(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 440; amended Pub. L. 107–306, title VIII, § 811(b)(4)(A), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–136, div. A, title X, § 1031(a)(7), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 108–375, div. A, title X, § 1084(d)(3), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–81, div. A, title X, § 1061(5), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 113–66, div. A, title IX, § 921(c), Dec. 26, 2013, 127 Stat. 827.)
+(Added Pub. L. 102–88, title V, § 504(a)(2), Aug. 14, 1991, 105 Stat. 440; amended Pub. L. 107–306, title VIII, § 811(b)(4)(A), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–136, div. A, title X, § 1031(a)(7), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 108–375, div. A, title X, § 1084(d)(3), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–81, div. A, title X, § 1061(5), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 113–66, div. A, title IX, § 921(c), Dec. 26, 2013, 127 Stat. 827.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 113–66, § 921(c)(1), substituted “congressional defense committees and the congressional intelligence committees” for “the intelligence committees”.
+2013—Subsec. (a). Pub. L. 113–66, § 921(c)(1), substituted “congressional defense committees and the congressional intelligence committees” for “the intelligence committees”.
 
-Subsec. (b). Pub. L. 113–66, § 921(c)(2), substituted “The Secretary” for “Consistent with title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), the Secretary” and “congressional defense committees and the congressional intelligence committees” for “the intelligence committees”.
+Subsec. (b). Pub. L. 113–66, § 921(c)(2), substituted “The Secretary” for “Consistent with title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), the Secretary” and “congressional defense committees and the congressional intelligence committees” for “the intelligence committees”.
 
-Subsec. (c). Pub. L. 113–66, § 921(c)(3), added subsec. (c).
+Subsec. (c). Pub. L. 113–66, § 921(c)(3), added subsec. (c).
 
 2011—Subsec. (c). Pub. L. 112–81 struck out subsec. (c) which related to submission of an annual report on certain authorized commercial activities.
 
 2004—Subsec. (c). Pub. L. 108–375 inserted “(50 U.S.C. 415b)” after “National Security Act of 1947”.
 
-2003—Subsec. (b). Pub. L. 108–136, § 1031(a)(7)(A), struck out at end “The Secretary shall promptly notify the appropriate committees of Congress whenever a corporation, partnership, or other legal entity is established pursuant to this subchapter.”
+2003—Subsec. (b). Pub. L. 108–136, § 1031(a)(7)(A), struck out at end “The Secretary shall promptly notify the appropriate committees of Congress whenever a corporation, partnership, or other legal entity is established pursuant to this subchapter.”
 
-Subsec. (c). Pub. L. 108–136, § 1031(a)(7)(B), substituted “report) the following:” for “report)—” in introductory provisions, “A” for “a” in pars. (1) to (3), a period for the semicolon at end of par. (1) and for “; and” at end of par. (2), and added par. (4).
+Subsec. (c). Pub. L. 108–136, § 1031(a)(7)(B), substituted “report) the following:” for “report)—” in introductory provisions, “A” for “a” in pars. (1) to (3), a period for the semicolon at end of par. (1) and for “; and” at end of par. (2), and added par. (4).
 
-2002—Subsec. (c). Pub. L. 107–306, § 811(b)(4)(A)(i), in introductory provisions, substituted “Not later each year than the date provided in section 507 of the National Security Act of 1947, the Secretary shall submit to the congressional intelligence committees (as defined in section 3 of that Act (50 U.S.C. 401a))” for “Not later than January 15 of each year, the Secretary shall submit to the appropriate committees of Congress”.
+2002—Subsec. (c). Pub. L. 107–306, § 811(b)(4)(A)(i), in introductory provisions, substituted “Not later each year than the date provided in section 507 of the National Security Act of 1947, the Secretary shall submit to the congressional intelligence committees (as defined in section 3 of that Act (50 U.S.C. 401a))” for “Not later than January 15 of each year, the Secretary shall submit to the appropriate committees of Congress”.
 
-Subsec. (d). Pub. L. 107–306, § 811(b)(4)(A)(ii), struck out heading and text of subsec. (d). Text read as follows: “In this section, the term ‘intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
+Subsec. (d). Pub. L. 107–306, § 811(b)(4)(A)(ii), struck out heading and text of subsec. (d). Text read as follows: “In this section, the term ‘intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”

@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1999—Pub. L. 106–65, div. A, title X, § 1042(b), Oct. 5, 1999, 113 Stat. 760, added item 2723.
+1999—Pub. L. 106–65, div. A, title X, § 1042(b), Oct. 5, 1999, 113 Stat. 760, added item 2723.
 
-1991—Pub. L. 102–190, div. A, title X, § 1061(a)(17)(B), Dec. 5, 1991, 105 Stat. 1473, substituted “Property records: maintenance on quantitative and monetary basis” for “Basis” in item 2721.
+1991—Pub. L. 102–190, div. A, title X, § 1061(a)(17)(B), Dec. 5, 1991, 105 Stat. 1473, substituted “Property records: maintenance on quantitative and monetary basis” for “Basis” in item 2721.
 
-1990—Pub. L. 101–510, div. A, title XIII, § 1331(7), Nov. 5, 1990, 104 Stat. 1673, substituted “Basis” for “Basis: reports” in item 2721.
+1990—Pub. L. 101–510, div. A, title XIII, § 1331(7), Nov. 5, 1990, 104 Stat. 1673, substituted “Basis” for “Basis: reports” in item 2721.
 
-1988—Pub. L. 100–456, div. A, title III, § 344(b)(1), Sept. 29, 1988, 102 Stat. 1962, inserted “AND REPORT OF THEFT OR LOSS OF CERTAIN PROPERTY” in chapter heading and added item 2722.
+1988—Pub. L. 100–456, div. A, title III, § 344(b)(1), Sept. 29, 1988, 102 Stat. 1962, inserted “AND REPORT OF THEFT OR LOSS OF CERTAIN PROPERTY” in chapter heading and added item 2722.
 
-1986—Pub. L. 99–499, title II, § 211(a)(3), Oct. 17, 1986, 100 Stat. 1725, redesignated item 2701 as item 2721.
+1986—Pub. L. 99–499, title II, § 211(a)(3), Oct. 17, 1986, 100 Stat. 1725, redesignated item 2701 as item 2721.
 
-## § 2721. Property records: maintenance on quantitative and monetary basis
+## § 2721. Property records: maintenance on quantitative and monetary basis
 
 **(a)** Under regulations prescribed by him, the Secretary of Defense shall have the records of the fixed property, installations, major equipment items, and stored supplies of the military departments maintained on both a quantitative and a monetary basis, so far as practicable.
 
@@ -45,13 +45,13 @@ retrieved: 2026-10-11
 
 **(B)** the amounts obligated for such inventory purchases out of the corresponding appropriations account for the preceding fiscal year.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 152, § 2701; renumbered § 2721, Pub. L. 99–499, title II, § 211(a)(1)(A), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIII, § 1322(a)(12), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, § 347(b), title X, § 1061(a)(17)(A), Dec. 5, 1991, 105 Stat. 1347, 1473.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 152, § 2701; renumbered § 2721, Pub. L. 99–499, title II, § 211(a)(1)(A), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIII, § 1322(a)(12), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, § 347(b), title X, § 1061(a)(17)(A), Dec. 5, 1991, 105 Stat. 1347, 1473.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2701(a)   2701(b) | 5:172i (less last sentence). 5:172i (last sentence). | July 26, 1947, ch. 343, § 410; added Aug. 10, 1949, ch. 412, § 11(410), 63 Stat. 590. |
+| 2701(a) 2701(b) | 5:172i (less last sentence). 5:172i (last sentence). | July 26, 1947, ch. 343, § 410; added Aug. 10, 1949, ch. 412, § 11(410), 63 Stat. 590. |
 
 In subsection (a), the words “equipment” and “materials” are omitted, since the word “supplies”, as defined in section 101(26) of this title, includes equipment and materials. The word “stored” is substituted for the words “held in store by the armed services”.
 
@@ -61,9 +61,9 @@ In subsection (b), the words “on property records maintained under this sectio
 
 **Amendments**
 
-1991—Pub. L. 102–190, § 1061(a)(17)(A), substituted section catchline for one which read “Basis: reports”.
+1991—Pub. L. 102–190, § 1061(a)(17)(A), substituted section catchline for one which read “Basis: reports”.
 
-Pub. L. 102–190, § 347(b), designated existing provisions as subsec. (a) and added subsec. (b).
+Pub. L. 102–190, § 347(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
 1990—Pub. L. 101–510 struck out “(a)” before “Under regulations” and struck out subsec. (b) which read as follows: “The Secretary shall report once a year to Congress and the President on property records maintained under this section.”
 
@@ -71,11 +71,11 @@ Pub. L. 102–190, § 347(b), designated existing provisions as subsec. (a) an
 
 **Implementation of 1991 Amendment**
 
-Pub. L. 102–190, div. A, title III, § 347(c), Dec. 5, 1991, 105 Stat. 1347, provided that: “The Secretary of Defense shall establish the uniform system of valuation described in section 2458(a)(3) of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by section 2721(b) of such title (as added by subsection (b)), not later than 180 days after the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title III, § 347(c), Dec. 5, 1991, 105 Stat. 1347, provided that: “The Secretary of Defense shall establish the uniform system of valuation described in section 2458(a)(3) of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by section 2721(b) of such title (as added by subsection (b)), not later than 180 days after the date of the enactment of this Act [Dec. 5, 1991].”
 
 **Inventory Investigations**
 
-Pub. L. 100–456, div. A, title III, § 343, Sept. 29, 1988, 102 Stat. 1961, provided that:
+Pub. L. 100–456, div. A, title III, § 343, Sept. 29, 1988, 102 Stat. 1961, provided that:
 
 > **“(a) Undercover Investigations.—**
 
@@ -85,7 +85,7 @@ Pub. L. 100–456, div. A, title III, § 343, Sept. 29, 1988, 102 Stat. 1961, 
 
 > **“(b) Inventory Security Incident Repository.—** The Secretary of Defense shall establish and maintain a centralized computer system for recording and organizing information on theft, fraud, and breach of security and incidents involving the loss of Department of Defense supplies (including munitions).”
 
-## § 2722. Theft or loss of ammunition, destructive devices, and explosives: report to Secretary of the Treasury
+## § 2722. Theft or loss of ammunition, destructive devices, and explosives: report to Secretary of the Treasury
 
 **(a) In General.—** The Secretary of Defense shall report the theft or other loss of any ammunition, destructive device, or explosive material from the stocks of the Department of Defense to the Secretary of the Treasury within 72 hours, if possible, after the discovery of such theft or loss.
 
@@ -101,7 +101,7 @@ Pub. L. 100–456, div. A, title III, § 343, Sept. 29, 1988, 102 Stat. 1961, 
 
 **(2)** The terms “destructive device” and “ammunition” have the meanings given those terms by paragraphs (4) and (17), respectively, of section 921(a) of title 18.
 
-(Added Pub. L. 100–456, div. A, title III, § 344(a), Sept. 29, 1988, 102 Stat. 1961; amended Pub. L. 109–364, div. A, title X, § 1071(a)(24), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 100–456, div. A, title III, § 344(a), Sept. 29, 1988, 102 Stat. 1961; amended Pub. L. 109–364, div. A, title X, § 1071(a)(24), Oct. 17, 2006, 120 Stat. 2399.)
 
 **Editorial Notes**
 
@@ -113,11 +113,11 @@ Pub. L. 100–456, div. A, title III, § 343, Sept. 29, 1988, 102 Stat. 1961, 
 
 **Effective Date**
 
-Pub. L. 100–456, div. A, title III, § 344(c), Sept. 29, 1988, 102 Stat. 1962, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect with respect to thefts and losses discovered more than 180 days after the date of the enactment of this Act [Sept. 29, 1988].”
+Pub. L. 100–456, div. A, title III, § 344(c), Sept. 29, 1988, 102 Stat. 1962, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect with respect to thefts and losses discovered more than 180 days after the date of the enactment of this Act [Sept. 29, 1988].”
 
 **Incident Reporting Requirements for Department of Defense Regarding Lost or Stolen Weapons**
 
-Pub. L. 117–81, div. A, title III, § 363, Dec. 27, 2021, 135 Stat. 1661, as amended by Pub. L. 118–159, div. A, title III, § 342, Dec. 23, 2024, 138 Stat. 1857, provided that:
+Pub. L. 117–81, div. A, title III, § 363, Dec. 27, 2021, 135 Stat. 1661, as amended by Pub. L. 118–159, div. A, title III, § 342, Dec. 23, 2024, 138 Stat. 1857, provided that:
 
 > **“(a) In General.—** For each of fiscal years 2022 through 2029, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on security, control, thefts, losses, and recoveries of sensitive conventional arms, ammunition, and explosives (commonly referred to as ‘AA&E’) of the Department of Defense during such year, including the following:
 
@@ -189,7 +189,7 @@ Pub. L. 117–81, div. A, title III, § 363, Dec. 27, 2021, 135 Stat. 1661, as
 
 > **“(3)** the Committees on Armed Services of the Senate and the House of Representatives.”
 
-## § 2723. Notice to congressional committees of certain security and counterintelligence failures within defense programs
+## § 2723. Notice to congressional committees of certain security and counterintelligence failures within defense programs
 
 **(a) Required Notification.—** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a notification of each security or counterintelligence failure or compromise of classified information relating to any defense operation, system, or technology of the United States that the Secretary considers likely to cause significant harm or damage to the national security interests of the United States. The Secretary shall consult with the Director of National Intelligence and the Director of the Federal Bureau of Investigation, as appropriate, before submitting any such notification.
 
@@ -203,7 +203,7 @@ Pub. L. 117–81, div. A, title III, § 363, Dec. 27, 2021, 135 Stat. 1661, as
 
 **(2)** Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 (50 U.S.C. 3091).
 
-(Added Pub. L. 106–65, div. A, title X, § 1042(a), Oct. 5, 1999, 113 Stat. 759; amended Pub. L. 110–181, div. A, title IX, § 931(a)(13), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(12), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, § 1071(c)(12), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 106–65, div. A, title X, § 1042(a), Oct. 5, 1999, 113 Stat. 759; amended Pub. L. 110–181, div. A, title IX, § 931(a)(13), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(12), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, § 1071(c)(12), Dec. 19, 2014, 128 Stat. 3509.)
 
 **Editorial Notes**
 
@@ -211,12 +211,12 @@ Pub. L. 117–81, div. A, title III, § 363, Dec. 27, 2021, 135 Stat. 1661, as
 
 2014—Subsec. (d)(2). Pub. L. 113–291 substituted “(50 U.S.C. 3091)” for “(50 U.S.C. 413)”.
 
-2009—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(12). See 2008 Amendment note below.
+2009—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(12). See 2008 Amendment note below.
 
-2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(12), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(12), was repealed by Pub. L. 111–84. See 2009 Amendment note above.
+2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(12), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(12), was repealed by Pub. L. 111–84. See 2009 Amendment note above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided in part that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided in part that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.

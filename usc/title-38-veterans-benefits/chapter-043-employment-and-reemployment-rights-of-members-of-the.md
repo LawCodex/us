@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Codification**
 
-This chapter was originally added by Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1594, and amended by Pub. L. 94–286, May 14, 1976, 90 Stat. 517; Pub. L. 94–502, Oct. 15, 1976, 90 Stat. 2383; Pub. L. 96–466, Oct. 17, 1980, 94 Stat. 2171; Pub. L. 97–295, Oct. 12, 1982, 96 Stat. 1287; Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 99–576, Oct. 28, 1986, 100 Stat. 3248; Pub. L. 102–12, Mar. 18, 1991, 105 Stat. 34; Pub. L. 102–25, Apr. 6, 1991, 105 Stat. 75; Pub. L. 102–568, Oct. 29, 1992, 106 Stat. 4320. This chapter is shown here, however, as having been added by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150, without reference to those intervening amendments because of the general amendment of this chapter by Pub. L. 103–353.
+This chapter was originally added by Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1594, and amended by Pub. L. 94–286, May 14, 1976, 90 Stat. 517; Pub. L. 94–502, Oct. 15, 1976, 90 Stat. 2383; Pub. L. 96–466, Oct. 17, 1980, 94 Stat. 2171; Pub. L. 97–295, Oct. 12, 1982, 96 Stat. 1287; Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 99–576, Oct. 28, 1986, 100 Stat. 3248; Pub. L. 102–12, Mar. 18, 1991, 105 Stat. 34; Pub. L. 102–25, Apr. 6, 1991, 105 Stat. 75; Pub. L. 102–568, Oct. 29, 1992, 106 Stat. 4320. This chapter is shown here, however, as having been added by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150, without reference to those intervening amendments because of the general amendment of this chapter by Pub. L. 103–353.
 
-A prior chapter 43 “Mustering-Out Payments”, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, 1223, consisted of sections 2101 to 2105, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173.
+A prior chapter 43 “Mustering-Out Payments”, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, 1223, consisted of sections 2101 to 2105, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173.
 
 **Amendments**
 
-2008—Pub. L. 110–389, title III, §§ 311(f)(2), 313(b), Oct. 10, 2008, 122 Stat. 4164, 4167, added items 4327 and 4335.
+2008—Pub. L. 110–389, title III, §§ 311(f)(2), 313(b), Oct. 10, 2008, 122 Stat. 4164, 4167, added items 4327 and 4335.
 
-2004—Pub. L. 108–454, title II, § 203(b), Dec. 10, 2004, 118 Stat. 3606, added item 4334.
+2004—Pub. L. 108–454, title II, § 203(b), Dec. 10, 2004, 118 Stat. 3606, added item 4334.
 
-1998—Pub. L. 105–368, title II, § 212(b)(2), Nov. 11, 1998, 112 Stat. 3331, added item 4319.
+1998—Pub. L. 105–368, title II, § 212(b)(2), Nov. 11, 1998, 112 Stat. 3331, added item 4319.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 4301. Purposes; sense of Congress
+### § 4301. Purposes; sense of Congress
 
 **(a)** The purposes of this chapter are—
 
@@ -45,13 +45,13 @@ A prior chapter 43 “Mustering-Out Payments”, Pub. L. 85–857, Sept. 2, 1958
 
 **(b)** It is the sense of Congress that the Federal Government should be a model employer in carrying out the provisions of this chapter.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, § 311(1), Oct. 9, 1996, 110 Stat. 3333; Pub. L. 118–210, title II, § 221(a), Jan. 2, 2025, 138 Stat. 2778.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, § 311(1), Oct. 9, 1996, 110 Stat. 3333; Pub. L. 118–210, title II, § 221(a), Jan. 2, 2025, 138 Stat. 2778.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4301, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1594, § 2021; amended Pub. L. 94–502, title VI, § 608(1), (2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 99–576, title III, § 331, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 102–12, § 5(a), Mar. 18, 1991, 105 Stat. 36; Pub. L. 102–25, title III, § 340(a), Apr. 6, 1991, 105 Stat. 92; renumbered § 4301, Pub. L. 102–568, title V, § 506(a), Oct. 29, 1992, 106 Stat. 4340, related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date note below.
+A prior section 4301, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1594, § 2021; amended Pub. L. 94–502, title VI, § 608(1), (2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 99–576, title III, § 331, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 102–12, § 5(a), Mar. 18, 1991, 105 Stat. 36; Pub. L. 102–25, title III, § 340(a), Apr. 6, 1991, 105 Stat. 92; renumbered § 4301, Pub. L. 102–568, title V, § 506(a), Oct. 29, 1992, 106 Stat. 4340, related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date note below.
 
 Another prior section 4301 was renumbered section 7601 of this title.
 
@@ -65,15 +65,15 @@ Another prior section 4301 was renumbered section 7601 of this title.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–275, title III, § 313, Oct. 9, 1996, 110 Stat. 3336, provided that:
+Pub. L. 104–275, title III, § 313, Oct. 9, 1996, 110 Stat. 3336, provided that:
 
-> **“(a) In General.—** Except as provided in subsection (b), the amendments made by this subtitle [subtitle B (§§ 311–313) of title III of Pub. L. 104–275, amending this section, sections 4303, 4311 to 4313, 4316 to 4318, and 4322 to 4326 of this title, and provisions set out as a note below] shall take effect as of October 13, 1994.
+> **“(a) In General.—** Except as provided in subsection (b), the amendments made by this subtitle [subtitle B (§§ 311–313) of title III of Pub. L. 104–275, amending this section, sections 4303, 4311 to 4313, 4316 to 4318, and 4322 to 4326 of this title, and provisions set out as a note below] shall take effect as of October 13, 1994.
 
 > **“(b) Reorganized Title 10 References.—** The amendments made by clause (i), and subclauses (I), (III), and (IV) of clause (ii), of section 311(4)(B) [amending section 4312 of this title] shall take effect as of December 1, 1994.”
 
 **Effective Date**
 
-Pub. L. 103–353, § 8, Oct. 13, 1994, 108 Stat. 3175, as amended by Pub. L. 104–275, title III, § 312, Oct. 9, 1996, 110 Stat. 3336, provided that:
+Pub. L. 103–353, § 8, Oct. 13, 1994, 108 Stat. 3175, as amended by Pub. L. 104–275, title III, § 312, Oct. 9, 1996, 110 Stat. 3336, provided that:
 
 > **“(a) Reemployment.—**
 
@@ -115,7 +115,7 @@ Pub. L. 103–353, § 8, Oct. 13, 1994, 108 Stat. 3175, as amended by Pub. L. 
 
 **Demonstration Project for Referral of USERRA Claims Against Federal Agencies to the Office of Special Counsel**
 
-Pub. L. 111–275, title I, § 105, Oct. 13, 2010, 124 Stat. 2868, as amended by Pub. L. 112–234, § 2(d), Dec. 28, 2012, 126 Stat. 1624, provided that:
+Pub. L. 111–275, title I, § 105, Oct. 13, 2010, 124 Stat. 2868, as amended by Pub. L. 112–234, § 2(d), Dec. 28, 2012, 126 Stat. 1624, provided that:
 
 > **“(a) Establishment of Project.—** The Secretary of Labor and the Office of Special Counsel shall carry out a 36-month demonstration project under which certain claims against Federal executive agencies under chapter 43 of title 38, United States Code, are referred to, or otherwise received by, the Office of Special Counsel for assistance, including investigation and resolution of the claim as well as enforcement of rights with respect to the claim. The demonstration program shall begin not later than 60 days after the Comptroller General of the United States submits the report required under subsection (e)(3).
 
@@ -177,7 +177,7 @@ Pub. L. 111–275, title I, § 105, Oct. 13, 2010, 124 Stat. 2868, as amended 
 
 > **“(2)** not later than 90 days after the conclusion of the demonstration project, submit to such committees a final report that includes the findings and conclusions of the Comptroller General regarding the relative performance of the Office and the Department under the demonstration project and such recommendations as the Comptroller General determines are appropriate.”
 
-Pub. L. 108–454, title II, § 204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
+Pub. L. 108–454, title II, § 204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
 
 **Executive Documents**
 
@@ -271,19 +271,19 @@ The Director of the Office of Personnel Management is hereby authorized and dire
 
 Barack Obama.
 
-### § 4302. Relation to other law and plans or agreements
+### § 4302. Relation to other law and plans or agreements
 
 **(a)** Nothing in this chapter shall supersede, nullify or diminish any Federal or State law (including any local law or ordinance), contract, agreement, policy, plan, practice, or other matter that establishes a right or benefit that is more beneficial to, or is in addition to, a right or benefit provided for such person in this chapter.
 
 **(b)** This chapter supersedes any State law (including any local law or ordinance), contract, agreement, policy, plan, practice, or other matter that reduces, limits, or eliminates in any manner any right or benefit provided by this chapter, including the establishment of additional prerequisites to the exercise of any such right or the receipt of any such benefit.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4302, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1596, § 2022; amended Pub. L. 97–295, § 4(71), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 98–620, title IV, § 402(36), Nov. 8, 1984, 98 Stat. 3360; renumbered § 4302 and amended Pub. L. 102–568, title V, § 506(a), (c)(1), Oct. 29, 1992, 106 Stat. 4340, 4341, related to procedures to enforce reemployment rights, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
+A prior section 4302, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1596, § 2022; amended Pub. L. 97–295, § 4(71), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 98–620, title IV, § 402(36), Nov. 8, 1984, 98 Stat. 3360; renumbered § 4302 and amended Pub. L. 102–568, title V, § 506(a), (c)(1), Oct. 29, 1992, 106 Stat. 4340, 4341, related to procedures to enforce reemployment rights, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
 
 Another prior section 4302 was renumbered section 7602 of this title.
 
@@ -293,7 +293,7 @@ Another prior section 4302 was renumbered section 7602 of this title.
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4303. Definitions
+### § 4303. Definitions
 
 For the purposes of this chapter—
 
@@ -401,59 +401,59 @@ For the purposes of this chapter—
 
 **(17)** The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the Commissioned Corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1)) or to train for such service, and any other category of persons designated by the President in time of war or national emergency.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, § 311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, § 212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, § 323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, § 8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–275, title VII, §§ 701(a), 702(a), Oct. 13, 2010, 124 Stat. 2887; Pub. L. 112–56, title II, § 251, Nov. 21, 2011, 125 Stat. 729; Pub. L. 114–326, § 2(b)(2), Dec. 16, 2016, 130 Stat. 1972; Pub. L. 116–259, title II, § 208, Dec. 23, 2020, 134 Stat. 1168; Pub. L. 116–315, title VII, § 7004, Jan. 5, 2021, 134 Stat. 5058; Pub. L. 117–178, § 3(a), Sept. 29, 2022, 136 Stat. 2110; Pub. L. 117–263, div. E, title LI, § 5121, Dec. 23, 2022, 136 Stat. 3210.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, § 311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, § 212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, § 323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, § 8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–275, title VII, §§ 701(a), 702(a), Oct. 13, 2010, 124 Stat. 2887; Pub. L. 112–56, title II, § 251, Nov. 21, 2011, 125 Stat. 729; Pub. L. 114–326, § 2(b)(2), Dec. 16, 2016, 130 Stat. 1972; Pub. L. 116–259, title II, § 208, Dec. 23, 2020, 134 Stat. 1168; Pub. L. 116–315, title VII, § 7004, Jan. 5, 2021, 134 Stat. 5058; Pub. L. 117–178, § 3(a), Sept. 29, 2022, 136 Stat. 2110; Pub. L. 117–263, div. E, title LI, § 5121, Dec. 23, 2022, 136 Stat. 3210.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in par. (13), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in par. (13), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in pars. (13) and (17), is classified to section 5165f of Title 42, The Public Health and Welfare.
 
 **Prior Provisions**
 
-A prior section 4303, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1596, § 2023; amended Pub. L. 97–295, § 4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered § 4303 and amended Pub. L. 102–568, title V, § 506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
+A prior section 4303, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1596, § 2023; amended Pub. L. 97–295, § 4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered § 4303 and amended Pub. L. 102–568, title V, § 506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
 
 Another prior section 4303 was renumbered section 7603 of this title.
 
 **Amendments**
 
-2022—Par. (5). Pub. L. 117–263, § 5121(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘Federal executive agency’ includes the United States Postal Service, the Postal Regulatory Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.”
+2022—Par. (5). Pub. L. 117–263, § 5121(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘Federal executive agency’ includes the United States Postal Service, the Postal Regulatory Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.”
 
-Par. (13). Pub. L. 117–178, § 3(a)(1), inserted “, a period for which a person is absent from a position of employment due to an appointment into service in the Federal Emergency Management Agency as intermittent personnel under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1))” before “, and a period”.
+Par. (13). Pub. L. 117–178, § 3(a)(1), inserted “, a period for which a person is absent from a position of employment due to an appointment into service in the Federal Emergency Management Agency as intermittent personnel under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1))” before “, and a period”.
 
-Par. (16). Pub. L. 117–178, § 3(a)(2), redesignated par. (16) defining “uniformed services” as (17).
+Par. (16). Pub. L. 117–178, § 3(a)(2), redesignated par. (16) defining “uniformed services” as (17).
 
-Par. (17). Pub. L. 117–263, § 5121(b), substituted “Commissioned Corps of the Public Health Service” for “commissioned corps of the Public Health Service”.
+Par. (17). Pub. L. 117–263, § 5121(b), substituted “Commissioned Corps of the Public Health Service” for “commissioned corps of the Public Health Service”.
 
-Pub. L. 117–178, § 3(a)(2), (3), redesignated par. (16) defining “uniformed services” as (17) and inserted “intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1)) or to train for such service,” before “and any other category”.
+Pub. L. 117–178, § 3(a)(2), (3), redesignated par. (16) defining “uniformed services” as (17) and inserted “intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1)) or to train for such service,” before “and any other category”.
 
-2021—Par. (13). Pub. L. 116–315, § 7004(1), inserted “State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170),” after “full-time National Guard duty,”.
+2021—Par. (13). Pub. L. 116–315, § 7004(1), inserted “State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170),” after “full-time National Guard duty,”.
 
-Pars. (15), (16). Pub. L. 116–315, § 7004(2), (3), added par. (15) and redesignated former par. (15) as (16) defining “undue hardship”.
+Pars. (15), (16). Pub. L. 116–315, § 7004(2), (3), added par. (15) and redesignated former par. (15) as (16) defining “undue hardship”.
 
 2020—Par. (16). Pub. L. 116–259 inserted “the commissioned officer corps of the National Oceanic and Atmospheric Administration,” after “Public Health Service,” in par. (16) defining “uniformed services”.
 
-2016—Par. (13). Pub. L. 114–326, § 2(b)(2)(A), inserted “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act” before “, and a period”.
+2016—Par. (13). Pub. L. 114–326, § 2(b)(2)(A), inserted “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act” before “, and a period”.
 
-Par. (16). Pub. L. 114–326, § 2(b)(2)(B), inserted “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act,” after “Public Health Service,”.
+Par. (16). Pub. L. 114–326, § 2(b)(2)(B), inserted “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act,” after “Public Health Service,”.
 
 2011—Par. (2). Pub. L. 112–56 inserted “the terms, conditions, or privileges of employment, including” after “means”.
 
-2010—Par. (2). Pub. L. 111–275, § 701(a), substituted “(including” for “(other than”.
+2010—Par. (2). Pub. L. 111–275, § 701(a), substituted “(including” for “(other than”.
 
-Par. (4)(D). Pub. L. 111–275, § 702(a), added subpar. (D).
+Par. (4)(D). Pub. L. 111–275, § 702(a), added subpar. (D).
 
 2006—Par. (5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2001—Par. (13). Pub. L. 107–14, § 8(b)(2), made technical amendment to directory language of Pub. L. 106–419, § 323(a)(1). See 2000 Amendment note below.
+2001—Par. (13). Pub. L. 107–14, § 8(b)(2), made technical amendment to directory language of Pub. L. 106–419, § 323(a)(1). See 2000 Amendment note below.
 
-Pub. L. 107–14, § 8(a)(11), struck out second period at end.
+Pub. L. 107–14, § 8(a)(11), struck out second period at end.
 
-2000—Par. (13). Pub. L. 106–419, § 323(a)(2), inserted before period at end “, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.”
+2000—Par. (13). Pub. L. 106–419, § 323(a)(2), inserted before period at end “, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.”
 
-Pub. L. 106–419, § 323(a)(1), as amended by Pub. L. 107–14, § 8(b)(2), struck out “and” after “National Guard duty,”.
+Pub. L. 106–419, § 323(a)(1), as amended by Pub. L. 107–14, § 8(b)(2), struck out “and” after “National Guard duty,”.
 
 1998—Par. (3). Pub. L. 105–368 inserted at end “Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.”
 
@@ -463,7 +463,7 @@ Pub. L. 106–419, § 323(a)(1), as amended by Pub. L. 107–14, § 8(b)(2),
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VII, § 701(b), Oct. 13, 2010, 124 Stat. 2887, provided that:
+Pub. L. 111–275, title VII, § 701(b), Oct. 13, 2010, 124 Stat. 2887, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall apply to—
 
@@ -471,7 +471,7 @@ Pub. L. 111–275, title VII, § 701(b), Oct. 13, 2010, 124 Stat. 2887, provid
 
 > **“(2)** all actions or complaints filed under such chapter 43 that are pending on or after the date of the enactment of this Act.”
 
-Pub. L. 111–275, title VII, § 702(b), Oct. 13, 2010, 124 Stat. 2888, provided that:
+Pub. L. 111–275, title VII, § 702(b), Oct. 13, 2010, 124 Stat. 2888, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall apply to—
 
@@ -481,15 +481,15 @@ Pub. L. 111–275, title VII, § 702(b), Oct. 13, 2010, 124 Stat. 2888, provid
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–14, § 8(b), June 5, 2001, 115 Stat. 36, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
+Pub. L. 107–14, § 8(b), June 5, 2001, 115 Stat. 36, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–419, title III, § 323(c), Nov. 1, 2000, 114 Stat. 1856, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4316 of this title] shall take effect 180 days after the date of the enactment of this Act [Nov. 1, 2000].”
+Pub. L. 106–419, title III, § 323(c), Nov. 1, 2000, 114 Stat. 1856, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4316 of this title] shall take effect 180 days after the date of the enactment of this Act [Nov. 1, 2000].”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title II, § 212(c), Nov. 11, 1998, 112 Stat. 3331, provided that: “The amendments made by this section [enacting section 4319 of this title and amending this section] shall apply only with respect to causes of action arising after the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title II, § 212(c), Nov. 11, 1998, 112 Stat. 3331, provided that: “The amendments made by this section [enacting section 4319 of this title and amending this section] shall apply only with respect to causes of action arising after the date of the enactment of this Act [Nov. 11, 1998].”
 
 **Effective Date of 1996 Amendment**
 
@@ -499,7 +499,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4304. Character of service
+### § 4304. Character of service
 
 A person’s entitlement to the benefits of this chapter by reason of the service of such person in one of the uniformed services terminates upon the occurrence of any of the following events:
 
@@ -511,7 +511,7 @@ A person’s entitlement to the benefits of this chapter by reason of the servic
 
 **(4)** A dropping of such person from the rolls pursuant to section 1161(b) of title 10.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3152.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3152.)
 
 **Editorial Notes**
 
@@ -519,15 +519,15 @@ A person’s entitlement to the benefits of this chapter by reason of the servic
 
 Prior sections 4304 to 4306 were omitted in the general amendment of this chapter by Pub. L. 103–353. Those sections, as in effect on the day before Oct. 13, 1994, continue to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
 
-Section 4304, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1598, § 2024; amended Pub. L. 94–286, § 2, May 14, 1976, 90 Stat. 518; Pub. L. 94–502, title VI, § 608(3), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, § 511, Oct. 17, 1980, 94 Stat. 2207; Pub. L. 99–576, title VII, § 701(60), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 102–12, § 8(a)(1), (b)(1), Mar. 18, 1991, 105 Stat. 38; renumbered § 4304 and amended Pub. L. 102–568, title V, § 506(a), (c)(3), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment rights of persons who enlist in the Armed Forces or enter upon active duty.
+Section 4304, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1598, § 2024; amended Pub. L. 94–286, § 2, May 14, 1976, 90 Stat. 518; Pub. L. 94–502, title VI, § 608(3), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, § 511, Oct. 17, 1980, 94 Stat. 2207; Pub. L. 99–576, title VII, § 701(60), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 102–12, § 8(a)(1), (b)(1), Mar. 18, 1991, 105 Stat. 38; renumbered § 4304 and amended Pub. L. 102–568, title V, § 506(a), (c)(3), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment rights of persons who enlist in the Armed Forces or enter upon active duty.
 
 Another prior section 4304 was renumbered section 7604 of this title.
 
-Section 4305, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1600, § 2025; renumbered § 4305, Pub. L. 102–568, title V, § 506(a), Oct. 29, 1992, 106 Stat. 4340, directed the Secretary of Labor, through the Office of Veterans’ Reemployment Rights, to render assistance in obtaining reemployment.
+Section 4305, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1600, § 2025; renumbered § 4305, Pub. L. 102–568, title V, § 506(a), Oct. 29, 1992, 106 Stat. 4340, directed the Secretary of Labor, through the Office of Veterans’ Reemployment Rights, to render assistance in obtaining reemployment.
 
-Section 4306, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1600, § 2026; renumbered § 4306, Pub. L. 102–568, title V, § 506(a), Oct. 29, 1992, 106 Stat. 4340, related to prior rights for reemployment in a case in which more than one person is entitled to be reemployed.
+Section 4306, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1600, § 2026; renumbered § 4306, Pub. L. 102–568, title V, § 506(a), Oct. 29, 1992, 106 Stat. 4340, related to prior rights for reemployment in a case in which more than one person is entitled to be reemployed.
 
-A prior section 4307, added Pub. L. 102–25, title III, § 339(a), Apr. 6, 1991, 105 Stat. 91, § 2027; renumbered § 4307, Pub. L. 102–568, title V, § 506(a), Oct. 29, 1992, 106 Stat. 4340, related to qualification for employment position, prior to repeal by Pub. L. 103–353, § 8(d)(2), Oct. 13, 1994, 108 Stat. 3176, eff. Aug. 1, 1990.
+A prior section 4307, added Pub. L. 102–25, title III, § 339(a), Apr. 6, 1991, 105 Stat. 91, § 2027; renumbered § 4307, Pub. L. 102–568, title V, § 506(a), Oct. 29, 1992, 106 Stat. 4340, related to qualification for employment position, prior to repeal by Pub. L. 103–353, § 8(d)(2), Oct. 13, 1994, 108 Stat. 3176, eff. Aug. 1, 1990.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -537,7 +537,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 ## SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
-### § 4311. Discrimination against persons who serve in the uniformed services and acts of reprisal prohibited
+### § 4311. Discrimination against persons who serve in the uniformed services and acts of reprisal prohibited
 
 **(a)** A person who is a member of, applies to be a member of, performs, has performed, applies to perform, or has an obligation to perform service in a uniformed service shall not be denied initial employment, reemployment, retention in employment, promotion, or any benefit of employment by an employer on the basis of that membership, application for membership, performance of service, application for service, or obligation.
 
@@ -551,7 +551,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(d)** The prohibitions in subsections (a) and (b) shall apply to any position of employment, including a position that is described in section 4312(d)(1)(C) of this title.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, § 311(3), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 118–210, title II, § 221(b), Jan. 2, 2025, 138 Stat. 2778.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, § 311(3), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 118–210, title II, § 221(b), Jan. 2, 2025, 138 Stat. 2778.)
 
 **Editorial Notes**
 
@@ -581,7 +581,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4312. Reemployment rights of persons who serve in the uniformed services
+### § 4312. Reemployment rights of persons who serve in the uniformed services
 
 **(a)** Subject to subsections (b), (c), and (d) and to section 4304, any person whose absence from a position of employment is necessitated by reason of service in the uniformed services shall be entitled to the reemployment rights and benefits and other employment benefits of this chapter if—
 
@@ -601,7 +601,7 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 
 **(B)** for persons performing service to the Federal Emergency Management Agency under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165f) and as intermittent personnel under section 306(b)(1) of such Act (42 U.S.C. 5149(b)(1)), by the Administrator of the Federal Emergency Management Agency as described in sections 327(j)(2) and 306(d)(2) of such Act (42 U.S.C. 5165f(j)(2) and 5149(d)(2)),1
 
-<sup>1</sup>  So in original. The closing parenthesis probably should follow “respectively”.
+<sup>1</sup> So in original. The closing parenthesis probably should follow “respectively”.
 
 respectively; or
 
@@ -619,9 +619,9 @@ respectively; or
 
 **(4)** performed by a member of a uniformed service who is—
 
-**(A)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 2
+**(A)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 14;
 
@@ -631,7 +631,7 @@ of title 14;
 
 **(D)** ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services;
 
-**(E)** called into Federal service as a member of the National Guard under chapter 15 <sup>2</sup> of title 10 or under section 12406 of title 10; or
+**(E)** called into Federal service as a member of the National Guard under chapter 15 <sup>2</sup> of title 10 or under section 12406 of title 10; or
 
 **(F)** ordered to full-time National Guard duty (other than for training) under section 502(f)(2)(A) of title 32 when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds, as determined by the Secretary concerned.
 
@@ -703,15 +703,15 @@ the employer shall have the burden of proving the impossibility or unreasonablen
 
 **(h)** In any determination of a person’s entitlement to protection under this chapter, the timing, frequency, and duration of the person’s training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, § 311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, § 575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, § 562, Nov. 25, 2015, 129 Stat. 829; Pub. L. 117–178, § 3(b), Sept. 29, 2022, 136 Stat. 2111.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, § 311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, § 575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, § 562, Nov. 25, 2015, 129 Stat. 829; Pub. L. 117–178, § 3(b), Sept. 29, 2022, 136 Stat. 2111.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 331, 332, 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(4)(A), were redesignated sections 2127, 2128, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§ 112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to section 331, 332, 359, 360, 367, or 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
+Sections 331, 332, 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(4)(A), were redesignated sections 2127, 2128, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§ 112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to section 331, 332, 359, 360, 367, or 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
-Chapter 15 of title 10, referred to in subsec. (c)(4)(E), was redesignated chapter 13 of title 10 by Pub. L. 114–328, div. A, title XII, § 1241(a)(1), Dec. 23, 2016, 130 Stat. 2497.
+Chapter 15 of title 10, referred to in subsec. (c)(4)(E), was redesignated chapter 13 of title 10 by Pub. L. 114–328, div. A, title XII, § 1241(a)(1), Dec. 23, 2016, 130 Stat. 2497.
 
 **Prior Provisions**
 
@@ -725,19 +725,19 @@ A prior section 4312 was renumbered section 7612 of this title.
 
 2011—Subsec. (c)(4)(F). Pub. L. 112–81 added subpar. (F).
 
-1996—Subsec. (a). Pub. L. 104–275, § 311(4)(A), substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.
+1996—Subsec. (a). Pub. L. 104–275, § 311(4)(A), substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.
 
-Subsec. (c)(3). Pub. L. 104–275, § 311(4)(B)(i), substituted “section 10147” for “section 270”.
+Subsec. (c)(3). Pub. L. 104–275, § 311(4)(B)(i), substituted “section 10147” for “section 270”.
 
-Subsec. (c)(4)(A). Pub. L. 104–275, § 311(4)(B)(ii)(I), substituted “section 688, 12301(a), 12301(g), 12302, 12304, or 12305” for “section 672(a), 672(g), 673, 673b, 673c, or 688”.
+Subsec. (c)(4)(A). Pub. L. 104–275, § 311(4)(B)(ii)(I), substituted “section 688, 12301(a), 12301(g), 12302, 12304, or 12305” for “section 672(a), 672(g), 673, 673b, 673c, or 688”.
 
-Subsec. (c)(4)(B). Pub. L. 104–275, § 311(4)(B)(ii)(II), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ordered to or retained on active duty (other than for training) under any provision of law during a war or during a national emergency declared by the President or the Congress;”.
+Subsec. (c)(4)(B). Pub. L. 104–275, § 311(4)(B)(ii)(II), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ordered to or retained on active duty (other than for training) under any provision of law during a war or during a national emergency declared by the President or the Congress;”.
 
-Subsec. (c)(4)(C). Pub. L. 104–275, § 311(4)(B)(ii)(III), substituted “section 12304” for “section 673b”.
+Subsec. (c)(4)(C). Pub. L. 104–275, § 311(4)(B)(ii)(III), substituted “section 12304” for “section 673b”.
 
-Subsec. (c)(4)(E). Pub. L. 104–275, § 311(4)(B)(ii)(IV), substituted “section 12406” for “section 3500 or 8500”.
+Subsec. (c)(4)(E). Pub. L. 104–275, § 311(4)(B)(ii)(IV), substituted “section 12406” for “section 3500 or 8500”.
 
-Subsec. (d)(2)(C). Pub. L. 104–275, § 311(4)(C), substituted “is for a brief, nonrecurrent period and there is no reasonable expectation” for “is brief or for a nonrecurrent period and without a reasonable expectation”.
+Subsec. (d)(2)(C). Pub. L. 104–275, § 311(4)(C), substituted “is for a brief, nonrecurrent period and there is no reasonable expectation” for “is brief or for a nonrecurrent period and without a reasonable expectation”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -749,7 +749,7 @@ Amendment by section 311(4)(A), (B)(ii)(II), (C) of Pub. L. 104–275 effective 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, and with provisions relating to satisfaction of the notification requirement of subsec. (a)(1) of this section, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4313. Reemployment positions
+### § 4313. Reemployment positions
 
 **(a)** Subject to subsection (b) (in the case of any employee) and sections 4314 and 4315 (in the case of an employee of the Federal Government), a person entitled to reemployment under section 4312, upon completion of a period of service in the uniformed services, shall be promptly reemployed in a position of employment in accordance with the following order of priority:
 
@@ -783,7 +783,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(B)** In the case of a person who has a disability incurred in, or aggravated during, a period of service in the uniformed services that requires reasonable efforts by the employer for the person to be able to perform the duties of the position of employment, in any other position referred to in subsection (a)(3) (in the order of priority set out in that subsection) that provides a similar status and pay to a position referred to in paragraph (1) of this subsection, consistent with circumstances of such person’s case, with full seniority.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3157; amended Pub. L. 104–275, title III, § 311(5), Oct. 9, 1996, 110 Stat. 3335.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3157; amended Pub. L. 104–275, title III, § 311(5), Oct. 9, 1996, 110 Stat. 3335.)
 
 **Editorial Notes**
 
@@ -805,7 +805,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that subsec. (a)(3) of this section applicable to reemployments initiated on or after Aug. 1, 1990, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4314. Reemployment by the Federal Government
+### § 4314. Reemployment by the Federal Government
 
 **(a)** Except as provided in subsections (b), (c), and (d), if a person is entitled to reemployment by the Federal Government under section 4312, such person shall be reemployed in a position of employment as described in section 4313.
 
@@ -827,7 +827,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(d)** If the adjutant general of a State determines that it is impossible or unreasonable to reemploy a person who was a National Guard technician employed under section 709 of title 32, such person shall, upon application to the Director of the Office of Personnel Management, be ensured an offer of employment in an alternative position in a Federal executive agency on the basis described in subsection (b).
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3158.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3158.)
 
 **Editorial Notes**
 
@@ -841,7 +841,7 @@ A prior section 4314 was renumbered section 7614 of this title.
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4315. Reemployment by certain Federal agencies
+### § 4315. Reemployment by certain Federal agencies
 
 **(a)** The head of each agency referred to in section 2302(a)(2)(C)(ii) of title 5 shall prescribe procedures for ensuring that the rights under this chapter apply to the employees of such agency.
 
@@ -875,7 +875,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(3)** the person submits an application to the Director for an offer of employment under this subsection.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3159.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3159.)
 
 **Editorial Notes**
 
@@ -889,7 +889,7 @@ A prior section 4315 was renumbered section 7615 of this title.
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4316. Rights, benefits, and obligations of persons absent from employment for service in a uniformed service
+### § 4316. Rights, benefits, and obligations of persons absent from employment for service in a uniformed service
 
 **(a)** A person who is reemployed under this chapter is entitled to the seniority and other rights and benefits determined by seniority that the person had on the date of the commencement of service in the uniformed services plus the additional seniority and rights and benefits that such person would have attained if the person had remained continuously employed.
 
@@ -935,7 +935,7 @@ is not entitled to rights and benefits under paragraph (1)(B).
 
 **(2)** For purposes of section 4312(e)(1) of this title, an employee who takes an authorized leave of absence under paragraph (1) is deemed to have notified the employer of the employee’s intent to return to such position of employment.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3160; amended Pub. L. 104–275, title III, § 311(6), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 106–419, title III, § 323(b), Nov. 1, 2000, 114 Stat. 1855.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3160; amended Pub. L. 104–275, title III, § 311(6), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 106–419, title III, § 323(b), Nov. 1, 2000, 114 Stat. 1855.)
 
 **Editorial Notes**
 
@@ -963,7 +963,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that the provisions concerning insurance coverage (other than health) are effective with respect to furloughs or leaves of absence initiated on or after Oct. 13, 1994, and subsec. (b)(2) of this section is applicable only to the rights and benefits provided in subsec. (b)(1)(B) of this section and to persons who leave a position of employment for service in the uniformed services more than 60 days after Oct. 13, 1994, and not applicable to any other right or benefit of a person under this chapter, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4317. Health plans
+### § 4317. Health plans
 
 **(a)**
 
@@ -993,7 +993,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(3)** In the case of a person whose coverage under a health plan is terminated by reason of the person having become eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title but who subsequently does not commence a period of active duty under the order to active duty that established such eligibility because the order is canceled before such active duty commences, the provisions of paragraph (1) relating to any exclusion or waiting period in connection with the reinstatement of coverage under a health plan shall apply to such person’s continued employment, upon the termination of such eligibility for medical and dental care under chapter 55 of title 10 that is incident to the cancellation of such order, in the same manner as if the person had become reemployed upon such termination of eligibility.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3161; amended Pub. L. 104–275, title III, § 311(7), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 108–454, title II, § 201(a), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 109–233, title III, § 303, June 15, 2006, 120 Stat. 406.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3161; amended Pub. L. 104–275, title III, § 311(7), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 108–454, title II, § 201(a), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 109–233, title III, § 303, June 15, 2006, 120 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1009,11 +1009,11 @@ A prior section 4317 was renumbered section 7617 of this title.
 
 **Amendments**
 
-2006—Subsec. (a)(1). Pub. L. 109–233, § 303(a), inserted “or such person becomes eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title,” after “by reason of service in the uniformed services,”.
+2006—Subsec. (a)(1). Pub. L. 109–233, § 303(a), inserted “or such person becomes eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title,” after “by reason of service in the uniformed services,”.
 
-Subsec. (b)(1). Pub. L. 109–233, § 303(b)(1), inserted “or by reason of the person’s having become eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title,” after “by reason of service in the uniformed services,” and “or eligibility” after “such service”.
+Subsec. (b)(1). Pub. L. 109–233, § 303(b)(1), inserted “or by reason of the person’s having become eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title,” after “by reason of service in the uniformed services,” and “or eligibility” after “such service”.
 
-Subsec. (b)(3). Pub. L. 109–233, § 303(b)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 109–233, § 303(b)(2), added par. (3).
 
 2004—Subsec. (a)(1)(A). Pub. L. 108–454 substituted “24-month period” for “18-month period”.
 
@@ -1023,7 +1023,7 @@ Subsec. (b)(3). Pub. L. 109–233, § 303(b)(2), added par. (3).
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–454, title II, § 201(b), Dec. 10, 2004, 118 Stat. 3606, provided that: “The amendment made by subsection (a) [amending this section] shall apply to elections made under section 4317 of title 38, United States Code, on or after the date of the enactment of this Act [Dec. 10, 2004].”
+Pub. L. 108–454, title II, § 201(b), Dec. 10, 2004, 118 Stat. 3606, provided that: “The amendment made by subsection (a) [amending this section] shall apply to elections made under section 4317 of title 38, United States Code, on or after the date of the enactment of this Act [Dec. 10, 2004].”
 
 **Effective Date of 1996 Amendment**
 
@@ -1033,7 +1033,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that a person on active duty on Oct. 13, 1994, or a family member or personal representative of such person, may, after Oct. 13, 1994, elect to reinstate or continue a health plan provided in this section, and the health plan shall remain in effect for the remaining portion of the 18-month period that began on the date of such person’s separation from civilian employment or the period of the person’s service in the uniformed service, whichever is of lesser duration, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4318. Employee pension benefit plans
+### § 4318. Employee pension benefit plans
 
 **(a)**
 
@@ -1071,7 +1071,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(c)** Any employer who reemploys a person under this chapter and who is an employer contributing to a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, under which benefits are or may be payable to such person by reason of the obligations set forth in this chapter, shall, within 30 days after the date of such reemployment, provide information, in writing, of such reemployment to the administrator of such plan.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3162; amended Pub. L. 104–275, title III, § 311(8), Oct. 9, 1996, 110 Stat. 3335.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3162; amended Pub. L. 104–275, title III, § 311(8), Oct. 9, 1996, 110 Stat. 3335.)
 
 **Editorial Notes**
 
@@ -1099,7 +1099,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that an employee pension benefit plan not in compliance with this section or section 8(h)(1) of Pub. L. 103–353 on Oct. 13, 1994, has two years to come into compliance, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4319. Employment and reemployment rights in foreign countries
+### § 4319. Employment and reemployment rights in foreign countries
 
 **(a) Liability of Controlling United States Employer of Foreign Entity.—** If an employer controls an entity that is incorporated or otherwise organized in a foreign country, any denial of employment, reemployment, or benefit by such entity shall be presumed to be by such employer.
 
@@ -1109,7 +1109,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(d) Exemption.—** Notwithstanding any other provision of this subchapter, an employer, or an entity controlled by an employer, shall be exempt from compliance with any of sections 4311 through 4318 of this title with respect to an employee in a workplace in a foreign country, if compliance with that section would cause such employer, or such entity controlled by an employer, to violate the law of the foreign country in which the workplace is located.
 
-(Added Pub. L. 105–368, title II, § 212(b)(1), Nov. 11, 1998, 112 Stat. 3331.)
+(Added Pub. L. 105–368, title II, § 212(b)(1), Nov. 11, 1998, 112 Stat. 3331.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1119,11 +1119,11 @@ Section applicable only with respect to causes of action arising after Nov. 11, 
 
 ## SUBCHAPTER III—PROCEDURES FOR ASSISTANCE, ENFORCEMENT, AND INVESTIGATION
 
-### § 4321. Assistance in obtaining reemployment or other employment rights or benefits
+### § 4321. Assistance in obtaining reemployment or other employment rights or benefits
 
 The Secretary (through the Veterans’ Employment and Training Service) shall provide assistance to any person with respect to the employment and reemployment rights and benefits to which such person is entitled under this chapter. In providing such assistance, the Secretary may request the assistance of existing Federal and State agencies engaged in similar or related activities and utilize the assistance of volunteers.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3164.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3164.)
 
 **Editorial Notes**
 
@@ -1137,7 +1137,7 @@ A prior section 4321 was renumbered section 7621 of this title.
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that provisions necessary for implementation of section 4311 of this title are effective Oct. 13, 1994, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4322. Enforcement of employment or reemployment rights
+### § 4322. Enforcement of employment or reemployment rights
 
 **(a)** A person who claims that—
 
@@ -1171,7 +1171,7 @@ may file a complaint with the Secretary in accordance with subsection (b), and t
 
 **(g)** This subchapter does not apply to any action relating to benefits to be provided under the Thrift Savings Plan under title 5.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3164; amended Pub. L. 104–275, title III, § 311(9), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 110–389, title III, § 311(a)–(c), Oct. 10, 2008, 122 Stat. 4162.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3164; amended Pub. L. 104–275, title III, § 311(9), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 110–389, title III, § 311(a)–(c), Oct. 10, 2008, 122 Stat. 4162.)
 
 **Editorial Notes**
 
@@ -1181,17 +1181,17 @@ A prior section 4322 was renumbered section 7622 of this title.
 
 **Amendments**
 
-2008—Subsec. (c). Pub. L. 110–389, § 311(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant’s employer.”
+2008—Subsec. (c). Pub. L. 110–389, § 311(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant’s employer.”
 
-Subsec. (e). Pub. L. 110–389, § 311(b), inserted “in writing” after “submitted the complaint” in introductory provisions.
+Subsec. (e). Pub. L. 110–389, § 311(b), inserted “in writing” after “submitted the complaint” in introductory provisions.
 
-Subsecs. (f), (g). Pub. L. 110–389, § 311(c), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 110–389, § 311(c), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1996—Subsec. (d). Pub. L. 104–275, § 311(9)(A), inserted “attempt to” before “resolve”.
+1996—Subsec. (d). Pub. L. 104–275, § 311(9)(A), inserted “attempt to” before “resolve”.
 
-Subsec. (e). Pub. L. 104–275, § 311(9)(B)(i), substituted “with respect to any complaint filed under subsection (a) do not resolve the complaint,” for “with respect to a complaint under subsection (d) are unsuccessful,” in introductory provisions.
+Subsec. (e). Pub. L. 104–275, § 311(9)(B)(i), substituted “with respect to any complaint filed under subsection (a) do not resolve the complaint,” for “with respect to a complaint under subsection (d) are unsuccessful,” in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 104–275, § 311(9)(B)(ii), inserted “or the Office of Personnel Management” after “Federal executive agency”.
+Subsec. (e)(2). Pub. L. 104–275, § 311(9)(B)(ii), inserted “or the Office of Personnel Management” after “Federal executive agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1203,7 +1203,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that provisions necessary for implementation of section 4311 of this title are effective Oct. 13, 1994, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4323. Enforcement of rights with respect to a State or private employer
+### § 4323. Enforcement of rights with respect to a State or private employer
 
 **(a) Action for Relief.—**
 
@@ -1289,7 +1289,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(i) Definition.—** In this section, the term “private employer” includes a political subdivision of a State.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3165; amended Pub. L. 104–275, title III, § 311(10), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 105–368, title II, § 211(a), Nov. 11, 1998, 112 Stat. 3329; Pub. L. 110–389, title III, §§ 311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, 122 Stat. 4162–4164, 4167; Pub. L. 118–210, title II, § 221(c), (d), (e)(3), Jan. 2, 2025, 138 Stat. 2778, 2779.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3165; amended Pub. L. 104–275, title III, § 311(10), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 105–368, title II, § 211(a), Nov. 11, 1998, 112 Stat. 3329; Pub. L. 110–389, title III, §§ 311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, 122 Stat. 4162–4164, 4167; Pub. L. 118–210, title II, § 221(c), (d), (e)(3), Jan. 2, 2025, 138 Stat. 2778, 2779.)
 
 **Editorial Notes**
 
@@ -1299,31 +1299,31 @@ A prior section 4323 was renumbered section 7623 of this title.
 
 **Amendments**
 
-2025—Subsec. (d)(1)(C), (D). Pub. L. 118–210, § 221(d), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The court may require the employer to pay the person an amount equal to the amount referred to in subparagraph (B) as liquidated damages, if the court determines that the employer’s failure to comply with the provisions of this chapter was willful.”
+2025—Subsec. (d)(1)(C), (D). Pub. L. 118–210, § 221(d), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The court may require the employer to pay the person an amount equal to the amount referred to in subparagraph (B) as liquidated damages, if the court determines that the employer’s failure to comply with the provisions of this chapter was willful.”
 
-Subsec. (e). Pub. L. 118–210, § 221(c), designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (e). Pub. L. 118–210, § 221(c), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (h)(2). Pub. L. 118–210, § 221(e)(3), substituted “subsection (a)(3)” for “subsection (a)(2)” and “the court shall award any such person who prevails in such action or proceeding reasonable attorney fees” for “the court may award any such person who prevails in such action or proceeding reasonable attorney fees”.
+Subsec. (h)(2). Pub. L. 118–210, § 221(e)(3), substituted “subsection (a)(3)” for “subsection (a)(2)” and “the court shall award any such person who prevails in such action or proceeding reasonable attorney fees” for “the court may award any such person who prevails in such action or proceeding reasonable attorney fees”.
 
-2008—Subsec. (a)(1). Pub. L. 110–389, § 311(d)(1), inserted “Not later than 60 days after the Secretary receives such a request with respect to a complaint, the Secretary shall refer the complaint to the Attorney General.” after “to the Attorney General.”
+2008—Subsec. (a)(1). Pub. L. 110–389, § 311(d)(1), inserted “Not later than 60 days after the Secretary receives such a request with respect to a complaint, the Secretary shall refer the complaint to the Attorney General.” after “to the Attorney General.”
 
-Subsec. (a)(2), (3). Pub. L. 110–389, § 311(e)(1), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 110–389, § 311(e)(1), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (e). Pub. L. 110–389, § 315, substituted “shall use, in any case in which the court determines it is appropriate,” for “may use”.
+Subsec. (e). Pub. L. 110–389, § 315, substituted “shall use, in any case in which the court determines it is appropriate,” for “may use”.
 
-Subsecs. (i), (j). Pub. L. 110–389, § 311(f)(3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “Inapplicability of State Statute of Limitations.—No State statute of limitations shall apply to any proceeding under this chapter.”
+Subsecs. (i), (j). Pub. L. 110–389, § 311(f)(3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “Inapplicability of State Statute of Limitations.—No State statute of limitations shall apply to any proceeding under this chapter.”
 
 1998—Pub. L. 105–368 amended section generally, substituting present provisions for provisions which had: in subsec. (a), authorized reference of complaint to Attorney General and commencement of action for relief on behalf of person whose complaint was referred; in subsec. (b), described appropriate venues in cases where defendant is State or private employer; and in subsec. (c), set forth provisions relating to jurisdiction, abridgement of rights, court and attorney fees, equity power of court, standing, respondents, statute of limitations, and remedies.
 
-1996—Subsec. (a)(1). Pub. L. 104–275, § 311(10)(A), struck out “of an unsuccessful effort to resolve a complaint” after “notification pursuant to section 4322(e)”.
+1996—Subsec. (a)(1). Pub. L. 104–275, § 311(10)(A), struck out “of an unsuccessful effort to resolve a complaint” after “notification pursuant to section 4322(e)”.
 
-Subsec. (a)(2)(A). Pub. L. 104–275, § 311(10)(B), substituted “under section 4322(a)” for “regarding the complaint under section 4322(c)”.
+Subsec. (a)(2)(A). Pub. L. 104–275, § 311(10)(B), substituted “under section 4322(a)” for “regarding the complaint under section 4322(c)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title II, § 211(b), Nov. 11, 1998, 112 Stat. 3330, provided that:
+Pub. L. 105–368, title II, § 211(b), Nov. 11, 1998, 112 Stat. 3330, provided that:
 
 > **“(1)** Section 4323 of title 38, United States Code, as amended by subsection (a), shall apply to actions commenced under chapter 43 of such title on or after the date of the enactment of this Act [Nov. 11, 1998], and shall apply to actions commenced under such chapter before the date of the enactment of this Act that are not final on the date of the enactment of this Act, without regard to when the cause of action accrued.
 
@@ -1337,7 +1337,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that provisions necessary for implementation of section 4311 of this title are effective Oct. 13, 1994, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4324. Enforcement of rights with respect to Federal executive agencies
+### § 4324. Enforcement of rights with respect to Federal executive agencies
 
 **(a)**
 
@@ -1385,7 +1385,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(B)** is not represented by the Special Counsel in such Federal Circuit proceeding.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, § 311(11), Oct. 9, 1996, 110 Stat. 3336; Pub. L. 105–368, title II, § 213(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 110–389, title III, § 311(d)(2), (e)(2), Oct. 10, 2008, 122 Stat. 4163; Pub. L. 111–275, title VII, § 703(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 118–210, title II, § 221(e)(1), (2), Jan. 2, 2025, 138 Stat. 2779.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, § 311(11), Oct. 9, 1996, 110 Stat. 3336; Pub. L. 105–368, title II, § 213(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 110–389, title III, § 311(d)(2), (e)(2), Oct. 10, 2008, 122 Stat. 4163; Pub. L. 111–275, title VII, § 703(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 118–210, title II, § 221(e)(1), (2), Jan. 2, 2025, 138 Stat. 2779.)
 
 **Editorial Notes**
 
@@ -1395,31 +1395,31 @@ A prior section 4324 was renumbered section 7624 of this title.
 
 **Amendments**
 
-2025—Subsec. (c)(4). Pub. L. 118–210, § 221(e)(1), substituted “shall” for “may, in its discretion,” and inserted at end “The Board may, in its discretion, award reasonable attorney fees in a case settled before the issuance of an order if the person can demonstrate that significant attorney fees were incurred and that justice requires such an award.”
+2025—Subsec. (c)(4). Pub. L. 118–210, § 221(e)(1), substituted “shall” for “may, in its discretion,” and inserted at end “The Board may, in its discretion, award reasonable attorney fees in a case settled before the issuance of an order if the person can demonstrate that significant attorney fees were incurred and that justice requires such an award.”
 
-Subsec. (d)(3). Pub. L. 118–210, § 221(e)(2), added par. (3).
+Subsec. (d)(3). Pub. L. 118–210, § 221(e)(2), added par. (3).
 
 2010—Subsec. (b)(4). Pub. L. 111–275 inserted before period at end “declining to initiate an action and represent the person before the Merit Systems Protection Board”.
 
-2008—Subsec. (a)(1). Pub. L. 110–389, § 311(d)(2), substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.
+2008—Subsec. (a)(1). Pub. L. 110–389, § 311(d)(2), substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.
 
-Subsec. (a)(2)(B). Pub. L. 110–389, § 311(e)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.”
+Subsec. (a)(2)(B). Pub. L. 110–389, § 311(e)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.”
 
-1998—Subsec. (c)(1). Pub. L. 105–368 inserted “, without regard as to whether the complaint accrued before, on, or after October 13, 1994” before period at end of first sentence.
+1998—Subsec. (c)(1). Pub. L. 105–368 inserted “, without regard as to whether the complaint accrued before, on, or after October 13, 1994” before period at end of first sentence.
 
-1996—Subsec. (a)(1). Pub. L. 104–275, § 311(11)(A), struck out “of an unsuccessful effort to resolve a complaint relating to a Federal executive agency” after “notification pursuant to section 4322(e)”.
+1996—Subsec. (a)(1). Pub. L. 104–275, § 311(11)(A), struck out “of an unsuccessful effort to resolve a complaint relating to a Federal executive agency” after “notification pursuant to section 4322(e)”.
 
-Subsec. (b). Pub. L. 104–275, § 311(11)(B)(i), inserted “or the Office of Personnel Management” after “Federal executive agency” in introductory provisions.
+Subsec. (b). Pub. L. 104–275, § 311(11)(B)(i), inserted “or the Office of Personnel Management” after “Federal executive agency” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 104–275, § 311(11)(B)(ii), substituted “under section 4322(a)” for “regarding a complaint under section 4322(c)”.
+Subsec. (b)(1). Pub. L. 104–275, § 311(11)(B)(ii), substituted “under section 4322(a)” for “regarding a complaint under section 4322(c)”.
 
-Subsec. (c)(2). Pub. L. 104–275, § 311(11)(C), inserted “or the Office of Personnel Management” after “Federal executive agency” and substituted “Office to comply” for “employee to comply”.
+Subsec. (c)(2). Pub. L. 104–275, § 311(11)(C), inserted “or the Office of Personnel Management” after “Federal executive agency” and substituted “Office to comply” for “employee to comply”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title II, § 213(b), Nov. 11, 1998, 112 Stat. 3332, provided that: “The amendment made by subsection (a) [amending this section] shall apply to complaints filed with the Merit Systems Protection Board on or after October 13, 1994.”
+Pub. L. 105–368, title II, § 213(b), Nov. 11, 1998, 112 Stat. 3332, provided that: “The amendment made by subsection (a) [amending this section] shall apply to complaints filed with the Merit Systems Protection Board on or after October 13, 1994.”
 
 **Effective Date of 1996 Amendment**
 
@@ -1429,7 +1429,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that provisions necessary for implementation of section 4311 of this title are effective Oct. 13, 1994, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4325. Enforcement of rights with respect to certain Federal agencies
+### § 4325. Enforcement of rights with respect to certain Federal agencies
 
 **(a)** This section applies to any person who alleges that—
 
@@ -1447,7 +1447,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(2)** as prohibiting such an agency from voluntarily cooperating with or seeking assistance in or of clarification from the Secretary or the Director of the Office of Personnel Management of any matter arising under this chapter.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3167; amended Pub. L. 104–275, title III, § 311(12), Oct. 9, 1996, 110 Stat. 3336.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3167; amended Pub. L. 104–275, title III, § 311(12), Oct. 9, 1996, 110 Stat. 3336.)
 
 **Editorial Notes**
 
@@ -1457,7 +1457,7 @@ A prior section 4325 was renumbered section 7625 of this title.
 
 **Amendments**
 
-1996—Subsec. (d)(1). Pub. L. 104–275 struck out “, alternative employment in the Federal Government under this chapter,” before “or information relating to the rights and obligations” and substituted “employees and” for “employee and”.
+1996—Subsec. (d)(1). Pub. L. 104–275 struck out “, alternative employment in the Federal Government under this chapter,” before “or information relating to the rights and obligations” and substituted “employees and” for “employee and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1469,7 +1469,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that provisions necessary for implementation of section 4311 of this title are effective Oct. 13, 1994, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4326. Conduct of investigation; subpoenas
+### § 4326. Conduct of investigation; subpoenas
 
 **(a)** In carrying out any investigation under this chapter, the Secretary’s duly authorized representatives shall, at all reasonable times, have reasonable access to and the right to interview persons with information relevant to the investigation and shall have reasonable access to, for purposes of examination, and the right to copy and receive, any documents of any person or employer that the Secretary considers relevant to the investigation.
 
@@ -1479,7 +1479,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(d)** Subsections (b) and (c) shall not apply to the legislative branch or the judicial branch of the United States.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3167; amended Pub. L. 104–275, title III, § 311(13), Oct. 9, 1996, 110 Stat. 3336.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3167; amended Pub. L. 104–275, title III, § 311(13), Oct. 9, 1996, 110 Stat. 3336.)
 
 **Editorial Notes**
 
@@ -1497,7 +1497,7 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 Section effective Oct. 13, 1994, and applicable to any matter pending with Secretary of Labor under former section 4305 of this title as of that date, see section 8(e) of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4327. Noncompliance of Federal officials with deadlines; inapplicability of statutes of limitations
+### § 4327. Noncompliance of Federal officials with deadlines; inapplicability of statutes of limitations
 
 **(a) Effect of Noncompliance of Federal Officials With Deadlines.—**
 
@@ -1521,11 +1521,11 @@ Section effective Oct. 13, 1994, and applicable to any matter pending with Secre
 
 **(b) Inapplicability of Statutes of Limitations.—** If any person seeks to file a complaint or claim with the Secretary, the Merit Systems Protection Board, or a Federal or State court under this chapter alleging a violation of this chapter, there shall be no limit on the period for filing the complaint or claim.
 
-(Added Pub. L. 110–389, title III, § 311(f)(1), Oct. 10, 2008, 122 Stat. 4163.)
+(Added Pub. L. 110–389, title III, § 311(f)(1), Oct. 10, 2008, 122 Stat. 4163.)
 
 ## SUBCHAPTER IV—MISCELLANEOUS PROVISIONS
 
-### § 4331. Regulations
+### § 4331. Regulations
 
 **(a)** The Secretary (in consultation with the Secretary of Defense) may prescribe regulations implementing the provisions of this chapter with regard to the application of this chapter to States, local governments, and private employers.
 
@@ -1541,7 +1541,7 @@ Section effective Oct. 13, 1994, and applicable to any matter pending with Secre
 
 **(C)** The agencies referred to in section 2302(a)(2)(C)(ii) of title 5.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 109–233, title V, § 503(14), June 15, 2006, 120 Stat. 417.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 109–233, title V, § 503(14), June 15, 2006, 120 Stat. 417.)
 
 **Editorial Notes**
 
@@ -1559,7 +1559,7 @@ A prior section 4331 was renumbered section 7631 of this title.
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4332. Reports
+### § 4332. Reports
 
 **(a) Annual Report by Secretary.—** The Secretary shall, after consultation with the Attorney General and the Special Counsel referred to in section 4324(a)(1), transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:
 
@@ -1605,7 +1605,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 **(2)** the Secretary, the Secretary of Defense, the Attorney General, and the Special Counsel each have electronic access to the case files reviewed under this chapter by the Secretary, the Secretary of Defense, the Attorney General, and the Special Counsel with due regard for the provisions of section 552a of title 5.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 108–454, title II, § 202, Dec. 10, 2004, 118 Stat. 3606; Pub. L. 110–181, div. A, title V, § 595, Jan. 28, 2008, 122 Stat. 139; Pub. L. 110–389, title III, § 312(a)–(d), Oct. 10, 2008, 122 Stat. 4164, 4165.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 108–454, title II, § 202, Dec. 10, 2004, 118 Stat. 3606; Pub. L. 110–181, div. A, title V, § 595, Jan. 28, 2008, 122 Stat. 139; Pub. L. 110–389, title III, § 312(a)–(d), Oct. 10, 2008, 122 Stat. 4164, 4165.)
 
 **Editorial Notes**
 
@@ -1615,15 +1615,15 @@ A prior section 4332 was renumbered section 7632 of this title.
 
 **Amendments**
 
-2008—Pub. L. 110–389, § 312(a), (b)(1), designated existing provisions as subsec. (a), inserted heading, and substituted “, transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:” for “and no later than February 1, 2005, and annually thereafter, transmit to the Congress, a report containing the following matters for the fiscal year ending before such February 1:” in introductory provisions.
+2008—Pub. L. 110–389, § 312(a), (b)(1), designated existing provisions as subsec. (a), inserted heading, and substituted “, transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:” for “and no later than February 1, 2005, and annually thereafter, transmit to the Congress, a report containing the following matters for the fiscal year ending before such February 1:” in introductory provisions.
 
 Pub. L. 110–181 added par. (2), redesignated former pars. (2) to (6) as (3) to (7), respectively, and in par. (5) substituted “(2), (3), or (4)” for “(2), or (3)”.
 
-Subsec. (a)(3). Pub. L. 110–389, § 312(b)(2), inserted “and the number of actions initiated by the Office of Special Counsel before the Merit Systems Protection Board pursuant to section 4324 during such fiscal year” before period at end.
+Subsec. (a)(3). Pub. L. 110–389, § 312(b)(2), inserted “and the number of actions initiated by the Office of Special Counsel before the Merit Systems Protection Board pursuant to section 4324 during such fiscal year” before period at end.
 
-Subsec. (a)(5) to (10). Pub. L. 110–389, § 312(b)(3)–(7), added pars. (5), (6), and (8), redesignated former pars. (5), (6), and (7) as (7), (9), and (10), respectively, and in par. (7), substituted “(4), or (5)” for “or (4)”.
+Subsec. (a)(5) to (10). Pub. L. 110–389, § 312(b)(3)–(7), added pars. (5), (6), and (8), redesignated former pars. (5), (6), and (7) as (7), (9), and (10), respectively, and in par. (7), substituted “(4), or (5)” for “or (4)”.
 
-Subsecs. (b), (c). Pub. L. 110–389, § 312(c), (d), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 110–389, § 312(c), (d), added subsecs. (b) and (c).
 
 2004—Pub. L. 108–454 substituted “no later than February 1, 2005, and annually thereafter” for “no later than February 1, 1996, and annually thereafter through 2000” in introductory provisions.
 
@@ -1631,17 +1631,17 @@ Subsecs. (b), (c). Pub. L. 110–389, § 312(c), (d), added subsecs. (b) and (
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–389, title III, § 312(f), Oct. 10, 2008, 122 Stat. 4166, provided that: “The amendments made by this section [amending this section] shall apply with respect to each report required under section 4332 of title 38, United States Code (as amended by this section), after the date of the enactment of this Act [Oct. 10, 2008].”
+Pub. L. 110–389, title III, § 312(f), Oct. 10, 2008, 122 Stat. 4166, provided that: “The amendments made by this section [amending this section] shall apply with respect to each report required under section 4332 of title 38, United States Code (as amended by this section), after the date of the enactment of this Act [Oct. 10, 2008].”
 
 **Effective Date**
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4333. Outreach
+### § 4333. Outreach
 
 The Secretary, the Secretary of Defense, and the Secretary of Veterans Affairs shall take such actions as such Secretaries determine are appropriate to inform persons entitled to rights and benefits under this chapter and employers of the rights, benefits, and obligations of such persons and such employers under this chapter.
 
-(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3169.)
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3169.)
 
 **Editorial Notes**
 
@@ -1655,13 +1655,13 @@ A prior section 4333 was renumbered section 7633 of this title.
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-### § 4334. Notice of rights and duties
+### § 4334. Notice of rights and duties
 
 **(a) Requirement To Provide Notice.—** Each employer shall provide to persons entitled to rights and benefits under this chapter a notice of the rights, benefits, and obligations of such persons and such employers under this chapter. The requirement for the provision of notice under this section may be met by the posting of the notice where employers customarily place notices for employees.
 
 **(b) Content of Notice.—** The Secretary shall provide to employers the text of the notice to be provided under this section.
 
-(Added Pub. L. 108–454, title II, § 203(a), Dec. 10, 2004, 118 Stat. 3606.)
+(Added Pub. L. 108–454, title II, § 203(a), Dec. 10, 2004, 118 Stat. 3606.)
 
 **Editorial Notes**
 
@@ -1673,13 +1673,13 @@ A prior section 4334 was renumbered section 7634 of this title.
 
 **Effective Date**
 
-Pub. L. 108–454, title II, § 203(c), Dec. 10, 2004, 118 Stat. 3606, provided that:
+Pub. L. 108–454, title II, § 203(c), Dec. 10, 2004, 118 Stat. 3606, provided that:
 
 > **“(1)** Not later than the date that is 90 days after the date of the enactment of this Act [Dec. 10, 2004], the Secretary of Labor shall make available to employers the notice required under section 4334 of title 38, United States Code, as added by subsection (a).
 
 > **“(2)** The amendments made by this section [enacting this section] shall apply to employers under chapter 43 of title 38, United States Code, on and after the first date referred to in paragraph (1).”
 
-### § 4335. Training for Federal executive agency human resources personnel on employment and reemployment rights and limitations
+### § 4335. Training for Federal executive agency human resources personnel on employment and reemployment rights and limitations
 
 **(a) Training Required.—** The head of each Federal executive agency shall provide training for the human resources personnel of such agency on the following:
 
@@ -1693,7 +1693,7 @@ Pub. L. 108–454, title II, § 203(c), Dec. 10, 2004, 118 Stat. 3606, provide
 
 **(d) Human Resources Personnel Defined.—** In this section, the term “human resources personnel”, in the case of a Federal executive agency, means any personnel of the agency who are authorized to recommend, take, or approve any personnel action that is subject to the requirements of this chapter with respect to employees of the agency.
 
-(Added Pub. L. 110–389, title III, § 313(a), Oct. 10, 2008, 122 Stat. 4166.)
+(Added Pub. L. 110–389, title III, § 313(a), Oct. 10, 2008, 122 Stat. 4166.)
 
 **Editorial Notes**
 
@@ -1703,11 +1703,11 @@ Prior sections 4335, 4336, and 4351 to 4355 were renumbered sections 7635, 7636,
 
 A prior section 5001 was renumbered section 8101 of this title.
 
-Another prior section 5001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1251; Pub. L. 88–450, § 1, Aug. 19, 1964, 78 Stat. 500; Pub. L. 89–311, § 8, Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title III, § 301, Aug. 2, 1973, 87 Stat. 194; Pub. L. 94–581, title I, § 114, title II, §§ 206(a), 210(e)(1), Oct. 21, 1976, 90 Stat. 2852, 2859, 2864; Pub. L. 95–201, § 4(c), Nov. 23, 1977, 91 Stat. 1431, relating generally to the authority of the Administrator to establish hospitals and domiciliary facilities for veterans, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8102 of this title.
+Another prior section 5001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1251; Pub. L. 88–450, § 1, Aug. 19, 1964, 78 Stat. 500; Pub. L. 89–311, § 8, Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title III, § 301, Aug. 2, 1973, 87 Stat. 194; Pub. L. 94–581, title I, § 114, title II, §§ 206(a), 210(e)(1), Oct. 21, 1976, 90 Stat. 2852, 2859, 2864; Pub. L. 95–201, § 4(c), Nov. 23, 1977, 91 Stat. 1431, relating generally to the authority of the Administrator to establish hospitals and domiciliary facilities for veterans, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8102 of this title.
 
 A prior section 5002 was renumbered section 8102 of this title.
 
-Another prior section 5002, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252; Pub. L. 94–581, title II, § 210(e)(2), Oct. 21, 1976, 90 Stat. 2865, relating to the construction and repair of hospitals, domiciliaries, and outpatient dispensary facilities, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8103 of this title.
+Another prior section 5002, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252; Pub. L. 94–581, title II, § 210(e)(2), Oct. 21, 1976, 90 Stat. 2865, relating to the construction and repair of hospitals, domiciliaries, and outpatient dispensary facilities, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8103 of this title.
 
 A prior section 5003 was renumbered section 8103 of this title.
 
@@ -1715,11 +1715,11 @@ Another prior section 5003, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252, rela
 
 A prior section 5004 was renumbered section 8104 of this title.
 
-Another prior section 5004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 152; Pub. L. 89–785, title II, § 201(a), Nov. 7, 1966, 80 Stat. 1372; Pub. L. 94–581, title II, § 210(e)(3), Oct. 21, 1976, 90 Stat. 2865, relating to garage and parking facilities, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8109 of this title.
+Another prior section 5004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 152; Pub. L. 89–785, title II, § 201(a), Nov. 7, 1966, 80 Stat. 1372; Pub. L. 94–581, title II, § 210(e)(3), Oct. 21, 1976, 90 Stat. 2865, relating to garage and parking facilities, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8109 of this title.
 
 A prior section 5005 was renumbered section 8105 of this title.
 
-Another prior section 5005, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252; Pub. L. 94–581, title II, § 210(e)(4), Oct. 21, 1976, 90 Stat. 2865, relating to the acceptance by the President of buildings, structures, equipment, or grounds from States or other political subdivisions or from persons, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8115 of this title.
+Another prior section 5005, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252; Pub. L. 94–581, title II, § 210(e)(4), Oct. 21, 1976, 90 Stat. 2865, relating to the acceptance by the President of buildings, structures, equipment, or grounds from States or other political subdivisions or from persons, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8115 of this title.
 
 A prior section 5006 was renumbered section 8106 of this title.
 
@@ -1727,7 +1727,7 @@ Another prior section 5006, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, rela
 
 A prior section 5007 was renumbered section 8107 of this title.
 
-Another prior section 5007, added Pub. L. 93–82, title III, § 302(1), Aug. 2, 1973, 87 Stat. 195, and amended Pub. L. 94–581, title II, § 210(e)(5), Oct. 21, 1976, 90 Stat. 2865, relating to partial relinquishment of legislative jurisdiction, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8112 of this title.
+Another prior section 5007, added Pub. L. 93–82, title III, § 302(1), Aug. 2, 1973, 87 Stat. 195, and amended Pub. L. 94–581, title II, § 210(e)(5), Oct. 21, 1976, 90 Stat. 2865, relating to partial relinquishment of legislative jurisdiction, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8112 of this title.
 
 Prior sections 5008 to 5011 were renumbered sections 8108 to 8111 of this title, respectively.
 
@@ -1747,6 +1747,6 @@ Another prior section 5014 was renumbered section 5024 of this title.
 
 Prior sections 5015, 5016, 5021 to 5025, 5031 to 5037, and 5051 to 5056 were renumbered sections 8115, 8116, 8121 to 8125, 8131 to 8137, and 8151 to 8156 of this title, respectively.
 
-A prior section 5057, added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1376, directed Administrator to submit to Congress not more than sixty days after end of each fiscal year separate reports on activities carried out under sections 5053 and 5054 of this title, prior to repeal by Pub. L. 99–576, title II, § 231(c)(2)(A), Oct. 28, 1986, 100 Stat. 3264.
+A prior section 5057, added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1376, directed Administrator to submit to Congress not more than sixty days after end of each fiscal year separate reports on activities carried out under sections 5053 and 5054 of this title, prior to repeal by Pub. L. 99–576, title II, § 231(c)(2)(A), Oct. 28, 1986, 100 Stat. 3264.
 
 Prior sections 5070, 5071 to 5074, 5081 to 5083, 5091 to 5093, and 5096 were renumbered sections 8201, 8211 to 8214, 8221 to 8223, 8231 to 8233, and 8241 of this title, respectively.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 92—FOREST LANDSCAPE RESTORATION
 
-## § 7301. Purpose
+## § 7301. Purpose
 
 The purpose of this chapter is to encourage the collaborative, science-based ecosystem restoration of priority forest landscapes through a process that—
 
@@ -35,9 +35,9 @@ The purpose of this chapter is to encourage the collaborative, science-based eco
 
 **(B)** the use of forest restoration byproducts can offset treatment costs while benefitting local rural economies and improving forest health.
 
-(Pub. L. 111–11, title IV, § 4001, Mar. 30, 2009, 123 Stat. 1141.)
+(Pub. L. 111–11, title IV, § 4001, Mar. 30, 2009, 123 Stat. 1141.)
 
-## § 7302. Definitions
+## § 7302. Definitions
 
 In this chapter:
 
@@ -61,9 +61,9 @@ The term “Secretary” means the Secretary of Agriculture, acting through the 
 
 The term “strategy” means a landscape restoration strategy described in section 7303(b)(1) of this title.
 
-(Pub. L. 111–11, title IV, § 4002, Mar. 30, 2009, 123 Stat. 1141.)
+(Pub. L. 111–11, title IV, § 4002, Mar. 30, 2009, 123 Stat. 1141.)
 
-## § 7303. Collaborative Forest Landscape Restoration Program
+## § 7303. Collaborative Forest Landscape Restoration Program
 
 **(a) In general** The Secretary, in consultation with the Secretary of the Interior, shall establish a Collaborative Forest Landscape Restoration Program to select and fund ecological restoration treatments for priority forest landscapes in accordance with—
 
@@ -113,9 +113,9 @@ The term “strategy” means a landscape restoration strategy described in sect
 
 **(i)** is transparent and nonexclusive; or
 
-**(ii)** meets the requirements for a resource advisory committee under subsections (c) through (f) of section 7125 of this title; 1
+**(ii)** meets the requirements for a resource advisory committee under subsections (c) through (f) of section 7125 of this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3)** describe plans to—
 
@@ -365,30 +365,30 @@ The Secretary shall, in collaboration with the Secretary of the Interior and int
 
 **(6)** the Committee on Agriculture of the House of Representatives.
 
-(Pub. L. 111–11, title IV, § 4003, Mar. 30, 2009, 123 Stat. 1141; Pub. L. 115–334, title VIII, § 8629, Dec. 20, 2018, 132 Stat. 4865.)
+(Pub. L. 111–11, title IV, § 4003, Mar. 30, 2009, 123 Stat. 1141; Pub. L. 115–334, title VIII, § 8629, Dec. 20, 2018, 132 Stat. 4865.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-Section 7125 of this title, referred to in subsec. (b)(2)(B)(ii), was in the original “section 205 of Public Law 106–393 (16 U.S.C. 500 note)” and was translated as referring to section 205 of Pub. L. 106–393 as added by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3905, which is classified to section 7125 of this title. A prior section 205 of Pub. L. 106–393 containing substantially similar provisions was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+Section 7125 of this title, referred to in subsec. (b)(2)(B)(ii), was in the original “section 205 of Public Law 106–393 (16 U.S.C. 500 note)” and was translated as referring to section 205 of Pub. L. 106–393 as added by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3905, which is classified to section 7125 of this title. A prior section 205 of Pub. L. 106–393 containing substantially similar provisions was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 **Amendments**
 
-2018—Subsec. (d)(4). Pub. L. 115–334, § 8629(a), added par. (4).
+2018—Subsec. (d)(4). Pub. L. 115–334, § 8629(a), added par. (4).
 
-Subsec. (f)(4)(C). Pub. L. 115–334, § 8629(b), added subpar. (C).
+Subsec. (f)(4)(C). Pub. L. 115–334, § 8629(b), added subpar. (C).
 
-Subsec. (f)(6). Pub. L. 115–334, § 8629(c), substituted “$80,000,000 for each of fiscal years 2019 through 2023” for “$40,000,000 for each of fiscal years 2009 through 2019”.
+Subsec. (f)(6). Pub. L. 115–334, § 8629(c), substituted “$80,000,000 for each of fiscal years 2019 through 2023” for “$40,000,000 for each of fiscal years 2009 through 2019”.
 
-Subsec. (h)(3) to (6). Pub. L. 115–334, § 8629(d), added pars. (3) and (6) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+Subsec. (h)(3) to (6). Pub. L. 115–334, § 8629(d), added pars. (3) and (6) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-## § 7304. Authorization of appropriations
+## § 7304. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary and the Secretary of the Interior such sums as are necessary to carry out this chapter.
 
-(Pub. L. 111–11, title IV, § 4004, Mar. 30, 2009, 123 Stat. 1147.)
+(Pub. L. 111–11, title IV, § 4004, Mar. 30, 2009, 123 Stat. 1147.)

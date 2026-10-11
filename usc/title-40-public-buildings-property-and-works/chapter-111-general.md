@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 111—GENERAL
 
-## § 11101. Definitions
+## § 11101. Definitions
 
 In this subtitle, the following definitions apply:
 
@@ -41,13 +41,13 @@ In this subtitle, the following definitions apply:
 
 **(C)** does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, § 535(b), Jan. 23, 2004, 118 Stat. 345; Pub. L. 111–350, § 5(*l*)(24), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(A), Aug. 13, 2018, 132 Stat. 1874.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, § 535(b), Jan. 23, 2004, 118 Stat. 345; Pub. L. 111–350, § 5(*l*)(24), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(A), Aug. 13, 2018, 132 Stat. 1874.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11101 | 40:1401. | Pub. L. 104–106, div. E, § 5002, Feb. 10, 1996, 110 Stat. 679. |
+| 11101 | 40:1401. | Pub. L. 104–106, div. E, § 5002, Feb. 10, 1996, 110 Stat. 679. |
 
 The text of 40:1401(1) is omitted as unnecessary because the complete name of the Director of the Office of Management and Budget is used the first time the term appears in a section.
 
@@ -57,13 +57,13 @@ The text of 40:1401(1) is omitted as unnecessary because the complete name of th
 
 2018—Par. (1). Pub. L. 115–232, in heading, substituted “Commercial product” for “Commercial item” and, in text, substituted “The term ‘commercial product’ has” for “The term ‘commercial item’ has”.
 
-2011—Par. (1). Pub. L. 111–350, § 5(*l*)(24)(A), substituted “section 103 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
+2011—Par. (1). Pub. L. 111–350, § 5(*l*)(24)(A), substituted “section 103 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
 
-Par. (2). Pub. L. 111–350, § 5(*l*)(24)(B), substituted “section 133 of title 41” for “section 4 of the Act (41 U.S.C. 403)”.
+Par. (2). Pub. L. 111–350, § 5(*l*)(24)(B), substituted “section 133 of title 41” for “section 4 of the Act (41 U.S.C. 403)”.
 
-2004—Par. (6)(A). Pub. L. 108–199, § 535(b)(1), inserted “analysis, evaluation,” after “storage,”.
+2004—Par. (6)(A). Pub. L. 108–199, § 535(b)(1), inserted “analysis, evaluation,” after “storage,”.
 
-Par. (6)(B). Pub. L. 108–199, § 535(b)(2), substituted “ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer,” for “ancillary equipment,”.
+Par. (6)(B). Pub. L. 108–199, § 535(b)(2), substituted “ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer,” for “ancillary equipment,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -75,7 +75,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **Executive Order No. 13011**
 
-Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 13284, § 16, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13286, § 18, Feb. 28, 2003, 68 F.R. 10623, which related to information technology policies and reforms for Federal agencies, was revoked by Ex. Ord. No. 13403, § 6, May 12, 2006, 71 F.R. 28543.
+Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 13284, § 16, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13286, § 18, Feb. 28, 2003, 68 F.R. 10623, which related to information technology policies and reforms for Federal agencies, was revoked by Ex. Ord. No. 13403, § 6, May 12, 2006, 71 F.R. 28543.
 
 **Ex. Ord. No. 13103. Computer Software Piracy**
 
@@ -111,7 +111,7 @@ Sec. 2. *Responsibilities of Agency Heads*. In connection with the acquisition a
 
 Sec. 3. *Chief Information Officers Council*. The Chief Information Officers Council (“Council”) established by section 3 of Executive Order No. 13011 of July 16, 1996 [set out above], shall be the principal interagency forum to improve executive agency practices regarding the acquisition and use of computer software, and monitoring and combating the use of unauthorized computer software. The Council shall provide advice and make recommendations to executive agencies and to the Office of Management and Budget regarding appropriate government-wide measures to carry out this order. The Council shall issue its initial recommendations within 6 months of the date of this order.
 
-Sec. 4. *Office of Management and Budget*. The Director of the Office of Management and Budget, in carrying out responsibilities under the Clinger-Cohen Act [probably means the Clinger-Cohen Act of 1996, div. D (§§ 4001–4402) and div. E (§§ 5001–5703) of Pub. L. 104–106, see Tables for classification], shall utilize appropriate oversight mechanisms to foster agency compliance with the policies set forth in this order. In carrying out these responsibilities, the Director shall consider any recommendations made by the Council under section 3 of this order regarding practices and policies to be instituted on a government-wide basis to carry out this order.
+Sec. 4. *Office of Management and Budget*. The Director of the Office of Management and Budget, in carrying out responsibilities under the Clinger-Cohen Act [probably means the Clinger-Cohen Act of 1996, div. D (§§ 4001–4402) and div. E (§§ 5001–5703) of Pub. L. 104–106, see Tables for classification], shall utilize appropriate oversight mechanisms to foster agency compliance with the policies set forth in this order. In carrying out these responsibilities, the Director shall consider any recommendations made by the Council under section 3 of this order regarding practices and policies to be instituted on a government-wide basis to carry out this order.
 
 Sec. 5. *Definition*. “Executive agency” and “agency” have the meaning given to that term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
 
@@ -125,7 +125,7 @@ Sec. 9. *Judicial Review*. This Executive order is intended only to improve the 
 
 William J. Clinton.
 
-## § 11102. Sense of Congress
+## § 11102. Sense of Congress
 
 It is the sense of Congress that, during the five-year period beginning with 1996, executive agencies should achieve each year through improvements in information resources management by the agency—
 
@@ -139,9 +139,9 @@ It is the sense of Congress that, during the five-year period beginning with 199
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11102 | 40:1442. | Pub. L. 104–106, div. E, title LI, § 5132, Feb. 10, 1996, 110 Stat. 689. |
+| 11102 | 40:1442. | Pub. L. 104–106, div. E, title LI, § 5132, Feb. 10, 1996, 110 Stat. 689. |
 
-## § 11103. Applicability to national security systems
+## § 11103. Applicability to national security systems
 
 **(a) Definition.—**
 
@@ -179,7 +179,7 @@ It is the sense of Congress that, during the five-year period beginning with 199
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11103(a) | 40:1452. | Pub. L. 104–106, div. E, title LI, §§ 5141, 5142, Feb. 10, 1996, 110 Stat. 689. |
+| 11103(a) | 40:1452. | Pub. L. 104–106, div. E, title LI, §§ 5141, 5142, Feb. 10, 1996, 110 Stat. 689. |
 | 11103(b) | 40:1451(a). |  |
 | 11103(c) | 40:1451(b). |  |
 
@@ -187,7 +187,7 @@ It is the sense of Congress that, during the five-year period beginning with 199
 
 **Exemption From Requirement for Capital Planning and Investment Control for Information Technology Equipment Included as Integral Part of a Weapon or Weapon System**
 
-Pub. L. 114–328, div. A, title VIII, § 895, Dec. 23, 2016, 130 Stat. 2326, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(9), Dec. 27, 2021, 135 Stat. 2161, provided that:
+Pub. L. 114–328, div. A, title VIII, § 895, Dec. 23, 2016, 130 Stat. 2326, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(9), Dec. 27, 2021, 135 Stat. 2161, provided that:
 
 > **“(a) Waiver Authority.—** Notwithstanding subsection (c)(2) of section 11103 of title 40, United States Code, a national security system described in subsection (a)(1)(D) of such section shall not be subject to the requirements of paragraphs (2) through (5) of section 11312(b) of such title unless the milestone decision authority determines in writing that application of such requirements is appropriate and in the best interests of the Department of Defense.
 

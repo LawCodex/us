@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—NATIONAL TOURISM POLICY
 
-### § 2121. Congressional findings; establishment of policy
+### § 2121. Congressional findings; establishment of policy
 
 **(a)** The Congress finds that—
 
@@ -67,15 +67,15 @@ retrieved: 2026-10-11
 
 **(16)** harmonize, to the maximum extent possible, all Federal activities in support of tourism and recreation with the needs of the general public and the States, territories, local governments, and the tourism and recreation industry, and to give leadership to all concerned with tourism, recreation, and national heritage preservation in the United States.
 
-(Pub. L. 87–63, title I, § 101, formerly § 1, June 29, 1961, 75 Stat. 129; renumbered and amended Pub. L. 97–63, § 2(a), Oct. 16, 1981, 95 Stat. 1011; Pub. L. 102–372, § 5, Sept. 30, 1992, 106 Stat. 1175.)
+(Pub. L. 87–63, title I, § 101, formerly § 1, June 29, 1961, 75 Stat. 129; renumbered and amended Pub. L. 97–63, § 2(a), Oct. 16, 1981, 95 Stat. 1011; Pub. L. 102–372, § 5, Sept. 30, 1992, 106 Stat. 1175.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (b)(1). Pub. L. 102–372, § 5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “optimize the contribution of the tourism and recreation industries to economic prosperity, full employment, and the international balance of payments of the United States;”.
+1992—Subsec. (b)(1). Pub. L. 102–372, § 5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “optimize the contribution of the tourism and recreation industries to economic prosperity, full employment, and the international balance of payments of the United States;”.
 
-Subsec. (b)(2) to (16). Pub. L. 102–372, § 5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
+Subsec. (b)(2) to (16). Pub. L. 102–372, § 5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
 1981—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
 
@@ -83,37 +83,37 @@ Subsec. (b)(2) to (16). Pub. L. 102–372, § 5(2), (3), added pars. (2) to (5
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–63, § 6, Oct. 16, 1981, 95 Stat. 1018, provided that: “The amendments made by this Act [see Short Title of 1981 Amendment note below] shall take effect October 1, 1981.”
+Pub. L. 97–63, § 6, Oct. 16, 1981, 95 Stat. 1018, provided that: “The amendments made by this Act [see Short Title of 1981 Amendment note below] shall take effect October 1, 1981.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–94, div. I, title VIII, § 801, Dec. 20, 2019, 133 Stat. 3028, provided that: “This title [amending section 2131 of this title and section 1187 of Title 8, Aliens and Nationality] may be cited as the ‘Brand USA Extension Act’.”
+Pub. L. 116–94, div. I, title VIII, § 801, Dec. 20, 2019, 133 Stat. 3028, provided that: “This title [amending section 2131 of this title and section 1187 of Title 8, Aliens and Nationality] may be cited as the ‘Brand USA Extension Act’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–235, div. B, title VI, § 601, Dec. 16, 2014, 128 Stat. 2218, provided that: “This title [amending sections 2123, 2123a, and 2131 of this title and section 1187 of Title 8, Aliens and Nationality] may be cited as the ‘Travel Promotion, Enhancement, and Modernization Act of 2014’.”
+Pub. L. 113–235, div. B, title VI, § 601, Dec. 16, 2014, 128 Stat. 2218, provided that: “This title [amending sections 2123, 2123a, and 2131 of this title and section 1187 of Title 8, Aliens and Nationality] may be cited as the ‘Travel Promotion, Enhancement, and Modernization Act of 2014’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–288, § 1, Oct. 11, 1996, 110 Stat. 3402, provided that: “This Act [enacting sections 2124 and 2141 to 2141f of this title, amending sections 2122 and 2124c of this title and section 4727 of Title 15, Commerce and Trade, and repealing sections 2123 to 2123d, 2124 to 2124b, and 2126 to 2129 of this title] may be cited as the ‘United States National Tourism Organization Act of 1996’.”
+Pub. L. 104–288, § 1, Oct. 11, 1996, 110 Stat. 3402, provided that: “This Act [enacting sections 2124 and 2141 to 2141f of this title, amending sections 2122 and 2124c of this title and section 4727 of Title 15, Commerce and Trade, and repealing sections 2123 to 2123d, 2124 to 2124b, and 2126 to 2129 of this title] may be cited as the ‘United States National Tourism Organization Act of 1996’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–372, § 1(a), Sept. 30, 1992, 106 Stat. 1170, provided that: “This Act [enacting sections 2123a to 2123d and 2124c of this title, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123a and 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
+Pub. L. 102–372, § 1(a), Sept. 30, 1992, 106 Stat. 1170, provided that: “This Act [enacting sections 2123a to 2123d and 2124c of this title, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123a and 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–63, § 1, Oct. 16, 1981, 95 Stat. 1011, provided that: “This Act [enacting sections 2123b, 2124a, and 2124b of this title, amending this section and sections 2122, 2123, 2123a, 2124, and 2126 of this title, repealing section 2128 of this title, and enacting, amending, and repealing provisions set out as notes under this section] may be cited as the ‘National Tourism Policy Act’.”
+Pub. L. 97–63, § 1, Oct. 16, 1981, 95 Stat. 1011, provided that: “This Act [enacting sections 2123b, 2124a, and 2124b of this title, amending this section and sections 2122, 2123, 2123a, 2124, and 2126 of this title, repealing section 2128 of this title, and enacting, amending, and repealing provisions set out as notes under this section] may be cited as the ‘National Tourism Policy Act’.”
 
 **Short Title**
 
-Pub. L. 87–63, § 1, June 29, 1961, 75 Stat. 129, as amended by Pub. L. 97–63, § 2(a), Oct. 16, 1981, 95 Stat. 1011, provided: “That this Act [enacting this chapter] may be cited as the ‘International Travel Act of 1961’.”
+Pub. L. 87–63, § 1, June 29, 1961, 75 Stat. 129, as amended by Pub. L. 97–63, § 2(a), Oct. 16, 1981, 95 Stat. 1011, provided: “That this Act [enacting this chapter] may be cited as the ‘International Travel Act of 1961’.”
 
-Pub. L. 87–63, § 8, formerly § 7, June 29, 1961, 75 Stat. 130, as renumbered Pub. L. 91–477, § 5, Oct. 21, 1970, 84 Stat. 1072, which had formerly authorized the citation of Pub. L. 87–63 as the “International Travel Act of 1961”, was repealed by Pub. L. 97–63, § 5(b), Oct. 16, 1981, 95 Stat. 1018.
+Pub. L. 87–63, § 8, formerly § 7, June 29, 1961, 75 Stat. 130, as renumbered Pub. L. 91–477, § 5, Oct. 21, 1970, 84 Stat. 1072, which had formerly authorized the citation of Pub. L. 87–63 as the “International Travel Act of 1961”, was repealed by Pub. L. 97–63, § 5(b), Oct. 16, 1981, 95 Stat. 1018.
 
 **Tourism Policy and Export Promotion; Congressional Statement of Findings**
 
-Pub. L. 102–372, § 2, Sept. 30, 1992, 106 Stat. 1170, provided that:
+Pub. L. 102–372, § 2, Sept. 30, 1992, 106 Stat. 1170, provided that:
 
 > “The Congress finds that—
 
@@ -143,7 +143,7 @@ Pub. L. 102–372, § 2, Sept. 30, 1992, 106 Stat. 1170, provided that:
 
 **National Tourism Resources Review Commission**
 
-Pub. L. 91–477, § 6, Oct. 21, 1970, 84 Stat. 1073, provided that:
+Pub. L. 91–477, § 6, Oct. 21, 1970, 84 Stat. 1073, provided that:
 
 > **“(a)** [*Establishment; membership*]. There is established a commission to be known as the National Tourism Resources Review Commission (hereafter in this section referred to as the ‘Commission’) composed of fifteen members as follows:
 
@@ -191,7 +191,7 @@ Pub. L. 91–477, § 6, Oct. 21, 1970, 84 Stat. 1073, provided that:
 
 **Ex. Ord. No. 13597. Establishing Visa and Foreign Visitor Processing Goals and the Task Force On Travel and Competitiveness**
 
-Ex. Ord. No. 13597, Jan. 19, 2012, 77 F.R. 3373, as amended by Ex. Ord. No. 13802, § 1, June 21, 2017, 82 F.R. 28747, provided:
+Ex. Ord. No. 13597, Jan. 19, 2012, 77 F.R. 3373, as amended by Ex. Ord. No. 13802, § 1, June 21, 2017, 82 F.R. 28747, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to improve visa and foreign visitor processing and travel promotion in order to create jobs and spur economic growth in the United States, while continuing to protect our national security, it is hereby ordered as follows:
 
@@ -205,7 +205,7 @@ Sec. 2. *Visa and Foreign Visitor Processing*. (a) The Assistant to the Presiden
 
 (i) increase nonimmigrant visa processing capacity in China and Brazil by 40 percent over the coming year;
 
-(ii) [Revoked by Ex. Ord. No. 13802, § 1, June 21, 2017, 82 F.R. 28747.]
+(ii) [Revoked by Ex. Ord. No. 13802, § 1, June 21, 2017, 82 F.R. 28747.]
 
 (iii) increase efforts to expand the Visa Waiver Program and travel by nationals of Visa Waiver Program participants; and
 
@@ -259,7 +259,7 @@ Sec. 4. *General Provisions*. (a) This order shall be implemented consistent wit
 
 ## SUBCHAPTER II—DUTIES
 
-### § 2122. Powers and duties of Secretary of Commerce
+### § 2122. Powers and duties of Secretary of Commerce
 
 In order to carry out the national tourism policy established in section 2121(b) of this title and by the United States National Tourism Organization Act of 1996, the Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) shall develop and implement a comprehensive plan to perform critical tourism functions which, in the determination of the Secretary, are not being carried out by the United States National Tourism Organization or other private sector entities or State governments. Such plan may include programs to—
 
@@ -277,7 +277,7 @@ In order to carry out the national tourism policy established in section 2121(b)
 
 **(C)** maintaining United States participation in international travel and tourism trade shows and fairs until such activities can be transferred to such Organization and other private sector entities.
 
-(Pub. L. 87–63, title II, § 201, formerly § 2, June 29, 1961, 75 Stat. 129; Pub. L. 93–623, § 6, Jan. 3, 1975, 88 Stat. 2105; renumbered and amended Pub. L. 97–63, § 3(b), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, § 6(a), Sept. 30, 1992, 106 Stat. 1175; Pub. L. 104–288, § 10, Oct. 11, 1996, 110 Stat. 3407.)
+(Pub. L. 87–63, title II, § 201, formerly § 2, June 29, 1961, 75 Stat. 129; Pub. L. 93–623, § 6, Jan. 3, 1975, 88 Stat. 2105; renumbered and amended Pub. L. 97–63, § 3(b), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, § 6(a), Sept. 30, 1992, 106 Stat. 1175; Pub. L. 104–288, § 10, Oct. 11, 1996, 110 Stat. 3407.)
 
 **Editorial Notes**
 
@@ -289,17 +289,17 @@ The United States National Tourism Organization Act of 1996, referred to in text
 
 1996—Pub. L. 104–288 amended section generally to narrow tourism-related duties of Secretary of Commerce, in view of creation of United States National Tourism Organization, with Secretary to focus on critical promotion functions which, in determination of Secretary, are not being carried out by new Organization or other private sector or State entities.
 
-1992—Par. (2). Pub. L. 102–372, § 6(3), added par. (2). Former par. (2) redesignated (3).
+1992—Par. (2). Pub. L. 102–372, § 6(3), added par. (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 102–372, § 6(a)(1), (2), redesignated former par. (2) as (3) and substituted “receptive, linguistic, informational, currency exchange, meal, and package tour services required by the international market” for “tourist facilities, low cost unit tours, and other arrangements within the United States for meeting the requirements of foreign visitors”. Former par. (3) redesignated (4).
+Par. (3). Pub. L. 102–372, § 6(a)(1), (2), redesignated former par. (2) as (3) and substituted “receptive, linguistic, informational, currency exchange, meal, and package tour services required by the international market” for “tourist facilities, low cost unit tours, and other arrangements within the United States for meeting the requirements of foreign visitors”. Former par. (3) redesignated (4).
 
-Pars. (4) to (6). Pub. L. 102–372, § 6(a)(1), redesignated former pars. (3) to (5) as (4) to (6), respectively. Former par. (6) redesignated (7).
+Pars. (4) to (6). Pub. L. 102–372, § 6(a)(1), redesignated former pars. (3) to (5) as (4) to (6), respectively. Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 102–372, § 6(1), (4), redesignated former par. (6) as (7) and substituted “and the use of other United States providers of travel products and services; and” for period at end.
+Par. (7). Pub. L. 102–372, § 6(1), (4), redesignated former par. (6) as (7) and substituted “and the use of other United States providers of travel products and services; and” for period at end.
 
-Par. (8). Pub. L. 102–372, § 6(5), added par. (8).
+Par. (8). Pub. L. 102–372, § 6(5), added par. (8).
 
-1981—Pub. L. 97–63, § 3(b), substituted “In order to carry out the national tourism policy established by section 2121(b) of this title” for “In order to carry out the purpose of this chapter”.
+1981—Pub. L. 97–63, § 3(b), substituted “In order to carry out the national tourism policy established by section 2121(b) of this title” for “In order to carry out the purpose of this chapter”.
 
 1975—Par. (6). Pub. L. 93–623 added par. (6).
 
@@ -311,7 +311,7 @@ Amendment by Pub. L. 97–63 effective Oct. 1, 1981, see section 6 of Pub. L. 97
 
 **United States Travel and Tourism Promotion**
 
-Pub. L. 108–7, div. B, title II, § 210, Feb. 20, 2003, 117 Stat. 78, provided that:
+Pub. L. 108–7, div. B, title II, § 210, Feb. 20, 2003, 117 Stat. 78, provided that:
 
 > **“(a)** The Secretary of Commerce is authorized to award grants and make direct lump sum payments in support of an international advertising and promotional campaign developed in consultation with the private sector to encourage individuals to travel to the United States consisting of radio, television, and print advertising and marketing programs.
 
@@ -325,7 +325,7 @@ Pub. L. 108–7, div. B, title II, § 210, Feb. 20, 2003, 117 Stat. 78, provid
 
 **Survey of International Air Travelers**
 
-Pub. L. 102–372, § 3, Sept. 30, 1992, 106 Stat. 1171, provided that:
+Pub. L. 102–372, § 3, Sept. 30, 1992, 106 Stat. 1171, provided that:
 
 > “The Secretary of Commerce, to the extent available resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation’s balance of payments in international travel by—
 
@@ -337,9 +337,9 @@ Pub. L. 102–372, § 3, Sept. 30, 1992, 106 Stat. 1171, provided that:
 
 **Report on Tourism and Travel Activities**
 
-Pub. L. 102–372, § 18, Sept. 30, 1992, 106 Stat. 1182, directed Secretary of Commerce, within 18 months after Sept. 30, 1992, to report to Congress on (1) status of actions required by section 3 of Pub. L. 102–372 and desirability and feasibility of publishing international travel receipts and payments on a monthly basis, (2) Secretary’s actions under 22 U.S.C. 2122(8) regarding the inbound and outbound tourism trade between United States and emerging democracies of Eastern Europe and the former Soviet Union, (3) activities of Department of Commerce and other Federal agencies to increase tourism opportunities for, and encourage travel by, disabled persons, and (4) efforts undertaken under 22 U.S.C. 2123c to improve visitor facilitation and effect on United States travel and tourism as a result of those improvements.
+Pub. L. 102–372, § 18, Sept. 30, 1992, 106 Stat. 1182, directed Secretary of Commerce, within 18 months after Sept. 30, 1992, to report to Congress on (1) status of actions required by section 3 of Pub. L. 102–372 and desirability and feasibility of publishing international travel receipts and payments on a monthly basis, (2) Secretary’s actions under 22 U.S.C. 2122(8) regarding the inbound and outbound tourism trade between United States and emerging democracies of Eastern Europe and the former Soviet Union, (3) activities of Department of Commerce and other Federal agencies to increase tourism opportunities for, and encourage travel by, disabled persons, and (4) efforts undertaken under 22 U.S.C. 2123c to improve visitor facilitation and effect on United States travel and tourism as a result of those improvements.
 
-### § 2123. Office of Travel Promotion
+### § 2123. Office of Travel Promotion
 
 **(a) Office established**
 
@@ -361,9 +361,9 @@ The Director shall be responsible for ensuring the office is carrying out its fu
 
 **(c) Functions** The Office shall—
 
-**(1)** serve as liaison to the Corporation for Travel Promotion established by subsection (b) of section 11 of the Travel Promotion Act of 2009 1
+**(1)** serve as liaison to the Corporation for Travel Promotion established by subsection (b) of section 11 of the Travel Promotion Act of 2009 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and support and encourage the development of programs to increase the number of international visitors to the United States for business, leisure, educational, medical, exchange, and other purposes;
 
@@ -383,7 +383,7 @@ and support and encourage the development of programs to increase the number of 
 
 Within a year after March 4, 2010, and periodically thereafter as appropriate, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on Foreign Relations, the House of Representatives Committee on Energy and Commerce, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on Foreign Affairs describing the Office’s work with the Corporation, the Secretary of State and the Secretary of Homeland Security to carry out subsection (c)(2).
 
-(Pub. L. 87–63, title II, § 202, as added Pub. L. 111–145, § 9(i), formerly § 9(g), Mar. 4, 2010, 124 Stat. 63; renumbered 9(i), Pub. L. 113–235, div. B, title VI, § 606(1), Dec. 16, 2014, 128 Stat. 2219.)
+(Pub. L. 87–63, title II, § 202, as added Pub. L. 111–145, § 9(i), formerly § 9(g), Mar. 4, 2010, 124 Stat. 63; renumbered 9(i), Pub. L. 113–235, div. B, title VI, § 606(1), Dec. 16, 2014, 128 Stat. 2219.)
 
 **Editorial Notes**
 
@@ -393,9 +393,9 @@ Subsection (b) of section 11 of the Travel Promotion Act of 2009, referred to in
 
 **Prior Provisions**
 
-A prior section 2123, Pub. L. 87–63, title II, § 202, formerly § 3, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, §§ 1, 2, Oct. 21, 1970, 84 Stat. 1071, 1072; renumbered and amended Pub. L. 97–63, § 3(c), (d), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, §§ 4(n), 6(b), (c), 7, 8(b), Sept. 30, 1992, 106 Stat. 1174, 1176, 1178, enumerated duties of Secretary of Commerce in carrying out national tourism policy, prior to repeal by Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407.
+A prior section 2123, Pub. L. 87–63, title II, § 202, formerly § 3, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, §§ 1, 2, Oct. 21, 1970, 84 Stat. 1071, 1072; renumbered and amended Pub. L. 97–63, § 3(c), (d), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, §§ 4(n), 6(b), (c), 7, 8(b), Sept. 30, 1992, 106 Stat. 1174, 1176, 1178, enumerated duties of Secretary of Commerce in carrying out national tourism policy, prior to repeal by Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407.
 
-### § 2123a. Research program
+### § 2123a. Research program
 
 **(a) In general** The Office of Travel and Tourism Industries shall expand and continue its research and development activities in connection with the promotion of international travel to the United States, including—
 
@@ -413,29 +413,29 @@ A prior section 2123, Pub. L. 87–63, title II, § 202, formerly § 3, June
 
 There are authorized to be appropriated to the Secretary of Commerce for fiscal years 2010 through 2014 such sums as may be necessary to carry out this section.
 
-(Pub. L. 87–63, title II, § 203, as added Pub. L. 111–145, § 9(j), formerly § 9(h), Mar. 4, 2010, 124 Stat. 64; renumbered 9(j), Pub. L. 113–235, div. B, title VI, § 606(1), Dec. 16, 2014, 128 Stat. 2219.)
+(Pub. L. 87–63, title II, § 203, as added Pub. L. 111–145, § 9(j), formerly § 9(h), Mar. 4, 2010, 124 Stat. 64; renumbered 9(j), Pub. L. 113–235, div. B, title VI, § 606(1), Dec. 16, 2014, 128 Stat. 2219.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2123a, Pub. L. 87–63, title II, § 203, as added Pub. L. 102–372, § 8(a), Sept. 30, 1992, 106 Stat. 1177, provided for program of financial assistance to cooperative tourism marketing programs, prior to repeal by Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407.
+A prior section 2123a, Pub. L. 87–63, title II, § 203, as added Pub. L. 102–372, § 8(a), Sept. 30, 1992, 106 Stat. 1177, provided for program of financial assistance to cooperative tourism marketing programs, prior to repeal by Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407.
 
-Another prior section 2123a, Pub. L. 87–63, title II, § 203, formerly § 5, June 29, 1961, 75 Stat. 130; renumbered title II, § 203, and amended Pub. L. 97–63, § 3(e), Oct. 16, 1981, 95 Stat. 1013, directed Secretary to submit annual reports to President and Congress on activities under this chapter, prior to repeal by Pub. L. 102–372, § 8(a), Sept. 30, 1992, 106 Stat. 1177. Section was formerly classified to section 2125 of this title prior to its renumbering by Pub. L. 97–63.
+Another prior section 2123a, Pub. L. 87–63, title II, § 203, formerly § 5, June 29, 1961, 75 Stat. 130; renumbered title II, § 203, and amended Pub. L. 97–63, § 3(e), Oct. 16, 1981, 95 Stat. 1013, directed Secretary to submit annual reports to President and Congress on activities under this chapter, prior to repeal by Pub. L. 102–372, § 8(a), Sept. 30, 1992, 106 Stat. 1177. Section was formerly classified to section 2125 of this title prior to its renumbering by Pub. L. 97–63.
 
-### §§ 2123b to 2123d. Repealed. Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407
+### §§ 2123b to 2123d. Repealed. Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407
 
-Section 2123b, Pub. L. 87–63, title II, § 204, as added Pub. L. 102–372, § 9, Sept. 30, 1992, 106 Stat. 1178, provided for program to identify and eliminate tourism trade barriers.
+Section 2123b, Pub. L. 87–63, title II, § 204, as added Pub. L. 102–372, § 9, Sept. 30, 1992, 106 Stat. 1178, provided for program to identify and eliminate tourism trade barriers.
 
-A prior section 2123b, Pub. L. 87–63, title II, § 204, as added Pub. L. 97–63, § 3(f), Oct. 16, 1981, 95 Stat. 1013, related to a regional tourism promotional and marketing program, prior to repeal by Pub. L. 102–372, § 8(a), Sept. 30, 1992, 106 Stat. 1177.
+A prior section 2123b, Pub. L. 87–63, title II, § 204, as added Pub. L. 97–63, § 3(f), Oct. 16, 1981, 95 Stat. 1013, related to a regional tourism promotional and marketing program, prior to repeal by Pub. L. 102–372, § 8(a), Sept. 30, 1992, 106 Stat. 1177.
 
-Section 2123c, Pub. L. 87–63, title II, § 205, as added Pub. L. 102–372, § 10, Sept. 30, 1992, 106 Stat. 1178, directed Secretary of Commerce to take appropriate steps to prevent unnecessary delays when foreign tourists enter United States.
+Section 2123c, Pub. L. 87–63, title II, § 205, as added Pub. L. 102–372, § 10, Sept. 30, 1992, 106 Stat. 1178, directed Secretary of Commerce to take appropriate steps to prevent unnecessary delays when foreign tourists enter United States.
 
-Section 2123d, Pub. L. 87–63, title II, § 206, as added Pub. L. 102–372, § 11, Sept. 30, 1992, 106 Stat. 1179, provided for measurement and evaluation of performance of United States Travel and Tourism Administration.
+Section 2123d, Pub. L. 87–63, title II, § 206, as added Pub. L. 102–372, § 11, Sept. 30, 1992, 106 Stat. 1179, provided for measurement and evaluation of performance of United States Travel and Tourism Administration.
 
 ## SUBCHAPTER III—ADMINISTRATION
 
-### § 2124. Tourism Policy Council
+### § 2124. Tourism Policy Council
 
 **(a) Establishment**
 
@@ -499,13 +499,13 @@ Where necessary to prevent the public disclosure of non-public information which
 
 The membership of the President of the United States National Tourism Organization on the Council shall not in itself make chapter 10 of title 5 applicable to the Council.
 
-(Pub. L. 87–63, title III, § 301, as added Pub. L. 104–288, § 11, Oct. 11, 1996, 110 Stat. 3408; amended Pub. L. 117–286, § 4(a)(165), Dec. 27, 2022, 136 Stat. 4324.)
+(Pub. L. 87–63, title III, § 301, as added Pub. L. 104–288, § 11, Oct. 11, 1996, 110 Stat. 3408; amended Pub. L. 117–286, § 4(a)(165), Dec. 27, 2022, 136 Stat. 4324.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2124, Pub. L. 87–63, title III, § 301, formerly § 4, June 29, 1961, 75 Stat. 130; Pub. L. 88–426, title III, § 305(29), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–477, § 3(a), Oct. 21, 1970, 84 Stat. 1072; renumbered and amended Pub. L. 97–63, § 4(a)(1)–(3), (b), (c)(2), Oct. 16, 1981, 95 Stat. 1014, 1015; Pub. L. 102–372, §§ 12–14, Sept. 30, 1992, 106 Stat. 1180, related to establishment of United States Travel and Tourism Administration, prior to repeal by Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407.
+A prior section 2124, Pub. L. 87–63, title III, § 301, formerly § 4, June 29, 1961, 75 Stat. 130; Pub. L. 88–426, title III, § 305(29), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–477, § 3(a), Oct. 21, 1970, 84 Stat. 1072; renumbered and amended Pub. L. 97–63, § 4(a)(1)–(3), (b), (c)(2), Oct. 16, 1981, 95 Stat. 1014, 1015; Pub. L. 102–372, §§ 12–14, Sept. 30, 1992, 106 Stat. 1180, related to establishment of United States Travel and Tourism Administration, prior to repeal by Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407.
 
 **Amendments**
 
@@ -521,13 +521,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-### §§ 2124a, 2124b. Repealed. Pub. L. 104–288, §§ 9(a), 11, Oct. 11, 1996, 110 Stat. 3407, 3408
+### §§ 2124a, 2124b. Repealed. Pub. L. 104–288, §§ 9(a), 11, Oct. 11, 1996, 110 Stat. 3407, 3408
 
-Section 2124a, Pub. L. 87–63, title III, § 302, as added Pub. L. 97–63, § 4(c)(2), Oct. 16, 1981, 95 Stat. 1015; amended Pub. L. 102–372, § 15, Sept. 30, 1992, 106 Stat. 1181, provided for establishment of Tourism Policy Council. See section 2124 of this title.
+Section 2124a, Pub. L. 87–63, title III, § 302, as added Pub. L. 97–63, § 4(c)(2), Oct. 16, 1981, 95 Stat. 1015; amended Pub. L. 102–372, § 15, Sept. 30, 1992, 106 Stat. 1181, provided for establishment of Tourism Policy Council. See section 2124 of this title.
 
-Section 2124b, Pub. L. 87–63, title III, § 303, as added Pub. L. 97–63, § 4(c)(2), Oct. 16, 1981, 95 Stat. 1017; amended Pub. L. 102–372, § 16, Sept. 30, 1992, 106 Stat. 1181, provided for establishment of Travel and Tourism Advisory Board.
+Section 2124b, Pub. L. 87–63, title III, § 303, as added Pub. L. 97–63, § 4(c)(2), Oct. 16, 1981, 95 Stat. 1017; amended Pub. L. 102–372, § 16, Sept. 30, 1992, 106 Stat. 1181, provided for establishment of Travel and Tourism Advisory Board.
 
-### § 2124c. Rural Tourism Development Foundation
+### § 2124c. Rural Tourism Development Foundation
 
 **(a) Establishment of Foundation**
 
@@ -641,7 +641,7 @@ The Foundation shall, as soon as practicable after the end of each fiscal year, 
 
 **(4)** the term “rural tourism” has the meaning given that term by the Secretary of Commerce and shall include activities related to travel and tourism that occur on Federal recreational sites, on Indian reservations, and in the territories, possessions, and commonwealths of the United States.
 
-(Pub. L. 102–372, § 4, Sept. 30, 1992, 106 Stat. 1171; Pub. L. 104–288, § 9(b), Oct. 11, 1996, 110 Stat. 3407.)
+(Pub. L. 102–372, § 4, Sept. 30, 1992, 106 Stat. 1171; Pub. L. 104–288, § 9(b), Oct. 11, 1996, 110 Stat. 3407.)
 
 **Editorial Notes**
 
@@ -661,29 +661,29 @@ Section was enacted as part of the Tourism Policy and Export Promotion Act of 19
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-### § 2125. Transferred
+### § 2125. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 87–63, title II, § 203, formerly § 5, June 29, 1961, 75 Stat. 130, which related to annual reports to the President and Congress, was renumbered by Pub. L. 97–63, § 3(e), Oct. 16, 1981, 95 Stat. 1013, transferred to section 2123a of this title, and subsequently repealed by Pub. L. 102–372, § 8(a), Sept. 30, 1992, 106 Stat. 1177.
+Section, Pub. L. 87–63, title II, § 203, formerly § 5, June 29, 1961, 75 Stat. 130, which related to annual reports to the President and Congress, was renumbered by Pub. L. 97–63, § 3(e), Oct. 16, 1981, 95 Stat. 1013, transferred to section 2123a of this title, and subsequently repealed by Pub. L. 102–372, § 8(a), Sept. 30, 1992, 106 Stat. 1177.
 
-### §§ 2126 to 2129. Repealed. Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407
+### §§ 2126 to 2129. Repealed. Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407
 
-Section 2126, Pub. L. 87–63, title III, § 304, formerly § 6, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, § 4, Oct. 21, 1970, 84 Stat. 1072; Pub. L. 93–193, § 1(a), Dec. 19, 1973, 87 Stat. 765; Pub. L. 94–55, § 1, July 9, 1975, 89 Stat. 262; Pub. L. 96–85, § 1, Oct. 10, 1979, 93 Stat. 655; renumbered and amended Pub. L. 97–63, § 5(a), Oct. 16, 1981, 95 Stat. 1018; Pub. L. 102–372, § 17, Sept. 30, 1992, 106 Stat. 1181, authorized appropriations to carry out this chapter.
+Section 2126, Pub. L. 87–63, title III, § 304, formerly § 6, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, § 4, Oct. 21, 1970, 84 Stat. 1072; Pub. L. 93–193, § 1(a), Dec. 19, 1973, 87 Stat. 765; Pub. L. 94–55, § 1, July 9, 1975, 89 Stat. 262; Pub. L. 96–85, § 1, Oct. 10, 1979, 93 Stat. 655; renumbered and amended Pub. L. 97–63, § 5(a), Oct. 16, 1981, 95 Stat. 1018; Pub. L. 102–372, § 17, Sept. 30, 1992, 106 Stat. 1181, authorized appropriations to carry out this chapter.
 
-Section 2127, Pub. L. 87–63, title III, § 305, formerly § 7, as added Pub. L. 91–477, § 5, Oct. 21, 1970, 84 Stat. 1072, and renumbered Pub. L. 97–63, § 5(b), Oct. 16, 1981, 95 Stat. 1018, defined terms used in this chapter.
+Section 2127, Pub. L. 87–63, title III, § 305, formerly § 7, as added Pub. L. 91–477, § 5, Oct. 21, 1970, 84 Stat. 1072, and renumbered Pub. L. 97–63, § 5(b), Oct. 16, 1981, 95 Stat. 1018, defined terms used in this chapter.
 
-Section 2128, Pub. L. 87–63, title III, § 306, as added Pub. L. 101–508, title X, § 10301(a), Nov. 5, 1990, 104 Stat. 1388–395, provided for United States Travel and Tourism Administration Facilitation fee to be collected from each airline and cruise ship line transporting passengers to United States.
+Section 2128, Pub. L. 87–63, title III, § 306, as added Pub. L. 101–508, title X, § 10301(a), Nov. 5, 1990, 104 Stat. 1388–395, provided for United States Travel and Tourism Administration Facilitation fee to be collected from each airline and cruise ship line transporting passengers to United States.
 
-A prior section 2128, Pub. L. 87–63, § 9, as added Pub. L. 96–85, § 2, Oct. 10, 1979, 93 Stat. 655, related to reduction in number of employees of United States Travel Service in District of Columbia offices, prior to repeal by Pub. L. 97–63, § 5(b), Oct. 16, 1981, 95 Stat. 1018, effective Oct. 1, 1981.
+A prior section 2128, Pub. L. 87–63, § 9, as added Pub. L. 96–85, § 2, Oct. 10, 1979, 93 Stat. 655, related to reduction in number of employees of United States Travel Service in District of Columbia offices, prior to repeal by Pub. L. 97–63, § 5(b), Oct. 16, 1981, 95 Stat. 1018, effective Oct. 1, 1981.
 
-Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, title X, § 10301(b), Nov. 5, 1990, 104 Stat. 1388–396, provided civil penalties for nonpayment of Travel and Tourism Administration Facilitation fee.
+Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, title X, § 10301(b), Nov. 5, 1990, 104 Stat. 1388–396, provided civil penalties for nonpayment of Travel and Tourism Administration Facilitation fee.
 
 ## SUBCHAPTER IV—CORPORATION FOR TRAVEL PROMOTION
 
-### § 2131. Travel Promotion Act of 2009
+### § 2131. Travel Promotion Act of 2009
 
 **(a) Short title**
 
@@ -779,7 +779,7 @@ The Corporation may not contribute to or otherwise support any political party o
 
 It is the sense of Congress that the Corporation should not engage in lobbying activities (as defined in section 1602(7) of title 2.1
 
-<sup>1</sup>  So in original. A closing parenthesis probably should precede the period.
+<sup>1</sup> So in original. A closing parenthesis probably should precede the period.
 
 **(5) Duties and powers**
 
@@ -797,7 +797,7 @@ It is the sense of Congress that the Corporation should not engage in lobbying a
 
 **(vi)** to promote tourism to the United States through digital media, online platforms, and other appropriate medium.2
 
-<sup>2</sup>  So in original. Probably should be “media.”
+<sup>2</sup> So in original. Probably should be “media.”
 
 **(B) Specific powers** In order to carry out the purposes of this subsection, the Corporation may—
 
@@ -947,7 +947,7 @@ Amounts transferred to the Fund under paragraph (2)(B) shall remain available un
 
 Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2027 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
 
-**(e) Repealed. Pub. L. 113–235, div. B, title VI, § 607, Dec. 16, 2014, 128 Stat. 2220**
+**(e) Repealed. Pub. L. 113–235, div. B, title VI, § 607, Dec. 16, 2014, 128 Stat. 2220**
 
 **(f) Accountability**
 
@@ -975,7 +975,7 @@ Not later than 60 days after the date on which the Corporation receives a report
 
 **(h) to (j) Omitted**
 
-(Pub. L. 111–145, § 9, Mar. 4, 2010, 124 Stat. 56; Pub. L. 111–198, § 5(b), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §§ 602–605(a), 606, 607, Dec. 16, 2014, 128 Stat. 2218–2220; Pub. L. 116–94, div. I, title VIII, §§ 802–804, Dec. 20, 2019, 133 Stat. 3028, 3029; Pub. L. 119–21, title IV, § 40009, July 4, 2025, 139 Stat. 136.)
+(Pub. L. 111–145, § 9, Mar. 4, 2010, 124 Stat. 56; Pub. L. 111–198, § 5(b), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §§ 602–605(a), 606, 607, Dec. 16, 2014, 128 Stat. 2218–2220; Pub. L. 116–94, div. I, title VIII, §§ 802–804, Dec. 20, 2019, 133 Stat. 3028, 3029; Pub. L. 119–21, title IV, § 40009, July 4, 2025, 139 Stat. 136.)
 
 **Editorial Notes**
 
@@ -985,7 +985,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1
 
 **Codification**
 
-Section is comprised of section 9 of Pub. L. 111–145. Subsec. (h) of section 9 of Pub. L. 111–145, as redesignated by Pub. L. 113–235, § 606(1), amended section 1187 of Title 8, Aliens and Nationality. Subsecs. (i) and (j) of section 9 of Pub. L. 111–145, as redesignated by Pub. L. 113–235, § 606(1), enacted sections 2123 and 2123a of this title, respectively.
+Section is comprised of section 9 of Pub. L. 111–145. Subsec. (h) of section 9 of Pub. L. 111–145, as redesignated by Pub. L. 113–235, § 606(1), amended section 1187 of Title 8, Aliens and Nationality. Subsecs. (i) and (j) of section 9 of Pub. L. 111–145, as redesignated by Pub. L. 113–235, § 606(1), enacted sections 2123 and 2123a of this title, respectively.
 
 Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
@@ -993,62 +993,62 @@ Section was enacted as part of the United States Capitol Police Administrative T
 
 2025—Subsec. (d)(2)(B). Pub. L. 119–21 substituted “$20,000,000” for “$100,000,000”.
 
-2019—Subsec. (b)(2)(A)(ii). Pub. L. 116–94, § 802(1)(A), inserted “or foodservice” after “restaurant”.
+2019—Subsec. (b)(2)(A)(ii). Pub. L. 116–94, § 802(1)(A), inserted “or foodservice” after “restaurant”.
 
-Subsec. (b)(2)(A)(v). Pub. L. 116–94, § 802(1)(B), inserted “, such as outdoor recreation” before semicolon at end.
+Subsec. (b)(2)(A)(v). Pub. L. 116–94, § 802(1)(B), inserted “, such as outdoor recreation” before semicolon at end.
 
-Subsec. (b)(2)(A)(viii). Pub. L. 116–94, § 802(1)(C), inserted “commercial or private” before “passenger air sector”.
+Subsec. (b)(2)(A)(viii). Pub. L. 116–94, § 802(1)(C), inserted “commercial or private” before “passenger air sector”.
 
-Subsec. (b)(5)(A)(iii). Pub. L. 116–94, § 802(2)(A), inserted “speaking conventions, sales missions,” after “trade shows,”.
+Subsec. (b)(5)(A)(iii). Pub. L. 116–94, § 802(2)(A), inserted “speaking conventions, sales missions,” after “trade shows,”.
 
-Subsec. (b)(5)(A)(vi). Pub. L. 116–94, § 802(2)(B)–(D), added cl. (vi).
+Subsec. (b)(5)(A)(vi). Pub. L. 116–94, § 802(2)(B)–(D), added cl. (vi).
 
-Subsec. (b)(7)(C). Pub. L. 116–94, § 802(3), substituted “5 days” for “3 days”.
+Subsec. (b)(7)(C). Pub. L. 116–94, § 802(3), substituted “5 days” for “3 days”.
 
-Subsec. (c)(2). Pub. L. 116–94, § 803(1), substituted “$450,000” for “$500,000”.
+Subsec. (c)(2). Pub. L. 116–94, § 803(1), substituted “$450,000” for “$500,000”.
 
-Subsec. (c)(3)(I) to (K). Pub. L. 116–94, § 803(2), added subpars. (I) and (J) and redesignated former subpar. (I) as (K).
+Subsec. (c)(3)(I) to (K). Pub. L. 116–94, § 803(2), added subpars. (I) and (J) and redesignated former subpar. (I) as (K).
 
-Subsec. (d)(2)(B). Pub. L. 116–94, § 804(1), substituted “2027” for “2020”.
+Subsec. (d)(2)(B). Pub. L. 116–94, § 804(1), substituted “2027” for “2020”.
 
-Subsec. (d)(3)(B)(ii). Pub. L. 116–94, § 804(2), substituted “50 percent” for “70 percent”.
+Subsec. (d)(3)(B)(ii). Pub. L. 116–94, § 804(2), substituted “50 percent” for “70 percent”.
 
-Subsec. (d)(4)(B). Pub. L. 116–94, § 804(3), substituted “2027” for “2020”.
+Subsec. (d)(4)(B). Pub. L. 116–94, § 804(3), substituted “2027” for “2020”.
 
-2014—Subsec. (b)(2)(A). Pub. L. 113–235, § 602(1), in introductory provisions, substituted “promotion or marketing” for “promotion and marketing” and inserted “At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with section 7265 of title 15). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position.” after “United States citizens.”
+2014—Subsec. (b)(2)(A). Pub. L. 113–235, § 602(1), in introductory provisions, substituted “promotion or marketing” for “promotion and marketing” and inserted “At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with section 7265 of title 15). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position.” after “United States citizens.”
 
-Subsec. (b)(2)(A)(x). Pub. L. 113–235, § 602(2), substituted “land or sea passenger transportation sector” for “intercity passenger railroad business”.
+Subsec. (b)(2)(A)(x). Pub. L. 113–235, § 602(2), substituted “land or sea passenger transportation sector” for “intercity passenger railroad business”.
 
-Subsec. (b)(5)(A)(iv). Pub. L. 113–235, § 605(a)(1), substituted “all States and territories of the United States and the District of Columbia,” for “all States and the District of Columbia”.
+Subsec. (b)(5)(A)(iv). Pub. L. 113–235, § 605(a)(1), substituted “all States and territories of the United States and the District of Columbia,” for “all States and the District of Columbia”.
 
-Subsec. (c)(2). Pub. L. 113–235, § 606(3), substituted “$500,000” for “$5,000,000”.
+Subsec. (c)(2). Pub. L. 113–235, § 606(3), substituted “$500,000” for “$5,000,000”.
 
-Subsec. (c)(3)(G) to (I). Pub. L. 113–235, § 603, added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
+Subsec. (c)(3)(G) to (I). Pub. L. 113–235, § 603, added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
 
-Subsec. (d)(2)(B). Pub. L. 113–235, § 605(a)(2)(A), substituted “2020” for “2015”.
+Subsec. (d)(2)(B). Pub. L. 113–235, § 605(a)(2)(A), substituted “2020” for “2015”.
 
-Subsec. (d)(3)(B)(ii). Pub. L. 113–235, § 604(1), substituted “70 percent” for “80 percent”.
+Subsec. (d)(3)(B)(ii). Pub. L. 113–235, § 604(1), substituted “70 percent” for “80 percent”.
 
-Subsec. (d)(3)(E) to (G). Pub. L. 113–235, § 604(2), added subpars. (E) to (G).
+Subsec. (d)(3)(E) to (G). Pub. L. 113–235, § 604(2), added subpars. (E) to (G).
 
-Subsec. (d)(4)(B). Pub. L. 113–235, § 605(a)(2)(B), substituted “each of the fiscal years 2011 through 2020” for “fiscal year 2011, 2012, 2013, 2014, or 2015”.
+Subsec. (d)(4)(B). Pub. L. 113–235, § 605(a)(2)(B), substituted “each of the fiscal years 2011 through 2020” for “fiscal year 2011, 2012, 2013, 2014, or 2015”.
 
-Subsec. (e). Pub. L. 113–235, § 607, struck out subsec. (e), which related to Corporation’s authority to impose annual assessment on United States members of the international travel and tourism industry.
+Subsec. (e). Pub. L. 113–235, § 607, struck out subsec. (e), which related to Corporation’s authority to impose annual assessment on United States members of the international travel and tourism industry.
 
-Pub. L. 113–235, § 606(1), (2), redesignated subsec. (f) as (e) and moved it to follow subsec. (d). Former subsec. (e) redesignated (h).
+Pub. L. 113–235, § 606(1), (2), redesignated subsec. (f) as (e) and moved it to follow subsec. (d). Former subsec. (e) redesignated (h).
 
-Subsec. (f). Pub. L. 113–235, § 606(4), added subsec. (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 113–235, § 606(4), added subsec. (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 113–235, § 606(4), added subsec. (g). Former subsec. (g) redesignated (i).
+Subsec. (g). Pub. L. 113–235, § 606(4), added subsec. (g). Former subsec. (g) redesignated (i).
 
-Subsec. (h). Pub. L. 113–235, § 606(1), redesignated subsec. (e) as (h). Former subsec. (h) redesignated (j).
+Subsec. (h). Pub. L. 113–235, § 606(1), redesignated subsec. (e) as (h). Former subsec. (h) redesignated (j).
 
-Subsecs. (i), (j). Pub. L. 113–235, § 606(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
+Subsecs. (i), (j). Pub. L. 113–235, § 606(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
-2010—Subsec. (d)(2)(A). Pub. L. 111–198, § 5(b)(1), (2), substituted “The” for “For fiscal year 2010, the” and “monthly, immediately following the collection of fees under section 1187(h)(3)(B)(i)(I) of title 8,” for “quarterly, beginning on January 1, 2010,”.
+2010—Subsec. (d)(2)(A). Pub. L. 111–198, § 5(b)(1), (2), substituted “The” for “For fiscal year 2010, the” and “monthly, immediately following the collection of fees under section 1187(h)(3)(B)(i)(I) of title 8,” for “quarterly, beginning on January 1, 2010,”.
 
-Subsec. (d)(2)(B). Pub. L. 111–198, § 5(b)(3), substituted “fiscal years 2012 through 2015,” for “fiscal years 2011 through 2014,”.
+Subsec. (d)(2)(B). Pub. L. 111–198, § 5(b)(3), substituted “fiscal years 2012 through 2015,” for “fiscal years 2011 through 2014,”.
 
-Subsec. (d)(3)(A). Pub. L. 111–198, § 5(b)(4), (5), substituted “fiscal year 2011,” for “fiscal year 2010,” in introductory provisions and “fiscal year 2012,” for “fiscal year 2011,” in cls. (i) and (ii).
+Subsec. (d)(3)(A). Pub. L. 111–198, § 5(b)(4), (5), substituted “fiscal year 2011,” for “fiscal year 2010,” in introductory provisions and “fiscal year 2012,” for “fiscal year 2011,” in cls. (i) and (ii).
 
-Subsec. (d)(4)(B). Pub. L. 111–198, § 5(b)(6), substituted “fiscal year 2011, 2012, 2013, 2014, or 2015” for “fiscal year 2010, 2011, 2012, 2013, or 2014”.
+Subsec. (d)(4)(B). Pub. L. 111–198, § 5(b)(6), substituted “fiscal year 2011, 2012, 2013, 2014, or 2015” for “fiscal year 2010, 2011, 2012, 2013, or 2014”.

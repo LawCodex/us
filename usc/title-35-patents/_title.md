@@ -13,23 +13,23 @@ retrieved: 2026-10-11
 
 # Title 35—PATENTS
 
-This title was enacted by act July 19, 1952, ch. 950, § 1, 66 Stat. 792
+This title was enacted by act July 19, 1952, ch. 950, § 1, 66 Stat. 792
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Pub. L. 112–211, title I, § 101(b), Dec. 18, 2012, 126 Stat. 1531, added item V.
+2012—Pub. L. 112–211, title I, § 101(b), Dec. 18, 2012, 126 Stat. 1531, added item V.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
 
-1984—Pub. L. 98–622, title IV, § 403(b), Nov. 8, 1984, 98 Stat. 3392, added item IV.
+1984—Pub. L. 98–622, title IV, § 403(b), Nov. 8, 1984, 98 Stat. 3392, added item IV.
 
-**Table Showing Disposition of All Sections of Former Title 35**
+**Table Showing Disposition of All Sections of Former Title 35**
 
-| *Title 35* *Former Sections* | *Title 35* *New Sections* |
+| *Title 35* *Former Sections* | *Title 35* *New Sections* |
 |---|---|
 | 1 | 1 |
 | 2 | 3 |
@@ -44,7 +44,7 @@ Current through 119-102not101
 | 12 | 22 |
 | 13 | 11 |
 | 14 | 10 |
-| 14a | (See former § 78) |
+| 14a | (See former § 78) |
 | 15 | 12 |
 | 16 | 11(a) 1 |
 | 17–19 | Rep. |
@@ -81,7 +81,7 @@ Current through 119-102not101
 | 56a | 164 |
 | 57 | 134 |
 | 58, 59 | Rep. |
-| 59a | 141; T. 28 § 1542 |
+| 59a | 141; T. 28 § 1542 |
 | 60 | 142 |
 | 61 | 143 |
 | 62 | 144 |
@@ -90,7 +90,7 @@ Current through 119-102not101
 | 65 | 253 |
 | 66 | 291 |
 | 67 | 281, 284 |
-| 68 | T. 28 § 1498 |
+| 68 | T. 28 § 1498 |
 | 69 | 102(g), 282 |
 | 70 | 283–286, 290 |
 | 71 | 288 |
@@ -108,7 +108,7 @@ Current through 119-102not101
 | 101–108 | Elim. |
 | 109 | 104 |
 | 110–118a | Elim. |
-| 119 | T. 50 App. § 2371 |
+| 119 | T. 50 App. § 2371 |
 | 151 | 181 |
 | 152 | 182 |
 | 153 | 183 |
@@ -143,7 +143,7 @@ Section 4 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that:
 
 > **“(e)** Nothing contained in Title 35, as enacted by section 1 hereof, shall operate to nullify any judicial finding prior to the effective date of this Act on the validity of any patent by a court of competent jurisdiction.
 
-> **“(f)** Nothing in Title 35, as enacted by section 1 hereof, shall affect any provision of the Atomic Energy Act of 1946 (Aug. 1, 1946, ch. 724, 60 Stat. 755) [§ 2011 et seq. of Title 42, The Public Health and Welfare].
+> **“(f)** Nothing in Title 35, as enacted by section 1 hereof, shall affect any provision of the Atomic Energy Act of 1946 (Aug. 1, 1946, ch. 724, 60 Stat. 755) [§ 2011 et seq. of Title 42, The Public Health and Welfare].
 
 > **“(g)** The period of one year specified in section 4 of Title 35 as enacted by section 1 hereof shall not apply in the case of applications filed before the effective date of this Act.
 
@@ -159,13 +159,13 @@ Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or 
 
 **Amendments**
 
-2002—Pub. L. 107–273, div. C, title III, § 13206(a)(4), Nov. 2, 2002, 116 Stat. 1904, substituted “Before” for “before” in chapter 3 heading.
+2002—Pub. L. 107–273, div. C, title III, § 13206(a)(4), Nov. 2, 2002, 116 Stat. 1904, substituted “Before” for “before” in chapter 3 heading.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(2), (3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, substituted “UNITED STATES PATENT AND TRADEMARK OFFICE” for “PATENT AND TRADEMARK OFFICE” in part heading and “Establishment, Officers and Employees, Functions” for “Establishment, Officers, Functions” in chapter 1 heading.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(2), (3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, substituted “UNITED STATES PATENT AND TRADEMARK OFFICE” for “PATENT AND TRADEMARK OFFICE” in part heading and “Establishment, Officers and Employees, Functions” for “Establishment, Officers, Functions” in chapter 1 heading.
 
-1991—Pub. L. 102–204, § 5(d)(2)(D), Dec. 10, 1991, 105 Stat. 1640, substituted “before” for “Before the” in chapter 3 heading and inserted “; Funding; Search Systems” after “Fees” in chapter 4 heading.
+1991—Pub. L. 102–204, § 5(d)(2)(D), Dec. 10, 1991, 105 Stat. 1640, substituted “before” for “Before the” in chapter 3 heading and inserted “; Funding; Search Systems” after “Fees” in chapter 4 heading.
 
-1975—Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949, substituted “PATENT AND TRADEMARK OFFICE” for “PATENT OFFICE” in part heading and in headings for chapters 2 and 3.
+1975—Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949, substituted “PATENT AND TRADEMARK OFFICE” for “PATENT OFFICE” in part heading and in headings for chapters 2 and 3.
 
 - [CHAPTER 1—ESTABLISHMENT, OFFICERS AND EMPLOYEES, FUNCTIONS](chapter-001-establishment-officers-and-employees-functions.md)
 
@@ -181,11 +181,11 @@ Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or 
 
 **Amendments**
 
-2002—Pub. L. 107–273, div. C, title III, § 13206(a)(6), Nov. 2, 2002, 116 Stat. 1904, substituted “Examination of Application” for “Examination of Applications” in heading of chapter 12.
+2002—Pub. L. 107–273, div. C, title III, § 13206(a)(6), Nov. 2, 2002, 116 Stat. 1904, substituted “Examination of Application” for “Examination of Applications” in heading of chapter 12.
 
-1982—Pub. L. 97–256, title I, § 101(6), Sept. 8, 1982, 96 Stat. 816, added item for chapter 18.
+1982—Pub. L. 97–256, title I, § 101(6), Sept. 8, 1982, 96 Stat. 816, added item for chapter 18.
 
-1975—Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in heading of chapter 13.
+1975—Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in heading of chapter 13.
 
 - [CHAPTER 10—PATENTABILITY OF INVENTIONS](chapter-010-patentability-of-inventions.md)
 
@@ -211,13 +211,13 @@ Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or 
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 6(b), (e), Sept. 16, 2011, 125 Stat. 304, 311, added items for chapters 31 and 32 and struck out former item for chapter 31 “Optional Inter Partes Reexamination of Patents”.
+2011—Pub. L. 112–29, § 6(b), (e), Sept. 16, 2011, 125 Stat. 304, 311, added items for chapters 31 and 32 and struck out former item for chapter 31 “Optional Inter Partes Reexamination of Patents”.
 
-2002—Pub. L. 107–273, div. C, title III, § 13206(a)(17), Nov. 2, 2002, 116 Stat. 1905, inserted a comma after “Patent” in item for chapter 29.
+2002—Pub. L. 107–273, div. C, title III, § 13206(a)(17), Nov. 2, 2002, 116 Stat. 1905, inserted a comma after “Patent” in item for chapter 29.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–570, as amended by Pub. L. 107–273, div. C, title III, § 13202(c)(2), Nov. 2, 2002, 116 Stat. 1902, substituted “Ex Parte Reexamination of Patents” for “Reexamination of Patents” in item for chapter 30 and added item for chapter 31.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–570, as amended by Pub. L. 107–273, div. C, title III, § 13202(c)(2), Nov. 2, 2002, 116 Stat. 1902, substituted “Ex Parte Reexamination of Patents” for “Reexamination of Patents” in item for chapter 30 and added item for chapter 31.
 
-1982—Pub. L. 97–256, title I, § 101(7), Sept. 8, 1982, 96 Stat. 816, added item for chapter 30.
+1982—Pub. L. 97–256, title I, § 101(7), Sept. 8, 1982, 96 Stat. 816, added item for chapter 30.
 
 - [CHAPTER 25—AMENDMENT AND CORRECTION OF PATENTS](chapter-025-amendment-and-correction-of-patents.md)
 
@@ -243,7 +243,7 @@ Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or 
 
 Analysis of chapters editorially supplied. Part IV added by Pub. L. 94–131 without adding analysis for chapters 35, 36, and 37.
 
-Pub. L. 96–517 purported to amend the table of chapters of title 35 by adding after the item for chapter 37 the following: “38. Patent Rights in Inventions Made with Federal Assistance” . Title 35 did not contain a table of chapters, and section 6(b) of Pub. L. 96–517 and the purported amendment made by it were repealed by Pub. L. 97–256. See chapter 18 (§ 200 et seq.) of this title.
+Pub. L. 96–517 purported to amend the table of chapters of title 35 by adding after the item for chapter 37 the following: “38. Patent Rights in Inventions Made with Federal Assistance” . Title 35 did not contain a table of chapters, and section 6(b) of Pub. L. 96–517 and the purported amendment made by it were repealed by Pub. L. 97–256. See chapter 18 (§ 200 et seq.) of this title.
 
 - [CHAPTER 35—DEFINITIONS](chapter-035-definitions.md)
 

@@ -19,37 +19,37 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. F, title LXIII, §§ 6306(b)(1), 6307(b), 6313(b), 6314(c), title LXIV, § 6403(b)(3), Jan. 1, 2021, 134 Stat. 4589, 4590, 4597, 4603, 4623, added items 5323 and 5333 to 5336 and struck out former item 5323 “Rewards for informants” and item 5328 “Whistleblower protections”. Former item 5323 and item 5328 were struck out, and item 5323 was added, to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language striking out and adding those items to the analysis for subchapter II of this chapter.
+2021—Pub. L. 116–283, div. F, title LXIII, §§ 6306(b)(1), 6307(b), 6313(b), 6314(c), title LXIV, § 6403(b)(3), Jan. 1, 2021, 134 Stat. 4589, 4590, 4597, 4603, 4623, added items 5323 and 5333 to 5336 and struck out former item 5323 “Rewards for informants” and item 5328 “Whistleblower protections”. Former item 5323 and item 5328 were struck out, and item 5323 was added, to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language striking out and adding those items to the analysis for subchapter II of this chapter.
 
-2017—Pub. L. 115–44, title II, § 275(b), Aug. 2, 2017, 131 Stat. 938, struck out “coin and currency” before “transactions” in item 5326.
+2017—Pub. L. 115–44, title II, § 275(b), Aug. 2, 2017, 131 Stat. 938, struck out “coin and currency” before “transactions” in item 5326.
 
-2006—Pub. L. 109–347, title VIII, § 802(b), Oct. 13, 2006, 120 Stat. 1961, added subchapter IV heading and items 5361 to 5367.
+2006—Pub. L. 109–347, title VIII, § 802(b), Oct. 13, 2006, 120 Stat. 1961, added subchapter IV heading and items 5361 to 5367.
 
-2004—Pub. L. 108–458, title VI, § 6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
+2004—Pub. L. 108–458, title VI, § 6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
 
-Pub. L. 108–458, title VI, § 6202(n)(1), (*o*), Dec. 17, 2004, 118 Stat. 3746, amended Pub. L. 107–56, § 365. See 2001 Amendment note below.
+Pub. L. 108–458, title VI, § 6202(n)(1), (*o*), Dec. 17, 2004, 118 Stat. 3746, amended Pub. L. 107–56, § 365. See 2001 Amendment note below.
 
-2001—Pub. L. 107–56, title III, § 365(d), formerly § 365(c), Oct. 26, 2001, 115 Stat. 335, as renumbered and amended by Pub. L. 108–458, title VI, § 6202(n)(1), (*o*), Dec. 17, 2004, 118 Stat. 3746, added item 5331.
+2001—Pub. L. 107–56, title III, § 365(d), formerly § 365(c), Oct. 26, 2001, 115 Stat. 335, as renumbered and amended by Pub. L. 108–458, title VI, § 6202(n)(1), (*o*), Dec. 17, 2004, 118 Stat. 3746, added item 5331.
 
-Pub. L. 107–56, title III, §§ 311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 338, added items 5318A and 5332.
+Pub. L. 107–56, title III, §§ 311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 338, added items 5318A and 5332.
 
-1998—Pub. L. 105–310, § 2(b), Oct. 30, 1998, 112 Stat. 2948, added subchapter III heading, parts 1 and 2 headings, and items 5340 to 5355.
+1998—Pub. L. 105–310, § 2(b), Oct. 30, 1998, 112 Stat. 2948, added subchapter III heading, parts 1 and 2 headings, and items 5340 to 5355.
 
-1996—Pub. L. 104–208, div. A, title II, § 2223(2), Sept. 30, 1996, 110 Stat. 3009–415, struck out item 5327 “Identification of financial institutions”.
+1996—Pub. L. 104–208, div. A, title II, § 2223(2), Sept. 30, 1996, 110 Stat. 3009–415, struck out item 5327 “Identification of financial institutions”.
 
-1994—Pub. L. 103–325, title III, § 311(b), title IV, § 408(d), Sept. 23, 1994, 108 Stat. 2221, 2252, added items 5329 and 5330.
+1994—Pub. L. 103–325, title III, § 311(b), title IV, § 408(d), Sept. 23, 1994, 108 Stat. 2221, 2252, added items 5329 and 5330.
 
-1992—Pub. L. 102–550, title XV, §§ 1511(c), 1563(b), Oct. 28, 1992, 106 Stat. 4057, 4073, added items 5327 and 5328.
+1992—Pub. L. 102–550, title XV, §§ 1511(c), 1563(b), Oct. 28, 1992, 106 Stat. 4057, 4073, added items 5327 and 5328.
 
-1988—Pub. L. 100–690, title VI, § 6185(f), Nov. 18, 1988, 102 Stat. 4357, added items 5325 and 5326.
+1988—Pub. L. 100–690, title VI, § 6185(f), Nov. 18, 1988, 102 Stat. 4357, added items 5325 and 5326.
 
-1986—Pub. L. 99–570, title I, §§ 1354(b), 1356(d), Oct. 27, 1986, 100 Stat. 3207–22, 3207–25, substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in item 5318 and added item 5324.
+1986—Pub. L. 99–570, title I, §§ 1354(b), 1356(d), Oct. 27, 1986, 100 Stat. 3207–22, 3207–25, substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in item 5318 and added item 5324.
 
-1984—Pub. L. 98–473, title II, § 901(f), Oct. 12, 1984, 98 Stat. 2136, added item 5323.
+1984—Pub. L. 98–473, title II, § 901(f), Oct. 12, 1984, 98 Stat. 2136, added item 5323.
 
 ## SUBCHAPTER I—CREDIT AND MONETARY EXPANSION
 
-### § 5301. Buying obligations of the United States Government
+### § 5301. Buying obligations of the United States Government
 
 **(a)** The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when the President decides that the foreign commerce of the United States is affected adversely because—
 
@@ -75,7 +75,7 @@ Pub. L. 107–56, title III, §§ 311(b), 371(c), Oct. 26, 2001, 115 Stat. 304
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5301(a), (b) | 31:821(less (a)(last sentence)). | May 12, 1933, ch. 25, § 43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30, 1934, ch. 6, § 12, 48 Stat. 342; Jan. 23, 1937, ch. 5, § 2, 50 Stat. 4; July 6, 1939, ch. 260, § 3, 53 Stat. 998; June 30, 1941, ch. 265, § 2, 55 Stat. 396; June 12, 1945, ch. 186, § 4, 59 Stat. 238; Mar. 18, 1968, Pub. L. 90–269, § 9, 82 Stat. 50. |
+| 5301(a), (b) | 31:821(less (a)(last sentence)). | May 12, 1933, ch. 25, § 43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30, 1934, ch. 6, § 12, 48 Stat. 342; Jan. 23, 1937, ch. 5, § 2, 50 Stat. 4; July 6, 1939, ch. 260, § 3, 53 Stat. 998; June 30, 1941, ch. 265, § 2, 55 Stat. 396; June 12, 1945, ch. 186, § 4, 59 Stat. 238; Mar. 18, 1968, Pub. L. 90–269, § 9, 82 Stat. 50. |
 | 5301(c) | 31:821(a)(last sentence). |  |
 
 In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) is omitted as obsolete because clause (1) is omitted as executed, and clause (2) is omitted as expired. The text of 31:821(b)(matter after (2)) is omitted as obsolete because silver is no longer coined. The words “in his discretion” and “several” are omitted as surplus. The words “Board of Governors of the Federal Reserve System” are substituted for “Federal Reserve Board” because of 12:241. The words “upon investigation” are omitted as surplus. In clause (1), the word “foreign” is substituted for “of any other government or governments” to eliminate unnecessary words. The words “coins and” are added for consistency. In clause (2), the words “United States coins and currency” are substituted for “currency issues of the United States” for consistency. In clause (4), the words “so that the United States Government and the governments of other countries can stabilize” are substituted for “to secure by international agreement a stabilization” for clarity. The words “at proper levels” are omitted as surplus.
@@ -86,33 +86,33 @@ In subsection (b), before clause (1), the words “(and the Board is authorized 
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–283, div. F, § 6001, Jan. 1, 2021, 134 Stat. 4547, provided that: “This division [see Tables for classification] may be cited as the ‘Anti-Money Laundering Act of 2020’.”
+Pub. L. 116–283, div. F, § 6001, Jan. 1, 2021, 134 Stat. 4547, provided that: “This division [see Tables for classification] may be cited as the ‘Anti-Money Laundering Act of 2020’.”
 
-Pub. L. 116–283, div. F, title LXIV, § 6401, Jan. 1, 2021, 134 Stat. 4604, provided that: “This title [enacting section 5336 of this title, amending sections 5321 and 5322 of this title, and enacting provisions set out as notes under sections 5311 and 5336 of this title] may be cited as the ‘Corporate Transparency Act’.”
+Pub. L. 116–283, div. F, title LXIV, § 6401, Jan. 1, 2021, 134 Stat. 4604, provided that: “This title [enacting section 5336 of this title, amending sections 5321 and 5322 of this title, and enacting provisions set out as notes under sections 5311 and 5336 of this title] may be cited as the ‘Corporate Transparency Act’.”
 
-Pub. L. 116–283, div. H, title XCVII, § 9711, Jan. 1, 2021, 134 Stat. 4838, provided that: “This subtitle [subtitle B (§§ 9711–9714) of title XCVII of div. H of Pub. L. 116–283, enacting provisions set out as notes under sections 5311 and 5318A of this title] may be cited as the ‘Combating Russian Money Laundering Act’.”
+Pub. L. 116–283, div. H, title XCVII, § 9711, Jan. 1, 2021, 134 Stat. 4838, provided that: “This subtitle [subtitle B (§§ 9711–9714) of title XCVII of div. H of Pub. L. 116–283, enacting provisions set out as notes under sections 5311 and 5318A of this title] may be cited as the ‘Combating Russian Money Laundering Act’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–347, title VIII, § 801, Oct. 13, 2006, 120 Stat. 1952, provided that: “This title [enacting sections 5361 to 5367 of this title and provisions set out as a note under section 5361 of this title] may be cited as the ‘Unlawful Internet Gambling Enforcement Act of 2006’.”
+Pub. L. 109–347, title VIII, § 801, Oct. 13, 2006, 120 Stat. 1952, provided that: “This title [enacting sections 5361 to 5367 of this title and provisions set out as a note under section 5361 of this title] may be cited as the ‘Unlawful Internet Gambling Enforcement Act of 2006’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–458, title VI, § 6201, Dec. 17, 2004, 118 Stat. 3745, provided that: “This subtitle [subtitle C (§§ 6201–6205) of title VI of Pub. L. 108–458, amending sections 310, 5312, 5318, 5318A, 5324, and 5332 of this title, sections 1828, 1829b, and 1953 of Title 12, Banks and Banking, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, enacting provisions set out as a note under section 1828 of Title 12, amending provisions set out as notes under sections 310, 5311, and 5331 of this title and sections 1828 and 1842 of Title 12, and repealing provisions set out as a note under section 5311 of this title] may be cited as the ‘International Money Laundering Abatement and Financial Antiterrorism Technical Corrections Act of 2004’.”
+Pub. L. 108–458, title VI, § 6201, Dec. 17, 2004, 118 Stat. 3745, provided that: “This subtitle [subtitle C (§§ 6201–6205) of title VI of Pub. L. 108–458, amending sections 310, 5312, 5318, 5318A, 5324, and 5332 of this title, sections 1828, 1829b, and 1953 of Title 12, Banks and Banking, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, enacting provisions set out as a note under section 1828 of Title 12, amending provisions set out as notes under sections 310, 5311, and 5331 of this title and sections 1828 and 1842 of Title 12, and repealing provisions set out as a note under section 5311 of this title] may be cited as the ‘International Money Laundering Abatement and Financial Antiterrorism Technical Corrections Act of 2004’.”
 
 **Short Title of 2001 Amendment**
 
-Pub. L. 107–56, title III, § 301, Oct. 26, 2001, 115 Stat. 296, provided that: “This title [enacting sections 310, 5318A, 5331, and 5332 of this title, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, amending sections 5311, 5312, 5317, 5318, 5319, 5321, 5322, 5324, 5326, 5328, 5330, and 5341 of this title, sections 248, 1828, 1829b, 1842, 1953, 3412, 3414, and 3420 of Title 12, Banks and Banking, section 1681u of Title 15, sections 470 to 474, 476 to 484, 493, 981 to 983, 1029, 1956, and 1960 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, renumbering former section 310 of this title as section 311, and enacting provisions set out as notes under sections 310, 5311, 5313, 5314, 5318, 5331, and 5332 of this title, sections 1828, 1829b, and 1842 of Title 12, and section 983 of Title 18] may be cited as the ‘International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001’.”
+Pub. L. 107–56, title III, § 301, Oct. 26, 2001, 115 Stat. 296, provided that: “This title [enacting sections 310, 5318A, 5331, and 5332 of this title, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, amending sections 5311, 5312, 5317, 5318, 5319, 5321, 5322, 5324, 5326, 5328, 5330, and 5341 of this title, sections 248, 1828, 1829b, 1842, 1953, 3412, 3414, and 3420 of Title 12, Banks and Banking, section 1681u of Title 15, sections 470 to 474, 476 to 484, 493, 981 to 983, 1029, 1956, and 1960 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, renumbering former section 310 of this title as section 311, and enacting provisions set out as notes under sections 310, 5311, 5313, 5314, 5318, 5331, and 5332 of this title, sections 1828, 1829b, and 1842 of Title 12, and section 983 of Title 18] may be cited as the ‘International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–310, § 1, Oct. 30, 1998, 112 Stat. 2941, provided that: “This Act [enacting subchapter III of this chapter and provisions set out as a note under section 5342 of this title] may be cited as the ‘Money Laundering and Financial Crimes Strategy Act of 1998’.”
+Pub. L. 105–310, § 1, Oct. 30, 1998, 112 Stat. 2941, provided that: “This Act [enacting subchapter III of this chapter and provisions set out as a note under section 5342 of this title] may be cited as the ‘Money Laundering and Financial Crimes Strategy Act of 1998’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–325, title IV, § 401, Sept. 23, 1994, 108 Stat. 2243, provided that: “This title [enacting section 5330 of this title, amending sections 5312, 5313, 5318, 5321, 5322, and 5324 of this title, sections 93, 1464, 1772d, 1786, 1818, and 1821 of Title 12, Banks and Banking, and sections 984, 986, 1956, 1957, and 1960 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 5311, 5313, 5318, and 5330 of this title] may be cited as the ‘Money Laundering Suppression Act of 1994’.”
+Pub. L. 103–325, title IV, § 401, Sept. 23, 1994, 108 Stat. 2243, provided that: “This title [enacting section 5330 of this title, amending sections 5312, 5313, 5318, 5321, 5322, and 5324 of this title, sections 93, 1464, 1772d, 1786, 1818, and 1821 of Title 12, Banks and Banking, and sections 984, 986, 1956, 1957, and 1960 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 5311, 5313, 5318, and 5330 of this title] may be cited as the ‘Money Laundering Suppression Act of 1994’.”
 
-### § 5302. Stabilizing exchange rates and arrangements
+### § 5302. Stabilizing exchange rates and arrangements
 
 **(a)**
 
@@ -130,21 +130,21 @@ Pub. L. 103–325, title IV, § 401, Sept. 23, 1994, 108 Stat. 2243, provided 
 
 **(d)** A repayment of any part of the first subscription payment of the Government to the International Monetary Fund, previously paid from the stabilization fund, shall be deposited in the Treasury as a miscellaneous receipt.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 994; Pub. L. 116–136, div. A, title IV, § 4027(b), Mar. 27, 2020, 134 Stat. 496.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 994; Pub. L. 116–136, div. A, title IV, § 4027(b), Mar. 27, 2020, 134 Stat. 496.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5302(a) | 31:822a(b)(1). | Jan. 30, 1934, ch. 6, § 10(a), (b)(1), (c), 48 Stat. 341, 342; Jan. 23, 1937, ch. 5, § 1, 50 Stat. 4; July 6, 1939, ch. 260, §§ 1, 2, 53 Stat. 998; June 30, 1941, ch. 265, § 1, 55 Stat. 395; Apr. 29, 1943, ch. 76, 57 Stat. 68; July 31, 1945, ch. 339, § 7(a), 59 Stat. 514; Dec. 30, 1970, Pub. L. 91–599, §§ 41, 42, 84 Stat. 1659; Oct. 19, 1976, Pub. L. 94–564, § 7, 90 Stat. 2661; Oct. 28, 1977, Pub. L. 95–147, § 4(b), 91 Stat. 1229; Nov. 8, 1978, Pub. L. 95–612, §§ 1, 6, 92 Stat. 3091, 3092. |
+| 5302(a) | 31:822a(b)(1). | Jan. 30, 1934, ch. 6, § 10(a), (b)(1), (c), 48 Stat. 341, 342; Jan. 23, 1937, ch. 5, § 1, 50 Stat. 4; July 6, 1939, ch. 260, §§ 1, 2, 53 Stat. 998; June 30, 1941, ch. 265, § 1, 55 Stat. 395; Apr. 29, 1943, ch. 76, 57 Stat. 68; July 31, 1945, ch. 339, § 7(a), 59 Stat. 514; Dec. 30, 1970, Pub. L. 91–599, §§ 41, 42, 84 Stat. 1659; Oct. 19, 1976, Pub. L. 94–564, § 7, 90 Stat. 2661; Oct. 28, 1977, Pub. L. 95–147, § 4(b), 91 Stat. 1229; Nov. 8, 1978, Pub. L. 95–612, §§ 1, 6, 92 Stat. 3091, 3092. |
 | 5302(b) | 31:822a(a)(1st sentence). |  |
-| 5302(c)(1) | 31:822a(b)(2). | Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(b)(2); added Nov. 8, 1978, Pub. L. 95–612, § 6, 92 Stat. 3092. |
+| 5302(c)(1) | 31:822a(b)(2). | Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(b)(2); added Nov. 8, 1978, Pub. L. 95–612, § 6, 92 Stat. 3092. |
 | 5302(c)(2) | 31:822a(a)(last sentence). |  |
 | 5302(d) | 31:822a(c). |  |
 
 In subsection (a)(1), the words “The Department of the Treasury has a stabilization fund” are substituted for “there is appropriated, out of the receipts which are directed to be covered into the Treasury under section 408b of this title, the sum of $2,000,000,000, which sum when available shall be deposited in the United States Treasury in a stabilization fund” because the fund has been established. The words “(hereinafter called the ‘fund’)” are omitted as unnecessary because of the restatement. The words “To enable the Secretary of the Treasury” and “The fund shall be available for expenditure, under the direction of the Secretary of the Treasury and in his discretion, for any purpose in connection with carrying out the provisions of this section” are omitted as surplus. The words “section 18 of the Bretton Woods Agreement Act (22 U.S.C. 286e–3), and section 3 of the Special Drawing Rights Act (22 U.S.C. 286*o*)” are added for clarity. The words “and reinvestment” and “direct” are omitted as surplus. The word “Government” is added for consistency. The words “accruing under the operations of this section” are omitted as surplus. The words “to carry out this section” after “are available” are substituted for “for the purposes of the fund” for consistency.
 
-In subsection (b), the words “directly . . . through” and “for the account of the fund established in this section” are omitted as surplus. The words “government of a foreign country” are substituted for “foreign government” for consistency in the revised title and with other titles of the United States Code. The words “by or through such fund” are omitted as surplus.
+In subsection (b), the words “directly . . . through” and “for the account of the fund established in this section” are omitted as surplus. The words “government of a foreign country” are substituted for “foreign government” for consistency in the revised title and with other titles of the United States Code. The words “by or through such fund” are omitted as surplus.
 
 In subsection (c)(1), the word “calendar” is omitted as surplus. The words “beginning after the effective date of this paragraph” are omitted as executed. The words “to occur” are omitted as surplus.
 
@@ -154,7 +154,7 @@ In subsection (d), the words “any part of the first subscription payment of th
 
 **References in Text**
 
-The Coronavirus Economic Stabilization Act of 2020, referred to in subsec. (a)(1), is subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, which enacted part A (§ 9041 et seq.) of subchapter III of chapter 116 of Title 15, Commerce and Trade, amended this section, sections 84, 1795a, 1795c, 1795e, 1795f, and 5612 of Title 12, Banks and Banking, and section 1681s–2 of Title 15, and enacted provisions set out as notes under sections 84, 1795a, and 5236 of Title 12 and section 4532 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of Title 15 and Tables.
+The Coronavirus Economic Stabilization Act of 2020, referred to in subsec. (a)(1), is subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, which enacted part A (§ 9041 et seq.) of subchapter III of chapter 116 of Title 15, Commerce and Trade, amended this section, sections 84, 1795a, 1795c, 1795e, 1795f, and 5612 of Title 12, Banks and Banking, and section 1681s–2 of Title 15, and enacted provisions set out as notes under sections 84, 1795a, and 5236 of Title 12 and section 4532 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of Title 15 and Tables.
 
 **Amendments**
 
@@ -308,7 +308,7 @@ Memorandum of President of the United States, May 17, 1995, 60 F.R. 27395.
 
 Memorandum of President of the United States, Apr. 14, 1995, 60 F.R. 19485.
 
-### § 5303. Reserved coins and currencies of foreign countries
+### § 5303. Reserved coins and currencies of foreign countries
 
 An agency may use coins and currencies of a foreign country the United States Government holds that are or may be reserved for a specific program or activity of an agency. The agency shall reimburse the Treasury from appropriations and shall replace the coins and currencies when they are needed for the program or activity for which they were reserved originally.
 
@@ -320,9 +320,9 @@ An agency may use coins and currencies of a foreign country the United States Go
 |---|---|---|
 | 5303 | 31:938. | Oct. 15, 1966, Pub. L. 89–677, 80 Stat. 955. |
 
-The word “Federal” is omitted as unnecessary because of the definition of “agency” in section 101 of the revised title. The words “coins and” and “Government” are added for consistency. The words “or set aside” and “of the Government” are omitted as surplus. The words “The agency shall reimburse . . . shall replace” are substituted for “except (1) that reimbursement shall be made . . . (2) . . . shall be replaced” for clarity. The words “applicable . . . of the agency concerned” are omitted as surplus. The words “program or activity” are substituted for “purpose” for clarity and consistency.
+The word “Federal” is omitted as unnecessary because of the definition of “agency” in section 101 of the revised title. The words “coins and” and “Government” are added for consistency. The words “or set aside” and “of the Government” are omitted as surplus. The words “The agency shall reimburse . . . shall replace” are substituted for “except (1) that reimbursement shall be made . . . (2) . . . shall be replaced” for clarity. The words “applicable . . . of the agency concerned” are omitted as surplus. The words “program or activity” are substituted for “purpose” for clarity and consistency.
 
-### § 5304. Regulations
+### § 5304. Regulations
 
 With the approval of the President, the Secretary of the Treasury may prescribe regulations—
 
@@ -336,14 +336,14 @@ With the approval of the President, the Secretary of the Treasury may prescribe 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5304 | 31:822. | May 12, 1933, ch. 25, § 44, 48 Stat. 53. |
-|  | 31:822b. | Jan. 30, 1934, ch. 6, § 11, 48 Stat. 342. |
+| 5304 | 31:822. | May 12, 1933, ch. 25, § 44, 48 Stat. 53. |
+|  | 31:822b. | Jan. 30, 1934, ch. 6, § 11, 48 Stat. 342. |
 
-Before clause (1), the words “prescribe regulations” are substituted for “make and promulgate rules and regulations” in 31:822 and “issue . . . such rules and regulations” in 31:822b for consistency. In clause (1), the words “to carry out” are substituted for “covering any action taken or to be taken by the President under” in 31:822 to eliminate unnecessary words. In clause (2), the words “or proper” in 31:822b and “the purposes of” are omitted as surplus. Reference to 31:821 is omitted as obsolete because silver is no longer coined. Reference to 31:824 is omitted as obsolete because 31:824 is executed and is not part of the revised title.
+Before clause (1), the words “prescribe regulations” are substituted for “make and promulgate rules and regulations” in 31:822 and “issue . . . such rules and regulations” in 31:822b for consistency. In clause (1), the words “to carry out” are substituted for “covering any action taken or to be taken by the President under” in 31:822 to eliminate unnecessary words. In clause (2), the words “or proper” in 31:822b and “the purposes of” are omitted as surplus. Reference to 31:821 is omitted as obsolete because silver is no longer coined. Reference to 31:824 is omitted as obsolete because 31:824 is executed and is not part of the revised title.
 
 ## SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS
 
-### § 5311. Declaration of purpose
+### § 5311. Declaration of purpose
 
 It is the purpose of this subchapter (except section 5315) to—
 
@@ -365,27 +365,27 @@ It is the purpose of this subchapter (except section 5315) to—
 
 **(5)** establish appropriate frameworks for information sharing among financial institutions, their agents and service providers, their regulatory authorities, associations of financial institutions, the Department of the Treasury, and law enforcement authorities to identify, stop, and apprehend money launderers and those who finance terrorists.
 
-(Added Pub. L. 116–283, div. F, title LXI, § 6101(a), Jan. 1, 2021, 134 Stat. 4549.)
+(Added Pub. L. 116–283, div. F, title LXI, § 6101(a), Jan. 1, 2021, 134 Stat. 4549.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5311, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, § 358(a), Oct. 26, 2001, 115 Stat. 326, related to purpose of this subchapter, prior to repeal by Pub. L. 116–283, div. F, title LXI, § 6101(a), Jan. 1, 2021, 134 Stat. 4549.
+A prior section 5311, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, § 358(a), Oct. 26, 2001, 115 Stat. 326, related to purpose of this subchapter, prior to repeal by Pub. L. 116–283, div. F, title LXI, § 6101(a), Jan. 1, 2021, 134 Stat. 4549.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-This subchapter and chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking, are each popularly known as the “Bank Secrecy Act”. See Short Title note set out under section 1951 of Title 12.
+This subchapter and chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking, are each popularly known as the “Bank Secrecy Act”. See Short Title note set out under section 1951 of Title 12.
 
 **Severability**
 
-Pub. L. 116–283, div. F, title LXV, § 6511, Jan. 1, 2021, 134 Stat. 4633, provided that: “If any provision of this division [see Tables for classification], an amendment made by this division, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+Pub. L. 116–283, div. F, title LXV, § 6511, Jan. 1, 2021, 134 Stat. 4633, provided that: “If any provision of this division [see Tables for classification], an amendment made by this division, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
 **Purposes**
 
-Pub. L. 116–283, div. F, § 6002, Jan. 1, 2021, 134 Stat. 4547, provided that:
+Pub. L. 116–283, div. F, § 6002, Jan. 1, 2021, 134 Stat. 4547, provided that:
 
 > “The purposes of this division [see Tables for classification] are—
 
@@ -413,17 +413,17 @@ Pub. L. 116–283, div. F, § 6002, Jan. 1, 2021, 134 Stat. 4547, provided tha
 
 **Interagency Anti-Money Laundering and Countering the Financing of Terrorism Personnel Rotation Program**
 
-Pub. L. 116–283, div. F, title LXI, § 6104, Jan. 1, 2021, 134 Stat. 4555, provided that: “To promote greater effectiveness and efficiency in combating money laundering, the financing of terrorism, proliferation financing, serious tax fraud, trafficking, sanctions evasion and other financial crimes, the Secretary [of the Treasury] shall maintain and accelerate efforts to strengthen anti-money laundering and countering the financing of terrorism efforts through a personnel rotation program between the Federal functional regulators and the Department of Justice, the Federal Bureau of Investigation, the Department of Homeland Security, the Department of Defense, and such other agencies as the Secretary determines are appropriate.”
+Pub. L. 116–283, div. F, title LXI, § 6104, Jan. 1, 2021, 134 Stat. 4555, provided that: “To promote greater effectiveness and efficiency in combating money laundering, the financing of terrorism, proliferation financing, serious tax fraud, trafficking, sanctions evasion and other financial crimes, the Secretary [of the Treasury] shall maintain and accelerate efforts to strengthen anti-money laundering and countering the financing of terrorism efforts through a personnel rotation program between the Federal functional regulators and the Department of Justice, the Federal Bureau of Investigation, the Department of Homeland Security, the Department of Defense, and such other agencies as the Secretary determines are appropriate.”
 
 [For definition of “Federal functional regulator” as used in section 6104 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
 
 **International Coordination**
 
-Pub. L. 116–283, div. F, title LXI, § 6112(a), Jan. 1, 2021, 134 Stat. 4564, provided that: “The Secretary [of the Treasury] shall work with foreign counterparts of the Secretary, including through bilateral contacts, the Financial Action Task Force, the International Monetary Fund, the World Bank, the Egmont Group of Financial Intelligence Units, the Organisation for Economic Co-operation and Development, the Basel Committee on Banking Supervision, and the United Nations, to promote stronger anti-money laundering frameworks and enforcement of anti-money laundering laws.”
+Pub. L. 116–283, div. F, title LXI, § 6112(a), Jan. 1, 2021, 134 Stat. 4564, provided that: “The Secretary [of the Treasury] shall work with foreign counterparts of the Secretary, including through bilateral contacts, the Financial Action Task Force, the International Monetary Fund, the World Bank, the Egmont Group of Financial Intelligence Units, the Organisation for Economic Co-operation and Development, the Basel Committee on Banking Supervision, and the United Nations, to promote stronger anti-money laundering frameworks and enforcement of anti-money laundering laws.”
 
 **Annual Reporting Requirements**
 
-Pub. L. 116–283, div. F, title LXII, § 6201, Jan. 1, 2021, 134 Stat. 4565, provided that:
+Pub. L. 116–283, div. F, title LXII, § 6201, Jan. 1, 2021, 134 Stat. 4565, provided that:
 
 > **“(a) Annual Report.—** Not later than 1 year after the date of enactment of this Act [Jan. 1, 2021], and annually thereafter, the Attorney General, in consultation with the Secretary [of the Treasury], Federal law enforcement agencies, the Director of National Intelligence, Federal functional regulators, and the heads of other appropriate Federal agencies, shall submit to the Secretary a report that contains statistics, metrics, and other information on the use of data derived from financial institutions reporting under the Bank Secrecy Act (referred to in this subsection as the ‘reported data’), including—
 
@@ -477,7 +477,7 @@ Pub. L. 116–283, div. F, title LXII, § 6201, Jan. 1, 2021, 134 Stat. 4565, 
 
 **Establishment of Bank Secrecy Act Innovation Officers**
 
-Pub. L. 116–283, div. F, title LXII, § 6208, Jan. 1, 2021, 134 Stat. 4573, provided that:
+Pub. L. 116–283, div. F, title LXII, § 6208, Jan. 1, 2021, 134 Stat. 4573, provided that:
 
 > **“(a) Appointment of Officers.—** Not later than 1 year after the effective date of the regulations promulgated under subsection (d) of section 310 of title 31, United States Code, as added by section 6103 of this division, an Innovation Officer shall be appointed within FinCEN [Financial Crimes Enforcement Network of Department of the Treasury] and each Federal functional regulator.
 
@@ -497,7 +497,7 @@ Pub. L. 116–283, div. F, title LXII, § 6208, Jan. 1, 2021, 134 Stat. 4573, 
 
 **Financial Crimes Tech Symposium**
 
-Pub. L. 116–283, div. F, title LXII, § 6211, Jan. 1, 2021, 134 Stat. 4575, provided that:
+Pub. L. 116–283, div. F, title LXII, § 6211, Jan. 1, 2021, 134 Stat. 4575, provided that:
 
 > **“(a) Purpose.—** The purposes of this section are to—
 
@@ -535,7 +535,7 @@ Pub. L. 116–283, div. F, title LXII, § 6211, Jan. 1, 2021, 134 Stat. 4575, 
 
 **Supervisory Team for Encouraging Information Sharing and Public-Private Partnerships**
 
-Pub. L. 116–283, div. F, title LXII, § 6214, Jan. 1, 2021, 134 Stat. 4579, as amended by Pub. L. 117–81, div. F, title LXI, § 6106(a), Dec. 27, 2021, 135 Stat. 2387, provided that:
+Pub. L. 116–283, div. F, title LXII, § 6214, Jan. 1, 2021, 134 Stat. 4579, as amended by Pub. L. 117–81, div. F, title LXI, § 6106(a), Dec. 27, 2021, 135 Stat. 2387, provided that:
 
 > **“(a) In General.—** The Secretary [of the Treasury] shall convene a supervisory team of relevant Federal agencies, private sector experts in banking, national security, and law enforcement, and other stakeholders to examine strategies to increase cooperation between the public and private sectors for purposes of countering illicit finance, including proliferation finance and sanctions evasion.
 
@@ -545,7 +545,7 @@ Pub. L. 116–283, div. F, title LXII, § 6214, Jan. 1, 2021, 134 Stat. 4579, 
 
 **Review of Regulations and Guidance**
 
-Pub. L. 116–283, div. F, title LXII, § 6216, Jan. 1, 2021, 134 Stat. 4582, provided that:
+Pub. L. 116–283, div. F, title LXII, § 6216, Jan. 1, 2021, 134 Stat. 4582, provided that:
 
 > **“(a) In General.—** The Secretary [of the Treasury], in consultation with the Federal functional regulators, the Financial Institutions Examination Council, the Attorney General, Federal law enforcement agencies, the Director of National Intelligence, the Secretary of Homeland Security, and the Commissioner of Internal Revenue, shall—
 
@@ -571,7 +571,7 @@ Pub. L. 116–283, div. F, title LXII, § 6216, Jan. 1, 2021, 134 Stat. 4582, 
 
 **Establishment of Bank Secrecy Act Information Security Officers**
 
-Pub. L. 116–283, div. F, title LXIII, § 6303, Jan. 1, 2021, 134 Stat. 4585, provided that:
+Pub. L. 116–283, div. F, title LXIII, § 6303, Jan. 1, 2021, 134 Stat. 4585, provided that:
 
 > **“(a) Appointment of Officers.—** Not later than 1 year after the effective date of the regulations promulgated under subsection (d) of section 310 of title 31, United States Code, as added by section 6103 of this division, a Bank Secrecy Act Information Security Officer shall be appointed, from among individuals with expertise in Federal information security or privacy laws or Bank Secrecy Act disclosure policies and procedures—
 
@@ -601,7 +601,7 @@ Pub. L. 116–283, div. F, title LXIII, § 6303, Jan. 1, 2021, 134 Stat. 4585,
 
 **Revised Due Diligence Rulemaking**
 
-Pub. L. 116–283, div. F, title LXIV, § 6403(d), Jan. 1, 2021, 134 Stat. 4624, provided that:
+Pub. L. 116–283, div. F, title LXIV, § 6403(d), Jan. 1, 2021, 134 Stat. 4624, provided that:
 
 > **“(1) In general.—** Not later than 1 year after the effective date of the regulations promulgated under section 5336(b)(4) of title 31, United States Code, as added by subsection (a) of this section, the Secretary of the Treasury shall revise the final rule entitled ‘Customer Due Diligence Requirements for Financial Institutions’ (81 Fed. Reg. 29397 (May 11, 2016)) to—
 
@@ -631,7 +631,7 @@ Pub. L. 116–283, div. F, title LXIV, § 6403(d), Jan. 1, 2021, 134 Stat. 462
 
 **Statement of Policy**
 
-Pub. L. 116–283, div. H, title XCVII, § 9712, Jan. 1, 2021, 134 Stat. 4838, provided that:
+Pub. L. 116–283, div. H, title XCVII, § 9712, Jan. 1, 2021, 134 Stat. 4838, provided that:
 
 > “It is the policy of the United States to—
 
@@ -641,7 +641,7 @@ Pub. L. 116–283, div. H, title XCVII, § 9712, Jan. 1, 2021, 134 Stat. 4838,
 
 **Stored Value**
 
-Pub. L. 111–24, title V, § 503, May 22, 2009, 123 Stat. 1756, provided that:
+Pub. L. 111–24, title V, § 503, May 22, 2009, 123 Stat. 1756, provided that:
 
 > **“(a) In General.—** Not later than 270 days after the date of enactment of this Act [May 22, 2009], the Secretary of the Treasury, in consultation with the Secretary of Homeland Security, shall issue regulations in final form implementing the Bank Secrecy Act [see Short Title note under section 1951 of Title 12, Banks and Banking], regarding the sale, issuance, redemption, or international transport of stored value, including stored value cards.
 
@@ -651,7 +651,7 @@ Pub. L. 111–24, title V, § 503, May 22, 2009, 123 Stat. 1756, provided that
 
 **Improvement of International Standards and Cooperation To Fight Terrorist Financing**
 
-Pub. L. 108–458, title VII, §§ 7701, 7702, 7704, Dec. 17, 2004, 118 Stat. 3858–3860, provided that:
+Pub. L. 108–458, title VII, §§ 7701, 7702, 7704, Dec. 17, 2004, 118 Stat. 3858–3860, provided that:
 
 > **“SEC. 7701. IMPROVING INTERNATIONAL STANDARDS AND COOPERATION TO FIGHT TERRORIST FINANCING.**
 
@@ -675,7 +675,7 @@ Pub. L. 108–458, title VII, §§ 7701, 7702, 7704, Dec. 17, 2004, 118 Stat. 
 
 > **“SEC. 7702. DEFINITIONS.**
 
-> “In this subtitle [subtitle G (§§ 7701–7704) of title VII of Pub. L. 108–458, amending sections 262*o*–2 and 262r–4 of Title 22, Foreign Relations and Intercourse]—
+> “In this subtitle [subtitle G (§§ 7701–7704) of title VII of Pub. L. 108–458, amending sections 262*o*–2 and 262r–4 of Title 22, Foreign Relations and Intercourse]—
 
 > **“(1)** the term ‘international financial institutions’ has the same meaning as in section 1701(c)(2) of the International Financial Institutions Act [22 U.S.C. 262r(c)(2)];
 
@@ -689,7 +689,7 @@ Pub. L. 108–458, title VII, §§ 7701, 7702, 7704, Dec. 17, 2004, 118 Stat. 
 
 **International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001; Findings and Purposes**
 
-Pub. L. 107–56, title III, § 302, Oct. 26, 2001, 115 Stat. 296, as amended by Pub. L. 108–458, title VI, § 6202(c), Dec. 17, 2004, 118 Stat. 3745, provided that:
+Pub. L. 107–56, title III, § 302, Oct. 26, 2001, 115 Stat. 296, as amended by Pub. L. 108–458, title VI, § 6202(c), Dec. 17, 2004, 118 Stat. 3745, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -747,11 +747,11 @@ Pub. L. 107–56, title III, § 302, Oct. 26, 2001, 115 Stat. 296, as amended 
 
 **Four-Year Congressional Review; Expedited Consideration**
 
-Pub. L. 107–56, title III, § 303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, § 6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: “That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.” , was repealed by Pub. L. 108–458, title VI, §§ 6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
+Pub. L. 107–56, title III, § 303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, § 6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: “That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.” , was repealed by Pub. L. 108–458, title VI, §§ 6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
 
 **Cooperative Efforts To Deter Money Laundering**
 
-Pub. L. 107–56, title III, § 314, Oct. 26, 2001, 115 Stat. 307, as amended by Pub. L. 108–458, title VI, § 6202(f), Dec. 17, 2004, 118 Stat. 3745, provided that:
+Pub. L. 107–56, title III, § 314, Oct. 26, 2001, 115 Stat. 307, as amended by Pub. L. 108–458, title VI, § 6202(f), Dec. 17, 2004, 118 Stat. 3745, provided that:
 
 > **“(a) Cooperation Among Financial Institutions, Regulatory Authorities, and Law Enforcement Authorities.—**
 
@@ -787,11 +787,11 @@ Pub. L. 107–56, title III, § 314, Oct. 26, 2001, 115 Stat. 307, as amended 
 
 **Report and Recommendation on Legislative Action on International Counter Money Laundering Provisions**
 
-Pub. L. 107–56, title III, § 324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle [subtitle A (§§ 311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
+Pub. L. 107–56, title III, § 324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle [subtitle A (§§ 311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
 
 **International Cooperation on Identification of Originators of Wire Transfers**
 
-Pub. L. 107–56, title III, § 328, Oct. 26, 2001, 115 Stat. 319, provided that:
+Pub. L. 107–56, title III, § 328, Oct. 26, 2001, 115 Stat. 319, provided that:
 
 > “The Secretary [of the Treasury] shall—
 
@@ -805,7 +805,7 @@ Pub. L. 107–56, title III, § 328, Oct. 26, 2001, 115 Stat. 319, provided th
 
 **Criminal Penalties**
 
-Pub. L. 107–56, title III, § 329, Oct. 26, 2001, 115 Stat. 319, provided that:
+Pub. L. 107–56, title III, § 329, Oct. 26, 2001, 115 Stat. 319, provided that:
 
 > “Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title [see Short Title of 2001 Amendment note set out under section 5301 of this title], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
 
@@ -819,7 +819,7 @@ Pub. L. 107–56, title III, § 329, Oct. 26, 2001, 115 Stat. 319, provided th
 
 **Report on Investment Companies**
 
-Pub. L. 107–56, title III, § 356(c), Oct. 26, 2001, 115 Stat. 324, as amended by Pub. L. 108–458, title VI, § 6202(j), Dec. 17, 2004, 118 Stat. 3746, provided that:
+Pub. L. 107–56, title III, § 356(c), Oct. 26, 2001, 115 Stat. 324, as amended by Pub. L. 108–458, title VI, § 6202(j), Dec. 17, 2004, 118 Stat. 3746, provided that:
 
 > **“(1) In general.—** Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to section 5312(a)(2)(I) of title 31, United States Code.
 
@@ -835,11 +835,11 @@ Pub. L. 107–56, title III, § 356(c), Oct. 26, 2001, 115 Stat. 324, as amend
 
 **Report on Need for Additional Legislation Relating to Informal Money Transfer Systems**
 
-Pub. L. 107–56, title III, § 359(d), Oct. 26, 2001, 115 Stat. 329, provided that by 1 year after Oct. 26, 2001, the Secretary of the Treasury would report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
+Pub. L. 107–56, title III, § 359(d), Oct. 26, 2001, 115 Stat. 329, provided that by 1 year after Oct. 26, 2001, the Secretary of the Treasury would report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
 
 **Uniform State Licensing and Regulation of Check Cashing, Currency Exchange, and Money Transmitting Businesses**
 
-Pub. L. 103–325, title IV, § 407, Sept. 23, 1994, 108 Stat. 2247, provided that:
+Pub. L. 103–325, title IV, § 407, Sept. 23, 1994, 108 Stat. 2247, provided that:
 
 > **“(a) Uniform Laws and Enforcement.—** For purposes of preventing money laundering and protecting the payment system from fraud and abuse, it is the sense of the Congress that the several States should—
 
@@ -927,11 +927,11 @@ Pub. L. 103–325, title IV, § 407, Sept. 23, 1994, 108 Stat. 2247, provided 
 
 **Anti-Money Laundering Training Team**
 
-Pub. L. 102–550, title XV, § 1518, Oct. 28, 1992, 106 Stat. 4060, provided that: “The Secretary of the Treasury and the Attorney General shall jointly establish a team of experts to assist and provide training to foreign governments and agencies thereof in developing and expanding their capabilities for investigating and prosecuting violations of money laundering and related laws.”
+Pub. L. 102–550, title XV, § 1518, Oct. 28, 1992, 106 Stat. 4060, provided that: “The Secretary of the Treasury and the Attorney General shall jointly establish a team of experts to assist and provide training to foreign governments and agencies thereof in developing and expanding their capabilities for investigating and prosecuting violations of money laundering and related laws.”
 
 **Advisory Group on Reporting Requirements**
 
-Pub. L. 102–550, title XV, § 1564, Oct. 28, 1992, 106 Stat. 4073, as amended by Pub. L. 116–283, div. F, title LXII, § 6207, title LXIII, § 6302, Jan. 1, 2021, 134 Stat. 4572, 4584; Pub. L. 117–286, § 4(a)(197), Dec. 27, 2022, 136 Stat. 4327, provided that:
+Pub. L. 102–550, title XV, § 1564, Oct. 28, 1992, 106 Stat. 4073, as amended by Pub. L. 116–283, div. F, title LXII, § 6207, title LXIII, § 6302, Jan. 1, 2021, 134 Stat. 4572, 4584; Pub. L. 117–286, § 4(a)(197), Dec. 27, 2022, 136 Stat. 4327, provided that:
 
 > **“(a) Establishment.—** Not later than 90 days after the date of the enactment of this Act [Oct. 28, 1992], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 [26 U.S.C. 6050I].
 
@@ -997,7 +997,7 @@ Pub. L. 102–550, title XV, § 1564, Oct. 28, 1992, 106 Stat. 4073, as amende
 
 **GAO Feasibility Study of Financial Crimes Enforcement Network**
 
-Pub. L. 102–550, title XV, § 1565, Oct. 28, 1992, 106 Stat. 4074, provided that:
+Pub. L. 102–550, title XV, § 1565, Oct. 28, 1992, 106 Stat. 4074, provided that:
 
 > **“(a) Study Required.—** The Comptroller General of the United States shall conduct a feasibility study of the Financial Crimes Enforcement Network (popularly referred to as ‘Fincen’) established by the Secretary of the Treasury in cooperation with other agencies and departments of the United States and appropriate Federal banking agencies.
 
@@ -1021,7 +1021,7 @@ Pub. L. 102–550, title XV, § 1565, Oct. 28, 1992, 106 Stat. 4074, provided 
 
 **Reports on Uses Made of Currency Transaction Reports**
 
-Pub. L. 101–647, title I, § 101, Nov. 29, 1990, 104 Stat. 4789, provided that:
+Pub. L. 101–647, title I, § 101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 > “Not later than 180 days after the effective date of this section [Nov. 29, 1990], and every 2 years for 4 years, the Secretary of the Treasury shall report to the Congress the following:
 
@@ -1041,11 +1041,11 @@ Pub. L. 101–647, title I, § 101, Nov. 29, 1990, 104 Stat. 4789, provided th
 
 **International Currency Transaction Reporting**
 
-Pub. L. 100–690, title IV, § 4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, § 6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, § 4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, § 6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 **Restrictions on Laundering of United States Currency**
 
-Pub. L. 100–690, title IV, § 4702, Nov. 18, 1988, 102 Stat. 4291, as amended by Pub. L. 103–447, title I, § 103(b), Nov. 2, 1994, 108 Stat. 4693, provided that:
+Pub. L. 100–690, title IV, § 4702, Nov. 18, 1988, 102 Stat. 4291, as amended by Pub. L. 103–447, title I, § 103(b), Nov. 2, 1994, 108 Stat. 4693, provided that:
 
 > **“(a) Findings.—** The Congress finds that international currency transactions, especially in United States currency, that involve the proceeds of narcotics trafficking fuel trade in narcotics in the United States and worldwide and consequently are a threat to the national security of the United States.
 
@@ -1093,11 +1093,11 @@ Pub. L. 100–690, title IV, § 4702, Nov. 18, 1988, 102 Stat. 4291, as amende
 
 **International Information Exchange System; Study of Foreign Branches of Domestic Institutions**
 
-Pub. L. 99–570, title I, § 1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1) the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
+Pub. L. 99–570, title I, § 1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1) the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
 
 **Definitions**
 
-Pub. L. 116–283, div. F, § 6003, Jan. 1, 2021, 134 Stat. 4548, provided that:
+Pub. L. 116–283, div. F, § 6003, Jan. 1, 2021, 134 Stat. 4548, provided that:
 
 > “In this division [see Tables for classification]:
 
@@ -1137,7 +1137,7 @@ Pub. L. 116–283, div. F, § 6003, Jan. 1, 2021, 134 Stat. 4548, provided tha
 
 > **“(9) State credit union supervisor.—** The term ‘State credit union supervisor’ means a State official described in section 107A(e) of the Federal Credit Union Act (12 U.S.C. 1757a(e)).”
 
-### § 5312. Definitions and application
+### § 5312. Definitions and application
 
 **(a)** In this subchapter—
 
@@ -1225,21 +1225,21 @@ Pub. L. 116–283, div. F, § 6003, Jan. 1, 2021, 134 Stat. 4548, provided tha
 
 **(c) Additional Definitions.—** For purposes of this subchapter, the following definitions shall apply:
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] Certain institutions included in definition.—** The term “financial institution” (as defined in subsection (a)) includes the following:
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] Certain institutions included in definition.—** The term “financial institution” (as defined in subsection (a)) includes the following:
 
-**(A)**  2
+**(A)** 2
 
-<sup>2</sup>  So in original. No subpar. (B) has been enacted.
+<sup>2</sup> So in original. No subpar. (B) has been enacted.
 
 Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, § 1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, § 6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§ 405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§ 321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335; Pub. L. 108–458, title VI, §§ 6202(g), 6203(b), Dec. 17, 2004, 118 Stat. 3746; Pub. L. 116–283, div. F, title LXI, §§ 6102(d)(1), 6110(a)(1), Jan. 1, 2021, 134 Stat. 4553, 4561.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, § 1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, § 6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§ 405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§ 321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335; Pub. L. 108–458, title VI, §§ 6202(g), 6203(b), Dec. 17, 2004, 118 Stat. 3746; Pub. L. 116–283, div. F, title LXI, §§ 6102(d)(1), 6110(a)(1), Jan. 1, 2021, 134 Stat. 4553, 4561.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5312(a)(1) | 31:1052(a), (b), (g), (i). | Oct. 26, 1970, Pub. L. 91–508, § 203(a)–(i), (*l*), 84 Stat. 1118. |
+| 5312(a)(1) | 31:1052(a), (b), (g), (i). | Oct. 26, 1970, Pub. L. 91–508, § 203(a)–(i), (*l*), 84 Stat. 1118. |
 | 5312(a)(2) | 31:1052(e). |  |
 | 5312(a)(3) | 31:1052(*l*). |  |
 | 5312(a)(4) | 31:1052(c). |  |
@@ -1248,7 +1248,7 @@ Any futures commission merchant, commodity trading advisor, or commodity pool op
 
 In subsection (a)(1), the text of 31:1052(a) is omitted as unnecessary. The text of 31:1052(b) is omitted because of the restatement. The text of 31:1052(i) is omitted as unnecessary because the source provision is restated where necessary in the revised subchapter.
 
-In subsection (a)(2), (3), (4), and (5), the words “the Secretary . . . prescribes” are substituted for “specified by the Secretary by regulation”, “as the Secretary may by regulation specify”, “specified by the Secretary”, and “the Secretary shall by regulation specify” for consistency.
+In subsection (a)(2), (3), (4), and (5), the words “the Secretary . . . prescribes” are substituted for “specified by the Secretary by regulation”, “as the Secretary may by regulation specify”, “specified by the Secretary”, and “the Secretary shall by regulation specify” for consistency.
 
 In subsection (a)(2) and (3), the words “for the purposes of the provision of this chapter to which the regulation relates” are omitted as surplus.
 
@@ -1258,7 +1258,7 @@ In subsection (a)(3)(B)–(5), the word “prescribe” is substituted for “sp
 
 In subsection (a)(3)(B), the words “in addition”, and “and such types of” are omitted as surplus. The words “similar material” are substituted for “the equivalent thereof” for clarity.
 
-In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
+In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
 
 In subsection (a)(5), the words “used in a geographic sense” are omitted because of the restatement. The words “either for the purposes of this chapter generally or any particular requirement thereunder” are omitted as surplus. The words “territory or” are added for consistency.
 
@@ -1266,7 +1266,7 @@ Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary wo
 
 **Amendment of Subsection (a)(2)**
 
-Pub. L. 116–283, div. F, title LXI, § 6110(a), Jan. 1, 2021, 134 Stat. 4561, provided that, effective on the effective date of the final rules issued by the Secretary of the Treasury pursuant to section 6110(b) of Pub. L. 116–283 (set out below), subsection (a)(2) of this section is amended—
+Pub. L. 116–283, div. F, title LXI, § 6110(a), Jan. 1, 2021, 134 Stat. 4561, provided that, effective on the effective date of the final rules issued by the Secretary of the Treasury pursuant to section 6110(b) of Pub. L. 116–283 (set out below), subsection (a)(2) of this section is amended—
 
 (1) by redesignating subparagraphs (Y) and (Z) as subparagraphs (Z) and (AA), respectively; and
 
@@ -1280,59 +1280,59 @@ See 2021 Amendment note and Rulemaking note below.
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 6102(d)(1)(A), substituted “, a transaction in money, credit, securities or gold, or a service provided with respect to money, securities, futures, precious metals, stones and jewels, or value that substitutes for currency” for “, or a transaction in money, credit, securities, or gold”.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 6102(d)(1)(A), substituted “, a transaction in money, credit, securities or gold, or a service provided with respect to money, securities, futures, precious metals, stones and jewels, or value that substitutes for currency” for “, or a transaction in money, credit, securities, or gold”.
 
-Subsec. (a)(2)(J). Pub. L. 116–283, § 6102(d)(1)(B)(i), inserted “, or a business engaged in the exchange of currency, funds, or value that substitutes for currency or funds” before semicolon at end.
+Subsec. (a)(2)(J). Pub. L. 116–283, § 6102(d)(1)(B)(i), inserted “, or a business engaged in the exchange of currency, funds, or value that substitutes for currency or funds” before semicolon at end.
 
-Subsec. (a)(2)(R). Pub. L. 116–283, § 6102(d)(i)(B)(ii), substituted “currency, funds, or value that substitutes for currency,” for “funds,”.
+Subsec. (a)(2)(R). Pub. L. 116–283, § 6102(d)(i)(B)(ii), substituted “currency, funds, or value that substitutes for currency,” for “funds,”.
 
-Subsec. (a)(2)(Y) to (AA). Pub. L. 116–283, § 6110(a)(1), added subpar. (Y) and redesignated former subpars. (Y) and (Z) as (Z) and (AA), respectively.
+Subsec. (a)(2)(Y) to (AA). Pub. L. 116–283, § 6110(a)(1), added subpar. (Y) and redesignated former subpars. (Y) and (Z) as (Z) and (AA), respectively.
 
-Subsec. (a)(3)(D). Pub. L. 116–283, § 6102(d)(1)(C), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 116–283, § 6102(d)(1)(C), added subpar. (D).
 
-2004—Subsec. (a)(2)(E). Pub. L. 108–458, § 6202(g), made technical correction to directory language of Pub. L. 107–56, § 321(a). See 2001 Amendment note below.
+2004—Subsec. (a)(2)(E). Pub. L. 108–458, § 6202(g), made technical correction to directory language of Pub. L. 107–56, § 321(a). See 2001 Amendment note below.
 
-Subsec. (a)(3)(C). Pub. L. 108–458, § 6203(b), substituted “sections 5316 and 5331” for “sections 5333 and 5316”.
+Subsec. (a)(3)(C). Pub. L. 108–458, § 6203(b), substituted “sections 5316 and 5331” for “sections 5333 and 5316”.
 
-2001—Subsec. (a)(2)(E). Pub. L. 107–56, § 321(a), as amended by Pub. L. 108–458, § 6202(g), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act (12 U.S.C. 1724(a)));”.
+2001—Subsec. (a)(2)(E). Pub. L. 107–56, § 321(a), as amended by Pub. L. 108–458, § 6202(g), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act (12 U.S.C. 1724(a)));”.
 
-Subsec. (a)(2)(R). Pub. L. 107–56, § 359(a), amended subpar. (R) generally. Prior to amendment, subpar. (R) read as follows: “a licensed sender of money;”.
+Subsec. (a)(2)(R). Pub. L. 107–56, § 359(a), amended subpar. (R) generally. Prior to amendment, subpar. (R) read as follows: “a licensed sender of money;”.
 
-Subsec. (a)(3)(C). Pub. L. 107–56, § 365(c)(2)(A), substituted “sections 5333 and 5316,” for “section 5316,”.
+Subsec. (a)(3)(C). Pub. L. 107–56, § 365(c)(2)(A), substituted “sections 5333 and 5316,” for “section 5316,”.
 
-Subsec. (a)(4) to (6). Pub. L. 107–56, § 365(c)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (a)(4) to (6). Pub. L. 107–56, § 365(c)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-Subsec. (c). Pub. L. 107–56, § 321(b), added subsec. (c).
+Subsec. (c). Pub. L. 107–56, § 321(b), added subsec. (c).
 
-1994—Subsec. (a)(2)(X) to (Z). Pub. L. 103–325, § 409, added subpar. (X) and redesignated former subpars. (X) and (Y) as (Y) and (Z), respectively.
+1994—Subsec. (a)(2)(X) to (Z). Pub. L. 103–325, § 409, added subpar. (X) and redesignated former subpars. (X) and (Y) as (Y) and (Z), respectively.
 
-Subsec. (a)(3)(C). Pub. L. 103–325, § 405, added subpar. (C).
+Subsec. (a)(3)(C). Pub. L. 103–325, § 405, added subpar. (C).
 
-1988—Subsec. (a)(2)(T) to (Y). Pub. L. 100–690, § 6185(a), added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
+1988—Subsec. (a)(2)(T) to (Y). Pub. L. 100–690, § 6185(a), added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
 
 “(T) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this clause (2), including the United States Postal Service; or
 
 “(U) another business or agency carrying out a similar, related, or substitute duty or power the Secretary of the Treasury prescribes.”
 
-Subsec. (a)(5). Pub. L. 100–690, § 6185(g)(1), inserted a comma after “Puerto Rico” and struck out second comma after “Pacific Islands”.
+Subsec. (a)(5). Pub. L. 100–690, § 6185(g)(1), inserted a comma after “Puerto Rico” and struck out second comma after “Pacific Islands”.
 
-1986—Subsec. (a)(2)(T). Pub. L. 99–570, § 1362(a), which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following “, including the United States Postal Service”, was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
+1986—Subsec. (a)(2)(T). Pub. L. 99–570, § 1362(a), which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following “, including the United States Postal Service”, was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
 
-Subsec. (a)(5). Pub. L. 99–570, § 1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
+Subsec. (a)(5). Pub. L. 99–570, § 1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. F, title LXI, § 6110(a)(2), Jan. 1, 2021, 134 Stat. 4562, provided that: “Section 5312(a)(2)(Y) of title 31, United States Code, as added by paragraph (1), shall take effect on the effective date of the final rules issued by the Secretary of the Treasury pursuant to subsection (b) [see note below].”
+Pub. L. 116–283, div. F, title LXI, § 6110(a)(2), Jan. 1, 2021, 134 Stat. 4562, provided that: “Section 5312(a)(2)(Y) of title 31, United States Code, as added by paragraph (1), shall take effect on the effective date of the final rules issued by the Secretary of the Treasury pursuant to subsection (b) [see note below].”
 
 **Effective Date of 2004 Amendment**
 
@@ -1340,7 +1340,7 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 **Rulemaking**
 
-Pub. L. 116–283, div. F, title LXI, § 6110(b), Jan. 1, 2021, 134 Stat. 4562, provided that:
+Pub. L. 116–283, div. F, title LXI, § 6110(b), Jan. 1, 2021, 134 Stat. 4562, provided that:
 
 > **“(1) In general.—** Not later than 360 days after the date of enactment of this Act [Jan. 1, 2021], the Secretary of the Treasury shall issue proposed rules to carry out the amendments made by subsection (a) [amending this section].
 
@@ -1364,13 +1364,13 @@ Pub. L. 116–283, div. F, title LXI, § 6110(b), Jan. 1, 2021, 134 Stat. 4562
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 5313. Reports on domestic coins and currency transactions
+### § 5313. Reports on domestic coins and currency transactions
 
 **(a)** When a domestic financial institution is involved in a transaction for the payment, receipt, or transfer of United States coins or currency (or other monetary instruments the Secretary of the Treasury prescribes), in an amount, denomination, or amount and denomination, or under circumstances the Secretary prescribes by regulation, the institution and any other participant in the transaction the Secretary may prescribe shall file a report on the transaction at the time and in the way the Secretary prescribes. A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made.
 
-**(b)** The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 1
+**(b)** The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
 
@@ -1458,13 +1458,13 @@ of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Depo
 
 **(C)** any corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 996; Pub. L. 103–325, title IV, § 402(a), Sept. 23, 1994, 108 Stat. 2243.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 996; Pub. L. 103–325, title IV, § 402(a), Sept. 23, 1994, 108 Stat. 2243.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5313(a) | 31:1081. | Oct. 26, 1970, Pub. L. 91–508, §§ 221–223, 84 Stat. 1122. |
+| 5313(a) | 31:1081. | Oct. 26, 1970, Pub. L. 91–508, §§ 221–223, 84 Stat. 1122. |
 |  | 31:1082. |  |
 | 5313(b) | 31:1083(a). |  |
 | 5313(c) | 31:1083(b). |  |
@@ -1473,13 +1473,13 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 
 In subsection (b), the words “in his discretion” and “individually or by class” are omitted as surplus. The word “Government” is added for consistency. The words “or a regulation under this subchapter”, are added because of the restatement. The words “(except a violation of section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter.
 
-In subsection (c)(1), clause (A) is substituted for “with respect to a domestic financial institution . . . with that institution” for clarity. Clause (C) is substituted for “any such person may, at his election and in lieu of filing the report in the manner hereinabove prescribed, file the report with the Secretary” to eliminate unnecessary words.
+In subsection (c)(1), clause (A) is substituted for “with respect to a domestic financial institution . . . with that institution” for clarity. Clause (C) is substituted for “any such person may, at his election and in lieu of filing the report in the manner hereinabove prescribed, file the report with the Secretary” to eliminate unnecessary words.
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 411 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730d of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
+Section 411 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730d of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
 
 Section 19(b)(1)(A) and (C) of the Federal Reserve Act, referred to in subsecs. (e)(2)(A) and (g)(1), is classified to section 461(b)(1)(A) and (C) of Title 12.
 
@@ -1487,7 +1487,7 @@ The date of enactment of the Money Laundering Suppression Act of 1994, referred 
 
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (g)(2)(A), is classified to section 3101 of Title 12.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (g)(2)(B), (C), are classified to subchapters I (§§ 601 et seq.) and II (§§ 611 et seq.), respectively, of chapter 6 of Title 12.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (g)(2)(B), (C), are classified to subchapters I (§§ 601 et seq.) and II (§§ 611 et seq.), respectively, of chapter 6 of Title 12.
 
 **Amendments**
 
@@ -1497,7 +1497,7 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (g)(2)(B)
 
 **Currency Transaction Reports and Suspicious Activity Reports Thresholds Review**
 
-Pub. L. 116–283, div. F, title LXII, § 6205, Jan. 1, 2021, 134 Stat. 4570, provided that:
+Pub. L. 116–283, div. F, title LXII, § 6205, Jan. 1, 2021, 134 Stat. 4570, provided that:
 
 > **“(a) Review of Thresholds for Certain Currency Transaction Reports and Suspicious Activity Reports.—** The Secretary [of the Treasury], in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall review and determine whether the dollar thresholds, including aggregate thresholds, under sections 5313, 5318(g), and 5331 of title 31, United States Code, including regulations issued under those sections, should be adjusted.
 
@@ -1535,7 +1535,7 @@ Pub. L. 116–283, div. F, title LXII, § 6205, Jan. 1, 2021, 134 Stat. 4570, 
 
 **Efficient Use of Currency Transaction Report System**
 
-Pub. L. 107–56, title III, § 366, Oct. 26, 2001, 115 Stat. 335, provided that:
+Pub. L. 107–56, title III, § 366, Oct. 26, 2001, 115 Stat. 335, provided that:
 
 > **“(a) Findings.—** The Congress finds the following:
 
@@ -1561,7 +1561,7 @@ Pub. L. 107–56, title III, § 366, Oct. 26, 2001, 115 Stat. 335, provided th
 
 **Report Reduction Goal; Streamlined Currency Transaction Reports**
 
-Pub. L. 103–325, title IV, § 402(b), (c), Sept. 23, 1994, 108 Stat. 2245, provided that:
+Pub. L. 103–325, title IV, § 402(b), (c), Sept. 23, 1994, 108 Stat. 2245, provided that:
 
 > **“(b) Report Reduction Goal; Reports.—**
 
@@ -1577,7 +1577,7 @@ Pub. L. 103–325, title IV, § 402(b), (c), Sept. 23, 1994, 108 Stat. 2245, p
 
 > **“(2)** reduce the time and effort required to prepare such report for filing by any such financial institution under such section.”
 
-### § 5314. Records and reports on foreign financial agency transactions
+### § 5314. Records and reports on foreign financial agency transactions
 
 **(a)** Considering the need to avoid impeding or controlling the export or import of monetary instruments and the need to avoid burdening unreasonably a person making a transaction with a foreign financial agency, the Secretary of the Treasury shall require a resident or citizen of the United States or a person in, and doing business in, the United States, to keep records, file reports, or keep records and file reports, when the resident, citizen, or person makes a transaction or maintains a relation for any person with a foreign financial agency. The records and reports shall contain the following information in the way and to the extent the Secretary prescribes:
 
@@ -1609,7 +1609,7 @@ Pub. L. 103–325, title IV, § 402(b), (c), Sept. 23, 1994, 108 Stat. 2245, p
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5314(a) | 31:1121(a). | Oct. 26, 1970, Pub. L. 91–508, §§ 241, 242, 84 Stat. 1124. |
+| 5314(a) | 31:1121(a). | Oct. 26, 1970, Pub. L. 91–508, §§ 241, 242, 84 Stat. 1124. |
 | 5314(b) | 31:1122. |  |
 | 5314(c) | 31:1121(b). |  |
 
@@ -1617,15 +1617,15 @@ In subsection (a), before clause (1), the words “currency or other”, “legi
 
 In subsection (b), the words “or a regulation under this section” are added because of the restatement. The words “or does not apply” and “uniform” in clause (2) are omitted as surplus. In clause (5), the words “carry out” are substituted for “the application of” for consistency.
 
-In subsection (c), the words “produce or otherwise . . . the contents of” and “in compliance with a subpena or summons duly authorized and issued or . . . may otherwise be” are omitted as surplus. The words “under a regulation” are added because of the restatement.
+In subsection (c), the words “produce or otherwise . . . the contents of” and “in compliance with a subpena or summons duly authorized and issued or . . . may otherwise be” are omitted as surplus. The words “under a regulation” are added because of the restatement.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Compliance With Reporting Requirements**
 
-Pub. L. 107–56, title III, § 361(b), Oct. 26, 2001, 115 Stat. 332, provided that: “The Secretary of the Treasury shall study methods for improving compliance with the reporting requirements established in section 5314 of title 31, United States Code, and shall submit a report on such study to the Congress by the end of the 6-month period beginning on the date of enactment of this Act [Oct. 26, 2001] and each 1-year period thereafter. The initial report shall include historical data on compliance with such reporting requirements.”
+Pub. L. 107–56, title III, § 361(b), Oct. 26, 2001, 115 Stat. 332, provided that: “The Secretary of the Treasury shall study methods for improving compliance with the reporting requirements established in section 5314 of title 31, United States Code, and shall submit a report on such study to the Congress by the end of the 6-month period beginning on the date of enactment of this Act [Oct. 26, 2001] and each 1-year period thereafter. The initial report shall include historical data on compliance with such reporting requirements.”
 
-### § 5315. Reports on foreign currency transactions
+### § 5315. Reports on foreign currency transactions
 
 **(a)** Congress finds that—
 
@@ -1633,9 +1633,9 @@ Pub. L. 107–56, title III, § 361(b), Oct. 26, 2001, 115 Stat. 332, provided
 
 **(2)** it is important to have the most feasible current and complete information on the kind and source of capital flows, including transactions by large United States businesses and their foreign affiliates; and
 
-**(3)** additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)) 1
+**(3)** additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and section 8 of the Bretton Woods Agreement Act (22 U.S.C. 286f).
 
@@ -1649,10 +1649,10 @@ and section 8 of the Bretton Woods Agreement Act (22 U.S.C. 286f).
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5315(a) | 31:1141. | Sept. 21, 1973, Pub. L. 93–110, §§ 201, 202, 87 Stat. 353. |
+| 5315(a) | 31:1141. | Sept. 21, 1973, Pub. L. 93–110, §§ 201, 202, 87 Stat. 353. |
 | 5315(b), (c) | 31:1142. |  |
 
-In subsection (a)(3), the words “it is desirable to emphasize this objective . . . existing legal” are omitted as unnecessary.
+In subsection (a)(3), the words “it is desirable to emphasize this objective . . . existing legal” are omitted as unnecessary.
 
 In subsection (c), the words “(hereafter referred to as the ‘Secretary’)” are omitted because of the restatement. The words “under the authority of this subchapter and any other authority conferred by law” are omitted as surplus. The word “prescribe” is substituted for “supplement” for clarity. The words “the statement of findings under” and “the submission of” are omitted as surplus. The words “Reports required under this subchapter shall cover foreign currency transactions” are omitted because of the restatement. The words “such terms are” and “the policy of” are omitted as surplus.
 
@@ -1662,7 +1662,7 @@ In subsection (c), the words “(hereafter referred to as the ‘Secretary’)�
 
 Section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)), referred to in subsec. (a)(3), is section 5(b) of act Oct. 6, 1917, ch. 106, 40 Stat. 415, which was editorially transferred and is now classified to section 4305(b) of Title 50, War and National Defense.
 
-### § 5316. Reports on exporting and importing monetary instruments
+### § 5316. Reports on exporting and importing monetary instruments
 
 **(a)** Except as provided in subsection (c) of this section, a person or an agent or bailee of the person shall file a report under subsection (b) of this section when the person, agent, or bailee knowingly—
 
@@ -1690,13 +1690,13 @@ Section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)), referred t
 
 **(d) Cumulation of Closely Related Events.—** The Secretary of the Treasury may prescribe regulations under this section defining the term “at one time” for purposes of subsection (a). Such regulations may permit the cumulation of closely related events in order that such events may collectively be considered to occur at one time for the purposes of subsection (a).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, § 901(c), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, § 1358, title III, § 3153, Oct. 27, 1986, 100 Stat. 3207–26, 3207–94.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, § 901(c), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, § 1358, title III, § 3153, Oct. 27, 1986, 100 Stat. 3207–26, 3207–94.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5316(a) | 31:1101(a). | Oct. 26, 1970, Pub. L. 91–508, § 231, 84 Stat. 1122. |
+| 5316(a) | 31:1101(a). | Oct. 26, 1970, Pub. L. 91–508, § 231, 84 Stat. 1122. |
 | 5316(b) | 31:1101(b). |  |
 | 5316(c) | 31:1101(c). |  |
 
@@ -1710,21 +1710,21 @@ In subsection (c), the words “or a regulation under this section” are added 
 
 **Amendments**
 
-1986—Subsec. (a)(1). Pub. L. 99–570, § 1358(b), substituted “transports, is about to transport, or has transported” for “transports or has transported, or attempts to transport or have transported”.
+1986—Subsec. (a)(1). Pub. L. 99–570, § 1358(b), substituted “transports, is about to transport, or has transported” for “transports or has transported, or attempts to transport or have transported”.
 
-Subsec. (a)(2). Pub. L. 99–570, §§ 1358(c), 3153, made identical amendments substituting “$10,000” for “$5,000”.
+Subsec. (a)(2). Pub. L. 99–570, §§ 1358(c), 3153, made identical amendments substituting “$10,000” for “$5,000”.
 
-Subsec. (d). Pub. L. 99–570, § 1358(a), added subsec. (d).
+Subsec. (d). Pub. L. 99–570, § 1358(a), added subsec. (d).
 
-1984—Subsec. (a)(1). Pub. L. 98–473 inserted “, or attempts to transport or have transported,” after “transports or has transported” and substituted “$10,000” for “$5,000”.
+1984—Subsec. (a)(1). Pub. L. 98–473 inserted “, or attempts to transport or have transported,” after “transports or has transported” and substituted “$10,000” for “$5,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Regulations Prescribed Under 1986 Amendment**
 
-Pub. L. 99–570, title I, § 1364(d), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “Any regulation prescribed under the amendments made by section 1358 [amending this section] shall apply with respect to transactions completed after the effective date of such regulation.”
+Pub. L. 99–570, title I, § 1364(d), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “Any regulation prescribed under the amendments made by section 1358 [amending this section] shall apply with respect to transactions completed after the effective date of such regulation.”
 
-### § 5317. Search and forfeiture of monetary instruments
+### § 5317. Search and forfeiture of monetary instruments
 
 **(a)** The Secretary of the Treasury may apply to a court of competent jurisdiction for a search warrant when the Secretary reasonably believes a monetary instrument is being transported and a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement. The Secretary shall include a statement of information in support of the warrant. On a showing of probable cause, the court may issue a search warrant for a designated person or a designated or described place or physical object. This subsection does not affect the authority of the Secretary under another law.
 
@@ -1756,16 +1756,16 @@ Pub. L. 99–570, title I, § 1364(d), Oct. 27, 1986, 100 Stat. 3207–34, pro
 
 **(iv) Post-seizure hearing.—** If a person with an ownership interest in property seized pursuant to subparagraph (A) by the Internal Revenue Service requests a hearing by a court of competent jurisdiction within 30 days after the date on which notice is provided under subclause (ii), such property shall be returned unless the court holds an adversarial hearing and finds within 30 days of such request (or such longer period as the court may provide, but only on request of an interested party) that there is probable cause to believe that there is a violation of section 5324 involving such property and probable cause to believe that the property to be seized was derived from an illegal source or the funds were structured for the purpose of concealing the violation of a criminal law or regulation other than section 5324.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, § 901(d), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, § 1355, Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 102–550, title XV, § 1525(c)(2), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 107–56, title III, §§ 365(b)(2)(B), 372(a), Oct. 26, 2001, 115 Stat. 335, 338; Pub. L. 116–25, title I, § 1201, July 1, 2019, 133 Stat. 986.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, § 901(d), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, § 1355, Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 102–550, title XV, § 1525(c)(2), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 107–56, title III, §§ 365(b)(2)(B), 372(a), Oct. 26, 2001, 115 Stat. 335, 338; Pub. L. 116–25, title I, § 1201, July 1, 2019, 133 Stat. 986.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5317(a) | 31:1105. | Oct. 26, 1970, Pub. L. 91–508, §§ 232, 235, 84 Stat. 1123. |
+| 5317(a) | 31:1105. | Oct. 26, 1970, Pub. L. 91–508, §§ 232, 235, 84 Stat. 1123. |
 | 5317(b) | 31:1102. |  |
 
-In subsection (a), the words “The Secretary shall include a statement of information in support of the warrant” are substituted for 31:1105(a)(last sentence) to eliminate unnecessary words and for consistency. The word “for” is substituted for “authorizing the search of . . . all of the following” to eliminate unnecessary words. The words “or more” are omitted as unnecessary because the singular includes the plural under 1:1. The words “or premises”, “letters, parcels, packages, or other”, and “vehicles” are omitted as surplus.
+In subsection (a), the words “The Secretary shall include a statement of information in support of the warrant” are substituted for 31:1105(a)(last sentence) to eliminate unnecessary words and for consistency. The word “for” is substituted for “authorizing the search of . . . all of the following” to eliminate unnecessary words. The words “or more” are omitted as unnecessary because the singular includes the plural under 1:1. The words “or premises”, “letters, parcels, packages, or other”, and “vehicles” are omitted as surplus.
 
 In subsection (b), the words “either” and “the possession of” are omitted as surplus. The words “United States Postal Service” are substituted for “postal service” for consistency with title 39. The words “or retained in” are omitted as surplus.
 
@@ -1779,25 +1779,25 @@ Section 413 of the Controlled Substances Act, referred to in subsec. (c)(1)(B), 
 
 2019—Subsec. (c)(2). Pub. L. 116–25 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-2001—Subsec. (c). Pub. L. 107–56, § 372(a), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government. Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(c), or any property traceable to such property, may be seized and forfeited to the United States Government. A monetary instrument transported by mail or a common carrier, messenger, or bailee is being transported under this subsection from the time the instrument is delivered to the United States Postal Service, common carrier, messenger, or bailee through the time it is delivered to the addressee, intended recipient, or agent of the addressee or intended recipient without being transported further in, or taken out of, the United States.”
+2001—Subsec. (c). Pub. L. 107–56, § 372(a), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government. Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(c), or any property traceable to such property, may be seized and forfeited to the United States Government. A monetary instrument transported by mail or a common carrier, messenger, or bailee is being transported under this subsection from the time the instrument is delivered to the United States Postal Service, common carrier, messenger, or bailee through the time it is delivered to the addressee, intended recipient, or agent of the addressee or intended recipient without being transported further in, or taken out of, the United States.”
 
-Pub. L. 107–56, § 365(b)(2)(B), substituted “section 5324(c)” for “section 5324(b)”.
+Pub. L. 107–56, § 365(b)(2)(B), substituted “section 5324(c)” for “section 5324(b)”.
 
 1992—Subsec. (c). Pub. L. 102–550 inserted after first sentence “Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(b), or any property traceable to such property, may be seized and forfeited to the United States Government.”
 
-1986—Subsec. (b). Pub. L. 99–570, § 1355(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A customs officer may stop and search, without a search warrant, a vehicle, vessel, aircraft, or other conveyance, envelope or other container, or person entering or departing from the United States with respect to which or whom the officer has reasonable cause to believe there is a monetary instrument being transported in violation of section 5316 of this title.”
+1986—Subsec. (b). Pub. L. 99–570, § 1355(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A customs officer may stop and search, without a search warrant, a vehicle, vessel, aircraft, or other conveyance, envelope or other container, or person entering or departing from the United States with respect to which or whom the officer has reasonable cause to believe there is a monetary instrument being transported in violation of section 5316 of this title.”
 
-Subsec. (c). Pub. L. 99–570, § 1355(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement.”
+Subsec. (c). Pub. L. 99–570, § 1355(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement.”
 
-1984—Subsecs. (b), (c). Pub. L. 98–473, § 901, added subsec. (b) and redesignated former subsec. (b) as (c).
+1984—Subsecs. (b), (c). Pub. L. 98–473, § 901, added subsec. (b) and redesignated former subsec. (b) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendments made by sections 1355(b) and 1357(a) [amending this section and section 5321 of this title] shall apply with respect to violations committed after the end of the 3-month period beginning on the date of the enactment of this Act [Oct. 27, 1986].”
+Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendments made by sections 1355(b) and 1357(a) [amending this section and section 5321 of this title] shall apply with respect to violations committed after the end of the 3-month period beginning on the date of the enactment of this Act [Oct. 27, 1986].”
 
-### § 5318. Compliance, exemptions, and summons authority
+### § 5318. Compliance, exemptions, and summons authority
 
 **(a) General Powers of Secretary.—** The Secretary of the Treasury may (except under section 5315 of this title and regulations prescribed under section 5315)—
 
@@ -1825,9 +1825,9 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, pro
 
 **(b) Limitations on Summons Power.—**
 
-**(1) Scope of power.—** The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only in connection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 1
+**(1) Scope of power.—** The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only in connection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the National Housing Act, or chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.) or any regulation under any such provision.
 
@@ -1863,7 +1863,7 @@ to compel compliance with the summons.
 
 **(5) Service of process.—** All process in any case under this subsection may be served in any judicial district in which such person may be found.
 
-**(f) Written and Signed Statement Required.—** No person shall qualify for an exemption under subsection (a)(5) <sup>1</sup> unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
+**(f) Written and Signed Statement Required.—** No person shall qualify for an exemption under subsection (a)(5) <sup>1</sup> unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
 
 **(1)** describes in detail the reasons why such person is qualified for such exemption; and
 
@@ -1877,9 +1877,9 @@ to compel compliance with the summons.
 
 **(A) In general.—** If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
 
-**(i)** neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported or otherwise reveal any information that would reveal that the transaction has been reported,; 2
+**(i)** neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported or otherwise reveal any information that would reveal that the transaction has been reported,; 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 and
 
@@ -2423,13 +2423,13 @@ except that such written reference or notice may not disclose that such informat
 
 **(E) Federal depository institution regulators.—** The term “Federal depository institution regulator” means a member of the Financial Institutions Examination Council to which is delegated any authority of the Secretary under subsection (a)(1).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, § 1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§ 6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§ 1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, § 330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§ 403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§ 312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, § 811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§ 6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, § 407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, § 118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, § 2(a), Aug. 8, 2014, 128 Stat. 1829; Pub. L. 116–283, div. F, title LXI, §§ 6101(b), 6102(c), title LXII, §§ 6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§ 6301, 6308(a), Jan. 1, 2021, 134 Stat. 4550, 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, § 1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§ 6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§ 1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, § 330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§ 403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§ 312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, § 811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§ 6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, § 407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, § 118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, § 2(a), Aug. 8, 2014, 128 Stat. 1829; Pub. L. 116–283, div. F, title LXI, §§ 6101(b), 6102(c), title LXII, §§ 6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§ 6301, 6308(a), Jan. 1, 2021, 134 Stat. 4550, 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5318 | 31:1054(a), (b)(1st sentence). | Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat. 1120. |
+| 5318 | 31:1054(a), (b)(1st sentence). | Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat. 1120. |
 |  | 31:1055. |  |
 
 In the section, before clause (1), the words “have the responsibility to assure compliance with the requirements of this chapter” in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words “(except under section 5315 of this title and regulations prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. The words “bank supervisory agency, or other” are omitted as surplus. In clause (2), the words “by regulation” and “as he may deem” are omitted as surplus. The words “and regulations prescribed under this subchapter” are added because of the restatement. In clause (3), the word “prescribe” is substituted for “make” in 31:1055 for consistency in the revised title and with other titles of the Code. The words “otherwise imposed”, 31:1055(1st sentence), and the words “in his discretion” are omitted as surplus.
@@ -2440,9 +2440,9 @@ In the section, before clause (1), the words “have the responsibility to assur
 
 Section 21 of the Federal Deposit Insurance Act, referred to in subsecs. (b)(1), (m), and (n)(2), is classified to section 1829b of Title 12, Banks and Banking.
 
-Section 411 of the National Housing Act, referred to in subsec. (b)(1), which was classified to section 1730d of Title 12, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
+Section 411 of the National Housing Act, referred to in subsec. (b)(1), which was classified to section 1730d of Title 12, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
 
-Chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.), referred to in subsec. (b)(1), probably means chapter 2 (§§ 121 to 129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12. For complete classification of chapter 2 to the Code, see Tables.
+Chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.), referred to in subsec. (b)(1), probably means chapter 2 (§§ 121 to 129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12. For complete classification of chapter 2 to the Code, see Tables.
 
 Subsection (a)(5), referred to in subsec. (f), was redesignated subsection (a)(6) by section 410(a)(2) of Pub. L. 103–325.
 
@@ -2472,71 +2472,71 @@ For provisions relating to the Bank Secrecy Act Advisory Group, referred to in s
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 6101(b)(1), substituted “subsections (b)(2) and (h)(4)” for “subsection (b)(2)”.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 6101(b)(1), substituted “subsections (b)(2) and (h)(4)” for “subsection (b)(2)”.
 
-Subsec. (a)(2). Pub. L. 116–283, § 6102(c), inserted “, including the collection and reporting of certain information as the Secretary of the Treasury may prescribe by regulation,” after “appropriate procedures” and “, the financing of terrorism, or other forms of illicit finance” after “money laundering”.
+Subsec. (a)(2). Pub. L. 116–283, § 6102(c), inserted “, including the collection and reporting of certain information as the Secretary of the Treasury may prescribe by regulation,” after “appropriate procedures” and “, the financing of terrorism, or other forms of illicit finance” after “money laundering”.
 
-Subsec. (g)(2)(A)(i). Pub. L. 116–283, § 6212(b)(1), inserted “or otherwise reveal any information that would reveal that the transaction has been reported,” after “transaction has been reported”.
+Subsec. (g)(2)(A)(i). Pub. L. 116–283, § 6212(b)(1), inserted “or otherwise reveal any information that would reveal that the transaction has been reported,” after “transaction has been reported”.
 
-Subsec. (g)(2)(A)(ii). Pub. L. 116–283, § 6212(b)(2), inserted “or otherwise reveal any information that would reveal that the transaction has been reported,” after “transaction has been reported,”.
+Subsec. (g)(2)(A)(ii). Pub. L. 116–283, § 6212(b)(2), inserted “or otherwise reveal any information that would reveal that the transaction has been reported,” after “transaction has been reported,”.
 
-Subsec. (g)(5). Pub. L. 116–283, § 6202, added par. (5).
+Subsec. (g)(5). Pub. L. 116–283, § 6202, added par. (5).
 
-Subsec. (g)(6), (7). Pub. L. 116–283, § 6206, added pars. (6) and (7).
+Subsec. (g)(6), (7). Pub. L. 116–283, § 6206, added pars. (6) and (7).
 
-Subsec. (g)(8) to (11). Pub. L. 116–283, § 6212(a), added pars. (8) to (11).
+Subsec. (g)(8) to (11). Pub. L. 116–283, § 6212(a), added pars. (8) to (11).
 
-Subsec. (h)(1). Pub. L. 116–283, § 6101(b)(2)(A), inserted “and the financing of terrorism” after “money laundering” and “and countering the financing of terrorism” after “anti-money laundering” in introductory provisions.
+Subsec. (h)(1). Pub. L. 116–283, § 6101(b)(2)(A), inserted “and the financing of terrorism” after “money laundering” and “and countering the financing of terrorism” after “anti-money laundering” in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 116–283, § 6101(b)(2)(B), inserted subpar. (A) designation and heading and added subpar. (B).
+Subsec. (h)(2). Pub. L. 116–283, § 6101(b)(2)(B), inserted subpar. (A) designation and heading and added subpar. (B).
 
-Subsec. (h)(4), (5). Pub. L. 116–283, § 6101(b)(2)(C), added pars. (4) and (5).
+Subsec. (h)(4), (5). Pub. L. 116–283, § 6101(b)(2)(C), added pars. (4) and (5).
 
-Subsec. (k)(1)(B), (C). Pub. L. 116–283, § 6308(a)(1), added subpar. (B) and redesignated subpar. (B) as (C).
+Subsec. (k)(1)(B), (C). Pub. L. 116–283, § 6308(a)(1), added subpar. (B) and redesignated subpar. (B) as (C).
 
-Subsec. (k)(3). Pub. L. 116–283, § 6308(a)(2), added par. (3) and struck out former par (3), which related to foreign bank records, including summons or subpoena of records, acceptance of service, and termination of correspondent relationship.
+Subsec. (k)(3). Pub. L. 116–283, § 6308(a)(2), added par. (3) and struck out former par (3), which related to foreign bank records, including summons or subpoena of records, acceptance of service, and termination of correspondent relationship.
 
-Subsec. (*o*). Pub. L. 116–283, § 6209(a), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 116–283, § 6209(a), added subsec. (*o*).
 
-Subsec. (p). Pub. L. 116–283, § 6213(a), added subsec. (p).
+Subsec. (p). Pub. L. 116–283, § 6213(a), added subsec. (p).
 
-Subsec. (q). Pub. L. 116–283, § 6301, added subsec. (q).
+Subsec. (q). Pub. L. 116–283, § 6301, added subsec. (q).
 
 2014—Subsec. (a)(6), (7). Pub. L. 113–156 added par. (6) and redesignated former par. (6) as (7).
 
-2011—Subsec. (g)(2)(A)(i). Pub. L. 112–74, § 118(1), added cl. (i) and struck out former cl. (i) which read as follows: “the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and”.
+2011—Subsec. (g)(2)(A)(i). Pub. L. 112–74, § 118(1), added cl. (i) and struck out former cl. (i) which read as follows: “the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and”.
 
-Subsec. (g)(2)(A)(ii). Pub. L. 112–74, § 118(2), substituted “no current or former officer or employee of or contractor for” for “no officer or employee of” and inserted “or for” before “any State”.
+Subsec. (g)(2)(A)(ii). Pub. L. 112–74, § 118(2), substituted “no current or former officer or employee of or contractor for” for “no officer or employee of” and inserted “or for” before “any State”.
 
 2006—Subsec. (n)(4)(A). Pub. L. 109–177 substituted “Intelligence Reform and Terrorism Prevention Act of 2004” for “National Intelligence Reform Act of 2004” in introductory provisions.
 
-2004—Subsec. (h)(3). Pub. L. 108–458, § 6202(h), made technical correction to directory language of Pub. L. 107–56, § 325. See 2001 Amendment note below.
+2004—Subsec. (h)(3). Pub. L. 108–458, § 6202(h), made technical correction to directory language of Pub. L. 107–56, § 325. See 2001 Amendment note below.
 
-Subsec. (i)(3)(B). Pub. L. 108–458, § 6203(c)(1), inserted comma before “that is reasonably designed”.
+Subsec. (i)(3)(B). Pub. L. 108–458, § 6203(c)(1), inserted comma before “that is reasonably designed”.
 
-Subsec. (i)(4). Pub. L. 108–458, § 6203(c)(2), substituted “Definitions” for “Definition” in heading.
+Subsec. (i)(4). Pub. L. 108–458, § 6203(c)(2), substituted “Definitions” for “Definition” in heading.
 
-Subsec. (k)(1)(B). Pub. L. 108–458, § 6203(d), substituted “section 5318A(e)(1)(B)” for “section 5318A(f)(1)(B)”.
+Subsec. (k)(1)(B). Pub. L. 108–458, § 6203(d), substituted “section 5318A(e)(1)(B)” for “section 5318A(f)(1)(B)”.
 
-Subsec. (n). Pub. L. 108–458, § 6302, added subsec. (n).
+Subsec. (n). Pub. L. 108–458, § 6302, added subsec. (n).
 
 2003—Subsecs. (*l*), (m). Pub. L. 108–159 redesignated subsec. (*l*), relating to applicability of rules, as (m).
 
-2001—Subsec. (a)(2), (3). Pub. L. 107–56, § 365(c)(2)(B)(ii), inserted “or nonfinancial trades or businesses” after “financial institutions”.
+2001—Subsec. (a)(2), (3). Pub. L. 107–56, § 365(c)(2)(B)(ii), inserted “or nonfinancial trades or businesses” after “financial institutions”.
 
-Subsec. (a)(4). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places.
+Subsec. (a)(4). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places.
 
-Subsec. (c)(1). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
+Subsec. (c)(1). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
 
-Subsec. (f). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in introductory provisions.
+Subsec. (f). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 107–56, § 351(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A financial institution, and a director, officer, employee, or agent of any financial institution, who voluntarily reports a suspicious transaction, or that reports a suspicious transaction pursuant to this section or any other authority, may not notify any person involved in the transaction that the transaction has been reported.”
+Subsec. (g)(2). Pub. L. 107–56, § 351(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A financial institution, and a director, officer, employee, or agent of any financial institution, who voluntarily reports a suspicious transaction, or that reports a suspicious transaction pursuant to this section or any other authority, may not notify any person involved in the transaction that the transaction has been reported.”
 
-Subsec. (g)(3). Pub. L. 107–56, § 351(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any financial institution that makes a disclosure of any possible violation of law or regulation or a disclosure pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution, shall not be liable to any person under any law or regulation of the United States or any constitution, law, or regulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the person involved in the transaction or any other person of such disclosure.”
+Subsec. (g)(3). Pub. L. 107–56, § 351(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any financial institution that makes a disclosure of any possible violation of law or regulation or a disclosure pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution, shall not be liable to any person under any law or regulation of the United States or any constitution, law, or regulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the person involved in the transaction or any other person of such disclosure.”
 
-Subsec. (g)(4)(B). Pub. L. 107–56, § 358(b), substituted “, supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” for “or supervisory agency”.
+Subsec. (g)(4)(B). Pub. L. 107–56, § 358(b), substituted “, supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” for “or supervisory agency”.
 
-Subsec. (h). Pub. L. 107–56, § 352(a), reenacted heading without change and amended text of subsec. (h) generally. Prior to amendment, text read as follows:
+Subsec. (h). Pub. L. 107–56, § 352(a), reenacted heading without change and amended text of subsec. (h) generally. Prior to amendment, text read as follows:
 
 “(1) In general.—In order to guard against money laundering through financial institutions, the Secretary may require financial institutions to carry out anti-money laundering programs, including at a minimum
 
@@ -2550,47 +2550,47 @@ Subsec. (h). Pub. L. 107–56, § 352(a), reenacted heading without change and
 
 “(2) Regulations.—The Secretary may prescribe minimum standards for programs established under paragraph (1).”
 
-Subsec. (h)(3). Pub. L. 107–56, § 325, as amended by Pub. L. 108–458, § 6202(h), added par. (3).
+Subsec. (h)(3). Pub. L. 107–56, § 325, as amended by Pub. L. 108–458, § 6202(h), added par. (3).
 
-Subsec. (i). Pub. L. 107–56, § 312(a), added subsec. (i).
+Subsec. (i). Pub. L. 107–56, § 312(a), added subsec. (i).
 
-Subsec. (j). Pub. L. 107–56, § 313(a), added subsec. (j).
+Subsec. (j). Pub. L. 107–56, § 313(a), added subsec. (j).
 
-Subsec. (k). Pub. L. 107–56, § 319(b), added subsec. (k).
+Subsec. (k). Pub. L. 107–56, § 319(b), added subsec. (k).
 
-Subsec. (*l*). Pub. L. 107–56, § 359(c), added subsec. (*l*) relating to applicability of rules.
+Subsec. (*l*). Pub. L. 107–56, § 359(c), added subsec. (*l*) relating to applicability of rules.
 
-Pub. L. 107–56, § 326(a), added subsec. (*l*) relating to identification and verification of accountholders.
+Pub. L. 107–56, § 326(a), added subsec. (*l*) relating to identification and verification of accountholders.
 
-1994—Subsec. (a)(5). Pub. L. 103–325, § 410(a), added par. (5). Former par. (5) redesignated (6).
+1994—Subsec. (a)(5). Pub. L. 103–325, § 410(a), added par. (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 103–325, § 410(b), inserted “under this paragraph or paragraph (5)” after “revoke an exemption” in penultimate sentence.
+Subsec. (a)(6). Pub. L. 103–325, § 410(b), inserted “under this paragraph or paragraph (5)” after “revoke an exemption” in penultimate sentence.
 
-Pub. L. 103–325, § 410(a)(2), redesignated par. (5) as (6).
+Pub. L. 103–325, § 410(a)(2), redesignated par. (5) as (6).
 
-Subsec. (g). Pub. L. 103–322, § 330017(b)(1), and Pub. L. 103–325, § 413(b)(1), amended directory language of Pub. L. 102–550, § 1517(b), identically. See 1992 Amendment note below.
+Subsec. (g). Pub. L. 103–322, § 330017(b)(1), and Pub. L. 103–325, § 413(b)(1), amended directory language of Pub. L. 102–550, § 1517(b), identically. See 1992 Amendment note below.
 
-Subsec. (g)(4). Pub. L. 103–325, § 403(a), added par. (4).
+Subsec. (g)(4). Pub. L. 103–325, § 403(a), added par. (4).
 
-Subsec. (h). Pub. L. 103–322, § 330017(b)(1), and Pub. L. 103–325, § 413(b)(1), amended directory language of Pub. L. 102–550, § 1517(b), identically. See 1992 Amendment note below.
+Subsec. (h). Pub. L. 103–322, § 330017(b)(1), and Pub. L. 103–325, § 413(b)(1), amended directory language of Pub. L. 102–550, § 1517(b), identically. See 1992 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–550, § 1504(d)(1), substituted “supervising agency and the United States Postal Service” for “supervising agency or the Postal Inspection Service and the Postal Service”.
+1992—Subsec. (a)(1). Pub. L. 102–550, § 1504(d)(1), substituted “supervising agency and the United States Postal Service” for “supervising agency or the Postal Inspection Service and the Postal Service”.
 
-Subsec. (a)(2). Pub. L. 102–550, § 1513, inserted before semicolon “or to guard against money laundering”.
+Subsec. (a)(2). Pub. L. 102–550, § 1513, inserted before semicolon “or to guard against money laundering”.
 
-Subsecs. (g), (h). Pub. L. 102–550, § 1517(b), as amended by Pub. L. 103–322, § 330017(b)(1), and Pub. L. 103–325, § 413(b)(1), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 102–550, § 1517(b), as amended by Pub. L. 103–322, § 330017(b)(1), and Pub. L. 103–325, § 413(b)(1), added subsecs. (g) and (h).
 
-1988—Subsec. (a)(1). Pub. L. 100–690, § 6469(c), inserted “or the Postal Inspection Service” after “appropriate supervising agency”.
+1988—Subsec. (a)(1). Pub. L. 100–690, § 6469(c), inserted “or the Postal Inspection Service” after “appropriate supervising agency”.
 
-Pub. L. 100–690, § 6185(e), inserted “and the Postal Service” after “appropriate supervising agency”.
+Pub. L. 100–690, § 6185(e), inserted “and the Postal Service” after “appropriate supervising agency”.
 
-1986—Pub. L. 99–570, § 1356(c)(2), substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in section catchline.
+1986—Pub. L. 99–570, § 1356(c)(2), substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in section catchline.
 
-Subsec. (a). Pub. L. 99–570, § 1356(a)(1)–(5), designated existing provisions as subsec. (a), added subsec. heading, inserted “except as provided in subsection (b)(2),” in par. (1), added pars. (3) and (4), and redesignated former par. (3) as (5).
+Subsec. (a). Pub. L. 99–570, § 1356(a)(1)–(5), designated existing provisions as subsec. (a), added subsec. heading, inserted “except as provided in subsection (b)(2),” in par. (1), added pars. (3) and (4), and redesignated former par. (3) as (5).
 
-Subsecs. (b) to (e). Pub. L. 99–570, § 1356(a)(6), added subsecs. (b) to (e).
+Subsecs. (b) to (e). Pub. L. 99–570, § 1356(a)(6), added subsecs. (b) to (e).
 
-Subsec. (f). Pub. L. 99–570, § 1356(b), added subsec. (f).
+Subsec. (f). Pub. L. 99–570, § 1356(b), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2604,35 +2604,35 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–56, title III, § 312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act [Oct. 26, 2001], whether or not final regulations are issued under paragraph (1) [set out below], and the failure to issue such regulations shall in no way affect the enforceability of this section [amending this section and enacting provisions set out as a note below] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
+Pub. L. 107–56, title III, § 312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act [Oct. 26, 2001], whether or not final regulations are issued under paragraph (1) [set out below], and the failure to issue such regulations shall in no way affect the enforceability of this section [amending this section and enacting provisions set out as a note below] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
 
-Pub. L. 107–56, title III, § 313(b), Oct. 26, 2001, 115 Stat. 307, provided that: “The amendment made by subsection (a) [amending this section] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act [Oct. 26, 2001].”
+Pub. L. 107–56, title III, § 313(b), Oct. 26, 2001, 115 Stat. 307, provided that: “The amendment made by subsection (a) [amending this section] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act [Oct. 26, 2001].”
 
-Pub. L. 107–56, title III, § 352(b), Oct. 26, 2001, 115 Stat. 322, provided that: “The amendment made by subsection (a) [amending this section] shall take effect at the end of the 180-day period beginning on the date of enactment of this Act [Oct. 26, 2001].”
+Pub. L. 107–56, title III, § 352(b), Oct. 26, 2001, 115 Stat. 322, provided that: “The amendment made by subsection (a) [amending this section] shall take effect at the end of the 180-day period beginning on the date of enactment of this Act [Oct. 26, 2001].”
 
 Amendment by section 358(b) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330017(b)(1), Sept. 13, 1994, 108 Stat. 2149, and Pub. L. 103–325, title IV, § 413(b)(1), Sept. 23, 1994, 108 Stat. 2254, provided that the identical amendments made by those sections are effective Oct. 28, 1992.
+Pub. L. 103–322, title XXXIII, § 330017(b)(1), Sept. 13, 1994, 108 Stat. 2149, and Pub. L. 103–325, title IV, § 413(b)(1), Sept. 23, 1994, 108 Stat. 2254, provided that the identical amendments made by those sections are effective Oct. 28, 1992.
 
 **Regulations**
 
 Secretary of the Treasury required to consult with State supervisory agencies in issuing rules to carry out subsec. (a)(6) of this section, see section 2(c) of Pub. L. 113–156, set out as a Consultation with State Agencies note under section 1958 of Title 12, Banks and Banking.
 
-Pub. L. 107–56, title III, § 312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: “Not later than 180 days after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act [15 U.S.C. 6809]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under section 5318(i)(1) of title 31, United States Code, as added by this section.”
+Pub. L. 107–56, title III, § 312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: “Not later than 180 days after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act [15 U.S.C. 6809]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under section 5318(i)(1) of title 31, United States Code, as added by this section.”
 
-Pub. L. 107–56, title III, § 352(c), Oct. 26, 2001, 115 Stat. 322, provided that: “Before the end of the 180-day period beginning on the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury] shall prescribe regulations that consider the extent to which the requirements imposed under this section [amending this section and enacting provisions set out as a note above] are commensurate with the size, location, and activities of the financial institutions to which such regulations apply.”
+Pub. L. 107–56, title III, § 352(c), Oct. 26, 2001, 115 Stat. 322, provided that: “Before the end of the 180-day period beginning on the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury] shall prescribe regulations that consider the extent to which the requirements imposed under this section [amending this section and enacting provisions set out as a note above] are commensurate with the size, location, and activities of the financial institutions to which such regulations apply.”
 
 **Rule of Construction**
 
-Pub. L. 116–283, div. F, title LXII, § 6213(b), Jan. 1, 2021, 134 Stat. 4579, provided that: “The amendment made by subsection (a) [amending this section] may not be construed to require financial institutions to share resources.”
+Pub. L. 116–283, div. F, title LXII, § 6213(b), Jan. 1, 2021, 134 Stat. 4579, provided that: “The amendment made by subsection (a) [amending this section] may not be construed to require financial institutions to share resources.”
 
 [For definition of “financial institution” as used in section 6213(b) of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under section 5311 of this title.]
 
 **Law Enforcement Feedback on Suspicious Activity Reports**
 
-Pub. L. 116–283, div. F, title LXII, § 6203, Jan. 1, 2021, 134 Stat. 4568, provided that:
+Pub. L. 116–283, div. F, title LXII, § 6203, Jan. 1, 2021, 134 Stat. 4568, provided that:
 
 > **“(a) Feedback.—**
 
@@ -2666,15 +2666,15 @@ For requirement that Financial Institutions Examination Council manual be update
 
 **Grace Period**
 
-Pub. L. 107–56, title III, § 319(c), Oct. 26, 2001, 115 Stat. 314, provided that: “Financial institutions shall have 60 days from the date of enactment of this Act [Oct. 26, 2001] to comply with the provisions of section 5318(k) of title 31, United States Code, as added by this section.”
+Pub. L. 107–56, title III, § 319(c), Oct. 26, 2001, 115 Stat. 314, provided that: “Financial institutions shall have 60 days from the date of enactment of this Act [Oct. 26, 2001] to comply with the provisions of section 5318(k) of title 31, United States Code, as added by this section.”
 
 “Federal Functional Regulator” Includes Commodity Futures Trading Commission
 
-Pub. L. 107–56, title III, § 321(c), Oct. 26, 2001, 115 Stat. 315, provided that: “For purposes of this Act [probably should be “title”, see Short Title of 2001 Amendment note set out under section 5301 of this title] and any amendment made by this Act to any other provision of law, the term ‘Federal functional regulator’ includes the Commodity Futures Trading Commission.”
+Pub. L. 107–56, title III, § 321(c), Oct. 26, 2001, 115 Stat. 315, provided that: “For purposes of this Act [probably should be “title”, see Short Title of 2001 Amendment note set out under section 5301 of this title] and any amendment made by this Act to any other provision of law, the term ‘Federal functional regulator’ includes the Commodity Futures Trading Commission.”
 
 **Reporting of Suspicious Activities by Securities Brokers and Dealers; Investment Company Study**
 
-Pub. L. 107–56, title III, § 356(a), (b), Oct. 26, 2001, 115 Stat. 324, provided that:
+Pub. L. 107–56, title III, § 356(a), (b), Oct. 26, 2001, 115 Stat. 324, provided that:
 
 > **“(a) Deadline for Suspicious Activity Reporting Requirements for Registered Brokers and Dealers.—** The Secretary [of the Treasury], after consultation with the Securities and Exchange Commission and the Board of Governors of the Federal Reserve System, shall publish proposed regulations in the Federal Register before January 1, 2002, requiring brokers and dealers registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] to submit suspicious activity reports under section 5318(g) of title 31, United States Code. Such regulations shall be published in final form not later than July 1, 2002.
 
@@ -2682,7 +2682,7 @@ Pub. L. 107–56, title III, § 356(a), (b), Oct. 26, 2001, 115 Stat. 324, pro
 
 **Reports**
 
-Pub. L. 103–325, title IV, § 403(b), Sept. 23, 1994, 108 Stat. 2246, provided that:
+Pub. L. 103–325, title IV, § 403(b), Sept. 23, 1994, 108 Stat. 2246, provided that:
 
 > **“(1) Reports required.—** The Secretary of the Treasury shall submit an annual report to the Congress at the times required under paragraph (2) on the number of suspicious transactions reported to the officer or agency designated under section 5318(g)(4)(A) of title 31, United States Code, during the period covered by the report and the disposition of such reports.
 
@@ -2690,11 +2690,11 @@ Pub. L. 103–325, title IV, § 403(b), Sept. 23, 1994, 108 Stat. 2246, provid
 
 **Designation Required To Be Made Expeditiously**
 
-Pub. L. 103–325, title IV, § 403(c), Sept. 23, 1994, 108 Stat. 2246, provided that: “The initial designation of an officer or agency of the United States pursuant to the amendment made by subsection (a) [amending this section] shall be made before the end of the 180-day period beginning on the date of enactment of this Act [Sept. 23, 1994].”
+Pub. L. 103–325, title IV, § 403(c), Sept. 23, 1994, 108 Stat. 2246, provided that: “The initial designation of an officer or agency of the United States pursuant to the amendment made by subsection (a) [amending this section] shall be made before the end of the 180-day period beginning on the date of enactment of this Act [Sept. 23, 1994].”
 
 **Improvement of Identification of Money Laundering Schemes**
 
-Pub. L. 103–325, title IV, § 404, Sept. 23, 1994, 108 Stat. 2246, provided that:
+Pub. L. 103–325, title IV, § 404, Sept. 23, 1994, 108 Stat. 2246, provided that:
 
 > **“(a) Enhanced Training, Examinations, and Referrals by Banking Agencies.—** Before the end of the 6-month period beginning on the date of enactment of this Act [Sept. 23, 1994], each appropriate Federal banking agency shall, in consultation with the Secretary of the Treasury and other appropriate law enforcement agencies—
 
@@ -2708,7 +2708,7 @@ Pub. L. 103–325, title IV, § 404, Sept. 23, 1994, 108 Stat. 2246, provided 
 
 > **“(d) Definition.—** For purposes of this section, the term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813].”
 
-### § 5318A. Special measures for jurisdictions, financial institutions, international transactions, or types of accounts of primary money laundering concern
+### § 5318A. Special measures for jurisdictions, financial institutions, international transactions, or types of accounts of primary money laundering concern
 
 **(a) International Counter-Money Laundering Requirements.—**
 
@@ -2730,9 +2730,9 @@ Pub. L. 103–325, title IV, § 404, Sept. 23, 1994, 108 Stat. 2246, provided 
 
 **(4) Process for selecting special measures.—** In selecting which special measure or measures to take under this subsection, the Secretary of the Treasury—
 
-**(A)** shall consult with the Chairman of the Board of Governors of the Federal Reserve System, any other appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) 1
+**(A)** shall consult with the Chairman of the Board of Governors of the Federal Reserve System, any other appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 the Secretary of State, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the National Credit Union Administration Board, and in the sole discretion of the Secretary, such other agencies and interested parties as the Secretary may find to be appropriate; and
 
@@ -2834,11 +2834,11 @@ the Secretary of State, the Securities and Exchange Commission, the Commodity Fu
 
 **(f) Classified Information.—** In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),2
 
-<sup>2</sup>  So in original. A second closing parenthesis probably should precede the comma.
+<sup>2</sup> So in original. A second closing parenthesis probably should precede the comma.
 
 such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
 
-(Added Pub. L. 107–56, title III, § 311(a), Oct. 26, 2001, 115 Stat. 298; amended Pub. L. 108–177, title III, § 376, Dec. 13, 2003, 117 Stat. 2630; Pub. L. 108–458, title VI, § 6203(e), (f), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–293, title V, § 501, Sept. 30, 2006, 120 Stat. 1350.)
+(Added Pub. L. 107–56, title III, § 311(a), Oct. 26, 2001, 115 Stat. 298; amended Pub. L. 108–177, title III, § 376, Dec. 13, 2003, 117 Stat. 2630; Pub. L. 108–458, title VI, § 6203(e), (f), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–293, title V, § 501, Sept. 30, 2006, 120 Stat. 1350.)
 
 **Editorial Notes**
 
@@ -2854,19 +2854,19 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 **Amendments**
 
-2006—Subsec. (c)(2)(A)(i). Pub. L. 109–293, § 501(1), substituted “or entities involved in the proliferation of weapons of mass destruction or missiles” for “or both,”.
+2006—Subsec. (c)(2)(A)(i). Pub. L. 109–293, § 501(1), substituted “or entities involved in the proliferation of weapons of mass destruction or missiles” for “or both,”.
 
-Subsec. (c)(2)(B)(i). Pub. L. 109–293, § 501(2), inserted “, including any money laundering activity by organized criminal groups, international terrorists, or entities involved in the proliferation of weapons of mass destruction or missiles” before semicolon at end.
+Subsec. (c)(2)(B)(i). Pub. L. 109–293, § 501(2), inserted “, including any money laundering activity by organized criminal groups, international terrorists, or entities involved in the proliferation of weapons of mass destruction or missiles” before semicolon at end.
 
-2004—Pub. L. 108–458, § 6203(e), amended section catchline generally. Prior to amendment, catchline read as follows: “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
+2004—Pub. L. 108–458, § 6203(e), amended section catchline generally. Prior to amendment, catchline read as follows: “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
 
-Subsec. (a)(4)(A). Pub. L. 108–458, § 6203(f)(1), substituted “(as defined in section 3 of the Federal Deposit Insurance Act)” for “, as defined in section 3 of the Federal Deposit Insurance Act,”.
+Subsec. (a)(4)(A). Pub. L. 108–458, § 6203(f)(1), substituted “(as defined in section 3 of the Federal Deposit Insurance Act)” for “, as defined in section 3 of the Federal Deposit Insurance Act,”.
 
-Subsec. (a)(4)(B)(iii). Pub. L. 108–458, § 6203(f)(2), substituted “class of transactions, or type of account” for “or class of transactions”.
+Subsec. (a)(4)(B)(iii). Pub. L. 108–458, § 6203(f)(2), substituted “class of transactions, or type of account” for “or class of transactions”.
 
-Subsec. (b)(1)(A). Pub. L. 108–458, § 6203(f)(3), substituted “class of transactions, or type of account to be” for “or class of transactions to be”.
+Subsec. (b)(1)(A). Pub. L. 108–458, § 6203(f)(3), substituted “class of transactions, or type of account to be” for “or class of transactions to be”.
 
-Subsec. (e)(3). Pub. L. 108–458, § 6203(f)(4), inserted “or subsection (i) or (j) of section 5318” after “identification of individuals under this section”.
+Subsec. (e)(3). Pub. L. 108–458, § 6203(f)(4), inserted “or subsection (i) or (j) of section 5318” after “identification of individuals under this section”.
 
 2003—Subsec. (f). Pub. L. 108–177 added subsec. (f).
 
@@ -2878,7 +2878,7 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 **Determination With Respect to Primary Money Laundering Concern of Russian Illicit Finance**
 
-Pub. L. 116–283, div. H, title XCVII, § 9714(a)–(e), Jan. 1, 2021, 134 Stat. 4838, as amended by Pub. L. 117–81, div. F, title LXI, § 6106(b)(2), Dec. 27, 2021, 135 Stat. 2387, provided that:
+Pub. L. 116–283, div. H, title XCVII, § 9714(a)–(e), Jan. 1, 2021, 134 Stat. 4838, as amended by Pub. L. 117–81, div. F, title LXI, § 6106(b)(2), Dec. 27, 2021, 135 Stat. 2387, provided that:
 
 > **“(a) Determination.—** If the Secretary of the Treasury determines that reasonable grounds exist for concluding that one or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts within, or involving, a jurisdiction outside of the United States is of primary money laundering concern in connection with Russian illicit finance, the Secretary of the Treasury may, by order, regulation, or otherwise as permitted by law—
 
@@ -2900,17 +2900,17 @@ Pub. L. 116–283, div. H, title XCVII, § 9714(a)–(e), Jan. 1, 2021, 134 St
 
 For purposes of Pub. L. 107–56 and any amendment by Pub. L. 107–56, the term “Federal functional regulator” includes the Commodity Futures Trading Commission, see section 321(c) of Pub. L. 107–56, set out as a note under section 5318 of this title.
 
-### § 5319. Availability of reports
+### § 5319. Availability of reports
 
 The Secretary of the Treasury shall make information in a report filed under this subchapter available to an agency, including any State financial institutions supervisory agency, United States intelligence agency or self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission, upon request of the head of the agency or organization. The report shall be available for a purpose that is consistent with this subchapter. The Secretary may only require reports on the use of such information by any State financial institutions supervisory agency for other than supervisory purposes or by United States intelligence agencies. However, a report and records of reports are exempt from search and disclosure under section 552 of title 5, and may not be disclosed under any State, local, tribal, or territorial “freedom of information”, “open government”, or similar law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 102–550, title XV, § 1506, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 107–56, title III, § 358(c), Oct. 26, 2001, 115 Stat. 326; Pub. L. 112–74, div. C, title I, § 119, Dec. 23, 2011, 125 Stat. 891; Pub. L. 116–283, div. F, title LXI, § 6109(b), Jan. 1, 2021, 134 Stat. 4561.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 102–550, title XV, § 1506, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 107–56, title III, § 358(c), Oct. 26, 2001, 115 Stat. 326; Pub. L. 112–74, div. C, title I, § 119, Dec. 23, 2011, 125 Stat. 891; Pub. L. 116–283, div. F, title LXI, § 6109(b), Jan. 1, 2021, 134 Stat. 4561.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5319 | 31:1052(j). | Oct. 26, 1970, Pub. L. 91–508, §§ 203(j), 212, 84 Stat. 1120, 1121. |
+| 5319 | 31:1052(j). | Oct. 26, 1970, Pub. L. 91–508, §§ 203(j), 212, 84 Stat. 1120, 1121. |
 |  | 31:1061. |  |
 
 The words “upon such conditions and pursuant to such procedures as he may by regulation prescribe” and “set forth” in 31:1061, and the word “specifically” in 31:1052(j), are omitted as surplus.
@@ -2921,7 +2921,7 @@ The words “upon such conditions and pursuant to such procedures as he may by r
 
 2021—Pub. L. 116–283 inserted “search and” before “disclosure”.
 
-2011—Pub. L. 112–74 inserted “, and may not be disclosed under any State, local, tribal, or territorial ‘freedom of information’, ‘open government’, or similar law” after “section 552 of title 5”.
+2011—Pub. L. 112–74 inserted “, and may not be disclosed under any State, local, tribal, or territorial ‘freedom of information’, ‘open government’, or similar law” after “section 552 of title 5”.
 
 2001—Pub. L. 107–56 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall make information in a report filed under section 5313, 5314, or 5316 of this title available to an agency, including any State financial institutions supervisory agency, on request of the head of the agency. The report shall be available for a purpose consistent with those sections or a regulation prescribed under those sections. The Secretary may only require reports on the use of such information by any State financial institutions supervisory agency for other than supervisory purposes. However, a report and records of reports are exempt from disclosure under section 552 of title 5.”
 
@@ -2933,7 +2933,7 @@ The words “upon such conditions and pursuant to such procedures as he may by r
 
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
 
-### § 5320. Injunctions
+### § 5320. Injunctions
 
 When the Secretary of the Treasury believes a person has violated, is violating, or will violate this subchapter or a regulation prescribed or order issued under this subchapter, the Secretary may bring a civil action in the appropriate district court of the United States or appropriate United States court of a territory or possession of the United States to enjoin the violation or to enforce compliance with the subchapter, regulation, or order. An injunction or temporary restraining order shall be issued without bond.
 
@@ -2943,12 +2943,12 @@ When the Secretary of the Treasury believes a person has violated, is violating,
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5320 | 31:1057. | Oct. 26, 1970, Pub. L. 91–508, § 208, 84 Stat. 1120. |
-|  | 31:1143(b)(words before last comma). | Sept. 21, 1973, Pub. L. 93–110, § 203(b)(words be­fore last comma), 87 Stat. 353. |
+| 5320 | 31:1057. | Oct. 26, 1970, Pub. L. 91–508, § 208, 84 Stat. 1120. |
+|  | 31:1143(b)(words before last comma). | Sept. 21, 1973, Pub. L. 93–110, § 203(b)(words be­fore last comma), 87 Stat. 353. |
 
-The words “has violated, is violating, or will violate this subchapter” are substituted for “has engaged, is engaged, or is about to engage in any acts or practices constituting a violation of the provisions of this chapter” in 31:1057 and “failed to submit a report required under any rule or regulation issued under this subchapter or has violated any rule or regulation issued hereunder” in 31:1143(b)(words before last comma) to eliminate unnecessary words. The words “or a regulation prescribed” are added because of the restatement. The words “in his discretion” are omitted as surplus. The word “civil” is added because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The word “possession” is substituted for “other place subject to the jurisdiction” for consistency in the revised title and with other titles of the United States Code. The words “or to enforce compliance with the subchapter, regulation, or order” are substituted for 31:1057(last sentence) and the words “a mandatory injunction commanding such person to comply with such rule or regulation” in 31:1143(b)(words before last comma) to eliminate unnecessary words. The words “and upon a proper showing . . . permanent or” are omitted as surplus.
+The words “has violated, is violating, or will violate this subchapter” are substituted for “has engaged, is engaged, or is about to engage in any acts or practices constituting a violation of the provisions of this chapter” in 31:1057 and “failed to submit a report required under any rule or regulation issued under this subchapter or has violated any rule or regulation issued hereunder” in 31:1143(b)(words before last comma) to eliminate unnecessary words. The words “or a regulation prescribed” are added because of the restatement. The words “in his discretion” are omitted as surplus. The word “civil” is added because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The word “possession” is substituted for “other place subject to the jurisdiction” for consistency in the revised title and with other titles of the United States Code. The words “or to enforce compliance with the subchapter, regulation, or order” are substituted for 31:1057(last sentence) and the words “a mandatory injunction commanding such person to comply with such rule or regulation” in 31:1143(b)(words before last comma) to eliminate unnecessary words. The words “and upon a proper showing . . . permanent or” are omitted as surplus.
 
-### § 5321. Civil penalties
+### § 5321. Civil penalties
 
 **(a)**
 
@@ -3014,9 +3014,9 @@ The words “has violated, is violating, or will violate this subchapter” are 
 
 **(B)** the date any judgment becomes final in any criminal action under section 5322 in connection with the same transaction with respect to which the penalty is assessed.
 
-**(c)** The Secretary may remit any part of a forfeiture under subsection (c) or (d) 1
+**(c)** The Secretary may remit any part of a forfeiture under subsection (c) or (d) 1
 
-<sup>1</sup>  So in original. Section 5317 does not contain a subsec. (d).
+<sup>1</sup> So in original. Section 5317 does not contain a subsec. (d).
 
 of section 5317 of this title or civil penalty under subsection (a)(2) of this section.
 
@@ -3062,16 +3062,16 @@ of section 5317 of this title or civil penalty under subsection (a)(2) of this s
 
 **(2) Bar.—** An individual found to have committed an egregious violation of the Bank Secrecy Act, as defined in section 6003 of the Anti-Money Laundering Act of 2020, or any rules issued under the Bank Secrecy Act, shall be barred from serving on the board of directors of a United States financial institution during the 10-year period that begins on the date on which the conviction or judgment, as applicable, with respect to the egregious violation is entered.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, § 901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§ 1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, § 6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§ 1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, § 330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§ 406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254; Pub. L. 104–208, div. A, title II, § 2223(3), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 107–56, title III, §§ 353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 322, 332, 335; Pub. L. 108–357, title VIII, § 821(a), Oct. 22, 2004, 118 Stat. 1586; Pub. L. 116–283, div. F, title LXIII, §§ 6309, 6310(a), title LXIV, § 6403(b)(1), Jan. 1, 2021, 134 Stat. 4594, 4595, 4623.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, § 901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§ 1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, § 6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§ 1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, § 330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§ 406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254; Pub. L. 104–208, div. A, title II, § 2223(3), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 107–56, title III, §§ 353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 322, 332, 335; Pub. L. 108–357, title VIII, § 821(a), Oct. 22, 2004, 118 Stat. 1586; Pub. L. 116–283, div. F, title LXIII, §§ 6309, 6310(a), title LXIV, § 6403(b)(1), Jan. 1, 2021, 134 Stat. 4594, 4595, 4623.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5321(a)(1) | 31:1054(b)(last sentence related to civil penalties). | Oct. 26, 1970, Pub. L. 91–508, §§ 205(b)(last sentence related to civil penalties), 207, 233, 234, 84 Stat. 1120, 1123. |
+| 5321(a)(1) | 31:1054(b)(last sentence related to civil penalties). | Oct. 26, 1970, Pub. L. 91–508, §§ 205(b)(last sentence related to civil penalties), 207, 233, 234, 84 Stat. 1120, 1123. |
 |  | 31:1056(a). |  |
 | 5321(a)(2) | 31:1103. |  |
-| 5321(a)(3) | 31:1143(a), (b)(words after last comma). | Sept. 21, 1973, Pub. L. 93–110, § 203(a), (b)(words after last comma), 87 Stat. 353. |
+| 5321(a)(3) | 31:1143(a), (b)(words after last comma). | Sept. 21, 1973, Pub. L. 93–110, § 203(a), (b)(words after last comma), 87 Stat. 353. |
 | 5321(b) | 31:1056(b). |  |
 | 5321(c) | 31:1104. |  |
 
@@ -3099,21 +3099,21 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (g
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 6403(b)(1)(A), substituted “sections 5314, 5315, and 5336” for “sections 5314 and 5315” in two places.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 6403(b)(1)(A), substituted “sections 5314, 5315, and 5336” for “sections 5314 and 5315” in two places.
 
-Subsec. (a)(6). Pub. L. 116–283, § 6403(b)(1)(B), inserted “(except section 5336)” after “subchapter” wherever appearing.
+Subsec. (a)(6). Pub. L. 116–283, § 6403(b)(1)(B), inserted “(except section 5336)” after “subchapter” wherever appearing.
 
-Subsec. (f). Pub. L. 116–283, § 6309, added subsec. (f).
+Subsec. (f). Pub. L. 116–283, § 6309, added subsec. (f).
 
-Subsec. (g). Pub. L. 116–283, § 6310(a), added subsec. (g).
+Subsec. (g). Pub. L. 116–283, § 6310(a), added subsec. (g).
 
 2004—Subsec. (a)(5). Pub. L. 108–357 amended heading and text of par. (5) generally, inserting provisions changing the penalties for violating section 5314 of this title and providing a reasonable cause exception.
 
-2001—Subsec. (a)(1). Pub. L. 107–56, §§ 353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “sections 5314 and 5315)”.
+2001—Subsec. (a)(1). Pub. L. 107–56, §§ 353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “sections 5314 and 5315)”.
 
-Subsec. (a)(6). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+Subsec. (a)(6). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
 
-Subsec. (a)(7). Pub. L. 107–56, § 363(a), added par. (7).
+Subsec. (a)(7). Pub. L. 107–56, § 363(a), added par. (7).
 
 1996—Subsec. (a)(7). Pub. L. 104–208 struck out par. (7) which read as follows:
 
@@ -3123,35 +3123,35 @@ Subsec. (a)(7). Pub. L. 107–56, § 363(a), added par. (7).
 
 “(B) Maximum amount limitation.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed $10,000 per day for each day during which a report remains unfiled or a report containing a material omission or misstatement of fact remains uncorrected.”
 
-1994—Subsec. (a)(4)(A). Pub. L. 103–325, § 411(b), struck out “willfully” before “violates”.
+1994—Subsec. (a)(4)(A). Pub. L. 103–325, § 411(b), struck out “willfully” before “violates”.
 
-Subsec. (a)(5)(A). Pub. L. 103–322, § 330017(a)(1) and Pub. L. 103–325, § 413(a)(1), amended subpar. (A) identically, inserting “any violation of” after “causing”.
+Subsec. (a)(5)(A). Pub. L. 103–322, § 330017(a)(1) and Pub. L. 103–325, § 413(a)(1), amended subpar. (A) identically, inserting “any violation of” after “causing”.
 
-Subsec. (e). Pub. L. 103–325, § 406, added subsec. (e).
+Subsec. (e). Pub. L. 103–325, § 406, added subsec. (e).
 
-1992—Subsec. (a)(4)(C). Pub. L. 102–550, § 1525(b), struck out “under section 5317(d)” after “forfeiture to the United States”.
+1992—Subsec. (a)(4)(C). Pub. L. 102–550, § 1525(b), struck out “under section 5317(d)” after “forfeiture to the United States”.
 
-Subsec. (a)(5)(A). Pub. L. 102–550, § 1535(a)(2), inserted “or any person willfully causing” after “willfully violates”.
+Subsec. (a)(5)(A). Pub. L. 102–550, § 1535(a)(2), inserted “or any person willfully causing” after “willfully violates”.
 
-Subsec. (a)(6). Pub. L. 102–550, § 1561(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Negligence.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.”
+Subsec. (a)(6). Pub. L. 102–550, § 1561(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Negligence.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.”
 
-Subsec. (a)(7). Pub. L. 102–550, § 1511(b), added par. (7).
+Subsec. (a)(7). Pub. L. 102–550, § 1511(b), added par. (7).
 
 1988—Subsec. (a)(1). Pub. L. 100–690 inserted “(if any)” after “transaction”.
 
-1986—Subsec. (a)(1). Pub. L. 99–570, §§ 1356(c)(1), 1357(b), substituted “sections 5314 and 5315” for “section 5315” in two places, substituted “5318(a)(2)” for “5318(2)” in two places, and substituted “the greater of the amount (not to exceed $100,000) involved in the transaction or $25,000” for “$10,000”.
+1986—Subsec. (a)(1). Pub. L. 99–570, §§ 1356(c)(1), 1357(b), substituted “sections 5314 and 5315” for “section 5315” in two places, substituted “5318(a)(2)” for “5318(2)” in two places, and substituted “the greater of the amount (not to exceed $100,000) involved in the transaction or $25,000” for “$10,000”.
 
-Subsec. (a)(4). Pub. L. 99–570, § 1357(a), added par. (4).
+Subsec. (a)(4). Pub. L. 99–570, § 1357(a), added par. (4).
 
-Subsec. (a)(5). Pub. L. 99–570, § 1357(c), added par. (5).
+Subsec. (a)(5). Pub. L. 99–570, § 1357(c), added par. (5).
 
-Subsec. (a)(6). Pub. L. 99–570, § 1357(d), added par. (6).
+Subsec. (a)(6). Pub. L. 99–570, § 1357(d), added par. (6).
 
-Subsec. (b). Pub. L. 99–570, § 1357(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary may bring a civil action to recover a civil penalty under subsection (a)(1) or (2) of this section that has not been paid.”
+Subsec. (b). Pub. L. 99–570, § 1357(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary may bring a civil action to recover a civil penalty under subsection (a)(1) or (2) of this section that has not been paid.”
 
-Subsec. (c). Pub. L. 99–570, § 1357(h), substituted “subsection (c) or (d) of section 5317” for “section 5317(b)”.
+Subsec. (c). Pub. L. 99–570, § 1357(h), substituted “subsection (c) or (d) of section 5317” for “section 5317(b)”.
 
-Subsec. (d). Pub. L. 99–570, § 1357(f), added subsec. (d).
+Subsec. (d). Pub. L. 99–570, § 1357(f), added subsec. (d).
 
 1984—Subsec. (a)(1). Pub. L. 98–473 substituted “$10,000” for “$1,000”.
 
@@ -3159,23 +3159,23 @@ Subsec. (d). Pub. L. 99–570, § 1357(f), added subsec. (d).
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 821(b), Oct. 22, 2004, 118 Stat. 1586, provided that: “The amendment made by this section [amending this section] shall apply to violations occurring after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 821(b), Oct. 22, 2004, 118 Stat. 1586, provided that: “The amendment made by this section [amending this section] shall apply to violations occurring after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–550, title XV, § 1561(b), Oct. 28, 1992, 106 Stat. 4072, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to violations committed after the date of the enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–550, title XV, § 1561(b), Oct. 28, 1992, 106 Stat. 4072, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to violations committed after the date of the enactment of this Act [Oct. 28, 1992].”
 
 **Effective Date of 1986 Amendment**
 
 Amendment by section 1357(a) of Pub. L. 99–570, applicable with respect to violations committed after the end of the 3-month period beginning Oct. 27, 1986, see section 1364(b) of Pub. L. 99–570, set out as a note under section 5317 of this title.
 
-Pub. L. 99–570, title I, § 1364(c), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendments made by section 1357 (other than subsection (a) of such section) [amending sections 5321 and 5322 of this title] shall apply with respect to violations committed after the date of the enactment of this Act [Oct. 27, 1986].”
+Pub. L. 99–570, title I, § 1364(c), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendments made by section 1357 (other than subsection (a) of such section) [amending sections 5321 and 5322 of this title] shall apply with respect to violations committed after the date of the enactment of this Act [Oct. 27, 1986].”
 
 **Construction of 2021 Amendment**
 
-Pub. L. 116–283, div. F, title LXIII, § 6310(b), Jan. 1, 2021, 134 Stat. 4595, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall be construed to limit the application of section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829).”
+Pub. L. 116–283, div. F, title LXIII, § 6310(b), Jan. 1, 2021, 134 Stat. 4595, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall be construed to limit the application of section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829).”
 
-### § 5322. Criminal penalties
+### § 5322. Criminal penalties
 
 **(a)** A person willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except section 5315, 5324, or 5336 of this title or a regulation prescribed under section 5315, 5324, or 5336), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, shall be fined not more than $250,000, or imprisoned for not more than five years, or both.
 
@@ -3191,13 +3191,13 @@ Pub. L. 116–283, div. F, title LXIII, § 6310(b), Jan. 1, 2021, 134 Stat. 45
 
 **(2)** if the person is an individual who was a partner, director, officer, or employee of a financial institution at the time the violation occurred, repay to such financial institution any bonus paid to the individual during the calendar year in which the violation occurred or the calendar year after which the violation occurred.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–473, title II, § 901(b), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§ 1356(c)(1), 1357(g), Oct. 27, 1986, 100 Stat. 3207–24, 3207–26; Pub. L. 102–550, title XV, § 1504(d)(2), Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–325, title IV, § 411(c)(1), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 107–56, title III, §§ 353(b), 363(b), Oct. 26, 2001, 115 Stat. 323, 332; Pub. L. 116–283, div. F, title LXIII, § 6312(a), title LXIV, § 6403(b)(2), Jan. 1, 2021, 134 Stat. 4596, 4623.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–473, title II, § 901(b), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§ 1356(c)(1), 1357(g), Oct. 27, 1986, 100 Stat. 3207–24, 3207–26; Pub. L. 102–550, title XV, § 1504(d)(2), Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–325, title IV, § 411(c)(1), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 107–56, title III, §§ 353(b), 363(b), Oct. 26, 2001, 115 Stat. 323, 332; Pub. L. 116–283, div. F, title LXIII, § 6312(a), title LXIV, § 6403(b)(2), Jan. 1, 2021, 134 Stat. 4596, 4623.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5322(a) | 31:1058. | Oct. 26, 1970, Pub. L. 91–508, §§ 205(b)(last sentence related to criminal penalties), 209, 210, 84 Stat. 1120, 1121. |
+| 5322(a) | 31:1058. | Oct. 26, 1970, Pub. L. 91–508, §§ 205(b)(last sentence related to criminal penalties), 209, 210, 84 Stat. 1120, 1121. |
 | 5322(b) | 31:1059. |  |
 | 5322(c) | 31:1054(b)(last sentence related to criminal penalties). |  |
 
@@ -3221,23 +3221,23 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (e
 
 **Amendments**
 
-2021—Subsecs. (a), (b). Pub. L. 116–283, § 6403(b)(2), substituted “section 5315, 5324, or 5336” for “section 5315 or 5324” in two places.
+2021—Subsecs. (a), (b). Pub. L. 116–283, § 6403(b)(2), substituted “section 5315, 5324, or 5336” for “section 5315 or 5324” in two places.
 
-Subsec. (e). Pub. L. 116–283, § 6312(a), added subsec. (e).
+Subsec. (e). Pub. L. 116–283, § 6312(a), added subsec. (e).
 
-2001—Subsec. (a). Pub. L. 107–56, § 353(b)(1), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324)”.
+2001—Subsec. (a). Pub. L. 107–56, § 353(b)(1), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324)”.
 
-Subsec. (b). Pub. L. 107–56, § 353(b)(2), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324),”.
+Subsec. (b). Pub. L. 107–56, § 353(b)(2), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324),”.
 
-Subsec. (d). Pub. L. 107–56, § 363(b), added subsec. (d).
+Subsec. (d). Pub. L. 107–56, § 363(b), added subsec. (d).
 
 1994—Subsecs. (a), (b). Pub. L. 103–325 inserted “or 5324” after “section 5315” wherever appearing.
 
 1992—Subsec. (a). Pub. L. 102–550 substituted “imprisoned for” for “imprisonment”.
 
-1986—Subsec. (b). Pub. L. 99–570, § 1357(g), substituted “any illegal activity involving” for “illegal activity involving transactions of” and “10 years” for “5 years”.
+1986—Subsec. (b). Pub. L. 99–570, § 1357(g), substituted “any illegal activity involving” for “illegal activity involving transactions of” and “10 years” for “5 years”.
 
-Subsec. (c). Pub. L. 99–570, § 1356(c)(1), substituted “5318(a)(2)” for “5318(2)” in two places.
+Subsec. (c). Pub. L. 99–570, § 1356(c)(1), substituted “5318(a)(2)” for “5318(2)” in two places.
 
 1984—Subsec. (a). Pub. L. 98–473, which directed the substitution of “$250,000, or imprisonment not more than five years, or both” for “$1,000, or imprisonment not more than one year, or both”, was executed by substituting the quoted wording for “$1,000, imprisoned for not more than one year, or both” to reflect the probable intent of Congress.
 
@@ -3249,15 +3249,15 @@ Amendment by section 1357(g) of Pub. L. 99–570 applicable with respect to viol
 
 **Construction of 2021 Amendment**
 
-Pub. L. 116–283, div. F, title LXIII, § 6312(b), Jan. 1, 2021, 134 Stat. 4596, provided that: “The amendment made by subsection (a) [amending this section] may not be construed to prohibit a financial institution from requiring the repayment of a bonus paid to a partner, director, officer, or employee if the financial institution determines that the partner, director, officer, or employee engaged in unethical, but non-criminal, activities.”
+Pub. L. 116–283, div. F, title LXIII, § 6312(b), Jan. 1, 2021, 134 Stat. 4596, provided that: “The amendment made by subsection (a) [amending this section] may not be construed to prohibit a financial institution from requiring the repayment of a bonus paid to a partner, director, officer, or employee if the financial institution determines that the partner, director, officer, or employee engaged in unethical, but non-criminal, activities.”
 
-### § 5323. Whistleblower incentives and protections
+### § 5323. Whistleblower incentives and protections
 
 **(a) Definitions.—** In this section:
 
 **(1) Covered judicial or administrative action.—** The term “covered judicial or administrative action” means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the “Secretary”) or the Attorney General under this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), or .),1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and for conspiracies to violate the aforementioned provisions that results in monetary sanctions exceeding $1,000,000.
 
@@ -3343,7 +3343,7 @@ and for conspiracies to violate the aforementioned provisions that results in mo
 
 **(ii)** the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
 
-**(iii)** the programmatic interest of the Department of the Treasury in deterring violations of this this <sup>1</sup> subchapter, chapter 35 or section 4305 or 4312 of title 50, and the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.) by making awards to whistleblowers who provide information that lead to the successful enforcement of the covered judicial or administrative action; and
+**(iii)** the programmatic interest of the Department of the Treasury in deterring violations of this this <sup>1</sup> subchapter, chapter 35 or section 4305 or 4312 of title 50, and the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.) by making awards to whistleblowers who provide information that lead to the successful enforcement of the covered judicial or administrative action; and
 
 **(iv)** such additional relevant factors as the Secretary, in consultation with the Attorney General, may establish by rule or regulation.
 
@@ -3495,39 +3495,39 @@ and for conspiracies to violate the aforementioned provisions that results in mo
 
 **(2) Predispute arbitration agreements.—** No predispute arbitration agreement shall be valid or enforceable, to the extent the agreement requires arbitration of a dispute arising under this section.
 
-(Added Pub. L. 98–473, title II, § 901(e), Oct. 12, 1984, 98 Stat. 2135; amended Pub. L. 116–283, div. F, title LXIII, § 6314(a), Jan. 1, 2021, 134 Stat. 4597; Pub. L. 117–328, div. AA, title IV, § 401, Dec. 29, 2022, 136 Stat. 5536.)
+(Added Pub. L. 98–473, title II, § 901(e), Oct. 12, 1984, 98 Stat. 2135; amended Pub. L. 116–283, div. F, title LXIII, § 6314(a), Jan. 1, 2021, 134 Stat. 4597; Pub. L. 117–328, div. AA, title IV, § 401, Dec. 29, 2022, 136 Stat. 5536.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 35 of title 50, referred to in subsecs. (a)(1), (5), (b)(4)(A)(i), (c)(1)(B)(iii), and (g)(4)(D)(i), probably should be a reference to the International Emergency Economic Powers Act, title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense.
+Chapter 35 of title 50, referred to in subsecs. (a)(1), (5), (b)(4)(A)(i), (c)(1)(B)(iii), and (g)(4)(D)(i), probably should be a reference to the International Emergency Economic Powers Act, title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense.
 
 Sections 4305 and 4312 of title 50, referred to in subsecs. (a)(1), (5), (b)(4)(A)(i), (c)(1)(B)(iii), and (g)(4)(D)(i), probably should be references to sections 5 and 12 of the Trading with the Enemy Act, act Oct. 6, 1917, ch. 106, which are classified to sections 4305 and 4312, respectively, of Title 50, War and National Defense.
 
-The Foreign Narcotics Kingpin Designation Act, referred to in subsecs. (a)(1), (5), (b)(4)(A)(i), (c)(1)(B)(iii), and (g)(4)(D)(i), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 21 and Tables.
+The Foreign Narcotics Kingpin Designation Act, referred to in subsecs. (a)(1), (5), (b)(4)(A)(i), (c)(1)(B)(iii), and (g)(4)(D)(i), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 21 and Tables.
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–328, § 401(b)(1)(A), substituted “this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), or .), and for conspiracies to violate the aforementioned provisions” for “this subchapter or subchapter III”.
+2022—Subsec. (a)(1). Pub. L. 117–328, § 401(b)(1)(A), substituted “this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), or .), and for conspiracies to violate the aforementioned provisions” for “this subchapter or subchapter III”.
 
-Subsec. (a)(4). Pub. L. 117–328, § 401(b)(1)(B), inserted “covered” after “respect to any”, struck out “under this subchapter or subchapter III” after “Attorney General”, and substituted “covered action” for “action by the Secretary or the Attorney General”.
+Subsec. (a)(4). Pub. L. 117–328, § 401(b)(1)(B), inserted “covered” after “respect to any”, struck out “under this subchapter or subchapter III” after “Attorney General”, and substituted “covered action” for “action by the Secretary or the Attorney General”.
 
-Subsec. (a)(5). Pub. L. 117–328, § 401(b)(1)(A), substituted “this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), or .), and for conspiracies to violate the aforementioned provisions” for “this subchapter or subchapter III”.
+Subsec. (a)(5). Pub. L. 117–328, § 401(b)(1)(A), substituted “this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), or .), and for conspiracies to violate the aforementioned provisions” for “this subchapter or subchapter III”.
 
-Subsec. (b). Pub. L. 117–328, § 401(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
+Subsec. (b). Pub. L. 117–328, § 401(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
 
 “(1) In general.—In any covered judicial or administrative action, or related action, the Secretary, under regulations prescribed by the Secretary, in consultation with the Attorney General and subject to subsection (c) and to amounts made available in advance by appropriation Acts, shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the employer of the individual, the Secretary, or the Attorney General, as applicable, that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions.
 
 “(2) Source of awards.—For the purposes of paying any award under this section, the Secretary may, subject to amounts made available in advance by appropriation Acts, use monetary sanction amounts recovered based on the original information with respect to which the award is being paid.”
 
-Subsec. (c)(1)(B)(iii). Pub. L. 117–328, § 401(b)(2), substituted “this subchapter, chapter 35 or section 4305 or 4312 of title 50, and the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.)” for “subchapter and subchapter III” and “the covered judicial or administrative action” for “either such subchapter”.
+Subsec. (c)(1)(B)(iii). Pub. L. 117–328, § 401(b)(2), substituted “this subchapter, chapter 35 or section 4305 or 4312 of title 50, and the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.)” for “subchapter and subchapter III” and “the covered judicial or administrative action” for “either such subchapter”.
 
-Subsec. (g)(4)(D)(i). Pub. L. 117–328, § 401(b)(3), inserted “chapter 35 or section 4305 or 4312 of title 50, or the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.),” after “subchapter,”.
+Subsec. (g)(4)(D)(i). Pub. L. 117–328, § 401(b)(3), inserted “chapter 35 or section 4305 or 4312 of title 50, or the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.),” after “subchapter,”.
 
 2021—Pub. L. 116–283 amended section generally. Prior to amendment, section related to rewards for informants.
 
-### § 5324. Structuring transactions to evade reporting requirement prohibited
+### § 5324. Structuring transactions to evade reporting requirement prohibited
 
 **(a) Domestic Coin and Currency Transactions Involving Financial Institutions.—** No person shall, for the purpose of evading the reporting requirements of section 5313(a) or 5325 or any regulation prescribed under any such section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—
 
@@ -3559,7 +3559,7 @@ Subsec. (g)(4)(D)(i). Pub. L. 117–328, § 401(b)(3), inserted “chapter 35 
 
 **(2) Enhanced penalty for aggravated cases.—** Whoever violates this section while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of title 18, United States Code, imprisoned for not more than 10 years, or both.
 
-(Added Pub. L. 99–570, title I, § 1354(a), Oct. 27, 1986, 100 Stat. 3207–22; amended Pub. L. 102–550, title XV, §§ 1517(a), 1525(a), 1535(a)(1), Oct. 28, 1992, 106 Stat. 4059, 4064, 4066; Pub. L. 103–322, title XXXIII, § 330017(a)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§ 411(a), 413(a)(2), Sept. 23, 1994, 108 Stat. 2253, 2254; Pub. L. 107–56, title III, §§ 353(c), 365(b)(1), (2)(A), Oct. 26, 2001, 115 Stat. 323, 334, 335; Pub. L. 108–458, title VI, § 6203(g), Dec. 17, 2004, 118 Stat. 3747.)
+(Added Pub. L. 99–570, title I, § 1354(a), Oct. 27, 1986, 100 Stat. 3207–22; amended Pub. L. 102–550, title XV, §§ 1517(a), 1525(a), 1535(a)(1), Oct. 28, 1992, 106 Stat. 4059, 4064, 4066; Pub. L. 103–322, title XXXIII, § 330017(a)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§ 411(a), 413(a)(2), Sept. 23, 1994, 108 Stat. 2253, 2254; Pub. L. 107–56, title III, §§ 353(c), 365(b)(1), (2)(A), Oct. 26, 2001, 115 Stat. 323, 334, 335; Pub. L. 108–458, title VI, § 6203(g), Dec. 17, 2004, 118 Stat. 3747.)
 
 **Editorial Notes**
 
@@ -3573,23 +3573,23 @@ Section 123 of Public Law 91–508, referred to in subsec. (a), is classified to
 
 2004—Subsec. (b). Pub. L. 108–458 substituted “5331” for “5333” wherever appearing.
 
-2001—Subsec. (a). Pub. L. 107–56, §§ 353(c)(1), (2), 365(b)(2)(A), inserted “Involving Financial Institutions” after “Transactions” in heading, and in introductory provisions, inserted comma after “No person shall” and substituted “section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—” for “section—”.
+2001—Subsec. (a). Pub. L. 107–56, §§ 353(c)(1), (2), 365(b)(2)(A), inserted “Involving Financial Institutions” after “Transactions” in heading, and in introductory provisions, inserted comma after “No person shall” and substituted “section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—” for “section—”.
 
-Subsec. (a)(1). Pub. L. 107–56, § 353(c)(3), inserted “, to file a report or to maintain a record required by an order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508” before semicolon at end.
+Subsec. (a)(1). Pub. L. 107–56, § 353(c)(3), inserted “, to file a report or to maintain a record required by an order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508” before semicolon at end.
 
-Subsec. (a)(2). Pub. L. 107–56, § 353(c)(4), inserted “, to file a report or to maintain a record required by any order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “regulation prescribed under any such section”.
+Subsec. (a)(2). Pub. L. 107–56, § 353(c)(4), inserted “, to file a report or to maintain a record required by any order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “regulation prescribed under any such section”.
 
-Subsecs. (b) to (d). Pub. L. 107–56, § 365(b)(1), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 107–56, § 365(b)(1), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1994—Subsec. (a). Pub. L. 103–322, § 330017(a)(2) and Pub. L. 103–325, § 413(a)(2), amended subsec. (a), introductory provisions, identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325” and striking out “with respect to such transaction” before dash.
+1994—Subsec. (a). Pub. L. 103–322, § 330017(a)(2) and Pub. L. 103–325, § 413(a)(2), amended subsec. (a), introductory provisions, identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325” and striking out “with respect to such transaction” before dash.
 
-Subsec. (a)(1), (2). Pub. L. 103–322, § 330017(a)(2)(A) and Pub. L. 103–325, § 413(a)(2)(A), amended pars. (1) and (2) identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325”.
+Subsec. (a)(1), (2). Pub. L. 103–322, § 330017(a)(2)(A) and Pub. L. 103–325, § 413(a)(2)(A), amended pars. (1) and (2) identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325”.
 
-Subsec. (c). Pub. L. 103–325, § 411(a), added subsec. (c).
+Subsec. (c). Pub. L. 103–325, § 411(a), added subsec. (c).
 
-1992—Pub. L. 102–550, § 1525(a)(1), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+1992—Pub. L. 102–550, § 1525(a)(1), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 102–550, §§ 1517(a), 1535(a)(1), inserted the following duplicative provisions “or section 5325 or regulations prescribed under such section 5325” and “, section 5325, or the regulations issued thereunder” after “section 5313(a)” wherever appearing.
+Pub. L. 102–550, §§ 1517(a), 1535(a)(1), inserted the following duplicative provisions “or section 5325 or regulations prescribed under such section 5325” and “, section 5325, or the regulations issued thereunder” after “section 5313(a)” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3599,9 +3599,9 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 **Effective Date**
 
-Pub. L. 99–570, title I, § 1364(a), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendment made by section 1354 [enacting this section] shall apply with respect to transactions for the payment, receipt, or transfer of United States coins or currency or other monetary instruments completed after the end of the 3-month period beginning on the date of the enactment of this Act [Oct. 27, 1986].”
+Pub. L. 99–570, title I, § 1364(a), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendment made by section 1354 [enacting this section] shall apply with respect to transactions for the payment, receipt, or transfer of United States coins or currency or other monetary instruments completed after the end of the 3-month period beginning on the date of the enactment of this Act [Oct. 27, 1986].”
 
-### § 5325. Identification required to purchase certain monetary instruments
+### § 5325. Identification required to purchase certain monetary instruments
 
 **(a) In General.—** No financial institution may issue or sell a bank check, cashier’s check, traveler’s check, or money order to any individual in connection with a transaction or group of such contemporaneous transactions which involves United States coins or currency (or such other monetary instruments as the Secretary may prescribe) in amounts or denominations of $3,000 or more unless—
 
@@ -3617,7 +3617,7 @@ Pub. L. 99–570, title I, § 1364(a), Oct. 27, 1986, 100 Stat. 3207–34, pro
 
 **(c) Transaction Account Defined.—** For purposes of this section, the term “transaction account” has the meaning given to such term in section 19(b)(1)(C) of the Federal Reserve Act.
 
-(Added Pub. L. 100–690, title VI, § 6185(b), Nov. 18, 1988, 102 Stat. 4355.)
+(Added Pub. L. 100–690, title VI, § 6185(b), Nov. 18, 1988, 102 Stat. 4355.)
 
 **Editorial Notes**
 
@@ -3625,7 +3625,7 @@ Pub. L. 99–570, title I, § 1364(a), Oct. 27, 1986, 100 Stat. 3207–34, pro
 
 Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (c), is classified to section 461(b)(1)(C) of Title 12, Banks and Banking.
 
-### § 5326. Records of certain domestic transactions
+### § 5326. Records of certain domestic transactions
 
 **(a) In General.—** If the Secretary of the Treasury finds, upon the Secretary’s own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle or to prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
 
@@ -3653,7 +3653,7 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (c), is c
 
 **(d) Maximum Effective Period for Order.—** No order issued under subsection (a) shall be effective for more than 180 days unless renewed pursuant to the requirements of subsection (a).
 
-(Added Pub. L. 100–690, title VI, § 6185(c), Nov. 18, 1988, 102 Stat. 4355; amended Pub. L. 102–550, title XV, §§ 1514, 1562, Oct. 28, 1992, 106 Stat. 4058, 4072; Pub. L. 107–56, title III, §§ 353(d), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 323, 335; Pub. L. 115–44, title II, § 275(a), Aug. 2, 2017, 131 Stat. 938.)
+(Added Pub. L. 100–690, title VI, § 6185(c), Nov. 18, 1988, 102 Stat. 4355; amended Pub. L. 102–550, title XV, §§ 1514, 1562, Oct. 28, 1992, 106 Stat. 4058, 4072; Pub. L. 107–56, title III, §§ 353(d), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 323, 335; Pub. L. 115–44, title II, § 275(a), Aug. 2, 2017, 131 Stat. 938.)
 
 **Editorial Notes**
 
@@ -3663,39 +3663,39 @@ Section 3(c) of the Federal Deposit Insurance Act, referred to in subsec. (b)(1)
 
 **Amendments**
 
-2017—Pub. L. 115–44, § 275(a)(1), struck out “coin and currency” before “transactions” in section catchline.
+2017—Pub. L. 115–44, § 275(a)(1), struck out “coin and currency” before “transactions” in section catchline.
 
-Subsec. (a). Pub. L. 115–44, § 275(a)(2)(A), substituted “subtitle or to” for “subtitle and” in introductory provisions.
+Subsec. (a). Pub. L. 115–44, § 275(a)(2)(A), substituted “subtitle or to” for “subtitle and” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 115–44, § 275(a)(2)(B), substituted “funds (as the Secretary may describe in such order),” for “United States coins or currency (or such other monetary instruments as the Secretary may describe in such order)”.
+Subsec. (a)(1)(A). Pub. L. 115–44, § 275(a)(2)(B), substituted “funds (as the Secretary may describe in such order),” for “United States coins or currency (or such other monetary instruments as the Secretary may describe in such order)”.
 
-Subsec. (b)(1)(A). Pub. L. 115–44, § 275(a)(3)(A), substituted “funds” for “coins or currency (or monetary instruments)”.
+Subsec. (b)(1)(A). Pub. L. 115–44, § 275(a)(3)(A), substituted “funds” for “coins or currency (or monetary instruments)”.
 
-Subsec. (b)(2). Pub. L. 115–44, § 275(a)(3)(B), substituted “funds (as the Secretary may describe in the regulation or order)” for “coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order)”.
+Subsec. (b)(2). Pub. L. 115–44, § 275(a)(3)(B), substituted “funds (as the Secretary may describe in the regulation or order)” for “coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order)”.
 
-2001—Subsec.(a). Pub. L. 107–56, § 365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
+2001—Subsec.(a). Pub. L. 107–56, § 365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
+Subsec. (a)(1)(A). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
 
-Subsec. (b)(1)(A). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+Subsec. (b)(1)(A). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
 
-Subsec. (b)(1)(B). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
+Subsec. (b)(1)(B). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
 
-Subsec. (c). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places.
+Subsec. (c). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places.
 
-Subsec. (d). Pub. L. 107–56, § 353(d), substituted “more than 180 days” for “more than 60 days”.
+Subsec. (d). Pub. L. 107–56, § 353(d), substituted “more than 180 days” for “more than 60 days”.
 
 1992—Subsecs. (b) to (d). Pub. L. 102–550 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-### [§ 5327. Repealed. Pub. L. 104–208, div. A, title II, § 2223(1), Sept. 30, 1996, 110 Stat. 3009–415]
+### [§ 5327. Repealed. Pub. L. 104–208, div. A, title II, § 2223(1), Sept. 30, 1996, 110 Stat. 3009–415]
 
-Section, added Pub. L. 102–550, title XV, § 1511(a), Oct. 28, 1992, 106 Stat. 4056, required Secretary to prescribe regulations requiring depository institutions to identify and report on financial institution customers.
+Section, added Pub. L. 102–550, title XV, § 1511(a), Oct. 28, 1992, 106 Stat. 4056, required Secretary to prescribe regulations requiring depository institutions to identify and report on financial institution customers.
 
-### [§ 5328. Repealed. Pub. L. 116–283, div. F, title LXIII, § 6314(b), Jan. 1, 2021, 134 Stat. 4603]
+### [§ 5328. Repealed. Pub. L. 116–283, div. F, title LXIII, § 6314(b), Jan. 1, 2021, 134 Stat. 4603]
 
-Section, added Pub. L. 102–550, title XV, § 1563(a), Oct. 28, 1992, 106 Stat. 4072; amended Pub. L. 107–56, title III, § 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 335, related to whistleblower protections. See section 5323 of this title.
+Section, added Pub. L. 102–550, title XV, § 1563(a), Oct. 28, 1992, 106 Stat. 4072; amended Pub. L. 107–56, title III, § 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 335, related to whistleblower protections. See section 5323 of this title.
 
-### § 5329. Staff commentaries
+### § 5329. Staff commentaries
 
 The Secretary shall—
 
@@ -3703,9 +3703,9 @@ The Secretary shall—
 
 **(2)** annually issue a staff commentary on the regulations issued under this subchapter.
 
-(Added Pub. L. 103–325, title III, § 311(a), Sept. 23, 1994, 108 Stat. 2221.)
+(Added Pub. L. 103–325, title III, § 311(a), Sept. 23, 1994, 108 Stat. 2221.)
 
-### § 5330. Registration of money transmitting businesses
+### § 5330. Registration of money transmitting businesses
 
 **(a) Registration With Secretary of the Treasury Required.—**
 
@@ -3769,7 +3769,7 @@ The Secretary shall—
 
 **(3) Assessments.—** Any penalty imposed under this subsection shall be assessed and collected by the Secretary of the Treasury in the manner provided in section 5321 and any such assessment shall be subject to the provisions of such section.
 
-(Added Pub. L. 103–325, title IV, § 408(b), Sept. 23, 1994, 108 Stat. 2250; amended Pub. L. 107–56, title III, § 359(b), Oct. 26, 2001, 115 Stat. 328; Pub. L. 116–283, div. F, title LXI, § 6102(d)(2), Jan. 1, 2021, 134 Stat. 4553.)
+(Added Pub. L. 103–325, title IV, § 408(b), Sept. 23, 1994, 108 Stat. 2250; amended Pub. L. 107–56, title III, § 359(b), Oct. 26, 2001, 115 Stat. 328; Pub. L. 116–283, div. F, title LXI, § 6102(d)(2), Jan. 1, 2021, 134 Stat. 4553.)
 
 **Editorial Notes**
 
@@ -3781,9 +3781,9 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), i
 
 **Amendments**
 
-2021—Subsec. (d)(1)(A). Pub. L. 116–283, § 6102(d)(2)(A), substituted “currency, funds, or value that substitutes for currency,” for “funds,” and “system;” for “system;;”.
+2021—Subsec. (d)(1)(A). Pub. L. 116–283, § 6102(d)(2)(A), substituted “currency, funds, or value that substitutes for currency,” for “funds,” and “system;” for “system;;”.
 
-Subsec. (d)(2). Pub. L. 116–283, § 6102(d)(2)(B), substituted “currency, funds, or value that substitutes for currency” for “currency or funds denominated in the currency of any country” after “accepting”, substituted “currency, funds, or value that substitutes for currency” for “currency or funds, or the value of the currency or funds,” after “transmitting the”, and inserted “, including” after “means”.
+Subsec. (d)(2). Pub. L. 116–283, § 6102(d)(2)(B), substituted “currency, funds, or value that substitutes for currency” for “currency or funds denominated in the currency of any country” after “accepting”, substituted “currency, funds, or value that substitutes for currency” for “currency or funds, or the value of the currency or funds,” after “transmitting the”, and inserted “, including” after “means”.
 
 2001—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon “or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;”.
 
@@ -3791,7 +3791,7 @@ Subsec. (d)(2). Pub. L. 116–283, § 6102(d)(2)(B), substituted “currency, 
 
 **Findings and Purposes**
 
-Pub. L. 103–325, title IV, § 408(a), Sept. 23, 1994, 108 Stat. 2249, provided that:
+Pub. L. 103–325, title IV, § 408(a), Sept. 23, 1994, 108 Stat. 2249, provided that:
 
 > **“(1) Findings.—** The Congress hereby finds the following:
 
@@ -3807,7 +3807,7 @@ Pub. L. 103–325, title IV, § 408(a), Sept. 23, 1994, 108 Stat. 2249, provid
 
 > **“(2) Purpose.—** It is the purpose of this section [enacting this section and amending section 1960 of Title 18, Crimes and Criminal Procedure] to establish a registration requirement for businesses engaged in providing check cashing, currency exchange, or money transmitting or remittance services, or issuing or redeeming money orders, travelers’ checks, and other similar instruments to assist the Secretary of the Treasury, the Attorney General, and other supervisory and law enforcement agencies to effectively enforce the criminal, tax, and regulatory laws and prevent such money transmitting businesses from engaging in illegal activities.”
 
-### § 5331. Reports relating to coins and currency received in nonfinancial trade or business
+### § 5331. Reports relating to coins and currency received in nonfinancial trade or business
 
 **(a) Coin and Currency Receipts of More Than $10,000.—** Any person—
 
@@ -3851,7 +3851,7 @@ shall file a report described in subsection (b) with respect to such transaction
 
 **(2) Scope of application.—** Paragraph (1)(B) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), or (S) of section 5312(a)(2).
 
-(Added Pub. L. 107–56, title III, § 365(a), Oct. 26, 2001, 115 Stat. 333; amended Pub. L. 112–74, div. C, title I, § 120, Dec. 23, 2011, 125 Stat. 891.)
+(Added Pub. L. 107–56, title III, § 365(a), Oct. 26, 2001, 115 Stat. 333; amended Pub. L. 112–74, div. C, title I, § 120, Dec. 23, 2011, 125 Stat. 891.)
 
 **Editorial Notes**
 
@@ -3861,15 +3861,15 @@ Section 6050I(g) of the Internal Revenue Code of 1986, referred to in subsec. (a
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–74 redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “, and” for “; and” in subpar. (A), inserted “or” at end of subpar. (B), and added par. (2).
+2011—Subsec. (a). Pub. L. 112–74 redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “, and” for “; and” in subpar. (A), inserted “or” at end of subpar. (B), and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 107–56, title III, § 365(e), formerly § 365(f), Oct. 26, 2001, 115 Stat. 335, renumbered § 365(e) by Pub. L. 108–458, title VI, § 6202(n)(2), Dec. 17, 2004, 118 Stat. 3746, provided that: “Regulations which the Secretary [of the Treasury] determines are necessary to implement this section [enacting this section and amending sections 5312, 5317, 5318, 5321, 5324, 5326, and former 5328 of this title] shall be published in final form before the end of the 6-month period beginning on the date of enactment of this Act [Oct. 26, 2001].”
+Pub. L. 107–56, title III, § 365(e), formerly § 365(f), Oct. 26, 2001, 115 Stat. 335, renumbered § 365(e) by Pub. L. 108–458, title VI, § 6202(n)(2), Dec. 17, 2004, 118 Stat. 3746, provided that: “Regulations which the Secretary [of the Treasury] determines are necessary to implement this section [enacting this section and amending sections 5312, 5317, 5318, 5321, 5324, 5326, and former 5328 of this title] shall be published in final form before the end of the 6-month period beginning on the date of enactment of this Act [Oct. 26, 2001].”
 
-### § 5332. Bulk cash smuggling into or out of the United States
+### § 5332. Bulk cash smuggling into or out of the United States
 
 **(a) Criminal Offense.—**
 
@@ -3895,7 +3895,7 @@ Pub. L. 107–56, title III, § 365(e), formerly § 365(f), Oct. 26, 2001, 1
 
 **(3) Treatment of certain property as involved in the offense.—** For purposes of this subsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetary instrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
 
-(Added Pub. L. 107–56, title III, § 371(c), Oct. 26, 2001, 115 Stat. 337; amended Pub. L. 108–458, title VI, § 6203(h), Dec. 17, 2004, 118 Stat. 3747.)
+(Added Pub. L. 107–56, title III, § 371(c), Oct. 26, 2001, 115 Stat. 337; amended Pub. L. 108–458, title VI, § 6203(h), Dec. 17, 2004, 118 Stat. 3747.)
 
 **Editorial Notes**
 
@@ -3909,9 +3909,9 @@ Another section 371(c) of Pub. L. 107–56 amended the table of sections at the 
 
 **Amendments**
 
-2004—Subsec. (b)(2). Pub. L. 108–458, § 6203(h)(1), struck out “, subject to subsection (d) of this section” before period at end.
+2004—Subsec. (b)(2). Pub. L. 108–458, § 6203(h)(1), struck out “, subject to subsection (d) of this section” before period at end.
 
-Subsec. (c)(1). Pub. L. 108–458, § 6203(h)(2), struck out “, subject to subsection (d) of this section,” after “may be seized and”.
+Subsec. (c)(1). Pub. L. 108–458, § 6203(h)(2), struck out “, subject to subsection (d) of this section,” after “may be seized and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3921,7 +3921,7 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 **Bulk Cash Smuggling Into or Out of the United States**
 
-Pub. L. 107–56, title III, § 371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337, provided that:
+Pub. L. 107–56, title III, § 371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337, provided that:
 
 > **“(a) Findings.—** The Congress finds the following:
 
@@ -3945,7 +3945,7 @@ Pub. L. 107–56, title III, § 371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337
 
 > **“(3)** to emphasize the seriousness of the act of bulk cash smuggling.”
 
-### § 5333. Safe harbor with respect to keep open directives
+### § 5333. Safe harbor with respect to keep open directives
 
 **(a) In General.—** With respect to a customer account or customer transaction of a financial institution, if a Federal law enforcement agency, after notifying FinCEN of the intent to submit a written request to the financial institution that the financial institution keep that account or transaction open (referred to in this section as a “keep open request”), or if a State, Tribal, or local law enforcement agency with the concurrence of FinCEN submits a keep open request—
 
@@ -3975,9 +3975,9 @@ Pub. L. 107–56, title III, § 371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337
 
 **(e) Guidance.—** The Secretary of the Treasury, in consultation with the Attorney General and Federal, State, Tribal, and local law enforcement agencies, shall issue guidance on the required elements of a keep open request.
 
-(Added Pub. L. 116–283, div. F, title LXIII, § 6306(a)(1), Jan. 1, 2021, 134 Stat. 4588.)
+(Added Pub. L. 116–283, div. F, title LXIII, § 6306(a)(1), Jan. 1, 2021, 134 Stat. 4588.)
 
-### § 5334. Training regarding anti-money laundering and countering the financing of terrorism
+### § 5334. Training regarding anti-money laundering and countering the financing of terrorism
 
 **(a) Training Requirement.—** Each Federal examiner reviewing compliance with the Bank Secrecy Act, as defined in section 6003 of the Anti-Money Laundering Act of 2020, shall attend appropriate annual training, as determined by the Secretary of the Treasury, relating to anti-money laundering activities and countering the financing of terrorism, including with respect to—
 
@@ -3991,7 +3991,7 @@ Pub. L. 107–56, title III, § 371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337
 
 **(b) Training Materials and Standards.—** The Secretary of the Treasury shall, in consultation with the Financial Institutions Examination Council, the Financial Crimes Enforcement Network, and Federal, State, Tribal, and local law enforcement agencies, establish appropriate training materials and standards for use in the training required under subsection (a).
 
-(Added Pub. L. 116–283, div. F, title LXIII, § 6307(a), Jan. 1, 2021, 134 Stat. 4590.)
+(Added Pub. L. 116–283, div. F, title LXIII, § 6307(a), Jan. 1, 2021, 134 Stat. 4590.)
 
 **Editorial Notes**
 
@@ -3999,7 +3999,7 @@ Pub. L. 107–56, title III, § 371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337
 
 Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a), is section 6003 of div. F of Pub. L. 116–283, which is set out as a note under section 5311 of this title. Such section 6003 defines terms, including the Bank Secrecy Act, as used in div. F of Pub. L. 116–283.
 
-### § 5335. Prohibition on concealment of the source of assets in monetary transactions
+### § 5335. Prohibition on concealment of the source of assets in monetary transactions
 
 **(a) Definition of Monetary Transaction.—** In this section, the term the term “monetary transaction”—
 
@@ -4037,9 +4037,9 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a
 
 **(B) Procedure.—** Seizures and forfeitures under this paragraph shall be governed by the provisions of chapter 46 of title 18 relating to civil forfeitures, except that such duties, under the customs laws described in section 981(d) of title 18, given to the Secretary of the Treasury shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security or the Attorney General.
 
-(Added Pub. L. 116–283, div. F, title LXIII, § 6313(a), Jan. 1, 2021, 134 Stat. 4596.)
+(Added Pub. L. 116–283, div. F, title LXIII, § 6313(a), Jan. 1, 2021, 134 Stat. 4596.)
 
-### § 5336. Beneficial ownership information reporting requirements
+### § 5336. Beneficial ownership information reporting requirements
 
 **(a) Definitions.—** In this section:
 
@@ -4215,9 +4215,9 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a
 
 **(III)** has an operating presence at a physical office within the United States;
 
-**(xxii)** any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) 1
+**(xxii)** any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 (xix), or (xxi);
 
@@ -4263,11 +4263,11 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a
 
 **(ii)** the benefit to law enforcement and national security officials that might be derived from,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
 
-**(iii)** not later than 2 years after the date of enactment of this section, incorporate <sup>2</sup> into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
+**(iii)** not later than 2 years after the date of enactment of this section, incorporate <sup>2</sup> into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
 
 **(F) Regulation requirements.—** In promulgating the regulations required under subparagraphs (A) through (D), the Secretary of the Treasury shall, to the greatest extent practicable—
 
@@ -4491,9 +4491,9 @@ and the burden that a requirement to update the list of beneficial owners within
 
 **(II)** provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
-**(iii)** strengthen <sup>2</sup> FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+**(iii)** strengthen <sup>2</sup> FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
-**(iv)** provide <sup>2</sup> for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
+**(iv)** provide <sup>2</sup> for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
 
 **(I)** educating the business community on the goals and operations of the new beneficial ownership database; and
 
@@ -4625,7 +4625,7 @@ and the burden that a requirement to update the list of beneficial owners within
 
 **(j) Authorization of Appropriations.—** There are authorized to be appropriated to FinCEN for each of the 3 fiscal years beginning on the effective date of the regulations promulgated under subsection (b)(4), such sums as may be necessary to carry out this section, including allocating funds to the States to pay reasonable costs relating to compliance with the requirements of such section.
 
-(Added and amended Pub. L. 116–283, div. F, title LXIV, § 6403(a), title LXV, § 6509(b), Jan. 1, 2021, 134 Stat. 4605, 4633.)
+(Added and amended Pub. L. 116–283, div. F, title LXIV, § 6403(a), title LXV, § 6509(b), Jan. 1, 2021, 134 Stat. 4605, 4633.)
 
 **Editorial Notes**
 
@@ -4639,13 +4639,13 @@ The Anti-Money Laundering Act of 2020, referred to in subsecs. (c)(11)(A) and (i
 
 **Amendments**
 
-2021—Subsec. (j). Pub. L. 116–283, § 6509(b), added subsec. (j).
+2021—Subsec. (j). Pub. L. 116–283, § 6509(b), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Sense of Congress**
 
-Pub. L. 116–283, div. F, title LXIV, § 6402, Jan. 1, 2021, 134 Stat. 4604, provided that:
+Pub. L. 116–283, div. F, title LXIV, § 6402, Jan. 1, 2021, 134 Stat. 4604, provided that:
 
 > “It is the sense of Congress that—
 
@@ -4693,7 +4693,7 @@ Pub. L. 116–283, div. F, title LXIV, § 6402, Jan. 1, 2021, 134 Stat. 4604, 
 
 **Reporting Requirements for Federal Contractors**
 
-Pub. L. 116–283, div. F, title LXIV, § 6403(c), Jan. 1, 2021, 134 Stat. 4623, provided that:
+Pub. L. 116–283, div. F, title LXIV, § 6403(c), Jan. 1, 2021, 134 Stat. 4623, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date of enactment of this Act [Jan. 1, 2021], the Administrator for Federal Procurement Policy shall revise the Federal Acquisition Regulation maintained under section 1303(a)(1) of title 41, United States Code, to require any contractor or subcontractor that is subject to the requirement to disclose beneficial ownership information under section 5336 of title 31, United States Code, as added by subsection (a) of this section, to provide the information required to be disclosed under such section to the Federal Government as part of any bid or proposal for a contract with a value threshold in excess of the simplified acquisition threshold under section 134 of title 41, United States Code.
 
@@ -4701,7 +4701,7 @@ Pub. L. 116–283, div. F, title LXIV, § 6403(c), Jan. 1, 2021, 134 Stat. 462
 
 ## SUBCHAPTER III—MONEY LAUNDERING AND RELATED FINANCIAL CRIMES
 
-### § 5340. Definitions
+### § 5340. Definitions
 
 For purposes of this subchapter, the following definitions shall apply:
 
@@ -4717,7 +4717,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 **(4) Attorney general.—** The term “Attorney General” means the Attorney General of the United States.
 
-(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2941; amended Pub. L. 114–22, title I, § 105(c)(2)(A)(ii)(II), May 29, 2015, 129 Stat. 237; Pub. L. 119–60, div. G, title LXXII, § 7207(d)(2), Dec. 18, 2025, 139 Stat. 1693.)
+(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2941; amended Pub. L. 114–22, title I, § 105(c)(2)(A)(ii)(II), May 29, 2015, 129 Stat. 237; Pub. L. 119–60, div. G, title LXXII, § 7207(d)(2), Dec. 18, 2025, 139 Stat. 1693.)
 
 **Editorial Notes**
 
@@ -4729,7 +4729,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 ### Part 1—National Money Laundering and Related Financial Crimes Strategy
 
-#### § 5341. National money laundering and related financial crimes strategy
+#### § 5341. National money laundering and related financial crimes strategy
 
 **(a) Development and Transmittal to Congress.—**
 
@@ -4799,7 +4799,7 @@ for financial crimes control which could be utilized or should be encouraged.
 
 **(10)** representatives of the private financial services sector, to the extent appropriate.
 
-(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2942; amended Pub. L. 107–56, title III, § 354, Oct. 26, 2001, 115 Stat. 323; Pub. L. 108–458, title VI, § 6102(a), Dec. 17, 2004, 118 Stat. 3744.)
+(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2942; amended Pub. L. 107–56, title III, § 354, Oct. 26, 2001, 115 Stat. 323; Pub. L. 108–458, title VI, § 6102(a), Dec. 17, 2004, 118 Stat. 3744.)
 
 **Editorial Notes**
 
@@ -4809,7 +4809,7 @@ for financial crimes control which could be utilized or should be encouraged.
 
 2001—Subsec. (b)(12). Pub. L. 107–56 added par. (12).
 
-#### § 5342. High-risk money laundering and related financial crime areas
+#### § 5342. High-risk money laundering and related financial crime areas
 
 **(a) Findings and Purpose.—**
 
@@ -4877,17 +4877,17 @@ for financial crimes control which could be utilized or should be encouraged.
 
 **(16)** The extent to which a significant increase in the allocation of Federal resources to combat financial crimes in such area is necessary to provide an adequate State and local response to financial crimes and financial crime-related activities in such area.
 
-(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2944.)
+(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2944.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Report and Recommendations**
 
-Pub. L. 105–310, § 2(c), Oct. 30, 1998, 112 Stat. 2949, provided that: “Before the end of the 5-year period beginning on the date the first national strategy for combating money laundering and related financial crimes is submitted to the Congress pursuant to section 5341(a)(1) of title 31, United States Code (as added by section 2(a) of this Act), the Secretary of the Treasury, in consultation with the Attorney General, shall submit a report to the Committee on Banking and Financial Services [now Committee on Financial Services] and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate on the effectiveness of and the need for the designation of areas, under section 5342 of title 31, United States Code (as added by such section 2(a)), as high-risk money laundering and related financial crime areas, together with recommendations for such legislation as the Secretary and the Attorney General may determine to be appropriate to carry out the purposes of such section.”
+Pub. L. 105–310, § 2(c), Oct. 30, 1998, 112 Stat. 2949, provided that: “Before the end of the 5-year period beginning on the date the first national strategy for combating money laundering and related financial crimes is submitted to the Congress pursuant to section 5341(a)(1) of title 31, United States Code (as added by section 2(a) of this Act), the Secretary of the Treasury, in consultation with the Attorney General, shall submit a report to the Committee on Banking and Financial Services [now Committee on Financial Services] and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate on the effectiveness of and the need for the designation of areas, under section 5342 of title 31, United States Code (as added by such section 2(a)), as high-risk money laundering and related financial crime areas, together with recommendations for such legislation as the Secretary and the Attorney General may determine to be appropriate to carry out the purposes of such section.”
 
 ### Part 2—Financial Crime-Free Communities Support Program
 
-#### § 5351. Establishment of financial crime-free communities support program
+#### § 5351. Establishment of financial crime-free communities support program
 
 **(a) Establishment.—** The Secretary of the Treasury, in consultation with the Attorney General, shall establish a program to support local law enforcement efforts in the development and implementation of a program for the detection, prevention, and suppression of money laundering and related financial crimes.
 
@@ -4903,9 +4903,9 @@ Pub. L. 105–310, § 2(c), Oct. 30, 1998, 112 Stat. 2949, provided that: “B
 
 **(d) Contracting.—** The Secretary may employ any necessary staff and may enter into contracts or agreements with Federal and State law enforcement agencies to delegate authority for the execution of grants and for such other activities necessary to carry out this chapter.
 
-(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2946.)
+(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2946.)
 
-#### § 5352. Program authorization
+#### § 5352. Program authorization
 
 **(a) Grant Eligibility.—** To be eligible to receive an initial grant or a renewal grant under this part, a State or local law enforcement agency or prosecutor shall meet each of the following criteria:
 
@@ -4939,9 +4939,9 @@ Pub. L. 105–310, § 2(c), Oct. 30, 1998, 112 Stat. 2949, provided that: “B
 
 **(A) In general.—** Except as provided in subparagraph (B), the Secretary may, with respect to a community, make a grant to one eligible applicant that represents that community.
 
-**(B) Exception.—** The Secretary may make a grant to more than one eligible applicant that represent 1
+**(B) Exception.—** The Secretary may make a grant to more than one eligible applicant that represent 1
 
-<sup>1</sup>  So in original. Probably should be “represents”.
+<sup>1</sup> So in original. Probably should be “represents”.
 
 a community if—
 
@@ -4961,9 +4961,9 @@ a community if—
 
 **(2)** some portion of the funds appropriated under this part for any such fiscal year will remain available for grant applications filed later in the fiscal year.
 
-(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2946.)
+(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2946.)
 
-#### § 5353. Information collection and dissemination with respect to grant recipients
+#### § 5353. Information collection and dissemination with respect to grant recipients
 
 **(a) Applicant and Grantee Information.—**
 
@@ -4983,17 +4983,17 @@ a community if—
 
 **(B)** the general public.
 
-(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2948.)
+(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2948.)
 
-#### § 5354. Grants for fighting money laundering and related financial crimes
+#### § 5354. Grants for fighting money laundering and related financial crimes
 
 **(a) In General.—** After the end of the 1-year period beginning on the date the first national strategy for combating money laundering and related financial crimes is submitted to the Congress in accordance with section 5341, and subject to subsection (b), the Secretary may review, select, and award grants for State or local law enforcement agencies and prosecutors to provide funding necessary to investigate and prosecute money laundering and related financial crimes in high-risk money laundering and related financial crime areas.
 
 **(b) Special Preference.—** Special preference shall be given to applications submitted to the Secretary which demonstrate collaborative efforts of two or more State and local law enforcement agencies or prosecutors who have a history of Federal, State, and local cooperative law enforcement and prosecutorial efforts in responding to such criminal activity.
 
-(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2948.)
+(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2948.)
 
-#### § 5355. Authorization of appropriations
+#### § 5355. Authorization of appropriations
 
 There are authorized to be appropriated the following amounts for the following fiscal years to carry out the purposes of this subchapter:
 
@@ -5007,7 +5007,7 @@ There are authorized to be appropriated the following amounts for the following 
 | 2004 | $15,000,000. |
 | 2005 | $15,000,000. |
 
-(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2948; amended Pub. L. 108–458, title VI, § 6102(b), Dec. 17, 2004, 118 Stat. 3745.)
+(Added Pub. L. 105–310, § 2(a), Oct. 30, 1998, 112 Stat. 2948; amended Pub. L. 108–458, title VI, § 6102(b), Dec. 17, 2004, 118 Stat. 3745.)
 
 **Editorial Notes**
 
@@ -5017,7 +5017,7 @@ There are authorized to be appropriated the following amounts for the following 
 
 ## SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING
 
-### § 5361. Congressional findings and purpose
+### § 5361. Congressional findings and purpose
 
 **(a) Findings.—** Congress finds the following:
 
@@ -5031,13 +5031,13 @@ There are authorized to be appropriated the following amounts for the following 
 
 **(b) Rule of Construction.—** No provision of this subchapter shall be construed as altering, limiting, or extending any Federal or State law or Tribal-State compact prohibiting, permitting, or regulating gambling within the United States.
 
-(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1952.)
+(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1952.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Internet Gambling In or Through Foreign Jurisdictions**
 
-Pub. L. 109–347, title VIII, § 803, Oct. 13, 2006, 120 Stat. 1962, provided that:
+Pub. L. 109–347, title VIII, § 803, Oct. 13, 2006, 120 Stat. 1962, provided that:
 
 > **“(a) In General.—** In deliberations between the United States Government and any foreign country on money laundering, corruption, and crime issues, the United States Government should—
 
@@ -5049,7 +5049,7 @@ Pub. L. 109–347, title VIII, § 803, Oct. 13, 2006, 120 Stat. 1962, provided
 
 > **“(b) Report Required.—** The Secretary of the Treasury shall submit an annual report to the Congress on any deliberations between the United States and other countries on issues relating to Internet gambling.”
 
-### § 5362. Definitions
+### § 5362. Definitions
 
 In this subchapter:
 
@@ -5065,9 +5065,9 @@ In this subchapter:
 
 **(E)** does not include—
 
-**(i)** any activity governed by the securities laws (as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 1
+**(i)** any activity governed by the securities laws (as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 for the purchase or sale of securities (as that term is defined in section 3(a)(10) of that Act);
 
@@ -5205,7 +5205,7 @@ for the purchase or sale of securities (as that term is defined in section 3(a)(
 
 **(E) Money transmitting business and money transmitting service.—** The terms “money transmitting business” and “money transmitting service” have the meanings given the terms in section 5330(d) (determined without regard to any regulations prescribed by the Secretary thereunder).
 
-(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1953.)
+(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1953.)
 
 **Editorial Notes**
 
@@ -5213,19 +5213,19 @@ for the purchase or sale of securities (as that term is defined in section 3(a)(
 
 Sections 3(a)(47) and 28(a) of the Securities Exchange Act of 1934, referred to in par. (1)(E)(i), (iv)(II), are classified to sections 78c(a)(47) and 78bb(a), respectively, of Title 15, Commerce and Trade.
 
-The Commodity Exchange Act, referred to in par. (1)(E)(ii), (iv)(II), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Section 12(e) of the Act is classified to section 16(e) of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (1)(E)(ii), (iv)(II), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Section 12(e) of the Act is classified to section 16(e) of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Interstate Horseracing Act of 1978, referred to in par. (10)(B)(iii)(I), (C)(iv)(I), (D)(i), (iii), is Pub. L. 95–515, Oct. 25, 1978, 92 Stat. 1811, which is classified generally to chapter 57 (§ 3001 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 15 and Tables.
+The Interstate Horseracing Act of 1978, referred to in par. (10)(B)(iii)(I), (C)(iv)(I), (D)(i), (iii), is Pub. L. 95–515, Oct. 25, 1978, 92 Stat. 1811, which is classified generally to chapter 57 (§ 3001 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 15 and Tables.
 
-The Gambling Devices Transportation Act, referred to in par. (10)(B)(iii)(III), (C)(iv)(III), is act Jan. 2, 1951, ch. 1194, 64 Stat. 1134, which is classified generally to chapter 24 (§ 1171 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1171 of Title 15 and Tables.
+The Gambling Devices Transportation Act, referred to in par. (10)(B)(iii)(III), (C)(iv)(III), is act Jan. 2, 1951, ch. 1194, 64 Stat. 1134, which is classified generally to chapter 24 (§ 1171 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1171 of Title 15 and Tables.
 
-The Indian Gaming Regulatory Act, referred to in par. (10)(B)(iii)(IV), (C)(i), (iv)(IV), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
+The Indian Gaming Regulatory Act, referred to in par. (10)(B)(iii)(IV), (C)(i), (iv)(IV), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
 
 The date of the enactment of this subchapter, referred to in par. (10)(D)(iii), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
 
 Section 101 of the Federal Credit Union Act, referred to in par. (11)(D)(ii), is classified to section 1752 of Title 12, Banks and Banking.
 
-### § 5363. Prohibition on acceptance of any financial instrument for unlawful Internet gambling
+### § 5363. Prohibition on acceptance of any financial instrument for unlawful Internet gambling
 
 No person engaged in the business of betting or wagering may knowingly accept, in connection with the participation of another person in unlawful Internet gambling—
 
@@ -5237,9 +5237,9 @@ No person engaged in the business of betting or wagering may knowingly accept, i
 
 **(4)** the proceeds of any other form of financial transaction, as the Secretary and the Board of Governors of the Federal Reserve System may jointly prescribe by regulation, which involves a financial institution as a payor or financial intermediary on behalf of or for the benefit of such other person.
 
-(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1957.)
+(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1957.)
 
-### § 5364. Policies and procedures to identify and prevent restricted transactions
+### § 5364. Policies and procedures to identify and prevent restricted transactions
 
 **(a) Regulations.—** Before the end of the 270-day period beginning on the date of the enactment of this subchapter, the Secretary and the Board of Governors of the Federal Reserve System, in consultation with the Attorney General, shall prescribe regulations (which the Secretary and the Board jointly determine to be appropriate) requiring each designated payment system, and all participants therein, to identify and block or otherwise prevent or prohibit restricted transactions through the establishment of policies and procedures reasonably designed to identify and block or otherwise prevent or prohibit the acceptance of restricted transactions in any of the following ways:
 
@@ -5287,7 +5287,7 @@ shall not be liable to any party for such action.
 
 **(2)** the Federal Trade Commission, with respect to designated payment systems and financial transaction providers not otherwise subject to the jurisdiction of any Federal functional regulators (including the Commission) as described in paragraph (1).
 
-(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1958.)
+(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1958.)
 
 **Editorial Notes**
 
@@ -5299,7 +5299,7 @@ Section 505(a) of the Gramm-Leach-Bliley Act, referred to in subsec. (e)(1), is 
 
 Section 5g of the Commodities Exchange Act, referred to in subsec. (e)(1), is classified to section 7b–2 of Title 7, Agriculture.
 
-### § 5365. Civil remedies
+### § 5365. Civil remedies
 
 **(a) Jurisdiction.—** In addition to any other remedy under current law, the district courts of the United States shall have original and exclusive jurisdiction to prevent and restrain restricted transactions by issuing appropriate orders in accordance with this section, regardless of whether a prosecution has been initiated under this subchapter.
 
@@ -5349,7 +5349,7 @@ Section 5g of the Commodities Exchange Act, referred to in subsec. (e)(1), is cl
 
 **(d) Limitation on Injunctions Against Regulated Persons.—** Notwithstanding any other provision of this section, and subject to section 5367, no provision of this subchapter shall be construed as authorizing the Attorney General of the United States, or the attorney general (or other appropriate State official) of any State to institute proceedings to prevent or restrain a restricted transaction against any financial transaction provider, to the extent that the person is acting as a financial transaction provider.
 
-(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1959.)
+(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1959.)
 
 **Editorial Notes**
 
@@ -5357,17 +5357,17 @@ Section 5g of the Commodities Exchange Act, referred to in subsec. (e)(1), is cl
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b)(1)(B), (2)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Indian Gaming Regulatory Act, referred to in subsec. (b)(3), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. Section 4 of the Act is classsified to section 2703 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (b)(3), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. Section 4 of the Act is classsified to section 2703 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
 
-### § 5366. Criminal penalties
+### § 5366. Criminal penalties
 
 **(a) In General.—** Any person who violates section 5363 shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
 **(b) Permanent Injunction.—** Upon conviction of a person under this section, the court may enter a permanent injunction enjoining such person from placing, receiving, or otherwise making bets or wagers or sending, receiving, or inviting information assisting in the placing of bets or wagers.
 
-(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1961.)
+(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1961.)
 
-### § 5367. Circumventions prohibited
+### § 5367. Circumventions prohibited
 
 Notwithstanding section 5362(2), a financial transaction provider, or any interactive computer service or telecommunications service, may be liable under this subchapter if such person has actual knowledge and control of bets and wagers, and—
 
@@ -5375,4 +5375,4 @@ Notwithstanding section 5362(2), a financial transaction provider, or any intera
 
 **(2)** owns or controls, or is owned or controlled by, any person who operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made.
 
-(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1961.)
+(Added Pub. L. 109–347, title VIII, § 802(a), Oct. 13, 2006, 120 Stat. 1961.)

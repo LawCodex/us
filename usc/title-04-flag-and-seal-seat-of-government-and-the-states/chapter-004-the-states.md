@@ -19,45 +19,45 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–252, § 2(b), July 28, 2000, 114 Stat. 633, added items 116 to 126.
+2000—Pub. L. 106–252, § 2(b), July 28, 2000, 114 Stat. 633, added items 116 to 126.
 
-1998—Pub. L. 105–261, div. A, title X, § 1075(a)(2), Oct. 17, 1998, 112 Stat. 2138, added item 115.
+1998—Pub. L. 105–261, div. A, title X, § 1075(a)(2), Oct. 17, 1998, 112 Stat. 2138, added item 115.
 
-1996—Pub. L. 104–95, § 1(b), Jan. 10, 1996, 109 Stat. 980, added item 114.
+1996—Pub. L. 104–95, § 1(b), Jan. 10, 1996, 109 Stat. 980, added item 114.
 
-1977—Pub. L. 95–67, § 1(b), July 19, 1977, 91 Stat. 271, added item 113.
+1977—Pub. L. 95–67, § 1(b), July 19, 1977, 91 Stat. 271, added item 113.
 
-1966—Pub. L. 89–554, § 2(b), Sept. 6, 1966, 80 Stat. 608, added item 111 and redesignated former item 111 as 112.
+1966—Pub. L. 89–554, § 2(b), Sept. 6, 1966, 80 Stat. 608, added item 111 and redesignated former item 111 as 112.
 
-1949—Act May 24, 1949, ch. 139, § 129(a), 63 Stat. 107, added item 111.
+1949—Act May 24, 1949, ch. 139, § 129(a), 63 Stat. 107, added item 111.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Civil and Criminal Jurisdiction over Indians**
 
-Amendment of State Constitutions to remove legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of section 1162 of Title 18 and section 1360 of Title 28, see act Aug. 15, 1953, ch. 505, § 6, 67 Stat. 590, set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure.
+Amendment of State Constitutions to remove legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of section 1162 of Title 18 and section 1360 of Title 28, see act Aug. 15, 1953, ch. 505, § 6, 67 Stat. 590, set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure.
 
-Consent of United States to other States to assume jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in section 1162 of Title 18 and section 1360 of Title 28, see act Aug. 15, 1953, ch. 505, § 7, 67 Stat. 590, set out as a note under section 1360 of Title 28.
+Consent of United States to other States to assume jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in section 1162 of Title 18 and section 1360 of Title 28, see act Aug. 15, 1953, ch. 505, § 7, 67 Stat. 590, set out as a note under section 1360 of Title 28.
 
-## § 101. Oath by members of legislatures and officers
+## § 101. Oath by members of legislatures and officers
 
 Every member of a State legislature, and every executive and judicial officer of a State, shall, before he proceeds to execute the duties of his office, take an oath in the following form, to wit: “I, A B, do solemnly swear that I will support the Constitution of the United States.”
 
 (July 30, 1947, ch. 389, 61 Stat. 643.)
 
-## § 102. Same; by whom administered
+## § 102. Same; by whom administered
 
 Such oath may be administered by any person who, by the law of the State, is authorized to administer the oath of office; and the person so administering such oath shall cause a record or certificate thereof to be made in the same manner, as by the law of the State, he is directed to record or certify the oath of office.
 
 (July 30, 1947, ch. 389, 61 Stat. 644.)
 
-## § 103. Assent to purchase of lands for forts
+## § 103. Assent to purchase of lands for forts
 
 The President of the United States is authorized to procure the assent of the legislature of any State, within which any purchase of land has been made for the erection of forts, magazines, arsenals, dockyards, and other needful buildings, without such consent having been obtained.
 
 (July 30, 1947, ch. 389, 61 Stat. 644.)
 
-## § 104. Tax on motor fuel sold on military or other reservation 1 [footnote: 1 So in original. Probably should be followed by a semicolon.] reports to State taxing authority
+## § 104. Tax on motor fuel sold on military or other reservation 1 [footnote: 1 So in original. Probably should be followed by a semicolon.] reports to State taxing authority
 
 **(a)** All taxes levied by any State, Territory, or the District of Columbia upon, with respect to, or measured by, sales, purchases, storage, or use of gasoline or other motor vehicle fuels may be levied, in the same manner and to the same extent, with respect to such fuels when sold by or through post exchanges, ship stores, ship service stores, commissaries, filling stations, licensed traders, and other similar agencies, located on United States military or other reservations, when such fuels are not for the exclusive use of the United States. Such taxes, so levied, shall be paid to the proper taxing authorities of the State, Territory, or the District of Columbia, within whose borders the reservation affected may be located.
 
@@ -77,7 +77,7 @@ The President of the United States is authorized to procure the assent of the le
 
 **Civil Airports Owned by United States Subject to Sections 104 to 110; Sales or Use Taxes: Fuels for Aircraft or Other Servicing of Aircraft; Landing or Taking Off Charges; Leases**
 
-Pub. L. 91–258, title II, § 210, May 21, 1970, 84 Stat. 253, provided that:
+Pub. L. 91–258, title II, § 210, May 21, 1970, 84 Stat. 253, provided that:
 
 > **“(a)** Nothing in this title or in any other law of the United States shall prevent the application of sections 104 through 110 of title 4 of the United States Code to civil airports owned by the United States.
 
@@ -89,7 +89,7 @@ Pub. L. 91–258, title II, § 210, May 21, 1970, 84 Stat. 253, provided that:
 
 > **“(c)** In the case of any lease in effect on September 28, 1969, subsection (a) shall not authorize the levy or collection of any tax in respect of any transaction occurring, or any service performed, pursuant to such lease before the expiration of such lease (determined without regard to any renewal or extension of such lease made after September 28, 1969). For purposes of the preceding sentence, the term ‘lease’ includes a contract.”
 
-## § 105. State, and so forth, taxation affecting Federal areas; sales or use tax
+## § 105. State, and so forth, taxation affecting Federal areas; sales or use tax
 
 **(a)** No person shall be relieved from liability for payment of, collection of, or accounting for any sales or use tax levied by any State, or by any duly constituted taxing authority therein, having jurisdiction to levy such a tax, on the ground that the sale or use, with respect to which such tax is levied, occurred in whole or in part within a Federal area; and such State or taxing authority shall have full jurisdiction and power to levy and collect any such tax in any Federal area within such State to the same extent and with the same effect as though such area was not a Federal area.
 
@@ -101,7 +101,7 @@ Pub. L. 91–258, title II, § 210, May 21, 1970, 84 Stat. 253, provided that:
 
 **Taxation With Respect to Essential Support Activities or Functions of Non-Governmental Persons in Congressionally-Controlled Locations in District of Columbia**
 
-Pub. L. 100–202, § 101(i) [title III, § 307], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, as amended by Pub. L. 104–186, title II, § 214, Aug. 20, 1996, 110 Stat. 1745, provided that:
+Pub. L. 100–202, § 101(i) [title III, § 307], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, as amended by Pub. L. 104–186, title II, § 214, Aug. 20, 1996, 110 Stat. 1745, provided that:
 
 > **“(a)** Notwithstanding section 105 of title 4, United States Code, or any other provision of law, no person shall be required to pay, collect, or account for any sales, use, or similar excise tax, or any personal property tax, with respect to an essential support activity or function conducted by a nongovernmental person in the Capitol, the House Office Buildings, the Senate Office Buildings, the Capitol Grounds, or any other location under the control of the Congress in the District of Columbia.
 
@@ -117,7 +117,7 @@ Pub. L. 100–202, § 101(i) [title III, § 307], Dec. 22, 1987, 101 Stat. 1
 
 > **“(c)** This section shall apply to any sale, receipt, purchase, storage, possession, use, or valuation taking place after December 31, 1986.”
 
-## § 106. Same; income tax
+## § 106. Same; income tax
 
 **(a)** No person shall be relieved from liability for any income tax levied by any State, or by any duly constituted taxing authority therein, having jurisdiction to levy such a tax, by reason of his residing within a Federal area or receiving income from transactions occurring or services performed in such area; and such State or taxing authority shall have full jurisdiction and power to levy and collect such tax in any Federal area within such State to the same extent and with the same effect as though such area was not a Federal area.
 
@@ -125,13 +125,13 @@ Pub. L. 100–202, § 101(i) [title III, § 307], Dec. 22, 1987, 101 Stat. 1
 
 (July 30, 1947, ch. 389, 61 Stat. 644.)
 
-## § 107. Same; exception of United States, its instrumentalities, and authorized purchases 1 [footnote: 1 So in original. Probably should be “purchasers”.] therefrom
+## § 107. Same; exception of United States, its instrumentalities, and authorized purchases 1 [footnote: 1 So in original. Probably should be “purchasers”.] therefrom
 
 **(a)** The provisions of sections 105 and 106 of this title shall not be deemed to authorize the levy or collection of any tax on or from the United States or any instrumentality thereof, or the levy or collection of any tax with respect to sale, purchase, storage, or use of tangible personal property sold by the United States or any instrumentality thereof to any authorized purchaser.
 
 **(b)** A person shall be deemed to be an authorized purchaser under this section only with respect to purchases which he is permitted to make from commissaries, ship’s stores, or voluntary unincorporated organizations of personnel of any branch of the Armed Forces of the United States, under regulations promulgated by the departmental Secretary having jurisdiction over such branch.
 
-(July 30, 1947, ch. 389, 61 Stat. 645; Sept. 3, 1954, ch. 1263, § 4, 68 Stat. 1227.)
+(July 30, 1947, ch. 389, 61 Stat. 645; Sept. 3, 1954, ch. 1263, § 4, 68 Stat. 1227.)
 
 **Editorial Notes**
 
@@ -139,19 +139,19 @@ Pub. L. 100–202, § 101(i) [title III, § 307], Dec. 22, 1987, 101 Stat. 1
 
 1954—Subsec. (b). Act Sept. 3, 1954, substituted “personnel of any branch of the Armed Forces of the United States” for “Army or Navy personnel”.
 
-## § 108. Same; jurisdiction of United States over Federal areas unaffected
+## § 108. Same; jurisdiction of United States over Federal areas unaffected
 
 The provisions of sections 105–110 of this title shall not for the purposes of any other provision of law be deemed to deprive the United States of exclusive jurisdiction over any Federal area over which it would otherwise have exclusive jurisdiction or to limit the jurisdiction of the United States over any Federal area.
 
 (July 30, 1947, ch. 389, 61 Stat. 645.)
 
-## § 109. Same; exception of Indians
+## § 109. Same; exception of Indians
 
 Nothing in sections 105 and 106 of this title shall be deemed to authorize the levy or collection of any tax on or from any Indian not otherwise taxed.
 
 (July 30, 1947, ch. 389, 61 Stat. 645.)
 
-## § 110. Same; definitions
+## § 110. Same; definitions
 
 As used in sections 105–109 of this title—
 
@@ -171,9 +171,9 @@ As used in sections 105–109 of this title—
 
 **References in Text**
 
-Section 3797 of title 26, referred to in subsec. (a), is a reference to section 3797 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and is covered by section 7701(a)(1) of Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
+Section 3797 of title 26, referred to in subsec. (a), is a reference to section 3797 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and is covered by section 7701(a)(1) of Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
-## § 111. Same; taxation affecting Federal employees; income tax
+## § 111. Same; taxation affecting Federal employees; income tax
 
 **(a) General Rule.—** The United States consents to the taxation of pay or compensation for personal service as an officer or employee of the United States, a territory or possession or political subdivision thereof, the government of the District of Columbia, or an agency or instrumentality of one or more of the foregoing, by a duly constituted taxing authority having jurisdiction, if the taxation does not discriminate against the officer or employee because of the source of the pay or compensation.
 
@@ -197,13 +197,13 @@ shall be subject to taxation by the State or any political subdivision thereof o
 
 shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.
 
-(Added Pub. L. 89–554, § 2(c), Sept. 6, 1966, 80 Stat. 608; amended Pub. L. 105–261, div. A, title X, § 1075(b)(1), Oct. 17, 1998, 112 Stat. 2138.)
+(Added Pub. L. 89–554, § 2(c), Sept. 6, 1966, 80 Stat. 608; amended Pub. L. 105–261, div. A, title X, § 1075(b)(1), Oct. 17, 1998, 112 Stat. 2138.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 84a | Apr. 12, 1939, ch. 59, § 4, 53 Stat. 575. |
+|  | 5 U.S.C. 84a | Apr. 12, 1939, ch. 59, § 4, 53 Stat. 575. |
 
 The words “received after December 31, 1938,” are omitted as obsolete. The words “pay or” are added before “compensation” for clarity as the word “pay” is used throughout title 5, United States Code, to refer to the remuneration, salary, wages, or compensation for the personal services of a Federal employee. The word “territory” is not capitalized as there are no longer any “Territories.” The words “to tax such compensation” are omitted as unnecessary.
 
@@ -217,19 +217,19 @@ The words “received after December 31, 1938,” are omitted as obsolete. The w
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title X, § 1075(b)(2), Oct. 17, 1998, 112 Stat. 2139, provided that: “The amendment made by this subsection [amending this section] shall apply to pay and compensation paid after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title X, § 1075(b)(2), Oct. 17, 1998, 112 Stat. 2139, provided that: “The amendment made by this subsection [amending this section] shall apply to pay and compensation paid after the date of the enactment of this Act [Oct. 17, 1998].”
 
-## § 112. Compacts between States for cooperation in prevention of crime; consent of Congress
+## § 112. Compacts between States for cooperation in prevention of crime; consent of Congress
 
 **(a)** The consent of Congress is hereby given to any two or more States to enter into agreements or compacts for cooperative effort and mutual assistance in the prevention of crime and in the enforcement of their respective criminal laws and policies, and to establish such agencies, joint or otherwise, as they may deem desirable for making effective such agreements and compacts.
 
 **(b)** For the purpose of this section, the term “States” means the several States and Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and the District of Columbia.
 
-(Added May 24, 1949, ch. 139, § 129(b), 63 Stat. 107, § 112, formerly § 111; amended Aug. 3, 1956, ch. 941, 70 Stat. 1020; Pub. L. 87–406, Feb. 16, 1962, 76 Stat. 9; renumbered § 112, Pub. L. 89–554, § 2(c), Sept. 6, 1966, 80 Stat. 608.)
+(Added May 24, 1949, ch. 139, § 129(b), 63 Stat. 107, § 112, formerly § 111; amended Aug. 3, 1956, ch. 941, 70 Stat. 1020; Pub. L. 87–406, Feb. 16, 1962, 76 Stat. 9; renumbered § 112, Pub. L. 89–554, § 2(c), Sept. 6, 1966, 80 Stat. 608.)
 
 **Historical and Revision Notes**
 
-This section [section 129(b) of Act May 24, 1949] incorporates in title 4, U.S.C. (enacted into positive law by act of July 30, 1947 (ch. 389, § 1, 61 Stat. 641), the provisions of former section 420 of title 18, U.S.C. (act of June 6, 1934, ch. 406, 48 Stat. 909), which, in the course of the revision of such title 18, was omitted therefrom and recommended for transfer to such title 4. (See table 7—Transferred sections, p. A219, H. Rept. No. 304, April 24, 1947, to accompany H.R. 3190, 80th Cong.).
+This section [section 129(b) of Act May 24, 1949] incorporates in title 4, U.S.C. (enacted into positive law by act of July 30, 1947 (ch. 389, § 1, 61 Stat. 641), the provisions of former section 420 of title 18, U.S.C. (act of June 6, 1934, ch. 406, 48 Stat. 909), which, in the course of the revision of such title 18, was omitted therefrom and recommended for transfer to such title 4. (See table 7—Transferred sections, p. A219, H. Rept. No. 304, April 24, 1947, to accompany H.R. 3190, 80th Cong.).
 
 **Editorial Notes**
 
@@ -245,7 +245,7 @@ This section [section 129(b) of Act May 24, 1949] incorporates in title 4, U.S.C
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
 
-## § 113. Residence of Members of Congress for State income tax laws
+## § 113. Residence of Members of Congress for State income tax laws
 
 **(a)** No State, or political subdivision thereof, in which a Member of Congress maintains a place of abode for purposes of attending sessions of Congress may, for purposes of any income tax (as defined in section 110(c) of this title) levied by such State or political subdivision thereof—
 
@@ -261,17 +261,17 @@ unless such Member represents such State or a district in such State.
 
 **(2)** the term “State” includes the District of Columbia.
 
-(Added Pub. L. 95–67, § 1(a), July 19, 1977, 91 Stat. 271.)
+(Added Pub. L. 95–67, § 1(a), July 19, 1977, 91 Stat. 271.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 95–67, § 1(c), July 19, 1977, 91 Stat. 271, provided that: “The amendments made by subsections (a) and (b) [enacting this section and amending analysis preceding section 101 of this title] shall be effective with respect to all taxable years, whether beginning before, on, or after the date of the enactment of this Act [July 19, 1977].”
+Pub. L. 95–67, § 1(c), July 19, 1977, 91 Stat. 271, provided that: “The amendments made by subsections (a) and (b) [enacting this section and amending analysis preceding section 101 of this title] shall be effective with respect to all taxable years, whether beginning before, on, or after the date of the enactment of this Act [July 19, 1977].”
 
 **Residence of Members of Congress for State Personal Property Tax on Motor Vehicles**
 
-Pub. L. 99–190, § 101(c) [H.R. 3067, § 131], Dec. 19, 1985, 99 Stat. 1224; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433, provided that:
+Pub. L. 99–190, § 101(c) [H.R. 3067, § 131], Dec. 19, 1985, 99 Stat. 1224; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433, provided that:
 
 > **“(a)** No State, or political subdivision thereof, in which a Member of Congress maintains a place of abode for purposes of attending sessions of Congress may impose a personal property tax with respect to any motor vehicle owned by such Member (or by the spouse of such Member) unless such Member represents such State or a district in such State.
 
@@ -285,7 +285,7 @@ Pub. L. 99–190, § 101(c) [H.R. 3067, § 131], Dec. 19, 1985, 99 Stat. 122
 
 > **“(c)** This section shall apply to all taxable periods beginning on or after January 1, 1985.”
 
-## § 114. Limitation on State income taxation of certain pension income
+## § 114. Limitation on State income taxation of certain pension income
 
 **(a)** No State may impose an income tax on any retirement income of an individual who is not a resident or domiciliary of such State (as determined under the laws of such State).
 
@@ -329,13 +329,13 @@ Such term includes any retired or retainer pay of a member or former member of a
 
 **(4)** For purposes of this section, the term “retired partner” is an individual who is described as a partner in section 7701(a)(2) of the Internal Revenue Code of 1986 and who is retired under such individual’s partnership agreement.
 
-**(e)**  1
+**(e)** 1
 
-<sup>1</sup>  So in original. No subsecs. (c) and (d) have been enacted.
+<sup>1</sup> So in original. No subsecs. (c) and (d) have been enacted.
 
 Nothing in this section shall be construed as having any effect on the application of section 514 of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 104–95, § 1(a), Jan. 10, 1996, 109 Stat. 979; amended Pub. L. 109–264, § 1(a), Aug. 3, 2006, 120 Stat. 667.)
+(Added Pub. L. 104–95, § 1(a), Jan. 10, 1996, 109 Stat. 979; amended Pub. L. 109–264, § 1(a), Aug. 3, 2006, 120 Stat. 667.)
 
 **Editorial Notes**
 
@@ -347,41 +347,41 @@ Section 514 of the Employee Retirement Income Security Act of 1974, referred to 
 
 **Amendments**
 
-2006—Subsec. (b)(1)(I). Pub. L. 109–264, § 1(a)(1)–(3), inserted “(or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins)” after “section 3121(v)(2)(C) of such Code” in introductory provisions, “which may include income described in subparagraphs (A) through (H)” after “(not less frequently than annually” in cl. (i), and concluding provisions at end.
+2006—Subsec. (b)(1)(I). Pub. L. 109–264, § 1(a)(1)–(3), inserted “(or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins)” after “section 3121(v)(2)(C) of such Code” in introductory provisions, “which may include income described in subparagraphs (A) through (H)” after “(not less frequently than annually” in cl. (i), and concluding provisions at end.
 
-Subsec. (b)(4). Pub. L. 109–264, § 1(a)(4), which directed the addition of par. (4) at end of subsec. (b)(1)(I), was executed by adding par. (4) at end of subsec. (b) to reflect the probable intent of Congress.
+Subsec. (b)(4). Pub. L. 109–264, § 1(a)(4), which directed the addition of par. (4) at end of subsec. (b)(1)(I), was executed by adding par. (4) at end of subsec. (b) to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–264, § 1(b), Aug. 3, 2006, 120 Stat. 667, provided that: “The amendments made by this section [amending this section] apply to amounts received after December 31, 1995.”
+Pub. L. 109–264, § 1(b), Aug. 3, 2006, 120 Stat. 667, provided that: “The amendments made by this section [amending this section] apply to amounts received after December 31, 1995.”
 
 **Effective Date**
 
-Pub. L. 104–95, § 1(c), Jan. 10, 1996, 109 Stat. 980, provided that: “The amendments made by this section [enacting this section] shall apply to amounts received after December 31, 1995.”
+Pub. L. 104–95, § 1(c), Jan. 10, 1996, 109 Stat. 980, provided that: “The amendments made by this section [enacting this section] shall apply to amounts received after December 31, 1995.”
 
-## § 115. Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky
+## § 115. Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky
 
 Pay and compensation paid to an individual for personal services at Fort Campbell, Kentucky, shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.
 
-(Added Pub. L. 105–261, div. A, title X, § 1075(a)(1), Oct. 17, 1998, 112 Stat. 2138.)
+(Added Pub. L. 105–261, div. A, title X, § 1075(a)(1), Oct. 17, 1998, 112 Stat. 2138.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–261, div. A, title X, § 1075(a)(3), Oct. 17, 1998, 112 Stat. 2138, provided that: “The amendments made by this subsection [enacting this section] shall apply to pay and compensation paid after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title X, § 1075(a)(3), Oct. 17, 1998, 112 Stat. 2138, provided that: “The amendments made by this subsection [enacting this section] shall apply to pay and compensation paid after the date of the enactment of this Act [Oct. 17, 1998].”
 
-## § 116. Rules for determining State and local government treatment of charges related to mobile telecommunications services
+## § 116. Rules for determining State and local government treatment of charges related to mobile telecommunications services
 
-**(a) Application of This Section Through Section 126.—** This section through 1
+**(a) Application of This Section Through Section 126.—** This section through 1
 
-<sup>1</sup>  So in original. Probably should be followed by “section”.
+<sup>1</sup> So in original. Probably should be followed by “section”.
 
 126 of this title apply to any tax, charge, or fee levied by a taxing jurisdiction as a fixed charge for each customer or measured by gross amounts charged to customers for mobile telecommunications services, regardless of whether such tax, charge, or fee is imposed on the vendor or customer of the service and regardless of the terminology used to describe the tax, charge, or fee.
 
-**(b) General Exceptions.—** This section through <sup>1</sup> 126 of this title do not apply to—
+**(b) General Exceptions.—** This section through <sup>1</sup> 126 of this title do not apply to—
 
 **(1)** any tax, charge, or fee levied upon or measured by the net income, capital stock, net worth, or property value of the provider of mobile telecommunications service;
 
@@ -389,13 +389,13 @@ Pub. L. 105–261, div. A, title X, § 1075(a)(3), Oct. 17, 1998, 112 Stat. 21
 
 **(3)** any tax, charge, or fee that represents compensation for a mobile telecommunications service provider’s use of public rights of way or other public property, provided that such tax, charge, or fee is not levied by the taxing jurisdiction as a fixed charge for each customer or measured by gross amounts charged to customers for mobile telecommunication services;
 
-**(4)** any generally applicable business and occupation tax that is imposed by a State, is applied to gross receipts or gross proceeds, is the legal liability of the home service provider, and that statutorily allows the home service provider to elect to use the sourcing method required in this section through <sup>1</sup> 126 of this title;
+**(4)** any generally applicable business and occupation tax that is imposed by a State, is applied to gross receipts or gross proceeds, is the legal liability of the home service provider, and that statutorily allows the home service provider to elect to use the sourcing method required in this section through <sup>1</sup> 126 of this title;
 
 **(5)** any fee related to obligations under section 254 of the Communications Act of 1934; or
 
 **(6)** any tax, charge, or fee imposed by the Federal Communications Commission.
 
-**(c) Specific Exceptions.—** This section through <sup>1</sup> 126 of this title—
+**(c) Specific Exceptions.—** This section through <sup>1</sup> 126 of this title—
 
 **(1)** do not apply to the determination of the taxing situs of prepaid telephone calling services;
 
@@ -403,7 +403,7 @@ Pub. L. 105–261, div. A, title X, § 1075(a)(3), Oct. 17, 1998, 112 Stat. 21
 
 **(3)** do not apply to the determination of the taxing situs of air-ground radiotelephone service as defined in section 22.99 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 626.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 626.)
 
 **Editorial Notes**
 
@@ -417,19 +417,19 @@ The Internet Tax Freedom Act, referred to in subsec. (c)(2), is title XI of Pub.
 
 **Effective Date; Application of Amendment**
 
-Pub. L. 106–252, § 3, July 28, 2000, 114 Stat. 633, provided that:
+Pub. L. 106–252, § 3, July 28, 2000, 114 Stat. 633, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this Act [enacting this section and sections 117 to 126 of this title and provisions set out as a note under section 1 of this title] and the amendment made by this Act shall take effect on the date of the enactment of this Act [July 28, 2000].
 
 > **“(b) Application of Act.—** The amendment made by this Act [enacting this section and sections 117 to 126 of this title] shall apply only to customer bills issued after the first day of the first month beginning more than 2 years after the date of the enactment of this Act [July 28, 2000].”
 
-## § 117. Sourcing rules
+## § 117. Sourcing rules
 
 **(a) Treatment of Charges for Mobile Telecommunications Services.—** Notwithstanding the law of any State or political subdivision of any State, mobile telecommunications services provided in a taxing jurisdiction to a customer, the charges for which are billed by or for the customer’s home service provider, shall be deemed to be provided by the customer’s home service provider.
 
 **(b) Jurisdiction.—** All charges for mobile telecommunications services that are deemed to be provided by the customer’s home service provider under sections 116 through 126 of this title are authorized to be subjected to tax, charge, or fee by the taxing jurisdictions whose territorial limits encompass the customer’s place of primary use, regardless of where the mobile telecommunication services originate, terminate, or pass through, and no other taxing jurisdiction may impose taxes, charges, or fees on charges for such mobile telecommunications services.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 627.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 627.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -437,7 +437,7 @@ Pub. L. 106–252, § 3, July 28, 2000, 114 Stat. 633, provided that:
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 118. Limitations
+## § 118. Limitations
 
 Sections 116 through 126 of this title do not—
 
@@ -445,7 +445,7 @@ Sections 116 through 126 of this title do not—
 
 **(2)** modify, impair, supersede, or authorize the modification, impairment, or supersession of the law of any taxing jurisdiction pertaining to taxation except as expressly provided in sections 116 through 126 of this title.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 627.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 627.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -453,7 +453,7 @@ Sections 116 through 126 of this title do not—
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 119. Electronic databases for nationwide standard numeric jurisdictional codes
+## § 119. Electronic databases for nationwide standard numeric jurisdictional codes
 
 **(a) Electronic Database.—**
 
@@ -471,7 +471,7 @@ Section effective July 28, 2000, and applicable only to customer bills issued af
 
 **(c) User Held Harmless.—** A home service provider using the data contained in an electronic database described in subsection (a) shall be held harmless from any tax, charge, or fee liability that otherwise would be due solely as a result of any error or omission in such database provided by a State or designated database provider. The home service provider shall reflect changes made to such database during a calendar quarter not later than 30 days after the end of such calendar quarter for each State that issues notice of the availability of an electronic database reflecting such changes under subsection (b).
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 627.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 627.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -479,7 +479,7 @@ Section effective July 28, 2000, and applicable only to customer bills issued af
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 120. Procedure if no electronic database provided
+## § 120. Procedure if no electronic database provided
 
 **(a) Safe Harbor.—** If neither a State nor designated database provider provides an electronic database under section 119, a home service provider shall be held harmless from any tax, charge, or fee liability in such State that otherwise would be due solely as a result of an assignment of a street address to an incorrect taxing jurisdiction if, subject to section 121, the home service provider employs an enhanced zip code to assign each street address to a specific taxing jurisdiction for each level of taxing jurisdiction and exercises due diligence at each level of taxing jurisdiction to ensure that each such street address is assigned to the correct taxing jurisdiction. If an enhanced zip code overlaps boundaries of taxing jurisdictions of the same level, the home service provider must designate one specific jurisdiction within such enhanced zip code for use in taxing the activity for such enhanced zip code for each level of taxing jurisdiction. Any enhanced zip code assignment changed in accordance with section 121 is deemed to be in compliance with this section. For purposes of this section, there is a rebuttable presumption that a home service provider has exercised due diligence if such home service provider demonstrates that it has—
 
@@ -495,7 +495,7 @@ Section effective July 28, 2000, and applicable only to customer bills issued af
 
 **(2)** 6 months after such State or a designated database provider in such State provides such database as prescribed in section 119(a).
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 628.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 628.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -503,9 +503,9 @@ Section effective July 28, 2000, and applicable only to customer bills issued af
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 121. Correction of erroneous data for place of primary use
+## § 121. Correction of erroneous data for place of primary use
 
-**(a) 1 [footnote: 1 So in original. No subsec. (b) was enacted.] In General.—** A taxing jurisdiction, or a State on behalf of any taxing jurisdiction or taxing jurisdictions within such State, may—
+**(a) 1 [footnote: 1 So in original. No subsec. (b) was enacted.] In General.—** A taxing jurisdiction, or a State on behalf of any taxing jurisdiction or taxing jurisdictions within such State, may—
 
 **(1)** determine that the address used for purposes of determining the taxing jurisdictions to which taxes, charges, or fees for mobile telecommunications services are remitted does not meet the definition of place of primary use in section 124(8) and give binding notice to the home service provider to change the place of primary use on a prospective basis from the date of notice of determination if—
 
@@ -519,7 +519,7 @@ Section effective July 28, 2000, and applicable only to customer bills issued af
 
 **(B)** the home service provider is given an opportunity to demonstrate in accordance with applicable State or local tax, charge, or fee administrative procedures that the assignment reflects the correct taxing jurisdiction.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 629.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 629.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -527,7 +527,7 @@ Section effective July 28, 2000, and applicable only to customer bills issued af
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 122. Determination of place of primary use
+## § 122. Determination of place of primary use
 
 **(a) Place of Primary Use.—** A home service provider shall be responsible for obtaining and maintaining the customer’s place of primary use (as defined in section 124). Subject to section 121, and if the home service provider’s reliance on information provided by its customer is in good faith, a taxing jurisdiction shall—
 
@@ -537,7 +537,7 @@ Section effective July 28, 2000, and applicable only to customer bills issued af
 
 **(b) Address Under Existing Agreements.—** Except as provided in section 121, a taxing jurisdiction shall allow a home service provider to treat the address used by the home service provider for tax purposes for any customer under a service contract or agreement in effect 2 years after the date of the enactment of the Mobile Telecommunications Sourcing Act as that customer’s place of primary use for the remaining term of such service contract or agreement, excluding any extension or renewal of such service contract or agreement, for purposes of determining the taxing jurisdictions to which taxes, charges, or fees on charges for mobile telecommunications services are remitted.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 630.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 630.)
 
 **Editorial Notes**
 
@@ -551,7 +551,7 @@ The date of the enactment of the Mobile Telecommunications Sourcing Act, referre
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 123. Scope; special rules
+## § 123. Scope; special rules
 
 **(a) Act Does Not Supersede Customer’s Liability to Taxing Jurisdiction.—** Nothing in sections 116 through 126 modifies, impairs, supersedes, or authorizes the modification, impairment, or supersession of, any law allowing a taxing jurisdiction to collect a tax, charge, or fee from a customer that has failed to provide its place of primary use.
 
@@ -559,7 +559,7 @@ Section effective July 28, 2000, and applicable only to customer bills issued af
 
 **(c) Nontaxable Charges.—** If a taxing jurisdiction does not subject charges for mobile telecommunications services to taxation, a customer may not rely upon the nontaxability of charges for mobile telecommunications services unless the customer’s home service provider separately states the charges for nontaxable mobile telecommunications services from taxable charges or the home service provider elects, after receiving a written request from the customer in the form required by the provider, to provide verifiable data based upon the home service provider’s books and records that are kept in the regular course of business that reasonably identifies the nontaxable charges.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 630.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 630.)
 
 **Editorial Notes**
 
@@ -573,7 +573,7 @@ Act, referred to in subsec. (a), probably means the Mobile Telecommunications So
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 124. Definitions
+## § 124. Definitions
 
 In sections 116 through 126 of this title:
 
@@ -625,7 +625,7 @@ In sections 116 through 126 of this title:
 
 **(12) Taxing jurisdiction.—** The term “taxing jurisdiction” means any of the several States, the District of Columbia, or any territory or possession of the United States, any municipality, city, county, township, parish, transportation district, or assessment jurisdiction, or any other political subdivision within the territorial limits of the United States with the authority to impose a tax, charge, or fee.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 631.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 631.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -633,7 +633,7 @@ In sections 116 through 126 of this title:
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 125. Nonseverability
+## § 125. Nonseverability
 
 If a court of competent jurisdiction enters a final judgment on the merits that—
 
@@ -645,7 +645,7 @@ If a court of competent jurisdiction enters a final judgment on the merits that�
 
 then sections 116 through 126 of this title are invalid and have no legal effect as of the date of entry of such judgment.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 632.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 632.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -653,13 +653,13 @@ then sections 116 through 126 of this title are invalid and have no legal effect
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-## § 126. No inference
+## § 126. No inference
 
 **(a) Internet Tax Freedom Act.—** Nothing in sections 116 through this section of this title shall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
 
 **(b) Telecommunications Act of 1996.—** Nothing in sections 116 through this section of this title shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 or the amendments made by such Act.
 
-(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 632.)
+(Added Pub. L. 106–252, § 2(a), July 28, 2000, 114 Stat. 632.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 99—NATIONAL CONSTRUCTION SAFETY TEAM
 
-## § 7301. National Construction Safety Teams
+## § 7301. National Construction Safety Teams
 
 **(a) Establishment**
 
@@ -67,7 +67,7 @@ The purpose of investigations by Teams is to improve the safety and structural i
 
 The Director shall publish promptly in the Federal Register final procedures, and subsequent updates thereof, developed under paragraph (1).
 
-(Pub. L. 107–231, § 2, Oct. 1, 2002, 116 Stat. 1471; Pub. L. 107–305, § 15, Nov. 27, 2002, 116 Stat. 2381.)
+(Pub. L. 107–231, § 2, Oct. 1, 2002, 116 Stat. 1471; Pub. L. 107–305, § 15, Nov. 27, 2002, 116 Stat. 2381.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ The Director shall publish promptly in the Federal Register final procedures, an
 
 This chapter, referred to in subsecs. (a) and (c)(1)(E), (G), was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, which is classified generally to chapter 86 (§ 7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 42 and Tables.
+The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, which is classified generally to chapter 86 (§ 7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 42 and Tables.
 
 **Amendments**
 
@@ -85,15 +85,15 @@ The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), 
 
 **Short Title**
 
-Pub. L. 107–231, § 1, Oct. 1, 2002, 116 Stat. 1471, provided that: “This Act [enacting this chapter and amending section 281a of this title] may be cited as the ‘National Construction Safety Team Act’.”
+Pub. L. 107–231, § 1, Oct. 1, 2002, 116 Stat. 1471, provided that: “This Act [enacting this chapter and amending section 281a of this title] may be cited as the ‘National Construction Safety Team Act’.”
 
-## § 7302. Composition of Teams
+## § 7302. Composition of Teams
 
 Each Team shall be composed of individuals selected by the Director and led by an individual designated by the Director. Team members shall include at least 1 employee of the National Institute of Standards and Technology and shall include other experts who are not employees of the National Institute of Standards and Technology, who may include private sector experts, university experts, representatives of professional organizations with appropriate expertise, and appropriate Federal, State, or local officials. Team members who are not Federal employees shall be considered Federal Government contractors.
 
-(Pub. L. 107–231, § 3, Oct. 1, 2002, 116 Stat. 1472.)
+(Pub. L. 107–231, § 3, Oct. 1, 2002, 116 Stat. 1472.)
 
-## § 7303. Authorities
+## § 7303. Authorities
 
 **(a) Entry and inspection** In investigating a building failure under this chapter, members of a Team, and any other person authorized by the Director to support a Team, on display of appropriate credentials provided by the Director and written notice of inspection authority, may—
 
@@ -151,7 +151,7 @@ If the Attorney General, in consultation with the Director, determines, and noti
 
 If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with the Federal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
 
-(Pub. L. 107–231, § 4, Oct. 1, 2002, 116 Stat. 1472; Pub. L. 117–167, div. B, title II, § 10246(h), Aug. 9, 2022, 136 Stat. 1494.)
+(Pub. L. 107–231, § 4, Oct. 1, 2002, 116 Stat. 1472; Pub. L. 117–167, div. B, title II, § 10246(h), Aug. 9, 2022, 136 Stat. 1494.)
 
 **Editorial Notes**
 
@@ -161,13 +161,13 @@ This chapter, referred to in subsecs. (a) and (d)(2) to (4), was in the original
 
 **Amendments**
 
-2022—Subsec. (c)(5). Pub. L. 117–167, § 10246(h)(1), added par. (5).
+2022—Subsec. (c)(5). Pub. L. 117–167, § 10246(h)(1), added par. (5).
 
-Subsec. (d). Pub. L. 117–167, § 10246(h)(2)(A), substituted “Investigation” for “Interagency” in heading.
+Subsec. (d). Pub. L. 117–167, § 10246(h)(2)(A), substituted “Investigation” for “Interagency” in heading.
 
-Subsec. (d)(1). Pub. L. 117–167, § 10246(h)(2)(B), inserted “or any civil suit or civil action” after “Federal agency”.
+Subsec. (d)(1). Pub. L. 117–167, § 10246(h)(2)(B), inserted “or any civil suit or civil action” after “Federal agency”.
 
-## § 7304. Briefings, hearings, witnesses, and subpoenas
+## § 7304. Briefings, hearings, witnesses, and subpoenas
 
 **(a) General authority**
 
@@ -195,7 +195,7 @@ A subpoena shall be issued only under the signature of the Director but may be s
 
 If a person disobeys a subpoena issued by the Director under this chapter, the Attorney General, acting on behalf of the Director, may bring a civil action in a district court of the United States to enforce the subpoena. An action under this subsection may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpoena as a contempt of court.
 
-(Pub. L. 107–231, § 5, Oct. 1, 2002, 116 Stat. 1474.)
+(Pub. L. 107–231, § 5, Oct. 1, 2002, 116 Stat. 1474.)
 
 **Editorial Notes**
 
@@ -203,7 +203,7 @@ If a person disobeys a subpoena issued by the Director under this chapter, the A
 
 This chapter, referred to in subsecs. (a), (d), and (f), was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
-## § 7305. Additional powers
+## § 7305. Additional powers
 
 In order to support Teams in carrying out this chapter, the Director may—
 
@@ -221,7 +221,7 @@ In order to support Teams in carrying out this chapter, the Director may—
 
 **(7)** provide nongovernmental members of the Team reasonable compensation for time spent carrying out activities under this chapter.
 
-(Pub. L. 107–231, § 6, Oct. 1, 2002, 116 Stat. 1474.)
+(Pub. L. 107–231, § 6, Oct. 1, 2002, 116 Stat. 1474.)
 
 **Editorial Notes**
 
@@ -229,7 +229,7 @@ In order to support Teams in carrying out this chapter, the Director may—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
-## § 7306. Disclosure of information
+## § 7306. Disclosure of information
 
 **(a) General rule**
 
@@ -249,7 +249,7 @@ Notwithstanding any other provision of law, a Team, the National Institute of St
 
 A Team and the National Institute of Standards and Technology shall not publicly release any information it receives in the course of an investigation under this chapter if the Director finds that the disclosure of that information might jeopardize public safety.
 
-(Pub. L. 107–231, § 7, Oct. 1, 2002, 116 Stat. 1475.)
+(Pub. L. 107–231, § 7, Oct. 1, 2002, 116 Stat. 1475.)
 
 **Editorial Notes**
 
@@ -257,7 +257,7 @@ A Team and the National Institute of Standards and Technology shall not publicly
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
-## § 7307. National Construction Safety Team report
+## § 7307. National Construction Safety Team report
 
 Not later than 90 days after completing an investigation, a Team shall issue a public report which includes—
 
@@ -269,9 +269,9 @@ Not later than 90 days after completing an investigation, a Team shall issue a p
 
 **(4)** recommendations for research and other appropriate actions needed to help prevent future building failures.
 
-(Pub. L. 107–231, § 8, Oct. 1, 2002, 116 Stat. 1475.)
+(Pub. L. 107–231, § 8, Oct. 1, 2002, 116 Stat. 1475.)
 
-## § 7308. National Institute of Standards and Technology actions
+## § 7308. National Institute of Standards and Technology actions
 
 After the issuance of a public report under section 7307 of this title, the National Institute of Standards and Technology shall comprehensively review the report and, working with the United States Fire Administration and other appropriate Federal and non-Federal agencies and organizations—
 
@@ -285,9 +285,9 @@ After the issuance of a public report under section 7307 of this title, the Nati
 
 **(C)** other actions needed to help prevent future building failures.
 
-(Pub. L. 107–231, § 9, Oct. 1, 2002, 116 Stat. 1475.)
+(Pub. L. 107–231, § 9, Oct. 1, 2002, 116 Stat. 1475.)
 
-## § 7309. National Institute of Standards and Technology annual report
+## § 7309. National Institute of Standards and Technology annual report
 
 Not later than February 15 of each year, the Director shall transmit to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
 
@@ -297,7 +297,7 @@ Not later than February 15 of each year, the Director shall transmit to the Comm
 
 **(3)** a description of the actions taken to improve building safety and structural integrity by the National Institute of Standards and Technology during the prior fiscal year in response to reports issued under section 7307 of this title.
 
-(Pub. L. 107–231, § 10, Oct. 1, 2002, 116 Stat. 1476.)
+(Pub. L. 107–231, § 10, Oct. 1, 2002, 116 Stat. 1476.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -305,7 +305,7 @@ Not later than February 15 of each year, the Director shall transmit to the Comm
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 7310. Advisory committee
+## § 7310. Advisory committee
 
 **(a) Establishment and functions**
 
@@ -321,7 +321,7 @@ The Director, in consultation with the United States Fire Administration and oth
 
 Section 1013 of title 5 shall not apply to the advisory committee established under this section.
 
-(Pub. L. 107–231, § 11, Oct. 1, 2002, 116 Stat. 1476; Pub. L. 117–286, § 4(a)(77), Dec. 27, 2022, 136 Stat. 4314.)
+(Pub. L. 107–231, § 11, Oct. 1, 2002, 116 Stat. 1476; Pub. L. 117–286, § 4(a)(77), Dec. 27, 2022, 136 Stat. 4314.)
 
 **Editorial Notes**
 
@@ -339,11 +339,11 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 7311. Additional applicability
+## § 7311. Additional applicability
 
 The authorities and restrictions applicable under this chapter to the Director and to Teams shall apply to the activities of the National Institute of Standards and Technology in response to the attacks of September 11, 2001.
 
-(Pub. L. 107–231, § 12, Oct. 1, 2002, 116 Stat. 1476.)
+(Pub. L. 107–231, § 12, Oct. 1, 2002, 116 Stat. 1476.)
 
 **Editorial Notes**
 
@@ -351,11 +351,11 @@ The authorities and restrictions applicable under this chapter to the Director a
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
-## § 7312. Construction
+## § 7312. Construction
 
 Nothing in this chapter shall be construed to confer any authority on the National Institute of Standards and Technology to require the adoption of building standards, codes, or practices.
 
-(Pub. L. 107–231, § 14, Oct. 1, 2002, 116 Stat. 1477.)
+(Pub. L. 107–231, § 14, Oct. 1, 2002, 116 Stat. 1477.)
 
 **Editorial Notes**
 
@@ -363,11 +363,11 @@ Nothing in this chapter shall be construed to confer any authority on the Nation
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
-## § 7313. Authorization of appropriations
+## § 7313. Authorization of appropriations
 
 The National Institute of Standards and Technology is authorized to use funds otherwise authorized by law to carry out this chapter.
 
-(Pub. L. 107–231, § 15, Oct. 1, 2002, 116 Stat. 1477.)
+(Pub. L. 107–231, § 15, Oct. 1, 2002, 116 Stat. 1477.)
 
 **Editorial Notes**
 

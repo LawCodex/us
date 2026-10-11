@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 69—CUBAN DEMOCRACY
 
-## § 6001. Findings
+## § 6001. Findings
 
 The Congress makes the following findings:
 
@@ -35,17 +35,17 @@ The Congress makes the following findings:
 
 **(8)** The United States cooperated with its European and other allies to assist the difficult transitions from Communist regimes in Eastern Europe. Therefore, it is appropriate for those allies to cooperate with United States policy to promote a peaceful transition in Cuba.
 
-(Pub. L. 102–484, div. A, title XVII, § 1702, Oct. 23, 1992, 106 Stat. 2575.)
+(Pub. L. 102–484, div. A, title XVII, § 1702, Oct. 23, 1992, 106 Stat. 2575.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 102–484, div. A, title XVII, § 1712, Oct. 23, 1992, 106 Stat. 2581, provided that: “This title [enacting this chapter, amending section 4315 of Title 50, War and National Defense, and enacting provisions set out as a note below] shall take effect on the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–484, div. A, title XVII, § 1712, Oct. 23, 1992, 106 Stat. 2581, provided that: “This title [enacting this chapter, amending section 4315 of Title 50, War and National Defense, and enacting provisions set out as a note below] shall take effect on the date of the enactment of this Act [Oct. 23, 1992].”
 
 **Short Title**
 
-Pub. L. 102–484, div. A, title XVII, § 1701, Oct. 23, 1992, 106 Stat. 2575, provided that: “This title [enacting this chapter, amending section 4315 of Title 50, War and National Defense, and enacting provisions set out as a note above] may be cited as the ‘Cuban Democracy Act of 1992’.”
+Pub. L. 102–484, div. A, title XVII, § 1701, Oct. 23, 1992, 106 Stat. 2575, provided that: “This title [enacting this chapter, amending section 4315 of Title 50, War and National Defense, and enacting provisions set out as a note above] may be cited as the ‘Cuban Democracy Act of 1992’.”
 
 **Executive Documents**
 
@@ -73,7 +73,7 @@ Sec. 7. *Effective Date*. This order shall be effective immediately.
 
 William J. Clinton.
 
-## § 6002. Statement of policy
+## § 6002. Statement of policy
 
 It should be the policy of the United States—
 
@@ -97,9 +97,9 @@ It should be the policy of the United States—
 
 **(10)** to initiate immediately the development of a comprehensive United States policy toward Cuba in a post-Castro era.
 
-(Pub. L. 102–484, div. A, title XVII, § 1703, Oct. 23, 1992, 106 Stat. 2576.)
+(Pub. L. 102–484, div. A, title XVII, § 1703, Oct. 23, 1992, 106 Stat. 2576.)
 
-## § 6003. International cooperation
+## § 6003. International cooperation
 
 **(a) Cuban trading partners**
 
@@ -131,25 +131,25 @@ As used in this paragraph, the term “agency or instrumentality of the Governme
 
 This section, and any sanctions imposed pursuant to this section, shall cease to apply at such time as the President makes and reports to the Congress a determination under section 6007(a) of this title.
 
-(Pub. L. 102–484, div. A, title XVII, § 1704, Oct. 23, 1992, 106 Stat. 2576; Pub. L. 104–114, title I, § 102(f), Mar. 12, 1996, 110 Stat. 793.)
+(Pub. L. 102–484, div. A, title XVII, § 1704, Oct. 23, 1992, 106 Stat. 2576; Pub. L. 104–114, title I, § 102(f), Mar. 12, 1996, 110 Stat. 793.)
 
 **Repeal of Section**
 
-Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is repealed.
+Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is repealed.
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 **Amendments**
 
-1996—Subsec. (b)(2). Pub. L. 104–114, § 102(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted concluding provisions “As used in this paragraph, the term ‘agency or instrumentality of the Government of Cuba’ means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to ‘a foreign state’ deemed to be a reference to ‘Cuba’.”
+1996—Subsec. (b)(2). Pub. L. 104–114, § 102(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted concluding provisions “As used in this paragraph, the term ‘agency or instrumentality of the Government of Cuba’ means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to ‘a foreign state’ deemed to be a reference to ‘Cuba’.”
 
-## § 6004. Support for Cuban people
+## § 6004. Support for Cuban people
 
 **(a) Provisions of law affected**
 
@@ -161,9 +161,9 @@ Nothing in this or any other Act shall prohibit donations of food to nongovernme
 
 **(c) Exports of medicines and medical supplies** Exports of medicines or medical supplies, instruments, or equipment to Cuba shall not be restricted—
 
-**(1)** except to the extent such restrictions would be permitted under section 5(m) 1
+**(1)** except to the extent such restrictions would be permitted under section 5(m) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 or section 203(b)(2) of the International Emergency Economic Powers Act [50 U.S.C. 1702(b)(2)];
 
@@ -221,23 +221,23 @@ The United States Postal Service shall take such actions as are necessary to pro
 
 The United States Government may provide assistance, through appropriate nongovernmental organizations, for the support of individuals and organizations to promote nonviolent democratic change in Cuba.
 
-(Pub. L. 102–484, div. A, title XVII, § 1705, Oct. 23, 1992, 106 Stat. 2577; Pub. L. 104–114, title I, § 102(g), Mar. 12, 1996, 110 Stat. 793.)
+(Pub. L. 102–484, div. A, title XVII, § 1705, Oct. 23, 1992, 106 Stat. 2577; Pub. L. 104–114, title I, § 102(g), Mar. 12, 1996, 110 Stat. 793.)
 
 **Amendment of Section**
 
-Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsection (d).
+Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsection (d).
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Export Administration Act of 1979, referred to in subsecs. (a) and (c)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 5 of the Act was classified to section 4604 of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in subsecs. (a) and (c)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 5 of the Act was classified to section 4604 of Title 50 prior to repeal.
 
 **Amendments**
 
-1996—Subsec. (e)(5), (6). Pub. L. 104–114, § 102(g), added pars. (5) and (6).
+1996—Subsec. (e)(5), (6). Pub. L. 104–114, § 102(g), added pars. (5) and (6).
 
 **Executive Documents**
 
@@ -245,7 +245,7 @@ The Export Administration Act of 1979, referred to in subsecs. (a) and (c)(1), i
 
 For delegation of congressional reporting functions of President under subsec. (e) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under section 301 of Title 3, The President.
 
-## § 6005. Sanctions
+## § 6005. Sanctions
 
 **(a) Prohibition on certain transactions between certain United States firms and Cuba**
 
@@ -287,13 +287,13 @@ The President shall establish strict limits on remittances to Cuba by United Sta
 
 The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by section 6004 of this title or section 6006 of this title or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act [50 U.S.C. 4305(b)(4)].
 
-(Pub. L. 102–484, div. A, title XVII, § 1706, Oct. 23, 1992, 106 Stat. 2578.)
+(Pub. L. 102–484, div. A, title XVII, § 1706, Oct. 23, 1992, 106 Stat. 2578.)
 
 **Repeal of Section**
 
-Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is repealed.
+Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is repealed.
 
-## § 6006. Policy toward a transitional Cuban Government
+## § 6006. Policy toward a transitional Cuban Government
 
 Food, medicine, and medical supplies for humanitarian purposes should be made available for Cuba under the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] and the Food for Peace Act [7 U.S.C. 1691 et seq.] if the President determines and certifies to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that the government in power in Cuba—
 
@@ -303,15 +303,15 @@ Food, medicine, and medical supplies for humanitarian purposes should be made av
 
 **(3)** is not providing weapons or funds to any group, in any other country, that seeks the violent overthrow of the government of that country.
 
-(Pub. L. 102–484, div. A, title XVII, § 1707, Oct. 23, 1992, 106 Stat. 2579; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(V), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 102–484, div. A, title XVII, § 1707, Oct. 23, 1992, 106 Stat. 2579; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(V), June 18, 2008, 122 Stat. 1820, 1821.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 **Amendments**
 
@@ -323,7 +323,7 @@ The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 S
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-## § 6007. Policy toward a democratic Cuban Government
+## § 6007. Policy toward a democratic Cuban Government
 
 **(a) Waiver of restrictions** The President may waive the requirements of section 6005 of this title if the President determines and reports to the Congress that the Government of Cuba—
 
@@ -345,15 +345,15 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **(3)** To take steps to end the United States trade embargo of Cuba.
 
-(Pub. L. 102–484, div. A, title XVII, § 1708, Oct. 23, 1992, 106 Stat. 2580.)
+(Pub. L. 102–484, div. A, title XVII, § 1708, Oct. 23, 1992, 106 Stat. 2580.)
 
-## § 6008. Existing claims not affected
+## § 6008. Existing claims not affected
 
 Except as provided in section 6004(a) of this title, nothing in this chapter affects the provisions of section 2370(a)(2) of this title.
 
-(Pub. L. 102–484, div. A, title XVII, § 1709, Oct. 23, 1992, 106 Stat. 2580.)
+(Pub. L. 102–484, div. A, title XVII, § 1709, Oct. 23, 1992, 106 Stat. 2580.)
 
-## § 6009. Enforcement
+## § 6009. Enforcement
 
 **(a) Enforcement authority**
 
@@ -373,20 +373,20 @@ The penalties set forth in section 16 of the Trading With the Enemy Act [50 U.S.
 
 The Department of the Treasury shall establish and maintain a branch of the Office of Foreign Assets Control in Miami, Florida, in order to strengthen the enforcement of this chapter.
 
-(Pub. L. 102–484, div. A, title XVII, § 1710, Oct. 23, 1992, 106 Stat. 2580.)
+(Pub. L. 102–484, div. A, title XVII, § 1710, Oct. 23, 1992, 106 Stat. 2580.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
 Section is comprised of section 1710 of Pub. L. 102–484. Subsec. (c) of section 1710 of Pub. L. 102–484 amended section 4315 of Title 50, War and National Defense.
 
-## § 6010. “United States person” defined
+## § 6010. “United States person” defined
 
 As used in this chapter, the term “United States person” means any United States citizen or alien admitted for permanent residence in the United States, and any corporation, partnership, or other organization organized under the laws of the United States.
 
-(Pub. L. 102–484, div. A, title XVII, § 1711, Oct. 23, 1992, 106 Stat. 2581.)
+(Pub. L. 102–484, div. A, title XVII, § 1711, Oct. 23, 1992, 106 Stat. 2581.)

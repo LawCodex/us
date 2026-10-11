@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior analysis for chapter 25 “GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY” consisted of items 891 “Flags; pennants; uniforms and insignia”, 892 “Penalty”, 893 “Limitation on rights of members of the Auxiliary and temporary members of the Reserve”, and 894 “Availability of facilities and appropriations”, prior to repeal by Pub. L. 115–282, title I, § 114(a), Dec. 4, 2018, 132 Stat. 4223.
+A prior analysis for chapter 25 “GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY” consisted of items 891 “Flags; pennants; uniforms and insignia”, 892 “Penalty”, 893 “Limitation on rights of members of the Auxiliary and temporary members of the Reserve”, and 894 “Availability of facilities and appropriations”, prior to repeal by Pub. L. 115–282, title I, § 114(a), Dec. 4, 2018, 132 Stat. 4223.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. G, title LXXII, §§ 7225(b), 7228(b), title LXXV, § 7511(c), Dec. 18, 2025, 139 Stat. 1705, 1709, 1807, added items 2512 and 2517 to 2519, added item for subtitle III and items 2531 to 2539, and struck out former item 2512 “Leave policies for the Coast Guard”.
+2025—Pub. L. 119–60, div. G, title LXXII, §§ 7225(b), 7228(b), title LXXV, § 7511(c), Dec. 18, 2025, 139 Stat. 1705, 1709, 1807, added items 2512 and 2517 to 2519, added item for subtitle III and items 2531 to 2539, and struck out former item 2512 “Leave policies for the Coast Guard”.
 
-2022—Pub. L. 117–263, div. K, title CXIV, § 11410(b), title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4117, 4166, added item 2516 and struck out item for subchapter III “LIGHTHOUSE SERVICE” and items 2531 “Personnel of former Lighthouse Service”, 2532 “Retirement of employees”, 2533 “Surviving spouses”, and 2534 “Application for benefits”.
+2022—Pub. L. 117–263, div. K, title CXIV, § 11410(b), title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4117, 4166, added item 2516 and struck out item for subchapter III “LIGHTHOUSE SERVICE” and items 2531 “Personnel of former Lighthouse Service”, 2532 “Retirement of employees”, 2533 “Surviving spouses”, and 2534 “Application for benefits”.
 
-Pub. L. 117–263, div. K, title CXII, § 11242(b), Dec. 23, 2022, 136 Stat. 4040, which directed amendment of the analysis for this chapter by adding item 2515 “after the item relating to section 2515”, was executed by adding item 2515 after item 2514 to reflect the probable intent of Congress.
+Pub. L. 117–263, div. K, title CXII, § 11242(b), Dec. 23, 2022, 136 Stat. 4040, which directed amendment of the analysis for this chapter by adding item 2515 “after the item relating to section 2515”, was executed by adding item 2515 after item 2514 to reflect the probable intent of Congress.
 
-2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §§ 8204(b), 8215(c)(3), title LVXXXV [LXXXV], §§ 8510(c), 8511(c), Jan. 1, 2021, 134 Stat. 4648, 4652, 4758, 4759, added item 2514, substituted “ADVISORY BOARD ON WOMEN IN THE COAST GUARD” for “LIGHTHOUSE SERVICE” in item for subchapter II and added item 2521, inserted item for subchapter III before item 2531, and added items 2532 to 2534. Item 2514 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item to the analysis for subchapter I of this chapter.
+2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §§ 8204(b), 8215(c)(3), title LVXXXV [LXXXV], §§ 8510(c), 8511(c), Jan. 1, 2021, 134 Stat. 4648, 4652, 4758, 4759, added item 2514, substituted “ADVISORY BOARD ON WOMEN IN THE COAST GUARD” for “LIGHTHOUSE SERVICE” in item for subchapter II and added item 2521, inserted item for subchapter III before item 2531, and added items 2532 to 2534. Item 2514 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item to the analysis for subchapter I of this chapter.
 
-2018—Pub. L. 115–282, title I, § 114(a), Dec. 4, 2018, 132 Stat. 4223, inserted chapter 25 designation and heading and added items 2501 to 2531.
+2018—Pub. L. 115–282, title I, § 114(a), Dec. 4, 2018, 132 Stat. 4223, inserted chapter 25 designation and heading and added items 2501 to 2531.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
@@ -39,13 +39,13 @@ Pub. L. 117–263, div. K, title CXII, § 11242(b), Dec. 23, 2022, 136 Stat. 4
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 114(c)(1), Dec. 4, 2018, 132 Stat. 4224, inserted subchapter I designation and heading.
+2018—Pub. L. 115–282, title I, § 114(c)(1), Dec. 4, 2018, 132 Stat. 4224, inserted subchapter I designation and heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Recruitment, Relocation, and Retention Incentive Program for Civilian Firefighters Employed by Coast Guard Remote Locations**
 
-Pub. L. 119–60, div. G, title LXXII, § 7234, Dec. 18, 2025, 139 Stat. 1715, provided that:
+Pub. L. 119–60, div. G, title LXXII, § 7234, Dec. 18, 2025, 139 Stat. 1715, provided that:
 
 > **“(a) Identification of Remote Locations.—** The Commandant [of the Coast Guard] shall identify locations to be considered remote locations for purposes of this section, which shall include, at a minimum, each Coast Guard fire station located in an area in which members of the Coast Guard and the dependents of such members are eligible for the TRICARE Prime Remote program.
 
@@ -73,7 +73,7 @@ Pub. L. 119–60, div. G, title LXXII, § 7234, Dec. 18, 2025, 139 Stat. 1715,
 
 **Physical Disability Evaluation System Procedure Review**
 
-Pub. L. 117–263, div. K, title CXII, § 11243, Dec. 23, 2022, 136 Stat. 4040, provided that:
+Pub. L. 117–263, div. K, title CXII, § 11243, Dec. 23, 2022, 136 Stat. 4040, provided that:
 
 > **“(a) Study.—**
 
@@ -121,15 +121,15 @@ Pub. L. 117–263, div. K, title CXII, § 11243, Dec. 23, 2022, 136 Stat. 4040
 
 **Policy on Requests for Permanent Changes of Station or Unit Transfers by Persons Who Report Being the Victim of Sexual Assault**
 
-Pub. L. 117–263, div. K, title CXII, § 11273, Dec. 23, 2022, 136 Stat. 4068, which related to policy on requests for permanent changes of station or unit transfers by persons who report being the victim of sexual assault, was transferred and is set out as a note preceding section 2531 of this title.
+Pub. L. 117–263, div. K, title CXII, § 11273, Dec. 23, 2022, 136 Stat. 4068, which related to policy on requests for permanent changes of station or unit transfers by persons who report being the victim of sexual assault, was transferred and is set out as a note preceding section 2531 of this title.
 
 **Sex Offenses and Personnel Records**
 
-Pub. L. 117–263, div. K, title CXII, § 11274, Dec. 23, 2022, 136 Stat. 4068, which related to sex offenses and personnel records, was transferred and is set out as a note preceding section 2531 of this title.
+Pub. L. 117–263, div. K, title CXII, § 11274, Dec. 23, 2022, 136 Stat. 4068, which related to sex offenses and personnel records, was transferred and is set out as a note preceding section 2531 of this title.
 
 **Improvements to Physical Disability Evaluation System and Transition Program**
 
-Pub. L. 117–263, div. K, title CXIV, § 11411, Dec. 23, 2022, 136 Stat. 4117, provided that:
+Pub. L. 117–263, div. K, title CXIV, § 11411, Dec. 23, 2022, 136 Stat. 4117, provided that:
 
 > **“(a) Temporary Policy.—** Not later than 60 days after the date of enactment of this Act [Dec. 23, 2022], the Commandant [of the Coast Guard] shall develop a temporary policy that—
 
@@ -197,7 +197,7 @@ Pub. L. 117–263, div. K, title CXIV, § 11411, Dec. 23, 2022, 136 Stat. 4117
 
 **Strategy to Improve Quality of Life at Remote Units**
 
-Pub. L. 117–263, div. K, title CXIV, § 11419, Dec. 23, 2022, 136 Stat. 4125, as amended by Pub. L. 119–60, div. G, title LXXII, § 7276, Dec. 18, 2025, 139 Stat. 1749, provided that:
+Pub. L. 117–263, div. K, title CXIV, § 11419, Dec. 23, 2022, 136 Stat. 4125, as amended by Pub. L. 119–60, div. G, title LXXII, § 7276, Dec. 18, 2025, 139 Stat. 1749, provided that:
 
 > **“(a) In General.—** Not more than 180 days after the date of enactment of the Coast Guard Authorization Act of 2026 [probably should be “Coast Authorization Act of 2025”, which was approved Dec. 18, 2025], the Commandant [of the Coast Guard] shall develop a detailed written strategy to improve the quality of life for members of the Coast Guard and their dependents who are stationed in remote units.
 
@@ -247,7 +247,7 @@ Pub. L. 117–263, div. K, title CXIV, § 11419, Dec. 23, 2022, 136 Stat. 4125
 
 > **“(f) Remote Unit Defined.—** In this section, the term ‘remote unit’ means a unit located in an area in which members of the Coast Guard and their dependents are eligible for TRICARE Prime Remote.”
 
-### § 2501. Grade on retirement
+### § 2501. Grade on retirement
 
 **(a) Commissioned Officers.—**
 
@@ -301,21 +301,21 @@ Pub. L. 117–263, div. K, title CXIV, § 11419, Dec. 23, 2022, 136 Stat. 4125
 
 **(e) Inapplicability to Commissioned Warrant Officers.—** This section, including subsection (b), shall not apply to commissioned warrant officers.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 190, § 334; amended Pub. L. 89–444, § 1(19), June 9, 1966, 80 Stat. 196; Pub. L. 99–348, title II, § 205(b)(7), July 1, 1986, 100 Stat. 700; Pub. L. 102–190, div. A, title XI, § 1125(b)(2), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, § 541(f)(3), Oct. 5, 1994, 108 Stat. 2766; renumbered § 2501, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8201(c), Jan. 1, 2021, 134 Stat. 4641; Pub. L. 119–60, div. G, title LXXII, § 7224(a), Dec. 18, 2025, 139 Stat. 1702.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 190, § 334; amended Pub. L. 89–444, § 1(19), June 9, 1966, 80 Stat. 196; Pub. L. 99–348, title II, § 205(b)(7), July 1, 1986, 100 Stat. 700; Pub. L. 102–190, div. A, title XI, § 1125(b)(2), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, § 541(f)(3), Oct. 5, 1994, 108 Stat. 2766; renumbered § 2501, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8201(c), Jan. 1, 2021, 134 Stat. 4641; Pub. L. 119–60, div. G, title LXXII, § 7224(a), Dec. 18, 2025, 139 Stat. 1702.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (d)(2)(B). Pub. L. 119–60, § 7224(a)(1), inserted “a” before “competent authority”.
+2025—Subsec. (d)(2)(B). Pub. L. 119–60, § 7224(a)(1), inserted “a” before “competent authority”.
 
-Subsec. (d)(2)(C) to (H). Pub. L. 119–60, § 7224(a)(2), added subpars. (C) to (E) and redesignated former subpars. (C) to (E) as (F) to (H), respectively.
+Subsec. (d)(2)(C) to (H). Pub. L. 119–60, § 7224(a)(2), added subpars. (C) to (E) and redesignated former subpars. (C) to (E) as (F) to (H), respectively.
 
-2021—Subsec. (a). Pub. L. 116–283, § 8201(c)(1), designated existing provisions as par. (1), inserted subsec. heading and par. (1) heading, substituted “A commissioned officer” for “Any commissioned officer, other than a commissioned warrant officer,”, “the commissioned officer” for “him”, and “the commissioned officer’s” for “his”, and added par. (2).
+2021—Subsec. (a). Pub. L. 116–283, § 8201(c)(1), designated existing provisions as par. (1), inserted subsec. heading and par. (1) heading, substituted “A commissioned officer” for “Any commissioned officer, other than a commissioned warrant officer,”, “the commissioned officer” for “him”, and “the commissioned officer’s” for “his”, and added par. (2).
 
-Subsec. (b). Pub. L. 116–283, § 8201(c)(2), inserted heading and substituted “the warrant officer” for “him” and “the warrant officer’s” for “his”.
+Subsec. (b). Pub. L. 116–283, § 8201(c)(2), inserted heading and substituted “the warrant officer” for “him” and “the warrant officer’s” for “his”.
 
-Subsecs. (c) to (e). Pub. L. 116–283, § 8201(c)(3), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 116–283, § 8201(c)(3), added subsecs. (c) to (e).
 
 2018—Pub. L. 115–282 renumbered section 334 of this title as this section.
 
@@ -323,9 +323,9 @@ Subsecs. (c) to (e). Pub. L. 116–283, § 8201(c)(3), added subsecs. (c) to (
 
 1991—Subsec. (b). Pub. L. 102–190 substituted “section 564 of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act) or 1263, 1293, or 1305 of title 10” for “section 564, 1263, 1293, or 1305 of title 10”.
 
-1986—Subsec. (a). Pub. L. 99–348, § 205(b)(7)(A), struck out “, with retired pay of the grade with which retired” after “satisfactory”.
+1986—Subsec. (a). Pub. L. 99–348, § 205(b)(7)(A), struck out “, with retired pay of the grade with which retired” after “satisfactory”.
 
-Subsec. (b). Pub. L. 99–348, § 205(b)(7), struck out “, with retired pay of the grade with which retired” after “satisfactory” and struck out provision that when the rate of pay of such highest grade is less than the pay of the warrant grade with which the officer would otherwise be retired under section 1371 of title 10, the retired pay was to be based on the higher rate of pay.
+Subsec. (b). Pub. L. 99–348, § 205(b)(7), struck out “, with retired pay of the grade with which retired” after “satisfactory” and struck out provision that when the rate of pay of such highest grade is less than the pay of the warrant grade with which the officer would otherwise be retired under section 1371 of title 10, the retired pay was to be based on the higher rate of pay.
 
 1966—Pub. L. 89–444 substituted “Grade on retirement” for “Retirement in cases where higher grade has been held” in section catchline.
 
@@ -341,7 +341,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 **Modifications and Revisions Relating to Reopening Retired Grade Determinations**
 
-Pub. L. 119–60, div. G, title LXXII, § 7224(b)–(d), Dec. 18, 2025, 139 Stat. 1703, provided that:
+Pub. L. 119–60, div. G, title LXXII, § 7224(b)–(d), Dec. 18, 2025, 139 Stat. 1703, provided that:
 
 > **“(b) Issuance and Revision of Regulations Relating to Good Cause to Reopen Retired Grade Determinations.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Secretary of the department in which the Coast Guard is operating shall issue or revise, as applicable, and at the discretion of the Secretary consistent with this section, regulations of the Coast Guard to do the following:
 
@@ -361,13 +361,13 @@ Pub. L. 119–60, div. G, title LXXII, § 7224(b)–(d), Dec. 18, 2025, 139 St
 
 > **“(d) Savings Clause.—** No provision of this section [amending this section and enacting this note] or the amendments made by this section shall be construed to permit a review of conduct that was not in violation of law or policy at the time of the alleged conduct.”
 
-### § 2502. Retirement
+### § 2502. Retirement
 
 **(a)** Every commissioned officer, warrant officer, or enlisted member who is retired under any provisions of this title shall be retired with the permanent grade or rate held at the time of retirement, unless entitled to retire with a higher grade or rate under any provision of this title or any other law.
 
 **(b)** Where an officer is entitled, under any provision of law, to retire with one grade higher than the grade in which serving at the time of retirement, the next higher grade in the case of captain shall be rear admiral (lower half), and the next higher grade in the case of commissioned warrant officer shall be lieutenant (junior grade).
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 524, § 421; Pub. L. 97–417, § 2(10), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, § 15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 99–348, title II, § 205(b)(10), July 1, 1986, 100 Stat. 700; renumbered § 2502, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 524, § 421; Pub. L. 97–417, § 2(10), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, § 15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 99–348, title II, § 205(b)(10), July 1, 1986, 100 Stat. 700; renumbered § 2502, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
 
 **Historical and Revision Notes**
 
@@ -379,7 +379,7 @@ The other provisions of said section are obsolete and are no longer needed.
 
 Subsection (a) is new, but the provision contained in it is expressed or implied in numerous statutes relating to retirement of military personnel. It is believed desirable to include such a provision to prevent any misconstruction of retirement statutes, even though no change in existing law is intended on the point covered, either by other sections dealing with retirement or by this section.
 
-Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946 ed., § 174, that it is desired to retain, and in addition designated the next higher grade for commissioned warrant officers as lieutenant (junior grade) because the pay of the commissioned warrant officers is the same as for the grade of lieutenant (junior grade) and advancing such officers to the grade of ensign would in some aspects not appear to be a promotion. 81st Congress, House Report No. 557.
+Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946 ed., § 174, that it is desired to retain, and in addition designated the next higher grade for commissioned warrant officers as lieutenant (junior grade) because the pay of the commissioned warrant officers is the same as for the grade of lieutenant (junior grade) and advancing such officers to the grade of ensign would in some aspects not appear to be a promotion. 81st Congress, House Report No. 557.
 
 **Editorial Notes**
 
@@ -399,7 +399,7 @@ Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946
 
 **Report on Resignation and Retirement Processing Times and Denial**
 
-Pub. L. 117–263, div. K, title CXII, § 11241, Dec. 23, 2022, 136 Stat. 4039, provided that:
+Pub. L. 117–263, div. K, title CXII, § 11241, Dec. 23, 2022, 136 Stat. 4039, provided that:
 
 > **“(a) In General.—** Not later than 30 days after the date of enactment of this Act [Dec. 23, 2022], and annually thereafter, the Commandant [of the Coast Guard] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that evaluates resignation and retirement processing timelines.
 
@@ -415,11 +415,11 @@ Pub. L. 117–263, div. K, title CXII, § 11241, Dec. 23, 2022, 136 Stat. 4039
 
 > **“(5)** for each denial of a request for a command endorsement and each failure to take action on such a request, a detailed description of the rationale for such denial or failure to take such action.”
 
-### § 2503. Status of recalled personnel
+### § 2503. Status of recalled personnel
 
 All retired personnel when recalled to active duty shall serve in the grade or rate in which they were serving at the time of retirement.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 524, § 422; Pub. L. 99–348, title II, § 205(b)(10), July 1, 1986, 100 Stat. 700; renumbered § 2503, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 524, § 422; Pub. L. 99–348, title II, § 205(b)(10), July 1, 1986, 100 Stat. 700; renumbered § 2503, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
 
 **Historical and Revision Notes**
 
@@ -433,7 +433,7 @@ This provision is desirable because many enlisted men and low-ranking officers m
 
 1986—Pub. L. 99–348 substituted “rate” for “rating”.
 
-### § 2504. Computation of retired pay
+### § 2504. Computation of retired pay
 
 **(a)**
 
@@ -471,11 +471,11 @@ This provision is desirable because many enlisted men and low-ranking officers m
 
 **(d)** In addition to amounts computed pursuant to subsections (a) through (c) of this section, a full TSP member (as defined in section 8440e(a) of title 5) of the Coast Guard is entitled to continuation pay pursuant to section 356 of title 37.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 525, § 423; Aug. 3, 1950, ch. 536, § 23, 64 Stat. 407; Pub. L. 85–422, § 11(b), May 20, 1958, 72 Stat. 132; Pub. L. 88–132, § 5(i), Oct. 2, 1963, 77 Stat. 214; Pub. L. 92–455, § 2, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, § 813(f)(2), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 97–295, § 2(12), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–94, title IX, §§ 922(b), 923(d), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 98–557, § 15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–348, title II, § 205(a), July 1, 1986, 100 Stat. 699; Pub. L. 115–141, div. F, title II, § 225, Mar. 23, 2018, 132 Stat. 616; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(13), Aug. 13, 2018, 132 Stat. 2320; renumbered § 2504, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 525, § 423; Aug. 3, 1950, ch. 536, § 23, 64 Stat. 407; Pub. L. 85–422, § 11(b), May 20, 1958, 72 Stat. 132; Pub. L. 88–132, § 5(i), Oct. 2, 1963, 77 Stat. 214; Pub. L. 92–455, § 2, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, § 813(f)(2), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 97–295, § 2(12), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–94, title IX, §§ 922(b), 923(d), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 98–557, § 15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–348, title II, § 205(a), July 1, 1986, 100 Stat. 699; Pub. L. 115–141, div. F, title II, § 225, Mar. 23, 2018, 132 Stat. 616; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(13), Aug. 13, 2018, 132 Stat. 2320; renumbered § 2504, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
 
 **Historical and Revision Notes**
 
-Based on title 14, U.S.C., 1946 ed., §§ 162a, 167, 175c, 185d (Apr. 12, 1902, ch. 501, § 9, 32 Stat. 101; Jan. 12, 1938, ch. 3, § 3, 52 Stat. 5; May 24, 1939, ch. 146, § 5, 53 Stat. 756; Feb. 21, 1946, ch. 34, § 10, 60 Stat. 29).
+Based on title 14, U.S.C., 1946 ed., §§ 162a, 167, 175c, 185d (Apr. 12, 1902, ch. 501, § 9, 32 Stat. 101; Jan. 12, 1938, ch. 3, § 3, 52 Stat. 5; May 24, 1939, ch. 146, § 5, 53 Stat. 756; Feb. 21, 1946, ch. 34, § 10, 60 Stat. 29).
 
 Section was enlarged to include computation of retired pay in all situations. It is in accord with the provisions of Navy statutes. 81st Congress, House Report No. 557.
 
@@ -493,9 +493,9 @@ Subsec. (d). Pub. L. 115–141 added subsec. (d).
 
 1984—Subsec. (a). Pub. L. 98–557 substituted reference to enlisted member concerned for reference to enlisted man concerned.
 
-1983—Subsec. (a). Pub. L. 98–94, § 923(d), substituted “In computing the number of years of service by which the rate of 2½ percent is multiplied, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “A fractional year of six months or more shall be considered a full year in computing the number of years of service by which the rate of 2½ percent is multiplied”.
+1983—Subsec. (a). Pub. L. 98–94, § 923(d), substituted “In computing the number of years of service by which the rate of 2½ percent is multiplied, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “A fractional year of six months or more shall be considered a full year in computing the number of years of service by which the rate of 2½ percent is multiplied”.
 
-Pub. L. 98–94, § 922(b), inserted “Retired pay, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+Pub. L. 98–94, § 922(b), inserted “Retired pay, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
 1982—Subsec. (b). Pub. L. 97–295 substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981”.
 
@@ -523,15 +523,15 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 **Effective Date of 1958 Amendment**
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see Pub. L. 85–422, § 9, May 20, 1958, 72 Stat. 130.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see Pub. L. 85–422, § 9, May 20, 1958, 72 Stat. 130.
 
-### § 2505. Limitations on retirement and retired pay
+### § 2505. Limitations on retirement and retired pay
 
 **(a)** The provisions of any section of this title shall not be construed so as to prevent any member from being placed on the retired list with the highest grade or rate and the highest retired pay to which the member may be entitled under the provisions of any other section of this title or under any other law.
 
 **(b)** In no case may the retired pay of a member exceed 75 percent of (1) the sum of the active-duty pay and all permanent additions thereto (including longevity credit to which the member is entitled) of the grade or rate on which the member’s pay is computed, or (2) the retired pay base determined under section 1407 of title 10, as appropriate.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 525, § 424; Pub. L. 98–557, § 15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–348, title II, § 205(b)(11), July 1, 1986, 100 Stat. 700; renumbered § 2505, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 525, § 424; Pub. L. 98–557, § 15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–348, title II, § 205(b)(11), July 1, 1986, 100 Stat. 700; renumbered § 2505, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
 
 **Historical and Revision Notes**
 
@@ -547,11 +547,11 @@ The two provisions of this section are considered desirable as safeguards to eli
 
 1984—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man in four places.
 
-### § 2506. Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution
+### § 2506. Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution
 
 Under procedures prescribed by the Secretary, the Secretary may suspend the payment of the retired pay of a member or former member during periods in which the member willfully remains outside the United States to avoid criminal prosecution or civil liability. The procedures shall address the types of criminal offenses and civil proceedings for which the procedures may be used, including the offenses specified in section 8312 of title 5, and the manner by which a member, upon the return of the member to the United States, may obtain retired pay withheld during the member’s absence.
 
-(Added Pub. L. 107–295, title IV, § 444(a), Nov. 25, 2002, 116 Stat. 2132, § 424a; renumbered § 2506, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Added Pub. L. 107–295, title IV, § 444(a), Nov. 25, 2002, 116 Stat. 2132, § 424a; renumbered § 2506, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
 
 **Editorial Notes**
 
@@ -559,7 +559,7 @@ Under procedures prescribed by the Secretary, the Secretary may suspend the paym
 
 2018—Pub. L. 115–282 renumbered section 424a of this title as this section.
 
-### § 2507. Board for Correction of Military Records deadline
+### § 2507. Board for Correction of Military Records deadline
 
 **(a) Deadline for Completion of Action.—** The Secretary shall complete processing of an application for correction of military records under section 1552 of title 10 by not later than 10 months after the date the Secretary receives the completed application.
 
@@ -573,7 +573,7 @@ Under procedures prescribed by the Secretary, the Secretary may suspend the paym
 
 **(B)** from amounts appropriated to the department in which the Coast Guard is operating, the costs of obtaining the order, including a reasonable attorney’s fee.
 
-(Added Pub. L. 104–324, title II, § 209(a), Oct. 19, 1996, 110 Stat. 3914, § 425; renumbered § 2507, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Added Pub. L. 104–324, title II, § 209(a), Oct. 19, 1996, 110 Stat. 3914, § 425; renumbered § 2507, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
 
 **Editorial Notes**
 
@@ -585,13 +585,13 @@ Under procedures prescribed by the Secretary, the Secretary may suspend the paym
 
 **Effective Date**
 
-Pub. L. 104–324, § 209(d), Oct. 19, 1996, 110 Stat. 3914, provided that: “This section [enacting this section and provisions set out as a note below] shall be effective on and after June 12, 1990.”
+Pub. L. 104–324, § 209(d), Oct. 19, 1996, 110 Stat. 3914, provided that: “This section [enacting this section and provisions set out as a note below] shall be effective on and after June 12, 1990.”
 
 **Special Right of Applications After Deadline for Completion of Board Action**
 
-Pub. L. 104–324, § 209(c), Oct. 19, 1996, 110 Stat. 3914, provided that: “This section [enacting this section and provisions set out as a note above] applies to any applicant who had an application filed with or pending before the Board or the Secretary of the department in which the Coast Guard is operating on or after June 12, 1990, who files with the Board for Correction of Military Records of the Coast Guard an application for relief under the amendment made by subsection (a) [enacting this section]. If a recommended decision was modified or reversed on review with final agency action occurring after expiration of the 10-month deadline under that amendment, an applicant who so requests shall have the order in the final decision vacated and receive the relief granted in the recommended decision if the Coast Guard has the legal authority to grant such relief. The recommended decision shall otherwise have no effect as precedent.”
+Pub. L. 104–324, § 209(c), Oct. 19, 1996, 110 Stat. 3914, provided that: “This section [enacting this section and provisions set out as a note above] applies to any applicant who had an application filed with or pending before the Board or the Secretary of the department in which the Coast Guard is operating on or after June 12, 1990, who files with the Board for Correction of Military Records of the Coast Guard an application for relief under the amendment made by subsection (a) [enacting this section]. If a recommended decision was modified or reversed on review with final agency action occurring after expiration of the 10-month deadline under that amendment, an applicant who so requests shall have the order in the final decision vacated and receive the relief granted in the recommended decision if the Coast Guard has the legal authority to grant such relief. The recommended decision shall otherwise have no effect as precedent.”
 
-### § 2508. Emergency leave retention authority
+### § 2508. Emergency leave retention authority
 
 **(a) In General.—** A duty assignment for an active duty member of the Coast Guard in support of a declaration of a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or in response to a spill of national significance shall be treated, for the purpose of section 701(e) of title 10, as a duty assignment in support of a contingency operation.
 
@@ -601,13 +601,13 @@ Pub. L. 104–324, § 209(c), Oct. 19, 1996, 110 Stat. 3914, provided that: �
 
 **(2) Discharge.—** The term “discharge” has the meaning given that term in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701).
 
-(Added Pub. L. 111–281, title II, § 207(a), Oct. 15, 2010, 124 Stat. 2912, § 426; renumbered § 2508, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; amended Pub. L. 117–263, div. A, title VI, § 631(c)(1), Dec. 23, 2022, 136 Stat. 2631.)
+(Added Pub. L. 111–281, title II, § 207(a), Oct. 15, 2010, 124 Stat. 2912, § 426; renumbered § 2508, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; amended Pub. L. 117–263, div. A, title VI, § 631(c)(1), Dec. 23, 2022, 136 Stat. 2631.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
@@ -623,9 +623,9 @@ Amendment by Pub. L. 117–232 effective Jan. 1, 2023, see section 631(d) of Pub
 
 **Effective Date**
 
-Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provided that: “The amendments made by this section [enacting this section] shall be deemed to have been enacted on April 19, 2010.”
+Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provided that: “The amendments made by this section [enacting this section] shall be deemed to have been enacted on April 19, 2010.”
 
-### § 2509. Prohibition of certain involuntary administrative separations
+### § 2509. Prohibition of certain involuntary administrative separations
 
 **(a) In General.—** Except as provided in subsection (b), the Secretary may not authorize the involuntary administrative separation of a covered individual based on a determination that the covered individual is unsuitable for deployment or other assignment due to a medical condition of the covered individual considered by a Physical Evaluation Board during an evaluation of the covered individual that resulted in the covered individual being determined to be fit for duty.
 
@@ -637,7 +637,7 @@ Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provide
 
 **(c) Covered Individual Defined.—** In this section, the term “covered individual” means any member of the Coast Guard who has been determined by a Physical Evaluation Board, pursuant to a physical evaluation by that board, to be fit for duty.
 
-(Added Pub. L. 112–213, title II, § 209(a), Dec. 20, 2012, 126 Stat. 1549, § 427; amended Pub. L. 114–120, title II, § 209(6), Feb. 8, 2016, 130 Stat. 41; renumbered § 2509, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Added Pub. L. 112–213, title II, § 209(a), Dec. 20, 2012, 126 Stat. 1549, § 427; amended Pub. L. 114–120, title II, § 209(6), Feb. 8, 2016, 130 Stat. 41; renumbered § 2509, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
 
 **Editorial Notes**
 
@@ -647,7 +647,7 @@ Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provide
 
 2016—Subsec. (b)(2). Pub. L. 114–120 substituted “chapter 61 of title 10” for “this chapter”.
 
-### § 2510. Sea service letters
+### § 2510. Sea service letters
 
 **(a) In General.—** The Secretary shall provide a sea service letter to a member or former member of the Coast Guard who—
 
@@ -657,17 +657,17 @@ Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provide
 
 **(b) Deadline.—** Not later than 30 days after receiving a request for a sea service letter from a member or former member of the Coast Guard under subsection (a), the Secretary shall provide such letter to such member or former member if such member or former member satisfies the requirement under subsection (a)(1).
 
-(Added Pub. L. 113–281, title III, § 305(b)(1), Dec. 18, 2014, 128 Stat. 3044, § 428; renumbered § 2510 and amended Pub. L. 115–282, title I, § 114(b), title III, § 318(c), Dec. 4, 2018, 132 Stat. 4223, 4252.)
+(Added Pub. L. 113–281, title III, § 305(b)(1), Dec. 18, 2014, 128 Stat. 3044, § 428; renumbered § 2510 and amended Pub. L. 115–282, title I, § 114(b), title III, § 318(c), Dec. 4, 2018, 132 Stat. 4223, 4252.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 114(b), renumbered section 428 of this title as this section.
+2018—Pub. L. 115–282, § 114(b), renumbered section 428 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 115–282, § 318(c), substituted “Armed Forces” for “armed forces” and “section 527(e)” for “section 101(a) of title 10”.
+Subsec. (a)(1). Pub. L. 115–282, § 318(c), substituted “Armed Forces” for “armed forces” and “section 527(e)” for “section 101(a) of title 10”.
 
-### § 2511. Investigations of flag officers and Senior Executive Service employees
+### § 2511. Investigations of flag officers and Senior Executive Service employees
 
 In conducting an investigation into an allegation of misconduct by a flag officer or member of the Senior Executive Service serving in the Coast Guard, the Inspector General of the Department of Homeland Security shall—
 
@@ -675,7 +675,7 @@ In conducting an investigation into an allegation of misconduct by a flag office
 
 **(2)** consult with the Inspector General of the Department of Defense.
 
-(Added Pub. L. 114–120, title II, § 220(a), Feb. 8, 2016, 130 Stat. 48, § 430; renumbered § 2511, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Added Pub. L. 114–120, title II, § 220(a), Feb. 8, 2016, 130 Stat. 48, § 430; renumbered § 2511, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223.)
 
 **Editorial Notes**
 
@@ -683,7 +683,7 @@ In conducting an investigation into an allegation of misconduct by a flag office
 
 2018—Pub. L. 115–282 renumbered section 430 of this title as this section.
 
-### § 2512. Family leave policies for the Coast Guard
+### § 2512. Family leave policies for the Coast Guard
 
 **(a) In General.—** Except as provided in subsection (b), not later than 1 year after the date on which the Secretary of the Navy promulgates a new rule, policy, or memorandum pursuant to section 704 of title 10 or, with respect to the reserve component of the Coast Guard, the Secretary of Defense promulgates a new regulation for members of the reserve component of the Coast Guard pursuant to section 711 of title 10, with respect to leave associated with the birth or placement of a minor child with the member for adoption or long term foster care, the Secretary of the department in which the Coast Guard is operating shall promulgate a similar rule, policy, or memorandum that provides leave to officers, enlisted members, and members of the reserve component of the Coast Guard that is equal in duration and compensation to that provided by the Secretary of the Navy or, with respect to members of the reserve component of the Coast Guard, the Secretary of Defense.
 
@@ -695,13 +695,13 @@ In conducting an investigation into an allegation of misconduct by a flag office
 
 **(c) Period of Leave.—**
 
-**(1) In general.—** The Secretary of the department in which the Coast Guard is operating, may authorize leave described under subparagraph 1
+**(1) In general.—** The Secretary of the department in which the Coast Guard is operating, may authorize leave described under subparagraph 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
-(b) to be taken after the one-year period described in subparagraph 1 (b) in the case of a member described in subsection (b) who, except for this subparagraph 1, would lose unused family leave at the end of the one-year period described in subparagraph (A) 2
+(b) to be taken after the one-year period described in subparagraph 1 (b) in the case of a member described in subsection (b) who, except for this subparagraph 1, would lose unused family leave at the end of the one-year period described in subparagraph (A) 2
 
-<sup>2</sup>  So in original. Probably should be “subsection (b)”.
+<sup>2</sup> So in original. Probably should be “subsection (b)”.
 
 as a result of—
 
@@ -711,7 +711,7 @@ as a result of—
 
 **(C)** other circumstances that the Secretary determines reasonable and appropriate.
 
-**(2) Extended deadline.—** The regulation, rule, policy, or memorandum prescribed under paragraph <sup>1</sup> (a) shall require that any leave authorized to be taken after the one-year period described in subparagraph (c)(1)(A) <sup>2</sup> shall be taken within a reasonable period of time, as determined by the Secretary of the department in which the Coast Guard is operating, after cessation of the circumstances warranting the extended deadline.
+**(2) Extended deadline.—** The regulation, rule, policy, or memorandum prescribed under paragraph <sup>1</sup> (a) shall require that any leave authorized to be taken after the one-year period described in subparagraph (c)(1)(A) <sup>2</sup> shall be taken within a reasonable period of time, as determined by the Secretary of the department in which the Coast Guard is operating, after cessation of the circumstances warranting the extended deadline.
 
 **(d) Member of the Reserve Component of the Coast Guard Defined.—** In this section, the term “member of the reserve component of the Coast Guard” means a member of the Coast Guard who is a member of—
 
@@ -719,39 +719,39 @@ as a result of—
 
 **(2)** the individual ready reserve who is entitled to compensation under section 206 of title 37 when attending or participating in a sufficient number of periods of inactive-duty training during a year to count the year as a qualifying year of creditable service toward eligibility for retired pay.
 
-(Added Pub. L. 114–120, title II, § 222(a), Feb. 8, 2016, 130 Stat. 49, § 431; renumbered § 2512 and amended Pub. L. 115–282, title I, § 114(b), title III, § 315(a), Dec. 4, 2018, 132 Stat. 4223, 4250; Pub. L. 119–60, div. G, title LXXII, § 7225(a), Dec. 18, 2025, 139 Stat. 1703.)
+(Added Pub. L. 114–120, title II, § 222(a), Feb. 8, 2016, 130 Stat. 49, § 431; renumbered § 2512 and amended Pub. L. 115–282, title I, § 114(b), title III, § 315(a), Dec. 4, 2018, 132 Stat. 4223, 4250; Pub. L. 119–60, div. G, title LXXII, § 7225(a), Dec. 18, 2025, 139 Stat. 1703.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7225(a)(1), substituted “Family leave” for “Leave” in section catchline.
+2025—Pub. L. 119–60, § 7225(a)(1), substituted “Family leave” for “Leave” in section catchline.
 
-Subsec. (a). Pub. L. 119–60, § 7225(a)(2), substituted “or, with respect to the reserve component of the Coast Guard, the Secretary of Defense promulgates a new regulation for members of the reserve component of the Coast Guard pursuant to section 711 of title 10,” for “, United States Code,”, “or placement of a minor child with the member for adoption or long term foster care” for “or adoption of a child”, and “, enlisted members, and members of the reserve component” for “and enlisted members”, and inserted “or, with respect to members of the reserve component of the Coast Guard, the Secretary of Defense” after “provided by the Secretary of the Navy”.
+Subsec. (a). Pub. L. 119–60, § 7225(a)(2), substituted “or, with respect to the reserve component of the Coast Guard, the Secretary of Defense promulgates a new regulation for members of the reserve component of the Coast Guard pursuant to section 711 of title 10,” for “, United States Code,”, “or placement of a minor child with the member for adoption or long term foster care” for “or adoption of a child”, and “, enlisted members, and members of the reserve component” for “and enlisted members”, and inserted “or, with respect to members of the reserve component of the Coast Guard, the Secretary of Defense” after “provided by the Secretary of the Navy”.
 
-Subsec. (b). Pub. L. 119–60, § 7225(a)(3), substituted, in heading, “Placement of Minor Child With Member for Adoption or Long Term Foster Care” for “Adoption of Child”, and, in introductory provisions, “, 704, and 711” for “and 704”, “, enlisted members, and members of the reserve component” for “and enlisted members”, “the birth, adoption, or long term foster care” for “the birth or adoption”, “following such birth, placement of a minor child with the member for long-term foster care, or adoption,” for “immediately following such birth or adoption”, and “, enlisted member, or member of the reserve component” for “enlisted member”.
+Subsec. (b). Pub. L. 119–60, § 7225(a)(3), substituted, in heading, “Placement of Minor Child With Member for Adoption or Long Term Foster Care” for “Adoption of Child”, and, in introductory provisions, “, 704, and 711” for “and 704”, “, enlisted members, and members of the reserve component” for “and enlisted members”, “the birth, adoption, or long term foster care” for “the birth or adoption”, “following such birth, placement of a minor child with the member for long-term foster care, or adoption,” for “immediately following such birth or adoption”, and “, enlisted member, or member of the reserve component” for “enlisted member”.
 
-Subsecs. (c), (d). Pub. L. 119–60, § 7225(a)(4), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 119–60, § 7225(a)(4), added subsecs. (c) and (d).
 
-2018—Pub. L. 115–282, § 315(a), designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), not later than 1 year” for “Not later than 1 year”, and added subsec. (b).
+2018—Pub. L. 115–282, § 315(a), designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), not later than 1 year” for “Not later than 1 year”, and added subsec. (b).
 
-Pub. L. 115–282, § 114(b), renumbered section 431 of this title as this section.
+Pub. L. 115–282, § 114(b), renumbered section 431 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Flexible Work Schedules**
 
-Pub. L. 115–282, title III, § 315(b), Dec. 4, 2018, 132 Stat. 4250, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall ensure that a flexible work schedule program under chapter 61 of title 5, United States Code, is in place for officers and enlisted members of the Coast Guard.”
+Pub. L. 115–282, title III, § 315(b), Dec. 4, 2018, 132 Stat. 4250, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall ensure that a flexible work schedule program under chapter 61 of title 5, United States Code, is in place for officers and enlisted members of the Coast Guard.”
 
-### § 2513. Computation of length of service
+### § 2513. Computation of length of service
 
 In computing length of service of officers and enlisted personnel for any purpose all creditable service in the Army, Navy, Marine Corps, Air Force, Space Force, Coast Guard, Revenue Cutter Service, and Life Saving Service shall be included in addition to any other creditable service authorized by any other law.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 531, § 467; renumbered § 2513, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; Pub. L. 116–283, div. A, title IX, § 927(b)(2), Jan. 1, 2021, 134 Stat. 3831.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 531, § 467; renumbered § 2513, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; Pub. L. 116–283, div. A, title IX, § 927(b)(2), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Historical and Revision Notes**
 
-Based on title 14, U.S.C., 1946 ed., § 2 (Jan. 28, 1915, ch. 20, § 3, 38 Stat. 801).
+Based on title 14, U.S.C., 1946 ed., § 2 (Jan. 28, 1915, ch. 20, § 3, 38 Stat. 801).
 
 The Air Force is added in the enumeration of services.
 
@@ -767,7 +767,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 2018—Pub. L. 115–282 renumbered section 467 of this title as this section.
 
-### § 2514. Career flexibility to enhance retention of members
+### § 2514. Career flexibility to enhance retention of members
 
 **(a) Programs Authorized.—** The Commandant may carry out a program under which members of the Coast Guard may be inactivated from active duty in order to meet personal or professional needs and returned to active duty at the end of such period of inactivation from active duty.
 
@@ -829,9 +829,9 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 **(4) Travel and transportation allowance.—**
 
-**(A) In general.—** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 1
+**(A) In general.—** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 37 for—
 
@@ -881,25 +881,25 @@ of title 37 for—
 
 **(C)** Coast Guard legal resources, including, to the extent practicable, special victims’ counsel.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8204(a), Jan. 1, 2021, 134 Stat. 4645; amended Pub. L. 119–60, div. G, title LXXII, § 7226, Dec. 18, 2025, 139 Stat. 1705.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8204(a), Jan. 1, 2021, 134 Stat. 4645; amended Pub. L. 119–60, div. G, title LXXII, § 7226, Dec. 18, 2025, 139 Stat. 1705.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 474 of title 37, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+Section 474 of title 37, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 **Amendments**
 
-2025—Subsec. (c)(3). Pub. L. 119–60, § 7226(1), substituted “30 days” for “2 months”.
+2025—Subsec. (c)(3). Pub. L. 119–60, § 7226(1), substituted “30 days” for “2 months”.
 
-Subsec. (h)(3) to (6). Pub. L. 119–60, § 7226(2), added pars. (3) to (6).
+Subsec. (h)(3) to (6). Pub. L. 119–60, § 7226(2), added pars. (3) to (6).
 
-### § 2515. Calculation of active service
+### § 2515. Calculation of active service
 
 Any service described, including service described prior to the date of enactment of the Don Young Coast Guard Authorization Act of 2022, in writing, including by electronic communication, by a representative of the Coast Guard Personnel Service Center as service that counts toward total active service for regular retirement under section 2152 or section 2306 shall be considered by the President as active service for purposes of applying section 2152 or section 2306 with respect to the determination of the retirement qualification for any officer or enlisted member to whom a description was provided.
 
-(Added Pub. L. 117–263, div. K, title CXII, § 11242(a), Dec. 23, 2022, 136 Stat. 4040.)
+(Added Pub. L. 117–263, div. K, title CXII, § 11242(a), Dec. 23, 2022, 136 Stat. 4040.)
 
 **Editorial Notes**
 
@@ -911,7 +911,7 @@ The date of enactment of the Don Young Coast Guard Authorization Act of 2022, re
 
 **Rule of Construction**
 
-Pub. L. 117–263, div. K, title CXII, § 11242(c), Dec. 23, 2022, 136 Stat. 4040, provided that:
+Pub. L. 117–263, div. K, title CXII, § 11242(c), Dec. 23, 2022, 136 Stat. 4040, provided that:
 
 > “The amendment made by subsection (a) [enacting this section]—
 
@@ -919,7 +919,7 @@ Pub. L. 117–263, div. K, title CXII, § 11242(c), Dec. 23, 2022, 136 Stat. 4
 
 > **“(2)** shall not apply to any member of any other uniformed service, or to any Coast Guard member regarding active service of the member in any other uniformed service.”
 
-### § 2516. Members asserting post-traumatic stress disorder or traumatic brain injury
+### § 2516. Members asserting post-traumatic stress disorder or traumatic brain injury
 
 **(a) Medical Examination Required.—**
 
@@ -953,7 +953,7 @@ Pub. L. 117–263, div. K, title CXII, § 11242(c), Dec. 23, 2022, 136 Stat. 4
 
 **(c) Inapplicability to Proceedings Under Uniform Code of Military Justice.—** The medical examination and procedures required by this section do not apply to courts-martial or other proceedings conducted pursuant to the Uniform Code of Military Justice.
 
-**[(d)** Repealed. Pub. L. 119–60, div. G, title LXXII, § 7201(k)(1)(B), Dec. 18, 2025, 139 Stat. 1687.]
+**[(d)** Repealed. Pub. L. 119–60, div. G, title LXXII, § 7201(k)(1)(B), Dec. 18, 2025, 139 Stat. 1687.]
 
 **(e) Notification of Right to Request Medical Examination.—**
 
@@ -965,21 +965,21 @@ Pub. L. 117–263, div. K, title CXII, § 11242(c), Dec. 23, 2022, 136 Stat. 4
 
 **(B)** provide information on such policy to sexual assault response coordinators of the Coast Guard for the purpose of ensuring that such policy is communicated to members of the Coast Guard who may be eligible for a medical examination under this section.
 
-(Added Pub. L. 117–263, div. K, title CXIV, § 11410(a), Dec. 23, 2022, 136 Stat. 4116; amended Pub. L. 119–60, div. G, title LXXII, §§ 7201(k)(1), 7227, Dec. 18, 2025, 139 Stat. 1687, 1705.)
+(Added Pub. L. 117–263, div. K, title CXIV, § 11410(a), Dec. 23, 2022, 136 Stat. 4116; amended Pub. L. 119–60, div. G, title LXXII, §§ 7201(k)(1), 7227, Dec. 18, 2025, 139 Stat. 1687, 1705.)
 
 **Editorial Notes**
 
-2025—Subsec. (a)(1). Pub. L. 119–60, § 7227(1)(A), struck out “or has been sexually assaulted during the preceding 2-year period” after “Coast Guard operations described in section 102” and substituted “the signs and symptoms of either” for “or based on such sexual assault, the influence of”.
+2025—Subsec. (a)(1). Pub. L. 119–60, § 7227(1)(A), struck out “or has been sexually assaulted during the preceding 2-year period” after “Coast Guard operations described in section 102” and substituted “the signs and symptoms of either” for “or based on such sexual assault, the influence of”.
 
-Pub. L. 119–60, § 7201(k)(1)(A), inserted “described in section 102” after “Coast Guard operations”.
+Pub. L. 119–60, § 7201(k)(1)(A), inserted “described in section 102” after “Coast Guard operations”.
 
-Subsec. (a)(2). Pub. L. 119–60, § 7227(1)(C), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 119–60, § 7227(1)(C), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 119–60, § 7227(1)(B), (D), redesignated par. (2) as (3) and substituted “this subsection” for “paragraph (1)”. Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 119–60, § 7227(1)(B), (D), redesignated par. (2) as (3) and substituted “this subsection” for “paragraph (1)”. Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 119–60, § 7227(1)(B), (E)(i), (ii), redesignated par. (3) as (4) and inserted “or a diagnosable mental, behavioral, or emotional disorder” before “under this subsection” and “performed by” after “shall be” in introductory provisions. Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 119–60, § 7227(1)(B), (E)(i), (ii), redesignated par. (3) as (4) and inserted “or a diagnosable mental, behavioral, or emotional disorder” before “under this subsection” and “performed by” after “shall be” in introductory provisions. Former par. (4) redesignated (5).
 
-Subsec. (a)(4)(A) to (D). Pub. L. 119–60, § 7227(1)(E)(iii), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (a)(4)(A) to (D). Pub. L. 119–60, § 7227(1)(E)(iii), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 
 > **“(A)** performed by—
 
@@ -993,15 +993,15 @@ Subsec. (a)(4)(A) to (D). Pub. L. 119–60, § 7227(1)(E)(iii), added subpars.
 
 > **“(ii)** a licensed doctorate-level psychologist, a doctorate-level mental health provider, a psychiatry resident, or a clinical or counseling psychologist who has completed a 1-year internship or residency.”
 
-Subsec. (a)(5). Pub. L. 119–60, § 7227(1)(B), redesignated par. (4) as (5).
+Subsec. (a)(5). Pub. L. 119–60, § 7227(1)(B), redesignated par. (4) as (5).
 
-Subsec. (b). Pub. L. 119–60, § 7227(2), inserted “or a diagnosable mental, behavioral, or emotional disorder” after “traumatic brain injury”.
+Subsec. (b). Pub. L. 119–60, § 7227(2), inserted “or a diagnosable mental, behavioral, or emotional disorder” after “traumatic brain injury”.
 
-Subsec. (d). Pub. L. 119–60, § 7201(k)(1)(B), struck out subsec. (d). Prior to amendment, text read as follows: “In this section, the term ‘Coast Guard operations’ has the meaning given that term in section 888(a) of the Homeland Security Act of 2002 (6 U.S.C. 468(a)).”
+Subsec. (d). Pub. L. 119–60, § 7201(k)(1)(B), struck out subsec. (d). Prior to amendment, text read as follows: “In this section, the term ‘Coast Guard operations’ has the meaning given that term in section 888(a) of the Homeland Security Act of 2002 (6 U.S.C. 468(a)).”
 
-Subsec. (e). Pub. L. 119–60, § 7227(3), added subsec. (e).
+Subsec. (e). Pub. L. 119–60, § 7227(3), added subsec. (e).
 
-### § 2517. Authority for certain personnel
+### § 2517. Authority for certain personnel
 
 **(a) In General.—** The Commandant may appoint, without regard to the provisions of subchapter I of chapter 33 (other than sections 3303 and 3328 of such chapter) of title 5, qualified candidates to any of the following positions in the competitive service (as defined in section 2102 of title 5) in the Coast Guard:
 
@@ -1021,9 +1021,9 @@ Subsec. (e). Pub. L. 119–60, § 7227(3), added subsec. (e).
 
 **(B)** A position involving the improvement of cadet health or well-being.
 
-**(b) Limitation.—** The Commandant shall only appoint qualified candidates under the authority provided by subsections (a) and (b) 1
+**(b) Limitation.—** The Commandant shall only appoint qualified candidates under the authority provided by subsections (a) and (b) 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 if the Commandant determines that there is a shortage of qualified candidates for the positions described in such subsection or a critical hiring need for such positions.
 
@@ -1041,7 +1041,7 @@ if the Commandant determines that there is a shortage of qualified candidates fo
 
 **(d) Sunset.—** The authority provided under subsection (a) shall expire on September 30, 2030.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7228(a), Dec. 18, 2025, 139 Stat. 1707.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7228(a), Dec. 18, 2025, 139 Stat. 1707.)
 
 **Editorial Notes**
 
@@ -1049,13 +1049,13 @@ if the Commandant determines that there is a shortage of qualified candidates fo
 
 The date of enactment of the Coast Guard Authorization Act of 2025, referred to in subsec. (c), is the date of enactment of div. G of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
-### § 2518. Command sponsorship
+### § 2518. Command sponsorship
 
 On request by a member of the Coast Guard assigned to Unalaska, Alaska, the Commandant shall grant command sponsorship to the dependents of such member.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7228(a), Dec. 18, 2025, 139 Stat. 1708.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7228(a), Dec. 18, 2025, 139 Stat. 1708.)
 
-### § 2519. Prevention of and response to hazing and bullying
+### § 2519. Prevention of and response to hazing and bullying
 
 **(a) Anti-hazing and Anti-bullying Database.—** The Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Defense, shall cooperate in the establishment and use of a comprehensive and consistent data-collection system described in section 549 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. 113 note) for the collection of reports, including anonymous reports, of incidents of hazing or bullying.
 
@@ -1103,27 +1103,27 @@ On request by a member of the Coast Guard assigned to Unalaska, Alaska, the Comm
 
 **(9)** Recommendations of the Commandant to improve—
 
-**(A)** the policies described in paragraph (4) 1
+**(A)** the policies described in paragraph (4) 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (2)”.
-
-;
-
-**(B)** the comprehensive data collection systems described in paragraph (5) 2
-
-<sup>2</sup>  So in original. Probably should be “paragraph (3)”.
+<sup>1</sup> So in original. Probably should be “paragraph (2)”.
 
 ;
 
-**(C)** the processes described in paragraph (6) 3
+**(B)** the comprehensive data collection systems described in paragraph (5) 2
 
-<sup>3</sup>  So in original. Probably should be “paragraph (4)”.
+<sup>2</sup> So in original. Probably should be “paragraph (3)”.
 
 ;
 
-**(D)** the training described in paragraph (9) 4
+**(C)** the processes described in paragraph (6) 3
 
-<sup>4</sup>  So in original. Probably should be “paragraph (5)”.
+<sup>3</sup> So in original. Probably should be “paragraph (4)”.
+
+;
+
+**(D)** the training described in paragraph (9) 4
+
+<sup>4</sup> So in original. Probably should be “paragraph (5)”.
 
 ; and
 
@@ -1135,7 +1135,7 @@ On request by a member of the Coast Guard assigned to Unalaska, Alaska, the Comm
 
 **(12)** Plans of the Commandant to improve hazing and bullying prevention and response during the next reporting year.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7228(a), Dec. 18, 2025, 139 Stat. 1708.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7228(a), Dec. 18, 2025, 139 Stat. 1708.)
 
 **Editorial Notes**
 
@@ -1143,7 +1143,7 @@ On request by a member of the Coast Guard assigned to Unalaska, Alaska, the Comm
 
 Section 549 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (a), is section 549 of Pub. L. 114–328, which is set out as a note under section 113 of Title 10, Armed Forces.
 
-The Uniform Code of Military Justice, referred to in subsec. (c)(9)(E), is chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+The Uniform Code of Military Justice, referred to in subsec. (c)(9)(E), is chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
 
 ## SUBCHAPTER II—ADVISORY BOARD ON WOMEN IN THE COAST GUARD
 
@@ -1153,7 +1153,7 @@ The Uniform Code of Military Justice, referred to in subsec. (c)(9)(E), is chapt
 
 A prior subchapter II was redesignated subchapter III of this chapter.
 
-### § 2521. Advisory Board on Women in the Coast Guard
+### § 2521. Advisory Board on Women in the Coast Guard
 
 **(a) In General.—** The Commandant shall establish within the Coast Guard an Advisory Board on Women in the Coast Guard.
 
@@ -1175,7 +1175,7 @@ A prior subchapter II was redesignated subchapter III of this chapter.
 
 **(3)** may brief Congress on its duties under this subsection, including the advice described in paragraph (1) and any recommendations described in paragraph (2).
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8215(c)(2), Jan. 1, 2021, 134 Stat. 4651.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8215(c)(2), Jan. 1, 2021, 134 Stat. 4651.)
 
 ## SUBCHAPTER III—COVERED MISCONDUCT
 
@@ -1183,17 +1183,17 @@ A prior subchapter II was redesignated subchapter III of this chapter.
 
 **Prior Provisions**
 
-A prior subchapter III, consisting of sections 2531 to 2534, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
+A prior subchapter III, consisting of sections 2531 to 2534, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1790, added subchapter III designation and heading.
+2025—Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1790, added subchapter III designation and heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Policy Relating To Care and Support of Victims of Covered Misconduct**
 
-Pub. L. 119–60, div. G, title LXXV, § 7512, Dec. 18, 2025, 139 Stat. 1807, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7512, Dec. 18, 2025, 139 Stat. 1807, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall issue Coast Guard policy relating to the care and support of members of the Coast Guard who are alleged victims covered [sic] misconduct.
 
@@ -1247,7 +1247,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7512, Dec. 18, 2025, 139 Stat. 1807, 
 
 **Flag Officer Review of, and Concurrence in, Separation of Members Who Have Reported Covered Misconduct**
 
-Pub. L. 119–60, div. G, title LXXV, § 7513, Dec. 18, 2025, 139 Stat. 1808, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7513, Dec. 18, 2025, 139 Stat. 1808, provided that:
 
 > **“(a) Policy to Require Review of Certain Proposed Involuntary Separations.—** Not later than 120 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall establish, with respect to any proposed involuntary separation under chapter 59 of title 10, United States Code, a Coast Guard policy to review the circumstances of, and grounds for, such a proposed involuntary separation of any member of the Coast Guard who—
 
@@ -1287,7 +1287,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7513, Dec. 18, 2025, 139 Stat. 1808, 
 
 **Policy and Program To Expand Prevention of Sexual Misconduct**
 
-Pub. L. 119–60, div. G, title LXXV, § 7514, Dec. 18, 2025, 139 Stat. 1810, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7514, Dec. 18, 2025, 139 Stat. 1810, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall develop and issue a comprehensive policy for the Coast Guard to reinvigorate the prevention of misconduct involving members and civilians of the Coast Guard that contains the policy elements described in section 1561 of title 10, United States Code.
 
@@ -1295,7 +1295,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7514, Dec. 18, 2025, 139 Stat. 1810, 
 
 **Training and Education Programs for Covered Misconduct Prevention and Response**
 
-Pub. L. 119–60, div. G, title LXXV, § 7515, Dec. 18, 2025, 139 Stat. 1810, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7515, Dec. 18, 2025, 139 Stat. 1810, provided that:
 
 > **“(a) Modification of Curriculum.—**
 
@@ -1407,7 +1407,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7515, Dec. 18, 2025, 139 Stat. 1810, 
 
 **Development of Policies on Military Protective Orders**
 
-Pub. L. 119–60, div. G, title LXXV, § 7522, Dec. 18, 2025, 139 Stat. 1813, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7522, Dec. 18, 2025, 139 Stat. 1813, provided that:
 
 > **“(1) In general.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall issue updated written detailed policies of the Coast Guard relating to military protective orders that are consistent with the law and policies of the Department of Defense.
 
@@ -1429,7 +1429,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7522, Dec. 18, 2025, 139 Stat. 1813, 
 
 **Participation in Catch a Serial Offender Program**
 
-Pub. L. 119–60, div. G, title LXXV, § 7524, Dec. 18, 2025, 139 Stat. 1815, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7524, Dec. 18, 2025, 139 Stat. 1815, provided that:
 
 > **“(a) In General.—** The Secretary of the department in which the Coast Guard is operating when not operating as a service in the Navy, acting through the Commandant [of the Coast Guard], shall ensure the participation of the Coast Guard in the Catch a Serial Offender program (referred to in this section as the ‘CATCH program’) of the Department of Defense established in accordance with section 543 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291) [128 Stat. 3373].
 
@@ -1437,7 +1437,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7524, Dec. 18, 2025, 139 Stat. 1815, 
 
 **Coast Guard and Coast Guard Academy Access to Defense Sexual Assault Incident Database**
 
-Pub. L. 119–60, div. G, title LXXV, § 7527, Dec. 18, 2025, 139 Stat. 1818, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7527, Dec. 18, 2025, 139 Stat. 1818, provided that:
 
 > **“(a) Memorandum of Understanding.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard], in consultation with the Secretary of Defense, shall enter into a memorandum of understanding to enable the criminal offender case management and analytics database of the Coast Guard to have system interface access with the Defense Sexual Assault Incident Database (referred to in this section as the ‘Database’) established by section 563 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 [Pub. L. 110–417] (10 U.S.C. 1561 note).
 
@@ -1465,7 +1465,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7527, Dec. 18, 2025, 139 Stat. 1818, 
 
 **Expedited Transfer in Cases of Sexual Misconduct or Domestic Violence**
 
-Pub. L. 119–60, div. G, title LXXV, § 7528, Dec. 18, 2025, 139 Stat. 1819, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7528, Dec. 18, 2025, 139 Stat. 1819, provided that:
 
 > **“(a) Expedited Transfer Policy Update.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall update Coast Guard policy as necessary to implement—
 
@@ -1527,7 +1527,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7528, Dec. 18, 2025, 139 Stat. 1819, 
 
 **Access to Temporary Separation Program for Victims of Alleged Sex-Related Offenses**
 
-Pub. L. 119–60, div. G, title LXXV, § 7529, Dec. 18, 2025, 139 Stat. 1821, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7529, Dec. 18, 2025, 139 Stat. 1821, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall update the Coast Guard policy relating to temporary separation of members of the Coast Guard who are victims of alleged sex-related offenses as required under subsection (b).
 
@@ -1563,7 +1563,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7529, Dec. 18, 2025, 139 Stat. 1821, 
 
 **Policy on Requests for Permanent Changes of Station or Unit Transfers by Persons Who Report Being the Victim of Sexual Assault**
 
-Pub. L. 117–263, div. K, title CXII, § 11273, Dec. 23, 2022, 136 Stat. 4068, provided that:
+Pub. L. 117–263, div. K, title CXII, § 11273, Dec. 23, 2022, 136 Stat. 4068, provided that:
 
 > **“(a) Interim Update.—** Not later than 30 days after the date of enactment of this Act [Dec. 23, 2022], the Commandant [of the Coast Guard], in consultation with the Director of the Health, Safety, and Work Life Directorate, shall issue an interim update to Coast Guard policy guidance to allow a member of the Coast Guard who has reported being the victim of a sexual assault, or any other offense covered by section 920, 920c, or 930 of title 10, United States Code (article 120, 120c, or 130 of the Uniform Code of Military Justice), to request an immediate change of station or an immediate unit transfer.
 
@@ -1571,11 +1571,11 @@ Pub. L. 117–263, div. K, title CXII, § 11273, Dec. 23, 2022, 136 Stat. 4068
 
 **Sex Offenses and Personnel Records**
 
-Pub. L. 117–263, div. K, title CXII, § 11274, Dec. 23, 2022, 136 Stat. 4068, provided that:
+Pub. L. 117–263, div. K, title CXII, § 11274, Dec. 23, 2022, 136 Stat. 4068, provided that:
 
 > “Not later than 180 days after the date of enactment of this Act [Dec. 23, 2022], the Commandant [of the Coast Guard] shall issue final regulations or policy guidance required to fully implement section 1745 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 1561 note) with respect to members of the Coast Guard.”
 
-### § 2531. Comprehensive policy and procedures on retention and access to evidence and records relating to sexual misconduct and other misconduct
+### § 2531. Comprehensive policy and procedures on retention and access to evidence and records relating to sexual misconduct and other misconduct
 
 **(a) Issuance of Policy.—** Not later than 1 year after the date of enactment of the Coast Guard Authorization Act of 2025, the Secretary, in consultation with the Office of the Inspector General of the department in which the Coast Guard is operating and the Office of the Inspector General of the Department of Defense, shall issue a comprehensive policy for the Coast Guard on the retention of and access to evidence and records relating to covered misconduct involving members of the Coast Guard.
 
@@ -1715,7 +1715,7 @@ Pub. L. 117–263, div. K, title CXII, § 11274, Dec. 23, 2022, 136 Stat. 4068
 
 **(e) Savings Clause.—** Nothing in this section authorizes or requires, or shall be construed to authorize or require, the discovery, inspection, or production of reports, memoranda, or other internal documents or work product generated by counsel, an attorney for the Government, or their assistants or representatives.
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1790.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1790.)
 
 **Editorial Notes**
 
@@ -1725,9 +1725,9 @@ The date of enactment of the Coast Guard Authorization Act of 2025, referred to 
 
 **Prior Provisions**
 
-A prior section 2531, act Aug. 4, 1949, ch. 393, 63 Stat. 526, § 432; Aug. 9, 1955, ch. 650, §§ 1, 2, 69 Stat. 577; Pub. L. 86–309, Sept. 21, 1959, 73 Stat. 585; Pub. L. 91–278, § 1(10), June 12, 1970, 84 Stat. 305; Pub. L. 96–23, § 5(a), June 13, 1979, 93 Stat. 68; Pub. L. 97–295, § 2(11), (13), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–557, § 15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–640, § 10(a)(7), Nov. 10, 1986, 100 Stat. 3549; renumbered § 2531, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(21), Jan. 1, 2021, 134 Stat. 4748, which related to personnel of former Lighthouse Service, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
+A prior section 2531, act Aug. 4, 1949, ch. 393, 63 Stat. 526, § 432; Aug. 9, 1955, ch. 650, §§ 1, 2, 69 Stat. 577; Pub. L. 86–309, Sept. 21, 1959, 73 Stat. 585; Pub. L. 91–278, § 1(10), June 12, 1970, 84 Stat. 305; Pub. L. 96–23, § 5(a), June 13, 1979, 93 Stat. 68; Pub. L. 97–295, § 2(11), (13), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–557, § 15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–640, § 10(a)(7), Nov. 10, 1986, 100 Stat. 3549; renumbered § 2531, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(21), Jan. 1, 2021, 134 Stat. 4748, which related to personnel of former Lighthouse Service, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
 
-### § 2532. Requirement to maintain certain records
+### § 2532. Requirement to maintain certain records
 
 **(a) In General.—** The Commandant shall maintain all work product related to documenting a disposition decision on an investigation by the Coast Guard Investigative Service or other law enforcement entity investigating a Coast Guard member accused of an offense against chapter 47 of title 10.
 
@@ -1757,15 +1757,15 @@ A prior section 2531, act Aug. 4, 1949, ch. 393, 63 Stat. 526, § 432; Aug. 9,
 
 **(e) Savings Clause.—** Nothing in this section authorizes or requires, or shall be construed to authorize or require, the discovery, inspection, or production of reports, memoranda, or other internal documents or work product generated by counsel, an attorney for the Government, or their assistants or representatives.
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1795.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1795.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2532, added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(b), Jan. 1, 2021, 134 Stat. 4757, which related to retirement of certain employees of former Lighthouse Service, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
+A prior section 2532, added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(b), Jan. 1, 2021, 134 Stat. 4757, which related to retirement of certain employees of former Lighthouse Service, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
 
-### § 2533. Covered misconduct in Coast Guard
+### § 2533. Covered misconduct in Coast Guard
 
 **(a) In General.—** Not later than March 1 each year, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on incidents of covered misconduct involving members of the Coast Guard, including recruits and officer candidates, and claims of retaliation related to the reporting of any such incident.
 
@@ -1977,7 +1977,7 @@ A prior section 2532, added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §�
 
 **(e) Substantiated Defined.—** In this section, the term “substantiated” has the meaning given the term under section 1631(c) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (10 U.S.C. 1561 note).
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1795.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1795.)
 
 **Editorial Notes**
 
@@ -1993,9 +1993,9 @@ Section 1631(c) of the Ike Skelton National Defense Authorization Act for Fiscal
 
 **Prior Provisions**
 
-A prior section 2533, added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8511(a), Jan. 1, 2021, 134 Stat. 4758, which related to surviving spouses of current or former employees of Lighthouse Service, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
+A prior section 2533, added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8511(a), Jan. 1, 2021, 134 Stat. 4758, which related to surviving spouses of current or former employees of Lighthouse Service, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
 
-### § 2534. Review of discharge characterization
+### § 2534. Review of discharge characterization
 
 **(a) Downgrade.—**
 
@@ -2017,7 +2017,7 @@ A prior section 2533, added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §�
 
 **(4) Notification.—** A former member of the Coast Guard who is subject to a downgrade in discharge characterization review under subsection (a) shall be notified in writing of such proceedings, afforded the right to obtain copies of records and documents relevant to the proceedings, and the right to appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1802.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1802.)
 
 **Editorial Notes**
 
@@ -2027,19 +2027,19 @@ The date of enactment of the Coast Guard Authorization Act of 2025, referred to 
 
 **Prior Provisions**
 
-A prior section 2534, added and amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8511(b), Jan. 1, 2021, 134 Stat. 4758, which related to application for section 2533 benefits, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
+A prior section 2534, added and amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8511(b), Jan. 1, 2021, 134 Stat. 4758, which related to application for section 2533 benefits, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rulemaking**
 
-Pub. L. 119–60, div. G, title LXXV, § 7511(b), Dec. 18, 2025, 139 Stat. 1807, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7511(b), Dec. 18, 2025, 139 Stat. 1807, provided that:
 
 > **“(1) In general.—** Not later than 90 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall initiate a rulemaking to implement section 2534 [this section].
 
 > **“(2) Deadline for regulations.—** The regulations issued under paragraph (1) shall take effect not later than 180 days after the date on which the Commandant [of the Coast Guard] promulgates a final rule pursuant to such paragraph.”
 
-### § 2535. Safe-to-Report policy for Coast Guard
+### § 2535. Safe-to-Report policy for Coast Guard
 
 **(a) In General.—** Not later than 90 days after the date of enactment of the Coast Guard Authorization Act of 2025, the Commandant shall, in consultation with the Secretaries of the military departments, establish and maintain a detailed and publicly available safe-to-report policy described in subsection (b) that applies with respect to all members of the Coast Guard (including members of the reserve and auxiliary components of the Coast Guard), cadets at the Coast Guard Academy, and any other individual undergoing training at an accession point of the Coast Guard.
 
@@ -2065,7 +2065,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7511(b), Dec. 18, 2025, 139 Stat. 180
 
 **(3)** does not involve aggravating circumstances (as specified in the policy issued under subsection (a)) that increase the gravity of the minor misconduct or the impact of such misconduct on good order and discipline.
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1803.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1803.)
 
 **Editorial Notes**
 
@@ -2073,7 +2073,7 @@ Pub. L. 119–60, div. G, title LXXV, § 7511(b), Dec. 18, 2025, 139 Stat. 180
 
 The date of enactment of the Coast Guard Authorization Act of 2025, referred to in subsec. (a), is the date of enactment of div. G of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
-### § 2536. Notification of changes to Uniform Code of Military Justice or Manual for Courts 1 [footnote: 1 So in original. Probably should be followed by a hyphen.] Martial relating to covered misconduct
+### § 2536. Notification of changes to Uniform Code of Military Justice or Manual for Courts 1 [footnote: 1 So in original. Probably should be followed by a hyphen.] Martial relating to covered misconduct
 
 Beginning on March 30, 2026, and annually thereafter, the Commandant shall provide a detailed written notification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives with respect to each of the following:
 
@@ -2083,17 +2083,17 @@ Beginning on March 30, 2026, and annually thereafter, the Commandant shall provi
 
 **(B)** to remove an article relating to covered misconduct described in any of paragraphs (1) through (7) of section 301.2
 
-<sup>2</sup>  So in original. Probably should be “section 2539 of this title”.
+<sup>2</sup> So in original. Probably should be “section 2539 of this title”.
 
-**(2)** Whether the Manual for Courts <sup>1</sup> Martial has been modified—
+**(2)** Whether the Manual for Courts <sup>1</sup> Martial has been modified—
 
 **(A)** to add any sex-related offense as an offense described under an article of the Uniform Code of Military Justice; or
 
 **(B)** to remove as an offense described under an article of the Uniform Code of Military Justice covered misconduct described in any of paragraphs (1) through (7) of section 301.<sup>2</sup>
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1804.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1804.)
 
-### § 2537. Accountability and transparency relating to allegations of misconduct against senior leaders
+### § 2537. Accountability and transparency relating to allegations of misconduct against senior leaders
 
 **(a) In General.—** Not later than 90 days after the date of enactment of the Coast Guard Authorization Act of 2025, the Secretary shall establish a publicly available, written policy to improve oversight, investigations, accountability, and public transparency regarding alleged misconduct of senior leaders of the Coast Guard.
 
@@ -2137,7 +2137,7 @@ Beginning on March 30, 2026, and annually thereafter, the Commandant shall provi
 
 **(D)** any civilian member of the Coast Guard whose position is deemed equivalent to that of a member of the Senior Executive Service (career reserved), as determined by the Office of the Inspector General of the department in which the Coast Guard is operating.
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1804.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1804.)
 
 **Editorial Notes**
 
@@ -2145,7 +2145,7 @@ Beginning on March 30, 2026, and annually thereafter, the Commandant shall provi
 
 The date of enactment of the Coast Guard Authorization Act of 2025, referred to in subsec. (a), is the date of enactment of div. G of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
-### § 2538. Inclusion and command review of information on covered misconduct in personnel service records
+### § 2538. Inclusion and command review of information on covered misconduct in personnel service records
 
 **(a) Information on Reports on Covered Misconduct.—**
 
@@ -2167,11 +2167,11 @@ The date of enactment of the Coast Guard Authorization Act of 2025, referred to 
 
 **(2) Covered member defined.—** In this subsection, the term “covered member” means a member of the Coast Guard who, at the time of assignment or transfer as described in paragraph (1), has a history of 1 or more covered misconduct offenses as documented in the personnel service record of such member or such other records or files as the Commandant shall specify in the policy prescribed under subparagraph (A).1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (1).”.
+<sup>1</sup> So in original. Probably should be “paragraph (1).”.
 
 **(c) Review of Personnel Service Record to Determine Suitability for Civilian Employment.—** Under policy to be prescribed by the Secretary, the Commandant shall establish procedures that are consistent with the law, policies, and practices of the Department of Defense in effect on the date of enactment of the Coast Guard Authorization Act of 2025 to consider and review the personnel service record of a former member of the Armed Forces to determine the suitability of the individual for civilian employment in the Coast Guard.
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1806.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1806.)
 
 **Editorial Notes**
 
@@ -2179,7 +2179,7 @@ The date of enactment of the Coast Guard Authorization Act of 2025, referred to 
 
 The date of enactment of the Coast Guard Authorization Act of 2025, referred to in subsec. (c), is the date of enactment of div. G of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
-### § 2539. Covered misconduct defined
+### § 2539. Covered misconduct defined
 
 In this title, the term “covered misconduct” means—
 
@@ -2189,9 +2189,9 @@ In this title, the term “covered misconduct” means—
 
 **(3)** abusive sexual contact and aggravated sexual contact, as described in sections 920(c) and 920(d) of title 10 (articles 120(c) and 120(d) of the Uniform Code of Military Justice);
 
-**(4)** wrongful broadcast, dissemination, or creation of content as described in sections 917 1
+**(4)** wrongful broadcast, dissemination, or creation of content as described in sections 917 1
 
-<sup>1</sup>  So in original. Probably should be “917a”.
+<sup>1</sup> So in original. Probably should be “917a”.
 
 and 920c of title 10 (articles 117a and 120c of the Uniform Code of Military Justice);
 
@@ -2201,10 +2201,10 @@ and 920c of title 10 (articles 117a and 120c of the Uniform Code of Military Jus
 
 **(7)** domestic violence, as described in section 928b of title 10 (article 128b of the Uniform Code of Military Justice).
 
-(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1806.)
+(Added Pub. L. 119–60, div. G, title LXXV, § 7511(a), Dec. 18, 2025, 139 Stat. 1806.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order 14062, referred to in par. (2), is Ex. Ord. No. 14062, Jan. 26, 2022, 87 F.R. 4763, which is listed in a table under section 801 of Title 10, Armed Forces. For further details, see Pub. L. 117–81, div. A, title V, § 539D, Dec. 27, 2021, 135 Stat. 1699, set out as a note under section 934 of Title 10, Armed Forces.
+Executive Order 14062, referred to in par. (2), is Ex. Ord. No. 14062, Jan. 26, 2022, 87 F.R. 4763, which is listed in a table under section 801 of Title 10, Armed Forces. For further details, see Pub. L. 117–81, div. A, title V, § 539D, Dec. 27, 2021, 135 Stat. 1699, set out as a note under section 934 of Title 10, Armed Forces.

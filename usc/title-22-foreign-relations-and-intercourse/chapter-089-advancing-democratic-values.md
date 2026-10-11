@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 89—ADVANCING DEMOCRATIC VALUES
 
-## § 8201. Findings
+## § 8201. Findings
 
 Congress finds the following:
 
@@ -31,17 +31,17 @@ Congress finds the following:
 
 **(6)** The promotion of democracy requires a broad-based effort with cooperation between all democratic countries, including through the Community of Democracies.
 
-(Pub. L. 110–53, title XXI, § 2102, Aug. 3, 2007, 121 Stat. 526.)
+(Pub. L. 110–53, title XXI, § 2102, Aug. 3, 2007, 121 Stat. 526.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 110–53, title XXI, § 2101, Aug. 3, 2007, 121 Stat. 526, provided that: “This title [enacting this chapter and amending provisions set out as a note under section 2151n of this title] may be cited as the ‘Advance Democratic Values, Address Nondemocratic Countries, and Enhance Democracy Act of 2007’ or the ‘ADVANCE Democracy Act of 2007’.”
+Pub. L. 110–53, title XXI, § 2101, Aug. 3, 2007, 121 Stat. 526, provided that: “This title [enacting this chapter and amending provisions set out as a note under section 2151n of this title] may be cited as the ‘Advance Democratic Values, Address Nondemocratic Countries, and Enhance Democracy Act of 2007’ or the ‘ADVANCE Democracy Act of 2007’.”
 
 **Institute for Transatlantic Engagement**
 
-Pub. L. 118–31, div. F, title LXVII, § 6709, Dec. 22, 2023, 137 Stat. 1019, provided that:
+Pub. L. 118–31, div. F, title LXVII, § 6709, Dec. 22, 2023, 137 Stat. 1019, provided that:
 
 > **“(a) Establishment.—** The Secretary of State is authorized to establish the Institute for Transatlantic Engagement (referred to in this section as the ‘Institute’).
 
@@ -103,7 +103,7 @@ Pub. L. 118–31, div. F, title LXVII, § 6709, Dec. 22, 2023, 137 Stat. 1019,
 
 **David E. Price Legislative Strengthening Program**
 
-Pub. L. 117–328, div. K, title VII, § 7032(k), Dec. 29, 2022, 136 Stat. 5029, provided that: “Funds appropriated by this Act [div. K of Pub. L. 117–328] under the heading ‘Democracy Fund’ [136 Stat. 4988] shall be made available for legislative strengthening programs: *Provided*, That such funds shall be subject to prior consultation with, and the regular notification procedures of, the Committees on Appropriations: *Provided further*, That such programs shall hereafter be collectively named the ‘David E. Price Legislative Strengthening Program’.”
+Pub. L. 117–328, div. K, title VII, § 7032(k), Dec. 29, 2022, 136 Stat. 5029, provided that: “Funds appropriated by this Act [div. K of Pub. L. 117–328] under the heading ‘Democracy Fund’ [136 Stat. 4988] shall be made available for legislative strengthening programs: *Provided*, That such funds shall be subject to prior consultation with, and the regular notification procedures of, the Committees on Appropriations: *Provided further*, That such programs shall hereafter be collectively named the ‘David E. Price Legislative Strengthening Program’.”
 
 **Executive Documents**
 
@@ -161,7 +161,7 @@ Sec. 7. *General Provisions*. (a) This memorandum is not intended to, and does n
 
 Barack Obama.
 
-## § 8202. Statement of policy
+## § 8202. Statement of policy
 
 It is the policy of the United States—
 
@@ -181,9 +181,9 @@ It is the policy of the United States—
 
 **(6)** to strengthen cooperation with other democratic countries in order to better promote and defend shared values and ideals.
 
-(Pub. L. 110–53, title XXI, § 2103, Aug. 3, 2007, 121 Stat. 527.)
+(Pub. L. 110–53, title XXI, § 2103, Aug. 3, 2007, 121 Stat. 527.)
 
-## § 8203. Definitions
+## § 8203. Definitions
 
 In this chapter:
 
@@ -229,11 +229,11 @@ The term “Department” means the Department of State.
 
 The term “Secretary” means the Secretary of State.
 
-(Pub. L. 110–53, title XXI, § 2104, Aug. 3, 2007, 121 Stat. 527.)
+(Pub. L. 110–53, title XXI, § 2104, Aug. 3, 2007, 121 Stat. 527.)
 
 ## SUBCHAPTER I—ACTIVITIES TO ENHANCE THE PROMOTION OF DEMOCRACY
 
-### § 8211. Democracy promotion at the Department of State
+### § 8211. Democracy promotion at the Department of State
 
 **(a) Democracy Liaison Officers**
 
@@ -303,9 +303,9 @@ The Secretary should seek to increase the proportion of members of the Foreign S
 
 There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
 
-(Pub. L. 110–53, title XXI, § 2111, Aug. 3, 2007, 121 Stat. 529.)
+(Pub. L. 110–53, title XXI, § 2111, Aug. 3, 2007, 121 Stat. 529.)
 
-### § 8212. Democracy Fellowship Program
+### § 8212. Democracy Fellowship Program
 
 **(a) Requirement for Program**
 
@@ -315,9 +315,9 @@ The Secretary shall establish a Democracy Fellowship Program to enable officers 
 
 The Assistant Secretary shall play a central role in the selection of Democracy Fellows and facilitate their placement in appropriate congressional offices, congressional committees, international organizations, and nongovernmental organizations.
 
-(Pub. L. 110–53, title XXI, § 2112, Aug. 3, 2007, 121 Stat. 531.)
+(Pub. L. 110–53, title XXI, § 2112, Aug. 3, 2007, 121 Stat. 531.)
 
-### § 8213. Investigations of violations of international humanitarian law
+### § 8213. Investigations of violations of international humanitarian law
 
 **(a) In general**
 
@@ -327,11 +327,11 @@ The President, with the assistance of the Secretary, the Under Secretary of Stat
 
 The President shall consider what actions can be taken to ensure that any government of a country or the leaders or senior officials of such government who are responsible for crimes against humanity, genocide, slavery, or other violations of international humanitarian law identified under subsection (a) are brought to account for such crimes in an appropriately constituted tribunal.
 
-(Pub. L. 110–53, title XXI, § 2113, Aug. 3, 2007, 121 Stat. 531.)
+(Pub. L. 110–53, title XXI, § 2113, Aug. 3, 2007, 121 Stat. 531.)
 
 ## SUBCHAPTER II—STRATEGIES AND REPORTS ON HUMAN RIGHTS AND THE PROMOTION OF DEMOCRACY
 
-### § 8221. Strategies, priorities, and annual report
+### § 8221. Strategies, priorities, and annual report
 
 **(a) Expansion of country-specific strategies to promote democracy**
 
@@ -349,7 +349,7 @@ The Secretary shall keep the appropriate congressional committees fully and curr
 
 **(b) to (d) Omitted or repealed**
 
-(Pub. L. 110–53, title XXI, § 2121, Aug. 3, 2007, 121 Stat. 531; Pub. L. 118–31, div. F, title LXVII, § 6707(b)(3), Dec. 22, 2023, 137 Stat. 1018.)
+(Pub. L. 110–53, title XXI, § 2121, Aug. 3, 2007, 121 Stat. 531; Pub. L. 118–31, div. F, title LXVII, § 6707(b)(3), Dec. 22, 2023, 137 Stat. 1018.)
 
 **Editorial Notes**
 
@@ -365,7 +365,7 @@ Section is comprised of section 2121 of Pub. L. 110–53. Subsecs. (b) and (d) o
 
 “(2) specific actions and activities of chiefs of missions and other United States officials to promote democracy and protect human rights in each such country.”
 
-### § 8222. Translation of human rights reports
+### § 8222. Translation of human rights reports
 
 **(a) In general**
 
@@ -381,11 +381,11 @@ Not later than April 1, 2008, and annually thereafter through 2010, the Secretar
 
 The report required under paragraph (1) may be included in any separate report on democracy and human rights policy submitted in accordance with section 665(c) of the Foreign Relations Authorization Act, Fiscal Year 2003.
 
-(Pub. L. 110–53, title XXI, § 2122, Aug. 3, 2007, 121 Stat. 532.)
+(Pub. L. 110–53, title XXI, § 2122, Aug. 3, 2007, 121 Stat. 532.)
 
 ## SUBCHAPTER III—ADVISORY COMMITTEE ON DEMOCRACY PROMOTION AND THE INTERNET WEBSITE OF THE DEPARTMENT OF STATE
 
-### § 8231. Advisory Committee on Democracy Promotion
+### § 8231. Advisory Committee on Democracy Promotion
 
 Congress commends the Secretary for creating an Advisory Committee on Democracy Promotion, and it is the sense of Congress that the Committee should play a significant role in the Department’s transformational diplomacy by advising the Secretary regarding United States efforts to promote democracy and democratic transition in connection with the formulation and implementation of United States foreign policy and foreign assistance, including reviewing and making recommendations on—
 
@@ -393,9 +393,9 @@ Congress commends the Secretary for creating an Advisory Committee on Democracy 
 
 **(2)** how to improve foreign assistance programs related to the promotion of democracy.
 
-(Pub. L. 110–53, title XXI, § 2131, Aug. 3, 2007, 121 Stat. 533.)
+(Pub. L. 110–53, title XXI, § 2131, Aug. 3, 2007, 121 Stat. 533.)
 
-### § 8232. Sense of Congress regarding the Internet website of the Department of State
+### § 8232. Sense of Congress regarding the Internet website of the Department of State
 
 It is the sense of Congress that in order to facilitate access by individuals, nongovernmental organizations, and movements in foreign countries to documents, streaming video and audio, and other media regarding democratic principles, practices, and values, and the promotion and strengthening of democracy, the Secretary should take additional steps to enhance the Internet site for global democracy and human rights of the Department, which should include, where practicable, the following:
 
@@ -407,11 +407,11 @@ It is the sense of Congress that in order to facilitate access by individuals, n
 
 **(4)** Any other documents, references, or links to appropriate external Internet websites (such as websites of international or nongovernmental organizations), including references or links to training materials, narratives, and histories regarding successful democratic movements.
 
-(Pub. L. 110–53, title XXI, § 2132, Aug. 3, 2007, 121 Stat. 533.)
+(Pub. L. 110–53, title XXI, § 2132, Aug. 3, 2007, 121 Stat. 533.)
 
 ## SUBCHAPTER IV—TRAINING IN DEMOCRACY AND HUMAN RIGHTS; INCENTIVES
 
-### § 8241. Training in democracy promotion and the protection of human rights
+### § 8241. Training in democracy promotion and the protection of human rights
 
 **(a) In general** The Secretary shall continue to enhance training for members of the Foreign Service and civil service responsible for the promotion of democracy and the protection of human rights. Such training shall include appropriate instruction and training materials regarding:
 
@@ -427,13 +427,13 @@ It is the sense of Congress that in order to facilitate access by individuals, n
 
 The Secretary, acting through the Director of the National Foreign Affairs Training Center of the Foreign Service Institute of the Department, shall consult, as appropriate, with nongovernmental organizations involved in the protection and promotion of such rights and the United States Commission on International Religious Freedom with respect to the training required by this subsection.1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 **(c) Report**
 
 Not later than 180 days after August 3, 2007, the Secretary shall submit to the appropriate congressional committees a report containing a description of the current and planned training provided to Foreign Service officers in human rights and democracy promotion, including such training provided to chiefs of mission serving or preparing to serve in nondemocratic countries or democratic transition countries.
 
-(Pub. L. 110–53, title XXI, § 2141, Aug. 3, 2007, 121 Stat. 534.)
+(Pub. L. 110–53, title XXI, § 2141, Aug. 3, 2007, 121 Stat. 534.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -441,7 +441,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall submit to the 
 
 References to National Foreign Affairs Training Center considered to refer to George P. Shultz National Foreign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of this title.
 
-### § 8242. Sense of Congress regarding ADVANCE Democracy Award
+### § 8242. Sense of Congress regarding ADVANCE Democracy Award
 
 It is the sense of Congress that—
 
@@ -449,9 +449,9 @@ It is the sense of Congress that—
 
 **(2)** the Secretary should establish procedures for selecting recipients of such award, including any financial terms associated with such award.
 
-(Pub. L. 110–53, title XXI, § 2142, Aug. 3, 2007, 121 Stat. 534.)
+(Pub. L. 110–53, title XXI, § 2142, Aug. 3, 2007, 121 Stat. 534.)
 
-### § 8243. Personnel policies at the Department of State
+### § 8243. Personnel policies at the Department of State
 
 In addition to the awards and other incentives already implemented, the Secretary should increase incentives for members of the Foreign Service and other employees of the Department who take assignments relating to the promotion of democracy and the protection of human rights, including the following:
 
@@ -461,11 +461,11 @@ In addition to the awards and other incentives already implemented, the Secretar
 
 **(3)** Providing Foreign Service Awards under section 4013 of this title to such members and employees who provide distinguished or meritorious service in the promotion of democracy or the protection of human rights.
 
-(Pub. L. 110–53, title XXI, § 2143, Aug. 3, 2007, 121 Stat. 535.)
+(Pub. L. 110–53, title XXI, § 2143, Aug. 3, 2007, 121 Stat. 535.)
 
 ## SUBCHAPTER V—COOPERATION WITH DEMOCRATIC COUNTRIES
 
-### § 8251. Cooperation with democratic countries
+### § 8251. Cooperation with democratic countries
 
 **(a) Sense of Congress** It is the sense of Congress that the United States should cooperate with other democratic countries to—
 
@@ -505,11 +505,11 @@ It is the sense of Congress that the International Center for Democratic Transit
 
 There is authorized to be appropriated $1,000,000 for each of fiscal years 2008, 2009, and 2010 to the Secretary for a grant to the International Center for Democratic Transition. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
-(Pub. L. 110–53, title XXI, § 2151, Aug. 3, 2007, 121 Stat. 535.)
+(Pub. L. 110–53, title XXI, § 2151, Aug. 3, 2007, 121 Stat. 535.)
 
 ## SUBCHAPTER VI—FUNDING FOR PROMOTION OF DEMOCRACY
 
-### § 8261. The United Nations Democracy Fund
+### § 8261. The United Nations Democracy Fund
 
 **(a) Sense of Congress**
 
@@ -519,9 +519,9 @@ It is the sense of Congress that the United States should work with other countr
 
 There is authorized to be appropriated $14,000,000 for each of fiscal years 2008 and 2009 to the Secretary for a United States contribution to the United Nations Democracy Fund.
 
-(Pub. L. 110–53, title XXI, § 2161, Aug. 3, 2007, 121 Stat. 536.)
+(Pub. L. 110–53, title XXI, § 2161, Aug. 3, 2007, 121 Stat. 536.)
 
-### § 8262. United States democracy assistance programs
+### § 8262. United States democracy assistance programs
 
 **(a) Sense of Congress regarding use of instruments of democracy promotion** It is the sense of Congress that—
 
@@ -541,4 +541,4 @@ There is authorized to be appropriated $14,000,000 for each of fiscal years 2008
 
 It is the sense of Congress that the Secretary and the Administrator of the United States Agency for International Development should develop guidelines, in consultation with the appropriate congressional committees, building on the existing framework for grants, cooperative agreements, contracts, and other acquisition mechanisms to guide United States missions in foreign countries in coordinating United States democracy assistance and selecting the appropriate combination of such mechanisms for such assistance.
 
-(Pub. L. 110–53, title XXI, § 2162, Aug. 3, 2007, 121 Stat. 536.)
+(Pub. L. 110–53, title XXI, § 2162, Aug. 3, 2007, 121 Stat. 536.)

@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 70—NORTH PACIFIC ANADROMOUS STOCKS CONVENTION
 
-## § 5001. Purpose
+## § 5001. Purpose
 
 It is the purpose of this chapter to implement the Convention for the Conservation of Anadromous Stocks in the North Pacific Ocean, signed in Moscow, February 11, 1992.
 
-(Pub. L. 102–567, title VIII, § 802, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, § 8002, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, § 802, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, § 8002, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 
@@ -35,11 +35,11 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections
 
 **Short Title**
 
-Pub. L. 102–587, title VIII, § 8001, Nov. 4, 1992, 106 Stat. 5098, which provided that title VIII of Pub. L. 102–587, which enacted this chapter and repealed sections 1021 to 1023, 1025 to 1027, 1029, 1030, and 1032 to 1035 of this title and provisions set out as notes under section 1021 of this title, could be cited as the “North Pacific Anadromous Stocks Convention Act of 1992”, was repealed by Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.
+Pub. L. 102–587, title VIII, § 8001, Nov. 4, 1992, 106 Stat. 5098, which provided that title VIII of Pub. L. 102–587, which enacted this chapter and repealed sections 1021 to 1023, 1025 to 1027, 1029, 1030, and 1032 to 1035 of this title and provisions set out as notes under section 1021 of this title, could be cited as the “North Pacific Anadromous Stocks Convention Act of 1992”, was repealed by Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.
 
-Pub. L. 102–567, title VIII, § 801, Oct. 29, 1992, 106 Stat. 4309, provided that: “This title [enacting this chapter and repealing sections 1021 to 1023, 1025 to 1027, 1029, 1030, and 1032 to 1035 of this title and provisions set out as notes under section 1021 of this title] may be cited as the ‘North Pacific Anadromous Stocks Act of 1992’.”
+Pub. L. 102–567, title VIII, § 801, Oct. 29, 1992, 106 Stat. 4309, provided that: “This title [enacting this chapter and repealing sections 1021 to 1023, 1025 to 1027, 1029, 1030, and 1032 to 1035 of this title and provisions set out as notes under section 1021 of this title] may be cited as the ‘North Pacific Anadromous Stocks Act of 1992’.”
 
-## § 5002. Definitions
+## § 5002. Definitions
 
 As used in this chapter, the term—
 
@@ -55,7 +55,7 @@ As used in this chapter, the term—
 
 **(6)** “Convention area” means the waters of the North Pacific Ocean and its adjacent seas, north of 33 degrees North Latitude,1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
 
@@ -91,7 +91,7 @@ beyond 200 nautical miles from the baselines from which the breadth of the terri
 
 **(17)** “United States Section” means the United States Commissioners of the Commission.
 
-(Pub. L. 102–567, title VIII, § 803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, § 8003, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 104–43, title IV, § 404(b), Nov. 3, 1995, 109 Stat. 391; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, § 803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, § 8003, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 104–43, title IV, § 404(b), Nov. 3, 1995, 109 Stat. 391; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 
@@ -107,7 +107,7 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially iden
 
 1995—Par. (13)(C). Pub. L. 104–43 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any vessel described in subparagraph (A) or (B).”
 
-## § 5003. United States Commissioners
+## § 5003. United States Commissioners
 
 **(a) Commissioners** The United States shall be represented on the Commission by not more than three United States Commissioners to be appointed by and serve at the pleasure of the President. Each United States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. Of the Commissioners—
 
@@ -141,9 +141,9 @@ The Secretary may pay the necessary travel expenses of the United States Commiss
 
 The Secretary of Commerce may reimburse the Secretary for amounts expended by the Secretary under this subparagraph.1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
-(Pub. L. 102–567, title VIII, § 804, Oct. 29, 1992, 106 Stat. 4310; Pub. L. 102–587, title VIII, § 8004, Nov. 4, 1992, 106 Stat. 5099; Pub. L. 106–562, title III, § 304, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–327, title I, § 121(b)(1), Dec. 16, 2016, 130 Stat. 1984.)
+(Pub. L. 102–567, title VIII, § 804, Oct. 29, 1992, 106 Stat. 4310; Pub. L. 102–587, title VIII, § 8004, Nov. 4, 1992, 106 Stat. 5099; Pub. L. 106–562, title III, § 304, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–327, title I, § 121(b)(1), Dec. 16, 2016, 130 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -155,9 +155,9 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections
 
 2016—Subsec. (e). Pub. L. 114–327 added subsec. (e).
 
-2000—Subsec. (a). Pub. L. 106–562, § 304(b), inserted after second sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
+2000—Subsec. (a). Pub. L. 106–562, § 304(b), inserted after second sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
 
-## § 5004. Advisory Panel
+## § 5004. Advisory Panel
 
 **(a) Establishment of Panel** An Advisory Panel to the United States Section is established. The Advisory Panel shall be composed of the following:
 
@@ -195,9 +195,9 @@ The Secretary may pay the necessary travel expenses of the members of the Adviso
 
 The Secretary of Commerce may reimburse the Secretary for amounts expended by the Secretary under this subparagraph.1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
-(Pub. L. 102–567, title VIII, § 805, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, § 8005, Nov. 4, 1992, 106 Stat. 5100; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–327, title I, § 121(b)(2), Dec. 16, 2016, 130 Stat. 1985.)
+(Pub. L. 102–567, title VIII, § 805, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, § 8005, Nov. 4, 1992, 106 Stat. 5100; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–327, title I, § 121(b)(2), Dec. 16, 2016, 130 Stat. 1985.)
 
 **Editorial Notes**
 
@@ -215,11 +215,11 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law, see sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 5005. Commission recommendations
+## § 5005. Commission recommendations
 
 The Secretary, with the concurrence of the Secretary of Commerce, may accept or reject, on behalf of the United States, recommendations made by the Commission in accordance with article IX of the Convention.
 
-(Pub. L. 102–567, title VIII, § 806, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, § 8006, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, § 806, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, § 8006, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 
@@ -227,7 +227,7 @@ The Secretary, with the concurrence of the Secretary of Commerce, may accept or 
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
-## § 5006. Administration and enforcement of Convention
+## § 5006. Administration and enforcement of Convention
 
 **(a) Responsibilities**
 
@@ -239,7 +239,7 @@ The Secretary of Commerce shall be responsible for administering provisions of t
 
 **(2)** may, with the concurrence of the Secretary, cooperate with the authorized officials of the government of any Party.
 
-(Pub. L. 102–567, title VIII, § 807, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, § 8007, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, § 807, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, § 8007, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 
@@ -247,7 +247,7 @@ The Secretary of Commerce shall be responsible for administering provisions of t
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
-## § 5007. Cooperation with other agencies
+## § 5007. Cooperation with other agencies
 
 **(a) In general**
 
@@ -257,7 +257,7 @@ Any agency of the Federal Government is authorized, upon request of the Commissi
 
 In carrying out the provisions of the Convention and this chapter, the Secretary of Commerce may arrange for cooperation with agencies of the United States, the States, private institutions and organizations, and agencies of the government of any Party, to conduct scientific and other programs, and may execute such memoranda as may be necessary to reflect such agreements.
 
-(Pub. L. 102–567, title VIII, § 808, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, § 8008, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, § 808, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, § 8008, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 
@@ -265,7 +265,7 @@ In carrying out the provisions of the Convention and this chapter, the Secretary
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
-## § 5008. Enforcement provisions
+## § 5008. Enforcement provisions
 
 **(a) Duties of Secretaries of Commerce and Transportation**
 
@@ -299,9 +299,9 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 **(A)** board a vessel of any Party that reasonably can be believed to be engaged in directed fishing for, incidental taking of, or processing of anadromous fish, and, without warrant or process, inspect equipment, logs, documents, catch, and other articles, and question persons, on board the vessel, for the purpose of carrying out the provisions of the Convention, this chapter, or any regulation issued under this chapter; and
 
-**(B)** If 1
+**(B)** If 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 any such vessel or person on board is actually engaged in operations in violation of any such provision, or there is reasonable ground to believe any person or vessel was obviously so engaged before the boarding of such vessel by the authorized officer, arrest or seize such person or vessel and further investigate the circumstance if necessary.
 
@@ -309,7 +309,7 @@ If an authorized officer, after boarding and investigation, has reasonable cause
 
 **(2)** When requested by the appropriate authorities of a Party, an authorized officer may be directed to attend as a witness, and to produce such available records and files or duly certified copies thereof as may be necessary, for the prosecution by that Party of any violation of the provisions of the Convention or any law of that Party relating to the enforcement thereof.
 
-(Pub. L. 102–567, title VIII, § 809, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, § 8009, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, § 809, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, § 8009, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 
@@ -317,7 +317,7 @@ If an authorized officer, after boarding and investigation, has reasonable cause
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
-## § 5009. Unlawful activities
+## § 5009. Unlawful activities
 
 It is unlawful for any person or fishing vessel subject to the jurisdiction of the United States—
 
@@ -339,7 +339,7 @@ It is unlawful for any person or fishing vessel subject to the jurisdiction of t
 
 **(9)** to violate any provision of the Convention, this chapter, or any regulation issued under this chapter.
 
-(Pub. L. 102–567, title VIII, § 810, Oct. 29, 1992, 106 Stat. 4313; Pub. L. 102–587, title VIII, § 8010, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title I, § 103(a), Nov. 5, 2015, 129 Stat. 657.)
+(Pub. L. 102–567, title VIII, § 810, Oct. 29, 1992, 106 Stat. 4313; Pub. L. 102–587, title VIII, § 8010, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title I, § 103(a), Nov. 5, 2015, 129 Stat. 657.)
 
 **Editorial Notes**
 
@@ -349,13 +349,13 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially iden
 
 **Amendments**
 
-2015—Pars. (5), (6). Pub. L. 114–81 inserted “, investigation,” after “search”.
+2015—Pars. (5), (6). Pub. L. 114–81 inserted “, investigation,” after “search”.
 
-## § 5010. Additional prohibitions and enforcement
+## § 5010. Additional prohibitions and enforcement
 
 For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title.
 
-(Pub. L. 102–567, title VIII, § 811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, § 8011, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title I, § 103(b), Nov. 5, 2015, 129 Stat. 657.)
+(Pub. L. 102–567, title VIII, § 811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, § 8011, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title I, § 103(b), Nov. 5, 2015, 129 Stat. 657.)
 
 **Editorial Notes**
 
@@ -367,7 +367,7 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially iden
 
 2015—Pub. L. 114–81 amended section generally. Prior to amendment, section related to civil penalties, offenses, and forfeiture.
 
-## § 5011. Funding requirements
+## § 5011. Funding requirements
 
 **(a) Authorization** There are authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Convention and this chapter, including—
 
@@ -379,7 +379,7 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially iden
 
 Such funds as shall be made available to the Secretary of Commerce for research and related activities shall be expended to carry out the program of the Commission in accordance with the recommendations of the United States Section and to carry out other research and observer programs pursuant to the Convention.
 
-(Pub. L. 102–567, title VIII, § 812, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 102–587, title VIII, § 8012, Nov. 4, 1992, 106 Stat. 5105; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, § 812, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 102–587, title VIII, § 8012, Nov. 4, 1992, 106 Stat. 5105; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 
@@ -387,11 +387,11 @@ Such funds as shall be made available to the Secretary of Commerce for research 
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
-## § 5012. Disposition of property
+## § 5012. Disposition of property
 
 The Secretary shall dispose of any United States property held by the International North Pacific Fisheries Commission on the date of its termination in a manner that would further the purposes of this chapter.
 
-(Pub. L. 102–567, title VIII, § 813, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 102–587, title VIII, § 8013, Nov. 4, 1992, 106 Stat. 5106; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, § 813, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 102–587, title VIII, § 8013, Nov. 4, 1992, 106 Stat. 5106; Pub. L. 106–562, title III, § 304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 

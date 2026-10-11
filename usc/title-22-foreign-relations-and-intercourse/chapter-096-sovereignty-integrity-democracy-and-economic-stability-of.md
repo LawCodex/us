@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 96—SOVEREIGNTY, INTEGRITY, DEMOCRACY, AND ECONOMIC STABILITY OF UKRAINE
 
-## § 8901. Definitions
+## § 8901. Definitions
 
 In this chapter:
 
@@ -27,9 +27,9 @@ The term “alien” has the meaning given that term in section 1101(a) of title
 
 **(A)** the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on Appropriations, and the majority leader and minority leader of the Senate; and
 
-**(B)** the Committee on Financial Services 1
+**(B)** the Committee on Financial Services 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Speaker and minority leader of the House of Representatives.
 
@@ -43,23 +43,23 @@ The term “materially assisted” means the provision of assistance that is sig
 
 **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
 
-(Pub. L. 113–95, § 2, Apr. 3, 2014, 128 Stat. 1088; Pub. L. 115–44, title II, § 228(b), Aug. 2, 2017, 131 Stat. 914.)
+(Pub. L. 113–95, § 2, Apr. 3, 2014, 128 Stat. 1088; Pub. L. 115–44, title II, § 228(b), Aug. 2, 2017, 131 Stat. 914.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Par. (2)(A). Pub. L. 115–44, § 228(b)(1), inserted “the Committee on Banking, Housing, and Urban Affairs,” before “the Committee on Foreign Relations”.
+2017—Par. (2)(A). Pub. L. 115–44, § 228(b)(1), inserted “the Committee on Banking, Housing, and Urban Affairs,” before “the Committee on Foreign Relations”.
 
-Par. (2)(B). Pub. L. 115–44, § 228(b)(2), inserted “the Committee on Financial Services” before “the Committee on Foreign Affairs”.
+Par. (2)(B). Pub. L. 115–44, § 228(b)(2), inserted “the Committee on Financial Services” before “the Committee on Foreign Affairs”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 113–95, § 1, Apr. 3, 2014, 128 Stat. 1088, provided that: “This Act [enacting this chapter] may be cited as the ‘Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014’.”
+Pub. L. 113–95, § 1, Apr. 3, 2014, 128 Stat. 1088, provided that: “This Act [enacting this chapter] may be cited as the ‘Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014’.”
 
-## § 8902. United States policy toward Ukraine
+## § 8902. United States policy toward Ukraine
 
 It is the policy of the United States—
 
@@ -77,9 +77,9 @@ It is the policy of the United States—
 
 **(7)** to help the Government of Ukraine prepare for the presidential election in May 2014;
 
-**(8)** to reinforce the efforts of the Government of Ukraine to bring to justice those responsible for the acts of violence against peaceful protestors and other unprovoked acts of violence related to the antigovernment protests in 1
+**(8)** to reinforce the efforts of the Government of Ukraine to bring to justice those responsible for the acts of violence against peaceful protestors and other unprovoked acts of violence related to the antigovernment protests in 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 that began on November 21, 2013;
 
@@ -101,13 +101,13 @@ that began on November 21, 2013;
 
 **(17)** to ensure the United States maintains its predominant leadership position and influence within the International Monetary Fund, and to guarantee the International Monetary Fund has the resources and governance structure necessary to support structural reforms in Ukraine and respond to and prevent a potentially serious financial crisis in Ukraine or other foreign economic crises that threatens United States national security.
 
-(Pub. L. 113–95, § 3, Apr. 3, 2014, 128 Stat. 1088.)
+(Pub. L. 113–95, § 3, Apr. 3, 2014, 128 Stat. 1088.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Ukraine Invasion War Crimes Deterrence and Accountability**
 
-Pub. L. 117–263, div. E, title LIX, § 5948, Dec. 23, 2022, 136 Stat. 3482, provided that:
+Pub. L. 117–263, div. E, title LIX, § 5948, Dec. 23, 2022, 136 Stat. 3482, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Ukraine Invasion War Crimes Deterrence and Accountability Act’.
 
@@ -201,7 +201,7 @@ Pub. L. 117–185, Oct. 4, 2022, 136 Stat. 2197, provided that:
 
 **Cooperation Between the United States and Ukraine Regarding the Titanium Industry**
 
-Pub. L. 117–81, div. F, title LXV, § 6505, Dec. 27, 2021, 135 Stat. 2428, provided that:
+Pub. L. 117–81, div. F, title LXV, § 6505, Dec. 27, 2021, 135 Stat. 2428, provided that:
 
 > **“(a) Statement of Policy.—** It is the policy of the United States to engage with the Government of Ukraine on cooperation in the titanium industry as a potential alternative to Chinese and Russian sources on which the United States and Europe currently depend.
 
@@ -215,7 +215,7 @@ Pub. L. 117–81, div. F, title LXV, § 6505, Dec. 27, 2021, 135 Stat. 2428, p
 
 > **“(2)** the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.”
 
-## § 8903. Provision of costs of loan guarantees for Ukraine
+## § 8903. Provision of costs of loan guarantees for Ukraine
 
 **(a) In general**
 
@@ -225,9 +225,9 @@ From the unobligated balance of amounts appropriated or otherwise made available
 
 Amounts made available for the costs of loan guarantees for Ukraine pursuant to subsection (a) shall not be considered “assistance” for the purpose of provisions of law limiting assistance to Ukraine.
 
-(Pub. L. 113–95, § 4, Apr. 3, 2014, 128 Stat. 1090.)
+(Pub. L. 113–95, § 4, Apr. 3, 2014, 128 Stat. 1090.)
 
-## § 8904. Recovery of assets linked to governmental corruption in Ukraine
+## § 8904. Recovery of assets linked to governmental corruption in Ukraine
 
 **(a) Asset recovery**
 
@@ -245,7 +245,7 @@ The Secretary of State, in coordination with the Attorney General, shall assist 
 
 The Secretary of the Treasury shall ensure that the Financial Crimes Enforcement Network of the Department of the Treasury assists the Government of Ukraine, the European Union, and other appropriate countries under section 314(a) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (31 U.S.C. 5311 note).
 
-(Pub. L. 113–95, § 5, Apr. 3, 2014, 128 Stat. 1090.)
+(Pub. L. 113–95, § 5, Apr. 3, 2014, 128 Stat. 1090.)
 
 **Editorial Notes**
 
@@ -253,7 +253,7 @@ The Secretary of the Treasury shall ensure that the Financial Crimes Enforcement
 
 Section 314(a) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001, referred to in subsec. (d), is section 314(a) of Pub. L. 107–56, which is set out as a note under section 5311 of Title 31, Money and Finance.
 
-## § 8905. Democracy, civil society, governance, and technical assistance for Ukraine and other states in Central and Eastern Europe
+## § 8905. Democracy, civil society, governance, and technical assistance for Ukraine and other states in Central and Eastern Europe
 
 **(a) In general** The Secretary of State shall, subject to the availability of appropriations, directly or through nongovernmental organizations—
 
@@ -291,9 +291,9 @@ Funds appropriated or otherwise made available pursuant to subsection (b) may no
 
 The President may waive the notification requirement under paragraph (1) if the President determines that failure to do so would pose a substantial risk to human health or welfare, in which case notification shall be provided as early as practicable, but in no event later than three days after taking the action to which such notification requirement was applicable in the context of the circumstances necessitating such waiver.
 
-(Pub. L. 113–95, § 6, Apr. 3, 2014, 128 Stat. 1091.)
+(Pub. L. 113–95, § 6, Apr. 3, 2014, 128 Stat. 1091.)
 
-## § 8906. Enhanced security cooperation with Ukraine and other countries in Central and Eastern Europe
+## § 8906. Enhanced security cooperation with Ukraine and other countries in Central and Eastern Europe
 
 **(a) In general** The President shall, subject to the availability of appropriations—
 
@@ -321,9 +321,9 @@ Funds appropriated or otherwise made available pursuant to subsection (b) may no
 
 The President may waive the notification requirement under paragraph (1) if the President determines that failure to do so would pose a substantial risk to human health or welfare, in which case notification shall be provided as early as practicable, but in no event later than three days after taking the action to which such notification requirement was applicable in the context of the circumstances necessitating such waiver.
 
-(Pub. L. 113–95, § 7, Apr. 3, 2014, 128 Stat. 1092.)
+(Pub. L. 113–95, § 7, Apr. 3, 2014, 128 Stat. 1092.)
 
-## § 8907. Sanctions on persons responsible for violence or undermining the peace, security, stability, sovereignty, or territorial integrity of Ukraine
+## § 8907. Sanctions on persons responsible for violence or undermining the peace, security, stability, sovereignty, or territorial integrity of Ukraine
 
 **(a) In general** The President shall impose the sanctions described in subsection (b) with respect to—
 
@@ -359,9 +359,9 @@ The requirement to block and prohibit all transactions in all property and inter
 
 **(B) Good defined**
 
-In this paragraph, the term “good” has the meaning given that term in section 4618 1
+In this paragraph, the term “good” has the meaning given that term in section 4618 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
@@ -385,21 +385,21 @@ Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the al
 
 The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
-(Pub. L. 113–95, § 8, Apr. 3, 2014, 128 Stat. 1093; Pub. L. 115–44, title II, § 230(a), Aug. 2, 2017, 131 Stat. 915.)
+(Pub. L. 113–95, § 8, Apr. 3, 2014, 128 Stat. 1093; Pub. L. 115–44, title II, § 230(a), Aug. 2, 2017, 131 Stat. 915.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-Section 4618 of title 50, referred to in subsec. (b)(3)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4618 of title 50, referred to in subsec. (b)(3)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Amendments**
 
 2017—Subsecs. (d), (e). Pub. L. 115–44, which directed amendment of section 8 of the “Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014” by adding subsec. (d) and redesignating former subsec. (d) as (e), was executed to this section, which is section 8 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress.
 
-## § 8908. Sanctions on persons in the Russian Federation complicit in or responsible for significant corruption
+## § 8908. Sanctions on persons in the Russian Federation complicit in or responsible for significant corruption
 
 **(a) In general** The President shall impose the sanctions described in subsection (b) with respect to—
 
@@ -431,9 +431,9 @@ The authority to block and prohibit all transactions in all property and interes
 
 **(B) Good defined**
 
-In this paragraph, the term “good” has the meaning given that term in section 4618 1
+In this paragraph, the term “good” has the meaning given that term in section 4618 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
@@ -441,9 +441,9 @@ of title 50 (as continued in effect pursuant to the International Emergency Econ
 
 Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
-**(c) Waiver** except 2
+**(c) Waiver** except 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 as provided in subsection (d), the President may waive the application of sanctions under subsection (b) with respect to a person if the President—
 
@@ -457,7 +457,7 @@ as provided in subsection (d), the President may waive the application of sancti
 
 **(2)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
 
-**(e) 3 [footnote: 3 So in original. Two subsecs. (e) have been enacted.] Application of new sanctions** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
+**(e) 3 [footnote: 3 So in original. Two subsecs. (e) have been enacted.] Application of new sanctions** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
 
 **(1)** a written determination that the waiver—
 
@@ -471,15 +471,15 @@ as provided in subsection (d), the President may waive the application of sancti
 
 The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
-(Pub. L. 113–95, § 9, Apr. 3, 2014, 128 Stat. 1094; Pub. L. 115–44, title II, §§ 227, 230(b), Aug. 2, 2017, 131 Stat. 910, 916.)
+(Pub. L. 113–95, § 9, Apr. 3, 2014, 128 Stat. 1094; Pub. L. 115–44, title II, §§ 227, 230(b), Aug. 2, 2017, 131 Stat. 910, 916.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-Section 4618 of title 50, referred to in subsec. (b)(3)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4618 of title 50, referred to in subsec. (b)(3)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Codification**
 
@@ -487,17 +487,17 @@ Sections 227 and 230(b) of Pub. L. 115–44, which directed the amendment of sec
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–44, § 227(1)(A), substituted “shall” for “is authorized and encouraged to” in introductory provisions. See Codification note above.
+2017—Subsec. (a). Pub. L. 115–44, § 227(1)(A), substituted “shall” for “is authorized and encouraged to” in introductory provisions. See Codification note above.
 
-Subsec. (a)(1). Pub. L. 115–44, § 227(1)(B), substituted “President determines is, on or after August 2, 2017,” for “President determines is” and inserted “or elsewhere” after “in the Russian Federation”. See Codification note above.
+Subsec. (a)(1). Pub. L. 115–44, § 227(1)(B), substituted “President determines is, on or after August 2, 2017,” for “President determines is” and inserted “or elsewhere” after “in the Russian Federation”. See Codification note above.
 
-Subsec. (c). Pub. L. 115–44, § 227(3), substituted “except as provided in subsection (d), the President” for “The President” in introductory provisions. See Codification note above.
+Subsec. (c). Pub. L. 115–44, § 227(3), substituted “except as provided in subsection (d), the President” for “The President” in introductory provisions. See Codification note above.
 
-Subsecs. (d), (e). Pub. L. 115–44, § 230(b), added subsec. (d) and redesignated former subsec. (d), relating to application of new sanctions, as (e). See Codification note above.
+Subsecs. (d), (e). Pub. L. 115–44, § 230(b), added subsec. (d) and redesignated former subsec. (d), relating to application of new sanctions, as (e). See Codification note above.
 
-Pub. L. 115–44, § 227(2), (4), added subsec. (d) and redesignated former subsec. (d), relating to regulatory authority, as (e). See Codification note above.
+Pub. L. 115–44, § 227(2), (4), added subsec. (d) and redesignated former subsec. (d), relating to regulatory authority, as (e). See Codification note above.
 
-## § 8909. Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation
+## § 8909. Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation
 
 **(a) In general** The President shall impose the sanctions described in subsection (b) with respect to a foreign person if the President determines that the foreign person knowingly, on or after August 2, 2017—
 
@@ -569,15 +569,15 @@ The term “foreign person” has the meaning given such term in section 595.304
 
 The term “structured”, with respect to a transaction, has the meaning given the term “structure” in paragraph (xx) of section 1010.100 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-(Pub. L. 113–95, § 10, as added Pub. L. 115–44, title II, § 228(a), Aug. 2, 2017, 131 Stat. 911.)
+(Pub. L. 113–95, § 10, as added Pub. L. 115–44, title II, § 228(a), Aug. 2, 2017, 131 Stat. 911.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(1), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
+The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(1), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Executive Order No. 13660, referred to in subsec. (f)(1)(A), is Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
@@ -593,9 +593,9 @@ Executive Order No. 13757, referred to in subsec. (f)(1)(F), is Ex. Ord. No. 137
 
 **Prior Provisions**
 
-A prior section 8909, Pub. L. 113–95, § 10, Apr. 3, 2014, 128 Stat. 1096, which related to annual report on military and security developments involving the Russian Federation, and was superseded by Pub. L. 113–291, div. A, title XII, § 1245, Dec. 19, 2014, 128 Stat. 3566, which is not classified to the Code, was repealed by Pub. L. 113–291, div. A, title XII, § 1245(f), formerly § 1245(e), Dec. 19, 2014, 128 Stat. 3568, renumbered § 1245(f), Pub. L. 114–328, div. A, title XII, § 1235(b)(1), Dec. 23, 2016, 130 Stat. 2491.
+A prior section 8909, Pub. L. 113–95, § 10, Apr. 3, 2014, 128 Stat. 1096, which related to annual report on military and security developments involving the Russian Federation, and was superseded by Pub. L. 113–291, div. A, title XII, § 1245, Dec. 19, 2014, 128 Stat. 3566, which is not classified to the Code, was repealed by Pub. L. 113–291, div. A, title XII, § 1245(f), formerly § 1245(e), Dec. 19, 2014, 128 Stat. 3568, renumbered § 1245(f), Pub. L. 114–328, div. A, title XII, § 1235(b)(1), Dec. 23, 2016, 130 Stat. 2491.
 
-## § 8910. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses
+## § 8910. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses
 
 **(a) In general** The President shall impose the sanctions described in subsection (b) with respect to a foreign person if the President determines that the foreign person, based on credible information, on or after August 2, 2017—
 
@@ -649,10 +649,10 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 **(B)** that the President determines that insufficient basis exists for the determination by the President under subsection (a) with respect to the person.
 
-(Pub. L. 113–95, § 11, as added Pub. L. 115–44, title II, § 228(a), Aug. 2, 2017, 131 Stat. 913.)
+(Pub. L. 113–95, § 11, as added Pub. L. 115–44, title II, § 228(a), Aug. 2, 2017, 131 Stat. 913.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.

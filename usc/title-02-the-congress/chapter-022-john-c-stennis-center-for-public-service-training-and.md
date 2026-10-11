@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 22—JOHN C. STENNIS CENTER FOR PUBLIC SERVICE TRAINING AND DEVELOPMENT
 
-## § 1101. Congressional findings
+## § 1101. Congressional findings
 
 The Congress makes the following findings:
 
@@ -29,15 +29,15 @@ The Congress makes the following findings:
 
 **(5)** It would be a fitting tribute to Senator Stennis and to his leadership, integrity, and years of devoted public service to establish in his name a center for the training and development of leadership and excellence in public service.
 
-(Pub. L. 100–458, title I, § 112, Oct. 1, 1988, 102 Stat. 2172.)
+(Pub. L. 100–458, title I, § 112, Oct. 1, 1988, 102 Stat. 2172.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–458, title I, § 111, Oct. 1, 1988, 102 Stat. 2172, provided that: “This subtitle [subtitle B (§§ 111–121) of title I of Pub. L. 100–458, enacting this chapter] may be cited as the ‘John C. Stennis Center for Public Service Training and Development Act’.”
+Pub. L. 100–458, title I, § 111, Oct. 1, 1988, 102 Stat. 2172, provided that: “This subtitle [subtitle B (§§ 111–121) of title I of Pub. L. 100–458, enacting this chapter] may be cited as the ‘John C. Stennis Center for Public Service Training and Development Act’.”
 
-## § 1102. Definitions
+## § 1102. Definitions
 
 In this chapter:
 
@@ -47,9 +47,9 @@ In this chapter:
 
 **(3)** The term “fund” means the John C. Stennis Center for Public Service Training and Development Trust Fund provided for under section 1105 of this title.
 
-(Pub. L. 100–458, title I, § 113, Oct. 1, 1988, 102 Stat. 2172.)
+(Pub. L. 100–458, title I, § 113, Oct. 1, 1988, 102 Stat. 2172.)
 
-## § 1103. Establishment of John C. Stennis Center for Public Service Training and Development
+## § 1103. Establishment of John C. Stennis Center for Public Service Training and Development
 
 **(a) Establishment**
 
@@ -83,9 +83,9 @@ Members of the Board (other than the Executive Director) shall serve without pay
 
 The Center shall be located at or near Starkville, Mississippi, the location of Mississippi State University.
 
-(Pub. L. 100–458, title I, § 114, Oct. 1, 1988, 102 Stat. 2173.)
+(Pub. L. 100–458, title I, § 114, Oct. 1, 1988, 102 Stat. 2173.)
 
-## § 1104. Purposes and authority of Center
+## § 1104. Purposes and authority of Center
 
 **(a) Purposes of Center** The purposes of the Center shall be—
 
@@ -125,9 +125,9 @@ The Center shall be located at or near Starkville, Mississippi, the location of 
 
 The Board of Trustees shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs.
 
-(Pub. L. 100–458, title I, § 115, Oct. 1, 1988, 102 Stat. 2173.)
+(Pub. L. 100–458, title I, § 115, Oct. 1, 1988, 102 Stat. 2173.)
 
-## § 1105. John C. Stennis Center for Public Service Development Trust Fund
+## § 1105. John C. Stennis Center for Public Service Development Trust Fund
 
 **(a) Establishment of fund**
 
@@ -147,23 +147,23 @@ At the request of the Center, the Secretary of the Treasury shall redeem any obl
 
 In addition to the appropriations received pursuant to section 1110 of this title, the interest on, and the proceeds from the sale or redemption of, any obligations held in the fund pursuant to section 1108(a) of this title, shall be credited to and form a part of the fund.
 
-(Pub. L. 100–458, title I, § 116, Oct. 1, 1988, 102 Stat. 2174; Pub. L. 101–520, title III, § 313(a), Nov. 5, 1990, 104 Stat. 2282; Pub. L. 108–7, div. J, title I, § 125, Feb. 20, 2003, 117 Stat. 439.)
+(Pub. L. 100–458, title I, § 116, Oct. 1, 1988, 102 Stat. 2174; Pub. L. 101–520, title III, § 313(a), Nov. 5, 1990, 104 Stat. 2282; Pub. L. 108–7, div. J, title I, § 125, Feb. 20, 2003, 117 Stat. 439.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (b). Pub. L. 108–7, § 125(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+2003—Subsec. (b). Pub. L. 108–7, § 125(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
 “(1) It shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated to the fund. Such investments may be made only in interest bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose, such obligations may be acquired on original issue at the issue price or by purchase of outstanding obligations at the marketplace.
 
 “(2) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest bearing obligations of the United States then forming a part of the public debt, except that when such average rate is not a multiple of one-eighth of one percent, the rate of interest of such special obligations shall be the multiple of one-eighth of one percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other interest bearing obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue or at the market price, is not in the public interest.”
 
-Subsec. (c). Pub. L. 108–7, § 125(2), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Any obligation acquired by the fund (except special obligations issued exclusively to the fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.”
+Subsec. (c). Pub. L. 108–7, § 125(2), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Any obligation acquired by the fund (except special obligations issued exclusively to the fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.”
 
 1990—Subsec. (d). Pub. L. 101–520 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.”
 
-## § 1106. Expenditures and audit of trust fund
+## § 1106. Expenditures and audit of trust fund
 
 **(a) In general**
 
@@ -173,7 +173,7 @@ The Secretary of the Treasury is authorized to pay to the Center from the intere
 
 The activities of the Center under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Center, pertaining to such activities and necessary to facilitate the audit.
 
-(Pub. L. 100–458, title I, § 117, Oct. 1, 1988, 102 Stat. 2175; Pub. L. 101–520, title III, § 313(b), Nov. 5, 1990, 104 Stat. 2282; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 100–458, title I, § 117, Oct. 1, 1988, 102 Stat. 2175; Pub. L. 101–520, title III, § 313(b), Nov. 5, 1990, 104 Stat. 2282; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -183,7 +183,7 @@ The activities of the Center under this chapter may be audited by the Government
 
 1990—Subsec. (a). Pub. L. 101–520 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Treasury is authorized to pay to the Center from the interest and earnings of the fund such sums as the Board determines are necessary and appropriate to enable the Center to carry out the provisions of this chapter.”
 
-## § 1107. Executive Director of Center
+## § 1107. Executive Director of Center
 
 **(a) Appointment by Board**
 
@@ -195,15 +195,15 @@ The activities of the Center under this chapter may be audited by the Government
 
 The Executive Director of the Center shall be compensated at the rate specified for employees in grade GS–18 of the General Schedule under section 5332 of title 5.
 
-(Pub. L. 100–458, title I, § 118, Oct. 1, 1988, 102 Stat. 2175.)
+(Pub. L. 100–458, title I, § 118, Oct. 1, 1988, 102 Stat. 2175.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 1108. Administrative provisions
+## § 1108. Administrative provisions
 
 **(a) In general** In order to carry out the provisions of this chapter, the Center may—
 
@@ -231,13 +231,13 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(b) Omitted**
 
-(Pub. L. 100–458, title I, § 119, Oct. 1, 1988, 102 Stat. 2176; Pub. L. 101–163, title III, § 320, Nov. 21, 1989, 103 Stat. 1068; Pub. L. 101–520, title III, § 313(c), Nov. 5, 1990, 104 Stat. 2282.)
+(Pub. L. 100–458, title I, § 119, Oct. 1, 1988, 102 Stat. 2176; Pub. L. 101–163, title III, § 320, Nov. 21, 1989, 103 Stat. 1068; Pub. L. 101–520, title III, § 313(c), Nov. 5, 1990, 104 Stat. 2282.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Subsection (b), which required the Center to submit an annual report to Congress on its operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 143 of House Document No. 103–7.
 
@@ -251,16 +251,16 @@ Subsection (b), which required the Center to submit an annual report to Congress
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 1109. Authorization for appropriations
+## § 1109. Authorization for appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-(Pub. L. 100–458, title I, § 120, Oct. 1, 1988, 102 Stat. 2176.)
+(Pub. L. 100–458, title I, § 120, Oct. 1, 1988, 102 Stat. 2176.)
 
-## § 1110. Appropriations
+## § 1110. Appropriations
 
 There is appropriated to the fund the sum of $7,500,000 to carry out this chapter.
 
-(Pub. L. 100–458, title I, § 121, Oct. 1, 1988, 102 Stat. 2176.)
+(Pub. L. 100–458, title I, § 121, Oct. 1, 1988, 102 Stat. 2176.)

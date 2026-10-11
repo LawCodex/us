@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1515—NATIONAL FEDERATION OF MUSIC CLUBS"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1515—NATIONAL FEDERATION OF MUSIC CLUBS"
 identifier: "/us/usc/t36/stII/ptB/ch1515"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1515—NATIONAL FEDERATION OF MUSIC CLUBS
 
-## § 151501. Definition
+## § 151501. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151501 | 36:2013. | Aug. 9, 1982, Pub. L. 97–231, § 14, 96 Stat. 258. |
+| 151501 | 36:2013. | Aug. 9, 1982, Pub. L. 97–231, § 14, 96 Stat. 258. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 151502. Organization
+## § 151502. Organization
 
 **(a) Federal Charter.—** National Federation of Music Clubs (in this chapter, the “corporation”), incorporated in Illinois, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151502(a) | 36:2001. | Aug. 9, 1982, Pub. L. 97–231, §§ 1, 15 (last sentence), 16, 96 Stat. 256, 258. |
+| 151502(a) | 36:2001. | Aug. 9, 1982, Pub. L. 97–231, §§ 1, 15 (last sentence), 16, 96 Stat. 256, 258. |
 | 151502(b) | 36:2014 (last sentence). 36:2015. |  |
 
 This section is substituted for the source provisions for consistency in the revised title.
 
-## § 151503. Purposes
+## § 151503. Purposes
 
 **(a) Specific Purposes.—** The purposes of the corporation are as provided in the articles of incorporation and include—
 
@@ -64,11 +64,11 @@ This section is substituted for the source provisions for consistency in the rev
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151503 | 36:2003. | Aug. 9, 1982, Pub. L. 97–231, § 3, 96 Stat. 256. |
+| 151503 | 36:2003. | Aug. 9, 1982, Pub. L. 97–231, § 3, 96 Stat. 256. |
 
 In subsection (a), the words “objects”, “directly or indirectly”, and “of America” are omitted as unnecessary and for consistency in the revised title.
 
-## § 151504. Membership
+## § 151504. Membership
 
 Eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
 
@@ -78,9 +78,9 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151504 | 36:2005. | Aug. 9, 1982, Pub. L. 97–231, § 5, 96 Stat. 256. |
+| 151504 | 36:2005. | Aug. 9, 1982, Pub. L. 97–231, § 5, 96 Stat. 256. |
 
-## § 151505. Governing body
+## § 151505. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -92,12 +92,12 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151505(a) | 36:2006. | Aug. 9, 1982, Pub. L. 97–231, §§ 6, 7, 96 Stat. 257. |
+| 151505(a) | 36:2006. | Aug. 9, 1982, Pub. L. 97–231, §§ 6, 7, 96 Stat. 257. |
 | 151505(b) | 36:2007. |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2006 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2007 are omitted as unnecessary.
 
-## § 151506. Powers
+## § 151506. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -107,11 +107,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151506 | 36:2002. | Aug. 9, 1982, Pub. L. 97–231, § 2, 96 Stat. 256. |
+| 151506 | 36:2002. | Aug. 9, 1982, Pub. L. 97–231, § 2, 96 Stat. 256. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 151507. Restrictions
+## § 151507. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -129,7 +129,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151507(a) | 36:2008(d). | Aug. 9, 1982, Pub. L. 97–231, § 8(a)–(e), 96 Stat. 257. |
+| 151507(a) | 36:2008(d). | Aug. 9, 1982, Pub. L. 97–231, § 8(a)–(e), 96 Stat. 257. |
 | 151507(b) | 36:2008(c). |  |
 | 151507(c) | 36:2008(a). |  |
 | 151507(d) | 36:2008(b). |  |
@@ -139,7 +139,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 151508. Duty to maintain corporate and tax-exempt status
+## § 151508. Duty to maintain corporate and tax-exempt status
 
 **(a) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of Illinois.
 
@@ -151,10 +151,10 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151508(a) | 36:2008(f). | Aug. 9, 1982, Pub. L. 97–231, §§ 8(f), 15 (1st sentence), 96 Stat. 257, 258. |
+| 151508(a) | 36:2008(f). | Aug. 9, 1982, Pub. L. 97–231, §§ 8(f), 15 (1st sentence), 96 Stat. 257, 258. |
 | 151508(b) | 36:2014 (1st sentence). |  |
 
-## § 151509. Records and inspection
+## § 151509. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -172,11 +172,11 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151509 | 36:2010. | Aug. 9, 1982, Pub. L. 97–231, § 10, 96 Stat. 257. |
+| 151509 | 36:2010. | Aug. 9, 1982, Pub. L. 97–231, § 10, 96 Stat. 257. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 151510. Service of process
+## § 151510. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -186,11 +186,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151510 | 36:2004. | Aug. 9, 1982, Pub. L. 97–231, § 4, 96 Stat. 256. |
+| 151510 | 36:2004. | Aug. 9, 1982, Pub. L. 97–231, § 4, 96 Stat. 256. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 151511. Liability for acts of officers and agents
+## § 151511. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -200,9 +200,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151511 | 36:2009. | Aug. 9, 1982, Pub. L. 97–231, § 9, 96 Stat. 257. |
+| 151511 | 36:2009. | Aug. 9, 1982, Pub. L. 97–231, § 9, 96 Stat. 257. |
 
-## § 151512. Annual report
+## § 151512. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -212,7 +212,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151512 | 36:2011. | Aug. 9, 1982, Pub. L. 97–231, § 12, 96 Stat. 258. |
+| 151512 | 36:2011. | Aug. 9, 1982, Pub. L. 97–231, § 12, 96 Stat. 258. |
 
 **Statutory Notes and Related Subsidiaries**
 

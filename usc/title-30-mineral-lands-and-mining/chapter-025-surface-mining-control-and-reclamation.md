@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—STATEMENT OF FINDINGS AND POLICY
 
-### § 1201. Congressional findings
+### § 1201. Congressional findings
 
 The Congress finds and declares that—
 
@@ -29,7 +29,7 @@ The Congress finds and declares that—
 
 **(d)** the expansion of coal mining to meet the Nation’s energy needs makes even more urgent the establishment of appropriate standards to minimize damage to the environment and to productivity of the soil and to protect the health and safety of the public.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(e)** surface mining and reclamation technology are now developed so that effective and reasonable regulation of surface coal mining operations by the States and by the Federal Government in accordance with the requirements of this chapter is an appropriate and necessary means to minimize so far as practicable the adverse social, economic, and environmental effects of such mining operations;
 
@@ -45,7 +45,7 @@ The Congress finds and declares that—
 
 **(k)** the cooperative effort established by this chapter is necessary to prevent or mitigate adverse environmental effects of present and future surface coal mining operations.
 
-(Pub. L. 95–87, title I, § 101, Aug. 3, 1977, 91 Stat. 447.)
+(Pub. L. 95–87, title I, § 101, Aug. 3, 1977, 91 Stat. 447.)
 
 **Editorial Notes**
 
@@ -57,41 +57,41 @@ This chapter, referred to in pars. (e), (f), and (k), was in the original “thi
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. Y, § 1, Dec. 27, 2020, 134 Stat. 2417, provided that: “This division [amending section 1232 of this title and enacting provisions set out as a note under section 1232 of this title] may be cited as the ‘American Miner Benefits Improvement Act of 2020’.”
+Pub. L. 116–260, div. Y, § 1, Dec. 27, 2020, 134 Stat. 2417, provided that: “This division [amending section 1232 of this title and enacting provisions set out as a note under section 1232 of this title] may be cited as the ‘American Miner Benefits Improvement Act of 2020’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–94, div. M, § 101, Dec. 20, 2019, 133 Stat. 3091, provided that: “This division [amending section 1232 of this title and sections 401 and 457 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and section 401 of Title 26] may be cited as the ‘Bipartisan American Miners Act of 2019’.”
+Pub. L. 116–94, div. M, § 101, Dec. 20, 2019, 133 Stat. 3091, provided that: “This division [amending section 1232 of this title and sections 401 and 457 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and section 401 of Title 26] may be cited as the ‘Bipartisan American Miners Act of 2019’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 114–223, div. C, § 202(a), as added by Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134, provided that: “This section [amending section 1232 of this title] may be cited as the ‘Further Continued Health Benefits for Miners Act’.”
+Pub. L. 114–223, div. C, § 202(a), as added by Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134, provided that: “This section [amending section 1232 of this title] may be cited as the ‘Further Continued Health Benefits for Miners Act’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–223, div. C, § 167(a), as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1009, provided that: “This section [amending section 1232 of this title] may be cited as the ‘Continued Health Benefits for Miners Act’.”
+Pub. L. 114–223, div. C, § 167(a), as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1009, provided that: “This section [amending section 1232 of this title] may be cited as the ‘Continued Health Benefits for Miners Act’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–432, div. C, title II, § 200, Dec. 20, 2006, 120 Stat. 3006, provided that: “This title [enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
+Pub. L. 109–432, div. C, title II, § 200, Dec. 20, 2006, 120 Stat. 3006, provided that: “This title [enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
 
 **Short Title of 1990 Amendments**
 
-Pub. L. 101–508, title VI, § 6001, Nov. 5, 1990, 104 Stat. 1388–289, provided that: “This subtitle [subtitle A (§§ 6001–6014) of title VI of Pub. L. 101–508, enacting section 1240a of this title, amending sections 1231 to 1237, 1239, 1257, and 1302 of this title, and enacting provisions set out as notes under section 1231 of this title] may be cited as the ‘Abandoned Mine Reclamation Act of 1990’.”
+Pub. L. 101–508, title VI, § 6001, Nov. 5, 1990, 104 Stat. 1388–289, provided that: “This subtitle [subtitle A (§§ 6001–6014) of title VI of Pub. L. 101–508, enacting section 1240a of this title, amending sections 1231 to 1237, 1239, 1257, and 1302 of this title, and enacting provisions set out as notes under section 1231 of this title] may be cited as the ‘Abandoned Mine Reclamation Act of 1990’.”
 
-Pub. L. 101–498, § 1, Nov. 2, 1990, 104 Stat. 1207, provided that: “This Act [enacting section 1230a of this title] may be cited as the ‘Strategic and Critical Minerals Act of 1990’.”
+Pub. L. 101–498, § 1, Nov. 2, 1990, 104 Stat. 1207, provided that: “This Act [enacting section 1230a of this title] may be cited as the ‘Strategic and Critical Minerals Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–483, § 13, Oct. 12, 1988, 102 Stat. 2341, provided that: “This Act [amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988.”
+Pub. L. 100–483, § 13, Oct. 12, 1988, 102 Stat. 2341, provided that: “This Act [amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988.”
 
 **Short Title**
 
-Pub. L. 95–87, § 1, Aug. 3, 1977, 91 Stat. 445, provided: “That this Act [enacting this chapter and amending section 1114 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Surface Mining Control and Reclamation Act of 1977’.”
+Pub. L. 95–87, § 1, Aug. 3, 1977, 91 Stat. 445, provided: “That this Act [enacting this chapter and amending section 1114 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Surface Mining Control and Reclamation Act of 1977’.”
 
-Pub. L. 98–409, § 11, as added by Pub. L. 100–483, § 12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312, § 1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: “This Act [enacting subchapter III of this chapter] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
+Pub. L. 98–409, § 11, as added by Pub. L. 100–483, § 12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312, § 1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: “This Act [enacting subchapter III of this chapter] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
 
-### § 1202. Statement of purpose
+### § 1202. Statement of purpose
 
 It is the purpose of this chapter to—
 
@@ -121,11 +121,11 @@ It is the purpose of this chapter to—
 
 **(m)** wherever necessary, exercise the full reach of Federal constitutional powers to insure the protection of the public interest through effective control of surface coal mining operations.
 
-(Pub. L. 95–87, title I, § 102, Aug. 3, 1977, 91 Stat. 448.)
+(Pub. L. 95–87, title I, § 102, Aug. 3, 1977, 91 Stat. 448.)
 
 ## SUBCHAPTER II—OFFICE OF SURFACE MINING RECLAMATION AND ENFORCEMENT
 
-### § 1211. Office of Surface Mining Reclamation and Enforcement
+### § 1211. Office of Surface Mining Reclamation and Enforcement
 
 **(a) Establishment**
 
@@ -133,9 +133,9 @@ There is established in the Department of the Interior, the Office of Surface Mi
 
 **(b) Appointment, compensation, duties, etc., of Director; employees**
 
-The Office shall have a Director who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate provided for level V of the Executive Schedule under section 5315 1
+The Office shall have a Director who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate provided for level V of the Executive Schedule under section 5315 1
 
-<sup>1</sup>  So in original. Probably should be section “5316”.
+<sup>1</sup> So in original. Probably should be section “5316”.
 
 of title 5, and such other employees as may be required. Pursuant to section 5108 of title 5, and after consultation with the Secretary, the Director of the Office of Personnel Management shall determine the necessary number of positions in general schedule employees in grade 16, 17, and 18 to perform functions of this subchapter and shall allocate such positions to the Secretary. The Director shall have the responsibilities provided under subsection (c) of this section and those duties and responsibilities relating to the functions of the Office which the Secretary may assign, consistent with this chapter. Employees of the Office shall be recruited on the basis of their professional competence and capacity to administer the provisions of this chapter. The Office may use, on a reimbursable basis when appropriate, employees of the Department and other Federal agencies to administer the provisions of this chapter, providing that no legal authority, program, or function in any Federal agency which has as its purpose promoting the development or use of coal or other mineral resources or regulating the health and safety of miners under provisions of the Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742) [30 U.S.C. 801 et seq.], shall be transferred to the Office.
 
@@ -171,7 +171,7 @@ of title 5, and such other employees as may be required. Pursuant to section 510
 
 The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 [30 U.S.C. 801 et seq.], unless he finds and publishes such finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
 
-**(e) Repealed. Pub. L. 96–511, § 4(b), Dec. 11, 1980, 94 Stat. 2826**
+**(e) Repealed. Pub. L. 96–511, § 4(b), Dec. 11, 1980, 94 Stat. 2826**
 
 **(f) Conflict of interest; penalties; rules and regulations; report to Congress**
 
@@ -187,13 +187,13 @@ No employee of the Office or any other Federal employee performing any function 
 
 **(4)** Within ninety days after filing of a petition described in paragraph (1), the Director shall either grant or deny the petition. If the Director grants such petition, the Director shall promptly commence an appropriate proceeding in accordance with the provisions of this chapter. If the Director denies such petition, the Director shall so notify the petitioner in writing setting forth the reasons for such denial.
 
-(Pub. L. 95–87, title II, § 201, Aug. 3, 1977, 91 Stat. 449; Pub. L. 95–240, title I, § 100, Mar. 7, 1978, 92 Stat. 109; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–511, § 4(b), Dec. 11, 1980, 94 Stat. 2826.)
+(Pub. L. 95–87, title II, § 201, Aug. 3, 1977, 91 Stat. 449; Pub. L. 95–240, title I, § 100, Mar. 7, 1978, 92 Stat. 109; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–511, § 4(b), Dec. 11, 1980, 94 Stat. 2826.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b) and (d), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b) and (d), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 **Amendments**
 
@@ -213,7 +213,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (f) of this se
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Travel and Per Diem Expenses**
 
@@ -265,15 +265,15 @@ Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 429.
 
 Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 933.
 
-Pub. L. 106–113, div. B, § 1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–147.
+Pub. L. 106–113, div. B, § 1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–147.
 
-Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244.
+Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244.
 
 Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1553.
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–191.
+Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–191.
 
-Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–168; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–168; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2510.
 
@@ -291,7 +291,7 @@ Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 712.
 
 **Transfer of Functions**
 
-“The Director of the Office of Personnel Management” substituted for “a majority of members of the Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“The Director of the Office of Personnel Management” substituted for “a majority of members of the Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 ## SUBCHAPTER III—STATE MINING AND MINERAL RESOURCES RESEARCH INSTITUTES
 
@@ -301,7 +301,7 @@ Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 712.
 
 Subchapter was not enacted as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
-### § 1221. Authorization of State allotments to institutes
+### § 1221. Authorization of State allotments to institutes
 
 **(a)**
 
@@ -317,7 +317,7 @@ Subchapter was not enacted as part of the Surface Mining Control and Reclamation
 
 **(b)** It shall be the duty of each institute to plan and conduct, or arrange for a component or components of the college or university with which it is affiliated to conduct research, investigations, demonstrations, and experiments of either, or both, a basic or practical nature in relation to mining and mineral resources, and to provide for the training of mineral engineers and scientists through such research, investigations, demonstrations, and experiments. The subject of such research, investigation, demonstration, experiment, and training may include exploration; extraction; processing; development; production of fuel and nonfuel mineral resources; mining and mineral technology; supply and demand for minerals; conservation and best use of available supplies of minerals; the economic, legal, social, engineering, recreational, biological, geographic, ecological, and other aspects of mining, mineral resources, and mineral reclamation. Such research, investigation, demonstration, experiment and training shall consider the interrelationship with the natural environment, the varying conditions and needs of the respective States, and mining and mineral resources research projects being conducted by agencies of the Federal and State governments and other institutes.
 
-(Pub. L. 98–409, § 1, Aug. 29, 1984, 98 Stat. 1536; Pub. L. 100–483, §§ 2–4, Oct. 12, 1988, 102 Stat. 2339.)
+(Pub. L. 98–409, § 1, Aug. 29, 1984, 98 Stat. 1536; Pub. L. 100–483, §§ 2–4, Oct. 12, 1988, 102 Stat. 2339.)
 
 **Editorial Notes**
 
@@ -327,15 +327,15 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 **Prior Provisions**
 
-A prior section 1221, Pub. L. 95–87, title III, § 301, Aug. 3, 1977, 91 Stat. 451, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1221, Pub. L. 95–87, title III, § 301, Aug. 3, 1977, 91 Stat. 451, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 **Amendments**
 
-1988—Subsec. (a)(1). Pub. L. 100–483, § 2, substituted “$400,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994” for “$300,000 for the fiscal year ending September 30, 1985, and $400,000 to each participating State for each fiscal year thereafter for a total of five years”.
+1988—Subsec. (a)(1). Pub. L. 100–483, § 2, substituted “$400,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994” for “$300,000 for the fiscal year ending September 30, 1985, and $400,000 to each participating State for each fiscal year thereafter for a total of five years”.
 
-Subsec. (a)(2)(A). Pub. L. 100–483, § 3, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Funds appropriated under this section shall be made available for grants to be matched on a basis of no less than one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, and no less than two non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, September 30, 1988, and September 30, 1989.”
+Subsec. (a)(2)(A). Pub. L. 100–483, § 3, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Funds appropriated under this section shall be made available for grants to be matched on a basis of no less than one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, and no less than two non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, September 30, 1988, and September 30, 1989.”
 
-Subsec. (b). Pub. L. 100–483, § 4, substituted “production of fuel and nonfuel mineral resources” for “production of mineral resources”.
+Subsec. (b). Pub. L. 100–483, § 4, substituted “production of fuel and nonfuel mineral resources” for “production of mineral resources”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -343,7 +343,7 @@ Subsec. (b). Pub. L. 100–483, § 4, substituted “production of fuel and no
 
 For short title of Pub. L. 98–409, which enacted this subchapter, as the Mining and Mineral Resources Institutes Act, see section 11 of Pub. L. 98–409, as amended, set out as a note under section 1201 of this title.
 
-### § 1222. Research funds to institutes
+### § 1222. Research funds to institutes
 
 **(a) Authorization of appropriations** There is authorized to be appropriated to the Secretary not more than $15,000,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994, which shall remain available until expended. Such funds when appropriated shall be made available to an institute or to institutes participating in a generic mineral technology center to meet the necessary expenses for purposes of—
 
@@ -369,7 +369,7 @@ No funds shall be made available under subsection (a) of this section except for
 
 No funds made available under this section shall be applied to the acquisition by purchase or lease of any land or interests therein, or the rental, purchase, construction, preservation, or repair of any building.
 
-(Pub. L. 98–409, § 2, Aug. 29, 1984, 98 Stat. 1537; Pub. L. 100–483, § 5, Oct. 12, 1988, 102 Stat. 2339; Pub. L. 104–312, § 1(a), Oct. 19, 1996, 110 Stat. 3819.)
+(Pub. L. 98–409, § 2, Aug. 29, 1984, 98 Stat. 1537; Pub. L. 100–483, § 5, Oct. 12, 1988, 102 Stat. 2339; Pub. L. 104–312, § 1(a), Oct. 19, 1996, 110 Stat. 3819.)
 
 **Editorial Notes**
 
@@ -379,7 +379,7 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 **Prior Provisions**
 
-A prior section 1222, Pub. L. 95–87, title III, § 302, Aug. 3, 1977, 91 Stat. 452, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1222, Pub. L. 95–87, title III, § 302, Aug. 3, 1977, 91 Stat. 452, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 **Amendments**
 
@@ -387,7 +387,7 @@ A prior section 1222, Pub. L. 95–87, title III, § 302, Aug. 3, 1977, 91 Sta
 
 1988—Subsec. (a). Pub. L. 100–483, in introductory provisions, substituted “not more than $15,000,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994” for “$10,000,000 for the fiscal year ending September 30, 1985. This amount shall be increased by $1,000,000 for each fiscal year thereafter for four additional years” and “an institute or to institutes participating in a generic mineral technology center” for “institutes”.
 
-### § 1223. Funding criteria
+### § 1223. Funding criteria
 
 **(a)** Funds available to institutes under sections 1221 and 1222 of this title shall be paid at such times and in such amounts during each fiscal year as determined by the Secretary, and upon vouchers approved by him. Each institute shall—
 
@@ -401,7 +401,7 @@ If any of the funds received by the authorized receiving officer of any institut
 
 **(b)** The institutes are authorized and encouraged to plan and conduct programs under this subchapter in cooperation with each other and with such other agencies and individuals as may contribute to the solution of the mining and mineral resources problems involved. Moneys appropriated pursuant to this subchapter shall be available for paying the necessary expenses of planning, coordinating, and conducting such cooperative research.
 
-(Pub. L. 98–409, § 3, Aug. 29, 1984, 98 Stat. 1538.)
+(Pub. L. 98–409, § 3, Aug. 29, 1984, 98 Stat. 1538.)
 
 **Editorial Notes**
 
@@ -411,9 +411,9 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 **Prior Provisions**
 
-A prior section 1223, Pub. L. 95–87, title III, § 303, Aug. 3, 1977, 91 Stat. 453, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1223, Pub. L. 95–87, title III, § 303, Aug. 3, 1977, 91 Stat. 453, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
-### § 1224. Duties of Secretary
+### § 1224. Duties of Secretary
 
 **(a) Consulting with other agencies; prescribing rules and regulations; furnishing advice and assistance; coordinating research**
 
@@ -423,7 +423,7 @@ The Secretary, acting through the Director of the United States Bureau of Mines,
 
 On or before the first day of July in each year beginning after August 29, 1984, the Secretary shall ascertain whether the requirements of section 1223(a) of this title have been met as to each institute and State.
 
-(Pub. L. 98–409, § 4, Aug. 29, 1984, 98 Stat. 1538; Pub. L. 100–483, § 6, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 98–409, § 4, Aug. 29, 1984, 98 Stat. 1538; Pub. L. 100–483, § 6, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
 
 **Editorial Notes**
 
@@ -435,11 +435,11 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 **Prior Provisions**
 
-A prior section 1224, Pub. L. 95–87, title III, § 304, Aug. 3, 1977, 91 Stat. 454, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1224, Pub. L. 95–87, title III, § 304, Aug. 3, 1977, 91 Stat. 454, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–483 inserted “, acting through the Director of the Bureau of Mines,” after “The Secretary”.
+1988—Subsec. (a). Pub. L. 100–483 inserted “, acting through the Director of the Bureau of Mines,” after “The Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -447,11 +447,11 @@ A prior section 1224, Pub. L. 95–87, title III, § 304, Aug. 3, 1977, 91 Sta
 
 “United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
-### § 1225. Effect on colleges and universities
+### § 1225. Effect on colleges and universities
 
 Nothing in this subchapter shall be construed to impair or modify the legal relationship existing between any of the colleges or universities under whose direction an institute is established and the government of the State in which it is located, and nothing in this subchapter shall in any way be construed to authorize Federal control or direction of education at any college or university.
 
-(Pub. L. 98–409, § 5, Aug. 29, 1984, 98 Stat. 1539.)
+(Pub. L. 98–409, § 5, Aug. 29, 1984, 98 Stat. 1539.)
 
 **Editorial Notes**
 
@@ -461,9 +461,9 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 **Prior Provisions**
 
-A prior section 1225, Pub. L. 95–87, title III, § 305, Aug. 3, 1977, 91 Stat. 454, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1225, Pub. L. 95–87, title III, § 305, Aug. 3, 1977, 91 Stat. 454, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
-### § 1226. Research
+### § 1226. Research
 
 **(a) Coordination with existing programs; availability of information to public**
 
@@ -483,13 +483,13 @@ No research, demonstration, or experiment shall be carried out under this subcha
 
 **(2)** There are authorized to be appropriated to the Secretary such sums as are necessary for the printing and publishing of the results of activities carried out by institutes and generic mineral technology centers under this subchapter, but such appropriations shall not exceed $550,000 in any single fiscal year.
 
-(Pub. L. 98–409, § 6, Aug. 29, 1984, 98 Stat. 1539; Pub. L. 100–483, § 7, Oct. 12, 1988, 102 Stat. 2340.)
+(Pub. L. 98–409, § 6, Aug. 29, 1984, 98 Stat. 1539; Pub. L. 100–483, § 7, Oct. 12, 1988, 102 Stat. 2340.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 96–517, referred to in subsec. (c), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015. Section 6(a) of Pub. L. 96–517, relating to patent rights in inventions made with Federal assistance, is classified to chapter 18 (§ 200 et seq.) of Title 35, Patents. For complete classification of this Act to the Code, see Tables.
+Public Law 96–517, referred to in subsec. (c), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015. Section 6(a) of Pub. L. 96–517, relating to patent rights in inventions made with Federal assistance, is classified to chapter 18 (§ 200 et seq.) of Title 35, Patents. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -497,17 +497,17 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 **Prior Provisions**
 
-A prior section 1226, Pub. L. 95–87, title III, § 306, Aug. 3, 1977, 91 Stat. 454, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1226, Pub. L. 95–87, title III, § 306, Aug. 3, 1977, 91 Stat. 454, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 **Amendments**
 
 1988—Subsec. (d). Pub. L. 100–483 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated after September 30, 1984, such sums as are necessary for the printing and publishing of the results of activities carried out by institutes under this subchapter and for administrative planning and direction, but such appropriations shall not exceed $1,000,000 in any single fiscal year.”
 
-### § 1227. Center for cataloging
+### § 1227. Center for cataloging
 
 The Secretary shall establish a center for cataloging current and projected scientific research in all fields of mining and mineral resources. Each Federal agency doing mining and mineral resources research shall cooperate by providing the cataloging center with information on work underway or scheduled by it. The cataloging center shall classify and maintain for public use a catalog of mining and mineral resources research and investigation projects in progress or scheduled by all Federal agencies and by such non-Federal agencies of government, colleges, universities, private institutions, firms, and individuals as may make such information available.
 
-(Pub. L. 98–409, § 7, Aug. 29, 1984, 98 Stat. 1540.)
+(Pub. L. 98–409, § 7, Aug. 29, 1984, 98 Stat. 1540.)
 
 **Editorial Notes**
 
@@ -517,9 +517,9 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 **Prior Provisions**
 
-A prior section 1227, Pub. L. 95–87, title III, § 307, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1227, Pub. L. 95–87, title III, § 307, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
-### § 1228. Interagency cooperation
+### § 1228. Interagency cooperation
 
 The President shall, by such means as he deems appropriate, clarify agency responsibility for Federal mining and mineral resources research and provide for interagency coordination of such research, including the research authorized by this subchapter. Such coordination shall include—
 
@@ -535,7 +535,7 @@ The President shall, by such means as he deems appropriate, clarify agency respo
 
 **(6)** actions to facilitate interagency communication at management levels.
 
-(Pub. L. 98–409, § 8, Aug. 29, 1984, 98 Stat. 1540.)
+(Pub. L. 98–409, § 8, Aug. 29, 1984, 98 Stat. 1540.)
 
 **Editorial Notes**
 
@@ -545,9 +545,9 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 **Prior Provisions**
 
-A prior section 1228, Pub. L. 95–87, title III, § 308, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1228, Pub. L. 95–87, title III, § 308, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
-### § 1229. Committee on Mining and Mineral Resources Research
+### § 1229. Committee on Mining and Mineral Resources Research
 
 **(a) Appointment; composition** The Secretary shall appoint a Committee on Mining and Mineral Resources Research composed of—
 
@@ -571,9 +571,9 @@ The Committee shall consult with, and make recommendations to, the Secretary on 
 
 **(c) Compensation, travel, subsistence and related expenses**
 
-Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not 1
+Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not 1
 
-<sup>1</sup>  So in original. Probably should be followed by “in”.
+<sup>1</sup> So in original. Probably should be followed by “in”.
 
 excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5, and shall be fully reimbursed for travel, subsistence, and related expenses.
 
@@ -589,7 +589,7 @@ The Committee shall develop a national plan for research in mining and mineral r
 
 Section 1009 of title 5 shall not apply to the Committee.
 
-(Pub. L. 98–409, § 9, Aug. 29, 1984, 98 Stat. 1540; Pub. L. 100–483, §§ 8, 9, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172; Pub. L. 117–286, § 4(a)(193), Dec. 27, 2022, 136 Stat. 4327.)
+(Pub. L. 98–409, § 9, Aug. 29, 1984, 98 Stat. 1540; Pub. L. 100–483, §§ 8, 9, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172; Pub. L. 117–286, § 4(a)(193), Dec. 27, 2022, 136 Stat. 4327.)
 
 **Editorial Notes**
 
@@ -599,15 +599,15 @@ Section was enacted as part of the Mining and Mineral Resources Institutes Act, 
 
 **Prior Provisions**
 
-A prior section 1229, Pub. L. 95–87, title III, § 309, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.
+A prior section 1229, Pub. L. 95–87, title III, § 309, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 **Amendments**
 
 2022—Subsec. (f). Pub. L. 117–286 substituted “Section 1009 of title 5” for “Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-1988—Subsec. (a)(7). Pub. L. 100–483, § 8, substituted “7 other persons” for “six other persons”, “this subchapter, 3” for “section 301 of the Surface Mining Control and Reclamation Act of 1977, two”, and “7 appointments” for “six appointments”.
+1988—Subsec. (a)(7). Pub. L. 100–483, § 8, substituted “7 other persons” for “six other persons”, “this subchapter, 3” for “section 301 of the Surface Mining Control and Reclamation Act of 1977, two”, and “7 appointments” for “six appointments”.
 
-Subsec. (e). Pub. L. 100–483, § 9, substituted “submit an annual update of such plan by January 15 of each calendar year” for “update the plan annually thereafter”.
+Subsec. (e). Pub. L. 100–483, § 9, substituted “submit an annual update of such plan by January 15 of each calendar year” for “update the plan annually thereafter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -621,13 +621,13 @@ For termination, effective May 15, 2000, of provisions in subsec. (e) of this se
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Reports**
 
-Pub. L. 100–483, § 11, Oct. 12, 1988, 102 Stat. 2341, directed Committee on Mining and Mineral Resources Research to submit a report to Congress by Jan. 15, 1992, on programs established under this subchapter, including reviews of activities of the institutes and generic mineral technology centers established under this subchapter, each institute’s and center’s eligibility pursuant to section 1230 of this title, and recommendations on establishing new generic mineral technology centers, as well as phasing out or consolidating existing centers, and further directed Committee to submit to Congress, by Jan. 15, 1990, a proposal to establish a Generic Mineral Technology Center on Strategic and Critical Minerals.
+Pub. L. 100–483, § 11, Oct. 12, 1988, 102 Stat. 2341, directed Committee on Mining and Mineral Resources Research to submit a report to Congress by Jan. 15, 1992, on programs established under this subchapter, including reviews of activities of the institutes and generic mineral technology centers established under this subchapter, each institute’s and center’s eligibility pursuant to section 1230 of this title, and recommendations on establishing new generic mineral technology centers, as well as phasing out or consolidating existing centers, and further directed Committee to submit to Congress, by Jan. 15, 1990, a proposal to establish a Generic Mineral Technology Center on Strategic and Critical Minerals.
 
-### § 1230. Eligibility criteria
+### § 1230. Eligibility criteria
 
 **(a)** The Committee shall determine the eligibility of a college or university to participate as a mining and mineral resources research institute under this subchapter using criteria which include—
 
@@ -645,7 +645,7 @@ Pub. L. 100–483, § 11, Oct. 12, 1988, 102 Stat. 2341, directed Committee on
 
 **(2)** Generic mineral technology centers established by the Secretary under this subchapter are to be composed of institutes eligible pursuant to subsection (a). Existing generic mineral technology centers shall continue to be eligible under this subchapter subject to at least one review prior to January 15, 1992, pursuant to section 11(a)(3) of the Mining and Mineral Resources Research Institute Amendments of 1988.
 
-(Pub. L. 98–409, § 10, Aug. 29, 1984, 98 Stat. 1541; Pub. L. 100–483, § 10, Oct. 12, 1988, 102 Stat. 2340.)
+(Pub. L. 98–409, § 10, Aug. 29, 1984, 98 Stat. 1541; Pub. L. 100–483, § 10, Oct. 12, 1988, 102 Stat. 2340.)
 
 **Editorial Notes**
 
@@ -661,13 +661,13 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 1988—Subsec. (b). Pub. L. 100–483 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding the provisions of subsection (a) of this section, those colleges or universities which, on August 29, 1984, have a mining or mineral resources research institute program which has been found to be eligible pursuant to title III of the Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445) shall continue to be eligible pursuant to this subchapter for a period of four fiscal years beginning October 1, 1984.”
 
-### § 1230a. Strategic Resources Generic Mineral Technology Center
+### § 1230a. Strategic Resources Generic Mineral Technology Center
 
 **(a) Establishment**
 
-The Secretary of 1
+The Secretary of 1
 
-<sup>1</sup>  So in original. Probably should be “of the”.
+<sup>1</sup> So in original. Probably should be “of the”.
 
 Interior is authorized and directed to establish a Strategic Resources Mineral Technology Center (hereinafter referred to as the “center”) for the purpose of improving existing, and developing new, technologies that will decrease the dependence of the United States on supplies of strategic and critical minerals.
 
@@ -693,7 +693,7 @@ Interior is authorized and directed to establish a Strategic Resources Mineral T
 
 There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 98–409, § 12, as added Pub. L. 101–498, § 2, Nov. 2, 1990, 104 Stat. 1207.)
+(Pub. L. 98–409, § 12, as added Pub. L. 101–498, § 2, Nov. 2, 1990, 104 Stat. 1207.)
 
 **Editorial Notes**
 
@@ -703,7 +703,7 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 ## SUBCHAPTER IV—ABANDONED MINE RECLAMATIONS
 
-### § 1231. Abandoned Mine Reclamation Fund
+### § 1231. Abandoned Mine Reclamation Fund
 
 **(a) Establishment; administration; State funds**
 
@@ -813,45 +813,45 @@ Subject to subparagraph (B), the amount distributed under this subsection for ea
 
 **(iv)** 75 percent in fiscal year 2011.
 
-(Pub. L. 95–87, title IV, § 401, Aug. 3, 1977, 91 Stat. 456; Pub. L. 98–473, title I, § 101(c) [title III, § 324], Oct. 12, 1984, 98 Stat. 1837, 1875; Pub. L. 101–508, title VI, § 6002, Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 102–486, title XIX, § 19143(b)(3)(A), title XXV, § 2504(c)(1), Oct. 24, 1992, 106 Stat. 3056, 3105; Pub. L. 109–432, div. C, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3006; Pub. L. 117–58, div. D, title VII, § 40703, Nov. 15, 2021, 135 Stat. 1093.)
+(Pub. L. 95–87, title IV, § 401, Aug. 3, 1977, 91 Stat. 456; Pub. L. 98–473, title I, § 101(c) [title III, § 324], Oct. 12, 1984, 98 Stat. 1837, 1875; Pub. L. 101–508, title VI, § 6002, Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 102–486, title XIX, § 19143(b)(3)(A), title XXV, § 2504(c)(1), Oct. 24, 1992, 106 Stat. 3056, 3105; Pub. L. 109–432, div. C, title II, § 201(a), Dec. 20, 2006, 120 Stat. 3006; Pub. L. 117–58, div. D, title VII, § 40703, Nov. 15, 2021, 135 Stat. 1093.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (f)(2)(A). Pub. L. 117–58, § 40703(1), substituted “2035” for “2022” in heading and in introductory provisions.
+2021—Subsec. (f)(2)(A). Pub. L. 117–58, § 40703(1), substituted “2035” for “2022” in heading and in introductory provisions.
 
-Subsec. (f)(2)(B). Pub. L. 117–58, § 40703(2), substituted “2036” for “2023” in heading and “2036” for “2023” and “2035” for “2022” in text.
+Subsec. (f)(2)(B). Pub. L. 117–58, § 40703(2), substituted “2036” for “2023” in heading and “2036” for “2023” and “2035” for “2022” in text.
 
-2006—Subsec. (c)(2) to (13). Pub. L. 109–432, § 201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
+2006—Subsec. (c)(2) to (13). Pub. L. 109–432, § 201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
 
 “(2) for transfer on an annual basis to the Secretary of Agriculture for use under section 1236 of this title;” and
 
 “(6) studies, research, and demonstration projects by the Department of the Interior to such extent or in such amounts as are provided in appropriation Acts with public and private organizations conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986, conducted for the purposes of this subchapter;”.
 
-Subsec. (d). Pub. L. 109–432, § 201(a)(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “Moneys from the fund shall be available for the purposes of this subchapter, only when appropriated therefor, and such appropriations shall be made without fiscal year limitations.”
+Subsec. (d). Pub. L. 109–432, § 201(a)(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “Moneys from the fund shall be available for the purposes of this subchapter, only when appropriated therefor, and such appropriations shall be made without fiscal year limitations.”
 
-Subsec. (e). Pub. L. 109–432, § 201(a)(3), in second sentence, substituted “achieving the purposes of the transfers under section 1232(h) of this title” for “the needs of such fund” and, in third sentence, inserted “for the purpose of the transfers under section 1232(h) of this title” before period at end.
+Subsec. (e). Pub. L. 109–432, § 201(a)(3), in second sentence, substituted “achieving the purposes of the transfers under section 1232(h) of this title” for “the needs of such fund” and, in third sentence, inserted “for the purpose of the transfers under section 1232(h) of this title” before period at end.
 
-Subsec. (f). Pub. L. 109–432, § 201(a)(4), added subsec. (f).
+Subsec. (f). Pub. L. 109–432, § 201(a)(4), added subsec. (f).
 
-1992—Subsec. (c)(6). Pub. L. 102–486, § 2504(c)(1), substituted “studies, research, and demonstration projects” for “studies” and struck out “to provide information, advice, and technical assistance, including research and demonstration projects” after “private organizations”.
+1992—Subsec. (c)(6). Pub. L. 102–486, § 2504(c)(1), substituted “studies, research, and demonstration projects” for “studies” and struck out “to provide information, advice, and technical assistance, including research and demonstration projects” after “private organizations”.
 
-Subsec. (c)(12), (13). Pub. L. 102–486, § 19143(b)(3)(A), added par. (12) and redesignated former par. (12) as (13).
+Subsec. (c)(12), (13). Pub. L. 102–486, § 19143(b)(3)(A), added par. (12) and redesignated former par. (12) as (13).
 
-1990—Subsec. (b)(1). Pub. L. 101–508, § 6002(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the reclamation fees levied under section 1232 of this title: *Provided*, That an amount not to exceed 10 per centum of such reclamation fees collected for any calendar quarter shall be reserved beginning in the first calendar year in which the fee is imposed and continuing for the remainder of that fiscal year and for the period in which such fee is imposed by law, for the purpose of section 1257(c) of this title, subject to appropriation pursuant to authorization under section 1302 of this title: *Provided further*, That not more than $10,000,000 shall be available for such purposes;”.
+1990—Subsec. (b)(1). Pub. L. 101–508, § 6002(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the reclamation fees levied under section 1232 of this title: *Provided*, That an amount not to exceed 10 per centum of such reclamation fees collected for any calendar quarter shall be reserved beginning in the first calendar year in which the fee is imposed and continuing for the remainder of that fiscal year and for the period in which such fee is imposed by law, for the purpose of section 1257(c) of this title, subject to appropriation pursuant to authorization under section 1302 of this title: *Provided further*, That not more than $10,000,000 shall be available for such purposes;”.
 
-Subsec. (b)(5). Pub. L. 101–508, § 6002(a)(2), added par. (5).
+Subsec. (b)(5). Pub. L. 101–508, § 6002(a)(2), added par. (5).
 
-Subsec. (c)(1). Pub. L. 101–508, § 6002(b)(1), substituted “section 1232(g)(1)” for “section 1232(g)(2)”.
+Subsec. (c)(1). Pub. L. 101–508, § 6002(b)(1), substituted “section 1232(g)(1)” for “section 1232(g)(2)”.
 
-Subsec. (c)(2). Pub. L. 101–508, § 6002(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for use under section 1236 of this title, by the Secretary of Agriculture, of up to one-fifth of the money deposited in the funds annually and transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes;”.
+Subsec. (c)(2). Pub. L. 101–508, § 6002(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for use under section 1236 of this title, by the Secretary of Agriculture, of up to one-fifth of the money deposited in the funds annually and transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes;”.
 
-Subsec. (c)(6). Pub. L. 101–508, § 6002(b)(3), struck out “by contract” after “Department of the Interior” and inserted “conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986” after “projects”.
+Subsec. (c)(6). Pub. L. 101–508, § 6002(b)(3), struck out “by contract” after “Department of the Interior” and inserted “conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986” after “projects”.
 
-Subsec. (c)(10) to (12). Pub. L. 101–508, § 6002(b)(5), added pars. (10) and (11) and redesignated former par. (10) as (12).
+Subsec. (c)(10) to (12). Pub. L. 101–508, § 6002(b)(5), added pars. (10) and (11) and redesignated former par. (10) as (12).
 
-Subsec. (e). Pub. L. 101–508, § 6002(c), added subsec. (e).
+Subsec. (e). Pub. L. 101–508, § 6002(c), added subsec. (e).
 
 1984—Subsec. (c)(1). Pub. L. 98–473 inserted at end “and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: *Provided*, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(2) of this title;”.
 
@@ -859,11 +859,11 @@ Subsec. (e). Pub. L. 101–508, § 6002(c), added subsec. (e).
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VI, § 6014, Nov. 5, 1990, 104 Stat. 1388–298, provided that: “The amendments made by this subtitle [subtitle A (§§ 6001–6014) of title VI of Pub. L. 101–508, enacting section 1240a of this title and amending this section and sections 1232 to 1237, 1239, 1257, and 1302 of this title] shall take effect at the beginning of the first fiscal year [Oct. 1, 1991] immediately following the fiscal year in which this subtitle is enacted.”
+Pub. L. 101–508, title VI, § 6014, Nov. 5, 1990, 104 Stat. 1388–298, provided that: “The amendments made by this subtitle [subtitle A (§§ 6001–6014) of title VI of Pub. L. 101–508, enacting section 1240a of this title and amending this section and sections 1232 to 1237, 1239, 1257, and 1302 of this title] shall take effect at the beginning of the first fiscal year [Oct. 1, 1991] immediately following the fiscal year in which this subtitle is enacted.”
 
 **Savings Provision**
 
-Pub. L. 101–508, title VI, § 6013, Nov. 5, 1990, 104 Stat. 1388–298, provided that: “Nothing in this subtitle [subtitle A (§§ 6001–6014) of title VI of Pub. L. 101–508, see Short Title of 1990 Amendment note set out under section 1201 of this title] shall be construed to affect the certifications made by the State of Wyoming, the State of Montana, and the State of Louisiana to the Secretary of the Interior prior to the date of enactment of this subtitle [Nov. 5, 1990] that such State has completed the reclamation of eligible abandoned coal mine lands.”
+Pub. L. 101–508, title VI, § 6013, Nov. 5, 1990, 104 Stat. 1388–298, provided that: “Nothing in this subtitle [subtitle A (§§ 6001–6014) of title VI of Pub. L. 101–508, see Short Title of 1990 Amendment note set out under section 1201 of this title] shall be construed to affect the certifications made by the State of Wyoming, the State of Montana, and the State of Louisiana to the Secretary of the Interior prior to the date of enactment of this subtitle [Nov. 5, 1990] that such State has completed the reclamation of eligible abandoned coal mine lands.”
 
 **Wage Rate Requirements**
 
@@ -871,7 +871,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 **Abandoned Mine Drainage in Ohio, Pennsylvania, and West Virginia**
 
-Pub. L. 118–272, div. A, title III, § 1345, Jan. 4, 2025, 138 Stat. 3155, provided that:
+Pub. L. 118–272, div. A, title III, § 1345, Jan. 4, 2025, 138 Stat. 3155, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -921,13 +921,13 @@ Pub. L. 118–272, div. A, title III, § 1345, Jan. 4, 2025, 138 Stat. 3155, p
 
 **Abandoned Mine Reclamation Fund; Deposit and Expenditure of Certain Donations**
 
-Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–245, provided in part: “That hereafter, donations received to support projects under the Appalachian Clean Streams Initiative and under the Western Mine Lands Restoration Partnerships Initiative, pursuant to 30 U.S.C. 1231, shall be credited to this account and remain available until expended without further appropriation for projects sponsored under these initiatives, directly through agreements with other Federal agencies, or through grants to States, and funding to local governments, or tax exempt private entities.”
+Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–245, provided in part: “That hereafter, donations received to support projects under the Appalachian Clean Streams Initiative and under the Western Mine Lands Restoration Partnerships Initiative, pursuant to 30 U.S.C. 1231, shall be credited to this account and remain available until expended without further appropriation for projects sponsored under these initiatives, directly through agreements with other Federal agencies, or through grants to States, and funding to local governments, or tax exempt private entities.”
 
 **Abandoned Mine Reclamation Research and Development**
 
-Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172, provided that after enactment of Pub. L. 99–509, the research and demonstration authorities of the Department of the Interior under former subsec. (c)(6) of this section were to be transferred to, and carried out by, the Director of the United States Bureau of Mines.
+Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172, provided that after enactment of Pub. L. 99–509, the research and demonstration authorities of the Department of the Interior under former subsec. (c)(6) of this section were to be transferred to, and carried out by, the Director of the United States Bureau of Mines.
 
-### § 1231a. Abandoned mine reclamation fund authorization of appropriations
+### § 1231a. Abandoned mine reclamation fund authorization of appropriations
 
 **(a) In general**
 
@@ -999,9 +999,9 @@ Section 401(f)(3)(B) of the Surface Mining Control and Reclamation Act of 1977 (
 
 **(A) In general**
 
-Not later than 6 years after the date on which the first allocation to States and Indian Tribes is made under paragraph (1), the Secretary of the Interior shall submit to Congress a report that describes any progress made under this section in addressing outstanding reclamation needs under subsection (a) or (b) of section 403 or section 410 of the Surface Mining Control and Reclamation and 1
+Not later than 6 years after the date on which the first allocation to States and Indian Tribes is made under paragraph (1), the Secretary of the Interior shall submit to Congress a report that describes any progress made under this section in addressing outstanding reclamation needs under subsection (a) or (b) of section 403 or section 410 of the Surface Mining Control and Reclamation and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 Act of 1977 (30 U.S.C. 1233, 1240).
 
@@ -1033,7 +1033,7 @@ In addition to the priorities described in section 403(a) of the Surface Mining 
 
 Of the funds made available under subsection (a), $25,000,000 shall be made available to the Secretary of the Interior to provide States and Indian Tribes with the financial and technical assistance necessary for the purpose of making amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233(c)).
 
-(Pub. L. 117–58, div. D, title VII, § 40701, Nov. 15, 2021, 135 Stat. 1091; Pub. L. 117–328, div. DD, title VIII, § 801, Dec. 29, 2022, 136 Stat. 5622.)
+(Pub. L. 117–58, div. D, title VII, § 40701, Nov. 15, 2021, 135 Stat. 1091; Pub. L. 117–328, div. DD, title VIII, § 801, Dec. 29, 2022, 136 Stat. 5622.)
 
 **Editorial Notes**
 
@@ -1059,7 +1059,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 For definition of “Indian Tribe” as used in this section, see section 5304 of Title 25, Indians, as made applicable by section 18701(2) of Title 42, The Public Health and Welfare.
 
-### § 1232. Reclamation fee
+### § 1232. Reclamation fee
 
 **(a) Payment; rate**
 
@@ -1073,7 +1073,7 @@ Such fee shall be paid no later than thirty days after the end of each calendar 
 
 Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple,1
 
-<sup>1</sup>  So in original. Probably should be “tipple,”.
+<sup>1</sup> So in original. Probably should be “tipple,”.
 
 or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
 
@@ -1103,9 +1103,9 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 **(B)** 50 percent of the reclamation fees collected annually with respect to Indian lands shall be allocated annually by the Secretary to the Indian tribe having jurisdiction over such lands, subject to such tribe having each of the following:
 
-**(i)** an 2
+**(i)** an 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 approved abandoned mine reclamation program pursuant to section 1235 of this title.
 
@@ -1223,7 +1223,7 @@ As soon as practicable after the beginning of fiscal year 2008 and each fiscal y
 
 **(II)** those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26) or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, 2019, or any year thereafter,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 (or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced); and
 
@@ -1479,7 +1479,7 @@ For purposes of this paragraph, the term “1974 UMWA Pension Plan” has the me
 
 Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
-(Pub. L. 95–87, title IV, § 402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, § 101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§ 6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, § 19143(b)(1), (2), (3)(B), title XXV, § 2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, § 135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, § 6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, § 129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, § 7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, § 202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, § 602, Oct. 3, 2008, 122 Stat. 3911; Pub. L. 114–223, div. C, § 167(b), (c), as added Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1009, 1010; Pub. L. 114–223, div. C, § 202(b), as added Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134; Pub. L. 115–31, div. M, title I, § 104(a), May 5, 2017, 131 Stat. 803; Pub. L. 116–94, div. M, §§ 102(a), 103, Dec. 20, 2019, 133 Stat. 3091, 3094; Pub. L. 116–260, div. Y, § 2(a), (b), Dec. 27, 2020, 134 Stat. 2417, 2418; Pub. L. 117–58, div. D, title VII, § 40702, Nov. 15, 2021, 135 Stat. 1092.)
+(Pub. L. 95–87, title IV, § 402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, § 101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§ 6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, § 19143(b)(1), (2), (3)(B), title XXV, § 2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, § 135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, § 6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, § 129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, § 7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, § 202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, § 602, Oct. 3, 2008, 122 Stat. 3911; Pub. L. 114–223, div. C, § 167(b), (c), as added Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1009, 1010; Pub. L. 114–223, div. C, § 202(b), as added Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134; Pub. L. 115–31, div. M, title I, § 104(a), May 5, 2017, 131 Stat. 803; Pub. L. 116–94, div. M, §§ 102(a), 103, Dec. 20, 2019, 133 Stat. 3091, 3094; Pub. L. 116–260, div. Y, § 2(a), (b), Dec. 27, 2020, 134 Stat. 2417, 2418; Pub. L. 117–58, div. D, title VII, § 40702, Nov. 15, 2021, 135 Stat. 1092.)
 
 **Editorial Notes**
 
@@ -1493,41 +1493,41 @@ November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “t
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–58, § 40702(a), substituted “22.4 cents” for “28 cents”, “9.6 cents” for “12 cents”, and “6.4 cents” for “8 cents”.
+2021—Subsec. (a). Pub. L. 117–58, § 40702(a), substituted “22.4 cents” for “28 cents”, “9.6 cents” for “12 cents”, and “6.4 cents” for “8 cents”.
 
-Subsec. (b). Pub. L. 117–58, § 40702(b), substituted “September 30, 2034” for “September 30, 2021”.
+Subsec. (b). Pub. L. 117–58, § 40702(b), substituted “September 30, 2034” for “September 30, 2021”.
 
-2020—Subsec. (h)(2)(C)(ii). Pub. L. 116–260, § 2(a)(4), substituted “January 1, 2020” for “January 1, 2019” in concluding provisions.
+2020—Subsec. (h)(2)(C)(ii). Pub. L. 116–260, § 2(a)(4), substituted “January 1, 2020” for “January 1, 2019” in concluding provisions.
 
-Pub. L. 116–260, § 2(a)(1), substituted “December 27, 2020” for “December 20, 2019” wherever appearing.
+Pub. L. 116–260, § 2(a)(1), substituted “December 27, 2020” for “December 20, 2019” wherever appearing.
 
-Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–260, § 2(a)(3), inserted “(or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced)” before “; and”.
+Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–260, § 2(a)(3), inserted “(or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced)” before “; and”.
 
-Pub. L. 116–260, § 2(a)(2), substituted “2019, or any year thereafter,” for “or 2019”.
+Pub. L. 116–260, § 2(a)(2), substituted “2019, or any year thereafter,” for “or 2019”.
 
-Subsec. (i)(3)(C). Pub. L. 116–260, § 2(b), added subpar. (C).
+Subsec. (i)(3)(C). Pub. L. 116–260, § 2(b), added subpar. (C).
 
-2019—Subsec. (h)(2)(C)(ii). Pub. L. 116–94, § 103(4), substituted “January 1, 2019” for “January 1, 2017” in concluding provisions.
+2019—Subsec. (h)(2)(C)(ii). Pub. L. 116–94, § 103(4), substituted “January 1, 2019” for “January 1, 2017” in concluding provisions.
 
-Pub. L. 116–94, § 103(1), substituted “December 20, 2019” for “May 5, 2017” in subcl. (I) and in concluding provisions.
+Pub. L. 116–94, § 103(1), substituted “December 20, 2019” for “May 5, 2017” in subcl. (I) and in concluding provisions.
 
-Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–94, § 103(2), substituted “or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, or 2019” for “, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015”.
+Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–94, § 103(2), substituted “or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, or 2019” for “, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015”.
 
-Subsec. (h)(2)(C)(ii)(III). Pub. L. 116–94, § 103(3), added subcl. (III).
+Subsec. (h)(2)(C)(ii)(III). Pub. L. 116–94, § 103(3), added subcl. (III).
 
-Subsec. (h)(2)(C)(vi). Pub. L. 116–94, § 103(5), added cl. (vi).
+Subsec. (h)(2)(C)(vi). Pub. L. 116–94, § 103(5), added cl. (vi).
 
-Subsec. (i)(3)(A). Pub. L. 116–94, § 102(a)(1), substituted “$750,000,000” for “$490,000,000”.
+Subsec. (i)(3)(A). Pub. L. 116–94, § 102(a)(1), substituted “$750,000,000” for “$490,000,000”.
 
-Subsec. (i)(4), (5). Pub. L. 116–94, § 102(a)(2), (3), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (i)(4), (5). Pub. L. 116–94, § 102(a)(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 2017—Subsec. (h)(2)(C)(ii). Pub. L. 115–31 added cl. (ii) and struck out former cl. (ii) which related to calculation of excess.
 
-Pub. L. 114–223, div. C, § 202(b)(3), as added by Pub. L. 115–30, par. (2), inserted at end of concluding provisions “For purposes of subclause (II)(aa), a beneficiary enrolled in the Plan as of April 28, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017.”
+Pub. L. 114–223, div. C, § 202(b)(3), as added by Pub. L. 115–30, par. (2), inserted at end of concluding provisions “For purposes of subclause (II)(aa), a beneficiary enrolled in the Plan as of April 28, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017.”
 
-Subsec. (h)(2)(C)(ii)(II). Pub. L. 114–223, div. C, § 202(b)(1), as added by Pub. L. 115–30, par. (2), substituted “May 5, 2017” for “April 30, 2017” in introductory provisions.
+Subsec. (h)(2)(C)(ii)(II). Pub. L. 114–223, div. C, § 202(b)(1), as added by Pub. L. 115–30, par. (2), substituted “May 5, 2017” for “April 30, 2017” in introductory provisions.
 
-Subsec. (h)(2)(C)(ii)(II)(aa). Pub. L. 114–223, div. C, § 202(b)(2), as added by Pub. L. 115–30, par. (2), substituted “April 28, 2017” for “December 10, 2016”.
+Subsec. (h)(2)(C)(ii)(II)(aa). Pub. L. 114–223, div. C, § 202(b)(2), as added by Pub. L. 115–30, par. (2), substituted “April 28, 2017” for “December 10, 2016”.
 
 Subsec. (h)(2)(C)(iii), (iv). Pub. L. 115–31 added cls. (iii) and (iv) and struck out former cls. (iii) and (iv) which read as follows:
 
@@ -1535,35 +1535,35 @@ Subsec. (h)(2)(C)(iii), (iv). Pub. L. 115–31 added cls. (iii) and (iv) and str
 
 “(iv) Requirements for transfer.—The amount of the transfer otherwise determined under this subparagraph for fiscal year 2017 shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees’ beneficiary association established as a result of a bankruptcy proceeding described in clause (ii)(II).”
 
-2016—Subsec. (h)(2)(C). Pub. L. 114–223, div. C, § 167(b), as added by Pub. L. 114–254, div. A, § 101(3), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, added cls. (ii) to (v), and struck out concluding provisions which read as follows: “Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made.”
+2016—Subsec. (h)(2)(C). Pub. L. 114–223, div. C, § 167(b), as added by Pub. L. 114–254, div. A, § 101(3), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, added cls. (ii) to (v), and struck out concluding provisions which read as follows: “Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made.”
 
-Subsec. (i)(3)(B). Pub. L. 114–223, div. C, § 167(c), as added by Pub. L. 114–254, div. A, § 101(3), substituted “under paragraph (1) so that” for “so that” in introductory provisions, “each such transfer” for “each transfer” in cl. (i), and “paragraph (1)” for “this subsection” in cl. (iii).
+Subsec. (i)(3)(B). Pub. L. 114–223, div. C, § 167(c), as added by Pub. L. 114–254, div. A, § 101(3), substituted “under paragraph (1) so that” for “so that” in introductory provisions, “each such transfer” for “each transfer” in cl. (i), and “paragraph (1)” for “this subsection” in cl. (iii).
 
 2008—Subsec. (i)(1)(C). Pub. L. 110–343 substituted “$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010” for “and $9,000,000 on October 1, 2009” in introductory provisions.
 
-2006—Subsec. (a). Pub. L. 109–432, § 202(a)(2), substituted “28” for “31.5”, “12” for “13.5”, and “8 cents” for “9 cents”.
+2006—Subsec. (a). Pub. L. 109–432, § 202(a)(2), substituted “28” for “31.5”, “12” for “13.5”, and “8 cents” for “9 cents”.
 
-Pub. L. 109–432, § 202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
+Pub. L. 109–432, § 202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
 
-Subsec. (b). Pub. L. 109–432, § 202(b), substituted “September 30, 2021” for “September 30, 2007, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section”.
+Subsec. (b). Pub. L. 109–432, § 202(b), substituted “September 30, 2021” for “September 30, 2007, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section”.
 
 Pub. L. 109–234 substituted “September 30, 2007” for “June 30, 2006”.
 
-Subsec. (g)(1)(D). Pub. L. 109–432, § 202(c)(1), inserted “(except for grants awarded during fiscal years 2008, 2009, and 2010 to the extent not expended within 5 years)” after “this paragraph” and substituted “under paragraph (5)” for “in any area under paragraph (2), (3), (4), or (5)”.
+Subsec. (g)(1)(D). Pub. L. 109–432, § 202(c)(1), inserted “(except for grants awarded during fiscal years 2008, 2009, and 2010 to the extent not expended within 5 years)” after “this paragraph” and substituted “under paragraph (5)” for “in any area under paragraph (2), (3), (4), or (5)”.
 
-Subsec. (g)(2). Pub. L. 109–432, § 202(c)(2), added par. (2) and struck out former par. (2) which read as follows: “20 percent of the amounts available in the fund in any fiscal year which are not allocated under paragraph (1) in that fiscal year (including that interest accruing as provided in section 1231(e) of this title and including funds available for reallocation pursuant to paragraph (1)(D)), shall be allocated to the Secretary only for the purpose of making the annual transfer to the Secretary of Agriculture under section 1231(c)(2) of this title.”
+Subsec. (g)(2). Pub. L. 109–432, § 202(c)(2), added par. (2) and struck out former par. (2) which read as follows: “20 percent of the amounts available in the fund in any fiscal year which are not allocated under paragraph (1) in that fiscal year (including that interest accruing as provided in section 1231(e) of this title and including funds available for reallocation pursuant to paragraph (1)(D)), shall be allocated to the Secretary only for the purpose of making the annual transfer to the Secretary of Agriculture under section 1231(c)(2) of this title.”
 
-Subsec. (g)(3). Pub. L. 109–432, § 202(c)(3)(A), substituted “paragraph (5)” for “paragraphs (2) and (5)” in introductory provisions.
+Subsec. (g)(3). Pub. L. 109–432, § 202(c)(3)(A), substituted “paragraph (5)” for “paragraphs (2) and (5)” in introductory provisions.
 
-Subsec. (g)(3)(A). Pub. L. 109–432, § 202(c)(3)(B), substituted “1231(c)(9)” for “1231(c)(11)”.
+Subsec. (g)(3)(A). Pub. L. 109–432, § 202(c)(3)(B), substituted “1231(c)(9)” for “1231(c)(11)”.
 
-Subsec. (g)(3)(E). Pub. L. 109–432, § 202(c)(3)(C), added subpar. (E).
+Subsec. (g)(3)(E). Pub. L. 109–432, § 202(c)(3)(C), added subpar. (E).
 
-Subsec. (g)(5). Pub. L. 109–432, § 202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted “60” for “40”, in last sentence, substituted “Funds made available under paragraph (3) or (4)” for “Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)”, and added subpar. (B).
+Subsec. (g)(5). Pub. L. 109–432, § 202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted “60” for “40”, in last sentence, substituted “Funds made available under paragraph (3) or (4)” for “Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)”, and added subpar. (B).
 
-Subsec. (g)(6) to (8). Pub. L. 109–432, § 202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
+Subsec. (g)(6) to (8). Pub. L. 109–432, § 202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
 
-Subsecs. (h), (i). Pub. L. 109–432, § 202(d), added subsecs. (h) and (i) and struck out former subsec. (h) which related to transfer of funds to the United Mine Workers of America Combined Benefit Fund.
+Subsecs. (h), (i). Pub. L. 109–432, § 202(d), added subsecs. (h) and (i) and struck out former subsec. (h) which related to transfer of funds to the United Mine Workers of America Combined Benefit Fund.
 
 2005—Subsec. (b). Pub. L. 109–54 substituted “June 30, 2006” for “September 30, 2005”.
 
@@ -1571,23 +1571,23 @@ Pub. L. 109–13 substituted “September 30, 2005” for “June 30, 2005”.
 
 2004—Subsec. (b). Pub. L. 108–447 substituted “June 30, 2005” for “September 30, 2004”.
 
-1992—Subsec. (b). Pub. L. 102–486, § 2515, which directed that subsec. (b) be amended by substituting “2004, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” for “1995”, was executed by inserting “, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” after “2004”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–486, § 19143(b)(1). See below.
+1992—Subsec. (b). Pub. L. 102–486, § 2515, which directed that subsec. (b) be amended by substituting “2004, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” for “1995”, was executed by inserting “, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” after “2004”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–486, § 19143(b)(1). See below.
 
-Pub. L. 102–486, § 19143(b)(1), substituted “2004” for “1995” before period at end.
+Pub. L. 102–486, § 19143(b)(1), substituted “2004” for “1995” before period at end.
 
-Subsec. (g)(1). Pub. L. 102–486, § 19143(b)(3)(B), substituted “Except as provided in subsection (h) of this section, moneys” for “Moneys”.
+Subsec. (g)(1). Pub. L. 102–486, § 19143(b)(3)(B), substituted “Except as provided in subsection (h) of this section, moneys” for “Moneys”.
 
-Subsec. (h). Pub. L. 102–486, § 19143(b)(2), added subsec. (h).
+Subsec. (h). Pub. L. 102–486, § 19143(b)(2), added subsec. (h).
 
-1990—Subsec. (b). Pub. L. 101–508, § 6003(a), substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
+1990—Subsec. (b). Pub. L. 101–508, § 6003(a), substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
 
-Subsec. (c). Pub. L. 101–508, § 6003(b), inserted at end “Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
+Subsec. (c). Pub. L. 101–508, § 6003(b), inserted at end “Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
 
-Subsec. (d). Pub. L. 101–508, § 6003(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 101–508, § 6003(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f). Pub. L. 101–508, § 6003(d), inserted at end “Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of section 4121 of title 26.”
+Subsec. (f). Pub. L. 101–508, § 6003(d), inserted at end “Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of section 4121 of title 26.”
 
-Subsec. (g). Pub. L. 101–508, § 6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
+Subsec. (g). Pub. L. 101–508, § 6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
 
 1987—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
 
@@ -1595,7 +1595,7 @@ Subsec. (g). Pub. L. 101–508, § 6004, amended subsec. (g) generally, substi
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. Y, § 2(c), Dec. 27, 2020, 134 Stat. 2418, provided that:
+Pub. L. 116–260, div. Y, § 2(c), Dec. 27, 2020, 134 Stat. 2418, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 27, 2020].
 
@@ -1603,7 +1603,7 @@ Pub. L. 116–260, div. Y, § 2(c), Dec. 27, 2020, 134 Stat. 2418, provided th
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. M, § 102(b), Dec. 20, 2019, 133 Stat. 3094, provided that:
+Pub. L. 116–94, div. M, § 102(b), Dec. 20, 2019, 133 Stat. 3094, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall apply to fiscal years beginning after September 30, 2016.
 
@@ -1611,15 +1611,15 @@ Pub. L. 116–94, div. M, § 102(b), Dec. 20, 2019, 133 Stat. 3094, provided t
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–31, div. M, title I, § 104(b), May 5, 2017, 131 Stat. 804, provided that: “The amendments made by this section [amending this section] shall apply to fiscal years beginning after September 30, 2016.”
+Pub. L. 115–31, div. M, title I, § 104(b), May 5, 2017, 131 Stat. 804, provided that: “The amendments made by this section [amending this section] shall apply to fiscal years beginning after September 30, 2016.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. C, title II, § 202(a)(1), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(a)(1) [amending this section] is effective Oct. 1, 2007.
+Pub. L. 109–432, div. C, title II, § 202(a)(1), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(a)(1) [amending this section] is effective Oct. 1, 2007.
 
-Pub. L. 109–432, div. C, title II, § 202(a)(2), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(a)(2) [amending this section] is effective Oct. 1, 2012.
+Pub. L. 109–432, div. C, title II, § 202(a)(2), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(a)(2) [amending this section] is effective Oct. 1, 2012.
 
-Pub. L. 109–432, div. C, title II, § 202(b), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(b) [amending this section] is effective Sept. 30, 2007.
+Pub. L. 109–432, div. C, title II, § 202(b), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(b) [amending this section] is effective Sept. 30, 2007.
 
 **Effective Date of 1990 Amendment**
 
@@ -1629,15 +1629,15 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 1233. Objectives of fund
+### § 1233. Objectives of fund
 
 **(a) Priorities** Expenditure of moneys from the fund on lands and water eligible pursuant to section 1234 of this title for the purposes of this subchapter, except as provided for under section 1240a of this title, shall reflect the following priorities in the order stated:
 
 **(1)**
 
-**(A)** the protection; 1
+**(A)** the protection; 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 of public health, safety, and property from extreme danger of adverse effects of coal mining practices;
 
@@ -1669,35 +1669,35 @@ of public health, safety, and property from extreme danger of adverse effects of
 
 For the purposes of assisting in the planning and evaluation of reclamation projects pursuant to section 1235 of this title, and assisting in making the certification referred to in section 1240a(a) of this title, the Secretary shall maintain an inventory of eligible lands and waters pursuant to section 1234 of this title which meet the priorities stated in paragraphs (1) and (2) of subsection (a). Under standardized procedures established by the Secretary, States and Indian tribes with approved abandoned mine reclamation programs pursuant to section 1235 of this title may offer amendments, subject to the approval of the Secretary, to update the inventory as it applies to eligible lands and waters under the jurisdiction of such States or tribes. The Secretary shall provide such States and tribes with the financial and technical assistance necessary for the purpose of making inventory amendments. The Secretary shall compile and maintain an inventory for States and Indian lands in the case when a State or Indian tribe does not have an approved abandoned mine reclamation program pursuant to section 1235 of this title. On a regular basis, but not less than annually, the projects completed under this subchapter shall be so noted on the inventory under standardized procedures established by the Secretary.
 
-(Pub. L. 95–87, title IV, § 403, Aug. 3, 1977, 91 Stat. 458; Pub. L. 101–508, title VI, § 6005, Nov. 5, 1990, 104 Stat. 1388–294; Pub. L. 102–486, title XXV, § 2504(c)(2), (e), Oct. 24, 1992, 106 Stat. 3105, 3106; Pub. L. 109–432, div. C, title II, § 203, Dec. 20, 2006, 120 Stat. 3015.)
+(Pub. L. 95–87, title IV, § 403, Aug. 3, 1977, 91 Stat. 458; Pub. L. 101–508, title VI, § 6005, Nov. 5, 1990, 104 Stat. 1388–294; Pub. L. 102–486, title XXV, § 2504(c)(2), (e), Oct. 24, 1992, 106 Stat. 3105, 3106; Pub. L. 109–432, div. C, title II, § 203, Dec. 20, 2006, 120 Stat. 3015.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a)(1). Pub. L. 109–432, § 203(1)(A), designated existing provisions as subpar. (A), inserted semicolon after “protection”, struck out “general welfare,” after “safety,”, and added subpar. (B).
+2006—Subsec. (a)(1). Pub. L. 109–432, § 203(1)(A), designated existing provisions as subpar. (A), inserted semicolon after “protection”, struck out “general welfare,” after “safety,”, and added subpar. (B).
 
-Subsec. (a)(2). Pub. L. 109–432, § 203(1)(B), designated existing provisions as subpar. (A), substituted “health and safety” for “health, safety, and general welfare”, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 109–432, § 203(1)(B), designated existing provisions as subpar. (A), substituted “health and safety” for “health, safety, and general welfare”, and added subpar. (B).
 
-Subsec. (a)(3). Pub. L. 109–432, § 203(1)(C), which directed that a period be substituted for the semicolon at end, could not be executed because a period already appeared at end.
+Subsec. (a)(3). Pub. L. 109–432, § 203(1)(C), which directed that a period be substituted for the semicolon at end, could not be executed because a period already appeared at end.
 
-Subsec. (a)(4), (5). Pub. L. 109–432, § 203(1)(D), struck out pars. (4) and (5) which read as follows:
+Subsec. (a)(4), (5). Pub. L. 109–432, § 203(1)(D), struck out pars. (4) and (5) which read as follows:
 
 “(4) the protection, repair, replacement, construction, or enhancement of public facilities such as utilities, roads, recreation, and conservation facilities adversely affected by coal mining practices;
 
 “(5) the development of publicly owned land adversely affected by coal mining practices including land acquired as provided in this subchapter for recreation and historic purposes, conservation, and reclamation purposes and open space benefits.”
 
-Subsec. (b). Pub. L. 109–432, § 203(2)(A), substituted “Water supply restoration” for “Utilities and other facilities” in heading.
+Subsec. (b). Pub. L. 109–432, § 203(2)(A), substituted “Water supply restoration” for “Utilities and other facilities” in heading.
 
-Subsec. (b)(1). Pub. L. 109–432, § 203(2)(B), struck out “up to 30 percent of the” before “funds”.
+Subsec. (b)(1). Pub. L. 109–432, § 203(2)(B), struck out “up to 30 percent of the” before “funds”.
 
-Subsec. (c). Pub. L. 109–432, § 203(3), inserted “, subject to the approval of the Secretary,” after “amendments” in second sentence.
+Subsec. (c). Pub. L. 109–432, § 203(3), inserted “, subject to the approval of the Secretary,” after “amendments” in second sentence.
 
-1992—Subsec. (a)(4) to (6). Pub. L. 102–486, § 2504(c)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “research and demonstration projects relating to the development of surface mining reclamation and water quality control program methods and techniques;”.
+1992—Subsec. (a)(4) to (6). Pub. L. 102–486, § 2504(c)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “research and demonstration projects relating to the development of surface mining reclamation and water quality control program methods and techniques;”.
 
-Subsec. (b)(2). Pub. L. 102–486, § 2504(e), inserted “, or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title” after “1977” in two places.
+Subsec. (b)(2). Pub. L. 102–486, § 2504(e), inserted “, or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title” after “1977” in two places.
 
-1990—Pub. L. 101–508 designated existing provisions as subsec. (a), inserted heading and “, except as provided for under section 1240a of this title,” after “subchapter”, and added subsecs. (b) and (c).
+1990—Pub. L. 101–508 designated existing provisions as subsec. (a), inserted heading and “, except as provided for under section 1240a of this title,” after “subchapter”, and added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1705,11 +1705,11 @@ Subsec. (b)(2). Pub. L. 102–486, § 2504(e), inserted “, or as the case 
 
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
 
-### § 1234. Eligible lands and water
+### § 1234. Eligible lands and water
 
 Lands and water eligible for reclamation or drainage abatement expenditures under this subchapter are those which were mined for coal or which were affected by such mining, wastebanks, coal processing, or other coal mining processes, except as provided for under section 1240a of this title, and abandoned or left in an inadequate reclamation status prior to August 3, 1977, and for which there is no continuing reclamation responsibility under State or other Federal laws. For other provisions relating to lands and waters eligible for such expenditures, see section 1232(g)(4) of this title, section 1233(b)(1) of this title, and section 1239 of this title. Surface coal mining operations on lands eligible for remining shall not affect the eligibility of such lands for reclamation and restoration under this subchapter after the release of the bond or deposit for any such operation as provided under section 1269 of this title. In the event the bond or deposit for a surface coal mining operation on lands eligible for remining is forfeited, funds available under this subchapter may be used if the amount of such bond or deposit is not sufficient to provide for adequate reclamation or abatement, except that if conditions warrant the Secretary shall immediately exercise his authority under section 1240 of this title.
 
-(Pub. L. 95–87, title IV, § 404, Aug. 3, 1977, 91 Stat. 459; Pub. L. 101–508, title VI, § 6006, Nov. 5, 1990, 104 Stat. 1388–295; Pub. L. 102–486, title XXV, § 2503(d), Oct. 24, 1992, 106 Stat. 3103.)
+(Pub. L. 95–87, title IV, § 404, Aug. 3, 1977, 91 Stat. 459; Pub. L. 101–508, title VI, § 6006, Nov. 5, 1990, 104 Stat. 1388–295; Pub. L. 102–486, title XXV, § 2503(d), Oct. 24, 1992, 106 Stat. 3103.)
 
 **Editorial Notes**
 
@@ -1717,7 +1717,7 @@ Lands and water eligible for reclamation or drainage abatement expenditures unde
 
 1992—Pub. L. 102–486 inserted at end “Surface coal mining operations on lands eligible for remining shall not affect the eligibility of such lands for reclamation and restoration under this subchapter after the release of the bond or deposit for any such operation as provided under section 1269 of this title. In the event the bond or deposit for a surface coal mining operation on lands eligible for remining is forfeited, funds available under this subchapter may be used if the amount of such bond or deposit is not sufficient to provide for adequate reclamation or abatement, except that if conditions warrant the Secretary shall immediately exercise his authority under section 1240 of this title.”
 
-1990—Pub. L. 101–508 inserted “, except as provided for under section 1240a of this title” after “processes” and inserted at end “For other provisions relating to lands and waters eligible for such expenditures, see section 1232(g)(4) of this title, section 1233(b)(1) of this title, and section 1239 of this title.”
+1990—Pub. L. 101–508 inserted “, except as provided for under section 1240a of this title” after “processes” and inserted at end “For other provisions relating to lands and waters eligible for such expenditures, see section 1232(g)(4) of this title, section 1233(b)(1) of this title, and section 1239 of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1725,7 +1725,7 @@ Lands and water eligible for reclamation or drainage abatement expenditures unde
 
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
 
-### § 1235. State reclamation program
+### § 1235. State reclamation program
 
 **(a) Promulgation of regulations**
 
@@ -1787,17 +1787,17 @@ Indian tribes having within their jurisdiction eligible lands pursuant to sectio
 
 No State shall be liable under any provision of Federal law for any costs or damages as a result of action taken or omitted in the course of carrying out a State abandoned mine reclamation plan approved under this section. This subsection shall not preclude liability for cost or damages as a result of gross negligence or intentional misconduct by the State. For purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.
 
-(Pub. L. 95–87, title IV, § 405, Aug. 3, 1977, 91 Stat. 459; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 416; Pub. L. 101–508, title VI, §§ 6007, 6012(d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–295, 1388–298.)
+(Pub. L. 95–87, title IV, § 405, Aug. 3, 1977, 91 Stat. 459; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 416; Pub. L. 101–508, title VI, §§ 6007, 6012(d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–295, 1388–298.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–508, § 6012(d)(1), substituted “preparation” for “perparation”.
+1990—Subsec. (a). Pub. L. 101–508, § 6012(d)(1), substituted “preparation” for “perparation”.
 
-Subsec. (h). Pub. L. 101–508, § 6012(d)(2), substituted “Upon approval” for “Upon approved”.
+Subsec. (h). Pub. L. 101–508, § 6012(d)(2), substituted “Upon approval” for “Upon approved”.
 
-Subsec. (*l*). Pub. L. 101–508, § 6007, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 101–508, § 6007, added subsec. (*l*).
 
 1987—Subsec. (k). Pub. L. 100–71, which directed the amendment of subsec. (k) by inserting “except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes” at the end thereof, was executed by making the insertion before the period to reflect the probable intent of Congress.
 
@@ -1809,9 +1809,9 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
 **Grant of Funds to States Under Surface Mining Control and Reclamation Act**
 
-Pub. L. 97–377, title I, § 150, Dec. 21, 1982, 96 Stat. 1918, provided that: “Within 60 days of receipt of a complete abandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act (91 Stat. 460) [Pub. L. 95–87, see Short Title note set out under section 1201 of this title] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act.”
+Pub. L. 97–377, title I, § 150, Dec. 21, 1982, 96 Stat. 1918, provided that: “Within 60 days of receipt of a complete abandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act (91 Stat. 460) [Pub. L. 95–87, see Short Title note set out under section 1201 of this title] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act.”
 
-### § 1236. Reclamation of rural lands
+### § 1236. Reclamation of rural lands
 
 **(a) Agreements with landowners for conservation treatment**
 
@@ -1849,21 +1849,21 @@ In carrying out the provisions of this section, the Secretary of Agriculture sha
 
 There are authorized to be appropriated to the Secretary of Agriculture, from amounts in the Treasury other than amounts in the fund, such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–87, title IV, § 406, Aug. 3, 1977, 91 Stat. 460; Pub. L. 97–98, title XV, § 1551, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 101–508, title VI, §§ 6008, 6012(c), (d)(3), Nov. 5, 1990, 104 Stat. 1388–295, 1388–298; Pub. L. 109–432, div. C, title II, § 204, Dec. 20, 2006, 120 Stat. 3016.)
+(Pub. L. 95–87, title IV, § 406, Aug. 3, 1977, 91 Stat. 460; Pub. L. 97–98, title XV, § 1551, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 101–508, title VI, §§ 6008, 6012(c), (d)(3), Nov. 5, 1990, 104 Stat. 1388–295, 1388–298; Pub. L. 109–432, div. C, title II, § 204, Dec. 20, 2006, 120 Stat. 3016.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (h). Pub. L. 109–432, § 204(a), substituted “Natural Resources Conservation Service” for “Soil Conservation Service”.
+2006—Subsec. (h). Pub. L. 109–432, § 204(a), substituted “Natural Resources Conservation Service” for “Soil Conservation Service”.
 
-Subsec. (i). Pub. L. 109–432, § 204(b), added subsec. (i).
+Subsec. (i). Pub. L. 109–432, § 204(b), added subsec. (i).
 
-1990—Subsec. (a). Pub. L. 101–508, § 6012(d)(3), which directed the substitution of “(including owners” for “including owners” was executed the first time that phrase appeared to reflect the probable intent of Congress, because the parenthetical statement concluding with “water rights)” was enacted without an opening parenthesis.
+1990—Subsec. (a). Pub. L. 101–508, § 6012(d)(3), which directed the substitution of “(including owners” for “including owners” was executed the first time that phrase appeared to reflect the probable intent of Congress, because the parenthetical statement concluding with “water rights)” was enacted without an opening parenthesis.
 
-Subsec. (d). Pub. L. 101–508, § 6008, struck out “experimental” before “reclamation treatment projects” in last sentence.
+Subsec. (d). Pub. L. 101–508, § 6008, struck out “experimental” before “reclamation treatment projects” in last sentence.
 
-Subsec. (i). Pub. L. 101–508, § 6012(c), repealed subsec. (i) which read as follows: “Funds shall be made available to the Secretary of Agriculture for the purposes of this section, as provided in section 1231 of this title.”
+Subsec. (i). Pub. L. 101–508, § 6012(c), repealed subsec. (i) which read as follows: “Funds shall be made available to the Secretary of Agriculture for the purposes of this section, as provided in section 1231 of this title.”
 
 1981—Subsec. (d). Pub. L. 97–98 inserted provisions that notwithstanding any other provision of this section with regard to acreage limitations, the Secretary may carry out experimental reclamation treatment projects to control erosion and improve water quality on all lands within a hydrologic unit, consisting of not more than 25,000 acres, if the Secretary determines that treatment of such lands as a hydrologic unit will achieve greater reduction in the adverse effects of past surface mining practices than would be achieved if reclamation was done on individual parcels of land.
 
@@ -1877,7 +1877,7 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of Title 7, Agriculture.
 
-### § 1237. Acquisition and reclamation of land adversely affected by past coal mining practices
+### § 1237. Acquisition and reclamation of land adversely affected by past coal mining practices
 
 **(a) Findings of fact; notice; right of entry** If the Secretary or the State pursuant to an approved State program, makes a finding of fact that—
 
@@ -1925,17 +1925,17 @@ The Secretary, in formulating regulations for making grants to the States to acq
 
 In addition to the authority to acquire land under subsection (d) of this section the Secretary is authorized to use money in the fund to acquire land by purchase, donation, or condemnation, and to reclaim and transfer acquired land to any State or to a political subdivision thereof, or to any person, firm, association, or corporation, if he determines that such is an integral and necessary element of an economically feasible plan for the project to construct or rehabilitate housing for persons disabled as the result of employment in the mines or work incidental thereto, persons displaced by acquisition of land pursuant to this section, or persons dislocated as the result of adverse effects of coal mining practices which constitute an emergency as provided in section 1240 of this title or persons dislocated as the result of natural disasters or catastrophic failures from any cause. Such activities shall be accomplished under such terms and conditions as the Secretary shall require, which may include transfers of land with or without monetary consideration: *Provided*, That, to the extent that the consideration is below the fair market value of the land transferred, no portion of the difference between the fair market value and the consideration shall accrue as a profit to such persons, firm, association, or corporation. No part of the funds provided under this subchapter may be used to pay the actual construction costs of housing. The Secretary may carry out the purposes of this subsection directly or he may make grants and commitments for grants, and may advance money under such terms and conditions as he may require to any State, or any department, agency, or instrumentality of a State, or any public body or nonprofit organization designated by a State.
 
-(Pub. L. 95–87, title IV, § 407, Aug. 3, 1977, 91 Stat. 462; Pub. L. 101–508, title VI, § 6012(d)(4)–(7), Nov. 5, 1990, 104 Stat. 1388–298.)
+(Pub. L. 95–87, title IV, § 407, Aug. 3, 1977, 91 Stat. 462; Pub. L. 101–508, title VI, § 6012(d)(4)–(7), Nov. 5, 1990, 104 Stat. 1388–298.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–508, § 6012(d)(4), (5), substituted a semicolon for the period at end of par. (4) and “then, upon giving notice” for “Then, upon giving notice” in concluding provisions.
+1990—Subsec. (a). Pub. L. 101–508, § 6012(d)(4), (5), substituted a semicolon for the period at end of par. (4) and “then, upon giving notice” for “Then, upon giving notice” in concluding provisions.
 
-Subsec. (e). Pub. L. 101–508, § 6012(d)(6), substituted “paragraph (1) of subsection (c)” for “paragraph (1), of this subsection”.
+Subsec. (e). Pub. L. 101–508, § 6012(d)(6), substituted “paragraph (1) of subsection (c)” for “paragraph (1), of this subsection”.
 
-Subsec. (g)(2). Pub. L. 101–508, § 6012(d)(7), substituted “use or” for “use of” before “disposition”.
+Subsec. (g)(2). Pub. L. 101–508, § 6012(d)(7), substituted “use or” for “use of” before “disposition”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1943,7 +1943,7 @@ Subsec. (g)(2). Pub. L. 101–508, § 6012(d)(7), substituted “use or” for
 
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
 
-### § 1238. Liens
+### § 1238. Liens
 
 **(a) Filing of statement and appraisal**
 
@@ -1957,7 +1957,7 @@ The landowner may proceed as provided by local law to petition within sixty days
 
 The lien provided in this section shall be entered in the county office in which the land lies and which has responsibility under local law for the recording of judgments against land. Such statement shall constitute a lien upon the said land as of the date of the expenditure of the moneys and shall have priority as a lien second only to the lien of real estate taxes imposed upon said land.
 
-(Pub. L. 95–87, title IV, § 408, Aug. 3, 1977, 91 Stat. 465; Pub. L. 109–432, div. C, title II, § 205, Dec. 20, 2006, 120 Stat. 3016.)
+(Pub. L. 95–87, title IV, § 408, Aug. 3, 1977, 91 Stat. 465; Pub. L. 109–432, div. C, title II, § 205, Dec. 20, 2006, 120 Stat. 3016.)
 
 **Editorial Notes**
 
@@ -1965,13 +1965,13 @@ The lien provided in this section shall be entered in the county office in which
 
 2006—Subsec. (a). Pub. L. 109–432 struck out “who owned the surface prior to May 2, 1977, and” after “this subsection,” in last sentence.
 
-### § 1239. Filling voids and sealing tunnels
+### § 1239. Filling voids and sealing tunnels
 
 **(a) Congressional declaration of hazardous conditions**
 
-The Congress declares that voids, and open and abandoned tunnels, shafts, and entryways resulting from any previous mining operation, constitute a hazard to the public health or safety and that surface impacts of any underground or surface mining operation may degrade the environment. The Secretary, at the request of the Governor of any State, or the the 1
+The Congress declares that voids, and open and abandoned tunnels, shafts, and entryways resulting from any previous mining operation, constitute a hazard to the public health or safety and that surface impacts of any underground or surface mining operation may degrade the environment. The Secretary, at the request of the Governor of any State, or the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 governing body of an Indian tribe, is authorized to fill such voids, seal such abandoned tunnels, shafts, and entryways, and reclaim surface impacts of underground or surface mines which the Secretary determines could endanger life and property, constitute a hazard to the public health and safety, or degrade the environment. State regulatory authorities are authorized to carry out such work pursuant to an approved abandoned mine reclamation program.
 
@@ -1995,17 +1995,17 @@ In those instances where mine waste piles are being reworked for conservation pu
 
 The Secretary may acquire by purchase, donation, easement, or otherwise such interest in land as he determines necessary to carry out the provisions of this section.
 
-(Pub. L. 95–87, title IV, § 409, Aug. 3, 1977, 91 Stat. 465; Pub. L. 101–508, title VI, § 6009, Nov. 5, 1990, 104 Stat. 1388–296.)
+(Pub. L. 95–87, title IV, § 409, Aug. 3, 1977, 91 Stat. 465; Pub. L. 101–508, title VI, § 6009, Nov. 5, 1990, 104 Stat. 1388–296.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–508, § 6009(1), substituted “the governing body of an Indian tribe” for “chairman of any tribe”.
+1990—Subsec. (a). Pub. L. 101–508, § 6009(1), substituted “the governing body of an Indian tribe” for “chairman of any tribe”.
 
-Subsec. (b). Pub. L. 101–508, § 6009(2), substituted “Indian tribes under the provisions of paragraphs (1) and (5) of section 1232(g) of this title” for “Indian reservations under the provisions of subsection 1232(g) of this title”.
+Subsec. (b). Pub. L. 101–508, § 6009(2), substituted “Indian tribes under the provisions of paragraphs (1) and (5) of section 1232(g) of this title” for “Indian reservations under the provisions of subsection 1232(g) of this title”.
 
-Subsec. (c). Pub. L. 101–508, § 6009(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make expenditures and carry out the purposes of this section without regard to provisions of section 1234 of this title in such States or Indian reservations where requests are made by the Governor or tribal chairman and only after all reclamation with respect to abandoned coal lands or coal development impacts have been met, except for those reclamation projects relating to the protection of the public health or safety.”
+Subsec. (c). Pub. L. 101–508, § 6009(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make expenditures and carry out the purposes of this section without regard to provisions of section 1234 of this title in such States or Indian reservations where requests are made by the Governor or tribal chairman and only after all reclamation with respect to abandoned coal lands or coal development impacts have been met, except for those reclamation projects relating to the protection of the public health or safety.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2013,7 +2013,7 @@ Subsec. (c). Pub. L. 101–508, § 6009(3), amended subsec. (c) generally. Pri
 
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
 
-### § 1240. Emergency powers
+### § 1240. Emergency powers
 
 **(a)** The Secretary is authorized to expend moneys from the fund for the emergency restoration, reclamation, abatement, control, or prevention of adverse effects of coal mining practices, on eligible lands, if the Secretary makes a finding of fact that—
 
@@ -2023,9 +2023,9 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
 **(b)** The Secretary, his agents, employees, and contractors shall have the right to enter upon any land where the emergency exists and any other land to have access to the land where the emergency exists to restore, reclaim, abate, control, or prevent the adverse effects of coal mining practices and to do all things necessary or expedient to protect the public health, safety, or general welfare. Such entry shall be construed as an exercise of the police power and shall not be construed as an act of condemnation of property nor of trespass thereof. The moneys expended for such work and the benefits accruing to any such premises so entered upon shall be chargeable against such land and shall mitigate or offset any claim in or any action brought by any owner of any interest in such premises for any alleged damages by virtue of such entry: *Provided, however*, That this provision is not intended to create new rights of action or eliminate existing immunities.
 
-(Pub. L. 95–87, title IV, § 410, Aug. 3, 1977, 91 Stat. 466.)
+(Pub. L. 95–87, title IV, § 410, Aug. 3, 1977, 91 Stat. 466.)
 
-### § 1240a. Certification
+### § 1240a. Certification
 
 **(a) Certification of completion of coal reclamation**
 
@@ -2141,15 +2141,15 @@ The annual amount allocated under subparagraph (A) or (B) of section 1232(g)(1) 
 
 The grants shall be allocated based on the amount of coal historically produced before August 3, 1977, in the same manner as under section 1232(g)(5) of this title.
 
-(Pub. L. 95–87, title IV, § 411, as added Pub. L. 101–508, title VI, § 6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, § 206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141, div. F, title I, § 100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, § 142, Sept. 28, 2012, 126 Stat. 1321; Pub. L. 113–40, § 10(d), Oct. 2, 2013, 127 Stat. 546; Pub. L. 114–94, div. D, title XLIII, § 43001, Dec. 4, 2015, 129 Stat. 1762.)
+(Pub. L. 95–87, title IV, § 411, as added Pub. L. 101–508, title VI, § 6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, § 206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141, div. F, title I, § 100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, § 142, Sept. 28, 2012, 126 Stat. 1321; Pub. L. 113–40, § 10(d), Oct. 2, 2013, 127 Stat. 546; Pub. L. 114–94, div. D, title XLIII, § 43001, Dec. 4, 2015, 129 Stat. 1762.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (d), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, which is classified principally to chapter 88 (§ 7901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of Title 42 and Tables.
+The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (d), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, which is classified principally to chapter 88 (§ 7901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of Title 42 and Tables.
 
-The Comprehensive Environmental Response Compensation and Liability Act of 1980, referred to in subsec. (d), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response Compensation and Liability Act of 1980, referred to in subsec. (d), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -2157,9 +2157,9 @@ A prior section 411 of Pub. L. 95–87 was renumbered section 412 and was classi
 
 **Amendments**
 
-2015—Subsec. (h)(1)(C). Pub. L. 114–94, § 43001(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+2015—Subsec. (h)(1)(C). Pub. L. 114–94, § 43001(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Subsec. (h)(5), (6). Pub. L. 114–94, § 43001(2), struck out pars. (5) and (6) which related to limitation on annual payments and supplemental funding, respectively.
+Subsec. (h)(5), (6). Pub. L. 114–94, § 43001(2), struck out pars. (5) and (6) which related to limitation on annual payments and supplemental funding, respectively.
 
 2013—Subsec. (h)(6). Pub. L. 113–40 added par. (6).
 
@@ -2167,9 +2167,9 @@ Subsec. (h)(5), (6). Pub. L. 114–94, § 43001(2), struck out pars. (5) and (
 
 Subsec. (h)(5). Pub. L. 112–141 added par. (5).
 
-2006—Subsec. (a). Pub. L. 109–432, § 206(1), designated existing provisions as par. (1) and added par. (2).
+2006—Subsec. (a). Pub. L. 109–432, § 206(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (h). Pub. L. 109–432, § 206(2), added subsec. (h).
+Subsec. (h). Pub. L. 109–432, § 206(2), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2177,15 +2177,15 @@ Subsec. (h). Pub. L. 109–432, § 206(2), added subsec. (h).
 
 Section effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as an Effective Date of 1990 Amendment note under section 1231 of this title.
 
-### § 1241. Omitted
+### § 1241. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 95–87, title IV, § 412, formerly § 411, Aug. 3, 1977, 91 Stat. 466, renumbered § 412, Pub. L. 101–508, title VI, § 6010(1), Nov. 5, 1990, 104 Stat. 1388–296, which required the Secretary of the Interior or the State pursuant to an approved State program to report to Congress annually on operations under the fund together with recommendations for future use of the fund, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 109 of House Document No. 103–7.
+Section, Pub. L. 95–87, title IV, § 412, formerly § 411, Aug. 3, 1977, 91 Stat. 466, renumbered § 412, Pub. L. 101–508, title VI, § 6010(1), Nov. 5, 1990, 104 Stat. 1388–296, which required the Secretary of the Interior or the State pursuant to an approved State program to report to Congress annually on operations under the fund together with recommendations for future use of the fund, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 109 of House Document No. 103–7.
 
-### § 1242. Powers of Secretary or State
+### § 1242. Powers of Secretary or State
 
 **(a) Engage in work, promulgate rules and regulations, etc., to implement and administer this subchapter**
 
@@ -2207,25 +2207,25 @@ The Secretary or the State pursuant to an approved State program, shall have the
 
 The Secretary may transfer funds to other appropriate Federal agencies, in order to carry out the reclamation activities authorized by this subchapter.
 
-(Pub. L. 95–87, title IV, § 413, formerly § 412, Aug. 3, 1977, 91 Stat. 466, renumbered § 413, Pub. L. 101–508, title VI, § 6010(1), Nov. 5, 1990, 104 Stat. 1388–296.)
+(Pub. L. 95–87, title IV, § 413, formerly § 412, Aug. 3, 1977, 91 Stat. 466, renumbered § 413, Pub. L. 101–508, title VI, § 6010(1), Nov. 5, 1990, 104 Stat. 1388–296.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended), referred to in subsec. (d), is act June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§ 1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§ 1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended), referred to in subsec. (d), is act June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§ 1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§ 1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 **Prior Provisions**
 
 A prior section 413 of Pub. L. 95–87 was renumbered section 414 and is classified to section 1243 of this title.
 
-### § 1243. Interagency cooperation
+### § 1243. Interagency cooperation
 
 All departments, boards, commissioners, and agencies of the United States of America shall cooperate with the Secretary by providing technical expertise, personnel, equipment, materials, and supplies to implement and administer the provisions of this subchapter.
 
-(Pub. L. 95–87, title IV, § 414, formerly § 413, Aug. 3, 1977, 91 Stat. 467, renumbered § 414, Pub. L. 101–508, title VI, § 6010(1), Nov. 5, 1990, 104 Stat. 1388–296.)
+(Pub. L. 95–87, title IV, § 414, formerly § 413, Aug. 3, 1977, 91 Stat. 467, renumbered § 414, Pub. L. 101–508, title VI, § 6010(1), Nov. 5, 1990, 104 Stat. 1388–296.)
 
-### § 1244. Remining incentives
+### § 1244. Remining incentives
 
 **(a) In general**
 
@@ -2255,9 +2255,9 @@ Any regulations promulgated under subsection (a) shall specify that the incentiv
 
 The amount of a rebate or waiver provided as an incentive under paragraph (1)(A) to remine or reclaim eligible land shall not exceed the estimated cost of reclaiming the eligible land under this section.
 
-(Pub. L. 95–87, title IV, § 415, as added Pub. L. 109–432, div. C, title II, § 207, Dec. 20, 2006, 120 Stat. 3018.)
+(Pub. L. 95–87, title IV, § 415, as added Pub. L. 109–432, div. C, title II, § 207, Dec. 20, 2006, 120 Stat. 3018.)
 
-### § 1245. Abandoned hardrock mine reclamation
+### § 1245. Abandoned hardrock mine reclamation
 
 **(a) Establishment**
 
@@ -2299,13 +2299,13 @@ Amounts made available to carry out this section may not be used to fulfill obli
 
 The Secretary may transfer amounts made available to the Secretary under paragraph (1)(B) to the Secretary of Agriculture for activities described in subsection (a) on National Forest System land.
 
-(Pub. L. 117–58, div. D, title VII, § 40704, Nov. 15, 2021, 135 Stat. 1093.)
+(Pub. L. 117–58, div. D, title VII, § 40704, Nov. 15, 2021, 135 Stat. 1093.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 **Codification**
 
@@ -3139,11 +3139,11 @@ For definition of “Indian Tribe” as used in this section, see section 5304 o
 
 ## SUBCHAPTER V—CONTROL OF THE ENVIRONMENTAL IMPACTS OF SURFACE COAL MINING
 
-### § 1251. Environmental protection standards
+### § 1251. Environmental protection standards
 
-**(a)** Not later than the end of the ninety-day period immediately following August 3, 1977, the Secretary shall promulgate and publish in the Federal Register regulations covering an interim regulatory procedure for surface coal mining and reclamation operations setting mining and reclamation performance standards based on and incorporating the provisions set out in section 1252(c) of this title. The issuance of the interim regulations shall be deemed not to be a major Federal action within the meaning of section 4332(2)(c) 1
+**(a)** Not later than the end of the ninety-day period immediately following August 3, 1977, the Secretary shall promulgate and publish in the Federal Register regulations covering an interim regulatory procedure for surface coal mining and reclamation operations setting mining and reclamation performance standards based on and incorporating the provisions set out in section 1252(c) of this title. The issuance of the interim regulations shall be deemed not to be a major Federal action within the meaning of section 4332(2)(c) 1
 
-<sup>1</sup>  So in original. Probably should be “4332(2)(C)”.
+<sup>1</sup> So in original. Probably should be “4332(2)(C)”.
 
 of title 42. Such regulations, which shall be concise and written in plain, understandable language shall not be promulgated and published by the Secretary until he has—
 
@@ -3157,17 +3157,17 @@ The date, time, and place of any hearing held on the proposed regulations shall 
 
 **(b)** Not later than one year after August 3, 1977, the Secretary shall promulgate and publish in the Federal Register regulations covering a permanent regulatory procedure for surface coal mining and reclamation operations performance standards based on and conforming to the provisions of this subchapter and establishing procedures and requirements for preparation, submission, and approval of State programs; and development and implementation of Federal programs under the subchapter. The Secretary shall promulgate these regulations, which shall be concise and written in plain, understandable language in accordance with the procedures in subsection (a).
 
-(Pub. L. 95–87, title V, § 501, Aug. 3, 1977, 91 Stat. 467.)
+(Pub. L. 95–87, title V, § 501, Aug. 3, 1977, 91 Stat. 467.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsec. (a)(B), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a)(B), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-### § 1251a. Abandoned coal refuse sites
+### § 1251a. Abandoned coal refuse sites
 
 **(1)** Notwithstanding any other provision of the Surface Mining Control and Reclamation Act of 1977 [30 U.S.C. 1201 et seq.] to the contrary, the Secretary of the Interior shall, within one year after October 24, 1992, publish proposed regulations in the Federal Register, and after opportunity for public comment publish final regulations, establishing environmental protection performance and reclamation standards, and separate permit systems applicable to operations for the on-site reprocessing of abandoned coal refuse and operations for the removal of abandoned coal refuse on lands that would otherwise be eligible for expenditure under section 404 and section 402(g)(4) of the Surface Mining Control and Reclamation Act of 1977 [30 U.S.C. 1234, 1232(g)(4)].
 
@@ -3177,13 +3177,13 @@ The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360,
 
 **(4)** Not later than 30 days prior to the publication of the proposed regulations referred to in this section, the Secretary shall submit a report to the Committee on Interior and Insular Affairs of the United States House of Representatives, and the Committee on Energy and Natural Resources of the United States Senate containing a detailed description of any environmental protection performance and reclamation standards, and separate permit systems, devised pursuant to this section.
 
-(Pub. L. 102–486, title XXV, § 2503(e), Oct. 24, 1992, 106 Stat. 3103.)
+(Pub. L. 102–486, title XXV, § 2503(e), Oct. 24, 1992, 106 Stat. 3103.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to this chapter (§ 1201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to this chapter (§ 1201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
 **Codification**
 
@@ -3195,7 +3195,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-### § 1252. Initial regulatory procedures
+### § 1252. Initial regulatory procedures
 
 **(a) State regulation**
 
@@ -3223,23 +3223,23 @@ Not later than two months following the approval of a State program pursuant to 
 
 **(4)** provide that moneys authorized by section 1302 of this title shall be available to the Secretary prior to the approval of a State program pursuant to this chapter to reimburse the State for conducting those inspections in which the standards of this chapter are enforced and for the administration of this section.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
-**(5)** for purposes of this section, the term “Federal inspector” means personnel of the Office of Surface Mining Reclamation and Enforcement and such additional personnel of the United States Geological Survey, Bureau of Land Management, or of the Mining Enforcement and Safety Administration so designated by the Secretary, or such other personnel of the Forest Service, Soil Conservation Service, or the Agricultural Stabilization and Conservation Service as arranged by appropriate agreement with the Secretary on a reimbursable or other basis; 2
+**(5)** for purposes of this section, the term “Federal inspector” means personnel of the Office of Surface Mining Reclamation and Enforcement and such additional personnel of the United States Geological Survey, Bureau of Land Management, or of the Mining Enforcement and Safety Administration so designated by the Secretary, or such other personnel of the Forest Service, Soil Conservation Service, or the Agricultural Stabilization and Conservation Service as arranged by appropriate agreement with the Secretary on a reimbursable or other basis; 2
 
-<sup>2</sup>  So in original. The semicolon probably should be a period.
+<sup>2</sup> So in original. The semicolon probably should be a period.
 
 **(f) Interim period**
 
 Following the final disapproval of a State program, and prior to promulgation of a Federal program or a Federal lands program pursuant to this chapter, including judicial review of such a program, existing surface coal mining operations may continue surface mining operations pursuant to the provisions of this section. During such period no new permits shall be issued by the State whose program has been disapproved. Permits which lapse during such period may continue in full force and effect until promulgation of a Federal program or a Federal lands program.
 
-(Pub. L. 95–87, title V, § 502, Aug. 3, 1977, 91 Stat. 468.)
+(Pub. L. 95–87, title V, § 502, Aug. 3, 1977, 91 Stat. 468.)
 
-### § 1253. State programs
+### § 1253. State programs
 
-**(a) Regulation of surface coal mining and reclamation operations; submittal to Secretary; time limit; demonstration of effectiveness** Each State in which there are or may be conducted surface coal mining operations on non-Federal lands, and which wishes to assume exclusive jurisdiction over the regulation of surface coal mining and reclamation operations, except as provided in sections 1271 and 1273 of this title and subchapter IV of this chapter, shall submit to the Secretary, by the end of the eighteenth-month 1
+**(a) Regulation of surface coal mining and reclamation operations; submittal to Secretary; time limit; demonstration of effectiveness** Each State in which there are or may be conducted surface coal mining operations on non-Federal lands, and which wishes to assume exclusive jurisdiction over the regulation of surface coal mining and reclamation operations, except as provided in sections 1271 and 1273 of this title and subchapter IV of this chapter, shall submit to the Secretary, by the end of the eighteenth-month 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 period beginning on August 3, 1977, a State program which demonstrates that such State has the capability of carrying out the provisions of this chapter and meeting its purposes through—
 
@@ -3249,9 +3249,9 @@ period beginning on August 3, 1977, a State program which demonstrates that such
 
 **(3)** a State regulatory authority with sufficient administrative and technical personnel, and sufficient funding to enable the State to regulate surface coal mining and reclamation operations in accordance with the requirements of this chapter;
 
-**(4)** a State law which provides for the effective implementations,<sup>1</sup> maintenance, and enforcement of a permit system, meeting the requirements of this subchapter for the regulations <sup>1</sup> of surface coal mining and reclamation operations for coal on lands within the State;
+**(4)** a State law which provides for the effective implementations,<sup>1</sup> maintenance, and enforcement of a permit system, meeting the requirements of this subchapter for the regulations <sup>1</sup> of surface coal mining and reclamation operations for coal on lands within the State;
 
-**(5)** establishment of a process for the designation of areas as unsuitable for surface coal mining in accordance with section 1272 of this title provided that the designation of Federal lands unsuitable for mining shall be performed exclusively by the Secretary after consultation with the State; and <sup>1</sup>
+**(5)** establishment of a process for the designation of areas as unsuitable for surface coal mining in accordance with section 1272 of this title provided that the designation of Federal lands unsuitable for mining shall be performed exclusively by the Secretary after consultation with the State; and <sup>1</sup>
 
 **(6)** establishment for the purposes of avoiding duplication, of a process for coordinating the review and issuance of permits for surface coal mining and reclamation operations with any other Federal or State permit process applicable to the proposed operations; and
 
@@ -3277,17 +3277,17 @@ If the Secretary disapproves any proposed State program in whole or in part, he 
 
 For the purposes of this section and section 1254 of this title, the inability of a State to take any action the purpose of which is to prepare, submit or enforce a State program, or any portion thereof, because the action is enjoined by the issuance of an injunction by any court of competent jurisdiction shall not result in a loss of eligibility for financial assistance under subchapters IV and VII of this chapter or in the imposition of a Federal program. Regulation of the surface coal mining and reclamation operations covered or to be covered by the State program subject to the injunction shall be conducted by the State pursuant to section 1252 of this title, until such time as the injunction terminates or for one year, whichever is shorter, at which time the requirements of this section and section 1254 of this title shall again be fully applicable.
 
-(Pub. L. 95–87, title V, § 503, Aug. 3, 1977, 91 Stat. 470.)
+(Pub. L. 95–87, title V, § 503, Aug. 3, 1977, 91 Stat. 470.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsec. (b)(2), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b)(2), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Clean Air Act, referred to in subsec. (b)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (b)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-### § 1254. Federal programs
+### § 1254. Federal programs
 
 **(a) Promulgation and implementation by Secretary for State** The Secretary shall prepare and, subject to the provisions of this section, promulgate and implement a Federal program for a State no later than thirty-four months after August 3, 1977, if such State—
 
@@ -3327,17 +3327,17 @@ Whenever a Federal program is promulgated for a State pursuant to this chapter, 
 
 Any Federal program shall include a process for coordinating the review and issuance of permits for surface mining and reclamation operations with any other Federal or State permit process applicable to the proposed operation.
 
-(Pub. L. 95–87, title V, § 504, Aug. 3, 1977, 91 Stat. 471.)
+(Pub. L. 95–87, title V, § 504, Aug. 3, 1977, 91 Stat. 471.)
 
-### § 1255. State laws
+### § 1255. State laws
 
 **(a)** No State law or regulation in effect on August 3, 1977, or which may become effective thereafter, shall be superseded by any provision of this chapter or any regulation issued pursuant thereto, except insofar as such State law or regulation is inconsistent with the provisions of this chapter.
 
 **(b)** Any provision of any State law or regulation in effect upon August 3, 1977, or which may become effective thereafter, which provides for more stringent land use and environmental controls and regulations of surface coal mining and reclamation operation than do the provisions of this chapter or any regulation issued pursuant thereto shall not be construed to be inconsistent with this chapter. The Secretary shall set forth any State law or regulation which is construed to be inconsistent with this chapter. Any provision of any State law or regulation in effect on August 3, 1977, or which may become effective thereafter, which provides for the control and regulation of surface mining and reclamation operations for which no provision is contained in this chapter shall not be construed to be inconsistent with this chapter.
 
-(Pub. L. 95–87, title V, § 505, Aug. 3, 1977, 91 Stat. 473.)
+(Pub. L. 95–87, title V, § 505, Aug. 3, 1977, 91 Stat. 473.)
 
-### § 1256. Permits
+### § 1256. Permits
 
 **(a) Persons engaged in surface coal mining within State; time limit; exception**
 
@@ -3369,15 +3369,15 @@ A permit shall terminate if the permittee has not commenced the surface coal min
 
 **(3)** Any permit renewal shall be for a term not to exceed the period of the original permit established by this chapter. Application for permit renewal shall be made at least one hundred and twenty days prior to the expiration of the valid permit.
 
-(Pub. L. 95–87, title V, § 506, Aug. 3, 1977, 91 Stat. 473.)
+(Pub. L. 95–87, title V, § 506, Aug. 3, 1977, 91 Stat. 473.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Mineral Leasing Act, as amended, referred to in subsec. (c), probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Federal Mineral Leasing Act, as amended, referred to in subsec. (c), probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-### § 1257. Application requirements
+### § 1257. Application requirements
 
 **(a) Fee**
 
@@ -3393,9 +3393,9 @@ Each application for a surface coal mining and reclamation permit pursuant to an
 
 **(4)** if the applicant is a partnership, corporation, association, or other business entity, the following where applicable: the names and addresses of every officer, partner, director, or person performing a function similar to a director, of the applicant, together with the name and address of any person owning, of record 10 per centum or more of any class of voting stock of the applicant and a list of all names under which the applicant, partner, or principal shareholder previously operated a surface mining operation within the United States within the five-year period preceding the date of submission of the application;
 
-**(5)** a statement of whether the applicant, any subsidiary, affiliate, or persons controlled by or under common control with the applicant, has ever held a Federal or State mining permit which in the five-year period prior to the date of submission of the application has been suspended or revoked or has had a mining bond or similar security deposited in lieu of bond forefeited 1
+**(5)** a statement of whether the applicant, any subsidiary, affiliate, or persons controlled by or under common control with the applicant, has ever held a Federal or State mining permit which in the five-year period prior to the date of submission of the application has been suspended or revoked or has had a mining bond or similar security deposited in lieu of bond forefeited 1
 
-<sup>1</sup>  So in original. Probably should be “forfeited”.
+<sup>1</sup> So in original. Probably should be “forfeited”.
 
 and, if so, a brief explanation of the facts involved;
 
@@ -3407,7 +3407,7 @@ and, if so, a brief explanation of the facts involved;
 
 **(9)** the applicant shall file with the regulatory authority on an accurate map or plan, to an appropriate scale, clearly showing the land to be affected as of the date of the application, the area of land within the permit area upon which the applicant has the legal right to enter and commence surface mining operations and shall provide to the regulatory authority a statement of those documents upon which the applicant bases his legal right to enter and commence surface mining operations on the area affected, and whether that right is the subject of pending court litigation: *Provided*, That nothing in this chapter shall be construed as vesting in the regulatory authority the jurisdiction to adjudicate property title disputes.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(10)** the name of the watershed and location of the surface stream or tributary into which surface and pit drainage will be discharged;
 
@@ -3463,15 +3463,15 @@ Each applicant for a surface coal mining and reclamation permit shall submit to 
 
 A coal operator that has received assistance pursuant to subsection (c)(1) or (2) shall reimburse the regulatory authority for the cost of the services rendered if the program administrator finds that the operator’s actual and attributed annual production of coal for all locations exceeds 300,000 tons during the 12 months immediately following the date on which the operator is issued the surface coal mining and reclamation permit.
 
-(Pub. L. 95–87, title V, § 507, Aug. 3, 1977, 91 Stat. 474; Pub. L. 101–508, title VI, § 6011, Nov. 5, 1990, 104 Stat. 1388–297; Pub. L. 102–486, title XXV, § 2513, Oct. 24, 1992, 106 Stat. 3112.)
+(Pub. L. 95–87, title V, § 507, Aug. 3, 1977, 91 Stat. 474; Pub. L. 101–508, title VI, § 6011, Nov. 5, 1990, 104 Stat. 1388–297; Pub. L. 102–486, title XXV, § 2513, Oct. 24, 1992, 106 Stat. 3112.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (c). Pub. L. 102–486, § 2513(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority.”
+1992—Subsec. (c). Pub. L. 102–486, § 2513(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority.”
 
-Subsec. (h). Pub. L. 102–486, § 2513(b), added subsec. (h).
+Subsec. (h). Pub. L. 102–486, § 2513(b), added subsec. (h).
 
 1990—Subsec. (c). Pub. L. 101–508 substituted “300,000” for “100,000”.
 
@@ -3513,9 +3513,9 @@ Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 996.
 
 **Preparation of Cross-Sections, Maps, and Plans of Land By or Under Direction of Qualified Registered Professional Engineers, Geologists, or Land Surveyors**
 
-Pub. L. 98–146, title I, § 115, Nov. 4, 1983, 97 Stat. 938, provided that: “Notwithstanding section 507(b)(14) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) [subsec. (b)(14) of this section], cross-sections, maps or plans of land to be affected by an application for a surface mining and reclamation permit shall be prepared by or under the direction of a qualified registered professional engineer or geologist, or qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans.”
+Pub. L. 98–146, title I, § 115, Nov. 4, 1983, 97 Stat. 938, provided that: “Notwithstanding section 507(b)(14) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) [subsec. (b)(14) of this section], cross-sections, maps or plans of land to be affected by an application for a surface mining and reclamation permit shall be prepared by or under the direction of a qualified registered professional engineer or geologist, or qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans.”
 
-### § 1258. Reclamation plan requirements
+### § 1258. Reclamation plan requirements
 
 **(a)** Each reclamation plan submitted as part of a permit application pursuant to any approved State program or a Federal program under the provisions of this chapter shall include, in the degree of detail necessary to demonstrate that reclamation required by the State or Federal program can be accomplished, a statement of:
 
@@ -3561,9 +3561,9 @@ Pub. L. 98–146, title I, § 115, Nov. 4, 1983, 97 Stat. 938, provided that: 
 
 **(b)** Any information required by this section which is not on public file pursuant to State law shall be held in confidence by the regulatory authority.
 
-(Pub. L. 95–87, title V, § 508, Aug. 3, 1977, 91 Stat. 478.)
+(Pub. L. 95–87, title V, § 508, Aug. 3, 1977, 91 Stat. 478.)
 
-### § 1259. Performance bonds
+### § 1259. Performance bonds
 
 **(a) Filing with regulatory authority; scope; number and amount**
 
@@ -3585,9 +3585,9 @@ Cash or securities so deposited shall be deposited upon the same terms as the te
 
 The amount of the bond or deposit required and the terms of each acceptance of the applicant’s bond shall be adjusted by the regulatory authority from time to time as affected land acreages are increased or decreased or where the cost of future reclamation changes.
 
-(Pub. L. 95–87, title V, § 509, Aug. 3, 1977, 91 Stat. 479.)
+(Pub. L. 95–87, title V, § 509, Aug. 3, 1977, 91 Stat. 479.)
 
-### § 1260. Permit approval or denial
+### § 1260. Permit approval or denial
 
 **(a) Basis for decision; notification of applicant and local government officials; burden of proof**
 
@@ -3623,17 +3623,17 @@ With respect to such surface mining operations which would have been within the 
 
 **(c) Schedule of violations**
 
-The applicant shall file with his permit application a schedule listing any and all notices of violations of this chapter and any law, rule, or regulation of the United States, or of any department or agency in the United States pertaining to air or water environmental protection incurred by the applicant in connection with any surface coal mining operation during the three-year period prior to the date of application. The schedule shall also indicate the final resolution of any such notice of violation. Where the schedule or other information available to the regulatory authority indicates that any surface coal mining operation owned or controlled by the applicant is currently in violation of this chapter or such other laws referred to 1
+The applicant shall file with his permit application a schedule listing any and all notices of violations of this chapter and any law, rule, or regulation of the United States, or of any department or agency in the United States pertaining to air or water environmental protection incurred by the applicant in connection with any surface coal mining operation during the three-year period prior to the date of application. The schedule shall also indicate the final resolution of any such notice of violation. Where the schedule or other information available to the regulatory authority indicates that any surface coal mining operation owned or controlled by the applicant is currently in violation of this chapter or such other laws referred to 1
 
-<sup>1</sup>  So in original. Probably should be followed by “in”.
+<sup>1</sup> So in original. Probably should be followed by “in”.
 
 this subsection, the permit shall not be issued until the applicant submits proof that such violation has been corrected or is in the process of being corrected to the satisfaction of the regulatory authority, department, or agency which has jurisdiction over such violation and no permit shall be issued to an applicant after a finding by the regulatory authority, after opportunity for hearing, that the applicant, or the operator specified in the application, controls or has controlled mining operations with a demonstrated pattern of willful violations of this chapter of such nature and duration with such resulting irreparable damage to the environment as to indicate an intent not to comply with the provisions of this chapter.
 
 **(d) Prime farmland mining permit**
 
-**(1)** In addition to finding the application in compliance with subsection (b) of this section, if the area proposed to be mined contains prime farmland pursuant to section 1257(b)(16) of this title, the regulatory authority shall, after consultation with the Secretary of Agriculture, and pursuant to regulations issued hereunder by the Secretary of 2
+**(1)** In addition to finding the application in compliance with subsection (b) of this section, if the area proposed to be mined contains prime farmland pursuant to section 1257(b)(16) of this title, the regulatory authority shall, after consultation with the Secretary of Agriculture, and pursuant to regulations issued hereunder by the Secretary of 2
 
-<sup>2</sup>  So in original. Probably should be “of the”.
+<sup>2</sup> So in original. Probably should be “of the”.
 
 Interior with the concurrence of the Secretary of Agriculture, grant a permit to mine on prime farmland if the regulatory authority finds in writing that the operator has the technological capability to restore such mined area, within a reasonable time, to equivalent or higher levels of yield as non-mined prime farmland in the surrounding area under equivalent levels of management and can meet the soil reconstruction standards in section 1265(b)(7) of this title. Except for compliance with subsection (b), the requirements of this paragraph (1) shall apply to all permits issued after August 3, 1977.
 
@@ -3643,7 +3643,7 @@ Interior with the concurrence of the Secretary of Agriculture, grant a permit to
 
 After October 24, 1992, the prohibition of subsection (c) shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term “violation” has the same meaning as such term has under subsection (c).
 
-(Pub. L. 95–87, title V, § 510, Aug. 3, 1977, 91 Stat. 480; Pub. L. 102–486, title XXV, § 2503(a), Oct. 24, 1992, 106 Stat. 3102; Pub. L. 109–432, div. C, title II, § 208, Dec. 20, 2006, 120 Stat. 3019.)
+(Pub. L. 95–87, title V, § 510, Aug. 3, 1977, 91 Stat. 480; Pub. L. 102–486, title XXV, § 2503(a), Oct. 24, 1992, 106 Stat. 3102; Pub. L. 109–432, div. C, title II, § 208, Dec. 20, 2006, 120 Stat. 3019.)
 
 **Editorial Notes**
 
@@ -3653,7 +3653,7 @@ After October 24, 1992, the prohibition of subsection (c) shall not apply to a p
 
 1992—Subsec. (e). Pub. L. 102–486 added subsec. (e).
 
-### § 1261. Revision of permits
+### § 1261. Revision of permits
 
 **(a) Application and revised reclamation plan; requirements; extensions to area covered**
 
@@ -3671,9 +3671,9 @@ No transfer, assignment, or sale of the rights granted under any permit issued p
 
 The regulatory authority shall within a time limit prescribed in regulations promulgated by the regulatory authority, review outstanding permits and may require reasonable revision or modification of the permit provisions during the term of such permit: *Provided*, That such revision or modification shall be based upon a written finding and subject to notice and hearing requirements established by the State or Federal program.
 
-(Pub. L. 95–87, title V, § 511, Aug. 3, 1977, 91 Stat. 483.)
+(Pub. L. 95–87, title V, § 511, Aug. 3, 1977, 91 Stat. 483.)
 
-### § 1262. Coal exploration permits
+### § 1262. Coal exploration permits
 
 **(a) Regulations; contents**
 
@@ -3695,7 +3695,7 @@ No operator shall remove more than two hundred and fifty tons of coal pursuant t
 
 Coal exploration on Federal lands shall be governed by section 4 of the Federal Coal Leasing Amendments Act of 1975 (90 Stat. 1085).
 
-(Pub. L. 95–87, title V, § 512, Aug. 3, 1977, 91 Stat. 483.)
+(Pub. L. 95–87, title V, § 512, Aug. 3, 1977, 91 Stat. 483.)
 
 **Editorial Notes**
 
@@ -3703,13 +3703,13 @@ Coal exploration on Federal lands shall be governed by section 4 of the Federal 
 
 Section 4 of the Federal Coal Leasing Amendments Act of 1975 (90 Stat. 1085), referred to in subsec. (e), is section 4 of Pub. L. 94–377, Aug. 4, 1976, 90 Stat. 1085, redesignated the Federal Coal Leasing Amendments Act of 1976, which amended section 201(b) of this title.
 
-### § 1263. Public notice and public hearings
+### § 1263. Public notice and public hearings
 
 **(a) Submittal of advertisement to regulatory authority; notification of local governmental bodies**
 
-At the time of submission of an application for a surface coal mining and reclamation permit, or revision of an existing permit, pursuant to the provisions of this chapter or an approved State program, the applicant shall submit to the regulatory authority a copy of his advertisement of the ownership, precise location, and boundaries of the land to be affected. At the time of submission such advertisement shall be placed by the applicant in a local newspaper of general circulation in the locality of the proposed surface mine at least once a week for four consecutive weeks. The regulatory authority shall notify various local governmental bodies, planning agencies, and sewage and water treatment authorities, of 1
+At the time of submission of an application for a surface coal mining and reclamation permit, or revision of an existing permit, pursuant to the provisions of this chapter or an approved State program, the applicant shall submit to the regulatory authority a copy of his advertisement of the ownership, precise location, and boundaries of the land to be affected. At the time of submission such advertisement shall be placed by the applicant in a local newspaper of general circulation in the locality of the proposed surface mine at least once a week for four consecutive weeks. The regulatory authority shall notify various local governmental bodies, planning agencies, and sewage and water treatment authorities, of 1
 
-<sup>1</sup>  So in original. Probably should be “or”.
+<sup>1</sup> So in original. Probably should be “or”.
 
 water companies in the locality in which the proposed surface mining will take place, notifying them of the operator’s intention to surface mine a particularly described tract of land and indicating the application’s permit number and where a copy of the proposed mining and reclamation plan may be inspected. These local bodies, agencies, authorities, or companies may submit written comments within a reasonable period established by the regulatory authority on the mining applications with respect to the effect of the proposed operation on the environment which are within their area of responsibility. Such comments shall immediately be transmitted to the applicant by the regulatory authority and shall be made available to the public at the same locations as are the mining applications.
 
@@ -3721,9 +3721,9 @@ Any person having an interest which is or may be adversely affected or the offic
 
 Where the lands included in an application for a permit are the subject of a Federal coal lease in connection with which hearings were held and determinations were made under section 201(a)(3)(A), (B) and (C) of this title, such hearings shall be deemed as to the matters covered to satisfy the requirements of this section and section 1264 of this title and such determinations shall be deemed to be a part of the record and conclusive for purposes of sections 1260, 1264 of this title and this section.
 
-(Pub. L. 95–87, title V, § 513, Aug. 3, 1977, 91 Stat. 484.)
+(Pub. L. 95–87, title V, § 513, Aug. 3, 1977, 91 Stat. 484.)
 
-### § 1264. Decisions of regulatory authority and appeals
+### § 1264. Decisions of regulatory authority and appeals
 
 **(a) Issuance of findings within 60 days after informal conference**
 
@@ -3753,9 +3753,9 @@ For the purpose of such hearing, the regulatory authority may administer oaths, 
 
 Any applicant or any person with an interest which is or may be adversely affected who has participated in the administrative proceedings as an objector, and who is aggrieved by the decision of the regulatory authority, or if the regulatory authority fails to act within the time limits specified in this chapter shall have the right to appeal in accordance with section 1276 of this title.
 
-(Pub. L. 95–87, title V, § 514, Aug. 3, 1977, 91 Stat. 485.)
+(Pub. L. 95–87, title V, § 514, Aug. 3, 1977, 91 Stat. 485.)
 
-### § 1265. Environmental protection performance standards
+### § 1265. Environmental protection performance standards
 
 **(a) Permit requirement**
 
@@ -3797,15 +3797,15 @@ Any permit issued under any approved State or Federal program pursuant to this c
 
 **(E)** final grading will provide adequate safety and access for proposed water users; and
 
-**(F)** such water impoundments will not result in the diminution of the quality or quantity of water utilized by adjacent or surrounding landowners for agricultural, industrial 1
+**(F)** such water impoundments will not result in the diminution of the quality or quantity of water utilized by adjacent or surrounding landowners for agricultural, industrial 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 recreational, or domestic uses;
 
-**(9)** conducting 2
+**(9)** conducting 2
 
-<sup>2</sup>  So in original. Probably should be “conduct”.
+<sup>2</sup> So in original. Probably should be “conduct”.
 
 any augering operation associated with surface mining in a manner to maximize recoverability of mineral reserves remaining after the operation and reclamation are complete; and seal all auger holes with an impervious and noncombustible material in order to prevent drainage except where the regulatory authority determines that the resulting impoundment of water in such auger holes may create a hazard to the environment or the public health or safety: *Provided*, That the permitting authority may prohibit augering if necessary to maximize the utilization, recoverability or conservation of the solid fuel resources or to protect against adverse water quality impacts;
 
@@ -3817,9 +3817,9 @@ any augering operation associated with surface mining in a manner to maximize re
 
 **(ii)** treating drainage to reduce toxic content which adversely affects downstream water upon being released to water courses;
 
-**(iii)** casing, sealing, or otherwise managing boreholes, shafts, and wells and keep 3
+**(iii)** casing, sealing, or otherwise managing boreholes, shafts, and wells and keep 3
 
-<sup>3</sup>  So in original. Probably should be “keeping”.
+<sup>3</sup> So in original. Probably should be “keeping”.
 
 acid or other toxic drainage from entering ground and surface waters;
 
@@ -3859,7 +3859,7 @@ acid or other toxic drainage from entering ground and surface waters;
 
 **(E)** provide that upon the request of a resident or owner of a man-made dwelling or structure within one-half mile of any portion of the permitted area the applicant or permittee shall conduct a pre-blasting survey of such structures and submit the survey to the regulatory authority and a copy to the resident or owner making the request. The area of the survey shall be decided by the regulatory authority and shall include such provisions as the Secretary shall promulgate.4
 
-<sup>4</sup>  So in original. The period probably should be a semicolon.
+<sup>4</sup> So in original. The period probably should be a semicolon.
 
 **(16)** insure that all reclamation efforts proceed in an environmentally sound manner and as contemporaneously as practicable with the surface coal mining operations: *Provided, however*, That where the applicant proposes to combine surface mining operations with underground mining operations to assure maximum practical recovery of the mineral resources, the regulatory authority may grant a variance for specific areas within the reclamation plan from the requirement that reclamation efforts proceed as contemporaneously as practicable to permit underground mining operations prior to reclamation:
 
@@ -3917,9 +3917,9 @@ acid or other toxic drainage from entering ground and surface waters;
 
 **(I)** all other provisions of this chapter are met.<sup>4</sup>
 
-**(23)** meet such other criteria as are necessary to achieve reclamation in accordance with the purposes of this chapter, taking into consideration the physical, climatological, and other characteristics of the site; and 5
+**(23)** meet such other criteria as are necessary to achieve reclamation in accordance with the purposes of this chapter, taking into consideration the physical, climatological, and other characteristics of the site; and 5
 
-<sup>5</sup>  So in original. The word “and” probably should appear at end of par. (24).
+<sup>5</sup> So in original. The word “and” probably should appear at end of par. (24).
 
 **(24)** to the extent possible using the best technology currently available, minimize disturbances and adverse impacts of the operation on fish, wildlife, and related environmental values, and achieve enhancement of such resources where practicable;
 
@@ -3931,9 +3931,9 @@ acid or other toxic drainage from entering ground and surface waters;
 
 **(2)** Where an applicant meets the requirements of paragraphs (3) and (4) of this subsection a permit without regard to the requirement to restore to approximate original contour set forth in subsection (b)(3) or (d)(2) and (3) of this section may be granted for the surface mining of coal where the mining operation will remove an entire coal seam or seams running through the upper fraction of a mountain, ridge, or hill (except as provided in subsection (c)(4)(A) hereof) by removing all of the overburden and creating a level plateau or a gently rolling contour with no highwalls remaining, and capable of supporting postmining uses in accord with the requirements of this subsection.
 
-**(3)** In cases where an industrial, commercial, agricultural, residential or public facility (including recreational facilities) use is proposed or 6
+**(3)** In cases where an industrial, commercial, agricultural, residential or public facility (including recreational facilities) use is proposed or 6
 
-<sup>6</sup>  So in original. Probably should be “for”.
+<sup>6</sup> So in original. Probably should be “for”.
 
 the postmining use of the affected land, the regulatory authority may grant a permit for a surface mining operation of the nature described in subsection (c)(2) where—
 
@@ -3973,9 +3973,9 @@ the postmining use of the affected land, the regulatory authority may grant a pe
 
 **(E)** spoil will be placed on the mountaintop bench as is necessary to achieve the planned postmining land use: *Provided*, That all excess spoil material not retained on the mountaintop shall be placed in accordance with the provisions of subsection (b)(22) of this section;
 
-**(F)** insure stability of the spoil retained on the mountaintop and meet the other requirements of this chapter; 7
+**(F)** insure stability of the spoil retained on the mountaintop and meet the other requirements of this chapter; 7
 
-<sup>7</sup>  So in original. The semicolon probably should be a period.
+<sup>7</sup> So in original. The semicolon probably should be a period.
 
 **(5)** The regulatory authority shall promulgate specific regulations to govern the granting of permits in accord with the provisions of this subsection, and may impose such additional requirements as he deems to be necessary.
 
@@ -4015,13 +4015,13 @@ the postmining use of the affected land, the regulatory authority may grant a pe
 
 The Secretary, with the written concurrence of the Chief of Engineers, shall establish within one hundred and thirty-five days from August 3, 1977, standards and criteria regulating the design, location, construction, operation, maintenance, enlargement, modification, removal, and abandonment of new and existing coal mine waste piles referred to in subsection (b)(13) and section 1266(b)(5) of this title. Such standards and criteria shall conform to the standards and criteria used by the Chief of Engineers to insure that flood control structures are safe and effectively perform their intended function. In addition to engineering and other technical specifications the standards and criteria developed pursuant to this subsection must include provisions for: review and approval of plans and specifications prior to construction, enlargement, modification, removal, or abandonment; performance of periodic inspections during construction; issuance of certificates of approval upon completion of construction; performance of periodic safety inspections; and issuance of notices for required remedial or maintenance work.
 
-(Pub. L. 95–87, title V, § 515, Aug. 3, 1977, 91 Stat. 486; Pub. L. 99–500, § 101(h) [title I, § 123], Oct. 18, 1986, 100 Stat. 1783–242, 1783–267, and Pub. L. 99–591, § 101(h) [title I, § 123], Oct. 30, 1986, 100 Stat. 3341–242, 3341–267; Pub. L. 102–486, title XXV, § 2503(b), Oct. 24, 1992, 106 Stat. 3102.)
+(Pub. L. 95–87, title V, § 515, Aug. 3, 1977, 91 Stat. 486; Pub. L. 99–500, § 101(h) [title I, § 123], Oct. 18, 1986, 100 Stat. 1783–242, 1783–267, and Pub. L. 99–591, § 101(h) [title I, § 123], Oct. 30, 1986, 100 Stat. 3341–242, 3341–267; Pub. L. 102–486, title XXV, § 2503(b), Oct. 24, 1992, 106 Stat. 3102.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, known as the Watershed Protection and Flood Prevention Act, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, known as the Watershed Protection and Flood Prevention Act, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 **Codification**
 
@@ -4033,7 +4033,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1986—Subsec. (b)(10)(B)(ii). Pub. L. 99–500 and Pub. L. 99–591 inserted “or a qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans”.
 
-### § 1266. Surface effects of underground coal mining operations
+### § 1266. Surface effects of underground coal mining operations
 
 **(a) Rules and regulations**
 
@@ -4083,15 +4083,15 @@ In order to protect the stability of the land, the regulatory authority shall su
 
 The provisions of this subchapter relating to State and Federal programs, permits, bonds, inspections and enforcement, public review, and administrative and judicial review shall be applicable to surface operations and surface impacts incident to an underground coal mine with such modifications to the permit application requirements, permit approval or denial procedures, and bond requirements as are necessary to accommodate the distinct difference between surface and underground coal mining. The Secretary shall promulgate such modifications in accordance with the rulemaking procedure established in section 1251 of this title.
 
-(Pub. L. 95–87, title V, § 516, Aug. 3, 1977, 91 Stat. 495.)
+(Pub. L. 95–87, title V, § 516, Aug. 3, 1977, 91 Stat. 495.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-### § 1267. Inspections and monitoring
+### § 1267. Inspections and monitoring
 
 **(a) Inspections of surface coal mining and reclamation operations**
 
@@ -4141,7 +4141,7 @@ No employee of the State regulatory authority performing any function or duty un
 
 **(2)** The Secretary shall also, by regulation, establish procedures to insure that adequate and complete inspections are made. Any such person may notify the Secretary of any failure to make such inspections, after which the Secretary shall determine whether adequate and complete inspections have been made. The Secretary shall furnish such persons a written statement of the reasons for the Secretary’s determination that adequate and complete inspections have or have not been conducted.
 
-(Pub. L. 95–87, title V, § 517, Aug. 3, 1977, 91 Stat. 498.)
+(Pub. L. 95–87, title V, § 517, Aug. 3, 1977, 91 Stat. 498.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4149,7 +4149,7 @@ No employee of the State regulatory authority performing any function or duty un
 
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to requirement to report to Congress on actions taken and not taken under subsec. (g), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 109 of House Document No. 103–7.
 
-### § 1268. Penalties
+### § 1268. Penalties
 
 **(a) Civil penalties for violations of permit conditions and provisions of this subchapter**
 
@@ -4187,9 +4187,9 @@ Any operator who fails to correct a violation for which a citation has been issu
 
 As a condition of approval of any State program submitted pursuant to section 1253 of this title, the civil and criminal penalty provisions thereof shall, at a minimum, incorporate penalties no less stringent than those set forth in this section, and shall contain the same or similar procedural requirements relating thereto. Nothing herein shall be construed so as to eliminate any additional enforcement right or procedures which are available under State law to a State regulatory authority but which are not specifically enumerated herein.
 
-(Pub. L. 95–87, title V, § 518, Aug. 3, 1977, 91 Stat. 499.)
+(Pub. L. 95–87, title V, § 518, Aug. 3, 1977, 91 Stat. 499.)
 
-### § 1269. Release of performance bonds or deposits
+### § 1269. Release of performance bonds or deposits
 
 **(a) Filing of request; submittal of copy of advertisement; notification by letter of intent to seek release**
 
@@ -4227,9 +4227,9 @@ Without prejudice to the rights of the objectors, the applicant, or the responsi
 
 For the purpose of such hearing the regulatory authority shall have the authority and is hereby empowered to administer oaths, subpena witnesses, or written or printed materials, compel the attendance of witnesses, or production of the materials, and take evidence including but not limited to inspections of the land affected and other surface coal mining operations carried on by the applicant in the general vicinity. A verbatim record of each public hearing required by this chapter shall be made, and a transcript made available on the motion of any party or by order of the regulatory authority.
 
-(Pub. L. 95–87, title V, § 519, Aug. 3, 1977, 91 Stat. 501.)
+(Pub. L. 95–87, title V, § 519, Aug. 3, 1977, 91 Stat. 501.)
 
-### § 1270. Citizens suits
+### § 1270. Citizens suits
 
 **(a) Civil action to compel compliance with this chapter** Except as provided in subsection (b) of this section, any person having an interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliance with this chapter—
 
@@ -4267,7 +4267,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 Any person who is injured in his person or property through the violation by any operator of any rule, regulation, order, or permit issued pursuant to this chapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district in which the surface coal mining operation complained of is located. Nothing in this subsection shall affect the rights established by or limits imposed under State Workmen’s Compensation laws.
 
-(Pub. L. 95–87, title V, § 520, Aug. 3, 1977, 91 Stat. 503.)
+(Pub. L. 95–87, title V, § 520, Aug. 3, 1977, 91 Stat. 503.)
 
 **Editorial Notes**
 
@@ -4275,7 +4275,7 @@ Any person who is injured in his person or property through the violation by any
 
 The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### § 1271. Enforcement
+### § 1271. Enforcement
 
 **(a) Notice of violation; Federal inspection; waiver of notification period; cessation order; affirmative obligation on operator; suspension or revocation of permits; contents of notices and orders**
 
@@ -4297,9 +4297,9 @@ Whenever on the basis of information available to him, the Secretary has reason 
 
 **(c) Civil action for relief**
 
-The Secretary may request the Attorney General to institute a civil action for relief, including a permanent or temporary injunction, restraining order, or any other appropriate order in the district court of the United States for the district in which the surface coal mining and reclamation operation is located or in which the permittee thereof has his principal office, whenever such permittee or his agent (A) violates or fails or refuses to comply with any order or decision issued by the Secretary under this chapter, or (B) interferes with, hinders, or delays the Secretary or his authorized representatives in carrying out the provisions of this chapter, or (C) refuses to admit such authorized representative to the mine, or (D) refuses to permit inspection of the mine by such authorized representative, or (E) refuses to furnish any information or report requested by the Secretary in furtherance of the provisions of this chapter, or (F) refuses to permit access to, and copying of, such records as the Secretary determines necessary in carrying out the provisions of this chapter. Such court shall have jurisdiction to provide such relief as may be appropriate. Temporary restraining orders shall be issued in accordance with rule 65 of the Federal Rules of Civil Procedure, as amended. Any relief granted by the court to enforce an order under clause (A) of this section 1
+The Secretary may request the Attorney General to institute a civil action for relief, including a permanent or temporary injunction, restraining order, or any other appropriate order in the district court of the United States for the district in which the surface coal mining and reclamation operation is located or in which the permittee thereof has his principal office, whenever such permittee or his agent (A) violates or fails or refuses to comply with any order or decision issued by the Secretary under this chapter, or (B) interferes with, hinders, or delays the Secretary or his authorized representatives in carrying out the provisions of this chapter, or (C) refuses to admit such authorized representative to the mine, or (D) refuses to permit inspection of the mine by such authorized representative, or (E) refuses to furnish any information or report requested by the Secretary in furtherance of the provisions of this chapter, or (F) refuses to permit access to, and copying of, such records as the Secretary determines necessary in carrying out the provisions of this chapter. Such court shall have jurisdiction to provide such relief as may be appropriate. Temporary restraining orders shall be issued in accordance with rule 65 of the Federal Rules of Civil Procedure, as amended. Any relief granted by the court to enforce an order under clause (A) of this section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 shall continue in effect until the completion or final termination of all proceedings for review of such order under this subchapter, unless, prior thereto, the district court granting such relief sets it aside or modifies it.
 
@@ -4307,7 +4307,7 @@ shall continue in effect until the completion or final termination of all procee
 
 As a condition of approval of any State program submitted pursuant to section 1253 of this title, the enforcement provisions thereof shall, at a minimum, incorporate sanctions no less stringent than those set forth in this section, and shall contain the same or similar procedural requirements relating thereto. Nothing herein shall be construed so as to eliminate any additional enforcement rights or procedures which are available under State law to a State regulatory authority but which are not specifically enumerated herein.
 
-(Pub. L. 95–87, title V, § 521, Aug. 3, 1977, 91 Stat. 504.)
+(Pub. L. 95–87, title V, § 521, Aug. 3, 1977, 91 Stat. 504.)
 
 **Editorial Notes**
 
@@ -4315,7 +4315,7 @@ As a condition of approval of any State program submitted pursuant to section 12
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (c), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### § 1272. Designating areas unsuitable for surface coal mining
+### § 1272. Designating areas unsuitable for surface coal mining
 
 **(a) Establishment of State planning process; standards; State process requirements; integration with present and future land use planning and regulation processes; savings provisions**
 
@@ -4355,7 +4355,7 @@ The Secretary shall conduct a review of the Federal lands to determine, pursuant
 
 Any person having an interest which is or may be adversely affected shall have the right to petition the regulatory authority to have an area designated as unsuitable for surface coal mining operations, or to have such a designation terminated. Such a petition shall contain allegations of facts with supporting evidence which would tend to establish the allegations. Within ten months after receipt of the petition the regulatory authority shall hold a public hearing in the locality of the affected area, after appropriate notice and publication of the date, time, and location of such hearing. After a person having an interest which is or may be adversely affected has filed a petition and before the hearing, as required by this subsection, any person may intervene by filing allegations of facts with supporting evidence which would tend to establish the allegations. Within sixty days after such hearing, the regulatory authority shall issue and furnish to the petitioner and any other party to the hearing, a written decision regarding the petition, and the reasons therefore.1
 
-<sup>1</sup>  So in original. Probably should be “therefor.”
+<sup>1</sup> So in original. Probably should be “therefor.”
 
 In the event that all the petitioners stipulate agreement prior to the requested hearing, and withdraw their request, such hearing need not be held.
 
@@ -4379,7 +4379,7 @@ Prior to designating any land areas as unsuitable for surface coal mining operat
 
 **(5)** within three hundred feet from any occupied dwelling, unless waived by the owner thereof, nor within three hundred feet of any public building, school, church, community, or institutional building, public park, or within one hundred feet of a cemetery.
 
-(Pub. L. 95–87, title V, § 522, Aug. 3, 1977, 91 Stat. 507.)
+(Pub. L. 95–87, title V, § 522, Aug. 3, 1977, 91 Stat. 507.)
 
 **Editorial Notes**
 
@@ -4387,17 +4387,17 @@ Prior to designating any land areas as unsuitable for surface coal mining operat
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (e)(2)(B), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 528 of Title 16 and Tables.
 
-The Federal Coal Leasing Amendments Act of 1975, referred to in subsec. (e)(2)(B), is Pub. L. 94–377, Aug. 4, 1976, 90 Stat. 1083, which was redesignated the Federal Coal Leasing Amendments Act of 1976 by Pub. L. 95–554, § 8, Oct. 30, 1978, 92 Stat. 2075, and which enacted sections 202a, 208–1, and 208–2 of this title, amended sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealed sections 201–1 and 204 of this title, and enacted provisions set out as notes under sections 181, 184, 201, 201–1, 203, and 204 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 181 of this title and Tables.
+The Federal Coal Leasing Amendments Act of 1975, referred to in subsec. (e)(2)(B), is Pub. L. 94–377, Aug. 4, 1976, 90 Stat. 1083, which was redesignated the Federal Coal Leasing Amendments Act of 1976 by Pub. L. 95–554, § 8, Oct. 30, 1978, 92 Stat. 2075, and which enacted sections 202a, 208–1, and 208–2 of this title, amended sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealed sections 201–1 and 204 of this title, and enacted provisions set out as notes under sections 181, 184, 201, 201–1, 203, and 204 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 181 of this title and Tables.
 
 The National Forest Management Act of 1976, referred to in subsec. (e)(2)(B), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of Title 16 and Tables.
 
-### § 1273. Federal lands
+### § 1273. Federal lands
 
 **(a) Promulgation and implementation of Federal lands program**
 
-No later than one year after August 3, 1977, the Secretary shall promulgate and implement a Federal lands program which shall be applicable to all surface coal mining and reclamation operations taking place pursuant to any Federal law on any Federal lands: *Provided*, That except as provided in section 1300 of this title the provisions of this chapter shall not be applicable to Indian lands. The Federal lands program shall, at a minimum, incorporate all of the requirements of this chapter and shall take into consideration the diverse physical, climatological, and other unique characteristics of the Federal lands in question. Where Federal lands in a State with an approved State program are involved, the Federal lands program shall, at a minimum, include the requirements of the approved State program: *Provided*, That the Secretary shall retain his duties under sections 201(a), (2)(B) 1
+No later than one year after August 3, 1977, the Secretary shall promulgate and implement a Federal lands program which shall be applicable to all surface coal mining and reclamation operations taking place pursuant to any Federal law on any Federal lands: *Provided*, That except as provided in section 1300 of this title the provisions of this chapter shall not be applicable to Indian lands. The Federal lands program shall, at a minimum, incorporate all of the requirements of this chapter and shall take into consideration the diverse physical, climatological, and other unique characteristics of the Federal lands in question. Where Federal lands in a State with an approved State program are involved, the Federal lands program shall, at a minimum, include the requirements of the approved State program: *Provided*, That the Secretary shall retain his duties under sections 201(a), (2)(B) 1
 
-<sup>1</sup>  So in original. Probably should be “201(a)(2)(B)”.
+<sup>1</sup> So in original. Probably should be “201(a)(2)(B)”.
 
 and 201(a)(3) of this title, and shall continue to be responsible for designation of Federal lands as unsuitable for mining in accordance with section 1272(b) of this title.
 
@@ -4413,15 +4413,15 @@ Any State with an approved State program may elect to enter into a cooperative a
 
 The Secretary shall develop a program to assure that with respect to the granting of permits, leases, or contracts for coal owned by the United States, that no class of purchasers of the mined coal shall be unreasonably denied purchase thereof.
 
-(Pub. L. 95–87, title V, § 523, Aug. 3, 1977, 91 Stat. 510.)
+(Pub. L. 95–87, title V, § 523, Aug. 3, 1977, 91 Stat. 510.)
 
-### § 1274. Public agencies, public utilities, and public corporations
+### § 1274. Public agencies, public utilities, and public corporations
 
 Any agency, unit, or instrumentality of Federal, State, or local government, including any publicly owned utility or publicly owned corporation of Federal, State, or local government, which proposes to engage in surface coal mining operations which are subject to the requirements of this chapter shall comply with the provisions of this subchapter.
 
-(Pub. L. 95–87, title V, § 524, Aug. 3, 1977, 91 Stat. 511.)
+(Pub. L. 95–87, title V, § 524, Aug. 3, 1977, 91 Stat. 511.)
 
-### § 1275. Review by Secretary
+### § 1275. Review by Secretary
 
 **(a) Application for review of order or notice; investigation; hearing; notice**
 
@@ -4449,9 +4449,9 @@ Following the issuance of an order to show cause as to why a permit should not b
 
 Whenever an order is issued under this section, or as a result of any administrative proceeding under this chapter, at the request of any person, a sum equal to the aggregate amount of all costs and expenses (including attorney fees) as determined by the Secretary to have been reasonably incurred by such person for or in connection with his participation in such proceedings, including any judicial review of agency actions, may be assessed against either party as the court, resulting from judicial review or the Secretary, resulting from administrative proceedings, deems proper.
 
-(Pub. L. 95–87, title V, § 525, Aug. 3, 1977, 91 Stat. 511.)
+(Pub. L. 95–87, title V, § 525, Aug. 3, 1977, 91 Stat. 511.)
 
-### § 1276. Judicial review
+### § 1276. Judicial review
 
 **(a) Review by United States District Court; venue; filing of petition; time**
 
@@ -4479,9 +4479,9 @@ The commencement of a proceeding under this section shall not, unless specifical
 
 Action of the State regulatory authority pursuant to an approved State program shall be subject to judicial review by a court of competent jurisdiction in accordance with State law, but the availability of such review shall not be construed to limit the operation of the rights established in section 1270 of this title except as provided therein.
 
-(Pub. L. 95–87, title V, § 526, Aug. 3, 1977, 91 Stat. 512.)
+(Pub. L. 95–87, title V, § 526, Aug. 3, 1977, 91 Stat. 512.)
 
-### § 1277. Special bituminous coal mines
+### § 1277. Special bituminous coal mines
 
 **(a) Issuance of separate regulations; criteria** The regulatory authority is authorized to issue separate regulations for those special bituminous coal surface mines located west of the 100th meridian west longitude which meet the following criteria:
 
@@ -4507,9 +4507,9 @@ Such separate regulations shall also contain a distinct part to cover and pertai
 
 Such alternative regulations may pertain only to the standards governing onsite handling of spoils, elimination of depressions capable of collecting water, creation of impoundments, and regrading to the approximate original contour and shall specify that remaining highwalls are stable. All other performance standards in this subchapter shall apply to such mines.
 
-(Pub. L. 95–87, title V, § 527, Aug. 3, 1977, 91 Stat. 513.)
+(Pub. L. 95–87, title V, § 527, Aug. 3, 1977, 91 Stat. 513.)
 
-### § 1278. Surface mining operations not subject to this chapter
+### § 1278. Surface mining operations not subject to this chapter
 
 The provisions of this chapter shall not apply to any of the following activities:
 
@@ -4517,7 +4517,7 @@ The provisions of this chapter shall not apply to any of the following activitie
 
 **(2)** the extraction of coal as an incidental part of Federal, State or local government-financed highway or other construction under regulations established by the regulatory authority.
 
-(Pub. L. 95–87, title V, § 528, Aug. 3, 1977, 91 Stat. 514; Pub. L. 100–34, title II, § 201(a), May 7, 1987, 101 Stat. 300.)
+(Pub. L. 95–87, title V, § 528, Aug. 3, 1977, 91 Stat. 514; Pub. L. 100–34, title II, § 201(a), May 7, 1987, 101 Stat. 300.)
 
 **Editorial Notes**
 
@@ -4529,7 +4529,7 @@ The provisions of this chapter shall not apply to any of the following activitie
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–34, title II, § 201(b)–(e), May 7, 1987, 101 Stat. 300, provided that:
+Pub. L. 100–34, title II, § 201(b)–(e), May 7, 1987, 101 Stat. 300, provided that:
 
 > **“(b) Effective Date for New Operations.—** The amendments made by this section [amending this section] shall take effect on the date 30 days after the enactment of this Act [May 7, 1987] with respect to each operator commencing surface coal mining operations on or after such date.
 
@@ -4539,13 +4539,13 @@ Pub. L. 100–34, title II, § 201(b)–(e), May 7, 1987, 101 Stat. 300, provi
 
 > **“(e) Definition.—** For purposes of this section, the term ‘surface coal mining operations’ has the meaning provided by section 701(28) of the Surface Mining Control and Reclamation Act of 1977 [30 U.S.C. 1291(28)].”
 
-### § 1279. Anthracite coal mines
+### § 1279. Anthracite coal mines
 
 **(a)** The Secretary is authorized to and shall issue separate regulations according to time schedules established in this chapter for anthracite coal surface mines, if such mines are regulated by environmental protection standards of the State in which they are located. Such alternative regulations shall adopt, in each instance, the environmental protection provisions of the State regulatory program in existence on August 3, 1977, in lieu of sections 1265 and 1266 of this title. Provisions of sections 1259 and 1269 of this title are applicable except for specified bond limits and period of revegetation responsibility. All other provisions of this chapter apply and the regulation issued by the Secretary of Interior for each State anthracite regulatory program shall so reflect: *Provided, however*, That upon amendment of a State’s regulatory program for anthracite mining or regulations thereunder in force in lieu of the above-cited sections of this chapter, the Secretary shall issue such additional regulations as necessary to meet the purposes of this chapter.
 
 **(b)** Omitted.
 
-(Pub. L. 95–87, title V, § 529, Aug. 3, 1977, 91 Stat. 514.)
+(Pub. L. 95–87, title V, § 529, Aug. 3, 1977, 91 Stat. 514.)
 
 **Editorial Notes**
 
@@ -4555,7 +4555,7 @@ Subsec. (b) of this section, which required the Secretary of the Interior to rep
 
 ## SUBCHAPTER VI—DESIGNATION OF LANDS UNSUITABLE FOR NONCOAL MINING
 
-### § 1281. Designation procedures
+### § 1281. Designation procedures
 
 **(a) Review of Federal land areas for unsuitability for noncoal mining**
 
@@ -4585,11 +4585,11 @@ When the Secretary designates an area of Federal lands as unsuitable for all or 
 
 Any party with a valid legal interest who has appeared in the proceedings in connection with the Secretary’s determination pursuant to this section and who is aggrieved by the Secretary’s decision (or by his failure to act within a reasonable time) shall have the right of appeal for review by the United States district court for the district in which the pertinent area is located.
 
-(Pub. L. 95–87, title VI, § 601, Aug. 3, 1977, 91 Stat. 515.)
+(Pub. L. 95–87, title VI, § 601, Aug. 3, 1977, 91 Stat. 515.)
 
 ## SUBCHAPTER VII—ADMINISTRATIVE AND MISCELLANEOUS PROVISIONS
 
-### § 1291. Definitions
+### § 1291. Definitions
 
 For the purposes of this chapter—
 
@@ -4601,7 +4601,7 @@ For the purposes of this chapter—
 
 **(4)** “Federal lands” means any land, including mineral interests, owned by the United States without regard to how the United States acquired ownership of the land and without regard to the agency having responsibility for management thereof, except Indian lands: *Provided*, That for the purposes of this chapter lands or mineral interests east of the one hundredth meridian west longitude owned by the United States and entrusted to or managed by the Tennessee Valley Authority shall not be subject to sections 1304 (Surface Owner Protection) and 1305 (Federal Lessee Protection) of this title.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(5)** “Federal lands program” means a program established by the Secretary pursuant to section 1273 of this title to regulate surface coal mining and reclamation operations on Federal lands;
 
@@ -4653,9 +4653,9 @@ For the purposes of this chapter—
 
 **(A)** activities conducted on the surface of lands in connection with a surface coal mine or subject to the requirements of section 1266 of this title surface operations and surface impacts incident to an underground coal mine, the products of which enter commerce or the operations of which directly or indirectly affect interstate commerce. Such activities include excavation for the purpose of obtaining coal including such common methods as contour, strip, auger, mountaintop removal, box cut, open pit, and area mining, the uses of explosives and blasting, and in situ distillation or retorting, leaching or other chemical or physical processing, and the cleaning, concentrating, or other processing or preparation, loading of coal for interstate commerce at or near the mine site: *Provided, however*, That such activities do not include the extraction of coal incidental to the extraction of other minerals where coal does not exceed 16⅔ per centum of the tonnage of minerals removed for purposes of commercial use or sale or coal explorations subject to section 1262 of this title; and
 
-**(B)** the areas upon which such activities occur or where such activities disturb the natural land surface. Such areas shall also include any adjacent land the use of which is incidental to any such activities, all lands affected by the construction of new roads or the improvement or use of existing roads to gain access to the site of such activities and for haulage, and excavations, workings, impoundments, dams, ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks, tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas and other areas upon which are sited structures, facilities, or other property or materials on the surface, resulting from or incident to such activities; and 2
+**(B)** the areas upon which such activities occur or where such activities disturb the natural land surface. Such areas shall also include any adjacent land the use of which is incidental to any such activities, all lands affected by the construction of new roads or the improvement or use of existing roads to gain access to the site of such activities and for haulage, and excavations, workings, impoundments, dams, ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks, tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas and other areas upon which are sited structures, facilities, or other property or materials on the surface, resulting from or incident to such activities; and 2
 
-<sup>2</sup>  So in original. The word “and” probably should not appear.
+<sup>2</sup> So in original. The word “and” probably should not appear.
 
 **(29)** “unwarranted failure to comply” means the failure of a permittee to prevent the occurrence of any violation of his permit or any requirement of this chapter due to indifference, lack of diligence, or lack of reasonable care, or the failure to abate any violation of such permit or the chapter due to indifference, lack of diligence, or lack of reasonable care;
 
@@ -4663,9 +4663,9 @@ For the purposes of this chapter—
 
 **(31)** the term “coal laboratory”, as used in subchapter VIII, means a university coal research laboratory established and operated pursuant to a designation made under section 1311 of this title;
 
-**(32)** the term “institution of higher education” as used in subchapters VIII and IX, means any such institution as defined by section 1001 3
+**(32)** the term “institution of higher education” as used in subchapters VIII and IX, means any such institution as defined by section 1001 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 of title 20;
 
@@ -4673,7 +4673,7 @@ of title 20;
 
 **(34)** the term “lands eligible for remining” means those lands that would otherwise be eligible for expenditures under section 1234 of this title or under section 1232(g)(4) of this title.
 
-(Pub. L. 95–87, title VII, § 701, Aug. 3, 1977, 91 Stat. 516; Pub. L. 102–486, title XXV, § 2503(c), Oct. 24, 1992, 106 Stat. 3103; Pub. L. 105–244, title I, § 102(a)(10), Oct. 7, 1998, 112 Stat. 1620.)
+(Pub. L. 95–87, title VII, § 701, Aug. 3, 1977, 91 Stat. 516; Pub. L. 102–486, title XXV, § 2503(c), Oct. 24, 1992, 106 Stat. 3103; Pub. L. 105–244, title I, § 102(a)(10), Oct. 7, 1998, 112 Stat. 1620.)
 
 **Editorial Notes**
 
@@ -4695,7 +4695,7 @@ Section 1001 of title 20, referred to in par. (32), was in the original “secti
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1292. Other Federal laws
+### § 1292. Other Federal laws
 
 **(a) Construction of chapter as superseding, amending, modifying, or repealing certain laws** Nothing in this chapter shall be construed as superseding, amending, modifying, or repealing the Mining and Minerals Policy Act of 1970 (30 U.S.C. 21a), the National Environmental Policy Act of 1969 (42 U.S.C. 4321–47), or any of the following Acts or with any rule or regulation promulgated thereunder, including, but not limited to—
 
@@ -4727,7 +4727,7 @@ To the greatest extent practicable each Federal agency shall cooperate with the 
 
 Approval of the State programs, pursuant to section 1253(b) of this title, promulgation of Federal programs, pursuant to section 1254 of this title, and implementation of the Federal lands programs, pursuant to section 1273 of this title, shall not constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332). Adoption of regulations under section 1251(b) of this title shall constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
 
-(Pub. L. 95–87, title VII, § 702, Aug. 3, 1977, 91 Stat. 519.)
+(Pub. L. 95–87, title VII, § 702, Aug. 3, 1977, 91 Stat. 519.)
 
 **Editorial Notes**
 
@@ -4735,25 +4735,25 @@ Approval of the State programs, pursuant to section 1253(b) of this title, promu
 
 The Mining and Minerals Policy Act of 1970 (30 U.S.C. 21a), referred to in subsec. (a), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which enacted section 21a of this title and provisions set out as a note under section 21a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 21a of this title and Tables.
 
-The National Environmental Policy Act of 1969 (42 U.S.C. 4321–47), referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969 (42 U.S.C. 4321–47), referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Metal and Nonmetallic Mine Safety Act (30 U.S.C. 721–740), referred to in subsec. (a)(1), is Pub. L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, § 306(a), Nov. 9, 1977, 91 Stat. 1322.
+The Federal Metal and Nonmetallic Mine Safety Act (30 U.S.C. 721–740), referred to in subsec. (a)(1), is Pub. L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, § 306(a), Nov. 9, 1977, 91 Stat. 1322.
 
-The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742), referred to in subsec. (a)(2), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742), referred to in subsec. (a)(2), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Federal Water Pollution Control Act (79 Stat. 903), referred to in subsec. (a)(3), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act (79 Stat. 903), referred to in subsec. (a)(3), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Clean Air Act, referred to in subsec. (a)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Solid Waste Disposal Act (42 U.S.C. 3251–3259), referred to in subsec. (a)(5), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act (42 U.S.C. 3251–3259), referred to in subsec. (a)(5), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
-The Refuse Act of 1899 (33 U.S.C. 407), referred to in subsec. (a)(6), probably means act Mar. 3, 1899, ch. 425, § 13, 30 Stat. 1152, which enacted section 407 of Title 33, Navigation and Navigable Waters.
+The Refuse Act of 1899 (33 U.S.C. 407), referred to in subsec. (a)(6), probably means act Mar. 3, 1899, ch. 425, § 13, 30 Stat. 1152, which enacted section 407 of Title 33, Navigation and Navigable Waters.
 
 The Fish and Wildlife Coordination Act of 1934 (16 U.S.C. 661–666c), referred to in subsec. (a)(7), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables.
 
-The Mineral Leasing Act of 1920, as amended (30 U.S.C. 181 et seq.), referred to in subsec. (a)(8), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act of 1920, as amended (30 U.S.C. 181 et seq.), referred to in subsec. (a)(8), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-### § 1293. Employee protection
+### § 1293. Employee protection
 
 **(a) Retaliatory practices prohibited**
 
@@ -4767,13 +4767,13 @@ Any employee or a representative of employees who believes that he has been fire
 
 Whenever an order is issued under this section to abate any violation, at the request of the applicant a sum equal to the aggregate amount of all costs and expenses (including attorneys’ fees) to have been reasonably incurred by the applicant for, or in connection with, the institution and prosecution of such proceedings, shall be assessed against the persons committing the violation.
 
-(Pub. L. 95–87, title VII, § 703, Aug. 3, 1977, 91 Stat. 520.)
+(Pub. L. 95–87, title VII, § 703, Aug. 3, 1977, 91 Stat. 520.)
 
-### § 1294. Penalty
+### § 1294. Penalty
 
 Any person who shall, except as permitted by law, willfully resist, prevent, impede, or interfere with the Secretary or any of his agents in the performance of duties pursuant to this chapter shall be punished by a fine of not more than $5,000 or by imprisonment for not more than one year, or both.
 
-(Pub. L. 95–87, title VII, § 704, Aug. 3, 1977, 91 Stat. 520.)
+(Pub. L. 95–87, title VII, § 704, Aug. 3, 1977, 91 Stat. 520.)
 
 **Editorial Notes**
 
@@ -4781,7 +4781,7 @@ Any person who shall, except as permitted by law, willfully resist, prevent, imp
 
 Section 704 of Pub. L. 95–87 also amended section 1114 of Title 18, Crimes and Criminal Procedure.
 
-### § 1295. Grants to States
+### § 1295. Grants to States
 
 **(a) Assisting any State in development, administration, and enforcement of State programs under this chapter**
 
@@ -4797,13 +4797,13 @@ The Secretary is authorized to make annual grants to any State for the purpose o
 
 If, in accordance with section 1273(d) of this title, a State elects to regulate surface coal mining and reclamation operations on Federal lands, the Secretary may increase the amount of the annual grants under subsection (a) of this section by an amount which he determines is approximately equal to the amount the Federal Government would have expended for such regulation if the State had not made such election.
 
-(Pub. L. 95–87, title VII, § 705, Aug. 3, 1977, 91 Stat. 520.)
+(Pub. L. 95–87, title VII, § 705, Aug. 3, 1977, 91 Stat. 520.)
 
-### § 1296. Annual report to President and Congress
+### § 1296. Annual report to President and Congress
 
 The Secretary shall submit annually to the President and the Congress a report concerning activities conducted by him, the Federal Government, and the States pursuant to this chapter. Among other matters, the Secretary shall include in such report recommendations for additional administrative or legislative action as he deems necessary and desirable to accomplish the purposes of this chapter.
 
-(Pub. L. 95–87, title VII, § 706, Aug. 3, 1977, 91 Stat. 521.)
+(Pub. L. 95–87, title VII, § 706, Aug. 3, 1977, 91 Stat. 521.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4811,13 +4811,13 @@ The Secretary shall submit annually to the President and the Congress a report c
 
 For termination, effective May 15, 2000, of provisions in this section relating to requirement to submit a report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 109 of House Document No. 103–7.
 
-### § 1297. Separability
+### § 1297. Separability
 
 If any provision of this chapter or the applicability thereof to any person or circumstances is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
-(Pub. L. 95–87, title VII, § 707, Aug. 3, 1977, 91 Stat. 521.)
+(Pub. L. 95–87, title VII, § 707, Aug. 3, 1977, 91 Stat. 521.)
 
-### § 1298. Alaskan surface coal mine study
+### § 1298. Alaskan surface coal mine study
 
 **(a) Contract with National Academy of Sciences-National Academy of Engineering**
 
@@ -4843,9 +4843,9 @@ In order to allow new mines in Alaska to continue orderly development, the Secre
 
 There is authorized to be appropriated for the purpose of this section $250,000: *Provided*, That no new budget authority is authorized to be appropriated for fiscal year 1977.
 
-(Pub. L. 95–87, title VII, § 708, Aug. 3, 1977, 91 Stat. 521.)
+(Pub. L. 95–87, title VII, § 708, Aug. 3, 1977, 91 Stat. 521.)
 
-### § 1299. Study of reclamation standards for surface mining of other minerals
+### § 1299. Study of reclamation standards for surface mining of other minerals
 
 **(a) Contract with National Academy of Sciences-National Academy of Engineering; requirements** The Chairman of the Council on Environmental Quality is directed to contract to such extent or in such amounts as are provided in appropriation Acts with the National Academy of Sciences-National Academy of Engineering, other Government agencies or private groups as appropriate, for an in-depth study of current and developing technology for surface and open pit mining and reclamation for minerals other than coal designed to assist in the establishment of effective and reasonable regulation of surface and open pit mining and reclamation for minerals other than coal. The study shall—
 
@@ -4865,9 +4865,9 @@ The study together with specific legislative recommendations shall be submitted 
 
 There are authorized to be appropriated for the purpose of this section $500,000: *Provided*, That no new budget authority is authorized to be appropriated for fiscal year 1977.
 
-(Pub. L. 95–87, title VII, § 709, Aug. 3, 1977, 91 Stat. 522.)
+(Pub. L. 95–87, title VII, § 709, Aug. 3, 1977, 91 Stat. 522.)
 
-### § 1300. Indian lands
+### § 1300. Indian lands
 
 **(a) Study of regulation of surface mining; consultation with tribe; proposed legislation**
 
@@ -4899,9 +4899,9 @@ The Secretary shall provide for adequate participation by the various Indian tri
 
 **(h) Jurisdictional status**
 
-The Secretary shall analyze and make recommendations regarding the jurisdictional status of Indian Lands 1
+The Secretary shall analyze and make recommendations regarding the jurisdictional status of Indian Lands 1
 
-<sup>1</sup>  So in original. Probably should be “lands”.
+<sup>1</sup> So in original. Probably should be “lands”.
 
 outside the exterior boundaries of Indian reservations: *Provided*, That nothing in this chapter shall change the existing jurisdictional status of Indian Lands.1
 
@@ -4977,25 +4977,25 @@ Notwithstanding subparagraph (A), the Federal share of the costs of developing, 
 
 Not later than 18 months after the date on which a tribal program is approved under subsection (e) of section 1254 of this title, the Secretary shall submit to the appropriate committees of Congress a report, developed in cooperation with the applicable Indian tribe, on the tribal program that includes a recommendation of the Secretary on whether primary regulatory authority under that subsection should be expanded to include additional Indian lands.
 
-(Pub. L. 95–87, title VII, § 710, Aug. 3, 1977, 91 Stat. 523; Pub. L. 102–486, title XXV, § 2514, Oct. 24, 1992, 106 Stat. 3112; Pub. L. 109–432, div. C, title II, § 209, Dec. 20, 2006, 120 Stat. 3019.)
+(Pub. L. 95–87, title VII, § 710, Aug. 3, 1977, 91 Stat. 523; Pub. L. 102–486, title XXV, § 2514, Oct. 24, 1992, 106 Stat. 3112; Pub. L. 109–432, div. C, title II, § 209, Dec. 20, 2006, 120 Stat. 3019.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (i). Pub. L. 109–432, § 209(b), struck out “, except that nothing in this subsection may be construed as providing such tribes with the authorities set forth under section 1253 of this title” after “Indian lands” in introductory provisions.
+2006—Subsec. (i). Pub. L. 109–432, § 209(b), struck out “, except that nothing in this subsection may be construed as providing such tribes with the authorities set forth under section 1253 of this title” after “Indian lands” in introductory provisions.
 
-Subsec. (j). Pub. L. 109–432, § 209(a), added subsec. (j).
+Subsec. (j). Pub. L. 109–432, § 209(a), added subsec. (j).
 
 1992—Subsec. (i). Pub. L. 102–486 added subsec. (i).
 
-### § 1301. Experimental practices
+### § 1301. Experimental practices
 
 In order to encourage advances in mining and reclamation practices or to allow post-mining land use for industrial, commercial, residential, or public use (including recreational facilities), the regulatory authority with approval by the Secretary may authorize departures in individual cases on an experimental basis from the environmental protection performance standards promulgated under sections 1265 and 1266 of this title. Such departures may be authorized if (i) the experimental practices are potentially more or at least as environmentally protective, during and after mining operations, as those required by promulgated standards; (ii) the mining operations approved for particular land-use or other purposes are not larger or more numerous than necessary to determine the effectiveness and economic feasibility of the experimental practices; and (iii) the experimental practices do not reduce the protection afforded public health and safety below that provided by promulgated standards.
 
-(Pub. L. 95–87, title VII, § 711, Aug. 3, 1977, 91 Stat. 523.)
+(Pub. L. 95–87, title VII, § 711, Aug. 3, 1977, 91 Stat. 523.)
 
-### § 1302. Authorization of appropriations
+### § 1302. Authorization of appropriations
 
 There is authorized to be appropriated to the Secretary for the purposes of this chapter the following sums; and all such funds appropriated shall remain available until expended:
 
@@ -5007,7 +5007,7 @@ There is authorized to be appropriated to the Secretary for the purposes of this
 
 **(d)** In order that the implementation of the requirements of this chapter may be initiated in a timely and orderly manner, the Secretary is authorized, subject to the approval of the appropriation Committees of the House and of the Senate, to utilize not to exceed $2,000,000 of the appropriations otherwise available to him for the fiscal year ending September 30, 1977, for the administration and other purposes of the chapter.
 
-(Pub. L. 95–87, title VII, § 712, Aug. 3, 1977, 91 Stat. 524; Pub. L. 95–343, § 1, Aug. 11, 1978, 92 Stat. 473; Pub. L. 101–508, title VI, § 6012(b), Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 109–432, div. C, title II, § 201(b), Dec. 20, 2006, 120 Stat. 3008.)
+(Pub. L. 95–87, title VII, § 712, Aug. 3, 1977, 91 Stat. 524; Pub. L. 95–343, § 1, Aug. 11, 1978, 92 Stat. 473; Pub. L. 101–508, title VI, § 6012(b), Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 109–432, div. C, title II, § 201(b), Dec. 20, 2006, 120 Stat. 3008.)
 
 **Editorial Notes**
 
@@ -5017,9 +5017,9 @@ There is authorized to be appropriated to the Secretary for the purposes of this
 
 1990—Subsec. (b). Pub. L. 101–508 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the implementation and funding of section 1257(c) of this title there are authorized to be appropriated sums reserved by section 1231(b)(1) of this title for the purposes of section 1257(c) of this title and such additional sums as may be necessary (i) for the fiscal year ending September 30, 1978, to provide an amount not to exceed $10,000,000 to carry out the purposes of section 1257(c) of this title and (ii) for the fiscal years ending September 30, 1979, and September 30, 1980, to provide an amount not to exceed $25,000,000 to carry out the purposes of section 1257(c) of this title.”
 
-1978—Subsec. (a). Pub. L. 95–343, § 1(1), increased authorization from $10,000,000 to $25,000,000 for each of the two succeeding fiscal years, and inserted provisions authorizing such necessary additional amounts for increases in salary, etc.
+1978—Subsec. (a). Pub. L. 95–343, § 1(1), increased authorization from $10,000,000 to $25,000,000 for each of the two succeeding fiscal years, and inserted provisions authorizing such necessary additional amounts for increases in salary, etc.
 
-Subsec. (b). Pub. L. 95–343, § 1(2), substituted provisions authorizing appropriations of not to exceed $10,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $25,000,000 for each of fiscal years ending Sept. 30, 1979, and 1980, for provisions authorizing appropriations of not to exceed $10,000,000 and such additional amounts as are necessary for fiscal year ending Sept. 30, 1978, and for each fiscal year for a period of fifteen fiscal years thereafter.
+Subsec. (b). Pub. L. 95–343, § 1(2), substituted provisions authorizing appropriations of not to exceed $10,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $25,000,000 for each of fiscal years ending Sept. 30, 1979, and 1980, for provisions authorizing appropriations of not to exceed $10,000,000 and such additional amounts as are necessary for fiscal year ending Sept. 30, 1978, and for each fiscal year for a period of fifteen fiscal years thereafter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5029,31 +5029,31 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 
 **Crediting Performance Bond Forfeitures**
 
-Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244, provided in part that: “Notwithstanding 31 U.S.C. 3302, an additional amount shall be credited to this account, to remain available until expended, from performance bond forfeitures in fiscal year 1999 and thereafter.”
+Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244, provided in part that: “Notwithstanding 31 U.S.C. 3302, an additional amount shall be credited to this account, to remain available until expended, from performance bond forfeitures in fiscal year 1999 and thereafter.”
 
 **Cost-Based Fees for Products of Mine Map Repository**
 
-Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244, provided in part that: “Beginning in fiscal year 1999 and thereafter, cost-based fees for the products of the Mine Map Repository shall be established (and revised as needed) in Federal Register Notices, and shall be collected and credited to this account, to be available until expended for the costs of administering this program.”
+Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244, provided in part that: “Beginning in fiscal year 1999 and thereafter, cost-based fees for the products of the Mine Map Repository shall be established (and revised as needed) in Federal Register Notices, and shall be collected and credited to this account, to be available until expended for the costs of administering this program.”
 
-### § 1303. Coordination of regulatory and inspection activities
+### § 1303. Coordination of regulatory and inspection activities
 
 **(a)** The President shall, to the extent appropriate, and in keeping with the particular enforcement requirements of each Act referred to herein, insure the coordination of regulatory and inspection activities among the departments, agencies, and instrumentalities to which such activities are assigned by this chapter, by the Clean Air Act [42 U.S.C. 7401 et seq.], by the Water Pollution Control Act [33 U.S.C. 1251 et seq.], by the Department of Energy Organization Act [42 U.S.C. 7101 et seq.], and by existing or subsequently enacted Federal mine safety and health laws, except that no such coordination shall be required with respect to mine safety and health inspections, advance notice of which is or may be prohibited by existing or subsequently enacted Federal mine safety and health laws.
 
 **(b)** The President may execute the coordination required by this section by means of an Executive order, or by any other mechanism he determines to be appropriate.
 
-(Pub. L. 95–87, title VII, § 713, Aug. 3, 1977, 91 Stat. 524.)
+(Pub. L. 95–87, title VII, § 713, Aug. 3, 1977, 91 Stat. 524.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Water Pollution Control Act, referred to in subsec. (a), probably means act June 30, 1948, ch. 758, 62 Stat. 1155, known as the Federal Water Pollution Control Act, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Water Pollution Control Act, referred to in subsec. (a), probably means act June 30, 1948, ch. 758, 62 Stat. 1155, known as the Federal Water Pollution Control Act, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (a), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
+The Department of Energy Organization Act, referred to in subsec. (a), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
 
-### § 1304. Surface owner protection
+### § 1304. Surface owner protection
 
 **(a) Applicability**
 
@@ -5089,9 +5089,9 @@ This section shall not apply to Indian lands.
 
 Nothing in this section shall be construed as increasing or diminishing any property rights by the United States or by any other landowner.
 
-(Pub. L. 95–87, title VII, § 714, Aug. 3, 1977, 91 Stat. 524.)
+(Pub. L. 95–87, title VII, § 714, Aug. 3, 1977, 91 Stat. 524.)
 
-### § 1305. Federal lessee protection
+### § 1305. Federal lessee protection
 
 In those instances where the coal proposed to be mined by surface coal mining operations is owned by the Federal Government and the surface is subject to a lease or a permit issued by the Federal Government, the application for a permit shall include either:
 
@@ -5099,35 +5099,35 @@ In those instances where the coal proposed to be mined by surface coal mining op
 
 **(2)** evidence of the execution of a bond or undertaking to the United States or the State, whichever is applicable, for the use and benefit of the permittee or lessee of the surface lands involved to secure payment of any damages to the surface estate which the operations will cause to the crops, or to the tangible improvements of the permittee or lessee of the surface lands as may be determined by the parties involved, or as determined and fixed in an action brought against the operator or upon the bond in a court of competent jurisdiction. This bond is in addition to the performance bond required for reclamation under this chapter.
 
-(Pub. L. 95–87, title VII, § 715, Aug. 3, 1977, 91 Stat. 525.)
+(Pub. L. 95–87, title VII, § 715, Aug. 3, 1977, 91 Stat. 525.)
 
-### § 1306. Effect on rights of owner of coal in Alaska to conduct surface mining operations
+### § 1306. Effect on rights of owner of coal in Alaska to conduct surface mining operations
 
 Nothing in this chapter shall be construed as increasing or diminishing the rights of any owner of coal in Alaska to conduct or authorize surface coal mining operations for coal which has been or is hereafter conveyed out of Federal ownership to the State of Alaska or pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.]: *Provided*, That such surface coal mining operations meet the requirements of this chapter.
 
-(Pub. L. 95–87, title VII, § 716, Aug. 3, 1977, 91 Stat. 526.)
+(Pub. L. 95–87, title VII, § 716, Aug. 3, 1977, 91 Stat. 526.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-### § 1307. Water rights and replacement
+### § 1307. Water rights and replacement
 
 **(a)** Nothing in this chapter shall be construed as affecting in any way the right of any person to enforce or protect, under applicable law, his interest in water resources affected by a surface coal mining operation.
 
 **(b)** The operator of a surface coal mine shall replace the water supply of an owner of interest in real property who obtains all or part of his supply of water for domestic, agricultural, industrial, or other legitimate use from an underground or surface source where such supply has been affected by contamination, diminution, or interruption proximately resulting from such surface coal mine operation.
 
-(Pub. L. 95–87, title VII, § 717, Aug. 3, 1977, 91 Stat. 526.)
+(Pub. L. 95–87, title VII, § 717, Aug. 3, 1977, 91 Stat. 526.)
 
-### § 1308. Advance appropriations
+### § 1308. Advance appropriations
 
 Notwithstanding any other provision of this chapter, no authority to make payments under this chapter shall be effective except to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-(Pub. L. 95–87, title VII, § 718, Aug. 3, 1977, 91 Stat. 526.)
+(Pub. L. 95–87, title VII, § 718, Aug. 3, 1977, 91 Stat. 526.)
 
-### § 1308a. Use of civil penalty funds to reclaim lands
+### § 1308a. Use of civil penalty funds to reclaim lands
 
 In fiscal year 2009 and thereafter, the Secretary of the Interior, pursuant to regulations, may use directly or through grants to States, moneys collected for civil penalties assessed under section 1268 of this title, to reclaim lands adversely affected by coal mining practices after August 3, 1977, to remain available until expended.
 
@@ -5139,7 +5139,7 @@ In fiscal year 2009 and thereafter, the Secretary of the Interior, pursuant to r
 
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
-### § 1308b. Transfer of computer hardware, software and other technical equipment
+### § 1308b. Transfer of computer hardware, software and other technical equipment
 
 In fiscal year 2015 and each fiscal year thereafter, with funds available for the Technical Innovation and Professional Services program in this or any other Act with respect to any fiscal year, the Secretary may transfer title for computer hardware, software and other technical equipment to State and tribal regulatory and reclamation programs.
 
@@ -5163,13 +5163,13 @@ Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299.
 
-### § 1309. Certification and training of blasters
+### § 1309. Certification and training of blasters
 
 In accordance with this chapter, the Secretary of the Interior (or the approved State regulatory authority as provided for in section 1253 of this title) shall promulgate regulations requiring the training, examination, and certification of persons engaging in or directly responsible for blasting or use of explosives in surface coal mining operations.
 
-(Pub. L. 95–87, title VII, § 719, Aug. 3, 1977, 91 Stat. 526.)
+(Pub. L. 95–87, title VII, § 719, Aug. 3, 1977, 91 Stat. 526.)
 
-### § 1309a. Subsidence
+### § 1309a. Subsidence
 
 **(a) Requirements** Underground coal mining operations conducted after October 24, 1992, shall comply with each of the following requirements:
 
@@ -5183,33 +5183,33 @@ Nothing in this section shall be construed to prohibit or interrupt underground 
 
 Within one year after October 24, 1992, the Secretary shall, after providing notice and opportunity for public comment, promulgate final regulations to implement subsection (a).
 
-(Pub. L. 95–87, title VII, § 720, as added Pub. L. 102–486, title XXV, § 2504(a)(1), Oct. 24, 1992, 106 Stat. 3104.)
+(Pub. L. 95–87, title VII, § 720, as added Pub. L. 102–486, title XXV, § 2504(a)(1), Oct. 24, 1992, 106 Stat. 3104.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Review of Existing Requirements and Report to Congress**
 
-Pub. L. 102–486, title XXV, § 2504(a)(2), Oct. 24, 1992, 106 Stat. 3104, directed Secretary of the Interior to review existing requirements related to underground coal mine subsidence and natural gas and petroleum pipeline safety, submit a report detailing results of review to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within 18 months of Oct. 24, 1992, and, where appropriate, to commence a rulemaking to address any deficiencies in existing law determined in the review regarding notification, coordination and mitigation.
+Pub. L. 102–486, title XXV, § 2504(a)(2), Oct. 24, 1992, 106 Stat. 3104, directed Secretary of the Interior to review existing requirements related to underground coal mine subsidence and natural gas and petroleum pipeline safety, submit a report detailing results of review to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within 18 months of Oct. 24, 1992, and, where appropriate, to commence a rulemaking to address any deficiencies in existing law determined in the review regarding notification, coordination and mitigation.
 
-### § 1309b. Research
+### § 1309b. Research
 
-The Office of Surface Mining Reclamation and Enforcement is authorized to conduct studies, research and demonstration projects relating to the implementation of, and compliance with, subchapter V of this chapter, and provide technical assistance to states 1
+The Office of Surface Mining Reclamation and Enforcement is authorized to conduct studies, research and demonstration projects relating to the implementation of, and compliance with, subchapter V of this chapter, and provide technical assistance to states 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
-for that purpose. Prior to approving any such studies, research or demonstration projects the Director, Office of Surface Mining Reclamation and Enforcement, shall first consult with the Director, Bureau of Mines, and obtain a determination from such Director that the Bureau of Mines is not already conducting like or similar studies, research or demonstration projects. Studies, research and demonstration projects for the purposes of subchapter IV of this chapter shall only be conducted in accordance with section 1231(c)(6) 2
+for that purpose. Prior to approving any such studies, research or demonstration projects the Director, Office of Surface Mining Reclamation and Enforcement, shall first consult with the Director, Bureau of Mines, and obtain a determination from such Director that the Bureau of Mines is not already conducting like or similar studies, research or demonstration projects. Studies, research and demonstration projects for the purposes of subchapter IV of this chapter shall only be conducted in accordance with section 1231(c)(6) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 95–87, title VII, § 721, as added Pub. L. 102–486, title XXV, § 2504(c)(3), Oct. 24, 1992, 106 Stat. 3105.)
+(Pub. L. 95–87, title VII, § 721, as added Pub. L. 102–486, title XXV, § 2504(c)(3), Oct. 24, 1992, 106 Stat. 3105.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1231(c)(6) of this title, referred to in text, was repealed and paragraph (8) of section 1231(c) was redesignated (6) by Pub. L. 109–432, div. C, title II, § 201(a)(1), Dec. 20, 2006, 120 Stat. 3006.
+Section 1231(c)(6) of this title, referred to in text, was repealed and paragraph (8) of section 1231(c) was redesignated (6) by Pub. L. 109–432, div. C, title II, § 201(a)(1), Dec. 20, 2006, 120 Stat. 3006.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5219,7 +5219,7 @@ Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of P
 
 ## SUBCHAPTER VIII—UNIVERSITY COAL RESEARCH LABORATORIES
 
-### § 1311. Establishment of university coal research laboratories
+### § 1311. Establishment of university coal research laboratories
 
 **(a) Designation by Secretary of Energy**
 
@@ -5249,17 +5249,17 @@ Not more than one coal laboratory established pursuant to this subchapter shall 
 
 The Secretary of Energy shall designate the ten institutions of higher education under this section not later than ninety days after the date on which such applications are to be submitted.
 
-(Pub. L. 95–87, title VIII, § 801, Aug. 3, 1977, 91 Stat. 526; Pub. L. 95–617, title VI, § 604(a), (c), Nov. 9, 1978, 92 Stat. 3166, 3167; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 95–87, title VIII, § 801, Aug. 3, 1977, 91 Stat. 526; Pub. L. 95–617, title VI, § 604(a), (c), Nov. 9, 1978, 92 Stat. 3166, 3167; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–617, § 604(a), substituted “The Secretary of Energy” for “The Administrator, Energy Research and Development Administration (hereafter referred to as ‘Administrator’ in this subchapter)” and “shall designate thirteen institutions” for “is authorized and directed to designate ten institutions” and inserted provision that ten such designations be made as provided in subsection (e) of this section and the remaining three be made in fiscal year 1980.
+1978—Subsec. (a). Pub. L. 95–617, § 604(a), substituted “The Secretary of Energy” for “The Administrator, Energy Research and Development Administration (hereafter referred to as ‘Administrator’ in this subchapter)” and “shall designate thirteen institutions” for “is authorized and directed to designate ten institutions” and inserted provision that ten such designations be made as provided in subsection (e) of this section and the remaining three be made in fiscal year 1980.
 
-Subsec. (b). Pub. L. 95–617, § 604(a), (c), substituted in provisions preceding par. (1) “Secretary of Energy” for “Administrator” and in par. (1) “Those ten institutions of higher education designated as provided in subsection (e)” for “The institution of higher education”.
+Subsec. (b). Pub. L. 95–617, § 604(a), (c), substituted in provisions preceding par. (1) “Secretary of Energy” for “Administrator” and in par. (1) “Those ten institutions of higher education designated as provided in subsection (e)” for “The institution of higher education”.
 
-Subsecs. (d), (e). Pub. L. 95–617, § 604(c), substituted “Secretary of Energy” for “Administrator” wherever appearing.
+Subsecs. (d), (e). Pub. L. 95–617, § 604(c), substituted “Secretary of Energy” for “Administrator” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5267,7 +5267,7 @@ Subsecs. (d), (e). Pub. L. 95–617, § 604(c), substituted “Secretary of En
 
 “United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (c) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
-### § 1312. Financial assistance
+### § 1312. Financial assistance
 
 **(a)** The Secretary of Energy is authorized to make grants to any institution of higher education designated under section 1311 of this title to pay the Federal share of the cost of establishing (including the construction of such facilities as may be necessary) and maintaining a coal laboratory.
 
@@ -5283,7 +5283,7 @@ Subsecs. (d), (e). Pub. L. 95–617, § 604(c), substituted “Secretary of En
 
 **(5)** set forth such policies and procedures as will insure that Federal funds made available under this section for any fiscal year will be so used as to supplement and, to the extent practical, increase the level of funds that would, in the absence of such Federal funds, be made available for the purposes of the activities described in subsections (d)(1), (2), and (3) of section 1311 of this title, and in no case supplant such funds.
 
-(Pub. L. 95–87, title VIII, § 802, Aug. 3, 1977, 91 Stat. 527; Pub. L. 95–617, title VI, § 604(c), Nov. 9, 1978, 92 Stat. 3167.)
+(Pub. L. 95–87, title VIII, § 802, Aug. 3, 1977, 91 Stat. 527; Pub. L. 95–617, title VI, § 604(c), Nov. 9, 1978, 92 Stat. 3167.)
 
 **Editorial Notes**
 
@@ -5291,21 +5291,21 @@ Subsecs. (d), (e). Pub. L. 95–617, § 604(c), substituted “Secretary of En
 
 1978—Pub. L. 95–617 substituted “Secretary of Energy” for “Administrator” wherever appearing.
 
-### § 1313. Limitation on payments
+### § 1313. Limitation on payments
 
 **(a)** No institutions of higher education may receive more than $4,000,000 for the construction of its coal research laboratory, including initially installed fixed equipment, nor may it receive more than $1,500,000 for initially installed movable equipment, nor may it receive more than $500,000 for new program startup expenses.
 
 **(b)** No institution of higher education may receive more than $1,500,000 per year from the Federal Government for operating expenses.
 
-(Pub. L. 95–87, title VIII, § 803, Aug. 3, 1977, 91 Stat. 528.)
+(Pub. L. 95–87, title VIII, § 803, Aug. 3, 1977, 91 Stat. 528.)
 
-### § 1314. Payments; Federal share of operating expenses
+### § 1314. Payments; Federal share of operating expenses
 
 **(a)** From the amounts appropriated pursuant to section 1316 of this title, the Secretary of Energy shall pay to each institution of higher education having an application approved under this subchapter an amount equal to the Federal share of the cost of carrying out that application. Such payments may be in installments, by way of reimbursement, or by way of advance with necessary adjustments on account of underpayments or overpayments.
 
 **(b)** The Federal share of operating expenses for any fiscal year shall not exceed 50 per centum of the cost of the operation of a coal research laboratory.
 
-(Pub. L. 95–87, title VIII, § 804, Aug. 3, 1977, 91 Stat. 528; Pub. L. 95–617, title VI, § 604(c), Nov. 9, 1978, 92 Stat. 3167.)
+(Pub. L. 95–87, title VIII, § 804, Aug. 3, 1977, 91 Stat. 528; Pub. L. 95–617, title VI, § 604(c), Nov. 9, 1978, 92 Stat. 3167.)
 
 **Editorial Notes**
 
@@ -5313,7 +5313,7 @@ Subsecs. (d), (e). Pub. L. 95–617, § 604(c), substituted “Secretary of En
 
 1978—Subsec. (a). Pub. L. 95–617 substituted “Secretary of Energy” for “Administrator” wherever appearing.
 
-### § 1315. Advisory Council on Coal Research
+### § 1315. Advisory Council on Coal Research
 
 **(a) Establishment; members** There is established an Advisory Council on Coal Research which shall be composed of—
 
@@ -5347,7 +5347,7 @@ The Advisory Council shall make an annual report of its findings and recommendat
 
 Whenever a member of the Council appointed under clauses (1) through (5) is unable to attend a meeting, that member shall appoint an appropriate alternate to represent him for that meeting.
 
-(Pub. L. 95–87, title VIII, § 805, Aug. 3, 1977, 91 Stat. 528; Pub. L. 95–617, title VI, § 604(c), Nov. 9, 1978, 92 Stat. 3167; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 95–87, title VIII, § 805, Aug. 3, 1977, 91 Stat. 528; Pub. L. 95–617, title VI, § 604(c), Nov. 9, 1978, 92 Stat. 3167; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
 
 **Editorial Notes**
 
@@ -5371,15 +5371,15 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 1316. Authorization of appropriations
+### § 1316. Authorization of appropriations
 
 **(a)** For the ten institutions referred to in the last sentence of section 1311(a) of this title, there are authorized to be appropriated not to exceed $30,000,000 for the fiscal year ending September 30, 1979 (including the cost of construction, equipment, and startup expenses), and not to exceed $7,500,000 for the fiscal year 1980 and for each fiscal year thereafter through the fiscal year ending before Octo­ber 1, 1984, to carry out the provisions of this subchapter.
 
 **(b)** For the three remaining institutions referred to in the last sentence of section 1311(a) of this title, there are authorized to be appropriated not to exceed $6,500,000 for the fiscal year 1980 (including the cost of construction, equipment, and startup expenses), and not to exceed $2,000,000 for each fiscal year after fiscal year 1980 ending before October 1, 1984, to carry out the provisions of this subchapter.
 
-(Pub. L. 95–87, title VIII, § 806, Aug. 3, 1977, 91 Stat. 529; Pub. L. 95–617, title VI, § 604(b), Nov. 9, 1978, 92 Stat. 3166.)
+(Pub. L. 95–87, title VIII, § 806, Aug. 3, 1977, 91 Stat. 529; Pub. L. 95–617, title VI, § 604(b), Nov. 9, 1978, 92 Stat. 3166.)
 
 **Editorial Notes**
 
@@ -5389,7 +5389,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 ## SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS
 
-### § 1321. Fellowship awards
+### § 1321. Fellowship awards
 
 **(a) Graduate study and research in areas of applied science and engineering relating to production, conservation, and utilization of fuels and energy**
 
@@ -5403,7 +5403,7 @@ Such fellowships shall be awarded for such periods as the Secretary of Energy ma
 
 In addition to the number of fellowships authorized to be awarded by subsection (a) of this section, the Secretary of Energy is authorized to award fellowships equal to the number previously awarded during any fiscal year under this subchapter but vacated prior to the end of the period for which they were awarded; except that each fellowship awarded under this subsection shall be for such period of graduate work or research, not in excess of the remainder of the period for which the fellowship which it replaces was awarded as the Secretary of Energy may determine.
 
-(Pub. L. 95–87, title IX, § 901, Aug. 3, 1977, 91 Stat. 529; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 95–87, title IX, § 901, Aug. 3, 1977, 91 Stat. 529; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 **Editorial Notes**
 
@@ -5419,7 +5419,7 @@ In subsec. (a), the words “(hereafter referred to as ‘Administrator’ in th
 
 “Secretary of Education” substituted for “Commissioner of Education” in subsec. (a), pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of Title 20, Education, and which transferred all functions of Commissioner of Education to Secretary of Education.
 
-### § 1322. Fellowship recipients
+### § 1322. Fellowship recipients
 
 Recipients of fellowships under this subchapter shall be—
 
@@ -5427,13 +5427,13 @@ Recipients of fellowships under this subchapter shall be—
 
 **(b)** persons who plan a career in the field of energy resources, production, or utilization.
 
-(Pub. L. 95–87, title IX, § 902, Aug. 3, 1977, 91 Stat. 530.)
+(Pub. L. 95–87, title IX, § 902, Aug. 3, 1977, 91 Stat. 530.)
 
-### § 1323. Distribution of fellowships
+### § 1323. Distribution of fellowships
 
 In awarding fellowships under the provisions of this subchapter, the Secretary of Energy shall endeavor to provide equitable distribution of such fellowships throughout the Nation, except that the Secretary of Energy shall give special attention to institutions of higher education, libraries, archives, or other research centers which have a demonstrated capacity to offer courses of study or research in the field of energy resources and conservation and conversion and related disciplines. In carrying out his responsibilities under this section, the Secretary of Energy shall take into consideration the projected need for highly trained engineers and scientists in the field of energy sources.
 
-(Pub. L. 95–87, title IX, § 903, Aug. 3, 1977, 91 Stat. 530; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
+(Pub. L. 95–87, title IX, § 903, Aug. 3, 1977, 91 Stat. 530; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5441,27 +5441,27 @@ In awarding fellowships under the provisions of this subchapter, the Secretary o
 
 “Secretary of Energy” substituted in text for “Administrator”, meaning Administrator of Energy Research and Development Administration, pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
-### § 1324. Stipends and allowances
+### § 1324. Stipends and allowances
 
 **(a)** Each person awarded a fellowship under this subchapter shall receive a stipend of not more than $10,000 for each academic year of study. An additional amount of $500 for each such calendar year of study shall be paid to such person on account of each of his dependents.
 
 **(b)** In addition to the amount paid to such person pursuant to subsection (a) there shall be paid to the institution of higher education at which each such person is pursuing his course of study, 100 per centum of the amount paid to such person less the amount paid on account of such person’s dependents, to such person less any amount charged such person for tuition.
 
-(Pub. L. 95–87, title IX, § 904, Aug. 3, 1977, 91 Stat. 530.)
+(Pub. L. 95–87, title IX, § 904, Aug. 3, 1977, 91 Stat. 530.)
 
-### § 1325. Limitation on fellowships
+### § 1325. Limitation on fellowships
 
 No fellowship shall be awarded under this subchapter for study at a school or department of divinity. For the purpose of this section, the term “school or department of divinity” means an institution or department or branch of an institution, whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation or to prepare them to teach theological subjects.
 
-(Pub. L. 95–87, title IX, § 905, Aug. 3, 1977, 91 Stat. 530.)
+(Pub. L. 95–87, title IX, § 905, Aug. 3, 1977, 91 Stat. 530.)
 
-### § 1326. Fellowship conditions
+### § 1326. Fellowship conditions
 
 **(a)** A person awarded a fellowship under the provisions of this subchapter shall continue to receive the payments provided in section 1324(a) of this title only during such periods as the Secretary of Energy finds that he is maintaining satisfactory proficiency in, and devoting essentially full time to, study or research in the field in which such fellowship was awarded, in an institution of higher education, and is not engaging in gainful employment other than part-time employment in teaching, research, or similar activities, approved by the Secretary of Energy.
 
 **(b)** The Secretary of Energy shall require reports containing such information in such forms and to be filed at such times as he determines necessary from each person awarded a fellowship under the provisions of this subchapter. Such reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, library, archive, or other research center approved by the Secretary of Energy, stating that such person is making satisfactory progress in, and is devoting essentially full time to the research for which the fellowship was awarded.
 
-(Pub. L. 95–87, title IX, § 906, Aug. 3, 1977, 91 Stat. 530; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
+(Pub. L. 95–87, title IX, § 906, Aug. 3, 1977, 91 Stat. 530; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5469,13 +5469,13 @@ No fellowship shall be awarded under this subchapter for study at a school or de
 
 “Secretary of Energy” substituted in text for “Administrator”, meaning Administrator of Energy Research and Development Administration, pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
-### § 1327. Authorization of appropriations
+### § 1327. Authorization of appropriations
 
 There are authorized to be appropriated $11,000,000 for the fiscal year ending September 30, 1979, and for each of the five succeeding fiscal years. For payments for the initial awarding of fellowships awarded under this subchapter, there are authorized to be appropriated for the fiscal year ending September 30, 1979, and for each of the five succeeding fiscal years, such sums as may be necessary in order that fellowships already awarded might be completed.
 
-(Pub. L. 95–87, title IX, § 907, Aug. 3, 1977, 91 Stat. 531.)
+(Pub. L. 95–87, title IX, § 907, Aug. 3, 1977, 91 Stat. 531.)
 
-### § 1328. Research, development projects, etc., relating to alternative coal mining technologies
+### § 1328. Research, development projects, etc., relating to alternative coal mining technologies
 
 **(a) Authority of Secretary of the Interior to conduct, promote, etc.** The Secretary of the Interior is authorized to conduct and promote the coordination and acceleration of, research, studies, surveys, experiments, demonstration projects, and training relating to—
 
@@ -5499,17 +5499,17 @@ At least sixty days before any funds are obligated for any research studies, sur
 
 Subject to the patent provisions of section 306(d) of this Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 all information and data resulting from any research studies, surveys, experiments, or demonstration projects conducted or financed under this chapter shall be promptly made available to the public.
 
-(Pub. L. 95–87, title IX, § 908, Aug. 3, 1977, 91 Stat. 531; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 97–257, title I, § 100, Sept. 10, 1982, 96 Stat. 841.)
+(Pub. L. 95–87, title IX, § 908, Aug. 3, 1977, 91 Stat. 531; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 97–257, title I, § 100, Sept. 10, 1982, 96 Stat. 841.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 306(d) of this Act, referred to in subsec. (e), was classified to section 1226(d) of this title and was omitted from the Code pursuant to the replacement of subchapter III (§ 1221 et seq.) of this chapter by Pub. L. 98–409. See section 1226(c) of this title.
+Section 306(d) of this Act, referred to in subsec. (e), was classified to section 1226(d) of this title and was omitted from the Code pursuant to the replacement of subchapter III (§ 1221 et seq.) of this chapter by Pub. L. 98–409. See section 1226(c) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 

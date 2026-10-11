@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1539—THE NATIONAL YEOMEN (F)"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1539—THE NATIONAL YEOMEN (F)"
 identifier: "/us/usc/t36/stII/ptB/ch1539"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1539—THE NATIONAL YEOMEN (F)
 
@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2014—Pub. L. 113–237, § 3(c)(8)(A), Dec. 18, 2014, 128 Stat. 2840, substituted “YEOMEN (F)” for “YOEMEN F” in chapter heading.
+2014—Pub. L. 113–237, § 3(c)(8)(A), Dec. 18, 2014, 128 Stat. 2840, substituted “YEOMEN (F)” for “YOEMEN F” in chapter heading.
 
-## § 153901. Organization
+## § 153901. Organization
 
 The National Yeomen (F) (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1431; Pub. L. 113–237, § 3(c)(8)(B), Dec. 18, 2014, 128 Stat. 2840.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1431; Pub. L. 113–237, § 3(c)(8)(B), Dec. 18, 2014, 128 Stat. 2840.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153901 | 36:139 (words before “for patriotic, historical, and educational purposes”). | June 15, 1936, ch. 546, § 1 (words before “for patriotic, historical, and educational purposes”), 49 Stat. 1501. |
+| 153901 | 36:139 (words before “for patriotic, historical, and educational purposes”). | June 15, 1936, ch. 546, § 1 (words before “for patriotic, historical, and educational purposes”), 49 Stat. 1501. |
 
 This section is substituted for the source provision for consistency in the revised title and to eliminate unnecessary and executed words.
 
@@ -41,7 +41,7 @@ This section is substituted for the source provision for consistency in the revi
 
 2014—Pub. L. 113–237 substituted “Yeomen (F)” for “Yoemen F”.
 
-## § 153902. Purposes
+## § 153902. Purposes
 
 The purposes of the corporation are patriotic, historical, and educational and are—
 
@@ -55,13 +55,13 @@ The purposes of the corporation are patriotic, historical, and educational and a
 
 **(5)** to aid in securing for mankind all the blessings of liberty.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1431; Pub. L. 113–237, § 3(c)(8)(C), Dec. 18, 2014, 128 Stat. 2841.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1431; Pub. L. 113–237, § 3(c)(8)(C), Dec. 18, 2014, 128 Stat. 2841.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153902 | 36:139 (words beginning with “for patriotic, historical, and educational purposes”). | June 15, 1936, ch. 546, § 1 (words beginning with “for patriotic, historical, and educational purposes”), 49 Stat. 1506. |
+| 153902 | 36:139 (words beginning with “for patriotic, historical, and educational purposes”). | June 15, 1936, ch. 546, § 1 (words beginning with “for patriotic, historical, and educational purposes”), 49 Stat. 1506. |
 
 In clauses (1) and (2), the term “Yoemen (f)” is used (despite the inconsistency with section 153901 of the revised title) for consistency with section 1 of the Act of June 15, 1936.
 
@@ -79,7 +79,7 @@ In clause (1), the words “World War I” are substituted for “the World War�
 
 References to Naval Reserve, other than references to Naval Reserve regarding the United States Naval Reserve Retired List, deemed to refer to Navy Reserve, see section 515(h) of Pub. L. 109–163, set out as a note under section 10101 of Title 10, Armed Forces.
 
-## § 153903. Powers
+## § 153903. Powers
 
 The corporation may—
 
@@ -95,11 +95,11 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153903 | 36:139a. | June 15, 1936, ch. 546, § 2, 49 Stat. 1506. |
+| 153903 | 36:139a. | June 15, 1936, ch. 546, § 2, 49 Stat. 1506. |
 
 In clause (1), the words “not inconsistent with law” are omitted as unnecessary.
 
-## § 153904. Deposit of historical material
+## § 153904. Deposit of historical material
 
 The Regents of the Smithsonian Institution may permit the corporation to deposit its collections, manuscripts, books, pamphlets, and other material for history in the Smithsonian Institution or in the National Museum, on conditions and under rules they prescribe.
 
@@ -109,6 +109,6 @@ The Regents of the Smithsonian Institution may permit the corporation to deposit
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153904 | 36:139b. | June 15, 1936, ch. 546, § 3, 49 Stat. 1506; June 29, 1960, Pub. L. 86–533, (23), 74 Stat. 249. |
+| 153904 | 36:139b. | June 15, 1936, ch. 546, § 3, 49 Stat. 1506; June 29, 1960, Pub. L. 86–533, (23), 74 Stat. 249. |
 
 The word “may” is substituted for “are authorized to” for consistency in the revised title and to eliminate unnecessary words. The words “at their discretion” and “such” are omitted as unnecessary. The words “they prescribe” are substituted for “as they shall prescribe” to eliminate unnecessary words.

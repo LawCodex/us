@@ -73,21 +73,21 @@ Donald J. Trump.
 
 ## SUBCHAPTER I—CHARTER PROVISIONS
 
-### § 41. Incorporation of institution
+### § 41. Incorporation of institution
 
 The President, the Vice President, the Chief Justice, and the heads of executive departments are constituted an establishment by the name of the Smithsonian Institution for the increase and diffusion of knowledge among men, and by that name shall be known and have perpetual succession with the powers, limitations, and restrictions hereinafter contained, and no other.
 
-(R.S. § 5579; Feb. 27, 1877, ch. 69, 19 Stat. 253; Mar. 12, 1894, ch. 36, 28 Stat. 41.)
+(R.S. § 5579; Feb. 27, 1877, ch. 69, 19 Stat. 253; Mar. 12, 1894, ch. 36, 28 Stat. 41.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5579 derived from acts Aug. 10, 1846, ch. 178, § 1, 9 Stat. 102; Mar. 20, 1871, ch. 1, 17 Stat. 1.
+R.S. § 5579 derived from acts Aug. 10, 1846, ch. 178, § 1, 9 Stat. 102; Mar. 20, 1871, ch. 1, 17 Stat. 1.
 
-R.S. §§ 5579 to 5594 (codified as sections 41 to 46, 48, 50, 51 to 53, 54 to 57, and 67 of this title) constituted Title 73 of the Revised Statutes, entitled “The Smithsonian Institution.” A preamble to these sections was as follows: “James Smithson, esquire, of London, in the kingdom of Great Britain, having by his last will and testament given the whole of his property to the United States of America, to found, at Washington, under the name of the ‘Smithsonian Institution,’ an establishment for the increase and diffusion of knowledge among men; and the United States having, by an act of Congress, received said property and accepted said trust; therefore, for the faithful execution of said trust, according to the will of the liberal and enlightened donor.”
+R.S. §§ 5579 to 5594 (codified as sections 41 to 46, 48, 50, 51 to 53, 54 to 57, and 67 of this title) constituted Title 73 of the Revised Statutes, entitled “The Smithsonian Institution.” A preamble to these sections was as follows: “James Smithson, esquire, of London, in the kingdom of Great Britain, having by his last will and testament given the whole of his property to the United States of America, to found, at Washington, under the name of the ‘Smithsonian Institution,’ an establishment for the increase and diffusion of knowledge among men; and the United States having, by an act of Congress, received said property and accepted said trust; therefore, for the faithful execution of said trust, according to the will of the liberal and enlightened donor.”
 
-R.S. § 5579, as originally enacted, constituted the President, the Vice-President, the Secretaries of State, the Treasury, War, and the Navy, the Postmaster-General, the Attorney-General, the Chief Justice, the Commissioner of the Patent Office, and the Governor of the District of Columbia, and such persons as they might elect honorary members, an establishment by the name of the “Smithsonian Institution,” for the purposes and with the powers specified in the section as set forth here.
+R.S. § 5579, as originally enacted, constituted the President, the Vice-President, the Secretaries of State, the Treasury, War, and the Navy, the Postmaster-General, the Attorney-General, the Chief Justice, the Commissioner of the Patent Office, and the Governor of the District of Columbia, and such persons as they might elect honorary members, an establishment by the name of the “Smithsonian Institution,” for the purposes and with the powers specified in the section as set forth here.
 
 **Amendments**
 
@@ -99,13 +99,13 @@ R.S. § 5579, as originally enacted, constituted the President, the Vice-Presi
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–72, § 1, Aug. 15, 2003, 117 Stat. 888, provided that: “This Act [enacting section 253*l*–8 of Title 41, Public Contracts, enacting provisions set out as notes under section 75b of this title and section 3521 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 50 of this title] may be cited as the ‘Smithsonian Facilities Authorization Act’.”
+Pub. L. 108–72, § 1, Aug. 15, 2003, 117 Stat. 888, provided that: “This Act [enacting section 253*l*–8 of Title 41, Public Contracts, enacting provisions set out as notes under section 75b of this title and section 3521 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 50 of this title] may be cited as the ‘Smithsonian Facilities Authorization Act’.”
 
 **Short Title of 1966 Amendment**
 
-Pub. L. 89–674, § 1, Oct. 15, 1966, 80 Stat. 953, provided: “That this Act [enacting section 65a of this title and repealing section 65 of this title] may be cited as the ‘National Museum Act of 1966’.”
+Pub. L. 89–674, § 1, Oct. 15, 1966, 80 Stat. 953, provided: “That this Act [enacting section 65a of this title and repealing section 65 of this title] may be cited as the ‘National Museum Act of 1966’.”
 
-### § 42. Board of Regents; members
+### § 42. Board of Regents; members
 
 **(a)** The business of the Institution shall be conducted at the city of Washington by a Board of Regents, named the Regents of the Smithsonian Institution, to be composed of the Vice President, the Chief Justice of the United States, three Members of the Senate, three Members of the House of Representatives, and nine other persons, other than Members of Congress, two of whom shall be resident in the city of Washington, and seven of whom shall be inhabitants of some State, but no two of them of the same State.
 
@@ -115,13 +115,13 @@ Pub. L. 89–674, § 1, Oct. 15, 1966, 80 Stat. 953, provided: “That this Ac
 
 **(2)** the boards or commissions of the National Gallery of Art, the John F. Kennedy Center for the Performing Arts, and the Woodrow Wilson International Center for Scholars.
 
-(R.S. § 5580; Mar. 12, 1894, ch. 36, 28 Stat. 41; Pub. L. 91–551, § 1(a), Dec. 15, 1970, 84 Stat. 1439; Pub. L. 105–277, div. A, § 101(e) [title III, § 355], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303.)
+(R.S. § 5580; Mar. 12, 1894, ch. 36, 28 Stat. 41; Pub. L. 91–551, § 1(a), Dec. 15, 1970, 84 Stat. 1439; Pub. L. 105–277, div. A, § 101(e) [title III, § 355], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5580 derived from acts Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103; Jan. 10, 1865, ch. 11, 13 Stat. 420; Mar. 20, 1871, ch. 1, 17 Stat. 1.
+R.S. § 5580 derived from acts Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103; Jan. 10, 1865, ch. 11, 13 Stat. 420; Mar. 20, 1871, ch. 1, 17 Stat. 1.
 
 **Amendments**
 
@@ -131,73 +131,73 @@ R.S. § 5580 derived from acts Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103; Ja
 
 1894—Act Mar. 12, 1894, struck out “the governor of the District of Columbia” after “the Chief Justice of the United States,”.
 
-### § 43. Appointment of regents; terms of office; vacancies
+### § 43. Appointment of regents; terms of office; vacancies
 
 The regents to be selected shall be appointed as follows: The Members of the Senate by the President thereof; the Members of the House by the Speaker thereof; and the nine other persons by joint resolution of the Congress. The Members of the House so appointed shall serve for the term of two years; and on every alternate fourth Wednesday of December a like number shall be appointed in the same manner to serve until the fourth Wednesday in December, in the second year succeeding their appointment. The Senators so appointed shall serve during the term for which they shall hold, without re-election, their office as Senators. Vacancies, occasioned by death, resignation, or otherwise, shall be filled as vacancies in committees are filled. The regular term of service for the other nine members shall be six years; and new elections thereof shall be made by joint resolutions of Congress. Vacancies occasioned by death, resignation, or otherwise may be filled in like manner by joint resolution of Congress.
 
-(R.S. § 5581; Pub. L. 91–551, § 1(b), (c), Dec. 15, 1970, 84 Stat. 1440.)
+(R.S. § 5581; Pub. L. 91–551, § 1(b), (c), Dec. 15, 1970, 84 Stat. 1440.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5581 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.
+R.S. § 5581 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.
 
 **Amendments**
 
 1970—Pub. L. 91–551 authorized appointment of three additional members of the board by joint resolution of Congress.
 
-### § 44. Organization of board; expenses; gratuitous services
+### § 44. Organization of board; expenses; gratuitous services
 
 The Board of Regents shall meet in the city of Washington and elect one of their number as chancellor, who shall be the presiding officer of the Board of Regents, and called the chancellor of the Smithsonian Institution, and a suitable person as Secretary of the institution, who shall also be the secretary of the Board of Regents. The board shall also elect three of their own body as an executive committee, and shall fix the time for the regular meetings of the board; and, on application of any three of the regents to the Secretary of the institution, it shall be his duty to appoint a special meeting of the Board of Regents, of which he shall give notice, by letter, to each of the members; and, at any meeting of the board, eight shall constitute a quorum to do business. Each member of the board shall be paid his necessary traveling and other actual expenses, in attending meetings of the board, which shall be audited by the executive committee, and recorded by the Secretary of the board; but his service as regent shall be gratuitous.
 
-(R.S. § 5582; Pub. L. 91–551, § 1(d), Dec. 15, 1970, 84 Stat. 1440.)
+(R.S. § 5582; Pub. L. 91–551, § 1(d), Dec. 15, 1970, 84 Stat. 1440.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5582 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.
+R.S. § 5582 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.
 
 **Amendments**
 
 1970—Pub. L. 91–551 increased number of members required to constitute a quorum from five to eight.
 
-### § 45. Special meetings of members
+### § 45. Special meetings of members
 
 The members of the institution may hold stated and special meetings, for the supervision of the affairs of the institution and the advice and instruction of the Board of Regents, to be called in the manner provided for in the by-laws of the institution, at which the President, and in his absence the Vice President, shall preside.
 
-(R.S. § 5585.)
+(R.S. § 5585.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5585 derived from act Aug. 10, 1846, ch. 178, § 8, 9 Stat. 103.
+R.S. § 5585 derived from act Aug. 10, 1846, ch. 178, § 8, 9 Stat. 103.
 
-### § 46. Duties of Secretary
+### § 46. Duties of Secretary
 
 The Secretary of the Board of Regents shall take charge of the building and property of the institution, and shall, under their direction, make a fair and accurate record of all their proceedings, to be preserved in the institution until no longer needed in conducting current business; and shall also discharge the duties of librarian and of keeper of the museum, and may, with the consent of the Board of Regents, employ assistants.
 
-(R.S. § 5583; Oct. 25, 1951, ch. 562, § 2(4), 65 Stat. 639.)
+(R.S. § 5583; Oct. 25, 1951, ch. 562, § 2(4), 65 Stat. 639.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5583 derived from act Aug. 10, 1846, ch. 178, § 7, 9 Stat. 105.
+R.S. § 5583 derived from act Aug. 10, 1846, ch. 178, § 7, 9 Stat. 105.
 
 **Amendments**
 
 1951—Act Oct. 25, 1951, inserted “until no longer needed in conducting current business”.
 
-### § 46a. Employment of aliens by Secretary
+### § 46a. Employment of aliens by Secretary
 
 The Secretary of the Smithsonian Institution, subject to adequate security and other investigations as he may determine to be appropriate, and subject further to a prior determination by him that no qualified United States citizen is available for the particular position involved, is authorized to employ and compensate aliens in a scientific or technical capacity at authorized rates of compensation without regard to statutory provisions prohibiting payment of compensation to aliens.
 
 (Pub. L. 88–549, Aug. 31, 1964, 78 Stat. 754.)
 
-### § 47. Acting Secretary
+### § 47. Acting Secretary
 
 The chancellor of the Smithsonian Institution may, by an instrument in writing filed in the office of the Secretary thereof, designate and appoint a suitable person to act as Secretary of the Institution when there shall be a vacancy in said office, and whenever the Secretary shall be unable from illness, absence, or other cause to perform the duties of his office; and in such case the person so appointed may perform all the duties imposed on the Secretary by law until the vacancy shall be filled or such inability shall cease. The said chancellor may change such designation and appointment from time to time as the interests of the Institution may in his judgment require.
 
@@ -209,21 +209,21 @@ The chancellor of the Smithsonian Institution may, by an instrument in writing f
 
 Similar prior provisions were contained in act Jan. 24, 1879, ch. 21, 20 Stat. 264.
 
-### § 48. Salary and removal of Secretary and assistants
+### § 48. Salary and removal of Secretary and assistants
 
 The Secretary and his assistants shall, respectively, receive for their services such sum as may be allowed by the Board of Regents; and shall be removable by the Board of Regents whenever, in their judgment, the interests of the institution require such removal.
 
-(R.S. § 5584.)
+(R.S. § 5584.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5584 derived from act Aug. 10, 1846, ch. 178, § 7, 9 Stat. 105.
+R.S. § 5584 derived from act Aug. 10, 1846, ch. 178, § 7, 9 Stat. 105.
 
 Provisions which related to semi-annual payments on the first day of January and July have been omitted.
 
-### § 49. Omitted
+### § 49. Omitted
 
 **Editorial Notes**
 
@@ -231,23 +231,23 @@ Provisions which related to semi-annual payments on the first day of January and
 
 Section, act Oct. 2, 1888, ch. 1069, 25 Stat. 529, which required the Secretary of the Smithsonian Institution to submit to Congress annually a detailed statement of expenditures under appropriations for “International Exchanges,” “North American Ethnology,” and the “National Museum,”, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 192 of House Document No. 103–7.
 
-### § 50. Reception and arrangement of specimens and objects of art
+### § 50. Reception and arrangement of specimens and objects of art
 
 Whenever suitable arrangements can be made from time to time for their reception, all objects of art and of foreign and curious research, and all objects of natural history, plants, and geological and mineralogical specimens belonging to the United States, which may be in the city of Washington, in whosesoever custody they may be, shall be delivered to such persons as may be authorized by the Board of Regents to receive them, and shall be so arranged and classified in the building erected for the institution as best to facilitate the examination and study of them; and whenever new specimens in natural history, geology, or mineralogy are obtained for the museum of the institution, by exchanges of duplicate specimens, which the Regents may in their discretion make, or by donation, which they may receive, or otherwise, the Regents shall cause such new specimens to be appropriately classed and arranged. The minerals, books, manuscripts, and other property of James Smithson, which have been received by the Government of the United States, shall be preserved separate and apart from other property of the institution.
 
-(R.S. § 5586.)
+(R.S. § 5586.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5586 derived from act Aug. 10, 1846, ch. 178, § 6, 9 Stat. 105.
+R.S. § 5586 derived from act Aug. 10, 1846, ch. 178, § 6, 9 Stat. 105.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Laboratory Space, Gamboa, Panama**
 
-Pub. L. 111–11, title XV, § 15102, Mar. 30, 2009, 123 Stat. 1456, provided that:
+Pub. L. 111–11, title XV, § 15102, Mar. 30, 2009, 123 Stat. 1456, provided that:
 
 > **“(a) Authority To Construct.—** The Board of Regents of the Smithsonian Institution is authorized to construct laboratory space to accommodate the terrestrial research program of the Smithsonian tropical research institute in Gamboa, Panama.
 
@@ -255,7 +255,7 @@ Pub. L. 111–11, title XV, § 15102, Mar. 30, 2009, 123 Stat. 1456, provided 
 
 **Veritas Astrophysical Observatory Project; Authorization of Construction and Appropriations**
 
-Pub. L. 108–331, Oct. 16, 2004, 118 Stat. 1281, as amended by Pub. L. 110–341, § 1(2), Oct. 3, 2008, 122 Stat. 3738, provided that:
+Pub. L. 108–331, Oct. 16, 2004, 118 Stat. 1281, as amended by Pub. L. 110–341, § 1(2), Oct. 3, 2008, 122 Stat. 3738, provided that:
 
 > **“SECTION 1. AUTHORIZING BOARD OF REGENTS OF SMITHSONIAN INSTITUTION TO CARRY OUT CONSTRUCTION AND RELATED ACTIVITIES IN SUPPORT OF VERITAS ASTROPHYSICAL OBSERVATORY PROJECT.**
 
@@ -267,7 +267,7 @@ Pub. L. 108–331, Oct. 16, 2004, 118 Stat. 1281, as amended by Pub. L. 110–34
 
 **Collection and Preservation of Artifacts Relating to September 11th Attacks**
 
-Pub. L. 107–117, div. B, § 701, Jan. 10, 2002, 115 Stat. 2311, provided that:
+Pub. L. 107–117, div. B, § 701, Jan. 10, 2002, 115 Stat. 2311, provided that:
 
 > **“(a) In General.—** The Secretary of the Smithsonian Institution shall collect and preserve in the National Museum of American History artifacts relating to the September 11th attacks on the World Trade Center and the Pentagon.
 
@@ -297,7 +297,7 @@ Pub. L. 106–383, Oct. 27, 2000, 114 Stat. 1459, provided that:
 
 **Smithsonian Institution Transportation Program**
 
-Pub. L. 105–178, title I, § 1214(b), June 9, 1998, 112 Stat. 204, provided that:
+Pub. L. 105–178, title I, § 1214(b), June 9, 1998, 112 Stat. 204, provided that:
 
 > **“(1) In general.—** The Secretary [of Transportation] shall allocate amounts made available by this subsection for obligation at the discretion of the Secretary of the Smithsonian Institution, in consultation with the Secretary, to carry out projects and activities described in paragraph (2).
 
@@ -317,7 +317,7 @@ Pub. L. 105–178, title I, § 1214(b), June 9, 1998, 112 Stat. 204, provided 
 
 **National Health Museum**
 
-Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall and established the National Health Museum Commission and its duties, was repealed, except for section 702, by Pub. L. 107–303, title III, § 303, Nov. 27, 2002, 116 Stat. 2361. Section 702 of Pub. L. 105–78 amended section 1067 of Pub. L. 103–337, set out as a note under section 176 of Title 10, Armed Forces.
+Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall and established the National Health Museum Commission and its duties, was repealed, except for section 702, by Pub. L. 107–303, title III, § 303, Nov. 27, 2002, 116 Stat. 2361. Section 702 of Pub. L. 105–78 amended section 1067 of Pub. L. 103–337, set out as a note under section 176 of Title 10, Armed Forces.
 
 **West Court of National Museum of Natural History Building**
 
@@ -333,7 +333,7 @@ Pub. L. 103–151, Nov. 24, 1993, 107 Stat. 1515, provided that:
 
 **East Court of National Museum of Natural History Building**
 
-Pub. L. 101–455, Oct. 24, 1990, 104 Stat. 1067, as amended by Pub. L. 103–98, § 1(a), Oct. 6, 1993, 107 Stat. 1015, provided that:
+Pub. L. 101–455, Oct. 24, 1990, 104 Stat. 1067, as amended by Pub. L. 103–98, § 1(a), Oct. 6, 1993, 107 Stat. 1015, provided that:
 
 > **“SECTION 1. ADDITIONAL SPACE IN NATIONAL MUSEUM OF NATURAL HISTORY.**
 
@@ -347,13 +347,13 @@ Pub. L. 101–455, Oct. 24, 1990, 104 Stat. 1067, as amended by Pub. L. 103–98
 
 **Charles McC. Mathias, Jr. Laboratory for Environmental Research**
 
-Pub. L. 111–11, title XV, § 15101, Mar. 30, 2009, 123 Stat. 1456, provided that:
+Pub. L. 111–11, title XV, § 15101, Mar. 30, 2009, 123 Stat. 1456, provided that:
 
 > **“(a) Authority To Design and Construct.—** The Board of Regents of the Smithsonian Institution is authorized to design and construct laboratory and support space to accommodate the Mathias Laboratory at the Smithsonian Environmental Research Center in Edgewater, Maryland.
 
 > **“(b) Authorization of Appropriations.—** There is authorized to be appropriated to carry out this section a total of $41,000,000 for fiscal years 2009 through 2011. Such sums shall remain available until expended.”
 
-Pub. L. 99–617, § 1, Nov. 6, 1986, 100 Stat. 3488, provided that:
+Pub. L. 99–617, § 1, Nov. 6, 1986, 100 Stat. 3488, provided that:
 
 > **“(a) Construction Authorization.—** The Board of Regents of the Smithsonian Institution is authorized to construct the Charles McC. Mathias, Jr. Laboratory for Environmental Research.
 
@@ -421,13 +421,13 @@ Pub. L. 96–36, July 20, 1979, 93 Stat. 94, provided:
 
 **Smithsonian Institution Plans for and Construction of Museum Support Facilities; Approval of Plans and Specifications; Situs; Transfer of Land; Appropriations; Contracts by General Services Administration**
 
-Pub. L. 111–11, title XV, § 15103, Mar. 30, 2009, 123 Stat. 1456, provided that:
+Pub. L. 111–11, title XV, § 15103, Mar. 30, 2009, 123 Stat. 1456, provided that:
 
 > **“(a) In General.—** The Board of Regents of the Smithsonian Institution is authorized to construct a greenhouse facility at its museum support facility in Suitland, Maryland, to maintain the horticultural operations of, and preserve the orchid collection held in trust by, the Smithsonian Institution.
 
 > **“(b) Authorization of Appropriations.—** There is authorized to be appropriated $12,000,000 to carry out this section. Such sums shall remain available until expended.”
 
-Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444; Pub. L. 108–72, § 2, Aug. 15, 2003, 117 Stat. 888, provided that:
+Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444; Pub. L. 108–72, § 2, Aug. 15, 2003, 117 Stat. 888, provided that:
 
 > “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilities authorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
 
@@ -457,7 +457,7 @@ Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, N
 
 **National Museum**
 
-The National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in act June 20, 1874, ch. 328, § 1, 18 Stat. 103. An appropriation for a building for the use of the National Museum was made by act Mar. 3, 1879, ch. 182, § 1, 20 Stat. 397, and annual appropriations have continuously been made for expenses of heating, etc., such building.
+The National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in act June 20, 1874, ch. 328, § 1, 18 Stat. 103. An appropriation for a building for the use of the National Museum was made by act Mar. 3, 1879, ch. 182, § 1, 20 Stat. 397, and annual appropriations have continuously been made for expenses of heating, etc., such building.
 
 **National Museum Exhibit**
 
@@ -467,121 +467,121 @@ Res. Feb. 28, 1922, ch. 86, 42 Stat. 399, authorized Secretary of State to trans
 
 Quartermaster-General and his officers were required to receive and transport property for National Museum by a provision of act July 5, 1884, ch. 217, 23 Stat. 107.
 
-### § 50a. Gellatly art collection; estimates of sums needed for preservation and maintenance
+### § 50a. Gellatly art collection; estimates of sums needed for preservation and maintenance
 
 The Smithsonian Institution is authorized to include in its estimates of appropriations such sums as may be needful for the preservation and maintenance of the John Gellatly art collection.
 
 (June 5, 1929, ch. 9, 46 Stat. 5.)
 
-### § 51. Library
+### § 51. Library
 
 The Regents shall make, from the interest of the fund, an appropriation, not exceeding an average of $25,000 annually, for the gradual formation of a library composed of valuable works pertaining to all departments of human knowledge.
 
-(R.S. § 5587.)
+(R.S. § 5587.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5587 derived from act Aug. 10, 1846, ch. 178, § 8, 9 Stat. 105.
+R.S. § 5587 derived from act Aug. 10, 1846, ch. 178, § 8, 9 Stat. 105.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Public Use of Research and Study Facilities of Certain Institutions**
 
-Under provisions of R.S. § 94 and act Mar. 3, 1875, ch. 179, 18 Stat. 512, the Joint Committee on the Library of Congress was authorized to extend the use of the Library to the Regents of the Smithsonian Institution. These provisions were not classified to the Code, being rendered superfluous by a general declaration of public policy by Congress, by a joint resolution adopted Apr. 12, 1892, 27 Stat. 395, to the effect that facilities for study and research in the Library of Congress, the National Museum, and similar institutions shall be afforded investigators, students, etc., in the several states and territories as well as in the District of Columbia.
+Under provisions of R.S. § 94 and act Mar. 3, 1875, ch. 179, 18 Stat. 512, the Joint Committee on the Library of Congress was authorized to extend the use of the Library to the Regents of the Smithsonian Institution. These provisions were not classified to the Code, being rendered superfluous by a general declaration of public policy by Congress, by a joint resolution adopted Apr. 12, 1892, 27 Stat. 395, to the effect that facilities for study and research in the Library of Congress, the National Museum, and similar institutions shall be afforded investigators, students, etc., in the several states and territories as well as in the District of Columbia.
 
-### § 52. Evidence of title to site and buildings
+### § 52. Evidence of title to site and buildings
 
 The site and lands selected for buildings for the Smithsonian Institution shall be deemed appropriated to the institution, and the record of the description of such site and lands, or a copy thereof, certified by the chancellor and Secretary of the Board of Regents, shall be received as evidence in all courts of the extent and boundaries of the lands appropriated to the institution.
 
-(R.S. § 5588.)
+(R.S. § 5588.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5588 derived from act Aug. 10, 1846, ch. 178, § 4, 9 Stat. 104.
+R.S. § 5588 derived from act Aug. 10, 1846, ch. 178, § 4, 9 Stat. 104.
 
-### § 53. Protection of property
+### § 53. Protection of property
 
 All laws for the protection of public property in the city of Washington shall apply to, and be in force for, the protection of the lands, buildings, and other property of the Smithsonian Institution. All moneys recovered by or accruing to, the institution shall be paid into the Treasury of the United States, to the credit of the Smithsonian bequest, and separately accounted for.
 
-(R.S. § 5589.)
+(R.S. § 5589.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5589 derived from act Aug. 10, 1846, ch. 178, § 5, 9 Stat. 104.
+R.S. § 5589 derived from act Aug. 10, 1846, ch. 178, § 5, 9 Stat. 104.
 
-### § 53a. Authorization of appropriations
+### § 53a. Authorization of appropriations
 
 Appropriations are authorized for the maintenance of the Astrophysical Observatory and the making of solar observations at high altitudes; for repairs and alterations of buildings and grounds occupied by the Smithsonian Institution in the District of Columbia and elsewhere; and for preparation of manuscripts, drawings, and illustrations for publications.
 
-(Aug. 22, 1949, ch. 494, § 2, 63 Stat. 623.)
+(Aug. 22, 1949, ch. 494, § 2, 63 Stat. 623.)
 
-### § 54. Appropriation of interest
+### § 54. Appropriation of interest
 
 So much of the property of James Smithson as has been received in money, and paid into the Treasury of the United States, being the sum of $541,379.63, shall be lent to the United States Treasury and invested in public debt securities with maturities requested by the Smithsonian Institution bearing interest at rates determined by the Secretary of the Treasury, based upon current market yields on outstanding marketable obligations of the United States of comparable maturities, and this interest is hereby appropriated for the perpetual maintenance and support of the Smithsonian Institution; and all expenditures and appropriations to be made, from time to time, to the purposes of the Institution shall be exclusively from the accruing interest, and not from the principal of the fund. All the moneys and stocks which have been, or may hereafter be, received into the Treasury of the United States, on account of the fund bequeathed by James Smithson, are hereby pledged to refund to the Treasury of the United States the sums hereby appropriated.
 
-(R.S. § 5590; Pub. L. 97–199, § 1, June 22, 1982, 96 Stat. 121.)
+(R.S. § 5590; Pub. L. 97–199, § 1, June 22, 1982, 96 Stat. 121.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5590 derived from acts Aug. 10, 1846, ch. 178, § 2, 9 Stat. 102; Feb. 5, 1867, ch. 34, § 2, 14 Stat. 391.
+R.S. § 5590 derived from acts Aug. 10, 1846, ch. 178, § 2, 9 Stat. 102; Feb. 5, 1867, ch. 34, § 2, 14 Stat. 391.
 
 **Amendments**
 
-1982—Pub. L. 97–199 substituted “and invested in public debt securities with maturities requested by the Smithsonian Institution bearing interest at rates determined by the Secretary of the Treasury, based upon current market yields on outstanding marketable obligations of the United States of comparable maturities, and this interest is hereby” for “, at 6 per centum per annum interest; and 6 per centum interest on the trust-fund and residuary legacy received into the United States Treasury, payable in half-yearly payments, on the first of January and July in each year, is”, substituted “purposes of the Institution” for “purposes of the institution”, and substituted “are hereby pledged” for “are pledged”.
+1982—Pub. L. 97–199 substituted “and invested in public debt securities with maturities requested by the Smithsonian Institution bearing interest at rates determined by the Secretary of the Treasury, based upon current market yields on outstanding marketable obligations of the United States of comparable maturities, and this interest is hereby” for “, at 6 per centum per annum interest; and 6 per centum interest on the trust-fund and residuary legacy received into the United States Treasury, payable in half-yearly payments, on the first of January and July in each year, is”, substituted “purposes of the Institution” for “purposes of the institution”, and substituted “are hereby pledged” for “are pledged”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–199, § 2, June 22, 1982, 96 Stat. 121, provided that: “The amendment made by the first section [amending this section] shall apply with respect to fiscal years beginning after September 30, 1982.”
+Pub. L. 97–199, § 2, June 22, 1982, 96 Stat. 121, provided that: “The amendment made by the first section [amending this section] shall apply with respect to fiscal years beginning after September 30, 1982.”
 
-### § 55. Acceptance of other sums
+### § 55. Acceptance of other sums
 
 The Secretary of the Treasury is authorized and directed to receive into the Treasury, on the same terms as the original bequest of James Smithson, such sums as the Regents may, from time to time, see fit to deposit, not exceeding, with the original bequest, the sum of $1,000,000. This shall not operate as a limitation on the power of the Smithsonian Institution to receive money or other property by gift, bequest, or devise, and to hold and dispose of the same in promotion of the purposes thereof.
 
-(R.S. § 5591; Mar. 12, 1894, ch. 36, 28 Stat. 41.)
+(R.S. § 5591; Mar. 12, 1894, ch. 36, 28 Stat. 41.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5591 derived from act Feb. 5, 1867, ch. 34, § 1, 14 Stat. 391.
+R.S. § 5591 derived from act Feb. 5, 1867, ch. 34, § 1, 14 Stat. 391.
 
 **Amendments**
 
 1894—Act Mar. 12, 1894, made limitation on deposits into the Treasury inapplicable to receipt of gifts, bequests and devises and dispositions of money or other property.
 
-### § 56. Disposal of unappropriated money
+### § 56. Disposal of unappropriated money
 
 The Regents are authorized to make such disposal of any other moneys which have accrued, or shall hereafter accrue, as interest upon the Smithsonian fund, not herein appropriated, or not required for the purposes herein provided, as they shall deem best suited for the promotion of the purpose of the testator.
 
-(R.S. § 5592.)
+(R.S. § 5592.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5592 derived from act Aug. 10, 1846, ch. 178, § 9, 9 Stat. 105.
+R.S. § 5592 derived from act Aug. 10, 1846, ch. 178, § 9, 9 Stat. 105.
 
-### § 57. Disbursements
+### § 57. Disbursements
 
 Whenever money is required for the payment of the debts or performance of the contracts of the institution, incurred or entered into in conformity with the provisions of sections 41 to 46, 48, 50, 51 to 53, 54 to 57, and 67 of this title, or for making the purchases and executing the objects authorized by said sections, the Board of Regents, or the executive committee thereof, may certify to the chancellor and secretary of the board that such sum of money is required, whereupon they shall examine the same, and, if they shall approve thereof, shall certify the same to the proper officer of the Treasury for payment. The board shall submit to Congress, at each session thereof, a report of the operations, expenditures, and condition of the institution.
 
-(R.S. § 5593.)
+(R.S. § 5593.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5593 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.
+R.S. § 5593 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -589,19 +589,19 @@ R.S. § 5593 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.
 
 For termination, effective May 15, 2000, of provisions in this section relating to submitting a report to Congress at each session of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 192 of House Document No. 103–7.
 
-### § 58. Omitted
+### § 58. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Mar. 3, 1899, ch. 424, § 1, 30 Stat. 1085, which required that the salaries of officers and employees paid from appropriations under the Smithsonian Institution be reported to Congress annually, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 192 of House Document No. 103–7.
+Section, act Mar. 3, 1899, ch. 424, § 1, 30 Stat. 1085, which required that the salaries of officers and employees paid from appropriations under the Smithsonian Institution be reported to Congress annually, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 192 of House Document No. 103–7.
 
-### § 59. Collections of National Ocean Survey, United States Geological Survey, and others deposited in National Museum
+### § 59. Collections of National Ocean Survey, United States Geological Survey, and others deposited in National Museum
 
 All collections of rocks, minerals, soils, fossils, and objects of natural history, archaeology, and ethnology, made by the National Ocean Survey, the United States Geological Survey, or by any other parties for the Government of the United States, when no longer needed for investigations in progress shall be deposited in the National Museum.
 
-(Mar. 3, 1879, ch. 182, § 1, 20 Stat. 394; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
+(Mar. 3, 1879, ch. 182, § 1, 20 Stat. 394; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
 **Editorial Notes**
 
@@ -621,7 +621,7 @@ Establishment of the National Museum, see note set out under section 50 of this 
 
 **National Museum of American History**
 
-Pub. L. 96–441, § 2, Oct. 13, 1980, 94 Stat. 1884, provided that: “The bureau of the Smithsonian Institution known as the Museum of History and Technology and so referred to in the Act entitled ‘An Act to authorize the construction of a building for a Museum of History and Technology for the Smithsonian Institution, including the preparation of plans and specifications, and all other work incidental thereto’, approved June 28, 1955 (20 U.S.C. 59 note), shall be known as the ‘National Museum of American History’.”
+Pub. L. 96–441, § 2, Oct. 13, 1980, 94 Stat. 1884, provided that: “The bureau of the Smithsonian Institution known as the Museum of History and Technology and so referred to in the Act entitled ‘An Act to authorize the construction of a building for a Museum of History and Technology for the Smithsonian Institution, including the preparation of plans and specifications, and all other work incidental thereto’, approved June 28, 1955 (20 U.S.C. 59 note), shall be known as the ‘National Museum of American History’.”
 
 For provision deeming references to the Museum of History and Technology in laws and regulations to be references to the National Museum of American History, see section of 3 of Pub. L. 96–441, set out as a note under section 71 of this title.
 
@@ -635,11 +635,11 @@ Act June 28, 1955, ch. 201, 69 Stat. 189, authorized construction of a building 
 
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.
 
-### § 60. Army articles furnished to National Museum
+### § 60. Army articles furnished to National Museum
 
 The Secretary of the Army is authorized to furnish to the National Museum, for exhibition, upon request therefor by the administrative head thereof, such articles of arms, materiel, equipment, or clothing as have been issued from time to time to the United States Army, or which have been or may hereafter be produced for the United States Army, and which are objects of general interest or of foreign or curious research, provided that such articles can be spared.
 
-(Mar. 4, 1921, ch. 166, § 1, 41 Stat. 1438; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Oct. 31, 1951, ch. 654, § 3(4), 65 Stat. 708.)
+(Mar. 4, 1921, ch. 166, § 1, 41 Stat. 1438; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Oct. 31, 1951, ch. 654, § 3(4), 65 Stat. 708.)
 
 **Editorial Notes**
 
@@ -657,23 +657,23 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Secretary of Air Force**
 
-For transfer of certain personal property and personal property functions, insofar as they pertain to the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order No. 39 [§ 2vv], eff. May 18, 1949.
+For transfer of certain personal property and personal property functions, insofar as they pertain to the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order No. 39 [§ 2vv], eff. May 18, 1949.
 
-### §§ 61 to 64. Repealed. Oct. 31, 1951, ch. 654, § 1(37)–(40), 65 Stat. 702
+### §§ 61 to 64. Repealed. Oct. 31, 1951, ch. 654, § 1(37)–(40), 65 Stat. 702
 
-Section 61, act Mar. 3, 1879, ch. 182, § 1, 20 Stat. 397, required archives, records and materials relating to Indians of North America to be turned over from Geographical and Geological Survey to Smithsonian Institution for purposes of completion of collection of information and its publication.
+Section 61, act Mar. 3, 1879, ch. 182, § 1, 20 Stat. 397, required archives, records and materials relating to Indians of North America to be turned over from Geographical and Geological Survey to Smithsonian Institution for purposes of completion of collection of information and its publication.
 
-Section 62, act Aug. 1, 1914, ch. 223, § 1, 38 Stat. 661, authorized Secretary of Commerce to transfer instruments of historical value of the Coast and Geodetic Survey [the National Ocean Survey] to Smithsonian Institution.
+Section 62, act Aug. 1, 1914, ch. 223, § 1, 38 Stat. 661, authorized Secretary of Commerce to transfer instruments of historical value of the Coast and Geodetic Survey [the National Ocean Survey] to Smithsonian Institution.
 
-Section 63, act June 5, 1920, ch. 235, § 1, 41 Stat. 930, related to transfer, by Secretary of Commerce, of Coast and Geodetic Survey [the National Ocean Survey] instruments of historical value, to educational institutions and museums.
+Section 63, act June 5, 1920, ch. 235, § 1, 41 Stat. 930, related to transfer, by Secretary of Commerce, of Coast and Geodetic Survey [the National Ocean Survey] instruments of historical value, to educational institutions and museums.
 
 Section 64, act Mar. 3, 1883, ch. 143, 22 Stat. 629, related to distribution of specimens of National Museum and Bureau of Fisheries to schools and colleges.
 
-### § 65. Repealed. Pub. L. 89–674, § 3, Oct. 15, 1966, 80 Stat. 953
+### § 65. Repealed. Pub. L. 89–674, § 3, Oct. 15, 1966, 80 Stat. 953
 
 Section, act July 7, 1884, ch. 332, 23 Stat. 214, required Director of National Museum to report annually to Congress on progress of the Museum during the year and its present condition. See section 65a of this title.
 
-### § 65a. Director of the National Museum
+### § 65a. Director of the National Museum
 
 **(a) Duties; programs and studies; annual report to Congress** The Director of the National Museum under the direction of the Secretary of the Smithsonian Institution shall—
 
@@ -693,7 +693,7 @@ Section, act July 7, 1884, ch. 332, 23 Stat. 214, required Director of National 
 
 There are hereby authorized to be appropriated to the Smithsonian Institution for the fiscal year 1981, the sum of $803,000, and for the fiscal year 1982, the sum of $1,000,000.
 
-(Pub. L. 89–674, § 2, Oct. 15, 1966, 80 Stat. 953; Pub. L. 91–629, §§ 1, 2 Dec. 31, 1970, 84 Stat. 1875; Pub. L. 93–345, §§ 1, 2, July 12, 1974, 88 Stat. 339; Pub. L. 94–336, July 1, 1976, 90 Stat. 795; Pub. L. 96–268, June 13, 1980, 94 Stat. 485.)
+(Pub. L. 89–674, § 2, Oct. 15, 1966, 80 Stat. 953; Pub. L. 91–629, §§ 1, 2 Dec. 31, 1970, 84 Stat. 1875; Pub. L. 93–345, §§ 1, 2, July 12, 1974, 88 Stat. 339; Pub. L. 94–336, July 1, 1976, 90 Stat. 795; Pub. L. 96–268, June 13, 1980, 94 Stat. 485.)
 
 **Editorial Notes**
 
@@ -703,13 +703,13 @@ There are hereby authorized to be appropriated to the Smithsonian Institution fo
 
 1976—Subsec. (b). Pub. L. 94–336 substituted provisions authorizing the appropriation of $1,000,000 each year for fiscal years 1978, 1979, and 1980, for provisions under which there had been authorized to be appropriated whatever sums as might be necessary to carry out the purposes of the section, with a proviso that no more than $1,000,000 could be appropriated annually through fiscal year 1977, of which no less than $200,000, was to be allocated and used to carry out subsec. (a)(4) of this section.
 
-1974—Subsec. (a)(4). Pub. L. 93–345, § 1, inserted “, with emphasis on museum conservation and the development of a national institute for museum conservation” after “museum techniques”.
+1974—Subsec. (a)(4). Pub. L. 93–345, § 1, inserted “, with emphasis on museum conservation and the development of a national institute for museum conservation” after “museum techniques”.
 
-Subsec. (b). Pub. L. 93–345, § 2, substituted provisions limiting to $1,000,000 the amount which may be appropriated annually through fiscal year 1977, with no less than $200,000 annually to be allocated and used to carry out the purposes of subsection (a)(4) of this section for provisions limiting to $1,000,000 the amount which could be appropriated annually through fiscal year 1974, of which $300,000 annually had to be allocated and used according to the formula of 33⅓ per centum for purposes of subsec. (a)(2), 33⅓ per centum for assistance to museums under section 954(c) of this title, and 33⅓ per centum for assistance to museums under section 956(c) of this title.
+Subsec. (b). Pub. L. 93–345, § 2, substituted provisions limiting to $1,000,000 the amount which may be appropriated annually through fiscal year 1977, with no less than $200,000 annually to be allocated and used to carry out the purposes of subsection (a)(4) of this section for provisions limiting to $1,000,000 the amount which could be appropriated annually through fiscal year 1974, of which $300,000 annually had to be allocated and used according to the formula of 33⅓ per centum for purposes of subsec. (a)(2), 33⅓ per centum for assistance to museums under section 954(c) of this title, and 33⅓ per centum for assistance to museums under section 956(c) of this title.
 
-1970—Subsec. (a)(2). Pub. L. 91–629, § 2, inserted provisions that programs be prepared and carried out by grant, contract, or directly and which authorized the training of career employees in museum practices in cooperation with institutions of higher education, and substituted provisions which authorized training programs to be conducted either at the Smithsonian Institution, or at the cooperating museum, organization, or institutions, for provisions which authorized such programs to be conducted at the best locations.
+1970—Subsec. (a)(2). Pub. L. 91–629, § 2, inserted provisions that programs be prepared and carried out by grant, contract, or directly and which authorized the training of career employees in museum practices in cooperation with institutions of higher education, and substituted provisions which authorized training programs to be conducted either at the Smithsonian Institution, or at the cooperating museum, organization, or institutions, for provisions which authorized such programs to be conducted at the best locations.
 
-Subsec. (b). Pub. L. 91–629, § 1, substituted provisions which authorized to be appropriated such sums as necessary to carry out the purposes of this section, with no more than $1,000,000 to be appropriated annually through fiscal year 1974, of which $300,000, annually, to be allocated in the enumerated manner, for provisions which authorized to be appropriated to carry out this section, not to exceed $200,000 for the fiscal year ending June 30, 1968, $250,000 for the fiscal years ending June 30, 1969, and June 30, 1970, and $300,000 for the fiscal year ending June 30, 1971, and in each subsequent fiscal year, only such sums as the Congress hereafter authorizes by law.
+Subsec. (b). Pub. L. 91–629, § 1, substituted provisions which authorized to be appropriated such sums as necessary to carry out the purposes of this section, with no more than $1,000,000 to be appropriated annually through fiscal year 1974, of which $300,000, annually, to be allocated in the enumerated manner, for provisions which authorized to be appropriated to carry out this section, not to exceed $200,000 for the fiscal year ending June 30, 1968, $250,000 for the fiscal years ending June 30, 1969, and June 30, 1970, and $300,000 for the fiscal year ending June 30, 1971, and in each subsequent fiscal year, only such sums as the Congress hereafter authorizes by law.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -717,31 +717,31 @@ Subsec. (b). Pub. L. 91–629, § 1, substituted provisions which authorized t
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (a)(6) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 192 of House Document No. 103–7.
 
-### § 66. Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(19), 63 Stat. 400, eff. July 1, 1949; renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583
+### § 66. Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(19), 63 Stat. 400, eff. July 1, 1949; renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583
 
-Section, act Mar. 3, 1915, ch. 75, § 1, 38 Stat. 839, related to exchange of typewriters and adding machines.
+Section, act Mar. 3, 1915, ch. 75, § 1, 38 Stat. 839, related to exchange of typewriters and adding machines.
 
-### § 67. Right of repeal
+### § 67. Right of repeal
 
 Congress may alter, amend, add to, or repeal any of the provisions of sections 41 to 46, 48, 50, 51 to 53, and 54 to 57, of this title; but no contract or individual right made or acquired under such provisions shall be thereby divested or impaired.
 
-(R.S. § 5594.)
+(R.S. § 5594.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5594 derived from act Aug. 10, 1846, ch. 178, § 11, 9 Stat. 106.
+R.S. § 5594 derived from act Aug. 10, 1846, ch. 178, § 11, 9 Stat. 106.
 
-### § 68. Repealed. Oct. 10, 1940, ch. 851, § 4, 54 Stat. 1111
+### § 68. Repealed. Oct. 10, 1940, ch. 851, § 4, 54 Stat. 1111
 
-Section, act Feb. 11, 1927, ch. 104, § 1, 44 Stat. 1081, related to advertisements for proposals for purchases and services.
+Section, act Feb. 11, 1927, ch. 104, § 1, 44 Stat. 1081, related to advertisements for proposals for purchases and services.
 
-### § 69. Anthropological researches; cooperation of Institution with States, educational institutions, or scientific organizations
+### § 69. Anthropological researches; cooperation of Institution with States, educational institutions, or scientific organizations
 
 The Secretary of the Smithsonian Institution is hereby authorized to cooperate with any State, educational institution, or scientific organization in the United States to continue independently or in cooperation anthropological researches among the American Indians and the natives of lands under the jurisdiction or protection of the United States and the excavation and preservation of archaeological remains.
 
-(Apr. 10, 1928, ch. 335, § 1, 45 Stat. 413; Aug. 22, 1949, ch. 494, § 1, 63 Stat. 623.)
+(Apr. 10, 1928, ch. 335, § 1, 45 Stat. 413; Aug. 22, 1949, ch. 494, § 1, 63 Stat. 623.)
 
 **Editorial Notes**
 
@@ -749,19 +749,19 @@ The Secretary of the Smithsonian Institution is hereby authorized to cooperate w
 
 1949—Act Aug. 22, 1949, substituted “to continue independently or in cooperation anthropological” for “for continuing ethnological” and inserted “and the natives of lands under the jurisdiction or protection of the United States”.
 
-### § 70. Authorization of appropriations; cooperative work
+### § 70. Authorization of appropriations; cooperative work
 
 There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, the sum of $20,000, which shall be available until expended for the purposes stated in section 69 of this title: *Provided*, That at such time as the Smithsonian Institution is satisfied that any State, educational institution, or scientific organization in any of the United States is prepared to contribute to such investigation and when, in its judgment such investigation shall appear meritorious, the Secretary of the Smithsonian Institution may direct that an amount from this sum equal to that contributed by such State, educational institution, or scientific organization, not to exceed $2,000, to be expended from such sum in any one State during any calendar year, be made available for cooperative investigation: *Provided further*, That all such cooperative work and division of the result thereof shall be under the direction of the Secretary of the Smithsonian Institution: *Provided further*, That where lands are involved which are under the jurisdiction of the Bureau of Indian Affairs or the National Park Service, cooperative work thereon shall be under such regulations and conditions as the Secretary of the Interior may provide.
 
-(Apr. 10, 1928, ch. 335, § 2, 45 Stat. 413.)
+(Apr. 10, 1928, ch. 335, § 2, 45 Stat. 413.)
 
 ## SUBCHAPTER II—NATIONAL GALLERY OF ART
 
-### § 71. Designation of site
+### § 71. Designation of site
 
 The area bounded by Seventh Street, Constitution Avenue, Fourth Street, and North Mall Drive, Northwest, in the District of Columbia, is appropriated to the Smithsonian Institution as a site for a National Gallery of Art. The Smithsonian Institution is authorized to permit the A. W. Mellon Educational and Charitable Trust (hereinafter referred to as the donor) to construct on said site for the Smithsonian Institution a building to be designated the National Gallery of Art, and to remove any existing structure and landscape the grounds within said area. The adjoining area bounded by Fourth Street, Pennsylvania Avenue, Third Street, and North Mall Drive, Northwest, in the District of Columbia, is reserved as a site for future additions to the National Gallery of Art. The project shall be in accordance with plans and specifications approved by the Commission of Fine Arts.
 
-(Mar. 24, 1937, ch. 50, § 1, 50 Stat. 51.)
+(Mar. 24, 1937, ch. 50, § 1, 50 Stat. 51.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -781,7 +781,7 @@ Pub. L. 106–385, Oct. 27, 2000, 114 Stat. 1463, provided that:
 
 > shall take effect on the day after the date of enactment of this Act [Oct. 27, 2000].”
 
-Pub. L. 96–441, §§ 1, 3, 4, Oct. 13, 1980, 94 Stat. 1884, provided:
+Pub. L. 96–441, §§ 1, 3, 4, Oct. 13, 1980, 94 Stat. 1884, provided:
 
 > “That the bureau of the Smithsonian Institution designated as the National Collection of Fine Arts by section 6(c) of the joint resolution entitled ‘Joint Resolution providing for the construction and maintenance of a National Gallery of Art’, approved March 24, 1937 (20 U.S.C. 71 note), shall be known as the ‘National Museum of American Art’.
 
@@ -815,11 +815,11 @@ Pub. L. 98–523, Oct. 19, 1984, 98 Stat. 2433, provided:
 
 > There is authorized to be appropriated to the Board of Regents of the Smithsonian Institution $40,000,000 for fiscal years beginning after September 30, 1984, for renovation and repair, after the transfer made under the first section of this Act, of the General Post Office Building referred to in such section. Any portion of the sums appropriated under this section may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such renovation and repair. No contract for such renovation or repair shall be advertised or entered into before the end of the period of thirty days of continuous session of Congress beginning on the date the Smithsonian Institution submits to the Committees on Public Works and Transportation and House Administration of the House of Representatives and the Committees on Environment and Public Works and Rules and Administration of the Senate the plans and advanced engineering and design for such renovation and repair. For purposes of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of any period of time in which Congress is in continuous session.”
 
-### § 71a. Additions; payment of construction costs from trust funds
+### § 71a. Additions; payment of construction costs from trust funds
 
 The Trustees of the National Gallery of Art are authorized to construct within the area reserved as a site for future additions by the third sentence of section 71 of this title one or more buildings to serve as additions to the National Gallery of Art. The cost of constructing any such building shall be paid from trust funds administered by such Trustees. The plans and specifications for any such building shall be approved by the Commission of Fine Arts and the National Capital Planning Commission.
 
-(Pub. L. 90–376, § 1, July 5, 1968, 82 Stat. 286.)
+(Pub. L. 90–376, § 1, July 5, 1968, 82 Stat. 286.)
 
 **Editorial Notes**
 
@@ -831,17 +831,17 @@ Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which
 
 **Transfer of Jurisdiction**
 
-Pub. L. 90–376, § 4, July 5, 1968, 82 Stat. 286, provided that: “The Commissioner [Mayor] of the District of Columbia is authorized to transfer to the United States such jurisdiction as the District of Columbia may have over any of the property within the area referred to in the first section of this Act [this section].”
+Pub. L. 90–376, § 4, July 5, 1968, 82 Stat. 286, provided that: “The Commissioner [Mayor] of the District of Columbia is authorized to transfer to the United States such jurisdiction as the District of Columbia may have over any of the property within the area referred to in the first section of this Act [this section].”
 
 **Public Utility: Payment of Cost of Relocation or Protection From Trust Funds**
 
-Pub. L. 90–376, § 5, July 5, 1968, 82 Stat. 286, provided that: “If any public utility (whether privately or publicly owned) located within the area referred to in the first section of this Act [this section] is required to be relocated or protected by reason of the construction within such area of any addition to the National Gallery of Art, the cost of such relocation or protection shall be paid from trust funds administered by the Trustees of the National Gallery of Art.”
+Pub. L. 90–376, § 5, July 5, 1968, 82 Stat. 286, provided that: “If any public utility (whether privately or publicly owned) located within the area referred to in the first section of this Act [this section] is required to be relocated or protected by reason of the construction within such area of any addition to the National Gallery of Art, the cost of such relocation or protection shall be paid from trust funds administered by the Trustees of the National Gallery of Art.”
 
-### § 71b. Status of completed addition
+### § 71b. Status of completed addition
 
 Any building constructed under authority of section 71a of this title shall, upon completion, be a part of the National Gallery of Art.
 
-(Pub. L. 90–376, § 2, July 5, 1968, 82 Stat. 286.)
+(Pub. L. 90–376, § 2, July 5, 1968, 82 Stat. 286.)
 
 **Editorial Notes**
 
@@ -849,7 +849,7 @@ Any building constructed under authority of section 71a of this title shall, upo
 
 Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which comprises this subchapter.
 
-### § 72. Board of Trustees
+### § 72. Board of Trustees
 
 **(a) Establishment**
 
@@ -859,23 +859,23 @@ There is established in the Smithsonian Institution a bureau, which shall be dir
 
 The general trustees first taking office shall be chosen by the Board of Regents of the Smithsonian Institution, subject to the approval of the donor, and shall have terms expiring one each on July 1 of 1939, 1941, 1943, 1945, and 1947, as designated by the Board of Regents. A successor shall be chosen by a majority vote of the general trustees and shall have a term expiring ten years from the date of the expiration of the term for which his predecessor was chosen, except that a successor chosen to fill a vacancy occurring prior to the expiration of such term shall be chosen only for the remainder of such term.
 
-(Mar. 24, 1937, ch. 50, § 2, 50 Stat. 52.)
+(Mar. 24, 1937, ch. 50, § 2, 50 Stat. 52.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Delegation of Functions by Secretary of State to Director of United States Information Agency**
 
-Pub. L. 95–426, title II, § 205, Oct. 7, 1978, 92 Stat. 975, as amended by Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291, provided that: “The Secretary of State may delegate to the Director of the United States Information Agency, with the consent of the Director, the functions vested in the Secretary by section 2(a) of the joint resolution entitled ‘Joint Resolution providing for the construction and maintenance of a National Gallery of Art’, approved March 24, 1937 (20 U.S.C. 72(a)).”
+Pub. L. 95–426, title II, § 205, Oct. 7, 1978, 92 Stat. 975, as amended by Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291, provided that: “The Secretary of State may delegate to the Director of the United States Information Agency, with the consent of the Director, the functions vested in the Secretary by section 2(a) of the joint resolution entitled ‘Joint Resolution providing for the construction and maintenance of a National Gallery of Art’, approved March 24, 1937 (20 U.S.C. 72(a)).”
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.]
 
-### § 73. Acceptance of gift from A. W. Mellon
+### § 73. Acceptance of gift from A. W. Mellon
 
 Upon completion of the National Gallery of Art, the board shall accept for the Smithsonian Institution as a gift from the donor a collection of works of art which shall be housed and exhibited in the National Gallery of Art.
 
-(Mar. 24, 1937, ch. 50, § 3, 50 Stat. 52.)
+(Mar. 24, 1937, ch. 50, § 3, 50 Stat. 52.)
 
-### § 74. Maintenance
+### § 74. Maintenance
 
 **(a) Pledge of funds for upkeep; authorization of appropriations**
 
@@ -893,13 +893,13 @@ The board shall appoint and fix the compensation and duties of a director, an as
 
 The actions of the board, including any payment made or directed to be made by it from any trust funds, shall not be subject to review by any officer or agency other than a court of law.
 
-(Mar. 24, 1937, ch. 50, § 4, 50 Stat. 52; Apr. 13, 1939, ch. 61, 53 Stat. 577; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
+(Mar. 24, 1937, ch. 50, § 4, 50 Stat. 52; Apr. 13, 1939, ch. 61, 53 Stat. 577; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -911,9 +911,9 @@ In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-### § 74a. Permanent loan of funds by Board of Trustees to Treasury; semiannual interest payments to Board
+### § 74a. Permanent loan of funds by Board of Trustees to Treasury; semiannual interest payments to Board
 
 The Secretary of the Treasury is authorized and directed to receive into the Treasury from time to time as a permanent loan by the Board of Trustees of the National Gallery of Art to the United States sums in cash of not to exceed $5,000,000 in the aggregate, and to pay interest on the principal amount of such loan at a rate which is the higher of the rate of 4 per centum per annum or a rate which is .25 percentage points less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding long-term marketable obligations of the United States, adjusted to the nearest one-eighth of 1 per centum, payable semiannually. Such interest is permanently appropriated for payment to the Board of Trustees of the National Gallery of Art.
 
@@ -929,7 +929,7 @@ Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which
 
 1976—Pub. L. 94–418 inserted provision authorizing alternate interest rate to existing interest rate of 4 per centum per annum.
 
-### § 75. Authority and functions of the board
+### § 75. Authority and functions of the board
 
 **(a) Official seal; bylaws, rules, and regulations; quorum**
 
@@ -947,11 +947,11 @@ The board shall have all the usual powers and obligations of a trustee in respec
 
 The board shall submit to the Smithsonian Institution an annual report of its operations under this subchapter, including a detailed statement of all acquisitions and loans of works of art and of all public and private moneys received and disbursed.
 
-(Mar. 24, 1937, ch. 50, § 5, 50 Stat. 53.)
+(Mar. 24, 1937, ch. 50, § 5, 50 Stat. 53.)
 
 ## SUBCHAPTER III—NATIONAL PORTRAIT GALLERY
 
-### § 75a. Definitions
+### § 75a. Definitions
 
 For the purposes of this subchapter—
 
@@ -965,7 +965,7 @@ For the purposes of this subchapter—
 
 **(e)** The term “portraiture” includes portraits and reproductions thereof made by any means or process, whether invented or developed heretofore or hereafter.
 
-(Pub. L. 87–443, § 2, Apr. 27, 1962, 76 Stat. 62; Pub. L. 94–209, Feb. 5, 1976, 90 Stat. 30.)
+(Pub. L. 87–443, § 2, Apr. 27, 1962, 76 Stat. 62; Pub. L. 94–209, Feb. 5, 1976, 90 Stat. 30.)
 
 **Editorial Notes**
 
@@ -977,15 +977,15 @@ For the purposes of this subchapter—
 
 **Short Title**
 
-Pub. L. 87–443, § 1, Apr. 27, 1962, 76 Stat. 62, provided: “That this Act [enacting this subchapter] may be cited as the ‘National Portrait Gallery Act’.”
+Pub. L. 87–443, § 1, Apr. 27, 1962, 76 Stat. 62, provided: “That this Act [enacting this subchapter] may be cited as the ‘National Portrait Gallery Act’.”
 
-### § 75b. Establishment of National Portrait Gallery; functions
+### § 75b. Establishment of National Portrait Gallery; functions
 
 **(a)** There is established in the Smithsonian Institution a bureau which shall be known as the National Portrait Gallery. The functions of such bureau shall be those authorized by this subchapter. The use for the purposes of the Gallery of any part of the building transferred to the Smithsonian Institution pursuant to the Act of March 28, 1958 (72 Stat. 68), is authorized.
 
 **(b)** The Gallery shall function as a free public museum for the exhibition and study of portraiture and statuary depicting men and women who have made significant contributions to the history, development, and culture of the people of the United States and of the artists who created such portraiture and statuary.
 
-(Pub. L. 87–443, § 3, Apr. 27, 1962, 76 Stat. 62.)
+(Pub. L. 87–443, § 3, Apr. 27, 1962, 76 Stat. 62.)
 
 **Editorial Notes**
 
@@ -997,7 +997,7 @@ Act of March 28, 1958, referred to in subsec. (a), is act Mar. 28, 1958, Pub. L.
 
 **Patent Office Building Improvements**
 
-Pub. L. 108–72, § 3, Aug. 15, 2003, 117 Stat. 888, provided that:
+Pub. L. 108–72, § 3, Aug. 15, 2003, 117 Stat. 888, provided that:
 
 > **“(a) Authorization of Use of Funds.—**
 
@@ -1021,21 +1021,21 @@ Pub. L. 108–72, § 3, Aug. 15, 2003, 117 Stat. 888, provided that:
 
 > **“(2) Status of smithsonian.—** In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act ([former] 16 U.S.C. 470f) [see 54 U.S.C. 306108].”
 
-### § 75c. Creation of National Portrait Gallery Commission; members; functions; powers
+### § 75c. Creation of National Portrait Gallery Commission; members; functions; powers
 
 There is created the National Portrait Gallery Commission. The number, manner of appointment and tenure of the members of the Commission shall be such as the Board may from time to time prescribe. The Board may delegate to the Commission any function of the Gallery or any function of the Board with respect to the Gallery. The Board may make rules and regulations for the conduct of the affairs of the Commission and the operation of the Gallery, and to the extent and under such limitations as the Board deems advisable, the Board may delegate to the Commission the power to make such rules and regulations.
 
-(Pub. L. 87–443, § 4, Apr. 27, 1962, 76 Stat. 62.)
+(Pub. L. 87–443, § 4, Apr. 27, 1962, 76 Stat. 62.)
 
-### § 75d. Acceptance of gifts; title to property
+### § 75d. Acceptance of gifts; title to property
 
 **(a)** The Board is authorized to accept for the Smithsonian Institution gifts of any property for the benefit of the Gallery.
 
 **(b)** Legal title to all property (except property of the United States) held for the use or benefit of the Gallery shall be vested in the Smithsonian Institution. Subject to any limitations otherwise expressly provided by law, and, in the case of any gift, subject to any applicable restrictions under the terms of such gift, the Board is authorized to sell, exchange, or otherwise dispose of any property of whatsoever nature held by it, and to invest in, reinvest in, or purchase any property of whatsoever nature for the benefit of the National Portrait Gallery.
 
-(Pub. L. 87–443, § 5, Apr. 27, 1962, 76 Stat. 62.)
+(Pub. L. 87–443, § 5, Apr. 27, 1962, 76 Stat. 62.)
 
-### § 75e. Powers of Board
+### § 75e. Powers of Board
 
 For the purpose of carrying out any function authorized by section 75b of this title, the Board may—
 
@@ -1047,41 +1047,41 @@ For the purpose of carrying out any function authorized by section 75b of this t
 
 **(4)** sell, exchange, donate, return, or otherwise dispose of any such item.
 
-(Pub. L. 87–443, § 6, Apr. 27, 1962, 76 Stat. 63.)
+(Pub. L. 87–443, § 6, Apr. 27, 1962, 76 Stat. 63.)
 
-### § 75f. Director; appointment and compensation; officers and employees
+### § 75f. Director; appointment and compensation; officers and employees
 
 **(a)** The Board may appoint and fix the compensation and duties of a director of the Gallery, and his appointment and salary shall not be subject to the civil-service laws or chapter 51 and subchapter III of chapter 53 of title 5. The Board may employ such other officers and employees as may be necessary for the efficient administration, operation, and maintenance of the Gallery.
 
 **(b)** The Board may delegate to the Secretary of the Smithsonian Institution, as well as to the Commission, any of its functions pursuant to subsection (a) of this section.
 
-(Pub. L. 87–443, § 7, Apr. 27, 1962, 76 Stat. 63.)
+(Pub. L. 87–443, § 7, Apr. 27, 1962, 76 Stat. 63.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b) Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b) Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-### § 75g. Authorization of appropriations
+### § 75g. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter.
 
-(Pub. L. 87–443, § 8, Apr. 27, 1962, 76 Stat. 63.)
+(Pub. L. 87–443, § 8, Apr. 27, 1962, 76 Stat. 63.)
 
 ## SUBCHAPTER IV—SMITHSONIAN GALLERY OF ART
 
-### §§ 76, 76a. Omitted
+### §§ 76, 76a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 76, act May 17, 1938, ch. 238, § 1, 52 Stat. 399, directed National Capital Park and Planning Commission to designate and President to assign a site for a building to house and display national collections of fine arts, portraits of eminent Americans, and works of artists deserving of recognition.
+Section 76, act May 17, 1938, ch. 238, § 1, 52 Stat. 399, directed National Capital Park and Planning Commission to designate and President to assign a site for a building to house and display national collections of fine arts, portraits of eminent Americans, and works of artists deserving of recognition.
 
-Section 76a, act May 17, 1938, ch. 238, § 2, 52 Stat. 399, created Smithsonian Gallery of Art Commission which terminated upon approval by Regents of Smithsonian Institution of design for buildings and grounds.
+Section 76a, act May 17, 1938, ch. 238, § 2, 52 Stat. 399, created Smithsonian Gallery of Art Commission which terminated upon approval by Regents of Smithsonian Institution of design for buildings and grounds.
 
-### § 76b. Functions of Regents
+### § 76b. Functions of Regents
 
 **(a) Solicitation of construction funds**
 
@@ -1095,13 +1095,13 @@ The Regents may, subject to the approval of the President, authorize the prepara
 
 The name of the building shall be the Smithsonian Gallery of Art (hereinafter referred to as the “Gallery”), and it shall be under the supervision and control of the Regents and the Secretary of the Smithsonian Institution.
 
-(May 17, 1938, ch. 238, § 3, 52 Stat. 400; 1939 Reorg. Plan No. I, §§ 301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380.)
+(May 17, 1938, ch. 238, § 3, 52 Stat. 400; 1939 Reorg. Plan No. I, §§ 301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services, and Federal Works Agency and office of Federal Works Administrator abolished by section 103 of act June 30, 1949. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services, and Federal Works Agency and office of Federal Works Administrator abolished by section 103 of act June 30, 1949. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 **Executive Documents**
 
@@ -1109,7 +1109,7 @@ Functions of Federal Works Agency and of all agencies thereof, together with fun
 
 Functions of Director of Procurement relating to selection of location and sites of public buildings transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 76c. Policy to foster appreciation of past and contemporary art
+### § 76c. Policy to foster appreciation of past and contemporary art
 
 **(a) Solicitations of private donations**
 
@@ -1119,19 +1119,19 @@ It shall be the policy of the Regents to maintain a worthy standard for the acce
 
 In order to encourage the development of contemporary art and to effect the widest distribution and cultivation in matters of such art, the Regents are authorized to solicit and receive funds from private sources, to acquire (by purchase or otherwise) and sell contemporary works of art or copies thereof, to employ artists and other personnel, award scholarships, conduct exhibitions, and generally to do such things and have such other powers as will effectuate the purposes of this subsection. Funds received by the Regents under this subsection shall be placed in a special deposit account with the Treasurer of the United States and may be expended by the Regents for the purposes enumerated in this subsection and for no other purposes: *Provided*, That the Regents shall not incur any obligations under this subsection in excess of the funds available therefor.
 
-(May 17, 1938, ch. 238, § 4, 52 Stat. 400.)
+(May 17, 1938, ch. 238, § 4, 52 Stat. 400.)
 
-### § 76d. Donations of works of art from Government agencies
+### § 76d. Donations of works of art from Government agencies
 
 The Administrator of General Services and other agencies of the Government are authorized to donate to the Gallery any works of art now or hereafter under their control.
 
-(May 17, 1938, ch. 238, § 5, 52 Stat. 401; 1939 Reorg. Plan No. I, §§ 301, 303, eff. July 1, 1939, 4 FR 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380.)
+(May 17, 1938, ch. 238, § 5, 52 Stat. 401; 1939 Reorg. Plan No. I, §§ 301, 303, eff. July 1, 1939, 4 FR 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services, and Federal Works Agency and office of Federal Works Administrator abolished by section 103 of act June 30, 1949. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services, and Federal Works Agency and office of Federal Works Administrator abolished by section 103 of act June 30, 1949. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 **Executive Documents**
 
@@ -1139,27 +1139,27 @@ Functions of Federal Works Agency and of all agencies thereof, together with fun
 
 Public Buildings Branch of Procurement Division in Treasury Department and Public Works Administration and other agencies were consolidated into Federal Works Agency, and functions transferred to Federal Works Administrator, by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 76e. Housing or exhibiting objects of art possessed by Smithsonian Institution
+### § 76e. Housing or exhibiting objects of art possessed by Smithsonian Institution
 
 Such objects of art as the Government or the Smithsonian Institution now possess, or such as may hereafter be acquired, may be housed or exhibited in the Gallery, with the approval of and under such regulations as the Regents and Secretary of the Smithsonian Institution may prescribe.
 
-(May 17, 1938, ch. 238, § 6, 52 Stat. 401.)
+(May 17, 1938, ch. 238, § 6, 52 Stat. 401.)
 
-### § 76f. Appointment, compensation, and duties of Director of Gallery; personnel
+### § 76f. Appointment, compensation, and duties of Director of Gallery; personnel
 
 The Regents may appoint and fix the compensation and duties of a Director of the Gallery and may employ such other officers and employees as may be necessary for the efficient operation and administration of the Gallery.
 
-(May 17, 1938, ch. 238, § 7, 52 Stat. 401.)
+(May 17, 1938, ch. 238, § 7, 52 Stat. 401.)
 
-### § 76g. Authorization of appropriations
+### § 76g. Authorization of appropriations
 
 There are authorized to be appropriated annually such sums as may be necessary to maintain and administer the Gallery, including the salaries of the Director and of other necessary officers and employees, and for special public exhibitions at Washington and elsewhere.
 
-(May 17, 1938, ch. 238, § 8, 52 Stat. 401.)
+(May 17, 1938, ch. 238, § 8, 52 Stat. 401.)
 
 ## SUBCHAPTER V—JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS
 
-### § 76h. Board of Trustees
+### § 76h. Board of Trustees
 
 **(a) Establishment**
 
@@ -1217,7 +1217,7 @@ There is established in the Smithsonian Institution a bureau, which shall be dir
 
 There shall be an Advisory Committee on the Arts composed of such members as the President of the United States may designate, to serve at the pleasure of the President. Persons appointed to the Advisory Committee on the Arts, including officers or employees of the United States, shall be persons who are recognized for their knowledge of, or experience or interest in, one or more of the arts in the fields covered by the John F. Kennedy Center for the Performing Arts. The President shall designate the Chairman of the Advisory Committee on the Arts. In making such appointments the President shall give consideration to such recommendations as may from time to time be submitted to him by leading national organizations in the appropriate art fields. The Advisory Committee on the Arts shall advise and consult with the Board and make recommendations to the Board regarding existing and prospective cultural activities to be carried out by the John F. Kennedy Center for the Performing Arts. The Advisory Committee on the Arts shall assist the Board in carrying out section 76k(a) of this title. Members of the Advisory Committee on the Arts shall serve without compensation.
 
-(Pub. L. 85–874, § 2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§ 1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, § 1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, § 2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410; Pub. L. 107–117, div. D, title II, § 201(a), Jan. 10, 2002, 115 Stat. 2353; Pub. L. 110–338, § 2, Oct. 3, 2008, 122 Stat. 3731.)
+(Pub. L. 85–874, § 2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§ 1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, § 1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, § 2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410; Pub. L. 107–117, div. D, title II, § 201(a), Jan. 10, 2002, 115 Stat. 2353; Pub. L. 110–338, § 2, Oct. 3, 2008, 122 Stat. 3731.)
 
 **Editorial Notes**
 
@@ -1227,25 +1227,25 @@ There shall be an Advisory Committee on the Arts composed of such members as the
 
 2002—Subsec. (a). Pub. L. 107–117 designated existing provisions as par. (1), inserted par. heading, struck out “hereby” before “established”, struck out second sentence, and added par. (2). Prior to amendment, second sentence read as follows: “The Board shall be composed as follows: The Secretary of Health and Human Services, the Librarian of Congress, the Director of the United States Information Agency, the Chairman of the Commission of Fine Arts, the Mayor of the District of Columbia, the Superintendent of Schools of the District of Columbia, the Director of the National Park Service, the Secretary of Education, the Secretary of the Smithsonian Institution, the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate ex officio; and thirty general trustees who shall be citizens of the United States, to be chosen as hereinafter provided.”
 
-1994—Pub. L. 103–279, § 2(b)(1)(A), substituted section catchline for former section catchline.
+1994—Pub. L. 103–279, § 2(b)(1)(A), substituted section catchline for former section catchline.
 
-Subsec. (a). Pub. L. 103–279, § 2(b)(1)(A), inserted heading, in first sentence inserted “as the National Center for the Performing Arts, a living memorial to John Fitzgerald Kennedy,” after “and site thereof”, and in second sentence substituted “Superintendent of Schools of the District of Columbia” for “Chairman of the District of Columbia Recreation Board” and “the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate” for “three Members of the Senate appointed by the President of the Senate, and three Members of the House of Representatives appointed by the Speaker of the House of Representatives”.
+Subsec. (a). Pub. L. 103–279, § 2(b)(1)(A), inserted heading, in first sentence inserted “as the National Center for the Performing Arts, a living memorial to John Fitzgerald Kennedy,” after “and site thereof”, and in second sentence substituted “Superintendent of Schools of the District of Columbia” for “Chairman of the District of Columbia Recreation Board” and “the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate” for “three Members of the Senate appointed by the President of the Senate, and three Members of the House of Representatives appointed by the Speaker of the House of Representatives”.
 
-Subsec. (b). Pub. L. 103–279, § 2(c), inserted heading and amended text generally. Prior to amendment, text read as follows: “The general trustees shall be appointed by the President of the United States and each such trustee shall hold office as a member of the Board for a term of ten years, except that (1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, (2) the terms of any members appointed prior to August 19, 1963, shall expire as designated by the President at the time of appointment, and (3) the terms of the first fifteen members appointed to the Board pursuant to the amendments made by the National Cultural Center Amendments Act of 1963 shall expire, as designated by the President at the time of appointment, three on September 1, 1964, three on September 1, 1966, three on September 1, 1968, three on September 1, 1970, and three on September 1, 1972.”
+Subsec. (b). Pub. L. 103–279, § 2(c), inserted heading and amended text generally. Prior to amendment, text read as follows: “The general trustees shall be appointed by the President of the United States and each such trustee shall hold office as a member of the Board for a term of ten years, except that (1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, (2) the terms of any members appointed prior to August 19, 1963, shall expire as designated by the President at the time of appointment, and (3) the terms of the first fifteen members appointed to the Board pursuant to the amendments made by the National Cultural Center Amendments Act of 1963 shall expire, as designated by the President at the time of appointment, three on September 1, 1964, three on September 1, 1966, three on September 1, 1968, three on September 1, 1970, and three on September 1, 1972.”
 
-Subsec. (c). Pub. L. 103–279, § 2(d), inserted heading, inserted “of the United States” before “may designate” in first sentence, substituted “carried out by the John” for “carried on in the John” in fifth sentence, and struck out before period at end of last sentence “, but each member of such Committee shall be reimbursed for travel, subsistence, and other necessary expenses incurred by him in connection with the work of such Committee”.
+Subsec. (c). Pub. L. 103–279, § 2(d), inserted heading, inserted “of the United States” before “may designate” in first sentence, substituted “carried out by the John” for “carried on in the John” in fifth sentence, and struck out before period at end of last sentence “, but each member of such Committee shall be reimbursed for travel, subsistence, and other necessary expenses incurred by him in connection with the work of such Committee”.
 
 1964—Subsecs. (a), (c). Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
 
-1963—Subsec. (a). Pub. L. 88–100, § 1, substituted “thirty” for “fifteen” after “ex officio; and”.
+1963—Subsec. (a). Pub. L. 88–100, § 1, substituted “thirty” for “fifteen” after “ex officio; and”.
 
-Subsec. (b). Pub. L. 88–100, § 2, inserted provisions governing the terms of the additional fifteen general trustees added to the Board by section 1 of Pub. L. 88–100.
+Subsec. (b). Pub. L. 88–100, § 2, inserted provisions governing the terms of the additional fifteen general trustees added to the Board by section 1 of Pub. L. 88–100.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–279, § 2(b)(2), July 21, 1994, 108 Stat. 1410, provided that:
+Pub. L. 103–279, § 2(b)(2), July 21, 1994, 108 Stat. 1410, provided that:
 
 > **“(A) Superintendent of schools of the district of columbia.—** The amendment made by paragraph (1)(C)(i) [amending this section] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act [July 21, 1994].
 
@@ -1253,55 +1253,55 @@ Pub. L. 103–279, § 2(b)(2), July 21, 1994, 108 Stat. 1410, provided that:
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–94, div. P, title VI, § 601, Dec. 20, 2019, 133 Stat. 3194, provided that: “This title [amending section 76r of this title and enacting provisions set out as a note under section 76j of this title] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2019’.”
+Pub. L. 116–94, div. P, title VI, § 601, Dec. 20, 2019, 133 Stat. 3194, provided that: “This title [amending section 76r of this title and enacting provisions set out as a note under section 76j of this title] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2019’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–131, § 1, June 8, 2012, 126 Stat. 377, provided that: “This Act [amending sections 76i and 76r of this title] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2012’.”
+Pub. L. 112–131, § 1, June 8, 2012, 126 Stat. 377, provided that: “This Act [amending sections 76i and 76r of this title] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2012’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–338, § 1, Oct. 3, 2008, 122 Stat. 3731, provided that: “This Act [enacting section 76m of this title, amending this section and section 76r of this title, and enacting provisions set out as a note under this section] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2008’.”
+Pub. L. 110–338, § 1, Oct. 3, 2008, 122 Stat. 3731, provided that: “This Act [enacting section 76m of this title, amending this section and section 76r of this title, and enacting provisions set out as a note under this section] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2008’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–410, § 1, Oct. 30, 2004, 118 Stat. 2303, provided that: “This Act [amending sections 76q–1 and 76r of this title] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2004’.”
+Pub. L. 108–410, § 1, Oct. 30, 2004, 118 Stat. 2303, provided that: “This Act [amending sections 76q–1 and 76r of this title] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2004’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–224, § 1, Sept. 18, 2002, 116 Stat. 1340, provided that: “This Act [enacting section 76q–1 of this title and amending sections 76j, 76r, and 76s of this title] may be cited as the ‘John F. Kennedy Center Plaza Authorization Act of 2002’.”
+Pub. L. 107–224, § 1, Sept. 18, 2002, 116 Stat. 1340, provided that: “This Act [enacting section 76q–1 of this title and amending sections 76j, 76r, and 76s of this title] may be cited as the ‘John F. Kennedy Center Plaza Authorization Act of 2002’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–226, § 1, Aug. 12, 1998, 112 Stat. 1513, provided that: “This Act [amending sections 76j, 76*l*, and 76r of this title] may be cited as the ‘John F. Kennedy Center for the Performing Arts Authorization Act of 1998’.”
+Pub. L. 105–226, § 1, Aug. 12, 1998, 112 Stat. 1513, provided that: “This Act [amending sections 76j, 76*l*, and 76r of this title] may be cited as the ‘John F. Kennedy Center for the Performing Arts Authorization Act of 1998’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–95, § 1, Nov. 19, 1997, 111 Stat. 2148, provided that: “This Act [amending sections 76i to 76k and 76s of this title and section 193v of former Title 40, Public Buildings, Property, and Works] may be cited as the ‘John F. Kennedy Center Parking Improvement Act of 1997’.”
+Pub. L. 105–95, § 1, Nov. 19, 1997, 111 Stat. 2148, provided that: “This Act [amending sections 76i to 76k and 76s of this title and section 193v of former Title 40, Public Buildings, Property, and Works] may be cited as the ‘John F. Kennedy Center Parking Improvement Act of 1997’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–279, § 1, July 21, 1994, 108 Stat. 1409, provided that: “This Act [enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76*l*, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
+Pub. L. 103–279, § 1, July 21, 1994, 108 Stat. 1409, provided that: “This Act [enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76*l*, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title I, § 101(c), Oct. 12, 1984, 98 Stat. 1837, 1876, provided that: “The following [amending section 76*o* of this title] may be cited as ‘The John F. Kennedy Center Act Amendments of 1984’.”
+Pub. L. 98–473, title I, § 101(c), Oct. 12, 1984, 98 Stat. 1837, 1876, provided that: “The following [amending section 76*o* of this title] may be cited as ‘The John F. Kennedy Center Act Amendments of 1984’.”
 
 **Short Title of 1963 Amendment**
 
-Pub. L. 88–100, § 5, Aug. 19, 1963, 77 Stat. 128, provided that: “This Act [amending this section and sections 76*l* and 76m of this title] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
+Pub. L. 88–100, § 5, Aug. 19, 1963, 77 Stat. 128, provided that: “This Act [amending this section and sections 76*l* and 76m of this title] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
 
 **Short Title**
 
-Section 1(a), formerly § 1, of Pub. L. 85–874, as amended by Pub. L. 88–260, § 1(1), Jan. 23, 1964, 78 Stat. 4; redesignated § 1(a), Pub. L. 103–279, § 2(a)(1), July 21, 1994, 108 Stat. 1409, provided that: “This Act [enacting this subchapter] may be cited as the ‘John F. Kennedy Center Act’.”
+Section 1(a), formerly § 1, of Pub. L. 85–874, as amended by Pub. L. 88–260, § 1(1), Jan. 23, 1964, 78 Stat. 4; redesignated § 1(a), Pub. L. 103–279, § 2(a)(1), July 21, 1994, 108 Stat. 1409, provided that: “This Act [enacting this subchapter] may be cited as the ‘John F. Kennedy Center Act’.”
 
 **Existing Authorities**
 
-Pub. L. 110–338, § 5, Oct. 3, 2008, 122 Stat. 3732, provided that: “Nothing in this Act [see Short Title of 2008 Amendment note above] limits or otherwise affects the authority or responsibility of the National Capital Planning Commission or the Commission of Fine Arts.”
+Pub. L. 110–338, § 5, Oct. 3, 2008, 122 Stat. 3732, provided that: “Nothing in this Act [see Short Title of 2008 Amendment note above] limits or otherwise affects the authority or responsibility of the National Capital Planning Commission or the Commission of Fine Arts.”
 
 **Terms of Office for New General Trustees**
 
-Pub. L. 107–117, div. D, title II, § 201(b), Jan. 10, 2002, 115 Stat. 2354, provided that:
+Pub. L. 107–117, div. D, title II, § 201(b), Jan. 10, 2002, 115 Stat. 2354, provided that:
 
 > “Section 2(b) of the John F. Kennedy Center Act (20 U.S.C. 76h(b)) shall apply to each general trustee of the John F. Kennedy Center for the Performing Arts whose position is established by the amendment made by subsection (a)(2) [amending this section] (referred to in this subsection as a ‘new general trustee’), except that the initial term of office of each new general trustee shall—
 
@@ -1311,11 +1311,11 @@ Pub. L. 107–117, div. D, title II, § 201(b), Jan. 10, 2002, 115 Stat. 2354,
 
 **National Cultural Center; Designation or References**
 
-Pub. L. 88–260, § 2, Jan. 23, 1964, 78 Stat. 5, provided that: “In addition to the amendments made by the first section of this Act [enacting sections 76n to 76q, and amending sections 76h to 76q of this title], any designation or reference to the National Cultural Center in any other law, map, regulation, document, record, or other paper of the United States shall be held to designate or refer to such Center as the John F. Kennedy Center for the Performing Arts.”
+Pub. L. 88–260, § 2, Jan. 23, 1964, 78 Stat. 5, provided that: “In addition to the amendments made by the first section of this Act [enacting sections 76n to 76q, and amending sections 76h to 76q of this title], any designation or reference to the National Cultural Center in any other law, map, regulation, document, record, or other paper of the United States shall be held to designate or refer to such Center as the John F. Kennedy Center for the Performing Arts.”
 
 **Congressional Findings**
 
-Section 1(b) of Pub. L. 85–874, as added by Pub. L. 103–279, § 2(a)(2), July 21, 1994, 108 Stat. 1409, provided that:
+Section 1(b) of Pub. L. 85–874, as added by Pub. L. 103–279, § 2(a)(2), July 21, 1994, 108 Stat. 1409, provided that:
 
 > “Congress finds that—
 
@@ -1331,7 +1331,7 @@ Section 1(b) of Pub. L. 85–874, as added by Pub. L. 103–279, § 2(a)(2), J
 
 > **“(6)** such a living memorial should be housed in the John F. Kennedy Center for the Performing Arts, located in the District of Columbia.”
 
-### § 76i. John F. Kennedy Center for the Performing Arts
+### § 76i. John F. Kennedy Center for the Performing Arts
 
 **(a) In general**
 
@@ -1405,7 +1405,7 @@ The Board may acknowledge private contributions used in carrying out the expansi
 
 **(C)** will become part of the existing (as of June 8, 2012) structure of the Center.
 
-(Pub. L. 85–874, § 3, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, § 1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 105–95, § 2, Nov. 19, 1997, 111 Stat. 2148; Pub. L. 112–131, § 2, June 8, 2012, 126 Stat. 377.)
+(Pub. L. 85–874, § 3, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, § 1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 105–95, § 2, Nov. 19, 1997, 111 Stat. 2148; Pub. L. 112–131, § 2, June 8, 2012, 126 Stat. 377.)
 
 **Editorial Notes**
 
@@ -1417,7 +1417,7 @@ The Board may acknowledge private contributions used in carrying out the expansi
 
 1964—Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
 
-### § 76j. Duties of Board
+### § 76j. Duties of Board
 
 **(a) Programs, activities, and goals**
 
@@ -1497,7 +1497,7 @@ which plaque or inscription is permitted under policies of the Board in effect o
 
 **(3)** For purposes of this subsection, testimonials and benefit performances shall not be construed to be memorials.
 
-(Pub. L. 85–874, § 4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, § 1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, § 4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, § 3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, § 3(a), Nov. 19, 1997, 111 Stat. 2149; Pub. L. 105–226, §§ 2, 3, Aug. 12, 1998, 112 Stat. 1513; Pub. L. 107–224, § 4(a), Sept. 18, 2002, 116 Stat. 1343.)
+(Pub. L. 85–874, § 4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, § 1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, § 4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, § 3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, § 3(a), Nov. 19, 1997, 111 Stat. 2149; Pub. L. 105–226, §§ 2, 3, Aug. 12, 1998, 112 Stat. 1513; Pub. L. 107–224, § 4(a), Sept. 18, 2002, 116 Stat. 1343.)
 
 **Editorial Notes**
 
@@ -1505,9 +1505,9 @@ which plaque or inscription is permitted under policies of the Board in effect o
 
 2002—Subsec. (a)(2)(D). Pub. L. 107–224 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price.”
 
-1998—Subsec. (a)(1)(G). Pub. L. 105–226, § 2, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
+1998—Subsec. (a)(1)(G). Pub. L. 105–226, § 2, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
 
-Subsec. (a)(1)(H)(ii). Pub. L. 105–226, § 3, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and”.
+Subsec. (a)(1)(H)(ii). Pub. L. 105–226, § 3, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and”.
 
 1997—Subsec. (a)(1)(I). Pub. L. 105–95 added subpar. (I).
 
@@ -1531,7 +1531,7 @@ Subsec. (a)(1)(H)(ii). Pub. L. 105–226, § 3, amended cl. (ii) generally. Pr
 
 **Commemoration of the John F. Kennedy Center for the Performing Arts**
 
-Pub. L. 116–94, div. P, title VI, § 603, Dec. 20, 2019, 133 Stat. 3194, provided that:
+Pub. L. 116–94, div. P, title VI, § 603, Dec. 20, 2019, 133 Stat. 3194, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that the John F. Kennedy Center for the Performing Arts (referred to in this Act [probably means “this title”, see Short Title of 2019 Amendment note set out under section 76h of this title] as the ‘Center’)—
 
@@ -1575,7 +1575,7 @@ Pub. L. 116–94, div. P, title VI, § 603, Dec. 20, 2019, 133 Stat. 3194, pro
 
 **Access to John F. Kennedy Center for the Performing Arts**
 
-Pub. L. 105–178, title I, § 1214(a), June 9, 1998, 112 Stat. 204, provided that:
+Pub. L. 105–178, title I, § 1214(a), June 9, 1998, 112 Stat. 204, provided that:
 
 > **“(1) Study.—** The Secretary [of Transportation], in cooperation with the District of Columbia, the John F. Kennedy Center for the Performing Arts, and the Department of the Interior and in consultation with other interested persons, shall conduct a study of methods to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts.
 
@@ -1585,7 +1585,7 @@ Pub. L. 105–178, title I, § 1214(a), June 9, 1998, 112 Stat. 204, provided 
 
 > **“(4) Applicability of title 23, united states code.—** Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of activities conducted using such funds shall be 100 percent and such funds shall remain available until expended.”
 
-### § 76k. Powers of Board
+### § 76k. Powers of Board
 
 **(a) Solicitation and acceptance of gifts**
 
@@ -1655,7 +1655,7 @@ With respect to each theatrical employee, the theatrical employee and the Board 
 
 Subject to approval of the Secretary of the Interior under section 76j(a)(2)(F) of this title, the Board shall develop plans and carry out projects to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts.
 
-(Pub. L. 85–874, § 5, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, § 1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, § 4, July 21, 1994, 108 Stat. 1413; Pub. L. 105–95, § 3(b), Nov. 19, 1997, 111 Stat. 2149.)
+(Pub. L. 85–874, § 5, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, § 1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, § 4, July 21, 1994, 108 Stat. 1413; Pub. L. 105–95, § 3(b), Nov. 19, 1997, 111 Stat. 2149.)
 
 **Editorial Notes**
 
@@ -1663,27 +1663,27 @@ Subject to approval of the Secretary of the Interior under section 76j(a)(2)(F) 
 
 The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), is Pub. L. 103–279, July 21, 1994, 108 Stat. 1409, which enacted sections 76r and 76s of this title, amended this section, sections 76h, 76j, 76*l*, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, and enacted and amended provisions set out as notes under section 76h of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 76h of this title and Tables.
 
-The National Labor Relations Act, referred to in subsec. (f)(2), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, referred to in subsec. (f)(2), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
-The Labor Management Relations Act, 1947, referred to in subsec. (f)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of Title 29. For complete classification of this Act to the Code, see section 141 of Title 29 and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (f)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of Title 29. For complete classification of this Act to the Code, see section 141 of Title 29 and Tables.
 
 **Amendments**
 
 1997—Subsec. (g). Pub. L. 105–95 added subsec. (g).
 
-1994—Pub. L. 103–279, § 4(a)(1), substituted section catchline for former section catchline.
+1994—Pub. L. 103–279, § 4(a)(1), substituted section catchline for former section catchline.
 
-Subsec. (a). Pub. L. 103–279, § 4(a)(1), inserted heading and substituted “John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution,” for “Smithsonian Institution”.
+Subsec. (a). Pub. L. 103–279, § 4(a)(1), inserted heading and substituted “John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution,” for “Smithsonian Institution”.
 
-Subsec. (b). Pub. L. 103–279, § 4(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Board shall appoint and fix the compensation and duties of a director, an assistant director, and a secretary of the John F. Kennedy Center for the Performing Arts and of such other officers and employees of the John F. Kennedy Center for the Performing Arts as may be necessary for the efficient administration of the functions of the Board. The director, assistant director, and secretary shall be well qualified by experience and training to perform the duties of their office.”
+Subsec. (b). Pub. L. 103–279, § 4(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Board shall appoint and fix the compensation and duties of a director, an assistant director, and a secretary of the John F. Kennedy Center for the Performing Arts and of such other officers and employees of the John F. Kennedy Center for the Performing Arts as may be necessary for the efficient administration of the functions of the Board. The director, assistant director, and secretary shall be well qualified by experience and training to perform the duties of their office.”
 
-Subsec. (c). Pub. L. 103–279, § 4(c), added heading and text of subsec. (c) and struck out text of former subsec. (c). Prior to amendment, text read as follows: “The actions of the Board, including any payment made or directed to be made by it from any trust funds, shall not be subject to review by any officer or agency other than a court of law.”
+Subsec. (c). Pub. L. 103–279, § 4(c), added heading and text of subsec. (c) and struck out text of former subsec. (c). Prior to amendment, text read as follows: “The actions of the Board, including any payment made or directed to be made by it from any trust funds, shall not be subject to review by any officer or agency other than a court of law.”
 
-Subsecs. (d) to (f). Pub. L. 103–279, § 4(c), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 103–279, § 4(c), added subsecs. (d) to (f).
 
 1964—Subsecs. (a), (b). Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
 
-### § 76l. Official seal, Board vacancies and quorum, trustee powers and obligations, reports, support services, and review and audit
+### § 76l. Official seal, Board vacancies and quorum, trustee powers and obligations, reports, support services, and review and audit
 
 **(a) Adoption of seal; Board function notwithstanding vacancies; quorum**
 
@@ -1699,9 +1699,9 @@ The Board shall submit to the Smithsonian Institution and to Congress an annual 
 
 **(d) Inspector General**
 
-The functions of the Board funded by funds appropriated pursuant to section 76r 1
+The functions of the Board funded by funds appropriated pursuant to section 76r 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall be subject to the requirements for a Federal entity under chapter 4 of title 5. The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such chapter on behalf of the Board, on a reimbursable basis when requested by the Board.
 
@@ -1715,13 +1715,13 @@ The Board may procure insurance against any loss in connection with the property
 
 For the purposes of chapter 171 of title 28, an employee of the Board shall be considered to be an “employee of the government” and the Board shall be considered to be a “Federal agency”. No employee of the Board may bring suit against the United States or the Board under the Federal tort claims procedure of chapter 171 of title 28 for disability or death resulting from personal injury sustained while in the performance of the duties of the employee for the Board.
 
-(Pub. L. 85–874, § 6, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–100, § 3, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, § 1(4), (5), Jan. 23, 1964, 78 Stat. 4; Pub. L. 92–313, § 10, June 16, 1972, 86 Stat. 222; Pub. L. 93–67, July 10, 1973, 87 Stat. 161; Pub. L. 94–119, §§ 1, 2, Oct. 21, 1975, 89 Stat. 608; Pub. L. 94–578, title III, § 314, Oct. 21, 1976, 90 Stat. 2737; Pub. L. 95–50, § 2, June 20, 1977, 91 Stat. 232; Pub. L. 95–305, June 29, 1978, 92 Stat. 348; Pub. L. 96–587, § 1, Dec. 23, 1980, 94 Stat. 3387; Pub. L. 97–73, Nov. 3, 1981, 95 Stat. 1064; Pub. L. 97–202, June 24, 1982, 96 Stat. 128; Pub. L. 101–449, §§ 1–3, Oct. 22, 1990, 104 Stat. 1050; Pub. L. 102–500, § 1, Oct. 24, 1992, 106 Stat. 3267; Pub. L. 103–279, § 5, July 21, 1994, 108 Stat. 1414; Pub. L. 105–226, § 4, Aug. 12, 1998, 112 Stat. 1513; Pub. L. 117–286, § 4(b)(38), Dec. 27, 2022, 136 Stat. 4347.)
+(Pub. L. 85–874, § 6, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–100, § 3, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, § 1(4), (5), Jan. 23, 1964, 78 Stat. 4; Pub. L. 92–313, § 10, June 16, 1972, 86 Stat. 222; Pub. L. 93–67, July 10, 1973, 87 Stat. 161; Pub. L. 94–119, §§ 1, 2, Oct. 21, 1975, 89 Stat. 608; Pub. L. 94–578, title III, § 314, Oct. 21, 1976, 90 Stat. 2737; Pub. L. 95–50, § 2, June 20, 1977, 91 Stat. 232; Pub. L. 95–305, June 29, 1978, 92 Stat. 348; Pub. L. 96–587, § 1, Dec. 23, 1980, 94 Stat. 3387; Pub. L. 97–73, Nov. 3, 1981, 95 Stat. 1064; Pub. L. 97–202, June 24, 1982, 96 Stat. 128; Pub. L. 101–449, §§ 1–3, Oct. 22, 1990, 104 Stat. 1050; Pub. L. 102–500, § 1, Oct. 24, 1992, 106 Stat. 3267; Pub. L. 103–279, § 5, July 21, 1994, 108 Stat. 1414; Pub. L. 105–226, § 4, Aug. 12, 1998, 112 Stat. 1513; Pub. L. 117–286, § 4(b)(38), Dec. 27, 2022, 136 Stat. 4347.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 76r of this title, referred to in subsec. (d), was in the original a reference to section 12 of Pub. L. 85–874. Section 12 of Pub. L. 85–874 was renumbered as section 13, and a new section 12 was added, by Pub. L. 107–224, § 2, Sept. 18, 2002, 116 Stat. 1340. Sections 12 and 13 are classified to sections 76q–1 and 76r, respectively, of this title.
+Section 76r of this title, referred to in subsec. (d), was in the original a reference to section 12 of Pub. L. 85–874. Section 12 of Pub. L. 85–874 was renumbered as section 13, and a new section 12 was added, by Pub. L. 107–224, § 2, Sept. 18, 2002, 116 Stat. 1340. Sections 12 and 13 are classified to sections 76q–1 and 76r, respectively, of this title.
 
 **Amendments**
 
@@ -1729,9 +1729,9 @@ Section 76r of this title, referred to in subsec. (d), was in the original a ref
 
 1998—Subsecs. (d) to (f). Pub. L. 105–226 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “Not less than once every 3 years, the Comptroller General shall review and audit the accounts of the John F. Kennedy Center for the Performing Arts for the purpose of examining expenditures of funds appropriated under the authority provided by this subchapter.”
 
-1994—Subsec. (c). Pub. L. 103–279, § 5(1), substituted “the operations of the Board” for “its operations”.
+1994—Subsec. (c). Pub. L. 103–279, § 5(1), substituted “the operations of the Board” for “its operations”.
 
-Subsecs. (d) to (f). Pub. L. 103–279, § 5(2), added subsecs. (d) to (f) and struck out former subsec. (e) which related to maintenance, repair, alteration, security, information, and other services and former subsec. (f) which related to audits.
+Subsecs. (d) to (f). Pub. L. 103–279, § 5(2), added subsecs. (d) to (f) and struck out former subsec. (e) which related to maintenance, repair, alteration, security, information, and other services and former subsec. (f) which related to audits.
 
 1992—Subsec. (e)(3). Pub. L. 102–500 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out this subsection—
 
@@ -1747,11 +1747,11 @@ Subsecs. (d) to (f). Pub. L. 103–279, § 5(2), added subsecs. (d) to (f) and
 
 “(ii) $15,512,000 for deferred maintenance, repairs, and alterations.”
 
-1990—Subsec. (d). Pub. L. 101–449, § 3, struck out subsec. (d) which read as follows: “The Board shall transmit to Congress a detailed report of any memorial which it proposes to provide within the John F. Kennedy Center for the Performing Arts under authority of paragraph (5) of section 76j of this title, and no such memorial shall be provided until the Board of Regents of the Smithsonian Institution shall have approved such memorial.”
+1990—Subsec. (d). Pub. L. 101–449, § 3, struck out subsec. (d) which read as follows: “The Board shall transmit to Congress a detailed report of any memorial which it proposes to provide within the John F. Kennedy Center for the Performing Arts under authority of paragraph (5) of section 76j of this title, and no such memorial shall be provided until the Board of Regents of the Smithsonian Institution shall have approved such memorial.”
 
-Subsec. (e). Pub. L. 101–449, § 1, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary of the Interior, acting through the National Park Service, shall provide maintenance, security, information, interpretation, janitorial and all other services necessary to the nonperforming arts functions of the John F. Kennedy Center for the Performing Arts. There is authorized to be appropriated to carry out this subsection not to exceed $2,800,000 for the fiscal year ending June 30, 1976, $741,000 for the transition period ending September 30, 1976, $3,100,000 for the fiscal year ending September 30, 1977, and $4,000,000 for the fiscal year ending September 30, 1978. There is authorized to be appropriated to carry out this subsection not to exceed $4,200,000 for the fiscal year ending September 30, 1979. There is authorized to be appropriated to carry out this subsection not to exceed $4,287,000 for the fiscal year ending September 30, 1980, and not to exceed $4,400,000 for the fiscal year ending September 30, 1981, and not to exceed $4,544,000 for the fiscal year ending September 30, 1982, and not to exceed $4,247,000 for the fiscal year ending September 30, 1983.”
+Subsec. (e). Pub. L. 101–449, § 1, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary of the Interior, acting through the National Park Service, shall provide maintenance, security, information, interpretation, janitorial and all other services necessary to the nonperforming arts functions of the John F. Kennedy Center for the Performing Arts. There is authorized to be appropriated to carry out this subsection not to exceed $2,800,000 for the fiscal year ending June 30, 1976, $741,000 for the transition period ending September 30, 1976, $3,100,000 for the fiscal year ending September 30, 1977, and $4,000,000 for the fiscal year ending September 30, 1978. There is authorized to be appropriated to carry out this subsection not to exceed $4,200,000 for the fiscal year ending September 30, 1979. There is authorized to be appropriated to carry out this subsection not to exceed $4,287,000 for the fiscal year ending September 30, 1980, and not to exceed $4,400,000 for the fiscal year ending September 30, 1981, and not to exceed $4,544,000 for the fiscal year ending September 30, 1982, and not to exceed $4,247,000 for the fiscal year ending September 30, 1983.”
 
-Subsec. (f). Pub. L. 101–449, § 2, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The General Accounting Office is authorized and directed to review and audit, regularly, the accounts of the Kennedy Center for the Performing Arts, for the purpose of determining the continuing ability of the Center to pay its share of future operating costs, and for the purpose of assuring that the cost-of-living formula fairly and accurately reflects the use of the building.”
+Subsec. (f). Pub. L. 101–449, § 2, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The General Accounting Office is authorized and directed to review and audit, regularly, the accounts of the Kennedy Center for the Performing Arts, for the purpose of determining the continuing ability of the Center to pay its share of future operating costs, and for the purpose of assuring that the cost-of-living formula fairly and accurately reflects the use of the building.”
 
 1982—Subsec. (e). Pub. L. 97–202 inserted provisions authorizing an appropriation of not to exceed $4,247,000 for fiscal year ending Sept. 30, 1983.
 
@@ -1765,17 +1765,17 @@ Subsec. (f). Pub. L. 101–449, § 2, amended subsec. (f) generally. Prior to 
 
 1976—Subsec. (e). Pub. L. 94–578 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, and Sept. 30, 1979, for provisions covering fiscal years ending Sept. 30, 1976, Sept. 30, 1977, and transitional period ending Sept. 30, 1976.
 
-1975—Subsec. (e). Pub. L. 94–119, § 1, inserted provisions authorizing appropriations for fiscal year ending June 30, 1976, for the transitional period ending Sept. 30, 1976, and for fiscal year ending Sept. 30, 1977.
+1975—Subsec. (e). Pub. L. 94–119, § 1, inserted provisions authorizing appropriations for fiscal year ending June 30, 1976, for the transitional period ending Sept. 30, 1976, and for fiscal year ending Sept. 30, 1977.
 
-Subsec. (f). Pub. L. 94–119, § 2, added subsec. (f).
+Subsec. (f). Pub. L. 94–119, § 2, added subsec. (f).
 
 1973—Subsec. (e). Pub. L. 93–67 substituted provisions authorizing appropriations not to exceed $2,400,000 for fiscal year ending June 30, 1974, and $2,500,000 for fiscal year ending June 30, 1975, for provision granting general authorization of appropriation for fiscal year ending June 30, 1973.
 
 1972—Subsec. (e). Pub. L. 92–313 added subsec. (e).
 
-1964—Subsec. (c). Pub. L. 88–260, § 1(4), inserted “and to Congress” after “Smithsonian Institution”.
+1964—Subsec. (c). Pub. L. 88–260, § 1(4), inserted “and to Congress” after “Smithsonian Institution”.
 
-Subsec. (d). Pub. L. 88–260, § 1(5), added subsec. (d).
+Subsec. (d). Pub. L. 88–260, § 1(5), added subsec. (d).
 
 1963—Subsec. (a). Pub. L. 88–100 substituted “twelve” for “eight” after “vacancies and”.
 
@@ -1789,7 +1789,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1782, provided: “That contracts hereafter awarded for environmental systems, housekeeping, protection systems, and repair or renovation of buildings of the John F. Kennedy Center for the Performing Arts may be negotiated with selected contractors and awarded on the basis of contractor qualifications as well as price.”
 
-### § 76m. Photovoltaic system
+### § 76m. Photovoltaic system
 
 **(a) In general**
 
@@ -1799,19 +1799,19 @@ The Board may study, plan, design, engineer, and construct a photovoltaic system
 
 Not later than 60 days before beginning construction of the photovoltaic system pursuant to subsection (a), the Board shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the feasibility and design of the project.
 
-(Pub. L. 85–874, § 7, as added, Pub. L. 110–338, § 3, Oct. 3, 2008, 122 Stat. 3731.)
+(Pub. L. 85–874, § 7, as added, Pub. L. 110–338, § 3, Oct. 3, 2008, 122 Stat. 3731.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 76m, Pub. L. 85–874, § 7, Sept. 2, 1958, 72 Stat. 1700; Pub. L. 86–297, Sept. 21, 1959, 73 Stat. 573; Pub. L. 88–100, § 4, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, § 1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, which related to termination of offices created and appointments made in connection with John F. Kennedy Center for the Performing Arts if moneys were not found to construct the Center within eight years after Sept. 2, 1958, was repealed by Pub. L. 101–449, § 3, Oct. 22, 1990, 104 Stat. 1050.
+A prior section 76m, Pub. L. 85–874, § 7, Sept. 2, 1958, 72 Stat. 1700; Pub. L. 86–297, Sept. 21, 1959, 73 Stat. 573; Pub. L. 88–100, § 4, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, § 1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, which related to termination of offices created and appointments made in connection with John F. Kennedy Center for the Performing Arts if moneys were not found to construct the Center within eight years after Sept. 2, 1958, was repealed by Pub. L. 101–449, § 3, Oct. 22, 1990, 104 Stat. 1050.
 
-### § 76n. Repealed. Pub. L. 101–449, § 3, Oct. 22, 1990, 104 Stat. 1050
+### § 76n. Repealed. Pub. L. 101–449, § 3, Oct. 22, 1990, 104 Stat. 1050
 
-Section, Pub. L. 85–874, § 8, as added Pub. L. 88–260, § 1(6), Jan. 23, 1964, 78 Stat. 4; amended Pub. L. 91–90, § 1(a), Oct. 17, 1969, 83 Stat. 135; Pub. L. 92–313, § 9, June 16, 1972, 86 Stat. 222; Pub. L. 95–50, § 1, June 20, 1977, 91 Stat. 232, authorized appropriations for construction, repair, renovation, and reconstruction of John F. Kennedy Center for the Performing Arts.
+Section, Pub. L. 85–874, § 8, as added Pub. L. 88–260, § 1(6), Jan. 23, 1964, 78 Stat. 4; amended Pub. L. 91–90, § 1(a), Oct. 17, 1969, 83 Stat. 135; Pub. L. 92–313, § 9, June 16, 1972, 86 Stat. 222; Pub. L. 95–50, § 1, June 20, 1977, 91 Stat. 232, authorized appropriations for construction, repair, renovation, and reconstruction of John F. Kennedy Center for the Performing Arts.
 
-### § 76o. Borrowing authority to finance parking facilities
+### § 76o. Borrowing authority to finance parking facilities
 
 **(a) Revenue bonds**
 
@@ -1825,7 +1825,7 @@ Effective as of October 12, 1984, the obligations of the Board incurred under su
 
 There is hereby established in the Treasury of the United States a sinking fund, the Kennedy Center Revenue Bond Sinking Fund (hereinafter referred to as the “Fund”), which shall be used to retire the obligations of the Board incurred under subsection (a) of this section upon the respective maturities of such obligations. The Board shall pay into the Fund, beginning on January 1, 1987 and ending on January 1, 2016, the annual sum of $200,000 in amortization of the principal amount of the obligations. Such sums shall be invested by the Secretary of the Treasury in public debt securities with maturities suitable for the needs of the Fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities. The interest on such investments shall be credited to and form a part of the Fund. Moneys in the Fund shall be used exclusively to retire the obligations of the Board incurred under subsection (a) of this section. Adjustments of not greater than plus or minus 5 per centum may be made from time to time in the annual payments to the Fund in order to correct any gains or deficiencies as a result of fluctuations in interest rates over the life of the investments: *Provided, however*, That a final adjustment shall be made between the Board and the Secretary of the Treasury at the end of the amortization period to correct any overall gain or deficiency in the Fund. The terms of this adjustment shall be covered by a memorandum of understanding between the Board and the Secretary of the Treasury to be consummated on or before the time the initial payment into the Fund is made.
 
-(Pub. L. 85–874, § 9, as added Pub. L. 88–260, § 1(6), Jan. 23, 1964, 78 Stat. 5; amended Pub. L. 91–90, § 1(b), Oct. 17, 1969, 83 Stat. 135; Pub. L. 98–473, title I, § 101(c), Oct. 12, 1984, 98 Stat. 1837, 1876; Pub. L. 101–449, § 4, Oct. 22, 1990, 104 Stat. 1051.)
+(Pub. L. 85–874, § 9, as added Pub. L. 88–260, § 1(6), Jan. 23, 1964, 78 Stat. 5; amended Pub. L. 91–90, § 1(b), Oct. 17, 1969, 83 Stat. 135; Pub. L. 98–473, title I, § 101(c), Oct. 12, 1984, 98 Stat. 1837, 1876; Pub. L. 101–449, § 4, Oct. 22, 1990, 104 Stat. 1051.)
 
 **Editorial Notes**
 
@@ -1837,11 +1837,11 @@ There is hereby established in the Treasury of the United States a sinking fund,
 
 1969—Pub. L. 91–90 substituted “$20,400,000” for “$15,400,000” in two places.
 
-### § 76p. Acceptance and disposition of gifts to the United States contributed in honor or memory of the late President John F. Kennedy
+### § 76p. Acceptance and disposition of gifts to the United States contributed in honor or memory of the late President John F. Kennedy
 
 The Secretary of the Treasury is authorized to accept on behalf of the United States any gift to the United States which the Secretary finds has been contributed in honor of or in memory of the late President John F. Kennedy and to pay the money to such appropriation or other accounts, including the appropriation accounts established pursuant to appropriations authorized by this subchapter, as in the judgment of the Secretary will best effectuate the intent of the donor.
 
-(Pub. L. 85–874, § 10, as added Pub. L. 88–260, § 1(6), Jan. 23, 1964, 78 Stat. 5; amended Pub. L. 103–279, § 6, July 21, 1994, 108 Stat. 1415.)
+(Pub. L. 85–874, § 10, as added Pub. L. 88–260, § 1(6), Jan. 23, 1964, 78 Stat. 5; amended Pub. L. 103–279, § 6, July 21, 1994, 108 Stat. 1415.)
 
 **Editorial Notes**
 
@@ -1849,13 +1849,13 @@ The Secretary of the Treasury is authorized to accept on behalf of the United St
 
 1994—Pub. L. 103–279 substituted “which the Secretary finds” for “which he finds” and “the judgment of the Secretary” for “his judgment”.
 
-### § 76q. Sole national memorial to the late John F. Kennedy within the city of Washington and environs
+### § 76q. Sole national memorial to the late John F. Kennedy within the city of Washington and environs
 
 The John F. Kennedy Center for the Performing Arts, designated by this subchapter, shall be the sole national memorial to the late John Fitzgerald Kennedy within the city of Washington and its environs.
 
-(Pub. L. 85–874, § 11, as added Pub. L. 88–260, § 1(6), Jan. 23, 1964, 78 Stat. 5.)
+(Pub. L. 85–874, § 11, as added Pub. L. 88–260, § 1(6), Jan. 23, 1964, 78 Stat. 5.)
 
-### § 76q–1. John F. Kennedy Center Plaza
+### § 76q–1. John F. Kennedy Center Plaza
 
 **(a) Definitions** In this section, the following definitions apply:
 
@@ -2005,7 +2005,7 @@ The Secretary may improve direct access and egress between Interstate Route 66 a
 
 Until completion of the Project, the Comptroller General shall review the management and oversight of construction of the Project by the Board and report periodically on the results of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
-(Pub. L. 85–874, § 12, as added Pub. L. 107–224, § 2(2), Sept. 18, 2002, 116 Stat. 1340; amended Pub. L. 108–410, § 3, Oct. 30, 2004, 118 Stat. 2303.)
+(Pub. L. 85–874, § 12, as added Pub. L. 107–224, § 2(2), Sept. 18, 2002, 116 Stat. 1340; amended Pub. L. 108–410, § 3, Oct. 30, 2004, 118 Stat. 2303.)
 
 **Editorial Notes**
 
@@ -2019,15 +2019,15 @@ A prior section 12 of Pub. L. 85–874 was renumbered section 13 and is classifi
 
 **Amendments**
 
-2004—Subsec. (b)(6). Pub. L. 108–410, § 3(a), added par. (6).
+2004—Subsec. (b)(6). Pub. L. 108–410, § 3(a), added par. (6).
 
-Subsec. (c)(1), (3). Pub. L. 108–410, § 3(b)(1), (2), inserted “, in consultation with the Project Team,” after “The Board”.
+Subsec. (c)(1), (3). Pub. L. 108–410, § 3(b)(1), (2), inserted “, in consultation with the Project Team,” after “The Board”.
 
-Subsec. (c)(5). Pub. L. 108–410, § 3(b)(3), added par. (5).
+Subsec. (c)(5). Pub. L. 108–410, § 3(b)(3), added par. (5).
 
-Subsec. (g). Pub. L. 108–410, § 3(c), added subsec. (g).
+Subsec. (g). Pub. L. 108–410, § 3(c), added subsec. (g).
 
-### § 76r. Authorization of appropriations
+### § 76r. Authorization of appropriations
 
 **(a) Maintenance, repair, and security** There are authorized to be appropriated to the Board to carry out section 76j(a)(1)(H) of this title—
 
@@ -2065,7 +2065,7 @@ There are authorized to be appropriated to the Board such sums as are necessary 
 
 No funds appropriated pursuant to this section may be used for any direct expense incurred in the production of a performing arts attraction, for personnel who are involved in performing arts administration (including any supply or equipment used by the personnel), or for production, staging, public relations, marketing, fundraising, ticket sales, or education. Funds appropriated directly to the Board shall not affect nor diminish other Federal funds sought for any performing arts function and may be used to reimburse the Board for that portion of costs that are Federal costs reasonably allocated to building services and theater maintenance and repair.
 
-(Pub. L. 85–874, § 13, formerly § 12, as added Pub. L. 103–279, § 7, July 21, 1994, 108 Stat. 1415; amended Pub. L. 105–226, § 5, Aug. 12, 1998, 112 Stat. 1513; renumbered § 13 and amended Pub. L. 107–224, §§ 2(1), 3, Sept. 18, 2002, 116 Stat. 1340, 1342; Pub. L. 108–410, § 2, Oct. 30, 2004, 118 Stat. 2303; Pub. L. 109–306, § 1, Oct. 6, 2006, 120 Stat. 1720; Pub. L. 110–338, § 4, Oct. 3, 2008, 122 Stat. 3731; Pub. L. 112–131, § 3, June 8, 2012, 126 Stat. 378; Pub. L. 114–113, div. G, title IV, § 427, Dec. 18, 2015, 129 Stat. 2583; Pub. L. 115–31, div. G, title IV, § 429, May 5, 2017, 131 Stat. 501; Pub. L. 115–141, div. G, title IV, § 426, Mar. 23, 2018, 132 Stat. 693; Pub. L. 116–6, div. E, title IV, § 425, Feb. 15, 2019, 133 Stat. 264; Pub. L. 116–94, div. D, title IV, § 423, div. P, title VI, § 602, Dec. 20, 2019, 133 Stat. 2748, 3194.)
+(Pub. L. 85–874, § 13, formerly § 12, as added Pub. L. 103–279, § 7, July 21, 1994, 108 Stat. 1415; amended Pub. L. 105–226, § 5, Aug. 12, 1998, 112 Stat. 1513; renumbered § 13 and amended Pub. L. 107–224, §§ 2(1), 3, Sept. 18, 2002, 116 Stat. 1340, 1342; Pub. L. 108–410, § 2, Oct. 30, 2004, 118 Stat. 2303; Pub. L. 109–306, § 1, Oct. 6, 2006, 120 Stat. 1720; Pub. L. 110–338, § 4, Oct. 3, 2008, 122 Stat. 3731; Pub. L. 112–131, § 3, June 8, 2012, 126 Stat. 378; Pub. L. 114–113, div. G, title IV, § 427, Dec. 18, 2015, 129 Stat. 2583; Pub. L. 115–31, div. G, title IV, § 429, May 5, 2017, 131 Stat. 501; Pub. L. 115–141, div. G, title IV, § 426, Mar. 23, 2018, 132 Stat. 693; Pub. L. 116–6, div. E, title IV, § 425, Feb. 15, 2019, 133 Stat. 264; Pub. L. 116–94, div. D, title IV, § 423, div. P, title VI, § 602, Dec. 20, 2019, 133 Stat. 2748, 3194.)
 
 **Editorial Notes**
 
@@ -2075,13 +2075,13 @@ A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classifi
 
 **Amendments**
 
-2019—Subsecs. (a), (b). Pub. L. 116–94, § 602, added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+2019—Subsecs. (a), (b). Pub. L. 116–94, § 602, added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out section 76j(a)(1)(H) of this title, $25,690,000 for fiscal year 2020.
 
 “(b) Capital Projects.—There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of section 76j(a)(1) of this title, $17,800,000 for fiscal year 2020.”
 
-Pub. L. 116–94, § 423, added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+Pub. L. 116–94, § 423, added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out section 76j(a)(1)(H) of this title, $24,490,000 for fiscal year 2019.
 
@@ -2137,7 +2137,7 @@ Pub. L. 116–6 added subsecs. (a) and (b) and struck out former subsecs. (a) an
 
 “(5) $18,500,000 for fiscal year 2012.”
 
-2008—Subsecs. (a), (b). Pub. L. 110–338, § 4(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+2008—Subsecs. (a), (b). Pub. L. 110–338, § 4(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Maintenance, Repair, and Security.—There are authorized to be appropriated to the Board to carry out section 76j(a)(1)(H) of this title—
 
@@ -2155,11 +2155,11 @@ Pub. L. 116–6 added subsecs. (a) and (b) and struck out former subsecs. (a) an
 
 “(3) $20,000,000 for fiscal year 2007.”
 
-Subsecs. (d), (e). Pub. L. 110–338, § 4(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 110–338, § 4(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2006—Subsec. (a). Pub. L. 109–306, § 1(a), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
+2006—Subsec. (a). Pub. L. 109–306, § 1(a), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
 
-Subsec. (b). Pub. L. 109–306, § 1(b), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
+Subsec. (b). Pub. L. 109–306, § 1(b), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
 
 2004—Subsecs. (a), (b). Pub. L. 108–410 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
@@ -2179,7 +2179,7 @@ Subsec. (b). Pub. L. 109–306, § 1(b), struck out “and” at end of par. (
 
 “(3) $17,000,000 for fiscal year 2003.”
 
-2002—Subsecs. (c), (d). Pub. L. 107–224, § 3, added subsec. (c) and redesignated former subsec. (c) as (d).
+2002—Subsecs. (c), (d). Pub. L. 107–224, § 3, added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1998—Subsecs. (a), (b). Pub. L. 105–226 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
@@ -2187,23 +2187,23 @@ Subsec. (b). Pub. L. 109–306, § 1(b), struck out “and” at end of par. (
 
 “(b) Capital Projects.—There are authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of section 76j(a)(1) of this title $9,000,000 for each of fiscal years 1995 through 1999.”
 
-### § 76s. Definitions
+### § 76s. Definitions
 
 As used in this subchapter, the terms “building and site of the John F. Kennedy Center for the Performing Arts” and “grounds of the John F. Kennedy Center for the Performing Arts” refer to the site in the District of Columbia on which the John F. Kennedy Center building is constructed and that extends to the line of the west face of the west retaining walls and curbs of the Inner Loop Freeway on the east, the north face of the north retaining walls and curbs of the Theodore Roosevelt Bridge approaches on the south, the east face of the east retaining walls and curbs of Rock Creek Parkway on the west, and the south curbs of New Hampshire Avenue and F Street on the north, as generally depicted on the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563, and dated April 20, 1994 (as amended by the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563A and dated May 22, 1997), which shall be on file and available for public inspection in the office of the National Capital Region, National Park Service, Department of the Interior. Upon completion of the project for establishment of the John F. Kennedy Center Plaza authorized by section 76q–1 of this title, the Board, in consultation with the Secretary of Transportation, shall amend the map that is on file and available for public inspection under the preceding sentence.
 
-(Pub. L. 85–874, § 14, formerly § 13, as added Pub. L. 103–279, § 8, July 21, 1994, 108 Stat. 1416; amended Pub. L. 105–95, § 4, Nov. 19, 1997, 111 Stat. 2149; renumbered § 14 and amended Pub. L. 107–224, §§ 2(1), 4(b), Sept. 18, 2002, 116 Stat. 1340, 1343.)
+(Pub. L. 85–874, § 14, formerly § 13, as added Pub. L. 103–279, § 8, July 21, 1994, 108 Stat. 1416; amended Pub. L. 105–95, § 4, Nov. 19, 1997, 111 Stat. 2149; renumbered § 14 and amended Pub. L. 107–224, §§ 2(1), 4(b), Sept. 18, 2002, 116 Stat. 1340, 1343.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Pub. L. 107–224, § 4(b), inserted at end: “Upon completion of the project for establishment of the John F. Kennedy Center Plaza authorized by section 76q–1 of this title, the Board, in consultation with the Secretary of Transportation, shall amend the map that is on file and available for public inspection under the preceding sentence.”
+2002—Pub. L. 107–224, § 4(b), inserted at end: “Upon completion of the project for establishment of the John F. Kennedy Center Plaza authorized by section 76q–1 of this title, the Board, in consultation with the Secretary of Transportation, shall amend the map that is on file and available for public inspection under the preceding sentence.”
 
 1997—Pub. L. 105–95 inserted “(as amended by the map entitled ‘Transfer of John F. Kennedy Center for the Performing Arts’, numbered 844/82563A and dated May 22, 1997)” after “April 20, 1994”.
 
 ## SUBCHAPTER VI—JOSEPH H. HIRSHHORN MUSEUM AND SCULPTURE GARDEN
 
-### § 76aa. Site for museum and sculpture garden
+### § 76aa. Site for museum and sculpture garden
 
 **(a) Appropriation and availability**
 
@@ -2213,17 +2213,17 @@ The area bounded by Seventh Street, Independence Avenue, Ninth Street, and Jeffe
 
 The Board of Regents of the Smithsonian Institution is authorized to remove any existing structure, to prepare architectural and engineering designs, plans, and specifications, and to construct a suitable museum within said area lying south of Jefferson Drive and to provide a sculpture garden for the use of the Smithsonian Institution within the areas designated in subsection (a) of this section.
 
-(Pub. L. 89–788, § 1, Nov. 7, 1966, 80 Stat. 1403.)
+(Pub. L. 89–788, § 1, Nov. 7, 1966, 80 Stat. 1403.)
 
-### § 76bb. Joseph H. Hirshhorn Museum and Sculpture Garden
+### § 76bb. Joseph H. Hirshhorn Museum and Sculpture Garden
 
 **(a) Designation; administration by Board of Regents; cooperation of Board with Secretary of the Interior**
 
-The museum and sculpture garden provided for by this subchapter shall be designated and known in perpetuity as the Joseph H. Hirshhorn Museum and Sculpture Garden, and shall be a free public museum and sculpture garden under the administration of the Board of Regents of the Smithsonian Institution. In administering the sculpture garden the Board shall cooperate with the Secretary of 1
+The museum and sculpture garden provided for by this subchapter shall be designated and known in perpetuity as the Joseph H. Hirshhorn Museum and Sculpture Garden, and shall be a free public museum and sculpture garden under the administration of the Board of Regents of the Smithsonian Institution. In administering the sculpture garden the Board shall cooperate with the Secretary of 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
-Interior so that the development and use of the Garden is consistent with the open-space concept of the Mall, for which the Secretary of 1 Interior is responsible, and with related development regarding underground garages and street development.
+Interior so that the development and use of the Garden is consistent with the open-space concept of the Mall, for which the Secretary of 1 Interior is responsible, and with related development regarding underground garages and street development.
 
 **(b) Federal funds**
 
@@ -2233,9 +2233,9 @@ The faith of the United States is pledged that the United States shall provide s
 
 The Joseph H. Hirshhorn Museum and Sculpture Garden shall be the permanent home of the collections of art of Joseph H. Hirshhorn and the Joseph H. Hirshhorn Foundation, and shall be used for the storage, exhibition, and study of works of art, and for the administration of the affairs of the Joseph H. Hirshhorn Museum and Sculpture Garden.
 
-(Pub. L. 89–788, § 2, Nov. 7, 1966, 80 Stat. 1403.)
+(Pub. L. 89–788, § 2, Nov. 7, 1966, 80 Stat. 1403.)
 
-### § 76cc. Board of Trustees
+### § 76cc. Board of Trustees
 
 **(a) Establishment; powers and duties**
 
@@ -2245,29 +2245,29 @@ There is established in the Smithsonian Institution a Board of Trustees to be kn
 
 The Board of Trustees shall be composed of the Chief Justice of the United States and the Secretary of the Smithsonian Institution, who shall serve as ex officio members, and eight general members to be appointed as follows: Four of the general members first taking office shall be appointed by the President of the United States from among nominations submitted by Joseph H. Hirshhorn and four shall be appointed by the President from among nominations submitted by the Board of Regents of the Smithsonian Institution. The general members so appointed by the President shall have terms expiring one each on July 1, 1968, 1969, 1970, 1971, 1972, 1973, 1974, and 1975, as designated by the President. Successor general members (who may be elected from among members whose terms have expired) shall serve for a term of six years, except that a successor chosen to fill a vacancy occurring prior to the expiration of the term of office of his predecessor shall be chosen only for the remainder of such term. Vacancies occurring among general members of the Board of Trustees of the Joseph H. Hirshhorn Museum and Sculpture Garden shall be filled by a vote of not less than four-fifths of the then acting members of the Board of Trustees.
 
-(Pub. L. 89–788, § 3, Nov. 7, 1966, 80 Stat. 1404.)
+(Pub. L. 89–788, § 3, Nov. 7, 1966, 80 Stat. 1404.)
 
-### § 76dd. Director, administrator, curators, and other personnel; appointment, compensation, and duties
+### § 76dd. Director, administrator, curators, and other personnel; appointment, compensation, and duties
 
 The Board of Regents of the Smithsonian Institution may appoint and fix the compensation and duties of a director and, subject to his supervision, an administrator and two curators of the Joseph H. Hirshhorn Museum and Sculpture Garden, none of whose appointment, compensation, or duties shall be subject to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5. The Board of Regents may employ such other officers and employees as may be necessary for the efficient administration, operation, and maintenance of the Joseph H. Hirshhorn Museum and Sculpture Garden.
 
-(Pub. L. 89–788, § 4, Nov. 7, 1966, 80 Stat. 1404.)
+(Pub. L. 89–788, § 4, Nov. 7, 1966, 80 Stat. 1404.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-### § 76ee. Authorization of appropriations
+### § 76ee. Authorization of appropriations
 
 There is authorized to be appropriated not to exceed $15,000,000 for the planning and construction of the Joseph H. Hirshhorn Museum and Sculpture Garden, and such additional sums as may be necessary for the maintenance and operation of such museum and sculpture garden.
 
-(Pub. L. 89–788, § 5, Nov. 7, 1966, 80 Stat. 1404.)
+(Pub. L. 89–788, § 5, Nov. 7, 1966, 80 Stat. 1404.)
 
 ## SUBCHAPTER VII—NATIONAL AIR AND SPACE MUSEUM
 
-### § 77. National Air and Space Museum
+### § 77. National Air and Space Museum
 
 **(a) Establishment; board; administration; reimbursement of expenses**
 
@@ -2277,7 +2277,7 @@ There is hereby established under the Smithsonian Institution a bureau to be kno
 
 The Secretary of the Smithsonian Institution, with the advice of the board, may appoint and fix the compensation and duties of the head of a national air and space museum whose appointment shall not be subject to the civil service laws.
 
-(Aug. 12, 1946, ch. 955, § 1, 60 Stat. 997; July 26, 1947, ch. 343, title II, § 208(b), 61 Stat. 503; Pub. L. 89–509, pt. I, §§ 2, 3, July 19, 1966, 80 Stat. 310; Pub. L. 89–670, §§ 3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938; Pub. L. 116–283, div. A, title IX, § 927(g), Jan. 1, 2021, 134 Stat. 3832.)
+(Aug. 12, 1946, ch. 955, § 1, 60 Stat. 997; July 26, 1947, ch. 343, title II, § 208(b), 61 Stat. 503; Pub. L. 89–509, pt. I, §§ 2, 3, July 19, 1966, 80 Stat. 310; Pub. L. 89–670, §§ 3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938; Pub. L. 116–283, div. A, title IX, § 927(g), Jan. 1, 2021, 134 Stat. 3832.)
 
 **Editorial Notes**
 
@@ -2285,27 +2285,27 @@ The Secretary of the Smithsonian Institution, with the advice of the board, may 
 
 2021—Subsec. (a). Pub. L. 116–283, which directed amendment of subsec. (a) of section 1 of the Act of August 12, 1946 (60 Stat. 997, chapter 995; 20 U.S.C. 77(a)) by inserting “the Chief of Space Operations, or the Chief’s designee,” after “the Chief of Staff of the Air Force, or his designee,”, was executed to this section, which is section 1 of act of Aug. 12, 1946, ch. 955, to reflect the probable intent of Congress.
 
-1966—Subsec. (a). Pub. L. 89–509, § 2, changed the name of the museum from the National Air Museum to the National Air and Space Museum, expanded the advisory board to include additional members including the Chief of Staff of the Army, the Commandant of the Marine Corps, the Commandant of the Coast Guard, the Administrator of the National Aeronautics and Space Administration, the Administrator of the Federal Aviation Agency, and an additional member appointed from civilian life to serve at the pleasure of the President, and provided for reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
+1966—Subsec. (a). Pub. L. 89–509, § 2, changed the name of the museum from the National Air Museum to the National Air and Space Museum, expanded the advisory board to include additional members including the Chief of Staff of the Army, the Commandant of the Marine Corps, the Commandant of the Coast Guard, the Administrator of the National Aeronautics and Space Administration, the Administrator of the Federal Aviation Agency, and an additional member appointed from civilian life to serve at the pleasure of the President, and provided for reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
 
-Subsec. (b). Pub. L. 89–509, § 3, substituted “national air and space museum” for “national air museum” and struck out provision that the salary of the head of the museum shall not be subject to the Classification Act of 1923, as amended.
+Subsec. (b). Pub. L. 89–509, § 3, substituted “national air and space museum” for “national air museum” and struck out provision that the salary of the head of the museum shall not be subject to the Classification Act of 1923, as amended.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1966 Amendment**
 
-Pub. L. 89–509, § 1, July 19, 1966, 80 Stat. 310, provided: “That this Act [amending this section, sections 77a, 77c, and 77d of this title, and provisions set out as notes under this section and sections 77b and 77d of this title, and repealing section 77b of this title] may be cited as ‘the National Air Museum Amendments Act of 1965’.”
+Pub. L. 89–509, § 1, July 19, 1966, 80 Stat. 310, provided: “That this Act [amending this section, sections 77a, 77c, and 77d of this title, and provisions set out as notes under this section and sections 77b and 77d of this title, and repealing section 77b of this title] may be cited as ‘the National Air Museum Amendments Act of 1965’.”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-“Chief of Staff of the Air Force” substituted in subsec. (a) for “Commanding General of the Army Air Forces” pursuant to act July 26, 1947, ch. 343, title II, § 208(b), 61 Stat. 503, which transferred functions of Commanding General of the Army Air Forces to Chief of Staff, United States Air Force. Section 208(b) of act July 26, 1947 was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. See sections 8031 and 8034 of Title 10, Armed Forces.
+“Chief of Staff of the Air Force” substituted in subsec. (a) for “Commanding General of the Army Air Forces” pursuant to act July 26, 1947, ch. 343, title II, § 208(b), 61 Stat. 503, which transferred functions of Commanding General of the Army Air Forces to Chief of Staff, United States Air Force. Section 208(b) of act July 26, 1947 was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. See sections 8031 and 8034 of Title 10, Armed Forces.
 
-“Federal Aviation Administration” substituted in subsec. (a) for “Federal Aviation Agency” pursuant to Pub. L. 89–670, §§ 3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938, which transferred all functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof to Secretary of Transportation and established a Federal Aviation Administration in Department of Transportation. See section 106 of Title 49, Transportation.
+“Federal Aviation Administration” substituted in subsec. (a) for “Federal Aviation Agency” pursuant to Pub. L. 89–670, §§ 3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938, which transferred all functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof to Secretary of Transportation and established a Federal Aviation Administration in Department of Transportation. See section 106 of Title 49, Transportation.
 
 **Appropriations**
 
-Act Aug. 12, 1946, ch. 955, § 6, 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, § 10, July 19, 1966, 80 Stat. 311, provided that: “There is hereby authorized to be appropriated the sum of $50,000 for the purposes of this Act [this subchapter] and there are hereby authorized to be appropriated annually hereafter such sums as may be necessary to maintain and administer said national air and space museum including salaries and all other necessary expenses.”
+Act Aug. 12, 1946, ch. 955, § 6, 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, § 10, July 19, 1966, 80 Stat. 311, provided that: “There is hereby authorized to be appropriated the sum of $50,000 for the purposes of this Act [this subchapter] and there are hereby authorized to be appropriated annually hereafter such sums as may be necessary to maintain and administer said national air and space museum including salaries and all other necessary expenses.”
 
 **Construction of Museum Center**
 
@@ -2333,13 +2333,13 @@ Pub. L. 103–57, Aug. 2, 1993, 107 Stat. 279, provided that:
 
 **Ratification of Compensation Paid Head of Museum**
 
-Pub. L. 89–509, pt. I, § 11, July 19, 1966, 80 Stat. 311, provided that: “Payments of compensation heretofore made to the head of the National Air Museum at rates fixed by the Secretary of the Smithsonian Institution without regard to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees] are hereby ratified and affirmed.”
+Pub. L. 89–509, pt. I, § 11, July 19, 1966, 80 Stat. 311, provided that: “Payments of compensation heretofore made to the head of the National Air Museum at rates fixed by the Secretary of the Smithsonian Institution without regard to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees] are hereby ratified and affirmed.”
 
-### § 77a. Functions of museum
+### § 77a. Functions of museum
 
 The national air and space museum shall memorialize the national development of aviation and space flight; collect, preserve, and display aeronautical and space flight equipment of historical interest and significance; serve as a repository for scientific equipment and data pertaining to the development of aviation and space flight; and provide educational material for the historical study of aviation and space flight.
 
-(Aug. 12, 1946, ch. 955, § 2, 60 Stat. 998; Pub. L. 89–509, pt. I, § 4, July 19, 1966, 80 Stat. 310.)
+(Aug. 12, 1946, ch. 955, § 2, 60 Stat. 998; Pub. L. 89–509, pt. I, § 4, July 19, 1966, 80 Stat. 310.)
 
 **Editorial Notes**
 
@@ -2347,17 +2347,17 @@ The national air and space museum shall memorialize the national development of 
 
 1966—Pub. L. 89–509 substituted “national air and space museum” for “national air museum”, inserted “and space flight” after “aviation” wherever appearing, and substituted “aeronautical and space flight equipment” for “aeronautical equipment”.
 
-### § 77b. Repealed. Pub. L. 89–509, pt. I, § 5, July 19, 1966, 80 Stat. 310
+### § 77b. Repealed. Pub. L. 89–509, pt. I, § 5, July 19, 1966, 80 Stat. 310
 
-Section, act Aug. 12, 1946, ch. 955, § 3, 60 Stat. 998, directed Secretary of Smithsonian Institution to investigate and survey suitable lands and buildings for selection as a site for national air museum and to make recommendations to Congress.
+Section, act Aug. 12, 1946, ch. 955, § 3, 60 Stat. 998, directed Secretary of Smithsonian Institution to investigate and survey suitable lands and buildings for selection as a site for national air museum and to make recommendations to Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction Plans; Location; Design; Supervision of Drawings and Specifications; Construction; Authorization and Transfer of Appropriations**
 
-Pub. L. 85–935, Sept. 6, 1958, 72 Stat. 1794, as amended by Pub. L. 89–509, §§ 12, 13, July 19, 1966, 80 Stat. 311, 312, authorized and directed Regents of Smithsonian Institution to prepare plans and to construct a building for a National Air and Space Museum at a certain site with exact location to be approved by National Capital Planning Commission and design to be approved by Commission of Fine Arts and with supervision of work to be by Administrator of General Services Administration and also appropriated such sums as were necessary to carry out the work.
+Pub. L. 85–935, Sept. 6, 1958, 72 Stat. 1794, as amended by Pub. L. 89–509, §§ 12, 13, July 19, 1966, 80 Stat. 311, 312, authorized and directed Regents of Smithsonian Institution to prepare plans and to construct a building for a National Air and Space Museum at a certain site with exact location to be approved by National Capital Planning Commission and design to be approved by Commission of Fine Arts and with supervision of work to be by Administrator of General Services Administration and also appropriated such sums as were necessary to carry out the work.
 
-### § 77c. Museum board
+### § 77c. Museum board
 
 **(a) Seal; regulations; vacancies**
 
@@ -2367,21 +2367,21 @@ The board is authorized to adopt an official seal which shall be judicially noti
 
 The Smithsonian Institution shall include in its annual report of its operations to Congress a statement of the operations of said national air and space museum, including all public and private moneys received and disbursed.
 
-(Aug. 12, 1946, ch. 955, § 4, 60 Stat. 998; Pub. L. 89–509, pt. I, §§ 6, 7, July 19, 1966, 80 Stat. 310, 311.)
+(Aug. 12, 1946, ch. 955, § 4, 60 Stat. 998; Pub. L. 89–509, pt. I, §§ 6, 7, July 19, 1966, 80 Stat. 310, 311.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1966—Subsec. (a). Pub. L. 89–509, § 6, raised from three to six the number of board members required to constitute a quorum.
+1966—Subsec. (a). Pub. L. 89–509, § 6, raised from three to six the number of board members required to constitute a quorum.
 
-Subsec. (b). Pub. L. 89–509, § 7, substituted “national air and space museum” for “national air museum”.
+Subsec. (b). Pub. L. 89–509, § 7, substituted “national air and space museum” for “national air museum”.
 
-### § 77d. Transfer or loan of aeronautical or space flight equipment to museum
+### § 77d. Transfer or loan of aeronautical or space flight equipment to museum
 
 The heads of executive departments and independent agencies of the Government are authorized to transfer or loan to said national air and space museum without charge therefor, aircraft, spacecraft, aircraft and spacecraft parts, instruments, engines, or other aeronautical and space flight equipment or records for exhibition, historical, or educational purposes.
 
-(Aug. 12, 1946, ch. 955, § 5(a), 60 Stat. 998; Pub. L. 89–509, pt. I, § 8, July 19, 1966, 80 Stat. 311.)
+(Aug. 12, 1946, ch. 955, § 5(a), 60 Stat. 998; Pub. L. 89–509, pt. I, § 8, July 19, 1966, 80 Stat. 311.)
 
 **Editorial Notes**
 
@@ -2397,21 +2397,21 @@ Section consists of subsec. (a) of section 5 of act Aug. 12, 1946. Subsec. (b) o
 
 **Acceptance of Statue of General Mitchell**
 
-Act Aug. 12, 1946, ch. 955, § 5(b), 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, § 9, July 19, 1966, 80 Stat. 311, provided that: “The Secretary of the Smithsonian Institution, with the advice of the Commission of Fine Arts, is authorized (1) to accept as a gift to the Smithsonian Institution from George H. Stephenson, of Philadelphia, Pennsylvania, a statue of Brigadier General William L. Mitchell of such character as may be deemed appropriate, and (2) without expense to the United States, to cause such statue to be erected at a suitable location on the grounds of the national air and space museum.”
+Act Aug. 12, 1946, ch. 955, § 5(b), 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, § 9, July 19, 1966, 80 Stat. 311, provided that: “The Secretary of the Smithsonian Institution, with the advice of the Commission of Fine Arts, is authorized (1) to accept as a gift to the Smithsonian Institution from George H. Stephenson, of Philadelphia, Pennsylvania, a statue of Brigadier General William L. Mitchell of such character as may be deemed appropriate, and (2) without expense to the United States, to cause such statue to be erected at a suitable location on the grounds of the national air and space museum.”
 
 ## SUBCHAPTER VIII—PALEONTOLOGICAL INVESTIGATIONS
 
-### § 78. Cooperation of Smithsonian Institution with State institutions for continuing paleontological investigations
+### § 78. Cooperation of Smithsonian Institution with State institutions for continuing paleontological investigations
 
 The Secretary of the Smithsonian Institution is authorized to cooperate with any State, educational institution, or scientific organization in the United States for continuing paleontological investigations, and the excavation and preservation of fossil remains, in areas which will be flooded by the construction of Government dams or otherwise be made unavailable for such investigations because of such construction: *Provided*, That such investigations and activities shall not duplicate nor affect adversely similar operations being conducted by the Department of Interior in cooperation with the Smithsonian Institution.
 
-(Aug. 15, 1949, ch. 427, § 1, 63 Stat. 606.)
+(Aug. 15, 1949, ch. 427, § 1, 63 Stat. 606.)
 
-### § 78a. Authorization of appropriations; availability of funds; limit on use of funds during fiscal year; supervision; rules and regulations
+### § 78a. Authorization of appropriations; availability of funds; limit on use of funds during fiscal year; supervision; rules and regulations
 
 There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, the sum of $65,000, which shall be available until expended for the above purposes: *Provided*, That at such time as the Smithsonian Institution is satisfied that any State agency, or any educational institution or scientific organization in any of the United States, is prepared to contribute to such investigation and when in its judgment such investigation shall appear meritorious, the Secretary of the Smithsonian Institution may make available for such investigation such amounts from this sum as shall be equal to the amounts contributed respectively by each such State agency, or educational institution or scientific organization: *Provided further*, That the amount to be made available from this sum for such investigation in cooperation with each such State agency, or educational institution or scientific organization, shall not exceed $10,000 in any fiscal year: *Provided further*, That all such cooperative work and division of the result thereof shall be under the direction of the Secretary of the Smithsonian Institution: *Provided further*, That where lands are involved which are controlled by the Government of the United States, cooperative work thereon shall be under the provisions of section 1866(b) of title 18 and sections 320302 and 320303 of title 54, and rules and regulations pertaining thereto.
 
-(Aug. 15, 1949, ch. 427, § 2, 63 Stat. 606; Pub. L. 113–287, § 5(e)(1), Dec. 19, 2014, 128 Stat. 3268.)
+(Aug. 15, 1949, ch. 427, § 2, 63 Stat. 606; Pub. L. 113–287, § 5(e)(1), Dec. 19, 2014, 128 Stat. 3268.)
 
 **Editorial Notes**
 
@@ -2421,11 +2421,11 @@ There is authorized to be appropriated, out of any money in the Treasury not oth
 
 ## SUBCHAPTER IX—CANAL ZONE BIOLOGICAL AREA
 
-### § 79. Barro Colorado Island in Gatun Lake to be set aside
+### § 79. Barro Colorado Island in Gatun Lake to be set aside
 
 The President is authorized and directed to set aside within the Canal Zone an area in Gatun Lake known as Barro Colorado Island in which the natural features shall, except in event of declared national emergency, be left in their natural state for scientific observation and investigation.
 
-(July 2, 1940, ch. 516, § 1, 54 Stat. 724.)
+(July 2, 1940, ch. 516, § 1, 54 Stat. 724.)
 
 **Editorial Notes**
 
@@ -2441,13 +2441,13 @@ Section was formerly classified to section 1381 of Title 48, Territories and Ins
 
 **Termination of War and Emergencies**
 
-Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
-### § 79a. Preservation of natural features for scientific observation and investigation
+### § 79a. Preservation of natural features for scientific observation and investigation
 
 The purpose of setting aside such an area is to preserve and conserve its natural features, including existing flora and fauna, in as nearly a natural condition as possible, thus providing a place where duly qualified students can make observations and scientific investigations for increase of knowledge, under such conditions and regulations as may be prescribed by the Smithsonian Institution.
 
-(July 2, 1940, ch. 516, § 2, 54 Stat. 724; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
+(July 2, 1940, ch. 516, § 2, 54 Stat. 724; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
 
 **Editorial Notes**
 
@@ -2461,15 +2461,15 @@ Section was formerly classified to section 1382 of Title 48, Territories and Ins
 
 “Smithsonian Institution” substituted in text for “Board of Directors of the Canal Zone Biological Area” by Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 79b. Functions of Smithsonian Institution
+### § 79b. Functions of Smithsonian Institution
 
-The Smithsonian Institution shall (a) determine the policy, prescribe conditions under which studies may be pursued within the area, and promulgate regulations for carrying out the purposes of this subchapter; (b) be responsible for the construction and maintenance of laboratory and other facilities on the area provided for the use of students authorized to carry on studies within the confines of the area; (c) deposit into the Treasury of the United States sums donated or subscribed or collected to be expended for carrying out the purposes of this subchapter; (d) in its discretion, fixed 1
+The Smithsonian Institution shall (a) determine the policy, prescribe conditions under which studies may be pursued within the area, and promulgate regulations for carrying out the purposes of this subchapter; (b) be responsible for the construction and maintenance of laboratory and other facilities on the area provided for the use of students authorized to carry on studies within the confines of the area; (c) deposit into the Treasury of the United States sums donated or subscribed or collected to be expended for carrying out the purposes of this subchapter; (d) in its discretion, fixed 1
 
-<sup>1</sup>  So in original. Probably should be “fix”.
+<sup>1</sup> So in original. Probably should be “fix”.
 
 charges that may be made for use of laboratory or other facilities provided students authorized to make observations and investigations within the prescribed area and provide for the collection of such sums for deposit into the Treasury of the United States; (e) make such disposal of any moneys donated, subscribed, collected, or otherwise provided as in its judgment is to the best interest in carrying out the purpose of this subchapter: *Provided*, That sums contributed or appropriated for specific purposes shall be used for such purpose only; and (f) include in its annual report of its operations to Congress a statement of activities and operations during the preceding year.
 
-(July 2, 1940, ch. 516, § 4, 54 Stat. 724; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101; Pub. L. 89–280, § 2, Oct. 20, 1965, 79 Stat. 1012.)
+(July 2, 1940, ch. 516, § 4, 54 Stat. 724; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101; Pub. L. 89–280, § 2, Oct. 20, 1965, 79 Stat. 1012.)
 
 **Editorial Notes**
 
@@ -2487,11 +2487,11 @@ Section was formerly classified to section 1384 of Title 48, Territories and Ins
 
 “Smithsonian Institution” substituted in text for “Board of Directors of the Canal Zone Biological Area” and former clause (a) which provided for annual meetings of Board was superseded by Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 79c. Resident manager; powers and duties; compensation
+### § 79c. Resident manager; powers and duties; compensation
 
 The Smithsonian Institution may select and designate a resident manager to assist in carrying out the policy, conditions, and regulations approved by it in compliance with the purposes of this subchapter. The resident manager shall receive such compensation for his services as may be allowed by the Smithsonian Institution.
 
-(July 2, 1940, ch. 516, § 5, 54 Stat. 725; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
+(July 2, 1940, ch. 516, § 5, 54 Stat. 725; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
 
 **Editorial Notes**
 
@@ -2505,11 +2505,11 @@ Section was formerly classified to section 1385 of Title 48, Territories and Ins
 
 References to the “Board of Directors of the Canal Zone Biological Area” and its “executive officer” changed to “Smithsonian Institution” and provisions for the appointment and compensation of said executive officer were superseded by Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 79d. Deposit of receipts into Treasury; disbursements
+### § 79d. Deposit of receipts into Treasury; disbursements
 
 All moneys received by donation, subscription, fees, or otherwise, except the moneys appropriated pursuant to section 79e of this title, for carrying out the purposes of this subchapter shall be deposited into the Treasury as trust funds and are appropriated for such purposes. Disbursements of such funds shall be made by the Secretary of the Treasury through the Fiscal Service on requisitions or vouchers signed by or on authority of the Smithsonian Institution.
 
-(July 2, 1940, ch. 516, § 6, 54 Stat. 725; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
+(July 2, 1940, ch. 516, § 6, 54 Stat. 725; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
 
 **Editorial Notes**
 
@@ -2521,17 +2521,17 @@ Section was formerly classified to section 1386 of Title 48, Territories and Ins
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Smithsonian Institution” substituted in text for “executive officer of the Board of Directors of the Canal Zone Biological Area” by Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
 “Fiscal Service” substituted in text for “Division of Disbursement” on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, which consolidated such division into Fiscal Service of Department of the Treasury. See section 306 of Title 31, Money and Finance.
 
-### § 79e. Authorization of appropriations
+### § 79e. Authorization of appropriations
 
 There are authorized to be appropriated annually, from money in the Treasury of the United States not otherwise appropriated, such sums as are necessary for the administration of this subchapter and for the maintenance of laboratory or other facilities provided for carrying out the purposes of this subchapter.
 
-(July 2, 1940, ch. 516, § 7, 54 Stat. 725; Pub. L. 89–280, § 1, Oct. 20, 1965, 79 Stat. 1012; Pub. L. 96–89, § 1, Oct. 19, 1979, 93 Stat. 697; Pub. L. 98–57, § 1, July 22, 1983, 97 Stat. 293.)
+(July 2, 1940, ch. 516, § 7, 54 Stat. 725; Pub. L. 89–280, § 1, Oct. 20, 1965, 79 Stat. 1012; Pub. L. 96–89, § 1, Oct. 19, 1979, 93 Stat. 697; Pub. L. 98–57, § 1, July 22, 1983, 97 Stat. 293.)
 
 **Editorial Notes**
 
@@ -2541,7 +2541,7 @@ Section was formerly classified to section 1387 of Title 48, Territories and Ins
 
 **Amendments**
 
-1983—Pub. L. 98–57 struck out “, not to exceed $750,000” after “such sums”.
+1983—Pub. L. 98–57 struck out “, not to exceed $750,000” after “such sums”.
 
 1979—Pub. L. 96–89 substituted “$750,000” for “$350,000”.
 
@@ -2551,15 +2551,15 @@ Section was formerly classified to section 1387 of Title 48, Territories and Ins
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–57, § 2, July 22, 1983, 97 Stat. 293, provided that: “The provision in the first section of this Act [amending this section] shall take effect on October 1, 1983.”
+Pub. L. 98–57, § 2, July 22, 1983, 97 Stat. 293, provided that: “The provision in the first section of this Act [amending this section] shall take effect on October 1, 1983.”
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–89, § 2, Oct. 19, 1979, 93 Stat. 697, provided that: “The provision in section 1 of this Act [amending this section] shall take effect on October 1, 1979.”
+Pub. L. 96–89, § 2, Oct. 19, 1979, 93 Stat. 697, provided that: “The provision in section 1 of this Act [amending this section] shall take effect on October 1, 1979.”
 
 ## SUBCHAPTER X—NATIONAL ARMED FORCES MUSEUM ADVISORY BOARD
 
-### § 80. National Armed Forces Museum Advisory Board
+### § 80. National Armed Forces Museum Advisory Board
 
 **(a) Establishment; functions**
 
@@ -2589,9 +2589,9 @@ The members of the Board shall serve without compensation but shall be reimburse
 
 The Board shall select officers from among its members biennially and shall make such bylaws, rules, and regulations as it deems necessary for the furtherance of its business.
 
-(Pub. L. 87–186, § 1, Aug. 30, 1961, 75 Stat. 414.)
+(Pub. L. 87–186, § 1, Aug. 30, 1961, 75 Stat. 414.)
 
-### § 80a. Display of contributions of Armed Forces
+### § 80a. Display of contributions of Armed Forces
 
 **(a) Study center; historical collections**
 
@@ -2601,7 +2601,7 @@ The Smithsonian Institution shall commemorate and display the contributions made
 
 The provisions of this subchapter in no way rescind subchapter VII of this chapter, which established the National Air and Space Museum of the Smithsonian Institution, or any other authority of the Smithsonian Institution.
 
-(Pub. L. 87–186, § 2, Aug. 30, 1961, 75 Stat. 414; Pub. L. 89–509, pt. I, § 2, July 19, 1966, 80 Stat. 310.)
+(Pub. L. 87–186, § 2, Aug. 30, 1961, 75 Stat. 414; Pub. L. 89–509, pt. I, § 2, July 19, 1966, 80 Stat. 310.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2609,7 +2609,7 @@ The provisions of this subchapter in no way rescind subchapter VII of this chapt
 
 “National Air and Space Museum” substituted for “National Air Museum” in subsec. (b) pursuant to section 2 of Pub. L. 89–509, which is classified to section 77 of this title.
 
-### § 80b. Selection of site
+### § 80b. Selection of site
 
 **(a) Authorization of Board of Regents; submission of recommendations to Congress**
 
@@ -2619,23 +2619,23 @@ The Board of Regents of the Smithsonian Institution is authorized and directed, 
 
 Buildings acquired pursuant to recommendations made under subsection (a) of this section shall be used to house public exhibits and study collections that are not appropriate for the military exhibits of the Smithsonian Institution on the Mall in the District of Columbia. Facilities shall be provided for the display of large military objects and for the reconstruction, in an appropriate way, on lands acquired pursuant to recommendations made under subsection (a) of this section, of exhibits showing the nature of fortifications, trenches, and other military and naval facilities characteristic of the American colonial period, the War of the Revolution, and subsequent American military and naval operations.
 
-(Pub. L. 87–186, § 3, Aug. 30, 1961, 75 Stat. 415.)
+(Pub. L. 87–186, § 3, Aug. 30, 1961, 75 Stat. 415.)
 
-### § 80c. Transfer or loan of objects, equipment and rec­ords to Smithsonian Institution
+### § 80c. Transfer or loan of objects, equipment and rec­ords to Smithsonian Institution
 
 The heads of executive departments and independent agencies of the Government are authorized to transfer or loan to the Smithsonian Institution for its use without charge therefor military, naval, aeronautical, and space objects, equipment and records for exhibition, historical, or other appropriate purposes.
 
-(Pub. L. 87–186, § 4, Aug. 30, 1961, 75 Stat. 415.)
+(Pub. L. 87–186, § 4, Aug. 30, 1961, 75 Stat. 415.)
 
-### § 80d. Authorization of appropriations
+### § 80d. Authorization of appropriations
 
 There are authorized to be appropriated to the Smithsonian Institution such sums as may be necessary for the purposes of this subchapter.
 
-(Pub. L. 87–186, § 5, Aug. 30, 1961, 75 Stat. 415.)
+(Pub. L. 87–186, § 5, Aug. 30, 1961, 75 Stat. 415.)
 
 ## SUBCHAPTER XI—WOODROW WILSON INTERNATIONAL CENTER FOR SCHOLARS
 
-### § 80e. Congressional declaration of policy
+### § 80e. Congressional declaration of policy
 
 The Congress hereby finds and declares—
 
@@ -2647,15 +2647,15 @@ The Congress hereby finds and declares—
 
 **(4)** that the establishment of such a center would be consonant with the purposes of the Smithsonian Institution, created by Congress in 1846 “for the increase and diffusion of knowledge among men.”
 
-(Pub. L. 90–637, § 2, Oct. 24, 1968, 82 Stat. 1357.)
+(Pub. L. 90–637, § 2, Oct. 24, 1968, 82 Stat. 1357.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 90–637, § 1, Oct. 24, 1968, 82 Stat. 1356, provided: “That this Act [enacting this subchapter] may be cited as the ‘Woodrow Wilson Memorial Act of 1968’.”
+Pub. L. 90–637, § 1, Oct. 24, 1968, 82 Stat. 1356, provided: “That this Act [enacting this subchapter] may be cited as the ‘Woodrow Wilson Memorial Act of 1968’.”
 
-### § 80f. Woodrow Wilson International Center for Scholars; Board of Trustees of the Center
+### § 80f. Woodrow Wilson International Center for Scholars; Board of Trustees of the Center
 
 **(a) Establishment**
 
@@ -2693,19 +2693,19 @@ Each member of the Board of Trustees appointed under paragraph (10) of subsectio
 
 The President shall designate a Chairman and a Vice Chairman from among the members of the Board chosen from private life.
 
-(Pub. L. 90–637, § 3, Oct. 24, 1968, 82 Stat. 1357; Pub. L. 95–426, title II, § 206, Oct. 7, 1978, 92 Stat. 975; Pub. L. 101–268, Apr. 9, 1990, 104 Stat. 132; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(i), Oct. 21, 1998, 112 Stat. 2681–788.)
+(Pub. L. 90–637, § 3, Oct. 24, 1968, 82 Stat. 1357; Pub. L. 95–426, title II, § 206, Oct. 7, 1978, 92 Stat. 975; Pub. L. 101–268, Apr. 9, 1990, 104 Stat. 132; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(i), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (b). Pub. L. 105–277, § 1335(i)(1)(A), substituted “17” for “19” in introductory provisions.
+1998—Subsec. (b). Pub. L. 105–277, § 1335(i)(1)(A), substituted “17” for “19” in introductory provisions.
 
-Subsec. (b)(7) to (10). Pub. L. 105–277, § 1335(i)(1)(B)–(D), redesignated pars. (8) to (10) as (7) to (9), respectively, in par. (9) substituted “9” for “10”, and struck out former par. (7) which read as follows: “the Director of the United States Information Agency;”.
+Subsec. (b)(7) to (10). Pub. L. 105–277, § 1335(i)(1)(B)–(D), redesignated pars. (8) to (10) as (7) to (9), respectively, in par. (9) substituted “9” for “10”, and struck out former par. (7) which read as follows: “the Director of the United States Information Agency;”.
 
-Subsec. (c). Pub. L. 105–277, § 1335(i)(2), substituted “(8)” for “(9)”.
+Subsec. (c). Pub. L. 105–277, § 1335(i)(2), substituted “(8)” for “(9)”.
 
-1990—Subsec. (b). Pub. L. 101–268, § 1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board of Trustees shall be composed of sixteen members as follows:
+1990—Subsec. (b). Pub. L. 101–268, § 1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board of Trustees shall be composed of sixteen members as follows:
 
 “(1) the Secretary of State;
 
@@ -2725,17 +2725,17 @@ Subsec. (c). Pub. L. 105–277, § 1335(i)(2), substituted “(8)” for “(9
 
 “(9) eight appointed by the President from private life.”
 
-Subsec. (c). Pub. L. 101–268, § 2(1), substituted “(9)” for “(8)”.
+Subsec. (c). Pub. L. 101–268, § 2(1), substituted “(9)” for “(8)”.
 
-Subsec. (d). Pub. L. 101–268, § 2(2), substituted “(10)” for “(9)”.
+Subsec. (d). Pub. L. 101–268, § 2(2), substituted “(10)” for “(9)”.
 
-1978—Subsec. (b). Pub. L. 95–426, § 206(a)(1), substituted “sixteen” for “fifteen”.
+1978—Subsec. (b). Pub. L. 95–426, § 206(a)(1), substituted “sixteen” for “fifteen”.
 
-Subsec. (b)(2) to (9). Pub. L. 95–426, § 206(a)(2), (3), designated pars. (2) to (8) as (3) to (9), respectively, and added a new par. (2) “the Director of the International Communication Agency”.
+Subsec. (b)(2) to (9). Pub. L. 95–426, § 206(a)(2), (3), designated pars. (2) to (8) as (3) to (9), respectively, and added a new par. (2) “the Director of the International Communication Agency”.
 
-Subsec. (c). Pub. L. 95–426, § 206(b)(1), substituted “(8)” for “(7)”.
+Subsec. (c). Pub. L. 95–426, § 206(b)(1), substituted “(8)” for “(7)”.
 
-Subsec. (d). Pub. L. 95–426, § 206(b)(2), substituted “(9)” for “(8)”.
+Subsec. (d). Pub. L. 95–426, § 206(b)(2), substituted “(9)” for “(8)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2743,7 +2743,7 @@ Subsec. (d). Pub. L. 95–426, § 206(b)(2), substituted “(9)” for “(8)�
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
 
-### § 80g. Powers and duties of Board
+### § 80g. Powers and duties of Board
 
 **(a) Appointment of scholars; gifts, bequests, etc.; grants; location of Center; physical facilities; compensation of officers; plans and specifications for Center** In administering the Center, the Board shall have all necessary and proper powers, which shall include but not be limited to the power to—
 
@@ -2765,19 +2765,19 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 The Board shall, in connection with acquisition of any site authorized by Congress, as provided for in paragraph (4) of subsection (a) of this section, provide, to businesses and residents displaced from any such site, relocation assistance, including payments and other benefits, equivalent to that authorized to displace businesses and residents under the Housing Act of 1949, as amended [42 U.S.C. 1441 et seq.]. The Board shall develop a relocation program for existing businesses and residents within the site and submit such program to the government of the District of Columbia for a determination as to its adequacy and feasibility. In providing such relocation assistance and developing such relocation program the Board shall utilize to the maximum extent the services and facilities of the appropriate Federal and local agencies.
 
-(Pub. L. 90–637, § 4, Oct. 24, 1968, 82 Stat. 1358; Pub. L. 95–286, § 2, May 26, 1978, 92 Stat. 279.)
+(Pub. L. 90–637, § 4, Oct. 24, 1968, 82 Stat. 1358; Pub. L. 95–286, § 2, May 26, 1978, 92 Stat. 279.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Housing Act of 1949, as amended, referred to in subsec. (b), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, as amended, referred to in subsec. (b), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 **Amendments**
 
 1978—Subsec. (a)(2). Pub. L. 95–286 substituted “devises” for “devices”.
 
-### § 80g–1. Hubert H. Humphrey Fellowship in Social and Political Thought
+### § 80g–1. Hubert H. Humphrey Fellowship in Social and Political Thought
 
 **(a) Establishment in Center**
 
@@ -2811,45 +2811,45 @@ The Secretary of the Treasury shall pay to the Board from amounts received as in
 
 There is authorized to be appropriated to the fund for the fiscal year beginning October 1, 1978, $1,000,000.
 
-(Pub. L. 90–637, § 5, as added Pub. L. 95–286, § 1(2), May 26, 1978, 92 Stat. 278.)
+(Pub. L. 90–637, § 5, as added Pub. L. 95–286, § 1(2), May 26, 1978, 92 Stat. 278.)
 
-### § 80h. Administration; quorum
+### § 80h. Administration; quorum
 
 The Board is authorized to adopt an official seal which shall be judicially noticed and to make such bylaws, rules, and regulations as it deems necessary for the administration of its functions under this subchapter, including, among other matters, bylaws, rules, and regulations relating to the administration of its trust funds and the organization and procedure of the Board. A majority of the members of the Board shall constitute a quorum for the transaction of business.
 
-(Pub. L. 90–637, § 6, formerly § 5, Oct. 24, 1968, 82 Stat. 1359, renumbered Pub. L. 95–286, § 1(1), May 26, 1978, 92 Stat. 278.)
+(Pub. L. 90–637, § 6, formerly § 5, Oct. 24, 1968, 82 Stat. 1359, renumbered Pub. L. 95–286, § 1(1), May 26, 1978, 92 Stat. 278.)
 
-### § 80i. Authorization of appropriations; limitations
+### § 80i. Authorization of appropriations; limitations
 
 There are hereby authorized to be appropriated to the Board such funds as may be necessary to carry out the purposes of this subchapter: *Provided*, That no more than $200,000 shall be authorized for appropriation through fiscal year 1970 and no part of that appropriation shall be available for construction purposes.
 
-(Pub. L. 90–637, § 7, formerly § 6, Oct. 24, 1968, 82 Stat. 1359, renumbered Pub. L. 95–286, § 1(1), May 26, 1978, 92 Stat. 278.)
+(Pub. L. 90–637, § 7, formerly § 6, Oct. 24, 1968, 82 Stat. 1359, renumbered Pub. L. 95–286, § 1(1), May 26, 1978, 92 Stat. 278.)
 
-### § 80j. Audit of accounts
+### § 80j. Audit of accounts
 
 The accounts of the Board shall be audited in accordance with the principles and procedures applicable to, and as part of, the audit of the other Federal and trust funds of the Smithsonian Institution.
 
-(Pub. L. 90–637, § 8, formerly § 7, Oct. 24, 1968, 82 Stat. 1359, renumbered Pub. L. 95–286, § 1(1), May 26, 1978, 92 Stat. 278.)
+(Pub. L. 90–637, § 8, formerly § 7, Oct. 24, 1968, 82 Stat. 1359, renumbered Pub. L. 95–286, § 1(1), May 26, 1978, 92 Stat. 278.)
 
 ## SUBCHAPTER XII—MUSEUM OF AFRICAN ART
 
-### § 80k. Donation and transfer of lands and improvements, works of art, and other assets and property of Museum of African Art to Smithsonian Institution
+### § 80k. Donation and transfer of lands and improvements, works of art, and other assets and property of Museum of African Art to Smithsonian Institution
 
 The Board of Regents of the Smithsonian Institution (hereinafter in this subchapter referred to as the “Board”) is authorized to accept a deed or other instrument donating and transferring to the Smithsonian Institution, the land and improvements thereto, collections of works of art, and all other assets and property of the Museum of African Art.
 
-(Pub. L. 95–414, § 1, Oct. 5, 1978, 92 Stat. 911.)
+(Pub. L. 95–414, § 1, Oct. 5, 1978, 92 Stat. 911.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 95–414, § 7, Oct. 5, 1978, 92 Stat. 913, provided that: “Except for the provisions in sections 1 and 6(b) [this section and section 80p(b) of this title], the provisions of this Act [this subchapter] shall take effect on the date of transfer of a deed or other instrument under the provisions of section 1 [this section].”
+Pub. L. 95–414, § 7, Oct. 5, 1978, 92 Stat. 913, provided that: “Except for the provisions in sections 1 and 6(b) [this section and section 80p(b) of this title], the provisions of this Act [this subchapter] shall take effect on the date of transfer of a deed or other instrument under the provisions of section 1 [this section].”
 
-### § 80l. Establishment of Museum of African Art; functions
+### § 80l. Establishment of Museum of African Art; functions
 
 There is established in the Smithsonian Institution a bureau which shall be known as the “Museum of African Art” (hereinafter in this subchapter referred to as the “Museum”). The functions of such bureau shall be those authorized by section 80m(a) of this title.
 
-(Pub. L. 95–414, § 2, Oct. 5, 1978, 92 Stat. 911.)
+(Pub. L. 95–414, § 2, Oct. 5, 1978, 92 Stat. 911.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2857,7 +2857,7 @@ There is established in the Smithsonian Institution a bureau which shall be know
 
 Regents of Smithsonian Institution authorized to construct building for National Museum of African Art, see Pub. L. 97–203, June 24, 1982, 96 Stat. 129, set out as a note under section 50 of this title.
 
-### § 80m. Powers of Board
+### § 80m. Powers of Board
 
 **(a) Acquisition, retention, and disposition of property; research and education programs** For the purpose of carrying out sections 80k and 80*l* of this title, the Board may—
 
@@ -2873,9 +2873,9 @@ Regents of Smithsonian Institution authorized to construct building for National
 
 In carrying out the purposes of this subchapter, the Board shall consider the recommendations of the Commission established pursuant to section 80n of this title.
 
-(Pub. L. 95–414, § 3, Oct. 5, 1978, 92 Stat. 911.)
+(Pub. L. 95–414, § 3, Oct. 5, 1978, 92 Stat. 911.)
 
-### § 80n. Commission for the Museum of African Art
+### § 80n. Commission for the Museum of African Art
 
 **(a) Establishment; duties**
 
@@ -2901,15 +2901,15 @@ Members of the Commission shall be reimbursed for travel, subsistence, and other
 
 The Commission shall select officers, from among its members biennially and shall make bylaws to carry out its functions under this subchapter.
 
-(Pub. L. 95–414, § 4, Oct. 5, 1978, 92 Stat. 911.)
+(Pub. L. 95–414, § 4, Oct. 5, 1978, 92 Stat. 911.)
 
-### § 80o. Director, officers, and employees; appointment, compensation, and duties
+### § 80o. Director, officers, and employees; appointment, compensation, and duties
 
 The Board may appoint and fix the compensation and duties of the Director and such other officers and employees of the Museum as may be necessary for the efficient administration, operation, and maintenance of the Museum; the Director and two other employees of the Museum may be appointed and compensated without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5; and all of the employees of the Museum who are serving on the date of the transfer authorized under section 80k of this title shall be offered employment by the Smithsonian under its usual terms of employment and may be appointed without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5.
 
-(Pub. L. 95–414, § 5, Oct. 5, 1978, 92 Stat. 912.)
+(Pub. L. 95–414, § 5, Oct. 5, 1978, 92 Stat. 912.)
 
-### § 80p. Funding
+### § 80p. Funding
 
 **(a) Federal funds for Museum**
 
@@ -2919,7 +2919,7 @@ The faith of the United States is pledged that upon the completion of the acquis
 
 There is authorized to be appropriated for the first fiscal year under this subchapter, the sum of $1,000,000 and such amounts as may be necessary for the succeeding fiscal years in order to carry out the provisions of this subchapter.
 
-(Pub. L. 95–414, § 6, Oct. 5, 1978, 92 Stat. 912.)
+(Pub. L. 95–414, § 6, Oct. 5, 1978, 92 Stat. 912.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2929,7 +2929,7 @@ Section effective, except for the provisions in subsec. (b) of this section, on 
 
 ## SUBCHAPTER XIII—NATIONAL MUSEUM OF THE AMERICAN INDIAN
 
-### § 80q. Findings
+### § 80q. Findings
 
 The Congress finds that—
 
@@ -2963,23 +2963,23 @@ The Congress finds that—
 
 **(10)** an extraordinary site on the National Mall in the District of Columbia (U.S. Government Reservation No. 6) is reserved for the use of the Smithsonian Institution and is available for construction of the National Museum of the American Indian.
 
-(Pub. L. 101–185, § 2, Nov. 28, 1989, 103 Stat. 1336.)
+(Pub. L. 101–185, § 2, Nov. 28, 1989, 103 Stat. 1336.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 113–70, § 1, Dec. 26, 2013, 127 Stat. 1208, provided that: “This Act [amending provisions set out as a note under section 80q–5 of this title] may be cited as the ‘Native American Veterans’ Memorial Amendments Act of 2013’.”
+Pub. L. 113–70, § 1, Dec. 26, 2013, 127 Stat. 1208, provided that: “This Act [amending provisions set out as a note under section 80q–5 of this title] may be cited as the ‘Native American Veterans’ Memorial Amendments Act of 2013’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–278, § 1(a), Oct. 9, 1996, 110 Stat. 3355, provided that: “This Act [enacting section 80q–9a of this title and amending sections 80q–3, 80q–9, and 80q–10 of this title] may be cited as the ‘National Museum of the American Indian Act Amendments of 1996’.”
+Pub. L. 104–278, § 1(a), Oct. 9, 1996, 110 Stat. 3355, provided that: “This Act [enacting section 80q–9a of this title and amending sections 80q–3, 80q–9, and 80q–10 of this title] may be cited as the ‘National Museum of the American Indian Act Amendments of 1996’.”
 
 **Short Title**
 
-Pub. L. 101–185, § 1, Nov. 28, 1989, 103 Stat. 1336, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Museum of the American Indian Act’.”
+Pub. L. 101–185, § 1, Nov. 28, 1989, 103 Stat. 1336, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Museum of the American Indian Act’.”
 
-### § 80q–1. National Museum of the American Indian
+### § 80q–1. National Museum of the American Indian
 
 **(a) Establishment**
 
@@ -2995,9 +2995,9 @@ There is established, within the Smithsonian Institution, a living memorial to N
 
 **(4)** provide for the means of carrying out paragraphs (1), (2), and (3) in the District of Columbia, the State of New York, and other appropriate locations.
 
-(Pub. L. 101–185, § 3, Nov. 28, 1989, 103 Stat. 1337.)
+(Pub. L. 101–185, § 3, Nov. 28, 1989, 103 Stat. 1337.)
 
-### § 80q–2. Authority of Board of Regents to enter into agreement providing for transfer of Heye Foundation assets to Smithsonian Institution
+### § 80q–2. Authority of Board of Regents to enter into agreement providing for transfer of Heye Foundation assets to Smithsonian Institution
 
 The Board of Regents is authorized to enter into an agreement with the Heye Foundation, to provide for the transfer to the Smithsonian Institution of title to the Heye Foundation assets. The agreement shall—
 
@@ -3007,9 +3007,9 @@ The Board of Regents is authorized to enter into an agreement with the Heye Foun
 
 The United States District Court for the Southern District of New York shall have original and exclusive jurisdiction over any cause of action arising under the agreement.
 
-(Pub. L. 101–185, § 4, Nov. 28, 1989, 103 Stat. 1337.)
+(Pub. L. 101–185, § 4, Nov. 28, 1989, 103 Stat. 1337.)
 
-### § 80q–3. Board of Trustees of National Museum of the American Indian
+### § 80q–3. Board of Trustees of National Museum of the American Indian
 
 **(a) In general**
 
@@ -3023,9 +3023,9 @@ The National Museum shall be under a Board of Trustees with the duties, powers, 
 
 **(3)** adopt bylaws for the Board of Trustees;
 
-**(4)** designate a chairman and other officers from among the members of the Board of trustees; 1
+**(4)** designate a chairman and other officers from among the members of the Board of trustees; 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 and
 
@@ -3083,9 +3083,9 @@ Any vacancy shall be filled only for the remainder of the term involved. Any vac
 
 **(2) Special rule**
 
-A 2
+A 2
 
-<sup>2</sup>  So in original. Probably should be “At”.
+<sup>2</sup> So in original. Probably should be “At”.
 
 least 12 of the 23 members appointed under paragraph (1)(C) shall be Indians.
 
@@ -3107,7 +3107,7 @@ A majority of the members of the Board of Trustees then in office shall constitu
 
 Members of the Board shall be entitled (to the same extent as provided in section 5703 of title 5 with respect to employees serving intermittently in the Government service) to per diem, travel, and transportation expenses for each day (including travel time) during which they are engaged in the performance of their duties.
 
-(Pub. L. 101–185, § 5, Nov. 28, 1989, 103 Stat. 1337; Pub. L. 104–278, § 2, Oct. 9, 1996, 110 Stat. 3355.)
+(Pub. L. 101–185, § 5, Nov. 28, 1989, 103 Stat. 1337; Pub. L. 104–278, § 2, Oct. 9, 1996, 110 Stat. 3355.)
 
 **Editorial Notes**
 
@@ -3115,7 +3115,7 @@ Members of the Board shall be entitled (to the same extent as provided in sectio
 
 1996—Subsec. (f)(1)(B). Pub. L. 104–278 substituted “a senior official” for “an Assistant Secretary”.
 
-### § 80q–4. Director and staff of National Museum
+### § 80q–4. Director and staff of National Museum
 
 **(a) In general** The Secretary of the Smithsonian Institution shall appoint—
 
@@ -3137,9 +3137,9 @@ Members of the Board shall be entitled (to the same extent as provided in sectio
 
 **(3)** fix the pay of the employees under subsection (b) in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, subject to subsection (b)(2).
 
-(Pub. L. 101–185, § 6, Nov. 28, 1989, 103 Stat. 1339.)
+(Pub. L. 101–185, § 6, Nov. 28, 1989, 103 Stat. 1339.)
 
-### § 80q–5. Museum facilities
+### § 80q–5. Museum facilities
 
 **(a) National Museum mall facility**
 
@@ -3213,19 +3213,19 @@ The Board of Regents and the Administrator of General Services may enter into su
 
 Notwithstanding any other provision of this subchapter, funds appropriated for carrying out this section may not be obligated for actual construction of any facility under this section until the 60th day after the date on which the Board of Regents transmits to Congress a written analysis of the total estimated cost of the construction and a cost-sharing plan projecting the amount for Federal appropriations and for non-Federal contributions for the construction on a fiscal year basis.
 
-(Pub. L. 101–185, § 7, Nov. 28, 1989, 103 Stat. 1339.)
+(Pub. L. 101–185, § 7, Nov. 28, 1989, 103 Stat. 1339.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(A) for “section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j))”, “section 592 of title 40” substituted in subsec. (b)(1)(B) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))”, and “section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(B) for “section 210(j) of such Act” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(A) for “section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j))”, “section 592 of title 40” substituted in subsec. (b)(1)(B) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))”, and “section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(B) for “section 210(j) of such Act” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Statutory Notes and Related Subsidiaries**
 
 **National Native American Veterans’ Memorial**
 
-Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, as amended by Pub. L. 113–70, § 2, Dec. 26, 2013, 127 Stat. 1208, provided that:
+Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, as amended by Pub. L. 113–70, § 2, Dec. 26, 2013, 127 Stat. 1208, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -3267,7 +3267,7 @@ Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, as amended by Pub. L. 113–70
 
 > **“(b) Use of Name.—** Use of the name of the Smithsonian Institution or the National Museum of the American Indian in any material regarding the memorial produced by the National Congress of American Indians, other than in a manner simply describing the location of the memorial, shall be subject to consultation with, and the approval of, the Board of Regents of the Smithsonian Institution.”
 
-### § 80q–6. Custom House office space and auditorium
+### § 80q–6. Custom House office space and auditorium
 
 **(a) Repairs and alterations**
 
@@ -3277,15 +3277,15 @@ The Administrator of General Services shall make such repairs and alterations as
 
 There is authorized to be appropriated to the Administrator of General Services $25,000,000 from the fund established pursuant to section 592 of title 40 to carry out this section and section 80q–5(b)(2)(B) of this title.
 
-(Pub. L. 101–185, § 8, Nov. 28, 1989, 103 Stat. 1341.)
+(Pub. L. 101–185, § 8, Nov. 28, 1989, 103 Stat. 1341.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 592 of title 40” substituted in subsec. (b) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 592 of title 40” substituted in subsec. (b) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-### § 80q–7. Audubon Terrace
+### § 80q–7. Audubon Terrace
 
 **(a) In general** The Board of Regents shall—
 
@@ -3301,7 +3301,7 @@ Any charge by the Board of Regents for activities pursuant to agreements under p
 
 **(c) Definition** As used in this section, the terms “qualified successor to the Heye Foundation at Audubon Terrace”, “qualified successor”, and,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 “successor” mean an organization described in section 501(c)(3) of title 26, and exempt from tax under section 501(a) of title 26, that, as determined by the Board of Regents—
 
@@ -3311,9 +3311,9 @@ Any charge by the Board of Regents for activities pursuant to agreements under p
 
 **(3)** is committed to making a good faith effort to respond to community cultural interests in such operation.
 
-(Pub. L. 101–185, § 9, Nov. 28, 1989, 103 Stat. 1342.)
+(Pub. L. 101–185, § 9, Nov. 28, 1989, 103 Stat. 1342.)
 
-### § 80q–8. Board of Regents functions with respect to certain agreements and programs
+### § 80q–8. Board of Regents functions with respect to certain agreements and programs
 
 **(a) Priority to be given to Indian organizations with respect to certain agreements** In entering into agreements with museums and other educational and cultural organizations to—
 
@@ -3339,7 +3339,7 @@ The Board of Regents shall establish an Indian Museum Management Fellowship prog
 
 There is authorized to be appropriated $2,000,000 for each fiscal year, beginning with fiscal year 1991, to carry out subsections (b) and (c).
 
-(Pub. L. 101–185, § 10, Nov. 28, 1989, 103 Stat. 1342; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(B), Aug. 14, 2008, 122 Stat. 3465.)
+(Pub. L. 101–185, § 10, Nov. 28, 1989, 103 Stat. 1342; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(B), Aug. 14, 2008, 122 Stat. 3465.)
 
 **Editorial Notes**
 
@@ -3355,7 +3355,7 @@ There is authorized to be appropriated $2,000,000 for each fiscal year, beginnin
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-### § 80q–9. Inventory, identification, and return of Indian human remains and Indian funerary objects in possession of Smithsonian Institution
+### § 80q–9. Inventory, identification, and return of Indian human remains and Indian funerary objects in possession of Smithsonian Institution
 
 **(a) Inventory and identification**
 
@@ -3391,17 +3391,17 @@ If any Indian funerary object not associated with Indian human remains is identi
 
 There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section and section 80q–9a of this title.
 
-(Pub. L. 101–185, § 11, Nov. 28, 1989, 103 Stat. 1343; Pub. L. 104–278, § 3, Oct. 9, 1996, 110 Stat. 3355.)
+(Pub. L. 101–185, § 11, Nov. 28, 1989, 103 Stat. 1343; Pub. L. 104–278, § 3, Oct. 9, 1996, 110 Stat. 3355.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–278, § 3(a), designated existing provisions as par. (1), added pars. (2) and (3), and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1).
+1996—Subsec. (a). Pub. L. 104–278, § 3(a), designated existing provisions as par. (1), added pars. (2) and (3), and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1).
 
-Subsec. (f). Pub. L. 104–278, § 3(b), inserted “and section 80q–9a of this title” after “to carry out this section”.
+Subsec. (f). Pub. L. 104–278, § 3(b), inserted “and section 80q–9a of this title” after “to carry out this section”.
 
-### § 80q–9a. Summary and repatriation of unassociated funerary objects, sacred objects, and cultural patrimony
+### § 80q–9a. Summary and repatriation of unassociated funerary objects, sacred objects, and cultural patrimony
 
 **(a) Summary**
 
@@ -3431,9 +3431,9 @@ Nothing in this section may be construed to prevent the Secretary of the Smithso
 
 For purposes of this section, the term “Native Hawaiian organization” has the meaning provided that term in section 3001(11) of title 25.
 
-(Pub. L. 101–185, § 11A, as added Pub. L. 104–278, § 4, Oct. 9, 1996, 110 Stat. 3355.)
+(Pub. L. 101–185, § 11A, as added Pub. L. 104–278, § 4, Oct. 9, 1996, 110 Stat. 3355.)
 
-### § 80q–10. Special committee to review inventory, identification, and return of Indian human remains and Indian funerary objects
+### § 80q–10. Special committee to review inventory, identification, and return of Indian human remains and Indian funerary objects
 
 **(a) Establishment; duties** Not later than 120 days after November 28, 1989, the Secretary of the Smithsonian Institution shall appoint a special committee to monitor and review the inventory, identification, and return of Indian human remains and Indian funerary objects under section 80q–9 of this title and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title. In carrying out its duties, the committee shall—
 
@@ -3473,9 +3473,9 @@ The Secretary shall prescribe regulations and provide administrative support for
 
 **(f) Report and termination**
 
-At the conclusion of the work of the committee, the Secretary shall be so 1
+At the conclusion of the work of the committee, the Secretary shall be so 1
 
-<sup>1</sup>  So in original. Probably should be “shall so”.
+<sup>1</sup> So in original. Probably should be “shall so”.
 
 certify by report to the Congress. The committee shall cease to exist 120 days after the submission of the report.
 
@@ -3487,7 +3487,7 @@ Chapter 10 of title 5 shall not apply to the committee.
 
 There is authorized to be appropriated $250,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section.
 
-(Pub. L. 101–185, § 12, Nov. 28, 1989, 103 Stat. 1344; Pub. L. 104–278, § 5, Oct. 9, 1996, 110 Stat. 3357; Pub. L. 117–286, § 4(a)(145), Dec. 27, 2022, 136 Stat. 4321.)
+(Pub. L. 101–185, § 12, Nov. 28, 1989, 103 Stat. 1344; Pub. L. 104–278, § 5, Oct. 9, 1996, 110 Stat. 3357; Pub. L. 117–286, § 4(a)(145), Dec. 27, 2022, 136 Stat. 4321.)
 
 **Editorial Notes**
 
@@ -3495,29 +3495,29 @@ There is authorized to be appropriated $250,000 for fiscal year 1991 and such su
 
 2022—Subsec. (g). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-1996—Subsec. (a). Pub. L. 104–278, § 5(1), in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title” before period.
+1996—Subsec. (a). Pub. L. 104–278, § 5(1), in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title” before period.
 
-Subsec. (b). Pub. L. 104–278, § 5(2)(A), substituted “7 members” for “five members” in introductory provisions.
+Subsec. (b). Pub. L. 104–278, § 5(2)(A), substituted “7 members” for “five members” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 104–278, § 5(2)(B), substituted “4 members” for “three members” and struck out “and” at end.
+Subsec. (b)(1). Pub. L. 104–278, § 5(2)(B), substituted “4 members” for “three members” and struck out “and” at end.
 
-Subsec. (b)(2), (3). Pub. L. 104–278, § 5(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2), (3). Pub. L. 104–278, § 5(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 80q–11. Inventory, identification, and return of Native Hawaiian human remains and Native Hawaiian funerary objects in possession of Smithsonian Institution
+### § 80q–11. Inventory, identification, and return of Native Hawaiian human remains and Native Hawaiian funerary objects in possession of Smithsonian Institution
 
 **(a) In general** The Secretary of the Smithsonian Institution shall—
 
 **(1)** in conjunction with the inventory and identification under section 80q–9 of this title, inventory and identify the Native Hawaiian human remains and Native Hawaiian funerary objects in the possession of the Smithsonian Institution;
 
-**(2)** enter into an agreement with appropriate Native Hawaiian organizations with expertise in Native Hawaiian affairs (which may include the Office of Hawaiian Affairs and the Malama I Na Kupuna O Hawai’i Nei) to provide for the return of such human remains nd 1
+**(2)** enter into an agreement with appropriate Native Hawaiian organizations with expertise in Native Hawaiian affairs (which may include the Office of Hawaiian Affairs and the Malama I Na Kupuna O Hawai’i Nei) to provide for the return of such human remains nd 1
 
-<sup>1</sup>  So in original. Probably should be “and”.
+<sup>1</sup> So in original. Probably should be “and”.
 
 funerary objects; and
 
@@ -3529,9 +3529,9 @@ funerary objects; and
 
 **(2)** the term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
 
-(Pub. L. 101–185, § 13, Nov. 28, 1989, 103 Stat. 1345.)
+(Pub. L. 101–185, § 13, Nov. 28, 1989, 103 Stat. 1345.)
 
-### § 80q–12. Grants by Secretary of the Interior to assist Indian tribes with respect to agreements for return of Indian human remains and Indian funerary objects
+### § 80q–12. Grants by Secretary of the Interior to assist Indian tribes with respect to agreements for return of Indian human remains and Indian funerary objects
 
 **(a) In general** The Secretary of the Interior may make grants to Indian tribes to assist such tribes in reaching and carrying out agreements with—
 
@@ -3543,9 +3543,9 @@ funerary objects; and
 
 There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years for grants under subsection (a).
 
-(Pub. L. 101–185, § 14, Nov. 28, 1989, 103 Stat. 1345.)
+(Pub. L. 101–185, § 14, Nov. 28, 1989, 103 Stat. 1345.)
 
-### § 80q–13. Grants by Secretary of the Interior to assist Indian organizations with respect to renovation and repair of museum facilities and exhibit facilities
+### § 80q–13. Grants by Secretary of the Interior to assist Indian organizations with respect to renovation and repair of museum facilities and exhibit facilities
 
 **(a) Grants**
 
@@ -3577,7 +3577,7 @@ Subject to appropriation, amounts derived from interest shall be available for e
 
 There is authorized to be appropriated to the Fund $2,000,000 for each fiscal year beginning with fiscal year 1992.
 
-(Pub. L. 101–185, § 15, Nov. 28, 1989, 103 Stat. 1345.)
+(Pub. L. 101–185, § 15, Nov. 28, 1989, 103 Stat. 1345.)
 
 **Editorial Notes**
 
@@ -3591,7 +3591,7 @@ Subsec. (d) of this section, which required the Secretary of the Interior, in co
 
 Pub. L. 102–196, Dec. 9, 1991, 105 Stat. 1620, directed Secretary of the Interior to conduct a study and make a report to Congress on the feasibility of establishing a Native American Cultural Center in Oklahoma City, Oklahoma, and made appropriations for that purpose.
 
-### § 80q–14. Definitions
+### § 80q–14. Definitions
 
 As used in this subchapter—
 
@@ -3617,9 +3617,9 @@ As used in this subchapter—
 
 **(11)** the term “Native Hawaiian” means a member or descendant of the aboriginal people who, before 1778, occupied and exercised sovereignty in the area that now comprises the State of Hawaii.
 
-(Pub. L. 101–185, § 16, Nov. 28, 1989, 103 Stat. 1346.)
+(Pub. L. 101–185, § 16, Nov. 28, 1989, 103 Stat. 1346.)
 
-### § 80q–15. Authorization of appropriations
+### § 80q–15. Authorization of appropriations
 
 **(a) Funding** There is authorized to be appropriated to the Board of Regents to carry out this subchapter (other than as provided in sections 80q–5(b)(1)(B), 80q–6, 80q–8, 80q–9, 80q–10, 80q–12, and 80q–13(c)(5) of this title)—
 
@@ -3631,11 +3631,11 @@ As used in this subchapter—
 
 Funds appropriated under subsection (a) shall remain available without fiscal year limitation for any period prior to the availability of the facilities to be constructed under section 80q–5 of this title for administrative and planning expenses and for the care and custody of the collections of the National Museum.
 
-(Pub. L. 101–185, § 17, Nov. 28, 1989, 103 Stat. 1347.)
+(Pub. L. 101–185, § 17, Nov. 28, 1989, 103 Stat. 1347.)
 
 ## SUBCHAPTER XIV—NATIONAL MUSEUM OF AFRICAN AMERICAN HISTORY AND CULTURE
 
-### § 80r. Findings
+### § 80r. Findings
 
 Congress finds that—
 
@@ -3659,15 +3659,15 @@ Congress finds that—
 
 **(3)** a National Museum of African American History and Culture would be dedicated to the collection, preservation, research, and exhibition of African American historical and cultural material reflecting the breadth and depth of the experiences of individuals of African descent living in the United States.
 
-(Pub. L. 108–184, § 2, Dec. 16, 2003, 117 Stat. 2676.)
+(Pub. L. 108–184, § 2, Dec. 16, 2003, 117 Stat. 2676.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 108–184, § 1, Dec. 16, 2003, 117 Stat. 2676, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Museum of African American History and Culture Act’.”
+Pub. L. 108–184, § 1, Dec. 16, 2003, 117 Stat. 2676, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Museum of African American History and Culture Act’.”
 
-### § 80r–1. Definitions
+### § 80r–1. Definitions
 
 In this subchapter:
 
@@ -3687,9 +3687,9 @@ The term “Museum” means the National Museum of African American History and 
 
 The term “Secretary” means the Secretary of the Smithsonian Institution.
 
-(Pub. L. 108–184, § 3, Dec. 16, 2003, 117 Stat. 2676.)
+(Pub. L. 108–184, § 3, Dec. 16, 2003, 117 Stat. 2676.)
 
-### § 80r–2. Establishment of Museum
+### § 80r–2. Establishment of Museum
 
 **(a) Establishment**
 
@@ -3721,9 +3721,9 @@ There is established within the Smithsonian Institution a museum to be known as 
 
 **(C)** training of museum professionals.
 
-(Pub. L. 108–184, § 4, Dec. 16, 2003, 117 Stat. 2677.)
+(Pub. L. 108–184, § 4, Dec. 16, 2003, 117 Stat. 2677.)
 
-### § 80r–3. Council
+### § 80r–3. Council
 
 **(a) Establishment**
 
@@ -3843,9 +3843,9 @@ During the 1-year period beginning on the date of the first meeting of the Counc
 
 A majority of the voting members of the Council holding office shall constitute a quorum for the purpose of conducting business, but a lesser number may receive information on behalf of the Council.
 
-(Pub. L. 108–184, § 5, Dec. 16, 2003, 117 Stat. 2677.)
+(Pub. L. 108–184, § 5, Dec. 16, 2003, 117 Stat. 2677.)
 
-### § 80r–4. Director and staff of the Museum
+### § 80r–4. Director and staff of the Museum
 
 **(a) Director**
 
@@ -3865,9 +3865,9 @@ The Secretary may appoint two additional employees to serve under the Director, 
 
 The employees appointed by the Secretary under subsection (b) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
 
-(Pub. L. 108–184, § 6, Dec. 16, 2003, 117 Stat. 2679.)
+(Pub. L. 108–184, § 6, Dec. 16, 2003, 117 Stat. 2679.)
 
-### § 80r–5. Educational and liaison programs
+### § 80r–5. Educational and liaison programs
 
 **(a) In general**
 
@@ -3909,9 +3909,9 @@ The Director of the Museum may carry out educational and liaison programs in sup
 
 **(B)** such sums as are necessary for each fiscal year thereafter.
 
-(Pub. L. 108–184, § 7, Dec. 16, 2003, 117 Stat. 2679.)
+(Pub. L. 108–184, § 7, Dec. 16, 2003, 117 Stat. 2679.)
 
-### § 80r–6. Building for the National Museum of African American History and Culture
+### § 80r–6. Building for the National Museum of African American History and Culture
 
 **(a) In general**
 
@@ -3981,7 +3981,7 @@ Chapter 89 of title 40 shall not apply with respect to the Museum.
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 108–184, § 8, Dec. 16, 2003, 117 Stat. 2680.)
+(Pub. L. 108–184, § 8, Dec. 16, 2003, 117 Stat. 2680.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3989,11 +3989,11 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1033, provided in part: “That during fiscal year 2012 and any succeeding fiscal year, a single procurement for construction of the National Museum of African American History and Culture, as authorized under section 8 of the National Museum of African American History and Culture Act (20 U.S.C. 80r–6), may be issued that includes the full scope of the project”.
 
-### § 80r–7. Congressional Budget Act compliance
+### § 80r–7. Congressional Budget Act compliance
 
 Authority under this subchapter to enter into contracts or to make payments shall be effective in any fiscal year only to the extent provided in advance in an appropriations Act, except as provided under section 80r–9(b) of this title.
 
-(Pub. L. 108–184, § 9, Dec. 16, 2003, 117 Stat. 2682.)
+(Pub. L. 108–184, § 9, Dec. 16, 2003, 117 Stat. 2682.)
 
 **Editorial Notes**
 
@@ -4001,11 +4001,11 @@ Authority under this subchapter to enter into contracts or to make payments shal
 
 The Congressional Budget Act, referred to in section catchline, probably means the Congressional Budget Act of 1974, which is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-### § 80r–8. Consideration of recommendations of Presidential Commission
+### § 80r–8. Consideration of recommendations of Presidential Commission
 
 In carrying out their duties under this subchapter, the Council and the Board of Regents shall take into consideration the reports and plans submitted by the National Museum of African American History and Culture Plan for Action Presidential Commission under the National Museum of African American History and Culture Plan for Action Presidential Commission Act of 2001 (Public Law 107–106).
 
-(Pub. L. 108–184, § 10, Dec. 16, 2003, 117 Stat. 2682.)
+(Pub. L. 108–184, § 10, Dec. 16, 2003, 117 Stat. 2682.)
 
 **Editorial Notes**
 
@@ -4013,7 +4013,7 @@ In carrying out their duties under this subchapter, the Council and the Board of
 
 The National Museum of African American History and Culture Plan for Action Presidential Commission Act of 2001, referred to in text, is Pub. L. 107–106, Dec. 28, 2001, 115 Stat. 1009, which is not classified to the Code.
 
-### § 80r–9. Authorization of appropriations
+### § 80r–9. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated to the Smithsonian Institution to carry out this subchapter, other than sections 80r–5(b) and 80r–6 of this title—
 
@@ -4029,11 +4029,11 @@ Amounts made available under subsection (a) shall remain available until expende
 
 Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the Museum from private sources.
 
-(Pub. L. 108–184, § 11, Dec. 16, 2003, 117 Stat. 2682.)
+(Pub. L. 108–184, § 11, Dec. 16, 2003, 117 Stat. 2682.)
 
 ## SUBCHAPTER XV—CIVIL RIGHTS HISTORY PROJECT
 
-### § 80s. Findings; purpose
+### § 80s. Findings; purpose
 
 **(a) Findings** Congress finds as follows:
 
@@ -4053,21 +4053,21 @@ Amounts appropriated pursuant to the authorization under this section may be use
 
 It is the purpose of this subchapter to create a new federally sponsored, authorized, and funded project that will coordinate at a national level the collection of video and audio recordings of personal histories and testimonials of individuals who participated in the American Civil Rights movement that will build upon and complement previous and ongoing documentary work on this subject, and to assist and encourage local efforts to preserve the memories of such individuals so that Americans of all current and future generations may hear from them directly and better appreciate the sacrifices they made.
 
-(Pub. L. 111–19, § 2, May 12, 2009, 123 Stat. 1612.)
+(Pub. L. 111–19, § 2, May 12, 2009, 123 Stat. 1612.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 111–19, § 1, May 12, 2009, 123 Stat. 1612, provided that: “This Act [enacting this subchapter] may be cited as the ‘Civil Rights History Project Act of 2009’.”
+Pub. L. 111–19, § 1, May 12, 2009, 123 Stat. 1612, provided that: “This Act [enacting this subchapter] may be cited as the ‘Civil Rights History Project Act of 2009’.”
 
-### § 80s–1. Establishment of joint project at Library of Congress and National Museum of African American History and Culture to collect video and audio recordings of histories of participants in American Civil Rights movement
+### § 80s–1. Establishment of joint project at Library of Congress and National Museum of African American History and Culture to collect video and audio recordings of histories of participants in American Civil Rights movement
 
 **(a) Establishment of project**
 
 **(1) In general** Within the limits of available funds, the Librarian of Congress (hereafter referred to as the “Librarian”) and the Secretary of the Smithsonian Institution (hereafter referred to as the “Secretary)”,1
 
-<sup>1</sup>  So in original. The closing quotation marks probably should precede the closing parenthesis.
+<sup>1</sup> So in original. The closing quotation marks probably should precede the closing parenthesis.
 
 acting jointly, shall establish an oral history project—
 
@@ -4107,9 +4107,9 @@ As soon as practicable after May 12, 2009, the Librarian and the Secretary shall
 
 In this subchapter, the term “Civil Rights movement” means the movement to secure racial equality in the United States for African Americans that, focusing on the period 1954 through 1968, challenged the practice of racial segregation in the Nation and achieved equal rights legislation for all American citizens.
 
-(Pub. L. 111–19, § 3, May 12, 2009, 123 Stat. 1613.)
+(Pub. L. 111–19, § 3, May 12, 2009, 123 Stat. 1613.)
 
-### § 80s–2. Private support for civil rights history project
+### § 80s–2. Private support for civil rights history project
 
 **(a) Encouraging solicitation and acceptance of donations**
 
@@ -4123,9 +4123,9 @@ The Librarian of Congress and the Secretary are encouraged to solicit and accept
 
 **(3)** the Librarian of Congress may not deposit into such account any funds donated to the Librarian which are not donated for the exclusive purpose of supporting such activities.
 
-(Pub. L. 111–19, § 4, May 12, 2009, 123 Stat. 1614.)
+(Pub. L. 111–19, § 4, May 12, 2009, 123 Stat. 1614.)
 
-### § 80s–3. Authorization of appropriations
+### § 80s–3. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter—
 
@@ -4133,11 +4133,11 @@ There are authorized to be appropriated to carry out this subchapter—
 
 **(2)** such sums as may be necessary for each of the fiscal years 2011 through 2014.
 
-(Pub. L. 111–19, § 5, May 12, 2009, 123 Stat. 1615.)
+(Pub. L. 111–19, § 5, May 12, 2009, 123 Stat. 1615.)
 
 ## SUBCHAPTER XVI—WOMEN’S HISTORY MUSEUM
 
-### § 80t. Findings
+### § 80t. Findings
 
 Congress finds the following:
 
@@ -4159,21 +4159,21 @@ Congress finds the following:
 
 **(6)** The collections, exhibits, historical narrative materials, and museum programming of the women’s history museum should be inclusive, comprehensive, and innovative. Such collections, exhibits, materials, and programming should present the diverse range of experiences and viewpoints of all women in the United States, reflecting upon the things that set women apart from one another while also highlighting the experiences that many of these women share.
 
-(Pub. L. 116–260, div. T, title I, § 102, Dec. 27, 2020, 134 Stat. 2272.)
+(Pub. L. 116–260, div. T, title I, § 102, Dec. 27, 2020, 134 Stat. 2272.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–260, div. T, title I, § 101, Dec. 27, 2020, 134 Stat. 2272, provided that: “This title [enacting this subchapter] may be cited as the ‘Smithsonian American Women’s History Museum Act’.”
+Pub. L. 116–260, div. T, title I, § 101, Dec. 27, 2020, 134 Stat. 2272, provided that: “This title [enacting this subchapter] may be cited as the ‘Smithsonian American Women’s History Museum Act’.”
 
-### § 80t–1. Establishment of Museum
+### § 80t–1. Establishment of Museum
 
 **(a) Establishment**
 
-There is established within the Smithsonian Institution a comprehensive women’s history museum, to be named by the Board of Regents in consultation with the council established under section 80t–2 of this title (referred to in this subchapter 1
+There is established within the Smithsonian Institution a comprehensive women’s history museum, to be named by the Board of Regents in consultation with the council established under section 80t–2 of this title (referred to in this subchapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as the “Museum”).
 
@@ -4185,7 +4185,7 @@ as the “Museum”).
 
 **(3)** the creation of exhibitions and programs that recognize diverse perspectives on women’s history and contributions.
 
-(Pub. L. 116–260, div. T, title I, § 103, Dec. 27, 2020, 134 Stat. 2273.)
+(Pub. L. 116–260, div. T, title I, § 103, Dec. 27, 2020, 134 Stat. 2273.)
 
 **Editorial Notes**
 
@@ -4193,13 +4193,13 @@ as the “Museum”).
 
 This subchapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women’s History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress.
 
-### § 80t–2. Council
+### § 80t–2. Council
 
 **(a) Establishment**
 
-There is established within the Smithsonian Institution a council to carry out the duties set forth under subsection (b) and other provisions of this subchapter 1
+There is established within the Smithsonian Institution a council to carry out the duties set forth under subsection (b) and other provisions of this subchapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (referred to in this section as the “Council”).
 
@@ -4331,7 +4331,7 @@ During the 1-year period beginning on the date of the first meeting of the Counc
 
 A majority of the voting members of the Council holding office shall constitute a quorum for the purpose of conducting business, but a lesser number may receive information on behalf of the Council.
 
-(Pub. L. 116–260, div. T, title I, § 104, Dec. 27, 2020, 134 Stat. 2273.)
+(Pub. L. 116–260, div. T, title I, § 104, Dec. 27, 2020, 134 Stat. 2273.)
 
 **Editorial Notes**
 
@@ -4339,7 +4339,7 @@ A majority of the voting members of the Council holding office shall constitute 
 
 This subchapter, referred to in subsecs. (a) and (g)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women’s History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress.
 
-### § 80t–3. Director and staff of the Museum
+### § 80t–3. Director and staff of the Museum
 
 **(a) Director**
 
@@ -4359,9 +4359,9 @@ The Secretary may appoint 2 additional employees to serve under the Director, ex
 
 The employees appointed by the Secretary under subsection (b) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
 
-(Pub. L. 116–260, div. T, title I, § 105, Dec. 27, 2020, 134 Stat. 2275.)
+(Pub. L. 116–260, div. T, title I, § 105, Dec. 27, 2020, 134 Stat. 2275.)
 
-### § 80t–4. Educational and liaison programs
+### § 80t–4. Educational and liaison programs
 
 **(a) Programs authorized**
 
@@ -4371,9 +4371,9 @@ The Director of the Museum may carry out educational and liaison programs in sup
 
 In carrying out this section, the Director shall carry out educational programs in collaboration with elementary schools, secondary schools, and postsecondary schools.
 
-(Pub. L. 116–260, div. T, title I, § 106, Dec. 27, 2020, 134 Stat. 2276.)
+(Pub. L. 116–260, div. T, title I, § 106, Dec. 27, 2020, 134 Stat. 2276.)
 
-### § 80t–5. Building
+### § 80t–5. Building
 
 **(a) Location**
 
@@ -4457,13 +4457,13 @@ Chapter 89 of title 40 shall not apply with respect to the Museum, except that t
 
 **(2)** 50 percent of the costs of carrying out this section from non-Federal sources.
 
-(Pub. L. 116–260, div. T, title I, § 107, Dec. 27, 2020, 134 Stat. 2276.)
+(Pub. L. 116–260, div. T, title I, § 107, Dec. 27, 2020, 134 Stat. 2276.)
 
-### § 80t–6. Definitions
+### § 80t–6. Definitions
 
 In this subchapter,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the following definitions apply:
 
@@ -4473,7 +4473,7 @@ the following definitions apply:
 
 **(3)** The term “Secretary” means the Secretary of the Smithsonian Institution.
 
-(Pub. L. 116–260, div. T, title I, § 108, Dec. 27, 2020, 134 Stat. 2277.)
+(Pub. L. 116–260, div. T, title I, § 108, Dec. 27, 2020, 134 Stat. 2277.)
 
 **Editorial Notes**
 
@@ -4483,13 +4483,13 @@ This subchapter, referred to in text, was in the original “this Act”, and wa
 
 Section 3056 of the Military Construction Authorization Act for Fiscal Year 2015, referred to in par. (2), is section 3056 of div. B of Pub. L. 113–291, Dec. 19, 2014, 128 Stat. 3810, which is not classified to the Code.
 
-### § 80t–7. Authorization of appropriations
+### § 80t–7. Authorization of appropriations
 
 **(a) In general**
 
 There are authorized to be appropriated to the Smithsonian Institution to carry out this subchapter,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 including the planning, design, construction, and operation of the Museum established under section 80t–1 of this title, such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.
 
@@ -4501,7 +4501,7 @@ Amounts appropriated pursuant to the authorization under this section shall rema
 
 Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the Museum from private sources.
 
-(Pub. L. 116–260, div. T, title I, § 109, Dec. 27, 2020, 134 Stat. 2278.)
+(Pub. L. 116–260, div. T, title I, § 109, Dec. 27, 2020, 134 Stat. 2278.)
 
 **Editorial Notes**
 
@@ -4511,7 +4511,7 @@ This subchapter, referred to in subsec. (a), was in the original “this Act”,
 
 ## SUBCHAPTER XVII—NATIONAL MUSEUM OF THE AMERICAN LATINO
 
-### § 80u. National Museum of the American Latino
+### § 80u. National Museum of the American Latino
 
 **(a) Findings** Congress finds the following:
 
@@ -4903,7 +4903,7 @@ Amounts appropriated pursuant to the authorization of appropriations under parag
 
 Amounts appropriated pursuant to the authorization under this subsection may be used to conduct fundraising in support of the Museum from private sources.
 
-(Pub. L. 116–260, div. T, title II, § 201, Dec. 27, 2020, 134 Stat. 2278.)
+(Pub. L. 116–260, div. T, title II, § 201, Dec. 27, 2020, 134 Stat. 2278.)
 
 **Editorial Notes**
 

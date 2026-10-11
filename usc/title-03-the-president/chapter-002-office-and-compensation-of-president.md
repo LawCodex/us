@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–339, § 4(b)(2), Oct. 31, 1998, 112 Stat. 3185, added item 115.
+1998—Pub. L. 105–339, § 4(b)(2), Oct. 31, 1998, 112 Stat. 3185, added item 115.
 
-1978—Pub. L. 95–570, §§ 1(b), 2(b), 3(b), 5(b)(2), (c)(2), Nov. 2, 1978, 92 Stat. 2447, 2449, 2450, 2451, substituted in item 105 “Assistance and services for the President” for “Compensation of secretaries and executive, administrative, and staff assistants to President”; in item 106 “Assistance and services for the Vice President” for “Administrative assistants”; in item 107 “Domestic Policy Staff and Office of Administration; personnel” for “Detail of employees of executive departments to office of President”; in item 108 “Assistance to the President for unanticipated needs” for “Accommodations for vehicles”; and in item 109 “the Executive Residence at the White House” for “Executive Mansion”; inserted in item 110 “the Executive Residence at the” before “White House”; and added items 112, 113 and 114.
+1978—Pub. L. 95–570, §§ 1(b), 2(b), 3(b), 5(b)(2), (c)(2), Nov. 2, 1978, 92 Stat. 2447, 2449, 2450, 2451, substituted in item 105 “Assistance and services for the President” for “Compensation of secretaries and executive, administrative, and staff assistants to President”; in item 106 “Assistance and services for the Vice President” for “Administrative assistants”; in item 107 “Domestic Policy Staff and Office of Administration; personnel” for “Detail of employees of executive departments to office of President”; in item 108 “Assistance to the President for unanticipated needs” for “Accommodations for vehicles”; and in item 109 “the Executive Residence at the White House” for “Executive Mansion”; inserted in item 110 “the Executive Residence at the” before “White House”; and added items 112, 113 and 114.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Executive Office Personnel Background Investigations; Leaves of Absence**
 
-Pub. L. 103–329, title VI, § 632, Sept. 30, 1994, 108 Stat. 2425, provided that:
+Pub. L. 103–329, title VI, § 632, Sept. 30, 1994, 108 Stat. 2425, provided that:
 
 > **“(a) In General.—** Hereafter, the employment of any individual within the Executive Office of the President shall be placed on leave without pay status if the individual—
 
@@ -42,11 +42,11 @@ Pub. L. 103–329, title VI, § 632, Sept. 30, 1994, 108 Stat. 2425, provided 
 **Executive Documents**
 
 ****REORGANIZATION PLAN NO. 1 OF 1977**
-42 F.R. 56101, 91 Stat. 1633, as amended by Pub. L. 97–195, § 1(c)(5), June 16, 1982, 96 Stat. 115**
+42 F.R. 56101, 91 Stat. 1633, as amended by Pub. L. 97–195, § 1(c)(5), June 16, 1982, 96 Stat. 115**
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 15, 1977,1
 
-<sup>1</sup>  As amended Sept. 15, 1977.
+<sup>1</sup> As amended Sept. 15, 1977.
 
 pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -76,7 +76,7 @@ D. The Economic Opportunity Council.
 
 **Sec. 4. Appointment of the Assistant Secretary of Commerce for Communications and Information**
 
-There shall be in the Department of Commerce an Assistant Secretary for Communications and Information who shall be appointed by the President, by and with the advice and consent of the Senate. [As amended Pub. L. 97–195, § 1(c)(5), June 16, 1982, 96 Stat. 115.]
+There shall be in the Department of Commerce an Assistant Secretary for Communications and Information who shall be appointed by the President, by and with the advice and consent of the Senate. [As amended Pub. L. 97–195, § 1(c)(5), June 16, 1982, 96 Stat. 115.]
 
 **Sec. 5. Transfers of Functions**
 
@@ -448,7 +448,7 @@ Jimmy Carter.
 
 **Ex. Ord. No. 12859. Establishment of Domestic Policy Council**
 
-Ex. Ord. No. 12859, Aug. 16, 1993, 58 F.R. 44101, as amended by Ex. Ord. No. 13284, § 10, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13500, Feb. 5, 2009, 74 F.R. 6981; Ex. Ord. No. 13569, § 3, Apr. 5, 2011, 76 F.R. 19891, provided:
+Ex. Ord. No. 12859, Aug. 16, 1993, 58 F.R. 44101, as amended by Ex. Ord. No. 13284, § 10, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13500, Feb. 5, 2009, 74 F.R. 6981; Ex. Ord. No. 13569, § 3, Apr. 5, 2011, 76 F.R. 19891, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -526,15 +526,15 @@ Sec. 5. *Administration*. (a) The Council may function through established or ad
 
 **Executive Order No. 13199**
 
-Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 13498, § 1, Feb. 5, 2009, 74 F.R. 6533, which established the White House Office of Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, § 4, May 3, 2018, 83 F.R. 20717, set out below.
+Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 13498, § 1, Feb. 5, 2009, 74 F.R. 6533, which established the White House Office of Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, § 4, May 3, 2018, 83 F.R. 20717, set out below.
 
 **Executive Order No. 13283**
 
-Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, § 9, Sept. 29, 2005, 70 F.R. 57991, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, § 9, Sept. 29, 2005, 70 F.R. 57991, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 **Executive Order No. 13498**
 
-Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, which established the President’s Advisory Council for Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, § 4, May 3, 2018, 83 F.R. 20717, formerly set out below.
+Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, which established the President’s Advisory Council for Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, § 4, May 3, 2018, 83 F.R. 20717, formerly set out below.
 
 [For extensions of term of the President’s Advisory Council on Faith-Based and Neighborhood Partnerships, see Ex. Ord. Nos. 13569 and 13640, set out below, and Executive Orders listed after Ex. Ord. No. 13640.]
 
@@ -602,7 +602,7 @@ Barack Obama.
 
 **Executive Order No. 13509**
 
-Ex. Ord. No. 13509, June 23, 2009, 74 F.R. 30903, which established the White House Council on Automotive Communities and Workers, was revoked by Ex. Ord. No. 13578, § 3, July 6, 2011, 76 F.R. 40592, set out as a note under section 551 of Title 29, Labor.
+Ex. Ord. No. 13509, June 23, 2009, 74 F.R. 30903, which established the White House Council on Automotive Communities and Workers, was revoked by Ex. Ord. No. 13578, § 3, July 6, 2011, 76 F.R. 40592, set out as a note under section 551 of Title 29, Labor.
 
 **Ex. Ord. No. 13569. Amendments to Executive Orders 12824, 12835, 12859, and 13532, Reestablishment Pursuant to Executive Order 13498, and Revocation of Executive Order 13507**
 
@@ -656,11 +656,11 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 
 **Executive Order No. 13831**
 
-Ex. Ord. No. 13831, May 3, 2018, 83 F.R. 20715, which established a White House Faith and Opportunity Initiative, was revoked by Ex. Ord. No. 14015, § 6, Feb. 14, 2021, 86 F.R. 10008, formerly set out below.
+Ex. Ord. No. 13831, May 3, 2018, 83 F.R. 20715, which established a White House Faith and Opportunity Initiative, was revoked by Ex. Ord. No. 14015, § 6, Feb. 14, 2021, 86 F.R. 10008, formerly set out below.
 
 **Executive Order No. 14015**
 
-Ex. Ord. No. 14015, Feb. 14, 2021, 86 F.R. 10007, establishing the White House Office of Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.
+Ex. Ord. No. 14015, Feb. 14, 2021, 86 F.R. 10007, establishing the White House Office of Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 14148, § 2(y), Jan. 20, 2025, 90 F.R. 8238.
 
 **Ex. Ord. No. 14205. Establishment of the White House Faith Office**
 
@@ -786,7 +786,7 @@ Sec. 6. *Publication*. The Secretary of Labor is authorized and directed to publ
 
 Barack Obama.
 
-## § 101. Commencement of term of office
+## § 101. Commencement of term of office
 
 The term of four years for which a President and Vice President shall be elected, shall, in all cases, commence on the 20th day of January next succeeding the day on which the votes of the electors have been given.
 
@@ -796,7 +796,7 @@ The term of four years for which a President and Vice President shall be elected
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–293, § 1, Oct. 12, 2000, 114 Stat. 1035, provided that: “This Act [amending provisions set out as a note under section 102 of this title] may be cited as the ‘Presidential Transition Act of 2000’.”
+Pub. L. 106–293, § 1, Oct. 12, 2000, 114 Stat. 1035, provided that: “This Act [amending provisions set out as a note under section 102 of this title] may be cited as the ‘Presidential Transition Act of 2000’.”
 
 **Dwight D. Eisenhower Executive Office Building**
 
@@ -810,7 +810,7 @@ Pub. L. 106–92, Nov. 9, 1999, 113 Stat. 1309, provided that:
 
 > “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Dwight D. Eisenhower Executive Office Building’.”
 
-Pub. L. 100–461, title V, § 590, Oct. 1, 1988, 102 Stat. 2268–52, as amended by Pub. L. 106–92, § 2, Nov. 9, 1999, 113 Stat. 1309, provided that:
+Pub. L. 100–461, title V, § 590, Oct. 1, 1988, 102 Stat. 2268–52, as amended by Pub. L. 106–92, § 2, Nov. 9, 1999, 113 Stat. 1309, provided that:
 
 > **“(a) Acceptance of Gifts of Money and Property.—** The Director of the Office of Administration is authorized to—
 
@@ -830,17 +830,17 @@ Pub. L. 100–461, title V, § 590, Oct. 1, 1988, 102 Stat. 2268–52, as amen
 
 Act Aug. 3, 1956, ch. 925, 70 Stat. 979, as amended by Pub. L. 85–3, Jan. 25, 1957, 71 Stat. 4, created a President’s Advisory Commission on Presidential Office Space to study the problem of providing more adequate office space for the White House Office and the other agencies of the Executive Office of the President. Pursuant to section 1(b) of act Aug. 3, 1956, the Commission was required to report to the President its findings and recommendations within 10 months after Aug. 3, 1956, and section 2(g) of act Aug. 3, 1956, provided that the Commission should cease to exist 30 days after the submission of its final report.
 
-## § 102. Compensation of the President
+## § 102. Compensation of the President
 
 The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $400,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, § 1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, § 619(a), 65 Stat. 569; Pub. L. 91–1, § 1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, § 5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, § 644(a), Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, § 301, Jan. 23, 2004, 118 Stat. 326.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, § 1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, § 619(a), 65 Stat. 569; Pub. L. 91–1, § 1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, § 5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, § 644(a), Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, § 301, Jan. 23, 2004, 118 Stat. 326.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Pub. L. 108–199 substituted “. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President.” for “, for which expense allowance no accounting, other than for income tax purposes, shall be made by him.”
+2004—Pub. L. 108–199 substituted “. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President.” for “, for which expense allowance no accounting, other than for income tax purposes, shall be made by him.”
 
 1999—Pub. L. 106–58 substituted “$400,000” for “$200,000”.
 
@@ -856,19 +856,19 @@ The President shall receive in full for his services during the term for which h
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–58, title VI, § 644(b), Sept. 29, 1999, 113 Stat. 478, provided that: “The amendment made by this section [amending this section] shall take effect at noon on January 20, 2001.”
+Pub. L. 106–58, title VI, § 644(b), Sept. 29, 1999, 113 Stat. 478, provided that: “The amendment made by this section [amending this section] shall take effect at noon on January 20, 2001.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–570, § 6(a), Nov. 2, 1978, 92 Stat. 2451, provided that: “The amendments made by this Act [enacting sections 107, 108, 112, 113, and 114 of this title, amending sections 102, 103, 105, 106, 109, 110, and 202 of this title, repealing section 107 of this title, and enacting provisions set out as a note under section 107 of this title] shall apply to any fiscal year which begins on or after October 1, 1978.”
+Pub. L. 95–570, § 6(a), Nov. 2, 1978, 92 Stat. 2451, provided that: “The amendments made by this Act [enacting sections 107, 108, 112, 113, and 114 of this title, amending sections 102, 103, 105, 106, 109, 110, and 202 of this title, repealing section 107 of this title, and enacting provisions set out as a note under section 107 of this title] shall apply to any fiscal year which begins on or after October 1, 1978.”
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–1, § 2, Jan. 17, 1969, 83 Stat. 3, provided that: “The amendment made by this Act [amending this section] shall take effect at noon on January 20, 1969.”
+Pub. L. 91–1, § 2, Jan. 17, 1969, 83 Stat. 3, provided that: “The amendment made by this Act [amending this section] shall take effect at noon on January 20, 1969.”
 
 **Effective Date of 1951 Amendment**
 
-Act Oct. 20, 1951, ch. 521, title VI, § 619(e), 65 Stat. 570, provided that: “The amendments made by subsections (a) and (b) of this section [amending this section and section 111 of this title] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) [amending sections 31a and 5121 of Title 2, The Congress] shall become effective at noon on January 3, 1953.”
+Act Oct. 20, 1951, ch. 521, title VI, § 619(e), 65 Stat. 570, provided that: “The amendments made by subsections (a) and (b) of this section [amending this section and section 111 of this title] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) [amending sections 31a and 5121 of Title 2, The Congress] shall become effective at noon on January 3, 1953.”
 
 **Effective Date of 1949 Amendment**
 
@@ -876,11 +876,11 @@ Amendment by act Jan. 19, 1949, effective noon, Jan. 19, 1949, see section 3 of 
 
 **Authorization of Transition Activities by the Incumbent Administration**
 
-Pub. L. 111–283, § 3, Oct. 15, 2010, 124 Stat. 3048, which authorized certain types of actions to be taken by the President to facilitate an efficient transfer of power to a successor President and required reports on such actions taken, was repealed by Pub. L. 114–136, § 2(c)(1), Mar. 18, 2016, 130 Stat. 305.
+Pub. L. 111–283, § 3, Oct. 15, 2010, 124 Stat. 3048, which authorized certain types of actions to be taken by the President to facilitate an efficient transfer of power to a successor President and required reports on such actions taken, was repealed by Pub. L. 114–136, § 2(c)(1), Mar. 18, 2016, 130 Stat. 305.
 
 **Disclosure of In-Kind Contributions to 1988–1989 Transition**
 
-Pub. L. 100–398, § 5, Aug. 17, 1988, 102 Stat. 987, provided that:
+Pub. L. 100–398, § 5, Aug. 17, 1988, 102 Stat. 987, provided that:
 
 > **“(a) Disclosure as Condition of Receipt of Funds.—** The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1) of the Presidential Transition Act of 1963 [Pub. L. 88–277] (3 U.S.C. 102 note) shall provide an estimate to the Administrator of General Services of the aggregate value of in-kind contributions made during the period beginning on November 9, 1988, through January 20, 1989, received for transition activities for—
 
@@ -900,7 +900,7 @@ Pub. L. 100–398, § 5, Aug. 17, 1988, 102 Stat. 987, provided that:
 
 **Presidential Transition Act of 1963**
 
-Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§ 1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§ 2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, § 2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, § 7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111–283, § 2(a), (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048; Pub. L. 114–136, § 2(a), (b), (c)(2), Mar. 18, 2016, 130 Stat. 301, 304, 305; Pub. L. 116–121, § 2, Mar. 3, 2020, 134 Stat. 138; Pub. L. 117–328, div. P, title II, § 202, Dec. 29, 2022, 136 Stat. 5241, provided:
+Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§ 1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§ 2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, § 2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, § 7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111–283, § 2(a), (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048; Pub. L. 114–136, § 2(a), (b), (c)(2), Mar. 18, 2016, 130 Stat. 301, 304, 305; Pub. L. 116–121, § 2, Mar. 3, 2020, 134 Stat. 138; Pub. L. 117–328, div. P, title II, § 202, Dec. 29, 2022, 136 Stat. 5241, provided:
 
 > “That this Act may be cited as the ‘Presidential Transition Act of 1963.’
 
@@ -1340,15 +1340,15 @@ Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §
 
 > **“(b)** The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
 
-[Pub. L. 108–458, title VII, § 7601(d), Dec. 17, 2004, 118 Stat. 3858, provided that: “Notwithstanding section 351 [Pub. L. 108–458 does not contain a section 351], this section [enacting section 3342 of Title 50, War and National Defense, and amending section 3 of Pub. L. 88–277, set out above] and the amendments made by this section shall take effect on the date of enactment of this Act [Dec. 17, 2004].” ]
+[Pub. L. 108–458, title VII, § 7601(d), Dec. 17, 2004, 118 Stat. 3858, provided that: “Notwithstanding section 351 [Pub. L. 108–458 does not contain a section 351], this section [enacting section 3342 of Title 50, War and National Defense, and amending section 3 of Pub. L. 88–277, set out above] and the amendments made by this section shall take effect on the date of enactment of this Act [Dec. 17, 2004].” ]
 
-[Pub. L. 100–398, § 2(b), Aug. 17, 1988, 102 Stat. 985, provided that: “The amendments made by subsection (a) of this section [renumbering and amending section 6 of Pub. L. 88–277, set out above] shall be effective upon enactment [Aug. 17, 1988], except that the amendment made by paragraph (7) of such subsection [enacting subsec. (b) of section 6 of Pub. L. 88–277, set out above] shall take effect on October 1, 1989.” ]
+[Pub. L. 100–398, § 2(b), Aug. 17, 1988, 102 Stat. 985, provided that: “The amendments made by subsection (a) of this section [renumbering and amending section 6 of Pub. L. 88–277, set out above] shall be effective upon enactment [Aug. 17, 1988], except that the amendment made by paragraph (7) of such subsection [enacting subsec. (b) of section 6 of Pub. L. 88–277, set out above] shall take effect on October 1, 1989.” ]
 
-[Pub. L. 94–499, § 3, Oct. 14, 1976, 90 Stat. 2380, provided that amendment of section 5 of Pub. L. 88–277 [set out above] by section 1 of Pub. L. 94–499, respecting revision of appropriation authorization, shall be effective Oct. 14, 1976.]
+[Pub. L. 94–499, § 3, Oct. 14, 1976, 90 Stat. 2380, provided that amendment of section 5 of Pub. L. 88–277 [set out above] by section 1 of Pub. L. 94–499, respecting revision of appropriation authorization, shall be effective Oct. 14, 1976.]
 
 [For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
+[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
 
 **Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable**
 
@@ -1362,15 +1362,15 @@ Pub. L. 108–7, div. J, title III, Feb. 20, 2003, 117 Stat. 442.
 
 Pub. L. 107–67, title III, Nov. 12, 2001, 115 Stat. 526.
 
-Pub. L. 106–554, § 1(a)(3) [title III], Dec. 21, 2000, 114 Stat. 2763, 2763A–136.
+Pub. L. 106–554, § 1(a)(3) [title III], Dec. 21, 2000, 114 Stat. 2763, 2763A–136.
 
 Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 444.
 
-Pub. L. 105–277, div. A, § 101(h) [title III], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492.
+Pub. L. 105–277, div. A, § 101(h) [title III], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492.
 
 Pub. L. 105–61, title III, Oct. 10, 1997, 111 Stat. 1290.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title III], Sept. 30, 1996, 110 Stat. 3009-314, 3009-326.
+Pub. L. 104–208, div. A, title I, § 101(f) [title III], Sept. 30, 1996, 110 Stat. 3009-314, 3009-326.
 
 Pub. L. 104–52, title III, Nov. 19, 1995, 109 Stat. 477.
 
@@ -1388,27 +1388,27 @@ Pub. L. 101–136, title III, Nov. 3, 1989, 103 Stat. 790.
 
 Pub. L. 100–440, title III, Sept. 22, 1988, 102 Stat. 1728.
 
-Pub. L. 100–202, § 101(m) [title III], Dec. 22, 1987, 101 Stat. 1329–390, 1329–398.
+Pub. L. 100–202, § 101(m) [title III], Dec. 22, 1987, 101 Stat. 1329–390, 1329–398.
 
-Pub. L. 99–500, § 101(m) [title III], Oct. 18, 1986, 100 Stat. 1783–308, 1783–315, and Pub. L. 99–591, § 101(m) [title III, § 301], Oct. 30, 1986, 100 Stat. 3341–308, 3341–315.
+Pub. L. 99–500, § 101(m) [title III], Oct. 18, 1986, 100 Stat. 1783–308, 1783–315, and Pub. L. 99–591, § 101(m) [title III, § 301], Oct. 30, 1986, 100 Stat. 3341–308, 3341–315.
 
-Pub. L. 99–190, § 101(h) [H.R. 3036, title III], Dec. 19, 1985, 99 Stat. 1291.
+Pub. L. 99–190, § 101(h) [H.R. 3036, title III], Dec. 19, 1985, 99 Stat. 1291.
 
-Pub. L. 98–473, § 101(j) [H.R. 5798, title III], Oct. 12, 1984, 98 Stat. 1963.
+Pub. L. 98–473, § 101(j) [H.R. 5798, title III], Oct. 12, 1984, 98 Stat. 1963.
 
-Pub. L. 98–151, § 101(f) [H.R. 4139, title III], Nov. 14, 1983, 97 Stat. 973.
+Pub. L. 98–151, § 101(f) [H.R. 4139, title III], Nov. 14, 1983, 97 Stat. 973.
 
-Pub. L. 97–377, title I, § 101(a) [incorporating H.R. 4121, title III, for FY 1982], Dec. 21, 1982, 96 Stat. 1830.
+Pub. L. 97–377, title I, § 101(a) [incorporating H.R. 4121, title III, for FY 1982], Dec. 21, 1982, 96 Stat. 1830.
 
-Pub. L. 97–92, § 101(a) [H.R. 4121, title III], Dec. 15, 1981, 95 Stat. 1183.
+Pub. L. 97–92, § 101(a) [H.R. 4121, title III], Dec. 15, 1981, 95 Stat. 1183.
 
-Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title III], Dec. 16, 1980, 94 Stat. 3166.
+Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title III], Dec. 16, 1980, 94 Stat. 3166.
 
 Pub. L. 96–74, title III, Sept. 29, 1979, 93 Stat. 563.
 
 **Former Presidents; Allowance; Selection, Compensation, and Status of Office Staff; Office Space; Widow’s Allowance, Termination; “Former President” Defined**
 
-Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 730; Pub. L. 88–426, title I, § 124, Aug. 14, 1964, 78 Stat. 412; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 90–206, title II, § 224(c), Dec. 16, 1967, 81 Stat. 642; Pub. L. 91–231, § 7, Apr. 15, 1970, 84 Stat. 198; Pub. L. 91–658, § 6, Jan. 8, 1971, 84 Stat. 1963; Pub. L. 95–138, § 1, Oct. 18, 1977, 91 Stat. 1170; Pub. L. 103–123, title IV, § 6(a), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 103–329, title V, § 531, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title V, § 523, Nov. 19, 1995, 109 Stat. 495; Pub. L. 105–61, title IV, § 409(a), Oct. 10, 1997, 111 Stat. 1299; Pub. L. 108–447, div. H, title V, § 526, Dec. 8, 2004, 118 Stat. 3271, provided that:
+Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 730; Pub. L. 88–426, title I, § 124, Aug. 14, 1964, 78 Stat. 412; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 90–206, title II, § 224(c), Dec. 16, 1967, 81 Stat. 642; Pub. L. 91–231, § 7, Apr. 15, 1970, 84 Stat. 198; Pub. L. 91–658, § 6, Jan. 8, 1971, 84 Stat. 1963; Pub. L. 95–138, § 1, Oct. 18, 1977, 91 Stat. 1170; Pub. L. 103–123, title IV, § 6(a), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 103–329, title V, § 531, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title V, § 523, Nov. 19, 1995, 109 Stat. 495; Pub. L. 105–61, title IV, § 409(a), Oct. 10, 1997, 111 Stat. 1299; Pub. L. 108–447, div. H, title V, § 526, Dec. 8, 2004, 118 Stat. 3271, provided that:
 
 > **“(a)** Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payable monthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in section 101 of title 5, United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
 
@@ -1416,7 +1416,7 @@ Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, �
 
 > **“(c)** The Administrator of General Services shall furnish for each former President suitable office space appropriately furnished and equipped, as determined by the Administrator, at such place within the United States as the former President shall specify.
 
-> **“(d) [Repealed. Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 730. See sections 3214 and 3216 of title 39.]**
+> **“(d) [Repealed. Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 730. See sections 3214 and 3216 of title 39.]**
 
 > **“(e)** The widow of each former President shall be entitled to receive from the United States a monetary allowance at a rate of $20,000 per annum, payable monthly by the Secretary of the Treasury, if such widow shall waive the right to each other annuity or pension to which she is entitled under any other Act of Congress. The monetary allowance of such widow—
 
@@ -1440,15 +1440,15 @@ Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, �
 
 > **“(g)** There are authorized to be appropriated to the Administrator of General Services up to $1,000,000 for each former President and up to $500,000 for the spouse of each former President each fiscal year for security and travel related expenses: *Provided*, That under the provisions set forth in section 3056, paragraph (a), subparagraph (3) of title 18, United States Code, the former President and/or spouse was not receiving protection for a lifetime provided by the United States Secret Service under section 3056 paragraph (a) subparagraph (3) of title 18, United States Code; the protection provided by the United States Secret Service expired at its designated time; or the protection provided by the United States Secret Service was declined prior to authorized expiration in lieu of these funds.”
 
-[Pub. L. 95–138, § 2, Oct. 18, 1977, 91 Stat. 1170, provided that: “The amendment made by the first section of this Act [amending Pub. L. 87–745, set out above] shall take effect October 1, 1977.” ]
+[Pub. L. 95–138, § 2, Oct. 18, 1977, 91 Stat. 1170, provided that: “The amendment made by the first section of this Act [amending Pub. L. 87–745, set out above] shall take effect October 1, 1977.” ]
 
 [For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-## § 103. Traveling expenses
+## § 103. Traveling expenses
 
 There may be expended for or on account of the traveling expenses of the President of the United States such sum as Congress may from time to time appropriate, not exceeding $100,000 per annum, such sum when appropriated to be expended in the discretion of the President and accounted for on his certificate solely.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Pub. L. 95–570, § 4, Nov. 2, 1978, 92 Stat. 2450.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Pub. L. 95–570, § 4, Nov. 2, 1978, 92 Stat. 2450.)
 
 **Editorial Notes**
 
@@ -1462,13 +1462,13 @@ There may be expended for or on account of the traveling expenses of the Preside
 
 Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under section 102 of this title.
 
-## § 104. Salary of the Vice President
+## § 104. Salary of the Vice President
 
 **(a)** The per annum rate of salary of the Vice President of the United States shall be the rate determined for such position under chapter 11 of title 2, as adjusted under this section. Subject to subsection (b), effective at the beginning of the first month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, the salary of the Vice President shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the nearest higher multiple of $100), equal to the percentage of such per annum rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 **(b)** In no event shall the percentage adjustment taking effect under the second and third sentences of subsection (a) in any calendar year (before rounding) exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, § 1(b), 63 Stat. 4; Mar. 2, 1955, ch. 9, § 4(c), 69 Stat. 11; Pub. L. 88–426, title III, § 304(a), Aug. 14, 1964, 78 Stat. 422; Pub. L. 91–67, § 1, Sept. 15, 1969, 83 Stat. 106; Pub. L. 94–82, title II, § 203, Aug. 9, 1975, 89 Stat. 420; Pub. L. 97–257, title I, § 105(b), Sept. 10, 1982, 96 Stat. 849; Pub. L. 101–194, title VII, § 704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(I)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 103–356, title I, § 101(2), Oct. 13, 1994, 108 Stat. 3410.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, § 1(b), 63 Stat. 4; Mar. 2, 1955, ch. 9, § 4(c), 69 Stat. 11; Pub. L. 88–426, title III, § 304(a), Aug. 14, 1964, 78 Stat. 422; Pub. L. 91–67, § 1, Sept. 15, 1969, 83 Stat. 106; Pub. L. 94–82, title II, § 203, Aug. 9, 1975, 89 Stat. 420; Pub. L. 97–257, title I, § 105(b), Sept. 10, 1982, 96 Stat. 849; Pub. L. 101–194, title VII, § 704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(I)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 103–356, title I, § 101(2), Oct. 13, 1994, 108 Stat. 3410.)
 
 **Editorial Notes**
 
@@ -1476,7 +1476,7 @@ Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or afte
 
 The General Schedule, referred to in text, is set out under section 5332 of Title 5, Government Organization and Employees.
 
-Chapter 11 of title 2, referred to in subsec. (a), probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+Chapter 11 of title 2, referred to in subsec. (a), probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
 
 Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), is section 704(a)(1) of Pub. L. 101–194, which is set out as a note under section 5318 of Title 5.
 
@@ -1504,11 +1504,11 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), 
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by section 101(2) is effective Dec. 31, 1994.
+Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by section 101(2) is effective Dec. 31, 1994.
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1989 Amendment**
 
@@ -1520,7 +1520,7 @@ Amendment by Pub. L. 97–257 effective in the case of compensation payable for 
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–67, § 3, Sept. 15, 1969, 83 Stat. 107, provided that: “The amendments made by this Act [amending this section and section 4501 of Title 2, The Congress] shall become effective on March 1, 1969.”
+Pub. L. 91–67, § 3, Sept. 15, 1969, 83 Stat. 107, provided that: “The amendments made by this Act [amending this section and section 4501 of Title 2, The Congress] shall become effective on March 1, 1969.”
 
 **Effective Date of 1964 Amendment**
 
@@ -1548,13 +1548,13 @@ For miscellaneous provisions dealing with adjustments of pay and limitations on 
 
 For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
-## § 105. Assistance and services for the President
+## § 105. Assistance and services for the President
 
 **(a)**
 
-**(1)** Subject to the provisons 1
+**(1)** Subject to the provisons 1
 
-<sup>1</sup>  So in original. Probably should be “provisions”.
+<sup>1</sup> So in original. Probably should be “provisions”.
 
 of paragraph (2) of this subsection, the President is authorized to appoint and fix the pay of employees in the White House Office without regard to any other provision of law regulating the employment or compensation of persons in the Government service. Employees so appointed shall perform such official duties as the President may prescribe.
 
@@ -1602,7 +1602,7 @@ Sums appropriated under this subsection for expenses described in paragraphs (1)
 
 **(e)** Assistance and services authorized pursuant to this section to the President are authorized to be provided to the spouse of the President in connection with assistance provided by such spouse to the President in the discharge of the President’s duties and responsibilities. If the President does not have a spouse, such assistance and services may be provided for such purposes to a member of the President’s family whom the President designates.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Oct. 15, 1949, ch. 695, § 2(a), 63 Stat. 880; July 31, 1956, ch. 804, title I, § 109, 70 Stat. 740; Pub. L. 87–367, title III, § 303(h), Oct. 4, 1961, 75 Stat. 794; Pub. L. 88–426, title III, § 304(b), Aug. 14, 1964, 78 Stat. 422; Pub. L. 90–222, title I, § 111(c), Dec. 23, 1967, 81 Stat. 726; Pub. L. 95–570, § 1(a), Nov. 2, 1978, 92 Stat. 2445.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Oct. 15, 1949, ch. 695, § 2(a), 63 Stat. 880; July 31, 1956, ch. 804, title I, § 109, 70 Stat. 740; Pub. L. 87–367, title III, § 303(h), Oct. 4, 1961, 75 Stat. 794; Pub. L. 88–426, title III, § 304(b), Aug. 14, 1964, 78 Stat. 422; Pub. L. 90–222, title I, § 111(c), Dec. 23, 1967, 81 Stat. 726; Pub. L. 95–570, § 1(a), Nov. 2, 1978, 92 Stat. 2445.)
 
 **Editorial Notes**
 
@@ -1648,11 +1648,11 @@ Amendment by act Oct. 15, 1949, effective on first day of first pay period after
 
 **Repeals**
 
-Act July 31, 1956, ch. 804, title I, § 109, 70 Stat. 740, cited as a credit to this section, was repealed by Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422.
+Act July 31, 1956, ch. 804, title I, § 109, 70 Stat. 740, cited as a credit to this section, was repealed by Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Executive Documents**
 
@@ -1660,7 +1660,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 National Aeronautics and Space Council, including office of Executive Secretary of Council, together with functions of Council, abolished by section 3(a)(4) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 106. Assistance and services for the Vice President
+## § 106. Assistance and services for the Vice President
 
 **(a)** In order to enable the Vice President to provide assistance to the President in connection with the performance of functions specially assigned to the Vice President by the President in the discharge of executive duties and responsibilities, the Vice President is authorized—
 
@@ -1690,7 +1690,7 @@ Sums appropriated under this subsection for expenses described in paragraphs (2)
 
 **(c)** Assistance and services authorized pursuant to this section to the Vice President are authorized to be provided to the spouse of the Vice President in connection with assistance provided by such spouse to the Vice President in the discharge of the Vice President’s executive duties and responsibilities. If the Vice President does not have a spouse, such assistance and services may be provided for such purposes to a member of the Vice President’s family whom the Vice President designates.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Oct. 15, 1949, ch. 695, § 2(b), 63 Stat. 880; Pub. L. 95–570, § 1(a), Nov. 2, 1978, 92 Stat. 2446.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Oct. 15, 1949, ch. 695, § 2(b), 63 Stat. 880; Pub. L. 95–570, § 1(a), Nov. 2, 1978, 92 Stat. 2446.)
 
 **Editorial Notes**
 
@@ -1712,7 +1712,7 @@ Amendment by act Oct. 15, 1949, effective on first day of first pay period after
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Former President’s Office Staff**
 
@@ -1754,7 +1754,7 @@ Sec. 6. (a) The compensation and expenses of the Special Assistant and members o
 
 Richard Nixon.
 
-## § 107. Domestic Policy Staff and Office of Administration; personnel
+## § 107. Domestic Policy Staff and Office of Administration; personnel
 
 **(a)** In order to enable the Domestic Policy Staff to perform its functions, the President (or his designee) is authorized—
 
@@ -1784,7 +1784,7 @@ Richard Nixon.
 
 **(c)** There are authorized to be appropriated each fiscal year such sums as may be necessary for the official expenses of the Domestic Policy Staff and the Office of Administration.
 
-(Added Pub. L. 95–570, § 2(a), Nov. 2, 1978, 92 Stat. 2448.)
+(Added Pub. L. 95–570, § 2(a), Nov. 2, 1978, 92 Stat. 2448.)
 
 **Editorial Notes**
 
@@ -1800,11 +1800,11 @@ Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see se
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Applicability of Subsec. (b) to Current Employees of Office of Administration**
 
-Pub. L. 95–570, § 6(b), Nov. 2, 1978, 92 Stat. 2451, provided that:
+Pub. L. 95–570, § 6(b), Nov. 2, 1978, 92 Stat. 2451, provided that:
 
 > “In the case of an individual—
 
@@ -1814,7 +1814,7 @@ Pub. L. 95–570, § 6(b), Nov. 2, 1978, 92 Stat. 2451, provided that:
 
 > such employee may be allowed to continue to hold such position and receive basic pay at the rate in effect on the effective date of this Act [see Effective Date of 1978 Amendment note set out under section 102 of this title] during the period which begins on such date and ends 2 years after such date so long as such employee continues as an employee of the Office of Administration.”
 
-## § 108. Assistance to the President for unanticipated needs
+## § 108. Assistance to the President for unanticipated needs
 
 **(a)** There is authorized to be appropriated to the President an amount not to exceed $1,000,000 each fiscal year to enable the President, in his discretion, to meet unanticipated needs for the furtherance of the national interest, security, or defense, including personnel needs and needs for services described in section 3109(b) of title 5, and administrative expenses related thereto, without regard to any provision of law regulating the employment or compensation of persons in the Government service or regulating expenditures of Government funds.
 
@@ -1822,7 +1822,7 @@ Pub. L. 95–570, § 6(b), Nov. 2, 1978, 92 Stat. 2451, provided that:
 
 **(c)** An individual may not be paid under the authority of this section at a rate of pay in excess of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5.
 
-(Added Pub. L. 95–570, § 2(a), Nov. 2, 1978, 92 Stat. 2449.)
+(Added Pub. L. 95–570, § 2(a), Nov. 2, 1978, 92 Stat. 2449.)
 
 **Editorial Notes**
 
@@ -1832,11 +1832,11 @@ For the effective date of this subsection, referred to in subsec. (b), see secti
 
 **Prior Provisions**
 
-A prior section 108, act June 25, 1948, ch. 644, 62 Stat. 679, directing the Quartermaster General of the Army to provide suitable accommodations for the horses, carriages, and other vehicles of the President and of the Executive Office, was repealed by act June 28, 1950, ch. 383, title IV, § 401(j), 64 Stat. 271.
+A prior section 108, act June 25, 1948, ch. 644, 62 Stat. 679, directing the Quartermaster General of the Army to provide suitable accommodations for the horses, carriages, and other vehicles of the President and of the Executive Office, was repealed by act June 28, 1950, ch. 383, title IV, § 401(j), 64 Stat. 271.
 
-Insofar as prior section 108, by virtue of a former proviso in section 401 of act June 28, 1950, continued to remain in effect to the extent that it was applicable to the Department of the Air Force, and the United States Air Force, it was additionally repealed by act Sept. 19, 1951, ch. 407, title IV, § 401(a)(1), 65 Stat. 333.
+Insofar as prior section 108, by virtue of a former proviso in section 401 of act June 28, 1950, continued to remain in effect to the extent that it was applicable to the Department of the Air Force, and the United States Air Force, it was additionally repealed by act Sept. 19, 1951, ch. 407, title IV, § 401(a)(1), 65 Stat. 333.
 
-Act Oct. 31, 1951, ch. 654, § 1(2), 65 Stat. 701, repealed that part of act Mar. 4, 1911, ch. 285, § 1, 36 Stat. 1404, from which prior section 108, as enacted by act June 25, 1948, ch. 644, § 1, 62 Stat. 672, had been derived. That part of the 1911 act had previously been repealed by section 3 of the 1948 act.
+Act Oct. 31, 1951, ch. 654, § 1(2), 65 Stat. 701, repealed that part of act Mar. 4, 1911, ch. 285, § 1, 36 Stat. 1404, from which prior section 108, as enacted by act June 25, 1948, ch. 644, § 1, 62 Stat. 672, had been derived. That part of the 1911 act had previously been repealed by section 3 of the 1948 act.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1844,11 +1844,11 @@ Act Oct. 31, 1951, ch. 654, § 1(2), 65 Stat. 701, repealed that part of act M
 
 Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under section 102 of this title.
 
-## § 109. Public property in and belonging to the Executive Residence at the White House
+## § 109. Public property in and belonging to the Executive Residence at the White House
 
 The steward, housekeeper, or such other employee of the Executive Residence at the White House as the President may designate, shall under the direction of the President, have the charge and custody of and be responsible for the plate, furniture, and public property therein. A complete inventory, in proper books, shall be made annually in the month of June, under the direction of the Director of the National Park Service, of all the public property in and belonging to the Executive Residence at the White House, showing when purchased, its cost, condition, and final disposition. This inventory shall be submitted to the President for his approval, and shall then be kept for reference in the office of the Director of the National Park Service, which shall furnish a copy thereof to the steward, housekeeper, or other employee responsible for the property.
 
-(June 25, 1948, ch. 644, 62 Stat. 679; Pub. L. 92–310, title II, § 201, June 6, 1972, 86 Stat. 202; Pub. L. 95–570, § 5(b)(1), Nov. 2, 1978, 92 Stat. 2450.)
+(June 25, 1948, ch. 644, 62 Stat. 679; Pub. L. 92–310, title II, § 201, June 6, 1972, 86 Stat. 202; Pub. L. 95–570, § 5(b)(1), Nov. 2, 1978, 92 Stat. 2450.)
 
 **Editorial Notes**
 
@@ -1868,13 +1868,13 @@ Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or afte
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 3, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 3, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 110. Furniture for the Executive Residence at the White House
+## § 110. Furniture for the Executive Residence at the White House
 
 All furniture purchased for the use of the Executive Residence at the White House shall be, as far as practicable, of domestic manufacture. With a view to conserving in the Executive Residence at the White House the best specimens of the early American furniture and furnishings, and for the purpose of maintaining the interior of the Executive Residence at the White House in keeping with its original design, the Director of the National Park Service is authorized and directed, with the approval of the President, to accept donations of furniture and furnishings for use in the Executive Residence at the White House, all such articles thus donated to become the property of the United States and to be accounted for as such. The said Director of the National Park Service is further authorized and directed, with the approval of the President, to appoint a temporary committee composed of one representative of the American Federation of Arts, one representative of the National Commission of Fine Arts, one representative of the National Academy of Design, one member of the American Institute of Architects, and five members representing the public at large; the said committee to have full power to select and pass on the articles in question and to recommend the same for acceptance.
 
-(June 25, 1948, ch. 644, 62 Stat. 679; Pub. L. 95–570, § 5(c)(1), Nov. 2, 1978, 92 Stat. 2451.)
+(June 25, 1948, ch. 644, 62 Stat. 679; Pub. L. 95–570, § 5(c)(1), Nov. 2, 1978, 92 Stat. 2451.)
 
 **Editorial Notes**
 
@@ -2010,11 +2010,11 @@ Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, extended term until Dec. 31, 19
 
 Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, extended term until Dec. 31, 1978.
 
-## § 111. Expense allowance of Vice President
+## § 111. Expense allowance of Vice President
 
 There shall be paid to the Vice President in equal monthly installments an expense allowance of $20,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
 
-(Added Jan. 19, 1949, ch. 2, § 1(c), 63 Stat. 4; amended Oct. 20, 1951, ch. 521, title VI, § 619(b), 65 Stat. 570; Pub. L. 108–7, div. H, title I, § 1(a), Feb. 20, 2003, 117 Stat. 348.)
+(Added Jan. 19, 1949, ch. 2, § 1(c), 63 Stat. 4; amended Oct. 20, 1951, ch. 521, title VI, § 619(b), 65 Stat. 570; Pub. L. 108–7, div. H, title I, § 1(a), Feb. 20, 2003, 117 Stat. 348.)
 
 **Editorial Notes**
 
@@ -2040,7 +2040,7 @@ Section effective noon, Jan. 20, 1949, see section 3 of act Jan. 19, 1949.
 
 **Official Temporary Residence of the Vice President**
 
-Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, § 609(a), Dec. 27, 1974, 88 Stat. 1764; Pub. L. 107–67, title VI, §§ 635, 636, Nov. 12, 2001, 115 Stat. 553, provided:
+Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, § 609(a), Dec. 27, 1974, 88 Stat. 1764; Pub. L. 107–67, title VI, §§ 635, 636, Nov. 12, 2001, 115 Stat. 553, provided:
 
 > “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States.
 
@@ -2102,7 +2102,7 @@ Pub. L. 89–386, Apr. 9, 1966, 80 Stat. 106, provided:
 
 > There is further authorized to be appropriated to the General Services Administration, annually, such amounts as may be necessary to carry out the purposes of section 3.”
 
-## § 112. Detail of employees of executive departments
+## § 112. Detail of employees of executive departments
 
 The head of any department, agency, or independent establishment of the executive branch of the Government may detail, from time to time, employees of such department, agency, or establishment to the White House Office, the Executive Residence at the White House, the Office of the Vice President, the Domestic Policy Staff, and the Office of Administration. Any such office to which an employee has been detailed for service to such office shall reimburse the detailing department, agency, or establishment for the pay of each employee thereof—
 
@@ -2112,7 +2112,7 @@ The head of any department, agency, or independent establishment of the executiv
 
 for any period occurring during any fiscal year after 180 calendar days after the employee is detailed in such year.
 
-(Added Pub. L. 95–570, § 3(a), Nov. 2, 1978, 92 Stat. 2449.)
+(Added Pub. L. 95–570, § 3(a), Nov. 2, 1978, 92 Stat. 2449.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2122,9 +2122,9 @@ Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see se
 
 **Authority With Respect to Detailed Employees**
 
-Pub. L. 107–67, title VI, § 637, Nov. 12, 2001, 115 Stat. 553, provided that: “During fiscal year 2002 and thereafter, the head of an entity named in 3 U.S.C. 112 may, with respect to civilian personnel of any branch of the Federal Government performing duties in such entity, exercise authority comparable to the authority that may by law (including chapter 57 and sections 8344 and 8468 of title 5, United States Code) be exercised with respect to the employees of an Executive agency (as defined in 5 U.S.C. 105) by the head of such Executive agency, and the authority granted by this section shall be in addition to any other authority available in law.”
+Pub. L. 107–67, title VI, § 637, Nov. 12, 2001, 115 Stat. 553, provided that: “During fiscal year 2002 and thereafter, the head of an entity named in 3 U.S.C. 112 may, with respect to civilian personnel of any branch of the Federal Government performing duties in such entity, exercise authority comparable to the authority that may by law (including chapter 57 and sections 8344 and 8468 of title 5, United States Code) be exercised with respect to the employees of an Executive agency (as defined in 5 U.S.C. 105) by the head of such Executive agency, and the authority granted by this section shall be in addition to any other authority available in law.”
 
-## § 113. Personnel report
+## § 113. Personnel report
 
 **(a)** The President shall transmit to each House of the Congress, and make available to the public, reports containing information described in subsection (b) for each fiscal year beginning on or after the effective date of this section. Each such report shall be transmitted no later than 60 days after the close of the fiscal year covered by such report and shall contain a statement of such information for such year.
 
@@ -2132,13 +2132,13 @@ Pub. L. 107–67, title VI, § 637, Nov. 12, 2001, 115 Stat. 553, provided tha
 
 **(1)** the number of employees who are paid at a rate of basic pay equal to or greater than the rate of basic pay then currently paid for level V of the Executive Schedule of section 5316 of title 5 and who are employed in the White House Office, the Executive Residence at the White House, the Office of the Vice President, the Domestic Policy Staff, or the Office of Administration, and the aggregate amount paid to such employees;
 
-**(2)** the number of employees employed in such offices who are paid at a rate of basic pay which is equal to or greater than the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5 but which is less than the rate then currently paid for level V of the Executive Schedule of section 5316 of title V 1
+**(2)** the number of employees employed in such offices who are paid at a rate of basic pay which is equal to or greater than the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5 but which is less than the rate then currently paid for level V of the Executive Schedule of section 5316 of title V 1
 
-<sup>1</sup>  So in original. Probably should be title “5”.
+<sup>1</sup> So in original. Probably should be title “5”.
 
 and the aggregate amount paid to such employees;
 
-**(3)** the number of employees employed in such offices who are paid at a rate of basic pay which is less than the minimum rate then currently paid for GS–16 of the General Schedule of section 5332 of title V <sup>1</sup>, and the aggregate amount paid to such employees;
+**(3)** the number of employees employed in such offices who are paid at a rate of basic pay which is less than the minimum rate then currently paid for GS–16 of the General Schedule of section 5332 of title V <sup>1</sup>, and the aggregate amount paid to such employees;
 
 **(4)** the number of individuals detailed under section 112 of this title for more than 30 days to each such office, the number of days in excess of 30 each individual was detailed, and the aggregate amount of reimbursement made as provided by the provisions of section 112 of this title; and
 
@@ -2146,7 +2146,7 @@ and the aggregate amount paid to such employees;
 
 The information required under this subsection to be in any report shall be shown both in the aggregate and by office involved.
 
-(Added Pub. L. 95–570, § 3(a), Nov. 2, 1978, 92 Stat. 2449.)
+(Added Pub. L. 95–570, § 3(a), Nov. 2, 1978, 92 Stat. 2449.)
 
 **Editorial Notes**
 
@@ -2166,11 +2166,11 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Report on White House Office Personnel**
 
-Pub. L. 103–270, § 6, June 30, 1994, 108 Stat. 737, provided that:
+Pub. L. 103–270, § 6, June 30, 1994, 108 Stat. 737, provided that:
 
 > **“(a) Submission of Report.—** On July 1 of each year, the President shall submit a report described in subsection (b) to the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate and the Committee on Government Operations of the House of Representatives.
 
@@ -2204,11 +2204,11 @@ Pub. L. 103–270, § 6, June 30, 1994, 108 Stat. 737, provided that:
 
 [Section 6 of Pub. L. 103–270, set out above, effective Jan. 1, 1995, see section 7(i) of Pub. L. 103–270, set out as an Effective Date of 1994 Amendment; Transition Provisions note under section 591 of Title 28, Judiciary and Judicial Procedure.]
 
-## § 114. General pay limitation
+## § 114. General pay limitation
 
 Notwithstanding any provision of law, other than the provisions of this chapter, no employee of the White House Office, the Executive Residence at the White House, the Domestic Policy Staff, or the Office of Administration, nor any employee under the Vice President appointed under section 106 of this title, may be paid at a rate of basic pay in excess of the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5.
 
-(Added Pub. L. 95–570, § 3(a), Nov. 2, 1978, 92 Stat. 2450.)
+(Added Pub. L. 95–570, § 3(a), Nov. 2, 1978, 92 Stat. 2450.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2218,9 +2218,9 @@ Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see se
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 115. Veterans’ preference
+## § 115. Veterans’ preference
 
 **(a)** Subject to subsection (b), appointments under sections 105, 106, and 107 shall be made in accordance with section 2108, and sections 3309 through 3312, of title 5.
 
@@ -2236,4 +2236,4 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Each individual appointed to a position described in the preceding sentence as to which the expectation described in paragraph (2) applies shall be notified as to such expectation, in writing, at the time of appointment to such position.
 
-(Added Pub. L. 105–339, § 4(b)(1), Oct. 31, 1998, 112 Stat. 3185.)
+(Added Pub. L. 105–339, § 4(b)(1), Oct. 31, 1998, 112 Stat. 3185.)

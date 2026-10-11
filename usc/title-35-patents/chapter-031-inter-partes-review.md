@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 299, substituted “INTER PARTES REVIEW” for “OPTIONAL INTER PARTES REEXAMINATION PROCEDURES” in chapter heading and amended analysis generally, adding items 311 to 319, and striking out former items 311 “Request for inter partes reexamination”, 312 “Determination of issue by Director”, 313 “Inter partes reexamination order by Director”, 314 “Conduct of inter partes reexamination proceedings”, 315 “Appeal”, 316 “Certificate of patentability, unpatentability, and claim cancellation”, 317 “Inter partes reexamination prohibited”, and 318 “Stay of litigation”.
+2011—Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 299, substituted “INTER PARTES REVIEW” for “OPTIONAL INTER PARTES REEXAMINATION PROCEDURES” in chapter heading and amended analysis generally, adding items 311 to 319, and striking out former items 311 “Request for inter partes reexamination”, 312 “Determination of issue by Director”, 313 “Inter partes reexamination order by Director”, 314 “Conduct of inter partes reexamination proceedings”, 315 “Appeal”, 316 “Certificate of patentability, unpatentability, and claim cancellation”, 317 “Inter partes reexamination prohibited”, and 318 “Stay of litigation”.
 
-2002—Pub. L. 107–273, div. C, title III, § 13202(c)(1), Nov. 2, 2002, 116 Stat. 1902, made technical correction to directory language of Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, which enacted this chapter.
+2002—Pub. L. 107–273, div. C, title III, § 13202(c)(1), Nov. 2, 2002, 116 Stat. 1902, made technical correction to directory language of Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, which enacted this chapter.
 
-## § 311. Inter partes review
+## § 311. Inter partes review
 
 **(a) In General.—** Subject to the provisions of this chapter, a person who is not the owner of a patent may file with the Office a petition to institute an inter partes review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the review.
 
@@ -35,7 +35,7 @@ retrieved: 2026-10-11
 
 **(2)** if a post-grant review is instituted under chapter 32, the date of the termination of such post-grant review.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; amended Pub. L. 107–273, div. C, title III, § 13202(a)(1), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 299; Pub. L. 112–274, § 1(d)(2), Jan. 14, 2013, 126 Stat. 2456.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; amended Pub. L. 107–273, div. C, title III, § 13202(a)(1), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 299; Pub. L. 112–274, § 1(d)(2), Jan. 14, 2013, 126 Stat. 2456.)
 
 **Editorial Notes**
 
@@ -45,11 +45,11 @@ retrieved: 2026-10-11
 
 2011—Pub. L. 112–29 amended section generally. Prior to amendment, section related to request for inter partes reexamination.
 
-2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
-Subsec. (a). Pub. L. 107–273, § 13202(a)(1)(A), substituted “third-party requester” for “person”.
+Subsec. (a). Pub. L. 107–273, § 13202(a)(1)(A), substituted “third-party requester” for “person”.
 
-Subsec. (c). Pub. L. 107–273, § 13202(a)(1)(B), substituted “The” for “Unless the requesting person is the owner of the patent, the”.
+Subsec. (c). Pub. L. 107–273, § 13202(a)(1)(B), substituted “The” for “Unless the requesting person is the owner of the patent, the”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -59,7 +59,7 @@ Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to procee
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 6(c)(2), Sept. 16, 2011, 125 Stat. 304, provided that:
+Pub. L. 112–29, § 6(c)(2), Sept. 16, 2011, 125 Stat. 304, provided that:
 
 > **“(A) In general.—** The amendments made by subsection (a) [enacting section 319 of this title and amending this section and sections 312 to 318 of this title] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date.
 
@@ -67,21 +67,21 @@ Pub. L. 112–29, § 6(c)(2), Sept. 16, 2011, 125 Stat. 304, provided that:
 
 **Effective Date**
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
 **Regulations**
 
-Pub. L. 112–29, § 6(c)(1), Sept. 16, 2011, 125 Stat. 304, provided that: “The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall, not later than the date that is 1 year after the date of the enactment of this Act [Sept. 16, 2011], issue regulations to carry out chapter 31 of title 35, United States Code, as amended by subsection (a) of this section.”
+Pub. L. 112–29, § 6(c)(1), Sept. 16, 2011, 125 Stat. 304, provided that: “The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall, not later than the date that is 1 year after the date of the enactment of this Act [Sept. 16, 2011], issue regulations to carry out chapter 31 of title 35, United States Code, as amended by subsection (a) of this section.”
 
 **Applicability of Filing Deadline**
 
-Pub. L. 112–274, § 1(d)(1), Jan. 14, 2013, 126 Stat. 2456, provided that: “Section 311(c) of title 35, United States Code, shall not apply to a petition to institute an inter partes review of a patent that is not a patent described in section 3(n)(1) of the Leahy-Smith America Invents Act [Pub. L. 112–29] (35 U.S.C. 100 note).”
+Pub. L. 112–274, § 1(d)(1), Jan. 14, 2013, 126 Stat. 2456, provided that: “Section 311(c) of title 35, United States Code, shall not apply to a petition to institute an inter partes review of a patent that is not a patent described in section 3(n)(1) of the Leahy-Smith America Invents Act [Pub. L. 112–29] (35 U.S.C. 100 note).”
 
 **Report to Congress**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4606], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, required the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office to submit to Congress a report on possible inequities of certain inter partes reexamination proceedings no later than 5 years after Nov. 29, 1999.
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4606], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, required the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office to submit to Congress a report on possible inequities of certain inter partes reexamination proceedings no later than 5 years after Nov. 29, 1999.
 
-## § 312. Petitions
+## § 312. Petitions
 
 **(a) Requirements of Petition.—** A petition filed under section 311 may be considered only if—
 
@@ -101,25 +101,25 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4606], No
 
 **(b) Public Availability.—** As soon as practicable after the receipt of a petition under section 311, the Director shall make the petition available to the public.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, §§ 13105(a), 13202(a)(2), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902; Pub. L. 112–29, § 6(a), (c)(3)(A)(i), Sept. 16, 2011, 125 Stat. 300, 305.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, §§ 13105(a), 13202(a)(2), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902; Pub. L. 112–29, § 6(a), (c)(3)(A)(i), Sept. 16, 2011, 125 Stat. 300, 305.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 6(a), amended section generally. Prior to amendment, section related to determination of issue by Director.
+2011—Pub. L. 112–29, § 6(a), amended section generally. Prior to amendment, section related to determination of issue by Director.
 
-Subsec. (a). Pub. L. 112–29, § 6(c)(3)(A)(i)(I), substituted “the information presented in the request shows that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request,” for “a substantial new question of patentability affecting any claim of the patent concerned is raised by the request,” and “A showing that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request” for “The existence of a substantial new question of patentability”.
+Subsec. (a). Pub. L. 112–29, § 6(c)(3)(A)(i)(I), substituted “the information presented in the request shows that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request,” for “a substantial new question of patentability affecting any claim of the patent concerned is raised by the request,” and “A showing that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request” for “The existence of a substantial new question of patentability”.
 
-Subsec. (c). Pub. L. 112–29, § 6(c)(3)(A)(i)(II), substituted “the showing required by subsection (a) has not been made,” for “no substantial new question of patentability has been raised,”.
+Subsec. (c). Pub. L. 112–29, § 6(c)(3)(A)(i)(II), substituted “the showing required by subsection (a) has not been made,” for “no substantial new question of patentability has been raised,”.
 
-2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
-Subsec. (a). Pub. L. 107–273, § 13202(a)(2)(A), struck out second sentence which read as follows: “On the Director’s initiative, and at any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications.”
+Subsec. (a). Pub. L. 107–273, § 13202(a)(2)(A), struck out second sentence which read as follows: “On the Director’s initiative, and at any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications.”
 
-Pub. L. 107–273, § 13105(a), inserted at end “The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.”
+Pub. L. 107–273, § 13105(a), inserted at end “The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.”
 
-Subsec. (b). Pub. L. 107–273, § 13202(a)(2)(B), struck out “, if any” after “third-party requester”.
+Subsec. (b). Pub. L. 107–273, § 13202(a)(2)(B), struck out “, if any” after “third-party requester”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -127,7 +127,7 @@ Subsec. (b). Pub. L. 107–273, § 13202(a)(2)(B), struck out “, if any”
 
 Amendment by section 6(a) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under section 311 of this title.
 
-Pub. L. 112–29, § 6(c)(3)(B), (C), Sept. 16, 2011, 125 Stat. 305, provided that:
+Pub. L. 112–29, § 6(c)(3)(B), (C), Sept. 16, 2011, 125 Stat. 305, provided that:
 
 > **“(B) Application.—** The amendments made by this paragraph [amending this section and section 313 of this title]—
 
@@ -143,21 +143,21 @@ Amendment by section 13105(a) of Pub. L. 107–273 applicable with respect to an
 
 **Effective Date**
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
-## § 313. Preliminary response to petition
+## § 313. Preliminary response to petition
 
 If an inter partes review petition is filed under section 311, the patent owner shall have the right to file a preliminary response to the petition, within a time period set by the Director, that sets forth reasons why no inter partes review should be instituted based upon the failure of the petition to meet any requirement of this chapter.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, § 13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, § 6(a), (c)(3)(A)(ii), Sept. 16, 2011, 125 Stat. 300, 305.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, § 13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, § 6(a), (c)(3)(A)(ii), Sept. 16, 2011, 125 Stat. 300, 305.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 6(c)(3)(A)(ii), which directed substitution of “it has been shown that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request” for “a substantial new question of patentability affecting a claim of the patent is raised”, was executed by making the substitution for “a substantial new question of patentability affecting a claim of a patent is raised”, to reflect the probable intent of Congress.
+2011—Pub. L. 112–29, § 6(c)(3)(A)(ii), which directed substitution of “it has been shown that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request” for “a substantial new question of patentability affecting a claim of the patent is raised”, was executed by making the substitution for “a substantial new question of patentability affecting a claim of a patent is raised”, to reflect the probable intent of Congress.
 
-Pub. L. 112–29, § 6(a), amended section generally. Prior to amendment, text read as follows: “If, in a determination made under section 312(a), the Director finds that it has been shown that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request, the determination shall include an order for inter partes reexamination of the patent for resolution of the question. The order may be accompanied by the initial action of the Patent and Trademark Office on the merits of the inter partes reexamination conducted in accordance with section 314.”
+Pub. L. 112–29, § 6(a), amended section generally. Prior to amendment, text read as follows: “If, in a determination made under section 312(a), the Director finds that it has been shown that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request, the determination shall include an order for inter partes reexamination of the patent for resolution of the question. The order may be accompanied by the initial action of the Patent and Trademark Office on the merits of the inter partes reexamination conducted in accordance with section 314.”
 
 2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
@@ -171,9 +171,9 @@ Amendment by section 6(c)(3)(A)(ii) of Pub. L. 112–29 effective Sept. 16, 2011
 
 **Effective Date**
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
-## § 314. Institution of inter partes review
+## § 314. Institution of inter partes review
 
 **(a) Threshold.—** The Director may not authorize an inter partes review to be instituted unless the Director determines that the information presented in the petition filed under section 311 and any response filed under section 313 shows that there is a reasonable likelihood that the petitioner would prevail with respect to at least 1 of the claims challenged in the petition.
 
@@ -187,7 +187,7 @@ Section effective Nov. 29, 1999, and applicable to any patent issuing from an or
 
 **(d) No Appeal.—** The determination by the Director whether to institute an inter partes review under this section shall be final and nonappealable.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, § 13202(a)(3), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 300.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, § 13202(a)(3), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 300.)
 
 **Editorial Notes**
 
@@ -195,9 +195,9 @@ Section effective Nov. 29, 1999, and applicable to any patent issuing from an or
 
 2011—Pub. L. 112–29 amended section generally. Prior to amendment, section related to conduct of inter partes reexamination proceedings.
 
-2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
-Subsec. (b). Pub. L. 107–273, § 13202(a)(3), redesignated par. (2) as (1), substituted “the Office shall send to the third-party requester a copy” for “the third-party requester shall receive a copy”, redesignated par. (3) as (2), and struck out former par. (1) which read as follows: “This subsection shall apply to any inter partes reexamination proceeding in which the order for inter partes reexamination is based upon a request by a third-party requester.”
+Subsec. (b). Pub. L. 107–273, § 13202(a)(3), redesignated par. (2) as (1), substituted “the Office shall send to the third-party requester a copy” for “the third-party requester shall receive a copy”, redesignated par. (3) as (2), and struck out former par. (1) which read as follows: “This subsection shall apply to any inter partes reexamination proceeding in which the order for inter partes reexamination is based upon a request by a third-party requester.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -207,9 +207,9 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date**
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
-## § 315. Relation to other proceedings or actions
+## § 315. Relation to other proceedings or actions
 
 **(a) Infringer’s Civil Action.—**
 
@@ -237,7 +237,7 @@ Section effective Nov. 29, 1999, and applicable to any patent issuing from an or
 
 **(2) Civil actions and other proceedings.—** The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, §§ 13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 300.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, §§ 13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 300.)
 
 **Editorial Notes**
 
@@ -249,15 +249,15 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (e)(2), is classif
 
 2011—Pub. L. 112–29 amended section generally. Prior to amendment, section related to appeals.
 
-2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
-Subsec. (b). Pub. L. 107–273, § 13106(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A third-party requester may—
+Subsec. (b). Pub. L. 107–273, § 13106(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A third-party requester may—
 
 “(1) appeal under the provisions of section 134 with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; or
 
 “(2) be a party to any appeal taken by the patent owner under the provisions of section 134, subject to subsection (c).”
 
-Subsec. (c). Pub. L. 107–273, § 13202(a)(4), struck out “United States Code,” after “title 28,”.
+Subsec. (c). Pub. L. 107–273, § 13202(a)(4), struck out “United States Code,” after “title 28,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -271,13 +271,13 @@ Amendment by section 13106(a) of Pub. L. 107–273 applicable with respect to an
 
 **Effective Date**
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
 **Estoppel Effect of Reexamination**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4607], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, provided for estoppel from challenging certain facts determined during inter partes reexamination under former section 311 of this title and contained a severability provision.
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4607], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, provided for estoppel from challenging certain facts determined during inter partes reexamination under former section 311 of this title and contained a severability provision.
 
-## § 316. Conduct of inter partes review
+## § 316. Conduct of inter partes review
 
 **(a) Regulations.—** The Director shall prescribe regulations—
 
@@ -329,7 +329,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4607], No
 
 **(e) Evidentiary Standards.—** In an inter partes review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, § 13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 302.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, § 13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 302.)
 
 **Editorial Notes**
 
@@ -347,15 +347,15 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date**
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
-## § 317. Settlement
+## § 317. Settlement
 
 **(a) In General.—** An inter partes review instituted under this chapter shall be terminated with respect to any petitioner upon the joint request of the petitioner and the patent owner, unless the Office has decided the merits of the proceeding before the request for termination is filed. If the inter partes review is terminated with respect to a petitioner under this section, no estoppel under section 315(e) shall attach to the petitioner, or to the real party in interest or privy of the petitioner, on the basis of that petitioner’s institution of that inter partes review. If no petitioner remains in the inter partes review, the Office may terminate the review or proceed to a final written decision under section 318(a).
 
 **(b) Agreements in Writing.—** Any agreement or understanding between the patent owner and a petitioner, including any collateral agreements referred to in such agreement or understanding, made in connection with, or in contemplation of, the termination of an inter partes review under this section shall be in writing and a true copy of such agreement or understanding shall be filed in the Office before the termination of the inter partes review as between the parties. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents, and shall be made available only to Federal Government agencies on written request, or to any person on a showing of good cause.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; amended Pub. L. 107–273, div. C, title III, § 13202(a)(5), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 303.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; amended Pub. L. 107–273, div. C, title III, § 13202(a)(5), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 303.)
 
 **Editorial Notes**
 
@@ -363,11 +363,11 @@ Section effective Nov. 29, 1999, and applicable to any patent issuing from an or
 
 2011—Pub. L. 112–29 amended section generally. Prior to amendment, section related to restriction on subsequent request for inter partes reexamination.
 
-2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+2002—Pub. L. 107–273, § 13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
-Subsec. (a). Pub. L. 107–273, § 13202(a)(5)(A), substituted “third-party requester nor its privies” for “patent owner nor the third-party requester, if any, nor privies of either”.
+Subsec. (a). Pub. L. 107–273, § 13202(a)(5)(A), substituted “third-party requester nor its privies” for “patent owner nor the third-party requester, if any, nor privies of either”.
 
-Subsec. (b). Pub. L. 107–273, § 13202(a)(5)(B), struck out “United States Code,” after “title 28,”.
+Subsec. (b). Pub. L. 107–273, § 13202(a)(5)(B), struck out “United States Code,” after “title 28,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -377,9 +377,9 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date**
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
-## § 318. Decision of the Board
+## § 318. Decision of the Board
 
 **(a) Final Written Decision.—** If an inter partes review is instituted and not dismissed under this chapter, the Patent Trial and Appeal Board shall issue a final written decision with respect to the patentability of any patent claim challenged by the petitioner and any new claim added under section 316(d).
 
@@ -389,7 +389,7 @@ Section effective Nov. 29, 1999, and applicable to any patent issuing from an or
 
 **(d) Data on Length of Review.—** The Office shall make available to the public data describing the length of time between the institution of, and the issuance of a final written decision under subsection (a) for, each inter partes review.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; amended Pub. L. 107–273, div. C, title III, § 13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 303.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; amended Pub. L. 107–273, div. C, title III, § 13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 303.)
 
 **Editorial Notes**
 
@@ -407,13 +407,13 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date**
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
-## § 319. Appeal
+## § 319. Appeal
 
 A party dissatisfied with the final written decision of the Patent Trial and Appeal Board under section 318(a) may appeal the decision pursuant to sections 141 through 144. Any party to the inter partes review shall have the right to be a party to the appeal.
 
-(Added Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 304.)
+(Added Pub. L. 112–29, § 6(a), Sept. 16, 2011, 125 Stat. 304.)
 
 **Statutory Notes and Related Subsidiaries**
 

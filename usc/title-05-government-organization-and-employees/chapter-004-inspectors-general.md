@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 4—INSPECTORS GENERAL
 
-## § 401. Definitions
+## § 401. Definitions
 
 In this chapter:
 
@@ -29,15 +29,15 @@ In this chapter:
 
 **(5) Office.—** The term “Office” means the Office of Inspector General of an establishment.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4207.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4207.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 12 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 12 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5202(b), 5272(10), Dec. 23, 2022, 136 Stat. 3227, 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4207, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 12 of Pub. L. 95–452 was amended as follows:
+This section was derived from section 12 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 12 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5202(b), 5272(10), Dec. 23, 2022, 136 Stat. 3227, 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4207, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 12 of Pub. L. 95–452 was amended as follows:
 
 (1) in paragraph (3) [enacted by Pub. L. 117–286 as paragraph (4) of this section] by inserting “except as otherwise expressly provided,” before “the term”; and
 
-(2) by striking “and” at the end of paragraph (4), by substituting “; and” for the period at the end of paragraph (5), and by adding at the end the following:
+(2) by striking “and” at the end of paragraph (4), by substituting “; and” for the period at the end of paragraph (5), and by adding at the end the following:
 
 *“(6) the term ‘appropriate congressional committees’ means—*
 
@@ -47,13 +47,13 @@ This section was derived from section 12 of the Inspector General Act of 1978, P
 
 *“(C) any other relevant congressional committee or subcommittee of jurisdiction.”*
 
-Section 12 of Pub. L. 95–452 began with “the term” in paragraphs (1) to (5) and ended with semicolons in paragraphs (1) to (3), “; and” in paragraph (4), and a period in paragraph (5). As restated by Pub. L. 117–286, the text of paragraphs (1) to (5) began with “The term” and all ended with periods.
+Section 12 of Pub. L. 95–452 began with “the term” in paragraphs (1) to (5) and ended with semicolons in paragraphs (1) to (3), “; and” in paragraph (4), and a period in paragraph (5). As restated by Pub. L. 117–286, the text of paragraphs (1) to (5) began with “The term” and all ended with periods.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 401 | 5 U.S.C. App. (IGA § 12) | Pub. L. 95–452, § 12, formerly § 11, Oct. 12, 1978, 92 Stat. 1109; Pub. L. 96–88, title V, § 508(n)(3), (4), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–113, title VII, § 705(a)(2), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, § 1117(a)(4), (5), Sept. 8, 1982, 96 Stat. 751; Pub. L. 99–93, title I, § 150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, § 412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, § 102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, § 13(h)(2), (3), Oct. 5, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, § 501(b)(1), Aug. 9, 1989, 103 Stat. 393; Pub. L. 102–233, title III, § 315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, § 202(g)(4), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–204, § 23(a)(1), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, § 108(*l*)(2), Aug. 15, 1994, 108 Stat. 1489; Pub. L. 103–325, title I, § 118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1314(b), Oct. 21, 1998, 112 Stat. 2681–776; Pub. L. 106–422, § 1(b)(2), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–189, § 22(a), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–296, title XVII, § 1701, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–234, title XIV, § 14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, § 4(a), title XIV, § 14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, § 1105(c), July 30, 2008, 122 Stat. 2668; renumbered § 12, Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305; Pub. L. 113–126, title IV, §§ 402(2), 412(2), July 7, 2014, 128 Stat. 1408, 1409; Pub. L. 115–141, div. P, title V, § 501(a)(2), Mar. 23, 2018, 132 Stat. 1090. |
+| 401 | 5 U.S.C. App. (IGA § 12) | Pub. L. 95–452, § 12, formerly § 11, Oct. 12, 1978, 92 Stat. 1109; Pub. L. 96–88, title V, § 508(n)(3), (4), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–113, title VII, § 705(a)(2), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, § 1117(a)(4), (5), Sept. 8, 1982, 96 Stat. 751; Pub. L. 99–93, title I, § 150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, § 412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, § 102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, § 13(h)(2), (3), Oct. 5, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, § 501(b)(1), Aug. 9, 1989, 103 Stat. 393; Pub. L. 102–233, title III, § 315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, § 202(g)(4), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–204, § 23(a)(1), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, § 108(*l*)(2), Aug. 15, 1994, 108 Stat. 1489; Pub. L. 103–325, title I, § 118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1314(b), Oct. 21, 1998, 112 Stat. 2681–776; Pub. L. 106–422, § 1(b)(2), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–189, § 22(a), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–296, title XVII, § 1701, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–234, title XIV, § 14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, § 4(a), title XIV, § 14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, § 1105(c), July 30, 2008, 122 Stat. 2668; renumbered § 12, Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305; Pub. L. 113–126, title IV, §§ 402(2), 412(2), July 7, 2014, 128 Stat. 1408, 1409; Pub. L. 115–141, div. P, title V, § 501(a)(2), Mar. 23, 2018, 132 Stat. 1090. |
 
 In paragraph (1), the words “Veterans Affairs” are inserted in the list of Departments, and the words “Veterans’ Administration” are deleted from the list of Administrations, to update obsolete references in the law.
 
@@ -73,55 +73,55 @@ In paragraph (3), the words “the chief executive officer of the Resolution Tru
 
 **Effective Date of 1978 Act**
 
-Pub. L. 95–452, § 13, formerly § 12, Oct. 12, 1978, 92 Stat. 1109, renumbered § 13 by Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305, provided that: “The provisions of this Act [see Tables for classification] and the amendments made by this Act [amending sections 5315 and 5316 of this title and section 3522 of Title 42, The Public Health and Welfare] shall take effect October 1, 1978.”
+Pub. L. 95–452, § 13, formerly § 12, Oct. 12, 1978, 92 Stat. 1109, renumbered § 13 by Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305, provided that: “The provisions of this Act [see Tables for classification] and the amendments made by this Act [amending sections 5315 and 5316 of this title and section 3522 of Title 42, The Public Health and Welfare] shall take effect October 1, 1978.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LII, § 5201, Dec. 23, 2022, 136 Stat. 3222, provided that: “This subtitle [subtitle A (§§ 5201–5204) of title LII of div. E of Pub. L. 117–263, see Tables for classification] may be cited as the ‘Securing Inspector General Independence Act of 2022’.”
+Pub. L. 117–263, div. E, title LII, § 5201, Dec. 23, 2022, 136 Stat. 3222, provided that: “This subtitle [subtitle A (§§ 5201–5204) of title LII of div. E of Pub. L. 117–263, see Tables for classification] may be cited as the ‘Securing Inspector General Independence Act of 2022’.”
 
-Pub. L. 117–263, div. E, title LII, § 5231, Dec. 23, 2022, 136 Stat. 3234, provided that: “This subtitle [subtitle C (§§ 5231–5237) of title LII of div. E of Pub. L. 117–263, see Tables for classification] may be cited as the ‘Integrity Committee Transparency Act of 2022’.”
+Pub. L. 117–263, div. E, title LII, § 5231, Dec. 23, 2022, 136 Stat. 3234, provided that: “This subtitle [subtitle C (§§ 5231–5237) of title LII of div. E of Pub. L. 117–263, see Tables for classification] may be cited as the ‘Integrity Committee Transparency Act of 2022’.”
 
 **Short Title of 2018 Act**
 
-Pub. L. 115–192, § 1, June 25, 2018, 132 Stat. 1502, provided that: “This Act [see Tables for classification] may be cited as the ‘Whistleblower Protection Coordination Act’.”
+Pub. L. 115–192, § 1, June 25, 2018, 132 Stat. 1502, provided that: “This Act [see Tables for classification] may be cited as the ‘Whistleblower Protection Coordination Act’.”
 
 **Short Title of 2016 Act**
 
-Pub. L. 114–317, § 1(a), Dec. 16, 2016, 130 Stat. 1595, provided that: “This Act [see Tables for classification] may be cited as the ‘Inspector General Empowerment Act of 2016’.”
+Pub. L. 114–317, § 1(a), Dec. 16, 2016, 130 Stat. 1595, provided that: “This Act [see Tables for classification] may be cited as the ‘Inspector General Empowerment Act of 2016’.”
 
 **Short Title of 2008 Act**
 
-Pub. L. 110–409, § 1, Oct. 14, 2008, 122 Stat. 4302, provided that: “This Act [see Tables for classification] may be cited as the ‘Inspector General Reform Act of 2008’.”
+Pub. L. 110–409, § 1, Oct. 14, 2008, 122 Stat. 4302, provided that: “This Act [see Tables for classification] may be cited as the ‘Inspector General Reform Act of 2008’.”
 
 **Short Title of 2006 Act**
 
-Pub. L. 109–440, § 1, Dec. 20, 2006, 120 Stat. 3286, provided that: “This Act [see Tables for classification] may be cited as the ‘Iraq Reconstruction Accountability Act of 2006’.”
+Pub. L. 109–440, § 1, Dec. 20, 2006, 120 Stat. 3286, provided that: “This Act [see Tables for classification] may be cited as the ‘Iraq Reconstruction Accountability Act of 2006’.”
 
 **Short Title of 1998 Act**
 
-Pub. L. 105–272, title VII, § 701(a), Oct. 20, 1998, 112 Stat. 2413, provided that: “This title [see Tables for classification] may be cited as the ‘Intelligence Community Whistleblower Protection Act of 1998’.”
+Pub. L. 105–272, title VII, § 701(a), Oct. 20, 1998, 112 Stat. 2413, provided that: “This title [see Tables for classification] may be cited as the ‘Intelligence Community Whistleblower Protection Act of 1998’.”
 
 **Short Title of 1988 Act**
 
-Pub. L. 100–504, title I, § 101, Oct. 18, 1988, 102 Stat. 2515, provided that: “This title [see Tables for classification] may be cited as the ‘Inspector General Act Amendments of 1988’.”
+Pub. L. 100–504, title I, § 101, Oct. 18, 1988, 102 Stat. 2515, provided that: “This title [see Tables for classification] may be cited as the ‘Inspector General Act Amendments of 1988’.”
 
 **Short Title of 1978 Act**
 
-Pub. L. 95–452, § 1, Oct. 12, 1978, 92 Stat. 1101, provided: “That this Act [see Tables for classification] be cited as the ‘Inspector General Act of 1978’.”
+Pub. L. 95–452, § 1, Oct. 12, 1978, 92 Stat. 1101, provided: “That this Act [see Tables for classification] be cited as the ‘Inspector General Act of 1978’.”
 
 **Merger of Office of Inspector General of United States Information Agency With Office of Inspector General of Department of State; Transfer of Functions**
 
-Pub. L. 104–134, title I, § 101[(a)] [title IV], Apr. 26, 1996, 110 Stat. 1321, 1321–37; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided: “That notwithstanding any other provision of law, (1) the Office of the Inspector General of the United States Information Agency is hereby merged with the Office of the Inspector General of the Department of State; (2) the functions exercised and assigned to the Office of the Inspector General of the United States Information Agency before the effective date of this Act [Apr. 26, 1996] (including all related functions) are transferred to the Office of the Inspector General of the Department of State; and (3) the Inspector General of the Department of State shall also serve as the Inspector General of the United States Information Agency.”
+Pub. L. 104–134, title I, § 101[(a)] [title IV], Apr. 26, 1996, 110 Stat. 1321, 1321–37; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided: “That notwithstanding any other provision of law, (1) the Office of the Inspector General of the United States Information Agency is hereby merged with the Office of the Inspector General of the Department of State; (2) the functions exercised and assigned to the Office of the Inspector General of the United States Information Agency before the effective date of this Act [Apr. 26, 1996] (including all related functions) are transferred to the Office of the Inspector General of the Department of State; and (3) the Inspector General of the Department of State shall also serve as the Inspector General of the United States Information Agency.”
 
-[Pub. L. 104–208, div. A, title I, § 101(a) [title IV], Sept. 30, 1996, 110 Stat. 3009, 3009–47, provided in part: “That notwithstanding any other provision of law, the merger of the Office of Inspector General of the United States Information Agency with the Office of Inspector General of the Department of State provided for in the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1996, contained in Public Law 104–134 [set out above], is effective hereafter.” ]
+[Pub. L. 104–208, div. A, title I, § 101(a) [title IV], Sept. 30, 1996, 110 Stat. 3009, 3009–47, provided in part: “That notwithstanding any other provision of law, the merger of the Office of Inspector General of the United States Information Agency with the Office of Inspector General of the Department of State provided for in the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1996, contained in Public Law 104–134 [set out above], is effective hereafter.” ]
 
 [For abolition of Office of Inspector General of the United States Information Agency and transfer of functions to Office of Inspector General of Department of State and Foreign Service, see section 6533 of Title 22, Foreign Relations and Intercourse.]
 
 **Payment Authority Subject to Appropriations**
 
-Pub. L. 100–504, title I, § 112, Oct. 18, 1988, 102 Stat. 2530, provided that: “Any authority to make payments under this title [see Tables for classification] shall be effective only to such extent as provided in appropriations Acts.”
+Pub. L. 100–504, title I, § 112, Oct. 18, 1988, 102 Stat. 2530, provided that: “Any authority to make payments under this title [see Tables for classification] shall be effective only to such extent as provided in appropriations Acts.”
 
-## § 402. Establishment and purpose of Offices of Inspector General
+## § 402. Establishment and purpose of Offices of Inspector General
 
 **(a) Establishment.—**
 
@@ -145,15 +145,15 @@ Pub. L. 100–504, title I, § 112, Oct. 18, 1988, 102 Stat. 2530, provided th
 
 **(3)** to provide a means for keeping the head of the establishments and Congress fully and currently informed about problems and deficiencies relating to the administration of those programs and operations and the necessity for and progress of corrective action.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4208.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4208.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 402 | 5 U.S.C. App. (IGA § 2) | Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 96–88, title V, § 508(n)(1), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, § 705(a)(1), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, § 1117(a)(1), Sept. 8, 1982, 96 Stat. 750; Pub. L. 99–93, title I, § 150(a)(1), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, § 412(a)(1), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, § 102(a), (b), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, § 13(h)(1), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 105–206, title I, § 1103(a), July 22, 1998, 112 Stat. 705; Pub. L. 110–409, § 7(d)(1)(A), Oct. 14, 2008, 122 Stat. 4313. |
+| 402 | 5 U.S.C. App. (IGA § 2) | Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 96–88, title V, § 508(n)(1), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, § 705(a)(1), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, § 1117(a)(1), Sept. 8, 1982, 96 Stat. 750; Pub. L. 99–93, title I, § 150(a)(1), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, § 412(a)(1), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, § 102(a), (b), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, § 13(h)(1), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 105–206, title I, § 1103(a), July 22, 1998, 112 Stat. 705; Pub. L. 110–409, § 7(d)(1)(A), Oct. 14, 2008, 122 Stat. 4313. |
 
-## § 403. Appointments
+## § 403. Appointments
 
 **(a) In General.—** There shall be at the head of each Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. Each Inspector General shall report to and be under the general supervision of the head of the establishment involved or, to the extent such authority is delegated, the officer next in rank below such head, but shall not report to, or be subject to supervision by, any other officer of the establishment. Neither the head of the establishment nor the officer next in rank below the head shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpoena during the course of any audit or investigation.
 
@@ -201,11 +201,11 @@ Pub. L. 100–504, title I, § 112, Oct. 18, 1988, 102 Stat. 2530, provided th
 
 **(g) Legal Advice.—** Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service, obtain legal advice from a counsel either reporting directly to the Inspector General or another Inspector General.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4208.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4208.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 3 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 3 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5202(a)(1), 5203(a), 5204(a), Dec. 23, 2022, 136 Stat. 3222, 3227, 3233, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4208, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 3 of Pub. L. 95–452 was amended as follows:
+This section was derived from section 3 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 3 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5202(a)(1), 5203(a), 5204(a), Dec. 23, 2022, 136 Stat. 3222, 3227, 3233, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4208, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 3 of Pub. L. 95–452 was amended as follows:
 
 (1) in subsection (b)—
 
@@ -269,7 +269,7 @@ This section was derived from section 3 of the Inspector General Act of 1978, Pu
 
 (2) in subsection (d)(1)(C)—
 
-(A) in clause (i), in the matter preceding subclause (I), by inserting “, including employees of that Office of Inspector General” after “employees”; and
+(A) in clause (i), in the matter preceding subclause (I), by inserting “, including employees of that Office of Inspector General” after “employees”; and
 
 (B) in clause (iii), by inserting “(including the Integrity Committee of that Council)” after “and Efficiency”; and
 
@@ -343,7 +343,7 @@ For definition of “appropriate congressional committees” as seen in the abov
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 403 | 5 U.S.C. App. (IGA § 3) | Pub. L. 95–452, § 3, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 110–409, §§ 3(a), 4(a)(1), 5, 6(a), Oct. 14, 2008, 122 Stat. 4302, 4305; Pub. L. 112–199, title I, § 117(a), Nov. 27, 2012, 126 Stat. 1474; Pub. L. 114–317, § 7(d)(3)(A), Dec. 16, 2016, 130 Stat. 1606; Pub. L. 115–192, § 2(a), June 25, 2018, 132 Stat. 1502. |
+| 403 | 5 U.S.C. App. (IGA § 3) | Pub. L. 95–452, § 3, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 110–409, §§ 3(a), 4(a)(1), 5, 6(a), Oct. 14, 2008, 122 Stat. 4302, 4305; Pub. L. 112–199, title I, § 117(a), Nov. 27, 2012, 126 Stat. 1474; Pub. L. 114–317, § 7(d)(3)(A), Dec. 16, 2016, 130 Stat. 1606; Pub. L. 115–192, § 2(a), June 25, 2018, 132 Stat. 1502. |
 
 In subsection (d)(4) (matter before subparagraph (A)), the words “Whistleblower Protection Coordinator” are substituted for “Whistleblower Protection Ombudsman” to correct an error in the law.
 
@@ -351,7 +351,7 @@ In subsection (d)(4) (matter before subparagraph (A)), the words “Whistleblowe
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LII, § 5203(e), Dec. 23, 2022, 136 Stat. 3233, provided that:
+Pub. L. 117–263, div. E, title LII, § 5203(e), Dec. 23, 2022, 136 Stat. 3233, provided that:
 
 > **“(1) Definition.—** In this subsection, the term ‘Inspector General’ has the meaning given the term in subsection (h)(1)(B) of section 3 of the Inspector General Act of 1978 (5 U.S.C. App.), as added by subsection (a) of this section [see Amendments Not Shown in Text note above].
 
@@ -363,17 +363,17 @@ Pub. L. 117–263, div. E, title LII, § 5203(e), Dec. 23, 2022, 136 Stat. 323
 
 **Construction**
 
-Pub. L. 117–263, div. E, title LII, § 5203(d), Dec. 23, 2022, 136 Stat. 3233, provided that: “Nothing in the amendment made by subsection (a) [adding subsec. (h) to section 3 of Pub. L. 95–452 (restated as this section), see Amendments Not Shown in Text note above] may be construed to limit the applicability of sections 3345 through 3349d of title 5, United States Code (commonly known as the ‘Federal Vacancies Reform Act of 1998’), other than with respect to section 3345(a) of that title.”
+Pub. L. 117–263, div. E, title LII, § 5203(d), Dec. 23, 2022, 136 Stat. 3233, provided that: “Nothing in the amendment made by subsection (a) [adding subsec. (h) to section 3 of Pub. L. 95–452 (restated as this section), see Amendments Not Shown in Text note above] may be construed to limit the applicability of sections 3345 through 3349d of title 5, United States Code (commonly known as the ‘Federal Vacancies Reform Act of 1998’), other than with respect to section 3345(a) of that title.”
 
-Pub. L. 110–409, § 6(c), Oct. 14, 2008, 122 Stat. 4305, as amended by Pub. L. 117–286, § 4(b)(5), Dec. 27, 2022, 136 Stat. 4343, provided that: “Nothing in the amendments made by this section [amending former sections 3 and 8G of Pub. L. 95–452, see 5 U.S.C. 403, 415] shall be construed to alter the duties and responsibilities of the counsel for any establishment or designated Federal entity, except for the availability of counsel as provided under sections 403(g) and 415(g) of title 5, United States Code. The Counsel to the Inspector General shall perform such functions as the Inspector General may prescribe.”
+Pub. L. 110–409, § 6(c), Oct. 14, 2008, 122 Stat. 4305, as amended by Pub. L. 117–286, § 4(b)(5), Dec. 27, 2022, 136 Stat. 4343, provided that: “Nothing in the amendments made by this section [amending former sections 3 and 8G of Pub. L. 95–452, see 5 U.S.C. 403, 415] shall be construed to alter the duties and responsibilities of the counsel for any establishment or designated Federal entity, except for the availability of counsel as provided under sections 403(g) and 415(g) of title 5, United States Code. The Counsel to the Inspector General shall perform such functions as the Inspector General may prescribe.”
 
 **Acting Treasury Inspector General for Tax Administration**
 
-Pub. L. 105–277, div. C, title I, § 101, Oct. 21, 1998, 112 Stat. 2681–584, as amended by Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 239(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302; Pub. L. 117–286, § 4(b)(7), Dec. 27, 2022, 136 Stat. 4343, related to the appointment by the President of an Acting Treasury Inspector General for Tax Administration whose service was to conclude no later than Apr. 30, 1999.
+Pub. L. 105–277, div. C, title I, § 101, Oct. 21, 1998, 112 Stat. 2681–584, as amended by Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 239(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302; Pub. L. 117–286, § 4(b)(7), Dec. 27, 2022, 136 Stat. 4343, related to the appointment by the President of an Acting Treasury Inspector General for Tax Administration whose service was to conclude no later than Apr. 30, 1999.
 
-[Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 239(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that the amendment made by subsection § 239(a) to section 101 of Pub. L. 105–277 was effective as if included in the enactment of Pub. L. 105–277.]
+[Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 239(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that the amendment made by subsection § 239(a) to section 101 of Pub. L. 105–277 was effective as if included in the enactment of Pub. L. 105–277.]
 
-## § 404. Duties and responsibilities
+## § 404. Duties and responsibilities
 
 **(a) In General.—** It shall be the duty and responsibility of each Inspector General, with respect to the establishment within which the Inspector General’s Office is established—
 
@@ -401,7 +401,7 @@ Pub. L. 105–277, div. C, title I, § 101, Oct. 21, 1998, 112 Stat. 2681–58
 
 **(C)** take appropriate steps to ensure that any work performed by non-Federal auditors complies with the standards established by the Comptroller General as described in paragraph (1).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) Reviews performed exclusively by audit entities in federal government.—** For purposes of determining compliance with paragraph (1)(A) with respect to whether internal quality controls are in place and operating and whether established audit standards, policies, and procedures are being followed by Offices of Inspector General of establishments defined under section 401 of this title, Offices of Inspector General of designated Federal entities defined under section 415(a) of this title, and any audit office established within a Federal entity defined under section 415(a) of this title, reviews shall be performed exclusively by an audit entity in the Federal Government, including the Government Accountability Office or the Office of Inspector General of each establishment defined under section 401 of this title, or the Office of Inspector General of each designated Federal entity defined under section 415(a) of this title.
 
@@ -427,13 +427,13 @@ Pub. L. 105–277, div. C, title I, § 101, Oct. 21, 1998, 112 Stat. 2681–58
 
 **(2) Public disclosure otherwise prohibited by law.—** Nothing in this subsection shall be construed as authorizing an Inspector General to publicly disclose information otherwise prohibited from disclosure by law.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4210.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4210.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 4 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 4 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5273(1), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4210, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 4 of Pub. L. 95–452 was amended in subsection (a)(2) as follows:
+This section was derived from section 4 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 4 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5273(1), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4210, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 4 of Pub. L. 95–452 was amended in subsection (a)(2) as follows:
 
-(1) by inserting “, including” after “to make recommendations”; and
+(1) by inserting “, including” after “to make recommendations”; and
 
 (2) by inserting a comma after “section 5(a)”.
 
@@ -443,7 +443,7 @@ The phrase “section 5(a)” did not appear in the text of subsection (a)(2) as
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 404 | 5 U.S.C. App. (IGA § 4) | Pub. L. 95–452, § 4, Oct. 12, 1978, 92 Stat. 1102; Pub. L. 100–504, title I, § 109, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 103–82, title II, § 202(g)(5)(A), Sept. 21, 1993, 107 Stat. 890; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–409, § 7(d)(1)(A), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 114–317, §§ 4(d), 7(d)(2)(A), Dec. 16, 2016, 130 Stat. 1602, 1606 |
+| 404 | 5 U.S.C. App. (IGA § 4) | Pub. L. 95–452, § 4, Oct. 12, 1978, 92 Stat. 1102; Pub. L. 100–504, title I, § 109, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 103–82, title II, § 202(g)(5)(A), Sept. 21, 1993, 107 Stat. 890; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–409, § 7(d)(1)(A), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 114–317, §§ 4(d), 7(d)(2)(A), Dec. 16, 2016, 130 Stat. 1602, 1606 |
 
 In subsection (a)(4) (matter before subparagraph (A)), the words “the establishment” are inserted after “to recommend policies for” and a comma is inserted after “and nongovernmental entities” for clarity.
 
@@ -455,9 +455,9 @@ In subsection (c), the word “ensuring” is substituted for “insuring” for
 
 **References in Text**
 
-Paragraph (1), referred to in subsec. (b)(1)(C), means par. (1) of subsec. (b) of this section, but probably should be a reference to subpar. (A) of subsec. (b)(1) of this section. Prior to repeal and restatement as this section, subsec. (b)(1) of the source section had been redesignated as subsec. (b)(1)(A) by Pub. L. 100–504, title I, § 109(1), (2), Oct. 18, 1988, 102 Stat. 2529, with no conforming amendment to the reference, and the restated text carried over such reference without change.
+Paragraph (1), referred to in subsec. (b)(1)(C), means par. (1) of subsec. (b) of this section, but probably should be a reference to subpar. (A) of subsec. (b)(1) of this section. Prior to repeal and restatement as this section, subsec. (b)(1) of the source section had been redesignated as subsec. (b)(1)(A) by Pub. L. 100–504, title I, § 109(1), (2), Oct. 18, 1988, 102 Stat. 2529, with no conforming amendment to the reference, and the restated text carried over such reference without change.
 
-## § 405. Reports
+## § 405. Reports
 
 **(a) Definitions.—** In this section:
 
@@ -699,11 +699,11 @@ except that the statement may exclude any audit reports that are under formal ad
 
 **(5) Protection of personally identifiable information of whistleblowers.—** An Office may not provide to Congress or the public any information that reveals the personally identifiable information of a whistleblower under this section unless the Office first obtains the consent of the whistleblower.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4212; Pub. L. 118–159, div. E, title LII, § 5203(e), Dec. 23, 2024, 138 Stat. 2441.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4212; Pub. L. 118–159, div. E, title LII, § 5203(e), Dec. 23, 2024, 138 Stat. 2441.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 5 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 5 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5235, 5241, 5272(1), 5273(2), 5274(a), Dec. 23, 2022, 136 Stat. 3236, 3237, 3239, 3241, 3244, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 5 of Pub. L. 95–452 was amended as follows:
+This section was derived from section 5 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 5 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5235, 5241, 5272(1), 5273(2), 5274(a), Dec. 23, 2022, 136 Stat. 3236, 3237, 3239, 3241, 3244, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 5 of Pub. L. 95–452 was amended as follows:
 
 (1) in subsection (a) [enacted by Pub. L. 117–286 as subsection (b) of this section]—
 
@@ -889,7 +889,7 @@ For definition of “appropriate congressional committees” as seen in the abov
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 405 | 5 U.S.C. App. (IGA § 5) | Pub. L. 95–452, § 5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, § 1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§ 102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, § 12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, § 989C, July 21, 2010, 124 Stat. 1945; Pub. L. 114–317, §§ 4(c), 7(d)(2)(B), (C), Dec. 16, 2016, 130 Stat. 1600, 1606; Pub. L. 115–192, § 2(c), June 25, 2018, 132 Stat. 1503; Pub. L. 116–92, div. A, title XVII, § 1710, Dec. 20, 2019, 133 Stat. 1801. |
+| 405 | 5 U.S.C. App. (IGA § 5) | Pub. L. 95–452, § 5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, § 1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§ 102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, § 12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, § 989C, July 21, 2010, 124 Stat. 1945; Pub. L. 114–317, §§ 4(c), 7(d)(2)(B), (C), Dec. 16, 2016, 130 Stat. 1600, 1606; Pub. L. 115–192, § 2(c), June 25, 2018, 132 Stat. 1503; Pub. L. 116–92, div. A, title XVII, § 1710, Dec. 20, 2019, 133 Stat. 1801. |
 
 In subsection (b)(6), the words “inspection report, and evaluation report” are substituted for “inspection reports, and evaluation reports” to correct typographical errors in the law.
 
@@ -907,7 +907,7 @@ The General Schedule, referred to in subsec. (a)(6)(A), is set out under section
 
 Commissioned officer pay grades O–6 and above, referred to in subsec. (a)(6)(B), is described in section 201 of Title 37, Pay and Allowances of the Uniformed Services, and is set out under section 5332 of this title.
 
-Section 804(b) of the Federal Financial Management Improvement Act of 1996, referred to in subsec. (b)(13), is section 101(f) [title VIII, § 804(b)] of title I of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–314, 3009–392, which is set out in a note under section 3512 of Title 31, Money and Finance.
+Section 804(b) of the Federal Financial Management Improvement Act of 1996, referred to in subsec. (b)(13), is section 101(f) [title VIII, § 804(b)] of title I of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–314, 3009–392, which is set out in a note under section 3512 of Title 31, Money and Finance.
 
 **Amendments**
 
@@ -917,7 +917,7 @@ Section 804(b) of the Federal Financial Management Improvement Act of 1996, refe
 
 **Retroactive Applicability**
 
-Pub. L. 117–263, div. E, title LII, § 5274(b), Dec. 23, 2022, 136 Stat. 3245, provided that:
+Pub. L. 117–263, div. E, title LII, § 5274(b), Dec. 23, 2022, 136 Stat. 3245, provided that:
 
 > “During the 30-day period beginning on the date of enactment of this Act [Dec. 23, 2022]—
 
@@ -927,7 +927,7 @@ Pub. L. 117–263, div. E, title LII, § 5274(b), Dec. 23, 2022, 136 Stat. 324
 
 **Corrective Responses by Heads of Certain Establishments to Deficiencies Identified by Inspectors General**
 
-Pub. L. 111–203, title IX, § 989H, July 21, 2010, 124 Stat. 1948, provided that:
+Pub. L. 111–203, title IX, § 989H, July 21, 2010, 124 Stat. 1948, provided that:
 
 > “The Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Commodity Futures Trading Commission, the Chairman of the National Credit Union Administration, the Director of the Pension Benefit Guaranty Corporation, and the Chairman of the Securities and Exchange Commission shall each—
 
@@ -937,7 +937,7 @@ Pub. L. 111–203, title IX, § 989H, July 21, 2010, 124 Stat. 1948, provided 
 
 **Disclosure of Government Contractor Audit Findings**
 
-Pub. L. 110–181, div. A, title VIII, § 845, Jan. 28, 2008, 122 Stat. 240, as amended by Pub. L. 117–286, § 4(b)(8), Dec. 27, 2022, 136 Stat. 4343, provided that:
+Pub. L. 110–181, div. A, title VIII, § 845, Jan. 28, 2008, 122 Stat. 240, as amended by Pub. L. 117–286, § 4(b)(8), Dec. 27, 2022, 136 Stat. 4343, provided that:
 
 > **“(a) Required Annex on Significant Audit Findings.—**
 
@@ -991,7 +991,7 @@ Pub. L. 110–181, div. A, title VIII, § 845, Jan. 28, 2008, 122 Stat. 240, a
 
 **Prompt Management Decisions and Implementation of Audit Recommendations**
 
-Pub. L. 103–355, title VI, § 6009, Oct. 13, 1994, 108 Stat. 3367, as amended by Pub. L. 104–106, div. A, title VIII, § 810, Feb. 10, 1996, 110 Stat. 394; Pub. L. 117–286, § 4(b)(9), Dec. 27, 2022, 136 Stat. 4343, provided that:
+Pub. L. 103–355, title VI, § 6009, Oct. 13, 1994, 108 Stat. 3367, as amended by Pub. L. 104–106, div. A, title VIII, § 810, Feb. 10, 1996, 110 Stat. 394; Pub. L. 117–286, § 4(b)(9), Dec. 27, 2022, 136 Stat. 4343, provided that:
 
 > **“(a) Management Decisions.—**
 
@@ -1001,7 +1001,7 @@ Pub. L. 103–355, title VI, § 6009, Oct. 13, 1994, 108 Stat. 3367, as amende
 
 > **“(b) Completion of Final Action.—** The head of a Federal agency shall complete final action on each management decision required with regard to a recommendation in an inspector general’s report under subsection (a)(1) within 12 months after the date of the inspector general’s report. If the head of the agency fails to complete final action with regard to a management decision within the 12-month period, the inspector general concerned shall identify the matter in each of the inspector general’s semiannual reports pursuant to section 405(b)(3) of title 5, United States Code, until final action on the management decision is completed.”
 
-## § 406. Authority of Inspector General
+## § 406. Authority of Inspector General
 
 **(a) In General.—** In addition to the authority otherwise provided by this chapter, each Inspector General, in carrying out the provisions of this chapter, is authorized—
 
@@ -1167,11 +1167,11 @@ Pub. L. 103–355, title VI, § 6009, Oct. 13, 1994, 108 Stat. 3367, as amende
 
 **(k) Non-Applicability of Federal Information Policy.—** Subchapter I of chapter 35 of title 44 shall not apply to the collection of information during the conduct of an audit, investigation, inspection, evaluation, or other review conducted by the Council of the Inspectors General on Integrity and Efficiency or any Office of Inspector General, including any Office of Special Inspector General.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4218.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4218.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 6 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 6 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5261, 5272(2), Dec. 23, 2022, 136 Stat. 3238, 3239, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4218, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 6 of Pub. L. 95–452 was amended as follows:
+This section was derived from section 6 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 6 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5261, 5272(2), Dec. 23, 2022, 136 Stat. 3238, 3239, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4218, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 6 of Pub. L. 95–452 was amended as follows:
 
 (1) in subsection (c), by adding at the end the following:
 
@@ -1193,7 +1193,7 @@ For definition of “appropriate congressional committees” as seen in the abov
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 406 | 5 U.S.C. App. (IGA § 6) | Pub. L. 95–452, § 6, Oct. 12, 1978, 92 Stat. 1104; Pub. L. 100–504, title I, §§ 107, 110(a), Oct. 18, 1988, 102 Stat. 2528, 2529; Pub. L. 107–296, title VIII, § 812(a), Nov. 25, 2002, 116 Stat. 2222; Pub. L. 110–409, §§ 8, 9, 11, 14(a), Oct. 14, 2008, 122 Stat. 4313–4316; Pub. L. 114–317, §§ 2, 5, 7(d)(2)(D), (3)(B), Dec. 16, 2016, 130 Stat. 1595, 1603, 1606. |
+| 406 | 5 U.S.C. App. (IGA § 6) | Pub. L. 95–452, § 6, Oct. 12, 1978, 92 Stat. 1104; Pub. L. 100–504, title I, §§ 107, 110(a), Oct. 18, 1988, 102 Stat. 2528, 2529; Pub. L. 107–296, title VIII, § 812(a), Nov. 25, 2002, 116 Stat. 2222; Pub. L. 110–409, §§ 8, 9, 11, 14(a), Oct. 14, 2008, 122 Stat. 4313–4316; Pub. L. 114–317, §§ 2, 5, 7(d)(2)(D), (3)(B), Dec. 16, 2016, 130 Stat. 1595, 1603, 1606. |
 
 In subsection (a)(8), the words “maximum rate payable under section 5376 of this title” are substituted for “equivalent rate prescribed for grade GS–18 of the General Schedule by section 5332 of title 5, United States Code” for clarity and because of section 101(c) of the Federal Employees Pay Comparability Act of 1990 (enacted by section 529 of Public Law 101–509 (5 U.S.C. 5376 note)).
 
@@ -1215,7 +1215,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **Establishment of Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory**
 
-Pub. L. 106–422, § 2, Nov. 1, 2000, 114 Stat. 1873, as amended by Pub. L. 117–286, § 4(b)(10), Dec. 27, 2022, 136 Stat. 4343, provided that:
+Pub. L. 106–422, § 2, Nov. 1, 2000, 114 Stat. 1873, as amended by Pub. L. 117–286, § 4(b)(10), Dec. 27, 2022, 136 Stat. 4343, provided that:
 
 > **“(a) Inspectors General Criminal Investigator Academy.—**
 
@@ -1243,7 +1243,7 @@ Pub. L. 106–422, § 2, Nov. 1, 2000, 114 Stat. 1873, as amended by Pub. L. 1
 
 > **“(d) Authorization of Appropriations.—** There are authorized to carry out this section such sums as may be necessary for fiscal year 2001 and each fiscal year thereafter.”
 
-## § 407. Complaints by employees
+## § 407. Complaints by employees
 
 **(a) Receipt and Investigation.—** The Inspector General may receive and investigate complaints or information from an employee of the establishment concerning the possible existence of an activity constituting a violation of law, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety.
 
@@ -1251,15 +1251,15 @@ Pub. L. 106–422, § 2, Nov. 1, 2000, 114 Stat. 1873, as amended by Pub. L. 1
 
 **(c) Prohibition on Reprisal.—** Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to that authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to an Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4224.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4224.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 407 | 5 U.S.C. App. (IGA § 7) | Pub. L. 95–452, § 7, Oct. 12, 1978, 92 Stat. 1105. |
+| 407 | 5 U.S.C. App. (IGA § 7) | Pub. L. 95–452, § 7, Oct. 12, 1978, 92 Stat. 1105. |
 
-## § 408. Additional provisions with respect to the Inspector General of the Department of Defense
+## § 408. Additional provisions with respect to the Inspector General of the Department of Defense
 
 **(a) Inspector General.—** A member of the Armed Forces, active or reserve, shall not be appointed Inspector General of the Department of Defense.
 
@@ -1321,7 +1321,7 @@ Pub. L. 106–422, § 2, Nov. 1, 2000, 114 Stat. 1873, as amended by Pub. L. 1
 
 **(g) Non-Applicability of Section 1385 of Title 18.—** The provisions of section 1385 of title 18,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 shall not apply to audits and investigations conducted by, under the direction of, or at the request of the Inspector General of the Department of Defense to carry out the purposes of this chapter.
 
@@ -1349,11 +1349,11 @@ shall not apply to audits and investigations conducted by, under the direction o
 
 **(3) Notification.—** The Inspector General shall notify the Attorney General 7 days before issuing any subpoena under this section.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4224.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4224.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 8 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(3), Dec. 23, 2022, 136 Stat. 3239, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4224, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8 of Pub. L. 95–452 was amended as follows:
+This section was derived from section 8 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(3), Dec. 23, 2022, 136 Stat. 3239, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4224, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8 of Pub. L. 95–452 was amended as follows:
 
 (1) in subsection (b)—
 
@@ -1375,7 +1375,7 @@ For definition of “appropriate congressional committees” as seen in the abov
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 408 | 5 U.S.C. App. (IGA § 8) | Pub. L. 95–452, § 8, Oct. 12, 1978, 92 Stat. 1105; Pub. L. 97–252, title XI, § 1117(b), Sept. 8, 1982, 96 Stat. 751; Pub. L. 100–504, title I, § 110(b), Oct. 18, 1988, 102 Stat. 2529; Pub. L. 104–106, div. A, title XV, § 1502(f)(6), Feb. 10, 1996, 110 Stat. 510; Pub. L. 106–65, div. A, title X, § 1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 110–417, [div. A], title IX, § 907, Oct. 14, 2008, 122 Stat. 4569; Pub. L. 111–84, div. A, title X, § 1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 112–239, div. A, title XVI, § 1614, Jan. 2, 2013, 126 Stat. 2066; Pub. L. 114–317, § 6(1), Dec. 16, 2016, 130 Stat. 1604. |
+| 408 | 5 U.S.C. App. (IGA § 8) | Pub. L. 95–452, § 8, Oct. 12, 1978, 92 Stat. 1105; Pub. L. 97–252, title XI, § 1117(b), Sept. 8, 1982, 96 Stat. 751; Pub. L. 100–504, title I, § 110(b), Oct. 18, 1988, 102 Stat. 2529; Pub. L. 104–106, div. A, title XV, § 1502(f)(6), Feb. 10, 1996, 110 Stat. 510; Pub. L. 106–65, div. A, title X, § 1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 110–417, [div. A], title IX, § 907, Oct. 14, 2008, 122 Stat. 4569; Pub. L. 111–84, div. A, title X, § 1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 112–239, div. A, title XVI, § 1614, Jan. 2, 2013, 126 Stat. 2066; Pub. L. 114–317, § 6(1), Dec. 16, 2016, 130 Stat. 1604. |
 
 In subsection (b)(3), the words “Committee on Homeland Security and Governmental Affairs of the Senate” are substituted for “[Committee on] Governmental Affairs of the Senate” on authority of Senate Resolution No. 445, 108th Congress, October 9, 2004 (effective January 4, 2005).
 
@@ -1391,7 +1391,7 @@ In subsection (f)(1) (matter before subparagraph (A)), the words “[Committee o
 
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 409. Special provisions concerning the Agency for International Development
+## § 409. Special provisions concerning the Agency for International Development
 
 **(a) Definition of Agency for International Development.—** As used in this chapter, the term “Agency for International Development” includes any successor agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.).
 
@@ -1401,16 +1401,16 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **(d) Additional Officer.—** The Inspector General of the Agency for International Development shall be in addition to the officers provided for in section 624(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2384(a)).
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4227.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4227.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 409(a) | 5 U.S.C. App. (IGA § 8A(f)) | Pub. L. 95–452, § 8A(f), formerly (h), as added Pub. L. 97–113, title VII, § 705(a)(3), Dec. 29, 1981, 95 Stat. 1545; redesignated (f), Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(2)(C), Oct. 21, 1998, 112 Stat. 2681–792. |
-| 409(b) | 5 U.S.C. App. (IGA § 8A(c)) | Pub. L. 95–452, § 8A(c), formerly (d), as added Pub. L. 97–113, title VII, § 705(a)(3), Dec. 29, 1981, 95 Stat. 1545; redesignated (c), Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(2)(C), Oct. 21, 1998, 112 Stat. 2681–792. |
-| 409(c) | 5 U.S.C. App. (IGA § 8A(d)) | Pub. L. 95–452, § 8A(d), formerly (e), as added Pub. L. 97–113, title VII, § 705(a)(3), Dec. 29, 1981, 95 Stat. 1545; redesignated (d), Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(2)(C), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 114–317, § 7(d)(2)(E), Dec. 16, 2016, 130 Stat. 1606. |
-| 409(d) | 5 U.S.C. App. (IGA § 8A(e)) | Pub. L. 95–452, § 8A(e), formerly (g), as added Pub. L. 97–113, title VII, § 705(a)(3), Dec. 29, 1981, 95 Stat. 1545; redesignated (e), Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(2)(C), Oct. 21, 1998, 112 Stat. 2681–792. |
+| 409(a) | 5 U.S.C. App. (IGA § 8A(f)) | Pub. L. 95–452, § 8A(f), formerly (h), as added Pub. L. 97–113, title VII, § 705(a)(3), Dec. 29, 1981, 95 Stat. 1545; redesignated (f), Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(2)(C), Oct. 21, 1998, 112 Stat. 2681–792. |
+| 409(b) | 5 U.S.C. App. (IGA § 8A(c)) | Pub. L. 95–452, § 8A(c), formerly (d), as added Pub. L. 97–113, title VII, § 705(a)(3), Dec. 29, 1981, 95 Stat. 1545; redesignated (c), Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(2)(C), Oct. 21, 1998, 112 Stat. 2681–792. |
+| 409(c) | 5 U.S.C. App. (IGA § 8A(d)) | Pub. L. 95–452, § 8A(d), formerly (e), as added Pub. L. 97–113, title VII, § 705(a)(3), Dec. 29, 1981, 95 Stat. 1545; redesignated (d), Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(2)(C), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 114–317, § 7(d)(2)(E), Dec. 16, 2016, 130 Stat. 1606. |
+| 409(d) | 5 U.S.C. App. (IGA § 8A(e)) | Pub. L. 95–452, § 8A(e), formerly (g), as added Pub. L. 97–113, title VII, § 705(a)(3), Dec. 29, 1981, 95 Stat. 1545; redesignated (e), Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(2)(C), Oct. 21, 1998, 112 Stat. 2681–792. |
 
 In subsection (b), the reference to “section 406(a)(7) of this title” is substituted for “section 6(a)(6) of this Act” for clarity and to correct an error in the law. In the source law (section 8A(c) of the Inspector General Act of 1978), the reference to “section 6(a)(6) of this Act” is incorrect. Section 6(a)(6) of the Inspector General Act of 1978 was redesignated as section 6(a)(7) of that Act by section 107(1) of the Inspector General Act Amendments of 1988 (Public Law 100–504, 102 Stat. 2528).
 
@@ -1420,37 +1420,37 @@ In subsection (c), the words “overseas personnel ceilings” are substituted f
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
-## § 410. Special provisions concerning the Nuclear Regulatory Commission
+## § 410. Special provisions concerning the Nuclear Regulatory Commission
 
 **(a) Delegation.—** The Chairman of the Commission may delegate the authority specified in the 2d sentence of section 403(a) of this title to another member of the Nuclear Regulatory Commission, but shall not delegate such authority to any other officer or employee of the Commission.
 
 **(b) Personnel.—** Notwithstanding paragraphs (7) and (8) of section 406(a) of this title, the Inspector General of the Nuclear Regulatory Commission is authorized to select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General and to obtain the temporary or intermittent services of experts or consultants or an organization of experts or consultants, subject to the applicable laws and regulations that govern such selections, appointments, and employment, and the obtaining of such services, within the Nuclear Regulatory Commission.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4228.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4228.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 410 | 5 U.S.C. App. (IGA § 8B) | Pub. L. 95–452, § 8B, as added Pub. L. 100–504, title I, § 102(f), Oct. 18, 1988, 102 Stat. 2517. |
+| 410 | 5 U.S.C. App. (IGA § 8B) | Pub. L. 95–452, § 8B, as added Pub. L. 100–504, title I, § 102(f), Oct. 18, 1988, 102 Stat. 2517. |
 
-## § 411. Special provisions concerning the Federal Deposit Insurance Corporation
+## § 411. Special provisions concerning the Federal Deposit Insurance Corporation
 
 **(a) Delegation.—** The Chairperson of the Federal Deposit Insurance Corporation may delegate the authority specified in the 2d sentence of section 403(a) of this title to the Vice Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation, but may not delegate such authority to any other officer or employee of the Corporation.
 
 **(b) Personnel.—** Notwithstanding paragraphs (7) and (8) of section 406(a) of this title, the Inspector General of the Federal Deposit Insurance Corporation may select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General and may obtain the temporary or intermittent services of experts or consultants or an organization of experts or consultants, subject to the applicable laws and regulations that govern such selections, appointments, and employment, and the obtaining of such services, within the Federal Deposit Insurance Corporation.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4228.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4228.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 411 | 5 U.S.C. App. (IGA § 8C) | Pub. L. 95–452, § 8C, as added Pub. L. 103–204, § 23(a)(2), Dec. 17, 1993, 107 Stat. 2407. |
+| 411 | 5 U.S.C. App. (IGA § 8C) | Pub. L. 95–452, § 8C, as added Pub. L. 103–204, § 23(a)(2), Dec. 17, 1993, 107 Stat. 2407. |
 
-## § 412. Special provisions concerning the Department of the Treasury
+## § 412. Special provisions concerning the Department of the Treasury
 
 **(a) In General.—**
 
@@ -1552,11 +1552,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 **(C) Applicability.—** This paragraph applies regardless of whether the applicable audit or investigation is requested under paragraph (1).
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4229.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4229.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 8D of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8D of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(4), Dec. 23, 2022, 136 Stat. 3240, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4229, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8D of Pub. L. 95–452 was amended as follows:
+This section was derived from section 8D of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8D of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(4), Dec. 23, 2022, 136 Stat. 3240, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4229, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8D of Pub. L. 95–452 was amended as follows:
 
 (1) in subsection (a)(3), by striking “Committees on Governmental Affairs and Finance of the Senate and the Committees on Government Operations and Ways and Means of the House of Representatives, and to other appropriate committees or subcommittees of the Congress” and inserting “appropriate congressional committees, including the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives”; and
 
@@ -1578,7 +1578,7 @@ For definition of “appropriate congressional committees” as seen in the abov
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 412 | 5 U.S.C. App. (IGA § 8D) | Pub. L. 95–452, § 8D, formerly § 8C, as added Pub. L. 100–504, title I, § 102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered § 8D, Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, § 1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, § 1112(a)(1), Nov. 25, 2002, 116 Stat. 2275; Pub. L. 108–7, div. L, § 104(c)(2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 109–177, title VI, § 605(e)(3), Mar. 9, 2006, 120 Stat. 255; Pub. L. 110–409, § 14(b), Oct. 14, 2008, 122 Stat. 4316; Pub. L. 112–199, title I, § 117(b), Nov. 27, 2012, 126 Stat. 1475; Pub. L. 114–317, §§ 6(2), 7(d)(3)(C), Dec. 16, 2016, 130 Stat. 1604, 1606. |
+| 412 | 5 U.S.C. App. (IGA § 8D) | Pub. L. 95–452, § 8D, formerly § 8C, as added Pub. L. 100–504, title I, § 102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered § 8D, Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, § 1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, § 1112(a)(1), Nov. 25, 2002, 116 Stat. 2275; Pub. L. 108–7, div. L, § 104(c)(2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 109–177, title VI, § 605(e)(3), Mar. 9, 2006, 120 Stat. 255; Pub. L. 110–409, § 14(b), Oct. 14, 2008, 122 Stat. 4316; Pub. L. 112–199, title I, § 117(b), Nov. 27, 2012, 126 Stat. 1475; Pub. L. 114–317, §§ 6(2), 7(d)(3)(C), Dec. 16, 2016, 130 Stat. 1604, 1606. |
 
 In subsection (a)(3) and subsection (g)(1), the words “[Committee] on Homeland Security and Governmental Affairs [of the Senate]” are substituted for “[Committee] on Governmental Affairs of the Senate” on authority of Senate Resolution No. 445, 108th Congress, October 9, 2004 (effective January 4, 2005).
 
@@ -1598,7 +1598,7 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (a)(1
 
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 413. Special provisions concerning the Department of Justice
+## § 413. Special provisions concerning the Department of Justice
 
 **(a) In General.—**
 
@@ -1634,11 +1634,11 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **(d) Regulation To Ensure Reporting of Certain Allegations to Inspector General.—** The Attorney General shall ensure by regulation that any component of the Department of Justice receiving a nonfrivolous allegation of criminal wrongdoing or administrative misconduct by an employee of the Department of Justice, except with respect to allegations described in subsection (b)(3), shall report that information to the Inspector General.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4233; Pub. L. 118–71, § 2(a), July 25, 2024, 138 Stat. 1492.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4233; Pub. L. 118–71, § 2(a), July 25, 2024, 138 Stat. 1492.)
 
 **Amendment of Section**
 
-Pub. L. 118–71, § 2(a), (b), July 25, 2024, 138 Stat. 1492, 1501, provided that, effective on the date that is 90 days after the date on which appropriations are made available to the Inspector General of the Department of Justice and the Department of Justice for the specific purpose of carrying out the provisions of Pub. L. 118–71, this section is amended by adding at the end the following:
+Pub. L. 118–71, § 2(a), (b), July 25, 2024, 138 Stat. 1492, 1501, provided that, effective on the date that is 90 days after the date on which appropriations are made available to the Inspector General of the Department of Justice and the Department of Justice for the specific purpose of carrying out the provisions of Pub. L. 118–71, this section is amended by adding at the end the following:
 
 *(e)* *Inspections Regime.—*
 
@@ -1976,7 +1976,7 @@ See 2024 Amendment note below.
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 8E of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8E of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(5), Dec. 23, 2022, 136 Stat. 3240, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4233, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8E of Pub. L. 95–452 was amended as follows:
+This section was derived from section 8E of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8E of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(5), Dec. 23, 2022, 136 Stat. 3240, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4233, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8E of Pub. L. 95–452 was amended as follows:
 
 (1) in subsection (a)(3), by striking “Committees on Governmental Affairs and Judiciary of the Senate and the Committees on Government Operations and Judiciary of the House of Representatives, and to other appropriate committees or subcommittees of the Congress” and inserting “appropriate congressional committees, including the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives”; and
 
@@ -1994,7 +1994,7 @@ For definition of “appropriate congressional committees” as seen in the abov
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 413 | 5 U.S.C. App. (IGA § 8E) | Pub. L. 95–452, § 8E, formerly § 8D, as added Pub. L. 100–504, title I, § 102(f), Oct. 18, 1988, 102 Stat. 2520; renumbered § 8E, Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 107–273, div. A, title III, § 308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 114–317, §§ 6(3), 7(d)(3)(D), Dec. 16, 2016, 130 Stat. 1604, 1606. |
+| 413 | 5 U.S.C. App. (IGA § 8E) | Pub. L. 95–452, § 8E, formerly § 8D, as added Pub. L. 100–504, title I, § 102(f), Oct. 18, 1988, 102 Stat. 2520; renumbered § 8E, Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 107–273, div. A, title III, § 308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 114–317, §§ 6(3), 7(d)(3)(D), Dec. 16, 2016, 130 Stat. 1604, 1606. |
 
 In subsection (a)(3) and subsection (c), the words “[Committee] on Homeland Security and Governmental Affairs [of the Senate]” are substituted for “[Committee] on Governmental Affairs [of the Senate]” because of Senate Resolution No. 445, 108th Congress, October 9, 2004 (effective January 4, 2005).
 
@@ -2014,11 +2014,11 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–71, § 2(b), July 25, 2024, 138 Stat. 1501, provided that: “This Act [see Short Title of 2024 Amendment note set out under section 101 of this title], and the amendments made by this Act, shall take effect on the date that is 90 days after the date on which appropriations are made available to the Inspector General of the Department of Justice and the Department of Justice for the specific purpose of carrying out the provisions of this Act and the amendments made by this Act.”
+Pub. L. 118–71, § 2(b), July 25, 2024, 138 Stat. 1501, provided that: “This Act [see Short Title of 2024 Amendment note set out under section 101 of this title], and the amendments made by this Act, shall take effect on the date that is 90 days after the date on which appropriations are made available to the Inspector General of the Department of Justice and the Department of Justice for the specific purpose of carrying out the provisions of this Act and the amendments made by this Act.”
 
 **Appointment of Oversight Official Within the Office of Inspector General**
 
-Pub. L. 107–273, div. A, title III, § 309(a), Nov. 2, 2002, 116 Stat. 1784, provided that:
+Pub. L. 107–273, div. A, title III, § 309(a), Nov. 2, 2002, 116 Stat. 1784, provided that:
 
 > **“(1) In general.—** The Inspector General of the Department of Justice shall direct that 1 official from the office of the Inspector General be responsible for supervising and coordinating independent oversight of programs and operations of the Federal Bureau of Investigation until September 30, 2004.
 
@@ -2026,7 +2026,7 @@ Pub. L. 107–273, div. A, title III, § 309(a), Nov. 2, 2002, 116 Stat. 1784,
 
 **Review of Civil Rights Complaints by the Department of Justice**
 
-Pub. L. 107–56, title X, § 1001, Oct. 26, 2001, 115 Stat. 391, provided that:
+Pub. L. 107–56, title X, § 1001, Oct. 26, 2001, 115 Stat. 391, provided that:
 
 > “The Inspector General of the Department of Justice shall designate one official who shall—
 
@@ -2036,7 +2036,7 @@ Pub. L. 107–56, title X, § 1001, Oct. 26, 2001, 115 Stat. 391, provided tha
 
 > **“(3)** submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate on a semi-annual basis a report on the implementation of this subsection [section] and detailing any abuses described in paragraph (1), including a description of the use of funds appropriations used to carry out this subsection [section].”
 
-## § 414. Special provisions concerning the Corporation for National and Community Service
+## § 414. Special provisions concerning the Corporation for National and Community Service
 
 **(a) Personnel.—** Notwithstanding the provisions of paragraphs (7) and (8) of section 406(a) of this title, it is within the exclusive jurisdiction of the Inspector General of the Corporation for National and Community Service to—
 
@@ -2052,15 +2052,15 @@ as may be necessary to carry out the functions, powers, and duties of the Inspec
 
 **(d) Report of Problem, Abuse, or Deficiency to Board of Directors.—** Not later than the date on which the Inspector General of the Corporation for National and Community Service reports a problem, abuse, or deficiency under section 405(e) of this title to the Chief Executive Officer of the Corporation, the Chief Executive Officer shall report such problem, abuse, or deficiency to the Board of Directors.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4235.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4235.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 414 | 5 U.S.C. App. (IGA § 8F) | Pub. L. 95–452, § 8F, formerly § 8E, as added Pub. L. 103–82, title II, § 202(g)(1), Sept. 21, 1993, 107 Stat. 889; renumbered § 8F, Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 111–13, title IV, § 4101, Apr. 21, 2009, 123 Stat. 1597. |
+| 414 | 5 U.S.C. App. (IGA § 8F) | Pub. L. 95–452, § 8F, formerly § 8E, as added Pub. L. 103–82, title II, § 202(g)(1), Sept. 21, 1993, 107 Stat. 889; renumbered § 8F, Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 111–13, title IV, § 4101, Apr. 21, 2009, 123 Stat. 1597. |
 
-## § 415. Requirements for Federal entities and designated Federal entities
+## § 415. Requirements for Federal entities and designated Federal entities
 
 **(a) Definitions.—** Notwithstanding section 401 of this title, in this section:
 
@@ -2222,11 +2222,11 @@ as may be necessary to carry out the functions, powers, and duties of the Inspec
 
 **(C)** summarizes any matters relating to the personnel, programs, and operations of the Federal entity referred to prosecutive authorities, including a summary description of any preliminary investigation conducted by or at the request of the Federal entity concerning these matters, and the prosecutions and convictions which have resulted.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4235.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4235.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 8G of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8G of Pub. L. 95–452 was amended by Pub. L. 117–108, title II, § 209(a), Apr. 6, 2022, 136 Stat. 1151, and by Pub. L. 117–263, div. E, title LII, §§ 5202(a)(2), 5272(6), Dec. 23, 2022, 136 Stat. 3224, 3240, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4235, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title.
+This section was derived from section 8G of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8G of Pub. L. 95–452 was amended by Pub. L. 117–108, title II, § 209(a), Apr. 6, 2022, 136 Stat. 1151, and by Pub. L. 117–263, div. E, title LII, §§ 5202(a)(2), 5272(6), Dec. 23, 2022, 136 Stat. 3224, 3240, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4235, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title.
 
 Section 8G of Pub. L. 95–452 was amended by Pub. L. 117–108 as follows:
 
@@ -2318,7 +2318,7 @@ For definition of “appropriate congressional committees” as seen in the abov
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 415 | 5 U.S.C. App. (IGA § 8G) | Pub. L. 95–452, § 8G, formerly § 8E, as added Pub. L. 100–504, title I, § 104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, § 702(c), Aug. 9, 1989, 103 Stat. 415; renumbered § 8F and amended Pub. L. 103–82, title II, § 202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered § 8G and amended Pub. L. 103–204, § 23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, § 319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, § 409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, § 306(h), as added Pub. L. 106–31, title I, § 105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, § 1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, § 812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §§ 603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–409, §§ 2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, 122 Stat. 4302, 4305, 4313; Pub. L. 111–203, title IX, §§ 989B, 989D, title X, § 1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, § 431(a), (c), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title IV, §§ 402(1), 412(1), July 7, 2014, 128 Stat. 1408, 1409; Pub. L. 114–113, div. H, title IV, § 401(a), Dec. 18, 2015, 129 Stat. 2639; Pub. L. 114–317, §§ 6(4), 7(d)(2)(F), (3)(E), Dec. 16, 2016, 130 Stat. 1604, 1606; Pub. L. 115–141, div. P, title V, § 501(a)(1), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–254, div. F, title I, § 1414, Oct. 5, 2018, 132 Stat. 3492. |
+| 415 | 5 U.S.C. App. (IGA § 8G) | Pub. L. 95–452, § 8G, formerly § 8E, as added Pub. L. 100–504, title I, § 104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, § 702(c), Aug. 9, 1989, 103 Stat. 415; renumbered § 8F and amended Pub. L. 103–82, title II, § 202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered § 8G and amended Pub. L. 103–204, § 23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, § 319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, § 409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, § 306(h), as added Pub. L. 106–31, title I, § 105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, § 1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, § 812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §§ 603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–409, §§ 2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, 122 Stat. 4302, 4305, 4313; Pub. L. 111–203, title IX, §§ 989B, 989D, title X, § 1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, § 431(a), (c), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title IV, §§ 402(1), 412(1), July 7, 2014, 128 Stat. 1408, 1409; Pub. L. 114–113, div. H, title IV, § 401(a), Dec. 18, 2015, 129 Stat. 2639; Pub. L. 114–317, §§ 6(4), 7(d)(2)(F), (3)(E), Dec. 16, 2016, 130 Stat. 1604, 1606; Pub. L. 115–141, div. P, title V, § 501(a)(1), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–254, div. F, title I, § 1414, Oct. 5, 2018, 132 Stat. 3492. |
 
 In subsection (a)(1)(A), the words “the Board for International Broadcasting” are omitted as obsolete. The Board for International Broadcasting was established by section 3(a) of the Board for International Broadcasting Act of 1973 (Public Law 93–129, 87 Stat. 457). The Board for International Broadcasting Act of 1973 was repealed by section 310(e) of the United States International Broadcasting Act of 1994 (Public Law 103–236, title III, 108 Stat. 442).
 
@@ -2344,7 +2344,7 @@ In subsection (h)(2), the words “On October 31 of each year,” are substitute
 
 **References in Text**
 
-The National Labor Relations Act, referred to in subsec. (f)(4), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, referred to in subsec. (f)(4), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2354,7 +2354,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **Savings Provision; References to Inspector General of the Postal Regulatory Commission**
 
-Pub. L. 117–108, title II, § 209(c), Apr. 6, 2022, 136 Stat. 1152, provided that:
+Pub. L. 117–108, title II, § 209(c), Apr. 6, 2022, 136 Stat. 1152, provided that:
 
 > **“(1) Personnel, documents, assets.—** All personnel, documents, assets, unexpended balances of appropriations, and obligations of the Inspector General for the Postal Regulatory Commission shall transfer to the Inspector General of the Postal Service on the effective date of this section [see section 209(e) of Pub. L. 117–108, set out as an Effective Date of 2022 Amendent note under section 202 of Title 39, Postal Service].
 
@@ -2370,7 +2370,7 @@ Pub. L. 117–108, title II, § 209(c), Apr. 6, 2022, 136 Stat. 1152, provided
 
 **Inspector General Oversight of Fund**
 
-Pub. L. 115–91, div. A, title XV, § 1521(e), Dec. 12, 2017, 131 Stat. 1714, provided that:
+Pub. L. 115–91, div. A, title XV, § 1521(e), Dec. 12, 2017, 131 Stat. 1714, provided that:
 
 > **“(1) Quality standards for ig products.—** Except as provided in paragraph (3), each product published or issued by an Inspector General relating to the oversight of programs and activities funded under the Afghanistan Security Forces Fund shall be prepared—
 
@@ -2384,13 +2384,13 @@ Pub. L. 115–91, div. A, title XV, § 1521(e), Dec. 12, 2017, 131 Stat. 1714,
 
 **Inspector General for Committee for Purchase From People Who Are Blind or Severely Disabled**
 
-Pub. L. 114–113, div. H, title IV, § 401(b), Dec. 18, 2015, 129 Stat. 2640, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2015], the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall appoint an Inspector General for the Committee.”
+Pub. L. 114–113, div. H, title IV, § 401(b), Dec. 18, 2015, 129 Stat. 2640, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2015], the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall appoint an Inspector General for the Committee.”
 
-[Pub. L. 114–113, div. H, title IV, § 401(c), Dec. 18, 2015, 129 Stat. 2640, provided that: “This section [amending former section 8G of Pub. L. 95–452 (see this section), and enacting provisions set out as a note above], and the amendments made by this section, shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 18, 2015].” ]
+[Pub. L. 114–113, div. H, title IV, § 401(c), Dec. 18, 2015, 129 Stat. 2640, provided that: “This section [amending former section 8G of Pub. L. 95–452 (see this section), and enacting provisions set out as a note above], and the amendments made by this section, shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 18, 2015].” ]
 
 **Amtrak Inspector General**
 
-Pub. L. 114–94, div. A, title XI, § 11314, Dec. 4, 2015, 129 Stat. 1674, as amended by Pub. L. 117–286, § 4(b)(13), Dec. 27, 2022, 136 Stat. 4344, provided that:
+Pub. L. 114–94, div. A, title XI, § 11314, Dec. 4, 2015, 129 Stat. 1674, as amended by Pub. L. 117–286, § 4(b)(13), Dec. 27, 2022, 136 Stat. 4344, provided that:
 
 > **“(a) Authority.—**
 
@@ -2410,7 +2410,7 @@ Pub. L. 114–94, div. A, title XI, § 11314, Dec. 4, 2015, 129 Stat. 1674, as
 
 Pub. L. 113–76, div. B, title IV, Jan. 17, 2014, 128 Stat. 75, provided in part: “That the Inspector General for the Commission on Civil Rights (CCR IG), as provided in Public Law 113–6 [set out below], is authorized to close out all work related to pending or closed investigations, to complete pending investigations, and to terminate all activities related to the duties, responsibilities and authorities of the CCR IG: *Provided further*, That when the CCR IG concludes that all pending investigations have been completed, all work related to pending or closed investigations has been closed out, and all activities related to the duties, responsibilities and authorities of the CCR IG have ended, the CCR IG shall certify that conclusion to the Committees on Appropriations of the House of Representatives and the Senate, and the Office of the CCR IG shall then be terminated”.
 
-Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, as amended by Pub. L. 117–286, § 4(b)(14), Dec. 27, 2022, 136 Stat. 4344, provided in part: “That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: *Provided further*, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: *Provided further*, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights”.
+Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, as amended by Pub. L. 117–286, § 4(b)(14), Dec. 27, 2022, 136 Stat. 4344, provided in part: “That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: *Provided further*, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: *Provided further*, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights”.
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -2418,7 +2418,7 @@ Pub. L. 112–55, div. B, title IV, Nov. 18, 2011, 125 Stat. 628.
 
 **Special Inspector General for Afghanistan Reconstruction**
 
-Pub. L. 118–159, div. G, title LXXVIII, § 7809(b)–(e), Dec. 23, 2024, 138 Stat. 2562, 2563, provided that:
+Pub. L. 118–159, div. G, title LXXVIII, § 7809(b)–(e), Dec. 23, 2024, 138 Stat. 2562, 2563, provided that:
 
 > **“(b) Eligibility for ICTAP.—** Any individual who is an employee of the Office of the Special Inspector General for Afghanistan Reconstruction on the date of the enactment of this section [Dec. 23, 2024] shall be—
 
@@ -2434,7 +2434,7 @@ Pub. L. 118–159, div. G, title LXXVIII, § 7809(b)–(e), Dec. 23, 2024, 138
 
 > **“(e) Use of Unobligated Funds.—** Any unobligated funds remaining available for the Office of the Special Inspector General for Afghanistan Reconstruction on February 1, 2026, may be used by the Office of Inspector General of the Department of State.”
 
-Pub. L. 110–181, div. A, title XII, § 1229, Jan. 28, 2008, 122 Stat. 378, as amended by Pub. L. 110–417, [div. A], title X, § 1061(b)(11), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–38, § 1, June 30, 2009, 123 Stat. 1932; Pub. L. 117–286, § 4(b)(15), Dec. 27, 2022, 136 Stat. 4344; Pub. L. 118–159, div. G, title LXXVIII, § 7809(a), Dec. 23, 2024, 138 Stat. 2562, provided that:
+Pub. L. 110–181, div. A, title XII, § 1229, Jan. 28, 2008, 122 Stat. 378, as amended by Pub. L. 110–417, [div. A], title X, § 1061(b)(11), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–38, § 1, June 30, 2009, 123 Stat. 1932; Pub. L. 117–286, § 4(b)(15), Dec. 27, 2022, 136 Stat. 4344; Pub. L. 118–159, div. G, title LXXVIII, § 7809(a), Dec. 23, 2024, 138 Stat. 2562, provided that:
 
 > **“(a) Purposes.—** The purposes of this section are as follows:
 
@@ -2686,7 +2686,7 @@ Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3322.
 
 Pub. L. 108–199, div. G, title III, Jan. 23, 2004, 118 Stat. 399.
 
-Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 679, as amended by Pub. L. 117–286, § 4(b)(16), Dec. 27, 2022, 136 Stat. 4345, provided in part: “That, hereafter, there shall be an Inspector General at the [Chemical Safety and Hazard Investigation] Board who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: *Provided further*, That an individual appointed to the position of Inspector General of the Federal Emergency Management Agency (FEMA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: *Provided further*, That the Inspector General of the Board shall utilize personnel of the Office of Inspector General of FEMA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
+Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 679, as amended by Pub. L. 117–286, § 4(b)(16), Dec. 27, 2022, 136 Stat. 4345, provided in part: “That, hereafter, there shall be an Inspector General at the [Chemical Safety and Hazard Investigation] Board who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: *Provided further*, That an individual appointed to the position of Inspector General of the Federal Emergency Management Agency (FEMA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: *Provided further*, That the Inspector General of the Board shall utilize personnel of the Office of Inspector General of FEMA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
 
 [For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.]
 
@@ -2694,7 +2694,7 @@ Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 679, as amended by Pub. L.
 
 Similar provisions were contained in the following prior appropriations act:
 
-Pub. L. 106–377, § 1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–36.
+Pub. L. 106–377, § 1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–36.
 
 Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 515, provided in part: “That notwithstanding any other provision of law, the Inspector General of the Federal Emergency Management Agency shall hereafter also serve as the Inspector General of the Chemical Safety and Hazard Investigation Board.”
 
@@ -2702,13 +2702,13 @@ Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 688.
 
-Pub. L. 106–377, § 1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–46.
+Pub. L. 106–377, § 1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–46.
 
 **Special Inspector General for Iraq Reconstruction**
 
-Pub. L. 108–375, div. A, title XII, § 1203(b), Oct. 28, 2004, 118 Stat. 2079, provided that: “The individual serving as the Inspector General of the Coalition Provisional Authority as of the date of the enactment of this Act [Oct. 28, 2004] may continue to serve in that position after that date without reappointment under paragraph (1) of section 3001(c) of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 [Pub. L. 108–106, set out below], but remaining subject to removal as specified in paragraph (4) of that section.”
+Pub. L. 108–375, div. A, title XII, § 1203(b), Oct. 28, 2004, 118 Stat. 2079, provided that: “The individual serving as the Inspector General of the Coalition Provisional Authority as of the date of the enactment of this Act [Oct. 28, 2004] may continue to serve in that position after that date without reappointment under paragraph (1) of section 3001(c) of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 [Pub. L. 108–106, set out below], but remaining subject to removal as specified in paragraph (4) of that section.”
 
-Pub. L. 108–106, title III, § 3001, Nov. 6, 2003, 117 Stat. 1234, as amended by Pub. L. 108–375, div. A, title XII, § 1203(a)(1)–(3)(A), (c)–(j), Oct. 28, 2004, 118 Stat. 2078–2081; Pub. L. 109–102, title V, § 599, Nov. 14, 2005, 119 Stat. 2240; Pub. L. 109–364, div. A, title X, §§ 1054(b), 1071(g)(13), Oct. 17, 2006, 120 Stat. 2397, 2403; Pub. L. 109–440, § 2, Dec. 20, 2006, 120 Stat. 3286; Pub. L. 110–28, title III, § 3801, May 25, 2007, 121 Stat. 147; Pub. L. 110–181, div. A, title XII, § 1221, Jan. 28, 2008, 122 Stat. 371; Pub. L. 117–286, § 4(b)(17), Dec. 27, 2022, 136 Stat. 4345, provided that:
+Pub. L. 108–106, title III, § 3001, Nov. 6, 2003, 117 Stat. 1234, as amended by Pub. L. 108–375, div. A, title XII, § 1203(a)(1)–(3)(A), (c)–(j), Oct. 28, 2004, 118 Stat. 2078–2081; Pub. L. 109–102, title V, § 599, Nov. 14, 2005, 119 Stat. 2240; Pub. L. 109–364, div. A, title X, §§ 1054(b), 1071(g)(13), Oct. 17, 2006, 120 Stat. 2397, 2403; Pub. L. 109–440, § 2, Dec. 20, 2006, 120 Stat. 3286; Pub. L. 110–28, title III, § 3801, May 25, 2007, 121 Stat. 147; Pub. L. 110–181, div. A, title XII, § 1221, Jan. 28, 2008, 122 Stat. 371; Pub. L. 117–286, § 4(b)(17), Dec. 27, 2022, 136 Stat. 4345, provided that:
 
 > **“(a) Purposes.—** The purposes of this section are as follows:
 
@@ -2900,7 +2900,7 @@ Pub. L. 108–106, title III, § 3001, Nov. 6, 2003, 117 Stat. 1234, as amende
 
 **Amtrak Not Federal Entity; Federal Subsidy**
 
-Pub. L. 105–134, title IV, § 409(b), (c), Dec. 2, 1997, 111 Stat. 2587, as amended by Pub. L. 117–286, § 4(b)(18), Dec. 27, 2022, 136 Stat. 4345, provided that:
+Pub. L. 105–134, title IV, § 409(b), (c), Dec. 2, 1997, 111 Stat. 2587, as amended by Pub. L. 117–286, § 4(b)(18), Dec. 27, 2022, 136 Stat. 4345, provided that:
 
 > **“(b) Amtrak Not Federal Entity.—** Amtrak shall not be considered a Federal entity for purposes of chapter 4 of title 5, United States Code. The preceding sentence shall apply for any fiscal year for which Amtrak receives no Federal subsidy.
 
@@ -2924,7 +2924,7 @@ Pub. L. 105–134, title IV, § 409(b), (c), Dec. 2, 1997, 111 Stat. 2587, as 
 
 > **“(3) Special effective date.—** This subsection takes effect 1 year after the date of enactment of this Act [Dec. 2, 1997].”
 
-## § 416. Additional provisions with respect to Inspectors General of the intelligence community
+## § 416. Additional provisions with respect to Inspectors General of the intelligence community
 
 **(a) Definitions.—** In this section:
 
@@ -3012,11 +3012,11 @@ Pub. L. 105–134, title IV, § 409(b), (c), Dec. 2, 1997, 111 Stat. 2587, as 
 
 **(iv)** any other provision of law with respect to the unauthorized disclosure of national security information.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4242; Pub. L. 118–159, div. F, title LXVII, §§ 6701(c), 6702(c), Dec. 23, 2024, 138 Stat. 2512, 2514.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4242; Pub. L. 118–159, div. F, title LXVII, §§ 6701(c), 6702(c), Dec. 23, 2024, 138 Stat. 2512, 2514.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 8H of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8H of Pub. L. 95–452 was amended by Pub. L. 117–103, div. X, title V, § 502(b), Mar. 15, 2022, 136 Stat. 985, and by Pub. L. 117–263, div. F, title LXVI, § 6609(b), Dec. 23, 2022, 136 Stat. 3560, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4242, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title.
+This section was derived from section 8H of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8H of Pub. L. 95–452 was amended by Pub. L. 117–103, div. X, title V, § 502(b), Mar. 15, 2022, 136 Stat. 985, and by Pub. L. 117–263, div. F, title LXVI, § 6609(b), Dec. 23, 2022, 136 Stat. 3560, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4242, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title.
 
 Section 8H of Pub. L. 95–452 was amended by Pub. L. 117–103 as follows:
 
@@ -3042,33 +3042,33 @@ Subsection (h)(1)(A)(i) of former section 8H of Pub. L. 95–452 was restated by
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 416 | 5 U.S.C. App. (IGA § 8H) | Pub. L. 95–452, § 8H, as added Pub. L. 105–272, title VII, § 702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, § 309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, § 825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, [div. A], title IX, § 931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, § 431(b), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title III, § 310, title VI, § 603(a), July 7, 2014, 128 Stat. 1398, 1420; Pub. L. 116–92, div. E, title LXVII, § 6726(c), Dec. 20, 2019, 133 Stat. 2236. |
+| 416 | 5 U.S.C. App. (IGA § 8H) | Pub. L. 95–452, § 8H, as added Pub. L. 105–272, title VII, § 702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, § 309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, § 825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, [div. A], title IX, § 931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, § 431(b), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title III, § 310, title VI, § 603(a), July 7, 2014, 128 Stat. 1398, 1420; Pub. L. 116–92, div. E, title LXVII, § 6726(c), Dec. 20, 2019, 133 Stat. 2236. |
 
 **Editorial Notes**
 
 **References in Text**
 
-The Atomic Energy Act of 1954, referred to in subsec. (i)(1), (2)(C)(ii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919. Chapters 12 and 18 of the Act are classified generally to subchapters XI (§ 2161 et seq.) and XVII (§ 2271 et seq.), respectively, of division A of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (i)(1), (2)(C)(ii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919. Chapters 12 and 18 of the Act are classified generally to subchapters XI (§ 2161 et seq.) and XVII (§ 2271 et seq.), respectively, of division A of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 Executive Order 13526, referred to in subsec. (i)(1), (2)(C)(ii), is Ex. Ord. No. 13526, Dec. 29, 2009, 75 F.R. 707, 1013, which is set out as a note under section 3161 of Title 50, War and National Defense.
 
 **Amendments**
 
-2024—Subsec. (a)(3). Pub. L. 118–159, § 6701(c)(1), added par. (3).
+2024—Subsec. (a)(3). Pub. L. 118–159, § 6701(c)(1), added par. (3).
 
-Subsec. (a)(4). Pub. L. 118–159, § 6702(c)(1), added par. (4).
+Subsec. (a)(4). Pub. L. 118–159, § 6702(c)(1), added par. (4).
 
-Subsec. (b)(1). Pub. L. 118–159, § 6701(c)(2)(A), (B), inserted “; support for written submission” after “made” in heading and “in writing” after “may report the complaint or information” wherever appearing in text.
+Subsec. (b)(1). Pub. L. 118–159, § 6701(c)(2)(A), (B), inserted “; support for written submission” after “made” in heading and “in writing” after “may report the complaint or information” wherever appearing in text.
 
-Subsec. (b)(1)(B). Pub. L. 118–159, § 6701(c)(2)(C), inserted “in writing” after “such complaint or information”.
+Subsec. (b)(1)(B). Pub. L. 118–159, § 6701(c)(2)(C), inserted “in writing” after “such complaint or information”.
 
-Subsec. (b)(1)(E). Pub. L. 118–159, § 6701(c)(2)(D), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 118–159, § 6701(c)(2)(D), added subpar. (E).
 
-Subsec. (c). Pub. L. 118–159, § 6701(c)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which required the Inspector General to determine the credibility of the complaint or information.
+Subsec. (c). Pub. L. 118–159, § 6701(c)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which required the Inspector General to determine the credibility of the complaint or information.
 
-Subsec. (i). Pub. L. 118–159, § 6702(c)(2), added subsec. (i).
+Subsec. (i). Pub. L. 118–159, § 6702(c)(2), added subsec. (i).
 
-## § 417. Special provisions concerning the Department of Homeland Security
+## § 417. Special provisions concerning the Department of Homeland Security
 
 **(a) In General.—**
 
@@ -3134,11 +3134,11 @@ Subsec. (i). Pub. L. 118–159, § 6702(c)(2), added subsec. (i).
 
 **(I)** inform the Officer for Civil Rights and Civil Liberties of any weaknesses, problems, and deficiencies within the Department relating to civil rights or civil liberties.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4244.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4244.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 8I of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8I of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(7), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4244, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8I of Pub. L. 95–452 was amended as follows:
+This section was derived from section 8I of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8I of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(7), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4244, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8I of Pub. L. 95–452 was amended as follows:
 
 (1) in subsection (a)(3), in the matter preceding subparagraph (A), by striking “committees and subcommittees of Congress” and inserting “congressional committees”; and
 
@@ -3150,7 +3150,7 @@ For definition of “appropriate congressional committees”, which would result
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 417 | 5 U.S.C. App. (IGA § 8I) | Pub. L. 95–452, § 8I, as added Pub. L. 108–7, div. L, § 104(b)(3), Feb. 20, 2003, 117 Stat. 529; amended Pub. L. 108–458, title VIII, § 8304, Dec. 17, 2004, 118 Stat. 3868; Pub. L. 109–177, title VI, § 605(e)(4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 114–317, § 6(5), Dec. 16, 2016, 130 Stat. 1604. |
+| 417 | 5 U.S.C. App. (IGA § 8I) | Pub. L. 95–452, § 8I, as added Pub. L. 108–7, div. L, § 104(b)(3), Feb. 20, 2003, 117 Stat. 529; amended Pub. L. 108–458, title VIII, § 8304, Dec. 17, 2004, 118 Stat. 3868; Pub. L. 109–177, title VI, § 605(e)(4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 114–317, § 6(5), Dec. 16, 2016, 130 Stat. 1604. |
 
 In subsection (b), the reference to “subsection (a)(2)” is substituted for “paragraph (2)” for clarity and to correct an error in the law.
 
@@ -3166,33 +3166,33 @@ GS–15, referred to in subsec. (f)(1), is contained in the General Schedule, wh
 
 **Review of Departmental Contracts Awarded Through Means Other Than Full and Open Competition**
 
-Pub. L. 113–6, div. D, title V, § 520(d), Mar. 26, 2013, 127 Stat. 370, provided that: “In addition to the requirements established by subsections (a), (b), and (c) of this section [127 Stat. 369, 370], the Inspector General of the Department of Homeland Security shall review departmental contracts awarded through means other than a full and open competition to assess departmental compliance with applicable laws and regulations: *Provided*, That the Inspector General shall review selected contracts awarded in the previous 3 fiscal years through means other than a full and open competition: *Provided further*, That in selecting which contracts to review, the Inspector General shall consider the cost and complexity of the goods and services to be provided under the contract, the criticality of the contract to fulfilling Department missions, past performance problems on similar contracts or by the selected vendor, complaints received about the award process or contractor performance, and such other factors as the Inspector General deems relevant: *Provided further*, That the Inspector General shall report the results of the reviews to the Committees on Appropriations of the Senate and the House of Representatives no later than February 4, 2015, and every 3 years thereafter.”
+Pub. L. 113–6, div. D, title V, § 520(d), Mar. 26, 2013, 127 Stat. 370, provided that: “In addition to the requirements established by subsections (a), (b), and (c) of this section [127 Stat. 369, 370], the Inspector General of the Department of Homeland Security shall review departmental contracts awarded through means other than a full and open competition to assess departmental compliance with applicable laws and regulations: *Provided*, That the Inspector General shall review selected contracts awarded in the previous 3 fiscal years through means other than a full and open competition: *Provided further*, That in selecting which contracts to review, the Inspector General shall consider the cost and complexity of the goods and services to be provided under the contract, the criticality of the contract to fulfilling Department missions, past performance problems on similar contracts or by the selected vendor, complaints received about the award process or contractor performance, and such other factors as the Inspector General deems relevant: *Provided further*, That the Inspector General shall report the results of the reviews to the Committees on Appropriations of the Senate and the House of Representatives no later than February 4, 2015, and every 3 years thereafter.”
 
 **Report on Data Collection**
 
-Pub. L. 110–329, div. D, title V, § 518(b), Sept. 30, 2008, 122 Stat. 3684, provided that: “The Inspector General shall provide to the Committees on Appropriations of the Senate and the House of Representatives, starting six months after the date of enactment of this Act [Sept. 30, 2008], and quarterly thereafter, a classified report containing a review of the data collected by the National Applications Office, including a description of the collection purposes and the legal authority under which the collection activities were authorized: *Provided*, That the report shall also include a listing of all data collection activities carried out on behalf of the National Applications Office by any component of the National Guard.”
+Pub. L. 110–329, div. D, title V, § 518(b), Sept. 30, 2008, 122 Stat. 3684, provided that: “The Inspector General shall provide to the Committees on Appropriations of the Senate and the House of Representatives, starting six months after the date of enactment of this Act [Sept. 30, 2008], and quarterly thereafter, a classified report containing a review of the data collected by the National Applications Office, including a description of the collection purposes and the legal authority under which the collection activities were authorized: *Provided*, That the report shall also include a listing of all data collection activities carried out on behalf of the National Applications Office by any component of the National Guard.”
 
-## § 418. Rule of construction of special provisions
+## § 418. Rule of construction of special provisions
 
 The special provisions under section 408, 409, 410, 411, 412, 413, 414, 416, or 421 of this title relate only to the establishment named in such section and no inference shall be drawn from the presence or absence of a provision in any such section with respect to an establishment not named in such section or with respect to a designated Federal entity as defined under section 415(a) of this title.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4247.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4247.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 418 | 5 U.S.C. App. (IGA § 8J) | Pub. L. 95–452, § 8J, formerly § 8F, as added Pub. L. 100–504, title I, § 105, Oct. 18, 1988, 102 Stat. 2525; renumbered § 8G and amended Pub. L. 103–82, title II, § 202(g)(1), (5)(B), Sept. 21, 1993, 107 Stat. 889, 890; renumbered § 8H, Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(b)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 105–206, title I, § 1103(e)(3), July 22, 1998, 112 Stat. 709; renumbered § 8I and amended Pub. L. 105–272, title VII, § 702(b), Oct. 20, 1998, 112 Stat. 2415; renumbered § 8J, Pub. L. 108–7, div. L, § 104(b)(2), Feb. 20, 2003, 117 Stat. 529; Pub. L. 114–317, § 6(6), Dec. 16, 2016, 130 Stat. 1604. |
+| 418 | 5 U.S.C. App. (IGA § 8J) | Pub. L. 95–452, § 8J, formerly § 8F, as added Pub. L. 100–504, title I, § 105, Oct. 18, 1988, 102 Stat. 2525; renumbered § 8G and amended Pub. L. 103–82, title II, § 202(g)(1), (5)(B), Sept. 21, 1993, 107 Stat. 889, 890; renumbered § 8H, Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(b)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 105–206, title I, § 1103(e)(3), July 22, 1998, 112 Stat. 709; renumbered § 8I and amended Pub. L. 105–272, title VII, § 702(b), Oct. 20, 1998, 112 Stat. 2415; renumbered § 8J, Pub. L. 108–7, div. L, § 104(b)(2), Feb. 20, 2003, 117 Stat. 529; Pub. L. 114–317, § 6(6), Dec. 16, 2016, 130 Stat. 1604. |
 
-## § 419. Special provisions concerning overseas contingency operations
+## § 419. Special provisions concerning overseas contingency operations
 
 **(a) Additional Responsibilities of Chair of Council of Inspectors General on Integrity and Efficiency.—** The Chair of the Council of Inspectors General on Integrity and Efficiency (CIGIE) shall, in consultation with the members of the Council, have the additional responsibilities specified in subsection (b) with respect to the Inspectors General specified in subsection (c) upon the earlier of—
 
 **(1)** the commencement or designation of a military operation as an overseas contingency operation that exceeds 60 days; or
 
-**(2)** receipt of a notification under section 113(n) 1
+**(2)** receipt of a notification under section 113(n) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10 with respect to an overseas contingency operation.
 
@@ -3216,13 +3216,13 @@ of title 10 with respect to an overseas contingency operation.
 
 **(1) Designation.—** A lead Inspector General for an overseas contingency operation shall be designated by the Chair of the Council of Inspectors General on Integrity and Efficiency under subsection (b)(1) not later than 30 days after the earlier of—
 
-**(A)** the commencement or designation of the military operation concerned as an overeas 2
+**(A)** the commencement or designation of the military operation concerned as an overeas 2
 
-<sup>2</sup>  So in original. Probably should be “overseas”.
+<sup>2</sup> So in original. Probably should be “overseas”.
 
 contingency operation that exceeds 60 days; or
 
-**(B)** receipt of a notification under section 113(n) <sup>1</sup> of title 10 with respect to an overseas contingency operation.
+**(B)** receipt of a notification under section 113(n) <sup>1</sup> of title 10 with respect to an overseas contingency operation.
 
 The lead Inspector General for a contingency operation shall be designated from among the Inspectors General specified in subsection (c).
 
@@ -3286,7 +3286,7 @@ The lead Inspector General for a contingency operation shall be designated from 
 
 **(4) Discharge of responsibilities in accordance with chapter.—** The lead Inspector General for an overseas contingency operation shall discharge the responsibilities for the contingency operation under this subsection in a manner consistent with the authorities and requirements of this chapter generally and the authorities and requirements applicable to the Inspectors General specified in subsection (c) under this chapter.
 
-**(5) Ccompetitive 3 [footnote: 3 So in original.] status for appointment.—**
+**(5) Ccompetitive 3 [footnote: 3 So in original.] status for appointment.—**
 
 **(A) In general.—** A person employed by a lead Inspector General for an overseas contingency operation under this section shall acquire competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications upon the completion of 2 years of continuous service as an employee under this section.
 
@@ -3296,17 +3296,17 @@ The lead Inspector General for a contingency operation shall be designated from 
 
 **(f) Construction of Authority.—** Nothing in this section shall be construed to limit the ability of the Inspectors General specified in subsection (c) to enter into agreements to conduct joint audits, inspections, or investigations in the exercise of their oversight responsibilities in accordance with this chapter with respect to overseas contingency operations.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4247; Pub. L. 118–31, div. A, title XI, § 1106, Dec. 22, 2023, 137 Stat. 427; Pub. L. 118–159, div. E, title LVII, § 5704, Dec. 23, 2024, 138 Stat. 2466.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4247; Pub. L. 118–31, div. A, title XI, § 1106, Dec. 22, 2023, 137 Stat. 427; Pub. L. 118–159, div. E, title LVII, § 5704, Dec. 23, 2024, 138 Stat. 2466.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 8L of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8L of Pub. L. 95–452 was amended by Pub. L. 117–81, div. E, title LIII, § 5321, Dec. 27, 2021, 135 Stat. 2368, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4247, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8L of Pub. L. 95–452 was amended in subsection (d)(5)(A) by substituting “any of the Inspectors General specified in subsection (c) for oversight of” for “a lead Inspector General for”.
+This section was derived from section 8L of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8L of Pub. L. 95–452 was amended by Pub. L. 117–81, div. E, title LIII, § 5321, Dec. 27, 2021, 135 Stat. 2368, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4247, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8L of Pub. L. 95–452 was amended in subsection (d)(5)(A) by substituting “any of the Inspectors General specified in subsection (c) for oversight of” for “a lead Inspector General for”.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 419 | 5 U.S.C. App. (IGA Sec. 8L) | Pub. L. 95–452, § 8L, as added Pub. L. 112–239, div. A, title VIII, § 848(2), Jan. 2, 2013, 126 Stat. 1851; Pub. L. 116–92, div. A, title XVII, §§ 1732(b) through 1734, Dec. 20, 2019, 133 Stat. 1817, 1818. |
+| 419 | 5 U.S.C. App. (IGA Sec. 8L) | Pub. L. 95–452, § 8L, as added Pub. L. 112–239, div. A, title VIII, § 848(2), Jan. 2, 2013, 126 Stat. 1851; Pub. L. 116–92, div. A, title XVII, §§ 1732(b) through 1734, Dec. 20, 2019, 133 Stat. 1817, 1818. |
 
 In subsection (d)(5)(B), the date “December 19, 2019” is substituted for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020” for clarity.
 
@@ -3314,9 +3314,9 @@ In subsection (d)(5)(B), the date “December 19, 2019” is substituted for “
 
 **References in Text**
 
-Section 113(n) of title 10, referred to in subsecs. (a)(2) and (d)(1)(B), was redesignated section 113(*o*) of title 10 by Pub. L. 116–283, div. A, title V, § 551(a)(1)(C), Jan. 1, 2021, 134 Stat. 3628.
+Section 113(n) of title 10, referred to in subsecs. (a)(2) and (d)(1)(B), was redesignated section 113(*o*) of title 10 by Pub. L. 116–283, div. A, title V, § 551(a)(1)(C), Jan. 1, 2021, 134 Stat. 3628.
 
-The Foreign Service Act of 1980, referred to in subsec. (d)(3)(C)(i), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 8 of title I of the Act is classified generally to part I (§ 4041 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d)(3)(C)(i), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 8 of title I of the Act is classified generally to part I (§ 4041 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 December 19, 2019, referred to in subsec. (d)(5)(B), probably should be “December 20, 2019”. Prior to repeal and restatement as this section, the source section referred instead to “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020”, which Act was approved Dec. 20, 2019. See Historical and Revision note above.
 
@@ -3330,7 +3330,7 @@ December 19, 2019, referred to in subsec. (d)(5)(B), probably should be “Decem
 
 **Oversight of Programs and Operations Funded With Amounts Appropriated by the United States for Ukraine**
 
-Pub. L. 118–31, div. A, title XII, § 1250B(a)–(h), Dec. 22, 2023, 137 Stat. 465–467, provided that:
+Pub. L. 118–31, div. A, title XII, § 1250B(a)–(h), Dec. 22, 2023, 137 Stat. 465–467, provided that:
 
 > **“(a) Special Inspector General for Operation Atlantic Resolve.—**
 
@@ -3394,7 +3394,7 @@ Pub. L. 118–31, div. A, title XII, § 1250B(a)–(h), Dec. 22, 2023, 137 Sta
 
 > **“(h) Authorization of Appropriations.—** There is authorized to be appropriated for fiscal year 2024 $8,000,000 to carry out this section.”
 
-## § 420. Information on websites of Offices of Inspectors General
+## § 420. Information on websites of Offices of Inspectors General
 
 **(a) Direct Links to Inspectors General Offices.—**
 
@@ -3430,39 +3430,39 @@ Pub. L. 118–31, div. A, title XII, § 1250B(a)–(h), Dec. 22, 2023, 137 Sta
 
 **(c) Definitions.—** In this section, the terms “designated Federal entity” and “head of the designated Federal entity” have the meanings given those terms in section 415(a) of this title.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4251.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4251.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 420 | 5 U.S.C. App. (IGA § 8M) | Pub. L. 95–452, § 8M, formerly § 8L, as added Pub. L. 110–409, § 13(a), Oct. 14, 2008, 122 Stat. 4315; renumbered § 8M, Pub. L. 112–239, div. A, title VIII, § 848(1), Jan. 2, 2013, 126 Stat. 1851; amended Pub. L. 114–317, §§ 4(e), 7(b)(1)(A), (c), Dec. 16, 2016, 130 Stat. 1602, 1605, 1606. |
+| 420 | 5 U.S.C. App. (IGA § 8M) | Pub. L. 95–452, § 8M, formerly § 8L, as added Pub. L. 110–409, § 13(a), Oct. 14, 2008, 122 Stat. 4315; renumbered § 8M, Pub. L. 112–239, div. A, title VIII, § 848(1), Jan. 2, 2013, 126 Stat. 1851; amended Pub. L. 114–317, §§ 4(e), 7(b)(1)(A), (c), Dec. 16, 2016, 130 Stat. 1602, 1605, 1606. |
 
-## § 421. Additional provisions with respect to the Department of Energy
+## § 421. Additional provisions with respect to the Department of Energy
 
 **(a) Authority To Prohibit Access to Certain Materials.—** The Secretary of Energy may prohibit the Inspector General of the Department of Energy from accessing Restricted Data and nuclear safeguards information protected from disclosure under chapter 12 of the Atomic Energy Act of 1954 (42 U.S.C. 2161 et seq.) and intelligence or counterintelligence, as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003), if the Secretary of Energy determines that the prohibition is necessary to protect the national security or prevent the significant impairment to the national security interests of the United States.
 
 **(b) Notification to Inspector General and Statement to Congress.—** Not later than 7 days after the date on which the Secretary of Energy exercises any power authorized under subsection (a), the Secretary shall notify the Inspector General of the Department of Energy in writing of the reasons for such exercise. Within 30 days after receipt of any such notice, the Inspector General of the Department of Energy shall submit to the appropriate committees of Congress a statement concerning such exercise.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4252.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4252.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 8N of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8N of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(8), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4252, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8N of Pub. L. 95–452 was amended in subsection (b) by striking “committees of Congress” and inserting “congressional committees”. For definition of “appropriate congressional committees”, which would result from application of the amendment by Pub. L. 117–263, see Amendments Not Shown in Text note set out under section 401 of this title.
+This section was derived from section 8N of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 8N of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, § 5272(8), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4252, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 8N of Pub. L. 95–452 was amended in subsection (b) by striking “committees of Congress” and inserting “congressional committees”. For definition of “appropriate congressional committees”, which would result from application of the amendment by Pub. L. 117–263, see Amendments Not Shown in Text note set out under section 401 of this title.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 421 | 5 U.S.C. App. (IGA § 8N) | Pub. L. 95–452, § 8N, as added Pub. L. 114–317, § 6(7), Dec. 16, 2016, 130 Stat. 1604. |
+| 421 | 5 U.S.C. App. (IGA § 8N) | Pub. L. 95–452, § 8N, as added Pub. L. 114–317, § 6(7), Dec. 16, 2016, 130 Stat. 1604. |
 
 **Editorial Notes**
 
 **References in Text**
 
-The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919. Chapter 12 of the Act is classified generally to subchapter XI (§ 2161 et seq.) of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919. Chapter 12 of the Act is classified generally to subchapter XI (§ 2161 et seq.) of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-## § 422. Transfer of functions
+## § 422. Transfer of functions
 
 **(a) In General.—** There shall be transferred—
 
@@ -3540,13 +3540,13 @@ except that there shall not be transferred to an Inspector General under paragra
 
 **(d) Lapse of Office or Agency and Compensation for Transferred Positions With Comparable Duties.—** In any case in which all the functions, powers, and duties of any office or agency are transferred pursuant to this subsection, such office or agency shall lapse. Any person who, on October 1, 1978, held a position compensated in accordance with the General Schedule, and who, without a break in service, is appointed in an Office of Inspector General to a position having duties comparable to those performed immediately preceding such appointment shall continue to be compensated in the new position at not less than the rate provided for the previous position, for the duration of service in the new position.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4252.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4252.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 422 | 5 U.S.C. App. (IGA § 9) | Pub. L. 95–452, § 9, Oct. 12, 1978, 92 Stat. 1107; Pub. L. 96–88, title V, § 508(n)(2), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–252, title XI, § 1117(a)(2), (3), Sept. 8, 1982, 96 Stat. 750; Pub. L. 100–504, title I, § 102(d), Oct. 18, 1988, 102 Stat. 2516; Pub. L. 103–82, title II, § 202(g)(3)(A), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–296, title I, § 108(*l*)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 105–206, title I, § 1103(c)(1), July 22, 1998, 112 Stat. 708; Pub. L. 107–189, § 22(c), June 14, 2002, 116 Stat. 708; Pub. L. 107–296, title XI, § 1112(a)(2), Nov. 25, 2002, 116 Stat. 2276. |
+| 422 | 5 U.S.C. App. (IGA § 9) | Pub. L. 95–452, § 9, Oct. 12, 1978, 92 Stat. 1107; Pub. L. 96–88, title V, § 508(n)(2), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–252, title XI, § 1117(a)(2), (3), Sept. 8, 1982, 96 Stat. 750; Pub. L. 100–504, title I, § 102(d), Oct. 18, 1988, 102 Stat. 2516; Pub. L. 103–82, title II, § 202(g)(3)(A), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–296, title I, § 108(*l*)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 105–206, title I, § 1103(c)(1), July 22, 1998, 112 Stat. 708; Pub. L. 107–189, § 22(c), June 14, 2002, 116 Stat. 708; Pub. L. 107–296, title XI, § 1112(a)(2), Nov. 25, 2002, 116 Stat. 2276. |
 
 In subsection (a)(1)(K), the words “Federal Transit Administration” are substituted for “Urban Mass Transportation Administration” because of section 3004(b) of the Federal Transit Act Amendments of 1991 (Public Law 102–240, title III, 49 U.S.C. 107 note).
 
@@ -3560,11 +3560,11 @@ In subsection (d), the date “October 1, 1978” is substituted for “the effe
 
 **References in Text**
 
-Section 208 of the Department of Energy Organization Act, referred to in subsec. (a)(1)(E), is section 208 of Pub. L. 95–91, title II, Aug. 4, 1977, 91 Stat. 575, which was classified to section 7138 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 100–504, title I, § 102(e)(1)(A), Oct. 18, 1988, 102 Stat. 2517.
+Section 208 of the Department of Energy Organization Act, referred to in subsec. (a)(1)(E), is section 208 of Pub. L. 95–91, title II, Aug. 4, 1977, 91 Stat. 575, which was classified to section 7138 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 100–504, title I, § 102(e)(1)(A), Oct. 18, 1988, 102 Stat. 2517.
 
-Title II of Public Law 94–505, referred to in subsec. (a)(1)(F), is title II of Pub. L. 94–505, Oct. 15, 1976, 90 Stat. 2429, which was classified generally to sections 3521 to 3527 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 100–504, title I, § 102(e)(2), Oct. 18, 1988, 102 Stat. 2517.
+Title II of Public Law 94–505, referred to in subsec. (a)(1)(F), is title II of Pub. L. 94–505, Oct. 15, 1976, 90 Stat. 2429, which was classified generally to sections 3521 to 3527 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 100–504, title I, § 102(e)(2), Oct. 18, 1988, 102 Stat. 2517.
 
-Section 23 of the Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(S), is section 23 of act Aug. 29, 1935, ch. 812, as added, which was classified to section 231v of Title 45, Railroads, and was repealed by Pub. L. 100–504, title I, § 102(e)(3), Oct. 18, 1988, 102 Stat. 2517.
+Section 23 of the Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(S), is section 23 of act Aug. 29, 1935, ch. 812, as added, which was classified to section 231v of Title 45, Railroads, and was repealed by Pub. L. 100–504, title I, § 102(e)(3), Oct. 18, 1988, 102 Stat. 2517.
 
 The Social Security Independence and Program Improvements Act of 1994, referred to in subsec. (a)(1)(W), is Pub. L. 103–296, Aug. 15, 1995, 108 Stat. 1464. Section 105(a)(2) of the Act is set out as a note under section 901 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1305 of Title 42 and Tables.
 
@@ -3582,7 +3582,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 **Additional Provisions Related to Treasury Inspector General for Tax Administration**
 
-Pub. L. 105–206, title I, § 1103(c)(2)–(4), July 22, 1998, 112 Stat. 708, provided that:
+Pub. L. 105–206, title I, § 1103(c)(2)–(4), July 22, 1998, 112 Stat. 708, provided that:
 
 > **“(2) Termination of Office of Chief Inspector.—** Effective upon the transfer of functions under the amendment made by paragraph (1) [enacting subsec. (a)(1)(L)(ii) of former section 9 of Pub. L. 95–452, see subsec. (a)(1)(L)(ii) of this section], the Office of Chief Inspector of the Internal Revenue Service is terminated.
 
@@ -3592,13 +3592,13 @@ Pub. L. 105–206, title I, § 1103(c)(2)–(4), July 22, 1998, 112 Stat. 708,
 
 **Continuation of Service of Certain Inspectors General**
 
-Pub. L. 100–504, title I, § 102(e)(4), Oct. 18, 1988, 102 Stat. 2517, as amended by Pub. L. 117–286, § 4(b)(19), Dec. 27, 2022, 136 Stat. 4345, provided that: “Any individual who, on the date of enactment of this Act [Oct. 18, 1988], is serving as the Inspector General of the Department of Energy, the Department of Health and Human Services, or the Railroad Retirement Board, shall continue to serve in such position until such individual dies, resigns, or is removed from office in accordance with section 403(b) of title 5, United States Code.”
+Pub. L. 100–504, title I, § 102(e)(4), Oct. 18, 1988, 102 Stat. 2517, as amended by Pub. L. 117–286, § 4(b)(19), Dec. 27, 2022, 136 Stat. 4345, provided that: “Any individual who, on the date of enactment of this Act [Oct. 18, 1988], is serving as the Inspector General of the Department of Energy, the Department of Health and Human Services, or the Railroad Retirement Board, shall continue to serve in such position until such individual dies, resigns, or is removed from office in accordance with section 403(b) of title 5, United States Code.”
 
 **Transfer of Audit Personnel to Inspector General, Department of Defense**
 
-Pub. L. 97–252, title XI, § 1117(e), Sept. 8, 1982, 96 Stat. 753, provided that: “In addition to the positions transferred to the Office of the Inspector General of the Department of Defense, pursuant to the amendments made by subsection (a) of this section [see Tables for classification], the Secretary of Defense shall transfer to the Office of Inspector General of the Department of Defense not less than one hundred additional audit positions. The Inspector General of the Department of Defense shall fill such positions with persons trained to perform contract audits.”
+Pub. L. 97–252, title XI, § 1117(e), Sept. 8, 1982, 96 Stat. 753, provided that: “In addition to the positions transferred to the Office of the Inspector General of the Department of Defense, pursuant to the amendments made by subsection (a) of this section [see Tables for classification], the Secretary of Defense shall transfer to the Office of Inspector General of the Department of Defense not less than one hundred additional audit positions. The Inspector General of the Department of Defense shall fill such positions with persons trained to perform contract audits.”
 
-## § 423. Pay of Inspectors General
+## § 423. Pay of Inspectors General
 
 **(a) Certain Inspectors General.—**
 
@@ -3614,15 +3614,15 @@ Pub. L. 97–252, title XI, § 1117(e), Sept. 8, 1982, 96 Stat. 753, provided 
 
 **(2) Nonreduction in pay.—** Notwithstanding any other provision of law, career Federal employees serving on an appointment made pursuant to statutory authority found other than in section 3392 of this title shall not suffer a reduction in pay, not including any bonus or performance award, as a result of being appointed to the position of Inspector General.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4255.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4255.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 423(a) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(a)(3), Oct. 14, 2008, 122 Stat. 4303; Pub. L. 111–259, title IV, § 405(b), Oct. 7, 2010, 124 Stat. 2719. |
-| 423(b) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(b)(1), Oct. 14, 2008, 122 Stat. 4303. |
-| 423(c) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(c), Oct. 14, 2008, 122 Stat. 4303. |
+| 423(a) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(a)(3), Oct. 14, 2008, 122 Stat. 4303; Pub. L. 111–259, title IV, § 405(b), Oct. 7, 2010, 124 Stat. 2719. |
+| 423(b) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(b)(1), Oct. 14, 2008, 122 Stat. 4303. |
+| 423(c) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(c), Oct. 14, 2008, 122 Stat. 4303. |
 
 In subsection (a)(1), the words “the Special Inspector General for Iraq Reconstruction” are omitted as obsolete. The Special Inspector General for Iraq Reconstruction was established as a temporary oversight entity and ceased operations on September 30, 2013. In the document “Final Listing of Audit and Other Reports Issued by SIGIR on Reconstruction Spending in Iraq” (78 FR 58596), see the statement by the Special Inspector General for Iraq Reconstruction in the paragraph headed “Location of SIGIR Records After Closure”.
 
@@ -3630,9 +3630,9 @@ In subsection (a)(1), the words “the Special Inspector General for Iraq Recons
 
 **Pay of Inspectors General**
 
-Pub. L. 110–409, § 4(b)–(d), Oct. 14, 2008, 122 Stat. 4304, as amended by Pub. L. 117–286, §§ 4(b)(6), 7, Dec. 27, 2022, 136 Stat. 4343, 4361, provided that:
+Pub. L. 110–409, § 4(b)–(d), Oct. 14, 2008, 122 Stat. 4304, as amended by Pub. L. 117–286, §§ 4(b)(6), 7, Dec. 27, 2022, 136 Stat. 4343, 4361, provided that:
 
-> **“[(b)** , (c). Repealed. Pub. L. 117–286, § 7, Dec. 27, 2022, 136 Stat. 4361.]
+> **“[(b)** , (c). Repealed. Pub. L. 117–286, § 7, Dec. 27, 2022, 136 Stat. 4361.]
 
 > **“(d) Savings Provision.—** Nothing in this section [amending former section 3 of Pub. L. 95–452 (see 5 U.S.C. 403), section 5315 of this title, and section 12651e of Title 42, The Public Health and Welfare, and enacting provisions formerly set out as a note under section 3 of Pub. L. 95–452 (see 5 U.S.C. 423(a))] shall have the effect of reducing the rate of pay of any individual serving on the date of enactment of this section [Oct. 14, 2008] as an Inspector General of—
 
@@ -3644,7 +3644,7 @@ Pub. L. 110–409, § 4(b)–(d), Oct. 14, 2008, 122 Stat. 4304, as amended by
 
 > **“(4)** any other entity of the Government for which the position of Inspector General is established by statute.”
 
-## § 424. Establishment of the Council of the Inspectors General on Integrity and Efficiency
+## § 424. Establishment of the Council of the Inspectors General on Integrity and Efficiency
 
 **(a) Establishment and Mission.—**
 
@@ -3998,11 +3998,11 @@ Pub. L. 110–409, § 4(b)–(d), Oct. 14, 2008, 122 Stat. 4304, as amended by
 
 **(4) Effective date.—** This subsection shall take effect on the date that is 30 days after the date of receipt by the Council of the Inspectors General on Integrity and Efficiency of an appropriation for the implementation of this subsection.
 
-(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4256.)
+(Pub. L. 117–286, § 3(b), Dec. 27, 2022, 136 Stat. 4256.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 11 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 11 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5204(b), 5232–5234, 5236, 5237, 5251, 5271, 5272(9), Dec. 23, 2022, 136 Stat. 3233–3235, 3237–3239, 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4256, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 11 of Pub. L. 95–452 was amended as follows:
+This section was derived from section 11 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 11 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§ 5204(b), 5232–5234, 5236, 5237, 5251, 5271, 5272(9), Dec. 23, 2022, 136 Stat. 3233–3235, 3237–3239, 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4256, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 11 of Pub. L. 95–452 was amended as follows:
 
 (1) in subsection (b)(3)(B)(viii)—
 
@@ -4024,13 +4024,13 @@ This section was derived from section 11 of the Inspector General Act of 1978, P
 
 *“(D) Report on expenditures*.—*Not later than November 30 of each year, the Chairperson shall submit to the appropriate committees or subcommittees of Congress, including the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives, a report on the expenditures of the Council for the preceding fiscal year, including from direct appropriations to the Council, interagency funding pursuant to subparagraph (A), a revolving fund pursuant to subparagraph (B), or any other source.”; and*
 
-(C) in paragraph (5)(B), by striking “, allegations of reprisal,” and inserting “and allegations of reprisal (including the timely and appropriate handling and consideration of protected disclosures and allegations of reprisal that are internal to an Office of Inspector General)”; and
+(C) in paragraph (5)(B), by striking “, allegations of reprisal,” and inserting “and allegations of reprisal (including the timely and appropriate handling and consideration of protected disclosures and allegations of reprisal that are internal to an Office of Inspector General)”; and
 
 (3) in subsection (d)—
 
 (A) in paragraph (5)(B)—
 
-(i) in clause (ii), by striking the period at the end and inserting “, the length of time the Integrity Committee has been evaluating the allegation of wrongdoing, and a description of any previous written notice provided under this clause with respect to the allegation of wrongdoing, including the description provided for why additional time was needed.”; and
+(i) in clause (ii), by striking the period at the end and inserting “, the length of time the Integrity Committee has been evaluating the allegation of wrongdoing, and a description of any previous written notice provided under this clause with respect to the allegation of wrongdoing, including the description provided for why additional time was needed.”; and
 
 (ii) by adding at the end the following:
 
@@ -4040,7 +4040,7 @@ This section was derived from section 11 of the Inspector General Act of 1978, P
 
 *“(II) the Chair and Ranking Minority Member of the Committee on Oversight and Reform of the House of Representatives.”;*
 
-(B) in paragraph (7)(B)(i)(V), by inserting “, and that an investigation of an Office of Inspector General of an establishment is conducted by another Office of Inspector General of an establishment” after “size”;
+(B) in paragraph (7)(B)(i)(V), by inserting “, and that an investigation of an Office of Inspector General of an establishment is conducted by another Office of Inspector General of an establishment” after “size”;
 
 (C) in paragraph (8)—
 
@@ -4102,7 +4102,7 @@ For definition of “appropriate congressional committees” as seen in the abov
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 424(a) through (e)(3) | 5 U.S.C. App. (IGA § 11) | Pub. L. 95–452, § 11, as added Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305; amended Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title III, § 304, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 114–317, §§ 3, 7(b)(1)(B), (d)(2)(G), Dec. 16, 2016, 130 Stat. 1596, 1605, 1606; Pub. L. 115–192, § 2(b), June 25, 2018, 132 Stat. 1503; Pub. L. 116–260, div. U, title V, § 501(a), Dec. 27, 2020, 134 Stat. 2293. |
+| 424(a) through (e)(3) | 5 U.S.C. App. (IGA § 11) | Pub. L. 95–452, § 11, as added Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305; amended Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title III, § 304, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 114–317, §§ 3, 7(b)(1)(B), (d)(2)(G), Dec. 16, 2016, 130 Stat. 1596, 1605, 1606; Pub. L. 115–192, § 2(b), June 25, 2018, 132 Stat. 1503; Pub. L. 116–260, div. U, title V, § 501(a), Dec. 27, 2020, 134 Stat. 2293. |
 | 424(e)(4) | (no source) |  |
 
 In subsection (b)(1)(I), the words “Government Publishing Office” are substituted for “Government Printing Office” because of section 1301(b) of the Legislative Branch Appropriations Act, 2015 (Public Law 113–235, div. H, 44 U.S.C. note prec. 301).
@@ -4139,7 +4139,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **Pandemic Response Accountability Committee**
 
-Pub. L. 116–136, div. B, title V, § 15010, Mar. 27, 2020, 134 Stat. 533, as amended by Pub. L. 116–260, div. O, title VIII, § 801(b), Dec. 27, 2020, 134 Stat. 2155; Pub. L. 117–103, div. E, title VII, § 750, Mar. 15, 2022, 136 Stat. 307; Pub. L. 119–21, title IX, § 90102(b), July 4, 2025, 139 Stat. 363, provided that:
+Pub. L. 116–136, div. B, title V, § 15010, Mar. 27, 2020, 134 Stat. 533, as amended by Pub. L. 116–260, div. O, title VIII, § 801(b), Dec. 27, 2020, 134 Stat. 2155; Pub. L. 117–103, div. E, title VII, § 750, Mar. 15, 2022, 136 Stat. 307; Pub. L. 119–21, title IX, § 90102(b), July 4, 2025, 139 Stat. 363, provided that:
 
 > **“(a)** In this section—
 
@@ -4437,7 +4437,7 @@ Pub. L. 116–136, div. B, title V, § 15010, Mar. 27, 2020, 134 Stat. 533, as
 
 **Additional Oversight of Financial Regulatory System**
 
-Pub. L. 111–203, title IX, § 989E, July 21, 2010, 124 Stat. 1946, provided that:
+Pub. L. 111–203, title IX, § 989E, July 21, 2010, 124 Stat. 1946, provided that:
 
 > **“(a) Council of Inspectors General on Financial Oversight.—**
 
@@ -4483,4 +4483,4 @@ Pub. L. 111–203, title IX, § 989E, July 21, 2010, 124 Stat. 1946, provided 
 
 **Special Inspectors General for Iraq and Afghanistan Reconstruction**
 
-Pub. L. 111–15, § 7, Apr. 24, 2009, 123 Stat. 1605, as amended by Pub. L. 117–286, § 4(b)(20), Dec. 27, 2022, 136 Stat. 4345, provided that: “The Special Inspector General for Iraq Reconstruction and the Special Inspector General for Afghanistan Reconstruction shall be a [sic] members of the Council of the Inspectors General on Integrity and Efficiency established under section 424 of title 5, United States Code, until the date of termination of the Office of the Special Inspector General for Iraq Reconstruction and the Office of the Special Inspector General for Afghanistan Reconstruction, respectively.”
+Pub. L. 111–15, § 7, Apr. 24, 2009, 123 Stat. 1605, as amended by Pub. L. 117–286, § 4(b)(20), Dec. 27, 2022, 136 Stat. 4345, provided that: “The Special Inspector General for Iraq Reconstruction and the Special Inspector General for Afghanistan Reconstruction shall be a [sic] members of the Council of the Inspectors General on Integrity and Efficiency established under section 424 of title 5, United States Code, until the date of termination of the Office of the Special Inspector General for Iraq Reconstruction and the Office of the Special Inspector General for Afghanistan Reconstruction, respectively.”

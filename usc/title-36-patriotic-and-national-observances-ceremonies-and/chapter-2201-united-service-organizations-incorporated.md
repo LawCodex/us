@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2201—UNITED SERVICE ORGANIZATIONS, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2201—UNITED SERVICE ORGANIZATIONS, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch2201"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 2201—UNITED SERVICE ORGANIZATIONS, INCORPORATED
 
-## § 220101. Organization
+## § 220101. Organization
 
 **(a) Federal Charter.—** United Service Organizations, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
 
@@ -27,11 +27,11 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220101 | 36:1301. | Dec. 29, 1979, Pub. L. 96–165, § 1, 93 Stat. 1267. |
+| 220101 | 36:1301. | Dec. 29, 1979, Pub. L. 96–165, § 1, 93 Stat. 1267. |
 
 This section is substituted for the source provision for consistency in the revised title and to eliminate unnecessary and executed language.
 
-## § 220102. Purposes
+## § 220102. Purposes
 
 The purposes of the corporation are—
 
@@ -53,13 +53,13 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220102 | 36:1302. | Dec. 29, 1979, Pub. L. 96–165, § 2, 93 Stat. 1268. |
+| 220102 | 36:1302. | Dec. 29, 1979, Pub. L. 96–165, § 2, 93 Stat. 1268. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
 In clause (4), the words “and to accept the cooperation of individual citizens in accomplishing its purposes” are omitted as unnecessary because of clause (1) of this section.
 
-## § 220103. Membership
+## § 220103. Membership
 
 Except as provided in this chapter, the rights, privileges, and designation of classes of members are as provided in the bylaws. The membership of the corporation consists of—
 
@@ -73,11 +73,11 @@ Except as provided in this chapter, the rights, privileges, and designation of c
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220103 | 36:1305(a). | Dec. 29, 1979, Pub. L. 96–165, § 5(a), 93 Stat. 1270. |
+| 220103 | 36:1305(a). | Dec. 29, 1979, Pub. L. 96–165, § 5(a), 93 Stat. 1270. |
 
 The text of 36:1305(a) (1st–3d sentences) and the word “Thereafter” are omitted as executed and obsolete.
 
-## § 220104. Governing body
+## § 220104. Governing body
 
 **(a) Board of Governors.—**
 
@@ -99,13 +99,13 @@ The text of 36:1305(a) (1st–3d sentences) and the word “Thereafter” are om
 
 **(2)** The corporation may have other officers as provided in the bylaws.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1460; Pub. L. 109–284, § 5(11), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1460; Pub. L. 109–284, § 5(11), Sept. 27, 2006, 120 Stat. 1212.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220104(a) | 36:1305(b), (c). | Dec. 29, 1979, Pub. L. 96–165, § 5(b)–(d), 93 Stat. 1270. |
+| 220104(a) | 36:1305(b), (c). | Dec. 29, 1979, Pub. L. 96–165, § 5(b)–(d), 93 Stat. 1270. |
 | 220104(b) | 36:1305(d). |  |
 
 In subsection (a)(1), the words “The board of governors is the governing body of the corporation” are substituted for “The management of the corporation shall be entrusted to a board of governors” for consistency in the revised title.
@@ -120,7 +120,7 @@ In subsection (b)(1), the word “offered” is substituted for “tendered” t
 
 2006—Subsec. (a)(2)(B). Pub. L. 109–284 substituted “Defense” for “State”.
 
-## § 220105. Powers
+## § 220105. Powers
 
 The corporation has all the powers necessary and proper to carry out the purposes stated in section 220102 of this title, including the power—
 
@@ -156,7 +156,7 @@ The corporation has all the powers necessary and proper to carry out the purpose
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220105 | 36:1303. | Dec. 29, 1979, Pub. L. 96–165, §§ 3, 6 (1st sentence), 93 Stat. 1269, 1271. |
+| 220105 | 36:1303. | Dec. 29, 1979, Pub. L. 96–165, §§ 3, 6 (1st sentence), 93 Stat. 1269, 1271. |
 |  | 36:1306 (1st sentence). |  |
 
 In this section, the text of 36:1306 (1st sentence) is omitted as executed and obsolete.
@@ -175,13 +175,13 @@ In clause (8), the words “for the purposes of the corporation” are omitted a
 
 In clause (10), the words “State, regional, local, and overseas” are omitted as unnecessary. The words “as needed” are substituted for “in such manner and by such rules as it deems appropriate so as to enable it”, and the words “to carry out the purposes stated in section 220102 of this title” are substituted for “to carry out its powers and accomplish the objects and purposes set forth in section 1302 of this title”, to eliminate unnecessary words.
 
-In clause (11), the word “raise” is omitted as included in “solicit”. The words “for the accomplishment of its purposes” are omitted as unnecessary. The words “accept gifts, legacies, devises, and support in furtherance thereof” are omitted as unnecessary because the same power is granted by the words “solicit funds” (in this clause) and “acquire [and] own . . . property” (in clause (6)).
+In clause (11), the word “raise” is omitted as included in “solicit”. The words “for the accomplishment of its purposes” are omitted as unnecessary. The words “accept gifts, legacies, devises, and support in furtherance thereof” are omitted as unnecessary because the same power is granted by the words “solicit funds” (in this clause) and “acquire [and] own . . . property” (in clause (6)).
 
 In clause (12), the words “in any court” are omitted as unnecessary.
 
 In clause (13), the words “any other act” are substituted for “any and all acts and things” for consistency in the revised title and to eliminate unnecessary words. The words “the purposes stated in section 220102 of this title” are substituted for “the foregoing specifically enumerated purposes” for clarity and consistency in the revised section.
 
-## § 220106. Exclusive right to name, seals, emblems, and badges
+## § 220106. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its councils, organizations, chapters, and affiliates have the exclusive right to use the names “United Service Organizations, Incorporated” and “USO” and seals, emblems, and badges the corporation adopts.
 
@@ -191,21 +191,21 @@ The corporation and its councils, organizations, chapters, and affiliates have t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220106 | 36:1307. | Dec. 29, 1979, Pub. L. 96–165, § 7, 93 Stat. 1271. |
+| 220106 | 36:1307. | Dec. 29, 1979, Pub. L. 96–165, § 7, 93 Stat. 1271. |
 
 The word “sole” is omitted as included in “exclusive”, and the words “such distinctive insignia” are omitted as included in “seals, emblems, and badges”. The words “lawfully” and “in carrying out its purposes” are omitted as unnecessary.
 
-## § 220107. Assistance by Department of Defense
+## § 220107. Assistance by Department of Defense
 
 The Secretary of Defense may make the resources of the Department of Defense, including access to General Services Administration supplies and services through the Federal Supply Schedule of the General Services Administration, available to the corporation to the extent compatible with the primary mission of the Department and in accordance with guidelines issued by the Secretary.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1461; Pub. L. 108–375, div. A, title VIII, § 820, Oct. 28, 2004, 118 Stat. 2016.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1461; Pub. L. 108–375, div. A, title VIII, § 820, Oct. 28, 2004, 118 Stat. 2016.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220107 | 36:1308. | Dec. 29, 1979, Pub. L. 96–165, § 8, 93 Stat. 1271. |
+| 220107 | 36:1308. | Dec. 29, 1979, Pub. L. 96–165, § 8, 93 Stat. 1271. |
 
 The words “Secretary of Defense” are substituted for “Department of Defense” the first time they appear because of 10:113(a). The words “in order to facilitate the accomplishment of the USO mission” are omitted as unnecessary.
 
@@ -213,9 +213,9 @@ The words “Secretary of Defense” are substituted for “Department of Defens
 
 **Amendments**
 
-2004—Pub. L. 108–375 inserted “, including access to General Services Administration supplies and services through the Federal Supply Schedule of the General Services Administration,” after “Department of Defense”.
+2004—Pub. L. 108–375 inserted “, including access to General Services Administration supplies and services through the Federal Supply Schedule of the General Services Administration,” after “Department of Defense”.
 
-## § 220108. Restrictions
+## § 220108. Restrictions
 
 **(a) Profit.—** The corporation may not engage in business activity for profit unless the activity is substantially related to—
 
@@ -237,7 +237,7 @@ The words “Secretary of Defense” are substituted for “Department of Defens
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220108(a) | 36:1304(b) (last sentence). | Dec. 29, 1979, Pub. L. 96–165, § 4(a), (b), (d), (e), 93 Stat. 1269, 1270. |
+| 220108(a) | 36:1304(b) (last sentence). | Dec. 29, 1979, Pub. L. 96–165, § 4(a), (b), (d), (e), 93 Stat. 1269, 1270. |
 | 220108(b) | 36:1304(b) (1st sentence). |  |
 | 220108(c) | 36:1304(a). |  |
 | 220108(d) | 36:1304(d). |  |
@@ -251,7 +251,7 @@ In subsection (c), the words “as an organization” are omitted as unnecessary
 
 In subsection (d) the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 220109. Duty to maintain corporate status
+## § 220109. Duty to maintain corporate status
 
 The corporation shall maintain its status as a corporation incorporated under the laws of New York, another State, or the District of Columbia.
 
@@ -261,9 +261,9 @@ The corporation shall maintain its status as a corporation incorporated under th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220109 | 36:1306 (last sentence). | Dec. 29, 1979, Pub. L. 96–165, § 6 (last sentence), 93 Stat. 1271. |
+| 220109 | 36:1306 (last sentence). | Dec. 29, 1979, Pub. L. 96–165, § 6 (last sentence), 93 Stat. 1271. |
 
-## § 220110. Principal office
+## § 220110. Principal office
 
 The principal office of the corporation shall be in New York, New York, or another place decided by the board of governors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States and in foreign countries.
 
@@ -273,11 +273,11 @@ The principal office of the corporation shall be in New York, New York, or anoth
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220110 | 36:1309(a). | Dec. 29, 1979, Pub. L. 96–165, § 9(a), 93 Stat. 1271. |
+| 220110 | 36:1309(a). | Dec. 29, 1979, Pub. L. 96–165, § 9(a), 93 Stat. 1271. |
 
 The word “various” is omitted as unnecessary.
 
-## § 220111. Records and inspection
+## § 220111. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -295,11 +295,11 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220111 | 36:1309(d). | Dec. 29, 1979, Pub. L. 96–165, § 9(d), 93 Stat. 1271. |
+| 220111 | 36:1309(d). | Dec. 29, 1979, Pub. L. 96–165, § 9(d), 93 Stat. 1271. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 220112. Service of process
+## § 220112. Service of process
 
 **(a) District of Columbia.—** The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -311,12 +311,12 @@ The word “records” is substituted for “books and records” for consistenc
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220112(a) | 36:1309(b). | Dec. 29, 1979, Pub. L. 96–165, § 9(b), (c), 93 Stat. 1271. |
+| 220112(a) | 36:1309(b). | Dec. 29, 1979, Pub. L. 96–165, § 9(b), (c), 93 Stat. 1271. |
 | 220112(b) | 36:1309(c). |  |
 
 In subsection (b), the words “with the secretary of state or other designated official” are substituted for “in the office of the secretary” for clarity and consistency in the revised title. The words “local, State, or regional”, “post office”, and “authorized” are omitted as unnecessary. The words “in that State, territory, or possession” are added (the 2d time they appear), and the words “legal process” are substituted for “local process”, for clarity and consistency in the revised title.
 
-## § 220113. Annual report
+## § 220113. Annual report
 
 The corporation shall make public an annual report on its activities for the prior calendar year.
 
@@ -326,11 +326,11 @@ The corporation shall make public an annual report on its activities for the pri
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220113 | 36:1309(e), (f). | Dec. 29, 1979, Pub. L. 96–165, § 9(e), (f), 93 Stat. 1272. |
+| 220113 | 36:1309(e), (f). | Dec. 29, 1979, Pub. L. 96–165, § 9(e), (f), 93 Stat. 1272. |
 
 The word “proceedings” is omitted for consistency in the revised title. The text of 36:1309(f) is omitted as unnecessary because of 36:1101(50).
 
-## § 220114. Distribution of assets on dissolution or final liquidation
+## § 220114. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of governors, but in compliance with the bylaws. However, the assets of the corporation are irrevocably dedicated to charitable purposes and may not inure to the benefit of a private person except a fund, foundation, or organization operated exclusively for charitable purposes.
 
@@ -340,6 +340,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220114 | 36:1304(c). | Dec. 29, 1979, Pub. L. 96–165, § 4(c), 93 Stat. 1269. |
+| 220114 | 36:1304(c). | Dec. 29, 1979, Pub. L. 96–165, § 4(c), 93 Stat. 1269. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary. The words “as provided by” are substituted for “in accordance with the determination of” for consistency in the revised title. The words “and all Federal and State laws applicable thereto” are omitted as unnecessary. The word “organization” is substituted for “association, or corporation” to omit unnecessary words.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 175—FEDERAL MOTOR VEHICLE EXPENDITURE CONTROL
 
-## § 17501. Definitions
+## § 17501. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -37,13 +37,13 @@ In this chapter, the following definitions apply:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17501 | 40:913. | Pub. L. 99–272, title XV, § 15313, Apr. 7, 1986, 100 Stat. 338. |
+| 17501 | 40:913. | Pub. L. 99–272, title XV, § 15313, Apr. 7, 1986, 100 Stat. 338. |
 
 In this section, the text of 40:913(2)–(4) is omitted as unnecessary because the complete names of the Director of the Office of Management and Budget, the Administrator of General Services, and the Comptroller General of the United States are used the first time the terms appear in a section.
 
-Before clause (1), the words “this chapter” were in the original “this title”, meaning title XV (§§ 15101 to 15313) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272, 100 Stat. 330). In clause (2)(B), the words “this chapter” are substituted for “this part” as the probable intent of Congress because title XV of the Act does not contain part designations and the intention was probably to refer to title XV, which is restated as this chapter.
+Before clause (1), the words “this chapter” were in the original “this title”, meaning title XV (§§ 15101 to 15313) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272, 100 Stat. 330). In clause (2)(B), the words “this chapter” are substituted for “this part” as the probable intent of Congress because title XV of the Act does not contain part designations and the intention was probably to refer to title XV, which is restated as this chapter.
 
-## § 17502. Monitoring system
+## § 17502. Monitoring system
 
 The head of each executive agency shall designate one office, officer, or employee of the agency—
 
@@ -57,11 +57,11 @@ The head of each executive agency shall designate one office, officer, or employ
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17502 | 40:901. | Pub. L. 99–272, title XV, § 15301, Apr. 7, 1986, 100 Stat. 335. |
+| 17502 | 40:901. | Pub. L. 99–272, title XV, § 15301, Apr. 7, 1986, 100 Stat. 335. |
 
 In this chapter, the words “executive agency” are substituted for “executive agency, including the Department of Defense” to eliminate unnecessary words.
 
-## § 17503. Data collection
+## § 17503. Data collection
 
 **(a) Cost Identification and Analysis.—** The head of each executive agency shall develop a system to identify, collect, and analyze data with respect to all costs (including obligations and outlays) the agency incurs in the operation, maintenance, acquisition, and disposition of motor vehicles, including vehicles owned or leased by the Federal Government and privately owned vehicles used for official purposes.
 
@@ -77,11 +77,11 @@ In this chapter, the words “executive agency” are substituted for “executi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17503 | 40:902. | Pub. L. 99–272, title XV, § 15302, Apr. 7, 1986, 100 Stat. 335. |
+| 17503 | 40:902. | Pub. L. 99–272, title XV, § 15302, Apr. 7, 1986, 100 Stat. 335. |
 
 In subsection (a), the words “including vehicles owned or leased by the Federal Government and privately owned vehicles” are substituted for “Government-owned vehicles, leased vehicles, and privately owned vehicles” for clarity.
 
-## § 17504. Agency statements with respect to motor vehicle use
+## § 17504. Agency statements with respect to motor vehicle use
 
 **(a) Contents of Statement.—** The head of each executive agency shall include with the appropriation request the agency submits under section 1108 of title 31 for each fiscal year, a statement—
 
@@ -95,13 +95,13 @@ In subsection (a), the words “including vehicles owned or leased by the Federa
 
 **(b) Compliance With Requirements.—** The head of each executive agency shall comply with the requirements prescribed under section 17503(b) of this title in preparing each statement required under subsection (a).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1284; Pub. L. 109–284, § 6(32), Sept. 27, 2006, 120 Stat. 1214.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1284; Pub. L. 109–284, § 6(32), Sept. 27, 2006, 120 Stat. 1214.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17504 | 40:903. | Pub. L. 99–272, title XV, § 15303, Apr. 7, 1986, 100 Stat. 336. |
+| 17504 | 40:903. | Pub. L. 99–272, title XV, § 15303, Apr. 7, 1986, 100 Stat. 336. |
 
 **Editorial Notes**
 
@@ -109,7 +109,7 @@ In subsection (a), the words “including vehicles owned or leased by the Federa
 
 2006—Subsec. (b). Pub. L. 109–284 substituted “With” for “with” in heading.
 
-## § 17505. Presidential report
+## § 17505. Presidential report
 
 **(a) Summary and Analysis of Agency Statements.—** The President shall include with the budget transmitted under section 1105 of title 31 for each fiscal year, or in a separate written report to Congress for that fiscal year, a summary and analysis of the statements most recently submitted by the heads of executive agencies pursuant to section 17504(a) of this title.
 
@@ -127,11 +127,11 @@ In subsection (a), the words “including vehicles owned or leased by the Federa
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17505 | 40:904. | Pub. L. 99–272, title XV, § 15304, Apr. 7, 1986, 100 Stat. 336. |
+| 17505 | 40:904. | Pub. L. 99–272, title XV, § 15304, Apr. 7, 1986, 100 Stat. 336. |
 
 The text of 40:904(b) is omitted as executed.
 
-## § 17506. Reduction of storage and disposal costs
+## § 17506. Reduction of storage and disposal costs
 
 The Administrator of General Services shall take such actions as may be necessary to reduce motor vehicle storage and disposal costs and to improve the rate of return on motor vehicle sales through a program of vehicle reconditioning prior to sale.
 
@@ -141,9 +141,9 @@ The Administrator of General Services shall take such actions as may be necessar
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17506 | 40:907. | Pub. L. 99–272, title XV, § 15307, Apr. 7, 1986, 100 Stat. 337. |
+| 17506 | 40:907. | Pub. L. 99–272, title XV, § 15307, Apr. 7, 1986, 100 Stat. 337. |
 
-## § 17507. Savings
+## § 17507. Savings
 
 **(a) Actions by President Required.—** The President shall establish, for each executive agency, goals to reduce outlays for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles in order to reduce, by fiscal year 1988, the total amount of outlays by all executive agencies for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles to an amount which is $150,000,000 less than the amount for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles requested by the President in the budget submitted under section 1105 of title 31 for fiscal year 1986.
 
@@ -155,7 +155,7 @@ The Administrator of General Services shall take such actions as may be necessar
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17507 | 40:908. | Pub. L. 99–272, title XV, § 15308, Apr. 7, 1986, 100 Stat. 337. |
+| 17507 | 40:908. | Pub. L. 99–272, title XV, § 15308, Apr. 7, 1986, 100 Stat. 337. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -201,7 +201,7 @@ Pub. L. 114–65, Oct. 7, 2015, 129 Stat. 551, provided that:
 
 > **“(C)** delays the return to service of a vehicle.”
 
-## § 17508. Compliance
+## § 17508. Compliance
 
 **(a) Administrator of General Services.—** The Administrator of General Services shall comply with and be subject to this chapter with regard to all motor vehicles that are used within the General Services Administration for official purposes.
 
@@ -213,9 +213,9 @@ Pub. L. 114–65, Oct. 7, 2015, 129 Stat. 551, provided that:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17508 | 40:909. | Pub. L. 99–272, title XV, § 15309, Apr. 7, 1986, 100 Stat. 338. |
+| 17508 | 40:909. | Pub. L. 99–272, title XV, § 15309, Apr. 7, 1986, 100 Stat. 338. |
 
-## § 17509. Applicability
+## § 17509. Applicability
 
 **(a) Priority in Reducing Headquarters Use.—** The heads of executive agencies shall give first priority to meeting the goals established by the President under section 17507(a) of this title by reducing the costs of administrative motor vehicles used at the headquarters and regional headquarters of executive agencies, rather than by reducing the costs of motor vehicles used by line agency personnel working in agency field operations or activities.
 
@@ -227,9 +227,9 @@ Pub. L. 114–65, Oct. 7, 2015, 129 Stat. 551, provided that:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17509 | 40:910. | Pub. L. 99–272, title XV, § 15310, Apr. 7, 1986, 100 Stat. 338. |
+| 17509 | 40:910. | Pub. L. 99–272, title XV, § 15310, Apr. 7, 1986, 100 Stat. 338. |
 
-## § 17510. Cooperation
+## § 17510. Cooperation
 
 The Director of the Office of Management and Budget and the Administrator of General Services shall cooperate closely in the implementation of this chapter.
 
@@ -239,4 +239,4 @@ The Director of the Office of Management and Budget and the Administrator of Gen
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17510 | 40:911. | Pub. L. 99–272, title XV, § 15311, Apr. 7, 1986, 100 Stat. 338. |
+| 17510 | 40:911. | Pub. L. 99–272, title XV, § 15311, Apr. 7, 1986, 100 Stat. 338. |

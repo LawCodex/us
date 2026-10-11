@@ -17,13 +17,13 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—UNITED STATES CORAL REEF TASK FORCE
 
-### § 6451. Establishment
+### § 6451. Establishment
 
 There is established a task force to lead, coordinate, and strengthen Federal Government actions to better preserve, conserve, and restore coral reef ecosystems, to be known as the “United States Coral Reef Task Force” (in this subchapter referred to as the “Task Force”).
 
-(Pub. L. 117–263, div. J, title C, § 10011, Dec. 23, 2022, 136 Stat. 3951.)
+(Pub. L. 117–263, div. J, title C, § 10011, Dec. 23, 2022, 136 Stat. 3951.)
 
-### § 6452. Duties
+### § 6452. Duties
 
 The duties of the Task Force shall be—
 
@@ -55,7 +55,7 @@ The duties of the Task Force shall be—
 
 **(B)** updated estimates of the direct and indirect economic activity supported by, and other benefits associated with, those coral reef resources.
 
-(Pub. L. 117–263, div. J, title C, § 10012, Dec. 23, 2022, 136 Stat. 3952.)
+(Pub. L. 117–263, div. J, title C, § 10012, Dec. 23, 2022, 136 Stat. 3952.)
 
 **Editorial Notes**
 
@@ -67,7 +67,7 @@ Executive Order 13089, referred to in par. (2)(A), is Ex. Ord. No. 13089, June 1
 
 Section 6404 of this title, referred to in par. (4)(B), was in the original “section 205 of that Act” and was translated as meaning section 205 of title II of Pub. L. 106–562, known as the Coral Reef Conservation Act of 2000, to reflect the probable intent of Congress.
 
-### § 6453. Membership
+### § 6453. Membership
 
 **(a) Voting membership** The voting members of the Task Force shall be—
 
@@ -101,9 +101,9 @@ Section 6404 of this title, referred to in par. (4)(B), was in the original “s
 
 **(7)** A member appointed by the President of the Republic of Palau.
 
-(Pub. L. 117–263, div. J, title C, § 10013, Dec. 23, 2022, 136 Stat. 3952.)
+(Pub. L. 117–263, div. J, title C, § 10013, Dec. 23, 2022, 136 Stat. 3952.)
 
-### § 6454. Responsibilities of Federal agency members
+### § 6454. Responsibilities of Federal agency members
 
 **(a) In general** A member of the Task Force described in section 6453(a) of this title shall—
 
@@ -123,7 +123,7 @@ In addition to their responsibilities under subsection (a), the co-chairpersons 
 
 Not less than 30 days before each meeting of the Task Force, the program offices of the National Oceanic and Atmospheric Administration responsible for implementing this title shall provide a briefing to the relevant congressional committees on efforts and spending associated with such implementation.
 
-(Pub. L. 117–263, div. J, title C, § 10014, Dec. 23, 2022, 136 Stat. 3953.)
+(Pub. L. 117–263, div. J, title C, § 10014, Dec. 23, 2022, 136 Stat. 3953.)
 
 **Editorial Notes**
 
@@ -131,7 +131,7 @@ Not less than 30 days before each meeting of the Task Force, the program offices
 
 This title, referred to in subsec. (c), means title C of division J of Pub. L. 117–263, which enacted this chapter and sections 6401 to 6415 of this title, amended section 7504 of this title, repealed sections 6401 to 6409 of this title, and enacted provisions set out as a note under section 6401 of this title. For complete classification of title C to the Code, see Tables.
 
-### § 6455. Working groups
+### § 6455. Working groups
 
 **(a) In general**
 
@@ -147,21 +147,21 @@ The co-chairpersons may allow nongovernmental organizations as appropriate, incl
 
 **(d) Nonapplicability of Federal Advisory Committee Act**
 
-The Federal Advisory Committee Act (5 U.S.C. App.) 1
+The Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to working groups established under this section.
 
-(Pub. L. 117–263, div. J, title C, § 10015, Dec. 23, 2022, 136 Stat. 3954.)
+(Pub. L. 117–263, div. J, title C, § 10015, Dec. 23, 2022, 136 Stat. 3954.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
-### § 6456. Definitions
+### § 6456. Definitions
 
 In this subchapter:
 
@@ -179,7 +179,7 @@ In this subchapter:
 
 The terms “conservation”, “coral”, “coral reef”, “coral reef ecosystem”, “covered reef manager”, “covered State”, “Federal reef manager”, “National Coral Reef Resilience Strategy”, “restoration”, “resilience”, and “State” have the meanings given those terms in section 6415 of this title, as added by this division.
 
-(Pub. L. 117–263, div. J, title C, § 10016, Dec. 23, 2022, 136 Stat. 3954.)
+(Pub. L. 117–263, div. J, title C, § 10016, Dec. 23, 2022, 136 Stat. 3954.)
 
 **Editorial Notes**
 
@@ -189,7 +189,7 @@ This division, referred to in par. (2), is div. J of Pub. L. 117–263, Dec. 23,
 
 ## SUBCHAPTER II—DEPARTMENT OF THE INTERIOR CORAL REEF AUTHORITIES
 
-### § 6471. Coral reef conservation and restoration assistance
+### § 6471. Coral reef conservation and restoration assistance
 
 **(a) In general** The Secretary of the Interior may provide scientific expertise and technical assistance, and subject to the availability of appropriations, financial assistance for the conservation and restoration of coral reefs consistent with all applicable laws governing resource management in Federal, State, and Tribal waters, including—
 
@@ -237,7 +237,7 @@ The terms “conservation”, “coral reef”, “covered reef manager”, “c
 
 The terms “Tribe” and “Tribal” refer to Indian Tribes (as defined in section 5130 of title 25).
 
-(Pub. L. 117–263, div. J, title C, § 10021, Dec. 23, 2022, 136 Stat. 3954.)
+(Pub. L. 117–263, div. J, title C, § 10021, Dec. 23, 2022, 136 Stat. 3954.)
 
 **Editorial Notes**
 
@@ -247,13 +247,13 @@ This division, referred to in subsecs. (a)(2), (b)(4), (c)(1), (d)(2), and (e)(1
 
 This Act, referred to in subsec. (b)(3), is Pub. L. 117–263, Dec. 23, 2022, 136 Stat. 2395, known as the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023. For complete classification of this Act to the Code, see Tables.
 
-The Coral Reef Conservation Act of 2000, referred to in subsec. (b)(3), (4), is Pub. L. 106–562, title II, § 201, Dec. 23, 2000, 114 Stat. 2800, which is classified generally to chapter 83 (§ 6401 et seq.) of this title. The Act was amended by section 10001 of div. J of Pub. L. 117–263, Dec. 23, 2022, 136 Stat. 3931. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+The Coral Reef Conservation Act of 2000, referred to in subsec. (b)(3), (4), is Pub. L. 106–562, title II, § 201, Dec. 23, 2000, 114 Stat. 2800, which is classified generally to chapter 83 (§ 6401 et seq.) of this title. The Act was amended by section 10001 of div. J of Pub. L. 117–263, Dec. 23, 2022, 136 Stat. 3931. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
 This title, referred to in subsec. (b)(4), means title C of division J of Pub. L. 117–263, which enacted this chapter and sections 6401 to 6415 of this title, amended section 7504 of this title, repealed sections 6401 to 6409 of this title, and enacted provisions set out as a note under section 6401 of this title. For complete classification of title C to the Code, see Tables.
 
 ## SUBCHAPTER III—SUSAN L. WILLIAMS NATIONAL CORAL REEF MANAGEMENT FELLOWSHIP
 
-### § 6481. Susan L. Williams National Coral Reef Management Fellowship
+### § 6481. Susan L. Williams National Coral Reef Management Fellowship
 
 **(a) Definitions** In this section:
 
@@ -331,7 +331,7 @@ Except as provided in paragraph (2), the non-Federal share of the costs of a fel
 
 The Secretary may waive the application of paragraph (1) to a fellowship if the Secretary finds that such waiver is necessary to support a project that the Secretary has identified as a high priority.
 
-(Pub. L. 117–263, div. J, title C, § 10031, Dec. 23, 2022, 136 Stat. 3955.)
+(Pub. L. 117–263, div. J, title C, § 10031, Dec. 23, 2022, 136 Stat. 3955.)
 
 **Editorial Notes**
 

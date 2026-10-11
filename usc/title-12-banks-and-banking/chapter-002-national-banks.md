@@ -17,27 +17,27 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—ORGANIZATION AND GENERAL PROVISIONS
 
-### § 21. Formation of national banking associations; incorporators; articles of association
+### § 21. Formation of national banking associations; incorporators; articles of association
 
 Associations for carrying on the business of banking under title 62 of the Revised Statutes may be formed by any number of natural persons, not less in any case than five. They shall enter into articles of association, which shall specify in general terms the object for which the association is formed, and may contain any other provisions, not inconsistent with law, which the association may see fit to adopt for the regulation of its business and the conduct of its affairs. These articles shall be signed by the persons uniting to form the association, and a copy of them shall be forwarded to the Comptroller of the Currency, to be filed and preserved in his office.
 
-(R.S. § 5133.)
+(R.S. § 5133.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5133 derived from act June 3, 1864, ch. 106, § 5, 13 Stat. 100, which was the National Bank Act. See section 38 of this title.
+R.S. § 5133 derived from act June 3, 1864, ch. 106, § 5, 13 Stat. 100, which was the National Bank Act. See section 38 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–251, § 1, Dec. 18, 2014, 128 Stat. 2888, provided that: “This Act [enacting section 1308 of Title 18, Crimes and Criminal Procedure, amending sections 25a, 339, 1463, and 1829a of this title and sections 1952, 1953, and 1955 of Title 18, and enacting provisions set out as a note under section 25a of this title] may be cited as the ‘American Savings Promotion Act’.”
+Pub. L. 113–251, § 1, Dec. 18, 2014, 128 Stat. 2888, provided that: “This Act [enacting section 1308 of Title 18, Crimes and Criminal Procedure, amending sections 25a, 339, 1463, and 1829a of this title and sections 1952, 1953, and 1955 of Title 18, and enacting provisions set out as a note under section 25a of this title] may be cited as the ‘American Savings Promotion Act’.”
 
 **Executive Documents**
 
@@ -45,13 +45,13 @@ Pub. L. 113–251, § 1, Dec. 18, 2014, 128 Stat. 2888, provided that: “This
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 21a. Amendment of articles of association
+### § 21a. Amendment of articles of association
 
 Except as otherwise specifically provided by law, or by the articles of association of the particular national banking association, the articles of association of a national banking association may be amended with respect to any lawful matter, and any action requiring the approval of the stockholders of such association may be had by the approving vote of the holders of a majority of the voting shares of the stock of the association obtained at a meeting of the stockholders called and held pursuant to notice given by mail at least ten days prior to the meeting or pursuant to a waiver of such notice given by all stockholders entitled to receive notice of such meeting. A certified copy of every amendment to the articles of association adopted by the shareholders of a national banking association shall be forwarded to the Comptroller of the Currency, to be filed and preserved in his office.
 
-(Pub. L. 86–230, § 13, Sept. 8, 1959, 73 Stat. 458.)
+(Pub. L. 86–230, § 13, Sept. 8, 1959, 73 Stat. 458.)
 
-### § 22. Organization certificate
+### § 22. Organization certificate
 
 The persons uniting to form such an association shall, under their hands, make an organization certificate, which shall specifically state:
 
@@ -65,17 +65,17 @@ Fourth. The names and places of residence of the shareholders and the number of 
 
 Fifth. The fact that the certificate is made to enable such persons to avail themselves of the advantages of title 62 of the Revised Statutes.
 
-(R.S. § 5134; Pub. L. 86–230, § 25, Sept. 8, 1959, 73 Stat. 466; Pub. L. 97–320, title IV, § 405(b), Oct. 15, 1982, 96 Stat. 1512.)
+(R.S. § 5134; Pub. L. 86–230, § 25, Sept. 8, 1959, 73 Stat. 466; Pub. L. 97–320, title IV, § 405(b), Oct. 15, 1982, 96 Stat. 1512.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in par. Fifth, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 23 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in par. Fifth, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 23 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5134 derived from act June 3, 1864, ch. 106, § 6, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
+R.S. § 5134 derived from act June 3, 1864, ch. 106, § 6, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -83,17 +83,17 @@ R.S. § 5134 derived from act June 3, 1864, ch. 106, § 6, 13 Stat. 101, whi
 
 1959—Par. First. Pub. L. 86–230 substituted “which named shall include the word ‘national’ and be” for “which name shall be”.
 
-### § 23. Acknowledgment and filing of certificate
+### § 23. Acknowledgment and filing of certificate
 
 The organization certificate shall be acknowledged before a judge of some court of record, or notary public; and shall be, together with the acknowledgment thereof, authenticated by the seal of such court, or notary, transmitted to the Comptroller of the Currency, who shall record and carefully preserve the same in his office.
 
-(R.S. § 5135.)
+(R.S. § 5135.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5135 derived from act June 3, 1864, ch. 106, § 6, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
+R.S. § 5135 derived from act June 3, 1864, ch. 106, § 6, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
 
 **Executive Documents**
 
@@ -101,7 +101,7 @@ R.S. § 5135 derived from act June 3, 1864, ch. 106, § 6, 13 Stat. 101, whi
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 24. Corporate powers of associations
+### § 24. Corporate powers of associations
 
 Upon duly making and filing articles of association and an organization certificate a national banking association shall become, as from the date of the execution of its organization certificate, a body corporate, and as such, and in the name designated in the organization certificate, it shall have power—
 
@@ -117,21 +117,21 @@ Fifth. To elect or appoint directors, and by its board of directors to appoint a
 
 Sixth. To prescribe, by its board of directors, bylaws not inconsistent with law, regulating the manner in which its stock shall be transferred, its directors elected or appointed, its officers appointed, its property transferred, its general business conducted, and the privileges granted to it by law exercised and enjoyed.
 
-Seventh. To exercise by its board of directors or duly authorized officers or agents, subject to law, all such incidental powers as shall be necessary to carry on the business of banking; by discounting and negotiating promissory notes, drafts, bills of exchange, and other evidences of debt; by receiving deposits; by buying and selling exchange, coin, and bullion; by loaning money on personal security; and by obtaining, issuing, and circulating notes according to the provisions of title 62 of the Revised Statutes. The business of dealing in securities and stock by the association shall be limited to purchasing and selling such securities and stock without recourse, solely upon the order, and for the account of, customers, and in no case for its own account, and the association shall not underwrite any issue of securities or stock; *Provided*, That the association may purchase for its own account investment securities under such limitations and restrictions as the Comptroller of the Currency may by regulation prescribe. In no event shall the total amount of the investment securities of any one obligor or maker, held by the association for its own account, exceed at any time 10 per centum of its capital stock actually paid in and unimpaired and 10 per centum of its unimpaired surplus fund, except that this limitation shall not require any association to dispose of any securities lawfully held by it on August 23, 1935. As used in this section the term “investment securities” shall mean marketable obligations, evidencing indebtedness of any person, copartnership, association, or corporation in the form of bonds, notes and/or debentures commonly known as investment securities under such further definition of the term “investment securities” as may by regulation be prescribed by the Comptroller of the Currency. Except as hereinafter provided or otherwise permitted by law, nothing herein contained shall authorize the purchase by the association for its own account of any shares of stock of any corporation. The limitations and restrictions herein contained as to dealing in, underwriting and purchasing for its own account, investment securities shall not apply to obligations of the United States, or general obligations of any State or of any political subdivision thereof, or obligations of the Washington Metropolitan Area Transit Authority which are guaranteed by the Secretary of Transportation under section 9 of the National Capital Transportation Act of 1969, or obligations issued under authority of the Federal Farm Loan Act, as amended, or issued by the thirteen banks for cooperatives or any of them or the Federal Home Loan Banks, or obligations which are insured by the Secretary of Housing and Urban Development under title XI of the National Housing Act [12 U.S.C. 1749aaa et seq.] or obligations which are insured by the Secretary of Housing and Urban Development (hereinafter in this sentence referred to as the “Secretary”) pursuant to section 207 of the National Housing Act [12 U.S.C. 1713], if the debentures to be issued in payment of such insured obligations are guaranteed as to principal and interest by the United States, or obligations, participations, or other instruments of or issued by the Federal National Mortgage Association, or the Government National Mortgage Association, or mortgages, obligations or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 305 or section 306 of the Federal Home Loan Mortgage Corporation Act [12 U.S.C. 1454 or 1455], or obligations of the Federal Financing Bank or obligations of the Environmental Financing Authority, or obligations or other instruments or securities of the Student Loan Marketing Association, or such obligations of any local public agency (as defined in section 110(h) of the Housing Act of 1949 [42 U.S.C. 1460(h)]) as are secured by an agreement between the local public agency and the Secretary in which the local public agency agrees to borrow from said Secretary, and said Secretary agrees to lend to said local public agency, monies in an aggregate amount which (together with any other monies irrevocably committed to the payment of interest on such obligations) will suffice to pay, when due, the interest on and all installments (including the final installment) of the principal of such obligations, which monies under the terms of said agreement are required to be used for such payments, or such obligations of a public housing agency (as defined in the United States Housing Act of 1937, as amended [42 U.S.C. 1437 et seq.]) as are secured (1) by an agreement between the public housing agency and the Secretary in which the public housing agency agrees to borrow from the Secretary, and the Secretary agrees to lend to the public housing agency, prior to the maturity of such obligations, monies in an amount which (together with any other monies irrevocably committed to the payment of interest on such obligations) will suffice to pay the principal of such obligations with interest to maturity thereon, which monies under the terms of said agreement are required to be used for the purpose of paying the principal of and the interest on such obligations at their maturity, (2) by a pledge of annual contributions under an annual contributions contract between such public housing agency and the Secretary if such contract shall contain the covenant by the Secretary which is authorized by subsection (g) of section 6 of the United States Housing Act of 1937, as amended [42 U.S.C. 1437d(g)], and if the maximum sum and the maximum period specified in such contract pursuant to said subsection 6(g) [42 U.S.C. 1437d(g)] shall not be less than the annual amount and the period for payment which are requisite to provide for the payment when due of all installments of principal and interest on such obligations, or (3) by a pledge of both annual contributions under an annual contributions contract containing the covenant by the Secretary which is authorized by section 6(g) of the United States Housing Act of 1937 [42 U.S.C. 1437d(g)], and a loan under an agreement between the local public housing agency and the Secretary in which the public housing agency agrees to borrow from the Secretary, and the Secretary agrees to lend to the public housing agency, prior to the maturity of the obligations involved, moneys in an amount which (together with any other moneys irrevocably committed under the annual contributions contract to the payment of principal and interest on such obligations) will suffice to provide for the payment when due of all installments of principal and interest on such obligations, which moneys under the terms of the agreement are required to be used for the purpose of paying the principal and interest on such obligations at their maturity: *Provided*, That in carrying on the business commonly known as the safe-deposit business the association shall not invest in the capital stock of a corporation organized under the law of any State to conduct a safe-deposit business in an amount in excess of 15 per centum of the capital stock of the association actually paid in and unimpaired and 15 per centum of its unimpaired surplus. The limitations and restrictions herein contained as to dealing in and underwriting investment securities shall not apply to obligations issued by the International Bank for Reconstruction and Development, the European Bank for Reconstruction and Development, the Inter-American Development Bank 1
+Seventh. To exercise by its board of directors or duly authorized officers or agents, subject to law, all such incidental powers as shall be necessary to carry on the business of banking; by discounting and negotiating promissory notes, drafts, bills of exchange, and other evidences of debt; by receiving deposits; by buying and selling exchange, coin, and bullion; by loaning money on personal security; and by obtaining, issuing, and circulating notes according to the provisions of title 62 of the Revised Statutes. The business of dealing in securities and stock by the association shall be limited to purchasing and selling such securities and stock without recourse, solely upon the order, and for the account of, customers, and in no case for its own account, and the association shall not underwrite any issue of securities or stock; *Provided*, That the association may purchase for its own account investment securities under such limitations and restrictions as the Comptroller of the Currency may by regulation prescribe. In no event shall the total amount of the investment securities of any one obligor or maker, held by the association for its own account, exceed at any time 10 per centum of its capital stock actually paid in and unimpaired and 10 per centum of its unimpaired surplus fund, except that this limitation shall not require any association to dispose of any securities lawfully held by it on August 23, 1935. As used in this section the term “investment securities” shall mean marketable obligations, evidencing indebtedness of any person, copartnership, association, or corporation in the form of bonds, notes and/or debentures commonly known as investment securities under such further definition of the term “investment securities” as may by regulation be prescribed by the Comptroller of the Currency. Except as hereinafter provided or otherwise permitted by law, nothing herein contained shall authorize the purchase by the association for its own account of any shares of stock of any corporation. The limitations and restrictions herein contained as to dealing in, underwriting and purchasing for its own account, investment securities shall not apply to obligations of the United States, or general obligations of any State or of any political subdivision thereof, or obligations of the Washington Metropolitan Area Transit Authority which are guaranteed by the Secretary of Transportation under section 9 of the National Capital Transportation Act of 1969, or obligations issued under authority of the Federal Farm Loan Act, as amended, or issued by the thirteen banks for cooperatives or any of them or the Federal Home Loan Banks, or obligations which are insured by the Secretary of Housing and Urban Development under title XI of the National Housing Act [12 U.S.C. 1749aaa et seq.] or obligations which are insured by the Secretary of Housing and Urban Development (hereinafter in this sentence referred to as the “Secretary”) pursuant to section 207 of the National Housing Act [12 U.S.C. 1713], if the debentures to be issued in payment of such insured obligations are guaranteed as to principal and interest by the United States, or obligations, participations, or other instruments of or issued by the Federal National Mortgage Association, or the Government National Mortgage Association, or mortgages, obligations or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 305 or section 306 of the Federal Home Loan Mortgage Corporation Act [12 U.S.C. 1454 or 1455], or obligations of the Federal Financing Bank or obligations of the Environmental Financing Authority, or obligations or other instruments or securities of the Student Loan Marketing Association, or such obligations of any local public agency (as defined in section 110(h) of the Housing Act of 1949 [42 U.S.C. 1460(h)]) as are secured by an agreement between the local public agency and the Secretary in which the local public agency agrees to borrow from said Secretary, and said Secretary agrees to lend to said local public agency, monies in an aggregate amount which (together with any other monies irrevocably committed to the payment of interest on such obligations) will suffice to pay, when due, the interest on and all installments (including the final installment) of the principal of such obligations, which monies under the terms of said agreement are required to be used for such payments, or such obligations of a public housing agency (as defined in the United States Housing Act of 1937, as amended [42 U.S.C. 1437 et seq.]) as are secured (1) by an agreement between the public housing agency and the Secretary in which the public housing agency agrees to borrow from the Secretary, and the Secretary agrees to lend to the public housing agency, prior to the maturity of such obligations, monies in an amount which (together with any other monies irrevocably committed to the payment of interest on such obligations) will suffice to pay the principal of such obligations with interest to maturity thereon, which monies under the terms of said agreement are required to be used for the purpose of paying the principal of and the interest on such obligations at their maturity, (2) by a pledge of annual contributions under an annual contributions contract between such public housing agency and the Secretary if such contract shall contain the covenant by the Secretary which is authorized by subsection (g) of section 6 of the United States Housing Act of 1937, as amended [42 U.S.C. 1437d(g)], and if the maximum sum and the maximum period specified in such contract pursuant to said subsection 6(g) [42 U.S.C. 1437d(g)] shall not be less than the annual amount and the period for payment which are requisite to provide for the payment when due of all installments of principal and interest on such obligations, or (3) by a pledge of both annual contributions under an annual contributions contract containing the covenant by the Secretary which is authorized by section 6(g) of the United States Housing Act of 1937 [42 U.S.C. 1437d(g)], and a loan under an agreement between the local public housing agency and the Secretary in which the public housing agency agrees to borrow from the Secretary, and the Secretary agrees to lend to the public housing agency, prior to the maturity of the obligations involved, moneys in an amount which (together with any other moneys irrevocably committed under the annual contributions contract to the payment of principal and interest on such obligations) will suffice to provide for the payment when due of all installments of principal and interest on such obligations, which moneys under the terms of the agreement are required to be used for the purpose of paying the principal and interest on such obligations at their maturity: *Provided*, That in carrying on the business commonly known as the safe-deposit business the association shall not invest in the capital stock of a corporation organized under the law of any State to conduct a safe-deposit business in an amount in excess of 15 per centum of the capital stock of the association actually paid in and unimpaired and 15 per centum of its unimpaired surplus. The limitations and restrictions herein contained as to dealing in and underwriting investment securities shall not apply to obligations issued by the International Bank for Reconstruction and Development, the European Bank for Reconstruction and Development, the Inter-American Development Bank 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 Bank for Economic Cooperation and Development in the Middle East and North Africa,,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
-the North American Development Bank, the Asian Development Bank, the African Development Bank, the Inter-American Investment Corporation, or the International Finance Corporation,,2 or obligations issued by any State or political subdivision or any agency of a State or political subdivision for housing, university, or dormitory purposes, which are at the time eligible for purchase by a national bank for its own account, nor to bonds, notes and other obligations issued by the Tennessee Valley Authority or by the United States Postal Service: *Provided*, That no association shall hold obligations issued by any of said organizations as a result of underwriting, dealing, or purchasing for its own account (and for this purpose obligations as to which it is under commitment shall be deemed to be held by it) in a total amount exceeding at any one time 10 per centum of its capital stock actually paid in and unimpaired and 10 per centum of its unimpaired surplus fund. Notwithstanding any other provision in this paragraph, the association may purchase for its own account shares of stock issued by a corporation authorized to be created pursuant to title IX of the Housing and Urban Development Act of 1968 [42 U.S.C. 3931 et seq.], and may make investments in a partnership, limited partnership, or joint venture formed pursuant to section 907(a) or 907(c) of that Act [42 U.S.C. 3937(a) or 3937(c)]. Notwithstanding any other provision of this paragraph, the association may purchase for its own account shares of stock issued by any State housing corporation incorporated in the State in which the association is located and may make investments in loans and commitments for loans to any such corporation: *Provided*, That in no event shall the total amount of such stock held for its own account and such investments in loans and commitments made by the association exceed at any time 5 per centum of its capital stock actually paid in and unimpaired plus 5 per centum of its unimpaired surplus fund. Notwithstanding any other provision in this paragraph, the association may purchase for its own account shares of stock issued by a corporation organized solely for the purpose of making loans to farmers and ranchers for agricultural purposes, including the breeding, raising, fattening, or marketing of livestock. However, unless the association owns at least 80 per centum of the stock of such agricultural credit corporation the amount invested by the association at any one time in the stock of such corporation shall not exceed 20 per centum of the unimpaired capital and surplus of the association: *Provided further*, That notwithstanding any other provision of this paragraph, the association may purchase for its own account shares of stock of a bank insured by the Federal Deposit Insurance Corporation or a holding company which owns or controls such an insured bank if the stock of such bank or company is owned exclusively (except to the extent directors’ qualifying shares are required by law) by depository institutions or depository institution holding companies (as defined in section 1813 of this title) and such bank or company and all subsidiaries thereof are engaged exclusively in providing services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a “banker’s bank”), but in no event shall the total amount of such stock held by the association in any bank or holding company exceed at any time 10 per centum of the association’s capital stock and paid in and unimpaired surplus and in no event shall the purchase of such stock result in an association’s acquiring more than 5 per centum of any class of voting securities of such bank or company. The limitations and restrictions contained in this paragraph as to an association purchasing for its own account investment securities shall not apply to securities that (A) are offered and sold pursuant to section 4(5) of the Securities Act of 1933 (15 U.S.C. 77d(5)); 3
+the North American Development Bank, the Asian Development Bank, the African Development Bank, the Inter-American Investment Corporation, or the International Finance Corporation,,2 or obligations issued by any State or political subdivision or any agency of a State or political subdivision for housing, university, or dormitory purposes, which are at the time eligible for purchase by a national bank for its own account, nor to bonds, notes and other obligations issued by the Tennessee Valley Authority or by the United States Postal Service: *Provided*, That no association shall hold obligations issued by any of said organizations as a result of underwriting, dealing, or purchasing for its own account (and for this purpose obligations as to which it is under commitment shall be deemed to be held by it) in a total amount exceeding at any one time 10 per centum of its capital stock actually paid in and unimpaired and 10 per centum of its unimpaired surplus fund. Notwithstanding any other provision in this paragraph, the association may purchase for its own account shares of stock issued by a corporation authorized to be created pursuant to title IX of the Housing and Urban Development Act of 1968 [42 U.S.C. 3931 et seq.], and may make investments in a partnership, limited partnership, or joint venture formed pursuant to section 907(a) or 907(c) of that Act [42 U.S.C. 3937(a) or 3937(c)]. Notwithstanding any other provision of this paragraph, the association may purchase for its own account shares of stock issued by any State housing corporation incorporated in the State in which the association is located and may make investments in loans and commitments for loans to any such corporation: *Provided*, That in no event shall the total amount of such stock held for its own account and such investments in loans and commitments made by the association exceed at any time 5 per centum of its capital stock actually paid in and unimpaired plus 5 per centum of its unimpaired surplus fund. Notwithstanding any other provision in this paragraph, the association may purchase for its own account shares of stock issued by a corporation organized solely for the purpose of making loans to farmers and ranchers for agricultural purposes, including the breeding, raising, fattening, or marketing of livestock. However, unless the association owns at least 80 per centum of the stock of such agricultural credit corporation the amount invested by the association at any one time in the stock of such corporation shall not exceed 20 per centum of the unimpaired capital and surplus of the association: *Provided further*, That notwithstanding any other provision of this paragraph, the association may purchase for its own account shares of stock of a bank insured by the Federal Deposit Insurance Corporation or a holding company which owns or controls such an insured bank if the stock of such bank or company is owned exclusively (except to the extent directors’ qualifying shares are required by law) by depository institutions or depository institution holding companies (as defined in section 1813 of this title) and such bank or company and all subsidiaries thereof are engaged exclusively in providing services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a “banker’s bank”), but in no event shall the total amount of such stock held by the association in any bank or holding company exceed at any time 10 per centum of the association’s capital stock and paid in and unimpaired surplus and in no event shall the purchase of such stock result in an association’s acquiring more than 5 per centum of any class of voting securities of such bank or company. The limitations and restrictions contained in this paragraph as to an association purchasing for its own account investment securities shall not apply to securities that (A) are offered and sold pursuant to section 4(5) of the Securities Act of 1933 (15 U.S.C. 77d(5)); 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 (B) are small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(53)]); or (C) are mortgage related securities (as that term is defined in section 3(a)(41) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(41)).4
 
-<sup>4</sup>  So in original. The period probably should be preceded by an additional closing parenthesis.
+<sup>4</sup> So in original. The period probably should be preceded by an additional closing parenthesis.
 
 The exception provided for the securities described in subparagraphs (A), (B), and (C) shall be subject to such regulations as the Comptroller of the Currency may prescribe, including regulations prescribing minimum size of the issue (at the time of initial distribution) or minimum aggregate sales prices, or both.
 
@@ -155,7 +155,7 @@ Tenth. To invest in tangible personal property, including, without limitation, v
 
 Eleventh. To make investments directly or indirectly, each of which is designed primarily to promote the public welfare, including the welfare of low- and moderate-income communities or families (such as by providing housing, services, or jobs). An association shall not make any such investment if the investment would expose the association to unlimited liability. The Comptroller of the Currency shall limit an association’s investments in any 1 project and an association’s aggregate investments under this paragraph. An association’s aggregate investments under this paragraph shall not exceed an amount equal to the sum of 5 percent of the association’s capital stock actually paid in and unimpaired and 5 percent of the association’s unimpaired surplus fund, unless the Comptroller determines by order that the higher amount will pose no significant risk to the affected deposit insurance fund, and the association is adequately capitalized. In no case shall an association’s aggregate investments under this paragraph exceed an amount equal to the sum of 15 percent of the association’s capital stock actually paid in and unimpaired and 15 percent of the association’s unimpaired surplus fund. The foregoing standards and limitations apply to investments under this paragraph made by a national bank directly and by its subsidiaries.
 
-(R.S. § 5136; July 1, 1922, ch. 257, § 1, 42 Stat. 767; Feb. 25, 1927, ch. 191, § 2, 44 Stat. 1226; June 16, 1933, ch. 89, § 16, 48 Stat. 184; Aug. 23, 1935, ch. 614, title III, § 308, 49 Stat. 709; Feb. 3, 1938, ch. 13, § 13, 52 Stat. 26; June 11, 1940, ch. 301, 54 Stat. 261; June 29, 1949, ch. 276, § 1, 63 Stat. 298; July 15, 1949, ch. 338, title VI, § 602(a), 63 Stat. 439; Apr. 9, 1952, ch. 169, 66 Stat. 49; Aug. 2, 1954, ch. 649, title II, § 203, 68 Stat. 622; Aug. 23, 1954, ch. 834, § 2, 68 Stat. 771; July 26, 1956, ch. 741, title II, § 201(c), 70 Stat. 667; Pub. L. 86–137, § 2, Aug. 6, 1959, 73 Stat. 285; Pub. L. 86–147, § 10, Aug. 7, 1959, 73 Stat. 301; Pub. L. 86–230, § 1(a), Sept. 8, 1959, 73 Stat. 457; Pub. L. 86–278, Sept. 16, 1959, 73 Stat. 563; Pub. L. 86–372, title IV, § 420, Sept. 23, 1959, 73 Stat. 679; Pub. L. 88–560, title VII, § 701(c), Sept. 2, 1964, 78 Stat. 800; Pub. L. 89–369, § 10, Mar. 16, 1966, 80 Stat. 72; Pub. L. 89–754, title V, § 504(a)(1), Nov. 3, 1966, 80 Stat. 1277; Pub. L. 90–19, § 27(a), May 25, 1967, 81 Stat. 28; Pub. L. 90–448, title VIII, §§ 804(c), 807(j), title IX, § 911, title XVII, § 1705(h), Aug. 1, 1968, 82 Stat. 543, 545, 550, 605; Pub. L. 91–375, § 6(d), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–318, title I, § 133(c)(1), June 23, 1972, 86 Stat. 269; Pub. L. 91–143, § 12(b), Dec. 9, 1969, as added Pub. L. 92–349, title I, § 101, July 13, 1972, 86 Stat. 466; Pub. L. 92–500, § 12(n), Oct. 18, 1972, 86 Stat. 902; Pub. L. 93–100, § 5(c), Aug. 16, 1973, 87 Stat. 344; Pub. L. 93–224, § 14, Dec. 29, 1973, 87 Stat. 941; Pub. L. 93–234, title II, § 207, Dec. 31, 1973, 87 Stat. 984; Pub. L. 93–383, title II, § 206, title VIII, § 805(c)(1), Aug. 22, 1974, 88 Stat. 668, 726; Pub. L. 96–221, title VII, § 711, Mar. 31, 1980, 94 Stat. 189; Pub. L. 97–35, title XIII, § 1342(a), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–320, title IV, § 404(b), Oct. 15, 1982, 96 Stat. 1511; Pub. L. 97–457, § 18, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 98–440, title I, § 105(c), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–473, title I, § 101(1) [title I, § 101], Oct. 12, 1984, 98 Stat. 1884, 1885; Pub. L. 100–86, title I, § 108, Aug. 10, 1987, 101 Stat. 579; Pub. L. 100–449, title III, § 308, Sept. 28, 1988, 102 Stat. 1877; Pub. L. 101–513, title V, § 562(c)(10)(B), (e)(1)(B), Nov. 5, 1990, 104 Stat. 2036, 2037; Pub. L. 102–485, § 6(a), Oct. 23, 1992, 106 Stat. 2774; Pub. L. 103–182, title V, § 541(h)(1), Dec. 8, 1993, 107 Stat. 2167; Pub. L. 103–325, title II, § 206(c), title III, §§ 322(a)(1), 347(b), Sept. 23, 1994, 108 Stat. 2199, 2226, 2241; Pub. L. 104–208, div. A, title I, § 101(c) [title VII, § 710(b)], title II, § 2704(d)(7), Sept. 30, 1996, 110 Stat. 3009–121, 3009–181, 3009–489; Pub. L. 106–102, title I, § 151, Nov. 12, 1999, 113 Stat. 1384; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(a), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 109–351, title III, § 305(a), Oct. 13, 2006, 120 Stat. 1970; Pub. L. 110–289, div. B, title V, § 2503(a), July 30, 2008, 122 Stat. 2857.)
+(R.S. § 5136; July 1, 1922, ch. 257, § 1, 42 Stat. 767; Feb. 25, 1927, ch. 191, § 2, 44 Stat. 1226; June 16, 1933, ch. 89, § 16, 48 Stat. 184; Aug. 23, 1935, ch. 614, title III, § 308, 49 Stat. 709; Feb. 3, 1938, ch. 13, § 13, 52 Stat. 26; June 11, 1940, ch. 301, 54 Stat. 261; June 29, 1949, ch. 276, § 1, 63 Stat. 298; July 15, 1949, ch. 338, title VI, § 602(a), 63 Stat. 439; Apr. 9, 1952, ch. 169, 66 Stat. 49; Aug. 2, 1954, ch. 649, title II, § 203, 68 Stat. 622; Aug. 23, 1954, ch. 834, § 2, 68 Stat. 771; July 26, 1956, ch. 741, title II, § 201(c), 70 Stat. 667; Pub. L. 86–137, § 2, Aug. 6, 1959, 73 Stat. 285; Pub. L. 86–147, § 10, Aug. 7, 1959, 73 Stat. 301; Pub. L. 86–230, § 1(a), Sept. 8, 1959, 73 Stat. 457; Pub. L. 86–278, Sept. 16, 1959, 73 Stat. 563; Pub. L. 86–372, title IV, § 420, Sept. 23, 1959, 73 Stat. 679; Pub. L. 88–560, title VII, § 701(c), Sept. 2, 1964, 78 Stat. 800; Pub. L. 89–369, § 10, Mar. 16, 1966, 80 Stat. 72; Pub. L. 89–754, title V, § 504(a)(1), Nov. 3, 1966, 80 Stat. 1277; Pub. L. 90–19, § 27(a), May 25, 1967, 81 Stat. 28; Pub. L. 90–448, title VIII, §§ 804(c), 807(j), title IX, § 911, title XVII, § 1705(h), Aug. 1, 1968, 82 Stat. 543, 545, 550, 605; Pub. L. 91–375, § 6(d), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–318, title I, § 133(c)(1), June 23, 1972, 86 Stat. 269; Pub. L. 91–143, § 12(b), Dec. 9, 1969, as added Pub. L. 92–349, title I, § 101, July 13, 1972, 86 Stat. 466; Pub. L. 92–500, § 12(n), Oct. 18, 1972, 86 Stat. 902; Pub. L. 93–100, § 5(c), Aug. 16, 1973, 87 Stat. 344; Pub. L. 93–224, § 14, Dec. 29, 1973, 87 Stat. 941; Pub. L. 93–234, title II, § 207, Dec. 31, 1973, 87 Stat. 984; Pub. L. 93–383, title II, § 206, title VIII, § 805(c)(1), Aug. 22, 1974, 88 Stat. 668, 726; Pub. L. 96–221, title VII, § 711, Mar. 31, 1980, 94 Stat. 189; Pub. L. 97–35, title XIII, § 1342(a), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–320, title IV, § 404(b), Oct. 15, 1982, 96 Stat. 1511; Pub. L. 97–457, § 18, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 98–440, title I, § 105(c), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–473, title I, § 101(1) [title I, § 101], Oct. 12, 1984, 98 Stat. 1884, 1885; Pub. L. 100–86, title I, § 108, Aug. 10, 1987, 101 Stat. 579; Pub. L. 100–449, title III, § 308, Sept. 28, 1988, 102 Stat. 1877; Pub. L. 101–513, title V, § 562(c)(10)(B), (e)(1)(B), Nov. 5, 1990, 104 Stat. 2036, 2037; Pub. L. 102–485, § 6(a), Oct. 23, 1992, 106 Stat. 2774; Pub. L. 103–182, title V, § 541(h)(1), Dec. 8, 1993, 107 Stat. 2167; Pub. L. 103–325, title II, § 206(c), title III, §§ 322(a)(1), 347(b), Sept. 23, 1994, 108 Stat. 2199, 2226, 2241; Pub. L. 104–208, div. A, title I, § 101(c) [title VII, § 710(b)], title II, § 2704(d)(7), Sept. 30, 1996, 110 Stat. 3009–121, 3009–181, 3009–489; Pub. L. 106–102, title I, § 151, Nov. 12, 1999, 113 Stat. 1384; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(a), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 109–351, title III, § 305(a), Oct. 13, 2006, 120 Stat. 1970; Pub. L. 110–289, div. B, title V, § 2503(a), July 30, 2008, 122 Stat. 2857.)
 
 **Amendment of Section**
 
@@ -165,19 +165,19 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in par. Seventh, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22, 23, 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in par. Seventh, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22, 23, 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 Section 9 of the National Capital Transportation Act of 1969, referred to in par. Seventh, is section 9 of Pub. L. 91–143, as added by section 101 of title I of Pub. L. 92–349, July 13, 1972, 86 Stat. 464, which is not classified to the Code.
 
-The Federal Farm Loan Act, referred to in par. Seventh, is act July 17, 1916, ch. 245, 39 Stat. 360, which was classified to section 641 et seq. of this title prior to its repeal by Pub. L. 92–181, § 5.26(a), Dec. 10, 1971, 85 Stat. 624. See chapter 23 (§ 2001 et seq.) of this title.
+The Federal Farm Loan Act, referred to in par. Seventh, is act July 17, 1916, ch. 245, 39 Stat. 360, which was classified to section 641 et seq. of this title prior to its repeal by Pub. L. 92–181, § 5.26(a), Dec. 10, 1971, 85 Stat. 624. See chapter 23 (§ 2001 et seq.) of this title.
 
-The National Housing Act, referred to in par. Seventh, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title XI of the National Housing Act is title XI of act June 27, 1934, ch. 847, as added by act Nov. 3, 1966, Pub. L. 89–754, title V, § 502(a), 80 Stat. 1274, which is classified generally to subchapter IX–B (§ 1749aaa et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. Seventh, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title XI of the National Housing Act is title XI of act June 27, 1934, ch. 847, as added by act Nov. 3, 1966, Pub. L. 89–754, title V, § 502(a), 80 Stat. 1274, which is classified generally to subchapter IX–B (§ 1749aaa et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 Section 110 of the Housing Act of 1949 [42 U.S.C. 1460], referred to in par. Seventh, was omitted from the Code pursuant to section 5316 of Title 42, The Public Health and Welfare, which terminated authority to make grants or loans under title I of that Act [42 U.S.C. 1450 et seq.] after Jan. 1, 1975.
 
-The United States Housing Act of 1937, referred to in par. Seventh, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, and is classified to chapter 8 (§ 1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in par. Seventh, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, and is classified to chapter 8 (§ 1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Housing and Urban Development Act of 1968, referred to in par. Seventh, is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IX of the Housing and Urban Development Act is classified principally to chapter 49 (§ 3931 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1701 of this title and Tables.
+The Housing and Urban Development Act of 1968, referred to in par. Seventh, is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IX of the Housing and Urban Development Act is classified principally to chapter 49 (§ 3931 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1701 of this title and Tables.
 
 Section 4 of the Securities Act of 1933, referred to in par. Seventh, was amended by section 201(b), (c) of Pub. L. 112–106, and the provisions which formerly appeared in section 4 of the Act now appear in section 4(a) of the Act.
 
@@ -185,7 +185,7 @@ Section 4 of the Securities Act of 1933, referred to in par. Seventh, was amende
 
 Amendment by Pub. L. 98–473 is based on section 211(a) of title II of S. 2416, as introduced in the Senate on Mar. 13, 1984, which was enacted into permanent law by section 101(1) of Pub. L. 98–473.
 
-R.S. § 5136 derived from act June 3, 1864, ch. 106, § 8, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
+R.S. § 5136 derived from act June 3, 1864, ch. 106, § 8, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -195,21 +195,21 @@ R.S. § 5136 derived from act June 3, 1864, ch. 106, § 8, 13 Stat. 101, whi
 
 Pub. L. 109–173, in fifth sentence, substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
 
-Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(7). See 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(7). See 1996 Amendment note below.
 
 1999—Par. Seventh. Pub. L. 106–102 inserted at end “In addition to the provisions in this paragraph for dealing in, underwriting, or purchasing securities, the limitations and restrictions contained in this paragraph as to dealing in, underwriting, and purchasing investment securities for the national bank’s own account shall not apply to obligations (including limited obligation bonds, revenue bonds, and obligations that satisfy the requirements of section 142(b)(1) of title 26) issued by or on behalf of any State or political subdivision of a State, including any municipal corporate instrumentality of 1 or more States, or any public agency or authority of any State or political subdivision of a State, if the national bank is well capitalized (as defined in section 1831*o* of this title).”
 
-1996—Par. Seventh. Pub. L. 104–208, § 101(c) [§ 710(b)], in seventh sentence, inserted “Bank for Economic Cooperation and Development in the Middle East and North Africa,” after “the Inter-American Development Bank”.
+1996—Par. Seventh. Pub. L. 104–208, § 101(c) [§ 710(b)], in seventh sentence, inserted “Bank for Economic Cooperation and Development in the Middle East and North Africa,” after “the Inter-American Development Bank”.
 
-Par. Eleventh. Pub. L. 104—208, § 2704(d)(7), which directed the amendment of the fifth sentence by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Par. Eleventh. Pub. L. 104—208, § 2704(d)(7), which directed the amendment of the fifth sentence by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1994—Par. Seventh. Pub. L. 103–325, § 347(b), in last sentence of first par., substituted “(15 U.S.C. 78c(a)(41)). The exception provided for the securities described in subparagraphs (A), (B), and (C) shall be subject to such regulations” for “(15 U.S.C. 78c(a)(41))), subject to such regulations”.
+1994—Par. Seventh. Pub. L. 103–325, § 347(b), in last sentence of first par., substituted “(15 U.S.C. 78c(a)(41)). The exception provided for the securities described in subparagraphs (A), (B), and (C) shall be subject to such regulations” for “(15 U.S.C. 78c(a)(41))), subject to such regulations”.
 
-Pub. L. 103–325, § 322(a)(1)(A), in fifth proviso inserted “or depository institution holding companies (as defined in section 1813 of this title)” after “(except to the extent directors’ qualifying shares are required by law) by depository institutions”.
+Pub. L. 103–325, § 322(a)(1)(A), in fifth proviso inserted “or depository institution holding companies (as defined in section 1813 of this title)” after “(except to the extent directors’ qualifying shares are required by law) by depository institutions”.
 
-Pub. L. 103–325, § 322(a)(1)(B), which directed substitution in fifth proviso of “services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a ‘banker’s bank’)” for “services for other depository institutions and their officers, directors and employees”, was executed by making the substitution for “services for other depository institutions and their officers, directors, and employees” to reflect the probable intent of Congress.
+Pub. L. 103–325, § 322(a)(1)(B), which directed substitution in fifth proviso of “services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a ‘banker’s bank’)” for “services for other depository institutions and their officers, directors and employees”, was executed by making the substitution for “services for other depository institutions and their officers, directors, and employees” to reflect the probable intent of Congress.
 
-Pub. L. 103–325, § 206(c), substituted “(B) are small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934); or (C) are mortgage related securities” for “or (B) are mortgage related securities”.
+Pub. L. 103–325, § 206(c), substituted “(B) are small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934); or (C) are mortgage related securities” for “or (B) are mortgage related securities”.
 
 1993—Par. Seventh. Pub. L. 103–182 inserted “the North American Development Bank,” after “Inter-American Development Bank,”.
 
@@ -249,13 +249,13 @@ Pub. L. 92–318 included obligations or other instruments or securities of the 
 
 1970—Par. Seventh. Pub. L. 91–375 made limitations and restrictions contained in this section as to dealing in and underwriting investment securities inapplicable to bonds, notes and other obligations issued by the United States Postal Service.
 
-1968—Par. Seventh. Pub. L. 90–448, § 807(j), inserted “or the Government National Mortgage Association” after “Federal National Mortgage Association”.
+1968—Par. Seventh. Pub. L. 90–448, § 807(j), inserted “or the Government National Mortgage Association” after “Federal National Mortgage Association”.
 
-Pub. L. 90–448, § 911, authorized the association to purchase for its own account shares of stock issued by a corporation authorized to be created pursuant to sections 3931–3940 of title 42, and to make investments in a partnership, limited partnership, or joint venture formed pursuant to section 3937(a) or 3937(c) of title 42.
+Pub. L. 90–448, § 911, authorized the association to purchase for its own account shares of stock issued by a corporation authorized to be created pursuant to sections 3931–3940 of title 42, and to make investments in a partnership, limited partnership, or joint venture formed pursuant to section 3937(a) or 3937(c) of title 42.
 
-Pub. L. 90–448, § 1705(h), included obligations issued by any State or political subdivision or any agency of a State or political subdivision for housing, university, or dormitory purposes.
+Pub. L. 90–448, § 1705(h), included obligations issued by any State or political subdivision or any agency of a State or political subdivision for housing, university, or dormitory purposes.
 
-Par. Ninth. Pub. L. 90–448, § 804(c), added par. Ninth.
+Par. Ninth. Pub. L. 90–448, § 804(c), added par. Ninth.
 
 1967—Par. Seventh. Pub. L. 90–19 substituted “Secretary of Housing and Urban Development (hereafter in this sentence referred to as the ‘Secretary’)” for “Federal Housing Administrator”; and “Secretary” for “Housing and Home Finance Administrator” after “local public agency and the”, for “Administrator” in two instances just before “agrees to lend”, and for “Public Housing Administration” wherever appearing in cls. (1) and (2), respectively.
 
@@ -311,13 +311,13 @@ Act June 29, 1949, inserted last sentence to permit national banks and State mem
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–173, § 9(j), Feb. 15, 2006, 119 Stat. 3618, provided that: “This section [amending this section and sections 338a, 347b, 1431, 1441, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1828a, 1833a, 1841, 1842, and 3341 of this title] and the amendments made by this section shall take effect on the day of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund [Mar. 31, 2006, see 71 F.R. 20524] pursuant to the Federal Deposit Insurance Reform Act of 2005 [subtitle B (§§ 2101–2109) of title II of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1811 of this title].”
+Pub. L. 109–173, § 9(j), Feb. 15, 2006, 119 Stat. 3618, provided that: “This section [amending this section and sections 338a, 347b, 1431, 1441, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1828a, 1833a, 1841, 1842, and 3341 of this title] and the amendments made by this section shall take effect on the day of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund [Mar. 31, 2006, see 71 F.R. 20524] pursuant to the Federal Deposit Insurance Reform Act of 2005 [subtitle B (§§ 2101–2109) of title II of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1811 of this title].”
 
 Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–102, title I, § 161, Nov. 12, 1999, 113 Stat. 1384, provided that: “This title [enacting sections 24a, 1820a, 1828a, 1828b, 1831v, 1831w, and 1848a of this title and section 6701 of Title 15, Commerce and Trade, amending this section, sections 25a, 335, 371c, 1821, 1835a, 1841 to 1844, 1849, 1850, 1864, 1971, 2903, 3101, 3106, and 3107 of this title, and section 18a of Title 15, repealing sections 78 and 377 of this title, and enacting provisions set out as notes under sections 252, 1843, and 4801 of this title and section 41 of Title 15] (other than section 104 [enacting section 6701 of Title 15]) and the amendments made by this title shall take effect 120 days after the date of the enactment of this Act [Nov. 12, 1999].”
+Pub. L. 106–102, title I, § 161, Nov. 12, 1999, 113 Stat. 1384, provided that: “This title [enacting sections 24a, 1820a, 1828a, 1828b, 1831v, 1831w, and 1848a of this title and section 6701 of Title 15, Commerce and Trade, amending this section, sections 25a, 335, 371c, 1821, 1835a, 1841 to 1844, 1849, 1850, 1864, 1971, 2903, 3101, 3106, and 3107 of this title, and section 18a of Title 15, repealing sections 78 and 377 of this title, and enacting provisions set out as notes under sections 252, 1843, and 4801 of this title and section 41 of Title 15] (other than section 104 [enacting section 6701 of Title 15]) and the amendments made by this title shall take effect 120 days after the date of the enactment of this Act [Nov. 12, 1999].”
 
 **Effective Date of 1996 Amendment**
 
@@ -325,7 +325,7 @@ Amendment by section 2704(d)(7) of Pub. L. 104–208 effective Jan. 1, 1999, if 
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–325, title III, § 347(d), Sept. 23, 1994, 108 Stat. 2241, provided that: “The amendments made by this section [amending this section and section 78c of Title 15, Commerce and Trade] shall become effective upon the date of promulgation of final regulations under subsection (c) [set out below].”
+Pub. L. 103–325, title III, § 347(d), Sept. 23, 1994, 108 Stat. 2241, provided that: “The amendments made by this section [amending this section and section 78c of Title 15, Commerce and Trade] shall become effective upon the date of promulgation of final regulations under subsection (c) [set out below].”
 
 **Effective and Termination Dates of 1988 Amendment**
 
@@ -351,19 +351,19 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 **Effective Date of 1956 Amendment**
 
-Amendment by act July 26, 1956, effective Jan. 1, 1957, see act July 26, 1956, ch. 741, title II, § 202(a), 70 Stat. 667.
+Amendment by act July 26, 1956, effective Jan. 1, 1957, see act July 26, 1956, ch. 741, title II, § 202(a), 70 Stat. 667.
 
 **Effective Date of 1933 Amendment**
 
-Act June 16, 1933, ch. 89, § 16, 48 Stat. 184, provided that restrictions of this section as to dealing in investment securities shall take effect one year after June 16, 1933.
+Act June 16, 1933, ch. 89, § 16, 48 Stat. 184, provided that restrictions of this section as to dealing in investment securities shall take effect one year after June 16, 1933.
 
 **Regulations**
 
-Pub. L. 103–325, title III, § 347(c), Sept. 23, 1994, 108 Stat. 2241, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 23, 1994], the Comptroller of the Currency shall promulgate final regulations, in accordance with the thirteenth sentence of Paragraph Seventh of section 5136 of the Revised Statutes [this section] (as amended by subsection (b)), to carry out the amendments made by this section [amending this section and section 78c of Title 15, Commerce and Trade].” [Final regulations implementing these amendments were published in the Federal Register on Dec. 2, 1996 [61 F.R. 63972], effective Dec. 31, 1996.]
+Pub. L. 103–325, title III, § 347(c), Sept. 23, 1994, 108 Stat. 2241, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 23, 1994], the Comptroller of the Currency shall promulgate final regulations, in accordance with the thirteenth sentence of Paragraph Seventh of section 5136 of the Revised Statutes [this section] (as amended by subsection (b)), to carry out the amendments made by this section [amending this section and section 78c of Title 15, Commerce and Trade].” [Final regulations implementing these amendments were published in the Federal Register on Dec. 2, 1996 [61 F.R. 63972], effective Dec. 31, 1996.]
 
 **Abolition of Home Owners’ Loan Corporation**
 
-For dissolution and abolishment of Home Owners’ Loan Corporation, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under section 1463 of this title.
+For dissolution and abolishment of Home Owners’ Loan Corporation, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under section 1463 of this title.
 
 **Executive Documents**
 
@@ -371,7 +371,7 @@ For dissolution and abolishment of Home Owners’ Loan Corporation, by act June 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 24a. Financial subsidiaries of national banks
+### § 24a. Financial subsidiaries of national banks
 
 **(a) Authorization to conduct in subsidiaries certain activities that are financial in nature**
 
@@ -467,9 +467,9 @@ Not later than 30 days after the date of receipt of a written recommendation fro
 
 **(2) Factors to be considered** In determining whether an activity is financial in nature or incidental to a financial activity, the Secretary shall take into account—
 
-**(A)** the purposes of this Act 1
+**(A)** the purposes of this Act 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and the Gramm-Leach-Bliley Act;
 
@@ -485,7 +485,7 @@ and the Gramm-Leach-Bliley Act;
 
 **(iii)** offer customers any available or emerging technological means for using financial services or for the document imaging of data.
 
-**(3) Authorization of new financial activities** The Secretary of the Treasury shall, by regulation or order and in accordance with paragraph (1)(B), define, consistent with the purposes of this Act <sup>1</sup> and the Gramm-Leach-Bliley Act, the following activities as, and the extent to which such activities are, financial in nature or incidental to a financial activity:
+**(3) Authorization of new financial activities** The Secretary of the Treasury shall, by regulation or order and in accordance with paragraph (1)(B), define, consistent with the purposes of this Act <sup>1</sup> and the Gramm-Leach-Bliley Act, the following activities as, and the extent to which such activities are, financial in nature or incidental to a financial activity:
 
 **(A)** Lending, exchanging, transferring, investing for others, or safeguarding financial assets other than money or securities.
 
@@ -537,7 +537,7 @@ If the conditions described in a notice to a national bank under paragraph (1) a
 
 In taking any action under this subsection, the Comptroller shall consult with all relevant Federal and State regulatory agencies and authorities.
 
-**(f) Failure to meet standards of credit-worthiness meet 2 [footnote: 2 So in original. Probably should be “or meet”.] applicable criteria**
+**(f) Failure to meet standards of credit-worthiness meet 2 [footnote: 2 So in original. Probably should be “or meet”.] applicable criteria**
 
 **(1) In general**
 
@@ -583,7 +583,7 @@ The term “well capitalized” has the meaning given the term in section 1831*o
 
 **(B)** in the case of any depository institution that has not been examined, the existence and use of managerial resources that the appropriate Federal banking agency determines are satisfactory.
 
-(R.S. § 5136A, as added Pub. L. 106–102, title I, § 121(a)(2), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 111–203, title IX, § 939(d), July 21, 2010, 124 Stat. 1886.)
+(R.S. § 5136A, as added Pub. L. 106–102, title I, § 121(a)(2), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 111–203, title IX, § 939(d), July 21, 2010, 124 Stat. 1886.)
 
 **Editorial Notes**
 
@@ -591,9 +591,9 @@ The term “well capitalized” has the meaning given the term in section 1831*o
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-Section 25 of the Federal Reserve Act, referred to in subsec. (g)(3)(B), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title.
+Section 25 of the Federal Reserve Act, referred to in subsec. (g)(3)(B), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title.
 
-The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§ 1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
+The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§ 1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
 
 **Prior Provisions**
 
@@ -601,39 +601,39 @@ A prior section 5136A of the Revised Statutes was renumbered section 5136B by Pu
 
 **Amendments**
 
-2010—Subsec. (a)(2)(E). Pub. L. 111–203, § 939(d)(1), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+2010—Subsec. (a)(2)(E). Pub. L. 111–203, § 939(d)(1), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
 
-Subsec. (a)(3). Pub. L. 111–203, § 939(d)(2), substituted “Requirement” for “Rating or comparable requirement” in heading.
+Subsec. (a)(3). Pub. L. 111–203, § 939(d)(2), substituted “Requirement” for “Rating or comparable requirement” in heading.
 
-Subsec. (a)(3)(A). Pub. L. 111–203, § 939(d)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: “A national bank meets the requirements of this paragraph if—
+Subsec. (a)(3)(A). Pub. L. 111–203, § 939(d)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: “A national bank meets the requirements of this paragraph if—
 
 “(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currently rated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or
 
 “(ii) the bank is 1 of the second 50 largest insured banks and meets the criteria set forth in clause (i) or such other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish by regulation and determine to be comparable to and consistent with the purposes of the rating required in clause (i).”
 
-Subsec. (f). Pub. L. 111–203, § 939(d)(4), substituted “meet standards of credit-worthiness” for “maintain public rating or” in heading.
+Subsec. (f). Pub. L. 111–203, § 939(d)(4), substituted “meet standards of credit-worthiness” for “maintain public rating or” in heading.
 
-Subsec. (f)(1). Pub. L. 111–203, § 939(d)(5), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+Subsec. (f)(1). Pub. L. 111–203, § 939(d)(5), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title IX, § 939(g), July 21, 2010, 124 Stat. 1887, provided that: “The amendments made by this section [amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse] shall take effect 2 years after the date of enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title IX, § 939(g), July 21, 2010, 124 Stat. 1887, provided that: “The amendments made by this section [amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse] shall take effect 2 years after the date of enactment of this Act [July 21, 2010].”
 
 **Effective Date**
 
 Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
 
-### § 25. Omitted
+### § 25. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act July 1, 1922, ch. 257, § 2, 42 Stat. 767, repealed all acts extending the period of succession of national banking associations for 20 years, and made paragraph Second of section 24 applicable in that respect.
+Section, act July 1, 1922, ch. 257, § 2, 42 Stat. 767, repealed all acts extending the period of succession of national banking associations for 20 years, and made paragraph Second of section 24 applicable in that respect.
 
-### § 25a. Participation by national banks in lotteries and related activities
+### § 25a. Participation by national banks in lotteries and related activities
 
 **(a) Prohibited activities** A national bank may not—
 
@@ -641,9 +641,9 @@ Section, act July 1, 1922, ch. 257, § 2, 42 Stat. 767, repealed all acts exte
 
 **(2)** deal in bets used as a means or substitute for participation in a lottery;
 
-**(3)** announce, advertise, or publicize the existence of any lottery; 1
+**(3)** announce, advertise, or publicize the existence of any lottery; 1
 
-<sup>1</sup>  So in original. The word “or” probably should appear.
+<sup>1</sup> So in original. The word “or” probably should appear.
 
 **(4)** announce, advertise, or publicize the existence or identity of any participant or winner, as such, in a lottery.
 
@@ -677,25 +677,25 @@ Nothing contained in this section prohibits a national bank from accepting depos
 
 The Comptroller of the Currency shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-(R.S. § 5136B, formerly § 5136A, as added Pub. L. 90–203, § 1(a), Dec. 15, 1967, 81 Stat. 608; renumbered R.S. § 5136B, Pub. L. 106–102, title I, § 121(a)(1), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 113–251, § 3(a), Dec. 18, 2014, 128 Stat. 2889.)
+(R.S. § 5136B, formerly § 5136A, as added Pub. L. 90–203, § 1(a), Dec. 15, 1967, 81 Stat. 608; renumbered R.S. § 5136B, Pub. L. 106–102, title I, § 121(a)(1), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 113–251, § 3(a), Dec. 18, 2014, 128 Stat. 2889.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (c)(2). Pub. L. 113–251, § 3(a)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
+2014—Subsec. (c)(2). Pub. L. 113–251, § 3(a)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 113–251, § 3(a)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 113–251, § 3(a)(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 90–203, § 6, Dec. 15, 1967, 81 Stat. 611, provided that: “The amendments made by this Act [adding this section, sections 339, 1730c, and 1829a of this title, and section 1306 of Title 18, Crimes and Criminal Procedure] shall take effect on April 1, 1968.”
+Pub. L. 90–203, § 6, Dec. 15, 1967, 81 Stat. 611, provided that: “The amendments made by this Act [adding this section, sections 339, 1730c, and 1829a of this title, and section 1306 of Title 18, Crimes and Criminal Procedure] shall take effect on April 1, 1968.”
 
 **Findings**
 
-Pub. L. 113–251, § 2, Dec. 18, 2014, 128 Stat. 2888, provided that:
+Pub. L. 113–251, § 2, Dec. 18, 2014, 128 Stat. 2888, provided that:
 
 > “Congress finds that—
 
@@ -717,7 +717,7 @@ Pub. L. 113–251, § 2, Dec. 18, 2014, 128 Stat. 2888, provided that:
 
 > **“(9)** encouraging personal savings is in the national interest of the United States.”
 
-### § 25b. State law preemption standards for national banks and subsidiaries clarified
+### § 25b. State law preemption standards for national banks and subsidiaries clarified
 
 **(a) Definitions** For purposes of this section, the following definitions shall apply:
 
@@ -741,7 +741,7 @@ The terms “affiliate”, “subsidiary”, “includes”, and “including”
 
 **(A)** application of a State consumer financial law would have a discriminatory effect on national banks, in comparison with the effect of the law on a bank chartered by that State;
 
-**(B)** in accordance with the legal standard for preemption in the decision of the Supreme Court of the United States in Barnett Bank of Marion County, N. A. v. Nelson, Florida Insurance Commissioner, et al., 517 U.S. 25 (1996), the State consumer financial law prevents or significantly interferes with the exercise by the national bank of its powers; and any preemption determination under this subparagraph may be made by a court, or by regulation or order of the Comptroller of the Currency on a case-by-case basis, in accordance with applicable law; or
+**(B)** in accordance with the legal standard for preemption in the decision of the Supreme Court of the United States in Barnett Bank of Marion County, N. A. v. Nelson, Florida Insurance Commissioner, et al., 517 U.S. 25 (1996), the State consumer financial law prevents or significantly interferes with the exercise by the national bank of its powers; and any preemption determination under this subparagraph may be made by a court, or by regulation or order of the Comptroller of the Currency on a case-by-case basis, in accordance with applicable law; or
 
 **(C)** the State consumer financial law is preempted by a provision of Federal law other than title 62 of the Revised Statutes.
 
@@ -815,31 +815,31 @@ No provision of title 62 of the Revised Statutes or section 371 of this title sh
 
 **(i) Visitorial powers**
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] In general**
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] In general**
 
-In accordance with the decision of the Supreme Court of the United States in Cuomo v. Clearing House Assn., L. L. C. (129 S. Ct. 2710 (2009)), no provision of title 62 of the Revised Statutes which relates to visitorial powers or otherwise limits or restricts the visitorial authority to which any national bank is subject shall be construed as limiting or restricting the authority of any attorney general (or other chief law enforcement officer) of any State to bring an action against a national bank in a court of appropriate jurisdiction to enforce an applicable law and to seek relief as authorized by such law.
+In accordance with the decision of the Supreme Court of the United States in Cuomo v. Clearing House Assn., L. L. C. (129 S. Ct. 2710 (2009)), no provision of title 62 of the Revised Statutes which relates to visitorial powers or otherwise limits or restricts the visitorial authority to which any national bank is subject shall be construed as limiting or restricting the authority of any attorney general (or other chief law enforcement officer) of any State to bring an action against a national bank in a court of appropriate jurisdiction to enforce an applicable law and to seek relief as authorized by such law.
 
 **(j) Enforcement actions**
 
 The ability of the Comptroller of the Currency to bring an enforcement action under title 62 of the Revised Statutes or section 45 of title 15 does not preclude any private party from enforcing rights granted under Federal or State law in the courts.
 
-(R.S. § 5136C, as added and amended Pub. L. 111–203, title X, §§ 1044(a), 1045, 1047(a), July 21, 2010, 124 Stat. 2014, 2017, 2018.)
+(R.S. § 5136C, as added and amended Pub. L. 111–203, title X, §§ 1044(a), 1045, 1047(a), July 21, 2010, 124 Stat. 2014, 2017, 2018.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Banking Act of 1978, referred to in subsec. (a)(1)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§ 3101 et seq.) and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 247, 611a, and 3101 of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The International Banking Act of 1978, referred to in subsec. (a)(1)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§ 3101 et seq.) and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 247, 611a, and 3101 of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Title 62 of the Revised Statutes, referred to in subsecs. (b)(1)(C), (2), (4), (5)(A), (e), (f), (h)(2), (i)(1), and (j), was in the original a reference to “this title” or “This title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in subsecs. (b)(1)(C), (2), (4), (5)(A), (e), (f), (h)(2), (i)(1), and (j), was in the original a reference to “this title” or “This title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 For classification of title LXII of the Revised Statutes of the United States, referred to in subsec. (b)(5)(B), see note above.
 
 **Amendments**
 
-2010—Subsec. (h). Pub. L. 111–203, § 1045, added subsec. (h).
+2010—Subsec. (h). Pub. L. 111–203, § 1045, added subsec. (h).
 
-Subsecs. (i), (j). Pub. L. 111–203, § 1047(a), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 111–203, § 1047(a), added subsecs. (i) and (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -847,21 +847,21 @@ Subsecs. (i), (j). Pub. L. 111–203, § 1047(a), added subsecs. (i) and (j).
 
 Enactment and amendment of section by Pub. L. 111–203 effective on the designated transfer date, see section 1048 of Pub. L. 111–203, set out as a note under section 5551 of this title.
 
-### § 26. Comptroller to determine if association can commence business
+### § 26. Comptroller to determine if association can commence business
 
 Whenever a certificate is transmitted to the Comptroller of the Currency, as provided in title 62 of the Revised Statutes, and the association transmitting the same notifies the Comptroller that all of its capital stock has been duly paid in, and that such association has complied with all the provisions of title 62 of the Revised Statutes required to be complied with before an association shall be authorized to commence the business of banking, the Comptroller shall examine into the condition of such association, ascertain especially the amount of money paid in on account of its capital, the name and place of residence of each of its directors, and the amount of the capital stock of which each is the owner in good faith, and generally whether such association has complied with all the provisions of title 62 of the Revised Statutes required to entitle it to engage in the business of banking; and shall cause to be made and attested by the oaths of a majority of the directors, and by the president or cashier of the association, a statement of all the facts necessary to enable the Comptroller to determine whether the association is lawfully entitled to commence the business of banking.
 
-(R.S. § 5168; Pub. L. 86–230, § 2, Sept. 8, 1959, 73 Stat. 457.)
+(R.S. § 5168; Pub. L. 86–230, § 2, Sept. 8, 1959, 73 Stat. 457.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified this section and to sections 16, 21, 22 to 24a, 25a, 25b, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified this section and to sections 16, 21, 22 to 24a, 25a, 25b, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5168 derived from act June 3, 1864, ch. 106, § 17, 13 Stat. 104, which was the National Bank Act. See section 38 of this title.
+R.S. § 5168 derived from act June 3, 1864, ch. 106, § 17, 13 Stat. 104, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -873,7 +873,7 @@ R.S. § 5168 derived from act June 3, 1864, ch. 106, § 17, 13 Stat. 104, wh
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 27. Certificate of authority to commence banking
+### § 27. Certificate of authority to commence banking
 
 **(a)** If, upon a careful examination of the facts so reported, and of any other facts which may come to the knowledge of the Comptroller, whether by means of a special commission appointed by him for the purpose of inquiring into the condition of such association, or otherwise, it appears that such association is lawfully entitled to commence the business of banking, the Comptroller shall give to such association a certificate, under his hand and official seal, that such association has complied with all the provisions required to be complied with before commencing the business of banking, and that such association is authorized to commence such business. But the Comptroller may withhold from an association his certificate authorizing the commencement of business, whenever he has reason to suppose that the shareholders have formed the same for any other than the legitimate objects contemplated by title 62 of the Revised Statutes. A National Bank Association, to which the Comptroller of the Currency has heretofore issued or hereafter issues such certificate, is not illegally constituted solely because its operations are or have been required by the Comptroller of the Currency to be limited to those of a trust company and activities related thereto.
 
@@ -883,27 +883,27 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 **(2)** Any national banking association chartered pursuant to paragraph (1) shall be subject to such rules, regulations, and orders as the Comptroller deems appropriate, and, except as otherwise specifically provided in such rules, regulations, or orders, shall be vested with or subject to the same rights, privileges, duties, restrictions, penalties, liabilities, conditions, and limitations that would apply under the national banking laws to a national bank.
 
-(R.S. § 5169; Pub. L. 95–630, title XV, § 1504, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 96–221, title VII, § 712(a), (c), Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title IV, § 404(a), Oct. 15, 1982, 96 Stat. 1511; Pub. L. 103–325, title III, § 322(a)(2), Sept. 23, 1994, 108 Stat. 2227.)
+(R.S. § 5169; Pub. L. 95–630, title XV, § 1504, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 96–221, title VII, § 712(a), (c), Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title IV, § 404(a), Oct. 15, 1982, 96 Stat. 1511; Pub. L. 103–325, title III, § 322(a)(2), Sept. 23, 1994, 108 Stat. 2227.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in subsec. (a), was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in subsec. (a), was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5169 derived from act June 3, 1864, ch. 106, §§ 12, 18, 13 Stat. 102, 104, which was the National Bank Act. See section 38 of this title.
+R.S. § 5169 derived from act June 3, 1864, ch. 106, §§ 12, 18, 13 Stat. 102, 104, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
-1994—Subsec. (b)(1). Pub. L. 103–325, § 322(a)(2)(A), inserted “or depository institution holding companies” after “by other depository institutions”.
+1994—Subsec. (b)(1). Pub. L. 103–325, § 322(a)(2)(A), inserted “or depository institution holding companies” after “by other depository institutions”.
 
-Pub. L. 103–325, § 322(a)(2)(B), which directed substitution of “services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a ‘banker’s bank’)” for “services for other depository institutions and their officers, directors and employees”, was executed by making the substitution for “services for other depository institutions and their officers, directors, and employees” to reflect the probable intent of Congress.
+Pub. L. 103–325, § 322(a)(2)(B), which directed substitution of “services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a ‘banker’s bank’)” for “services for other depository institutions and their officers, directors and employees”, was executed by making the substitution for “services for other depository institutions and their officers, directors, and employees” to reflect the probable intent of Congress.
 
 1982—Pub. L. 97–320 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1980—Pub. L. 96–221, § 712(a), (c), temporarily inserted provisions relating to treatment of national banking associations as additional banks within the contemplation of section 1842 of this title. See Termination Date of 1980 Amendment note below.
+1980—Pub. L. 96–221, § 712(a), (c), temporarily inserted provisions relating to treatment of national banking associations as additional banks within the contemplation of section 1842 of this title. See Termination Date of 1980 Amendment note below.
 
 1978—Pub. L. 95–630 inserted provision that a National Bank Association, to which the Comptroller of the Currency has heretofore issued or hereafter issues such certificate, is not illegally constituted solely because its operations are or have been required by the Comptroller of the Currency to be limited to those of a trust company and activities related thereto.
 
@@ -911,11 +911,11 @@ Pub. L. 103–325, § 322(a)(2)(B), which directed substitution of “services
 
 **Termination Date of 1980 Amendment**
 
-Pub. L. 96–221, title VII, § 712(c), Mar. 31, 1980, 94 Stat. 190, provided that: “The amendments made by this section [amending this section and section 1842 of this title] are hereby repealed on October 1, 1981.”
+Pub. L. 96–221, title VII, § 712(c), Mar. 31, 1980, 94 Stat. 190, provided that: “The amendments made by this section [amending this section and section 1842 of this title] are hereby repealed on October 1, 1981.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–630, title XV, § 1505, Nov. 10, 1978, 92 Stat. 3713, provided that: “This title [amending this section and sections 1715z–10 and 2902 of this title and amending provisions set out as a note under section 1666f of Title 15, Commerce and Trade] shall take effect upon enactment [Nov. 10, 1978].”
+Pub. L. 95–630, title XV, § 1505, Nov. 10, 1978, 92 Stat. 3713, provided that: “This title [amending this section and sections 1715z–10 and 2902 of this title and amending provisions set out as a note under section 1666f of Title 15, Commerce and Trade] shall take effect upon enactment [Nov. 10, 1978].”
 
 **Executive Documents**
 
@@ -923,17 +923,17 @@ Pub. L. 95–630, title XV, § 1505, Nov. 10, 1978, 92 Stat. 3713, provided th
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 28. Repealed. Pub. L. 103–325, title VI, § 602(e)(1), Sept. 23, 1994, 108 Stat. 2291
+### § 28. Repealed. Pub. L. 103–325, title VI, § 602(e)(1), Sept. 23, 1994, 108 Stat. 2291
 
-Section, R.S. § 5170, required publication of certificate of authority to commence banking for 60 days after issuance.
+Section, R.S. § 5170, required publication of certificate of authority to commence banking for 60 days after issuance.
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5170 derived from act June 3, 1864, ch. 106, § 18, 13 Stat. 104, which was the National Bank Act. See section 38 of this title.
+R.S. § 5170 derived from act June 3, 1864, ch. 106, § 18, 13 Stat. 104, which was the National Bank Act. See section 38 of this title.
 
-### § 29. Power to hold real property
+### § 29. Power to hold real property
 
 A national banking association may purchase, hold, and convey real estate for the following purposes, and for no others:
 
@@ -951,17 +951,17 @@ For real estate in the possession of a national banking association upon applica
 
 Notwithstanding the five-year holding limitation of this section or any other provision of title 62 of the Revised Statutes, any national banking association which on October 15, 1982, held, directly or indirectly, real estate, including any subsurface rights or interests therein, that since December 31, 1979, had not been valued on the books of such association for more than a nominal amount, may continue to hold such real estate, rights, or interests for such longer period of time as would be permitted a State chartered bank by the law of the State in which the association is located if the aggregate amount of earnings from such real estate, rights, or interests is separately disclosed in the annual financial statements of the association.
 
-(R.S. § 5137; Feb. 25, 1927, ch. 191, § 3, 44 Stat. 1227; Pub. L. 96–221, title VII, § 701(a), Mar. 31, 1980, 94 Stat. 186; Pub. L. 97–25, title III, § 302, July 27, 1981, 95 Stat. 145; Pub. L. 97–320, title IV, § 413, Oct. 15, 1982, 96 Stat. 1521.)
+(R.S. § 5137; Feb. 25, 1927, ch. 191, § 3, 44 Stat. 1227; Pub. L. 96–221, title VII, § 701(a), Mar. 31, 1980, 94 Stat. 186; Pub. L. 97–25, title III, § 302, July 27, 1981, 95 Stat. 145; Pub. L. 97–320, title IV, § 413, Oct. 15, 1982, 96 Stat. 1521.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in last par., was in the original “this title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in last par., was in the original “this title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5137 derived from act June 3, 1864, ch. 106, § 28, 13 Stat. 107, which was the National Bank Act. See section 38 of this title.
+R.S. § 5137 derived from act June 3, 1864, ch. 106, § 28, 13 Stat. 107, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -973,7 +973,7 @@ R.S. § 5137 derived from act June 3, 1864, ch. 106, § 28, 13 Stat. 107, wh
 
 1927—Par. First. Act Feb. 25, 1927, struck out “immediate,” before “accommodation,” in par. First.
 
-### § 30. Change of name or location
+### § 30. Change of name or location
 
 **(a) Name change**
 
@@ -997,7 +997,7 @@ Notwithstanding subsection (a) or any other provision of law, any depository ins
 
 For purposes of this subsection, the terms “depository institution”, “insured depository institution”, “national bank”, and “State bank” have the meanings given those terms in section 1813 of this title.
 
-(May 1, 1886, ch. 73, § 2, 24 Stat. 18; Pub. L. 86–230, § 3, Sept. 8, 1959, 73 Stat. 457; Pub. L. 97–320, title IV, § 405(a), Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, § 19(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 103–328, title I, § 102(b)(2), Sept. 29, 1994, 108 Stat. 2350; Pub. L. 106–102, title VII, § 723, Nov. 12, 1999, 113 Stat. 1471.)
+(May 1, 1886, ch. 73, § 2, 24 Stat. 18; Pub. L. 86–230, § 3, Sept. 8, 1959, 73 Stat. 457; Pub. L. 97–320, title IV, § 405(a), Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, § 19(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 103–328, title I, § 102(b)(2), Sept. 29, 1994, 108 Stat. 2350; Pub. L. 106–102, title VII, § 723, Nov. 12, 1999, 113 Stat. 1471.)
 
 **Editorial Notes**
 
@@ -1019,63 +1019,63 @@ For purposes of this subsection, the terms “depository institution”, “insu
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 31. Rights and liabilities as affected by change of name
+### § 31. Rights and liabilities as affected by change of name
 
 All debts, liabilities, rights, provisions, and powers of the association under its old name shall devolve upon and inure to the association under its new name.
 
-(May 1, 1886, ch. 73, § 3, 24 Stat. 19.)
+(May 1, 1886, ch. 73, § 3, 24 Stat. 19.)
 
-### § 32. Liabilities and suits as affected by change of name or location
+### § 32. Liabilities and suits as affected by change of name or location
 
 Nothing contained in sections 30 and 31 of this title shall be so construed as in any manner to release any national banking association under its old name or at its old location from any liability, or affect any action or proceeding in law in which said association may be or become a party or interested.
 
-(May 1, 1886, ch. 73, § 4, 24 Stat. 19.)
+(May 1, 1886, ch. 73, § 4, 24 Stat. 19.)
 
-### §§ 33 to 34c. Transferred
+### §§ 33 to 34c. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Act Nov. 7, 1918, ch. 209, 40 Stat. 1043, as amended, formerly classified to sections 33 to 34c of this title, which related to consolidation and merger of national banking associations and such associations and State banks, was completely amended by Pub. L. 86–230, § 20, Sept. 8 1959 73 Stat. 460, and is classified to sections 215 to 215b of this title.
+Act Nov. 7, 1918, ch. 209, 40 Stat. 1043, as amended, formerly classified to sections 33 to 34c of this title, which related to consolidation and merger of national banking associations and such associations and State banks, was completely amended by Pub. L. 86–230, § 20, Sept. 8 1959 73 Stat. 460, and is classified to sections 215 to 215b of this title.
 
-Section 33, acts Nov. 7, 1918, ch. 209, § 1, 40 Stat. 1043; June 16, 1933, ch. 89, § 24(a), 48 Stat. 190; Aug. 23, 1935, ch. 614, § 330, 49 Stat. 718, related to consolidation of national banks, capital stock, dissenting shareholders, notice and valuation of shares. See section 215 of this title.
+Section 33, acts Nov. 7, 1918, ch. 209, § 1, 40 Stat. 1043; June 16, 1933, ch. 89, § 24(a), 48 Stat. 190; Aug. 23, 1935, ch. 614, § 330, 49 Stat. 718, related to consolidation of national banks, capital stock, dissenting shareholders, notice and valuation of shares. See section 215 of this title.
 
-Section 34, act Nov. 7, 1918, ch. 209, § 2, 40 Stat. 1044, related to effect of consolidation on rights and liabilities. See section 215 of this title.
+Section 34, act Nov. 7, 1918, ch. 209, § 2, 40 Stat. 1044, related to effect of consolidation on rights and liabilities. See section 215 of this title.
 
-Section 34a, act Nov. 7, 1918, ch. 209, § 3, as added Feb. 25, 1927, ch. 191, § 1, 44 Stat. 1225, and amended June 16, 1933, ch. 89 § 24, 48 Stat. 190; Aug. 23, 1935, ch. 614, § 331, 49 Stat. 719; July 14, 1952, ch. 722, § 2, 66 Stat. 601, related to consolidation of State bank, etc. with national bank, capital stock and dissenting shareholders. See section 215 of this title.
+Section 34a, act Nov. 7, 1918, ch. 209, § 3, as added Feb. 25, 1927, ch. 191, § 1, 44 Stat. 1225, and amended June 16, 1933, ch. 89 § 24, 48 Stat. 190; Aug. 23, 1935, ch. 614, § 331, 49 Stat. 719; July 14, 1952, ch. 722, § 2, 66 Stat. 601, related to consolidation of State bank, etc. with national bank, capital stock and dissenting shareholders. See section 215 of this title.
 
-Section 34b, act Nov. 7, 1918, ch. 209, § 4, as added July 14, 1952, ch. 722, § 1, 66 Stat. 599, related to merger of national banking associations or State banks into national banking associations. See section 215a of this title.
+Section 34b, act Nov. 7, 1918, ch. 209, § 4, as added July 14, 1952, ch. 722, § 1, 66 Stat. 599, related to merger of national banking associations or State banks into national banking associations. See section 215a of this title.
 
-Section 34c, act Nov. 7, 1918, ch. 209, § 5, as added July 14, 1952, ch. 722, § 1, 66, Stat. 601, related to definitions. See section 215b of this title.
+Section 34c, act Nov. 7, 1918, ch. 209, § 5, as added July 14, 1952, ch. 722, § 1, 66, Stat. 601, related to definitions. See section 215b of this title.
 
-### § 35. Organization of State banks as national banking associations
+### § 35. Organization of State banks as national banking associations
 
 Any bank incorporated by special law of any State or of the United States or organized under the general laws of any State or of the United States and having an unimpaired capital sufficient to entitle it to become a national banking association under the provisions of the existing laws may, by the vote of the shareholders owning not less than fifty-one per centum of the capital stock of such bank or banking association, with the approval of the Comptroller of the Currency be converted into a national banking association, with a name that contains the word “national”: *Provided, however*, That said conversion shall not be in contravention of the State law. In such case the articles of association and organization certificate may be executed by a majority of the directors of the bank or banking institution, and the certificate shall declare that the owners of fifty-one per centum of the capital stock have authorized the directors to make such certificate and to change or convert the bank or banking institution into a national association. A majority of the directors, after executing the articles of association and the organization certificate, shall have power to execute all other papers and to do whatever may be required to make its organization perfect and complete as a national association. The shares of any such bank may continue to be for the same amount each as they were before the conversion, and the directors may continue to be directors of the association until others are elected or appointed in accordance with the provisions of the statutes of the United States. When the Comptroller has given to such bank or banking association a certificate that the provisions of this Act have been complied with, such bank or banking association, and all its stockholders, officers, and employees shall have the same powers and privileges and shall be subject to the same duties, liabilities, and regulations, in all respects, as shall have been prescribed by the Federal Reserve Act [12 U.S.C. 221 et seq.] and the National Banking Act for associations originally organized as national banking associations.
 
 The Comptroller of the Currency may, in his discretion and subject to such conditions as he may prescribe, permit such converting bank to retain and carry at a value determined by the Comptroller such of the assets of such converting bank as do not conform to the legal requirements relative to assets acquired and held by national banking associations. The Comptroller of the Currency may not approve the conversion of a State bank or State savings association to a national banking association or Federal savings association during any period in which the State bank or State savings association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, a State bank supervisor or the appropriate Federal banking agency with respect to a significant supervisory matter or a final enforcement action by a State Attorney General.
 
-(R.S. § 5154; Dec. 23, 1913, ch. 6, § 8, 38 Stat. 258; Aug. 23, 1935, ch. 614, title III, § 312, 49 Stat. 711; Pub. L. 97–457, § 19(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, § 612(b), July 21, 2010, 124 Stat. 1612.)
+(R.S. § 5154; Dec. 23, 1913, ch. 6, § 8, 38 Stat. 258; Aug. 23, 1935, ch. 614, title III, § 312, 49 Stat. 711; Pub. L. 97–457, § 19(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, § 612(b), July 21, 2010, 124 Stat. 1612.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in first par., may refer to the Federal Reserve Act, act Dec. 23, 1913, from which this wording is derived; or section 5154 of the Revised Statutes which the Federal Reserve Act amended; or act June 3, 1864, from which R.S. § 5154 was derived; or Congress might have intended to refer to the preceding provisions of the 1913 amendment. Similar reference in R.S. § 5154 prior to 1913 amendment was to “this Title,” meaning title 62 of the Revised Statutes, which title comprised the National Bank Act (June 3, 1864, ch. 106, 13 Stat. 99). See section 38 of this title. Note also specific reference to the Federal Reserve Act and the National Banking Act in first par.
+This Act, referred to in first par., may refer to the Federal Reserve Act, act Dec. 23, 1913, from which this wording is derived; or section 5154 of the Revised Statutes which the Federal Reserve Act amended; or act June 3, 1864, from which R.S. § 5154 was derived; or Congress might have intended to refer to the preceding provisions of the 1913 amendment. Similar reference in R.S. § 5154 prior to 1913 amendment was to “this Title,” meaning title 62 of the Revised Statutes, which title comprised the National Bank Act (June 3, 1864, ch. 106, 13 Stat. 99). See section 38 of this title. Note also specific reference to the Federal Reserve Act and the National Banking Act in first par.
 
-The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The National Banking Act, referred to in text, is probably intended to be a reference to the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code see References in Text note set out under section 38 of this title.
+The National Banking Act, referred to in text, is probably intended to be a reference to the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code see References in Text note set out under section 38 of this title.
 
 **Codification**
 
-R.S. § 5154 derived from act June 3, 1864, ch. 106, § 44, 13 Stat. 112, which was the National Bank Act. See section 38 of this title.
+R.S. § 5154 derived from act June 3, 1864, ch. 106, § 44, 13 Stat. 112, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
 2010—Pub. L. 111–203 inserted at end “The Comptroller of the Currency may not approve the conversion of a State bank or State savings association to a national banking association or Federal savings association during any period in which the State bank or State savings association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, a State bank supervisor or the appropriate Federal banking agency with respect to a significant supervisory matter or a final enforcement action by a State Attorney General.”
 
-1983—Pub. L. 97–457 substituted “with a name that contains the word ‘national’ ” for “with any name approved by the Comptroller of the Currency” after “national banking association,”.
+1983—Pub. L. 97–457 substituted “with a name that contains the word ‘national’ ” for “with any name approved by the Comptroller of the Currency” after “national banking association,”.
 
 1935—Act Aug. 23, 1935, added last par.
 
@@ -1087,7 +1087,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Exception to Prohibition on Approval of Conversions**
 
-Pub. L. 111–203, title VI, § 612(d), July 21, 2010, 124 Stat. 1613, provided that:
+Pub. L. 111–203, title VI, § 612(d), July 21, 2010, 124 Stat. 1613, provided that:
 
 > “The prohibition on the approval of conversions under the amendments made by subsections (a), (b), and (c) [enacting section 214d of this title and amending this section and section 1464 of this title] shall not apply, if—
 
@@ -1103,7 +1103,7 @@ Pub. L. 111–203, title VI, § 612(d), July 21, 2010, 124 Stat. 1613, provide
 
 **Notification of Pending Enforcement Actions**
 
-Pub. L. 111–203, title VI, § 612(e), July 21, 2010, 124 Stat. 1613, provided that:
+Pub. L. 111–203, title VI, § 612(e), July 21, 2010, 124 Stat. 1613, provided that:
 
 > **“(1) Copy of conversion application.—** At the time an insured depository institution files a conversion application, the insured depository institution shall transmit a copy of the conversion application to—
 
@@ -1125,7 +1125,7 @@ Pub. L. 111–203, title VI, § 612(e), July 21, 2010, 124 Stat. 1613, provide
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 36. Branch banks
+### § 36. Branch banks
 
 The conditions upon which a national banking association may retain or establish and operate a branch or branches are the following:
 
@@ -1163,9 +1163,9 @@ A national banking association may, with the approval of the Comptroller of the 
 
 **(d) Branches resulting from interstate merger transactions**
 
-A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) 1
+A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B)) of such bank in accordance with section 1831u of this title.
 
@@ -1249,7 +1249,7 @@ The term “home State” means the State in which the main office of a national
 
 The term “host State” means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
 
-**(h) Repealed. Pub. L. 104–208, div. A, title II, § 2204, Sept. 30, 1996, 110 Stat. 3009–405**
+**(h) Repealed. Pub. L. 104–208, div. A, title II, § 2204, Sept. 30, 1996, 110 Stat. 3009–405**
 
 **(i) Prior approval of branch locations**
 
@@ -1267,7 +1267,7 @@ This section shall not be construed to amend or repeal section 25 of the Federal
 
 The words “State bank,” “State banks,” “bank,” or “banks,” as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
 
-(R.S. § 5155; Feb. 25, 1927, ch. 191, § 7, 44 Stat. 1228; June 16, 1933, ch. 89, § 23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, § 305, 49 Stat. 708; July 15, 1952, ch. 753, § 2(b), 66 Stat. 633; Pub. L. 87–721, Sept. 28, 1962, 76 Stat. 667; Pub. L. 103–328, title I, §§ 102(b)(1), 103(a), Sept. 29, 1994, 108 Stat. 2349, 2352; Pub. L. 104–208, div. A, title II, §§ 2204, 2205(a), Sept. 30, 1996, 110 Stat. 3009–405; Pub. L. 105–24, § 2(b), July 3, 1997, 111 Stat. 239; Pub. L. 111–203, title VI, § 613(a), July 21, 2010, 124 Stat. 1614.)
+(R.S. § 5155; Feb. 25, 1927, ch. 191, § 7, 44 Stat. 1228; June 16, 1933, ch. 89, § 23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, § 305, 49 Stat. 708; July 15, 1952, ch. 753, § 2(b), 66 Stat. 633; Pub. L. 87–721, Sept. 28, 1962, 76 Stat. 667; Pub. L. 103–328, title I, §§ 102(b)(1), 103(a), Sept. 29, 1994, 108 Stat. 2349, 2352; Pub. L. 104–208, div. A, title II, §§ 2204, 2205(a), Sept. 30, 1996, 110 Stat. 3009–405; Pub. L. 105–24, § 2(b), July 3, 1997, 111 Stat. 239; Pub. L. 111–203, title VI, § 613(a), July 21, 2010, 124 Stat. 1614.)
 
 **Editorial Notes**
 
@@ -1275,11 +1275,11 @@ The words “State bank,” “State banks,” “bank,” or “banks,” as us
 
 Section 1831u of this title, referred to in subsec. (d), was subsequently amended, and subsec. (f)(6) of section 1831u no longer defines the term “interstate merger transaction”. However, such term is defined elsewhere in that section.
 
-Section 25 of the Federal Reserve Act, as amended, referred to in subsec. (k), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
+Section 25 of the Federal Reserve Act, as amended, referred to in subsec. (k), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
 
 **Codification**
 
-R.S. § 5155 derived from act Mar. 3, 1865, ch. 78, § 7, 13 Stat. 484.
+R.S. § 5155 derived from act Mar. 3, 1865, ch. 78, § 7, 13 Stat. 484.
 
 **Amendments**
 
@@ -1291,17 +1291,17 @@ R.S. § 5155 derived from act Mar. 3, 1865, ch. 78, § 7, 13 Stat. 484.
 
 1997—Subsec. (f)(1)(C). Pub. L. 105–24 added subpar. (C).
 
-1996—Subsec. (h). Pub. L. 104–208, § 2204, struck out subsec. (h) which read as follows: “The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.”
+1996—Subsec. (h). Pub. L. 104–208, § 2204, struck out subsec. (h) which read as follows: “The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.”
 
-Subsec. (j). Pub. L. 104–208, § 2205(a), inserted at end “The term ‘branch’, as used in this section, does not include an automated teller machine or a remote service unit.”
+Subsec. (j). Pub. L. 104–208, § 2205(a), inserted at end “The term ‘branch’, as used in this section, does not include an automated teller machine or a remote service unit.”
 
-1994—Subsecs. (d) to (f). Pub. L. 103–328, § 102(b)(1)(B), added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (h) to (j), respectively.
+1994—Subsecs. (d) to (f). Pub. L. 103–328, § 102(b)(1)(B), added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (h) to (j), respectively.
 
-Subsec. (g). Pub. L. 103–328, § 103(a), added subsec. (g).
+Subsec. (g). Pub. L. 103–328, § 103(a), added subsec. (g).
 
-Pub. L. 103–328, § 102(b)(1)(A), redesignated subsec. (g) as (k).
+Pub. L. 103–328, § 102(b)(1)(A), redesignated subsec. (g) as (k).
 
-Subsecs. (h) to (*l*). Pub. L. 103–328, § 102(b)(1)(A), redesignated subsecs. (d) to (h) as (h) to (*l*), respectively.
+Subsecs. (h) to (*l*). Pub. L. 103–328, § 102(b)(1)(A), redesignated subsecs. (d) to (h) as (h) to (*l*), respectively.
 
 1962—Subsec. (b). Pub. L. 87–721 substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank (other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves of its continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval under clauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
 
@@ -1325,7 +1325,7 @@ Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L
 
 **Applicability of McFadden Act to Present Financial Environment; Report and Recommendations by President to Congress**
 
-Pub. L. 95–369, § 14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act [Feb. 25, 1927, ch. 191, 44 Stat. 1224] to the then current financial, banking, and economic environment.
+Pub. L. 95–369, § 14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act [Feb. 25, 1927, ch. 191, 44 Stat. 1224] to the then current financial, banking, and economic environment.
 
 **Executive Documents**
 
@@ -1333,49 +1333,49 @@ Pub. L. 95–369, § 14, Sept. 17, 1978, 92 Stat. 625, provided for a report t
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 37. Associations governed by chapter
+### § 37. Associations governed by chapter
 
 The provisions of chapters 2, 3, and 4 of title 62 of the Revised Statutes, which are expressed without restrictive words, as applying to “national banking associations,” or to “associations,” apply to all associations organized to carry on the business of banking under any Act of Congress.
 
-(R.S. § 5157.)
+(R.S. § 5157.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapters 2, 3, and 4 of title 62 of the Revised Statutes, referred to in text, was in the original “chapters two, three, and four of this Title,” meaning chapters 2, 3, and 4 of title 62 of the Revised Statutes, consisting of R.S. §§ 5157 to 5244, which are classified to this section and sections 16, 26, 27, 43, 55, 56, 60, 62, 81, 83 to 86, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 481 to 485, 501, 541, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5157 to 5244 to the Code, see Tables.
+Chapters 2, 3, and 4 of title 62 of the Revised Statutes, referred to in text, was in the original “chapters two, three, and four of this Title,” meaning chapters 2, 3, and 4 of title 62 of the Revised Statutes, consisting of R.S. §§ 5157 to 5244, which are classified to this section and sections 16, 26, 27, 43, 55, 56, 60, 62, 81, 83 to 86, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 481 to 485, 501, 541, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5157 to 5244 to the Code, see Tables.
 
-### § 38. The National Bank Act
+### § 38. The National Bank Act
 
 The Act entitled “An Act to provide a national currency secured by a pledge of United States bonds, and to provide for the circulation and redemption thereof,” approved June 3, 1864, shall be known as “The National Bank Act.”
 
-(June 20, 1874, ch. 343, § 1, 18 Stat. 123.)
+(June 20, 1874, ch. 343, § 1, 18 Stat. 123.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99. The act was incorporated into the Revised Statutes as R.S. §§ 324 to 327, 328 to 331, 333, 380, 563, 629, 736, 884, 885, 3473, 3475, 3651, 5133 to 5136, 5137 to 5154, 5156, 5158 to 5170, 5172, 5173, 5175, 5177, 5182 to 5184, 5187, 5189, 5190 to 5192, 5195 to 5204, 5206, 5209 to 5211, 5214 to 5215, 5219 to 5222, 5224 to 5239, 5240 to 5242, 5417, which are classified to sections 1 to 4, 8, 11 to 14, 21, 22 to 24, 26, 27, 29, 35, 39, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 84 to 86, 90, 91, 93, 94, 141 to 144, 161, 165, 181, 182, 192 to 194, 196, 481 to 485, 541, and 548 of this title, section 197 of Title 19, Customs Duties, and section 543 of former Title 31, Money and Finance. See, also, sections 8, 333, 334, 471, 472, 656, and 1005 of Title 18, Crimes and Criminal Procedure, and sections 507, 1348, 1394, and 1733 of Title 28, Judiciary and Judicial Procedure.
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99. The act was incorporated into the Revised Statutes as R.S. §§ 324 to 327, 328 to 331, 333, 380, 563, 629, 736, 884, 885, 3473, 3475, 3651, 5133 to 5136, 5137 to 5154, 5156, 5158 to 5170, 5172, 5173, 5175, 5177, 5182 to 5184, 5187, 5189, 5190 to 5192, 5195 to 5204, 5206, 5209 to 5211, 5214 to 5215, 5219 to 5222, 5224 to 5239, 5240 to 5242, 5417, which are classified to sections 1 to 4, 8, 11 to 14, 21, 22 to 24, 26, 27, 29, 35, 39, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 84 to 86, 90, 91, 93, 94, 141 to 144, 161, 165, 181, 182, 192 to 194, 196, 481 to 485, 541, and 548 of this title, section 197 of Title 19, Customs Duties, and section 543 of former Title 31, Money and Finance. See, also, sections 8, 333, 334, 471, 472, 656, and 1005 of Title 18, Crimes and Criminal Procedure, and sections 507, 1348, 1394, and 1733 of Title 28, Judiciary and Judicial Procedure.
 
-### § 39. Reservation of rights of associations organized under Act of 1863
+### § 39. Reservation of rights of associations organized under Act of 1863
 
 Nothing in title 62 of the Revised Statutes shall affect any appointments made, acts done, or proceedings had or commenced prior to the third day of June 1864, in or toward the organization of any national banking association under the act of February 25, 1863; but all associations which, on the third day of June 1864, were organized or commenced to be organized under that act, shall enjoy all the rights and privileges granted, and be subject to all the duties, liabilities, and restrictions imposed by title 62 of the Revised Statutes, notwithstanding all the steps prescribed by title 62 of the Revised Statutes for the organization of associations were not pursued, if such associations were duly organized under that act.
 
-(R.S. § 5156.)
+(R.S. § 5156.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
-Act of February 25, 1863, referred to in text, was act Feb. 25, 1863, ch. 58, 12 Stat. 665, which was the original National Bank Act, and was repealed by act June 3, 1864, ch. 106, § 62, 13 Stat. 118.
+Act of February 25, 1863, referred to in text, was act Feb. 25, 1863, ch. 58, 12 Stat. 665, which was the original National Bank Act, and was repealed by act June 3, 1864, ch. 106, § 62, 13 Stat. 118.
 
 **Codification**
 
-R.S. § 5156 derived from act June 3, 1864, ch. 106, § 62, 13 Stat. 118, which was the National Bank Act. See section 38 of this title.
+R.S. § 5156 derived from act June 3, 1864, ch. 106, § 62, 13 Stat. 118, which was the National Bank Act. See section 38 of this title.
 
-### § 40. Virgin Islands; extension of National Bank Act
+### § 40. Virgin Islands; extension of National Bank Act
 
 The National Bank Act, as amended [12 U.S.C. 21 et seq.], and all other Acts of Congress relating to national banks, shall, insofar as not locally inapplicable after July 19, 1932, apply to the Virgin Islands of the United States.
 
@@ -1385,27 +1385,27 @@ The National Bank Act, as amended [12 U.S.C. 21 et seq.], and all other Acts of 
 
 **References in Text**
 
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
-### § 41. Guam; extension of National Bank Act
+### § 41. Guam; extension of National Bank Act
 
 The National Bank Act [12 U.S.C. 21 et seq.], and all other Acts of Congress relating to national banks, shall, insofar as not locally inapplicable after August 1, 1956, apply to Guam.
 
-(Aug. 1, 1956, ch. 852, § 2, 70 Stat. 908.)
+(Aug. 1, 1956, ch. 852, § 2, 70 Stat. 908.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
-### § 42. Territorial application
+### § 42. Territorial application
 
 The provisions of all Acts of Congress relating to national banks shall apply in the several States, the District of Columbia, the several Territories and possessions of the United States, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 86–230, § 14, Sept. 8, 1959, 73 Stat. 458.)
+(Pub. L. 86–230, § 14, Sept. 8, 1959, 73 Stat. 458.)
 
-### § 43. Interpretations concerning preemption of certain State laws
+### § 43. Interpretations concerning preemption of certain State laws
 
 **(a) Notice and opportunity for comment required** Before issuing any opinion letter or interpretive rule, in response to a request or upon the agency’s own motion, that concludes that Federal law preempts the application to a national bank of any State law regarding community reinvestment, consumer protection, fair lending, or the establishment of intrastate branches, or before making a determination under section 36(f)(1)(A)(ii) of this title, the appropriate Federal banking agency (as defined in section 1813 of this title) shall—
 
@@ -1443,25 +1443,25 @@ This section shall not apply with respect to materials prepared for use in judic
 
 **(ii)** an acquisition with respect to which the Federal Deposit Insurance Corporation provides assistance under section 1823(c) of this title.
 
-(R.S. § 5244, as added Pub. L. 103–328, title I, § 114, Sept. 29, 1994, 108 Stat. 2366.)
+(R.S. § 5244, as added Pub. L. 103–328, title I, § 114, Sept. 29, 1994, 108 Stat. 2366.)
 
 **Editorial Notes**
 
 **Codification**
 
-Another R.S. § 5244 is classified to section 8 of Title 33, Navigation and Navigable Waters.
+Another R.S. § 5244 is classified to section 8 of Title 33, Navigation and Navigable Waters.
 
 ## SUBCHAPTER II—CAPITAL, STOCK, AND STOCKHOLDERS
 
-### § 51. Repealed. Pub. L. 106–569, title XII, § 1233(c), Dec. 27, 2000, 114 Stat. 3037
+### § 51. Repealed. Pub. L. 106–569, title XII, § 1233(c), Dec. 27, 2000, 114 Stat. 3037
 
-Section, R.S. § 5138; Mar. 14, 1900, ch. 41, § 10, 31 Stat. 48; Feb. 25, 1927, ch. 191, § 4, 44 Stat. 1227; June 16, 1933, ch. 89, § 17(a), 48 Stat. 185; Aug. 23, 1935, ch. 614, title III, § 309, 49 Stat. 709, related to capital and surplus requirements.
+Section, R.S. § 5138; Mar. 14, 1900, ch. 41, § 10, 31 Stat. 48; Feb. 25, 1927, ch. 191, § 4, 44 Stat. 1227; June 16, 1933, ch. 89, § 17(a), 48 Stat. 185; Aug. 23, 1935, ch. 614, title III, § 309, 49 Stat. 709, related to capital and surplus requirements.
 
-### § 51a. Preferred stock; issuance authorized
+### § 51a. Preferred stock; issuance authorized
 
 Notwithstanding any other provision of law, any national banking association may, with the approval of the Comptroller of the Currency and by vote of shareholders owning a majority of the stock of such association, upon not less than five days’ notice, given by registered mail or by certified mail pursuant to action taken by its board of directors, issue preferred stock of one or more classes, in such amount and with such par value as shall be approved by said Comptroller, and make such amendments to its articles of association as may be necessary for this purpose; but, in the case of any newly organized national banking association which has not yet issued common stock, the requirement of notice to and vote of shareholders shall not apply. No issue of preferred stock shall be valid until the par value of all stock so issued shall be paid in and notice thereof, duly acknowledged before a notary public by the president, vice president, or cashier of said association, has been transmitted to the Comptroller of the Currency and his certificate obtained specifying the amount of such issue of preferred stock and his approval thereof and that the amount has been duly paid in as a part of the capital of such association; which certificate shall be deemed to be conclusive evidence that such preferred stock has been duly and validly issued.
 
-(Mar. 9, 1933, ch. 1, title III, § 301, 48 Stat. 5; June 15, 1933, ch. 79, 48 Stat. 147; Aug. 23, 1935, ch. 614, title III, § 336, 49 Stat. 720; Pub. L. 86–507, § 1(9), June 11, 1960, 74 Stat. 200.)
+(Mar. 9, 1933, ch. 1, title III, § 301, 48 Stat. 5; June 15, 1933, ch. 79, 48 Stat. 147; Aug. 23, 1935, ch. 614, title III, § 336, 49 Stat. 720; Pub. L. 86–507, § 1(9), June 11, 1960, 74 Stat. 200.)
 
 **Editorial Notes**
 
@@ -1479,13 +1479,13 @@ Notwithstanding any other provision of law, any national banking association may
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 51b. Dividends, voting, and retirement of preferred stock; individual liability
+### § 51b. Dividends, voting, and retirement of preferred stock; individual liability
 
 **(a)** Notwithstanding any other provision of law, whether relating to restriction upon the payment of dividends upon capital stock or otherwise, the holders of such preferred stock shall be entitled to receive such cumulative dividends and shall have such voting and conversion rights and such control of management, and such stock shall be subject to retirement in such manner and upon such conditions, as may be provided in the articles of association with the approval of the Comptroller of the Currency. The holders of such preferred stock shall not be held individually responsible as such holders for any debts, contracts, or engagements of such association, and shall not be liable for assessments to restore impairments in the capital of such association as now provided by law with reference to holders of common stock.
 
 **(b)** No dividends shall be declared or paid on common stock until the cumulative dividends on the preferred stock shall have been paid in full; and, if the association is placed in voluntary liquidation or a conservator or a receiver is appointed therefor, no payments shall be made to the holders of the common stock until the holders of the preferred stock shall have been paid in full the par value of such stock plus all accumulated dividends.
 
-(Mar. 9, 1933, ch. 1, title III, § 302, 48 Stat. 5; June 15, 1933, ch. 79, 48 Stat. 148; Pub. L. 96–221, title VII, § 702, Mar. 31, 1980, 94 Stat. 186.)
+(Mar. 9, 1933, ch. 1, title III, § 302, 48 Stat. 5; June 15, 1933, ch. 79, 48 Stat. 148; Pub. L. 96–221, title VII, § 702, Mar. 31, 1980, 94 Stat. 186.)
 
 **Editorial Notes**
 
@@ -1501,17 +1501,17 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 51b–1. Consideration of preferred stock in determining impairment of capital; dividends; retirement
+### § 51b–1. Consideration of preferred stock in determining impairment of capital; dividends; retirement
 
 If any part of the capital of a national bank, State member bank, or bank applying for membership in the Federal Reserve System consists of preferred stock, the determination of whether or not the capital of such bank is impaired and the amount of such impairment shall be based upon the par value of its stock even though the amount which the holders of such preferred stock shall be entitled to receive in the event of retirement or liquidation shall be in excess of the par value of such preferred stock. If any such bank or trust company shall have outstanding any capital notes or debentures of the type which the Reconstruction Finance Corporation is authorized to purchase pursuant to the provisions of section 51d of this title, the capital of such bank may be deemed to be unimpaired if the sound value of its assets is not less than its total liabilities, including capital stock, but excluding such capital notes or debentures and any obligations of the bank expressly subordinated thereto. Notwithstanding any other provision of law, the holders of preferred stock issued by a national banking association pursuant to the provisions of the Emergency Banking and Bank Conservation Act, approved March 9, 1933, as amended, shall be entitled to receive such cumulative dividends on the purchase price received by the association for such stock and, in the event of the retirement of such stock, to receive such retirement price, not in excess of such purchase price plus all accumulated dividends, as may be provided in the articles of association with the approval of the Comptroller of the Currency. If the association is placed in voluntary liquidation, or if a conservator or a receiver is appointed therefor, no payment shall be made to the holders of common stock until the holders of preferred stock shall have been paid in full such amount as may be provided in the articles of association with the approval of the Comptroller of the Currency, not in excess of such purchase price of such preferred stock plus all accumulated dividends.
 
-(Aug. 23, 1935, ch. 614, title III, § 345, 49 Stat. 722; Pub. L. 96–221, title VII, § 703, Mar. 31, 1980, 94 Stat. 186.)
+(Aug. 23, 1935, ch. 614, title III, § 345, 49 Stat. 722; Pub. L. 96–221, title VII, § 703, Mar. 31, 1980, 94 Stat. 186.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 51d of this title, referred to in text, which was section 304 of the Emergency Banking and Bank Conservation Act, approved March 9, 1933, ch. 1, 48 Stat. 6, as amended, and which authorized the Reconstruction Finance Corporation, upon the request of the Secretary of the Treasury approved by the President, to purchase, or to make loans upon, the capital stock of any bank or trust company requiring funds for capital purposes in connection with its organization or reorganization, and which made provision for the purchase of the capital notes of banks organized in States which subject holders of preferred stock to double liability and for the sale of any stock or notes purchased under such authority, was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. However, according to the information received from the Department of the Treasury, the second sentence of this section is not obsolete even though it contains such obsolete reference to section 51d of this title, and even though, under 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, the Reconstruction Finance Corporation was abolished, for many banks have outstanding debentures which they obtained pursuant to the provisions of section 51d, and which they are not required to redeem; and their benefits or entitlements conferred by the second sentence of this section will remain until the debentures are redeemed.
+Section 51d of this title, referred to in text, which was section 304 of the Emergency Banking and Bank Conservation Act, approved March 9, 1933, ch. 1, 48 Stat. 6, as amended, and which authorized the Reconstruction Finance Corporation, upon the request of the Secretary of the Treasury approved by the President, to purchase, or to make loans upon, the capital stock of any bank or trust company requiring funds for capital purposes in connection with its organization or reorganization, and which made provision for the purchase of the capital notes of banks organized in States which subject holders of preferred stock to double liability and for the sale of any stock or notes purchased under such authority, was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. However, according to the information received from the Department of the Treasury, the second sentence of this section is not obsolete even though it contains such obsolete reference to section 51d of this title, and even though, under 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, the Reconstruction Finance Corporation was abolished, for many banks have outstanding debentures which they obtained pursuant to the provisions of section 51d, and which they are not required to redeem; and their benefits or entitlements conferred by the second sentence of this section will remain until the debentures are redeemed.
 
 The Emergency Banking and Bank Conservation Act, approved March 9, 1933, as amended, referred to in text, is act Mar. 9, 1933, ch. 1, 48 Stat. 1, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, and 445 of this title and section 4305 of Title 50, War and National Defense, and classified as a note under section 4305 of Title 50.
 
@@ -1525,31 +1525,31 @@ The Emergency Banking and Bank Conservation Act, approved March 9, 1933, as amen
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 51c. “Common stock”, “capital”, and “capital stock” defined
+### § 51c. “Common stock”, “capital”, and “capital stock” defined
 
-The term “common stock” as used in sections 51a, 51b, 51c, and 51d 1
+The term “common stock” as used in sections 51a, 51b, 51c, and 51d 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title means stock of national banking associations other than preferred stock issued under the provisions of said sections. The term “capital” as used in provisions of law relating to the capital of national banking associations shall mean the amount of unimpaired common stock plus the amount of preferred stock outstanding and unimpaired; and the term “capital stock”, as used in sections 101, 177, and 178 1 of this title, shall mean only the amount of common stock outstanding.
+of this title means stock of national banking associations other than preferred stock issued under the provisions of said sections. The term “capital” as used in provisions of law relating to the capital of national banking associations shall mean the amount of unimpaired common stock plus the amount of preferred stock outstanding and unimpaired; and the term “capital stock”, as used in sections 101, 177, and 178 1 of this title, shall mean only the amount of common stock outstanding.
 
-(Mar. 9, 1933, ch. 1, title III, § 303, 48 Stat. 5.)
+(Mar. 9, 1933, ch. 1, title III, § 303, 48 Stat. 5.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 51d of this title, referred to in text, was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see note under section 51b–1 of this title.
+Section 51d of this title, referred to in text, was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see note under section 51b–1 of this title.
 
-Sections 101, 177, and 178 of this title, referred to in text, were repealed by Pub. L. 103–325, title VI, § 602(f)(2), (5), Sept. 23, 1994, 108 Stat. 2292, 2293.
+Sections 101, 177, and 178 of this title, referred to in text, were repealed by Pub. L. 103–325, title VI, § 602(f)(2), (5), Sept. 23, 1994, 108 Stat. 2292, 2293.
 
-### §§ 51d to 51f. Repealed. June 30, 1947, ch. 166, title II, § 206(b), (o), 61 Stat. 208
+### §§ 51d to 51f. Repealed. June 30, 1947, ch. 166, title II, § 206(b), (o), 61 Stat. 208
 
-Section 51d, acts Mar. 9, 1933, ch. 1, title III, § 304, 48 Stat. 6; Mar. 24, 1933, ch. 8, § 2, 48 Stat. 21; Mar. 20, 1936, ch. 160, § 1, 49 Stat. 1185; June 25, 1940, ch. 427, § 1, 54 Stat. 572, related to subscription for and sale of preferred stock in banks by the Reconstruction Finance Corporation.
+Section 51d, acts Mar. 9, 1933, ch. 1, title III, § 304, 48 Stat. 6; Mar. 24, 1933, ch. 8, § 2, 48 Stat. 21; Mar. 20, 1936, ch. 160, § 1, 49 Stat. 1185; June 25, 1940, ch. 427, § 1, 54 Stat. 572, related to subscription for and sale of preferred stock in banks by the Reconstruction Finance Corporation.
 
-Sections 51e and 51f, act Mar. 20, 1936, ch. 160, §§ 2, 3, 49 Stat. 1185, related to rate of interest on loans and separability provisions.
+Sections 51e and 51f, act Mar. 20, 1936, ch. 160, §§ 2, 3, 49 Stat. 1185, related to rate of interest on loans and separability provisions.
 
-### § 52. Par value and incidents of stock; transfer of shares
+### § 52. Par value and incidents of stock; transfer of shares
 
 The capital stock of each association shall be divided into shares of $100 each, or into shares of such less amount as may be provided in the articles of association, and be deemed personal property, and transferable on the books of the association in such manner as may be prescribed in the by-laws or articles of association. Every person becoming a shareholder by such transfer shall, in proportion to his shares, succeed to all rights and liabilities of the prior holder of such shares; and no change shall be made in the articles of association by which the rights, remedies, or security of the existing creditors of the association shall be impaired.
 
@@ -1557,99 +1557,99 @@ Certificates issued after August 23, 1935, representing shares of stock of the a
 
 After August 23, 1935, no certificate evidencing the stock of any such association shall bear any statement purporting to represent the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934, in holding the bank premises of such association, nor shall the ownership, sale, or transfer of any certificate representing the stock of any such association be conditioned in any manner whatsoever upon the ownership, sale, or transfer of a certificate representing the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934 in holding the bank premises of such association: *Provided*, That this section shall not operate to prevent the ownership, sale, or transfer of stock of any other corporation being conditioned upon the ownership, sale, or transfer of a certificate representing stock of a national banking association.
 
-(R.S. § 5139; Feb. 25, 1927, ch. 191, § 16, 44 Stat. 1233; June 16, 1933, ch. 89, § 18, 48 Stat. 186; Aug. 23, 1935, ch. 614, title III, §§ 310(a), 335, 49 Stat. 710, 720.)
+(R.S. § 5139; Feb. 25, 1927, ch. 191, § 16, 44 Stat. 1233; June 16, 1933, ch. 89, § 18, 48 Stat. 186; Aug. 23, 1935, ch. 614, title III, §§ 310(a), 335, 49 Stat. 710, 720.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5139 derived from act June 3, 1864, ch. 106, § 12, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+R.S. § 5139 derived from act June 3, 1864, ch. 106, § 12, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
-1935—Act Aug. 23, 1935, § 335, added second par.
+1935—Act Aug. 23, 1935, § 335, added second par.
 
-Act Aug. 23, 1935, § 310(a), among other changes in last par., inserted proviso.
+Act Aug. 23, 1935, § 310(a), among other changes in last par., inserted proviso.
 
 1933—Act June 16, 1933, added last par.
 
 1927—Act Feb. 25, 1927, inserted “or into shares of such less amount as may be provided in the articles of association” in first sentence.
 
-### § 53. When capital stock paid in
+### § 53. When capital stock paid in
 
 All of the capital stock of every national banking association shall be paid in before it shall be authorized to commence business.
 
-(R.S. § 5140; Pub. L. 86–230, § 4, Sept. 8, 1959, 73 Stat. 457.)
+(R.S. § 5140; Pub. L. 86–230, § 4, Sept. 8, 1959, 73 Stat. 457.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5140 derived from act June 3, 1864, ch. 106, § 14, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
+R.S. § 5140 derived from act June 3, 1864, ch. 106, § 14, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
 1959—Pub. L. 86–230 substituted requirement that all the capital stock of a national bank must be paid in before it commences business for permissive authority to be open for business upon payment of 50 per centum of the capital stock and installment payment of the remaining 50 per centum.
 
-### § 54. Repealed. Pub. L. 86–230, § 5, Sept. 8, 1959, 73 Stat. 457
+### § 54. Repealed. Pub. L. 86–230, § 5, Sept. 8, 1959, 73 Stat. 457
 
-Section, R.S. § 5141, related to failure to pay installments, remedy and effect if reduction of capital resulted.
+Section, R.S. § 5141, related to failure to pay installments, remedy and effect if reduction of capital resulted.
 
-### § 55. Enforcing payment of deficiency in capital stock; assessments; liquidation; receivership
+### § 55. Enforcing payment of deficiency in capital stock; assessments; liquidation; receivership
 
-Every association which shall have failed to pay up its capital stock, as required by law, and every association whose capital stock shall have become impaired by losses or otherwise, shall, within three months after receiving notice thereof from the Comptroller of the Currency, pay the deficiency in the capital stock, by assessment upon the shareholders pro rata for the amount of capital stock held by each; and the Treasurer of the United States shall withhold the interest upon all bonds held by him in trust for any such association, upon notification from the Comptroller of the Currency, until otherwise notified by him. If any such association shall fail to pay up its capital stock, and shall refuse to go into liquidation, as provided by law, for three months after receiving notice from the comptroller, a receiver may be appointed to close up the business of the association, according to the provisions of section 192 of this title. *And provided*, That if any shareholder or shareholders of such bank shall neglect or refuse, after three months’ notice, to pay the assessment, as provided in this section, it shall be the duty of the board of directors to cause a sufficient amount of the capital stock of such shareholder or shareholders to be sold at public auction (after thirty days’ notice shall be given by posting such notice of sale in the office of the bank, and by publishing such notice in a newspaper of the city or town in which the bank is located, or in a newspaper published nearest thereto,) 1
+Every association which shall have failed to pay up its capital stock, as required by law, and every association whose capital stock shall have become impaired by losses or otherwise, shall, within three months after receiving notice thereof from the Comptroller of the Currency, pay the deficiency in the capital stock, by assessment upon the shareholders pro rata for the amount of capital stock held by each; and the Treasurer of the United States shall withhold the interest upon all bonds held by him in trust for any such association, upon notification from the Comptroller of the Currency, until otherwise notified by him. If any such association shall fail to pay up its capital stock, and shall refuse to go into liquidation, as provided by law, for three months after receiving notice from the comptroller, a receiver may be appointed to close up the business of the association, according to the provisions of section 192 of this title. *And provided*, That if any shareholder or shareholders of such bank shall neglect or refuse, after three months’ notice, to pay the assessment, as provided in this section, it shall be the duty of the board of directors to cause a sufficient amount of the capital stock of such shareholder or shareholders to be sold at public auction (after thirty days’ notice shall be given by posting such notice of sale in the office of the bank, and by publishing such notice in a newspaper of the city or town in which the bank is located, or in a newspaper published nearest thereto,) 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 to make good the deficiency, and the balance, if any, shall be returned to such delinquent shareholder or shareholders.
 
-(R.S. § 5205; June 30, 1876, ch. 156, § 4, 19 Stat. 64.)
+(R.S. § 5205; June 30, 1876, ch. 156, § 4, 19 Stat. 64.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5205 derived from act Mar. 3, 1873, ch. 269, § 1, 17 Stat. 603.
+R.S. § 5205 derived from act Mar. 3, 1873, ch. 269, § 1, 17 Stat. 603.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, formerly set out in the Appendix to Title 5, Government Organization and Employees. See section 321(c) of Title 31, Money and Finance. The Comptroller of the Currency and the Treasurer of the United States, both referred to in this section, are officers of the Treasury Department, but such Plan excepted, from the transfer, any function vested by law in the Comptroller of the Currency.
+All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, formerly set out in the Appendix to Title 5, Government Organization and Employees. See section 321(c) of Title 31, Money and Finance. The Comptroller of the Currency and the Treasurer of the United States, both referred to in this section, are officers of the Treasury Department, but such Plan excepted, from the transfer, any function vested by law in the Comptroller of the Currency.
 
-### § 56. Prohibition on withdrawal of capital; unearned dividends
+### § 56. Prohibition on withdrawal of capital; unearned dividends
 
 No association, or any member thereof, shall, during the time it shall continue its banking operations, withdraw, or permit to be withdrawn, either in the form of dividends or otherwise, any portion of its capital. If losses have at any time been sustained by any such association, equal to or exceeding its undivided profits then on hand, no dividend shall be made; and no dividend shall ever be made by any association, while it continues its banking operations, to an amount greater than its undivided profits, subject to other applicable provisions of law. But nothing in this section shall prevent the reduction of the capital stock of the association under section 59 of this title.
 
-(R.S. § 5204; Pub. L. 103–325, title VI, § 602(h)(1), Sept. 23, 1994, 108 Stat. 2294.)
+(R.S. § 5204; Pub. L. 103–325, title VI, § 602(h)(1), Sept. 23, 1994, 108 Stat. 2294.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5204 derived from act June 3, 1864, ch. 106, § 38, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.
+R.S. § 5204 derived from act June 3, 1864, ch. 106, § 38, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
 1994—Pub. L. 103–325 substituted “undivided profits, subject to other applicable provisions of law” for “net profits then on hand, deducting therefrom its losses and bad debts” in second sentence and struck out after second sentence “All debts due to any associations, on which interest is past due and unpaid for a period of six months, unless the same are well secured, and in process of collection, shall be considered bad debts within the meaning of this section.”
 
-### § 57. Increase of capital by provision in articles of association
+### § 57. Increase of capital by provision in articles of association
 
 Any national banking association may, with the approval of the Comptroller of the Currency, and by a vote of shareholders owning two-thirds of the stock of such associations, increase its capital stock to any sum approved by the said comptroller, but no increase in capital shall be valid until the whole amount of such increase is paid in and notice thereof, duly acknowledged before a notary public by the president, vice president, or cashier of said association, has been transmitted to the Comptroller of the Currency and his certificate obtained specifying the amount of such increase in capital stock and his approval thereof, and that it has been duly paid in as part of the capital of such association: *Provided, however*, That a national banking association may, with the approval of the Comptroller of the Currency, and by the vote of shareholders owning two-thirds of the stock of such association, increase its capital stock by the declaration of a stock dividend, provided that the surplus of said association, after the approval of the increase, shall be at least equal to 20 per centum of the capital stock as increased. Such increase shall not be effective until a certificate certifying to such declaration of dividend, signed by the president, vice president, or cashier of said association and duly acknowledged before a notary public, shall have been forwarded to the Comptroller of the Currency and his certificate obtained specifying the amount of such increase of capital stock by stock dividend, and his approval thereof.
 
-(R.S. § 5142; Feb. 25, 1927, ch. 191, § 5, 44 Stat. 1227.)
+(R.S. § 5142; Feb. 25, 1927, ch. 191, § 5, 44 Stat. 1227.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5142 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
+R.S. § 5142 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -1661,11 +1661,11 @@ R.S. § 5142 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, wh
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 58. Repealed. Pub. L. 86–230, § 6, Sept. 8, 1959, 73 Stat. 457
+### § 58. Repealed. Pub. L. 86–230, § 6, Sept. 8, 1959, 73 Stat. 457
 
-Section, act May 1, 1886, ch. 73, § 1, 24 Stat. 18, related to increase of capital by vote of shareholders. See section 57 of this title.
+Section, act May 1, 1886, ch. 73, § 1, 24 Stat. 18, related to increase of capital by vote of shareholders. See section 57 of this title.
 
-### § 59. Reduction of capital
+### § 59. Reduction of capital
 
 **(a) In general**
 
@@ -1675,13 +1675,13 @@ Subject to the approval of the Comptroller of the Currency, a national banking a
 
 As part of its capital reduction plan approved in accordance with subsection (a), and with the affirmative vote of shareholders owning at least two thirds of the shares of each class of its stock outstanding (each voting as a class), a national banking association may distribute cash or other assets to its shareholders.
 
-(R.S. § 5143; Dec. 23, 1913, ch. 6, § 28, 38 Stat. 274; Aug. 23, 1935, ch. 614, title III, § 334, 49 Stat. 720; Pub. L. 109–351, title III, § 304, Oct. 13, 2006, 120 Stat. 1970.)
+(R.S. § 5143; Dec. 23, 1913, ch. 6, § 28, 38 Stat. 274; Aug. 23, 1935, ch. 614, title III, § 334, 49 Stat. 720; Pub. L. 109–351, title III, § 304, Oct. 13, 2006, 120 Stat. 1970.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5143 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
+R.S. § 5143 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -1689,7 +1689,7 @@ R.S. § 5143 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, wh
 
 1935—Act Aug. 23, 1935, substituted “and no shareholder shall be entitled to any distribution of cash or other assets by reason of any reduction of the common capital of any association unless such distribution shall have been approved by the Comptroller of the Currency and by the affirmative vote of at least two-thirds of the shares of each class of stock outstanding, voting as classes” for “and by the Federal Reserve Board or by the organization committee pending the organization of the Federal Reserve Board”.
 
-### § 60. National bank dividends
+### § 60. National bank dividends
 
 **(a) In general**
 
@@ -1699,39 +1699,39 @@ Subject to subsection (b), the directors of any national bank may declare a divi
 
 A national bank may not declare and pay dividends in any year in excess of an amount equal to the sum of the total of the net income of the bank for that year and the retained net income of the bank for the preceding 2 years, minus the sum of any transfers required by the Comptroller of the Currency and any transfers required to be made to a fund for the retirement of any preferred stock, unless the Comptroller of the Currency approves the declaration and payment of dividends in excess of such amount.
 
-(R.S. § 5199; Aug. 23, 1935, ch. 614, title III, § 315, 49 Stat. 712; Pub. L. 86–230, § 21(a), Sept. 8, 1959, 73 Stat. 465; Pub. L. 103–325, title VI, § 602(h)(2), Sept. 23, 1994, 108 Stat. 2294; Pub. L. 109–351, title III, § 302(a), Oct. 13, 2006, 120 Stat. 1970.)
+(R.S. § 5199; Aug. 23, 1935, ch. 614, title III, § 315, 49 Stat. 712; Pub. L. 86–230, § 21(a), Sept. 8, 1959, 73 Stat. 465; Pub. L. 103–325, title VI, § 602(h)(2), Sept. 23, 1994, 108 Stat. 2294; Pub. L. 109–351, title III, § 302(a), Oct. 13, 2006, 120 Stat. 1970.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5199 derived from act June 3, 1864, ch. 106, § 33, 13 Stat. 109, which was the National Bank Act. See section 38 of this title.
+R.S. § 5199 derived from act June 3, 1864, ch. 106, § 33, 13 Stat. 109, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
 2006—Pub. L. 109–351 amended section generally. Prior to amendment, section related to periodic declarations of dividends subject to certain surplus fund requirements and to the approval of the Comptroller of the Currency in certain situations.
 
-1994—Subsec. (a). Pub. L. 103–325, § 602(h)(2)(A), (B), substituted “undivided profits of the association, subject to the limitations in subsection (b) of this section,” for “net profits of the association” in first sentence and “net income” for “net profits” wherever subsequently appearing.
+1994—Subsec. (a). Pub. L. 103–325, § 602(h)(2)(A), (B), substituted “undivided profits of the association, subject to the limitations in subsection (b) of this section,” for “net profits of the association” in first sentence and “net income” for “net profits” wherever subsequently appearing.
 
-Subsec. (b). Pub. L. 103–325, § 602(h)(2)(B), substituted “net income” for “net profits” in two places.
+Subsec. (b). Pub. L. 103–325, § 602(h)(2)(B), substituted “net income” for “net profits” in two places.
 
-Subsec. (c). Pub. L. 103–325, § 602(h)(2)(C), struck out subsec. (c) which read as follows: “For the purpose of this section the term ‘net profits’ shall mean the remainder of all earnings from current operations plus actual recoveries on loans and investments and other assets, after deducting from the total thereof all current operating expenses, actual losses, accrued dividends on preferred stock, if any, and all Federal and State taxes.”
+Subsec. (c). Pub. L. 103–325, § 602(h)(2)(C), struck out subsec. (c) which read as follows: “For the purpose of this section the term ‘net profits’ shall mean the remainder of all earnings from current operations plus actual recoveries on loans and investments and other assets, after deducting from the total thereof all current operating expenses, actual losses, accrued dividends on preferred stock, if any, and all Federal and State taxes.”
 
 1959—Pub. L. 86–230 designated existing provisions as subsec. (a), authorized the declaration of dividends, quarterly and annually, when at least one-tenth of the bank’s net profits of the preceding half year or of the preceding two consecutive half-year periods has been carried to the surplus fund, respectively, and added subsecs. (b) and (c).
 
 1935—Act Aug. 23, 1935, among other changes, inserted proviso.
 
-### § 61. Shareholders’ voting rights; cumulative and distributive voting; preferred stock; trust shares; proxies, liability restrictions; percentage requirement exclusion of trust shares
+### § 61. Shareholders’ voting rights; cumulative and distributive voting; preferred stock; trust shares; proxies, liability restrictions; percentage requirement exclusion of trust shares
 
 In all elections of directors, each shareholder shall have the right to vote the number of shares owned by him for as many persons as there are directors to be elected, or, if so provided by the articles of association of the national bank, to cumulate such shares and give one candidate as many votes as the number of directors multiplied by the number of his shares shall equal or to distribute them on the same principle among as many candidates as he shall think fit; and in deciding all other questions at meetings of shareholders, each shareholder shall be entitled to one vote on each share of stock held by him; except that (1) this shall not be construed as limiting the voting rights of holders of preferred stock under the terms and provisions of articles of association, or amendments thereto, adopted pursuant to the provisions of section 51b of this title; (2) in the election of directors, shares of its own stock held by a national bank as sole trustee, whether registered in its own name as such trustee or in the name of its nominee, shall not be voted by the registered owner unless under the terms of the trust the manner in which such shares shall be voted may be determined by a donor or beneficiary of the trust and unless such donor or beneficiary actually directs how such shares shall be voted; and (3) shares of its own stock held by a national bank and one or more persons as trustees may be voted by such other person or persons, as trustees, in the same manner as if he or they were the sole trustee. Shareholders may vote by proxies duly authorized in writing; but no officer, clerk, teller, or bookkeeper of such bank shall act as proxy; and no shareholder whose liability is past due and unpaid shall be allowed to vote. Whenever shares of stock cannot be voted by reason of being held by the bank as sole trustee such shares shall be excluded in determining whether matters voted upon by the shareholders were adopted by the requisite percentage of shares.
 
-(R.S. § 5144; June 16, 1933, ch. 89, § 19, 48 Stat. 186; Aug. 23, 1935, ch. 614, title III, § 311, 49 Stat. 710; Sept. 3, 1954, ch. 1263, § 21, 68 Stat. 1234; Pub. L. 86–114, § 4, July 28, 1959, 73 Stat. 264; Pub. L. 89–485, § 13(c), July 1, 1966, 80 Stat. 242; Pub. L. 109–351, title III, § 301, Oct. 13, 2006, 120 Stat. 1969.)
+(R.S. § 5144; June 16, 1933, ch. 89, § 19, 48 Stat. 186; Aug. 23, 1935, ch. 614, title III, § 311, 49 Stat. 710; Sept. 3, 1954, ch. 1263, § 21, 68 Stat. 1234; Pub. L. 86–114, § 4, July 28, 1959, 73 Stat. 264; Pub. L. 89–485, § 13(c), July 1, 1966, 80 Stat. 242; Pub. L. 109–351, title III, § 301, Oct. 13, 2006, 120 Stat. 1969.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5144 derived from act June 3, 1864, ch. 106, § 11, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+R.S. § 5144 derived from act June 3, 1864, ch. 106, § 11, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -1747,17 +1747,17 @@ R.S. § 5144 derived from act June 3, 1864, ch. 106, § 11, 13 Stat. 102, wh
 
 1933—Act June 16, 1933, inserted provisions for cumulative voting of shares or distribution of votes on a cumulative voting principle, prohibited national banks holding their own shares as sole trustee from voting such shares but permitted such shares to be voted when held by another person or persons as trustees with the bank, denied voting rights to shares controlled by a holding company affiliate of a national bank unless a voting permit was first obtained, provided for application for a voting permit to the Federal Reserve Board, specified conditions for granting the voting permit and procedure for its revocation, and authorized the forfeiture of a National Bank’s rights, privileges, and franchises upon such revocation.
 
-### § 62. List of shareholders
+### § 62. List of shareholders
 
 The president and cashier of every national banking association shall cause to be kept at all times a full and correct list of the names and residences of all the shareholders in the association, and the number of shares held by each, in the office where its business is transacted. Such list shall be subject to the inspection of all the shareholders and creditors of the association, and the officers authorized to assess taxes under State authority, during business hours of each day in which business may be legally transacted. A copy of such list, verified by the oath of such president or cashier, shall be transmitted to the Comptroller of the Currency within ten days of any demand therefor made by him.
 
-(R.S. § 5210; May 18, 1953, ch. 59, § 1, 67 Stat. 27.)
+(R.S. § 5210; May 18, 1953, ch. 59, § 1, 67 Stat. 27.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5210 derived from act June 3, 1864, ch. 106, § 40, 13 Stat. 111, which was the National Bank Act. See section 38 of this title.
+R.S. § 5210 derived from act June 3, 1864, ch. 106, § 40, 13 Stat. 111, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -1767,7 +1767,7 @@ R.S. § 5210 derived from act June 3, 1864, ch. 106, § 40, 13 Stat. 111, wh
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -1775,33 +1775,33 @@ Provisions of this section were made applicable to banks, etc., in the District 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### §§ 63, 64. Repealed. Pub. L. 86–230, § 7, Sept. 8, 1959, 73 Stat. 457
+### §§ 63, 64. Repealed. Pub. L. 86–230, § 7, Sept. 8, 1959, 73 Stat. 457
 
-Section 63, R.S. § 5151, related to individual liability of shareholders.
+Section 63, R.S. § 5151, related to individual liability of shareholders.
 
-Section 64, act Dec. 23, 1913, ch. 6, § 23, 38 Stat. 273, related to transfer of shares as affecting individual liability of shareholders. Limitation on liability of shareholders, see section 64a of this title.
+Section 64, act Dec. 23, 1913, ch. 6, § 23, 38 Stat. 273, related to transfer of shares as affecting individual liability of shareholders. Limitation on liability of shareholders, see section 64a of this title.
 
 The status of former section 63 of this title had been doubtful. At different times it had been held to have been repealed, superseded, and superseded only in part by former section 64 of this title which related to the same subject. See *American T. Co*. v. *Grut*, C.C.A. 1935, 80 F.2d 155; *Miller* v. *Hamner*, C.C.A. 1920, 269 F. 891; and *First Nat. Bank* v. *First Nat. Bank*, D.C. 1926, 14 F.2d 129.
 
-### § 64a. Individual liability of shareholders; limitation on liability
+### § 64a. Individual liability of shareholders; limitation on liability
 
-The additional liability imposed upon shareholders in national banking associations by the provisions of sections 63 and 64 of this title shall not apply with respect to shares in any such association issued after June 16, 1933. Such additional liability shall cease on July 1, 1937, with respect to all shares issued by any association which shall be transacting the business of banking on July 1, 1937: *Provided*, That not less than six months prior to such date, such association shall have caused notice of such prospective termination of liability to be published in a newspaper published in the city, town, or county in which such association is located, and if no newspaper is published in such city, town, or county, then in a newspaper of general circulation therein. If the association fail 1
+The additional liability imposed upon shareholders in national banking associations by the provisions of sections 63 and 64 of this title shall not apply with respect to shares in any such association issued after June 16, 1933. Such additional liability shall cease on July 1, 1937, with respect to all shares issued by any association which shall be transacting the business of banking on July 1, 1937: *Provided*, That not less than six months prior to such date, such association shall have caused notice of such prospective termination of liability to be published in a newspaper published in the city, town, or county in which such association is located, and if no newspaper is published in such city, town, or county, then in a newspaper of general circulation therein. If the association fail 1
 
-<sup>1</sup>  So in original. Probably should be “fails”.
+<sup>1</sup> So in original. Probably should be “fails”.
 
-to give such notice as and when above provided, a termination of such additional liability may thereafter be accomplished as of the date six month 2
+to give such notice as and when above provided, a termination of such additional liability may thereafter be accomplished as of the date six month 2
 
-<sup>2</sup>  So in original. Probably should be “months”.
+<sup>2</sup> So in original. Probably should be “months”.
 
 subsequent to publication, in the manner above provided. In the case of each association which has not caused notice of such prospective termination of liability to be published prior to May 18, 1953, the Comptroller of the Currency shall cause such notice to be published in the manner provided in this section, and on the date six months subsequent to such publication by the Comptroller of the Currency such additional liability shall cease.
 
-(June 16, 1933, ch. 89, § 22, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, § 304, 49 Stat. 708; May 18, 1953, ch. 59, § 2, 67 Stat. 27.)
+(June 16, 1933, ch. 89, § 22, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, § 304, 49 Stat. 708; May 18, 1953, ch. 59, § 2, 67 Stat. 27.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 63 and 64 of this title, referred to in text, were repealed by Pub. L. 86–230, § 7, Sept. 8, 1959, 73 Stat. 457.
+Sections 63 and 64 of this title, referred to in text, were repealed by Pub. L. 86–230, § 7, Sept. 8, 1959, 73 Stat. 457.
 
 **Amendments**
 
@@ -1815,23 +1815,23 @@ Sections 63 and 64 of this title, referred to in text, were repealed by Pub. L. 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 65. Repealed. Pub. L. 86–230, § 8, Sept. 8, 1959, 73 Stat. 457
+### § 65. Repealed. Pub. L. 86–230, § 8, Sept. 8, 1959, 73 Stat. 457
 
-Section, acts June 30, 1876, ch. 156, § 2, 19 Stat. 63; Sept. 3, 1954, ch. 1263, § 22, 68 Stat. 1234, related to enforcement of shareholders’ individual liability by creditors on liquidation. Limitation on liability of shareholders, see section 64a of this title.
+Section, acts June 30, 1876, ch. 156, § 2, 19 Stat. 63; Sept. 3, 1954, ch. 1263, § 22, 68 Stat. 1234, related to enforcement of shareholders’ individual liability by creditors on liquidation. Limitation on liability of shareholders, see section 64a of this title.
 
-### § 66. Personal liability of representatives of stockholders
+### § 66. Personal liability of representatives of stockholders
 
 Persons holding stock as executors, administrators, guardians, or trustees, shall not be personally subject to any liabilities as stockholders; but the estates and funds in their hands shall be liable in like manner and to the same extent as the testator, intestate, ward, or person interested in such trust funds would be, if living and competent to act and hold the stock in his own name.
 
-(R.S. § 5152.)
+(R.S. § 5152.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5152 derived from act June 3, 1864, ch. 106, § 63, 13 Stat. 118, which was the National Bank Act. See section 38 of this title.
+R.S. § 5152 derived from act June 3, 1864, ch. 106, § 63, 13 Stat. 118, which was the National Bank Act. See section 38 of this title.
 
-### § 67. Individual liability of shareholders; compromises; authority of receiver
+### § 67. Individual liability of shareholders; compromises; authority of receiver
 
 Any receiver of a national banking association is authorized, with the approval of the Comptroller of the Currency and upon the order of a court of record of competent jurisdiction, to compromise, either before or after judgment, the individual liability of any shareholder of such association.
 
@@ -1841,7 +1841,7 @@ Any receiver of a national banking association is authorized, with the approval 
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -1851,17 +1851,17 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 ## SUBCHAPTER III—DIRECTORS
 
-### § 71. Election
+### § 71. Election
 
 The affairs of each association shall be managed by not less than five directors, who shall be elected by the shareholders at a meeting to be held at any time before the association is authorized by the Comptroller of the Currency to commence the business of banking; and afterward at meetings to be held on such day of each year as is specified therefor in the bylaws. The directors shall hold office for a period of not more than 3 years, and until their successors are elected and have qualified. In accordance with regulations issued by the Comptroller of the Currency, a national bank may adopt bylaws that provide for staggering the terms of its directors.
 
-(R.S. § 5145; Pub. L. 88–232, § 1, Dec. 23, 1963, 77 Stat. 472; Pub. L. 106–569, title XII, § 1205(a), Dec. 27, 2000, 114 Stat. 3033.)
+(R.S. § 5145; Pub. L. 88–232, § 1, Dec. 23, 1963, 77 Stat. 472; Pub. L. 106–569, title XII, § 1205(a), Dec. 27, 2000, 114 Stat. 3033.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5145 derived from act June 3, 1864, ch. 106, §§ 9, 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+R.S. § 5145 derived from act June 3, 1864, ch. 106, §§ 9, 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -1875,19 +1875,19 @@ R.S. § 5145 derived from act June 3, 1864, ch. 106, §§ 9, 10, 13 Stat. 10
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 71a. Number of directors; penalties
+### § 71a. Number of directors; penalties
 
 After one year from June 16, 1933, notwithstanding any other provision of law, the board of directors, board of trustees, or other similar governing body of every national banking association and of every State bank or trust company which is a member of the Federal Reserve System shall consist of not less than five nor more than twenty-five members, except that the Comptroller of the Currency may, by regulation or order, exempt a national bank from the 25-member limit established by this section. If any national banking association violates the provisions of this section and continues such violation after thirty days’ notice from the Comptroller of the Currency, the said Comptroller may appoint a receiver or conservator therefor, in accordance with the provisions of existing law. If any State bank or trust company which is a member of the Federal Reserve System violates the provisions of this section and continues such violation after thirty days’ notice from the Board of Governors of the Federal Reserve System, it shall be subject to the forfeiture of its membership in the Federal Reserve System in accordance with the provisions of section 327 of this title.
 
-(June 16, 1933, ch. 89, § 31, 48 Stat. 194; June 16, 1934, ch. 546, § 4, 48 Stat. 971; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 306, 49 Stat. 704, 708; Pub. L. 106–569, title XII, § 1205(b), Dec. 27, 2000, 114 Stat. 3034.)
+(June 16, 1933, ch. 89, § 31, 48 Stat. 194; June 16, 1934, ch. 546, § 4, 48 Stat. 971; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 306, 49 Stat. 704, 708; Pub. L. 106–569, title XII, § 1205(b), Dec. 27, 2000, 114 Stat. 3034.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Pub. L. 106–569 inserted before period at end of first sentence “, except that the Comptroller of the Currency may, by regulation or order, exempt a national bank from the 25-member limit established by this section”.
+2000—Pub. L. 106–569 inserted before period at end of first sentence “, except that the Comptroller of the Currency may, by regulation or order, exempt a national bank from the 25-member limit established by this section”.
 
-1935—Act June 16, 1934, as amended by act Aug. 23, 1935, § 306, repealed a former provision of this section relating to stock ownership requirements of directors, trustees, or members of similar governing bodies of any national banking association, or of any State bank or trust company which is a member of the Federal Reserve System.
+1935—Act June 16, 1934, as amended by act Aug. 23, 1935, § 306, repealed a former provision of this section relating to stock ownership requirements of directors, trustees, or members of similar governing bodies of any national banking association, or of any State bank or trust company which is a member of the Federal Reserve System.
 
 1934—Act June 16, 1934, repealed a former provision of this section relating to stock ownership requirements of directors, trustees, or members of similar governing bodies of member banks of the Federal Reserve System.
 
@@ -1895,7 +1895,7 @@ After one year from June 16, 1933, notwithstanding any other provision of law, t
 
 **Change of Name**
 
-Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
+Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
 **Executive Documents**
 
@@ -1903,21 +1903,21 @@ Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, changed name of
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 72. Qualifications
+### § 72. Qualifications
 
 Every director must, during his whole term of service, be a citizen of the United States, and at least a majority of the directors must have resided in the State, Territory, or District in which the association is located, or within one hundred miles of the location of the office of the association, for at least one year immediately preceding their election, and must be residents of such State or within one-hundred-mile territory of the location of the association during their continuance in office, except that the Comptroller may, in the discretion of the Comptroller, waive the requirement of residency, and waive the requirement of citizenship in the case of not more than a minority of the total number of directors. Every director must own in his or her own right either shares of the capital stock of the association of which he or she is a director the aggregate par value of which is not less than $1,000, or an equivalent interest, as determined by the Comptroller of the Currency, in any company which has control over such association within the meaning of section 1841 of this title. If the capital of the bank does not exceed $25,000, every director must own in his or her own right either shares of such capital stock the aggregate par value of which is not less than $500, or an equivalent interest, as determined by the Comptroller of the Currency, in any company which has control over such association within the meaning of section 1841 of this title. Any director who ceases to be the owner of the required number of shares of the stock, or who becomes in any other manner disqualified, shall thereby vacate his place.
 
-(R.S. § 5146; Feb. 28, 1905, ch. 1163, 33 Stat. 818; Mar. 1, 1921, ch. 100, 41 Stat. 1199; Feb. 25, 1927, ch. 191, § 17, 44 Stat. 1233; Apr. 27, 1956, ch. 215, 70 Stat. 119; Pub. L. 95–369, § 2, Sept. 17, 1978, 92 Stat. 608; Pub. L. 96–221, title VII, § 710, Mar. 31, 1980, 94 Stat. 189; Pub. L. 103–325, title III, § 313, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, § 2241, Sept. 30, 1996, 110 Stat. 3009–418; Pub. L. 106–569, title XII, § 1233(a), Dec. 27, 2000, 114 Stat. 3037.)
+(R.S. § 5146; Feb. 28, 1905, ch. 1163, 33 Stat. 818; Mar. 1, 1921, ch. 100, 41 Stat. 1199; Feb. 25, 1927, ch. 191, § 17, 44 Stat. 1233; Apr. 27, 1956, ch. 215, 70 Stat. 119; Pub. L. 95–369, § 2, Sept. 17, 1978, 92 Stat. 608; Pub. L. 96–221, title VII, § 710, Mar. 31, 1980, 94 Stat. 189; Pub. L. 103–325, title III, § 313, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, § 2241, Sept. 30, 1996, 110 Stat. 3009–418; Pub. L. 106–569, title XII, § 1233(a), Dec. 27, 2000, 114 Stat. 3037.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5146 derived from act June 3, 1864, ch. 106, §§ 9, 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+R.S. § 5146 derived from act June 3, 1864, ch. 106, §§ 9, 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
-2000—Pub. L. 106–569 inserted before period at end of first sentence “, and waive the requirement of citizenship in the case of not more than a minority of the total number of directors”.
+2000—Pub. L. 106–569 inserted before period at end of first sentence “, and waive the requirement of citizenship in the case of not more than a minority of the total number of directors”.
 
 1996—Pub. L. 104–208 substituted “except that the Comptroller may, in the discretion of the Comptroller, waive the requirement of residency” for “except that in the case of an association which is a subsidiary or affiliate of a foreign bank, the Comptroller of the Currency may in his discretion waive the requirement of citizenship in the case of not more than a minority of the total number of directors” before period at end of first sentence.
 
@@ -1931,21 +1931,21 @@ R.S. § 5146 derived from act June 3, 1864, ch. 106, §§ 9, 10, 13 Stat. 10
 
 1927—Act Feb. 25, 1927, substituted a minimum value of stock ownership for minimum number of shares in both instances.
 
-### § 73. Oath
+### § 73. Oath
 
 Each director, when appointed or elected, shall take an oath that he will, so far as the duty devolves on him, diligently and honestly administer the affairs of such association, and will not knowingly violate or willingly permit to be violated any of the provisions of title 62 of the Revised Statutes, and that he is the owner in good faith, and in his own right, of the number of shares of stock required by title 62 of the Revised Statutes, subscribed by him, or standing in his name on the books of the association, and that the same is not hypothecated, or in any way pledged, as security for any loan or debt. The oath shall be taken before a notary public, properly authorized and commissioned by the State in which he resides, or before any other officer having an official seal and authorized by the State to administer oaths, except that the oath shall not be taken before any such notary public or other officer who is an officer of the director’s bank. The oath, subscribed by the director making it, and certified by the notary public or other officer before whom it is taken, shall be immediately transmitted to the Comptroller of the Currency and shall be filed and preserved in his office for a period of ten years.
 
-(R.S. § 5147; Feb. 20, 1925, ch. 274, 43 Stat. 955.)
+(R.S. § 5147; Feb. 20, 1925, ch. 274, 43 Stat. 955.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72, 74 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72, 74 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5147 derived from act June 3, 1864, ch. 106, § 9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+R.S. § 5147 derived from act June 3, 1864, ch. 106, § 9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 **Executive Documents**
 
@@ -1953,29 +1953,29 @@ R.S. § 5147 derived from act June 3, 1864, ch. 106, § 9, 13 Stat. 102, whi
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 74. Vacancies
+### § 74. Vacancies
 
 Any vacancy in the board shall be filled by appointment by the remaining directors, and any director so appointed shall hold his place until the next election.
 
-(R.S. § 5148.)
+(R.S. § 5148.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5148 derived from act June 3, 1864, ch. 106, § 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+R.S. § 5148 derived from act June 3, 1864, ch. 106, § 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
-### § 75. Legal holiday, annual meeting on; proceedings where no election held on proper day
+### § 75. Legal holiday, annual meeting on; proceedings where no election held on proper day
 
 When the day fixed in the bylaws for the regular annual meeting of the shareholders falls on a legal holiday in the State in which the bank is located, the shareholders meeting shall be held, and the directors elected, on the next following banking day. If, from any cause, an election of directors is not made on the day fixed, or in the event of a legal holiday, on the next following banking day, an election may be held on any subsequent day within sixty days of the day fixed, to be designated by the board of directors, or, if the directors fail to fix the day, by shareholders representing two-thirds of the shares, at least ten days’ notice thereof in all cases having been given by first-class mail to the shareholders.
 
-(R.S. § 5149; Pub. L. 86–230, § 9, Sept. 8, 1959, 73 Stat. 457; Pub. L. 88–232, § 2, Dec. 23, 1963, 77 Stat. 472.)
+(R.S. § 5149; Pub. L. 86–230, § 9, Sept. 8, 1959, 73 Stat. 457; Pub. L. 88–232, § 2, Dec. 23, 1963, 77 Stat. 472.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5149 derived from act June 3, 1864, ch. 106, § 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+R.S. § 5149 derived from act June 3, 1864, ch. 106, § 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -1983,31 +1983,31 @@ R.S. § 5149 derived from act June 3, 1864, ch. 106, § 10, 13 Stat. 102, wh
 
 1959—Pub. L. 86–230 provided that when the day fixed for the regular annual meeting of the shareholders falls on a legal holiday, the meeting shall be held on the next following banking day and authorized election of directors to be held within sixty days of a fixed day upon ten days’ notice to the shareholders by first-class mail instead of upon thirty days’ notice in newspaper and at a date designated in the articles or bylaws or by the shareholders.
 
-### § 76. President of bank as member of board; chairman of board
+### § 76. President of bank as member of board; chairman of board
 
 The president of the bank shall be a member of the board and shall be the chairman thereof, but the board may designate a director in lieu of the president to be chairman of the board, who shall perform such duties as may be designated by the board.
 
-(R.S. § 5150; Feb. 25, 1927, ch. 191, § 6, 44 Stat. 1228.)
+(R.S. § 5150; Feb. 25, 1927, ch. 191, § 6, 44 Stat. 1228.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5150 derived from act June 3, 1864, ch. 106, § 9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+R.S. § 5150 derived from act June 3, 1864, ch. 106, § 9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
 1927—Act Feb. 25, 1927, amended section generally. Prior to amendment, section read as follows: “One of the directors, to be chosen by the board, shall be president of the board.”
 
-### § 77. Repealed. Pub. L. 89–695, title II, § 207, Oct. 16, 1966, 80 Stat. 1055
+### § 77. Repealed. Pub. L. 89–695, title II, § 207, Oct. 16, 1966, 80 Stat. 1055
 
-Section, act June 16, 1933, ch. 89, § 30, 48 Stat. 193, provided authority for removal of directors or officers of national banks, District banks, or State member banks for continued violations of law or for continued unsafe or unsound practices in conducting the business of such banks.
+Section, act June 16, 1933, ch. 89, § 30, 48 Stat. 193, provided authority for removal of directors or officers of national banks, District banks, or State member banks for continued violations of law or for continued unsafe or unsound practices in conducting the business of such banks.
 
 **Editorial Notes**
 
 **Codification**
 
-Section 401 of Pub. L. 89–695, Oct. 16, 1966, 80 Stat. 1056, which provided for reenactment of this section effective upon expiration of the period ending at the close of June 30, 1972, was repealed by Pub. L. 91–609, title IX, § 908, Dec. 31, 1970, 84 Stat. 1811.
+Section 401 of Pub. L. 89–695, Oct. 16, 1966, 80 Stat. 1056, which provided for reenactment of this section effective upon expiration of the period ending at the close of June 30, 1972, was repealed by Pub. L. 91–609, title IX, § 908, Dec. 31, 1970, 84 Stat. 1811.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2015,9 +2015,9 @@ Section 401 of Pub. L. 89–695, Oct. 16, 1966, 80 Stat. 1056, which provided fo
 
 Nothing contained in section 207 of Pub. L. 89–695 repealing this section to be construed as repealing, modifying, or affecting section 1829 of this title, see section 206 of Pub. L. 89–695, set out as a note under section 1813 of this title.
 
-### § 78. Repealed. Pub. L. 106–102, title I, § 101(b), Nov. 12, 1999, 113 Stat. 1341
+### § 78. Repealed. Pub. L. 106–102, title I, § 101(b), Nov. 12, 1999, 113 Stat. 1341
 
-Section, acts June 16, 1933, ch. 89, § 32, 48 Stat. 194; Aug. 23, 1935, ch. 614, § 307, 49 Stat. 709, related to certain persons excluded from serving as officers, directors, or employees of member banks.
+Section, acts June 16, 1933, ch. 89, § 32, 48 Stat. 194; Aug. 23, 1935, ch. 614, § 307, 49 Stat. 709, related to certain persons excluded from serving as officers, directors, or employees of member banks.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2027,27 +2027,27 @@ Repeal effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–
 
 ## SUBCHAPTER IV—REGULATION OF THE BANKING BUSINESS; POWERS AND DUTIES OF NATIONAL BANKS
 
-### § 81. Place of business
+### § 81. Place of business
 
 The general business of each national banking association shall be transacted in the place specified in its organization certificate and in the branch or branches, if any, established or maintained by it in accordance with the provisions of section 36 of this title.
 
-(R.S. § 5190; Feb. 25, 1927, ch. 191, § 8, 44 Stat. 1229.)
+(R.S. § 5190; Feb. 25, 1927, ch. 191, § 8, 44 Stat. 1229.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5190 derived from act June 3, 1864, ch. 106, § 8, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
+R.S. § 5190 derived from act June 3, 1864, ch. 106, § 8, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
 1927—Act Feb. 25, 1927, among other changes, inserted “and in the branch or branches, if any, established or maintained by it in accordance with the provisions of section 36 of this title”.
 
-### § 82. Repealed. Pub. L. 97–320, title IV, § 402, Oct. 15, 1982, 96 Stat. 1510
+### § 82. Repealed. Pub. L. 97–320, title IV, § 402, Oct. 15, 1982, 96 Stat. 1510
 
-Section, R.S. § 5202; Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Sept. 7, 1916, ch. 461, 39 Stat. 753; Apr. 5, 1918, ch. 45, § 20, 40 Stat. 512; Oct. 22, 1919, ch. 79, § 2, 41 Stat. 297; Mar. 4, 1923, ch. 252, title V, § 504, 42 Stat. 1481; Feb. 25, 1927, ch. 191, § 11, 44 Stat. 1231; Jan. 22, 1932, ch. 8, § 5, formerly § 6, 47 Stat. 8, renumbered and amended June 30, 1947, ch. 166, title I, § 1, 61 Stat. 202; May 20, 1933, ch. 35, § 2, 48 Stat. 73; June 19, 1934, ch. 653, § 2, 48 Stat. 1107; Sept. 8, 1959, Pub. L. 86–230, § 10, 73 Stat. 458; Sept. 9, 1959, Pub. L. 86–251, § 2, 73 Stat. 488; July 24, 1970, Pub. L. 91–351, title II, § 201(b), 84 Stat. 451; Jan. 4, 1975, Pub. L. 93–646, § 11, 88 Stat. 2337, provided that no national banking association could at any time be indebted, or in any way liable, to an amount exceeding the amount of its capital stock at such time actually paid in and remaining undiminished by losses or otherwise, plus 50 percent of the amount of its unimpaired surplus fund, except on account of demands of the nature following: notes of circulation; moneys deposited with or collected by the association; bills of exchange or drafts drawn against money actually on deposit to the credit of the association, or due thereto; liabilities to the stockholders of the association for dividends and reserve profits; liabilities incurred under the provisions of the Federal Reserve Act; liabilities incurred under the provisions of the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.]; liabilities created by the indorsement of accepted bills of exchange payable abroad actually owned by the indorsing bank and discounted at home or abroad; liabilities incurred under the provisions of sections 1031 to 1033 of this title; liabilities incurred on account of loans made with the express approval of the Comptroller of the Currency under former section 84(9) of this title; liabilities incurred under the provisions of section 352a of this title; liabilities incurred in connection with sales of mortgages, or participations therein, to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation; and liabilities incurred in borrowing from the Export-Import Bank of the United States.
+Section, R.S. § 5202; Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Sept. 7, 1916, ch. 461, 39 Stat. 753; Apr. 5, 1918, ch. 45, § 20, 40 Stat. 512; Oct. 22, 1919, ch. 79, § 2, 41 Stat. 297; Mar. 4, 1923, ch. 252, title V, § 504, 42 Stat. 1481; Feb. 25, 1927, ch. 191, § 11, 44 Stat. 1231; Jan. 22, 1932, ch. 8, § 5, formerly § 6, 47 Stat. 8, renumbered and amended June 30, 1947, ch. 166, title I, § 1, 61 Stat. 202; May 20, 1933, ch. 35, § 2, 48 Stat. 73; June 19, 1934, ch. 653, § 2, 48 Stat. 1107; Sept. 8, 1959, Pub. L. 86–230, § 10, 73 Stat. 458; Sept. 9, 1959, Pub. L. 86–251, § 2, 73 Stat. 488; July 24, 1970, Pub. L. 91–351, title II, § 201(b), 84 Stat. 451; Jan. 4, 1975, Pub. L. 93–646, § 11, 88 Stat. 2337, provided that no national banking association could at any time be indebted, or in any way liable, to an amount exceeding the amount of its capital stock at such time actually paid in and remaining undiminished by losses or otherwise, plus 50 percent of the amount of its unimpaired surplus fund, except on account of demands of the nature following: notes of circulation; moneys deposited with or collected by the association; bills of exchange or drafts drawn against money actually on deposit to the credit of the association, or due thereto; liabilities to the stockholders of the association for dividends and reserve profits; liabilities incurred under the provisions of the Federal Reserve Act; liabilities incurred under the provisions of the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.]; liabilities created by the indorsement of accepted bills of exchange payable abroad actually owned by the indorsing bank and discounted at home or abroad; liabilities incurred under the provisions of sections 1031 to 1033 of this title; liabilities incurred on account of loans made with the express approval of the Comptroller of the Currency under former section 84(9) of this title; liabilities incurred under the provisions of section 352a of this title; liabilities incurred in connection with sales of mortgages, or participations therein, to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation; and liabilities incurred in borrowing from the Export-Import Bank of the United States.
 
-### § 83. Loans by bank on its own stock
+### § 83. Loans by bank on its own stock
 
 **(a) General prohibition**
 
@@ -2057,19 +2057,19 @@ No national bank shall make any loan or discount on the security of the shares o
 
 For purposes of this section, a national bank shall not be deemed to be making a loan or discount on the security of the shares of its own capital stock if it acquires the stock to prevent loss upon a debt previously contracted for in good faith.
 
-(R.S. § 5201; Pub. L. 106–569, title XII, § 1207(a), Dec. 27, 2000, 114 Stat. 3034.)
+(R.S. § 5201; Pub. L. 106–569, title XII, § 1207(a), Dec. 27, 2000, 114 Stat. 3034.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.
+R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
 2000—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: “No association shall make any loan or discount on the security of the shares of its own capital stock, nor be the purchaser or holder of any such shares, unless such security or purchase shall be necessary to prevent loss upon a debt previously contracted in good faith; and stock so purchased or acquired shall, within six months from the time of its purchase, be sold or disposed of at public or private sale; or, in default thereof, a receiver may be appointed to close up the business of the association, according to section 192 of this title.”
 
-### § 84. Lending limits
+### § 84. Lending limits
 
 **(a) Total loans and extensions of credit**
 
@@ -2127,7 +2127,7 @@ R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, wh
 
 **(2)** The Comptroller of the Currency also shall have authority to determine when a loan putatively made to a person shall for purposes of this section be attributed to another person.
 
-(R.S. § 5200; June 22, 1906, ch. 3516, 34 Stat. 451; Sept. 24, 1918, ch. 176, § 6, 40 Stat. 967; Oct. 22, 1919, ch. 79, § 1, 41 Stat. 296; Feb. 25, 1927, ch. 191, § 10, 44 Stat. 1229; May 20, 1933, ch. 35, § 1, 48 Stat. 73; June 16, 1933, ch. 89, § 26(a), 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, § 321(b), 49 Stat. 713; June 11, 1942, ch. 404, § 8, 56 Stat. 356; July 15, 1949, ch. 338, title VI, § 602(b), 63 Stat. 440; July 22, 1937, ch. 517, § 15(a), as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1079; amended Pub. L. 85–748, § 1(c), Aug. 25, 1958, 72 Stat. 841; Pub. L. 86–251, § 3, Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–723, § 4(c)(4), Sept. 28, 1962, 76 Stat. 672; Pub. L. 90–19, § 27(b), May 25, 1967, 81 Stat. 29; Pub. L. 92–318, title I, § 133(c)(2), June 23, 1972, 86 Stat. 270; Pub. L. 97–320, title IV, § 401(a), Oct. 15, 1982, 96 Stat. 1508; Pub. L. 97–457, § 17(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, § 610(a), July 21, 2010, 124 Stat. 1611; Pub. L. 116–136, div. A, title IV, § 4011(a), Mar. 27, 2020, 134 Stat. 478.)
+(R.S. § 5200; June 22, 1906, ch. 3516, 34 Stat. 451; Sept. 24, 1918, ch. 176, § 6, 40 Stat. 967; Oct. 22, 1919, ch. 79, § 1, 41 Stat. 296; Feb. 25, 1927, ch. 191, § 10, 44 Stat. 1229; May 20, 1933, ch. 35, § 1, 48 Stat. 73; June 16, 1933, ch. 89, § 26(a), 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, § 321(b), 49 Stat. 713; June 11, 1942, ch. 404, § 8, 56 Stat. 356; July 15, 1949, ch. 338, title VI, § 602(b), 63 Stat. 440; July 22, 1937, ch. 517, § 15(a), as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1079; amended Pub. L. 85–748, § 1(c), Aug. 25, 1958, 72 Stat. 841; Pub. L. 86–251, § 3, Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–723, § 4(c)(4), Sept. 28, 1962, 76 Stat. 672; Pub. L. 90–19, § 27(b), May 25, 1967, 81 Stat. 29; Pub. L. 92–318, title I, § 133(c)(2), June 23, 1972, 86 Stat. 270; Pub. L. 97–320, title IV, § 401(a), Oct. 15, 1982, 96 Stat. 1508; Pub. L. 97–457, § 17(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, § 610(a), July 21, 2010, 124 Stat. 1611; Pub. L. 116–136, div. A, title IV, § 4011(a), Mar. 27, 2020, 134 Stat. 478.)
 
 **Editorial Notes**
 
@@ -2137,17 +2137,17 @@ Section 372 of this title, referred to in subsec. (c)(2), was in the original a 
 
 **Codification**
 
-R.S. § 5200 derived from act June 3, 1864, ch. 106, § 29, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
+R.S. § 5200 derived from act June 3, 1864, ch. 106, § 29, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
-2020—Subsec. (c)(7). Pub. L. 116–136, § 4011(a)(1), temporarily inserted “any nonbank financial company (as that term is defined in section 5311 of this title),” after “Loans or extensions of credit to” and temporarily substituted “financial institution, or to” for “financial institution or to”.
+2020—Subsec. (c)(7). Pub. L. 116–136, § 4011(a)(1), temporarily inserted “any nonbank financial company (as that term is defined in section 5311 of this title),” after “Loans or extensions of credit to” and temporarily substituted “financial institution, or to” for “financial institution or to”.
 
-Subsec. (d)(1). Pub. L. 116–136, § 4011(a)(2), temporarily inserted at end “The Comptroller of the Currency may, by order, exempt any transaction or series of transactions from the requirements of this section upon a finding by the Comptroller that such exemption is in the public interest and consistent with the purposes of this section.”
+Subsec. (d)(1). Pub. L. 116–136, § 4011(a)(2), temporarily inserted at end “The Comptroller of the Currency may, by order, exempt any transaction or series of transactions from the requirements of this section upon a finding by the Comptroller that such exemption is in the public interest and consistent with the purposes of this section.”
 
-2010—Subsec. (b)(1). Pub. L. 111–203, § 610(a)(1), substituted “shall include—” for “shall include all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person and, to the extent specified by the Comptroller of the Currency, such term shall also include any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and” and added subpars. (A) to (C).
+2010—Subsec. (b)(1). Pub. L. 111–203, § 610(a)(1), substituted “shall include—” for “shall include all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person and, to the extent specified by the Comptroller of the Currency, such term shall also include any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and” and added subpars. (A) to (C).
 
-Subsec. (b)(3). Pub. L. 111–203, § 610(a)(2), (3), added par. (3).
+Subsec. (b)(3). Pub. L. 111–203, § 610(a)(2), (3), added par. (3).
 
 1983—Subsec. (b)(1). Pub. L. 97–457 inserted a comma before “to the extent specified by the Comptroller of the Currency”.
 
@@ -2187,15 +2187,15 @@ Subsec. (b)(3). Pub. L. 111–203, § 610(a)(2), (3), added par. (3).
 
 1962—Par. (12). Pub. L. 87–723 inserted “or title V of the Housing Act of 1949” before “shall be subject under this section”.
 
-1959—Par. (6). Pub. L. 86–251, § 3(a), substituted “secured by” for “secured upon” and inserted exception with respect to obligations secured by documents transferring or securing title covering refrigerated or frozen readily marketable staples.
+1959—Par. (6). Pub. L. 86–251, § 3(a), substituted “secured by” for “secured upon” and inserted exception with respect to obligations secured by documents transferring or securing title covering refrigerated or frozen readily marketable staples.
 
-Par. (7). Pub. L. 86–251, § 3(b), inserted exception with respect to obligations arising out of the discount by dealers in dairy cattle of paper given in payment for dairy cattle.
+Par. (7). Pub. L. 86–251, § 3(b), inserted exception with respect to obligations arising out of the discount by dealers in dairy cattle of paper given in payment for dairy cattle.
 
-Par. (8). Pub. L. 86–251, § 3(c), struck out “in the form of notes” after “corporation”.
+Par. (8). Pub. L. 86–251, § 3(c), struck out “in the form of notes” after “corporation”.
 
-Par. (13). Pub. L. 86–251, § 3(d), added par. (13).
+Par. (13). Pub. L. 86–251, § 3(d), added par. (13).
 
-1958—Par. (12). Pub. L. 85–748 amended section 15(a) of act July 22, 1937, as added by act Aug. 14, 1946, by inserting sentence amending R.S. § 5200 by adding par. (12).
+1958—Par. (12). Pub. L. 85–748 amended section 15(a) of act July 22, 1937, as added by act Aug. 14, 1946, by inserting sentence amending R.S. § 5200 by adding par. (12).
 
 1949—Par. (11). Act July 15, 1949, added par. (11).
 
@@ -2213,7 +2213,7 @@ Par. (9). Act May 20, 1933, added par. (9).
 
 **Effective and Termination Dates of 2020 Amendment**
 
-Pub. L. 116–136, div. A, title IV, § 4011(b), Mar. 27, 2020, 134 Stat. 479, provided that:
+Pub. L. 116–136, div. A, title IV, § 4011(b), Mar. 27, 2020, 134 Stat. 479, provided that:
 
 > “This section, and the amendments made by this section [amending this section], shall be effective during the period beginning on the date of enactment of this Act [Mar. 27, 2020] and ending on the sooner of—
 
@@ -2223,25 +2223,25 @@ Pub. L. 116–136, div. A, title IV, § 4011(b), Mar. 27, 2020, 134 Stat. 479,
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title VI, § 610(c), July 21, 2010, 124 Stat. 1612, provided that: “The amendments made by this section [amending this section and section 1464 of this title] shall take effect 1 year after the transfer date.”
+Pub. L. 111–203, title VI, § 610(c), July 21, 2010, 124 Stat. 1612, provided that: “The amendments made by this section [amending this section and section 1464 of this title] shall take effect 1 year after the transfer date.”
 
 [For definition of “transfer date” as used in section 610(c) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–320, title IV, § 401(b), Oct. 15, 1982, 96 Stat. 1510, provided that: “This section [amending this section] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment [Oct. 15, 1982].”
+Pub. L. 97–320, title IV, § 401(b), Oct. 15, 1982, 96 Stat. 1510, provided that: “This section [amending this section] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment [Oct. 15, 1982].”
 
 **Repeals**
 
-Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as not having the effect of repealing the amendment to this section enacted by act July 22, 1937, § 15(a), as added Aug. 14, 1946, see section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318, set out as a note under section 1921 of Title 7, Agriculture.
+Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as not having the effect of repealing the amendment to this section enacted by act July 22, 1937, § 15(a), as added Aug. 14, 1946, see section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318, set out as a note under section 1921 of Title 7, Agriculture.
 
 **Savings Provision**
 
-Act June 16, 1933, ch. 89, § 26(b), 48 Stat. 191, provided: “The amendment made by this section [amending this section] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect.”
+Act June 16, 1933, ch. 89, § 26(b), 48 Stat. 191, provided: “The amendment made by this section [amending this section] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect.”
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 3, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 3, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -2249,27 +2249,27 @@ Provisions of this section were made applicable to banks, etc., in the District 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 85. Rate of interest on loans, discounts and purchases
+### § 85. Rate of interest on loans, discounts and purchases
 
 Any association may take, receive, reserve, and charge on any loan or discount made, or upon any notes, bills of exchange, or other evidences of debt, interest at the rate allowed by the laws of the State, Territory, or District where the bank is located, or at a rate of 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal reserve bank in the Federal reserve district where the bank is located, whichever may be the greater, and no more, except that where by the laws of any State a different rate is limited for banks organized under State laws, the rate so limited shall be allowed for associations organized or existing in any such State under title 62 of the Revised Statutes. When no rate is fixed by the laws of the State, or Territory, or District, the bank may take, receive, reserve, or charge a rate not exceeding 7 per centum, or 1 per centum in excess of the discount rate on ninety day commercial paper in effect at the Federal reserve bank in the Federal reserve district where the bank is located, whichever may be the greater, and such interest may be taken in advance, reckoning the days for which the note, bill, or other evidence of debt has to run. The maximum amount of interest or discount to be charged at a branch of an association located outside of the States of the United States and the District of Columbia shall be at the rate allowed by the laws of the country, territory, dependency, province, dominion, insular possession, or other political subdivision where the branch is located. And the purchase, discount, or sale of a bona fide bill of exchange, payable at another place than the place of such purchase, discount, or sale, at not more than the current rate of exchange for sight drafts in addition to the interest, shall not be considered as taking or receiving a greater rate of interest.
 
-(R.S. § 5197; June 16, 1933, ch. 89, § 25, 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, § 314, 49 Stat. 711; Pub. L. 93–501, title II, § 201, Oct. 29, 1974, 88 Stat. 1558; Pub. L. 96–104, title I, § 101, Nov. 5, 1979, 93 Stat. 789; Pub. L. 96–161, title II, § 201, Dec. 28, 1979, 93 Stat. 1235; Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168.)
+(R.S. § 5197; June 16, 1933, ch. 89, § 25, 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, § 314, 49 Stat. 711; Pub. L. 93–501, title II, § 201, Oct. 29, 1974, 88 Stat. 1558; Pub. L. 96–104, title I, § 101, Nov. 5, 1979, 93 Stat. 789; Pub. L. 96–161, title II, § 201, Dec. 28, 1979, 93 Stat. 1235; Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83, 84, 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83, 84, 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5197 derived from act June 3, 1864, ch. 106, § 30, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
+R.S. § 5197 derived from act June 3, 1864, ch. 106, § 30, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
 
 Section 201 of Pub. L. 96–161, cited as a credit to this section, was repealed by section 529 of Pub. L. 96–221, effective at the close of Mar. 31, 1980. The amendment of this section by that repealed provision, described in the 1979 Amendments note below, shall continue in effect for limited purposes pursuant to section 529. See Savings Provisions note, describing the provisions of section 529 of Pub. L. 96–221, set out below.
 
-Section 101 of Pub. L. 96–104, cited as a credit to this section, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendments note below, shall continue in effect for limited purposes pursuant to section 212 of Pub. L. 96–161. See Savings Provisions note, describing the provisions of section 212 of Pub. L. 96–161, set out below. The amendment by Pub. L. 96–104, § 101, was duplicated with identical language in the amendment made by Pub. L. 96–161, § 201. See 1979 Amendments note below.
+Section 101 of Pub. L. 96–104, cited as a credit to this section, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendments note below, shall continue in effect for limited purposes pursuant to section 212 of Pub. L. 96–161. See Savings Provisions note, describing the provisions of section 212 of Pub. L. 96–161, set out below. The amendment by Pub. L. 96–104, § 101, was duplicated with identical language in the amendment made by Pub. L. 96–161, § 201. See 1979 Amendments note below.
 
-Section 201 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note set out under this section, was duplicated in 1979 with identical language under section 101 of Pub. L. 96–104. See 1979 Amendments note below.
+Section 201 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note set out under this section, was duplicated in 1979 with identical language under section 101 of Pub. L. 96–104. See 1979 Amendments note below.
 
 **Amendments**
 
@@ -2289,25 +2289,25 @@ Pub. L. 96–104 substituted “or in the case of business or agricultural loans
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
+Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
 
 **Effective Date of 1979 Amendments**
 
-Pub. L. 96–161, title II, § 207, Dec. 28, 1979, 93 Stat. 1238, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of (1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168.
+Pub. L. 96–161, title II, § 207, Dec. 28, 1979, 93 Stat. 1238, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of (1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168.
 
-Pub. L. 96–104, title I, § 107, Nov. 5, 1979, 93 Stat. 792, which provided that amendment by Pub. L. 96–104 was applicable to loans made by any State during the period beginning on Nov. 5, 1979, and ending on the earlier of July 1, 1981, or the date after Nov. 5, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section to apply with respect to loans made in such State, or the date on which such State certifies that the voters of such State have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment of the constitution of such State, which prohibits the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 Stat. 1239.
+Pub. L. 96–104, title I, § 107, Nov. 5, 1979, 93 Stat. 792, which provided that amendment by Pub. L. 96–104 was applicable to loans made by any State during the period beginning on Nov. 5, 1979, and ending on the earlier of July 1, 1981, or the date after Nov. 5, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section to apply with respect to loans made in such State, or the date on which such State certifies that the voters of such State have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment of the constitution of such State, which prohibits the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 Stat. 1239.
 
 **Effective and Termination Dates of 1974 Amendment**
 
-Pub. L. 93–501, title II, § 206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 applicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977, or the date (after Oct. 29, 1974) of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789.
+Pub. L. 93–501, title II, § 206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 applicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977, or the date (after Oct. 29, 1974) of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789.
 
 **Savings Provisions**
 
-Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions added to this section by those repealed laws shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when those provisions were in effect in such State.
+Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions added to this section by those repealed laws shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when those provisions were in effect in such State.
 
-Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 Stat. 1239, provided in part that, notwithstanding the repeal, effective at the close of Dec. 27, 1979, of Pub. L. 96–104 [which had enacted sections 86a, 371b–1, 1730e, and 1831a of this title, amended sections 85, 1425b, and 1828 of this title and section 687 of Title 15, Commerce and Trade, repealed sections 371b–1, 1730e, and 1831a of this title and notes set out under sections 371b–1 and 1831a of this title, and enacted provisions set out as notes under this section and sections 86a, 371b–1, and 1831a of this title], the amendment which had been made by title I of Pub. L. 96–104 and the provisions of that title would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to the repeal of Pub. L. 96–104, and that the amendments made by title II of Pub. L. 96–104 would continue to apply to any deposit made or obligation issued in any State on or after Nov. 5, 1979, but prior to the repeal of Pub. L. 96–104.
+Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 Stat. 1239, provided in part that, notwithstanding the repeal, effective at the close of Dec. 27, 1979, of Pub. L. 96–104 [which had enacted sections 86a, 371b–1, 1730e, and 1831a of this title, amended sections 85, 1425b, and 1828 of this title and section 687 of Title 15, Commerce and Trade, repealed sections 371b–1, 1730e, and 1831a of this title and notes set out under sections 371b–1 and 1831a of this title, and enacted provisions set out as notes under this section and sections 86a, 371b–1, and 1831a of this title], the amendment which had been made by title I of Pub. L. 96–104 and the provisions of that title would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to the repeal of Pub. L. 96–104, and that the amendments made by title II of Pub. L. 96–104 would continue to apply to any deposit made or obligation issued in any State on or after Nov. 5, 1979, but prior to the repeal of Pub. L. 96–104.
 
-Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789, provided in part that, notwithstanding the repeal of titles II and III of Pub. L. 93–501 [which had enacted sections 371b–1, 1730e, and 1831a of this title, amended sections 85, 1425b, and 1828 of this title, and section 687 of Title 15, Commerce and Trade, and enacted provisions set out as notes under sections 371b–1 and 1831a of this title], the amendments which had been made by title II of that Act and the provisions of such title would continue to apply to any loan made in any State during the period specified in section 206 of such Act [set out as a note under section 1831a of this title] and that the amendments which had been made by title III of such Act would continue to apply to any deposit made or obligation issued in any State during the period specified in section 304 of such Act [set out as a note under section 371b–1 of this title].
+Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789, provided in part that, notwithstanding the repeal of titles II and III of Pub. L. 93–501 [which had enacted sections 371b–1, 1730e, and 1831a of this title, amended sections 85, 1425b, and 1828 of this title, and section 687 of Title 15, Commerce and Trade, and enacted provisions set out as notes under sections 371b–1 and 1831a of this title], the amendments which had been made by title II of that Act and the provisions of such title would continue to apply to any loan made in any State during the period specified in section 206 of such Act [set out as a note under section 1831a of this title] and that the amendments which had been made by title III of such Act would continue to apply to any deposit made or obligation issued in any State during the period specified in section 304 of such Act [set out as a note under section 371b–1 of this title].
 
 **Choice of Highest Applicable Interest Rate**
 
@@ -2315,45 +2315,45 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 **States Having Constitutional Provisions Regarding Maximum Interest Rates**
 
-Pub. L. 96–161, title II, § 213, Dec. 28, 1979, 93 Stat. 1240, provided that the provisions of title II of Pub. L. 96–161, which amended this section, repealed provisions which had formerly amended this section, and enacted provisions set out as notes under this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
+Pub. L. 96–161, title II, § 213, Dec. 28, 1979, 93 Stat. 1240, provided that the provisions of title II of Pub. L. 96–161, which amended this section, repealed provisions which had formerly amended this section, and enacted provisions set out as notes under this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
 
-### § 86. Usurious interest; penalty for taking; limitations
+### § 86. Usurious interest; penalty for taking; limitations
 
 The taking, receiving, reserving, or charging a rate of interest greater than is allowed by section 85 of this title, when knowingly done, shall be deemed a forfeiture of the entire interest which the note, bill, or other evidence of debt carries with it, or which has been agreed to be paid thereon. In case the greater rate of interest has been paid, the person by whom it has been paid, or his legal representatives, may recover back, in an action in the nature of an action of debt, twice the amount of the interest thus paid from the association taking or receiving the same: *Provided*, That such action is commenced within two years from the time the usurious transaction occurred.
 
-(R.S. § 5198.)
+(R.S. § 5198.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5198 (less last sentence) derived from act June 3, 1864, ch. 106, § 30, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
+R.S. § 5198 (less last sentence) derived from act June 3, 1864, ch. 106, § 30, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
 
-Section is based on R.S. § 5198, less last sentence as added by act Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, which is classified to section 94 of this title.
+Section is based on R.S. § 5198, less last sentence as added by act Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, which is classified to section 94 of this title.
 
-### § 86a. Omitted
+### § 86a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 96–221, title V, § 511, Mar. 31, 1980, 94 Stat. 164; Pub. L. 96–399, title III, § 324(b), (d), Oct. 8, 1980, 94 Stat. 1648, which authorized interest on business or agricultural loans of $1,000 or more at a rate of not more than 5 per centum in excess of the discount rate, was omitted pursuant to section 512 of Pub. L. 96–221 which made these provisions applicable only with respect to such loans made in any State during the period beginning on April 1, 1980, and ending on the earlier of (1) April 1, 1983, or (2) the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly that such State does not want these provisions to apply with respect to loans made in such State.
+Section, Pub. L. 96–221, title V, § 511, Mar. 31, 1980, 94 Stat. 164; Pub. L. 96–399, title III, § 324(b), (d), Oct. 8, 1980, 94 Stat. 1648, which authorized interest on business or agricultural loans of $1,000 or more at a rate of not more than 5 per centum in excess of the discount rate, was omitted pursuant to section 512 of Pub. L. 96–221 which made these provisions applicable only with respect to such loans made in any State during the period beginning on April 1, 1980, and ending on the earlier of (1) April 1, 1983, or (2) the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly that such State does not want these provisions to apply with respect to loans made in such State.
 
-A prior section 86a, Pub. L. 96–161, title II, § 205, Dec. 28, 1979, 93 Stat. 1237, similar to this section as enacted by Pub. L. 96–221, was repealed by section 529 of Pub. L. 96–221, effective at the close of Mar. 31, 1980, except that its provisions would continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when that section was in effect in such State. For the effective date provisions relating to the prior section 86a, see section 207 of Pub. L. 96–161.
+A prior section 86a, Pub. L. 96–161, title II, § 205, Dec. 28, 1979, 93 Stat. 1237, similar to this section as enacted by Pub. L. 96–221, was repealed by section 529 of Pub. L. 96–221, effective at the close of Mar. 31, 1980, except that its provisions would continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when that section was in effect in such State. For the effective date provisions relating to the prior section 86a, see section 207 of Pub. L. 96–161.
 
-Another prior section 86a, Pub. L. 96–104, title I, § 105, Nov. 5, 1979, 93 Stat. 791, identical to this section as enacted by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to loans made in any State on or after Nov. 5, 1979, but prior to such repeal.
+Another prior section 86a, Pub. L. 96–104, title I, § 105, Nov. 5, 1979, 93 Stat. 791, identical to this section as enacted by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to loans made in any State on or after Nov. 5, 1979, but prior to such repeal.
 
 Section 301 of Pub. L. 96–104, which limited the applicability of Pub. L. 96–104 to those States having a constitutional provision that all contracts for a greater rate of interest than 10 per centum per annum are void as to both principal and interest, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979.
 
-### §§ 87 to 89. Repealed. Pub. L. 103–325, title VI, § 602(e)(2)–(4), Sept. 23, 1994, 108 Stat. 2291
+### §§ 87 to 89. Repealed. Pub. L. 103–325, title VI, § 602(e)(2)–(4), Sept. 23, 1994, 108 Stat. 2291
 
-Section 87, R.S. § 5203, related to restriction on use by bank of its circulating notes.
+Section 87, R.S. § 5203, related to restriction on use by bank of its circulating notes.
 
-Section 88, R.S. § 5206, related to restriction on use by bank of notes of other banks.
+Section 88, R.S. § 5206, related to restriction on use by bank of notes of other banks.
 
-Section 89, R.S. § 5196, related to duty of bank to receive circulating notes of other banks in payment of debts.
+Section 89, R.S. § 5196, related to duty of bank to receive circulating notes of other banks in payment of debts.
 
-### § 90. Depositaries of public moneys and financial agents of Government
+### § 90. Depositaries of public moneys and financial agents of Government
 
 All national banking associations, designated for that purpose by the Secretary of the Treasury, shall be depositaries of public money, under such regulations as may be prescribed by the Secretary; and they may also be employed as financial agents of the Government; and they shall perform all such reasonable duties, as depositaries of public money and financial agents of the Government, as may be required of them. The Secretary of the Treasury shall require the associations thus designated to give satisfactory security, by the deposit of United States bonds and otherwise, for the safe-keeping and prompt payment of the public money deposited with them, and for the faithful performance of their duties as financial agents of the Government: *Provided*, That the Secretary shall, on or before the 1st of January of each year, make a public statement of the securities required during that year for such deposits. And every association so designated as receiver or depositary of the public money shall take and receive at par all of the national currency bills, by whatever association issued, which have been paid into the Government for internal revenue, or for loans or stocks: *Provided*, That the Secretary of the Treasury shall distribute the deposits herein provided for, as far as practicable, equitably between the different States and sections.
 
@@ -2363,15 +2363,15 @@ Any national banking association may, upon the deposit with it of any funds by a
 
 Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Secretary may select associations as financial agents in accordance with any process the Secretary deems appropriate and their reasonable duties may include the provision of electronic benefit transfer services (including State-administered benefits with the consent of the States), as defined by the Secretary.
 
-(R.S. § 5153; Mar. 3, 1901, ch. 871, 31 Stat. 1448; Mar. 4, 1907, ch. 2913, § 3, 34 Stat. 1290; Dec. 23, 1913, ch. 6, § 27, 38 Stat. 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; June 25, 1930, ch. 604, 46 Stat. 809; Aug. 18, 1950, ch. 754, 64 Stat. 463; Pub. L. 96–153, title III, § 323(f), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 104–208, div. A, title I, § 101(f) [§ 2(1)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–386.)
+(R.S. § 5153; Mar. 3, 1901, ch. 871, 31 Stat. 1448; Mar. 4, 1907, ch. 2913, § 3, 34 Stat. 1290; Dec. 23, 1913, ch. 6, § 27, 38 Stat. 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; June 25, 1930, ch. 604, 46 Stat. 809; Aug. 18, 1950, ch. 754, 64 Stat. 463; Pub. L. 96–153, title III, § 323(f), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 104–208, div. A, title I, § 101(f) [§ 2(1)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–386.)
 
 **Editorial Notes**
 
 **Codification**
 
-In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-R.S. § 5153 derived from act June 3, 1864, ch. 106, § 45, 13 Stat. 113, which was the National Bank Act. See section 38 of this title.
+R.S. § 5153 derived from act June 3, 1864, ch. 106, § 45, 13 Stat. 113, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -2383,27 +2383,27 @@ R.S. § 5153 derived from act June 3, 1864, ch. 106, § 45, 13 Stat. 113, wh
 
 1930—Act June 25, 1930, added second par.
 
-### § 91. Transfers by bank and other acts in contemplation of insolvency
+### § 91. Transfers by bank and other acts in contemplation of insolvency
 
 All transfers of the notes, bonds, bills of exchange, or other evidences of debt owing to any national banking association, or of deposits to its credit; all assignments of mortgages, sureties on real estate, or of judgments or decrees in its favor; all deposits of money, bullion, or other valuable thing for its use, or for the use of any of its shareholders or creditors; and all payments of money to either, made after the commission of an act of insolvency, or in contemplation thereof, made with a view to prevent the application of its assets in the manner prescribed by chapter 4 of title 62 of the Revised Statutes, or with a view to the preference of one creditor to another, except in payment of its circulating notes, shall be utterly null and void; and no attachment, injunction, or execution, shall be issued against such association or its property before final judgment in any suit, action, or proceeding, in any State, county, or municipal court.
 
-(R.S. § 5242.)
+(R.S. § 5242.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 4 of title 62 of the Revised Statutes, referred to in text, was in the original “this chapter”, meaning chapter 4 of title 62 of the Revised Statutes, consisting of R.S. §§ 5220 to 5244, which are classified to this section and sections 16, 43, 93, 93a, 181, 182, 192 to 194, 196, and 481 to 485 of this title. See, also, section 709 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5220 to 5244 to the Code, see Tables.
+Chapter 4 of title 62 of the Revised Statutes, referred to in text, was in the original “this chapter”, meaning chapter 4 of title 62 of the Revised Statutes, consisting of R.S. §§ 5220 to 5244, which are classified to this section and sections 16, 43, 93, 93a, 181, 182, 192 to 194, 196, and 481 to 485 of this title. See, also, section 709 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5220 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5242 derived from act June 3, 1864, ch. 106, § 52, 13 Stat. 115, which was the National Bank Act, and act Mar. 3, 1873, ch. 269, § 2, 17 Stat. 603. See section 38 of this title.
+R.S. § 5242 derived from act June 3, 1864, ch. 106, § 52, 13 Stat. 115, which was the National Bank Act, and act Mar. 3, 1873, ch. 269, § 2, 17 Stat. 603. See section 38 of this title.
 
-### § 92. Acting as insurance agent or broker
+### § 92. Acting as insurance agent or broker
 
 In addition to the powers now vested by law in national banking associations organized under the laws of the United States any such association located and doing business in any place the population of which does not exceed five thousand inhabitants, as shown by the last preceding decennial census, may, under such rules and regulations as may be prescribed by the Comptroller of the Currency, act as the agent for any fire, life, or other insurance company authorized by the authorities of the State in which said bank is located to do business in said State, by soliciting and selling insurance and collecting premiums on policies issued by such company; and may receive for services so rendered such fees or commissions as may be agreed upon between the said association and the insurance company for which it may act as agent: *Provided, however*, That no such bank shall in any case assume or guarantee the payment of any premium on insurance policies issued through its agency by its principal: *And provided further*, That the bank shall not guarantee the truth of any statement made by an assured in filing his application for insurance.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), as added Sept. 7, 1916, ch. 461, 39 Stat. 753; amended Pub. L. 97–320, title IV, § 403(b), Oct. 15, 1982, 96 Stat. 1511.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), as added Sept. 7, 1916, ch. 461, 39 Stat. 753; amended Pub. L. 97–320, title IV, § 403(b), Oct. 15, 1982, 96 Stat. 1511.)
 
 **Editorial Notes**
 
@@ -2411,11 +2411,11 @@ In addition to the powers now vested by law in national banking associations org
 
 Section is based on the eleventh par. of section 13 of act Dec. 23, 1913, as amended. The eleventh par. constituted the ninth par. of section 13 in 1916 (39 Stat. 752, 753), became the tenth par. in 1923 (42 Stat. 1478), and became the eleventh par. in 1932 (47 Stat. 715). For further details, see Codification notes under sections 342 to 344 of this title.
 
-For decision by U.S. Supreme Court that, despite faulty placement of quotation marks, act Sept. 7, 1916, placed within section 13 of act Dec. 23, 1913, each of the ten pars. located between the phrases that introduced the amendments to sections 13 and 14 of said act, that only the seventh par. (rather than seventh to tenth pars.) comprised the amended R.S. § 5202, and that section 20 of act Apr. 5, 1918 (40 Stat. 512) (which amended R.S. § 5202 comprised of a single par.), did not amend section 13 of said act so as to repeal the eighth to tenth pars., see *United States National Bank of Oregon* v. *Independent Insurance Agents of America, Inc., et al*., 508 U.S. 439, 113 S.Ct. 2173, 124 L.Ed. 2d 402 (1993). As the result of subsequent amendments, such seventh to tenth pars. of section 13 now constitute the ninth to twelfth pars. The ninth par. amended former section 82 of this title, and the tenth to twelfth pars. are classified to sections 361, 92, and 373, respectively, of this title.
+For decision by U.S. Supreme Court that, despite faulty placement of quotation marks, act Sept. 7, 1916, placed within section 13 of act Dec. 23, 1913, each of the ten pars. located between the phrases that introduced the amendments to sections 13 and 14 of said act, that only the seventh par. (rather than seventh to tenth pars.) comprised the amended R.S. § 5202, and that section 20 of act Apr. 5, 1918 (40 Stat. 512) (which amended R.S. § 5202 comprised of a single par.), did not amend section 13 of said act so as to repeal the eighth to tenth pars., see *United States National Bank of Oregon* v. *Independent Insurance Agents of America, Inc., et al*., 508 U.S. 439, 113 S.Ct. 2173, 124 L.Ed. 2d 402 (1993). As the result of subsequent amendments, such seventh to tenth pars. of section 13 now constitute the ninth to twelfth pars. The ninth par. amended former section 82 of this title, and the tenth to twelfth pars. are classified to sections 361, 92, and 373, respectively, of this title.
 
 **Amendments**
 
-1982—Pub. L. 97–320 struck out “; and may also act as the broker or agent for others in making or procuring loans on real estate located within one hundred miles of the place in which said bank may be located, receiving for such services a reasonable fee or commission” after “may act as agent” and “guarantee either the principal or interest of any such loans or” after “shall in any case”.
+1982—Pub. L. 97–320 struck out “; and may also act as the broker or agent for others in making or procuring loans on real estate located within one hundred miles of the place in which said bank may be located, receiving for such services a reasonable fee or commission” after “may act as agent” and “guarantee either the principal or interest of any such loans or” after “shall in any case”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2425,9 +2425,9 @@ Amendment by Pub. L. 97–320 effective upon the expiration of 180 days after Oc
 
 **Moratorium**
 
-Pub. L. 100–86, title II, § 201(a), (b)(5), Aug. 10, 1987, 101 Stat. 581, 583, provided that, during period beginning Mar. 6, 1987, and ending Mar. 1, 1988, national banks and Federal branches or agencies of foreign banks could not expand their insurance agency activities pursuant to this section into places where they were not conducting such activities as of Mar. 5, 1987.
+Pub. L. 100–86, title II, § 201(a), (b)(5), Aug. 10, 1987, 101 Stat. 581, 583, provided that, during period beginning Mar. 6, 1987, and ending Mar. 1, 1988, national banks and Federal branches or agencies of foreign banks could not expand their insurance agency activities pursuant to this section into places where they were not conducting such activities as of Mar. 5, 1987.
 
-### § 92a. Trust powers
+### § 92a. Trust powers
 
 **(a) Authority of Comptroller of the Currency**
 
@@ -2439,9 +2439,9 @@ Whenever the laws of such State authorize or permit the exercise of any or all o
 
 **(c) Segregation of fiduciary and general assets; separate books and records; access of State banking authorities to reports of examinations, books, rec­ords, and assets**
 
-National banks exercising any or all of the powers enumerating 1
+National banks exercising any or all of the powers enumerating 1
 
-<sup>1</sup>  So in original. Probably should be “enumerated”.
+<sup>1</sup> So in original. Probably should be “enumerated”.
 
 in this section shall segregate all assets held in any fiduciary capacity from the general assets of the bank and shall keep a separate set of books and records showing in proper detail all transactions engaged in under authority of this section. The State banking authorities may have access to reports of examination made by the Comptroller of the Currency insofar as such reports relate to the trust department of such bank, but nothing in this section shall be construed as authorizing the State banking authorities to examine the books, records, and assets of such bank.
 
@@ -2473,7 +2473,7 @@ In passing upon applications for permission to exercise the powers enumerated in
 
 Any national banking association desiring to surrender its right to exercise the powers granted under this section, in order to relieve itself of the necessity of complying with the requirements of this section, or to have returned to it any securities which it may have deposited with the State authorities for the protection of private or court trusts, or for any other purpose, may file with the Comptroller of the Currency a certified copy of a resolution of its board of directors signifying such desire. Upon receipt of such resolution, the Comptroller of the Currency, after satisfying himself that such bank has been relieved in accordance with State law of all duties as trustee, executory,2
 
-<sup>2</sup>  So in original. Probably should be “executor,”.
+<sup>2</sup> So in original. Probably should be “executor,”.
 
 administrator, registrar of stocks and bonds, guardian of estates, assignee, receiver, or other fiduciary, under court, private, or other appointments previously accepted under authority of this section, may, in his discretion, issue to such bank a certificate certifying that such bank is no longer authorized to exercise the powers granted by this section. Upon the issuance of such a certificate by the Comptroller of the Currency, such bank (1) shall no longer be subject to the provisions of this section or the regulations of the Comptroller of the Currency made pursuant thereto, (2) shall be entitled to have returned to it any securities which it may have deposited with the State authorities for the protection of private or court trusts, and (3) shall not exercise thereafter any of the powers granted by this section without first applying for and obtaining a new permit to exercise such powers pursuant to the provisions of this section. The Comptroller of the Currency is authorized and empowered to promulgate such regulations as he may deem necessary to enforce compliance with the provisions of this section and the proper exercise of the powers granted therein.
 
@@ -2487,15 +2487,15 @@ administrator, registrar of stocks and bonds, guardian of estates, assignee, rec
 
 **(4)** A revocation order shall become effective not earlier than the expiration of thirty days after service of such order upon the association so served (except in the case of a revocation order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Comptroller or a reviewing court.
 
-(Pub. L. 87–722, § 1, Sept. 28, 1962, 76 Stat. 668; Pub. L. 96–221, title VII, § 704, Mar. 31, 1980, 94 Stat. 187; Pub. L. 112–231, § 2(b)(1), Dec. 28, 2012, 126 Stat. 1619.)
+(Pub. L. 87–722, § 1, Sept. 28, 1962, 76 Stat. 668; Pub. L. 96–221, title VII, § 704, Mar. 31, 1980, 94 Stat. 187; Pub. L. 112–231, § 2(b)(1), Dec. 28, 2012, 126 Stat. 1619.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Subsec. (a). Pub. L. 112–231, § 2(b)(1)(A), struck out “committee of estates of lunatics,” before “or in any other fiduciary capacity”.
+2012—Subsec. (a). Pub. L. 112–231, § 2(b)(1)(A), struck out “committee of estates of lunatics,” before “or in any other fiduciary capacity”.
 
-Subsec. (j). Pub. L. 112–231, § 2(b)(1)(B), struck out “committee of estates of lunatics” before “or other fiduciary, under court, private,”.
+Subsec. (j). Pub. L. 112–231, § 2(b)(1)(B), struck out “committee of estates of lunatics” before “or other fiduciary, under court, private,”.
 
 1980—Subsec. (k). Pub. L. 96–221 added subsec. (k).
 
@@ -2503,9 +2503,9 @@ Subsec. (j). Pub. L. 112–231, § 2(b)(1)(B), struck out “committee of esta
 
 **Savings Provision**
 
-Pub. L. 87–722, § 2, Sept. 28, 1962, 76 Stat. 669, provided that: “Nothing contained in this Act [enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act [Sept. 28, 1962] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act.”
+Pub. L. 87–722, § 2, Sept. 28, 1962, 76 Stat. 669, provided that: “Nothing contained in this Act [enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act [Sept. 28, 1962] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act.”
 
-### § 93. Violation of provisions of chapter
+### § 93. Violation of provisions of chapter
 
 **(a) Forfeiture of franchise; personal liability of directors**
 
@@ -2517,15 +2517,15 @@ If the directors of any national banking association shall knowingly violate, or
 
 Any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such association who, violates any provision of title 62 of the Revised Statutes or any of the provisions of section 92a of this title, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
-**(2) Second tier** Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such association who, commits any violation described in paragraph (1) which— 1
+**(2) Second tier** Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such association who, commits any violation described in paragraph (1) which— 1
 
-<sup>1</sup>  So in original. The words “, commits any violation described in paragraph (1) which” probably should not appear.
+<sup>1</sup> So in original. The words “, commits any violation described in paragraph (1) which” probably should not appear.
 
 **(A)**
 
-**(i)** commits any violation described in any 2
+**(i)** commits any violation described in any 2
 
-<sup>2</sup>  So in original. The word “any” probably should not appear.
+<sup>2</sup> So in original. The word “any” probably should not appear.
 
 paragraph (1);
 
@@ -2559,9 +2559,9 @@ shall forfeit and pay a civil penalty in an amount not to exceed the applicable 
 
 **(4) Maximum amounts of penalties for any violation described in paragraph (3)** The maximum daily amount of any civil penalty which may be assessed pursuant to paragraph (3) for any violation, practice, or breach described in such paragraph is—
 
-**(A)** in the case of any person other than a national banking association, an amount to not 3
+**(A)** in the case of any person other than a national banking association, an amount to not 3
 
-<sup>3</sup>  So in original. Probably should be “not to”.
+<sup>3</sup> So in original. Probably should be “not to”.
 
 exceed $1,000,000; and
 
@@ -2587,7 +2587,7 @@ All penalties collected under authority of this subsection shall be deposited in
 
 For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
-**(12) 4 [footnote: 4 So in original. No pars. (9) to (11) have been enacted.] Regulations**
+**(12) 4 [footnote: 4 So in original. No pars. (9) to (11) have been enacted.] Regulations**
 
 The Comptroller shall prescribe regulations establishing such procedures as may be necessary to carry out this subsection.
 
@@ -2637,39 +2637,39 @@ This subsection shall not apply to a successor to the interests of, or a person 
 
 The term “senior executive officer” has the same meaning as in regulations prescribed under section 1831i(f) of this title.
 
-**(d) 5 [footnote: 5 So in original. Probably should be “(e)”.] Authority**
+**(d) 5 [footnote: 5 So in original. Probably should be “(e)”.] Authority**
 
 The Comptroller of the Currency may act in the Comptroller’s own name and through the Comptroller’s own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. § 5239; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Pub. L. 95–630, title I, § 103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, § 424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, § 24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§ 905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, § 1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, § 330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, § 331(b)(3), title IV, §§ 411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
+(R.S. § 5239; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Pub. L. 95–630, title I, § 103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, § 424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, § 24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§ 905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, § 1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, § 330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, § 331(b)(3), title IV, §§ 411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 5239 derived from act June 3, 1864, ch. 106, § 53, 13 Stat. 116, which was the National Bank Act. See section 38 of this title.
+R.S. § 5239 derived from act June 3, 1864, ch. 106, § 53, 13 Stat. 116, which was the National Bank Act. See section 38 of this title.
 
 Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
 
 **Amendments**
 
-1994—Subsec. (c). Pub. L. 103–322, § 330017(b)(2), and Pub. L. 103–325, § 413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
+1994—Subsec. (c). Pub. L. 103–322, § 330017(b)(2), and Pub. L. 103–325, § 413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
 
-Subsec. (d). Pub. L. 103–322, § 330017(b)(2), and Pub. L. 103–325, § 413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
+Subsec. (d). Pub. L. 103–322, § 330017(b)(2), and Pub. L. 103–325, § 413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
 
-Pub. L. 103–325, § 331(b)(3), added subsec. (d) relating to authority.
+Pub. L. 103–325, § 331(b)(3), added subsec. (d) relating to authority.
 
-Subsec. (d)(1)(B). Pub. L. 103–325, § 411(c)(2)(C), substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
+Subsec. (d)(1)(B). Pub. L. 103–325, § 411(c)(2)(C), substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
 
 1992—Subsec. (c). Pub. L. 102–550 added subsec. (c) relating to forfeiture of franchise for money laundering.
 
-1989—Subsec. (b). Pub. L. 101–73, § 907(e), amended subsec. (b) generally, revising and restating as pars. (1) to (8) and (12) provisions of former pars. (1) to (8).
+1989—Subsec. (b). Pub. L. 101–73, § 907(e), amended subsec. (b) generally, revising and restating as pars. (1) to (8) and (12) provisions of former pars. (1) to (8).
 
-Subsec. (c). Pub. L. 101–73, § 905(e), added subsec. (c) relating to notice after separation from service.
+Subsec. (c). Pub. L. 101–73, § 905(e), added subsec. (c) relating to notice after separation from service.
 
 1982—Subsec. (b)(1). Pub. L. 97–320, as amended by Pub. L. 97–457, inserted “or any of the provisions of section 92a of this title”, and substituted “may be assessed” for “shall be assessed” and “title” for “chapter”.
 
@@ -2679,7 +2679,7 @@ Subsec. (c). Pub. L. 101–73, § 905(e), added subsec. (c) relating to notice
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–73, title IX, § 907(*l*), Aug. 9, 1989, 103 Stat. 476, provided that:
+Pub. L. 101–73, title IX, § 907(*l*), Aug. 9, 1989, 103 Stat. 476, provided that:
 
 > “The amendments made by this section [amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act [Aug. 9, 1989], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
 
@@ -2689,7 +2689,7 @@ Pub. L. 101–73, title IX, § 907(*l*), Aug. 9, 1989, 103 Stat. 476, provided
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–630, title I, § 109, Nov. 10, 1978, 92 Stat. 3665, provided that: “Any amendment made by this title which provides for the imposition of civil penalties [enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title] shall apply only to violations occurring or continuing after the date of its enactment [Nov. 10, 1978].”
+Pub. L. 95–630, title I, § 109, Nov. 10, 1978, 92 Stat. 3665, provided that: “Any amendment made by this title which provides for the imposition of civil penalties [enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title] shall apply only to violations occurring or continuing after the date of its enactment [Nov. 10, 1978].”
 
 **Executive Documents**
 
@@ -2697,11 +2697,11 @@ Pub. L. 95–630, title I, § 109, Nov. 10, 1978, 92 Stat. 3665, provided that
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 93a. Authority to prescribe rules and regulations
+### § 93a. Authority to prescribe rules and regulations
 
 Except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to another regulatory agency, the Comptroller of the Currency is authorized to prescribe rules and regulations to carry out the responsibilities of the office, except that the authority conferred by this section does not apply to section 36 of this title or to securities activities of National Banks under the Act commonly known as the “Glass-Steagall Act”.
 
-(R.S. § 5239A, as added Pub. L. 96–221, title VII, § 708, Mar. 31, 1980, 94 Stat. 188.)
+(R.S. § 5239A, as added Pub. L. 96–221, title VII, § 708, Mar. 31, 1980, 94 Stat. 188.)
 
 **Editorial Notes**
 
@@ -2709,19 +2709,19 @@ Except to the extent that authority to issue such rules and regulations has been
 
 The Glass-Steagall Act, referred to in text, probably refers to act June 16, 1933, ch. 89, 48 Stat. 162, also known as the Banking Act of 1933 or the Glass-Steagall Act, 1933, rather than to act Feb. 27, 1932, ch. 58, 47 Stat. 56, known as the Glass-Steagall Act, 1932. Section 16 of the 1933 act, which amended section 24 (Seventh) of this title, related in part to securities activities of national banks. For complete classification of these Acts to the Code, see Tables.
 
-### § 94. Venue of suits
+### § 94. Venue of suits
 
 Any action or proceeding against a national banking association for which the Federal Deposit Insurance Corporation has been appointed receiver, or against the Federal Deposit Insurance Corporation as receiver of such association, shall be brought in the district or territorial court of the United States held within the district in which that association’s principal place of business is located, or, in the event any State, county, or municipal court has jurisdiction over such an action or proceeding, in such court in the county or city in which that association’s principal place of business is located.
 
-(R.S. § 5198; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Pub. L. 97–320, title IV, § 406, Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, § 20(a), Jan. 12, 1983, 96 Stat. 2509.)
+(R.S. § 5198; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Pub. L. 97–320, title IV, § 406, Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, § 20(a), Jan. 12, 1983, 96 Stat. 2509.)
 
 **Editorial Notes**
 
 **Codification**
 
-The last sentence of R.S. § 5198, as added by act Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, appears to have been derived from act June 3, 1864, ch. 106, § 57, 13 Stat. 116, which was the National Bank Act. See section 38 of this title.
+The last sentence of R.S. § 5198, as added by act Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, appears to have been derived from act June 3, 1864, ch. 106, § 57, 13 Stat. 116, which was the National Bank Act. See section 38 of this title.
 
-Section is comprised of last sentence of R.S. § 5198 as added by act Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320. The remaining sentences of R.S. § 5198 are classified to section 86 of this title.
+Section is comprised of last sentence of R.S. § 5198 as added by act Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320. The remaining sentences of R.S. § 5198 are classified to section 86 of this title.
 
 Act Mar. 3, 1911, conferred powers and duties of former circuit courts on district courts.
 
@@ -2733,13 +2733,13 @@ Act Mar. 3, 1911, conferred powers and duties of former circuit courts on distri
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–457, § 20(b), Jan. 12, 1983, 96 Stat. 2509, provided that: “The amendment made by subsection (a) [amending this section] shall be deemed to have taken effect upon the enactment of Public Law 97–320 [Oct. 15, 1982].”
+Pub. L. 97–457, § 20(b), Jan. 12, 1983, 96 Stat. 2509, provided that: “The amendment made by subsection (a) [amending this section] shall be deemed to have taken effect upon the enactment of Public Law 97–320 [Oct. 15, 1982].”
 
-### § 94a. Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948
+### § 94a. Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948
 
-Section, act July 12, 1882, ch. 290, § 4, 22 Stat. 163, related to jurisdiction and venue. See sections 1348 and 1394 of Title 28, Judiciary and Judicial Procedure.
+Section, act July 12, 1882, ch. 290, § 4, 22 Stat. 163, related to jurisdiction and venue. See sections 1348 and 1394 of Title 28, Judiciary and Judicial Procedure.
 
-### § 95. Emergency limitations and restrictions on business of members of Federal Reserve System; designation of legal holiday for national banking associations; exceptions; “State” defined
+### § 95. Emergency limitations and restrictions on business of members of Federal Reserve System; designation of legal holiday for national banking associations; exceptions; “State” defined
 
 **(a)** In order to provide for the safer and more effective operation of the National Banking System and the Federal Reserve System, to preserve for the people the full benefits of the currency provided for by the Congress through the National Banking System and the Federal Reserve System, and to relieve interstate commerce of the burdens and obstructions resulting from the receipt on an unsound or unsafe basis of deposits subject to withdrawal by check, during such emergency period as the President of the United States by proclamation may prescribe, no member bank of the Federal Reserve System shall transact any banking business except to such extent and subject to such regulations, limitations and restrictions as may be prescribed by the Secretary of the Treasury, with the approval of the President. Any individual, partnership, corporation, or association, or any director, officer or employee thereof, violating any of the provisions of this section shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $10,000 or, if a natural person, may, in addition to such fine, be imprisoned for a term not exceeding ten years. Each day that any such violation continues shall be deemed a separate offense.
 
@@ -2749,7 +2749,7 @@ Section, act July 12, 1882, ch. 290, § 4, 22 Stat. 163, related to jurisdicti
 
 **(2)** For the purpose of this subsection, the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
-(Mar. 9, 1933, ch. 1, title I, § 4, 48 Stat. 2; Pub. L. 96–221, title VII, § 705, Mar. 31, 1980, 94 Stat. 187; Pub. L. 97–320, title IV, § 407, Oct. 15, 1982, 96 Stat. 1513; Pub. L. 97–457, § 21, Jan. 12, 1983, 96 Stat. 2509.)
+(Mar. 9, 1933, ch. 1, title I, § 4, 48 Stat. 2; Pub. L. 96–221, title VII, § 705, Mar. 31, 1980, 94 Stat. 187; Pub. L. 97–320, title IV, § 407, Oct. 15, 1982, 96 Stat. 1513; Pub. L. 97–457, § 21, Jan. 12, 1983, 96 Stat. 2509.)
 
 **Editorial Notes**
 
@@ -2781,61 +2781,61 @@ NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, a
 
 This proclamation shall become effective as of March 15, 1947.
 
-### §§ 95a, 95b. Omitted
+### §§ 95a, 95b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 95a, act Oct. 6, 1917, ch. 106, § 5(b), 40 Stat. 415; Sept. 24, 1918, ch. 176, § 5, 40 Stat. 966; Mar. 9, 1933, ch. 1, title I, § 2, 48 Stat. 1; May 7, 1940, ch. 185, § 1, 54 Stat. 179; Dec. 18, 1941, ch. 593, title III, § 301, 55 Stat. 839; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 69 Stat. 1352; Pub. L. 95–223, title I, §§ 101(a), 102, 103(b), Dec. 28, 1977, 91 Stat. 1625, 1626; Pub. L. 100–418, title II, § 2502(a)(1), Aug. 23, 1988, 102 Stat. 1371; Pub. L. 103–236, title V, § 525(b)(1), Apr. 30, 1994, 108 Stat. 474, which related to regulation of transactions in foreign exchange of gold and silver, property transfers, vested interests, enforcement and penalties, was omitted because § 5(b) of act Oct. 6, 1917, is also classified to section 4305(b) of Title 50, War and National Defense.
+Section 95a, act Oct. 6, 1917, ch. 106, § 5(b), 40 Stat. 415; Sept. 24, 1918, ch. 176, § 5, 40 Stat. 966; Mar. 9, 1933, ch. 1, title I, § 2, 48 Stat. 1; May 7, 1940, ch. 185, § 1, 54 Stat. 179; Dec. 18, 1941, ch. 593, title III, § 301, 55 Stat. 839; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 69 Stat. 1352; Pub. L. 95–223, title I, §§ 101(a), 102, 103(b), Dec. 28, 1977, 91 Stat. 1625, 1626; Pub. L. 100–418, title II, § 2502(a)(1), Aug. 23, 1988, 102 Stat. 1371; Pub. L. 103–236, title V, § 525(b)(1), Apr. 30, 1994, 108 Stat. 474, which related to regulation of transactions in foreign exchange of gold and silver, property transfers, vested interests, enforcement and penalties, was omitted because § 5(b) of act Oct. 6, 1917, is also classified to section 4305(b) of Title 50, War and National Defense.
 
-Section 95b, act Mar. 9, 1933, ch. 1, title I, § 1, 48 Stat. 1, which related to ratification of acts of President and Secretary of the Treasury, was omitted because § 1 of act Mar. 9, 1933, is also set out as a note under section 4305 of Title 50, War and National Defense.
+Section 95b, act Mar. 9, 1933, ch. 1, title I, § 1, 48 Stat. 1, which related to ratification of acts of President and Secretary of the Treasury, was omitted because § 1 of act Mar. 9, 1933, is also set out as a note under section 4305 of Title 50, War and National Defense.
 
 ## SUBCHAPTER V—OBTAINING AND ISSUING CIRCULATING NOTES
 
-### §§ 101 to 110. Repealed. Pub. L. 103–325, title VI, § 602(e)(5)–(11), (f)(2)–(4)(A), (g)(9), Sept. 23, 1994, 108 Stat. 2292, 2294
+### §§ 101 to 110. Repealed. Pub. L. 103–325, title VI, § 602(e)(5)–(11), (f)(2)–(4)(A), (g)(9), Sept. 23, 1994, 108 Stat. 2292, 2294
 
-Section 101, acts Mar. 14, 1900, ch. 41, § 12, 31 Stat. 49; Oct. 5, 1917, ch. 74, § 2, 40 Stat. 342, provided for delivery of circulating notes in blank to national banking associations depositing bonds with Treasurer of United States.
+Section 101, acts Mar. 14, 1900, ch. 41, § 12, 31 Stat. 49; Oct. 5, 1917, ch. 74, § 2, 40 Stat. 342, provided for delivery of circulating notes in blank to national banking associations depositing bonds with Treasurer of United States.
 
-Section 101a, R.S. § 5159; Dec. 23, 1913, ch. 6, § 17, 38 Stat. 268; June 21, 1917, ch. 32, § 9, 40 Stat. 239, related to deposit of bonds to secure circulating notes.
+Section 101a, R.S. § 5159; Dec. 23, 1913, ch. 6, § 17, 38 Stat. 268; June 21, 1917, ch. 32, § 9, 40 Stat. 239, related to deposit of bonds to secure circulating notes.
 
-Section 102, R.S. § 5158, construed term “United States bonds” as including registered bonds.
+Section 102, R.S. § 5158, construed term “United States bonds” as including registered bonds.
 
-Section 103, act Oct. 5, 1917, ch. 74, § 3, 40 Stat. 342, related to denominations of notes and limitation on amount of $1 and $2 notes.
+Section 103, act Oct. 5, 1917, ch. 74, § 3, 40 Stat. 342, related to denominations of notes and limitation on amount of $1 and $2 notes.
 
-Section 104, R.S. § 5172; May 30, 1908, ch. 229, § 11, 35 Stat. 551; Dec. 23, 1913, ch. 6, § 27, 38 Stat. 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; Mar. 3, 1919, ch. 101, § 4, 40 Stat. 1315, related to printing and form of circulating notes.
+Section 104, R.S. § 5172; May 30, 1908, ch. 229, § 11, 35 Stat. 551; Dec. 23, 1913, ch. 6, § 27, 38 Stat. 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; Mar. 3, 1919, ch. 101, § 4, 40 Stat. 1315, related to printing and form of circulating notes.
 
-Section 105, act June 20, 1874, ch. 343, § 5, 18 Stat. 124, provided that Comptroller of Currency was to print charter numbers of association on national bank notes.
+Section 105, act June 20, 1874, ch. 343, § 5, 18 Stat. 124, provided that Comptroller of Currency was to print charter numbers of association on national bank notes.
 
-Section 106, act Mar. 3, 1875, ch. 130, § 1, 18 Stat. 372, provided for printing national-bank notes on distinctive paper adopted by Secretary of the Treasury.
+Section 106, act Mar. 3, 1875, ch. 130, § 1, 18 Stat. 372, provided for printing national-bank notes on distinctive paper adopted by Secretary of the Treasury.
 
-Section 107, R.S. § 5173, related to custody of plates and dies procured for printing notes and payment of expenses.
+Section 107, R.S. § 5173, related to custody of plates and dies procured for printing notes and payment of expenses.
 
-Section 108, R.S. § 5174; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 252, related to examination of plates, dies, and other material from which national-bank circulation was printed, and destruction of obsolete material.
+Section 108, R.S. § 5174; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 252, related to examination of plates, dies, and other material from which national-bank circulation was printed, and destruction of obsolete material.
 
-Section 109, R.S. § 5182; Jan. 13, 1920, ch. 38, 41 Stat. 387, provided that banks could issue and circulate notes the same as money if signed by officers in manner of obligatory promissory notes payable on demand at place of business, and specified demands for which such notes were to be received.
+Section 109, R.S. § 5182; Jan. 13, 1920, ch. 38, 41 Stat. 387, provided that banks could issue and circulate notes the same as money if signed by officers in manner of obligatory promissory notes payable on demand at place of business, and specified demands for which such notes were to be received.
 
-Section 110, R.S. § 5183; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, prohibited banks from issuing unauthorized notes.
+Section 110, R.S. § 5183; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, prohibited banks from issuing unauthorized notes.
 
 ## SUBCHAPTER VI—REDEMPTION AND REPLACEMENT OF CIRCULATING NOTES
 
-### § 121. Repealed. Pub. L. 103–325, title VI, § 602(f)(4)(B), Sept. 23, 1994, 108 Stat. 2292
+### § 121. Repealed. Pub. L. 103–325, title VI, § 602(f)(4)(B), Sept. 23, 1994, 108 Stat. 2292
 
-Section, acts June 20, 1874, ch. 343, § 3, 18 Stat. 123; Dec. 23, 1913, ch. 6, § 20, 38 Stat. 271; May 29, 1920, ch. 214, § 1, 41 Stat. 654, provided that every national banking association was to establish reserve in Treasury for redemption of notes by Treasurer of United States, forward notes unfit for use to Treasurer for disposition, and reimburse expenses of Treasury.
+Section, acts June 20, 1874, ch. 343, § 3, 18 Stat. 123; Dec. 23, 1913, ch. 6, § 20, 38 Stat. 271; May 29, 1920, ch. 214, § 1, 41 Stat. 654, provided that every national banking association was to establish reserve in Treasury for redemption of notes by Treasurer of United States, forward notes unfit for use to Treasurer for disposition, and reimburse expenses of Treasury.
 
-### § 121a. Redemption of notes unidentifiable as to bank of issue
+### § 121a. Redemption of notes unidentifiable as to bank of issue
 
 Whenever any Federal Reserve bank notes or Federal Reserve notes are presented to the Treasurer of the United States for redemption and such notes cannot be identified as to the bank of issue or the bank through which issued, the Treasurer of the United States may redeem such notes under such rules and regulations as the Secretary of the Treasury may prescribe.
 
-(June 13, 1933, ch. 62, § 1, 48 Stat. 127; Pub. L. 89–427, § 4(a), May 20, 1966, 80 Stat. 161; Pub. L. 103–325, title VI, § 602(g)(8)(A), Sept. 23, 1994, 108 Stat. 2294.)
+(June 13, 1933, ch. 62, § 1, 48 Stat. 127; Pub. L. 89–427, § 4(a), May 20, 1966, 80 Stat. 161; Pub. L. 103–325, title VI, § 602(g)(8)(A), Sept. 23, 1994, 108 Stat. 2294.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Pub. L. 103–325, § 602(g)(8)(A)(ii), which directed the amendment of this section by striking out “, and the notes, other than Federal Reserves notes, so redeemed shall be forwarded to the Comptroller of the Currency for cancellation and destruction” after “Treasury may prescribe”, was executed by striking out text which contained the word “Reserves” rather than “Reserve”, to reflect the probable intent of Congress.
+1994—Pub. L. 103–325, § 602(g)(8)(A)(ii), which directed the amendment of this section by striking out “, and the notes, other than Federal Reserves notes, so redeemed shall be forwarded to the Comptroller of the Currency for cancellation and destruction” after “Treasury may prescribe”, was executed by striking out text which contained the word “Reserves” rather than “Reserve”, to reflect the probable intent of Congress.
 
-Pub. L. 103–325, § 602(g)(8)(A)(i), substituted “Whenever any Federal Reserve bank notes,” for “Whenever any national-bank notes, Federal Reserve bank notes,”.
+Pub. L. 103–325, § 602(g)(8)(A)(i), substituted “Whenever any Federal Reserve bank notes,” for “Whenever any national-bank notes, Federal Reserve bank notes,”.
 
 1966—Pub. L. 89–427 excepted Federal Reserve notes from the category of notes which, upon redemption by the Treasurer of the United States, must be forwarded to the Comptroller of the Currency for cancellation and destruction.
 
@@ -2845,27 +2845,27 @@ Pub. L. 103–325, § 602(g)(8)(A)(i), substituted “Whenever any Federal Res
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
-### § 122. Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068
+### § 122. Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068
 
-Section, act July 14, 1890, ch. 708, § 6, 26 Stat. 289, related to deposits received by the Treasurer from national banks made to redeem circulating notes of such banks and disposition of those deposits.
+Section, act July 14, 1890, ch. 708, § 6, 26 Stat. 289, related to deposits received by the Treasurer from national banks made to redeem circulating notes of such banks and disposition of those deposits.
 
-### § 122a. Redeemed notes of unidentifiable issue; funds charged against
+### § 122a. Redeemed notes of unidentifiable issue; funds charged against
 
-Federal Reserve bank notes redeemed by the Treasurer of the United States under section 121a of this title shall be charged against the balance of deposits for the retirement of Federal Reserve bank notes under the provisions of sections 122 and 445 1
+Federal Reserve bank notes redeemed by the Treasurer of the United States under section 121a of this title shall be charged against the balance of deposits for the retirement of Federal Reserve bank notes under the provisions of sections 122 and 445 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and charges for Federal Reserve notes redeemed by the Treasurer of the United States under section 121a of this title shall be apportioned among the twelve Federal Reserve banks as determined by the Board of Governors of the Federal Reserve System.
 
-(June 13, 1933, ch. 62, § 2, 48 Stat. 128; Pub. L. 89–427, § 4(b), May 20, 1966, 80 Stat. 161; Pub. L. 103–325, title VI, § 602(g)(8)(B), Sept. 23, 1994, 108 Stat. 2294.)
+(June 13, 1933, ch. 62, § 2, 48 Stat. 128; Pub. L. 89–427, § 4(b), May 20, 1966, 80 Stat. 161; Pub. L. 103–325, title VI, § 602(g)(8)(B), Sept. 23, 1994, 108 Stat. 2294.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 122 of this title, referred to in text, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
+Section 122 of this title, referred to in text, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
 
-Section 445 of this title, referred to in text, was repealed by act June 12, 1945, ch. 186, § 3, 59 Stat. 238.
+Section 445 of this title, referred to in text, was repealed by act June 12, 1945, ch. 186, § 3, 59 Stat. 238.
 
 **Amendments**
 
@@ -2879,51 +2879,51 @@ Section 445 of this title, referred to in text, was repealed by act June 12, 194
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
-### §§ 123 to 126. Repealed. Pub. L. 103–325, title VI, § 602(e)(12), (13), (f)(4)(C), (6), Sept. 23, 1994, 108 Stat. 2292, 2293
+### §§ 123 to 126. Repealed. Pub. L. 103–325, title VI, § 602(e)(12), (13), (f)(4)(C), (6), Sept. 23, 1994, 108 Stat. 2292, 2293
 
-Section 123, R.S. § 5195; June 20, 1874, ch. 343, § 3, 18 Stat. 123, related to redemption of notes by bank at own counter.
+Section 123, R.S. § 5195; June 20, 1874, ch. 343, § 3, 18 Stat. 123, related to redemption of notes by bank at own counter.
 
-Section 124, R.S. § 5184; June 23, 1874, ch. 455, § 1, 18 Stat. 206, related to destroying and replacing notes unfit for use.
+Section 124, R.S. § 5184; June 23, 1874, ch. 455, § 1, 18 Stat. 206, related to destroying and replacing notes unfit for use.
 
 Section 125, act July 28, 1892, ch. 317, 27 Stat. 322, related to redemption of lost or stolen notes.
 
-Section 126, act June 20, 1874, ch. 343, § 8, 18 Stat. 125, related to duty of Treasurer, designated depositaries, and national-bank depositaries of United States to return notes of failed or liquidated banks to Treasury for redemption.
+Section 126, act June 20, 1874, ch. 343, § 8, 18 Stat. 125, related to duty of Treasurer, designated depositaries, and national-bank depositaries of United States to return notes of failed or liquidated banks to Treasury for redemption.
 
-### § 127. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 633
+### § 127. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 633
 
-Section, act Mar. 3, 1875, ch. 130, § 3, 18 Stat. 399, provided for a clerical force for redemption of circulating notes.
+Section, act Mar. 3, 1875, ch. 130, § 3, 18 Stat. 399, provided for a clerical force for redemption of circulating notes.
 
 ## SUBCHAPTER VII—PROCEEDINGS ON FAILURE OF BANK TO REDEEM CIRCULATING NOTES
 
-### §§ 131 to 138. Repealed. Pub. L. 103–325, title VI, § 602(e)(14)–(21), Sept. 23, 1994, 108 Stat. 2292
+### §§ 131 to 138. Repealed. Pub. L. 103–325, title VI, § 602(e)(14)–(21), Sept. 23, 1994, 108 Stat. 2292
 
-Section 131, R.S. § 5226; June 20, 1874, ch. 343, § 3, 18 Stat. 123, related to protest of notes and waiver of demand and notice of protest.
+Section 131, R.S. § 5226; June 20, 1874, ch. 343, § 3, 18 Stat. 123, related to protest of notes and waiver of demand and notice of protest.
 
-Section 132, R.S. § 5227, related to appointment by Comptroller of the Currency of special agent to examine failure of national banking association to redeem its circulating notes and provided for forfeiture of association’s bonds to United States based on findings of agent.
+Section 132, R.S. § 5227, related to appointment by Comptroller of the Currency of special agent to examine failure of national banking association to redeem its circulating notes and provided for forfeiture of association’s bonds to United States based on findings of agent.
 
-Section 133, R.S. § 5228; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, prohibited banking associations from continuing in business after default.
+Section 133, R.S. § 5228; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, prohibited banking associations from continuing in business after default.
 
-Section 134, R.S. § 5229, provided that, upon declaration of forfeiture of association’s bonds, Comptroller of the Currency was to notify holders of circulating notes to present notes for payment and was authorized to cancel bonds pledged by association.
+Section 134, R.S. § 5229, provided that, upon declaration of forfeiture of association’s bonds, Comptroller of the Currency was to notify holders of circulating notes to present notes for payment and was authorized to cancel bonds pledged by association.
 
-Section 135, R.S. § 5232, related to disposition of redeemed notes and perpetuation of evidence of payment of such notes.
+Section 135, R.S. § 5232, related to disposition of redeemed notes and perpetuation of evidence of payment of such notes.
 
-Section 136, R.S. § 5233, related to cancellation of redeemed notes.
+Section 136, R.S. § 5233, related to cancellation of redeemed notes.
 
-Section 137, R.S. § 5230, provided Comptroller of the Currency with option of selling defaulting association’s bonds at auction, rather than cancelling them, and granted United States paramount lien on all association assets in case of deficiencies from such sale.
+Section 137, R.S. § 5230, provided Comptroller of the Currency with option of selling defaulting association’s bonds at auction, rather than cancelling them, and granted United States paramount lien on all association assets in case of deficiencies from such sale.
 
-Section 138, R.S. § 5231, related to private sale of defaulting association’s bonds by Comptroller of the Currency.
+Section 138, R.S. § 5231, related to private sale of defaulting association’s bonds by Comptroller of the Currency.
 
 ## SUBCHAPTER VIII—RESERVE CITIES; LAWFUL RESERVES
 
-### § 141. Omitted
+### § 141. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, R.S. § 5191 (part); acts Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, which set out a list of reserve and central reserve cities and permitted the Board of Governors of the Federal Reserve System to reclassify, add to, or terminate the designation of such cities, was apparently included in the 1926 ed. of the Code on the basis of authorities other than the source credits. Accordingly, and because the continuing accuracy of the table was doubtful, this section was omitted.
+Section, R.S. § 5191 (part); acts Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, which set out a list of reserve and central reserve cities and permitted the Board of Governors of the Federal Reserve System to reclassify, add to, or terminate the designation of such cities, was apparently included in the 1926 ed. of the Code on the basis of authorities other than the source credits. Accordingly, and because the continuing accuracy of the table was doubtful, this section was omitted.
 
-Some of the other provisions of R.S. § 5191 are classified to sections 142 and 143 of this title and some were not included in the Code.
+Some of the other provisions of R.S. § 5191 are classified to sections 142 and 143 of this title and some were not included in the Code.
 
 For classification of other provisions of section 2 of act Dec. 23, 1913, see Codification note set out under section 222 of this title.
 
@@ -2931,7 +2931,7 @@ For classification of other provisions of section 2 of act Dec. 23, 1913, see Co
 
 **Central Reserve and Reserve Cities**
 
-Pub. L. 86–114, § 3(b), July 28, 1959, 73 Stat. 263, provided that:
+Pub. L. 86–114, § 3(b), July 28, 1959, 73 Stat. 263, provided that:
 
 > “Effective three years after the date of the enactment of this Act [July 28, 1959]—
 
@@ -2957,11 +2957,11 @@ Pub. L. 86–114, § 3(b), July 28, 1959, 73 Stat. 263, provided that:
 
 > **“(11)** the seventh paragraph of such section is further amended by striking out ‘and central reserve cities’.”
 
-### § 142. Banks in reserve cities; reserves
+### § 142. Banks in reserve cities; reserves
 
 National banking associations located in reserve cities or central reserve cities shall maintain reserves provided for in section 462 of this title for banks so located.
 
-(R.S. § 5191 (part); Dec. 23, 1913, ch. 6, §§ 19, 27, 38 Stat. 270, 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239.)
+(R.S. § 5191 (part); Dec. 23, 1913, ch. 6, §§ 19, 27, 38 Stat. 270, 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239.)
 
 **Editorial Notes**
 
@@ -2971,9 +2971,9 @@ Section 462 of this title, referred to in text, was omitted from the Code. See s
 
 **Codification**
 
-R.S. § 5191 derived from act June 3, 1864, ch. 106, § 31, 13 Stat. 108, which was the National Bank Act, and act Mar. 1, 1872, ch. 22, 17 Stat. 32. See section 38 of this title.
+R.S. § 5191 derived from act June 3, 1864, ch. 106, § 31, 13 Stat. 108, which was the National Bank Act, and act Mar. 1, 1872, ch. 22, 17 Stat. 32. See section 38 of this title.
 
-Some of the other provisions of R.S. § 5191 were classified to section 141 of this title prior to its omission from the Code, some are classified to section 143 of this title, and some were not included in the Code.
+Some of the other provisions of R.S. § 5191 were classified to section 141 of this title prior to its omission from the Code, some are classified to section 143 of this title, and some were not included in the Code.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2981,19 +2981,19 @@ Some of the other provisions of R.S. § 5191 were classified to section 141 of
 
 Central reserve cities terminated, see section 3(b) of Pub. L. 86–114 set out as a note under former section 141 of this title.
 
-### § 143. Banks in Alaska and insular possessions; lawful money reserves
+### § 143. Banks in Alaska and insular possessions; lawful money reserves
 
 Every national banking association located in Alaska or in a dependency or insular possession or any part of the United States outside of the continental United States, and not a member of the Federal reserve system, shall at all times have on hand in lawful money of the United States an amount equal to at least 15 percent of the aggregate amount of its deposits in all respects. Whenever the lawful money of any such association shall fall below 15 percent of its deposits such association shall not increase its liabilities by making any new loans or discounts other than by discounting or purchasing bills of exchange payable at sight nor make any dividends of its profits until the required proportion between the aggregate amount of its deposits and its lawful money of the United States has been restored. And the Comptroller of the Currency shall notify any such association whose lawful money reserve shall be below the amount required to be kept on hand to make good such reserve, and if such association shall fail for thirty days thereafter so to make good its lawful money the Comptroller may, with the concurrence of the Secretary of the Treasury, appoint a receiver to wind up the business of the association as provided in section 192 of this title.
 
-(R.S. § 5191 (part).)
+(R.S. § 5191 (part).)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5191 derived from act June 3, 1864, ch. 106, § 31, 13 Stat. 108, which was the National Bank Act, and act Mar. 1, 1872, ch. 22, 17 Stat. 32. See section 38 of this title.
+R.S. § 5191 derived from act June 3, 1864, ch. 106, § 31, 13 Stat. 108, which was the National Bank Act, and act Mar. 1, 1872, ch. 22, 17 Stat. 32. See section 38 of this title.
 
-Some of the other provisions of R.S. § 5191 were classified to section 141 of this title prior to its omission from the Code, some are classified to section 142 of this title, and some were not included in the Code.
+Some of the other provisions of R.S. § 5191 were classified to section 141 of this title prior to its omission from the Code, some are classified to section 142 of this title, and some were not included in the Code.
 
 **Executive Documents**
 
@@ -3001,17 +3001,17 @@ Some of the other provisions of R.S. § 5191 were classified to section 141 of
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 144. Certain balances counted toward reserves in dependencies and insular possessions
+### § 144. Certain balances counted toward reserves in dependencies and insular possessions
 
 Four-fifths of the reserve of 15 per centum which a national bank located in a dependency or insular possession or any part of the United States outside of the continental United States, and not a member of the Federal Reserve System, is required to keep, may consist of balances due such bank from associations approved by the Comptroller of the Currency and located in any one of the reserve cities as now or hereafter defined by law or designated by the Board of Governors of the Federal Reserve System.
 
-(R.S. § 5192; July 1, 1952, ch. 536, 66 Stat. 314; Pub. L. 86–70, § 7, June 25, 1959, 73 Stat. 142; Pub. L. 86–114, § 3(b)(3), July 28, 1959, 73 Stat. 263.)
+(R.S. § 5192; July 1, 1952, ch. 536, 66 Stat. 314; Pub. L. 86–70, § 7, June 25, 1959, 73 Stat. 142; Pub. L. 86–114, § 3(b)(3), July 28, 1959, 73 Stat. 263.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5192 derived from act June 3, 1864, ch. 106, § 31, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
+R.S. § 5192 derived from act June 3, 1864, ch. 106, § 31, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -3033,25 +3033,25 @@ Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see sec
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### §§ 145, 146. Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068
+### §§ 145, 146. Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068
 
-Section 145, act July 14, 1890, ch. 708, § 2, 26 Stat. 289, authorized counting of treasury notes held by national banking associations as part of their lawful reserve.
+Section 145, act July 14, 1890, ch. 708, § 2, 26 Stat. 289, authorized counting of treasury notes held by national banking associations as part of their lawful reserve.
 
-Section 146, act July 12, 1882, ch. 290, § 12, 22 Stat. 165, related to holding of gold and silver certificates by national banking associations.
+Section 146, act July 12, 1882, ch. 290, § 12, 22 Stat. 165, related to holding of gold and silver certificates by national banking associations.
 
 ## SUBCHAPTER IX—FORMATION OF ASSOCIATIONS TO ISSUE GOLD NOTES
 
-### §§ 151 to 153. Repealed. Pub. L. 103–325, title VI, § 602(e)(22), (23), (f)(7), Sept. 23, 1994, 108 Stat. 2292, 2293
+### §§ 151 to 153. Repealed. Pub. L. 103–325, title VI, § 602(e)(22), (23), (f)(7), Sept. 23, 1994, 108 Stat. 2292, 2293
 
-Section 151, R.S. § 5185; Jan. 19, 1875, ch. 19, 18 Stat. 302, related to organization of associations to issue gold notes.
+Section 151, R.S. § 5185; Jan. 19, 1875, ch. 19, 18 Stat. 302, related to organization of associations to issue gold notes.
 
-Section 152, R.S. § 5186, related to mandatory establishment of lawful money reserves by associations issuing gold notes and reception by such associations of gold notes of other associations in payment of debts.
+Section 152, R.S. § 5186, related to mandatory establishment of lawful money reserves by associations issuing gold notes and reception by such associations of gold notes of other associations in payment of debts.
 
 Section 153, act Feb. 14, 1880, ch. 25, 21 Stat. 66, related to conversion of gold banks into currency banks.
 
 ## SUBCHAPTER X—BANK EXAMINATIONS; REPORTS
 
-### § 161. Reports to Comptroller of the Currency
+### § 161. Reports to Comptroller of the Currency
 
 **(a) Reports of condition; form; contents; date of making; publication**
 
@@ -3065,35 +3065,35 @@ Every association shall make to the Comptroller reports of the payment of divide
 
 Each national banking association shall obtain from each of its affiliates other than member banks and furnish to the Comptroller of the Currency not less than four reports during each year, in such form as the Comptroller may prescribe, verified by the oath or affirmation of the president or such other officer as may be designated by the board of directors of such affiliate to verify such reports, disclosing the information hereinafter provided for as of dates identical with those for which the Comptroller shall during such year require the reports of the condition of the association. Each such report of an affiliate shall be transmitted to the Comptroller at the same time as the corresponding report of the association, except that the Comptroller may, in his discretion, extend such time for good cause shown. Each such report shall contain such information as in the judgment of the Comptroller of the Currency shall be necessary to disclose fully the relations between such affiliate and such bank and to enable the Comptroller to inform himself as to the effect of such relations upon the affairs of such bank. The Comptroller shall also have power to call for additional reports with respect to any such affiliate whenever in his judgment the same are necessary in order to obtain a full and complete knowledge of the conditions of the association with which it is affiliated. Such additional reports shall be transmitted to the Comptroller of the Currency in such form as he may prescribe.
 
-(R.S. § 5211; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 252; Dec. 28, 1922, ch. 18, 42 Stat. 1067; Feb. 25, 1927, ch. 191, § 13, 44 Stat. 1232; June 16, 1933, ch. 89, § 27, 48 Stat. 191; Pub. L. 86–230, §§ 11, 22(b), Sept. 8, 1959, 73 Stat. 458, 466; Pub. L. 86–671, § 5, July 14, 1960, 74 Stat. 551; Pub. L. 89–485, § 13(d), July 1, 1966, 80 Stat. 243; Pub. L. 101–73, title IX, § 911(b)(1), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–325, title III, § 308(a), Sept. 23, 1994, 108 Stat. 2218.)
+(R.S. § 5211; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 252; Dec. 28, 1922, ch. 18, 42 Stat. 1067; Feb. 25, 1927, ch. 191, § 13, 44 Stat. 1232; June 16, 1933, ch. 89, § 27, 48 Stat. 191; Pub. L. 86–230, §§ 11, 22(b), Sept. 8, 1959, 73 Stat. 458, 466; Pub. L. 86–671, § 5, July 14, 1960, 74 Stat. 551; Pub. L. 89–485, § 13(d), July 1, 1966, 80 Stat. 243; Pub. L. 101–73, title IX, § 911(b)(1), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–325, title III, § 308(a), Sept. 23, 1994, 108 Stat. 2218.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in subsec. (a), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Codification**
 
-R.S. § 5211 derived from act June 3, 1864, ch. 106, § 34, 13 Stat. 109, which was the National Bank Act, and act Mar. 3, 1869, ch. 130, § 1, 15 Stat. 326. See section 38 of this title.
+R.S. § 5211 derived from act June 3, 1864, ch. 106, § 34, 13 Stat. 109, which was the National Bank Act, and act Mar. 3, 1869, ch. 130, § 1, 15 Stat. 326. See section 38 of this title.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–325, § 308(a)(1), struck out before period at end of fifth sentence “; and the statement of resources and liabilities in the same form in which it is made to the Comptroller shall be published in a newspaper published in the place where such association is established, or if there is no newspaper in the place, then in the one published nearest thereto in the same county, at the expense of the association, and such proof of publication shall be furnished as may be required by the Comptroller”.
+1994—Subsec. (a). Pub. L. 103–325, § 308(a)(1), struck out before period at end of fifth sentence “; and the statement of resources and liabilities in the same form in which it is made to the Comptroller shall be published in a newspaper published in the place where such association is established, or if there is no newspaper in the place, then in the one published nearest thereto in the same county, at the expense of the association, and such proof of publication shall be furnished as may be required by the Comptroller”.
 
-Subsec. (c). Pub. L. 103–325, § 308(a)(2), struck out after third sentence “The reports of such affiliates shall be published by the association under the same conditions as govern its own condition reports.”
+Subsec. (c). Pub. L. 103–325, § 308(a)(2), struck out after third sentence “The reports of such affiliates shall be published by the association under the same conditions as govern its own condition reports.”
 
-1989—Subsec. (a). Pub. L. 101–73, § 911(b)(1)(A), in fifth sentence substituted “within the period of time specified by the Comptroller” for “within ten days after the receipt of a request therefor from him”.
+1989—Subsec. (a). Pub. L. 101–73, § 911(b)(1)(A), in fifth sentence substituted “within the period of time specified by the Comptroller” for “within ten days after the receipt of a request therefor from him”.
 
-Subsec. (c). Pub. L. 101–73, § 911(b)(1)(B), struck out at end “Any such affiliated bank which fails to obtain and furnish any report required under this section shall be subject to a penalty of $100 for each day during which such failure continues.”
+Subsec. (c). Pub. L. 101–73, § 911(b)(1)(B), struck out at end “Any such affiliated bank which fails to obtain and furnish any report required under this section shall be subject to a penalty of $100 for each day during which such failure continues.”
 
 1966—Subsec. (c). Pub. L. 89–485 struck out second sentence stating that the term “affiliate” shall include holding company affiliates as well as other affiliates.
 
-1960—Subsec. (a). Pub. L. 86–671, § 5(a), designated existing provisions of former first par. as subsec. (a), substituted provisions relating to the making of reports of condition in accordance with the Federal Deposit Insurance Act and additional reports of condition containing declaration of officer for former provisions requiring minimum of three reports annually verified by an officer, inserted provisions respecting contents and publication of special reports and deleted requirement for making reports of payment of dividends, which is incorporated in subsec. (b) of this section.
+1960—Subsec. (a). Pub. L. 86–671, § 5(a), designated existing provisions of former first par. as subsec. (a), substituted provisions relating to the making of reports of condition in accordance with the Federal Deposit Insurance Act and additional reports of condition containing declaration of officer for former provisions requiring minimum of three reports annually verified by an officer, inserted provisions respecting contents and publication of special reports and deleted requirement for making reports of payment of dividends, which is incorporated in subsec. (b) of this section.
 
-Subsec. (b). Pub. L. 86–671, § 5(a), designated existing provisions of former first par. as subsec. (b).
+Subsec. (b). Pub. L. 86–671, § 5(a), designated existing provisions of former first par. as subsec. (b).
 
-Subsec. (c). Pub. L. 86–671, § 5(b), designated existing provisions of former second par. as subsec. (c) and substituted “four” for “three” in first sentence.
+Subsec. (c). Pub. L. 86–671, § 5(b), designated existing provisions of former second par. as subsec. (c) and substituted “four” for “three” in first sentence.
 
 1959—Pub. L. 86–230 required transmission of reports to the Comptroller within ten instead of five days and the making of reports of the payment of dividends including advance reports of dividends proposed to be declared or paid, respectively.
 
@@ -3105,7 +3105,7 @@ Subsec. (c). Pub. L. 86–671, § 5(b), designated existing provisions of form
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–73, title IX, § 911(i), Aug. 9, 1989, 103 Stat. 482, provided that: “The amendments made by this section [amending this section and sections 164, 324, 1782, 1817, 1847, and 1882 of this title] shall apply with respect to reports filed or required to be filed after the date of the enactment of this Act [Aug. 9, 1989].”
+Pub. L. 101–73, title IX, § 911(i), Aug. 9, 1989, 103 Stat. 482, provided that: “The amendments made by this section [amending this section and sections 164, 324, 1782, 1817, 1847, and 1882 of this title] shall apply with respect to reports filed or required to be filed after the date of the enactment of this Act [Aug. 9, 1989].”
 
 **Effective Date of 1960 Amendment**
 
@@ -3117,7 +3117,7 @@ Amendment by Pub. L. 86–671 effective Jan. 1, 1961, see section 7 of Pub. L. 8
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 162. Repealed. Pub. L. 86–671, § 6, July 14, 1960, 74 Stat. 552.
+### § 162. Repealed. Pub. L. 86–671, § 6, July 14, 1960, 74 Stat. 552.
 
 Section, act Feb. 26, 1881, ch. 82, 21 Stat. 352, prescribed the manner of verification of reports of condition of national banks. See section 1817 of this title.
 
@@ -3127,11 +3127,11 @@ Section, act Feb. 26, 1881, ch. 82, 21 Stat. 352, prescribed the manner of verif
 
 Repeal effective Jan. 1, 1961, see section 7 of Pub. L. 86–671, set out as an Effective Date of 1960 Amendment note under section 1817 of this title.
 
-### § 163. Repealed. Pub. L. 86–230, § 22(a), Sept. 8, 1959, 73 Stat. 466
+### § 163. Repealed. Pub. L. 86–230, § 22(a), Sept. 8, 1959, 73 Stat. 466
 
-Section, R.S. § 5212, related to report of dividends and net earnings. See section 161 of this title.
+Section, R.S. § 5212, related to report of dividends and net earnings. See section 161 of this title.
 
-### § 164. Penalty for failure to make reports
+### § 164. Penalty for failure to make reports
 
 **(a) First tier** Any association which—
 
@@ -3163,19 +3163,19 @@ Any penalty imposed under subsection (a), (b), or (c) shall be assessed and coll
 
 **(e) Hearing**
 
-Any association against which any penalty is assessed under this subsection 1
+Any association against which any penalty is assessed under this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 shall be afforded an agency hearing if such association submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this section.
 
-(R.S. § 5213; Pub. L. 86–230, § 12, Sept. 8, 1959, 73 Stat. 458; Pub. L. 101–73, title IX, § 911(b)(2), Aug. 9, 1989, 103 Stat. 478.)
+(R.S. § 5213; Pub. L. 86–230, § 12, Sept. 8, 1959, 73 Stat. 458; Pub. L. 101–73, title IX, § 911(b)(2), Aug. 9, 1989, 103 Stat. 478.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5213 derived from act Mar. 3, 1869, ch. 130, §§ 1, 2, 15 Stat. 326, 327.
+R.S. § 5213 derived from act Mar. 3, 1869, ch. 130, §§ 1, 2, 15 Stat. 326, 327.
 
 **Amendments**
 
@@ -3195,43 +3195,43 @@ Amendment by Pub. L. 101–73 applicable with respect to reports filed or requir
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 165. Omitted
+### § 165. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, R.S. § 5241, related to limitation of visitorial powers. See section 484 of this title.
+Section, R.S. § 5241, related to limitation of visitorial powers. See section 484 of this title.
 
 ## SUBCHAPTER XI—MISCELLANEOUS PROVISIONS REGARDING UNITED STATES BONDS IN RELATION TO NATIONAL BANKS
 
-### §§ 168 to 177. Repealed. Pub. L. 103–325, title VI, § 602(e)(24)–(31), (f)(4)(D), (5)(A), Sept. 23, 1994, 108 Stat. 2292, 2293
+### §§ 168 to 177. Repealed. Pub. L. 103–325, title VI, § 602(e)(24)–(31), (f)(4)(D), (5)(A), Sept. 23, 1994, 108 Stat. 2292, 2293
 
-Section 168, R.S. § 5160, authorized associations to take up bonds upon returning circulating notes to Comptroller of the Currency.
+Section 168, R.S. § 5160, authorized associations to take up bonds upon returning circulating notes to Comptroller of the Currency.
 
-Section 169, R.S. § 5161, related to exchange of United States coupon bonds for registered bonds.
+Section 169, R.S. § 5161, related to exchange of United States coupon bonds for registered bonds.
 
-Section 170, R.S. § 5162; Aug. 23, 1935, ch. 614, § 313, 49 Stat. 711, related to manner of making transfers of bonds.
+Section 170, R.S. § 5162; Aug. 23, 1935, ch. 614, § 313, 49 Stat. 711, related to manner of making transfers of bonds.
 
-Section 171, R.S. § 5163, related to establishment of registry of transferred bonds by Comptroller of the Currency.
+Section 171, R.S. § 5163, related to establishment of registry of transferred bonds by Comptroller of the Currency.
 
-Section 172, R.S. § 5164, required Comptroller of the Currency to notify national banking associations of transfers from its accounts.
+Section 172, R.S. § 5164, required Comptroller of the Currency to notify national banking associations of transfers from its accounts.
 
-Section 173, R.S. § 5165, related to examination of registry and bonds by Comptroller of the Currency and Treasurer of United States.
+Section 173, R.S. § 5165, related to examination of registry and bonds by Comptroller of the Currency and Treasurer of United States.
 
-Section 174, R.S. § 5166, related to annual examination of bonds by national banking associations.
+Section 174, R.S. § 5166, related to annual examination of bonds by national banking associations.
 
-Section 175, R.S. § 5167, related to custody of bonds and collection of interest.
+Section 175, R.S. § 5167, related to custody of bonds and collection of interest.
 
-Section 176, acts June 20, 1874, ch. 343, § 4, 18 Stat. 124; June 21, 1917, ch. 32, § 9, 40 Stat. 239, provided that associations desiring to withdraw circulating notes could, upon deposit of money with Treasurer of United States, withdraw bonds on deposit with Treasurer for security of such notes.
+Section 176, acts June 20, 1874, ch. 343, § 4, 18 Stat. 124; June 21, 1917, ch. 32, § 9, 40 Stat. 239, provided that associations desiring to withdraw circulating notes could, upon deposit of money with Treasurer of United States, withdraw bonds on deposit with Treasurer for security of such notes.
 
-Section 177, acts July 12, 1882, ch. 290, § 8, 22 Stat. 164; Mar. 14, 1900, ch. 41, § 12, 31 Stat. 49; June 21, 1917, ch. 32, § 9, 40 Stat. 239, related to amount of bonds banks were required to keep on deposit with Treasurer of United States, as security for circulating notes, and authorized banks having deposits in excess of such amount to reduce, or retire in full, their circulation by depositing lawful money.
+Section 177, acts July 12, 1882, ch. 290, § 8, 22 Stat. 164; Mar. 14, 1900, ch. 41, § 12, 31 Stat. 49; June 21, 1917, ch. 32, § 9, 40 Stat. 239, related to amount of bonds banks were required to keep on deposit with Treasurer of United States, as security for circulating notes, and authorized banks having deposits in excess of such amount to reduce, or retire in full, their circulation by depositing lawful money.
 
-### § 177a. Funds available for cost of transporting and redeeming national and Federal Reserve bank notes
+### § 177a. Funds available for cost of transporting and redeeming national and Federal Reserve bank notes
 
 The cost of transporting and redeeming outstanding national bank notes and Federal Reserve bank notes as may be presented to the Treasurer of the United States for redemption shall be paid from the regular annual appropriation for the Department of the Treasury.
 
-(Oct. 10, 1940, ch. 841, 54 Stat. 1093; Pub. L. 103–325, title VI, § 602(g)(10), Sept. 23, 1994, 108 Stat. 2294.)
+(Oct. 10, 1940, ch. 841, 54 Stat. 1093; Pub. L. 103–325, title VI, § 602(g)(10), Sept. 23, 1994, 108 Stat. 2294.)
 
 **Editorial Notes**
 
@@ -3239,29 +3239,29 @@ The cost of transporting and redeeming outstanding national bank notes and Feder
 
 1994—Pub. L. 103–325 amended section generally. Prior to amendment, section read as follows: “After the reimbursement to the Treasury from funds derived from assessments made pursuant to section 177 of this title, of all costs lawfully charged thereto for the fiscal year ending June 30, 1941, the balance of such funds shall be covered into the Treasury as miscellaneous receipts; and thereafter the cost of transporting and redeeming such outstanding national bank notes and Federal Reserve bank notes as may be presented to the Treasurer of the United States for redemption shall be paid from the regular annual appropriations for the Treasury Department.”
 
-### § 178. Repealed. Pub. L. 103–325, title VI, § 602(f)(5)(B), Sept. 23, 1994, 108 Stat. 2293
+### § 178. Repealed. Pub. L. 103–325, title VI, § 602(f)(5)(B), Sept. 23, 1994, 108 Stat. 2293
 
-Section, acts July 12, 1882, ch. 290, § 9, 22 Stat. 164; Mar. 14, 1900, ch. 41, § 12, 31 Stat. 49; Mar. 4, 1907, ch. 2913, § 4, 34 Stat. 1290, authorized national banking associations desiring to withdraw circulating notes to deposit money with Treasurer of United States and withdraw bonds or other securities securing such notes.
+Section, acts July 12, 1882, ch. 290, § 9, 22 Stat. 164; Mar. 14, 1900, ch. 41, § 12, 31 Stat. 49; Mar. 4, 1907, ch. 2913, § 4, 34 Stat. 1290, authorized national banking associations desiring to withdraw circulating notes to deposit money with Treasurer of United States and withdraw bonds or other securities securing such notes.
 
 ## SUBCHAPTER XII—VOLUNTARY DISSOLUTION
 
-### § 181. Voluntary dissolution; appointment and removal of liquidating agent or committee; examination
+### § 181. Voluntary dissolution; appointment and removal of liquidating agent or committee; examination
 
 Any association may go into liquidation and be closed by the vote of its shareholders owning two-thirds of its stock. If the liquidation is to be effected in whole or in part through the sale of any of its assets to and the assumption of its deposit liabilities by another bank, the purchase and sale agreement must also be approved by its shareholders owning two-thirds of its stock unless an emergency exists and the Comptroller of the Currency specifically waives such requirement for shareholder approval.
 
 The shareholders shall designate one or more persons to act as liquidating agent or committee, who shall conduct the liquidation in accordance with law and under the supervision of the board of directors, who shall require a suitable bond to be given by said agent or committee. The liquidating agent or committee shall render annual reports to the Comptroller of the Currency on the 31st day of December of each year showing the progress of said liquidation until the same is completed. The liquidating agent or committee shall also make an annual report to a meeting of the shareholders to be held on the date fixed in the articles of association for the annual meeting, at which meeting the shareholders may, if they see fit, by a vote representing a majority of the entire stock of the bank, remove the liquidating agent or committee and appoint one or more others in place thereof. A special meeting of the shareholders may be called at any time in the same manner as if the bank continued an active bank and at said meeting the shareholders may, by vote of the majority of the stock, remove the liquidating agent or committee. The Comptroller of the Currency is authorized to have an examination made at any time into the affairs of the liquidating bank until the claims of all creditors have been satisfied, and the expense of making such examinations shall be assessed against such bank in the same manner as in the case of examinations made pursuant to subchapter XV of chapter 3 of this title.
 
-(R.S. § 5220; Aug. 23, 1935, ch. 614, title III, § 317, 49 Stat. 712; Pub. L. 86–230, § 15, Sept. 8, 1959, 73 Stat. 458.)
+(R.S. § 5220; Aug. 23, 1935, ch. 614, title III, § 317, 49 Stat. 712; Pub. L. 86–230, § 15, Sept. 8, 1959, 73 Stat. 458.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter XV [§ 481 et seq.] of chapter 3 of this title, referred to in second par., was in the original a reference to section 5240 of the Revised Statutes.
+Subchapter XV [§ 481 et seq.] of chapter 3 of this title, referred to in second par., was in the original a reference to section 5240 of the Revised Statutes.
 
 **Codification**
 
-R.S. § 5220 derived from act June 3, 1864, ch. 106, § 42, 13 Stat. 112, which was the National Bank Act. See section 38 of this title.
+R.S. § 5220 derived from act June 3, 1864, ch. 106, § 42, 13 Stat. 112, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -3275,17 +3275,17 @@ R.S. § 5220 derived from act June 3, 1864, ch. 106, § 42, 13 Stat. 112, wh
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 182. Notice of intent to dissolve
+### § 182. Notice of intent to dissolve
 
 Whenever a vote is taken to go into liquidation it shall be the duty of the board of directors to cause notice of this fact to be certified, under the seal of the association, by its president or cashier, to the Comptroller of the Currency, and publication thereof to be made for a period of two months in every issue of a newspaper published in the city or town in which the association is located, or if no newspaper is there published, then in the newspaper published nearest thereto, that the association is closing up its affairs, and notifying its creditors to present their claims against the association for payment.
 
-(R.S. § 5221; Aug. 9, 1955, ch. 626, 69 Stat. 546.)
+(R.S. § 5221; Aug. 9, 1955, ch. 626, 69 Stat. 546.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5221 derived from act June 3, 1864, ch. 106, § 42, 13 Stat. 112, which was the National Bank Act. See section 38 of this title.
+R.S. § 5221 derived from act June 3, 1864, ch. 106, § 42, 13 Stat. 112, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -3297,19 +3297,19 @@ R.S. § 5221 derived from act June 3, 1864, ch. 106, § 42, 13 Stat. 112, wh
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### §§ 183 to 186. Repealed. Pub. L. 103–325, title VI, § 602(e)(32)–(35), Sept. 23, 1994, 108 Stat. 2292
+### §§ 183 to 186. Repealed. Pub. L. 103–325, title VI, § 602(e)(32)–(35), Sept. 23, 1994, 108 Stat. 2292
 
-Section 183, R.S. § 5222, provided that, within six months of voting to liquidate, an association was to deposit with Treasurer of United States money sufficient to redeem all outstanding circulation.
+Section 183, R.S. § 5222, provided that, within six months of voting to liquidate, an association was to deposit with Treasurer of United States money sufficient to redeem all outstanding circulation.
 
-Section 184, R.S. § 5223, exempted associations which wound up business for purpose of consolidating with another association from requirement to deposit money to redeem all outstanding circulation.
+Section 184, R.S. § 5223, exempted associations which wound up business for purpose of consolidating with another association from requirement to deposit money to redeem all outstanding circulation.
 
-Section 185, R.S. § 5224; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, related to reassignment of bonds to association and redemption of notes.
+Section 185, R.S. § 5224; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 320, related to reassignment of bonds to association and redemption of notes.
 
-Section 186, R.S. § 5225; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 252, related to destruction of redeemed notes by Treasurer.
+Section 186, R.S. § 5225; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 252, related to destruction of redeemed notes by Treasurer.
 
 ## SUBCHAPTER XIII—RECEIVERSHIP
 
-### § 191. Appointment of receiver for a national bank
+### § 191. Appointment of receiver for a national bank
 
 **(a) In general** The Comptroller of the Currency may, without prior notice or hearings, appoint a receiver for any national bank (and such receiver shall be the Federal Deposit Insurance Corporation if the national bank is an insured bank (as defined in section 1813(h) of this title)) if the Comptroller determines, in the Comptroller’s discretion, that—
 
@@ -3321,25 +3321,25 @@ Section 186, R.S. § 5225; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 252, relate
 
 If the Comptroller of the Currency appoints a receiver under subsection (a), the national bank may, within 30 days thereafter, bring an action in the United States district court for the judicial district in which the home office of such bank is located, or in the United States District Court for the District of Columbia, for an order requiring the Comptroller of the Currency to remove the receiver, and the court shall, upon the merits, dismiss such action or direct the Comptroller of the Currency to remove the receiver.
 
-(June 30, 1876, ch. 156, § 2, formerly § 1, 19 Stat. 63; Pub. L. 86–230, § 16, Sept. 8, 1959, 73 Stat. 458; Pub. L. 102–242, title I, § 133(b), Dec. 19, 1991, 105 Stat. 2271; renumbered § 2 and amended Pub. L. 102–550, title XVI, § 1603(d)(6), (7), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 109–351, title VII, § 701(a), Oct. 13, 2006, 120 Stat. 1984.)
+(June 30, 1876, ch. 156, § 2, formerly § 1, 19 Stat. 63; Pub. L. 86–230, § 16, Sept. 8, 1959, 73 Stat. 458; Pub. L. 102–242, title I, § 133(b), Dec. 19, 1991, 105 Stat. 2271; renumbered § 2 and amended Pub. L. 102–550, title XVI, § 1603(d)(6), (7), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 109–351, title VII, § 701(a), Oct. 13, 2006, 120 Stat. 1984.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2 of act June 30, 1876, was classified to section 65 of this title, prior to repeal by Pub. L. 86–230, § 8, Sept. 8, 1959, 73 Stat. 457.
+A prior section 2 of act June 30, 1876, was classified to section 65 of this title, prior to repeal by Pub. L. 86–230, § 8, Sept. 8, 1959, 73 Stat. 457.
 
 **Amendments**
 
-2006—Pub. L. 109–351, § 701(a)(1), which directed the general amendment of the section catchline by replacing it with “Appointment of receiver for a national bank” followed by “(a) In general” and the words “The Comptroller of the Currency”, was executed by inserting the new catchline and the subsec. (a) designation and heading but not the words “The Comptroller of the Currency” which already appeared in text, to reflect the probable intent of Congress.
+2006—Pub. L. 109–351, § 701(a)(1), which directed the general amendment of the section catchline by replacing it with “Appointment of receiver for a national bank” followed by “(a) In general” and the words “The Comptroller of the Currency”, was executed by inserting the new catchline and the subsec. (a) designation and heading but not the words “The Comptroller of the Currency” which already appeared in text, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 109–351, § 701(a)(2), added subsec. (b).
+Subsec. (b). Pub. L. 109–351, § 701(a)(2), added subsec. (b).
 
-1992—Pub. L. 102–550, § 1603(d)(7)(B), substituted “appoint a receiver for any national bank (and such receiver shall be the Federal Deposit Insurance Corporation if the national bank is an insured bank (as defined in section 1813(h) of this title))” for “appoint the Federal Deposit Insurance Corporation as receiver for any national banking association” in introductory provisions.
+1992—Pub. L. 102–550, § 1603(d)(7)(B), substituted “appoint a receiver for any national bank (and such receiver shall be the Federal Deposit Insurance Corporation if the national bank is an insured bank (as defined in section 1813(h) of this title))” for “appoint the Federal Deposit Insurance Corporation as receiver for any national banking association” in introductory provisions.
 
-Pub. L. 102–550, § 1603(d)(6), amended directory language of Pub. L. 102–242, § 133(b). See 1991 Amendment note below.
+Pub. L. 102–550, § 1603(d)(6), amended directory language of Pub. L. 102–242, § 133(b). See 1991 Amendment note below.
 
-1991—Pub. L. 102–242, § 133(b), as amended by Pub. L. 102–550, § 1603(d)(6), amended section generally. Prior to amendment, section read as follows: “Whenever any national banking association shall be dissolved, and its rights, privileges, and franchises declared forfeited, as prescribed in section 93 of this title, or whenever any creditor of any national banking association shall have obtained a judgment against it in any court of record, and made application, accompanied by a certificate from the clerk of the court stating that such judgment has been rendered and has remained unpaid for the space of thirty days, or whenever the comptroller shall become satisfied of the insolvency of a national banking association, he may, after due examination of its affairs, in either case, appoint a receiver, who shall proceed to close up such association.”
+1991—Pub. L. 102–242, § 133(b), as amended by Pub. L. 102–550, § 1603(d)(6), amended section generally. Prior to amendment, section read as follows: “Whenever any national banking association shall be dissolved, and its rights, privileges, and franchises declared forfeited, as prescribed in section 93 of this title, or whenever any creditor of any national banking association shall have obtained a judgment against it in any court of record, and made application, accompanied by a certificate from the clerk of the court stating that such judgment has been rendered and has remained unpaid for the space of thirty days, or whenever the comptroller shall become satisfied of the insolvency of a national banking association, he may, after due examination of its affairs, in either case, appoint a receiver, who shall proceed to close up such association.”
 
 1959—Pub. L. 86–230 struck out provisions which required receiver to enforce the personal liability of shareholders.
 
@@ -3347,31 +3347,31 @@ Pub. L. 102–550, § 1603(d)(6), amended directory language of Pub. L. 102–
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–351, title VII, § 701(c), Oct. 13, 2006, 120 Stat. 1985, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1821 of this title] shall apply with respect to conservators or receivers appointed on or after the date of enactment of this Act [Oct. 13, 2006].”
+Pub. L. 109–351, title VII, § 701(c), Oct. 13, 2006, 120 Stat. 1985, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1821 of this title] shall apply with respect to conservators or receivers appointed on or after the date of enactment of this Act [Oct. 13, 2006].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–550, title XVI, § 1609, Oct. 28, 1992, 106 Stat. 4090, provided that:
+Pub. L. 102–550, title XVI, § 1609, Oct. 28, 1992, 106 Stat. 4090, provided that:
 
-> **“(a) In General.—** Except as provided in subsection (b) or any other provision of this subtitle [subtitle A (§§ 1601–1609) of title XVI of Pub. L. 102–550, see Tables for classification], the amendments made by this subtitle to the Federal Deposit Insurance Corporation Improvement Act of 1991, the Federal Deposit Insurance Act, and any other law shall take effect as if such amendments had been included in the Federal Deposit Insurance Corporation Improvement Act of 1991 [Pub. L. 102–242] as of the date of the enactment of such Act [Dec. 19, 1991].
+> **“(a) In General.—** Except as provided in subsection (b) or any other provision of this subtitle [subtitle A (§§ 1601–1609) of title XVI of Pub. L. 102–550, see Tables for classification], the amendments made by this subtitle to the Federal Deposit Insurance Corporation Improvement Act of 1991, the Federal Deposit Insurance Act, and any other law shall take effect as if such amendments had been included in the Federal Deposit Insurance Corporation Improvement Act of 1991 [Pub. L. 102–242] as of the date of the enactment of such Act [Dec. 19, 1991].
 
 > **“(b) Effective Date of Certain Amendments.—** In the case of any amendment made by this subtitle to any provision of law added or amended by the Federal Deposit Insurance Corporation Improvement Act of 1991 [see Tables for classification] effective after December 19, 1992, the amendment made by this subtitle shall take effect on the effective date of the amendment made by the Federal Deposit Insurance Corporation Improvement Act of 1991.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–242, title I, § 133(g), Dec. 19, 1991, 105 Stat. 2273, provided that: “The amendments made by this section [amending this section and sections 203, 248, 1464, and 1821 of this title] shall become effective 1 year after the date of enactment of this Act [Dec. 19, 1991].”
+Pub. L. 102–242, title I, § 133(g), Dec. 19, 1991, 105 Stat. 2273, provided that: “The amendments made by this section [amending this section and sections 203, 248, 1464, and 1821 of this title] shall become effective 1 year after the date of enactment of this Act [Dec. 19, 1991].”
 
 **Short Title**
 
-Act June 30, 1876, ch. 156, § 1, as added by Pub. L. 102–550, title XVI, § 1603(d)(7)(A), Oct. 28, 1992, 106 Stat. 4080, provided that: “This Act [enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending section 55 of this title] may be cited as the ‘National Bank Receivership Act’.”
+Act June 30, 1876, ch. 156, § 1, as added by Pub. L. 102–550, title XVI, § 1603(d)(7)(A), Oct. 28, 1992, 106 Stat. 4080, provided that: “This Act [enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending section 55 of this title] may be cited as the ‘National Bank Receivership Act’.”
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Termination of National Bank Closed Receivership Fund**
 
-Pub. L. 96–221, title VII, §§ 721–723, Mar. 31, 1980, 94 Stat. 190, 191, as amended Pub. L. 97–320, title IV, § 409, Oct. 15, 1982, 96 Stat. 1515, provided that:
+Pub. L. 96–221, title VII, §§ 721–723, Mar. 31, 1980, 94 Stat. 190, 191, as amended Pub. L. 97–320, title IV, § 409, Oct. 15, 1982, 96 Stat. 1515, provided that:
 
 > **“Sec. 721.**
 
@@ -3411,29 +3411,29 @@ Pub. L. 96–221, title VII, §§ 721–723, Mar. 31, 1980, 94 Stat. 190, 191,
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 192. Default in payment of circulating notes
+### § 192. Default in payment of circulating notes
 
-On becoming satisfied, as specified in sections 131 and 132 1
+On becoming satisfied, as specified in sections 131 and 132 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, that any association is in default, the Comptroller of the Currency may forthwith appoint a receiver, and require of him such bond and security as he deems proper. Such receiver, under the direction of the Comptroller, shall take possession of the books, records, and assets of every description of such association, collect all debts, dues, and claims belonging to it, and, upon the order of a court of record of competent jurisdiction, may sell or compound all bad or doubtful debts, and, on a like order, may sell all the real and personal property of such association, on such terms as the court shall direct. Such receiver shall pay over all money so made to the Treasurer of the United States, subject to the order of the Comptroller, and also make report to the Comptroller of all his acts and proceedings.
 
 *Provided*, That the Comptroller may, if he deems proper, deposit any of the money so made in any regular Government depositary, or in any State or national bank either of the city or town in which the insolvent bank was located, or of a city or town as adjacent thereto as practicable; if such deposit is made he shall require the depositary to deposit United States bonds or other satisfactory securities with the Treasurer of the United States for the safekeeping and prompt payment of the money so deposited: *Provided*, That no security in the form of deposit of United States bonds, or otherwise, shall be required in the case of such parts of the deposits as are insured under section 12B of the Federal Reserve Act, as amended. Such depositary shall pay upon such money interest at such rate as the Comptroller may prescribe, not less, however, than 2 per centum per annum upon the average monthly amount of such deposits.
 
-(R.S. § 5234; May 15, 1916, ch. 121, 39 Stat. 121; Aug. 23, 1935, ch. 614, title III, § 339, 49 Stat. 721; Pub. L. 86–230, § 17, Sept. 8, 1959, 73 Stat. 458; Pub. L. 103–325, title VI, § 602(g)(11), Sept. 23, 1994, 108 Stat. 2294.)
+(R.S. § 5234; May 15, 1916, ch. 121, 39 Stat. 121; Aug. 23, 1935, ch. 614, title III, § 339, 49 Stat. 721; Pub. L. 86–230, § 17, Sept. 8, 1959, 73 Stat. 458; Pub. L. 103–325, title VI, § 602(g)(11), Sept. 23, 1994, 108 Stat. 2294.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 131 and 132 of this title, referred to in text, were repealed by Pub. L. 103–325, title VI, § 602(e)(14), (15), Sept. 23, 1994, 108 Stat. 2292.
+Sections 131 and 132 of this title, referred to in text, were repealed by Pub. L. 103–325, title VI, § 602(e)(14), (15), Sept. 23, 1994, 108 Stat. 2292.
 
-Section 12B of the Federal Reserve Act, as amended, referred to in text, formerly classified to section 264 of this title, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified generally to chapter 16 (§ 1811 et seq.) of this title.
+Section 12B of the Federal Reserve Act, as amended, referred to in text, formerly classified to section 264 of this title, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified generally to chapter 16 (§ 1811 et seq.) of this title.
 
 **Codification**
 
-R.S. § 5234 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which was part of the National Bank Act. See section 38 of this title.
+R.S. § 5234 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which was part of the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
@@ -3447,7 +3447,7 @@ R.S. § 5234 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, wh
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Interest on Deposits**
 
@@ -3459,23 +3459,23 @@ So much of existing law requiring the payment of interest with respect to any fu
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
-### § 193. Notice to present claims
+### § 193. Notice to present claims
 
 The Comptroller shall, upon appointing a receiver, cause notice to be given, by advertisement in such newspapers as he may direct, for three consecutive months, calling on all persons who may have claims against such association to present the same, and to make legal proof thereof.
 
-(R.S. § 5235.)
+(R.S. § 5235.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5235 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which was part of the National Bank Act. See section 38 of this title.
+R.S. § 5235 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which was part of the National Bank Act. See section 38 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -3483,27 +3483,27 @@ Provisions of this section were made applicable to banks, etc., in the District 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 194. Dividends on adjusted claims; distribution of assets
+### § 194. Dividends on adjusted claims; distribution of assets
 
 From time to time, the comptroller shall make a ratable dividend of the money so paid over to him by such receiver on all such claims as may have been proved to his satisfaction or adjudicated in a court of competent jurisdiction, and, as the proceeds of the assets of such association are paid over to him, shall make further dividends on all claims previously proved or adjudicated; and the remainder of the proceeds, if any, shall be paid over to the shareholders of such association, or their legal representatives, in proportion to the stock by them respectively held.
 
-(R.S. § 5236; Pub. L. 103–325, title VI, § 602(g)(12), Sept. 23, 1994, 108 Stat. 2294.)
+(R.S. § 5236; Pub. L. 103–325, title VI, § 602(g)(12), Sept. 23, 1994, 108 Stat. 2294.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5236 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which was the National Bank Act. See section 38 of this title.
+R.S. § 5236 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
-1994—Pub. L. 103–325 struck out “, after full provision has been first made for refunding to the United States any deficiency in redeeming the notes of such association” after “From time to time”.
+1994—Pub. L. 103–325 struck out “, after full provision has been first made for refunding to the United States any deficiency in redeeming the notes of such association” after “From time to time”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc. in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc. in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -3511,27 +3511,27 @@ Provisions of this section were made applicable to banks, etc. in the District o
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 195. Repealed. Pub. L. 103–325, title VI, § 602(e)(36), Sept. 23, 1994, 108 Stat. 2292
+### § 195. Repealed. Pub. L. 103–325, title VI, § 602(e)(36), Sept. 23, 1994, 108 Stat. 2292
 
-Section, R.S. § 5237; Mar. 3, 1911, ch. 231, § 289, 36 Stat. 1167, related to injunction by bank denying failure to redeem notes.
+Section, R.S. § 5237; Mar. 3, 1911, ch. 231, § 289, 36 Stat. 1167, related to injunction by bank denying failure to redeem notes.
 
-### § 196. Expenses
+### § 196. Expenses
 
 All expenses of any preliminary or other examinations into the condition of any association shall be paid by such association. All expenses of any receivership shall be paid out of the assets of such association before distribution of the proceeds thereof.
 
-(R.S. § 5238; Pub. L. 103–325, title VI, § 602(g)(13), Sept. 23, 1994, 108 Stat. 2294.)
+(R.S. § 5238; Pub. L. 103–325, title VI, § 602(g)(13), Sept. 23, 1994, 108 Stat. 2294.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5238 derived from act June 3, 1864, ch. 106, § 51, 13 Stat. 115, which was the National Bank Act. See section 38 of this title.
+R.S. § 5238 derived from act June 3, 1864, ch. 106, § 51, 13 Stat. 115, which was the National Bank Act. See section 38 of this title.
 
 **Amendments**
 
 1994—Pub. L. 103–325 struck out at beginning “All fees for protesting the notes issued by any national banking association shall be paid by the person procuring the protest to be made, and such association shall be liable therefor; but no part of the bonds deposited by such association shall be applied to the payment of such fees.”
 
-### § 197. Shareholders’ meeting; continuance of receivership; appointment of agent; winding up business; distribution of assets
+### § 197. Shareholders’ meeting; continuance of receivership; appointment of agent; winding up business; distribution of assets
 
 **(a)** Whenever any national banking association shall have been or shall be placed in the hands of a receiver, as provided in section fifty-two hundred and thirty-four [12 U.S.C. 192] and other sections of the Revised Statutes of the United States and section 1821(c) of this title, and when, as provided in section 194 of this title, there has been paid to each and every creditor of such association whose claim or claims as such creditor shall have been proved or allowed as therein prescribed, the full amount of such claims, and all expenses of the receivership, the Comptroller of the Currency or the Federal Deposit Insurance Corporation, where that Corporation has been appointed receiver of the bank, shall call a meeting of the shareholders of the association by giving notice thereof for thirty days in a newspaper published in the town, city, or county where the business of the association was carried on, or if no newspaper is there published, in the newspaper published nearest thereto. At such meeting the shareholders shall determine whether the receiver shall be continued and shall wind up the affairs of the association, or whether an agent shall be elected for that purpose, and in so determining the shareholders shall vote by ballot, in person or by proxy, each share of stock entitling the holder to one vote, and the majority of the stock in number of shares shall be necessary to determine whether the receiver shall be continued, or whether an agent shall be elected. In case such majority shall determine that the receiver shall be continued, the receiver shall thereupon proceed with the execution of the trust, and shall sell, dispose of, or otherwise collect the assets of the association, and shall possess all the powers and authority, and be subject to all the duties and liabilities originally conferred or imposed upon such receiver so far as they remain applicable. In case such meeting shall, by the vote of a majority of the stock in number of shares, determine that an agent shall be elected, the meeting shall thereupon proceed to elect an agent, voting by ballot, in person or by proxy, each share of stock entitling the holder to one vote, and the person who shall receive votes representing at least a majority of stock in number of shares shall be declared the agent for the purposes hereinafter provided; and when such agent shall have executed a bond to the shareholders conditioned for the payment and discharge in full or, to the extent possible from the remaining assets of the association, of each and every claim that may thereafter be proved and allowed by and before a competent court and for the faithful performance of his duties, in the penalty fixed by the shareholders at such meeting, with a surety or sureties to be approved by the district court of the United States for the district where the business of the association was carried on, and shall have filed such bond in the office of the clerk of such court, the Comptroller and the receiver, or the Federal Deposit Insurance Corporation, where that Corporation has been appointed receiver of the bank, shall thereupon transfer and deliver to such agent all the uncollected or other assets of the association then remaining in the hands or subject to the order and control of the Comptroller and such receiver, or either of them, or the Federal Deposit Insurance Corporation; and for this purpose the Comptroller and such receiver, or the Federal Deposit Insurance Corporation, as the case may be, are severally empowered and directed to execute any deed, assignment, transfer, or other instrument in writing that may be necessary and proper; and upon the execution and delivery of such instrument to such agent the Comptroller and such receiver or the Federal Deposit Insurance Corporation shall by virtue of this Act be discharged from any and all liabilities to the association and to each and all the creditors and shareholders thereof.
 
@@ -3543,7 +3543,7 @@ Second. To repay any amount or amounts which have been paid in by any shareholde
 
 Third. To pay the balance ratably among such stockholders, in proportion to the number of shares held and owned by each. Such distribution shall be made from time to time as the proceeds shall be received and as shall be deemed advisable by the Comptroller of the Currency, or the Federal Deposit Insurance Corporation if continued as receiver of the bank under subsection (a) of this section, or such agent, as the case may be.
 
-(June 30, 1876, ch. 156, § 3, 19 Stat. 63; Aug. 3, 1892, ch. 360, 27 Stat. 345; Mar. 2, 1897, ch. 354, 29 Stat. 600; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Pub. L. 86–230, § 18, Sept. 8, 1959, 73 Stat. 458.)
+(June 30, 1876, ch. 156, § 3, 19 Stat. 63; Aug. 3, 1892, ch. 360, 27 Stat. 345; Mar. 2, 1897, ch. 354, 29 Stat. 600; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Pub. L. 86–230, § 18, Sept. 8, 1959, 73 Stat. 458.)
 
 **Editorial Notes**
 
@@ -3567,7 +3567,7 @@ Act Mar. 3, 1911, conferred upon the district courts all powers formerly vested 
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -3575,11 +3575,11 @@ Provisions of this section were made applicable to banks, etc., in the District 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see Exception as to Transfer of Functions note set out under section 1 of this title.
 
-### § 197a. Resumption of business by closed bank on consent of depositors
+### § 197a. Resumption of business by closed bank on consent of depositors
 
 In any case in which, in the opinion of the Comptroller of the Currency, it would be to the advantage of the depositors and unsecured creditors of any national banking association whose business has been closed, for such association to resume business upon the retention by the association, for a reasonable period to be prescribed by the Comptroller, of all or any part of its deposits, the Comptroller is authorized, in his discretion, to permit the association to resume business if depositors and unsecured creditors of the association representing at least 75 per centum of its total deposit and unsecured credit liabilities consent in writing to such retention of deposits. Nothing in this section shall be construed to affect in any manner any powers of the Comptroller under the provisions of law in force on June 16, 1933, with respect to the reorganization of national banking associations.
 
-(June 16, 1933, ch. 89, § 29, 48 Stat. 193.)
+(June 16, 1933, ch. 89, § 29, 48 Stat. 193.)
 
 **Executive Documents**
 
@@ -3587,17 +3587,17 @@ In any case in which, in the opinion of the Comptroller of the Currency, it woul
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 198. Purchase by receiver of property of bank; request to Comptroller
+### § 198. Purchase by receiver of property of bank; request to Comptroller
 
 Whenever the receiver of any national bank duly appointed by the Comptroller of the Currency, and who shall have duly qualified and entered upon the discharge of his trust, shall find it in his opinion necessary, in order to fully protect and benefit his said trust, to the extent of any and all equities that such trust may have in any property, real or personal, by reason of any bond, mortgage, assignment, or other proper legal claim attaching thereto, and which said property is to be sold under any execution, decree of foreclosure, or proper order of any court of jurisdiction, he may certify the facts in the case, together with his opinion as to the value of the property to be sold, and the value of the equity his said trust may have in the same, to the Comptroller of the Currency, together with a request for the right and authority to use and employ so much of the money of said trust as may be necessary to purchase such property at such sale.
 
-(Mar. 29, 1886, ch. 28, § 1, 24 Stat. 8.)
+(Mar. 29, 1886, ch. 28, § 1, 24 Stat. 8.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -3605,17 +3605,17 @@ Provisions of this section were made applicable to banks, etc., in the District 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 199. Approval of request
+### § 199. Approval of request
 
 Such request, if approved by the Comptroller of the Currency, shall be, together with the certificate of facts in the case, and his recommendation as to the amount of money which, in his judgment, should be so used and employed, submitted to the Secretary of the Treasury, and if the same shall likewise be approved by him, the request shall be by the Comptroller of the Currency allowed, and notice thereof, with copies of the request, certificate of facts, and indorsement of approvals, shall be filed with the Treasurer of the United States.
 
-(Mar. 29, 1886, ch. 28, § 2, 24 Stat. 8.)
+(Mar. 29, 1886, ch. 28, § 2, 24 Stat. 8.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -3623,17 +3623,17 @@ Provisions of this section were made applicable to banks, etc., in the District 
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
-### § 200. Payment
+### § 200. Payment
 
 Whenever any such request shall be allowed as hereinbefore provided, the said Comptroller of the Currency shall be, and is, empowered to draw upon and from such funds of any such trust as may be deposited with the Treasurer of the United States for the benefit of the bank in interest, to the amount as may be recommended and allowed and for the purpose for which such allowance was made: *Provided, however*, That all payments to be made for or on account of the purchase of any such property and under any such allowance shall be made by the Comptroller of the Currency direct, with the approval of the Secretary of the Treasury, for such purpose only and in such manner as he may determine and order.
 
-(Mar. 29, 1886, ch. 28, § 3, 24 Stat. 8.)
+(Mar. 29, 1886, ch. 28, § 3, 24 Stat. 8.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application to District of Columbia**
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 **Executive Documents**
 
@@ -3643,17 +3643,17 @@ For transfer of functions to Secretary of the Treasury, see note set out under s
 
 ## SUBCHAPTER XIV—BANK CONSERVATION ACT
 
-### § 201. Short title
+### § 201. Short title
 
 This subchapter may be cited as the “Bank Conservation Act.”
 
-(Mar. 9, 1933, ch. 1, title II, § 201, 48 Stat. 2.)
+(Mar. 9, 1933, ch. 1, title II, § 201, 48 Stat. 2.)
 
-### § 202. Definitions
+### § 202. Definitions
 
 As used in this subchapter, the term “bank” means any national banking association or any other financial institution chartered or licensed under Federal law and subject to the supervision of the Comptroller of the Currency; the term “voluntary dissolution and liquidation” means a transaction pursuant to section 181 of this title that involves the assumption of the bank’s insured deposit liabilities and the sale of the bank, or of control of the bank, as a going concern; and the term “State” means any State, Territory, or possession of the United States, and the Canal Zone.
 
-(Mar. 9, 1933, ch. 1, title II, § 202, 48 Stat. 2; Pub. L. 101–73, title VIII, § 801, Aug. 9, 1989, 103 Stat. 441; Pub. L. 109–351, title VII, § 725(b), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(b), Oct. 16, 2006, 120 Stat. 2028.)
+(Mar. 9, 1933, ch. 1, title II, § 202, 48 Stat. 2; Pub. L. 101–73, title VIII, § 801, Aug. 9, 1989, 103 Stat. 441; Pub. L. 109–351, title VII, § 725(b), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(b), Oct. 16, 2006, 120 Stat. 2028.)
 
 **Editorial Notes**
 
@@ -3663,13 +3663,13 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 **Amendments**
 
-2006—Pub. L. 109–351 and 109–356 amended section identically, substituting “means any national” for “means (1) any national” and striking out “, and (2) any bank or trust company located in the District of Columbia and operating under the supervision of the Comptroller of the Currency” before first semicolon.
+2006—Pub. L. 109–351 and 109–356 amended section identically, substituting “means any national” for “means (1) any national” and striking out “, and (2) any bank or trust company located in the District of Columbia and operating under the supervision of the Comptroller of the Currency” before first semicolon.
 
-1989—Pub. L. 101–73, § 801(1), in cl. (1), extended term “bank” to include any financial institution chartered or licensed under Federal law and subject to supervision of Comptroller of the Currency.
+1989—Pub. L. 101–73, § 801(1), in cl. (1), extended term “bank” to include any financial institution chartered or licensed under Federal law and subject to supervision of Comptroller of the Currency.
 
-Pub. L. 101–73, § 801(2), in cl. (2), inserted definition of term “voluntary dissolution and liquidation”.
+Pub. L. 101–73, § 801(2), in cl. (2), inserted definition of term “voluntary dissolution and liquidation”.
 
-### § 203. Appointment of conservator
+### § 203. Appointment of conservator
 
 **(a) Appointment**
 
@@ -3707,17 +3707,17 @@ The Comptroller shall have exclusive power and jurisdiction to appoint a conserv
 
 The Comptroller may, without notice or hearing, replace a conservator with another conservator. Such replacement shall not affect the bank’s right under subsection (b) to obtain judicial review of the Comptroller’s original decision to appoint a conservator.
 
-(Mar. 9, 1933, ch. 1, title II, § 203, 48 Stat. 2; Pub. L. 101–73, title VIII, § 802, Aug. 9, 1989, 103 Stat. 442; Pub. L. 102–242, title I, § 133(c), Dec. 19, 1991, 105 Stat. 2271.)
+(Mar. 9, 1933, ch. 1, title II, § 203, 48 Stat. 2; Pub. L. 101–73, title VIII, § 802, Aug. 9, 1989, 103 Stat. 442; Pub. L. 102–242, title I, § 133(c), Dec. 19, 1991, 105 Stat. 2271.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 This Act, referred to in subsec. (d), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to section 4305 of Title 50, War and National Defense, and classified as a note under section 4305 of Title 50.
 
-Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
+Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
 
 **Amendments**
 
@@ -3741,11 +3741,11 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 Ex. Ord. No. 6080, Mar. 18, 1933, provided for appointment of conservators of State banks under certain regulations.
 
-### § 204. Examinations
+### § 204. Examinations
 
 The Comptroller of the Currency (in consultation with the Board of Directors of the Federal Deposit Insurance Corporation when the Corporation is appointed conservator) is authorized to examine and supervise the bank in conservatorship as long as the bank continues to operate as a going concern. The Comptroller may use reports and other information provided by the Federal Deposit Insurance Corporation for this purpose.
 
-(Mar. 9, 1933, ch. 1, title II, § 204, 48 Stat. 3; Pub. L. 101–73, title VIII, § 803, Aug. 9, 1989, 103 Stat. 443.)
+(Mar. 9, 1933, ch. 1, title II, § 204, 48 Stat. 3; Pub. L. 101–73, title VIII, § 803, Aug. 9, 1989, 103 Stat. 443.)
 
 **Editorial Notes**
 
@@ -3759,11 +3759,11 @@ The Comptroller of the Currency (in consultation with the Board of Directors of 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 205. Termination of conservatorship
+### § 205. Termination of conservatorship
 
-**(a) General rule** At any time the Comptroller 1
+**(a) General rule** At any time the Comptroller 1
 
-<sup>1</sup>  So in original. Probably should be “Comptroller of the Currency”.
+<sup>1</sup> So in original. Probably should be “Comptroller of the Currency”.
 
 becomes satisfied that it may safely be done and that it would be in the public interest, the Comptroller (with the agreement of the Board of Directors of the Federal Deposit Insurance Corporation when the Corporation has been appointed conservator) may—
 
@@ -3791,13 +3791,13 @@ Upon termination of the conservatorship under subsection (a)(2), the Federal Dep
 
 **(B)** The conservator shall be deemed to have discharged all responsibility of the conservatorship upon the deposit of the proceeds with the district court and giving the required notifications.
 
-(Mar. 9, 1933, ch. 1, title II, § 205, 48 Stat. 3; Pub. L. 101–73, title VIII, § 804, Aug. 9, 1989, 103 Stat. 443.)
+(Mar. 9, 1933, ch. 1, title II, § 205, 48 Stat. 3; Pub. L. 101–73, title VIII, § 804, Aug. 9, 1989, 103 Stat. 443.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Amendments**
 
@@ -3809,13 +3809,13 @@ The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 206. Conservator; powers and duties
+### § 206. Conservator; powers and duties
 
 **(a) General powers**
 
-A conservator shall have all the powers of the shareholders, directors, and officers of the bank and may operate the bank in its own name unless the Comptroller 1
+A conservator shall have all the powers of the shareholders, directors, and officers of the bank and may operate the bank in its own name unless the Comptroller 1
 
-<sup>1</sup>  So in original. Probably should be “Comptroller of the Currency”.
+<sup>1</sup> So in original. Probably should be “Comptroller of the Currency”.
 
 in the order of appointment limits the conservator’s authority.
 
@@ -3835,7 +3835,7 @@ The conservator and professional employees appointed to represent or assist the 
 
 All expenses of any such conservatorship shall be paid by the bank and shall be a lien upon the bank which shall be prior to any other lien.
 
-(Mar. 9, 1933, ch. 1, title II, § 206, 48 Stat. 3; Pub. L. 101–73, title VIII, § 805, Aug. 9, 1989, 103 Stat. 445.)
+(Mar. 9, 1933, ch. 1, title II, § 206, 48 Stat. 3; Pub. L. 101–73, title VIII, § 805, Aug. 9, 1989, 103 Stat. 445.)
 
 **Editorial Notes**
 
@@ -3849,13 +3849,13 @@ All expenses of any such conservatorship shall be paid by the bank and shall be 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### §§ 207, 208. Repealed. Pub. L. 101–73, title VIII, § 808, Aug. 9, 1989, 103 Stat. 446
+### §§ 207, 208. Repealed. Pub. L. 101–73, title VIII, § 808, Aug. 9, 1989, 103 Stat. 446
 
-Section 207, acts Mar. 9, 1933, ch. 1, title II, § 207, 48 Stat. 3; May 20, 1933, ch. 34, 48 Stat. 72, prescribed conditions for reorganization of banks, requiring consent of depositors and other creditors, of stockholders, or of both depositors and other creditors and stockholders, namely that the reorganization plan be fair and equitable to depositors, other creditors, and stockholders and be in the public interest; that the plan be consented to in writing; and that the approved plan be binding on all consenting or nonconsenting depositors, creditors, and stockholders.
+Section 207, acts Mar. 9, 1933, ch. 1, title II, § 207, 48 Stat. 3; May 20, 1933, ch. 34, 48 Stat. 72, prescribed conditions for reorganization of banks, requiring consent of depositors and other creditors, of stockholders, or of both depositors and other creditors and stockholders, namely that the reorganization plan be fair and equitable to depositors, other creditors, and stockholders and be in the public interest; that the plan be consented to in writing; and that the approved plan be binding on all consenting or nonconsenting depositors, creditors, and stockholders.
 
-Section 208, act Mar. 9, 1933, ch. 1, title II, § 208, 48 Stat. 4, made the provisions for segregation of deposits inapplicable after termination of conservatorship, and provided for termination of conservatorship after publication of notice of termination and mailing of a copy of such notice by registered mail to depositors of record.
+Section 208, act Mar. 9, 1933, ch. 1, title II, § 208, 48 Stat. 4, made the provisions for segregation of deposits inapplicable after termination of conservatorship, and provided for termination of conservatorship after publication of notice of termination and mailing of a copy of such notice by registered mail to depositors of record.
 
-### § 209. Liability protection
+### § 209. Liability protection
 
 **(a) Federal agency and employees**
 
@@ -3867,13 +3867,13 @@ In any case where the conservator is not a conservator described in subsection (
 
 **(c) Indemnification**
 
-The Comptroller 1
+The Comptroller 1
 
-<sup>1</sup>  So in original. Probably should be “Comptroller of the Currency”.
+<sup>1</sup> So in original. Probably should be “Comptroller of the Currency”.
 
 shall have authority to indemnify the conservator on such terms as the Comptroller deems proper.
 
-(Mar. 9, 1933, ch. 1, title II, § 209, 48 Stat. 5; Sept. 3, 1954, ch. 1263, § 23, 68 Stat. 1234; Pub. L. 101–73, title VIII, § 806, Aug. 9, 1989, 103 Stat. 445.)
+(Mar. 9, 1933, ch. 1, title II, § 209, 48 Stat. 5; Sept. 3, 1954, ch. 1263, § 23, 68 Stat. 1234; Pub. L. 101–73, title VIII, § 806, Aug. 9, 1989, 103 Stat. 445.)
 
 **Editorial Notes**
 
@@ -3889,17 +3889,17 @@ shall have authority to indemnify the conservator on such terms as the Comptroll
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 210. Governmental powers unimpaired
+### § 210. Governmental powers unimpaired
 
 Nothing in this subchapter shall be construed to impair in any manner any powers of the President, the Secretary of the Treasury, the Comptroller of the Currency, or the Board of Governors of the Federal Reserve System.
 
-(Mar. 9, 1933, ch. 1, title II, § 210, 48 Stat. 5; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Mar. 9, 1933, ch. 1, title II, § 210, 48 Stat. 5; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
+Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
 **Executive Documents**
 
@@ -3907,7 +3907,7 @@ Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, changed the nam
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 211. Rules and regulations
+### § 211. Rules and regulations
 
 **(a) In general**
 
@@ -3917,7 +3917,7 @@ The Comptroller of the Currency may prescribe such rules and regulations as the 
 
 In any case in which the Federal Deposit Insurance Corporation is the conservator, any rules or regulations prescribed by the Comptroller shall be consistent with any rules and regulations prescribed by the Federal Deposit Insurance Corporation pursuant to the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.].
 
-(Mar. 9, 1933, ch. 1, title II, § 211, 48 Stat. 5; Pub. L. 101–73, title VIII, § 807, Aug. 9, 1989, 103 Stat. 446.)
+(Mar. 9, 1933, ch. 1, title II, § 211, 48 Stat. 5; Pub. L. 101–73, title VIII, § 807, Aug. 9, 1989, 103 Stat. 446.)
 
 **Editorial Notes**
 
@@ -3925,9 +3925,9 @@ In any case in which the Federal Deposit Insurance Corporation is the conservato
 
 This Act, referred to in subsec. (a), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, and 445 of this title and section 4305 of Title 50, War and National Defense, and classified as a note under section 4305 of Title 50.
 
-Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
+Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
 
-The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Amendments**
 
@@ -3939,11 +3939,11 @@ The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 212. Right to amend; separability
+### § 212. Right to amend; separability
 
 The right to alter, amend, or repeal this Act is expressly reserved. If any provision of this Act, or the application there of to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
-(Mar. 9, 1933, ch. 1, title V, § 502, 48 Stat. 7.)
+(Mar. 9, 1933, ch. 1, title V, § 502, 48 Stat. 7.)
 
 **Editorial Notes**
 
@@ -3951,29 +3951,29 @@ The right to alter, amend, or repeal this Act is expressly reserved. If any prov
 
 This Act, referred to in text, is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, and 445 of this title and section 4305 of Title 50, War and National Defense, and classified as a note under section 4305 of Title 50.
 
-Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
+Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (*o*), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
 
 **Codification**
 
 This section was not enacted as part of title II of act Mar. 9, 1933, ch. 1, 48 Stat. 2, which comprises this subchapter.
 
-### § 213. Transferred
+### § 213. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Jan. 30, 1934, ch. 6, § 13, 48 Stat. 343, relating to ratification of acts of the President and Secretary of the Treasury, was transferred to section 824 of former Title 31, and subsequently repealed by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section, act Jan. 30, 1934, ch. 6, § 13, 48 Stat. 343, relating to ratification of acts of the President and Secretary of the Treasury, was transferred to section 824 of former Title 31, and subsequently repealed by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
 ## SUBCHAPTER XV—CONVERSION OF NATIONAL BANKS INTO STATE BANKS
 
-### § 214. Definitions
+### § 214. Definitions
 
 **(a)** As used in this subchapter and section 321 of this title the term “State bank” means any bank, banking association, trust company, savings bank (other than a mutual savings bank), or other banking institution which is engaged in the business of receiving deposits and which is incorporated under the laws of any State, any Territory of the United States, Puerto Rico, or the Virgin Islands, or which is operating under the Code of Law for the District of Columbia.
 
 **(b)** For purposes of merger or consolidation under this subchapter and section 321 of this title the term “national banking association” means one or more national banking associations, and the term “State bank” means one or more State banks.
 
-(Aug. 17, 1950, ch. 729, § 1, 64 Stat. 455; Sept. 3, 1954, ch. 1263, § 24, 68 Stat. 1234; Pub. L. 109–351, title VII, § 725(f), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, § 123(f), Oct. 16, 2006, 120 Stat. 2029.)
+(Aug. 17, 1950, ch. 729, § 1, 64 Stat. 455; Sept. 3, 1954, ch. 1263, § 24, 68 Stat. 1234; Pub. L. 109–351, title VII, § 725(f), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, § 123(f), Oct. 16, 2006, 120 Stat. 2029.)
 
 **Editorial Notes**
 
@@ -3987,9 +3987,9 @@ Section, act Jan. 30, 1934, ch. 6, § 13, 48 Stat. 343, relating to ratificati
 
 **Separability**
 
-Act Aug. 17, 1950, ch. 729, § 9, 64 Stat. 458, provided that: “If any provision of this Act [enacting this subchapter and amending of sections 264 and 321 of this title], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
+Act Aug. 17, 1950, ch. 729, § 9, 64 Stat. 458, provided that: “If any provision of this Act [enacting this subchapter and amending of sections 264 and 321 of this title], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 
-### § 214a. Procedure for conversion, merger, or consolidation; vote of stockholders
+### § 214a. Procedure for conversion, merger, or consolidation; vote of stockholders
 
 A national banking association may, by vote of the holders of at least two-thirds of each class of its capital stock, convert into, or merge or consolidate with, a State bank in the same State in which the national banking association is located, under a State charter, in the following manner:
 
@@ -4001,7 +4001,7 @@ The plan of conversion, merger, or consolidation must be approved by a majority 
 
 A shareholder of a national banking association who votes against the conversion, merger, or consolidation, or who has given notice in writing to the bank at or prior to such meeting that he dissents from the plan, shall be entitled to receive in cash the value of the shares held by him, if and when the conversion, merger, or consolidation is consummated, upon written request made to the resulting State bank at any time before thirty days after the date of consummation of such conversion, merger, or consolidation, accompanied by the surrender of his stock certificates. The value of such shares shall be determined as of the date on which the shareholders’ meeting was held authorizing the conversion, merger, or consolidation, by a committee of three persons, one to be selected by majority vote of the dissenting shareholders entitled to receive the value of their shares, one by the directors of the resulting State bank, and the third by the two so chosen. The valuation agreed upon by any two of three appraisers thus chosen shall govern; but, if the value so fixed shall not be satisfactory to any dissenting shareholder who has requested payment as provided herein, such shareholder may within five days after being notified of the appraised value of his shares appeal to the Comptroller of the Currency, who shall cause a reappraisal to be made, which shall be final and binding as to the value of the shares of the appellant. If, within ninety days from the date of consummation of the conversion, merger, or consolidation, for any reason one or more of the appraisers is not selected as herein provided, or the appraisers fail to determine the value of such shares, the Comptroller shall upon written request of any interested party, cause an appraisal to be made, which shall be final and binding on all parties. The expenses of the Comptroller in making the reappraisal, or the appraisal as the case may be, shall be paid by the resulting State bank. The plan of conversion, merger, or consolidation shall provide the manner of disposing of the shares of the resulting State bank not taken by the dissenting shareholders of the national banking association.
 
-(Aug. 17, 1950, ch. 729, § 2, 64 Stat. 455; Pub. L. 86–507, § 1(10), June 11, 1960, 74 Stat. 200; Pub. L. 96–221, title VII, § 706, Mar. 31, 1980, 94 Stat. 188.)
+(Aug. 17, 1950, ch. 729, § 2, 64 Stat. 455; Pub. L. 86–507, § 1(10), June 11, 1960, 74 Stat. 200; Pub. L. 96–221, title VII, § 706, Mar. 31, 1980, 94 Stat. 188.)
 
 **Editorial Notes**
 
@@ -4011,17 +4011,17 @@ A shareholder of a national banking association who votes against the conversion
 
 1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-### § 214b. Continuation of business and corporate entity
+### § 214b. Continuation of business and corporate entity
 
 The franchise of a national banking association as a national banking association shall automatically terminate when its conversion into or its merger or consolidation with a State bank under a State charter is consummated and the resulting State bank shall be considered the same business and corporate entity as the national banking association, although as to rights, powers, and duties the resulting bank is a State bank. Any reference to such national banking association in any contract, will, or document shall be considered a reference to the State bank if not inconsistent with the provisions of the contract, will, or document or applicable law.
 
-(Aug. 17, 1950, ch. 729, § 3, 64 Stat. 456.)
+(Aug. 17, 1950, ch. 729, § 3, 64 Stat. 456.)
 
-### § 214c. Conversions in contravention of State law
+### § 214c. Conversions in contravention of State law
 
 No conversion of a national banking association into a State bank or its merger or consolidation with a State bank shall take place under this subchapter and section 321 of this title in contravention of the law of the State in which the national banking association is located; and no such conversion, merger, or consolidation shall take place under said sections unless under the law of the State in which such national banking association is located State banks may without approval by any State authority convert into and merge or consolidate with national banking associations under limitations or conditions no more restrictive than those contained in section 214a of this title with respect to the conversion of a national bank into, or merger or consolidation of a national bank with, a State bank under State charter.
 
-(Aug. 17, 1950, ch. 729, § 4, 64 Stat. 456; July 12, 1952, ch. 696, 66 Stat. 590; Sept. 3, 1954, ch. 1263, § 25, 68 Stat. 1235.)
+(Aug. 17, 1950, ch. 729, § 4, 64 Stat. 456; July 12, 1952, ch. 696, 66 Stat. 590; Sept. 3, 1954, ch. 1263, § 25, 68 Stat. 1235.)
 
 **Editorial Notes**
 
@@ -4031,11 +4031,11 @@ No conversion of a national banking association into a State bank or its merger 
 
 1952—Act July 12, 1952, amended section so that the limitation of this section beyond which State law cannot go will be measured by the standard set out in section 214a of this title for National-to-State conversions.
 
-### § 214d. Prohibition on conversion
+### § 214d. Prohibition on conversion
 
 A national banking association may not convert to a State bank or State savings association during any period in which the national banking association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, the Comptroller of the Currency with respect to a significant supervisory matter.
 
-(Aug. 17, 1950, ch. 729, § 10, as added Pub. L. 111–203, title VI, § 612(a), July 21, 2010, 124 Stat. 1612.)
+(Aug. 17, 1950, ch. 729, § 10, as added Pub. L. 111–203, title VI, § 612(a), July 21, 2010, 124 Stat. 1612.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4045,7 +4045,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ## SUBCHAPTER XVI—CONSOLIDATION AND MERGER
 
-### § 215. Consolidation of banks within same State
+### § 215. Consolidation of banks within same State
 
 **(a) In general**
 
@@ -4075,19 +4075,19 @@ Where any consolidating bank or banking association, at the time of the consolid
 
 Stock of the consolidated national banking association may be issued as provided by the terms of the consolidation agreement, free from any preemptive rights of the shareholders of the respective consolidating banks.
 
-(Nov. 7, 1918, ch. 209, § 2, formerly § 1, as added Pub. L. 86–230, § 20, Sept. 8, 1959, 73 Stat. 460; renumbered § 2 and amended Pub. L. 103–328, title I, § 102(b)(4)(C), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 112–231, § 2(b)(2)(A), Dec. 28, 2012, 126 Stat. 1619.)
+(Nov. 7, 1918, ch. 209, § 2, formerly § 1, as added Pub. L. 86–230, § 20, Sept. 8, 1959, 73 Stat. 460; renumbered § 2 and amended Pub. L. 103–328, title I, § 102(b)(4)(C), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 112–231, § 2(b)(2)(A), Dec. 28, 2012, 126 Stat. 1619.)
 
 **Editorial Notes**
 
 **Codification**
 
-Provisions similar to those comprising this section were contained in sections 1 and 2 of act Nov. 7, 1918, ch. 209, 40 Stat. 1043, and section 3 of act Nov. 7, 1918, ch. 209, added Feb. 25, 1927, ch. 191, § 1, 44 Stat. 1225 (formerly classified to sections 33 to 34a of this title) prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
+Provisions similar to those comprising this section were contained in sections 1 and 2 of act Nov. 7, 1918, ch. 209, 40 Stat. 1043, and section 3 of act Nov. 7, 1918, ch. 209, added Feb. 25, 1927, ch. 191, § 1, 44 Stat. 1225 (formerly classified to sections 33 to 34a of this title) prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
 
 **Amendments**
 
-2012—Subsec. (e). Pub. L. 112–231, § 2(b)(2)(A)(i), substituted “and receiver” for “receiver, and committee of estates of lunatics”.
+2012—Subsec. (e). Pub. L. 112–231, § 2(b)(2)(A)(i), substituted “and receiver” for “receiver, and committee of estates of lunatics”.
 
-Subsec. (f). Pub. L. 112–231, § 2(b)(2)(A)(ii), substituted “or receiver” for “receiver, or committee of estates of lunatics”.
+Subsec. (f). Pub. L. 112–231, § 2(b)(2)(A)(ii), substituted “or receiver” for “receiver, or committee of estates of lunatics”.
 
 1994—Pub. L. 103–328 inserted section catchline and, in subsec. (a), inserted heading and substituted “Any national bank” for “Any national banking association”.
 
@@ -4095,9 +4095,9 @@ Subsec. (f). Pub. L. 112–231, § 2(b)(2)(A)(ii), substituted “or receiver�
 
 **Short Title**
 
-Act Nov. 7, 1918, ch. 209, § 1, as added by Pub. L. 103–328, title I, § 102(b)(4)(C), Sept. 29, 1994, 108 Stat. 2351, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Bank Consolidation and Merger Act’.”
+Act Nov. 7, 1918, ch. 209, § 1, as added by Pub. L. 103–328, title I, § 102(b)(4)(C), Sept. 29, 1994, 108 Stat. 2351, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Bank Consolidation and Merger Act’.”
 
-### § 215a. Merger of national banks or State banks into national banks
+### § 215a. Merger of national banks or State banks into national banks
 
 **(a) Approval of Comptroller, board and shareholders; merger agreement; notice; capital stock; liability of receiving association** One or more national banking associations or one or more State banks, with the approval of the Comptroller, under an agreement not inconsistent with this subchapter, may merge into a national banking association located within the same State, under the charter of the receiving association. The merger agreement shall—
 
@@ -4133,21 +4133,21 @@ Where any merging bank or banking association, at the time of the merger, was ac
 
 Stock of the receiving association may be issued as provided by the terms of the merger agreement, free from any preemptive rights of the shareholders of the respective merging banks.
 
-(Nov. 7, 1918, ch. 209, § 3, formerly § 2, as added Pub. L. 86–230, § 20, Sept. 8, 1959, 73 Stat. 463; renumbered § 3, Pub. L. 103–328, title I, § 102(b)(4)(A), Sept. 29, 1994, 108 Stat. 2351; amended Pub. L. 112–231, § 2(b)(2)(B), Dec. 28, 2012, 126 Stat. 1619.)
+(Nov. 7, 1918, ch. 209, § 3, formerly § 2, as added Pub. L. 86–230, § 20, Sept. 8, 1959, 73 Stat. 463; renumbered § 3, Pub. L. 103–328, title I, § 102(b)(4)(A), Sept. 29, 1994, 108 Stat. 2351; amended Pub. L. 112–231, § 2(b)(2)(B), Dec. 28, 2012, 126 Stat. 1619.)
 
 **Editorial Notes**
 
 **Codification**
 
-Provisions similar to those comprising this section were contained in section 4 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, § 1, 66 Stat. 599 (formerly classified to section 34b of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
+Provisions similar to those comprising this section were contained in section 4 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, § 1, 66 Stat. 599 (formerly classified to section 34b of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
 
 **Amendments**
 
-2012—Subsec. (e). Pub. L. 112–231, § 2(b)(2)(B)(i), substituted “and receiver” for “receiver, and committee of estates of lunatics”.
+2012—Subsec. (e). Pub. L. 112–231, § 2(b)(2)(B)(i), substituted “and receiver” for “receiver, and committee of estates of lunatics”.
 
-Subsec. (f). Pub. L. 112–231, § 2(b)(2)(B)(ii), substituted “or receiver” for “receiver, or committee of estates of lunatics”.
+Subsec. (f). Pub. L. 112–231, § 2(b)(2)(B)(ii), substituted “or receiver” for “receiver, or committee of estates of lunatics”.
 
-### § 215a–1. Interstate consolidations and mergers
+### § 215a–1. Interstate consolidations and mergers
 
 **(a) In general**
 
@@ -4159,13 +4159,13 @@ Subsection (a) shall not apply with respect to any consolidation or merger befor
 
 **(c) Definitions**
 
-The terms “home State” and “out-of-State bank” have the same meaning as in section 1831u(f) 1
+The terms “home State” and “out-of-State bank” have the same meaning as in section 1831u(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Nov. 7, 1918, ch. 209, § 4, as added Pub. L. 103–328, title I, § 102(b)(4)(D), Sept. 29, 1994, 108 Stat. 2351.)
+(Nov. 7, 1918, ch. 209, § 4, as added Pub. L. 103–328, title I, § 102(b)(4)(D), Sept. 29, 1994, 108 Stat. 2351.)
 
 **Editorial Notes**
 
@@ -4173,7 +4173,7 @@ of this title.
 
 Section 1831u of this title, referred to in subsec. (c), was subsequently amended, and subsec. (f) of section 1831u no longer defines the terms “home State” and “out-of-State bank”. However, such terms are defined elsewhere in that section.
 
-### § 215a–2. Expedited procedures for certain reorganizations
+### § 215a–2. Expedited procedures for certain reorganizations
 
 **(a) In general**
 
@@ -4207,15 +4207,15 @@ The corporate existence of a national bank that reorganizes in accordance with t
 
 This section does not affect in any way the applicability of the Bank Holding Company Act of 1956 [12 U.S.C. 1841 et seq.] to a transaction described in subsection (a).
 
-(Nov. 7, 1918, ch. 209, § 5, as added Pub. L. 106–569, title XII, § 1204(2), Dec. 27, 2000, 114 Stat. 3033.)
+(Nov. 7, 1918, ch. 209, § 5, as added Pub. L. 106–569, title XII, § 1204(2), Dec. 27, 2000, 114 Stat. 3033.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bank Holding Company Act of 1956, referred to in subsec. (e), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (e), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
-### § 215a–3. Mergers and consolidations with subsidiaries and nonbank affiliates
+### § 215a–3. Mergers and consolidations with subsidiaries and nonbank affiliates
 
 **(a) In general**
 
@@ -4231,9 +4231,9 @@ Upon the approval of the Comptroller, a national bank may merge with one or more
 
 The Comptroller shall promulgate regulations to implement this section.
 
-(Nov. 7, 1918, ch. 209, § 6, as added Pub. L. 106–569, title XII, § 1206, Dec. 27, 2000, 114 Stat. 3034.)
+(Nov. 7, 1918, ch. 209, § 6, as added Pub. L. 106–569, title XII, § 1206, Dec. 27, 2000, 114 Stat. 3034.)
 
-### § 215b. Definitions
+### § 215b. Definitions
 
 As used in this subchapter, the term—
 
@@ -4245,25 +4245,25 @@ As used in this subchapter, the term—
 
 **(4)** “Receiving association” means the national banking association into which one or more national banking associations or one or more State banks, located within the same State, merge.
 
-(Nov. 7, 1918, ch. 209, § 7, formerly § 3, as added Pub. L. 86–230, § 20, Sept. 8, 1959, 73 Stat. 465; renumbered § 5, Pub. L. 103–328, title I, § 102(b)(4)(B), Sept. 29, 1994, 108 Stat. 2351; renumbered § 7, Pub. L. 106–569, title XII, § 1204(1), Dec. 27, 2000, 114 Stat. 3033; amended Pub. L. 109–351, title VII, § 725(e), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, § 123(e), Oct. 16, 2006, 120 Stat. 2029.)
+(Nov. 7, 1918, ch. 209, § 7, formerly § 3, as added Pub. L. 86–230, § 20, Sept. 8, 1959, 73 Stat. 465; renumbered § 5, Pub. L. 103–328, title I, § 102(b)(4)(B), Sept. 29, 1994, 108 Stat. 2351; renumbered § 7, Pub. L. 106–569, title XII, § 1204(1), Dec. 27, 2000, 114 Stat. 3033; amended Pub. L. 109–351, title VII, § 725(e), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, § 123(e), Oct. 16, 2006, 120 Stat. 2029.)
 
 **Editorial Notes**
 
 **Codification**
 
-Provisions similar to those comprising this section were contained in section 5 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, § 1, 66 Stat. 601 (formerly classified to section 34c of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
+Provisions similar to those comprising this section were contained in section 5 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, § 1, 66 Stat. 601 (formerly classified to section 34c of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
 
 **Amendments**
 
 2006—Par. (1). Pub. L. 109–351 and 109–356 amended par. (1) identically, striking out “(except a national banking association located in the District of Columbia)” before semicolon at end.
 
-### § 215c. Mergers, consolidations, and other acquisitions authorized
+### § 215c. Mergers, consolidations, and other acquisitions authorized
 
 **(a) In general**
 
-Subject to sections 1815(d)(3) 1
+Subject to sections 1815(d)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 1828(c) of this title and all other applicable laws, any national bank may acquire or be acquired by any insured depository institution.
 
@@ -4281,25 +4281,25 @@ Any application by a national bank to acquire or be acquired by another insured 
 
 **(c) Rule of construction**
 
-No provision of this section shall be construed as authorizing a national bank or a subsidiary of a national bank to engage in any activity not otherwise authorized under this Act <sup>1</sup> or any other law governing the powers of national banks.
+No provision of this section shall be construed as authorizing a national bank or a subsidiary of a national bank to engage in any activity not otherwise authorized under this Act <sup>1</sup> or any other law governing the powers of national banks.
 
 **(d) “Acquire” defined**
 
 For purposes of this section, the term “acquire” means to acquire, directly or indirectly, ownership or control through a merger or consolidation or an acquisition of assets or assumption of liabilities, provided that following such merger, consolidation, or acquisition, an acquiring insured depository institution may not own the shares of the acquired insured depository institution.
 
-(R.S. § 5156A, as added Pub. L. 102–242, title V, § 502(b), Dec. 19, 1991, 105 Stat. 2393; amended Pub. L. 104–208, div. A, title II, § 2201(b)(1), Sept. 30, 1996, 110 Stat. 3009–403.)
+(R.S. § 5156A, as added Pub. L. 102–242, title V, § 502(b), Dec. 19, 1991, 105 Stat. 2393; amended Pub. L. 104–208, div. A, title II, § 2201(b)(1), Sept. 30, 1996, 110 Stat. 3009–403.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1815(d)(3) of this title, referred to in subsec. (a), which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments, was struck out and former section 1815(d)(1)(C) redesignated section 1815(d)(3) by Pub. L. 109–173, § 8(a)(4), (5)(D), Feb. 15, 2006, 119 Stat. 3610, 3611.
+Section 1815(d)(3) of this title, referred to in subsec. (a), which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments, was struck out and former section 1815(d)(1)(C) redesignated section 1815(d)(3) by Pub. L. 109–173, § 8(a)(4), (5)(D), Feb. 15, 2006, 119 Stat. 3610, 3611.
 
-This Act, referred to in subsec. (c), probably means the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+This Act, referred to in subsec. (c), probably means the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
 **Codification**
 
-Section was not enacted as part of act Nov. 7, 1918, ch. 209, as added Sept. 8, 1959, Pub. L. 86–230, § 20, 73 Stat. 460, which comprises this subchapter.
+Section was not enacted as part of act Nov. 7, 1918, ch. 209, as added Sept. 8, 1959, Pub. L. 86–230, § 20, 73 Stat. 460, which comprises this subchapter.
 
 **Amendments**
 
@@ -4307,7 +4307,7 @@ Section was not enacted as part of act Nov. 7, 1918, ch. 209, as added Sept. 8, 
 
 ## SUBCHAPTER XVII—DISPOSITION OF UNCLAIMED PROPERTY RECOVERED FROM CLOSED NATIONAL BANKS
 
-### § 216. Purpose
+### § 216. Purpose
 
 The purpose of this subchapter is to dispose of unclaimed property in the possession, custody, or control of the Comptroller of the Currency by—
 
@@ -4317,7 +4317,7 @@ The purpose of this subchapter is to dispose of unclaimed property in the posses
 
 **(3)** authorizing the Comptroller to dispose of such property for which no claims have been filed and validated under this subchapter.
 
-(Pub. L. 96–221, title VII, § 731, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 109–351, title VII, § 725(c)(1), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(c)(1), Oct. 16, 2006, 120 Stat. 2029.)
+(Pub. L. 96–221, title VII, § 731, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 109–351, title VII, § 725(c)(1), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(c)(1), Oct. 16, 2006, 120 Stat. 2029.)
 
 **Editorial Notes**
 
@@ -4325,7 +4325,7 @@ The purpose of this subchapter is to dispose of unclaimed property in the posses
 
 2006—Par. (1). Pub. L. 109–351 and 109–356 amended par. (1) identically, striking out “and closed banks in the District of Columbia” before semicolon at end.
 
-### § 216a. Definitions
+### § 216a. Definitions
 
 For purposes of this subchapter—
 
@@ -4335,7 +4335,7 @@ For purposes of this subchapter—
 
 **(3)** the term “claimant” means any person or entity, including a State under applicable statutory law, asserting a demonstrable legal interest in title to, or custody or possession of, unclaimed property.
 
-(Pub. L. 96–221, title VII, § 732, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 109–351, title VII, § 725(c)(2), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(c)(2), Oct. 16, 2006, 120 Stat. 2029.)
+(Pub. L. 96–221, title VII, § 732, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 109–351, title VII, § 725(c)(2), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(c)(2), Oct. 16, 2006, 120 Stat. 2029.)
 
 **Editorial Notes**
 
@@ -4343,7 +4343,7 @@ For purposes of this subchapter—
 
 2006—Par. (2). Pub. L. 109–351 and 109–356 amended par. (2) identically, striking out “or closed banks in the District of Columbia” after “closed national banks”.
 
-### § 216b. Disposition of unclaimed property
+### § 216b. Disposition of unclaimed property
 
 **(a) Limitations for filing claims; publication of notice in Federal Register; contents of notice; disclosure of descriptive information; inspection of specific property**
 
@@ -4395,13 +4395,13 @@ The United States, the Comptroller, or any officer, employee, or agent thereof s
 
 **(3)** All claims for which the United States Court of Federal Claims has jurisdiction under this subsection shall be barred unless suit is filed within two years from the date of expiration of the twelve-month notice period provided by this subchapter.
 
-**(4)** For purposes of section 1491 of title 28, any Claim 1
+**(4)** For purposes of section 1491 of title 28, any Claim 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 against the Comptroller, the United States, or any officer, employee, or agent thereof shall be considered a claim against the United States.
 
-(Pub. L. 96–221, title VII, § 733, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 96–221, title VII, § 733, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -4415,14 +4415,14 @@ against the Comptroller, the United States, or any officer, employee, or agent t
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-### § 216c. Rules and regulations
+### § 216c. Rules and regulations
 
 The Comptroller may issue rules and regulations necessary or appropriate to carry out this subchapter.
 
-(Pub. L. 96–221, title VII, § 734, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1515.)
+(Pub. L. 96–221, title VII, § 734, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1515.)
 
-### § 216d. Severability
+### § 216d. Severability
 
 If any provision of this subchapter or the application of such provision to any person or circumstance is held invalid, the remainder of this subchapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
-(Pub. L. 96–221, title VII, § 735, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1515.)
+(Pub. L. 96–221, title VII, § 735, as added Pub. L. 97–320, title IV, § 408, Oct. 15, 1982, 96 Stat. 1515.)

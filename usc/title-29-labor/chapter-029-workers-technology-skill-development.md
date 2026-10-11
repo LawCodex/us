@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 29—WORKERS TECHNOLOGY SKILL DEVELOPMENT
 
-## § 2701. Findings
+## § 2701. Findings
 
 The Congress finds and declares the following:
 
@@ -35,17 +35,17 @@ The Congress finds and declares the following:
 
 **(5)** In working with the private sector to promote the technological leadership and economic growth of the United States, the Federal Government has a responsibility to ensure that Federal technology programs help the United States to remain competitive and to maintain and improve living standards and to create and retain secure jobs in economically stable communities.
 
-(Pub. L. 103–382, title V, § 542, Oct. 20, 1994, 108 Stat. 4051.)
+(Pub. L. 103–382, title V, § 542, Oct. 20, 1994, 108 Stat. 4051.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Section 541 of Pub. L. 103–382 provided that: “This part [part D (§§ 541–547) of title V of Pub. L. 103–382, enacting this chapter] may be cited as the ‘Workers Technology Skill Development Act’.”
+Section 541 of Pub. L. 103–382 provided that: “This part [part D (§§ 541–547) of title V of Pub. L. 103–382, enacting this chapter] may be cited as the ‘Workers Technology Skill Development Act’.”
 
 **Study and Report on the “Digital Divide”**
 
-Pub. L. 106–313, title I, § 115, Oct. 17, 2000, 114 Stat. 1262, provided that:
+Pub. L. 106–313, title I, § 115, Oct. 17, 2000, 114 Stat. 1262, provided that:
 
 > **“(a) Study.—** The Secretary of Commerce shall conduct a review of existing public and private high-tech workforce training programs in the United States.
 
@@ -53,7 +53,7 @@ Pub. L. 106–313, title I, § 115, Oct. 17, 2000, 114 Stat. 1262, provided th
 
 **Report on Older Workers in Information Technology Field**
 
-Pub. L. 105–277, div. C, title IV, § 417, Oct. 21, 1998, 112 Stat. 2681–656, provided that:
+Pub. L. 105–277, div. C, title IV, § 417, Oct. 21, 1998, 112 Stat. 2681–656, provided that:
 
 > **“(a) Study.—** The Director of the National Science Foundation shall enter into a contract with the President of the National Academy of Sciences to conduct a study, using the best available data, assessing the status of older workers in the information technology field. The study shall consider the following:
 
@@ -79,13 +79,13 @@ Pub. L. 105–277, div. C, title IV, § 417, Oct. 21, 1998, 112 Stat. 2681–6
 
 **Report on High Technology Labor Market Needs**
 
-Pub. L. 105–277, div. C, title IV, § 418(a), Oct. 21, 1998, 112 Stat. 2681–656, required the Director of the National Science Foundation to conduct a multifaceted study, in a manner that ensured the participation of individuals representing a variety of points of view, to assess labor market needs for workers with high technology skills during the next 10 years, and to submit to Congress a report containing the results of the study by Oct. 1, 2000.
+Pub. L. 105–277, div. C, title IV, § 418(a), Oct. 21, 1998, 112 Stat. 2681–656, required the Director of the National Science Foundation to conduct a multifaceted study, in a manner that ensured the participation of individuals representing a variety of points of view, to assess labor market needs for workers with high technology skills during the next 10 years, and to submit to Congress a report containing the results of the study by Oct. 1, 2000.
 
 **Twenty-First Century Workforce Commission**
 
-Pub. L. 105–220, title III, subtitle C, Aug. 7, 1998, 112 Stat. 1087, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(15)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, known as the “Twenty-First Century Workforce Commission Act”, which established the Commission to study all matters relating to the information technology workforce in the United States, including skills necessary to enter the information technology workforce, ways to expand the number of skilled information technology workers, and the relative efficacy of programs in the United States and foreign countries to train information technology workers, and to submit a report to the President and Congress of its findings, conclusions, and recommendations for legislative and administrative actions, and provided for powers of the Commission, compensation of members, employment of staff, authorization of appropriations, and termination of the Commission 90 days after submission of its final report, which was released June 27, 2000, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015.
+Pub. L. 105–220, title III, subtitle C, Aug. 7, 1998, 112 Stat. 1087, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(15)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, known as the “Twenty-First Century Workforce Commission Act”, which established the Commission to study all matters relating to the information technology workforce in the United States, including skills necessary to enter the information technology workforce, ways to expand the number of skilled information technology workers, and the relative efficacy of programs in the United States and foreign countries to train information technology workers, and to submit a report to the President and Congress of its findings, conclusions, and recommendations for legislative and administrative actions, and provided for powers of the Commission, compensation of members, employment of staff, authorization of appropriations, and termination of the Commission 90 days after submission of its final report, which was released June 27, 2000, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015.
 
-## § 2702. Purposes
+## § 2702. Purposes
 
 The purposes of this chapter are to—
 
@@ -93,9 +93,9 @@ The purposes of this chapter are to—
 
 **(2)** assist workers and worker organizations in developing the expertise necessary for effective participation with employers in the development of strategies and programs for the successful evaluation, selection, and implementation of advanced workplace technologies and advanced workplace practices through the provision of a range of education, training, and related services.
 
-(Pub. L. 103–382, title V, § 543, Oct. 20, 1994, 108 Stat. 4052.)
+(Pub. L. 103–382, title V, § 543, Oct. 20, 1994, 108 Stat. 4052.)
 
-## § 2703. Definitions
+## § 2703. Definitions
 
 As used in this chapter:
 
@@ -125,9 +125,9 @@ The term “Secretary” means the Secretary of Labor.
 
 The term “worker organization” means a labor organization within the meaning of section 501(c)(5) of title 26.
 
-(Pub. L. 103–382, title V, § 544, Oct. 20, 1994, 108 Stat. 4053.)
+(Pub. L. 103–382, title V, § 544, Oct. 20, 1994, 108 Stat. 4053.)
 
-## § 2704. Grants
+## § 2704. Grants
 
 **(a) In general**
 
@@ -171,9 +171,9 @@ Grants awarded under this section shall be for a term not to exceed six years.
 
 The Department shall develop mechanisms for evaluating the effectiveness of the use of a grant awarded under this section in carrying out the purposes under section 2702 of this title and, not later than two years after October 20, 1994, and every two years thereafter, prepare and submit a report to Congress concerning such evaluation.
 
-(Pub. L. 103–382, title V, § 545, Oct. 20, 1994, 108 Stat. 4053.)
+(Pub. L. 103–382, title V, § 545, Oct. 20, 1994, 108 Stat. 4053.)
 
-## § 2705. Identification and dissemination of best practices
+## § 2705. Identification and dissemination of best practices
 
 **(a) In general**
 
@@ -199,9 +199,9 @@ The Department shall develop mechanisms for evaluating the effectiveness of the 
 
 The information and materials developed under this section shall be distributed through an appropriate entity designated by the Secretary of Commerce to the Regional Centers for the Transfer of Manufacturing Technology, to the Manufacturing Outreach Center, to other technology training entities, and directly to others as determined appropriate by the Secretary of Labor and the Secretary of Commerce.
 
-(Pub. L. 103–382, title V, § 546, Oct. 20, 1994, 108 Stat. 4055.)
+(Pub. L. 103–382, title V, § 546, Oct. 20, 1994, 108 Stat. 4055.)
 
-## § 2706. Authorization of appropriations
+## § 2706. Authorization of appropriations
 
 **(a) In general**
 
@@ -211,4 +211,4 @@ There are authorized to be appropriated to carry out this chapter such sums as m
 
 Amounts appropriated under subsection (a) shall remain available until expended.
 
-(Pub. L. 103–382, title V, § 547, Oct. 20, 1994, 108 Stat. 4055.)
+(Pub. L. 103–382, title V, § 547, Oct. 20, 1994, 108 Stat. 4055.)

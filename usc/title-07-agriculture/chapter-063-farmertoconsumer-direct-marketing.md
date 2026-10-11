@@ -15,25 +15,25 @@ retrieved: 2026-10-11
 
 # CHAPTER 63—FARMER–TO–CONSUMER DIRECT MARKETING
 
-## § 3001. Congressional statement of purpose
+## § 3001. Congressional statement of purpose
 
 It is the purpose of this chapter to promote, through appropriate means and on an economically sustainable basis, the development and expansion of direct marketing of agricultural commodities from farmers to consumers. To accomplish this objective, the Secretary of Agriculture (hereinafter referred to as the “Secretary”) shall initiate and coordinate a program designed to facilitate direct marketing from farmers to consumers for the mutual benefit of consumers and farmers.
 
-(Pub. L. 94–463, § 2, Oct. 8, 1976, 90 Stat. 1982.)
+(Pub. L. 94–463, § 2, Oct. 8, 1976, 90 Stat. 1982.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 94–463, § 1, Oct. 8, 1976, 90 Stat. 1982, provided: “That this Act [enacting this chapter and provisions set out as a note under section 5145 of Title 42, The Public Health and Welfare] may be cited as the ‘Farmer-to-Consumer Direct Marketing Act of 1976’.”
+Pub. L. 94–463, § 1, Oct. 8, 1976, 90 Stat. 1982, provided: “That this Act [enacting this chapter and provisions set out as a note under section 5145 of Title 42, The Public Health and Welfare] may be cited as the ‘Farmer-to-Consumer Direct Marketing Act of 1976’.”
 
-## § 3002. Definitions
+## § 3002. Definitions
 
 For purposes of this chapter, the term “direct marketing from farmers to consumers” shall mean the marketing of agricultural commodities at any marketplace (including, but not limited to, roadside stands, city markets, and vehicles used for house-to-house marketing of agricultural commodities) established and maintained for the purpose of enabling farmers to sell (either individually or through a farmers’ organization directly representing the farmers who produced the commodities being sold) their agricultural commodities directly to individual consumers, or organizations representing consumers, in a manner calculated to lower the cost and increase the quality of food to such consumers while providing increased financial returns to the farmers.
 
-(Pub. L. 94–463, § 3, Oct. 8, 1976, 90 Stat. 1982.)
+(Pub. L. 94–463, § 3, Oct. 8, 1976, 90 Stat. 1982.)
 
-## § 3003. Survey
+## § 3003. Survey
 
 **(a) In general**
 
@@ -43,7 +43,7 @@ The Secretary shall provide, through the Economic Research Service of the United
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 94–463, § 4, Oct. 8, 1976, 90 Stat. 1982; Pub. L. 107–171, title X, § 10605(b)(1), May 13, 2002, 116 Stat. 513; Pub. L. 115–334, title X, § 10102(c)(5)(A), Dec. 20, 2018, 132 Stat. 4898.)
+(Pub. L. 94–463, § 4, Oct. 8, 1976, 90 Stat. 1982; Pub. L. 107–171, title X, § 10605(b)(1), May 13, 2002, 116 Stat. 513; Pub. L. 115–334, title X, § 10102(c)(5)(A), Dec. 20, 2018, 132 Stat. 4898.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 2002—Pub. L. 107–171 substituted “an annual survey” for “a continuing survey” and struck out at end “The initial survey, which shall be completed no later than one year following October 8, 1976, shall include the number of types of such marketing methods in existence, the volume of business conducted through each such marketing method, and the impact of such marketing methods upon financial returns to farmers (including their impact upon improving the economic viability of small farmers) and food quality and costs to consumers.”
 
-## § 3004. Direct marketing assistance within the States
+## § 3004. Direct marketing assistance within the States
 
 **(a) In general** In order to promote the establishment and operation of direct marketing from farmers to consumers, the Secretary shall provide that funds appropriated to carry out this section be utilized by State departments of agriculture and the Secretary for the purpose of conducting or facilitating activities which will initiate, encourage, develop, or coordinate methods of direct marketing from farmers to consumers within or among the States. Such funds shall be allocated to a State on the basis of the feasibility of direct marketing from farmers to consumers within that State as compared to other States and shall be allocated within a State to the State department of agriculture and to the Secretary on the basis of the types of activities which are needed in the State, as determined by the Secretary. The activities shall include, but shall not be limited to—
 
@@ -77,25 +77,25 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 In the implementation of this section, the Secretary shall take into account consumer preferences and needs which may bear upon the establishment and operation of arrangements for direct marketing from farmers to consumers.
 
-(Pub. L. 94–463, § 5, Oct. 8, 1976, 90 Stat. 1982; Pub. L. 107–171, title X, § 10605(b)(2), May 13, 2002, 116 Stat. 513.)
+(Pub. L. 94–463, § 5, Oct. 8, 1976, 90 Stat. 1982; Pub. L. 107–171, title X, § 10605(b)(2), May 13, 2002, 116 Stat. 513.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–171, § 10605(b)(2)(A), substituted “Secretary for the purpose” for “Extension Service of the United States Department of Agriculture for the purpose”, “Secretary on the basis” for “Extension Service on the basis”, and “, as determined by the Secretary” for “and on the basis of which of these two agencies, or combination thereof, can best perform these activities”.
+2002—Subsec. (a). Pub. L. 107–171, § 10605(b)(2)(A), substituted “Secretary for the purpose” for “Extension Service of the United States Department of Agriculture for the purpose”, “Secretary on the basis” for “Extension Service on the basis”, and “, as determined by the Secretary” for “and on the basis of which of these two agencies, or combination thereof, can best perform these activities”.
 
-Subsecs. (b), (c). Pub. L. 107–171, § 10605(b)(2)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 107–171, § 10605(b)(2)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-## §§ 3005, 3006. Repealed. Pub. L. 115–334, title X, § 10102(c)(5)(B), Dec. 20, 2018, 132 Stat. 4898
+## §§ 3005, 3006. Repealed. Pub. L. 115–334, title X, § 10102(c)(5)(B), Dec. 20, 2018, 132 Stat. 4898
 
-Section 3005, Pub. L. 94–463, § 6, as added Pub. L. 107–171, title X, § 10605(a), May 13, 2002, 116 Stat. 513; amended Pub. L. 110–234, title X, § 10106, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, § 4(a), title X, § 10106, June 18, 2008, 122 Stat. 1664, 2098; Pub. L. 112–240, title VII, § 701(g)(1), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title X, § 10003, Feb. 7, 2014, 128 Stat. 940, established the Farmers’ Market and Local Food Promotion Program.
+Section 3005, Pub. L. 94–463, § 6, as added Pub. L. 107–171, title X, § 10605(a), May 13, 2002, 116 Stat. 513; amended Pub. L. 110–234, title X, § 10106, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, § 4(a), title X, § 10106, June 18, 2008, 122 Stat. 1664, 2098; Pub. L. 112–240, title VII, § 701(g)(1), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title X, § 10003, Feb. 7, 2014, 128 Stat. 940, established the Farmers’ Market and Local Food Promotion Program.
 
-A prior section 3005, Pub. L. 94–463, § 6, Oct. 8, 1976, 90 Stat. 1983; Pub. L. 103–437, § 4(a)(8), Nov. 2, 1994, 108 Stat. 4582, related to review of activities by Secretary and annual report to Congress, prior to repeal by Pub. L. 105–362, title I, § 101(d)(1), Nov. 10, 1998, 112 Stat. 3281.
+A prior section 3005, Pub. L. 94–463, § 6, Oct. 8, 1976, 90 Stat. 1983; Pub. L. 103–437, § 4(a)(8), Nov. 2, 1994, 108 Stat. 4582, related to review of activities by Secretary and annual report to Congress, prior to repeal by Pub. L. 105–362, title I, § 101(d)(1), Nov. 10, 1998, 112 Stat. 3281.
 
-Section 3006, Pub. L. 94–463, § 7, Oct. 8, 1976, 90 Stat. 1983; Pub. L. 105–362, title I, § 101(d)(2), Nov. 10, 1998, 112 Stat. 3281, related to authorization of appropriations.
+Section 3006, Pub. L. 94–463, § 7, Oct. 8, 1976, 90 Stat. 1983; Pub. L. 105–362, title I, § 101(d)(2), Nov. 10, 1998, 112 Stat. 3281, related to authorization of appropriations.
 
-## § 3007. Seniors farmers’ market nutrition program
+## § 3007. Seniors farmers’ market nutrition program
 
 **(a) Funding**
 
@@ -125,7 +125,7 @@ The Secretary may promulgate such regulations as the Secretary considers to be n
 
 Section 1693*o*–2 of title 15 shall not apply to electronic benefit transfer systems established under this section.
 
-(Pub. L. 107–171, title IV, § 4402, May 13, 2002, 116 Stat. 334; Pub. L. 110–234, title IV, §§ 4231, 4406(c)(1), May 22, 2008, 122 Stat. 1124, 1142; Pub. L. 110–246, § 4(a), title IV, §§ 4231, 4406(c)(1), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 111–203, title X, § 1075(c), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, § 4203(a), Feb. 7, 2014, 128 Stat. 822; Pub. L. 115–334, title IV, § 4201, Dec. 20, 2018, 132 Stat. 4655.)
+(Pub. L. 107–171, title IV, § 4402, May 13, 2002, 116 Stat. 334; Pub. L. 110–234, title IV, §§ 4231, 4406(c)(1), May 22, 2008, 122 Stat. 1124, 1142; Pub. L. 110–246, § 4(a), title IV, §§ 4231, 4406(c)(1), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 111–203, title X, § 1075(c), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, § 4203(a), Feb. 7, 2014, 128 Stat. 822; Pub. L. 115–334, title IV, § 4201, Dec. 20, 2018, 132 Stat. 4655.)
 
 **Editorial Notes**
 
@@ -143,19 +143,19 @@ Section was enacted as part of the Food Stamp Reauthorization Act of 2002 and al
 
 2010—Subsec. (f). Pub. L. 111–203 added subsec. (f).
 
-2008—Subsec. (a). Pub. L. 110–246, § 4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, of the funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers’ market nutrition program.”
+2008—Subsec. (a). Pub. L. 110–246, § 4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, of the funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers’ market nutrition program.”
 
-Subsec. (b)(1). Pub. L. 110–246, § 4231(1), inserted “honey,” after “vegetables,”.
+Subsec. (b)(1). Pub. L. 110–246, § 4231(1), inserted “honey,” after “vegetables,”.
 
-Subsec. (c). Pub. L. 110–246, § 4231(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary may issue such regulations as the Secretary considers necessary to carry out the seniors farmers’ market nutrition program.”
+Subsec. (c). Pub. L. 110–246, § 4231(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary may issue such regulations as the Secretary considers necessary to carry out the seniors farmers’ market nutrition program.”
 
-Subsecs. (d), (e). Pub. L. 110–246, § 4231(3), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 110–246, § 4231(3), added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–79, title IV, § 4203(b), Feb. 7, 2014, 128 Stat. 822, provided that: “The amendment made by subsection (a) [amending this section] takes effect on October 1, 2013.”
+Pub. L. 113–79, title IV, § 4203(b), Feb. 7, 2014, 128 Stat. 822, provided that: “The amendment made by subsection (a) [amending this section] takes effect on October 1, 2013.”
 
 **Effective Date of 2010 Amendment**
 

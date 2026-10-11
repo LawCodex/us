@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 98—NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
 
-## § 9801. Definitions
+## § 9801. Definitions
 
 For purposes of this chapter—
 
@@ -45,7 +45,7 @@ For purposes of this chapter—
 
 **(9)** the term “management official” has the meaning given such term by section 7103(a)(11).
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 461.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 461.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -57,7 +57,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-## § 9802. Planning, notification, and reporting requirements
+## § 9802. Planning, notification, and reporting requirements
 
 **(a)** Not later than 90 days before exercising any of the workforce authorities made available under this chapter, the Administrator shall submit a written plan to the appropriate committees of Congress. Such plan shall be approved by the Office of Personnel Management.
 
@@ -135,7 +135,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **(i)** The budget request for the Administration for the first fiscal year beginning after the date of enactment of this chapter and for each fiscal year thereafter shall include a statement of the total amount of appropriations requested for such fiscal year to carry out this chapter.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 462.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 462.)
 
 **Editorial Notes**
 
@@ -143,7 +143,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 The date of enactment of this chapter, referred to in subsecs. (h) and (i), is the date of enactment of Pub. L. 108–201, which was approved Feb. 24, 2004.
 
-## § 9803. Restrictions
+## § 9803. Restrictions
 
 **(a)** None of the workforce authorities made available under this chapter may be exercised with respect to any officer who is appointed by the President, by and with the advice and consent of the Senate.
 
@@ -159,9 +159,9 @@ The date of enactment of this chapter, referred to in subsecs. (h) and (i), is t
 
 **(B)** a position in the Senior Executive Service as a noncareer appointee (as such term is defined in section 3132(a)).
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 464.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 464.)
 
-## § 9804. Recruitment, redesignation, and relocation bonuses
+## § 9804. Recruitment, redesignation, and relocation bonuses
 
 **(a)** Notwithstanding section 5753, the Administrator may pay a bonus to an individual, in accordance with the workforce plan and subject to the limitations in this section, if—
 
@@ -207,9 +207,9 @@ The date of enactment of this chapter, referred to in subsecs. (h) and (i), is t
 
 **(f)** No more than 25 percent of the total amount in bonuses awarded under subsection (a) in any year may be awarded to supervisors or management officials.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 464.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 464.)
 
-## § 9805. Retention bonuses
+## § 9805. Retention bonuses
 
 **(a)** Notwithstanding section 5754, the Administrator may pay a bonus to an employee, in accordance with the workforce plan and subject to the limitations in this section, if the Administrator determines that—
 
@@ -247,9 +247,9 @@ The date of enactment of this chapter, referred to in subsecs. (h) and (i), is t
 
 **(g)** No more than 25 percent of the total amount in bonuses awarded under subsection (a) in any year may be awarded to supervisors or management officials.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 465.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 465.)
 
-## § 9806. Term appointments
+## § 9806. Term appointments
 
 **(a)** The Administrator may authorize term appointments within the Administration under subchapter I of chapter 33, for a period of not less than 1 year and not more than 6 years.
 
@@ -271,9 +271,9 @@ The date of enactment of this chapter, referred to in subsecs. (h) and (i), is t
 
 **(e)** An employee converted to career or career-conditional employment under this section acquires competitive status upon conversion.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 466.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 466.)
 
-## § 9807. Pay authority for critical positions
+## § 9807. Pay authority for critical positions
 
 **(a)** In this section, the term “position” means—
 
@@ -311,15 +311,15 @@ The date of enactment of this chapter, referred to in subsecs. (h) and (i), is t
 
 **(3)** Notwithstanding any provision of section 5307, in the case of an employee who, during any calendar year, is receiving pay at a rate fixed under this section, no allowance, differential, bonus, award, or similar cash payment may be paid to such employee if, or to the extent that, when added to basic pay paid or payable to such employee (for service performed in such calendar year as an employee in the executive branch or as an employee outside the executive branch to whom chapter 51 applies), such payment would cause the total to exceed the per annum rate of salary which, as of the end of such calendar year, is payable under section 104 of title 3.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 467.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 467.)
 
-## § 9808. Assignments of intergovernmental personnel
+## § 9808. Assignments of intergovernmental personnel
 
 For purposes of applying the third sentence of section 3372(a) (relating to the authority of the head of a Federal agency to extend the period of an employee’s assignment to or from a State or local government, institution of higher education, or other organization), the Administrator may, with the concurrence of the employee and the government or organization concerned, take any action which would be allowable if such sentence had been amended by striking “two” and inserting “four”.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 468.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 468.)
 
-## § 9809. Science and technology scholarship program
+## § 9809. Science and technology scholarship program
 
 **(a)**
 
@@ -393,7 +393,7 @@ For purposes of applying the third sentence of section 3372(a) (relating to the 
 
 **(2)** Amounts appropriated under this section shall remain available for 2 fiscal years.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 468; amended Pub. L. 109–155, title VII, § 703(a), Dec. 30, 2005, 119 Stat. 2936.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 468; amended Pub. L. 109–155, title VII, § 703(a), Dec. 30, 2005, 119 Stat. 2936.)
 
 **Editorial Notes**
 
@@ -403,15 +403,15 @@ Sections 101(a) and 472 of the Higher Education Act of 1965, referred to in subs
 
 **Amendments**
 
-2005—Subsec. (a)(2). Pub. L. 109–155, § 703(a)(1), substituted “Act (42 U.S.C. 1885a or 1885b).” for “Act.”
+2005—Subsec. (a)(2). Pub. L. 109–155, § 703(a)(1), substituted “Act (42 U.S.C. 1885a or 1885b).” for “Act.”
 
-Subsec. (c). Pub. L. 109–155, § 703(a)(2), substituted “require to carry out this section.” for “require.”
+Subsec. (c). Pub. L. 109–155, § 703(a)(2), substituted “require to carry out this section.” for “require.”
 
-Subsec. (f)(1). Pub. L. 109–155, § 703(a)(3), struck out at end “Under no circumstances shall the total period of obligated service be more than 4 years.”
+Subsec. (f)(1). Pub. L. 109–155, § 703(a)(3), struck out at end “Under no circumstances shall the total period of obligated service be more than 4 years.”
 
-Subsec. (g)(2). Pub. L. 109–155, § 703(a)(4), substituted a period for a comma at end of subpar. (B) and struck out concluding provisions which read: “multiplied by 3.”
+Subsec. (g)(2). Pub. L. 109–155, § 703(a)(4), substituted a period for a comma at end of subpar. (B) and struck out concluding provisions which read: “multiplied by 3.”
 
-## § 9810. Distinguished scholar appointment authority
+## § 9810. Distinguished scholar appointment authority
 
 **(a)** In this section—
 
@@ -453,7 +453,7 @@ Subsec. (g)(2). Pub. L. 109–155, § 703(a)(4), substituted a period for a co
 
 **(d)** An appointment made under this authority shall be a career-conditional appointment in the competitive civil service.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 470; amended Pub. L. 118–188, § 2(a)(2)(A)(ii), Dec. 23, 2024, 138 Stat. 2645.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 470; amended Pub. L. 118–188, § 2(a)(2)(A)(ii), Dec. 23, 2024, 138 Stat. 2645.)
 
 **Editorial Notes**
 
@@ -465,7 +465,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 2024—Subsec. (b). Pub. L. 118–188 substituted “3304(h)” for “3304(b)” in introductory provisions.
 
-## § 9811. Travel and transportation expenses of certain new appointees
+## § 9811. Travel and transportation expenses of certain new appointees
 
 **(a)** In this section, the term “new appointee” means—
 
@@ -489,7 +489,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 **(b)** The Administrator may pay the travel, transportation, and relocation expenses of a new appointee to the same extent, in the same manner, and subject to the same conditions as the payment of such expenses under sections 5724, 5724a, 5724b, and 5724c to an employee transferred in the interests of the United States Government.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 472; amended Pub. L. 111–314, § 4(a), Dec. 18, 2010, 124 Stat. 3440.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 472; amended Pub. L. 111–314, § 4(a), Dec. 18, 2010, 124 Stat. 3440.)
 
 **Editorial Notes**
 
@@ -497,7 +497,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 2010—Subsec. (a)(1)(E). Pub. L. 111–314 substituted “section 20113(b)(1) of title 51” for “section 203(c)(2)(A) of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2473(c)(2)(A))”.
 
-## § 9812. Annual leave enhancements
+## § 9812. Annual leave enhancements
 
 **(a)** In this section—
 
@@ -537,7 +537,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 **(2)** The accrual rate established under this subsection shall continue to apply to the employee so long as such employee serves in or under the Administration.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 472.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 472.)
 
 **Editorial Notes**
 
@@ -545,7 +545,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 GS–15, referred to in subsec. (c)(1), is contained in the General Schedule, which is set out under section 5332 of this title.
 
-## § 9813. Limited appointments to Senior Executive Service positions
+## § 9813. Limited appointments to Senior Executive Service positions
 
 **(a)** In this section—
 
@@ -591,9 +591,9 @@ GS–15, referred to in subsec. (c)(1), is contained in the General Schedule, wh
 
 **(g)** Notwithstanding section 5384, the Administrator may authorize performance awards to limited term appointees in the Administration in the same amounts and in the same manner as career appointees.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 473.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 473.)
 
-## § 9814. Qualifications pay
+## § 9814. Qualifications pay
 
 **(a)** Notwithstanding section 5334, the Administrator may set the pay of an employee paid under the General Schedule at any step within the pay range for the grade of the position, if such employee—
 
@@ -623,7 +623,7 @@ GS–15, referred to in subsec. (c)(1), is contained in the General Schedule, wh
 
 **(5)** a process to evaluate the effectiveness of this section.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 474.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 474.)
 
 **Editorial Notes**
 
@@ -631,7 +631,7 @@ GS–15, referred to in subsec. (c)(1), is contained in the General Schedule, wh
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of this title.
 
-## § 9815. Reporting requirement
+## § 9815. Reporting requirement
 
 The Administrator shall submit to the appropriate committees of Congress, not later than February 28 of each of the next 6 years beginning after the date of enactment of this chapter, a report that provides the following:
 
@@ -657,7 +657,7 @@ The Administrator shall submit to the appropriate committees of Congress, not la
 
 **(11)** A summary of all recruitment, relocation, redesignation, and retention bonuses paid under authorities other than this chapter and excluding the authorities provided in sections 5753 and 5754 of this title, during the preceding fiscal year. Such summary shall include, for each type of bonus, the total amount of bonuses paid, the total number of bonuses paid, the percentage of the amount of bonuses awarded to supervisors and management officials, and the average percentage used to calculate the total average bonus amount.
 
-(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 475.)
+(Added Pub. L. 108–201, § 3(a), Feb. 24, 2004, 118 Stat. 475.)
 
 **Editorial Notes**
 

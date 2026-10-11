@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1997—Pub. L. 105–34, title IX, § 933(b), Aug. 5, 1997, 111 Stat. 882, added item for part I.
+1997—Pub. L. 105–34, title IX, § 933(b), Aug. 5, 1997, 111 Stat. 882, added item for part I.
 
-1986—Pub. L. 99–514, title I, § 141(c), Oct. 22, 1986, 100 Stat. 2117, struck out item for part I “Income averaging”.
+1986—Pub. L. 99–514, title I, § 141(c), Oct. 22, 1986, 100 Stat. 2117, struck out item for part I “Income averaging”.
 
-1981—Pub. L. 97–34, title I, § 101(c)(2)(C), Aug. 13, 1981, 95 Stat. 183, struck out item for part VI “Maximum rate on personal service income”.
+1981—Pub. L. 97–34, title I, § 101(c)(2)(C), Aug. 13, 1981, 95 Stat. 183, struck out item for part VI “Maximum rate on personal service income”.
 
-1976—Pub. L. 94–455, title XIX, §§ 1901(b)(36)(E), (37)(F), 1951(c)(3)(D), Oct. 4, 1976, 90 Stat. 1802, 1803, 1841, struck out items for parts III and IV “Involuntary liquidation and replacement of LIFO inventories” and “War loss recoveries”, respectively, and substituted in item for part VI “Maximum rate on personal service income” for “Other limitations”.
+1976—Pub. L. 94–455, title XIX, §§ 1901(b)(36)(E), (37)(F), 1951(c)(3)(D), Oct. 4, 1976, 90 Stat. 1802, 1803, 1841, struck out items for parts III and IV “Involuntary liquidation and replacement of LIFO inventories” and “War loss recoveries”, respectively, and substituted in item for part VI “Maximum rate on personal service income” for “Other limitations”.
 
-1966—Pub. L. 89–384, § 1(g)(1), Apr. 8, 1966, 80 Stat. 104, added item for part VII.
+1966—Pub. L. 89–384, § 1(g)(1), Apr. 8, 1966, 80 Stat. 104, added item for part VII.
 
-1964—Pub. L. 88–272, title II, § 232(f)(3), Feb. 26, 1964, 78 Stat. 112, substituted “averaging” for “attributable to several taxable years” in item for part I.
+1964—Pub. L. 88–272, title II, § 232(f)(3), Feb. 26, 1964, 78 Stat. 112, substituted “averaging” for “attributable to several taxable years” in item for part I.
 
 ## PART I—INCOME AVERAGING
 
@@ -37,9 +37,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior part I consisted of sections 1301 to 1305, prior to repeal by Pub. L. 99–514, title I, § 141(a), Oct. 22, 1986, 100 Stat. 2117.
+A prior part I consisted of sections 1301 to 1305, prior to repeal by Pub. L. 99–514, title I, § 141(a), Oct. 22, 1986, 100 Stat. 2117.
 
-### § 1301. Averaging of farm income
+### § 1301. Averaging of farm income
 
 **(a) In general** At the election of an individual engaged in a farming business or fishing business, the tax imposed by section 1 for such taxable year shall be equal to the sum of—
 
@@ -81,43 +81,43 @@ The term “fishing business” means the conduct of commercial fishing as defin
 
 **(2)** the treatment of any short taxable year.
 
-(Added Pub. L. 105–34, title IX, § 933(a), Aug. 5, 1997, 111 Stat. 881; amended Pub. L. 108–357, title III, § 314(b), Oct. 22, 2004, 118 Stat. 1468.)
+(Added Pub. L. 105–34, title IX, § 933(a), Aug. 5, 1997, 111 Stat. 881; amended Pub. L. 108–357, title III, § 314(b), Oct. 22, 2004, 118 Stat. 1468.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1301, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 106; amended Pub. L. 91–172, title III, § 311(a), Dec. 30, 1969, 83 Stat. 586; Pub. L. 98–369, div. A, title I, § 173(b), (c)(1), July 18, 1984, 98 Stat. 704, placed a limit on the tax attributable to averagable income, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
+A prior section 1301, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 106; amended Pub. L. 91–172, title III, § 311(a), Dec. 30, 1969, 83 Stat. 586; Pub. L. 98–369, div. A, title I, § 173(b), (c)(1), July 18, 1984, 98 Stat. 704, placed a limit on the tax attributable to averagable income, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
 
 Another prior section 1301, act Aug. 16, 1954, ch. 736, 68A Stat. 334, related to compensation from an employment, defined “an employment”, and stated the rule with respect to partners, prior to the general revision of this part by Pub. L. 88–272.
 
-A prior section 1302, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 106; amended Pub. L. 91–172, title III, § 311(b), Dec. 30, 1969, 83 Stat. 586; Pub. L. 94–455, title VII, § 701(f)(1), Oct. 4, 1976, 90 Stat. 1580; Pub. L. 95–30, title I, § 102(b)(15), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title I, § 101(d)(2), Nov. 6, 1978, 92 Stat. 2770; Pub. L. 95–615, § 202(g)(5), formerly § 202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered Pub. L. 96–222, title I, § 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, § 111(b)(3), Aug. 13, 1981, 95 Stat. 194; Pub. L. 97–248, title II, § 265(b)(2)(B), Sept. 3, 1982, 96 Stat. 547; Pub. L. 98–369, div. A, title I, § 173(a), (c)(2)–(4), July 18, 1984, 98 Stat. 703, 704, defined “averagable income” and other terms related to income averaging, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
+A prior section 1302, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 106; amended Pub. L. 91–172, title III, § 311(b), Dec. 30, 1969, 83 Stat. 586; Pub. L. 94–455, title VII, § 701(f)(1), Oct. 4, 1976, 90 Stat. 1580; Pub. L. 95–30, title I, § 102(b)(15), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title I, § 101(d)(2), Nov. 6, 1978, 92 Stat. 2770; Pub. L. 95–615, § 202(g)(5), formerly § 202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered Pub. L. 96–222, title I, § 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, § 111(b)(3), Aug. 13, 1981, 95 Stat. 194; Pub. L. 97–248, title II, § 265(b)(2)(B), Sept. 3, 1982, 96 Stat. 547; Pub. L. 98–369, div. A, title I, § 173(a), (c)(2)–(4), July 18, 1984, 98 Stat. 703, 704, defined “averagable income” and other terms related to income averaging, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
 
 Another prior section 1302, act Aug. 16, 1964, ch. 736, 68A Stat. 335, related to income from an invention or artistic work, prior to the general revision of this part by Pub. L. 88–272.
 
-A prior section 1303, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 107; amended Pub. L. 91–172, title III, § 311(d)(1), Dec. 30, 1969, 83 Stat. 587; Pub. L. 94–455, title XIX, § 1901(b)(8)(G), Oct. 4, 1976, 90 Stat. 1795; Pub. L. 97–34, title I, § 111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 99–272, title XIII, § 13206(a), (b), Apr. 7, 1986, 100 Stat. 318, 319, related to individuals eligible for income averaging, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
+A prior section 1303, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 107; amended Pub. L. 91–172, title III, § 311(d)(1), Dec. 30, 1969, 83 Stat. 587; Pub. L. 94–455, title XIX, § 1901(b)(8)(G), Oct. 4, 1976, 90 Stat. 1795; Pub. L. 97–34, title I, § 111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 99–272, title XIII, § 13206(a), (b), Apr. 7, 1986, 100 Stat. 318, 319, related to individuals eligible for income averaging, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
 
-Another prior section 1303, acts Aug. 16, 1954, ch. 736, 68A Stat. 335, Sept. 22, 1961, Pub. L. 87–293, title II, § 201(b), 75 Stat. 625, related to income from back pay, prior to the general revision of this part by Pub. L. 88–272.
+Another prior section 1303, acts Aug. 16, 1954, ch. 736, 68A Stat. 335, Sept. 22, 1961, Pub. L. 87–293, title II, § 201(b), 75 Stat. 625, related to income from back pay, prior to the general revision of this part by Pub. L. 88–272.
 
-A prior section 1304, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 108; amended Pub. L. 91–172, title III, § 311(c), (d)(2), title V, § 515(c)(4), title VIII, §§ 802(c)(5), 803(d)(8), Dec. 30, 1969, 83 Stat. 587, 646, 678, 684; Pub. L. 93–406, title II, § 2005(c)(6), Sept. 2, 1974, 88 Stat. 991; Pub. L. 94–455, title III, § 302(c), title V, § 501(b)(7), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1555, 1559, 1834; Pub. L. 95–600, title IV, § 401(b)(5), Nov. 6, 1978, 92 Stat. 2867; Pub. L. 95–615, § 202(g)(5), formerly § 202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered Pub. L. 96–222, title I, § 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §§ 101(c)(2)(B), 111(b)(3), (4), Aug. 13, 1981, 95 Stat. 183, 194; Pub. L. 97–248, title II, § 265(b)(2)(C), Sept. 3, 1982, 96 Stat. 547, set out special rules for income averaging, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
+A prior section 1304, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 108; amended Pub. L. 91–172, title III, § 311(c), (d)(2), title V, § 515(c)(4), title VIII, §§ 802(c)(5), 803(d)(8), Dec. 30, 1969, 83 Stat. 587, 646, 678, 684; Pub. L. 93–406, title II, § 2005(c)(6), Sept. 2, 1974, 88 Stat. 991; Pub. L. 94–455, title III, § 302(c), title V, § 501(b)(7), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1555, 1559, 1834; Pub. L. 95–600, title IV, § 401(b)(5), Nov. 6, 1978, 92 Stat. 2867; Pub. L. 95–615, § 202(g)(5), formerly § 202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered Pub. L. 96–222, title I, § 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §§ 101(c)(2)(B), 111(b)(3), (4), Aug. 13, 1981, 95 Stat. 183, 194; Pub. L. 97–248, title II, § 265(b)(2)(C), Sept. 3, 1982, 96 Stat. 547, set out special rules for income averaging, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
 
-Another prior section 1304, act Aug. 11, 1955, ch. 804, § 1(a), 69 Stat. 688, related to compensatory damages for patent infringement, prior to the general revision of this part by Pub. L. 88–272.
+Another prior section 1304, act Aug. 11, 1955, ch. 804, § 1(a), 69 Stat. 688, related to compensatory damages for patent infringement, prior to the general revision of this part by Pub. L. 88–272.
 
-A prior section 1305, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 110; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for promulgation of regulations for income averaging, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
+A prior section 1305, added Pub. L. 88–272, title II, § 232(a), Feb. 26, 1964, 78 Stat. 110; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for promulgation of regulations for income averaging, prior to repeal by Pub. L. 99–514, title I, §§ 141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
 
-Another prior section 1305, act Aug. 26, 1957, Pub. L. 85–165, § 1, 71 Stat. 413, related to damages for breach of contract or fiduciary duty, prior to the general revision of this part by Pub. L. 88–272.
+Another prior section 1305, act Aug. 26, 1957, Pub. L. 85–165, § 1, 71 Stat. 413, related to damages for breach of contract or fiduciary duty, prior to the general revision of this part by Pub. L. 88–272.
 
-A prior section 1306, Pub. L. 85–866, title I, § 58(a), Sept. 2, 1958, 72 Stat. 1646, related to damages received for injuries under the antitrust laws, prior to the general revision of this part by Pub. L. 88–272.
+A prior section 1306, Pub. L. 85–866, title I, § 58(a), Sept. 2, 1958, 72 Stat. 1646, related to damages received for injuries under the antitrust laws, prior to the general revision of this part by Pub. L. 88–272.
 
-A prior section 1307, act Aug. 16, 1954, ch. 736, 68A Stat. 336, § 1307, formerly § 1304; renumbered § 1305, Aug. 11, 1955, ch. 804, § 1(a), 69 Stat. 688; renumbered § 1306, Aug. 26, 1957, Pub. L. 85–165, § 1, 71 Stat. 413; renumbered § 1307, Sept. 2, 1958, Pub. L. 85–866, title I, § 58(a), 72 Stat. 1646; amended Oct. 16, 1962, Pub. L. 87–834, § 22(a), 76 Stat. 1064, provided rules applicable to this part, prior to the general revision of this part by Pub. L. 88–272.
+A prior section 1307, act Aug. 16, 1954, ch. 736, 68A Stat. 336, § 1307, formerly § 1304; renumbered § 1305, Aug. 11, 1955, ch. 804, § 1(a), 69 Stat. 688; renumbered § 1306, Aug. 26, 1957, Pub. L. 85–165, § 1, 71 Stat. 413; renumbered § 1307, Sept. 2, 1958, Pub. L. 85–866, title I, § 58(a), 72 Stat. 1646; amended Oct. 16, 1962, Pub. L. 87–834, § 22(a), 76 Stat. 1064, provided rules applicable to this part, prior to the general revision of this part by Pub. L. 88–272.
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–357, § 314(b)(1), substituted “farming business or fishing business” for “farming business” in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–357, § 314(b)(1), substituted “farming business or fishing business” for “farming business” in introductory provisions.
 
-Subsec. (b)(1)(A)(i), (B). Pub. L. 108–357, § 314(b)(2), inserted “or fishing business” after “farming business” wherever appearing.
+Subsec. (b)(1)(A)(i), (B). Pub. L. 108–357, § 314(b)(2), inserted “or fishing business” after “farming business” wherever appearing.
 
-Subsec. (b)(4). Pub. L. 108–357, § 314(b)(3), added par. (4).
+Subsec. (b)(4). Pub. L. 108–357, § 314(b)(3), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -127,7 +127,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 **Effective Date**
 
-Pub. L. 105–34, title IX, § 933(c), Aug. 5, 1997, 111 Stat. 882, as amended by Pub. L. 105–277, div. J, title II, § 2011, Oct. 21, 1998, 112 Stat. 2681–902, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, § 933(c), Aug. 5, 1997, 111 Stat. 882, as amended by Pub. L. 105–277, div. J, title II, § 2011, Oct. 21, 1998, 112 Stat. 2681–902, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 1997.”
 
 ## PART II—MITIGATION OF EFFECT OF LIMITATIONS AND OTHER PROVISIONS
 
@@ -135,9 +135,9 @@ Pub. L. 105–34, title IX, § 933(c), Aug. 5, 1997, 111 Stat. 882, as amended
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(35), Oct. 4, 1976, 90 Stat. 1802, struck out item 1315 “Effective date”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(35), Oct. 4, 1976, 90 Stat. 1802, struck out item 1315 “Effective date”.
 
-### § 1311. Correction of error
+### § 1311. Correction of error
 
 **(a) General rule**
 
@@ -167,15 +167,15 @@ In the case of a determination described in section 1312(4) (relating to disallo
 
 In case the amount of the adjustment would be assessed and collected in the same manner as a deficiency (except for cases described in section 1312(3)(B)), the adjustment shall not be made with respect to a related taxpayer unless he stands in such relationship to the taxpayer at the time the latter first maintains the inconsistent position in a return, claim for refund, or petition (or amended petition) to the Tax Court for the taxable year with respect to which the determination is made, or if such position is not so maintained, then at the time of the determination.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 337; Pub. L. 94–455, title XIX, §§ 1901(a)(142), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 337; Pub. L. 94–455, title XIX, §§ 1901(a)(142), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §§ 1901(a)(142), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and “of the United States” after “Tax Court” wherever appearing.
+1976—Subsec. (b)(2). Pub. L. 94–455, §§ 1901(a)(142), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and “of the United States” after “Tax Court” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 94–455, § 1901(a)(142), struck out “of the United States” after “Tax Court”.
+Subsec. (b)(3). Pub. L. 94–455, § 1901(a)(142), struck out “of the United States” after “Tax Court”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -183,7 +183,7 @@ Subsec. (b)(3). Pub. L. 94–455, § 1901(a)(142), struck out “of the United
 
 Amendment by section 1901(a)(142) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-### § 1312. Circumstances of adjustment
+### § 1312. Circumstances of adjustment
 
 The circumstances under which the adjustment provided in section 1311 is authorized are as follows:
 
@@ -239,7 +239,7 @@ The determination determines the basis of property, and in respect of any transa
 
 **(iii)** there was an erroneous deduction of an item properly chargeable to capital account or an erroneous charge to capital account of an item properly deductible.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 338; Pub. L. 85–866, title I, § 59(a), Sept. 2, 1958, 72 Stat. 1647.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 338; Pub. L. 85–866, title I, § 59(a), Sept. 2, 1958, 72 Stat. 1647.)
 
 **Editorial Notes**
 
@@ -251,9 +251,9 @@ The determination determines the basis of property, and in respect of any transa
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–866, title I, § 59(c), Sept. 2, 1958, 72 Stat. 1647, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1314 of this title] shall apply to determinations (as defined in section 1313(a)) made after November 14, 1954.”
+Pub. L. 85–866, title I, § 59(c), Sept. 2, 1958, 72 Stat. 1647, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1314 of this title] shall apply to determinations (as defined in section 1313(a)) made after November 14, 1954.”
 
-### § 1313. Definitions
+### § 1313. Definitions
 
 **(a) Determination** For purposes of this part, the term “determination” means—
 
@@ -289,7 +289,7 @@ Notwithstanding section 7701(a)(14), the term “taxpayer” means any person su
 
 **(7)** member of an affiliated group of corporations (as defined in section 1504).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 339; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 339; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -297,7 +297,7 @@ Notwithstanding section 7701(a)(14), the term “taxpayer” means any person su
 
 1976—Subsec. (a)(3), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### § 1314. Amount and method of adjustment
+### § 1314. Amount and method of adjustment
 
 **(a) Ascertainment of amount of adjustment** In computing the amount of an adjustment under this part there shall first be ascertained the tax previously determined for the taxable year with respect to which the error was made. The amount of the tax previously determined shall be the excess of—
 
@@ -323,7 +323,7 @@ The amount to be assessed and collected in the same manner as a deficiency, or t
 
 This part shall not apply to any tax imposed by subtitle C (sec. 3101 and following relating to employment taxes).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 340; Pub. L. 85–866, title I, § 59(b), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 89–44, title VIII, § 809(d)(5)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title V, § 512(f)(7), (8), Dec. 30, 1969, 83 Stat. 641, 642; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–295, div. A, title II, § 221(a)(87), Dec. 19, 2014, 128 Stat. 4050.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 340; Pub. L. 85–866, title I, § 59(b), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 89–44, title VIII, § 809(d)(5)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title V, § 512(f)(7), (8), Dec. 30, 1969, 83 Stat. 641, 642; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–295, div. A, title II, § 221(a)(87), Dec. 19, 2014, 128 Stat. 4050.)
 
 **Editorial Notes**
 
@@ -333,9 +333,9 @@ This part shall not apply to any tax imposed by subtitle C (sec. 3101 and follow
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1969—Subsec. (a). Pub. L. 91–172, § 512(f)(7), substituted “capital loss carryback or carryover” for “capital loss carryover”.
+1969—Subsec. (a). Pub. L. 91–172, § 512(f)(7), substituted “capital loss carryback or carryover” for “capital loss carryover”.
 
-Subsec. (b). Pub. L. 91–172, § 512(f)(8), inserted reference to net capital loss.
+Subsec. (b). Pub. L. 91–172, § 512(f)(8), inserted reference to net capital loss.
 
 1965—Subsec. (a)(1)(A). Pub. L. 89–44 struck out “(b)(1) and (3)” and inserted in lieu thereof “(b)(1), (3), and (4)”.
 
@@ -359,7 +359,7 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
 Amendment by Pub. L. 85–866 effective with respect to determinations made after Nov. 14, 1954, see section 59(c) of Pub. L. 85–866, set out as a note under section 1312 of this title.
 
-### [§ 1315. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(143), Oct. 4, 1976, 90 Stat. 1788]
+### [§ 1315. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(143), Oct. 4, 1976, 90 Stat. 1788]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 341, related to effective date of this part.
 
@@ -371,7 +371,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
 ## [PART III—REPEALED]
 
-### [§ 1321. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(144), Oct. 4, 1976, 90 Stat. 1788]
+### [§ 1321. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(144), Oct. 4, 1976, 90 Stat. 1788]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 342, related to involuntary liquidation of LIFO inventories.
 
@@ -383,7 +383,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
 ## [PART IV—REPEALED]
 
-### [§§ 1331 to 1337. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(145)(A), Oct. 4, 1976, 90 Stat. 1788]
+### [§§ 1331 to 1337. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(145)(A), Oct. 4, 1976, 90 Stat. 1788]
 
 Section 1331, act Aug. 16, 1954, ch. 736, 68A Stat. 343, related to war loss recoveries.
 
@@ -403,7 +403,7 @@ Section 1337, act Aug. 16, 1954, ch. 736, 68A Stat. 347, related to applicable r
 
 **Effective Date of Repeal**
 
-Pub. L. 94–455, title XIX, § 1901(a)(145)(B), Oct. 4, 1976, 90 Stat. 1788, provided that: “The repeal by subparagraph (A) [repealing sections 1331 to 1337 of this title] shall apply with respect to war loss recoveries in taxable years beginning after December 31, 1976”.
+Pub. L. 94–455, title XIX, § 1901(a)(145)(B), Oct. 4, 1976, 90 Stat. 1788, provided that: “The repeal by subparagraph (A) [repealing sections 1331 to 1337 of this title] shall apply with respect to war loss recoveries in taxable years beginning after December 31, 1976”.
 
 ## PART V—CLAIM OF RIGHT
 
@@ -411,9 +411,9 @@ Pub. L. 94–455, title XIX, § 1901(a)(145)(B), Oct. 4, 1976, 90 Stat. 1788, 
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(38), Oct. 4, 1976, 90 Stat. 1803, struck out item 1342 “Computation of tax where taxpayer recovers substantial amount held by another under claim of right”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(38), Oct. 4, 1976, 90 Stat. 1803, struck out item 1342 “Computation of tax where taxpayer recovers substantial amount held by another under claim of right”.
 
-### § 1341. Computation of tax where taxpayer restores substantial amount held under claim of right
+### § 1341. Computation of tax where taxpayer restores substantial amount held under claim of right
 
 **(a) General rule** If—
 
@@ -455,7 +455,7 @@ For purposes of paragraph (5)(B), the corresponding provisions of the Internal R
 
 **(B)** a net operating loss or capital loss sustained for the prior taxable year (or years), if paragraph (5)(B) of subsection (a) applied.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 348; Pub. L. 85–866, title I, § 60(a)–(d), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 87–863, § 5(a), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 88–272, title II, § 234(b)(7), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, § 1901(a)(146), Oct. 4, 1976, 90 Stat. 1788.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 348; Pub. L. 85–866, title I, § 60(a)–(d), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 87–863, § 5(a), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 88–272, title II, § 234(b)(7), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, § 1901(a)(146), Oct. 4, 1976, 90 Stat. 1788.)
 
 **Editorial Notes**
 
@@ -463,7 +463,7 @@ For purposes of paragraph (5)(B), the corresponding provisions of the Internal R
 
 Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Chapter 1 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See also section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761, and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, § 122(a), 59 Stat. 568. Section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§ 224(b), 228(b), 56 Stat. 920, 925. Section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, § 229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
+Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761, and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, § 122(a), 59 Stat. 568. Section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§ 224(b), 228(b), 56 Stat. 920, 925. Section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, § 229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
 **Amendments**
 
@@ -473,11 +473,11 @@ Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in s
 
 1962—Subsec. (b)(4), (5). Pub. L. 87–863 added pars. (4) and (5).
 
-1958—Subsec. (a). Pub. L. 85–866, § 60(a), inserted “and subchapter E of chapter 2 of such code” in last sentence.
+1958—Subsec. (a). Pub. L. 85–866, § 60(a), inserted “and subchapter E of chapter 2 of such code” in last sentence.
 
-Subsec. (b)(2). Pub. L. 85–866, § 60(b), (c), in second sentence inserted “with respect to rates” and inserted “, or by an order of a court, or are made in settlement of litigation or under threat or imminence of litigation” and inserted last sentence.
+Subsec. (b)(2). Pub. L. 85–866, § 60(b), (c), in second sentence inserted “with respect to rates” and inserted “, or by an order of a court, or are made in settlement of litigation or under threat or imminence of litigation” and inserted last sentence.
 
-Subsec. (b)(3). Pub. L. 85–866, § 60(d), added par. (3).
+Subsec. (b)(3). Pub. L. 85–866, § 60(d), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -491,17 +491,17 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–863, § 5(b), Oct. 23, 1962, 76 Stat. 1143, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to taxable years beginning on or after January 1, 1962.”
+Pub. L. 87–863, § 5(b), Oct. 23, 1962, 76 Stat. 1143, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to taxable years beginning on or after January 1, 1962.”
 
 **Effective Date of 1958 Amendment**
 
 Amendment by section 60(a), (c), (d) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Pub. L. 85–866, title I, § 60(e), Sept. 2, 1958, 72 Stat. 1647, provided that: “The amendment made by subsection (b) [amending this section] shall apply with respect to taxable years beginning after December 31, 1957. No interest shall be allowed or paid on any overpayment resulting from the application of the amendment made by subsection (c) [amending this section].”
+Pub. L. 85–866, title I, § 60(e), Sept. 2, 1958, 72 Stat. 1647, provided that: “The amendment made by subsection (b) [amending this section] shall apply with respect to taxable years beginning after December 31, 1957. No interest shall be allowed or paid on any overpayment resulting from the application of the amendment made by subsection (c) [amending this section].”
 
-### [§ 1342. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(147), Oct. 4, 1976, 90 Stat. 1788]
+### [§ 1342. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(147), Oct. 4, 1976, 90 Stat. 1788]
 
-Section, added Aug. 12, 1955, ch. 870, § 3, 69 Stat. 717, related to computation of tax where taxpayer recovers substantial amount held by another under claim of right.
+Section, added Aug. 12, 1955, ch. 870, § 3, 69 Stat. 717, related to computation of tax where taxpayer recovers substantial amount held by another under claim of right.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -511,7 +511,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
 ## [PART VI—REPEALED]
 
-### [§ 1346. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(148), Oct. 4, 1976, 90 Stat. 1788]
+### [§ 1346. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(148), Oct. 4, 1976, 90 Stat. 1788]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 349, related to recovery of unconstitutional Federal taxes.
 
@@ -521,19 +521,19 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 349, related to recovery of uncon
 
 Repeal effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-### [§ 1347. Repealed. Pub. L. 94–455, title XIX, § 1951(b)(12)(A), Oct. 4, 1976, 90 Stat. 1840]
+### [§ 1347. Repealed. Pub. L. 94–455, title XIX, § 1951(b)(12)(A), Oct. 4, 1976, 90 Stat. 1840]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 349; Sept. 2, 1958, Pub. L. 85–866, title I, § 61(a), 72 Stat. 1648; Dec. 30, 1969, Pub. L. 91–172, title VIII, § 803(d)(5), 83 Stat. 684, related to claims against the United States involving acquisition of property.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 349; Sept. 2, 1958, Pub. L. 85–866, title I, § 61(a), 72 Stat. 1648; Dec. 30, 1969, Pub. L. 91–172, title VIII, § 803(d)(5), 83 Stat. 684, related to claims against the United States involving acquisition of property.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 94–455, title XIX, § 1951(b)(12)(B), Oct. 4, 1976, 90 Stat. 1840, provided that: “Notwithstanding subparagraph (A) [repealing this section], if amounts received in a taxable year beginning after December 31, 1976, would have been subject to the provisions of section 1347 if received in a taxable year beginning before such date, the tax imposed by section 1 attributable to such receipt shall be computed as if section 1347 had not been repealed.”
+Pub. L. 94–455, title XIX, § 1951(b)(12)(B), Oct. 4, 1976, 90 Stat. 1840, provided that: “Notwithstanding subparagraph (A) [repealing this section], if amounts received in a taxable year beginning after December 31, 1976, would have been subject to the provisions of section 1347 if received in a taxable year beginning before such date, the tax imposed by section 1 attributable to such receipt shall be computed as if section 1347 had not been repealed.”
 
-### [§ 1348. Repealed. Pub. L. 97–34, title I, § 101(c)(1), Aug. 13, 1981, 95 Stat. 183]
+### [§ 1348. Repealed. Pub. L. 97–34, title I, § 101(c)(1), Aug. 13, 1981, 95 Stat. 183]
 
-Section, added Pub. L. 91–172, title VIII, § 804(a), Dec. 30, 1969, 83 Stat. 685; amended Pub. L. 93–406, title II, § 2005(c)(14), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title III, § 302(a), Oct. 4, 1976, 90 Stat. 1554; Pub. L. 95–600, title IV, §§ 441(a), 442(a), title VII, § 701(x)(1), (2), Nov. 6, 1978, 92 Stat. 2878, 2920; Pub. L. 95–600, title IV, § 441(a), as amended Pub. L. 96–222, title I, § 104(a)(5)(B), Apr. 1, 1980, 94 Stat. 218, provided for a 50-percent maximum rate on personal service income.
+Section, added Pub. L. 91–172, title VIII, § 804(a), Dec. 30, 1969, 83 Stat. 685; amended Pub. L. 93–406, title II, § 2005(c)(14), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title III, § 302(a), Oct. 4, 1976, 90 Stat. 1554; Pub. L. 95–600, title IV, §§ 441(a), 442(a), title VII, § 701(x)(1), (2), Nov. 6, 1978, 92 Stat. 2878, 2920; Pub. L. 95–600, title IV, § 441(a), as amended Pub. L. 96–222, title I, § 104(a)(5)(B), Apr. 1, 1980, 94 Stat. 218, provided for a 50-percent maximum rate on personal service income.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -543,11 +543,11 @@ Repeal effective for taxable years beginning after Dec. 31, 1981, see section 10
 
 **Transitional Rule in Case of Taxable Year Beginning Before Nov. 1, 1978, and Ending After Oct. 31, 1978**
 
-Pub. L. 95–600, title IV, § 441(b)(2), Nov. 6, 1978, 92 Stat. 2878, as amended by Pub. L. 96–222, title I, § 104(a)(5)(A), Apr. 1, 1980, 94 Stat. 218, provided that in the case of a taxable year which began before Nov. 1, 1978, and ended after Oct. 31, 1978, the amount taken into account under subsec. (b)(2)(B) of section 1348 of this title by reason of section 57(a)(9) of this title be 50 percent of the lesser of the net capital gain for the taxable year or the net capital gain taking into account only gain or loss properly taken into account for the portion of the taxable year before Nov. 1, 1978.
+Pub. L. 95–600, title IV, § 441(b)(2), Nov. 6, 1978, 92 Stat. 2878, as amended by Pub. L. 96–222, title I, § 104(a)(5)(A), Apr. 1, 1980, 94 Stat. 218, provided that in the case of a taxable year which began before Nov. 1, 1978, and ended after Oct. 31, 1978, the amount taken into account under subsec. (b)(2)(B) of section 1348 of this title by reason of section 57(a)(9) of this title be 50 percent of the lesser of the net capital gain for the taxable year or the net capital gain taking into account only gain or loss properly taken into account for the portion of the taxable year before Nov. 1, 1978.
 
 ## PART VII—RECOVERIES OF FOREIGN EXPROPRIATION LOSSES
 
-### § 1351. Treatment of recoveries of foreign expropriation losses
+### § 1351. Treatment of recoveries of foreign expropriation losses
 
 **(a) Election**
 
@@ -625,7 +625,7 @@ Bonds or other evidences of indebtedness received as a recovery of a foreign exp
 
 for the taxable year of a recovery of a foreign expropriation loss to which this section applies, and for succeeding taxable years, to take into account items changed in making the computations under subsection (d) for taxable years prior to the taxable year of such recovery.
 
-(Added Pub. L. 89–384, § 1(a), Apr. 8, 1966, 80 Stat. 99; amended Pub. L. 94–455, title X, § 1031(b)(3), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 95–600, title III, § 301(b)(17), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 98–369, div. A, title I, § 42(a)(12), title II, § 211(b)(18), title IV, § 474(r)(25), July 18, 1984, 98 Stat. 557, 756, 844; Pub. L. 99–514, title XVIII, § 1812(a)(4), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 115–97, title I, § 13511(b)(8), Dec. 22, 2017, 131 Stat. 2142.)
+(Added Pub. L. 89–384, § 1(a), Apr. 8, 1966, 80 Stat. 99; amended Pub. L. 94–455, title X, § 1031(b)(3), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 95–600, title III, § 301(b)(17), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 98–369, div. A, title I, § 42(a)(12), title II, § 211(b)(18), title IV, § 474(r)(25), July 18, 1984, 98 Stat. 557, 756, 844; Pub. L. 99–514, title XVIII, § 1812(a)(4), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 115–97, title I, § 13511(b)(8), Dec. 22, 2017, 131 Stat. 2142.)
 
 **Editorial Notes**
 
@@ -635,25 +635,25 @@ for the taxable year of a recovery of a foreign expropriation loss to which this
 
 1986—Subsec. (d)(2). Pub. L. 99–514 substituted “relating to recovery of tax benefit items” for “relating to recovery of bad debts, etc.”
 
-1984—Subsec. (a)(1). Pub. L. 98–369, § 211(b)(18)(A), substituted “801” for “802” in two places.
+1984—Subsec. (a)(1). Pub. L. 98–369, § 211(b)(18)(A), substituted “801” for “802” in two places.
 
-Subsec. (c)(2). Pub. L. 98–369, § 211(b)(18)(B), substituted “section 807(c)” for “section 810(c)”.
+Subsec. (c)(2). Pub. L. 98–369, § 211(b)(18)(B), substituted “section 807(c)” for “section 810(c)”.
 
-Subsec. (h). Pub. L. 98–369, § 42(a)(12), substituted “section 1273(a)” for “section 1232(a)(2)”.
+Subsec. (h). Pub. L. 98–369, § 42(a)(12), substituted “section 1273(a)” for “section 1232(a)(2)”.
 
-Subsec. (i)(1). Pub. L. 98–369, § 474(r)(25)(A), substituted “section 27” for “section 33”.
+Subsec. (i)(1). Pub. L. 98–369, § 474(r)(25)(A), substituted “section 27” for “section 33”.
 
-Subsec. (i)(2). Pub. L. 98–369, § 474(r)(25)(B), substituted “section 38 (relating to general business credit)” for “section 38 (relating to investment credit)”.
+Subsec. (i)(2). Pub. L. 98–369, § 474(r)(25)(B), substituted “section 38 (relating to general business credit)” for “section 38 (relating to investment credit)”.
 
-Subsec. (i)(3). Pub. L. 98–369, § 211(b)(18)(C), substituted “section 810” for “section 812”.
+Subsec. (i)(3). Pub. L. 98–369, § 211(b)(18)(C), substituted “section 810” for “section 812”.
 
 1978—Subsec. (d)(4). Pub. L. 95–600 substituted “the rates of tax specified in section 11(b)” for “the normal tax rate provided by section 11(b) and the surtax rate provided by section 11(c) which are in effect”.
 
-1976—Subsecs. (a)(2), (d)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsecs. (a)(2), (d)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(3). Pub. L. 94–455, § 1031(b)(3), struck out provisions relating to an election to have limitation provided by section 904(a)(2) apply and to revocation of such an election previously made.
+Subsec. (d)(3). Pub. L. 94–455, § 1031(b)(3), struck out provisions relating to an election to have limitation provided by section 904(a)(2) apply and to revocation of such an election previously made.
 
-Subsec. (i). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (i). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -683,8 +683,8 @@ Amendment by section 1031(b)(3) of Pub. L. 94–455 applicable to taxable years 
 
 **Effective Date**
 
-Pub. L. 89–384, § 2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1 (except subsection (b)) [enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] added by section 1(a)) sustained after December 31, 1958.”
+Pub. L. 89–384, § 2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1 (except subsection (b)) [enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] added by section 1(a)) sustained after December 31, 1958.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.

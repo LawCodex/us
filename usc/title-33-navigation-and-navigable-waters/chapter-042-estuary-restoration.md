@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 42—ESTUARY RESTORATION
 
-## § 2901. Purposes
+## § 2901. Purposes
 
 The purposes of this chapter are—
 
@@ -27,29 +27,29 @@ The purposes of this chapter are—
 
 **(4)** to develop and enhance monitoring and research capabilities through the use of the environmental technology innovation program associated with the National Estuarine Research Reserve System established by section 1461 of title 16 to ensure that estuary habitat restoration efforts are based on sound scientific understanding and innovative technologies.
 
-(Pub. L. 106–457, title I, § 102, Nov. 7, 2000, 114 Stat. 1958; Pub. L. 110–114, title V, § 5017(a), Nov. 8, 2007, 121 Stat. 1197.)
+(Pub. L. 106–457, title I, § 102, Nov. 7, 2000, 114 Stat. 1958; Pub. L. 110–114, title V, § 5017(a), Nov. 8, 2007, 121 Stat. 1197.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2007—Par. (1). Pub. L. 110–114, § 5017(a)(1), inserted “by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage” before semicolon at end.
+2007—Par. (1). Pub. L. 110–114, § 5017(a)(1), inserted “by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage” before semicolon at end.
 
-Par. (2). Pub. L. 110–114, § 5017(a)(2), inserted “and implement” after “to develop”.
+Par. (2). Pub. L. 110–114, § 5017(a)(2), inserted “and implement” after “to develop”.
 
-Par. (3). Pub. L. 110–114, § 5017(a)(3), inserted “through cooperative agreements” after “restoration projects”.
+Par. (3). Pub. L. 110–114, § 5017(a)(3), inserted “through cooperative agreements” after “restoration projects”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 106–457, § 1(a), Nov. 7, 2000, 114 Stat. 1957, provided that: “This Act [enacting this chapter, sections 1273 and 1300 of this title, and sections 277d–43 to 277d–46 of Title 22, Foreign Relations and Intercourse, amending sections 1263a, 1267, 1269, 1324, and 1330 of this title, and enacting provisions set out as notes under this section, sections 1251 and 1267 of this title, and section 277d–43 of Title 22] may be cited as the ‘Estuaries and Clean Waters Act of 2000’.”
+Pub. L. 106–457, § 1(a), Nov. 7, 2000, 114 Stat. 1957, provided that: “This Act [enacting this chapter, sections 1273 and 1300 of this title, and sections 277d–43 to 277d–46 of Title 22, Foreign Relations and Intercourse, amending sections 1263a, 1267, 1269, 1324, and 1330 of this title, and enacting provisions set out as notes under this section, sections 1251 and 1267 of this title, and section 277d–43 of Title 22] may be cited as the ‘Estuaries and Clean Waters Act of 2000’.”
 
-Pub. L. 106–457, title I, § 101, Nov. 7, 2000, 114 Stat. 1958, provided that: “This title [enacting this chapter] may be cited as the ‘Estuary Restoration Act of 2000’.”
+Pub. L. 106–457, title I, § 101, Nov. 7, 2000, 114 Stat. 1958, provided that: “This title [enacting this chapter] may be cited as the ‘Estuary Restoration Act of 2000’.”
 
 **Purchase of American-Made Equipment and Products**
 
-Pub. L. 106–457, title IX, § 901, Nov. 7, 2000, 114 Stat. 1981, provided that:
+Pub. L. 106–457, title IX, § 901, Nov. 7, 2000, 114 Stat. 1981, provided that:
 
 > **“(a) In General.—** It is the sense of Congress that, to the extent practicable, all equipment and products purchased with funds made available under this Act [see Short Title note above] should be American made.
 
@@ -57,7 +57,7 @@ Pub. L. 106–457, title IX, § 901, Nov. 7, 2000, 114 Stat. 1981, provided th
 
 **Long-Term Estuary Assessment**
 
-Pub. L. 106–457, title IX, § 902, Nov. 7, 2000, 114 Stat. 1981, provided that:
+Pub. L. 106–457, title IX, § 902, Nov. 7, 2000, 114 Stat. 1981, provided that:
 
 > **“(a) In General.—** The Secretary of Commerce (acting through the Under Secretary for Oceans and Atmosphere) and the Secretary of the Interior (acting through the Director of the Geological Survey) may carry out a long-term estuary assessment project (in this section referred to as the ‘project’) in accordance with the requirements of this section.
 
@@ -73,7 +73,7 @@ Pub. L. 106–457, title IX, § 902, Nov. 7, 2000, 114 Stat. 1981, provided th
 
 > Such sums shall remain available until expended.”
 
-## § 2902. Definitions
+## § 2902. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -151,19 +151,19 @@ The term “Secretary” means the Secretary of the Army.
 
 The term “State” means the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Illinois, Indiana, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Virginia, Washington, and Wisconsin, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, American Samoa, and Guam.
 
-(Pub. L. 106–457, title I, § 103, Nov. 7, 2000, 114 Stat. 1958; Pub. L. 110–114, title V, § 5017(b), Nov. 8, 2007, 121 Stat. 1197.)
+(Pub. L. 106–457, title I, § 103, Nov. 7, 2000, 114 Stat. 1958; Pub. L. 110–114, title V, § 5017(b), Nov. 8, 2007, 121 Stat. 1197.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 **Amendments**
 
 2007—Par. (6)(A). Pub. L. 110–114 substituted “Federal, State, or regional” for “Federal or State”.
 
-## § 2903. Estuary habitat restoration program
+## § 2903. Estuary habitat restoration program
 
 **(a) Establishment**
 
@@ -301,7 +301,7 @@ A small project delegated to the head of a Federal department or agency under th
 
 The head of a Federal department or agency to which a small project is delegated under this paragraph shall enter into an agreement with the non-Federal interest for the project generally in conformance with the criteria in subsections (d) and (e). Cooperative agreements may be used for any delegated project to allow the non-Federal interest to carry out the project on behalf of the Federal agency.
 
-(Pub. L. 106–457, title I, § 104, Nov. 7, 2000, 114 Stat. 1960; Pub. L. 110–114, title V, § 5017(c), Nov. 8, 2007, 121 Stat. 1197; Pub. L. 114–322, title IV, § 5013(a), Dec. 16, 2016, 130 Stat. 1903.)
+(Pub. L. 106–457, title I, § 104, Nov. 7, 2000, 114 Stat. 1960; Pub. L. 110–114, title V, § 5017(c), Nov. 8, 2007, 121 Stat. 1197; Pub. L. 114–322, title IV, § 5013(a), Dec. 16, 2016, 130 Stat. 1903.)
 
 **Editorial Notes**
 
@@ -309,23 +309,23 @@ The head of a Federal department or agency to which a small project is delegated
 
 2016—Subsec. (f)(3). Pub. L. 114–322 added par. (3).
 
-2007—Subsec. (a). Pub. L. 110–114, § 5017(c)(1), inserted “through the award of contracts and cooperative agreements” after “assistance”.
+2007—Subsec. (a). Pub. L. 110–114, § 5017(c)(1), inserted “through the award of contracts and cooperative agreements” after “assistance”.
 
-Subsec. (c)(3)(A). Pub. L. 110–114, § 5017(c)(2)(A), inserted “or State” after “Federal”.
+Subsec. (c)(3)(A). Pub. L. 110–114, § 5017(c)(2)(A), inserted “or State” after “Federal”.
 
-Subsec. (c)(4)(B). Pub. L. 110–114, § 5017(c)(2)(B), inserted “or approach” after “technology”.
+Subsec. (c)(4)(B). Pub. L. 110–114, § 5017(c)(2)(B), inserted “or approach” after “technology”.
 
-Subsec. (d)(1). Pub. L. 110–114, § 5017(c)(3)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (d)(1). Pub. L. 110–114, § 5017(c)(3)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (d)(2). Pub. L. 110–114, § 5017(c)(3)(B), inserted “or approach” after “technology”.
+Subsec. (d)(2). Pub. L. 110–114, § 5017(c)(3)(B), inserted “or approach” after “technology”.
 
-Subsec. (d)(3). Pub. L. 110–114, § 5017(c)(3)(C), inserted “(including monitoring)” after “services”.
+Subsec. (d)(3). Pub. L. 110–114, § 5017(c)(3)(C), inserted “(including monitoring)” after “services”.
 
-Subsec. (f)(1)(B). Pub. L. 110–114, § 5017(c)(4), inserted “long-term” before “maintenance”.
+Subsec. (f)(1)(B). Pub. L. 110–114, § 5017(c)(4), inserted “long-term” before “maintenance”.
 
-Subsec. (g). Pub. L. 110–114, § 5017(c)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (g). Pub. L. 110–114, § 5017(c)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-## § 2904. Establishment of Estuary Habitat Restoration Council
+## § 2904. Establishment of Estuary Habitat Restoration Council
 
 **(a) Council**
 
@@ -395,7 +395,7 @@ Meetings of the Council shall be open to the public. The Council shall provide n
 
 **(2)** to provide advice and recommendations to the Council on proposed estuary habitat restoration projects, including advice on the scientific merit, technical merit, and feasibility of a project.
 
-(Pub. L. 106–457, title I, § 105, Nov. 7, 2000, 114 Stat. 1962; Pub. L. 110–114, title V, § 5017(d), Nov. 8, 2007, 121 Stat. 1198.)
+(Pub. L. 106–457, title I, § 105, Nov. 7, 2000, 114 Stat. 1962; Pub. L. 110–114, title V, § 5017(d), Nov. 8, 2007, 121 Stat. 1198.)
 
 **Editorial Notes**
 
@@ -403,13 +403,13 @@ Meetings of the Council shall be open to the public. The Council shall provide n
 
 2007—Subsec. (b)(6) to (8). Pub. L. 110–114 added pars. (6) to (8).
 
-## § 2905. Estuary habitat restoration strategy
+## § 2905. Estuary habitat restoration strategy
 
 **(a) In general**
 
-Not later than 1 year after November 7, 2000, the Council, 1
+Not later than 1 year after November 7, 2000, the Council, 1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 shall develop an estuary habitat restoration strategy designed to ensure a comprehensive approach to maximize benefits derived from estuary habitat restoration projects and to foster the coordination of Federal and non-Federal activities related to restoration of estuary habitat.
 
@@ -459,9 +459,9 @@ Before the Council adopts a final or revised estuary habitat restoration strateg
 
 Using data and information developed through project monitoring and management, and other relevant information, the Council may periodically review and update, as necessary, the estuary habitat restoration strategy.
 
-(Pub. L. 106–457, title I, § 106, Nov. 7, 2000, 114 Stat. 1963.)
+(Pub. L. 106–457, title I, § 106, Nov. 7, 2000, 114 Stat. 1963.)
 
-## § 2906. Monitoring of estuary habitat restoration projects
+## § 2906. Monitoring of estuary habitat restoration projects
 
 **(a) Under Secretary**
 
@@ -487,7 +487,7 @@ The Under Secretary shall use existing programs within the National Oceanic and 
 
 The Under Secretary shall make the information collected and maintained under this section available to the public.
 
-(Pub. L. 106–457, title I, § 107, Nov. 7, 2000, 114 Stat. 1964; Pub. L. 110–114, title V, § 5017(e), Nov. 8, 2007, 121 Stat. 1198.)
+(Pub. L. 106–457, title I, § 107, Nov. 7, 2000, 114 Stat. 1964; Pub. L. 110–114, title V, § 5017(e), Nov. 8, 2007, 121 Stat. 1198.)
 
 **Editorial Notes**
 
@@ -495,7 +495,7 @@ The Under Secretary shall make the information collected and maintained under th
 
 2007—Subsec. (d). Pub. L. 110–114 substituted “have general data compilation, coordination, and analysis responsibilities to carry out this chapter and in support of the strategy developed under this section, including compilation of” for “compile”.
 
-## § 2907. Reporting
+## § 2907. Reporting
 
 **(a) In general**
 
@@ -515,7 +515,7 @@ Not later than September 30, 2008, and every 2 years thereafter, the Secretary, 
 
 **(6)** a review of the measures taken to provide the information described in paragraphs (1) through (3) to persons with responsibility for assisting in the restoration of estuary habitat.
 
-(Pub. L. 106–457, title I, § 108, Nov. 7, 2000, 114 Stat. 1965; Pub. L. 110–114, title V, § 5017(f), Nov. 8, 2007, 121 Stat. 1198.)
+(Pub. L. 106–457, title I, § 108, Nov. 7, 2000, 114 Stat. 1965; Pub. L. 110–114, title V, § 5017(f), Nov. 8, 2007, 121 Stat. 1198.)
 
 **Editorial Notes**
 
@@ -523,7 +523,7 @@ Not later than September 30, 2008, and every 2 years thereafter, the Secretary, 
 
 2007—Subsec. (a). Pub. L. 110–114 substituted “Not later than September 30, 2008, and every 2 years thereafter” for “At the end of the third and fifth fiscal years following November 7, 2000”.
 
-## § 2908. Funding
+## § 2908. Funding
 
 **(a) Authorization of appropriations**
 
@@ -549,7 +549,7 @@ There is authorized to be appropriated to the Under Secretary for Oceans and Atm
 
 Not to exceed 3 percent of the amounts appropriated for a fiscal year under subsection (a)(1) or $1,500,000, whichever is greater, may be used by the Secretary for administration and operation of the Council.
 
-(Pub. L. 106–457, title I, § 109, Nov. 7, 2000, 114 Stat. 1965; Pub. L. 110–114, title V, § 5017(g), Nov. 8, 2007, 121 Stat. 1198; Pub. L. 114–322, title IV, § 5013(b), Dec. 16, 2016, 130 Stat. 1903.)
+(Pub. L. 106–457, title I, § 109, Nov. 7, 2000, 114 Stat. 1965; Pub. L. 110–114, title V, § 5017(g), Nov. 8, 2007, 121 Stat. 1198; Pub. L. 114–322, title IV, § 5013(b), Dec. 16, 2016, 130 Stat. 1903.)
 
 **Editorial Notes**
 
@@ -557,7 +557,7 @@ Not to exceed 3 percent of the amounts appropriated for a fiscal year under subs
 
 2016—Subsec. (a). Pub. L. 114–322 substituted “through 2021” for “through 2012” wherever appearing.
 
-2007—Subsec. (a)(1). Pub. L. 110–114, § 5017(g)(1), struck out “to the Secretary” after “appropriated” in introductory provisions, added subpars. (A) to (E), and struck out former subpars. (A) to (D) which read as follows:
+2007—Subsec. (a)(1). Pub. L. 110–114, § 5017(g)(1), struck out “to the Secretary” after “appropriated” in introductory provisions, added subpars. (A) to (E), and struck out former subpars. (A) to (D) which read as follows:
 
 “(A) $40,000,000 for fiscal year 2001;
 
@@ -567,9 +567,9 @@ Not to exceed 3 percent of the amounts appropriated for a fiscal year under subs
 
 “(D) $75,000,000 for fiscal year 2005.”
 
-Subsec. (a)(2). Pub. L. 110–114, § 5017(g)(2), inserted “and other information compiled under section 2906 of this title” after “this chapter” and substituted “2012” for “2005”.
+Subsec. (a)(2). Pub. L. 110–114, § 5017(g)(2), inserted “and other information compiled under section 2906 of this title” after “this chapter” and substituted “2012” for “2005”.
 
-## § 2909. General provisions
+## § 2909. General provisions
 
 **(a) Agency consultation and coordination**
 
@@ -585,12 +585,12 @@ In carrying out this chapter, the Secretary shall, as necessary, consult with, c
 
 Federal agencies may cooperate in carrying out scientific and other programs necessary to carry out this chapter, and may provide facilities and personnel, for the purpose of assisting the Council in carrying out its duties under this chapter.
 
-(Pub. L. 106–457, title I, § 110, Nov. 7, 2000, 114 Stat. 1966; Pub. L. 110–114, title V, § 5017(h), Nov. 8, 2007, 121 Stat. 1199.)
+(Pub. L. 106–457, title I, § 110, Nov. 7, 2000, 114 Stat. 1966; Pub. L. 110–114, title V, § 5017(h), Nov. 8, 2007, 121 Stat. 1199.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2007—Subsec. (b)(1). Pub. L. 110–114, § 5017(h)(1), inserted “or contracts” after “agreements” and “, nongovernmental organizations,” after “agencies”.
+2007—Subsec. (b)(1). Pub. L. 110–114, § 5017(h)(1), inserted “or contracts” after “agreements” and “, nongovernmental organizations,” after “agencies”.
 
-Subsecs. (d), (e). Pub. L. 110–114, § 5017(h)(2), struck out subsecs. (d) and (e) which related to identification and mapping of dredged material disposal sites and study of bioremediation technology, respectively.
+Subsecs. (d), (e). Pub. L. 110–114, § 5017(h)(2), struck out subsecs. (d) and (e) which related to identification and mapping of dredged material disposal sites and study of bioremediation technology, respectively.

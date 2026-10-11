@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 49—SAVANNA’S ACT
 
-## § 5701. Purposes
+## § 5701. Purposes
 
 The purposes of this chapter are—
 
@@ -27,7 +27,7 @@ The purposes of this chapter are—
 
 **(4)** to increase the collection of data related to missing or murdered Indian men, women, and children, regardless of where they reside, and the sharing of information among Federal, State, and Tribal officials responsible for responding to and investigating cases of missing or murdered Indians.
 
-(Pub. L. 116–165, § 2, Oct. 10, 2020, 134 Stat. 760.)
+(Pub. L. 116–165, § 2, Oct. 10, 2020, 134 Stat. 760.)
 
 **Editorial Notes**
 
@@ -39,9 +39,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 116–165, § 1, Oct. 10, 2020, 134 Stat. 760, provided that: “This Act [enacting this chapter and amending sections 10452, 10461, and 20126 of Title 34, Crime Control and Law Enforcement] may be cited as ‘Savanna’s Act’.”
+Pub. L. 116–165, § 1, Oct. 10, 2020, 134 Stat. 760, provided that: “This Act [enacting this chapter and amending sections 10452, 10461, and 20126 of Title 34, Crime Control and Law Enforcement] may be cited as ‘Savanna’s Act’.”
 
-## § 5702. Definitions
+## § 5702. Definitions
 
 In this chapter:
 
@@ -79,7 +79,7 @@ The term “Indian Tribe” has the meaning given the term “Indian tribe” in
 
 The term “law enforcement agency” means a Tribal, Federal, State, or local law enforcement agency.
 
-(Pub. L. 116–165, § 3, Oct. 10, 2020, 134 Stat. 760.)
+(Pub. L. 116–165, § 3, Oct. 10, 2020, 134 Stat. 760.)
 
 **Editorial Notes**
 
@@ -87,7 +87,7 @@ The term “law enforcement agency” means a Tribal, Federal, State, or local l
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 116–165, Oct. 10, 2020, 134 Stat. 760, known as Savanna’s Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5701 of this title and Tables.
 
-## § 5703. Improving Tribal access to databases
+## § 5703. Improving Tribal access to databases
 
 **(a) Tribal Enrollment Information**
 
@@ -111,7 +111,7 @@ Not later than 180 days after October 10, 2020, the Attorney General, in coordin
 
 **(2)** conduct specific outreach to Indian Tribes, Tribal organizations, and urban Indian organizations regarding the ability to publicly enter information, through the National Missing and Unidentified Persons System or other non-law enforcement sensitive portal, regarding missing persons, which may include family members and other known acquaintances.
 
-(Pub. L. 116–165, § 4, Oct. 10, 2020, 134 Stat. 761.)
+(Pub. L. 116–165, § 4, Oct. 10, 2020, 134 Stat. 761.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ Not later than 180 days after October 10, 2020, the Attorney General, in coordin
 
 Section is comprised of section 4 of Pub. L. 116–165. Subsec. (b)(3) of section 4 of Pub. L. 116–165 is classified to section 20126 of Title 34, Crime Control and Law Enforcement.
 
-## § 5704. Guidelines for responding to cases of missing or murdered Indians
+## § 5704. Guidelines for responding to cases of missing or murdered Indians
 
 **(a) In general** Not later than 60 days after the date on which the consultation described in section 5703(b)(1) of this title is completed, the Attorney General shall direct United States attorneys to develop regionally appropriate guidelines to respond to cases of missing or murdered Indians that shall include—
 
@@ -193,9 +193,9 @@ Indian Tribes may submit their own guidelines to respond to cases of missing or 
 
 Upon receipt of any guidelines from an Indian Tribe, the Attorney General shall publish the guidelines on the website of the Department of Justice in 1 centralized location to make the guidelines available as a resource to any Federal agency, State, or Tribal government.
 
-(Pub. L. 116–165, § 5, Oct. 10, 2020, 134 Stat. 762.)
+(Pub. L. 116–165, § 5, Oct. 10, 2020, 134 Stat. 762.)
 
-## § 5705. Annual reporting requirements
+## § 5705. Annual reporting requirements
 
 **(a) Annual reporting** Beginning in the first fiscal year after October 10, 2020, the Attorney General shall include in its annual Indian Country Investigations and Prosecutions report to Congress information that—
 
@@ -249,4 +249,4 @@ The Attorney General shall disclose and publish annually, including on the websi
 
 Beginning in the first calendar year after October 10, 2020, and annually thereafter, the Federal Bureau of Investigation shall include gender in its annual statistics on missing and unidentified persons published on its public website.
 
-(Pub. L. 116–165, § 6, Oct. 10, 2020, 134 Stat. 763.)
+(Pub. L. 116–165, § 6, Oct. 10, 2020, 134 Stat. 763.)

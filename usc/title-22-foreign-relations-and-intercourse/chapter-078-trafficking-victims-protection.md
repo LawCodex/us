@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 78—TRAFFICKING VICTIMS PROTECTION
 
-## § 7101. Purposes and findings
+## § 7101. Purposes and findings
 
 **(a) Purposes**
 
@@ -71,7 +71,7 @@ The purposes of this chapter are to combat trafficking in persons, a contemporar
 
 **(24)** Trafficking in persons is a transnational crime with national implications. To deter international trafficking and bring its perpetrators to justice, nations including the United States must recognize that trafficking is a serious offense. This is done by prescribing appropriate punishment, giving priority to the prosecution of trafficking offenses, and protecting rather than punishing the victims of such offenses. The United States must work bilaterally and multilaterally to abolish the trafficking industry by taking steps to promote cooperation among countries linked together by international trafficking routes. The United States must also urge the international community to take strong action in multilateral fora to engage recalcitrant countries in serious and sustained efforts to eliminate trafficking and protect trafficking victims.
 
-(Pub. L. 106–386, div. A, § 102, Oct. 28, 2000, 114 Stat. 1466.)
+(Pub. L. 106–386, div. A, § 102, Oct. 28, 2000, 114 Stat. 1466.)
 
 **Editorial Notes**
 
@@ -83,43 +83,43 @@ This chapter, referred to in subsec. (a), was in the original “this division�
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 117–348, § 1, Jan. 5, 2023, 136 Stat. 6211, provided that: “This Act [enacting sections 628c and 1862w of Title 42, The Public Health and Welfare, amending sections 7103b and 7110 of this title, section 20702 of Title 34, Crime Control and Law Enforcement, and sections 623, 671, and 5106g of Title 42, and enacting provisions set out as notes under section 7103b of this title, section 4103 of Title 5, Government Organization and Employees, and section 671 of Title 42] may be cited as the ‘Trafficking Victims Prevention and Protection Reauthorization Act of 2022’.”
+Pub. L. 117–348, § 1, Jan. 5, 2023, 136 Stat. 6211, provided that: “This Act [enacting sections 628c and 1862w of Title 42, The Public Health and Welfare, amending sections 7103b and 7110 of this title, section 20702 of Title 34, Crime Control and Law Enforcement, and sections 623, 671, and 5106g of Title 42, and enacting provisions set out as notes under section 7103b of this title, section 4103 of Title 5, Government Organization and Employees, and section 671 of Title 42] may be cited as the ‘Trafficking Victims Prevention and Protection Reauthorization Act of 2022’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–301, § 1, Dec. 27, 2022, 136 Stat. 4382, provided that: “This Act [amending section 7105 of this title] may be cited as the ‘Human Trafficking Prevention Act of 2022’.”
+Pub. L. 117–301, § 1, Dec. 27, 2022, 136 Stat. 4382, provided that: “This Act [amending section 7105 of this title] may be cited as the ‘Human Trafficking Prevention Act of 2022’.”
 
-Pub. L. 117–211, § 1, Oct. 17, 2022, 136 Stat. 2248, provided that: “This Act [amending section 7104b of this title] may be cited as the ‘End Human Trafficking in Government Contracts Act of 2022’.”
+Pub. L. 117–211, § 1, Oct. 17, 2022, 136 Stat. 2248, provided that: “This Act [amending section 7104b of this title] may be cited as the ‘End Human Trafficking in Government Contracts Act of 2022’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–92, div. F, title LXXI, § 7151, Dec. 20, 2019, 133 Stat. 2257, provided that: “This subtitle [subtitle B (§§ 7151–7155) of title LXXI of div. F of Pub. L. 116–92, amending section 7103 of this title and section 312 of Title 31, Money and Finance, and enacting provisions set out as a note under section 3305 of Title 12, Banks and Banking] may be cited as the ‘Financial Industry Guidance to Halt Trafficking Act’ or the ‘FIGHT Act’.”
+Pub. L. 116–92, div. F, title LXXI, § 7151, Dec. 20, 2019, 133 Stat. 2257, provided that: “This subtitle [subtitle B (§§ 7151–7155) of title LXXI of div. F of Pub. L. 116–92, amending section 7103 of this title and section 312 of Title 31, Money and Finance, and enacting provisions set out as a note under section 3305 of Title 12, Banks and Banking] may be cited as the ‘Financial Industry Guidance to Halt Trafficking Act’ or the ‘FIGHT Act’.”
 
-Pub. L. 115–427, § 1, Jan. 9, 2019, 132 Stat. 5503, provided that: “This Act [amending sections 7102, 7104, 7106, and 7107 of this title and enacting provisions set out as notes under sections 262d and 7107 of this title] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2017’.”
+Pub. L. 115–427, § 1, Jan. 9, 2019, 132 Stat. 5503, provided that: “This Act [amending sections 7102, 7104, 7106, and 7107 of this title and enacting provisions set out as notes under sections 262d and 7107 of this title] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2017’.”
 
-Pub. L. 115–425, § 1, Jan. 8, 2019, 132 Stat. 5472, provided that: “This Act [enacting section 7104e of this title, amending sections 2370c to 2370c–2, 7103, 7104, 7105, 7106 to 7108, 7110, and 7112 of this title, section 1375c of Title 8, Aliens and Nationality, sections 20705, 20709, and 21509 of Title 34, Crime Control and Law Enforcement, and section 40118 of Title 49, Transportation, and enacting provisions set out as notes under sections 2370c and 7107 of this title, section 1201 of Title 41, Public Contracts, and section 40118 of Title 49] may be cited as the ‘Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2018’.”
+Pub. L. 115–425, § 1, Jan. 8, 2019, 132 Stat. 5472, provided that: “This Act [enacting section 7104e of this title, amending sections 2370c to 2370c–2, 7103, 7104, 7105, 7106 to 7108, 7110, and 7112 of this title, section 1375c of Title 8, Aliens and Nationality, sections 20705, 20709, and 21509 of Title 34, Crime Control and Law Enforcement, and section 40118 of Title 49, Transportation, and enacting provisions set out as notes under sections 2370c and 7107 of this title, section 1201 of Title 41, Public Contracts, and section 40118 of Title 49] may be cited as the ‘Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2018’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–457, § 1(a), Dec. 23, 2008, 122 Stat. 5044, provided that: “This Act [see Tables for classification] may be cited as the ‘William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008’.”
+Pub. L. 110–457, § 1(a), Dec. 23, 2008, 122 Stat. 5044, provided that: “This Act [see Tables for classification] may be cited as the ‘William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–164, § 1(a), Jan. 10, 2006, 119 Stat. 3558, provided that: “This Act [enacting sections 7111 and 7112 of this title, sections 2428, 3271, and 3272 of Title 18, Crimes and Criminal Procedure, and sections 14044 to 14044e of Title 42, The Public Health and Welfare, amending sections 4028, 7103 to 7107, 7109a, and 7110 of this title and sections 1956 and 1961 of Title 18, and enacting provisions set out as notes under this section and sections 7105 and 7106 of this title] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2005’.”
+Pub. L. 109–164, § 1(a), Jan. 10, 2006, 119 Stat. 3558, provided that: “This Act [enacting sections 7111 and 7112 of this title, sections 2428, 3271, and 3272 of Title 18, Crimes and Criminal Procedure, and sections 14044 to 14044e of Title 42, The Public Health and Welfare, amending sections 4028, 7103 to 7107, 7109a, and 7110 of this title and sections 1956 and 1961 of Title 18, and enacting provisions set out as notes under this section and sections 7105 and 7106 of this title] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2005’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–193, § 1, Dec. 19, 2003, 117 Stat. 2875, provided that: “This Act [enacting section 7109a of this title and section 1595 of Title 18, Crimes and Criminal Procedure, amending sections 2152d, 7102 to 7107, and 7110 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1591 and 1961 of Title 18, enacting provisions set out as notes under this section and section 7103 of this title, and repealing provisions set out as a note under section 7103 of this title] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2003’.”
+Pub. L. 108–193, § 1, Dec. 19, 2003, 117 Stat. 2875, provided that: “This Act [enacting section 7109a of this title and section 1595 of Title 18, Crimes and Criminal Procedure, amending sections 2152d, 7102 to 7107, and 7110 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1591 and 1961 of Title 18, enacting provisions set out as notes under this section and section 7103 of this title, and repealing provisions set out as a note under section 7103 of this title] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2003’.”
 
 **Short Title**
 
-Pub. L. 106–386, § 1, Oct. 28, 2000, 114 Stat. 1464, provided that: “This Act [see Tables for classification] may be cited as the ‘Victims of Trafficking and Violence Protection Act of 2000’.”
+Pub. L. 106–386, § 1, Oct. 28, 2000, 114 Stat. 1464, provided that: “This Act [see Tables for classification] may be cited as the ‘Victims of Trafficking and Violence Protection Act of 2000’.”
 
-Pub. L. 106–386, div. A, § 101, Oct. 28, 2000, 114 Stat. 1466, provided that: “This division [enacting this chapter, section 2152d of this title, and sections 1589 to 1594 of Title 18, Crimes and Criminal Procedure, and amending sections 2151n and 2304 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1581, 1583, and 1584 of Title 18] may be cited as the ‘Trafficking Victims Protection Act of 2000’.”
+Pub. L. 106–386, div. A, § 101, Oct. 28, 2000, 114 Stat. 1466, provided that: “This division [enacting this chapter, section 2152d of this title, and sections 1589 to 1594 of Title 18, Crimes and Criminal Procedure, and amending sections 2151n and 2304 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1581, 1583, and 1584 of Title 18] may be cited as the ‘Trafficking Victims Protection Act of 2000’.”
 
 **Promoting Effective State Enforcement**
 
-Pub. L. 110–457, title II, § 225, Dec. 23, 2008, 122 Stat. 5072, as amended by Pub. L. 113–4, title XII, § 1243, Mar. 7, 2013, 127 Stat. 154, provided that:
+Pub. L. 110–457, title II, § 225, Dec. 23, 2008, 122 Stat. 5072, as amended by Pub. L. 113–4, title XII, § 1243, Mar. 7, 2013, 127 Stat. 154, provided that:
 
 > **“(a) Relationship Among Federal and State Law.—** Nothing in this Act [see Short Title of 2008 Amendment note above], the Trafficking Victims Protection Act of 2000 [see Short Title note above], the Trafficking Victims Protection Reauthorization Act of 2003 [see Short Title of 2003 Amendment note above], the Trafficking Victims Protection Reauthorization Act of 2005 [see Short Title of 2006 Amendment note above], chapters 77 and 117 of title 18, United States Code, or any model law issued by the Department of Justice to carry out the purposes of any of the aforementioned statutes—
 
@@ -153,7 +153,7 @@ Pub. L. 110–457, title II, § 225, Dec. 23, 2008, 122 Stat. 5072, as amended
 
 **Congressional Findings**
 
-Pub. L. 109–164, § 2, Jan. 10, 2006, 119 Stat. 3558, provided that:
+Pub. L. 109–164, § 2, Jan. 10, 2006, 119 Stat. 3558, provided that:
 
 > “Congress finds the following:
 
@@ -179,7 +179,7 @@ Pub. L. 109–164, § 2, Jan. 10, 2006, 119 Stat. 3558, provided that:
 
 > **“(11)** Further measures are needed to ensure that United States Government personnel and contractors are held accountable for involvement with acts of trafficking in persons, including by expanding United States criminal jurisdiction to all United States Government contractors abroad.”
 
-Pub. L. 108–193, § 2, Dec. 19, 2003, 117 Stat. 2875, provided that:
+Pub. L. 108–193, § 2, Dec. 19, 2003, 117 Stat. 2875, provided that:
 
 > “Congress finds the following:
 
@@ -195,7 +195,7 @@ Pub. L. 108–193, § 2, Dec. 19, 2003, 117 Stat. 2875, provided that:
 
 > **“(6)** International Law Enforcement Academies should be more fully utilized in the effort to train law enforcement authorities, prosecutors, and members of the judiciary to address trafficking in persons-related crimes.”
 
-## § 7102. Definitions
+## § 7102. Definitions
 
 In this chapter:
 
@@ -283,9 +283,9 @@ The term “minimum standards for the elimination of trafficking” means the st
 
 **(ii)** assistance under chapter 8 of part I of that Act [22 U.S.C. 2291 et seq.];
 
-**(iii)** any other narcotics-related assistance under part I of that Act [22 U.S.C. 2151 et seq.] or under chapter 4 or 5 1
+**(iii)** any other narcotics-related assistance under part I of that Act [22 U.S.C. 2151 et seq.] or under chapter 4 or 5 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of”.
+<sup>1</sup> So in original. Probably should be followed by “of”.
 
 part II of that Act [22 U.S.C. 2346 et seq., 2347 et seq.], but any such assistance provided under this clause shall be subject to the prior notification procedures applicable to reprogrammings pursuant to section 634A of that Act [22 U.S.C. 2394–1];
 
@@ -295,9 +295,9 @@ part II of that Act [22 U.S.C. 2346 et seq., 2347 et seq.], but any such assista
 
 **(vi)** assistance for refugees;
 
-**(vii)** humanitarian and other development assistance in support of programs of nongovernmental organizations under chapters 1 and 10 2
+**(vii)** humanitarian and other development assistance in support of programs of nongovernmental organizations under chapters 1 and 10 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of that Act;
 
@@ -341,7 +341,7 @@ The term “victim of trafficking” means a person subjected to an act or pract
 
 The term “grounds related to human trafficking” means grounds related to the criteria for inadmissibility to the United States described in subsection (a)(2)(H) of section 1182 of title 8.
 
-(Pub. L. 106–386, div. A, § 103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, § 8(b)(1), Dec. 19, 2003, 117 Stat. 2887; Pub. L. 110–457, title III, § 304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1212(b)(1), Mar. 7, 2013, 127 Stat. 143; Pub. L. 114–22, title I, § 108(b), May 29, 2015, 129 Stat. 239; Pub. L. 115–254, div. F, title VI, § 1470(p), Oct. 5, 2018, 132 Stat. 3518; Pub. L. 115–427, § 2, Jan. 9, 2019, 132 Stat. 5503; Pub. L. 116–283, div. A, title XII, § 1299R(d)(2), Jan. 1, 2021, 134 Stat. 4028; Pub. L. 119–73, § 7, Jan. 23, 2026, 139 Stat. 2009.)
+(Pub. L. 106–386, div. A, § 103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, § 8(b)(1), Dec. 19, 2003, 117 Stat. 2887; Pub. L. 110–457, title III, § 304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1212(b)(1), Mar. 7, 2013, 127 Stat. 143; Pub. L. 114–22, title I, § 108(b), May 29, 2015, 129 Stat. 239; Pub. L. 115–254, div. F, title VI, § 1470(p), Oct. 5, 2018, 132 Stat. 3518; Pub. L. 115–427, § 2, Jan. 9, 2019, 132 Stat. 5503; Pub. L. 116–283, div. A, title XII, § 1299R(d)(2), Jan. 1, 2021, 134 Stat. 4028; Pub. L. 119–73, § 7, Jan. 23, 2026, 139 Stat. 2009.)
 
 **Editorial Notes**
 
@@ -349,17 +349,17 @@ The term “grounds related to human trafficking” means grounds related to the
 
 This chapter, referred to in text, was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in par. (10)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapters 1, 8, and 9 of part I of the Act are classified generally to parts I (§ 2151 et seq.), VIII (§ 2291 et seq.), and IX (§ 2292 et seq.), respectively, of subchapter I of chapter 32 of this title. Title IV of chapter 2 of part I of the Act was classified generally to subpart iv (§ 2191 et seq.) of part II of subchapter I of chapter 32 of this title, and was repealed, except for subsections (g), (*l*), (m), and (n) of section 2197 of this title, by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, effective at the end of the transition period, as defined in section 9681 of this title. Chapters 4, 5, and 8 of part II of the Act are classified generally to part IV (§ 2346 et seq.), part V (§ 2347 et seq.), and part VIII (§ 2349aa et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (10)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapters 1, 8, and 9 of part I of the Act are classified generally to parts I (§ 2151 et seq.), VIII (§ 2291 et seq.), and IX (§ 2292 et seq.), respectively, of subchapter I of chapter 32 of this title. Title IV of chapter 2 of part I of the Act was classified generally to subpart iv (§ 2191 et seq.) of part II of subchapter I of chapter 32 of this title, and was repealed, except for subsections (g), (*l*), (m), and (n) of section 2197 of this title, by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, effective at the end of the transition period, as defined in section 9681 of this title. Chapters 4, 5, and 8 of part II of the Act are classified generally to part IV (§ 2346 et seq.), part V (§ 2347 et seq.), and part VIII (§ 2349aa et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-Chapters 1 and 10 of that Act, referred to in par. (10)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§ 2151 et seq.) and X (§ 2293 et seq.), respectively, of subchapter I of chapter 32 of this title. For complete classification of these chapters to the Code, see Tables.
+Chapters 1 and 10 of that Act, referred to in par. (10)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§ 2151 et seq.) and X (§ 2293 et seq.), respectively, of subchapter I of chapter 32 of this title. For complete classification of these chapters to the Code, see Tables.
 
-The Arms Export Control Act, referred to in par. (10)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in par. (10)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 **Amendments**
 
-2026—Par. (16). Pub. L. 119–73, § 7(1), substituted “paragraph (11)” for “paragraph (9)”.
+2026—Par. (16). Pub. L. 119–73, § 7(1), substituted “paragraph (11)” for “paragraph (9)”.
 
-Par. (17). Pub. L. 119–73, § 7(2), substituted “paragraph (11) or (12)” for “paragraph (9) or (10)”.
+Par. (17). Pub. L. 119–73, § 7(2), substituted “paragraph (11) or (12)” for “paragraph (9) or (10)”.
 
 2021—Par. (18). Pub. L. 116–283 added par. (18).
 
@@ -381,7 +381,7 @@ Par. (17). Pub. L. 119–73, § 7(2), substituted “paragraph (11) or (12)”
 
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
-## § 7103. Interagency Task Force to Monitor and Combat Trafficking
+## § 7103. Interagency Task Force to Monitor and Combat Trafficking
 
 **(a) Establishment**
 
@@ -409,19 +409,19 @@ The Task Force shall be chaired by the Secretary of State.
 
 **(6)** Engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of this chapter, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States.
 
-**(7)** Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs 1
+**(7)** Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
-the Committee on Financial Services,, 2
+the Committee on Financial Services,, 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
 
-**(A)** the number of persons who received benefits or other services under subsections (b) and (f) 3
+**(A)** the number of persons who received benefits or other services under subsections (b) and (f) 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 of section 7105 of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Attorney General, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
 
@@ -445,7 +445,7 @@ of section 7105 of this title in connection with programs or activities funded o
 
 **(K)** the nature of training conducted pursuant to section 7105(c)(4) of this title during the preceding fiscal year;
 
-**(L)** the amount, recipient, and purpose of each grant under sections 20702 and 20705 of title 34; <sup>3</sup>
+**(L)** the amount, recipient, and purpose of each grant under sections 20702 and 20705 of title 34; <sup>3</sup>
 
 **(M)** activities by the Department of Defense to combat trafficking in persons, including—
 
@@ -467,9 +467,9 @@ of section 7105 of this title in connection with programs or activities funded o
 
 **(iii)** prohibitions on the procurement by the United States Government of items or services produced by slave labor, consistent with Executive Order 13107 (December 10, 1998);
 
-**(O)** the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and 4
+**(O)** the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and 4
 
-<sup>4</sup>  So in original. The word “and” probably should not appear.
+<sup>4</sup> So in original. The word “and” probably should not appear.
 
 **(P)** the activities undertaken by Federal agencies to train appropriate State, tribal, and local government and law enforcement officials to identify victims of severe forms of trafficking, including both sex and labor trafficking;
 
@@ -491,7 +491,7 @@ of section 7105 of this title in connection with programs or activities funded o
 
 **(viii)** the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim;
 
-**(R)** the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) <sup>3</sup> of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible;
+**(R)** the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) <sup>3</sup> of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible;
 
 **(S)** tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims;
 
@@ -555,7 +555,7 @@ Each Federal department or agency represented on the Operating Group shall fully
 
 Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
 
-(Pub. L. 106–386, div. A, § 105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, § 6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, § 104(a), title II, § 205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§ 101, 102, title II, § 231, title III, § 304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, § 1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§ 1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144; Pub. L. 114–22, title VI, § 602, May 29, 2015, 129 Stat. 259; Pub. L. 115–392, §§ 16, 18(a), Dec. 21, 2018, 132 Stat. 5257, 5258; Pub. L. 115–425, title I, § 121(a), title II, § 201, Jan. 8, 2019, 132 Stat. 5478, 5482; Pub. L. 116–92, div. A, title IX, § 902(85), div. C, title XXXV, § 3562, div. F, title LXXI, § 7154(b), Dec. 20, 2019, 133 Stat. 1553, 2009, 2260; Pub. L. 117–347, title IV, § 404, Jan. 5, 2023, 136 Stat. 6208.)
+(Pub. L. 106–386, div. A, § 105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, § 6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, § 104(a), title II, § 205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§ 101, 102, title II, § 231, title III, § 304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, § 1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§ 1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144; Pub. L. 114–22, title VI, § 602, May 29, 2015, 129 Stat. 259; Pub. L. 115–392, §§ 16, 18(a), Dec. 21, 2018, 132 Stat. 5257, 5258; Pub. L. 115–425, title I, § 121(a), title II, § 201, Jan. 8, 2019, 132 Stat. 5478, 5482; Pub. L. 116–92, div. A, title IX, § 902(85), div. C, title XXXV, § 3562, div. F, title LXXI, § 7154(b), Dec. 20, 2019, 133 Stat. 1553, 2009, 2260; Pub. L. 117–347, title IV, § 404, Jan. 5, 2023, 136 Stat. 6208.)
 
 **Editorial Notes**
 
@@ -563,53 +563,53 @@ Not later than 90 days after December 19, 2003, the President shall promulgate r
 
 This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, § 213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
+Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, § 213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
 Sections 20702 and 20705 of title 34, referred to in subsec. (d)(7)(L), was in the original “sections 202 and 204 of the Trafficking Victims Protection Act of 2005”, and was translated as reading “sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005”, which enacted sections 20702 and 20705 of Title 34, Crime Control and Law Enforcement, to reflect the probable intent of Congress.
 
 Executive Order 13107, referred to in subsec. (d)(7)(N)(iii), is set out as a note under section 601 of Title 5, Government Organization and Employees.
 
-Section 20702(a) of title 34, referred to in subsec. (d)(7)(R), was amended generally by Pub. L. 113–4, title XII, § 1241(a), Mar. 7, 2013, 127 Stat. 149, and Pub. L. 115–393, title III, § 301(e)(1)(A), Dec. 21, 2018, 132 Stat. 5272, and, as so amended, sets out definitions for that section. Prior to amendment, section 20702(a) of title 34 related to grants made by the Secretary of Health and Human Services for assistance programs for victims of trafficking occurring within the United States.
+Section 20702(a) of title 34, referred to in subsec. (d)(7)(R), was amended generally by Pub. L. 113–4, title XII, § 1241(a), Mar. 7, 2013, 127 Stat. 149, and Pub. L. 115–393, title III, § 301(e)(1)(A), Dec. 21, 2018, 132 Stat. 5272, and, as so amended, sets out definitions for that section. Prior to amendment, section 20702(a) of title 34 related to grants made by the Secretary of Health and Human Services for assistance programs for victims of trafficking occurring within the United States.
 
 Executive Order No. 13257, referred to in subsec. (g)(2)(A), is set out as a note below.
 
 **Amendments**
 
-2023—Subsec. (d)(7)(Q)(vii). Pub. L. 117–347, § 404(1)(A), inserted “and” at end.
+2023—Subsec. (d)(7)(Q)(vii). Pub. L. 117–347, § 404(1)(A), inserted “and” at end.
 
-Subsec. (d)(7)(Q)(viii). Pub. L. 117–347, § 404(1)(B), struck out “and” at end.
+Subsec. (d)(7)(Q)(viii). Pub. L. 117–347, § 404(1)(B), struck out “and” at end.
 
-Subsec. (d)(7)(R). Pub. L. 117–347, § 404(2), struck out “and” at end.
+Subsec. (d)(7)(R). Pub. L. 117–347, § 404(2), struck out “and” at end.
 
-Subsec. (d)(7)(S). Pub. L. 117–347, § 404(3), substituted semicolon for period in subpar. (S) relating to tactics and strategies employed by human trafficking task forces.
+Subsec. (d)(7)(S). Pub. L. 117–347, § 404(3), substituted semicolon for period in subpar. (S) relating to tactics and strategies employed by human trafficking task forces.
 
-Subsec. (d)(7)(T). Pub. L. 117–347, § 404(4), (5), redesignated subpar. (S) relating to efforts of the United States to eliminate money laundering as (T) and substituted semicolon for period at end.
+Subsec. (d)(7)(T). Pub. L. 117–347, § 404(4), (5), redesignated subpar. (S) relating to efforts of the United States to eliminate money laundering as (T) and substituted semicolon for period at end.
 
-Subsec. (d)(7)(U), (V). Pub. L. 117–347, § 404(6), added subpars. (U) and (V).
+Subsec. (d)(7)(U), (V). Pub. L. 117–347, § 404(6), added subpars. (U) and (V).
 
-2019—Subsec. (b). Pub. L. 116–92, § 3562, inserted “the Secretary of Commerce,” after “the Secretary of Education,”.
+2019—Subsec. (b). Pub. L. 116–92, § 3562, inserted “the Secretary of Commerce,” after “the Secretary of Education,”.
 
-Pub. L. 115–425, § 201, inserted “the Secretary of the Treasury, the United States Trade Representative,” after “the Secretary of Education,”.
+Pub. L. 115–425, § 201, inserted “the Secretary of the Treasury, the United States Trade Representative,” after “the Secretary of Education,”.
 
-Subsec. (d)(7). Pub. L. 116–92, § 7154(b)(1), inserted “the Committee on Financial Services,” after “the Committee on Foreign Affairs” and “the Committee on Banking, Housing, and Urban Affairs,” after “the Committee on Foreign Relations,” in introductory provisions.
+Subsec. (d)(7). Pub. L. 116–92, § 7154(b)(1), inserted “the Committee on Financial Services,” after “the Committee on Foreign Affairs” and “the Committee on Banking, Housing, and Urban Affairs,” after “the Committee on Foreign Relations,” in introductory provisions.
 
-Subsec. (d)(7)(M)(v). Pub. L. 116–92, § 902(85), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (d)(7)(M)(v). Pub. L. 116–92, § 902(85), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (d)(7)(Q)(vii), (R). Pub. L. 116–92, § 7154(b)(2), (3), which directed amendment of subpar. (Q)(vii) by substituting a semicolon for “; and” and subpar. (R) by substituting “; and” for the period at the end, could not be executed because of the intervening amendments by Pub. L. 115–425, § 121(a)(1), (2), made in the course of adding the first subpar. (S). See below.
+Subsec. (d)(7)(Q)(vii), (R). Pub. L. 116–92, § 7154(b)(2), (3), which directed amendment of subpar. (Q)(vii) by substituting a semicolon for “; and” and subpar. (R) by substituting “; and” for the period at the end, could not be executed because of the intervening amendments by Pub. L. 115–425, § 121(a)(1), (2), made in the course of adding the first subpar. (S). See below.
 
-Subsec. (d)(7)(S). Pub. L. 116–92, § 7154(b)(4), added subpar. (S) relating to efforts of the United States to eliminate money laundering.
+Subsec. (d)(7)(S). Pub. L. 116–92, § 7154(b)(4), added subpar. (S) relating to efforts of the United States to eliminate money laundering.
 
-Pub. L. 115–425, § 121(a), added subpar. (S) relating to tactics and strategies employed by human trafficking task forces.
+Pub. L. 115–425, § 121(a), added subpar. (S) relating to tactics and strategies employed by human trafficking task forces.
 
-2018—Subsec. (d)(3). Pub. L. 115–392, § 18(a), inserted “and providing an annual report on the case referrals received from the national human trafficking hotline by Federal departments and agencies” after “international trafficking” and “and reporting requirements” after “Any data collection procedures”.
+2018—Subsec. (d)(3). Pub. L. 115–392, § 18(a), inserted “and providing an annual report on the case referrals received from the national human trafficking hotline by Federal departments and agencies” after “international trafficking” and “and reporting requirements” after “Any data collection procedures”.
 
-Subsec. (d)(7)(Q)(viii). Pub. L. 115–392, § 16, added cl. (viii).
+Subsec. (d)(7)(Q)(viii). Pub. L. 115–392, § 16, added cl. (viii).
 
 2015—Subsec. (d)(7)(Q). Pub. L. 114–22 substituted “1590, 1591, 1592, 1594, 2251, 2251A, 2421, 2422, and 2423” for “1590, 1592, and 1594” in introductory provisions and added cls. (vi) and (vii).
 
-2013—Subsec. (d)(6). Pub. L. 113–4, § 1203(a), inserted “, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States” before period at end.
+2013—Subsec. (d)(6). Pub. L. 113–4, § 1203(a), inserted “, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States” before period at end.
 
-Subsec. (d)(7)(B) to (H). Pub. L. 113–4, § 1231(2), added subpars. (B) to (H) and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (d)(7)(B) to (H). Pub. L. 113–4, § 1231(2), added subpars. (B) to (H) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) the number of persons who have been granted continued presence in the United States under section 7105(c)(3) of this title during the preceding fiscal year;
 
@@ -619,55 +619,55 @@ Former subpars. (D) to (H) redesignated (I) to (M), respectively.
 
 Subsec. (d)(7)(H)(iii) to (v). Pub. L. 112–239 added cls. (iii) and (v) redesignated former cl. (iii) as (iv).
 
-Subsec. (d)(7)(I). Pub. L. 113–4, § 1231(1), redesignated subpar. (D) as (I). Former subpar. (I) redesignated (N).
+Subsec. (d)(7)(I). Pub. L. 113–4, § 1231(1), redesignated subpar. (D) as (I). Former subpar. (I) redesignated (N).
 
-Subsec. (d)(7)(J). Pub. L. 113–4, § 1231(1), redesignated subpar. (E) as (J). Former subpar. (J) redesignated (O).
+Subsec. (d)(7)(J). Pub. L. 113–4, § 1231(1), redesignated subpar. (E) as (J). Former subpar. (J) redesignated (O).
 
-Pub. L. 113–4, § 1201(1), substituted “subsection (g)” for “subsection (f) of this section”.
+Pub. L. 113–4, § 1201(1), substituted “subsection (g)” for “subsection (f) of this section”.
 
-Subsec. (d)(7)(K) to (O). Pub. L. 113–4, § 1231(1), redesignated subpars. (F) to (J) as (K) to (O), respectively.
+Subsec. (d)(7)(K) to (O). Pub. L. 113–4, § 1231(1), redesignated subpars. (F) to (J) as (K) to (O), respectively.
 
-Subsec. (d)(7)(P) to (R). Pub. L. 113–4, § 1231(3)–(5), added subpars. (P) to (R).
+Subsec. (d)(7)(P) to (R). Pub. L. 113–4, § 1231(3)–(5), added subpars. (P) to (R).
 
-Subsec. (e)(2). Pub. L. 113–4, § 1201(2), redesignated subpar. (B) and cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively, realigned margins, and struck out former par. (2) heading and subpar. (A) which related to coordination of certain activities against use of products or materials from victims of severe forms of trafficking and sexual exploitation.
+Subsec. (e)(2). Pub. L. 113–4, § 1201(2), redesignated subpar. (B) and cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively, realigned margins, and struck out former par. (2) heading and subpar. (A) which related to coordination of certain activities against use of products or materials from victims of severe forms of trafficking and sexual exploitation.
 
-Subsecs. (f), (g). Pub. L. 113–4, § 1201(3), (4), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 113–4, § 1201(3), (4), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2008—Subsec. (b). Pub. L. 110–457, § 101, inserted “the Secretary of Education,” after “the Secretary of Homeland Security,”.
+2008—Subsec. (b). Pub. L. 110–457, § 101, inserted “the Secretary of Education,” after “the Secretary of Homeland Security,”.
 
-Subsec. (d)(7). Pub. L. 110–457, § 304(a), substituted “Committee on Foreign Affairs” for “Committee on International Relations” in introductory provisions.
+Subsec. (d)(7). Pub. L. 110–457, § 304(a), substituted “Committee on Foreign Affairs” for “Committee on International Relations” in introductory provisions.
 
-Subsec. (d)(7)(A). Pub. L. 110–457, § 231(1), substituted “subsections (b) and (f) of section 7105 of this title” for “section 7105(b) of this title” and inserted “the Attorney General,” after “the Secretary of Labor,”.
+Subsec. (d)(7)(A). Pub. L. 110–457, § 231(1), substituted “subsections (b) and (f) of section 7105 of this title” for “section 7105(b) of this title” and inserted “the Attorney General,” after “the Secretary of Labor,”.
 
-Subsec. (d)(7)(H) to (J). Pub. L. 110–457, § 231(2)–(4), added subpars. (H) and (I) and redesignated former subpar. (H) as (J).
+Subsec. (d)(7)(H) to (J). Pub. L. 110–457, § 231(2)–(4), added subpars. (H) and (I) and redesignated former subpar. (H) as (J).
 
-Subsec. (e). Pub. L. 110–457, § 102, substituted “Office To Monitor and Combat Trafficking” for “Support for the Task Force” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “The Secretary of State shall” for “The Secretary of State is authorized to”, and added par. (2).
+Subsec. (e). Pub. L. 110–457, § 102, substituted “Office To Monitor and Combat Trafficking” for “Support for the Task Force” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “The Secretary of State shall” for “The Secretary of State is authorized to”, and added par. (2).
 
-2006—Subsec. (b). Pub. L. 109–164, § 104(a), substituted “the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security” for “the Director of Central Intelligence”.
+2006—Subsec. (b). Pub. L. 109–164, § 104(a), substituted “the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security” for “the Director of Central Intelligence”.
 
-Subsec. (d)(7)(G), (H). Pub. L. 109–164, § 205, added subpar. (G) and redesignated former subpar. (G) as (H).
+Subsec. (d)(7)(G), (H). Pub. L. 109–164, § 205, added subpar. (G) and redesignated former subpar. (G) as (H).
 
-2003—Subsec. (d)(7). Pub. L. 108–193, § 6(a)(1), added par. (7).
+2003—Subsec. (d)(7). Pub. L. 108–193, § 6(a)(1), added par. (7).
 
-Subsec. (e). Pub. L. 108–193, § 6(b)(1), inserted before period at end of second sentence “, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large”.
+Subsec. (e). Pub. L. 108–193, § 6(b)(1), inserted before period at end of second sentence “, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large”.
 
-Subsec. (f). Pub. L. 108–193, § 6(c)(1), added subsec. (f).
+Subsec. (f). Pub. L. 108–193, § 6(c)(1), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 108–193, § 6(b)(2), Dec. 19, 2003, 117 Stat. 2881, provided that: “The individual who holds the position of Director of the Office to Monitor and Combat Trafficking of the Department of State may continue to hold such position notwithstanding the amendment made by paragraph (1) [amending this section].”
+Pub. L. 108–193, § 6(b)(2), Dec. 19, 2003, 117 Stat. 2881, provided that: “The individual who holds the position of Director of the Office to Monitor and Combat Trafficking of the Department of State may continue to hold such position notwithstanding the amendment made by paragraph (1) [amending this section].”
 
 **Senior Policy Operating Group**
 
-Pub. L. 108–7, div. B, title IV, § 406, Feb. 20, 2003, 117 Stat. 92, required the Interagency Task Force to Monitor and Combat Trafficking to establish a Senior Policy Operating Group, prior to repeal by Pub. L. 108–193, § 6(c)(2), Dec. 19, 2003, 117 Stat. 2881. See subsec. (g) of this section.
+Pub. L. 108–7, div. B, title IV, § 406, Feb. 20, 2003, 117 Stat. 92, required the Interagency Task Force to Monitor and Combat Trafficking to establish a Senior Policy Operating Group, prior to repeal by Pub. L. 108–193, § 6(c)(2), Dec. 19, 2003, 117 Stat. 2881. See subsec. (g) of this section.
 
 **Executive Documents**
 
 **Ex. Ord. No. 13257. President’s Interagency Task Force To Monitor and Combat Trafficking in Persons**
 
-Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended by Ex. Ord. No. 13286, § 5, Feb. 28, 2003, 68 F.R. 10619; Ex. Ord. No. 13333, Mar. 18, 2004, 69 F.R. 13455, provided:
+Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended by Ex. Ord. No. 13286, § 5, Feb. 28, 2003, 68 F.R. 10619; Ex. Ord. No. 13333, Mar. 18, 2004, 69 F.R. 13455, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7101 *et seq*.) (the “Act”), and section 301 of title 3, United States Code, and in order to combat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
 
@@ -757,7 +757,7 @@ Sec. 8. *Judicial Review*. This order does not create any rights or benefits, en
 
 George W. Bush.
 
-## § 7103a. Creating, building, and strengthening partnerships against significant trafficking in persons
+## § 7103a. Creating, building, and strengthening partnerships against significant trafficking in persons
 
 **(a) Declaration of purpose** The purpose of this section is to promote collaboration and cooperation—
 
@@ -831,7 +831,7 @@ Assistance under this subsection may be provided in the form of grants, cooperat
 
 The Secretary may reinstate assistance for a country or entity suspended or terminated under this paragraph only if the Secretary determines that the country or entity has demonstrated a commitment to correcting each condition for which assistance was suspended or terminated under subparagraph (A).
 
-(Pub. L. 106–386, div. A, § 105A, as added Pub. L. 113–4, title XII, § 1202, Mar. 7, 2013, 127 Stat. 136.)
+(Pub. L. 106–386, div. A, § 105A, as added Pub. L. 113–4, title XII, § 1202, Mar. 7, 2013, 127 Stat. 136.)
 
 **Editorial Notes**
 
@@ -839,7 +839,7 @@ The Secretary may reinstate assistance for a country or entity suspended or term
 
 This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning the Trafficking Victims Protection Act of 2000, as indicated by the directory language of section 1202 of Pub. L. 113–4 which added this section. The Trafficking Victims Protection Act of 2000 is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of div. A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-## § 7103b. Survivors of Human Trafficking Empowerment Act
+## § 7103b. Survivors of Human Trafficking Empowerment Act
 
 **(a) Short title**
 
@@ -881,7 +881,7 @@ Each member of the Council shall serve for a term of 2 years and may be reappoin
 
 **(e) Reports** Not later than 1 year after May 29, 2015, and each year thereafter until the date described in subsection (h),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Council shall submit a report that contains the findings derived from the reviews conducted pursuant to subsection (d)(2) to—
 
@@ -905,15 +905,15 @@ the Council shall submit a report that contains the findings derived from the re
 
 The Council shall not be subject to the requirements under the Federal Advisory Committee Act (5 U.S.C. App.).<sup>1</sup>
 
-(Pub. L. 114–22, title I, § 115, May 29, 2015, 129 Stat. 243; Pub. L. 115–425, title I, § 114, Jan. 8, 2019, 132 Stat. 5477; Pub. L. 116–283, div. A, title XII, § 1299R(c)(1), (2), Jan. 1, 2021, 134 Stat. 4027; Pub. L. 117–348, title I, § 102, Jan. 5, 2023, 136 Stat. 6215.)
+(Pub. L. 114–22, title I, § 115, May 29, 2015, 129 Stat. 243; Pub. L. 115–425, title I, § 114, Jan. 8, 2019, 132 Stat. 5477; Pub. L. 116–283, div. A, title XII, § 1299R(c)(1), (2), Jan. 1, 2021, 134 Stat. 4027; Pub. L. 117–348, title I, § 102, Jan. 5, 2023, 136 Stat. 6215.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (h), referred to in subsec. (e), was struck out by Pub. L. 117–348, title I, § 102, Jan. 5, 2023, 136 Stat. 6215.
+Subsection (h), referred to in subsec. (e), was struck out by Pub. L. 117–348, title I, § 102, Jan. 5, 2023, 136 Stat. 6215.
 
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Codification**
 
@@ -923,21 +923,21 @@ Section was enacted as the Survivors of Human Trafficking Empowerment Act, and n
 
 2023—Subsec. (h). Pub. L. 117–348 struck out subsec. (h). Prior to amendment, text read as follows: “The Council shall terminate on September 30, 2025.”
 
-2021—Subsec. (f)(3). Pub. L. 116–283, § 1299R(c)(2), added par. (3).
+2021—Subsec. (f)(3). Pub. L. 116–283, § 1299R(c)(2), added par. (3).
 
-Subsec. (h). Pub. L. 116–283, § 1299R(c)(1), substituted “September 30, 2025” for “September 30, 2021”.
+Subsec. (h). Pub. L. 116–283, § 1299R(c)(1), substituted “September 30, 2025” for “September 30, 2021”.
 
-2019—Subsec. (f)(2). Pub. L. 115–425, § 114(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5.”
+2019—Subsec. (f)(2). Pub. L. 115–425, § 114(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5.”
 
-Subsec. (h). Pub. L. 115–425, § 114(2), substituted “2021” for “2020”.
+Subsec. (h). Pub. L. 115–425, § 114(2), substituted “2021” for “2020”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Severability**
 
-Pub. L. 117–348, title III, § 301, Jan. 5, 2023, 136 Stat. 6224, provided that: “If any provision of this Act [see Short Title of 2023 Amendment note set out under section 7101 of this title] or amendment made by this Act, or the application of such provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provision or amendment to any other person or circumstance, shall not be affected.”
+Pub. L. 117–348, title III, § 301, Jan. 5, 2023, 136 Stat. 6224, provided that: “If any provision of this Act [see Short Title of 2023 Amendment note set out under section 7101 of this title] or amendment made by this Act, or the application of such provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provision or amendment to any other person or circumstance, shall not be affected.”
 
-## § 7104. Prevention of trafficking
+## § 7104. Prevention of trafficking
 
 **(a) Economic alternatives to prevent and deter trafficking** The President shall establish and carry out international initiatives to enhance economic opportunity for potential victims of trafficking as a method to deter trafficking. Such initiatives may include—
 
@@ -971,9 +971,9 @@ The term “high-intensity child sex trafficking area” means a metropolitan ar
 
 **(iii) Labor trafficking**
 
-The term “labor trafficking” means conduct described in section 7102(9)(B) 1
+The term “labor trafficking” means conduct described in section 7102(9)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -983,7 +983,7 @@ The term “school staff” means teachers, nurses, school leaders and administr
 
 **(v) Sex trafficking**
 
-The term “sex trafficking” means the conduct described in section 7102(9)(A) <sup>1</sup> of this title.
+The term “sex trafficking” means the conduct described in section 7102(9)(A) <sup>1</sup> of this title.
 
 **(B) In general** The Secretary of Health and Human Services, in consultation with the Secretary of Education and the Secretary of Labor, may award grants to local educational agencies, in partnership with a nonprofit, nongovernmental agency, to establish, expand, and support programs—
 
@@ -1185,13 +1185,13 @@ The Secretary of State shall ensure that the Office to Monitor and Combat Traffi
 
 **(B)** the information included in the most recent report submitted in accordance with section 7107(b) of this title.
 
-(Pub. L. 106–386, div. A, § 106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, § 3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, § 101(a), title II, § 201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, § 103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, § 1702, Jan. 2, 2013, 126 Stat. 2093; Pub. L. 113–4, title XII, § 1207(a), Mar. 7, 2013, 127 Stat. 141; Pub. L. 115–425, title I, §§ 101(a), 112, Jan. 8, 2019, 132 Stat. 5473, 5476; Pub. L. 115–427, § 4, Jan. 9, 2019, 132 Stat. 5504; Pub. L. 116–283, div. A, title XII, § 1299R(d)(1), Jan. 1, 2021, 134 Stat. 4027.)
+(Pub. L. 106–386, div. A, § 106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, § 3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, § 101(a), title II, § 201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, § 103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, § 1702, Jan. 2, 2013, 126 Stat. 2093; Pub. L. 113–4, title XII, § 1207(a), Mar. 7, 2013, 127 Stat. 141; Pub. L. 115–425, title I, §§ 101(a), 112, Jan. 8, 2019, 132 Stat. 5473, 5476; Pub. L. 115–427, § 4, Jan. 9, 2019, 132 Stat. 5504; Pub. L. 116–283, div. A, title XII, § 1299R(d)(1), Jan. 1, 2021, 134 Stat. 4027.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7102(9) of this title, referred to in subsec. (b)(2)(A)(iii), (v), was redesignated section 7102(11) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(9) of this title, referred to in subsec. (b)(2)(A)(iii), (v), was redesignated section 7102(11) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 Title XVII of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (k)(1)(A)(ii), is title XVII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2092. For complete classification of title XVII to the Code, see Tables.
 
@@ -1199,21 +1199,21 @@ Title XVII of the National Defense Authorization Act for Fiscal Year 2013, refer
 
 2021—Subsec. (*l*). Pub. L. 116–283 added subsec. (*l*).
 
-2019—Subsec. (b). Pub. L. 115–425, § 101(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2019—Subsec. (b). Pub. L. 115–425, § 101(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (g)(1) to (4). Pub. L. 115–427, § 4(1), redesignated cls. (i) to (iv) as pars. (1) to (4), respectively, and realigned margins.
+Subsec. (g)(1) to (4). Pub. L. 115–427, § 4(1), redesignated cls. (i) to (iv) as pars. (1) to (4), respectively, and realigned margins.
 
 Subsec. (g)(4)(A). Pub. L. 115–427, §4(2)(A), redesignated subcl. (I) as subpar. (A) and realigned margins.
 
-Subsec. (g)(4)(B). Pub. L. 115–427, § 4(2)(A), (B), redesignated subcl. (II) as subpar. (B), realigned margins, and redesignated items (aa) and (bb) as cls. (i) and (ii), respectively, and realigned margins.
+Subsec. (g)(4)(B). Pub. L. 115–427, § 4(2)(A), (B), redesignated subcl. (II) as subpar. (B), realigned margins, and redesignated items (aa) and (bb) as cls. (i) and (ii), respectively, and realigned margins.
 
-Subsec. (g)(4)(C). Pub. L. 115–427, § 4(2)(A), redesignated subcl. (III) as subpar. (C) and realigned margins.
+Subsec. (g)(4)(C). Pub. L. 115–427, § 4(2)(A), redesignated subcl. (III) as subpar. (C) and realigned margins.
 
-Subsec. (g)(4)(D). Pub. L. 115–427, § 4(2)(A), (C), redesignated subcl. (IV) as subpar. (D), realigned margins, and substituted “placement or recruitment fees.” for “unreasonable placement or recruitment fees, such as fees equal to or greater than the employee’s monthly salary, or recruitment fees that violate the laws of the country from which an employee is recruited.”
+Subsec. (g)(4)(D). Pub. L. 115–427, § 4(2)(A), (C), redesignated subcl. (IV) as subpar. (D), realigned margins, and substituted “placement or recruitment fees.” for “unreasonable placement or recruitment fees, such as fees equal to or greater than the employee’s monthly salary, or recruitment fees that violate the laws of the country from which an employee is recruited.”
 
-Subsec. (g)(4)(E). Pub. L. 115–427, § 4(2)(A), redesignated subcl. (V) as subpar. (E) and realigned margins.
+Subsec. (g)(4)(E). Pub. L. 115–427, § 4(2)(A), redesignated subcl. (V) as subpar. (E) and realigned margins.
 
-Subsec. (k). Pub. L. 115–425, § 112, added subsec. (k).
+Subsec. (k). Pub. L. 115–425, § 112, added subsec. (k).
 
 2013—Subsec. (g). Pub. L. 112–239 substituted “or take any of the other remedial actions authorized under section 7104b(c) of this title, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—” and cls. (i) to (iv) for “without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement.”
 
@@ -1221,13 +1221,13 @@ Subsec. (j). Pub. L. 113–4 added subsec. (j).
 
 2008—Subsec. (i). Pub. L. 110–457 added subsec. (i).
 
-2006—Subsec. (g). Pub. L. 109–164, § 201(b), struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
+2006—Subsec. (g). Pub. L. 109–164, § 201(b), struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
 
-Subsec. (h). Pub. L. 109–164, § 101(a), added subsec. (h).
+Subsec. (h). Pub. L. 109–164, § 101(a), added subsec. (h).
 
-2003—Subsecs. (c) to (f). Pub. L. 108–193, § 3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
+2003—Subsecs. (c) to (f). Pub. L. 108–193, § 3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
 
-Subsec. (g). Pub. L. 108–193, § 3(b), added subsec. (g).
+Subsec. (g). Pub. L. 108–193, § 3(b), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1243,7 +1243,7 @@ Requirements of amendment by Pub. L. 112–239 applicable to grants, contracts, 
 
 **Annual Reports to Congress on Human Trafficking-Related Visa Denials**
 
-Pub. L. 116–283, div. A, title XII, § 1299R(e), (f), Jan. 1, 2021, 134 Stat. 4028, provided that:
+Pub. L. 116–283, div. A, title XII, § 1299R(e), (f), Jan. 1, 2021, 134 Stat. 4028, provided that:
 
 > **“(e) Reports to Congress.—**
 
@@ -1275,7 +1275,7 @@ Pub. L. 116–283, div. A, title XII, § 1299R(e), (f), Jan. 1, 2021, 134 Stat
 
 For delegation of functions of President under this section, see section 5 of Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
 
-## § 7104a. Compliance plan and certification requirement
+## § 7104a. Compliance plan and certification requirement
 
 **(a) Requirement** The head of an executive agency may not provide or enter into a grant, contract, or cooperative agreement if the estimated value of the services required to be performed under the grant, contract, or cooperative agreement outside the United States exceeds $500,000, unless a duly designated representative of the recipient of such grant, contract, or cooperative agreement certifies to the contracting or grant officer prior to receiving an award and on an annual basis thereafter, after having conducted due diligence, that—
 
@@ -1297,7 +1297,7 @@ The recipient shall provide a copy of the plan to the contracting or grant offic
 
 The President, in consultation with the Secretary of State, the Attorney General, the Secretary of Defense, the Secretary of Labor, the Secretary of Homeland Security, the Administrator for the United States Agency for International Development, and the heads of such other executive agencies as the President deems appropriate, shall establish minimum requirements for contractor plans and procedures to be implemented pursuant to this section.
 
-(Pub. L. 112–239, div. A, title XVII, § 1703, Jan. 2, 2013, 126 Stat. 2094.)
+(Pub. L. 112–239, div. A, title XVII, § 1703, Jan. 2, 2013, 126 Stat. 2094.)
 
 **Editorial Notes**
 
@@ -1317,9 +1317,9 @@ Requirements of section applicable to grants, contracts, and cooperative agreeme
 
 **Definitions**
 
-Pub. L. 112–239, div. A, title XVII, § 1701, Jan. 2, 2013, 126 Stat. 2092, provided that:
+Pub. L. 112–239, div. A, title XVII, § 1701, Jan. 2, 2013, 126 Stat. 2092, provided that:
 
-> “In this title [title XVII (§§ 1701–1708) of div. A of Pub. L. 112–239, enacting this section and sections 7104b to 7104d of this title, amending sections 7103 and 7104 of this title, section 1351 of Title 18, Crimes and Criminal Procedure, and section 2313 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1101 of Title 8, Aliens and Nationality]:
+> “In this title [title XVII (§§ 1701–1708) of div. A of Pub. L. 112–239, enacting this section and sections 7104b to 7104d of this title, amending sections 7103 and 7104 of this title, section 1351 of Title 18, Crimes and Criminal Procedure, and section 2313 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1101 of Title 8, Aliens and Nationality]:
 
 > **“(1) Executive agency.—** The term ‘executive agency’ has the meaning given the term in section 133 of title 41, United States Code.
 
@@ -1329,7 +1329,7 @@ Pub. L. 112–239, div. A, title XVII, § 1701, Jan. 2, 2013, 126 Stat. 2092, 
 
 > **“(4) United states.—** The term ‘United States’ has the meaning provided in section 103(12) [now 103(15)] of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(12) [now 7102(15)]).”
 
-## § 7104b. Monitoring and investigation of trafficking in persons
+## § 7104b. Monitoring and investigation of trafficking in persons
 
 **(a) Referral and investigation**
 
@@ -1385,7 +1385,7 @@ The head of an executive agency shall ensure that any substantiated allegation i
 
 **(2) Omitted**
 
-(Pub. L. 112–239, div. A, title XVII, § 1704, Jan. 2, 2013, 126 Stat. 2094; Pub. L. 117–211, § 2(a), Oct. 17, 2022, 136 Stat. 2248.)
+(Pub. L. 112–239, div. A, title XVII, § 1704, Jan. 2, 2013, 126 Stat. 2094; Pub. L. 117–211, § 2(a), Oct. 17, 2022, 136 Stat. 2248.)
 
 **Editorial Notes**
 
@@ -1401,9 +1401,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **Amendments**
 
-2022—Subsec. (c)(1). Pub. L. 117–211, § 2(a)(1), which directed insertion of “refer the matter to the agency suspension and debarment official and” before “consider taking one of the following actions”, was executed in introductory provisions by making the insertion before “consider taking one or more of the following remedial actions” to reflect the probable intent of Congress.
+2022—Subsec. (c)(1). Pub. L. 117–211, § 2(a)(1), which directed insertion of “refer the matter to the agency suspension and debarment official and” before “consider taking one of the following actions”, was executed in introductory provisions by making the insertion before “consider taking one or more of the following remedial actions” to reflect the probable intent of Congress.
 
-Subsec. (c)(1)(G). Pub. L. 117–211, § 2(a)(2), struck out subpar. (G) which read as follows: “Referring the matter to the agency suspension and debarment official.”
+Subsec. (c)(1)(G). Pub. L. 117–211, § 2(a)(2), struck out subpar. (G) which read as follows: “Referring the matter to the agency suspension and debarment official.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1411,7 +1411,7 @@ Subsec. (c)(1)(G). Pub. L. 117–211, § 2(a)(2), struck out subpar. (G) which
 
 Requirements of subsec. (c) and second sentence of subsec. (a)(1) of this section applicable to grants, contracts, and cooperative agreements entered into on or after the date that is 270 days after Jan. 2, 2013, and to task and delivery orders awarded on or after Jan. 2, 2013, pursuant to contracts entered before, on, or after such date, see section 7104d(c)(1)(B) of this title.
 
-## § 7104c. Notification to Inspectors General and cooperation with government
+## § 7104c. Notification to Inspectors General and cooperation with government
 
 The head of an executive agency making or awarding a grant, contract, or cooperative agreement shall require that the recipient of the grant, contract, or cooperative agreement—
 
@@ -1419,7 +1419,7 @@ The head of an executive agency making or awarding a grant, contract, or coopera
 
 **(2)** fully cooperate with any Federal agencies responsible for audits, investigations, or corrective actions relating to trafficking in persons.
 
-(Pub. L. 112–239, div. A, title XVII, § 1705, Jan. 2, 2013, 126 Stat. 2097.)
+(Pub. L. 112–239, div. A, title XVII, § 1705, Jan. 2, 2013, 126 Stat. 2097.)
 
 **Editorial Notes**
 
@@ -1431,7 +1431,7 @@ Section 7104(g) of this title, as amended by section 1702 of this Act, referred 
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
 
-## § 7104d. Rules of construction; effective date
+## § 7104d. Rules of construction; effective date
 
 **(a) Liability**
 
@@ -1457,7 +1457,7 @@ Federal agencies shall implement the requirements of sections 1704, 1705, and 17
 
 The amendments made by section 1706 shall take effect upon the date of enactment and shall apply to conduct taking place on or after such date.
 
-(Pub. L. 112–239, div. A, title XVII, § 1708, Jan. 2, 2013, 126 Stat. 2098.)
+(Pub. L. 112–239, div. A, title XVII, § 1708, Jan. 2, 2013, 126 Stat. 2098.)
 
 **Editorial Notes**
 
@@ -1485,13 +1485,13 @@ The date of enactment, referred to in subsec. (c)(3), probably means the date of
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
 
-## § 7104e. Preventing future trafficking in the United States through receipt of complaints abroad
+## § 7104e. Preventing future trafficking in the United States through receipt of complaints abroad
 
 **(a) In general** The Secretary of State shall ensure that each diplomatic or consular post or other mission designates an employee to be responsible for receiving information from—
 
-**(1)** any person who was a victim of a severe form of trafficking in persons (as such term is defined in section 7102(14) 1
+**(1)** any person who was a victim of a severe form of trafficking in persons (as such term is defined in section 7102(14) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) while present in the United States; or
 
@@ -1505,19 +1505,19 @@ Any information received pursuant to subsection (a) shall be transmitted to the 
 
 The employee designated for receiving information pursuant to subsection (a) should coordinate with foreign governments or civil society organizations in the countries of origin of victims of severe forms of trafficking in persons, with the permission of and without compromising the safety of such victims, to ensure that such victims receive any additional support available.
 
-(Pub. L. 115–425, title I, § 102, Jan. 8, 2019, 132 Stat. 5474.)
+(Pub. L. 115–425, title I, § 102, Jan. 8, 2019, 132 Stat. 5474.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7102(14) of this title, referred to in subsec. (a)(1), was redesignated section 7102(16) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(14) of this title, referred to in subsec. (a)(1), was redesignated section 7102(16) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Codification**
 
 Section was enacted as part of the Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2018, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
 
-## § 7105. Protection and assistance for victims of trafficking
+## § 7105. Protection and assistance for victims of trafficking
 
 **(a) Assistance for victims in other countries**
 
@@ -1575,7 +1575,7 @@ Subject to subparagraph (C) and, in the case of nonentitlement programs, to the 
 
 **(II)** who is the subject of a certification under subparagraph (E).
 
-**(D) Repealed. Pub. L. 108–193, § 6(a)(2), Dec. 19, 2003, 117 Stat. 2880**
+**(D) Repealed. Pub. L. 108–193, § 6(a)(2), Dec. 19, 2003, 117 Stat. 2880**
 
 **(E) Certification**
 
@@ -1633,9 +1633,9 @@ Before the expiration of the period for interim assistance under clause (iii), t
 
 **(II) Consultation**
 
-In making a determination under subclause (I), the Secretary shall consult with the Attorney General, the Secretary of Homeland Security, and nongovernmental organizations with expertise on victims of severe form 1
+In making a determination under subclause (I), the Secretary shall consult with the Attorney General, the Secretary of Homeland Security, and nongovernmental organizations with expertise on victims of severe form 1
 
-<sup>1</sup>  So in original. Probably should be “forms”.
+<sup>1</sup> So in original. Probably should be “forms”.
 
 of trafficking.
 
@@ -1739,9 +1739,9 @@ Law enforcement officials may submit written requests to the Secretary of Homela
 
 **(A) In general**
 
-Appropriate personnel of the Department of State, including members of the Service (as such term is defined in section 3903 of this title), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims in order to fulfill the purposes described in section 20708 2
+Appropriate personnel of the Department of State, including members of the Service (as such term is defined in section 3903 of this title), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims in order to fulfill the purposes described in section 20708 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 34.
 
@@ -1771,7 +1771,7 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e), for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien’s admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
 
-**(f) 3 [footnote: 3 So in original. Two subsecs. (f) have been enacted.] Assistance for United States citizens and lawful permanent residents**
+**(f) 3 [footnote: 3 So in original. Two subsecs. (f) have been enacted.] Assistance for United States citizens and lawful permanent residents**
 
 **(1) In general**
 
@@ -1801,7 +1801,7 @@ The Federal share of a grant awarded under this paragraph may not exceed 75 perc
 
 On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e), or who were unable to adjust their status under section 1255(*l*) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(*o*)(2) or 1255(*l*)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, § 107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, § 682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§ 4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, § 804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, § 102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 109–164, title II, § 213(c), formerly Pub. L. 115–393, title V, § 501(c), Dec. 21, 2018, 132 Stat. 5276, renumbered § 213(c) of Pub. L. 109–164 by Pub. L. 117–347, title I, § 106(b)(3), Jan. 5, 2023, 136 Stat. 6205; Pub. L. 110–457, title I, § 104, title II, §§ 205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§ 1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, § 102, title II, §§ 224, 231, title VI, § 603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, § 1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, § 18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, § 302, Dec. 21, 2018, 132 Stat. 5272; Pub. L. 115–425, title I, § 103, Jan. 8, 2019, 132 Stat. 5475; Pub. L. 117–301, § 2, Dec. 27, 2022, 136 Stat. 4382; Pub. L. 117–347, title I, § 101(b), Jan. 5, 2023, 136 Stat. 6200; Pub. L. 118–42, div. C, title V, § 545, Mar. 9, 2024, 138 Stat. 178.)
+(Pub. L. 106–386, div. A, § 107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, § 682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§ 4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, § 804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, § 102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 109–164, title II, § 213(c), formerly Pub. L. 115–393, title V, § 501(c), Dec. 21, 2018, 132 Stat. 5276, renumbered § 213(c) of Pub. L. 109–164 by Pub. L. 117–347, title I, § 106(b)(3), Jan. 5, 2023, 136 Stat. 6205; Pub. L. 110–457, title I, § 104, title II, §§ 205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§ 1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, § 102, title II, §§ 224, 231, title VI, § 603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, § 1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, § 18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, § 302, Dec. 21, 2018, 132 Stat. 5272; Pub. L. 115–425, title I, § 103, Jan. 8, 2019, 132 Stat. 5475; Pub. L. 117–301, § 2, Dec. 27, 2022, 136 Stat. 4382; Pub. L. 117–347, title I, § 101(b), Jan. 5, 2023, 136 Stat. 6200; Pub. L. 118–42, div. C, title V, § 545, Mar. 9, 2024, 138 Stat. 178.)
 
 **Editorial Notes**
 
@@ -1809,9 +1809,9 @@ On or before October 31 of each year, the Secretary of Homeland Security shall s
 
 Section 1101(a)(15)(T)(ii) of title 8, referred to in subsec. (b)(1)(A), (B), was in the original “section 101(a)(15)(T)(ii)”, and was translated as meaning section 101(a)(15)(T)(ii) of the Immigration and Nationality Act, act June 27, 1952, ch. 477, which is classified to section 1101(a)(15)(T)(ii) of title 8, to reflect the probable intent of Congress. Section 101 of Pub. L. 106–386 does not contain a subsec. (a)(15)(T)(ii), and section 101(a)(15)(T)(ii) of the Immigration and Nationality Act describes certain nonimmigrant aliens.
 
-The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(1)(A), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§ 1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(1)(A), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§ 1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
-Section 7102(8) of this title as in effect on October 28, 2000, referred to in subsec. (b)(1)(C)(i), means section 7102(8) of this title prior to the amendments made by Pub. L. 113–4, title XII, § 1212(b)(1)(A), Mar. 7, 2013, 127 Stat. 143, and Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503. As amended, par. (8) of section 7102 of this title was redesignated as par. (11).
+Section 7102(8) of this title as in effect on October 28, 2000, referred to in subsec. (b)(1)(C)(i), means section 7102(8) of this title prior to the amendments made by Pub. L. 113–4, title XII, § 1212(b)(1)(A), Mar. 7, 2013, 127 Stat. 143, and Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503. As amended, par. (8) of section 7102 of this title was redesignated as par. (11).
 
 Section 20708 of title 34, referred to in subsec. (c)(4)(A), was in the original a reference to section 111 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, Pub. L. 109–162. Section 111 of Pub. L. 109–162 was redesignated as section 208 of the Trafficking Victims Protection Reauthorization Act of 2005, Pub. L. 109–164, and is classified to section 20708 of Title 34, Crime Control and Law Enforcement.
 
@@ -1827,7 +1827,7 @@ Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) o
 
 2024—Subsec. (b)(2)(C). Pub. L. 118–42 substituted “total project cost. In general, this project match requirement may be satisfied by contributions or expenditures committed to improve victim support services that promote victim recovery and reintegration into society, provided that these contributions and expenditures are consistent with applicable grant requirements and approved project scope” for “total costs of the projects described in the application submitted”.
 
-2023—Subsec. (c)(4)(A). Pub. L. 117–347, § 101(b), inserted “in order to fulfill the purposes described in section 20708 of title 34” before period at end.
+2023—Subsec. (c)(4)(A). Pub. L. 117–347, § 101(b), inserted “in order to fulfill the purposes described in section 20708 of title 34” before period at end.
 
 2022—Subsec. (b)(1)(B)(ii). Pub. L. 117–301 substituted “The contact information of the national human trafficking hotline (including options to reach out to the hotline such as through phone, text, or TTY) shall be posted as follows:” and subcls. (I) to (III) for “The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.”
 
@@ -1835,71 +1835,71 @@ Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) o
 
 2018—Subsec. (b)(1)(B)(ii). Pub. L. 115–392 inserted at end “The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.”
 
-Subsec. (b)(2)(D). Pub. L. 115–393, § 302, added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 115–393, § 302, added subpar. (D).
 
-Subsec. (c)(4)(B)(iv). Pub. L. 109–164, § 213(c), formerly Pub. L. 115–393, § 501(c), as renumbered by Pub. L. 117–347, § 101(b), added cl. (iv).
+Subsec. (c)(4)(B)(iv). Pub. L. 109–164, § 213(c), formerly Pub. L. 115–393, § 501(c), as renumbered by Pub. L. 117–347, § 101(b), added cl. (iv).
 
-2016—Subsec. (b)(1)(B). Pub. L. 114–271, § 1(b), amended directory language of Pub. L. 114–22, § 603. See 2015 Amendment note below.
+2016—Subsec. (b)(1)(B). Pub. L. 114–271, § 1(b), amended directory language of Pub. L. 114–22, § 603. See 2015 Amendment note below.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 114–271, § 1(a), struck out “of amounts made available for grants under paragraph (2),” before “the Secretary of Health and Human Services shall make grants”.
+Subsec. (b)(1)(B)(ii). Pub. L. 114–271, § 1(a), struck out “of amounts made available for grants under paragraph (2),” before “the Secretary of Health and Human Services shall make grants”.
 
-2015—Subsec. (b)(1)(B). Pub. L. 114–22, § 603, as amended by Pub. L. 114–271, § 1(b), designated existing provisions as cl. (i) and inserted heading and added cl. (ii).
+2015—Subsec. (b)(1)(B). Pub. L. 114–22, § 603, as amended by Pub. L. 114–271, § 1(b), designated existing provisions as cl. (i) and inserted heading and added cl. (ii).
 
-Subsec. (b)(1)(F) to (H). Pub. L. 114–22, § 102, added subpar. (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and, in subpar. (H), substituted “subparagraph (G)” for “subparagraph (F)”.
+Subsec. (b)(1)(F) to (H). Pub. L. 114–22, § 102, added subpar. (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and, in subpar. (H), substituted “subparagraph (G)” for “subparagraph (F)”.
 
-Subsec. (b)(2)(A). Pub. L. 114–22, § 224, inserted “, including programs that provide housing to victims of trafficking” before period at end.
+Subsec. (b)(2)(A). Pub. L. 114–22, § 224, inserted “, including programs that provide housing to victims of trafficking” before period at end.
 
-Subsec. (c)(4). Pub. L. 114–22, § 231, designated existing provisions as subpar. (A) and inserted heading, inserted “, including members of the Service (as such term is defined in section 3903 of this title)” after “Department of State”, and added subpar. (B). Amendment was executed to this section, which is section 107 of the Trafficking Victims Protection Act of 2000, to reflect the probable intent of Congress, notwithstanding directory language purporting to amend section 105 of such Act, which is classified to section 7103 of this title and does not contain a subsec. (c)(4).
+Subsec. (c)(4). Pub. L. 114–22, § 231, designated existing provisions as subpar. (A) and inserted heading, inserted “, including members of the Service (as such term is defined in section 3903 of this title)” after “Department of State”, and added subpar. (B). Amendment was executed to this section, which is section 107 of the Trafficking Victims Protection Act of 2000, to reflect the probable intent of Congress, notwithstanding directory language purporting to amend section 105 of such Act, which is classified to section 7103 of this title and does not contain a subsec. (c)(4).
 
-2013—Subsec. (a)(2). Pub. L. 113–4, § 1203(b), inserted “and shall brief Congress annually on such efforts” before period at end.
+2013—Subsec. (a)(2). Pub. L. 113–4, § 1203(b), inserted “and shall brief Congress annually on such efforts” before period at end.
 
-Subsec. (c)(4). Pub. L. 113–4, § 1234, inserted “the Department of Labor, the Equal Employment Opportunity Commission,” before “and the Department of Justice” in first sentence, and “, in consultation with the Secretary of Labor,” before “shall provide training” in second sentence.
+Subsec. (c)(4). Pub. L. 113–4, § 1234, inserted “the Department of Labor, the Equal Employment Opportunity Commission,” before “and the Department of Justice” in first sentence, and “, in consultation with the Secretary of Labor,” before “shall provide training” in second sentence.
 
-2008—Subsec. (a)(1). Pub. L. 110–457, § 104(1)(A), inserted “, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons” after “as identified by the Task Force” in introductory provisions.
+2008—Subsec. (a)(1). Pub. L. 110–457, § 104(1)(A), inserted “, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons” after “as identified by the Task Force” in introductory provisions.
 
-Subsec. (a)(1)(F). Pub. L. 110–457, § 104(1)(B), added subpar. (F).
+Subsec. (a)(1)(F). Pub. L. 110–457, § 104(1)(B), added subpar. (F).
 
-Subsec. (a)(2). Pub. L. 110–457, § 104(2), inserted at end “In carrying out this paragraph, the Secretary and the Administrator shall take all appropriate steps to ensure that cooperative efforts among foreign countries are undertaken on a regional basis.”
+Subsec. (a)(2). Pub. L. 110–457, § 104(2), inserted at end “In carrying out this paragraph, the Secretary and the Administrator shall take all appropriate steps to ensure that cooperative efforts among foreign countries are undertaken on a regional basis.”
 
-Subsec. (b)(1)(E)(i)(I). Pub. L. 110–457, § 212(a)(1), inserted “or is unable to cooperate with such a request due to physical or psychological trauma” before semicolon.
+Subsec. (b)(1)(E)(i)(I). Pub. L. 110–457, § 212(a)(1), inserted “or is unable to cooperate with such a request due to physical or psychological trauma” before semicolon.
 
-Subsec. (b)(1)(F), (G). Pub. L. 110–457, § 212(a)(2), added subpars. (F) and (G).
+Subsec. (b)(1)(F), (G). Pub. L. 110–457, § 212(a)(2), added subpars. (F) and (G).
 
-Subsec. (b)(2)(B)(ii). Pub. L. 110–457, § 213(a)(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “two percent for training and technical assistance; and”.
+Subsec. (b)(2)(B)(ii). Pub. L. 110–457, § 213(a)(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “two percent for training and technical assistance; and”.
 
-Subsec. (c)(3). Pub. L. 110–457, § 205(a)(1), amended par. (3) generally. Prior to amendment, text read as follows: “Federal law enforcement officials may permit an alien individual’s continued presence in the United States, if after an assessment, it is determined that such individual is a victim of a severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates.”
+Subsec. (c)(3). Pub. L. 110–457, § 205(a)(1), amended par. (3) generally. Prior to amendment, text read as follows: “Federal law enforcement officials may permit an alien individual’s continued presence in the United States, if after an assessment, it is determined that such individual is a victim of a severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates.”
 
-Subsec. (c)(4). Pub. L. 110–457, § 212(b), inserted “, the Department of Homeland Security, the Department of Health and Human Services,” before “and the Department of Justice” and “, including juvenile victims. The Attorney General and the Secretary of Health and Human Services shall provide training to State and local officials to improve the identification and protection of such victims” before period at end.
+Subsec. (c)(4). Pub. L. 110–457, § 212(b), inserted “, the Department of Homeland Security, the Department of Health and Human Services,” before “and the Department of Justice” and “, including juvenile victims. The Attorney General and the Secretary of Health and Human Services shall provide training to State and local officials to improve the identification and protection of such victims” before period at end.
 
-Subsec. (f). Pub. L. 110–457, § 213(a)(1), added subsec. (f) relating to assistance for United States citizens and lawful permanent residents.
+Subsec. (f). Pub. L. 110–457, § 213(a)(1), added subsec. (f) relating to assistance for United States citizens and lawful permanent residents.
 
-2006—Subsec. (b)(1)(E). Pub. L. 109–162, § 804(b)(1), (2), which directed amendment of cl. (i) by inserting “and the Secretary of Homeland Security” after “Attorney General” in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting “Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, § 804(a)(1). See below.
+2006—Subsec. (b)(1)(E). Pub. L. 109–162, § 804(b)(1), (2), which directed amendment of cl. (i) by inserting “and the Secretary of Homeland Security” after “Attorney General” in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting “Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, § 804(a)(1). See below.
 
-Pub. L. 109–162, § 804(a)(1), substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing.
+Pub. L. 109–162, § 804(a)(1), substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing.
 
-Subsec. (b)(1)(E)(iii)(IV). Pub. L. 109–162, § 804(b)(3), added subcl. (IV).
+Subsec. (b)(1)(E)(iii)(IV). Pub. L. 109–162, § 804(b)(3), added subcl. (IV).
 
-Subsec. (c). Pub. L. 109–162, § 804(a)(2), inserted “, the Secretary of Homeland Security” after “Attorney General” in introductory provisions.
+Subsec. (c). Pub. L. 109–162, § 804(a)(2), inserted “, the Secretary of Homeland Security” after “Attorney General” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 109–164 inserted at end “To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-trafficking programs that provide services to victims of severe forms of trafficking.”
 
-Subsec. (e)(5). Pub. L. 109–162, § 804(a)(1), (c), made identical amendments, substituting “Secretary of Homeland Security” for “Attorney General” in two places.
+Subsec. (e)(5). Pub. L. 109–162, § 804(a)(1), (c), made identical amendments, substituting “Secretary of Homeland Security” for “Attorney General” in two places.
 
-Subsec. (g). Pub. L. 109–162, § 804(d), which directed the insertion of “or the Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, § 804(a)(1). See below.
+Subsec. (g). Pub. L. 109–162, § 804(d), which directed the insertion of “or the Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, § 804(a)(1). See below.
 
-Pub. L. 109–162, § 804(a)(1) substituted “Secretary of Homeland Security” for “Attorney General”.
+Pub. L. 109–162, § 804(a)(1) substituted “Secretary of Homeland Security” for “Attorney General”.
 
-2003—Subsec. (a)(1)(B). Pub. L. 108–193, § 4(a)(1), inserted before period at end “, and by facilitating contact between relevant foreign government agencies and such nongovernmental organizations to facilitate cooperation between the foreign governments and such organizations”.
+2003—Subsec. (a)(1)(B). Pub. L. 108–193, § 4(a)(1), inserted before period at end “, and by facilitating contact between relevant foreign government agencies and such nongovernmental organizations to facilitate cooperation between the foreign governments and such organizations”.
 
-Subsec. (b)(1)(A). Pub. L. 108–193, § 4(a)(2)(A), inserted “, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8,” after “in persons”.
+Subsec. (b)(1)(A). Pub. L. 108–193, § 4(a)(2)(A), inserted “, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8,” after “in persons”.
 
-Subsec. (b)(1)(B). Pub. L. 108–193, § 4(a)(2)(B), inserted “and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8,” after “United States,” and inserted sentence at end relating to nonentitlement programs funded by the Secretary of Health and Human Services.
+Subsec. (b)(1)(B). Pub. L. 108–193, § 4(a)(2)(B), inserted “and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8,” after “United States,” and inserted sentence at end relating to nonentitlement programs funded by the Secretary of Health and Human Services.
 
-Subsec. (b)(1)(D). Pub. L. 108–193, § 6(a)(2), struck out subpar. (D) which related to annual reports on the number of persons receiving benefits or services under paragraph (1).
+Subsec. (b)(1)(D). Pub. L. 108–193, § 6(a)(2), struck out subpar. (D) which related to annual reports on the number of persons receiving benefits or services under paragraph (1).
 
-Subsec. (b)(1)(E)(iv). Pub. L. 108–193, § 4(a)(3), added cl. (iv).
+Subsec. (b)(1)(E)(iv). Pub. L. 108–193, § 4(a)(3), added cl. (iv).
 
-Subsec. (g). Pub. L. 108–193, § 8(b)(2), substituted “1184(*o*)(2)” for “1184(n)(1)”.
+Subsec. (g). Pub. L. 108–193, § 8(b)(2), substituted “1184(*o*)(2)” for “1184(n)(1)”.
 
 2002—Subsec. (a)(1). Pub. L. 107–228 inserted “In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:” at end of introductory provisions and added subpars. (A) to (E).
 
@@ -1907,11 +1907,11 @@ Subsec. (g). Pub. L. 108–193, § 8(b)(2), substituted “1184(*o*)(2)” for
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–271, § 1(c), Dec. 14, 2016, 130 Stat. 1398, provided that: “The amendments made by this Act [amending this section] shall take effect as if enacted as part of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 227).”
+Pub. L. 114–271, § 1(c), Dec. 14, 2016, 130 Stat. 1398, provided that: “The amendments made by this Act [amending this section] shall take effect as if enacted as part of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 227).”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–457, title II, § 205(a)(2), Dec. 23, 2008, 122 Stat. 5061, provided that:
+Pub. L. 110–457, title II, § 205(a)(2), Dec. 23, 2008, 122 Stat. 5061, provided that:
 
 > “The amendment made by paragraph (1) [amending this section]—
 
@@ -1923,7 +1923,7 @@ Pub. L. 110–457, title II, § 205(a)(2), Dec. 23, 2008, 122 Stat. 5061, prov
 
 **Savings Provision**
 
-Pub. L. 109–162, title I, § 104(b), Jan. 5, 2006, 119 Stat. 2979, provided that: “Nothing in this Act [see Tables for classification], or the amendments made by this Act, shall be construed to restrict the legal assistance provided to victims of trafficking and certain family members authorized under section 107(b)(1) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(b)(1)).”
+Pub. L. 109–162, title I, § 104(b), Jan. 5, 2006, 119 Stat. 2979, provided that: “Nothing in this Act [see Tables for classification], or the amendments made by this Act, shall be construed to restrict the legal assistance provided to victims of trafficking and certain family members authorized under section 107(b)(1) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(b)(1)).”
 
 **Abolition of Immigration and Naturalization Service and Transfer of Functions**
 
@@ -1931,7 +1931,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Establishment of Pilot Program for Residential Rehabilitative Facilities for Victims of Trafficking**
 
-Pub. L. 109–164, title I, § 102(b), Jan. 10, 2006, 119 Stat. 3561, as amended by Pub. L. 110–457, title III, §§ 302(1), 304(b), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1252(1), Mar. 7, 2013, 127 Stat. 156, provided that:
+Pub. L. 109–164, title I, § 102(b), Jan. 10, 2006, 119 Stat. 3561, as amended by Pub. L. 110–457, title III, §§ 302(1), 304(b), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1252(1), Mar. 7, 2013, 127 Stat. 156, provided that:
 
 > **“(1) Study.—**
 
@@ -1959,7 +1959,7 @@ Pub. L. 109–164, title I, § 102(b), Jan. 10, 2006, 119 Stat. 3561, as amend
 
 > **“(6) Report.—** Not later than one year after the date on which the first pilot program is established pursuant to paragraph (2), the Administrator of the United States Agency for International Development shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the implementation of this subsection.”
 
-## § 7105a. Increasing effectiveness of anti-trafficking programs
+## § 7105a. Increasing effectiveness of anti-trafficking programs
 
 **(a) Awarding of grants, cooperative agreements, and contracts** In administering funds made available to carry out this Act within and outside the United States—
 
@@ -2009,7 +2009,7 @@ The President shall ensure that the design, monitoring, and evaluation of United
 
 **(2)** evaluations of emerging problems or global trends.
 
-(Pub. L. 106–386, div. A, § 107A, as added Pub. L. 110–457, title I, § 105, Dec. 23, 2008, 122 Stat. 5047.)
+(Pub. L. 106–386, div. A, § 107A, as added Pub. L. 110–457, title I, § 105, Dec. 23, 2008, 122 Stat. 5047.)
 
 **Editorial Notes**
 
@@ -2019,9 +2019,9 @@ This Act, referred to in text, is the Victims of Trafficking and Violence Protec
 
 This chapter, referred to in subsecs. (d) and (f), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-## § 7105b. Improving domestic victim screening procedures
+## § 7105b. Improving domestic victim screening procedures
 
 **(a) Victim screening tools**
 
@@ -2031,7 +2031,7 @@ Not later than October 1, 2018, the Attorney General shall compile and dissemina
 
 Beginning not later than October 1, 2018, the Attorney General, in consultation with the Secretary of Health and Human Services, shall identify recommended practices for the screening of human trafficking victims and shall encourage the use of such practices by grantees receiving a grant to provide victim services to youth under subsection (b) or (f) of section 7105 of this title.
 
-(Pub. L. 106–386, div. A, § 107B, as added Pub. L. 115–393, title III, § 303(a), Dec. 21, 2018, 132 Stat. 5273.)
+(Pub. L. 106–386, div. A, § 107B, as added Pub. L. 115–393, title III, § 303(a), Dec. 21, 2018, 132 Stat. 5273.)
 
 **Editorial Notes**
 
@@ -2039,7 +2039,7 @@ Beginning not later than October 1, 2018, the Attorney General, in consultation 
 
 Subsection (f) of section 7105 of this title, referred to in text, was in the original a reference to subsec. (f) of section 107 of Pub. L. 106–386 and was translated as referring to section 7105(f) of this title, which relates to assistance for trafficking victims who are United States citizens and lawful permanent residents. Another subsec. (f) of section 107 of Pub. L. 106–386 amended section 1255 of Title 8, Aliens and Nationality.
 
-## § 7106. Minimum standards for the elimination of trafficking
+## § 7106. Minimum standards for the elimination of trafficking
 
 **(a) Minimum standards** For purposes of this chapter, the minimum standards for the elimination of trafficking applicable to the government of a country of origin, transit, or destination for victims of severe forms of trafficking are the following:
 
@@ -2085,7 +2085,7 @@ Subsection (f) of section 7105 of this title, referred to in text, was in the or
 
 **(B)** participation in international sex tourism by nationals of the country.
 
-(Pub. L. 106–386, div. A, § 108, Oct. 28, 2000, 114 Stat. 1480; Pub. L. 108–193, § 6(d), Dec. 19, 2003, 117 Stat. 2881; Pub. L. 109–164, title I, § 104(b)(1), Jan. 10, 2006, 119 Stat. 3564; Pub. L. 110–457, title I, § 106, Dec. 23, 2008, 122 Stat. 5048; Pub. L. 113–4, title XII, § 1204, Mar. 7, 2013, 127 Stat. 139; Pub. L. 115–425, title II, § 202, Jan. 8, 2019, 132 Stat. 5482; Pub. L. 115–427, § 5, Jan. 9, 2019, 132 Stat. 5505.)
+(Pub. L. 106–386, div. A, § 108, Oct. 28, 2000, 114 Stat. 1480; Pub. L. 108–193, § 6(d), Dec. 19, 2003, 117 Stat. 2881; Pub. L. 109–164, title I, § 104(b)(1), Jan. 10, 2006, 119 Stat. 3564; Pub. L. 110–457, title I, § 106, Dec. 23, 2008, 122 Stat. 5048; Pub. L. 113–4, title XII, § 1204, Mar. 7, 2013, 127 Stat. 139; Pub. L. 115–425, title II, § 202, Jan. 8, 2019, 132 Stat. 5482; Pub. L. 115–427, § 5, Jan. 9, 2019, 132 Stat. 5505.)
 
 **Editorial Notes**
 
@@ -2095,47 +2095,47 @@ This chapter, referred to in subsec. (a), was in the original “this division�
 
 **Amendments**
 
-2019—Subsec. (b)(1). Pub. L. 115–425, § 202(1), substituted “a demonstrably increasing capacity” for “the capacity” and struck out at end “During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.”
+2019—Subsec. (b)(1). Pub. L. 115–425, § 202(1), substituted “a demonstrably increasing capacity” for “the capacity” and struck out at end “During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.”
 
 Subsec. (b)(7). Pub. L. 115–427 inserted “or enable” after “condone”.
 
-Pub. L. 115–425, § 202(2), substituted “, consistent with a demonstrably increasing capacity of such government to obtain such data,” for “consistent with its resources” and struck out at end “During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.”
+Pub. L. 115–425, § 202(2), substituted “, consistent with a demonstrably increasing capacity of such government to obtain such data,” for “consistent with its resources” and struck out at end “During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.”
 
-2013—Subsec. (b)(3). Pub. L. 113–4, § 1204(1), substituted “diplomatic, peacekeeping,” for “peacekeeping” and “, a transparent system for remediating or punishing such public officials as a deterrent, measures” for “, and measures”, and inserted before period at end “, effective bilateral, multilateral, or regional information sharing and cooperation arrangements with other countries, and effective policies or laws regulating foreign labor recruiters and holding them civilly and criminally liable for fraudulent recruiting”.
+2013—Subsec. (b)(3). Pub. L. 113–4, § 1204(1), substituted “diplomatic, peacekeeping,” for “peacekeeping” and “, a transparent system for remediating or punishing such public officials as a deterrent, measures” for “, and measures”, and inserted before period at end “, effective bilateral, multilateral, or regional information sharing and cooperation arrangements with other countries, and effective policies or laws regulating foreign labor recruiters and holding them civilly and criminally liable for fraudulent recruiting”.
 
-Subsec. (b)(4). Pub. L. 113–4, § 1204(2), inserted “and has entered into bilateral, multilateral, or regional law enforcement cooperation and coordination arrangements with other countries” before period at end.
+Subsec. (b)(4). Pub. L. 113–4, § 1204(2), inserted “and has entered into bilateral, multilateral, or regional law enforcement cooperation and coordination arrangements with other countries” before period at end.
 
-Subsec. (b)(7). Pub. L. 113–4, § 1204(3), inserted “, including diplomats and soldiers,” after “public officials” and “A government’s failure to appropriately address public allegations against such public officials, especially once such officials have returned to their home countries, shall be considered inaction under these criteria.” after “condone such trafficking.”, and substituted “diplomatic, peacekeeping,” for “peacekeeping”.
+Subsec. (b)(7). Pub. L. 113–4, § 1204(3), inserted “, including diplomats and soldiers,” after “public officials” and “A government’s failure to appropriately address public allegations against such public officials, especially once such officials have returned to their home countries, shall be considered inaction under these criteria.” after “condone such trafficking.”, and substituted “diplomatic, peacekeeping,” for “peacekeeping”.
 
-Subsec. (b)(9) to (12). Pub. L. 113–4, § 1204(4), (5), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
+Subsec. (b)(9) to (12). Pub. L. 113–4, § 1204(4), (5), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
-2008—Subsec. (a). Pub. L. 110–457, § 106(1), struck out “a significant number of” before “victims” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–457, § 106(1), struck out “a significant number of” before “victims” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–457, § 106(2)(A), substituted “, including, as appropriate, requiring incarceration of individuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons.” for period at end of first sentence.
+Subsec. (b)(1). Pub. L. 110–457, § 106(2)(A), substituted “, including, as appropriate, requiring incarceration of individuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons.” for period at end of first sentence.
 
-Subsec. (b)(2). Pub. L. 110–457, § 106(2)(B), inserted “, including by providing training to law enforcement and immigration officials regarding the identification and treatment of trafficking victims using approaches that focus on the needs of the victims” before period at end.
+Subsec. (b)(2). Pub. L. 110–457, § 106(2)(B), inserted “, including by providing training to law enforcement and immigration officials regarding the identification and treatment of trafficking victims using approaches that focus on the needs of the victims” before period at end.
 
-Subsec. (b)(3). Pub. L. 110–457, § 106(2)(C), substituted “measures to establish the identity of local populations, including birth registration, citizenship, and nationality” for “measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country”.
+Subsec. (b)(3). Pub. L. 110–457, § 106(2)(C), substituted “measures to establish the identity of local populations, including birth registration, citizenship, and nationality” for “measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country”.
 
-Subsec. (b)(11). Pub. L. 110–457, § 106(2)(D), added par. (11).
+Subsec. (b)(11). Pub. L. 110–457, § 106(2)(D), added par. (11).
 
-2006—Subsec. (b)(3). Pub. L. 109–164, § 104(b)(1), inserted before period at end “, measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country, measures to ensure that its nationals who are deployed abroad as part of a peacekeeping or other similar mission do not engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking, and measures to prevent the use of forced labor or child labor in violation of international standards”.
+2006—Subsec. (b)(3). Pub. L. 109–164, § 104(b)(1), inserted before period at end “, measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country, measures to ensure that its nationals who are deployed abroad as part of a peacekeeping or other similar mission do not engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking, and measures to prevent the use of forced labor or child labor in violation of international standards”.
 
-Subsec. (b)(7). Pub. L. 109–164, § 104(b)(2), substituted “persons, including nationals of the country who are deployed abroad as part of a peacekeeping or other similar mission who engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking,” for “persons,” in first sentence.
+Subsec. (b)(7). Pub. L. 109–164, § 104(b)(2), substituted “persons, including nationals of the country who are deployed abroad as part of a peacekeeping or other similar mission who engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking,” for “persons,” in first sentence.
 
-2003—Subsec. (b)(1). Pub. L. 108–193, § 6(d)(1), substituted “, and convicts and sentences persons responsible for such acts, that take place wholly or partly within the territory of the country” for “that take place wholly or partly within the territory of the country” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
+2003—Subsec. (b)(1). Pub. L. 108–193, § 6(d)(1), substituted “, and convicts and sentences persons responsible for such acts, that take place wholly or partly within the territory of the country” for “that take place wholly or partly within the territory of the country” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
 
-Subsec. (b)(7). Pub. L. 108–193, § 6(d)(2), substituted “, prosecutes, convicts, and sentences” for “and prosecutes” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
+Subsec. (b)(7). Pub. L. 108–193, § 6(d)(2), substituted “, prosecutes, convicts, and sentences” for “and prosecutes” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
 
-Subsec. (b)(8) to (10). Pub. L. 108–193, § 6(d)(3), added pars. (8) to (10).
+Subsec. (b)(8) to (10). Pub. L. 108–193, § 6(d)(3), added pars. (8) to (10).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–164, title I, § 104(b)(2), Jan. 10, 2006, 119 Stat. 3564, provided that: “The amendments made by subparagraphs (A) and (B) of paragraph (1) [amending this section] take effect beginning two years after the date of the enactment of this Act [Jan. 10, 2006].”
+Pub. L. 109–164, title I, § 104(b)(2), Jan. 10, 2006, 119 Stat. 3564, provided that: “The amendments made by subparagraphs (A) and (B) of paragraph (1) [amending this section] take effect beginning two years after the date of the enactment of this Act [Jan. 10, 2006].”
 
-## § 7107. Actions against governments failing to meet minimum standards
+## § 7107. Actions against governments failing to meet minimum standards
 
 **(a) Statement of policy** It is the policy of the United States not to provide nonhumanitarian, nontrade-related foreign assistance to any government that—
 
@@ -2237,9 +2237,9 @@ Except as provided under clause (ii), a country that is included on the special 
 
 **(v)** employing or recruiting child soldiers.
 
-**(D)**  1
+**(D)** 1
 
-<sup>1</sup>  So in original. No subpar. (C) has been enacted.
+<sup>1</sup> So in original. No subpar. (C) has been enacted.
 
 the extent to which the government of the country is devoting sufficient budgetary resources—
 
@@ -2331,17 +2331,17 @@ In this subsection, the term “multilateral development bank” refers to any o
 
 **(e) Certification**
 
-Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) 2
+Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-of this title, or with respect to any assistance described in section 7102(8)(B) 2 of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
+of this title, or with respect to any assistance described in section 7102(8)(B) 2 of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
 
 **(f) Subsequent waiver authority**
 
 After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
 
-(Pub. L. 106–386, div. A, § 110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, § 6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884; Pub. L. 109–164, title I, § 104(e)(1), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title I, §§ 107(a), (b), 108(b), Dec. 23, 2008, 122 Stat. 5049, 5051; Pub. L. 113–4, title XII, §§ 1205, 1212(b)(2)(A)(i), Mar. 7, 2013, 127 Stat. 139, 143; Pub. L. 115–425, title II, § 203, Jan. 8, 2019, 132 Stat. 5482; Pub. L. 115–427, § 6, Jan. 9, 2019, 132 Stat. 5505; Pub. L. 116–283, div. A, title XII, § 1299R(b), Jan. 1, 2021, 134 Stat. 4027.)
+(Pub. L. 106–386, div. A, § 110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, § 6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884; Pub. L. 109–164, title I, § 104(e)(1), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title I, §§ 107(a), (b), 108(b), Dec. 23, 2008, 122 Stat. 5049, 5051; Pub. L. 113–4, title XII, §§ 1205, 1212(b)(2)(A)(i), Mar. 7, 2013, 127 Stat. 139, 143; Pub. L. 115–425, title II, § 203, Jan. 8, 2019, 132 Stat. 5482; Pub. L. 115–427, § 6, Jan. 9, 2019, 132 Stat. 5505; Pub. L. 116–283, div. A, title XII, § 1299R(b), Jan. 1, 2021, 134 Stat. 4027.)
 
 **Editorial Notes**
 
@@ -2349,69 +2349,69 @@ After the President has made a determination described in subsection (d)(1) with
 
 This chapter, referred to in subsec. (d)(4), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-Section 7102(8) of this title, referred to in subsec. (e), was redesignated section 7102(10) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(8) of this title, referred to in subsec. (e), was redesignated section 7102(10) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Amendments**
 
 2021—Subsec. (b)(1). Pub. L. 116–283 substituted “June 30” for “June 1”.
 
-2019—Subsec. (b)(1). Pub. L. 115–427, § 6(1)(A), substituted “The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should” for “The report should” in introductory provisions.
+2019—Subsec. (b)(1). Pub. L. 115–427, § 6(1)(A), substituted “The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should” for “The report should” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 115–427, § 6(1)(B), inserted “based only on concrete actions taken by the country that are recorded during the reporting period” after “such standards”.
+Subsec. (b)(1)(A). Pub. L. 115–427, § 6(1)(B), inserted “based only on concrete actions taken by the country that are recorded during the reporting period” after “such standards”.
 
-Subsec. (b)(1)(B). Pub. L. 115–427, § 6(1)(C), inserted “based only on concrete actions taken by the country (excluding any commitments by the country to take additional future steps during the next year) that are recorded during the reporting period” after “compliance”.
+Subsec. (b)(1)(B). Pub. L. 115–427, § 6(1)(C), inserted “based only on concrete actions taken by the country (excluding any commitments by the country to take additional future steps during the next year) that are recorded during the reporting period” after “compliance”.
 
-Subsec. (b)(1)(H). Pub. L. 115–427, § 6(1)(D)–(F), added subpar. (H).
+Subsec. (b)(1)(H). Pub. L. 115–427, § 6(1)(D)–(F), added subpar. (H).
 
-Subsec. (b)(2)(A)(iii)(I). Pub. L. 115–425, § 203(1)(A), substituted “estimated” for “absolute” and inserted “and the country is not taking proportional concrete actions” before semicolon at end.
+Subsec. (b)(2)(A)(iii)(I). Pub. L. 115–425, § 203(1)(A), substituted “estimated” for “absolute” and inserted “and the country is not taking proportional concrete actions” before semicolon at end.
 
-Subsec. (b)(2)(A)(iii)(III). Pub. L. 115–427, § 6(2)(A)(iii), struck out subcl. (III) which read as follows: “the determination that a country is making significant efforts to bring themselves into compliance with minimum standards was based on commitments by the country to take additional future steps over the next year.”
+Subsec. (b)(2)(A)(iii)(III). Pub. L. 115–427, § 6(2)(A)(iii), struck out subcl. (III) which read as follows: “the determination that a country is making significant efforts to bring themselves into compliance with minimum standards was based on commitments by the country to take additional future steps over the next year.”
 
-Subsec. (b)(2)(B). Pub. L. 115–427, § 6(2)(B), substituted “April 1 of the previous year” for “the last annual report”.
+Subsec. (b)(2)(B). Pub. L. 115–427, § 6(2)(B), substituted “April 1 of the previous year” for “the last annual report”.
 
-Subsec. (b)(2)(D)(ii). Pub. L. 115–427, § 6(2)(C), substituted “1 year” for “2 years” in introductory provisions.
+Subsec. (b)(2)(D)(ii). Pub. L. 115–427, § 6(2)(C), substituted “1 year” for “2 years” in introductory provisions.
 
-Subsec. (b)(2)(E). Pub. L. 115–427, § 6(2)(D), substituted “Congressional” for “Public” in heading and “shall—” and cls. (i) and (ii) for “shall provide a detailed description of the credible evidence supporting such determination on a publicly available website maintained by the Department of State.”
+Subsec. (b)(2)(E). Pub. L. 115–427, § 6(2)(D), substituted “Congressional” for “Public” in heading and “shall—” and cls. (i) and (ii) for “shall provide a detailed description of the credible evidence supporting such determination on a publicly available website maintained by the Department of State.”
 
-Subsec. (b)(2)(F). Pub. L. 115–425, § 203(1)(B), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 115–425, § 203(1)(B), added subpar. (F).
 
-Subsec. (b)(3). Pub. L. 115–425, § 203(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
+Subsec. (b)(3). Pub. L. 115–425, § 203(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
 
-Subsec. (b)(3)(C). Pub. L. 115–427, § 6(3)(B), which directed striking the semicolon at end and inserting a period, could not be executed because there is no subpar. (C). See amendment of subsec. (b)(3) by Pub. L. 115–425, § 203(2) above.
+Subsec. (b)(3)(C). Pub. L. 115–427, § 6(3)(B), which directed striking the semicolon at end and inserting a period, could not be executed because there is no subpar. (C). See amendment of subsec. (b)(3) by Pub. L. 115–425, § 203(2) above.
 
-Subsec. (b)(3)(D) to (F). Pub. L. 115–427, § 6(3)(A), (C), added subpars. (D) to (F).
+Subsec. (b)(3)(D) to (F). Pub. L. 115–427, § 6(3)(A), (C), added subpars. (D) to (F).
 
-Subsec. (b)(4). Pub. L. 115–427, § 6(4), added par. (4).
+Subsec. (b)(4). Pub. L. 115–427, § 6(4), added par. (4).
 
-2013—Subsec. (b)(1). Pub. L. 113–4, § 1205(1)(A), in introductory provisions, substituted “describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 7106 of this title, and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—” for “with respect to the status of severe forms of trafficking in persons that shall include—”.
+2013—Subsec. (b)(1). Pub. L. 113–4, § 1205(1)(A), in introductory provisions, substituted “describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 7106 of this title, and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—” for “with respect to the status of severe forms of trafficking in persons that shall include—”.
 
-Subsec. (b)(1)(G). Pub. L. 113–4, § 1205(1)(B)–(D), added subpar. (G).
+Subsec. (b)(1)(G). Pub. L. 113–4, § 1205(1)(B)–(D), added subpar. (G).
 
-Subsec. (b)(2) to (4). Pub. L. 113–4, § 1205(2)–(4), redesignated pars. (3) and (4) as (2) and (3), respectively, added subpar. (E) in par. (2), and struck out former par. (2) which related to interim reports.
+Subsec. (b)(2) to (4). Pub. L. 113–4, § 1205(2)–(4), redesignated pars. (3) and (4) as (2) and (3), respectively, added subpar. (E) in par. (2), and struck out former par. (2) which related to interim reports.
 
-Subsec. (e). Pub. L. 113–4, § 1212(b)(2)(A)(i), substituted “section 7102(8)(A)” for “section 7102(7)(A) and “section 7102(8)(B)” for “section 7102(7)(B)”.
+Subsec. (e). Pub. L. 113–4, § 1212(b)(2)(A)(i), substituted “section 7102(8)(A)” for “section 7102(7)(A) and “section 7102(8)(B)” for “section 7102(7)(B)”.
 
-2008—Subsec. (b)(1)(E), (F). Pub. L. 110–457, § 108(b), added subpars. (E) and (F).
+2008—Subsec. (b)(1)(E), (F). Pub. L. 110–457, § 108(b), added subpars. (E) and (F).
 
-Subsec. (b)(3)(D). Pub. L. 110–457, § 107(a), added subpar. (D).
+Subsec. (b)(3)(D). Pub. L. 110–457, § 107(a), added subpar. (D).
 
-Subsec. (d)(1)(A)(ii). Pub. L. 110–457, § 107(b), inserted “such assistance to the government of the country for the subsequent fiscal year and will not provide” after “the United States will not provide”.
+Subsec. (d)(1)(A)(ii). Pub. L. 110–457, § 107(b), inserted “such assistance to the government of the country for the subsequent fiscal year and will not provide” after “the United States will not provide”.
 
 2006—Subsec. (b)(1)(D). Pub. L. 109–164 added subpar. (D).
 
-2003—Subsec. (b)(3), (4). Pub. L. 108–193, § 6(e), added par. (3) and redesignated former par. (3) as (4).
+2003—Subsec. (b)(3), (4). Pub. L. 108–193, § 6(e), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (d)(4). Pub. L. 108–193, § 6(h)(1), inserted “or funding for participation in educational and cultural exchange programs” after “nonhumanitarian, nontrade-related foreign assistance”.
+Subsec. (d)(4). Pub. L. 108–193, § 6(h)(1), inserted “or funding for participation in educational and cultural exchange programs” after “nonhumanitarian, nontrade-related foreign assistance”.
 
-Subsec. (d)(5)(A)(i). Pub. L. 108–193, § 6(h)(2), inserted “or funding for participation in educational and cultural exchange programs” after “foreign assistance”.
+Subsec. (d)(5)(A)(i). Pub. L. 108–193, § 6(h)(2), inserted “or funding for participation in educational and cultural exchange programs” after “foreign assistance”.
 
-Subsec. (f). Pub. L. 108–193, § 6(i), added subsec. (f).
+Subsec. (f). Pub. L. 108–193, § 6(i), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Communication With Governments of Countries Designated as Tier 2 Watch List Countries on the Trafficking in Persons Report**
 
-Pub. L. 115–427, § 7(a), Jan. 9, 2019, 132 Stat. 5507, provided that:
+Pub. L. 115–427, § 7(a), Jan. 9, 2019, 132 Stat. 5507, provided that:
 
 > **“(a) In General.—** Not less than annually, the Secretary of State shall provide, to the foreign minister of each country that has been downgraded to a ‘Tier 2 Watch List’ country pursuant to the Trafficking in Persons report submitted under section 110(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b))—
 
@@ -2429,7 +2429,7 @@ Pub. L. 115–427, § 7(a), Jan. 9, 2019, 132 Stat. 5507, provided that:
 
 **Child Protection Strategies in Watch List Countries**
 
-Pub. L. 115–425, title II, § 204(b), Jan. 8, 2019, 132 Stat. 5484, provided that:
+Pub. L. 115–425, title II, § 204(b), Jan. 8, 2019, 132 Stat. 5484, provided that:
 
 > **“(1) In general.—** The Administrator of the United States Agency for International Development shall incorporate into the relevant country development cooperation strategy for each country on the list described in paragraph (1)(C) of section 110(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)) or the special watch list described in paragraph (2)(A)(iii) of such section, strategies for the protection of children and the reduction of the risk of trafficking.
 
@@ -2441,7 +2441,7 @@ Pub. L. 115–425, title II, § 204(b), Jan. 8, 2019, 132 Stat. 5484, provided
 
 **Translation of Trafficking-in-Persons Report**
 
-Pub. L. 110–457, title I, § 107(c), Dec. 23, 2008, 122 Stat. 5050, provided that:
+Pub. L. 110–457, title I, § 107(c), Dec. 23, 2008, 122 Stat. 5050, provided that:
 
 > “The Secretary of State shall—
 
@@ -2559,7 +2559,7 @@ Memorandum of President of the United States, July 29, 2013, 78 F.R. 48027.—Sy
 
 Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375.—Burma, fiscal year 2012.
 
-## § 7108. Actions against significant traffickers in persons
+## § 7108. Actions against significant traffickers in persons
 
 **(a) Authority to sanction significant traffickers in persons**
 
@@ -2621,7 +2621,7 @@ In this section, the term “foreign person” means any citizen or national of 
 
 Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a).
 
-(Pub. L. 106–386, div. A, § 111, Oct. 28, 2000, 114 Stat. 1484; Pub. L. 115–425, title I, § 124, Jan. 8, 2019, 132 Stat. 5479.)
+(Pub. L. 106–386, div. A, § 111, Oct. 28, 2000, 114 Stat. 1484; Pub. L. 115–425, title I, § 124, Jan. 8, 2019, 132 Stat. 5479.)
 
 **Editorial Notes**
 
@@ -2631,11 +2631,11 @@ Section is comprised of section 111 of Pub. L. 106–386. Subsec. (d) of section
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 115–425, § 124(1), inserted “, or section 10102 of this title,” after “without regard to section 1701 of title 50” in introductory provisions.
+2019—Subsec. (a)(1). Pub. L. 115–425, § 124(1), inserted “, or section 10102 of this title,” after “without regard to section 1701 of title 50” in introductory provisions.
 
-Subsec. (a)(1)(D). Pub. L. 115–425, § 124(2), added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 115–425, § 124(2), added subpar. (D).
 
-## § 7109. Strengthening prosecution and punishment of traffickers
+## § 7109. Strengthening prosecution and punishment of traffickers
 
 **(a) Omitted**
 
@@ -2661,15 +2661,15 @@ Subsec. (a)(1)(D). Pub. L. 115–425, § 124(2), added subpar. (D).
 
 **(3)** The Commission may promulgate the guidelines or amendments under this subsection in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987, as though the authority under that Act had not expired.
 
-(Pub. L. 106–386, div. A, § 112, Oct. 28, 2000, 114 Stat. 1486.)
+(Pub. L. 106–386, div. A, § 112, Oct. 28, 2000, 114 Stat. 1486.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Labor Standards Act, referred to in subsec. (b)(1), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act, referred to in subsec. (b)(1), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (b)(1), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
+The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (b)(1), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
 The Sentencing Act of 1987, referred to in subsec. (b)(3), is Pub. L. 100–182, Dec. 7, 1987, 101 Stat. 1266. Section 21(a) of the Act is set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
 
@@ -2677,7 +2677,7 @@ The Sentencing Act of 1987, referred to in subsec. (b)(3), is Pub. L. 100–182,
 
 Section is comprised of section 112 of Pub. L. 106–386. Subsec. (a) of section 112 of Pub. L. 106–386 enacted sections 1589 to 1594 of Title 18, Crimes and Criminal Procedure, and amended sections 1581, 1583, and 1584 of Title 18.
 
-## § 7109a. Research on domestic and international trafficking in persons
+## § 7109a. Research on domestic and international trafficking in persons
 
 **(a) In general** The President, acting through the Council of Economic Advisors, the National Research Council of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified in the findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
 
@@ -2733,7 +2733,7 @@ The term “HIV” means the human immunodeficiency virus, the pathogen that cau
 
 The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
 
-(Pub. L. 106–386, div. A, § 112A, as added Pub. L. 108–193, § 6(g)(1), Dec. 19, 2003, 117 Stat. 2883; amended Pub. L. 109–164, title I, § 104(c)(1), Jan. 10, 2006, 119 Stat. 3564; Pub. L. 110–457, title I, § 108(a), Dec. 23, 2008, 122 Stat. 5050; Pub. L. 113–4, title XII, § 1251(1), Mar. 7, 2013, 127 Stat. 155; Pub. L. 115–393, title III, § 301(a)(1), Dec. 21, 2018, 132 Stat. 5271; Pub. L. 117–347, title I, § 105(d)(1), Jan. 5, 2023, 136 Stat. 6204.)
+(Pub. L. 106–386, div. A, § 112A, as added Pub. L. 108–193, § 6(g)(1), Dec. 19, 2003, 117 Stat. 2883; amended Pub. L. 109–164, title I, § 104(c)(1), Jan. 10, 2006, 119 Stat. 3564; Pub. L. 110–457, title I, § 108(a), Dec. 23, 2008, 122 Stat. 5050; Pub. L. 113–4, title XII, § 1251(1), Mar. 7, 2013, 127 Stat. 155; Pub. L. 115–393, title III, § 301(a)(1), Dec. 21, 2018, 132 Stat. 5271; Pub. L. 117–347, title I, § 105(d)(1), Jan. 5, 2023, 136 Stat. 6204.)
 
 **Editorial Notes**
 
@@ -2749,11 +2749,11 @@ This chapter, referred to in subsec. (a), was in the original “this division�
 
 2013—Subsec. (b)(4). Pub. L. 113–4 substituted “$1,000,000” for “$2,000,000” and “2014 through 2017” for “2008 through 2011”.
 
-2008—Subsec. (a)(5). Pub. L. 110–457, § 108(a)(1), amended par. (5) generally. Prior to amendment, text read as follows: “An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis.”
+2008—Subsec. (a)(5). Pub. L. 110–457, § 108(a)(1), amended par. (5) generally. Prior to amendment, text read as follows: “An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis.”
 
-Subsec. (b). Pub. L. 110–457, § 108(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The research initiatives described in subsection (a)(4) of this section shall be carried out by the Human Smuggling and Trafficking Center (established pursuant to section 1777 of title 8).”
+Subsec. (b). Pub. L. 110–457, § 108(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The research initiatives described in subsection (a)(4) of this section shall be carried out by the Human Smuggling and Trafficking Center (established pursuant to section 1777 of title 8).”
 
-2006—Pub. L. 109–164 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “the Director of National Intelligence” for “the Director of Central Intelligence” in introductory provisions, inserted “, particularly HIV/AIDS” before period at end of par. (3), and added pars. (4) to (6) and subsecs. (b) and (c).
+2006—Pub. L. 109–164 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “the Director of National Intelligence” for “the Director of Central Intelligence” in introductory provisions, inserted “, particularly HIV/AIDS” before period at end of par. (3), and added pars. (4) to (6) and subsecs. (b) and (c).
 
 **Executive Documents**
 
@@ -2761,7 +2761,7 @@ Subsec. (b). Pub. L. 110–457, § 108(a)(2), amended subsec. (b) generally. P
 
 For delegation of functions of President under this section, see section 6 of Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
 
-## § 7109b. Presidential Award for Extraordinary Efforts To Combat Trafficking in Persons
+## § 7109b. Presidential Award for Extraordinary Efforts To Combat Trafficking in Persons
 
 **(a) Establishment of award** The President is authorized to establish an award, to be known as the “Presidential Award for Extraordinary Efforts To Combat Trafficking in Persons”, for extraordinary efforts to combat trafficking in persons. To the maximum extent practicable, the Secretary of State shall present the award annually to not more than 5 individuals or organizations, including—
 
@@ -2781,7 +2781,7 @@ The Secretary of State shall host an annual ceremony for recipients of the award
 
 There are authorized to be appropriated, for each of the fiscal years 2022 through 2027, such sums as may be necessary to carry out this section.
 
-(Pub. L. 106–386, div. A, § 112B, as added Pub. L. 110–457, title I, § 109, Dec. 23, 2008, 122 Stat. 5051; amended Pub. L. 117–347, title I, § 105(d)(2), Jan. 5, 2023, 136 Stat. 6204.)
+(Pub. L. 106–386, div. A, § 112B, as added Pub. L. 110–457, title I, § 109, Dec. 23, 2008, 122 Stat. 5051; amended Pub. L. 117–347, title I, § 105(d)(2), Jan. 5, 2023, 136 Stat. 6204.)
 
 **Editorial Notes**
 
@@ -2789,13 +2789,13 @@ There are authorized to be appropriated, for each of the fiscal years 2022 throu
 
 2023—Subsec. (d). Pub. L. 117–347 substituted “2022 through 2027” for “2008 through 2011”.
 
-## § 7110. Authorizations of appropriations
+## § 7110. Authorizations of appropriations
 
 **(a) Authorization of appropriations in support of the task force**
 
 There are authorized to be appropriated to the Department of State, for each of the fiscal years 2018 through 2021, $13,822,000 for Diplomatic and Consular Programs of the Office to Monitor and Combat Trafficking in Persons, which shall be used to carry out sections 7103(e), 7103(f),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 7107 of this title, including for additional personnel.
 
@@ -2807,7 +2807,7 @@ To carry out the purposes of sections 7104(b) and 7105(b) of this title and sect
 
 **(2) Additional benefits for trafficking victims**
 
-To carry out the purposes of section 7105(f) <sup>1</sup> of this title, there are authorized to be appropriated $8,000,000 to the Secretary of Health and Human Services for each of the fiscal years 2023 through 2028.
+To carry out the purposes of section 7105(f) <sup>1</sup> of this title, there are authorized to be appropriated $8,000,000 to the Secretary of Health and Human Services for each of the fiscal years 2023 through 2028.
 
 **(3) Grants for State improvements**
 
@@ -2841,7 +2841,7 @@ To carry out the purposes of section 2152d of this title, there are authorized t
 
 **(3) Additional benefits for trafficking victims**
 
-To carry out the purposes of section 7105(f) <sup>1</sup> of this title, there are authorized to be appropriated $11,000,000 to the Attorney General for each of the fiscal years 2023 through 2028.
+To carry out the purposes of section 7105(f) <sup>1</sup> of this title, there are authorized to be appropriated $11,000,000 to the Attorney General for each of the fiscal years 2023 through 2028.
 
 **(e) Authorization of appropriations to President**
 
@@ -2869,7 +2869,7 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 **(2) Restriction on organizations**
 
-No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to implement any program that targets victims of severe forms of trafficking in persons described in section 7102(9)(A) <sup>1</sup> of this title through any organization that has not stated in either a grant application, a grant agreement, or both, that it does not promote, support, or advocate the legalization or practice of prostitution. The preceding sentence shall not apply to organizations that provide services to individuals solely after they are no longer engaged in activities that resulted from such victims being trafficked.
+No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to implement any program that targets victims of severe forms of trafficking in persons described in section 7102(9)(A) <sup>1</sup> of this title through any organization that has not stated in either a grant application, a grant agreement, or both, that it does not promote, support, or advocate the legalization or practice of prostitution. The preceding sentence shall not apply to organizations that provide services to individuals solely after they are no longer engaged in activities that resulted from such victims being trafficked.
 
 **(h) Authorization of appropriations to Director of the FBI**
 
@@ -2879,75 +2879,75 @@ There are authorized to be appropriated to the Director of the Federal Bureau of
 
 There are authorized to be appropriated to the Secretary of Homeland Security,2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 $10,000,000 for each of the fiscal years 2023 through 2028, to remain available until expended, of which $2,000,000 shall be made available each fiscal year for the establishment of a labor trafficking investigation team within the Department of Homeland Security Center for Countering Human Trafficking, and the remaining funds shall be used for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
-(Pub. L. 106–386, div. A, § 113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, § 682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, § 7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, § 301, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 110–457, title II, § 213(a)(2), title III, § 301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§ 1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155; Pub. L. 115–392, § 21, Dec. 21, 2018, 132 Stat. 5259; Pub. L. 115–393, title III, § 301(a)(2), Dec. 21, 2018, 132 Stat. 5271; Pub. L. 115–425, title I, § 101(b), title III, § 301, Jan. 8, 2019, 132 Stat. 5474, 5487; Pub. L. 117–347, title I, §§ 104(b), 105(d)(3), Jan. 5, 2023, 136 Stat. 6203, 6204; Pub. L. 117–348, title II, § 201, Jan. 5, 2023, 136 Stat. 6223.)
+(Pub. L. 106–386, div. A, § 113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, § 682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, § 7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, § 301, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 110–457, title II, § 213(a)(2), title III, § 301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§ 1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155; Pub. L. 115–392, § 21, Dec. 21, 2018, 132 Stat. 5259; Pub. L. 115–393, title III, § 301(a)(2), Dec. 21, 2018, 132 Stat. 5271; Pub. L. 115–425, title I, § 101(b), title III, § 301, Jan. 8, 2019, 132 Stat. 5474, 5487; Pub. L. 117–347, title I, §§ 104(b), 105(d)(3), Jan. 5, 2023, 136 Stat. 6203, 6204; Pub. L. 117–348, title II, § 201, Jan. 5, 2023, 136 Stat. 6223.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7103(f) of this title, referred to in subsec. (a), was redesignated section 7103(g) of this title by Pub. L. 113–4, title XII, § 1201(3), Mar. 7, 2013, 127 Stat. 136.
+Section 7103(f) of this title, referred to in subsec. (a), was redesignated section 7103(g) of this title by Pub. L. 113–4, title XII, § 1201(3), Mar. 7, 2013, 127 Stat. 136.
 
-Section 7105(f) of this title, referred to in subsecs. (b)(2) and (d)(3), probably means the subsec. (f) of section 7105 of this title which relates to assistance for United States citizens and lawful permanent residents and was added by Pub. L. 110–457, title II, § 213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
+Section 7105(f) of this title, referred to in subsecs. (b)(2) and (d)(3), probably means the subsec. (f) of section 7105 of this title which relates to assistance for United States citizens and lawful permanent residents and was added by Pub. L. 110–457, title II, § 213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
 This chapter, referred to in subsec. (g), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-Section 7102(9)(A) of this title, referred to in subsec. (g)(2), was redesignated section 7102(11)(A) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(9)(A) of this title, referred to in subsec. (g)(2), was redesignated section 7102(11)(A) of this title by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Codification**
 
-Pub. L. 115–392, § 21, and Pub. L. 115–425, § 301, which directed amendment of section 113 of the “Trafficking Victims Prevention Act of 2000”, were executed to this section, which is section 113 of the Trafficking Victims Protection Act of 2000, to reflect the probable intent of Congress. See 2018 and 2019 Amendment notes below.
+Pub. L. 115–392, § 21, and Pub. L. 115–425, § 301, which directed amendment of section 113 of the “Trafficking Victims Prevention Act of 2000”, were executed to this section, which is section 113 of the Trafficking Victims Protection Act of 2000, to reflect the probable intent of Congress. See 2018 and 2019 Amendment notes below.
 
 **Amendments**
 
-2023—Subsec. (b)(1). Pub. L. 117–348, § 201(1)(A), substituted “To carry out the purposes of sections 7104(b) and 7105(b) of this title and section 628c of title 42,” for “To carry out the purposes of sections 7104(b) and 7105(b) of this title,”.
+2023—Subsec. (b)(1). Pub. L. 117–348, § 201(1)(A), substituted “To carry out the purposes of sections 7104(b) and 7105(b) of this title and section 628c of title 42,” for “To carry out the purposes of sections 7104(b) and 7105(b) of this title,”.
 
-Subsec. (b)(2). Pub. L. 117–348, § 201(1)(B), which directed substitution of “2023 through 2028” for “2018 through 2021”, was executed by making the substitution for “2022 through 2027”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–347, § 105(d)(3)(A). See below.
+Subsec. (b)(2). Pub. L. 117–348, § 201(1)(B), which directed substitution of “2023 through 2028” for “2018 through 2021”, was executed by making the substitution for “2022 through 2027”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–347, § 105(d)(3)(A). See below.
 
-Pub. L. 117–347, § 105(d)(3)(A), substituted “2022 through 2027” for “2018 through 2021”.
+Pub. L. 117–347, § 105(d)(3)(A), substituted “2022 through 2027” for “2018 through 2021”.
 
-Subsec. (b)(3). Pub. L. 117–347, § 104(b), added par. (3).
+Subsec. (b)(3). Pub. L. 117–347, § 104(b), added par. (3).
 
-Subsec. (d)(3). Pub. L. 117–348, § 201(2), which directed substitution of “$11,000,000 to the Attorney General for each of the fiscal years 2023 through 2028” for “$11,000,000 to the Attorney General for each of the fiscal years 2018 through 2021”, was executed by making the substitution for “$11,000,000 to the Attorney General for each of the fiscal years 2022 through 2027”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–347, § 105(d)(3)(B). See below.
+Subsec. (d)(3). Pub. L. 117–348, § 201(2), which directed substitution of “$11,000,000 to the Attorney General for each of the fiscal years 2023 through 2028” for “$11,000,000 to the Attorney General for each of the fiscal years 2018 through 2021”, was executed by making the substitution for “$11,000,000 to the Attorney General for each of the fiscal years 2022 through 2027”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–347, § 105(d)(3)(B). See below.
 
-Pub. L. 117–347, § 105(d)(3)(B), substituted “2022 through 2027” for “2018 through 2021”.
+Pub. L. 117–347, § 105(d)(3)(B), substituted “2022 through 2027” for “2018 through 2021”.
 
-Subsec. (e)(3). Pub. L. 117–347, § 105(d)(3)(C), substituted “2022 through 2027” for “2008 through 2011”.
+Subsec. (e)(3). Pub. L. 117–347, § 105(d)(3)(C), substituted “2022 through 2027” for “2008 through 2011”.
 
-Subsec. (f). Pub. L. 117–348, § 201(3), substituted “2023 through 2028” for “2018 through 2021.”
+Subsec. (f). Pub. L. 117–348, § 201(3), substituted “2023 through 2028” for “2018 through 2021.”
 
-Subsec. (i). Pub. L. 117–348, § 201(4), substituted “2023 through 2028” for “2018 through 2021” and inserted “of which $2,000,000 shall be made available each fiscal year for the establishment of a labor trafficking investigation team within the Department of Homeland Security Center for Countering Human Trafficking, and the remaining funds shall be used” after “expended,”.
+Subsec. (i). Pub. L. 117–348, § 201(4), substituted “2023 through 2028” for “2018 through 2021” and inserted “of which $2,000,000 shall be made available each fiscal year for the establishment of a labor trafficking investigation team within the Department of Homeland Security Center for Countering Human Trafficking, and the remaining funds shall be used” after “expended,”.
 
-2019—Subsec. (a). Pub. L. 115–425, § 301(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “To carry out the purposes of sections 7103(e), 7103(f) and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011.”
+2019—Subsec. (a). Pub. L. 115–425, § 301(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “To carry out the purposes of sections 7103(e), 7103(f) and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011.”
 
-Subsec. (b)(1). Pub. L. 115–425, § 301(2), substituted “$19,500,000 for each of the fiscal years 2018 through 2021, of which $3,500,000 is authorized to be appropriated for each fiscal year for the National Human Trafficking Hotline.” for “$14,500,000 for each of the fiscal years 2014 through 2017”.
+Subsec. (b)(1). Pub. L. 115–425, § 301(2), substituted “$19,500,000 for each of the fiscal years 2018 through 2021, of which $3,500,000 is authorized to be appropriated for each fiscal year for the National Human Trafficking Hotline.” for “$14,500,000 for each of the fiscal years 2014 through 2017”.
 
-Pub. L. 115–425, § 101(b), substituted “sections 7104(b) and 7105(b) of this title” for “section 7105(b) of this title”.
+Pub. L. 115–425, § 101(b), substituted “sections 7104(b) and 7105(b) of this title” for “section 7105(b) of this title”.
 
-Subsec. (c)(1). Pub. L. 115–425, § 301(3), amended par. (1) generally. Prior to amendment, par. (1) related to bilateral assistance to combat trafficking.
+Subsec. (c)(1). Pub. L. 115–425, § 301(3), amended par. (1) generally. Prior to amendment, par. (1) related to bilateral assistance to combat trafficking.
 
-Subsec. (f). Pub. L. 115–425, § 301(4), substituted “2018 through 2021.” for “2014 through 2017”.
+Subsec. (f). Pub. L. 115–425, § 301(4), substituted “2018 through 2021.” for “2014 through 2017”.
 
-2018—Subsec. (b)(2). Pub. L. 115–392, § 21(1), substituted “2018 through 2021” for “2014 through 2017”.
+2018—Subsec. (b)(2). Pub. L. 115–392, § 21(1), substituted “2018 through 2021” for “2014 through 2017”.
 
-Subsec. (d)(1). Pub. L. 115–393, § 301(a)(2)(A), which directed substitution of “$77,000,000 for each of fiscal years 2018 through 2021” for “$11,000,000 for each of fiscal years 2014 through 2017”, was executed by making the substitution for “$11,000,000 for each of the fiscal years 2014 through 2017” to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 115–393, § 301(a)(2)(A), which directed substitution of “$77,000,000 for each of fiscal years 2018 through 2021” for “$11,000,000 for each of fiscal years 2014 through 2017”, was executed by making the substitution for “$11,000,000 for each of the fiscal years 2014 through 2017” to reflect the probable intent of Congress.
 
-Subsec. (d)(3). Pub. L. 115–393, § 301(a)(2)(B), substituted “2018 through 2021” for “2014 through 2017”.
+Subsec. (d)(3). Pub. L. 115–393, § 301(a)(2)(B), substituted “2018 through 2021” for “2014 through 2017”.
 
-Subsec. (i). Pub. L. 115–392, § 21(2), substituted “2018 through 2021” for “2014 through 2017”.
+Subsec. (i). Pub. L. 115–392, § 21(2), substituted “2018 through 2021” for “2014 through 2017”.
 
-2013—Subsec. (a). Pub. L. 113–4, § 1251(2)(A)(ii), which directed the insertion of “, including regional trafficking in persons officers,” after “for additional personnel,” was executed by making the insertion after “for additional personnel”, to reflect the probable intent of Congress.
+2013—Subsec. (a). Pub. L. 113–4, § 1251(2)(A)(ii), which directed the insertion of “, including regional trafficking in persons officers,” after “for additional personnel,” was executed by making the insertion after “for additional personnel”, to reflect the probable intent of Congress.
 
-Pub. L. 113–4, § 1251(2)(A)(i), (iii), substituted “$2,000,000 for each of the fiscal years 2014 through 2017” for “$5,500,000 for each of the fiscal years 2008 through 2011” and struck out “, and $3,000 for official reception and representation expenses” before “for each of the fiscal years 2008 through 2011” the second time appearing.
+Pub. L. 113–4, § 1251(2)(A)(i), (iii), substituted “$2,000,000 for each of the fiscal years 2014 through 2017” for “$5,500,000 for each of the fiscal years 2008 through 2011” and struck out “, and $3,000 for official reception and representation expenses” before “for each of the fiscal years 2008 through 2011” the second time appearing.
 
-Subsec. (b)(1). Pub. L. 113–4, § 1251(2)(B)(i), substituted “$14,500,000 for each of the fiscal years 2014 through 2017” for “$12,500,000 for each of the fiscal years 2008 through 2011”.
+Subsec. (b)(1). Pub. L. 113–4, § 1251(2)(B)(i), substituted “$14,500,000 for each of the fiscal years 2014 through 2017” for “$12,500,000 for each of the fiscal years 2008 through 2011”.
 
-Subsec. (b)(2). Pub. L. 113–4, § 1251(2)(B)(ii), substituted “$8,000,000 to the Secretary of Health and Human Services for each of the fiscal years 2014 through 2017.” for “to the Secretary of Health and Human Services—
+Subsec. (b)(2). Pub. L. 113–4, § 1251(2)(B)(ii), substituted “$8,000,000 to the Secretary of Health and Human Services for each of the fiscal years 2014 through 2017.” for “to the Secretary of Health and Human Services—
 
 “(A) $2,500,000 for fiscal year 2008;
 
@@ -2957,13 +2957,13 @@ Subsec. (b)(2). Pub. L. 113–4, § 1251(2)(B)(ii), substituted “$8,000,000 
 
 “(D) $7,000,000 for fiscal year 2011.”
 
-Subsec. (c)(1)(A). Pub. L. 113–4, § 1251(2)(C)(i), substituted “2014 through 2017” for “2008 through 2011”.
+Subsec. (c)(1)(A). Pub. L. 113–4, § 1251(2)(C)(i), substituted “2014 through 2017” for “2008 through 2011”.
 
-Subsec. (c)(1)(B). Pub. L. 113–4, § 1251(2)(C)(ii), substituted “$10,000,000 for each of the fiscal years 2014 through 2017” for “$15,000,000 for fiscal year 2003 and $10,000,000 for each of the fiscal years 2008 through 2011” and “2014 through 2017” for “2008 through 2011”.
+Subsec. (c)(1)(B). Pub. L. 113–4, § 1251(2)(C)(ii), substituted “$10,000,000 for each of the fiscal years 2014 through 2017” for “$15,000,000 for fiscal year 2003 and $10,000,000 for each of the fiscal years 2008 through 2011” and “2014 through 2017” for “2008 through 2011”.
 
-Subsec. (c)(1)(C). Pub. L. 113–4, § 1251(2)(C)(iii), substituted “2014 through 2017” for “2008 through 2011”.
+Subsec. (c)(1)(C). Pub. L. 113–4, § 1251(2)(C)(iii), substituted “2014 through 2017” for “2008 through 2011”.
 
-Subsec. (d). Pub. L. 113–4, § 1251(2)(D), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, realigned margins, in par. (1) substituted “$11,000,000 for each of the fiscal years 2014 through 2017” for “$10,000,000 for each of the fiscal years 2008 through 2011”, and in par. (3) substituted “$11,000,000 to the Attorney General for each of the fiscal years 2014 through 2017.” for “to the Attorney General—
+Subsec. (d). Pub. L. 113–4, § 1251(2)(D), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, realigned margins, in par. (1) substituted “$11,000,000 for each of the fiscal years 2014 through 2017” for “$10,000,000 for each of the fiscal years 2008 through 2011”, and in par. (3) substituted “$11,000,000 to the Attorney General for each of the fiscal years 2014 through 2017.” for “to the Attorney General—
 
 “(i) $2,500,000 for fiscal year 2008;
 
@@ -2973,89 +2973,89 @@ Subsec. (d). Pub. L. 113–4, § 1251(2)(D), redesignated subpars. (A) to (C) 
 
 “(iv) $7,000,000 for fiscal year 2011.”
 
-Subsec. (e)(1). Pub. L. 113–4, § 1251(2)(E)(i), substituted “$7,500,000 for each of the fiscal years 2014 through 2017” for “$15,000,000 for each of the fiscal years 2008 through 2011”.
+Subsec. (e)(1). Pub. L. 113–4, § 1251(2)(E)(i), substituted “$7,500,000 for each of the fiscal years 2014 through 2017” for “$15,000,000 for each of the fiscal years 2008 through 2011”.
 
-Subsec. (e)(2). Pub. L. 113–4, § 1251(2)(E)(ii), substituted “$7,500,000 for each of the fiscal years 2014 through 2017” for “$15,000,000 for each of the fiscal years 2008 through 2011”.
+Subsec. (e)(2). Pub. L. 113–4, § 1251(2)(E)(ii), substituted “$7,500,000 for each of the fiscal years 2014 through 2017” for “$15,000,000 for each of the fiscal years 2008 through 2011”.
 
-Subsec. (f). Pub. L. 113–4, § 1251(2)(F), substituted “$5,000,000 for each of the fiscal years 2014 through 2017” for “$10,000,000 for each of the fiscal years 2008 through 2011”.
+Subsec. (f). Pub. L. 113–4, § 1251(2)(F), substituted “$5,000,000 for each of the fiscal years 2014 through 2017” for “$10,000,000 for each of the fiscal years 2008 through 2011”.
 
-Subsec. (g)(2). Pub. L. 113–4, § 1212(b)(2)(A)(ii), substituted “section 7102(9)(A)” for “7102(8)(A)”.
+Subsec. (g)(2). Pub. L. 113–4, § 1212(b)(2)(A)(ii), substituted “section 7102(9)(A)” for “7102(8)(A)”.
 
-Subsec. (i). Pub. L. 113–4, § 1251(2)(G), substituted “$10,000,000 for each of the fiscal years 2014 through 2017” for “$18,000,000 for each of the fiscal years 2008 through 2011”.
+Subsec. (i). Pub. L. 113–4, § 1251(2)(G), substituted “$10,000,000 for each of the fiscal years 2014 through 2017” for “$18,000,000 for each of the fiscal years 2008 through 2011”.
 
-2008—Subsec. (a). Pub. L. 110–457, § 301(1)(A)(ii), (B), in first sentence, substituted “$5,500,000 for each of the fiscal years 2008 through 2011” for “$1,500,000 for fiscal year 2001, $3,000,000 for each of the fiscal years 2002 and 2003, $5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007” and, in second sentence, substituted “$1,500,000 for additional personnel for each of the fiscal years 2008 through 2011, and $3,000 for official reception and representation expenses” for “for official reception and representation expenses $3,000” and “2008 through 2011” for “2006 and 2007”.
+2008—Subsec. (a). Pub. L. 110–457, § 301(1)(A)(ii), (B), in first sentence, substituted “$5,500,000 for each of the fiscal years 2008 through 2011” for “$1,500,000 for fiscal year 2001, $3,000,000 for each of the fiscal years 2002 and 2003, $5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007” and, in second sentence, substituted “$1,500,000 for additional personnel for each of the fiscal years 2008 through 2011, and $3,000 for official reception and representation expenses” for “for official reception and representation expenses $3,000” and “2008 through 2011” for “2006 and 2007”.
 
-Pub. L. 110–457, § 301(1)(A)(i), which directed striking out “section 104, and”, was executed by striking out “section 104 and” after “the purposes of”, to reflect the probable intent of Congress.
+Pub. L. 110–457, § 301(1)(A)(i), which directed striking out “section 104, and”, was executed by striking out “section 104 and” after “the purposes of”, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 110–457, § 213(a)(2)(A), designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+Subsec. (b). Pub. L. 110–457, § 213(a)(2)(A), designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 110–457, § 301(2), substituted “$12,500,000 for each of the fiscal years 2008 through 2011” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.”
+Subsec. (b)(1). Pub. L. 110–457, § 301(2), substituted “$12,500,000 for each of the fiscal years 2008 through 2011” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.”
 
-Subsec. (c)(1). Pub. L. 110–457, § 301(3)(A)(i), substituted “2008 through 2011” for “2004, 2005, 2006, and 2007” wherever appearing.
+Subsec. (c)(1). Pub. L. 110–457, § 301(3)(A)(i), substituted “2008 through 2011” for “2004, 2005, 2006, and 2007” wherever appearing.
 
-Subsec. (c)(1)(B). Pub. L. 110–457, § 301(3)(A)(ii), inserted at end “To carry out the purposes of section 7105(a)(1)(F) of this title, there are authorized to be appropriated to the Secretary of State $1,000,000 for each of the fiscal years 2008 through 2011.”
+Subsec. (c)(1)(B). Pub. L. 110–457, § 301(3)(A)(ii), inserted at end “To carry out the purposes of section 7105(a)(1)(F) of this title, there are authorized to be appropriated to the Secretary of State $1,000,000 for each of the fiscal years 2008 through 2011.”
 
-Subsec. (c)(2). Pub. L. 110–457, § 301(3)(D), substituted “sections 2151n(f) and 2304(h) of this title” for “section 104” and struck out “, including the preparation and publication of the list described in subsection (a)(1) of that section” before period at end.
+Subsec. (c)(2). Pub. L. 110–457, § 301(3)(D), substituted “sections 2151n(f) and 2304(h) of this title” for “section 104” and struck out “, including the preparation and publication of the list described in subsection (a)(1) of that section” before period at end.
 
-Pub. L. 110–457, § 301(3)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text read as follows: “To carry out the purposes of section 2152d of this title, there is authorized to be appropriated to the Secretary of State for each of the fiscal years 2001 through 2005 $300,000 for voluntary contributions to advance projects aimed at preventing trafficking, promoting respect for human rights of trafficking victims, and assisting the Organization for Security and Cooperation in Europe participating states in related legal reform for such fiscal year.”
+Pub. L. 110–457, § 301(3)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text read as follows: “To carry out the purposes of section 2152d of this title, there is authorized to be appropriated to the Secretary of State for each of the fiscal years 2001 through 2005 $300,000 for voluntary contributions to advance projects aimed at preventing trafficking, promoting respect for human rights of trafficking victims, and assisting the Organization for Security and Cooperation in Europe participating states in related legal reform for such fiscal year.”
 
-Subsec. (c)(3). Pub. L. 110–457, § 301(3)(C), redesignated par. (3) as (2).
+Subsec. (c)(3). Pub. L. 110–457, § 301(3)(C), redesignated par. (3) as (2).
 
-Subsec. (d). Pub. L. 110–457, § 213(a)(2)(B), designated first and second sentences as subpars. (A) and (B), respectively, inserted subpar. headings, and added subpar. (C).
+Subsec. (d). Pub. L. 110–457, § 213(a)(2)(B), designated first and second sentences as subpars. (A) and (B), respectively, inserted subpar. headings, and added subpar. (C).
 
-Subsec. (d)(A). Pub. L. 110–457, § 301(4)(A), substituted “$10,000,000 for each of the fiscal years 2008 through 2011” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007”.
+Subsec. (d)(A). Pub. L. 110–457, § 301(4)(A), substituted “$10,000,000 for each of the fiscal years 2008 through 2011” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007”.
 
-Subsec. (d)(B). Pub. L. 110–457, § 301(4)(B), substituted “2008 through 2011” for “2004, 2005, 2006, and 2007”.
+Subsec. (d)(B). Pub. L. 110–457, § 301(4)(B), substituted “2008 through 2011” for “2004, 2005, 2006, and 2007”.
 
-Subsec. (e)(1). Pub. L. 110–457, § 301(5)(A), substituted “$15,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007.”
+Subsec. (e)(1). Pub. L. 110–457, § 301(5)(A), substituted “$15,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007.”
 
-Subsec. (e)(2). Pub. L. 110–457, § 301(5)(B), made technical amendment to reference in original act which appears in text as reference to section 2152d of this title and substituted “$15,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007.”
+Subsec. (e)(2). Pub. L. 110–457, § 301(5)(B), made technical amendment to reference in original act which appears in text as reference to section 2152d of this title and substituted “$15,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007.”
 
-Subsec. (e)(3). Pub. L. 110–457, § 301(5)(C), substituted “$2,000,000 for each of the fiscal years 2008 through 2011.” for “$300,000 for each of the fiscal years 2004 through 2007.”
+Subsec. (e)(3). Pub. L. 110–457, § 301(5)(C), substituted “$2,000,000 for each of the fiscal years 2008 through 2011.” for “$300,000 for each of the fiscal years 2004 through 2007.”
 
-Subsec. (f). Pub. L. 110–457, § 301(6), substituted “$10,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.”
+Subsec. (f). Pub. L. 110–457, § 301(6), substituted “$10,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.”
 
-Subsec. (h). Pub. L. 110–457, § 301(7), substituted “each of the fiscal years 2008 through 2011” for “fiscal year 2006”.
+Subsec. (h). Pub. L. 110–457, § 301(7), substituted “each of the fiscal years 2008 through 2011” for “fiscal year 2006”.
 
-Subsec. (i). Pub. L. 110–457, § 301(8), substituted “2008 through 2011” for “2006 and 2007”.
+Subsec. (i). Pub. L. 110–457, § 301(8), substituted “2008 through 2011” for “2006 and 2007”.
 
-2006—Subsec. (a). Pub. L. 109–164, § 301(1), substituted “$5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking for official reception and representation expenses $3,000 for each of the fiscal years 2006 and 2007.” for “and $5,000,000 for each of the fiscal years 2004 and 2005.”
+2006—Subsec. (a). Pub. L. 109–164, § 301(1), substituted “$5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking for official reception and representation expenses $3,000 for each of the fiscal years 2006 and 2007.” for “and $5,000,000 for each of the fiscal years 2004 and 2005.”
 
-Subsec. (b). Pub. L. 109–164, § 301(2), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005”.
+Subsec. (b). Pub. L. 109–164, § 301(2), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005”.
 
-Subsec. (c)(1). Pub. L. 109–164, § 301(3), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005” wherever appearing.
+Subsec. (c)(1). Pub. L. 109–164, § 301(3), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005” wherever appearing.
 
-Subsec. (d). Pub. L. 109–164, § 301(4), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005” in two places.
+Subsec. (d). Pub. L. 109–164, § 301(4), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005” in two places.
 
-Subsec. (e). Pub. L. 109–164, § 301(5), substituted “2003 through 2007” for “2003 through 2005” in pars. (1) and (2) and “$300,000 for each of the fiscal years 2004 through 2007” for “$300,000 for fiscal year 2004 and $300,000 for fiscal year 2005” in par. (3).
+Subsec. (e). Pub. L. 109–164, § 301(5), substituted “2003 through 2007” for “2003 through 2005” in pars. (1) and (2) and “$300,000 for each of the fiscal years 2004 through 2007” for “$300,000 for fiscal year 2004 and $300,000 for fiscal year 2005” in par. (3).
 
-Subsec. (f). Pub. L. 109–164, § 301(6), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005”.
+Subsec. (f). Pub. L. 109–164, § 301(6), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005”.
 
-Subsecs. (h), (i). Pub. L. 109–164, § 301(7), added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 109–164, § 301(7), added subsecs. (h) and (i).
 
-2003—Subsec. (a). Pub. L. 108–193, § 7(1), substituted “7103(e), 7103(f)” for “7103” and “, $3,000,000 for each of the fiscal years 2002 and 2003, and $5,000,000 for each of the fiscal years 2004 and 2005” for “and $3,000,000 for each of the fiscal years 2002 and 2003”.
+2003—Subsec. (a). Pub. L. 108–193, § 7(1), substituted “7103(e), 7103(f)” for “7103” and “, $3,000,000 for each of the fiscal years 2002 and 2003, and $5,000,000 for each of the fiscal years 2004 and 2005” for “and $3,000,000 for each of the fiscal years 2002 and 2003”.
 
-Subsec. (b). Pub. L. 108–193, § 7(2), inserted before period at end “and $15,000,000 for each of the fiscal years 2004 and 2005”.
+Subsec. (b). Pub. L. 108–193, § 7(2), inserted before period at end “and $15,000,000 for each of the fiscal years 2004 and 2005”.
 
-Subsec. (c)(1). Pub. L. 108–193, § 7(3)(A), amended heading and text of par. (1) generally. Text read as follows: “To carry out the purposes of section 7105(a) of this title, there are authorized to be appropriated to the Secretary of State $5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003.”
+Subsec. (c)(1). Pub. L. 108–193, § 7(3)(A), amended heading and text of par. (1) generally. Text read as follows: “To carry out the purposes of section 7105(a) of this title, there are authorized to be appropriated to the Secretary of State $5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003.”
 
-Subsec. (c)(2). Pub. L. 108–193, § 7(3)(B), substituted “for each of the fiscal years 2001 through 2005” for “for each of the fiscal years 2001, 2002, and 2003”.
+Subsec. (c)(2). Pub. L. 108–193, § 7(3)(B), substituted “for each of the fiscal years 2001 through 2005” for “for each of the fiscal years 2001, 2002, and 2003”.
 
-Subsec. (d). Pub. L. 108–193, § 7(4), inserted “and $15,000,000 for each of the fiscal years 2004 and 2005” after “fiscal year 2002” and inserted at end sentence relating to authorization of appropriations to carry out training activities at the International Law Enforcement Academies.
+Subsec. (d). Pub. L. 108–193, § 7(4), inserted “and $15,000,000 for each of the fiscal years 2004 and 2005” after “fiscal year 2002” and inserted at end sentence relating to authorization of appropriations to carry out training activities at the International Law Enforcement Academies.
 
-Subsec. (e). Pub. L. 108–193, § 7(5), substituted “for each of the fiscal years 2003 through 2005” for “for fiscal year 2003” in pars. (1) and (2) and added par. (3).
+Subsec. (e). Pub. L. 108–193, § 7(5), substituted “for each of the fiscal years 2003 through 2005” for “for fiscal year 2003” in pars. (1) and (2) and added par. (3).
 
-Subsec. (f). Pub. L. 108–193, § 7(6), inserted “and $10,000,000 for each of the fiscal years 2004 and 2005” before period at end.
+Subsec. (f). Pub. L. 108–193, § 7(6), inserted “and $10,000,000 for each of the fiscal years 2004 and 2005” before period at end.
 
-Subsec. (g). Pub. L. 108–193, § 7(7), added subsec. (g).
+Subsec. (g). Pub. L. 108–193, § 7(7), added subsec. (g).
 
-2002—Subsec. (a). Pub. L. 107–228, § 682(b)(1), substituted “for each of the fiscal years 2002 and 2003” for “for fiscal year 2002”.
+2002—Subsec. (a). Pub. L. 107–228, § 682(b)(1), substituted “for each of the fiscal years 2002 and 2003” for “for fiscal year 2002”.
 
-Subsec. (c)(1). Pub. L. 107–228, § 682(b)(2)(A), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
+Subsec. (c)(1). Pub. L. 107–228, § 682(b)(2)(A), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
 
-Subsec. (c)(2). Pub. L. 107–228, § 682(b)(2)(B), substituted “there is authorized to be appropriated to the Secretary of State for each of the fiscal years 2001, 2002, and 2003” for “there are authorized to be appropriated to the Secretary of State” and “for such fiscal year” for “for fiscal year 2001”.
+Subsec. (c)(2). Pub. L. 107–228, § 682(b)(2)(B), substituted “there is authorized to be appropriated to the Secretary of State for each of the fiscal years 2001, 2002, and 2003” for “there are authorized to be appropriated to the Secretary of State” and “for such fiscal year” for “for fiscal year 2001”.
 
-Subsec. (e)(1), (2). Pub. L. 107–228, § 682(b)(3), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
+Subsec. (e)(1), (2). Pub. L. 107–228, § 682(b)(3), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3065,9 +3065,9 @@ References to the Diplomatic and Consular Programs account to be construed to in
 
 **Rule of Construction**
 
-Pub. L. 110–457, title III, § 303, Dec. 23, 2008, 122 Stat. 5087, provided that: “The amendments made by sections 301 and 302 [amending this section, sections 20701 to 20703 and 20705 of Title 34, Crime Control and Law Enforcement, and provisions set out as a note under section 7105 of this title] may not be construed to affect the availability of funds appropriated pursuant to the authorizations of appropriations under the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; 22 U.S.C. 7101 et seq.) and the Trafficking Victims Protection Reauthorization Act of 2005 (Public Law 109–164) [see Tables for classification] before the date of the enactment of this Act [Dec. 23, 2008].”
+Pub. L. 110–457, title III, § 303, Dec. 23, 2008, 122 Stat. 5087, provided that: “The amendments made by sections 301 and 302 [amending this section, sections 20701 to 20703 and 20705 of Title 34, Crime Control and Law Enforcement, and provisions set out as a note under section 7105 of this title] may not be construed to affect the availability of funds appropriated pursuant to the authorizations of appropriations under the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; 22 U.S.C. 7101 et seq.) and the Trafficking Victims Protection Reauthorization Act of 2005 (Public Law 109–164) [see Tables for classification] before the date of the enactment of this Act [Dec. 23, 2008].”
 
-## § 7111. Report by Secretary of State
+## § 7111. Report by Secretary of State
 
 At least 15 days prior to voting for a new or reauthorized peacekeeping mission under the auspices of the United Nations, the North Atlantic Treaty Organization, or any other multilateral organization in which the United States participates (or in an emergency, as far in advance as is practicable), the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives, the Committee on Foreign Relations of the Senate, and any other appropriate congressional committee a report that contains—
 
@@ -3075,7 +3075,7 @@ At least 15 days prior to voting for a new or reauthorized peacekeeping mission 
 
 **(B)** an analysis of the effectiveness of each of the measures referred to in subparagraph (A).
 
-(Pub. L. 109–164, title I, § 104(e)(2), Jan. 10, 2006, 119 Stat. 3566; Pub. L. 110–457, title III, § 304(b), Dec. 23, 2008, 122 Stat. 5087.)
+(Pub. L. 109–164, title I, § 104(e)(2), Jan. 10, 2006, 119 Stat. 3566; Pub. L. 110–457, title III, § 304(b), Dec. 23, 2008, 122 Stat. 5087.)
 
 **Editorial Notes**
 
@@ -3087,7 +3087,7 @@ Section was enacted as part of the Trafficking Victims Protection Reauthorizatio
 
 2008—Pub. L. 110–457 substituted “Committee on Foreign Affairs” for “Committee on International Relations” in introductory provisions.
 
-## § 7112. Additional activities to monitor and combat forced labor and child labor
+## § 7112. Additional activities to monitor and combat forced labor and child labor
 
 **(a) Activities of the Department of State**
 
@@ -3125,7 +3125,7 @@ The Secretary of Labor, acting through the head of the Bureau of International L
 
 Not later than December 1, 2014, and every 2 years thereafter, the Secretary of Labor shall submit the list developed under paragraph (2)(C) to Congress.
 
-(Pub. L. 109–164, title I, § 105, Jan. 10, 2006, 119 Stat. 3566; Pub. L. 113–4, title XII, §§ 1232, 1233, Mar. 7, 2013, 127 Stat. 146; Pub. L. 115–425, title I, § 133(a), Jan. 8, 2019, 132 Stat. 5481.)
+(Pub. L. 109–164, title I, § 105, Jan. 10, 2006, 119 Stat. 3566; Pub. L. 113–4, title XII, §§ 1232, 1233, Mar. 7, 2013, 127 Stat. 146; Pub. L. 115–425, title I, § 133(a), Jan. 8, 2019, 132 Stat. 5481.)
 
 **Editorial Notes**
 
@@ -3135,19 +3135,19 @@ Section was enacted as part of the Trafficking Victims Protection Reauthorizatio
 
 **Amendments**
 
-2019—Subsec. (b)(2)(C). Pub. L. 115–425 inserted “, including, to the extent practicable, goods that are produced with inputs that are produced with forced labor or child labor” after “international standards”.
+2019—Subsec. (b)(2)(C). Pub. L. 115–425 inserted “, including, to the extent practicable, goods that are produced with inputs that are produced with forced labor or child labor” after “international standards”.
 
-2013—Subsec. (a)(3). Pub. L. 113–4, § 1233, added par. (3).
+2013—Subsec. (a)(3). Pub. L. 113–4, § 1233, added par. (3).
 
-Subsec. (b)(3). Pub. L. 113–4, § 1232, added par. (3).
+Subsec. (b)(3). Pub. L. 113–4, § 1232, added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Consultative Group To Eliminate the Use of Child Labor and Forced Labor in Imported Agricultural Products**
 
-Pub. L. 110–246, title III, § 3205, June 18, 2008, 122 Stat. 1838, provided for the establishment of a consultative group to make recommendations to the Secretary of Agriculture relating to guidelines to reduce the likelihood that agricultural products imported into the United States were produced with the use of forced labor or child labor and for the group’s authority to terminate on Dec. 31, 2012.
+Pub. L. 110–246, title III, § 3205, June 18, 2008, 122 Stat. 1838, provided for the establishment of a consultative group to make recommendations to the Secretary of Agriculture relating to guidelines to reduce the likelihood that agricultural products imported into the United States were produced with the use of forced labor or child labor and for the group’s authority to terminate on Dec. 31, 2012.
 
-## § 7113. Accountability
+## § 7113. Accountability
 
 **(a) In general** For fiscal year 2013, and each fiscal year thereafter, all grants awarded by the Attorney General under this title or an Act amended by this title shall be subject to the following accountability provisions:
 
@@ -3155,9 +3155,9 @@ Pub. L. 110–246, title III, § 3205, June 18, 2008, 122 Stat. 1838, provided
 
 **(A) Definition**
 
-In this paragraph, the term “unresolved audit finding” means an audit report finding in the final audit report of the Inspector General of the Department of Justice that the grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved during the 12-month period beginning on the date on which the final audit report is issued 1
+In this paragraph, the term “unresolved audit finding” means an audit report finding in the final audit report of the Inspector General of the Department of Justice that the grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved during the 12-month period beginning on the date on which the final audit report is issued 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(B) Requirement**
 
@@ -3221,7 +3221,7 @@ The Deputy Attorney General shall submit an annual report to the Committee on th
 
 **(2)** The program under section 20709c of title 34.
 
-(Pub. L. 113–4, title XII, § 1236, Mar. 7, 2013, 127 Stat. 147; Pub. L. 115–393, title VI, § 601, Dec. 21, 2018, 132 Stat. 5278.)
+(Pub. L. 113–4, title XII, § 1236, Mar. 7, 2013, 127 Stat. 147; Pub. L. 115–393, title VI, § 601, Dec. 21, 2018, 132 Stat. 5278.)
 
 **Editorial Notes**
 
@@ -3237,7 +3237,7 @@ Section was enacted as part of the Violence Against Women Reauthorization Act of
 
 2018—Pub. L. 115–393 designated existing provisions as subsec. (a), inserted heading, substituted “For fiscal year 2013, and each fiscal year thereafter, all grants” for “All grants” in introductory provisions, and added subsec. (b).
 
-## § 7114. Efforts to end modern slavery
+## § 7114. Efforts to end modern slavery
 
 **(a) Actions by the Secretary of Defense**
 
@@ -3289,9 +3289,9 @@ Any grant recipient shall submit a report to the Secretary of State annually and
 
 **(f) Rule of construction regarding availability of fiscal year 2016 appropriations**
 
-The enactment of this section is deemed to meet the condition of the first proviso of paragraph (2) of section 7060(f) of the Department of State, Foreign Operations, and Related Appropriations 1
+The enactment of this section is deemed to meet the condition of the first proviso of paragraph (2) of section 7060(f) of the Department of State, Foreign Operations, and Related Appropriations 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “Programs”.
+<sup>1</sup> So in original. Probably should be preceded by “Programs”.
 
 Act, 2016 (division K of Public Law 114–113), and the funds referred to in such paragraph shall be made available in accordance with, and for the purposes set forth in, such paragraph.
 
@@ -3321,7 +3321,7 @@ The Comptroller General of the United States shall brief the appropriate congres
 
 **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 114–328, div. A, title XII, § 1298, Dec. 23, 2016, 130 Stat. 2563.)
+(Pub. L. 114–328, div. A, title XII, § 1298, Dec. 23, 2016, 130 Stat. 2563.)
 
 **Editorial Notes**
 
@@ -3333,7 +3333,7 @@ Section 7060(f)(2) of the Department of State, Foreign Operations, and Related P
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
 
-## § 7115. Ensuring protection and confidentiality for survivors of human trafficking
+## § 7115. Ensuring protection and confidentiality for survivors of human trafficking
 
 **(a) Definitions** In this section—
 
@@ -3355,7 +3355,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **(3)** for which a current privacy certificate is on file documenting how the researchers intend to fulfill the obligations under such part 22.
 
-(Pub. L. 106–386, div. A, § 114, as added Pub. L. 117–347, title I, § 103, Jan. 5, 2023, 136 Stat. 6200.)
+(Pub. L. 106–386, div. A, § 114, as added Pub. L. 117–347, title I, § 103, Jan. 5, 2023, 136 Stat. 6200.)
 
 **Editorial Notes**
 
@@ -3363,4 +3363,4 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 The Violence Against Women Act of 1994, referred to in subsec. (b)(1), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see section 40001 of Pub. L. 103–322, set out as a Short Title of 1994 Act note under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
 
-The Family Violence Prevention and Services Act, referred to in subsec. (b)(2), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, which is classified generally to chapter 110 (§ 10401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of Title 42 and Tables.
+The Family Violence Prevention and Services Act, referred to in subsec. (b)(2), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, which is classified generally to chapter 110 (§ 10401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of Title 42 and Tables.

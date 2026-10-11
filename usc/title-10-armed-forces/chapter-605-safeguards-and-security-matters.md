@@ -27,11 +27,11 @@ Chapter analysis added pursuant to operation of section 102 of this title.
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6221. Prohibition on international inspections of Department of Energy facilities unless protection of restricted data is certified
+### § 6221. Prohibition on international inspections of Department of Energy facilities unless protection of restricted data is certified
 
 The Secretary of Energy may not allow an inspection of a national security laboratory or nuclear weapons production facility by the International Atomic Energy Agency until the Secretary certifies to Congress that no Restricted Data will be revealed during such inspection.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1401.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1401.)
 
 **Editorial Notes**
 
@@ -39,9 +39,9 @@ The Secretary of Energy may not allow an inspection of a national security labor
 
 A prior section 6221 was renumbered section 8286 of this title.
 
-Provisions similar to those in this section were contained in section 2651 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2651 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6222. Restrictions on access to national security laboratories by foreign visitors from sensitive countries
+### § 6222. Restrictions on access to national security laboratories by foreign visitors from sensitive countries
 
 **(a) Background Review Required.—** The Secretary of Energy and the Administrator may not admit to any facility described in paragraph (3) of subsection (c) other than areas accessible to the general public any individual who is a citizen or agent of a covered foreign nation or a nation on the current sensitive countries list unless the Secretary or Administrator first completes a background review with respect to that individual.
 
@@ -59,9 +59,9 @@ Provisions similar to those in this section were contained in section 2651 of Ti
 
 **(C)** the Secretary or Administrator has consulted with the heads of other relevant departments or agencies of the United States Government to mitigate risks associated with the admittance of such individual; and
 
-**(D)** the background review completed to 1
+**(D)** the background review completed to 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 subsection (a) with respect to such individual did not uncover any previously unreported affiliation with military or intelligence organizations associated with a covered foreign nation.
 
@@ -103,7 +103,7 @@ subsection (a) with respect to such individual did not uncover any previously un
 
 **(3)** The term “sensitive countries list” means the list prescribed by the Secretary of Energy known as the Department of Energy List of Sensitive Countries.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1401, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1401, 1462.)
 
 **Editorial Notes**
 
@@ -111,19 +111,19 @@ subsection (a) with respect to such individual did not uncover any previously un
 
 A prior section 6222 was renumbered section 8287 of this title.
 
-Provisions similar to those in this section were contained in section 2652 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2652 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (4) headings which read as follows: “In general”, “Waiver”, “Facilities described”, and “Effective date”, respectively.
+Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (4) headings which read as follows: “In general”, “Waiver”, “Facilities described”, and “Effective date”, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on Conduct by Department of Energy of Background Reviews for Access by Certain Individuals to National Security Laboratories**
 
-Pub. L. 115–232, div. C, title XXXI, § 3121, Aug. 13, 2018, 132 Stat. 2295, as amended by Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(M), Dec. 18, 2025, 139 Stat. 1461, provided that:
+Pub. L. 115–232, div. C, title XXXI, § 3121, Aug. 13, 2018, 132 Stat. 2295, as amended by Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(M), Dec. 18, 2025, 139 Stat. 1461, provided that:
 
 > **“(a) In General.—** The Secretary of Energy shall establish a pilot program to assess the feasibility and advisability of conducting background reviews required by section 6222(a) of title 10, United States Code[,] within the Department of Energy.
 
@@ -157,7 +157,7 @@ Pub. L. 115–232, div. C, title XXXI, § 3121, Aug. 13, 2018, 132 Stat. 2295,
 
 > **“(2) National security laboratory.—** The term ‘national security laboratory’ has the meaning given that term in section 6101 of title 10, United States Code.”
 
-### § 6223. Background investigations of certain personnel at Department of Energy facilities
+### § 6223. Background investigations of certain personnel at Department of Energy facilities
 
 The Secretary of Energy shall ensure that an investigation meeting the requirements of section 145 of the Atomic Energy Act of 1954 (42 U.S.C. 2165) is made for each Department of Energy employee, or contractor employee, at a national security laboratory or nuclear weapons production facility who—
 
@@ -165,17 +165,17 @@ The Secretary of Energy shall ensure that an investigation meeting the requireme
 
 **(2)** has or may have regular access to a location where Restricted Data is present.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1403.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1403.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6223, act Aug. 10, 1956, ch. 1041, 70A Stat. 388; Pub. L. 101–510, div. A, title III, § 327(b), Nov. 5, 1990, 104 Stat. 1532; Pub. L. 102–25, title VII, § 701(j)(7), Apr. 6, 1991, 105 Stat. 116, generally prohibited any Navy band or Marine Corps band from competing with civilian musicians, prior to repeal by Pub. L. 110–181, div. A, title V, § 590(b)(1), Jan. 28, 2008, 122 Stat. 138. See section 974 of this title.
+A prior section 6223, act Aug. 10, 1956, ch. 1041, 70A Stat. 388; Pub. L. 101–510, div. A, title III, § 327(b), Nov. 5, 1990, 104 Stat. 1532; Pub. L. 102–25, title VII, § 701(j)(7), Apr. 6, 1991, 105 Stat. 116, generally prohibited any Navy band or Marine Corps band from competing with civilian musicians, prior to repeal by Pub. L. 110–181, div. A, title V, § 590(b)(1), Jan. 28, 2008, 122 Stat. 138. See section 974 of this title.
 
-Provisions similar to those in this section were contained in section 2653 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2653 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6224. Department of Energy counterintelligence polygraph program
+### § 6224. Department of Energy counterintelligence polygraph program
 
 **(a) New Counterintelligence Polygraph Program Required.—** The Secretary of Energy shall carry out, under regulations prescribed under this section, a new counterintelligence polygraph program for the Department of Energy. The purpose of the new program is to minimize the potential for release or disclosure of classified data, materials, or information.
 
@@ -195,21 +195,21 @@ Provisions similar to those in this section were contained in section 2653 of Ti
 
 **(c) Polygraph Review Defined.—** In this section, the term “Polygraph Review” means the review of the Committee to Review the Scientific Evidence on the Polygraph of the National Academy of Sciences.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1403, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1403, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6224, act Aug. 10, 1956, ch. 1041, 70A Stat. 388, provided that members of the United States Navy Band and the United States Marine Corps Band shall lose no allowances while on concert tours approved by the President, prior to repeal by Pub. L. 87–649, § 14c(46), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962. See section 425 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 6224, act Aug. 10, 1956, ch. 1041, 70A Stat. 388, provided that members of the United States Navy Band and the United States Marine Corps Band shall lose no allowances while on concert tours approved by the President, prior to repeal by Pub. L. 87–649, § 14c(46), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962. See section 425 of Title 37, Pay and Allowances of the Uniformed Services.
 
-Provisions similar to those in this section were contained in section 2654 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2654 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6225. Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs
+### § 6225. Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs
 
 **(a) Required Notification.—** The Secretary of Energy shall submit to the Committees on Armed Services of the Senate and House of Representatives a notification of each significant atomic energy defense intelligence loss. Any such notification shall be provided only after consultation with the Director of National Intelligence and the Director of the Federal Bureau of Investigation, as appropriate.
 
@@ -225,19 +225,19 @@ Provisions similar to those in this section were contained in section 2654 of Ti
 
 **(2)** Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to Congress, including the requirement under section 501 of the National Security Act of 1947 (50 U.S.C. 3091) for the President to ensure that the congressional intelligence committees are kept fully informed of the intelligence activities of the United States and for those committees to notify promptly other congressional committees of any matter relating to intelligence activities requiring the attention of those committees.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1404, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1404, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2656 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2656 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6226. Annual 1 [footnote: 1 So in original. Probably should be “Biennial”.] report and certification on status of security of atomic energy defense facilities
+### § 6226. Annual 1 [footnote: 1 So in original. Probably should be “Biennial”.] report and certification on status of security of atomic energy defense facilities
 
 **(a) Report and Certification on Nuclear Security Enterprise.—**
 
@@ -273,19 +273,19 @@ Provisions similar to those in this section were contained in section 2656 of Ti
 
 **(C)** timelines for taking such actions.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1405, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1405, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2657 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2657 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6227. Protection of certain nuclear facilities and assets from unmanned aircraft
+### § 6227. Protection of certain nuclear facilities and assets from unmanned aircraft
 
 **(a) Authority.—** Notwithstanding any provision of title 18, the Secretary of Energy may take such actions described in subsection (b)(1) that are necessary to mitigate the threat (as defined by the Secretary of Energy, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
 
@@ -325,13 +325,13 @@ Provisions similar to those in this section were contained in section 2657 of Ti
 
 **(ii)** a national security laboratory or nuclear weapons production facility.
 
-**(2)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 1
+**(2)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 note).
 
-(Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(1)(E), (2)(B), 3114, Dec. 18, 2025, 139 Stat. 1406, 1462, 1464.)
+(Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(1)(E), (2)(B), 3114, Dec. 18, 2025, 139 Stat. 1406, 1462, 1464.)
 
 **Editorial Notes**
 
@@ -345,15 +345,15 @@ Amendment by section 3114 of Pub. L. 119–60 directed to section 4510 of Pub. L
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2661 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2661 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (e)(1)(C). Pub. L. 119–60, §§ 3111(d)(1)(E), 3114, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “owned by the United States or contracted to the United States, to store or use special nuclear material.” See Codification note above.
+Subsec. (e)(1)(C). Pub. L. 119–60, §§ 3111(d)(1)(E), 3114, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “owned by the United States or contracted to the United States, to store or use special nuclear material.” See Codification note above.
 
-### § 6228. Reporting on penetrations of networks of contractors and subcontractors
+### § 6228. Reporting on penetrations of networks of contractors and subcontractors
 
 **(a) Procedures for Reporting Penetrations.—** The Administrator shall establish procedures that require each contractor and subcontractor to report to the Chief Information Officer when a covered network of the contractor or subcontractor that meets the criteria established pursuant to subsection (b) is successfully penetrated.
 
@@ -431,25 +431,25 @@ Subsec. (e)(1)(C). Pub. L. 119–60, §§ 3111(d)(1)(E), 3114, amended subpar.
 
 **(4)** The term “subcontractor” means a private entity that has entered into a contract or contractual action with a contractor or another subcontractor to furnish supplies, equipment, materials, or services of any kind in connection with another contract in support of any program of the Administration.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1407, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1407, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2662 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2662 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Officials specified”, respectively.
+Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Officials specified”, respectively.
 
-Subsec. (c)(1). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (1) “Rapid reporting” and subpars. (A) to (C) “In general”, “Elements”, and “Avoidance of delays in reporting”, respectively.
+Subsec. (c)(1). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (1) “Rapid reporting” and subpars. (A) to (C) “In general”, “Elements”, and “Avoidance of delays in reporting”, respectively.
 
-Subsec. (c)(2), (3). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (2) and (3) headings which read as follows: “Access to equipment and information by administration personnel” and “Dissemination of information”, respectively.
+Subsec. (c)(2), (3). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (2) and (3) headings which read as follows: “Access to equipment and information by administration personnel” and “Dissemination of information”, respectively.
 
-Subsec. (d). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (4) headings which corresponded to the defined term in each par.
+Subsec. (d). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (4) headings which corresponded to the defined term in each par.
 
 ## SUBCHAPTER II—CLASSIFIED INFORMATION
 
@@ -459,21 +459,21 @@ Subsec. (d). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (4) h
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6231. Review of certain documents before declassification and release
+### § 6231. Review of certain documents before declassification and release
 
 **(a) In General.—** The Secretary of Energy shall ensure that, before a document of the Department of Energy that contains national security information is released or declassified, such document is reviewed to determine whether it contains Restricted Data.
 
 **(b) Limitation on Declassification.—** The Secretary may not implement the automatic declassification provisions of Executive Order No. 13526 (50 U.S.C. 3161 note) if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing Restricted Data.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1409.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1409.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2671 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2671 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6232. Protection against inadvertent release of restricted data and formerly restricted data
+### § 6232. Protection against inadvertent release of restricted data and formerly restricted data
 
 **(a) Plan for Protection Against Release.—** The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 13526 (50 U.S.C. 3161 note).
 
@@ -517,23 +517,23 @@ Provisions similar to those in this section were contained in section 2671 of Ti
 
 **(2)** The Secretary of Energy shall, in each even-numbered year beginning in 2010, submit to the committees and Assistant to the President specified in subsection (d) a report identifying any inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 13526 discovered in the two-year period preceding the submittal of the report.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1409, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1409, 1462.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order No. 12958, referred to in subsec. (e)(1), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, which was formerly set out as a note under section 3161 of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in subsec. (e)(1), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, which was formerly set out as a note under section 3161 of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2672 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2672 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6233. Supplement to plan for declassification of restricted data and formerly restricted data
+### § 6233. Supplement to plan for declassification of restricted data and formerly restricted data
 
 **(a) Supplement to Plan.—** The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a supplement to the plan required under subsection (a) of section 6232.
 
@@ -543,19 +543,19 @@ Provisions similar to those in this section were contained in section 2672 of Ti
 
 **(d) Submission of Supplement.—** The Secretary of Energy shall submit the supplement required under subsection (a) to the recipients of the plan referred to in subsection (d) of section 6232.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1411.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1411.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order No. 12958, referred to in subsec. (b), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, which was formerly set out as a note under section 3161 of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in subsec. (b), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, which was formerly set out as a note under section 3161 of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2673 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2673 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6234. Protection of classified information during laboratory-to-laboratory exchanges
+### § 6234. Protection of classified information during laboratory-to-laboratory exchanges
 
 **(a) Provision of Training.—** The Secretary of Energy shall ensure that all Department of Energy employees and Department of Energy contractor employees participating in laboratory-to-laboratory cooperative exchange activities are fully trained in matters relating to the protection of classified information and to potential espionage and counterintelligence threats.
 
@@ -565,28 +565,28 @@ Provisions similar to those in this section were contained in section 2673 of Ti
 
 **(2)** The Director of Intelligence and Counterintelligence of the Department of Energy may assign at least one employee from the pool established under paragraph (1) to accompany a group of Department employees or Department contractor employees who travel to any nation designated to be a sensitive country for laboratory-to-laboratory exchange activities or other cooperative exchange activities on behalf of the Department.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1411, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1411, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2674 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2674 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6235. Identification in budget materials of amounts for declassification activities and limitation on expenditures for such activities
+### § 6235. Identification in budget materials of amounts for declassification activities and limitation on expenditures for such activities
 
 **(a) Amounts for Declassification of Records.—** The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) specific identification, as a budgetary line item, of the amounts required to carry out programmed activities during that fiscal year to declassify records pursuant to Executive Order No. 13526 (50 U.S.C. 3161 note), or any successor Executive order, or to comply with any statutory requirement to declassify Government records.
 
 **(b) Certification Required With Respect to Automatic Declassification of Records.—** No records of the Department of Energy that have not as of October 5, 1999, been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Energy certifies to Congress that such declassification would not harm the national security.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1411.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1411.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2675 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2675 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).

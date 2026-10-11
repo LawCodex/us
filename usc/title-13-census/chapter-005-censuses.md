@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1997—Pub. L. 105–113, § 3(b)(2), Nov. 21, 1997, 111 Stat. 2275, substituted “POPULATION, HOUSING, AND UNEMPLOYMENT” for “POPULATION, HOUSING, AGRICULTURE, IRRIGATION, AND UNEMPLOYMENT” in the item for subchapter II, and struck out item 142 “Agriculture and irrigation”.
+1997—Pub. L. 105–113, § 3(b)(2), Nov. 21, 1997, 111 Stat. 2275, substituted “POPULATION, HOUSING, AND UNEMPLOYMENT” for “POPULATION, HOUSING, AGRICULTURE, IRRIGATION, AND UNEMPLOYMENT” in the item for subchapter II, and struck out item 142 “Agriculture and irrigation”.
 
-1986—Pub. L. 99–544, § 1(c), Oct. 27, 1986, 100 Stat. 3046, substituted “IRRIGATION, AND UNEMPLOYMENT” for “IRRIGATION, DRAINAGE, AND UNEMPLOYMENT” in item for subchapter II, and “Agriculture and irrigation” for “Agriculture, irrigation, and drainage” in item 142.
+1986—Pub. L. 99–544, § 1(c), Oct. 27, 1986, 100 Stat. 3046, substituted “IRRIGATION, AND UNEMPLOYMENT” for “IRRIGATION, DRAINAGE, AND UNEMPLOYMENT” in item for subchapter II, and “Agriculture and irrigation” for “Agriculture, irrigation, and drainage” in item 142.
 
-1976—Pub. L. 94–521, §§ 7(b), 8(b), 11(b), Oct. 17, 1976, 90 Stat. 2462–2464, substituted “Population and other census information” for “Population, unemployment, and housing” in item 141, without reference to amendment thereto by Pub. L. 94–171, and added items 181 to 184 and 196, respectively.
+1976—Pub. L. 94–521, §§ 7(b), 8(b), 11(b), Oct. 17, 1976, 90 Stat. 2462–2464, substituted “Population and other census information” for “Population, unemployment, and housing” in item 141, without reference to amendment thereto by Pub. L. 94–171, and added items 181 to 184 and 196, respectively.
 
-1975—Pub. L. 94–171, § 2(b), Dec. 23, 1975, 89 Stat. 1024, inserted “; tabulation for legislative apportionment” in item 141.
+1975—Pub. L. 94–171, § 2(b), Dec. 23, 1975, 89 Stat. 1024, inserted “; tabulation for legislative apportionment” in item 141.
 
-1957—Pub. L. 85–207, § 7, Aug. 28, 1957, 71 Stat. 482, in amending analysis generally, substituted “MANUFACTURES” for “MANUFACTURERS” in item for subchapter I; substituted in item 141 “Population, unemployment, and housing” for “Population, agriculture, irrigation, drainage, and unemployment; territory included”, and in item 142 “Agriculture, irrigation, and drainage.” for “Housing, scope of inquiries; territory included; supplementary statistics.”, struck out items 143 to 146, 162 and 163; and added Subchapter V.
+1957—Pub. L. 85–207, § 7, Aug. 28, 1957, 71 Stat. 482, in amending analysis generally, substituted “MANUFACTURES” for “MANUFACTURERS” in item for subchapter I; substituted in item 141 “Population, unemployment, and housing” for “Population, agriculture, irrigation, drainage, and unemployment; territory included”, and in item 142 “Agriculture, irrigation, and drainage.” for “Housing, scope of inquiries; territory included; supplementary statistics.”, struck out items 143 to 146, 162 and 163; and added Subchapter V.
 
 ## SUBCHAPTER I—MANUFACTURES, MINERAL INDUSTRIES, AND OTHER BUSINESSES
 
-### § 131. Collection and publication; five-year periods
+### § 131. Collection and publication; five-year periods
 
 The Secretary shall take, compile, and publish censuses of manufactures, of mineral industries, and of other businesses, including the distributive trades, service establishments, and transportation (exclusive of means of transportation for which statistics are required by law to be filed with, and are compiled and published by, a designated regulatory body), in the year 1964, then in the year 1968, and every fifth year thereafter, and each such census shall relate to the year immediately preceding the taking thereof.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1019; Pub. L. 85–207, § 8, Aug. 28, 1957, 71 Stat. 482; Pub. L. 88–532, Aug. 31, 1964, 78 Stat. 737.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1019; Pub. L. 85–207, § 8, Aug. 28, 1957, 71 Stat. 482; Pub. L. 88–532, Aug. 31, 1964, 78 Stat. 737.)
 
 **Historical and Revision Notes**
 
-Based on title 13, U.S.C., 1952 ed., § 121 (June 19, 1948, ch. 502, § 1, 62 Stat. 478; June 18, 1954, ch. 315, 68 Stat. 258).
+Based on title 13, U.S.C., 1952 ed., § 121 (June 19, 1948, ch. 502, § 1, 62 Stat. 478; June 18, 1954, ch. 315, 68 Stat. 258).
 
 Section was subsection (a) of section 121 of title 13, U.S.C., 1952 ed. The remainder of such section 121, which constituted subsection (b) thereof, is incorporated in subchapter IV of this chapter.
 
-At the beginning, “The Secretary”, meaning the Secretary of Commerce, was substituted for a reference to the Director of the Bureau of the Census, and, at the end, the provision that the territorial scope of the censuses should be determined by the Secretary was substituted for the provision of section 121 of title 13, U.S.C., 1952 ed., that such determination should be made by the Director with the approval of the Secretary, to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, which transferred all functions of all officers and employees, agencies and bureaus of the Department of Commerce to the Secretary. However, the Secretary, under that plan, may delegate any of such transferred functions, as well as any other of his functions, to any of such officers, employees, agencies and bureaus. See, also, section 4 of this title.
+At the beginning, “The Secretary”, meaning the Secretary of Commerce, was substituted for a reference to the Director of the Bureau of the Census, and, at the end, the provision that the territorial scope of the censuses should be determined by the Secretary was substituted for the provision of section 121 of title 13, U.S.C., 1952 ed., that such determination should be made by the Director with the approval of the Secretary, to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, which transferred all functions of all officers and employees, agencies and bureaus of the Department of Commerce to the Secretary. However, the Secretary, under that plan, may delegate any of such transferred functions, as well as any other of his functions, to any of such officers, employees, agencies and bureaus. See, also, section 4 of this title.
 
 The reference in section 121 of title 13, U.S.C., 1952 ed., to the year “1949” as the year for commencement of the quinquennial censuses was changed to the year “1954”, since the former designation is obsolete, and the provision of such section that the census of manufacturers should not be taken in 1949 was omitted as obsolete.
 
@@ -61,7 +61,7 @@ Changes were made in phraseology.
 
 **Census Data on Women Owned Businesses; Study and Report**
 
-Pub. L. 100–533, title V, § 501, Oct. 25, 1988, 102 Stat. 2697, provided that:
+Pub. L. 100–533, title V, § 501, Oct. 25, 1988, 102 Stat. 2697, provided that:
 
 > **“(a) Bureau of Labor Statistics.—** The Bureau of Labor Statistics of the Department of Labor shall include in any census report it may prepare on women owned business data on—
 
@@ -75,7 +75,7 @@ Pub. L. 100–533, title V, § 501, Oct. 25, 1988, 102 Stat. 2697, provided th
 
 > **“(c) Combined Study.—** Not later than one hundred and eighty days after the effective date of this section [Oct. 25, 1988], the Office of the Chief Counsel for Advocacy of the Small Business Administration (hereinafter referred to in this subsection as the ‘Office’) shall conduct a study and prepare a report recommending the most cost effective and accurate means to gather and present the data required to be collected pursuant to subsections (a) and (b). The Department of Commerce and the Department of Labor shall provide the Office such assistance and cooperation as may be necessary and appropriate to achieve the purposes of this subsection.”
 
-### § 132. Controlling law; effect on other agencies
+### § 132. Controlling law; effect on other agencies
 
 To the extent that the provisions of this subchapter or subchapter IV of this chapter conflict with any other provision of this title or other law, pertaining to the Secretary of the Department of Commerce, the provisions of this title shall control; but nothing in this title shall be deemed to revoke or impair the authority of any other Federal agency with respect to the collection or release of information.
 
@@ -83,11 +83,11 @@ To the extent that the provisions of this subchapter or subchapter IV of this ch
 
 **Historical and Revision Notes**
 
-Based on title 13, U.S.C., 1952 ed., § 123 (June 19, 1948, ch. 502, § 3, 62 Stat. 479).
+Based on title 13, U.S.C., 1952 ed., § 123 (June 19, 1948, ch. 502, § 3, 62 Stat. 479).
 
 Section was derived from all of section 123 of title 13, U.S.C., 1952 ed., except the first sentence. That sentence is incorporated with other provisions in chapter 1 of this title. See Distribution Table.
 
-The reference “Secretary or Department of Commerce” was substituted for reference to the Bureau of the Census to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
+The reference “Secretary or Department of Commerce” was substituted for reference to the Bureau of the Census to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
 Changes were made in phraseology.
 
@@ -97,11 +97,11 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1997—Pub. L. 105–113, § 3(b)(1), Nov. 21, 1997, 111 Stat. 2275, substituted “POPULATION, HOUSING, AND UNEMPLOYMENT” for “POPULATION, HOUSING, AGRICULTURE, IRRIGATION,, AND UNEMPLOYMENT”.
+1997—Pub. L. 105–113, § 3(b)(1), Nov. 21, 1997, 111 Stat. 2275, substituted “POPULATION, HOUSING, AND UNEMPLOYMENT” for “POPULATION, HOUSING, AGRICULTURE, IRRIGATION,, AND UNEMPLOYMENT”.
 
-1986—Pub. L. 99–544, § 1(b), Oct. 27, 1986, 100 Stat. 3046, struck out “DRAINAGE” after “IRRIGATION,”.
+1986—Pub. L. 99–544, § 1(b), Oct. 27, 1986, 100 Stat. 3046, struck out “DRAINAGE” after “IRRIGATION,”.
 
-### § 141. Population and other census information
+### § 141. Population and other census information
 
 **(a)** The Secretary shall, in the year 1980 and every 10 years thereafter, take a decennial census of population as of the first day of April of such year, which date shall be known as the “decennial census date”, in such form and content as he may determine, including the use of sampling procedures and special surveys. In connection with any such census, the Secretary is authorized to obtain such other census information as necessary.
 
@@ -133,13 +133,13 @@ then in the determination of such eligibility or amount of benefits the most rec
 
 **(g)** As used in this section, “census of population” means a census of population, housing, and matters relating to population and housing.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1019; Pub. L. 85–207, § 9, Aug. 28, 1957, 71 Stat. 483; Pub. L. 94–171, §§ 1, 2(a), Dec. 23, 1975, 89 Stat. 1023, 1024; Pub. L. 94–521, § 7(a), Oct. 17, 1976, 90 Stat. 2461.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1019; Pub. L. 85–207, § 9, Aug. 28, 1957, 71 Stat. 483; Pub. L. 94–171, §§ 1, 2(a), Dec. 23, 1975, 89 Stat. 1023, 1024; Pub. L. 94–521, § 7(a), Oct. 17, 1976, 90 Stat. 2461.)
 
 **Historical and Revision Notes**
 
-Based on title 13, U.S.C., 1952 ed., § 201 (June 18, 1929, ch. 28, § 1, 46 Stat. 21; May 17, 1932, ch. 190, 47 Stat. 158).
+Based on title 13, U.S.C., 1952 ed., § 201 (June 18, 1929, ch. 28, § 1, 46 Stat. 21; May 17, 1932, ch. 190, 47 Stat. 158).
 
-References to the Secretary, meaning the Secretary of Commerce, were substituted for references to the Director of the Census, to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
+References to the Secretary, meaning the Secretary of Commerce, were substituted for references to the Director of the Census, to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
 The provision for taking the censuses in “1930 and every ten years thereafter” was changed to “1960 and every ten years thereafter” since the censuses for the years 1930, 1940 and 1950 have been completed.
 
@@ -163,9 +163,9 @@ Subsec. (c). Pub. L. 94–521 substituted “the decennial census date” for �
 
 Subsecs. (d) to (g). Pub. L. 94–521 added subsecs. (d) to (g).
 
-1975—Pub. L. 94–171, § 2(a), inserted “; tabulation for legislative apportionment” in section catchline.
+1975—Pub. L. 94–171, § 2(a), inserted “; tabulation for legislative apportionment” in section catchline.
 
-Subsec. (c). Pub. L. 94–171, § 1, added subsec. (c).
+Subsec. (c). Pub. L. 94–171, § 1, added subsec. (c).
 
 1957—Pub. L. 85–207 substituted “Population, unemployment, and housing” for “Population, agriculture, irrigation, drainage, and unemployment; territory excluded” in section catchline; inserted in text housing census provisions, struck out census coverage of agriculture, irrigation, and drainage and geographical provisions, and designated existing provisions as so amended as subsec. (a); and added subsec. (b). Census of agriculture, irrigation, and drainage and the geographical provisions are covered by sections 142 and 191 of this title.
 
@@ -177,7 +177,7 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 **Statistical Sampling or Adjustment in Decennial Enumeration of Population**
 
-Pub. L. 105–119, title II, § 209, Nov. 26, 1997, 111 Stat. 2480, provided that:
+Pub. L. 105–119, title II, § 209, Nov. 26, 1997, 111 Stat. 2480, provided that:
 
 > **“(a)** Congress finds that—
 
@@ -247,11 +247,11 @@ Pub. L. 105–119, title II, § 209, Nov. 26, 1997, 111 Stat. 2480, provided t
 
 **Census Monitoring Board**
 
-Pub. L. 105–119, title II, § 210(a)–(j), Nov. 26, 1997, 111 Stat. 2483–2487, established the Census Monitoring Board to observe and monitor all aspects of the preparation and implementation of the 2000 decennial census, described the membership and duties of the Board, and provided for its termination on Sept. 30, 2001.
+Pub. L. 105–119, title II, § 210(a)–(j), Nov. 26, 1997, 111 Stat. 2483–2487, established the Census Monitoring Board to observe and monitor all aspects of the preparation and implementation of the 2000 decennial census, described the membership and duties of the Board, and provided for its termination on Sept. 30, 2001.
 
 **Census Data on Grandparents as Primary Caregivers for Their Grandchildren**
 
-Pub. L. 104–193, title I, § 105, Aug. 22, 1996, 110 Stat. 2163, provided that:
+Pub. L. 104–193, title I, § 105, Aug. 22, 1996, 110 Stat. 2163, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Aug. 22, 1996], the Secretary of Commerce, in carrying out section 141 of title 13, United States Code, shall expand the data collection efforts of the Bureau of the Census (in this section referred to as the ‘Bureau’) to enable the Bureau to collect statistically significant data, in connection with its decennial census and its mid-decade census, concerning the growing trend of grandparents who are the primary caregivers for their grandchildren.
 
@@ -267,25 +267,25 @@ Pub. L. 102–135, Oct. 24, 1991, 105 Stat. 635, known as the Decennial Census I
 
 **Study of Counting of Homeless for National Census**
 
-Pub. L. 101–645, title IV, § 402, Nov. 29, 1990, 104 Stat. 4723, provided that not later than 1 year after Nov. 29, 1990, the General Accounting Office was to conduct a study of the methodology and procedures used by the Bureau of the Census in counting the number of homeless persons for the most recent decennial census conducted pursuant to this title, to determine the accuracy of such count, and report to the Congress the results of that study.
+Pub. L. 101–645, title IV, § 402, Nov. 29, 1990, 104 Stat. 4723, provided that not later than 1 year after Nov. 29, 1990, the General Accounting Office was to conduct a study of the methodology and procedures used by the Bureau of the Census in counting the number of homeless persons for the most recent decennial census conducted pursuant to this title, to determine the accuracy of such count, and report to the Congress the results of that study.
 
 **Monitoring Economic Progress of Rural America**
 
-Pub. L. 101–624, title XXIII, § 2382, Nov. 28, 1990, 104 Stat. 4050, provided that Director of Bureau of the Census was to expand data collection efforts of Bureau to enable it to collect statistically significant data concerning changing economic condition of rural counties and communities in United States, including data on rural employment, poverty, income, and other information concerning rural labor force, and authorized to be appropriated $1,000,000 for each fiscal year for such efforts, prior to repeal by Pub. L. 104–127, title VII, § 707, Apr. 4, 1996, 110 Stat. 1112.
+Pub. L. 101–624, title XXIII, § 2382, Nov. 28, 1990, 104 Stat. 4050, provided that Director of Bureau of the Census was to expand data collection efforts of Bureau to enable it to collect statistically significant data concerning changing economic condition of rural counties and communities in United States, including data on rural employment, poverty, income, and other information concerning rural labor force, and authorized to be appropriated $1,000,000 for each fiscal year for such efforts, prior to repeal by Pub. L. 104–127, title VII, § 707, Apr. 4, 1996, 110 Stat. 1112.
 
 **Americans of Spanish Origin or Descent; Study for Development of Creditable Estimates in Future Censuses**
 
-Pub. L. 94–311, § 4, June 16, 1976, 90 Stat. 688, provided that: “The Department of Commerce, in cooperation with appropriate Federal, State and local agencies and various population study groups and experts, shall immediately undertake a study to determine what steps would be necessary for developing creditable estimates of undercounts of Americans of Spanish origin or descent in future censuses.”
+Pub. L. 94–311, § 4, June 16, 1976, 90 Stat. 688, provided that: “The Department of Commerce, in cooperation with appropriate Federal, State and local agencies and various population study groups and experts, shall immediately undertake a study to determine what steps would be necessary for developing creditable estimates of undercounts of Americans of Spanish origin or descent in future censuses.”
 
 **Needs and Concerns of Spanish-Origin Population; Use of Spanish Language Questionnaires and Bilingual Enumerators**
 
-Pub. L. 94–311, § 5, June 16, 1976, 90 Stat. 689, provided that: “The Secretary of Commerce shall ensure that, in the Bureau of the Census data-collection activities, the needs and concerns of the Spanish-origin population are given full recognition through the use of Spanish language questionnaires, bilingual enumerators, and other such methods as deemed appropriate by the Secretary.”
+Pub. L. 94–311, § 5, June 16, 1976, 90 Stat. 689, provided that: “The Secretary of Commerce shall ensure that, in the Bureau of the Census data-collection activities, the needs and concerns of the Spanish-origin population are given full recognition through the use of Spanish language questionnaires, bilingual enumerators, and other such methods as deemed appropriate by the Secretary.”
 
 **Executive Documents**
 
 **Executive Order No. 13880**
 
-Ex. Ord. No. 13880, July 11, 2019, 84 F.R. 33821, which directed Federal agencies to assist the Department of Commerce in determining the number of citizens, non-citizens, and illegal aliens in the country for purposes of the 2020 census, was revoked by Ex. Ord. 13986, § 5, Jan. 20, 2021, 86 F.R. 7016, set out below.
+Ex. Ord. No. 13880, July 11, 2019, 84 F.R. 33821, which directed Federal agencies to assist the Department of Commerce in determining the number of citizens, non-citizens, and illegal aliens in the country for purposes of the 2020 census, was revoked by Ex. Ord. 13986, § 5, Jan. 20, 2021, 86 F.R. 7016, set out below.
 
 **Ex. Ord. No. 13986. Ensuring a Lawful and Accurate Enumeration and Apportionment Pursuant to the Decennial Census**
 
@@ -297,7 +297,7 @@ Section 1. *Background*. We have long guaranteed all of the Nation’s inhabitan
 
 The census and apportionment processes are enshrined in the Constitution. The Fourteenth Amendment apportions seats in the House of Representatives “among the several States according to their respective numbers, counting the whole number of persons in each State.” (U.S. Const. amend. XIV, sec. 2.) Article I, in turn, provides that, in order to determine those numbers, an “actual Enumeration” of the population of the United States must be conducted every 10 years. (U.S. Const. art. I, sec. 2, cl. 3.) The Congress has assigned responsibility for conducting the decennial census to the Secretary of Commerce (Secretary). (13 U.S.C. 141(a).)
 
-Once the Secretary, through the Director of the U.S. Census Bureau, takes the count, the President must carry out the apportionment of Representatives among the States. The Secretary prepares the “tabulation of total population by States … as required for the apportionment of Representatives,” and reports that tabulation to the President. (13 U.S.C. 141(b).) The President then sends a statement to the Congress showing “the whole number of persons in each State,” as ascertained under the census, and “the number of Representatives to which each State would be entitled under” the equal proportions apportionment method. (2 U.S.C. 2a(a).) The Clerk of the House of Representatives then transmits to each State a certification of the number of seats that the State receives under that apportionment. (2 U.S.C. 2a(b).) Finally, within 1 year of the decennial census date, the Secretary must also report to the Governor and officers or public bodies having responsibility for legislative apportionment or districting of each State the population tabulations to be used for apportioning districts within that State. (13 U.S.C. 141(c).)
+Once the Secretary, through the Director of the U.S. Census Bureau, takes the count, the President must carry out the apportionment of Representatives among the States. The Secretary prepares the “tabulation of total population by States … as required for the apportionment of Representatives,” and reports that tabulation to the President. (13 U.S.C. 141(b).) The President then sends a statement to the Congress showing “the whole number of persons in each State,” as ascertained under the census, and “the number of Representatives to which each State would be entitled under” the equal proportions apportionment method. (2 U.S.C. 2a(a).) The Clerk of the House of Representatives then transmits to each State a certification of the number of seats that the State receives under that apportionment. (2 U.S.C. 2a(b).) Finally, within 1 year of the decennial census date, the Secretary must also report to the Governor and officers or public bodies having responsibility for legislative apportionment or districting of each State the population tabulations to be used for apportioning districts within that State. (13 U.S.C. 141(c).)
 
 At no point since our Nation’s Founding has a person’s immigration status alone served as a basis for excluding that person from the total population count used in apportionment. Before the Civil War and the abolition of slavery, the Constitution did not give equal weight to every person counted under the census. (U.S. Const. art. 1, sec. 2.) In accord with constitutional and statutory requirements, however, every apportionment since ratification of the Fourteenth Amendment has calculated each State’s share of Representatives based on “the whole number of persons in each State,” excluding only “Indians not taxed”—an express constitutional exception that no longer has legal or practical effect. (U.S. Const. amend. XIV, sec. 2; 2 U.S.C. 2a(a).) The term “persons in each State” has always been understood to include every person whose usual place of residence was in that State as of the designated census date. (*See, e.g.,* Act of Mar. 1, 1790, ch. 2, secs. 1, 5, 1 Stat. 101, 103; *Franklin v. Massachusetts*, 505 U.S. 788, 804 (1992).) This unbroken practice has ensured that “the basis of representation in the House” is “every individual of the community at large.” (*Evenwel v. Abbott*, 136 S. Ct. 1120, 1127 (2016) (emphasis and quotation marks omitted).) And it reflects a sound policy judgment that the apportionment base be both clear and insulated against manipulation designed to affect the balance of power among the States.
 
@@ -325,11 +325,11 @@ J.R. Biden, Jr.
 
 **Excluding Illegal Aliens From the Apportionment Base Following the 2020 Census**
 
-Memorandum of President of the United States, July 21, 2020, 85 F.R. 44679, which excluded from the apportionment base aliens who are not in a lawful immigration status for the purpose of the reapportionment of Representatives following the 2020 census, was revoked by Ex. Ord. No. 13986, § 5, Jan. 20, 2021, 86 F.R. 7016, set out above.
+Memorandum of President of the United States, July 21, 2020, 85 F.R. 44679, which excluded from the apportionment base aliens who are not in a lawful immigration status for the purpose of the reapportionment of Representatives following the 2020 census, was revoked by Ex. Ord. No. 13986, § 5, Jan. 20, 2021, 86 F.R. 7016, set out above.
 
-### [§ 142. Repealed. Pub. L. 105–113, § 3(a), Nov. 21, 1997, 111 Stat. 2275]
+### [§ 142. Repealed. Pub. L. 105–113, § 3(a), Nov. 21, 1997, 111 Stat. 2275]
 
-Section, acts Aug. 31, 1954, ch. 1158, 68 Stat. 1020; Aug. 28, 1957, Pub. L. 85–207, § 10, 71 Stat. 483; Mar. 15, 1976, Pub. L. 94–229, § 1, 90 Stat. 210; Oct. 27, 1986, Pub. L. 99–544, § 1(a), 100 Stat. 3046, provided that Secretary of Commerce take periodic censuses of agriculture and irrigation.
+Section, acts Aug. 31, 1954, ch. 1158, 68 Stat. 1020; Aug. 28, 1957, Pub. L. 85–207, § 10, 71 Stat. 483; Mar. 15, 1976, Pub. L. 94–229, § 1, 90 Stat. 210; Oct. 27, 1986, Pub. L. 99–544, § 1(a), 100 Stat. 3046, provided that Secretary of Commerce take periodic censuses of agriculture and irrigation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,7 +341,7 @@ Repeal effective Oct. 1, 1998, see section 3(d) of Pub. L. 105–113, set out as
 
 Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2083, provided in part: “That, notwithstanding any other provision of law, the Secretary of Agriculture shall conduct the 1997 Census of Agriculture, to the extent practicable, pursuant to the provisions of title 13, United States Code.”
 
-### [§§ 143 to 146. Repealed. Pub. L. 85–207, § 11, Aug. 28, 1957, 71 Stat. 483]
+### [§§ 143 to 146. Repealed. Pub. L. 85–207, § 11, Aug. 28, 1957, 71 Stat. 483]
 
 Sections, act Aug. 31, 1954, ch. 1158, 68 Stat. 1020, related to the following subject matter:
 
@@ -355,15 +355,15 @@ Section 146, mid-decade censuses of agriculture; exclusion of certain areas; pre
 
 ## SUBCHAPTER III—GOVERNMENTS
 
-### § 161. Quinquennial censuses; inclusion of certain data
+### § 161. Quinquennial censuses; inclusion of certain data
 
 The Secretary shall take, compile, and publish for the year 1957 and for every fifth year thereafter a census of governments. Each such census shall include, but shall not be limited to, data on taxes and tax valuations, governmental receipts, expenditures, indebtedness, and employees of States, counties, cities, and other governmental units.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1021; Pub. L. 85–207, § 12, Aug. 28, 1957, 71 Stat. 483.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1021; Pub. L. 85–207, § 12, Aug. 28, 1957, 71 Stat. 483.)
 
 **Historical and Revision Notes**
 
-Based on title 13, U.S.C., 1952 ed., § 251 (Sept. 7, 1950, ch. 910, § 1, 64 Stat. 784).
+Based on title 13, U.S.C., 1952 ed., § 251 (Sept. 7, 1950, ch. 910, § 1, 64 Stat. 784).
 
 Section was derived from subsection (a) of section 251 of title 13, U.S.C., 1952 ed. For remainder of such section 251, see Distribution Table.
 
@@ -377,11 +377,11 @@ Changes were made in phraseology.
 
 1957—Pub. L. 85–207 struck out “in the United States and in such of its Territories and possessions as may be determined by the Secretary” in last sentence. Geographical provisions now covered by section 191 of this title.
 
-### [§ 162. Repealed. Pub. L. 85–207, § 13, Aug. 28, 1957, 71 Stat. 483]
+### [§ 162. Repealed. Pub. L. 85–207, § 13, Aug. 28, 1957, 71 Stat. 483]
 
 Section, act Aug. 31, 1954, ch. 1158, 68 Stat. 1021, related to acquisition of reports and material from governmental units, private persons, and agencies. See section 6(b) of this title.
 
-### § 163. Authority of other agencies
+### § 163. Authority of other agencies
 
 This subchapter does not revoke or impair the authority of any other Federal agency with respect to the collection or release of information.
 
@@ -389,7 +389,7 @@ This subchapter does not revoke or impair the authority of any other Federal age
 
 **Historical and Revision Notes**
 
-Based on title 13, U.S.C., 1952 ed., § 251 (Sept. 7, 1950, ch. 910, § 1, 64 Stat. 784).
+Based on title 13, U.S.C., 1952 ed., § 251 (Sept. 7, 1950, ch. 910, § 1, 64 Stat. 784).
 
 Section was derived from part of subsection (b) of section 251 of title 13, U.S.C., 1952 ed. Subsection (a) of such section 251 is also incorporated in this subchapter, and the remainder of such subsection (b) thereof is incorporated in subchapter I of chapter 1 of this title. See Distribution Table.
 
@@ -397,13 +397,13 @@ Changes were made in phraseology.
 
 ## SUBCHAPTER IV—INTERIM CURRENT DATA
 
-### § 181. Population
+### § 181. Population
 
 **(a)** During the intervals between each census of population required under section 141 of this title, the Secretary, to the extent feasible, shall annually produce and publish for each State, county, and local unit of general purpose government which has a population of fifty thousand or more, current data on total population and population characteristics and, to the extent feasible, shall biennially produce and publish for other local units of general purpose government current data on total population. Such data shall be produced and published for each State, county, and other local unit of general purpose government for which data is compiled in the most recent census of population taken under section 141 of this title. Such data may be produced by means of sampling or other methods, which the Secretary determines will produce current, comprehensive, and reliable data.
 
 **(b)** If the Secretary is unable to produce and publish current data during any fiscal year on total population for any county and local unit of general purpose government as required by this section, a report shall be submitted by the Secretary to the President of the Senate and to the Speaker of the House of Representatives not later than 90 days before the commencement of the following fiscal year, enumerating each government excluded and giving the reasons for such exclusion.
 
-(Added Pub. L. 94–521, § 8(a), Oct. 17, 1976, 90 Stat. 2462.)
+(Added Pub. L. 94–521, § 8(a), Oct. 17, 1976, 90 Stat. 2462.)
 
 **Editorial Notes**
 
@@ -417,11 +417,11 @@ A prior section 181, act Aug. 31, 1954, ch. 1158, 68 Stat. 1021, authorizing the
 
 Section effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
 
-### § 182. Surveys
+### § 182. Surveys
 
 The Secretary may make surveys deemed necessary to furnish annual and other interim current data on the subjects covered by the censuses provided for in this title.
 
-(Added Pub. L. 94–521, § 8(a), Oct. 17, 1976, 90 Stat. 2463.)
+(Added Pub. L. 94–521, § 8(a), Oct. 17, 1976, 90 Stat. 2463.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -429,13 +429,13 @@ The Secretary may make surveys deemed necessary to furnish annual and other inte
 
 Section effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
 
-### § 183. Use of most recent population data
+### § 183. Use of most recent population data
 
 **(a)** Except as provided in subsection (b), for the purpose of administering any law of the United States in which population or other population characteristics are used to determine the amount of benefit received by State, county, or local units of general purpose government, the Secretary shall transmit to the President for use by the appropriate departments and agencies of the executive branch the data most recently produced and published under this title.
 
 **(b)** This section shall not apply with respect to any law of the United States which, for purposes of determining the amount of benefit received by State, county, or local units of general purpose government, provides that only population or population characteristics data obtained in the most recent decennial census may be used in such determination.
 
-(Added Pub. L. 94–521, § 8(a), Oct. 17, 1976, 90 Stat. 2463.)
+(Added Pub. L. 94–521, § 8(a), Oct. 17, 1976, 90 Stat. 2463.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -443,7 +443,7 @@ Section effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as 
 
 Section effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
 
-### § 184. Definitions
+### § 184. Definitions
 
 For purposes of this subchapter—
 
@@ -451,7 +451,7 @@ For purposes of this subchapter—
 
 **(2)** the term “State” includes the District of Columbia.
 
-(Added Pub. L. 94–521, § 8(a), Oct. 17, 1976, 90 Stat. 2463.)
+(Added Pub. L. 94–521, § 8(a), Oct. 17, 1976, 90 Stat. 2463.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -461,7 +461,7 @@ Section effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as 
 
 ## SUBCHAPTER V—GEOGRAPHIC SCOPE, PRELIMINARY AND SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING
 
-### § 191. Geographic scope of censuses
+### § 191. Geographic scope of censuses
 
 **(a)** Each of the censuses authorized by this chapter shall include each State, the District of Columbia, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Commonwealth of Puerto Rico, and as may be determined by the Secretary, such other possessions and areas over which the United States exercises jurisdiction, control, or sovereignty. Inclusion of other areas over which the United States exercises jurisdiction or control shall be subject to the concurrence of the Secretary of State.
 
@@ -469,7 +469,7 @@ Section effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as 
 
 **(c)** If, pursuant to a determination by the Secretary under subsection (a) of this section, any census is not taken in a possession or area over which the United States exercises jurisdiction, control, or sovereignty, the Secretary may include data obtained from other Federal agencies or government sources in the census report. Any data obtained from foreign governments shall be obtained through the Secretary of State.
 
-(Added Pub. L. 85–207, § 14, Aug. 28, 1957, 71 Stat. 483; amended Pub. L. 94–521, § 9, Oct. 17, 1976, 90 Stat. 2463.)
+(Added Pub. L. 85–207, § 14, Aug. 28, 1957, 71 Stat. 483; amended Pub. L. 94–521, § 9, Oct. 17, 1976, 90 Stat. 2463.)
 
 **Editorial Notes**
 
@@ -493,17 +493,17 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 
-### § 193. Preliminary and supplemental statistics
+### § 193. Preliminary and supplemental statistics
 
 In advance of, in conjunction with, or after the taking of each census provided for by this chapter, the Secretary may make surveys and collect such preliminary and supplementary statistics related to the main topic of the census as are necessary to the initiation, taking, or completion thereof.
 
-(Added Pub. L. 85–207, § 14, Aug. 28, 1957, 71 Stat. 484.)
+(Added Pub. L. 85–207, § 14, Aug. 28, 1957, 71 Stat. 484.)
 
-### § 195. Use of sampling
+### § 195. Use of sampling
 
 Except for the determination of population for purposes of apportionment of Representatives in Congress among the several States, the Secretary shall, if he considers it feasible, authorize the use of the statistical method known as “sampling” in carrying out the provisions of this title.
 
-(Added Pub. L. 85–207, § 14, Aug. 28, 1957, 71 Stat. 484; amended Pub. L. 94–521, § 10, Oct. 17, 1976, 90 Stat. 2464.)
+(Added Pub. L. 85–207, § 14, Aug. 28, 1957, 71 Stat. 484; amended Pub. L. 94–521, § 10, Oct. 17, 1976, 90 Stat. 2464.)
 
 **Editorial Notes**
 
@@ -517,11 +517,11 @@ Except for the determination of population for purposes of apportionment of Repr
 
 Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
 
-### § 196. Special censuses
+### § 196. Special censuses
 
 The Secretary may conduct special censuses for the government of any State, or of any county, city, or other political subdivision within a State, for the government of the District of Columbia, and for the government of any possession or area (including political subdivisions thereof) referred to in section 191(a) of this title, on subjects covered by the censuses provided for in this title, upon payment to the Secretary of the actual or estimated cost of each such special census. The results of each such special census shall be designated “Official Census Statistics”. These statistics may be used in the manner provided by applicable law.
 
-(Added Pub. L. 94–521, § 11(a), Oct. 17, 1976, 90 Stat. 2464.)
+(Added Pub. L. 94–521, § 11(a), Oct. 17, 1976, 90 Stat. 2464.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -531,7 +531,7 @@ Section effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as 
 
 **Special Census When Major Population Changes Occur Due to Large Numbers of Legal Immigrants Within Six Months of Regular Decennial Census Date**
 
-Pub. L. 96–369, § 118, Oct. 1, 1980, 94 Stat. 1357, provided that: “Notwithstanding any other provision of law, when the President determines that a State, county, or local unit of general purpose government is significantly affected by a major population change due to a large number of legal immigrants within six months of a regular decennial census date, he may order a special census, pursuant to section 196 of title XIII of the United States Code [this section], or other method of obtaining a revised estimate of the population, of such jurisdiction or subsections of that jurisdiction in which the immigrants are concentrated. If the President decides to conduct a special census, it may be conducted solely at Federal expense.”
+Pub. L. 96–369, § 118, Oct. 1, 1980, 94 Stat. 1357, provided that: “Notwithstanding any other provision of law, when the President determines that a State, county, or local unit of general purpose government is significantly affected by a major population change due to a large number of legal immigrants within six months of a regular decennial census date, he may order a special census, pursuant to section 196 of title XIII of the United States Code [this section], or other method of obtaining a revised estimate of the population, of such jurisdiction or subsections of that jurisdiction in which the immigrants are concentrated. If the President decides to conduct a special census, it may be conducted solely at Federal expense.”
 
 **Executive Documents**
 

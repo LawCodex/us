@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 116—NATIONAL BIO AND AGRO-DEFENSE FACILITY
 
-## § 9201. Definitions
+## § 9201. Definitions
 
 In this chapter:
 
@@ -31,15 +31,15 @@ The term “transboundary disease” has the meaning given the term in section 8
 
 The term “veterinary countermeasure” has the meaning given the term in section 8302 of this title.
 
-(Pub. L. 116–260, div. P, § 2, Dec. 27, 2020, 134 Stat. 2159.)
+(Pub. L. 116–260, div. P, § 2, Dec. 27, 2020, 134 Stat. 2159.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–260, div. P, § 1, Dec. 27, 2020, 134 Stat. 2159, provided that: “This division [enacting this chapter] may be cited as the ‘National Bio and Agro-Defense Facility Act of 2020’.”
+Pub. L. 116–260, div. P, § 1, Dec. 27, 2020, 134 Stat. 2159, provided that: “This division [enacting this chapter] may be cited as the ‘National Bio and Agro-Defense Facility Act of 2020’.”
 
-## § 9202. National Bio and Agro-Defense Facility
+## § 9202. National Bio and Agro-Defense Facility
 
 **(a) In general**
 
@@ -63,9 +63,9 @@ The National Bio and Agro-Defense Facility shall be a national security laborato
 
 **(8)** sharing data and related information, and developing strategic partnerships, to enhance the carrying out of the duties of the National Bio and Agro-Defense Facility for the development of priority zoonotic animal disease diagnostics, vaccines, drugs, and other countermeasures.
 
-(Pub. L. 116–260, div. P, § 3, Dec. 27, 2020, 134 Stat. 2159.)
+(Pub. L. 116–260, div. P, § 3, Dec. 27, 2020, 134 Stat. 2159.)
 
-## § 9203. Evaluation and research plan
+## § 9203. Evaluation and research plan
 
 **(a) In general** Not less frequently than biennially, the Secretary of Agriculture, in coordination with the Secretary of Homeland Security and the heads of other appropriate Federal departments and agencies, shall—
 
@@ -93,9 +93,9 @@ The National Bio and Agro-Defense Facility shall be a national security laborato
 
 **(3)** may include in the submission under subsection (a)(3) a classified annex for any sensitive or classified information, as necessary.
 
-(Pub. L. 116–260, div. P, § 4, Dec. 27, 2020, 134 Stat. 2160.)
+(Pub. L. 116–260, div. P, § 4, Dec. 27, 2020, 134 Stat. 2160.)
 
-## § 9204. Availability of data and congressional briefings
+## § 9204. Availability of data and congressional briefings
 
 **(a) In general** Every 6 months until the date described in subsection (b), the Secretary of Agriculture, the Secretary of Homeland Security, and the heads of other appropriate Federal departments and agencies, as appropriate, shall provide to the Committees on Agriculture, Nutrition, and Forestry and Homeland Security and Governmental Affairs of the Senate and the Committees on Agriculture and Homeland Security of the House of Representatives a report and briefing describing—
 
@@ -117,9 +117,9 @@ The National Bio and Agro-Defense Facility shall be a national security laborato
 
 The reporting and briefing requirements under subsection (a) shall terminate on the date that is 5 years after the date on which the National Bio and Agro-Defense Facility attains full operating capability.
 
-(Pub. L. 116–260, div. P, § 5, Dec. 27, 2020, 134 Stat. 2160.)
+(Pub. L. 116–260, div. P, § 5, Dec. 27, 2020, 134 Stat. 2160.)
 
-## § 9205. Budget and report
+## § 9205. Budget and report
 
 **(a) Budget**
 
@@ -129,10 +129,10 @@ Concurrently with each budget submission to the Director of the Office of Manage
 
 Not later than 60 days after the date on which the budget of the United States Government is submitted by the President under section 1105 of title 31 for each fiscal year, the Secretary of Agriculture, the Secretary of Homeland Security, and the heads of other appropriate Federal departments and agencies shall jointly submit to Congress a report describing an integrated budget plan described in subsection (a), which shall be consistent with the budget submission of the President under that section for the defense and protection of the food supply of the United States, including the operation and use of the National Bio and Agro-Defense Facility.
 
-(Pub. L. 116–260, div. P, § 6, Dec. 27, 2020, 134 Stat. 2161.)
+(Pub. L. 116–260, div. P, § 6, Dec. 27, 2020, 134 Stat. 2161.)
 
-## § 9206. Effect on other authorities
+## § 9206. Effect on other authorities
 
 Nothing in this chapter affects the authority of the Secretary of Agriculture or the Secretary of Homeland Security under any other provision of law or program relating to the protection of food supplies, agriculture, or public health.
 
-(Pub. L. 116–260, div. P, § 7, Dec. 27, 2020, 134 Stat. 2162.)
+(Pub. L. 116–260, div. P, § 7, Dec. 27, 2020, 134 Stat. 2162.)

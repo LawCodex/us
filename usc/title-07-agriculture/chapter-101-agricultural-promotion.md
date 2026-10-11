@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—COMMODITY PROMOTION AND EVALUATION
 
-### § 7401. Commodity promotion and evaluation
+### § 7401. Commodity promotion and evaluation
 
 **(a) “Commodity promotion law” defined** In this section, the term “commodity promotion law” means a Federal law that provides for the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
 
@@ -153,61 +153,61 @@ If the Secretary issues an organic commodity promotion order described in paragr
 
 The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
 
-(Pub. L. 104–127, title V, § 501, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title X, § 10607, May 13, 2002, 116 Stat. 514; Pub. L. 113–79, title X, § 10004(d), (e), Feb. 7, 2014, 128 Stat. 942, 943; Pub. L. 113–235, div. A, title VII, § 747, Dec. 16, 2014, 128 Stat. 2170.)
+(Pub. L. 104–127, title V, § 501, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title X, § 10607, May 13, 2002, 116 Stat. 514; Pub. L. 113–79, title X, § 10004(d), (e), Feb. 7, 2014, 128 Stat. 942, 943; Pub. L. 113–235, div. A, title VII, § 747, Dec. 16, 2014, 128 Stat. 2170.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 89–502, referred to in subsec. (a)(2), is Pub. L. 89–502, July 13, 1966, 80 Stat. 279, known as the Cotton Research and Promotion Act, which is classified generally to chapter 53 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+Public Law 89–502, referred to in subsec. (a)(2), is Pub. L. 89–502, July 13, 1966, 80 Stat. 279, known as the Cotton Research and Promotion Act, which is classified generally to chapter 53 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
-Public Law 91–670, referred to in subsec. (a)(3), is Pub. L. 91–670, Jan. 11, 1971, 84 Stat. 2040. Title III of Pub. L. 91–670, known as the Potato Research and Promotion Act, is classified generally to chapter 58 (§ 2611 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 2611 of this title and Tables.
+Public Law 91–670, referred to in subsec. (a)(3), is Pub. L. 91–670, Jan. 11, 1971, 84 Stat. 2040. Title III of Pub. L. 91–670, known as the Potato Research and Promotion Act, is classified generally to chapter 58 (§ 2611 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 2611 of this title and Tables.
 
-Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1, 1974, 88 Stat. 1171, known as the Egg Research and Consumer Information Act, which is classified generally to chapter 60 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1, 1974, 88 Stat. 1171, known as the Egg Research and Consumer Information Act, which is classified generally to chapter 60 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-Public Law 94–294, referred to in subsec. (a)(5), is Pub. L. 94–294, May 28, 1976, 90 Stat. 529, known as the Beef Research and Information Act, which is classified generally to chapter 62 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+Public Law 94–294, referred to in subsec. (a)(5), is Pub. L. 94–294, May 28, 1976, 90 Stat. 529, known as the Beef Research and Information Act, which is classified generally to chapter 62 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-Public Law 98–180, referred to in subsec. (a)(6), is Pub. L. 98–180, Nov. 29, 1983, 97 Stat. 1128. Title I of Pub. L. 98–180 is known as the Dairy Production Stabilization Act of 1983. Subtitle B of title I is classified generally to subchapter I (§ 4501 et seq.) of chapter 76 of this title. For complete classification of title I to the Code, see Short Title note set out under section 4501 of this title and Tables.
+Public Law 98–180, referred to in subsec. (a)(6), is Pub. L. 98–180, Nov. 29, 1983, 97 Stat. 1128. Title I of Pub. L. 98–180 is known as the Dairy Production Stabilization Act of 1983. Subtitle B of title I is classified generally to subchapter I (§ 4501 et seq.) of chapter 76 of this title. For complete classification of title I to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-Public Law 98–590, referred to in subsec. (a)(7), is Pub. L. 98–590, Oct. 30, 1984, 98 Stat. 3115, known as the Honey Research, Promotion, and Consumer Information Act, which is classified generally to chapter 77 (§ 4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+Public Law 98–590, referred to in subsec. (a)(7), is Pub. L. 98–590, Oct. 30, 1984, 98 Stat. 3115, known as the Honey Research, Promotion, and Consumer Information Act, which is classified generally to chapter 77 (§ 4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
-Public Law 99–198, referred to in subsec. (a)(8), (9), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, known as the Food Security Act of 1985. Subtitle B of title XVI of Pub. L. 99–198, known as the Pork Promotion, Research, and Consumer Information Act of 1985, is classified generally to chapter 79 (§ 4801 et seq.) of this title. Subtitle C of title XVI of Pub. L. 99–198, known as the Watermelon Research and Promotion Act, is classified generally to chapter 80 (§ 4901 et seq.) of this title. For complete classification of subtitles B and C to the Code, see Short Title notes set out under sections 4801 and 4901, respectively, of this title and Tables.
+Public Law 99–198, referred to in subsec. (a)(8), (9), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, known as the Food Security Act of 1985. Subtitle B of title XVI of Pub. L. 99–198, known as the Pork Promotion, Research, and Consumer Information Act of 1985, is classified generally to chapter 79 (§ 4801 et seq.) of this title. Subtitle C of title XVI of Pub. L. 99–198, known as the Watermelon Research and Promotion Act, is classified generally to chapter 80 (§ 4901 et seq.) of this title. For complete classification of subtitles B and C to the Code, see Short Title notes set out under sections 4801 and 4901, respectively, of this title and Tables.
 
-Public Law 101–624, referred to in subsec. (a)(10), (11), (12), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, known as the Food, Agriculture, Conservation, and Trade Act of 1990. Subtitle B of title XIX of Pub. L. 101–624, known as the Mushroom Promotion, Research, and Consumer Information Act of 1990, is classified generally to chapter 90 (§ 6101 et seq.) of this title. Subtitle E of title XIX of Pub. L. 101–624, known as the Soybean Promotion, Research, and Consumer Information Act, is classified generally to chapter 92 (§ 6301 et seq.) of this title. Subtitle H of title XIX of Pub. L. 101–624, known as the Fluid Milk Promotion Act of 1990, is classified generally to chapter 93 (§ 6401 et seq.) of this title. For complete classification of subtitles B, E, and H to the Code, see Short Title notes set out under sections 6101, 6301, and 6401, respectively, of this title and Tables.
+Public Law 101–624, referred to in subsec. (a)(10), (11), (12), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, known as the Food, Agriculture, Conservation, and Trade Act of 1990. Subtitle B of title XIX of Pub. L. 101–624, known as the Mushroom Promotion, Research, and Consumer Information Act of 1990, is classified generally to chapter 90 (§ 6101 et seq.) of this title. Subtitle E of title XIX of Pub. L. 101–624, known as the Soybean Promotion, Research, and Consumer Information Act, is classified generally to chapter 92 (§ 6301 et seq.) of this title. Subtitle H of title XIX of Pub. L. 101–624, known as the Fluid Milk Promotion Act of 1990, is classified generally to chapter 93 (§ 6401 et seq.) of this title. For complete classification of subtitles B, E, and H to the Code, see Short Title notes set out under sections 6101, 6301, and 6401, respectively, of this title and Tables.
 
-Public Law 103–190, referred to in subsec. (a)(13), is Pub. L. 103–190, Dec. 14, 1993, 107 Stat. 2266, known as the Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993, which is classified generally to chapter 97 (§ 6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+Public Law 103–190, referred to in subsec. (a)(13), is Pub. L. 103–190, Dec. 14, 1993, 107 Stat. 2266, known as the Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993, which is classified generally to chapter 97 (§ 6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
-Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct. 22, 1994, 108 Stat. 4210, known as the Sheep Promotion, Research, and Information Act of 1994, which is classified generally to chapter 99 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct. 22, 1994, 108 Stat. 4210, known as the Sheep Promotion, Research, and Information Act of 1994, which is classified generally to chapter 99 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-The Organic Foods Production Act of 1990, referred to in subsec. (e)(3), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (e)(3), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 **Amendments**
 
-2014—Subsec. (e). Pub. L. 113–79, § 10004(d), added subsec. (e) and struck out former subsec. (e) which related to exemptions of certified organic products from assessments.
+2014—Subsec. (e). Pub. L. 113–79, § 10004(d), added subsec. (e) and struck out former subsec. (e) which related to exemptions of certified organic products from assessments.
 
-Subsec. (f). Pub. L. 113–79, § 10004(e), added subsec. (f).
+Subsec. (f). Pub. L. 113–79, § 10004(e), added subsec. (f).
 
 Subsec. (f)(1)(C)(ii)(II). Pub. L. 113–235 substituted “a commodity promotion law” for “section 7413 of this title”.
 
-2002—Subsec. (a)(19). Pub. L. 107–171, § 10607(b), added par. (19).
+2002—Subsec. (a)(19). Pub. L. 107–171, § 10607(b), added par. (19).
 
-Subsec. (e). Pub. L. 107–171, § 10607(a), added subsec. (e).
+Subsec. (e). Pub. L. 107–171, § 10607(a), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 104–127, title V, § 511, Apr. 4, 1996, 110 Stat. 1032, provided that: “This subtitle [subtitle B (§§ 511–526) of title V of Pub. L. 104–127, enacting subchapter II of this chapter] may be cited as the ‘Commodity Promotion, Research, and Information Act of 1996’.”
+Pub. L. 104–127, title V, § 511, Apr. 4, 1996, 110 Stat. 1032, provided that: “This subtitle [subtitle B (§§ 511–526) of title V of Pub. L. 104–127, enacting subchapter II of this chapter] may be cited as the ‘Commodity Promotion, Research, and Information Act of 1996’.”
 
-Pub. L. 104–127, title V, § 531, Apr. 4, 1996, 110 Stat. 1048, provided that: “This subtitle [subtitle C (§§ 531–543) of title V of Pub. L. 104–127, enacting subchapter III of this chapter] may be cited as the ‘Canola and Rapeseed Research, Promotion, and Consumer Information Act’.”
+Pub. L. 104–127, title V, § 531, Apr. 4, 1996, 110 Stat. 1048, provided that: “This subtitle [subtitle C (§§ 531–543) of title V of Pub. L. 104–127, enacting subchapter III of this chapter] may be cited as the ‘Canola and Rapeseed Research, Promotion, and Consumer Information Act’.”
 
-Pub. L. 104–127, title V, § 551, Apr. 4, 1996, 110 Stat. 1064, provided that: “This subtitle [subtitle D (§§ 551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
+Pub. L. 104–127, title V, § 551, Apr. 4, 1996, 110 Stat. 1064, provided that: “This subtitle [subtitle D (§§ 551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
 
-Pub. L. 104–127, title V, § 571, Apr. 4, 1996, 110 Stat. 1074, provided that: “This subtitle [subtitle E (§§ 571–582) of title V of Pub. L. 104–127, enacting subchapter V of this chapter] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
+Pub. L. 104–127, title V, § 571, Apr. 4, 1996, 110 Stat. 1074, provided that: “This subtitle [subtitle E (§§ 571–582) of title V of Pub. L. 104–127, enacting subchapter V of this chapter] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
 
 ## SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTIVITIES REGARDING AGRICULTURAL COMMODITIES
 
-### § 7411. Findings and purpose
+### § 7411. Findings and purpose
 
 **(a) Findings** Congress finds the following:
 
@@ -243,9 +243,9 @@ Pub. L. 104–127, title V, § 571, Apr. 4, 1996, 110 Stat. 1074, provided tha
 
 Nothing in this subchapter provides for the control of production or otherwise limits the right of any person to produce, handle, or import an agricultural commodity.
 
-(Pub. L. 104–127, title V, § 512, Apr. 4, 1996, 110 Stat. 1032.)
+(Pub. L. 104–127, title V, § 512, Apr. 4, 1996, 110 Stat. 1032.)
 
-### § 7412. Definitions
+### § 7412. Definitions
 
 In this subchapter (unless the context otherwise requires):
 
@@ -345,7 +345,7 @@ The term “terminate” means to issue a rule under section 553 of title 5 to c
 
 The term “United States” means collectively the 50 States, the District of Columbia, the Commonwealth of Puerto Rico and the territories and possessions of the United States.
 
-(Pub. L. 104–127, title V, § 513, Apr. 4, 1996, 110 Stat. 1033; Pub. L. 113–79, title X, § 10004(f), Feb. 7, 2014, 128 Stat. 944.)
+(Pub. L. 104–127, title V, § 513, Apr. 4, 1996, 110 Stat. 1033; Pub. L. 113–79, title X, § 10004(f), Feb. 7, 2014, 128 Stat. 944.)
 
 **Editorial Notes**
 
@@ -353,7 +353,7 @@ The term “United States” means collectively the 50 States, the District of C
 
 2014—Par. (1)(E) to (G). Pub. L. 113–79 added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-### § 7413. Issuance of orders
+### § 7413. Issuance of orders
 
 **(a) Issuance authorized**
 
@@ -401,9 +401,9 @@ If the Secretary determines that the final order developed with respect to an ag
 
 From time to time the Secretary may amend any order, consistent with the requirements of section 7422 of this title.
 
-(Pub. L. 104–127, title V, § 514, Apr. 4, 1996, 110 Stat. 1035.)
+(Pub. L. 104–127, title V, § 514, Apr. 4, 1996, 110 Stat. 1035.)
 
-### § 7414. Required terms in orders
+### § 7414. Required terms in orders
 
 **(a) In general**
 
@@ -623,9 +623,9 @@ Any person who willfully violates this subsection shall be subject, on convictio
 
 This subsection shall not authorize the withholding of information from Congress.
 
-(Pub. L. 104–127, title V, § 515, Apr. 4, 1996, 110 Stat. 1036.)
+(Pub. L. 104–127, title V, § 515, Apr. 4, 1996, 110 Stat. 1036.)
 
-### § 7415. Permissive terms in orders
+### § 7415. Permissive terms in orders
 
 **(a) Exemptions** An order issued under this subchapter may contain—
 
@@ -671,9 +671,9 @@ An order issued under this subchapter may contain authority for the board establ
 
 **(2)** is necessary to administer the order.
 
-(Pub. L. 104–127, title V, § 516, Apr. 4, 1996, 110 Stat. 1041.)
+(Pub. L. 104–127, title V, § 516, Apr. 4, 1996, 110 Stat. 1041.)
 
-### § 7416. Assessments
+### § 7416. Assessments
 
 **(a) Assessments authorized** While an order issued under this subchapter is in effect with respect to an agricultural commodity, assessments shall be—
 
@@ -749,9 +749,9 @@ If the funds in the escrow account required by paragraph (1) are insufficient to
 
 **(B)** the funds shall be available to the board for disbursement as authorized in the order.
 
-(Pub. L. 104–127, title V, § 517, Apr. 4, 1996, 110 Stat. 1042.)
+(Pub. L. 104–127, title V, § 517, Apr. 4, 1996, 110 Stat. 1042.)
 
-### § 7416a. Confirmation of authority of Secretary of Agriculture to collect State commodity assessments
+### § 7416a. Confirmation of authority of Secretary of Agriculture to collect State commodity assessments
 
 **(a) Collection from marketing assistance loans**
 
@@ -765,7 +765,7 @@ The collection of an assessment under subsection (a) shall be made as specified 
 
 The Secretary may not charge any fees or related costs for the collection of commodity assessments pursuant to this section.
 
-(Pub. L. 108–470, § 1, Dec. 21, 2004, 118 Stat. 3894; Pub. L. 110–234, title I, § 1616, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, § 4(a), title I, § 1616, June 18, 2008, 122 Stat. 1664, 1749.)
+(Pub. L. 108–470, § 1, Dec. 21, 2004, 118 Stat. 3894; Pub. L. 110–234, title I, § 1616, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, § 4(a), title I, § 1616, June 18, 2008, 122 Stat. 1664, 1749.)
 
 **Editorial Notes**
 
@@ -777,9 +777,9 @@ Section was not enacted as part of the Commodity Promotion, Research, and Inform
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 1616(1), substituted “shall” for “may”.
+2008—Subsec. (a). Pub. L. 110–246, § 1616(1), substituted “shall” for “may”.
 
-Subsec. (c). Pub. L. 110–246, § 1616(2), added subsec. (c).
+Subsec. (c). Pub. L. 110–246, § 1616(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -787,7 +787,7 @@ Subsec. (c). Pub. L. 110–246, § 1616(2), added subsec. (c).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 7417. Referenda
+### § 7417. Referenda
 
 **(a) Initial referendum**
 
@@ -861,9 +861,9 @@ Eligible voters may vote by mail ballot in the referendum or in person if so pre
 
 Not later than 30 days before a referendum is conducted under this section with respect to an order, the Secretary shall notify the agricultural commodity industry involved, in such manner as determined by the Secretary, of the period during which voting in the referendum will occur. The notice shall explain any registration and voting procedures established under this subsection.
 
-(Pub. L. 104–127, title V, § 518, Apr. 4, 1996, 110 Stat. 1043.)
+(Pub. L. 104–127, title V, § 518, Apr. 4, 1996, 110 Stat. 1043.)
 
-### § 7418. Petition and review of orders
+### § 7418. Petition and review of orders
 
 **(a) Petition**
 
@@ -905,9 +905,9 @@ Service of process in a proceeding may be made on the Secretary by delivering a 
 
 The pendency of a petition filed under subsection (a) or an action commenced under subsection (b) shall not operate as a stay of any action authorized by section 7419 of this title to be taken to enforce this subchapter, including any rule, order, or penalty in effect under this subchapter.
 
-(Pub. L. 104–127, title V, § 519, Apr. 4, 1996, 110 Stat. 1044.)
+(Pub. L. 104–127, title V, § 519, Apr. 4, 1996, 110 Stat. 1044.)
 
-### § 7419. Enforcement
+### § 7419. Enforcement
 
 **(a) Jurisdiction**
 
@@ -971,15 +971,15 @@ If a person fails to pay a civil penalty imposed under this section by the Secre
 
 The remedies provided in this section shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 104–127, title V, § 520, Apr. 4, 1996, 110 Stat. 1045.)
+(Pub. L. 104–127, title V, § 520, Apr. 4, 1996, 110 Stat. 1045.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle B (§§ 511–526) of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle B (§§ 511–526) of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, to reflect the probable intent of Congress.
 
-### § 7420. Investigations and power to subpoena
+### § 7420. Investigations and power to subpoena
 
 **(a) Investigations** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -1003,9 +1003,9 @@ Any failure to obey the order of the court may be punished by the court as a con
 
 Process in any case under this section may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
 
-(Pub. L. 104–127, title V, § 521, Apr. 4, 1996, 110 Stat. 1047.)
+(Pub. L. 104–127, title V, § 521, Apr. 4, 1996, 110 Stat. 1047.)
 
-### § 7421. Suspension or termination
+### § 7421. Suspension or termination
 
 **(a) Mandatory suspension or termination**
 
@@ -1017,27 +1017,27 @@ The Secretary shall suspend or terminate an order or a provision of an order if 
 
 **(2)** as soon as practicable, suspend or terminate, as the case may be, activities under the order in an orderly manner.
 
-(Pub. L. 104–127, title V, § 522, Apr. 4, 1996, 110 Stat. 1047.)
+(Pub. L. 104–127, title V, § 522, Apr. 4, 1996, 110 Stat. 1047.)
 
-### § 7422. Amendments to orders
+### § 7422. Amendments to orders
 
 The provisions of this subchapter applicable to an order shall be applicable to any amendment to an order, except that section 7417 of this title shall not apply to an amendment.
 
-(Pub. L. 104–127, title V, § 523, Apr. 4, 1996, 110 Stat. 1047.)
+(Pub. L. 104–127, title V, § 523, Apr. 4, 1996, 110 Stat. 1047.)
 
-### § 7423. Effect on other laws
+### § 7423. Effect on other laws
 
 This subchapter shall not affect or preempt any other Federal or State law authorizing promotion or research relating to an agricultural commodity.
 
-(Pub. L. 104–127, title V, § 524, Apr. 4, 1996, 110 Stat. 1047.)
+(Pub. L. 104–127, title V, § 524, Apr. 4, 1996, 110 Stat. 1047.)
 
-### § 7424. Regulations
+### § 7424. Regulations
 
 The Secretary may issue such regulations as may be necessary to carry out this subchapter and the power vested in the Secretary under this subchapter.
 
-(Pub. L. 104–127, title V, § 525, Apr. 4, 1996, 110 Stat. 1048.)
+(Pub. L. 104–127, title V, § 525, Apr. 4, 1996, 110 Stat. 1048.)
 
-### § 7425. Authorization of appropriations
+### § 7425. Authorization of appropriations
 
 **(a) In general**
 
@@ -1047,11 +1047,11 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Funds appropriated to carry out this subchapter may not be expended for the payment of expenses incurred by a board to administer an order.
 
-(Pub. L. 104–127, title V, § 526, Apr. 4, 1996, 110 Stat. 1048.)
+(Pub. L. 104–127, title V, § 526, Apr. 4, 1996, 110 Stat. 1048.)
 
 ## SUBCHAPTER III—CANOLA AND RAPESEED
 
-### § 7441. Findings and declaration of policy
+### § 7441. Findings and declaration of policy
 
 **(a) Findings** Congress finds that—
 
@@ -1081,9 +1081,9 @@ It is the policy of this subchapter to establish an orderly procedure for develo
 
 Nothing in this subchapter provides for the control of production or otherwise limits the right of individual producers to produce canola, rapeseed, or canola or rapeseed products.
 
-(Pub. L. 104–127, title V, § 532, Apr. 4, 1996, 110 Stat. 1048.)
+(Pub. L. 104–127, title V, § 532, Apr. 4, 1996, 110 Stat. 1048.)
 
-### § 7442. Definitions
+### § 7442. Definitions
 
 In this subchapter (unless the context otherwise requires):
 
@@ -1167,9 +1167,9 @@ The term “State” means any of the 50 States, the District of Columbia and th
 
 The term “United States” means collectively the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 104–127, title V, § 533, Apr. 4, 1996, 110 Stat. 1049.)
+(Pub. L. 104–127, title V, § 533, Apr. 4, 1996, 110 Stat. 1049.)
 
-### § 7443. Issuance and amendment of orders
+### § 7443. Issuance and amendment of orders
 
 **(a) In general**
 
@@ -1193,9 +1193,9 @@ After notice and opportunity for public comment are given as provided in paragra
 
 The Secretary may amend an order issued under this section.
 
-(Pub. L. 104–127, title V, § 534, Apr. 4, 1996, 110 Stat. 1050.)
+(Pub. L. 104–127, title V, § 534, Apr. 4, 1996, 110 Stat. 1050.)
 
-### § 7444. Required terms in orders
+### § 7444. Required terms in orders
 
 **(a) In general**
 
@@ -1449,9 +1449,9 @@ The order shall provide that the assessments collected under section 7445 of thi
 
 The order shall contain such other terms and conditions, not inconsistent with this subchapter, as are determined necessary by the Secretary to effectuate this subchapter.
 
-(Pub. L. 104–127, title V, § 535, Apr. 4, 1996, 110 Stat. 1051.)
+(Pub. L. 104–127, title V, § 535, Apr. 4, 1996, 110 Stat. 1051.)
 
-### § 7445. Assessments
+### § 7445. Assessments
 
 **(a) In general**
 
@@ -1545,9 +1545,9 @@ the Board shall prorate the amount of the refunds among all eligible producers w
 
 If the plan is approved pursuant to the referendum conducted under section 7446(a) of this title, all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this subchapter.
 
-(Pub. L. 104–127, title V, § 536, Apr. 4, 1996, 110 Stat. 1056.)
+(Pub. L. 104–127, title V, § 536, Apr. 4, 1996, 110 Stat. 1056.)
 
-### § 7446. Referenda
+### § 7446. Referenda
 
 **(a) Initial referendum**
 
@@ -1557,9 +1557,9 @@ During the period ending 30 months after the date on which an order is first iss
 
 **(2) Advance notice**
 
-The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. The notice shall be provided, without advertising expenses, by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county cooperative extension offices and county Consolidated Farm Service Agency 1
+The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. The notice shall be provided, without advertising expenses, by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county cooperative extension offices and county Consolidated Farm Service Agency 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 offices, and by other appropriate means specified in the order. The notice shall contain information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent information.
 
@@ -1633,7 +1633,7 @@ Each referendum shall be conducted for a reasonable period of time not to exceed
 
 Referenda under this section shall be conducted at locations determined by the Secretary. On request, absentee mail ballots shall be furnished by the Secretary in a manner prescribed by the Secretary.
 
-(Pub. L. 104–127, title V, § 537, Apr. 4, 1996, 110 Stat. 1058; Pub. L. 110–234, title VII, § 7511(c)(28), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(28), June 18, 2008, 122 Stat. 1664, 2031.)
+(Pub. L. 104–127, title V, § 537, Apr. 4, 1996, 110 Stat. 1058; Pub. L. 110–234, title VII, § 7511(c)(28), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(28), June 18, 2008, 122 Stat. 1664, 2031.)
 
 **Editorial Notes**
 
@@ -1643,13 +1643,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsecs. (a)(2), (b)(3)(B)(i). Pub. L. 110–246, § 7511(c)(28), substituted “cooperative extension” for “Cooperative State Research, Education, and Extension Service”.
+2008—Subsecs. (a)(2), (b)(3)(B)(i). Pub. L. 110–246, § 7511(c)(28), substituted “cooperative extension” for “Cooperative State Research, Education, and Extension Service”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 **Effective Date of 2008 Amendment**
 
@@ -1657,7 +1657,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(28) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
-### § 7447. Petition and review
+### § 7447. Petition and review
 
 **(a) Petition**
 
@@ -1699,7 +1699,7 @@ Service of process in a proceeding under paragraph (1) shall be conducted in acc
 
 The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under section 7448 of this title.
 
-(Pub. L. 104–127, title V, § 538, Apr. 4, 1996, 110 Stat. 1060.)
+(Pub. L. 104–127, title V, § 538, Apr. 4, 1996, 110 Stat. 1060.)
 
 **Editorial Notes**
 
@@ -1707,7 +1707,7 @@ The pendency of proceedings instituted under subsection (a) shall not impede, hi
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### § 7448. Enforcement
+### § 7448. Enforcement
 
 **(a) Jurisdiction**
 
@@ -1775,9 +1775,9 @@ If a person fails to pay an assessment of a civil penalty under this section aft
 
 The remedies provided in this subchapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 104–127, title V, § 539, Apr. 4, 1996, 110 Stat. 1061.)
+(Pub. L. 104–127, title V, § 539, Apr. 4, 1996, 110 Stat. 1061.)
 
-### § 7449. Investigations and power to subpoena
+### § 7449. Investigations and power to subpoena
 
 **(a) Investigations** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -1811,21 +1811,21 @@ Process may be served on a person in the judicial district in which the person r
 
 The site of a hearing held under section 7447 or 7448 of this title shall be in the judicial district where the person affected by the hearing resides or has a principal place of business.
 
-(Pub. L. 104–127, title V, § 540, Apr. 4, 1996, 110 Stat. 1062.)
+(Pub. L. 104–127, title V, § 540, Apr. 4, 1996, 110 Stat. 1062.)
 
-### § 7450. Suspension or termination
+### § 7450. Suspension or termination
 
 The Secretary shall, whenever the Secretary finds that an order or a provision of an order obstructs or does not tend to effectuate the declared policy of this subchapter, suspend or terminate the operation of the order or provision. The suspension or termination of an order shall not be considered an order within the meaning of this subchapter.
 
-(Pub. L. 104–127, title V, § 541, Apr. 4, 1996, 110 Stat. 1063.)
+(Pub. L. 104–127, title V, § 541, Apr. 4, 1996, 110 Stat. 1063.)
 
-### § 7451. Regulations
+### § 7451. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this subchapter.
 
-(Pub. L. 104–127, title V, § 542, Apr. 4, 1996, 110 Stat. 1063.)
+(Pub. L. 104–127, title V, § 542, Apr. 4, 1996, 110 Stat. 1063.)
 
-### § 7452. Authorization of appropriations
+### § 7452. Authorization of appropriations
 
 **(a) In general**
 
@@ -1835,11 +1835,11 @@ There are authorized to be appropriated for each fiscal year such sums as are ne
 
 Funds appropriated under subsection (a) shall not be available for payment of the expenses or expenditures of the Board in administering a provision of an order issued under this subchapter.
 
-(Pub. L. 104–127, title V, § 543, Apr. 4, 1996, 110 Stat. 1063.)
+(Pub. L. 104–127, title V, § 543, Apr. 4, 1996, 110 Stat. 1063.)
 
 ## SUBCHAPTER IV—KIWIFRUIT
 
-### § 7461. Findings and purposes
+### § 7461. Findings and purposes
 
 **(a) Findings** Congress finds that—
 
@@ -1865,9 +1865,9 @@ Funds appropriated under subsection (a) shall not be available for payment of th
 
 **(3)** to treat domestically produced kiwifruit and imported kiwifruit equitably.
 
-(Pub. L. 104–127, title V, § 552, Apr. 4, 1996, 110 Stat. 1064.)
+(Pub. L. 104–127, title V, § 552, Apr. 4, 1996, 110 Stat. 1064.)
 
-### § 7462. Definitions
+### § 7462. Definitions
 
 In this subchapter (unless the context otherwise requires):
 
@@ -1931,9 +1931,9 @@ The term “Secretary” means the Secretary of Agriculture.
 
 The term “United States” means the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 104–127, title V, § 553, Apr. 4, 1996, 110 Stat. 1064.)
+(Pub. L. 104–127, title V, § 553, Apr. 4, 1996, 110 Stat. 1064.)
 
-### § 7463. Issuance of orders
+### § 7463. Issuance of orders
 
 **(a) Issuance**
 
@@ -1957,15 +1957,15 @@ After notice and opportunity for public comment are provided under paragraph (2)
 
 The Secretary may amend any order issued under this section. The provisions of this subchapter applicable to an order shall be applicable to an amendment to an order, except that an amendment to an order shall not require a referendum to become effective.
 
-(Pub. L. 104–127, title V, § 554, Apr. 4, 1996, 110 Stat. 1065; Pub. L. 105–185, title VI, § 603(a), June 23, 1998, 112 Stat. 585.)
+(Pub. L. 104–127, title V, § 554, Apr. 4, 1996, 110 Stat. 1065; Pub. L. 105–185, title VI, § 603(a), June 23, 1998, 112 Stat. 585.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (c). Pub. L. 105–185 inserted “, except that an amendment to an order shall not require a referendum to become effective” before period at end.
+1998—Subsec. (c). Pub. L. 105–185 inserted “, except that an amendment to an order shall not require a referendum to become effective” before period at end.
 
-### § 7464. National Kiwifruit Board
+### § 7464. National Kiwifruit Board
 
 **(a) Membership** An order issued by the Secretary under section 7463 of this title shall provide for the establishment of a National Kiwifruit Board that consists of the following 11 members:
 
@@ -2033,13 +2033,13 @@ A member or alternate of the Board shall serve without pay.
 
 **(6)** employ or contract with a manager and staff to assist in administering the order, except that, to reduce administrative costs and increase efficiency, the Board shall seek, to the extent practicable, to employ or contract with personnel who are already associated with organizations involved in promoting kiwifruit that are chartered by a State, the District of Columbia, or the Commonwealth of Puerto Rico.
 
-(Pub. L. 104–127, title V, § 555, Apr. 4, 1996, 110 Stat. 1066; Pub. L. 105–185, title VI, § 603(b), June 23, 1998, 112 Stat. 585.)
+(Pub. L. 104–127, title V, § 555, Apr. 4, 1996, 110 Stat. 1066; Pub. L. 105–185, title VI, § 603(b), June 23, 1998, 112 Stat. 585.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–185, § 603(b)(1), added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
+1998—Subsec. (a). Pub. L. 105–185, § 603(b)(1), added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) 6 members who are producers (or representatives of producers) and who are not exempt from an assessment under section 7465(b) of this title.
 
@@ -2047,15 +2047,15 @@ A member or alternate of the Board shall serve without pay.
 
 “(3) 1 member appointed from the general public.”
 
-Subsec. (b). Pub. L. 105–185, § 603(b)(2), struck out par. (1) designation and heading, struck out “and to paragraph (2)” after “11-member limit”, and struck out heading and text of par. (2). Text read as follows: “Producers shall comprise not less than 51 percent of the membership of the Board.”
+Subsec. (b). Pub. L. 105–185, § 603(b)(2), struck out par. (1) designation and heading, struck out “and to paragraph (2)” after “11-member limit”, and struck out heading and text of par. (2). Text read as follows: “Producers shall comprise not less than 51 percent of the membership of the Board.”
 
-Subsec. (c)(2). Pub. L. 105–185, § 603(b)(3)(A), inserted “who are producers” after “members”.
+Subsec. (c)(2). Pub. L. 105–185, § 603(b)(3)(A), inserted “who are producers” after “members”.
 
-Subsec. (c)(3). Pub. L. 105–185, § 603(b)(3)(B), inserted “who are importers or exporters” after “members” and substituted “(a)(1)” for “(a)(2)”.
+Subsec. (c)(3). Pub. L. 105–185, § 603(b)(3)(B), inserted “who are importers or exporters” after “members” and substituted “(a)(1)” for “(a)(2)”.
 
-Subsec. (c)(5). Pub. L. 105–185, § 603(b)(3)(C), inserted “and alternate” before “may be appointed” in second sentence.
+Subsec. (c)(5). Pub. L. 105–185, § 603(b)(3)(C), inserted “and alternate” before “may be appointed” in second sentence.
 
-### § 7465. Required terms in order
+### § 7465. Required terms in order
 
 **(a) Budgets and plans**
 
@@ -2175,7 +2175,7 @@ Any person who willfully violates this subsection, on conviction, shall be subje
 
 Nothing in this subchapter authorizes the withholding of information from Congress.
 
-(Pub. L. 104–127, title V, § 556, Apr. 4, 1996, 110 Stat. 1067.)
+(Pub. L. 104–127, title V, § 556, Apr. 4, 1996, 110 Stat. 1067.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2183,7 +2183,7 @@ Nothing in this subchapter authorizes the withholding of information from Congre
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-### § 7466. Permissive terms in order
+### § 7466. Permissive terms in order
 
 **(a) Permissive terms**
 
@@ -2205,9 +2205,9 @@ The order may authorize the Board to accumulate reserve funds from assessments c
 
 The order may authorize the Board to use, with the approval of the Secretary, funds collected under section 7465(b) of this title and funds from other sources for the development and expansion of sales in foreign markets of kiwifruit produced in the United States.
 
-(Pub. L. 104–127, title V, § 557, Apr. 4, 1996, 110 Stat. 1070.)
+(Pub. L. 104–127, title V, § 557, Apr. 4, 1996, 110 Stat. 1070.)
 
-### § 7467. Petition and review
+### § 7467. Petition and review
 
 **(a) Petition**
 
@@ -2249,7 +2249,7 @@ Service of process in the proceedings shall be conducted in accordance with the 
 
 The pendency of a proceeding instituted pursuant to subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 7468 of this title.
 
-(Pub. L. 104–127, title V, § 558, Apr. 4, 1996, 110 Stat. 1070.)
+(Pub. L. 104–127, title V, § 558, Apr. 4, 1996, 110 Stat. 1070.)
 
 **Editorial Notes**
 
@@ -2257,7 +2257,7 @@ The pendency of a proceeding instituted pursuant to subsection (a) shall not imp
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### § 7468. Enforcement
+### § 7468. Enforcement
 
 **(a) Jurisdiction**
 
@@ -2309,9 +2309,9 @@ Any person who fails to obey a cease-and-desist order issued by the Secretary af
 
 If a person fails to pay an assessment of a civil penalty after the assessment has become a final and unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-(Pub. L. 104–127, title V, § 559, Apr. 4, 1996, 110 Stat. 1071.)
+(Pub. L. 104–127, title V, § 559, Apr. 4, 1996, 110 Stat. 1071.)
 
-### § 7469. Investigations and power to subpoena
+### § 7469. Investigations and power to subpoena
 
 **(a) In general** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -2345,9 +2345,9 @@ Process in any such case may be served in the judicial district in which the per
 
 The site of any hearing held under section 7467 or 7468 of this title shall be in the judicial district where the person affected by the hearing resides or has a principal place of business.
 
-(Pub. L. 104–127, title V, § 560, Apr. 4, 1996, 110 Stat. 1072.)
+(Pub. L. 104–127, title V, § 560, Apr. 4, 1996, 110 Stat. 1072.)
 
-### § 7470. Referenda
+### § 7470. Referenda
 
 **(a) Initial referendum**
 
@@ -2383,9 +2383,9 @@ The Secretary may periodically conduct a referendum to determine if kiwifruit pr
 
 The ballots and other information or reports that reveal, or tend to reveal, the vote of any person under this subchapter and the voting list shall be held strictly confidential and shall not be disclosed.
 
-(Pub. L. 104–127, title V, § 561, Apr. 4, 1996, 110 Stat. 1073.)
+(Pub. L. 104–127, title V, § 561, Apr. 4, 1996, 110 Stat. 1073.)
 
-### § 7471. Suspension or termination
+### § 7471. Suspension or termination
 
 **(a) In general**
 
@@ -2395,23 +2395,23 @@ If the Secretary finds that an order issued under section 7463 of this title, or
 
 The suspension or termination of any order, or any provision of an order, shall not be considered an order under this subchapter.
 
-(Pub. L. 104–127, title V, § 562, Apr. 4, 1996, 110 Stat. 1074.)
+(Pub. L. 104–127, title V, § 562, Apr. 4, 1996, 110 Stat. 1074.)
 
-### § 7472. Regulations
+### § 7472. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this subchapter.
 
-(Pub. L. 104–127, title V, § 563, Apr. 4, 1996, 110 Stat. 1074.)
+(Pub. L. 104–127, title V, § 563, Apr. 4, 1996, 110 Stat. 1074.)
 
-### § 7473. Authorization of appropriations
+### § 7473. Authorization of appropriations
 
 There are authorized to be appropriated for each fiscal year such sums as are necessary to carry out this subchapter.
 
-(Pub. L. 104–127, title V, § 564, Apr. 4, 1996, 110 Stat. 1074.)
+(Pub. L. 104–127, title V, § 564, Apr. 4, 1996, 110 Stat. 1074.)
 
 ## SUBCHAPTER V—POPCORN
 
-### § 7481. Findings and declaration of policy
+### § 7481. Findings and declaration of policy
 
 **(a) Findings** Congress finds that—
 
@@ -2451,9 +2451,9 @@ There are authorized to be appropriated for each fiscal year such sums as are ne
 
 **(2)** provides for the control of production or otherwise limits the right of any individual processor to produce popcorn.
 
-(Pub. L. 104–127, title V, § 572, Apr. 4, 1996, 110 Stat. 1074.)
+(Pub. L. 104–127, title V, § 572, Apr. 4, 1996, 110 Stat. 1074.)
 
-### § 7482. Definitions
+### § 7482. Definitions
 
 In this subchapter (unless the context otherwise requires):
 
@@ -2527,9 +2527,9 @@ The term “State” means each of the 50 States and the District of Columbia.
 
 The term “United States” means all of the States.
 
-(Pub. L. 104–127, title V, § 573, Apr. 4, 1996, 110 Stat. 1075.)
+(Pub. L. 104–127, title V, § 573, Apr. 4, 1996, 110 Stat. 1075.)
 
-### § 7483. Issuance of orders
+### § 7483. Issuance of orders
 
 **(a) In general**
 
@@ -2553,9 +2553,9 @@ After notice and opportunity for public comment under paragraph (2), the Secreta
 
 The Secretary, as appropriate, may amend an order. The provisions of this subchapter applicable to an order shall be applicable to any amendment to an order, except that an amendment to an order may not require a referendum to become effective.
 
-(Pub. L. 104–127, title V, § 574, Apr. 4, 1996, 110 Stat. 1076.)
+(Pub. L. 104–127, title V, § 574, Apr. 4, 1996, 110 Stat. 1076.)
 
-### § 7484. Required terms in orders
+### § 7484. Required terms in orders
 
 **(a) In general**
 
@@ -2733,9 +2733,9 @@ A person who knowingly violates this subparagraph shall, on conviction, be subje
 
 The order shall contain such other terms and conditions, consistent with this subchapter, as are necessary to effectuate this subchapter, including regulations relating to the assessment of late payment charges.
 
-(Pub. L. 104–127, title V, § 575, Apr. 4, 1996, 110 Stat. 1077.)
+(Pub. L. 104–127, title V, § 575, Apr. 4, 1996, 110 Stat. 1077.)
 
-### § 7485. Referenda
+### § 7485. Referenda
 
 **(a) Initial referendum**
 
@@ -2781,9 +2781,9 @@ The ballots and other information or reports that reveal or tend to reveal the v
 
 An officer or employee of the Department who knowingly violates paragraph (1) shall be subject to the penalties described in section 7484(i)(3)(C)(ii) of this title.
 
-(Pub. L. 104–127, title V, § 576, Apr. 4, 1996, 110 Stat. 1081.)
+(Pub. L. 104–127, title V, § 576, Apr. 4, 1996, 110 Stat. 1081.)
 
-### § 7486. Petition and review
+### § 7486. Petition and review
 
 **(a) Petition**
 
@@ -2825,9 +2825,9 @@ Service of process in a proceeding under paragraph (1) may be made on the Secret
 
 The pendency of proceedings instituted under subsection (a) may not impede, hinder, or delay the Secretary or the Attorney General from taking action under section 7487 of this title.
 
-(Pub. L. 104–127, title V, § 577, Apr. 4, 1996, 110 Stat. 1082.)
+(Pub. L. 104–127, title V, § 577, Apr. 4, 1996, 110 Stat. 1082.)
 
-### § 7487. Enforcement
+### § 7487. Enforcement
 
 **(a) In general**
 
@@ -2841,9 +2841,9 @@ The district courts of the United States are vested with jurisdiction specifical
 
 A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action.
 
-(Pub. L. 104–127, title V, § 578, Apr. 4, 1996, 110 Stat. 1082.)
+(Pub. L. 104–127, title V, § 578, Apr. 4, 1996, 110 Stat. 1082.)
 
-### § 7488. Investigations and power to subpoena
+### § 7488. Investigations and power to subpoena
 
 **(a) Investigations** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -2873,22 +2873,22 @@ A failure to obey an enforcement order of the court under paragraph (2) may be p
 
 Process in a case under this subsection may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
 
-(Pub. L. 104–127, title V, § 579, Apr. 4, 1996, 110 Stat. 1083.)
+(Pub. L. 104–127, title V, § 579, Apr. 4, 1996, 110 Stat. 1083.)
 
-### § 7489. Relation to other programs
+### § 7489. Relation to other programs
 
 Nothing in this subchapter preempts or supersedes any other program relating to popcorn promotion organized and operated under the laws of the United States or any State.
 
-(Pub. L. 104–127, title V, § 580, Apr. 4, 1996, 110 Stat. 1083.)
+(Pub. L. 104–127, title V, § 580, Apr. 4, 1996, 110 Stat. 1083.)
 
-### § 7490. Regulations
+### § 7490. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this subchapter.
 
-(Pub. L. 104–127, title V, § 581, Apr. 4, 1996, 110 Stat. 1083.)
+(Pub. L. 104–127, title V, § 581, Apr. 4, 1996, 110 Stat. 1083.)
 
-### § 7491. Authorization of appropriations
+### § 7491. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this subchapter. Amounts made available under this section or otherwise made available to the Department, and amounts made available under any other marketing or promotion order, may not be used to pay any administrative expense of the Board.
 
-(Pub. L. 104–127, title V, § 582, Apr. 4, 1996, 110 Stat. 1083.)
+(Pub. L. 104–127, title V, § 582, Apr. 4, 1996, 110 Stat. 1083.)

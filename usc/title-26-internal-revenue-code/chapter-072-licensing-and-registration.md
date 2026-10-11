@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## Subchapter A—Licensing
 
-### § 7001. Collection of foreign items
+### § 7001. Collection of foreign items
 
 **(a) License**
 
@@ -27,7 +27,7 @@ All persons undertaking as a matter of business or for profit the collection of 
 
 For penalty for failure to obtain the license provided for in this section, see section 7231.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 845; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 845; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -37,7 +37,7 @@ For penalty for failure to obtain the license provided for in this section, see 
 
 ## Subchapter B—Registration
 
-### § 7011. Registration—persons paying a special tax
+### § 7011. Registration—persons paying a special tax
 
 **(a) Requirement**
 
@@ -47,7 +47,7 @@ Every person engaged in any trade or business on which a special tax is imposed 
 
 Any person exempted under the provisions of section 4905 from the payment of a special tax, shall register with the Secretary in accordance with regulations prescribed by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 845; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 845; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ Any person exempted under the provisions of section 4905 from the payment of a s
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### § 7012. Cross references
+### § 7012. Cross references
 
 **(1)** For provisions relating to registration in connection with firearms, see sections 5802, 5841, and 5861.
 
@@ -69,7 +69,7 @@ Any person exempted under the provisions of section 4905 from the payment of a s
 
 **(6)** For other penalties for failure to register with respect to wagering, see section 7262.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 846; Pub. L. 85–475, § 4(b)(7), June 30, 1958, 72 Stat. 260; Pub. L. 89–44, title VI, § 601(g), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(d), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1904(b)(8)(C), 1906(a)(39), Oct. 4, 1976, 90 Stat. 1816, 1830; Pub. L. 104–188, title I, § 1702(b)(4), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 109–59, title XI, § 11125(b)(9), Aug. 10, 2005, 119 Stat. 1955.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 846; Pub. L. 85–475, § 4(b)(7), June 30, 1958, 72 Stat. 260; Pub. L. 89–44, title VI, § 601(g), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(d), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1904(b)(8)(C), 1906(a)(39), Oct. 4, 1976, 90 Stat. 1816, 1830; Pub. L. 104–188, title I, § 1702(b)(4), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 109–59, title XI, § 11125(b)(9), Aug. 10, 2005, 119 Stat. 1955.)
 
 **Editorial Notes**
 
@@ -77,9 +77,9 @@ Any person exempted under the provisions of section 4905 from the payment of a s
 
 2005—Pars. (4) to (6). Pub. L. 109–59 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-1996—Par. (3). Pub. L. 104–188, § 1702(b)(4)(A), substituted “taxes on gasoline and diesel fuel” for “production or importation of gasoline”.
+1996—Par. (3). Pub. L. 104–188, § 1702(b)(4)(A), substituted “taxes on gasoline and diesel fuel” for “production or importation of gasoline”.
 
-Pars. (4) to (6). Pub. L. 104–188, § 1702(b)(4)(B), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “For provisions relating to registration in relation to the manufacture or production of lubricating oils, see section 4101.”
+Pars. (4) to (6). Pub. L. 104–188, § 1702(b)(4)(B), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “For provisions relating to registration in relation to the manufacture or production of lubricating oils, see section 4101.”
 
 1976—Pub. L. 94–455 revised section generally, striking out cross reference to section 4804(d) relating to registration in relation to manufacture of white phosphorus matches and substituted reference to section 5861 for reference to section 5854 in cross reference covering registration in connection with firearms.
 

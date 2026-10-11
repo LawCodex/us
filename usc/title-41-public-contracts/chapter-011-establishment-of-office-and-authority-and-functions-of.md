@@ -17,19 +17,19 @@ retrieved: 2026-10-11
 
 **Amendment of Analysis**
 
-Pub. L. 113–67, div. A, title VII, § 702(b)(2), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.
+Pub. L. 113–67, div. A, title VII, § 702(b)(2), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.
 
-Pub. L. 113–66, div. A, title VIII, § 811(c)(2), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.
+Pub. L. 113–66, div. A, title VIII, § 811(c)(2), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Pub. L. 113–66, div. A, title VIII, § 811(c)(2), Dec. 26, 2013, 127 Stat. 806, and Pub. L. 113–67, div. A, title VII, § 702(b)(2), Dec. 26, 2013, 127 Stat. 1189, struck out item 1127 “Determining benchmark compensation amount”.
+2013—Pub. L. 113–66, div. A, title VIII, § 811(c)(2), Dec. 26, 2013, 127 Stat. 806, and Pub. L. 113–67, div. A, title VII, § 702(b)(2), Dec. 26, 2013, 127 Stat. 1189, struck out item 1127 “Determining benchmark compensation amount”.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 1101. Office of Federal Procurement Policy
+### § 1101. Office of Federal Procurement Policy
 
 **(a) Organization.—** There is an Office of Federal Procurement Policy in the Office of Management and Budget.
 
@@ -41,14 +41,14 @@ Pub. L. 113–66, div. A, title VIII, § 811(c)(2), (d), Dec. 26, 2013, 127 St
 
 **(c) Authorization of Appropriations.—** Necessary amounts may be appropriated each fiscal year for the Office of Federal Procurement Policy to carry out the responsibilities of the Office for that fiscal year.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3684.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3684.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1101(a), (b) | 41:404(a). | Pub. L. 93–400, § (5)(a), Aug. 30, 1974, 88 Stat. 797; Pub. L. 104–106, title XLIII, § 4305(a)(1), Feb. 10, 1996, 110 Stat. 665. |
-| 1101(c) | 41:410. | Pub. L. 93–400, § 11, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, § 7, Oct. 10, 1979, 93 Stat 651; Pub. L. 98–191, § 6, Dec. 1, 1983, 97 Stat 1329; Pub. L. 100–679, § 3(b), Nov. 17, 1988, 102 Stat 4056; Pub. L. 104–106, title XLIII, § 4305(c)(2), Feb. 10, 1996, 110 Stat. 665. |
+| 1101(a), (b) | 41:404(a). | Pub. L. 93–400, § (5)(a), Aug. 30, 1974, 88 Stat. 797; Pub. L. 104–106, title XLIII, § 4305(a)(1), Feb. 10, 1996, 110 Stat. 665. |
+| 1101(c) | 41:410. | Pub. L. 93–400, § 11, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, § 7, Oct. 10, 1979, 93 Stat 651; Pub. L. 98–191, § 6, Dec. 1, 1983, 97 Stat 1329; Pub. L. 100–679, § 3(b), Nov. 17, 1988, 102 Stat 4056; Pub. L. 104–106, title XLIII, § 4305(c)(2), Feb. 10, 1996, 110 Stat. 665. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -212,45 +212,45 @@ Pub. L. 117–88, Feb. 22, 2022, 136 Stat. 20, provided that:
 
 **Requirements for Use of Appropriations by Executive Agencies for Services by Contract**
 
-Pub. L. 102–394, title V, § 502, Oct. 6, 1992, 106 Stat. 1825, provided that: “No part of any appropriation contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be expended by an executive agency, as referred to in the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 401 et seq.) [see this division (except sections 1123, 2303, 2304, and 2313)], pursuant to any obligation for services by contract, unless such executive agency has awarded and entered into such contract in full compliance with such Act and regulations promulgated thereunder.”
+Pub. L. 102–394, title V, § 502, Oct. 6, 1992, 106 Stat. 1825, provided that: “No part of any appropriation contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be expended by an executive agency, as referred to in the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 401 et seq.) [see this division (except sections 1123, 2303, 2304, and 2313)], pursuant to any obligation for services by contract, unless such executive agency has awarded and entered into such contract in full compliance with such Act and regulations promulgated thereunder.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–170, title V, § 502, Nov. 26, 1991, 105 Stat. 1140.
+Pub. L. 102–170, title V, § 502, Nov. 26, 1991, 105 Stat. 1140.
 
-Pub. L. 101–517, title V, § 502, Nov. 5, 1990, 104 Stat. 2221.
+Pub. L. 101–517, title V, § 502, Nov. 5, 1990, 104 Stat. 2221.
 
-Pub. L. 101–166, title V, § 502, Nov. 21, 1989, 103 Stat. 1189.
+Pub. L. 101–166, title V, § 502, Nov. 21, 1989, 103 Stat. 1189.
 
-Pub. L. 100–202, § 101(h) [title V, § 502], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
+Pub. L. 100–202, § 101(h) [title V, § 502], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 502], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 502], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 502], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 502], Oct. 30, 1986, 100 Stat. 3341–287.
 
-Pub. L. 99–178, title V, § 502, Dec. 12, 1985, 99 Stat. 1132.
+Pub. L. 99–178, title V, § 502, Dec. 12, 1985, 99 Stat. 1132.
 
-Pub. L. 98–619, title V, § 502, Nov. 8, 1984, 98 Stat. 3332.
+Pub. L. 98–619, title V, § 502, Nov. 8, 1984, 98 Stat. 3332.
 
-Pub. L. 98–139, title V, § 502, Oct. 31, 1983, 97 Stat. 899.
+Pub. L. 98–139, title V, § 502, Oct. 31, 1983, 97 Stat. 899.
 
-Pub. L. 97–377, title I, § 101(e)(1) [title V, § 502], Dec. 21, 1982, 96 Stat. 1878, 1904.
+Pub. L. 97–377, title I, § 101(e)(1) [title V, § 502], Dec. 21, 1982, 96 Stat. 1878, 1904.
 
-### § 1102. Administrator
+### § 1102. Administrator
 
 **(a) Head of Office.—** The head of the Office of Federal Procurement Policy is the Administrator for Federal Procurement Policy.
 
 **(b) Appointment.—** The Administrator is appointed by the President, by and with the advice and consent of the Senate.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3684.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3684.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1102 | 41:404(b). | Pub. L. 93–400, § (5)(b), Aug. 30, 1974, 88 Stat. 797. |
+| 1102 | 41:404(b). | Pub. L. 93–400, § (5)(b), Aug. 30, 1974, 88 Stat. 797. |
 
 ## SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR
 
-### § 1121. General authority
+### § 1121. General authority
 
 **(a) Overall Direction and Leadership.—** The Administrator shall provide overall direction of procurement policy and leadership in the development of procurement systems of the executive agencies.
 
@@ -280,18 +280,18 @@ Pub. L. 97–377, title I, § 101(e)(1) [title V, § 502], Dec. 21, 1982, 96
 
 **(2)** interfere with the determination by executive agencies of specific actions in the award or administration of procurement contracts.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3684.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3684.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1121(a)–(c) (1) | 41:405(a). | Pub. L. 93–400, § 6(a), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 100–679, § 3(a)(1), Nov. 17, 1988, 102 Stat. 4055. |
-| 1121(c)(2) | 41:405a (1st sentence). | Pub. L. 95–507, title II, § 222 (1st sentence), Oct. 24, 1978, 92 Stat. 1771. |
-| 1121(c)(3) | 41:408. | Pub. L. 93–400, § 9, Aug. 30, 1974, 88 Stat. 799. |
-| 1121(d) | 41:405(b). | Pub. L. 93–400, § 6(b), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1327; Pub. L. 100–679, § 3(a)(2), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 104–106, title XLIII, § 4322(a)(1), Feb. 10, 1996, 110 Stat. 677. |
-| 1121(e) | 41:405(f). | Pub. L. 93–400, § 6(f), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328; Pub. L. 100–679, § 3(a)(4), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 104–201, title X, § 1074(f)(1), Sept. 23, 1996, 110 Stat. 2661. |
-| 1121(f) | 41:405(c). | Pub. L. 93–400, § 6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1327. |
+| 1121(a)–(c) (1) | 41:405(a). | Pub. L. 93–400, § 6(a), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 100–679, § 3(a)(1), Nov. 17, 1988, 102 Stat. 4055. |
+| 1121(c)(2) | 41:405a (1st sentence). | Pub. L. 95–507, title II, § 222 (1st sentence), Oct. 24, 1978, 92 Stat. 1771. |
+| 1121(c)(3) | 41:408. | Pub. L. 93–400, § 9, Aug. 30, 1974, 88 Stat. 799. |
+| 1121(d) | 41:405(b). | Pub. L. 93–400, § 6(b), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1327; Pub. L. 100–679, § 3(a)(2), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 104–106, title XLIII, § 4322(a)(1), Feb. 10, 1996, 110 Stat. 677. |
+| 1121(e) | 41:405(f). | Pub. L. 93–400, § 6(f), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328; Pub. L. 100–679, § 3(a)(4), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 104–201, title X, § 1074(f)(1), Sept. 23, 1996, 110 Stat. 2661. |
+| 1121(f) | 41:405(c). | Pub. L. 93–400, § 6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1327. |
 
 In subsection (c)(2), the text of 41:405a (1st sentence relating to promulgating a single, simplified, uniform Federal procurement regulation) is omitted as superseded by 41:405(a) because of section 11 of the Office of Federal Procurement Policy Act Amendments of 1979 (Public Law 96–83, 93 Stat. 652).
 
@@ -299,11 +299,11 @@ In subsection (c)(2), the text of 41:405a (1st sentence relating to promulgating
 
 **Supersedure of Inconsistent Statutory Provisions**
 
-Pub. L. 96–83, § 11, Oct. 10, 1979, 93 Stat. 652, provided that: “The provisions of the Act [Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, see this division (except sections 1123, 2303, 2304, and 2313)] as amended by this Act [see Short Title of 1979 Act note set out under section 101 of this title] shall supersede the provisions of section 222 of the Act of October 24, 1978, entitled ‘An Act to amend the Small Business Act and the Small Business Investment Act of 1958’ ([former] 41 U.S.C. 405a) [now 41 U.S.C. 1121(c)(2), 1123] to the extent they are inconsistent therewith.”
+Pub. L. 96–83, § 11, Oct. 10, 1979, 93 Stat. 652, provided that: “The provisions of the Act [Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, see this division (except sections 1123, 2303, 2304, and 2313)] as amended by this Act [see Short Title of 1979 Act note set out under section 101 of this title] shall supersede the provisions of section 222 of the Act of October 24, 1978, entitled ‘An Act to amend the Small Business Act and the Small Business Investment Act of 1958’ ([former] 41 U.S.C. 405a) [now 41 U.S.C. 1121(c)(2), 1123] to the extent they are inconsistent therewith.”
 
 **Federal Support for Enhancement of State and Local Anti-Terrorism Response Capabilities**
 
-Pub. L. 108–136, div. A, title VIII, § 803, Nov. 24, 2003, 117 Stat. 1541, provided that:
+Pub. L. 108–136, div. A, title VIII, § 803, Nov. 24, 2003, 117 Stat. 1541, provided that:
 
 > **“(a) Procurements of Anti-Terrorism Technologies and Services by State and Local Governments.—** The Administrator for Federal Procurement Policy shall establish a program under which States and units of local government may procure through contracts entered into by the Department of Defense or the Department of Homeland Security anti-terrorism technologies or anti-terrorism services for the purpose of preventing, detecting, identifying, deterring, or recovering from acts of terrorism.
 
@@ -313,13 +313,13 @@ Pub. L. 108–136, div. A, title VIII, § 803, Nov. 24, 2003, 117 Stat. 1541, 
 
 **Profit Methodology Study**
 
-Pub. L. 100–679, § 7, Nov. 17, 1988, 102 Stat. 4068, provided that:
+Pub. L. 100–679, § 7, Nov. 17, 1988, 102 Stat. 4068, provided that:
 
 > **“(a) In General.—** The Administrator shall conduct a study to develop a consistent methodology which executive agencies should use for measuring the profits earned by government contractors on procurements, other than procurements where the price is based on adequate price competition or on established catalog or market prices of commercial items sold in substantial quantities to the general public.
 
 > **“(b) Contractors’ Financial Data.—** The methodology developed under subsection (a) shall include adequate procedures for verifying and maintaining the confidentiality of contractors’ financial data.”
 
-### § 1122. Functions
+### § 1122. Functions
 
 **(a) In General.—** The functions of the Administrator include—
 
@@ -337,7 +337,7 @@ Pub. L. 100–679, § 7, Nov. 17, 1988, 102 Stat. 4068, provided that:
 
 **(5)** providing for and directing the activities of the Federal Acquisition Institute established under section 1201 of this title, including recommending to the Administrator of General Services a sufficient budget for such activities.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(6)** administering section 1703(a) to (i) of this title;
 
@@ -373,16 +373,16 @@ Pub. L. 100–679, § 7, Nov. 17, 1988, 102 Stat. 4068, provided that:
 
 **(B) To another executive agency.—** The Administrator may delegate, and authorize successive redelegations of, an authority, function, or power of the Administrator under this division (other than the authority to provide overall direction of Federal procurement policy and to prescribe policies and regulations to carry out the policy) to another executive agency with the consent of the head of the executive agency or at the direction of the President.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3685; Pub. L. 112–81, div. A, title VIII, § 864(b)(3), Dec. 31, 2011, 125 Stat. 1524; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(i), Dec. 12, 2017, 131 Stat. 1796.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3685; Pub. L. 112–81, div. A, title VIII, § 864(b)(3), Dec. 31, 2011, 125 Stat. 1524; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(i), Dec. 12, 2017, 131 Stat. 1796.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1122(a) | 41:405(d). | Pub. L. 93–400, § 6(d), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1327; Pub. L. 100–679, § 3(a)(3), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title V, § 5091, title VII, § 7108, Oct. 13, 1994, 108 Stat. 3361, 3378; Pub. L. 104–106, title XLIII, §§ 4307(b), 4321(h)(1), (2), Feb. 10, 1996, 110 Stat. 668, 675; Pub. L. 105–85, title X, § 1073(g)(2)(B), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, § 604(f)(1), Dec. 2, 1997, 111 Stat. 2634. |
-| 1122(b) | 41:405(e). | Pub. L. 93–400, § 6(e), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328; Pub. L. 98–369, title VII, § 2732(b)(1), July 18, 1984, 98 Stat. 1199. |
-| 1122(c)(1) | 41:405(g). | Pub. L. 93–400, § 6(g), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328. |
-| 1122(c)(2)(A) | 41:411(b). | Pub. L. 93–400, § 12, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, § 8, Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, § 8(c), Dec. 1, 1983, 97 Stat. 1331. |
+| 1122(a) | 41:405(d). | Pub. L. 93–400, § 6(d), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1327; Pub. L. 100–679, § 3(a)(3), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title V, § 5091, title VII, § 7108, Oct. 13, 1994, 108 Stat. 3361, 3378; Pub. L. 104–106, title XLIII, §§ 4307(b), 4321(h)(1), (2), Feb. 10, 1996, 110 Stat. 668, 675; Pub. L. 105–85, title X, § 1073(g)(2)(B), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, § 604(f)(1), Dec. 2, 1997, 111 Stat. 2634. |
+| 1122(b) | 41:405(e). | Pub. L. 93–400, § 6(e), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328; Pub. L. 98–369, title VII, § 2732(b)(1), July 18, 1984, 98 Stat. 1199. |
+| 1122(c)(1) | 41:405(g). | Pub. L. 93–400, § 6(g), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328. |
+| 1122(c)(2)(A) | 41:411(b). | Pub. L. 93–400, § 12, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, § 8, Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, § 8(c), Dec. 1, 1983, 97 Stat. 1331. |
 | 1122(c)(2)(B) | 41:411(a). |  |
 
 In clause (12), the words “small business concerns owned and controlled by service-disabled veterans” are added to conform to section 15(g)(1) of the Small Business Act (15:644(g)(1)).
@@ -395,7 +395,7 @@ Section 31(b) of the Small Business Act, referred to in subsec. (a)(11), (12), i
 
 **Amendments**
 
-2017—Subsec. (a)(11), (12). Pub. L. 115–91, § 1701(a)(4)(F)(i), substituted “section 31(b) of the Small Business Act” for “section 3(p) of the Small Business Act (15 U.S.C. 632(p))”.
+2017—Subsec. (a)(11), (12). Pub. L. 115–91, § 1701(a)(4)(F)(i), substituted “section 31(b) of the Small Business Act” for “section 3(p) of the Small Business Act (15 U.S.C. 632(p))”.
 
 2011—Subsec. (a)(5). Pub. L. 112–81 amended par. (5) generally. Prior to amendment, par. (5) related to the purposes of the activities of the Federal Acquisition Institute.
 
@@ -407,7 +407,7 @@ Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub
 
 **Improving Federal Procurement Data Systems Data Tracking**
 
-Pub. L. 119–83, § 8(b), Apr. 13, 2026, 140 Stat. 767, provided that:
+Pub. L. 119–83, § 8(b), Apr. 13, 2026, 140 Stat. 767, provided that:
 
 > **“(1) Definitions.—** In this section:
 
@@ -437,7 +437,7 @@ Pub. L. 119–83, § 8(b), Apr. 13, 2026, 140 Stat. 767, provided that:
 
 **Revision to the Federal Procurement Data System**
 
-Pub. L. 116–92, div. A, title VIII, § 806(b), Dec. 20, 2019, 133 Stat. 1485, provided that:
+Pub. L. 116–92, div. A, title VIII, § 806(b), Dec. 20, 2019, 133 Stat. 1485, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Administrator of General Services, in coordination with the Administrator for Federal Procurement Policy, shall direct appropriate revisions to the Federal procurement data system established pursuant to section 1122(a)(4) of title 41, United States Code (or any successor system), to facilitate the collection of complete, timely, and reliable data on the source selection processes used by Federal agencies for the contract actions being reported in the system. The Administrator of General Services shall ensure that data are collected—
 
@@ -447,7 +447,7 @@ Pub. L. 116–92, div. A, title VIII, § 806(b), Dec. 20, 2019, 133 Stat. 1485
 
 **Procurement Administrative Lead Time Definition and Plan**
 
-Pub. L. 115–232, div. A, title VIII, § 878, Aug. 13, 2018, 132 Stat. 1908, provided that:
+Pub. L. 115–232, div. A, title VIII, § 878, Aug. 13, 2018, 132 Stat. 1908, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Administrator for Federal Procurement Policy shall develop, make available for public comment, and finalize—
 
@@ -473,11 +473,11 @@ Pub. L. 115–232, div. A, title VIII, § 878, Aug. 13, 2018, 132 Stat. 1908, 
 
 **Pilot Program To Inventory Cost and Size of Service Contracts**
 
-Pub. L. 110–161, div. D, title VII, § 748, Dec. 26, 2007, 121 Stat. 2035, provided that: “No later than 180 days after enactment of this Act [Dec. 26, 2007], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System’s Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services.”
+Pub. L. 110–161, div. D, title VII, § 748, Dec. 26, 2007, 121 Stat. 2035, provided that: “No later than 180 days after enactment of this Act [Dec. 26, 2007], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System’s Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services.”
 
 **Reporting of Bundled Contract Opportunities**
 
-Pub. L. 105–135, title IV, § 414, Dec. 2, 1997, 111 Stat. 2619, provided that:
+Pub. L. 105–135, title IV, § 414, Dec. 2, 1997, 111 Stat. 2619, provided that:
 
 > **“(a) Data Collection Required.—** The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 405(d)(4)(A)) [now 41 U.S.C. 1122(a)(4)(A)] shall be modified to collect data regarding bundling of contract requirements when the contracting officer anticipates that the resulting contract price, including all options, is expected to exceed $5,000,000. The data shall reflect a determination made by the contracting officer regarding whether a particular solicitation constitutes a contract bundling.
 
@@ -485,7 +485,7 @@ Pub. L. 105–135, title IV, § 414, Dec. 2, 1997, 111 Stat. 2619, provided th
 
 **Results-Oriented Acquisition Process**
 
-Pub. L. 103–355, title V, § 5052, Oct. 13, 1994, 108 Stat. 3352, provided that:
+Pub. L. 103–355, title V, § 5052, Oct. 13, 1994, 108 Stat. 3352, provided that:
 
 > **“(a) Development of Process Required.—** The Administrator for Federal Procurement Policy, in consultation with the heads of appropriate Federal agencies, shall develop results-oriented acquisition process guidelines for implementation by agencies in acquisitions of property and services by the Federal agencies. The process guidelines shall include the identification of quantitative measures and standards for determining the extent to which an acquisition of items other than commercial items by a Federal agency satisfies the needs for which the items are being acquired.
 
@@ -493,7 +493,7 @@ Pub. L. 103–355, title V, § 5052, Oct. 13, 1994, 108 Stat. 3352, provided t
 
 **Data Collection Through Federal Procurement Data System**
 
-Pub. L. 103–355, title X, § 10004, Oct. 13, 1994, 108 Stat. 3405, as amended by Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(iv), Aug. 13, 2018, 132 Stat. 1847, provided that:
+Pub. L. 103–355, title X, § 10004, Oct. 13, 1994, 108 Stat. 3405, as amended by Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(iv), Aug. 13, 2018, 132 Stat. 1847, provided that:
 
 > **“(a) Data Collection Required.—** The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 405(d)(4)(A)) [now 41 U.S.C. 1122(a)(4)(A)] shall be modified to collect from contracts in excess of the simplified acquisition threshold data identifying the following matters:
 
@@ -509,7 +509,7 @@ Pub. L. 103–355, title X, § 10004, Oct. 13, 1994, 108 Stat. 3405, as amende
 
 > **“(b) Definition.—** In this section, the term ‘simplified acquisition threshold’ has the meaning given such term in section 4(11) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 403(11)) [now 41 U.S.C. 134].”
 
-### § 1123. Small business concerns
+### § 1123. Small business concerns
 
 In formulating the Federal Acquisition Regulation and procedures to ensure compliance with the Regulation, the Administrator, in consultation with the Small Business Administration, shall—
 
@@ -517,15 +517,15 @@ In formulating the Federal Acquisition Regulation and procedures to ensure compl
 
 **(2)** incorporate into revised procurement regulations simplified bidding, contract performance, and contract administration procedures for small business concerns.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3687.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3687.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1123 | 41:405a (last sentence). | Pub. L. 95–507, title II, § 222 (last sentence), Oct. 24, 1978, 92 Stat. 1771. |
+| 1123 | 41:405a (last sentence). | Pub. L. 95–507, title II, § 222 (last sentence), Oct. 24, 1978, 92 Stat. 1771. |
 
-### § 1124. Tests of innovative procurement methods and procedures
+### § 1124. Tests of innovative procurement methods and procedures
 
 **(a) In General.—** The Administrator may develop innovative procurement methods and procedures to be tested by selected executive agencies. In developing a program to test innovative procurement methods and procedures under this subsection, the Administrator shall consult with the heads of executive agencies to—
 
@@ -553,13 +553,13 @@ In formulating the Federal Acquisition Regulation and procedures to ensure compl
 
 **(4)** the executive agencies involved in carrying out the proposed program.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3688.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3688.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1124(a) | 41:413(a) (1st, 2d sentences). | Pub. L. 93–400, § 15, as added Pub. L. 98–191, § 7, Dec. 1, 1983, 97 Stat. 1329; Pub. L. 104–201, title X, § 1074(f)(2), Sept. 23, 1996, 110 Stat. 2661. |
+| 1124(a) | 41:413(a) (1st, 2d sentences). | Pub. L. 93–400, § 15, as added Pub. L. 98–191, § 7, Dec. 1, 1983, 97 Stat. 1329; Pub. L. 104–201, title X, § 1074(f)(2), Sept. 23, 1996, 110 Stat. 2661. |
 | 1124(b) | 41:413(a) (last sentence). |  |
 | 1124(c) | 41:413(b). |  |
 
@@ -571,7 +571,7 @@ In subsection (c), the words “Committee on Oversight and Government Reform” 
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 1125. Recipients of Federal grants or assistance
+### § 1125. Recipients of Federal grants or assistance
 
 **(a) Authority.—** With due regard to applicable laws and the program activities of the executive agencies administering Federal programs of grants or assistance, the Administrator may prescribe Government-wide policies, regulations, procedures, and forms that the Administrator considers appropriate and that executive agencies shall follow in providing for the procurement, to the extent required under those programs, of property or services referred to in section 1121(c)(1) of this title by recipients of Federal grants or assistance under the programs.
 
@@ -581,16 +581,16 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(2)** authorize action by a recipient contrary to State and local law in the case of a program to provide a Federal grant or assistance to a State or political subdivision.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3688.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3688.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1125(a) | 41:405(i)(1). | Pub. L. 93–400, § 6(i), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328. |
+| 1125(a) | 41:405(i)(1). | Pub. L. 93–400, § 6(i), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328. |
 | 1125(b) | 41:405(i)(2). |  |
 
-### § 1126. Policy regarding consideration of contractor past performance
+### § 1126. Policy regarding consideration of contractor past performance
 
 **(a) Guidance.—** The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performance of offerors in awarding contracts. The guidance shall include—
 
@@ -608,20 +608,20 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(b) Information Not Available.—** If there is no information on past contract performance of an offeror or the information on past contract performance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3689.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3689.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1126(a) | 41:405(j)(1). | Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2), Oct. 13, 1994, 108 Stat. 3272. |
+| 1126(a) | 41:405(j)(1). | Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2), Oct. 13, 1994, 108 Stat. 3272. |
 | 1126(b) | 41:405(j)(2). |  |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Inclusion of Data on Contractor Performance in Past Performance Databases for Executive Agency Source Selection Decisions**
 
-Pub. L. 112–239, div. A, title VIII, § 853, Jan. 2, 2013, 126 Stat. 1856, provided that:
+Pub. L. 112–239, div. A, title VIII, § 853, Jan. 2, 2013, 126 Stat. 1856, provided that:
 
 > **“(a) Strategy Required.—**
 
@@ -667,7 +667,7 @@ Pub. L. 112–239, div. A, title VIII, § 853, Jan. 2, 2013, 126 Stat. 1856, p
 
 **Congressional Findings Regarding Consideration of Past Contract Performance**
 
-Pub. L. 103–355, title I, § 1091(b)(1), Oct. 13, 1994, 108 Stat. 3272, provided that:
+Pub. L. 103–355, title I, § 1091(b)(1), Oct. 13, 1994, 108 Stat. 3272, provided that:
 
 > “Congress makes the following findings:
 
@@ -675,7 +675,7 @@ Pub. L. 103–355, title I, § 1091(b)(1), Oct. 13, 1994, 108 Stat. 3272, prov
 
 > **“(B)** It is appropriate for a contracting official to consider past contract performance of an offeror as an indicator of the likelihood that the offeror will successfully perform a contract to be awarded by that official.”
 
-### § 1127. Determining benchmark compensation amount
+### § 1127. Determining benchmark compensation amount
 
 **(a) Definitions.—** In this section:
 
@@ -697,19 +697,19 @@ Pub. L. 103–355, title I, § 1091(b)(1), Oct. 13, 1994, 108 Stat. 3272, prov
 
 **(b) Determining Benchmark Compensation Amount.—** For purposes of section 4304(a)(16) of this title and section 3744(a)(16) of title 10, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3689; Pub. L. 117–81, div. A, title XVII, § 1702(h)(1), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3689; Pub. L. 117–81, div. A, title XVII, § 1702(h)(1), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Repeal of Section**
 
-Pub. L. 113–67, div. A, title VII, § 702(b)(1), (c), Dec. 26, 2013, 127 Stat. 1189, repealed this section applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013.
+Pub. L. 113–67, div. A, title VII, § 702(b)(1), (c), Dec. 26, 2013, 127 Stat. 1189, repealed this section applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013.
 
-Pub. L. 113–66, div. A, title VIII, § 811(c)(1), (d), Dec. 26, 2013, 127 Stat. 806, repealed this section applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013.
+Pub. L. 113–66, div. A, title VIII, § 811(c)(1), (d), Dec. 26, 2013, 127 Stat. 806, repealed this section applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1127(a)(1) | 41:435(b). | Pub. L. 93–400, § 39, as added Pub. L. 105–85, title VIII, § 808(c)(1), Nov. 18, 1997, 111 Stat. 1837; Pub. L. 105–261, title VIII, § 804(c)(1), Oct. 17, 1998, 112 Stat. 2083. |
+| 1127(a)(1) | 41:435(b). | Pub. L. 93–400, § 39, as added Pub. L. 105–85, title VIII, § 808(c)(1), Nov. 18, 1997, 111 Stat. 1837; Pub. L. 105–261, title VIII, § 804(c)(1), Oct. 17, 1998, 112 Stat. 2083. |
 | 1127(a)(2) | 41:435(c)(3). |  |
 | 1127(a)(3) | 41:435(c)(1). |  |
 | 1127(a)(4) | 41:435(c)(5). |  |
@@ -733,11 +733,11 @@ Repeal by Pub. L. 113–66 applicable with respect to costs of compensation incu
 
 **Exclusive Applicability of Provisions Limiting Allowability of Compensation for Certain Contractor Personnel**
 
-Pub. L. 105–85, div. A, title VIII, § 808(f), Nov. 18, 1997, 111 Stat. 1838, provided that: “Notwithstanding any other provision of law, no other limitation in law on the allowability of costs of compensation of senior executives under covered contracts shall apply to such costs of compensation incurred after January 1, 1998.”
+Pub. L. 105–85, div. A, title VIII, § 808(f), Nov. 18, 1997, 111 Stat. 1838, provided that: “Notwithstanding any other provision of law, no other limitation in law on the allowability of costs of compensation of senior executives under covered contracts shall apply to such costs of compensation incurred after January 1, 1998.”
 
-**Definitions for Purposes of Section 808 of Pub. L. 105–85**
+**Definitions for Purposes of Section 808 of Pub. L. 105–85**
 
-Pub. L. 105–85, div. A, title VIII, § 808(g), Nov. 18, 1997, 111 Stat. 1838, as amended by Pub. L. 105–261, div. A, title VIII, § 804(c)(2), Oct. 17, 1998, 112 Stat. 2083, provided that:
+Pub. L. 105–85, div. A, title VIII, § 808(g), Nov. 18, 1997, 111 Stat. 1838, as amended by Pub. L. 105–261, div. A, title VIII, § 804(c)(2), Oct. 17, 1998, 112 Stat. 2083, provided that:
 
 > “In this section [see Tables for classification]:
 
@@ -745,7 +745,7 @@ Pub. L. 105–85, div. A, title VIII, § 808(g), Nov. 18, 1997, 111 Stat. 1838
 
 > **“(2)** The terms ‘compensation’ and ‘senior executives’ have the meanings given such terms in section 2324(*l*) of title 10, United States Code [see 10 U.S.C. 3741 as to “compensation” and former 10 U.S.C. 2324(*l*)(5) as to “senior executives”], and section 306(m) of the Federal Property and Administrative Services Act of 1949 [see 41 U.S.C. 4301].”
 
-### § 1128. Maintaining necessary capability with respect to acquisition of architectural and engineering services
+### § 1128. Maintaining necessary capability with respect to acquisition of architectural and engineering services
 
 The Administrator, in consultation with the Secretary of Defense, the Administrator of General Services, and the Director of the Office of Personnel Management, shall develop and implement a plan to ensure that the Federal Government maintains the necessary capability with respect to the acquisition of architectural and engineering services to—
 
@@ -759,48 +759,48 @@ The Administrator, in consultation with the Secretary of Defense, the Administra
 
 **(5)** award and administer contracts for those services.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3690.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3690.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1128 | 41:433 note. | Pub. L. 108–136, title XIV, § 1414, Nov. 24, 2003, 117 Stat. 1666. |
+| 1128 | 41:433 note. | Pub. L. 108–136, title XIV, § 1414, Nov. 24, 2003, 117 Stat. 1666. |
 
-### § 1129. Center of excellence in contracting for services
+### § 1129. Center of excellence in contracting for services
 
 The Administrator shall maintain a center of excellence in contracting for services. The center shall assist the acquisition community by identifying, and serving as a clearinghouse for, best practices in contracting for services in the public and private sectors.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3690.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3690.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1129 | 41:405 note. | Pub. L. 108–136, title XIV, § 1431(b), Nov. 24, 2003, 117 Stat. 1671. |
+| 1129 | 41:405 note. | Pub. L. 108–136, title XIV, § 1431(b), Nov. 24, 2003, 117 Stat. 1671. |
 
 The words “Not later than 180 days after the date of the enactment of this Act” are omitted, and the word “maintain” is substituted for “establish”, to eliminate obsolete words.
 
-### § 1130. Effect of division on other law
+### § 1130. Effect of division on other law
 
 This division does not impair or affect the authorities or responsibilities relating to the procurement of real property conferred by division C of this subtitle and chapters 1 to 11 of title 40.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3690.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3690.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1130 | 41:405(h)(1). | Pub. L. 93–400, § 6(h)(1), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328; Pub. L. 104–106, title LVI, § 5607(d), Feb. 10, 1996, 110 Stat. 702. |
+| 1130 | 41:405(h)(1). | Pub. L. 93–400, § 6(h)(1), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328; Pub. L. 104–106, title LVI, § 5607(d), Feb. 10, 1996, 110 Stat. 702. |
 
-### § 1131. Annual report
+### § 1131. Annual report
 
 The Administrator annually shall submit to Congress an assessment of the progress made in executive agencies in implementing the policy regarding major acquisitions that is stated in section 3103(a) of this title. The Administrator shall use data from existing management systems in making the assessment.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3690.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3690.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1131 | 41:405(k). | Pub. L. 93–400, § 6(k), as added Pub. L. 103–355, title V, § 5051(b), Oct. 13, 1994, 108 Stat. 3351; Pub. L. 105–85, title VIII, § 851(b), Nov. 18, 1997, 111 Stat. 1851. |
+| 1131 | 41:405(k). | Pub. L. 93–400, § 6(k), as added Pub. L. 103–355, title V, § 5051(b), Oct. 13, 1994, 108 Stat. 3351; Pub. L. 105–85, title VIII, § 851(b), Nov. 18, 1997, 111 Stat. 1851. |

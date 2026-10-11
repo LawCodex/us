@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–458, title VI, § 6803(c)(1), Dec. 17, 2004, 118 Stat. 3768, added item 832.
+2004—Pub. L. 108–458, title VI, § 6803(c)(1), Dec. 17, 2004, 118 Stat. 3768, added item 832.
 
-1982—Pub. L. 97–351, § 2(b), Oct. 18, 1982, 96 Stat. 1666, substituted “Prohibited transactions involving nuclear materials” for “Definitions” in item 831 and struck out items 832 “Transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles”, 833 “Marking packages containing explosives and other dangerous articles”, 834 “Regulation by Interstate Commerce Commission”, and 835 “Administration”.
+1982—Pub. L. 97–351, § 2(b), Oct. 18, 1982, 96 Stat. 1666, substituted “Prohibited transactions involving nuclear materials” for “Definitions” in item 831 and struck out items 832 “Transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles”, 833 “Marking packages containing explosives and other dangerous articles”, 834 “Regulation by Interstate Commerce Commission”, and 835 “Administration”.
 
-1970—Pub. L. 91–452, title XI, § 1106(b)(2), Oct. 15, 1970, 84 Stat. 960, struck out item 837.
+1970—Pub. L. 91–452, title XI, § 1106(b)(2), Oct. 15, 1970, 84 Stat. 960, struck out item 837.
 
 1960—Pub. L. 86–710, Sept. 6, 1960, 74 Stat. 808, substituted “OTHER DANGEROUS ARTICLES” for “COMBUSTIBLES” in chapter heading, “explosives, radioactive materials, etiologic agents, and other dangerous articles” for “dynamite, powder and fuses” in item 832, “Marking packages containing explosives and other dangerous articles” for “Transportation of nitroglycerin” in item 833, “Regulation by Interstate Commerce Commission” for “Marking packages containing explosives” in item 834, and “Administration” for “Regulations by Interstate Commerce Commission” in item 835.
 
-Pub. L. 86–449, title II, § 204, May 6, 1960, 74 Stat. 88, added item 837.
+Pub. L. 86–449, title II, § 204, May 6, 1960, 74 Stat. 88, added item 837.
 
-1954—Act June 4, 1954, ch. 261, § 2, 68 Stat. 171, added item 836.
+1954—Act June 4, 1954, ch. 261, § 2, 68 Stat. 171, added item 836.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Hazardous Substances**
 
-Federal Hazardous Substances Act as not modifying this chapter or regulations promulgated thereunder, see Pub. L. 86–613, § 18, formerly 17, July 12, 1960, 74 Stat. 380, as amended Pub. L. 89–756, § 4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended Pub. L. 91–113, § 4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190, set out as a note under section 1261 of Title 15, Commerce and Trade.
+Federal Hazardous Substances Act as not modifying this chapter or regulations promulgated thereunder, see Pub. L. 86–613, § 18, formerly 17, July 12, 1960, 74 Stat. 380, as amended Pub. L. 89–756, § 4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended Pub. L. 91–113, § 4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190, set out as a note under section 1261 of Title 15, Commerce and Trade.
 
-## § 831. Prohibited transactions involving nuclear materials
+## § 831. Prohibited transactions involving nuclear materials
 
 **(a)** Whoever, if one of the circumstances described in subsection (c) of this section occurs—
 
@@ -207,59 +207,59 @@ shall be punished as provided in subsection (b) of this section.
 
 **(12)** the term “vessel of the United States” has the meaning given that term in section 70502 of title 46.
 
-(Added Pub. L. 97–351, § 2(a), Oct. 18, 1982, 96 Stat. 1663; amended Pub. L. 100–690, title VII, § 7022, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–272, § 5(e)(6), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, § 330016(2)(C), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title V, § 502, Apr. 24, 1996, 110 Stat. 1282; Pub. L. 114–23, title VIII, § 812, June 2, 2015, 129 Stat. 311.)
+(Added Pub. L. 97–351, § 2(a), Oct. 18, 1982, 96 Stat. 1663; amended Pub. L. 100–690, title VII, § 7022, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–272, § 5(e)(6), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, § 330016(2)(C), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title V, § 502, Apr. 24, 1996, 110 Stat. 1282; Pub. L. 114–23, title VIII, § 812, June 2, 2015, 129 Stat. 311.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 831, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 808; July 27, 1965, Pub. L. 89–95, 79 Stat. 285; Oct. 17, 1978, Pub. L. 95–473; § 2(a)(1)(A), 92 Stat. 1464, defined terms used in this chapter, prior to repeal by Pub. L. 96–129, title II, § 216(b), Nov. 30, 1979, 93 Stat. 1015. For savings provisions regarding former section 831, see section 218 of Pub. L. 96–129, set out as a note under former sections 832 to 835 of this title.
+A prior section 831, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 808; July 27, 1965, Pub. L. 89–95, 79 Stat. 285; Oct. 17, 1978, Pub. L. 95–473; § 2(a)(1)(A), 92 Stat. 1464, defined terms used in this chapter, prior to repeal by Pub. L. 96–129, title II, § 216(b), Nov. 30, 1979, 93 Stat. 1015. For savings provisions regarding former section 831, see section 218 of Pub. L. 96–129, set out as a note under former sections 832 to 835 of this title.
 
 **Amendments**
 
-2015—Subsec. (a)(3) to (7). Pub. L. 114–23, § 812(a)(1), (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
+2015—Subsec. (a)(3) to (7). Pub. L. 114–23, § 812(a)(1), (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 114–23, § 812(a)(1), (3), redesignated par. (7) as (8) and substituted “any act prohibited under paragraphs (1) through (5)” for “an offense under paragraph (1), (2), (3), or (4)”.
+Subsec. (a)(8). Pub. L. 114–23, § 812(a)(1), (3), redesignated par. (7) as (8) and substituted “any act prohibited under paragraphs (1) through (5)” for “an offense under paragraph (1), (2), (3), or (4)”.
 
-Subsec. (a)(9). Pub. L. 114–23, § 812(a)(1), (4), redesignated par. (8) as (9) and substituted “any act prohibited under paragraphs (1) through (7)” for “an offense under paragraph (1), (2), (3), or (4)”.
+Subsec. (a)(9). Pub. L. 114–23, § 812(a)(1), (4), redesignated par. (8) as (9) and substituted “any act prohibited under paragraphs (1) through (7)” for “an offense under paragraph (1), (2), (3), or (4)”.
 
-Subsec. (b)(1). Pub. L. 114–23, § 812(b)(1), substituted “through (8)” for “through (7)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 114–23, § 812(b)(1), substituted “through (8)” for “through (7)” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 114–23, § 812(b)(2), substituted “paragraph (9)” for “paragraph (8)” in introductory provisions.
+Subsec. (b)(2). Pub. L. 114–23, § 812(b)(2), substituted “paragraph (9)” for “paragraph (8)” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 114–23, § 812(c)(1), inserted “or a stateless person whose habitual residence is in the United States” before semicolon.
+Subsec. (c)(2)(A). Pub. L. 114–23, § 812(c)(1), inserted “or a stateless person whose habitual residence is in the United States” before semicolon.
 
-Subsec. (c)(5) to (7). Pub. L. 114–23, § 812(c)(2)–(4), added pars. (5) to (7) and struck out former par. (5) which read as follows: “either—
+Subsec. (c)(5) to (7). Pub. L. 114–23, § 812(c)(2)–(4), added pars. (5) to (7) and struck out former par. (5) which read as follows: “either—
 
 “(A) the governmental entity under subsection (a)(5) is the United States; or
 
 “(B) the threat under subsection (a)(6) is directed at the United States.”
 
-Subsecs. (d) to (g). Pub. L. 114–23, § 812(d), (e), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+Subsecs. (d) to (g). Pub. L. 114–23, § 812(d), (e), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-Subsec. (g)(8) to (12). Pub. L. 114–23, § 812(f), added pars. (8) to (12).
+Subsec. (g)(8) to (12). Pub. L. 114–23, § 812(f), added pars. (8) to (12).
 
-1996—Subsec. (a). Pub. L. 104–132, § 502(1)(A), substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
+1996—Subsec. (a). Pub. L. 104–132, § 502(1)(A), substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
 
-Subsec. (a)(1)(A). Pub. L. 104–132, § 502(1)(B)(i), inserted “or to the environment” after “damage to property”.
+Subsec. (a)(1)(A). Pub. L. 104–132, § 502(1)(B)(i), inserted “or to the environment” after “damage to property”.
 
-Subsec. (a)(1)(B). Pub. L. 104–132, § 502(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “knows that circumstances exist which are likely to cause the death of or serious bodily injury to any person or substantial damage to property;”.
+Subsec. (a)(1)(B). Pub. L. 104–132, § 502(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “knows that circumstances exist which are likely to cause the death of or serious bodily injury to any person or substantial damage to property;”.
 
-Subsec. (a)(6). Pub. L. 104–132, § 502(1)(C), inserted “or to the environment” after “damage to property”.
+Subsec. (a)(6). Pub. L. 104–132, § 502(1)(C), inserted “or to the environment” after “damage to property”.
 
-Subsec. (c)(2). Pub. L. 104–132, § 502(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101);”.
+Subsec. (c)(2). Pub. L. 104–132, § 502(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101);”.
 
-Subsec. (c)(3). Pub. L. 104–132, § 502(2)(B), struck out “at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
+Subsec. (c)(3). Pub. L. 104–132, § 502(2)(B), struck out “at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
 
-Subsec. (c)(4). Pub. L. 104–132, § 502(2)(C), substituted “nuclear material or nuclear byproduct material” for “nuclear material for peaceful purposes” and “; or” for period at end.
+Subsec. (c)(4). Pub. L. 104–132, § 502(2)(C), substituted “nuclear material or nuclear byproduct material” for “nuclear material for peaceful purposes” and “; or” for period at end.
 
-Subsec. (c)(5). Pub. L. 104–132, § 502(2)(D), added par. (5).
+Subsec. (c)(5). Pub. L. 104–132, § 502(2)(D), added par. (5).
 
-Subsec. (f)(1)(A). Pub. L. 104–132, § 502(3)(A)(i), struck out “with an isotopic concentration not in excess of 80 percent plutonium 238” after “plutonium”.
+Subsec. (f)(1)(A). Pub. L. 104–132, § 502(3)(A)(i), struck out “with an isotopic concentration not in excess of 80 percent plutonium 238” after “plutonium”.
 
-Subsec. (f)(1)(C). Pub. L. 104–132, § 502(3)(A)(ii), substituted “enriched uranium, defined as uranium” for “uranium”.
+Subsec. (f)(1)(C). Pub. L. 104–132, § 502(3)(A)(ii), substituted “enriched uranium, defined as uranium” for “uranium”.
 
-Subsec. (f)(2) to (7). Pub. L. 104–132, § 502(3)(B)–(F), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added pars. (6) and (7).
+Subsec. (f)(2) to (7). Pub. L. 104–132, § 502(3)(B)–(F), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added pars. (6) and (7).
 
 1994—Subsec. (b)(1)(A), (2)(A). Pub. L. 103–322 substituted “fined under this title” for “fine of not more than $250,000”.
 
@@ -271,11 +271,11 @@ Subsec. (c)(1). Pub. L. 103–272 substituted “section 46501 of title 49” fo
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–351, § 1, Oct. 18, 1982, 96 Stat. 1663, provided that: “This Act [enacting this section and amending section 1116 of this title] may be cited as the ‘Convention on the Physical Protection of Nuclear Material Implementation Act of 1982’.”
+Pub. L. 97–351, § 1, Oct. 18, 1982, 96 Stat. 1663, provided that: “This Act [enacting this section and amending section 1116 of this title] may be cited as the ‘Convention on the Physical Protection of Nuclear Material Implementation Act of 1982’.”
 
 **Findings and Purpose of Title V of Pub. L. 104–132 Relating to Nuclear Materials**
 
-Pub. L. 104–132, title V, § 501, Apr. 24, 1996, 110 Stat. 1281, provided that:
+Pub. L. 104–132, title V, § 501, Apr. 24, 1996, 110 Stat. 1281, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -307,7 +307,7 @@ Pub. L. 104–132, title V, § 501, Apr. 24, 1996, 110 Stat. 1281, provided th
 
 > **“(b) Purpose.—** The purpose of this title [enacting section 2332c of this title, amending this section and sections 175, 177, 178, and 2332a of this title, and enacting provisions set out as notes under section 262 of Title 42, The Public Health and Welfare, and section 1522 of Title 50, War and National Defense] is to provide Federal law enforcement agencies with the necessary means and the maximum authority permissible under the Constitution to combat the threat of nuclear contamination and proliferation that may result from the illegal possession and use of radioactive materials.”
 
-## § 832. Participation in nuclear and weapons of mass destruction threats to the United States
+## § 832. Participation in nuclear and weapons of mass destruction threats to the United States
 
 **(a)** Whoever, within the United States or subject to the jurisdiction of the United States, willfully participates in or knowingly provides material support or resources (as defined in section 2339A) to a nuclear weapons program or other weapons of mass destruction program of a foreign terrorist power, or attempts or conspires to do so, shall be imprisoned for not more than 20 years.
 
@@ -321,15 +321,15 @@ Pub. L. 104–132, title V, § 501, Apr. 24, 1996, 110 Stat. 1281, provided th
 
 **(2)** “weapons of mass destruction program” means a program or plan for the development, acquisition, or production of any weapon or weapons of mass destruction (as defined in section 2332a(c));
 
-**(3)** “foreign terrorist power” means a terrorist organization designated under section 219 of the Immigration and Nationality Act, or a state sponsor of terrorism designated under section 6(j) 1
+**(3)** “foreign terrorist power” means a terrorist organization designated under section 219 of the Immigration and Nationality Act, or a state sponsor of terrorism designated under section 6(j) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 or section 620A of the Foreign Assistance Act of 1961; and
 
 **(4)** “nuclear weapon” means any weapon that contains or uses nuclear material as defined in section 831(f)(1).<sup>1</sup>
 
-(Added Pub. L. 108–458, title VI, § 6803(c)(2), Dec. 17, 2004, 118 Stat. 3768.)
+(Added Pub. L. 108–458, title VI, § 6803(c)(2), Dec. 17, 2004, 118 Stat. 3768.)
 
 **Editorial Notes**
 
@@ -337,31 +337,31 @@ of the Export Administration Act of 1979 or section 620A of the Foreign Assistan
 
 Section 219 of the Immigration and Nationality Act, referred to in subsec. (d)(3), is classified to section 1189 of Title 8, Aliens and Nationality.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), was classified to section 4605(j) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of Title 50, see section 4813(c) of Title 50, as enacted by Pub. L. 115–232.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), was classified to section 4605(j) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of Title 50, see section 4813(c) of Title 50, as enacted by Pub. L. 115–232.
 
 Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (d)(3), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
 
-Section 831(f)(1), referred to in subsec. (d)(4), was redesignated section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
+Section 831(f)(1), referred to in subsec. (d)(4), was redesignated section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
 
 **Prior Provisions**
 
-A prior section 832, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 809, related to transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles, prior to repeal by Pub. L. 96–129, title II, § 216(b), Nov. 30, 1979, 93 Stat. 1015.
+A prior section 832, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 809, related to transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles, prior to repeal by Pub. L. 96–129, title II, § 216(b), Nov. 30, 1979, 93 Stat. 1015.
 
-## [§§ 833 to 835. Repealed. Pub. L. 96–129, title II, § 216(b), Nov. 30, 1979, 93 Stat. 1015]
+## [§§ 833 to 835. Repealed. Pub. L. 96–129, title II, § 216(b), Nov. 30, 1979, 93 Stat. 1015]
 
 Section 833, acts June 25, 1948, ch. 645, 62 Stat. 739; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 810, related to marking of packages containing explosives and other dangerous articles.
 
 Section 834, acts June 25, 1948, ch. 645, 62 Stat. 739; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 810, related to formulation of regulations by Interstate Commerce Commission regarding transportation of explosives and other dangerous articles within United States.
 
-Section 835, acts June 25, 1948, ch. 645, 62 Stat. 739; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 811; Oct. 15, 1970, Pub. L. 91–452, title II, § 222, 84 Stat. 929; Oct. 17, 1978, Pub. L. 95–473, § 2(a)(1)(B), 92 Stat. 1464, authorized Interstate Commerce Commission to administer, execute and enforce all provisions of sections 831 to 835 of this title.
+Section 835, acts June 25, 1948, ch. 645, 62 Stat. 739; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 811; Oct. 15, 1970, Pub. L. 91–452, title II, § 222, 84 Stat. 929; Oct. 17, 1978, Pub. L. 95–473, § 2(a)(1)(B), 92 Stat. 1464, authorized Interstate Commerce Commission to administer, execute and enforce all provisions of sections 831 to 835 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 96–129, title II, § 218, Nov. 30, 1979, 93 Stat. 1015, provided a savings provision for orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges issued, made, granted, or allowed to become effective under former sections 831 to 835 of this title, prior to repeal by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.
+Pub. L. 96–129, title II, § 218, Nov. 30, 1979, 93 Stat. 1015, provided a savings provision for orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges issued, made, granted, or allowed to become effective under former sections 831 to 835 of this title, prior to repeal by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.
 
-## § 836. Transportation of fireworks into State prohibiting sale or use
+## § 836. Transportation of fireworks into State prohibiting sale or use
 
 Whoever, otherwise than in the course of continuous interstate transportation through any State, transports fireworks into any State, or delivers them for transportation into any State, or attempts so to do, knowing that such fireworks are to be delivered, possessed, stored, transshipped, distributed, sold, or otherwise dealt with in a manner or for a use prohibited by the laws of such State specifically prohibiting or regulating the use of fireworks, shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -373,7 +373,7 @@ As used in this section, the term “State” includes the several States, Terri
 
 This section shall be effective from and after July 1, 1954.
 
-(Added June 4, 1954, ch. 261, § 1, 68 Stat. 170; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(Added June 4, 1954, ch. 261, § 1, 68 Stat. 170; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -385,7 +385,7 @@ This section shall be effective from and after July 1, 1954.
 
 **Fireworks for Agricultural Purposes**
 
-Act June 4, 1954, ch. 261, § 3, 68 Stat. 171, provided that:
+Act June 4, 1954, ch. 261, § 3, 68 Stat. 171, provided that:
 
 > “This Act [enacting this section] shall not be effective with respect to—
 
@@ -395,6 +395,6 @@ Act June 4, 1954, ch. 261, § 3, 68 Stat. 171, provided that:
 
 > **“(3)** any attempt to engage in any such transportation or delivery for use solely for agricultural purposes, until sixty days have elapsed after the commencement of the next regular session of the legislature of such State or Territory which begins after the date of enactment of this Act [June 4, 1954].”
 
-## [§ 837. Repealed. Pub. L. 91–452, title XI, § 1106(b)(1), Oct. 15, 1970, 84 Stat. 960]
+## [§ 837. Repealed. Pub. L. 91–452, title XI, § 1106(b)(1), Oct. 15, 1970, 84 Stat. 960]
 
-Section, Pub. L. 86–449, title II, § 203, May 6, 1960, 74 Stat. 87, related to illegal use or possession of explosives and threats or false information concerning attempts to damage or destroy real or personal property by fire or explosives. See section 844 of this title.
+Section, Pub. L. 86–449, title II, § 203, May 6, 1960, 74 Stat. 87, related to illegal use or possession of explosives and threats or false information concerning attempts to damage or destroy real or personal property by fire or explosives. See section 844 of this title.

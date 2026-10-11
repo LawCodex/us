@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1997—Pub. L. 105–85, div. A, title V, § 512(b), Nov. 18, 1997, 111 Stat. 1729, added item 12533.
+1997—Pub. L. 105–85, div. A, title V, § 512(b), Nov. 18, 1997, 111 Stat. 1729, added item 12533.
 
-## § 12521. Definitions
+## § 12521. Definitions
 
 In this chapter:
 
@@ -43,7 +43,7 @@ In this chapter:
 
 **(7)** The term “Fund” means the Reserve Mobilization Income Insurance Fund established by section 12528(a) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 299; amended Pub. L. 110–181, div. A, title IX, § 906(c)(4), Jan. 28, 2008, 122 Stat. 277.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 299; amended Pub. L. 110–181, div. A, title IX, § 906(c)(4), Jan. 28, 2008, 122 Stat. 277.)
 
 **Editorial Notes**
 
@@ -55,9 +55,9 @@ In this chapter:
 
 **Effective Date**
 
-Pub. L. 104–106, div. A, title V, § 512(b), Feb. 10, 1996, 110 Stat. 305, provided that: “The insurance program provided for in chapter 1214 of title 10, United States Code, as added by subsection (a), and the requirement for deductions and contributions for that program shall take effect on September 30, 1996, or on any earlier date declared by the Secretary and published in the Federal Register.”
+Pub. L. 104–106, div. A, title V, § 512(b), Feb. 10, 1996, 110 Stat. 305, provided that: “The insurance program provided for in chapter 1214 of title 10, United States Code, as added by subsection (a), and the requirement for deductions and contributions for that program shall take effect on September 30, 1996, or on any earlier date declared by the Secretary and published in the Federal Register.”
 
-## § 12522. Establishment of insurance program
+## § 12522. Establishment of insurance program
 
 **(a) Establishment.—** The Secretary shall establish for members of the Ready Reserve (including the Coast Guard Reserve) an insurance program to be known as the “Ready Reserve Mobilization Income Insurance Program”.
 
@@ -65,7 +65,7 @@ Pub. L. 104–106, div. A, title V, § 512(b), Feb. 10, 1996, 110 Stat. 305, p
 
 **(c) Agreement With Secretary of Homeland Security.—** The Secretary and the Secretary of Homeland Security shall enter into an agreement with respect to the administration of the insurance program for the Coast Guard Reserve.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 299; amended Pub. L. 107–296, title XVII, § 1704(b)(1), (7), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 299; amended Pub. L. 107–296, title XVII, § 1704(b)(1), (7), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -79,7 +79,7 @@ Pub. L. 104–106, div. A, title V, § 512(b), Feb. 10, 1996, 110 Stat. 305, p
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 12523. Risk insured
+## § 12523. Risk insured
 
 **(a) In General.—** The insurance program shall insure members of the Ready Reserve against the risk of being ordered into covered service.
 
@@ -89,9 +89,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(2)** Payment shall be based solely on the insured status of a member and on the period of covered service served by the member. Proof of loss of income or of expenses incurred as a result of covered service may not be required.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 300.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 300.)
 
-## § 12524. Enrollment and election of benefits
+## § 12524. Enrollment and election of benefits
 
 **(a) Enrollment.—**
 
@@ -117,7 +117,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(g) Members of Individual Ready Reserve.—** Notwithstanding any other provision of this section, and pursuant to regulations issued by the Secretary, a member of the Individual Ready Reserve who becomes a member of the Selected Reserve shall not be denied eligibility to purchase insurance under this chapter upon becoming a member of the Selected Reserve unless the member previously declined to enroll in the program of insurance under this chapter while a member of the Selected Reserve.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 300; amended Pub. L. 104–201, div. A, title V, § 542, Sept. 23, 1996, 110 Stat. 2521.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 300; amended Pub. L. 104–201, div. A, title V, § 542, Sept. 23, 1996, 110 Stat. 2521.)
 
 **Editorial Notes**
 
@@ -125,7 +125,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 1996—Subsec. (g). Pub. L. 104–201 added subsec. (g).
 
-## § 12525. Benefit amounts
+## § 12525. Benefit amounts
 
 **(a) Basic Benefit.—** The basic benefit for an insured member under the insurance program is $1,000 per month (as adjusted under subsection (d)).
 
@@ -143,9 +143,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(2)** If the amount of a benefit as adjusted under paragraph (1) is not evenly divisible by $10, the amount shall be rounded to the nearest multiple of $10, except that an amount evenly divisible by $5 but not by $10 shall be rounded to the next lower amount that is evenly divisible by $10.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 301.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 301.)
 
-## § 12526. Premiums
+## § 12526. Premiums
 
 **(a) Establishment of Rates.—**
 
@@ -155,9 +155,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(b) Level Premiums.—** The premium rate prescribed for the first year of insurance coverage of an insured member shall be continued without change for subsequent years of insurance coverage, except that the Secretary, after consultation with the Board of Actuaries, may adjust the premium rate in order to fund inflation-adjusted benefit increases on an actuarially sound basis.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 301.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 301.)
 
-## § 12527. Payment of premiums
+## § 12527. Payment of premiums
 
 **(a) Methods of Payment.—**
 
@@ -169,7 +169,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(c) Premiums To Be Deposited in Fund.—** Premium amounts deducted and withheld from the pay of insured members and premium amounts paid directly to the Secretary shall be credited monthly to the Fund.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 302; amended Pub. L. 104–201, div. A, title V, § 547, Sept. 23, 1996, 110 Stat. 2524; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 302; amended Pub. L. 104–201, div. A, title V, § 547, Sept. 23, 1996, 110 Stat. 2524; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -177,9 +177,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 2002—Subsec. (a)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1996—Subsec. (a)(1). Pub. L. 104–201, § 547(1), inserted “of the Selected Reserve” after “a member”.
+1996—Subsec. (a)(1). Pub. L. 104–201, § 547(1), inserted “of the Selected Reserve” after “a member”.
 
-Subsec. (a)(2). Pub. L. 104–201, § 547(2), added par. (2) and struck out former par. (2) which read as follows: “An insured member who does not receive pay on a monthly basis shall pay the Secretary directly the premium amount applicable for the level of benefits for which the member is insured.”
+Subsec. (a)(2). Pub. L. 104–201, § 547(2), added par. (2) and struck out former par. (2) which read as follows: “An insured member who does not receive pay on a monthly basis shall pay the Secretary directly the premium amount applicable for the level of benefits for which the member is insured.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,7 +187,7 @@ Subsec. (a)(2). Pub. L. 104–201, § 547(2), added par. (2) and struck out fo
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 12528. Reserve Mobilization Income Insurance Fund
+## § 12528. Reserve Mobilization Income Insurance Fund
 
 **(a) Establishment.—** There is established on the books of the Treasury a fund to be known as the “Reserve Mobilization Income Insurance Fund”, which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance the liabilities of the insurance program on an actuarially sound basis.
 
@@ -211,9 +211,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(3)** The amount for that fiscal year (including any negative amount) of any cumulative actuarial gain or loss to the Fund.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 302.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 302.)
 
-## § 12529. Board of Actuaries
+## § 12529. Board of Actuaries
 
 **(a) Actuarial Responsibility.—** The Board of Actuaries shall have the actuarial responsibility for the insurance program.
 
@@ -227,9 +227,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(f) Definition of Present Value.—** The Board of Actuaries shall define the term “present value” for purposes of this subsection.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 303.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 303.)
 
-## § 12530. Payment of benefits
+## § 12530. Payment of benefits
 
 **(a) Commencement of Payment.—** An insured member who serves in excess of 30 days of covered service shall be paid the amount to which such member is entitled on a monthly basis beginning not later than one month after the 30th day of covered service.
 
@@ -243,9 +243,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(d) Recipients in Event of Death of Insured Member.—** Any insurance payable under the insurance program on account of a deceased member’s period of covered service shall be paid, upon the establishment of a valid claim, to the beneficiary or beneficiaries which the deceased member designated in writing. If no such designation has been made, the amount shall be payable in accordance with the laws of the State of the member’s domicile.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 304.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 304.)
 
-## § 12531. Purchase of insurance
+## § 12531. Purchase of insurance
 
 **(a) Purchase Authorized.—** The Secretary may, instead of or in addition to underwriting the insurance program through the Fund, purchase from one or more insurance companies a policy or policies of group insurance in order to provide the benefits required under this chapter. The Secretary may waive any requirement for full and open competition in order to purchase an insurance policy under this subsection.
 
@@ -265,17 +265,17 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(e) Termination.—** The Secretary may at any time terminate any policy purchased under this section.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 304.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 304.)
 
-## § 12532. Termination for nonpayment of premiums; forfeiture
+## § 12532. Termination for nonpayment of premiums; forfeiture
 
 **(a) Termination for Nonpayment.—** The coverage of a member under the insurance program shall terminate without prior notice upon a failure of the member to make required monthly payments of premiums for two consecutive months. The Secretary may provide in the regulations for reinstatement of insurance coverage terminated under this subsection.
 
 **(b) Forfeiture.—** Any person convicted of mutiny, treason, spying, or desertion, or who refuses to perform service in the armed forces or refuses to wear the uniform of any of the armed forces shall forfeit all rights to insurance under this chapter.
 
-(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 305.)
+(Added Pub. L. 104–106, div. A, title V, § 512(a)(1), Feb. 10, 1996, 110 Stat. 305.)
 
-## § 12533. Termination of program
+## § 12533. Termination of program
 
 **(a) In General.—** The Secretary shall terminate the insurance program in accordance with this section.
 
@@ -291,12 +291,12 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(e) Termination of Insurance Fund.—** The Secretary shall close the Fund not later than 60 days after the date on which the last benefit payment from the Fund is made. Any amount remaining in the Fund when closed shall be covered into the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 105–85, div. A, title V, § 512(a), Nov. 18, 1997, 111 Stat. 1729; amended Pub. L. 107–107, div. A, title X, § 1048(c)(15), Dec. 28, 2001, 115 Stat. 1226.)
+(Added Pub. L. 105–85, div. A, title V, § 512(a), Nov. 18, 1997, 111 Stat. 1729; amended Pub. L. 107–107, div. A, title X, § 1048(c)(15), Dec. 28, 2001, 115 Stat. 1226.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Subsecs. (b), (c)(1). Pub. L. 107–107, § 1048(c)(15)(A), substituted “November 18, 1997.” for “the date of the enactment of this section.”
+2001—Subsecs. (b), (c)(1). Pub. L. 107–107, § 1048(c)(15)(A), substituted “November 18, 1997.” for “the date of the enactment of this section.”
 
-Subsecs. (c)(2), (d). Pub. L. 107–107, § 1048(c)(15)(B), substituted “November 18, 1997,” for “the date of the enactment of this section”.
+Subsecs. (c)(2), (d). Pub. L. 107–107, § 1048(c)(15)(B), substituted “November 18, 1997,” for “the date of the enactment of this section”.

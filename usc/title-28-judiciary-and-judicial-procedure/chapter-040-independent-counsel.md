@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1987—Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1293, amended chapter 40 heading and analysis generally, substituting items 591 to 599 for former items 591 to 598.
+1987—Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1293, amended chapter 40 heading and analysis generally, substituting items 591 to 599 for former items 591 to 598.
 
-1986—Pub. L. 99–554, title I, § 144(g)(1), Oct. 27, 1986, 100 Stat. 3097, substituted “40” for “39” as chapter designation.
+1986—Pub. L. 99–554, title I, § 144(g)(1), Oct. 27, 1986, 100 Stat. 3097, substituted “40” for “39” as chapter designation.
 
-1983—Pub. L. 97–409, § 2(a)(1)(A), Jan. 3, 1983, 96 Stat. 2039, substituted “independent counsel” for “special prosecutor” in chapter heading and in items 592, 594, and 596.
+1983—Pub. L. 97–409, § 2(a)(1)(A), Jan. 3, 1983, 96 Stat. 2039, substituted “independent counsel” for “special prosecutor” in chapter heading and in items 592, 594, and 596.
 
-## § 591. Applicability of provisions of this chapter
+## § 591. Applicability of provisions of this chapter
 
 **(a) Preliminary Investigation With Respect to Certain Covered Persons.—** The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever the Attorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
@@ -71,27 +71,27 @@ retrieved: 2026-10-11
 
 **(2) Requirements for recusal determination.—** Before personally making any other determination under this chapter with respect to information received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
 
-(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§ 3, 4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, § 228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§ 3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
+(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§ 3, 4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, § 228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§ 3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (b)(6) to (8). Pub. L. 103–270, § 4(b), redesignated par. (8) as (6) and substituted “; and” for the period at end, added par. (7), and struck out former pars. (6) and (7) which read as follows:
+1994—Subsec. (b)(6) to (8). Pub. L. 103–270, § 4(b), redesignated par. (8) as (6) and substituted “; and” for the period at end, added par. (7), and struck out former pars. (6) and (7) which read as follows:
 
 “(6) any individual who leaves any office or position described in any of paragraphs (1) through (5) of this subsection, during the incumbency of the President under whom such individual served in the office or position plus one year after such incumbency, but in no event longer than a period of three years after the individual leaves the office or position;
 
 “(7) any individual who held an office or position described in any of paragraphs (1) through (5) of this subsection during the incumbency of one President and who continued to hold the office or position for not more than 90 days into the term of the next President, during the 1-year period after the individual leaves the office or position; and”.
 
-Subsec. (c). Pub. L. 103–270, § 4(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Preliminary Investigation With Respect to Persons Not Listed in Subsection (b).—The Attorney General may conduct a preliminary investigation in accordance with section 592 if—
+Subsec. (c). Pub. L. 103–270, § 4(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Preliminary Investigation With Respect to Persons Not Listed in Subsection (b).—The Attorney General may conduct a preliminary investigation in accordance with section 592 if—
 
 “(1) the Attorney General receives information sufficient to constitute grounds to investigate whether any person other than a person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction; and
 
 “(2) the Attorney General determines that an investigation or prosecution of the person, with respect to the information received, by the Attorney General or other officer of the Department of Justice may result in a personal, financial, or political conflict of interest.”
 
-Subsec. (d)(2). Pub. L. 103–270, § 3(j), substituted “30” for “15” wherever appearing.
+Subsec. (d)(2). Pub. L. 103–270, § 3(j), substituted “30” for “15” wherever appearing.
 
-Subsec. (e). Pub. L. 103–270, § 3(k), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “(e) Recusal of Attorney General.—
+Subsec. (e). Pub. L. 103–270, § 3(k), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “(e) Recusal of Attorney General.—
 
 “(1) When recusal is required.—If information received under this chapter involves the Attorney General or a person with whom the Attorney General has a current or recent personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior officer in the Department of Justice whom that information does not involve and who does not have a current or recent personal or financial relationship with such person to perform the duties assigned under this chapter to the Attorney General with respect to that information.
 
@@ -101,19 +101,19 @@ Subsec. (e). Pub. L. 103–270, § 3(k), amended subsec. (e) generally. Prior 
 
 1984—Subsec. (a). Pub. L. 98–473 substituted “Class B or C misdemeanor or an infraction” for “petty offense”.
 
-1983—Subsec. (a). Pub. L. 97–409, § 4(a)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “the Attorney General receives”.
+1983—Subsec. (a). Pub. L. 97–409, § 4(a)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “the Attorney General receives”.
 
-Subsec. (b)(3). Pub. L. 97–409, § 3, substituted “who is compensated at or above a rate equivalent to level II” for “and compensated at a rate not less than the annual rate of basic pay provided for level IV”.
+Subsec. (b)(3). Pub. L. 97–409, § 3, substituted “who is compensated at or above a rate equivalent to level II” for “and compensated at a rate not less than the annual rate of basic pay provided for level IV”.
 
-Subsec. (b)(4), (5). Pub. L. 97–409, § 3, redesignated as par. (5) “the Director of Central Intelligence” and all that followed through end of par. (4). Former par. (5) redesignated (6).
+Subsec. (b)(4), (5). Pub. L. 97–409, § 3, redesignated as par. (5) “the Director of Central Intelligence” and all that followed through end of par. (4). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 97–409, § 3, redesignated former par. (5) as (6) and substituted “through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;” for “through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of the same political party as the incumbent President; and”. Former par. (6) redesignated (8).
+Subsec. (b)(6). Pub. L. 97–409, § 3, redesignated former par. (5) as (6) and substituted “through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;” for “through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of the same political party as the incumbent President; and”. Former par. (6) redesignated (8).
 
-Subsec. (b)(7). Pub. L. 97–409, § 3, added par. (7).
+Subsec. (b)(7). Pub. L. 97–409, § 3, added par. (7).
 
-Subsec. (b)(8). Pub. L. 97–409, § 3, redesignated former par. (6) as (8) and substituted “the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, and any officer of the campaign exercising authority at the national level, such as the campaign manager or director, during the incumbency of the President” for “any officer of the principal national campaign committee seeking the election or reelection of the President”.
+Subsec. (b)(8). Pub. L. 97–409, § 3, redesignated former par. (6) as (8) and substituted “the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, and any officer of the campaign exercising authority at the national level, such as the campaign manager or director, during the incumbency of the President” for “any officer of the principal national campaign committee seeking the election or reelection of the President”.
 
-Subsec. (c). Pub. L. 97–409, § 4(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 97–409, § 4(a)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -123,7 +123,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 **Effective Date of 1994 Amendment; Transition Provisions**
 
-Pub. L. 103–270, § 7, June 30, 1994, 108 Stat. 737, provided that:
+Pub. L. 103–270, § 7, June 30, 1994, 108 Stat. 737, provided that:
 
 > **“(a) In General.—** Except as provided in this section, the amendments made by this Act [amending this section and sections 592 to 596 and 599 of this title] shall apply with respect to independent counsels appointed before, on, or after the date of enactment of this Act [June 30, 1994].
 
@@ -145,7 +145,7 @@ Pub. L. 103–270, § 7, June 30, 1994, 108 Stat. 737, provided that:
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–191, § 6, Dec. 15, 1987, 101 Stat. 1307, provided that:
+Pub. L. 100–191, § 6, Dec. 15, 1987, 101 Stat. 1307, provided that:
 
 > **“(a) In General.—** Subject to subsection (b), the amendments made by this Act [enacting section 599 of this title, amending this section, sections 49 and 592 to 598 of this title, sections 203 and 205 of Pub. L. 95–521 set out in the Appendix to Title 5, Government Organization and Employees, and section 202 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as a note under section 1 of this title, and amending provisions set out below] take effect on the date of the enactment of this Act [Dec. 15, 1987].
 
@@ -175,11 +175,11 @@ Pub. L. 100–191, § 6, Dec. 15, 1987, 101 Stat. 1307, provided that:
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
+Pub. L. 98–473, title II, § 235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
 
 **Effective Date**
 
-Pub. L. 95–521, title VI, § 604, Oct. 26, 1978, 92 Stat. 1875, provided that:
+Pub. L. 95–521, title VI, § 604, Oct. 26, 1978, 92 Stat. 1875, provided that:
 
 > “Except as provided in this section, the amendments made by this title [enacting this chapter and sections 49, 528, and 529 of this title] shall take effect on the date of the enactment of this Act [Oct. 26, 1978]. The provisions of chapter 39 of title 28 of the United States Code, as added by section 601 of this Act, shall not apply to specific information received by the Attorney General pursuant to section 591 of such title 28, if the Attorney General determines that—
 
@@ -191,13 +191,13 @@ Pub. L. 95–521, title VI, § 604, Oct. 26, 1978, 92 Stat. 1875, provided tha
 
 **Permanent Appropriation for Expenses of Independent Counsels**
 
-Pub. L. 100–202, § 101(a) [title II], Dec. 22, 1987, 101 Stat. 1329, 1329–9, as amended by Pub. L. 111–68, div. A, title I, § 1501(d), Oct. 1, 2009, 123 Stat. 2041, provided: “That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law”.
+Pub. L. 100–202, § 101(a) [title II], Dec. 22, 1987, 101 Stat. 1329, 1329–9, as amended by Pub. L. 111–68, div. A, title I, § 1501(d), Oct. 1, 2009, 123 Stat. 2041, provided: “That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law”.
 
 **Contingency Fund for Independent Counsels**
 
-Pub. L. 95–521, title VI, § 601(c), Oct. 26, 1978, 92 Stat. 1873, as amended by Pub. L. 97–409, § 2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, § 5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
+Pub. L. 95–521, title VI, § 601(c), Oct. 26, 1978, 92 Stat. 1873, as amended by Pub. L. 97–409, § 2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, § 5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
 
-## § 592. Preliminary investigation and application for appointment of an independent counsel
+## § 592. Preliminary investigation and application for appointment of an independent counsel
 
 **(a) Conduct of Preliminary Investigation.—**
 
@@ -253,7 +253,7 @@ In determining under this chapter whether reasonable grounds exist to warrant fu
 
 **(4) Disclosure of information.—** Any report, notification, application, or other document, material, or memorandum supplied to a committee under this subsection shall not be revealed to any third party, except that the committee may, either on its own initiative or upon the request of the Attorney General, make public such portion or portions of such report, notification, application, document, material, or memorandum as will not in the committee’s judgment prejudice the rights of any individual.
 
-(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1868; amended Pub. L. 97–409, §§ 2(a)(1), 4(b)–(e), Jan. 3, 1983, 96 Stat. 2039–2041; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1295; Pub. L. 103–270, § 3(*l*), June 30, 1994, 108 Stat. 736.)
+(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1868; amended Pub. L. 97–409, §§ 2(a)(1), 4(b)–(e), Jan. 3, 1983, 96 Stat. 2039–2041; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1295; Pub. L. 103–270, § 3(*l*), June 30, 1994, 108 Stat. 736.)
 
 **Editorial Notes**
 
@@ -263,19 +263,19 @@ In determining under this chapter whether reasonable grounds exist to warrant fu
 
 1987—Pub. L. 100–191 amended section generally, substituting provisions relating to preliminary investigation and application for appointment of an independent counsel for provisions relating to application for appointment of an independent counsel.
 
-1983—Subsec. (a). Pub. L. 97–409, § 4(b), designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of section 591 of this title, the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in section 591(b) of this title has engaged in conduct described in section 591(a) of this title,”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
+1983—Subsec. (a). Pub. L. 97–409, § 4(b), designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of section 591 of this title, the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in section 591(b) of this title has engaged in conduct described in section 591(a) of this title,”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 97–409, §§ 2(a)(1)(A), 4(c), substituted “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated that no further investigation or prosecution is warranted” and substituted “independent counsel” for “special prosecutor”.
+Subsec. (b)(1). Pub. L. 97–409, §§ 2(a)(1)(A), 4(c), substituted “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated that no further investigation or prosecution is warranted” and substituted “independent counsel” for “special prosecutor”.
 
-Subsec. (c)(1). Pub. L. 97–409, §§ 2(a)(1)(A), 4(d), substituted “finds reasonable grounds to believe that further investigation or prosecution is warranted” for “finds the matter warrants further investigation or prosecution” after “preliminary investigation”, “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated as not to warrant further investigation or prosecution”, and “independent counsel” for “special prosecutor”, and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
+Subsec. (c)(1). Pub. L. 97–409, §§ 2(a)(1)(A), 4(d), substituted “finds reasonable grounds to believe that further investigation or prosecution is warranted” for “finds the matter warrants further investigation or prosecution” after “preliminary investigation”, “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated as not to warrant further investigation or prosecution”, and “independent counsel” for “special prosecutor”, and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
 
-Subsec. (c)(2). Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in provisions following subpar. (B).
+Subsec. (c)(2). Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in provisions following subpar. (B).
 
-Subsec. (c)(2)(A). Pub. L. 97–409, § 4(e)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “receives additional”.
+Subsec. (c)(2)(A). Pub. L. 97–409, § 4(e)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “receives additional”.
 
-Subsec. (c)(2)(B). Pub. L. 97–409, § 4(e)(2), substituted “reasonable grounds exist to warrant” for “such information warrants” after “appropriate, that”.
+Subsec. (c)(2)(B). Pub. L. 97–409, § 4(e)(2), substituted “reasonable grounds exist to warrant” for “such information warrants” after “appropriate, that”.
 
-Subsecs. (d)(1), (e), (f). Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
+Subsecs. (d)(1), (e), (f). Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -287,7 +287,7 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
-## § 593. Duties of the division of the court
+## § 593. Duties of the division of the court
 
 **(a) Reference to Division of the Court.—** The division of the court to which this chapter refers is the division established under section 49 of this title.
 
@@ -325,13 +325,13 @@ the division of the court shall expand the jurisdiction of the appropriate indep
 
 **(f) Attorneys’ Fees.—**
 
-**(1) Award of fees.—** Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys’ fees incurred by that individual during that investigation which would not have been incurred but for the requirements of this chapter. The division of the court shall notify the the 1
+**(1) Award of fees.—** Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys’ fees incurred by that individual during that investigation which would not have been incurred but for the requirements of this chapter. The division of the court shall notify the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-independent counsel who conducted the investigation and Attorney 2
+independent counsel who conducted the investigation and Attorney 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “the”.
+<sup>2</sup> So in original. Probably should be preceded by “the”.
 
 General of any request for attorneys’ fees under this subsection.
 
@@ -349,15 +349,15 @@ General of any request for attorneys’ fees under this subsection.
 
 **(h) Amicus Curiae Briefs.—** When presented with significant legal issues, the division of the court may disclose sufficient information about the issues to permit the filing of timely amicus curiae briefs.
 
-(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§ 2(a)(1), 5, Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1297; Pub. L. 103–270, § 3(n), June 30, 1994, 108 Stat. 736.)
+(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§ 2(a)(1), 5, Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1297; Pub. L. 103–270, § 3(n), June 30, 1994, 108 Stat. 736.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (f)(1). Pub. L. 103–270, § 3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
+1994—Subsec. (f)(1). Pub. L. 103–270, § 3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
 
-Subsec. (f)(2). Pub. L. 103–270, § 3(n)(2), in introductory provisions substituted “shall direct such independent counsel and” for “may direct” and “subsection, addressing—” for “subsection, analyzing for each expense—”, added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
+Subsec. (f)(2). Pub. L. 103–270, § 3(n)(2), in introductory provisions substituted “shall direct such independent counsel and” for “may direct” and “subsection, addressing—” for “subsection, analyzing for each expense—”, added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) the sufficiency of the documentation;
 
@@ -367,11 +367,11 @@ Subsec. (f)(2). Pub. L. 103–270, § 3(n)(2), in introductory provisions subs
 
 1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
 
-1983—Subsec. (b). Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
+1983—Subsec. (b). Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
 
-Subsecs. (c) to (e). Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
+Subsecs. (c) to (e). Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 
-Subsecs. (f), (g). Pub. L. 97–409, § 5, added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 97–409, § 5, added subsecs. (f) and (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -383,7 +383,7 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with subsec. (f) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
-## § 594. Authority and duties of an independent counsel
+## § 594. Authority and duties of an independent counsel
 
 **(a) Authorities.—** Notwithstanding any other provision of law, an independent counsel appointed under this chapter shall have, with respect to all matters in such independent counsel’s prosecutorial jurisdiction established under this chapter, full power and independent authority to exercise all investigative and prosecutorial functions and powers of the Department of Justice, the Attorney General, and any other officer or employee of the Department of Justice, except that the Attorney General shall exercise direction or control as to those matters that specifically require the Attorney General’s personal action under section 2516 of title 18. Such investigative and prosecutorial functions and powers shall include—
 
@@ -531,7 +531,7 @@ Subparagraph (B) shall not apply to those records which have been surrendered pu
 
 **(3) Office space.—** The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
 
-(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§ 2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, § 3(a)–(f), (m), (*o*), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 118], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§ 2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, § 3(a)–(f), (m), (*o*), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 118], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -545,43 +545,43 @@ The enactment of the Independent Counsel Reauthorization Act of 1987, referred t
 
 **Amendments**
 
-1996—Subsec. (b)(3)(A). Pub. L. 104–208, § 101(a) [title I, § 118(a), (b)], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (*l*)(1)(A)(iii) certifies”.
+1996—Subsec. (b)(3)(A). Pub. L. 104–208, § 101(a) [title I, § 118(a), (b)], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (*l*)(1)(A)(iii) certifies”.
 
-Subsec. (b)(3)(B). Pub. L. 104–208, § 101(a) [title I, § 118(c)], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking “such employee” and inserting “the independent counsel” and “the division of the court”, was executed to introductory provisions of subsec. (b)(3)(B) by substituting “the independent counsel and the division of the court” for “such employee” to reflect the probable intent of Congress.
+Subsec. (b)(3)(B). Pub. L. 104–208, § 101(a) [title I, § 118(c)], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking “such employee” and inserting “the independent counsel” and “the division of the court”, was executed to introductory provisions of subsec. (b)(3)(B) by substituting “the independent counsel and the division of the court” for “such employee” to reflect the probable intent of Congress.
 
-1994—Subsec. (b). Pub. L. 103–270, § 3(b), designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
+1994—Subsec. (b). Pub. L. 103–270, § 3(b), designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 103–270, § 3(c), substituted last sentence for former last sentence which read as follows: “No such employee may be compensated at a rate exceeding the maximum rate of pay payable for GS–18 of the General Schedule under section 5332 of title 5.”
+Subsec. (c). Pub. L. 103–270, § 3(c), substituted last sentence for former last sentence which read as follows: “No such employee may be compensated at a rate exceeding the maximum rate of pay payable for GS–18 of the General Schedule under section 5332 of title 5.”
 
-Subsec. (d)(1). Pub. L. 103–270, § 3(m), inserted at end “At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.”
+Subsec. (d)(1). Pub. L. 103–270, § 3(m), inserted at end “At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.”
 
-Subsec. (f). Pub. L. 103–270, § 3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (*l*)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
+Subsec. (f). Pub. L. 103–270, § 3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (*l*)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
 
-Subsec. (h)(1)(B). Pub. L. 103–270, § 3(*o*), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
+Subsec. (h)(1)(B). Pub. L. 103–270, § 3(*o*), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
 
-Subsec. (h)(3). Pub. L. 103–270, § 3(f), added par. (3).
+Subsec. (h)(3). Pub. L. 103–270, § 3(f), added par. (3).
 
-Subsec. (j)(5). Pub. L. 103–270, § 3(d), added par. (5).
+Subsec. (j)(5). Pub. L. 103–270, § 3(d), added par. (5).
 
-Subsec. (*l*). Pub. L. 103–270, § 3(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 103–270, § 3(a), added subsec. (*l*).
 
 1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (g) which related to similar subject matter.
 
 1986—Subsec. (a)(8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
+1983—Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
 
-Subsec. (a). Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” wherever appearing and “independent counsel’s” for “special prosecutor’s”.
+Subsec. (a). Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” wherever appearing and “independent counsel’s” for “special prosecutor’s”.
 
-Subsec. (a)(10). Pub. L. 97–409, § 6(a), added par. (10).
+Subsec. (a)(10). Pub. L. 97–409, § 6(a), added par. (10).
 
-Subsecs. (b), (c). Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
+Subsecs. (b), (c). Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 
-Subsecs. (d), (e). Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
+Subsecs. (d), (e). Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
 
-Subsec. (f). Pub. L. 97–409, §§ 2(a)(1)(A), 6(b), substituted “independent counsel” for “special prosecutor”, “except where not possible” for “to the extent that such special prosecutor deems appropriate”, and “written or other established policies” for “written policies”.
+Subsec. (f). Pub. L. 97–409, §§ 2(a)(1)(A), 6(b), substituted “independent counsel” for “special prosecutor”, “except where not possible” for “to the extent that such special prosecutor deems appropriate”, and “written or other established policies” for “written policies”.
 
-Subsec. (g). Pub. L. 97–409, § 6(c), added subsec. (g).
+Subsec. (g). Pub. L. 97–409, § 6(c), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -597,7 +597,7 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with the following provisions applicable to previously initiated proceedings pending on Dec. 15, 1987: subsec. (d)(2) (relating to reports by Attorney General on expenditures by independent counsel, except that the first such report shall be made only with respect to expenditures on or after Dec. 15, 1987), subsec. (h)(1)(A) except that the 6-month periods described in subsec. (h)(1)(A) of this section shall be calculated from Dec. 15, 1987, subsec. (i), subsec. (k) of this section, and 90 days after Dec. 15, 1987, subsec. (j), see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
-## § 595. Congressional oversight
+## § 595. Congressional oversight
 
 **(a) Oversight of Conduct of Independent Counsel.—**
 
@@ -615,7 +615,7 @@ Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to procee
 
 **(c) Information Relating to Impeachment.—** An independent counsel shall advise the House of Representatives of any substantial and credible information which such independent counsel receives, in carrying out the independent counsel’s responsibilities under this chapter, that may constitute grounds for an impeachment. Nothing in this chapter or section 49 of this title shall prevent the Congress or either House thereof from obtaining information in the course of an impeachment proceeding.
 
-(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1871; amended Pub. L. 97–409, § 2(a)(1), Jan. 3, 1983, 96 Stat. 2139; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, § 3(g), June 30, 1994, 108 Stat. 734.)
+(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1871; amended Pub. L. 97–409, § 2(a)(1), Jan. 3, 1983, 96 Stat. 2139; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, § 3(g), June 30, 1994, 108 Stat. 734.)
 
 **Editorial Notes**
 
@@ -625,7 +625,7 @@ Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to procee
 
 1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) relating to congressional oversight for former subsecs. (a) to (e) relating to reporting and congressional oversight.
 
-1983—Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
+1983—Pub. L. 97–409, § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -637,13 +637,13 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
-## § 596. Removal of an independent counsel; termination of office
+## § 596. Removal of an independent counsel; termination of office
 
 **(a) Removal; Report on Removal.—**
 
 **(1) Grounds for removal.—** An independent counsel appointed under this chapter may be removed from office, other than by impeachment and conviction, only by the personal action of the Attorney General and only for good cause, physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability),,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 or any other condition that substantially impairs the performance of such independent counsel’s duties.
 
@@ -671,27 +671,27 @@ or any other condition that substantially impairs the performance of such indepe
 
 **(B)** report the results to the Committee on the Judiciary, Committee on Governmental Affairs, and Committee on Appropriations of the Senate and the Committee on the Judiciary, Committee on Government Operations, and Committee on Appropriations of the House of Representatives not later than 90 days following the submission of each such statement.
 
-(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, §§ 2(a)(1), 6(d), Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 98–620, title IV, § 402(29)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, §§ 3(h), (i), 5, June 30, 1994, 108 Stat. 735, 737.)
+(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, §§ 2(a)(1), 6(d), Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 98–620, title IV, § 402(29)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, §§ 3(h), (i), 5, June 30, 1994, 108 Stat. 735, 737.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a)(1). Pub. L. 103–270, § 5, substituted “physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability),” for “physical disability, mental incapacity”.
+1994—Subsec. (a)(1). Pub. L. 103–270, § 5, substituted “physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability),” for “physical disability, mental incapacity”.
 
-Subsec. (b)(2). Pub. L. 103–270, § 3(h), inserted at end “If the Attorney General has not made a request under this paragraph, the division of the court shall determine on its own motion whether termination is appropriate under this paragraph no later than 2 years after the appointment of an independent counsel, at the end of the succeeding 2-year period, and thereafter at the end of each succeeding 1-year period.”
+Subsec. (b)(2). Pub. L. 103–270, § 3(h), inserted at end “If the Attorney General has not made a request under this paragraph, the division of the court shall determine on its own motion whether termination is appropriate under this paragraph no later than 2 years after the appointment of an independent counsel, at the end of the succeeding 2-year period, and thereafter at the end of each succeeding 1-year period.”
 
-Subsec. (c). Pub. L. 103–270, § 3(i), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Audits.—After the termination of the office of an independent counsel, the Comptroller General shall conduct an audit of the expenditures of that office, and shall submit to the appropriate committees of the Congress a report on the audit.”
+Subsec. (c). Pub. L. 103–270, § 3(i), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Audits.—After the termination of the office of an independent counsel, the Comptroller General shall conduct an audit of the expenditures of that office, and shall submit to the appropriate committees of the Congress a report on the audit.”
 
 1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b) which related to similar subject matter.
 
 1984—Subsec. (a)(3). Pub. L. 98–620 struck out provision requiring the division of the court to cause such an action to be in every way expedited.
 
-1983—Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
+1983—Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
 
-Subsec. (a)(1). Pub. L. 97–409, §§ 2(a)(1), 6(d), substituted “independent counsel” for “special prosecutor”, “good cause” for “extraordinary impropriety”, and “independent counsel’s” for “special prosecutor’s”.
+Subsec. (a)(1). Pub. L. 97–409, §§ 2(a)(1), 6(d), substituted “independent counsel” for “special prosecutor”, “good cause” for “extraordinary impropriety”, and “independent counsel’s” for “special prosecutor’s”.
 
-Subsecs. (a)(2), (3), (b). Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
+Subsecs. (a)(2), (3), (b). Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -713,13 +713,13 @@ Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to procee
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of this title.
 
-## § 597. Relationship with Department of Justice
+## § 597. Relationship with Department of Justice
 
 **(a) Suspension of Other Investigations and Proceedings.—** Whenever a matter is in the prosecutorial jurisdiction of an independent counsel or has been accepted by an independent counsel under section 594(e), the Department of Justice, the Attorney General, and all other officers and employees of the Department of Justice shall suspend all investigations and proceedings regarding such matter, except to the extent required by section 594(d)(1), and except insofar as such independent counsel agrees in writing that such investigation or proceedings may be continued by the Department of Justice.
 
 **(b) Presentation as Amicus Curiae Permitted.—** Nothing in this chapter shall prevent the Attorney General or the Solicitor General from making a presentation as amicus curiae to any court as to issues of law raised by any case or proceeding in which an independent counsel participates in an official capacity or any appeal of such a case or proceeding.
 
-(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, § 2(a)(1)(A), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1306.)
+(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, § 2(a)(1)(A), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1306.)
 
 **Editorial Notes**
 
@@ -727,7 +727,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 1987—Pub. L. 100–191 amended section generally, substituting provisions relating to relationship with Department of Justice for substantially similar provisions.
 
-1983—Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
+1983—Pub. L. 97–409, § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -735,11 +735,11 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
-## § 598. Severability
+## § 598. Severability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
 
-(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1873; amended Pub. L. 97–409, §§ 2(a)(1)(A), 7, Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1306.)
+(Added Pub. L. 95–521, title VI, § 601(a), Oct. 26, 1978, 92 Stat. 1873; amended Pub. L. 97–409, §§ 2(a)(1)(A), 7, Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1306.)
 
 **Editorial Notes**
 
@@ -747,7 +747,7 @@ If any provision of this chapter or the application thereof to any person or cir
 
 1987—Pub. L. 100–191 amended section generally, substituting provisions relating to severability for provisions relating to termination of chapter. See section 599 of this title.
 
-1983—Pub. L. 97–409, §§ 2(a)(1)(A), 7, substituted reference to the date of enactment of the Ethics in Government Act Amendments of 1982 for reference to the date of enactment of this chapter and substituted “independent counsel” for “special prosecutor” wherever appearing.
+1983—Pub. L. 97–409, §§ 2(a)(1)(A), 7, substituted reference to the date of enactment of the Ethics in Government Act Amendments of 1982 for reference to the date of enactment of this chapter and substituted “independent counsel” for “special prosecutor” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -755,11 +755,11 @@ If any provision of this chapter or the application thereof to any person or cir
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
-## § 599. Termination of effect of chapter
+## § 599. Termination of effect of chapter
 
 This chapter shall cease to be effective five years after the date of the enactment of the Independent Counsel Reauthorization Act of 1994, except that this chapter shall continue in effect with respect to then pending matters before an independent counsel that in the judgment of such counsel require such continuation until that independent counsel determines such matters have been completed.
 
-(Added Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1306; amended Pub. L. 103–270, § 2, June 30, 1994, 108 Stat. 732.)
+(Added Pub. L. 100–191, § 2, Dec. 15, 1987, 101 Stat. 1306; amended Pub. L. 103–270, § 2, June 30, 1994, 108 Stat. 732.)
 
 **Editorial Notes**
 

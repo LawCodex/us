@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 653 of this title as this chapter and items 7621 to 7623 as 8821 to 8823, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 653 of this title as this chapter and items 7621 to 7623 as 8821 to 8823, respectively.
 
-1962—Pub. L. 87–769, § 1(2)(B), Oct. 9, 1962, 76 Stat. 768, struck out item 7625 “Claims against the United States: private property; loss or damage”.
+1962—Pub. L. 87–769, § 1(2)(B), Oct. 9, 1962, 76 Stat. 768, struck out item 7625 “Claims against the United States: private property; loss or damage”.
 
-1960—Pub. L. 86–533, § 1(10)(B), June 29, 1960, 74 Stat. 247, struck out item 7624 “Reports to Congress”.
+1960—Pub. L. 86–533, § 1(10)(B), June 29, 1960, 74 Stat. 247, struck out item 7624 “Reports to Congress”.
 
-## § 8821. Definitions
+## § 8821. Definitions
 
 **(a)** In this chapter “vessel in the naval service” means—
 
@@ -35,13 +35,13 @@ retrieved: 2026-10-11
 
 **(b)** In this chapter “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or by disallowance.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 472, § 7621; renumbered § 8821, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 472, § 7621; renumbered § 8821, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7621 | 46 U.S.C. 793. | July 3, 1944, ch. 399, § 3, 58 Stat. 724. |
+| 7621 | 46 U.S.C. 793. | July 3, 1944, ch. 399, § 3, 58 Stat. 724. |
 
 In subsection (a) the words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”. The defined term is used throughout the chapter, and by definition includes vessels of the Navy. The words “when the Coast Guard is operating as a service in the Navy” are substituted for the words “the Coast Guard when operating as a part of the Navy” to conform to the terminology of 14 U.S.C. 3.
 
@@ -63,7 +63,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8822. Admiralty claims against the United States
+## § 8822. Admiralty claims against the United States
 
 **(a)** The Secretary of the Navy may settle, or compromise, and pay in an amount not more than $15,000,000 an admiralty claim against the United States for—
 
@@ -79,18 +79,18 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d)** Upon acceptance of payment by the claimant, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 472, § 7622; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, § 1(5), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, § 1633, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 107–107, div. A, title X, § 1014(a), Dec. 28, 2001, 115 Stat. 1212; renumbered § 8822, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 472, § 7622; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, § 1(5), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, § 1633, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 107–107, div. A, title X, § 1014(a), Dec. 28, 2001, 115 Stat. 1212; renumbered § 8822, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7622 | 46 U.S.C. 797. | July 3, 1944, ch. 399, § 7, 58 Stat. 726. |
-|  | 46 U.S.C. 799. | July 3, 1944, ch. 399, § 9; added Aug. 2, 1946, ch. 739, 60 Stat. 803. |
+| 7622 | 46 U.S.C. 797. | July 3, 1944, ch. 399, § 7, 58 Stat. 726. |
+|  | 46 U.S.C. 799. | July 3, 1944, ch. 399, § 9; added Aug. 2, 1946, ch. 739, 60 Stat. 803. |
 
-In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in § 7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in § 7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
+In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in § 7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in § 7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
 
-In subsection (c) the words “In any case where the amount to be paid is not more than” are substituted for the words “When the net amount paid in settlement does not exceed” for clarity, since the delegation necessarily precedes payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised by” for clarity.
+In subsection (c) the words “In any case where the amount to be paid is not more than” are substituted for the words “When the net amount paid in settlement does not exceed” for clarity, since the delegation necessarily precedes payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised by” for clarity.
 
 In subsection (d) the words “but not until then”, “for all purposes”, and “to the contrary” are omitted as surplusage.
 
@@ -102,9 +102,9 @@ The first proviso in 46 U.S.C. 797, stating that this section is supplementary t
 
 2018—Pub. L. 115–232 renumbered section 7622 of this title as this section.
 
-2001—Subsecs. (a), (b). Pub. L. 107–107, § 1014(a)(1), substituted “$15,000,000” for “$1,000,000”.
+2001—Subsecs. (a), (b). Pub. L. 107–107, § 1014(a)(1), substituted “$15,000,000” for “$1,000,000”.
 
-Subsec. (c). Pub. L. 107–107, § 1014(a)(2), substituted “$1,000,000” for “$100,000”.
+Subsec. (c). Pub. L. 107–107, § 1014(a)(2), substituted “$1,000,000” for “$100,000”.
 
 1989—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
 
@@ -120,9 +120,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title X, § 1014(c), Dec. 28, 2001, 115 Stat. 1212, provided that: “The amendments made by this section [amending this section and section 7623 of this title] shall apply with respect to any claim accruing on or after February 1, 2001.”
+Pub. L. 107–107, div. A, title X, § 1014(c), Dec. 28, 2001, 115 Stat. 1212, provided that: “The amendments made by this section [amending this section and section 7623 of this title] shall apply with respect to any claim accruing on or after February 1, 2001.”
 
-## § 8823. Admiralty claims by the United States
+## § 8823. Admiralty claims by the United States
 
 **(a)** The Secretary of the Navy may settle, or compromise, and receive payment of a claim by the United States for damage to property under the jurisdiction of the Department of the Navy or property for which the Department has assumed an obligation to respond for damage, if—
 
@@ -150,21 +150,21 @@ Pub. L. 107–107, div. A, title X, § 1014(c), Dec. 28, 2001, 115 Stat. 1212,
 
 **(e)** This section does not apply to any claim while there is pending as to that claim a suit filed by or against the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 472, § 7623; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 101–189, div. A, title XVI, § 1633, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 107–107, div. A, title X, § 1014(b), Dec. 28, 2001, 115 Stat. 1212; Pub. L. 110–417, [div. A], title X, § 1032, Oct. 14, 2008, 122 Stat. 4591; renumbered § 8823, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 472, § 7623; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 101–189, div. A, title XVI, § 1633, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 107–107, div. A, title X, § 1014(b), Dec. 28, 2001, 115 Stat. 1212; Pub. L. 110–417, [div. A], title X, § 1032, Oct. 14, 2008, 122 Stat. 4591; renumbered § 8823, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7623 | 34 U.S.C. 600a. | Dec. 5, 1945, ch. 555, § 1, 59 Stat. 596. |
-|  | 34 U.S.C. 600d. | Dec. 5, 1945, ch. 555, § 4; added Aug. 2, 1946, ch. 742, 60 Stat. 806. |
-|  | 34 U.S.C. 600c. | Dec. 5, 1945, ch. 555, § 3, 59 Stat. 596. |
+| 7623 | 34 U.S.C. 600a. | Dec. 5, 1945, ch. 555, § 1, 59 Stat. 596. |
+|  | 34 U.S.C. 600d. | Dec. 5, 1945, ch. 555, § 4; added Aug. 2, 1946, ch. 742, 60 Stat. 806. |
+|  | 34 U.S.C. 600c. | Dec. 5, 1945, ch. 555, § 3, 59 Stat. 596. |
 
-In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 7621(b) of this title. The words “of the United States” (following the word “property”), “by contract or otherwise”, and “thereto” are omitted as surplusage. The words “of a kind that is within the admiralty jurisdiction of” are substituted for the words “cognizable in admiralty in”. The words “receive payment of a claim \* \* \* if the net amount to be received by the United States is not more than $1,000,000” are substituted for the words “receive in payment of any such claim the amount due the United States pursuant to determination, compromise, or settlement as herein authorized \* \* \* *Provided, further*, That no settlement or compromise where there is involved a payment in the net amount of over $1,000,000 shall be authorized by this Act”.
+In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 7621(b) of this title. The words “of the United States” (following the word “property”), “by contract or otherwise”, and “thereto” are omitted as surplusage. The words “of a kind that is within the admiralty jurisdiction of” are substituted for the words “cognizable in admiralty in”. The words “receive payment of a claim \* \* \* if the net amount to be received by the United States is not more than $1,000,000” are substituted for the words “receive in payment of any such claim the amount due the United States pursuant to determination, compromise, or settlement as herein authorized \* \* \* *Provided, further*, That no settlement or compromise where there is involved a payment in the net amount of over $1,000,000 shall be authorized by this Act”.
 
 In subsection (b) the words “and to deliver” are omitted as covered by the word “execute”. The words “Amounts received under this section” are substituted for the words “All such payments” for clarity and uniformity. The words “of the United States as miscellaneous receipts” are omitted as surplusage.
 
-In subsection (c) the words “In any case where the amount to be received by the United States is not more than” are substituted for the words “Where the net amount received in settlement does not exceed” for clarity, since the delegation of authority necessarily precedes receipt of payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised” for clarity.
+In subsection (c) the words “In any case where the amount to be received by the United States is not more than” are substituted for the words “Where the net amount received in settlement does not exceed” for clarity, since the delegation of authority necessarily precedes receipt of payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised” for clarity.
 
 In subsection (d) the words “but not until then”, “for all purposes”, and “to the contrary” are omitted as surplusage.
 
@@ -176,25 +176,25 @@ The first proviso of 34 U.S.C. 600a, stating that this section is supplementary 
 
 **Prior Provisions**
 
-Prior sections 8841 and 8842, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1535, related to separation or transfer to Retired Reserve of female reserve nurses and medical specialists at age 50 if in a Reserve grade below major and at age 55 if in a Reserve grade above captain, prior to repeal by Pub. L. 86–559, § 1(66), June 30, 1960, 74 Stat. 278.
+Prior sections 8841 and 8842, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1535, related to separation or transfer to Retired Reserve of female reserve nurses and medical specialists at age 50 if in a Reserve grade below major and at age 55 if in a Reserve grade above captain, prior to repeal by Pub. L. 86–559, § 1(66), June 30, 1960, 74 Stat. 278.
 
-Prior sections 8843 to 8846 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
+Prior sections 8843 to 8846 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
-Section 8843, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–599, § 1(67), June 30, 1960, 74 Stat. 278, related to transfer or discharge of reserve commissioned officers 60 years of age and below grade of major general. See section 14510 of this title.
+Section 8843, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–599, § 1(67), June 30, 1960, 74 Stat. 278, related to transfer or discharge of reserve commissioned officers 60 years of age and below grade of major general. See section 14510 of this title.
 
-Section 8844, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–559, § 1(68), June 30, 1960, 74 Stat. 279, related to transfer or discharge of certain reserve major generals who are 62 years of age. See section 14511 of this title.
+Section 8844, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–559, § 1(68), June 30, 1960, 74 Stat. 279, related to transfer or discharge of certain reserve major generals who are 62 years of age. See section 14511 of this title.
 
-Section 8845, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–559, § 1(69), June 30, 1960, 74 Stat. 279; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of certain reserve officers of Air Force who are 64 years of age. See section 14512(a) of this title.
+Section 8845, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–559, § 1(69), June 30, 1960, 74 Stat. 279; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of certain reserve officers of Air Force who are 64 years of age. See section 14512(a) of this title.
 
-Section 8846, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1536; amended Pub. L. 104–106, div. A, title XV, § 1501(c)(32), Feb. 10, 1996, 110 Stat. 500, related to transfer or discharge of deferred officers.
+Section 8846, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1536; amended Pub. L. 104–106, div. A, title XV, § 1501(c)(32), Feb. 10, 1996, 110 Stat. 500, related to transfer or discharge of deferred officers.
 
-A prior section 8847, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1536; amended Pub. L. 86–559, § 1(70), June 30, 1960, 74 Stat. 279, provided for mandatory retirement of female commissioned officers, Air Force nurses, and medical specialists on active duty in a Reserve grade below lieutenant colonel after completion of 25 years of service computed under former section 8853, prior to repeal by Pub. L. 90–130, § 1(31)(A), Nov. 8, 1967, 81 Stat. 382.
+A prior section 8847, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1536; amended Pub. L. 86–559, § 1(70), June 30, 1960, 74 Stat. 279, provided for mandatory retirement of female commissioned officers, Air Force nurses, and medical specialists on active duty in a Reserve grade below lieutenant colonel after completion of 25 years of service computed under former section 8853, prior to repeal by Pub. L. 90–130, § 1(31)(A), Nov. 8, 1967, 81 Stat. 382.
 
-A prior section 8848, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1536; amended Pub. L. 86–559, § 1(71), June 30, 1960, 74 Stat. 279; Pub. L. 90–130, § 1(31)(B), Nov. 8, 1967, 81 Stat. 382; Pub. L. 90–486, § 9(2), Aug. 13, 1968, 82 Stat. 760; Pub. L. 96–513, title V, § 514(7), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 99–145, title V, § 522(b)(1), title XIII, § 1303(a)(27)(A), Nov. 8, 1985, 99 Stat. 632, 740, related to transfer or discharge of reserve first lieutenants, captains, majors, and lieutenant colonels with 28 years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14501 et seq. of this title.
+A prior section 8848, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1536; amended Pub. L. 86–559, § 1(71), June 30, 1960, 74 Stat. 279; Pub. L. 90–130, § 1(31)(B), Nov. 8, 1967, 81 Stat. 382; Pub. L. 90–486, § 9(2), Aug. 13, 1968, 82 Stat. 760; Pub. L. 96–513, title V, § 514(7), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 99–145, title V, § 522(b)(1), title XIII, § 1303(a)(27)(A), Nov. 8, 1985, 99 Stat. 632, 740, related to transfer or discharge of reserve first lieutenants, captains, majors, and lieutenant colonels with 28 years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14501 et seq. of this title.
 
-A prior section 8849, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1536, related to separation or transfer to Retired Reserve of female reserve lieutenant colonels, except those designated under former section 8067 of this title, upon completion of 28 years of service, prior to repeal by Pub. L. 86–559, § 1(72), June 30, 1960, 74 Stat. 279.
+A prior section 8849, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1536, related to separation or transfer to Retired Reserve of female reserve lieutenant colonels, except those designated under former section 8067 of this title, upon completion of 28 years of service, prior to repeal by Pub. L. 86–559, § 1(72), June 30, 1960, 74 Stat. 279.
 
-A prior section 8850, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 90–168, § 2(22), Dec. 1, 1967, 81 Stat. 525; Pub. L. 104–106, div. A, title XV, § 1501(c)(25), Feb. 10, 1996, 110 Stat. 499, related to transfer or discharge of excessive reserve commissioned officers in active status with 30 or more years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See sections 14514 and 14704 of this title.
+A prior section 8850, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 90–168, § 2(22), Dec. 1, 1967, 81 Stat. 525; Pub. L. 104–106, div. A, title XV, § 1501(c)(25), Feb. 10, 1996, 110 Stat. 499, related to transfer or discharge of excessive reserve commissioned officers in active status with 30 or more years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See sections 14514 and 14704 of this title.
 
 **Amendments**
 
@@ -202,9 +202,9 @@ A prior section 8850, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Sta
 
 2008—Subsec. (b). Pub. L. 110–417 designated existing provisions as par. (1), struck out last sentence which read “Amounts received under this section shall be covered into the Treasury.”, and added par. (2).
 
-2001—Subsec. (a)(2). Pub. L. 107–107, § 1014(b)(1), substituted “$15,000,000” for “$1,000,000”.
+2001—Subsec. (a)(2). Pub. L. 107–107, § 1014(b)(1), substituted “$15,000,000” for “$1,000,000”.
 
-Subsec. (c). Pub. L. 107–107, § 1014(b)(2), substituted “$1,000,000” for “$100,000”.
+Subsec. (c). Pub. L. 107–107, § 1014(b)(2), substituted “$1,000,000” for “$100,000”.
 
 1989—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
 

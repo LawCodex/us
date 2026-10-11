@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 105—PROTECTION OF LAWFUL COMMERCE IN ARMS
 
-## § 7901. Findings; purposes
+## § 7901. Findings; purposes
 
 **(a) Findings** Congress finds the following:
 
@@ -51,7 +51,7 @@ retrieved: 2026-10-11
 
 **(7)** To exercise congressional power under article IV, section 1 (the Full Faith and Credit Clause) of the United States Constitution.
 
-(Pub. L. 109–92, § 2, Oct. 26, 2005, 119 Stat. 2095.)
+(Pub. L. 109–92, § 2, Oct. 26, 2005, 119 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -59,9 +59,9 @@ retrieved: 2026-10-11
 
 The Gun Control Act of 1968, referred to in subsec. (a)(4), is Pub. L. 90–618, Oct. 22, 1968, 82 Stat. 1213. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 18, Crimes and Criminal Procedure, and Tables.
 
-The National Firearms Act, referred to in subsec. (a)(4), is classified generally to chapter 53 (§ 5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26.
+The National Firearms Act, referred to in subsec. (a)(4), is classified generally to chapter 53 (§ 5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26.
 
-The Arms Export Control Act, referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–92, Oct. 26, 2005, 119 Stat. 2095, known as the Protection of Lawful Commerce in Arms Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
@@ -69,9 +69,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Short Title**
 
-Pub. L. 109–92, § 1, Oct. 26, 2005, 119 Stat. 2095, provided that: “This Act [enacting this chapter, amending sections 922 and 924 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 921 and 922 of Title 18] may be cited as the ‘Protection of Lawful Commerce in Arms Act’.”
+Pub. L. 109–92, § 1, Oct. 26, 2005, 119 Stat. 2095, provided that: “This Act [enacting this chapter, amending sections 922 and 924 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 921 and 922 of Title 18] may be cited as the ‘Protection of Lawful Commerce in Arms Act’.”
 
-## § 7902. Prohibition on bringing of qualified civil liability actions in Federal or State court
+## § 7902. Prohibition on bringing of qualified civil liability actions in Federal or State court
 
 **(a) In general**
 
@@ -81,9 +81,9 @@ A qualified civil liability action may not be brought in any Federal or State co
 
 A qualified civil liability action that is pending on October 26, 2005, shall be immediately dismissed by the court in which the action was brought or is currently pending.
 
-(Pub. L. 109–92, § 3, Oct. 26, 2005, 119 Stat. 2096.)
+(Pub. L. 109–92, § 3, Oct. 26, 2005, 119 Stat. 2096.)
 
-## § 7903. Definitions
+## § 7903. Definitions
 
 In this chapter:
 
@@ -159,7 +159,7 @@ The term “State” includes each of the several States of the United States, t
 
 The term “unlawful misuse” means conduct that violates a statute, ordinance, or regulation as it relates to the use of a qualified product.
 
-(Pub. L. 109–92, § 4, Oct. 26, 2005, 119 Stat. 2097.)
+(Pub. L. 109–92, § 4, Oct. 26, 2005, 119 Stat. 2097.)
 
 **Editorial Notes**
 

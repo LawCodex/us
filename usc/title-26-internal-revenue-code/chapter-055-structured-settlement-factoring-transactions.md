@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 55—STRUCTURED SETTLEMENT FACTORING TRANSACTIONS
 
-## § 5891. Structured settlement factoring transactions
+## § 5891. Structured settlement factoring transactions
 
 **(a) Imposition of tax**
 
@@ -117,13 +117,13 @@ If the applicable requirements of sections 72, 104(a)(1), 104(a)(2), 130, and 46
 
 The provisions of section 3405 regarding withholding of tax shall not apply to the person making the payments in the event of a structured settlement factoring transaction.
 
-(Added Pub. L. 107–134, title I, § 115(a), Jan. 23, 2002, 115 Stat. 2436.)
+(Added Pub. L. 107–134, title I, § 115(a), Jan. 23, 2002, 115 Stat. 2436.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 107–134, title I, § 115(c), Jan. 23, 2002, 115 Stat. 2438, provided that:
+Pub. L. 107–134, title I, § 115(c), Jan. 23, 2002, 115 Stat. 2438, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this chapter] (other than the provisions of section 5891(d) of the Internal Revenue Code of 1986, as added by this section) shall apply to structured settlement factoring transactions (as defined in section 5891(c) of such Code (as so added)) entered into on or after the 30th day following the date of the enactment of this Act [Jan. 23, 2002].
 

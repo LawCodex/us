@@ -19,41 +19,41 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title XI, § 1114(b)(2), Dec. 23, 2024, 138 Stat. 2091, substituted “Military leave: Reserves, National Guard members, and certain members of the Space Force” for “Military leave; Reserves and National Guardsmen” in item 6323.
+2024—Pub. L. 118–159, div. A, title XI, § 1114(b)(2), Dec. 23, 2024, 138 Stat. 2091, substituted “Military leave: Reserves, National Guard members, and certain members of the Space Force” for “Military leave; Reserves and National Guardsmen” in item 6323.
 
-2021—Pub. L. 117–81, div. A, title XI, § 1111(b), Dec. 27, 2021, 135 Stat. 1953, which directed amendment of the table of sections for subchapter II of chapter 63 by adding item 6329d, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, div. A, title XI, § 1111(b), Dec. 27, 2021, 135 Stat. 1953, which directed amendment of the table of sections for subchapter II of chapter 63 by adding item 6329d, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
-2016—Pub. L. 114–328, div. A, title XI, § 1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+2016—Pub. L. 114–328, div. A, title XI, § 1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
-2015—Pub. L. 114–75, § 2(b), Nov. 5, 2015, 129 Stat. 641, added item 6329.
+2015—Pub. L. 114–75, § 2(b), Nov. 5, 2015, 129 Stat. 641, added item 6329.
 
-1999—Pub. L. 106–56, § 1(c)(2), Sept. 24, 1999, 113 Stat. 407, added item 6328.
+1999—Pub. L. 106–56, § 1(c)(2), Sept. 24, 1999, 113 Stat. 407, added item 6328.
 
-1997—Pub. L. 105–18, title II, § 9004(b), June 12, 1997, 111 Stat. 197, added heading of subchapter VI and item 6391.
+1997—Pub. L. 105–18, title II, § 9004(b), June 12, 1997, 111 Stat. 197, added heading of subchapter VI and item 6391.
 
-1994—Pub. L. 103–329, title VI, § 629(a)(2)(B), Sept. 30, 1994, 108 Stat. 2423, added item 6327.
+1994—Pub. L. 103–329, title VI, § 629(a)(2)(B), Sept. 30, 1994, 108 Stat. 2423, added item 6327.
 
-1993—Pub. L. 103–103, § 5(a)(2), Oct. 8, 1993, 107 Stat. 1023, substituted “Authority to participate in both programs” for “Limitation on employee participation” in item 6373.
+1993—Pub. L. 103–103, § 5(a)(2), Oct. 8, 1993, 107 Stat. 1023, substituted “Authority to participate in both programs” for “Limitation on employee participation” in item 6373.
 
-Pub. L. 103–3, title II, § 201(a)(2), Feb. 5, 1993, 107 Stat. 23, added heading of subchapter V and items 6381 to 6387.
+Pub. L. 103–3, title II, § 201(a)(2), Feb. 5, 1993, 107 Stat. 23, added heading of subchapter V and items 6381 to 6387.
 
-1990—Pub. L. 101–508, title VII, § 7202(i)(2), Nov. 5, 1990, 104 Stat. 1388–337, inserted “and nonappropriated fund” after “office” in item 6312.
+1990—Pub. L. 101–508, title VII, § 7202(i)(2), Nov. 5, 1990, 104 Stat. 1388–337, inserted “and nonappropriated fund” after “office” in item 6312.
 
-1988—Pub. L. 100–566, § 2(d)(1)(B), Oct. 31, 1988, 102 Stat. 2844, which provided that the table of sections for subchapters III and IV were to be repealed effective 5 years after Oct. 31, 1988, was repealed by Pub. L. 103–103, § 2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
+1988—Pub. L. 100–566, § 2(d)(1)(B), Oct. 31, 1988, 102 Stat. 2844, which provided that the table of sections for subchapters III and IV were to be repealed effective 5 years after Oct. 31, 1988, was repealed by Pub. L. 103–103, § 2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
 
-Pub. L. 100–566, § 2(b), Oct. 31, 1988, 102 Stat. 2843, added heading of subchapter III and items 6331 to 6340 and heading of subchapter IV and items 6361 to 6373.
+Pub. L. 100–566, § 2(b), Oct. 31, 1988, 102 Stat. 2843, added heading of subchapter III and items 6331 to 6340 and heading of subchapter IV and items 6361 to 6373.
 
-1975—Pub. L. 94–183, § 2(27), Dec. 31, 1975, 89 Stat. 1058, struck out item 6309 “Leave of absence; rural carriers”.
+1975—Pub. L. 94–183, § 2(27), Dec. 31, 1975, 89 Stat. 1058, struck out item 6309 “Leave of absence; rural carriers”.
 
-1970—Pub. L. 91–563, § 1(b), Dec. 19, 1970, 84 Stat. 1476, included witness service and official duty status for certain witness service in item 6322.
+1970—Pub. L. 91–563, § 1(b), Dec. 19, 1970, 84 Stat. 1476, included witness service and official duty status for certain witness service in item 6322.
 
-1968—Pub. L. 90–588, § 1(b), Oct. 17, 1968, 82 Stat. 1151, added item 6326.
+1968—Pub. L. 90–588, § 1(b), Oct. 17, 1968, 82 Stat. 1151, added item 6326.
 
-Pub. L. 90–367, § 2(b), June 29, 1968, 82 Stat. 277, added item 6312.
+Pub. L. 90–367, § 2(b), June 29, 1968, 82 Stat. 277, added item 6312.
 
-1967—Pub. L. 90–221, § 3(b), Dec. 23, 1967, 81 Stat. 671, added item 6325.
+1967—Pub. L. 90–221, § 3(b), Dec. 23, 1967, 81 Stat. 671, added item 6325.
 
-1966—Pub. L. 89–747, § 1(3), Nov. 2, 1966, 80 Stat. 1179, inserted reference to leave for crews of vessels in item 6305.
+1966—Pub. L. 89–747, § 1(3), Nov. 2, 1966, 80 Stat. 1179, inserted reference to leave for crews of vessels in item 6305.
 
 **Executive Documents**
 
@@ -161,7 +161,7 @@ J.R. Biden, Jr.
 
 ## SUBCHAPTER I—ANNUAL AND SICK LEAVE
 
-### § 6301. Definitions
+### § 6301. Definitions
 
 For the purpose of this subchapter—
 
@@ -203,18 +203,18 @@ but does not include—
 
 Notwithstanding clauses (x)–(xii) of paragraph (2), the term “employee” includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, § 6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, § 1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, § 3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§ 2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, § 207(c)(1), formerly § 207(c), June 6, 1986, 100 Stat. 595, renumbered § 207(c)(1), Pub. L. 99–556, title II, § 201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, § 13(b)(2), June 13, 1991, 105 Stat. 274; Pub. L. 116–283, div. A, title XI, § 1103(f)(1), Jan. 1, 2021, 134 Stat. 3889.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, § 6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, § 1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, § 3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§ 2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, § 207(c)(1), formerly § 207(c), June 6, 1986, 100 Stat. 595, renumbered § 207(c)(1), Pub. L. 99–556, title II, § 201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, § 13(b)(2), June 13, 1991, 105 Stat. 274; Pub. L. 116–283, div. A, title XI, § 1103(f)(1), Jan. 1, 2021, 134 Stat. 3889.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1) | 5 U.S.C. 2061(d). | Sept. 6, 1960, Pub. L. 86–707, § 402(c), 74 Stat. 800. |
-| (2) | 5 U.S.C. 2061(a), (b), (c)(1) (less last sentence). | Oct. 30, 1951, ch. 631, § 202, 65 Stat. 679. July 2, 1953, ch. 178, § 1 “(c)(1) (less last sentence)”, 67 Stat. 136. |
-|  |  | Sept. 6, 1960, Pub. L. 86–707, § 402(a), 74 Stat. 800. |
-|  |  | Aug. 21, 1964, Pub. L. 88–471, § 6(a), 78 Stat. 583. |
-|  | 5 U.S.C. 2067. | Aug. 21, 1964, Pub. L. 88–471, § 1, 78 Stat. 582. |
-|  | 5 U.S.C. 2358(a) (less applicability to the Federal Employees Pay Act of 1945, as amended). | July 17, 1959, Pub. L. 86–91, § 10(a) (less applicability to the Federal Employees Pay Act of 1945, as amended), 73 Stat. 217. |
+| (1) | 5 U.S.C. 2061(d). | Sept. 6, 1960, Pub. L. 86–707, § 402(c), 74 Stat. 800. |
+| (2) | 5 U.S.C. 2061(a), (b), (c)(1) (less last sentence). | Oct. 30, 1951, ch. 631, § 202, 65 Stat. 679. July 2, 1953, ch. 178, § 1 “(c)(1) (less last sentence)”, 67 Stat. 136. |
+|  |  | Sept. 6, 1960, Pub. L. 86–707, § 402(a), 74 Stat. 800. |
+|  |  | Aug. 21, 1964, Pub. L. 88–471, § 6(a), 78 Stat. 583. |
+|  | 5 U.S.C. 2067. | Aug. 21, 1964, Pub. L. 88–471, § 1, 78 Stat. 582. |
+|  | 5 U.S.C. 2358(a) (less applicability to the Federal Employees Pay Act of 1945, as amended). | July 17, 1959, Pub. L. 86–91, § 10(a) (less applicability to the Federal Employees Pay Act of 1945, as amended), 73 Stat. 217. |
 
 In paragraph (1), the words “when used in a geographical sense” are added for clarity.
 
@@ -240,15 +240,15 @@ Section 312 of the Foreign Service Act of 1980, referred to in text, is classifi
 
 1986—Par. (2)(B). Pub. L. 99–335 amended subpar. (B) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
-1980—Pub. L. 96–465, § 2312(a), inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
+1980—Pub. L. 96–465, § 2312(a), inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
 
-Par. (2)(xii). Pub. L. 96–465, § 2314(f)(1), substituted “a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980)” for “an officer who receives pay under section 866 of title 22”.
+Par. (2)(xii). Pub. L. 96–465, § 2314(f)(1), substituted “a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980)” for “an officer who receives pay under section 866 of title 22”.
 
 1979—Par. (2)(iv). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
 
 1978—Par. (2)(xiii). Pub. L. 95–519 added cl. (xiii).
 
-1970—Par. (2)(ii). Pub. L. 91–375 struck out “, except an hourly employee in the postal field service,” after “part-time employee”.
+1970—Par. (2)(ii). Pub. L. 91–375 struck out “, except an hourly employee in the postal field service,” after “part-time employee”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -274,23 +274,23 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–56, § 1(a), Sept. 24, 1999, 113 Stat. 407, provided that: “This Act [amending section 6327 of this title and renumbering another section 6327 of this title as section 6328] may be cited as the ‘Organ Donor Leave Act’.”
+Pub. L. 106–56, § 1(a), Sept. 24, 1999, 113 Stat. 407, provided that: “This Act [amending section 6327 of this title and renumbering another section 6327 of this title as section 6328] may be cited as the ‘Organ Donor Leave Act’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–388, § 1, Oct. 22, 1994, 108 Stat. 4079, provided that: “This Act [amending section 6307 of this title] may be cited as the ‘Federal Employees Family Friendly Leave Act’.”
+Pub. L. 103–388, § 1, Oct. 22, 1994, 108 Stat. 4079, provided that: “This Act [amending section 6307 of this title] may be cited as the ‘Federal Employees Family Friendly Leave Act’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–103, § 1, Oct. 8, 1993, 107 Stat. 1022, provided that: “This Act [amending sections 6331, 6337, 6361, 6362, and 6373 of this title, enacting provisions set out as notes under section 6331 of this title, and repealing provisions set out as a note under section 6331 of this title] may be cited as the ‘Federal Employees Leave Sharing Amendments Act of 1993’.”
+Pub. L. 103–103, § 1, Oct. 8, 1993, 107 Stat. 1022, provided that: “This Act [amending sections 6331, 6337, 6361, 6362, and 6373 of this title, enacting provisions set out as notes under section 6331 of this title, and repealing provisions set out as a note under section 6331 of this title] may be cited as the ‘Federal Employees Leave Sharing Amendments Act of 1993’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–566, § 1, Oct. 31, 1988, 102 Stat. 2834, provided that: “This Act [enacting subchapters III and IV of this chapter, amending sections 5724 and 8112 of this title, and enacting provisions set out as notes under section 6331 of this title] may be cited as the ‘Federal Employees Leave Sharing Act of 1988’.”
+Pub. L. 100–566, § 1, Oct. 31, 1988, 102 Stat. 2834, provided that: “This Act [enacting subchapters III and IV of this chapter, amending sections 5724 and 8112 of this title, and enacting provisions set out as notes under section 6331 of this title] may be cited as the ‘Federal Employees Leave Sharing Act of 1988’.”
 
 **Emergency Federal Employee Leave Fund**
 
-Pub. L. 117–2, title IV, § 4001, Mar. 11, 2021, 135 Stat. 77, provided that:
+Pub. L. 117–2, title IV, § 4001, Mar. 11, 2021, 135 Stat. 77, provided that:
 
 > **“(a) Establishment; Appropriation.—** There is established in the Treasury the Emergency Federal Employee Leave Fund (in this section referred to as the ‘Fund’), to be administered by the Director of the Office of Personnel Management, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $570,000,000, which shall be deposited into the Fund and remain available through September 30, 2022. The Fund is available for reasonable expenses incurred by the Office of Personnel Management in administering this section.
 
@@ -344,7 +344,7 @@ Pub. L. 117–2, title IV, § 4001, Mar. 11, 2021, 135 Stat. 77, provided that
 
 **Employees of the District of Columbia**
 
-Pub. L. 99–335, title II, § 207(c)(2), as added by Pub. L. 99–556, title II, § 201, Oct. 27, 1986, 100 Stat. 3135, provided that: “The amendment made by paragraph (1) [amending this section] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
+Pub. L. 99–335, title II, § 207(c)(2), as added by Pub. L. 99–556, title II, § 201, Oct. 27, 1986, 100 Stat. 3135, provided that: “The amendment made by paragraph (1) [amending this section] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
 
 **Executive Documents**
 
@@ -352,7 +352,7 @@ Pub. L. 99–335, title II, § 207(c)(2), as added by Pub. L. 99–556, title 
 
 Ex. Ord. No. 10540, June 29, 1954, 19 F.R. 3983, which related to the designation of certain officers as exempt from the Annual and Sick Leave Act of 1951, was revoked by section 2–201 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out as a note under section 1101 of this title.
 
-### § 6302. General provisions
+### § 6302. General provisions
 
 **(a)** The days of leave provided by this subchapter are days on which an employee would otherwise work and receive pay and are exclusive of holidays and nonworkdays established by Federal statute, Executive order, or administrative order.
 
@@ -368,15 +368,15 @@ Ex. Ord. No. 10540, June 29, 1954, 19 F.R. 3983, which related to the designatio
 
 **(g)** An employee who is being involuntarily separated from an agency due to a reduction in force or transfer of function under subchapter I of chapter 35 or section 3595 may elect to use annual leave to the employee’s credit to remain on the agency’s rolls after the date the employee would otherwise have been separated if, and only to the extent that, such additional time in a pay status will enable the employee to qualify for an immediate annuity under section 8336, 8412, 8414, or to qualify to carry health benefits coverage into retirement under section 8905(b).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 93–181, § 4, Dec. 14, 1973, 87 Stat. 706; Pub. L. 95–519, § 2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 634], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–277, div. A, § 101(h) [title VI, § 653], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 93–181, § 4, Dec. 14, 1973, 87 Stat. 706; Pub. L. 95–519, § 2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 634], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–277, div. A, § 101(h) [title VI, § 653], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a)–(c) | 5 U.S.C. 2064 (less (d), (e)). | Oct. 30, 1951, ch. 631, § 205 (less (d)), 65 Stat. 681. |
-| (d) | 5 U.S.C. 2062(h). | Oct. 30, 1951, ch. 631, § 203(h), 65 Stat. 681. |
-| (e) | 5 U.S.C. 2061a(b). | July 2, 1953, ch. 178, § 2(b), 67 Stat. 137. |
+| (a)–(c) | 5 U.S.C. 2064 (less (d), (e)). | Oct. 30, 1951, ch. 631, § 205 (less (d)), 65 Stat. 681. |
+| (d) | 5 U.S.C. 2062(h). | Oct. 30, 1951, ch. 631, § 203(h), 65 Stat. 681. |
+| (e) | 5 U.S.C. 2061a(b). | July 2, 1953, ch. 178, § 2(b), 67 Stat. 137. |
 
 In subsection (d), the words “the head of the agency concerned” are substituted for “the heads of the various departments and independent establishments”.
 
@@ -402,23 +402,23 @@ Amendment by Pub. L. 95–519 effective beginning on first day of first applicab
 
 **Temporary Authority To Transfer Leave**
 
-Pub. L. 101–237, title II, § 206(b)(2), Dec. 18, 1989, 103 Stat. 2068, provided that: “The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 [Pub. L. 100–440, set out below], to operate a leave-transfer program for employees subject to section 4108 of title 38, United States Code, is extended until the programs provided for in subsection (e) of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990.”
+Pub. L. 101–237, title II, § 206(b)(2), Dec. 18, 1989, 103 Stat. 2068, provided that: “The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 [Pub. L. 100–440, set out below], to operate a leave-transfer program for employees subject to section 4108 of title 38, United States Code, is extended until the programs provided for in subsection (e) of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990.”
 
 Similar provisions were contained in the following acts:
 
-Pub. L. 101–144, title V, § 518, Nov. 9, 1989, 103 Stat. 874.
+Pub. L. 101–144, title V, § 518, Nov. 9, 1989, 103 Stat. 874.
 
-Pub. L. 101–110, § 1(d), Oct. 6, 1989, 103 Stat. 682.
+Pub. L. 101–110, § 1(d), Oct. 6, 1989, 103 Stat. 682.
 
-Pub. L. 100–440, title VI, § 618, Sept. 22, 1988, 102 Stat. 1755, provided that: “In order to ensure that the experimental use of voluntary leave transfers established under Public Laws 99–500, 99–591 [Pub. L. 99–500, § 101(m) [title VII], Oct. 18, 1986, 100 Stat. 1783–308, 1783–334, and Pub. L. 99–591, § 101(m) [title VII], Oct. 30, 1986, 100 Stat. 3341–308, 3341–334], and 100–202 [Pub. L. 100–202, § 101(m) [title VI, § 625], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430] may continue and may cover additional employees in fiscal year 1989, the Office of Personnel Management may continue to operate by regulation, notwithstanding chapter 63 of title 5, United States Code, a program under which the unused accrued annual leave of officers or employees of the Federal Government may be transferred for use by other officers or employees who need such leave due to a personal emergency as defined in the regulations. The Office may provide by regulation for such exceptions from the provisions of section 7351 of title 5 as the Office may determine appropriate for the transfer of leave under this section. The Veterans’ Administration may operate a similar program for employees subject to section 4108 of title 38, United States Code. The programs operated under this section shall expire at the end of fiscal year 1989, but any leave that has been transferred to an officer or employee under the programs shall remain available for use until the personal emergency has ended, and any remaining unused transferred leave shall, to the extent administratively feasible, be restored to the leave accounts of the officers or employees from whose accounts it was originally transferred.”
+Pub. L. 100–440, title VI, § 618, Sept. 22, 1988, 102 Stat. 1755, provided that: “In order to ensure that the experimental use of voluntary leave transfers established under Public Laws 99–500, 99–591 [Pub. L. 99–500, § 101(m) [title VII], Oct. 18, 1986, 100 Stat. 1783–308, 1783–334, and Pub. L. 99–591, § 101(m) [title VII], Oct. 30, 1986, 100 Stat. 3341–308, 3341–334], and 100–202 [Pub. L. 100–202, § 101(m) [title VI, § 625], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430] may continue and may cover additional employees in fiscal year 1989, the Office of Personnel Management may continue to operate by regulation, notwithstanding chapter 63 of title 5, United States Code, a program under which the unused accrued annual leave of officers or employees of the Federal Government may be transferred for use by other officers or employees who need such leave due to a personal emergency as defined in the regulations. The Office may provide by regulation for such exceptions from the provisions of section 7351 of title 5 as the Office may determine appropriate for the transfer of leave under this section. The Veterans’ Administration may operate a similar program for employees subject to section 4108 of title 38, United States Code. The programs operated under this section shall expire at the end of fiscal year 1989, but any leave that has been transferred to an officer or employee under the programs shall remain available for use until the personal emergency has ended, and any remaining unused transferred leave shall, to the extent administratively feasible, be restored to the leave accounts of the officers or employees from whose accounts it was originally transferred.”
 
 Similar provisions were contained in the following prior appropriations act:
 
-Pub. L. 100–202, § 101(m) [title VI, § 625], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430.
+Pub. L. 100–202, § 101(m) [title VI, § 625], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430.
 
 For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out section 618 of Pub. L. 100–440, set out above, during the period Dec. 1, 1989, to Dec. 18, 1989, see section 604 of Pub. L. 101–237, set out as a note under section 1720B of Title 38, Veterans’ Benefits. Similar provisions for the period Oct. 1, 1989, to Oct. 6, 1989, were contained in section 3(b) of Pub. L. 101–110, set out as a note under section 1720B of Title 38.
 
-### § 6303. Annual leave; accrual
+### § 6303. Annual leave; accrual
 
 **(a)** An employee is entitled to annual leave with pay which accrues as follows—
 
@@ -482,16 +482,16 @@ This subsection does not apply to more than one period of leave in a prescribed 
 
 **(2)** a pay system equivalent to either of the foregoing, as determined by the Office of Personnel Management.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 518; Pub. L. 93–181, § 2, Dec. 14, 1973, 87 Stat. 705; Pub. L. 99–335, title II, § 207(d), June 6, 1986, 100 Stat. 595; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–378, § 2(52), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 108–411, title II, § 202(a), (b), Oct. 30, 2004, 118 Stat. 2312.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 518; Pub. L. 93–181, § 2, Dec. 14, 1973, 87 Stat. 705; Pub. L. 99–335, title II, § 207(d), June 6, 1986, 100 Stat. 595; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–378, § 2(52), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 108–411, title II, § 202(a), (b), Oct. 30, 2004, 118 Stat. 2312.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2062(a), (b), (e), (i). | Oct. 30, 1951, ch. 631, § 203(a), (b), (e), (i), 65 Stat. 679–681. |
-|  |  | Sept. 6, 1960, Pub. L. 86–707, § 401 “(e)”, 74 Stat. 799. |
-|  |  | Aug. 19, 1964, Pub. L. 88–448, § 203, 78 Stat. 487. |
-|  | 5 U.S.C. 3101 (as applicable to 5 U.S.C. 2062(a)). | Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 484. |
+|  | 5 U.S.C. 2062(a), (b), (e), (i). | Oct. 30, 1951, ch. 631, § 203(a), (b), (e), (i), 65 Stat. 679–681. |
+|  |  | Sept. 6, 1960, Pub. L. 86–707, § 401 “(e)”, 74 Stat. 799. |
+|  |  | Aug. 19, 1964, Pub. L. 88–448, § 203, 78 Stat. 487. |
+|  | 5 U.S.C. 3101 (as applicable to 5 U.S.C. 2062(a)). | Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 484. |
 
 In subsection (a), the words “Except as otherwise provided in this subsection” are omitted as unnecessary in view of the specific inclusion of the exception in the third sentence. The words “for the purposes of this subsection” are omitted as surplusage. The reference to “section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title” is substituted for “section 3 of the Civil Service Retirement Act for the purposes of an annuity under such Act to reflect the codification of that Act in this title. In paragraph (B), the words “on November 30, 1964, he was employed in a position to which this subchapter applies and thereafter he continued to be so employed” are substituted for “immediately prior to the effective date of this sentence he was employed in a civilian office to which this Act applies and, on and after such date, he continued to be employed in any such office”.
 
@@ -505,11 +505,11 @@ The date of the enactment of this subsection, referred to in subsec. (e)(1), is 
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–411, § 202(a)(2), inserted “, and for all service which is creditable by virtue of subsection (e)” before period at end of second sentence.
+2004—Subsec. (a). Pub. L. 108–411, § 202(a)(2), inserted “, and for all service which is creditable by virtue of subsection (e)” before period at end of second sentence.
 
-Subsec. (e). Pub. L. 108–411, § 202(a)(1), added subsec. (e).
+Subsec. (e). Pub. L. 108–411, § 202(a)(1), added subsec. (e).
 
-Subsec. (f). Pub. L. 108–411, § 202(b), added subsec. (f).
+Subsec. (f). Pub. L. 108–411, § 202(b), added subsec. (f).
 
 1992—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
 
@@ -523,11 +523,11 @@ Subsec. (f). Pub. L. 108–411, § 202(b), added subsec. (f).
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–411, title II, § 202(c), Oct. 30, 2004, 118 Stat. 2312, provided that: “None of the amendments made by subsection (a) [amending this section] shall apply in the case of any employee holding a position pursuant to an appointment made before the effective date of the regulations implementing such amendments.”
+Pub. L. 108–411, title II, § 202(c), Oct. 30, 2004, 118 Stat. 2312, provided that: “None of the amendments made by subsection (a) [amending this section] shall apply in the case of any employee holding a position pursuant to an appointment made before the effective date of the regulations implementing such amendments.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–378, § 9, Oct. 2, 1992, 106 Stat. 1360, provided that:
+Pub. L. 102–378, § 9, Oct. 2, 1992, 106 Stat. 1360, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this section, this Act and the amendments made by this Act [see Tables for classification] shall take effect as of the date of enactment of this Act [Oct. 2, 1992].
 
@@ -565,7 +565,7 @@ Pub. L. 102–378, § 9, Oct. 2, 1992, 106 Stat. 1360, provided that:
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
-### § 6304. Annual leave; accumulation
+### § 6304. Annual leave; accumulation
 
 **(a)** Except as provided by subsections (b), (d), (e), (f), and (g) of this section, annual leave provided by section 6303 of this title, which is not used by an employee, accumulates for use in succeeding years until it totals not more than 30 days at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year.
 
@@ -649,13 +649,13 @@ shall be restored to the employee.
 
 **(G)** a position designated under section 1607(a) of title 10 as an Intelligence Senior Level position; or
 
-**(H)**  1
+**(H)** 1
 
-<sup>1</sup>  So in original. Two subpars. (H) have been enacted.
+<sup>1</sup> So in original. Two subpars. (H) have been enacted.
 
 a position in the Library of Congress the compensation for which is set at a rate equal to the annual rate of basic pay payable for positions at level III of the Executive Schedule under section 5314.
 
-**(H)**  <sup>1</sup> a position in the United States Secret Service Uniformed Division at the rank of Deputy Chief, Assistant Chief, or Chief.
+**(H)** <sup>1</sup> a position in the United States Secret Service Uniformed Division at the rank of Deputy Chief, Assistant Chief, or Chief.
 
 **(2)** For purposes of applying any limitation on accumulation under this section with respect to any annual leave described in paragraph (1)—
 
@@ -663,17 +663,17 @@ a position in the Library of Congress the compensation for which is set at a rat
 
 **(B)** “45 days” in subsection (b) shall be deemed to read “90 days”.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, § 3, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–454, title IV, § 410, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, § 2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, § 2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, § 802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, § 2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, § 2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, § 4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, § 341(c), div. B, title XXVIII, § 2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, § 201(a), Oct. 13, 1994, 108 Stat. 3411; Pub. L. 105–261, div. A, title XI, § 1105, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 106–65, div. A, title XI, § 1103(a), Oct. 5, 1999, 113 Stat. 776; Pub. L. 110–181, div. A, title XI, § 1112, Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–68, div. A, title I, § 1404(1)–(3), Oct. 1, 2009, 123 Stat. 2038; Pub. L. 111–282, § 2(b), Oct. 15, 2010, 124 Stat. 3038.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, § 3, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–454, title IV, § 410, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, § 2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, § 2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, § 802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, § 2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, § 2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, § 4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, § 341(c), div. B, title XXVIII, § 2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, § 201(a), Oct. 13, 1994, 108 Stat. 3411; Pub. L. 105–261, div. A, title XI, § 1105, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 106–65, div. A, title XI, § 1103(a), Oct. 5, 1999, 113 Stat. 776; Pub. L. 110–181, div. A, title XI, § 1112, Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–68, div. A, title I, § 1404(1)–(3), Oct. 1, 2009, 123 Stat. 2038; Pub. L. 111–282, § 2(b), Oct. 15, 2010, 124 Stat. 3038.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 2062(c). | Oct. 30, 1951, ch. 631, § 203(c), 65 Stat. 680. July 2, 1953, ch. 178, § 3(a), 67 Stat. 137. |
-| (b) | 5 U.S.C. 2602(d). | Oct. 30, 1951, ch. 631, § 203(d), 65 Stat. 680. July 2, 1953, ch. 178, § 3(b), 67 Stat. 137. |
-|  |  | Sept. 6, 1960, Pub. L. 86–707, § 401 “(d)”, 74 Stat. 799. |
-| (c) | 5 U.S.C. 2066(a). | Oct. 30, 1951, ch. 631, § 208(a), 65 Stat. 682. |
-|  |  | July 2, 1953, ch. 178, § 3(c), 67 Stat. 137. |
+| (a) | 5 U.S.C. 2062(c). | Oct. 30, 1951, ch. 631, § 203(c), 65 Stat. 680. July 2, 1953, ch. 178, § 3(a), 67 Stat. 137. |
+| (b) | 5 U.S.C. 2602(d). | Oct. 30, 1951, ch. 631, § 203(d), 65 Stat. 680. July 2, 1953, ch. 178, § 3(b), 67 Stat. 137. |
+|  |  | Sept. 6, 1960, Pub. L. 86–707, § 401 “(d)”, 74 Stat. 799. |
+| (c) | 5 U.S.C. 2066(a). | Oct. 30, 1951, ch. 631, § 208(a), 65 Stat. 682. |
+|  |  | July 2, 1953, ch. 178, § 3(c), 67 Stat. 137. |
 
 The words “Except as provided by subsection (b) of this section” are added to subsection (a), and the words “Notwithstanding the provisions of subsection (c)” in former section 2062(d) are omitted as unnecessary because of the exception added to subsection (a).
 
@@ -691,11 +691,11 @@ Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 **Amendments**
 
-2010—Subsec. (f)(1)(F). Pub. L. 111–282, § 2(b)(1), which directed amendment of subpar. (F) by striking “or” after the semicolon, could not be executed because the word “or” did not appear.
+2010—Subsec. (f)(1)(F). Pub. L. 111–282, § 2(b)(1), which directed amendment of subpar. (F) by striking “or” after the semicolon, could not be executed because the word “or” did not appear.
 
-Subsec. (f)(1)(G). Pub. L. 111–282, § 2(b)(2), which directed substitution of “; or” for the period, could not be executed because there was no period.
+Subsec. (f)(1)(G). Pub. L. 111–282, § 2(b)(2), which directed substitution of “; or” for the period, could not be executed because there was no period.
 
-Subsec. (f)(1)(H). Pub. L. 111–282, § 2(b)(3), added subpar. (H) relating to a position in the United States Secret Service Uniformed Division.
+Subsec. (f)(1)(H). Pub. L. 111–282, § 2(b)(3), added subpar. (H) relating to a position in the United States Secret Service Uniformed Division.
 
 2009—Subsec. (f)(1)(H). Pub. L. 111–68 added subpar. (H).
 
@@ -705,9 +705,9 @@ Subsec. (f)(1)(H). Pub. L. 111–282, § 2(b)(3), added subpar. (H) relating t
 
 1998—Subsec. (d)(3)(A). Pub. L. 105–261 inserted “the closure of an installation of the Department of Defense in the Republic of Panama in accordance with the Panama Canal Treaty of 1977,” after “2687 note) during any period,”.
 
-1994—Subsec. (d)(3). Pub. L. 103–337, § 2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
+1994—Subsec. (d)(3). Pub. L. 103–337, § 2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
 
-Pub. L. 103–337, § 341(c), substituted “the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
+Pub. L. 103–337, § 341(c), substituted “the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
 
 Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
 
@@ -731,21 +731,21 @@ Subsec. (e). Pub. L. 102–378 substituted “date” for “date of” in last 
 
 Subsec. (g). Pub. L. 97–89 struck out subsec. (g). Provisions formerly set out in subsec. (g), relating to annual leave accrued by members of the Senior Foreign service, were incorporated in subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–465, § 2312(b)(1), inserted reference to subsec. (g).
+1980—Subsec. (a). Pub. L. 96–465, § 2312(b)(1), inserted reference to subsec. (g).
 
-Subsec. (g). Pub. L. 96–465, § 2312(b)(2), added subsec. (g).
+Subsec. (g). Pub. L. 96–465, § 2312(b)(2), added subsec. (g).
 
 1979—Subsec. (e). Pub. L. 96–54 substituted “rate of basic pay” for “salary rate”.
 
-1978—Subsec. (a). Pub. L. 95–454, § 410(1), inserted reference to subsec. (f).
+1978—Subsec. (a). Pub. L. 95–454, § 410(1), inserted reference to subsec. (f).
 
-Subsec. (d)(2). Pub. L. 95–454, § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+Subsec. (d)(2). Pub. L. 95–454, § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-Subsec. (f). Pub. L. 95–454, § 410(2), added subsec. (f).
+Subsec. (f). Pub. L. 95–454, § 410(2), added subsec. (f).
 
-1973—Subsec. (a). Pub. L. 93–181, § 3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
+1973—Subsec. (a). Pub. L. 93–181, § 3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
 
-Subsecs. (d), (e). Pub. L. 93–181, § 3(2), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 93–181, § 3(2), added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -755,13 +755,13 @@ Amendment by Pub. L. 111–282 effective on first day of first pay period which 
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–68, div. A, title I, § 1404(4), Oct. 1, 2009, 123 Stat. 2038, provided that: “The amendments made by subsection (a) [probably means pars. (1) to (3), which amended this section] shall apply with respect to annual leave accrued during pay periods beginning after the date of the enactment of this Act [Oct. 1, 2009].”
+Pub. L. 111–68, div. A, title I, § 1404(4), Oct. 1, 2009, 123 Stat. 2038, provided that: “The amendments made by subsection (a) [probably means pars. (1) to (3), which amended this section] shall apply with respect to annual leave accrued during pay periods beginning after the date of the enactment of this Act [Oct. 1, 2009].”
 
 **Effective Date of 1994 Amendments**
 
-Pub. L. 103–356, title II, § 201(a), Oct. 13, 1994, 108 Stat. 3411, provided that the amendment made by that section is effective on the first day of the first applicable pay period beginning after Oct. 13, 1994.
+Pub. L. 103–356, title II, § 201(a), Oct. 13, 1994, 108 Stat. 3411, provided that the amendment made by that section is effective on the first day of the first applicable pay period beginning after Oct. 13, 1994.
 
-Pub. L. 103–337, div. B, title XXVIII, § 2816(b), Oct. 5, 1994, 108 Stat. 3056, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to the restoration of annual leave of employees at military installations undergoing realignment if such leave is lost by operation of section 6304 of title 5, United States Code, on or after the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. B, title XXVIII, § 2816(b), Oct. 5, 1994, 108 Stat. 3056, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to the restoration of annual leave of employees at military installations undergoing realignment if such leave is lost by operation of section 6304 of title 5, United States Code, on or after the date of the enactment of this Act [Oct. 5, 1994].”
 
 **Effective Date of 1981 Amendment**
 
@@ -783,7 +783,7 @@ Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after 
 
 **Temporary Increase in Limitation on Accumulation of Annual Leave for Executive Branch Employees**
 
-Pub. L. 116–283, div. A, title XI, § 1111, Jan. 1, 2021, 134 Stat. 3893, provided that:
+Pub. L. 116–283, div. A, title XI, § 1111, Jan. 1, 2021, 134 Stat. 3893, provided that:
 
 > **“(a) In General.—** At the discretion of the Director of the Office of Personnel Management, annual leave provided to an Executive branch employee may accumulate for use in leave year 2021 in an amount equal to 125% of the maximum amount of annual leave permitted, but for this subsection, to accumulate for use in that leave year under the leave system covering such employee.
 
@@ -807,7 +807,7 @@ Pub. L. 116–283, div. A, title XI, § 1111, Jan. 1, 2021, 134 Stat. 3893, pr
 
 **Restoration of Annual Leave for Certain Department of Defense Employees**
 
-Pub. L. 108–136, div. A, title XI, § 1114, Nov. 24, 2003, 117 Stat. 1635, provided that:
+Pub. L. 108–136, div. A, title XI, § 1114, Nov. 24, 2003, 117 Stat. 1635, provided that:
 
 > **“(a) Restoration of Annual Leave.—** During the period October 1, 1992, through December 31, 1997, all employees transferring from a closing or realigning Department of Defense installation or activity as defined under section 6304(d)(3) of title 5, United States Code, to another Department of Defense installation or activity—
 
@@ -827,15 +827,15 @@ Pub. L. 108–136, div. A, title XI, § 1114, Nov. 24, 2003, 117 Stat. 1635, p
 
 **Use of Excess Leave**
 
-Pub. L. 103–356, title II, § 201(b), Oct. 13, 1994, 108 Stat. 3411, provided that: “Notwithstanding the amendment made by subsection (a) [amending this section], in the case of an employee who, on the effective date of subsection (a) [see Effective Date of 1994 Amendments note above], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee’s credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
+Pub. L. 103–356, title II, § 201(b), Oct. 13, 1994, 108 Stat. 3411, provided that: “Notwithstanding the amendment made by subsection (a) [amending this section], in the case of an employee who, on the effective date of subsection (a) [see Effective Date of 1994 Amendments note above], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee’s credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
 
 **Lump-Sum Payment for Accrued Annual Leave to Former Employees**
 
-Pub. L. 93–181, § 5, Dec. 14, 1973, 87 Stat. 706, provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
+Pub. L. 93–181, § 5, Dec. 14, 1973, 87 Stat. 706, provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
 
-Pub. L. 93–181, § 6, Dec. 14, 1973, 87 Stat. 706, provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of section 5551 of this title or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
+Pub. L. 93–181, § 6, Dec. 14, 1973, 87 Stat. 706, provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of section 5551 of this title or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
 
-### § 6305. Home leave; leave for Chiefs of Missions; leave for crews of vessels
+### § 6305. Home leave; leave for Chiefs of Missions; leave for crews of vessels
 
 **(a)** After 24 months of continuous service outside the United States (or after a shorter period of such service if the employee’s assignment is terminated for the convenience of the Government), an employee may be granted leave of absence, under regulations of the President, at a rate not to exceed 1 week for each 4 months of that service without regard to other leave provided by this subchapter. Leave so granted—
 
@@ -857,15 +857,15 @@ Pub. L. 93–181, § 6, Dec. 14, 1973, 87 Stat. 706, provided that where forme
 
 **(d)** With respect to an officer, crewmember, or other employee of the Department of Defense serving aboard an oceangoing vessel on an extended voyage, the first sentence in the matter preceding paragraph (1) of subsection (c) of this section shall be applied by substituting “7 calendar days” for “30 calendar days”.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 89–747, § 1(1), (2), Nov. 2, 1966, 80 Stat. 1179; Pub. L. 90–623, § 1(16), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §§ 2312(c), 2314(f)(2), Oct. 17, 1980, 94 Stat. 2167, 2168; Pub. L. 106–398, § 1 [[div. A], title XI, § 1133], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 118–31, div. A, title XI, § 1110, Dec. 22, 2023, 137 Stat. 428.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 89–747, § 1(1), (2), Nov. 2, 1966, 80 Stat. 1179; Pub. L. 90–623, § 1(16), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §§ 2312(c), 2314(f)(2), Oct. 17, 1980, 94 Stat. 2167, 2168; Pub. L. 106–398, § 1 [[div. A], title XI, § 1133], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 118–31, div. A, title XI, § 1110, Dec. 22, 2023, 137 Stat. 428.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 2062(f). | Oct. 30, 1951, ch. 631, § 203(f), 65 Stat. 680. |
-|  |  | Sept. 6, 1960, Pub. L. 86–707, § 401 “(f)”, 74 Stat. 799. |
-| (b) | 5 U.S.C. 2061(c)(2). | July 2, 1953, ch. 178, § 1 “(c)(2)”, 67 Stat. 136. |
+| (a) | 5 U.S.C. 2062(f). | Oct. 30, 1951, ch. 631, § 203(f), 65 Stat. 680. |
+|  |  | Sept. 6, 1960, Pub. L. 86–707, § 401 “(f)”, 74 Stat. 799. |
+| (b) | 5 U.S.C. 2061(c)(2). | July 2, 1953, ch. 178, § 1 “(c)(2)”, 67 Stat. 136. |
 
 The words “in his discretion” are omitted as unnecessary in view of the permissive grant of authority.
 
@@ -879,9 +879,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2000—Subsec. (c)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “may not be made the basis for a lump-sum payment; and”.
 
-1980—Subsec. (a). Pub. L. 96–465, § 2312(c), inserted “(or after a shorter period of such service if the employee’s assignment is terminated for the convenience of the Government)” after “outside the United States”.
+1980—Subsec. (a). Pub. L. 96–465, § 2312(c), inserted “(or after a shorter period of such service if the employee’s assignment is terminated for the convenience of the Government)” after “outside the United States”.
 
-Subsec. (b). Pub. L. 96–465, § 2314(f)(2), substituted “a chief of mission” for “an officer” after “leave of absence to”.
+Subsec. (b). Pub. L. 96–465, § 2314(f)(2), substituted “a chief of mission” for “an officer” after “leave of absence to”.
 
 1979—Subsec. (c)(3). Pub. L. 96–54 substituted “Office” for “Commission”.
 
@@ -923,21 +923,21 @@ Ex. Ord. No. 10471, July 17, 1953, 18 F.R. 4231, as amended by Ex. Ord. No. 1229
 
 \2. This order shall be effective as of July 5, 1953.
 
-### § 6306. Annual leave; refund of lump-sum payment; recredit of annual leave
+### § 6306. Annual leave; refund of lump-sum payment; recredit of annual leave
 
 **(a)** When an individual who received a lump-sum payment for leave under section 5551 of this title is reemployed before the end of the period covered by the lump-sum payment in or under the Government of the United States or the government of the District of Columbia, except in a position excepted from this subchapter by section 6301(2)(ii), (iii), (vi), or (vii) of this title, he shall refund to the employing agency an amount equal to the pay covering the period between the date of reemployment and the expiration of the lump-sum period.
 
 **(b)** An amount refunded under subsection (a) of this section shall be deposited in the Treasury of the United States to the credit of the employing agency. When an individual is reemployed under the same leave system, an amount of leave equal to the leave represented by the refund shall be recredited to him in the employing agency. When an individual is reemployed under a different leave system, an amount of leave equal to the leave represented by the refund shall be recredited to him in the employing agency on an adjusted basis under regulations prescribed by the Office of Personnel Management. When an individual is reemployed in a position excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, an amount of leave equal to the leave represented by the refund is deemed, on separation from the service, death, or transfer to another position in the service, to have remained to his credit.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–519, § 2, Oct. 25, 1978, 92 Stat. 1819.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–519, § 2, Oct. 25, 1978, 92 Stat. 1819.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 61b (3d–5th sentences). | Dec. 21, 1944, ch. 632, § 1 (1st proviso and so much of last sentence as precedes 2d proviso), 58 Stat. 845. |
-|  |  | July 2, 1953, ch. 178, § 4(a) (2d–4th sentences), 67 Stat. 137. |
-|  |  | Aug. 18, 1959, Pub. L. 86–168, § 202(e), 73 Stat. 389. |
+|  | 5 U.S.C. 61b (3d–5th sentences). | Dec. 21, 1944, ch. 632, § 1 (1st proviso and so much of last sentence as precedes 2d proviso), 58 Stat. 845. |
+|  |  | July 2, 1953, ch. 178, § 4(a) (2d–4th sentences), 67 Stat. 137. |
+|  |  | Aug. 18, 1959, Pub. L. 86–168, § 202(e), 73 Stat. 389. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -957,7 +957,7 @@ Amendment by Pub. L. 95–519 effective beginning on first day of first applicab
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 6307. Sick leave; accrual and accumulation
+### § 6307. Sick leave; accrual and accumulation
 
 **(a)** An employee is entitled to sick leave with pay which accrues on the basis of one-half day for each full biweekly pay period, except that sick leave with pay accrues to a member of the Firefighting Division of the Fire Department of the District of Columbia on the basis of two-fifths of a day for each full biweekly pay period.
 
@@ -967,9 +967,9 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(d)** When required by the exigencies of the situation, a maximum of 30 days sick leave with pay may be advanced for serious disability or ailment, or for purposes relating to the adoption of a child, except that a maximum of 24 days sick leave with pay may be advanced to a member of the Firefighting Division of the Fire Department of the District of Columbia.
 
-**(d)** (1) 1
+**(d)** (1) 1
 
-<sup>1</sup>  So in original. Probably should be “(e)(1)”.
+<sup>1</sup> So in original. Probably should be “(e)(1)”.
 
 For the purpose of this subsection, the term “family member” shall have such meaning as the Office of Personnel Management shall by regulation prescribe, except that such term shall include any individual who meets the definition given that term, for purposes of the leave transfer program under subchapter III, under regulations prescribed by the Office (as in effect on January 1, 1993).
 
@@ -995,13 +995,13 @@ For the purpose of this subsection, the term “family member” shall have such
 
 **(B)** Not later than 6 months before the date on which this subsection is scheduled to cease to be effective, the Office shall submit a report to Congress in which it shall evaluate the operation of this subsection and make recommendations as to whether or not this subsection should be continued beyond such date.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 103–329, title VI, § 629(b)(1), Sept. 30, 1994, 108 Stat. 2423; Pub. L. 103–388, § 2, Oct. 22, 1994, 108 Stat. 4079.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 103–329, title VI, § 629(b)(1), Sept. 30, 1994, 108 Stat. 2423; Pub. L. 103–388, § 2, Oct. 22, 1994, 108 Stat. 4079.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2063. | Oct. 30, 1951, ch. 631, § 204, 65 Stat. 681. Aug. 21, 1964, Pub. L. 88–471, § 6(b), (c), 78 Stat. 583. |
+|  | 5 U.S.C. 2063. | Oct. 30, 1951, ch. 631, § 204, 65 Stat. 681. Aug. 21, 1964, Pub. L. 88–471, § 6(b), (c), 78 Stat. 583. |
 
 The word “officer”, referring to an officer of the Firefighting Division, is omitted as covered by the words “a member of the Firefighting Division”.
 
@@ -1017,17 +1017,17 @@ The date of the enactment of this subsection, referred to in subsec. (d)(4)(A), 
 
 **Amendments**
 
-1994—Subsec. (c). Pub. L. 103–329, § 629(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+1994—Subsec. (c). Pub. L. 103–329, § 629(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 103–388 added subsec. (d) relating to use of sick leave for purposes relating to family member.
 
-Pub. L. 103–329, § 629(b)(1)(A), (C), redesignated subsec. (c) as (d) and inserted “or for purposes relating to the adoption of a child,” after “ailment,”.
+Pub. L. 103–329, § 629(b)(1)(A), (C), redesignated subsec. (c) as (d) and inserted “or for purposes relating to the adoption of a child,” after “ailment,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 103–329, title VI, § 629(b)(3), Sept. 30, 1994, 108 Stat. 2423, provided that:
+Pub. L. 103–329, title VI, § 629(b)(3), Sept. 30, 1994, 108 Stat. 2423, provided that:
 
 > **“(3)**
 
@@ -1045,23 +1045,23 @@ Pub. L. 103–329, title VI, § 629(b)(3), Sept. 30, 1994, 108 Stat. 2423, pro
 
 **Adoptions During Fiscal Year 1991**
 
-Pub. L. 101–509, title V, § 536, Nov. 5, 1990, 104 Stat. 1470, for fiscal year 1991, authorized sick leave provided by section 6307 of this title to be approved for purposes related to the adoption of a child.
+Pub. L. 101–509, title V, § 536, Nov. 5, 1990, 104 Stat. 1470, for fiscal year 1991, authorized sick leave provided by section 6307 of this title to be approved for purposes related to the adoption of a child.
 
-### § 6308. Transfers between positions under different leave systems
+### § 6308. Transfers between positions under different leave systems
 
 **(a)** The annual and sick leave to the credit of an employee who transfers between positions under different leave systems without a break in service shall be transferred to his credit in the employing agency on an adjusted basis under regulations prescribed by the Office of Personnel Management, unless the individual is excepted from this subchapter by section 6301(2)(ii), (iii), (vi), or (vii) of this title. However, when a former member receiving a retirement annuity under sections 521–535 of title 4, District of Columbia Code, is reemployed in a position to which this subchapter applies, his sick leave balance may not be recredited to his account on the later reemployment.
 
 **(b)** The annual leave, sick leave, and home leave to the credit of a nonappropriated fund employee of the Department of Defense or the Coast Guard described in section 2105(c) who moves without a break in service of more than 3 days to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter shall be transferred to the employee’s credit. The annual leave, sick leave, and home leave to the credit of an employee of the Department of Defense or the Coast Guard who is subject to this subchapter and who moves without a break in service of more than 3 days to a position under a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c), shall be transferred to the employee’s credit under the nonappropriated fund instrumentality. The Secretary of Defense or the Secretary of Homeland Security, as appropriate, may provide for a transfer of funds in an amount equal to the value of the transferred annual leave to compensate the gaining entity for the cost of a transfer of annual leave under this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 521; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, § 7202(h), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 109–241, title IX, § 902(a)(3), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 521; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, § 7202(h), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 109–241, title IX, § 902(a)(3), July 11, 2006, 120 Stat. 566.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2064(e). | July 2, 1953, ch. 178, § 4(b), 67 Stat. 138. |
-|  |  | Aug. 18, 1959, Pub. L. 86–168, § 202(e), 73 Stat. 389. |
-|  |  | Aug. 21, 1964, Pub. L. 88–471, § 6(d), 78 Stat. 583. |
+|  | 5 U.S.C. 2064(e). | July 2, 1953, ch. 178, § 4(b), 67 Stat. 138. |
+|  |  | Aug. 18, 1959, Pub. L. 86–168, § 202(e), 73 Stat. 389. |
+|  |  | Aug. 21, 1964, Pub. L. 88–471, § 6(d), 78 Stat. 583. |
 
 In the last sentence, the word “officer” is omitted as covered by the word “member”, and the words “sections 521–535 of title 4, District of Columbia Code” are substituted for “the Policemen and Firemen’s Retirement and Disability Act, as amended”.
 
@@ -1093,13 +1093,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Election of Leave or Lump-Sum Payment for Certain Employees**
 
-Pub. L. 102–484, div. A, title X, § 1077, Oct. 23, 1992, 106 Stat. 2512, authorized an employee referred to in section 6308(b) of this title, who made an employment move described in such subsection after Dec. 31, 1986, and before Apr. 16, 1991, to elect to repay the lump-sum payment received based on such employment move in lieu of annual leave and have the annual leave recredited to the employee’s leave account, or to keep the lump-sum payment in lieu of that annual leave.
+Pub. L. 102–484, div. A, title X, § 1077, Oct. 23, 1992, 106 Stat. 2512, authorized an employee referred to in section 6308(b) of this title, who made an employment move described in such subsection after Dec. 31, 1986, and before Apr. 16, 1991, to elect to repay the lump-sum payment received based on such employment move in lieu of annual leave and have the annual leave recredited to the employee’s leave account, or to keep the lump-sum payment in lieu of that annual leave.
 
-### [§ 6309. Repealed. Pub. L. 94–183, § 2(26), Dec. 31, 1975, 89 Stat. 1058]
+### [§ 6309. Repealed. Pub. L. 94–183, § 2(26), Dec. 31, 1975, 89 Stat. 1058]
 
 Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 521, related to authorized leave of absence of a rural postal carrier which occurred at beginning, during, or at end of a period of annual or sick leave.
 
-### § 6310. Leave of absence; aliens
+### § 6310. Leave of absence; aliens
 
 The head of the agency concerned may grant leave of absence with pay, not in excess of the amount of annual and sick leave allowable to citizen employees under this subchapter, to alien employees who occupy positions outside the United States.
 
@@ -1109,23 +1109,23 @@ The head of the agency concerned may grant leave of absence with pay, not in exc
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2062(g). | Oct. 30, 1951, ch. 631, § 203 (g), 65 Stat. 681. Sept. 6, 1960, Pub. L. 86–707. § 402(b), 74 Stat. 800. |
+|  | 5 U.S.C. 2062(g). | Oct. 30, 1951, ch. 631, § 203 (g), 65 Stat. 681. Sept. 6, 1960, Pub. L. 86–707. § 402(b), 74 Stat. 800. |
 
 The words “head of the agency concerned” are substituted for “head of the department or agency concerned”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 6311. Regulations
+### § 6311. Regulations
 
 The Office of Personnel Management may prescribe regulations necessary for the administration of this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 521; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 521; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2065. | Oct. 30, 1951, ch. 631, § 206, 65 Stat. 681. |
+|  | 5 U.S.C. 2065. | Oct. 30, 1951, ch. 631, § 206, 65 Stat. 681. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -1141,7 +1141,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 6312. Accrual and accumulation for former ASCS county office and nonappropriated fund employees
+### § 6312. Accrual and accumulation for former ASCS county office and nonappropriated fund employees
 
 **(a)** Credit shall be given in determining years of service for the purpose of section 6303(a) for—
 
@@ -1151,7 +1151,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(b)** The provisions of subsections (a) and (b) of section 6308 for transfer of leave between leave systems shall apply to the leave systems established for such county office employees and employees of such Department of Defense and Coast Guard nonappropriated fund instrumentalities, respectively.
 
-(Added Pub. L. 90–367, § 2(a), June 29, 1968, 82 Stat. 277; amended Pub. L. 90–623, § 1(25), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 99–251, title III, § 306(c), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, § 7202(i)(1), Nov. 5, 1990, 104 Stat. 1388–337.)
+(Added Pub. L. 90–367, § 2(a), June 29, 1968, 82 Stat. 277; amended Pub. L. 90–623, § 1(25), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 99–251, title III, § 306(c), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, § 7202(i)(1), Nov. 5, 1990, 104 Stat. 1388–337.)
 
 **Editorial Notes**
 
@@ -1185,7 +1185,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ## SUBCHAPTER II—OTHER PAID LEAVE
 
-### § 6321. Absence of veterans to attend funeral services
+### § 6321. Absence of veterans to attend funeral services
 
 An employee in or under an Executive agency who is a veteran of a war, or of a campaign or expedition for which a campaign badge has been authorized, or a member of an honor or ceremonial group of an organization of those veterans, may be excused from duty without loss of pay or deduction from annual leave for the time necessary, not to exceed 4 hours in any one day, to enable him to participate as an active pallbearer or as a member of a firing squad or a guard of honor in a funeral ceremony for a member of the armed forces whose remains are returned from abroad for final interment in the United States.
 
@@ -1195,13 +1195,13 @@ An employee in or under an Executive agency who is a veteran of a war, or of a c
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 30q. | Aug. 16, 1949, ch. 441, 63 Stat. 608. July 17, 1952, ch. 932, § 1, 66 Stat. 758. |
+|  | 5 U.S.C. 30q. | Aug. 16, 1949, ch. 441, 63 Stat. 608. July 17, 1952, ch. 932, § 1, 66 Stat. 758. |
 
 The words “Executive agency” are coextensive with and substituted for “executive branch of the Government” in view of the definition of “Executive agency” in section 105. Applicability to the General Accounting Office is based on former section 933a.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 6322. Leave for jury or witness service; official duty status for certain witness service
+### § 6322. Leave for jury or witness service; official duty status for certain witness service
 
 **(a)** An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is entitled to leave, without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance of efficiency rating, during a period of absence with respect to which he is summoned, in connection with a judicial proceeding, by a court or authority responsible for the conduct of that proceeding, to serve—
 
@@ -1219,13 +1219,13 @@ in the District of Columbia, a State, territory, or possession of the United Sta
 
 **(c)** The Office of Personnel Management may prescribe regulations for the administration of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 91–563, § 1(a), Dec. 19, 1970, 84 Stat. 1476; Pub. L. 94–310, § 1, June 15, 1976, 90 Stat. 687; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, § 1251, Sept. 27, 1979, 93 Stat. 476; Pub. L. 104–186, title II, § 215(10), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(8), Sept. 23, 1996, 110 Stat. 2869.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 91–563, § 1(a), Dec. 19, 1970, 84 Stat. 1476; Pub. L. 94–310, § 1, June 15, 1976, 90 Stat. 687; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, § 1251, Sept. 27, 1979, 93 Stat. 476; Pub. L. 104–186, title II, § 215(10), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(8), Sept. 23, 1996, 110 Stat. 2869.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 30n. | June 29, 1940, ch. 446, § 1, 54 Stat. 689. |
+|  | 5 U.S.C. 30n. | June 29, 1940, ch. 446, § 1, 54 Stat. 689. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -1233,7 +1233,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–201, in concluding provisions, substituted “Puerto Rico or” for “Puerto Rico,” and struck out “, or the Republic of Panama” after “Pacific Islands”.
+1996—Subsec. (a). Pub. L. 104–201, in concluding provisions, substituted “Puerto Rico or” for “Puerto Rico,” and struck out “, or the Republic of Panama” after “Pacific Islands”.
 
 Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
 
@@ -1271,7 +1271,7 @@ Amendment by Pub. L. 94–310 effective Oct. 1, 1976, see section 4 of Pub. L. 9
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 6323. Military leave: Reserves, National Guard members, and certain members of the Space Force
+### § 6323. Military leave: Reserves, National Guard members, and certain members of the Space Force
 
 **(a)**
 
@@ -1291,7 +1291,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(i)** Federal service under section 331, 332, 333,1
 
-<sup>1</sup>  See References in Text note below
+<sup>1</sup> See References in Text note below
 
 or 12406 of title 10, or other provision of law, as applicable, or
 
@@ -1305,19 +1305,19 @@ is entitled, during and because of such service, to leave without loss of, or re
 
 **(d)**
 
-**(1)** A military reserve technician described in section 8401(30) <sup>1</sup> is entitled at such person’s request to leave without loss of, or reduction in, pay, leave to which such person is otherwise entitled, credit for time or service, or performance or efficiency rating for each day, not to exceed 44 workdays in a calendar year, in which such person is on active duty without pay, as authorized pursuant to section 12315 of title 10, under section 12301(b) or 12301(d) of title 10 for participation in operations outside the United States, its territories and possessions.
+**(1)** A military reserve technician described in section 8401(30) <sup>1</sup> is entitled at such person’s request to leave without loss of, or reduction in, pay, leave to which such person is otherwise entitled, credit for time or service, or performance or efficiency rating for each day, not to exceed 44 workdays in a calendar year, in which such person is on active duty without pay, as authorized pursuant to section 12315 of title 10, under section 12301(b) or 12301(d) of title 10 for participation in operations outside the United States, its territories and possessions.
 
 **(2)** An employee who requests annual leave or compensatory time to which the employee is otherwise entitled, for a period during which the employee would have been entitled upon request to leave under this subsection, may be granted such annual leave or compensatory time without regard to this section or section 5519.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, § 2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, § 1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, § 6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, § 2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, § 3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, § 1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, § 528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, § 1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, § 516(a), title X, § 1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, § 672(b), title XI, §§ 1105(a), 1106(a), Oct. 5, 1999, 113 Stat. 674, 777; Pub. L. 106–554, § 1(a)(3) [title VI, § 642], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; Pub. L. 107–107, div. A, title V, § 563, Dec. 28, 2001, 115 Stat. 1120; Pub. L. 108–136, div. A, title XI, § 1113(a), Nov. 24, 2003, 117 Stat. 1635; Pub. L. 108–375, div. A, title V, § 523, Oct. 28, 2004, 118 Stat. 1888; Pub. L. 118–159, div. A, title XI, §§ 1109, 1114(a), (b)(1), Dec. 23, 2024, 138 Stat. 2089, 2091.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, § 2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, § 1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, § 6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, § 2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, § 3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, § 1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, § 528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, § 1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, § 516(a), title X, § 1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, § 672(b), title XI, §§ 1105(a), 1106(a), Oct. 5, 1999, 113 Stat. 674, 777; Pub. L. 106–554, § 1(a)(3) [title VI, § 642], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; Pub. L. 107–107, div. A, title V, § 563, Dec. 28, 2001, 115 Stat. 1120; Pub. L. 108–136, div. A, title XI, § 1113(a), Nov. 24, 2003, 117 Stat. 1635; Pub. L. 108–375, div. A, title V, § 523, Oct. 28, 2004, 118 Stat. 1888; Pub. L. 118–159, div. A, title XI, §§ 1109, 1114(a), (b)(1), Dec. 23, 2024, 138 Stat. 2089, 2091.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 30r(a). | Aug. 10, 1956, ch. 1041, § 29 (a), 70A Stat. 632. Sept. 2, 1958, Pub. L. 85–861, § 13, 72 Stat. 1557. |
-|  |  | June 30, 1960, Pub. L. 86–559, § 7, 74 Stat. 282. |
-|  |  | Oct. 4, 1961, Pub. L. 87–378, § 7(a), 75 Stat. 809. |
+|  | 5 U.S.C. 30r(a). | Aug. 10, 1956, ch. 1041, § 29 (a), 70A Stat. 632. Sept. 2, 1958, Pub. L. 85–861, § 13, 72 Stat. 1557. |
+|  |  | June 30, 1960, Pub. L. 86–559, § 7, 74 Stat. 282. |
+|  |  | Oct. 4, 1961, Pub. L. 87–378, § 7(a), 75 Stat. 809. |
 
 In subsection (a), the words “without regard to classification or terminology peculiar to the Civil Service system” are omitted as unnecessary. The word “performance” is added on authority of the Performance Rating Act of 1950, which is carried into chapter 43 of this title.
 
@@ -1327,19 +1327,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-Sections 331, 332, 333, referred to in subsec. (b)(2)(A)(i), were renumbered sections 251, 252, and 253, respectively, of Title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Sections 331, 332, 333, referred to in subsec. (b)(2)(A)(i), were renumbered sections 251, 252, and 253, respectively, of Title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
-Section 8401(30) of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 106–65, div. A, title V, § 522(c)(2), Oct. 5, 1999, 113 Stat. 597, and, as so amended, no longer describes military reserve technicians.
+Section 8401(30) of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 106–65, div. A, title V, § 522(c)(2), Oct. 5, 1999, 113 Stat. 597, and, as so amended, no longer describes military reserve technicians.
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 1114(b)(1), substituted “Military leave: Reserves, National Guard members, and certain members of the Space Force” for “Military leave; Reserves and National Guardsmen” in section catchline.
+2024—Pub. L. 118–159, § 1114(b)(1), substituted “Military leave: Reserves, National Guard members, and certain members of the Space Force” for “Military leave; Reserves and National Guardsmen” in section catchline.
 
-Subsec. (a)(1). Pub. L. 118–159, § 1114(a)(1), substituted “as a Reserve of the armed forces, a member of the National Guard, or a member of the Space Force in space force active status (as defined in section 101(e)(1) of title 10) and not on sustained duty under section 20105 of title 10” for “as a Reserve of the armed forces or member of the National Guard”.
+Subsec. (a)(1). Pub. L. 118–159, § 1114(a)(1), substituted “as a Reserve of the armed forces, a member of the National Guard, or a member of the Space Force in space force active status (as defined in section 101(e)(1) of title 10) and not on sustained duty under section 20105 of title 10” for “as a Reserve of the armed forces or member of the National Guard”.
 
-Pub. L. 118–159, § 1109, substituted “20 days” for “15 days” in two places.
+Pub. L. 118–159, § 1109, substituted “20 days” for “15 days” in two places.
 
-Subsec. (b)(1). Pub. L. 118–159, § 1114(a)(2), inserted “or is a member of the Space Force in space force active status (as defined in section 101(e)(1) of title 10) and not on sustained duty under section 20105 of title 10” before “; and”.
+Subsec. (b)(1). Pub. L. 118–159, § 1114(a)(2), inserted “or is a member of the Space Force in space force active status (as defined in section 101(e)(1) of title 10) and not on sustained duty under section 20105 of title 10” before “; and”.
 
 2004—Subsec. (d)(1). Pub. L. 108–375 struck out “(other than active duty during a war or national emergency declared by the President or Congress)” before “for participation in”.
 
@@ -1349,17 +1349,17 @@ Subsec. (b)(1). Pub. L. 118–159, § 1114(a)(2), inserted “or is a member o
 
 2000—Subsec. (a)(3). Pub. L. 106–554 added par. (3).
 
-1999—Subsec. (a)(1). Pub. L. 106–65, § 1106(a), inserted “, inactive-duty training (as defined in section 101 of title 37),” after “active duty” in first sentence.
+1999—Subsec. (a)(1). Pub. L. 106–65, § 1106(a), inserted “, inactive-duty training (as defined in section 101 of title 37),” after “active duty” in first sentence.
 
-Subsec. (d)(1). Pub. L. 106–65, §§ 672(b) and 1105(a), amended par. (1) identically, striking out “noncombat” after “for participation in”.
+Subsec. (d)(1). Pub. L. 106–65, §§ 672(b) and 1105(a), amended par. (1) identically, striking out “noncombat” after “for participation in”.
 
-1996—Subsec. (b). Pub. L. 104–106, § 516(a), inserted at end “Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee’s accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.”
+1996—Subsec. (b). Pub. L. 104–106, § 516(a), inserted at end “Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee’s accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.”
 
-Subsec. (d). Pub. L. 104–106, § 1039, added subsec. (d).
+Subsec. (d). Pub. L. 104–106, § 1039, added subsec. (d).
 
-1994—Subsec. (b)(1). Pub. L. 103–337, § 1677(a)(2)(A), substituted “section 10101” for “section 261”.
+1994—Subsec. (b)(1). Pub. L. 103–337, § 1677(a)(2)(A), substituted “section 10101” for “section 261”.
 
-Subsec. (b)(2)(A). Pub. L. 103–337, § 1677(a)(2)(B), substituted “or 12406 of title 10” for “3500, or 8500 of title 10”.
+Subsec. (b)(2)(A). Pub. L. 103–337, § 1677(a)(2)(B), substituted “or 12406 of title 10” for “3500, or 8500 of title 10”.
 
 1991—Subsec. (b)(2). Pub. L. 102–190 substituted “law or for the purpose of providing assistance to civil authorities in the protection or saving of life or property or the prevention of injury—” for “law—” in introductory provisions.
 
@@ -1367,21 +1367,21 @@ Subsec. (b)(2)(A). Pub. L. 103–337, § 1677(a)(2)(B), substituted “or 1240
 
 1979—Subsec. (b)(2)(B). Pub. L. 96–70 which directed the amendment of subsec. (c)(2)(B) by striking out “the Canal Zone,” was executed to subsec. (b)(2)(B) in view of the redesignation of subsec. (c) as (b) by Pub. L. 96–54. See 1979 Amendment note below.
 
-Subsec. (b). Pub. L. 96–54 redesignated subsec. (c), as added by Pub. L. 90–588, as (b). Former subsec. (b), relating to military leave, was repealed by Pub. L. 91–375, § 6(c)(18)(B), Aug. 12, 1970, 84 Stat. 776.
+Subsec. (b). Pub. L. 96–54 redesignated subsec. (c), as added by Pub. L. 90–588, as (b). Former subsec. (b), relating to military leave, was repealed by Pub. L. 91–375, § 6(c)(18)(B), Aug. 12, 1970, 84 Stat. 776.
 
 Subsec. (c). Pub. L. 96–54 redesignated subsec. (c), as added by Pub. L. 90–588, as (b).
 
-1970—Subsec. (a). Pub. L. 91–375, § 6(c)(18)(A), struck out “(except a substitute in the postal field service)” after “section 2105 of this title”.
+1970—Subsec. (a). Pub. L. 91–375, § 6(c)(18)(A), struck out “(except a substitute in the postal field service)” after “section 2105 of this title”.
 
-Subsec. (b). Pub. L. 91–375, § 6(c)(18)(B), struck out subsec. (b) relating to military leave, without loss in pay, time, or efficiency rating, of substitute employees of the postal service, not in excess of 80 hours in a calendar year, for National Guard training as Reserves of the Armed Forces or members of the National Guard, on basis of 1 hour for 26 hours of work, including minimum working period of 1,040 hours in the prior calendar year.
+Subsec. (b). Pub. L. 91–375, § 6(c)(18)(B), struck out subsec. (b) relating to military leave, without loss in pay, time, or efficiency rating, of substitute employees of the postal service, not in excess of 80 hours in a calendar year, for National Guard training as Reserves of the Armed Forces or members of the National Guard, on basis of 1 hour for 26 hours of work, including minimum working period of 1,040 hours in the prior calendar year.
 
-Subsec. (c). Pub. L. 91–375, § 6(c)(18)(A), struck out “(except a substitute in the postal field service)” after “section 2105 of this title”.
+Subsec. (c). Pub. L. 91–375, § 6(c)(18)(A), struck out “(except a substitute in the postal field service)” after “section 2105 of this title”.
 
-Subsec. (d). Pub. L. 91–375, § 6(c)(18)(B), struck out subsec. (d) relating to military leave, without loss of or reduction in pay, leave, service credit, or efficiency rating, of substitute employees of the postal service, not in excess of 160 hours in a calendar year, for service as members of Reserve components of the Armed Forces or the National Guard, for Federal service under insurrection provisions of sections 331, 332, and 333 and in the Army National Guard and Air National Guard under sections 3500 and 8500 of Title 10 and non-Federal service (in the States, District of Columbia, Puerto Rico, Canal Zone, and the territories) for purpose of providing military aid to enforce the law, on basis of 1 hour for 13 hours of work, including minimum working period of 1,040 hours in the prior calendar year.
+Subsec. (d). Pub. L. 91–375, § 6(c)(18)(B), struck out subsec. (d) relating to military leave, without loss of or reduction in pay, leave, service credit, or efficiency rating, of substitute employees of the postal service, not in excess of 160 hours in a calendar year, for service as members of Reserve components of the Armed Forces or the National Guard, for Federal service under insurrection provisions of sections 331, 332, and 333 and in the Army National Guard and Air National Guard under sections 3500 and 8500 of Title 10 and non-Federal service (in the States, District of Columbia, Puerto Rico, Canal Zone, and the territories) for purpose of providing military aid to enforce the law, on basis of 1 hour for 13 hours of work, including minimum working period of 1,040 hours in the prior calendar year.
 
-1968—Subsecs. (a), (b). Pub. L. 90–623, § 1(17)(A), substituted “loss in” for “loss of”.
+1968—Subsecs. (a), (b). Pub. L. 90–623, § 1(17)(A), substituted “loss in” for “loss of”.
 
-Subsec. (c). Pub. L. 90–623, § 1(17)(B), added subsec. (c), set out second.
+Subsec. (c). Pub. L. 90–623, § 1(17)(B), added subsec. (c), set out second.
 
 Subsec. (c). Pub. L. 90–588 added subsec. (c), set out first.
 
@@ -1391,13 +1391,13 @@ Subsec. (d). Pub. L. 90–588 added subsec. (d).
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title XI, § 1113(b), Nov. 24, 2003, 117 Stat. 1635, provided that: “The amendments made by subsection (a) [amending this section] shall apply to military service performed on or after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title XI, § 1113(b), Nov. 24, 2003, 117 Stat. 1635, provided that: “The amendments made by subsection (a) [amending this section] shall apply to military service performed on or after the date of the enactment of this Act [Nov. 24, 2003].”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title XI, § 1105(b), Oct. 5, 1999, 113 Stat. 777, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 5, 1999] and shall apply with respect to days of leave under section 6323(d)(1) of title 5, United States Code, on or after that date.”
+Pub. L. 106–65, div. A, title XI, § 1105(b), Oct. 5, 1999, 113 Stat. 777, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 5, 1999] and shall apply with respect to days of leave under section 6323(d)(1) of title 5, United States Code, on or after that date.”
 
-Pub. L. 106–65, div. A, title XI, § 1106(b), Oct. 5, 1999, 113 Stat. 777, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to any inactive-duty training (as defined in such amendment) occurring before the date of the enactment of this Act [Oct. 5, 1999].”
+Pub. L. 106–65, div. A, title XI, § 1106(b), Oct. 5, 1999, 113 Stat. 777, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to any inactive-duty training (as defined in such amendment) occurring before the date of the enactment of this Act [Oct. 5, 1999].”
 
 **Effective Date of 1994 Amendment**
 
@@ -1405,7 +1405,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–431, § 2, Oct. 10, 1980, 94 Stat. 1850, provided that: “The amendments made by the first section of this Act [amending this section] shall take effect October 1, 1980.”
+Pub. L. 96–431, § 2, Oct. 10, 1980, 94 Stat. 1850, provided that: “The amendments made by the first section of this Act [amending this section] shall take effect October 1, 1980.”
 
 **Effective Date of 1979 Amendments**
 
@@ -1423,7 +1423,7 @@ Amendment by Pub. L. 90–623 effective as of Sept. 6, 1966, for all purposes, s
 
 **Authorization To Use Appropriations To Pay Military Leave or Annual Leave**
 
-Pub. L. 107–117, div. A, title VIII, § 8023, Jan. 10, 2002, 115 Stat. 2252, provided that:
+Pub. L. 107–117, div. A, title VIII, § 8023, Jan. 10, 2002, 115 Stat. 2252, provided that:
 
 > “During the current fiscal year and hereafter, funds appropriated or otherwise available for any Federal agency, the Congress, the judicial branch, or the District of Columbia may be used for the pay, allowances, and benefits of an employee as defined by section 2105 of title 5, United States Code, or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, who—
 
@@ -1445,33 +1445,33 @@ Pub. L. 107–117, div. A, title VIII, § 8023, Jan. 10, 2002, 115 Stat. 2252,
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–259, title VIII, § 8023, Aug. 9, 2000, 114 Stat. 679.
+Pub. L. 106–259, title VIII, § 8023, Aug. 9, 2000, 114 Stat. 679.
 
-Pub. L. 106–79, title VIII, § 8025, Oct. 25, 1999, 113 Stat. 1236.
+Pub. L. 106–79, title VIII, § 8025, Oct. 25, 1999, 113 Stat. 1236.
 
-Pub. L. 105–262, title VIII, § 8025, Oct. 17, 1998, 112 Stat. 2302.
+Pub. L. 105–262, title VIII, § 8025, Oct. 17, 1998, 112 Stat. 2302.
 
-Pub. L. 105–56, title VIII, § 8026, Oct. 8, 1997, 111 Stat. 1226.
+Pub. L. 105–56, title VIII, § 8026, Oct. 8, 1997, 111 Stat. 1226.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8028], Sept. 30, 1996, 110 Stat. 3009–71, 3009–94.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8028], Sept. 30, 1996, 110 Stat. 3009–71, 3009–94.
 
-Pub. L. 104–61, title VIII, § 8036, Dec. 1, 1995, 109 Stat. 659.
+Pub. L. 104–61, title VIII, § 8036, Dec. 1, 1995, 109 Stat. 659.
 
-Pub. L. 103–335, title VIII, § 8042, Sept. 30, 1994, 108 Stat. 2627.
+Pub. L. 103–335, title VIII, § 8042, Sept. 30, 1994, 108 Stat. 2627.
 
-Pub. L. 103–139, title VIII, § 8047, Nov. 11, 1993, 107 Stat. 1450.
+Pub. L. 103–139, title VIII, § 8047, Nov. 11, 1993, 107 Stat. 1450.
 
-Pub. L. 102–396, title IX, § 9064, Oct. 6, 1992, 106 Stat. 1916.
+Pub. L. 102–396, title IX, § 9064, Oct. 6, 1992, 106 Stat. 1916.
 
-Pub. L. 102–172, title VIII, § 8068, Nov. 26, 1991, 105 Stat. 1187.
+Pub. L. 102–172, title VIII, § 8068, Nov. 26, 1991, 105 Stat. 1187.
 
-Pub. L. 101–511, title VIII, § 8086, Nov. 5, 1990, 104 Stat. 1895.
+Pub. L. 101–511, title VIII, § 8086, Nov. 5, 1990, 104 Stat. 1895.
 
 **Definition of Officers and Employees**
 
-Act July 1, 1947, ch. 192, § 4, 61 Stat. 239, as amended by June 22, 1956, ch. 428, 70 Stat. 331, provided that: “The words ‘officers and employees of the United States or of the District of Columbia’ as used in the third paragraph, subheading ‘Ordinance Stores and Equipment for Reserve Officers Training Corps’, of the Act of May 12, 1917 (40 Stat. 72; 10 U.S.C. Annotated 371) [covered by this section], as now or hereafter amended, as used in that part of section 80 of the Act of June 3, 1916 (39 Stat. 203; 32 U.S.C. 75) [covered by this section], as now or hereafter amended, which precedes the proviso, and as used in the first proviso of section 9 of the Naval Reserve Act of 1938 (52 Stat. 1177; 34 U.S.C. 853g) [covered by this section], as now or hereafter amended, shall be construed to mean all officers and employees of the United States or of the District of Columbia, permanent or temporary indefinite, without regard to classifications or terminology peculiar to the Federal Civil Service System. The words ‘officers and employees of the United States or of the District of Columbia’, as used in such provisions of law, as now or hereafter amended, also shall be construed to mean substitute employees in the postal field service; such substitute employees shall be entitled to military leave of absence on the basis of one hour of such leave for each period or periods aggregating twenty-six hours of work performed in the calendar year immediately preceding the year in which they are ordered to duty by proper authority: *Provided,* That the number of hours worked during the preceding calendar year shall not be less than one thousand forty hours before such substitute employee shall be entitled to military leave of absence, pay for such leave not to exceed eighty hours in each calendar year.”
+Act July 1, 1947, ch. 192, § 4, 61 Stat. 239, as amended by June 22, 1956, ch. 428, 70 Stat. 331, provided that: “The words ‘officers and employees of the United States or of the District of Columbia’ as used in the third paragraph, subheading ‘Ordinance Stores and Equipment for Reserve Officers Training Corps’, of the Act of May 12, 1917 (40 Stat. 72; 10 U.S.C. Annotated 371) [covered by this section], as now or hereafter amended, as used in that part of section 80 of the Act of June 3, 1916 (39 Stat. 203; 32 U.S.C. 75) [covered by this section], as now or hereafter amended, which precedes the proviso, and as used in the first proviso of section 9 of the Naval Reserve Act of 1938 (52 Stat. 1177; 34 U.S.C. 853g) [covered by this section], as now or hereafter amended, shall be construed to mean all officers and employees of the United States or of the District of Columbia, permanent or temporary indefinite, without regard to classifications or terminology peculiar to the Federal Civil Service System. The words ‘officers and employees of the United States or of the District of Columbia’, as used in such provisions of law, as now or hereafter amended, also shall be construed to mean substitute employees in the postal field service; such substitute employees shall be entitled to military leave of absence on the basis of one hour of such leave for each period or periods aggregating twenty-six hours of work performed in the calendar year immediately preceding the year in which they are ordered to duty by proper authority: *Provided,* That the number of hours worked during the preceding calendar year shall not be less than one thousand forty hours before such substitute employee shall be entitled to military leave of absence, pay for such leave not to exceed eighty hours in each calendar year.”
 
-### § 6324. Absence of certain police and firemen
+### § 6324. Absence of certain police and firemen
 
 **(a)** Sick leave may not be charged to the account of a member of the Metropolitan Police force or the Fire Department of the District of Columbia, the United States Park Police force, or the United States Secret Service Uniformed Division for an absence due to injury or illness resulting from the performance of duty.
 
@@ -1485,13 +1485,13 @@ Act July 1, 1947, ch. 192, § 4, 61 Stat. 239, as amended by June 22, 1956, ch
 
 **(c)** This section shall not apply to members of the United States Secret Service Uniformed Division who are covered under chapter 84 for the purpose of retirement benefits.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–623, § 1(18), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 94–183, § 2(28), (29), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 111–282, § 2(c), Oct. 15, 2010, 124 Stat. 3038.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–623, § 1(18), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 94–183, § 2(28), (29), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 111–282, § 2(c), Oct. 15, 2010, 124 Stat. 3038.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2071. | Aug. 21, 1964, Pub. L. 88–471, § 5, 78 Stat. 583. |
+|  | 5 U.S.C. 2071. | Aug. 21, 1964, Pub. L. 88–471, § 5, 78 Stat. 583. |
 
 The word “officer” is omitted as covered by “member”.
 
@@ -1503,11 +1503,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–282, § 2(c)(1), substituted “United States Secret Service Uniformed Division” for “Executive Protective Service force”.
+2010—Subsec. (a). Pub. L. 111–282, § 2(c)(1), substituted “United States Secret Service Uniformed Division” for “Executive Protective Service force”.
 
-Subsec. (b)(3). Pub. L. 111–282, § 2(c)(2), substituted “Homeland Security for the United States Secret Service Uniformed Division” for “the Treasury for the Executive Protective Service force”.
+Subsec. (b)(3). Pub. L. 111–282, § 2(c)(2), substituted “Homeland Security for the United States Secret Service Uniformed Division” for “the Treasury for the Executive Protective Service force”.
 
-Subsec. (c). Pub. L. 111–282, § 2(c)(3), added subsec. (c).
+Subsec. (c). Pub. L. 111–282, § 2(c)(3), added subsec. (c).
 
 1975—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
 
@@ -1525,9 +1525,9 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **Transfer of Functions**
 
-District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
-### § 6325. Absence resulting from hostile action abroad
+### § 6325. Absence resulting from hostile action abroad
 
 Leave may not be charged to the account of an employee for absence, not to exceed one year, due to an injury—
 
@@ -1537,7 +1537,7 @@ Leave may not be charged to the account of an employee for absence, not to excee
 
 The preceding provisions of this section shall apply in the case of an alien employee referred to in section 6301(2)(viii) of this title with respect to any leave granted to such alien employee under section 6310 of this title or section 408 of the Foreign Service Act of 1980.
 
-(Added Pub. L. 90–221, § 3(a), Dec. 23, 1967, 81 Stat. 671; amended Pub. L. 96–54, § 2(a)(41), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–399, title VIII, § 804, Aug. 27, 1986, 100 Stat. 883.)
+(Added Pub. L. 90–221, § 3(a), Dec. 23, 1967, 81 Stat. 671; amended Pub. L. 96–54, § 2(a)(41), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–399, title VIII, § 804, Aug. 27, 1986, 100 Stat. 883.)
 
 **Editorial Notes**
 
@@ -1559,9 +1559,9 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 **Effective Date**
 
-Pub. L. 90–221, § 3(c), Dec. 23, 1967, 81 Stat. 671, provided that: “The amendment made by subsection (a) of this section [enacting this section] shall take effect as of the first day of the first pay period which began on or after January 1, 1965.”
+Pub. L. 90–221, § 3(c), Dec. 23, 1967, 81 Stat. 671, provided that: “The amendment made by subsection (a) of this section [enacting this section] shall take effect as of the first day of the first pay period which began on or after January 1, 1965.”
 
-### § 6326. Absence in connection with funerals of immediate relatives in the Armed Forces
+### § 6326. Absence in connection with funerals of immediate relatives in the Armed Forces
 
 **(a)** An employee of an executive agency or an individual employed by the government of the District of Columbia is entitled to not more than three days of leave without loss of, or reduction in, pay, leave to which he is otherwise entitled, credit for time or service, or performance or efficiency rating, to make arrangements for, or attend the funeral of, or memorial service for, an immediate relative who died as a result of wounds, disease, or injury incurred while serving as a member of the Armed Forces in a combat zone (as determined by the President in accordance with section 112 of the Internal Revenue Code).
 
@@ -1569,7 +1569,7 @@ Pub. L. 90–221, § 3(c), Dec. 23, 1967, 81 Stat. 671, provided that: “The 
 
 **(c)** This section shall not be considered as affecting the authority of an Executive agency, except to the extent and under the conditions covered under this section, to grant administrative leave excusing an employee from work when it is in the public interest.
 
-(Added Pub. L. 90–588, § 1(a), Oct. 17, 1968, 82 Stat. 1151; amended Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Added Pub. L. 90–588, § 1(a), Oct. 17, 1968, 82 Stat. 1151; amended Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Editorial Notes**
 
@@ -1587,7 +1587,7 @@ Section 112 of the Internal Revenue Code, referred to in subsec. (a), is classif
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 6327. Absence in connection with serving as a bone-marrow or organ donor
+### § 6327. Absence in connection with serving as a bone-marrow or organ donor
 
 **(a)** An employee in or under an Executive agency is entitled to leave without loss of or reduction in pay, leave to which otherwise entitled, credit for time or service, or performance or efficiency rating, for the time necessary to permit such employee to serve as a bone-marrow or organ donor.
 
@@ -1599,7 +1599,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(c)** The Office of Personnel Management may prescribe regulations for the administration of this section.
 
-(Added Pub. L. 103–329, title VI, § 629(a)(1), Sept. 30, 1994, 108 Stat. 2423; amended Pub. L. 106–56, § 1(b), Sept. 24, 1999, 113 Stat. 407.)
+(Added Pub. L. 103–329, title VI, § 629(a)(1), Sept. 30, 1994, 108 Stat. 2423; amended Pub. L. 106–56, § 1(b), Sept. 24, 1999, 113 Stat. 407.)
 
 **Editorial Notes**
 
@@ -1611,11 +1611,11 @@ Another section 6327 was renumbered section 6328 of this title.
 
 1999—Subsec. (b). Pub. L. 106–56 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not to exceed 7 days of leave may be used under this section by an employee in a calendar year.”
 
-### § 6328. Absence in connection with funerals of fellow Federal law enforcement officers
+### § 6328. Absence in connection with funerals of fellow Federal law enforcement officers
 
 A Federal law enforcement officer or a Federal firefighter may be excused from duty without loss of, or reduction in, pay or leave to which such officer is otherwise entitled, or credit for time or service, or performance or efficiency rating, to attend the funeral of a fellow Federal law enforcement officer or Federal firefighter, who was killed in the line of duty. When so excused from duty, attendance at such service shall for the purposes of section 1345(a) of title 31, be considered to be an official duty of the officer or firefighter.
 
-(Added Pub. L. 103–329, title VI, § 642, Sept. 30, 1994, 108 Stat. 2432, § 6327; renumbered § 6328, Pub. L. 106–56, § 1(c)(1), Sept. 24, 1999, 113 Stat. 407.)
+(Added Pub. L. 103–329, title VI, § 642, Sept. 30, 1994, 108 Stat. 2432, § 6327; renumbered § 6328, Pub. L. 106–56, § 1(c)(1), Sept. 24, 1999, 113 Stat. 407.)
 
 **Editorial Notes**
 
@@ -1627,7 +1627,7 @@ Section 642 of Pub. L. 103–329, which directed that this section be added “f
 
 1999—Pub. L. 106–56 renumbered section 6327 of this title as this section.
 
-### § 6329. Disabled veteran leave
+### § 6329. Disabled veteran leave
 
 **(a)** During the 12-month period beginning on the first day of employment, any employee who is a veteran with a service-connected disability rated at 30 percent or more is entitled to leave, without loss or reduction in pay, for purposes of undergoing medical treatment for such disability for which sick leave could regularly be used.
 
@@ -1661,7 +1661,7 @@ Section 642 of Pub. L. 103–329, which directed that this section be added “f
 
 **(3)** the term “veteran” has the meaning given such term in section 101(2) of such title.
 
-(Added Pub. L. 114–75, § 2(a), Nov. 5, 2015, 129 Stat. 640; amended Pub. L. 115–238, § 2(a), Sept. 7, 2018, 132 Stat. 2450; Pub. L. 115–364, § 1(a), Dec. 21, 2018, 132 Stat. 5088.)
+(Added Pub. L. 114–75, § 2(a), Nov. 5, 2015, 129 Stat. 640; amended Pub. L. 115–238, § 2(a), Sept. 7, 2018, 132 Stat. 2450; Pub. L. 115–364, § 1(a), Dec. 21, 2018, 132 Stat. 5088.)
 
 **Editorial Notes**
 
@@ -1675,17 +1675,17 @@ Subsec. (d)(1). Pub. L. 115–238 amended par. (1) generally. Prior to amendment
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–238, § 2(b), Sept. 7, 2018, 132 Stat. 2450, provided that: “With respect to a position listed in section 7421(b) of title 38, United States Code, the amendment made by subsection (a) [amending this section] shall apply to any individual appointed to such a position on or after the date of enactment of this Act [Sept. 7, 2018].”
+Pub. L. 115–238, § 2(b), Sept. 7, 2018, 132 Stat. 2450, provided that: “With respect to a position listed in section 7421(b) of title 38, United States Code, the amendment made by subsection (a) [amending this section] shall apply to any individual appointed to such a position on or after the date of enactment of this Act [Sept. 7, 2018].”
 
 **Effective Date**
 
-Pub. L. 114–75, § 2(c), Nov. 5, 2015, 129 Stat. 641, provided that: “The amendments made by subsection (a) [enacting this section] shall apply with respect to any employee (as that term is defined in section 6329(d)(1) of title 5, United States Code, as added by subsection (a)) hired on or after the date that is 1 year after the date of enactment of this Act [Nov. 5, 2015].”
+Pub. L. 114–75, § 2(c), Nov. 5, 2015, 129 Stat. 641, provided that: “The amendments made by subsection (a) [enacting this section] shall apply with respect to any employee (as that term is defined in section 6329(d)(1) of title 5, United States Code, as added by subsection (a)) hired on or after the date that is 1 year after the date of enactment of this Act [Nov. 5, 2015].”
 
 **Regulations**
 
-Pub. L. 115–364, § 1(b), Dec. 21, 2018, 132 Stat. 5088, provided that: “Not later than 9 months after the date of the enactment of this Act [Dec. 21, 2018], the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the head of each other office of the legislative branch shall prescribe regulations governing the application of section 6329 of title 5, United States Code, including the certification requirement under subsection (c) of such section, to employees of the House of Representatives, employees of the Senate, and employees of such office, respectively.”
+Pub. L. 115–364, § 1(b), Dec. 21, 2018, 132 Stat. 5088, provided that: “Not later than 9 months after the date of the enactment of this Act [Dec. 21, 2018], the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the head of each other office of the legislative branch shall prescribe regulations governing the application of section 6329 of title 5, United States Code, including the certification requirement under subsection (c) of such section, to employees of the House of Representatives, employees of the Senate, and employees of such office, respectively.”
 
-Pub. L. 114–75, § 2(d), Nov. 5, 2015, 129 Stat. 641, provided that:
+Pub. L. 114–75, § 2(d), Nov. 5, 2015, 129 Stat. 641, provided that:
 
 > “Not later than 9 months after the date of enactment of this Act [Nov. 5, 2015]—
 
@@ -1693,7 +1693,7 @@ Pub. L. 114–75, § 2(d), Nov. 5, 2015, 129 Stat. 641, provided that:
 
 > **“(2)** the Postmaster General shall prescribe regulations for such leave with respect to officers and employees of the United States Postal Service and the Postal Regulatory Commission.”
 
-### § 6329a. Administrative leave
+### § 6329a. Administrative leave
 
 **(a) Definitions.—** In this section—
 
@@ -1749,7 +1749,7 @@ Pub. L. 114–75, § 2(d), Nov. 5, 2015, 129 Stat. 641, provided that:
 
 **(d) Relation to Other Laws.—** Notwithstanding subsection (a) of section 7421 of title 38, this section shall apply to an employee described in subsection (b) of that section.
 
-(Added Pub. L. 114–328, div. A, title XI, § 1138(c)(1), Dec. 23, 2016, 130 Stat. 2461.)
+(Added Pub. L. 114–328, div. A, title XI, § 1138(c)(1), Dec. 23, 2016, 130 Stat. 2461.)
 
 **Editorial Notes**
 
@@ -1761,7 +1761,7 @@ The date of enactment of this section, referred to in subsec. (c)(1), is the dat
 
 **Sense of Congress**
 
-Pub. L. 114–328, div. A, title XI, § 1138(b), Dec. 23, 2016, 130 Stat. 2460, provided that:
+Pub. L. 114–328, div. A, title XI, § 1138(b), Dec. 23, 2016, 130 Stat. 2460, provided that:
 
 > “It is the sense of Congress that—
 
@@ -1801,7 +1801,7 @@ Pub. L. 114–328, div. A, title XI, § 1138(b), Dec. 23, 2016, 130 Stat. 2460
 
 **GAO Report**
 
-Pub. L. 114–328, div. A, title XI, § 1138(d)(2), Dec. 23, 2016, 130 Stat. 2468, provided that:
+Pub. L. 114–328, div. A, title XI, § 1138(d)(2), Dec. 23, 2016, 130 Stat. 2468, provided that:
 
 > “Not later than 5 years after the date of enactment of this Act [Dec. 23, 2016], and every 5 years thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives a report on the results of an evaluation of the implementation of the authority provided under sections 6329a and 6329b of title 5, United States Code, as added by subsection (c)(1) of this section and paragraph (1) of this subsection, respectively, including—
 
@@ -1819,7 +1819,7 @@ Pub. L. 114–328, div. A, title XI, § 1138(d)(2), Dec. 23, 2016, 130 Stat. 2
 
 > **“(E)** an assessment of the effectiveness of subsection (g) of such section 6329b in preventing and correcting the use of extended investigative leave as a tool of reprisal for making a protected disclosure or engaging in protected activity as described in paragraph (8) or (9) of section 2302(b) of title 5, United States Code.”
 
-### § 6329b. Investigative leave and notice leave
+### § 6329b. Investigative leave and notice leave
 
 **(a) Definitions.—** In this section—
 
@@ -2085,7 +2085,7 @@ Pub. L. 114–328, div. A, title XI, § 1138(d)(2), Dec. 23, 2016, 130 Stat. 2
 
 **(i) Relation to Other Laws.—** Notwithstanding subsection (a) of section 7421 of title 38, this section shall apply to an employee described in subsection (b) of that section.
 
-(Added Pub. L. 114–328, div. A, title XI, § 1138(d)(1), Dec. 23, 2016, 130 Stat. 2462.)
+(Added Pub. L. 114–328, div. A, title XI, § 1138(d)(1), Dec. 23, 2016, 130 Stat. 2462.)
 
 **Editorial Notes**
 
@@ -2101,7 +2101,7 @@ The Administrative Leave Act of 2016, referred to in subsec. (f)(2)(C), is secti
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 6329c. Weather and safety leave
+### § 6329c. Weather and safety leave
 
 **(a) Definitions.—** In this section—
 
@@ -2137,7 +2137,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(e) Relation to Other Laws.—** Notwithstanding subsection (a) of section 7421 of title 38, this section shall apply to an employee described in subsection (b) of that section.
 
-(Added Pub. L. 114–328, div. A, title XI, § 1138(e)(1), Dec. 23, 2016, 130 Stat. 2469.)
+(Added Pub. L. 114–328, div. A, title XI, § 1138(e)(1), Dec. 23, 2016, 130 Stat. 2469.)
 
 **Editorial Notes**
 
@@ -2145,7 +2145,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 The date of enactment of this section, subsec. (d), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
-### § 6329d. Parental bereavement leave
+### § 6329d. Parental bereavement leave
 
 **(a) Definitions.—** In this section—
 
@@ -2167,11 +2167,11 @@ The date of enactment of this section, subsec. (d), is the date of enactment of 
 
 **(3) Notice.—** In any case in which the necessity for leave under this subsection is foreseeable, the employee shall provide the employing agency with such notice as is reasonable and practicable.
 
-(Added Pub. L. 117–81, div. A, title XI, § 1111(a), Dec. 27, 2021, 135 Stat. 1953.)
+(Added Pub. L. 117–81, div. A, title XI, § 1111(a), Dec. 27, 2021, 135 Stat. 1953.)
 
 ## SUBCHAPTER III—VOLUNTARY TRANSFERS OF LEAVE
 
-### § 6331. Definitions
+### § 6331. Definitions
 
 For the purpose of this subchapter—
 
@@ -2183,7 +2183,7 @@ For the purpose of this subchapter—
 
 **(4)** the term “medical emergency” means a medical condition of an employee or a family member of such employee that is likely to require the prolonged absence of such employee from duty and to result in a substantial loss of income to such employee because of the unavailability of paid leave (disregarding any advanced leave).
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2834; amended Pub. L. 103–103, § 3, Oct. 8, 1993, 107 Stat. 1022.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2834; amended Pub. L. 103–103, § 3, Oct. 8, 1993, 107 Stat. 1022.)
 
 **Editorial Notes**
 
@@ -2195,17 +2195,17 @@ For the purpose of this subchapter—
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–103, § 6, Oct. 8, 1993, 107 Stat. 1024, provided that: “Except as provided in section 2 [enacting and repealing provisions set out as notes under this section], this Act [amending this section and sections 6337, 6361, 6362, and 6373 of this title and enacting provisions set out as a note under section 6301 of this title] and the amendments made by this Act shall take effect as of the 120th day after the date of the enactment of this Act [Oct. 8, 1993] or such earlier date as the Office of Personnel Management may by regulation prescribe.”
+Pub. L. 103–103, § 6, Oct. 8, 1993, 107 Stat. 1024, provided that: “Except as provided in section 2 [enacting and repealing provisions set out as notes under this section], this Act [amending this section and sections 6337, 6361, 6362, and 6373 of this title and enacting provisions set out as a note under section 6301 of this title] and the amendments made by this Act shall take effect as of the 120th day after the date of the enactment of this Act [Oct. 8, 1993] or such earlier date as the Office of Personnel Management may by regulation prescribe.”
 
 **Repeals**
 
-Pub. L. 100–566, § 2(d), Oct. 31, 1988, 102 Stat. 2844, which provided for the repeal of subchapters III (§ 6331 et seq.) and IV (§ 6361 et seq.) of this chapter effective 5 years after Oct. 31, 1988, and which also contained savings provisions for continued availability of certain leave as if such program had not been terminated, was repealed by Pub. L. 103–103, § 2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
+Pub. L. 100–566, § 2(d), Oct. 31, 1988, 102 Stat. 2844, which provided for the repeal of subchapters III (§ 6331 et seq.) and IV (§ 6361 et seq.) of this chapter effective 5 years after Oct. 31, 1988, and which also contained savings provisions for continued availability of certain leave as if such program had not been terminated, was repealed by Pub. L. 103–103, § 2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
 
-[Pub. L. 103–103, § 2, Oct. 8, 1993, 107 Stat. 1022, provided that the repeal made by that section is effective Oct. 30, 1993.]
+[Pub. L. 103–103, § 2, Oct. 8, 1993, 107 Stat. 1022, provided that the repeal made by that section is effective Oct. 30, 1993.]
 
 **Implementation of Leave Transfer and Leave Bank Programs**
 
-Pub. L. 100–566, § 2(c), Oct. 31, 1988, 102 Stat. 2844, provided that:
+Pub. L. 100–566, § 2(c), Oct. 31, 1988, 102 Stat. 2844, provided that:
 
 > **“(1)** No later than 3 months after the date of the enactment of this Act [Oct. 31, 1988], the Office of Personnel Management shall prescribe regulations to implement leave transfer programs pursuant to the amendments made by this Act [see Short Title of 1988 Amendment note set out under section 6301 of this title].
 
@@ -2219,7 +2219,7 @@ Pub. L. 100–566, § 2(c), Oct. 31, 1988, 102 Stat. 2844, provided that:
 
 **Report to Congress**
 
-Pub. L. 100–566, § 2(e), Oct. 31, 1988, 102 Stat. 2845, provided that:
+Pub. L. 100–566, § 2(e), Oct. 31, 1988, 102 Stat. 2845, provided that:
 
 > **“(1)**
 
@@ -2231,15 +2231,15 @@ Pub. L. 100–566, § 2(e), Oct. 31, 1988, 102 Stat. 2845, provided that:
 
 **Continuation of Temporary Leave Transfer Programs**
 
-Pub. L. 100–566, § 2(f), Oct. 31, 1988, 102 Stat. 2845, provided that: “Any temporary program allowing for transfers of leave among officers or employees of the Federal Government may, if such program is being implemented with respect to an agency (or any unit thereof) as of the date of the enactment of this Act [Oct. 31, 1988], continue to be implemented with respect to such agency (or unit), notwithstanding any provision of law which would otherwise terminate the authority for such program, pending the commencement of a leave transfer program with respect to such agency pursuant to amendments made by this Act [see Short Title of 1988 Amendment note set out under section 6301 of this title]. The Office of Personnel Management (or, in the case of a program established by another agency, such other agency) shall prescribe regulations to ensure that any leave which has been transferred to the credit of an officer or employee and which remains unused as of the date on which any such temporary program terminates (and a successor program commences pursuant to amendments made by this Act) shall not be lost by reason of that termination.”
+Pub. L. 100–566, § 2(f), Oct. 31, 1988, 102 Stat. 2845, provided that: “Any temporary program allowing for transfers of leave among officers or employees of the Federal Government may, if such program is being implemented with respect to an agency (or any unit thereof) as of the date of the enactment of this Act [Oct. 31, 1988], continue to be implemented with respect to such agency (or unit), notwithstanding any provision of law which would otherwise terminate the authority for such program, pending the commencement of a leave transfer program with respect to such agency pursuant to amendments made by this Act [see Short Title of 1988 Amendment note set out under section 6301 of this title]. The Office of Personnel Management (or, in the case of a program established by another agency, such other agency) shall prescribe regulations to ensure that any leave which has been transferred to the credit of an officer or employee and which remains unused as of the date on which any such temporary program terminates (and a successor program commences pursuant to amendments made by this Act) shall not be lost by reason of that termination.”
 
-### § 6332. General authority
+### § 6332. General authority
 
 Notwithstanding any provision of subchapter I, and subject to the provisions of this subchapter, the Office of Personnel Management shall establish a program under which annual leave accrued or accumulated by an employee may be transferred to the annual leave account of any other employee if such other employee requires additional leave because of a medical emer­gency.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2834.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2834.)
 
-### § 6333. Receipt and use of transferred leave
+### § 6333. Receipt and use of transferred leave
 
 **(a)**
 
@@ -2287,7 +2287,7 @@ Notwithstanding any provision of subchapter I, and subject to the provisions of 
 
 **(2)** may be substituted retroactively for any period of leave without pay, or used to liquidate an indebtedness for any period of advanced leave, which began on or after a date fixed by the employing agency of the employee as the beginning of the medical emergency involved.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2834; amended Pub. L. 110–181, div. A, title XVI, § 1675(a), Jan. 28, 2008, 122 Stat. 484.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2834; amended Pub. L. 110–181, div. A, title XVI, § 1675(a), Jan. 28, 2008, 122 Stat. 484.)
 
 **Editorial Notes**
 
@@ -2299,9 +2299,9 @@ Notwithstanding any provision of subchapter I, and subject to the provisions of 
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title XVI, § 1675(b), Jan. 28, 2008, 122 Stat. 484, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 28, 2008], except that, in the case of a leave recipient who is undergoing medical treatment on such date of enactment, section 6333(b)(2)(B) of title 5, United States Code (as amended by this section) shall be applied as if it had been amended by inserting ‘or the date of the enactment of this subsection [probably should be “paragraph”], whichever is later’ after ‘the start of such treatment’.”
+Pub. L. 110–181, div. A, title XVI, § 1675(b), Jan. 28, 2008, 122 Stat. 484, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 28, 2008], except that, in the case of a leave recipient who is undergoing medical treatment on such date of enactment, section 6333(b)(2)(B) of title 5, United States Code (as amended by this section) shall be applied as if it had been amended by inserting ‘or the date of the enactment of this subsection [probably should be “paragraph”], whichever is later’ after ‘the start of such treatment’.”
 
-### § 6334. Donations of leave
+### § 6334. Donations of leave
 
 **(a)** An employee may, by written application to the employing agency of such employee, request that a specified number of hours be transferred from the annual leave account of such employee to the annual leave account of a leave recipient in accordance with section 6332.
 
@@ -2315,9 +2315,9 @@ Pub. L. 110–181, div. A, title XVI, § 1675(b), Jan. 28, 2008, 122 Stat. 484
 
 **(c)** The Office of Personnel Management shall prescribe regulations to include procedures to carry out this subchapter when the leave donor and the leave recipient are employed by different agencies.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2835.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2835.)
 
-### § 6335. Termination of medical emergency
+### § 6335. Termination of medical emergency
 
 **(a)** The medical emergency affecting a leave recipient shall, for purposes of this subchapter, be considered to have terminated on the date as of which—
 
@@ -2333,9 +2333,9 @@ Pub. L. 110–181, div. A, title XVI, § 1675(b), Jan. 28, 2008, 122 Stat. 484
 
 **(2)** Nothing in section 5551, 5552, or 6306 shall apply with respect to any annual leave transferred to a leave recipient under this subchapter.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2836.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2836.)
 
-### § 6336. Restoration of transferred leave
+### § 6336. Restoration of transferred leave
 
 **(a)**
 
@@ -2361,9 +2361,9 @@ Pub. L. 110–181, div. A, title XVI, § 1675(b), Jan. 28, 2008, 122 Stat. 484
 
 **(d)** Restorations of leave under this section shall be carried out in a manner consistent with regulations prescribed to carry out section 6334(c), if applicable.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2836.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2836.)
 
-### § 6337. Accrual of leave
+### § 6337. Accrual of leave
 
 **(a)** For the purpose of this section—
 
@@ -2401,7 +2401,7 @@ Pub. L. 110–181, div. A, title XVI, § 1675(b), Jan. 28, 2008, 122 Stat. 484
 
 **(d)** Nothing in this section shall be considered to prevent, with respect to a continuing medical emergency, further transfers of leave for use after leave accrued under this section has been exhausted by the employee.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2837; amended Pub. L. 103–103, § 4, Oct. 8, 1993, 107 Stat. 1022.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2837; amended Pub. L. 103–103, § 4, Oct. 8, 1993, 107 Stat. 1022.)
 
 **Editorial Notes**
 
@@ -2419,15 +2419,15 @@ Pub. L. 110–181, div. A, title XVI, § 1675(b), Jan. 28, 2008, 122 Stat. 484
 
 Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993, or such earlier date as the Office of Personnel Management may by regulation prescribe, see section 6 of Pub. L. 103–103, set out as a note under section 6331 of this title.
 
-### § 6338. Prohibition of coercion
+### § 6338. Prohibition of coercion
 
 **(a)** An employee may not directly or indirectly intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce, any other employee for the purpose of interfering with any right which such employee may have with respect to contributing, receiving, or using annual leave under this subchapter.
 
 **(b)** For the purpose of subsection (a), the term “intimidate, threaten, or coerce” includes promising to confer or conferring any benefit (such as an appointment, promotion, or compensation), or effecting or threatening to effect any reprisal (such as deprivation of appointment, promotion, or compensation).
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2837.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2837.)
 
-### § 6339. Additional leave transfer programs
+### § 6339. Additional leave transfer programs
 
 **(a)** For the purpose of this section—
 
@@ -2477,7 +2477,7 @@ Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993,
 
 **(d)** The Office shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, § 501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, § 1122(a), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–306, title III, § 322, Nov. 27, 2002, 116 Stat. 2391; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, § 501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, § 1122(a), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–306, title III, § 322, Nov. 27, 2002, 116 Stat. 2391; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 **Editorial Notes**
 
@@ -2485,21 +2485,21 @@ Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993,
 
 2008—Subsec. (a)(1)(E), (2)(E). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
-2002—Subsec. (b). Pub. L. 107–306, § 322(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
+2002—Subsec. (b). Pub. L. 107–306, § 322(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
 
-Subsec. (b)(2). Pub. L. 107–306, § 322(b)(1), substituted “under this subsection” for “under this section” in introductory provisions.
+Subsec. (b)(2). Pub. L. 107–306, § 322(b)(1), substituted “under this subsection” for “under this section” in introductory provisions.
 
-Subsec. (c). Pub. L. 107–306, § 322(a)(3), added subsec. (c). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 107–306, § 322(a)(3), added subsec. (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 107–306, § 322(b)(2), struck out “of Personnel Management” after “The Office”.
+Subsec. (d). Pub. L. 107–306, § 322(b)(2), struck out “of Personnel Management” after “The Office”.
 
-1996—Subsec. (a)(1)(E). Pub. L. 104–201, § 1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+1996—Subsec. (a)(1)(E). Pub. L. 104–201, § 1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
-Subsec. (a)(2)(E). Pub. L. 104–201, § 1122(a)(2), substituted “National Imagery and Mapping Agency, the Director of the National Imagery and Mapping Agency” for “Central Imagery Office, the Director of the Central Imagery Office”.
+Subsec. (a)(2)(E). Pub. L. 104–201, § 1122(a)(2), substituted “National Imagery and Mapping Agency, the Director of the National Imagery and Mapping Agency” for “Central Imagery Office, the Director of the Central Imagery Office”.
 
-1994—Subsec. (a)(1)(E), (F). Pub. L. 103–359, § 501(i)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
+1994—Subsec. (a)(1)(E), (F). Pub. L. 103–359, § 501(i)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-Subsec. (a)(2)(E), (F). Pub. L. 103–359, § 501(i)(2), added subpar. (E), redesignated former subpar. (E) as (F), and substituted “paragraph (1)(F)” for “paragraph (1)(E)” in two places in subpar. (F).
+Subsec. (a)(2)(E), (F). Pub. L. 103–359, § 501(i)(2), added subpar. (E), redesignated former subpar. (E) as (F), and substituted “paragraph (1)(F)” for “paragraph (1)(E)” in two places in subpar. (F).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2511,15 +2511,15 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
-### § 6340. Inapplicability of certain provisions
+### § 6340. Inapplicability of certain provisions
 
 Except to the extent that the Office of Personnel Management may prescribe regulations, nothing in section 7351 shall apply with respect to a solicitation, donation, or acceptance of leave under this subchapter.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2838.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2838.)
 
 ## SUBCHAPTER IV—VOLUNTARY LEAVE BANK PROGRAM
 
-### § 6361. Definitions
+### § 6361. Definitions
 
 For the purpose of this subchapter the term—
 
@@ -2535,7 +2535,7 @@ For the purpose of this subchapter the term—
 
 **(6)** “medical emergency” means a medical condition of an employee or a family member of such employee that is likely to require the prolonged absence of such employee from duty and to result in a substantial loss of income to such employee because of the unavailability of paid leave (disregarding any advanced leave).
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2839; amended Pub. L. 103–103, § 3(a), Oct. 8, 1993, 107 Stat. 1022.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2839; amended Pub. L. 103–103, § 3(a), Oct. 8, 1993, 107 Stat. 1022.)
 
 **Editorial Notes**
 
@@ -2551,7 +2551,7 @@ Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993,
 
 **Leave Bank for Judicial Branch Employees of Federal Government in Reserves Who Were Activated During Persian Gulf War**
 
-Pub. L. 102–58, § 3, June 18, 1991, 105 Stat. 299, provided that:
+Pub. L. 102–58, § 3, June 18, 1991, 105 Stat. 299, provided that:
 
 > **“(a) Judicial Branch Employees.—** The Director of the Administrative Office of the United States Courts shall establish a leave bank program under which—
 
@@ -2567,7 +2567,7 @@ Pub. L. 102–58, § 3, June 18, 1991, 105 Stat. 299, provided that:
 
 **Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War**
 
-Pub. L. 102–25, title III, § 361, Apr. 6, 1991, 105 Stat. 92, as amended by Pub. L. 102–484, div. A, title X, § 1054(c)(1), Oct. 23, 1992, 106 Stat. 2502, provided that:
+Pub. L. 102–25, title III, § 361, Apr. 6, 1991, 105 Stat. 92, as amended by Pub. L. 102–484, div. A, title X, § 1054(c)(1), Oct. 23, 1992, 106 Stat. 2502, provided that:
 
 > **“(a) Civil Service Employees.—** The Office of Personnel Management shall establish a leave bank program under which—
 
@@ -2583,7 +2583,7 @@ Pub. L. 102–25, title III, § 361, Apr. 6, 1991, 105 Stat. 92, as amended by
 
 > **“(d) Department of Veterans Affairs Health-Care Professionals.—** The Secretary of Veterans Affairs shall establish a program similar to that established under subsection (a) for the benefit of health-care professionals covered under section 7423(e) of title 38, United States Code. Such program shall be as similar and [as] practicable to the program established under subsection (a).”
 
-### § 6362. General authority
+### § 6362. General authority
 
 Notwithstanding any provision of subchapter I, and subject to the provisions of this subchapter, the Office of Personnel Management shall establish a program under which—
 
@@ -2591,7 +2591,7 @@ Notwithstanding any provision of subchapter I, and subject to the provisions of 
 
 **(2)** leave from such a leave bank may be made available to an employee who requires such leave because of a medical emergency.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2839; amended Pub. L. 103–103, § 5(b), Oct. 8, 1993, 107 Stat. 1023.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2839; amended Pub. L. 103–103, § 5(b), Oct. 8, 1993, 107 Stat. 1023.)
 
 **Editorial Notes**
 
@@ -2611,13 +2611,13 @@ Notwithstanding any provision of subchapter I, and subject to the provisions of 
 
 Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993, or such earlier date as the Office of Personnel Management may by regulation prescribe, see section 6 of Pub. L. 103–103, set out as a note under section 6331 of this title.
 
-### § 6363. Establishment of leave banks
+### § 6363. Establishment of leave banks
 
 Each agency that establishes a leave bank program under section 6362 shall establish 1 or more leave banks in accordance with regulations prescribed by the Office of Personnel Management.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2839.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2839.)
 
-### § 6364. Establishment of Leave Bank Boards
+### § 6364. Establishment of Leave Bank Boards
 
 **(a)**
 
@@ -2635,9 +2635,9 @@ Each agency that establishes a leave bank program under section 6362 shall estab
 
 **(4)** maintain an adequate amount of leave in the leave bank to the greatest extent practicable.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2839.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2839.)
 
-### § 6365. Contributions of annual leave
+### § 6365. Contributions of annual leave
 
 **(a)**
 
@@ -2659,9 +2659,9 @@ Each agency that establishes a leave bank program under section 6362 shall estab
 
 **(d)** The Office of Personnel Management shall prescribe regulations establishing an open enrollment period during which an employee may contribute leave under subsection (a) for a leave year.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2840.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2840.)
 
-### § 6366. Eligibility for leave recipients
+### § 6366. Eligibility for leave recipients
 
 **(a)** An employee is eligible to be a leave recipient if such employee—
 
@@ -2693,9 +2693,9 @@ Each agency that establishes a leave bank program under section 6362 shall estab
 
 **(d)** The provisions of subsection (a) may not be construed to limit the amount of the voluntary contribution of annual leave to a leave bank, which does not exceed the limitations of section 6365(b).
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2840.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2840.)
 
-### § 6367. Receipt and use of leave from a leave bank
+### § 6367. Receipt and use of leave from a leave bank
 
 **(a)** An application to receive contributions of leave from a leave bank, whether submitted by or on behalf of an employee—
 
@@ -2725,9 +2725,9 @@ If a Board requires that an employee obtain certification under paragraph (2)(C)
 
 **(e)** Except to the extent that the Office of Personnel Management may prescribe regulations, nothing in the provisions of section 7351 shall apply to any solicitation, contribution, or use of leave to or from a leave bank under this subchapter.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2841.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2841.)
 
-### § 6368. Termination of medical emergency
+### § 6368. Termination of medical emergency
 
 **(a)** The medical emergency affecting a leave recipient shall, for purposes of this subchapter, be considered to have terminated on the date as of which—
 
@@ -2743,29 +2743,29 @@ If a Board requires that an employee obtain certification under paragraph (2)(C)
 
 **(2)** Nothing in section 5551, 5552, or 6306 shall apply with respect to any annual leave transferred to a leave recipient under this subchapter.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2842.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2842.)
 
-### § 6369. Restoration of transferred leave
+### § 6369. Restoration of transferred leave
 
 The Office of Personnel Management shall establish procedures under which any transferred leave remaining to the credit of a leave recipient when the medical emergency affecting the leave recipient terminates, shall be restored to the leave bank.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2842.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2842.)
 
-### § 6370. Prohibition of coercion
+### § 6370. Prohibition of coercion
 
 **(a)** An employee may not directly or indirectly intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce, any other employee for the purpose of interfering with any right which such employee may have with respect to contributing, receiving, or using annual leave under this subchapter.
 
 **(b)** For the purpose of subsection (a), the term “intimidate, threaten, or coerce” includes promising to confer or conferring any benefit (such as an appointment, promotion, or compensation), or effecting or threatening to effect any reprisal (such as deprivation of appointment, promotion, or compensation).
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2842.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2842.)
 
-### § 6371. Accrual of leave
+### § 6371. Accrual of leave
 
 While using leave made available to an employee from a leave bank, annual and sick leave shall accrue to the credit of such employee and shall become available for use by such employee in the same manner as provided for under section 6337.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2843.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2843.)
 
-### § 6372. Additional leave bank programs
+### § 6372. Additional leave bank programs
 
 **(a)** For the purpose of this section—
 
@@ -2787,7 +2787,7 @@ While using leave made available to an employee from a leave bank, annual and si
 
 **(d)** The Office of Personnel Management shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2843; amended Pub. L. 112–87, title IV, § 432, Jan. 3, 2012, 125 Stat. 1894.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2843; amended Pub. L. 112–87, title IV, § 432, Jan. 3, 2012, 125 Stat. 1894.)
 
 **Editorial Notes**
 
@@ -2795,13 +2795,13 @@ While using leave made available to an employee from a leave bank, annual and si
 
 2012—Subsec. (b). Pub. L. 112–87 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave bank program established under any of the preceding provisions of this subchapter.”
 
-### § 6373. Authority to participate in both programs
+### § 6373. Authority to participate in both programs
 
 **(a)** The Office of Personnel Management shall prescribe regulations under which an employee participating in a leave bank program under this subchapter may, subject to such terms or conditions as the Office may establish, also make or receive donations of leave under subchapter III.
 
 **(b)** Notwithstanding any provision of section 6337 or 6371, if an employee uses leave transferred to such employee under subchapter III and leave made available to such employee under this subchapter in connection with the same medical emergency, the maximum number of days of annual leave and sick leave, respectively, which may accrue to such employee in connection with such medical emergency shall be the same as if all of that leave had been made available to such employee under this subchapter.
 
-(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2843; amended Pub. L. 103–103, § 5(a)(1), Oct. 8, 1993, 107 Stat. 1023.)
+(Added Pub. L. 100–566, § 2(a), Oct. 31, 1988, 102 Stat. 2843; amended Pub. L. 103–103, § 5(a)(1), Oct. 8, 1993, 107 Stat. 1023.)
 
 **Editorial Notes**
 
@@ -2817,15 +2817,15 @@ Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993,
 
 ## SUBCHAPTER V—FAMILY AND MEDICAL LEAVE
 
-### § 6381. Definitions
+### § 6381. Definitions
 
 For the purpose of this subchapter—
 
 **(1)** the term “employee” means any individual who—
 
-**(A)** is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia 1
+**(A)** is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
 
@@ -2885,7 +2885,7 @@ any individual employed on a temporary or intermittent basis, and any employee o
 
 **(12)** the term “veteran” has the meaning given the term in section 101 of title 38, United States Code.
 
-(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 19; amended Pub. L. 104–1, title II, § 202(c)(2), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, § 585(b)(1), Jan. 28, 2008, 122 Stat. 131; Pub. L. 111–84, div. A, title V, § 565(b)(1)(A), (2), (3), Oct. 28, 2009, 123 Stat. 2311, 2312; Pub. L. 116–283, div. A, title XI, § 1103(f)(2), Jan. 1, 2021, 134 Stat. 3889; Pub. L. 118–31, div. A, title XI, § 1114(a), Dec. 22, 2023, 137 Stat. 432.)
+(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 19; amended Pub. L. 104–1, title II, § 202(c)(2), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, § 585(b)(1), Jan. 28, 2008, 122 Stat. 131; Pub. L. 111–84, div. A, title V, § 565(b)(1)(A), (2), (3), Oct. 28, 2009, 123 Stat. 2311, 2312; Pub. L. 116–283, div. A, title XI, § 1103(f)(2), Jan. 1, 2021, 134 Stat. 3889; Pub. L. 118–31, div. A, title XI, § 1114(a), Dec. 22, 2023, 137 Stat. 432.)
 
 **Editorial Notes**
 
@@ -2893,21 +2893,21 @@ any individual employed on a temporary or intermittent basis, and any employee o
 
 2023—Par. (1)(B). Pub. L. 118–31 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has completed at least 12 months of service as an employee (as defined in section 2105) of the Government of the United States, including service with the United States Postal Service, the Postal Regulatory Commission, and a nonappropriated fund instrumentality as described in section 2105(c);”.
 
-2021—Par. (1)(A). Pub. L. 116–283, § 1103(f)(2)(A), struck out “(v) or” before “(ix) of section 6301(2)”.
+2021—Par. (1)(A). Pub. L. 116–283, § 1103(f)(2)(A), struck out “(v) or” before “(ix) of section 6301(2)”.
 
-Par. (1)(B). Pub. L. 116–283, § 1103(f)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));”.
+Par. (1)(B). Pub. L. 116–283, § 1103(f)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));”.
 
-2009—Par. (7). Pub. L. 111–84, § 565(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10;”.
+2009—Par. (7). Pub. L. 111–84, § 565(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10;”.
 
-Par. (8). Pub. L. 111–84, § 565(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in an outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness;”.
+Par. (8). Pub. L. 111–84, § 565(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in an outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness;”.
 
-Pars. (11), (12). Pub. L. 111–84, § 565(b)(3), added pars. (11) and (12) and struck out former par. (11) which read as follows: “the term ‘serious injury or illness’, in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.”
+Pars. (11), (12). Pub. L. 111–84, § 565(b)(3), added pars. (11) and (12) and struck out former par. (11) which read as follows: “the term ‘serious injury or illness’, in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.”
 
 2008—Pars. (7) to (11). Pub. L. 110–181 added pars. (7) to (11).
 
 2004—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1995—Par. (1)(A). Pub. L. 104–1 struck out “and” after “District of Columbia” and inserted “, and any employee of the General Accounting Office or the Library of Congress” before semicolon.
+1995—Par. (1)(A). Pub. L. 104–1 struck out “and” after “District of Columbia” and inserted “, and any employee of the General Accounting Office or the Library of Congress” before semicolon.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2921,9 +2921,9 @@ Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 
 
 **Regulations**
 
-Pub. L. 111–84, div. A, title V, § 565(b)(5), Oct. 28, 2009, 123 Stat. 2312, provided that: “In prescribing regulations to carry out the amendments made by this subsection [amending this section and sections 6382 and 6383 of this title], the Office of Personnel Management shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
+Pub. L. 111–84, div. A, title V, § 565(b)(5), Oct. 28, 2009, 123 Stat. 2312, provided that: “In prescribing regulations to carry out the amendments made by this subsection [amending this section and sections 6382 and 6383 of this title], the Office of Personnel Management shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
 
-### § 6382. Leave requirement
+### § 6382. Leave requirement
 
 **(a)**
 
@@ -3013,51 +3013,51 @@ Pub. L. 111–84, div. A, title V, § 565(b)(5), Oct. 28, 2009, 123 Stat. 2312
 
 **(3)** In any case in which the necessity for leave under subsection (a)(1)(E) is foreseeable, whether because the spouse, or a son, daughter, or parent, of the employee is on covered active duty, or because of notification of an impending call or order to covered active duty, the employee shall provide such notice to the employer as is reasonable and practicable.
 
-(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 20; amended Pub. L. 110–181, div. A, title V, § 585(b)(2)–(3)(C), Jan. 28, 2008, 122 Stat. 132; Pub. L. 110–417, [div. A], title X, § 1061(b)(2), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title V, § 565(b)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2311, 2312; Pub. L. 116–92, div. F, title LXXVI, § 7602(a), (b), Dec. 20, 2019, 133 Stat. 2304, 2305; Pub. L. 116–283, div. A, title XI, § 1103(f)(3), Jan. 1, 2021, 134 Stat. 3889.)
+(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 20; amended Pub. L. 110–181, div. A, title V, § 585(b)(2)–(3)(C), Jan. 28, 2008, 122 Stat. 132; Pub. L. 110–417, [div. A], title X, § 1061(b)(2), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title V, § 565(b)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2311, 2312; Pub. L. 116–92, div. F, title LXXVI, § 7602(a), (b), Dec. 20, 2019, 133 Stat. 2304, 2305; Pub. L. 116–283, div. A, title XI, § 1103(f)(3), Jan. 1, 2021, 134 Stat. 3889.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (d)(1). Pub. L. 116–283, § 1103(f)(3)(A), struck out “under subchapter I” before “for any part” in two places.
+2021—Subsec. (d)(1). Pub. L. 116–283, § 1103(f)(3)(A), struck out “under subchapter I” before “for any part” in two places.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 116–283, § 1103(f)(3)(B), struck out before period at end “under subchapter I”.
+Subsec. (d)(2)(B)(ii). Pub. L. 116–283, § 1103(f)(3)(B), struck out before period at end “under subchapter I”.
 
-2019—Subsec. (a)(1). Pub. L. 116–92, § 7602(b)(1), which directed amendment of section 6382(a)(1), without specifying the title to be amended, by inserting “and subsection (d)(2) of this section” after “section 6383” in introductory provisions, was executed to this section, to reflect the probable intent of Congress.
+2019—Subsec. (a)(1). Pub. L. 116–92, § 7602(b)(1), which directed amendment of section 6382(a)(1), without specifying the title to be amended, by inserting “and subsection (d)(2) of this section” after “section 6383” in introductory provisions, was executed to this section, to reflect the probable intent of Congress.
 
-Subsec. (a)(4). Pub. L. 116–92, § 7602(b)(2), which directed amendment of section 6382(a)(4), without specifying the title to be amended, by substituting “Subject to subsection (d)(2), during” for “During”, was executed to this section, to reflect the probable intent of Congress.
+Subsec. (a)(4). Pub. L. 116–92, § 7602(b)(2), which directed amendment of section 6382(a)(4), without specifying the title to be amended, by substituting “Subject to subsection (d)(2), during” for “During”, was executed to this section, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 116–92, § 7602(a), designated existing provisions as par. (1), substituted “subparagraph (C),” for “subparagraph (A), (B), (C),”, and added par. (2). Amendment made by section 7602(a)(1) directing substitution of “(1) An employee” for “An employee” was executed to “An employee” appearing at the beginning of the subsection, to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 116–92, § 7602(a), designated existing provisions as par. (1), substituted “subparagraph (C),” for “subparagraph (A), (B), (C),”, and added par. (2). Amendment made by section 7602(a)(1) directing substitution of “(1) An employee” for “An employee” was executed to “An employee” appearing at the beginning of the subsection, to reflect the probable intent of Congress.
 
-2009—Subsec. (a)(1)(E). Pub. L. 111–84, § 565(b)(1)(B)(i), added subpar. (E).
+2009—Subsec. (a)(1)(E). Pub. L. 111–84, § 565(b)(1)(B)(i), added subpar. (E).
 
-Subsec. (b)(1). Pub. L. 111–84, § 565(b)(1)(B)(ii), inserted after second sentence “Subject to subsection (e)(3) and section 6383(f), leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
+Subsec. (b)(1). Pub. L. 111–84, § 565(b)(1)(B)(ii), inserted after second sentence “Subject to subsection (e)(3) and section 6383(f), leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
 
-Subsec. (d). Pub. L. 111–84, § 565(b)(1)(B)(iii), substituted “(D), or (E)” for “or (D)”.
+Subsec. (d). Pub. L. 111–84, § 565(b)(1)(B)(iii), substituted “(D), or (E)” for “or (D)”.
 
-Subsec. (e)(2)(A). Pub. L. 111–84, § 565(b)(4), substituted “parent, or covered servicemember” for “or parent”.
+Subsec. (e)(2)(A). Pub. L. 111–84, § 565(b)(4), substituted “parent, or covered servicemember” for “or parent”.
 
-Subsec. (e)(3). Pub. L. 111–84, § 565(b)(1)(B)(iv), added par. (3).
+Subsec. (e)(3). Pub. L. 111–84, § 565(b)(1)(B)(iv), added par. (3).
 
-2008—Subsec. (a)(3), (4). Pub. L. 110–181, § 585(b)(2), added pars. (3) and (4).
+2008—Subsec. (a)(3), (4). Pub. L. 110–181, § 585(b)(2), added pars. (3) and (4).
 
-Subsec. (b)(1). Pub. L. 110–181, § 585(b)(3)(A)(i), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 6383” for “section 6383(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
+Subsec. (b)(1). Pub. L. 110–181, § 585(b)(3)(A)(i), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 6383” for “section 6383(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
 
-Subsec. (b)(2). Pub. L. 110–181, § 585(b)(3)(A)(ii), inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
+Subsec. (b)(2). Pub. L. 110–181, § 585(b)(3)(A)(ii), inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
 
-Subsec. (d). Pub. L. 110–181, § 585(b)(3)(B), inserted at end “An employee may elect to substitute for leave under subsection (a)(3) any of the employee’s accrued or accumulated annual or sick leave under subchapter I for any part of the 26-week period of leave under such subsection.”
+Subsec. (d). Pub. L. 110–181, § 585(b)(3)(B), inserted at end “An employee may elect to substitute for leave under subsection (a)(3) any of the employee’s accrued or accumulated annual or sick leave under subchapter I for any part of the 26-week period of leave under such subsection.”
 
-Subsec. (e). Pub. L. 110–181, § 585(b)(3)(C), as amended by Pub. L. 110–417, inserted “or under subsection (a)(3)” after “subsection (a)(1)” in par. (1) and in introductory provisions of par. (2).
+Subsec. (e). Pub. L. 110–181, § 585(b)(3)(C), as amended by Pub. L. 110–417, inserted “or under subsection (a)(3)” after “subsection (a)(1)” in par. (1) and in introductory provisions of par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. F, title LXXVI, § 7602(c), Dec. 20, 2019, 133 Stat. 2306, provided that: “The amendments made by this section [amending this section] shall not be effective with respect to any birth or placement occurring before October 1, 2020.”
+Pub. L. 116–92, div. F, title LXXVI, § 7602(c), Dec. 20, 2019, 133 Stat. 2306, provided that: “The amendments made by this section [amending this section] shall not be effective with respect to any birth or placement occurring before October 1, 2020.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title X, § 1061(b), Oct. 14, 2008, 122 Stat. 4612, provided that the amendment made by section 1061(b)(2) is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.
+Pub. L. 110–417, [div. A], title X, § 1061(b), Oct. 14, 2008, 122 Stat. 4612, provided that the amendment made by section 1061(b)(2) is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.
 
 **Effective Date**
 
@@ -3065,9 +3065,9 @@ Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 
 
 **Clarification for Members of the National Guard and Reserves: Executive Branch Employees**
 
-Pub. L. 116–92, div. F, title LXXVI, § 7605(a), Dec. 20, 2019, 133 Stat. 2308, provided that: “For purposes of determining the eligibility of an employee who is a member of the National Guard or Reserves to take leave under section 6382(a) of title 5, United States Code, or to substitute such leave pursuant to subsection (d)(2)(A) of section 6382 of such title (as added by section 1102 [probably means section “7602” of Pub. L. 116–92]), any service by such employee on active duty (as defined in section 6381(7) of such title) shall be counted as service as an employee for purposes of section 6381(1)(B) of such title.”
+Pub. L. 116–92, div. F, title LXXVI, § 7605(a), Dec. 20, 2019, 133 Stat. 2308, provided that: “For purposes of determining the eligibility of an employee who is a member of the National Guard or Reserves to take leave under section 6382(a) of title 5, United States Code, or to substitute such leave pursuant to subsection (d)(2)(A) of section 6382 of such title (as added by section 1102 [probably means section “7602” of Pub. L. 116–92]), any service by such employee on active duty (as defined in section 6381(7) of such title) shall be counted as service as an employee for purposes of section 6381(1)(B) of such title.”
 
-### § 6383. Certification
+### § 6383. Certification
 
 **(a)** An employing agency may require that a request for leave under subparagraph (C) or (D) of section 6382(a)(1) be supported by certification issued by the health care provider of the employee or of the son, daughter, spouse, or parent of the employee, as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employing agency.
 
@@ -3103,7 +3103,7 @@ Pub. L. 116–92, div. F, title LXXVI, § 7605(a), Dec. 20, 2019, 133 Stat. 23
 
 **(f)** An employing agency may require that a request for leave under paragraph (1)(E) or (3) of section 6382(a) be supported by a certification issued at such time and in such manner as the Office of Personnel Management may by regulation prescribe.
 
-(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 21; amended Pub. L. 110–181, div. A, title V, § 585(b)(3)(D), Jan. 28, 2008, 122 Stat. 132; Pub. L. 111–84, div. A, title V, § 565(b)(1)(C), Oct. 28, 2009, 123 Stat. 2311.)
+(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 21; amended Pub. L. 110–181, div. A, title V, § 585(b)(3)(D), Jan. 28, 2008, 122 Stat. 132; Pub. L. 111–84, div. A, title V, § 565(b)(1)(C), Oct. 28, 2009, 123 Stat. 2311.)
 
 **Editorial Notes**
 
@@ -3119,7 +3119,7 @@ Pub. L. 116–92, div. F, title LXXVI, § 7605(a), Dec. 20, 2019, 133 Stat. 23
 
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
 
-### § 6384. Employment and benefits protection
+### § 6384. Employment and benefits protection
 
 **(a)** Any employee who takes leave under section 6382 for the intended purpose of the leave shall be entitled, upon return from such leave—
 
@@ -3139,7 +3139,7 @@ Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 
 
 **(e)** Nothing in this section shall be construed to prohibit an employing agency from requiring an employee on leave under section 6382 to report periodically to the employing agency on the status and intention of the employee to return to work.
 
-(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 22.)
+(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 22.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3147,7 +3147,7 @@ Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 
 
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
 
-### § 6385. Prohibition of coercion
+### § 6385. Prohibition of coercion
 
 **(a)** An employee shall not directly or indirectly intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce, any other employee for the purpose of interfering with the exercise of any rights which such other employee may have under this subchapter.
 
@@ -3157,7 +3157,7 @@ Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 
 
 **(2)** the term “employee” means any “employee”, as defined by section 2105.
 
-(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 22.)
+(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 22.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3165,11 +3165,11 @@ Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 
 
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
 
-### § 6386. Health insurance
+### § 6386. Health insurance
 
 An employee enrolled in a health benefits plan under chapter 89 who is placed in a leave status under section 6382 may elect to continue the health benefits enrollment of the employee while in such leave status and arrange to pay currently into the Employees Health Benefits Fund (described in section 8909), the appropriate employee contributions.
 
-(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 23.)
+(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 23.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3177,17 +3177,17 @@ An employee enrolled in a health benefits plan under chapter 89 who is placed in
 
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
 
-### § 6387. Regulations
+### § 6387. Regulations
 
 The Office of Personnel Management shall prescribe regulations necessary for the administration of this subchapter. The regulations prescribed under this subchapter shall, to the extent appropriate, be consistent with the regulations prescribed by the Secretary of Labor to carry out title I of the Family and Medical Leave Act of 1993.
 
-(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 23.)
+(Added Pub. L. 103–3, title II, § 201(a)(1), Feb. 5, 1993, 107 Stat. 23.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Family and Medical Leave Act of 1993, referred to in text, is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title I of the Act is classified generally to subchapter I (§ 2611 et seq.) of chapter 28 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in text, is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title I of the Act is classified generally to subchapter I (§ 2611 et seq.) of chapter 28 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3197,7 +3197,7 @@ Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 
 
 ## SUBCHAPTER VI—LEAVE TRANSFER IN DISASTERS AND EMERGENCIES
 
-### § 6391. Authority for leave transfer program in disasters and emergencies
+### § 6391. Authority for leave transfer program in disasters and emergencies
 
 **(a)** For the purpose of this section—
 
@@ -3217,7 +3217,7 @@ Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 
 
 **(g)** The Office shall prescribe regulations necessary for the administration of this section.
 
-(Added Pub. L. 105–18, title II, § 9004(a), June 12, 1997, 111 Stat. 196; amended Pub. L. 109–229, § 1, May 31, 2006, 120 Stat. 390.)
+(Added Pub. L. 105–18, title II, § 9004(a), June 12, 1997, 111 Stat. 196; amended Pub. L. 109–229, § 1, May 31, 2006, 120 Stat. 390.)
 
 **Editorial Notes**
 

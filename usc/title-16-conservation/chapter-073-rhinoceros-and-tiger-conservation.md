@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 73—RHINOCEROS AND TIGER CONSERVATION
 
-## § 5301. Findings
+## § 5301. Findings
 
 The Congress finds the following:
 
@@ -43,31 +43,31 @@ The Congress finds the following:
 
 **(B)** indicated that the certification of China would remain in effect and directed that additional monitoring of China’s progress be undertaken.
 
-(Pub. L. 103–391, § 2, Oct. 22, 1994, 108 Stat. 4094.)
+(Pub. L. 103–391, § 2, Oct. 22, 1994, 108 Stat. 4094.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–112, § 1, Jan. 8, 2002, 115 Stat. 2097, provided that: “This Act [enacting section 5305c of this title and amending sections 4246, 5303 to 5305, and 5306 of this title] may be cited as the ‘Rhinoceros and Tiger Conservation Reauthorization Act of 2001’.”
+Pub. L. 107–112, § 1, Jan. 8, 2002, 115 Stat. 2097, provided that: “This Act [enacting section 5305c of this title and amending sections 4246, 5303 to 5305, and 5306 of this title] may be cited as the ‘Rhinoceros and Tiger Conservation Reauthorization Act of 2001’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–312, title IV, § 401, Oct. 30, 1998, 112 Stat. 2959, provided that: “This title [enacting sections 5305a and 5305b of this title, amending sections 5302, 5303, and 5306 of this title, and enacting provisions set out as a note below] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1998’.”
+Pub. L. 105–312, title IV, § 401, Oct. 30, 1998, 112 Stat. 2959, provided that: “This title [enacting sections 5305a and 5305b of this title, amending sections 5302, 5303, and 5306 of this title, and enacting provisions set out as a note below] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1998’.”
 
 **Short Title**
 
-Pub. L. 103–391, § 1, Oct. 22, 1994, 108 Stat. 4094, provided that: “This Act [enacting this chapter] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1994’.”
+Pub. L. 103–391, § 1, Oct. 22, 1994, 108 Stat. 4094, provided that: “This Act [enacting this chapter] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1994’.”
 
 **Congressional Findings**
 
-Pub. L. 105–312, title IV, § 402, Oct. 30, 1998, 112 Stat. 2959, provided that:
+Pub. L. 105–312, title IV, § 402, Oct. 30, 1998, 112 Stat. 2959, provided that:
 
 > “Congress finds that—
 
@@ -91,7 +91,7 @@ Pub. L. 105–312, title IV, § 402, Oct. 30, 1998, 112 Stat. 2959, provided t
 
 > **“(B)** efforts are made to educate persons regarding alternatives for traditional medicine products, the illegality of products containing, or labeled or advertised as containing, rhinoceros parts and tiger parts, and the need to conserve rhinoceros and tiger species generally.”
 
-## § 5302. Purposes
+## § 5302. Purposes
 
 The purposes of this chapter are the following:
 
@@ -101,7 +101,7 @@ The purposes of this chapter are the following:
 
 **(3)** To prohibit the sale, importation, and exportation of products intended for human consumption or application containing, or labeled or advertised as containing, any substance derived from any species of rhinoceros or tiger.
 
-(Pub. L. 103–391, § 3, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, § 403, Oct. 30, 1998, 112 Stat. 2959.)
+(Pub. L. 103–391, § 3, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, § 403, Oct. 30, 1998, 112 Stat. 2959.)
 
 **Editorial Notes**
 
@@ -109,7 +109,7 @@ The purposes of this chapter are the following:
 
 1998—Par. (3). Pub. L. 105–312 added par. (3).
 
-## § 5303. Definitions
+## § 5303. Definitions
 
 In this chapter—
 
@@ -117,9 +117,9 @@ In this chapter—
 
 **(2)** “conservation” means the use of all methods and procedures necessary to bring rhinoceros and tigers to the point at which there are sufficient populations to ensure that those species do not become extinct, including all activities associated with scientific resource management, such as research, census, law enforcement, habitat protection, acquisition, and management, propagation, live trapping, and transportation;
 
-**(3)** “Fund” means the the 1
+**(3)** “Fund” means the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 account established by division A, section 101(e), title I of Public Law 105–277 under the heading “multinational species conservation fund” [16 U.S.C. 4246];
 
@@ -143,21 +143,21 @@ account established by division A, section 101(e), title I of Public Law 105–2
 
 **(D)** any other entity subject to the jurisdiction of the United States.
 
-(Pub. L. 103–391, § 4, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, § 404, Oct. 30, 1998, 112 Stat. 2960; Pub. L. 107–112, § 6(a)(1), Jan. 8, 2002, 115 Stat. 2098.)
+(Pub. L. 103–391, § 4, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, § 404, Oct. 30, 1998, 112 Stat. 2960; Pub. L. 107–112, § 6(a)(1), Jan. 8, 2002, 115 Stat. 2098.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Division A, section 101(e), title I of Public Law 105–277, referred to in par. (3), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237, and are classified in part to section 4246 of this title.
+Division A, section 101(e), title I of Public Law 105–277, referred to in par. (3), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237, and are classified in part to section 4246 of this title.
 
 **Amendments**
 
-2002—Par. (3). Pub. L. 107–112 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘multinational species conservation fund’ ” for “Rhinoceros and Tiger Conservation Fund established under section 5305(a) of this title”.
+2002—Par. (3). Pub. L. 107–112 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘multinational species conservation fund’ ” for “Rhinoceros and Tiger Conservation Fund established under section 5305(a) of this title”.
 
 1998—Par. (6). Pub. L. 105–312 added par. (6).
 
-## § 5304. Rhinoceros and tiger conservation assistance
+## § 5304. Rhinoceros and tiger conservation assistance
 
 **(a) In general**
 
@@ -207,7 +207,7 @@ The Secretary may award to a person who is otherwise eligible for a grant under 
 
 Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
-(Pub. L. 103–391, § 5, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 107–112, § 5, Jan. 8, 2002, 115 Stat. 2098; Pub. L. 110–132, § 3(a), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 118–159, div. E, title LIII, § 5305(a), Dec. 23, 2024, 138 Stat. 2445.)
+(Pub. L. 103–391, § 5, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 107–112, § 5, Jan. 8, 2002, 115 Stat. 2098; Pub. L. 110–132, § 3(a), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 118–159, div. E, title LIII, § 5305(a), Dec. 23, 2024, 138 Stat. 2445.)
 
 **Editorial Notes**
 
@@ -215,15 +215,15 @@ Nothing in this subsection precludes the Secretary from awarding a grant on an a
 
 2024—Subsec. (g). Pub. L. 118–159 added subsec. (g).
 
-2007—Subsec. (c). Pub. L. 110–132 substituted “and to the Administrator” for “, to the Administrator, and to each country within which the project is to be conducted” in third sentence.
+2007—Subsec. (c). Pub. L. 110–132 substituted “and to the Administrator” for “, to the Administrator, and to each country within which the project is to be conducted” in third sentence.
 
 2002—Subsec. (e). Pub. L. 107–112 amended heading and text generally. Prior to amendment, text read as follows: “To the maximum extent practical, the Secretary should give consideration to projects which will enhance sustainable development programs to ensure effective, long-term conservation of rhinoceros and tigers.”
 
-## § 5305. Acceptance and use of donations
+## § 5305. Acceptance and use of donations
 
 The Secretary may accept and use donations to provide assistance under section 5304 of this title. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
-(Pub. L. 103–391, § 6, Oct. 22, 1994, 108 Stat. 4096; Pub. L. 107–112, § 6(a)(2), Jan. 8, 2002, 115 Stat. 2098.)
+(Pub. L. 103–391, § 6, Oct. 22, 1994, 108 Stat. 4096; Pub. L. 107–112, § 6(a)(2), Jan. 8, 2002, 115 Stat. 2098.)
 
 **Editorial Notes**
 
@@ -231,7 +231,7 @@ The Secretary may accept and use donations to provide assistance under section 5
 
 2002—Pub. L. 107–112 redesignated heading and text of subsec. (d) as entire section and struck out former section catchline and headings and text of subsecs. (a) to (c). Prior to amendment, text of subsecs. (a) to (c) related to establishment in the Treasury of the Rhinoceros and Tiger Conservation Fund, consisting of amounts deposited by the Secretary of the Treasury from donations and appropriated funds, to be used to provide assistance under section 5304 of this title, with not more than three percent of appropriated funds per fiscal year used to administer the Fund.
 
-## § 5305a. Prohibition on sale, importation, or exportation of products labeled or advertised as rhinoceros or tiger products
+## § 5305a. Prohibition on sale, importation, or exportation of products labeled or advertised as rhinoceros or tiger products
 
 **(a) Prohibition**
 
@@ -269,13 +269,13 @@ The Secretary, the Secretary of the Treasury, and the Secretary of the departmen
 
 Amounts received as penalties, fines, or forfeiture of property under this section shall be used in accordance with section 3375(d) of this title.
 
-(Pub. L. 103–391, § 7, as added Pub. L. 105–312, title IV, § 405(2), Oct. 30, 1998, 112 Stat. 2960.)
+(Pub. L. 103–391, § 7, as added Pub. L. 105–312, title IV, § 405(2), Oct. 30, 1998, 112 Stat. 2960.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (b)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (b)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Prior Provisions**
 
@@ -287,7 +287,7 @@ A prior section 7 of Pub. L. 103–391 was renumbered section 10 and is classifi
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 5305b. Educational outreach program
+## § 5305b. Educational outreach program
 
 **(a) In general**
 
@@ -305,9 +305,9 @@ The Secretary shall publish in the Federal Register guidelines for the program.
 
 **(3)** the status of rhinoceros and tiger species and the reasons for protecting the species.
 
-(Pub. L. 103–391, § 8, as added Pub. L. 105–312, title IV, § 406, Oct. 30, 1998, 112 Stat. 2961.)
+(Pub. L. 103–391, § 8, as added Pub. L. 105–312, title IV, § 406, Oct. 30, 1998, 112 Stat. 2961.)
 
-## § 5305c. Advisory group
+## § 5305c. Advisory group
 
 **(a) In general**
 
@@ -315,9 +315,9 @@ To assist in carrying out this chapter, the Secretary may convene an advisory gr
 
 **(b) Public participation**
 
-**(1) Meetings** The Advisory Group 1
+**(1) Meetings** The Advisory Group 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 shall—
 
@@ -337,7 +337,7 @@ Minutes of each meeting of the advisory group shall be kept by the Secretary and
 
 Chapter 10 of title 5 shall not apply to the advisory group.
 
-(Pub. L. 103–391, § 9, as added Pub. L. 107–112, § 4, Jan. 8, 2002, 115 Stat. 2097; amended Pub. L. 117–286, § 4(a)(123), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 103–391, § 9, as added Pub. L. 107–112, § 4, Jan. 8, 2002, 115 Stat. 2097; amended Pub. L. 117–286, § 4(a)(123), Dec. 27, 2022, 136 Stat. 4319.)
 
 **Editorial Notes**
 
@@ -349,7 +349,7 @@ A prior section 9 of Pub. L. 103–391 was renumbered section 10 and is classifi
 
 2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-## § 5306. Authorization of appropriations
+## § 5306. Authorization of appropriations
 
 **(a) In general**
 
@@ -359,7 +359,7 @@ There is authorized to be appropriated to the Fund $10,000,000 for each of fisca
 
 Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
-(Pub. L. 103–391, § 10, formerly § 7, Oct. 22, 1994, 108 Stat. 4097; renumbered § 9 and amended Pub. L. 105–312, title IV, §§ 405(1), 407, Oct. 30, 1998, 112 Stat. 2960, 2961; renumbered § 10 and amended Pub. L. 107–112, §§ 2–4, Jan. 8, 2002, 115 Stat. 2097; Pub. L. 110–132, § 3(b), (c), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 116–9, title VII, § 7001(c)(1)(C), Mar. 12, 2019, 133 Stat. 784; Pub. L. 118–159, div. E, title LIII, § 5305(b), Dec. 23, 2024, 138 Stat. 2446.)
+(Pub. L. 103–391, § 10, formerly § 7, Oct. 22, 1994, 108 Stat. 4097; renumbered § 9 and amended Pub. L. 105–312, title IV, §§ 405(1), 407, Oct. 30, 1998, 112 Stat. 2960, 2961; renumbered § 10 and amended Pub. L. 107–112, §§ 2–4, Jan. 8, 2002, 115 Stat. 2097; Pub. L. 110–132, § 3(b), (c), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 116–9, title VII, § 7001(c)(1)(C), Mar. 12, 2019, 133 Stat. 784; Pub. L. 118–159, div. E, title LIII, § 5305(b), Dec. 23, 2024, 138 Stat. 2446.)
 
 **Editorial Notes**
 
@@ -369,10 +369,10 @@ Of amounts available each fiscal year to carry out this chapter, the Secretary m
 
 2019—Subsec. (a). Pub. L. 116–9 substituted “2019 through 2023” for “2007 through 2012”.
 
-2007—Subsec. (a). Pub. L. 110–132, § 3(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
+2007—Subsec. (a). Pub. L. 110–132, § 3(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
 
-Subsec. (b). Pub. L. 110–132, § 3(b), substituted “$100,000” for “$80,000”.
+Subsec. (b). Pub. L. 110–132, § 3(b), substituted “$100,000” for “$80,000”.
 
-2002—Pub. L. 107–112, §§ 2, 3, designated existing provisions as subsec. (a), inserted heading, substituted “is authorized” for “are authorized” and “2001, 2002, 2003, 2004, 2005, 2006, and 2007” for “1996 through 2002”, and added subsec. (b).
+2002—Pub. L. 107–112, §§ 2, 3, designated existing provisions as subsec. (a), inserted heading, substituted “is authorized” for “are authorized” and “2001, 2002, 2003, 2004, 2005, 2006, and 2007” for “1996 through 2002”, and added subsec. (b).
 
-1998—Pub. L. 105–312, § 407, substituted “1996 through 2002” for “1996, 1997, 1998, 1999, and 2000”.
+1998—Pub. L. 105–312, § 407, substituted “1996 through 2002” for “1996, 1997, 1998, 1999, and 2000”.

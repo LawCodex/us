@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1986—Pub. L. 99–646, § 41(b), (c), Nov. 10, 1986, 100 Stat. 3600, renumbered chapter 232 (relating to special forfeiture of collateral profits of crime) as chapter 232A, and renumbered items 3671 and 3672 as items 3681 and 3682, respectively.
+1986—Pub. L. 99–646, § 41(b), (c), Nov. 10, 1986, 100 Stat. 3600, renumbered chapter 232 (relating to special forfeiture of collateral profits of crime) as chapter 232A, and renumbered items 3671 and 3672 as items 3681 and 3682, respectively.
 
-## § 3681. Order of special forfeiture
+## § 3681. Order of special forfeiture
 
 **(a)** Upon the motion of the United States attorney made at any time after conviction of a defendant for an offense under section 794 of this title or for an offense against the United States resulting in physical harm to an individual, and after notice to any interested party, the court shall, if the court determines that the interest of justice or an order of restitution under this title so requires, order such defendant to forfeit all or any part of proceeds received or to be received by that defendant, or a transferee of that defendant, from a contract relating to a depiction of such crime in a movie, book, newspaper, magazine, radio or television production, or live entertainment of any kind, or an expression of that defendant’s thoughts, opinions, or emotions regarding such crime.
 
@@ -47,13 +47,13 @@ retrieved: 2026-10-11
 
 **(d)** As used in this section, the term “interested party” includes the defendant and any transferee of proceeds due the defendant under the contract, the person with whom the defendant has contracted, and any person physically harmed as a result of the offense for which the defendant has been convicted.
 
-(Added Pub. L. 98–473, title II, § 1406(a), Oct. 12, 1984, 98 Stat. 2175, § 3671; amended Pub. L. 99–399, title XIII, § 1306(c), Aug. 27, 1986, 100 Stat. 899; renumbered § 3681 and amended Pub. L. 99–646, §§ 40, 41(a), Nov. 10, 1986, 100 Stat. 3600.)
+(Added Pub. L. 98–473, title II, § 1406(a), Oct. 12, 1984, 98 Stat. 2175, § 3671; amended Pub. L. 99–399, title XIII, § 1306(c), Aug. 27, 1986, 100 Stat. 899; renumbered § 3681 and amended Pub. L. 99–646, §§ 40, 41(a), Nov. 10, 1986, 100 Stat. 3600.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–646, § 40, struck out “chapter 227 or 231 of” after “restitution under”.
+1986—Subsec. (a). Pub. L. 99–646, § 40, struck out “chapter 227 or 231 of” after “restitution under”.
 
 Pub. L. 99–399 inserted “an offense under section 794 of this title or for”.
 
@@ -63,7 +63,7 @@ Pub. L. 99–399 inserted “an offense under section 794 of this title or for�
 
 Chapter effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as a note under section 20101 of Title 34, Crime Control and Law Enforcement.
 
-## § 3682. Notice to victims of order of special forfeiture
+## § 3682. Notice to victims of order of special forfeiture
 
 The United States attorney shall, within thirty days after the imposition of an order under this chapter and at such other times as the Attorney General may require, publish in a newspaper of general circulation in the district in which the offense for which a defendant was convicted occurred, a notice that states—
 
@@ -73,4 +73,4 @@ The United States attorney shall, within thirty days after the imposition of an 
 
 **(3)** that the court has ordered a special forfeiture of certain proceeds that may be used to satisfy a judgment obtained against the defendant by a victim of an offense for which the defendant has been convicted.
 
-(Added Pub. L. 98–473, title II, § 1406(a), Oct. 12, 1984, 98 Stat. 2176, § 3672; renumbered § 3682, Pub. L. 99–646, § 41(a), Nov. 10, 1986, 100 Stat. 3600.)
+(Added Pub. L. 98–473, title II, § 1406(a), Oct. 12, 1984, 98 Stat. 2176, § 3672; renumbered § 3682, Pub. L. 99–646, § 41(a), Nov. 10, 1986, 100 Stat. 3600.)

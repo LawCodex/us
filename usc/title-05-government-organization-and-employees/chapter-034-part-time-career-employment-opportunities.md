@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1995—Pub. L. 104–66, title III, § 3001(a)(2), Dec. 21, 1995, 109 Stat. 734, struck out item 3407 “Reports”.
+1995—Pub. L. 104–66, title III, § 3001(a)(2), Dec. 21, 1995, 109 Stat. 734, struck out item 3407 “Reports”.
 
-1978—Pub. L. 95–437, § 3(b), Oct. 10, 1978, 92 Stat. 1058, added items 3391 to 3398, which were renumbered 3401 to 3408 by Pub. L. 95–454, title IX, § 906(c)(1)(A), Oct. 13, 1978, 92 Stat. 1226, which section also substituted “CHAPTER 34” for “SUBCHAPTER VIII” in heading.
+1978—Pub. L. 95–437, § 3(b), Oct. 10, 1978, 92 Stat. 1058, added items 3391 to 3398, which were renumbered 3401 to 3408 by Pub. L. 95–454, title IX, § 906(c)(1)(A), Oct. 13, 1978, 92 Stat. 1226, which section also substituted “CHAPTER 34” for “SUBCHAPTER VIII” in heading.
 
-## § 3401. Definitions
+## § 3401. Definitions
 
 For the purpose of this chapter—
 
@@ -55,7 +55,7 @@ For the purpose of this chapter—
 
 **(2)** “part-time career employment” means part-time employment of 16 to 32 hours a week (or 32 to 64 hours during a biweekly pay period in the case of a flexible or compressed work schedule under subchapter II of chapter 61 of this title) under a schedule consisting of an equal or varied number of hours per day, whether in a position which would be part-time without regard to this section or one established to allow job-sharing or comparable arrangements, but does not include employment on a temporary or intermittent basis.
 
-(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1056, § 3391; renumbered § 3401 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(A), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 97–221, § 3, July 23, 1982, 96 Stat. 233; Pub. L. 97–468, title VI, § 615(b)(1)(B), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 102–378, § 2(15), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(1), Sept. 23, 1996, 110 Stat. 2868.)
+(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1056, § 3391; renumbered § 3401 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(A), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 97–221, § 3, July 23, 1982, 96 Stat. 233; Pub. L. 97–468, title VI, § 615(b)(1)(B), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 102–378, § 2(15), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(1), Sept. 23, 1996, 110 Stat. 2868.)
 
 **Editorial Notes**
 
@@ -69,9 +69,9 @@ For the purpose of this chapter—
 
 1982—Par. (2). Pub. L. 97–221 inserted “(or 32 to 64 hours during a biweekly pay period in the case of a flexible or compressed work schedule under subchapter II of chapter 61 of this title)” after “week”.
 
-1978—Pub. L. 95–454, § 906(c)(1)(B), renumbered section 3391 of this title as this section.
+1978—Pub. L. 95–454, § 906(c)(1)(B), renumbered section 3391 of this title as this section.
 
-Pub. L. 95–454, § 906(c)(2)(A), substituted “chapter” for “subchapter”.
+Pub. L. 95–454, § 906(c)(2)(A), substituted “chapter” for “subchapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -89,7 +89,7 @@ Section 1 of Pub. L. 95–437 provided that: “This Act [enacting this chapter,
 
 **Congressional Findings and Purpose**
 
-Pub. L. 95–437, § 2, Oct. 10, 1978, 92 Stat. 1055, provided that:
+Pub. L. 95–437, § 2, Oct. 10, 1978, 92 Stat. 1055, provided that:
 
 > **“(a)** The Congress finds that—
 
@@ -111,7 +111,7 @@ Pub. L. 95–437, § 2, Oct. 10, 1978, 92 Stat. 1055, provided that:
 
 > **“(b)** The purpose of this Act [enacting this chapter, amending sections 8347, 8716, 8906, and 8913 of this title, and enacting provisions set out as notes under this section and sections 3407 and 8906 of this title] is to provide increased part-time career employment opportunities throughout the Federal Government.”
 
-## § 3402. Establishment of part-time career employment programs
+## § 3402. Establishment of part-time career employment programs
 
 **(a)**
 
@@ -143,19 +143,19 @@ Pub. L. 95–437, § 2, Oct. 10, 1978, 92 Stat. 1055, provided that:
 
 **(C)** evaluating attitudes, benefits, costs, efficiency, and productivity associated with part-time career employment, as well as its various sociological effects as a mode of employment.
 
-(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1056, § 3392; renumbered § 3402 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(B), Oct. 13, 1978, 92 Stat. 1226.)
+(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1056, § 3392; renumbered § 3402 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(B), Oct. 13, 1978, 92 Stat. 1226.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1978—Pub. L. 95–454, § 906(c)(1)(B), renumbered section 3392 of this title as this section.
+1978—Pub. L. 95–454, § 906(c)(1)(B), renumbered section 3392 of this title as this section.
 
-Subsec. (a)(1)(B). Pub. L. 95–454, § 906(c)(2)(B)(i), substituted “3403” for “3393”.
+Subsec. (a)(1)(B). Pub. L. 95–454, § 906(c)(2)(B)(i), substituted “3403” for “3393”.
 
-Subsec. (b)(1). Pub. L. 95–454, § 906(c)(2)(B)(ii), substituted “Office of Personnel Management” for “Civil Service Commission” and “chapter” for “subchapter”.
+Subsec. (b)(1). Pub. L. 95–454, § 906(c)(2)(B)(ii), substituted “Office of Personnel Management” for “Civil Service Commission” and “chapter” for “subchapter”.
 
-Subsec. (b)(2). Pub. L. 95–454, § 906(c)(2)(B)(iii), substituted “Office” for “Commission”.
+Subsec. (b)(2). Pub. L. 95–454, § 906(c)(2)(B)(iii), substituted “Office” for “Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -163,13 +163,13 @@ Subsec. (b)(2). Pub. L. 95–454, § 906(c)(2)(B)(iii), substituted “Office�
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 3403. Limitations
+## § 3403. Limitations
 
 **(a)** An agency shall not abolish any position occupied by an employee in order to make the duties of such position available to be performed on a part-time career employment basis.
 
 **(b)** Any person who is employed on a full-time basis in an agency shall not be required to accept part-time employment as a condition of continued employment.
 
-(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, § 3393; renumbered § 3403, Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.)
+(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, § 3393; renumbered § 3403, Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.)
 
 **Editorial Notes**
 
@@ -177,11 +177,11 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 1978—Pub. L. 95–454 renumbered section 3393 of this title as this section.
 
-## § 3404. Personnel ceilings
+## § 3404. Personnel ceilings
 
 In administering any personnel ceiling applicable to an agency (or unit therein), an employee employed by such agency on a part-time career employment basis shall be counted as a fraction which is determined by dividing 40 hours into the average number of hours of such employee’s regularly scheduled workweek. This section shall become effective on October 1, 1980.
 
-(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, § 3394; renumbered § 3404, Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.)
+(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, § 3394; renumbered § 3404, Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.)
 
 **Editorial Notes**
 
@@ -189,13 +189,13 @@ In administering any personnel ceiling applicable to an agency (or unit therein)
 
 1978—Pub. L. 95–454 renumbered section 3394 of this title as this section.
 
-## § 3405. Nonapplicability
+## § 3405. Nonapplicability
 
 **(a)** If, on the date of enactment of this chapter, there is in effect with respect to positions within an agency a collective-bargaining agreement which establishes the number of hours of employment a week, then this chapter shall not apply to those positions.
 
 **(b)** This chapter shall not require part-time career employment in positions the rate of basic pay for which is fixed at a rate equal to or greater than the minimum rate payable under section 5376.
 
-(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, § 3395; renumbered § 3405 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(C), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(D)], Nov. 5, 1990, 104 Stat. 1427, 1441.)
+(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, § 3395; renumbered § 3405 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(C), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(D)], Nov. 5, 1990, 104 Stat. 1427, 1441.)
 
 **Editorial Notes**
 
@@ -207,25 +207,25 @@ The date of enactment of this chapter, referred to in subsec. (a), is the date o
 
 1990—Subsec. (b). Pub. L. 101–509 substituted “payable under section 5376” for “fixed for GS–16 of the General Schedule”.
 
-1978—Pub. L. 95–454, § 906(c)(1)(B), renumbered section 3395 of this title as this section.
+1978—Pub. L. 95–454, § 906(c)(1)(B), renumbered section 3395 of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 95–454, § 906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
+Subsecs. (a), (b). Pub. L. 95–454, § 906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1978 Amendment**
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 3406. Regulations
+## § 3406. Regulations
 
 Before any regulation is prescribed under this chapter, a copy of the proposed regulation shall be published in the Federal Register and an opportunity provided to interested parties to present written comment and, where practicable, oral comment. Initial regulations shall be prescribed not later than 180 days after the date of the enactment of this chapter.
 
-(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, § 3396; renumbered § 3406 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(C), Oct. 13, 1978, 92 Stat. 1226, 1227.)
+(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, § 3396; renumbered § 3406 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(C), Oct. 13, 1978, 92 Stat. 1226, 1227.)
 
 **Editorial Notes**
 
@@ -235,9 +235,9 @@ The date of the enactment of this chapter, referred to in text, is the date of t
 
 **Amendments**
 
-1978—Pub. L. 95–453, § 901(c)(1)(B), renumbered section 3396 of this title as this section.
+1978—Pub. L. 95–453, § 901(c)(1)(B), renumbered section 3396 of this title as this section.
 
-Pub. L. 95–454, § 906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
+Pub. L. 95–454, § 906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -245,15 +245,15 @@ Pub. L. 95–454, § 906(c)(2)(C), substituted “chapter” for “subchapter
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## [§ 3407. Repealed. Pub. L. 104–66, title III, § 3001(a)(1), Dec. 21, 1995, 109 Stat. 733]
+## [§ 3407. Repealed. Pub. L. 104–66, title III, § 3001(a)(1), Dec. 21, 1995, 109 Stat. 733]
 
-Section, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1058, § 3397; renumbered § 3407 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(D), (E), Oct. 13, 1978, 92 Stat. 1226, 1227, related to reports.
+Section, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1058, § 3397; renumbered § 3407 and amended Pub. L. 95–454, title IX, § 906(c)(1)(B), (2)(D), (E), Oct. 13, 1978, 92 Stat. 1226, 1227, related to reports.
 
-## § 3408. Employee organization representation
+## § 3408. Employee organization representation
 
 If an employee organization has been accorded exclusive recognition with respect to a unit within an agency, then the employee organization shall be entitled to represent all employees within that unit employed on a part-time career employment basis.
 
-(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1058, § 3398; renumbered § 3408, Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.)
+(Added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1058, § 3398; renumbered § 3408, Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.)
 
 **Editorial Notes**
 

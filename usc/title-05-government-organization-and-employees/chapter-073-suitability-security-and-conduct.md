@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2003—Pub. L. 108–136, div. A, title XI, § 1125(b)(3), Nov. 24, 2003, 117 Stat. 1640, added item 7302.
+2003—Pub. L. 108–136, div. A, title XI, § 1125(b)(3), Nov. 24, 2003, 117 Stat. 1640, added item 7302.
 
-2000—Pub. L. 106–554, § 1(a)(3) [title VI, § 639(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–168, added subchapter VII heading and item 7371.
+2000—Pub. L. 106–554, § 1(a)(3) [title VI, § 639(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–168, added subchapter VII heading and item 7371.
 
-1993—Pub. L. 103–94, § 2(b)(2), Oct. 6, 1993, 107 Stat. 1004, amended analysis for subchapter III generally, reenacting subchapter III heading without change, substituting “participation” for “contributions and services” in item 7321, “Definitions” for “Political use of authority or influence; prohibition” in item 7322, “activity authorized; prohibitions” for “contributions; prohibition” in item 7323, “Political activities on duty; prohibition” for “Influencing elections; taking part in political campaigns; prohibitions; exceptions” in item 7324, “Political activity permitted; employees residing in certain municipalities” for “Penalties” in item 7325, and “Penalties” for “Nonpartisan political activity permitted” in item 7326, and striking out item 7327 “Political activity permitted; employees residing in certain municipalities” and item 7328 “General Accounting Office employees”.
+1993—Pub. L. 103–94, § 2(b)(2), Oct. 6, 1993, 107 Stat. 1004, amended analysis for subchapter III generally, reenacting subchapter III heading without change, substituting “participation” for “contributions and services” in item 7321, “Definitions” for “Political use of authority or influence; prohibition” in item 7322, “activity authorized; prohibitions” for “contributions; prohibition” in item 7323, “Political activities on duty; prohibition” for “Influencing elections; taking part in political campaigns; prohibitions; exceptions” in item 7324, “Political activity permitted; employees residing in certain municipalities” for “Penalties” in item 7325, and “Penalties” for “Nonpartisan political activity permitted” in item 7326, and striking out item 7327 “Political activity permitted; employees residing in certain municipalities” and item 7328 “General Accounting Office employees”.
 
-1989—Pub. L. 101–194, title III, § 303(b), Nov. 30, 1989, 103 Stat. 1747, added item 7353.
+1989—Pub. L. 101–194, title III, § 303(b), Nov. 30, 1989, 103 Stat. 1747, added item 7353.
 
-1986—Pub. L. 99–570, title VI, § 6002(a)(2), Oct. 27, 1986, 100 Stat. 3207–158, added subchapter VI heading and items 7361 to 7363.
+1986—Pub. L. 99–570, title VI, § 6002(a)(2), Oct. 27, 1986, 100 Stat. 3207–158, added subchapter VI heading and items 7361 to 7363.
 
-1980—Pub. L. 96–191, § 8(e)(2), Feb. 15, 1980, 94 Stat. 33, added item 7328.
+1980—Pub. L. 96–191, § 8(e)(2), Feb. 15, 1980, 94 Stat. 33, added item 7328.
 
-1968—Pub. L. 90–351, title V, § 1001(b), June 19, 1968, 82 Stat. 235, substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter II heading and added item 7313.
+1968—Pub. L. 90–351, title V, § 1001(b), June 19, 1968, 82 Stat. 235, substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter II heading and added item 7313.
 
-1967—Pub. L. 90–83, § 1(46), Sept. 11, 1967, 81 Stat. 209, inserted “GIFTS AND” before “DECORATIONS” in subchapter IV heading, struck out item 7341 “Receipt and display of foreign decorations”, and added item 7342.
+1967—Pub. L. 90–83, § 1(46), Sept. 11, 1967, 81 Stat. 209, inserted “GIFTS AND” before “DECORATIONS” in subchapter IV heading, struck out item 7341 “Receipt and display of foreign decorations”, and added item 7342.
 
 ## SUBCHAPTER I—REGULATION OF CONDUCT
 
-### § 7301. Presidential regulations
+### § 7301. Presidential regulations
 
 The President may prescribe regulations for the conduct of employees in the executive branch.
 
@@ -47,7 +47,7 @@ The President may prescribe regulations for the conduct of employees in the exec
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 631 (last 16 words). | R.S. § 1753 (last 16 words). |
+|  | 5 U.S.C. 631 (last 16 words). | R.S. § 1753 (last 16 words). |
 
 The words “employees in the executive branch” are substituted for “persons who may receive appointments in the civil service”.
 
@@ -57,15 +57,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–94, § 1, Oct. 6, 1993, 107 Stat. 1001, provided: “That this Act [enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39] may be cited as the ‘Hatch Act Reform Amendments of 1993’.”
+Pub. L. 103–94, § 1, Oct. 6, 1993, 107 Stat. 1001, provided: “That this Act [enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39] may be cited as the ‘Hatch Act Reform Amendments of 1993’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–570, title VI, § 6001, Oct. 27, 1986, 100 Stat. 3207–157, provided that: “This title [enacting sections 7361 to 7363 and 7904 of this title, amending sections 290dd–1 and 290ee–1 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 7361 of this title and section 801 of Title 21, Food and Drugs] may be cited as the ‘Federal Employee Substance Abuse Education and Treatment Act of 1986’.”
+Pub. L. 99–570, title VI, § 6001, Oct. 27, 1986, 100 Stat. 3207–157, provided that: “This title [enacting sections 7361 to 7363 and 7904 of this title, amending sections 290dd–1 and 290ee–1 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 7361 of this title and section 801 of Title 21, Food and Drugs] may be cited as the ‘Federal Employee Substance Abuse Education and Treatment Act of 1986’.”
 
 **Transportation Workplace Drug and Alcohol Testing Program; Addition of Fentanyl and Other Substances**
 
-Pub. L. 115–271, title VIII, § 8105, Oct. 24, 2018, 132 Stat. 4105, provided that:
+Pub. L. 115–271, title VIII, § 8105, Oct. 24, 2018, 132 Stat. 4105, provided that:
 
 > **“(a) Mandatory Guidelines for Federal Workplace Drug Testing Programs.—**
 
@@ -93,7 +93,7 @@ Pub. L. 115–271, title VIII, § 8105, Oct. 24, 2018, 132 Stat. 4105, provide
 
 **Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Oral Fluid**
 
-Pub. L. 115–271, title VIII, § 8107, Oct. 24, 2018, 132 Stat. 4107, provided that:
+Pub. L. 115–271, title VIII, § 8107, Oct. 24, 2018, 132 Stat. 4107, provided that:
 
 > **“(a) Deadline.—** Not later than December 31, 2018, the Secretary of Health and Human Services shall publish in the Federal Register a final notice of the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Oral Fluid, based on the notice of proposed mandatory guidelines published in the Federal Register on May 15, 2015 (94 [probably should be 80] FR 28054).
 
@@ -103,7 +103,7 @@ Pub. L. 115–271, title VIII, § 8107, Oct. 24, 2018, 132 Stat. 4107, provide
 
 **Electronic Recordkeeping**
 
-Pub. L. 115–271, title VIII, § 8108(a), (b), Oct. 24, 2018, 132 Stat. 4107, provided that:
+Pub. L. 115–271, title VIII, § 8108(a), (b), Oct. 24, 2018, 132 Stat. 4107, provided that:
 
 > **“(a) Deadline.—** Not later than 1 year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services shall—
 
@@ -115,7 +115,7 @@ Pub. L. 115–271, title VIII, § 8108(a), (b), Oct. 24, 2018, 132 Stat. 4107,
 
 **Continuation of Random Drug Testing Program for Certain Department of Defense Employees**
 
-Pub. L. 105–261, div. A, title XI, § 1108, Oct. 17, 1998, 112 Stat. 2142, provided that:
+Pub. L. 105–261, div. A, title XI, § 1108, Oct. 17, 1998, 112 Stat. 2142, provided that:
 
 > **“(a) Continuation of Existing Program.—** The Secretary of Defense shall continue to actively carry out the drug testing program, originally required by section 3(a) of Executive Order No. 12564 (51 Fed. Reg. 32889; September 15, 1986) [set out below], involving civilian employees of the Department of Defense who are considered to be employees in sensitive positions. The Secretary shall comply with the drug testing procedures prescribed pursuant to section 4 of the Executive order.
 
@@ -127,31 +127,31 @@ Pub. L. 105–261, div. A, title XI, § 1108, Oct. 17, 1998, 112 Stat. 2142, p
 
 **Annual Certification of Drug-Free Workplace Plan Administrators**
 
-Pub. L. 106–58, title VI, § 624, Sept. 29, 1999, 113 Stat. 471, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President’s Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
+Pub. L. 106–58, title VI, § 624, Sept. 29, 1999, 113 Stat. 471, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President’s Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 634], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524.
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 634], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524.
 
-Pub. L. 105–61, title VI, § 621, Oct. 10, 1997, 111 Stat. 1313.
+Pub. L. 105–61, title VI, § 621, Oct. 10, 1997, 111 Stat. 1313.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 623], Sept. 30, 1996, 110 Stat. 3009–314, 3009–358.
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 623], Sept. 30, 1996, 110 Stat. 3009–314, 3009–358.
 
-Pub. L. 104–52, title VI, § 624, Nov. 19, 1995, 109 Stat. 502.
+Pub. L. 104–52, title VI, § 624, Nov. 19, 1995, 109 Stat. 502.
 
-Pub. L. 103–329, title VI, § 638, Sept. 30, 1994, 108 Stat. 2432.
+Pub. L. 103–329, title VI, § 638, Sept. 30, 1994, 108 Stat. 2432.
 
 **Display in Federal Buildings of Code of Ethics for Government Service**
 
-Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, § 4(a), Aug. 6, 1996, 110 Stat. 1566.
+Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, § 4(a), Aug. 6, 1996, 110 Stat. 1566.
 
 **Agency Acceptance of Donations for Federal Employees**
 
-Pub. L. 102–368, title XI, § 901, Sept. 23, 1992, 106 Stat. 1156, effective through Sept. 30, 1993, authorized Federal agencies to accept gifts of property, money, or anything else of value from non-Federal sources for extraordinary and unanticipated expenses incurred by agency employees in their personal capacity within areas designated as disaster areas pursuant to President’s declaration of a disaster resulting from Hurricane Andrew, Typhoon Omar, and Hurricane Iniki, directed agencies to establish written procedures to implement this program, and authorized agencies to accept gifts designated for individual employees.
+Pub. L. 102–368, title XI, § 901, Sept. 23, 1992, 106 Stat. 1156, effective through Sept. 30, 1993, authorized Federal agencies to accept gifts of property, money, or anything else of value from non-Federal sources for extraordinary and unanticipated expenses incurred by agency employees in their personal capacity within areas designated as disaster areas pursuant to President’s declaration of a disaster resulting from Hurricane Andrew, Typhoon Omar, and Hurricane Iniki, directed agencies to establish written procedures to implement this program, and authorized agencies to accept gifts designated for individual employees.
 
 **Restriction on Availability of Funds To Administer or Implement Drug Testing**
 
-Pub. L. 100–71, title V, § 503, July 11, 1987, 101 Stat. 468, as amended by Pub. L. 102–54, § 13(b)(6), June 13, 1991, 105 Stat. 274, provided:
+Pub. L. 100–71, title V, § 503, July 11, 1987, 101 Stat. 468, as amended by Pub. L. 102–54, § 13(b)(6), June 13, 1991, 105 Stat. 274, provided:
 
 > **“(a)**
 
@@ -255,7 +255,7 @@ Pub. L. 100–71, title V, § 503, July 11, 1987, 101 Stat. 468, as amended by
 
 **Limitation on Gratuities at Naval Shipbuilding Ceremonies**
 
-Pub. L. 99–145, title XIV, § 1461, Nov. 8, 1985, 99 Stat. 765, provided that:
+Pub. L. 99–145, title XIV, § 1461, Nov. 8, 1985, 99 Stat. 765, provided that:
 
 > **“(a) General Rule.—** A Federal officer, employee, or Member of Congress may not accept, directly or indirectly, any tangible thing of value as a gift or memento in connection with a ceremony to mark the completion of a naval shipbuilding milestone.
 
@@ -535,7 +535,7 @@ Sec. 504. *Judicial Review*. This order is intended only to improve the internal
 
 **Executive Order No. 12820**
 
-Ex. Ord. No. 12820, Nov. 5, 1992, 57 F.R. 53429, which facilitated Federal employees’ participation in community service activities, was revoked by Ex. Ord. No. 13401, § 3(b), Apr. 27, 2006, 71 F.R. 25738.
+Ex. Ord. No. 12820, Nov. 5, 1992, 57 F.R. 53429, which facilitated Federal employees’ participation in community service activities, was revoked by Ex. Ord. No. 13401, § 3(b), Apr. 27, 2006, 71 F.R. 25738.
 
 **Ex. Ord. No. 13058. Protecting Federal Employees and the Public From Exposure to Tobacco Smoke in the Federal Workplace**
 
@@ -623,7 +623,7 @@ George W. Bush.
 
 **Ex. Ord. No. 13488. Granting Reciprocity on Excepted Service and Federal Contractor Employee Fitness and Reinvestigating Individuals in Positions of Public Trust**
 
-Ex. Ord. No. 13488, Jan. 16, 2009, 74 F.R. 4111, as amended by Ex. Ord. No. 13764, § 2, Jan. 17, 2017, 82 F.R. 8116, provided:
+Ex. Ord. No. 13488, Jan. 16, 2009, 74 F.R. 4111, as amended by Ex. Ord. No. 13764, § 2, Jan. 17, 2017, 82 F.R. 8116, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 1104(a)(1), 3301, and 7301 of title 5, United States Code, and in order to simplify and streamline the system of Federal Government personnel investigative and adjudicative processes to make them more efficient and effective, it is hereby ordered as follows:
 
@@ -685,19 +685,19 @@ Sec. 7. *Effective Date and Applicability*. This order is effective upon issuanc
 
 **Executive Order No. 13989**
 
-Ex. Ord. No. 13989, Jan. 20, 2021, 86 F.R. 7029, which required every appointee in every executive agency on or after Jan. 20, 2021, contractually commit to an ethics pledge, was revoked by Ex. Ord. No. 14148, § 2(e), Jan. 20, 2025, 90 F.R. 8237.
+Ex. Ord. No. 13989, Jan. 20, 2021, 86 F.R. 7029, which required every appointee in every executive agency on or after Jan. 20, 2021, contractually commit to an ethics pledge, was revoked by Ex. Ord. No. 14148, § 2(e), Jan. 20, 2025, 90 F.R. 8237.
 
 Provisions relating to ethics commitments by executive branch appointees were contained in the following prior Executive Orders:
 
 Ex. Ord. No. 13770, Jan. 28, 2017, 82 F.R. 9333, revoked by Ex. Ord. No. 13983, Jan. 19, 2021, 86 F.R. 6835, eff. noon Jan. 20, 2021.
 
-Ex. Ord. No. 13490, Jan. 21, 2009, 74 F.R. 4673, revoked by Ex. Ord. No. 13770, § 6(a), Jan. 28, 2017, 82 F.R. 9337.
+Ex. Ord. No. 13490, Jan. 21, 2009, 74 F.R. 4673, revoked by Ex. Ord. No. 13770, § 6(a), Jan. 28, 2017, 82 F.R. 9337.
 
 Ex. Ord. No. 12834, Jan. 20, 1993, 58 F.R. 5911, revoked by Ex. Ord. No. 13184, Dec. 28, 2000, 66 F.R. 697, eff. noon Jan. 20, 2001.
 
 **Executive Order No. 14043**
 
-Ex. Ord. No. 14043, Sept. 9, 2021, 86 F.R. 50989, which related to mandatory COVID–19 vaccination for Federal employees, was revoked by Ex. Ord. No. 14099, § 2, May 9, 2023, 88 F.R. 30891, and Ex. Ord. No. 14174, § 1(b), Jan. 21, 2025, 90 F.R. 8637.
+Ex. Ord. No. 14043, Sept. 9, 2021, 86 F.R. 50989, which related to mandatory COVID–19 vaccination for Federal employees, was revoked by Ex. Ord. No. 14099, § 2, May 9, 2023, 88 F.R. 30891, and Ex. Ord. No. 14174, § 1(b), Jan. 21, 2025, 90 F.R. 8637.
 
 **Delegation of Certain Functions and Authorities Relating to Workplace Accommodations for Nursing Mothers**
 
@@ -781,17 +781,17 @@ Sec. 2. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Donald J. Trump.
 
-### § 7302. Post-employment notification
+### § 7302. Post-employment notification
 
 **(a)** Not later than the effective date of the amendments made by section 1106 of the National Defense Authorization Act for Fiscal Year 2004,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or 180 days after the date of the enactment of that Act, whichever is later, the Office of Personnel Management shall, in consultation with the Attorney General and the Office of Government Ethics, promulgate regulations requiring that each Executive branch agency notify any employee of that agency who is subject to the provisions of section 207(c)(1) of title 18, as a result of the amendment to section 207(c)(2)(A)(ii) of that title by that Act.
 
 **(b)** The regulations shall require that notice be given before, or as part of, the action that affects the employee’s coverage under section 207(c)(1) of title 18, by virtue of the provisions of section 207(c)(2)(A)(ii) of that title, and again when employment or service in the covered position is terminated.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1125(b)(2), Nov. 24, 2003, 117 Stat. 1639.)
+(Added Pub. L. 108–136, div. A, title XI, § 1125(b)(2), Nov. 24, 2003, 117 Stat. 1639.)
 
 **Editorial Notes**
 
@@ -813,9 +813,9 @@ Section effective on first day of first pay period beginning on or after Jan. 1,
 
 **Amendments**
 
-1968—Pub. L. 90–351, title V, § 1001(c), June 19, 1968, 82 Stat. 235, substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter heading.
+1968—Pub. L. 90–351, title V, § 1001(c), June 19, 1968, 82 Stat. 235, substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter heading.
 
-### § 7311. Loyalty and striking
+### § 7311. Loyalty and striking
 
 An individual may not accept or hold a position in the Government of the United States or the government of the District of Columbia if he—
 
@@ -833,8 +833,8 @@ An individual may not accept or hold a position in the Government of the United 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118p. | Aug. 9, 1955, ch. 690, § 1, 69 Stat. 624. |
-|  | [Uncodified]. | June 29, 1956, ch. 479, § 3, (as applicable to the Act of Aug. 9, 1955, ch. 690, § 1, 69 Stat. 624), 70 Stat. 453. |
+|  | 5 U.S.C. 118p. | Aug. 9, 1955, ch. 690, § 1, 69 Stat. 624. |
+|  | [Uncodified]. | June 29, 1956, ch. 479, § 3, (as applicable to the Act of Aug. 9, 1955, ch. 690, § 1, 69 Stat. 624), 70 Stat. 453. |
 
 The word “position” is coextensive with and is substituted for “office or employment”.
 
@@ -848,7 +848,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Executive Order No. 10450**
 
-Ex. Ord. No. 10450, Apr. 27, 1953, 18 F.R. 2489, as amended by Ex. Ord. No. 10491, Oct. 15, 1953, 18 F.R. 6583; Ex. Ord. No. 10531, May 27, 1954, 19 F.R. 3069; Ex. Ord. No. 10548, Aug. 3, 1954, 19 F.R. 4871; Ex. Ord. No. 10550, Aug. 6, 1954, 19 F.R. 4981; Ex. Ord. No. 11605, July 2, 1971, 36 F.R. 12831; Ex. Ord. No. 11785, June 4, 1974, 39 F.R. 20053; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which related to security requirements for Government employees, was revoked by Ex. Ord. No. 13467, § 3(a), as added by Ex. Ord. No. 13764, § 3(v), Jan. 17, 2017, 82 F.R. 8128, which is set out in a note under section 3161 of Title 50, War and National Defense, and which contains additional construction provisions related to the revocation.
+Ex. Ord. No. 10450, Apr. 27, 1953, 18 F.R. 2489, as amended by Ex. Ord. No. 10491, Oct. 15, 1953, 18 F.R. 6583; Ex. Ord. No. 10531, May 27, 1954, 19 F.R. 3069; Ex. Ord. No. 10548, Aug. 3, 1954, 19 F.R. 4871; Ex. Ord. No. 10550, Aug. 6, 1954, 19 F.R. 4981; Ex. Ord. No. 11605, July 2, 1971, 36 F.R. 12831; Ex. Ord. No. 11785, June 4, 1974, 39 F.R. 20053; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which related to security requirements for Government employees, was revoked by Ex. Ord. No. 13467, § 3(a), as added by Ex. Ord. No. 13764, § 3(v), Jan. 17, 2017, 82 F.R. 8128, which is set out in a note under section 3161 of Title 50, War and National Defense, and which contains additional construction provisions related to the revocation.
 
 **Executive Order No. 11605**
 
@@ -874,17 +874,17 @@ Sec. 4. Executive Order No. 11605 of July 2, 1971, is revoked.
 
 Richard Nixon.
 
-### § 7312. Employment and clearance; individuals removed for national security
+### § 7312. Employment and clearance; individuals removed for national security
 
 Removal under section 7532 of this title does not affect the right of an individual so removed to seek or accept employment in an agency of the United States other than the agency from which removed. However, the appointment of an individual so removed may be made only after the head of the agency concerned has consulted with the Office of Personnel Management. The Office, on written request of the head of the agency or the individual so removed, may determine whether the individual is eligible for employment in an agency other than the agency from which removed.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 524; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 524; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 22–1 (4th and 5th provisos). | Aug. 26, 1950, ch. 803, § 1 (4th and 5th provisos), 64 Stat. 477. |
+|  | 5 U.S.C. 22–1 (4th and 5th provisos). | Aug. 26, 1950, ch. 803, § 1 (4th and 5th provisos), 64 Stat. 477. |
 
 The words “Removal under section 7532 of this title” and “so removed” are coextensive with and substituted for “termination of employment herein provided” and “whose employment has been terminated under the provisions of said sections”, respectively.
 
@@ -902,7 +902,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 7313. Riots and civil disorders
+### § 7313. Riots and civil disorders
 
 **(a)** An individual convicted by any Federal, State, or local court of competent jurisdiction of—
 
@@ -918,17 +918,17 @@ shall, if the offense for which he is convicted is a felony, be ineligible to ac
 
 **(b)** For the purposes of this section, “felony” means any offense for which imprisonment is authorized for a term exceeding one year.
 
-(Added Pub. L. 90–351, title V, § 1001(a), June 19, 1968, 82 Stat. 235.)
+(Added Pub. L. 90–351, title V, § 1001(a), June 19, 1968, 82 Stat. 235.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 90–351, title V, § 1002, June 19, 1968, 82 Stat. 235, provided that: “The provisions of section 1001(a) of this title [enacting this section] shall apply only with respect to acts referred to in section 7313(a)(1)–(4) of title 5, United States Code, as added by section 1001 of this title, which are committed after the date of enactment of this title [June 19, 1968].”
+Pub. L. 90–351, title V, § 1002, June 19, 1968, 82 Stat. 235, provided that: “The provisions of section 1001(a) of this title [enacting this section] shall apply only with respect to acts referred to in section 7313(a)(1)–(4) of title 5, United States Code, as added by section 1001 of this title, which are committed after the date of enactment of this title [June 19, 1968].”
 
 **Receipt of Benefits Under Laws Providing Relief for Disaster Victims**
 
-Pub. L. 90–448, title XI, § 1106(e), Aug. 1, 1968, 82 Stat. 567, provided that: “No person who has been convicted of committing a felony during and in connection with a riot or civil disorder shall be permitted, for a period of one year after the date of his conviction, to receive any benefit under any law of the United States providing relief for disaster victims.”
+Pub. L. 90–448, title XI, § 1106(e), Aug. 1, 1968, 82 Stat. 567, provided that: “No person who has been convicted of committing a felony during and in connection with a riot or civil disorder shall be permitted, for a period of one year after the date of his conviction, to receive any benefit under any law of the United States providing relief for disaster victims.”
 
 ## SUBCHAPTER III—POLITICAL ACTIVITIES
 
@@ -936,13 +936,13 @@ Pub. L. 90–448, title XI, § 1106(e), Aug. 1, 1968, 82 Stat. 567, provided t
 
 **Amendments**
 
-1993—Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1001, reenacted subchapter heading without change.
+1993—Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1001, reenacted subchapter heading without change.
 
-### § 7321. Political participation
+### § 7321. Political participation
 
 It is the policy of the Congress that employees should be encouraged to exercise fully, freely, and without fear of penalty or reprisal, and to the extent not expressly prohibited by law, their right to participate or to refrain from participating in the political processes of the Nation.
 
-(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1001.)
+(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -954,7 +954,7 @@ A prior section 7321, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, related to 
 
 **Effective Date; Savings Provision**
 
-Pub. L. 103–94, § 12, Oct. 6, 1993, 107 Stat. 1011, provided that:
+Pub. L. 103–94, § 12, Oct. 6, 1993, 107 Stat. 1011, provided that:
 
 > **“(a)** The amendments made by this Act [enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of this title] shall take effect 120 days after the date of the enactment of this Act [Oct. 6, 1993], except that the authority to prescribe regulations granted under section 7325 of title 5, United States Code (as added by section 2 of this Act), shall take effect on the date of the enactment of this Act.
 
@@ -996,7 +996,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 William J. Clinton.
 
-### § 7322. Definitions
+### § 7322. Definitions
 
 For the purpose of this subchapter—
 
@@ -1020,7 +1020,7 @@ but does not include a member of the uniformed services or an individual employe
 
 **(D)** includes the provision of personal services for any political purpose.
 
-(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1001; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–230, § 3(e), Dec. 28, 2012, 126 Stat. 1617.)
+(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1001; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–230, § 3(e), Dec. 28, 2012, 126 Stat. 1617.)
 
 **Editorial Notes**
 
@@ -1030,9 +1030,9 @@ A prior section 7322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 
 **Amendments**
 
-2012—Par. (1). Pub. L. 112–230, § 3(e)(4), substituted “services or an individual employed or holding office in the government of the District of Columbia;” for “services;” in concluding provisions.
+2012—Par. (1). Pub. L. 112–230, § 3(e)(4), substituted “services or an individual employed or holding office in the government of the District of Columbia;” for “services;” in concluding provisions.
 
-Pub. L. 112–230, § 3(e)(1)–(3), inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the government of the District of Columbia, other than the Mayor or a member of the City Council or the Recorder of Deeds;”.
+Pub. L. 112–230, § 3(e)(1)–(3), inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the government of the District of Columbia, other than the Mayor or a member of the City Council or the Recorder of Deeds;”.
 
 2004—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -1042,7 +1042,7 @@ Pub. L. 112–230, § 3(e)(1)–(3), inserted “or” at end of subpar. (A), 
 
 Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see section 5(a) of Pub. L. 112–230, set out as a note under section 1501 of this title.
 
-### § 7323. Political activity authorized; prohibitions
+### § 7323. Political activity authorized; prohibitions
 
 **(a)** Subject to the provisions of subsection (b), an employee may take an active part in political management or in political campaigns, except an employee may not—
 
@@ -1050,13 +1050,13 @@ Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see sectio
 
 **(2)** knowingly solicit, accept, or receive a political contribution from any person, unless such person is—
 
-**(A)** a member of the same Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); 1
+**(A)** a member of the same Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B)** not a subordinate employee; and
 
-**(C)** the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) <sup>1</sup> of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); <sup>1</sup> or
+**(C)** the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) <sup>1</sup> of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); <sup>1</sup> or
 
 **(3)** run for the nomination or as a candidate for election to a partisan political office; or
 
@@ -1114,7 +1114,7 @@ Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see sectio
 
 **(c)** An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
-(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, § 501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, § 1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, § 1(a)(3) [title VI, § 645(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, § 811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–458, title I, § 1079(a), Dec. 17, 2004, 118 Stat. 3695; Pub. L. 109–177, title V, § 506(b)(2), Mar. 9, 2006, 120 Stat. 249; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, § 501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, § 1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, § 1(a)(3) [title VI, § 645(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, § 811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–458, title I, § 1079(a), Dec. 17, 2004, 118 Stat. 3695; Pub. L. 109–177, title V, § 506(b)(2), Mar. 9, 2006, 120 Stat. 249; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 **Editorial Notes**
 
@@ -1122,7 +1122,7 @@ Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see sectio
 
 The date of enactment of the Hatch Act Reform Amendments of 1993, referred to in subsec. (a)(2)(A), (C), is the date of enactment of Pub. L. 103–94, which was approved Oct. 6, 1993.
 
-The Federal Election Campaign Act of 1971, referred to in subsec. (a)(2)(A), (C), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Section 315 of this Act is now classified to section 30116 of Title 52. For complete classification of this Act to the Code, see Tables.
+The Federal Election Campaign Act of 1971, referred to in subsec. (a)(2)(A), (C), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Section 315 of this Act is now classified to section 30116 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
@@ -1168,7 +1168,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 
-### § 7324. Political activities on duty; prohibition
+### § 7324. Political activities on duty; prohibition
 
 **(a)** An employee may not engage in political activity—
 
@@ -1194,15 +1194,15 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 
 **(ii)** an employee appointed by the President, by and with the advice and consent of the Senate, whose position is located within the United States, who determines policies to be pursued by the United States in relations with foreign powers or in the nationwide administration of Federal laws.
 
-(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1003.)
+(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1003.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7324, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525; Pub. L. 93–268, § 4(a), Apr. 17, 1974, 88 Stat. 87, prohibited Executive agency employees and employees of the District of Columbia from influencing elections or taking part in political campaigns, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7324, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525; Pub. L. 93–268, § 4(a), Apr. 17, 1974, 88 Stat. 87, prohibited Executive agency employees and employees of the District of Columbia from influencing elections or taking part in political campaigns, prior to the general revision of this subchapter by Pub. L. 103–94.
 
-### § 7325. Political activity permitted; employees residing in certain municipalities
+### § 7325. Political activity permitted; employees residing in certain municipalities
 
 The Office of Personnel Management may prescribe regulations permitting employees, without regard to the prohibitions in paragraphs (2) and (3) of section 7323(a) and paragraph (2) of section 7323(b) of this title, to take an active part in political management and political campaigns involving the municipality or other political subdivision in which they reside, to the extent the Office considers it to be in their domestic interest, when—
 
@@ -1216,13 +1216,13 @@ The Office of Personnel Management may prescribe regulations permitting employee
 
 **(2)** the Office determines that because of special or unusual circumstances which exist in the municipality or political subdivision it is in the domestic interest of the employees and individuals to permit that political participation.
 
-(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1004; amended Pub. L. 104–93, title III, § 308, Jan. 6, 1996, 109 Stat. 966; Pub. L. 112–230, § 3(f), Dec. 28, 2012, 126 Stat. 1617.)
+(Added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1004; amended Pub. L. 104–93, title III, § 308, Jan. 6, 1996, 109 Stat. 966; Pub. L. 112–230, § 3(f), Dec. 28, 2012, 126 Stat. 1617.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96–54, § 2(a)(44), Aug. 14, 1979, 93 Stat. 384, related to penalties, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96–54, § 2(a)(44), Aug. 14, 1979, 93 Stat. 384, related to penalties, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 **Amendments**
 
@@ -1236,7 +1236,7 @@ A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96�
 
 Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see section 5(a) of Pub. L. 112–230, set out as a note under section 1501 of this title.
 
-### § 7326. Penalties
+### § 7326. Penalties
 
 An employee or individual who violates section 7323 or 7324 shall be subject to—
 
@@ -1246,19 +1246,19 @@ An employee or individual who violates section 7323 or 7324 shall be subject to�
 
 **(3)** any combination of the penalties described in paragraph (1) or (2).
 
-(Added Pub. L. 112–230, § 4, Dec. 28, 2012, 126 Stat. 1617; amended Pub. L. 115–91, div. A, title X, § 1097(k)(1), Dec. 12, 2017, 131 Stat. 1626.)
+(Added Pub. L. 112–230, § 4, Dec. 28, 2012, 126 Stat. 1617; amended Pub. L. 115–91, div. A, title X, § 1097(k)(1), Dec. 12, 2017, 131 Stat. 1626.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7326, added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1004, related to penalties, prior to repeal by Pub. L. 112–230, § 4, Dec. 28, 2012, 126 Stat. 1617.
+A prior section 7326, added Pub. L. 103–94, § 2(a), Oct. 6, 1993, 107 Stat. 1004, related to penalties, prior to repeal by Pub. L. 112–230, § 4, Dec. 28, 2012, 126 Stat. 1617.
 
 Another prior section 7326, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526, authorized nonpartisan political activities, prior to the general revision of this subchapter by Pub. L. 103–94.
 
-A prior section 7327, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96–54, § 2(a)(14), (15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–468, title VI, § 615(b)(1)(E), Jan. 14, 1983, 96 Stat. 2578, related to permitted political activity in certain municipalities where employees reside, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7327, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96–54, § 2(a)(14), (15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–468, title VI, § 615(b)(1)(E), Jan. 14, 1983, 96 Stat. 2578, related to permitted political activity in certain municipalities where employees reside, prior to the general revision of this subchapter by Pub. L. 103–94.
 
-A prior section 7328, added Pub. L. 96–191, § 8(e)(1), Feb. 15, 1980, 94 Stat. 33, exempted employees of the General Accounting Office from provisions of this subchapter, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7328, added Pub. L. 96–191, § 8(e)(1), Feb. 15, 1980, 94 Stat. 33, exempted employees of the General Accounting Office from provisions of this subchapter, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 **Amendments**
 
@@ -1268,13 +1268,13 @@ A prior section 7328, added Pub. L. 96–191, § 8(e)(1), Feb. 15, 1980, 94 St
 
 **Effective Date of 2017 Amendment; Applicability**
 
-Pub. L. 115–91, div. A, title X, § 1097(k)(2), Dec. 12, 2017, 131 Stat. 1626, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to any violation of section 7323 or 7324 of title 5, United States Code, occurring after the date of enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title X, § 1097(k)(2), Dec. 12, 2017, 131 Stat. 1626, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to any violation of section 7323 or 7324 of title 5, United States Code, occurring after the date of enactment of this Act [Dec. 12, 2017].”
 
 **Effective Date; Applicability**
 
 Section effective 30 days after Dec. 28, 2012, see section 5(a) of Pub. L. 112–230, set out as an Effective Date of 2012 Amendment note under section 1501 of this title.
 
-Pub. L. 112–230, § 5(b), Dec. 28, 2012, 126 Stat. 1617, provided that:
+Pub. L. 112–230, § 5(b), Dec. 28, 2012, 126 Stat. 1617, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by section 4 [enacting this section and repealing former section 7326 of this title] shall apply with respect to any violation occurring before, on, or after the effective date of this Act [see above].
 
@@ -1290,13 +1290,13 @@ Pub. L. 112–230, § 5(b), Dec. 28, 2012, 126 Stat. 1617, provided that:
 
 **Amendments**
 
-1967—Pub. L. 90–83, § 1(45)(A), Sept. 11, 1967, 81 Stat. 208, substituted “FOREIGN GIFTS AND DECORATIONS” for “FOREIGN DECORATIONS” in subchapter heading.
+1967—Pub. L. 90–83, § 1(45)(A), Sept. 11, 1967, 81 Stat. 208, substituted “FOREIGN GIFTS AND DECORATIONS” for “FOREIGN DECORATIONS” in subchapter heading.
 
-### [§ 7341. Repealed. Pub. L. 90–83, § 1(45)(B), Sept. 11, 1967, 81 Stat. 208]
+### [§ 7341. Repealed. Pub. L. 90–83, § 1(45)(B), Sept. 11, 1967, 81 Stat. 208]
 
 Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526, related to receipt and display of foreign decorations. See section 7342 of this title.
 
-### § 7342. Receipt and disposition of foreign gifts and decorations
+### § 7342. Receipt and disposition of foreign gifts and decorations
 
 **(a)** For the purpose of this section—
 
@@ -1414,7 +1414,7 @@ Within 30 days after terminating the official use of a gift under subparagraph (
 
 **(C)** In this paragraph, the term “intelligence community” has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(g)**
 
@@ -1436,17 +1436,17 @@ Within 30 days after terminating the official use of a gift under subparagraph (
 
 **(k)** The provisions of this section do not apply to grants and other forms of assistance to which section 108A of the Mutual Educational and Cultural Exchange Act of 1961 applies.
 
-(Added Pub. L. 90–83, § 1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, § 515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, § 712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, § 3(a)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–458, title I, § 1079(b), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 111–259, title III, § 361, Oct. 7, 2010, 124 Stat. 2701; Pub. L. 111–350, § 5(a)(10), Jan. 4, 2011, 124 Stat. 3841.)
+(Added Pub. L. 90–83, § 1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, § 515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, § 712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, § 3(a)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–458, title I, § 1079(b), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 111–259, title III, § 361, Oct. 7, 2010, 124 Stat. 2701; Pub. L. 111–350, § 5(a)(10), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Historical and Revision Notes**
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7342(a) | 22:2621. | Oct. 15, 1966, Pub. L. 89–673, § 2, 80 Stat. 952. |
-| 7342(b) | 22:2622. | Oct. 15, 1966, Pub. L. 89–673, § 3, 80 Stat. 952. |
-| 7342(c) | 22:2623. | Oct. 15, 1966, Pub. L. 89–673, § 4, 80 Stat. 952. |
-| 7342(d) | 22:2624. | Oct. 15, 1966, Pub. L. 89–673, § 5, 80 Stat. 952. |
-| 7342(e) | 22:2626. | Oct. 15, 1966, Pub. L. 89–673, § 7, 80 Stat. 952. |
+| 7342(a) | 22:2621. | Oct. 15, 1966, Pub. L. 89–673, § 2, 80 Stat. 952. |
+| 7342(b) | 22:2622. | Oct. 15, 1966, Pub. L. 89–673, § 3, 80 Stat. 952. |
+| 7342(c) | 22:2623. | Oct. 15, 1966, Pub. L. 89–673, § 4, 80 Stat. 952. |
+| 7342(d) | 22:2624. | Oct. 15, 1966, Pub. L. 89–673, § 5, 80 Stat. 952. |
+| 7342(e) | 22:2626. | Oct. 15, 1966, Pub. L. 89–673, § 7, 80 Stat. 952. |
 
 The definitions of “employee” and “uniformed services” in 5 U.S.C. 2105 and 2101 are broad enough to cover the persons included in 22 U.S.C. 2621(1) with the exception of (1) individuals employed by, or occupying an office or position in, the government of a territory or possession of the United States or of the District of Columbia, (2) the President, and (3) Members of Congress, who, accordingly, are covered in paragraphs (B), (D), and (E). As the Canal Zone Government is an independent agency of the United States, see section 31 of title 2, Canal Zone Code, an employee thereof is an “employee” as defined in 5 U.S.C. 2105.
 
@@ -1464,7 +1464,7 @@ Section 152 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(2), is classified to section 501 of Title 26, Internal Revenue Code.
 
-The National Security Act of 1947, referred to in subsec. (f)(4)(C), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (f)(4)(C), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (k), is classified to section 2458a of Title 22, Foreign Relations and Intercourse.
 
@@ -1486,15 +1486,15 @@ Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referr
 
 1986—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1978—Subsec. (a)(6)(A). Pub. L. 95–426, § 712(a)(1), substituted “(e)(1)” for “(e)”.
+1978—Subsec. (a)(6)(A). Pub. L. 95–426, § 712(a)(1), substituted “(e)(1)” for “(e)”.
 
-Subsec. (a)(6)(B). Pub. L. 95–426, § 712(a)(2), inserted “, except that those responsibilities (other than responsibilities involving approval of the employing agency) specified in subsection (c)(2), (d), and (g)(2)(B) shall be carried out by the Secretary of the Senate”.
+Subsec. (a)(6)(B). Pub. L. 95–426, § 712(a)(2), inserted “, except that those responsibilities (other than responsibilities involving approval of the employing agency) specified in subsection (c)(2), (d), and (g)(2)(B) shall be carried out by the Secretary of the Senate”.
 
-Subsec. (c)(2). Pub. L. 95–426, § 712(b)(1), substituted “subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2)” for “subsection (e)”.
+Subsec. (c)(2). Pub. L. 95–426, § 712(b)(1), substituted “subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2)” for “subsection (e)”.
 
-Subsec. (d). Pub. L. 95–426, § 712(b)(2), substituted “official use, for forwarding”, for “official use, or forwarding”, and “subsection (e)(1), or for disposal in accordance with subsection (e)(2)” for “subsection (e)”.
+Subsec. (d). Pub. L. 95–426, § 712(b)(2), substituted “official use, for forwarding”, for “official use, or forwarding”, and “subsection (e)(1), or for disposal in accordance with subsection (e)(2)” for “subsection (e)”.
 
-Subsec. (e). Pub. L. 95–426, § 712(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), gifts” for “Gifts”, “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
+Subsec. (e). Pub. L. 95–426, § 712(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), gifts” for “Gifts”, “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
 
 1977—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of “employee” to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
 
@@ -1522,7 +1522,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–105, title V, § 515(a)(2), Aug. 17, 1977, 91 Stat. 866, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect on January 1, 1978.”
+Pub. L. 95–105, title V, § 515(a)(2), Aug. 17, 1977, 91 Stat. 866, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect on January 1, 1978.”
 
 **Transfer of Functions**
 
@@ -1530,11 +1530,11 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 **Leasing of Space and Facilities for Storing and Safeguarding Property**
 
-Pub. L. 95–426, title VII, § 712(d), Oct. 7, 1978, 92 Stat. 995, provided that: “In the event that the space and facilities available to the Secretary of the Senate for carrying out his responsibilities in storing and safeguarding property in his custody under section 7342 of title 5, United States Code, are insufficient for such purpose, he may, with the approval of the Committee on Rules and Administration of the Senate, lease such space and facilities as may be necessary for such purpose. Rental payments under any such lease and expenses incurred in connection therewith shall be paid from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.”
+Pub. L. 95–426, title VII, § 712(d), Oct. 7, 1978, 92 Stat. 995, provided that: “In the event that the space and facilities available to the Secretary of the Senate for carrying out his responsibilities in storing and safeguarding property in his custody under section 7342 of title 5, United States Code, are insufficient for such purpose, he may, with the approval of the Committee on Rules and Administration of the Senate, lease such space and facilities as may be necessary for such purpose. Rental payments under any such lease and expenses incurred in connection therewith shall be paid from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.”
 
 **Wearing of Certain Decorations**
 
-Act Aug. 10, 1956, ch. 1041, § 33A, 70 Stat. 1126, as added by Pub. L. 85–861, Sept. 2, 1958, § 33(e), 72 Stat. 1567, provided: “A member or former member of an armed force of the United States holding any office of profit or trust under the United States may wear any decoration, order, medal, or emblem accepted (1) under the Act of July 20, 1942, chapter 508 (56 Stat. 662), or (2) before August 1, 1947, from the government of a cobelligerent or neutral nation or an American Republic.”
+Act Aug. 10, 1956, ch. 1041, § 33A, 70 Stat. 1126, as added by Pub. L. 85–861, Sept. 2, 1958, § 33(e), 72 Stat. 1567, provided: “A member or former member of an armed force of the United States holding any office of profit or trust under the United States may wear any decoration, order, medal, or emblem accepted (1) under the Act of July 20, 1942, chapter 508 (56 Stat. 662), or (2) before August 1, 1947, from the government of a cobelligerent or neutral nation or an American Republic.”
 
 **Executive Documents**
 
@@ -1544,13 +1544,13 @@ Ex. Ord. No. 11320, Dec. 12, 1966, 31 F.R. 15789, which delegated to the Secreta
 
 **Ex Ord. No. 11446. Acceptance of Service Medals and Ribbons From Multilateral Organizations Other Than United Nations**
 
-Ex. Ord. No. 11446, Jan. 16, 1969, 34 F.R. 803, as amended by Ex. Ord. No. 13286, § 62, Feb. 28, 2003, 68 F.R. 10629, provided:
+Ex. Ord. No. 11446, Jan. 16, 1969, 34 F.R. 803, as amended by Ex. Ord. No. 13286, § 62, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, I hereby authorize the Secretary of Defense, with respect to members of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security, with respect to members of the Coast Guard when it is not operating as a service in the Navy, to prescribe regulations for the acceptance of medals and ribbons which are offered by multilateral organizations, other than the United Nations, to members of the Armed Forces of the United States in recognition of service conducted under the auspices of those organizations. A determination that service for a multilateral organization in a particular geographical area or for a particular purpose constitutes a justifiable basis for authorizing acceptance of the medal or ribbon offered to eligible members of the Armed Forces of the United States shall be made with the concurrence of the Secretary of State.
 
 ## SUBCHAPTER V—MISCONDUCT
 
-### § 7351. Gifts to superiors
+### § 7351. Gifts to superiors
 
 **(a)** An employee may not—
 
@@ -1564,13 +1564,13 @@ By virtue of the authority vested in me as President of the United States and as
 
 **(c)** Each supervising ethics office (as defined in section 7353(d)(1)) is authorized to issue regulations implementing this section, including regulations exempting voluntary gifts or contributions that are given or received for special occasions such as marriage or retirement or under other circumstances in which gifts are traditionally given or exchanged.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 527; Pub. L. 101–194, title III, § 301, Nov. 30, 1989, 103 Stat. 1745; Pub. L. 101–280, § 4(a), May 4, 1990, 104 Stat. 157.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 527; Pub. L. 101–194, title III, § 301, Nov. 30, 1989, 103 Stat. 1745; Pub. L. 101–280, § 4(a), May 4, 1990, 104 Stat. 157.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 113. | R.S. § 1784. |
+|  | 5 U.S.C. 113. | R.S. § 1784. |
 
 The application of the section is confined to employees, since the President and Members of Congress, though officers, could not have been intended to be “summarily discharged”, and members of uniformed services are not covered by this statute. In the last sentence, the word “removed” is substituted for “summarily discharged” because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans’ Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
 
@@ -1580,9 +1580,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1990—Subsec. (a)(2). Pub. L. 101–280, § 4(a)(1), inserted “or give a gift” after “donation as a gift”.
+1990—Subsec. (a)(2). Pub. L. 101–280, § 4(a)(1), inserted “or give a gift” after “donation as a gift”.
 
-Subsec. (c). Pub. L. 101–280, § 4(a)(2), substituted “Each supervising ethics office (as defined in section 7353(d)(1))” for “The Office of Government Ethics” and “circumstances in which gifts are traditionally given or exchanged” for “similar circumstances”.
+Subsec. (c). Pub. L. 101–280, § 4(a)(2), substituted “Each supervising ethics office (as defined in section 7353(d)(1))” for “The Office of Government Ethics” and “circumstances in which gifts are traditionally given or exchanged” for “similar circumstances”.
 
 1989—Pub. L. 101–194 designated existing provisions as subsec. (a), struck out “An employee who violates this section shall be removed from the service.” at end, and added subsecs. (b) and (c).
 
@@ -1592,7 +1592,7 @@ Subsec. (c). Pub. L. 101–280, § 4(a)(2), substituted “Each supervising et
 
 Pub. L. 100–284, Apr. 7, 1988, 102 Stat. 81, provided that section 7351 of this title would not apply to leave transfers under certain programs covering Federal employees during fiscal year ending on Sept. 30, 1988, except as the Office of Personnel Management may by regulation prescribe.
 
-### § 7352. Excessive and habitual use of intoxicants
+### § 7352. Excessive and habitual use of intoxicants
 
 An individual who habitually uses intoxicating beverages to excess may not be employed in the competitive service.
 
@@ -1602,13 +1602,13 @@ An individual who habitually uses intoxicating beverages to excess may not be em
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 640. | Jan. 16, 1883, ch. 27, § 8, 22 Stat. 406. |
+|  | 5 U.S.C. 640. | Jan. 16, 1883, ch. 27, § 8, 22 Stat. 406. |
 
 The word “employed” is substituted for “appointed to, or retained in” because it includes both.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 7353. Gifts to Federal employees
+### § 7353. Gifts to Federal employees
 
 **(a)** Except as permitted by subsection (b), no Member of Congress or officer or employee of the executive, legislative, or judicial branch shall solicit or accept anything of value from a person—
 
@@ -1648,7 +1648,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(2)** the term “officer or employee” means an individual holding an appointive or elective position in the executive, legislative, or judicial branch of Government, other than a Member of Congress.
 
-(Added Pub. L. 101–194, title III, § 303(a), Nov. 30, 1989, 103 Stat. 1746; amended Pub. L. 101–280, § 4(d), May 4, 1990, 104 Stat. 158; Pub. L. 107–347, title II, § 209(g)(1)(C), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 117–286, § 4(c)(9), Dec. 27, 2022, 136 Stat. 4354.)
+(Added Pub. L. 101–194, title III, § 303(a), Nov. 30, 1989, 103 Stat. 1746; amended Pub. L. 101–280, § 4(d), May 4, 1990, 104 Stat. 158; Pub. L. 107–347, title II, § 209(g)(1)(C), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 117–286, § 4(c)(9), Dec. 27, 2022, 136 Stat. 4354.)
 
 **Editorial Notes**
 
@@ -1658,17 +1658,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2002—Subsec. (b)(4). Pub. L. 107–347 added par. (4).
 
-1990—Subsec. (a). Pub. L. 101–280, § 4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
+1990—Subsec. (a). Pub. L. 101–280, § 4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 101–280, § 4(d)(1)(B), substituted “by, the” for “by the” and “entity” for “agency”.
+Subsec. (a)(1). Pub. L. 101–280, § 4(d)(1)(B), substituted “by, the” for “by the” and “entity” for “agency”.
 
-Subsec. (c). Pub. L. 101–280, § 4(d)(2), substituted “A Member of Congress or an officer or employee” for “An employee”.
+Subsec. (c). Pub. L. 101–280, § 4(d)(2), substituted “A Member of Congress or an officer or employee” for “An employee”.
 
-Subsec. (d)(1)(B). Pub. L. 101–280, § 4(d)(3)(A)(i), substituted “officers,” for “officers”.
+Subsec. (d)(1)(B). Pub. L. 101–280, § 4(d)(3)(A)(i), substituted “officers,” for “officers”.
 
-Subsec. (d)(1)(E). Pub. L. 101–280, § 4(d)(3)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “the ethics committee with which the officer or employee is required to file financial disclosure forms, for all legislative branch officers and employees other than those specified in subparagraphs (A) and (B), except that such authority may be delegated; and”.
+Subsec. (d)(1)(E). Pub. L. 101–280, § 4(d)(3)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “the ethics committee with which the officer or employee is required to file financial disclosure forms, for all legislative branch officers and employees other than those specified in subparagraphs (A) and (B), except that such authority may be delegated; and”.
 
-Subsec. (d)(2). Pub. L. 101–280, § 4(d)(3)(B), substituted “Government,” for “Government”.
+Subsec. (d)(2). Pub. L. 101–280, § 4(d)(3)(B), substituted “Government,” for “Government”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1682,7 +1682,7 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 **Limitation on Acceptance of Honorary Club Memberships**
 
-Pub. L. 110–402, § 2, Oct. 13, 2008, 122 Stat. 4255, as amended by Pub. L. 117–286, § 4(c)(10), Dec. 27, 2022, 136 Stat. 4354, provided that:
+Pub. L. 110–402, § 2, Oct. 13, 2008, 122 Stat. 4255, as amended by Pub. L. 117–286, § 4(c)(10), Dec. 27, 2022, 136 Stat. 4354, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1694,13 +1694,13 @@ Pub. L. 110–402, § 2, Oct. 13, 2008, 122 Stat. 4255, as amended by Pub. L. 
 
 ## SUBCHAPTER VI—DRUG ABUSE, ALCOHOL ABUSE, AND ALCOHOLISM
 
-### § 7361. Drug abuse
+### § 7361. Drug abuse
 
 **(a)** The Office of Personnel Management shall be responsible for developing, in cooperation with the President, with the Secretary of Health and Human Services (acting through the National Institute on Drug Abuse), and with other agencies, and in accordance with applicable provisions of this subchapter, appropriate prevention, treatment, and rehabilitation programs and services for drug abuse among employees. Such agencies are encouraged to extend, to the extent feasible, such programs and services to the families of employees and to employees who have family members who are drug abusers. Such programs and services shall make optimal use of existing governmental facilities, services, and skills.
 
-**(b)** Section 527 1
+**(b)** Section 527 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Public Health Service Act (42 U.S.C. 290ee–3), relating to confidentiality of records, and any regulations prescribed thereunder, shall apply with respect to records maintained for the purpose of carrying out this section.
 
@@ -1708,19 +1708,19 @@ of the Public Health Service Act (42 U.S.C. 290ee–3), relating to confidential
 
 **(d)** For the purpose of this section, the term “agency” means an Executive agency.
 
-(Added Pub. L. 99–570, title VI, § 6002(a)(1), Oct. 27, 1986, 100 Stat. 3207–157.)
+(Added Pub. L. 99–570, title VI, § 6002(a)(1), Oct. 27, 1986, 100 Stat. 3207–157.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 527 of the Public Health Service Act, referred to in subsec. (b) and formerly classified to section 290ee–3 of Title 42, The Public Health and Welfare, was renumbered section 548 of that Act by Pub. L. 100–77, title VI, § 611(2), July 22, 1987, 101 Stat. 516 and then omitted in the general revision of Part D of Subchapter III–A of Chapter 6A of Title 42 by Pub. L. 102–321, title I, § 131, July 10, 1992, 106 Stat. 366. Provisions relating to the confidentiality of patient records are now classified to section 290dd–2 of Title 42.
+Section 527 of the Public Health Service Act, referred to in subsec. (b) and formerly classified to section 290ee–3 of Title 42, The Public Health and Welfare, was renumbered section 548 of that Act by Pub. L. 100–77, title VI, § 611(2), July 22, 1987, 101 Stat. 516 and then omitted in the general revision of Part D of Subchapter III–A of Chapter 6A of Title 42 by Pub. L. 102–321, title I, § 131, July 10, 1992, 106 Stat. 366. Provisions relating to the confidentiality of patient records are now classified to section 290dd–2 of Title 42.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Educational Program for Federal Employees Relating to Drug and Alcohol Abuse**
 
-Pub. L. 99–570, title VI, § 6003, Oct. 27, 1986, 100 Stat. 3207–159, provided that:
+Pub. L. 99–570, title VI, § 6003, Oct. 27, 1986, 100 Stat. 3207–159, provided that:
 
 > **“(a) Establishment.—** The Director of the Office of Personnel Management shall, in consultation with the Secretary of Health and Human Services, establish a Government-wide education program, using seminars and such other methods as the Director considers appropriate, to carry out the purposes prescribed in subsection (b).
 
@@ -1738,13 +1738,13 @@ Pub. L. 99–570, title VI, § 6003, Oct. 27, 1986, 100 Stat. 3207–159, prov
 
 > **“(6)** any other matter which the Director considers appropriate.”
 
-### § 7362. Alcohol abuse and alcoholism
+### § 7362. Alcohol abuse and alcoholism
 
 **(a)** The Office of Personnel Management shall be responsible for developing, in cooperation with the Secretary of Health and Human Services and with other agencies, and in accordance with applicable provisions of this subpart, appropriate prevention, treatment, and rehabilitation programs and services for alcohol abuse and alcoholism among employees. Such agencies are encouraged to extend, to the extent feasible, such programs and services to the families of alcoholic employees and to employees who have family members who are alcoholics. Such programs and services shall make optimal use of existing governmental facilities, services, and skills.
 
-**(b)** Section 523 1
+**(b)** Section 523 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Public Health Service Act (42 U.S.C. 290dd–3), relating to confidentiality of records, and any regulations prescribed thereunder, shall apply with respect to records maintained for the purpose of carrying out this section.
 
@@ -1752,23 +1752,23 @@ of the Public Health Service Act (42 U.S.C. 290dd–3), relating to confidential
 
 **(d)** For the purpose of this section, the term “agency” means an Executive agency.
 
-(Added Pub. L. 99–570, title VI, § 6002(a)(1), Oct. 27, 1986, 100 Stat. 3207–157.)
+(Added Pub. L. 99–570, title VI, § 6002(a)(1), Oct. 27, 1986, 100 Stat. 3207–157.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 523 of the Public Health Service Act, referred to in subsec. (b) and formerly classified to section 290dd–3 of Title 42, The Public Health and Welfare, was renumbered section 544 of that Act by Pub. L. 100–77, title VI, § 611(2), July 22, 1987, 101 Stat. 516 and then omitted in the general revision of Part D of Subchapter III–A of Chapter 6A of Title 42 by Pub. L. 102–321, title I, § 131, July 10, 1992, 106 Stat. 366. Provisions relating to the confidentiality of patient records are now classified to section 290dd–2 of Title 42.
+Section 523 of the Public Health Service Act, referred to in subsec. (b) and formerly classified to section 290dd–3 of Title 42, The Public Health and Welfare, was renumbered section 544 of that Act by Pub. L. 100–77, title VI, § 611(2), July 22, 1987, 101 Stat. 516 and then omitted in the general revision of Part D of Subchapter III–A of Chapter 6A of Title 42 by Pub. L. 102–321, title I, § 131, July 10, 1992, 106 Stat. 366. Provisions relating to the confidentiality of patient records are now classified to section 290dd–2 of Title 42.
 
-### § 7363. Reports to Congress
+### § 7363. Reports to Congress
 
 **(a)** The Office of Personnel Management shall, within 6 months after the date of the enactment of the Federal Employee Substance Abuse Education and Treatment Act of 1986 and annually thereafter, submit to each House of Congress a report containing the matters described in subsection (b).
 
 **(b)** Each report under this section shall include—
 
-**(1)** a description of any programs or services provided under section 7361 or 7362 of this title, including the costs associated with each such program or service and the source and adequacy of any funding 1
+**(1)** a description of any programs or services provided under section 7361 or 7362 of this title, including the costs associated with each such program or service and the source and adequacy of any funding 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of”.
+<sup>1</sup> So in original. Probably should be followed by “of”.
 
 such program or service;
 
@@ -1782,7 +1782,7 @@ such program or service;
 
 **(6)** information describing any other related activities under section 7904 of this title, and any other matter which the Office considers appropriate.
 
-(Added Pub. L. 99–570, title VI, § 6002(a)(1), Oct. 27, 1986, 100 Stat. 3207–158.)
+(Added Pub. L. 99–570, title VI, § 6002(a)(1), Oct. 27, 1986, 100 Stat. 3207–158.)
 
 **Editorial Notes**
 
@@ -1798,7 +1798,7 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 
 ## SUBCHAPTER VII—MANDATORY REMOVAL FROM EMPLOYMENT OF CONVICTED LAW ENFORCEMENT OFFICERS
 
-### § 7371. Mandatory removal from employment of law enforcement officers convicted of felonies
+### § 7371. Mandatory removal from employment of law enforcement officers convicted of felonies
 
 **(a)** In this section, the term—
 
@@ -1830,10 +1830,10 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 
 **(3)** A removal required under this section shall occur on the date specified in subsection (b) regardless of whether the notice required under paragraph (1) of this subsection and the procedures made applicable under paragraph (2) of this subsection have been provided or completed by that date.
 
-(Added Pub. L. 106–554, § 1(a)(3) [title VI, § 639(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–168.)
+(Added Pub. L. 106–554, § 1(a)(3) [title VI, § 639(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–168.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–554, § 1(a)(3) [title VI, § 639(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–168, provided that: “The amendments made by this section [enacting this subchapter] shall take effect 30 days after the date of enactment of this Act [Dec. 21, 2000] and shall apply to any conviction of a felony entered by a Federal or State court on or after that date.”
+Pub. L. 106–554, § 1(a)(3) [title VI, § 639(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–168, provided that: “The amendments made by this section [enacting this subchapter] shall take effect 30 days after the date of enactment of this Act [Dec. 21, 2000] and shall apply to any conviction of a felony entered by a Federal or State court on or after that date.”

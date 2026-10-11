@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 84—MILLENNIUM CHALLENGE
 
-## § 7701. Purposes
+## § 7701. Purposes
 
 The purposes of this chapter are—
 
@@ -23,7 +23,7 @@ The purposes of this chapter are—
 
 **(2)** to provide such assistance in a manner that promotes economic growth and the elimination of extreme poverty and strengthens good governance, economic freedom, and investments in people.
 
-(Pub. L. 108–199, div. D, title VI, § 602, Jan. 23, 2004, 118 Stat. 211.)
+(Pub. L. 108–199, div. D, title VI, § 602, Jan. 23, 2004, 118 Stat. 211.)
 
 **Editorial Notes**
 
@@ -35,13 +35,13 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–159, div. E, title LI, § 5122(a), Dec. 23, 2024, 138 Stat. 2430, provided that: “This section [amending sections 7705 to 7708, 7712, and 7715 of this title] may be cited as the ‘Millennium Challenge Corporation Candidate Country Reform Act’.”
+Pub. L. 118–159, div. E, title LI, § 5122(a), Dec. 23, 2024, 138 Stat. 2430, provided that: “This section [amending sections 7705 to 7708, 7712, and 7715 of this title] may be cited as the ‘Millennium Challenge Corporation Candidate Country Reform Act’.”
 
 **Short Title**
 
-Pub. L. 108–199, div. D, title VI, § 601, Jan. 23, 2004, 118 Stat. 211, provided that: “This title [enacting this chapter and amending section 5313 of Title 5, Government Organizations and Employees, and section 9101 of Title 31, Money and Finance] may be cited as the ‘Millennium Challenge Act of 2003’.”
+Pub. L. 108–199, div. D, title VI, § 601, Jan. 23, 2004, 118 Stat. 211, provided that: “This title [enacting this chapter and amending section 5313 of Title 5, Government Organizations and Employees, and section 9101 of Title 31, Money and Finance] may be cited as the ‘Millennium Challenge Act of 2003’.”
 
-## § 7702. Definitions
+## § 7702. Definitions
 
 In this chapter:
 
@@ -79,7 +79,7 @@ The term “eligible country” means a candidate country that is determined, un
 
 The term “investments in the people” means government policies or programs of an eligible country that promote the health, education, and other factors which contribute to the well-being and productivity of their people, such as decent, affordable housing for all.
 
-(Pub. L. 108–199, div. D, title VI, § 603, Jan. 23, 2004, 118 Stat. 211; Pub. L. 108–447, div. D, title V, § 534(q), Dec. 8, 2004, 118 Stat. 3008.)
+(Pub. L. 108–199, div. D, title VI, § 603, Jan. 23, 2004, 118 Stat. 211; Pub. L. 108–447, div. D, title V, § 534(q), Dec. 8, 2004, 118 Stat. 3008.)
 
 **Editorial Notes**
 
@@ -97,7 +97,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 7703. Establishment and management of the Millennium Challenge Corporation
+## § 7703. Establishment and management of the Millennium Challenge Corporation
 
 **(a) Establishment**
 
@@ -221,7 +221,7 @@ Each such member of the Board shall receive travel expenses, including per diem 
 
 A member of the Board may not be paid compensation under clause (i)(II) for more than 90 days in any calendar year.
 
-(Pub. L. 108–199, div. D, title VI, § 604, Jan. 23, 2004, 118 Stat. 212; Pub. L. 115–167, title II, § 202, Apr. 23, 2018, 132 Stat. 1279.)
+(Pub. L. 108–199, div. D, title VI, § 604, Jan. 23, 2004, 118 Stat. 212; Pub. L. 115–167, title II, § 202, Apr. 23, 2018, 132 Stat. 1279.)
 
 **Editorial Notes**
 
@@ -237,7 +237,7 @@ Section is comprised of section 604 of div. D of Pub. L. 108–199. Subsec. (b)(
 
 2018—Subsec. (c)(4)(B). Pub. L. 115–167 amended subpar. (B) generally. Prior to amendment, text read as follows: “Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years.”
 
-## § 7704. Authorization of assistance
+## § 7704. Authorization of assistance
 
 **(a) Assistance**
 
@@ -281,7 +281,7 @@ The prohibitions on use of funds contained in paragraphs (1) through (3) of sect
 
 The provision of assistance under this section shall be coordinated with other United States foreign assistance programs.
 
-(Pub. L. 108–199, div. D, title VI, § 605, Jan. 23, 2004, 118 Stat. 214.)
+(Pub. L. 108–199, div. D, title VI, § 605, Jan. 23, 2004, 118 Stat. 214.)
 
 **Editorial Notes**
 
@@ -289,11 +289,11 @@ The provision of assistance under this section shall be coordinated with other U
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec (e)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec (e)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The provisos of Public Law 108–7, referred to in subsec. (e)(4), are contained in Pub. L. 108–7, div. E, title II, Feb. 20, 2003, 117 Stat. 162, and are not classified to the Code.
 
-## § 7705. Candidate countries
+## § 7705. Candidate countries
 
 **(a) In general** A country shall be a candidate country for purposes of eligibility to receive assistance under section 7704 of this title if—
 
@@ -309,31 +309,31 @@ For the purposes of determining whether a country is eligible, pursuant to subse
 
 The Board shall determine whether a country is a candidate country for purposes of this section.
 
-(Pub. L. 108–199, div. D, title VI, § 606, Jan. 23, 2004, 118 Stat. 215; Pub. L. 115–167, title II, § 201, Apr. 23, 2018, 132 Stat. 1278; Pub. L. 118–159, div. E, title LI, § 5122(b), Dec. 23, 2024, 138 Stat. 2430.)
+(Pub. L. 108–199, div. D, title VI, § 606, Jan. 23, 2004, 118 Stat. 215; Pub. L. 115–167, title II, § 201, Apr. 23, 2018, 132 Stat. 1278; Pub. L. 118–159, div. E, title LI, § 5122(b), Dec. 23, 2024, 138 Stat. 2430.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
 2024—Pub. L. 118–159 amended section generally. Prior to amendment, section related to candidate countries for purposes of eligibility for assistance.
 
-2018—Subsec. (a)(1)(B). Pub. L. 115–167, § 201(a)(1), substituted “(4)” for “(3)”.
+2018—Subsec. (a)(1)(B). Pub. L. 115–167, § 201(a)(1), substituted “(4)” for “(3)”.
 
-Subsec. (a)(2). Pub. L. 115–167, § 201(a)(2), substituted “Fiscal years 2005 through 2012” for “Fiscal year 2005 and subsequent fiscal years” in heading and “each of fiscal years 2005 through 2012” for “fiscal year 2005 or a subsequent fiscal year” in introductory provisions.
+Subsec. (a)(2). Pub. L. 115–167, § 201(a)(2), substituted “Fiscal years 2005 through 2012” for “Fiscal year 2005 and subsequent fiscal years” in heading and “each of fiscal years 2005 through 2012” for “fiscal year 2005 or a subsequent fiscal year” in introductory provisions.
 
-Subsec. (a)(3), (4). Pub. L. 115–167, § 201(a)(3), (4), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 115–167, § 201(a)(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(1). Pub. L. 115–167, § 201(b)(1), substituted “Fiscal years 2006 through 2012” for “In general” in heading and “fiscal years 2006 through 2012” for “fiscal year 2006 or a subsequent fiscal year” in introductory provisions.
+Subsec. (b)(1). Pub. L. 115–167, § 201(b)(1), substituted “Fiscal years 2006 through 2012” for “In general” in heading and “fiscal years 2006 through 2012” for “fiscal year 2006 or a subsequent fiscal year” in introductory provisions.
 
-Subsec. (b)(2), (3). Pub. L. 115–167, § 201(b)(2), (3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2), (3). Pub. L. 115–167, § 201(b)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsecs. (c), (d). Pub. L. 115–167, § 201(c), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 115–167, § 201(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-## § 7706. Eligible countries
+## § 7706. Eligible countries
 
 **(a) Determination by the Board**
 
@@ -407,7 +407,7 @@ The criteria and methodology submitted by the Board to Congress and published in
 
 As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with section 7707(b) of this title.
 
-(Pub. L. 108–199, div. D, title VI, § 607, Jan. 23, 2004, 118 Stat. 216; Pub. L. 110–161, div. J, title VI, § 699I(a), Dec. 26, 2007, 121 Stat. 2372; Pub. L. 115–167, title II, § 203, Apr. 23, 2018, 132 Stat. 1279; Pub. L. 118–159, div. E, title LI, § 5122(d), Dec. 23, 2024, 138 Stat. 2431.)
+(Pub. L. 108–199, div. D, title VI, § 607, Jan. 23, 2004, 118 Stat. 216; Pub. L. 110–161, div. J, title VI, § 699I(a), Dec. 26, 2007, 121 Stat. 2372; Pub. L. 115–167, title II, § 203, Apr. 23, 2018, 132 Stat. 1279; Pub. L. 118–159, div. E, title LI, § 5122(d), Dec. 23, 2024, 138 Stat. 2431.)
 
 **Editorial Notes**
 
@@ -419,17 +419,17 @@ This chapter, referred to in subsec. (c)(2)(C), was in the original “this titl
 
 2024—Subsec. (c)(2). Pub. L. 118–159 substituted “prioritize need and impact by considering” for “consider” in introductory provisions.
 
-2018—Subsec. (a). Pub. L. 115–167, § 203(1), inserted at end “A determination whether a country is eligible for a subsequent, non-concurrent Millennium Challenge Compact shall also be based, to the extent practicable, on significantly improved performance across the criteria in subsection (b) that, at a minimum, are relevant to the preceding Compact, compared to the country’s performance with respect to such criteria when selected for such preceding Compact.”
+2018—Subsec. (a). Pub. L. 115–167, § 203(1), inserted at end “A determination whether a country is eligible for a subsequent, non-concurrent Millennium Challenge Compact shall also be based, to the extent practicable, on significantly improved performance across the criteria in subsection (b) that, at a minimum, are relevant to the preceding Compact, compared to the country’s performance with respect to such criteria when selected for such preceding Compact.”
 
-Subsec. (b)(1)(F). Pub. L. 115–167, § 203(2), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 115–167, § 203(2), added subpar. (F).
 
-Subsecs. (d) to (f). Pub. L. 115–167, § 203(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 115–167, § 203(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-2007—Subsec. (b)(2)(B). Pub. L. 110–161, § 699I(a)(1), struck out “and the sustainable management of natural resources” after “growth”.
+2007—Subsec. (b)(2)(B). Pub. L. 110–161, § 699I(a)(1), struck out “and the sustainable management of natural resources” after “growth”.
 
-Subsec. (b)(3)(C). Pub. L. 110–161, § 699I(a)(2), added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 110–161, § 699I(a)(2), added subpar. (C).
 
-## § 7707. Congressional and public notification of candidate countries, eligibility criteria, and eligible countries
+## § 7707. Congressional and public notification of candidate countries, eligibility criteria, and eligible countries
 
 **(a) Identification of candidate countries** Not later than 90 days prior to the date on which the Board determines eligible countries under section 7706 of this title for a fiscal year, the Chief Executive Officer—
 
@@ -461,7 +461,7 @@ The Chief Executive Officer shall consult with the appropriate congressional com
 
 **(2)** shall publish in the Federal Register the information contained in the report described in paragraph (1).
 
-(Pub. L. 108–199, div. D, title VI, § 608, Jan. 23, 2004, 118 Stat. 217; Pub. L. 118–159, div. E, title LI, § 5122(c)(1), Dec. 23, 2024, 138 Stat. 2430.)
+(Pub. L. 108–199, div. D, title VI, § 608, Jan. 23, 2004, 118 Stat. 217; Pub. L. 118–159, div. E, title LI, § 5122(c)(1), Dec. 23, 2024, 138 Stat. 2430.)
 
 **Editorial Notes**
 
@@ -469,7 +469,7 @@ The Chief Executive Officer shall consult with the appropriate congressional com
 
 2024—Subsec. (a)(1). Pub. L. 118–159 substituted “section 7705(a)(2)” for “section 7705(a)(1)(B)”.
 
-## § 7708. Millennium Challenge Compact
+## § 7708. Millennium Challenge Compact
 
 **(a) Compact**
 
@@ -555,7 +555,7 @@ The duration of a Compact shall not exceed 5 years.
 
 An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.
 
-(Pub. L. 108–199, div. D, title VI, § 609, Jan. 23, 2004, 118 Stat. 218; Pub. L. 115–167, title II, § 204(a), Apr. 23, 2018, 132 Stat. 1280; Pub. L. 118–159, div. E, title LI, § 5122(c)(2), Dec. 23, 2024, 138 Stat. 2431.)
+(Pub. L. 108–199, div. D, title VI, § 609, Jan. 23, 2004, 118 Stat. 218; Pub. L. 115–167, title II, § 204(a), Apr. 23, 2018, 132 Stat. 1280; Pub. L. 118–159, div. E, title LI, § 5122(c)(2), Dec. 23, 2024, 138 Stat. 2431.)
 
 **Editorial Notes**
 
@@ -565,9 +565,9 @@ This chapter, referred to in subsecs. (a), (k), and (*l*), was in the original �
 
 **Amendments**
 
-2024—Subsec. (b)(2). Pub. L. 118–159, § 5122(c)(2)(B), struck out “with respect to a lower middle income country described in section 7705(b) of this title,” after “paragraph (1),”.
+2024—Subsec. (b)(2). Pub. L. 118–159, § 5122(c)(2)(B), struck out “with respect to a lower middle income country described in section 7705(b) of this title,” after “paragraph (1),”.
 
-Pub. L. 118–159, § 5122(c)(2)(A), amended heading generally. Prior to amendment, heading read as follows: “Lower middle income countries”.
+Pub. L. 118–159, § 5122(c)(2)(A), amended heading generally. Prior to amendment, heading read as follows: “Lower middle income countries”.
 
 2018—Subsecs. (k), (*l*). Pub. L. 115–167 struck out first sentence of subsec. (k) which read “An eligible country and the United States may enter into and have in effect only one Compact at any given time under this section.”, redesignated the remainder of subsec. (k) as (*l*), and added a new subsec. (k).
 
@@ -575,9 +575,9 @@ Pub. L. 118–159, § 5122(c)(2)(A), amended heading generally. Prior to amend
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–167, title II, § 204(c), Apr. 23, 2018, 132 Stat. 1280, provided that: “The amendments made by this section [amending this section and section 7712 of this title] apply with respect to Compacts entered into between the United States and an eligible country under the Millennium Challenge Act of 2003 [22 U.S.C. 7701 et seq.] before, on, or after the date of the enactment of this Act [Apr. 23, 2018].”
+Pub. L. 115–167, title II, § 204(c), Apr. 23, 2018, 132 Stat. 1280, provided that: “The amendments made by this section [amending this section and section 7712 of this title] apply with respect to Compacts entered into between the United States and an eligible country under the Millennium Challenge Act of 2003 [22 U.S.C. 7701 et seq.] before, on, or after the date of the enactment of this Act [Apr. 23, 2018].”
 
-## § 7709. Congressional and public notification
+## § 7709. Congressional and public notification
 
 **(a) Congressional consultations and notifications**
 
@@ -639,7 +639,7 @@ The Board, acting through the Chief Executive Officer, shall consult with and no
 
 **(3)** publish in the Federal Register a detailed summary of the Compact and a notice of availability of the text of the Compact on the website of the Corporation.
 
-(Pub. L. 108–199, div. D, title VI, § 610, Jan. 23, 2004, 118 Stat. 220; Pub. L. 115–167, title II, § 205, Apr. 23, 2018, 132 Stat. 1281.)
+(Pub. L. 108–199, div. D, title VI, § 610, Jan. 23, 2004, 118 Stat. 220; Pub. L. 115–167, title II, § 205, Apr. 23, 2018, 132 Stat. 1281.)
 
 **Editorial Notes**
 
@@ -647,7 +647,7 @@ The Board, acting through the Chief Executive Officer, shall consult with and no
 
 2018—Pub. L. 115–167 amended section generally. Prior to amendment, section related to Congressional and public notification of Compact.
 
-## § 7710. Suspension and termination of assistance
+## § 7710. Suspension and termination of assistance
 
 **(a) Suspension and termination of assistance** After consultation with the Board, the Chief Executive Officer may suspend or terminate assistance in whole or in part for a country or entity under section 7704 of this title if the Chief Executive Officer determines that—
 
@@ -669,9 +669,9 @@ Not later than 3 days after the date on which the Chief Executive Officer suspen
 
 The authority to suspend or terminate assistance under this section includes the authority to suspend or terminate obligations and sub-obligations.
 
-(Pub. L. 108–199, div. D, title VI, § 611, Jan. 23, 2004, 118 Stat. 220.)
+(Pub. L. 108–199, div. D, title VI, § 611, Jan. 23, 2004, 118 Stat. 220.)
 
-## § 7711. Disclosure
+## § 7711. Disclosure
 
 **(a) Requirement for timely disclosure** Not later than 90 days after the last day of each fiscal quarter, the Corporation shall make available to the public the following information:
 
@@ -703,17 +703,17 @@ The authority to suspend or terminate assistance under this section includes the
 
 **(3)** by any other methods that the Board determines to be appropriate.
 
-(Pub. L. 108–199, div. D, title VI, § 612, Jan. 23, 2004, 118 Stat. 221; Pub. L. 115–167, title II, § 206, Apr. 23, 2018, 132 Stat. 1282.)
+(Pub. L. 108–199, div. D, title VI, § 612, Jan. 23, 2004, 118 Stat. 221; Pub. L. 115–167, title II, § 206, Apr. 23, 2018, 132 Stat. 1282.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–167, § 206(a), in heading, inserted “timely” before “disclosure”, and in introductory provisions, substituted “Not later than 90 days after the last day of each fiscal quarter, the Corporation” for “The Corporation” and struck out “on at least a quarterly basis,” after “public”.
+2018—Subsec. (a). Pub. L. 115–167, § 206(a), in heading, inserted “timely” before “disclosure”, and in introductory provisions, substituted “Not later than 90 days after the last day of each fiscal quarter, the Corporation” for “The Corporation” and struck out “on at least a quarterly basis,” after “public”.
 
-Subsec. (b). Pub. L. 115–167, § 206(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The information required to be disclosed under subsection (a) shall be made available to the public by means of publication in the Federal Register and on the Internet website of the Corporation, as well as by any other methods that the Board determines appropriate.”
+Subsec. (b). Pub. L. 115–167, § 206(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The information required to be disclosed under subsection (a) shall be made available to the public by means of publication in the Federal Register and on the Internet website of the Corporation, as well as by any other methods that the Board determines appropriate.”
 
-## § 7712. Annual report
+## § 7712. Annual report
 
 **(a) Report**
 
@@ -735,7 +735,7 @@ Not later than the third Friday of December of each year, the Chief Executive Of
 
 **(5)** Any other information the President considers relevant with respect to assistance provided under section 7704 of this title.
 
-(Pub. L. 108–199, div. D, title VI, § 613, Jan. 23, 2004, 118 Stat. 221; Pub. L. 115–167, title II, § 204(b), Apr. 23, 2018, 132 Stat. 1280; Pub. L. 118–159, div. E, title LI, § 5122(e), Dec. 23, 2024, 138 Stat. 2431.)
+(Pub. L. 108–199, div. D, title VI, § 613, Jan. 23, 2004, 118 Stat. 221; Pub. L. 115–167, title II, § 204(b), Apr. 23, 2018, 132 Stat. 1280; Pub. L. 118–159, div. E, title LI, § 5122(e), Dec. 23, 2024, 138 Stat. 2431.)
 
 **Editorial Notes**
 
@@ -769,7 +769,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-## § 7713. Powers of the Corporation; related provisions
+## § 7713. Powers of the Corporation; related provisions
 
 **(a) Powers** The Corporation—
 
@@ -843,7 +843,7 @@ The Chief Executive Officer is authorized to contract with any nongovernmental o
 
 Of the amount authorized to be appropriated under section 7718(a) of this title for a fiscal year, up to $5,000,000 is authorized to be made available to carry out paragraph (1).
 
-(Pub. L. 108–199, div. D, title VI, § 614, Jan. 23, 2004, 118 Stat. 222.)
+(Pub. L. 108–199, div. D, title VI, § 614, Jan. 23, 2004, 118 Stat. 222.)
 
 **Editorial Notes**
 
@@ -853,13 +853,13 @@ This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the 
 
 The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Codification**
 
 Section is comprised of section 614 of div. D of Pub. L. 108–199. Subsec. (e)(2) of section 614 of div. D of Pub. L. 108–199 amended section 9101 of Title 31, Money and Finance.
 
-## § 7714. Coordination with United States Agency for International Development
+## § 7714. Coordination with United States Agency for International Development
 
 **(a) Requirement for coordination**
 
@@ -869,9 +869,9 @@ The Chief Executive Officer shall consult with the Administrator of the United S
 
 The Administrator of the United States Agency for International Development shall seek to ensure that appropriate programs of the Agency play a primary role in preparing candidate countries to become eligible countries.
 
-(Pub. L. 108–199, div. D, title VI, § 615, Jan. 23, 2004, 118 Stat. 224.)———\*
+(Pub. L. 108–199, div. D, title VI, § 615, Jan. 23, 2004, 118 Stat. 224.)———\*
 
-## § 7715. Assistance to certain candidate countries
+## § 7715. Assistance to certain candidate countries
 
 **(a) Authorization**
 
@@ -897,7 +897,7 @@ Not more than 10 percent of the amounts made available to carry out this chapter
 
 None of the funds authorized to carry out the purposes of this chapter shall be available for assistance under this section to a country that does not qualify as a candidate country under section 7705 of this title for the fiscal year during which such assistance is provided.
 
-(Pub. L. 108–199, div. D, title VI, § 616, Jan. 23, 2004, 118 Stat. 224; Pub. L. 109–13, div. A, title II, § 2109, May 11, 2005, 119 Stat. 268; Pub. L. 115–167, title II, § 207, Apr. 23, 2018, 132 Stat. 1282; Pub. L. 118–159, div. E, title LI, § 5122(c)(3), Dec. 23, 2024, 138 Stat. 2431.)
+(Pub. L. 108–199, div. D, title VI, § 616, Jan. 23, 2004, 118 Stat. 224; Pub. L. 109–13, div. A, title II, § 2109, May 11, 2005, 119 Stat. 268; Pub. L. 115–167, title II, § 207, Apr. 23, 2018, 132 Stat. 1282; Pub. L. 118–159, div. E, title LI, § 5122(c)(3), Dec. 23, 2024, 138 Stat. 2431.)
 
 **Editorial Notes**
 
@@ -913,7 +913,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 2005—Subsec. (b)(1). Pub. L. 109–13 substituted “subsection (a) or (b) of section 7705” for “subparagraphs (A) and (B) of section 7705(a)(1)”.
 
-## § 7716. General personnel authorities
+## § 7716. General personnel authorities
 
 **(a) Detail of personnel**
 
@@ -945,9 +945,9 @@ The Chief Executive Officer may fix the rate of basic pay of employees of the Co
 
 **(2)** the term “detail” means the assignment or loan of an employee, without a change of position, from the agency by which such employee is employed to the Corporation.
 
-(Pub. L. 108–199, div. D, title VI, § 617, Jan. 23, 2004, 118 Stat. 224.)
+(Pub. L. 108–199, div. D, title VI, § 617, Jan. 23, 2004, 118 Stat. 224.)
 
-## § 7717. Personnel outside the United States
+## § 7717. Personnel outside the United States
 
 **(a) Assignment to United States embassies**
 
@@ -961,9 +961,9 @@ The Secretary of State shall seek to ensure that an employee of the Corporation,
 
 An employee of the Corporation, including an individual detailed to or contracted by the Corporation, and a member of the family of such employee, shall be subject to section 3927 of this title in the same manner as United States Government employees while the employee is performing duties in any country or place outside the United States if such employee or member of the family of such employee is not a national of or permanently resident in such country or place.
 
-(Pub. L. 108–199, div. D, title VI, § 618, Jan. 23, 2004, 118 Stat. 225.)
+(Pub. L. 108–199, div. D, title VI, § 618, Jan. 23, 2004, 118 Stat. 225.)
 
-## § 7718. Authorization of appropriations
+## § 7718. Authorization of appropriations
 
 **(a) Authorization of appropriations**
 
@@ -979,7 +979,7 @@ The Corporation may allocate or transfer to any agency of the United States Gove
 
 The Corporation shall notify the appropriate congressional committees not less than 15 days prior to an allocation or transfer of funds pursuant to paragraph (1).
 
-(Pub. L. 108–199, div. D, title VI, § 619, Jan. 23, 2004, 118 Stat. 225.)
+(Pub. L. 108–199, div. D, title VI, § 619, Jan. 23, 2004, 118 Stat. 225.)
 
 **Editorial Notes**
 

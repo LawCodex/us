@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16—CONGRESSIONAL MAILING STANDARDS
 
-## § 501. House Communications Standards Commission
+## § 501. House Communications Standards Commission
 
 **(a) Establishment; designation**
 
@@ -61,23 +61,23 @@ The Commission shall keep a complete record of all its actions, including a reco
 
 **(4)** in the case of any such unsolicited communication which is transmitted in a digital format, a communication for which the cost of the content is less than a threshold amount established under regulations of the House Communications Standards Commission.
 
-(Pub. L. 93–191, § 5, Dec. 18, 1973, 87 Stat. 742; Pub. L. 93–255, § 3(a), Mar. 27, 1974, 88 Stat. 52; Pub. L. 97–69, § 7, Oct. 26, 1981, 95 Stat. 1043; Pub. L. 116–260, div. I, title I, § 116(b)(1), (c)(1), Dec. 27, 2020, 134 Stat. 1637, 1638.)
+(Pub. L. 93–191, § 5, Dec. 18, 1973, 87 Stat. 742; Pub. L. 93–255, § 3(a), Mar. 27, 1974, 88 Stat. 52; Pub. L. 97–69, § 7, Oct. 26, 1981, 95 Stat. 1043; Pub. L. 116–260, div. I, title I, § 116(b)(1), (c)(1), Dec. 27, 2020, 134 Stat. 1637, 1638.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–260, § 116(b)(1), substituted “House Commission on Congressional Mailing Standards” for “House Commission on Congressional Mailing Standards”.
+2020—Subsec. (a). Pub. L. 116–260, § 116(b)(1), substituted “House Commission on Congressional Mailing Standards” for “House Commission on Congressional Mailing Standards”.
 
-Subsec. (d). Pub. L. 116–260, § 116(c)(1)(A), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 116–260, § 116(c)(1)(A), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 116–260, § 116(c)(1)(B), in first sentence, substituted “Any complaint that a violation of any provision of law or any rule or regulation of the House of Representatives to which subsection (d) applies is about to occur” for “Any complaint by any person that a violation of any section of title 39 referred to in subsection (d) of this section (or any other Federal law which does not include any criminal penalty or any rule of the House of Representatives relating to franked mail) is about to occur” and in tenth sentence, substituted “a violation of any provision of law or any rule or regulation of the House of Representatives to which subsection (d) applies,” for “a violation of the franking laws or an abuse of the franking privilege by any person listed under subsection (d) of this section as entitled to send mail as franked mail,”.
+Subsec. (e). Pub. L. 116–260, § 116(c)(1)(B), in first sentence, substituted “Any complaint that a violation of any provision of law or any rule or regulation of the House of Representatives to which subsection (d) applies is about to occur” for “Any complaint by any person that a violation of any section of title 39 referred to in subsection (d) of this section (or any other Federal law which does not include any criminal penalty or any rule of the House of Representatives relating to franked mail) is about to occur” and in tenth sentence, substituted “a violation of any provision of law or any rule or regulation of the House of Representatives to which subsection (d) applies,” for “a violation of the franking laws or an abuse of the franking privilege by any person listed under subsection (d) of this section as entitled to send mail as franked mail,”.
 
-Subsec. (h). Pub. L. 116–260, § 116(c)(1)(C), added subsec. (h).
+Subsec. (h). Pub. L. 116–260, § 116(c)(1)(C), added subsec. (h).
 
-1981—Subsec. (d). Pub. L. 97–69, § 7(a)(1), (b), inserted references to Federal laws (other than laws which impose criminal penalties), to rules of the House of Representatives relating to franked mail, to former Members of the House of Representatives or Members-elect, Resident Commissioners or Resident Commissioners-elect, Delegates or Delegates-elect, and former House officials, and to individuals designated by the Clerk of the House under section 3218 of title 39.
+1981—Subsec. (d). Pub. L. 97–69, § 7(a)(1), (b), inserted references to Federal laws (other than laws which impose criminal penalties), to rules of the House of Representatives relating to franked mail, to former Members of the House of Representatives or Members-elect, Resident Commissioners or Resident Commissioners-elect, Delegates or Delegates-elect, and former House officials, and to individuals designated by the Clerk of the House under section 3218 of title 39.
 
-Subsec. (e). Pub. L. 97–69, § 7(a)(2), (c), inserted reference to Federal laws that do not include criminal penalties or rules of the House of Representatives relating to franked mail and inserted provision that, in the case of a former Member of the House or a former Member-elect, a former Resident Commissioner or Delegate or Resident Commissioner-elect or Delegate-elect, any surviving spouse of any of the foregoing (or any individual designated by the Clerk of the House under section 3218 of title 39), or any other former House official, if the Commission finds in its written decision that any serious and willful violation has occurred or is about to occur, then the Commission may refer the matter to any appropriate law enforcement agency or official for appropriate remedial action.
+Subsec. (e). Pub. L. 97–69, § 7(a)(2), (c), inserted reference to Federal laws that do not include criminal penalties or rules of the House of Representatives relating to franked mail and inserted provision that, in the case of a former Member of the House or a former Member-elect, a former Resident Commissioner or Delegate or Resident Commissioner-elect or Delegate-elect, any surviving spouse of any of the foregoing (or any individual designated by the Clerk of the House under section 3218 of title 39), or any other former House official, if the Commission finds in its written decision that any serious and willful violation has occurred or is about to occur, then the Commission may refer the matter to any appropriate law enforcement agency or official for appropriate remedial action.
 
 1974—Subsec. (d). Pub. L. 93–255 inserted reference to section 3219 of title 39.
 
@@ -85,13 +85,13 @@ Subsec. (e). Pub. L. 97–69, § 7(a)(2), (c), inserted reference to Federal l
 
 **Change of Name**
 
-Pub. L. 116–260, div. I, title I, § 116(b)(3), Dec. 27, 2020, 134 Stat. 1637, provided that: “Any reference in any rule, regulation, or other document to the House Commission on Congressional Mailing Standards shall be deemed to be a reference to the House Communications Standards Commission.”
+Pub. L. 116–260, div. I, title I, § 116(b)(3), Dec. 27, 2020, 134 Stat. 1637, provided that: “Any reference in any rule, regulation, or other document to the House Commission on Congressional Mailing Standards shall be deemed to be a reference to the House Communications Standards Commission.”
 
 Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. I, title I, § 116(f), Dec. 27, 2020, 134 Stat. 1641, provided that: “Except as provided in subsection (e)(5)(B), this section and the amendments made by this section [amending this section, sections 503 and 506 of this title, and sections 3210, 3216, and 3220 of Title 39, Postal Service] shall apply with respect to communications disseminated on or after the date of the enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. I, title I, § 116(f), Dec. 27, 2020, 134 Stat. 1641, provided that: “Except as provided in subsection (e)(5)(B), this section and the amendments made by this section [amending this section, sections 503 and 506 of this title, and sections 3210, 3216, and 3220 of Title 39, Postal Service] shall apply with respect to communications disseminated on or after the date of the enactment of this Act [Dec. 27, 2020].”
 
 **Effective Date**
 
@@ -99,13 +99,13 @@ Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as 
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. I, title I, § 116(a), Dec. 27, 2020, 134 Stat. 1637, provided that: “This section [amending this section, sections 503 and 506 of this title, and sections 3210, 3216, and 3220 of Title 39, Postal Service, and enacting provisions set out as notes under this section and section 3210 of Title 39] may be cited as the ‘Communications Outreach Media and Mail Standards Act’ or the ‘COMMS Act’.”
+Pub. L. 116–260, div. I, title I, § 116(a), Dec. 27, 2020, 134 Stat. 1637, provided that: “This section [amending this section, sections 503 and 506 of this title, and sections 3210, 3216, and 3220 of Title 39, Postal Service, and enacting provisions set out as notes under this section and section 3210 of Title 39] may be cited as the ‘Communications Outreach Media and Mail Standards Act’ or the ‘COMMS Act’.”
 
 **Abolition of House Committee on Post Office and Civil Service**
 
 Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service with respect to House Commission on Congressional Mailing Standards treated as referring to Committee on House Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of this title. Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-## § 502. Select Committee on Standards and Conduct of the Senate
+## § 502. Select Committee on Standards and Conduct of the Senate
 
 **(a) Advisory opinions or consultations respecting franked mail for persons entitled to franking privilege; franking privilege regulations**
 
@@ -127,7 +127,7 @@ The select committee shall prescribe regulations for the holding of investigatio
 
 The select committee shall keep a complete record of all its actions, including a record of the votes on any question on which a record vote is demanded. All records, data, and files of the select committee shall be the property of the Senate and shall be kept in the offices of the select committee or such other places as the committee may direct.
 
-(Pub. L. 93–191, § 6, Dec. 18, 1973, 87 Stat. 744; Pub. L. 93–255, § 3(b), Mar. 27, 1974, 88 Stat. 52.)
+(Pub. L. 93–191, § 6, Dec. 18, 1973, 87 Stat. 744; Pub. L. 93–255, § 3(b), Mar. 27, 1974, 88 Stat. 52.)
 
 **Editorial Notes**
 
@@ -141,7 +141,7 @@ The select committee shall keep a complete record of all its actions, including 
 
 Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as an Effective Date of 1973 Amendment note under section 3210 of Title 39, Postal Service.
 
-## § 503. Official mail of persons entitled to use congressional frank
+## § 503. Official mail of persons entitled to use congressional frank
 
 **(a) Congressional committee regulations for expenditure of appropriations for official mail** Except as otherwise provided in this section, funds appropriated by this Act or any other Act for expenses of official mail of any person entitled to use the congressional frank may be expended only in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as applicable. Such regulations shall require—
 
@@ -219,7 +219,7 @@ Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as 
 
 This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
-(Pub. L. 101–520, title III, § 311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, § 211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, § 203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, § 104, Oct. 21, 1998, 112 Stat. 2439; Pub. L. 106–19, § 1(a), Apr. 8, 1999, 113 Stat. 29; Pub. L. 106–57, title I, §§ 102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, 113 Stat. 415; Pub. L. 107–68, title I, § 110, Nov. 12, 2001, 115 Stat. 569; Pub. L. 108–83, title I, § 105(a), Sept. 30, 2003, 117 Stat. 1018; Pub. L. 116–260, div. I, title I, § 116(b)(2)(B), (c)(2), Dec. 27, 2020, 134 Stat. 1637, 1639.)
+(Pub. L. 101–520, title III, § 311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, § 211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, § 203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, § 104, Oct. 21, 1998, 112 Stat. 2439; Pub. L. 106–19, § 1(a), Apr. 8, 1999, 113 Stat. 29; Pub. L. 106–57, title I, §§ 102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, 113 Stat. 415; Pub. L. 107–68, title I, § 110, Nov. 12, 2001, 115 Stat. 569; Pub. L. 108–83, title I, § 105(a), Sept. 30, 2003, 117 Stat. 1018; Pub. L. 116–260, div. I, title I, § 116(b)(2)(B), (c)(2), Dec. 27, 2020, 134 Stat. 1637, 1639.)
 
 **Editorial Notes**
 
@@ -237,59 +237,59 @@ Subsec. (h) of this section made the amendments specified in the References in T
 
 **Amendments**
 
-2020—Subsec. (a)(3). Pub. L. 116–260, § 116(b)(2)(B), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards” in two places.
+2020—Subsec. (a)(3). Pub. L. 116–260, § 116(b)(2)(B), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards” in two places.
 
-Subsec. (e)(1)(B). Pub. L. 116–260, § 116(b)(2)(B), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+Subsec. (e)(1)(B). Pub. L. 116–260, § 116(b)(2)(B), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
 
-Subsec. (f). Pub. L. 116–260, § 116(c)(2)(B), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a Member” for “A Member”, and added par. (2).
+Subsec. (f). Pub. L. 116–260, § 116(c)(2)(B), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a Member” for “A Member”, and added par. (2).
 
-Pub. L. 116–260, § 116(c)(2)(A), substituted “any mass communication” for “any mass mailing”, “matter” for “mail matter”, “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”, and “such proposed communication” for “such proposed mailing”.
+Pub. L. 116–260, § 116(c)(2)(A), substituted “any mass communication” for “any mass mailing”, “matter” for “mail matter”, “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”, and “such proposed communication” for “such proposed mailing”.
 
-Pub. L. 116–260, § 116(b)(2)(B), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+Pub. L. 116–260, § 116(b)(2)(B), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
 
-Subsec. (g)(3). Pub. L. 116–260, § 116(c)(2)(C), added par. (3).
+Subsec. (g)(3). Pub. L. 116–260, § 116(c)(2)(C), added par. (3).
 
 2003—Subsec. (d). Pub. L. 108–83, in introductory provisions, struck out “in the House, or official expenses” after “defray official expenses” and “in the Senate” after “(excluding handheld communications devices)”.
 
 2001—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
 
-1999—Subsec. (a)(3). Pub. L. 106–57, § 103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
+1999—Subsec. (a)(3). Pub. L. 106–57, § 103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
 
 Subsec. (b)(2). Pub. L. 106–19 substituted “any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B)” for “any person with an allocation under subsection (a)(2)”.
 
-Subsec. (e)(1). Pub. L. 106–57, § 103(a)(1)(A), in introductory provisions, substituted “The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—” for “There is established in the House of Representatives an Official Mail Allowance for Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank. Regulations for use of the Official Mail Allowance shall be prescribed—”.
+Subsec. (e)(1). Pub. L. 106–57, § 103(a)(1)(A), in introductory provisions, substituted “The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—” for “There is established in the House of Representatives an Official Mail Allowance for Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank. Regulations for use of the Official Mail Allowance shall be prescribed—”.
 
-Subsec. (e)(1)(A). Pub. L. 106–57, § 103(a)(1)(B), substituted “official mail (except as provided in subparagraph (B))” for “the Allowance”.
+Subsec. (e)(1)(A). Pub. L. 106–57, § 103(a)(1)(B), substituted “official mail (except as provided in subparagraph (B))” for “the Allowance”.
 
-Subsec. (e)(2). Pub. L. 106–57, § 103(a)(2)(A), substituted “Funds used for official mail—” for “The Official Mail Allowance—” in introductory provisions.
+Subsec. (e)(2). Pub. L. 106–57, § 103(a)(2)(A), substituted “Funds used for official mail—” for “The Official Mail Allowance—” in introductory provisions.
 
-Pub. L. 106–57, § 102, made technical correction to directory language of Pub. L. 105–275, § 104(a). See 1998 Amendment note below.
+Pub. L. 106–57, § 102, made technical correction to directory language of Pub. L. 105–275, § 104(a). See 1998 Amendment note below.
 
-Subsec. (e)(2)(A) to (C). Pub. L. 106–57, § 103(a)(2)(B), (C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “shall be available for postage for franked mail sent at a first class, third class, or fourth class rate;”.
+Subsec. (e)(2)(A) to (C). Pub. L. 106–57, § 103(a)(2)(B), (C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “shall be available for postage for franked mail sent at a first class, third class, or fourth class rate;”.
 
-Subsec. (e)(3). Pub. L. 106–57, § 103(a)(3), struck out par. (3) which read as follows:
+Subsec. (e)(3). Pub. L. 106–57, § 103(a)(3), struck out par. (3) which read as follows:
 
 “(3)(A) Subject to subparagraph (B), each Member of the House of Representatives may transfer amounts from the Members’ Representational Allowance of the Member to the Official Mail Allowance of the Member.
 
 “(B) The total amount a Member may so transfer with respect to a session of Congress may not exceed $25,000.”
 
-1998—Subsec. (e)(2). Pub. L. 105–275, § 104(a), as amended by Pub. L. 106–57, § 102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
+1998—Subsec. (e)(2). Pub. L. 105–275, § 104(a), as amended by Pub. L. 106–57, § 102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
 
-Subsec. (e)(4). Pub. L. 105–275, § 104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.”
+Subsec. (e)(4). Pub. L. 105–275, § 104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.”
 
-1996—Subsec. (a). Pub. L. 104–186, § 203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–186, § 203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 104–186, § 203(22)(A), (B)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration”.
+Subsec. (a)(3). Pub. L. 104–186, § 203(22)(A), (B)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration”.
 
-Subsec. (b). Pub. L. 104–186, § 203(22)(B)(iii), substituted “House Oversight” for “House Administration” in introductory provisions.
+Subsec. (b). Pub. L. 104–186, § 203(22)(B)(iii), substituted “House Oversight” for “House Administration” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 104–186, § 203(22)(B)(iv), substituted “House Oversight” for “House Administration”.
+Subsec. (e)(1)(A). Pub. L. 104–186, § 203(22)(B)(iv), substituted “House Oversight” for “House Administration”.
 
-Subsec. (e)(2)(A). Pub. L. 104–186, § 203(22)(B)(v), struck out “only” after “available”.
+Subsec. (e)(2)(A). Pub. L. 104–186, § 203(22)(B)(v), struck out “only” after “available”.
 
-Subsec. (e)(3)(A). Pub. L. 104–186, § 203(22)(B)(vi), substituted “Members’ Representational Allowance” for “Official Expenses Allowance and the Clerk Hire Allowance”.
+Subsec. (e)(3)(A). Pub. L. 104–186, § 203(22)(B)(vi), substituted “Members’ Representational Allowance” for “Official Expenses Allowance and the Clerk Hire Allowance”.
 
-Subsec. (e)(4). Pub. L. 104–186, § 203(22)(B)(vii), substituted “Members’ Representational Allowance” for “Official Expenses Allowance”.
+Subsec. (e)(4). Pub. L. 104–186, § 203(22)(B)(vii), substituted “Members’ Representational Allowance” for “Official Expenses Allowance”.
 
 1991—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
 
@@ -305,19 +305,19 @@ Amendment by Pub. L. 116–260 applicable with respect to communications dissemi
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–83, title I, § 105(b), Sept. 30, 2003, 117 Stat. 1018, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2004 and each succeeding fiscal year.”
+Pub. L. 108–83, title I, § 105(b), Sept. 30, 2003, 117 Stat. 1018, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2004 and each succeeding fiscal year.”
 
 **Effective Date of 1999 Amendments**
 
 Amendment by section 103(a)(1)–(3), (4)(B) of Pub. L. 106–57 applicable with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress, see section 103(c) of Pub. L. 106–57, set out as a note under section 4313 of this title.
 
-Pub. L. 106–19, § 1(b), Apr. 8, 1999, 113 Stat. 29, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to January 1999 and each succeeding month.”
+Pub. L. 106–19, § 1(b), Apr. 8, 1999, 113 Stat. 29, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to January 1999 and each succeeding month.”
 
-## § 504. Mass mailings by Senate offices; quarterly statements; publication of summary tabulations
+## § 504. Mass mailings by Senate offices; quarterly statements; publication of summary tabulations
 
 Two weeks after the close of each calendar quarter, or as soon as practicable thereafter, the Sergeant at Arms and Doorkeeper of the Senate shall send to each Senate office a statement of the cost of postage and paper and of the other operating expenses incurred as a result of mass mailings processed for such Senate office during such quarter. The statement shall separately identify the cost of postage and paper and other costs, and shall distinguish the costs attributable to newsletters and all other mass mailings. The statement shall also include the total cost per capita in the State. A compilation of all such statements shall be sent to the Senate Committee on Rules and Administration. A summary tabulation of such information shall be published quarterly in the Congressional Record and included in the semiannual report of the Secretary of the Senate. Such summary tabulation shall set forth for each Senate office the following information: the Senate office’s name, the total number of pieces of mass mail mailed during the quarter, the total cost of such mail, and, in the case of Senators, the cost of such mail divided by the total population of the State from which the Senator was elected, and the total number of pieces of mass mail divided by the total population of the State from which the Senator was elected, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses.
 
-(Pub. L. 101–520, title III, § 318, Nov. 5, 1990, 104 Stat. 2283; Pub. L. 103–283, title I, § 3(b), July 22, 1994, 108 Stat. 1427.)
+(Pub. L. 101–520, title III, § 318, Nov. 5, 1990, 104 Stat. 2283; Pub. L. 103–283, title I, § 3(b), July 22, 1994, 108 Stat. 1427.)
 
 **Editorial Notes**
 
@@ -329,13 +329,13 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 
 **Amendments**
 
-1994—Pub. L. 103–283 inserted before period at end “, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses”.
+1994—Pub. L. 103–283 inserted before period at end “, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–283, title I, § 3(c), July 22, 1994, 108 Stat. 1427, provided that:
+Pub. L. 103–283, title I, § 3(c), July 22, 1994, 108 Stat. 1427, provided that:
 
 > “The amendments made by this section [amending this section and section 4108 of this title] shall be effective with respect to—
 
@@ -343,11 +343,11 @@ Pub. L. 103–283, title I, § 3(c), July 22, 1994, 108 Stat. 1427, provided t
 
 > **“(2)** appropriations made and obligations incurred on and after such date.”
 
-## § 505. Mass mailing of information by Senators under frank; quarterly registration with Secretary of Senate
+## § 505. Mass mailing of information by Senators under frank; quarterly registration with Secretary of Senate
 
 In fiscal year 1991 and thereafter, when a Senator disseminates information under the frank by a mass mailing (as defined in section 3210(a)(6)(E) of title 39), the Senator shall register quarterly with the Secretary of the Senate such mass mailings. Such registration shall be made by filing with the Secretary a copy of the matter mailed and providing, on a form supplied by the Secretary, a description of the group or groups of persons to whom the mass mailing was mailed and the number of pieces mailed.
 
-(Pub. L. 101–520, title III, § 320, Nov. 5, 1990, 104 Stat. 2285.)
+(Pub. L. 101–520, title III, § 320, Nov. 5, 1990, 104 Stat. 2285.)
 
 **Editorial Notes**
 
@@ -357,7 +357,7 @@ Section was formerly classified to section 59g of this title prior to editorial 
 
 Section is from the Legislative Branch Appropriations Act, 1991.
 
-## § 506. Mass mailing sent by House Members
+## § 506. Mass mailing sent by House Members
 
 **(a) Notice that mailing is at taxpayer expense**
 
@@ -395,7 +395,7 @@ The Committee on House Oversight shall prescribe such rules and regulations and 
 
 This section shall apply with respect to sessions of Congress beginning after September 16, 1996.
 
-(Pub. L. 104–197, title III, § 311, Sept. 16, 1996, 110 Stat. 2414; Pub. L. 116–260, div. I, title I, § 116(d), Dec. 27, 2020, 134 Stat. 1640.)
+(Pub. L. 104–197, title III, § 311, Sept. 16, 1996, 110 Stat. 2414; Pub. L. 116–260, div. I, title I, § 116(d), Dec. 27, 2020, 134 Stat. 1640.)
 
 **Editorial Notes**
 

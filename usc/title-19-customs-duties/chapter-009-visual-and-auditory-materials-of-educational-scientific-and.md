@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 9—VISUAL AND AUDITORY MATERIALS OF EDUCATIONAL, SCIENTIFIC, AND CULTURAL CHARACTER
 
-## § 2051. Implementation of the Agreement; executive designation and duty of Federal agencies
+## § 2051. Implementation of the Agreement; executive designation and duty of Federal agencies
 
 The President of the United States is authorized to designate a Federal agency or agencies which shall be responsible for carrying out the provisions of the Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific, and Cultural Character and a related protocol of signature, opened for signature at Lake Success on July 15, 1949 (hereinafter in this chapter referred to as the “Agreement”). It shall be the duty of the Federal agency or agencies so designated to take appropriate measures for the carrying out of the provisions of the Agreement including the issuance of regulations. In carrying out this section, such Federal agency or agencies may not consider visual or auditory material to fail to qualify as being of international educational character—
 
@@ -31,7 +31,7 @@ The President of the United States is authorized to designate a Federal agency o
 
 Such Federal agency or agencies may not label as propaganda any material that receives a certificate of international educational character under this section and the Agreement.
 
-(Pub. L. 89–634, § 1, Oct. 8, 1966, 80 Stat. 879; Pub. L. 102–138, title II, § 207, Oct. 28, 1991, 105 Stat. 693.)
+(Pub. L. 89–634, § 1, Oct. 8, 1966, 80 Stat. 879; Pub. L. 102–138, title II, § 207, Oct. 28, 1991, 105 Stat. 693.)
 
 **Editorial Notes**
 
@@ -55,8 +55,8 @@ Lyndon B. Johnson.
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.]
 
-## § 2052. Assistance from other Federal agencies; facilities and personnel
+## § 2052. Assistance from other Federal agencies; facilities and personnel
 
 Agencies of the Federal Government are authorized to furnish facilities and personnel for the purpose of assisting the agency or agencies designated by the President in carrying out the provisions of the Agreement.
 
-(Pub. L. 89–634, § 2, Oct. 8, 1966, 80 Stat. 879.)
+(Pub. L. 89–634, § 2, Oct. 8, 1966, 80 Stat. 879.)

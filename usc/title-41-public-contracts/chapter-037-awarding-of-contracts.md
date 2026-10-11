@@ -15,26 +15,26 @@ retrieved: 2026-10-11
 
 # CHAPTER 37—AWARDING OF CONTRACTS
 
-## § 3701. Basis of award and rejection
+## § 3701. Basis of award and rejection
 
 **(a) Award.—** An executive agency shall evaluate sealed bids and competitive proposals, and award a contract, based solely on the factors specified in the solicitation.
 
 **(b) Rejection.—** All sealed bids or competitive proposals received in response to a solicitation may be rejected if the agency head determines that rejection is in the public interest.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3701(a) | 41:253b(a). | June 30, 1949, ch. 288, title III, § 303B(a), (b), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1179; Pub. L. 103–355, title I, § 1061(c)(1), Oct. 13, 1994, 108 Stat. 3267. |
+| 3701(a) | 41:253b(a). | June 30, 1949, ch. 288, title III, § 303B(a), (b), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1179; Pub. L. 103–355, title I, § 1061(c)(1), Oct. 13, 1994, 108 Stat. 3267. |
 | 3701(b) | 41:253b(b). |  |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Use of Lowest Price Technically Acceptable Source Selection Process**
 
-Pub. L. 115–232, div. A, title VIII, § 880, Aug. 13, 2018, 132 Stat. 1909, as amended by Pub. L. 116–92, div. A, title VIII, § 806(a)(2), Dec. 20, 2019, 133 Stat. 1485; Pub. L. 118–159, div. A, title VIII, § 822, Dec. 23, 2024, 138 Stat. 1983, provided that:
+Pub. L. 115–232, div. A, title VIII, § 880, Aug. 13, 2018, 132 Stat. 1909, as amended by Pub. L. 116–92, div. A, title VIII, § 806(a)(2), Dec. 20, 2019, 133 Stat. 1485; Pub. L. 118–159, div. A, title VIII, § 822, Dec. 23, 2024, 138 Stat. 1983, provided that:
 
 > **“(a) Statement of Policy.—** It shall be the policy of the United States Government to avoid using lowest price technically acceptable source selection criteria in circumstances that would deny the Government the benefits of cost and technical tradeoffs in the source selection process.
 
@@ -70,7 +70,7 @@ Pub. L. 115–232, div. A, title VIII, § 880, Aug. 13, 2018, 132 Stat. 1909, 
 
 **Congressional Statement of Purpose**
 
-Pub. L. 98–577, title I, § 101, Oct. 30, 1984, 98 Stat. 3066, provided that:
+Pub. L. 98–577, title I, § 101, Oct. 30, 1984, 98 Stat. 3066, provided that:
 
 > “The purposes of this Act [see Tables for classification] are to—
 
@@ -106,7 +106,7 @@ Sec. 3. The Administrator of General Services, the Secretary of Defense, and the
 
 William J. Clinton.
 
-## § 3702. Sealed bids
+## § 3702. Sealed bids
 
 **(a) Opening of Bids.—** Sealed bids shall be opened publicly at the time and place stated in the solicitation.
 
@@ -114,17 +114,17 @@ William J. Clinton.
 
 **(c) Notice of Award.—** The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within 3 days after the date of contract award, the executive agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3702(a) | 41:253b(c) (1st sentence). | June 30, 1949, ch. 288, title III, § 303B(c), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1179; Pub. L. 103–355, title I, §§ 1061(c)(2), 1063(a), Oct. 13, 1994, 108 Stat. 3267, 3268. |
+| 3702(a) | 41:253b(c) (1st sentence). | June 30, 1949, ch. 288, title III, § 303B(c), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1179; Pub. L. 103–355, title I, §§ 1061(c)(2), 1063(a), Oct. 13, 1994, 108 Stat. 3267, 3268. |
 | 3702(b) | 41:253b(c) (2d sentence). |  |
 | 3702(a) | 41:253b(c) (3d, last sentences). |  |
 
-## § 3703. Competitive proposals
+## § 3703. Competitive proposals
 
 **(a) Evaluation and Award.—** An executive agency shall evaluate competitive proposals in accordance with section 3701(a) of this title and may award a contract—
 
@@ -138,18 +138,18 @@ William J. Clinton.
 
 **(d) Notice of Award.—** The executive agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to that source and, within 3 days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3771.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3771.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3703(a) | 41:253b(d)(1). | June 30, 1949, ch. 288, title III, § 303B(d), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1180; Pub. L. 103–355, title I, §§ 1061(c)(3), 1063(b), Oct. 13, 1994, 108 Stat. 3267, 3268; Pub. L. 104–106, title XLI, § 4103(b), Feb. 10, 1996, 110 Stat. 644. |
+| 3703(a) | 41:253b(d)(1). | June 30, 1949, ch. 288, title III, § 303B(d), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1180; Pub. L. 103–355, title I, §§ 1061(c)(3), 1063(b), Oct. 13, 1994, 108 Stat. 3267, 3268; Pub. L. 104–106, title XLI, § 4103(b), Feb. 10, 1996, 110 Stat. 644. |
 | 3703(b) | 41:253b(d)(2). |  |
 | 3703(c) | 41:253b(d)(3) (1st sentence). |  |
 | 3703(d) | 41:253b(d)(3) (last sentence). |  |
 
-## § 3704. Post-award debriefings
+## § 3704. Post-award debriefings
 
 **(a) Request for Debriefing.—** When a contract is awarded by the head of an executive agency on the basis of competitive proposals, an unsuccessful offeror, on written request received by the agency within 3 days after the date on which the unsuccessful offeror receives the notification of the contract award, shall be debriefed and furnished the basis for the selection decision and contract award.
 
@@ -181,19 +181,19 @@ William J. Clinton.
 
 **(g) Summary To Be Included in File.—** The contracting officer shall include a summary of the debriefing in the contract file.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3771; Pub. L. 115–232, div. A, title VIII, § 836(b)(15), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3771; Pub. L. 115–232, div. A, title VIII, § 836(b)(15), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3704(a) | 41:253b(e)(1) (1st sentence). | June 30, 1949, ch. 288, title III, § 303B(e), as added Pub. L. 103–355, title I, § 1064(2), Oct. 13, 1994, 108 Stat. 3268; Pub. L. 104–106, title XLI, § 4104(b)(1), Feb. 10, 1996, 110 Stat. 645. |
+| 3704(a) | 41:253b(e)(1) (1st sentence). | June 30, 1949, ch. 288, title III, § 303B(e), as added Pub. L. 103–355, title I, § 1064(2), Oct. 13, 1994, 108 Stat. 3268; Pub. L. 104–106, title XLI, § 4104(b)(1), Feb. 10, 1996, 110 Stat. 645. |
 | 3704(b) | 41:253b(e)(1) (last sentence). |  |
 | 3704(c) | 41:253b(e)(2). |  |
 | 3704(d) | 41:253b(e)(3). |  |
 | 3704(e) | 41:253b(e)(4). |  |
 | 3704(f) | 41:253b(e)(5). |  |
-| 3704(g) | 41:253b(g) (related to 41:253b(e)). | June 30, 1949, ch. 288, title III, § 303B(g) (related to § 303B(e)), as added Pub. L. 104–106, title XLI, § 4104(b)(3), Feb. 10, 1996, 110 Stat. 645. |
+| 3704(g) | 41:253b(g) (related to 41:253b(e)). | June 30, 1949, ch. 288, title III, § 303B(g) (related to § 303B(e)), as added Pub. L. 104–106, title XLI, § 4104(b)(3), Feb. 10, 1996, 110 Stat. 645. |
 
 **Editorial Notes**
 
@@ -207,7 +207,7 @@ William J. Clinton.
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3705. Pre-award debriefings
+## § 3705. Pre-award debriefings
 
 **(a) Request for Debriefing.—** When the contracting officer excludes an offeror submitting a competitive proposal from the competitive range (or otherwise excludes that offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award.
 
@@ -227,44 +227,44 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(f) Summary To Be Included in File.—** The contracting officer shall include a summary of the debriefing in the contract file.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3772.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3772.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3705(a) | 41:253b(f)(1) (1st sentence). | June 30, 1949, ch. 288, title III, § 303B(f), (g) (related to § 303B(f)), as added Pub. L. 104–106, title XLI, § 4104(b)(3), Feb. 10, 1996, 110 Stat. 645. |
+| 3705(a) | 41:253b(f)(1) (1st sentence). | June 30, 1949, ch. 288, title III, § 303B(f), (g) (related to § 303B(f)), as added Pub. L. 104–106, title XLI, § 4104(b)(3), Feb. 10, 1996, 110 Stat. 645. |
 | 3705(b) | 41:253b(f)(1) (last sentence). |  |
 | 3705(c) | 41:253b(f)(2). |  |
 | 3705(d) | 41:253b(f)(3). |  |
 | 3705(e) | 41:253b(f)(4). |  |
 | 3705(f) | 41:253b(g) (related to 41:253b(f)). |  |
 
-## § 3706. Encouragement of alternative dispute resolution
+## § 3706. Encouragement of alternative dispute resolution
 
 The Federal Acquisition Regulation shall include a provision encouraging the use of alternative dispute resolution techniques to provide informal, expeditious, and inexpensive procedures for an offeror to consider using before filing a protest, prior to the award of a contract, of the exclusion of the offeror from the competitive range (or otherwise from further consideration) for that contract.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3773.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3773.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3706 | 41:253b(h). | June 30, 1949, ch. 288, title III, § 303B(h), as added Pub. L. 104–106, title XLI, § 4104(b)(3), Feb. 10, 1996, 110 Stat. 645. |
+| 3706 | 41:253b(h). | June 30, 1949, ch. 288, title III, § 303B(h), as added Pub. L. 104–106, title XLI, § 4104(b)(3), Feb. 10, 1996, 110 Stat. 645. |
 
-## § 3707. Antitrust violations
+## § 3707. Antitrust violations
 
 If the agency head considers that a bid or proposal evidences a violation of the antitrust laws, the agency head shall refer the bid or proposal to the Attorney General for appropriate action.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3773.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3773.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3707 | 41:253b(i). | June 30, 1949, ch. 288, title III, § 303B(i), formerly § 303B(e), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1180; redesignated as § 303B(f), Pub. L. 103–355, title I, § 1064(1), Oct. 13, 1994, 108 Stat. 3268; redesignated as § 303B(i), Pub. L. 104–106, title XLI, § 4104(b)(2), Feb. 10, 1996, 110 Stat. 645. |
+| 3707 | 41:253b(i). | June 30, 1949, ch. 288, title III, § 303B(i), formerly § 303B(e), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1180; redesignated as § 303B(f), Pub. L. 103–355, title I, § 1064(1), Oct. 13, 1994, 108 Stat. 3268; redesignated as § 303B(i), Pub. L. 104–106, title XLI, § 4104(b)(2), Feb. 10, 1996, 110 Stat. 645. |
 
-## § 3708. Protests
+## § 3708. Protests
 
 **(a) Protest File.—**
 
@@ -278,11 +278,11 @@ If the agency head considers that a bid or proposal evidences a violation of the
 
 **(2)** pay costs described in paragraph (1) of section 3554(c) of title 31 within the limits referred to in paragraph (2) of section 3554(c).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3773.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3773.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3708(a) | 41:253b(k). | June 30, 1949, ch. 288, title III, § 303B(k), formerly § 303B(h), as added Pub. L. 103–355, title I, § 1065, Oct. 13, 1994, 108 Stat. 3269; redesignated as § 303B(k), Pub. L. 104–106, title XLI, § 4104(b)(2), Feb. 10, 1996, 110 Stat. 645; Pub. L. 104–106, title XLI, § 5607(c), Feb. 10, 1996, 110 Stat. 701, as amended Pub. L. 104–201, title X, § 1074(b)(7) (less effective date), Sept. 23, 1996, 110 Stat. 2660. |
-| 3708(b) | 41:253b(*l*). | June 30, 1949, ch. 288, title III, § 303B(*l*), formerly § 303B(i), as added Pub. L. 103–355, title I, § 1066, Oct. 13, 1994, 108 Stat. 3269; redesignated as § 303B(*l*), Pub. L. 104–106, title XLI, § 4104(b)(2), Feb. 10, 1996, 110 Stat. 645. |
+| 3708(a) | 41:253b(k). | June 30, 1949, ch. 288, title III, § 303B(k), formerly § 303B(h), as added Pub. L. 103–355, title I, § 1065, Oct. 13, 1994, 108 Stat. 3269; redesignated as § 303B(k), Pub. L. 104–106, title XLI, § 4104(b)(2), Feb. 10, 1996, 110 Stat. 645; Pub. L. 104–106, title XLI, § 5607(c), Feb. 10, 1996, 110 Stat. 701, as amended Pub. L. 104–201, title X, § 1074(b)(7) (less effective date), Sept. 23, 1996, 110 Stat. 2660. |
+| 3708(b) | 41:253b(*l*). | June 30, 1949, ch. 288, title III, § 303B(*l*), formerly § 303B(i), as added Pub. L. 103–355, title I, § 1066, Oct. 13, 1994, 108 Stat. 3269; redesignated as § 303B(*l*), Pub. L. 104–106, title XLI, § 4104(b)(2), Feb. 10, 1996, 110 Stat. 645. |

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 96—PERSONNEL FLEXIBILITIES RELATING TO LAND MANAGEMENT AGENCIES
 
-## § 9601. Definitions
+## § 9601. Definitions
 
 For purposes of this chapter—
 
@@ -35,9 +35,9 @@ For purposes of this chapter—
 
 **(2)** the term “time-limited appointment” includes a temporary appointment and a term appointment, as defined by the Office of Personnel Management.
 
-(Added Pub. L. 114–47, § 2(a), Aug. 7, 2015, 129 Stat. 485.)
+(Added Pub. L. 114–47, § 2(a), Aug. 7, 2015, 129 Stat. 485.)
 
-## § 9602. Competitive service; time-limited appointments
+## § 9602. Competitive service; time-limited appointments
 
 **(a)** Notwithstanding chapter 33 or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, an employee of a land management agency serving under a time-limited appointment in the competitive service is eligible to compete for a permanent appointment in the competitive service at such land management agency when such agency is accepting applications from individuals within the agency’s workforce under merit promotion procedures, or any agency, including a land management agency, when the agency is accepting applications from individuals outside its own workforce under the merit promotion procedures of the applicable agency if—
 
@@ -63,12 +63,12 @@ For purposes of this chapter—
 
 **(e)** The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this section.
 
-(Added Pub. L. 114–47, § 2(a), Aug. 7, 2015, 129 Stat. 485; amended Pub. L. 114–328, div. A, title XI, § 1135, Dec. 23, 2016, 130 Stat. 2459.)
+(Added Pub. L. 114–47, § 2(a), Aug. 7, 2015, 129 Stat. 485; amended Pub. L. 114–328, div. A, title XI, § 1135, Dec. 23, 2016, 130 Stat. 2459.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328, § 1135(1), substituted in introductory provisions “such land management agency when such agency is accepting applications from individuals within the agency’s workforce under merit promotion procedures, or any agency, including a land management agency, when the agency is accepting applications from individuals outside its own workforce under the merit promotion procedures of the applicable agency” for “any land management agency or any other agency (as defined in section 101 of title 31) under the internal merit promotion procedures of the applicable agency”.
+2016—Subsec. (a). Pub. L. 114–328, § 1135(1), substituted in introductory provisions “such land management agency when such agency is accepting applications from individuals within the agency’s workforce under merit promotion procedures, or any agency, including a land management agency, when the agency is accepting applications from individuals outside its own workforce under the merit promotion procedures of the applicable agency” for “any land management agency or any other agency (as defined in section 101 of title 31) under the internal merit promotion procedures of the applicable agency”.
 
-Subsec. (d). Pub. L. 114–328, § 1135(2), inserted “of the agency from which the former employee was most recently separated” after “deemed a time-limited employee” in introductory provisions.
+Subsec. (d). Pub. L. 114–328, § 1135(2), inserted “of the agency from which the former employee was most recently separated” after “deemed a time-limited employee” in introductory provisions.

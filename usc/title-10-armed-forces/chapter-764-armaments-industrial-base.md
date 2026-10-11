@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 434 of this title as this chapter and items 4551 to 4555 as 7551 to 7555, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 434 of this title as this chapter and items 4551 to 4555 as 7551 to 7555, respectively.
 
-## § 7551. Definitions
+## § 7551. Definitions
 
 In this chapter:
 
@@ -35,7 +35,7 @@ In this chapter:
 
 **(5)** The term “Secretary” means the Secretary of the Army.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–67, § 4551; amended Pub. L. 109–163, div. A, title III, § 323(a), Jan. 6, 2006, 119 Stat. 3193; renumbered § 7551, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–67, § 4551; amended Pub. L. 109–163, div. A, title III, § 323(a), Jan. 6, 2006, 119 Stat. 3193; renumbered § 7551, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -43,7 +43,7 @@ In this chapter:
 
 2018—Pub. L. 115–232 renumbered section 4551 of this title as this section.
 
-2006—Par. (2). Pub. L. 109–163, § 323(a), inserted “, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition,” after “manufacturing facility”.
+2006—Par. (2). Pub. L. 109–163, § 323(a), inserted “, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition,” after “manufacturing facility”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -53,7 +53,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Modernization of the Organic Industrial Base of the Army**
 
-Pub. L. 119–60, div. A, title III, § 351, Dec. 18, 2025, 139 Stat. 832, provided that:
+Pub. L. 119–60, div. A, title III, § 351, Dec. 18, 2025, 139 Stat. 832, provided that:
 
 > **“(a) Authority to Establish and Operate.—** The Secretary of the Army shall accelerate the modernization of the organic industrial base of the Army to meet the requirements of the Army by ensuring additional production of materials, or expanded use of capabilities, as described in subsection (b).
 
@@ -83,21 +83,21 @@ Pub. L. 119–60, div. A, title III, § 351, Dec. 18, 2025, 139 Stat. 832, pro
 
 **Guidance Regarding Use of Organic Industrial Base**
 
-Pub. L. 115–91, div. A, title III, § 323, Dec. 12, 2017, 131 Stat. 1353, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of the Army shall establish clear and prescriptive guidance on the process for conducting make-or-buy analyses for Army requirements, including the use of the organic industrial base.”
+Pub. L. 115–91, div. A, title III, § 323, Dec. 12, 2017, 131 Stat. 1353, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of the Army shall establish clear and prescriptive guidance on the process for conducting make-or-buy analyses for Army requirements, including the use of the organic industrial base.”
 
 **Inclusion of Certain Industrial Plants in the Armament Retooling and Manufacturing Support Initiative**
 
-Pub. L. 114–328, div. A, title III, § 323, Dec. 23, 2016, 130 Stat. 2076, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(8), Aug. 13, 2018, 132 Stat. 1841, provided that: “During the five-year period beginning on the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense may treat a Government-owned, contractor-operated industrial plant of the Department of Defense as an eligible facility under section 7551(2) of title 10, United States Code.”
+Pub. L. 114–328, div. A, title III, § 323, Dec. 23, 2016, 130 Stat. 2076, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(8), Aug. 13, 2018, 132 Stat. 1841, provided that: “During the five-year period beginning on the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense may treat a Government-owned, contractor-operated industrial plant of the Department of Defense as an eligible facility under section 7551(2) of title 10, United States Code.”
 
 **Consideration of Army Arsenals’ Capabilities To Fulfill Manufacturing Requirements**
 
-Pub. L. 113–66, div. A, title III, § 323, Dec. 26, 2013, 127 Stat. 733, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that:
+Pub. L. 113–66, div. A, title III, § 323, Dec. 26, 2013, 127 Stat. 733, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that:
 
 > **“(a) Consideration of Capability of Arsenals.—** When undertaking a make-or-buy analysis, a portfolio acquisition executive or program manager of a military service or Defense Agency shall consider the capability of arsenals owned by the United States to fulfill a manufacturing requirement.
 
 > **“(b) Notification of Solicitations.—** Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall establish and begin implementation of a system for ensuring that the arsenals owned by the United States are notified of any solicitation that fulfills a manufacturing requirement for which there is no or limited domestic commercial source and which may be appropriate for manufacturing within an arsenal owned by the United States.”
 
-## § 7552. Policy
+## § 7552. Policy
 
 It is the policy of the United States—
 
@@ -119,7 +119,7 @@ It is the policy of the United States—
 
 **(9)** to encourage facility use contracting where feasible.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–67, § 4552; amended Pub. L. 109–163, div. A, title III, § 323(c), Jan. 6, 2006, 119 Stat. 3194; renumbered § 7552, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–67, § 4552; amended Pub. L. 109–163, div. A, title III, § 323(c), Jan. 6, 2006, 119 Stat. 3194; renumbered § 7552, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ It is the policy of the United States—
 
 2018—Pub. L. 115–232 renumbered section 4552 of this title as this section.
 
-2006—Pars. (1), (8). Pub. L. 109–163 inserted “, storage, maintenance, renovation, and demilitarization” after “manufacturing”.
+2006—Pars. (1), (8). Pub. L. 109–163 inserted “, storage, maintenance, renovation, and demilitarization” after “manufacturing”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -135,7 +135,7 @@ It is the policy of the United States—
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7553. Armament Retooling and Manufacturing Support Initiative
+## § 7553. Armament Retooling and Manufacturing Support Initiative
 
 **(a) Authority for Initiative.—** The Secretary may carry out a program to be known as the “Armament Retooling and Manufacturing Support Initiative”.
 
@@ -179,7 +179,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** A full annual accounting of such expenses for each fiscal year shall be provided to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives not later than March 30 of the following fiscal year.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–68, § 4553; amended Pub. L. 108–178, § 4(b)(5), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–163, div. A, title III, § 323(d), Jan. 6, 2006, 119 Stat. 3194; renumbered § 7553, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–68, § 4553; amended Pub. L. 108–178, § 4(b)(5), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–163, div. A, title III, § 323(d), Jan. 6, 2006, 119 Stat. 3194; renumbered § 7553, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -201,7 +201,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-## § 7554. Property management contracts and leases
+## § 7554. Property management contracts and leases
 
 **(a) In General.—** In the case of each eligible facility that is made available for the ARMS Initiative, the Secretary—
 
@@ -235,7 +235,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **(3)** The authority under paragraph (1) may be exercised without regard to section 3302(b) of title 31 and any other provision of law.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–69, § 4554; amended Pub. L. 109–163, div. A, title III, § 323(b), Jan. 6, 2006, 119 Stat. 3194; renumbered § 7554, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–69, § 4554; amended Pub. L. 109–163, div. A, title III, § 323(b), Jan. 6, 2006, 119 Stat. 3194; renumbered § 7554, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 **Editorial Notes**
 
@@ -259,9 +259,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Temporary Authority To Extend Contracts and Leases Under the Arms Initiative**
 
-Pub. L. 114–92, div. A, title III, § 343, Nov. 25, 2015, 129 Stat. 794, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(9), Aug. 13, 2018, 132 Stat. 1841; Pub. L. 117–81, div. A, title III, § 374, Dec. 27, 2021, 135 Stat. 1667, provided that: “Contracts or subcontracts entered into pursuant to section 7554(a)(3)(A) of title 10, United States Code, on or before November 25, 2025, may include an option to extend the term of the contract or subcontract for an additional 25 years.”
+Pub. L. 114–92, div. A, title III, § 343, Nov. 25, 2015, 129 Stat. 794, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(9), Aug. 13, 2018, 132 Stat. 1841; Pub. L. 117–81, div. A, title III, § 374, Dec. 27, 2021, 135 Stat. 1667, provided that: “Contracts or subcontracts entered into pursuant to section 7554(a)(3)(A) of title 10, United States Code, on or before November 25, 2025, may include an option to extend the term of the contract or subcontract for an additional 25 years.”
 
-## § 7555. ARMS Initiative loan guarantee program
+## § 7555. ARMS Initiative loan guarantee program
 
 **(a) Program Authorized.—** Subject to subsection (b), the Secretary may carry out a loan guarantee program to encourage commercial firms to use eligible facilities under this chapter. Under any such program, the Secretary may guarantee the repayment of any loan made to a commercial firm to fund, in whole or in part, the establishment of a commercial activity to use an eligible facility under this chapter.
 
@@ -299,7 +299,7 @@ Pub. L. 114–92, div. A, title III, § 343, Nov. 25, 2015, 129 Stat. 794, as 
 
 **(e) Transfer of Funds.—** The Secretary may transfer to an official providing services under subsection (c), and that official may accept, such funds as may be necessary to administer the loan guarantee program under this section.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–70, § 4555; renumbered § 7555, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–70, § 4555; renumbered § 7555, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 

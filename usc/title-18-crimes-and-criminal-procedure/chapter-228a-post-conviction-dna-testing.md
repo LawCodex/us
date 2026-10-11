@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 228A—POST-CONVICTION DNA TESTING
 
-## § 3600. DNA testing
+## § 3600. DNA testing
 
 **(a) In General.—** Upon a written motion by an individual sentenced to imprisonment or death pursuant to a conviction for a Federal offense (referred to in this section as the “applicant”), the court that entered the judgment of conviction shall order DNA testing of specific evidence if the court finds that all of the following apply:
 
@@ -183,7 +183,7 @@ retrieved: 2026-10-11
 
 **(3) Not a motion under section 2255.—** A motion under this section shall not be considered to be a motion under section 2255 for purposes of determining whether the motion or any other motion is a second or successive motion under section 2255.
 
-(Added Pub. L. 108–405, title IV, § 411(a)(1), Oct. 30, 2004, 118 Stat. 2279; amended Pub. L. 114–324, § 11(a), Dec. 16, 2016, 130 Stat. 1956.)
+(Added Pub. L. 108–405, title IV, § 411(a)(1), Oct. 30, 2004, 118 Stat. 2279; amended Pub. L. 114–324, § 11(a), Dec. 16, 2016, 130 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -193,37 +193,37 @@ Enactment of the Justice For All Act of 2004, referred to in subsec. (a)(10)(A),
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–324, § 11(a)(1), substituted “sentenced to” for “under a sentence of” in introductory provisions.
+2016—Subsec. (a). Pub. L. 114–324, § 11(a)(1), substituted “sentenced to” for “under a sentence of” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 114–324, § 11(a)(1), substituted “sentenced to” for “under a sentence of”.
+Subsec. (a)(1)(A). Pub. L. 114–324, § 11(a)(1), substituted “sentenced to” for “under a sentence of”.
 
-Subsec. (a)(1)(B)(i). Pub. L. 114–324, § 11(a)(2)(A), struck out “death” after “Federal”.
+Subsec. (a)(1)(B)(i). Pub. L. 114–324, § 11(a)(2)(A), struck out “death” after “Federal”.
 
-Subsec. (a)(3)(A). Pub. L. 114–324, § 11(a)(2)(B), struck out dash after “the applicant did not” and cl. (ii) designation before “knowingly fail” and struck out cl. (i) which read as follows: “knowingly and voluntarily waive the right to request DNA testing of that evidence in a court proceeding after the date of enactment of the Innocence Protection Act of 2004; or”.
+Subsec. (a)(3)(A). Pub. L. 114–324, § 11(a)(2)(B), struck out dash after “the applicant did not” and cl. (ii) designation before “knowingly fail” and struck out cl. (i) which read as follows: “knowingly and voluntarily waive the right to request DNA testing of that evidence in a court proceeding after the date of enactment of the Innocence Protection Act of 2004; or”.
 
-Subsec. (b)(1)(C). Pub. L. 114–324, § 11(a)(3), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 114–324, § 11(a)(3), added subpar. (C).
 
-Subsec. (e)(1). Pub. L. 114–324, § 11(a)(4)(A), amended par. (1) generally. Prior to amendment, text read as follows: “The results of any DNA testing ordered under this section shall be simultaneously disclosed to the court, the applicant, and the Government.”
+Subsec. (e)(1). Pub. L. 114–324, § 11(a)(4)(A), amended par. (1) generally. Prior to amendment, text read as follows: “The results of any DNA testing ordered under this section shall be simultaneously disclosed to the court, the applicant, and the Government.”
 
-Subsec. (e)(2). Pub. L. 114–324, § 11(a)(4)(B), substituted “to NDIS” for “to the National DNA Index System (referred to in this subsection as ‘NDIS’)”.
+Subsec. (e)(2). Pub. L. 114–324, § 11(a)(4)(B), substituted “to NDIS” for “to the National DNA Index System (referred to in this subsection as ‘NDIS’)”.
 
-Subsec. (g)(2)(A). Pub. L. 114–324, § 11(a)(1), substituted “sentenced to” for “under a sentence of”.
+Subsec. (g)(2)(A). Pub. L. 114–324, § 11(a)(1), substituted “sentenced to” for “under a sentence of”.
 
-Subsec. (g)(2)(B). Pub. L. 114–324, § 11(a)(5), struck out “death” after “during a Federal”.
+Subsec. (g)(2)(B). Pub. L. 114–324, § 11(a)(5), struck out “death” after “during a Federal”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–405, title IV, § 411(c), Oct. 30, 2004, 118 Stat. 2284, provided that: “This section [enacting this chapter and provisions set out as a note under this section] and the amendments made by this section shall take effect on the date of enactment of this Act [Oct. 30, 2004] and shall apply with respect to any offense committed, and to any judgment of conviction entered, before, on, or after that date of enactment.”
+Pub. L. 108–405, title IV, § 411(c), Oct. 30, 2004, 118 Stat. 2284, provided that: “This section [enacting this chapter and provisions set out as a note under this section] and the amendments made by this section shall take effect on the date of enactment of this Act [Oct. 30, 2004] and shall apply with respect to any offense committed, and to any judgment of conviction entered, before, on, or after that date of enactment.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–405, title IV, § 401, Oct. 30, 2004, 118 Stat. 2278, provided that: “This title [enacting this chapter and sections 14136e and 14163 to 14163e of Title 42, The Public Health and Welfare, amending section 2513 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 14136 of Title 42] may be cited as the ‘Innocence Protection Act of 2004’.”
+Pub. L. 108–405, title IV, § 401, Oct. 30, 2004, 118 Stat. 2278, provided that: “This title [enacting this chapter and sections 14136e and 14163 to 14163e of Title 42, The Public Health and Welfare, amending section 2513 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 14136 of Title 42] may be cited as the ‘Innocence Protection Act of 2004’.”
 
 **System for Reporting Motions**
 
-Pub. L. 108–405, title IV, § 411(b), Oct. 30, 2004, 118 Stat. 2284, provided that:
+Pub. L. 108–405, title IV, § 411(b), Oct. 30, 2004, 118 Stat. 2284, provided that:
 
 > **“(1) Establishment.—** The Attorney General shall establish a system for reporting and tracking motions filed in accordance with section 3600 of title 18, United States Code.
 
@@ -241,7 +241,7 @@ Pub. L. 108–405, title IV, § 411(b), Oct. 30, 2004, 118 Stat. 2284, provide
 
 > **“(4) Additional information.—** The report required to be submitted under paragraph (3) may include any other information the Attorney General determines to be relevant in assessing the operation, utility, or costs of section 3600 of title 18, United States Code, as added by this title, and any recommendations the Attorney General may have relating to future legislative action concerning that section.”
 
-## § 3600A. Preservation of biological evidence
+## § 3600A. Preservation of biological evidence
 
 **(a) In General.—** Notwithstanding any other provision of law, the Government shall preserve biological evidence that was secured in the investigation or prosecution of a Federal offense, if a defendant is sentenced to imprisonment for such offense.
 
@@ -271,7 +271,7 @@ Pub. L. 108–405, title IV, § 411(b), Oct. 30, 2004, 118 Stat. 2284, provide
 
 **(g) Habeas Corpus.—** Nothing in this section shall provide a basis for relief in any Federal habeas corpus proceeding.
 
-(Added Pub. L. 108–405, title IV, § 411(a)(1), Oct. 30, 2004, 118 Stat. 2283; amended Pub. L. 114–324, § 11(b), Dec. 16, 2016, 130 Stat. 1957.)
+(Added Pub. L. 108–405, title IV, § 411(a)(1), Oct. 30, 2004, 118 Stat. 2283; amended Pub. L. 114–324, § 11(b), Dec. 16, 2016, 130 Stat. 1957.)
 
 **Editorial Notes**
 
@@ -281,9 +281,9 @@ The date of enactment of the Innocence Protection Act of 2004, referred to in su
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–324, § 11(b)(1), substituted “sentenced to” for “under a sentence of”.
+2016—Subsec. (a). Pub. L. 114–324, § 11(b)(1), substituted “sentenced to” for “under a sentence of”.
 
-Subsec. (c). Pub. L. 114–324, § 11(b)(2), redesignated pars. (3) to (5) as (1) to (3), respectively, and struck out former pars. (1) and (2) which read as follows:
+Subsec. (c). Pub. L. 114–324, § 11(b)(2), redesignated pars. (3) to (5) as (1) to (3), respectively, and struck out former pars. (1) and (2) which read as follows:
 
 “(1) a court has denied a request or motion for DNA testing of the biological evidence by the defendant under section 3600, and no appeal is pending;
 

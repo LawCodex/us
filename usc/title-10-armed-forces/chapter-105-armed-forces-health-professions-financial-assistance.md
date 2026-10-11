@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1663(c)(7)(A), Oct. 5, 1994, 108 Stat. 3008, redesignated item for subchapter III as item for subchapter II and struck out former item for subchapter II “Health Professions Stipend Program for Reserve Service”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1663(c)(7)(A), Oct. 5, 1994, 108 Stat. 3008, redesignated item for subchapter III as item for subchapter II and struck out former item for subchapter II “Health Professions Stipend Program for Reserve Service”.
 
-1989—Pub. L. 101–189, div. A, title VII, §§ 707(b), 725(h)(3), Nov. 29, 1989, 103 Stat. 1475, 1480, substituted “and Financial Assistance Program” for “Program” in item for subchapter I and added item for subchapter III.
+1989—Pub. L. 101–189, div. A, title VII, §§ 707(b), 725(h)(3), Nov. 29, 1989, 103 Stat. 1475, 1480, substituted “and Financial Assistance Program” for “Program” in item for subchapter I and added item for subchapter III.
 
-1987—Pub. L. 100–180, div. A, title VII, § 711(a)(1), Dec. 4, 1987, 101 Stat. 1108, substituted “FINANCIAL ASSISTANCE PROGRAMS” for “SCHOLARSHIP PROGRAM” in chapter heading, and added subchapter analysis, consisting of subchapters I and II.
+1987—Pub. L. 100–180, div. A, title VII, § 711(a)(1), Dec. 4, 1987, 101 Stat. 1108, substituted “FINANCIAL ASSISTANCE PROGRAMS” for “SCHOLARSHIP PROGRAM” in chapter heading, and added subchapter analysis, consisting of subchapters I and II.
 
 ## SUBCHAPTER I—HEALTH PROFESSIONS SCHOLARSHIP AND FINANCIAL ASSISTANCE PROGRAM FOR ACTIVE SERVICE
 
@@ -31,15 +31,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–181, div. A, title VI, § 623(b), Jan. 28, 2008, 122 Stat. 152, added item 2128.
+2008—Pub. L. 110–181, div. A, title VI, § 623(b), Jan. 28, 2008, 122 Stat. 152, added item 2128.
 
-1989—Pub. L. 101–189, div. A, title VII, § 725(d)(3), (h)(2), Nov. 29, 1989, 103 Stat. 1479, 1480, substituted “AND FINANCIAL ASSISTANCE PROGRAM” for “PROGRAM” in subchapter heading and “Scholarships and financial assistance” for “Contracts for scholarships” in item 2127.
+1989—Pub. L. 101–189, div. A, title VII, § 725(d)(3), (h)(2), Nov. 29, 1989, 103 Stat. 1479, 1480, substituted “AND FINANCIAL ASSISTANCE PROGRAM” for “PROGRAM” in subchapter heading and “Scholarships and financial assistance” for “Contracts for scholarships” in item 2127.
 
-1987—Pub. L. 100–180, div. A, title VII, § 711(a)(1), Dec. 4, 1987, 101 Stat. 1108, added subchapter heading.
+1987—Pub. L. 100–180, div. A, title VII, § 711(a)(1), Dec. 4, 1987, 101 Stat. 1108, added subchapter heading.
 
-1980—Pub. L. 96–513, title V, § 511(66), Dec. 12, 1980, 94 Stat. 2926, substituted in item 2123 “program:” for “program;”, and in items 2124 to 2127 “:” for “;” wherever appearing.
+1980—Pub. L. 96–513, title V, § 511(66), Dec. 12, 1980, 94 Stat. 2926, substituted in item 2123 “program:” for “program;”, and in items 2124 to 2127 “:” for “;” wherever appearing.
 
-### § 2120. Definitions
+### § 2120. Definitions
 
 In this subchapter:
 
@@ -51,15 +51,15 @@ In this subchapter:
 
 **(4)** The term “specialized training” means advanced training in a health professions specialty received in an accredited program that is beyond the basic education required for appointment as a commissioned officer with a designation as a health professional.
 
-(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 98–94, title XII, § 1268(13), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VII, § 711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, § 725(a), (h)(1), Nov. 29, 1989, 103 Stat. 1478, 1480.)
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 98–94, title XII, § 1268(13), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VII, § 711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, § 725(a), (h)(1), Nov. 29, 1989, 103 Stat. 1478, 1480.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1989—Pars. (1), (2). Pub. L. 101–189, § 725(h)(1), substituted “Scholarship and Financial Assistance program” for “Scholarship program”.
+1989—Pars. (1), (2). Pub. L. 101–189, § 725(h)(1), substituted “Scholarship and Financial Assistance program” for “Scholarship program”.
 
-Par. (4). Pub. L. 101–189, § 725(a), added par. (4).
+Par. (4). Pub. L. 101–189, § 725(a), added par. (4).
 
 1987—Pub. L. 100–180 substituted “subchapter” for “chapter” in introductory text and in par. (1).
 
@@ -71,9 +71,9 @@ Pub. L. 100–26 inserted “The term” after each par. designation and struck 
 
 **Demonstration Project on Service of Retired Nurse Corps Officers as Faculty at Civilian Nursing Schools**
 
-Pub. L. 110–417, [div. A], title V, § 597, Oct. 14, 2008, 122 Stat. 4479, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(8), Jan. 7, 2011, 124 Stat. 4375, which authorized the Secretary of Defense to conduct a demonstration project to encourage retired military nurses to serve as faculty at civilian nursing schools, expired on June 30, 2014.
+Pub. L. 110–417, [div. A], title V, § 597, Oct. 14, 2008, 122 Stat. 4479, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(8), Jan. 7, 2011, 124 Stat. 4375, which authorized the Secretary of Defense to conduct a demonstration project to encourage retired military nurses to serve as faculty at civilian nursing schools, expired on June 30, 2014.
 
-### § 2121. Establishment
+### § 2121. Establishment
 
 **(a)**
 
@@ -103,7 +103,7 @@ Pub. L. 110–417, [div. A], title V, § 597, Oct. 14, 2008, 122 Stat. 4479, a
 
 **(2)** the overall percentage of the adjustment (if such adjustment is an increase) in the rates of basic pay for members of the uniformed services made effective for the fiscal year in which the school year ends.
 
-(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 96–107, title VIII, § 804(a), Nov. 9, 1979, 93 Stat. 812; Pub. L. 98–94, title IX, § 935(a), Sept. 24, 1983, 97 Stat. 652; Pub. L. 101–189, div. A, title VII, § 725(b), Nov. 29, 1989, 103 Stat. 1479; Pub. L. 101–510, div. A, title XIV, § 1484(k)(7), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, § 1501(c)(22), Feb. 10, 1996, 110 Stat. 499; Pub. L. 109–364, div. A, title V, § 538(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 110–181, div. A, title V, § 524(b), Jan. 28, 2008, 122 Stat. 103; Pub. L. 111–84, div. A, title V, § 524(a), Oct. 28, 2009, 123 Stat. 2285; Pub. L. 118–31, div. A, title VII, § 712, Dec. 22, 2023, 137 Stat. 302.)
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 96–107, title VIII, § 804(a), Nov. 9, 1979, 93 Stat. 812; Pub. L. 98–94, title IX, § 935(a), Sept. 24, 1983, 97 Stat. 652; Pub. L. 101–189, div. A, title VII, § 725(b), Nov. 29, 1989, 103 Stat. 1479; Pub. L. 101–510, div. A, title XIV, § 1484(k)(7), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, § 1501(c)(22), Feb. 10, 1996, 110 Stat. 499; Pub. L. 109–364, div. A, title V, § 538(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 110–181, div. A, title V, § 524(b), Jan. 28, 2008, 122 Stat. 103; Pub. L. 111–84, div. A, title V, § 524(a), Oct. 28, 2009, 123 Stat. 2285; Pub. L. 118–31, div. A, title VII, § 712, Dec. 22, 2023, 137 Stat. 302.)
 
 **Editorial Notes**
 
@@ -121,11 +121,11 @@ Pub. L. 110–417, [div. A], title V, § 597, Oct. 14, 2008, 122 Stat. 4479, a
 
 1990—Subsec. (c). Pub. L. 101–510 substituted “section” for “sections” in third sentence.
 
-1989—Subsec. (a). Pub. L. 101–189, § 725(b)(1), substituted “scholarship and financial assistance program” for “scholarship program”.
+1989—Subsec. (a). Pub. L. 101–189, § 725(b)(1), substituted “scholarship and financial assistance program” for “scholarship program”.
 
-Subsec. (b). Pub. L. 101–189, § 725(b)(2), substituted “study and specialized training” for “study”.
+Subsec. (b). Pub. L. 101–189, § 725(b)(2), substituted “study and specialized training” for “study”.
 
-Subsec. (c). Pub. L. 101–189, § 725(b)(3), substituted “pursuing a course of study” for “of the program” and inserted after second sentence “Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program.”
+Subsec. (c). Pub. L. 101–189, § 725(b)(3), substituted “pursuing a course of study” for “of the program” and inserted after second sentence “Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program.”
 
 1983—Subsec. (d). Pub. L. 98–94 amended subsec. (d) generally, substituting “a stipend at the rate of $579 per month” for “a stipend at the rate in effect under paragraph (1)(B) of section 751(g) of the Public Health Service Act (42 U.S.C. 294t(g)) for students in the National Health Service Corps Scholarship program” and inserting provision relating to an annual increase in the rate by the Secretary of Defense effective on July 1 of each year.
 
@@ -135,7 +135,7 @@ Subsec. (c). Pub. L. 101–189, § 725(b)(3), substituted “pursuing a course
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title V, § 538(d), Oct. 17, 2006, 120 Stat. 2210, provided that:
+Pub. L. 109–364, div. A, title V, § 538(d), Oct. 17, 2006, 120 Stat. 2210, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 2127 of this title] shall take effect on October 1, 2006.
 
@@ -143,23 +143,23 @@ Pub. L. 109–364, div. A, title V, § 538(d), Oct. 17, 2006, 120 Stat. 2210, 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c)(22), Feb. 10, 1996, 110 Stat. 499, provided that the amendment made by that section is effective on the effective date specified in section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Pub. L. 104–106, div. A, title XV, § 1501(c)(22), Feb. 10, 1996, 110 Stat. 499, provided that the amendment made by that section is effective on the effective date specified in section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title IX, § 935(b), Sept. 24, 1983, 97 Stat. 652, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, § 935(b), Sept. 24, 1983, 97 Stat. 652, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1983.”
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–107, title VIII, § 804(c), Nov. 9, 1979, 93 Stat. 812, provided that: “The amendments made by this section [amending this section and section 313 of Title 37, Pay and Allowances of the Uniformed Services] shall take effect on October 1, 1979.”
+Pub. L. 96–107, title VIII, § 804(c), Nov. 9, 1979, 93 Stat. 812, provided that: “The amendments made by this section [amending this section and section 313 of Title 37, Pay and Allowances of the Uniformed Services] shall take effect on October 1, 1979.”
 
 **Members of Reserve Components; Specialized Training Assistance in the Health Professions**
 
-Pub. L. 99–145, title VI, § 672(a)–(h), (j), Nov. 8, 1985, 99 Stat. 663, 664, effective Oct. 1, 1985, related to establishment and maintenance of program to provide financial assistance to persons engaged in specialized training in health professions who agree to incur Selective Reserve obligation of 3 years for each year for which financial assistance is provided, prior to repeal by Pub. L. 100–180, div. A, title VII, § 711(c)(1), (e)(1), Dec. 4, 1987, 101 Stat. 1111, effective Dec. 4, 1987, subject to a savings provision, see below.
+Pub. L. 99–145, title VI, § 672(a)–(h), (j), Nov. 8, 1985, 99 Stat. 663, 664, effective Oct. 1, 1985, related to establishment and maintenance of program to provide financial assistance to persons engaged in specialized training in health professions who agree to incur Selective Reserve obligation of 3 years for each year for which financial assistance is provided, prior to repeal by Pub. L. 100–180, div. A, title VII, § 711(c)(1), (e)(1), Dec. 4, 1987, 101 Stat. 1111, effective Dec. 4, 1987, subject to a savings provision, see below.
 
-Pub. L. 100–180, div. A, title VII, § 711(c)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “The repeal of section 672 of the Department of Defense Authorization Act, 1986 [section 672 of Pub. L. 99–145, see above], by paragraph (1) does not affect an agreement entered into under that section before such repeal, and the provisions of such section as in effect before such repeal shall continue to apply with respect to such agreement.”
+Pub. L. 100–180, div. A, title VII, § 711(c)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “The repeal of section 672 of the Department of Defense Authorization Act, 1986 [section 672 of Pub. L. 99–145, see above], by paragraph (1) does not affect an agreement entered into under that section before such repeal, and the provisions of such section as in effect before such repeal shall continue to apply with respect to such agreement.”
 
-### § 2122. Eligibility for participation
+### § 2122. Eligibility for participation
 
 **(a)** To be eligible for participation as a member of the program, a person must be a citizen of the United States and must—
 
@@ -181,7 +181,7 @@ Pub. L. 100–180, div. A, title VII, § 711(c)(2), Dec. 4, 1987, 101 Stat. 11
 
 **(b)** The Secretary of Defense may require, as part of the agreement under subsection (a)(2), that a person must agree to accept, if offered, residency training in a health profession skill which has been designated by the Secretary as a critically needed wartime skill.
 
-(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 100–180, div. A, title VII, § 712(a), Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, § 725(c), Nov. 29, 1989, 103 Stat. 1479.)
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 100–180, div. A, title VII, § 712(a), Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, § 725(c), Nov. 29, 1989, 103 Stat. 1479.)
 
 **Editorial Notes**
 
@@ -191,7 +191,7 @@ Pub. L. 100–180, div. A, title VII, § 711(c)(2), Dec. 4, 1987, 101 Stat. 11
 
 1987—Pub. L. 100–180 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 2123. Members of the program: active duty obligation; failure to complete training; release from program
+### § 2123. Members of the program: active duty obligation; failure to complete training; release from program
 
 **(a)** A member of the program incurs an active duty obligation. The amount of his obligation shall be determined under regulations prescribed by the Secretary of Defense, but those regulations may not provide for a period of obligation of less than one year for each year of participation in the program.
 
@@ -215,7 +215,7 @@ Pub. L. 100–180, div. A, title VII, § 711(c)(2), Dec. 4, 1987, 101 Stat. 11
 
 **(3)** The Secretary of Defense shall prescribe regulations describing the manner in which an alternative obligation may be given under this subsection.
 
-(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, § 511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, § 711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, § 401(b), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, § 741(a), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 109–163, div. A, title VI, § 687(c)(5), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(E), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, § 511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, § 711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, § 401(b), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, § 741(a), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 109–163, div. A, title VI, § 687(c)(5), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(E), Dec. 12, 2017, 131 Stat. 1426.)
 
 **Editorial Notes**
 
@@ -249,15 +249,15 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **Transition Provisions**
 
-Pub. L. 104–201, div. A, title VII, § 741(d)(1), Sept. 23, 1996, 110 Stat. 2600, provided that: “In the case of any member of the Armed Forces Health Professions Scholarship and Financial Assistance program who, as of October 1, 1996, is serving an active duty obligation under the program or is incurring an active duty obligation as a participant in the program, and who is subsequently relieved of the active duty obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (a) [amending this section] may be used by the Secretary of the military department concerned with the agreement of the member.”
+Pub. L. 104–201, div. A, title VII, § 741(d)(1), Sept. 23, 1996, 110 Stat. 2600, provided that: “In the case of any member of the Armed Forces Health Professions Scholarship and Financial Assistance program who, as of October 1, 1996, is serving an active duty obligation under the program or is incurring an active duty obligation as a participant in the program, and who is subsequently relieved of the active duty obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (a) [amending this section] may be used by the Secretary of the military department concerned with the agreement of the member.”
 
-### § 2124. Members of the program: numbers appointed
+### § 2124. Members of the program: numbers appointed
 
 **(a) Authorized Number of Members of the Program.—** The number of persons who may be designated as members of the program for training in each health profession shall be as prescribed by the Secretary of Defense, except that the total number of persons so designated may not, at any time, exceed 6,300.
 
 **(b) Mental Health Professionals.—** Of the number of persons designated as members of the program at any time, 300 may be members of the program described in section 2121(a)(1)(B) of this title.
 
-(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 99–145, title VI, § 672(i), Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title VII, §§ 711(a)(2), 712(b)(1), Dec. 4, 1987, 101 Stat. 1108, 1112; Pub. L. 101–189, div. A, title VII, § 725(g), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 102–190, div. A, title VII, § 717, Dec. 5, 1991, 105 Stat. 1404; Pub. L. 111–84, div. A, title V, § 524(b), Oct. 28, 2009, 123 Stat. 2285.)
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 99–145, title VI, § 672(i), Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title VII, §§ 711(a)(2), 712(b)(1), Dec. 4, 1987, 101 Stat. 1108, 1112; Pub. L. 101–189, div. A, title VII, § 725(g), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 102–190, div. A, title VII, § 717, Dec. 5, 1991, 105 Stat. 1404; Pub. L. 111–84, div. A, title V, § 524(b), Oct. 28, 2009, 123 Stat. 2285.)
 
 **Editorial Notes**
 
@@ -277,9 +277,9 @@ Pub. L. 104–201, div. A, title VII, § 741(d)(1), Sept. 23, 1996, 110 Stat. 
 
 1989—Par. (2). Pub. L. 101–189 inserted “after September 30, 1991,” after “(2)”.
 
-1987—Pub. L. 100–180, § 712(b)(1), substituted “except that—” and pars. (1) and (2) for “except that the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000.”
+1987—Pub. L. 100–180, § 712(b)(1), substituted “except that—” and pars. (1) and (2) for “except that the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000.”
 
-Pub. L. 100–180, § 711(a)(2), substituted “subchapter” for “chapter”.
+Pub. L. 100–180, § 711(a)(2), substituted “subchapter” for “chapter”.
 
 1985—Pub. L. 99–145 substituted “6,000” for “5,000”.
 
@@ -287,23 +287,23 @@ Pub. L. 100–180, § 711(a)(2), substituted “subchapter” for “chapter�
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title VII, § 712(b)(2), Dec. 4, 1987, 101 Stat. 1112, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 1989.”
+Pub. L. 100–180, div. A, title VII, § 712(b)(2), Dec. 4, 1987, 101 Stat. 1112, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 1989.”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title VI, § 672(j), Nov. 8, 1985, 99 Stat. 664, which provided that amendment made by that section was to take effect on Oct. 1, 1985, was repealed by Pub. L. 100–180, § 711(c)(1), (e)(1), eff. Dec. 4, 1987.
+Pub. L. 99–145, title VI, § 672(j), Nov. 8, 1985, 99 Stat. 664, which provided that amendment made by that section was to take effect on Oct. 1, 1985, was repealed by Pub. L. 100–180, § 711(c)(1), (e)(1), eff. Dec. 4, 1987.
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 99–145, title VI, § 672(i), Nov. 8, 1985, 99 Stat. 664, cited as a credit to this section, was repealed by Pub. L. 100–180, § 711(c)(1), (e)(1), eff. Dec. 4, 1987.
+The directory language of, but not the amendment made by, Pub. L. 99–145, title VI, § 672(i), Nov. 8, 1985, 99 Stat. 664, cited as a credit to this section, was repealed by Pub. L. 100–180, § 711(c)(1), (e)(1), eff. Dec. 4, 1987.
 
-### § 2125. Members of the program: exclusion from authorized strengths
+### § 2125. Members of the program: exclusion from authorized strengths
 
 Notwithstanding any other provision of law, members of the program shall not be counted against any prescribed military strengths.
 
-(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718.)
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718.)
 
-### § 2126. Members of the program: service credit
+### § 2126. Members of the program: service credit
 
 **(a) Service Not Creditable.—** Except as provided in subsection (b), service performed while a member of the program shall not be counted—
 
@@ -331,25 +331,25 @@ Notwithstanding any other provision of law, members of the program shall not be 
 
 **(6)** A member is not entitled to any retroactive award of, or increase in, pay or allowances under title 37 by reason of an award of service credit under paragraph (1).
 
-(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, § 501(22), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 104–201, div. A, title V, § 543(a), Sept. 23, 1996, 110 Stat. 2521; Pub. L. 106–65, div. A, title V, § 544, Oct. 5, 1999, 113 Stat. 608.)
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, § 501(22), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 104–201, div. A, title V, § 543(a), Sept. 23, 1996, 110 Stat. 2521; Pub. L. 106–65, div. A, title V, § 544, Oct. 5, 1999, 113 Stat. 608.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1999—Subsec. (b)(2). Pub. L. 106–65, § 544(1), added par. (2) and struck out former par. (2) which read as follows: “Service credited under paragraph (1) counts only for the following purposes:
+1999—Subsec. (b)(2). Pub. L. 106–65, § 544(1), added par. (2) and struck out former par. (2) which read as follows: “Service credited under paragraph (1) counts only for the following purposes:
 
 “(A) Award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
 
 “(B) Computation of years of service creditable under section 205 of title 37.”
 
-Subsec. (b)(3). Pub. L. 106–65, § 544(1), added par. (3) and struck out former par. (3) which read as follows: “For purposes of paragraph (2)(A), a member may be credited in accordance with paragraph (1) with not more than 50 points for each year of participation in a course of study that the member satisfactorily completes as a member of the program.”
+Subsec. (b)(3). Pub. L. 106–65, § 544(1), added par. (3) and struck out former par. (3) which read as follows: “For purposes of paragraph (2)(A), a member may be credited in accordance with paragraph (1) with not more than 50 points for each year of participation in a course of study that the member satisfactorily completes as a member of the program.”
 
-Subsec. (b)(5), (6). Pub. L. 106–65, § 544(2), (3), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 106–65, § 544(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
 1996—Pub. L. 104–201 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), service performed” for “Service performed”, and added subsec. (b).
 
-1980—Cl. (2). Pub. L. 96–513 struck out “, other than subsection (a)(7) and (8),” after “section 205”.
+1980—Cl. (2). Pub. L. 96–513 struck out “, other than subsection (a)(7) and (8),” after “section 205”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -357,7 +357,7 @@ Subsec. (b)(5), (6). Pub. L. 106–65, § 544(2), (3), added par. (5) and rede
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-### § 2127. Scholarships and financial assistance: payments
+### § 2127. Scholarships and financial assistance: payments
 
 **(a)** The Secretary of Defense may provide for the payment of all educational expenses incurred by a member of the program, including tuition, fees, books, and laboratory expenses. Such payments, however, shall be limited to those educational expenses normally incurred by students at the institution and in the health profession concerned who are not members of the program.
 
@@ -369,7 +369,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 **(e)** A person participating as a member of the program in specialized training shall be paid an annual grant in an amount not to exceed $45,000 in addition to the stipend under section 2121(d) of this title. The maximum amount of the grant shall be increased annually by the Secretary of Defense, effective July 1 of each year, in the same manner as provided for stipends.
 
-(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, § 511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–258, § 3(b)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, § 1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 100–180, div. A, title VII, § 711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, § 725(d)(1), (2), Nov. 29, 1989, 103 Stat. 1479; Pub. L. 109–364, div. A, title V, § 538(b), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–84, div. A, title X, § 1073(a)(19), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, § 511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–258, § 3(b)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, § 1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 100–180, div. A, title VII, § 711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, § 725(d)(1), (2), Nov. 29, 1989, 103 Stat. 1479; Pub. L. 109–364, div. A, title V, § 538(b), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–84, div. A, title X, § 1073(a)(19), Oct. 28, 2009, 123 Stat. 2473.)
 
 **Editorial Notes**
 
@@ -379,9 +379,9 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 2006—Subsec. (e). Pub. L. 109–364 substituted “in an amount not to exceed $45,000” for “$15,000” and “The maximum amount” for “The amount”.
 
-1989—Pub. L. 101–189, § 725(d)(2), substituted “Scholarships and financial assistance” for “Contracts for scholarships” in section catchline.
+1989—Pub. L. 101–189, § 725(d)(2), substituted “Scholarships and financial assistance” for “Contracts for scholarships” in section catchline.
 
-Subsec. (e). Pub. L. 101–189, § 725(d)(1), added subsec. (e).
+Subsec. (e). Pub. L. 101–189, § 725(d)(1), added subsec. (e).
 
 1987—Subsecs. (b), (d). Pub. L. 100–180 substituted “subchapter” for “chapter”.
 
@@ -403,11 +403,11 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Reports on Implementation and on Success of Financial Assistance Program**
 
-Pub. L. 101–189, div. A, title VII, § 725(e), Nov. 29, 1989, 103 Stat. 1479, directed Secretary of Defense, not later than Mar. 1, 1990, to submit to Congress a report describing the manner in which the new authority provided by such section 725 (amending 10 U.S.C. 2120 to 2122, 2124, and 2127) was implemented.
+Pub. L. 101–189, div. A, title VII, § 725(e), Nov. 29, 1989, 103 Stat. 1479, directed Secretary of Defense, not later than Mar. 1, 1990, to submit to Congress a report describing the manner in which the new authority provided by such section 725 (amending 10 U.S.C. 2120 to 2122, 2124, and 2127) was implemented.
 
-Pub. L. 101–189, div. A, title VII, § 725(f), Nov. 29, 1989, 103 Stat. 1479, directed Secretary of Defense, not later than Mar. 1, 1991, to submit to Congress a report evaluating the success of the financial assistance program established by such section 725 and describing the number of participants in the program receiving specialized training payments under 10 U.S.C. 2127(e) and the projected number of officers to be gained, by specialty, as a result of the program for each military department.
+Pub. L. 101–189, div. A, title VII, § 725(f), Nov. 29, 1989, 103 Stat. 1479, directed Secretary of Defense, not later than Mar. 1, 1991, to submit to Congress a report evaluating the success of the financial assistance program established by such section 725 and describing the number of participants in the program receiving specialized training payments under 10 U.S.C. 2127(e) and the projected number of officers to be gained, by specialty, as a result of the program for each military department.
 
-### § 2128. Accession bonus for members of the program
+### § 2128. Accession bonus for members of the program
 
 **(a) Availability of Bonus.—** The Secretary of Defense may offer a person who enters into an agreement under section 2122(a)(2) of this title an accession bonus of not more than $100,000 as part of the agreement.
 
@@ -415,7 +415,7 @@ Pub. L. 101–189, div. A, title VII, § 725(f), Nov. 29, 1989, 103 Stat. 1479
 
 **(c) Repayment.—** A person who receives an accession bonus under this section, but fails to comply with the agreement under section 2122(a)(2) of this title or to commence or complete the active duty obligation imposed by section 2123 of this title, shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(Added Pub. L. 110–181, div. A, title VI, § 623(a), Jan. 28, 2008, 122 Stat. 152; amended Pub. L. 115–91, div. A, title VI, § 618(a)(1)(F), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 118–159, div. A, title VI, § 612, Dec. 23, 2024, 138 Stat. 1933.)
+(Added Pub. L. 110–181, div. A, title VI, § 623(a), Jan. 28, 2008, 122 Stat. 152; amended Pub. L. 115–91, div. A, title VI, § 618(a)(1)(F), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 118–159, div. A, title VI, § 612, Dec. 23, 2024, 138 Stat. 1933.)
 
 **Editorial Notes**
 
@@ -433,7 +433,7 @@ Prior sections 2128 to 2130 were renumbered sections 16201 to 16203 of this titl
 
 **Effective Date**
 
-Pub. L. 110–181, div. A, title VI, § 623(c), Jan. 28, 2008, 122 Stat. 152, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to agreements entered into under section 2122(a)(2) of title 10, United States Code, on or after the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title VI, § 623(c), Jan. 28, 2008, 122 Stat. 152, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to agreements entered into under section 2122(a)(2) of title 10, United States Code, on or after the date of the enactment of this Act [Jan. 28, 2008].”
 
 ## SUBCHAPTER II—NURSE OFFICER CANDIDATE ACCESSION PROGRAM
 
@@ -441,15 +441,15 @@ Pub. L. 110–181, div. A, title VI, § 623(c), Jan. 28, 2008, 122 Stat. 152, 
 
 **Prior Provisions**
 
-A prior subchapter II heading and analysis consisting of items 2128 to 2130 was repealed and sections 2128 to 2130 of this title were renumbered sections 16201 to 16203 of this title, respectively, by Pub. L. 103–337, div. A, title XVI, § 1663(c)(2)–(4)(A), (7)(B), Oct. 5, 1994, 108 Stat. 3007, 3008.
+A prior subchapter II heading and analysis consisting of items 2128 to 2130 was repealed and sections 2128 to 2130 of this title were renumbered sections 16201 to 16203 of this title, respectively, by Pub. L. 103–337, div. A, title XVI, § 1663(c)(2)–(4)(A), (7)(B), Oct. 5, 1994, 108 Stat. 3007, 3008.
 
 **Amendments**
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1663(c)(7)(C), Oct. 5, 1994, 108 Stat. 3008, redesignated subchapter III of this chapter as this subchapter.
+1994—Pub. L. 103–337, div. A, title XVI, § 1663(c)(7)(C), Oct. 5, 1994, 108 Stat. 3008, redesignated subchapter III of this chapter as this subchapter.
 
-1991—Pub. L. 101–189, div. A, title VII, § 707(a), Nov. 29, 1989, 103 Stat. 1474, added subchapter heading and item 2130a.
+1991—Pub. L. 101–189, div. A, title VII, § 707(a), Nov. 29, 1989, 103 Stat. 1474, added subchapter heading and item 2130a.
 
-### § 2130a. Financial assistance: nurse officer candidates
+### § 2130a. Financial assistance: nurse officer candidates
 
 **(a) Bonus Authorized.—**
 
@@ -483,7 +483,7 @@ A prior subchapter II heading and analysis consisting of items 2128 to 2130 was 
 
 **(e) Regulations.—** The Secretaries concerned shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–189, div. A, title VII, § 707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, § 613(c), title XIV, § 1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, § 612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, § 612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, § 611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, § 612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, § 612(a), title XV, § 1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, § 612(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, § 612(a), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, § 612(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, § 612(a), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, § 1 [[div. A], title VI, § 622(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title V, § 538, title VI, § 612(a), Dec. 28, 2001, 115 Stat. 1107, 1135; Pub. L. 107–314, div. A, title VI, §§ 612(a), 615(h), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, § 612(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, § 612(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§ 622(a), 687(c)(6), Jan. 6, 2006, 119 Stat. 3294, 3334; Pub. L. 109–364, div. A, title VI, § 612(a), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, § 612(a), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, [div. A], title VI, §§ 612(a), 616(a), (b), Oct. 14, 2008, 122 Stat. 4484, 4486; Pub. L. 111–84, div. A, title VI, § 612(a)(1), title X, § 1073(c)(3), Oct. 28, 2009, 123 Stat. 2353, 2474; Pub. L. 111–383, div. A, title VI, § 612(a)(1), title X, § 1075(b)(28), Jan. 7, 2011, 124 Stat. 4236, 4370; Pub. L. 112–81, div. A, title VI, § 612(a)(1), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, § 612(a)(1), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, § 612(a)(1), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, § 612(a)(1), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, § 612(a)(1), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, § 612(a)(1), Dec. 23, 2016, 130 Stat. 2157; Pub. L. 115–91, div. A, title VI, §§ 612(a)(1), 618(a)(1)(G), Dec. 12, 2017, 131 Stat. 1421, 1426; Pub. L. 115–232, div. A, title VI, § 611(b)(1), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, § 611(b)(1), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, § 611(b)(1), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, § 611(b)(1), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, § 601(b)(1), Dec. 23, 2022, 136 Stat. 2619; Pub. L. 118–31, div. A, title V, § 544, title VI, § 613(b)(1), Dec. 22, 2023, 137 Stat. 265, 291; Pub. L. 118–159, div. A, title VI, § 611(b)(1), Dec. 23, 2024, 138 Stat. 1932; Pub. L. 119–60, div. A, title VI, § 611(b)(1), Dec. 18, 2025, 139 Stat. 906.)
+(Added Pub. L. 101–189, div. A, title VII, § 707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, § 613(c), title XIV, § 1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, § 612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, § 612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, § 611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, § 612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, § 612(a), title XV, § 1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, § 612(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, § 612(a), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, § 612(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, § 612(a), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, § 1 [[div. A], title VI, § 622(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title V, § 538, title VI, § 612(a), Dec. 28, 2001, 115 Stat. 1107, 1135; Pub. L. 107–314, div. A, title VI, §§ 612(a), 615(h), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, § 612(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, § 612(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§ 622(a), 687(c)(6), Jan. 6, 2006, 119 Stat. 3294, 3334; Pub. L. 109–364, div. A, title VI, § 612(a), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, § 612(a), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, [div. A], title VI, §§ 612(a), 616(a), (b), Oct. 14, 2008, 122 Stat. 4484, 4486; Pub. L. 111–84, div. A, title VI, § 612(a)(1), title X, § 1073(c)(3), Oct. 28, 2009, 123 Stat. 2353, 2474; Pub. L. 111–383, div. A, title VI, § 612(a)(1), title X, § 1075(b)(28), Jan. 7, 2011, 124 Stat. 4236, 4370; Pub. L. 112–81, div. A, title VI, § 612(a)(1), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, § 612(a)(1), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, § 612(a)(1), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, § 612(a)(1), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, § 612(a)(1), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, § 612(a)(1), Dec. 23, 2016, 130 Stat. 2157; Pub. L. 115–91, div. A, title VI, §§ 612(a)(1), 618(a)(1)(G), Dec. 12, 2017, 131 Stat. 1421, 1426; Pub. L. 115–232, div. A, title VI, § 611(b)(1), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, § 611(b)(1), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, § 611(b)(1), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, § 611(b)(1), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, § 601(b)(1), Dec. 23, 2022, 136 Stat. 2619; Pub. L. 118–31, div. A, title V, § 544, title VI, § 613(b)(1), Dec. 22, 2023, 137 Stat. 265, 291; Pub. L. 118–159, div. A, title VI, § 611(b)(1), Dec. 23, 2024, 138 Stat. 1932; Pub. L. 119–60, div. A, title VI, § 611(b)(1), Dec. 18, 2025, 139 Stat. 906.)
 
 **Editorial Notes**
 
@@ -493,9 +493,9 @@ A prior subchapter II heading and analysis consisting of items 2128 to 2130 was 
 
 2024—Subsec. (a)(1). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
 
-2023—Subsec. (a)(1). Pub. L. 118–31, § 613(b)(1), substituted “December 31, 2024” for “December 31, 2023”.
+2023—Subsec. (a)(1). Pub. L. 118–31, § 613(b)(1), substituted “December 31, 2024” for “December 31, 2023”.
 
-Pub. L. 118–31, § 544, substituted “$40,000” for “$20,000” and “$20,000” for “$10,000”.
+Pub. L. 118–31, § 544, substituted “$40,000” for “$20,000” and “$20,000” for “$10,000”.
 
 2022—Subsec. (a)(1). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
 
@@ -507,9 +507,9 @@ Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020�
 
 2018—Subsec. (a)(1). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
-2017—Subsec. (a)(1). Pub. L. 115–91, § 612(a)(1), substituted “December 31, 2018” for “December 31, 2017”.
+2017—Subsec. (a)(1). Pub. L. 115–91, § 612(a)(1), substituted “December 31, 2018” for “December 31, 2017”.
 
-Subsec. (d). Pub. L. 115–91, § 618(a)(1)(G), inserted “or 373” before “of title 37”.
+Subsec. (d). Pub. L. 115–91, § 618(a)(1)(G), inserted “or 373” before “of title 37”.
 
 2016—Subsec. (a)(1). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
@@ -523,27 +523,27 @@ Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012�
 
 2011—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
-Pub. L. 111–383, § 612(a)(1), substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383, § 612(a)(1), substituted “December 31, 2011” for “December 31, 2010”.
 
-Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(28), substituted “Training Corps program” for “Training Program” in two places.
+Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(28), substituted “Training Corps program” for “Training Program” in two places.
 
-2009—Subsec. (a)(1). Pub. L. 111–84, § 612(a)(1), substituted “December 31, 2010” for “December 31, 2009”.
+2009—Subsec. (a)(1). Pub. L. 111–84, § 612(a)(1), substituted “December 31, 2010” for “December 31, 2009”.
 
-Subsec. (a)(2). Pub. L. 111–84, § 1073(c)(3), made technical amendment to directory language of Pub. L. 110–417, § 616(b). See 2008 Amendment note below.
+Subsec. (a)(2). Pub. L. 111–84, § 1073(c)(3), made technical amendment to directory language of Pub. L. 110–417, § 616(b). See 2008 Amendment note below.
 
-2008—Subsec. (a)(1). Pub. L. 110–417, § 616(a), substituted “$20,000” for “$10,000” and “$10,000” for “$5,000”.
+2008—Subsec. (a)(1). Pub. L. 110–417, § 616(a), substituted “$20,000” for “$10,000” and “$10,000” for “$5,000”.
 
-Pub. L. 110–417, § 612(a), substituted “December 31, 2009” for “December 31, 2008”.
+Pub. L. 110–417, § 612(a), substituted “December 31, 2009” for “December 31, 2008”.
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 
-Subsec. (a)(2). Pub. L. 110–417, § 616(b), as amended by Pub. L. 111–84, § 1073(c)(3), substituted “in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “of not more than $1,000”.
+Subsec. (a)(2). Pub. L. 110–417, § 616(b), as amended by Pub. L. 111–84, § 1073(c)(3), substituted “in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “of not more than $1,000”.
 
 2006—Subsec. (a)(1). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
 
-Pub. L. 109–163, § 622(a), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, § 622(a), substituted “December 31, 2006” for “December 31, 2005”.
 
-Subsec. (d). Pub. L. 109–163, § 687(c)(6), amended heading and text of subsec. (d) generally. Prior to amendment, text related to persons required to refund accession bonuses or stipends in par. (1), treatment of a reimbursement obligation as a debt owed to the United States in par. (2), and the effect of a discharge in bankruptcy in par. (3).
+Subsec. (d). Pub. L. 109–163, § 687(c)(6), amended heading and text of subsec. (d) generally. Prior to amendment, text related to persons required to refund accession bonuses or stipends in par. (1), treatment of a reimbursement obligation as a debt owed to the United States in par. (2), and the effect of a discharge in bankruptcy in par. (3).
 
 2004—Subsec. (a)(1). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
@@ -551,13 +551,13 @@ Subsec. (d). Pub. L. 109–163, § 687(c)(6), amended heading and text of subs
 
 2002—Subsec. (a)(1). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002” and “$10,000” for “$5,000” in first sentence and “$5,000” for “$2,500” in second sentence.
 
-Subsec. (a)(2). Pub. L. 107–314, § 615(h)(2), substituted “$1,000” for “$500”.
+Subsec. (a)(2). Pub. L. 107–314, § 615(h)(2), substituted “$1,000” for “$500”.
 
-2001—Subsec. (a)(1). Pub. L. 107–107, § 612(a), substituted “December 31, 2002” for “December 31, 2001”.
+2001—Subsec. (a)(1). Pub. L. 107–107, § 612(a), substituted “December 31, 2002” for “December 31, 2001”.
 
-Subsec. (a)(2). Pub. L. 107–107, § 538(1), struck out “that does not have a Senior Reserve Officers’ Training Program established under section 2102 of this title” after “civilian educational institution”.
+Subsec. (a)(2). Pub. L. 107–107, § 538(1), struck out “that does not have a Senior Reserve Officers’ Training Program established under section 2102 of this title” after “civilian educational institution”.
 
-Subsec. (b)(1). Pub. L. 107–107, § 538(2), inserted “or that has a Senior Reserve Officers’ Training Program for which the student is ineligible” before semicolon at end.
+Subsec. (b)(1). Pub. L. 107–107, § 538(2), inserted “or that has a Senior Reserve Officers’ Training Program for which the student is ineligible” before semicolon at end.
 
 2000—Subsec. (a)(1). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
@@ -569,9 +569,9 @@ Subsec. (b)(1). Pub. L. 107–107, § 538(2), inserted “or that has a Senior
 
 1996—Subsec. (a)(1). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
 
-Pub. L. 104–106, § 612(a), substituted “September 30, 1997” for “September 30, 1996”.
+Pub. L. 104–106, § 612(a), substituted “September 30, 1997” for “September 30, 1996”.
 
-Subsec. (b)(3). Pub. L. 104–106, § 1501(c)(23), substituted “section 12201” for “section 591”.
+Subsec. (b)(3). Pub. L. 104–106, § 1501(c)(23), substituted “section 12201” for “section 591”.
 
 1994—Subsec. (a)(1). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
@@ -579,25 +579,25 @@ Subsec. (b)(3). Pub. L. 104–106, § 1501(c)(23), substituted “section 1220
 
 1992—Subsec. (a)(1). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
 
-1991—Subsec. (a)(1). Pub. L. 102–190 made amendment identical to that made by Pub. L. 101–510, § 613(c)(1). See 1990 Amendment note below.
+1991—Subsec. (a)(1). Pub. L. 102–190 made amendment identical to that made by Pub. L. 101–510, § 613(c)(1). See 1990 Amendment note below.
 
-1990—Subsec. (a)(1). Pub. L. 101–510, § 1484(d)(1)(A), substituted “November 29, 1989,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
+1990—Subsec. (a)(1). Pub. L. 101–510, § 1484(d)(1)(A), substituted “November 29, 1989,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
 
-Pub. L. 101–510, § 613(c)(1), substituted “September 30, 1992,” for “September 30, 1991,”.
+Pub. L. 101–510, § 613(c)(1), substituted “September 30, 1992,” for “September 30, 1991,”.
 
-Subsecs. (a)(2), (b)(1). Pub. L. 101–510, § 613(c)(2), inserted “by the Secretary selecting the person” after “section 2102 of this title”.
+Subsecs. (a)(2), (b)(1). Pub. L. 101–510, § 613(c)(2), inserted “by the Secretary selecting the person” after “section 2102 of this title”.
 
-Subsec. (d)(3). Pub. L. 101–510, § 1484(d)(1)(B), substituted “November 29, 1989” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
+Subsec. (d)(3). Pub. L. 101–510, § 1484(d)(1)(B), substituted “November 29, 1989” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(3) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(3) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Savings Provision**
 
@@ -605,7 +605,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **Correction of Lapsed Authorities for Payment of Bonuses, Special Pays, and Similar Benefits for Members of the Uniformed Services**
 
-Pub. L. 110–181, div. A, title VI, § 610, Jan. 28, 2008, 122 Stat. 147, provided that:
+Pub. L. 110–181, div. A, title VI, § 610, Jan. 28, 2008, 122 Stat. 147, provided that:
 
 > **“(a) Retroactive Effective Date for Payment Authorities.—** The amendments made by sections 611, 612, 613, and 614 [amending this section and section 16302 of this title and sections 301b, 302d, 302e, 302g, 302h, 302j to 302*l*, 308, 308b, 308c, 308d, 308g to 308i, 309, 312, 312b, 312c, 323, 324, 326, 330, and 402 of Title 37, Pay and Allowances of the Uniformed Services] shall take effect as of December 31, 2007.
 
@@ -629,7 +629,7 @@ In case of amendment by section 615(h) of Pub. L. 107–314 to increase maximum 
 
 **Coverage of Period of Lapsed Authority**
 
-Pub. L. 103–160, div. A, title VI, § 611(d), Nov. 30, 1993, 107 Stat. 1679, provided that:
+Pub. L. 103–160, div. A, title VI, § 611(d), Nov. 30, 1993, 107 Stat. 1679, provided that:
 
 > **“(1)** In the case of a person described in paragraph (2) who executes an agreement described in paragraph (3) during the 90-day period beginning on the date of the enactment of this Act [Nov. 30, 1993], the Secretary concerned may treat the agreement for purposes of the accession bonus, monthly stipend, or special pay authorized under the agreement as having been executed and accepted on the first date on which the person would have qualified for such an agreement had the amendments made by this section [amending this section and sections 302d and 302e of Title 37, Pay and Allowances of the Uniformed Services] taken effect on October 1, 1993.
 
@@ -643,7 +643,7 @@ Pub. L. 103–160, div. A, title VI, § 611(d), Nov. 30, 1993, 107 Stat. 1679,
 
 **Accession Bonuses for Candidates Executing Agreements During 90-Day Period Beginning December 5, 1991**
 
-Pub. L. 102–190, div. A, title VI, § 612(c)(2), Dec. 5, 1991, 105 Stat. 1376, provided that:
+Pub. L. 102–190, div. A, title VI, § 612(c)(2), Dec. 5, 1991, 105 Stat. 1376, provided that:
 
 > **“(A)** In the case of a person described in subparagraph (B) who executes an agreement under section 2130a of such title [10 U.S.C. 2130a] during the 90-day period beginning on the date of the enactment of this Act [Dec. 5, 1991], the Secretary concerned may treat such agreement as having been executed and accepted for purposes of such section on the first date on which the person would have qualified for such an agreement had the amendment made by paragraph (1) [amending this section] taken effect on October 1, 1991.
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 96—GLOBAL CLIMATE CHANGE
 
-## § 6701. Global Climate Change Program
+## § 6701. Global Climate Change Program
 
 **(a) Establishment**
 
@@ -49,7 +49,7 @@ For the purpose of having within the Department of Agriculture a focal point for
 
 **(7)** review all Department budget items relating to climate change issues, including specifically the research budget to be submitted by the Secretary to the Office of Science and Technology Policy and the Office of Management and Budget.
 
-(Pub. L. 101–624, title XXIV, § 2402, Nov. 28, 1990, 104 Stat. 4058.)
+(Pub. L. 101–624, title XXIV, § 2402, Nov. 28, 1990, 104 Stat. 4058.)
 
 **Editorial Notes**
 
@@ -61,9 +61,9 @@ This chapter, referred to in subsecs. (a) and (c)(5), was in the original “thi
 
 **Short Title**
 
-Pub. L. 101–624, title XXIV, § 2401, Nov. 28, 1990, 104 Stat. 4058, provided that: “This title [enacting this chapter and amending sections 1601 and 1602 of Title 16, Conservation] may be cited as the ‘Global Climate Change Prevention Act of 1990’.”
+Pub. L. 101–624, title XXIV, § 2401, Nov. 28, 1990, 104 Stat. 4058, provided that: “This title [enacting this chapter and amending sections 1601 and 1602 of Title 16, Conservation] may be cited as the ‘Global Climate Change Prevention Act of 1990’.”
 
-## § 6702. Study of global climate change, agriculture, and forestry
+## § 6702. Study of global climate change, agriculture, and forestry
 
 **(a) Crops**
 
@@ -99,13 +99,13 @@ Pub. L. 101–624, title XXIV, § 2401, Nov. 28, 1990, 104 Stat. 4058, provide
 
 The Secretary shall submit reports of the studies conducted under subsections (a) and (b) within 3 and 6 years, respectively, after November 28, 1990, to the Committee on Agriculture and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate. In addition, interim reports regarding such studies shall be provided by the Secretary to such Committees annually, with recommendations for actions which may be taken to mitigate the negative effects of global climate change and to adapt to global climate changes and related phenomena.
 
-(Pub. L. 101–624, title XXIV, § 2403, Nov. 28, 1990, 104 Stat. 4059.)
+(Pub. L. 101–624, title XXIV, § 2403, Nov. 28, 1990, 104 Stat. 4059.)
 
-## § 6703. Repealed. Pub. L. 104–127, title VIII, § 868, Apr. 4, 1996, 110 Stat. 1175
+## § 6703. Repealed. Pub. L. 104–127, title VIII, § 868, Apr. 4, 1996, 110 Stat. 1175
 
-Section, Pub. L. 101–624, title XXIV, § 2404, Nov. 28, 1990, 104 Stat. 4060, required Secretary of Agriculture to establish technical advisory committee to provide advice to Secretary concerning major study areas required under this chapter.
+Section, Pub. L. 101–624, title XXIV, § 2404, Nov. 28, 1990, 104 Stat. 4060, required Secretary of Agriculture to establish technical advisory committee to provide advice to Secretary concerning major study areas required under this chapter.
 
-## § 6704. Office of International Forestry
+## § 6704. Office of International Forestry
 
 **(a) Establishment**
 
@@ -127,7 +127,7 @@ The Chief shall appoint a Deputy Chief for International Forestry.
 
 There are authorized to be appropriated for each of fiscal years 1996 through 2018 such sums as are necessary to carry out this section.
 
-(Pub. L. 101–624, title XXIV, § 2405, Nov. 28, 1990, 104 Stat. 4060; Pub. L. 104–127, title III, § 371, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 107–171, title VIII, § 8102, May 13, 2002, 116 Stat. 475; Pub. L. 110–234, title VIII, § 8202, May 22, 2008, 122 Stat. 1290; Pub. L. 110–246, § 4(a), title VIII, § 8202, June 18, 2008, 122 Stat. 1664, 2051; Pub. L. 113–79, title VIII, § 8202, Feb. 7, 2014, 128 Stat. 914.)
+(Pub. L. 101–624, title XXIV, § 2405, Nov. 28, 1990, 104 Stat. 4060; Pub. L. 104–127, title III, § 371, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 107–171, title VIII, § 8102, May 13, 2002, 116 Stat. 475; Pub. L. 110–234, title VIII, § 8202, May 22, 2008, 122 Stat. 1290; Pub. L. 110–246, § 4(a), title VIII, § 8202, June 18, 2008, 122 Stat. 1664, 2051; Pub. L. 113–79, title VIII, § 8202, Feb. 7, 2014, 128 Stat. 914.)
 
 **Editorial Notes**
 
@@ -143,7 +143,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (d). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (d). Pub. L. 110–246, § 8202, substituted “2012” for “2007”.
+2008—Subsec. (d). Pub. L. 110–246, § 8202, substituted “2012” for “2007”.
 
 2002—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -155,13 +155,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 6705. Line item
+## § 6705. Line item
 
 The President’s proposed budget to Congress for the first fiscal year beginning after November 28, 1990, and for each subsequent fiscal year shall specifically identify funds to be spent on Forest Service international cooperation and assistance.
 
-(Pub. L. 101–624, title XXIV, § 2406, Nov. 28, 1990, 104 Stat. 4060.)
+(Pub. L. 101–624, title XXIV, § 2406, Nov. 28, 1990, 104 Stat. 4060.)
 
-## § 6706. Institutes of Tropical Forestry
+## § 6706. Institutes of Tropical Forestry
 
 The Secretary is authorized and directed to establish an Institute of Tropical Forestry in Puerto Rico and an Institute of Pacific Islands Forestry (hereafter in this section referred to as the “Institutes”). The Institutes shall conduct research on forest management and natural resources that shall include—
 
@@ -181,23 +181,23 @@ The Secretary is authorized and directed to establish an Institute of Tropical F
 
 **(8)** the effects of tropical deforestation on biodiversity, global climate, wildlife, soils, and water.
 
-(Pub. L. 101–624, title XXIV, § 2407, Nov. 28, 1990, 104 Stat. 4060.)
+(Pub. L. 101–624, title XXIV, § 2407, Nov. 28, 1990, 104 Stat. 4060.)
 
-## § 6707. Urban forestry demonstration projects
+## § 6707. Urban forestry demonstration projects
 
 The Secretary is authorized to undertake, through the Forest Service’s Northeastern Area State and Private Forestry program, a study and pilot implementation project to demonstrate the benefits of retaining and integrating forests in urban development. The focus of such a study and implementation project should be to protect the environment and associated natural resource values, for current and future generations.
 
-(Pub. L. 101–624, title XXIV, § 2409, Nov. 28, 1990, 104 Stat. 4061.)
+(Pub. L. 101–624, title XXIV, § 2409, Nov. 28, 1990, 104 Stat. 4061.)
 
-## § 6708. Repealed. Pub. L. 115–334, title VIII, § 8301(a), Dec. 20, 2018, 132 Stat. 4840
+## § 6708. Repealed. Pub. L. 115–334, title VIII, § 8301(a), Dec. 20, 2018, 132 Stat. 4840
 
-Section, Pub. L. 101–624, title XXIV, § 2410, Nov. 28, 1990, 104 Stat. 4061, related to biomass energy demonstration projects.
+Section, Pub. L. 101–624, title XXIV, § 2410, Nov. 28, 1990, 104 Stat. 4061, related to biomass energy demonstration projects.
 
-## § 6709. Interagency cooperation to maximize biomass growth
+## § 6709. Interagency cooperation to maximize biomass growth
 
 The Secretary may enter into an agreement with the Secretary of Defense to develop a program to manage forests and land on Department of Defense military installations so as to maximize their potential for biomass growth and sequestering carbon dioxide.
 
-(Pub. L. 101–624, title XXIV, § 2411, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 115–334, title VIII, § 8301(b), Dec. 20, 2018, 132 Stat. 4840.)
+(Pub. L. 101–624, title XXIV, § 2411, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 115–334, title VIII, § 8301(b), Dec. 20, 2018, 132 Stat. 4840.)
 
 **Editorial Notes**
 
@@ -205,11 +205,11 @@ The Secretary may enter into an agreement with the Secretary of Defense to devel
 
 2018—Pub. L. 115–334 substituted “to” for “to—” and “develop a program to manage forests and land on Department of Defense military installations” for “(2) develop a program to manage such forests and lands” and struck out par. (1) which read as follows: “conduct a study of reforestation and improved management of Department of Defense military installations and lands; and”.
 
-## § 6710. Authorization of appropriations
+## § 6710. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1997, to carry out this chapter.
 
-(Pub. L. 101–624, title XXIV, § 2412, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 104–127, title VIII, § 843, Apr. 4, 1996, 110 Stat. 1170.)
+(Pub. L. 101–624, title XXIV, § 2412, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 104–127, title VIII, § 843, Apr. 4, 1996, 110 Stat. 1170.)
 
 **Editorial Notes**
 
@@ -221,7 +221,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 1996—Pub. L. 104–127 substituted “1997” for “1996”.
 
-## § 6711. Carbon cycle research
+## § 6711. Carbon cycle research
 
 **(a) In general**
 
@@ -333,7 +333,7 @@ Not more than 3 percent of the funds made available for this section may be used
 
 There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2007 through 2012.
 
-(Pub. L. 106–224, title II, § 221, June 20, 2000, 114 Stat. 407; Pub. L. 107–171, title VII, § 7223, title IX, § 9009, May 13, 2002, 116 Stat. 454, 483; Pub. L. 110–234, title VII, § 7407, May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, § 4(a), title VII, § 7407, June 18, 2008, 122 Stat. 1664, 2013.)
+(Pub. L. 106–224, title II, § 221, June 20, 2000, 114 Stat. 407; Pub. L. 107–171, title VII, § 7223, title IX, § 9009, May 13, 2002, 116 Stat. 454, 483; Pub. L. 110–234, title VII, § 7407, May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, § 4(a), title VII, § 7407, June 18, 2008, 122 Stat. 1664, 2013.)
 
 **Editorial Notes**
 
@@ -345,17 +345,17 @@ Section was enacted as part of the Agricultural Risk Protection Act of 2000, and
 
 **Amendments**
 
-2008—Subsec. (g). Pub. L. 110–246, § 7407, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “There are authorized to be appropriated for fiscal years 2002 through 2007 such sums as may be necessary to carry out this section.”
+2008—Subsec. (g). Pub. L. 110–246, § 7407, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “There are authorized to be appropriated for fiscal years 2002 through 2007 such sums as may be necessary to carry out this section.”
 
-2002—Subsec. (a). Pub. L. 107–171, § 7223(1), substituted “To the extent funds are made available for this purpose, the Secretary shall provide” for “Of the amount made available under section 261(a)(2), the Secretary shall use $15,000,000 to provide”.
+2002—Subsec. (a). Pub. L. 107–171, § 7223(1), substituted “To the extent funds are made available for this purpose, the Secretary shall provide” for “Of the amount made available under section 261(a)(2), the Secretary shall use $15,000,000 to provide”.
 
-Subsecs. (d), (e). Pub. L. 107–171, § 9009, added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+Subsecs. (d), (e). Pub. L. 107–171, § 9009, added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
-Subsec. (f). Pub. L. 107–171, § 9009(1), redesignated subsec. (d) as (f).
+Subsec. (f). Pub. L. 107–171, § 9009(1), redesignated subsec. (d) as (f).
 
-Pub. L. 107–171, § 7223(2), substituted “for this section” for “under subsection (a) of this section”.
+Pub. L. 107–171, § 7223(2), substituted “for this section” for “under subsection (a) of this section”.
 
-Subsec. (g). Pub. L. 107–171, § 7223(3), added subsec. (g).
+Subsec. (g). Pub. L. 107–171, § 7223(3), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -363,7 +363,7 @@ Subsec. (g). Pub. L. 107–171, § 7223(3), added subsec. (g).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 6712. Greenhouse Gas Technical Assistance Provider and Third-Party Verifier Program
+## § 6712. Greenhouse Gas Technical Assistance Provider and Third-Party Verifier Program
 
 **(a) Definitions** In this section:
 
@@ -725,7 +725,7 @@ The members of the Advisory Council shall serve without compensation.
 
 The Advisory Council shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 except that section 14(a)(2) of that Act shall not apply.
 
@@ -819,15 +819,15 @@ None of the funds of the Commodity Credit Corporation shall be used to carry out
 
 Nothing in this section shall be construed to provide authority to the Secretary for the establishment or operation of a Federal market through which agriculture or forestry credits may be bought or sold.
 
-(Pub. L. 117–328, div. HH, title I, § 201, Dec. 29, 2022, 136 Stat. 5971.)
+(Pub. L. 117–328, div. HH, title I, § 201, Dec. 29, 2022, 136 Stat. 5971.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890, referred to in subsec. (f)(2)(C)(vi), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (f)(2)(C)(vi), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Section 14 of the Act was repealed and restated as section 1013 of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (f)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Section 14 of the Act was repealed and restated as section 1013 of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 Section 1003 of the American Rescue Plan Act of 2021, referred to in subsec. (i)(2)(A), is section 1003 of Pub. L. 117–2, title I, Mar. 11, 2021, 135 Stat. 12, which is not classified to the Code.
 

@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 361 “CONTRACT ADMINISTRATION”, consisting of reserved section 4601, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1861(a), Jan. 1, 2021, 134 Stat. 4277.
+A prior chapter 361 “CONTRACT ADMINISTRATION”, consisting of reserved section 4601, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1861(a), Jan. 1, 2021, 134 Stat. 4277.
 
-Another prior chapter 361, consisting of sections 3811 to 3820 relating to separation for various reasons, some of which had previously been repealed, was repealed in its entirety by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(2), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
+Another prior chapter 361, consisting of sections 3811 to 3820 relating to separation for various reasons, some of which had previously been repealed, was repealed in its entirety by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(2), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 802(a), Dec. 18, 2025, 139 Stat. 940, added item 4604. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 802(a), Dec. 18, 2025, 139 Stat. 940, added item 4604. Amendment was made pursuant to operation of section 102 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Promulgate Guidance Relating to Certain Department of Defense Contracts**
 
-Pub. L. 118–159, div. A, title VIII, § 867, Dec. 23, 2024, 138 Stat. 2006, provided that: “Not later than January 31, 2025, the Secretary of Defense shall issue guidance on the governance and oversight of the contracts of the Department of Defense that support or enable sensitive activities.”
+Pub. L. 118–159, div. A, title VIII, § 867, Dec. 23, 2024, 138 Stat. 2006, provided that: “Not later than January 31, 2025, the Secretary of Defense shall issue guidance on the governance and oversight of the contracts of the Department of Defense that support or enable sensitive activities.”
 
 **Modification of Contracts and Options To Provide Economic Price Adjustments**
 
-Pub. L. 118–31, div. A, title VIII, § 826, Dec. 22, 2023, 137 Stat. 335, provided that:
+Pub. L. 118–31, div. A, title VIII, § 826, Dec. 22, 2023, 137 Stat. 335, provided that:
 
 > **“(a) Authority.—** Amounts authorized to be appropriated by this Act [see Tables for classification] for the Department of Defense may be used to modify the terms and conditions of a contract or option to provide an economic price adjustment consistent with sections 16.203–1 and 16.203–2 of the Federal Acquisition Regulation during the relevant period of performance for that contract or option and as specified in section 16.203–3 of the Federal Acquisition Regulation, to the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes of this section.
 
@@ -43,7 +43,7 @@ Pub. L. 118–31, div. A, title VIII, § 826, Dec. 22, 2023, 137 Stat. 335, pr
 
 **Modifications to Earned Value Management System Requirements**
 
-Pub. L. 118–31, div. A, title VIII, § 827, Dec. 22, 2023, 137 Stat. 335, as amended by Pub. L. 118–159, div. A, title VIII, § 820, Dec. 23, 2024, 138 Stat. 1982, provided that:
+Pub. L. 118–31, div. A, title VIII, § 827, Dec. 22, 2023, 137 Stat. 335, as amended by Pub. L. 118–159, div. A, title VIII, § 820, Dec. 23, 2024, 138 Stat. 1982, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 [Dec. 23, 2024], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to—
 
@@ -57,7 +57,7 @@ Pub. L. 118–31, div. A, title VIII, § 827, Dec. 22, 2023, 137 Stat. 335, as
 
 **Contract Closeout Authority**
 
-Pub. L. 114–328, div. A, title VIII, § 836, Dec. 23, 2016, 130 Stat. 2285, as amended by Pub. L. 115–91, div. A, title VIII, § 824, Dec. 12, 2017, 131 Stat. 1465; Pub. L. 116–283, div. A, title VIII, § 820, Jan. 1, 2021, 134 Stat. 3752, provided that:
+Pub. L. 114–328, div. A, title VIII, § 836, Dec. 23, 2016, 130 Stat. 2285, as amended by Pub. L. 115–91, div. A, title VIII, § 824, Dec. 12, 2017, 131 Stat. 1465; Pub. L. 116–283, div. A, title VIII, § 820, Jan. 1, 2021, 134 Stat. 3752, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may close out a contract or group of contracts as described in subsection (b) through the issuance of one or more modifications to such contracts without completing a reconciliation audit or other corrective action. To accomplish closeout of such contracts—
 
@@ -97,11 +97,11 @@ Pub. L. 114–328, div. A, title VIII, § 836, Dec. 23, 2016, 130 Stat. 2285, 
 
 **Consideration of Potential Program Cost Increases and Schedule Delays Resulting From Oversight of Defense Acquisition Programs**
 
-Pub. L. 114–92, div. A, title VIII, § 881, Nov. 25, 2015, 129 Stat. 942, as amended by Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(iv), Aug. 13, 2018, 132 Stat. 1986, which required the Director of Operational Test and Evaluation, and the heads of other defense audit, testing, acquisition, and management agencies to ensure that policies, procedures, and activities implemented by their offices and agencies in connection with defense acquisition program oversight did not result in unnecessary increases in program costs or delays in schedule, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(D), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 114–92, div. A, title VIII, § 881, Nov. 25, 2015, 129 Stat. 942, as amended by Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(iv), Aug. 13, 2018, 132 Stat. 1986, which required the Director of Operational Test and Evaluation, and the heads of other defense audit, testing, acquisition, and management agencies to ensure that policies, procedures, and activities implemented by their offices and agencies in connection with defense acquisition program oversight did not result in unnecessary increases in program costs or delays in schedule, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(D), Dec. 18, 2025, 139 Stat. 949.
 
 **Motor Carrier Fuel Surcharges**
 
-Pub. L. 110–417, [div. A], title VIII, § 884, Oct. 14, 2008, 122 Stat. 4560, provided that:
+Pub. L. 110–417, [div. A], title VIII, § 884, Oct. 14, 2008, 122 Stat. 4560, provided that:
 
 > **“(a) Pass Through to Cost Bearer.—** The Secretary of Defense shall take appropriate actions to ensure that, to the maximum extent practicable, in all carriage contracts in which a fuel-related adjustment is provided for, any fuel-related adjustment is passed through to the person who bears the cost of the fuel that the adjustment relates to.
 
@@ -111,11 +111,11 @@ Pub. L. 110–417, [div. A], title VIII, § 884, Oct. 14, 2008, 122 Stat. 4560
 
 > **“(d) Report.—** Not later than 270 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary shall submit to the committees on Armed Services of the Senate and the House of Representatives a report on the actions taken in accordance with the requirements of subsection (a).”
 
-[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.]
+[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.]
 
 **Linking of Award and Incentive Fees to Acquisition Outcomes**
 
-Pub. L. 111–84, div. A, title VIII, § 823, Oct. 28, 2009, 123 Stat. 2412, as amended by Pub. L. 111–383, div. A, title VIII, § 834(a)–(c), Jan. 7, 2011, 124 Stat. 4278, 4279, provided that:
+Pub. L. 111–84, div. A, title VIII, § 823, Oct. 28, 2009, 123 Stat. 2412, as amended by Pub. L. 111–383, div. A, title VIII, § 834(a)–(c), Jan. 7, 2011, 124 Stat. 4278, 4279, provided that:
 
 > **“(a) Authority To Reduce or Deny Award Fees.—** Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall revise the guidance issued pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 129 [120] Stat. 2321) [set out below] to ensure that all covered contracts using award fees—
 
@@ -171,7 +171,7 @@ Pub. L. 111–84, div. A, title VIII, § 823, Oct. 28, 2009, 123 Stat. 2412, a
 
 > **“(f) Effective Date.—** This section shall apply with respect to contracts entered into after the date occurring 180 days after the date of the enactment of this Act [Oct. 28, 2009].”
 
-[Pub. L. 111–383, div. A, title VIII, § 834(e), Jan. 7, 2011, 124 Stat. 4279, provided that:
+[Pub. L. 111–383, div. A, title VIII, § 834(e), Jan. 7, 2011, 124 Stat. 4279, provided that:
 
 > “The requirements of section 823 of the National Defense Authorization Act for Fiscal Year 2010 [Pub. L. 111–84, set out above], as amended by subsections (a) through (c), shall apply with respect to the following:
 
@@ -181,9 +181,9 @@ Pub. L. 111–84, div. A, title VIII, § 823, Oct. 28, 2009, 123 Stat. 2412, a
 
 ]
 
-Pub. L. 110–329, div. C, title VIII, § 8105, Sept. 30, 2008, 122 Stat. 3644, provided that: “During the current fiscal year and hereafter, none of the funds appropriated or otherwise available to the Department of Defense may be obligated or expended to provide award fees to any defense contractor contrary to the provisions of section 814 of the National Defense Authorization Act, Fiscal Year 2007 (Public Law 109–364) [set out below].”
+Pub. L. 110–329, div. C, title VIII, § 8105, Sept. 30, 2008, 122 Stat. 3644, provided that: “During the current fiscal year and hereafter, none of the funds appropriated or otherwise available to the Department of Defense may be obligated or expended to provide award fees to any defense contractor contrary to the provisions of section 814 of the National Defense Authorization Act, Fiscal Year 2007 (Public Law 109–364) [set out below].”
 
-Pub. L. 109–364, div. A, title VIII, § 814, Oct. 17, 2006, 120 Stat. 2321, provided that:
+Pub. L. 109–364, div. A, title VIII, § 814, Oct. 17, 2006, 120 Stat. 2321, provided that:
 
 > **“(a) Guidance on Linking of Award and Incentive Fees to Acquisition Outcomes.—** Not later than 180 days after the date of the enactment of this Act [Oct. 17, 2006], the Secretary of Defense shall issue guidance, with detailed implementation instructions (including definitions), for the Department of Defense on the appropriate use of award and incentive fees in Department of Defense acquisition programs.
 
@@ -227,7 +227,7 @@ Pub. L. 109–364, div. A, title VIII, § 814, Oct. 17, 2006, 120 Stat. 2321, 
 
 **Payment Protections for Subcontractors and Suppliers**
 
-Pub. L. 102–190, div. A, title VIII, § 806, Dec. 5, 1991, 105 Stat. 1417, as amended by Pub. L. 102–484, div. A, title X, § 1053(5), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–355, title II, § 2091, title VIII, § 8105(k), Oct. 13, 1994, 108 Stat. 3306, 3393; Pub. L. 113–291, div. A, title X, § 1071(b)(15), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, title VIII, § 836(f)(1), Aug. 13, 2018, 132 Stat. 1870, provided that:
+Pub. L. 102–190, div. A, title VIII, § 806, Dec. 5, 1991, 105 Stat. 1417, as amended by Pub. L. 102–484, div. A, title X, § 1053(5), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–355, title II, § 2091, title VIII, § 8105(k), Oct. 13, 1994, 108 Stat. 3306, 3393; Pub. L. 113–291, div. A, title X, § 1071(b)(15), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, title VIII, § 836(f)(1), Aug. 13, 2018, 132 Stat. 1870, provided that:
 
 > **“(a) Regulations.—** The Secretary of Defense shall prescribe in regulations the following requirements:
 
@@ -363,7 +363,7 @@ Pub. L. 102–190, div. A, title VIII, § 806, Dec. 5, 1991, 105 Stat. 1417, a
 
 > **“(g) Miller Act Defined.—** For purposes of this section, the term ‘Miller Act’ means the Act of August 24, 1935 (40 U.S.C. 270a–270d) [now 40 U.S.C. 3131, 3133].”
 
-## § 4601. Electronic submission and processing of claims for contract payments
+## § 4601. Electronic submission and processing of claims for contract payments
 
 **(a) Submission of Claims.—** The Secretary of Defense shall require that any claim for payment under a Department of Defense contract shall be submitted to the Department of Defense in electronic form.
 
@@ -381,7 +381,7 @@ Pub. L. 102–190, div. A, title VIII, § 806, Dec. 5, 1991, 105 Stat. 1417, a
 
 **(e) Claim for Payment Defined.—** In this section, the term “claim for payment” means an invoice or any other demand or request for payment.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1008(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–249, § 2227; renumbered § 4601, Pub. L. 116–283, div. A, title XVIII, § 1861(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1008(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–249, § 2227; renumbered § 4601, Pub. L. 116–283, div. A, title XVIII, § 1861(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
@@ -397,7 +397,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1008(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–250, provided that:
+Pub. L. 106–398, § 1 [[div. A], title X, § 1008(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–250, provided that:
 
 > **“(1)** Subject to paragraph (2), the Secretary of Defense shall apply section 2227 of title 10, United States Code [now 10 U.S.C. 4601] (as added by subsection (a)), with respect to contracts for which solicitations of offers are issued after June 30, 2001.
 
@@ -409,13 +409,13 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1008(c)], Oct. 30, 2000, 114 
 
 [Notice by Department of Defense of delay in the implementation of this section from June 30, 2001, until Oct. 1, 2002, was published on Aug. 21, 2001, at 66 F.R. 43841.]
 
-## § 4602. Contracted property and services: prompt payment of vouchers
+## § 4602. Contracted property and services: prompt payment of vouchers
 
 **(a) Requirement.—** Of the contract vouchers that are received by the Defense Finance and Accounting Service by means of the mechanization of contract administration services system, the number of such vouchers that remain unpaid for more than 30 days as of the last day of each month may not exceed 5 percent of the total number of the contract vouchers so received that remain unpaid on that day.
 
 **(b) Contract Voucher Defined.—** In this section, the term “contract voucher” means a voucher or invoice for the payment to a contractor for services or deliverable items provided by the contractor under a contract funded by the Department of Defense.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1006(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–247, § 2226; amended Pub. L. 111–350, § 5(b)(7), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 115–232, div. A, title VIII, § 836(e)(1), Aug. 13, 2018, 132 Stat. 1869; renumbered § 4602, Pub. L. 116–283, div. A, title XVIII, § 1861(b), Jan. 1, 2021, 134 Stat. 4277.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1006(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–247, § 2226; amended Pub. L. 111–350, § 5(b)(7), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 115–232, div. A, title VIII, § 836(e)(1), Aug. 13, 2018, 132 Stat. 1869; renumbered § 4602, Pub. L. 116–283, div. A, title XVIII, § 1861(b), Jan. 1, 2021, 134 Stat. 4277.)
 
 **Editorial Notes**
 
@@ -439,9 +439,9 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1006(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–248, provided that: “Section 2226 of title 10, United States Code [now 10 U.S.C. 4602] (as added by subsection (a)), shall take effect on December 1, 2000.”
+Pub. L. 106–398, § 1 [[div. A], title X, § 1006(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–248, provided that: “Section 2226 of title 10, United States Code [now 10 U.S.C. 4602] (as added by subsection (a)), shall take effect on December 1, 2000.”
 
-## § 4603. Advance notification of contract performance outside the United States
+## § 4603. Advance notification of contract performance outside the United States
 
 **(a) Notification.—**
 
@@ -477,15 +477,15 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1006(b)], Oct. 30, 2000, 114 
 
 **(8)** Subsistence.
 
-(Added Pub. L. 102–484, div. A, title VIII, § 840(a)(1), Oct. 23, 1992, 106 Stat. 2466, § 2410g; amended Pub. L. 104–106, div. D, title XLIII, § 4321(b)(16), Feb. 10, 1996, 110 Stat. 673; Pub. L. 111–350, § 5(b)(30), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 115–232, div. A, title VIII, § 836(e)(7), Aug. 13, 2018, 132 Stat. 1870; renumbered § 4603 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1861(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4277, 4294.)
+(Added Pub. L. 102–484, div. A, title VIII, § 840(a)(1), Oct. 23, 1992, 106 Stat. 2466, § 2410g; amended Pub. L. 104–106, div. D, title XLIII, § 4321(b)(16), Feb. 10, 1996, 110 Stat. 673; Pub. L. 111–350, § 5(b)(30), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 115–232, div. A, title VIII, § 836(e)(7), Aug. 13, 2018, 132 Stat. 1870; renumbered § 4603 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1861(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4277, 4294.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1861(b), renumbered section 2410g of this title as this section.
+2021—Pub. L. 116–283, § 1861(b), renumbered section 2410g of this title as this section.
 
-Subsec. (c). Pub. L. 116–283, § 1883(b)(2), substituted “section 4816” for “section 2505”.
+Subsec. (c). Pub. L. 116–283, § 1883(b)(2), substituted “section 4816” for “section 2505”.
 
 2018—Subsec. (d)(1). Pub. L. 115–232 substituted “Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “Commercial items (as defined in section 103 of title 41)”.
 
@@ -509,9 +509,9 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 **Effective Date**
 
-Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467, provided that: “Section 2410g of title 10, United States Code [now 10 U.S.C. 4603] (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467, provided that: “Section 2410g of title 10, United States Code [now 10 U.S.C. 4603] (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”
 
-## § 4604. Changes to certain documents
+## § 4604. Changes to certain documents
 
 **(a) In General.—** Each document referred to in a contract or other agreement for procurement entered into by the Secretary of Defense shall include a notation that—
 
@@ -521,7 +521,7 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 246
 
 **(b) Unnotated Documents.—** With respect to a document referred to in a contract or other agreement described in subsection (a) that does not include the notation required under such subsection, the version of the document that shall apply with respect to such contract or other agreement is the version in effect at the time of the issuance of the solicitation pursuant to which such contract or other agreement was entered into.
 
-(Added Pub. L. 119–60, div. A, title VIII, § 802(a), Dec. 18, 2025, 139 Stat. 940.)
+(Added Pub. L. 119–60, div. A, title VIII, § 802(a), Dec. 18, 2025, 139 Stat. 940.)
 
 **Editorial Notes**
 
@@ -529,7 +529,7 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 246
 
 Prior sections 4621 and 4622 were renumbered sections 7621 and 7622 of this title, respectively.
 
-A prior section 4623, act Aug. 10, 1956, ch. 1041, 70A Stat. 258, provided that the Quartermaster Corps sell not more than 16 ounces of tobacco a month to an enlisted member of the Army on active duty who requests it, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
+A prior section 4623, act Aug. 10, 1956, ch. 1041, 70A Stat. 258, provided that the Quartermaster Corps sell not more than 16 ounces of tobacco a month to an enlisted member of the Army on active duty who requests it, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
 
 Prior sections 4624 to 4629 were renumbered sections 7624 to 7629 of this title, respectively.
 
@@ -537,4 +537,4 @@ Prior sections 4624 to 4629 were renumbered sections 7624 to 7629 of this title,
 
 **Effective Date**
 
-Pub. L. 119–60, div. A, title VIII, § 802(b), Dec. 18, 2025, 139 Stat. 940, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to a contract or other agreement entered into after the date of the enactment of this Act [Dec. 18, 2025].”
+Pub. L. 119–60, div. A, title VIII, § 802(b), Dec. 18, 2025, 139 Stat. 940, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to a contract or other agreement entered into after the date of the enactment of this Act [Dec. 18, 2025].”

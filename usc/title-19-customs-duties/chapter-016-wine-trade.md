@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16—WINE TRADE
 
-## § 2801. Congressional findings and purposes
+## § 2801. Congressional findings and purposes
 
 **(a)** Congress finds that—
 
@@ -37,15 +37,15 @@ retrieved: 2026-10-11
 
 **(3)** to achieve greater access to foreign markets for United States wine and grape products through the reduction or elimination of tariff barriers and nontariff barriers to (or other distortions of) trade in wine.
 
-(Pub. L. 98–573, title IX, § 902, Oct. 30, 1984, 98 Stat. 3047.)
+(Pub. L. 98–573, title IX, § 902, Oct. 30, 1984, 98 Stat. 3047.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–573, title IX, § 901, Oct. 30, 1984, 98 Stat. 3047, provided that: “This title [enacting this chapter] may be cited as the ‘Wine Equity and Export Expansion Act of 1984’.”
+Pub. L. 98–573, title IX, § 901, Oct. 30, 1984, 98 Stat. 3047, provided that: “This title [enacting this chapter] may be cited as the ‘Wine Equity and Export Expansion Act of 1984’.”
 
-## § 2802. Definitions
+## § 2802. Definitions
 
 For purposes of this chapter—
 
@@ -69,9 +69,9 @@ For purposes of this chapter—
 
 **(C)** is for nonindustrial use.
 
-(Pub. L. 98–573, title IX, § 903, Oct. 30, 1984, 98 Stat. 3048.)
+(Pub. L. 98–573, title IX, § 903, Oct. 30, 1984, 98 Stat. 3048.)
 
-## § 2803. Designation of major wine trading countries
+## § 2803. Designation of major wine trading countries
 
 **(a)** The Trade Representative shall designate as a major wine trading country each foreign country, or group of foreign countries represented as an economic union, that, in the judgment of the Trade Representative—
 
@@ -87,7 +87,7 @@ For purposes of this chapter—
 
 **(3)** such information as may be submitted under section 2805 of this title by representatives of the wine and grape products industries in the United States, as well as other sources.
 
-(Pub. L. 98–573, title IX, § 904, Oct. 30, 1984, 98 Stat. 3048.)
+(Pub. L. 98–573, title IX, § 904, Oct. 30, 1984, 98 Stat. 3048.)
 
 **Editorial Notes**
 
@@ -95,7 +95,7 @@ For purposes of this chapter—
 
 Section 854(a) of the Trade Agreements Act of 1979, referred to in subsec. (b)(1), is section 854(a) of Pub. L. 96–39, title VIII, July 26, 1979, 93 Stat. 294, which is set out as a note under section 2135 of this title.
 
-## § 2804. Actions to reduce or eliminate tariff and nontariff barriers affecting United States wine
+## § 2804. Actions to reduce or eliminate tariff and nontariff barriers affecting United States wine
 
 **(a) Consultations with major wine trading countries**
 
@@ -103,9 +103,9 @@ The President shall direct the Trade Representative to enter into consultations 
 
 **(b) Reports to Congress on actions taken to expand export opportunities**
 
-**(1)** the 1
+**(1)** the 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 President shall notify each of the Committees regarding the extent and effect of the efforts undertaken since the submission of the report required under section 854(a) of the Trade Agreements Act of 1979 [19 U.S.C. 2135 note], and during the 12-month period beginning on October 30, 1984, to expand opportunities in each major wine trading country for exports of United States wine. Such notification, which shall be in the form of a separate written report (that must be submitted within 30 days after the close of that 12-month period) for each major wine trading country, shall include—
 
@@ -119,9 +119,9 @@ President shall notify each of the Committees regarding the extent and effect of
 
 **(ii)** any negotiation or consultation with any foreign government;
 
-**(D)** if action referred to in subparagraph (C) was not taken, an explanation of the reasons therefore; 2
+**(D)** if action referred to in subparagraph (C) was not taken, an explanation of the reasons therefore; 2
 
-<sup>2</sup>  So in original. Probably should be “therefor;”.
+<sup>2</sup> So in original. Probably should be “therefor;”.
 
 and
 
@@ -137,7 +137,7 @@ and
 
 the President, shall take all appropriate and feasible action under the Trade Act of 1974 [19 U.S.C. 2101 et seq.] to enforce the rights of the United States under any such trade agreement or to obtain the elimination of such act, policy, or practice.
 
-(Pub. L. 98–573, title IX, § 905, Oct. 30, 1984, 98 Stat. 3049.)
+(Pub. L. 98–573, title IX, § 905, Oct. 30, 1984, 98 Stat. 3049.)
 
 **Editorial Notes**
 
@@ -145,17 +145,17 @@ the President, shall take all appropriate and feasible action under the Trade Ac
 
 Section 854(a) of the Trade Agreements Act of 1979, referred to in subsec. (b)(1), is section 854(a) of Pub. L. 96–39, title VIII, July 26, 1979, 93 Stat. 294, which is set out as a note under section 2135 of this title.
 
-The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reports on Negotiations To Eliminate Wine Trade Barriers**
 
-Pub. L. 100–418, title I, § 1125, Aug. 23, 1988, 102 Stat. 1147, provided that before the close of the 13-month period beginning on Aug. 23, 1988, the President was to update each report submitted to Congress under this section and submit the updated report to Congress, with specified information included.
+Pub. L. 100–418, title I, § 1125, Aug. 23, 1988, 102 Stat. 1147, provided that before the close of the 13-month period beginning on Aug. 23, 1988, the President was to update each report submitted to Congress under this section and submit the updated report to Congress, with specified information included.
 
 [Functions of the President under section 1125 of Pub. L. 100–418 delegated to the United States Trade Representative, see section 1–201 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.]
 
-## § 2805. Required consultations
+## § 2805. Required consultations
 
 The Trade Representative shall consult with the Committees and with representatives of the wine and grape products industries in the United States—
 
@@ -165,27 +165,27 @@ The Trade Representative shall consult with the Committees and with representati
 
 **(3)** for purposes of determining whether action by the President is appropriate under any provision of the Trade Act of 1974 [19 U.S.C. 2101 et seq.] with respect to any act, policy, or practice referred to in section 2804(b)(1) of this title.
 
-(Pub. L. 98–573, title IX, § 906, Oct. 30, 1984, 98 Stat. 3050.)
+(Pub. L. 98–573, title IX, § 906, Oct. 30, 1984, 98 Stat. 3050.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trade Act of 1974, referred to in par. (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in par. (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
-## § 2806. United States wine export promotion
+## § 2806. United States wine export promotion
 
 In order to develop, maintain, and expand foreign markets for United States wine, the President is encouraged to—
 
-**(1)** utilize, for the fiscal year ending September 30, 1985, the authority provided under section 135 of the Omnibus Budget Reconciliation Act of 1982 [7 U.S.C. 612c note] to make available sufficient funds to initiate, in cooperation with nongovernmental trade associations representative of United States wineries, an export promotion program for United States; 1
+**(1)** utilize, for the fiscal year ending September 30, 1985, the authority provided under section 135 of the Omnibus Budget Reconciliation Act of 1982 [7 U.S.C. 612c note] to make available sufficient funds to initiate, in cooperation with nongovernmental trade associations representative of United States wineries, an export promotion program for United States; 1
 
-<sup>1</sup>  So in original. Probably should be “United States wine;”.
+<sup>1</sup> So in original. Probably should be “United States wine;”.
 
 and
 
 **(2)** request, for each subsequent fiscal year, an appropriation for such a wine export promotion program that will not be at the expense of any appropriations requested for export promotion programs involving other agriculture commodities.
 
-(Pub. L. 98–573, title IX, § 907, Oct. 30, 1984, 98 Stat. 3050.)
+(Pub. L. 98–573, title IX, § 907, Oct. 30, 1984, 98 Stat. 3050.)
 
 **Editorial Notes**
 

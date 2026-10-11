@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1537—NATIONAL WOMAN’S RELIEF CORPS, AUXILIARY TO THE GRAND ARMY OF THE REPUBLIC"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1537—NATIONAL WOMAN’S RELIEF CORPS, AUXILIARY TO THE GRAND ARMY OF THE REPUBLIC"
 identifier: "/us/usc/t36/stII/ptB/ch1537"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1537—NATIONAL WOMAN’S RELIEF CORPS, AUXILIARY TO THE GRAND ARMY OF THE REPUBLIC
 
-## § 153701. Organization
+## § 153701. Organization
 
 **(a) Federal Charter.—** National Woman’s Relief Corps, Auxiliary to the Grand Army of the Republic (in this chapter, the “corporation”), is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153701 | 36:1001. | Sept. 7, 1962, Pub. L. 87–650, §§ 1, 2, 4(1), 76 Stat. 502, 503. |
+| 153701 | 36:1001. | Sept. 7, 1962, Pub. L. 87–650, §§ 1, 2, 4(1), 76 Stat. 502, 503. |
 |  | 36:1002. 36:1004(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
-## § 153702. Purposes
+## § 153702. Purposes
 
 The purposes of the corporation are—
 
@@ -56,11 +56,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153702 | 36:1003. | Sept. 7, 1962, Pub. L. 87–650, § 3, 76 Stat. 503. |
+| 153702 | 36:1003. | Sept. 7, 1962, Pub. L. 87–650, § 3, 76 Stat. 503. |
 
 In clause (5), the words “destroy, or impair” are substituted for “make for the destruction or impairment of” to eliminate unnecessary words.
 
-## § 153703. Membership
+## § 153703. Membership
 
 Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation. Eligibility for membership is limited to—
 
@@ -74,11 +74,11 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153703 | 36:1005. | Sept. 7, 1962, Pub. L. 87–650, § 5, 76 Stat. 503. |
+| 153703 | 36:1005. | Sept. 7, 1962, Pub. L. 87–650, § 5, 76 Stat. 503. |
 
 Before clause (1), the words “is limited to” are substituted for “shall be” for clarity.
 
-## § 153704. Governing body
+## § 153704. Governing body
 
 **(a) National Convention.—**
 
@@ -104,7 +104,7 @@ Before clause (1), the words “is limited to” are substituted for “shall be
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153704(a)(1)– (3) | 36:1006. | Sept. 7, 1962, Pub. L. 87–650, §§ 6–8, 76 Stat. 504. |
+| 153704(a)(1)– (3) | 36:1006. | Sept. 7, 1962, Pub. L. 87–650, §§ 6–8, 76 Stat. 504. |
 | 153704(a)(4) | 36:1007(a), (b). |  |
 | 153704(b) | 36:1007(c). |  |
 | 153704(c) | 36:1008. |  |
@@ -115,7 +115,7 @@ In subsection (a)(4), the text of 36:1007(b) is omitted as obsolete.
 
 In subsection (b), the word “Thereafter” is omitted as obsolete.
 
-## § 153705. Powers
+## § 153705. Powers
 
 The corporation may—
 
@@ -137,7 +137,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153705 | 36:1004(2)–(8). | Sept. 7, 1962, Pub. L. 87–650, §§ 4(2)–(8), 18, 76 Stat. 503, 506. |
+| 153705 | 36:1004(2)–(8). | Sept. 7, 1962, Pub. L. 87–650, §§ 4(2)–(8), 18, 76 Stat. 503, 506. |
 |  | 36:1018. |  |
 
 In this section, the text of 36:1018 is omitted as executed and obsolete.
@@ -152,7 +152,7 @@ Clause (5) is substituted for “take by lease, gift, purchase, grants, devise, 
 
 In clause (6), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 153706. Exclusive right to name, seals, emblems, and badges
+## § 153706. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its subordinate corps have the exclusive right to use the name “National Woman’s Relief Corps, Auxiliary to the Grand Army of the Republic”. The corporation has the exclusive right to use and to allow others to use seals, emblems, and badges the corporation adopts.
 
@@ -162,11 +162,11 @@ The corporation and its subordinate corps have the exclusive right to use the na
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153706 | 36:1017. | Sept. 7, 1962, Pub. L. 87–650, § 17, 76 Stat. 505. |
+| 153706 | 36:1017. | Sept. 7, 1962, Pub. L. 87–650, § 17, 76 Stat. 505. |
 
 The word “sole” is omitted as included in “exclusive”. The words “the corporation adopts” are substituted for “as have heretofore been used by the Illinois corporation described in section 1018 of this title” for consistency in the revised title. The words “and the right to which may be lawfully transferred to the corporation” are omitted as executed.
 
-## § 153707. Restrictions
+## § 153707. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -182,7 +182,7 @@ The word “sole” is omitted as included in “exclusive”. The words “the 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153707(a) | 36:1013. | Sept. 7, 1962, Pub. L. 87–650, §§ 10, 11, 13, 76 Stat. 504, 505. |
+| 153707(a) | 36:1013. | Sept. 7, 1962, Pub. L. 87–650, §§ 10, 11, 13, 76 Stat. 504, 505. |
 | 153707(b) | 36:1011. |  |
 | 153707(c) | 36:1010(a). |  |
 | 153707(d) | 36:1010(b). |  |
@@ -193,7 +193,7 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection. In the first sentence, the words “or member” are added for consistency in the subsection.
 
-## § 153708. Principal office
+## § 153708. Principal office
 
 The principal office of the corporation shall be in Springfield, Illinois. However, the activities of the corporation are not confined to Springfield but may be conducted throughout the States of the United States and the District of Columbia.
 
@@ -203,11 +203,11 @@ The principal office of the corporation shall be in Springfield, Illinois. Howev
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153708 | 36:1009(a). | Sept. 7, 1962, Pub. L. 87–650, § 9(a), 76 Stat. 504. |
+| 153708 | 36:1009(a). | Sept. 7, 1962, Pub. L. 87–650, § 9(a), 76 Stat. 504. |
 
 The word “various” is omitted as unnecessary.
 
-## § 153709. Records and inspection
+## § 153709. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -223,11 +223,11 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153709 | 36:1014. | Sept. 7, 1962, Pub. L. 87–650, § 14, 76 Stat. 505. |
+| 153709 | 36:1014. | Sept. 7, 1962, Pub. L. 87–650, § 14, 76 Stat. 505. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 153710. Service of process
+## § 153710. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process, notice, or demand for the corporation. Designation of the agent shall be filed in the office of the Mayor of the District of Columbia or another office designated by the Mayor. Notice to or service on the agent is notice to or service on the corporation.
 
@@ -237,11 +237,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153710 | 36:1009(b). | Sept. 7, 1962, Pub. L. 87–650, § 9(b), 76 Stat. 504. |
+| 153710 | 36:1009(b). | Sept. 7, 1962, Pub. L. 87–650, § 9(b), 76 Stat. 504. |
 
-The words “at all times” and “authorized” are omitted as unnecessary. The words “Designation of the agent shall be filed” are substituted for “The corporation shall file . . . a statement designating the initial and each successor registered agent of the corporation immediately following any such designation” for consistency in the revised title and to eliminate unnecessary words. The words “office of Mayor of the District of Columbia” are substituted for “Commissioners of the District of Columbia” in section 9(b) of the Act of September 7, 1962 (Public Law 87–650, 76 Stat. 504), because under section 401 of Reorganization Plan No. 3 of 1967 (5 App. U.S.C.), the functions of the Board of Commissioners of the District of Columbia were transferred to the Commissioner of the District of Columbia, and under sections 421 and 711 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 789, 818), the office of Commissioner of the District of Columbia was abolished and replaced by the office of Mayor of the District of Columbia. The words “Notice to or service on the agent is notice to or service on the corporation” are substituted for “service of such process, notice or demand required or permitted by law to be served upon the corporation may be served upon such agent” for consistency in the revised title and to eliminate unnecessary words.
+The words “at all times” and “authorized” are omitted as unnecessary. The words “Designation of the agent shall be filed” are substituted for “The corporation shall file . . . a statement designating the initial and each successor registered agent of the corporation immediately following any such designation” for consistency in the revised title and to eliminate unnecessary words. The words “office of Mayor of the District of Columbia” are substituted for “Commissioners of the District of Columbia” in section 9(b) of the Act of September 7, 1962 (Public Law 87–650, 76 Stat. 504), because under section 401 of Reorganization Plan No. 3 of 1967 (5 App. U.S.C.), the functions of the Board of Commissioners of the District of Columbia were transferred to the Commissioner of the District of Columbia, and under sections 421 and 711 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 789, 818), the office of Commissioner of the District of Columbia was abolished and replaced by the office of Mayor of the District of Columbia. The words “Notice to or service on the agent is notice to or service on the corporation” are substituted for “service of such process, notice or demand required or permitted by law to be served upon the corporation may be served upon such agent” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 153711. Liability for acts of officers and agents
+## § 153711. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -251,9 +251,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153711 | 36:1012. | Sept. 7, 1962, Pub. L. 87–650, § 12, 76 Stat. 505. |
+| 153711 | 36:1012. | Sept. 7, 1962, Pub. L. 87–650, § 12, 76 Stat. 505. |
 
-## § 153712. Annual report
+## § 153712. Annual report
 
 Not later than 6 months after the end of each fiscal year, the corporation shall submit a report to Congress on the activities of the corporation during the prior fiscal year. The report may consist of a report on the proceedings of the national convention during that fiscal year. The report may not be printed as a public document.
 
@@ -263,7 +263,7 @@ Not later than 6 months after the end of each fiscal year, the corporation shall
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153712 | 36:1016. | Sept. 7, 1962, Pub. L. 87–650, § 16, 76 Stat. 505. |
+| 153712 | 36:1016. | Sept. 7, 1962, Pub. L. 87–650, § 16, 76 Stat. 505. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -271,7 +271,7 @@ Not later than 6 months after the end of each fiscal year, the corporation shall
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 204 of House Document No. 103–7.
 
-## § 153713. Distribution of assets on dissolution or final liquidation
+## § 153713. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, its assets shall be distributed as follows:
 
@@ -291,7 +291,7 @@ On dissolution or final liquidation of the corporation, its assets shall be dist
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153713 | 36:1019. | Sept. 7, 1962, Pub. L. 87–650, § 19, 76 Stat. 506. |
+| 153713 | 36:1019. | Sept. 7, 1962, Pub. L. 87–650, § 19, 76 Stat. 506. |
 
 Before clause (1), the word “applied” is omitted as included in “distributed” and for consistency in the revised title.
 

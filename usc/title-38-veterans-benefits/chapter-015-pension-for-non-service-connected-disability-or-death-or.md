@@ -19,41 +19,41 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2013—Pub. L. 113–66, div. A, title V, § 563(c)(2), Dec. 26, 2013, 127 Stat. 768, struck out items 1560 “Medal of Honor Roll; persons eligible” and 1561 “Certificate”.
+2013—Pub. L. 113–66, div. A, title V, § 563(c)(2), Dec. 26, 2013, 127 Stat. 768, struck out items 1560 “Medal of Honor Roll; persons eligible” and 1561 “Certificate”.
 
-2001—Pub. L. 107–103, title II, § 207(a)(2), Dec. 27, 2001, 115 Stat. 991, added item 1513.
+2001—Pub. L. 107–103, title II, § 207(a)(2), Dec. 27, 2001, 115 Stat. 991, added item 1513.
 
-1992—Pub. L. 102–568, title IV, §§ 402(c)(2)(B), 403(b)(2), Oct. 29, 1992, 106 Stat. 4337, 4338, substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” in item 1524 and “Protection” for “Temporary protection” in item 1525.
+1992—Pub. L. 102–568, title IV, §§ 402(c)(2)(B), 403(b)(2), Oct. 29, 1992, 106 Stat. 4337, 4338, substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” in item 1524 and “Protection” for “Temporary protection” in item 1525.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 501 to 562 as 1501 to 1562, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 501 to 562 as 1501 to 1562, respectively.
 
-Pub. L. 102–25, title III, § 333(c)(2), Apr. 6, 1991, 105 Stat. 88, substituted “Other Periods of War” for “Mexican Border Period, World War I, World War II, Korean Conflict, and the Vietnam Era” as subheading preceding item 541.
+Pub. L. 102–25, title III, § 333(c)(2), Apr. 6, 1991, 105 Stat. 88, substituted “Other Periods of War” for “Mexican Border Period, World War I, World War II, Korean Conflict, and the Vietnam Era” as subheading preceding item 541.
 
-1986—Pub. L. 99–576, title VII, § 703(b)(3), Oct. 28, 1986, 100 Stat. 3303, inserted “program of” after “Temporary” in item 524.
+1986—Pub. L. 99–576, title VII, § 703(b)(3), Oct. 28, 1986, 100 Stat. 3303, inserted “program of” after “Temporary” in item 524.
 
-1984—Pub. L. 98–543, title III, § 301(a)(2), Oct. 24, 1984, 98 Stat. 2746, added items 524 and 525.
+1984—Pub. L. 98–543, title III, § 301(a)(2), Oct. 24, 1984, 98 Stat. 2746, added items 524 and 525.
 
-1982—Pub. L. 97–295, § 4(14), Oct. 12, 1982, 96 Stat. 1305, substituted “Honor Roll” for “honor roll” in item 560.
+1982—Pub. L. 97–295, § 4(14), Oct. 12, 1982, 96 Stat. 1305, substituted “Honor Roll” for “honor roll” in item 560.
 
-1978—Pub. L. 95–588, title I, §§ 104(b), 106(b), 109(b), 110(b), 112(b), Nov. 4, 1978, 92 Stat. 2499, 2502, 2504, 2505, added item 508, substituted “Veterans of a period of war” for “Veterans of the Mexican border period, World War I, World War II, the Korean conflict, or the Vietnam era” in item 521, substituted “Surviving spouses of veterans of a period of war” for “Surviving spouses of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans” in item 541, substituted “Children of veterans of a period of war” for “Children of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans” in item 542, struck out heading “Surviving Spouses of Veterans of All Periods of War” following item 543, and struck out item 544.
+1978—Pub. L. 95–588, title I, §§ 104(b), 106(b), 109(b), 110(b), 112(b), Nov. 4, 1978, 92 Stat. 2499, 2502, 2504, 2505, added item 508, substituted “Veterans of a period of war” for “Veterans of the Mexican border period, World War I, World War II, the Korean conflict, or the Vietnam era” in item 521, substituted “Surviving spouses of veterans of a period of war” for “Surviving spouses of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans” in item 541, substituted “Children of veterans of a period of war” for “Children of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans” in item 542, struck out heading “Surviving Spouses of Veterans of All Periods of War” following item 543, and struck out item 544.
 
-1975—Pub. L. 94–169, title I, §§ 101(2)(J), 106(24), (30), (38), Dec. 23, 1975, 89 Stat. 1014, 1018, 1019, struck out items 510 relating to confederate forces veterans, and 531 relating to widows of Mexican War veterans, substituted “Surviving Spouses” for “Widows” in heading of Subchapter III and subheading preceding item 544, and substituted “Surviving spouses” for “Widows” in items 532, 534, 536 and 541.
+1975—Pub. L. 94–169, title I, §§ 101(2)(J), 106(24), (30), (38), Dec. 23, 1975, 89 Stat. 1014, 1018, 1019, struck out items 510 relating to confederate forces veterans, and 531 relating to widows of Mexican War veterans, substituted “Surviving Spouses” for “Widows” in heading of Subchapter III and subheading preceding item 544, and substituted “Surviving spouses” for “Widows” in items 532, 534, 536 and 541.
 
-1970—Pub. L. 91–588, § 9(h), Dec. 24, 1970, 84 Stat. 1585, inserted references to the Mexican border period in subheading preceding item 541 and in items 521, 541, and 542, respectively.
+1970—Pub. L. 91–588, § 9(h), Dec. 24, 1970, 84 Stat. 1585, inserted references to the Mexican border period in subheading preceding item 541 and in items 521, 541, and 542, respectively.
 
-1967—Pub. L. 90–77, title I, § 108(b), title II, § 202(i), Aug. 31, 1967, 81 Stat. 180, 183, added item 544 and included references to Vietnam era in subheading preceding item 541 and in items 521, 541, and 542, respectively.
+1967—Pub. L. 90–77, title I, § 108(b), title II, § 202(i), Aug. 31, 1967, 81 Stat. 180, 183, added item 544 and included references to Vietnam era in subheading preceding item 541 and in items 521, 541, and 542, respectively.
 
-1966—Pub. L. 89–467, § 1(b), June 22, 1966, 80 Stat. 218, added item 507.
+1966—Pub. L. 89–467, § 1(b), June 22, 1966, 80 Stat. 218, added item 507.
 
-1963—Pub. L. 88–77, § 5(3), July 25, 1963, 77 Stat. 96, substituted “ARMY, NAVY, AIR FORCE, AND COAST GUARD” for “ARMY, NAVY, AND AIR FORCE”, in heading of Subchapter IV.
+1963—Pub. L. 88–77, § 5(3), July 25, 1963, 77 Stat. 96, substituted “ARMY, NAVY, AIR FORCE, AND COAST GUARD” for “ARMY, NAVY, AND AIR FORCE”, in heading of Subchapter IV.
 
-1961—Pub. L. 87–138, § 2(b), Aug. 14, 1961, 75 Stat. 339, struck out “entitling holder to pension” after “Certificate” in item 561.
+1961—Pub. L. 87–138, § 2(b), Aug. 14, 1961, 75 Stat. 339, struck out “entitling holder to pension” after “Certificate” in item 561.
 
-1959—Pub. L. 86–211, § 7(a), Aug. 29, 1959, 73 Stat. 436, substituted “Determinations with respect to annual income” for “Items not considered in determining income” in item 503, “Net worth limitation” for “Income limitations” in item 522, and “Net worth limitation” for “Widows of World War II or Korean conflict veterans” in item 543, included widows of World War II and Korean conflict veterans in item 541 and children of World War II and Korean conflict veterans in item 542, added item 506, and struck out items 544 and 545 which related to children of World War II or Korean conflict veterans and to income limitations.
+1959—Pub. L. 86–211, § 7(a), Aug. 29, 1959, 73 Stat. 436, substituted “Determinations with respect to annual income” for “Items not considered in determining income” in item 503, “Net worth limitation” for “Income limitations” in item 522, and “Net worth limitation” for “Widows of World War II or Korean conflict veterans” in item 543, included widows of World War II and Korean conflict veterans in item 541 and children of World War II and Korean conflict veterans in item 542, added item 506, and struck out items 544 and 545 which related to children of World War II or Korean conflict veterans and to income limitations.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 1501. Definitions
+### § 1501. Definitions
 
 For the purposes of this chapter—
 
@@ -65,7 +65,7 @@ For the purposes of this chapter—
 
 **(4)** The term “period of war” means the Mexican border period, World War I, World War II, the Korean conflict, the Vietnam era, the Persian Gulf War, and the period beginning on the date of any future declaration of war by the Congress and ending on the date prescribed by Presidential proclamation or concurrent resolution of the Congress.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 501; Pub. L. 94–169, title I, § 106(1), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, § 101, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 102–25, title III, § 333(a), Apr. 6, 1991, 105 Stat. 88; renumbered § 1501, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 501; Pub. L. 94–169, title I, § 106(1), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, § 101, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 102–25, title III, § 333(a), Apr. 6, 1991, 105 Stat. 88; renumbered § 1501, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ For the purposes of this chapter—
 
 Prior sections 1500 and 1501 were renumbered sections 3100 and 3101 of this title, respectively.
 
-Another prior section 1501, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171; Pub. L. 93–508, title I, § 101(1), Dec. 3, 1974, 88 Stat. 1578, defined “World War II” and “vocational rehabilitation” for purposes of chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1501 continue in effect until Mar. 31, 1981.
+Another prior section 1501, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171; Pub. L. 93–508, title I, § 101(1), Dec. 3, 1974, 88 Stat. 1578, defined “World War II” and “vocational rehabilitation” for purposes of chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1501 continue in effect until Mar. 31, 1981.
 
 **Amendments**
 
@@ -93,11 +93,11 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Plan To Address the Financial Exploitation of Veterans Receiving Pension From the Department of Veterans Affairs**
 
-Pub. L. 116–315, title VI, § 6002, Jan. 5, 2021, 134 Stat. 5051, provided that:
+Pub. L. 116–315, title VI, § 6002, Jan. 5, 2021, 134 Stat. 5051, provided that:
 
 > **“(a) Development of Method for Solicitation and Collection of Information.—** Not later than one year after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall develop a method for systematically soliciting and collecting information on complaints received, referrals made, and actions taken by the pension management centers of the Department of Veterans Affairs and any other relevant components of the Department, in cases of potential financial exploitation of individuals receiving pension under chapter 15 of title 38, United States Code.
 
@@ -117,21 +117,21 @@ Pub. L. 116–315, title VI, § 6002, Jan. 5, 2021, 134 Stat. 5051, provided t
 
 **Notice Regarding Fees Charged in Connection With Filing an Application for Veterans Pension**
 
-Pub. L. 116–315, title VI, § 6006, Jan. 5, 2021, 134 Stat. 5053, provided that: “The Under Secretary for Benefits of the Department of Veterans Affairs shall ensure that every paper or electronic document relating to the receipt of pension under chapter 15 of title 38, United States Code, that is available to individuals who apply for such pension, including educational forms about or applications for such pension, includes a notice that the Department does not charge any fee in connection with the filing of an application for such pension.”
+Pub. L. 116–315, title VI, § 6006, Jan. 5, 2021, 134 Stat. 5053, provided that: “The Under Secretary for Benefits of the Department of Veterans Affairs shall ensure that every paper or electronic document relating to the receipt of pension under chapter 15 of title 38, United States Code, that is available to individuals who apply for such pension, including educational forms about or applications for such pension, includes a notice that the Department does not charge any fee in connection with the filing of an application for such pension.”
 
 **Secretary of Veterans Affairs Notice of Dishonest, Predatory, or Otherwise Unlawful Practices Targeting Individuals Who Are Eligible for Increased Pension on Basis of Need for Regular Aid and Attendance**
 
-Pub. L. 115–131, § 2(a), Mar. 9, 2018, 132 Stat. 334, provided that: “The Secretary of Veterans Affairs shall include on the internet website of the Department of Veterans Affairs a warning to veterans relating to dishonest, predatory, or otherwise unlawful practices targeting individuals who are eligible for increased pension under chapter 15 of title 38, United States Code, on the basis of need for regular aid and attendance.”
+Pub. L. 115–131, § 2(a), Mar. 9, 2018, 132 Stat. 334, provided that: “The Secretary of Veterans Affairs shall include on the internet website of the Department of Veterans Affairs a warning to veterans relating to dishonest, predatory, or otherwise unlawful practices targeting individuals who are eligible for increased pension under chapter 15 of title 38, United States Code, on the basis of need for regular aid and attendance.”
 
 **Pension Program for Nonservice-Connected Disability or Death; Report by Administrator**
 
-Pub. L. 94–432, title IV, § 404, Sept. 30, 1976, 90 Stat. 1372, provided that, due to certain insufficiencies in pension program for nonservice-connected disability or death authorized by this chapter, and lack of sufficient long-range information as to actual and anticipated financial characteristics of potential pensioners and their families upon which to estimate costs of existing alternative pension programs, it was necessary for Administrator of Veterans’ Affairs to study existing and alternative nonservice-connected pension programs and to submit a report to Congress and the President not later than Oct. 1, 1977, on alternative courses of legislative and administrative action and long-range cost estimates therefor.
+Pub. L. 94–432, title IV, § 404, Sept. 30, 1976, 90 Stat. 1372, provided that, due to certain insufficiencies in pension program for nonservice-connected disability or death authorized by this chapter, and lack of sufficient long-range information as to actual and anticipated financial characteristics of potential pensioners and their families upon which to estimate costs of existing alternative pension programs, it was necessary for Administrator of Veterans’ Affairs to study existing and alternative nonservice-connected pension programs and to submit a report to Congress and the President not later than Oct. 1, 1977, on alternative courses of legislative and administrative action and long-range cost estimates therefor.
 
 **Study of Needs and Problems of Veterans and Their Widows Seventy-Two Years of Age or Older; Report by Administrator**
 
-Pub. L. 93–527, § 8, Dec. 21, 1974, 88 Stat. 1705, directed Administrator of Veterans’ Affairs to study needs and problems of veterans and their widows seventy-two years of age or older and required him to report to Congress and President not later than one hundred and eighty days after convening of Ninety-fourth Congress results of study together with any recommendations for legislative or administrative action.
+Pub. L. 93–527, § 8, Dec. 21, 1974, 88 Stat. 1705, directed Administrator of Veterans’ Affairs to study needs and problems of veterans and their widows seventy-two years of age or older and required him to report to Congress and President not later than one hundred and eighty days after convening of Ninety-fourth Congress results of study together with any recommendations for legislative or administrative action.
 
-### § 1502. Determinations with respect to disability
+### § 1502. Determinations with respect to disability
 
 **(a)** For the purposes of this chapter, a person shall be considered to be permanently and totally disabled if such person is any of the following:
 
@@ -151,7 +151,7 @@ Pub. L. 93–527, § 8, Dec. 21, 1974, 88 Stat. 1705, directed Administrator o
 
 **(c)** For the purposes of this chapter, the requirement of “permanently housebound” will be considered to have been met when the veteran is substantially confined to such veteran’s house (ward or clinical areas, if institutionalized) or immediate premises due to a disability or disabilities which it is reasonably certain will remain throughout such veteran’s lifetime.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 502; Pub. L. 88–664, § 6(b), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, § 102, Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–169, title I, § 106(2), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, § 201, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 101–508, title VIII, § 8002(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered § 1502 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, § 206(a), Dec. 27, 2001, 115 Stat. 990; Pub. L. 109–233, title V, § 502(3), June 15, 2006, 120 Stat. 415.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 502; Pub. L. 88–664, § 6(b), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, § 102, Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–169, title I, § 106(2), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, § 201, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 101–508, title VIII, § 8002(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered § 1502 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, § 206(a), Dec. 27, 2001, 115 Stat. 990; Pub. L. 109–233, title V, § 502(3), June 15, 2006, 120 Stat. 415.)
 
 **Editorial Notes**
 
@@ -159,9 +159,9 @@ Pub. L. 93–527, § 8, Dec. 21, 1974, 88 Stat. 1705, directed Administrator o
 
 Prior section 1502 was renumbered section 3102 of this title.
 
-Another prior section 1502, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171; Pub. L. 86–721, § 3, Sept. 8, 1960, 74 Stat. 820; Pub. L. 87–815, § 7, Oct. 15, 1962, 76 Stat. 927; Pub. L. 89–138, § 2(2), Aug. 26, 1965, 79 Stat. 578; Pub. L. 90–631, § 1(a), Oct. 23, 1968, 82 Stat. 1331; Pub. L. 92–540, title I, § 101(1), title III, § 301, Oct. 24, 1972, 86 Stat. 1074, 1080; Pub. L. 93–508, title I, § 101(2), Dec. 3, 1974, 88 Stat. 1578; Pub. L. 94–502, title I, § 104(1), Oct. 15, 1976, 90 Stat. 2384, related to the basic entitlement of veterans with service-connected disabilities to vocational rehabilitation under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1502 continue in effect until Mar. 31, 1981.
+Another prior section 1502, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171; Pub. L. 86–721, § 3, Sept. 8, 1960, 74 Stat. 820; Pub. L. 87–815, § 7, Oct. 15, 1962, 76 Stat. 927; Pub. L. 89–138, § 2(2), Aug. 26, 1965, 79 Stat. 578; Pub. L. 90–631, § 1(a), Oct. 23, 1968, 82 Stat. 1331; Pub. L. 92–540, title I, § 101(1), title III, § 301, Oct. 24, 1972, 86 Stat. 1074, 1080; Pub. L. 93–508, title I, § 101(2), Dec. 3, 1974, 88 Stat. 1578; Pub. L. 94–502, title I, § 104(1), Oct. 15, 1976, 90 Stat. 2384, related to the basic entitlement of veterans with service-connected disabilities to vocational rehabilitation under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1502 continue in effect until Mar. 31, 1981.
 
-Prior section 1502A, Pub. L. 87–591, § 1, Aug. 16, 1962, 76 Stat. 393, which related to vocational rehabilitation for blinded veterans, was repealed by Pub. L. 89–138, § 2(3), Aug. 26, 1965, 79 Stat. 578.
+Prior section 1502A, Pub. L. 87–591, § 1, Aug. 16, 1962, 76 Stat. 393, which related to vocational rehabilitation for blinded veterans, was repealed by Pub. L. 89–138, § 2(3), Aug. 26, 1965, 79 Stat. 578.
 
 **Amendments**
 
@@ -173,9 +173,9 @@ Prior section 1502A, Pub. L. 87–591, § 1, Aug. 16, 1962, 76 Stat. 393, whic
 
 “(2) any disease or disorder determined by the Secretary to be of such a nature or extent as to justify a determination that persons suffering therefrom are permanently and totally disabled.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 502 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 502 of this title as this section.
 
-Subsec. (a)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1990—Subsec. (a). Pub. L. 101–508 amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “For the purposes of this chapter, a person shall be considered to be permanently and totally disabled if such person is sixty-five years of age or older or became unemployable after age 65, or suffering from—”.
 
@@ -185,9 +185,9 @@ Subsec. (a)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary
 
 Subsec. (c). Pub. L. 94–169 substituted “such veteran’s” for “his” wherever appearing.
 
-1967—Subsec. (a). Pub. L. 90–77, § 102(a), provided for consideration of a person sixty-five years of age or older as permanently and totally disabled.
+1967—Subsec. (a). Pub. L. 90–77, § 102(a), provided for consideration of a person sixty-five years of age or older as permanently and totally disabled.
 
-Subsec. (b). Pub. L. 90–77, § 102(b), added cl. (1) and designated existing provisions as cl. (2).
+Subsec. (b). Pub. L. 90–77, § 102(b), added cl. (1) and designated existing provisions as cl. (2).
 
 1964—Subsec. (c). Pub. L. 88–664 added subsec. (c).
 
@@ -195,11 +195,11 @@ Subsec. (b). Pub. L. 90–77, § 102(b), added cl. (1) and designated existing
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–103, title II, § 206(b), Dec. 27, 2001, 115 Stat. 991, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 17, 2001.”
+Pub. L. 107–103, title II, § 206(b), Dec. 27, 2001, 115 Stat. 991, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 17, 2001.”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VIII, § 8002(b), Nov. 5, 1990, 104 Stat. 1388–342, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to claims filed after October 31, 1990.”
+Pub. L. 101–508, title VIII, § 8002(b), Nov. 5, 1990, 104 Stat. 1388–342, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to claims filed after October 31, 1990.”
 
 **Effective Date of 1976 Amendment**
 
@@ -207,7 +207,7 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1967 Amendment**
 
@@ -217,7 +217,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 88–664, set out as a note under section 1503 of this title.
 
-### § 1503. Determinations with respect to annual income
+### § 1503. Determinations with respect to annual income
 
 **(a)** In determining annual income under this chapter, all payments of any kind or from any source (including salary, retirement or annuity payments, or similar income, which has been waived, irrespective of whether the waiver was made pursuant to statute, contract, or otherwise) shall be included except—
 
@@ -267,7 +267,7 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 **(b)** Where a fraction of a dollar is involved, annual income shall be fixed at the next lower dollar.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 503; Pub. L. 86–211, § 2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, § 1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, § 1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, § 103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, § 7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, § 2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, § 6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§ 101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, § 102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, § 4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, § 1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, § 14(b)(5), June 13, 1991, 105 Stat. 283; renumbered § 1503 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, § 303, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 111–275, title VI, § 604(a), Oct. 13, 2010, 124 Stat. 2885; Pub. L. 112–154, title V, § 509(a), Aug. 6, 2012, 126 Stat. 1195; Pub. L. 114–58, title VI, § 601(3), Sept. 30, 2015, 129 Stat. 538.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 503; Pub. L. 86–211, § 2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, § 1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, § 1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, § 103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, § 7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, § 2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, § 6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§ 101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, § 102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, § 4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, § 1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, § 14(b)(5), June 13, 1991, 105 Stat. 283; renumbered § 1503 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, § 303, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 111–275, title VI, § 604(a), Oct. 13, 2010, 124 Stat. 2885; Pub. L. 112–154, title V, § 509(a), Aug. 6, 2012, 126 Stat. 1195; Pub. L. 114–58, title VI, § 601(3), Sept. 30, 2015, 129 Stat. 538.)
 
 **Editorial Notes**
 
@@ -279,9 +279,9 @@ Sections 2, 6012(a), and 7703 of the Internal Revenue Code of 1986, referred to 
 
 Prior section 1503 was renumbered section 3103 of this title.
 
-Another prior section 1503, added Pub. L. 89–138, § 1, Aug. 26, 1965, 79 Stat. 577; amended Pub. L. 91–24, § 8, June 11, 1969, 83 Stat. 34; Pub. L. 94–502, title I, §§ 102, 104(2), (3), Oct. 15, 1976, 90 Stat. 2384, related to periods of eligibility for vocational rehabilitation under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1503 continue in effect until Mar. 31, 1981.
+Another prior section 1503, added Pub. L. 89–138, § 1, Aug. 26, 1965, 79 Stat. 577; amended Pub. L. 91–24, § 8, June 11, 1969, 83 Stat. 34; Pub. L. 94–502, title I, §§ 102, 104(2), (3), Oct. 15, 1976, 90 Stat. 2384, related to periods of eligibility for vocational rehabilitation under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1503 continue in effect until Mar. 31, 1981.
 
-Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was renumbered 1511 by Pub. L. 89–138, § 2(4), Aug. 26, 1965, 79 Stat. 578.
+Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was renumbered 1511 by Pub. L. 89–138, § 2(4), Aug. 26, 1965, 79 Stat. 578.
 
 **Amendments**
 
@@ -293,71 +293,71 @@ Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was 
 
 2004—Subsec. (a)(11). Pub. L. 108–454 added par. (11).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 503 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 503 of this title as this section.
 
-Subsec. (a)(5). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a)(5). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (a)(8). Pub. L. 102–54, § 14(b)(5)(A), substituted “percent” for “per centum”.
+Subsec. (a)(8). Pub. L. 102–54, § 14(b)(5)(A), substituted “percent” for “per centum”.
 
-Subsec. (a)(10)(A). Pub. L. 102–54, § 14(b)(5)(B), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 6012(a))” and “section 7703” for “section 143”.
+Subsec. (a)(10)(A). Pub. L. 102–54, § 14(b)(5)(B), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 6012(a))” and “section 7703” for “section 143”.
 
 1988—Subsec. (a)(5). Pub. L. 100–687 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “proceeds of fire insurance policies;”.
 
 1982—Subsec. (a)(10)(A). Pub. L. 97–295 inserted “(26 U.S.C. 6012(a))” after “Code of 1954”.
 
-1978—Subsec. (a)(1). Pub. L. 95–588, § 102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which related to payments of six-months death gratuity.
+1978—Subsec. (a)(1). Pub. L. 95–588, § 102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which related to payments of six-months death gratuity.
 
-Subsec. (a)(2). Pub. L. 95–588, § 102(a)(3), redesignated par. (3) as (2) and, as so redesignated, struck out “, and chapters 11 and 13 (except section 412(a)) of this title” after “chapter”. Former par. (2) redesignated (1).
+Subsec. (a)(2). Pub. L. 95–588, § 102(a)(3), redesignated par. (3) as (2) and, as so redesignated, struck out “, and chapters 11 and 13 (except section 412(a)) of this title” after “chapter”. Former par. (2) redesignated (1).
 
-Subsec. (a)(3). Pub. L. 95–588, § 102(a)(5), redesignated par. (7) as (3). Former par. (3) redesignated (2).
+Subsec. (a)(3). Pub. L. 95–588, § 102(a)(5), redesignated par. (7) as (3). Former par. (3) redesignated (2).
 
-Subsec. (a)(4). Pub. L. 95–588, § 102(a)(4), (6), added par. (4) and struck out former par. (4) which related to payments under servicemen’s life insurance or servicemen’s indemnity.
+Subsec. (a)(4). Pub. L. 95–588, § 102(a)(4), (6), added par. (4) and struck out former par. (4) which related to payments under servicemen’s life insurance or servicemen’s indemnity.
 
-Subsec. (a)(5). Pub. L. 95–588, § 102(a)(4), (7), redesignated par. (8) as (5) and struck out former par. (5) which related to lump sum death payments.
+Subsec. (a)(5). Pub. L. 95–588, § 102(a)(4), (7), redesignated par. (8) as (5) and struck out former par. (5) which related to lump sum death payments.
 
-Subsec. (a)(6). Pub. L. 95–588, § 102(a)(4), (9), redesignated par. (10) as (6) and struck out former par. (6) which related to the ten per cent exclusion for individuals under public or private retirement, annuity, endowment, or similar programs.
+Subsec. (a)(6). Pub. L. 95–588, § 102(a)(4), (9), redesignated par. (10) as (6) and struck out former par. (6) which related to the ten per cent exclusion for individuals under public or private retirement, annuity, endowment, or similar programs.
 
-Subsec. (a)(7). Pub. L. 95–588, § 102(a)(11), redesignated par. (15) as (7). Former par. (7) redesignated (3).
+Subsec. (a)(7). Pub. L. 95–588, § 102(a)(11), redesignated par. (15) as (7). Former par. (7) redesignated (3).
 
-Subsec. (a)(8). Pub. L. 95–588, § 102(a)(13), added par. (8). Former par. (8) redesignated (5).
+Subsec. (a)(8). Pub. L. 95–588, § 102(a)(13), added par. (8). Former par. (8) redesignated (5).
 
-Subsec. (a)(9). Pub. L. 95–588, § 102(a)(8), (13), added par. (9) and struck out former par. (9) which related to payments for final illness and burial.
+Subsec. (a)(9). Pub. L. 95–588, § 102(a)(8), (13), added par. (9) and struck out former par. (9) which related to payments for final illness and burial.
 
-Subsec. (a)(10). Pub. L. 95–588, § 102(a)(13), added par. (10). Former subsec. (10) redesignated (6).
+Subsec. (a)(10). Pub. L. 95–588, § 102(a)(13), added par. (10). Former subsec. (10) redesignated (6).
 
-Subsec. (a)(11) to (14). Pub. L. 95–588, § 102(a)(10), struck out pars. (11) to (14) which related to payments for discharge of jury duty, educational assistance allowances, bonuses based on service in the Armed Forces, and indebtednesses secured by mortgages, respectively.
+Subsec. (a)(11) to (14). Pub. L. 95–588, § 102(a)(10), struck out pars. (11) to (14) which related to payments for discharge of jury duty, educational assistance allowances, bonuses based on service in the Armed Forces, and indebtednesses secured by mortgages, respectively.
 
-Subsec. (a)(15). Pub. L. 95–588, § 102(a)(11), redesignated par. (15) as (7).
+Subsec. (a)(15). Pub. L. 95–588, § 102(a)(11), redesignated par. (15) as (7).
 
-Subsec. (a)(16), (17). Pub. L. 95–588, § 102(a)(12), struck out pars. (16) and (17) which related to payments received by retired persons and payments of annuities, respectively.
+Subsec. (a)(16), (17). Pub. L. 95–588, § 102(a)(12), struck out pars. (16) and (17) which related to payments received by retired persons and payments of annuities, respectively.
 
-Subsec. (c). Pub. L. 95–588, § 102(b), struck out former subsec. (c) which related to the power of the Administrator to exclude from income amounts paid by a veteran, surviving spouse, or child for unusual medical expenses.
+Subsec. (c). Pub. L. 95–588, § 102(b), struck out former subsec. (c) which related to the power of the Administrator to exclude from income amounts paid by a veteran, surviving spouse, or child for unusual medical expenses.
 
-1975—Subsec. (a)(7). Pub. L. 94–169, § 106(3), (4), substituted “spouse” for “wife”, “such veteran’s” for “his” and “surviving spouse” for “widow” in introductory clause and “such veteran’s” for “his” in subcls. (A), (B) and (C).
+1975—Subsec. (a)(7). Pub. L. 94–169, § 106(3), (4), substituted “spouse” for “wife”, “such veteran’s” for “his” and “surviving spouse” for “widow” in introductory clause and “such veteran’s” for “his” in subcls. (A), (B) and (C).
 
-Subsec. (a)(9). Pub. L. 94–169, § 106(5), substituted “such veteran’s” for “his” in subcl. (A) and “surviving spouse” and “spouse” for “widow” and “wife”, respectively, in subcl. (B).
+Subsec. (a)(9). Pub. L. 94–169, § 106(5), substituted “such veteran’s” for “his” in subcl. (A) and “surviving spouse” and “spouse” for “widow” and “wife”, respectively, in subcl. (B).
 
-Subsec. (a)(14). Pub. L. 94–169, § 106(6), substituted “such veteran’s surviving spouse” for “his widow”.
+Subsec. (a)(14). Pub. L. 94–169, § 106(6), substituted “such veteran’s surviving spouse” for “his widow”.
 
-Subsec. (a)(16). Pub. L. 94–169, §§ 101(2)(A), 106(7), inserted “and” after “as amended;”, and substituted “such employee’s” for “his”, respectively.
+Subsec. (a)(16). Pub. L. 94–169, §§ 101(2)(A), 106(7), inserted “and” after “as amended;”, and substituted “such employee’s” for “his”, respectively.
 
-Subsec. (c). Pub. L. 94–169, § 106(8), substituted “surviving spouse” for “widow”.
+Subsec. (c). Pub. L. 94–169, § 106(8), substituted “surviving spouse” for “widow”.
 
 1972—Par. (17). Pub. L. 92–425 substituted “subchapter I of chapter 73 of title 10” for “chapter 73 of title 10”.
 
 1971—Pub. L. 92–198 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-1970—Par. (4). Pub. L. 91–588, § 7(1), inserted reference to servicemen’s group life insurance.
+1970—Par. (4). Pub. L. 91–588, § 7(1), inserted reference to servicemen’s group life insurance.
 
-Pars. (14) to (17). Pub. L. 91–588, § 7(3), added pars. (14) to (17).
+Pars. (14) to (17). Pub. L. 91–588, § 7(3), added pars. (14) to (17).
 
-1967—Par. (7). Pub. L. 90–77, § 103(a), provided for exclusion of amounts paid by a wife of a veteran for the expenses of his past illness.
+1967—Par. (7). Pub. L. 90–77, § 103(a), provided for exclusion of amounts paid by a wife of a veteran for the expenses of his past illness.
 
-Par. (9). Pub. L. 90–77, § 103(b), designated existing provisions as subpar. (A) and added subpar. (B).
+Par. (9). Pub. L. 90–77, § 103(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-1964—Par. (6). Pub. L. 88–664, § 1(a), inserted “10 per centum of the amount of” before “payments” and struck out “equal to his contributions thereto” after “programs”.
+1964—Par. (6). Pub. L. 88–664, § 1(a), inserted “10 per centum of the amount of” before “payments” and struck out “equal to his contributions thereto” after “programs”.
 
-Pars. (9) to (13). Pub. L. 88–664, § 1(b), added pars. (9) to (13).
+Pars. (9) to (13). Pub. L. 88–664, § 1(b), added pars. (9) to (13).
 
 1961—Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
 
@@ -367,11 +367,11 @@ Pars. (9) to (13). Pub. L. 88–664, § 1(b), added pars. (9) to (13).
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title V, § 509(b), Aug. 6, 2012, 126 Stat. 1195, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012].”
+Pub. L. 112–154, title V, § 509(b), Aug. 6, 2012, 126 Stat. 1195, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012].”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VI, § 604(b), Oct. 13, 2010, 124 Stat. 2885, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to determinations of income for calendar years beginning after October 1, 2011.”
+Pub. L. 111–275, title VI, § 604(b), Oct. 13, 2010, 124 Stat. 2885, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to determinations of income for calendar years beginning after October 1, 2011.”
 
 **Effective Date of 1978 Amendment**
 
@@ -379,7 +379,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, §§ 101, 106, Dec. 23, 1975, 89 Stat. 1013, 1017, provided that the amendments made by those sections are effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §§ 101, 106, Dec. 23, 1975, 89 Stat. 1013, 1017, provided that the amendments made by those sections are effective Jan. 1, 1976.
 
 **Effective Date of 1971 Amendment**
 
@@ -395,7 +395,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–664, § 11, Oct. 13, 1964, 78 Stat. 1096, provided that:
+Pub. L. 88–664, § 11, Oct. 13, 1964, 78 Stat. 1096, provided that:
 
 > **“(a)** Except as otherwise provided herein, this Act [amending this section and sections 502, 506, 521, 541, 542, 612, and 3104 [now 1502, 1506, 1521, 1541, 1542, 1712, and 5304] of this title and enacting provisions set out as a note under section 1521 of this title] shall take effect on January 1, 1965.
 
@@ -411,13 +411,13 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 
 **Clarification of Treatment of Payments for Purposes of Eligibility for Veterans Pension and Other Veterans Benefits**
 
-Pub. L. 116–136, div. B, title X, § 20010, Mar. 27, 2020, 134 Stat. 589, provided that: “Amounts paid to a person under the 2020 Recovery Rebate in the Coronavirus Aid, Relief, and Economic Security Act [Pub. L. 116–136, see Tables for classification] shall not be treated as income or resources for purposes of determining eligibility for pension under chapter 15 of title 38, United States Code, or any other benefit under a law administered by the Secretary of Veterans Affairs.”
+Pub. L. 116–136, div. B, title X, § 20010, Mar. 27, 2020, 134 Stat. 589, provided that: “Amounts paid to a person under the 2020 Recovery Rebate in the Coronavirus Aid, Relief, and Economic Security Act [Pub. L. 116–136, see Tables for classification] shall not be treated as income or resources for purposes of determining eligibility for pension under chapter 15 of title 38, United States Code, or any other benefit under a law administered by the Secretary of Veterans Affairs.”
 
-### § 1504. Persons heretofore having a pensionable status
+### § 1504. Persons heretofore having a pensionable status
 
 The pension benefits of subchapters II and III of this chapter shall, notwithstanding the service requirements of such subchapters, be granted to persons heretofore recognized by law as having a pensionable status.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 504; renumbered § 1504, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 504; renumbered § 1504, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -425,13 +425,13 @@ The pension benefits of subchapters II and III of this chapter shall, notwithsta
 
 Prior section 1504 was renumbered section 3104 of this title.
 
-Another prior section 1504, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1172; Pub. L. 89–137, § 1(a), Aug. 26, 1965, 79 Stat. 576; Pub. L. 90–431, July 26, 1968, 82 Stat. 447; Pub. L. 91–219, title I, § 101, Mar. 26, 1970, 84 Stat. 76; Pub. L. 92–540, title I, § 101(2), Oct. 24, 1972, 86 Stat. 1074; Pub. L. 93–508, title I, § 101(3), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, § 202, Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title I, §§ 101, 104(4), Oct. 15, 1976, 90 Stat. 2383, 2384; Pub. L. 95–202, title I, § 101, Nov. 23, 1977, 91 Stat. 1433, related to subsistence allowances to be paid veterans while pursuing a course of vocational rehabilitation training under chapter 31 of this title, prior to repeal, effective Oct. 1, 1980, by Pub. L. 96–466, title VIII, § 802(a)(4), Oct. 17, 1980, 94 Stat. 2218. See section 3108 of this title.
+Another prior section 1504, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1172; Pub. L. 89–137, § 1(a), Aug. 26, 1965, 79 Stat. 576; Pub. L. 90–431, July 26, 1968, 82 Stat. 447; Pub. L. 91–219, title I, § 101, Mar. 26, 1970, 84 Stat. 76; Pub. L. 92–540, title I, § 101(2), Oct. 24, 1972, 86 Stat. 1074; Pub. L. 93–508, title I, § 101(3), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, § 202, Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title I, §§ 101, 104(4), Oct. 15, 1976, 90 Stat. 2383, 2384; Pub. L. 95–202, title I, § 101, Nov. 23, 1977, 91 Stat. 1433, related to subsistence allowances to be paid veterans while pursuing a course of vocational rehabilitation training under chapter 31 of this title, prior to repeal, effective Oct. 1, 1980, by Pub. L. 96–466, title VIII, § 802(a)(4), Oct. 17, 1980, 94 Stat. 2218. See section 3108 of this title.
 
 **Amendments**
 
 1991—Pub. L. 102–83 renumbered section 504 of this title as this section.
 
-### § 1505. Payment of pension during confinement in penal institutions
+### § 1505. Payment of pension during confinement in penal institutions
 
 **(a)** No pension under public or private laws administered by the Secretary shall be paid to or for an individual who has been imprisoned in a Federal, State, local, or other penal institution or correctional facility as a result of conviction of a felony or misdemeanor for any part of the period beginning sixty-one days after such individual’s imprisonment begins and ending when such individual’s imprisonment ends.
 
@@ -439,7 +439,7 @@ Another prior section 1504, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1172; Pub.
 
 **(c)** Where any surviving spouse or child of a veteran is disqualified for pension for any period solely by reason of subsection (a) of this section, the Secretary may (1) if the surviving spouse is so disqualified, pay to the child, or children, the pension which would be payable if there were no such surviving spouse or (2) if a child is so disqualified, pay to the surviving spouse or other children, as applicable, the pension which would be payable if there were no such child.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 505; Pub. L. 94–169, title I, § 106(9)–(11), Dec. 23, 1975, 89 Stat. 1017; renumbered § 1505 and amended Pub. L. 102–83, §§ 4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 109–461, title X, § 1002(a), Dec. 22, 2006, 120 Stat. 3464.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, § 505; Pub. L. 94–169, title I, § 106(9)–(11), Dec. 23, 1975, 89 Stat. 1017; renumbered § 1505 and amended Pub. L. 102–83, §§ 4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 109–461, title X, § 1002(a), Dec. 22, 2006, 120 Stat. 3464.)
 
 **Editorial Notes**
 
@@ -447,31 +447,31 @@ Another prior section 1504, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1172; Pub.
 
 Prior section 1505 was renumbered section 3105 of this title.
 
-Another prior section 1505, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1172; Pub. L. 94–502, title I, § 104(5), Oct. 15, 1976, 90 Stat. 2384, related to leaves of absence to veterans pursuing a course of vocational rehabilitation training under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1505 continue in effect until Mar. 31, 1981. See section 3110 of this title.
+Another prior section 1505, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1172; Pub. L. 94–502, title I, § 104(5), Oct. 15, 1976, 90 Stat. 2384, related to leaves of absence to veterans pursuing a course of vocational rehabilitation training under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1505 continue in effect until Mar. 31, 1981. See section 3110 of this title.
 
 **Amendments**
 
 2006—Subsec. (a). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 505 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 505 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsecs. (b), (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsecs. (b), (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1975—Subsec. (a). Pub. L. 94–169, § 106(9), substituted “such individual’s” for “his” wherever appearing.
+1975—Subsec. (a). Pub. L. 94–169, § 106(9), substituted “such individual’s” for “his” wherever appearing.
 
-Subsec. (b). Pub. L. 94–169, § 106(10), substituted “such veteran’s spouse” for “his wife”.
+Subsec. (b). Pub. L. 94–169, § 106(10), substituted “such veteran’s spouse” for “his wife”.
 
-Subsec. (c). Pub. L. 94–169, § 106(11), substituted “surviving spouse” for “widow” wherever appearing.
+Subsec. (c). Pub. L. 94–169, § 106(11), substituted “surviving spouse” for “widow” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-### § 1506. Resource reports and overpayment adjustments
+### § 1506. Resource reports and overpayment adjustments
 
 As a condition of granting or continuing pension under section 1521, 1541, or 1542 of this title, the Secretary—
 
@@ -489,7 +489,7 @@ As a condition of granting or continuing pension under section 1521, 1541, or 15
 
 **(4)** shall require that any such applicant or recipient applying for or in receipt of increased pension on account of a person who is a spouse or child of such applicant or recipient promptly notify the Secretary if such person ceases to meet the applicable definition of spouse or child.
 
-(Added Pub. L. 86–211, § 2(b), Aug. 29, 1959, 73 Stat. 432, § 506; amended Pub. L. 88–664, § 2, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 91–588, § 6, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 94–169, title I, § 106(12)–(14), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, § 103, Nov. 4, 1978, 92 Stat. 2498; Pub. L. 96–466, title VI, § 605(c)(2), Oct. 17, 1980, 94 Stat. 2211; renumbered § 1506 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–271, § 9(b), July 1, 1994, 108 Stat. 743.)
+(Added Pub. L. 86–211, § 2(b), Aug. 29, 1959, 73 Stat. 432, § 506; amended Pub. L. 88–664, § 2, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 91–588, § 6, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 94–169, title I, § 106(12)–(14), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, § 103, Nov. 4, 1978, 92 Stat. 2498; Pub. L. 96–466, title VI, § 605(c)(2), Oct. 17, 1980, 94 Stat. 2211; renumbered § 1506 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–271, § 9(b), July 1, 1994, 108 Stat. 743.)
 
 **Editorial Notes**
 
@@ -501,17 +501,17 @@ Another prior section 1506, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173, auth
 
 **Amendments**
 
-1994—Par. (2). Pub. L. 103–271, § 9(b)(1), substituted “may require” for “shall require” and “file for a calendar year” for “file each year” in introductory provisions.
+1994—Par. (2). Pub. L. 103–271, § 9(b)(1), substituted “may require” for “shall require” and “file for a calendar year” for “file each year” in introductory provisions.
 
-Par. (3). Pub. L. 103–271, § 9(b)(2), substituted “notify the Secretary” for “file a revised report”, struck out “estimated” before “annual income” in two places, and struck out “such applicant’s or recipient’s estimate of” before “the value of the corpus of the estate of such applicant”.
+Par. (3). Pub. L. 103–271, § 9(b)(2), substituted “notify the Secretary” for “file a revised report”, struck out “estimated” before “annual income” in two places, and struck out “such applicant’s or recipient’s estimate of” before “the value of the corpus of the estate of such applicant”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 506 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 506 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1521, 1541, or 1542” for “521, 541, or 542” in introductory provisions and “1542” for “542” in par. (1).
+Pub. L. 102–83, § 5(c)(1), substituted “1521, 1541, or 1542” for “521, 541, or 542” in introductory provisions and “1542” for “542” in par. (1).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and pars. (1), (2), and (4).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and pars. (1), (2), and (4).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (2) introductory provisions.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (2) introductory provisions.
 
 1980—Pub. L. 96–466 struck out “(a)” before “As a condition” and struck out subsec. (b) which provided that in the event of an overpayment of pension under section 521, 541, or 542 of this title, the amount thereof be deducted (unless waived) from any future payments made thereunder to the person concerned.
 
@@ -521,7 +521,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 1970—Subsec. (a)(2). Pub. L. 91–588 exempted from filing requirements of this section any person who has attained 72 years of age and has been paid a pension under sections 521, 541, or 542 of this title during two consecutive calendar years.
 
-1964—Subsec. (a)(2). Pub. L. 88–664 inserted “, other than a child,” after “person”.
+1964—Subsec. (a)(2). Pub. L. 88–664 inserted “, other than a child,” after “person”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -535,7 +535,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1970 Amendment**
 
@@ -547,13 +547,13 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 **Effective Date**
 
-Pub. L. 86–211, § 10, Aug. 29, 1959, 73 Stat. 436, provided that: “This Act [see Tables for classification] shall take effect on July 1, 1960.”
+Pub. L. 86–211, § 10, Aug. 29, 1959, 73 Stat. 436, provided that: “This Act [see Tables for classification] shall take effect on July 1, 1960.”
 
-### § 1507. Disappearance
+### § 1507. Disappearance
 
 Where a veteran receiving pension under subchapter II of this chapter disappears, the Secretary may pay the pension otherwise payable to such veteran’s spouse and children. In applying the provisions of this section, the Secretary may presume, without reports pursuant to section 1506(a) of this title, that the status of the veteran at the time of disappearance, with respect to permanent and total disability, income, and net worth, continues unchanged. Payments made to a spouse or child under this section shall not exceed the amount to which each would be entitled if the veteran died of a non-service-connected disability.
 
-(Added Pub. L. 89–467, § 1(a), June 22, 1966, 80 Stat. 218, § 507; amended Pub. L. 94–169, title I, § 106(15), Dec. 23, 1975, 89 Stat. 1017; renumbered § 1507 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 89–467, § 1(a), June 22, 1966, 80 Stat. 218, § 507; amended Pub. L. 94–169, title I, § 106(15), Dec. 23, 1975, 89 Stat. 1017; renumbered § 1507 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -561,15 +561,15 @@ Where a veteran receiving pension under subchapter II of this chapter disappears
 
 Prior section 1507 was renumbered section 3107 of this title.
 
-Another prior section 1507, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 92–540, title I, § 101(3), Oct. 24, 1972, 86 Stat. 1074; Pub. L. 94–502, title I, § 104(6), Oct. 15, 1976, 90 Stat. 2384, related to loans to trainees commencing or undertaking courses of vocational rehabilitation under chapter 31 of this title, prior to repeal, effective Oct. 1, 1980, by Pub. L. 96–466, title VIII, § 802(a)(4), Oct. 17, 1980, 94 Stat. 2218. See section 3112 of this title.
+Another prior section 1507, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 92–540, title I, § 101(3), Oct. 24, 1972, 86 Stat. 1074; Pub. L. 94–502, title I, § 104(6), Oct. 15, 1976, 90 Stat. 2384, related to loans to trainees commencing or undertaking courses of vocational rehabilitation under chapter 31 of this title, prior to repeal, effective Oct. 1, 1980, by Pub. L. 96–466, title VIII, § 802(a)(4), Oct. 17, 1980, 94 Stat. 2218. See section 3112 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 507 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 507 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1506(a)” for “506(a)”.
+Pub. L. 102–83, § 5(c)(1), substituted “1506(a)” for “506(a)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
 1975—Pub. L. 94–169 struck out “in his discretion” after “Administrator” and substituted “payable to such veteran’s spouse” for “payable to his wife,” and “made to a spouse” for “made to a wife”.
 
@@ -577,15 +577,15 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-### § 1508. Frequency of payment of pension benefits
+### § 1508. Frequency of payment of pension benefits
 
 **(a)** Except as provided under subsection (b) of this section, benefits under sections 1521, 1541, and 1542 of this title shall be paid monthly.
 
 **(b)** Under regulations which the Secretary shall prescribe, benefits under sections 1521, 1541, and 1542 of this title may be paid less frequently than monthly if the amount of the annual benefit is less than 4 percent of the maximum annual rate payable to a veteran under section 1521(b) of this title.
 
-(Added Pub. L. 95–588, title I, § 104(a), Nov. 4, 1978, 92 Stat. 2499, § 508; amended Pub. L. 102–54, § 14(b)(6), June 13, 1991, 105 Stat. 283; renumbered § 1508 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 95–588, title I, § 104(a), Nov. 4, 1978, 92 Stat. 2499, § 508; amended Pub. L. 102–54, § 14(b)(6), June 13, 1991, 105 Stat. 283; renumbered § 1508 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -593,25 +593,25 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that
 
 Prior section 1508 was renumbered section 3108 of this title.
 
-Another prior section 1508, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 94–502, title I, § 104(7), Oct. 15, 1976, 90 Stat. 2384, authorized Administrator to prescribe rules and regulations to promote good conduct and cooperation on the part of veterans receiving vocational rehabilitation under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1508 continue in effect until Mar. 31, 1981. See section 3111 of this title.
+Another prior section 1508, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 94–502, title I, § 104(7), Oct. 15, 1976, 90 Stat. 2384, authorized Administrator to prescribe rules and regulations to promote good conduct and cooperation on the part of veterans receiving vocational rehabilitation under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1508 continue in effect until Mar. 31, 1981. See section 3111 of this title.
 
 Prior section 1509 was renumbered section 3109 of this title.
 
-Another prior section 1509, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 94–502, title I, § 104(8), (9), Oct. 15, 1976, 90 Stat. 2384, related to books, supplies, and equipment furnished a veteran under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1509 continue in effect until Mar. 31, 1981.
+Another prior section 1509, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 94–502, title I, § 104(8), (9), Oct. 15, 1976, 90 Stat. 2384, related to books, supplies, and equipment furnished a veteran under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1509 continue in effect until Mar. 31, 1981.
 
 Prior section 1510 was renumbered section 3110 of this title.
 
-Another prior section 1510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 94–502, title I, § 104(10), Oct. 15, 1976, 90 Stat. 2384, related to vocational rehabilitation of persons hospitalized pending final discharge from the active military, naval, or air service, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of chapter 31 of this title, provided that this prior section 1510 continue in effect until Mar. 31, 1981. See section 3113 of this title.
+Another prior section 1510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 94–502, title I, § 104(10), Oct. 15, 1976, 90 Stat. 2384, related to vocational rehabilitation of persons hospitalized pending final discharge from the active military, naval, or air service, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of chapter 31 of this title, provided that this prior section 1510 continue in effect until Mar. 31, 1981. See section 3113 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 508 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 508 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1521, 1541, and 1542” for “521, 541, and 542”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1521, 1541, and 1542” for “521, 541, and 542”.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1521, 1541, and 1542” for “521, 541, and 542” and “1521(b)” for “521(b)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1521, 1541, and 1542” for “521, 541, and 542” and “1521(b)” for “521(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–54 substituted “percent” for “per centum”.
 
@@ -625,15 +625,15 @@ Section effective Jan. 1, 1979, see section 401 of Pub. L. 95–588, set out as 
 
 ### Service Pension
 
-#### [§ 1510. Vacant]
+#### [§ 1510. Vacant]
 
 **Editorial Notes**
 
 **Codification**
 
-Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 1543 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 510 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, which provided monthly pension for persons who served in military or naval forces of Confederate States of America, was repealed by Pub. L. 94–169, title I, § 101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
+Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 1543 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 510 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, which provided monthly pension for persons who served in military or naval forces of Confederate States of America, was repealed by Pub. L. 94–169, title I, § 101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
 
-#### § 1511. Indian War veterans
+#### § 1511. Indian War veterans
 
 **(a)** The Secretary shall pay to each veteran of the Indian Wars who meets the service requirements of this section a pension at the following monthly rate:
 
@@ -655,7 +655,7 @@ in any military organization, whether or not such service was the result of regu
 
 **(2)** The Secretary shall pay each month to each veteran of the Indian Wars who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (A) that provided by paragraph (2) of subsection (a) of this section, or (B) that which is payable to the veteran under section 1521 of this title if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to paragraph (1) of this subsection. Each change in the amount of pension payment required by this paragraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, § 511; Pub. L. 86–670, § 1, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, § 111(a), Aug. 31, 1967, 81 Stat. 181; Pub. L. 94–169, title I, § 106(16), Dec. 23, 1975, 89 Stat. 1017; renumbered § 1511 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, § 511; Pub. L. 86–670, § 1, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, § 111(a), Aug. 31, 1967, 81 Stat. 181; Pub. L. 94–169, title I, § 106(16), Dec. 23, 1975, 89 Stat. 1017; renumbered § 1511 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -663,17 +663,17 @@ in any military organization, whether or not such service was the result of regu
 
 Prior section 1511 was renumbered section 3111 of this title.
 
-Another prior section 1511, Pub. L. 85–857, Sept. 2,1958, 72 Stat. 1171, § 1503, renumbered Pub. L. 89–138, § 2(4), Aug. 26, 1965, 79 Stat. 578, and amended Pub. L. 94–502, title , §§ 103, 104(11), Oct. 15, 1976, 90 Stat. 2384, related to training and training facilities under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1511 continue in effect until Mar. 31, 1981. See section 3115 of this title.
+Another prior section 1511, Pub. L. 85–857, Sept. 2,1958, 72 Stat. 1171, § 1503, renumbered Pub. L. 89–138, § 2(4), Aug. 26, 1965, 79 Stat. 578, and amended Pub. L. 94–502, title , §§ 103, 104(11), Oct. 15, 1976, 90 Stat. 2384, related to training and training facilities under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1511 continue in effect until Mar. 31, 1981. See section 3115 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 511 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 511 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521” in pars. (1) and (2).
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521” in pars. (1) and (2).
 
-Subsec. (c)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1975—Subsecs. (b), (c). Pub. L. 94–169 substituted “such veteran” for “he” wherever appearing.
 
@@ -685,7 +685,7 @@ Subsec. (c)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1967 Amendment**
 
@@ -693,9 +693,9 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–670, § 3, July 14, 1960, 74 Stat. 545, provided that: “This Act [amending this section and section 512 [now 1512] of this title] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act [July 14, 1960].”
+Pub. L. 86–670, § 3, July 14, 1960, 74 Stat. 545, provided that: “This Act [amending this section and section 512 [now 1512] of this title] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act [July 14, 1960].”
 
-#### § 1512. Spanish-American War veterans
+#### § 1512. Spanish-American War veterans
 
 **(a)**
 
@@ -733,7 +733,7 @@ Pub. L. 86–670, § 3, July 14, 1960, 74 Stat. 545, provided that: “This Ac
 
 **(B)** for a period of seventy consecutive days or more and such period began or ended during the Spanish-American War.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, § 512; Pub. L. 86–670, § 2, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, § 111(b), Aug. 31, 1967, 81 Stat. 181; Pub. L. 94–169, title I, § 106(17), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, § 105, Nov. 4, 1978, 92 Stat. 2500; renumbered § 1512 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, § 512; Pub. L. 86–670, § 2, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, § 111(b), Aug. 31, 1967, 81 Stat. 181; Pub. L. 94–169, title I, § 106(17), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, § 105, Nov. 4, 1978, 92 Stat. 2500; renumbered § 1512 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -743,21 +743,21 @@ A prior section 1512 was renumbered section 3112 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 512 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 512 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (a)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (a)(3)(A). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521”.
+Subsec. (a)(3)(A). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521”.
 
-Subsec. (a)(3)(B). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521”.
+Subsec. (a)(3)(B). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-1978—Subsec. (a)(3)(A). Pub. L. 95–588, § 105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception to pension elections formerly provided pursuant to subpar. (B).
+1978—Subsec. (a)(3)(A). Pub. L. 95–588, § 105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception to pension elections formerly provided pursuant to subpar. (B).
 
-Subsec. (a)(3)(B). Pub. L. 95–588, § 105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
+Subsec. (a)(3)(B). Pub. L. 95–588, § 105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
 
 1975—Subsec. (a). Pub. L. 94–169 substituted “such veteran” for “he” wherever appearing.
 
@@ -775,7 +775,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1967 Amendment**
 
@@ -785,13 +785,13 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 Amendment by Pub. L. 86–670 effective first day of second calendar month which begins after July 14, 1960, see section 3 of Pub. L. 86–670, set out as a note under section 1511 of this title.
 
-#### § 1513. Veterans 65 years of age and older
+#### § 1513. Veterans 65 years of age and older
 
 **(a)** The Secretary shall pay to each veteran of a period of war who is 65 years of age or older and who meets the service requirements of section 1521 of this title (as prescribed in subsection (j) of that section) pension at the rates prescribed by section 1521 of this title and under the conditions (other than the permanent and total disability requirement) applicable to pension paid under that section.
 
 **(b)** If a veteran is eligible for pension under both this section and section 1521 of this title, pension shall be paid to the veteran only under section 1521 of this title.
 
-(Added Pub. L. 107–103, title II, § 207(a)(1), Dec. 27, 2001, 115 Stat. 991; amended Pub. L. 109–233, title V, § 503(2), June 15, 2006, 120 Stat. 416.)
+(Added Pub. L. 107–103, title II, § 207(a)(1), Dec. 27, 2001, 115 Stat. 991; amended Pub. L. 109–233, title V, § 503(2), June 15, 2006, 120 Stat. 416.)
 
 **Editorial Notes**
 
@@ -807,11 +807,11 @@ Prior sections 1513 to 1520 were renumbered sections 3113 to 3120 of this title,
 
 **Effective Date**
 
-Pub. L. 107–103, title II, § 207(c), Dec. 27, 2001, 115 Stat. 991, provided that: “The amendments made by this section [enacting this section and amending sections 1521 and 1522 of this title] shall take effect as of September 17, 2001.”
+Pub. L. 107–103, title II, § 207(c), Dec. 27, 2001, 115 Stat. 991, provided that: “The amendments made by this section [enacting this section and amending sections 1521 and 1522 of this title] shall take effect as of September 17, 2001.”
 
 ### Non-Service-Connected Disability Pension
 
-#### § 1521. Veterans of a period of war
+#### § 1521. Veterans of a period of war
 
 **(a)** The Secretary shall pay to each veteran of a period of war who meets the service requirements of this section (as prescribed in subsection (j) of this section) and who is permanently and totally disabled from non-service-connected disability not the result of the veteran’s willful misconduct, pension at the rate prescribed by this section, as increased from time to time under section 5312 of this title.
 
@@ -859,7 +859,7 @@ Pub. L. 107–103, title II, § 207(c), Dec. 27, 2001, 115 Stat. 991, provided
 
 **(4)** for an aggregate of ninety days or more in two or more separate periods of service during more than one period of war.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, § 521; Pub. L. 86–211, § 3(a), Aug. 29, 1959, 73 Stat. 433; Pub. L. 87–101, § 1, July 21, 1961, 75 Stat. 218; Pub. L. 88–664, §§ 3(a), (b), 5, 6(a), 7, Oct. 13, 1964, 78 Stat. 1094, 1095; Pub. L. 90–77, title I, § 104, title II, § 202(a)–(c), Aug. 31, 1967, 81 Stat. 179, 182; Pub. L. 90–275, § 1(a), (b), Mar. 28, 1968, 82 Stat. 64, 65; Pub. L. 91–588, §§ 1(a), (b), 3(b), 9(c), Dec. 24, 1970, 84 Stat. 1580, 1583, 1584; Pub. L. 92–198, §§ 1(a), (b), 5(b), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, § 1(a), (b), Dec. 6, 1973, 87 Stat. 694; Pub. L. 93–527, § 2, Dec. 21, 1974, 88 Stat. 1702; Pub. L. 94–169, title I, §§ 102, 106(18), Dec. 23, 1975, 89 Stat. 1014, 1018; Pub. L. 94–432, title II, § 202, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 95–204, title I, § 101, Dec. 2, 1977, 91 Stat. 1455; Pub. L. 95–588, title I, § 106(a), Nov. 4, 1978, 92 Stat. 2500; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1521 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, § 207(b)(1), Dec. 27, 2001, 115 Stat. 991; Pub. L. 111–275, title VI, § 608(a), Oct. 13, 2010, 124 Stat. 2886; Pub. L. 112–154, title V, § 508(a), Aug. 6, 2012, 126 Stat. 1194; Pub. L. 116–283, div. A, title IX, § 926(a)(19), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, § 521; Pub. L. 86–211, § 3(a), Aug. 29, 1959, 73 Stat. 433; Pub. L. 87–101, § 1, July 21, 1961, 75 Stat. 218; Pub. L. 88–664, §§ 3(a), (b), 5, 6(a), 7, Oct. 13, 1964, 78 Stat. 1094, 1095; Pub. L. 90–77, title I, § 104, title II, § 202(a)–(c), Aug. 31, 1967, 81 Stat. 179, 182; Pub. L. 90–275, § 1(a), (b), Mar. 28, 1968, 82 Stat. 64, 65; Pub. L. 91–588, §§ 1(a), (b), 3(b), 9(c), Dec. 24, 1970, 84 Stat. 1580, 1583, 1584; Pub. L. 92–198, §§ 1(a), (b), 5(b), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, § 1(a), (b), Dec. 6, 1973, 87 Stat. 694; Pub. L. 93–527, § 2, Dec. 21, 1974, 88 Stat. 1702; Pub. L. 94–169, title I, §§ 102, 106(18), Dec. 23, 1975, 89 Stat. 1014, 1018; Pub. L. 94–432, title II, § 202, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 95–204, title I, § 101, Dec. 2, 1977, 91 Stat. 1455; Pub. L. 95–588, title I, § 106(a), Nov. 4, 1978, 92 Stat. 2500; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1521 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, § 207(b)(1), Dec. 27, 2001, 115 Stat. 991; Pub. L. 111–275, title VI, § 608(a), Oct. 13, 2010, 124 Stat. 2886; Pub. L. 112–154, title V, § 508(a), Aug. 6, 2012, 126 Stat. 1194; Pub. L. 116–283, div. A, title IX, § 926(a)(19), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -873,37 +873,37 @@ Prior section 1521 was renumbered section 3121 of this title.
 
 2012—Subsec. (f)(2). Pub. L. 112–154 substituted “$32,433” for “$30,480”.
 
-2010—Subsec. (b). Pub. L. 111–275, § 608(a)(1), substituted “$11,830” for “$3,550”.
+2010—Subsec. (b). Pub. L. 111–275, § 608(a)(1), substituted “$11,830” for “$3,550”.
 
-Subsec. (c). Pub. L. 111–275, § 608(a)(2), substituted “$15,493” for “$4,651” and “$2,020” for “$600”.
+Subsec. (c). Pub. L. 111–275, § 608(a)(2), substituted “$15,493” for “$4,651” and “$2,020” for “$600”.
 
-Subsec. (d)(1). Pub. L. 111–275, § 608(a)(3)(A), substituted “$19,736” for “$5,680”.
+Subsec. (d)(1). Pub. L. 111–275, § 608(a)(3)(A), substituted “$19,736” for “$5,680”.
 
-Subsec. (d)(2). Pub. L. 111–275, § 608(a)(3)(B), substituted “$23,396” for “$6,781” and “$2,020” for “$600”.
+Subsec. (d)(2). Pub. L. 111–275, § 608(a)(3)(B), substituted “$23,396” for “$6,781” and “$2,020” for “$600”.
 
-Subsec. (e). Pub. L. 111–275, § 608(a)(4), substituted “$14,457” for “$4,340”, “$18,120” for “$5,441”, and “$2,020” for “$600”.
+Subsec. (e). Pub. L. 111–275, § 608(a)(4), substituted “$14,457” for “$4,340”, “$18,120” for “$5,441”, and “$2,020” for “$600”.
 
-Subsec. (f)(1). Pub. L. 111–275, § 608(a)(5)(A), substituted “$15,493” for “$4,651”.
+Subsec. (f)(1). Pub. L. 111–275, § 608(a)(5)(A), substituted “$15,493” for “$4,651”.
 
-Subsec. (f)(2). Pub. L. 111–275, § 608(a)(5)(B), substituted “$23,396” for “$6,781” and “$30,480” for “$8,911”.
+Subsec. (f)(2). Pub. L. 111–275, § 608(a)(5)(B), substituted “$23,396” for “$6,781” and “$30,480” for “$8,911”.
 
-Subsec. (f)(3). Pub. L. 111–275, § 608(a)(5)(C), substituted “$18,120” for “$5,441” and “$20,747” for “$6,231”.
+Subsec. (f)(3). Pub. L. 111–275, § 608(a)(5)(C), substituted “$18,120” for “$5,441” and “$20,747” for “$6,231”.
 
-Subsec. (f)(4). Pub. L. 111–275, § 608(a)(5)(D), substituted “$26,018” for “$7,571”.
+Subsec. (f)(4). Pub. L. 111–275, § 608(a)(5)(D), substituted “$26,018” for “$7,571”.
 
-Subsec. (f)(5). Pub. L. 111–275, § 608(a)(5)(E), substituted “$2,020” for “$600”.
+Subsec. (f)(5). Pub. L. 111–275, § 608(a)(5)(E), substituted “$2,020” for “$600”.
 
-Subsec. (g). Pub. L. 111–275, § 608(a)(6), substituted “$2,686” for “$800”.
+Subsec. (g). Pub. L. 111–275, § 608(a)(6), substituted “$2,686” for “$800”.
 
 2001—Subsec. (f)(1). Pub. L. 107–103 inserted “or the age and service requirements prescribed in section 1513 of this title,” after “of this section,”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 521 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 521 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–40 substituted “5312” for “3112”.
 
-Subsecs. (h)(1), (i). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsecs. (h)(1), (i). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1978—Subsec. (a). Pub. L. 95–588 revised pension eligibility requirements to speak in terms of a veteran of any period of war rather than veterans of specifically named wars and inserted reference to periodic pension increases pursuant to section 3112 of this title.
 
@@ -923,117 +923,117 @@ Subsec. (h). Pub. L. 95–588 substituted provisions authorizing inclusion of in
 
 Subsecs. (i), (j). Pub. L. 95–588 added subsecs. (i) and (j).
 
-1977—Subsec. (b)(1). Pub. L. 95–204, § 101(1), increased monthly rate of pension from $185 to $197, and substituted “1,100” for “1,500” in two places, “1,700” for “1,800” in two places, and “3,770” for “3,540”.
+1977—Subsec. (b)(1). Pub. L. 95–204, § 101(1), increased monthly rate of pension from $185 to $197, and substituted “1,100” for “1,500” in two places, “1,700” for “1,800” in two places, and “3,770” for “3,540”.
 
-Subsec. (b)(3). Pub. L. 95–204, § 101(2), substituted “$3,770” for “$3,540”.
+Subsec. (b)(3). Pub. L. 95–204, § 101(2), substituted “$3,770” for “$3,540”.
 
-Subsec. (c)(1). Pub. L. 95–204, § 101(3), increased monthly rates of pension from $199 to $212, $204 to $217, and $209 to $222, and substituted “1,000” for “1,100” in two places, “2,000” for “2,400” in two places, “3,000” for “3,100” in two places, “3,200” for “3,500” in two places, “3,600” for “3,700” in two places and “5,070” for “4,760”.
+Subsec. (c)(1). Pub. L. 95–204, § 101(3), increased monthly rates of pension from $199 to $212, $204 to $217, and $209 to $222, and substituted “1,000” for “1,100” in two places, “2,000” for “2,400” in two places, “3,000” for “3,100” in two places, “3,200” for “3,500” in two places, “3,600” for “3,700” in two places and “5,070” for “4,760”.
 
-Subsec. (c)(3). Pub. L. 95–204, § 101(4), substituted “$5,070” for “$4,760”.
+Subsec. (c)(3). Pub. L. 95–204, § 101(4), substituted “$5,070” for “$4,760”.
 
-Subsec. (d). Pub. L. 95–204, § 101(5), substituted “$165” for “$155” in pars. (1) and (2).
+Subsec. (d). Pub. L. 95–204, § 101(5), substituted “$165” for “$155” in pars. (1) and (2).
 
-Subsec. (e). Pub. L. 95–204, § 101(6), substituted “$61” for “$57”.
+Subsec. (e). Pub. L. 95–204, § 101(6), substituted “$61” for “$57”.
 
-1976—Subsec. (b)(1). Pub. L. 94–432, § 202(1), increased monthly rate of pension from $173 to $185 and substituted $700 to $900 for $700 to $1,200, $900 to $1,500 for $1,200 to $1,700, $1,500 to $1,800 for $1,700 to $2,000, and $1,800 to $3,540 for $2,000 to $3,300.
+1976—Subsec. (b)(1). Pub. L. 94–432, § 202(1), increased monthly rate of pension from $173 to $185 and substituted $700 to $900 for $700 to $1,200, $900 to $1,500 for $1,200 to $1,700, $1,500 to $1,800 for $1,700 to $2,000, and $1,800 to $3,540 for $2,000 to $3,300.
 
-Subsec. (b)(3). Pub. L. 94–432, § 202(2), substituted “$3,540” for “$3,300”.
+Subsec. (b)(3). Pub. L. 94–432, § 202(2), substituted “$3,540” for “$3,300”.
 
-Subsec. (c)(1). Pub. L. 94–432, § 202(3), increased monthly rate of pension by $13 from $186 to $199, from $191 to $204, and from $196 to $209, of a veteran with 1, 2, and 3 dependents, substituting “he or she” for “such veteran” in three places, substituted $700 to $1100 for $700 to $1,300, $1,100 to $2,400 for $1,300 to $2,800, $2,400 to $3,100 for $2,800 to $3,200, $3,100 to $3,500 for $3,200 to $3,800, and $3,700 to $4,760 for $3,800 to $4,500, and inserted “.07” ranging from $3,500 to $3,700.
+Subsec. (c)(1). Pub. L. 94–432, § 202(3), increased monthly rate of pension by $13 from $186 to $199, from $191 to $204, and from $196 to $209, of a veteran with 1, 2, and 3 dependents, substituting “he or she” for “such veteran” in three places, substituted $700 to $1100 for $700 to $1,300, $1,100 to $2,400 for $1,300 to $2,800, $2,400 to $3,100 for $2,800 to $3,200, $3,100 to $3,500 for $3,200 to $3,800, and $3,700 to $4,760 for $3,800 to $4,500, and inserted “.07” ranging from $3,500 to $3,700.
 
-Subsec. (c)(3). Pub. L. 94–432, § 202(4), substituted “$4,760” for “$4,500”.
+Subsec. (c)(3). Pub. L. 94–432, § 202(4), substituted “$4,760” for “$4,500”.
 
-Subsec. (d). Pub. L. 94–432, § 202(5), designated existing provisions as par. (1), substituted “$155” for “$133” and added par. (2).
+Subsec. (d). Pub. L. 94–432, § 202(5), designated existing provisions as par. (1), substituted “$155” for “$133” and added par. (2).
 
-Subsec. (e). Pub. L. 94–432, § 202(6), substituted “$57” for “$53”.
+Subsec. (e). Pub. L. 94–432, § 202(6), substituted “$57” for “$53”.
 
-Subsec. (h). Pub. L. 94–432, § 202(7), added subsec. (h).
+Subsec. (h). Pub. L. 94–432, § 202(7), added subsec. (h).
 
-1975—Subsec. (b). Pub. L. 94–169, § 102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $160 to $173, substituted $500 to $700 for $500 to $900, $700 to $1200 for $900 to $1500, $1200 to $1700 for $1500 to $1900, $1700 to $2000 for $1900 to $2300, $2000 to $3300 for $2300 to $3000 the minimum and maximum income ranges for which the pension rate will be reduced by 4, 5, 6, 7 and 8 cents per dollar, respectively, and increased from $3000 to $3300 the maximum income in excess of which no pension shall be paid.
+1975—Subsec. (b). Pub. L. 94–169, § 102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $160 to $173, substituted $500 to $700 for $500 to $900, $700 to $1200 for $900 to $1500, $1200 to $1700 for $1500 to $1900, $1700 to $2000 for $1900 to $2300, $2000 to $3300 for $2300 to $3000 the minimum and maximum income ranges for which the pension rate will be reduced by 4, 5, 6, 7 and 8 cents per dollar, respectively, and increased from $3000 to $3300 the maximum income in excess of which no pension shall be paid.
 
-Subsec. (c). Pub. L. 94–169, § 102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, from $172 to $186, from $177 to $191 and from $182 to $196 the rate of pension of a veteran with 1, 2 and 3 dependents, respectively, substituted $700 to $1300 for $700 to $1800, $1300 to $2800 for $1800 to $3000, $2800 to $3200 for $3000 to $3500, $3200 to $3800 for $3500 to $3800, and $3800 to $4500 for $4000 to $4200 the minimum and maximum income ranges for which the pension rate will be reduced by 3, 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $3800 to $4000 for which the reduction rate is 7 cents per dollar, increased from $4200 to $4500 the income in excess of which no pension shall be paid, and inserted provision that in no case may the amount of pension be less than $5 monthly.
+Subsec. (c). Pub. L. 94–169, § 102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, from $172 to $186, from $177 to $191 and from $182 to $196 the rate of pension of a veteran with 1, 2 and 3 dependents, respectively, substituted $700 to $1300 for $700 to $1800, $1300 to $2800 for $1800 to $3000, $2800 to $3200 for $3000 to $3500, $3200 to $3800 for $3500 to $3800, and $3800 to $4500 for $4000 to $4200 the minimum and maximum income ranges for which the pension rate will be reduced by 3, 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $3800 to $4000 for which the reduction rate is 7 cents per dollar, increased from $4200 to $4500 the income in excess of which no pension shall be paid, and inserted provision that in no case may the amount of pension be less than $5 monthly.
 
-Subsec. (d). Pub. L. 94–169, § 102(2), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “such veteran” for “him” and “$133” for “$123”.
+Subsec. (d). Pub. L. 94–169, § 102(2), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “such veteran” for “him” and “$133” for “$123”.
 
-Subsec. (e). Pub. L. 94–169, § 102(3), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “such veteran’s” for “his”, “such veteran” for “him” and “$53” for “$49”.
+Subsec. (e). Pub. L. 94–169, § 102(3), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “such veteran’s” for “his”, “such veteran” for “him” and “$53” for “$49”.
 
-Subsec. (g). Pub. L. 94–169, § 106(18), substituted “such veteran” for “he”.
+Subsec. (g). Pub. L. 94–169, § 106(18), substituted “such veteran” for “he”.
 
-1974—Subsec. (b). Pub. L. 93–527, § 2(1), substituted “$160” for “$143”, “$500” for “$800” wherever appearing, “$900” for “$1300” wherever appearing, “$1500” for “$1600” wherever appearing, “$1900” for “$2200” wherever appearing, “$2300” for “$2500” wherever appearing, and “$3000” for “$2600” wherever appearing, and inserted provision that in no event should monthly rate of pension be less than $5.00.
+1974—Subsec. (b). Pub. L. 93–527, § 2(1), substituted “$160” for “$143”, “$500” for “$800” wherever appearing, “$900” for “$1300” wherever appearing, “$1500” for “$1600” wherever appearing, “$1900” for “$2200” wherever appearing, “$2300” for “$2500” wherever appearing, and “$3000” for “$2600” wherever appearing, and inserted provision that in no event should monthly rate of pension be less than $5.00.
 
-Subsec. (c). Pub. L. 93–527, § 2(2), substituted “$172” for “$154”, “$177” for “$159”, “$182” for “$164”, “$700” for “$800” wherever appearing, “$1800” for “$2600” wherever appearing, “$3000” for “$3200” wherever appearing, “$3500” for “$3700” wherever appearing, and inserted provisions for the reduction by 7 cents for each dollar of annual income in excess of $3800 up to and including $4000, and reduction by 8 cents for each dollar of annual income in excess of $4000 up to and including $4200, and raised maximum income from $3800 to $4200.
+Subsec. (c). Pub. L. 93–527, § 2(2), substituted “$172” for “$154”, “$177” for “$159”, “$182” for “$164”, “$700” for “$800” wherever appearing, “$1800” for “$2600” wherever appearing, “$3000” for “$3200” wherever appearing, “$3500” for “$3700” wherever appearing, and inserted provisions for the reduction by 7 cents for each dollar of annual income in excess of $3800 up to and including $4000, and reduction by 8 cents for each dollar of annual income in excess of $4000 up to and including $4200, and raised maximum income from $3800 to $4200.
 
-Subsec. (d). Pub. L. 93–527, § 2(3), substituted “$123” for “$110”.
+Subsec. (d). Pub. L. 93–527, § 2(3), substituted “$123” for “$110”.
 
-Subsec. (e). Pub. L. 93–527, § 2(4), substituted “$49” for “$44”.
+Subsec. (e). Pub. L. 93–527, § 2(4), substituted “$49” for “$44”.
 
-1973—Subsec. (b). Pub. L. 93–177, § 1(a), substituted “$143” for “$130”, “$800” for “$1,000”, “$1,300” for “$1,500”, “$1,600” for “$1,800”, and “$2,500” for “$2,600” in existing provisions and inserted provision for a reduction of 8 cents in monthly rate for each $1 of annual income in excess of $2,500 up to and including $2,600.
+1973—Subsec. (b). Pub. L. 93–177, § 1(a), substituted “$143” for “$130”, “$800” for “$1,000”, “$1,300” for “$1,500”, “$1,600” for “$1,800”, and “$2,500” for “$2,600” in existing provisions and inserted provision for a reduction of 8 cents in monthly rate for each $1 of annual income in excess of $2,500 up to and including $2,600.
 
-Subsec. (c). Pub. L. 93–177, § 1(b), substituted “$154” for “$140”, “$159” for “$145”, “$164” for “$150”, “$800” for “$900”, “$2,600” for “$3,200”, and “$3,700” for “$3,800” in existing provisions and inserted provisions for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $2,600 up to and including $3,200 and for a reduction of 6 cents in monthly rate for each $1 of annual income in excess of $3,700 up to and including $3,800.
+Subsec. (c). Pub. L. 93–177, § 1(b), substituted “$154” for “$140”, “$159” for “$145”, “$164” for “$150”, “$800” for “$900”, “$2,600” for “$3,200”, and “$3,700” for “$3,800” in existing provisions and inserted provisions for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $2,600 up to and including $3,200 and for a reduction of 6 cents in monthly rate for each $1 of annual income in excess of $3,700 up to and including $3,800.
 
-1971—Subsec. (b). Pub. L. 92–198, § 1(a), substituted formula for computing monthly pension rates of single veteran providing for a maximum monthly pension for each group within designated income category and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income from $2300 to $2600.
+1971—Subsec. (b). Pub. L. 92–198, § 1(a), substituted formula for computing monthly pension rates of single veteran providing for a maximum monthly pension for each group within designated income category and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income from $2300 to $2600.
 
-Subsec. (c). Pub. L. 92–198, § 1(b), substituted formula for computing monthly pension rates of veteran with dependents by providing for maximum monthly pension for each group within designated income category depending on the number of dependents and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income limit from $3500 to $3800.
+Subsec. (c). Pub. L. 92–198, § 1(b), substituted formula for computing monthly pension rates of veteran with dependents by providing for maximum monthly pension for each group within designated income category depending on the number of dependents and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income limit from $3500 to $3800.
 
-Subsec. (g)(3). Pub. L. 92–198, § 5(b), inserted reference to Mexican border period.
+Subsec. (g)(3). Pub. L. 92–198, § 5(b), inserted reference to Mexican border period.
 
-1970—Pub. L. 91–588, § 9(c)(3), inserted reference to Mexican border period in section catchline.
+1970—Pub. L. 91–588, § 9(c)(3), inserted reference to Mexican border period in section catchline.
 
-Subsec. (a). Pub. L. 91–588, § 9(c)(1), inserted reference to Mexican border period.
+Subsec. (a). Pub. L. 91–588, § 9(c)(1), inserted reference to Mexican border period.
 
-Subsec. (b). Pub. L. 91–588, § 1(a), provided new annual income limits to measure monthly pension rates of single veteran by adding minimum income limits of $2,000, $2,100 and $2,200 with maximum limits of $2,100, $2,200 and $2,300 for monthly benefits of $45, $37 and $29, respectively, and within existing annual income limits from a maximum of $300 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “121” for “$110”, “119” for “108”, “117” for “106”, “115” for “104”, “112” for “100”, “108” for “96”, “104” for “92”, “100” for “88”, “96” for “84”, “92” for “79”, “88” for “75”, “84” for “69” “79” for “63” “75” for “57”, “69” for “51”, “63” for “45”, “57” for “37”, and “51” for “29”.
+Subsec. (b). Pub. L. 91–588, § 1(a), provided new annual income limits to measure monthly pension rates of single veteran by adding minimum income limits of $2,000, $2,100 and $2,200 with maximum limits of $2,100, $2,200 and $2,300 for monthly benefits of $45, $37 and $29, respectively, and within existing annual income limits from a maximum of $300 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “121” for “$110”, “119” for “108”, “117” for “106”, “115” for “104”, “112” for “100”, “108” for “96”, “104” for “92”, “100” for “88”, “96” for “84”, “92” for “79”, “88” for “75”, “84” for “69” “79” for “63” “75” for “57”, “69” for “51”, “63” for “45”, “57” for “37”, and “51” for “29”.
 
-Subsec. (c). Pub. L. 91–588, § 1(b), provided new annual income limits to measure monthly pension rates of veteran with dependents by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $50, and within existing annual income limits from a maximum of $500 to a maximum of $3,200, as well as in-between limits set out in one-hundred dollar increments, the applicable monthly benefits for each limit was amended, respectively, by substituting in column II (one dependent) “$132” for “$120”, “130” for “118”, “128” for “116”, “126” for “114”, “124” for “112”, “122” for “109”, in column III (two dependents) “$137” for “$125”, “135” for “123, “133” for “121”, “131” for “119”, “129” for “117”, “127” for “114”, in column IV (three or more dependents) “$142” for “$130”, “140” for “128”, “138” for “126”, “136” for “124”, “134” for “122”, “132” for “119”, and in columns II, III, and IV (for any number of dependents) “119” for “107”, “116” for “105”, “113” for “103”, “110” for “101”, “107” for “99”, “104” for “96”, “101” for “93” “99” for “90”, “96” for “87”, “93” for “84”, “90” for “81”, “87” for “78”, “84” for “75”, “81” for “72”, “78” for “69”, “75” for “66”, “72” for “62”, “69” for “58”, “66” for “54”, “62” for “50”, “58” for “42”, and “54” for “34”.
+Subsec. (c). Pub. L. 91–588, § 1(b), provided new annual income limits to measure monthly pension rates of veteran with dependents by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $50, and within existing annual income limits from a maximum of $500 to a maximum of $3,200, as well as in-between limits set out in one-hundred dollar increments, the applicable monthly benefits for each limit was amended, respectively, by substituting in column II (one dependent) “$132” for “$120”, “130” for “118”, “128” for “116”, “126” for “114”, “124” for “112”, “122” for “109”, in column III (two dependents) “$137” for “$125”, “135” for “123, “133” for “121”, “131” for “119”, “129” for “117”, “127” for “114”, in column IV (three or more dependents) “$142” for “$130”, “140” for “128”, “138” for “126”, “136” for “124”, “134” for “122”, “132” for “119”, and in columns II, III, and IV (for any number of dependents) “119” for “107”, “116” for “105”, “113” for “103”, “110” for “101”, “107” for “99”, “104” for “96”, “101” for “93” “99” for “90”, “96” for “87”, “93” for “84”, “90” for “81”, “87” for “78”, “84” for “75”, “81” for “72”, “78” for “69”, “75” for “66”, “72” for “62”, “69” for “58”, “66” for “54”, “62” for “50”, “58” for “42”, and “54” for “34”.
 
-Subsec. (d). Pub. L. 91–588, § 3(b)(1), substituted “$110” for “$100”.
+Subsec. (d). Pub. L. 91–588, § 3(b)(1), substituted “$110” for “$100”.
 
-Subsec. (e). Pub. L. 91–588, § 3(b)(2), substituted “44” for “$40”.
+Subsec. (e). Pub. L. 91–588, § 3(b)(2), substituted “44” for “$40”.
 
-Subsec. (g)(1), (2). Pub. L. 91–588, § 9(c)(2), inserted reference to Mexican border period.
+Subsec. (g)(1), (2). Pub. L. 91–588, § 9(c)(2), inserted reference to Mexican border period.
 
-1968—Subsec. (b). Pub. L. 90–275, § 1(a), in providing new annual income limits to measure monthly pension rates of single veteran, substituted minimum income limit of $300 for monthly benefit of $110 for former $600 limit for monthly benefit of $104, maximum income limit of $2,000 for monthly benefit of $29 for former $1,800 limit for monthly benefit of $45, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $108–37 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $79.
+1968—Subsec. (b). Pub. L. 90–275, § 1(a), in providing new annual income limits to measure monthly pension rates of single veteran, substituted minimum income limit of $300 for monthly benefit of $110 for former $600 limit for monthly benefit of $104, maximum income limit of $2,000 for monthly benefit of $29 for former $1,800 limit for monthly benefit of $45, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $108–37 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $79.
 
-Subsec. (c). Pub. L. 90–275, § 1(b), in providing new annual income limits to measure monthly pension rates of veteran with dependents, substituted minimum income limit of $500 for monthly benefit of $120 (one dependent), $125 (two dependents), and $130 (three or more dependents) for former $1,000 limit for monthly benefit of $109 (one dependent), $114 (two dependents), and $119 (three or more dependents), maximum income limit of $3,200 for monthly benefit of $34 (for any number of dependents) for former $3,000 limit for monthly benefit of $50 (for any number of dependents), and twenty-six other in-between limits in one hundred dollar increments from more than $500 to less than $3,100 for monthly benefits of $118 to 42 (one dependent), $123 to 42 (two dependents), and $128 to 42 (three or more dependents) for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $84 (for any number of dependents).
+Subsec. (c). Pub. L. 90–275, § 1(b), in providing new annual income limits to measure monthly pension rates of veteran with dependents, substituted minimum income limit of $500 for monthly benefit of $120 (one dependent), $125 (two dependents), and $130 (three or more dependents) for former $1,000 limit for monthly benefit of $109 (one dependent), $114 (two dependents), and $119 (three or more dependents), maximum income limit of $3,200 for monthly benefit of $34 (for any number of dependents) for former $3,000 limit for monthly benefit of $50 (for any number of dependents), and twenty-six other in-between limits in one hundred dollar increments from more than $500 to less than $3,100 for monthly benefits of $118 to 42 (one dependent), $123 to 42 (two dependents), and $128 to 42 (three or more dependents) for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $84 (for any number of dependents).
 
-1967—Pub. L. 90–77, § 202(c), inserted reference to Vietnam era in section catchline.
+1967—Pub. L. 90–77, § 202(c), inserted reference to Vietnam era in section catchline.
 
-Subsec. (a). Pub. L. 90–77, § 202(a), inserted reference to Vietnam era.
+Subsec. (a). Pub. L. 90–77, § 202(a), inserted reference to Vietnam era.
 
-Subsec. (b). Pub. L. 90–77, § 104(a), increased monthly pension rate in column II from $100, $75, and $43 to $104, $79, and $45, respectively.
+Subsec. (b). Pub. L. 90–77, § 104(a), increased monthly pension rate in column II from $100, $75, and $43 to $104, $79, and $45, respectively.
 
-Subsec. (c). Pub. L. 90–77, § 104(b), increased monthly pension rate in column II from $105, $80, and $48 to $109, $84, and $50; column III from $110, $80, and $48 to $114, $84, and $50; and column IV from $115, $80, and $48 to $119, $84, and $50, respectively.
+Subsec. (c). Pub. L. 90–77, § 104(b), increased monthly pension rate in column II from $105, $80, and $48 to $109, $84, and $50; column III from $110, $80, and $48 to $114, $84, and $50; and column IV from $115, $80, and $48 to $119, $84, and $50, respectively.
 
-Subsec. (e). Pub. L. 90–77, § 104(c), substituted “$40” for “$35”.
+Subsec. (e). Pub. L. 90–77, § 104(c), substituted “$40” for “$35”.
 
-Subsec. (g). Pub. L. 90–77, § 202(b), inserted references to Vietnam era in pars. (1) to (3).
+Subsec. (g). Pub. L. 90–77, § 202(b), inserted references to Vietnam era in pars. (1) to (3).
 
-1964—Subsec. (b). Pub. L. 88–664, § 3(a), increased monthly pension rate in column II from $85, $70, and $40 to $100, $75, and $43, respectively.
+1964—Subsec. (b). Pub. L. 88–664, § 3(a), increased monthly pension rate in column II from $85, $70, and $40 to $100, $75, and $43, respectively.
 
-Subsec. (c). Pub. L. 88–664, § 3(b), increased monthly pension rate in column II from $90, $75, and $45 to $105, $80, and $48; column III from $95, $75, and $45 to $110, $80, and $48; and column IV from $100, $75, and $45 to $115, $80, and $48, respectively.
+Subsec. (c). Pub. L. 88–664, § 3(b), increased monthly pension rate in column II from $90, $75, and $45 to $105, $80, and $48; column III from $95, $75, and $45 to $110, $80, and $48; and column IV from $100, $75, and $45 to $115, $80, and $48, respectively.
 
-Subsec. (d). Pub. L. 88–664, § 5, increased additional monthly rate of veterans in need of aid and attendance from $70 to $100.
+Subsec. (d). Pub. L. 88–664, § 5, increased additional monthly rate of veterans in need of aid and attendance from $70 to $100.
 
-Subsecs. (e), (f). Pub. L. 88–664, §§ 6(a), 7, added subsec. (e), redesignated former subsec. (e) as (f) and substituted “in excess of whichever is the greater, $1,200 or the total earned income of the spouse,” for “except $1,200 of such income” in par. (1). Former subsec. (f) redesignated (g).
+Subsecs. (e), (f). Pub. L. 88–664, §§ 6(a), 7, added subsec. (e), redesignated former subsec. (e) as (f) and substituted “in excess of whichever is the greater, $1,200 or the total earned income of the spouse,” for “except $1,200 of such income” in par. (1). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 88–664, § 6(a), redesignated former subsec. (f) as (g).
+Subsec. (g). Pub. L. 88–664, § 6(a), redesignated former subsec. (f) as (g).
 
 1961—Subsec. (f)(4). Pub. L. 87–101 added par. (4).
 
-1959—Subsec. (a). Pub. L. 86–211, § 3(a)(2), struck out provisions that prescribed amount of monthly pension payable. See subsecs. (b) to (d) of this section.
+1959—Subsec. (a). Pub. L. 86–211, § 3(a)(2), struck out provisions that prescribed amount of monthly pension payable. See subsecs. (b) to (d) of this section.
 
-Subsecs. (b) to (e). Pub. L. 86–211, § 3(a)(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
+Subsecs. (b) to (e). Pub. L. 86–211, § 3(a)(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
 
-Subsec. (f). Pub. L. 86–211, § 3(a)(1), redesignated former subsec. (b) as (f).
+Subsec. (f). Pub. L. 86–211, § 3(a)(1), redesignated former subsec. (b) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title V, § 508(b), Aug. 6, 2012, 126 Stat. 1195, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 6, 2012].”
+Pub. L. 112–154, title V, § 508(b), Aug. 6, 2012, 126 Stat. 1195, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 6, 2012].”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VI, § 608(d), Oct. 13, 2010, 124 Stat. 2887, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and sections 1541 and 1542 of this title] shall apply with respect to pensions paid on or after December 1, 2009.”
+Pub. L. 111–275, title VI, § 608(d), Oct. 13, 2010, 124 Stat. 2887, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and sections 1541 and 1542 of this title] shall apply with respect to pensions paid on or after December 1, 2009.”
 
 **Effective Date of 2001 Amendment**
 
@@ -1049,7 +1049,7 @@ Amendment by Pub. L. 95–204 effective Jan. 1, 1978, see section 302 of Pub. L.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–432, title IV, § 405, Sept. 30, 1976, 90 Stat. 1373, provided that:
+Pub. L. 94–432, title IV, § 405, Sept. 30, 1976, 90 Stat. 1373, provided that:
 
 > **“(a)** The provisions of this Act [see Tables for classification], other than titles II and III and section 401, shall take effect on the date of the enactment of this Act [Sept. 30, 1976].
 
@@ -1057,25 +1057,25 @@ Pub. L. 94–432, title IV, § 405, Sept. 30, 1976, 90 Stat. 1373, provided th
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 102, Dec. 23, 1975, 89 Stat. 1014, as amended by Pub. L. 94–432, title I, § 101, Sept. 30, 1976, 90 Stat. 1369, effective Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 102, Dec. 23, 1975, 89 Stat. 1014, as amended by Pub. L. 94–432, title I, § 101, Sept. 30, 1976, 90 Stat. 1369, effective Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–527, § 10, Dec. 21, 1974, 88 Stat. 1705, provided that: “This Act [see Tables for classification] shall take effect on January 1, 1975.”
+Pub. L. 93–527, § 10, Dec. 21, 1974, 88 Stat. 1705, provided that: “This Act [see Tables for classification] shall take effect on January 1, 1975.”
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–177, § 8, Dec. 6, 1973, 87 Stat. 697, provided that: “This Act [see Tables for classification] shall take effect on January 1, 1974.”
+Pub. L. 93–177, § 8, Dec. 6, 1973, 87 Stat. 697, provided that: “This Act [see Tables for classification] shall take effect on January 1, 1974.”
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–198, § 6, Dec. 15, 1971, 85 Stat. 664, provided that: “This Act [see Tables for classification] shall take effect on January 1, 1972.”
+Pub. L. 92–198, § 6, Dec. 15, 1971, 85 Stat. 664, provided that: “This Act [see Tables for classification] shall take effect on January 1, 1972.”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–588, § 10, Dec. 24, 1970, 84 Stat. 1585, provided that:
+Pub. L. 91–588, § 10, Dec. 24, 1970, 84 Stat. 1585, provided that:
 
 > **“(a)** Sections 1, 2(a), (b), and (c), 3, 4, 5, 6, 7, 8, and 9 [see Tables for classification] shall take effect on January 1, 1971.
 
@@ -1085,7 +1085,7 @@ Pub. L. 91–588, § 10, Dec. 24, 1970, 84 Stat. 1585, provided that:
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–275, § 6, Mar. 28, 1968, 82 Stat. 68, provided that:
+Pub. L. 90–275, § 6, Mar. 28, 1968, 82 Stat. 68, provided that:
 
 > **“(a)** The first section and sections 2 and 4 of this Act [amending this section and sections 415 and 541 [now 1315 and 1541] of this title and enacting provisions set out below] shall take effect on January 1, 1969.
 
@@ -1101,7 +1101,7 @@ Amendment by Pub. L. 88–664 and provisions of section 10 of Pub. L. 88–664, 
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–101, § 2, July 21, 1961, 75 Stat. 219, provided that: “Pension shall not be paid for any period prior to the effective date of this Act [July 21, 1961] to any person whose eligibility for pension is established solely by virtue of this Act [amending this section].”
+Pub. L. 87–101, § 2, July 21, 1961, 75 Stat. 219, provided that: “Pension shall not be paid for any period prior to the effective date of this Act [July 21, 1961] to any person whose eligibility for pension is established solely by virtue of this Act [amending this section].”
 
 **Effective Date of 1959 Amendment**
 
@@ -1109,7 +1109,7 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 
 **Savings Provision for Persons Entitled to Pension as of December 31, 1978; Other Provisions**
 
-Pub. L. 95–588, title III, § 306, Nov. 4, 1978, 92 Stat. 2508, as amended by Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §§ 5(c)(2), 6(c), Aug. 6, 1991, 105 Stat. 406, 407, provided that:
+Pub. L. 95–588, title III, § 306, Nov. 4, 1978, 92 Stat. 2508, as amended by Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §§ 5(c)(2), 6(c), Aug. 6, 1991, 105 Stat. 406, 407, provided that:
 
 > **“(a)**
 
@@ -1137,15 +1137,15 @@ Pub. L. 95–588, title III, § 306, Nov. 4, 1978, 92 Stat. 2508, as amended b
 
 > **“(b)**
 
-> **(1) [Subsec. (b)(1) which provided for the repeal, effective Jan. 1, 1979, of section 9 of the Veterans’ Pension Act of 1959, Pub. L. 86–211, § 9, Aug. 29, 1959, 73 Stat. 436, has been executed to note set out under this section.]**
+> **(1) [Subsec. (b)(1) which provided for the repeal, effective Jan. 1, 1979, of section 9 of the Veterans’ Pension Act of 1959, Pub. L. 86–211, § 9, Aug. 29, 1959, 73 Stat. 436, has been executed to note set out under this section.]**
 
 > **“(2)**
 
-> **(A)** Except as provided in subparagraph (B), any person who as of December 31, 1978, is entitled to receive pension under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, § 9, Aug. 29, 1959, 73 Stat. 436 [formerly set out as a note under this section] may elect to receive pension under section 1521, 1541, or 1542 [formerly 521, 541, or 542] of title 38, United States Code, as in effect after such date, subject to the terms and conditions in effect with respect to the receipt of such pension. Any such election shall be made in such form and manner as the Secretary may prescribe. If pension is paid pursuant to such an election, the election shall be irrevocable.
+> **(A)** Except as provided in subparagraph (B), any person who as of December 31, 1978, is entitled to receive pension under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, § 9, Aug. 29, 1959, 73 Stat. 436 [formerly set out as a note under this section] may elect to receive pension under section 1521, 1541, or 1542 [formerly 521, 541, or 542] of title 38, United States Code, as in effect after such date, subject to the terms and conditions in effect with respect to the receipt of such pension. Any such election shall be made in such form and manner as the Secretary may prescribe. If pension is paid pursuant to such an election, the election shall be irrevocable.
 
 > **“(B)** Any veteran eligible to make an election under subparagraph (A) who is married to another veteran who is also eligible to make such an election may not make such an election unless both such veterans make such an election.
 
-> **“(3)** Any person eligible to make an election under paragraph (2) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for and payment of pension under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, § 9(b), Aug. 29, 1959, 73 Stat. 436 [formerly set out below], as in effect on December 31, 1978, except that pension may not be paid to such person if such person’s annual income (determined in accordance with the applicable provisions of law, as in effect on December 31, 1978) exceeds $3,534, in the case of a veteran or surviving spouse without dependents or in the case of a child, or $5,098, in the case of a veteran or surviving spouse with one or more dependents, as each such amount is increased from time to time under paragraph (4).
+> **“(3)** Any person eligible to make an election under paragraph (2) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for and payment of pension under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, § 9(b), Aug. 29, 1959, 73 Stat. 436 [formerly set out below], as in effect on December 31, 1978, except that pension may not be paid to such person if such person’s annual income (determined in accordance with the applicable provisions of law, as in effect on December 31, 1978) exceeds $3,534, in the case of a veteran or surviving spouse without dependents or in the case of a child, or $5,098, in the case of a veteran or surviving spouse with one or more dependents, as each such amount is increased from time to time under paragraph (4).
 
 > **“(4)** Whenever there is an increase under section 5312 [formerly 3112] of title 38, United States Code (as added by section 304 of this Act), in the maximum annual rates of pension under sections 1521, 1541, and 1542 [formerly 521, 541, and 542] of such title, as in effect after December 31, 1978, the Secretary shall, effective on the date of such increase under such section 5312 [formerly 3112], increase the annual income limitations in effect under paragraph (3) by the same percentage as the percentage by which the maximum annual rates under such sections 1521, 1542, and 1543 [formerly 521, 542, and 543] are increased.
 
@@ -1165,11 +1165,11 @@ Pub. L. 95–588, title III, § 306, Nov. 4, 1978, 92 Stat. 2508, as amended b
 
 **Savings Provision**
 
-Pub. L. 86–211, § 9, Aug. 29, 1959, 73 Stat. 436, which provided (1) that any claim for pension which was pending on June 30, 1960, or any claim for death pension filed thereafter within one year from the date of death of a veteran which occurred prior to July 1, 1960, would be adjudicated under this title in effect on June 30, 1960, with respect to the period before July 1, 1960, and, except as provided below, under this title, as amended by Pub. L. 86–211, thereafter; (2) that nothing in Pub. L. 86–211 would affect the eligibility of any person receiving pension under this title on June 30, 1960, for pension under all applicable provisions of this title in effect on that date for such period or periods thereafter with respect to which he could qualify under such provisions and that this provision would not apply in any case for any period after pension was granted, pursuant to application, under this title as amended by Pub. L. 86–211; and (3) that provision (2) would not apply to those claims within the purview of provision (1) in which it was determined that pension was payable for June 30, 1960, was repealed, effective Jan. 1, 1979, by section 306(b)(1) of Pub. L. 95–588, set out as a note above.
+Pub. L. 86–211, § 9, Aug. 29, 1959, 73 Stat. 436, which provided (1) that any claim for pension which was pending on June 30, 1960, or any claim for death pension filed thereafter within one year from the date of death of a veteran which occurred prior to July 1, 1960, would be adjudicated under this title in effect on June 30, 1960, with respect to the period before July 1, 1960, and, except as provided below, under this title, as amended by Pub. L. 86–211, thereafter; (2) that nothing in Pub. L. 86–211 would affect the eligibility of any person receiving pension under this title on June 30, 1960, for pension under all applicable provisions of this title in effect on that date for such period or periods thereafter with respect to which he could qualify under such provisions and that this provision would not apply in any case for any period after pension was granted, pursuant to application, under this title as amended by Pub. L. 86–211; and (3) that provision (2) would not apply to those claims within the purview of provision (1) in which it was determined that pension was payable for June 30, 1960, was repealed, effective Jan. 1, 1979, by section 306(b)(1) of Pub. L. 95–588, set out as a note above.
 
 **Increase in Aid and Attendance Rates for Veterans Eligible for Pension**
 
-Pub. L. 105–178, title VIII, § 8206, June 9, 1998, 112 Stat. 494, provided that:
+Pub. L. 105–178, title VIII, § 8206, June 9, 1998, 112 Stat. 494, provided that:
 
 > “Effective October 1, 1998, the maximum annual rates of pension in effect as of September 30, 1998, under the following provisions of chapter 15 of title 38, United States Code, are increased by $600:
 
@@ -1179,15 +1179,15 @@ Pub. L. 105–178, title VIII, § 8206, June 9, 1998, 112 Stat. 494, provided 
 
 **Report to Congressional Committees; Medical Examinations of Certain Pension Recipients**
 
-Pub. L. 98–543, title III, § 302, Oct. 24, 1984, 98 Stat. 2747, directed Administrator of Veterans’ Affairs to report to Committees on Veterans’ Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabled by reason of being 65 years of age or older or becoming unemployable after age 65.
+Pub. L. 98–543, title III, § 302, Oct. 24, 1984, 98 Stat. 2747, directed Administrator of Veterans’ Affairs to report to Committees on Veterans’ Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabled by reason of being 65 years of age or older or becoming unemployable after age 65.
 
 **Study of Pension Benefits Paid to Persons Residing Outside United States; Transmittal of Report and Recommendations to President and Congress**
 
-Pub. L. 95–588, title III, § 308, Nov. 4, 1978, 92 Stat. 2510, directed Administrator of Veterans’ Affairs, in consultation with Secretary of State, to carry out a comprehensive study of income characteristics of veterans of a period of war, as defined in section 101(11) of this title, and their survivors residing outside the fifty States and the District of Columbia, required submission of a report to Congress and President on results of such study not later than Feb. 1, 1980.
+Pub. L. 95–588, title III, § 308, Nov. 4, 1978, 92 Stat. 2510, directed Administrator of Veterans’ Affairs, in consultation with Secretary of State, to carry out a comprehensive study of income characteristics of veterans of a period of war, as defined in section 101(11) of this title, and their survivors residing outside the fifty States and the District of Columbia, required submission of a report to Congress and President on results of such study not later than Feb. 1, 1980.
 
 **Pension, Dependency, and Indemnity Compensation; Relation to Social Security Amendments of 1967**
 
-Pub. L. 90–275, § 3, Mar. 28, 1968, 82 Stat. 67, provided that:
+Pub. L. 90–275, § 3, Mar. 28, 1968, 82 Stat. 67, provided that:
 
 > **“(a)** If the monthly rate of pension or dependency and indemnity compensation payable to a person under title 38, United States Code, would be less, solely as a result of an increase in monthly insurance benefits provided by the Social Security Amendments of 1967 [see Short Title note set out under section 302 of Title 42, The Public Health and Welfare], than the monthly rate payable for the month immediately preceding the effective date of this Act [see Effective Date of 1968 Amendment note set out above], the Administrator of Veterans’ Affairs shall pay the person as follows:
 
@@ -1203,17 +1203,17 @@ Pub. L. 90–275, § 3, Mar. 28, 1968, 82 Stat. 67, provided that:
 
 **Income Restrictions on Pensions; Effective Dates**
 
-Pub. L. 90–275, § 4, Mar. 28, 1968, 82 Stat. 68, as amended by Pub. L. 91–588, § 5; Pub. L. 92–198, § 4; Pub. L. 93–527, § 6; Pub. L. 94–169, § 107; Pub. L. 94–432, § 206; Pub. L. 95–204, § 105, provided that: “The income limitations governing payment of pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] hereafter shall be $3,300 and $4,760 instead of $3,100 and $4,460, respectively.”
+Pub. L. 90–275, § 4, Mar. 28, 1968, 82 Stat. 68, as amended by Pub. L. 91–588, § 5; Pub. L. 92–198, § 4; Pub. L. 93–527, § 6; Pub. L. 94–169, § 107; Pub. L. 94–432, § 206; Pub. L. 95–204, § 105, provided that: “The income limitations governing payment of pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] hereafter shall be $3,300 and $4,760 instead of $3,100 and $4,460, respectively.”
 
-Pub. L. 90–275, § 4, Mar. 28, 1968, 82 Stat. 68, as originally enacted, was eff. Jan. 1, 1969, pursuant to Pub. L. 90–275, § 6(a). Subsequent amendments to said section 4 by Pub. L. 91–588, Pub. L. 92–198, and Pub. L. 94–169 were effective Jan. 1, 1971, Jan. 1, 1972, and for a period beginning Jan. 1, 1976 and ending Sept. 30, 1976, respectively. Pub. L. 94–432, §§ 101, 405(b) amended said section 4 of Pub. L. 90–275 and section 107 of Pub. L. 94–169 to be effective Jan. 1, 1976 and Jan. 1, 1977, respectively. Pub. L. 95–204, § 302 amended said section 4 of Pub. L. 90–275 to be effective Jan. 1, 1978.
+Pub. L. 90–275, § 4, Mar. 28, 1968, 82 Stat. 68, as originally enacted, was eff. Jan. 1, 1969, pursuant to Pub. L. 90–275, § 6(a). Subsequent amendments to said section 4 by Pub. L. 91–588, Pub. L. 92–198, and Pub. L. 94–169 were effective Jan. 1, 1971, Jan. 1, 1972, and for a period beginning Jan. 1, 1976 and ending Sept. 30, 1976, respectively. Pub. L. 94–432, §§ 101, 405(b) amended said section 4 of Pub. L. 90–275 and section 107 of Pub. L. 94–169 to be effective Jan. 1, 1976 and Jan. 1, 1977, respectively. Pub. L. 95–204, § 302 amended said section 4 of Pub. L. 90–275 to be effective Jan. 1, 1978.
 
 **Aid and Attendance Allowance for Widows of Veterans of All Periods of War**
 
-Pub. L. 90–77, title I, § 108(c), Aug. 31, 1967, 81 Stat. 180, provided that: “If any widow is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] and is in need of regular aid and attendance, the monthly rate of pension payable to her shall be increased by $50.”
+Pub. L. 90–77, title I, § 108(c), Aug. 31, 1967, 81 Stat. 180, provided that: “If any widow is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] and is in need of regular aid and attendance, the monthly rate of pension payable to her shall be increased by $50.”
 
 **Pension for Housebound Veterans**
 
-Pub. L. 90–77, title I, § 110, Aug. 31, 1967, 81 Stat. 180, provided that:
+Pub. L. 90–77, title I, § 110, Aug. 31, 1967, 81 Stat. 180, provided that:
 
 > “The Administrator of Veterans’ Affairs shall pay to a veteran who is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] and who—
 
@@ -1225,15 +1225,15 @@ Pub. L. 90–77, title I, § 110, Aug. 31, 1967, 81 Stat. 180, provided that:
 
 **Retirement Income Exclusion**
 
-Pub. L. 88–664, § 10, Oct. 13, 1964, 78 Stat. 1096, provided that: “In computing the income of persons whose pension eligibility is subject to the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] there shall be excluded 10 per centum of the amount of payments received under public or private retirement, annuity, endowment or similar plans or programs.”
+Pub. L. 88–664, § 10, Oct. 13, 1964, 78 Stat. 1096, provided that: “In computing the income of persons whose pension eligibility is subject to the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] there shall be excluded 10 per centum of the amount of payments received under public or private retirement, annuity, endowment or similar plans or programs.”
 
-#### § 1522. Net worth limitation
+#### § 1522. Net worth limitation
 
 **(a)** The Secretary shall deny or discontinue the payment of pension to a veteran under section 1513 or 1521 of this title when the corpus of the estate of the veteran or, if the veteran has a spouse, the corpus of the estates of the veteran and of the veteran’s spouse is such that under all the circumstances, including consideration of the annual income of the veteran, the veteran’s spouse, and the veteran’s children, it is reasonable that some part of the corpus of such estates be consumed for the veteran’s maintenance.
 
 **(b)** The Secretary shall deny or discontinue the payment of increased pension under subsection (c), (d), (e), or (f) of section 1521 of this title on account of a child when the corpus of such child’s estate is such that under all the circumstances, including consideration of the veteran’s and spouse’s income, and the income of the veteran’s children, it is reasonable that some part of the corpus of such child’s estate be consumed for the child’s maintenance. During the period such denial or discontinuance remains in effect, such child shall not be considered as the veteran’s child for purposes of this chapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, § 522; Pub. L. 86–211, § 3(b), Aug. 29, 1959, 73 Stat. 434; Pub. L. 95–588, title I, § 107, Nov. 4, 1978, 92 Stat. 2502; renumbered § 1522 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, § 207(b)(2), Dec. 27, 2001, 115 Stat. 991.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, § 522; Pub. L. 86–211, § 3(b), Aug. 29, 1959, 73 Stat. 434; Pub. L. 95–588, title I, § 107, Nov. 4, 1978, 92 Stat. 2502; renumbered § 1522 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, § 207(b)(2), Dec. 27, 2001, 115 Stat. 991.)
 
 **Editorial Notes**
 
@@ -1241,11 +1241,11 @@ Pub. L. 88–664, § 10, Oct. 13, 1964, 78 Stat. 1096, provided that: “In co
 
 2001—Subsec. (a). Pub. L. 107–103 inserted “1513 or” before “1521 of this title”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 522 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 522 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521” in subsecs. (a) and (b).
+Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521” in subsecs. (a) and (b).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in subsecs. (a) and (b).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in subsecs. (a) and (b).
 
 1978—Pub. L. 95–588 designated existing provisions as subsec. (a), inserted provisions relating to consideration of the income and estates of the spouse and children of an eligible veteran, and added subsec. (b).
 
@@ -1265,25 +1265,25 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 86–211, set out as an Effective Date note under section 1521 of this title.
 
-#### § 1523. Combination of ratings
+#### § 1523. Combination of ratings
 
 **(a)** The Secretary shall provide that, for the purpose of determining whether or not a veteran is permanently and totally disabled, ratings for service-connected disabilities may be combined with ratings for non-service-connected disabilities.
 
 **(b)** Where a veteran, by virtue of subsection (a), is found to be entitled to a pension under section 1521 of this title, and is entitled to compensation for a service-connected disability, the Secretary shall pay such veteran the greater benefit.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, § 523; Pub. L. 94–169, title I, § 106(19), Dec. 23, 1975, 89 Stat. 1018; renumbered § 1523 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, § 523; Pub. L. 94–169, title I, § 106(19), Dec. 23, 1975, 89 Stat. 1018; renumbered § 1523 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 523 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 523 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1975—Subsec. (b). Pub. L. 94–169 substituted “such veteran” for “him”.
 
@@ -1291,9 +1291,9 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-#### § 1524. Vocational training for certain pension recipients
+#### § 1524. Vocational training for certain pension recipients
 
 **(a)**
 
@@ -1329,7 +1329,7 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that
 
 **(e)** Payments by the Secretary for education, training, and other services and assistance under subsection (b) of this section (other than the services of Department employees) shall be made from the Department appropriations account from which payments for pension are made.
 
-(Added Pub. L. 98–543, title III, § 301(a)(1), Oct. 24, 1984, 98 Stat. 2744, § 524; amended Pub. L. 99–576, title VII, § 703(b)(1), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–227, title II, § 202, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–687, div. B, title XIII, § 1303(a), (b), Nov. 18, 1988, 102 Stat. 4128; Pub. L. 101–237, title I, § 114, Dec. 18, 1989, 103 Stat. 2065; renumbered § 1524 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–291, § 2(b), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, § 402(a)–(c)(2)(A), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 103–446, title XII, § 1201(g)(2), Nov. 2, 1994, 108 Stat. 4687.)
+(Added Pub. L. 98–543, title III, § 301(a)(1), Oct. 24, 1984, 98 Stat. 2744, § 524; amended Pub. L. 99–576, title VII, § 703(b)(1), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–227, title II, § 202, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–687, div. B, title XIII, § 1303(a), (b), Nov. 18, 1988, 102 Stat. 4128; Pub. L. 101–237, title I, § 114, Dec. 18, 1989, 103 Stat. 2065; renumbered § 1524 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–291, § 2(b), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, § 402(a)–(c)(2)(A), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 103–446, title XII, § 1201(g)(2), Nov. 2, 1994, 108 Stat. 4687.)
 
 **Editorial Notes**
 
@@ -1337,61 +1337,61 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that
 
 1994—Subsec. (a)(2). Pub. L. 103–446 substituted “If” for “Subject to paragraph (3) of this subsection, if”.
 
-1992—Pub. L. 102–568, § 402(c)(2)(A), substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” as section catchline.
+1992—Pub. L. 102–568, § 402(c)(2)(A), substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” as section catchline.
 
-Subsec. (a)(1). Pub. L. 102–568, § 402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3) of this subsection, in the case of a veteran under the age of 45 who is awarded pension during the program period, the Secretary shall determine whether the achievement of a vocational goal by the veteran is reasonably feasible. Any such determination shall be made only after evaluation of the veteran’s potential for rehabilitation, and any such evaluation shall include a personal interview of the veteran by a Department employee who is trained in vocational counseling. If the veteran fails, for reasons other than those beyond the veteran’s control, to participate in the evaluation in the manner required by the Secretary in order to make such determination, the Secretary shall suspend the veteran’s pension for the duration of such failure.”
+Subsec. (a)(1). Pub. L. 102–568, § 402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3) of this subsection, in the case of a veteran under the age of 45 who is awarded pension during the program period, the Secretary shall determine whether the achievement of a vocational goal by the veteran is reasonably feasible. Any such determination shall be made only after evaluation of the veteran’s potential for rehabilitation, and any such evaluation shall include a personal interview of the veteran by a Department employee who is trained in vocational counseling. If the veteran fails, for reasons other than those beyond the veteran’s control, to participate in the evaluation in the manner required by the Secretary in order to make such determination, the Secretary shall suspend the veteran’s pension for the duration of such failure.”
 
-Subsec. (a)(3). Pub. L. 102–568, § 402(b), redesignated par. (4) as (3), substituted “December 31, 1995” for “December 31, 1992”, and struck out former par. (3) which read as follows: “Not more than 3,500 veterans may be given evaluations under this subsection during any 12-month period beginning on February 1 of a year.”
+Subsec. (a)(3). Pub. L. 102–568, § 402(b), redesignated par. (4) as (3), substituted “December 31, 1995” for “December 31, 1992”, and struck out former par. (3) which read as follows: “Not more than 3,500 veterans may be given evaluations under this subsection during any 12-month period beginning on February 1 of a year.”
 
-Subsec. (a)(4). Pub. L. 102–568, § 402(b)(2), redesignated par. (4) as (3).
+Subsec. (a)(4). Pub. L. 102–568, § 402(b)(2), redesignated par. (4) as (3).
 
 Pub. L. 102–291 substituted “December 31, 1992” for “January 31, 1992”.
 
-Subsec. (b)(4). Pub. L. 102–568, § 402(c)(1), substituted “December 31, 1995” for “January 31, 1992”.
+Subsec. (b)(4). Pub. L. 102–568, § 402(c)(1), substituted “December 31, 1995” for “January 31, 1992”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 524 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 524 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in pars. (1) and (2).
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in pars. (1) and (2).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
 
-Subsec. (b)(1). Pub. L. 102–83, § 5(c)(1), substituted “3107” for “1507”.
+Subsec. (b)(1). Pub. L. 102–83, § 5(c)(1), substituted “3107” for “1507”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (b)(2)(B)(i). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (b)(2)(B)(iii). Pub. L. 102–83, § 5(c)(1), substituted “3452(b) and 3452(f)” for “1652(b) and 1652(f)”.
+Subsec. (b)(2)(B)(iii). Pub. L. 102–83, § 5(c)(1), substituted “3452(b) and 3452(f)” for “1652(b) and 1652(f)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (b)(3). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)”, “3104(a)(5)” for “1504(a)(5)”, and “3104(a)(6)” for “1504(a)(6)”.
+Subsec. (b)(3). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)”, “3104(a)(5)” for “1504(a)(5)”, and “3104(a)(6)” for “1504(a)(6)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (b)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1525” for “525”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1525” for “525”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-1989—Subsec. (a)(1), (2). Pub. L. 101–237, § 114(a), substituted “45” for “50”.
+1989—Subsec. (a)(1), (2). Pub. L. 101–237, § 114(a), substituted “45” for “50”.
 
-Subsecs. (c) to (e). Pub. L. 101–237, § 114(b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (c) to (e). Pub. L. 101–237, § 114(b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1988—Subsec. (a)(2). Pub. L. 100–687, § 1303(a), substituted “is awarded pension during the program period, or a veteran who was awarded pension before the beginning of the program period,” for “who is awarded pension during the program period”.
+1988—Subsec. (a)(2). Pub. L. 100–687, § 1303(a), substituted “is awarded pension during the program period, or a veteran who was awarded pension before the beginning of the program period,” for “who is awarded pension during the program period”.
 
-Subsecs. (a)(4), (b)(4)(A). Pub. L. 100–687, § 1303(b), substituted “1992” for “1989”.
+Subsecs. (a)(4), (b)(4)(A). Pub. L. 100–687, § 1303(b), substituted “1992” for “1989”.
 
 1987—Subsec. (a)(3). Pub. L. 100–227 substituted “3,500” for “2,500”.
 
-1986—Subsec. (a)(2). Pub. L. 99–576, § 703(b)(1)(A), substituted “subsection (b) of this section” for “subsection (d) of this section”.
+1986—Subsec. (a)(2). Pub. L. 99–576, § 703(b)(1)(A), substituted “subsection (b) of this section” for “subsection (d) of this section”.
 
-Subsec. (b)(4). Pub. L. 99–576, § 703(b)(1)(B), substituted “subsection (a) of this section” for “subsection (a)(1) of this section”.
+Subsec. (b)(4). Pub. L. 99–576, § 703(b)(1)(B), substituted “subsection (a) of this section” for “subsection (a)(1) of this section”.
 
-Subsec. (c). Pub. L. 99–576, § 703(b)(1)(C), substituted “A veteran” for “Notwithstanding subsection (c) of section 525 of this title, a veteran” and “defined in subsection (b)(1) of that section” for “defined in subsection (b) of that section”, and inserted “without regard to the date on which the veteran’s entitlement to pension is terminated.”
+Subsec. (c). Pub. L. 99–576, § 703(b)(1)(C), substituted “A veteran” for “Notwithstanding subsection (c) of section 525 of this title, a veteran” and “defined in subsection (b)(1) of that section” for “defined in subsection (b) of that section”, and inserted “without regard to the date on which the veteran’s entitlement to pension is terminated.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1411,27 +1411,27 @@ Provision of a vocational training program to a veteran under this section and t
 
 Section 301(b) of Pub. L. 98–543 directed Administrator of Veterans’ Affairs to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Apr. 15, 1988, a report on results of implementation of this section and section 525 [now 1525] of this title during period beginning on Feb. 1, 1985, and ending on Jan. 31, 1988.
 
-#### § 1525. Protection of health-care eligibility
+#### § 1525. Protection of health-care eligibility
 
 **(a)** In the case of a veteran whose entitlement to pension is terminated after January 31, 1985, by reason of income from work or training, the veteran shall retain for a period of three years beginning on the date of such termination all eligibility for care and services under such chapter that the veteran would have had if the veteran’s entitlement to pension had not been terminated. Care and services for which such a veteran retains eligibility include, when applicable, drugs and medicines under section 1712(d) of this title.
 
 **(b)** For purposes of this section, the term “terminated by reason of income from work or training” means terminated as a result of the veteran’s receipt of earnings from activity performed for remuneration or with gain, but only if the veteran’s annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran’s pension.
 
-(Added Pub. L. 98–543, title III, § 301(a)(1), Oct. 24, 1984, 98 Stat. 2746, § 525; amended Pub. L. 99–272, title XIX, § 19011(d)(1), Apr. 7, 1986, 100 Stat. 378; Pub. L. 99–576, title VII, § 703(b)(2), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–687, div. B, title XIII, § 1303(c), Nov. 18, 1988, 102 Stat. 4128; renumbered § 1525 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, § 2(c), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, § 403(a), (b)(1), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 104–262, title I, § 101(e)(1), Oct. 9, 1996, 110 Stat. 3180.)
+(Added Pub. L. 98–543, title III, § 301(a)(1), Oct. 24, 1984, 98 Stat. 2746, § 525; amended Pub. L. 99–272, title XIX, § 19011(d)(1), Apr. 7, 1986, 100 Stat. 378; Pub. L. 99–576, title VII, § 703(b)(2), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–687, div. B, title XIII, § 1303(c), Nov. 18, 1988, 102 Stat. 4128; renumbered § 1525 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, § 2(c), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, § 403(a), (b)(1), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 104–262, title I, § 101(e)(1), Oct. 9, 1996, 110 Stat. 3180.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–262, § 101(e)(1)(A), substituted “section 1712(d) of this title” for “section 1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i)”.
+1996—Subsec. (a). Pub. L. 104–262, § 101(e)(1)(A), substituted “section 1712(d) of this title” for “section 1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i)”.
 
-Subsec. (b). Pub. L. 104–262, § 101(e)(1)(B), substituted “remuneration” for “renumeration”.
+Subsec. (b). Pub. L. 104–262, § 101(e)(1)(B), substituted “remuneration” for “renumeration”.
 
-1992—Pub. L. 102–568, § 403(b)(1), substituted “Protection” for “Temporary protection” in section catchline.
+1992—Pub. L. 102–568, § 403(b)(1), substituted “Protection” for “Temporary protection” in section catchline.
 
-Subsec. (a). Pub. L. 102–568, § 403(a)(1), substituted “after January 31, 1985,” for “during the program period”.
+Subsec. (a). Pub. L. 102–568, § 403(a)(1), substituted “after January 31, 1985,” for “during the program period”.
 
-Subsec. (b). Pub. L. 102–568, § 403(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “For the purposes of this section:
+Subsec. (b). Pub. L. 102–568, § 403(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “For the purposes of this section:
 
 “(1) The term ‘terminated by reason of income from work or training’ means terminated as a result of the veteran’s receipt of earnings from activity performed for remuneration or gain, but only if the veteran’s annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran’s pension.
 
@@ -1439,9 +1439,9 @@ Subsec. (b). Pub. L. 102–568, § 403(a)(2), added subsec. (b) and struck out
 
 Pub. L. 102–291 substituted “December 31, 1992” for “January 31, 1992” in par. (2).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 525 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 525 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1712(h)” for “612(h)” and “1712(i)” for “612(i)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1712(h)” for “612(h)” and “1712(i)” for “612(i)”.
 
 1988—Subsec. (b)(2). Pub. L. 100–687 substituted “1992” for “1989”.
 
@@ -1471,19 +1471,19 @@ Provision of health care and services to a veteran pursuant to this section rati
 
 **Amendments**
 
-1975—Pub. L. 94–169, title I, § 101(2)(G), Dec. 23, 1975, 89 Stat. 1014, substituted “SURVIVING SPOUSES” for “WIDOWS” in subchapter heading.
+1975—Pub. L. 94–169, title I, § 101(2)(G), Dec. 23, 1975, 89 Stat. 1014, substituted “SURVIVING SPOUSES” for “WIDOWS” in subchapter heading.
 
 ### Wars Before World War I
 
-#### [§ 1531. Vacant]
+#### [§ 1531. Vacant]
 
 **Editorial Notes**
 
 **Codification**
 
-Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 1543 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 531 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137; Pub. L. 90–77, title I, § 105, Aug. 31, 1967, 81 Stat. 179, which provided for a monthly pension to widows of Mexican War veterans, was repealed by Pub. L. 94–169, title I, § 101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
+Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 1543 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 531 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137; Pub. L. 90–77, title I, § 105, Aug. 31, 1967, 81 Stat. 179, which provided for a monthly pension to widows of Mexican War veterans, was repealed by Pub. L. 94–169, title I, § 101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
 
-#### § 1532. Surviving spouses of Civil War veterans
+#### § 1532. Surviving spouses of Civil War veterans
 
 **(a)** The Secretary shall pay to the surviving spouse of each Civil War veteran who met the service requirements of this section a pension at the following monthly rate:
 
@@ -1503,7 +1503,7 @@ Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 
 
 **(3)** for any period of time if a child was born of the marriage, or was born to them before the marriage.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 532; Pub. L. 90–77, title I, §§ 101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 94–169, title I, § 106(20)–(23), Dec. 23, 1975, 89 Stat. 1018; Pub. L. 102–54, § 14(b)(7), June 13, 1991, 105 Stat. 283; renumbered § 1532 and amended Pub. L. 102–83, §§ 4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–446, title XII, § 1201(a)(2), Nov. 2, 1994, 108 Stat. 4682.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 532; Pub. L. 90–77, title I, §§ 101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 94–169, title I, § 106(20)–(23), Dec. 23, 1975, 89 Stat. 1018; Pub. L. 102–54, § 14(b)(7), June 13, 1991, 105 Stat. 283; renumbered § 1532 and amended Pub. L. 102–83, §§ 4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–446, title XII, § 1201(a)(2), Nov. 2, 1994, 108 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -1511,53 +1511,53 @@ Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 
 
 1994—Subsec. (c). Pub. L. 103–446 substituted “Veterans’ Administration” for “Secretary”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 532 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 532 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
 Pub. L. 102–54 substituted a period for semicolon at end of par. (2) and struck out at end “unless such surviving spouse was the spouse of the veteran during such veteran’s service in the Civil War, in which case the monthly rate shall be $75.”
 
-Subsec. (c). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Subsec. (c). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1975—Pub. L. 94–169, § 106(23), substituted “Surviving spouses” for “Widows” in section catchline.
+1975—Pub. L. 94–169, § 106(23), substituted “Surviving spouses” for “Widows” in section catchline.
 
-Subsec. (a). Pub. L. 94–169, § 106(20), substituted “pay to the surviving spouse” for “pay to the widow”, “such surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran’s” for “his”.
+Subsec. (a). Pub. L. 94–169, § 106(20), substituted “pay to the surviving spouse” for “pay to the widow”, “such surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran’s” for “his”.
 
-Subsec. (b). Pub. L. 94–169, § 106(21), substituted “surviving spouse” for “widow”.
+Subsec. (b). Pub. L. 94–169, § 106(21), substituted “surviving spouse” for “widow”.
 
-Subsec. (c). Pub. L. 94–169, § 106(21), substituted “such veteran” for “he” wherever appearing.
+Subsec. (c). Pub. L. 94–169, § 106(21), substituted “such veteran” for “he” wherever appearing.
 
-Subsec. (d). Pub. L. 94–169, § 106(22), substituted “surviving spouse”, “such surviving spouse” and “such veteran” for “widow”, “she” and “him”, respectively.
+Subsec. (d). Pub. L. 94–169, § 106(22), substituted “surviving spouse”, “such surviving spouse” and “such veteran” for “widow”, “she” and “him”, respectively.
 
-1967—Subsec. (a)(2). Pub. L. 90–77, § 105, substituted ”$70” for “$65”.
+1967—Subsec. (a)(2). Pub. L. 90–77, § 105, substituted ”$70” for “$65”.
 
-Subsec. (d). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+Subsec. (d). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1967 Amendment**
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
-#### § 1533. Children of Civil War veterans
+#### § 1533. Children of Civil War veterans
 
 Whenever there is no surviving spouse entitled to pension under section 1532 of this title, the Secretary shall pay to the children of each Civil War veteran who met the service requirements of section 1532 of this title a pension at the monthly rate of $73.13 for one child, plus $8.13 for each additional child, with the total amount equally divided.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 533; Pub. L. 94–169, title I, § 106(25), Dec. 23, 1975, 89 Stat. 1018; renumbered § 1533 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 533; Pub. L. 94–169, title I, § 106(25), Dec. 23, 1975, 89 Stat. 1018; renumbered § 1533 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 533 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 533 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1532” for “532” in two places.
+Pub. L. 102–83, § 5(c)(1), substituted “1532” for “532” in two places.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1975—Pub. L. 94–169 substituted “surviving spouse” for “widow”.
 
@@ -1565,9 +1565,9 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-#### § 1534. Surviving spouses of Indian War veterans
+#### § 1534. Surviving spouses of Indian War veterans
 
 **(a)** The Secretary shall pay to the surviving spouse of each Indian War veteran who met the service requirements of section 1511 of this title a pension at the following monthly rate:
 
@@ -1585,57 +1585,57 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that
 
 **(3)** for any period of time if a child was born of the marriage, or was born to them before the marriage.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 534; Pub. L. 90–77, title I, §§ 101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 94–169, title I, § 106(26)–(29), Dec. 23, 1975, 89 Stat. 1018; Pub. L. 102–54, § 14(b)(7), June 13, 1991, 105 Stat. 283; renumbered § 1534 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 534; Pub. L. 90–77, title I, §§ 101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 94–169, title I, § 106(26)–(29), Dec. 23, 1975, 89 Stat. 1018; Pub. L. 102–54, § 14(b)(7), June 13, 1991, 105 Stat. 283; renumbered § 1534 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 534 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 534 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1511” for “511” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1511” for “511” in introductory provisions.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Pub. L. 102–54 substituted a period for semicolon at end of par. (2) and struck out at end “; unless such surviving spouse was the spouse of the veteran during such veteran’s service in one of the Indian Wars, in which case the monthly rate shall be $75.”
+Pub. L. 102–54 substituted a period for semicolon at end of par. (2) and struck out at end “; unless such surviving spouse was the spouse of the veteran during such veteran’s service in one of the Indian Wars, in which case the monthly rate shall be $75.”
 
-1975—Pub. L. 94–169, § 106(29), substituted “Surviving spouses” for “Widows” in section catchline.
+1975—Pub. L. 94–169, § 106(29), substituted “Surviving spouses” for “Widows” in section catchline.
 
-Subsec. (a). Pub. L. 94–169, § 106(26), substituted “pay to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran’s” for “his”.
+Subsec. (a). Pub. L. 94–169, § 106(26), substituted “pay to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran’s” for “his”.
 
-Subsec. (b). Pub. L. 94–169, § 106(27), substituted “surviving spouse” for “widow”.
+Subsec. (b). Pub. L. 94–169, § 106(27), substituted “surviving spouse” for “widow”.
 
-Subsec. (c). Pub. L. 94–169, § 106(28), substituted “paid to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “unless she” and “such veteran” for “him”.
+Subsec. (c). Pub. L. 94–169, § 106(28), substituted “paid to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “unless she” and “such veteran” for “him”.
 
-1967—Subsec. (a)(2). Pub. L. 90–77, § 105, substituted “$70” for “$65”.
+1967—Subsec. (a)(2). Pub. L. 90–77, § 105, substituted “$70” for “$65”.
 
-Subsec. (c). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+Subsec. (c). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1967 Amendment**
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
-#### § 1535. Children of Indian War veterans
+#### § 1535. Children of Indian War veterans
 
 Whenever there is no surviving spouse entitled to pension under section 1534 of this title, the Secretary shall pay to the children of each Indian War veteran who met the service requirements of section 1511 of this title a pension at the monthly rate of $73.13 for one child, plus $8.13 for each additional child, with the total amount equally divided.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 535; Pub. L. 94–169, title I, § 106(31), Dec. 23, 1975, 89 Stat. 1018; renumbered § 1535 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 535; Pub. L. 94–169, title I, § 106(31), Dec. 23, 1975, 89 Stat. 1018; renumbered § 1535 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 535 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 535 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1534” for “534” and “1511” for “511”.
+Pub. L. 102–83, § 5(c)(1), substituted “1534” for “534” and “1511” for “511”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1975—Pub. L. 94–169 substituted “surviving spouse” for “widow”.
 
@@ -1643,9 +1643,9 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-#### § 1536. Surviving spouses of Spanish-American War veterans
+#### § 1536. Surviving spouses of Spanish-American War veterans
 
 **(a)** The Secretary shall pay to the surviving spouse of each Spanish-American War veteran who met the service requirements of section 1512(a) of this title a pension at the monthly rate of $70, unless such surviving spouse was the spouse of the veteran during such veteran’s service in the Spanish-American War, in which case the monthly rate shall be $75.
 
@@ -1663,53 +1663,53 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that
 
 **(1)** Any surviving spouse eligible for pension under this section shall, if such surviving spouse so elects, be paid pension at the rates prescribed by section 1541 of this title, and under the conditions (other than the service requirements) applicable to pension paid under that section to surviving spouses of veterans of a period of war. If pension is paid pursuant to such an election, the election shall be irrevocable.
 
-**(2)** The Secretary shall pay each month to the surviving spouse of each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (A) that which is payable to such surviving spouse under subsections (a) and (b) of this section as increased by section 544 1
+**(2)** The Secretary shall pay each month to the surviving spouse of each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (A) that which is payable to such surviving spouse under subsections (a) and (b) of this section as increased by section 544 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, as in effect on December 31, 1978; or (B) that which is payable under section 1541 of this title, as in effect on December 31, 1978, as increased by such section 544,1 as in effect on such date, to a surviving spouse of a World War I veteran with the same annual income and corpus of estate. Each change in the amount of pension required by this paragraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 536; Pub. L. 90–77, title I, §§ 101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 92–328, title I, § 107, June 30, 1972, 86 Stat. 395; Pub. L. 94–169, title I, § 106(32)–(37), Dec. 23, 1975, 89 Stat. 1018, 1019; Pub. L. 95–588, title I, § 108, Nov. 4, 1978, 92 Stat. 2502; renumbered § 1536 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 536; Pub. L. 90–77, title I, §§ 101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 92–328, title I, § 107, June 30, 1972, 86 Stat. 395; Pub. L. 94–169, title I, § 106(32)–(37), Dec. 23, 1975, 89 Stat. 1018, 1019; Pub. L. 95–588, title I, § 108, Nov. 4, 1978, 92 Stat. 2502; renumbered § 1536 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 544 of this title, referred to in subsec. (d)(2), was repealed by Pub. L. 95–588, title I, § 112(a)(1), Nov. 4, 1978, 92 Stat. 2505, eff. Jan. 1, 1979.
+Section 544 of this title, referred to in subsec. (d)(2), was repealed by Pub. L. 95–588, title I, § 112(a)(1), Nov. 4, 1978, 92 Stat. 2505, eff. Jan. 1, 1979.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 536 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 536 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1512(a)” for “512(a)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1512(a)” for “512(a)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1541” for “541” in pars. (1) and (2).
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1541” for “541” in pars. (1) and (2).
 
-Subsec. (d)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1978—Subsec. (d)(1). Pub. L. 95–588, § 108(1), substituted “a period of war” for “World War I”, and struck out “, except as provided in paragraph (2)” after “irrevocable”.
+1978—Subsec. (d)(1). Pub. L. 95–588, § 108(1), substituted “a period of war” for “World War I”, and struck out “, except as provided in paragraph (2)” after “irrevocable”.
 
-Subsec. (d)(2). Pub. L. 95–588, § 108(2), inserted “, as in effect on December 31, 1978” after “of this title” in two places, and “as in effect on such date” after “such section 544”.
+Subsec. (d)(2). Pub. L. 95–588, § 108(2), inserted “, as in effect on December 31, 1978” after “of this title” in two places, and “as in effect on such date” after “such section 544”.
 
-1975—Pub. L. 94–169, § 106(37), substituted “Surviving spouses” for “Widows” in section catchline.
+1975—Pub. L. 94–169, § 106(37), substituted “Surviving spouses” for “Widows” in section catchline.
 
-Subsec. (a). Pub. L. 94–169, § 106(32), substituted “pay to the surviving spouse” for “pay to the widow”, “unless such surviving spouse” for “unless she”, “the spouse” for “the wife” and “such veteran’s” for “his”.
+Subsec. (a). Pub. L. 94–169, § 106(32), substituted “pay to the surviving spouse” for “pay to the widow”, “unless such surviving spouse” for “unless she”, “the spouse” for “the wife” and “such veteran’s” for “his”.
 
-Subsec. (b). Pub. L. 94–169, § 106(33), substituted “surviving spouse” for “widow”.
+Subsec. (b). Pub. L. 94–169, § 106(33), substituted “surviving spouse” for “widow”.
 
-Subsec. (c). Pub. L. 94–169, § 106(33), substituted “paid to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “unless she” and “such veteran” for “him”.
+Subsec. (c). Pub. L. 94–169, § 106(33), substituted “paid to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “unless she” and “such veteran” for “him”.
 
-Subsec. (d)(1). Pub. L. 94–169, § 106(34), substituted “Any surviving spouse” for “Any widow”, “if such surviving spouse” for “if she” and “surviving spouses” for “widows”.
+Subsec. (d)(1). Pub. L. 94–169, § 106(34), substituted “Any surviving spouse” for “Any widow”, “if such surviving spouse” for “if she” and “surviving spouses” for “widows”.
 
-Subsec. (d)(2). Pub. L. 94–169, § 106(35), (36), substituted “surviving spouse” for “widow” wherever appearing, and “such surviving spouse” for “her”.
+Subsec. (d)(2). Pub. L. 94–169, § 106(35), (36), substituted “surviving spouse” for “widow” wherever appearing, and “such surviving spouse” for “her”.
 
 1972—Subsec. (d). Pub. L. 92–328 added subsec. (d).
 
-1967—Subsec. (a). Pub. L. 90–77, § 105, substituted “$70” for “$65”.
+1967—Subsec. (a). Pub. L. 90–77, § 105, substituted “$70” for “$65”.
 
-Subsec. (c). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+Subsec. (c). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1719,7 +1719,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1972 Amendment**
 
@@ -1733,21 +1733,21 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 Maximum annual pension rates under subsec. (d)(2) of this section increased by $600, effective Oct. 1, 1998, see section 8206 of Pub. L. 105–178, set out as a note under section 1521 of this title.
 
-#### § 1537. Children of Spanish-American War veterans
+#### § 1537. Children of Spanish-American War veterans
 
 Whenever there is no surviving spouse entitled to pension under section 1536 of this title, the Secretary shall pay to the children of each Spanish-American War veteran who met the service requirements of section 1512(a) of this title a pension at the monthly rate of $73.13 for one child, plus $8.13 for each additional child, with the total amount equally divided.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 537; Pub. L. 94–169, title I, § 106(39), Dec. 23, 1975, 89 Stat. 1019; renumbered § 1537 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 537; Pub. L. 94–169, title I, § 106(39), Dec. 23, 1975, 89 Stat. 1019; renumbered § 1537 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 537 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 537 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1536” for “536” and “1512(a)” for “512(a)”.
+Pub. L. 102–83, § 5(c)(1), substituted “1536” for “536” and “1512(a)” for “512(a)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1975—Pub. L. 94–169 substituted “surviving spouse” for “widow”.
 
@@ -1755,7 +1755,7 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 ### Other Periods of War
 
@@ -1763,13 +1763,13 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that
 
 **Amendments**
 
-1991—Pub. L. 102–25, title III, § 333(c)(1), Apr. 6, 1991, 105 Stat. 88, substituted “Other Periods of War” for “Mexican Border Period, World War I, World War II, The Korean Conflict, and The Vietnam Era” as subheading.
+1991—Pub. L. 102–25, title III, § 333(c)(1), Apr. 6, 1991, 105 Stat. 88, substituted “Other Periods of War” for “Mexican Border Period, World War I, World War II, The Korean Conflict, and The Vietnam Era” as subheading.
 
-1970—Pub. L. 91–588, § 9(d)(3), Dec. 24, 1970, 84 Stat. 1585, inserted reference to Mexican border period in subheading.
+1970—Pub. L. 91–588, § 9(d)(3), Dec. 24, 1970, 84 Stat. 1585, inserted reference to Mexican border period in subheading.
 
-1967—Pub. L. 90–77, title III, § 202(j), Aug. 31, 1967, 81 Stat. 183, inserted reference to Vietnam era in subheading.
+1967—Pub. L. 90–77, title III, § 202(j), Aug. 31, 1967, 81 Stat. 183, inserted reference to Vietnam era in subheading.
 
-#### § 1541. Surviving spouses of veterans of a period of war
+#### § 1541. Surviving spouses of veterans of a period of war
 
 **(a)** The Secretary shall pay to the surviving spouse of each veteran of a period of war who met the service requirements prescribed in section 1521(j) of this title, or who at the time of death was receiving (or entitled to receive) compensation or retirement pay for a service-connected disability, pension at the rate prescribed by this section, as increased from time to time under section 5312 of this title.
 
@@ -1801,7 +1801,7 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that
 
 **(h)** As used in this section and section 1542 of this title, the term “veteran” includes a person who has completed at least two years of honorable active military, naval, air, or space service, as certified by the Secretary concerned, but whose death in such service was not in line of duty.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 541; Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 434; Pub. L. 88–664, § 3(c), (d), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §§ 101(a), 106, title II, § 202(d)–(f), Aug. 31, 1967, 81 Stat. 178, 179, 182; Pub. L. 90–275, § 1(c), (d), Mar. 28, 1968, 82 Stat. 65, 66; Pub. L. 91–588, §§ 1(c), (d), 9(d), Dec. 24, 1970, 84 Stat. 1581, 1584; Pub. L. 92–198, § 1(c)–(e), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, § 1(c), (d), 2, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, § 3, Dec. 21, 1974, 88 Stat. 1703; Pub. L. 94–169, title I, §§ 101(2)(B), (C), (H), 103, 106(40), Dec. 23, 1975, 89 Stat. 1013, 1014, 1016, 1019; Pub. L. 94–432, title II, § 203, Sept. 30, 1976, 90 Stat. 1370; Pub. L. 95–204, title I, § 102, Dec. 2, 1977, 91 Stat. 1456; Pub. L. 95–588, title I, § 109(a), Nov. 4, 1978, 92 Stat. 2503; Pub. L. 102–25, title III, § 333(b), Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1541 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 111–275, title VI, § 608(b), Oct. 13, 2010, 124 Stat. 2887; Pub. L. 116–283, div. A, title IX, § 926(a)(20), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 541; Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 434; Pub. L. 88–664, § 3(c), (d), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §§ 101(a), 106, title II, § 202(d)–(f), Aug. 31, 1967, 81 Stat. 178, 179, 182; Pub. L. 90–275, § 1(c), (d), Mar. 28, 1968, 82 Stat. 65, 66; Pub. L. 91–588, §§ 1(c), (d), 9(d), Dec. 24, 1970, 84 Stat. 1581, 1584; Pub. L. 92–198, § 1(c)–(e), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, § 1(c), (d), 2, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, § 3, Dec. 21, 1974, 88 Stat. 1703; Pub. L. 94–169, title I, §§ 101(2)(B), (C), (H), 103, 106(40), Dec. 23, 1975, 89 Stat. 1013, 1014, 1016, 1019; Pub. L. 94–432, title II, § 203, Sept. 30, 1976, 90 Stat. 1370; Pub. L. 95–204, title I, § 102, Dec. 2, 1977, 91 Stat. 1456; Pub. L. 95–588, title I, § 109(a), Nov. 4, 1978, 92 Stat. 2503; Pub. L. 102–25, title III, § 333(b), Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1541 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 111–275, title VI, § 608(b), Oct. 13, 2010, 124 Stat. 2887; Pub. L. 116–283, div. A, title IX, § 926(a)(20), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -1809,29 +1809,29 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that
 
 2021—Subsec. (h). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-2010—Subsec. (b). Pub. L. 111–275, § 608(b)(1), substituted “$7,933” for “$2,379”.
+2010—Subsec. (b). Pub. L. 111–275, § 608(b)(1), substituted “$7,933” for “$2,379”.
 
-Subsec. (c). Pub. L. 111–275, § 608(b)(2), substituted “$10,385” for “$3,116” and “$2,020” for “$600”.
+Subsec. (c). Pub. L. 111–275, § 608(b)(2), substituted “$10,385” for “$3,116” and “$2,020” for “$600”.
 
-Subsec. (d)(1). Pub. L. 111–275, § 608(b)(3)(A), substituted “$12,681” for “$3,806”.
+Subsec. (d)(1). Pub. L. 111–275, § 608(b)(3)(A), substituted “$12,681” for “$3,806”.
 
-Subsec. (d)(2). Pub. L. 111–275, § 608(b)(3)(B), substituted “$15,128” for “$4,543” and “$2,020” for “$600”.
+Subsec. (d)(2). Pub. L. 111–275, § 608(b)(3)(B), substituted “$15,128” for “$4,543” and “$2,020” for “$600”.
 
-Subsec. (e)(1). Pub. L. 111–275, § 608(b)(4), substituted “$9,696” for “$2,908”, “$12,144” for “$3,645”, and “$2,020” for “$600”.
+Subsec. (e)(1). Pub. L. 111–275, § 608(b)(4), substituted “$9,696” for “$2,908”, “$12,144” for “$3,645”, and “$2,020” for “$600”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 541 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 541 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1521(j)” for “521(j)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1521(j)” for “521(j)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–40 substituted “5312” for “3112”.
 
 Subsec. (f)(1)(E). Pub. L. 102–25 added cl. (E).
 
-Subsec. (g). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (g). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (h). Pub. L. 102–83, § 5(c)(1), substituted “1542” for “542”.
+Subsec. (h). Pub. L. 102–83, § 5(c)(1), substituted “1542” for “542”.
 
 1978—Subsec. (a). Pub. L. 95–588 revised eligibility provisions relating to surviving spouses to apply to veterans of any period of war rather than veterans of specifically named wars and inserted reference to periodic increases of rate of pension payments pursuant to section 3112 of this title.
 
@@ -1847,91 +1847,91 @@ Subsec. (f). Pub. L. 95–588 substituted provisions specifying the eligibility 
 
 Subsecs. (g), (h). Pub. L. 95–588 added subsecs. (g) and (h).
 
-1977—Subsec. (b)(1). Pub. L. 95–204, § 102(1), increased monthly rate of pension from $125 to $133, inserted authorization for reductions by .07 for amounts more than 2,800 but not more than 3,770, and substituted “1,100” for “1,200” in two places, “1,800” for “2,300” in two places, and “2,800” for “3,540”.
+1977—Subsec. (b)(1). Pub. L. 95–204, § 102(1), increased monthly rate of pension from $125 to $133, inserted authorization for reductions by .07 for amounts more than 2,800 but not more than 3,770, and substituted “1,100” for “1,200” in two places, “1,800” for “2,300” in two places, and “2,800” for “3,540”.
 
-Subsec. (b)(3). Pub. L. 95–204, § 102(2), substituted “$3,770” for “$3,540”.
+Subsec. (b)(3). Pub. L. 95–204, § 102(2), substituted “$3,770” for “$3,540”.
 
-Subsec. (c)(1). Pub. L. 95–204, § 102(3), increased monthly rate of pension from $149 to $159, and substituted “1,600” for “1,700” in two places, “2,400” for “2,500” in two places, “2,900” for “3,300” in two places, and “5,070” for “4,760”.
+Subsec. (c)(1). Pub. L. 95–204, § 102(3), increased monthly rate of pension from $149 to $159, and substituted “1,600” for “1,700” in two places, “2,400” for “2,500” in two places, “2,900” for “3,300” in two places, and “5,070” for “4,760”.
 
-Subsec. (c)(2). Pub. L. 95–204, § 102(4), substituted “$5,070” for “$4,760”.
+Subsec. (c)(2). Pub. L. 95–204, § 102(4), substituted “$5,070” for “$4,760”.
 
-Subsec. (d). Pub. L. 95–204, § 102(5), substituted “$26” for “$24”.
+Subsec. (d). Pub. L. 95–204, § 102(5), substituted “$26” for “$24”.
 
-1976—Subsec. (b)(1). Pub. L. 94–432, § 203(1), increased monthly rate of pension from $117 to $125 and substituted $900 to $1,200 for $900 to $1,500, $1,200 to $2,300 for $1,500 to $2,700 and $2,300 to $3,540 for $2,700 to $3,300.
+1976—Subsec. (b)(1). Pub. L. 94–432, § 203(1), increased monthly rate of pension from $117 to $125 and substituted $900 to $1,200 for $900 to $1,500, $1,200 to $2,300 for $1,500 to $2,700 and $2,300 to $3,540 for $2,700 to $3,300.
 
-Subsec. (b)(3). Pub. L. 94–432, § 203(2), substituted “$3,540” for “$3,300”.
+Subsec. (b)(3). Pub. L. 94–432, § 203(2), substituted “$3,540” for “$3,300”.
 
-Subsec. (c)(1). Pub. L. 94–432, § 203(3), increased monthly rate of pension from $139 to $149 and substituted $1,100 to $1,700 for $1,100 to $1,800, $1,700 to $2,500 for $1,800 to $2,700, $2,500 to $3,300 for $2,700 to $3,500 and $3,300 to $4,760 for $3,500 to $4,500.
+Subsec. (c)(1). Pub. L. 94–432, § 203(3), increased monthly rate of pension from $139 to $149 and substituted $1,100 to $1,700 for $1,100 to $1,800, $1,700 to $2,500 for $1,800 to $2,700, $2,500 to $3,300 for $2,700 to $3,500 and $3,300 to $4,760 for $3,500 to $4,500.
 
-Subsec. (c)(2). Pub. L. 94–432, § 203(4), substituted “$4,760” for “$4,500”.
+Subsec. (c)(2). Pub. L. 94–432, § 203(4), substituted “$4,760” for “$4,500”.
 
-Subsec. (d). Pub. L. 94–432, § 203(5), substituted “$24” for “$22”.
+Subsec. (d). Pub. L. 94–432, § 203(5), substituted “$24” for “$22”.
 
-1975—Pub. L. 94–169, § 101(2)(H), substituted “Surviving Spouses” for “Widows” in section catchline.
+1975—Pub. L. 94–169, § 101(2)(H), substituted “Surviving Spouses” for “Widows” in section catchline.
 
-Subsec. (a). Pub. L. 94–169, § 101(2)(B), substituted “surviving spouse” for “widow” and struck out “his” before “death”.
+Subsec. (a). Pub. L. 94–169, § 101(2)(B), substituted “surviving spouse” for “widow” and struck out “his” before “death”.
 
-Subsec. (b). Pub. L. 94–169, § 103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $108 to $117, substituted $900 to $1500 for $900 to $2100, $1500 to $2700 for $2100 to $3000 the minimum and maximum income ranges for which the pension rates will be reduced by 4 and 5 cents per dollar, respectively, inserted income range of $2700 to $3300 for which the pension rate will be reduced by 6 cents, and increased from $3000 to $3300 the maximum income in excess of which no pension will be paid.
+Subsec. (b). Pub. L. 94–169, § 103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $108 to $117, substituted $900 to $1500 for $900 to $2100, $1500 to $2700 for $2100 to $3000 the minimum and maximum income ranges for which the pension rates will be reduced by 4 and 5 cents per dollar, respectively, inserted income range of $2700 to $3300 for which the pension rate will be reduced by 6 cents, and increased from $3000 to $3300 the maximum income in excess of which no pension will be paid.
 
-Subsec. (c). Pub. L. 94–169, § 103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, pension rate from $128 to $139, substituted $1100 to $1800 for $1100 to $2100, $1800 to $2700 for $2100 to $3000, $2700 to $3500 for $3000 to $4200 the minimum and maximum income ranges for which the pension rates will be reduced by 2, 3 and 4 cents per dollar, respectively, inserted income range of $3500 to $4500 for which the rate will be reduced by 5 cents, and increased the maximum income from $4200 to $4500 in excess of which no pension will be paid.
+Subsec. (c). Pub. L. 94–169, § 103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, pension rate from $128 to $139, substituted $1100 to $1800 for $1100 to $2100, $1800 to $2700 for $2100 to $3000, $2700 to $3500 for $3000 to $4200 the minimum and maximum income ranges for which the pension rates will be reduced by 2, 3 and 4 cents per dollar, respectively, inserted income range of $3500 to $4500 for which the rate will be reduced by 5 cents, and increased the maximum income from $4200 to $4500 in excess of which no pension will be paid.
 
-Subsec. (d). Pub. L. 94–169, § 103(2), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “surviving spouse” for “widow” and “$22” for “$20”.
+Subsec. (d). Pub. L. 94–169, § 103(2), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “surviving spouse” for “widow” and “$22” for “$20”.
 
-Subsec. (e). Pub. L. 94–169, § 101(2)(C), substituted “to a surviving spouse of a veteran under this section unless the spouse was married to the veteran” for “to a widow of a veteran under this section unless she was married to him”, and “(D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran” for “(D) before the expiration of ten years following termination of the Vietnam era in the case of a widow of a Vietnam era veteran”.
+Subsec. (e). Pub. L. 94–169, § 101(2)(C), substituted “to a surviving spouse of a veteran under this section unless the spouse was married to the veteran” for “to a widow of a veteran under this section unless she was married to him”, and “(D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran” for “(D) before the expiration of ten years following termination of the Vietnam era in the case of a widow of a Vietnam era veteran”.
 
-Subsec. (e)(1). Pub. L. 94–169, § 106(40), substituted “surviving spouse” for “widow” in subcls. (A), (B) and (C).
+Subsec. (e)(1). Pub. L. 94–169, § 106(40), substituted “surviving spouse” for “widow” in subcls. (A), (B) and (C).
 
-1974—Subsec. (b). Pub. L. 93–527, § 3(1), substituted “$108” for “$96”, “$900” for “$1400” wherever appearing, and “$2100” for “$2600”, and inserted provisions for reduction by 5 cents for each dollar of annual income in excess of $2100 up to and including $3000, that in no event shall monthly rate of pension be less than $5.00, and raising the maximum income from $2600 to $3000.
+1974—Subsec. (b). Pub. L. 93–527, § 3(1), substituted “$108” for “$96”, “$900” for “$1400” wherever appearing, and “$2100” for “$2600”, and inserted provisions for reduction by 5 cents for each dollar of annual income in excess of $2100 up to and including $3000, that in no event shall monthly rate of pension be less than $5.00, and raising the maximum income from $2600 to $3000.
 
-Subsec. (c). Pub. L. 93–527, § 3(2), substituted “$128” for “$114”, and “$2100” for “$2500” wherever appearing, “$3000” for “$3400” wherever appearing, and “$4200” for “$3800” wherever appearing.
+Subsec. (c). Pub. L. 93–527, § 3(2), substituted “$128” for “$114”, and “$2100” for “$2500” wherever appearing, “$3000” for “$3400” wherever appearing, and “$4200” for “$3800” wherever appearing.
 
-Subsec. (d). Pub. L. 93–527, § 3(3), substituted “$20” for “$18”.
+Subsec. (d). Pub. L. 93–527, § 3(3), substituted “$20” for “$18”.
 
-Subsec. (f). Pub. L. 93–527, § 3(4), added subsec. (f).
+Subsec. (f). Pub. L. 93–527, § 3(4), added subsec. (f).
 
-1973—Subsec. (b). Pub. L. 93–177, § 1(c), substituted “$86” for “$87” and “$1,400” for “$1,900”.
+1973—Subsec. (b). Pub. L. 93–177, § 1(c), substituted “$86” for “$87” and “$1,400” for “$1,900”.
 
-Subsec. (c). Pub. L. 93–177, § 1(d), substituted “$700” for “$600”, “$114” for “$104”, “$1,100” for “$1,400”, “$2,500” for “$2,700”, and “$3,400” for “$3,800” in existing provisions and inserted provision for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $3,400 up to and including $3,800.
+Subsec. (c). Pub. L. 93–177, § 1(d), substituted “$700” for “$600”, “$114” for “$104”, “$1,100” for “$1,400”, “$2,500” for “$2,700”, and “$3,400” for “$3,800” in existing provisions and inserted provision for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $3,400 up to and including $3,800.
 
-Subsec. (d). Pub. L. 93–177, § 2, substituted “$18” for “$17”.
+Subsec. (d). Pub. L. 93–177, § 2, substituted “$18” for “$17”.
 
-1971—Subsec. (b). Pub. L. 92–198, § 1(c), substituted formula for computing monthly pension rates of widow without child by providing for a maximum monthly pension for each group within designated income category and for computing each individual’s monthly pension by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and raised the maximum income from $2,300 to $2,600.
+1971—Subsec. (b). Pub. L. 92–198, § 1(c), substituted formula for computing monthly pension rates of widow without child by providing for a maximum monthly pension for each group within designated income category and for computing each individual’s monthly pension by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and raised the maximum income from $2,300 to $2,600.
 
-Subsec. (c). Pub. L. 92–198, § 1(d), substituted formula for computing monthly pension rates of widow with one child by providing for a maximum monthly pension for each group with designated annual income category and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and further providing that whenever the monthly rate payable is less than the amount payable to the child under section 542 of this title, the widow would be paid at the child’s rate, and raised the maximum income from $3,500 to $3,800.
+Subsec. (c). Pub. L. 92–198, § 1(d), substituted formula for computing monthly pension rates of widow with one child by providing for a maximum monthly pension for each group with designated annual income category and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and further providing that whenever the monthly rate payable is less than the amount payable to the child under section 542 of this title, the widow would be paid at the child’s rate, and raised the maximum income from $3,500 to $3,800.
 
-Subsec. (d). Pub. L. 92–198, § 1(e), substituted “$17” for “$16”.
+Subsec. (d). Pub. L. 92–198, § 1(e), substituted “$17” for “$16”.
 
-1970—Pub. L. 91–588, § 9(d)(3), inserted reference to Mexican border period in section catchline.
+1970—Pub. L. 91–588, § 9(d)(3), inserted reference to Mexican border period in section catchline.
 
-Subsec. (a). Pub. L. 91–588, § 9(d)(1), inserted reference to Mexican border period.
+Subsec. (a). Pub. L. 91–588, § 9(d)(1), inserted reference to Mexican border period.
 
-Subsec. (b). Pub. L. 91–588, § 1(c), provided new annual income limits to measure monthly pension rates of widow without child by inserting minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $29, $23, and $17, respectively, and within existing annual income limits from a maximum of $300 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$81” for “$74”, “80” for “73”, “79” for “72”, “78” for “70”, “76” for “67”, “73” for “64”, “70” for “61”, “67” for “58”, “64” for “55”, “61” for “51”, “58” for “48”, “55” for “45”, “51” for “41”, “48” for “37”, “45” for “33”, “41” for “29”, “37” for “23”, and “33” for “17”.
+Subsec. (b). Pub. L. 91–588, § 1(c), provided new annual income limits to measure monthly pension rates of widow without child by inserting minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $29, $23, and $17, respectively, and within existing annual income limits from a maximum of $300 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$81” for “$74”, “80” for “73”, “79” for “72”, “78” for “70”, “76” for “67”, “73” for “64”, “70” for “61”, “67” for “58”, “64” for “55”, “61” for “51”, “58” for “48”, “55” for “45”, “51” for “41”, “48” for “37”, “45” for “33”, “41” for “29”, “37” for “23”, and “33” for “17”.
 
-Subsec. (c). Pub. L. 91–588, § 1(d), provided new annual income limits to measure monthly pension rates of widow with one child by inserting minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $45, $43, and $41, respectively, and within existing annual income limits from a maximum of $600 to a maximum of $3,200, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$99” for “$90”, “98” for “89”, “97” for “88”, “96” for “87”, “95” for “86”, “94” for “85”, “92” for “83”, “90” for “81”, “88” for “79”, “86” for “77”, “84” for “75”, “82” for “73”, “80” for “71”, “78” for “69”, “76” for “67”, “74” for “65”, “72” for “63”, “70” for “61”, “68” for “59”, “66” for “57”, “64” for “55”, “62” for “53”, “59” for “51”, “56” for “48”, “53” for “45”, “51” for “43”, and “48” for “41”.
+Subsec. (c). Pub. L. 91–588, § 1(d), provided new annual income limits to measure monthly pension rates of widow with one child by inserting minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $45, $43, and $41, respectively, and within existing annual income limits from a maximum of $600 to a maximum of $3,200, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$99” for “$90”, “98” for “89”, “97” for “88”, “96” for “87”, “95” for “86”, “94” for “85”, “92” for “83”, “90” for “81”, “88” for “79”, “86” for “77”, “84” for “75”, “82” for “73”, “80” for “71”, “78” for “69”, “76” for “67”, “74” for “65”, “72” for “63”, “70” for “61”, “68” for “59”, “66” for “57”, “64” for “55”, “62” for “53”, “59” for “51”, “56” for “48”, “53” for “45”, “51” for “43”, and “48” for “41”.
 
-Subsec. (e)(1). Pub. L. 91–588, § 9(d)(2), inserted reference to Mexican border period.
+Subsec. (e)(1). Pub. L. 91–588, § 9(d)(2), inserted reference to Mexican border period.
 
-1968—Subsec. (b). Pub. L. 90–275, § 1(c), in providing new annual income limits to measure monthly pension rates of widow without child, substituted minimum income limit of $300 for monthly benefit of $74 for former $600 limit for monthly benefit of $70, maximum income limit of $2,000 for monthly benefit of $17 for former $1,800 limit for monthly benefit of $29, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $73 to $23 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $51.
+1968—Subsec. (b). Pub. L. 90–275, § 1(c), in providing new annual income limits to measure monthly pension rates of widow without child, substituted minimum income limit of $300 for monthly benefit of $74 for former $600 limit for monthly benefit of $70, maximum income limit of $2,000 for monthly benefit of $17 for former $1,800 limit for monthly benefit of $29, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $73 to $23 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $51.
 
-Subsec. (c). Pub. L. 90–275, § 1(d), in providing new annual income limits to measure monthly pension rates of widow with one child, substituted minimum income limit of $600 for monthly benefit of $90 for former $1,000 limit for monthly benefit of $86, maximum income limit of $3,200 for monthly benefit of $41 for former $3,000 limit for monthly benefit of $45, and twenty-five other in-between limits in one hundred dollar increments from more than $600 to less than $3,100 for monthly benefits of $89 to $43 for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $67.
+Subsec. (c). Pub. L. 90–275, § 1(d), in providing new annual income limits to measure monthly pension rates of widow with one child, substituted minimum income limit of $600 for monthly benefit of $90 for former $1,000 limit for monthly benefit of $86, maximum income limit of $3,200 for monthly benefit of $41 for former $3,000 limit for monthly benefit of $45, and twenty-five other in-between limits in one hundred dollar increments from more than $600 to less than $3,100 for monthly benefits of $89 to $43 for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $67.
 
-1967—Pub. L. 90–77, § 202(f), inserted reference to Vietnam era in section catchline.
+1967—Pub. L. 90–77, § 202(f), inserted reference to Vietnam era in section catchline.
 
-Subsec. (a). Pub. L. 90–77, § 202(d), inserted reference to Vietnam era.
+Subsec. (a). Pub. L. 90–77, § 202(d), inserted reference to Vietnam era.
 
-Subsec. (b). Pub. L. 90–77, § 106(a), increased monthly pension rate in column II from $64, $48, and $27 to $70, $51, and $29, respectively.
+Subsec. (b). Pub. L. 90–77, § 106(a), increased monthly pension rate in column II from $64, $48, and $27 to $70, $51, and $29, respectively.
 
-Subsec. (c). Pub. L. 90–77, § 106(b), increased monthly pension rate in column II from $80, $64, and $43 to $86, $67, and $45, respectively.
+Subsec. (c). Pub. L. 90–77, § 106(b), increased monthly pension rate in column II from $80, $64, and $43 to $86, $67, and $45, respectively.
 
-Subsec. (d). Pub. L. 90–77, § 106(c), substituted “$16” for “$15”.
+Subsec. (d). Pub. L. 90–77, § 106(c), substituted “$16” for “$15”.
 
-Subsec. (e)(1). Pub. L. 90–77, § 202(e), added item (D).
+Subsec. (e)(1). Pub. L. 90–77, § 202(e), added item (D).
 
-Subsec. (e)(2), (3). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+Subsec. (e)(2), (3). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
-1964—Subsec. (b). Pub. L. 88–664, § 3(c), increased monthly pension rate in column II from $60, $45, and $25 to $64, $48, and $27, respectively.
+1964—Subsec. (b). Pub. L. 88–664, § 3(c), increased monthly pension rate in column II from $60, $45, and $25 to $64, $48, and $27, respectively.
 
-Subsec. (c). Pub. L. 88–664, § 3(d), increased monthly pension rate in column II from $75, $60, and $40 to $80, $64, and $43, respectively.
+Subsec. (c). Pub. L. 88–664, § 3(d), increased monthly pension rate in column II from $75, $60, and $40 to $80, $64, and $43, respectively.
 
 1959—Pub. L. 86–211 included widows of World War II and Korean conflict veterans in section catchline.
 
@@ -1959,9 +1959,9 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, §§ 101, 106, Dec. 23, 1975, 89 Stat. 1013, 1017, provided that the amendments made by those sections are effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §§ 101, 106, Dec. 23, 1975, 89 Stat. 1013, 1017, provided that the amendments made by those sections are effective Jan. 1, 1976.
 
-Pub. L. 94–169, title I, § 103, Dec. 23, 1975, 89 Stat. 1016, as amended by Pub. L. 94–432, title I, § 101, Sept. 30, 1976, 90 Stat. 1369, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 103, Dec. 23, 1975, 89 Stat. 1016, as amended by Pub. L. 94–432, title I, § 101, Sept. 30, 1976, 90 Stat. 1369, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1974 Amendment**
 
@@ -1999,11 +1999,11 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 
 Payments for balance of calendar year 1968 and calendar year 1969, calendar year 1970, and during each successive calendar year at prescribed monthly rates when payments would be less under this title as a result of increase in monthly insurance benefits provided by Social Security Amendments of 1967, see section 3 of Pub. L. 90–275, set out as a note under section 1521 of this title.
 
-#### § 1542. Children of veterans of a period of war
+#### § 1542. Children of veterans of a period of war
 
 The Secretary shall pay to each child (1) who is the child of a deceased veteran of a period of war who met the service requirements prescribed in section 1521(j) of this title, or who at the time of death was receiving (or entitled to receive) compensation or retirement pay for a service-connected disability, and (2) who is not in the custody of a surviving spouse eligible for pension under section 1541 of this title, pension at the annual rate of $2,020, as increased from time to time under section 5312 of this title and reduced by the amount of such child’s annual income; or, if such child is residing with a person who is legally responsible for such child’s support, at an annual rate equal to the amount by which the appropriate annual rate provided under section 1541(c) of this title exceeds the sum of the annual income of such child and such person, but in no event may such annual rate of pension exceed the amount by which $2,020, as increased from time to time under section 5312 of this title, exceeds the annual income of such child. The appropriate annual rate under such section 1541(c) for the purposes of the preceding sentence shall be determined in accordance with regulations which the Secretary shall prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 542; Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 435; Pub. L. 88–664, § 4, Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, § 107, title II, § 202(g), (h), Aug. 31, 1967, 81 Stat. 180, 182; Pub. L. 91–588, §§ 3(c), 9(e), Dec. 24, 1970, 84 Stat. 1583, 1585; Pub. L. 92–198, § 1(f), Dec. 15, 1971, 85 Stat. 664; Pub. L. 93–177, § 3, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, § 4, Dec. 21, 1974, 88 Stat. 1703; Pub. L. 94–169, title I, §§ 101(2)(D), 104, Dec. 23, 1975, 89 Stat. 1014, 1016; Pub. L. 94–432, title II, § 204, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, § 103, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title I, § 110(a), Nov. 4, 1978, 92 Stat. 2504; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1542 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 111–275, title VI, § 608(c), Oct. 13, 2010, 124 Stat. 2887.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 542; Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 435; Pub. L. 88–664, § 4, Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, § 107, title II, § 202(g), (h), Aug. 31, 1967, 81 Stat. 180, 182; Pub. L. 91–588, §§ 3(c), 9(e), Dec. 24, 1970, 84 Stat. 1583, 1585; Pub. L. 92–198, § 1(f), Dec. 15, 1971, 85 Stat. 664; Pub. L. 93–177, § 3, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, § 4, Dec. 21, 1974, 88 Stat. 1703; Pub. L. 94–169, title I, §§ 101(2)(D), 104, Dec. 23, 1975, 89 Stat. 1014, 1016; Pub. L. 94–432, title II, § 204, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, § 103, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title I, § 110(a), Nov. 4, 1978, 92 Stat. 2504; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1542 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 111–275, title VI, § 608(c), Oct. 13, 2010, 124 Stat. 2887.)
 
 **Editorial Notes**
 
@@ -2011,45 +2011,45 @@ The Secretary shall pay to each child (1) who is the child of a deceased veteran
 
 2010—Pub. L. 111–275 substituted “$2,020” for “$600” in two places.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 542 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 542 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1521(j)” for “521(j)”, “1541” for “541”, and “1541(c)” for “541(c)” in two places.
+Pub. L. 102–83, § 5(c)(1), substituted “1521(j)” for “521(j)”, “1541” for “541”, and “1541(c)” for “541(c)” in two places.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
 Pub. L. 102–40 substituted “5312” for “3112” in two places.
 
 1978—Pub. L. 95–588 amended section generally to speak in terms of children of veterans of any period of war rather than children of veterans of specifically named conflicts, restructured section to eliminate subsection designations, struck out provision formerly comprising subsec. (b) of this section which related to payment of pensions to recipient children in equal shares, and inserted reference to periodic pension increases pursuant to section 3112 of this title.
 
-1977—Subsec. (a). Pub. L. 95–204, § 103(1), substituted “$61” and “$26” for “$57” and “$24”, respectively.
+1977—Subsec. (a). Pub. L. 95–204, § 103(1), substituted “$61” and “$26” for “$57” and “$24”, respectively.
 
-Subsec. (c). Pub. L. 95–204, § 103(2), substituted “$3,080” for “$2,890”.
+Subsec. (c). Pub. L. 95–204, § 103(2), substituted “$3,080” for “$2,890”.
 
-1976—Subsec. (a). Pub. L. 94–432, § 204(1), substituted “$57” and “$24” for “$53” and “$22”, respectively.
+1976—Subsec. (a). Pub. L. 94–432, § 204(1), substituted “$57” and “$24” for “$53” and “$22”, respectively.
 
-Subsec. (c). Pub. L. 94–432, § 204(2), substituted “$2,890” for “$2,700”.
+Subsec. (c). Pub. L. 94–432, § 204(2), substituted “$2,890” for “$2,700”.
 
-1975—Subsec. (a). Pub. L. 94–169, §§ 101(2)(D), 104(1), substituted “surviving spouse” for “widow”, struck out “his” before “death,” and, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, substituted “$53” for “$49” and “$22” for “$20”.
+1975—Subsec. (a). Pub. L. 94–169, §§ 101(2)(D), 104(1), substituted “surviving spouse” for “widow”, struck out “his” before “death,” and, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, substituted “$53” for “$49” and “$22” for “$20”.
 
-Subsec. (c). Pub. L. 94–169, § 104, substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “$2700” for “$2400”.
+Subsec. (c). Pub. L. 94–169, § 104, substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “$2700” for “$2400”.
 
-1974—Subsec. (a). Pub. L. 93–527, § 4(1), substituted “$49” and “$20” for “$44” and “$18”, respectively.
+1974—Subsec. (a). Pub. L. 93–527, § 4(1), substituted “$49” and “$20” for “$44” and “$18”, respectively.
 
-Subsec. (c). Pub. L. 93–527, § 4(2), substituted “$2,400” for “$2,000”.
+Subsec. (c). Pub. L. 93–527, § 4(2), substituted “$2,400” for “$2,000”.
 
 1973—Subsec. (a). Pub. L. 93–177 substituted “$44” for “$42” and “$18” for “$17”.
 
 1971—Subsec. (a). Pub. L. 92–198 substituted “$42” and “$17” for “$40” and “$16”, respectively.
 
-1970—Pub. L. 91–588, § 9(e)(2), inserted reference to Mexican border period in section catchline.
+1970—Pub. L. 91–588, § 9(e)(2), inserted reference to Mexican border period in section catchline.
 
-Subsec. (a). Pub. L. 91–588, § 9(e)(1), inserted reference to Mexican border period.
+Subsec. (a). Pub. L. 91–588, § 9(e)(1), inserted reference to Mexican border period.
 
-Subsec. (c). Pub. L. 91–588, § 3(c), substituted “$2,000” for “$1,800”.
+Subsec. (c). Pub. L. 91–588, § 3(c), substituted “$2,000” for “$1,800”.
 
-1967—Pub. L. 90–77, § 202(h), inserted reference to Vietnam era in section catchline.
+1967—Pub. L. 90–77, § 202(h), inserted reference to Vietnam era in section catchline.
 
-Subsec. (a). Pub. L. 90–77, §§ 107, 202(g), substituted “$40” and “$16” for “$38” and “$15” and included reference to Vietnam era, respectively.
+Subsec. (a). Pub. L. 90–77, §§ 107, 202(g), substituted “$40” and “$16” for “$38” and “$15” and included reference to Vietnam era, respectively.
 
 1964—Subsec. (a). Pub. L. 88–664 increased monthly pension for one child from $35 to $38.
 
@@ -2079,9 +2079,9 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 101, Dec. 23, 1975, 89 Stat. 1013, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 101, Dec. 23, 1975, 89 Stat. 1013, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-Pub. L. 94–169, title I, § 104, Dec. 23, 1975, 89 Stat. 1016, as amended by Pub. L. 94–432, title I, § 101, Sept. 30, 1976, 90 Stat. 1369, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 104, Dec. 23, 1975, 89 Stat. 1016, as amended by Pub. L. 94–432, title I, § 101, Sept. 30, 1976, 90 Stat. 1369, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1974 Amendment**
 
@@ -2111,7 +2111,7 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 86–211, set out as a note under section 1521 of this title.
 
-#### § 1543. Net worth limitation
+#### § 1543. Net worth limitation
 
 **(a)**
 
@@ -2121,21 +2121,21 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 
 **(b)** The Secretary shall deny or discontinue payment of pension to a child under section 1542 of this title when the corpus of the estate of the child is such that under all the circumstances, including consideration of the income of the child, the income of any person with whom such child is residing who is legally responsible for such child’s support, and the corpus of the estate of such person, it is reasonable that some part of the corpus of such estates be consumed for the child’s maintenance.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 543; Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 435; Pub. L. 94–169, title I, § 101(2)(E), Dec. 23, 1975, 89 Stat. 1014; Pub. L. 95–588, title I, § 111, Nov. 4, 1978, 92 Stat. 2504; renumbered § 1543 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, § 543; Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 435; Pub. L. 94–169, title I, § 101(2)(E), Dec. 23, 1975, 89 Stat. 1014; Pub. L. 95–588, title I, § 111, Nov. 4, 1978, 92 Stat. 2504; renumbered § 1543 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 543 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 543 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1541” for “541” in pars. (1) and (2).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1541” for “541” in pars. (1) and (2).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1542” for “542”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1542” for “542”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1978—Pub. L. 95–588 designated existing provisions relating to denial or discontinuance of pension payments to surviving spouses as subsec. (a), expanded existing provisions relating to denial or discontinuance of pension payments to children of veterans, and designated such expanded provisions as subsecs. (a)(2) and (b).
 
@@ -2151,7 +2151,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 101, Dec. 23, 1975, 89 Stat. 1013, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 101, Dec. 23, 1975, 89 Stat. 1013, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1959 Amendment**
 
@@ -2163,17 +2163,17 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 
 **Amendments**
 
-1978—Pub. L. 95–588, title I, § 112(a)(2), Nov. 4, 1978, 92 Stat. 2505, struck out heading “Surviving Spouses of Veterans of All Periods of War” below section 543 [now 1543].
+1978—Pub. L. 95–588, title I, § 112(a)(2), Nov. 4, 1978, 92 Stat. 2505, struck out heading “Surviving Spouses of Veterans of All Periods of War” below section 543 [now 1543].
 
-1975—Pub. L. 94–169, title I, § 101(2)(I), Dec. 23, 1975, 89 Stat. 1014, substituted “Surviving Spouses” for “Widows” in heading below section 543.
+1975—Pub. L. 94–169, title I, § 101(2)(I), Dec. 23, 1975, 89 Stat. 1014, substituted “Surviving Spouses” for “Widows” in heading below section 543.
 
-#### [§ 1544. Vacant]
+#### [§ 1544. Vacant]
 
 **Editorial Notes**
 
 **Codification**
 
-Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 1543 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 544 of this chapter, added Pub. L. 90–77, title I, § 108(a), Aug. 31, 1967, 81 Stat. 180; amended Pub. L. 91–588, § 3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 93–527, § 5, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title I, § 105, Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, § 205, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, § 104, Dec. 2, 1977, 91 Stat. 1457, which authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under this subchapter and was in need of regular aid and attendance, was repealed by Pub. L. 95–588, title I, § 112(a)(1), title IV, § 401, Nov. 4, 1978, 92 Stat. 2505, 2511, effective Jan. 1, 1979.
+Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 1543 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 544 of this chapter, added Pub. L. 90–77, title I, § 108(a), Aug. 31, 1967, 81 Stat. 180; amended Pub. L. 91–588, § 3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 93–527, § 5, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title I, § 105, Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, § 205, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, § 104, Dec. 2, 1977, 91 Stat. 1457, which authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under this subchapter and was in need of regular aid and attendance, was repealed by Pub. L. 95–588, title I, § 112(a)(1), title IV, § 401, Nov. 4, 1978, 92 Stat. 2505, 2511, effective Jan. 1, 1979.
 
 ## SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL
 
@@ -2181,13 +2181,13 @@ Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 
 
 **Amendments**
 
-1963—Pub. L. 88–77, § 5(3), July 25, 1963, 77 Stat. 96, substituted “ARMY, NAVY, AIR FORCE, AND COAST GUARD” for “ARMY, NAVY, AND AIR FORCE” in subchapter heading.
+1963—Pub. L. 88–77, § 5(3), July 25, 1963, 77 Stat. 96, substituted “ARMY, NAVY, AIR FORCE, AND COAST GUARD” for “ARMY, NAVY, AND AIR FORCE” in subchapter heading.
 
-### [§§ 1560, 1561. Repealed. Pub. L. 113–66, div. A, title V, § 563(c)(1), Dec. 26, 2013, 127 Stat. 768]
+### [§§ 1560, 1561. Repealed. Pub. L. 113–66, div. A, title V, § 563(c)(1), Dec. 26, 2013, 127 Stat. 768]
 
-Section 1560, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, § 560; Pub. L. 87–138, § 1, Aug. 14, 1961, 75 Stat. 338; Pub. L. 88–77, § 5(1), July 25, 1963, 77 Stat. 95; Pub. L. 88–651, Oct. 13, 1964, 78 Stat. 1078; Pub. L. 89–311, § 4, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 91–24, § 5, June 11, 1969, 83 Stat. 33; Pub. L. 94–169, title I, § 106(41), Dec. 23, 1975, 89 Stat. 1019; renumbered § 1560 and amended Pub. L. 102–83, §§ 4(b)(4)(A), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 107–296, title XVII, § 1704(d), Nov. 25, 2002, 116 Stat. 2315, related to persons eligible for Medal of Honor Roll.
+Section 1560, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, § 560; Pub. L. 87–138, § 1, Aug. 14, 1961, 75 Stat. 338; Pub. L. 88–77, § 5(1), July 25, 1963, 77 Stat. 95; Pub. L. 88–651, Oct. 13, 1964, 78 Stat. 1078; Pub. L. 89–311, § 4, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 91–24, § 5, June 11, 1969, 83 Stat. 33; Pub. L. 94–169, title I, § 106(41), Dec. 23, 1975, 89 Stat. 1019; renumbered § 1560 and amended Pub. L. 102–83, §§ 4(b)(4)(A), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 107–296, title XVII, § 1704(d), Nov. 25, 2002, 116 Stat. 2315, related to persons eligible for Medal of Honor Roll.
 
-Section 1561, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, § 561; Pub. L. 87–138, § 2(a), Aug. 14, 1961, 75 Stat. 338; Pub. L. 88–77, § 5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, § 106(42), (43), Dec. 23, 1975, 89 Stat. 1019; renumbered § 1561 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406, related to certificates issued to persons on the Medal of Honor Roll.
+Section 1561, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, § 561; Pub. L. 87–138, § 2(a), Aug. 14, 1961, 75 Stat. 338; Pub. L. 88–77, § 5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, § 106(42), (43), Dec. 23, 1975, 89 Stat. 1019; renumbered § 1561 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406, related to certificates issued to persons on the Medal of Honor Roll.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2195,7 +2195,7 @@ Section 1561, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, § 561; Pub. L. 
 
 Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2013, see section 563(d) of Pub. L. 113–66, set out as an Effective Date note under section 1134a of Title 10, Armed Forces.
 
-### § 1562. Special provisions relating to pension
+### § 1562. Special provisions relating to pension
 
 **(a)**
 
@@ -2203,7 +2203,7 @@ Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2
 
 **(A)** The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10, a special pension at the rate described in subparagraph (B), as adjusted from time to time under subsection (e),1
 
-<sup>1</sup>  See Special Benefit Allowance Rates note below.
+<sup>1</sup> See Special Benefit Allowance Rates note below.
 
 beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
 
@@ -2245,19 +2245,19 @@ beginning as of the date on which the person’s name is entered on the Army, Na
 
 **(2)** Upon receipt of an election made by a person under paragraph (1) not to receive special pension, the Secretary shall cease payments of special pension to the person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, § 562; Pub. L. 87–138, § 3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, § 5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, § 106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, § 302, Oct. 18, 1978, 92 Stat. 1565; renumbered § 1562 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, § 1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, § 301(a), Nov. 11, 1998, 112 Stat. 3332; Pub. L. 107–330, title III, § 304(a)–(c), Dec. 6, 2002, 116 Stat. 2826; Pub. L. 113–66, div. A, title V, § 563(b), Dec. 26, 2013, 127 Stat. 767; Pub. L. 116–315, title II, § 2003(a)–(b)(2)(A), Jan. 5, 2021, 134 Stat. 4969, 4970; Pub. L. 117–328, div. U, title IV, § 407(b)(1), Dec. 29, 2022, 136 Stat. 5495; Pub. L. 119–43, § 3, Dec. 1, 2025, 139 Stat. 667.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, § 562; Pub. L. 87–138, § 3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, § 5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, § 106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, § 302, Oct. 18, 1978, 92 Stat. 1565; renumbered § 1562 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, § 1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, § 301(a), Nov. 11, 1998, 112 Stat. 3332; Pub. L. 107–330, title III, § 304(a)–(c), Dec. 6, 2002, 116 Stat. 2826; Pub. L. 113–66, div. A, title V, § 563(b), Dec. 26, 2013, 127 Stat. 767; Pub. L. 116–315, title II, § 2003(a)–(b)(2)(A), Jan. 5, 2021, 134 Stat. 4969, 4970; Pub. L. 117–328, div. U, title IV, § 407(b)(1), Dec. 29, 2022, 136 Stat. 5495; Pub. L. 119–43, § 3, Dec. 1, 2025, 139 Stat. 667.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
-Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which comprised chapter 32, were renumbered sections 3201, 3202, 3221 to 3225, 3231 to 3234, 3241, and 3243 of this title, respectively. Prior section 1642, Pub. L. 94–502, title IV, § 404, Oct. 15, 1976, 90 Stat. 2397; amended Pub. L. 97–295, § 4(37), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title IV, § 423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092, directed Secretary of Veterans Affairs and Secretary of Defense to submit a joint report annually on operations of program provided under chapter 32 of this title, prior to repeal by Pub. L. 102–16, § 5(a), Mar. 22, 1991, 105 Stat. 50.
+Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which comprised chapter 32, were renumbered sections 3201, 3202, 3221 to 3225, 3231 to 3234, 3241, and 3243 of this title, respectively. Prior section 1642, Pub. L. 94–502, title IV, § 404, Oct. 15, 1976, 90 Stat. 2397; amended Pub. L. 97–295, § 4(37), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title IV, § 423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092, directed Secretary of Veterans Affairs and Secretary of Defense to submit a joint report annually on operations of program provided under chapter 32 of this title, prior to repeal by Pub. L. 102–16, § 5(a), Mar. 22, 1991, 105 Stat. 50.
 
-Other prior sections 1601, 1610 to 1613, 1620 to 1626, 1631 to 1634, 1641 to 1645, 1651 to 1656, and 1661 to 1669, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174–1192; Pub. L. 86–150, Aug. 11, 1964, 73 Stat. 332; Pub. L. 87–815, § 1, Oct. 15, 1962, 76 Stat. 926; Pub. L. 88–361, § 7, July 7, 1964, 78 Stat. 298, comprised chapter 33, Education of Korean Conflict Veterans, prior to repeal by Pub. L. 89–358, § 4(a), Mar. 3, 1966, 80 Stat. 23.
+Other prior sections 1601, 1610 to 1613, 1620 to 1626, 1631 to 1634, 1641 to 1645, 1651 to 1656, and 1661 to 1669, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174–1192; Pub. L. 86–150, Aug. 11, 1964, 73 Stat. 332; Pub. L. 87–815, § 1, Oct. 15, 1962, 76 Stat. 926; Pub. L. 88–361, § 7, July 7, 1964, 78 Stat. 298, comprised chapter 33, Education of Korean Conflict Veterans, prior to repeal by Pub. L. 89–358, § 4(a), Mar. 3, 1966, 80 Stat. 23.
 
 Section 1601 defined “basic service period”, “eligible veteran”, “program of education or training”, “course”, “dependent”, “educational institutions”, “training establishments”, “State”, and “Commissioner”, made benefits unavailable to individuals serving as commissioned officers of Coast and Geodetic Survey or of Regular or Reserve Corps of the Public Health Service unless the service qualified those individuals for benefits under title II of the Veteran’s Readjustment Assistance Act of 1952, and declared Congressional policy. See sections 3451(3), (4) and 3452(a)(1), (3)(A), (B), (b) to (d) of this title.
 
@@ -2333,101 +2333,101 @@ Section 1669 related to information furnished by Federal Trade Commission to Sta
 
 Prior sections 1651, 1652, 1661, 1662, 1670, 1671, 1673, 1674, 1676, 1681, 1682, 1683 to 1685, and 1690 to 1693, which comprised chapter 34, were renumbered 3451, 3452, 3461, 3462, 3470, 3471, 3473, 3474, 3476, 3481, 3482, 3483 to 3485, and 3490 to 3493, respectively, of this title.
 
-Prior section 1663, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 15; amended Pub. L. 94–502, title II, § 211(4), Oct. 15, 1976, 90 Stat. 2388; Pub. L. 95–202, title III, § 302(a), Nov. 23, 1977, 91 Stat. 1440; Pub. L. 99–576, title III, § 312, Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092, related to educational and vocational counseling, prior to repeal by Pub. L. 102–16, § 2(b)(1)(A), Mar. 22, 1991, 105 Stat. 49. See section 3697A of this title.
+Prior section 1663, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 15; amended Pub. L. 94–502, title II, § 211(4), Oct. 15, 1976, 90 Stat. 2388; Pub. L. 95–202, title III, § 302(a), Nov. 23, 1977, 91 Stat. 1440; Pub. L. 99–576, title III, § 312, Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092, related to educational and vocational counseling, prior to repeal by Pub. L. 102–16, § 2(b)(1)(A), Mar. 22, 1991, 105 Stat. 49. See section 3697A of this title.
 
-Prior section 1672, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 15, related to change of program by veteran, prior to repeal by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3691 of this title.
+Prior section 1672, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 15, related to change of program by veteran, prior to repeal by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3691 of this title.
 
-Prior section 1675, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 16, related to period of operation for approval by Administrator, prior to repeal by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3689 of this title.
+Prior section 1675, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 16, related to period of operation for approval by Administrator, prior to repeal by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3689 of this title.
 
-Prior section 1677, added Pub. L. 90–77, title III, § 302(b), Aug. 31, 1967, 81 Stat. 185; amended Pub. L. 90–631, § 5, Oct. 23, 1968, 82 Stat. 1335; Pub. L. 91–219, title I, § 102, title II, § 203, Mar. 26, 1970, 84 Stat. 76, 78; Pub. L. 92–540, title I, § 102(1), title IV, § 401(3), Oct. 24, 1972, 86 Stat. 1075, 1090; Pub. L. 93–508, title I, § 102(1), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, § 203(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 95–202, title I, § 102(1), Nov. 23, 1977, 91 Stat. 1433; Pub. L. 96–466, title II, §§ 201(1), 211(1), title VI, § 603(a), Oct. 17, 1980, 94 Stat. 2187, 2189, 2209, set forth provisions respecting eligibility, approval, etc., for flight training, prior to repeal by Pub. L. 97–35, title XX, §§ 2003(b)(3)(A), 2006, Aug. 13, 1981, 95 Stat. 782, 783, effective Oct. 1, 1981, except as otherwise provided for persons receiving educational assistance.
+Prior section 1677, added Pub. L. 90–77, title III, § 302(b), Aug. 31, 1967, 81 Stat. 185; amended Pub. L. 90–631, § 5, Oct. 23, 1968, 82 Stat. 1335; Pub. L. 91–219, title I, § 102, title II, § 203, Mar. 26, 1970, 84 Stat. 76, 78; Pub. L. 92–540, title I, § 102(1), title IV, § 401(3), Oct. 24, 1972, 86 Stat. 1075, 1090; Pub. L. 93–508, title I, § 102(1), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, § 203(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 95–202, title I, § 102(1), Nov. 23, 1977, 91 Stat. 1433; Pub. L. 96–466, title II, §§ 201(1), 211(1), title VI, § 603(a), Oct. 17, 1980, 94 Stat. 2187, 2189, 2209, set forth provisions respecting eligibility, approval, etc., for flight training, prior to repeal by Pub. L. 97–35, title XX, §§ 2003(b)(3)(A), 2006, Aug. 13, 1981, 95 Stat. 782, 783, effective Oct. 1, 1981, except as otherwise provided for persons receiving educational assistance.
 
-Prior section 1678, added Pub. L. 90–77, title III, § 306(a), Aug. 31, 1967, 81 Stat. 188, related to special training for educationally disadvantaged, prior to repeal by Pub. L. 91–219, title II, § 204(a)(2), Mar. 26, 1970, 84 Stat. 79. See subchapter V of chapter 34 of this title.
+Prior section 1678, added Pub. L. 90–77, title III, § 306(a), Aug. 31, 1967, 81 Stat. 188, related to special training for educationally disadvantaged, prior to repeal by Pub. L. 91–219, title II, § 204(a)(2), Mar. 26, 1970, 84 Stat. 79. See subchapter V of chapter 34 of this title.
 
-Prior section 1682A, added Pub. L. 95–202, title II, § 201(a), Nov. 23, 1977, 91 Stat. 1436; amended Pub. L. 97–295, § 4(41), Oct. 12, 1982, 96 Stat. 1308, related to accelerated payment of educational assistance allowances, prior to repeal by Pub. L. 100–689, title I, § 124(a), Nov. 18, 1988, 102 Stat. 4174.
+Prior section 1682A, added Pub. L. 95–202, title II, § 201(a), Nov. 23, 1977, 91 Stat. 1436; amended Pub. L. 97–295, § 4(41), Oct. 12, 1982, 96 Stat. 1308, related to accelerated payment of educational assistance allowances, prior to repeal by Pub. L. 100–689, title I, § 124(a), Nov. 18, 1988, 102 Stat. 4174.
 
-Another prior section 1683, which related to measurement of courses, was renumbered section 1684 and subsequently repealed by Pub. L. 92–540, title III, § 304, Oct. 24, 1972, 86 Stat. 1081.
+Another prior section 1683, which related to measurement of courses, was renumbered section 1684 and subsequently repealed by Pub. L. 92–540, title III, § 304, Oct. 24, 1972, 86 Stat. 1081.
 
-Another prior section 1683, added Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, § 103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, § 7, Dec. 24, 1970, 84 Stat. 1576, related to apprenticeship or other on-job training, prior to repeal by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 84 Stat. 1090. See section 3687 of this title.
+Another prior section 1683, added Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, § 103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, § 7, Dec. 24, 1970, 84 Stat. 1576, related to apprenticeship or other on-job training, prior to repeal by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 84 Stat. 1090. See section 3687 of this title.
 
-Another prior section 1684, which related to overcharging of eligible veterans by educational institutions, was renumbered section 1685 and subsequently repealed by Pub. L. 92–540, title II, § 203, Oct. 24, 1972, 86 Stat. 1079.
+Another prior section 1684, which related to overcharging of eligible veterans by educational institutions, was renumbered section 1685 and subsequently repealed by Pub. L. 92–540, title II, § 203, Oct. 24, 1972, 86 Stat. 1079.
 
-Another prior section 1684, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 18, § 1683; renumbered § 1684, Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, § 206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§ 8, 11, Dec. 24, 1970, 84 Stat. 1577, related to measurement of courses, prior to repeal by Pub. L. 92–540, title III, § 304, Oct. 24, 1972, 86 Stat. 1081. See section 3688 of this title.
+Another prior section 1684, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 18, § 1683; renumbered § 1684, Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, § 206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§ 8, 11, Dec. 24, 1970, 84 Stat. 1577, related to measurement of courses, prior to repeal by Pub. L. 92–540, title III, § 304, Oct. 24, 1972, 86 Stat. 1081. See section 3688 of this title.
 
 Another prior section 1685, which related to approval of courses, was renumbered section 1683.
 
-Another prior section 1685, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1684; renumbered § 1865, Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186, related to overcharging of eligible veterans by educational institutions, prior to repeal by Pub. L. 92–540, title II, § 203, Oct. 24, 1972, 86 Stat. 1079. See section 3690 of this title.
+Another prior section 1685, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1684; renumbered § 1865, Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186, related to overcharging of eligible veterans by educational institutions, prior to repeal by Pub. L. 92–540, title II, § 203, Oct. 24, 1972, 86 Stat. 1079. See section 3690 of this title.
 
-Prior section 1686, added Pub. L. 93–508, title III, § 302(a), Dec. 3, 1974, 88 Stat. 1591; amended Pub. L. 97–35, title XX, § 2005(b), Aug. 13, 1981, 95 Stat. 783, related to educational loans to any eligible veteran to whom section 1662(a)(2) of this title applied, prior to repeal by Pub. L. 100–689, title I, § 124(a), Nov. 18, 1988, 102 Stat. 4174.
+Prior section 1686, added Pub. L. 93–508, title III, § 302(a), Dec. 3, 1974, 88 Stat. 1591; amended Pub. L. 97–35, title XX, § 2005(b), Aug. 13, 1981, 95 Stat. 783, related to educational loans to any eligible veteran to whom section 1662(a)(2) of this title applied, prior to repeal by Pub. L. 100–689, title I, § 124(a), Nov. 18, 1988, 102 Stat. 4174.
 
 Another prior section 1686, which related to approval of courses, was renumbered section 1683.
 
-Another prior section 1686, which related to discontinuance of educational assistance allowance by Administrator, was renumbered section 1687 and subsequently repealed by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 86 Stat. 1090.
+Another prior section 1686, which related to discontinuance of educational assistance allowance by Administrator, was renumbered section 1687 and subsequently repealed by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 86 Stat. 1090.
 
-Prior section 1687, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1686; renumbered § 1687, Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186, related to discontinuance of educational assistance allowance by Administrator, prior to repeal by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3690(b) of this title.
+Prior section 1687, added Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1686; renumbered § 1687, Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186, related to discontinuance of educational assistance allowance by Administrator, prior to repeal by Pub. L. 92–540, title IV, § 401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3690(b) of this title.
 
-Prior sections 1695 to 1698 were repealed, effective Oct. 1, 1980, by Pub. L. 96–466, title VI, § 601(a)(1), title VIII, § 802(f), Oct. 17, 1980, 94 Stat. 2208, 2218.
+Prior sections 1695 to 1698 were repealed, effective Oct. 1, 1980, by Pub. L. 96–466, title VI, § 601(a)(1), title VIII, § 802(f), Oct. 17, 1980, 94 Stat. 2208, 2218.
 
-Section 1695, added Pub. L. 91–219, title II, § 204(a)(4), Mar. 26, 1970, 84 Stat. 80, set forth purpose of former subchapter VI relating to a predischarge education program and defined “eligible person” for purposes of subchapter VI of chapter 34.
+Section 1695, added Pub. L. 91–219, title II, § 204(a)(4), Mar. 26, 1970, 84 Stat. 80, set forth purpose of former subchapter VI relating to a predischarge education program and defined “eligible person” for purposes of subchapter VI of chapter 34.
 
-Section 1696, added Pub. L. 91–219, title II, § 204(a)(4), Mar. 26, 1970, 84 Stat. 80; amended Pub. L. 92–540, title I, § 102(5), title III, § 307, Oct. 24, 1972, 86 Stat. 1075, 1081; Pub. L. 93–508, title I, § 102(5), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, § 203(c), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§ 201(4), 210(5), 211(13), Oct. 15, 1976, 90 Stat. 2385, 2388, 2389; Pub. L. 95–202, title I, § 102(6), Nov. 23, 1977, 91 Stat. 1434, related to payment of an educational assistance allowance.
+Section 1696, added Pub. L. 91–219, title II, § 204(a)(4), Mar. 26, 1970, 84 Stat. 80; amended Pub. L. 92–540, title I, § 102(5), title III, § 307, Oct. 24, 1972, 86 Stat. 1075, 1081; Pub. L. 93–508, title I, § 102(5), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, § 203(c), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§ 201(4), 210(5), 211(13), Oct. 15, 1976, 90 Stat. 2385, 2388, 2389; Pub. L. 95–202, title I, § 102(6), Nov. 23, 1977, 91 Stat. 1434, related to payment of an educational assistance allowance.
 
-Section 1697, added Pub. L. 91–219, title II, § 204(a)(4), Mar. 26, 1970, 84 Stat. 81, related to educational and vocational guidance.
+Section 1697, added Pub. L. 91–219, title II, § 204(a)(4), Mar. 26, 1970, 84 Stat. 81, related to educational and vocational guidance.
 
-Section 1698, added Pub. L. 92–540, title III, § 308, Oct. 24, 1972, 86 Stat. 1082, § 1697A; renumbered § 1698 and amended Pub. L. 94–502, title II, §§ 210(3), 211(14), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title III, § 302(b), Nov. 23, 1977, 91 Stat. 1441, related to coordination with and participation by Department of Defense in carrying out functions and duties of Department of Defense under predischarge education program.
+Section 1698, added Pub. L. 92–540, title III, § 308, Oct. 24, 1972, 86 Stat. 1082, § 1697A; renumbered § 1698 and amended Pub. L. 94–502, title II, §§ 210(3), 211(14), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title III, § 302(b), Nov. 23, 1977, 91 Stat. 1441, related to coordination with and participation by Department of Defense in carrying out functions and duties of Department of Defense under predischarge education program.
 
 Prior section 1700, which comprised the first section of chapter 35, was renumbered section 3500 of this title.
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–43, § 3(1), designated existing provisions as subpar. (A), substituted “the rate described in subparagraph (B)” for “the rate of $1,406.73”, and added subpar. (B).
+2025—Subsec. (a)(1). Pub. L. 119–43, § 3(1), designated existing provisions as subpar. (A), substituted “the rate described in subparagraph (B)” for “the rate of $1,406.73”, and added subpar. (B).
 
-Subsec. (e). Pub. L. 119–43, § 3(2), designated existing provisions as par. (1), inserted “, subject to paragraph (2),” before “shall”, and added par. (2).
+Subsec. (e). Pub. L. 119–43, § 3(2), designated existing provisions as par. (1), inserted “, subject to paragraph (2),” before “shall”, and added par. (2).
 
 2022—Subsec. (a)(1). Pub. L. 117–328 substituted “$1,406.73” for “$1,388.68”.
 
-2021—Subsec. (a). Pub. L. 116–315, § 2003(b)(1), designated existing provisions as par. (1) and added par. (2).
+2021—Subsec. (a). Pub. L. 116–315, § 2003(b)(1), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 116–315, § 2003(a), substituted “$1,388.68” for “$1,000”.
+Pub. L. 116–315, § 2003(a), substituted “$1,388.68” for “$1,000”.
 
-Subsec. (d). Pub. L. 116–315, § 2003(b)(2)(A)(i), inserted “or married to more than one person who has been awarded a medal of honor,” after “more than one medal of honor,”.
+Subsec. (d). Pub. L. 116–315, § 2003(b)(2)(A)(i), inserted “or married to more than one person who has been awarded a medal of honor,” after “more than one medal of honor,”.
 
-Subsec. (f)(1). Pub. L. 116–315, § 2003(b)(2)(A)(ii), substituted “paragraph (1) of subsection (a), or under paragraph (2) of such subsection in the case of a posthumous entry on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll,” for “this section”.
+Subsec. (f)(1). Pub. L. 116–315, § 2003(b)(2)(A)(ii), substituted “paragraph (1) of subsection (a), or under paragraph (2) of such subsection in the case of a posthumous entry on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll,” for “this section”.
 
-2013—Subsec. (a). Pub. L. 113–66, § 563(b)(1), substituted “each living person” for “each person”, “Honor Roll, and” for “Honor roll, and”, “subsection (d) of section 1134a of title 10” for “subsection (c) of section 1561 of this title”, and “date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section” for “date of application therefor under section 1560 of this title”.
+2013—Subsec. (a). Pub. L. 113–66, § 563(b)(1), substituted “each living person” for “each person”, “Honor Roll, and” for “Honor roll, and”, “subsection (d) of section 1134a of title 10” for “subsection (c) of section 1561 of this title”, and “date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section” for “date of application therefor under section 1560 of this title”.
 
-Subsec. (g). Pub. L. 113–66, § 563(b)(2), added subsec. (g).
+Subsec. (g). Pub. L. 113–66, § 563(b)(2), added subsec. (g).
 
-2002—Subsec. (a). Pub. L. 107–330, § 304(a), substituted “$1,000, as adjusted from time to time under subsection (e)” for “$600”.
+2002—Subsec. (a). Pub. L. 107–330, § 304(a), substituted “$1,000, as adjusted from time to time under subsection (e)” for “$600”.
 
-Subsec. (e). Pub. L. 107–330, § 304(b), added subsec. (e).
+Subsec. (e). Pub. L. 107–330, § 304(b), added subsec. (e).
 
-Subsec. (f). Pub. L. 107–330, § 304(c), added subsec. (f).
+Subsec. (f). Pub. L. 107–330, § 304(c), added subsec. (f).
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “$600” for “$400”.
 
 1993—Subsec. (a). Pub. L. 103–161 substituted “$400” for “$200”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 562 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 562 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1561” for “561” and “1560” for “560”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1561” for “561” and “1560” for “560”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
 1978—Subsec. (a). Pub. L. 95–479 increased from $100 to $200 the special pension.
 
-1975—Subsec. (a). Pub. L. 94–169, § 106(44), substituted “delivered to the Administrator” for “delivered to him”.
+1975—Subsec. (a). Pub. L. 94–169, § 106(44), substituted “delivered to the Administrator” for “delivered to him”.
 
-Subsecs. (b), (d). Pub. L. 94–169, § 106(45), substituted “such person” for “he”.
+Subsecs. (b), (d). Pub. L. 94–169, § 106(45), substituted “such person” for “he”.
 
 1963—Subsec. (a). Pub. L. 88–77 inserted references to the Coast Guard.
 
-1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
+1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. U, title IV, § 407(b)(2), Dec. 29, 2022, 136 Stat. 5495, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if it were enacted immediately after the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315) [approved Jan. 5, 2021].”
+Pub. L. 117–328, div. U, title IV, § 407(b)(2), Dec. 29, 2022, 136 Stat. 5495, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if it were enacted immediately after the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315) [approved Jan. 5, 2021].”
 
 **Effective Date of 2021 Amendment**
 
@@ -2439,7 +2439,7 @@ Amendment by Pub. L. 113–66 applicable with respect to Medals of Honor awarded
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–330, title III, § 304(d), Dec. 6, 2002, 116 Stat. 2826, provided that:
+Pub. L. 107–330, title III, § 304(d), Dec. 6, 2002, 116 Stat. 2826, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by subsections (a) and (b) [amending this section] shall take effect on September 1, 2003. No payment may be made pursuant to subsection (f) of section 1562 of title 38, United States Code, as added by subsection (c) of this section, before October 1, 2003.
 
@@ -2447,11 +2447,11 @@ Pub. L. 107–330, title III, § 304(d), Dec. 6, 2002, 116 Stat. 2826, provide
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title III, § 301(b), Nov. 11, 1998, 112 Stat. 3332, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title III, § 301(b), Nov. 11, 1998, 112 Stat. 3332, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Nov. 11, 1998].”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–161, § 1(b), Nov. 30, 1993, 107 Stat. 1967, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to months beginning after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–161, § 1(b), Nov. 30, 1993, 107 Stat. 1967, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to months beginning after the date of the enactment of this Act [Nov. 30, 1993].”
 
 **Effective Date of 1978 Amendment**
 
@@ -2459,11 +2459,11 @@ Amendment by Pub. L. 95–479 effective Jan. 1, 1979, see section 401(b) of Pub.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–138, § 4, Aug. 14, 1961, 75 Stat. 339, provided that: “The amendments made by this Act [amending this section and sections 560 and 561 [renumbered 1560 and 1561] of this title] shall take effect on the first day of the first month which begins after the date of the enactment of this Act [Aug. 14, 1961], except that the amendments made by subsection (b) of the first section [amending section 560 [renumbered 1560] of this title] and by section 2 [amending section 561 [renumbered 1561] of this title] shall not apply with respect to any application under section 560 [renumbered 1560] of title 38, United States Code, made before such first day by any person who fulfilled the qualifications prescribed by subsection (b) of such section at the time such application was made.”
+Pub. L. 87–138, § 4, Aug. 14, 1961, 75 Stat. 339, provided that: “The amendments made by this Act [amending this section and sections 560 and 561 [renumbered 1560 and 1561] of this title] shall take effect on the first day of the first month which begins after the date of the enactment of this Act [Aug. 14, 1961], except that the amendments made by subsection (b) of the first section [amending section 560 [renumbered 1560] of this title] and by section 2 [amending section 561 [renumbered 1561] of this title] shall not apply with respect to any application under section 560 [renumbered 1560] of title 38, United States Code, made before such first day by any person who fulfilled the qualifications prescribed by subsection (b) of such section at the time such application was made.”
 
 **Transfer of Functions**
 
@@ -2475,7 +2475,7 @@ For current VA special benefit allowance rates, see https://www.va.gov/disabilit
 
 **Treatment of Certain Pension Payments**
 
-Pub. L. 117–328, div. U, title IV, § 407(c), Dec. 29, 2022, 136 Stat. 5495, provided that:
+Pub. L. 117–328, div. U, title IV, § 407(c), Dec. 29, 2022, 136 Stat. 5495, provided that:
 
 > **“(1) In general.—** A payment described in paragraph (2) shall be treated as an authorized payment.
 

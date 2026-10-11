@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–219, § 5(b), Dec. 5, 2022, 136 Stat. 2273, added item 6309.
+2022—Pub. L. 117–219, § 5(b), Dec. 5, 2022, 136 Stat. 2273, added item 6309.
 
-## § 6301. Purposes
+## § 6301. Purposes
 
 The purposes of this chapter are to—
 
@@ -43,7 +43,7 @@ The purposes of this chapter are to—
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6301 | 41:501. | Feb. 3, 1978, Pub. L. 95–224, § 2, 92 Stat. 3. |
+| 6301 | 41:501. | Feb. 3, 1978, Pub. L. 95–224, § 2, 92 Stat. 3. |
 
 In the chapter, the words “procurement contract” are substituted for “contract” for consistency.
 
@@ -53,15 +53,15 @@ The text of 41:501(a) and (b)(4) is omitted as executed.
 
 **Environmental Protection Agency; Agreements and Grants Affecting Real Property in the District of Columbia**
 
-Pub. L. 106–522, § 153, Nov. 22, 2000, 114 Stat. 2474, provided that:
+Pub. L. 106–522, § 153, Nov. 22, 2000, 114 Stat. 2474, provided that:
 
 > **“(a)** Nothing in the Federal Grant and Cooperative Agreements Act of 1977 (31 U.S.C. 6301 et seq.) may be construed to prohibit the Administrator of the Environmental Protection Agency from negotiating and entering into cooperative agreements and grants authorized by law which affect real property of the Federal Government in the District of Columbia if the principal purpose of the cooperative agreement or grant is to provide comparable benefits for Federal and non-Federal properties in the District of Columbia.
 
 > **“(b)** Subsection (a) shall apply with respect to fiscal year 2001 and each succeeding fiscal year.”
 
-Similar provisions were contained in Pub. L. 106–553, § 1(a)(1) [§ 153], Dec. 21, 2000, 114 Stat. 2762, 2762A–37, which was repealed, and deemed for all purposes to have never been enacted, by Pub. L. 106–554, § 1(a)(4) [div. A, § 406(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–189, effective as if included in Pub. L. 106–553 on the date of its enactment. See section 1(a)(4) [div. A, § 406] of Pub. L. 106–554, set out as an Effective Date and Construction of 2000 Amendment note under section 1155 of Title 20, Education.
+Similar provisions were contained in Pub. L. 106–553, § 1(a)(1) [§ 153], Dec. 21, 2000, 114 Stat. 2762, 2762A–37, which was repealed, and deemed for all purposes to have never been enacted, by Pub. L. 106–554, § 1(a)(4) [div. A, § 406(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–189, effective as if included in Pub. L. 106–553 on the date of its enactment. See section 1(a)(4) [div. A, § 406] of Pub. L. 106–554, set out as an Effective Date and Construction of 2000 Amendment note under section 1155 of Title 20, Education.
 
-## § 6302. Definitions
+## § 6302. Definitions
 
 In this chapter—
 
@@ -91,7 +91,7 @@ In this chapter—
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6302(1) | 41:502(4). | Feb. 3, 1978, Pub. L. 95–224, § 3, 92 Stat. 4. |
+| 6302(1) | 41:502(4). | Feb. 3, 1978, Pub. L. 95–224, § 3, 92 Stat. 4. |
 | 6302(2) | 41:502(5). |  |
 | 6302(3) | 41:502(2). |  |
 | 6302(4) | 41:502(3). |  |
@@ -101,7 +101,7 @@ Clause (3) restates the source provisions because of the definition of “execut
 
 In clause (5), the words “the Commonwealth of Puerto Rico” are omitted as being included in “territory or possession of the United States” and as unnecessary because of 48:734. The words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code.
 
-## § 6303. Using procurement contracts
+## § 6303. Using procurement contracts
 
 An executive agency shall use a procurement contract as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
 
@@ -115,11 +115,11 @@ An executive agency shall use a procurement contract as the legal instrument ref
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6303 | 41:503. | Feb. 3, 1978, Pub. L. 95–224, § 4, 92 Stat. 4. |
+| 6303 | 41:503. | Feb. 3, 1978, Pub. L. 95–224, § 4, 92 Stat. 4. |
 
 The words “type of” are omitted as unnecessary. The word “decides” is substituted for “determines” for consistency.
 
-## § 6304. Using grant agreements
+## § 6304. Using grant agreements
 
 An executive agency shall use a grant agreement as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
 
@@ -133,11 +133,11 @@ An executive agency shall use a grant agreement as the legal instrument reflecti
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6304 | 41:504. | Feb. 3, 1978, Pub. L. 95–224, § 5, 92 Stat. 4. |
+| 6304 | 41:504. | Feb. 3, 1978, Pub. L. 95–224, § 5, 92 Stat. 4. |
 
 The words “type of” are omitted as unnecessary. The words “money, property, services” are omitted as being included in “a thing of value”. The words “in order” are omitted as surplus. The words “law of the United States” are substituted for “Federal statute” for consistency.
 
-## § 6305. Using cooperative agreements
+## § 6305. Using cooperative agreements
 
 An executive agency shall use a cooperative agreement as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
 
@@ -151,7 +151,7 @@ An executive agency shall use a cooperative agreement as the legal instrument re
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6305 | 41:505. | Feb. 3, 1978, Pub. L. 95–224, § 6, 92 Stat. 5. |
+| 6305 | 41:505. | Feb. 3, 1978, Pub. L. 95–224, § 6, 92 Stat. 5. |
 
 The words “type of” are omitted as unnecessary. The words “money, property, services” are omitted as being included in “a thing of value”. The words “law of the United States” are substituted for “Federal statute” for consistency.
 
@@ -169,7 +169,7 @@ Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1018, provided that: “No
 
 Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1918, provided in part that: “the Bureau [of Land Management] is authorized hereafter to negotiate and enter into cooperative arrangements with public and private agencies, organizations, institutions, and individuals, to implement challenge cost-share programs.”
 
-## § 6306. Authority to vest title in tangible personal property for research
+## § 6306. Authority to vest title in tangible personal property for research
 
 The head of an executive agency may vest title in tangible personal property in a nonprofit institution of higher education or in a nonprofit organization whose primary purpose is conducting scientific research—
 
@@ -187,11 +187,11 @@ The head of an executive agency may vest title in tangible personal property in 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6306 | 41:506. | Feb. 3, 1978, Pub. L. 95–224, § 7, 92 Stat. 5. |
+| 6306 | 41:506. | Feb. 3, 1978, Pub. L. 95–224, § 7, 92 Stat. 5. |
 
 The text of 41:506(a) is omitted as unnecessary because it duplicates the requirements of sections 6303–6305 of the revised title. The word “equipment” is omitted as being included in “tangible personal property”. The words “amounts provided under a contract, grant agreement, or cooperative agreement” are substituted for “such funds” for clarity. The words “decides the vesting” are substituted for “it is deemed” for clarity. The word “conditions” is substituted for “terms and conditions” because it is inclusive.
 
-## § 6307. Interpretative guidelines and exemptions
+## § 6307. Interpretative guidelines and exemptions
 
 The Director of the Office of Management and Budget may—
 
@@ -205,12 +205,12 @@ The Director of the Office of Management and Budget may—
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6307(1) | 41:508. | Feb. 3, 1978, Pub. L. 95–224, § 9, 92 Stat. 6. |
-| 6307(2) | 41:501(note). | Feb. 3, 1978, Pub. L. 95–224, § 10(d), 92 Stat. 6; Apr. 1, 1982, Pub. L. 97–162, 96 Stat. 23. |
+| 6307(1) | 41:508. | Feb. 3, 1978, Pub. L. 95–224, § 9, 92 Stat. 6. |
+| 6307(2) | 41:501(note). | Feb. 3, 1978, Pub. L. 95–224, § 10(d), 92 Stat. 6; Apr. 1, 1982, Pub. L. 97–162, 96 Stat. 23. |
 
 In clause (2), the word “exempt” is substituted for “except” for consistency.
 
-## § 6308. Use of multiple relationships for different parts of jointly financed projects
+## § 6308. Use of multiple relationships for different parts of jointly financed projects
 
 This chapter does not require an executive agency to establish only one relationship between the United States Government and a State, a local government, or other recipient on a jointly financed project involving amounts from more than one program or appropriation when different relationships would otherwise be appropriate for different parts of the project.
 
@@ -220,11 +220,11 @@ This chapter does not require an executive agency to establish only one relation
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6308 | 41:509. | Feb. 3, 1978, Pub. L. 95–224, § 10(c), 92 Stat. 6. |
+| 6308 | 41:509. | Feb. 3, 1978, Pub. L. 95–224, § 10(c), 92 Stat. 6. |
 
 The word “financed” is substituted for “funded”, and the word “amounts” is substituted for “funds”, for consistency in the revised title.
 
-## § 6309. Non-propagation of core-based statistical area delineations
+## § 6309. Non-propagation of core-based statistical area delineations
 
 **(a) In General.—** Beginning on the date of enactment of the MAPS Act of 2021, and notwithstanding any other provision of law, any change to the standards of core-based statistical area delineations pursuant to section 3504(e) of title 44—
 
@@ -246,7 +246,7 @@ The word “financed” is substituted for “funded”, and the word “amounts
 
 **(b) Definitions.—** The definitions in section 4 of the MAPS Act of 2021 shall apply to this section.
 
-(Added Pub. L. 117–219, § 5(a), Dec. 5, 2022, 136 Stat. 2272.)
+(Added Pub. L. 117–219, § 5(a), Dec. 5, 2022, 136 Stat. 2272.)
 
 **Statutory Notes and Related Subsidiaries**
 

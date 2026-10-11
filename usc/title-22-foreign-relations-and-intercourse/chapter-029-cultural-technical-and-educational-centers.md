@@ -17,37 +17,37 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—CENTER BETWEEN EAST AND WEST
 
-### §§ 2051 to 2053. Repealed. Pub. L. 87–195, pt. III, § 642(a)(7), Sept. 4, 1961, 75 Stat. 460
+### §§ 2051 to 2053. Repealed. Pub. L. 87–195, pt. III, § 642(a)(7), Sept. 4, 1961, 75 Stat. 460
 
-Sections, Pub. L. 86–108, ch. VI, §§ 601–603, July 24, 1959, 73 Stat. 256, 257, which directed the Secretary of State to submit to Congress before Jan. 3, 1960, a plan and program for the establishment in Hawaii of an educational institution, for grants, fellowships, and other payments to outstanding scholars and to qualified students from the nations of the East and West. See sections 2054 to 2057 of this title.
+Sections, Pub. L. 86–108, ch. VI, §§ 601–603, July 24, 1959, 73 Stat. 256, 257, which directed the Secretary of State to submit to Congress before Jan. 3, 1960, a plan and program for the establishment in Hawaii of an educational institution, for grants, fellowships, and other payments to outstanding scholars and to qualified students from the nations of the East and West. See sections 2054 to 2057 of this title.
 
-### § 2054. Statement of purpose
+### § 2054. Statement of purpose
 
 The purpose of this subchapter is to promote better relations and understanding between the United States and the nations of Asia and the Pacific (hereinafter referred to as “the East”) through cooperative study, training, and research, by establishing in Hawaii a Center for Cultural and Technical Interchange Between East and West where scholars and students in various fields from the nations of the East and West may study, give and receive training, exchange ideas and views, and conduct other activities primarily in support of the objectives of the United States Information and Educational Exchange Act of 1948, as amended [22 U.S.C. 1431 et seq.], title III of chapter II of the Mutual Security Act of 1954, and other Acts promoting the international, educational, cultural, and related activities of the United States.
 
-(Pub. L. 86–472, ch. VII, § 702, May 14, 1960, 74 Stat. 141.)
+(Pub. L. 86–472, ch. VII, § 702, May 14, 1960, 74 Stat. 141.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States Information and Educational Exchange Act of 1948, as amended, referred to in text, is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+The United States Information and Educational Exchange Act of 1948, as amended, referred to in text, is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
-The Mutual Security Act of 1954, referred to in text, is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134. Title III of chapter II of the Act was classified to sections 1891 to 1896, 1897, and 1898 of this title and was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460 and Pub. L. 86–472, ch. II, § 203(d), May 14, 1960, 74 Stat. 136. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
+The Mutual Security Act of 1954, referred to in text, is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134. Title III of chapter II of the Act was classified to sections 1891 to 1896, 1897, and 1898 of this title and was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460 and Pub. L. 86–472, ch. II, § 203(d), May 14, 1960, 74 Stat. 136. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 86–472, ch. VII, § 701, May 14, 1960, 74 Stat. 141, provided that: “This chapter [enacting this subchapter] may be cited as the ‘Center for Cultural and Technical Interchange Between East and West Act of 1960’.”
+Pub. L. 86–472, ch. VII, § 701, May 14, 1960, 74 Stat. 141, provided that: “This chapter [enacting this subchapter] may be cited as the ‘Center for Cultural and Technical Interchange Between East and West Act of 1960’.”
 
 **Executive Documents and Statutory Notes**
 
 **Transfer of Functions**
 
-All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(7), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(7), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 2055. Duties of Secretary of State; establishment and operation of educational institution; grants, fellowships, and scholarships; availability of facilities
+### § 2055. Duties of Secretary of State; establishment and operation of educational institution; grants, fellowships, and scholarships; availability of facilities
 
 In order to carry out the purpose of this subchapter the Secretary of State (hereinafter referred to as the “Secretary”) shall provide for—
 
@@ -59,9 +59,9 @@ In order to carry out the purpose of this subchapter the Secretary of State (her
 
 **(4)** making the facilities of the Center available for study or training to other qualified persons.
 
-(Pub. L. 86–472, ch. VII, § 703, May 14, 1960, 74 Stat. 141.)
+(Pub. L. 86–472, ch. VII, § 703, May 14, 1960, 74 Stat. 141.)
 
-### § 2056. Administration
+### § 2056. Administration
 
 **(a) Authority**
 
@@ -75,13 +75,13 @@ The Secretary may, in administering the provisions of this subchapter, accept fr
 
 The Director of the United States Information Agency shall make periodic reports, as he deems necessary, to the Congress with respect to his activities under the provisions of this subchapter, and such reports shall include any recommendations for needed revisions in this subchapter.
 
-(Pub. L. 86–472, ch. VII, § 704, May 14, 1960, 74 Stat. 141; Pub. L. 96–465, title II, § 2206(a)(8), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–470, title II, § 212(b), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
+(Pub. L. 86–472, ch. VII, § 704, May 14, 1960, 74 Stat. 141; Pub. L. 96–465, title II, § 2206(a)(8), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–470, title II, § 212(b), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States Information and Educational Exchange Act of 1948, as amended, referred to in subsec. (a), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+The United States Information and Educational Exchange Act of 1948, as amended, referred to in subsec. (a), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
 **Amendments**
 
@@ -101,27 +101,27 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and Director thereof. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 2057. Authorization of appropriations
+### § 2057. Authorization of appropriations
 
 There are authorized to be appropriated, to remain available until expended, such amounts as may be necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 86–472, ch. VII, § 705, May 14, 1960, 74 Stat. 142.)
+(Pub. L. 86–472, ch. VII, § 705, May 14, 1960, 74 Stat. 142.)
 
 ## SUBCHAPTER II—WESTERN HEMISPHERIC CENTER
 
-### §§ 2071, 2072. Repealed. Pub. L. 87–195, pt. III, § 642(a)(8), Sept. 4, 1961, 75 Stat. 460
+### §§ 2071, 2072. Repealed. Pub. L. 87–195, pt. III, § 642(a)(8), Sept. 4, 1961, 75 Stat. 460
 
-Sections, Pub. L. 86–472, ch. VIII, §§ 801, 802, May 14, 1960, 75 Stat. 142, related to Western Hemispheric Center, stated Congressional declaration of purpose and authorized preparation and submission of plan to Congress.
+Sections, Pub. L. 86–472, ch. VIII, §§ 801, 802, May 14, 1960, 75 Stat. 142, related to Western Hemispheric Center, stated Congressional declaration of purpose and authorized preparation and submission of plan to Congress.
 
 ## SUBCHAPTER III—DANTE B. FASCELL NORTH-SOUTH CENTER
 
-### § 2075. Center for Cultural and Technical Interchange Between North and South
+### § 2075. Center for Cultural and Technical Interchange Between North and South
 
 **(a) Short title**
 
-This section may be cited as the “Dante B. Fascell North-South Center Act of 1991” 1
+This section may be cited as the “Dante B. Fascell North-South Center Act of 1991” 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(b) Purpose**
 
@@ -139,13 +139,13 @@ The Director of the United States Information Agency, in carrying out this secti
 
 There are authorized to be appropriated $5,000,000 for fiscal year 1992 and $10,000,000 for each subsequent fiscal year to carry out this section. Amounts appropriated under this section are authorized to be available until expended.
 
-(Pub. L. 102–138, title II, § 208, Oct. 28, 1991, 105 Stat. 694; Pub. L. 106–29, § 1, May 21, 1999, 113 Stat. 54.)
+(Pub. L. 102–138, title II, § 208, Oct. 28, 1991, 105 Stat. 694; Pub. L. 106–29, § 1, May 21, 1999, 113 Stat. 54.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsecs. (b) and (d), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsecs. (b) and (d), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 **Codification**
 
@@ -153,23 +153,23 @@ Section is comprised of section 208 of Pub. L. 102–138. Subsec. (f) of section
 
 **Prior Provisions**
 
-A prior section 2075, Pub. L. 101–513, title II, Nov. 5, 1990, 104 Stat. 1984, was based on section 206 of title II of the House engrossed amendment (as passed the House of Representatives on May 24, 1990) to S. 2364, One Hundred First Congress, which was enacted into law by Pub. L. 101–513, and which was cited as the “Center for Cultural and Technical Interchange between North and South Act of 1990”, established a North-South Center in Florida to promote better relations between the United States and the nations of Latin America and the Caribbean and Canada through study, training, exchange of ideas and views, and other activities in support of the objectives of the United States Information and Educational Exchange Act of 1948, prior to repeal, effective Oct. 1, 1991, by Pub. L. 102–138, title II, § 208(f), Oct. 28, 1991, 105 Stat. 694.
+A prior section 2075, Pub. L. 101–513, title II, Nov. 5, 1990, 104 Stat. 1984, was based on section 206 of title II of the House engrossed amendment (as passed the House of Representatives on May 24, 1990) to S. 2364, One Hundred First Congress, which was enacted into law by Pub. L. 101–513, and which was cited as the “Center for Cultural and Technical Interchange between North and South Act of 1990”, established a North-South Center in Florida to promote better relations between the United States and the nations of Latin America and the Caribbean and Canada through study, training, exchange of ideas and views, and other activities in support of the objectives of the United States Information and Educational Exchange Act of 1948, prior to repeal, effective Oct. 1, 1991, by Pub. L. 102–138, title II, § 208(f), Oct. 28, 1991, 105 Stat. 694.
 
 **Amendments**
 
-1999—Subsec. (a). Pub. L. 106–29, § 1(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section may be cited as the ‘North/South Center Act of 1991’.”
+1999—Subsec. (a). Pub. L. 106–29, § 1(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section may be cited as the ‘North/South Center Act of 1991’.”
 
-Subsec. (c). Pub. L. 106–29, § 1(2)(A), amended subsec. heading generally. Prior to amendment, heading read as follows: “North/South Center”.
+Subsec. (c). Pub. L. 106–29, § 1(2)(A), amended subsec. heading generally. Prior to amendment, heading read as follows: “North/South Center”.
 
-Pub. L. 106–29, § 1(2)(B), substituted “which shall be known and designated as the Dante B. Fascell North-South Center,” for “known as the North/South Center,”.
+Pub. L. 106–29, § 1(2)(B), substituted “which shall be known and designated as the Dante B. Fascell North-South Center,” for “known as the North/South Center,”.
 
-Subsec. (d). Pub. L. 106–29, § 1(3), substituted “Dante B. Fascell North-South Center” for “North/South Center”.
+Subsec. (d). Pub. L. 106–29, § 1(3), substituted “Dante B. Fascell North-South Center” for “North/South Center”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 106–29, § 2, May 21, 1999, 113 Stat. 54, provided that:
+Pub. L. 106–29, § 2, May 21, 1999, 113 Stat. 54, provided that:
 
 > **“(a) Center.—** Any reference in any other provision of law to the educational institution in Florida known as the North/South Center shall be deemed to be a reference to the ‘Dante B. Fascell North-South Center’.
 
@@ -181,7 +181,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 ## SUBCHAPTER IV—INTERNATIONAL UNIVERSITY
 
-### § 2077. International University for the Americas
+### § 2077. International University for the Americas
 
 **(a) Purpose**
 
@@ -193,9 +193,9 @@ The purpose of this section is to promote economic integration and the consolida
 
 **(2)** the relevant government—
 
-**(A)** has demonstrated a commitment to economic integration and democratic values though 1
+**(A)** has demonstrated a commitment to economic integration and democratic values though 1
 
-<sup>1</sup>  So in original. Probably should be “through”.
+<sup>1</sup> So in original. Probably should be “through”.
 
 its policies and programs; and
 
@@ -213,13 +213,13 @@ The annual reports submitted pursuant to section 1738m of title 7 shall include 
 
 Of the funds that are allocated for assistance for Latin America and the Caribbean under chapter 1 of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] (relating to development assistance) and chapter 4 of part II of that Act [22 U.S.C. 2346 et seq.] (relating to the economic support fund), $500,000 may be made available to carry out the site location and design phase of the International University for the Americas.
 
-(Pub. L. 102–549, title VI, § 604, Oct. 28, 1992, 106 Stat. 3669; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(O), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 102–549, title VI, § 604, Oct. 28, 1992, 106 Stat. 3669; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(O), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -233,7 +233,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 ## SUBCHAPTER V—INTERNATIONAL CENTER FOR MIDDLE EASTERN-WESTERN DIALOGUE
 
-### § 2078. International Center for Middle Eastern-Western Dialogue Trust Fund
+### § 2078. International Center for Middle Eastern-Western Dialogue Trust Fund
 
 **(a) Establishment**
 
@@ -255,7 +255,7 @@ There are authorized to be appropriated to the International Center for Middle E
 
 The United States, through the Department of State, shall retain ownership of the Palazzo Corpi building in Istanbul, Turkey, and the Secretary of State shall be responsible for maintaining the International Center for Middle Eastern-Western Dialogue at such location.
 
-(Pub. L. 108–199, div. B, title VI, § 633, Jan. 23, 2004, 118 Stat. 100.)
+(Pub. L. 108–199, div. B, title VI, § 633, Jan. 23, 2004, 118 Stat. 100.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 28—STRATEGIC PLANNING AND PERFORMANCE MANAGEMENT
 
-## § 2801. Definitions
+## § 2801. Definitions
 
 For purposes of this chapter the term—
 
@@ -31,7 +31,7 @@ For purposes of this chapter the term—
 
 **(6)** “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Postal Service programs achieve intended objectives.
 
-(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 292.)
+(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 292.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -39,7 +39,7 @@ For purposes of this chapter the term—
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of Title 31, Money and Finance.
 
-## § 2802. Strategic plans
+## § 2802. Strategic plans
 
 **(a)** No later than September 30, 1997, the Postal Service shall submit to the President and the Congress a strategic plan for its program activities. Such plan shall contain—
 
@@ -61,13 +61,13 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 **(d)** When developing a strategic plan, the Postal Service shall solicit and consider the views and suggestions of those entities potentially affected by or interested in such a plan, and shall advise the Congress of the contents of the plan.
 
-(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 292.)
+(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 292.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Strategic Planning**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(d)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–381, provided that:
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(d)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–381, provided that:
 
 > **“(1) Office of inspector general of the united states postal service.—**
 
@@ -85,7 +85,7 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(d)], Sept. 3
 
 > **“(2) Postal inspection service.—** The Chief Postal Inspector shall, with respect to the Postal Inspection Service, prepare a strategic plan similar in content to that required under paragraph (1)(A) with respect to the Office of Inspector General of the United States Postal Service. Such plan shall be prepared in time to be included with the annual budget under section 2009 of such title 39 next due to be submitted after the end of the 30-day period beginning on the date of the enactment of this Act [Sept. 30, 1996].”
 
-## § 2803. Performance plans
+## § 2803. Performance plans
 
 **(a)** The Postal Service shall prepare an annual performance plan covering each program activity set forth in the Postal Service budget, which shall be included in the comprehensive statement presented under section 2401(e) of this title. Such plan shall—
 
@@ -121,7 +121,7 @@ with sufficient precision and in such terms that would allow for an accurate, in
 
 **(2)** matters otherwise exempt from public disclosure under section 410(c) of this title.
 
-(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 293; amended Pub. L. 109–435, title X, § 1010(d)(2), Dec. 20, 2006, 120 Stat. 3261.)
+(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 293; amended Pub. L. 109–435, title X, § 1010(d)(2), Dec. 20, 2006, 120 Stat. 3261.)
 
 **Editorial Notes**
 
@@ -129,7 +129,7 @@ with sufficient precision and in such terms that would allow for an accurate, in
 
 2006—Subsec. (a). Pub. L. 109–435 substituted “section 2401(e)” for “section 2401(g)” in introductory provisions.
 
-## § 2804. Program performance reports
+## § 2804. Program performance reports
 
 **(a)** The Postal Service shall prepare a report on program performance for each fiscal year, which shall be included in the annual comprehensive statement presented under section 2401(e) of this title.
 
@@ -157,7 +157,7 @@ with sufficient precision and in such terms that would allow for an accurate, in
 
 **(4)** include the summary findings of those program evaluations completed during the fiscal year covered by the report.
 
-(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 294; amended Pub. L. 109–435, title X, § 1010(d)(2), Dec. 20, 2006, 120 Stat. 3261.)
+(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 294; amended Pub. L. 109–435, title X, § 1010(d)(2), Dec. 20, 2006, 120 Stat. 3261.)
 
 **Editorial Notes**
 
@@ -165,8 +165,8 @@ with sufficient precision and in such terms that would allow for an accurate, in
 
 2006—Subsec. (a). Pub. L. 109–435 substituted “section 2401(e)” for “section 2401(g)”.
 
-## § 2805. Inherently Governmental functions
+## § 2805. Inherently Governmental functions
 
 The functions and activities of this chapter shall be considered to be inherently Governmental functions. The drafting of strategic plans, performance plans, and program performance reports under this section shall be performed only by employees of the Postal Service.
 
-(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 294.)
+(Added Pub. L. 103–62, § 7, Aug. 3, 1993, 107 Stat. 294.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 83—TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION
 
-## § 5701. Short title; findings
+## § 5701. Short title; findings
 
 **(a) Short title**
 
@@ -39,7 +39,7 @@ This chapter may be cited as the “Telephone Disclosure and Dispute Resolution 
 
 **(8)** Vendors of telephone-billed goods and services must also feel confident in their rights and obligations for resolving billing disputes if they are to use this new marketplace for the sale of products of more than nominal value.
 
-(Pub. L. 102–556, § 1, Oct. 28, 1992, 106 Stat. 4181.)
+(Pub. L. 102–556, § 1, Oct. 28, 1992, 106 Stat. 4181.)
 
 **Editorial Notes**
 
@@ -49,7 +49,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 ## SUBCHAPTER I—REGULATION OF UNFAIR AND DECEPTIVE ACTS AND PRACTICES IN CONNECTION WITH PAY-PER-CALL SERVICES
 
-### § 5711. Federal Trade Commission regulations
+### § 5711. Federal Trade Commission regulations
 
 **(a) In general**
 
@@ -145,9 +145,9 @@ The Commission shall prescribe the rules under subsection (a) within 270 days af
 
 Any violation of any rule prescribed under subsection (a) shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under section 45 of this title. Notwithstanding section 45(a)(2) of this title, communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
 
-(Pub. L. 102–556, title II, § 201, Oct. 28, 1992, 106 Stat. 4187.)
+(Pub. L. 102–556, title II, § 201, Oct. 28, 1992, 106 Stat. 4187.)
 
-### § 5712. Actions by States
+### § 5712. Actions by States
 
 **(a) In general**
 
@@ -179,7 +179,7 @@ Whenever the Commission has instituted a civil action for violation of any rule 
 
 **(2)** In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under section 5711(a) of this title.
 
-(Pub. L. 102–556, title II, § 202, Oct. 28, 1992, 106 Stat. 4190.)
+(Pub. L. 102–556, title II, § 202, Oct. 28, 1992, 106 Stat. 4190.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ Whenever the Commission has instituted a civil action for violation of any rule 
 
 This chapter, referred to in subsecs. (d) and (f), was in the original “this Act”, meaning Pub. L. 102–556, Oct. 28, 1992, 106 Stat. 4181, known as the Telephone Disclosure and Dispute Resolution Act. For complete classification of this Act to the Code, see References in Text note set out under section 5701 of this title and Tables.
 
-### § 5713. Administration and applicability of subchapter
+### § 5713. Administration and applicability of subchapter
 
 **(a) In general**
 
@@ -197,15 +197,15 @@ Except as otherwise provided in section 5712 of this title, this subchapter shal
 
 The Commission shall prevent any person from violating a rule of the Commission under section 5711 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this subchapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter.
 
-(Pub. L. 102–556, title II, § 203, Oct. 28, 1992, 106 Stat. 4191.)
+(Pub. L. 102–556, title II, § 203, Oct. 28, 1992, 106 Stat. 4191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 5714. Definitions
+### § 5714. Definitions
 
 For purposes of this subchapter:
 
@@ -217,7 +217,7 @@ For purposes of this subchapter:
 
 **(4)** The term “Commission” means the Federal Trade Commission.
 
-(Pub. L. 102–556, title II, § 204, Oct. 28, 1992, 106 Stat. 4191; Pub. L. 104–104, title VII, § 701(b)(1), Feb. 8, 1996, 110 Stat. 147.)
+(Pub. L. 102–556, title II, § 204, Oct. 28, 1992, 106 Stat. 4191; Pub. L. 104–104, title VII, § 701(b)(1), Feb. 8, 1996, 110 Stat. 147.)
 
 **Editorial Notes**
 
@@ -227,7 +227,7 @@ For purposes of this subchapter:
 
 ## SUBCHAPTER II—BILLING AND COLLECTION
 
-### § 5721. Regulations
+### § 5721. Regulations
 
 **(a) In general**
 
@@ -273,31 +273,31 @@ Any violation of any rule prescribed under subsection (a) shall be treated as a 
 
 **(10)** The extent to which the regulations should diverge from requirements under the Truth in Lending and Fair Credit Billing Acts [15 U.S.C. 1601 et seq., 1666 et seq.] in order to protect customers, and in order to be cost effective to billing entities.
 
-(Pub. L. 102–556, title III, § 301, Oct. 28, 1992, 106 Stat. 4191.)
+(Pub. L. 102–556, title III, § 301, Oct. 28, 1992, 106 Stat. 4191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsecs. (a)(2) and (d)(10), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Truth in Lending Act, referred to in subsecs. (a)(2) and (d)(10), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Fair Credit Billing Act, referred to in subsecs. (a)(2) and (d)(10), is title III of Pub. L. 93–495, Oct. 28, 1974, 88 Stat. 1511, which is classified principally to part D (§ 1666 et seq.) of subchapter I of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1601 of this title and Tables.
+The Fair Credit Billing Act, referred to in subsecs. (a)(2) and (d)(10), is title III of Pub. L. 93–495, Oct. 28, 1974, 88 Stat. 1511, which is classified principally to part D (§ 1666 et seq.) of subchapter I of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1601 of this title and Tables.
 
-### § 5722. Relation to State laws
+### § 5722. Relation to State laws
 
 **(a) State law applicable unless inconsistent**
 
-This subchapter does not annul, alter, or affect, or exempt any person subject to the provisions of this subchapter from complying with, the laws of any State with respect to telephone billing practices, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency. The Commission is authorized to determine whether such inconsistencies exist. The Commission may not determine that any State law is inconsistent with any provision of this subchapter 1
+This subchapter does not annul, alter, or affect, or exempt any person subject to the provisions of this subchapter from complying with, the laws of any State with respect to telephone billing practices, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency. The Commission is authorized to determine whether such inconsistencies exist. The Commission may not determine that any State law is inconsistent with any provision of this subchapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 if the Commission determines that such law gives greater protection to the consumer.
 
 **(b) Regulatory exemptions**
 
-The Commission shall by regulation exempt from the requirements of this subchapter any class of telephone-billed purchase transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter <sup>1</sup> or that such law gives greater protection to the consumer, and that there is adequate provision for enforcement.
+The Commission shall by regulation exempt from the requirements of this subchapter any class of telephone-billed purchase transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter <sup>1</sup> or that such law gives greater protection to the consumer, and that there is adequate provision for enforcement.
 
-(Pub. L. 102–556, title III, § 302, Oct. 28, 1992, 106 Stat. 4192.)
+(Pub. L. 102–556, title III, § 302, Oct. 28, 1992, 106 Stat. 4192.)
 
 **Editorial Notes**
 
@@ -305,19 +305,19 @@ The Commission shall by regulation exempt from the requirements of this subchapt
 
 This subchapter, referred to the last time in subsecs. (a) and (b), was in the original “this chapter” and was translated as reading “this title” meaning title III of Pub. L. 102–556, to reflect the probable intent of Congress because Pub. L. 102–556 does not contain chapters.
 
-### § 5723. Enforcement
+### § 5723. Enforcement
 
 The Commission shall enforce the requirements of this subchapter. For the purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act [15 U.S.C. 41 et seq.], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All the functions and powers of the Commission under that Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in that Act. The Commission may prescribe such regulations as are necessary or appropriate to implement the provisions of this subchapter.
 
-(Pub. L. 102–556, title III, § 303, Oct. 28, 1992, 106 Stat. 4192.)
+(Pub. L. 102–556, title III, § 303, Oct. 28, 1992, 106 Stat. 4192.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 5724. Definitions
+### § 5724. Definitions
 
 As used in this subchapter—
 
@@ -359,4 +359,4 @@ As used in this subchapter—
 
 **(6)** The term “customer” means any person who acquires or attempts to acquire goods or services in a telephone-billed purchase.
 
-(Pub. L. 102–556, title III, § 304, Oct. 28, 1992, 106 Stat. 4193.)
+(Pub. L. 102–556, title III, § 304, Oct. 28, 1992, 106 Stat. 4193.)

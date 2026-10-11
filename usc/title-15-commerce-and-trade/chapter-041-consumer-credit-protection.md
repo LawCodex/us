@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 ### Part A—General Provisions
 
-#### § 1601. Congressional findings and declaration of purpose
+#### § 1601. Congressional findings and declaration of purpose
 
 **(a) Informed use of credit**
 
@@ -29,7 +29,7 @@ The Congress finds that economic stabilization would be enhanced and the competi
 
 The Congress also finds that there has been a recent trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that these leases have been offered without adequate cost disclosures. It is the purpose of this subchapter to assure a meaningful disclosure of the terms of leases of personal property for personal, family, or household purposes so as to enable the lessee to compare more readily the various lease terms available to him, limit balloon payments in consumer leasing, enable comparison of lease terms with credit terms where appropriate, and to assure meaningful and accurate disclosures of lease terms in advertisements.
 
-(Pub. L. 90–321, title I, § 102, May 29, 1968, 82 Stat. 146; Pub. L. 93–495, title III, § 302, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–240, § 2, Mar. 23, 1976, 90 Stat. 257.)
+(Pub. L. 90–321, title I, § 102, May 29, 1968, 82 Stat. 146; Pub. L. 93–495, title III, § 302, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–240, § 2, Mar. 23, 1976, 90 Stat. 257.)
 
 **Editorial Notes**
 
@@ -43,7 +43,7 @@ The Congress also finds that there has been a recent trend toward leasing automo
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title XIV, § 1400(c), July 21, 2010, 124 Stat. 2136, provided that:
+Pub. L. 111–203, title XIV, § 1400(c), July 21, 2010, 124 Stat. 2136, provided that:
 
 > **“(1) Regulations.—** The regulations required to be prescribed under this title [see Tables for classification] or the amendments made by this title shall—
 
@@ -65,123 +65,123 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 **Effective Date**
 
-Pub. L. 90–321, title V, § 504(a), May 29, 1968, 82 Stat. 167, provided that: “Except as otherwise specified, the provisions of this Act [see Short Title note set out below] take effect upon enactment [May 29, 1968].”
+Pub. L. 90–321, title V, § 504(a), May 29, 1968, 82 Stat. 167, provided that: “Except as otherwise specified, the provisions of this Act [see Short Title note set out below] take effect upon enactment [May 29, 1968].”
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–36, § 1, Sept. 5, 2025, 139 Stat. 493, provided that: “This Act [amending section 1681b of this title and enacting provisions set out as a note under section 1681b of this title] may be cited as the ‘Homebuyers Privacy Protection Act’.”
+Pub. L. 119–36, § 1, Sept. 5, 2025, 139 Stat. 493, provided that: “This Act [amending section 1681b of this title and enacting provisions set out as a note under section 1681b of this title] may be cited as the ‘Homebuyers Privacy Protection Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–174, § 1(a), May 24, 2018, 132 Stat. 1296, provided that: “This Act [see Tables for classification] may be cited as the ‘Economic Growth, Regulatory Relief, and Consumer Protection Act’.”
+Pub. L. 115–174, § 1(a), May 24, 2018, 132 Stat. 1296, provided that: “This Act [see Tables for classification] may be cited as the ‘Economic Growth, Regulatory Relief, and Consumer Protection Act’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–94, div. G, title LXXXIX, § 89001, Dec. 4, 2015, 129 Stat. 1799, provided that: “This title [amending sections 1639c and 1639d of this title and enacting provisions set out as a note under section 5512 of Title 12, Banks and Banking] may be cited as the ‘Helping Expand Lending Practices in Rural Communities Act of 2015’ or the ‘HELP Rural Communities Act of 2015’.”
+Pub. L. 114–94, div. G, title LXXXIX, § 89001, Dec. 4, 2015, 129 Stat. 1799, provided that: “This title [amending sections 1639c and 1639d of this title and enacting provisions set out as a note under section 5512 of Title 12, Banks and Banking] may be cited as the ‘Helping Expand Lending Practices in Rural Communities Act of 2015’ or the ‘HELP Rural Communities Act of 2015’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–319, § 1, Dec. 18, 2010, 124 Stat. 3457, provided that: “This Act [amending section 1681m of this title and enacting provisions set out as a note under section 1681m of this title] may be cited as the ‘Red Flag Program Clarification Act of 2010’.”
+Pub. L. 111–319, § 1, Dec. 18, 2010, 124 Stat. 3457, provided that: “This Act [amending section 1681m of this title and enacting provisions set out as a note under section 1681m of this title] may be cited as the ‘Red Flag Program Clarification Act of 2010’.”
 
-Pub. L. 111–203, title XIV, § 1400(a), July 21, 2010, 124 Stat. 2136, provided that: “This title [see Tables for classification] may be cited as the ‘Mortgage Reform and Anti-Predatory Lending Act’.”
+Pub. L. 111–203, title XIV, § 1400(a), July 21, 2010, 124 Stat. 2136, provided that: “This title [see Tables for classification] may be cited as the ‘Mortgage Reform and Anti-Predatory Lending Act’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–93, § 1, Nov. 6, 2009, 123 Stat. 2998, provided that: “This Act [amending section 1666b of this title] may be cited as the ‘Credit CARD Technical Corrections Act of 2009’.”
+Pub. L. 111–93, § 1, Nov. 6, 2009, 123 Stat. 2998, provided that: “This Act [amending section 1666b of this title] may be cited as the ‘Credit CARD Technical Corrections Act of 2009’.”
 
-Pub. L. 111–24, § 1(a), May 22, 2009, 123 Stat. 1734, provided that: “This Act [enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693*l*–1 of this title and section 1a–7b of Title 16, Conservation, amending sections 1602, 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under sections 1602, 1637, 1638, 1666b, 1681j, and 1693*l*–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title] may be cited as the ‘Credit Card Accountability Responsibility and Disclosure Act of 2009’ or the ‘Credit CARD Act of 2009’.”
+Pub. L. 111–24, § 1(a), May 22, 2009, 123 Stat. 1734, provided that: “This Act [enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693*l*–1 of this title and section 1a–7b of Title 16, Conservation, amending sections 1602, 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under sections 1602, 1637, 1638, 1666b, 1681j, and 1693*l*–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title] may be cited as the ‘Credit Card Accountability Responsibility and Disclosure Act of 2009’ or the ‘Credit CARD Act of 2009’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–315, title X, § 1001, Aug. 14, 2008, 122 Stat. 3478, provided that: “This title [enacting section 1650 of this title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20] may be cited as the ‘Private Student Loan Transparency and Improvement Act of 2008’.”
+Pub. L. 110–315, title X, § 1001, Aug. 14, 2008, 122 Stat. 3478, provided that: “This title [enacting section 1650 of this title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20] may be cited as the ‘Private Student Loan Transparency and Improvement Act of 2008’.”
 
-Pub. L. 110–289, div. B, title V, § 2501, July 30, 2008, 122 Stat. 2855, provided that: “This title [amending sections 1638 and 1640 of this title and sections 24 and 338a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1638 of this title] may be cited as the ‘Mortgage Disclosure Improvement Act of 2008’.”
+Pub. L. 110–289, div. B, title V, § 2501, July 30, 2008, 122 Stat. 2855, provided that: “This title [amending sections 1638 and 1640 of this title and sections 24 and 338a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1638 of this title] may be cited as the ‘Mortgage Disclosure Improvement Act of 2008’.”
 
-Pub. L. 110–241, § 1, June 3, 2008, 122 Stat. 1565, provided that: “This Act [amending section 1681n of this title and enacting provisions set out as notes under section 1681n of this title] may be cited as the ‘Credit and Debit Card Receipt Clarification Act of 2007’.”
+Pub. L. 110–241, § 1, June 3, 2008, 122 Stat. 1565, provided that: “This Act [amending section 1681n of this title and enacting provisions set out as notes under section 1681n of this title] may be cited as the ‘Credit and Debit Card Receipt Clarification Act of 2007’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–159, § 1(a), Dec. 4, 2003, 117 Stat. 1952, provided that: “This Act [enacting sections 1681c–1, 1681c–2, 1681s–3, 1681w, and 1681x of this title and sections 9701 to 9708 of Title 20, Education, amending sections 1681a, 1681b, 1681c, 1681g, 1681i, 1681j, 1681m, 1681*o*, 1681p, 1681s, 1681s–2, 1681t, 1681u, and 1681v of this title and section 5318 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 1681, 1681a, 1681b, 1681c, 1681c–1, 1681i, 1681j, 1681m, 1681n, 1681s–2, 1681s–3 of this title, and section 9701 of Title 20, and amending provisions set out as a note under this section] may be cited as the ‘Fair and Accurate Credit Transactions Act of 2003’.”
+Pub. L. 108–159, § 1(a), Dec. 4, 2003, 117 Stat. 1952, provided that: “This Act [enacting sections 1681c–1, 1681c–2, 1681s–3, 1681w, and 1681x of this title and sections 9701 to 9708 of Title 20, Education, amending sections 1681a, 1681b, 1681c, 1681g, 1681i, 1681j, 1681m, 1681*o*, 1681p, 1681s, 1681s–2, 1681t, 1681u, and 1681v of this title and section 5318 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 1681, 1681a, 1681b, 1681c, 1681c–1, 1681i, 1681j, 1681m, 1681n, 1681s–2, 1681s–3 of this title, and section 9701 of Title 20, and amending provisions set out as a note under this section] may be cited as the ‘Fair and Accurate Credit Transactions Act of 2003’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–102, title VII, § 701, Nov. 12, 1999, 113 Stat. 1463, provided that: “This subtitle [subtitle A (§§ 701–705) of title VII of Pub. L. 106–102, amending sections 1693b, 1693c, and 1693h of this title] may be cited as the ‘ATM Fee Reform Act of 1999’.”
+Pub. L. 106–102, title VII, § 701, Nov. 12, 1999, 113 Stat. 1463, provided that: “This subtitle [subtitle A (§§ 701–705) of title VII of Pub. L. 106–102, amending sections 1693b, 1693c, and 1693h of this title] may be cited as the ‘ATM Fee Reform Act of 1999’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–347, § 1, Nov. 2, 1998, 112 Stat. 3208, provided that: “This Act [amending sections 1681a to 1681c, 1681g, 1681i, 1681k, and 1681s of this title and enacting provisions set out as a note under section 1681a of this title] may be cited as the ‘Consumer Reporting Employment Clarification Act of 1998’.”
+Pub. L. 105–347, § 1, Nov. 2, 1998, 112 Stat. 3208, provided that: “This Act [amending sections 1681a to 1681c, 1681g, 1681i, 1681k, and 1681s of this title and enacting provisions set out as a note under section 1681a of this title] may be cited as the ‘Consumer Reporting Employment Clarification Act of 1998’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title II, § 2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: “This chapter [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681*o*, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title] may be cited as the ‘Consumer Credit Reporting Reform Act of 1996’.”
+Pub. L. 104–208, div. A, title II, § 2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: “This chapter [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681*o*, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title] may be cited as the ‘Consumer Credit Reporting Reform Act of 1996’.”
 
 **Short Title of 1995 Amendments**
 
-Pub. L. 104–29, § 1, Sept. 30, 1995, 109 Stat. 271, provided that: “This Act [enacting section 1649 of this title, amending sections 1605, 1631, 1635, 1640, and 1641 of this title, and enacting provisions set out as notes under section 1605 of this title] may be cited as the ‘Truth in Lending Act Amendments of 1995’.”
+Pub. L. 104–29, § 1, Sept. 30, 1995, 109 Stat. 271, provided that: “This Act [enacting section 1649 of this title, amending sections 1605, 1631, 1635, 1640, and 1641 of this title, and enacting provisions set out as notes under section 1605 of this title] may be cited as the ‘Truth in Lending Act Amendments of 1995’.”
 
-Pub. L. 104–12, § 1, May 18, 1995, 109 Stat. 161, provided that: “This Act [amending section 1640 of this title] may be cited as the ‘Truth in Lending Class Action Relief Act of 1995’.”
+Pub. L. 104–12, § 1, May 18, 1995, 109 Stat. 161, provided that: “This Act [amending section 1640 of this title] may be cited as the ‘Truth in Lending Class Action Relief Act of 1995’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–325, title I, § 151, Sept. 23, 1994, 108 Stat. 2190, provided that: “This subtitle [subtitle B (§§ 151–158) of title I of Pub. L. 103–325, enacting sections 1639 and 1648 of this title, amending sections 1602, 1604, 1610, 1640, 1641, and 1647 of this title, and enacting provisions set out as notes under this section and section 1602 of this title] may be cited as the ‘Home Ownership and Equity Protection Act of 1994’.”
+Pub. L. 103–325, title I, § 151, Sept. 23, 1994, 108 Stat. 2190, provided that: “This subtitle [subtitle B (§§ 151–158) of title I of Pub. L. 103–325, enacting sections 1639 and 1648 of this title, amending sections 1602, 1604, 1610, 1640, 1641, and 1647 of this title, and enacting provisions set out as notes under this section and section 1602 of this title] may be cited as the ‘Home Ownership and Equity Protection Act of 1994’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–537, § 1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Act [enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title] may be cited as the ‘Ted Weiss Child Support Enforcement Act of 1992’.”
+Pub. L. 102–537, § 1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Act [enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title] may be cited as the ‘Ted Weiss Child Support Enforcement Act of 1992’.”
 
 **Short Title of 1988 Amendments**
 
-Pub. L. 100–709, § 1, Nov. 23, 1988, 102 Stat. 4725, provided that: “This Act [enacting sections 1637a, 1647, and 1665b of this title, amending sections 1632 and 1637 of this title, and enacting provisions set out as notes under section 1637a of this title] may be cited as the ‘Home Equity Loan Consumer Protection Act of 1988’.”
+Pub. L. 100–709, § 1, Nov. 23, 1988, 102 Stat. 4725, provided that: “This Act [enacting sections 1637a, 1647, and 1665b of this title, amending sections 1632 and 1637 of this title, and enacting provisions set out as notes under section 1637a of this title] may be cited as the ‘Home Equity Loan Consumer Protection Act of 1988’.”
 
-Pub. L. 100–583, § 1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act [amending sections 1610, 1632, 1637, 1640, and 1646 of this title and enacting provisions set out as a note under section 1637 of this title] may be cited as the ‘Fair Credit and Charge Card Disclosure Act of 1988’.”
+Pub. L. 100–583, § 1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act [amending sections 1610, 1632, 1637, 1640, and 1646 of this title and enacting provisions set out as a note under section 1637 of this title] may be cited as the ‘Fair Credit and Charge Card Disclosure Act of 1988’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–25, § 1, July 27, 1981, 95 Stat. 144, provided: “That this Act [amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title] may be cited as the ‘Cash Discount Act’.”
+Pub. L. 97–25, § 1, July 27, 1981, 95 Stat. 144, provided: “That this Act [amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title] may be cited as the ‘Cash Discount Act’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–221, title VI, § 601, Mar. 31, 1980, 94 Stat. 168, provided that: “This title [enacting section 1646 of this title, amending sections 57a, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as notes under sections 1602 and 1607 of this title] may be cited as the ‘Truth in Lending Simplification and Reform Act’.”
+Pub. L. 96–221, title VI, § 601, Mar. 31, 1980, 94 Stat. 168, provided that: “This title [enacting section 1646 of this title, amending sections 57a, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as notes under sections 1602 and 1607 of this title] may be cited as the ‘Truth in Lending Simplification and Reform Act’.”
 
 **Short Title of 1976 Amendments**
 
-Pub. L. 94–240, § 1, Mar. 23, 1976, 90 Stat. 257, provided that: “This Act [enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title] may be cited as the ‘Consumer Leasing Act of 1976’.”
+Pub. L. 94–240, § 1, Mar. 23, 1976, 90 Stat. 257, provided that: “This Act [enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title] may be cited as the ‘Consumer Leasing Act of 1976’.”
 
-Pub. L. 94–239, § 1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act [enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
+Pub. L. 94–239, § 1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act [enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–495, title III, § 301, Oct. 28, 1974, 88 Stat. 1511, provided that: “This title [enacting sections 1666 to 1666j of this title, amending this section and sections 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1666 of this title] may be cited as the ‘Fair Credit Billing Act’.”
+Pub. L. 93–495, title III, § 301, Oct. 28, 1974, 88 Stat. 1511, provided that: “This title [enacting sections 1666 to 1666j of this title, amending this section and sections 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1666 of this title] may be cited as the ‘Fair Credit Billing Act’.”
 
-Pub. L. 93–495, title V, § 501, Oct. 28, 1974, 88 Stat. 1521, which provided that title V of Pub. L. 93–495 (enacting subchapter IV of this chapter and notes set out under section 1691 of this title) could be cited as the “Equal Credit Opportunity Act”, was repealed by Pub. L. 94–239, § 1(c), Mar. 23, 1976, 90 Stat. 251.
+Pub. L. 93–495, title V, § 501, Oct. 28, 1974, 88 Stat. 1521, which provided that title V of Pub. L. 93–495 (enacting subchapter IV of this chapter and notes set out under section 1691 of this title) could be cited as the “Equal Credit Opportunity Act”, was repealed by Pub. L. 94–239, § 1(c), Mar. 23, 1976, 90 Stat. 251.
 
 **Short Title**
 
-Pub. L. 90–321, § 1, May 29, 1968, 82 Stat. 146, provided that: “This Act [enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18] may be cited as the ‘Consumer Credit Protection Act’.”
+Pub. L. 90–321, § 1, May 29, 1968, 82 Stat. 146, provided that: “This Act [enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18] may be cited as the ‘Consumer Credit Protection Act’.”
 
-Pub. L. 90–321, title I, § 101, May 29, 1968, 82 Stat. 146, provided that: “This title [enacting this subchapter] may be cited as the ‘Truth in Lending Act’.”
+Pub. L. 90–321, title I, § 101, May 29, 1968, 82 Stat. 146, provided that: “This title [enacting this subchapter] may be cited as the ‘Truth in Lending Act’.”
 
-Pub. L. 90–321, title IV, § 401, as added by Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “This title [enacting subchapter II–A of this chapter] may be cited as the ‘Credit Repair Organizations Act’.”
+Pub. L. 90–321, title IV, § 401, as added by Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “This title [enacting subchapter II–A of this chapter] may be cited as the ‘Credit Repair Organizations Act’.”
 
-Pub. L. 90–321, title VI, § 601, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128, as amended by Pub. L. 108–159, title VIII, § 811(a), Dec. 4, 2003, 117 Stat. 2011, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Fair Credit Reporting Act’.”
+Pub. L. 90–321, title VI, § 601, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128, as amended by Pub. L. 108–159, title VIII, § 811(a), Dec. 4, 2003, 117 Stat. 2011, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Fair Credit Reporting Act’.”
 
-Pub. L. 90–321, title VII, § 709, as added by Pub. L. 94–239, § 1(b), Mar. 23, 1976, 90 Stat. 251, provided that: “This title [enacting subchapter IV of this chapter and notes set out under section 1691 of this title] may be cited as the ‘Equal Credit Opportunity Act’.”
+Pub. L. 90–321, title VII, § 709, as added by Pub. L. 94–239, § 1(b), Mar. 23, 1976, 90 Stat. 251, provided that: “This title [enacting subchapter IV of this chapter and notes set out under section 1691 of this title] may be cited as the ‘Equal Credit Opportunity Act’.”
 
-Pub. L. 90–321, title VIII, § 801, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, provided that: “This title [enacting subchapter V of this chapter] may be cited as the ‘Fair Debt Collection Practices Act’.”
+Pub. L. 90–321, title VIII, § 801, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, provided that: “This title [enacting subchapter V of this chapter] may be cited as the ‘Fair Debt Collection Practices Act’.”
 
-Pub. L. 90–321, title IX, § 901, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, provided that: “This title [enacting subchapter VI of this chapter] may be cited as the ‘Electronic Fund Transfer Act’.”
+Pub. L. 90–321, title IX, § 901, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, provided that: “This title [enacting subchapter VI of this chapter] may be cited as the ‘Electronic Fund Transfer Act’.”
 
 **Severability**
 
-Pub. L. 90–321, title V, § 501, May 29, 1968, 82 Stat. 167, provided that: “If a provision enacted by this Act [see Short Title note above], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+Pub. L. 90–321, title V, § 501, May 29, 1968, 82 Stat. 167, provided that: “If a provision enacted by this Act [see Short Title note above], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
 
 **Exemption or Modification of Mortgage Disclosure Requirements**
 
-Pub. L. 111–203, title XIV, § 1405(b), July 21, 2010, 124 Stat. 2142, provided that: “Notwithstanding any other provision of this title [see Tables for classification], in order to improve consumer awareness and understanding of transactions involving residential mortgage loans through the use of disclosures, the Board may, by rule, exempt from or modify disclosure requirements, in whole or in part, for any class of residential mortgage loans if the Board determines that such exemption or modification is in the interest of consumers and in the public interest.”
+Pub. L. 111–203, title XIV, § 1405(b), July 21, 2010, 124 Stat. 2142, provided that: “Notwithstanding any other provision of this title [see Tables for classification], in order to improve consumer awareness and understanding of transactions involving residential mortgage loans through the use of disclosures, the Board may, by rule, exempt from or modify disclosure requirements, in whole or in part, for any class of residential mortgage loans if the Board determines that such exemption or modification is in the interest of consumers and in the public interest.”
 
 **Analysis of Further Restrictions on Offers of Credit or Insurance**
 
-Pub. L. 108–159, title II, § 213(e), Dec. 4, 2003, 117 Stat. 1979, provided that:
+Pub. L. 108–159, title II, § 213(e), Dec. 4, 2003, 117 Stat. 1979, provided that:
 
 > **“(1) In general.—** The Board shall conduct a study of—
 
@@ -217,11 +217,11 @@ Pub. L. 108–159, title II, § 213(e), Dec. 4, 2003, 117 Stat. 1979, provided
 
 **Federal Reserve Study of Home Equity Lending and Appropriate Interest Rate Index**
 
-Pub. L. 103–325, title I, § 157, Sept. 23, 1994, 108 Stat. 2197, provided that during the period beginning 180 days after Sept. 23, 1994, and ending 2 years after that date, the Board of Governors of the Federal Reserve System was to conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding whether consumers engaging in open end credit transactions as defined in section 1602 of this title secured by principal dwellings have adequate Federal protection and whether a more appropriate interest rate index existed for purposes of section 1602(bb)(1)(A) of this title than the yield on Treasury securities.
+Pub. L. 103–325, title I, § 157, Sept. 23, 1994, 108 Stat. 2197, provided that during the period beginning 180 days after Sept. 23, 1994, and ending 2 years after that date, the Board of Governors of the Federal Reserve System was to conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding whether consumers engaging in open end credit transactions as defined in section 1602 of this title secured by principal dwellings have adequate Federal protection and whether a more appropriate interest rate index existed for purposes of section 1602(bb)(1)(A) of this title than the yield on Treasury securities.
 
 **Hearings on Home Equity Lending**
 
-Pub. L. 103–325, title I, § 158, Sept. 23, 1994, 108 Stat. 2197, as amended by Pub. L. 111–203, title X, § 1096, July 21, 2010, 124 Stat. 2102, provided that:
+Pub. L. 103–325, title I, § 158, Sept. 23, 1994, 108 Stat. 2197, as amended by Pub. L. 111–203, title X, § 1096, July 21, 2010, 124 Stat. 2102, provided that:
 
 > **“(a) Hearings.—** Not less than once during the 3-year period beginning on the date of enactment of this Act [Sept. 23, 1994], and regularly thereafter, the Bureau, in consultation with the Advisory Board to the Bureau, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle [see Short Title of 1994 Amendment note above] in protecting the interests of consumers, and low-income consumers in particular.
 
@@ -229,15 +229,15 @@ Pub. L. 103–325, title I, § 158, Sept. 23, 1994, 108 Stat. 2197, as amended
 
 **Study by Federal Reserve Board of Governors Covering Effect of Charge Card Transactions Upon Card Issuers, Merchants, and Consumers**
 
-Pub. L. 97–25, title II, § 202, July 27, 1981, 95 Stat. 145, directed Board of Governors of Federal Reserve System, not later than 2 years after July 27, 1981, to prepare a study and submit its findings to Congress on the effect of charge card transactions upon card issuers, merchants, and consumers.
+Pub. L. 97–25, title II, § 202, July 27, 1981, 95 Stat. 145, directed Board of Governors of Federal Reserve System, not later than 2 years after July 27, 1981, to prepare a study and submit its findings to Congress on the effect of charge card transactions upon card issuers, merchants, and consumers.
 
 **Inference of Legislative Intent in Section Captions and Catchlines**
 
-Pub. L. 90–321, title V, § 502, May 29, 1968, 82 Stat. 167, provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act [enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18] may be drawn from them.”
+Pub. L. 90–321, title V, § 502, May 29, 1968, 82 Stat. 167, provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act [enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18] may be drawn from them.”
 
 **Grammatical Usages**
 
-Pub. L. 90–321, title V, § 503, May 30, 1968, 82 Stat. 167, provided that:
+Pub. L. 90–321, title V, § 503, May 30, 1968, 82 Stat. 167, provided that:
 
 > “In this Act [enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18]:
 
@@ -251,9 +251,9 @@ Pub. L. 90–321, title V, § 503, May 30, 1968, 82 Stat. 167, provided that:
 
 **Definition**
 
-Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided that: “For purposes of this title [see Tables for classification], the term ‘designated transfer date’ means the date established under section 1062 of this Act [12 U.S.C. 5582].”
+Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided that: “For purposes of this title [see Tables for classification], the term ‘designated transfer date’ means the date established under section 1062 of this Act [12 U.S.C. 5582].”
 
-#### § 1602. Definitions and rules of construction
+#### § 1602. Definitions and rules of construction
 
 **(a)** The definitions and rules of construction set forth in this section are applicable for the purposes of this subchapter.
 
@@ -479,7 +479,7 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided
 
 **(4)** Paragraphs (1) and (2) shall not apply to discount points used to purchase an interest rate reduction unless the amount of the interest rate reduction purchased is reasonably consistent with established industry norms and practices for secondary mortgage market transactions.
 
-(Pub. L. 90–321, title I, § 103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, § 501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, § 303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, § 3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§ 602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, § 102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, § 702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§ 152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196; Pub. L. 110–315, title X, § 1011(b), Aug. 14, 2008, 122 Stat. 3481; Pub. L. 111–24, title I, § 108, May 22, 2009, 123 Stat. 1743; Pub. L. 111–203, title X, § 1100A(1), (2), title XIV, §§ 1401, 1431, July 21, 2010, 124 Stat. 2107, 2137, 2157; Pub. L. 115–174, title I, § 107, May 24, 2018, 132 Stat. 1304.)
+(Pub. L. 90–321, title I, § 103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, § 501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, § 303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, § 3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§ 602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, § 102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, § 702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§ 152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196; Pub. L. 110–315, title X, § 1011(b), Aug. 14, 2008, 122 Stat. 3481; Pub. L. 111–24, title I, § 108, May 22, 2009, 123 Stat. 1743; Pub. L. 111–203, title X, § 1100A(1), (2), title XIV, §§ 1401, 1431, July 21, 2010, 124 Stat. 2107, 2137, 2157; Pub. L. 115–174, title I, § 107, May 24, 2018, 132 Stat. 1304.)
 
 **Editorial Notes**
 
@@ -487,23 +487,23 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided
 
 The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
-The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (dd)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (dd)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
 
-The National Housing Act, referred to in subsec. (ee)(1)(B), (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title I of the Act is classified generally to subchapter II (§ 1702 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (ee)(1)(B), (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title I of the Act is classified generally to subchapter II (§ 1702 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 **Amendments**
 
-2018—Subsecs. (cc), (dd). Pub. L. 115–174, § 107(1), redesignated subsec. (cc), relating to definitions relating to mortgage origination and residential mortgage loans, as (dd). Former subsec. (dd) redesignated (ee).
+2018—Subsecs. (cc), (dd). Pub. L. 115–174, § 107(1), redesignated subsec. (cc), relating to definitions relating to mortgage origination and residential mortgage loans, as (dd). Former subsec. (dd) redesignated (ee).
 
-Subsec. (dd)(2)(C). Pub. L. 115–174, § 107(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);”.
+Subsec. (dd)(2)(C). Pub. L. 115–174, § 107(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);”.
 
-Subsec. (ee). Pub. L. 115–174, § 107(1), redesignated subsec. (dd) as (ee).
+Subsec. (ee). Pub. L. 115–174, § 107(1), redesignated subsec. (dd) as (ee).
 
-2010—Pub. L. 111–203, § 1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
+2010—Pub. L. 111–203, § 1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
 
-Subsecs. (b) to (z). Pub. L. 111–203, § 1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (z) as (c) to (aa), respectively.
+Subsecs. (b) to (z). Pub. L. 111–203, § 1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (z) as (c) to (aa), respectively.
 
-Subsec. (bb). Pub. L. 111–203, § 1431(a), which directed amendment of subsec. (aa) by inserting subsec. heading, adding par. (1), and striking out former par. (1), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See below. Text of former par. (1) read as follows: “A mortgage referred to in this subsection means a consumer credit transaction that is secured by the consumer’s principal dwelling, other than a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, if—
+Subsec. (bb). Pub. L. 111–203, § 1431(a), which directed amendment of subsec. (aa) by inserting subsec. heading, adding par. (1), and striking out former par. (1), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See below. Text of former par. (1) read as follows: “A mortgage referred to in this subsection means a consumer credit transaction that is secured by the consumer’s principal dwelling, other than a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, if—
 
 “(A) the annual percentage rate at consummation of the transaction will exceed by more than 10 percentage points the yield on Treasury securities having comparable periods of maturity on the fifteenth day of the month immediately preceding the month in which the application for the extension of credit is received by the creditor; or
 
@@ -513,57 +513,57 @@ Subsec. (bb). Pub. L. 111–203, § 1431(a), which directed amendment of subse
 
 “(ii) $400.”
 
-Pub. L. 111–203, § 1100(A)(1), redesignated subsec. (aa) as (bb). Former subsec. (bb) redesignated (cc).
+Pub. L. 111–203, § 1100(A)(1), redesignated subsec. (aa) as (bb). Former subsec. (bb) redesignated (cc).
 
-Subsec. (bb)(2)(B). Pub. L. 111–203, § 1431(b), which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above. Text of former subpar. (B) read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
+Subsec. (bb)(2)(B). Pub. L. 111–203, § 1431(b), which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above. Text of former subpar. (B) read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
 
 “(i) less that 8 percentage points; or
 
 “(ii) greater than 12 percentage points.”
 
-Subsec. (bb)(4)(B). Pub. L. 111–203, § 1431(c)(1)(A), which directed amendment of subsec. (aa)(4) by adding subpar. (B) and struck out former subpar. (B), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above. Text of former subpar. (B) read as follows: “all compensation paid to mortgage brokers;”.
+Subsec. (bb)(4)(B). Pub. L. 111–203, § 1431(c)(1)(A), which directed amendment of subsec. (aa)(4) by adding subpar. (B) and struck out former subpar. (B), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above. Text of former subpar. (B) read as follows: “all compensation paid to mortgage brokers;”.
 
-Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, § 1431(c)(1)(B), (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above.
+Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, § 1431(c)(1)(B), (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above.
 
-Subsec. (bb)(5), (6). Pub. L. 111–203, § 1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above.
+Subsec. (bb)(5), (6). Pub. L. 111–203, § 1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above.
 
-Subsec. (cc). Pub. L. 111–203, § 1401, added subsec. (cc) relating to definitions relating to mortgage origination and residential mortgage loans.
+Subsec. (cc). Pub. L. 111–203, § 1401, added subsec. (cc) relating to definitions relating to mortgage origination and residential mortgage loans.
 
-Pub. L. 111–203, § 1100(A)(1), redesignated subsec. (bb) as (cc) defining the term “reverse mortgage transaction”.
+Pub. L. 111–203, § 1100(A)(1), redesignated subsec. (bb) as (cc) defining the term “reverse mortgage transaction”.
 
-Subsec. (dd). Pub. L. 111–203, § 1431(d), added subsec. (dd).
+Subsec. (dd). Pub. L. 111–203, § 1431(d), added subsec. (dd).
 
 2009—Subsec. (i). Pub. L. 111–24 substituted “terms ‘open end credit plan’ and ‘open end consumer credit plan’ mean” for “term ‘open end credit plan’ means” in first sentence and inserted “or open end consumer credit plan” after “credit plan” wherever appearing in second sentence.
 
 2008—Subsec. (f). Pub. L. 110–315 inserted at end “The term ‘creditor’ includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.”
 
-1994—Subsec. (f). Pub. L. 103–325, § 152(c), inserted at end “Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter.”
+1994—Subsec. (f). Pub. L. 103–325, § 152(c), inserted at end “Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter.”
 
-Subsec. (u). Pub. L. 103–325, § 152(b), substituted “the due dates” for “and the due dates” and inserted before period at end “, and the disclosures required by section 1639(a) of this title”.
+Subsec. (u). Pub. L. 103–325, § 152(b), substituted “the due dates” for “and the due dates” and inserted before period at end “, and the disclosures required by section 1639(a) of this title”.
 
-Subsec. (aa). Pub. L. 103–325, § 152(a), added subsec. (aa).
+Subsec. (aa). Pub. L. 103–325, § 152(a), added subsec. (aa).
 
-Subsec. (bb). Pub. L. 103–325, § 154(a), added subsec. (bb).
+Subsec. (bb). Pub. L. 103–325, § 154(a), added subsec. (bb).
 
 1982—Subsec. (f). Pub. L. 97–320 struck out provision that a person who regularly arranged for the extension of consumer credit payable in more than four installments or for which the payment of a finance charge was or might have been required from persons not creditors was a creditor, and provision that this subchapter applied to any creditor, irrespective of his or its status as a natural person or any type of organization, who was a card issuer.
 
 1981—Subsecs. (x) to (z). Pub. L. 97–25 added subsec. (z) and, effective Apr. 10, 1982, redesignated subsecs. (x), (y), and (z) as (y), (z), and (x), respectively.
 
-1980—Subsec. (f). Pub. L. 96–221, § 602(a), substituted provisions defining term “creditor” as referring only to a person who both regularly extends consumer credit, subject to specified conditions, and is the person to whom the debt arising is initially payable on the face of the indebtedness or by agreement, and notwithstanding such provisions, also refers to a person regularly arranging for the extension of consumer credit, and a card issuer and any person honoring the credit card, subject to specified conditions, for provisions defining term “creditor” as referring only to creditors who regularly extend, or arrange for the extension of credit payable in more than four installments or where a finance charge is or may be required, and substituted “(a)(5)” for “(a)(6)”, “(a)(6)” for “(a)(7)”, “(a)(7)” for “(a)(8)”, “(b)(8)” for “(b)(9)”, and “(b)(10)” for “(b)(11)”.
+1980—Subsec. (f). Pub. L. 96–221, § 602(a), substituted provisions defining term “creditor” as referring only to a person who both regularly extends consumer credit, subject to specified conditions, and is the person to whom the debt arising is initially payable on the face of the indebtedness or by agreement, and notwithstanding such provisions, also refers to a person regularly arranging for the extension of consumer credit, and a card issuer and any person honoring the credit card, subject to specified conditions, for provisions defining term “creditor” as referring only to creditors who regularly extend, or arrange for the extension of credit payable in more than four installments or where a finance charge is or may be required, and substituted “(a)(5)” for “(a)(6)”, “(a)(6)” for “(a)(7)”, “(a)(7)” for “(a)(8)”, “(b)(8)” for “(b)(9)”, and “(b)(10)” for “(b)(11)”.
 
-Subsec. (g). Pub. L. 96–221, § 602(b), substituted “in which the seller is a creditor” for “with respect to which credit is extended or arranged by the seller”.
+Subsec. (g). Pub. L. 96–221, § 602(b), substituted “in which the seller is a creditor” for “with respect to which credit is extended or arranged by the seller”.
 
-Subsec. (h). Pub. L. 96–221, § 603(a), struck out applicability to agricultural purposes.
+Subsec. (h). Pub. L. 96–221, § 603(a), struck out applicability to agricultural purposes.
 
-Subsec. (i). Pub. L. 96–221, § 604, inserted provisions respecting the reasonable contemplations of the creditor, and verification of credit information from time to time.
+Subsec. (i). Pub. L. 96–221, § 604, inserted provisions respecting the reasonable contemplations of the creditor, and verification of credit information from time to time.
 
-Subsecs. (s), (t). Pub. L. 96–221, § 603(b), added subsecs. (s) and (t). Former subsecs. (s) and (t) redesignated (x) and (y), respectively.
+Subsecs. (s), (t). Pub. L. 96–221, § 603(b), added subsecs. (s) and (t). Former subsecs. (s) and (t) redesignated (x) and (y), respectively.
 
-Subsec. (u). Pub. L. 96–221, § 612(a)(2), added subsec. (u).
+Subsec. (u). Pub. L. 96–221, § 612(a)(2), added subsec. (u).
 
-Subsecs. (v), (w). Pub. L. 96–221, § 612(b), added subsecs. (v) and (w).
+Subsecs. (v), (w). Pub. L. 96–221, § 612(b), added subsecs. (v) and (w).
 
-Subsecs. (x), (y). Pub. L. 96–221, § 603(b), redesignated former subsecs. (s) and (t) as (x) and (y), respectively.
+Subsecs. (x), (y). Pub. L. 96–221, § 603(b), redesignated former subsecs. (s) and (t) as (x) and (y), respectively.
 
 1976—Subsecs. (p) to (t). Pub. L. 94–222 added subsecs. (p) and (q) and redesignated former subsecs. (p) to (r) as (r) to (t), respectively.
 
@@ -581,11 +581,11 @@ Amendment by sections 1401 and 1431 of Pub. L. 111–203 effective on the date o
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–24, § 3, May 22, 2009, 123 Stat. 1735, provided that: “This Act [enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693*l*–1 of this title and section 1a–7b of Title 16, Conservation, amending this section and sections 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under this section and sections 1637, 1638, 1666b, 1681j, and 1693*l*–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title] and the amendments made by this Act shall become effective 9 months after the date of enactment of this Act [May 22, 2009], except as otherwise specifically provided in this Act.”
+Pub. L. 111–24, § 3, May 22, 2009, 123 Stat. 1735, provided that: “This Act [enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693*l*–1 of this title and section 1a–7b of Title 16, Conservation, amending this section and sections 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under this section and sections 1637, 1638, 1666b, 1681j, and 1693*l*–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title] and the amendments made by this Act shall become effective 9 months after the date of enactment of this Act [May 22, 2009], except as otherwise specifically provided in this Act.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–320, title VII, § 702(b), Oct. 15, 1982, 96 Stat. 1538, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the effective date of title VI of the Depository Institutions Deregulation and Monetary Control Act of 1980 [two years and six months after Mar. 31, 1980, see Effective Date of 1980 Amendment note below].”
+Pub. L. 97–320, title VII, § 702(b), Oct. 15, 1982, 96 Stat. 1538, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the effective date of title VI of the Depository Institutions Deregulation and Monetary Control Act of 1980 [two years and six months after Mar. 31, 1980, see Effective Date of 1980 Amendment note below].”
 
 **Effective Date of 1981 Amendment**
 
@@ -593,7 +593,7 @@ Section 102(b) of Pub. L. 97–25 provided that the amendment made by that secti
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–221, title VI, § 625, Mar. 31, 1980, 94 Stat. 185, as amended by Pub. L. 97–25, title III, § 301, July 27, 1981, 95 Stat. 145; Pub. L. 97–110, title III, § 301, Dec. 26, 1981, 95 Stat. 1515, provided that:
+Pub. L. 96–221, title VI, § 625, Mar. 31, 1980, 94 Stat. 185, as amended by Pub. L. 97–25, title III, § 301, July 27, 1981, 95 Stat. 145; Pub. L. 97–110, title III, § 301, Dec. 26, 1981, 95 Stat. 1515, provided that:
 
 > **“(a)** Except as provided in section 608(b) [set out as an Effective Date of 1980 Amendment note under section 1607 of this title], the amendments made by this title [enacting section 1646 of this title, amending sections 57a, 1602 to 1606, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as a note under section 1601 of this title] shall take effect upon the expiration of two years and six months after the date of enactment of this title [Mar. 31, 1980].
 
@@ -607,15 +607,15 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 **Regulations**
 
-Pub. L. 111–24, § 2, May 22, 2009, 123 Stat. 1735, provided that: “The Board of Governors of the Federal Reserve System (in this Act [see Short Title of 2009 Amendment note set out under section 1601 of this title] referred to as the ‘Board’) may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act.”
+Pub. L. 111–24, § 2, May 22, 2009, 123 Stat. 1735, provided that: “The Board of Governors of the Federal Reserve System (in this Act [see Short Title of 2009 Amendment note set out under section 1601 of this title] referred to as the ‘Board’) may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act.”
 
-Pub. L. 103–325, title I, § 155, Sept. 23, 1994, 108 Stat. 2197, provided that: “Not later than 180 days after the date of enactment of this Act [Sept. 23, 1994], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle [subtitle B (§§ 151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act [15 U.S.C. § 1604(d)].”
+Pub. L. 103–325, title I, § 155, Sept. 23, 1994, 108 Stat. 2197, provided that: “Not later than 180 days after the date of enactment of this Act [Sept. 23, 1994], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle [subtitle B (§§ 151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act [15 U.S.C. § 1604(d)].”
 
 **Applicability of 1994 Amendments and Regulations to Subsection (aa) Mortgages**
 
-Pub. L. 103–325, title I, § 156, Sept. 23, 1994, 108 Stat. 2197, provided that: “This subtitle [subtitle B (§§ 151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act [now 15 U.S.C. 1602(bb)] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 [set out above] become effective.”
+Pub. L. 103–325, title I, § 156, Sept. 23, 1994, 108 Stat. 2197, provided that: “This subtitle [subtitle B (§§ 151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act [now 15 U.S.C. 1602(bb)] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 [set out above] become effective.”
 
-#### § 1603. Exempted transactions
+#### § 1603. Exempted transactions
 
 This subchapter does not apply to the following:
 
@@ -625,29 +625,29 @@ This subchapter does not apply to the following:
 
 **(3)** Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer and other than private education loans (as that term is defined in section 1650(a) of this title), in which the total amount financed exceeds $50,000.1
 
-<sup>1</sup>  See Adjustments for Inflation note below.
+<sup>1</sup> See Adjustments for Inflation note below.
 
 **(4)** Transactions under public utility tariffs, if the Bureau determines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
 
 **(5)** Transactions for which the Bureau, by rule, determines that coverage under this subchapter is not necessary to carry out the purposes of this subchapter.
 
-**(6)** Repealed. Pub. L. 96–221, title VI, § 603(c)(3), Mar. 31, 1980, 94 Stat. 169.
+**(6)** Repealed. Pub. L. 96–221, title VI, § 603(c)(3), Mar. 31, 1980, 94 Stat. 169.
 
 **(7)** Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 [20 U.S.C. 1070 et seq.].
 
-(Pub. L. 90–321, title I, § 104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, § 402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, § 603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, § 701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, § 2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, § 1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§ 1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
+(Pub. L. 90–321, title I, § 104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, § 402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, § 603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, § 701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, § 2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, § 1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§ 1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2010—Par. (3). Pub. L. 111–203, § 1100E(a)(1), substituted “$50,000” for “$25,000”.
+2010—Par. (3). Pub. L. 111–203, § 1100E(a)(1), substituted “$50,000” for “$25,000”.
 
-Pars. (4), (5). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board”.
+Pars. (4), (5). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board”.
 
 2008—Par. (3). Pub. L. 110–315 inserted “and other than private education loans (as that term is defined in section 1650(a) of this title)” after “consumer”.
 
@@ -655,11 +655,11 @@ Pars. (4), (5). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for �
 
 1982—Par. (6). Pub. L. 97–320 added par. (6).
 
-1980—Par. (1). Pub. L. 96–221, § 603(c)(1), inserted provision relating to applicability to agricultural purposes.
+1980—Par. (1). Pub. L. 96–221, § 603(c)(1), inserted provision relating to applicability to agricultural purposes.
 
-Par. (3). Pub. L. 96–221, § 603(c)(2), substituted provision excepting security interest in real property, or in personal property used as the consumer’s principal dwelling, for provisions excepting real property transactions.
+Par. (3). Pub. L. 96–221, § 603(c)(2), substituted provision excepting security interest in real property, or in personal property used as the consumer’s principal dwelling, for provisions excepting real property transactions.
 
-Par. (5). Pub. L. 96–221, § 603(c)(3), struck out par. (5) which related to credit transactions primarily for agricultural purposes where the amount financed exceeds $25,000.
+Par. (5). Pub. L. 96–221, § 603(c)(3), struck out par. (5) which related to credit transactions primarily for agricultural purposes where the amount financed exceeds $25,000.
 
 1974—Par. (5). Pub. L. 93–495 added par. (5).
 
@@ -671,7 +671,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date of 1982 Amendment**
 
-Section 701(c) of Pub. L. 97–320, as amended by Pub. L. 97–457, § 31, Jan. 12, 1983, 96 Stat. 2511, provided that: “The amendment made by subsection (a) [amending this section] and subsection (b) [enacting section 1099 of Title 20, Education] shall be effective with respect to loans made prior to, on, and after the date of the enactment of this Act [Oct. 15, 1982].”
+Section 701(c) of Pub. L. 97–320, as amended by Pub. L. 97–457, § 31, Jan. 12, 1983, 96 Stat. 2511, provided that: “The amendment made by subsection (a) [amending this section] and subsection (b) [enacting section 1099 of Title 20, Education] shall be effective with respect to loans made prior to, on, and after the date of the enactment of this Act [Oct. 15, 1982].”
 
 **Effective Date of 1980 Amendment**
 
@@ -687,15 +687,15 @@ Board of Governors of Federal Reserve System authorized to make exceptions to re
 
 **Adjustments for Inflation**
 
-Pub. L. 111–203, title X, § 1100E(b), July 21, 2010, 124 Stat. 2111, provided that: “On and after December 31, 2011, the Bureau [of Consumer Financial Protection] shall adjust annually the dollar amounts described in sections 104(3) and 181(1) of the Truth in Lending Act [15 U.S.C. 1603(3), 1667(1)] (as amended by this section), by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $100, or $1,000, as applicable.” Threshold amounts in effect during particular periods of time can be found in Code of Federal Regulations, Title 12, Supplement I to Part 1013, under Section 1013.2—Definitions, under 2(e)—Consumer Lease, paragraph 11.
+Pub. L. 111–203, title X, § 1100E(b), July 21, 2010, 124 Stat. 2111, provided that: “On and after December 31, 2011, the Bureau [of Consumer Financial Protection] shall adjust annually the dollar amounts described in sections 104(3) and 181(1) of the Truth in Lending Act [15 U.S.C. 1603(3), 1667(1)] (as amended by this section), by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $100, or $1,000, as applicable.” Threshold amounts in effect during particular periods of time can be found in Code of Federal Regulations, Title 12, Supplement I to Part 1013, under Section 1013.2—Definitions, under 2(e)—Consumer Lease, paragraph 11.
 
-#### § 1604. Disclosure guidelines
+#### § 1604. Disclosure guidelines
 
 **(a) Promulgation, contents, etc., of regulations**
 
-The Bureau shall prescribe regulations to carry out the purposes of this subchapter. Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) 1
+The Bureau shall prescribe regulations to carry out the purposes of this subchapter. Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, such regulations may contain such additional requirements, classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for all or any class of transactions, as in the judgment of the Bureau are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
@@ -719,7 +719,7 @@ With respect to a mortgage loan transaction involving a residential mortgage loa
 
 **(1) In general**
 
-The Bureau may exempt, by regulation, from all or part of this subchapter all or any class of transactions, other than transactions involving any mortgage described in section 1602(aa) <sup>1</sup> of this title, for which, in the determination of the Bureau, coverage under all or part of this subchapter does not provide a meaningful benefit to consumers in the form of useful information or protection.
+The Bureau may exempt, by regulation, from all or part of this subchapter all or any class of transactions, other than transactions involving any mortgage described in section 1602(aa) <sup>1</sup> of this title, for which, in the determination of the Bureau, coverage under all or part of this subchapter does not provide a meaningful benefit to consumers in the form of useful information or protection.
 
 **(2) Factors for consideration** In determining which classes of transactions to exempt in whole or in part under paragraph (1), the Bureau shall consider the following factors and publish its rationale at the time a proposed exemption is published for comment:
 
@@ -763,37 +763,37 @@ Notwithstanding any power granted to any Federal agency under this subchapter, t
 
 Notwithstanding subsection (a), the Board shall have authority to prescribe rules under this subchapter with respect to a person described in section 5519(a) of title 12. Regulations prescribed under this subsection may contain such classifications, differentiations, or other provisions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
-(Pub. L. 90–321, title I, § 105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, § 605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, § 152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 104–208, div. A, title II, §§ 2102(b), 2104, Sept. 30, 1996, 110 Stat. 3009–399, 3009–401; Pub. L. 111–203, title X, § 1100A(2), (4)–(7), title XIV, § 1472(c), July 21, 2010, 124 Stat. 2107, 2108, 2190; Pub. L. 116–342, § 2(a), Jan. 13, 2021, 134 Stat. 5134.)
+(Pub. L. 90–321, title I, § 105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, § 605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, § 152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 104–208, div. A, title II, §§ 2102(b), 2104, Sept. 30, 1996, 110 Stat. 3009–399, 3009–401; Pub. L. 111–203, title X, § 1100A(2), (4)–(7), title XIV, § 1472(c), July 21, 2010, 124 Stat. 2107, 2108, 2190; Pub. L. 116–342, § 2(a), Jan. 13, 2021, 134 Stat. 5134.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(aa) of this title, referred to in subsecs. (a) and (f)(1), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in subsecs. (a) and (f)(1), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 **Amendments**
 
 2021—Subsec. (e). Pub. L. 116–342 added subsec. (e).
 
-2010—Subsec. (a). Pub. L. 111–203, § 1100A(2), (4), substituted “Bureau” for “Board” in two places, substituted “Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations may contain such additional requirements,”for “Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such”, and inserted “all or” after “exceptions for”.
+2010—Subsec. (a). Pub. L. 111–203, § 1100A(2), (4), substituted “Bureau” for “Board” in two places, substituted “Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations may contain such additional requirements,”for “Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such”, and inserted “all or” after “exceptions for”.
 
-Subsec. (b). Pub. L. 111–203, § 1100A(2), (5), substituted “Bureau” for “Board” wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: “The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.”
+Subsec. (b). Pub. L. 111–203, § 1100A(2), (5), substituted “Bureau” for “Board” wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: “The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.”
 
-Subsecs. (c), (d). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+Subsecs. (c), (d). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (f). Pub. L. 111–203, § 1100A(2), (6), substituted “Bureau” for “Board” wherever appearing and inserted “all or” after “from all or part of this subchapter” in par. (1).
+Subsec. (f). Pub. L. 111–203, § 1100A(2), (6), substituted “Bureau” for “Board” wherever appearing and inserted “all or” after “from all or part of this subchapter” in par. (1).
 
-Subsec. (g). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” in pars. (1) and (2).
+Subsec. (g). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” in pars. (1) and (2).
 
-Subsec. (h). Pub. L. 111–203, § 1472(c), which directed addition of subsec. (h) at end of section, was executed by adding subsec. (h) before subsec. (i), to reflect the probable intent of Congress and prior amendment by Pub. L. 111–203, § 1100A(7). See below.
+Subsec. (h). Pub. L. 111–203, § 1472(c), which directed addition of subsec. (h) at end of section, was executed by adding subsec. (h) before subsec. (i), to reflect the probable intent of Congress and prior amendment by Pub. L. 111–203, § 1100A(7). See below.
 
-Subsec. (i). Pub. L. 111–203, § 1100A(7), added subsec. (i).
+Subsec. (i). Pub. L. 111–203, § 1100A(7), added subsec. (i).
 
-1996—Subsec. (f). Pub. L. 104–208, § 2102(b), added subsec. (f).
+1996—Subsec. (f). Pub. L. 104–208, § 2102(b), added subsec. (f).
 
-Subsec. (g). Pub. L. 104–208, § 2104, added subsec. (g).
+Subsec. (g). Pub. L. 104–208, § 2104, added subsec. (g).
 
 1994—Subsec. (a). Pub. L. 103–325 substituted “Except in the case of a mortgage referred to in section 1602(aa) of this title, these” for “These” in second sentence.
 
@@ -811,7 +811,7 @@ Amendment by section 1472(c) of Pub. L. 111–203 effective on the date on which
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1605. Determination of finance charge
+#### § 1605. Determination of finance charge
 
 **(a) “Finance charge” defined** Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit. The finance charge does not include charges of a type payable in a comparable cash transaction. The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable:
 
@@ -871,45 +871,45 @@ Charges or premiums for insurance, written in connection with any consumer credi
 
 **(A)** except as provided in subparagraph (B), the amount disclosed as the finance charge does not vary from the actual finance charge by more than an amount equal to one-half of one percent of the total amount of credit extended; or
 
-**(B)** in the case of a transaction, other than a mortgage referred to in section 1602(aa) 1
+**(B)** in the case of a transaction, other than a mortgage referred to in section 1602(aa) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, which—
 
-**(i)** is a refinancing of the principal balance then due and any accrued and unpaid finance charges of a residential mortgage transaction as defined in section 1602(w) <sup>1</sup> of this title, or is any subsequent refinancing of such a transaction; and
+**(i)** is a refinancing of the principal balance then due and any accrued and unpaid finance charges of a residential mortgage transaction as defined in section 1602(w) <sup>1</sup> of this title, or is any subsequent refinancing of such a transaction; and
 
 **(ii)** does not provide any new consolidation or new advance;
 
 if the amount disclosed as the finance charge does not vary from the actual finance charge by more than an amount equal to one percent of the total amount of credit extended.
 
-(Pub. L. 90–321, title I, § 106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI § 606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§ 2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI § 606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§ 2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsecs. (aa) and (w) of section 1602 of this title, referred to in subsec. (f)(2)(B), were redesignated subsecs. (bb) and (x), respectively, of section 1602 of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Subsecs. (aa) and (w) of section 1602 of this title, referred to in subsec. (f)(2)(B), were redesignated subsecs. (bb) and (x), respectively, of section 1602 of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
 2010—Subsec. (d). Pub. L. 111–203 substituted “Bureau” for “Board” in introductory provisions.
 
-1995—Subsec. (a). Pub. L. 104–29, § 2(a), in introductory provisions inserted after second sentence “The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges.”
+1995—Subsec. (a). Pub. L. 104–29, § 2(a), in introductory provisions inserted after second sentence “The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges.”
 
-Subsec. (a)(6). Pub. L. 104–29, § 2(b)(1), added par. (6).
+Subsec. (a)(6). Pub. L. 104–29, § 2(b)(1), added par. (6).
 
-Subsec. (d)(3). Pub. L. 104–29, § 2(c), added par. (3).
+Subsec. (d)(3). Pub. L. 104–29, § 2(c), added par. (3).
 
-Subsec. (e)(2). Pub. L. 104–29, § 2(d), amended par. (2) generally, substituting “loan-related” for “a deed, settlement statement, or other”.
+Subsec. (e)(2). Pub. L. 104–29, § 2(d), amended par. (2) generally, substituting “loan-related” for “a deed, settlement statement, or other”.
 
-Subsec. (e)(5). Pub. L. 104–29, § 2(e), inserted before period “, including fees related to any pest infestation or flood hazard inspections conducted prior to closing”.
+Subsec. (e)(5). Pub. L. 104–29, § 2(e), inserted before period “, including fees related to any pest infestation or flood hazard inspections conducted prior to closing”.
 
-Subsec. (f). Pub. L. 104–29, § 3(a), added subsec. (f).
+Subsec. (f). Pub. L. 104–29, § 3(a), added subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–221, § 606(a), inserted provisions excluding charges of a type payable in comparable cash transactions and indicated that pars. (1) to (5) are examples of charges.
+1980—Subsec. (a). Pub. L. 96–221, § 606(a), inserted provisions excluding charges of a type payable in comparable cash transactions and indicated that pars. (1) to (5) are examples of charges.
 
-Subsec. (d). Pub. L. 96–221, § 606(b), struck out pars. (3) and (4) setting forth applicability to taxes and any other type of charge, respectively.
+Subsec. (d). Pub. L. 96–221, § 606(b), struck out pars. (3) and (4) setting forth applicability to taxes and any other type of charge, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -919,7 +919,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–29, § 2(b)(2), Sept. 30, 1995, 109 Stat. 271, provided that:
+Pub. L. 104–29, § 2(b)(2), Sept. 30, 1995, 109 Stat. 271, provided that:
 
 > “The amendment made by paragraph (1) [amending this section] shall take effect on the earlier of—
 
@@ -933,11 +933,11 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 **Regulations**
 
-Pub. L. 104–29, § 2(b)(3), Sept. 30, 1995, 109 Stat. 271, provided that: “The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) [amending this section] by no later than 6 months after the date of the enactment of this Act [Sept. 30, 1995].”
+Pub. L. 104–29, § 2(b)(3), Sept. 30, 1995, 109 Stat. 271, provided that: “The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) [amending this section] by no later than 6 months after the date of the enactment of this Act [Sept. 30, 1995].”
 
 **Ensuring That Finance Charges Reflect Cost of Credit**
 
-Pub. L. 104–29, § 2(f), Sept. 30, 1995, 109 Stat. 272, provided that:
+Pub. L. 104–29, § 2(f), Sept. 30, 1995, 109 Stat. 272, provided that:
 
 > **“(1) Report.—**
 
@@ -955,7 +955,7 @@ Pub. L. 104–29, § 2(f), Sept. 30, 1995, 109 Stat. 272, provided that:
 
 > **“(2) Regulations.—** The Board of Governors of the Federal Reserve System shall prescribe any appropriate regulation in order to effect any change included in the report under paragraph (1), and shall publish the regulation in the Federal Register before the end of the 1-year period beginning on the date of enactment of this Act.”
 
-#### § 1606. Determination of annual percentage rate
+#### § 1606. Determination of annual percentage rate
 
 **(a) “Annual percentage rate” defined** The annual percentage rate applicable to any extension of consumer credit shall be determined, in accordance with the regulations of the Bureau,
 
@@ -965,7 +965,7 @@ Pub. L. 104–29, § 2(f), Sept. 30, 1995, 109 Stat. 272, provided that:
 
 **(B)** the rate determined by any method prescribed by the Bureau as a method which materially simplifies computation while retaining reasonable accuracy as compared with the rate determined under subparagraph (A).1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(2)** in the case of any extension of credit under an open end credit plan, as the quotient (expressed as a percentage) of the total finance charge for the period to which it relates divided by the amount upon which the finance charge for that period is based, multiplied by the number of such periods in a year.
 
@@ -985,7 +985,7 @@ The Bureau may authorize the use of rate tables or charts which may provide for 
 
 In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d), the Bureau may authorize other reasonable tolerances.
 
-(Pub. L. 90–321, title I, § 107, May 29, 1968, 82 Stat. 149; Pub. L. 96–221, title VI, § 607, Mar. 31, 1980, 94 Stat. 170; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 107, May 29, 1968, 82 Stat. 149; Pub. L. 96–221, title VI, § 607, Mar. 31, 1980, 94 Stat. 170; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -993,11 +993,11 @@ In the case of creditors determining the annual percentage rate in a manner othe
 
 2010—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
-1980—Subsec. (c). Pub. L. 96–221, § 607(a), substituted provisions relating to allowable tolerances for purposes of compliance with disclosure requirements, for provisions relating to rounding off of annual percentage rates which are converted from single add-on or other rates.
+1980—Subsec. (c). Pub. L. 96–221, § 607(a), substituted provisions relating to allowable tolerances for purposes of compliance with disclosure requirements, for provisions relating to rounding off of annual percentage rates which are converted from single add-on or other rates.
 
-Subsec. (e). Pub. L. 96–221, § 607(b), struck out reference to subsection (c) of this section.
+Subsec. (e). Pub. L. 96–221, § 607(b), struck out reference to subsection (c) of this section.
 
-Subsec. (f). Pub. L. 96–221, § 607(c), struck out subsec. (f) setting forth requirements for form of expressing percentage rates prior to Jan. 1, 1971.
+Subsec. (f). Pub. L. 96–221, § 607(c), struck out subsec. (f) setting forth requirements for form of expressing percentage rates prior to Jan. 1, 1971.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1009,7 +1009,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1607. Administrative enforcement
+#### § 1607. Administrative enforcement
 
 **(a) Enforcing agencies** Subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], compliance with the requirements imposed under this subchapter shall be enforced under—
 
@@ -1069,9 +1069,9 @@ In the case of other such disclosure errors, each agency may require such an adj
 
 **(ii)** require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act [12 U.S.C. 1831*o*];
 
-**(B)** the 1
+**(B)** the 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “if”.
+<sup>1</sup> So in original. Probably should be preceded by “if”.
 
 amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
 
@@ -1095,37 +1095,37 @@ amount of the adjustment would be less than $1, except that if more than one yea
 
 **(7)** Notwithstanding the second sentence of subsection (e)(1), subsection (e)(3)(C)(i), and subsection (e)(3)(C)(ii), each agency referred to in subsection (a) or (c) shall require an adjustment for an annual percentage rate disclosure error that exceeds a tolerance of one quarter of one percent less than the actual rate, determined without regard to section 1606(c) of this title, with respect to any transaction consummated between January 1, 1977, and March 31, 1980.
 
-(Pub. L. 90–321, title I, § 108, May 29, 1968, 82 Stat. 150; Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 93–495, title IV, § 403, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 96–221, title VI, § 608(a), (c), Mar. 21, 1980, 94 Stat. 171, 173; Pub. L. 98–443, § 9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, § 744(k), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, § 212(b), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title XVI, § 1604(a)(5), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–208, div. A, title II, § 2106, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 111–203, title X, § 1100A(2), (8), title XIV, § 1414(b), July 21, 2010, 124 Stat. 2107, 2108, 2152.)
+(Pub. L. 90–321, title I, § 108, May 29, 1968, 82 Stat. 150; Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 93–495, title IV, § 403, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 96–221, title VI, § 608(a), (c), Mar. 21, 1980, 94 Stat. 171, 173; Pub. L. 98–443, § 9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, § 744(k), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, § 212(b), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title XVI, § 1604(a)(5), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–208, div. A, title II, § 2106, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 111–203, title X, § 1100A(2), (8), title XIV, § 1414(b), July 21, 2010, 124 Stat. 2107, 2108, 2152.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (c), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (c), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (a)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (a)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (a)(4), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (a)(4), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (a)(5), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (a)(5), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Codification**
 
-In subsec. (a)(3), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(3), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1100A(8)(A), added subsec. (a) and struck out former subsec. (a) which listed agencies under which compliance with subchapter requirements would be enforced.
+2010—Subsec. (a). Pub. L. 111–203, § 1100A(8)(A), added subsec. (a) and struck out former subsec. (a) which listed agencies under which compliance with subchapter requirements would be enforced.
 
-Subsec. (a)(7). Pub. L. 111–203, § 1414(b), added par. (7).
+Subsec. (a)(7). Pub. L. 111–203, § 1414(b), added par. (7).
 
-Subsec. (c). Pub. L. 111–203, § 1100A(8)(B), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.”
+Subsec. (c). Pub. L. 111–203, § 1100A(8)(B), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.”
 
-Subsec. (d). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board”.
+Subsec. (d). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board”.
 
 1996—Subsec. (e)(3). Pub. L. 104–208 struck out “ordered (A) if” and inserted “ordered—
 
@@ -1135,7 +1135,7 @@ struck out “may require a partial” and inserted “may—
 
 “(i) require a partial”;
 
-struck out “, except that with respect to any transaction consumated after March 31, 1980, the agency shall require” and inserted “; or
+struck out “, except that with respect to any transaction consumated after March 31, 1980, the agency shall require” and inserted “; or
 
 “(ii) require”;
 
@@ -1149,9 +1149,9 @@ for “reasonable, (B) the”, which was executed by making the substitution for
 
 1992—Subsec. (a)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-1991—Subsec. (a). Pub. L. 102–242, § 212(b)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+1991—Subsec. (a). Pub. L. 102–242, § 212(b)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
-Pub. L. 102–242, § 212(b)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of
+Pub. L. 102–242, § 212(b)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of
 
 “(A) national banks, by the Comptroller of the Currency.
 
@@ -1163,9 +1163,9 @@ Pub. L. 102–242, § 212(b)(1), added par. (1) and struck out former par. (1)
 
 1984—Subsec. (a)(4). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
-1980—Subsec. (e). Pub. L. 96–221, § 608(a), added subsec. (e).
+1980—Subsec. (e). Pub. L. 96–221, § 608(a), added subsec. (e).
 
-Pub. L. 96–221, § 608(c), struck out in pars. (1)(A)(i) and (7) “, except in the case of an irregular mortgage lending transaction” after “section 1606(c) of this title”. See Effective Date of 1980 Amendment note below.
+Pub. L. 96–221, § 608(c), struck out in pars. (1)(A)(i) and (7) “, except in the case of an irregular mortgage lending transaction” after “section 1606(c) of this title”. See Effective Date of 1980 Amendment note below.
 
 1974—Subsec. (a)(4) to (6). Pub. L. 93–495 redesignated pars. (5) and (6) as (4) and (5), respectively. Former par. (4), which related to enforcement by the Interstate Commerce Commission, was struck out.
 
@@ -1187,9 +1187,9 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–221, title VI, § 608(b), Mar. 31, 1980, 94 Stat. 173, provided that: “This section [amending this section] shall take effect on the date of enactment of the Truth in Lending Simplification and Reform Act [Mar. 31, 1980].”
+Pub. L. 96–221, title VI, § 608(b), Mar. 31, 1980, 94 Stat. 173, provided that: “This section [amending this section] shall take effect on the date of enactment of the Truth in Lending Simplification and Reform Act [Mar. 31, 1980].”
 
-Pub. L. 96–221, title VI, § 608(c), Mar. 31, 1980, 94 Stat. 173, provided that the amendment made by that section is effective one year after Mar. 31, 1980.
+Pub. L. 96–221, title VI, § 608(c), Mar. 31, 1980, 94 Stat. 173, provided that the amendment made by that section is effective one year after Mar. 31, 1980.
 
 **Effective Date of 1974 Amendment**
 
@@ -1199,11 +1199,11 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 
 “National Credit Union Administration Board” substituted for “Director of the Bureau of Federal Credit Unions” in subsec. (a)(3) pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 [12 U.S.C. 1752a] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
 
-#### § 1608. Views of other agencies
+#### § 1608. Views of other agencies
 
 In the exercise of its functions under this subchapter, the Bureau may obtain upon requests the views of any other Federal agency which, in the judgment of the Bureau, exercises regulatory or supervisory functions with respect to any class of creditors subject to this subchapter.
 
-(Pub. L. 90–321, title I, § 109, May 29, 1968, 82 Stat. 150; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 109, May 29, 1968, 82 Stat. 150; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -1217,9 +1217,9 @@ In the exercise of its functions under this subchapter, the Bureau may obtain up
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-#### § 1609. Repealed. Pub. L. 94–239, § 3(b)(1), Mar. 23, 1976, 90 Stat. 253
+#### § 1609. Repealed. Pub. L. 94–239, § 3(b)(1), Mar. 23, 1976, 90 Stat. 253
 
-Section, Pub. L. 90–321, title I, § 110, May 29, 1968, 82 Stat. 151, provided for establishment of an advisory committee authorized to seek to achieve a fair representation of interests of sellers of merchandise on credit, lenders, and the public.
+Section, Pub. L. 90–321, title I, § 110, May 29, 1968, 82 Stat. 151, provided for establishment of an advisory committee authorized to seek to achieve a fair representation of interests of sellers of merchandise on credit, lenders, and the public.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1227,7 +1227,7 @@ Section, Pub. L. 90–321, title I, § 110, May 29, 1968, 82 Stat. 151, provid
 
 Repeal effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as an Effective Date note under section 1691 of this title.
 
-#### § 1610. Effect on other laws
+#### § 1610. Effect on other laws
 
 **(a) Inconsistent provisions; procedures applicable for determination**
 
@@ -1237,9 +1237,9 @@ Repeal effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as 
 
 **(b) State credit charge statutes**
 
-Except as provided in section 1639 of this title, this subchapter does not otherwise annul, alter or affect in any manner the meaning, scope or applicability of the laws of any State, including, but not limited to, laws relating to the types, amounts or rates of charges, or any element or elements of charges, permissible under such laws in connection with the extension or use of credit, nor does this subchapter extend the applicability of those laws to any class of persons or transactions to which they would not otherwise apply. The provisions of section 1639 of this title do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of section 1639 of this title from complying with the laws of any State, with respect to the requirements for mortgages referred to in section 1602(aa) 1
+Except as provided in section 1639 of this title, this subchapter does not otherwise annul, alter or affect in any manner the meaning, scope or applicability of the laws of any State, including, but not limited to, laws relating to the types, amounts or rates of charges, or any element or elements of charges, permissible under such laws in connection with the extension or use of credit, nor does this subchapter extend the applicability of those laws to any class of persons or transactions to which they would not otherwise apply. The provisions of section 1639 of this title do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of section 1639 of this title from complying with the laws of any State, with respect to the requirements for mortgages referred to in section 1602(aa) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, except to the extent that those State laws are inconsistent with any provisions of section 1639 of this title, and then only to the extent of the inconsistency.
 
@@ -1255,25 +1255,25 @@ Except as specified in sections 1635, 1640, and 1666e of this title, this subcha
 
 The provisions of subsection (c) of section 1632 of this title and subsections (c), (d), (e), and (f) of section 1637 of this title shall supersede any provision of the law of any State relating to the disclosure of information in any credit or charge card application or solicitation which is subject to the requirements of section 1637(c) of this title or any renewal notice which is subject to the requirements of section 1637(d) of this title, except that any State may employ or establish State laws for the purpose of enforcing the requirements of such sections.
 
-(Pub. L. 90–321, title I, § 111, May 29, 1968, 82 Stat. 151; Pub. L. 93–495, title III, § 307(b), Oct. 28, 1974, 88 Stat. 1516; Pub. L. 96–221, title VI, § 609, Mar. 31, 1980, 94 Stat. 173; Pub. L. 100–583, § 4, Nov. 3, 1988, 102 Stat. 2967; Pub. L. 103–325, title I, § 152(e)(2)(B), (C), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 111, May 29, 1968, 82 Stat. 151; Pub. L. 93–495, title III, § 307(b), Oct. 28, 1974, 88 Stat. 1516; Pub. L. 96–221, title VI, § 609, Mar. 31, 1980, 94 Stat. 173; Pub. L. 100–583, § 4, Nov. 3, 1988, 102 Stat. 2967; Pub. L. 103–325, title I, § 152(e)(2)(B), (C), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(aa) of this title, referred to in subsec. (b), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in subsec. (b), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
 2010—Subsec. (a). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
-1994—Subsec. (a)(2). Pub. L. 103–325, § 152(e)(2)(B), which directed the amendment of par. (2) by inserting “, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under section 1639 of this title” before period, was executed by making the insertion before period at end of par. (2), to reflect the probable intent of Congress.
+1994—Subsec. (a)(2). Pub. L. 103–325, § 152(e)(2)(B), which directed the amendment of par. (2) by inserting “, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under section 1639 of this title” before period, was executed by making the insertion before period at end of par. (2), to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 103–325, § 152(e)(2)(C), substituted “Except as provided in section 1639 of this title, this subchapter” for “This subchapter” and inserted at end “The provisions of section 1639 of this title do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of section 1639 of this title from complying with the laws of any State, with respect to the requirements for mortgages referred to in section 1602(aa) of this title, except to the extent that those State laws are inconsistent with any provisions of section 1639 of this title, and then only to the extent of the inconsistency.”
+Subsec. (b). Pub. L. 103–325, § 152(e)(2)(C), substituted “Except as provided in section 1639 of this title, this subchapter” for “This subchapter” and inserted at end “The provisions of section 1639 of this title do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of section 1639 of this title from complying with the laws of any State, with respect to the requirements for mortgages referred to in section 1602(aa) of this title, except to the extent that those State laws are inconsistent with any provisions of section 1639 of this title, and then only to the extent of the inconsistency.”
 
-1988—Subsec. (a)(1). Pub. L. 100–583, § 4(1), substituted “Except as provided in subsection (e), this part” for “This part”.
+1988—Subsec. (a)(1). Pub. L. 100–583, § 4(1), substituted “Except as provided in subsection (e), this part” for “This part”.
 
-Subsec. (e). Pub. L. 100–583, § 4(2), added subsec. (e).
+Subsec. (e). Pub. L. 100–583, § 4(2), added subsec. (e).
 
 1980—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination, for provisions respecting the effect of this subchapter, and added par. (2).
 
@@ -1293,7 +1293,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
 
-#### § 1611. Criminal liability for willful and knowing violation
+#### § 1611. Criminal liability for willful and knowing violation
 
 Whoever willfully and knowingly
 
@@ -1305,7 +1305,7 @@ Whoever willfully and knowingly
 
 shall be fined not more than $5,000 or imprisoned not more than one year, or both.
 
-(Pub. L. 90–321, title I, § 112, May 29, 1968, 82 Stat. 151; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 112, May 29, 1968, 82 Stat. 151; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -1319,7 +1319,7 @@ shall be fined not more than $5,000 or imprisoned not more than one year, or bot
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-#### § 1612. Effect on government agencies
+#### § 1612. Effect on government agencies
 
 **(a) Consultation requirements respecting compliance of credit instruments issued to participating creditor**
 
@@ -1337,7 +1337,7 @@ A creditor participating in a credit program administered, insured, or guarantee
 
 A creditor participating in a credit program administered, insured, or guaranteed by any department or agency of the United States shall not be held liable for a civil or criminal penalty under the laws of any State (other than laws determined under section 1610 of this title to be inconsistent with this subchapter) for any technical or procedural failure, such as a failure to use a specific form, to make information available at a specific place on an instrument, or to use a specific typeface, as required by State law, which is caused by the use of an instrument required to be used by such department or agency.
 
-(Pub. L. 90–321, title I, § 113, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, § 622(a), Mar. 31, 1980, 94 Stat. 184; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 113, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, § 622(a), Mar. 31, 1980, 94 Stat. 184; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -1357,11 +1357,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1613. Annual reports to Congress by Bureau
+#### § 1613. Annual reports to Congress by Bureau
 
 Each year the Bureau shall make a report to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Bureau deems necessary or appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with the requirements imposed under this subchapter is being achieved.
 
-(Pub. L. 90–321, title I, § 114, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, § 610(a), Mar. 31, 1980, 94 Stat. 174; Pub. L. 97–375, title II, § 209(b), Dec. 21, 1982, 96 Stat. 1825; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 114, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, § 610(a), Mar. 31, 1980, 94 Stat. 174; Pub. L. 97–375, title II, § 209(b), Dec. 21, 1982, 96 Stat. 1825; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -1383,9 +1383,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1614. Repealed. Pub. L. 96–221, title VI, § 616(b), Mar. 31, 1980, 94 Stat. 182
+#### § 1614. Repealed. Pub. L. 96–221, title VI, § 616(b), Mar. 31, 1980, 94 Stat. 182
 
-Section, Pub. L. 90–321, title I, § 115, as added Pub. L. 93–495, title IV, § 413(a), Oct. 28, 1974, 88 Stat. 1520, related to liability of assignees. See section 1641 of this title.
+Section, Pub. L. 90–321, title I, § 115, as added Pub. L. 93–495, title IV, § 413(a), Oct. 28, 1974, 88 Stat. 1520, related to liability of assignees. See section 1641 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1393,7 +1393,7 @@ Section, Pub. L. 90–321, title I, § 115, as added Pub. L. 93–495, title I
 
 Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 
-#### § 1615. Prohibition on use of “Rule of 78’s” in connection with mortgage refinancings and other consumer loans
+#### § 1615. Prohibition on use of “Rule of 78’s” in connection with mortgage refinancings and other consumer loans
 
 **(a) Prompt refund of unearned interest required**
 
@@ -1401,7 +1401,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
 If a consumer prepays in full the financed amount under any consumer credit transaction, the creditor shall promptly refund any unearned portion of the interest charge to the consumer.
 
-**(2) Exception for refund of de minimus 1 [footnote: 1 So in original. Probably should be “de minimis”.] amount**
+**(2) Exception for refund of de minimus 1 [footnote: 1 So in original. Probably should be “de minimis”.] amount**
 
 No refund shall be required under paragraph (1) with respect to the prepayment of any consumer credit transaction if the total amount of the refund would be less than $1.
 
@@ -1451,7 +1451,7 @@ The terms “consumer” and “creditor” have the meanings given to such term
 
 **(B)** includes any assignee of any creditor with respect to credit extended in connection with any consumer credit transaction and any subsequent assignee with respect to such credit.
 
-(Pub. L. 102–550, title IX, § 933, Oct. 28, 1992, 106 Stat. 3891.)
+(Pub. L. 102–550, title IX, § 933, Oct. 28, 1992, 106 Stat. 3891.)
 
 **Editorial Notes**
 
@@ -1459,7 +1459,7 @@ The terms “consumer” and “creditor” have the meanings given to such term
 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the Consumer Credit Protection Act which comprises this chapter.
 
-#### § 1616. Board review of consumer credit plans and regulations
+#### § 1616. Board review of consumer credit plans and regulations
 
 **(a) Required review** Not later than 2 years after the effective date of this Act and every 2 years thereafter, except as provided in subsection (c)(2), the Board shall conduct a review, within the limits of its existing resources available for reporting purposes, of the consumer credit card market, including—
 
@@ -1509,7 +1509,7 @@ The Board shall report to Congress not less frequently than every 2 years, excep
 
 **(2)** section 5 of the Federal Trade Commission Act [15 U.S.C. 45], and regulations prescribed under the Federal Trade Commission Act [15 U.S.C. 41 et seq.], including part 227 of title 12 of the Code of Federal Regulations, as prescribed by the Board (referred to as “Regulation AA”).
 
-(Pub. L. 111–24, title V, § 502, May 22, 2009, 123 Stat. 1755.)
+(Pub. L. 111–24, title V, § 502, May 22, 2009, 123 Stat. 1755.)
 
 **Editorial Notes**
 
@@ -1519,7 +1519,7 @@ The effective date of this Act, referred to in subsec. (a), is 9 months after Ma
 
 This Act, referred to in subsecs. (a)(4) and (e)(1), is Pub. L. 111–24, May 22, 2009, 123 Stat. 1734, known as the Credit Card Accountability Responsibility and Disclosure Act of 2009, and also as the Credit CARD Act of 2009, which enacted this section and sections 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693*l*–1 of this title and section 1a–7b of Title 16, Conservation, amended sections 1602, 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacted provisions set out as notes under sections 1602, 1637, 1638, 1666b, 1681j, and 1693*l*–1 of this title and section 5311 of Title 31, Money and Finance, and amended provisions set out as notes under sections 1638 and 1693 of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1601 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Codification**
 
@@ -1537,7 +1537,7 @@ For definition of “Board”, see section 2 of Pub. L. 111–24, set out as a R
 
 ### Part B—Credit Transactions
 
-#### § 1631. Disclosure requirements
+#### § 1631. Disclosure requirements
 
 **(a) Duty of creditor or lessor respecting one or more than one obligor**
 
@@ -1545,9 +1545,9 @@ Subject to subsection (b), a creditor or lessor shall disclose to the person who
 
 **(b) Creditor or lessor required to make disclosure**
 
-If a transaction involves one creditor as defined in section 1602(f) 1
+If a transaction involves one creditor as defined in section 1602(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, or one lessor as defined in section 1667(3) of this title, such creditor or lessor shall make the disclosures. If a transaction involves more than one creditor or lessor, only one creditor or lessor shall by required to make the disclosures. The Bureau shall by regulation specify which creditor or lessor shall make the disclosures.
 
@@ -1559,13 +1559,13 @@ The Bureau may provide by regulation that any portion of the information require
 
 The Bureau shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this subchapter, and if it determines that such tolerances are necessary to facilitate compliance, it shall by regulation permit disclosures within such tolerances. The Bureau shall exercise its authority to permit tolerances for numerical disclosures other than the annual percentage rate so that such tolerances are narrow enough to prevent such tolerances from resulting in misleading disclosures or disclosures that circumvent the purposes of this subchapter.
 
-(Pub. L. 90–321, title I, § 121, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, § 307(c), (d), title IV, § 409, Oct. 28, 1974, 88 Stat. 1516, 1519; Pub. L. 94–205, § 11, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 96–221, title VI, § 611, Mar. 31, 1980, 94 Stat. 174; Pub. L. 104–29, § 3(b), Sept. 30, 1995, 109 Stat. 273; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 121, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, § 307(c), (d), title IV, § 409, Oct. 28, 1974, 88 Stat. 1516, 1519; Pub. L. 94–205, § 11, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 96–221, title VI, § 611, Mar. 31, 1980, 94 Stat. 174; Pub. L. 104–29, § 3(b), Sept. 30, 1995, 109 Stat. 273; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(f) of this title, referred to in subsec. (b), was redesignated section 1602(g) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(f) of this title, referred to in subsec. (b), was redesignated section 1602(g) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
@@ -1581,11 +1581,11 @@ Subsecs. (c), (d). Pub. L. 96–221 added subsecs. (c) and (d).
 
 1976—Subsec. (c). Pub. L. 94–205 struck out subsec. (c) which related to disclosure including a full statement of closing costs incurred and permitted estimates of such information where the lender was not in a position to know exact information.
 
-1974—Subsec. (a). Pub. L. 93–495, § 307(c), inserted reference to part D of this subchapter and struck out “and upon whom a finance charge is or may be imposed” after “extended”.
+1974—Subsec. (a). Pub. L. 93–495, § 307(c), inserted reference to part D of this subchapter and struck out “and upon whom a finance charge is or may be imposed” after “extended”.
 
-Subsec. (b). Pub. L. 93–495, § 307(d), inserted reference to part D of this subchapter.
+Subsec. (b). Pub. L. 93–495, § 307(d), inserted reference to part D of this subchapter.
 
-Subsec. (c). Pub. L. 93–495, § 409, added subsec (c).
+Subsec. (c). Pub. L. 93–495, § 409, added subsec (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1609,13 +1609,13 @@ For effective date of amendment by section 409 of Pub. L. 93–495, see section 
 
 **Effective Date**
 
-Pub. L. 90–321, title V, § 504(b), May 29, 1968, 82 Stat. 167, provided in part that chapter 2 of title I, which enacted sections 1631 to 1641 of this title, is effective July 1, 1969.
+Pub. L. 90–321, title V, § 504(b), May 29, 1968, 82 Stat. 167, provided in part that chapter 2 of title I, which enacted sections 1631 to 1641 of this title, is effective July 1, 1969.
 
 **Real Estate Settlement Procedures**
 
 Provisions of Real Estate Settlement Procedures Act of 1974, as superseding provisions of subsec. (c) of this section insofar as applying to federally related mortgage loans, see section 2605 of Title 12, Banks and Banking.
 
-#### § 1632. Form of disclosure; additional information
+#### § 1632. Form of disclosure; additional information
 
 **(a) Information clearly and conspicuously disclosed; “annual percentage rate” and “finance charge”; order of disclosures and use of different terminology**
 
@@ -1673,29 +1673,29 @@ This subsection shall not apply to individually negotiated changes to contractua
 
 The Bureau, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title) and the Bureau,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
 
-(Pub. L. 90–321, title I, § 122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, § 307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, § 611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, § 2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, § 2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24, title II, § 204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, § 1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, § 307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, § 611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, § 2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, § 2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24, title II, § 204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, § 1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsecs. (a), (c). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+2010—Subsecs. (a), (c). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (d)(2), (3). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+Subsec. (d)(2), (3). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
 Subsec. (d)(5). Pub. L. 111–203 substituted “The Bureau, in” for “The Board, in” and “and the Bureau, may” for “and the Federal Trade Commission, may”.
 
 2009—Subsec. (d). Pub. L. 111–24 added subsec. (d).
 
-1988—Subsec. (a). Pub. L. 100–583, § 2(b)(1), substituted “Except as provided in subsection (c), regulations” for “Regulations”.
+1988—Subsec. (a). Pub. L. 100–583, § 2(b)(1), substituted “Except as provided in subsection (c), regulations” for “Regulations”.
 
 Subsec. (b). Pub. L. 100–709 substituted “sections 1637a(b)(3) and 1638(b)(1)” for “section 1638(b)(1)”.
 
-Subsec. (c). Pub. L. 100–583, § 2(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 100–583, § 2(b)(2), added subsec. (c).
 
 1980—Subsec. (a). Pub. L. 96–221 substituted provisions setting forth form of disclosure to meet requirements of this subchapter, for provisions setting forth form of disclosure authorized under this part or part D of this subchapter.
 
@@ -1731,11 +1731,11 @@ For provisions relating to promulgation of regulations to implement amendment by
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
 
-#### § 1633. Exemption for State-regulated transactions
+#### § 1633. Exemption for State-regulated transactions
 
 The Bureau shall by regulation exempt from the requirements of this part any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this part, and that there is adequate provision for enforcement.
 
-(Pub. L. 90–321, title I, § 123, May 29, 1968, 82 Stat. 152; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 123, May 29, 1968, 82 Stat. 152; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -1749,13 +1749,13 @@ The Bureau shall by regulation exempt from the requirements of this part any cla
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-#### § 1634. Effect of subsequent occurrence
+#### § 1634. Effect of subsequent occurrence
 
 If information disclosed in accordance with this part is subsequently rendered inaccurate as the result of any act, occurrence, or agreement subsequent to the delivery of the required disclosures, the inaccuracy resulting therefrom does not constitute a violation of this part.
 
-(Pub. L. 90–321, title I, § 124, May 29, 1968, 82 Stat. 152.)
+(Pub. L. 90–321, title I, § 124, May 29, 1968, 82 Stat. 152.)
 
-#### § 1635. Right of rescission as to certain transactions
+#### § 1635. Right of rescission as to certain transactions
 
 **(a) Disclosure of obligor’s right to rescind**
 
@@ -1775,9 +1775,9 @@ The Bureau may, if it finds that such action is necessary in order to permit hom
 
 **(e) Exempted transactions; reapplication of provisions** This section does not apply to—
 
-**(1)** a residential mortgage transaction as defined in section 1602(w) 1
+**(1)** a residential mortgage transaction as defined in section 1602(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -1819,41 +1819,41 @@ Nothing in this subsection affects a consumer’s right of rescission in recoupm
 
 This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
 
-(Pub. L. 90–321, title I, § 125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§ 404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, § 612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, § 205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§ 5, 8, Sept. 30, 1995, 109 Stat. 274, 275; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§ 404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, § 612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, § 205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§ 5, 8, Sept. 30, 1995, 109 Stat. 274, 275; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(w) of this title, referred to in subsec. (e)(1), was redesignated section 1602(x) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(w) of this title, referred to in subsec. (e)(1), was redesignated section 1602(x) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
 2010—Subsecs. (a), (d), (h), (i)(1)(B). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
-1995—Subsec. (h). Pub. L. 104–29, § 5, added subsec. (h).
+1995—Subsec. (h). Pub. L. 104–29, § 5, added subsec. (h).
 
-Subsec. (i). Pub. L. 104–29, § 8, added subsec. (i).
+Subsec. (i). Pub. L. 104–29, § 8, added subsec. (i).
 
 1984—Subsec. (e). Pub. L. 98–479 redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: “The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act.”
 
-1980—Subsec. (a). Pub. L. 96–221, § 612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
+1980—Subsec. (a). Pub. L. 96–221, § 612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
 
-Subsec. (b). Pub. L. 96–221, § 612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
+Subsec. (b). Pub. L. 96–221, § 612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
 
-Subsec. (c). Pub. L. 96–221, § 612(a)(5), inserted “information, forms, and” after “whom”.
+Subsec. (c). Pub. L. 96–221, § 612(a)(5), inserted “information, forms, and” after “whom”.
 
-Subsec. (e). Pub. L. 96–221, § 612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
+Subsec. (e). Pub. L. 96–221, § 612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
 
-Subsec. (f). Pub. L. 96–221, § 612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
+Subsec. (f). Pub. L. 96–221, § 612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
 
-Subsec. (g). Pub. L. 96–221, § 612(a)(6), added subsec. (g).
+Subsec. (g). Pub. L. 96–221, § 612(a)(6), added subsec. (g).
 
-1974—Subsecs. (a), (b). Pub. L. 93–495, § 404, inserted provisions relating to security interest arising by operation of law.
+1974—Subsecs. (a), (b). Pub. L. 93–495, § 404, inserted provisions relating to security interest arising by operation of law.
 
-Subsec. (e). Pub. L. 93–495, § 412, inserted exemption for consumer credit transactions where a State agency is the creditor.
+Subsec. (e). Pub. L. 93–495, § 412, inserted exemption for consumer credit transactions where a State agency is the creditor.
 
-Subsec. (f). Pub. L. 93–495, § 405, added subsec. (f).
+Subsec. (f). Pub. L. 93–495, § 405, added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1869,9 +1869,9 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 
-#### § 1636. Repealed. Pub. L. 96–221, title VI, § 614(e)(1), Mar. 31, 1980, 94 Stat. 180
+#### § 1636. Repealed. Pub. L. 96–221, title VI, § 614(e)(1), Mar. 31, 1980, 94 Stat. 180
 
-Section, Pub. L. 90–321, title I, § 126, May 29, 1968, 82 Stat. 153, related to contents of periodic statements.
+Section, Pub. L. 90–321, title I, § 126, May 29, 1968, 82 Stat. 153, related to contents of periodic statements.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1879,7 +1879,7 @@ Section, Pub. L. 90–321, title I, § 126, May 29, 1968, 82 Stat. 153, relate
 
 Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 
-#### § 1637. Open end consumer credit plans
+#### § 1637. Open end consumer credit plans
 
 **(a) Required disclosures by creditor** Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extended each of the following items, to the extent applicable:
 
@@ -2081,9 +2081,9 @@ Any application to open a credit card account for any person under an open end c
 
 **(i)** the disclosures required by paragraphs (1) through (6) of subsection (a);
 
-**(ii)** the disclosures required by subparagraphs (A) and (B) of paragraph (1) of this subsection included clearly and conspiciously 1
+**(ii)** the disclosures required by subparagraphs (A) and (B) of paragraph (1) of this subsection included clearly and conspiciously 1
 
-<sup>1</sup>  So in original. Probably should be “conspicuously”.
+<sup>1</sup> So in original. Probably should be “conspicuously”.
 
 (except that the provisions of section 1632(c) of this title shall not apply); and
 
@@ -2375,7 +2375,7 @@ If the payment due date for a credit card account under an open end consumer cre
 
 No increase may be made in the amount of credit authorized to be extended under a credit card account for which a parent, legal guardian, or spouse of the consumer, or any other individual has assumed joint liability for debts incurred by the consumer in connection with the account before the consumer attains the age of 21, unless that parent, guardian, or spouse approves in writing, and assumes joint liability for, such increase.
 
-**(r) 2 [footnote: 2 So in original. No subsec. (q) has been enacted.] College card agreements**
+**(r) 2 [footnote: 2 So in original. No subsec. (q) has been enacted.] College card agreements**
 
 **(1) Definitions** For purposes of this subsection, the following definitions shall apply:
 
@@ -2397,9 +2397,9 @@ The term “college student” means an individual who is a full-time or a part-
 
 **(D) Institution of higher education**
 
-The term “institution of higher education” has the same meaning as in section 3
+The term “institution of higher education” has the same meaning as in section 3
 
-<sup>3</sup>  So in original. Probably should be “sections”.
+<sup>3</sup> So in original. Probably should be “sections”.
 
 1001 and 1002 of title 20.
 
@@ -2429,7 +2429,7 @@ The initial report required under subparagraph (A) shall be submitted to the Bur
 
 The Bureau shall submit to the Congress, and make available to the public, an annual report that lists the information concerning credit card agreements submitted to the Bureau under paragraph (2) by each institution of higher education, alumni organization, or foundation.
 
-(Pub. L. 90–321, title I, § 127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§ 304, 305, title IV, §§ 411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, § 613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§ 2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, § 2(b), Nov. 23, 1988, 102 Stat. 4729; Pub. L. 109–8, title XIII, §§ 1301(a), 1303(a), 1304(a), 1305(a), 1306(a), Apr. 20, 2005, 119 Stat. 204, 209, 211, 212; Pub. L. 111–24, title I, §§ 101(a)(1), 102(a), 103, 105, 106(a), title II, §§ 201(a), 202, 203, title III, §§ 301, 303, 305(a), May 22, 2009, 123 Stat. 1735, 1738, 1741–1743, 1745–1749; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§ 304, 305, title IV, §§ 411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, § 613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§ 2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, § 2(b), Nov. 23, 1988, 102 Stat. 4729; Pub. L. 109–8, title XIII, §§ 1301(a), 1303(a), 1304(a), 1305(a), 1306(a), Apr. 20, 2005, 119 Stat. 204, 209, 211, 212; Pub. L. 111–24, title I, §§ 101(a)(1), 102(a), 103, 105, 106(a), title II, §§ 201(a), 202, 203, title III, §§ 301, 303, 305(a), May 22, 2009, 123 Stat. 1735, 1738, 1741–1743, 1745–1749; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -2437,75 +2437,75 @@ The Bureau shall submit to the Congress, and make available to the public, an an
 
 2010—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
-2009—Subsec. (b)(11). Pub. L. 111–24, § 201(a), amended par. (11) generally, revising the minimum payment disclosures required from creditors.
+2009—Subsec. (b)(11). Pub. L. 111–24, § 201(a), amended par. (11) generally, revising the minimum payment disclosures required from creditors.
 
-Subsec. (b)(12). Pub. L. 111–24, § 202, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If a late payment fee is to be imposed due to the failure of the obligor to make payment on or before a required payment due date, the following shall be stated clearly and conspicuously on the billing statement:
+Subsec. (b)(12). Pub. L. 111–24, § 202, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If a late payment fee is to be imposed due to the failure of the obligor to make payment on or before a required payment due date, the following shall be stated clearly and conspicuously on the billing statement:
 
 “(A) The date on which that payment is due or, if different, the earliest date on which a late payment fee may be charged.
 
 “(B) The amount of the late payment fee to be imposed if payment is made after such date.”
 
-Subsec. (c)(8). Pub. L. 111–24, § 301, added par. (8).
+Subsec. (c)(8). Pub. L. 111–24, § 301, added par. (8).
 
-Subsec. (d)(1). Pub. L. 111–24, § 203(3), substituted “A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclosed or” for “Except as provided in paragraph (2), a card issuer” in introductory provisions.
+Subsec. (d)(1). Pub. L. 111–24, § 203(3), substituted “A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclosed or” for “Except as provided in paragraph (2), a card issuer” in introductory provisions.
 
-Subsec. (d)(2), (3). Pub. L. 111–24, § 203(1), (2), redesignated par. (3) as (2) and struck out former par. (2) which provided a special rule for certain disclosures.
+Subsec. (d)(2), (3). Pub. L. 111–24, § 203(1), (2), redesignated par. (3) as (2) and struck out former par. (2) which provided a special rule for certain disclosures.
 
-Subsec. (i). Pub. L. 111–24, § 101(a)(1), added subsec. (i).
+Subsec. (i). Pub. L. 111–24, § 101(a)(1), added subsec. (i).
 
-Subsecs. (j) to (*l*). Pub. L. 111–24, § 102(a), added subsecs. (j) to (*l*).
+Subsecs. (j) to (*l*). Pub. L. 111–24, § 102(a), added subsecs. (j) to (*l*).
 
-Subsec. (m). Pub. L. 111–24, § 103, added subsec. (m).
+Subsec. (m). Pub. L. 111–24, § 103, added subsec. (m).
 
-Subsec. (n). Pub. L. 111–24, § 105, added subsec. (n).
+Subsec. (n). Pub. L. 111–24, § 105, added subsec. (n).
 
-Subsec. (*o*). Pub. L. 111–24, § 106(a), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 111–24, § 106(a), added subsec. (*o*).
 
-Subsec. (p). Pub. L. 111–24, § 303, added subsec. (p).
+Subsec. (p). Pub. L. 111–24, § 303, added subsec. (p).
 
-Subsec. (r). Pub. L. 111–24, § 305(a), added subsec. (r).
+Subsec. (r). Pub. L. 111–24, § 305(a), added subsec. (r).
 
-2005—Subsec. (b)(11). Pub. L. 109–8, § 1301(a), added par. (11).
+2005—Subsec. (b)(11). Pub. L. 109–8, § 1301(a), added par. (11).
 
-Subsec. (b)(12). Pub. L. 109–8, § 1305(a), added par. (12).
+Subsec. (b)(12). Pub. L. 109–8, § 1305(a), added par. (12).
 
-Subsec. (c)(6). Pub. L. 109–8, § 1303(a), added par. (6).
+Subsec. (c)(6). Pub. L. 109–8, § 1303(a), added par. (6).
 
-Subsec. (c)(7). Pub. L. 109–8, § 1304(a), added par. (7).
+Subsec. (c)(7). Pub. L. 109–8, § 1304(a), added par. (7).
 
-Subsec. (h). Pub. L. 109–8, § 1306(a), added subsec. (h).
+Subsec. (h). Pub. L. 109–8, § 1306(a), added subsec. (h).
 
 1988—Subsec. (a)(8). Pub. L. 100–709 added par. (8).
 
-Subsecs. (c) to (f). Pub. L. 100–583, § 2(a), added subsecs. (c) to (f).
+Subsecs. (c) to (f). Pub. L. 100–583, § 2(a), added subsecs. (c) to (f).
 
-Subsec. (g). Pub. L. 100–583, § 6, added subsec. (g).
+Subsec. (g). Pub. L. 100–583, § 6, added subsec. (g).
 
-1980—Subsec. (a)(1). Pub. L. 96–221, § 613(a)(1), inserted provisions requiring the creditor to disclose that no time period is provided.
+1980—Subsec. (a)(1). Pub. L. 96–221, § 613(a)(1), inserted provisions requiring the creditor to disclose that no time period is provided.
 
-Subsec. (a)(5). Pub. L. 96–221, § 613(a)(2), (3), redesignated par. (6) as (5) and inserted provisions relating to identification of other charges, and regulations by the Board. Former par. (5), relating to elective rights of the creditor, was struck out.
+Subsec. (a)(5). Pub. L. 96–221, § 613(a)(2), (3), redesignated par. (6) as (5) and inserted provisions relating to identification of other charges, and regulations by the Board. Former par. (5), relating to elective rights of the creditor, was struck out.
 
-Subsec. (a)(6). Pub. L. 96–221, § 613(a)(2), (3), redesignated par. (7) as (6) and revised nomenclature and expanded statement requirements. Former par. (6) redesignated (5).
+Subsec. (a)(6). Pub. L. 96–221, § 613(a)(2), (3), redesignated par. (7) as (6) and revised nomenclature and expanded statement requirements. Former par. (6) redesignated (5).
 
-Subsec. (a)(7), (8). Pub. L. 96–221, § 613(a)(2), (d), redesignated par. (8) as (7) and substituted provisions relating to one billing cycle per calendar year, for provisions relating to each of two billing cycles per year. Former par. (7) redesignated (6).
+Subsec. (a)(7), (8). Pub. L. 96–221, § 613(a)(2), (d), redesignated par. (8) as (7) and substituted provisions relating to one billing cycle per calendar year, for provisions relating to each of two billing cycles per year. Former par. (7) redesignated (6).
 
-Subsec. (b)(2). Pub. L. 96–221, § 613(b), inserted provisions relating to failure of the creditor to disclose information in accordance with this paragraph, and made minor changes in phraseology.
+Subsec. (b)(2). Pub. L. 96–221, § 613(b), inserted provisions relating to failure of the creditor to disclose information in accordance with this paragraph, and made minor changes in phraseology.
 
-Subsec. (b)(7) to (11). Pub. L. 96–221, § 613(c), struck out par. (7) which related to elective rights of the creditor, and redesignated pars. (8) to (11) as (7) to (10), respectively.
+Subsec. (b)(7) to (11). Pub. L. 96–221, § 613(c), struck out par. (7) which related to elective rights of the creditor, and redesignated pars. (8) to (11) as (7) to (10), respectively.
 
-Subsec. (c). Pub. L. 96–221, § 613(e), struck out subsec. (c) which related to the time for making disclosures with respect to open end consumer credit plans having an outstanding balance of more than $1 at or after the close of the first full billing cycle.
+Subsec. (c). Pub. L. 96–221, § 613(e), struck out subsec. (c) which related to the time for making disclosures with respect to open end consumer credit plans having an outstanding balance of more than $1 at or after the close of the first full billing cycle.
 
-1974—Subsec. (a)(1). Pub. L. 93–495, § 415(1), inserted exception relating to nonimposition of a finance charge at the election of the creditor and without disclosure.
+1974—Subsec. (a)(1). Pub. L. 93–495, § 415(1), inserted exception relating to nonimposition of a finance charge at the election of the creditor and without disclosure.
 
-Subsec. (a)(8). Pub. L. 93–495, § 304(a), added par. (8).
+Subsec. (a)(8). Pub. L. 93–495, § 304(a), added par. (8).
 
-Subsec. (b)(2). Pub. L. 93–495, § 411, substituted provisions requiring a brief identification on or accompanying the statement of credit extension sufficient to enable the obligor to identify the transaction or relate it to copies of sales vouchers or similar instruments previously furnished, for provisions requiring for purchases a brief identification, unless previously furnished, of the goods or services purchased.
+Subsec. (b)(2). Pub. L. 93–495, § 411, substituted provisions requiring a brief identification on or accompanying the statement of credit extension sufficient to enable the obligor to identify the transaction or relate it to copies of sales vouchers or similar instruments previously furnished, for provisions requiring for purchases a brief identification, unless previously furnished, of the goods or services purchased.
 
-Subsec. (b)(10). Pub. L. 93–495, § 415(2), inserted exception relating to nonimposition of additional finance charge at the election of the creditor and without disclosure.
+Subsec. (b)(10). Pub. L. 93–495, § 415(2), inserted exception relating to nonimposition of additional finance charge at the election of the creditor and without disclosure.
 
-Subsec. (b)(11). Pub. L. 93–495, § 305, added par. (11).
+Subsec. (b)(11). Pub. L. 93–495, § 305, added par. (11).
 
-Subsec. (c). Pub. L. 93–495, § 304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
+Subsec. (c). Pub. L. 93–495, § 304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2517,11 +2517,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as a note under section 1602 of this title.
 
-Pub. L. 111–24, title I, § 101(a)(2), May 22, 2009, 123 Stat. 1736, provided that: “Notwithstanding section 3 [see Effective Date of 2009 Amendment note set out under section 1602 of this title], section 127(i) of the Truth in Lending Act [15 U.S.C. 1637(i)], as added by this subsection, shall become effective 90 days after the date of enactment of this Act [May 22, 2009].”
+Pub. L. 111–24, title I, § 101(a)(2), May 22, 2009, 123 Stat. 1736, provided that: “Notwithstanding section 3 [see Effective Date of 2009 Amendment note set out under section 1602 of this title], section 127(i) of the Truth in Lending Act [15 U.S.C. 1637(i)], as added by this subsection, shall become effective 90 days after the date of enactment of this Act [May 22, 2009].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title XIII, § 1301(b)(2), Apr. 20, 2005, 119 Stat. 207, provided that:
+Pub. L. 109–8, title XIII, § 1301(b)(2), Apr. 20, 2005, 119 Stat. 207, provided that:
 
 > “Section 127(b)(11) of the Truth in Lending Act [subsec. (b)(11) of this section], as added by subsection (a) of this section, and the regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
 
@@ -2529,7 +2529,7 @@ Pub. L. 109–8, title XIII, § 1301(b)(2), Apr. 20, 2005, 119 Stat. 207, prov
 
 > **“(B)** 12 months after the publication of such final regulations by the Board [of Governors of the Federal Reserve System] [Jan. 29, 2009, see 74 F.R. 5244].”
 
-Pub. L. 109–8, title XIII, § 1303(b)(2), Apr. 20, 2005, 119 Stat. 211, provided that:
+Pub. L. 109–8, title XIII, § 1303(b)(2), Apr. 20, 2005, 119 Stat. 211, provided that:
 
 > “Section 127(c)(6) of the Truth in Lending Act [subsec. (c)(6) of this section], as added by this section, and regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
 
@@ -2537,7 +2537,7 @@ Pub. L. 109–8, title XIII, § 1303(b)(2), Apr. 20, 2005, 119 Stat. 211, prov
 
 > **“(B)** 12 months after the date of publication of such final regulations by the Board [of Governors of the Federal Reserve System] [Jan. 29, 2009, see 74 F.R. 5244].”
 
-Pub. L. 109–8, title XIII, § 1304(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that:
+Pub. L. 109–8, title XIII, § 1304(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that:
 
 > “The amendment made by subsection (a) [amending this section] and the regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
 
@@ -2545,7 +2545,7 @@ Pub. L. 109–8, title XIII, § 1304(b)(2), Apr. 20, 2005, 119 Stat. 212, prov
 
 > **“(B)** 12 months after the date of publication of such final regulations by the Board [of Governors of the Federal Reserve System] [Jan. 29, 2009, see 74 F.R. 5244].”
 
-Pub. L. 109–8, title XIII, § 1305(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that:
+Pub. L. 109–8, title XIII, § 1305(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that:
 
 > “The amendment made by subsection (a) [amending this section] and regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
 
@@ -2553,7 +2553,7 @@ Pub. L. 109–8, title XIII, § 1305(b)(2), Apr. 20, 2005, 119 Stat. 212, prov
 
 > **“(B)** 12 months after the date of publication of such final regulations by the Board [of Governors of the Federal Reserve System] [Jan. 29, 2009, see 74 F.R. 5244].”
 
-Pub. L. 109–8, title XIII, § 1306(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that:
+Pub. L. 109–8, title XIII, § 1306(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that:
 
 > “The amendment made by subsection (a) [amending this section] and regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
 
@@ -2579,23 +2579,23 @@ Amendment by section 415 of Pub. L. 93–495 effective Oct. 28, 1974, see sectio
 
 **Regulations**
 
-Pub. L. 111–24, title II, § 201(c), May 22, 2009, 123 Stat. 1745, provided that:
+Pub. L. 111–24, title II, § 201(c), May 22, 2009, 123 Stat. 1745, provided that:
 
 > **“(1) In general.—** Not later than 6 months after the date of enactment of this Act [May 22, 2009], the Board [of Governors of the Federal Reserve System] shall issue guidelines, by rule, in consultation with the Secretary of the Treasury, for the establishment and maintenance by creditors of a toll-free telephone number for purposes of providing information about accessing credit counseling and debt management services, as required under section 127(b)(11)(B)(iv) of the Truth in Lending Act [15 U.S.C. 1637(b)(11)(B)(iv)], as added by this section.
 
 > **“(2) Approved agencies.—** Guidelines issued under this subsection shall ensure that referrals provided by the toll-free number referred to in paragraph (1) include only those nonprofit budget and credit counseling agencies approved by a United States bankruptcy trustee pursuant to section 111(a) of title 11, United States Code.”
 
-Pub. L. 109–8, title XIII, § 1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: “The Board of Governors of the Federal Reserve System (hereafter in this title [amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title] referred to as the ‘Board’) shall promulgate regulations implementing the requirements of section 127(b)(11) of the Truth in Lending Act [subsec. (b)(11) of this section], as added by subsection (a) of this section.”
+Pub. L. 109–8, title XIII, § 1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: “The Board of Governors of the Federal Reserve System (hereafter in this title [amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title] referred to as the ‘Board’) shall promulgate regulations implementing the requirements of section 127(b)(11) of the Truth in Lending Act [subsec. (b)(11) of this section], as added by subsection (a) of this section.”
 
-Pub. L. 109–8, title XIII, § 1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the requirements of section 127(c)(6) of the Truth in Lending Act [subsec. (c)(6) of this section], as added by this section.”
+Pub. L. 109–8, title XIII, § 1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the requirements of section 127(c)(6) of the Truth in Lending Act [subsec. (c)(6) of this section], as added by this section.”
 
-Pub. L. 109–8, title XIII, § 1304(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the requirements of section 127(c)(7) of the Truth in Lending Act [subsec. (c)(7) of this section], as added by this section.”
+Pub. L. 109–8, title XIII, § 1304(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the requirements of section 127(c)(7) of the Truth in Lending Act [subsec. (c)(7) of this section], as added by this section.”
 
-Pub. L. 109–8, title XIII, § 1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: “The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act [subsec. (b)(12) of this section], as added by this section.”
+Pub. L. 109–8, title XIII, § 1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: “The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act [subsec. (b)(12) of this section], as added by this section.”
 
-Pub. L. 109–8, title XIII, § 1306(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: “The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the requirements of section 127(h) of the Truth in Lending Act [subsec. (h) of this section], as added by this section.”
+Pub. L. 109–8, title XIII, § 1306(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: “The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the requirements of section 127(h) of the Truth in Lending Act [subsec. (h) of this section], as added by this section.”
 
-Pub. L. 109–8, title XIII, § 1309, Apr. 20, 2005, 119 Stat. 213, provided that:
+Pub. L. 109–8, title XIII, § 1309, Apr. 20, 2005, 119 Stat. 213, provided that:
 
 > **“(a) Regulations.—** Not later than 6 months after the date of enactment of this Act [Apr. 20, 2005], the Board [of Governors of the Federal Reserve System], in consultation with the other Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]), the National Credit Union Administration Board, and the Federal Trade Commission, shall promulgate regulations to provide guidance regarding the meaning of the term ‘clear and conspicuous’, as used in subparagraphs (A), (B), and (C) of section 127(b)(11) and clauses (ii) and (iii) of section 127(c)(6)(A) of the Truth in Lending Act [subsecs. (b)(11) and (c)(6)(A) of this section].
 
@@ -2607,7 +2607,7 @@ Pub. L. 109–8, title XIII, § 1309, Apr. 20, 2005, 119 Stat. 213, provided t
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-Pub. L. 100–583, § 7, Nov. 3, 1988, 102 Stat. 2968, provided that:
+Pub. L. 100–583, § 7, Nov. 3, 1988, 102 Stat. 2968, provided that:
 
 > “Any regulation required to be prescribed by the Board under the amendments made by section 2 [amending this section and section 1632 of this title] shall—
 
@@ -2621,15 +2621,15 @@ Pub. L. 100–583, § 7, Nov. 3, 1988, 102 Stat. 2968, provided that:
 
 **Reports to Congress**
 
-Pub. L. 111–24, title III, § 305(b), May 22, 2009, 123 Stat. 1750, provided that:
+Pub. L. 111–24, title III, § 305(b), May 22, 2009, 123 Stat. 1750, provided that:
 
 > **“(1) Study.—** The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act [15 U.S.C. 1637(r)], as added by this section, and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
 
 > **“(2) Report.—** Upon completion of any study under paragraph (1), the Comptroller General shall periodically submit a report to the Congress on the findings and conclusions of the study, together with such recommendations for administrative or legislative action as the Comptroller General determines to be appropriate.”
 
-Pub. L. 100–583, § 8, Nov. 3, 1988, 102 Stat. 2969, provided that: “Not later than 1 year after the regulations prescribed under section 7 of this Act [set out as a note above] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act [see Short Title of 1988 Amendment note under section 1601 of this title] on such profitability.”
+Pub. L. 100–583, § 8, Nov. 3, 1988, 102 Stat. 2969, provided that: “Not later than 1 year after the regulations prescribed under section 7 of this Act [set out as a note above] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act [see Short Title of 1988 Amendment note under section 1601 of this title] on such profitability.”
 
-#### § 1637a. Disclosure requirements for open end consumer credit plans secured by consumer’s principal dwelling
+#### § 1637a. Disclosure requirements for open end consumer credit plans secured by consumer’s principal dwelling
 
 **(a) Application disclosures** In the case of any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling, the creditor shall make the following disclosures in accordance with subsection (b):
 
@@ -2825,15 +2825,15 @@ For purposes of this section and sections 1647 and 1665b of this title, the term
 
 **(e) Pamphlet** In addition to the disclosures required under subsection (a) with respect to an application to open an account under any open end consumer credit plan described in such subsection, the creditor or other person providing such disclosures to the consumer shall provide—
 
-**(1)** a pamphlet published by the Bureau pursuant to section 4 of the Home Equity 1
+**(1)** a pamphlet published by the Bureau pursuant to section 4 of the Home Equity 1
 
-<sup>1</sup>  So in original. Probably should be followed by “Loan”.
+<sup>1</sup> So in original. Probably should be followed by “Loan”.
 
 Consumer Protection Act of 1988; or
 
 **(2)** any pamphlet which provides substantially similar information to the information described in such section, as determined by the Bureau.
 
-(Pub. L. 90–321, title I, § 127A, as added Pub. L. 100–709, § 2(a), Nov. 23, 1988, 102 Stat. 4725; amended Pub. L. 109–8, title XIII, § 1302(a)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 127A, as added Pub. L. 100–709, § 2(a), Nov. 23, 1988, 102 Stat. 4725; amended Pub. L. 109–8, title XIII, § 1302(a)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -2845,7 +2845,7 @@ Section 4 of the Home Equity Loan Consumer Protection Act of 1988, referred to i
 
 2010—Subsecs. (a)(14), (b)(2)(B), (e). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
-2005—Subsec. (a)(13). Pub. L. 109–8 substituted “tax deductibility” for “consultation of tax advisor” in heading, designated existing provisions as introductory provisions and subpar. (A), inserted dash, substituted “; and” for period at end of subpar. (A), and added subpar. (B).
+2005—Subsec. (a)(13). Pub. L. 109–8 substituted “tax deductibility” for “consultation of tax advisor” in heading, designated existing provisions as introductory provisions and subpar. (A), inserted dash, substituted “; and” for period at end of subpar. (A), and added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2863,7 +2863,7 @@ For effective date of section, see Regulations; Effective Date note below.
 
 **Regulations**
 
-Pub. L. 109–8, title XIII, § 1302(c), Apr. 20, 2005, 119 Stat. 209, provided that:
+Pub. L. 109–8, title XIII, § 1302(c), Apr. 20, 2005, 119 Stat. 209, provided that:
 
 > **“(1) In general.—** The Board [of Governors of the Federal Reserve System] shall promulgate regulations implementing the amendments made by this section [amending this section and sections 1638, 1664, and 1665b of this title].
 
@@ -2875,7 +2875,7 @@ Pub. L. 109–8, title XIII, § 1302(c), Apr. 20, 2005, 119 Stat. 209, provide
 
 **Regulations; Effective Date**
 
-Pub. L. 100–709, § 7, Nov. 23, 1988, 102 Stat. 4734, provided that:
+Pub. L. 100–709, § 7, Nov. 23, 1988, 102 Stat. 4734, provided that:
 
 > **“(a) Regulations.—** Before the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 23, 1988], the Board of Governors of the Federal Reserve System shall prescribe such regulations as may be necessary to carry out the proposes [sic] of the amendments made by this Act [enacting this section and sections 1647 and 1665b of this title, amending sections 1632 and 1637 of this title, and enacting provisions set out as notes under this section and section 1601 of this title].
 
@@ -2889,7 +2889,7 @@ Pub. L. 100–709, § 7, Nov. 23, 1988, 102 Stat. 4734, provided that:
 
 **Consumer Education**
 
-Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that:
+Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that:
 
 > “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
 
@@ -2897,7 +2897,7 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that:
 
 > **“(2)** a discussion of the potential advantages and disadvantages of such plans, including how to compare among home equity plans and between home equity and closed end credit plans.”
 
-#### § 1638. Transactions other than under an open end credit plan
+#### § 1638. Transactions other than under an open end credit plan
 
 **(a) Required disclosures by creditor** For each consumer credit transaction other than under an open end credit plan, the creditor shall disclose each of the following items, to the extent applicable:
 
@@ -2975,7 +2975,7 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that:
 
 **(B)** In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 shall be in addition to the other disclosures required by subsection (a), and shall—
 
@@ -3207,69 +3207,69 @@ Each private educational lender that has a preferred lender arrangement with a c
 
 **(G)** The names, addresses, telephone numbers, and Internet addresses of counseling agencies or programs reasonably available to the consumer that have been certified or approved and made publicly available by the Secretary of Housing and Urban Development or a State housing finance authority (as defined in section 1441a–1 of title 12).
 
-**(H)** Such other information as the Board 2
+**(H)** Such other information as the Board 2
 
-<sup>2</sup>  So in original. Probably should be “Bureau”.
+<sup>2</sup> So in original. Probably should be “Bureau”.
 
 may prescribe in regulations.
 
 **(2) Development and use of standard form**
 
-The Board <sup>2</sup> shall develop and prescribe a standard form for the disclosure required under this subsection, taking into account that the statements required may be transmitted in writing or electronically.
+The Board <sup>2</sup> shall develop and prescribe a standard form for the disclosure required under this subsection, taking into account that the statements required may be transmitted in writing or electronically.
 
 **(3) Exception**
 
 Paragraph (1) shall not apply to any fixed rate residential mortgage loan where the creditor, assignee, or servicer provides the obligor with a coupon book that provides the obligor with substantially the same information as required in paragraph (1).
 
-(Pub. L. 90–321, title I, § 128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, § 614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, § 2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, § 1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, § 2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, § 1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, § 130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
+(Pub. L. 90–321, title I, § 128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, § 614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, § 2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, § 1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, § 2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, § 1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, § 130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (a)(16) to (19). Pub. L. 111–203, § 1419, added pars. (16) to (19).
+Subsec. (a)(16) to (19). Pub. L. 111–203, § 1419, added pars. (16) to (19).
 
-Subsec. (b)(4). Pub. L. 111–203, § 1465, added par. (4).
+Subsec. (b)(4). Pub. L. 111–203, § 1465, added par. (4).
 
-Subsec. (f). Pub. L. 111–203, § 1420, added subsec. (f).
+Subsec. (f). Pub. L. 111–203, § 1420, added subsec. (f).
 
-2008—Subsec. (b)(2). Pub. L. 110–289, § 2502(a)(1), designated existing provisions as subpar. (A).
+2008—Subsec. (b)(2). Pub. L. 110–289, § 2502(a)(1), designated existing provisions as subpar. (A).
 
-Subsec. (b)(2)(A). Pub. L. 110–343, § 130(a)(1), substituted “Except as provided in subparagraph (G), in the case” for “In the case”.
+Subsec. (b)(2)(A). Pub. L. 110–343, § 130(a)(1), substituted “Except as provided in subparagraph (G), in the case” for “In the case”.
 
-Pub. L. 110–289, § 2502(a)(5), (6), struck out “, whichever is earlier” after “consummation of the transaction” and “If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.” at the end.
+Pub. L. 110–289, § 2502(a)(5), (6), struck out “, whichever is earlier” after “consummation of the transaction” and “If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.” at the end.
 
-Pub. L. 110–289, § 2502(a)(4), which directed insertion of “, which shall be at least 7 business days before consummation of the transaction” after “written application”, was executed by making the insertion after “written application” the first place appearing.
+Pub. L. 110–289, § 2502(a)(4), which directed insertion of “, which shall be at least 7 business days before consummation of the transaction” after “written application”, was executed by making the insertion after “written application” the first place appearing.
 
-Pub. L. 110–289, § 2502(a)(2), (3), substituted “any extension of credit that is secured by the dwelling of a consumer” for “a residential mortgage transaction, as defined in section 1602(w) of this title” and “and” for “before the credit is extended, or”.
+Pub. L. 110–289, § 2502(a)(2), (3), substituted “any extension of credit that is secured by the dwelling of a consumer” for “a residential mortgage transaction, as defined in section 1602(w) of this title” and “and” for “before the credit is extended, or”.
 
-Subsec. (b)(2)(B) to (F). Pub. L. 110–289, § 2502(a)(6), added subpars. (B) to (F).
+Subsec. (b)(2)(B) to (F). Pub. L. 110–289, § 2502(a)(6), added subpars. (B) to (F).
 
-Subsec. (b)(2)(G). Pub. L. 110–343, § 130(a)(2), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “The requirements of subparagraphs (B), (C), (D) and (E) shall not apply to extensions of credit relating to plans described in section 101(53D) of title 11.”
+Subsec. (b)(2)(G). Pub. L. 110–343, § 130(a)(2), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “The requirements of subparagraphs (B), (C), (D) and (E) shall not apply to extensions of credit relating to plans described in section 101(53D) of title 11.”
 
-Pub. L. 110–289, § 2502(a)(6), added subpar. (G).
+Pub. L. 110–289, § 2502(a)(6), added subpar. (G).
 
 Subsec. (e). Pub. L. 110–315 added subsec. (e).
 
-2005—Subsec. (a)(15). Pub. L. 109–8, § 1302(b)(1)(A), added par. (15).
+2005—Subsec. (a)(15). Pub. L. 109–8, § 1302(b)(1)(A), added par. (15).
 
-Subsec. (b)(3). Pub. L. 109–8, § 1302(b)(1)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 109–8, § 1302(b)(1)(B), added par. (3).
 
 1996—Subsec. (a)(14). Pub. L. 104–208 added par. (14).
 
-1980—Subsec. (a). Pub. L. 96–221, § 614(a), substituted provisions setting forth required disclosures by the creditor for transactions other than under an open end credit plan, for provisions setting forth required disclosures by the creditor for sales not under open end credit plans.
+1980—Subsec. (a). Pub. L. 96–221, § 614(a), substituted provisions setting forth required disclosures by the creditor for transactions other than under an open end credit plan, for provisions setting forth required disclosures by the creditor for sales not under open end credit plans.
 
-Subsec. (b). Pub. L. 96–221, § 614(b), designated existing provisions as par. (1), inserted provisions relating to the conspicuous segregation of required disclosures, and struck out provisions authorizing the required information to be disclosed in the signed evidence of indebtedness, and added par. (2).
+Subsec. (b). Pub. L. 96–221, § 614(b), designated existing provisions as par. (1), inserted provisions relating to the conspicuous segregation of required disclosures, and struck out provisions authorizing the required information to be disclosed in the signed evidence of indebtedness, and added par. (2).
 
-Subsec. (c). Pub. L. 96–221, § 614(c), designated existing provisions as par. (1), substituted “total sale” for “deferred payment”, and added par. (2).
+Subsec. (c). Pub. L. 96–221, § 614(c), designated existing provisions as par. (1), substituted “total sale” for “deferred payment”, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3281,15 +3281,15 @@ Amendment by sections 1419, 1420, and 1465 of Pub. L. 111–203 effective on the
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–343, div. A, title I, § 130(b), Oct. 3, 2008, 122 Stat. 3797, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the amendments made by section 2502 of the Mortgage Disclosure Improvement Act of 2008 (Public Law 110–289) [amending this section and section 1640 of this title].”
+Pub. L. 110–343, div. A, title I, § 130(b), Oct. 3, 2008, 122 Stat. 3797, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the amendments made by section 2502 of the Mortgage Disclosure Improvement Act of 2008 (Public Law 110–289) [amending this section and section 1640 of this title].”
 
-Pub. L. 110–315, title X, § 1003, Aug. 14, 2008, 122 Stat. 3478, provided that:
+Pub. L. 110–315, title X, § 1003, Aug. 14, 2008, 122 Stat. 3478, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b) and as otherwise provided in this title [see Short Title of 2008 Amendment note set out under section 1601 of this title], this title and the amendments made by this title shall become effective on the date of enactment of this Act [Aug. 14, 2008].
 
 > **“(b) Effect Notwithstanding Regulations.—** Paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) [15 U.S.C. 1638(e)] and section 140(c) of the Truth in Lending Act [15 U.S.C. 1650(c)], as added by this title, shall become effective on the earlier of the date on which regulations issued under section 1002 [set out as a note below] become effective [Such regulations were issued effective Sept. 14, 2009, with compliance optional until Feb. 14, 2010. See 74 F.R. 41194.] or 18 months after the date of enactment of this Act [Aug. 14, 2008].”
 
-Pub. L. 110–289, div. B, title V, § 2502(c), July 30, 2008, 122 Stat. 2857, provided that:
+Pub. L. 110–289, div. B, title V, § 2502(c), July 30, 2008, 122 Stat. 2857, provided that:
 
 > **“(1) General disclosures.—** Except as provided in paragraph (2), the amendments made by subsection (a) [amending this section] shall become effective 12 months after the date of enactment of this Act [July 30, 2008].
 
@@ -3309,9 +3309,9 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 **Regulations**
 
-Pub. L. 110–315, title X, § 1002, Aug. 14, 2008, 122 Stat. 3478, provided that: “Not later than 365 days after the date of enactment of this Act [Aug. 14, 2008], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) [15 U.S.C. 1638(e)] and section 140(c) of the Truth in Lending Act [15 U.S.C. 1650(c)], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance.”
+Pub. L. 110–315, title X, § 1002, Aug. 14, 2008, 122 Stat. 3478, provided that: “Not later than 365 days after the date of enactment of this Act [Aug. 14, 2008], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) [15 U.S.C. 1638(e)] and section 140(c) of the Truth in Lending Act [15 U.S.C. 1650(c)], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance.”
 
-#### § 1638a. Reset of hybrid adjustable rate mortgages
+#### § 1638a. Reset of hybrid adjustable rate mortgages
 
 **(a) Hybrid adjustable rate mortgages defined**
 
@@ -3343,7 +3343,7 @@ For purposes of this section, the term “hybrid adjustable rate mortgage” mea
 
 The Board may require the notice in paragraph (b) or other notice consistent with this chapter for adjustable rate mortgage loans that are not hybrid adjustable rate mortgage loans.
 
-(Pub. L. 90–321, title I, § 128A, as added Pub. L. 111–203, title XIV, § 1418(a), July 21, 2010, 124 Stat. 2153.)
+(Pub. L. 90–321, title I, § 128A, as added Pub. L. 111–203, title XIV, § 1418(a), July 21, 2010, 124 Stat. 2153.)
 
 **Editorial Notes**
 
@@ -3357,13 +3357,13 @@ This chapter, referred to in subsec. (c), was in the original “this Act” mea
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date, if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
 
-#### § 1639. Requirements for certain mortgages
+#### § 1639. Requirements for certain mortgages
 
 **(a) Disclosures**
 
-**(1) Specific disclosures** In addition to other disclosures required under this subchapter, for each mortgage referred to in section 1602(aa) 1
+**(1) Specific disclosures** In addition to other disclosures required under this subchapter, for each mortgage referred to in section 1602(aa) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the creditor shall provide the following disclosures in conspicuous type size:
 
@@ -3409,11 +3409,11 @@ The Bureau may, if it finds that such action is necessary to permit homeowners t
 
 **(c) No prepayment penalty**
 
-**(1) In general 2 [footnote: 2 So in original. There is no par. (2).]**
+**(1) In general 2 [footnote: 2 So in original. There is no par. (2).]**
 
 **(A) Limitation on terms**
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal before the date on which the principal is due.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal before the date on which the principal is due.
 
 **(B) Construction**
 
@@ -3421,11 +3421,11 @@ For purposes of this subsection, any method of computing a refund of unearned sc
 
 **(d) Limitations after default**
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not provide for an interest rate applicable after default that is higher than the interest rate that applies before default. If the date of maturity of a mortgage referred to in subsection 3
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not provide for an interest rate applicable after default that is higher than the interest rate that applies before default. If the date of maturity of a mortgage referred to in subsection 3
 
-<sup>3</sup>  So in original. Probably should be “section”.
+<sup>3</sup> So in original. Probably should be “section”.
 
-1602(aa) <sup>1</sup> of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
+1602(aa) <sup>1</sup> of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
 
 **(e) No balloon payments**
 
@@ -3433,17 +3433,17 @@ No high-cost mortgage may contain a scheduled payment that is more than twice as
 
 **(f) No negative amortization**
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which the outstanding principal balance will increase at any time over the course of the loan because the regular periodic payments do not cover the full amount of interest due.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which the outstanding principal balance will increase at any time over the course of the loan because the regular periodic payments do not cover the full amount of interest due.
 
 **(g) No prepaid payments**
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which more than 2 periodic payments required under the loan are consolidated and paid in advance from the loan proceeds provided to the consumer.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which more than 2 periodic payments required under the loan are consolidated and paid in advance from the loan proceeds provided to the consumer.
 
 **(h) Prohibition on extending credit without regard to payment ability of consumer**
 
-A creditor shall not engage in a pattern or practice of extending credit to consumers under mortgages referred to in section 1602(aa) <sup>1</sup> of this title based on the consumers’ collateral without regard to the consumers’ repayment ability, including the consumers’ current and expected income, current obligations, and employment.
+A creditor shall not engage in a pattern or practice of extending credit to consumers under mortgages referred to in section 1602(aa) <sup>1</sup> of this title based on the consumers’ collateral without regard to the consumers’ repayment ability, including the consumers’ current and expected income, current obligations, and employment.
 
-**(i) Requirements for payments under home improvement contracts** A creditor shall not make a payment to a contractor under a home improvement contract from amounts extended as credit under a mortgage referred to in section 1602(aa) <sup>1</sup> of this title, other than—
+**(i) Requirements for payments under home improvement contracts** A creditor shall not make a payment to a contractor under a home improvement contract from amounts extended as credit under a mortgage referred to in section 1602(aa) <sup>1</sup> of this title, other than—
 
 **(1)** in the form of an instrument that is payable to the consumer or jointly to the consumer and the contractor; or
 
@@ -3555,9 +3555,9 @@ No counselor may certify that a consumer has received counseling on the advisabi
 
 **(3) Regulations**
 
-The Board 4
+The Board 4
 
-<sup>4</sup>  So in original. Probably should be “Bureau”.
+<sup>4</sup> So in original. Probably should be “Bureau”.
 
 may prescribe such regulations as the Board determines to be appropriate to carry out the requirements of paragraph (1).
 
@@ -3575,39 +3575,39 @@ may prescribe such regulations as the Board determines to be appropriate to carr
 
 **(B)** in the case of a high-cost mortgage, change the terms of the loan in a manner beneficial so that the loan will no longer be a high-cost mortgage.
 
-(Pub. L. 90–321, title I, § 129, as added Pub. L. 103–325, title I, § 152(d), Sept. 23, 1994, 108 Stat. 2191; amended Pub. L. 111–8, div. D, title VI, § 626(c), Mar. 11, 2009, 123 Stat. 679; Pub. L. 111–203, title X, § 1100A(2), (9), title XIV, §§ 1432, 1433, July 21, 2010, 124 Stat. 2107, 2109, 2160; Pub. L. 115–174, title I, § 109(a), May 24, 2018, 132 Stat. 1305.)
+(Pub. L. 90–321, title I, § 129, as added Pub. L. 103–325, title I, § 152(d), Sept. 23, 1994, 108 Stat. 2191; amended Pub. L. 111–8, div. D, title VI, § 626(c), Mar. 11, 2009, 123 Stat. 679; Pub. L. 111–203, title X, § 1100A(2), (9), title XIV, §§ 1432, 1433, July 21, 2010, 124 Stat. 2107, 2109, 2160; Pub. L. 115–174, title I, § 109(a), May 24, 2018, 132 Stat. 1305.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(aa) of this title, referred to in text, was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in text, was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 **Prior Provisions**
 
-A prior section 1639, Pub. L. 90–321, title I, § 129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L. 96–221, title VI, § 614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
+A prior section 1639, Pub. L. 90–321, title I, § 129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L. 96–221, title VI, § 614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 
 **Amendments**
 
 2018—Subsec. (b)(3), (4). Pub. L. 115–174 added par. (3) and redesignated former par. (3) as (4).
 
-2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (c)(2). Pub. L. 111–203, § 1432(a), struck out par. (2) which related to exception to prepayment penalty prohibition.
+Subsec. (c)(2). Pub. L. 111–203, § 1432(a), struck out par. (2) which related to exception to prepayment penalty prohibition.
 
-Subsec. (e). Pub. L. 111–203, § 1432(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “A mortgage referred to in section 1602(aa) of this title having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.”
+Subsec. (e). Pub. L. 111–203, § 1432(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “A mortgage referred to in section 1602(aa) of this title having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.”
 
-Subsecs. (j) to (*l*). Pub. L. 111–203, § 1433(a)(2), added subsecs. (j) to (*l*). Former subsecs. (j) to (*l*) redesignated (n) to (p), respectively.
+Subsecs. (j) to (*l*). Pub. L. 111–203, § 1433(a)(2), added subsecs. (j) to (*l*). Former subsecs. (j) to (*l*) redesignated (n) to (p), respectively.
 
-Subsec. (m). Pub. L. 111–203, § 1433(a)(2), added subsec. (m). Former subsec. (m) redesignated (q).
+Subsec. (m). Pub. L. 111–203, § 1433(a)(2), added subsec. (m). Former subsec. (m) redesignated (q).
 
-Pub. L. 111–203, § 1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (*l*)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.”
+Pub. L. 111–203, § 1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (*l*)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.”
 
-Subsecs. (n) to (q). Pub. L. 111–203, § 1433(a)(1), redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
+Subsecs. (n) to (q). Pub. L. 111–203, § 1433(a)(1), redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
 
-Subsecs. (r) to (v). Pub. L. 111–203, § 1433(b)–(f), added subsecs. (r) to (v).
+Subsecs. (r) to (v). Pub. L. 111–203, § 1433(b)–(f), added subsecs. (r) to (v).
 
 2009—Subsec. (m). Pub. L. 111–8 added subsec. (m).
 
@@ -3619,7 +3619,7 @@ Amendment by section 1100A(2), (9) of Pub. L. 111–203 effective on the designa
 
 Amendment by sections 1432 and 1433 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
-#### § 1639a. Duty of servicers of residential mortgages
+#### § 1639a. Duty of servicers of residential mortgages
 
 **(a) In general** Notwithstanding any other provision of law, whenever a servicer of residential mortgages agrees to enter into a qualified loss mitigation plan with respect to 1 or more residential mortgages originated before May 20, 2009, including mortgages held in a securitization or other investment vehicle—
 
@@ -3665,13 +3665,13 @@ Each servicer that engages in qualified loss mitigation plans under this section
 
 No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of a State or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.
 
-(Pub. L. 90–321, title I, § 129A, as added Pub. L. 110–289, div. A, title IV, § 1403, July 30, 2008, 122 Stat. 2809; renumbered § 129 and amended Pub. L. 111–22, div. A, title II, § 201(b), May 20, 2009, 123 Stat. 1638; renumbered § 129A, Pub. L. 111–203, title XIV, § 1402(a)(1), July 21, 2010, 124 Stat. 2138.)
+(Pub. L. 90–321, title I, § 129A, as added Pub. L. 110–289, div. A, title IV, § 1403, July 30, 2008, 122 Stat. 2809; renumbered § 129 and amended Pub. L. 111–22, div. A, title II, § 201(b), May 20, 2009, 123 Stat. 1638; renumbered § 129A, Pub. L. 111–203, title XIV, § 1402(a)(1), July 21, 2010, 124 Stat. 2138.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsecs. (a)(2)(A), (c), (f)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsecs. (a)(2)(A), (c), (f)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 **Amendments**
 
@@ -3681,7 +3681,7 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsecs. (a)(2)
 
 **Findings**
 
-Pub. L. 111–22, div. A, title II, § 201(a), May 20, 2009, 123 Stat. 1638, provided that:
+Pub. L. 111–22, div. A, title II, § 201(a), May 20, 2009, 123 Stat. 1638, provided that:
 
 > “Congress finds the following:
 
@@ -3697,7 +3697,7 @@ Pub. L. 111–22, div. A, title II, § 201(a), May 20, 2009, 123 Stat. 1638, p
 
 > **“(B)** a safe harbor to enable such servicers to exercise these authorities.”
 
-#### § 1639b. Residential mortgage loan origination
+#### § 1639b. Residential mortgage loan origination
 
 **(a) Finding and purpose**
 
@@ -3775,7 +3775,7 @@ For any mortgage loan, a mortgage originator may not receive from any person oth
 
 For purposes of providing a cause of action for any failure by a mortgage originator, other than a creditor, to comply with any requirement imposed under this section and any regulation prescribed under this section, section 1640 of this title shall be applied with respect to any such failure by substituting “mortgage originator” for “creditor” each place such term appears in each such subsection.1
 
-<sup>1</sup>  So in original. Probably should be “in such section.”
+<sup>1</sup> So in original. Probably should be “in such section.”
 
 **(2) Maximum**
 
@@ -3795,23 +3795,23 @@ The regulations prescribed under paragraph (1) shall be applicable to all reside
 
 This section and any regulations promulgated thereunder do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
 
-(Pub. L. 90–321, title I, § 129B, as added and amended Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1402(a)(2), 1403–1405(a), July 21, 2010, 124 Stat. 2107, 2139–2141.)
+(Pub. L. 90–321, title I, § 129B, as added and amended Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1402(a)(2), 1403–1405(a), July 21, 2010, 124 Stat. 2107, 2139–2141.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (b)(1)(A), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (b)(1)(A), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (c). Pub. L. 111–203, § 1403, added subsec. (c).
+Subsec. (c). Pub. L. 111–203, § 1403, added subsec. (c).
 
-Subsec. (d). Pub. L. 111–203, § 1404, added subsec. (d).
+Subsec. (d). Pub. L. 111–203, § 1404, added subsec. (d).
 
-Subsecs. (e), (f). Pub. L. 111–203, § 1405(a), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 111–203, § 1405(a), added subsecs. (e) and (f).
 
 **Effective Date of 2010 Amendment**
 
@@ -3827,11 +3827,11 @@ Section effective on the date on which final regulations implementing such secti
 
 **Rule of Construction**
 
-Pub. L. 111–203, title XIV, § 1415, July 21, 2010, 124 Stat. 2153, provided that: “Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act [15 U.S.C. 1639b, 1639c] (as added by this title), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act [15 U.S.C. 1601 et seq.] or any other provision of Federal or State law.”
+Pub. L. 111–203, title XIV, § 1415, July 21, 2010, 124 Stat. 2153, provided that: “Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act [15 U.S.C. 1639b, 1639c] (as added by this title), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act [15 U.S.C. 1601 et seq.] or any other provision of Federal or State law.”
 
 [For definition of “State” as used in section 1415 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
-#### § 1639c. Minimum standards for residential mortgage loans
+#### § 1639c. Minimum standards for residential mortgage loans
 
 **(a) Ability to repay**
 
@@ -3859,9 +3859,9 @@ A determination under this subsection of a consumer’s ability to repay a resid
 
 **(B)** The refinancing does not increase the principal balance outstanding on the prior existing residential mortgage loan, except to the extent of fees and charges allowed by the department or agency making, guaranteeing, or insuring the refinancing.
 
-**(C)** Total points and fees (as defined in section 1602(aa)(4) 1
+**(C)** Total points and fees (as defined in section 1602(aa)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator) payable in connection with the refinancing do not exceed 3 percent of the total new loan amount.
 
@@ -3951,13 +3951,13 @@ Any creditor with respect to any residential mortgage loan, and any assignee of 
 
 The term “average prime offer rate” means the average prime offer rate for a comparable transaction as of the date on which the interest rate for the transaction is set, as published by the Bureau..2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 **(C) Points and fees**
 
 **(i) In general**
 
-For purposes of subparagraph (A), the term “points and fees” means points and fees as defined by section 1602(aa)(4) <sup>1</sup> of this title (other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator).
+For purposes of subparagraph (A), the term “points and fees” means points and fees as defined by section 1602(aa)(4) <sup>1</sup> of this title (other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator).
 
 **(ii) Computation** For purposes of computing the total points and fees under this subparagraph, the total points and fees shall exclude either of the amounts described in the following subclauses, but not both:
 
@@ -4059,9 +4059,9 @@ The Bureau may prescribe regulations that revise, add to, or subtract from the c
 
 **(II)** The Department of Veterans Affairs, with regard to a loan made or guaranteed by the Secretary of Veterans Affairs.
 
-**(III)** The Department of Agriculture, with regard 3
+**(III)** The Department of Agriculture, with regard 3
 
-<sup>3</sup>  So in original. Probably should be followed by “to”.
+<sup>3</sup> So in original. Probably should be followed by “to”.
 
 loans guaranteed by the Secretary of Agriculture pursuant to section 1472(h) of title 42.
 
@@ -4183,37 +4183,37 @@ In the case of any residential mortgage loan that is subject to protection under
 
 This section and any regulations promulgated under this section do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
 
-(Pub. L. 90–321, title I, § 129C, as added and amended Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, 124 Stat. 2107, 2142, 2145, 2149, 2152; Pub. L. 114–94, div. G, title LXXXIX, § 89003(1), Dec. 4, 2015, 129 Stat. 1800; Pub. L. 115–174, title I, § 101, title III, § 307, May 24, 2018, 132 Stat. 1297, 1347.)
+(Pub. L. 90–321, title I, § 129C, as added and amended Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, 124 Stat. 2107, 2142, 2145, 2149, 2152; Pub. L. 114–94, div. G, title LXXXIX, § 89003(1), Dec. 4, 2015, 129 Stat. 1800; Pub. L. 115–174, title I, § 101, title III, § 307, May 24, 2018, 132 Stat. 1297, 1347.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section 1602(bb)(4) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section 1602(bb)(4) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 This part, referred to in subsec. (b)(2)(E)(iv)(IV), was in the original “this subtitle”, and was translated as reading “this chapter”, meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
-The National Housing Act, referred to in subsec. (b)(3)(B)(ii)(I), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (b)(3)(B)(ii)(I), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 The Mortgage Reform and Anti-Predatory Lending Act, referred to in subsec. (c)(2)(C), is title XIV of Pub. L. 111–203, July 21, 2010, 124 Stat. 2136. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1601 of this title and Tables.
 
 **Amendments**
 
-2018—Subsec. (b)(2)(F). Pub. L. 115–174, § 101, added subpar. (F).
+2018—Subsec. (b)(2)(F). Pub. L. 115–174, § 101, added subpar. (F).
 
-Subsec. (b)(3)(C). Pub. L. 115–174, § 307, added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 115–174, § 307, added subpar. (C).
 
 2015—Subsec. (b)(2)(E)(iv)(I). Pub. L. 114–94 struck out “predominantly” after “operates”.
 
-2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (b). Pub. L. 111–203, § 1412, added subsec. (b).
+Subsec. (b). Pub. L. 111–203, § 1412, added subsec. (b).
 
-Subsecs. (c) to (f). Pub. L. 111–203, § 1414(a), added subsecs. (c) to (f).
+Subsecs. (c) to (f). Pub. L. 111–203, § 1414(a), added subsecs. (c) to (f).
 
-Subsec. (g). Pub. L. 111–203, § 1414(c), added subsec. (g).
+Subsec. (g). Pub. L. 111–203, § 1414(c), added subsec. (g).
 
-Subsecs. (h), (i). Pub. L. 111–203, § 1414(d), added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 111–203, § 1414(d), added subsecs. (h) and (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4229,11 +4229,11 @@ Section effective on the date on which final regulations implementing such secti
 
 **Rule of Construction**
 
-Pub. L. 111–203, title XIV, § 1411(a)(1), July 21, 2010, 124 Stat. 2142, provided that: “No regulation, order, or guidance issued by the Bureau under this title [see Tables for classification] shall be construed as requiring a depository institution to apply mortgage underwriting standards that do not meet the minimum underwriting standards required by the appropriate prudential regulator of the depository institution.”
+Pub. L. 111–203, title XIV, § 1411(a)(1), July 21, 2010, 124 Stat. 2142, provided that: “No regulation, order, or guidance issued by the Bureau under this title [see Tables for classification] shall be construed as requiring a depository institution to apply mortgage underwriting standards that do not meet the minimum underwriting standards required by the appropriate prudential regulator of the depository institution.”
 
 [For definitions of “Bureau” and “depository institution” as used in section 1411(a)(1) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
-#### § 1639d. Escrow or impound accounts relating to certain consumer credit transactions
+#### § 1639d. Escrow or impound accounts relating to certain consumer credit transactions
 
 **(a) In general**
 
@@ -4369,7 +4369,7 @@ the creditor or servicer shall provide a timely and clearly written disclosure t
 
 **(D)** Such other information as the Bureau determines necessary for the protection of the consumer.
 
-(Pub. L. 90–321, title I, § 129D, as added and amended Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1461(a), 1462, July 21, 2010, 124 Stat. 2107, 2178, 2181; Pub. L. 114–94, div. G, title LXXXIX, § 89003(2), Dec. 4, 2015, 129 Stat. 1801; Pub. L. 115–174, title I, § 108, May 24, 2018, 132 Stat. 1304.)
+(Pub. L. 90–321, title I, § 129D, as added and amended Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1461(a), 1462, July 21, 2010, 124 Stat. 2107, 2178, 2181; Pub. L. 114–94, div. G, title LXXXIX, § 89003(2), Dec. 4, 2015, 129 Stat. 1801; Pub. L. 115–174, title I, § 108, May 24, 2018, 132 Stat. 1304.)
 
 **Editorial Notes**
 
@@ -4377,25 +4377,25 @@ the creditor or servicer shall provide a timely and clearly written disclosure t
 
 This part, referred to in subsec. (c)(1)(D), was in the original “this subtitle”, and was translated as reading “this chapter”, meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(2)(A), (4), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(2)(A), (4), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 The Flood Disaster Protection Act of 1973, referred to in subsec. (g)(2)(B), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of Title 42, The Public Health and Welfare, and Tables.
 
-The National Flood Insurance Act of 1968, referred to in subsec. (i)(1), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (i)(1), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 **Amendments**
 
-2018—Subsec. (c). Pub. L. 115–174, § 108(1)(A), (B), (D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, and added par. (2).
+2018—Subsec. (c). Pub. L. 115–174, § 108(1)(A), (B), (D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, and added par. (2).
 
-Subsec. (c)(1). Pub. L. 115–174, § 108(1)(B), (C), which directed substitution of “The Bureau” for “The Board” in introductory provisions, and “the Bureau” for “the Board” wherever appearing, duplicated the amendment made by Pub. L. 111–203, § 1100A(2), which had already been executed. See 2010 Amendment note below.
+Subsec. (c)(1). Pub. L. 115–174, § 108(1)(B), (C), which directed substitution of “The Bureau” for “The Board” in introductory provisions, and “the Bureau” for “the Board” wherever appearing, duplicated the amendment made by Pub. L. 111–203, § 1100A(2), which had already been executed. See 2010 Amendment note below.
 
-Subsec. (i)(3), (4). Pub. L. 115–174, § 108(2), added pars. (3) and (4).
+Subsec. (i)(3), (4). Pub. L. 115–174, § 108(2), added pars. (3) and (4).
 
 2015—Subsec. (c)(1). Pub. L. 114–94 struck out “predominantly” after “operates”.
 
-2010—Pub. L. 111–203, § 1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing in Pub. L. 90–321, was executed to this section, which was added to Pub. L. 90–321 by section 1461(a) of Pub. L. 111–203.
+2010—Pub. L. 111–203, § 1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing in Pub. L. 90–321, was executed to this section, which was added to Pub. L. 90–321 by section 1461(a) of Pub. L. 111–203.
 
-Subsec. (j). Pub. L. 111–203, § 1462, added subsec. (j).
+Subsec. (j). Pub. L. 111–203, § 1462, added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4411,9 +4411,9 @@ Section effective on the date on which final regulations implementing such secti
 
 **Exemptions and Modifications**
 
-Pub. L. 111–203, title XIV, § 1461(b), July 21, 2010, 124 Stat. 2181, provided that: “The Board may prescribe rules that revise, add to, or subtract from the criteria of section 129D(b) of the Truth in Lending Act [15 U.S.C. 1639d(b)] if the Board determines that such rules are in the interest of consumers and in the public interest.”
+Pub. L. 111–203, title XIV, § 1461(b), July 21, 2010, 124 Stat. 2181, provided that: “The Board may prescribe rules that revise, add to, or subtract from the criteria of section 129D(b) of the Truth in Lending Act [15 U.S.C. 1639d(b)] if the Board determines that such rules are in the interest of consumers and in the public interest.”
 
-#### § 1639e. Appraisal independence requirements
+#### § 1639e. Appraisal independence requirements
 
 **(a) In general**
 
@@ -4447,9 +4447,9 @@ Any mortgage lender, mortgage broker, mortgage banker, real estate broker, appra
 
 **(f) No extension of credit**
 
-In connection with a consumer credit transaction secured by a consumer’s principal dwelling, a creditor who knows, at or before loan consummation, of a violation of the appraisal independence standards established in subsections 1
+In connection with a consumer credit transaction secured by a consumer’s principal dwelling, a creditor who knows, at or before loan consummation, of a violation of the appraisal independence standards established in subsections 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (b) or (d) shall not extend credit based on such appraisal unless the creditor documents that the creditor has acted with reasonable diligence to determine that the appraisal does not materially misstate or misrepresent the value of such dwelling.
 
@@ -4507,7 +4507,7 @@ In the case of any person on whom a civil penalty has been imposed under paragra
 
 The agency referred to in subsection (a) or (c) of section 1607 of this title with respect to any person described in paragraph (1) shall assess any penalty under this subsection to which such person is subject.
 
-(Pub. L. 90–321, title I, § 129E, as added Pub. L. 111–203, title XIV, § 1472(a), July 21, 2010, 124 Stat. 2187; amended Pub. L. 115–174, title I, § 102, May 24, 2018, 132 Stat. 1299.)
+(Pub. L. 90–321, title I, § 129E, as added Pub. L. 111–203, title XIV, § 1472(a), July 21, 2010, 124 Stat. 2187; amended Pub. L. 115–174, title I, § 102, May 24, 2018, 132 Stat. 1299.)
 
 **Editorial Notes**
 
@@ -4521,7 +4521,7 @@ The agency referred to in subsection (a) or (c) of section 1607 of this title wi
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
 
-#### § 1639f. Requirements for prompt crediting of home loan payments
+#### § 1639f. Requirements for prompt crediting of home loan payments
 
 **(a) In general**
 
@@ -4531,7 +4531,7 @@ In connection with a consumer credit transaction secured by a consumer’s princ
 
 If a servicer specifies in writing requirements for the consumer to follow in making payments, but accepts a payment that does not conform to the requirements, the servicer shall credit the payment as of 5 days after receipt.
 
-(Pub. L. 90–321, title I, § 129F, as added Pub. L. 111–203, title XIV, § 1464(a), July 21, 2010, 124 Stat. 2184.)
+(Pub. L. 90–321, title I, § 129F, as added Pub. L. 111–203, title XIV, § 1464(a), July 21, 2010, 124 Stat. 2184.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4539,11 +4539,11 @@ If a servicer specifies in writing requirements for the consumer to follow in ma
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
 
-#### § 1639g. Requests for payoff amounts of home loan
+#### § 1639g. Requests for payoff amounts of home loan
 
 A creditor or servicer of a home loan shall send an accurate payoff balance within a reasonable time, but in no case more than 7 business days, after the receipt of a written request for such balance from or on behalf of the borrower.
 
-(Pub. L. 90–321, title I, § 129G, as added Pub. L. 111–203, title XIV, § 1464(b), July 21, 2010, 124 Stat. 2184.)
+(Pub. L. 90–321, title I, § 129G, as added Pub. L. 111–203, title XIV, § 1464(b), July 21, 2010, 124 Stat. 2184.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4551,7 +4551,7 @@ A creditor or servicer of a home loan shall send an accurate payoff balance with
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
 
-#### § 1639h. Property appraisal requirements
+#### § 1639h. Property appraisal requirements
 
 **(a) In general**
 
@@ -4613,13 +4613,13 @@ In addition to any other liability to any person under this subchapter, a credit
 
 **(C)** by 3.5 or more percentage points for a subordinate lien residential mortgage loan.
 
-(Pub. L. 90–321, title I, § 129H, as added Pub. L. 111–203, title XIV, § 1471, July 21, 2010, 124 Stat. 2185.)
+(Pub. L. 90–321, title I, § 129H, as added Pub. L. 111–203, title XIV, § 1471, July 21, 2010, 124 Stat. 2185.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b)(3)(B), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Title XI of the Act is classified principally to chapter 34A (§ 3331 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1811 of Title 12 and Tables.
+The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b)(3)(B), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Title XI of the Act is classified principally to chapter 34A (§ 3331 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1811 of Title 12 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4627,7 +4627,7 @@ The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referr
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
 
-#### § 1640. Civil liability
+#### § 1640. Civil liability
 
 **(a) Individual or class action for damages; amount of award; factors determining amount of award** Except as otherwise provided in this section, any creditor who fails to comply with any requirement imposed under this part, including any requirement under section 1635 of this title, subsection (f) or (g) of section 1641 of this title, or part D or E of this subchapter with respect to any person is liable to such person in an amount equal to the sum of—
 
@@ -4637,9 +4637,9 @@ Section effective on the date on which final regulations implementing such secti
 
 **(A)**
 
-**(i)** in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in the case of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $200 nor greater than $2,000, (iii) in the case of an individual action relating to an open end consumer credit plan that is not secured by real property or a dwelling, twice the amount of any finance charge in connection with the transaction, with a minimum of $500 and a maximum of $5,000, or such higher amount as may be appropriate in the case of an established pattern or practice of such failures; 1
+**(i)** in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in the case of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $200 nor greater than $2,000, (iii) in the case of an individual action relating to an open end consumer credit plan that is not secured by real property or a dwelling, twice the amount of any finance charge in connection with the transaction, with a minimum of $500 and a maximum of $5,000, or such higher amount as may be appropriate in the case of an established pattern or practice of such failures; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a comma.
+<sup>1</sup> So in original. The semicolon probably should be a comma.
 
 or (iv) in the case of an individual action relating to a credit transaction not under an open end credit plan that is secured by real property or a dwelling, not less than $400 or greater than $4,000; or
 
@@ -4649,9 +4649,9 @@ or (iv) in the case of an individual action relating to a credit transaction not
 
 **(4)** in the case of a failure to comply with any requirement under section 1639 of this title, paragraph (1) or (2) of section 1639b(c) of this title, or section 1639c(a) of this title, an amount equal to the sum of all finance charges and fees paid by the consumer, unless the creditor demonstrates that the failure to comply is not material.
 
-In determining the amount of award in any class action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor’s failure of compliance was intentional. In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) 2
+In determining the amount of award in any class action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor’s failure of compliance was intentional. In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
 of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Bureau has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title. In connection with the disclosures referred to in subsection (c) or (d) of section 1637 of this title, a card issuer shall have a liability under this section only to a cardholder who pays a fee described in section 1637(c)(1)(A)(ii)(I) or section 1637(c)(4)(A)(i) of this title or who uses the credit card or charge card. In connection with the disclosures referred to in section 1638 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, of paragraph (2) (insofar as it requires a disclosure of the “amount financed”), (3), (4), (5), (6), or (9) of section 1638(a) of this title, or section 1638(b)(2)(C)(ii) of this title, of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title, or for failing to comply with disclosure requirements under State law for any term which the Bureau has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms referred to in any of those paragraphs of section 1638(a) of this title or section 1638(b)(2)(C)(ii) of this title. With respect to any failure to make disclosures required under this part or part D or E of this subchapter, liability shall be imposed only upon the creditor required to make disclosure, except as provided in section 1641 of this title.
 
@@ -4719,7 +4719,7 @@ A person may not take any action to offset any amount for which a creditor or as
 
 A private educational lender (as that term is defined in section 1650(a) of this title) has no liability under this section for failure to comply with section 1638(e)(3) of this title).3
 
-<sup>3</sup>  So in original. The closing parenthesis probably should not appear.
+<sup>3</sup> So in original. The closing parenthesis probably should not appear.
 
 **(k) Defense to foreclosure**
 
@@ -4741,53 +4741,53 @@ Where such judgment is rendered after the expiration of the applicable time limi
 
 In addition to any other remedy available by law or contract, no creditor or assignee shall be liable to an obligor under this section, if such obligor, or co-obligor has been convicted of obtaining by actual fraud such residential mortgage loan.
 
-(Pub. L. 90–321, title I, § 130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§ 406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, § 3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, § 4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, § 615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, § 3, Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, § 153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, § 2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, § 6, Sept. 30, 1995, 109 Stat. 274; Pub. L. 110–289, div. B, title V, § 2502(b), July 30, 2008, 122 Stat. 2857; Pub. L. 110–315, title X, § 1012(a), Aug. 14, 2008, 122 Stat. 3482; Pub. L. 111–22, div. A, title IV, § 404(b), May 20, 2009, 123 Stat. 1658; Pub. L. 111–24, title I, § 107, title II, § 201(b), May 22, 2009, 123 Stat. 1743, 1745; Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1413, 1416, 1417, 1422, July 21, 2010, 124 Stat. 2107, 2148, 2153, 2157.)
+(Pub. L. 90–321, title I, § 130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§ 406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, § 3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, § 4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, § 615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, § 3, Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, § 153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, § 2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, § 6, Sept. 30, 1995, 109 Stat. 274; Pub. L. 110–289, div. B, title V, § 2502(b), July 30, 2008, 122 Stat. 2857; Pub. L. 110–315, title X, § 1012(a), Aug. 14, 2008, 122 Stat. 3482; Pub. L. 111–22, div. A, title IV, § 404(b), May 20, 2009, 123 Stat. 1658; Pub. L. 111–24, title I, § 107, title II, § 201(b), May 22, 2009, 123 Stat. 1743, 1745; Pub. L. 111–203, title X, § 1100A(2), title XIV, §§ 1413, 1416, 1417, 1422, July 21, 2010, 124 Stat. 2107, 2148, 2153, 2157.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (a)(2)(A)(ii). Pub. L. 111–203, § 1416(a)(1), substituted “$200” for “$100” and “$2,000” for “$1,000”.
+Subsec. (a)(2)(A)(ii). Pub. L. 111–203, § 1416(a)(1), substituted “$200” for “$100” and “$2,000” for “$1,000”.
 
-Subsec. (a)(2)(B). Pub. L. 111–203, § 1416(a)(2), substituted “$1,000,000” for “$500,000”.
+Subsec. (a)(2)(B). Pub. L. 111–203, § 1416(a)(2), substituted “$1,000,000” for “$500,000”.
 
-Subsec. (a)(4). Pub. L. 111–203, § 1416(a)(3), inserted “, paragraph (1) or (2) of section 1639b(c) of this title, or section 1639c(a) of this title” after “section 1639 of this title”.
+Subsec. (a)(4). Pub. L. 111–203, § 1416(a)(3), inserted “, paragraph (1) or (2) of section 1639b(c) of this title, or section 1639c(a) of this title” after “section 1639 of this title”.
 
-Subsec. (e). Pub. L. 111–203, § 1422, substituted “section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also” for “section 1639 of this title may also”.
+Subsec. (e). Pub. L. 111–203, § 1422, substituted “section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also” for “section 1639 of this title may also”.
 
-Pub. L. 111–203, § 1416(b), in first sentence substituted “Except as provided in the subsequent sentence, any action” for “Any action” and inserted after first sentence “Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation.”
+Pub. L. 111–203, § 1416(b), in first sentence substituted “Except as provided in the subsequent sentence, any action” for “Any action” and inserted after first sentence “Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation.”
 
-Subsec. (k). Pub. L. 111–203, § 1413, added subsec. (k).
+Subsec. (k). Pub. L. 111–203, § 1413, added subsec. (k).
 
-Subsec. (*l*). Pub. L. 111–203, § 1417, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 111–203, § 1417, added subsec. (*l*).
 
-2009—Subsec. (a). Pub. L. 111–24, § 201(b), in concluding provisions, substituted “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title.” for “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, section 1637(a) of this title, or of paragraph (4), (5), (6), (7), (8), (9), or (10) of section 1637(b) of this title or for failing to comply with disclosure requirements under State law for any term or item which the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title or any of those paragraphs of section 1637(b) of this title.”
+2009—Subsec. (a). Pub. L. 111–24, § 201(b), in concluding provisions, substituted “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title.” for “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, section 1637(a) of this title, or of paragraph (4), (5), (6), (7), (8), (9), or (10) of section 1637(b) of this title or for failing to comply with disclosure requirements under State law for any term or item which the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title or any of those paragraphs of section 1637(b) of this title.”
 
-Pub. L. 111–22, § 404(b), which directed insertion of “subsection (f) or (g) of section 1641 of this title,” after “section 1635 of this title,”, was executed by making the insertion only in the introductory provisions to reflect the probable intent of Congress.
+Pub. L. 111–22, § 404(b), which directed insertion of “subsection (f) or (g) of section 1641 of this title,” after “section 1635 of this title,”, was executed by making the insertion only in the introductory provisions to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(A)(iii), (iv). Pub. L. 111–24, § 107, added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (a)(2)(A)(iii), (iv). Pub. L. 111–24, § 107, added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-2008—Subsec. (a). Pub. L. 110–315, § 1012(a)(1)(B), in fourth sentence of concluding provisions, substituted “1635 of this title,” for “1635 of this title or” and inserted “of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title,” before “or for failing”.
+2008—Subsec. (a). Pub. L. 110–315, § 1012(a)(1)(B), in fourth sentence of concluding provisions, substituted “1635 of this title,” for “1635 of this title or” and inserted “of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title,” before “or for failing”.
 
-Pub. L. 110–289, § 2502(b)(2), in concluding provisions, inserted “or section 1638(b)(2)(C)(ii) of this title,” before “or for failing to comply” and “or section 1638(b)(2)(C)(ii) of this title” before “. With respect to”.
+Pub. L. 110–289, § 2502(b)(2), in concluding provisions, inserted “or section 1638(b)(2)(C)(ii) of this title,” before “or for failing to comply” and “or section 1638(b)(2)(C)(ii) of this title” before “. With respect to”.
 
-Subsec. (a)(2)(A)(iii). Pub. L. 110–289, § 2502(b)(1), substituted “not less than $400 or greater than $4,000” for “not less than $200 or greater than $2,000”.
+Subsec. (a)(2)(A)(iii). Pub. L. 110–289, § 2502(b)(1), substituted “not less than $400 or greater than $4,000” for “not less than $200 or greater than $2,000”.
 
-Subsec. (a)(3). Pub. L. 110–315, § 1012(a)(1)(A), inserted “or 1638(e)(7)” after “section 1635”.
+Subsec. (a)(3). Pub. L. 110–315, § 1012(a)(1)(A), inserted “or 1638(e)(7)” after “section 1635”.
 
-Subsec. (e). Pub. L. 110–315, § 1012(a)(2), inserted before period at end of first sentence “or, in the case of a violation involving a private education loan (as that term is defined in section 1650(a) of this title), 1 year from the date on which the first regular payment of principal is due under the loan”.
+Subsec. (e). Pub. L. 110–315, § 1012(a)(2), inserted before period at end of first sentence “or, in the case of a violation involving a private education loan (as that term is defined in section 1650(a) of this title), 1 year from the date on which the first regular payment of principal is due under the loan”.
 
-Subsec. (j). Pub. L. 110–315, § 1012(a)(3), added subsec. (j).
+Subsec. (j). Pub. L. 110–315, § 1012(a)(3), added subsec. (j).
 
 1995—Subsec. (a)(2)(A)(iii). Pub. L. 104–29 added cl. (iii).
 
 Subsec. (i). Pub. L. 104–12 added subsec. (i).
 
-1994—Subsec. (a)(4). Pub. L. 103–325, § 153(a), added par. (4).
+1994—Subsec. (a)(4). Pub. L. 103–325, § 153(a), added par. (4).
 
-Subsec. (e). Pub. L. 103–325, § 153(b), inserted at end “An action to enforce a violation of section 1639 of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
+Subsec. (e). Pub. L. 103–325, § 153(b), inserted at end “An action to enforce a violation of section 1639 of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
 
 “(1) intervene in the action;
 
@@ -4801,49 +4801,49 @@ Subsec. (e). Pub. L. 103–325, § 153(b), inserted at end “An action to enf
 
 1988—Subsec. (a). Pub. L. 100–583 substituted “in subsections (a) and (b) of section 1637” for “in section 1637” in third sentence and inserted provisions limiting liability of card issuer under this section to cardholders who pay fee or use credit card or charge card.
 
-1980—Subsec. (a). Pub. L. 96–221, § 615(b), in introductory text inserted provisions respecting applicability of section 1635 of this title, and in text following numbered pars. inserted provisions relating to disclosures required under sections 1637 and 1638 of this title.
+1980—Subsec. (a). Pub. L. 96–221, § 615(b), in introductory text inserted provisions respecting applicability of section 1635 of this title, and in text following numbered pars. inserted provisions relating to disclosures required under sections 1637 and 1638 of this title.
 
-Subsec. (a)(2)(B). Pub. L. 96–221, § 615(a)(1), substituted provisions respecting recovery under this subparagraph in any class action or series of class actions, for provisions respecting recovery in a class action.
+Subsec. (a)(2)(B). Pub. L. 96–221, § 615(a)(1), substituted provisions respecting recovery under this subparagraph in any class action or series of class actions, for provisions respecting recovery in a class action.
 
-Subsec. (a)(3). Pub. L. 96–221, § 615(a)(2), inserted provisions relating to right of rescission under section 1635 of this title.
+Subsec. (a)(3). Pub. L. 96–221, § 615(a)(2), inserted provisions relating to right of rescission under section 1635 of this title.
 
-Subsec. (b). Pub. L. 96–221, § 615(a)(3), substituted provisions relating to correction of errors within sixty days by a creditor or assignee, for provisions relating to correction of errors within fifteen days by a creditor.
+Subsec. (b). Pub. L. 96–221, § 615(a)(3), substituted provisions relating to correction of errors within sixty days by a creditor or assignee, for provisions relating to correction of errors within fifteen days by a creditor.
 
-Subsec. (c). Pub. L. 96–221, § 615(a)(3), substituted provisions relating to liability of a creditor or assignee in any action brought under this section or section 1635 of this title, for provisions relating to liability of a creditor in any action brought under this section.
+Subsec. (c). Pub. L. 96–221, § 615(a)(3), substituted provisions relating to liability of a creditor or assignee in any action brought under this section or section 1635 of this title, for provisions relating to liability of a creditor in any action brought under this section.
 
-Subsec. (d). Pub. L. 96–221, § 615(a)(3), substituted provisions relating to liability in transaction or lease involving multiple obligors, for provisions relating to liability of subsequent assignees original creditor.
+Subsec. (d). Pub. L. 96–221, § 615(a)(3), substituted provisions relating to liability in transaction or lease involving multiple obligors, for provisions relating to liability of subsequent assignees original creditor.
 
-Subsec. (e). Pub. L. 96–221, § 615(a)(4), inserted provisions relating to limitations on actions.
+Subsec. (e). Pub. L. 96–221, § 615(a)(4), inserted provisions relating to limitations on actions.
 
-Subsec. (f). Pub. L. 96–221, § 615(a)(5), inserted references to section 1607(b), (c), and (e) of this title.
+Subsec. (f). Pub. L. 96–221, § 615(a)(5), inserted references to section 1607(b), (c), and (e) of this title.
 
-Subsec. (g). Pub. L. 96–221, § 615(a)(6), inserted provisions relating to remedy under section 1635 of this title.
+Subsec. (g). Pub. L. 96–221, § 615(a)(6), inserted provisions relating to remedy under section 1635 of this title.
 
-Subsec. (h). Pub. L. 96–221, § 615(a)(7), substituted provisions relating to offset from amounts owed to the creditor or assignee, and rights of defaulting consumer, for provisions relating to offset from amounts owed to the creditor.
+Subsec. (h). Pub. L. 96–221, § 615(a)(7), substituted provisions relating to offset from amounts owed to the creditor or assignee, and rights of defaulting consumer, for provisions relating to offset from amounts owed to the creditor.
 
-1976—Subsec. (a). Pub. L. 94–240, § 4(1), inserted “or E” after “part D”.
+1976—Subsec. (a). Pub. L. 94–240, § 4(1), inserted “or E” after “part D”.
 
-Subsec. (a)(2)(A). Pub. L. 94–240, § 4(2), designated existing provision as cl. (i) and added cl. (ii).
+Subsec. (a)(2)(A). Pub. L. 94–240, § 4(2), designated existing provision as cl. (i) and added cl. (ii).
 
-Subsec. (a)(2)(B). Pub. L. 94–240, § 4(3), substituted “lesser of $500,000” for “lesser of $100,000”.
+Subsec. (a)(2)(B). Pub. L. 94–240, § 4(3), substituted “lesser of $500,000” for “lesser of $100,000”.
 
-Subsec. (b). Pub. L. 94–240, § 4(4), inserted “or part E of this subchapter” after “this part” and struck out “finance” after “required to pay a”.
+Subsec. (b). Pub. L. 94–240, § 4(4), inserted “or part E of this subchapter” after “this part” and struck out “finance” after “required to pay a”.
 
 Subsec. (f). Pub. L. 94–222 inserted “or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under such procedures as the Board may prescribe therefor” after “by the Board”, and substituted “interpretation, or approval” for “or interpretation” before “is amended”.
 
-Subsec. (g). Pub. L. 94–240, § 4(5), inserted “or part D or E of this subchapter” after “this part”, and “consumer lease” after “consumer loan”.
+Subsec. (g). Pub. L. 94–240, § 4(5), inserted “or part D or E of this subchapter” after “this part”, and “consumer lease” after “consumer loan”.
 
-1974—Subsec. (a). Pub. L. 93–495, § 408(a), substituted provisions setting forth determination of amount of liability of any creditor failing to comply with any requirement imposed under part D of this subchapter or this part, for provisions setting forth determination of amount of liability of any creditor failing to disclose in connection with any consumer credit transaction any information required under this part to be disclosed to specified persons.
+1974—Subsec. (a). Pub. L. 93–495, § 408(a), substituted provisions setting forth determination of amount of liability of any creditor failing to comply with any requirement imposed under part D of this subchapter or this part, for provisions setting forth determination of amount of liability of any creditor failing to disclose in connection with any consumer credit transaction any information required under this part to be disclosed to specified persons.
 
-Subsec. (b). Pub. L. 93–495, § 408(b), inserted “for any failure to comply with any requirement imposed under this part,” before “if within”.
+Subsec. (b). Pub. L. 93–495, § 408(b), inserted “for any failure to comply with any requirement imposed under this part,” before “if within”.
 
-Subsec. (c). Pub. L. 93–495, § 408(c), substituted “subchapter” for “part”.
+Subsec. (c). Pub. L. 93–495, § 408(c), substituted “subchapter” for “part”.
 
-Subsec. (f). Pub. L. 93–495, § 406, added subsec. (f).
+Subsec. (f). Pub. L. 93–495, § 406, added subsec. (f).
 
-Subsec. (g). Pub. L. 93–495, § 407, added subsec. (g).
+Subsec. (g). Pub. L. 93–495, § 407, added subsec. (g).
 
-Subsec. (h). Pub. L. 93–495, § 408(d), added subsec. (h).
+Subsec. (h). Pub. L. 93–495, § 408(d), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4859,7 +4859,7 @@ Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as o
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–315, title X, § 1012(b), Aug. 14, 2008, 122 Stat. 3482, provided that: “The amendments made by this section [amending this section] shall have the same effective date as provisions referred to in section 1003(b) [set out as a note under section 1638 of this title].”
+Pub. L. 110–315, title X, § 1012(b), Aug. 14, 2008, 122 Stat. 3482, provided that: “The amendments made by this section [amending this section] shall have the same effective date as provisions referred to in section 1003(b) [set out as a note under section 1638 of this title].”
 
 **Effective Date of 1980 Amendment**
 
@@ -4875,9 +4875,9 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 
 **Determination of Liability Prior to October 28, 1974**
 
-Pub. L. 93–495, title IV, § 408(e), Oct. 28, 1974, 88 Stat. 1519, provided that: “The amendments made by sections 406, 407, and 408 [amending this section] shall apply in determining the liability of any person under chapter 2 or 4 of the Truth in Lending Act [this part or part D of this subchapter], unless prior to the date of enactment of this Act [Oct. 28, 1974] such liability has been determined by final judgment of a court of competent jurisdiction and no further review of such judgment may be had by appeal or otherwise.”
+Pub. L. 93–495, title IV, § 408(e), Oct. 28, 1974, 88 Stat. 1519, provided that: “The amendments made by sections 406, 407, and 408 [amending this section] shall apply in determining the liability of any person under chapter 2 or 4 of the Truth in Lending Act [this part or part D of this subchapter], unless prior to the date of enactment of this Act [Oct. 28, 1974] such liability has been determined by final judgment of a court of competent jurisdiction and no further review of such judgment may be had by appeal or otherwise.”
 
-#### § 1641. Liability of assignees
+#### § 1641. Liability of assignees
 
 **(a) Prerequisites**
 
@@ -4895,11 +4895,11 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 **(1) In general**
 
-Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) 1
+Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) 1 of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.
+of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) 1 of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.
 
 **(2) Limitation on damages** Notwithstanding any other provision of law, relief provided as a result of any action made permissible by paragraph (1) may not exceed—
 
@@ -4917,7 +4917,7 @@ The amount of damages that may be awarded under paragraph (2)(B) shall be reduce
 
 **(4) Notice**
 
-Any person who sells or otherwise assigns a mortgage referred to in section 1602(aa) <sup>1</sup> of this title shall include a prominent notice of the potential liability under this subsection as determined by the Bureau.
+Any person who sells or otherwise assigns a mortgage referred to in section 1602(aa) <sup>1</sup> of this title shall include a prominent notice of the potential liability under this subsection as determined by the Bureau.
 
 **(e) Liability of assignee for consumer credit transactions secured by real property**
 
@@ -4969,13 +4969,13 @@ This subsection shall apply to all consumer credit transactions in existence or 
 
 As used in this subsection, the term “mortgage loan” means any consumer credit transaction that is secured by the principal dwelling of a consumer.
 
-(Pub. L. 90–321, title I, § 131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, § 616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, § 153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, § 7, Sept. 30, 1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, § 404(a), May 20, 2009, 123 Stat. 1658; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, § 616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, § 153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, § 7, Sept. 30, 1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, § 404(a), May 20, 2009, 123 Stat. 1658; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
@@ -4983,9 +4983,9 @@ Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesign
 
 2009—Subsec. (g). Pub. L. 111–22 added subsec. (g).
 
-1995—Subsec. (e). Pub. L. 104–29, § 7(a), added subsec. (e).
+1995—Subsec. (e). Pub. L. 104–29, § 7(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 104–29, § 7(b), added subsec. (f).
+Subsec. (f). Pub. L. 104–29, § 7(b), added subsec. (f).
 
 1994—Subsec. (d). Pub. L. 103–325 added subsec. (d).
 
@@ -5001,19 +5001,19 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1642. Issuance of credit cards
+#### § 1642. Issuance of credit cards
 
 No credit card shall be issued except in response to a request or application therefor. This prohibition does not apply to the issuance of a credit card in renewal of, or in substitution for, an accepted credit card.
 
-(Pub. L. 90–321, title I, § 132, as added Pub. L. 91–508, title V, § 502(a), Oct. 26, 1970, 84 Stat. 1126.)
+(Pub. L. 90–321, title I, § 132, as added Pub. L. 91–508, title V, § 502(a), Oct. 26, 1970, 84 Stat. 1126.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 91–508, title V, § 503(1), Oct. 26, 1970, 84 Stat. 1127, provided that: “Section 132 of such Act [this section] takes effect on date of enactment of this title [Oct. 26, 1970].”
+Pub. L. 91–508, title V, § 503(1), Oct. 26, 1970, 84 Stat. 1127, provided that: “Section 132 of such Act [this section] takes effect on date of enactment of this title [Oct. 26, 1970].”
 
-#### § 1643. Liability of holder of credit card
+#### § 1643. Liability of holder of credit card
 
 **(a) Limits on liability**
 
@@ -5045,7 +5045,7 @@ Nothing in this section imposes liability upon a cardholder for the unauthorized
 
 Except as provided in this section, a cardholder incurs no liability from the unauthorized use of a credit card.
 
-(Pub. L. 90–321, title I, § 133, as added Pub. L. 91–508, title V, § 502(a), Oct. 26, 1970, 84 Stat. 1126; amended Pub. L. 96–221, title VI, § 617, Mar. 31, 1980, 94 Stat. 182.)
+(Pub. L. 90–321, title I, § 133, as added Pub. L. 91–508, title V, § 502(a), Oct. 26, 1970, 84 Stat. 1126; amended Pub. L. 96–221, title VI, § 617, Mar. 31, 1980, 94 Stat. 182.)
 
 **Editorial Notes**
 
@@ -5061,9 +5061,9 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 **Effective Date**
 
-Pub. L. 91–508, title V, § 503(2), Oct. 26, 1970, 84 Stat. 1127, provided that: “Section 133 of such Act [this section] takes effect upon the expiration of 90 days after such date of enactment [Oct. 26, 1970].”
+Pub. L. 91–508, title V, § 503(2), Oct. 26, 1970, 84 Stat. 1127, provided that: “Section 133 of such Act [this section] takes effect upon the expiration of 90 days after such date of enactment [Oct. 26, 1970].”
 
-#### § 1644. Fraudulent use of credit cards; penalties
+#### § 1644. Fraudulent use of credit cards; penalties
 
 **(a) Use, attempt or conspiracy to use card in transaction affecting interstate or foreign commerce**
 
@@ -5091,7 +5091,7 @@ Whoever in a transaction affecting interstate or foreign commerce furnishes mone
 
 shall be fined not more than $10,000 or imprisoned not more than ten years, or both.
 
-(Pub. L. 90–321, title I, § 134, as added Pub. L. 91–508, title V, § 502(a), Oct. 26, 1970, 84 Stat. 1127; amended Pub. L. 93–495, title IV, § 414, Oct. 28, 1974, 88 Stat. 1520.)
+(Pub. L. 90–321, title I, § 134, as added Pub. L. 91–508, title V, § 502(a), Oct. 26, 1970, 84 Stat. 1127; amended Pub. L. 93–495, title IV, § 414, Oct. 28, 1974, 88 Stat. 1520.)
 
 **Editorial Notes**
 
@@ -5107,13 +5107,13 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 
 **Effective Date**
 
-Pub. L. 91–508, title V, § 503(3), Oct. 26, 1970, 84 Stat. 1127, provided that: “Section 134 of such Act [this section] applies to offenses committed on or after such date of enactment [Oct. 26, 1970].”
+Pub. L. 91–508, title V, § 503(3), Oct. 26, 1970, 84 Stat. 1127, provided that: “Section 134 of such Act [this section] applies to offenses committed on or after such date of enactment [Oct. 26, 1970].”
 
-#### § 1645. Business credit cards; limits on liability of employees
+#### § 1645. Business credit cards; limits on liability of employees
 
 The exemption provided by section 1603(1) of this title does not apply to the provisions of sections 1642, 1643, and 1644 of this title, except that a card issuer and a business or other organization which provides credit cards issued by the same card issuer to ten or more of its employees may by contract agree as to liability of the business or other organization with respect to unauthorized use of such credit cards without regard to the provisions of section 1643 of this title, but in no case may such business or other organization or card issuer impose liability upon any employee with respect to unauthorized use of such a credit card except in accordance with and subject to the limitations of section 1643 of this title.
 
-(Pub. L. 90–321, title I, § 135, as added Pub. L. 93–495, title IV, § 410(a), Oct. 28, 1974, 88 Stat. 1519.)
+(Pub. L. 90–321, title I, § 135, as added Pub. L. 93–495, title IV, § 410(a), Oct. 28, 1974, 88 Stat. 1519.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5121,7 +5121,7 @@ The exemption provided by section 1603(1) of this title does not apply to the pr
 
 Section effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as a note under section 1665a of this title.
 
-#### § 1646. Dissemination of annual percentage rates; implementation, etc.
+#### § 1646. Dissemination of annual percentage rates; implementation, etc.
 
 **(a) Annual percentage rates**
 
@@ -5157,7 +5157,7 @@ Each financial institution in the broad sample established pursuant to paragraph
 
 The Bureau is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) and to furnish financial assistance in support thereof.
 
-(Pub. L. 90–321, title I, § 136, as added Pub. L. 96–221, title VI, § 618(a), Mar. 31, 1980, 94 Stat. 183; amended Pub. L. 100–583, § 5, Nov. 3, 1988, 102 Stat. 2967; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 136, as added Pub. L. 96–221, title VI, § 618(a), Mar. 31, 1980, 94 Stat. 183; amended Pub. L. 100–583, § 5, Nov. 3, 1988, 102 Stat. 2967; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5177,7 +5177,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 
-#### § 1647. Home equity plans
+#### § 1647. Home equity plans
 
 **(a) Index requirement**
 
@@ -5199,9 +5199,9 @@ This subsection does not apply to reverse mortgage transactions.
 
 No open end consumer credit plan under which extensions of credit are secured by a consumer’s principal dwelling may contain a provision which permits a creditor to change unilaterally any term required to be disclosed under section 1637a(a) of this title or any other term, except a change in insignificant terms such as the address of the creditor for billing purposes.
 
-**(2) Certain changes not precluded** Notwithstanding the provisions of subsection 1
+**(2) Certain changes not precluded** Notwithstanding the provisions of subsection 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (1), a creditor may make any of the following changes:
 
@@ -5249,7 +5249,7 @@ No nonrefundable fee may be imposed by a creditor or any other person in connect
 
 For purposes of determining when a nonrefundable fee may be imposed in accordance with this subsection if the disclosures and pamphlet referred to in paragraph (1) are mailed to the consumer, the date of the receipt of the disclosures by such consumer shall be deemed to be 3 business days after the date of mailing by the creditor.
 
-(Pub. L. 90–321, title I, § 137, as added Pub. L. 100–709, § 3, Nov. 23, 1988, 102 Stat. 4731; amended Pub. L. 103–325, title I, § 154(c), Sept. 23, 1994, 108 Stat. 2197; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 137, as added Pub. L. 100–709, § 3, Nov. 23, 1988, 102 Stat. 4731; amended Pub. L. 103–325, title I, § 154(c), Sept. 23, 1994, 108 Stat. 2197; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5273,7 +5273,7 @@ For effective date of section, see Regulations; Effective Date note below.
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709 [enacting this section], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-#### § 1648. Reverse mortgages
+#### § 1648. Reverse mortgages
 
 **(a) In general** In addition to the disclosures required under this subchapter, for each reverse mortgage, the creditor shall, not less than 3 days prior to consummation of the transaction, disclose to the consumer in conspicuous type a good faith estimate of the projected total cost of the mortgage to the consumer expressed as a table of annual interest rates. Each annual interest rate shall be based on a projected total future credit extension balance under a projected appreciation rate for the dwelling and a term for the mortgage. The disclosure shall include—
 
@@ -5297,7 +5297,7 @@ For provisions relating to promulgation of regulations to implement amendment by
 
 **(4)** any limitation on the liability of the consumer under reverse mortgage transactions (such as nonrecourse limits and equity conservation agreements).
 
-(Pub. L. 90–321, title I, § 138, as added Pub. L. 103–325, title I, § 154(b), Sept. 23, 1994, 108 Stat. 2196; amended Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 138, as added Pub. L. 103–325, title I, § 154(b), Sept. 23, 1994, 108 Stat. 2196; amended Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5311,7 +5311,7 @@ For provisions relating to promulgation of regulations to implement amendment by
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-#### § 1649. Certain limitations on liability
+#### § 1649. Certain limitations on liability
 
 **(a) Limitations on liability** For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and that is consummated before September 30, 1995, a creditor or any assignee of a creditor shall have no civil, administrative, or criminal liability under this subchapter for, and a consumer shall have no extended rescission rights under section 1635(f) of this title with respect to—
 
@@ -5345,7 +5345,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **(4)** any consumer credit transaction with respect to which a timely notice of rescission was sent to the creditor before June 1, 1995.
 
-(Pub. L. 90–321, title I, § 139, as added Pub. L. 104–29, § 4(a), Sept. 30, 1995, 109 Stat. 273; amended Pub. L. 104–208, div. A, title II, § 2107(a), Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 139, as added Pub. L. 104–29, § 4(a), Sept. 30, 1995, 109 Stat. 273; amended Pub. L. 104–208, div. A, title II, § 2107(a), Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5363,9 +5363,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009–402, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as of September 30, 1995.”
+Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009–402, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as of September 30, 1995.”
 
-#### § 1650. Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest
+#### § 1650. Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest
 
 **(a) Definitions** As used in this section—
 
@@ -5433,9 +5433,9 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 300
 
 **(A)** means a loan provided by a private educational lender that—
 
-**(i)** is not made, insured, or guaranteed under of 1
+**(i)** is not made, insured, or guaranteed under of 1
 
-<sup>1</sup>  So in original. The word “of” probably should not appear.
+<sup>1</sup> So in original. The word “of” probably should not appear.
 
 title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.); and
 
@@ -5511,19 +5511,19 @@ A holder or servicer of a private education loan, as applicable, shall within a 
 
 Any lender that extends a private education loan shall provide the student obligor an option to designate an individual to have the legal authority to act on behalf of the student obligor with respect to the private education loan in the event of the death of the student obligor.
 
-(Pub. L. 90–321, title I, § 140, as added Pub. L. 110–315, title X, § 1011(a), Aug. 14, 2008, 122 Stat. 3479; amended Pub. L. 111–24, title III, § 304, May 22, 2009, 123 Stat. 1749; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107; Pub. L. 115–174, title VI, § 601(a), May 24, 2018, 132 Stat. 1365.)
+(Pub. L. 90–321, title I, § 140, as added Pub. L. 110–315, title X, § 1011(a), Aug. 14, 2008, 122 Stat. 3479; amended Pub. L. 111–24, title III, § 304, May 22, 2009, 123 Stat. 1749; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107; Pub. L. 115–174, title VI, § 601(a), May 24, 2018, 132 Stat. 1365.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (a)(3)(B)(iv)(II), (8)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(3)(B)(iv)(II), (8)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–174, § 601(a)(1), added par. (1) and redesignated former pars. (1) to (8) as (2) to (9), respectively.
+2018—Subsec. (a). Pub. L. 115–174, § 601(a)(1), added par. (1) and redesignated former pars. (1) to (8) as (2) to (9), respectively.
 
-Subsec. (g). Pub. L. 115–174, § 601(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 115–174, § 601(a)(2), added subsec. (g).
 
 2010—Subsec. (f)(2)(B). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
@@ -5533,7 +5533,7 @@ Subsec. (g). Pub. L. 115–174, § 601(a)(2), added subsec. (g).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–174, title VI, § 601(b), May 24, 2018, 132 Stat. 1365, provided that: “The amendments made by subsection (a) [amending this section] shall only apply to private education loan agreements entered into on or after the date that is 180 days after the date of enactment of this Act [May 24, 2018].”
+Pub. L. 115–174, title VI, § 601(b), May 24, 2018, 132 Stat. 1365, provided that: “The amendments made by subsection (a) [amending this section] shall only apply to private education loan agreements entered into on or after the date that is 180 days after the date of enactment of this Act [May 24, 2018].”
 
 **Effective Date of 2010 Amendment**
 
@@ -5547,23 +5547,23 @@ Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as o
 
 Subsec. (c) of this section effective on the earlier of the date on which regulations issued under section 1002 of Pub. L. 110–315 (set out as a Regulations note under section 1638 of this title) become effective or 18 months after Aug. 14, 2008, see section 1003(b) of Pub. L. 110–315, set out as an Effective Date of 2008 Amendment note under section 1638 of this title. Such regulations were issued effective Sept. 14, 2009, with compliance optional until Feb. 14, 2010.
 
-#### § 1651. Procedure for timely settlement of estates of decedent obligors
+#### § 1651. Procedure for timely settlement of estates of decedent obligors
 
-The Bureau, in consultation with the Bureau 1
+The Bureau, in consultation with the Bureau 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and each other agency referred to in section 1607(a) of this title, shall prescribe regulations to require any creditor, with respect to any credit card account under an open end consumer credit plan, to establish procedures to ensure that any administrator of an estate of any deceased obligor with respect to such account can resolve outstanding credit balances in a timely manner.
 
-(Pub. L. 90–321, title I, § 140A, as added Pub. L. 111–24, title V, § 504(a), May 22, 2009, 123 Stat. 1756; amended Pub. L. 111–203, title X, § 1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 140A, as added Pub. L. 111–24, title V, § 504(a), May 22, 2009, 123 Stat. 1756; amended Pub. L. 111–203, title X, § 1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100A(3), substituted “the Bureau” for “the Federal Trade Commission”.
+2010—Pub. L. 111–203, § 1100A(3), substituted “the Bureau” for “the Federal Trade Commission”.
 
-Pub. L. 111–203, § 1100A(2), substituted “The Bureau” for “The Board”.
+Pub. L. 111–203, § 1100A(2), substituted “The Bureau” for “The Board”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5577,19 +5577,19 @@ Section effective 9 months after May 22, 2009, except as otherwise specifically 
 
 ### Part C—Credit Advertising and Limits on Credit Card Fees
 
-#### § 1661. Catalogs and multiple-page advertisements
+#### § 1661. Catalogs and multiple-page advertisements
 
 For the purposes of this part, a catalog or other multiple-page advertisement shall be considered a single advertisement if it clearly and conspicuously displays a credit terms table on which the information required to be stated under this part is clearly set forth.
 
-(Pub. L. 90–321, title I, § 141, May 29, 1968, 82 Stat. 158.)
+(Pub. L. 90–321, title I, § 141, May 29, 1968, 82 Stat. 158.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 90–321, title V, § 504(b), May 29, 1968, 82 Stat. 167, provided that chapter 3 of title I, which enacted sections 1661 to 1665 of this title, is effective July 1, 1969.
+Pub. L. 90–321, title V, § 504(b), May 29, 1968, 82 Stat. 167, provided that chapter 3 of title I, which enacted sections 1661 to 1665 of this title, is effective July 1, 1969.
 
-#### § 1662. Advertising of downpayments and installments
+#### § 1662. Advertising of downpayments and installments
 
 No advertisement to aid, promote, or assist directly or indirectly any extension of consumer credit may state
 
@@ -5597,9 +5597,9 @@ No advertisement to aid, promote, or assist directly or indirectly any extension
 
 **(2)** that a specified downpayment is required in connection with any extension of consumer credit, unless the creditor usually and customarily arranges downpayments in that amount.
 
-(Pub. L. 90–321, title I, § 142, May 29, 1968, 82 Stat. 158.)
+(Pub. L. 90–321, title I, § 142, May 29, 1968, 82 Stat. 158.)
 
-#### § 1663. Advertising of open end credit plans
+#### § 1663. Advertising of open end credit plans
 
 No advertisement to aid, promote, or assist directly or indirectly the extension of consumer credit under an open end credit plan may set forth any of the specific terms of that plan unless it also clearly and conspicuously sets forth all of the following items:
 
@@ -5609,7 +5609,7 @@ No advertisement to aid, promote, or assist directly or indirectly the extension
 
 **(3)** Any other term that the Bureau may by regulation require to be disclosed.
 
-(Pub. L. 90–321, title I, § 143, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, §§ 613(f), 619(a), Mar. 31, 1980, 94 Stat. 177, 183; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 143, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, §§ 613(f), 619(a), Mar. 31, 1980, 94 Stat. 177, 183; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5629,7 +5629,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1664. Advertising of credit other than open end plans
+#### § 1664. Advertising of credit other than open end plans
 
 **(a) Exclusion of open end credit plans**
 
@@ -5657,7 +5657,7 @@ If any advertisement to which this section applies states the rate of a finance 
 
 **(2)** the consumer should consult a tax adviser for further information regarding the deductibility of interest and charges.
 
-(Pub. L. 90–321, title I, § 144, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, § 619(b), Mar. 31, 1980, 94 Stat. 183; Pub. L. 109–8, title XIII, § 1302(b)(2), Apr. 20, 2005, 119 Stat. 209; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 144, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, § 619(b), Mar. 31, 1980, 94 Stat. 183; Pub. L. 109–8, title XIII, § 1302(b)(2), Apr. 20, 2005, 119 Stat. 209; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5683,17 +5683,17 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1665. Nonliability of advertising media
+#### § 1665. Nonliability of advertising media
 
 There is no liability under this part on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.
 
-(Pub. L. 90–321, title I, § 145, May 29, 1968, 82 Stat. 159.)
+(Pub. L. 90–321, title I, § 145, May 29, 1968, 82 Stat. 159.)
 
-#### § 1665a. Use of annual percentage rate in oral disclosures; exceptions
+#### § 1665a. Use of annual percentage rate in oral disclosures; exceptions
 
 In responding orally to any inquiry about the cost of credit, a creditor, regardless of the method used to compute finance charges, shall state rates only in terms of the annual percentage rate, except that in the case of an open end credit plan, the periodic rate also may be stated and, in the case of an other than open end credit plan where a major component of the finance charge consists of interest computed at a simple annual rate, the simple annual rate also may be stated. The Bureau may, by regulation, modify the requirements of this section or provide an exception from this section for a transaction or class of transactions for which the creditor cannot determine in advance the applicable annual percentage rate.
 
-(Pub. L. 90–321, title I, § 146, as added Pub. L. 93–495, title IV, § 401(a), Oct. 28, 1974, 88 Stat. 1517; amended Pub. L. 96–221, title VI, § 623(a), Mar. 31, 1980, 94 Stat. 185; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 146, as added Pub. L. 93–495, title IV, § 401(a), Oct. 28, 1974, 88 Stat. 1517; amended Pub. L. 96–221, title VI, § 623(a), Mar. 31, 1980, 94 Stat. 185; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5715,9 +5715,9 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 **Effective Date**
 
-Pub. L. 93–495, title IV, § 416, Oct. 28, 1974, 88 Stat. 1521, provided that: “This title [enacting this section and sections 1614 and 1645 of this title, amending sections 1603, 1607, 1635, 1637, 1640, and 1644 of this title, and enacting provision set out as a note under section 1640 of this title] takes effect upon the date of its enactment [Oct. 28, 1974], except that sections 409 [amending section 1631 of this title] and 411 [amending section 1637 of this title] take effect upon the expiration of one year after the date of its enactment [Oct. 28, 1974].”
+Pub. L. 93–495, title IV, § 416, Oct. 28, 1974, 88 Stat. 1521, provided that: “This title [enacting this section and sections 1614 and 1645 of this title, amending sections 1603, 1607, 1635, 1637, 1640, and 1644 of this title, and enacting provision set out as a note under section 1640 of this title] takes effect upon the date of its enactment [Oct. 28, 1974], except that sections 409 [amending section 1631 of this title] and 411 [amending section 1637 of this title] take effect upon the expiration of one year after the date of its enactment [Oct. 28, 1974].”
 
-#### § 1665b. Advertising of open end consumer credit plans secured by consumer’s principal dwelling
+#### § 1665b. Advertising of open end consumer credit plans secured by consumer’s principal dwelling
 
 **(a) In general** If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit are secured by the consumer’s principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Bureau may require:
 
@@ -5777,7 +5777,7 @@ If any advertisement described in subsection (a) contains a statement regarding 
 
 **(2)** the aggregate amount of the minimum periodic payments required would not fully amortize such outstanding balance by such date or at the end of such period.
 
-(Pub. L. 90–321, title I, § 147, as added Pub. L. 100–709, § 2(c), Nov. 23, 1988, 102 Stat. 4730; amended Pub. L. 109–8, title XIII, § 1302(a)(2), Apr. 20, 2005, 119 Stat. 208; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 147, as added Pub. L. 100–709, § 2(c), Nov. 23, 1988, 102 Stat. 4730; amended Pub. L. 109–8, title XIII, § 1302(a)(2), Apr. 20, 2005, 119 Stat. 208; Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5805,7 +5805,7 @@ For effective date of section, see Regulations; Effective Date note below.
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709 [enacting this section], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-#### § 1665c. Interest rate reduction on open end consumer credit plans
+#### § 1665c. Interest rate reduction on open end consumer credit plans
 
 **(a) In general**
 
@@ -5827,13 +5827,13 @@ This section shall not be construed to require a reduction in any specific amoun
 
 **(d) Rulemaking**
 
-The Bureau 1
+The Bureau 1
 
-<sup>1</sup>  So in original. Probably should be “Board”.
+<sup>1</sup> So in original. Probably should be “Board”.
 
 shall issue final rules not later than 9 months after May 22, 2009, to implement the requirements of and evaluate compliance with this section, and subsections (a), (b), and (c) shall become effective 15 months after May 22, 2009.
 
-(Pub. L. 90–321, title I, § 148, as added Pub. L. 111–24, title I, § 101(c), May 22, 2009, 123 Stat. 1737; amended Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 148, as added Pub. L. 111–24, title I, § 101(c), May 22, 2009, 123 Stat. 1737; amended Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -5851,7 +5851,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as an Effective Date of 2009 Amendment note under section 1602 of this title.
 
-#### § 1665d. Reasonable penalty fees on open end consumer credit plans
+#### § 1665d. Reasonable penalty fees on open end consumer credit plans
 
 **(a) In general**
 
@@ -5879,13 +5879,13 @@ In issuing rules required by this subsection, the Bureau may establish different
 
 The Bureau, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, may issue rules to provide an amount for any penalty fee or charge described under subsection (a) that is presumed to be reasonable and proportional to the omission or violation to which the fee or charge relates.
 
-(Pub. L. 90–321, title I, § 149, as added Pub. L. 111–24, title I, § 102(b)(1), May 22, 2009, 123 Stat. 1740; amended Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 149, as added Pub. L. 111–24, title I, § 102(b)(1), May 22, 2009, 123 Stat. 1740; amended Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsecs. (b) to (e). Pub. L. 111–203, § 1100A(2), which directed amendment of this section by substituting “Bureau” for “Board” wherever appearing, was executed by making the substitution for “Board” the first time appearing in subsecs. (b) and (e), and wherever appearing in subsecs. (c) and (d), to reflect the probable intent of Congress.
+2010—Subsecs. (b) to (e). Pub. L. 111–203, § 1100A(2), which directed amendment of this section by substituting “Bureau” for “Board” wherever appearing, was executed by making the substitution for “Board” the first time appearing in subsecs. (b) and (e), and wherever appearing in subsecs. (c) and (d), to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5897,11 +5897,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as an Effective Date of 2009 Amendment note under section 1602 of this title.
 
-#### § 1665e. Consideration of ability to repay
+#### § 1665e. Consideration of ability to repay
 
 A card issuer may not open any credit card account for any consumer under an open end consumer credit plan, or increase any credit limit applicable to such account, unless the card issuer considers the ability of the consumer to make the required payments under the terms of such account.
 
-(Pub. L. 90–321, title I, § 150, as added Pub. L. 111–24, title I, § 109(a), May 22, 2009, 123 Stat. 1743.)
+(Pub. L. 90–321, title I, § 150, as added Pub. L. 111–24, title I, § 109(a), May 22, 2009, 123 Stat. 1743.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5911,7 +5911,7 @@ Section effective 9 months after May 22, 2009, except as otherwise specifically 
 
 ### Part D—Credit Billing
 
-#### § 1666. Correction of billing errors
+#### § 1666. Correction of billing errors
 
 **(a) Written notice by obligor to creditor; time for and contents of notice; procedure upon receipt of notice by creditor** If a creditor, within sixty days after having transmitted to an obligor a statement of the obligor’s account in connection with an extension of consumer credit, receives at the address disclosed under section 1637(b)(10) of this title a written notice (other than notice on a payment stub or other payment medium supplied by the creditor if the creditor so stipulates with the disclosure required under section 1637(a)(7) of this title) from the obligor in which the obligor—
 
@@ -5965,23 +5965,23 @@ Pursuant to regulations of the Bureau, a creditor operating an open end consumer
 
 Any creditor who fails to comply with the requirements of this section or section 1666a of this title forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
 
-(Pub. L. 90–321, title I, § 161, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1512; amended Pub. L. 96–221, title VI §§ 613(g), 620, Mar. 31, 1980, 94 Stat. 177, 184; Pub. L. 111–203, title X, §§ 1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
+(Pub. L. 90–321, title I, § 161, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1512; amended Pub. L. 96–221, title VI §§ 613(g), 620, Mar. 31, 1980, 94 Stat. 177, 184; Pub. L. 111–203, title X, §§ 1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 161 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
+Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 161 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
 
 **Amendments**
 
-2010—Subsecs. (b)(7), (d). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board”. See Codification note above.
+2010—Subsecs. (b)(7), (d). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board”. See Codification note above.
 
-1980—Subsec. (a). Pub. L. 96–221, § 613(g), substituted “(b)(10)” for “(b)(11)” and “(a)(7)” for “(a)(8)”.
+1980—Subsec. (a). Pub. L. 96–221, § 613(g), substituted “(b)(10)” for “(b)(11)” and “(a)(7)” for “(a)(8)”.
 
-Subsec. (b)(6), (7). Pub. L. 96–221, § 620(a), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (b)(6), (7). Pub. L. 96–221, § 620(a), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (c). Pub. L. 96–221, § 620(b), inserted provisions respecting finance charges on amounts in dispute.
+Subsec. (c). Pub. L. 96–221, § 620(b), inserted provisions respecting finance charges on amounts in dispute.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5995,13 +5995,13 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 **Effective Date**
 
-Pub. L. 93–495, title III, § 308, Oct. 28, 1974, 88 Stat. 1517, provided that: “This title [enacting this section and sections 1666a to 1666j of this title, amending sections 1601, 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1601 of this title] takes effect upon the expiration of one year after the date of its enactment [Oct. 28, 1974].”
+Pub. L. 93–495, title III, § 308, Oct. 28, 1974, 88 Stat. 1517, provided that: “This title [enacting this section and sections 1666a to 1666j of this title, amending sections 1601, 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1601 of this title] takes effect upon the expiration of one year after the date of its enactment [Oct. 28, 1974].”
 
 **Short Title**
 
 Title III of Pub. L. 93–495, which is classified principally to this part, is known as the “Fair Credit Billing Act”. For complete classification of Title III to the Code, see Short Title of 1974 Amendment note set out under section 1601 of this title and Tables.
 
-#### § 1666a. Regulation of credit reports
+#### § 1666a. Regulation of credit reports
 
 **(a) Reports by creditor on obligor’s failure to pay amount regarded as billing error**
 
@@ -6015,9 +6015,9 @@ If a creditor receives a further written notice from an obligor that an amount i
 
 A creditor shall report any subsequent resolution of any delinquencies reported pursuant to subsection (b) to the parties to whom such delinquencies were initially reported.
 
-(Pub. L. 90–321, title I, § 162, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1513.)
+(Pub. L. 90–321, title I, § 162, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1513.)
 
-#### § 1666b. Timing of payments
+#### § 1666b. Timing of payments
 
 **(a) Time to make payments**
 
@@ -6027,7 +6027,7 @@ A creditor may not treat a payment on a credit card account under an open end co
 
 If an open end consumer credit plan provides a time period within which an obligor may repay any portion of the credit extended without incurring an additional finance charge, such additional finance charge may not be imposed with respect to such portion of the credit extended for the billing cycle of which such period is a part, unless a statement which includes the amount upon which the finance charge for the period is based was mailed or delivered to the consumer not later than 21 days before the date specified in the statement by which payment must be made in order to avoid imposition of that finance charge.
 
-(Pub. L. 90–321, title I, § 163, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 111–24, title I, § 106(b)(1), May 22, 2009, 123 Stat. 1742; Pub. L. 111–93, § 2, Nov. 6, 2009, 123 Stat. 2998.)
+(Pub. L. 90–321, title I, § 163, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 111–24, title I, § 106(b)(1), May 22, 2009, 123 Stat. 1742; Pub. L. 111–93, § 2, Nov. 6, 2009, 123 Stat. 2998.)
 
 **Editorial Notes**
 
@@ -6041,9 +6041,9 @@ Subsec. (a). Pub. L. 111–93 inserted “a credit card account under” after �
 
 **Effective Date**
 
-Pub. L. 111–24, title I, § 106(b)(2), May 22, 2009, 123 Stat. 1742, provided that: “Notwithstanding section 3 [see Effective Date of 2009 Amendment note set out under section 1602 of this title], section 163 of the Truth in Lending Act [15 U.S.C. 1666b], as amended by this subsection, shall become effective 90 days after the date of enactment of this Act [May 22, 2009].”
+Pub. L. 111–24, title I, § 106(b)(2), May 22, 2009, 123 Stat. 1742, provided that: “Notwithstanding section 3 [see Effective Date of 2009 Amendment note set out under section 1602 of this title], section 163 of the Truth in Lending Act [15 U.S.C. 1666b], as amended by this subsection, shall become effective 90 days after the date of enactment of this Act [May 22, 2009].”
 
-#### § 1666c. Prompt and fair crediting of payments
+#### § 1666c. Prompt and fair crediting of payments
 
 **(a) In general**
 
@@ -6063,23 +6063,23 @@ A creditor shall allocate the entire amount paid by the consumer in excess of th
 
 If a card issuer makes a material change in the mailing address, office, or procedures for handling cardholder payments, and such change causes a material delay in the crediting of a cardholder payment made during the 60-day period following the date on which such change took effect, the card issuer may not impose any late fee or finance charge for a late payment on the credit card account to which such payment was credited.
 
-(Pub. L. 90–321, title I, § 164, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 111–24, title I, § 104, May 22, 2009, 123 Stat. 1741; Pub. L. 111–203, title X, §§ 1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
+(Pub. L. 90–321, title I, § 164, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 111–24, title I, § 104, May 22, 2009, 123 Stat. 1741; Pub. L. 111–203, title X, §§ 1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 164 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
+Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 164 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board”. See Codification note above.
+2010—Subsec. (a). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board”. See Codification note above.
 
-2009—Pub. L. 111–24, § 104(1), substituted “Prompt and fair crediting of payments” for “Prompt crediting of payments” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
+2009—Pub. L. 111–24, § 104(1), substituted “Prompt and fair crediting of payments” for “Prompt crediting of payments” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
 
-Subsec. (a). Pub. L. 111–24, § 104(2), (3), inserted “, by 5:00 p.m. on the date on which such payment is due,” after “in readily identifiable form” and substituted “manner, and location” for “manner, location, and time”.
+Subsec. (a). Pub. L. 111–24, § 104(2), (3), inserted “, by 5:00 p.m. on the date on which such payment is due,” after “in readily identifiable form” and substituted “manner, and location” for “manner, location, and time”.
 
-Subsecs. (b), (c). Pub. L. 111–24, § 104(4), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 111–24, § 104(4), added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6091,7 +6091,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as a note under section 1602 of this title.
 
-#### § 1666d. Treatment of credit balances
+#### § 1666d. Treatment of credit balances
 
 Whenever a credit balance in excess of $1 is created in connection with a consumer credit transaction through (1) transmittal of funds to a creditor in excess of the total balance due on an account, (2) rebates of unearned finance charges or insurance premiums, or (3) amounts otherwise owed to or held for the benefit of an obligor, the creditor shall—
 
@@ -6101,7 +6101,7 @@ Whenever a credit balance in excess of $1 is created in connection with a consum
 
 **(C)** make a good faith effort to refund to the consumer by cash, check, or money order any part of the amount of the credit balance remaining in the account for more than six months, except that no further action is required in any case in which the consumer’s current location is not known by the creditor and cannot be traced through the consumer’s last known address or telephone number.
 
-(Pub. L. 90–321, title I, § 165, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 96–221, title VI, § 621(a), Mar. 31, 1980, 94 Stat. 184.)
+(Pub. L. 90–321, title I, § 165, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 96–221, title VI, § 621(a), Mar. 31, 1980, 94 Stat. 184.)
 
 **Editorial Notes**
 
@@ -6115,19 +6115,19 @@ Whenever a credit balance in excess of $1 is created in connection with a consum
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1666e. Notification of credit card issuer by seller of return of goods, etc., by obligor; credit for account of obligor
+#### § 1666e. Notification of credit card issuer by seller of return of goods, etc., by obligor; credit for account of obligor
 
 With respect to any sales transaction where a credit card has been used to obtain credit, where the seller is a person other than the card issuer, and where the seller accepts or allows a return of the goods or forgiveness of a debit for services which were the subject of such sale, the seller shall promptly transmit to the credit card issuer, a credit statement with respect thereto and the credit card issuer shall credit the account of the obligor for the amount of the transaction.
 
-(Pub. L. 90–321, title I, § 166, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1514.)
+(Pub. L. 90–321, title I, § 166, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1514.)
 
-#### § 1666f. Inducements to cardholders by sellers of cash discounts for payments by cash, check or similar means; finance charge for sales transactions involving cash discounts
+#### § 1666f. Inducements to cardholders by sellers of cash discounts for payments by cash, check or similar means; finance charge for sales transactions involving cash discounts
 
 **(a) Cash discounts**
 
-With respect to credit 1
+With respect to credit 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “a”.
+<sup>1</sup> So in original. Probably should be preceded by “a”.
 
 card which may be used for extensions of credit in sales transactions in which the seller is a person other than the card issuer, the card issuer may not, by contract or otherwise, prohibit any such seller from offering a discount to a cardholder to induce the cardholder to pay by cash, check, or similar means rather than use a credit card.
 
@@ -6135,7 +6135,7 @@ card which may be used for extensions of credit in sales transactions in which t
 
 With respect to any sales transaction, any discount from the regular price offered by the seller for the purpose of inducing payment by cash, checks, or other means not involving the use of an open-end credit plan or a credit card shall not constitute a finance charge as determined under section 1605 of this title if such discount is offered to all prospective buyers and its availability is disclosed clearly and conspicuously.
 
-(Pub. L. 90–321, title I, § 167, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1515; amended Pub. L. 94–222, § 3(c)(1), Feb. 27, 1976, 90 Stat. 197; Pub. L. 97–25, title I, § 101, July 27, 1981, 95 Stat. 144.)
+(Pub. L. 90–321, title I, § 167, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1515; amended Pub. L. 94–222, § 3(c)(1), Feb. 27, 1976, 90 Stat. 197; Pub. L. 97–25, title I, § 101, July 27, 1981, 95 Stat. 144.)
 
 **Editorial Notes**
 
@@ -6149,19 +6149,19 @@ With respect to any sales transaction, any discount from the regular price offer
 
 **Termination Date of 1976 Amendment**
 
-Section 3(c)(2) of Pub. L. 94–222, as amended by Pub. L. 95–630, title XV, § 1501, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 97–25, title II, § 201, July 27, 1981, 95 Stat. 44, provided that: “The amendments made by paragraph (1) [amending this section] shall cease to be effective on February 27, 1984.”
+Section 3(c)(2) of Pub. L. 94–222, as amended by Pub. L. 95–630, title XV, § 1501, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 97–25, title II, § 201, July 27, 1981, 95 Stat. 44, provided that: “The amendments made by paragraph (1) [amending this section] shall cease to be effective on February 27, 1984.”
 
 **Nullification of Board Rules and Regulations Under Subsection (b) of This Section in Effect on July 26, 1981**
 
-Pub. L. 97–25, title I, § 103, July 27, 1981, 95 Stat. 144, provided that: “Any rule or regulation of the Board of Governors of the Federal Reserve System pursuant to section 167(b) of the Truth in Lending Act [subsec. (b) of this section], as such section was in effect on the day before the date of enactment of this Act [July 27, 1981], is null and void.”
+Pub. L. 97–25, title I, § 103, July 27, 1981, 95 Stat. 144, provided that: “Any rule or regulation of the Board of Governors of the Federal Reserve System pursuant to section 167(b) of the Truth in Lending Act [subsec. (b) of this section], as such section was in effect on the day before the date of enactment of this Act [July 27, 1981], is null and void.”
 
-#### § 1666g. Tie-in services prohibited for issuance of credit card
+#### § 1666g. Tie-in services prohibited for issuance of credit card
 
 Notwithstanding any agreement to the contrary, a card issuer may not require a seller, as a condition to participating in a credit card plan, to open an account with or procure any other service from the card issuer or its subsidiary or agent.
 
-(Pub. L. 90–321, title I, § 168, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1515.)
+(Pub. L. 90–321, title I, § 168, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1515.)
 
-#### § 1666h. Offset of cardholder’s indebtedness by issuer of credit card with funds deposited with issuer by cardholder; remedies of creditors under State law not affected
+#### § 1666h. Offset of cardholder’s indebtedness by issuer of credit card with funds deposited with issuer by cardholder; remedies of creditors under State law not affected
 
 **(a) Offset against consumer’s funds** A card issuer may not take any action to offset a cardholder’s indebtedness arising in connection with a consumer credit transaction under the relevant credit card plan against funds of the cardholder held on deposit with the card issuer unless—
 
@@ -6175,7 +6175,7 @@ In the case of any credit card account in existence on the effective date of thi
 
 This section does not alter or affect the right under State law of a card issuer to attach or otherwise levy upon funds of a cardholder held on deposit with the card issuer if that remedy is constitutionally available to creditors generally.
 
-(Pub. L. 90–321, title I, § 169, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1515.)
+(Pub. L. 90–321, title I, § 169, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1515.)
 
 **Editorial Notes**
 
@@ -6183,7 +6183,7 @@ This section does not alter or affect the right under State law of a card issuer
 
 For effective date of this section, referred to in subsec. (a), see Effective Date note set out under section 1666 of this title.
 
-#### § 1666i. Assertion by cardholder against card issuer of claims and defenses arising out of credit card transaction; prerequisites; limitation on amount of claims or defenses
+#### § 1666i. Assertion by cardholder against card issuer of claims and defenses arising out of credit card transaction; prerequisites; limitation on amount of claims or defenses
 
 **(a) Claims and defenses assertible**
 
@@ -6193,9 +6193,9 @@ Subject to the limitation contained in subsection (b), a card issuer who has iss
 
 The amount of claims or defenses asserted by the cardholder may not exceed the amount of credit outstanding with respect to such transaction at the time the cardholder first notifies the card issuer or the person honoring the credit card of such claim or defense. For the purpose of determining the amount of credit outstanding in the preceding sentence, payments and credits to the cardholder’s account are deemed to have been applied, in the order indicated, to the payment of: (1) late charges in the order of their entry to the account; (2) finance charges in order of their entry to the account; and (3) debits to the account other than those set forth above, in the order in which each debit entry to the account was made.
 
-(Pub. L. 90–321, title I, § 170, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1515.)
+(Pub. L. 90–321, title I, § 170, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1515.)
 
-#### § 1666i–1. Limits on interest rate, fee, and finance charge increases applicable to outstanding balances
+#### § 1666i–1. Limits on interest rate, fee, and finance charge increases applicable to outstanding balances
 
 **(a) In general**
 
@@ -6241,7 +6241,7 @@ The creditor shall not change the terms governing the repayment of any outstandi
 
 For purposes of this section, the term “outstanding balance” means the amount owed on a credit card account under an open end consumer credit plan as of the end of the 14th day after the date on which the creditor provides notice of an increase in the annual percentage rate, fee, or finance charge in accordance with section 1637(i) of this title.
 
-(Pub. L. 90–321, title I, § 171, as added Pub. L. 111–24, title I, § 101(b)(2), May 22, 2009, 123 Stat. 1736.)
+(Pub. L. 90–321, title I, § 171, as added Pub. L. 111–24, title I, § 101(b)(2), May 22, 2009, 123 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -6255,7 +6255,7 @@ A prior section 171 of Pub. L. 90–321 was renumbered section 173 and is classi
 
 Section effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as an Effective Date of 2009 Amendment note under section 1602 of this title.
 
-#### § 1666i–2. Additional limits on interest rate increases
+#### § 1666i–2. Additional limits on interest rate increases
 
 **(a) Limitation on increases within first year**
 
@@ -6265,7 +6265,7 @@ Except in the case of an increase described in paragraph (1), (2), (3), or (4) o
 
 No increase in any annual percentage rate applicable to a credit card account under an open end consumer credit plan that is a promotional rate (as that term is defined by the Bureau) shall be effective before the end of the 6-month period beginning on the date on which the promotional rate takes effect, subject to such reasonable exceptions as the Bureau may establish, by rule.
 
-(Pub. L. 90–321, title I, § 172, as added Pub. L. 111–24, title I, § 101(d), May 22, 2009, 123 Stat. 1738; amended Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, § 172, as added Pub. L. 111–24, title I, § 101(d), May 22, 2009, 123 Stat. 1738; amended Pub. L. 111–203, title X, § 1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -6283,7 +6283,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as an Effective Date of 2009 Amendment note under section 1602 of this title.
 
-#### § 1666j. Applicability of State laws
+#### § 1666j. Applicability of State laws
 
 **(a) Consistency of provisions**
 
@@ -6297,17 +6297,17 @@ The Bureau shall by regulation exempt from the requirements of this part any cla
 
 Notwithstanding any other provisions of this subchapter, any discount offered under section 1666f(b) of this title shall not be considered a finance charge or other charge for credit under the usury laws of any State or under the laws of any State relating to disclosure of information in connection with credit transactions, or relating to the types, amounts or rates of charges, or to any element or elements of charges permissible under such laws in connection with the extension or use of credit.
 
-(Pub. L. 90–321, title I, § 173, formerly § 171, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1516; amended Pub. L. 94–222, § 3(d), Feb. 27, 1976, 90 Stat. 198; renumbered § 173, Pub. L. 111–24, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1736; Pub. L. 111–203, title X, §§ 1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
+(Pub. L. 90–321, title I, § 173, formerly § 171, as added Pub. L. 93–495, title III, § 306, Oct. 28, 1974, 88 Stat. 1516; amended Pub. L. 94–222, § 3(d), Feb. 27, 1976, 90 Stat. 198; renumbered § 173, Pub. L. 111–24, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1736; Pub. L. 111–203, title X, §§ 1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 173 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
+Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 173 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
 
 **Amendments**
 
-2010—Subsecs. (a), (b). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing. See Codification note above.
+2010—Subsecs. (a), (b). Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing. See Codification note above.
 
 1976—Subsec. (c). Pub. L. 94–222 added subsec. (c).
 
@@ -6319,17 +6319,17 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 ### Part E—Consumer Leases
 
-#### § 1667. Definitions
+#### § 1667. Definitions
 
 For purposes of this part—
 
 **(1)** The term “consumer lease” means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,1
 
-<sup>1</sup>  See Adjustments for Inflation note below.
+<sup>1</sup> See Adjustments for Inflation note below.
 
-primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) 2
+primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
 
@@ -6341,13 +6341,13 @@ of this title. Such term does not include a lease for agricultural, business, or
 
 **(5)** The terms “security” and “security interest” mean any interest in property which secures payment or performance of an obligation.
 
-(Pub. L. 90–321, title I, § 181, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 257; amended Pub. L. 111–203, title X, § 1100E(a)(2), July 21, 2010, 124 Stat. 2111.)
+(Pub. L. 90–321, title I, § 181, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 257; amended Pub. L. 111–203, title X, § 1100E(a)(2), July 21, 2010, 124 Stat. 2111.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(g) of this title, referred to in par. (1), was redesignated section 1602(h) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(g) of this title, referred to in par. (1), was redesignated section 1602(h) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
@@ -6361,13 +6361,13 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date**
 
-Pub. L. 94–240, § 6, Mar. 23, 1976, 90 Stat. 261, provided that: “This Act [enacting this section and sections 1667a to 1667e of this title, amending sections 1601 and 1640 of this title, and enacting provisions set out as a note under section 1601 of this title] takes effect one year after the date of its enactment [Mar. 23, 1976].”
+Pub. L. 94–240, § 6, Mar. 23, 1976, 90 Stat. 261, provided that: “This Act [enacting this section and sections 1667a to 1667e of this title, amending sections 1601 and 1640 of this title, and enacting provisions set out as a note under section 1601 of this title] takes effect one year after the date of its enactment [Mar. 23, 1976].”
 
 **Adjustments for Inflation**
 
 On and after Dec. 31, 2011, dollar amount described in par. (1) of this section to be adjusted annually by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, see section 1100E(b) of Pub. L. 111–203, set out as a note under section 1603 of this title.
 
-#### § 1667a. Consumer lease disclosures
+#### § 1667a. Consumer lease disclosures
 
 Each lessor shall give a lessee prior to the consummation of the lease a dated written statement on which the lessor and lessee are identified setting out accurately and in a clear and conspicuous manner the following information with respect to that lease, as applicable:
 
@@ -6395,13 +6395,13 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Bureau may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
 
-(Pub. L. 90–321, title I, § 182, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 258; amended Pub. L. 111–203, title X, § 1100A(2), (10)(B), July 21, 2010, 124 Stat. 2107, 2109.)
+(Pub. L. 90–321, title I, § 182, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 258; amended Pub. L. 111–203, title X, § 1100A(2), (10)(B), July 21, 2010, 124 Stat. 2107, 2109.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100A(2), (10)(B), made similar amendments, resulting in the substitution of “The Bureau” for “The Board” in concluding provisions.
+2010—Pub. L. 111–203, § 1100A(2), (10)(B), made similar amendments, resulting in the substitution of “The Bureau” for “The Board” in concluding provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6409,7 +6409,7 @@ The disclosures required under this section may be made in the lease contract to
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-#### § 1667b. Lessee’s liability on expiration or termination of lease
+#### § 1667b. Lessee’s liability on expiration or termination of lease
 
 **(a) Estimated residual value of property as basis; presumptions; action by lessor for excess liability; mutually agreeable final adjustment**
 
@@ -6423,9 +6423,9 @@ Penalties or other charges for delinquency, default, or early termination may be
 
 If a lease has a residual value provision at the termination of the lease, the lessee may obtain at his expense, a professional appraisal of the leased property by an independent third party agreed to by both parties. Such appraisal shall be final and binding on the parties.
 
-(Pub. L. 90–321, title I, § 183, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 259.)
+(Pub. L. 90–321, title I, § 183, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 259.)
 
-#### § 1667c. Consumer lease advertising; liability of advertising media
+#### § 1667c. Consumer lease advertising; liability of advertising media
 
 **(a) In general** If an advertisement for a consumer lease includes a statement of the amount of any payment or a statement that any or no initial payment is required, the advertisement shall clearly and conspicuously state, as applicable—
 
@@ -6485,19 +6485,19 @@ The information required to be provided under subparagraph (A)(iii) shall be pro
 
 Nothing in this subsection shall affect the requirements of Federal law as such requirements apply to advertisement by any medium other than radio broadcast.
 
-(Pub. L. 90–321, title I, § 184, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, § 336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, § 2605(c), Sept. 30, 1996, 110 Stat. 3009–473; Pub. L. 111–203, title X, § 1100A(2), (10)(A), July 21, 2010, 124 Stat. 2107, 2109.)
+(Pub. L. 90–321, title I, § 184, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, § 336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, § 2605(c), Sept. 30, 1996, 110 Stat. 3009–473; Pub. L. 111–203, title X, § 1100A(2), (10)(A), July 21, 2010, 124 Stat. 2107, 2109.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (c)(1)(D). Pub. L. 111–203, § 1100A(2), (10)(A), made similar amendments, resulting in the substitution of “the Bureau” for “the Board”.
+2010—Subsec. (c)(1)(D). Pub. L. 111–203, § 1100A(2), (10)(A), made similar amendments, resulting in the substitution of “the Bureau” for “the Board”.
 
-1996—Subsec. (a). Pub. L. 104–208, § 2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
+1996—Subsec. (a). Pub. L. 104–208, § 2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
 
-Subsec. (b). Pub. L. 104–208, § 2605(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 104–208, § 2605(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–208, § 2605(c)(1), (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: “There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.”
+Subsec. (c). Pub. L. 104–208, § 2605(c)(1), (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: “There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.”
 
 1994—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -6509,9 +6509,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Study of Advertising Rules**
 
-Pub. L. 103–325, title III, § 336(b), Sept. 23, 1994, 108 Stat. 2235, provided that not later than 365 days after Sept. 23, 1994, the Board of Governors of the Federal Reserve System shall submit a report to the Congress on credit advertising rules.
+Pub. L. 103–325, title III, § 336(b), Sept. 23, 1994, 108 Stat. 2235, provided that not later than 365 days after Sept. 23, 1994, the Board of Governors of the Federal Reserve System shall submit a report to the Congress on credit advertising rules.
 
-#### § 1667d. Civil liability of lessors
+#### § 1667d. Civil liability of lessors
 
 **(a) Grounds for maintenance of action**
 
@@ -6525,7 +6525,7 @@ Any lessor who fails to comply with any requirement imposed under section 1667c 
 
 Notwithstanding section 1640(e) of this title, any action under this section may be brought in any United States district court or in any other court of competent jurisdiction. Such actions alleging a failure to disclose or otherwise comply with the requirements of this part shall be brought within one year of the termination of the lease agreement.
 
-(Pub. L. 90–321, title I, § 185, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 260; amended Pub. L. 96–221, title VI, § 624, Mar. 31, 1980, 94 Stat. 185.)
+(Pub. L. 90–321, title I, § 185, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 260; amended Pub. L. 96–221, title VI, § 624, Mar. 31, 1980, 94 Stat. 185.)
 
 **Editorial Notes**
 
@@ -6539,19 +6539,19 @@ Notwithstanding section 1640(e) of this title, any action under this section may
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### § 1667e. Applicability of State laws; exemptions by Bureau from leasing requirements
+#### § 1667e. Applicability of State laws; exemptions by Bureau from leasing requirements
 
 **(a)** This part does not annul, alter, or affect, or exempt any person subject to the provisions of this part from complying with, the laws of any State with respect to consumer leases, except to the extent that those laws are inconsistent with any provision of this part, and then only to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this part if the Bureau determines that such law gives greater protection and benefit to the consumer.
 
 **(b)** The Bureau shall by regulation exempt from the requirements of this part any class of lease transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this part or that such law gives greater protection and benefit to the consumer, and that there is adequate provision for enforcement.
 
-(Pub. L. 90–321, title I, § 186, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 260; amended Pub. L. 111–203, title X, § 1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
+(Pub. L. 90–321, title I, § 186, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 260; amended Pub. L. 111–203, title X, § 1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6559,7 +6559,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-#### § 1667f. Regulations
+#### § 1667f. Regulations
 
 **(a) Regulations authorized**
 
@@ -6569,9 +6569,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **(B)** to prevent any circumvention of this part; or
 
-**(C)** to facilitate compliance with the requirements of the 1
+**(C)** to facilitate compliance with the requirements of the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 part.
 
@@ -6597,13 +6597,13 @@ A lessor may utilize a model disclosure form established by the Bureau under thi
 
 Any lessor who properly uses the material aspects of any model disclosure form established by the Bureau under this subsection shall be deemed to be in compliance with the disclosure requirements to which the form relates.
 
-(Pub. L. 90–321, title I, § 187, as added Pub. L. 104–208, div. A, title II, § 2605(b)(1), Sept. 30, 1996, 110 Stat. 3009–471; amended Pub. L. 111–203, title X, § 1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
+(Pub. L. 90–321, title I, § 187, as added Pub. L. 104–208, div. A, title II, § 2605(b)(1), Sept. 30, 1996, 110 Stat. 3009–471; amended Pub. L. 111–203, title X, § 1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board ” wherever appearing.
+2010—Pub. L. 111–203, § 1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board ” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6653,7 +6653,7 @@ Section 2605(a) of div. A of Pub. L. 104–208 provided that:
 
 ## SUBCHAPTER II—RESTRICTIONS ON GARNISHMENT
 
-### § 1671. Congressional findings and declaration of purpose
+### § 1671. Congressional findings and declaration of purpose
 
 **(a) Disadvantages of garnishment** The Congress finds:
 
@@ -6667,15 +6667,15 @@ Section 2605(a) of div. A of Pub. L. 104–208 provided that:
 
 On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of this subchapter are necessary and proper for the purpose of carrying into execution the powers of the Congress to regulate commerce and to establish uniform bankruptcy laws.
 
-(Pub. L. 90–321, title III, § 301, May 29, 1968, 82 Stat. 163.)
+(Pub. L. 90–321, title III, § 301, May 29, 1968, 82 Stat. 163.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 90–321, title V, § 504(c), May 29, 1968, 82 Stat. 167, provided that: “Title III [enacting this section and sections 1672 to 1677 of this title] takes effect on July 1, 1970.”
+Pub. L. 90–321, title V, § 504(c), May 29, 1968, 82 Stat. 167, provided that: “Title III [enacting this section and sections 1672 to 1677 of this title] takes effect on July 1, 1970.”
 
-### § 1672. Definitions
+### § 1672. Definitions
 
 For the purposes of this subchapter:
 
@@ -6685,9 +6685,9 @@ For the purposes of this subchapter:
 
 **(c)** The term “garnishment” means any legal or equitable procedure through which the earnings of any individual are required to be withheld for payment of any debt.
 
-(Pub. L. 90–321, title III, § 302, May 29, 1968, 82 Stat. 163.)
+(Pub. L. 90–321, title III, § 302, May 29, 1968, 82 Stat. 163.)
 
-### § 1673. Restriction on garnishment
+### § 1673. Restriction on garnishment
 
 **(a) Maximum allowable garnishment** Except as provided in subsection (b) and in section 1675 of this title, the maximum part of the aggregate disposable earnings of an individual for any workweek which is subjected to garnishment may not exceed
 
@@ -6719,7 +6719,7 @@ except that, with respect to the disposable earnings of any individual for any w
 
 No court of the United States or any State, and no State (or officer or agency thereof), may make, execute, or enforce any order or process in violation of this section.
 
-(Pub. L. 90–321, title III, § 303, May 29, 1968, 82 Stat. 163; Pub. L. 95–30, title V, § 501(e)(1)–(3), May 23, 1977, 91 Stat. 161, 162; Pub. L. 95–598, title III, § 312(a), Nov. 6, 1978, 92 Stat. 2676.)
+(Pub. L. 90–321, title III, § 303, May 29, 1968, 82 Stat. 163; Pub. L. 95–30, title V, § 501(e)(1)–(3), May 23, 1977, 91 Stat. 161, 162; Pub. L. 95–598, title III, § 312(a), Nov. 6, 1978, 92 Stat. 2676.)
 
 **Editorial Notes**
 
@@ -6727,9 +6727,9 @@ No court of the United States or any State, and no State (or officer or agency t
 
 1978—Subsec. (b)(1)(B). Pub. L. 95–598 substituted “court of the United States having jurisdiction over cases under chapter 13 of title 11” for “court of bankruptcy under chapter XIII of the Bankruptcy Act”.
 
-1977—Subsec. (b). Pub. L. 95–30, § 501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
+1977—Subsec. (b). Pub. L. 95–30, § 501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
 
-Subsec. (c). Pub. L. 95–30, § 501(e)(3), inserted “, and no State (or officer or agency thereof),” after “or any State”.
+Subsec. (c). Pub. L. 95–30, § 501(e)(3), inserted “, and no State (or officer or agency thereof),” after “or any State”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6739,9 +6739,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–30, title V, § 501(e)(5), May 23, 1977, 91 Stat. 162, provided that: “The amendments made by this subsection [amending this section and section 1675 of this title] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act [May 23, 1977].”
+Pub. L. 95–30, title V, § 501(e)(5), May 23, 1977, 91 Stat. 162, provided that: “The amendments made by this subsection [amending this section and section 1675 of this title] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act [May 23, 1977].”
 
-### § 1674. Restriction on discharge from employment by reason of garnishment
+### § 1674. Restriction on discharge from employment by reason of garnishment
 
 **(a) Termination of employment**
 
@@ -6751,13 +6751,13 @@ No employer may discharge any employee by reason of the fact that his earnings h
 
 Whoever willfully violates subsection (a) of this section shall be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-(Pub. L. 90–321, title III, § 304, May 29, 1968, 82 Stat. 163.)
+(Pub. L. 90–321, title III, § 304, May 29, 1968, 82 Stat. 163.)
 
-### § 1675. Exemption for State-regulated garnishments
+### § 1675. Exemption for State-regulated garnishments
 
 The Secretary of Labor may by regulation exempt from the provisions of section 1673(a) and (b)(2) of this title garnishments issued under the laws of any State if he determines that the laws of that State provide restrictions on garnishment which are substantially similar to those provided in section 1673(a) and (b)(2) of this title.
 
-(Pub. L. 90–321, title III, § 305, May 29, 1968, 82 Stat. 164; Pub. L. 95–30, title V, § 501(e)(4), May 23, 1977, 91 Stat. 162.)
+(Pub. L. 90–321, title III, § 305, May 29, 1968, 82 Stat. 164; Pub. L. 95–30, title V, § 501(e)(4), May 23, 1977, 91 Stat. 162.)
 
 **Editorial Notes**
 
@@ -6765,13 +6765,13 @@ The Secretary of Labor may by regulation exempt from the provisions of section 1
 
 1977—Pub. L. 95–30 substituted “section 1673(a) and (b)(2) of this title” for “section 1673(a) of this title” in two places.
 
-### § 1676. Enforcement by Secretary of Labor
+### § 1676. Enforcement by Secretary of Labor
 
 The Secretary of Labor, acting through the Wage and Hour Division of the Department of Labor, shall enforce the provisions of this subchapter.
 
-(Pub. L. 90–321, title III, § 306, May 29, 1968, 82 Stat. 164.)
+(Pub. L. 90–321, title III, § 306, May 29, 1968, 82 Stat. 164.)
 
-### § 1677. Effect on State laws
+### § 1677. Effect on State laws
 
 This subchapter does not annul, alter, or affect, or exempt any person from complying with, the laws of any State
 
@@ -6779,11 +6779,11 @@ This subchapter does not annul, alter, or affect, or exempt any person from comp
 
 **(2)** prohibiting the discharge of any employee by reason of the fact that his earnings have been subjected to garnishment for more than one indebtedness.
 
-(Pub. L. 90–321, title III, § 307, May 29, 1968, 82 Stat. 164.)
+(Pub. L. 90–321, title III, § 307, May 29, 1968, 82 Stat. 164.)
 
 ## SUBCHAPTER II–A—CREDIT REPAIR ORGANIZATIONS
 
-### § 1679. Findings and purposes
+### § 1679. Findings and purposes
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -6797,7 +6797,7 @@ This subchapter does not annul, alter, or affect, or exempt any person from comp
 
 **(2)** to protect the public from unfair or deceptive advertising and business practices by credit repair organizations.
 
-(Pub. L. 90–321, title IV, § 402, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–455.)
+(Pub. L. 90–321, title IV, § 402, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–455.)
 
 **Editorial Notes**
 
@@ -6809,13 +6809,13 @@ A prior title IV of Pub. L. 90–321, May 29, 1968, 82 Stat. 164, as amended by 
 
 **Effective Date**
 
-Pub. L. 90–321, title IV, § 413, as added by Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–462, provided that: “This title [enacting this subchapter] shall apply after the end of the 6-month period beginning on the date of the enactment of the Credit Repair Organizations Act [Sept. 30, 1996], except with respect to contracts entered into by a credit repair organization before the end of such period.”
+Pub. L. 90–321, title IV, § 413, as added by Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–462, provided that: “This title [enacting this subchapter] shall apply after the end of the 6-month period beginning on the date of the enactment of the Credit Repair Organizations Act [Sept. 30, 1996], except with respect to contracts entered into by a credit repair organization before the end of such period.”
 
 **Short Title**
 
 This subchapter known as the “Credit Repair Organizations Act”, see Short Title note set out under section 1601 of this title.
 
-### § 1679a. Definitions
+### § 1679a. Definitions
 
 For purposes of this subchapter, the following definitions apply:
 
@@ -6845,19 +6845,19 @@ The term “consumer credit transaction” means any transaction in which credit
 
 **(4) Credit**
 
-The term “credit” has the meaning given to such term in section 1602(e) 1
+The term “credit” has the meaning given to such term in section 1602(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 90–321, title IV, § 403, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–455.)
+(Pub. L. 90–321, title IV, § 403, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–455.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(e) of this title, referred to in par. (4), was redesignated section 1602(f) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(e) of this title, referred to in par. (4), was redesignated section 1602(f) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Prior Provisions**
 
@@ -6869,7 +6869,7 @@ For a prior section 403 of Pub. L. 90–321, see note set out under section 1679
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679b. Prohibited practices
+### § 1679b. Prohibited practices
 
 **(a) In general** No person may—
 
@@ -6901,7 +6901,7 @@ Section applicable after the end of the 6-month period beginning on Sept. 30, 19
 
 No credit repair organization may charge or receive any money or other valuable consideration for the performance of any service which the credit repair organization has agreed to perform for any consumer before such service is fully performed.
 
-(Pub. L. 90–321, title IV, § 404, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–456.)
+(Pub. L. 90–321, title IV, § 404, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–456.)
 
 **Editorial Notes**
 
@@ -6915,7 +6915,7 @@ For a prior section 404 of Pub. L. 90–321, see note set out under section 1679
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679c. Disclosures
+### § 1679c. Disclosures
 
 (a) Disclosure required
 
@@ -6959,13 +6959,13 @@ The credit repair organization shall maintain a copy of the statement signed by 
 
 The copy of any consumer’s statement shall be maintained in the organization’s files for 2 years after the date on which the statement is signed by the consumer.
 
-(Pub. L. 90–321, title IV, § 405, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–457.)
+(Pub. L. 90–321, title IV, § 405, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–457.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Credit Repair Organization Act, referred to in subsec. (a), probably means the Credit Repair Organizations Act, Pub. L. 90–321, title IV, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–454, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Credit Repair Organization Act, referred to in subsec. (a), probably means the Credit Repair Organizations Act, Pub. L. 90–321, title IV, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–454, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 **Prior Provisions**
 
@@ -6977,7 +6977,7 @@ For a prior section 405 of Pub. L. 90–321, see note set out under section 1679
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679d. Credit repair organizations contracts
+### § 1679d. Credit repair organizations contracts
 
 **(a) Written contracts required** No services may be provided by any credit repair organization for any consumer—
 
@@ -7003,7 +7003,7 @@ Section applicable after the end of the 6-month period beginning on Sept. 30, 19
 
 **(4)** a conspicuous statement in bold face type, in immediate proximity to the space reserved for the consumer’s signature on the contract, which reads as follows: “You may cancel this contract without penalty or obligation at any time before midnight of the 3rd business day after the date on which you signed the contract. See the attached notice of cancellation form for an explanation of this right.”.
 
-(Pub. L. 90–321, title IV, § 406, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–458.)
+(Pub. L. 90–321, title IV, § 406, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–458.)
 
 **Editorial Notes**
 
@@ -7017,7 +7017,7 @@ For a prior section 406 of Pub. L. 90–321, see note set out under section 1679
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679e. Right to cancel contract
+### § 1679e. Right to cancel contract
 
 **(a) In general**
 
@@ -7029,13 +7029,13 @@ Each contract shall be accompanied by a form, in duplicate, which has the headin
 
 “You may cancel this contract, without any penalty or obligation, at any time before midnight of the 3rd day which begins after the date the contract is signed by you.
 
-“To cancel this contract, mail or deliver a signed, dated copy of this cancellation notice, or any other written notice to [ name of credit repair organization ] at [ address of credit repair organization ] before midnight on [ date ]
+“To cancel this contract, mail or deliver a signed, dated copy of this cancellation notice, or any other written notice to [ name of credit repair organization ] at [ address of credit repair organization ] before midnight on [ date ]
 
 “I hereby cancel this transaction,
 
-[ date ]
+[ date ]
 
-[ purchaser’s signature ].”.
+[ purchaser’s signature ].”.
 
 **(c) Consumer copy of contract required** Any consumer who enters into any contract with any credit repair organization shall be given, by the organization—
 
@@ -7045,7 +7045,7 @@ Each contract shall be accompanied by a form, in duplicate, which has the headin
 
 at the time the contract or the other document is signed.
 
-(Pub. L. 90–321, title IV, § 407, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–459.)
+(Pub. L. 90–321, title IV, § 407, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–459.)
 
 **Editorial Notes**
 
@@ -7059,7 +7059,7 @@ For a prior section 407 of Pub. L. 90–321, see note set out under section 1679
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679f. Noncompliance with this subchapter
+### § 1679f. Noncompliance with this subchapter
 
 **(a) Consumer waivers invalid** Any waiver by any consumer of any protection provided by or any right of the consumer under this subchapter—
 
@@ -7077,7 +7077,7 @@ Any attempt by any person to obtain a waiver from any consumer of any protection
 
 **(2)** may not be enforced by any Federal or State court or any other person.
 
-(Pub. L. 90–321, title IV, § 408, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–459.)
+(Pub. L. 90–321, title IV, § 408, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–459.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7085,7 +7085,7 @@ Any attempt by any person to obtain a waiver from any consumer of any protection
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679g. Civil liability
+### § 1679g. Civil liability
 
 **(a) Liability established** Any person who fails to comply with any provision of this subchapter with respect to any other person shall be liable to such person in an amount equal to the sum of the amounts determined under each of the following paragraphs:
 
@@ -7121,7 +7121,7 @@ In the case of any successful action to enforce any liability under paragraph (1
 
 **(4)** in the case of any class action, the number of consumers adversely affected.
 
-(Pub. L. 90–321, title IV, § 409, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–459.)
+(Pub. L. 90–321, title IV, § 409, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–459.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7129,7 +7129,7 @@ In the case of any successful action to enforce any liability under paragraph (1
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679h. Administrative enforcement
+### § 1679h. Administrative enforcement
 
 **(a) In general**
 
@@ -7179,13 +7179,13 @@ For purposes of bringing any action under this subsection, nothing in this subse
 
 Whenever the Federal Trade Commission has instituted a civil action for violation of this subchapter, no State may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this subchapter that is alleged in that complaint.
 
-(Pub. L. 90–321, title IV, § 410, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–460.)
+(Pub. L. 90–321, title IV, § 410, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–460.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7193,7 +7193,7 @@ The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Se
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679i. Statute of limitations
+### § 1679i. Statute of limitations
 
 Any action to enforce any liability under this subchapter may be brought before the later of—
 
@@ -7207,7 +7207,7 @@ Any action to enforce any liability under this subchapter may be brought before 
 
 the end of the 5-year period beginning on the date of the discovery by the consumer of the misrepresentation.
 
-(Pub. L. 90–321, title IV, § 411, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–461.)
+(Pub. L. 90–321, title IV, § 411, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–461.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7215,11 +7215,11 @@ the end of the 5-year period beginning on the date of the discovery by the consu
 
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 
-### § 1679j. Relation to State law
+### § 1679j. Relation to State law
 
 This subchapter shall not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with any law of any State except to the extent that such law is inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
 
-(Pub. L. 90–321, title IV, § 412, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–462.)
+(Pub. L. 90–321, title IV, § 412, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–462.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7229,7 +7229,7 @@ Section applicable after the end of the 6-month period beginning on Sept. 30, 19
 
 ## SUBCHAPTER III—CREDIT REPORTING AGENCIES
 
-### § 1681. Congressional findings and statement of purpose
+### § 1681. Congressional findings and statement of purpose
 
 **(a) Accuracy and fairness of credit reporting** The Congress makes the following findings:
 
@@ -7245,13 +7245,13 @@ Section applicable after the end of the 6-month period beginning on Sept. 30, 19
 
 It is the purpose of this subchapter to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of commerce for consumer credit, personnel, insurance, and other information in a manner which is fair and equitable to the consumer, with regard to the confidentiality, accuracy, relevancy, and proper utilization of such information in accordance with the requirements of this subchapter.
 
-(Pub. L. 90–321, title VI, § 602, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128.)
+(Pub. L. 90–321, title VI, § 602, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–159, § 3, Dec. 4, 2003, 117 Stat. 1953, provided that:
+Pub. L. 108–159, § 3, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 > “Except as otherwise specifically provided in this Act [see Short Title of 2003 Amendment note set out under section 1601 of this title] and the amendments made by this Act—
 
@@ -7263,7 +7263,7 @@ Pub. L. 108–159, § 3, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 **Effective Date**
 
-Pub. L. 90–321, title V, § 504(d), as added by Pub. L. 91–508, title VI, § 602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI [enacting this subchapter] takes effect upon the expiration of one hundred and eighty days following the date of its enactment [Oct. 26, 1970].”
+Pub. L. 90–321, title V, § 504(d), as added by Pub. L. 91–508, title VI, § 602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI [enacting this subchapter] takes effect upon the expiration of one hundred and eighty days following the date of its enactment [Oct. 26, 1970].”
 
 **Short Title**
 
@@ -7271,7 +7271,7 @@ This subchapter known as the “Fair Credit Reporting Act”, see Short Title no
 
 **Study of Effects of Credit Scores and Credit-Based Insurance Scores on Availability and Affordability of Financial Products**
 
-Pub. L. 108–159, title II, § 215, Dec. 4, 2003, 117 Stat. 1984, provided that:
+Pub. L. 108–159, title II, § 215, Dec. 4, 2003, 117 Stat. 1984, provided that:
 
 > **“(a) Study Required.—** The Commission and the Board, in consultation with the Office of Fair Housing and Equal Opportunity of the Department of Housing and Urban Development, shall conduct a study of—
 
@@ -7293,7 +7293,7 @@ Pub. L. 108–159, title II, § 215, Dec. 4, 2003, 117 Stat. 1984, provided th
 
 **FTC Study of Issues Relating to the Fair Credit Reporting Act**
 
-Pub. L. 108–159, title III, § 318, Dec. 4, 2003, 117 Stat. 1998, provided that:
+Pub. L. 108–159, title III, § 318, Dec. 4, 2003, 117 Stat. 1998, provided that:
 
 > **“(a) Study Required.—**
 
@@ -7335,7 +7335,7 @@ Pub. L. 108–159, title III, § 318, Dec. 4, 2003, 117 Stat. 1998, provided t
 
 **FTC Study of the Accuracy of Consumer Reports**
 
-Pub. L. 108–159, title III, § 319, Dec. 4, 2003, 117 Stat. 1999, provided that:
+Pub. L. 108–159, title III, § 319, Dec. 4, 2003, 117 Stat. 1999, provided that:
 
 > **“(a) Study Required.—** Until the final report is submitted under subsection (b)(2), the Commission shall conduct an ongoing study of the accuracy and completeness of information contained in consumer reports prepared or maintained by consumer reporting agencies and methods for improving the accuracy and completeness of such information.
 
@@ -7349,7 +7349,7 @@ Pub. L. 108–159, title III, § 319, Dec. 4, 2003, 117 Stat. 1999, provided t
 
 **Definitions**
 
-Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that:
+Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 > “As used in this Act [see Short Title of 2003 Amendment note set out under section 1601 of this title]—
 
@@ -7361,7 +7361,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 > **“(4)** the term ‘affiliates’ means persons that are related by common ownership or affiliated by corporate control.”
 
-### § 1681a. Definitions; rules of construction
+### § 1681a. Definitions; rules of construction
 
 **(a)** Definitions and rules of construction set forth in this section are applicable for the purposes of this subchapter.
 
@@ -7395,7 +7395,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 **(D)** a communication described in subsection (*o*) or (x).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3) Restriction on sharing of medical information.—** Except for information or any communication of information disclosed as provided in section 1681b(g)(3) of this title, the exclusions in paragraph (2) shall not apply with respect to information disclosed to any person related by common ownership or affiliated by corporate control, if the information is—
 
@@ -7423,7 +7423,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 **(C)** the payment for the provision of health care to an individual.2
 
-<sup>2</sup>  So in original. The period probably should be “; and”.
+<sup>2</sup> So in original. The period probably should be “; and”.
 
 **(2)** does not include the age or gender of a consumer, demographic information about the consumer, including a consumer’s residence address or e-mail address, or any other information about a consumer that does not relate to the physical, mental, or behavioral health or condition of a consumer, including the existence or value of any insurance policy.
 
@@ -7545,7 +7545,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 **(C)** the filing of which subjects the person filing the report to criminal penalties relating to the filing of false information if, in fact, the information in the report is false.
 
-**(5) New credit plan.—** The term “new credit plan” means a new account under an open end credit plan (as defined in section 1602(i) <sup>1</sup> of this title) or a new credit transaction not under an open end credit plan.
+**(5) New credit plan.—** The term “new credit plan” means a new account under an open end credit plan (as defined in section 1602(i) <sup>1</sup> of this title) or a new credit transaction not under an open end credit plan.
 
 **(r) Credit and Debit Related Terms—**
 
@@ -7575,7 +7575,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 **(v) Commission.—** The term “Commission” means the Bureau.3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 **(w)** The term “Bureau” means the Bureau of Consumer Financial Protection.
 
@@ -7629,63 +7629,63 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that:
 
 **(2)** includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.
 
-(Pub. L. 90–321, title VI, § 603, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, § 2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, § 2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, § 6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, § 111, title II, § 214(c)(1), title IV, § 411(b), (c), title VI, § 611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, § 1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087; Pub. L. 115–174, title III, § 302(b)(1), May 24, 2018, 132 Stat. 1333.)
+(Pub. L. 90–321, title VI, § 603, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, § 2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, § 2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, § 6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, § 111, title II, § 214(c)(1), title IV, § 411(b), (c), title VI, § 611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, § 1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087; Pub. L. 115–174, title III, § 302(b)(1), May 24, 2018, 132 Stat. 1333.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (x) of this section, referred to in subsec. (d)(2)(D), was redesignated subsection (y) of this section by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
+Subsection (x) of this section, referred to in subsec. (d)(2)(D), was redesignated subsection (y) of this section by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
-Section 1602(i) of this title, referred to in subsec. (q)(5), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(i) of this title, referred to in subsec. (q)(5), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Sarbanes-Oxley Act of 2002, referred to in subsec. (y)(3), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified principally to subchapter I (§ 7211 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
+The Sarbanes-Oxley Act of 2002, referred to in subsec. (y)(3), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified principally to subchapter I (§ 7211 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
 **Amendments**
 
 2018—Subsecs. (z), (aa). Pub. L. 115–174 added subsecs. (z) and (aa).
 
-2010—Subsec. (k)(2). Pub. L. 111–203, § 1088(a)(3), substituted “Bureau” for “Board of Governors of the Federal Reserve System”.
+2010—Subsec. (k)(2). Pub. L. 111–203, § 1088(a)(3), substituted “Bureau” for “Board of Governors of the Federal Reserve System”.
 
-Subsec. (q)(3), (4). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
+Subsec. (q)(3), (4). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
 
-Subsec. (v). Pub. L. 111–203, § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
+Subsec. (v). Pub. L. 111–203, § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
 
-Subsecs. (w) to (y). Pub. L. 111–203, § 1088(a)(1), added subsec. (w) and redesignated former subsecs. (w) and (x) as (x) and (y), respectively.
+Subsecs. (w) to (y). Pub. L. 111–203, § 1088(a)(1), added subsec. (w) and redesignated former subsecs. (w) and (x) as (x) and (y), respectively.
 
-2003—Subsec. (d)(2). Pub. L. 108–159, § 411(b)(1), substituted “Except as provided in paragraph (3), the term” for “The term” in introductory provisions.
+2003—Subsec. (d)(2). Pub. L. 108–159, § 411(b)(1), substituted “Except as provided in paragraph (3), the term” for “The term” in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 108–159, § 214(c)(1), inserted “subject to section 1681s–3 of this title,” after “(A)” in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 108–159, § 214(c)(1), inserted “subject to section 1681s–3 of this title,” after “(A)” in introductory provisions.
 
-Subsec. (d)(2)(D). Pub. L. 108–159, § 611(b), inserted “or (x)” after “subsection (*o*)”.
+Subsec. (d)(2)(D). Pub. L. 108–159, § 611(b), inserted “or (x)” after “subsection (*o*)”.
 
-Subsec. (d)(3). Pub. L. 108–159, § 411(b)(2), added par. (3).
+Subsec. (d)(3). Pub. L. 108–159, § 411(b)(2), added par. (3).
 
-Subsec. (i). Pub. L. 108–159, § 411(c), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “The term ‘medical information’ means information or records obtained, with the consent of the individual to whom it relates, from licensed physicians or medical practitioners, hospitals, clinics, or other medical or medically related facilities.”
+Subsec. (i). Pub. L. 108–159, § 411(c), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “The term ‘medical information’ means information or records obtained, with the consent of the individual to whom it relates, from licensed physicians or medical practitioners, hospitals, clinics, or other medical or medically related facilities.”
 
-Subsecs. (q) to (w). Pub. L. 108–159, § 111, added subsecs. (q) to (w).
+Subsecs. (q) to (w). Pub. L. 108–159, § 111, added subsecs. (q) to (w).
 
-Subsec. (x). Pub. L. 108–159, § 611(a), added subsec. (x).
+Subsec. (x). Pub. L. 108–159, § 611(a), added subsec. (x).
 
-1998—Subsec. (d)(2)(A)(iii). Pub. L. 105–347, § 6(1), struck out “any” before “communication of other”.
+1998—Subsec. (d)(2)(A)(iii). Pub. L. 105–347, § 6(1), struck out “any” before “communication of other”.
 
-Subsec. (*o*)(1). Pub. L. 105–347, § 6(2), substituted “(d)(2)(D)” for “(d)(2)(E)”.
+Subsec. (*o*)(1). Pub. L. 105–347, § 6(2), substituted “(d)(2)(D)” for “(d)(2)(E)”.
 
-Subsec. (*o*)(4). Pub. L. 105–347, § 6(3), substituted “and” for “or” at end.
+Subsec. (*o*)(4). Pub. L. 105–347, § 6(3), substituted “and” for “or” at end.
 
-1996—Subsec. (d). Pub. L. 104–208, § 2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
+1996—Subsec. (d). Pub. L. 104–208, § 2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
 
-Subsec. (k). Pub. L. 104–208, § 2402(a), added subsec. (k).
+Subsec. (k). Pub. L. 104–208, § 2402(a), added subsec. (k).
 
-Subsec. (*l*). Pub. L. 104–208, § 2402(b), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 104–208, § 2402(b), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 104–208, § 2402(c), added subsec. (m).
+Subsec. (m). Pub. L. 104–208, § 2402(c), added subsec. (m).
 
-Subsec. (n). Pub. L. 104–208, § 2402(d), added subsec. (n).
+Subsec. (n). Pub. L. 104–208, § 2402(d), added subsec. (n).
 
-Subsec. (*o*). Pub. L. 104–208, § 2402(f), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 104–208, § 2402(f), added subsec. (*o*).
 
-Subsec. (p). Pub. L. 104–208, § 2402(g), added subsec. (p).
+Subsec. (p). Pub. L. 104–208, § 2402(g), added subsec. (p).
 
 1992—Subsec. (j). Pub. L. 102–537 added subsec. (j).
 
@@ -7693,7 +7693,7 @@ Subsec. (p). Pub. L. 104–208, § 2402(g), added subsec. (p).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–174, title III, § 302(e), May 24, 2018, 132 Stat. 1335, provided that: “The amendments made by this section [amending this section and sections 1681c, 1681c–1, 1681i, and 1681t of this title and enacting provisions set out as a note under section 1681c of this title] shall take effect on the date that is 1 year after the date of enactment of this Act [May 24, 2018].”
+Pub. L. 115–174, title III, § 302(e), May 24, 2018, 132 Stat. 1335, provided that: “The amendments made by this section [amending this section and sections 1681c, 1681c–1, 1681i, and 1681t of this title and enacting provisions set out as a note under section 1681c of this title] shall take effect on the date that is 1 year after the date of enactment of this Act [May 24, 2018].”
 
 **Effective Date of 2010 Amendment**
 
@@ -7703,7 +7703,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
-Pub. L. 108–159, title IV, § 411(d), Dec. 4, 2003, 117 Stat. 2002, provided that:
+Pub. L. 108–159, title IV, § 411(d), Dec. 4, 2003, 117 Stat. 2002, provided that:
 
 > “This section [amending this section and section 1681b of this title] shall take effect at the end of the 180-day period beginning on the date of enactment of this Act [Dec. 4, 2003], except that paragraph (2) of section 604(g) of the Fair Credit Reporting Act [15 U.S.C. 1681b(g)(2)] (as amended by subsection (a) of this section) shall take effect on the later of—
 
@@ -7713,19 +7713,19 @@ Pub. L. 108–159, title IV, § 411(d), Dec. 4, 2003, 117 Stat. 2002, provided
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–347, § 7, Nov. 2, 1998, 112 Stat. 3211, provided that: “The amendments made by this Act [amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title] shall be deemed to have the same effective date [see section 2420 of Pub. L. 104–208, set out as a note below] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 [3009–430]) [amending section 1681b of this title].”
+Pub. L. 105–347, § 7, Nov. 2, 1998, 112 Stat. 3211, provided that: “The amendments made by this Act [amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title] shall be deemed to have the same effective date [see section 2420 of Pub. L. 104–208, set out as a note below] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 [3009–430]) [amending section 1681b of this title].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title II, § 2420, Sept. 30, 1996, 110 Stat. 3009–454, provided that:
+Pub. L. 104–208, div. A, title II, § 2420, Sept. 30, 1996, 110 Stat. 3009–454, provided that:
 
-> **“(a) In General.—** Except as otherwise specifically provided in this chapter [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title], the amendments made by this chapter shall become effective 365 days after the date of enactment of this Act [Sept. 30, 1996].
+> **“(a) In General.—** Except as otherwise specifically provided in this chapter [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title], the amendments made by this chapter shall become effective 365 days after the date of enactment of this Act [Sept. 30, 1996].
 
 > **“(b) Early Compliance.—** Any person or other entity that is subject to the requirements of this chapter may, at its option, comply with any provision of this chapter before the date on which that provision becomes effective under this chapter, in which case, each of the corresponding provisions of this chapter shall be fully applicable to such person or entity.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–537, § 2(d), Oct. 27, 1992, 106 Stat. 3532, provided that: “The amendments made by this section [enacting section 1681s–1 of this title and amending this section] shall take effect on January 1, 1993.”
+Pub. L. 102–537, § 2(d), Oct. 27, 1992, 106 Stat. 3532, provided that: “The amendments made by this section [enacting section 1681s–1 of this title and amending this section] shall take effect on January 1, 1993.”
 
 **Effective Date**
 
@@ -7733,9 +7733,9 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 **Construction of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “Nothing in this chapter [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title] or the amendments made by this chapter shall be considered to supersede or otherwise affect section 2721 of title 18, United States Code, with respect to motor vehicle records for surveys, marketing, or solicitations.”
+Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “Nothing in this chapter [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title] or the amendments made by this chapter shall be considered to supersede or otherwise affect section 2721 of title 18, United States Code, with respect to motor vehicle records for surveys, marketing, or solicitations.”
 
-### § 1681b. Permissible purposes of consumer reports
+### § 1681b. Permissible purposes of consumer reports
 
 **(a) In general** Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
 
@@ -7785,9 +7785,9 @@ Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009�
 
 **(ii)** information from the consumer report will not be used in violation of any applicable Federal or State equal employment opportunity law or regulation; and
 
-**(B)** the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer’s rights under this subchapter, as prescribed by the Bureau under section 1681g(c)(3) 1
+**(B)** the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer’s rights under this subchapter, as prescribed by the Bureau under section 1681g(c)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -7801,7 +7801,7 @@ of this title.
 
 **(B) Application by mail, telephone, computer, or other similar means** If a consumer described in subparagraph (C) applies for employment by mail, telephone, computer, or other similar means, at any time before a consumer report is procured or caused to be procured in connection with that application—
 
-**(i)** the person who procures the consumer report on the consumer for employment purposes shall provide to the consumer, by oral, written, or electronic means, notice that a consumer report may be obtained for employment purposes, and a summary of the consumer’s rights under section 1681m(a)(3) <sup>1</sup> of this title; and
+**(i)** the person who procures the consumer report on the consumer for employment purposes shall provide to the consumer, by oral, written, or electronic means, notice that a consumer report may be obtained for employment purposes, and a summary of the consumer’s rights under section 1681m(a)(3) <sup>1</sup> of this title; and
 
 **(ii)** the consumer shall have consented, orally, in writing, or electronically to the procurement of the report by that person.
 
@@ -7817,7 +7817,7 @@ of this title.
 
 **(i)** a copy of the report; and
 
-**(ii)** a description in writing of the rights of the consumer under this subchapter, as prescribed by the Bureau under section 1681g(c)(3) <sup>1</sup> of this title.
+**(ii)** a description in writing of the rights of the consumer under this subchapter, as prescribed by the Bureau under section 1681g(c)(3) <sup>1</sup> of this title.
 
 **(B) Application by mail, telephone, computer, or other similar means**
 
@@ -7831,7 +7831,7 @@ of this title.
 
 **(IV)** that the consumer may, upon providing proper identification, request a free copy of a report and may dispute with the consumer reporting agency the accuracy or completeness of any information in a report.
 
-**(ii)** If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer’s request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer’s rights as prescribed by the Bureau under section 1681g(c)(3) <sup>1</sup> of this title.
+**(ii)** If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer’s request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer’s rights as prescribed by the Bureau under section 1681g(c)(3) <sup>1</sup> of this title.
 
 **(C) Scope** Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer’s application for employment only if—
 
@@ -8003,7 +8003,7 @@ Any person that receives medical information pursuant to paragraph (1) or (3) sh
 
 **(5) Regulations and effective date for paragraph (2)**
 
-**(A) 2 [footnote: 2 So in original. No subpar. (B) has been enacted.] Regulations required**
+**(A) 2 [footnote: 2 So in original. No subpar. (B) has been enacted.] Regulations required**
 
 The Bureau may, after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
 
@@ -8011,11 +8011,11 @@ The Bureau may, after notice and opportunity for comment, prescribe regulations 
 
 No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
-(Pub. L. 90–321, title VI, § 604, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, § 964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, § 352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§ 2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, § 311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§ 2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, § 811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, § 213(c), title IV, §§ 411(a), 412(f), title VIII, § 811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, § 361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, § 719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, § 743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, § 302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, § 1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087; Pub. L. 114–94, div. G, title LXXX, § 80001, Dec. 4, 2015, 129 Stat. 1792; Pub. L. 116–283, div. F, title LXIII, § 6308(b), Jan. 1, 2021, 134 Stat. 4594; Pub. L. 119–36, § 2(a), Sept. 5, 2025, 139 Stat. 493.)
+(Pub. L. 90–321, title VI, § 604, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, § 964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, § 352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§ 2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, § 311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§ 2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, § 811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, § 213(c), title IV, §§ 411(a), 412(f), title VIII, § 811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, § 361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, § 719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, § 743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, § 302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, § 1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087; Pub. L. 114–94, div. G, title LXXX, § 80001, Dec. 4, 2015, 129 Stat. 1792; Pub. L. 116–283, div. F, title LXIII, § 6308(b), Jan. 1, 2021, 134 Stat. 4594; Pub. L. 119–36, § 2(a), Sept. 5, 2025, 139 Stat. 493.)
 
 **Amendment of Subsection (c)**
 
-Pub. L. 119–36, §§ 2(a), 3, Sept. 5, 2025, 139 Stat. 493, 494, provided that, effective on the date that is 180 days after Sept. 5, 2025, subsection (c) of this section is amended by adding at the end the following:
+Pub. L. 119–36, §§ 2(a), 3, Sept. 5, 2025, 139 Stat. 493, 494, provided that, effective on the date that is 180 days after Sept. 5, 2025, subsection (c) of this section is amended by adding at the end the following:
 
 *(4) Treatment of prescreening report requests*
 
@@ -8063,15 +8063,15 @@ See 2025 Amendment note below.
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (a)(6), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(6), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-Section 1681g(c) of this title, referred to in subsec. (b)(1)(B), (3)(A)(ii), (B)(ii), was amended generally by Pub. L. 108–159, title II, § 211(c), Dec. 4, 2003, 117 Stat. 1970, and, as so amended, no longer contains a par. (3).
+Section 1681g(c) of this title, referred to in subsec. (b)(1)(B), (3)(A)(ii), (B)(ii), was amended generally by Pub. L. 108–159, title II, § 211(c), Dec. 4, 2003, 117 Stat. 1970, and, as so amended, no longer contains a par. (3).
 
-Section 1681m(a)(3) of this title, referred to in subsec. (b)(2)(B)(i), was redesignated section 1681m(a)(4) of this title by Pub. L. 111–203, title X, § 1100F(1)(A), July 21, 2010, 124 Stat. 2112.
+Section 1681m(a)(3) of this title, referred to in subsec. (b)(2)(B)(i), was redesignated section 1681m(a)(4) of this title by Pub. L. 111–203, title X, § 1100F(1)(A), July 21, 2010, 124 Stat. 2112.
 
-Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(3)(B), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -8081,19 +8081,19 @@ Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means secti
 
 2025—Subsec. (c)(4). Pub. L. 119–36 added par. (4).
 
-2021—Subsec. (a)(1). Pub. L. 116–283 substituted “such an order, a” for “such an order, or a” and inserted “, or a subpoena issued in accordance with section 5318 of title 31 or section 3486 of title 18” after “grand jury”.
+2021—Subsec. (a)(1). Pub. L. 116–283 substituted “such an order, a” for “such an order, or a” and inserted “, or a subpoena issued in accordance with section 5318 of title 31 or section 3486 of title 18” after “grand jury”.
 
-2015—Subsec. (a)(4)(A). Pub. L. 114–94, § 80001(1), substituted “, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment” for “or determining the appropriate level of such payments”.
+2015—Subsec. (a)(4)(A). Pub. L. 114–94, § 80001(1), substituted “, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment” for “or determining the appropriate level of such payments”.
 
-Subsec. (a)(4)(B). Pub. L. 114–94, § 80001(2)(A), substituted “parentage” for “paternity” and inserted “and” at end.
+Subsec. (a)(4)(B). Pub. L. 114–94, § 80001(2)(A), substituted “parentage” for “paternity” and inserted “and” at end.
 
-Subsec. (a)(4)(C), (D). Pub. L. 114–94, § 80001(3), (4), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and”.
+Subsec. (a)(4)(C), (D). Pub. L. 114–94, § 80001(3), (4), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and”.
 
-2010—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). Pub. L. 111–203, § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
+2010—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). Pub. L. 111–203, § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
 
-Subsec. (g)(3)(C). Pub. L. 111–203, § 1088(a)(4)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 1681s(b) of this title, or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).”
+Subsec. (g)(3)(C). Pub. L. 111–203, § 1088(a)(4)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 1681s(b) of this title, or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).”
 
-Subsec. (g)(5). Pub. L. 111–203, § 1088(a)(4)(B), added par. (5) and struck out former par. (5) which related to prescription of par. (2) regulations by each Federal banking agency and the National Credit Union Administration and required issuance of final regulations before the end of the 6-month period beginning on Dec. 4, 2003.
+Subsec. (g)(5). Pub. L. 111–203, § 1088(a)(4)(B), added par. (5) and struck out former par. (5) which related to prescription of par. (2) regulations by each Federal banking agency and the National Credit Union Administration and required issuance of final regulations before the end of the 6-month period beginning on Dec. 4, 2003.
 
 2009—Subsec. (c)(1)(B)(iv). Pub. L. 111–24 added cl. (iv).
 
@@ -8101,7 +8101,7 @@ Subsec. (g)(5). Pub. L. 111–203, § 1088(a)(4)(B), added par. (5) and struck
 
 2006—Subsec. (a)(6). Pub. L. 109–351 added par. (6).
 
-2003—Subsec. (a). Pub. L. 108–159, § 811(b), realigned margins.
+2003—Subsec. (a). Pub. L. 108–159, § 811(b), realigned margins.
 
 Subsec. (b)(4)(D) to (F). Pub. L. 108–177 struck out subpars. (D) and (E) and redesignated subpar. (F) as (D). Prior to amendment, subpars. (D) and (E) read as follows:
 
@@ -8109,55 +8109,55 @@ Subsec. (b)(4)(D) to (F). Pub. L. 108–177 struck out subpars. (D) and (E) and 
 
 “(E) Reports to congressional intelligence committees.—In the case of a report to be submitted under subparagraph (D) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.”
 
-Subsec. (e)(3)(A), (4)(B)(i). Pub. L. 108–159, § 213(c), substituted “5-year period” for “2-year period”.
+Subsec. (e)(3)(A), (4)(B)(i). Pub. L. 108–159, § 213(c), substituted “5-year period” for “2-year period”.
 
-Subsec. (g). Pub. L. 108–159, § 411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
+Subsec. (g). Pub. L. 108–159, § 411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
 
-Subsec. (g)(1). Pub. L. 108–159, § 412(f)(1), inserted “(other than medical contact information treated in the manner required under section 1681c(a)(6) of this title)” after “a consumer report that contains medical information” in introductory provisions.
+Subsec. (g)(1). Pub. L. 108–159, § 412(f)(1), inserted “(other than medical contact information treated in the manner required under section 1681c(a)(6) of this title)” after “a consumer report that contains medical information” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 108–159, § 412(f)(2), inserted “(other than medical information treated in the manner required under section 1681c(a)(6) of this title)” after “a creditor shall not obtain or use medical information”.
+Subsec. (g)(2). Pub. L. 108–159, § 412(f)(2), inserted “(other than medical information treated in the manner required under section 1681c(a)(6) of this title)” after “a creditor shall not obtain or use medical information”.
 
-2002—Subsec. (b)(4)(D). Pub. L. 107–306, § 811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
+2002—Subsec. (b)(4)(D). Pub. L. 107–306, § 811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
 
-Subsec. (b)(4)(E), (F). Pub. L. 107–306, § 811(b)(8)(A)(ii), (iii), added subpar. (E) and redesignated former subpar. (E) as (F).
+Subsec. (b)(4)(E), (F). Pub. L. 107–306, § 811(b)(8)(A)(ii), (iii), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-1998—Subsec. (b)(1)(B). Pub. L. 105–347, § 3, inserted “, or has previously provided,” before “a summary”.
+1998—Subsec. (b)(1)(B). Pub. L. 105–347, § 3, inserted “, or has previously provided,” before “a summary”.
 
-Subsec. (b)(2). Pub. L. 105–347, § 2(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
+Subsec. (b)(2). Pub. L. 105–347, § 2(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
 
 “(A) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
 
 “(B) the consumer has authorized in writing the procurement of the report by that person.”
 
-Subsec. (b)(3). Pub. L. 105–347, § 2(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
+Subsec. (b)(3). Pub. L. 105–347, § 2(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
 
 “(A) a copy of the report; and
 
 “(B) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.”
 
-Subsec. (g). Pub. L. 105–347, § 6(4), struck out “or a direct marketing transaction” after “or insurance transaction”.
+Subsec. (g). Pub. L. 105–347, § 6(4), struck out “or a direct marketing transaction” after “or insurance transaction”.
 
 1997—Subsec. (b)(4). Pub. L. 105–107 added par. (4).
 
-1996—Pub. L. 104–208, §§ 2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c), any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
+1996—Pub. L. 104–208, §§ 2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c), any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
 
-Subsec. (b). Pub. L. 104–208, § 2403(b), added subsec. (b).
+Subsec. (b). Pub. L. 104–208, § 2403(b), added subsec. (b).
 
-Subsecs. (c) to (e). Pub. L. 104–208, § 2404(a)(2), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 104–208, § 2404(a)(2), added subsecs. (c) to (e).
 
-Subsec. (f). Pub. L. 104–208, § 2404(b), added subsec. (f).
+Subsec. (f). Pub. L. 104–208, § 2404(b), added subsec. (f).
 
-Subsec. (g). Pub. L. 104–208, § 2405, added subsec. (g).
+Subsec. (g). Pub. L. 104–208, § 2405, added subsec. (g).
 
 Pars. (4), (5). Pub. L. 104–193 added pars. (4) and (5).
 
-1989—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
+1989—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–36, § 3, Sept. 5, 2025, 139 Stat. 494, provided that: “This Act [amending this section and enacting provisions set out as a note under section 1601 of this title], and the amendments made by this Act, shall take effect on the date that is 180 days after the date of enactment of this Act [Sept. 5, 2025].”
+Pub. L. 119–36, § 3, Sept. 5, 2025, 139 Stat. 494, provided that: “This Act [amending this section and enacting provisions set out as a note under section 1601 of this title], and the amendments made by this Act, shall take effect on the date that is 180 days after the date of enactment of this Act [Sept. 5, 2025].”
 
 **Effective Date of 2010 Amendment**
 
@@ -8175,7 +8175,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 Amendment by section 411 of Pub. L. 108–159 effective at end of 180-day period beginning on Dec. 4, 2003, with certain exceptions, see section 411(d) of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681a of this title.
 
-Pub. L. 108–159, title IV, § 412(g), Dec. 4, 2003, 117 Stat. 2003, provided that: “The amendments made by this section [amending this section and sections 1681c, 1681s, and 1681s–2 of this title] shall take effect at the end of the 15-month period beginning on the date of enactment of this Act [Dec. 4, 2003].”
+Pub. L. 108–159, title IV, § 412(g), Dec. 4, 2003, 117 Stat. 2003, provided that: “The amendments made by this section [amending this section and sections 1681c, 1681s, and 1681s–2 of this title] shall take effect at the end of the 15-month period beginning on the date of enactment of this Act [Dec. 4, 2003].”
 
 **Effective Date of 1998 Amendment**
 
@@ -8183,7 +8183,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–107, title III, § 311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1681e of this title] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208], as of the date of the enactment of such Act [Sept. 30, 1996].”
+Pub. L. 105–107, title III, § 311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1681e of this title] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208], as of the date of the enactment of such Act [Sept. 30, 1996].”
 
 **Effective Date of 1996 Amendments**
 
@@ -8197,19 +8197,19 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 **Public Awareness Campaign**
 
-Pub. L. 108–159, title II, § 213(d), Dec. 4, 2003, 117 Stat. 1979, provided that: “The Commission shall actively publicize and conspicuously post on its website any address and the toll-free telephone number established as part of a notification system for opting out of prescreening under section 604(e) of the Fair Credit Reporting Act (15 U.S.C. 1681b(e)), and otherwise take measures to increase public awareness regarding the availability of the right to opt out of prescreening.”
+Pub. L. 108–159, title II, § 213(d), Dec. 4, 2003, 117 Stat. 1979, provided that: “The Commission shall actively publicize and conspicuously post on its website any address and the toll-free telephone number established as part of a notification system for opting out of prescreening under section 604(e) of the Fair Credit Reporting Act (15 U.S.C. 1681b(e)), and otherwise take measures to increase public awareness regarding the availability of the right to opt out of prescreening.”
 
 [For definitions of terms used in section 213(d) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.]
 
 **Coordination With Federal Laws Relating to Medical Confidentiality**
 
-Pub. L. 108–159, title IV, § 412(d), Dec. 4, 2003, 117 Stat. 2002, provided that: “No provision of any amendment made by this section [amending this section and sections 1681c, 1681s, and 1681s–2 of this title] shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.”
+Pub. L. 108–159, title IV, § 412(d), Dec. 4, 2003, 117 Stat. 2002, provided that: “No provision of any amendment made by this section [amending this section and sections 1681c, 1681s, and 1681s–2 of this title] shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.”
 
 **FTC Guidelines Regarding Prescreening for Insurance Transactions**
 
-Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009–434, provided that: “The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act [15 U.S.C. 1681b(c)], as added by subsection (a) of this section.”
+Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009–434, provided that: “The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act [15 U.S.C. 1681b(c)], as added by subsection (a) of this section.”
 
-### § 1681c. Requirements relating to information contained in consumer reports
+### § 1681c. Requirements relating to information contained in consumer reports
 
 **(a) Information excluded from consumer reports** Except as authorized under subsection (b), no consumer reporting agency may make any consumer report containing any of the following items of information:
 
@@ -8267,9 +8267,9 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(4) o
 
 **(f) Indication of dispute by consumer**
 
-If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who 1
+If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who 1
 
-<sup>1</sup>  So in original. Probably should be “which”.
+<sup>1</sup> So in original. Probably should be “which”.
 
 was furnished to the agency is disputed by the consumer, the agency shall indicate that fact in each consumer report that includes the disputed information.
 
@@ -8301,7 +8301,7 @@ If a person has requested a consumer report relating to a consumer from a consum
 
 The Bureau shall,,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,,2 prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when such user has received a notice of discrepancy under paragraph (1).
 
@@ -8311,7 +8311,7 @@ in consultation with the Federal banking agencies, the National Credit Union Adm
 
 **(ii)** if the user establishes a continuing relationship with the consumer, and the user regularly and in the ordinary course of business furnishes information to the consumer reporting agency from which the notice of discrepancy pertaining to the consumer was obtained, to reconcile the address of the consumer with the consumer reporting agency by furnishing such address to such consumer reporting agency as part of information regularly furnished by the user for the period in which the relationship is established.
 
-(Pub. L. 90–321, title VI, § 605, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, § 312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, § 2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, § 5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, § 113, title II, § 212(d), title III, § 315, title IV, § 412(b), (c), title VIII, § 811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011; Pub. L. 111–203, title X, § 1088(a)(2)(D), (5), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, § 302(b)(2), May 24, 2018, 132 Stat. 1333.)
+(Pub. L. 90–321, title VI, § 605, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, § 312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, § 2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, § 5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, § 113, title II, § 212(d), title III, § 315, title IV, § 412(b), (c), title VIII, § 811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011; Pub. L. 111–203, title X, § 1088(a)(2)(D), (5), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, § 302(b)(2), May 24, 2018, 132 Stat. 1333.)
 
 **Editorial Notes**
 
@@ -8325,39 +8325,39 @@ Section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protec
 
 2018—Subsec. (a)(7), (8). Pub. L. 115–174 added pars. (7) and (8).
 
-2010—Subsec. (h)(2)(A). Pub. L. 111–203, § 1088(a)(5), substituted “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,” for “with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title”.
+2010—Subsec. (h)(2)(A). Pub. L. 111–203, § 1088(a)(5), substituted “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,” for “with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title”.
 
-Pub. L. 111–203, § 1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
+Pub. L. 111–203, § 1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
 
-2003—Subsec. (a)(1). Pub. L. 108–159, § 811(c)(1), substituted “(1) Cases” for “(1) cases”.
+2003—Subsec. (a)(1). Pub. L. 108–159, § 811(c)(1), substituted “(1) Cases” for “(1) cases”.
 
-Subsec. (a)(2). Pub. L. 108–159, § 811(c)(2)(A), made technical correction to directory language of Pub. L. 105–347, § 5(1). See 1998 Amendment note below.
+Subsec. (a)(2). Pub. L. 108–159, § 811(c)(2)(A), made technical correction to directory language of Pub. L. 105–347, § 5(1). See 1998 Amendment note below.
 
-Subsec. (a)(6). Pub. L. 108–159, § 412(b), added par. (6).
+Subsec. (a)(6). Pub. L. 108–159, § 412(b), added par. (6).
 
-Subsec. (b). Pub. L. 108–159, § 412(c), substituted “The provisions of paragraphs (1) through (5) of subsection (a)” for “The provisions of subsection (a)” in introductory provisions.
+Subsec. (b). Pub. L. 108–159, § 412(c), substituted “The provisions of paragraphs (1) through (5) of subsection (a)” for “The provisions of subsection (a)” in introductory provisions.
 
-Subsec. (d). Pub. L. 108–159, § 212(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (d). Pub. L. 108–159, § 212(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (g). Pub. L. 108–159, § 113, added subsec. (g).
+Subsec. (g). Pub. L. 108–159, § 113, added subsec. (g).
 
-Subsec. (h). Pub. L. 108–159, § 315, added subsec. (h).
+Subsec. (h). Pub. L. 108–159, § 315, added subsec. (h).
 
-1998—Subsec. (a)(2). Pub. L. 105–347, § 5(1), as amended by Pub. L. 108–159, § 811(c)(2)(A), substituted “Civil suits, civil judgments, and records of arrest that” for “Suits and judgments which”.
+1998—Subsec. (a)(2). Pub. L. 105–347, § 5(1), as amended by Pub. L. 108–159, § 811(c)(2)(A), substituted “Civil suits, civil judgments, and records of arrest that” for “Suits and judgments which”.
 
-Subsec. (a)(5), (6). Pub. L. 105–347, § 5(2)–(4), redesignated par. (6) as (5), inserted “, other than records of convictions of crimes” after “of information”, and struck out former par. (5) which read as follows: “Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
+Subsec. (a)(5), (6). Pub. L. 105–347, § 5(2)–(4), redesignated par. (6) as (5), inserted “, other than records of convictions of crimes” after “of information”, and struck out former par. (5) which read as follows: “Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
 
-1996—Pub. L. 104–208, § 2406(e)(1), amended section catchline.
+1996—Pub. L. 104–208, § 2406(e)(1), amended section catchline.
 
-Subsec. (a). Pub. L. 104–208, § 2406(a)(1), inserted heading.
+Subsec. (a). Pub. L. 104–208, § 2406(a)(1), inserted heading.
 
-Subsec. (b). Pub. L. 104–208, § 2406(a)(2), substituted “$150,000” for “$50,000” in pars. (1) and (2) and “$75,000” for “$20,000” in par. (3).
+Subsec. (b). Pub. L. 104–208, § 2406(a)(2), substituted “$150,000” for “$50,000” in pars. (1) and (2) and “$75,000” for “$20,000” in par. (3).
 
-Subsec. (c). Pub. L. 104–208, § 2406(b), added subsec. (c).
+Subsec. (c). Pub. L. 104–208, § 2406(b), added subsec. (c).
 
-Subsec. (d). Pub. L. 104–208, § 2406(c), added subsec. (d).
+Subsec. (d). Pub. L. 104–208, § 2406(c), added subsec. (d).
 
-Subsecs. (e), (f). Pub. L. 104–208, § 2406(d), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 104–208, § 2406(d), added subsecs. (e) and (f).
 
 1978—Subsec. (a)(1). Pub. L. 95–598 substituted “cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years” for “Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years”.
 
@@ -8377,7 +8377,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 Amendment by section 412 of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
 
-Pub. L. 108–159, title VIII, § 811(c)(2)(B), Dec. 4, 2003, 117 Stat. 2011, provided that: “The amendment made by subparagraph (A) [amending this section] shall be deemed to have the same effective date as section 5(1) of Public Law 105–347 (112 Stat. 3211) [see Effective Date of 1998 Amendment note below].”
+Pub. L. 108–159, title VIII, § 811(c)(2)(B), Dec. 4, 2003, 117 Stat. 2011, provided that: “The amendment made by subparagraph (A) [amending this section] shall be deemed to have the same effective date as section 5(1) of Public Law 105–347 (112 Stat. 3211) [see Effective Date of 1998 Amendment note below].”
 
 **Effective Date of 1998 Amendment**
 
@@ -8397,7 +8397,7 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 **Verification of Veteran’s Medical Debt**
 
-Pub. L. 115–174, title III, § 302(c), May 24, 2018, 132 Stat. 1334, provided that:
+Pub. L. 115–174, title III, § 302(c), May 24, 2018, 132 Stat. 1334, provided that:
 
 > **“(1) Definitions.—** For purposes of this subsection—
 
@@ -8421,7 +8421,7 @@ Pub. L. 115–174, title III, § 302(c), May 24, 2018, 132 Stat. 1334, provide
 
 > **“(5) Verification.—** Provided the database established under paragraph (2) is fully functional and the data available to consumer reporting agencies, a consumer reporting agency shall use the database as a means to identify a veteran’s medical debt pursuant to paragraphs (7) and (8) of section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)), as added by subsection (b)(2).”
 
-### § 1681c–1. Identity theft prevention; fraud alerts and active duty alerts
+### § 1681c–1. Identity theft prevention; fraud alerts and active duty alerts
 
 (a) One-call fraud alerts
 
@@ -8499,9 +8499,9 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 (A) Notification
 
-Each initial fraud alert and active duty alert under this section shall include information that notifies all prospective users of a consumer report on the consumer to which the alert relates that the consumer does not authorize the establishment of any new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) 1
+Each initial fraud alert and active duty alert under this section shall include information that notifies all prospective users of a consumer report on the consumer to which the alert relates that the consumer does not authorize the establishment of any new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B).
 
@@ -8509,7 +8509,7 @@ of this title), in the name of the consumer, or issuance of an additional card o
 
 (i) In general
 
-No prospective user of a consumer report that includes an initial fraud alert or an active duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
+No prospective user of a consumer report that includes an initial fraud alert or an active duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
 
 (ii) Verification
 
@@ -8521,13 +8521,13 @@ If a consumer requesting the alert has specified a telephone number to be used f
 
 Each extended alert under this section shall include information that provides all prospective users of a consumer report relating to a consumer with—
 
-(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
+(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
 
 (ii) a telephone number or other reasonable contact method designated by the consumer.
 
 (B) Limitation on users
 
-No prospective user of a consumer report or of a credit score generated using the information in the file of a consumer that includes an extended fraud alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, unless the user contacts the consumer in person or using the contact method described in subparagraph (A)(ii) to confirm that the application for a new credit plan or increase in credit limit, or request for an additional card is not the result of identity theft.
+No prospective user of a consumer report or of a credit score generated using the information in the file of a consumer that includes an extended fraud alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, unless the user contacts the consumer in person or using the contact method described in subparagraph (A)(ii) to confirm that the application for a new credit plan or increase in credit limit, or request for an additional card is not the result of identity theft.
 
 (i) National security freeze
 
@@ -8785,23 +8785,23 @@ Not later than 1 year after May 24, 2018, the Federal Trade Commission shall pro
 
 (B) This subsection shall be enforced exclusively under section 1681s of this title by the Federal agencies and Federal and State officials identified in that section.
 
-(Pub. L. 90–321, title VI, § 605A, as added Pub. L. 108–159, title I, § 112(a), Dec. 4, 2003, 117 Stat. 1955; amended Pub. L. 111–203, title X, § 1088(a)(2)(C), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §§ 301(a), 302(d)(1), May 24, 2018, 132 Stat. 1326, 1334.)
+(Pub. L. 90–321, title VI, § 605A, as added Pub. L. 108–159, title I, § 112(a), Dec. 4, 2003, 117 Stat. 1955; amended Pub. L. 111–203, title X, § 1088(a)(2)(C), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §§ 301(a), 302(d)(1), May 24, 2018, 132 Stat. 1326, 1334.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(i) of this title, referred to in subsec. (h), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(i) of this title, referred to in subsec. (h), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Social Security Act, referred to in subsec. (i)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title IV of the Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (i)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title IV of the Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(1)(A). Pub. L. 115–174, § 301(a)(1), substituted “1 year” for “90 days”.
+2018—Subsec. (a)(1)(A). Pub. L. 115–174, § 301(a)(1), substituted “1 year” for “90 days”.
 
-Subsecs. (i), (j). Pub. L. 115–174, § 301(a)(2), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 115–174, § 301(a)(2), added subsecs. (i) and (j).
 
-Subsec. (k). Pub. L. 115–174, § 302(d)(1), added subsec. (k).
+Subsec. (k). Pub. L. 115–174, § 302(d)(1), added subsec. (k).
 
 2010—Subsecs. (c)(1), (g). Pub. L. 111–203 substituted “the Bureau” for “the Commission”.
 
@@ -8809,7 +8809,7 @@ Subsec. (k). Pub. L. 115–174, § 302(d)(1), added subsec. (k).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–174, title III, § 301(c), May 24, 2018, 132 Stat. 1332, provided that: “The amendments made by this section [amending this section and section 1681t of this title] shall take effect on the date that is 120 days after the date of enactment of this Act [May 24, 2018].”
+Pub. L. 115–174, title III, § 301(c), May 24, 2018, 132 Stat. 1332, provided that: “The amendments made by this section [amending this section and section 1681t of this title] shall take effect on the date that is 120 days after the date of enactment of this Act [May 24, 2018].”
 
 Amendment by section 302(d)(1) of Pub. L. 115–174 effective 1 year after May 24, 2018, see section 302(e) of Pub. L. 115–174, set out as a note under section 1681a of this title.
 
@@ -8823,15 +8823,15 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 **Regulations**
 
-Pub. L. 108–159, title I, § 112(b), Dec. 4, 2003, 117 Stat. 1959, as amended by Pub. L. 111–203, title X, § 1088(b)(1), July 21, 2010, 124 Stat. 2092, provided that: “The Bureau shall prescribe regulations to define what constitutes appropriate proof of identity for purposes of sections 605A , 605B, and 609(a)(1) of the Fair Credit Reporting Act [15 U.S.C. 1681c–1, 1681c–2, 1681g(a)(1)], as amended by this Act.”
+Pub. L. 108–159, title I, § 112(b), Dec. 4, 2003, 117 Stat. 1959, as amended by Pub. L. 111–203, title X, § 1088(b)(1), July 21, 2010, 124 Stat. 2092, provided that: “The Bureau shall prescribe regulations to define what constitutes appropriate proof of identity for purposes of sections 605A , 605B, and 609(a)(1) of the Fair Credit Reporting Act [15 U.S.C. 1681c–1, 1681c–2, 1681g(a)(1)], as amended by this Act.”
 
 **Public Campaign To Prevent Identity Theft**
 
-Pub. L. 108–159, title I, § 151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 4, 2003], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD’s) or compact audio discs (CD’s), and Internet resources.”
+Pub. L. 108–159, title I, § 151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 4, 2003], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD’s) or compact audio discs (CD’s), and Internet resources.”
 
 [For definitions of terms used in section 151(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.]
 
-### § 1681c–2. Block of information resulting from identity theft
+### § 1681c–2. Block of information resulting from identity theft
 
 **(a) Block** Except as otherwise provided in this section, a consumer reporting agency shall block the reporting of any information in the file of a consumer that the consumer identifies as information that resulted from an alleged identity theft, not later than 4 business days after the date of receipt by such agency of—
 
@@ -8899,7 +8899,7 @@ The provisions of this section do not apply to a check services company, acting 
 
 No provision of this section shall be construed as requiring a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing blocked information in a consumer file to which the agency could otherwise obtain access under this subchapter.
 
-(Pub. L. 90–321, title VI, § 605B, as added Pub. L. 108–159, title I, § 152(a), Dec. 4, 2003, 117 Stat. 1964; amended Pub. L. 111–203, title X, § 1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
+(Pub. L. 90–321, title VI, § 605B, as added Pub. L. 108–159, title I, § 152(a), Dec. 4, 2003, 117 Stat. 1964; amended Pub. L. 111–203, title X, § 1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
 
 **Editorial Notes**
 
@@ -8917,7 +8917,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of this title.
 
-### § 1681c–3. Adverse information in cases of trafficking
+### § 1681c–3. Adverse information in cases of trafficking
 
 **(a) Definitions** In this section:
 
@@ -8953,15 +8953,15 @@ Not later than 180 days after December 27, 2021, the Director shall issue rules 
 
 The rules issued pursuant to paragraph (1) shall establish a method by which consumers shall submit trafficking documentation to consumer reporting agencies.
 
-(Pub. L. 90–321, title VI, § 605C, as added Pub. L. 117–81, div. F, title LXI, § 6102(a), Dec. 27, 2021, 135 Stat. 2383.)
+(Pub. L. 90–321, title VI, § 605C, as added Pub. L. 117–81, div. F, title LXI, § 6102(a), Dec. 27, 2021, 135 Stat. 2383.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–81, div. F, title LXI, § 6102(c), Dec. 27, 2021, 135 Stat. 2384, provided that: “The amendments made by this section [enacting this section] shall apply on the date that is 30 days after the date on which the Director of the Bureau of Consumer Financial Protection issues a rule pursuant to section 605C(c) of the Fair Credit Reporting Act [15 U.S.C. 1681c–3(c)], as added by subsection (a) of this section. Any rule issued by the Director to implement such section 605C [15 U.S.C. 1681c–3] shall be limited to preventing a consumer reporting agency from furnishing a consumer report containing any adverse item of information about a consumer (as such terms are defined, respectively, in section 603 the Fair Credit Reporting Act (15 U.S.C. 1681a)) that resulted from trafficking.”
+Pub. L. 117–81, div. F, title LXI, § 6102(c), Dec. 27, 2021, 135 Stat. 2384, provided that: “The amendments made by this section [enacting this section] shall apply on the date that is 30 days after the date on which the Director of the Bureau of Consumer Financial Protection issues a rule pursuant to section 605C(c) of the Fair Credit Reporting Act [15 U.S.C. 1681c–3(c)], as added by subsection (a) of this section. Any rule issued by the Director to implement such section 605C [15 U.S.C. 1681c–3] shall be limited to preventing a consumer reporting agency from furnishing a consumer report containing any adverse item of information about a consumer (as such terms are defined, respectively, in section 603 the Fair Credit Reporting Act (15 U.S.C. 1681a)) that resulted from trafficking.”
 
-### § 1681d. Disclosure of investigative consumer reports
+### § 1681d. Disclosure of investigative consumer reports
 
 **(a) Disclosure of fact of preparation** A person may not procure or cause to be prepared an investigative consumer report on any consumer unless—
 
@@ -9001,19 +9001,19 @@ Except as otherwise provided in section 1681k of this title, a consumer reportin
 
 **(B)** the person interviewed is the best possible source of the information.
 
-(Pub. L. 90–321, title VI, § 606, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, §§ 2408(d)(2), 2414, Sept. 30, 1996, 110 Stat. 3009–438, 3009–449.)
+(Pub. L. 90–321, title VI, § 606, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, §§ 2408(d)(2), 2414, Sept. 30, 1996, 110 Stat. 3009–438, 3009–449.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–208, §§ 2408(d)(2), 2414(1), inserted “and the written summary of the rights of the consumer prepared pursuant to section 1681g(c) of this title” before the semicolon and substituted “and” for “or” at end.
+1996—Subsec. (a)(1)(B). Pub. L. 104–208, §§ 2408(d)(2), 2414(1), inserted “and the written summary of the rights of the consumer prepared pursuant to section 1681g(c) of this title” before the semicolon and substituted “and” for “or” at end.
 
-Subsec. (a)(2). Pub. L. 104–208, § 2414(2), added par. (2) and struck out former par. (2) which read as follows: “the report is to be used for employment purposes for which the consumer has not specifically applied.”
+Subsec. (a)(2). Pub. L. 104–208, § 2414(2), added par. (2) and struck out former par. (2) which read as follows: “the report is to be used for employment purposes for which the consumer has not specifically applied.”
 
-Subsec. (b). Pub. L. 104–208, § 2414(3), substituted “, make a complete” for “, shall make a complete”.
+Subsec. (b). Pub. L. 104–208, § 2414(3), substituted “, make a complete” for “, shall make a complete”.
 
-Subsec. (d). Pub. L. 104–208, § 2414(4), added subsec. (d).
+Subsec. (d). Pub. L. 104–208, § 2414(4), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9025,7 +9025,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681e. Compliance procedures
+### § 1681e. Compliance procedures
 
 **(a) Identity and purposes of credit users**
 
@@ -9075,15 +9075,15 @@ The Bureau shall prescribe the content of notices under paragraph (1), and a con
 
 **(3) Resale of consumer report to a Federal agency or department** Notwithstanding paragraph (1) or (2), a person who procures a consumer report for purposes of reselling the report (or any information in the report) shall not disclose the identity of the end-user of the report under paragraph (1) or (2) if—
 
-**(A)** the end user is an agency or department of the United States Government which procures the report from the person for purposes of determining the eligibility of the consumer concerned to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) 1
+**(A)** the end user is an agency or department of the United States Government which procures the report from the person for purposes of determining the eligibility of the consumer concerned to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title); and
 
 **(B)** the agency or department certifies in writing to the person reselling the report that nondisclosure is necessary to protect classified information or the safety of persons employed by or contracting with, or undergoing investigation for work or contracting with the agency or department.
 
-(Pub. L. 90–321, title VI, § 607, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, § 2407, Sept. 30, 1996, 110 Stat. 3009–435; Pub. L. 105–107, title III, § 311(b), Nov. 20, 1997, 111 Stat. 2256; Pub. L. 111–203, title X, § 1088(a)(2)(A), July 21, 2010, 124 Stat. 2087.)
+(Pub. L. 90–321, title VI, § 607, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, § 2407, Sept. 30, 1996, 110 Stat. 3009–435; Pub. L. 105–107, title III, § 311(b), Nov. 20, 1997, 111 Stat. 2256; Pub. L. 111–203, title X, § 1088(a)(2)(A), July 21, 2010, 124 Stat. 2087.)
 
 **Editorial Notes**
 
@@ -9117,11 +9117,11 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681f. Disclosures to governmental agencies
+### § 1681f. Disclosures to governmental agencies
 
 Notwithstanding the provisions of section 1681b of this title, a consumer reporting agency may furnish identifying information respecting any consumer, limited to his name, address, former addresses, places of employment, or former places of employment, to a governmental agency.
 
-(Pub. L. 90–321, title VI, § 608, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1131.)
+(Pub. L. 90–321, title VI, § 608, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1131.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9129,7 +9129,7 @@ Notwithstanding the provisions of section 1681b of this title, a consumer report
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681g. Disclosures to consumers
+### § 1681g. Disclosures to consumers
 
 (a) Information on file; sources; report recipients
 
@@ -9157,9 +9157,9 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (C) Subparagraph (A) does not apply if—
 
-(i) the end user is an agency or department of the United States Government that procures the report from the person for purposes of determining the eligibility of the consumer to whom the report relates to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) 1
+(i) the end user is an agency or department of the United States Government that procures the report from the person for purposes of determining the eligibility of the consumer to whom the report relates to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title); and
 
@@ -9177,15 +9177,15 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 (c) Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores
 
-(1) Commission 2
+(1) Commission 2
 
-<sup>2</sup>  So in original. Probably should be “Bureau”.
+<sup>2</sup> So in original. Probably should be “Bureau”.
 
 summary of rights required
 
 (A) In general
 
-The Commission <sup>2</sup> shall prepare a model summary of the rights of consumers under this subchapter.
+The Commission <sup>2</sup> shall prepare a model summary of the rights of consumers under this subchapter.
 
 (B) Content of summary
 
@@ -9199,13 +9199,13 @@ The summary of rights prepared under subparagraph (A) shall include a descriptio
 
 (iv) the right of a consumer to obtain a credit score from a consumer reporting agency, and a description of how to obtain a credit score;
 
-(v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Bureau prescribed under section 211(c) <sup>1</sup> of the Fair and Accurate Credit Transactions Act of 2003; and
+(v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Bureau prescribed under section 211(c) <sup>1</sup> of the Fair and Accurate Credit Transactions Act of 2003; and
 
-(vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 1681a(w) <sup>1</sup> of this title, as provided in the regulations of the Bureau prescribed under section 1681j(a)(1)(C) of this title.
+(vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 1681a(w) <sup>1</sup> of this title, as provided in the regulations of the Bureau prescribed under section 1681j(a)(1)(C) of this title.
 
 (C) Availability of summary of rights
 
-The Commission <sup>2</sup> shall—
+The Commission <sup>2</sup> shall—
 
 (i) actively publicize the availability of the summary of rights prepared under this paragraph;
 
@@ -9269,9 +9269,9 @@ Before a business entity provides any information under paragraph (1), unless th
 
 (I) copy of a standardized affidavit of identity theft developed and made available by the Bureau; or
 
-(II) an 3
+(II) an 3
 
-<sup>3</sup>  So in original. The word “an” probably should not appear.
+<sup>3</sup> So in original. The word “an” probably should not appear.
 
 affidavit of fact that is acceptable to the business entity for that purpose.
 
@@ -9513,7 +9513,7 @@ Any provision in a contract that prohibits the disclosure of a credit score by a
 
 A lender shall not have liability under any contractual provision for disclosure of a credit score pursuant to this subsection.
 
-(Pub. L. 90–321, title VI, § 609, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, § 339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, § 2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439; Pub. L. 105–347, § 4(a), Nov. 2, 1998, 112 Stat. 3210; Pub. L. 108–159, title I, §§ 115, 151(a)(1), title II, §§ 211(c), 212(a)–(c), title VIII, § 811(d), Dec. 4, 2003, 117 Stat. 1961, 1970, 1973–1975, 2011; Pub. L. 111–203, title X, § 1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
+(Pub. L. 90–321, title VI, § 609, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, § 339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, § 2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439; Pub. L. 105–347, § 4(a), Nov. 2, 1998, 112 Stat. 3210; Pub. L. 108–159, title I, §§ 115, 151(a)(1), title II, §§ 211(c), 212(a)–(c), title VIII, § 811(d), Dec. 4, 2003, 117 Stat. 1961, 1970, 1973–1975, 2011; Pub. L. 111–203, title X, § 1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
 
 **Editorial Notes**
 
@@ -9525,7 +9525,7 @@ For the effective date of this subchapter, referred to in subsec. (b), see secti
 
 Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (c)(1)(B)(v), probably means section 211(d) of Pub. L. 108–159, which is set out as a note under section 1681j of this title and relates to the promulgation of regulations. Section 211(c) of Pub. L. 108–159 amended this section.
 
-Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
+Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
 Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
@@ -9533,7 +9533,7 @@ Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, No
 
 2010—Pub. L. 111–203 substituted “the Bureau” for “the Commission” wherever appearing.
 
-2003—Subsec. (a)(1). Pub. L. 108–159, § 115, substituted “except that—
+2003—Subsec. (a)(1). Pub. L. 108–159, § 115, substituted “except that—
 
 “(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
 
@@ -9541,33 +9541,33 @@ Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, No
 
 for “except that nothing”.
 
-Subsec. (a)(2), (3)(C). Pub. L. 108–159, § 811(d), realigned margins.
+Subsec. (a)(2), (3)(C). Pub. L. 108–159, § 811(d), realigned margins.
 
-Subsec. (a)(6). Pub. L. 108–159, § 212(a), added par. (6).
+Subsec. (a)(6). Pub. L. 108–159, § 212(a), added par. (6).
 
-Subsec. (c). Pub. L. 108–159, § 211(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the summary of rights required to be included with disclosure to consumers by consumer reporting agencies.
+Subsec. (c). Pub. L. 108–159, § 211(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the summary of rights required to be included with disclosure to consumers by consumer reporting agencies.
 
-Subsecs. (d), (e). Pub. L. 108–159, § 151(a)(1), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 108–159, § 151(a)(1), added subsecs. (d) and (e).
 
-Subsec. (f). Pub. L. 108–159, § 212(b), added subsec. (f).
+Subsec. (f). Pub. L. 108–159, § 212(b), added subsec. (f).
 
-Subsec. (g). Pub. L. 108–159, § 212(c), added subsec. (g).
+Subsec. (g). Pub. L. 108–159, § 212(c), added subsec. (g).
 
 1998—Subsec. (a)(3)(C). Pub. L. 105–347 added subpar. (C).
 
-1996—Subsec. (a). Pub. L. 104–208, § 2408(e)(5)(A), in introductory provisions substituted “, and subject to section 1681h(a)(1) of this title” for “and proper identification of any consumer”.
+1996—Subsec. (a). Pub. L. 104–208, § 2408(e)(5)(A), in introductory provisions substituted “, and subject to section 1681h(a)(1) of this title” for “and proper identification of any consumer”.
 
-Subsec. (a)(1). Pub. L. 104–208, § 2408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The nature and substance of all information (except medical information) in its files on the consumer at the time of the request.”
+Subsec. (a)(1). Pub. L. 104–208, § 2408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The nature and substance of all information (except medical information) in its files on the consumer at the time of the request.”
 
-Subsec. (a)(3). Pub. L. 104–208, § 2408(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The recipients of any consumer report on the consumer which it has furnished—
+Subsec. (a)(3). Pub. L. 104–208, § 2408(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The recipients of any consumer report on the consumer which it has furnished—
 
 “(A) for employment purposes within the two-year period preceding the request, and
 
 “(B) for any other purpose within the six-month period preceding the request.”
 
-Subsec. (a)(5). Pub. L. 104–208, § 2408(c), added par. (5).
+Subsec. (a)(5). Pub. L. 104–208, § 2408(c), added par. (5).
 
-Subsec. (c). Pub. L. 104–208, § 2408(d)(1), added subsec. (c).
+Subsec. (c). Pub. L. 104–208, § 2408(d)(1), added subsec. (c).
 
 1994—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
 
@@ -9595,13 +9595,13 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 **Simplified Disclosure To Maximize Comprehensibility and Standardization**
 
-Pub. L. 104–208, div. A, title II, § 2408(e)(2), (3), Sept. 30, 1996, 110 Stat. 3009–438, 3009–439, provided that:
+Pub. L. 104–208, div. A, title II, § 2408(e)(2), (3), Sept. 30, 1996, 110 Stat. 3009–438, 3009–439, provided that:
 
 > **“(2) Simplified disclosure.—** Not later than 90 days after the date of enactment of this Act [Sept. 30, 1996], each consumer reporting agency shall develop a form on which such consumer reporting agency shall make the disclosures required under section 609(a) of the Fair Credit Reporting Act [15 U.S.C. 1681g(a)], for the purpose of maximizing the comprehensibility and standardization of such disclosures.
 
 > **“(3) Goals.—** The Federal Trade Commission shall take appropriate action to assure that the goals of comprehensibility and standardization are achieved in accordance with paragraph (2).”
 
-### § 1681h. Conditions and form of disclosure to consumers
+### § 1681h. Conditions and form of disclosure to consumers
 
 **(a) In general**
 
@@ -9615,9 +9615,9 @@ Except as provided in subsection (b), the disclosures required to be made under 
 
 **(b) Other forms of disclosure**
 
-**(1) In general** If authorized by a consumer, a consumer reporting agency may make the disclosures required under 1
+**(1) In general** If authorized by a consumer, a consumer reporting agency may make the disclosures required under 1
 
-<sup>1</sup>  So in original. Probably should be followed by “section”.
+<sup>1</sup> So in original. Probably should be followed by “section”.
 
 1681g of this title—
 
@@ -9649,29 +9649,29 @@ The consumer shall be permitted to be accompanied by one other person of his cho
 
 **(e) Limitation of liability**
 
-Except as provided in sections 1681n and 1681*o* of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report 2
+Except as provided in sections 1681n and 1681*o* of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 except as to false information furnished with malice or willful intent to injure such consumer.
 
-(Pub. L. 90–321, title VI, § 610, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 104–208, div. A, title II, § 2408(e)(1), (4), (5)(B), Sept. 30, 1996, 110 Stat. 3009–438, 3009–439.)
+(Pub. L. 90–321, title VI, § 610, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 104–208, div. A, title II, § 2408(e)(1), (4), (5)(B), Sept. 30, 1996, 110 Stat. 3009–438, 3009–439.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–208, § 2408(e)(5)(B), inserted “and form” after “Conditions” in section catchline.
+1996—Pub. L. 104–208, § 2408(e)(5)(B), inserted “and form” after “Conditions” in section catchline.
 
-Subsec. (a). Pub. L. 104–208, § 2408(e)(1), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall make the disclosures required under section 1681g of this title during normal business hours and on reasonable notice.”
+Subsec. (a). Pub. L. 104–208, § 2408(e)(1), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall make the disclosures required under section 1681g of this title during normal business hours and on reasonable notice.”
 
-Subsec. (b). Pub. L. 104–208, § 2408(e)(1), inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The disclosures required under section 1681g of this title shall be made to the consumer—
+Subsec. (b). Pub. L. 104–208, § 2408(e)(1), inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The disclosures required under section 1681g of this title shall be made to the consumer—
 
 “(1) in person if he appears in person and furnishes proper identification; or
 
 “(2) by telephone if he has made a written request, with proper identification, for telephone disclosure and the toll charge, if any, for the telephone call is prepaid by or charged directly to the consumer.”
 
-Subsec. (e). Pub. L. 104–208, § 2408(e)(4), inserted “or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report” before “except”.
+Subsec. (e). Pub. L. 104–208, § 2408(e)(4), inserted “or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report” before “except”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9683,7 +9683,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681i. Procedure in case of disputed accuracy
+### § 1681i. Procedure in case of disputed accuracy
 
 **(a) Reinvestigations of disputed information**
 
@@ -9809,9 +9809,9 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 **(e) Treatment of complaints and report to Congress**
 
-**(1) In general** The Commission 1
+**(1) In general** The Commission 1
 
-<sup>1</sup>  So in original. Probably should be “Bureau”.
+<sup>1</sup> So in original. Probably should be “Bureau”.
 
 shall—
 
@@ -9833,11 +9833,11 @@ Complaints received or obtained by the Bureau pursuant to its investigative auth
 
 **(4) Rulemaking authority**
 
-The Commission <sup>1</sup> may prescribe regulations, as appropriate to implement this subsection.
+The Commission <sup>1</sup> may prescribe regulations, as appropriate to implement this subsection.
 
 **(5) Annual report**
 
-The Commission <sup>1</sup> shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report regarding information gathered by the Bureau under this subsection.
+The Commission <sup>1</sup> shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report regarding information gathered by the Bureau under this subsection.
 
 **(f) Reinvestigation requirement applicable to resellers**
 
@@ -9879,45 +9879,45 @@ The Department of Veterans Affairs shall submit to a veteran a notice that the D
 
 If a consumer reporting agency receives notice, proof of liability, or documentation under paragraph (1), the consumer reporting agency shall delete all information relating to the veteran’s medical debt from the file of the veteran and notify the furnisher and the veteran of that deletion.
 
-(Pub. L. 90–321, title VI, § 611, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, § 2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, § 6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§ 313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998; Pub. L. 111–203, title X, § 1088(a)(2)(C), (6), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, § 302(b)(3), May 24, 2018, 132 Stat. 1333.)
+(Pub. L. 90–321, title VI, § 611, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, § 2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, § 6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§ 313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998; Pub. L. 111–203, title X, § 1088(a)(2)(C), (6), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, § 302(b)(3), May 24, 2018, 132 Stat. 1333.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (e)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (e)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(1)(A). Pub. L. 115–174, § 302(b)(3)(A), inserted “and except as provided in subsection (g)” after “subsection (f)”.
+2018—Subsec. (a)(1)(A). Pub. L. 115–174, § 302(b)(3)(A), inserted “and except as provided in subsection (g)” after “subsection (f)”.
 
-Subsec. (g). Pub. L. 115–174, § 302(b)(3)(B), added subsec. (g).
+Subsec. (g). Pub. L. 115–174, § 302(b)(3)(B), added subsec. (g).
 
-2010—Subsec. (e)(2). Pub. L. 111–203, § 1088(a)(6), added par. (2) and struck out former par. (2) which read as follows: “Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1).”
+2010—Subsec. (e)(2). Pub. L. 111–203, § 1088(a)(6), added par. (2) and struck out former par. (2) which read as follows: “Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1).”
 
-Subsec. (e)(3), (5). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
+Subsec. (e)(3), (5). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
 
-2003—Subsec. (a)(1)(A). Pub. L. 108–159, § 317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
+2003—Subsec. (a)(1)(A). Pub. L. 108–159, § 317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
 
-Pub. L. 108–159, § 316(a)(1), substituted “Subject to subsection (f), if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
+Pub. L. 108–159, § 316(a)(1), substituted “Subject to subsection (f), if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
 
-Subsec. (a)(2)(A). Pub. L. 108–159, § 316(a)(2), inserted “or a reseller” after “dispute from any consumer” and “or reseller” before period at end.
+Subsec. (a)(2)(A). Pub. L. 108–159, § 316(a)(2), inserted “or a reseller” after “dispute from any consumer” and “or reseller” before period at end.
 
-Subsec. (a)(2)(B). Pub. L. 108–159, § 316(c), struck out “from consumer” after “information” in heading.
+Subsec. (a)(2)(B). Pub. L. 108–159, § 316(c), struck out “from consumer” after “information” in heading.
 
-Pub. L. 108–159, § 316(a)(3), inserted “or the reseller” after “from the consumer”.
+Pub. L. 108–159, § 316(a)(3), inserted “or the reseller” after “from the consumer”.
 
-Subsec. (a)(5)(A). Pub. L. 108–159, § 314(a), substituted “shall—” and cls. (i) and (ii) for “shall promptly delete that item of information from the consumer’s file or modify that item of information, as appropriate, based on the results of the reinvestigation.”
+Subsec. (a)(5)(A). Pub. L. 108–159, § 314(a), substituted “shall—” and cls. (i) and (ii) for “shall promptly delete that item of information from the consumer’s file or modify that item of information, as appropriate, based on the results of the reinvestigation.”
 
-Subsec. (e). Pub. L. 108–159, § 313(a), added subsec. (e).
+Subsec. (e). Pub. L. 108–159, § 313(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 108–159, § 316(b), added subsec. (f).
+Subsec. (f). Pub. L. 108–159, § 316(b), added subsec. (f).
 
 1998—Subsec. (a)(7). Pub. L. 105–347 substituted “(6)(B)(iii)” for “(6)(B)(iv)”.
 
-1996—Subsec. (a). Pub. L. 104–208, § 2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer’s file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
+1996—Subsec. (a). Pub. L. 104–208, § 2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer’s file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
 
-Subsec. (d). Pub. L. 104–208, § 2409(b), struck out at end “The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer’s statement regarding the disputed information is received.”
+Subsec. (d). Pub. L. 104–208, § 2409(b), struck out at end “The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer’s statement regarding the disputed information is received.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9947,7 +9947,7 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 **Prompt Investigation of Disputed Consumer Information**
 
-Pub. L. 108–159, title III, § 313(b), Dec. 4, 2003, 117 Stat. 1994, provided that:
+Pub. L. 108–159, title III, § 313(b), Dec. 4, 2003, 117 Stat. 1994, provided that:
 
 > **“(1) Study required.—** The Board and the Commission shall jointly study the extent to which, and the manner in which, consumer reporting agencies and furnishers of consumer information to consumer reporting agencies are complying with the procedures, time lines, and requirements under the Fair Credit Reporting Act [this subchapter] for the prompt investigation of the disputed accuracy of any consumer information, the completeness of the information provided to consumer reporting agencies, and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.
 
@@ -9965,7 +9965,7 @@ Pub. L. 108–159, title III, § 313(b), Dec. 4, 2003, 117 Stat. 1994, provide
 
 [For definitions of terms used in section 313(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.]
 
-### § 1681j. Charges for certain disclosures
+### § 1681j. Charges for certain disclosures
 
 **(a) Free annual disclosure**
 
@@ -9973,25 +9973,25 @@ Pub. L. 108–159, title III, § 313(b), Dec. 4, 2003, 117 Stat. 1994, provide
 
 **(A) In general**
 
-All consumer reporting agencies described in subsections (p) and (w) 1
+All consumer reporting agencies described in subsections (p) and (w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of section 1681a of this title shall make all disclosures pursuant to section 1681g of this title once during any 12-month period upon request of the consumer and without charge to the consumer.
 
 **(B) Centralized source**
 
-Subparagraph (A) shall apply with respect to a consumer reporting agency described in section 1681a(p) of this title only if the request from the consumer is made using the centralized source established for such purpose in accordance with section 211(c) <sup>1</sup> of the Fair and Accurate Credit Transactions Act of 2003.
+Subparagraph (A) shall apply with respect to a consumer reporting agency described in section 1681a(p) of this title only if the request from the consumer is made using the centralized source established for such purpose in accordance with section 211(c) <sup>1</sup> of the Fair and Accurate Credit Transactions Act of 2003.
 
 **(C) Nationwide specialty consumer reporting agency**
 
 **(i) In general**
 
-The Commission 2
+The Commission 2
 
-<sup>2</sup>  So in original. Probably should be “Bureau”.
+<sup>2</sup> So in original. Probably should be “Bureau”.
 
-shall prescribe regulations applicable to each consumer reporting agency described in section 1681a(w) <sup>1</sup> of this title to require the establishment of a streamlined process for consumers to request consumer reports under subparagraph (A), which shall include, at a minimum, the establishment by each such agency of a toll-free telephone number for such requests.
+shall prescribe regulations applicable to each consumer reporting agency described in section 1681a(w) <sup>1</sup> of this title to require the establishment of a streamlined process for consumers to request consumer reports under subparagraph (A), which shall include, at a minimum, the establishment by each such agency of a toll-free telephone number for such requests.
 
 **(ii) Considerations** In prescribing regulations under clause (i), the Bureau shall consider—
 
@@ -10003,9 +10003,9 @@ shall prescribe regulations applicable to each consumer reporting agency describ
 
 **(iii) Date of issuance**
 
-The Commission <sup>2</sup> shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003.
+The Commission <sup>2</sup> shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003.
 
-**(iv) Consideration of ability to comply** The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) <sup>1</sup> of this title) shall be required to comply with subsection (a), which effective date—
+**(iv) Consideration of ability to comply** The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) <sup>1</sup> of this title) shall be required to comply with subsection (a), which effective date—
 
 **(I)** shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a); and
 
@@ -10071,19 +10071,19 @@ Subject to rulemaking pursuant to section 205(b) of the Credit CARD Act of 2009,
 
 **(2) Television and radio advertisement**
 
-In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison 3
+In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison 3
 
-<sup>3</sup>  So in original. Probably should be “television”.
+<sup>3</sup> So in original. Probably should be “television”.
 
 or radio, the disclosure required under paragraph (1) shall consist only of the following: “This is not the free credit report provided for by Federal law”.
 
-(Pub. L. 90–321, title VI, § 612, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, § 2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, § 211(a), Dec. 4, 2003, 117 Stat. 1968; Pub. L. 111–24, title II, § 205(a), May 22, 2009, 123 Stat. 1747; Pub. L. 111–203, title X, § 1088(a)(2)(A), (C), July 21, 2010, 124 Stat. 2087.)
+(Pub. L. 90–321, title VI, § 612, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, § 2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, § 211(a), Dec. 4, 2003, 117 Stat. 1968; Pub. L. 111–24, title II, § 205(a), May 22, 2009, 123 Stat. 1747; Pub. L. 111–203, title X, § 1088(a)(2)(A), (C), July 21, 2010, 124 Stat. 2087.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1681a(w) of this title, referred to in subsec. (a)(1)(A), (C)(i), (iv), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
+Section 1681a(w) of this title, referred to in subsec. (a)(1)(A), (C)(i), (iv), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
 Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (a)(1)(B), probably means section 211(d) of Pub. L. 108–159, which is set out as a note below and relates to the establishment of a centralized source. Section 211(c) of Pub. L. 108–159 amended section 1681g of this title.
 
@@ -10091,19 +10091,19 @@ Section 205(b) of the Credit CARD Act of 2009, referred to in subsec. (g), is se
 
 **Amendments**
 
-2010—Subsec. (a)(1)(C). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
+2010—Subsec. (a)(1)(C). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
 
-Subsec. (f)(2). Pub. L. 111–203, § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
+Subsec. (f)(2). Pub. L. 111–203, § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
 
 2009—Subsec. (g). Pub. L. 111–24 added subsec. (g).
 
-2003—Subsec. (a). Pub. L. 108–159, § 211(a)(2), added subsec. (a). Former subsec. (a) redesignated (f).
+2003—Subsec. (a). Pub. L. 108–159, § 211(a)(2), added subsec. (a). Former subsec. (a) redesignated (f).
 
-Subsec. (d). Pub. L. 108–159, § 211(a)(4), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 108–159, § 211(a)(4), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 108–159, § 211(a)(3), (5), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (a)”.
+Subsec. (e). Pub. L. 108–159, § 211(a)(3), (5), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (a)”.
 
-Subsec. (f). Pub. L. 108–159, § 211(a)(1), (6), redesignated subsec. (a) as (f) and substituted “In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a” for “Except as provided in subsections (b), (c), and (d), a” in par. (1).
+Subsec. (f). Pub. L. 108–159, § 211(a)(1), (6), redesignated subsec. (a) as (f) and substituted “In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a” for “Except as provided in subsections (b), (c), and (d), a” in par. (1).
 
 1996—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: “A consumer reporting agency shall make all disclosures pursuant to section 1681g of this title and furnish all consumer reports pursuant to section 1681i(d) of this title without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 1681m of this title or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer’s credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 1681g of this title, the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to section 1681i(d) of this title, the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified.”
 
@@ -10131,7 +10131,7 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 **Regulations**
 
-Pub. L. 111–24, title II, § 205(b), May 22, 2009, 123 Stat. 1747, provided that:
+Pub. L. 111–24, title II, § 205(b), May 22, 2009, 123 Stat. 1747, provided that:
 
 > **“(1) In general.—** Not later than 9 months after the date of enactment of this Act [May 22, 2009], the Federal Trade Commission shall issue a final rule to carry out this section.
 
@@ -10141,9 +10141,9 @@ Pub. L. 111–24, title II, § 205(b), May 22, 2009, 123 Stat. 1747, provided 
 
 > **“(B)** for advertisements on the Internet, shall include whether the disclosure required under section 612(g)(1) of the Fair Credit Reporting Act [15 U.S.C. 1681j(g)(1)] (as added by this section) shall appear on the advertisement or the website on which the free credit report is made available.
 
-> **“(3) Interim disclosures.—** If an advertisement subject to section 612(g) of the Fair Credit Reporting Act [15 U.S.C. 1681j(g)], as added by this section, is made public after the 9-month deadline specified in paragraph (1), but before the rule required by paragraph (1) is finalized, such advertisement shall include the disclosure: ‘Free credit reports are available under Federal law at: “AnnualCreditReport.com”.’ ”
+> **“(3) Interim disclosures.—** If an advertisement subject to section 612(g) of the Fair Credit Reporting Act [15 U.S.C. 1681j(g)], as added by this section, is made public after the 9-month deadline specified in paragraph (1), but before the rule required by paragraph (1) is finalized, such advertisement shall include the disclosure: ‘Free credit reports are available under Federal law at: “AnnualCreditReport.com”.’ ”
 
-Pub. L. 108–159, title II, § 211(d), Dec. 4, 2003, 117 Stat. 1972, as amended by Pub. L. 111–203, § 1088(b)(2), July 21, 2010, 124 Stat. 2092, provided that:
+Pub. L. 108–159, title II, § 211(d), Dec. 4, 2003, 117 Stat. 1972, as amended by Pub. L. 111–203, § 1088(b)(2), July 21, 2010, 124 Stat. 2092, provided that:
 
 > **“(1) In general.—** The Bureau [probably means the Bureau of Consumer Financial Protection] shall prescribe regulations applicable to consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act [15 U.S.C. 1681a(p)], to require the establishment of—
 
@@ -10197,7 +10197,7 @@ Pub. L. 108–159, title II, § 211(d), Dec. 4, 2003, 117 Stat. 1972, as amend
 
 [For definitions of terms used in section 211(d) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.]
 
-### § 1681k. Public record information for employment purposes
+### § 1681k. Public record information for employment purposes
 
 **(a) In general** A consumer reporting agency which furnishes a consumer report for employment purposes and which for that purpose compiles and reports items of information on consumers which are matters of public record and are likely to have an adverse effect upon a consumer’s ability to obtain employment shall—
 
@@ -10209,7 +10209,7 @@ Pub. L. 108–159, title II, § 211(d), Dec. 4, 2003, 117 Stat. 1972, as amend
 
 Subsection (a) does not apply in the case of an agency or department of the United States Government that seeks to obtain and use a consumer report for employment purposes, if the head of the agency or department makes a written finding as prescribed under section 1681b(b)(4)(A) of this title.
 
-(Pub. L. 90–321, title VI, § 613, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 105–347, § 4(b), Nov. 2, 1998, 112 Stat. 3210.)
+(Pub. L. 90–321, title VI, § 613, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 105–347, § 4(b), Nov. 2, 1998, 112 Stat. 3210.)
 
 **Editorial Notes**
 
@@ -10227,11 +10227,11 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681l. Restrictions on investigative consumer reports
+### § 1681l. Restrictions on investigative consumer reports
 
 Whenever a consumer reporting agency prepares an investigative consumer report, no adverse information in the consumer report (other than information which is a matter of public record) may be included in a subsequent consumer report unless such adverse information has been verified in the process of making such subsequent consumer report, or the adverse information was received within the three-month period preceding the date the subsequent report is furnished.
 
-(Pub. L. 90–321, title VI, § 614, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1133.)
+(Pub. L. 90–321, title VI, § 614, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1133.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10239,7 +10239,7 @@ Whenever a consumer reporting agency prepares an investigative consumer report, 
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681m. Requirements on users of consumer reports
+### § 1681m. Requirements on users of consumer reports
 
 **(a) Duties of users taking adverse actions on basis of information contained in consumer reports** If any person takes any adverse action with respect to any consumer that is based in whole or in part on any information contained in a consumer report, the person shall—
 
@@ -10463,53 +10463,53 @@ Sections 1681n and 1681*o* of this title shall not apply to any failure by any p
 
 This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.
 
-(Pub. L. 90–321, title VI, § 615, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, § 2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§ 114, 154(b), 155, title II, § 213(a), title III, § 311(a), title VIII, § 811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§ 1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, § 2(a), Dec. 18, 2010, 124 Stat. 3457.)
+(Pub. L. 90–321, title VI, § 615, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, § 2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§ 114, 154(b), 155, title II, § 213(a), title III, § 311(a), title VIII, § 811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§ 1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, § 2(a), Dec. 18, 2010, 124 Stat. 3457.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(2) to (4). Pub. L. 111–203, § 1100F(1), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in par. (4).
+2010—Subsec. (a)(2) to (4). Pub. L. 111–203, § 1100F(1), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in par. (4).
 
-Subsec. (d)(2)(B). Pub. L. 111–203, § 1088(a)(7), substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
+Subsec. (d)(2)(B). Pub. L. 111–203, § 1088(a)(7), substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
 
-Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission”.
+Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission”.
 
-Subsec. (e)(1). Pub. L. 111–203, § 1088(a)(8), substituted “the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission” for “and the Commission” in introductory provisions.
+Subsec. (e)(1). Pub. L. 111–203, § 1088(a)(8), substituted “the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission” for “and the Commission” in introductory provisions.
 
 Subsec. (e)(4). Pub. L. 111–319 added par. (4).
 
-Subsec. (h)(5)(E). Pub. L. 111–203, § 1100F(2), added subpar. (E).
+Subsec. (h)(5)(E). Pub. L. 111–203, § 1100F(2), added subpar. (E).
 
-Subsec. (h)(6)(A). Pub. L. 111–203, § 1088(a)(9), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Commission and the Board shall jointly prescribe rules.”
+Subsec. (h)(6)(A). Pub. L. 111–203, § 1088(a)(9), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Commission and the Board shall jointly prescribe rules.”
 
-2003—Subsec. (d)(2). Pub. L. 108–159, § 213(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title.”
+2003—Subsec. (d)(2). Pub. L. 108–159, § 213(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title.”
 
-Subsec. (e). Pub. L. 108–159, § 811(h), repealed Pub. L. 104–208, § 2411(c). See 1996 Amendment note below.
+Subsec. (e). Pub. L. 108–159, § 811(h), repealed Pub. L. 104–208, § 2411(c). See 1996 Amendment note below.
 
-Pub. L. 108–159, § 114, added subsec. (e) and struck out former subsec. (e) designation that had been added with no heading or text by Pub. L. 104–208, § 2411(c). See note above and 1996 Amendment note below.
+Pub. L. 108–159, § 114, added subsec. (e) and struck out former subsec. (e) designation that had been added with no heading or text by Pub. L. 104–208, § 2411(c). See note above and 1996 Amendment note below.
 
-Subsec. (f). Pub. L. 108–159, § 154(b), added subsec. (f).
+Subsec. (f). Pub. L. 108–159, § 154(b), added subsec. (f).
 
-Subsec. (g). Pub. L. 108–159, § 155, added subsec. (g).
+Subsec. (g). Pub. L. 108–159, § 155, added subsec. (g).
 
-Subsec. (h). Pub. L. 108–159, § 311(a), added subsec. (h).
+Subsec. (h). Pub. L. 108–159, § 311(a), added subsec. (h).
 
-1996—Subsec. (a). Pub. L. 104–208, § 2411(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the charge for such credit or insurance is increased either wholly or partly because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall so advise the consumer against whom such adverse action has been taken and supply the name and address of the consumer reporting agency making the report.”
+1996—Subsec. (a). Pub. L. 104–208, § 2411(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the charge for such credit or insurance is increased either wholly or partly because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall so advise the consumer against whom such adverse action has been taken and supply the name and address of the consumer reporting agency making the report.”
 
-Subsec. (b). Pub. L. 104–208, § 2411(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+Subsec. (b). Pub. L. 104–208, § 2411(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 
-Subsec. (c). Pub. L. 104–208, § 2411(d), substituted “this section” for “subsections (a) and (b) of this section”.
+Subsec. (c). Pub. L. 104–208, § 2411(d), substituted “this section” for “subsections (a) and (b) of this section”.
 
-Subsec. (d). Pub. L. 104–208, § 2411(b), added subsec. (d).
+Subsec. (d). Pub. L. 104–208, § 2411(b), added subsec. (d).
 
-Subsec. (e). Pub. L. 104–208, § 2411(c), which added subsec. (e) containing subsec. designation, but no heading or text, was repealed by Pub. L. 108–159, § 811(h).
+Subsec. (e). Pub. L. 104–208, § 2411(c), which added subsec. (e) containing subsec. designation, but no heading or text, was repealed by Pub. L. 108–159, § 811(h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–319, § 2(b), Dec. 18, 2010, 124 Stat. 3458, provided that: “The amendment made by this section [amending this section] shall become effective on the date of enactment of this Act [Dec. 18, 2010].”
+Pub. L. 111–319, § 2(b), Dec. 18, 2010, 124 Stat. 3458, provided that: “The amendment made by this section [amending this section] shall become effective on the date of enactment of this Act [Dec. 18, 2010].”
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
@@ -10527,9 +10527,9 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 **Regulations**
 
-Pub. L. 108–159, title II, § 213(b), Dec. 4, 2003, 117 Stat. 1979, provided that: “Regulations required by section 615(d)(2) of the Fair Credit Reporting Act [15 U.S.C. 1681m(d)(2)], as amended by this section, shall be issued in final form not later than 1 year after the date of enactment of this Act [Dec. 4, 2003].”
+Pub. L. 108–159, title II, § 213(b), Dec. 4, 2003, 117 Stat. 1979, provided that: “Regulations required by section 615(d)(2) of the Fair Credit Reporting Act [15 U.S.C. 1681m(d)(2)], as amended by this section, shall be issued in final form not later than 1 year after the date of enactment of this Act [Dec. 4, 2003].”
 
-### § 1681n. Civil liability for willful noncompliance
+### § 1681n. Civil liability for willful noncompliance
 
 **(a) In general** Any person who willfully fails to comply with any requirement imposed under this subchapter with respect to any consumer is liable to that consumer in an amount equal to the sum of—
 
@@ -10555,7 +10555,7 @@ Upon a finding by the court that an unsuccessful pleading, motion, or other pape
 
 For the purposes of this section, any person who printed an expiration date on any receipt provided to a consumer cardholder at a point of sale or transaction between December 4, 2004, and June 3, 2008, but otherwise complied with the requirements of section 1681c(g) of this title for such receipt shall not be in willful noncompliance with section 1681c(g) of this title by reason of printing such expiration date on the receipt.
 
-(Pub. L. 90–321, title VI, § 616, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, § 2412(a)–(c), (e)(1), Sept. 30, 1996, 110 Stat. 3009–446; Pub. L. 110–241, § 3(a), June 3, 2008, 122 Stat. 1566.)
+(Pub. L. 90–321, title VI, § 616, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, § 2412(a)–(c), (e)(1), Sept. 30, 1996, 110 Stat. 3009–446; Pub. L. 110–241, § 3(a), June 3, 2008, 122 Stat. 1566.)
 
 **Editorial Notes**
 
@@ -10563,13 +10563,13 @@ For the purposes of this section, any person who printed an expiration date on a
 
 2008—Subsec. (d). Pub. L. 110–241 added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–208, § 2412(a), designated existing provisions as subsec. (a), inserted heading, and in introductory provisions substituted “Any person who” for “Any consumer reporting agency or user of information which”.
+1996—Subsec. (a). Pub. L. 104–208, § 2412(a), designated existing provisions as subsec. (a), inserted heading, and in introductory provisions substituted “Any person who” for “Any consumer reporting agency or user of information which”.
 
-Subsec. (a)(1). Pub. L. 104–208, § 2412(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any actual damages sustained by the consumer as a result of the failure;”.
+Subsec. (a)(1). Pub. L. 104–208, § 2412(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any actual damages sustained by the consumer as a result of the failure;”.
 
-Subsec. (b). Pub. L. 104–208, § 2412(c), added subsec. (b).
+Subsec. (b). Pub. L. 104–208, § 2412(c), added subsec. (b).
 
-Subsec. (c). Pub. L. 104–208, § 2412(e)(1), added subsec. (c).
+Subsec. (c). Pub. L. 104–208, § 2412(e)(1), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10583,11 +10583,11 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 **Construction**
 
-Pub. L. 108–159, title III, § 312(f), Dec. 4, 2003, 117 Stat. 1993, provided that: “Nothing in this section, the amendments made by this section, or any other provision of this Act [see Short Title of 2003 Amendment note set out under section 1601 of this title] shall be construed to affect any liability under section 616 or 617 of the Fair Credit Reporting Act (15 U.S.C. 1681n, 1681*o*) that existed on the day before the date of enactment of this Act [Dec. 4, 2003].”
+Pub. L. 108–159, title III, § 312(f), Dec. 4, 2003, 117 Stat. 1993, provided that: “Nothing in this section, the amendments made by this section, or any other provision of this Act [see Short Title of 2003 Amendment note set out under section 1601 of this title] shall be construed to affect any liability under section 616 or 617 of the Fair Credit Reporting Act (15 U.S.C. 1681n, 1681*o*) that existed on the day before the date of enactment of this Act [Dec. 4, 2003].”
 
 **Statement of Findings and Purpose for 2008 Amendment**
 
-Pub. L. 110–241, § 2, June 3, 2008, 122 Stat. 1565, provided that:
+Pub. L. 110–241, § 2, June 3, 2008, 122 Stat. 1565, provided that:
 
 > **“(a) Findings.—** The Congress finds as follows:
 
@@ -10609,9 +10609,9 @@ Pub. L. 110–241, § 2, June 3, 2008, 122 Stat. 1565, provided that:
 
 **Retroactive Effect of 2008 Amendment**
 
-Pub. L. 110–241, § 3(b), June 3, 2008, 122 Stat. 1566, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any action, other than an action which has become final, that is brought for a violation of [section] 605(g) of the Fair Credit Reporting Act [15 U.S.C. 1681c(g)] to which such amendment applies without regard to whether such action is brought before or after the date of the enactment of this Act [June 3, 2008].”
+Pub. L. 110–241, § 3(b), June 3, 2008, 122 Stat. 1566, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any action, other than an action which has become final, that is brought for a violation of [section] 605(g) of the Fair Credit Reporting Act [15 U.S.C. 1681c(g)] to which such amendment applies without regard to whether such action is brought before or after the date of the enactment of this Act [June 3, 2008].”
 
-### § 1681o. Civil liability for negligent noncompliance
+### § 1681o. Civil liability for negligent noncompliance
 
 **(a) In general** Any person who is negligent in failing to comply with any requirement imposed under this subchapter with respect to any consumer is liable to that consumer in an amount equal to the sum of—
 
@@ -10623,7 +10623,7 @@ Pub. L. 110–241, § 3(b), June 3, 2008, 122 Stat. 1566, provided that: “Th
 
 On a finding by the court that an unsuccessful pleading, motion, or other paper filed in connection with an action under this section was filed in bad faith or for purposes of harassment, the court shall award to the prevailing party attorney’s fees reasonable in relation to the work expended in responding to the pleading, motion, or other paper.
 
-(Pub. L. 90–321, title VI, § 617, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, § 2412(d), (e)(2), Sept. 30, 1996, 110 Stat. 3009–446, 3009–447; Pub. L. 108–159, title VIII, § 811(e), Dec. 4, 2003, 117 Stat. 2012.)
+(Pub. L. 90–321, title VI, § 617, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, § 2412(d), (e)(2), Sept. 30, 1996, 110 Stat. 3009–446, 3009–447; Pub. L. 108–159, title VIII, § 811(e), Dec. 4, 2003, 117 Stat. 2012.)
 
 **Editorial Notes**
 
@@ -10631,9 +10631,9 @@ On a finding by the court that an unsuccessful pleading, motion, or other paper 
 
 2003—Subsec. (a)(1). Pub. L. 108–159 inserted “and” after semicolon at end.
 
-1996—Subsec. (a). Pub. L. 104–208, § 2412(d), designated existing provisions as subsec. (a), inserted heading, and substituted “Any person who” for “Any consumer reporting agency or user of information which”.
+1996—Subsec. (a). Pub. L. 104–208, § 2412(d), designated existing provisions as subsec. (a), inserted heading, and substituted “Any person who” for “Any consumer reporting agency or user of information which”.
 
-Subsec. (b). Pub. L. 104–208, § 2412(e)(2), added subsec. (b).
+Subsec. (b). Pub. L. 104–208, § 2412(e)(2), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10649,7 +10649,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681p. Jurisdiction of courts; limitation of actions
+### § 1681p. Jurisdiction of courts; limitation of actions
 
 An action to enforce any liability created under this subchapter may be brought in any appropriate United States district court, without regard to the amount in controversy, or in any other court of competent jurisdiction, not later than the earlier of—
 
@@ -10657,7 +10657,7 @@ An action to enforce any liability created under this subchapter may be brought 
 
 **(2)** 5 years after the date on which the violation that is the basis for such liability occurs.
 
-(Pub. L. 90–321, title VI, § 618, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 108–159, title I, § 156, Dec. 4, 2003, 117 Stat. 1968.)
+(Pub. L. 90–321, title VI, § 618, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 108–159, title I, § 156, Dec. 4, 2003, 117 Stat. 1968.)
 
 **Editorial Notes**
 
@@ -10675,11 +10675,11 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681q. Obtaining information under false pretenses
+### § 1681q. Obtaining information under false pretenses
 
 Any person who knowingly and willfully obtains information on a consumer from a consumer reporting agency under false pretenses shall be fined under title 18, imprisoned for not more than 2 years, or both.
 
-(Pub. L. 90–321, title VI, § 619, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, § 2415(a), Sept. 30, 1996, 110 Stat. 3009–450.)
+(Pub. L. 90–321, title VI, § 619, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, § 2415(a), Sept. 30, 1996, 110 Stat. 3009–450.)
 
 **Editorial Notes**
 
@@ -10697,11 +10697,11 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681r. Unauthorized disclosures by officers or employees
+### § 1681r. Unauthorized disclosures by officers or employees
 
 Any officer or employee of a consumer reporting agency who knowingly and willfully provides information concerning an individual from the agency’s files to a person not authorized to receive that information shall be fined under title 18, imprisoned for not more than 2 years, or both.
 
-(Pub. L. 90–321, title VI, § 620, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, § 2415(b), Sept. 30, 1996, 110 Stat. 3009–450.)
+(Pub. L. 90–321, title VI, § 620, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, § 2415(b), Sept. 30, 1996, 110 Stat. 3009–450.)
 
 **Editorial Notes**
 
@@ -10719,7 +10719,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681s. Administrative enforcement
+### § 1681s. Administrative enforcement
 
 **(a) Enforcement by Federal Trade Commission**
 
@@ -10727,7 +10727,7 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 The Federal Trade Commission shall be authorized to enforce compliance with the requirements imposed by this subchapter under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of subparagraphs (A) through (G) of subsection (b)(1), and subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], subsection (b).1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce, in violation of section 5(a) of the Federal Trade Commission Act (15 U.S.C. 45(a)), and shall be subject to enforcement by the Federal Trade Commission under section 5(b) of that Act [15 U.S.C. 45(b)] with respect to any consumer reporting agency or person that is subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses, as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions of such Act are part of this subchapter.
 
@@ -10833,9 +10833,9 @@ The Bureau shall prescribe such regulations as are necessary to carry out the pu
 
 **(2) Deference**
 
-Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter 2
+Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter 2
 
-<sup>2</sup>  So in original. Probably should be followed by a period.
+<sup>2</sup> So in original. Probably should be followed by a period.
 
 The regulations prescribed by the Bureau under this subchapter shall apply to any person that is subject to this subchapter, notwithstanding the enforcement authorities granted to other agencies under this section.
 
@@ -10849,7 +10849,7 @@ Each consumer reporting agency described in section 1681a(p) of this title shall
 
 The Commission,3
 
-<sup>3</sup>  So in original. Probably should be “Bureau,”.
+<sup>3</sup> So in original. Probably should be “Bureau,”.
 
 in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall develop a model form and model procedures to be used by consumers who are victims of identity theft for contacting and informing creditors and consumer reporting agencies of the fraud.
 
@@ -10861,97 +10861,97 @@ Each consumer reporting agency described in section 1681a(p) of this title shall
 
 If the Bureau determines that a person described in paragraph (9) of section 1681s–2(a) of this title has not met the requirements of such paragraph, the Bureau shall take action to ensure the person’s compliance with such paragraph, which may include issuing model guidance or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.
 
-(Pub. L. 90–321, title VI, § 621, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, § 9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, § 744(*l*), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, § 212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, § 1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, § 314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§ 2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, § 6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, § 506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, § 153, title III, § 312(e)(2), title IV, § 412(e), title VIII, § 811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, § 1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
+(Pub. L. 90–321, title VI, § 621, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, § 9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, § 744(*l*), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, § 212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, § 1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, § 314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§ 2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, § 6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, § 506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, § 153, title III, § 312(e)(2), title IV, § 412(e), title VIII, § 811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, § 1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (a)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (b)(1)(E), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (b)(1)(E), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (b)(1)(F), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (b)(1)(F), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 **Codification**
 
-In subsec. (b)(1)(D), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (b)(1)(D), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1088(a)(10)(A), added subsec. (a) and struck out former subsec. (a) which related to enforcement by Federal Trade Commission.
+2010—Subsec. (a). Pub. L. 111–203, § 1088(a)(10)(A), added subsec. (a) and struck out former subsec. (a) which related to enforcement by Federal Trade Commission.
 
-Subsec. (b). Pub. L. 111–203, § 1088(a)(10)(B), added subsec. (b) and struck out former subsec. (b) which related to enforcement under section 8 of the Federal Deposit Insurance Act, the Federal Credit Union Act, subtitle IV of title 49, part A of subtitle VII of title 49, and the Packers and Stockyards Act, 1921.
+Subsec. (b). Pub. L. 111–203, § 1088(a)(10)(B), added subsec. (b) and struck out former subsec. (b) which related to enforcement under section 8 of the Federal Deposit Insurance Act, the Federal Credit Union Act, subtitle IV of title 49, part A of subtitle VII of title 49, and the Packers and Stockyards Act, 1921.
 
-Subsec. (c)(2). Pub. L. 111–203, § 1088(a)(10)(C), in introductory provisions, inserted “and the Federal Trade Commission” before “or the appropriate” and before “or appropriate” in two places.
+Subsec. (c)(2). Pub. L. 111–203, § 1088(a)(10)(C), in introductory provisions, inserted “and the Federal Trade Commission” before “or the appropriate” and before “or appropriate” in two places.
 
-Pub. L. 111–203, § 1088(a)(2)(C), in introductory provisions, substituted “provide the Bureau” for “provide the Commission”.
+Pub. L. 111–203, § 1088(a)(2)(C), in introductory provisions, substituted “provide the Bureau” for “provide the Commission”.
 
-Pub. L. 111–203, § 1088(a)(2)(A), in introductory provisions, substituted “upon the Bureau” for “upon the Federal Trade Commission” and “The Bureau” for “The Federal Trade Commission”.
+Pub. L. 111–203, § 1088(a)(2)(A), in introductory provisions, substituted “upon the Bureau” for “upon the Federal Trade Commission” and “The Bureau” for “The Federal Trade Commission”.
 
-Subsec. (c)(4). Pub. L. 111–203, § 1088(a)(10)(D), inserted “, the Federal Trade Commission,” before “or the appropriate” in two places.
+Subsec. (c)(4). Pub. L. 111–203, § 1088(a)(10)(D), inserted “, the Federal Trade Commission,” before “or the appropriate” in two places.
 
-Pub. L. 111–203, § 1088(a)(2)(C), substituted “complaint of the Bureau” for “complaint of the Commission”.
+Pub. L. 111–203, § 1088(a)(2)(C), substituted “complaint of the Bureau” for “complaint of the Commission”.
 
-Pub. L. 111–203, § 1088(a)(2)(A), substituted “If the Bureau” for “If the Federal Trade Commission”.
+Pub. L. 111–203, § 1088(a)(2)(A), substituted “If the Bureau” for “If the Federal Trade Commission”.
 
-Subsec. (e). Pub. L. 111–203, § 1088(a)(10)(E), added subsec. (e) and struck out former subsec. (e) which related to prescription of regulations by certain Federal banking agencies, the Board of Governors of the Federal Reserve System, and the Board of the National Credit Union Administration.
+Subsec. (e). Pub. L. 111–203, § 1088(a)(10)(E), added subsec. (e) and struck out former subsec. (e) which related to prescription of regulations by certain Federal banking agencies, the Board of Governors of the Federal Reserve System, and the Board of the National Credit Union Administration.
 
-Subsec. (f)(2). Pub. L. 111–203, § 1088(a)(10)(F), substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
+Subsec. (f)(2). Pub. L. 111–203, § 1088(a)(10)(F), substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
 
-Subsec. (f)(3). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission”.
+Subsec. (f)(3). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission”.
 
-Subsec. (g). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” in two places.
+Subsec. (g). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” in two places.
 
-Pub. L. 111–203, § 1088(a)(2)(B), substituted “Bureau” for “FTC” in heading.
+Pub. L. 111–203, § 1088(a)(2)(B), substituted “Bureau” for “FTC” in heading.
 
-2003—Subsec. (b)(1)(B). Pub. L. 108–159, § 811(f), substituted “25A” for “25(a)”.
+2003—Subsec. (b)(1)(B). Pub. L. 108–159, § 811(f), substituted “25A” for “25(a)”.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 108–159, § 312(e)(2)(A), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)”.
+Subsec. (c)(1)(B)(ii). Pub. L. 108–159, § 312(e)(2)(A), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)”.
 
-Subsec. (c)(5). Pub. L. 108–159, § 312(e)(2)(B)(ii), substituted “certain violations” for “violation of section 1681s–2(a)(1)” in heading.
+Subsec. (c)(5). Pub. L. 108–159, § 312(e)(2)(B)(ii), substituted “certain violations” for “violation of section 1681s–2(a)(1)” in heading.
 
-Subsec. (c)(5)(A), (B). Pub. L. 108–159, § 312(e)(2)(B)(i), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)(1)”.
+Subsec. (c)(5)(A), (B). Pub. L. 108–159, § 312(e)(2)(B)(i), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)(1)”.
 
-Subsec. (f). Pub. L. 108–159, § 153, added subsec. (f).
+Subsec. (f). Pub. L. 108–159, § 153, added subsec. (f).
 
-Subsec. (g). Pub. L. 108–159, § 412(e), added subsec. (g).
+Subsec. (g). Pub. L. 108–159, § 412(e), added subsec. (g).
 
-1999—Subsec. (a)(4). Pub. L. 106–102, § 506(b), struck out par. (4) which read as follows: “Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter.”
+1999—Subsec. (a)(4). Pub. L. 106–102, § 506(b), struck out par. (4) which read as follows: “Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter.”
 
-Subsec. (d). Pub. L. 106–102, § 506(a)(1), struck out at the end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
+Subsec. (d). Pub. L. 106–102, § 506(a)(1), struck out at the end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
 
-Subsec. (e). Pub. L. 106–102, § 506(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section.”
+Subsec. (e). Pub. L. 106–102, § 506(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section.”
 
 1998—Subsec. (b). Pub. L. 105–347 struck out “or (e)” after “subject to subsection (d)” in introductory provisions.
 
-1996—Subsec. (a). Pub. L. 104–208, § 2416(b)(1), which directed the amendment of subsec. (a) by inserting heading “Enforcement by Federal Trade Commission” before “Compliance with the requirements”, was executed by making the insertion after “(a)”, to reflect the probable intent of Congress and the amendment by Pub. L. 104–208, § 2416(a). See below.
+1996—Subsec. (a). Pub. L. 104–208, § 2416(b)(1), which directed the amendment of subsec. (a) by inserting heading “Enforcement by Federal Trade Commission” before “Compliance with the requirements”, was executed by making the insertion after “(a)”, to reflect the probable intent of Congress and the amendment by Pub. L. 104–208, § 2416(a). See below.
 
-Pub. L. 104–208, § 2416(a), inserted “(1)” after “(a)” and added pars. (2) to (4).
+Pub. L. 104–208, § 2416(a), inserted “(1)” after “(a)” and added pars. (2) to (4).
 
-Subsec. (b). Pub. L. 104–208, § 2416(b)(2), inserted heading and in introductory provisions substituted “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—” for “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—”.
+Subsec. (b). Pub. L. 104–208, § 2416(b)(2), inserted heading and in introductory provisions substituted “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—” for “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—”.
 
-Subsec. (c). Pub. L. 104–208, § 2417(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 104–208, § 2417(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 104–208, § 2416(c), inserted at end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
+Pub. L. 104–208, § 2416(c), inserted at end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
 
-Subsec. (d). Pub. L. 104–208, § 2417(1), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 104–208, § 2417(1), redesignated subsec. (c) as (d).
 
-Subsec. (e). Pub. L. 104–208, § 2418, added subsec. (e).
+Subsec. (e). Pub. L. 104–208, § 2418, added subsec. (e).
 
 1995—Subsec. (b)(4). Pub. L. 104–88 substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
 
 1992—Subsec. (b)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-1991—Subsec. (b). Pub. L. 102–242, § 212(c)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+1991—Subsec. (b). Pub. L. 102–242, § 212(c)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
-Pub. L. 102–242, § 212(c)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of:
+Pub. L. 102–242, § 212(c)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of:
 
 “(A) national banks, by the Comptroller of the Currency;
 
@@ -11003,7 +11003,7 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 
-### § 1681s–1. Information on overdue child support obligations
+### § 1681s–1. Information on overdue child support obligations
 
 Notwithstanding any other provision of this subchapter, a consumer reporting agency shall include in any consumer report furnished by the agency in accordance with section 1681b of this title, any information on the failure of the consumer to pay overdue support which—
 
@@ -11015,7 +11015,7 @@ Notwithstanding any other provision of this subchapter, a consumer reporting age
 
 **(2)** antedates the report by 7 years or less.
 
-(Pub. L. 90–321, title VI, § 622, as added Pub. L. 102–537, § 2(a), Oct. 27, 1992, 106 Stat. 3531.)
+(Pub. L. 90–321, title VI, § 622, as added Pub. L. 102–537, § 2(a), Oct. 27, 1992, 106 Stat. 3531.)
 
 **Editorial Notes**
 
@@ -11029,7 +11029,7 @@ A prior section 622 of Pub. L. 90–321 was renumbered section 625 and is classi
 
 Section effective Jan. 1, 1993, see section 2(d) of Pub. L. 102–537, set out as an Effective Date of 1992 Amendment note under section 1681a of this title.
 
-### § 1681s–2. Responsibilities of furnishers of information to consumer reporting agencies
+### § 1681s–2. Responsibilities of furnishers of information to consumer reporting agencies
 
 **(a) Duty of furnishers of information to provide accurate information**
 
@@ -11333,13 +11333,13 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 **(D)** examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
 
-(Pub. L. 90–321, title VI, § 623, as added Pub. L. 104–208, div. A, title II, § 2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, § 154(a), title II, § 217(a), title III, §§ 312(a)–(e)(1), 314(b), title IV, § 412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, § 1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090; Pub. L. 115–174, title VI, § 602(a), May 24, 2018, 132 Stat. 1366; Pub. L. 116–136, div. A, title IV, § 4021, Mar. 27, 2020, 134 Stat. 489.)
+(Pub. L. 90–321, title VI, § 623, as added Pub. L. 104–208, div. A, title II, § 2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, § 154(a), title II, § 217(a), title III, §§ 312(a)–(e)(1), 314(b), title IV, § 412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, § 1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090; Pub. L. 115–174, title VI, § 602(a), May 24, 2018, 132 Stat. 1366; Pub. L. 116–136, div. A, title IV, § 4021, Mar. 27, 2020, 134 Stat. 489.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in subsec. (a)(1)(F)(i)(II)(bb), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (a)(1)(F)(i)(II)(bb), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 **Prior Provisions**
 
@@ -11351,35 +11351,35 @@ A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classi
 
 2018—Subsec. (a)(1)(E). Pub. L. 115–174 added subpar. (E).
 
-2010—Subsec. (a)(7)(D). Pub. L. 111–203, § 1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
+2010—Subsec. (a)(7)(D). Pub. L. 111–203, § 1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
 
-Subsec. (a)(8)(A). Pub. L. 111–203, § 1088(a)(11)(B), which directed amendment of subpar. (A) by inserting “, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,” before “shall jointly”, was executed by making the insertion before “shall prescribe”, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, § 1088(a)(2)(D). See below.
+Subsec. (a)(8)(A). Pub. L. 111–203, § 1088(a)(11)(B), which directed amendment of subpar. (A) by inserting “, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,” before “shall jointly”, was executed by making the insertion before “shall prescribe”, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, § 1088(a)(2)(D). See below.
 
-Pub. L. 111–203, § 1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
+Pub. L. 111–203, § 1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
 
-Subsec. (e). Pub. L. 111–203, § 1088(a)(11)(C), added subsec. (e) and struck out former subsec. (e) which related to establishment and maintenance of accuracy guidelines and prescription of implementing regulations by the Federal banking agencies, the National Credit Union Administration, and the Commission.
+Subsec. (e). Pub. L. 111–203, § 1088(a)(11)(C), added subsec. (e) and struck out former subsec. (e) which related to establishment and maintenance of accuracy guidelines and prescription of implementing regulations by the Federal banking agencies, the National Credit Union Administration, and the Commission.
 
-2003—Subsec. (a)(1)(A). Pub. L. 108–159, § 312(b)(1), substituted “knows or has reasonable cause to believe that the information is inaccurate” for “knows or consciously avoids knowing that the information is inaccurate”.
+2003—Subsec. (a)(1)(A). Pub. L. 108–159, § 312(b)(1), substituted “knows or has reasonable cause to believe that the information is inaccurate” for “knows or consciously avoids knowing that the information is inaccurate”.
 
-Subsec. (a)(1)(D). Pub. L. 108–159, § 312(b)(2), added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 108–159, § 312(b)(2), added subpar. (D).
 
-Subsec. (a)(5). Pub. L. 108–159, § 312(d), designated existing provisions as subpar. (A), inserted heading, inserted “date of delinquency on the account, which shall be the” before “month” and “on the account” before “that immediately preceded”, and added subpar. (B).
+Subsec. (a)(5). Pub. L. 108–159, § 312(d), designated existing provisions as subpar. (A), inserted heading, inserted “date of delinquency on the account, which shall be the” before “month” and “on the account” before “that immediately preceded”, and added subpar. (B).
 
-Subsec. (a)(6). Pub. L. 108–159, § 154(a), added par. (6).
+Subsec. (a)(6). Pub. L. 108–159, § 154(a), added par. (6).
 
-Subsec. (a)(7). Pub. L. 108–159, § 217(a), added par. (7).
+Subsec. (a)(7). Pub. L. 108–159, § 217(a), added par. (7).
 
-Subsec. (a)(8). Pub. L. 108–159, § 312(c), added par. (8).
+Subsec. (a)(8). Pub. L. 108–159, § 312(c), added par. (8).
 
-Subsec. (a)(9). Pub. L. 108–159, § 412(a), added par. (9).
+Subsec. (a)(9). Pub. L. 108–159, § 412(a), added par. (9).
 
-Subsec. (b)(1)(E). Pub. L. 108–159, § 314(b), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 108–159, § 314(b), added subpar. (E).
 
-Subsec. (c). Pub. L. 108–159, § 312(e)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Sections 1681n and 1681*o* of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title.”
+Subsec. (c). Pub. L. 108–159, § 312(e)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Sections 1681n and 1681*o* of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title.”
 
-Subsec. (d). Pub. L. 108–159, § 312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section.”
+Subsec. (d). Pub. L. 108–159, § 312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section.”
 
-Subsec. (e). Pub. L. 108–159, § 312(a), added subsec. (e).
+Subsec. (e). Pub. L. 108–159, § 312(a), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11399,11 +11399,11 @@ Section effective 365 days after Sept. 30, 1996, with special rule for early com
 
 **Model Disclosure Form**
 
-Pub. L. 108–159, title II, § 217(b), Dec. 4, 2003, 117 Stat. 1987, provided that: “Before the end of the 6-month period beginning on the date of enactment of this Act [Dec. 4, 2003], the Board shall adopt the model disclosure required under the amendment made by subsection (a) [amending this section] after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5, United States Code.”
+Pub. L. 108–159, title II, § 217(b), Dec. 4, 2003, 117 Stat. 1987, provided that: “Before the end of the 6-month period beginning on the date of enactment of this Act [Dec. 4, 2003], the Board shall adopt the model disclosure required under the amendment made by subsection (a) [amending this section] after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5, United States Code.”
 
 [For definitions of terms used in section 217(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.]
 
-### § 1681s–3. Affiliate sharing
+### § 1681s–3. Affiliate sharing
 
 **(a) Special rule for solicitation for purposes of marketing**
 
@@ -11475,7 +11475,7 @@ Requirements with respect to the use by a person of information received from an
 
 The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a), and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
 
-(Pub. L. 90–321, title VI, § 624, as added Pub. L. 108–159, title II, § 214(a)(2), Dec. 4, 2003, 117 Stat. 1980.)
+(Pub. L. 90–321, title VI, § 624, as added Pub. L. 108–159, title II, § 214(a)(2), Dec. 4, 2003, 117 Stat. 1980.)
 
 **Editorial Notes**
 
@@ -11493,7 +11493,7 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 **Regulations**
 
-Pub. L. 108–159, title II, § 214(b), Dec. 4, 2003, 117 Stat. 1982, as amended by Pub. L. 111–203, title X, § 1088(b)(3), July 21, 2010, 124 Stat. 2092, provided that:
+Pub. L. 108–159, title II, § 214(b), Dec. 4, 2003, 117 Stat. 1982, as amended by Pub. L. 111–203, title X, § 1088(b)(3), July 21, 2010, 124 Stat. 2092, provided that:
 
 > **“(1) In general.—** Regulations to carry out section 624 of the Fair Credit Reporting Act (15 U.S.C. 1681s–3), shall be prescribed, as described in paragraph (2), by—
 
@@ -11523,7 +11523,7 @@ Pub. L. 108–159, title II, § 214(b), Dec. 4, 2003, 117 Stat. 1982, as amend
 
 **Studies of Information Sharing Practices**
 
-Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amended by Pub. L. 111–203, title X, § 1088(b)(4), July 21, 2010, 124 Stat. 2092, provided that:
+Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amended by Pub. L. 111–203, title X, § 1088(b)(4), July 21, 2010, 124 Stat. 2092, provided that:
 
 > **“(1) In general.—** The Federal banking agencies, the National Credit Union Administration, and the Bureau shall jointly conduct regular studies of the consumer information sharing practices by financial institutions and other persons that are creditors or users of consumer reports with their affiliates.
 
@@ -11559,7 +11559,7 @@ Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amend
 
 [For definitions of terms used in section 214(e) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.]
 
-### § 1681t. Relation to State laws
+### § 1681t. Relation to State laws
 
 **(a) In general**
 
@@ -11649,7 +11649,7 @@ Notwithstanding any definition of the term “firm offer of credit or insurance�
 
 Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
 
-(Pub. L. 90–321, title VI, § 625, formerly § 622, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1136; renumbered § 623, Pub. L. 102–537, § 2(a), Oct. 27, 1992, 106 Stat. 3531; renumbered § 624 and amended Pub. L. 104–208, div. A, title II, §§ 2413(a)(1), 2419, Sept. 30, 1996, 110 Stat. 3009–447, 3009–452; renumbered § 625 and amended Pub. L. 108–159, title I, § 151(a)(2), title II, §§ 212(e), 214(a)(1), (c)(2), title III, § 311(b), title VII, § 711, Dec. 4, 2003, 117 Stat. 1964, 1977, 1980, 1983, 1989, 2011; Pub. L. 115–174, title III, §§ 301(b), 302(d)(2), May 24, 2018, 132 Stat. 1332, 1335.)
+(Pub. L. 90–321, title VI, § 625, formerly § 622, as added Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1136; renumbered § 623, Pub. L. 102–537, § 2(a), Oct. 27, 1992, 106 Stat. 3531; renumbered § 624 and amended Pub. L. 104–208, div. A, title II, §§ 2413(a)(1), 2419, Sept. 30, 1996, 110 Stat. 3009–447, 3009–452; renumbered § 625 and amended Pub. L. 108–159, title I, § 151(a)(2), title II, §§ 212(e), 214(a)(1), (c)(2), title III, § 311(b), title VII, § 711, Dec. 4, 2003, 117 Stat. 1964, 1977, 1980, 1983, 1989, 2011; Pub. L. 115–174, title III, §§ 301(b), 302(d)(2), May 24, 2018, 132 Stat. 1332, 1335.)
 
 **Editorial Notes**
 
@@ -11659,25 +11659,25 @@ A prior section 625 of Pub. L. 90–321 was renumbered section 626 and is classi
 
 **Amendments**
 
-2018—Subsec. (b)(1)(J). Pub. L. 115–174, § 301(b), added subpar. (J).
+2018—Subsec. (b)(1)(J). Pub. L. 115–174, § 301(b), added subpar. (J).
 
-Subsec. (b)(1)(K). Pub. L. 115–174, § 302(d)(2), added subpar. (K).
+Subsec. (b)(1)(K). Pub. L. 115–174, § 302(d)(2), added subpar. (K).
 
-2003—Subsec. (a). Pub. L. 108–159, § 711(1), inserted “or for the prevention or mitigation of identity theft,” after “information on consumers,”.
+2003—Subsec. (a). Pub. L. 108–159, § 711(1), inserted “or for the prevention or mitigation of identity theft,” after “information on consumers,”.
 
-Subsec. (b)(1)(E). Pub. L. 108–159, § 214(c)(2)(A), struck out “or” after semicolon at end.
+Subsec. (b)(1)(E). Pub. L. 108–159, § 214(c)(2)(A), struck out “or” after semicolon at end.
 
-Subsec. (b)(1)(G). Pub. L. 108–159, § 151(a)(2), added subpar. (G).
+Subsec. (b)(1)(G). Pub. L. 108–159, § 151(a)(2), added subpar. (G).
 
-Subsec. (b)(1)(H). Pub. L. 108–159, § 214(c)(2)(B), added subpar. (H).
+Subsec. (b)(1)(H). Pub. L. 108–159, § 214(c)(2)(B), added subpar. (H).
 
-Subsec. (b)(1)(I). Pub. L. 108–159, § 311(b), added subpar. (I).
+Subsec. (b)(1)(I). Pub. L. 108–159, § 311(b), added subpar. (I).
 
-Subsec. (b)(3), (4). Pub. L. 108–159, § 212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: “with respect to the form and content of any disclosure required to be made under section 1681g(c) of this title.”
+Subsec. (b)(3), (4). Pub. L. 108–159, § 212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: “with respect to the form and content of any disclosure required to be made under section 1681g(c) of this title.”
 
-Subsec. (b)(5). Pub. L. 108–159, § 711(2), added par. (5).
+Subsec. (b)(5). Pub. L. 108–159, § 711(2), added par. (5).
 
-Subsec. (d). Pub. L. 108–159, § 711(3), substituted “(b) and (c)” for “(b) and (c)—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
+Subsec. (d). Pub. L. 108–159, § 711(3), substituted “(b) and (c)” for “(b) and (c)—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
 
 “(2) do not apply to any provision of State law (including any provision of a State constitution) that—
 
@@ -11687,9 +11687,9 @@ Subsec. (d). Pub. L. 108–159, § 711(3), substituted “(b) and (c)” for �
 
 “(C) gives greater protection to consumers than is provided under this subchapter.”
 
-1996—Subsec. (a). Pub. L. 104–208, § 2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c), this subchapter” for “This subchapter”.
+1996—Subsec. (a). Pub. L. 104–208, § 2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c), this subchapter” for “This subchapter”.
 
-Subsecs. (b) to (d). Pub. L. 104–208, § 2419(2), added subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 104–208, § 2419(2), added subsecs. (b) to (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11711,7 +11711,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
-### § 1681u. Disclosures to FBI for counterintelligence purposes
+### § 1681u. Disclosures to FBI for counterintelligence purposes
 
 **(a) Identity of financial institutions**
 
@@ -11819,7 +11819,7 @@ Notwithstanding any other provision of this subchapter, the remedies and sanctio
 
 In addition to any other remedy contained in this section, injunctive relief shall be available to require compliance with the procedures of this section. In the event of any successful action under this subsection, costs together with reasonable attorney fees, as determined by the court, may be recovered.
 
-(Pub. L. 90–321, title VI, § 626, formerly § 624, as added Pub. L. 104–93, title VI, § 601(a), Jan. 6, 1996, 109 Stat. 974; renumbered § 625 and amended Pub. L. 107–56, title III, § 358(g)(1)(A), title V, § 505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, § 811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426; renumbered § 626, Pub. L. 108–159, title II, § 214(a)(1), Dec. 4, 2003, 117 Stat. 1980; Pub. L. 109–177, title I, § 116(b), Mar. 9, 2006, 120 Stat. 214; Pub. L. 109–178, § 4(c)(1), Mar. 9, 2006, 120 Stat. 280; Pub. L. 114–23, title V, §§ 501(c), 502(c), 503(c), June 2, 2015, 129 Stat. 282, 285, 290.)
+(Pub. L. 90–321, title VI, § 626, formerly § 624, as added Pub. L. 104–93, title VI, § 601(a), Jan. 6, 1996, 109 Stat. 974; renumbered § 625 and amended Pub. L. 107–56, title III, § 358(g)(1)(A), title V, § 505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, § 811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426; renumbered § 626, Pub. L. 108–159, title II, § 214(a)(1), Dec. 4, 2003, 117 Stat. 1980; Pub. L. 109–177, title I, § 116(b), Mar. 9, 2006, 120 Stat. 214; Pub. L. 109–178, § 4(c)(1), Mar. 9, 2006, 120 Stat. 280; Pub. L. 114–23, title V, §§ 501(c), 502(c), 503(c), June 2, 2015, 129 Stat. 282, 285, 290.)
 
 **Editorial Notes**
 
@@ -11833,15 +11833,15 @@ A prior section 626 of Pub. L. 90–321 was renumbered section 627 and is classi
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–23, § 501(c)(1), substituted “that information that includes a term that specifically identifies a consumer or account to be used as the basis for the production of that information,” for “that information,”.
+2015—Subsec. (a). Pub. L. 114–23, § 501(c)(1), substituted “that information that includes a term that specifically identifies a consumer or account to be used as the basis for the production of that information,” for “that information,”.
 
-Subsec. (b). Pub. L. 114–23, § 501(c)(2), substituted “written request that includes a term that specifically identifies a consumer or account to be used as the basis for the production of that information,” for “written request,”.
+Subsec. (b). Pub. L. 114–23, § 501(c)(2), substituted “written request that includes a term that specifically identifies a consumer or account to be used as the basis for the production of that information,” for “written request,”.
 
-Subsec. (c). Pub. L. 114–23, § 501(c)(3), inserted “, which shall include a term that specifically identifies a consumer or account to be used as the basis for the production of the information,” after “issue an order ex parte”.
+Subsec. (c). Pub. L. 114–23, § 501(c)(3), inserted “, which shall include a term that specifically identifies a consumer or account to be used as the basis for the production of the information,” after “issue an order ex parte”.
 
-Subsec. (d). Pub. L. 114–23, § 502(c), added subsec. (d) and struck out former subsec. (d) which related to confidentiality.
+Subsec. (d). Pub. L. 114–23, § 502(c), added subsec. (d) and struck out former subsec. (d) which related to confidentiality.
 
-Subsecs. (e) to (n). Pub. L. 114–23, § 503(c), added subsec. (e) and redesignated former subsecs. (e) to (m) as (f) to (n), respectively.
+Subsecs. (e) to (n). Pub. L. 114–23, § 503(c), added subsec. (e) and redesignated former subsecs. (e) to (m) as (f) to (n), respectively.
 
 2006—Subsec. (d). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall disclose to any person, other than those officers, employees, or agents of a consumer reporting agency necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section, that the Federal Bureau of Investigation has sought or obtained the identity of financial institutions or a consumer report respecting any consumer under subsection (a), (b), or (c) of this section, and no consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall include in any consumer report any information that would indicate that the Federal Bureau of Investigation has sought or obtained such information or a consumer report.”
 
@@ -11849,13 +11849,13 @@ Subsec. (d)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment
 
 2002—Subsec. (h). Pub. L. 107–306 designated existing provisions as par. (1) and added par. (2).
 
-2001—Pub. L. 107–56, § 505(c), which directed amendment of section 624 of the Fair Credit Reporting Act, was executed by making the amendment to this section to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56. See below.
+2001—Pub. L. 107–56, § 505(c), which directed amendment of section 624 of the Fair Credit Reporting Act, was executed by making the amendment to this section to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56. See below.
 
-Subsec. (a). Pub. L. 107–56, § 505(c)(1), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “Investigation, or the Director’s designee” and substituted “in writing, that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary for the conduct of an authorized foreign counterintelligence investigation and that there are specific and articulable facts giving reason to believe that the consumer is a foreign power or a person who is not a United States person and is an official of a foreign power, or that the consumer is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
+Subsec. (a). Pub. L. 107–56, § 505(c)(1), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “Investigation, or the Director’s designee” and substituted “in writing, that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary for the conduct of an authorized foreign counterintelligence investigation and that there are specific and articulable facts giving reason to believe that the consumer is a foreign power or a person who is not a United States person and is an official of a foreign power, or that the consumer is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
 
-Subsec. (b). Pub. L. 107–56, § 505(c)(2), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “signed by the Director or the Director’s designee” and substituted “in writing that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary to the conduct of an authorized counterintelligence investigation and that there is information giving reason to believe that the consumer has been, or is about to be, in contact with a foreign power or an agent of a foreign power.
+Subsec. (b). Pub. L. 107–56, § 505(c)(2), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “signed by the Director or the Director’s designee” and substituted “in writing that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary to the conduct of an authorized counterintelligence investigation and that there is information giving reason to believe that the consumer has been, or is about to be, in contact with a foreign power or an agent of a foreign power.
 
-Subsec. (c). Pub. L. 107–56, § 505(c)(3), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “designee of the Director” and substituted “in camera that the consumer report is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring a showing in camera that the consumer report is necessary for the conduct of an authorized foreign counterintelligence investigation and there are specific and articulable facts giving reason to believe that the consumer whose consumer report is sought is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or in clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
+Subsec. (c). Pub. L. 107–56, § 505(c)(3), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “designee of the Director” and substituted “in camera that the consumer report is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring a showing in camera that the consumer report is necessary for the conduct of an authorized foreign counterintelligence investigation and there are specific and articulable facts giving reason to believe that the consumer whose consumer report is sought is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or in clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11867,7 +11867,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 Amendment by section 358(g)(1)(A) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this Title 12, Banks and Banking.
 
-### § 1681v. Disclosures to governmental agencies for counterterrorism purposes
+### § 1681v. Disclosures to governmental agencies for counterterrorism purposes
 
 **(a) Disclosure**
 
@@ -11941,27 +11941,27 @@ Notwithstanding any other provision of this subchapter, any consumer reporting a
 
 **(2)** In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 3106 of title 50.
 
-(Pub. L. 90–321, title VI, § 627, formerly § 626, as added Pub. L. 107–56, title III, § 358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered § 627 and amended Pub. L. 108–159, title II, § 214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, § 6203(*l*), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–177, title I, §§ 116(c), 118(b), Mar. 9, 2006, 120 Stat. 214, 217; Pub. L. 109–178, § 4(c)(2), Mar. 9, 2006, 120 Stat. 280; Pub. L. 114–23, title V, §§ 501(d), 502(d), 503(d), June 2, 2015, 129 Stat. 282, 286, 290.)
+(Pub. L. 90–321, title VI, § 627, formerly § 626, as added Pub. L. 107–56, title III, § 358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered § 627 and amended Pub. L. 108–159, title II, § 214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, § 6203(*l*), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–177, title I, §§ 116(c), 118(b), Mar. 9, 2006, 120 Stat. 214, 217; Pub. L. 109–178, § 4(c)(2), Mar. 9, 2006, 120 Stat. 280; Pub. L. 114–23, title V, §§ 501(d), 502(d), 503(d), June 2, 2015, 129 Stat. 282, 286, 290.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–23, § 501(d), substituted “analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information.” for “analysis.”
+2015—Subsec. (a). Pub. L. 114–23, § 501(d), substituted “analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information.” for “analysis.”
 
-Subsec. (c). Pub. L. 114–23, § 502(d), added subsec. (c) and struck out former subsec. (c) which related to confidentiality.
+Subsec. (c). Pub. L. 114–23, § 502(d), added subsec. (c) and struck out former subsec. (c) which related to confidentiality.
 
-Subsecs. (d) to (g). Pub. L. 114–23, § 503(d), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+Subsecs. (d) to (g). Pub. L. 114–23, § 503(d), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-2006—Subsec. (c). Pub. L. 109–177, § 116(c), amended subsec. (c) generally. Prior to amendment, text read as follows: “No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section.”
+2006—Subsec. (c). Pub. L. 109–177, § 116(c), amended subsec. (c) generally. Prior to amendment, text read as follows: “No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section.”
 
 Subsec. (c)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized Government agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
-Subsec. (f). Pub. L. 109–177, § 118(b), added subsec. (f).
+Subsec. (f). Pub. L. 109–177, § 118(b), added subsec. (f).
 
 2004—Subsec. (e). Pub. L. 108–458 substituted “government agency” for “governmental agency”.
 
-2003—Subsec. (d). Pub. L. 108–159, § 214(c)(3), made technical amendment to reference in original act which appears in text as reference to section 1681u of this title.
+2003—Subsec. (d). Pub. L. 108–159, § 214(c)(3), made technical amendment to reference in original act which appears in text as reference to section 1681u of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11977,7 +11977,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 Section applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as an Effective Date of 2001 Amendment note under section 1829b of this Title 12, Banks and Banking.
 
-### § 1681w. Disposal of records
+### § 1681w. Disposal of records
 
 **(a) Regulations**
 
@@ -12001,7 +12001,7 @@ In issuing regulations under this section, the agencies identified in paragraph 
 
 **(2)** to alter or affect any requirement imposed under any other provision of law to maintain or destroy such a record.
 
-(Pub. L. 90–321, title VI, § 628, as added Pub. L. 108–159, title II, § 216(a), Dec. 4, 2003, 117 Stat. 1985; amended Pub. L. 111–203, title X, § 1088(a)(12), (13), July 21, 2010, 124 Stat. 2091, 2092.)
+(Pub. L. 90–321, title VI, § 628, as added Pub. L. 108–159, title II, § 216(a), Dec. 4, 2003, 117 Stat. 1985; amended Pub. L. 111–203, title X, § 1088(a)(12), (13), July 21, 2010, 124 Stat. 2091, 2092.)
 
 **Editorial Notes**
 
@@ -12011,9 +12011,9 @@ Public Law 106–102, referred to in subsec. (a)(2)(B), is Pub. L. 106–102, No
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 1088(a)(12), substituted “The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title,” for “Not later than 1 year after December 4, 2003, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and the Securities and Exchange Commission,”.
+2010—Subsec. (a)(1). Pub. L. 111–203, § 1088(a)(12), substituted “The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title,” for “Not later than 1 year after December 4, 2003, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and the Securities and Exchange Commission,”.
 
-Subsec. (a)(3). Pub. L. 111–203, § 1088(a)(13), substituted “the agencies identified in paragraph (1)” for “the Federal banking agencies, the National Credit Union Administration, the Commission, and the Securities and Exchange Commission”.
+Subsec. (a)(3). Pub. L. 111–203, § 1088(a)(13), substituted “the agencies identified in paragraph (1)” for “the Federal banking agencies, the National Credit Union Administration, the Commission, and the Securities and Exchange Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12025,7 +12025,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of this title.
 
-### § 1681x. Corporate and technological circumvention prohibited
+### § 1681x. Corporate and technological circumvention prohibited
 
 The Commission shall prescribe regulations, to become effective not later than 90 days after December 4, 2003, to prevent a consumer reporting agency from circumventing or evading treatment as a consumer reporting agency described in section 1681a(p) of this title for purposes of this subchapter, including—
 
@@ -12033,7 +12033,7 @@ The Commission shall prescribe regulations, to become effective not later than 9
 
 **(2)** by maintaining or merging public record and credit account information in a manner that is substantially equivalent to that described in paragraphs (1) and (2) of section 1681a(p) of this title, in the manner described in section 1681a(p) of this title.
 
-(Pub. L. 90–321, title VI, § 629, as added Pub. L. 108–159, title II, § 211(b), Dec. 4, 2003, 117 Stat. 1970.)
+(Pub. L. 90–321, title VI, § 629, as added Pub. L. 108–159, title II, § 211(b), Dec. 4, 2003, 117 Stat. 1970.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12043,7 +12043,7 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 ## SUBCHAPTER IV—EQUAL CREDIT OPPORTUNITY
 
-### § 1691. Scope of prohibition
+### § 1691. Scope of prohibition
 
 **(a) Activities constituting discrimination** It shall be unlawful for any creditor to discriminate against any applicant, with respect to any aspect of a credit transaction—
 
@@ -12119,17 +12119,17 @@ At the time of application, the creditor shall notify an applicant in writing of
 
 For purposes of this subsection, the term “valuation” shall include any estimate of the value of a dwelling developed in connection with a creditor’s decision to provide credit, including those values developed pursuant to a policy of a government sponsored enterprise or by an automated valuation model, a broker price opinion, or other methodology or mechanism.
 
-(Pub. L. 90–321, title VII, § 701, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, § 2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, § 223(d), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §§ 1071(b), 1085(1), title XIV, § 1474, July 21, 2010, 124 Stat. 2059, 2083, 2199.)
+(Pub. L. 90–321, title VII, § 701, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, § 2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, § 223(d), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §§ 1071(b), 1085(1), title XIV, § 1474, July 21, 2010, 124 Stat. 2059, 2083, 2199.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (b)(5). Pub. L. 111–203, § 1071(b), added par. (5).
+Subsec. (b)(5). Pub. L. 111–203, § 1071(b), added par. (5).
 
-Subsec. (e). Pub. L. 111–203, § 1474, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant’s application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.”
+Subsec. (e). Pub. L. 111–203, § 1474, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant’s application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.”
 
 1991—Subsec. (e). Pub. L. 102–242 added subsec. (e).
 
@@ -12143,7 +12143,7 @@ Subsecs. (c), (d). Pub. L. 94–239 added subsecs. (c) and (d).
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title X, § 1071(d), July 21, 2010, 124 Stat. 2059, provided that: “This section [enacting section 1691c–2 of this title and amending this section] shall become effective on the designated transfer date.”
+Pub. L. 111–203, title X, § 1071(d), July 21, 2010, 124 Stat. 2059, provided that: “This section [enacting section 1691c–2 of this title and amending this section] shall become effective on the designated transfer date.”
 
 [The term “designated transfer date” is defined in section 5481(9) of Title 12, Banks and Banking, as the date established under section 5582 of Title 12.]
 
@@ -12153,7 +12153,7 @@ Amendment by section 1474 of Pub. L. 111–203 effective on the date on which fi
 
 **Effective Date**
 
-Section 708, formerly § 707, of title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1525, renumbered and amended by Pub. L. 94–239, §§ 7, 8, Mar. 23, 1976, 90 Stat. 255, provided that: “This title [enacting this subchapter and provisions set out as notes under section 1691 of this title] takes effect upon the expiration of one year after the date of its enactment [Oct. 28, 1974]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 [enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section] shall take effect on the date of enactment thereof [Mar. 23, 1976] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act [this section] shall take effect 12 months after the date of enactment [Mar. 23, 1976].”
+Section 708, formerly § 707, of title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1525, renumbered and amended by Pub. L. 94–239, §§ 7, 8, Mar. 23, 1976, 90 Stat. 255, provided that: “This title [enacting this subchapter and provisions set out as notes under section 1691 of this title] takes effect upon the expiration of one year after the date of its enactment [Oct. 28, 1974]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 [enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section] shall take effect on the date of enactment thereof [Mar. 23, 1976] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act [this section] shall take effect 12 months after the date of enactment [Mar. 23, 1976].”
 
 **Short Title**
 
@@ -12161,7 +12161,7 @@ This subchapter known as the “Equal Credit Opportunity Act”, see Short Title
 
 **Congressional Findings and Statement of Purpose**
 
-Pub. L. 93–495, title V, § 502, Oct. 28, 1974, 88 Stat. 1521, provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act [see Short Title note set out under section 1601 of this title] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
+Pub. L. 93–495, title V, § 502, Oct. 28, 1974, 88 Stat. 1521, provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act [see Short Title note set out under section 1601 of this title] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
 
 **Executive Documents**
 
@@ -12213,7 +12213,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 1691a. Definitions; rules of construction
+### § 1691a. Definitions; rules of construction
 
 **(a)** The definitions and rules of construction set forth in this section are applicable for the purposes of this subchapter.
 
@@ -12229,15 +12229,15 @@ Donald J. Trump.
 
 **(g)** Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
 
-(Pub. L. 90–321, title VII, § 702, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 111–203, title X, § 1085(1), (2), July 21, 2010, 124 Stat. 2083.)
+(Pub. L. 90–321, title VII, § 702, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 111–203, title X, § 1085(1), (2), July 21, 2010, 124 Stat. 2083.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (c). Pub. L. 111–203, § 1085(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Board’ refers to the Board of Governors of the Federal Reserve System.”
+2010—Subsec. (c). Pub. L. 111–203, § 1085(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Board’ refers to the Board of Governors of the Federal Reserve System.”
 
-Subsec. (g). Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board”.
+Subsec. (g). Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12245,7 +12245,7 @@ Subsec. (g). Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Bo
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1691b. Promulgation of regulations by the Bureau
+### § 1691b. Promulgation of regulations by the Bureau
 
 **(a) In general**
 
@@ -12259,19 +12259,19 @@ Such regulations may exempt from the provisions of this subchapter any class of 
 
 An exemption granted pursuant to subsection (b) shall be for no longer than five years and shall be extended only if the Bureau makes a subsequent determination, in the manner described by such paragraph,1
 
-<sup>1</sup>  So in original. Probably should be “subsection,”.
+<sup>1</sup> So in original. Probably should be “subsection,”.
 
 that such exemption remains appropriate.
 
 **(d) Maintenance of records**
 
-Pursuant to Bureau regulations, entities making business or commercial loans shall maintain such records or other data relating to such loans as may be necessary to evidence compliance with this subsection 2
+Pursuant to Bureau regulations, entities making business or commercial loans shall maintain such records or other data relating to such loans as may be necessary to evidence compliance with this subsection 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
-or enforce any action pursuant to the authority of this chapter. In no event shall such records or data be maintained for a period of less than one year. The Bureau shall promulgate regulations to implement this paragraph 3
+or enforce any action pursuant to the authority of this chapter. In no event shall such records or data be maintained for a period of less than one year. The Bureau shall promulgate regulations to implement this paragraph 3
 
-<sup>3</sup>  So in original. Probably should be “subsection”.
+<sup>3</sup> So in original. Probably should be “subsection”.
 
 in the manner prescribed by chapter 5 of title 5.
 
@@ -12285,23 +12285,23 @@ Notwithstanding subsection (a), the Board shall prescribe regulations to carry o
 
 **(g) Deference**
 
-Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter 4
+Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter 4
 
-<sup>4</sup>  So in original. Probably should be followed by a period.
+<sup>4</sup> So in original. Probably should be followed by a period.
 
-(Pub. L. 90–321, title VII, § 703, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, § 3(a), Mar. 23, 1976, 90 Stat. 252; Pub. L. 100–533, title III, § 301, Oct. 25, 1988, 102 Stat. 2692; Pub. L. 111–203, title X, § 1085(1), (3), July 21, 2010, 124 Stat. 2083.)
+(Pub. L. 90–321, title VII, § 703, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, § 3(a), Mar. 23, 1976, 90 Stat. 252; Pub. L. 100–533, title III, § 301, Oct. 25, 1988, 102 Stat. 2692; Pub. L. 111–203, title X, § 1085(1), (3), July 21, 2010, 124 Stat. 2083.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1085(3)(A), substituted “Promulgation of regulations by the Bureau” for “Regulations” in section catchline.
+2010—Pub. L. 111–203, § 1085(3)(A), substituted “Promulgation of regulations by the Bureau” for “Regulations” in section catchline.
 
-Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board” wherever appearing.
+Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board” wherever appearing.
 
-Subsecs. (a) to (e). Pub. L. 111–203, § 1085(3)(B)–(E), in subsec. (a), struck out “(a)” designation before “(1)”, redesignated subsec. (a) pars. (1) to (5) as subsecs. (a) to (e), respectively, in subsec. (c) substituted “subsection (b)” for “paragraph (2)”, and struck out former subsec. (b), which related to establishment of a Consumer Advisory Council to advise and consult with the Board.
+Subsecs. (a) to (e). Pub. L. 111–203, § 1085(3)(B)–(E), in subsec. (a), struck out “(a)” designation before “(1)”, redesignated subsec. (a) pars. (1) to (5) as subsecs. (a) to (e), respectively, in subsec. (c) substituted “subsection (b)” for “paragraph (2)”, and struck out former subsec. (b), which related to establishment of a Consumer Advisory Council to advise and consult with the Board.
 
-Subsecs. (f), (g). Pub. L. 111–203, § 1085(3)(F), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 111–203, § 1085(3)(F), added subsecs. (f) and (g).
 
 1988—Subsec. (a). Pub. L. 100–533 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Board shall prescribe regulations to carry out the purposes of this subchapter. These regulations may contain but are not limited to such classifications, differentiation, or other provision, and may provide for such adjustments and exceptions for any class of transactions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate or substantiate compliance therewith. In particular, such regulations may exempt from one or more of the provisions of this subchapter any class of transactions not primarily for personal, family, or household purposes, if the Board makes an express finding that the application of such provision or provisions would not contribute substantially to carrying out the purposes of this subchapter. Such regulations shall be prescribed as soon as possible after the date of enactment of this Act, but in no event later than the effective date of this Act.”
 
@@ -12317,15 +12317,15 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as an Effective Date note under section 1691 of this title.
 
-### § 1691c. Administrative enforcement
+### § 1691c. Administrative enforcement
 
-**(a) Enforcing agencies** Subject to subtitle B of the Consumer Protection Financial Protection Act of 2010 1
+**(a) Enforcing agencies** Subject to subtitle B of the Consumer Protection Financial Protection Act of 2010 1
 
-<sup>1</sup>  So in original. Probably should be “Consumer Financial Protection Act of 2010”.
+<sup>1</sup> So in original. Probably should be “Consumer Financial Protection Act of 2010”.
 
-with 2
+with 2
 
-<sup>2</sup>  So in original. Probably should be “, compliance with”.
+<sup>2</sup> So in original. Probably should be “, compliance with”.
 
 the requirements imposed under this subchapter shall be enforced under:
 
@@ -12361,9 +12361,9 @@ For the purpose of the exercise by any agency referred to in subsection (a) of i
 
 **(c) Overall enforcement authority of Federal Trade Commission**
 
-Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (8) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of any requirement imposed under this subchapter 3
+Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (8) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of any requirement imposed under this subchapter 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce any rule prescribed by the Bureau under this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
 
@@ -12371,41 +12371,41 @@ shall be deemed a violation of a requirement imposed under that Act. All of the 
 
 The authority of the Bureau to issue regulations under this subchapter does not impair the authority of any other agency designated in this section to make rules respecting its own procedures in enforcing compliance with requirements imposed under this subchapter.
 
-(Pub. L. 90–321, title VII, § 704, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, § 4, Mar. 23, 1976, 90 Stat. 253; Pub. L. 98–443, § 9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, § 744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, § 212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, § 1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, § 315, Dec. 29, 1995, 109 Stat. 948; Pub. L. 111–203, title X, § 1085(4), July 21, 2010, 124 Stat. 2084.)
+(Pub. L. 90–321, title VII, § 704, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, § 4, Mar. 23, 1976, 90 Stat. 253; Pub. L. 98–443, § 9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, § 744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, § 212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, § 1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, § 315, Dec. 29, 1995, 109 Stat. 948; Pub. L. 111–203, title X, § 1085(4), July 21, 2010, 124 Stat. 2084.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (c), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (c), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (a)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (a)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (a)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (a)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (a)(6), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (a)(6), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(7), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see Codification note set out under section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(7), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see Codification note set out under section 78a of this title and Tables.
 
-The Small Business Investment Act of 1958, referred to in subsec. (a)(8), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (a)(8), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 This subchapter, referred to in subsec. (c) before “shall be deemed”, probably should have been a reference to this title in the original, meaning title VII of Pub. L. 90–321 which is classified generally to this subchapter.
 
 **Codification**
 
-In subsec. (a)(3), “Subtitle IV of title 49” substituted for “The Acts to regulate commerce” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (a)(3), “Subtitle IV of title 49” substituted for “The Acts to regulate commerce” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
-In subsec. (a)(4), “Part A of subtitle VII of title 49” substituted for “The Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (a)(4), “Part A of subtitle VII of title 49” substituted for “The Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1085(4)(A)(i), substituted “Subject to subtitle B of the Consumer Protection Financial Protection Act of 2010” for “Compliance” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–203, § 1085(4)(A)(i), substituted “Subject to subtitle B of the Consumer Protection Financial Protection Act of 2010” for “Compliance” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 111–203, § 1085(4)(A)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
+Subsec. (a)(1). Pub. L. 111–203, § 1085(4)(A)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
 
 “(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
@@ -12413,19 +12413,19 @@ Subsec. (a)(1). Pub. L. 111–203, § 1085(4)(A)(ii), added par. (1) and struc
 
 “(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-Subsec. (a)(2) to (9). Pub. L. 111–203, § 1085(4)(A)(ii)–(vi), added par. (9), redesignated former pars. (3) to (9) as (2) to (8), respectively, and struck out former par. (2) which read as follows: “Section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation.”
+Subsec. (a)(2) to (9). Pub. L. 111–203, § 1085(4)(A)(ii)–(vi), added par. (9), redesignated former pars. (3) to (9) as (2) to (8), respectively, and struck out former par. (2) which read as follows: “Section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation.”
 
-Subsec. (c). Pub. L. 111–203, § 1085(4)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce any Federal Reserve Board regulation promulgated under this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”
+Subsec. (c). Pub. L. 111–203, § 1085(4)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce any Federal Reserve Board regulation promulgated under this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”
 
-Subsec. (d). Pub. L. 111–203, § 1085(4)(C), substituted “Bureau” for “Board”.
+Subsec. (d). Pub. L. 111–203, § 1085(4)(C), substituted “Bureau” for “Board”.
 
 1995—Subsec. (a)(4). Pub. L. 104–88 substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
 
 1992—Subsec. (a)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-1991—Subsec. (a). Pub. L. 102–242, § 212(d)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+1991—Subsec. (a). Pub. L. 102–242, § 212(d)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
-Pub. L. 102–242, § 212(d)(1), added par. (1) and struck out former par. (1) which read as follows: “Section 8 of Federal Deposit Insurance Act, in the case of—
+Pub. L. 102–242, § 212(d)(1), added par. (1) and struck out former par. (1) which read as follows: “Section 8 of Federal Deposit Insurance Act, in the case of—
 
 “(A) national banks, by the Comptroller of the Currency,
 
@@ -12465,7 +12465,7 @@ Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 
-### § 1691c–1. Incentives for self-testing and self-correction
+### § 1691c–1. Incentives for self-testing and self-correction
 
 **(a) Privileged information**
 
@@ -12509,7 +12509,7 @@ Functions vested in Administrator of National Credit Union Administration transf
 
 **(2)** an administrative law proceeding with appropriate jurisdiction.
 
-(Pub. L. 90–321, title VII, § 704A, as added Pub. L. 104–208, div. A, title II, § 2302(a)(1), Sept. 30, 1996, 110 Stat. 3009–420; amended Pub. L. 111–203, title X, § 1085(1), July 21, 2010, 124 Stat. 2083.)
+(Pub. L. 90–321, title VII, § 704A, as added Pub. L. 104–208, div. A, title II, § 2302(a)(1), Sept. 30, 1996, 110 Stat. 3009–420; amended Pub. L. 111–203, title X, § 1085(1), July 21, 2010, 124 Stat. 2083.)
 
 **Editorial Notes**
 
@@ -12525,7 +12525,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date**
 
-Pub. L. 104–208, div. A, title II, § 2302(c), Sept. 30, 1996, 110 Stat. 3009–423, provided that:
+Pub. L. 104–208, div. A, title II, § 2302(c), Sept. 30, 1996, 110 Stat. 3009–423, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the privilege provided for in section 704A of the Equal Credit Opportunity Act [15 U.S.C. 1691c–1] or section 814A of the Fair Housing Act [42 U.S.C. 3614–1] (as those sections are added by this section) shall apply to a self-test (as that term is defined pursuant to the regulations prescribed under subsection (a)(2) [set out below] or (b)(2) of this section [42 U.S.C. 3614–1 note], as appropriate) conducted before, on, or after the effective date of the regulations prescribed under subsection (a)(2) or (b)(2), as appropriate.
 
@@ -12543,7 +12543,7 @@ Pub. L. 104–208, div. A, title II, § 2302(c), Sept. 30, 1996, 110 Stat. 300
 
 **Regulations**
 
-Pub. L. 104–208, div. A, title II, § 2302(a)(2), Sept. 30, 1996, 110 Stat. 3009–421, provided that:
+Pub. L. 104–208, div. A, title II, § 2302(a)(2), Sept. 30, 1996, 110 Stat. 3009–421, provided that:
 
 > **“(A) In general.—** Not later than 6 months after the date of enactment of this Act [Sept. 30, 1996], in consultation with the Secretary of Housing and Urban Development and the agencies referred to in section 704 of the Equal Credit Opportunity Act [15 U.S.C. 1691c], and after providing notice and an opportunity for public comment, the Board shall prescribe final regulations to implement section 704A of the Equal Credit Opportunity Act [15 U.S.C. 1691c–1], as added by this section.
 
@@ -12555,7 +12555,7 @@ Pub. L. 104–208, div. A, title II, § 2302(a)(2), Sept. 30, 1996, 110 Stat. 
 
 > **“(iii) Substantial similarity to certain fair housing act regulations.—** The regulations prescribed under subparagraph (A) shall be substantially similar to the regulations prescribed by the Secretary of Housing and Urban Development to carry out section 814A(d) of the Fair Housing Act [42 U.S.C. 3614–1(d)], as added by this section.”
 
-### § 1691c–2. Small business loan data collection
+### § 1691c–2. Small business loan data collection
 
 **(a) Purpose**
 
@@ -12609,7 +12609,7 @@ Each financial institution shall compile and maintain, in accordance with regula
 
 In compiling and maintaining any record of information under this section, a financial institution may not include in such record the name, specific address (other than the census tract required under paragraph (1)(E)),1
 
-<sup>1</sup>  So in original. Probably should be “(2)(E)),”.
+<sup>1</sup> So in original. Probably should be “(2)(E)),”.
 
 telephone number, electronic mail address, or any other personally identifiable information concerning any individual who is, or is connected with, the women-owned, minority-owned, or small business loan applicant.
 
@@ -12681,7 +12681,7 @@ The term “minority” has the same meaning as in section 1204(c)(3) of the Fin
 
 **(B)** more than 50 percent of the net profit or loss of which accrues to 1 or more women.
 
-(Pub. L. 90–321, title VII, § 704B, as added Pub. L. 111–203, title X, § 1071(a), July 21, 2010, 124 Stat. 2056.)
+(Pub. L. 90–321, title VII, § 704B, as added Pub. L. 111–203, title X, § 1071(a), July 21, 2010, 124 Stat. 2056.)
 
 **Editorial Notes**
 
@@ -12695,7 +12695,7 @@ Section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforceme
 
 Section effective on the designated transfer date, see section 1071(d) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1691 of this title.
 
-### § 1691d. Applicability of other laws
+### § 1691d. Applicability of other laws
 
 **(a) Requests for signature of husband and wife for creation of valid lien, etc.**
 
@@ -12725,7 +12725,7 @@ This subchapter does not annul, alter, or affect, or exempt any person subject t
 
 The Bureau shall by regulation exempt from the requirements of sections 1691 and 1691a of this title any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter or that such law gives greater protection to the applicant, and that there is adequate provision for enforcement. Failure to comply with any requirement of such State law in any transaction so exempted shall constitute a violation of this subchapter for the purposes of section 1691e of this title.
 
-(Pub. L. 90–321, title VII, § 705, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1523; amended Pub. L. 94–239, § 5, Mar. 23, 1976, 90 Stat. 253; Pub. L. 111–203, title X, § 1085(1), July 21, 2010, 124 Stat. 2083.)
+(Pub. L. 90–321, title VII, § 705, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1523; amended Pub. L. 94–239, § 5, Mar. 23, 1976, 90 Stat. 253; Pub. L. 111–203, title X, § 1085(1), July 21, 2010, 124 Stat. 2083.)
 
 **Editorial Notes**
 
@@ -12733,9 +12733,9 @@ The Bureau shall by regulation exempt from the requirements of sections 1691 and
 
 2010—Subsecs. (f), (g). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
-1976—Subsec. (e). Pub. L. 94–239, § 5(1), substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
+1976—Subsec. (e). Pub. L. 94–239, § 5(1), substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
 
-Subsecs. (f), (g). Pub. L. 94–239, § 5(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 94–239, § 5(2), added subsecs. (f) and (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12747,7 +12747,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as an Effective Date note under section 1691 of this title.
 
-### § 1691e. Civil liability
+### § 1691e. Civil liability
 
 **(a) Individual or class action for actual damages**
 
@@ -12787,9 +12787,9 @@ When a matter is referred to the Attorney General pursuant to subsection (g), or
 
 **(i) Recovery under both subchapter and fair housing enforcement provisions prohibited for violation based on same transaction**
 
-No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title 42 shall recover under this subchapter and section 3612 1
+No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title 42 shall recover under this subchapter and section 3612 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42, if such violation is based on the same transaction.
 
@@ -12797,7 +12797,7 @@ of title 42, if such violation is based on the same transaction.
 
 Nothing in this subchapter shall be construed to prohibit the discovery of a creditor’s credit granting standards under appropriate discovery procedures in the court or agency in which an action or proceeding is brought.
 
-**(k) Notice to HUD of violations** Whenever an agency referred to in paragraph (1), (2), or (3) <sup>1</sup> of section 1691c(a) of this title—
+**(k) Notice to HUD of violations** Whenever an agency referred to in paragraph (1), (2), or (3) <sup>1</sup> of section 1691c(a) of this title—
 
 **(1)** has reason to believe, as a result of receiving a consumer complaint, conducting a consumer compliance examination, or otherwise, that a violation of this subchapter has occurred;
 
@@ -12807,35 +12807,35 @@ Nothing in this subchapter shall be construed to prohibit the discovery of a cre
 
 the agency shall notify the Secretary of Housing and Urban Development of the violation, and shall notify the applicant that the Secretary of Housing and Urban Development has been notified of the alleged violation and that remedies for the violation may be available under the Fair Housing Act.
 
-(Pub. L. 90–321, title VII, § 706, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1524; amended Pub. L. 94–239, § 6, Mar. 23, 1976, 90 Stat. 253; Pub. L. 102–242, title II, § 223(a)–(c), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, § 1085(1), (5)–(7), July 21, 2010, 124 Stat. 2083, 2085.)
+(Pub. L. 90–321, title VII, § 706, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1524; amended Pub. L. 94–239, § 6, Mar. 23, 1976, 90 Stat. 253; Pub. L. 102–242, title II, § 223(a)–(c), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, § 1085(1), (5)–(7), July 21, 2010, 124 Stat. 2083, 2085.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, § 8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
+Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, § 8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
 
-Paragraph (1), (2), or (3) of section 1691c(a) of this title, referred to in subsec. (k), probably means par. (1), (2), or (3) of section 1691c(a) of this title prior to repeal of pars. (1) and (2), enactment of new pars. (1) and (9), and redesignation of par. (3) as (2) by Pub. L. 111–203, title X, § 1085(4)(A)(ii)–(vi), July 21, 2010, 124 Stat. 2084.
+Paragraph (1), (2), or (3) of section 1691c(a) of this title, referred to in subsec. (k), probably means par. (1), (2), or (3) of section 1691c(a) of this title prior to repeal of pars. (1) and (2), enactment of new pars. (1) and (9), and redesignation of par. (3) as (2) by Pub. L. 111–203, title X, § 1085(4)(A)(ii)–(vi), July 21, 2010, 124 Stat. 2084.
 
-The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 **Amendments**
 
-2010—Subsec. (e). Pub. L. 111–203, § 1085(5)(B), substituted “Bureau of Consumer Financial Protection” for “Federal Reserve System” in text.
+2010—Subsec. (e). Pub. L. 111–203, § 1085(5)(B), substituted “Bureau of Consumer Financial Protection” for “Federal Reserve System” in text.
 
-Pub. L. 111–203, § 1085(5)(A), which directed amendment of “subsection heading” by substituting “Bureau” for “Board” wherever appearing and “Bureau of Consumer Financial Protection” for “Federal Reserve System”, was executed by making the substitutions in heading that had been supplied editorially, to reflect the probable intent of Congress.
+Pub. L. 111–203, § 1085(5)(A), which directed amendment of “subsection heading” by substituting “Bureau” for “Board” wherever appearing and “Bureau of Consumer Financial Protection” for “Federal Reserve System”, was executed by making the substitutions in heading that had been supplied editorially, to reflect the probable intent of Congress.
 
-Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board” wherever appearing.
+Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (f). Pub. L. 111–203, § 1085(7), substituted “5 years after” for “two years from” wherever appearing.
+Subsec. (f). Pub. L. 111–203, § 1085(7), substituted “5 years after” for “two years from” wherever appearing.
 
-Subsec. (g). Pub. L. 111–203, § 1085(6), substituted “(9)” for “(3)”.
+Subsec. (g). Pub. L. 111–203, § 1085(6), substituted “(9)” for “(3)”.
 
-1991—Subsec. (g). Pub. L. 102–242, § 223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
+1991—Subsec. (g). Pub. L. 102–242, § 223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
 
-Subsec. (h). Pub. L. 102–242, § 223(b), inserted “actual and punitive damages and” after “be appropriate, including”.
+Subsec. (h). Pub. L. 102–242, § 223(b), inserted “actual and punitive damages and” after “be appropriate, including”.
 
-Subsec. (k). Pub. L. 102–242, § 223(c), added subsec. (k).
+Subsec. (k). Pub. L. 102–242, § 223(c), added subsec. (k).
 
 1976—Subsec. (a). Pub. L. 94–239 substituted reference to member for reference to representative.
 
@@ -12861,11 +12861,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as an Effective Date note under section 1691 of this title.
 
-### § 1691f. Annual reports to Congress; contents
+### § 1691f. Annual reports to Congress; contents
 
 Each year, the Bureau and the Attorney General shall, respectively, make reports to the Congress concerning the administration of their functions under this subchapter, including such recommendations as the Bureau and the Attorney General, respectively, deem necessary or appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with the requirements of this subchapter is being achieved, and a summary of the enforcement actions taken by each of the agencies assigned administrative enforcement responsibilities under section 1691c of this title.
 
-(Pub. L. 90–321, title VII, § 707, as added Pub. L. 94–239, § 7, Mar. 23, 1976, 90 Stat. 255; amended Pub. L. 96–221, title VI, § 610(c), Mar. 31, 1980, 94 Stat. 174; Pub. L. 111–203, title X, § 1085(1), July 21, 2010, 124 Stat. 2083.)
+(Pub. L. 90–321, title VII, § 707, as added Pub. L. 94–239, § 7, Mar. 23, 1976, 90 Stat. 255; amended Pub. L. 96–221, title VI, § 610(c), Mar. 31, 1980, 94 Stat. 174; Pub. L. 111–203, title X, § 1085(1), July 21, 2010, 124 Stat. 2083.)
 
 **Editorial Notes**
 
@@ -12891,7 +12891,7 @@ Section effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as
 
 ## SUBCHAPTER V—DEBT COLLECTION PRACTICES
 
-### § 1692. Congressional findings and declaration of purpose
+### § 1692. Congressional findings and declaration of purpose
 
 **(a) Abusive practices**
 
@@ -12913,19 +12913,19 @@ Abusive debt collection practices are carried on to a substantial extent in inte
 
 It is the purpose of this subchapter to eliminate abusive debt collection practices by debt collectors, to insure that those debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged, and to promote consistent State action to protect consumers against debt collection abuses.
 
-(Pub. L. 90–321, title VIII, § 802, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874.)
+(Pub. L. 90–321, title VIII, § 802, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 90–321, title VIII, § 819, formerly § 818, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883, § 818; renumbered § 819, Pub. L. 109–351, title VIII, § 801(a)(1), Oct. 13, 2006, 120 Stat. 2004, provided that: “This title [enacting this subchapter] takes effect upon the expiration of six months after the date of its enactment [Sept. 20, 1977], but section 809 [section 1692g of this title] shall apply only with respect to debts for which the initial attempt to collect occurs after such effective date.”
+Pub. L. 90–321, title VIII, § 819, formerly § 818, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883, § 818; renumbered § 819, Pub. L. 109–351, title VIII, § 801(a)(1), Oct. 13, 2006, 120 Stat. 2004, provided that: “This title [enacting this subchapter] takes effect upon the expiration of six months after the date of its enactment [Sept. 20, 1977], but section 809 [section 1692g of this title] shall apply only with respect to debts for which the initial attempt to collect occurs after such effective date.”
 
 **Short Title**
 
 This subchapter known as the “Fair Debt Collection Practices Act”, see Short Title note set out under section 1601 of this title.
 
-### § 1692a. Definitions
+### § 1692a. Definitions
 
 As used in this subchapter—
 
@@ -12957,7 +12957,7 @@ As used in this subchapter—
 
 **(8)** The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing.
 
-(Pub. L. 90–321, title VIII, § 803, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 875; amended Pub. L. 99–361, July 9, 1986, 100 Stat. 768; Pub. L. 111–203, title X, § 1089(2), July 21, 2010, 124 Stat. 2092.)
+(Pub. L. 90–321, title VIII, § 803, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 875; amended Pub. L. 99–361, July 9, 1986, 100 Stat. 768; Pub. L. 111–203, title X, § 1089(2), July 21, 2010, 124 Stat. 2092.)
 
 **Editorial Notes**
 
@@ -12977,7 +12977,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692b. Acquisition of location information
+### § 1692b. Acquisition of location information
 
 Any debt collector communicating with any person other than the consumer for the purpose of acquiring location information about the consumer shall—
 
@@ -12993,7 +12993,7 @@ Any debt collector communicating with any person other than the consumer for the
 
 **(6)** after the debt collector knows the consumer is represented by an attorney with regard to the subject debt and has knowledge of, or can readily ascertain, such attorney’s name and address, not communicate with any person other than that attorney, unless the attorney fails to respond within a reasonable period of time to communication from the debt collector.
 
-(Pub. L. 90–321, title VIII, § 804, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
+(Pub. L. 90–321, title VIII, § 804, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13001,7 +13001,7 @@ Any debt collector communicating with any person other than the consumer for the
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692c. Communication in connection with debt collection
+### § 1692c. Communication in connection with debt collection
 
 **(a) Communication with the consumer generally** Without the prior consent of the consumer given directly to the debt collector or the express permission of a court of competent jurisdiction, a debt collector may not communicate with a consumer in connection with the collection of any debt—
 
@@ -13029,7 +13029,7 @@ If such notice from the consumer is made by mail, notification shall be complete
 
 For the purpose of this section, the term “consumer” includes the consumer’s spouse, parent (if the consumer is a minor), guardian, executor, or administrator.
 
-(Pub. L. 90–321, title VIII, § 805, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
+(Pub. L. 90–321, title VIII, § 805, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13037,7 +13037,7 @@ For the purpose of this section, the term “consumer” includes the consumer�
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692d. Harassment or abuse
+### § 1692d. Harassment or abuse
 
 A debt collector may not engage in any conduct the natural consequence of which is to harass, oppress, or abuse any person in connection with the collection of a debt. Without limiting the general application of the foregoing, the following conduct is a violation of this section:
 
@@ -13045,9 +13045,9 @@ A debt collector may not engage in any conduct the natural consequence of which 
 
 **(2)** The use of obscene or profane language or language the natural consequence of which is to abuse the hearer or reader.
 
-**(3)** The publication of a list of consumers who allegedly refuse to pay debts, except to a consumer reporting agency or to persons meeting the requirements of section 1681a(f) or 1681b(3) 1
+**(3)** The publication of a list of consumers who allegedly refuse to pay debts, except to a consumer reporting agency or to persons meeting the requirements of section 1681a(f) or 1681b(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -13057,13 +13057,13 @@ of this title.
 
 **(6)** Except as provided in section 1692b of this title, the placement of telephone calls without meaningful disclosure of the caller’s identity.
 
-(Pub. L. 90–321, title VIII, § 806, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 877.)
+(Pub. L. 90–321, title VIII, § 806, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 877.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1681b(3) of this title, referred to in par. (3), was redesignated section 1681b(a)(3) of this title by Pub. L. 104–208, div. A, title II, § 2403(a)(1), Sept. 30, 1996, 110 Stat. 3009–430.
+Section 1681b(3) of this title, referred to in par. (3), was redesignated section 1681b(a)(3) of this title by Pub. L. 104–208, div. A, title II, § 2403(a)(1), Sept. 30, 1996, 110 Stat. 3009–430.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13071,7 +13071,7 @@ Section 1681b(3) of this title, referred to in par. (3), was redesignated sectio
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692e. False or misleading representations
+### § 1692e. False or misleading representations
 
 A debt collector may not use any false, deceptive, or misleading representation or means in connection with the collection of any debt. Without limiting the general application of the foregoing, the following conduct is a violation of this section:
 
@@ -13115,7 +13115,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 **(16)** The false representation or implication that a debt collector operates or is employed by a consumer reporting agency as defined by section 1681a(f) of this title.
 
-(Pub. L. 90–321, title VIII, § 807, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 877; amended Pub. L. 104–208, div. A, title II, § 2305(a), Sept. 30, 1996, 110 Stat. 3009–425.)
+(Pub. L. 90–321, title VIII, § 807, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 877; amended Pub. L. 104–208, div. A, title II, § 2305(a), Sept. 30, 1996, 110 Stat. 3009–425.)
 
 **Editorial Notes**
 
@@ -13127,13 +13127,13 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title II, § 2305(b), Sept. 30, 1996, 110 Stat. 3009–425, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 90 days after the date of enactment of this Act [Sept. 30, 1996] and shall apply to all communications made after that date of enactment.”
+Pub. L. 104–208, div. A, title II, § 2305(b), Sept. 30, 1996, 110 Stat. 3009–425, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 90 days after the date of enactment of this Act [Sept. 30, 1996] and shall apply to all communications made after that date of enactment.”
 
 **Effective Date**
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692f. Unfair practices
+### § 1692f. Unfair practices
 
 A debt collector may not use unfair or unconscionable means to collect or attempt to collect any debt. Without limiting the general application of the foregoing, the following conduct is a violation of this section:
 
@@ -13159,7 +13159,7 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
 
 **(8)** Using any language or symbol, other than the debt collector’s address, on any envelope when communicating with a consumer by use of the mails or by telegram, except that a debt collector may use his business name if such name does not indicate that he is in the debt collection business.
 
-(Pub. L. 90–321, title VIII, § 808, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 879.)
+(Pub. L. 90–321, title VIII, § 808, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 879.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13167,7 +13167,7 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692g. Validation of debts
+### § 1692g. Validation of debts
 
 **(a) Notice of debt; contents** Within five days after the initial communication with a consumer in connection with the collection of any debt, a debt collector shall, unless the following information is contained in the initial communication or the consumer has paid the debt, send the consumer a written notice containing—
 
@@ -13197,7 +13197,7 @@ A communication in the form of a formal pleading in a civil action shall not be 
 
 The sending or delivery of any form or notice which does not relate to the collection of a debt and is expressly required by title 26, title V of Gramm-Leach-Bliley Act [15 U.S.C. 6801 et seq.], or any provision of Federal or State law relating to notice of data security breach or privacy, or any regulation prescribed under any such provision of law, shall not be treated as an initial communication in connection with debt collection for purposes of this section.
 
-(Pub. L. 90–321, title VIII, § 809, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 879; amended Pub. L. 109–351, title VIII, § 802, Oct. 13, 2006, 120 Stat. 2006.)
+(Pub. L. 90–321, title VIII, § 809, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 879; amended Pub. L. 109–351, title VIII, § 802, Oct. 13, 2006, 120 Stat. 2006.)
 
 **Editorial Notes**
 
@@ -13207,11 +13207,11 @@ The Gramm-Leach-Bliley Act, referred to in subsec. (e), is Pub. L. 106–102, No
 
 **Amendments**
 
-2006—Subsec. (b). Pub. L. 109–351, § 802(c), inserted at end “Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer’s right to dispute the debt or request the name and address of the original creditor.”
+2006—Subsec. (b). Pub. L. 109–351, § 802(c), inserted at end “Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer’s right to dispute the debt or request the name and address of the original creditor.”
 
-Subsec. (d). Pub. L. 109–351, § 802(a), added subsec. (d).
+Subsec. (d). Pub. L. 109–351, § 802(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 109–351, § 802(b), added subsec. (e).
+Subsec. (e). Pub. L. 109–351, § 802(b), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13219,11 +13219,11 @@ Subsec. (e). Pub. L. 109–351, § 802(b), added subsec. (e).
 
 Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692h. Multiple debts
+### § 1692h. Multiple debts
 
 If any consumer owes multiple debts and makes any single payment to any debt collector with respect to such debts, such debt collector may not apply such payment to any debt which is disputed by the consumer and, where applicable, shall apply such payment in accordance with the consumer’s directions.
 
-(Pub. L. 90–321, title VIII, § 810, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 880.)
+(Pub. L. 90–321, title VIII, § 810, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 880.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13231,7 +13231,7 @@ If any consumer owes multiple debts and makes any single payment to any debt col
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692i. Legal actions by debt collectors
+### § 1692i. Legal actions by debt collectors
 
 **(a) Venue** Any debt collector who brings any legal action on a debt against any consumer shall—
 
@@ -13247,7 +13247,7 @@ Section effective upon the expiration of six months after Sept. 20, 1977, see se
 
 Nothing in this subchapter shall be construed to authorize the bringing of legal actions by debt collectors.
 
-(Pub. L. 90–321, title VIII, § 811, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 880.)
+(Pub. L. 90–321, title VIII, § 811, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 880.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13255,13 +13255,13 @@ Nothing in this subchapter shall be construed to authorize the bringing of legal
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692j. Furnishing certain deceptive forms
+### § 1692j. Furnishing certain deceptive forms
 
 **(a)** It is unlawful to design, compile, and furnish any form knowing that such form would be used to create the false belief in a consumer that a person other than the creditor of such consumer is participating in the collection of or in an attempt to collect a debt such consumer allegedly owes such creditor, when in fact such person is not so participating.
 
 **(b)** Any person who violates this section shall be liable to the same extent and in the same manner as a debt collector is liable under section 1692k of this title for failure to comply with a provision of this subchapter.
 
-(Pub. L. 90–321, title VIII, § 812, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 880.)
+(Pub. L. 90–321, title VIII, § 812, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 880.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13269,7 +13269,7 @@ Section effective upon the expiration of six months after Sept. 20, 1977, see se
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692k. Civil liability
+### § 1692k. Civil liability
 
 **(a) Amount of damages** Except as otherwise provided by this section, any debt collector who fails to comply with any provision of this subchapter with respect to any person is liable to such person in an amount equal to the sum of—
 
@@ -13301,7 +13301,7 @@ An action to enforce any liability created by this subchapter may be brought in 
 
 No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any advisory opinion of the Bureau, notwithstanding that after such act or omission has occurred, such opinion is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
-(Pub. L. 90–321, title VIII, § 813, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 111–203, title X, § 1089(1), July 21, 2010, 124 Stat. 2092.)
+(Pub. L. 90–321, title VIII, § 813, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 111–203, title X, § 1089(1), July 21, 2010, 124 Stat. 2092.)
 
 **Editorial Notes**
 
@@ -13319,7 +13319,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692l. Administrative enforcement
+### § 1692l. Administrative enforcement
 
 **(a) Federal Trade Commission**
 
@@ -13355,37 +13355,37 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5519(a)], the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.
 
-(Pub. L. 90–321, title VIII, § 814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 98–443, § 9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, § 744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, § 212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, § 1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, § 316, Dec. 29, 1995, 109 Stat. 949; Pub. L. 111–203, title X, § 1089(3), (4), July 21, 2010, 124 Stat. 2092, 2093.)
+(Pub. L. 90–321, title VIII, § 814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 98–443, § 9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, § 744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, § 212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, § 1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, § 316, Dec. 29, 1995, 109 Stat. 949; Pub. L. 111–203, title X, § 1089(3), (4), July 21, 2010, 124 Stat. 2092, 2093.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (b)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (b)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (b)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
 **Codification**
 
-In subsec. (b)(3), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b)(3), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
-In subsec. (b)(4), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (b)(4), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 Section 1089(4) of Pub. L. 111–203, which directed amendment “in subsection (d)” of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”
+2010—Subsec. (a). Pub. L. 111–203, § 1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”
 
-Subsec. (b). Pub. L. 111–203, § 1089(3)(B)(i), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance” for “Compliance” in introductory provisions.
+Subsec. (b). Pub. L. 111–203, § 1089(3)(B)(i), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance” for “Compliance” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 111–203, § 1089(3)(B)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
+Subsec. (b)(1). Pub. L. 111–203, § 1089(3)(B)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
 
 “(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
@@ -13393,17 +13393,17 @@ Subsec. (b)(1). Pub. L. 111–203, § 1089(3)(B)(ii), added par. (1) and struc
 
 “(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-Subsec. (b)(2) to (6). Pub. L. 111–203, § 1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
+Subsec. (b)(2) to (6). Pub. L. 111–203, § 1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
 
-Subsec. (d). Pub. L. 111–203, § 1089(4), substituted “Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter” for “Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter”. See Codification note above.
+Subsec. (d). Pub. L. 111–203, § 1089(4), substituted “Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter” for “Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter”. See Codification note above.
 
 1995—Subsec. (b)(4). Pub. L. 104–88 substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
 
 1992—Subsec. (b)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-1991—Subsec. (b). Pub. L. 102–242, § 212(e)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+1991—Subsec. (b). Pub. L. 102–242, § 212(e)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
-Pub. L. 102–242, § 212(e)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of Federal Deposit Insurance Act, in the case of—
+Pub. L. 102–242, § 212(e)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of Federal Deposit Insurance Act, in the case of—
 
 “(A) national banks, by the Comptroller of the Currency;
 
@@ -13441,13 +13441,13 @@ Section effective upon the expiration of six months after Sept. 20, 1977, see se
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 
-### § 1692m. Reports to Congress by the Bureau; views of other Federal agencies
+### § 1692m. Reports to Congress by the Bureau; views of other Federal agencies
 
 **(a)** Not later than one year after the effective date of this subchapter and at one-year intervals thereafter, the Bureau shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Bureau deems necessary or appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with this subchapter is being achieved and a summary of the enforcement actions taken by the Bureau under section 1692*l* of this title.
 
 **(b)** In the exercise of its functions under this subchapter, the Bureau may obtain upon request the views of any other Federal agency which exercises enforcement functions under section 1692*l* of this title.
 
-(Pub. L. 90–321, title VIII, § 815, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 882; amended Pub. L. 111–203, title X, § 1089(1), July 21, 2010, 124 Stat. 2092.)
+(Pub. L. 90–321, title VIII, § 815, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 882; amended Pub. L. 111–203, title X, § 1089(1), July 21, 2010, 124 Stat. 2092.)
 
 **Editorial Notes**
 
@@ -13469,11 +13469,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692n. Relation to State laws
+### § 1692n. Relation to State laws
 
 This subchapter does not annul, alter, or affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to debt collection practices, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency. For purposes of this section, a State law is not inconsistent with this subchapter if the protection such law affords any consumer is greater than the protection provided by this subchapter.
 
-(Pub. L. 90–321, title VIII, § 816, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883.)
+(Pub. L. 90–321, title VIII, § 816, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13481,11 +13481,11 @@ This subchapter does not annul, alter, or affect, or exempt any person subject t
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692o. Exemption for State regulation
+### § 1692o. Exemption for State regulation
 
 The Bureau shall by regulation exempt from the requirements of this subchapter any class of debt collection practices within any State if the Bureau determines that under the law of that State that class of debt collection practices is subject to requirements substantially similar to those imposed by this subchapter, and that there is adequate provision for enforcement.
 
-(Pub. L. 90–321, title VIII, § 817, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883; amended Pub. L. 111–203, title X, § 1089(1), July 21, 2010, 124 Stat. 2092.)
+(Pub. L. 90–321, title VIII, § 817, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883; amended Pub. L. 111–203, title X, § 1089(1), July 21, 2010, 124 Stat. 2092.)
 
 **Editorial Notes**
 
@@ -13503,7 +13503,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
-### § 1692p. Exception for certain bad check enforcement programs operated by private entities
+### § 1692p. Exception for certain bad check enforcement programs operated by private entities
 
 **(a) In general**
 
@@ -13569,11 +13569,11 @@ The term “check” has the same meaning as in section 5002(6) of title 12.
 
 The term “bad check violation” means a violation of the applicable State criminal law relating to the writing of dishonored checks.
 
-(Pub. L. 90–321, title VIII, § 818, as added Pub. L. 109–351, title VIII, § 801(a)(2), Oct. 13, 2006, 120 Stat. 2004.)
+(Pub. L. 90–321, title VIII, § 818, as added Pub. L. 109–351, title VIII, § 801(a)(2), Oct. 13, 2006, 120 Stat. 2004.)
 
 ## SUBCHAPTER VI—ELECTRONIC FUND TRANSFERS
 
-### § 1693. Congressional findings and declaration of purpose
+### § 1693. Congressional findings and declaration of purpose
 
 **(a) Rights and liabilities undefined**
 
@@ -13583,7 +13583,7 @@ The Congress finds that the use of electronic systems to transfer funds provides
 
 It is the purpose of this subchapter to provide a basic framework establishing the rights, liabilities, and responsibilities of participants in electronic fund and remittance transfer systems. The primary objective of this subchapter, however, is the provision of individual consumer rights.
 
-(Pub. L. 90–321, title IX, § 902, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728; amended Pub. L. 111–203, title X, § 1073(a)(1), July 21, 2010, 124 Stat. 2060.)
+(Pub. L. 90–321, title IX, § 902, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728; amended Pub. L. 111–203, title X, § 1073(a)(1), July 21, 2010, 124 Stat. 2060.)
 
 **Editorial Notes**
 
@@ -13599,33 +13599,33 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Effective Date**
 
-Pub. L. 90–321, title IX, § 923, formerly § 921, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3741, renumbered § 922, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; renumbered § 923, Pub. L. 111–203, title X, § 1073(a)(3), July 21, 2010, 124 Stat. 2060, provided that: “This title [enacting this subchapter] takes effect upon the expiration of eighteen months from the date of its enactment [Nov. 10, 1978], except that sections 909 and 911 [sections 1693g, 1693i of this title] take effect upon the expiration of ninety days after the date of enactment.”
+Pub. L. 90–321, title IX, § 923, formerly § 921, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3741, renumbered § 922, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; renumbered § 923, Pub. L. 111–203, title X, § 1073(a)(3), July 21, 2010, 124 Stat. 2060, provided that: “This title [enacting this subchapter] takes effect upon the expiration of eighteen months from the date of its enactment [Nov. 10, 1978], except that sections 909 and 911 [sections 1693g, 1693i of this title] take effect upon the expiration of ninety days after the date of enactment.”
 
-[Pub. L. 111–203, § 1073(a)(3), which directed renumbering of section 922 of Pub. L. 90–321 as section 923 effective 1 day after July 21, 2010, was executed after the renumbering of section 921 of Pub. L. 90–321 as section 922 by Pub. L. 111–24, § 401(1), effective 15 months after May 22, 2009, to reflect the probable intent of Congress.]
+[Pub. L. 111–203, § 1073(a)(3), which directed renumbering of section 922 of Pub. L. 90–321 as section 923 effective 1 day after July 21, 2010, was executed after the renumbering of section 921 of Pub. L. 90–321 as section 922 by Pub. L. 111–24, § 401(1), effective 15 months after May 22, 2009, to reflect the probable intent of Congress.]
 
 **Short Title**
 
 This subchapter known as the “Electronic Fund Transfer Act”, see Short Title note set out under section 1601 of this title.
 
-### § 1693a. Definitions
+### § 1693a. Definitions
 
 As used in this subchapter—
 
 **(1)** the term “accepted card or other means of access” means a card, code, or other means of access to a consumer’s account for the purpose of initiating electronic fund transfers when the person to whom such card or other means of access was issued has requested and received or has signed or has used, or authorized another to use, such card or other means of access for the purpose of transferring money between accounts or obtaining money, property, labor, or services;
 
-**(2)** the term “account” means a demand deposit, savings deposit, or other asset account (other than an occasional or incidental credit balance in an open end credit plan as defined in section 1602(i) 1
+**(2)** the term “account” means a demand deposit, savings deposit, or other asset account (other than an occasional or incidental credit balance in an open end credit plan as defined in section 1602(i) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title), as described in regulations of the Bureau, established primarily for personal, family, or household purposes, but such term does not include an account held by a financial institution pursuant to a bona fide trust agreement;
 
-**(4)**  2
+**(4)** 2
 
-<sup>2</sup>  So in original. There are two pars. designated “(4)” and no par. (3).
+<sup>2</sup> So in original. There are two pars. designated “(4)” and no par. (3).
 
 the term “Board” means the Board of Governors of the Federal Reserve System;
 
-**(4)**  <sup>2</sup> the term “Bureau” means the Bureau of Consumer Financial Protection;
+**(4)** <sup>2</sup> the term “Bureau” means the Bureau of Consumer Financial Protection;
 
 **(5)** the term “business day” means any day on which the offices of the consumer’s financial institution involved in an electronic fund transfer are open to the public for carrying on substantially all of its business functions;
 
@@ -13633,9 +13633,9 @@ the term “Board” means the Board of Governors of the Federal Reserve System;
 
 **(7)** the term “electronic fund transfer” means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution to debit or credit an account. Such term includes, but is not limited to, point-of-sale transfers, automated teller machine transactions, direct deposits or withdrawals of funds, and transfers initiated by telephone. Such term does not include—
 
-**(A)** any check guarantee or authorization service which does not directly result in a debit or credit to a consumer’s account: 3
+**(A)** any check guarantee or authorization service which does not directly result in a debit or credit to a consumer’s account: 3
 
-<sup>3</sup>  So in original. The colon probably should be a semicolon.
+<sup>3</sup> So in original. The colon probably should be a semicolon.
 
 **(B)** any transfer of funds, other than those processed by automated clearinghouse, made by a financial institution on behalf of a consumer by means of a service that transfers funds held at either Federal Reserve banks or other depository institutions and which is not designed primarily to transfer funds on behalf of a consumer;
 
@@ -13657,25 +13657,25 @@ as determined under regulations of the Bureau;
 
 **(12)** the term “unauthorized electronic fund transfer” means an electronic fund transfer from a consumer’s account initiated by a person other than the consumer without actual authority to initiate such transfer and from which the consumer receives no benefit, but the term does not include any electronic fund transfer (A) initiated by a person other than the consumer who was furnished with the card, code, or other means of access to such consumer’s account by such consumer, unless the consumer has notified the financial institution involved that transfers by such other person are no longer authorized, (B) initiated with fraudulent intent by the consumer or any person acting in concert with the consumer, or (C) which constitutes an error committed by a financial institution.
 
-(Pub. L. 90–321, title IX, § 903, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728; amended Pub. L. 111–203, title X, § 1084(1), (2), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, § 903, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728; amended Pub. L. 111–203, title X, § 1084(1), (2), July 21, 2010, 124 Stat. 2081.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(i) of this title, referred to in par. (2), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(i) of this title, referred to in par. (2), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1084(1), which directed the substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution in pars. (2) and (6) but not in par. (3), to reflect the probable intent of Congress.
+2010—Pub. L. 111–203, § 1084(1), which directed the substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution in pars. (2) and (6) but not in par. (3), to reflect the probable intent of Congress.
 
-Par. (3). Pub. L. 111–203, § 1084(2)(A), redesignated par. (3) as (4) defining the term “Board”.
+Par. (3). Pub. L. 111–203, § 1084(2)(A), redesignated par. (3) as (4) defining the term “Board”.
 
-Par. (4). Pub. L. 111–203, § 1084(2)(B), which directed addition of par. (4) defining the term “Bureau” after par. (3), was executed by making the addition after par. (4) defining the term “Board”, to reflect the probable intent of Congress.
+Par. (4). Pub. L. 111–203, § 1084(2)(B), which directed addition of par. (4) defining the term “Bureau” after par. (3), was executed by making the addition after par. (4) defining the term “Board”, to reflect the probable intent of Congress.
 
-Pub. L. 111–203, § 1084(2)(A), redesignated par. (3) as (4) defining the term “Board”. Former par. (4) redesignated (5).
+Pub. L. 111–203, § 1084(2)(A), redesignated par. (3) as (4) defining the term “Board”. Former par. (4) redesignated (5).
 
-Pars. (5) to (12). Pub. L. 111–203, § 1084(2)(A), redesignated pars. (4) to (11) as (5) to (12), respectively.
+Pars. (5) to (12). Pub. L. 111–203, § 1084(2)(A), redesignated pars. (4) to (11) as (5) to (12), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13683,7 +13683,7 @@ Pars. (5) to (12). Pub. L. 111–203, § 1084(2)(A), redesignated pars. (4) to
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693b. Regulations
+### § 1693b. Regulations
 
 **(a) Prescription by the Bureau and the Board**
 
@@ -13699,21 +13699,21 @@ Except as provided in paragraph (2), the Bureau shall prescribe rules to carry o
 
 In prescribing such regulations, the Board shall:
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. See 2010 Amendment note below.
+<sup>1</sup> So in original. See 2010 Amendment note below.
 
-consult with the other agencies referred to in section 1693*o* 2
+consult with the other agencies referred to in section 1693*o* 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
 
-**(2)**  <sup>1</sup> prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
+**(2)** <sup>1</sup> prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
 
-**(3)**  <sup>1</sup> to the extent practicable, the Board shall demonstrate that the consumer protections of the proposed regulations outweigh the compliance costs imposed upon consumers and financial institutions, and
+**(3)** <sup>1</sup> to the extent practicable, the Board shall demonstrate that the consumer protections of the proposed regulations outweigh the compliance costs imposed upon consumers and financial institutions, and
 
-**(4)**  <sup>1</sup> any proposed regulations and accompanying analyses shall be sent promptly to Congress by the Board.
+**(4)** <sup>1</sup> any proposed regulations and accompanying analyses shall be sent promptly to Congress by the Board.
 
 **(b) Issuance of model clauses**
 
@@ -13747,9 +13747,9 @@ Subparagraph (B) shall not apply with respect to any electronic funds transfer u
 
 **(D) Rule of construction** No provision of this paragraph—
 
-**(i)** affects or alters the protections otherwise applicable with respect to benefits established by any other provision 3
+**(i)** affects or alters the protections otherwise applicable with respect to benefits established by any other provision 3
 
-<sup>3</sup>  So in original. Probably should be followed by “of”.
+<sup>3</sup> So in original. Probably should be followed by “of”.
 
 Federal, State, or local law; or
 
@@ -13795,13 +13795,13 @@ The term “host transfer services” means any electronic fund transfer made by
 
 **(2)** the Board in making determinations regarding the meaning or interpretation of section 1693*o*–2 of this title.
 
-(Pub. L. 90–321, title IX, § 904, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, § 891, title IX, § 907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, § 702, Nov. 12, 1999, 113 Stat. 1463; Pub. L. 111–203, title X, §§ 1073(a)(2), 1084(1), (3), July 21, 2010, 124 Stat. 2060, 2081; Pub. L. 112–216, § 1, Dec. 20, 2012, 126 Stat. 1590.)
+(Pub. L. 90–321, title IX, § 904, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, § 891, title IX, § 907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, § 702, Nov. 12, 1999, 113 Stat. 1463; Pub. L. 111–203, title X, §§ 1073(a)(2), 1084(1), (3), July 21, 2010, 124 Stat. 2060, 2081; Pub. L. 112–216, § 1, Dec. 20, 2012, 126 Stat. 1590.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1693*o* of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning section 918 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, § 401, May 22, 2009, 123 Stat. 1751.
+Section 1693*o* of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning section 918 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, § 401, May 22, 2009, 123 Stat. 1751.
 
 **Amendments**
 
@@ -13811,19 +13811,19 @@ Section 1693*o* of this title, referred to in subsec. (a)(1), was in the origina
 
 “(ii) On the screen.—The notice required under clauses (i) and (ii)”
 
-and struck out “, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction” after “completing the transaction”.
+and struck out “, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction” after “completing the transaction”.
 
-2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” wherever appearing in subsecs. (b) to (d).
+2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” wherever appearing in subsecs. (b) to (d).
 
-Subsec. (a). Pub. L. 111–203, § 1084(3)(A), substituted “Prescription by the Bureau and the Board” for “Prescription by Board” in heading that had been supplied editorially and substituted initial pars. (1) and (2), relating to the Bureau’s prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: “The Board shall prescribe regulations to carry out the purposes of this subchapter.” Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 111–203, § 1084(3)(A), substituted “Prescription by the Bureau and the Board” for “Prescription by Board” in heading that had been supplied editorially and substituted initial pars. (1) and (2), relating to the Bureau’s prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: “The Board shall prescribe regulations to carry out the purposes of this subchapter.” Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 111–203, § 1073(a)(2), inserted “or remittance transfers” after “electronic fund transfers”.
+Subsec. (c). Pub. L. 111–203, § 1073(a)(2), inserted “or remittance transfers” after “electronic fund transfers”.
 
-Subsec. (e). Pub. L. 111–203, § 1084(3)(B), added subsec. (e).
+Subsec. (e). Pub. L. 111–203, § 1084(3)(B), added subsec. (e).
 
 1999—Subsec. (d)(3). Pub. L. 106–102 added par. (3).
 
-1996—Subsec. (d). Pub. L. 104–193, § 907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, § 891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
+1996—Subsec. (d). Pub. L. 104–193, § 907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, § 891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
 
 “(2) State and local government electronic benefit transfer programs.—
 
@@ -13843,7 +13843,7 @@ Subsec. (e). Pub. L. 111–203, § 1084(3)(B), added subsec. (e).
 
 “(ii) does not include employment-related payments, including salaries and pension, retirement, or unemployment benefits established by Federal, State, or local governments.”
 
-Pub. L. 104–193, § 891, designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted “If” for “In the event that”.
+Pub. L. 104–193, § 891, designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted “If” for “In the event that”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13853,15 +13853,15 @@ Amendment by section 1073(a)(2) of Pub. L. 111–203 effective 1 day after July 
 
 Amendment by section 1084(1), (3) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693c. Terms and conditions of transfers
+### § 1693c. Terms and conditions of transfers
 
 **(a) Disclosures; time; form; contents** The terms and conditions of electronic fund transfers involving a consumer’s account shall be disclosed at the time the consumer contracts for an electronic fund transfer service, in accordance with regulations of the Bureau. Such disclosures shall be in readily understandable language and shall include, to the extent applicable—
 
 **(1)** the consumer’s liability for unauthorized electronic fund transfers and, at the financial institution’s option, notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of a card, code, or other means of access;
 
-**(2)** the telephone number and address of the person or office to be notified in the event the consumer believes than 1
+**(2)** the telephone number and address of the person or office to be notified in the event the consumer believes than 1
 
-<sup>1</sup>  So in original. Probably should be “that”.
+<sup>1</sup> So in original. Probably should be “that”.
 
 an unauthorized electronic fund transfer has been or may be effected;
 
@@ -13895,7 +13895,7 @@ A financial institution shall notify a consumer in writing at least twenty-one d
 
 **(2)** thirty days after the effective date of this subchapter.
 
-(Pub. L. 90–321, title IX, § 905, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 106–102, title VII, § 703, Nov. 12, 1999, 113 Stat. 1464; Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, § 905, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 106–102, title VII, § 703, Nov. 12, 1999, 113 Stat. 1464; Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
 
 **Editorial Notes**
 
@@ -13915,7 +13915,7 @@ For effective date of this subchapter, referred to in subsec. (c), see section 9
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693d. Documentation of transfers
+### § 1693d. Documentation of transfers
 
 **(a) Availability of written documentation to consumer; contents** For each electronic fund transfer initiated by a consumer from an electronic terminal, the financial institution holding such consumer’s account shall, directly or indirectly, at the time the transfer is initiated, make available to the consumer written documentation of such transfer. The documentation shall clearly set forth to the extent applicable—
 
@@ -13955,7 +13955,7 @@ In the case of a consumer’s account, other than a passbook account, which may 
 
 In any action involving a consumer, any documentation required by this section to be given to the consumer which indicates that an electronic fund transfer was made to another person shall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
 
-(Pub. L. 90–321, title IX, § 906, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3731; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, § 906, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3731; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
 
 **Editorial Notes**
 
@@ -13969,13 +13969,13 @@ In any action involving a consumer, any documentation required by this section t
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693e. Preauthorized transfers
+### § 1693e. Preauthorized transfers
 
 **(a)** A preauthorized electronic fund transfer from a consumer’s account may be authorized by the consumer only in writing, and a copy of such authorization shall be provided to the consumer when made. A consumer may stop payment of a preauthorized electronic fund transfer by notifying the financial institution orally or in writing at any time up to three business days preceding the scheduled date of such transfer. The financial institution may require written confirmation to be provided to it within fourteen days of an oral notification if, when the oral notification is made, the consumer is advised of such requirement and the address to which such confirmation should be sent.
 
 **(b)** In the case of preauthorized transfers from a consumer’s account to the same person which may vary in amount, the financial institution or designated payee shall, prior to each transfer, provide reasonable advance notice to the consumer, in accordance with regulations of the Bureau, of the amount to be transferred and the scheduled date of the transfer.
 
-(Pub. L. 90–321, title IX, § 907, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3733; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, § 907, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3733; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
 
 **Editorial Notes**
 
@@ -13989,7 +13989,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693f. Error resolution
+### § 1693f. Error resolution
 
 **(a) Notification to financial institution of error** If a financial institution, within sixty days after having transmitted to a consumer documentation pursuant to section 1693d(a), (c), or (d) of this title or notification pursuant to section 1693d(b) of this title, receives oral or written notice in which the consumer—
 
@@ -14013,9 +14013,9 @@ If a financial institution receives notice of an error in the manner and within 
 
 If the financial institution determines after its investigation pursuant to subsection (a) or (c) that an error did not occur, it shall deliver or mail to the consumer an explanation of its findings within 3 business days after the conclusion of its investigation, and upon request of the consumer promptly deliver or mail to the consumer reproductions of all documents which the financial institution relied on to conclude that such error did not occur. The financial institution shall include notice of the right to request reproductions with the explanation of its findings.
 
-**(e) Treble damages** If in any action under section 1693m 1
+**(e) Treble damages** If in any action under section 1693m 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the court finds that—
 
@@ -14023,7 +14023,7 @@ of this title, the court finds that—
 
 **(2)** the financial institution knowingly and willfully concluded that the consumer’s account was not in error when such conclusion could not reasonably have been drawn from the evidence available to the financial institution at the time of its investigation,
 
-then the consumer shall be entitled to treble damages determined under section 1693m(a)(1) <sup>1</sup> of this title.
+then the consumer shall be entitled to treble damages determined under section 1693m(a)(1) <sup>1</sup> of this title.
 
 **(f) Acts constituting error** For the purpose of this section, an error consists of—
 
@@ -14041,13 +14041,13 @@ then the consumer shall be entitled to treble damages determined under section 1
 
 **(7)** any other error described in regulations of the Bureau.
 
-(Pub. L. 90–321, title IX, § 908, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3733; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, § 908, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3733; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1693m of this title, referred to in subsec. (e), was in the original a reference to section 915 of Pub. L. 90–321, and was translated as meaning section 916 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 915 of Pub. L. 90–321 as section 916 by Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751.
+Section 1693m of this title, referred to in subsec. (e), was in the original a reference to section 915 of Pub. L. 90–321, and was translated as meaning section 916 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 915 of Pub. L. 90–321 as section 916 by Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751.
 
 **Amendments**
 
@@ -14059,11 +14059,11 @@ Section 1693m of this title, referred to in subsec. (e), was in the original a r
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693g. Consumer liability
+### § 1693g. Consumer liability
 
-**(a) Unauthorized electronic fund transfers; limit** A consumer shall be liable for any unauthorized electronic fund transfer involving the account of such consumer only if the card or other means of access utilized for such transfer was an accepted card or other meanas 1
+**(a) Unauthorized electronic fund transfers; limit** A consumer shall be liable for any unauthorized electronic fund transfer involving the account of such consumer only if the card or other means of access utilized for such transfer was an accepted card or other meanas 1
 
-<sup>1</sup>  So in original. Probably should be “means”.
+<sup>1</sup> So in original. Probably should be “means”.
 
 of access and if the issuer of such card, code, or other means of access has provided a means whereby the user of such card, code, or other means of access can be identified as the person authorized to use it, such as by signature, photograph, or fingerprint or by electronic or mechanical confirmation. In no event, however, shall a consumer’s liability for an unauthorized transfer exceed the lesser of—
 
@@ -14079,9 +14079,9 @@ In any action which involves a consumer’s liability for an unauthorized electr
 
 **(c) Determination of limitation on liability**
 
-In the event of a transaction which involves both an unauthorized electronic fund transfer and an extension of credit as defined in section 1602(e) 2
+In the event of a transaction which involves both an unauthorized electronic fund transfer and an extension of credit as defined in section 1602(e) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title pursuant to an agreement between the consumer and the financial institution to extend such credit to the consumer in the event the consumer’s account is overdrawn, the limitation on the consumer’s liability for such transaction shall be determined solely in accordance with this section.
 
@@ -14093,15 +14093,15 @@ Nothing in this section imposes liability upon a consumer for an unauthorized el
 
 Except as provided in this section, a consumer incurs no liability from an unauthorized electronic fund transfer.
 
-(Pub. L. 90–321, title IX, § 909, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3734.)
+(Pub. L. 90–321, title IX, § 909, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3734.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(e) of this title, referred to in subsec. (c), was redesignated section 1602(f) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(e) of this title, referred to in subsec. (c), was redesignated section 1602(f) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-### § 1693h. Liability of financial institutions
+### § 1693h. Liability of financial institutions
 
 **(a) Action or failure to act proximately causing damages** Subject to subsections (b) and (c), a financial institution shall be liable to a consumer for all damages proximately caused by—
 
@@ -14117,9 +14117,9 @@ Section 1602(e) of this title, referred to in subsec. (c), was redesignated sect
 
 **(E)** as otherwise provided in regulations of the Bureau;
 
-**(2)** the financial institution’s failure to make an electronic fund transfer due to insufficient funds when the financal 1
+**(2)** the financial institution’s failure to make an electronic fund transfer due to insufficient funds when the financal 1
 
-<sup>1</sup>  So in original. Probably should be “financial”.
+<sup>1</sup> So in original. Probably should be “financial”.
 
 institution failed to credit, in accordance with the terms and conditions of an account, a deposit of funds to the consumer’s account which would have provided sufficient funds to make the transfer, and
 
@@ -14139,7 +14139,7 @@ In the case of a failure described in subsection (a) which was not intentional a
 
 If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of this title by an automated teller machine operator has been posted by such operator in compliance with such section and the notice is subsequently removed, damaged, or altered by any person other than the operator of the automated teller machine, the operator shall have no liability under this section for failure to comply with section 1693b(d)(3)(B)(i) of this title.
 
-(Pub. L. 90–321, title IX, § 910, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3735; amended Pub. L. 106–102, title VII, § 705, Nov. 12, 1999, 113 Stat. 1465; Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, § 910, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3735; amended Pub. L. 106–102, title VII, § 705, Nov. 12, 1999, 113 Stat. 1465; Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
 
 **Editorial Notes**
 
@@ -14155,7 +14155,7 @@ If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of thi
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693i. Issuance of cards or other means of access
+### § 1693i. Issuance of cards or other means of access
 
 **(a) Prohibition; proper issuance** No person may issue to a consumer any card, code, or other means of access to such consumer’s account for the purpose of initiating an electronic fund transfer other than—
 
@@ -14177,7 +14177,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 For the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
 
-(Pub. L. 90–321, title IX, § 911, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3736; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, § 911, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3736; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
 
 **Editorial Notes**
 
@@ -14191,13 +14191,13 @@ For the purpose of subsection (b), a card, code, or other means of access is val
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693j. Suspension of obligations
+### § 1693j. Suspension of obligations
 
 If a system malfunction prevents the effectuation of an electronic fund transfer initiated by a consumer to another person, and such other person has agreed to accept payment by such means, the consumer’s obligation to the other person shall be suspended until the malfunction is corrected and the electronic fund transfer may be completed, unless such other person has subsequently, by written request, demanded payment by means other than an electronic fund transfer.
 
-(Pub. L. 90–321, title IX, § 912, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3737.)
+(Pub. L. 90–321, title IX, § 912, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3737.)
 
-### § 1693k. Compulsory use of electronic fund transfers
+### § 1693k. Compulsory use of electronic fund transfers
 
 No person may—
 
@@ -14205,15 +14205,15 @@ No person may—
 
 **(2)** require a consumer to establish an account for receipt of electronic fund transfers with a particular financial institution as a condition of employment or receipt of a government benefit.
 
-(Pub. L. 90–321, title IX, § 913, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3737.)
+(Pub. L. 90–321, title IX, § 913, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3737.)
 
-### § 1693l. Waiver of rights
+### § 1693l. Waiver of rights
 
 No writing or other agreement between a consumer and any other person may contain any provision which constitutes a waiver of any right conferred or cause of action created by this subchapter. Nothing in this section prohibits, however, any writing or other agreement which grants to a consumer a more extensive right or remedy or greater protection than contained in this subchapter or a waiver given in settlement of a dispute or action.
 
-(Pub. L. 90–321, title IX, § 914, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3737.)
+(Pub. L. 90–321, title IX, § 914, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3737.)
 
-### § 1693l–1. General-use prepaid cards, gift certificates, and store gift cards
+### § 1693l–1. General-use prepaid cards, gift certificates, and store gift cards
 
 **(a) Definitions** In this section, the following definitions shall apply:
 
@@ -14221,7 +14221,7 @@ No writing or other agreement between a consumer and any other person may contai
 
 The terms “dormancy fee” and “inactivity charge or fee” mean a fee, charge, or penalty for non-use or inactivity of a gift certificate, store gift card, or general-use prepaid card.
 
-**(2) General use 1 [footnote: 1 So in original. Probably should be “General-use”.] prepaid card, gift certificate, and store gift card**
+**(2) General use 1 [footnote: 1 So in original. Probably should be “General-use”.] prepaid card, gift certificate, and store gift card**
 
 **(A) General-use prepaid card** The term “general-use prepaid card” means a card or other payment code or device issued by any person that is—
 
@@ -14335,9 +14335,9 @@ Except as provided under paragraph (2), it shall be unlawful for any person to s
 
 **(A)** prescribe regulations to carry out this section, in addition to any other rules or regulations required by this subchapter, including such additional requirements as appropriate relating to the amount of dormancy fees, inactivity charges or fees, or service fees that may be assessed and the amount of remaining value of a gift certificate, store gift card, or general-use prepaid card below which such charges or fees may be assessed; and
 
-**(B)** shall 2
+**(B)** shall 2
 
-<sup>2</sup>  So in original. The word “shall” probably should not appear.
+<sup>2</sup> So in original. The word “shall” probably should not appear.
 
 determine the extent to which the individual definitions and provisions of this subchapter or Regulation E should apply to general-use prepaid cards, gift certificates, and store gift cards.
 
@@ -14349,7 +14349,7 @@ In prescribing regulations under this subsection, the Bureau shall consult with 
 
 The regulations required by this subsection shall be issued in final form not later than 9 months after May 22, 2009.
 
-(Pub. L. 90–321, title IX, § 915, as added Pub. L. 111–24, title IV, § 401(2), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, § 915, as added Pub. L. 111–24, title IV, § 401(2), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
 
 **Editorial Notes**
 
@@ -14369,7 +14369,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date**
 
-Pub. L. 111–24, title IV, § 403, as added by Pub. L. 111–209, § 1, July 27, 2010, 124 Stat. 2254, provided that:
+Pub. L. 111–24, title IV, § 403, as added by Pub. L. 111–209, § 1, July 27, 2010, 124 Stat. 2254, provided that:
 
 > **“(a) In General.—** Except as provided under subsection (b) of this section, this title [enacting this section and amending sections 1693m to 1693r of this title and provisions set out as a note under section 1693 of this title] and the amendments made by this title shall become effective 15 months after the date of enactment of this Act [May 22, 2009].
 
@@ -14395,9 +14395,9 @@ Pub. L. 111–24, title IV, § 403, as added by Pub. L. 111–209, § 1, Jul
 
 > **“(3) Period for disclosure requirements.—** The notice requirements in paragraph (2) of this subsection shall continue until January 31, 2013.”
 
-Pub. L. 111–24, title IV, § 403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 was to become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, § 1, July 27, 2010, 124 Stat. 2254.
+Pub. L. 111–24, title IV, § 403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 was to become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, § 1, July 27, 2010, 124 Stat. 2254.
 
-### § 1693m. Civil liability
+### § 1693m. Civil liability
 
 **(a) Individual or class action for damages; amount of award** Except as otherwise provided by this section and section 1693h of this title, any person who fails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
 
@@ -14421,9 +14421,9 @@ Pub. L. 111–24, title IV, § 403, May 22, 2009, 123 Stat. 1754, which provid
 
 Except as provided in section 1693h of this title, a person may not be held liable in any action brought under this section for a violation of this subchapter if the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
 
-**(d) Good faith compliance with rule, regulation, or interpretation** No provision of this section or section 1693n 1
+**(d) Good faith compliance with rule, regulation, or interpretation** No provision of this section or section 1693n 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title imposing any liability shall apply to—
 
@@ -14445,13 +14445,13 @@ On a finding by the court that an unsuccessful action under this section was bro
 
 Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.
 
-(Pub. L. 90–321, title IX, § 916, formerly § 915, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3737; renumbered § 916, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, § 1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
+(Pub. L. 90–321, title IX, § 916, formerly § 915, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3737; renumbered § 916, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, § 1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1693n of this title, referred to in subsec. (d), was in the original a reference to section 916 of Pub. L. 90–321, and was translated as meaning section 917 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 916 of Pub. L. 90–321 as section 917 by Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751.
+Section 1693n of this title, referred to in subsec. (d), was in the original a reference to section 916 of Pub. L. 90–321, and was translated as meaning section 917 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 916 of Pub. L. 90–321 as section 917 by Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751.
 
 **Prior Provisions**
 
@@ -14459,9 +14459,9 @@ A prior section 916 of Pub. L. 90–321 was renumbered section 917 and is classi
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1084(1), which directed the substitution of “Bureau” for “Board” wherever appearing in section, was not executed in subsec. (d), which was the only place such term appeared, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, § 1084(4). See below.
+2010—Pub. L. 111–203, § 1084(1), which directed the substitution of “Bureau” for “Board” wherever appearing in section, was not executed in subsec. (d), which was the only place such term appeared, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, § 1084(4). See below.
 
-Subsec. (d). Pub. L. 111–203, § 1084(4), struck out “of Board or approval of duly authorized official or employee of Federal Reserve System” after “interpretation” in heading that had been supplied editorially and inserted “Bureau of Consumer Financial Protection or the” before “Federal Reserve System” in par. (1) and “Bureau or the” before “Board” wherever appearing.
+Subsec. (d). Pub. L. 111–203, § 1084(4), struck out “of Board or approval of duly authorized official or employee of Federal Reserve System” after “interpretation” in heading that had been supplied editorially and inserted “Bureau of Consumer Financial Protection or the” before “Federal Reserve System” in par. (1) and “Bureau or the” before “Board” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -14469,7 +14469,7 @@ Subsec. (d). Pub. L. 111–203, § 1084(4), struck out “of Board or approval
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693n. Criminal liability
+### § 1693n. Criminal liability
 
 **(a) Violations respecting giving of false or inaccurate information, failure to provide information, and failure to comply with provisions of this subchapter** Whoever knowingly and willfully—
 
@@ -14499,7 +14499,7 @@ shall be fined not more than $10,000 or imprisoned not more than ten years, or b
 
 As used in this section, the term “debit instrument” means a card, code, or other device, other than a check, draft, or similar paper instrument, by the use of which a person may initiate an electronic fund transfer.
 
-(Pub. L. 90–321, title IX, § 917, formerly § 916, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3738; renumbered § 917, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751.)
+(Pub. L. 90–321, title IX, § 917, formerly § 916, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3738; renumbered § 917, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751.)
 
 **Editorial Notes**
 
@@ -14507,7 +14507,7 @@ As used in this section, the term “debit instrument” means a card, code, or 
 
 A prior section 917 of Pub. L. 90–321 was renumbered section 918 and is classified to section 1693*o* of this title.
 
-### § 1693o. Administrative enforcement
+### § 1693o. Administrative enforcement
 
 **(a) Enforcing agencies** Subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], compliance with the requirements imposed under this subchapter shall be enforced under—
 
@@ -14523,9 +14523,9 @@ A prior section 917 of Pub. L. 90–321 was renumbered section 918 and is classi
 
 **(3)** part A of subtitle VII of title 49, by the Secretary of Transportation, with respect to any air carrier or foreign air carrier subject to that part;
 
-**(4)** the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], by the Securities and Exchange Commission, with respect to any broker or dealer subject to that Act and 1
+**(4)** the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], by the Securities and Exchange Commission, with respect to any broker or dealer subject to that Act and 1
 
-<sup>1</sup>  So in original. Probably should be “; and”.
+<sup>1</sup> So in original. Probably should be “; and”.
 
 **(5)** subtitle E of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5561 et seq.], by the Bureau, with respect to any person subject to this subchapter, except that the Bureau shall not have authority to enforce the requirements of section 1693*o*–2 of this title or any regulations prescribed by the Board under section 1693*o*–2 of this title.
 
@@ -14539,25 +14539,25 @@ For the purpose of the exercise by any agency referred to in any of paragraphs (
 
 Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (4) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act [15 U.S.C. 41 et seq.], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person subject to the jurisdiction of the Federal Trade Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act.
 
-(Pub. L. 90–321, title IX, § 918, formerly § 917, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, § 744(*o*), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, § 212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, § 6(h), Oct. 11, 1996, 110 Stat. 3399; renumbered § 918, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; Pub. L. 111–203, title X, § 1084(5), July 21, 2010, 124 Stat. 2082.)
+(Pub. L. 90–321, title IX, § 918, formerly § 917, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, § 744(*o*), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, § 212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, § 6(h), Oct. 11, 1996, 110 Stat. 3399; renumbered § 918, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; Pub. L. 111–203, title X, § 1084(5), July 21, 2010, 124 Stat. 2082.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (c), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (c), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (a)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (a)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Codification**
 
-In subsec. (a)(3), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(3), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 **Prior Provisions**
 
@@ -14565,9 +14565,9 @@ A prior section 918 of Pub. L. 90–321 was renumbered section 921 and is classi
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1084(5)(A)(i), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance” for “Compliance” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–203, § 1084(5)(A)(i), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance” for “Compliance” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 111–203, § 1084(5)(A)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
+Subsec. (a)(1). Pub. L. 111–203, § 1084(5)(A)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
 
 “(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
@@ -14575,17 +14575,17 @@ Subsec. (a)(1). Pub. L. 111–203, § 1084(5)(A)(ii), added par. (1) and struc
 
 “(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-Subsec. (a)(2) to (5). Pub. L. 111–203, § 1084(5)(A)(ii)–(vii), added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
+Subsec. (a)(2) to (5). Pub. L. 111–203, § 1084(5)(A)(ii)–(vii), added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
 
-Subsec. (b). Pub. L. 111–203, § 1084(5)(B), inserted “any of paragraphs (1) through (4) of” before “subsection (a)” in two places.
+Subsec. (b). Pub. L. 111–203, § 1084(5)(B), inserted “any of paragraphs (1) through (4) of” before “subsection (a)” in two places.
 
-Subsec. (c). Pub. L. 111–203, § 1084(5)(C), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person subject to the jurisdiction of the Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.”
+Subsec. (c). Pub. L. 111–203, § 1084(5)(C), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person subject to the jurisdiction of the Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.”
 
 1996—Subsec. (a)(4). Pub. L. 104–287 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
-1991—Subsec. (a). Pub. L. 102–242, § 212(f)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+1991—Subsec. (a). Pub. L. 102–242, § 212(f)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
-Pub. L. 102–242, § 212(f)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
+Pub. L. 102–242, § 212(f)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
 
 “(A) national banks, by the Comptroller of the Currency;
 
@@ -14605,7 +14605,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 
-### § 1693o–1. Remittance transfers
+### § 1693o–1. Remittance transfers
 
 **(a) Disclosures required for remittance transfers**
 
@@ -14773,15 +14773,15 @@ The Bureau shall prescribe rules to implement appropriate standards or condition
 
 **(4)** the term “sender” means a consumer who requests a remittance provider to send a remittance transfer for the consumer to a designated recipient.
 
-(Pub. L. 90–321, title IX, § 919, as added and amended Pub. L. 111–203, title X, §§ 1073(a)(4), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
+(Pub. L. 90–321, title IX, § 919, as added and amended Pub. L. 111–203, title X, §§ 1073(a)(4), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (a)(3)(B), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§ 7001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of this title and Tables.
+The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (a)(3)(B), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§ 7001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of this title and Tables.
 
-Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(2)(A), is chapter 2 (§§ 121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 of title I of the Act to the Code, see Tables.
+Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(2)(A), is chapter 2 (§§ 121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 of title I of the Act to the Code, see Tables.
 
 **Prior Provisions**
 
@@ -14791,7 +14791,7 @@ Another prior section 919 of Pub. L. 90–321 was renumbered section 922 and is 
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -14803,7 +14803,7 @@ Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated tr
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
-### § 1693o–2. Reasonable fees and rules for payment card transactions
+### § 1693o–2. Reasonable fees and rules for payment card transactions
 
 **(a) Reasonable interchange transaction fees for electronic debit transactions**
 
@@ -15031,9 +15031,9 @@ The term “electronic debit transaction” means a transaction in which a perso
 
 **(7) Institution of higher education**
 
-The term “institution of higher education” has the same meaning as in 1001 1
+The term “institution of higher education” has the same meaning as in 1001 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “sections”.
+<sup>1</sup> So in original. Probably should be preceded by “sections”.
 
 and 1002 of title 20.
 
@@ -15063,7 +15063,7 @@ Compliance with the requirements imposed under this section shall be enforced un
 
 Sections 1693m and 1693n of this title shall not apply with respect to this section or the requirements imposed pursuant to this section.
 
-(Pub. L. 90–321, title IX, § 920, as added Pub. L. 111–203, title X, § 1075(a)(2), July 21, 2010, 124 Stat. 2068.)
+(Pub. L. 90–321, title IX, § 920, as added Pub. L. 111–203, title X, § 1075(a)(2), July 21, 2010, 124 Stat. 2068.)
 
 **Editorial Notes**
 
@@ -15079,17 +15079,17 @@ Two other prior sections 920 of Pub. L. 90–321 were renumbered section 922 and
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
-### § 1693p. Reports to Congress
+### § 1693p. Reports to Congress
 
-**(a)** Not later than twelve months after the effective date of this subchapter and at one-year intervals thereafter, the Bureau shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Bureau deems necessary and appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with this subchapter is being achieved, and a summary of the enforcement actions taken under section 1693*o* 1
+**(a)** Not later than twelve months after the effective date of this subchapter and at one-year intervals thereafter, the Bureau shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Bureau deems necessary and appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with this subchapter is being achieved, and a summary of the enforcement actions taken under section 1693*o* 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. In such report, the Bureau shall particularly address the effects of this subchapter on the costs and benefits to financial institutions and consumers, on competition, on the introduction of new technology, on the operations of financial institutions, and on the adequacy of consumer protection.
 
 **(b)** In the exercise of its functions under this subchapter, the Bureau may obtain upon request the views of any other Federal agency which, in the judgment of the Bureau, exercises regulatory or supervisory functions with respect to any class of persons subject to this subchapter.
 
-(Pub. L. 90–321, title IX, § 921, formerly § 918, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3740; amended Pub. L. 97–375, title II, § 209(a), Dec. 21, 1982, 96 Stat. 1825; renumbered § 919, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; renumbered § 920, renumbered § 921, and amended Pub. L. 111–203, title X, §§ 1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, 124 Stat. 2060, 2068, 2081.)
+(Pub. L. 90–321, title IX, § 921, formerly § 918, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3740; amended Pub. L. 97–375, title II, § 209(a), Dec. 21, 1982, 96 Stat. 1825; renumbered § 919, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; renumbered § 920, renumbered § 921, and amended Pub. L. 111–203, title X, §§ 1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, 124 Stat. 2060, 2068, 2081.)
 
 **Editorial Notes**
 
@@ -15097,7 +15097,7 @@ of this title. In such report, the Bureau shall particularly address the effects
 
 For effective date of this subchapter, referred to in subsec. (a), see section 921 of Pub. L. 90–321, set out as an Effective Date note under section 1693 of this title.
 
-Section 1693*o* of this title, referred to in subsec. (a), was in the original “section 917 of this title”, and was translated as meaning section 918 of title I of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of title I of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751.
+Section 1693*o* of this title, referred to in subsec. (a), was in the original “section 917 of this title”, and was translated as meaning section 918 of title I of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of title I of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751.
 
 **Codification**
 
@@ -15111,7 +15111,7 @@ Another prior section 921 of Pub. L. 90–321 was renumbered section 923 and is 
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” wherever appearing.
 
 1982—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted “necessary and appropriate” for “necessary or appropriate”.
 
@@ -15121,11 +15121,11 @@ Another prior section 921 of Pub. L. 90–321 was renumbered section 923 and is 
 
 Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 1693q. Relation to State laws
+### § 1693q. Relation to State laws
 
 This subchapter does not annul, alter, or affect the laws of any State relating to electronic fund transfers, dormancy fees, inactivity charges or fees, service fees, or expiration dates of gift certificates, store gift cards, or general-use prepaid cards, except to the extent that those laws are inconsistent with the provisions of this subchapter, and then only to the extent of the inconsistency. A State law is not inconsistent with this subchapter if the protection such law affords any consumer is greater than the protection afforded by this subchapter. The Bureau shall, upon its own motion or upon the request of any financial institution, State, or other interested party, submitted in accordance with procedures prescribed in regulations of the Bureau, determine whether a State requirement is inconsistent or affords greater protection. If the Bureau determines that a State requirement is inconsistent, financial institutions shall incur no liability under the law of that State for a good faith failure to comply with that law, notwithstanding that such determination is subsequently amended, rescinded, or determined by judicial or other authority to be invalid for any reason. This subchapter does not extend the applicability of any such law to any class of persons or transactions to which it would not otherwise apply.
 
-(Pub. L. 90–321, title IX, § 922, formerly § 919, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3741; renumbered § 920 and amended Pub. L. 111–24, title IV, §§ 401(1), 402, May 22, 2009, 123 Stat. 1751, 1754; renumbered § 921, renumbered § 922, and amended Pub. L. 111–203, title X, §§ 1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, 124 Stat. 2060, 2068, 2081.)
+(Pub. L. 90–321, title IX, § 922, formerly § 919, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3741; renumbered § 920 and amended Pub. L. 111–24, title IV, §§ 401(1), 402, May 22, 2009, 123 Stat. 1751, 1754; renumbered § 921, renumbered § 922, and amended Pub. L. 111–203, title X, §§ 1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, 124 Stat. 2060, 2068, 2081.)
 
 **Editorial Notes**
 
@@ -15141,9 +15141,9 @@ A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classi
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” wherever appearing.
 
-2009—Pub. L. 111–24, § 402, inserted “dormancy fees, inactivity charges or fees, service fees, or expiration dates of gift certificates, store gift cards, or general-use prepaid cards,” after “electronic fund transfers,”.
+2009—Pub. L. 111–24, § 402, inserted “dormancy fees, inactivity charges or fees, service fees, or expiration dates of gift certificates, store gift cards, or general-use prepaid cards,” after “electronic fund transfers,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15155,11 +15155,11 @@ Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated tr
 
 Amendment by Pub. L. 111–24 effective 15 months after May 22, 2009, see section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693*l*–1 of this title.
 
-### § 1693r. Exemption for State regulation
+### § 1693r. Exemption for State regulation
 
 The Bureau shall by regulation exempt from the requirements of this subchapter any class of electronic fund transfers within any State if the Bureau determines that under the law of that State that class of electronic fund transfers is subject to requirements substantially similar to those imposed by this subchapter, and that there is adequate provision for enforcement.
 
-(Pub. L. 90–321, title IX, § 922, formerly § 920, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3741; renumbered § 921, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; renumbered § 922 and amended Pub. L. 111–203, title X, §§ 1073(a)(3), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
+(Pub. L. 90–321, title IX, § 922, formerly § 920, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3741; renumbered § 921, Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751; renumbered § 922 and amended Pub. L. 111–203, title X, §§ 1073(a)(3), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
 
 **Editorial Notes**
 
@@ -15175,7 +15175,7 @@ A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classi
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” in two places.
+2010—Pub. L. 111–203, § 1084(1), substituted “Bureau” for “Board” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 

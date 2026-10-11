@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–23, title VIII, §§ 802(b), 804(b), June 2, 2015, 129 Stat. 307, 308, added items 2280a and 2281a.
+2015—Pub. L. 114–23, title VIII, §§ 802(b), 804(b), June 2, 2015, 129 Stat. 307, 308, added items 2280a and 2281a.
 
-2008—Pub. L. 110–407, title I, § 102(b), Oct. 13, 2008, 122 Stat. 4298, added item 2285.
+2008—Pub. L. 110–407, title I, § 102(b), Oct. 13, 2008, 122 Stat. 4298, added item 2285.
 
-2006—Pub. L. 109–177, title III, §§ 304(b)(2), 305(b), Mar. 9, 2006, 120 Stat. 235, 237, added items 2282B, 2283, and 2284.
+2006—Pub. L. 109–177, title III, §§ 304(b)(2), 305(b), Mar. 9, 2006, 120 Stat. 235, 237, added items 2282B, 2283, and 2284.
 
-Pub. L. 109–177, title III, § 304(a)(2), Mar. 9, 2006, 120 Stat. 235, which directed amendment of table of sections for this chapter by adding item 2282A after item 2282, was executed by adding item 2282A after item 2281 to reflect the probable intent of Congress, because there is no item 2282.
+Pub. L. 109–177, title III, § 304(a)(2), Mar. 9, 2006, 120 Stat. 235, which directed amendment of table of sections for this chapter by adding item 2282A after item 2282, was executed by adding item 2282A after item 2281 to reflect the probable intent of Congress, because there is no item 2282.
 
-1994—Pub. L. 103–322, title VI, § 60019(b), Sept. 13, 1994, 108 Stat. 1979, added items 2280 and 2281.
+1994—Pub. L. 103–322, title VI, § 60019(b), Sept. 13, 1994, 108 Stat. 1979, added items 2280 and 2281.
 
-1990—Pub. L. 101–647, title XXXV, § 3566, Nov. 29, 1990, 104 Stat. 4928, substituted “vessels” for “vessel” in item 2271.
+1990—Pub. L. 101–647, title XXXV, § 3566, Nov. 29, 1990, 104 Stat. 4928, substituted “vessels” for “vessel” in item 2271.
 
-## § 2271. Conspiracy to destroy vessels
+## § 2271. Conspiracy to destroy vessels
 
 Whoever, on the high seas, or within the United States, willfully and corruptly conspires, combines, and confederates with any other person, such other person being either within or without the United States, to cast away or otherwise destroy any vessel, with intent to injure any person that may have underwritten or may thereafter underwrite any policy of insurance thereon or on goods on board thereof, or with intent to injure any person that has lent or advanced, or may lend or advance, any money on such vessel on bottomry or respondentia; or
 
@@ -39,11 +39,11 @@ Whoever, within the United States, builds, or fits out any vessel to be cast awa
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 487 (Mar. 4, 1909, ch. 321, § 296, 35 Stat. 1146).
+Based on title 18, U.S.C., 1940 ed., § 487 (Mar. 4, 1909, ch. 321, § 296, 35 Stat. 1146).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -57,7 +57,7 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in last par.
 
-## § 2272. Destruction of vessel by owner
+## § 2272. Destruction of vessel by owner
 
 Whoever, upon the high seas or on any other waters within the admiralty and maritime jurisdiction of the United States, willfully and corruptly casts away or otherwise destroys any vessel of which he is owner, in whole or in part, with intent to injure any person that may underwrite any policy of insurance thereon, or any merchant that may have goods thereon, or any other owner of such vessel, shall be imprisoned for life or for any term of years.
 
@@ -65,9 +65,9 @@ Whoever, upon the high seas or on any other waters within the admiralty and mari
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 491 (Mar. 4, 1909, ch. 321, § 300, 35 Stat. 1147).
+Based on title 18, U.S.C., 1940 ed., § 491 (Mar. 4, 1909, ch. 321, § 300, 35 Stat. 1147).
 
-## § 2273. Destruction of vessel by nonowner
+## § 2273. Destruction of vessel by nonowner
 
 Whoever, not being an owner, upon the high seas or on any other waters within the admiralty and maritime jurisdiction of the United States, willfully and corruptly casts away or otherwise destroys any vessel of the United States to which he belongs, or willfully attempts the destruction thereof, shall be imprisoned not more than ten years.
 
@@ -75,21 +75,21 @@ Whoever, not being an owner, upon the high seas or on any other waters within th
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 492 (Mar. 4, 1909, ch. 321, § 301, 35 Stat. 1147).
+Based on title 18, U.S.C., 1940 ed., § 492 (Mar. 4, 1909, ch. 321, § 301, 35 Stat. 1147).
 
 Words “with intent to destroy the same, sets fire to any such vessel, or otherwise” following “willfully” and preceding “attempts” were omitted as surplusage.
 
-## § 2274. Destruction or misuse of vessel by person in charge
+## § 2274. Destruction or misuse of vessel by person in charge
 
 Whoever, being the owner, master or person in charge or command of any private vessel, foreign or domestic, or a member of the crew or other person, within the territorial waters of the United States, willfully causes or permits the destruction or injury of such vessel or knowingly permits said vessel to be used as a place of resort for any person conspiring with another or preparing to commit any offense against the United States, or any offense in violation of the treaties of the United States or of the obligations of the United States under the law of nations, or to defraud the United States; or knowingly permits such vessels to be used in violation of the rights and obligations of the United States under the law of nations, shall be fined under this title or imprisoned not more than ten years, or both.
 
 In case such vessels are so used, with the knowledge of the owner or master or other person in charge or command thereof, the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited for violation of the customs revenue laws.
 
-(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 193 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title II, § 3, 40 Stat. 220; Mar. 28, 1940, ch. 72, § 3(b), 54 Stat. 79).
+Based on section 193 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title II, § 3, 40 Stat. 220; Mar. 28, 1940, ch. 72, § 3(b), 54 Stat. 79).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -101,15 +101,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in first par.
 
-## § 2275. Firing or tampering with vessels
+## § 2275. Firing or tampering with vessels
 
 Whoever sets fire to any vessel of foreign registry, or any vessel of American registry entitled to engage in commerce with foreign nations, or to any vessel of the United States, or to the cargo of the same, or tampers with the motive power of instrumentalities of navigation of such vessel, or places bombs or explosives in or upon such vessel, or does any other act to or upon such vessel while within the jurisdiction of the United States, or, if such vessel is of American registry, while she is on the high sea, with intent to injure or endanger the safety of the vessel or of her cargo, or of persons on board, whether the injury or danger is so intended to take place within the jurisdiction of the United States, or after the vessel shall have departed therefrom and whoever attempts to do so shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 502 (June 15, 1917, ch. 30, title III, § 1, 40 Stat. 221).
+Based on title 18, U.S.C., 1940 ed., § 502 (June 15, 1917, ch. 30, title III, § 1, 40 Stat. 221).
 
 Words “as defined in section 501 of this title,” were omitted in view of section 9 of this title, defining vessel of the United States.
 
@@ -125,15 +125,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 2276. Breaking and entering vessel
+## § 2276. Breaking and entering vessel
 
 Whoever, upon the high seas or on any other waters within the admiralty and maritime jurisdiction of the United States, and out of the jurisdiction of any particular State, breaks or enters any vessel with intent to commit any felony, or maliciously cuts, spoils, or destroys any cordage, cable, buoys, buoy rope, head fast, or other fast, fixed to the anchor or moorings belonging to any vessel, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 490 (Mar. 4, 1909, ch. 321, § 299, 35 Stat. 1147).
+Based on title 18, U.S.C., 1940 ed., § 490 (Mar. 4, 1909, ch. 321, § 299, 35 Stat. 1147).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -143,23 +143,23 @@ Mandatory punishment provision was rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 2277. Explosives or dangerous weapons aboard vessels
+## § 2277. Explosives or dangerous weapons aboard vessels
 
 **(a)** Whoever brings, carries, or possesses any dangerous weapon, instrument, or device, or any dynamite, nitroglycerin, or other explosive article or compound on board of any vessel documented under the laws of the United States, or any vessel purchased, requisitioned, chartered, or taken over by the United States pursuant to the provisions of Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, without previously obtaining the permission of the owner or the master of such vessel; or
 
-Whoever brings, carries, or possesses any such weapon or explosive on board of any vessel in the possession and under the control of the United States or which has been seized and forfeited by the United States or upon which a guard has been placed by the United States pursuant to the provisions of section 191 1
+Whoever brings, carries, or possesses any such weapon or explosive on board of any vessel in the possession and under the control of the United States or which has been seized and forfeited by the United States or upon which a guard has been placed by the United States pursuant to the provisions of section 191 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of Title 50, without previously obtaining the permission of the captain of the port in which such vessel is located, shall be fined under this title or imprisoned not more than one year, or both.
 
 **(b)** This section shall not apply to the personnel of the Armed Forces of the United States or to officers or employees of the United States or of a State or of a political subdivision thereof, while acting in the performance of their duties, who are authorized by law or by rules or regulations to own or possess any such weapon or explosive.
 
-(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–304, § 17(d)(6), Oct. 6, 2006, 120 Stat. 1707.)
+(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–304, § 17(d)(6), Oct. 6, 2006, 120 Stat. 1707.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 503, 504 (Dec. 31, 1941, ch. 642, §§ 1, 2, 55 Stat. 876).
+Based on title 18, U.S.C., 1940 ed., §§ 503, 504 (Dec. 31, 1941, ch. 642, §§ 1, 2, 55 Stat. 876).
 
 Section consolidates sections 503 and 504 of title 18, U.S.C., 1940 ed.
 
@@ -173,7 +173,7 @@ Minor changes were made in phraseology.
 
 Act June 6, 1941, ch. 174, 55 Stat. 242, referred to in subsec. (a), expired July 1, 1953.
 
-Section 191 of Title 50, referred to in subsec. (a), was redesignated and transferred to section 70051 of Title 46, Shipping, by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
+Section 191 of Title 50, referred to in subsec. (a), was redesignated and transferred to section 70051 of Title 46, Shipping, by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
 
 **Amendments**
 
@@ -181,15 +181,15 @@ Section 191 of Title 50, referred to in subsec. (a), was redesignated and transf
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
 
-## § 2278. Explosives on vessels carrying steerage passengers
+## § 2278. Explosives on vessels carrying steerage passengers
 
 Whoever, being the master of a steamship or other vessel referred to in section 151 of Title 46, except as otherwise expressly provided by law, takes, carries, or has on board of any such vessel any nitroglycerin, dynamite, or any other explosive article or compound, or any vitriol or like acids, or gunpowder, except for the ship’s use, or any article or number of articles, whether as a cargo or ballast, which, by reason of the nature or quantity or mode of storage thereof, shall, either singly or collectively, be likely to endanger the health or lives of the passengers or the safety of the vessel, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 171 of title 46, U.S.C., 1940 ed., Shipping (Aug. 2, 1882, ch. 374, § 8, 22 Stat. 189).
+Based on section 171 of title 46, U.S.C., 1940 ed., Shipping (Aug. 2, 1882, ch. 374, § 8, 22 Stat. 189).
 
 Words “except as otherwise expressly provided by law” were inserted to remove obvious inconsistency between sections 831–835 of this title, section 170 of title 46, U.S.C., 1940 ed., Shipping, and this section.
 
@@ -203,23 +203,23 @@ Minor changes were made in phraseology.
 
 **References in Text**
 
-Section 151 of Title 46, referred to in text, which was based on section 1 of act Aug. 2, 1882, ch. 374, 22 Stat. 186, was repealed by Pub. L. 98–89, Aug. 26, 1983, § 4(b), 97 Stat. 599.
+Section 151 of Title 46, referred to in text, which was based on section 1 of act Aug. 2, 1882, ch. 374, 22 Stat. 186, was repealed by Pub. L. 98–89, Aug. 26, 1983, § 4(b), 97 Stat. 599.
 
 **Amendments**
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 2279. Boarding vessels before arrival
+## § 2279. Boarding vessels before arrival
 
 Whoever, not being in the United States service, and not being duly authorized by law for the purpose, goes on board any vessel about to arrive at the place of her destination, before her actual arrival, and before she has been completely moored, shall be fined under this title or imprisoned not more than six months, or both.
 
 The master of such vessel may take any such person into custody, and deliver him up forthwith to any law enforcement officer, to be by him taken before any committing magistrate, to be dealt with according to law.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 103–322, title XXXIII, § 330016(1)(D), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 103–322, title XXXIII, § 330016(1)(D), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on section 708 of title 46, U.S.C., 1940 ed., Shipping (R.S. § 4606).
+Based on section 708 of title 46, U.S.C., 1940 ed., Shipping (R.S. § 4606).
 
 “Law enforcement officer” was substituted for “constable or police officer” and “committing magistrate” for “justice of the peace.” The phraseology used in the statute was archaic. It originated when the government had few law enforcement officers and magistrates of its own.
 
@@ -237,7 +237,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $200” in first par.
 
-## § 2280. Violence against maritime navigation
+## § 2280. Violence against maritime navigation
 
 **(a) Offenses.—**
 
@@ -339,9 +339,9 @@ as long as the types and quantities are consistent with such purposes;
 
 **(7)** “infrastructure facility” has the meaning given the term in section 2332f(e)(5) of this title;
 
-**(8)** “international organization” has the meaning given the term in section 831(f)(3) 1
+**(8)** “international organization” has the meaning given the term in section 831(f)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -397,37 +397,37 @@ of this title;
 
 **(2) Applicable Procedures.—** Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
 
-(Added Pub. L. 103–322, title VI, § 60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132, title VII, §§ 722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 114–23, title VIII, § 801, June 2, 2015, 129 Stat. 300.)
+(Added Pub. L. 103–322, title VI, § 60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132, title VII, §§ 722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 114–23, title VIII, § 801, June 2, 2015, 129 Stat. 300.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 831(f)(3) of this title, referred to in subsec. (d)(8), was redesignated section 831(g)(3) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
+Section 831(f)(3) of this title, referred to in subsec. (d)(8), was redesignated section 831(g)(3) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
 
 **Amendments**
 
-2015—Subsec. (b)(1)(A)(i). Pub. L. 114–23, § 801(1)(A), substituted “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in section 70502 of title 46)” for “a ship flying the flag of the United States”.
+2015—Subsec. (b)(1)(A)(i). Pub. L. 114–23, § 801(1)(A), substituted “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in section 70502 of title 46)” for “a ship flying the flag of the United States”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 114–23, § 801(1)(B), inserted “, including the territorial seas” before semicolon.
+Subsec. (b)(1)(A)(ii). Pub. L. 114–23, § 801(1)(B), inserted “, including the territorial seas” before semicolon.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 114–23, § 801(1)(C), inserted “, by a United States corporation or legal entity,” after “by a national of the United States”.
+Subsec. (b)(1)(A)(iii). Pub. L. 114–23, § 801(1)(C), inserted “, by a United States corporation or legal entity,” after “by a national of the United States”.
 
-Subsec. (c). Pub. L. 114–23, § 801(2), substituted “section 13(c)” for “section 2(c)”.
+Subsec. (c). Pub. L. 114–23, § 801(2), substituted “section 13(c)” for “section 2(c)”.
 
-Subsecs. (d) to (g). Pub. L. 114–23, § 801(3)–(5), added subsecs. (d) to (g) and struck out former subsecs. (d) and (e) which related to delivery of suspected offender and definitions, respectively.
+Subsecs. (d) to (g). Pub. L. 114–23, § 801(3)–(5), added subsecs. (d) to (g) and struck out former subsecs. (d) and (e) which related to delivery of suspected offender and definitions, respectively.
 
-1996—Subsec. (a)(1)(H). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
+1996—Subsec. (a)(1)(H). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 104–132, § 722(1), struck out “and the activity is not prohibited as a crime by the State in which the activity takes place” after “the United States”.
+Subsec. (b)(1)(A)(ii). Pub. L. 104–132, § 722(1), struck out “and the activity is not prohibited as a crime by the State in which the activity takes place” after “the United States”.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 104–132, § 722(2), struck out “the activity takes place on a ship flying the flag of a foreign country or outside the United States,” before “by a national of the United States”.
+Subsec. (b)(1)(A)(iii). Pub. L. 104–132, § 722(2), struck out “the activity takes place on a ship flying the flag of a foreign country or outside the United States,” before “by a national of the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–322, title VI, § 60019(c), Sept. 13, 1994, 108 Stat. 1979, provided that:
+Pub. L. 103–322, title VI, § 60019(c), Sept. 13, 1994, 108 Stat. 1979, provided that:
 
 > “This section [enacting this section and section 2281 of this title] and the amendments made by this section shall take effect on the later of—
 
@@ -447,7 +447,7 @@ Pub. L. 103–322, title VI, § 60019(c), Sept. 13, 1994, 108 Stat. 1979, prov
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## § 2280a. Violence against maritime navigation and maritime transport involving weapons of mass destruction
+## § 2280a. Violence against maritime navigation and maritime transport involving weapons of mass destruction
 
 **(a) Offenses.—**
 
@@ -487,9 +487,9 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 **(vi)** any equipment, materials, or software or related technology that significantly contributes to the design, manufacture, or delivery of a biological or chemical weapon, with the intention that it will be used for such purpose;
 
-**(C)** transports another person on board a ship knowing that the person has committed an act that constitutes an offense under section 2280 or subparagraph (A), (B), (D), or (E) of this section 1
+**(C)** transports another person on board a ship knowing that the person has committed an act that constitutes an offense under section 2280 or subparagraph (A), (B), (D), or (E) of this section 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 or an offense set forth in an applicable treaty, as specified in section 2280(d)(1), and intending to assist that person to evade criminal prosecution;
 
@@ -533,7 +533,7 @@ shall be fined under this title, imprisoned not more than 20 years, or both; and
 
 **(2) Applicable Procedures.—** Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
 
-(Added Pub. L. 114–23, title VIII, § 802(a), June 2, 2015, 129 Stat. 304.)
+(Added Pub. L. 114–23, title VIII, § 802(a), June 2, 2015, 129 Stat. 304.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -541,7 +541,7 @@ shall be fined under this title, imprisoned not more than 20 years, or both; and
 
 For definitions of terms used in this section, see section 2280(d) of this title.
 
-## § 2281. Violence against maritime fixed platforms
+## § 2281. Violence against maritime fixed platforms
 
 **(a) Offenses.—**
 
@@ -591,21 +591,21 @@ shall be fined under this title, imprisoned not more than 20 years, or both; and
 
 **(2)** activities undertaken by military forces of a state in the exercise of their official duties.
 
-(Added Pub. L. 103–322, title VI, § 60019(a), Sept. 13, 1994, 108 Stat. 1977; amended Pub. L. 104–132, title VII, § 723(a)(1), Apr. 24, 1996, 110 Stat. 1300; Pub. L. 104–294, title VI, § 607(p), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 114–23, title VIII, § 803, June 2, 2015, 129 Stat. 307.)
+(Added Pub. L. 103–322, title VI, § 60019(a), Sept. 13, 1994, 108 Stat. 1977; amended Pub. L. 104–132, title VII, § 723(a)(1), Apr. 24, 1996, 110 Stat. 1300; Pub. L. 104–294, title VI, § 607(p), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 114–23, title VIII, § 803, June 2, 2015, 129 Stat. 307.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (c). Pub. L. 114–23, § 803(1), substituted “section 13(c)” for “section 2(c)”.
+2015—Subsec. (c). Pub. L. 114–23, § 803(1), substituted “section 13(c)” for “section 2(c)”.
 
-Subsec. (d). Pub. L. 114–23, § 803(2), struck out definitions of “national of the United States”, “territorial sea of the United States”, and “United States”.
+Subsec. (d). Pub. L. 114–23, § 803(2), struck out definitions of “national of the United States”, “territorial sea of the United States”, and “United States”.
 
-Subsec. (e). Pub. L. 114–23, § 803(3), added subsec. (e).
+Subsec. (e). Pub. L. 114–23, § 803(3), added subsec. (e).
 
 1996—Subsec. (a)(1)(F). Pub. L. 104–132 inserted “or conspires” after “attempts”.
 
-Subsec. (c). Pub. L. 104–294 inserted before period at end “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States”.
+Subsec. (c). Pub. L. 104–294 inserted before period at end “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -623,7 +623,7 @@ For definitions of terms used in this section, see section 2280(d) of this title
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## § 2281a. Additional offenses against maritime fixed platforms
+## § 2281a. Additional offenses against maritime fixed platforms
 
 **(a) Offenses.—**
 
@@ -669,7 +669,7 @@ shall be fined under this title, imprisoned not more than 20 years, or both; and
 
 **(2)** “fixed platform” means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
 
-(Added Pub. L. 114–23, title VIII, § 804(a), June 2, 2015, 129 Stat. 307.)
+(Added Pub. L. 114–23, title VIII, § 804(a), June 2, 2015, 129 Stat. 307.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -677,7 +677,7 @@ shall be fined under this title, imprisoned not more than 20 years, or both; and
 
 For definitions of terms used in this section, see section 2280(d) of this title.
 
-## § 2282A.1 [footnote: 1 So in original. No section 2282 has been enacted.] Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce
+## § 2282A.1 [footnote: 1 So in original. No section 2282 has been enacted.] Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce
 
 **(a)** A person who knowingly places, or causes to be placed, in navigable waters of the United States, by any means, a device or dangerous substance which is likely to destroy or cause damage to a vessel or its cargo, cause interference with the safe navigation of vessels, or interference with maritime commerce (such as by damaging or destroying marine terminals, facilities, or any other marine structure or entity used in maritime commerce) with the intent of causing such destruction or damage, interference with the safe navigation of vessels, or interference with maritime commerce shall be fined under this title or imprisoned for any term of years, or for life; or both.
 
@@ -691,29 +691,29 @@ For definitions of terms used in this section, see section 2280(d) of this title
 
 **(2)** The term “device” means any object that, because of its physical, mechanical, structural, or chemical properties, has the capacity to cause damage to a vessel or its cargo, or cause interference with the safe navigation of a vessel.
 
-(Added Pub. L. 109–177, title III, § 304(a)(1), Mar. 9, 2006, 120 Stat. 234.)
+(Added Pub. L. 109–177, title III, § 304(a)(1), Mar. 9, 2006, 120 Stat. 234.)
 
-## § 2282B. Violence against aids to maritime navigation
+## § 2282B. Violence against aids to maritime navigation
 
-Whoever intentionally destroys, seriously damages, alters, moves, or tampers with any aid to maritime navigation maintained by the Great Lakes St. Lawrence Seaway Development Corporation under the authority of section 4 of the Act of May 13, 1954 (33 U.S.C. 984), by the Coast Guard pursuant to section 81 1
+Whoever intentionally destroys, seriously damages, alters, moves, or tampers with any aid to maritime navigation maintained by the Great Lakes St. Lawrence Seaway Development Corporation under the authority of section 4 of the Act of May 13, 1954 (33 U.S.C. 984), by the Coast Guard pursuant to section 81 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14, United States Code, or lawfully maintained under authority granted by the Coast Guard pursuant to section 83 of title 14, United States Code, if such act endangers or is likely to endanger the safe navigation of a ship, shall be fined under this title or imprisoned for not more than 20 years, or both.
 
-(Added Pub. L. 109–177, title III, § 304(b)(1), Mar. 9, 2006, 120 Stat. 235; Pub. L. 116–260, div. AA, title V, § 512(c)(2), Dec. 27, 2020, 134 Stat. 2756.)
+(Added Pub. L. 109–177, title III, § 304(b)(1), Mar. 9, 2006, 120 Stat. 235; Pub. L. 116–260, div. AA, title V, § 512(c)(2), Dec. 27, 2020, 134 Stat. 2756.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 81 of title 14, referred to in text, was redesignated section 541 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 81 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 81 of title 14, referred to in text, was redesignated section 541 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 81 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
 2020—Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
-## § 2283. Transportation of explosive, biological, chemical, or radioactive or nuclear materials
+## § 2283. Transportation of explosive, biological, chemical, or radioactive or nuclear materials
 
 **(a) In General.—** Whoever knowingly transports aboard any vessel within the United States and on waters subject to the jurisdiction of the United States or any vessel outside the United States and on the high seas or having United States nationality an explosive or incendiary device, biological agent, chemical weapon, or radioactive or nuclear material, knowing that any such item is intended to be used to commit an offense listed under section 2332b(g)(5)(B), shall be fined under this title or imprisoned for any term of years or for life, or both.
 
@@ -731,7 +731,7 @@ Section 81 of title 14, referred to in text, was redesignated section 541 of tit
 
 **(5) Nuclear material.—** The term “nuclear material” has the meaning given that term in section 831(f)(1).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(6) Radioactive material.—** The term “radioactive material” means—
 
@@ -743,27 +743,27 @@ Section 81 of title 14, referred to in text, was redesignated section 541 of tit
 
 **(D)** all refined isotopes of radium.
 
-**(8) 2 [footnote: 2 So in original. No par. (7) has been enacted.] Source material.—** The term “source material” has the meaning given that term in section 11(z) of the Atomic Energy Act of 1954 (42 U.S.C. 2014(z)).
+**(8) 2 [footnote: 2 So in original. No par. (7) has been enacted.] Source material.—** The term “source material” has the meaning given that term in section 11(z) of the Atomic Energy Act of 1954 (42 U.S.C. 2014(z)).
 
 **(9) Special nuclear material.—** The term “special nuclear material” has the meaning given that term in section 11(aa) of the Atomic Energy Act of 1954 (42 U.S.C. 2014(aa)).
 
-(Added Pub. L. 109–177, title III, § 305(a), Mar. 9, 2006, 120 Stat. 236.)
+(Added Pub. L. 109–177, title III, § 305(a), Mar. 9, 2006, 120 Stat. 236.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 831(f)(1), referred to in subsec. (c)(5), was redesignated section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
+Section 831(f)(1), referred to in subsec. (c)(5), was redesignated section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
 
-## § 2284. Transportation of terrorists
+## § 2284. Transportation of terrorists
 
 **(a) In General.—** Whoever knowingly and intentionally transports any terrorist aboard any vessel within the United States and on waters subject to the jurisdiction of the United States or any vessel outside the United States and on the high seas or having United States nationality, knowing that the transported person is a terrorist, shall be fined under this title or imprisoned for any term of years or for life, or both.
 
 **(b) Defined Term.—** In this section, the term “terrorist” means any person who intends to commit, or is avoiding apprehension after having committed, an offense listed under section 2332b(g)(5)(B).
 
-(Added Pub. L. 109–177, title III, § 305(a), Mar. 9, 2006, 120 Stat. 237.)
+(Added Pub. L. 109–177, title III, § 305(a), Mar. 9, 2006, 120 Stat. 237.)
 
-## § 2285. Operation of submersible vessel or semi-submersible vessel without nationality
+## § 2285. Operation of submersible vessel or semi-submersible vessel without nationality
 
 **(a) Offense.—** Whoever knowingly operates, or attempts or conspires to operate, by any means, or embarks in any submersible vessel or semi-submersible vessel that is without nationality and that is navigating or has navigated into, through, or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country’s territorial sea with an adjacent country, with the intent to evade detection, shall be fined under this title, imprisoned not more than 15 years, or both.
 
@@ -805,10 +805,10 @@ Section 831(f)(1), referred to in subsec. (c)(5), was redesignated section 831(g
 
 **(h) Definitions.—** In this section, the terms “submersible vessel”, “semi-submersible vessel”, “vessel of the United States”, and “vessel without nationality” have the meaning given those terms in section 70502 of title 46.
 
-(Added Pub. L. 110–407, title I, § 102(a), Oct. 13, 2008, 122 Stat. 4296.)
+(Added Pub. L. 110–407, title I, § 102(a), Oct. 13, 2008, 122 Stat. 4296.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings and Declarations**
 
-Pub. L. 110–407, title I, § 101, Oct. 13, 2008, 122 Stat. 4296, provided that: “Congress finds and declares that operating or embarking in a submersible vessel or semi-submersible vessel without nationality and on an international voyage is a serious international problem, facilitates transnational crime, including drug trafficking, and terrorism, and presents a specific threat to the safety of maritime navigation and the security of the United States.”
+Pub. L. 110–407, title I, § 101, Oct. 13, 2008, 122 Stat. 4296, provided that: “Congress finds and declares that operating or embarking in a submersible vessel or semi-submersible vessel without nationality and on an international voyage is a serious international problem, facilitates transnational crime, including drug trafficking, and terrorism, and presents a specific threat to the safety of maritime navigation and the security of the United States.”

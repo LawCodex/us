@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 1301. Definitions
+### § 1301. Definitions
 
 **(a) In general** Except as otherwise specifically provided in this chapter, as used in this chapter:
 
@@ -125,7 +125,7 @@ The term “Office” means the Office of Congressional Workplace Rights.
 
 **(D)** the term “United States Commission on International Religious Freedom” means the Commission established under section 6431 of title 22.
 
-(Pub. L. 104–1, title I, § 101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, § 1(g)(1), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, § 422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 111–145, § 2(a)(5)(A), Mar. 4, 2010, 124 Stat. 50; Pub. L. 115–141, div. I, title I, § 153(a)(1)(A), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §§ 302(b), 305(a)–(c), 308(b)(1)–(7), Dec. 21, 2018, 132 Stat. 5321, 5323, 5324, 5326; Pub. L. 116–94, div. J, title VIII, § 805(b), Dec. 20, 2019, 133 Stat. 3077.)
+(Pub. L. 104–1, title I, § 101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, § 1(g)(1), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, § 422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 111–145, § 2(a)(5)(A), Mar. 4, 2010, 124 Stat. 50; Pub. L. 115–141, div. I, title I, § 153(a)(1)(A), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §§ 302(b), 305(a)–(c), 308(b)(1)–(7), Dec. 21, 2018, 132 Stat. 5321, 5323, 5324, 5326; Pub. L. 116–94, div. J, title VIII, § 805(b), Dec. 20, 2019, 133 Stat. 3077.)
 
 **Editorial Notes**
 
@@ -133,57 +133,57 @@ The term “Office” means the Office of Congressional Workplace Rights.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The U.S.–China Relations Act of 2000, referred to in subsec. (b)(3)(B), is div. B of Pub. L. 106–286, Oct. 10, 2000, 114 Stat. 891. Title III of the Act is classified to subchapter II (§ 6911 et seq.) of chapter 77 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 22 and Tables.
+The U.S.–China Relations Act of 2000, referred to in subsec. (b)(3)(B), is div. B of Pub. L. 106–286, Oct. 10, 2000, 114 Stat. 891. Title III of the Act is classified to subchapter II (§ 6911 et seq.) of chapter 77 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 22 and Tables.
 
 **Amendments**
 
-2019—Subsec. (b)(1). Pub. L. 116–94, § 805(b)(1), inserted “the United States Commission on International Religious Freedom,” after “With respect to” in introductory provisions.
+2019—Subsec. (b)(1). Pub. L. 116–94, § 805(b)(1), inserted “the United States Commission on International Religious Freedom,” after “With respect to” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 116–94, § 805(b)(2), inserted subpar. (A) designation before “Subject to paragraph (3),”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+Subsec. (b)(2). Pub. L. 116–94, § 805(b)(2), inserted subpar. (A) designation before “Subject to paragraph (3),”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (b)(3)(D). Pub. L. 116–94, § 805(b)(3), added subpar. (D).
+Subsec. (b)(3)(D). Pub. L. 116–94, § 805(b)(3), added subpar. (D).
 
-2018—Pub. L. 115–397, § 305(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2018—Pub. L. 115–397, § 305(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Subsec. (a). Pub. L. 115–397, § 308(b)(1)–(7), substituted “Office of Congressional Workplace Rights” for “Office of Compliance” wherever appearing.
+Subsec. (a). Pub. L. 115–397, § 308(b)(1)–(7), substituted “Office of Congressional Workplace Rights” for “Office of Compliance” wherever appearing.
 
-Par. (3)(J). Pub. L. 115–141, § 153(a)(1)(A)(i), added subpar. (J). Par. (3)(J) subsequently redesignated subsec. (a)(3)(J).
+Par. (3)(J). Pub. L. 115–141, § 153(a)(1)(A)(i), added subpar. (J). Par. (3)(J) subsequently redesignated subsec. (a)(3)(J).
 
-Subsec. (a)(3)(K). Pub. L. 115–397, § 305(b)(1), added subpar. (K).
+Subsec. (a)(3)(K). Pub. L. 115–397, § 305(b)(1), added subpar. (K).
 
-Subsec. (a)(7). Pub. L. 115–397, § 305(c), substituted “subparagraphs (C) through (K)” for “subparagraphs (C) through (I)”.
+Subsec. (a)(7). Pub. L. 115–397, § 305(c), substituted “subparagraphs (C) through (K)” for “subparagraphs (C) through (I)”.
 
-Pub. L. 115–397, § 302(b), substituted “disbursed by the Chief Administrative Officer of the House of Representatives” for “disbursed by the Clerk of the House of Representatives”. Amendment, which was directed to par. (7), was executed to subsec. (a)(7) to reflect the intervening redesignation made by section 305(a) of Pub. L. 115–397. See above.
+Pub. L. 115–397, § 302(b), substituted “disbursed by the Chief Administrative Officer of the House of Representatives” for “disbursed by the Clerk of the House of Representatives”. Amendment, which was directed to par. (7), was executed to subsec. (a)(7) to reflect the intervening redesignation made by section 305(a) of Pub. L. 115–397. See above.
 
-Subsec. (a)(8). Pub. L. 115–397, § 305(c), substituted “subparagraphs (C) through (K)” for “subparagraphs (C) through (I)”.
+Subsec. (a)(8). Pub. L. 115–397, § 305(c), substituted “subparagraphs (C) through (K)” for “subparagraphs (C) through (I)”.
 
-Subsec. (a)(9)(D). Pub. L. 115–397, § 305(b)(2), substituted “the Office of Technology Assessment, and the John C. Stennis Center for Public Service Training and Development” for “and the Office of Technology Assessment”.
+Subsec. (a)(9)(D). Pub. L. 115–397, § 305(b)(2), substituted “the Office of Technology Assessment, and the John C. Stennis Center for Public Service Training and Development” for “and the Office of Technology Assessment”.
 
-Par. (9)(E). Pub. L. 115–141, § 153(a)(1)(A)(ii), added subpar. (E). Par. (9)(E) subsequently redesignated subsec. (a)(9)(E).
+Par. (9)(E). Pub. L. 115–141, § 153(a)(1)(A)(ii), added subpar. (E). Par. (9)(E) subsequently redesignated subsec. (a)(9)(E).
 
 2010—Par. (9)(D). Pub. L. 111–145 substituted “the United States Capitol Police,” for “the Capitol Police Board,”.
 
-2008—Par. (3)(C). Pub. L. 110–437, § 422(b)(1), substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
+2008—Par. (3)(C). Pub. L. 110–437, § 422(b)(1), substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
 
-Par. (5). Pub. L. 110–279, which directed substitution of “or the Botanic Garden” for “, the Botanic Garden, or the Senate Restaurant”, was executed by making the substitution for “, the Botanic Garden, or the Senate Restaurants” to reflect the probable intent of Congress.
+Par. (5). Pub. L. 110–279, which directed substitution of “or the Botanic Garden” for “, the Botanic Garden, or the Senate Restaurant”, was executed by making the substitution for “, the Botanic Garden, or the Senate Restaurants” to reflect the probable intent of Congress.
 
-Par. (9)(D). Pub. L. 110–437, § 422(b)(2), substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Board,”.
+Par. (9)(D). Pub. L. 110–437, § 422(b)(2), substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Board,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–397, title III, § 305(d), Dec. 21, 2018, 132 Stat. 5324, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the enactment of the Congressional Accountability Act of 1995 [Pub. L. 104–1].”
+Pub. L. 115–397, title III, § 305(d), Dec. 21, 2018, 132 Stat. 5324, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the enactment of the Congressional Accountability Act of 1995 [Pub. L. 104–1].”
 
 Amendment by section 308(b) of Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
 
-Pub. L. 115–397, title IV, § 401, Dec. 21, 2018, 132 Stat. 5327, provided that:
+Pub. L. 115–397, title IV, § 401, Dec. 21, 2018, 132 Stat. 5327, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this Act [See Short Title of 2018 Amendment note below], this Act and the amendments made by this Act shall take effect upon the expiration of the 180-day period which begins on the date of the enactment of this Act [Dec. 21, 2018].
 
 > **“(b) No Effect on Pending Proceedings.—** Nothing in this Act or the amendments made by this Act may be construed to affect any proceeding or payment of an award or settlement relating to a claim under title IV of the Congressional Accountability Act of 1995 (2 U.S.C. 1401 et seq.) which is pending as of the date after that 180-day period. If, as of that date, an employee has begun any of the proceedings under that title that were available to the employee prior to that date, the employee may complete, or initiate and complete, all such proceedings, and such proceedings shall remain in effect with respect to, and provide the exclusive proceedings for, the claim involved until the completion of all such proceedings.”
 
-Pub. L. 115–141, div. I, title I, § 153(c), Mar. 23, 2018, 132 Stat. 787, provided that:
+Pub. L. 115–141, div. I, title I, § 153(c), Mar. 23, 2018, 132 Stat. 787, provided that:
 
 > “This section [amending this section and sections 1314 to 1316, 1331, 1341, 1351, 1401, 1404, and 1415 of this title] and the amendments made by this section—
 
@@ -197,31 +197,31 @@ Pub. L. 115–141, div. I, title I, § 153(c), Mar. 23, 2018, 132 Stat. 787, p
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–437, title IV, § 422(d), Oct. 20, 2008, 122 Stat. 4997, provided that: “The amendments made by this section [amending this section and sections 1331 and 1341 of this title and section 2107 of Title 5, Government Organization and Employees, and repealing section 2166 of this title] shall take effect on the transfer date [first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 2261 of this title].”
+Pub. L. 110–437, title IV, § 422(d), Oct. 20, 2008, 122 Stat. 4997, provided that: “The amendments made by this section [amending this section and sections 1331 and 1341 of this title and section 2107 of Title 5, Government Organization and Employees, and repealing section 2166 of this title] shall take effect on the transfer date [first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 2261 of this title].”
 
 Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see section 2051(i) of this title.
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title XI, § 1103(a), Jan. 1, 2021, 134 Stat. 3886, provided that: “This section [amending section 1312 of this title, section 412 of Title 3, The President, sections 6301, 6381, and 6382 of Title 5, Government Organization and Employees, section 7425 of Title 38, Veterans’ Benefits, and section 40122 of Title 49, Transportation, and enacting provisions set out as notes under section 1312 of this title, section 412 of Title 3, section 7425 of Title 38, and section 40122 of Title 49] may be cited as the ‘Paid Parental Leave Technical Corrections Act of 2020’.”
+Pub. L. 116–283, div. A, title XI, § 1103(a), Jan. 1, 2021, 134 Stat. 3886, provided that: “This section [amending section 1312 of this title, section 412 of Title 3, The President, sections 6301, 6381, and 6382 of Title 5, Government Organization and Employees, section 7425 of Title 38, Veterans’ Benefits, and section 40122 of Title 49, Transportation, and enacting provisions set out as notes under section 1312 of this title, section 412 of Title 3, section 7425 of Title 38, and section 40122 of Title 49] may be cited as the ‘Paid Parental Leave Technical Corrections Act of 2020’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–397, § 1(a), Dec. 21, 2018, 132 Stat. 5297, provided that: “This Act [enacting sections 1362, 1388, 1402a, 1417, 1437a, and 1437b of this title, amending this section and sections 1302, 1311, 1331, 1341, 1351, 1361, 1381, 1382, 1384, 1401 to 1405, 1408, 1414 to 1416, 1431, and 1438 of this title and section 8437 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section and sections 1331, 1381, and 1415 of this title] may be cited as the ‘Congressional Accountability Act of 1995 Reform Act’.”
+Pub. L. 115–397, § 1(a), Dec. 21, 2018, 132 Stat. 5297, provided that: “This Act [enacting sections 1362, 1388, 1402a, 1417, 1437a, and 1437b of this title, amending this section and sections 1302, 1311, 1331, 1341, 1351, 1361, 1381, 1382, 1384, 1401 to 1405, 1408, 1414 to 1416, 1431, and 1438 of this title and section 8437 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section and sections 1331, 1381, and 1415 of this title] may be cited as the ‘Congressional Accountability Act of 1995 Reform Act’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–6, § 1, Mar. 20, 2015, 129 Stat. 81, provided that: “This Act [amending sections 1403, 1404, and 1416 of this title and enacting provisions set out as notes under sections 1381 and 1403 of this title] may be cited as the ‘Office of Compliance Administrative and Technical Corrections Act of 2015’.”
+Pub. L. 114–6, § 1, Mar. 20, 2015, 129 Stat. 81, provided that: “This Act [amending sections 1403, 1404, and 1416 of this title and enacting provisions set out as notes under sections 1381 and 1403 of this title] may be cited as the ‘Office of Compliance Administrative and Technical Corrections Act of 2015’.”
 
 **Short Title**
 
-Pub. L. 104–1, § 1(a), Jan. 23, 1995, 109 Stat. 3, provided that: “This Act [enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance] may be cited as the ‘Congressional Accountability Act of 1995’.”
+Pub. L. 104–1, § 1(a), Jan. 23, 1995, 109 Stat. 3, provided that: “This Act [enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance] may be cited as the ‘Congressional Accountability Act of 1995’.”
 
 **Construction of 2010 Amendment**
 
-Pub. L. 111–145, § 2(a)(5)(B), Mar. 4, 2010, 124 Stat. 50, provided that: “Nothing in the amendment made by subparagraph (A) [amending this section] may be construed to affect any procedure initiated under title IV of the Congressional Accountability Act of 1995 [2 U.S.C. 1401 et seq.] prior to the date of the enactment of this Act [Mar. 4, 2010].”
+Pub. L. 111–145, § 2(a)(5)(B), Mar. 4, 2010, 124 Stat. 50, provided that: “Nothing in the amendment made by subparagraph (A) [amending this section] may be construed to affect any procedure initiated under title IV of the Congressional Accountability Act of 1995 [2 U.S.C. 1401 et seq.] prior to the date of the enactment of this Act [Mar. 4, 2010].”
 
-### § 1302. Application of laws
+### § 1302. Application of laws
 
 **(a) Laws made applicable** The following laws shall apply, as prescribed by this chapter, to the legislative branch of the Federal Government:
 
@@ -249,7 +249,7 @@ Pub. L. 111–145, § 2(a)(5)(B), Mar. 4, 2010, 124 Stat. 50, provided that: �
 
 **(12)** Section 9202 of title 5.1
 
-<sup>1</sup>  See Effective Date of 2019 Amendment note below.
+<sup>1</sup> See Effective Date of 2019 Amendment note below.
 
 **(b) Laws which may be made applicable**
 
@@ -285,7 +285,7 @@ Nothing in this section limits the provisions of this chapter that apply to a vi
 
 A law described in this subparagraph is a law (even if not listed in subsection (a) or this subsection) that explicitly applies one or more provisions of this chapter to a violation.
 
-(Pub. L. 104–1, title I, § 102, Jan. 23, 1995, 109 Stat. 5; Pub. L. 115–397, title III, § 301, Dec. 21, 2018, 132 Stat. 5320; Pub. L. 116–92, div. A, title XI, § 1122(d)(1)(A), Dec. 20, 2019, 133 Stat. 1608.)
+(Pub. L. 104–1, title I, § 102, Jan. 23, 1995, 109 Stat. 5; Pub. L. 115–397, title III, § 301, Dec. 21, 2018, 132 Stat. 5320; Pub. L. 116–92, div. A, title XI, § 1122(d)(1)(A), Dec. 20, 2019, 133 Stat. 1608.)
 
 **Editorial Notes**
 
@@ -293,25 +293,25 @@ A law described in this subparagraph is a law (even if not listed in subsection 
 
 This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(4), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(4), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (a)(5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (a)(5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The Employee Polygraph Protection Act of 1988, referred to in subsec. (a)(8), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
+The Employee Polygraph Protection Act of 1988, referred to in subsec. (a)(8), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 
-The Worker Adjustment and Retraining Notification Act, referred to in subsec. (a)(9), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
+The Worker Adjustment and Retraining Notification Act, referred to in subsec. (a)(9), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (c)(1), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. Title II of the Act is classified generally to chapter 21F (§ 2000ff et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of Title 42 and Tables.
+The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (c)(1), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. Title II of the Act is classified generally to chapter 21F (§ 2000ff et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of Title 42 and Tables.
 
 **Amendments**
 
@@ -333,7 +333,7 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 ### Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining, Employment and Reemployment of Veterans, and Intimidation
 
-#### § 1311. Rights and protections under title VII of Civil Rights Act of 1964, Age Discrimination in Employment Act of 1967, Rehabilitation Act of 1973, and title I of Americans with Disabilities Act of 1990
+#### § 1311. Rights and protections under title VII of Civil Rights Act of 1964, Age Discrimination in Employment Act of 1967, Rehabilitation Act of 1973, and title I of Americans with Disabilities Act of 1990
 
 **(a) Discriminatory practices prohibited** All personnel actions affecting covered employees shall be made free from any discrimination based on—
 
@@ -387,7 +387,7 @@ For purposes of this subsection, the term “intern” means an individual who p
 
 This section shall take effect 1 year after January 23, 1995.
 
-(Pub. L. 104–1, title II, § 201, Jan. 23, 1995, 109 Stat. 7; Pub. L. 115–397, title III, § 302(a), Dec. 21, 2018, 132 Stat. 5321.)
+(Pub. L. 104–1, title II, § 201, Jan. 23, 1995, 109 Stat. 7; Pub. L. 115–397, title III, § 302(a), Dec. 21, 2018, 132 Stat. 5321.)
 
 **Editorial Notes**
 
@@ -407,7 +407,7 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 **Coverage of House of Representatives and the Agencies of the Legislative Branch**
 
-Pub. L. 102–166, title I, § 117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
+Pub. L. 102–166, title I, § 117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 > **“(a) Coverage of the House of Representatives.—**
 
@@ -439,7 +439,7 @@ Pub. L. 102–166, title I, § 117, Nov. 21, 1991, 105 Stat. 1080, as amended 
 
 [Section effective Nov. 21, 1991, except as otherwise provided, see section 402(a) of Pub. L. 102–166, set out as an Effective Date of 1991 Amendment note under section 1981 of Title 42, The Public Health and Welfare.]
 
-#### § 1312. Rights and protections under Family and Medical Leave Act of 1993
+#### § 1312. Rights and protections under Family and Medical Leave Act of 1993
 
 **(a) Family and medical leave rights and protections provided**
 
@@ -505,13 +505,13 @@ Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 Subsection (c) shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, § 202, Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 116–92, div. F, title LXXVI, § 7603(a), (b), Dec. 20, 2019, 133 Stat. 2306, 2307; Pub. L. 116–283, div. A, title XI, § 1103(g)(1), Jan. 1, 2021, 134 Stat. 3889.)
+(Pub. L. 104–1, title II, § 202, Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 116–92, div. F, title LXXVI, § 7603(a), (b), Dec. 20, 2019, 133 Stat. 2306, 2307; Pub. L. 116–283, div. A, title XI, § 1103(g)(1), Jan. 1, 2021, 134 Stat. 3889.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 Subsection (c) of this section, referred to in subsec. (f)(2), amended section 6381 of Title 5, Government Organization and Employees, and sections 2611 and 2617 of Title 29, Labor.
 
@@ -523,11 +523,11 @@ Section is comprised of section 202 of Pub. L. 104–1. Subsec. (c) of section 2
 
 2021—Subsec. (d)(2)(B). Pub. L. 116–283 inserted “accrued” before “sick leave”.
 
-2019—Subsec. (a)(1). Pub. L. 116–92, § 7603(a)(1), inserted at end “In applying section 102 of such Act with respect to leave for an event described in subsection (a)(1)(A) or (B) of such section to covered employees, subsection (d) of this section shall apply. Paragraphs (1) and (4) of section 102(a) of such Act shall be subject to subsection (d) of this section.”
+2019—Subsec. (a)(1). Pub. L. 116–92, § 7603(a)(1), inserted at end “In applying section 102 of such Act with respect to leave for an event described in subsection (a)(1)(A) or (B) of such section to covered employees, subsection (d) of this section shall apply. Paragraphs (1) and (4) of section 102(a) of such Act shall be subject to subsection (d) of this section.”
 
-Subsec. (a)(2). Pub. L. 116–92, § 7603(b), which directed insertion of “The requirements of subparagraph (B) shall not apply with respect to leave under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)).” at end of par. (2), was executed by inserting sentence as concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 116–92, § 7603(b), which directed insertion of “The requirements of subparagraph (B) shall not apply with respect to leave under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)).” at end of par. (2), was executed by inserting sentence as concluding provisions of par. (2) to reflect the probable intent of Congress.
 
-Subsecs. (d) to (f). Pub. L. 116–92, § 7603(a)(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 116–92, § 7603(a)(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 2004—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
 
@@ -535,17 +535,17 @@ Subsecs. (d) to (f). Pub. L. 116–92, § 7603(a)(2), (3), added subsec. (d) a
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title XI, § 1103(g)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: “The amendment made by this subsection [amending this section] shall apply with respect to any event for which leave may be taken under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1995 [probably means Family and Medical Leave Act of 1993] (29 U.S.C. 2612(a)(1)) and occurring on or after October 1, 2020.”
+Pub. L. 116–283, div. A, title XI, § 1103(g)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: “The amendment made by this subsection [amending this section] shall apply with respect to any event for which leave may be taken under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1995 [probably means Family and Medical Leave Act of 1993] (29 U.S.C. 2612(a)(1)) and occurring on or after October 1, 2020.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. F, title LXXVI, § 7603(c), Dec. 20, 2019, 133 Stat. 2307, provided that: “The amendments made by this section [amending this section] shall not be effective with respect to any birth or placement occurring before October 1, 2020.”
+Pub. L. 116–92, div. F, title LXXVI, § 7603(c), Dec. 20, 2019, 133 Stat. 2307, provided that: “The amendments made by this section [amending this section] shall not be effective with respect to any birth or placement occurring before October 1, 2020.”
 
 **Clarification for Members of the National Guard and Reserves: Congressional Employees**
 
-Pub. L. 116–92, div. F, title LXXVI, § 7605(b), Dec. 20, 2019, 133 Stat. 2308, provided that: “For purposes of determining the eligibility of a covered employee (as such term is defined in section 101[(a)](3) of the Congressional Accountability Act [2 U.S.C. 1301(a)(3)]) who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993 [29 U.S.C. 2612(a)] (pursuant to section 202(a)(1) of the Congressional Accountability Act [2 U.S.C. 1312(a)(1)]), any service by such employee on active duty (as defined in section 101[(a)](14) of the Family and Medical Leave Act of 1993 [2 U.S.C. 1301(a)(14)]) shall be counted as time during which such employee has been employed in an employing office for purposes of section 202(a)(2)(B) of the Congressional Accountability Act [2 U.S.C. 1312(a)(2)(B)].”
+Pub. L. 116–92, div. F, title LXXVI, § 7605(b), Dec. 20, 2019, 133 Stat. 2308, provided that: “For purposes of determining the eligibility of a covered employee (as such term is defined in section 101[(a)](3) of the Congressional Accountability Act [2 U.S.C. 1301(a)(3)]) who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993 [29 U.S.C. 2612(a)] (pursuant to section 202(a)(1) of the Congressional Accountability Act [2 U.S.C. 1312(a)(1)]), any service by such employee on active duty (as defined in section 101[(a)](14) of the Family and Medical Leave Act of 1993 [2 U.S.C. 1301(a)(14)]) shall be counted as time during which such employee has been employed in an employing office for purposes of section 202(a)(2)(B) of the Congressional Accountability Act [2 U.S.C. 1312(a)(2)(B)].”
 
-#### § 1313. Rights and protections under Fair Labor Standards Act of 1938
+#### § 1313. Rights and protections under Fair Labor Standards Act of 1938
 
 **(a) Fair labor standards**
 
@@ -589,13 +589,13 @@ Law enforcement personnel of the Capitol Police who are subject to the exemption
 
 Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
-(Pub. L. 104–1, title II, § 203, Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–197, title III, § 312, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 119–37, div. C, title II, § 211, Nov. 12, 2025, 139 Stat. 584.)
+(Pub. L. 104–1, title II, § 203, Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–197, title III, § 312, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 119–37, div. C, title II, § 211, Nov. 12, 2025, 139 Stat. 584.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 **Codification**
 
@@ -603,17 +603,17 @@ Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 2
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–37 substituted “section 12(c), and section 18D” for “and section 12(c)” and inserted “, 218d” after “212(c)”.
+2025—Subsec. (a)(1). Pub. L. 119–37 substituted “section 12(c), and section 18D” for “and section 12(c)” and inserted “, 218d” after “212(c)”.
 
-1996—Subsec. (a)(3). Pub. L. 104–197, § 312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
+1996—Subsec. (a)(3). Pub. L. 104–197, § 312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
 
-Subsec. (c)(4). Pub. L. 104–197, § 312(b), added par. (4).
+Subsec. (c)(4). Pub. L. 104–197, § 312(b), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application of Rights and Protections of Fair Labor Standards Act of 1938 to Congressional and Architect of the Capitol Employees**
 
-Pub. L. 101–157, § 8, Nov. 17, 1989, 103 Stat. 944, provided that:
+Pub. L. 101–157, § 8, Nov. 17, 1989, 103 Stat. 944, provided that:
 
 > **“(a) House Employees.—**
 
@@ -623,7 +623,7 @@ Pub. L. 101–157, § 8, Nov. 17, 1989, 103 Stat. 944, provided that:
 
 > **“(b) Architect of the Capitol Employees.—** Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) shall apply with respect to individuals employed under the Office of the Architect of the Capitol.”
 
-#### § 1314. Rights and protections under Employee Polygraph Protection Act of 1988
+#### § 1314. Rights and protections under Employee Polygraph Protection Act of 1988
 
 **(a) Polygraph practices prohibited**
 
@@ -663,7 +663,7 @@ Except as provided in paragraph (2), subsections (a) and (b) shall be effective 
 
 This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, § 204, Jan. 23, 1995, 109 Stat. 10; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–141, div. I, title I, § 153(a)(2)(A), Mar. 23, 2018, 132 Stat. 785.)
+(Pub. L. 104–1, title II, § 204, Jan. 23, 1995, 109 Stat. 10; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–141, div. I, title I, § 153(a)(2)(A), Mar. 23, 2018, 132 Stat. 785.)
 
 **Editorial Notes**
 
@@ -675,7 +675,7 @@ This section shall be effective with respect to the Government Accountability Of
 
 Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 
-#### § 1315. Rights and protections under Worker Adjustment and Retraining Notification Act
+#### § 1315. Rights and protections under Worker Adjustment and Retraining Notification Act
 
 **(a) Worker adjustment and retraining notification rights**
 
@@ -711,7 +711,7 @@ Except as provided in paragraph (2), subsections (a) and (b) shall be effective 
 
 This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, § 205, Jan. 23, 1995, 109 Stat. 11; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–141, div. I, title I, § 153(a)(2)(B), Mar. 23, 2018, 132 Stat. 785.)
+(Pub. L. 104–1, title II, § 205, Jan. 23, 1995, 109 Stat. 11; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–141, div. I, title I, § 153(a)(2)(B), Mar. 23, 2018, 132 Stat. 785.)
 
 **Editorial Notes**
 
@@ -723,7 +723,7 @@ This section shall be effective with respect to the Government Accountability Of
 
 Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 
-#### § 1316. Rights and protections relating to veterans’ employment and reemployment
+#### § 1316. Rights and protections relating to veterans’ employment and reemployment
 
 **(a) Employment and reemployment rights of members of uniformed services**
 
@@ -767,7 +767,7 @@ Except as provided in paragraph (2), subsections (a) and (b) shall be effective 
 
 This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, § 206, Jan. 23, 1995, 109 Stat. 12; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–275, title VII, § 703(b), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 115–141, div. I, title I, § 153(a)(2)(C), Mar. 23, 2018, 132 Stat. 785.)
+(Pub. L. 104–1, title II, § 206, Jan. 23, 1995, 109 Stat. 12; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–275, title VII, § 703(b), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 115–141, div. I, title I, § 153(a)(2)(C), Mar. 23, 2018, 132 Stat. 785.)
 
 **Editorial Notes**
 
@@ -781,7 +781,7 @@ This section shall be effective with respect to the Government Accountability Of
 
 Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 
-#### § 1316a. Legislative branch appointments
+#### § 1316a. Legislative branch appointments
 
 **(1) Definitions**
 
@@ -827,19 +827,19 @@ The regulations issued under subparagraph (A) shall be consistent with section 2
 
 Paragraphs (2) and (3) shall be effective as of the effective date of the regulations under paragraph (4).
 
-(Pub. L. 105–339, § 4(c), Oct. 31, 1998, 112 Stat. 3185.)
+(Pub. L. 105–339, § 4(c), Oct. 31, 1998, 112 Stat. 3185.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Congressional Accountability Act of 1995, referred to in par. (3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3. Part A (§§ 201–207) of title II of the Act is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+The Congressional Accountability Act of 1995, referred to in par. (3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3. Part A (§§ 201–207) of title II of the Act is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Veterans Employment Opportunities Act of 1998, and not as part of the Congressional Accountability Act of 1995 which comprises this chapter.
 
-#### § 1316b. Rights and protections relating to criminal history inquiries
+#### § 1316b. Rights and protections relating to criminal history inquiries
 
 **(a) Definitions**
 
@@ -879,9 +879,9 @@ Not later than 18 months after December 20, 2019, the Board shall, pursuant to s
 
 **(2) Parallel with agency regulations**
 
-The regulations issued under paragraph (1) shall be the same as substantive regulations issued by the Director of the Office of Personnel Management under section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019 1
+The regulations issued under paragraph (1) shall be the same as substantive regulations issued by the Director of the Office of Personnel Management under section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to implement the statutory provisions referred to in subsections (a) through (c) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
@@ -889,7 +889,7 @@ to implement the statutory provisions referred to in subsections (a) through (c)
 
 Section 1302(a)(12) of this title and subsections (a) through (c) shall take effect on the date on which section 9202 of title 5 applies with respect to agencies.
 
-(Pub. L. 104–1, title II, § 207, as added Pub. L. 116–92, div. A, title XI, § 1122(d)(1)(C), Dec. 20, 2019, 133 Stat. 1608.)
+(Pub. L. 104–1, title II, § 207, as added Pub. L. 116–92, div. A, title XI, § 1122(d)(1)(C), Dec. 20, 2019, 133 Stat. 1608.)
 
 **Editorial Notes**
 
@@ -903,7 +903,7 @@ Section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019, referred to 
 
 A prior section 207 of Pub. L. 104–1 was renumbered section 208 and is classified to section 1317 of this title.
 
-#### § 1317. Prohibition of intimidation or reprisal
+#### § 1317. Prohibition of intimidation or reprisal
 
 **(a) In general**
 
@@ -913,7 +913,7 @@ It shall be unlawful for an employing office to intimidate, take reprisal agains
 
 The remedy available for a violation of subsection (a) shall be such legal or equitable remedy as may be appropriate to redress a violation of subsection (a).
 
-(Pub. L. 104–1, title II, § 208, formerly § 207, Jan. 23, 1995, 109 Stat. 13; renumbered § 208, Pub. L. 116–92, div. A, title XI, § 1122(d)(1)(B), Dec. 20, 2019, 133 Stat. 1608.)
+(Pub. L. 104–1, title II, § 208, formerly § 207, Jan. 23, 1995, 109 Stat. 13; renumbered § 208, Pub. L. 116–92, div. A, title XI, § 1122(d)(1)(B), Dec. 20, 2019, 133 Stat. 1608.)
 
 **Editorial Notes**
 
@@ -923,7 +923,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 ### Part B—Public Services and Accommodations Under Americans with Disabilities Act of 1990
 
-#### § 1331. Rights and protections under Americans with Disabilities Act of 1990 relating to public services and accommodations; procedures for remedy of violations
+#### § 1331. Rights and protections under Americans with Disabilities Act of 1990 relating to public services and accommodations; procedures for remedy of violations
 
 **(a) Entities subject to this section** The requirements of this section shall apply to—
 
@@ -1009,7 +1009,7 @@ On a regular basis, and at least once each Congress, the General Counsel shall i
 
 **(A)** to the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Office of the Architect of the Capitol, or other entity responsible,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 for correcting the violation of this section uncovered by such inspection, and
 
@@ -1055,13 +1055,13 @@ Subsections (b), (c), and (d) shall be effective on January 1, 1997.
 
 Subsection (g) shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, § 210, Jan. 23, 1995, 109 Stat. 13; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–279, § 1(g)(2), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, § 422(b)(3), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. I, title I, § 153(a)(1)(B), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §§ 303(a), (b), 308(b)(8), Dec. 21, 2018, 132 Stat. 5321, 5322, 5326.)
+(Pub. L. 104–1, title II, § 210, Jan. 23, 1995, 109 Stat. 13; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–279, § 1(g)(2), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, § 422(b)(3), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. I, title I, § 153(a)(1)(B), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §§ 303(a), (b), 308(b)(8), Dec. 21, 2018, 132 Stat. 5321, 5322, 5326.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(2) and (h)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapters II (§ 12131 et seq.) and III (§ 12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(2) and (h)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapters II (§ 12131 et seq.) and III (§ 12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 Subsection (g), referred to in subsec. (i)(2), amended section 12209 of Title 42.
 
@@ -1071,13 +1071,13 @@ Section is comprised of section 210 of Pub. L. 104–1. Subsec. (g) of section 2
 
 **Amendments**
 
-2018—Subsec. (a)(9). Pub. L. 115–397, § 308(b)(8), substituted “Office of Congressional Workplace Rights” for “Office of Compliance”.
+2018—Subsec. (a)(9). Pub. L. 115–397, § 308(b)(8), substituted “Office of Congressional Workplace Rights” for “Office of Compliance”.
 
 Subsec. (a)(11). Pub. L. 115–141 added par. (11).
 
-Subsec. (d)(2). Pub. L. 115–397, § 303(b), made technical amendment to reference in original act which appears in text as reference to section 1403 of this title.
+Subsec. (d)(2). Pub. L. 115–397, § 303(b), made technical amendment to reference in original act which appears in text as reference to section 1403 of this title.
 
-Subsecs. (h), (i). Pub. L. 115–397, § 303(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 115–397, § 303(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 2008—Subsec. (a)(4). Pub. L. 110–437 substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
 
@@ -1093,7 +1093,7 @@ Subsec. (a)(7). Pub. L. 110–279 substituted “the Botanic Garden” for “th
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–397, title III, § 303(c), Dec. 21, 2018, 132 Stat. 5322, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if such amendments were included in the enactment of section 153 of the Legislative Branch Appropriations Act, 2018 (Public Law 115–141), and shall apply as specified in section 153(c) of such Act [set out as a note under section 1301 of this title].”
+Pub. L. 115–397, title III, § 303(c), Dec. 21, 2018, 132 Stat. 5322, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if such amendments were included in the enactment of section 153 of the Legislative Branch Appropriations Act, 2018 (Public Law 115–141), and shall apply as specified in section 153(c) of such Act [set out as a note under section 1301 of this title].”
 
 Amendment by section 308(b)(8) of Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
 
@@ -1107,7 +1107,7 @@ Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remain
 
 ### Part C—Occupational Safety and Health Act of 1970
 
-#### § 1341. Rights and protections under Occupational Safety and Health Act of 1970; procedures for remedy of violations
+#### § 1341. Rights and protections under Occupational Safety and Health Act of 1970; procedures for remedy of violations
 
 **(a) Occupational safety and health protections**
 
@@ -1205,19 +1205,19 @@ Except as provided in paragraph (2), subsections (a), (b), (c), and (e)(3) shall
 
 This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, § 215, Jan. 23, 1995, 109 Stat. 16; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–437, title IV, § 422(b)(4), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 115–141, div. I, title I, § 153(a)(2)(D), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, § 308(b)(9), Dec. 21, 2018, 132 Stat. 5326.)
+(Pub. L. 104–1, title II, § 215, Jan. 23, 1995, 109 Stat. 16; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–437, title IV, § 422(b)(4), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 115–141, div. I, title I, § 153(a)(2)(D), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, § 308(b)(9), Dec. 21, 2018, 132 Stat. 5326.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(2)(C). Pub. L. 115–141, § 153(a)(2)(D)(i), struck out “, the Library of Congress,” after “the Government Accountability Office”.
+2018—Subsec. (a)(2)(C). Pub. L. 115–141, § 153(a)(2)(D)(i), struck out “, the Library of Congress,” after “the Government Accountability Office”.
 
-Subsec. (a)(2)(D). Pub. L. 115–141, § 153(a)(2)(D)(ii), struck out “and the Library of Congress” after “the Government Accountability Office”.
+Subsec. (a)(2)(D). Pub. L. 115–141, § 153(a)(2)(D)(ii), struck out “and the Library of Congress” after “the Government Accountability Office”.
 
 Subsec. (e)(1). Pub. L. 115–397 substituted “Office of Congressional Workplace Rights” for “Office of Compliance”.
 
@@ -1239,7 +1239,7 @@ Amendment by Pub. L. 110–437 effective first day of first pay period (applicab
 
 ### Part D—Labor-Management Relations
 
-#### § 1351. Application of chapter 71 of title 5 relating to Federal service labor-management relations; procedures for remedy of violations
+#### § 1351. Application of chapter 71 of title 5 relating to Federal service labor-management relations; procedures for remedy of violations
 
 **(a) Labor-management rights**
 
@@ -1329,7 +1329,7 @@ Except as provided in paragraph (2), subsections (a) and (b) shall be effective 
 
 With respect to the offices listed in subsection (e)(2), to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) shall be effective on the effective date of regulations under subsection (e).
 
-(Pub. L. 104–1, title II, § 220, Jan. 23, 1995, 109 Stat. 19; Pub. L. 115–141, div. I, title I, § 153(a)(1)(C), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, § 308(b)(10), Dec. 21, 2018, 132 Stat. 5326.)
+(Pub. L. 104–1, title II, § 220, Jan. 23, 1995, 109 Stat. 19; Pub. L. 115–141, div. I, title I, § 153(a)(1)(C), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, § 308(b)(10), Dec. 21, 2018, 132 Stat. 5326.)
 
 **Editorial Notes**
 
@@ -1339,9 +1339,9 @@ This chapter, referred to in subsec. (e)(1), was in the original “this Act”,
 
 **Amendments**
 
-2018—Subsec. (a)(2). Pub. L. 115–141, § 153(a)(1)(C)(i), substituted “Application” for “Definition” in heading.
+2018—Subsec. (a)(2). Pub. L. 115–141, § 153(a)(1)(C)(i), substituted “Application” for “Definition” in heading.
 
-Subsec. (a)(3). Pub. L. 115–141, § 153(a)(1)(C)(ii), added par. (3).
+Subsec. (a)(3). Pub. L. 115–141, § 153(a)(1)(C)(ii), added par. (3).
 
 Subsec. (e)(2)(G). Pub. L. 115–397 substituted “Office of Congressional Workplace Rights” for “Office of Compliance”.
 
@@ -1357,7 +1357,7 @@ Reference to the Office of the Secretary of the majority or minority conference 
 
 ### Part E—General
 
-#### § 1361. Generally applicable remedies and limitations
+#### § 1361. Generally applicable remedies and limitations
 
 **(a) Attorney’s fees**
 
@@ -1395,7 +1395,7 @@ Notwithstanding paragraph (1), provisions in the laws made applicable under this
 
 This chapter shall not be construed to authorize enforcement by the executive branch of this chapter.
 
-(Pub. L. 104–1, title II, § 225, Jan. 23, 1995, 109 Stat. 22; Pub. L. 115–397, title I, § 101(d), Dec. 21, 2018, 132 Stat. 5301.)
+(Pub. L. 104–1, title II, § 225, Jan. 23, 1995, 109 Stat. 22; Pub. L. 115–397, title I, § 101(d), Dec. 21, 2018, 132 Stat. 5301.)
 
 **Editorial Notes**
 
@@ -1403,7 +1403,7 @@ This chapter shall not be construed to authorize enforcement by the executive br
 
 This chapter, referred to in subsecs. (a), (c), (d)(1), and (e), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(2), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
+The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(2), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
 **Amendments**
 
@@ -1415,7 +1415,7 @@ The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e
 
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
-#### § 1362. Notices
+#### § 1362. Notices
 
 **(a) In general** Every employing office shall post and keep posted (in conspicuous places upon its premises where notices to covered employees are customarily posted) a notice provided by the Office that—
 
@@ -1429,7 +1429,7 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 **(2)** a violation of section 1317 of this title that is related to discrimination described in paragraph (1).
 
-(Pub. L. 104–1, title II, § 226, as added Pub. L. 115–397, title III, § 304(a), Dec. 21, 2018, 132 Stat. 5322.)
+(Pub. L. 104–1, title II, § 226, as added Pub. L. 115–397, title III, § 304(a), Dec. 21, 2018, 132 Stat. 5322.)
 
 **Editorial Notes**
 
@@ -1437,7 +1437,7 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (b)(1), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. Title II of the Act is classified generally to chapter 21F (§ 2000ff et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of Title 42 and Tables.
+The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (b)(1), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. Title II of the Act is classified generally to chapter 21F (§ 2000ff et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1447,7 +1447,7 @@ Section effective upon expiration of the 180-day period beginning on Dec. 21, 20
 
 ### Part F—Study
 
-#### § 1371. Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress
+#### § 1371. Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress
 
 **(a) In general** The Board shall undertake a study of—
 
@@ -1497,37 +1497,37 @@ The study under this section shall evaluate whether the rights, protections, and
 
 **(2)** the Board shall transmit such study and recommendations (with the Board’s comments) to the head of each entity considered in the study, and to the Congress by delivery to the Speaker of the House of Representatives and President pro tempore of the Senate for referral to the appropriate committees of the House of Representatives and of the Senate.
 
-(Pub. L. 104–1, title II, § 230, Jan. 23, 1995, 109 Stat. 23; Pub. L. 104–53, title III, § 309(a), (b), Nov. 19, 1995, 109 Stat. 538.)
+(Pub. L. 104–1, title II, § 230, Jan. 23, 1995, 109 Stat. 23; Pub. L. 104–53, title III, § 309(a), (b), Nov. 19, 1995, 109 Stat. 538.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (b)(4), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (b)(4), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (b)(5), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (b)(5), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The General Accounting Office Personnel Act of 1980, referred to in subsec. (b)(9), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1 et seq. of former Title 31, Money and Finance, and which was substantially repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§ 731 et seq.) and IV (§ 751 et seq.) of chapter 7 of Title 31, Money and Finance.
+The General Accounting Office Personnel Act of 1980, referred to in subsec. (b)(9), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1 et seq. of former Title 31, Money and Finance, and which was substantially repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§ 731 et seq.) and IV (§ 751 et seq.) of chapter 7 of Title 31, Money and Finance.
 
-The Employee Polygraph Protection Act of 1988, referred to in subsec. (b)(10), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
+The Employee Polygraph Protection Act of 1988, referred to in subsec. (b)(10), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 
-The Worker Adjustment and Retraining Notification Act, referred to in subsec. (b)(11), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
+The Worker Adjustment and Retraining Notification Act, referred to in subsec. (b)(11), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
 **Amendments**
 
-1995—Subsec. (a). Pub. L. 104–53, § 309(a), substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
+1995—Subsec. (a). Pub. L. 104–53, § 309(a), substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 104–53, § 309(b), substituted “Board” for “Administrative Conference of the United States” and struck out “and shall submit the study and recommendations to the Board” before semicolon.
+Subsec. (d)(1). Pub. L. 104–53, § 309(b), substituted “Board” for “Administrative Conference of the United States” and struck out “and shall submit the study and recommendations to the Board” before semicolon.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1539,7 +1539,7 @@ Government Printing Office redesignated Government Publishing Office. See sectio
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided that: “The amendments made by this section [amending this section] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 (2 U.S.C. 1371). [See provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.]”
+Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided that: “The amendments made by this section [amending this section] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 (2 U.S.C. 1371). [See provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.]”
 
 ## SUBCHAPTER III—OFFICE OF CONGRESSIONAL WORKPLACE RIGHTS
 
@@ -1547,9 +1547,9 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided
 
 **Codification**
 
-Pub. L. 115–397, title III, § 308(b)(11), Dec. 21, 2018, 132 Stat. 5326, substituted “OFFICE OF CONGRESSIONAL WORKPLACE RIGHTS” for “OFFICE OF COMPLIANCE” in subchapter heading.
+Pub. L. 115–397, title III, § 308(b)(11), Dec. 21, 2018, 132 Stat. 5326, substituted “OFFICE OF CONGRESSIONAL WORKPLACE RIGHTS” for “OFFICE OF COMPLIANCE” in subchapter heading.
 
-### § 1381. Establishment of Office of Congressional Workplace Rights
+### § 1381. Establishment of Office of Congressional Workplace Rights
 
 **(a) Establishment**
 
@@ -1573,9 +1573,9 @@ Selection and appointment of members of the Board shall be without regard to pol
 
 **(A) Lobbying**
 
-No individual who engages in, or is otherwise employed in, lobbying of the Congress and who is required under the Federal Regulation of Lobbying Act 1
+No individual who engages in, or is otherwise employed in, lobbying of the Congress and who is required under the Federal Regulation of Lobbying Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to register with the Clerk of the House of Representatives or the Secretary of the Senate shall be eligible for appointment to, or service on, the Board.
 
@@ -1583,7 +1583,7 @@ to register with the Clerk of the House of Representatives or the Secretary of t
 
 No member of the Board appointed under subsection (b) may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch (other than the Office), or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,2
 
-<sup>2</sup>  See Change of Name note below.
+<sup>2</sup> See Change of Name note below.
 
 an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
 
@@ -1657,7 +1657,7 @@ Each member of the Board shall receive travel expenses, including per diem in li
 
 **(i) Congressional oversight**
 
-The Board and the Office shall be subject to oversight (except with respect to the disposition of individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs <sup>2</sup> of the Senate and the Committee on House Oversight <sup>2</sup> of the House of Representatives.
+The Board and the Office shall be subject to oversight (except with respect to the disposition of individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs <sup>2</sup> of the Senate and the Committee on House Oversight <sup>2</sup> of the House of Representatives.
 
 **(j) Opening of Office**
 
@@ -1727,35 +1727,35 @@ In this subsection, the term “claimant” means an individual who received an 
 
 The Office shall establish and maintain a program for the permanent retention of its records, including the records of preliminary reviews, mediations, hearings, and other proceedings conducted under subchapter IV.
 
-(Pub. L. 104–1, title III, § 301, Jan. 23, 1995, 109 Stat. 24; Pub. L. 108–349, § 1(a), Oct. 21, 2004, 118 Stat. 1389; Pub. L. 110–161, div. H, title I, § 1101(a), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, § 1, Dec. 26, 2007, 121 Stat. 2459; Pub. L. 113–235, div. H, title I, § 1001, Dec. 16, 2014, 128 Stat. 2530; Pub. L. 115–19, § 1(c), (d), Apr. 3, 2017, 131 Stat. 85; Pub. L. 115–397, title II, §§ 201(a)(1), 203, title III, § 308(a), Dec. 21, 2018, 132 Stat. 5315, 5318, 5325; Pub. L. 117–286, § 4(c)(2), Dec. 27, 2022, 136 Stat. 4353.)
+(Pub. L. 104–1, title III, § 301, Jan. 23, 1995, 109 Stat. 24; Pub. L. 108–349, § 1(a), Oct. 21, 2004, 118 Stat. 1389; Pub. L. 110–161, div. H, title I, § 1101(a), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, § 1, Dec. 26, 2007, 121 Stat. 2459; Pub. L. 113–235, div. H, title I, § 1001, Dec. 16, 2014, 128 Stat. 2530; Pub. L. 115–19, § 1(c), (d), Apr. 3, 2017, 131 Stat. 85; Pub. L. 115–397, title II, §§ 201(a)(1), 203, title III, § 308(a), Dec. 21, 2018, 132 Stat. 5315, 5318, 5325; Pub. L. 117–286, § 4(c)(2), Dec. 27, 2022, 136 Stat. 4353.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§ 261 et seq.) of this title prior to repeal by Pub. L. 104–65, § 11(a), Dec. 19, 1995, 109 Stat. 701. See section 1601 et seq. of this title.
+The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§ 261 et seq.) of this title prior to repeal by Pub. L. 104–65, § 11(a), Dec. 19, 1995, 109 Stat. 701. See section 1601 et seq. of this title.
 
 This chapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-Part A of subchapter II, referred to in subsec. (*l*)(1)(A), (B)(ii)(II), (5), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsec. (*l*)(1)(A), (B)(ii)(II), (5), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 **Amendments**
 
 2022—Subsec. (k). Pub. L. 117–286 substituted “subchapter I of chapter 131 of title 5” for “title I of the Ethics in Government Act of 1978”.
 
-2018—Pub. L. 115–397, § 308(a)(1), substituted “Office of Congressional Workplace Rights” for “Office of Compliance” in section catchline.
+2018—Pub. L. 115–397, § 308(a)(1), substituted “Office of Congressional Workplace Rights” for “Office of Compliance” in section catchline.
 
-Subsec. (a). Pub. L. 115–397, § 308(a)(2), substituted “Office of Congressional Workplace Rights” for “Office of Compliance”.
+Subsec. (a). Pub. L. 115–397, § 308(a)(2), substituted “Office of Congressional Workplace Rights” for “Office of Compliance”.
 
-Subsec. (h)(3). Pub. L. 115–397, § 201(a)(1)(A), substituted “claim” for “complaint” wherever appearing.
+Subsec. (h)(3). Pub. L. 115–397, § 201(a)(1)(A), substituted “claim” for “complaint” wherever appearing.
 
-Subsec. (*l*). Pub. L. 115–397, § 201(a)(1)(B), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 115–397, § 201(a)(1)(B), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 115–397, § 203, added subsec. (m).
+Subsec. (m). Pub. L. 115–397, § 203, added subsec. (m).
 
-2017—Subsec. (b). Pub. L. 115–19, § 1(d), inserted “, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section” after “and the Senate”.
+2017—Subsec. (b). Pub. L. 115–19, § 1(d), inserted “, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section” after “and the Senate”.
 
-Subsec. (e)(3). Pub. L. 115–19, § 1(c), added par. (3).
+Subsec. (e)(3). Pub. L. 115–19, § 1(c), added par. (3).
 
 2014—Subsec. (h)(2). Pub. L. 113–235 substituted “covered employees by the end of each fiscal year” for “the residences of covered employees”.
 
@@ -1777,19 +1777,19 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–397, title II, § 201(a)(2), Dec. 21, 2018, 132 Stat. 5316, provided that: “The amendment made by paragraph (1)(B) [amending this section] shall take effect on January 1, 2019.”
+Pub. L. 115–397, title II, § 201(a)(2), Dec. 21, 2018, 132 Stat. 5316, provided that: “The amendment made by paragraph (1)(B) [amending this section] shall take effect on January 1, 2019.”
 
-Pub. L. 115–397, title III, § 308(d), Dec. 21, 2018, 132 Stat. 5326, provided that: “The amendments made by this section [amending this section and sections 1301, 1331, 1341, 1351, and 1384 of this title] shall take effect on the date of the enactment of this Act [Dec. 21, 2018]. Any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date shall be considered to refer and apply to the Office of Congressional Workplace Rights.”
+Pub. L. 115–397, title III, § 308(d), Dec. 21, 2018, 132 Stat. 5326, provided that: “The amendments made by this section [amending this section and sections 1301, 1331, 1341, 1351, and 1384 of this title] shall take effect on the date of the enactment of this Act [Dec. 21, 2018]. Any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date shall be considered to refer and apply to the Office of Congressional Workplace Rights.”
 
 Except as otherwise provided, amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–349, § 1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
+Pub. L. 108–349, § 1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
 
 **Appointment of Members of Board of Directors of Office of Congressional Workplace Rights**
 
-Pub. L. 115–19, § 1(a), (b), Apr. 3, 2017, 131 Stat. 84, provided that:
+Pub. L. 115–19, § 1(a), (b), Apr. 3, 2017, 131 Stat. 84, provided that:
 
 > **“(a) Appointment of Members.—**
 
@@ -1809,11 +1809,11 @@ Pub. L. 115–19, § 1(a), (b), Apr. 3, 2017, 131 Stat. 84, provided that:
 
 > **“(2)** an individual serving as a member of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] whose term expires in May 2017 may be reappointed to serve one additional term at the length referred to in paragraph (2) of subsection (a), but may not be reappointed to any additional terms after that additional term expires.”
 
-Pub. L. 114–6, § 3, Mar. 20, 2015, 129 Stat. 82, provided that: “Notwithstanding section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] as of February 28, 2015, may be appointed to serve for one additional term of 2 years.”
+Pub. L. 114–6, § 3, Mar. 20, 2015, 129 Stat. 82, provided that: “Notwithstanding section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] as of February 28, 2015, may be appointed to serve for one additional term of 2 years.”
 
-Pub. L. 111–114, § 1, Dec. 14, 2009, 123 Stat. 3028, provided that: “Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] as of September 30, 2009, may serve for 3 terms.”
+Pub. L. 111–114, § 1, Dec. 14, 2009, 123 Stat. 3028, provided that: “Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] as of September 30, 2009, may serve for 3 terms.”
 
-### § 1382. Officers, staff, and other personnel
+### § 1382. Officers, staff, and other personnel
 
 **(a) Executive Director**
 
@@ -1995,7 +1995,7 @@ The Executive Director may, with the prior consent of the department or agency o
 
 In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
 
-(Pub. L. 104–1, title III, § 302, Jan. 23, 1995, 109 Stat. 26; Pub. L. 110–161, div. H, title I, § 1101(b), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, § 2(a), Dec. 26, 2007, 121 Stat. 2459; Pub. L. 115–397, title II, § 204, Dec. 21, 2018, 132 Stat. 5318; Pub. L. 116–94, div. E, title II, § 212(a)(3)(C), Dec. 20, 2019, 133 Stat. 2775.)
+(Pub. L. 104–1, title III, § 302, Jan. 23, 1995, 109 Stat. 26; Pub. L. 110–161, div. H, title I, § 1101(b), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, § 2(a), Dec. 26, 2007, 121 Stat. 2459; Pub. L. 115–397, title II, § 204, Dec. 21, 2018, 132 Stat. 5318; Pub. L. 116–94, div. E, title II, § 212(a)(3)(C), Dec. 20, 2019, 133 Stat. 2775.)
 
 **Editorial Notes**
 
@@ -2003,7 +2003,7 @@ In carrying out the functions of the Office, the Executive Director may procure 
 
 This chapter, referred to in subsecs. (a)(4), (c)(3), and (d)(2)(B)(i), (5)(A), (B), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 **Amendments**
 
@@ -2015,19 +2015,19 @@ Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was i
 
 2018—Subsecs. (d) to (g). Pub. L. 115–397 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-2007—Subsec. (a)(2). Pub. L. 110–161, § 1101(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the Executive Director. The rate of pay for the Executive Director may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
+2007—Subsec. (a)(2). Pub. L. 110–161, § 1101(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the Executive Director. The rate of pay for the Executive Director may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
 
-Subsec. (a)(3). Pub. L. 110–164, § 2(a)(1), substituted “not more than 2 terms” for “a single term” the first time appearing.
+Subsec. (a)(3). Pub. L. 110–164, § 2(a)(1), substituted “not more than 2 terms” for “a single term” the first time appearing.
 
-Subsec. (b)(2). Pub. L. 110–164, § 2(a)(2), substituted “not more than 2 terms” for “a single term” the first time appearing.
+Subsec. (b)(2). Pub. L. 110–164, § 2(a)(2), substituted “not more than 2 terms” for “a single term” the first time appearing.
 
-Subsec. (b)(3). Pub. L. 110–161, § 1101(b)(2), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Chair may fix the compensation of the Deputy Executive Directors. The rate of pay for a Deputy Executive Director may not exceed 96 percent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
+Subsec. (b)(3). Pub. L. 110–161, § 1101(b)(2), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Chair may fix the compensation of the Deputy Executive Directors. The rate of pay for a Deputy Executive Director may not exceed 96 percent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
 
-Subsec. (c)(2). Pub. L. 110–161, § 1101(b)(3), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the General Counsel. The rate of pay for the General Counsel may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
+Subsec. (c)(2). Pub. L. 110–161, § 1101(b)(3), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the General Counsel. The rate of pay for the General Counsel may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
 
-Subsec. (c)(5). Pub. L. 110–164, § 2(a)(3), substituted “not more than 2 terms” for “a single term”.
+Subsec. (c)(5). Pub. L. 110–164, § 2(a)(3), substituted “not more than 2 terms” for “a single term”.
 
-Subsec. (e). Pub. L. 110–161, § 1101(b)(4), substituted “Government Accountability Office” for “General Accounting Office”.
+Subsec. (e). Pub. L. 110–161, § 1101(b)(4), substituted “Government Accountability Office” for “General Accounting Office”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2041,11 +2041,11 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–164, § 2(b), Dec. 26, 2007, 121 Stat. 2459, provided that: “The amendments made by this section [amending this section] shall apply with respect to an individual who is first appointed to the position of Executive Director, Deputy Executive Director, or General Counsel of the Office of Compliance after the date of the enactment of this Act [Dec. 26, 2007].”
+Pub. L. 110–164, § 2(b), Dec. 26, 2007, 121 Stat. 2459, provided that: “The amendments made by this section [amending this section] shall apply with respect to an individual who is first appointed to the position of Executive Director, Deputy Executive Director, or General Counsel of the Office of Compliance after the date of the enactment of this Act [Dec. 26, 2007].”
 
 **Permitting Current Executive Director, Deputy Executive Directors, and General Counsel of Office of Compliance To Serve One Additional Term**
 
-Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that:
+Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that:
 
 > **“(a) Executive Director.—** Notwithstanding section 302(a)(3) of the Congressional Accountability Act of 1995 (2 U.S.C. 1382(a)(3)), the individual serving as Executive Director of the Office of Compliance [now Office of Congressional Workplace Rights] as of the date of the enactment of this Act [July 27, 2005] may serve one additional term.
 
@@ -2053,7 +2053,7 @@ Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that:
 
 > **“(c) General Counsel.—** Notwithstanding section 302(c)(5) of such Act (2 U.S.C. 1382(c)(5)), the individual serving as General Counsel of the Office of Compliance [now Office of Congressional Workplace Rights] as of the date of the enactment of this Act may serve one additional term.”
 
-### § 1383. Procedural rules
+### § 1383. Procedural rules
 
 **(a) In general**
 
@@ -2063,9 +2063,9 @@ The Executive Director shall, subject to the approval of the Board, adopt rules 
 
 The Executive Director shall adopt rules referred to in subsection (a) in accordance with the principles and procedures set forth in section 553 of title 5. The Executive Director shall publish a general notice of proposed rulemaking under section 553(b) of title 5, but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Executive Director shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Before adopting rules, the Executive Director shall provide a comment period of at least 30 days after publication of a general notice of proposed rulemaking. Upon adopting rules, the Executive Director shall transmit notice of such action together with a copy of such rules to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Rules shall be considered issued by the Executive Director as of the date on which they are published in the Congressional Record.
 
-(Pub. L. 104–1, title III, § 303, Jan. 23, 1995, 109 Stat. 28.)
+(Pub. L. 104–1, title III, § 303, Jan. 23, 1995, 109 Stat. 28.)
 
-### § 1384. Substantive regulations
+### § 1384. Substantive regulations
 
 **(a) Regulations**
 
@@ -2161,7 +2161,7 @@ Any interested party may petition to the Board for the issuance, amendment, or r
 
 **(2)** may consult with any other persons with whom consultation, in the opinion of the Board, the Executive Director, or Deputy Directors, may be helpful.
 
-(Pub. L. 104–1, title III, § 304, Jan. 23, 1995, 109 Stat. 29; Pub. L. 115–397, title III, § 308(b)(12), (13), Dec. 21, 2018, 132 Stat. 5326.)
+(Pub. L. 104–1, title III, § 304, Jan. 23, 1995, 109 Stat. 29; Pub. L. 115–397, title III, § 308(b)(12), (13), Dec. 21, 2018, 132 Stat. 5326.)
 
 **Editorial Notes**
 
@@ -2181,7 +2181,7 @@ Subchapter II, referred to in subsec. (a)(1), was in the original “title II”
 
 Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
 
-### § 1385. Expenses
+### § 1385. Expenses
 
 **(a) Authorization of appropriations** Beginning in fiscal year 1995, and for each fiscal year thereafter, there are authorized to be appropriated for the expenses of the Office such sums as may be necessary to carry out the functions of the Office. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following January 23, 1995—
 
@@ -2199,7 +2199,7 @@ The Executive Director may place orders and enter into agreements for goods and 
 
 Except for covered employees, witnesses before a hearing officer or the Board in any proceeding under this chapter other than rulemaking shall be paid the same fee and mileage allowances as are paid subpoenaed witnesses in the courts of the United States. Covered employees who are summoned, or are assigned by their employer, to testify in their official capacity or to produce official records in any proceeding under this chapter shall be entitled to travel expenses under subchapter I and section 5751 of chapter 57 of title 5.
 
-(Pub. L. 104–1, title III, § 305, Jan. 23, 1995, 109 Stat. 31.)
+(Pub. L. 104–1, title III, § 305, Jan. 23, 1995, 109 Stat. 31.)
 
 **Editorial Notes**
 
@@ -2207,25 +2207,25 @@ Except for covered employees, witnesses before a hearing officer or the Board in
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-### § 1386. Disposition of surplus or obsolete personal property
+### § 1386. Disposition of surplus or obsolete personal property
 
 The Executive Director may, within the limits of available appropriations, dispose of surplus or obsolete personal property by interagency transfer, donation, or discarding.
 
-(Pub. L. 104–1, title III, § 306, as added Pub. L. 111–68, div. A, title I, § 1101(a), Oct. 1, 2009, 123 Stat. 2031.)
+(Pub. L. 104–1, title III, § 306, as added Pub. L. 111–68, div. A, title I, § 1101(a), Oct. 1, 2009, 123 Stat. 2031.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–68, div. A, title I, § 1101(c), Oct. 1, 2009, 123 Stat. 2031, provided that: “The amendments made by this section [enacting this section] shall apply with respect to fiscal year 2010, and each fiscal year thereafter.”
+Pub. L. 111–68, div. A, title I, § 1101(c), Oct. 1, 2009, 123 Stat. 2031, provided that: “The amendments made by this section [enacting this section] shall apply with respect to fiscal year 2010, and each fiscal year thereafter.”
 
-### § 1387. Semiannual report of disbursements
+### § 1387. Semiannual report of disbursements
 
 **(a) Reports required**
 
-Not later than 60 days after the last day of each semiannual period of a fiscal year, the Executive Director of the Office of Compliance 1
+Not later than 60 days after the last day of each semiannual period of a fiscal year, the Executive Director of the Office of Compliance 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 shall submit to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the Committees on Appropriations of the House of Representatives and Senate, with respect to that period, a detailed, itemized report of the disbursements for the operations of the Office of Compliance.1
 
@@ -2235,23 +2235,23 @@ shall submit to the Committee on House Administration of the House of Representa
 
 **(A)** the identification of each person who receives a payment from the Office of Compliance,<sup>1</sup> except that in the case of an individual, the identification shall be provided in a manner that does not identify the individual by name;
 
-**(B)** the quantity and price of any item furnished to the Office of Compliance; <sup>1</sup>
+**(B)** the quantity and price of any item furnished to the Office of Compliance; <sup>1</sup>
 
 **(C)** a description of any service rendered to the Office of Compliance,<sup>1</sup> together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
 
-**(D)** a statement of all amounts appropriated to, or received or expended by, the Office of Compliance <sup>1</sup> and any unexpended balances of such amounts; and
+**(D)** a statement of all amounts appropriated to, or received or expended by, the Office of Compliance <sup>1</sup> and any unexpended balances of such amounts; and
 
 **(E)** such additional information as may be required by regulation of the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, or the Committees on Appropriations of the House of Representatives or Senate.
 
 **(2) Exception for confidential information**
 
-The Executive Director of the Office of Compliance <sup>1</sup> may exclude from any report required by subsection (a) any information the disclosure of which would violate confidentiality policies of the Office of Compliance.<sup>1</sup>
+The Executive Director of the Office of Compliance <sup>1</sup> may exclude from any report required by subsection (a) any information the disclosure of which would violate confidentiality policies of the Office of Compliance.<sup>1</sup>
 
 **(c) Effective date**
 
 This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each fiscal year, beginning with fiscal year 2014.
 
-(Pub. L. 113–76, div. I, title I, § 1102, Jan. 17, 2014, 128 Stat. 425.)
+(Pub. L. 113–76, div. I, title I, § 1102, Jan. 17, 2014, 128 Stat. 425.)
 
 **Editorial Notes**
 
@@ -2265,7 +2265,7 @@ Section was enacted as part of the Legislative Branch Appropriations Act, 2014, 
 
 Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under section 1381 of this title.
 
-### § 1388. Workplace climate surveys of employing offices
+### § 1388. Workplace climate surveys of employing offices
 
 **(a) Requirement to conduct secure surveys**
 
@@ -2297,7 +2297,7 @@ The Office shall furnish the information obtained from the surveys conducted und
 
 The Office shall carry out this section, including establishment of methodologies and procedures under subsection (c), in consultation with the Committee on House Administration of the House of Representatives and the Committees on Homeland Security and Governmental Affairs and Rules and Administration of the Senate.
 
-(Pub. L. 104–1, title III, § 307, as added Pub. L. 115–397, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5317.)
+(Pub. L. 104–1, title III, § 307, as added Pub. L. 115–397, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5317.)
 
 **Editorial Notes**
 
@@ -2313,7 +2313,7 @@ Section effective upon expiration of the 180-day period beginning on Dec. 21, 20
 
 ## SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES
 
-### § 1401. Procedure for consideration of alleged violations
+### § 1401. Procedure for consideration of alleged violations
 
 **(a) Filing and review of claims** Except as otherwise provided, the procedure for consideration of an alleged violation of part A of subchapter II consists of—
 
@@ -2401,25 +2401,25 @@ Nothing in this chapter may be construed to limit the authority of any individua
 
 Nothing in this chapter shall be construed to supersede or limit section 1361(d)(2) of this title.
 
-(Pub. L. 104–1, title IV, § 401, Jan. 23, 1995, 109 Stat. 32; Pub. L. 115–141, div. I, title I, § 153(b)(1), Mar. 23, 2018, 132 Stat. 786; Pub. L. 115–397, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5298.)
+(Pub. L. 104–1, title IV, § 401, Jan. 23, 1995, 109 Stat. 32; Pub. L. 115–141, div. I, title I, § 153(b)(1), Mar. 23, 2018, 132 Stat. 786; Pub. L. 115–397, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5298.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Part A of subchapter II, referred to in subsecs. (a) and (e), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsecs. (a) and (e), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 This chapter, referred to in subsecs. (c), (d)(1)(A), (2), (e), and (g), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-Section 153(c) of the Legislative Branch Appropriations Act, 2018, referred to in subsec. (d)(5), is Pub. L. 115–141, div. I, title I, § 153(c), Mar. 23, 2018, 132 Stat. 787, set out as a note under section 1301 of this title.
+Section 153(c) of the Legislative Branch Appropriations Act, 2018, referred to in subsec. (d)(5), is Pub. L. 115–141, div. I, title I, § 153(c), Mar. 23, 2018, 132 Stat. 787, set out as a note under section 1301 of this title.
 
 **Amendments**
 
 2018—Pub. L. 115–397 amended section generally. Prior to amendment, section related to procedure for consideration of alleged violations, consisting of three pars.
 
-Par. (3). Pub. L. 115–141, § 153(b)(1)(A), struck out “either” after “section 1404 of this title, of” in introductory provisions.
+Par. (3). Pub. L. 115–141, § 153(b)(1)(A), struck out “either” after “section 1404 of this title, of” in introductory provisions.
 
-Par. (3)(C). Pub. L. 115–141, § 153(b)(1)(B)–(D), added subpar. (C).
+Par. (3)(C). Pub. L. 115–141, § 153(b)(1)(B)–(D), added subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2427,7 +2427,7 @@ Par. (3)(C). Pub. L. 115–141, § 153(b)(1)(B)–(D), added subpar. (C).
 
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
-### § 1402. Initiation of procedures
+### § 1402. Initiation of procedures
 
 **(a) Claim**
 
@@ -2483,13 +2483,13 @@ The Office shall use the information contained in the system to make regular ass
 
 A covered employee may not file a claim under this section with respect to an allegation of a violation of law after the expiration of the 180-day period which begins on the date of the alleged violation.
 
-(Pub. L. 104–1, title IV, § 402, Jan. 23, 1995, 109 Stat. 32; Pub. L. 115–397, title I, § 102(a), Dec. 21, 2018, 132 Stat. 5301.)
+(Pub. L. 104–1, title IV, § 402, Jan. 23, 1995, 109 Stat. 32; Pub. L. 115–397, title I, § 102(a), Dec. 21, 2018, 132 Stat. 5301.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Part A of subchapter II, referred to in subsec. (a)(1), (3)(B), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsec. (a)(1), (3)(B), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 This chapter, referred to in subsecs. (a)(3)(A) and (b)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
@@ -2503,7 +2503,7 @@ This chapter, referred to in subsecs. (a)(3)(A) and (b)(1), was in the original 
 
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
-### § 1402a. Preliminary review of claims
+### § 1402a. Preliminary review of claims
 
 **(a) Preliminary review by hearing officer**
 
@@ -2553,7 +2553,7 @@ The hearing officer may (upon notice to the individual filing the claim and the 
 
 **(2)** the Select Committee on Ethics of the Senate, in the case of such an act by a Senator.
 
-(Pub. L. 104–1, title IV, § 403, as added Pub. L. 115–397, title I, § 103(a), Dec. 21, 2018, 132 Stat. 5303.)
+(Pub. L. 104–1, title IV, § 403, as added Pub. L. 115–397, title I, § 103(a), Dec. 21, 2018, 132 Stat. 5303.)
 
 **Editorial Notes**
 
@@ -2571,7 +2571,7 @@ A prior section 403 of Pub. L. 104–1 was renumbered section 404 and is classif
 
 Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under section 1301 of this title.
 
-### § 1403. Mediation
+### § 1403. Mediation
 
 **(a) Availability of mediation**
 
@@ -2623,7 +2623,7 @@ The Executive Director shall develop and maintain a master list of individuals w
 
 In developing the master list under this subsection, the Executive Director shall consider candidates recommended by the Federal Mediation and Conciliation Service or the Administrative Conference of the United States.
 
-(Pub. L. 104–1, title IV, § 404, formerly § 403, Jan. 23, 1995, 109 Stat. 32; Pub. L. 114–6, § 2(a), Mar. 20, 2015, 129 Stat. 81; renumbered § 404 and amended Pub. L. 115–397, title I, §§ 101(c)(2), 104, Dec. 21, 2018, 132 Stat. 5301, 5305.)
+(Pub. L. 104–1, title IV, § 404, formerly § 403, Jan. 23, 1995, 109 Stat. 32; Pub. L. 114–6, § 2(a), Mar. 20, 2015, 129 Stat. 81; renumbered § 404 and amended Pub. L. 115–397, title I, §§ 101(c)(2), 104, Dec. 21, 2018, 132 Stat. 5301, 5305.)
 
 **Editorial Notes**
 
@@ -2633,19 +2633,19 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 **Prior Provisions**
 
-A prior section 404 of Pub. L. 104–1 was classified to section 1404 of this title, prior to repeal by Pub. L. 115–397, title I, § 101(c)(1), Dec. 21, 2018, 132 Stat. 5301.
+A prior section 404 of Pub. L. 104–1 was classified to section 1404 of this title, prior to repeal by Pub. L. 115–397, title I, § 101(c)(1), Dec. 21, 2018, 132 Stat. 5301.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–397, § 104(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than 15 days after receipt by the employee of notice of the end of the counseling period under section 1402 of this title, but prior to and as a condition of making an election under section 1404 of this title, the covered employee who alleged a violation of a law shall file a request for mediation with the Office.”
+2018—Subsec. (a). Pub. L. 115–397, § 104(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than 15 days after receipt by the employee of notice of the end of the counseling period under section 1402 of this title, but prior to and as a condition of making an election under section 1404 of this title, the covered employee who alleged a violation of a law shall file a request for mediation with the Office.”
 
-Subsec. (b)(2). Pub. L. 115–397, § 104(b), substituted “meetings with the parties during which, at the request of any of the parties, the parties shall be separated,” for “meetings with the parties separately or jointly”.
+Subsec. (b)(2). Pub. L. 115–397, § 104(b), substituted “meetings with the parties during which, at the request of any of the parties, the parties shall be separated,” for “meetings with the parties separately or jointly”.
 
-Subsec. (c). Pub. L. 115–397, § 104(c), substituted “The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period.” for “The mediation period shall be 30 days beginning on the date the request for mediation is received. The mediation period may be extended for additional periods at the joint request of the covered employee and the employing office.”
+Subsec. (c). Pub. L. 115–397, § 104(c), substituted “The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period.” for “The mediation period shall be 30 days beginning on the date the request for mediation is received. The mediation period may be extended for additional periods at the joint request of the covered employee and the employing office.”
 
-2015—Subsec. (b)(1). Pub. L. 114–6, § 2(a)(1), substituted “from the master list developed and maintained under subsection (e)” for “after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters”.
+2015—Subsec. (b)(1). Pub. L. 114–6, § 2(a)(1), substituted “from the master list developed and maintained under subsection (e)” for “after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters”.
 
-Subsec. (e). Pub. L. 114–6, § 2(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 114–6, § 2(a)(2), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2655,13 +2655,13 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–6, § 2(d), Mar. 20, 2015, 129 Stat. 82, provided that: “The amendments made by this section [amending this section and sections 1404 and 1416 of this title] shall apply with respect to mediations and other proceedings which are first initiated after the date of the enactment of this Act [Mar. 20, 2015].”
+Pub. L. 114–6, § 2(d), Mar. 20, 2015, 129 Stat. 82, provided that: “The amendments made by this section [amending this section and sections 1404 and 1416 of this title] shall apply with respect to mediations and other proceedings which are first initiated after the date of the enactment of this Act [Mar. 20, 2015].”
 
-### § 1404. Repealed. Pub. L. 115–397, title I, § 101(c)(1), Dec. 21, 2018, 132 Stat. 5301
+### § 1404. Repealed. Pub. L. 115–397, title I, § 101(c)(1), Dec. 21, 2018, 132 Stat. 5301
 
-Section, Pub. L. 104–1, title IV, § 404, Jan. 23, 1995, 109 Stat. 33; Pub. L. 114–6, § 2(b), Mar. 20, 2015, 129 Stat. 81; Pub. L. 115–141, div. I, title I, § 153(b)(2), Mar. 23, 2018, 132 Stat. 786, related to election of proceeding.
+Section, Pub. L. 104–1, title IV, § 404, Jan. 23, 1995, 109 Stat. 33; Pub. L. 114–6, § 2(b), Mar. 20, 2015, 129 Stat. 81; Pub. L. 115–141, div. I, title I, § 153(b)(2), Mar. 23, 2018, 132 Stat. 786, related to election of proceeding.
 
-### § 1405. Hearing
+### § 1405. Hearing
 
 **(a) Requirement for hearings to commence in Office**
 
@@ -2737,7 +2737,7 @@ The hearing officer shall issue a written decision as expeditiously as possible,
 
 A hearing officer who conducts a hearing under this section shall be guided by judicial decisions under the laws made applicable by section 1302 of this title and by Board decisions under this chapter.
 
-(Pub. L. 104–1, title IV, § 405, Jan. 23, 1995, 109 Stat. 33; Pub. L. 115–397, title I, § 103(b)–(e), Dec. 21, 2018, 132 Stat. 5304, 5305.)
+(Pub. L. 104–1, title IV, § 405, Jan. 23, 1995, 109 Stat. 33; Pub. L. 115–397, title I, § 103(b)–(e), Dec. 21, 2018, 132 Stat. 5304, 5305.)
 
 **Editorial Notes**
 
@@ -2751,19 +2751,19 @@ Subchapter II, referred to in subsec. (g), was in the original “title II”, m
 
 **Amendments**
 
-2018—Pub. L. 115–397, § 103(e)(1), struck out “Complaint and” before “Hearing” in section catchline.
+2018—Pub. L. 115–397, § 103(e)(1), struck out “Complaint and” before “Hearing” in section catchline.
 
-Subsec. (a). Pub. L. 115–397, § 103(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to filing complaints by covered employees after completion of mediation under former section 1403 of this title.
+Subsec. (a). Pub. L. 115–397, § 103(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to filing complaints by covered employees after completion of mediation under former section 1403 of this title.
 
-Subsec. (c)(1). Pub. L. 115–397, § 103(e)(2), which directed substitution of “request for a hearing under subsection (a)” for “complaint”, was executed by making the substitution both places it appeared, to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 115–397, § 103(e)(2), which directed substitution of “request for a hearing under subsection (a)” for “complaint”, was executed by making the substitution both places it appeared, to reflect the probable intent of Congress.
 
-Subsec. (c)(3). Pub. L. 115–397, § 103(c), added par. (3).
+Subsec. (c)(3). Pub. L. 115–397, § 103(c), added par. (3).
 
-Subsec. (d). Pub. L. 115–397, § 103(e)(3), substituted “claim” for “complaint” in introductory provisions.
+Subsec. (d). Pub. L. 115–397, § 103(e)(3), substituted “claim” for “complaint” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 115–397, § 103(d), added par. (2) and struck out former par. (2) which read as follows: “commenced no later than 60 days after filing of the complaint under subsection (a), except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and”.
+Subsec. (d)(2). Pub. L. 115–397, § 103(d), added par. (2) and struck out former par. (2) which read as follows: “commenced no later than 60 days after filing of the complaint under subsection (a), except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and”.
 
-Subsec. (g). Pub. L. 115–397, § 103(e)(4), substituted “claim” for “complaint”.
+Subsec. (g). Pub. L. 115–397, § 103(e)(4), substituted “claim” for “complaint”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2771,7 +2771,7 @@ Subsec. (g). Pub. L. 115–397, § 103(e)(4), substituted “claim” for “c
 
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
-### § 1406. Appeal to Board
+### § 1406. Appeal to Board
 
 **(a) In general**
 
@@ -2797,9 +2797,9 @@ In making determinations under subsection (c), the Board shall review the whole 
 
 The Board shall issue a written decision setting forth the reasons for its decision. The decision may affirm, reverse, or remand to the hearing officer for further proceedings. A decision that does not require further proceedings before a hearing officer shall be entered in the records of the Office as a final decision.
 
-(Pub. L. 104–1, title IV, § 406, Jan. 23, 1995, 109 Stat. 35.)
+(Pub. L. 104–1, title IV, § 406, Jan. 23, 1995, 109 Stat. 35.)
 
-### § 1407. Judicial review of Board decisions and enforcement
+### § 1407. Judicial review of Board decisions and enforcement
 
 **(a) Jurisdiction**
 
@@ -2855,15 +2855,15 @@ Any party that participated in the proceedings before the Board under section 14
 
 In making determinations under subsection (d), the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
-(Pub. L. 104–1, title IV, § 407, Jan. 23, 1995, 109 Stat. 35.)
+(Pub. L. 104–1, title IV, § 407, Jan. 23, 1995, 109 Stat. 35.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Parts A, B, C, and D of subchapter II, referred to in subsec. (a), were in the original references to parts A (§§ 201–207), B (§ 210), C (§ 215), and D (§ 220), respectively, of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, 13, 16, 19, which are classified principally to parts A, B, C, and D, respectively, of subchapter II of this chapter. For complete classification of parts A, B, C, and D to the Code, see Tables.
+Parts A, B, C, and D of subchapter II, referred to in subsec. (a), were in the original references to parts A (§§ 201–207), B (§ 210), C (§ 215), and D (§ 220), respectively, of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, 13, 16, 19, which are classified principally to parts A, B, C, and D, respectively, of subchapter II of this chapter. For complete classification of parts A, B, C, and D to the Code, see Tables.
 
-### § 1408. Civil action
+### § 1408. Civil action
 
 **(a) Jurisdiction**
 
@@ -2891,7 +2891,7 @@ The House Employment Counsel of the House of Representatives and any other couns
 
 **(C)** any other person authorized and directed in accordance with the Rules of the House of Representatives to provide legal assistance and representation to employing offices of the House of Representatives in connection with actions brought under this subchapter.
 
-(Pub. L. 104–1, title IV, § 408, Jan. 23, 1995, 109 Stat. 37; Pub. L. 107–68, title I, § 119(a), Nov. 12, 2001, 115 Stat. 573; Pub. L. 115–397, title I, § 101(b), Dec. 21, 2018, 132 Stat. 5300.)
+(Pub. L. 104–1, title IV, § 408, Jan. 23, 1995, 109 Stat. 37; Pub. L. 107–68, title I, § 119(a), Nov. 12, 2001, 115 Stat. 573; Pub. L. 115–397, title I, § 101(b), Dec. 21, 2018, 132 Stat. 5300.)
 
 **Editorial Notes**
 
@@ -2913,13 +2913,13 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–68, title I, § 119(b), Nov. 12, 2001, 115 Stat. 574, provided that: “The amendment made by this section [amending this section] shall apply with respect to proceedings occurring on or after the date of the enactment of this Act [Nov. 12, 2001].”
+Pub. L. 107–68, title I, § 119(b), Nov. 12, 2001, 115 Stat. 574, provided that: “The amendment made by this section [amending this section] shall apply with respect to proceedings occurring on or after the date of the enactment of this Act [Nov. 12, 2001].”
 
-### § 1409. Judicial review of regulations
+### § 1409. Judicial review of regulations
 
 In any proceeding brought under section 1407 or 1408 of this title in which the application of a regulation issued under this chapter is at issue, the court may review the validity of the regulation in accordance with the provisions of subparagraphs (A) through (D) of section 706(2) of title 5, except that with respect to regulations approved by a joint resolution under section 1384(c) of this title, only the provisions of section 706(2)(B) of title 5 shall apply. If the court determines that the regulation is invalid, the court shall apply, to the extent necessary and appropriate, the most relevant substantive executive agency regulation promulgated to implement the statutory provisions with respect to which the invalid regulation was issued. Except as provided in this section, the validity of regulations issued under this chapter is not subject to judicial review.
 
-(Pub. L. 104–1, title IV, § 409, Jan. 23, 1995, 109 Stat. 37.)
+(Pub. L. 104–1, title IV, § 409, Jan. 23, 1995, 109 Stat. 37.)
 
 **Editorial Notes**
 
@@ -2927,11 +2927,11 @@ In any proceeding brought under section 1407 or 1408 of this title in which the 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-### § 1410. Other judicial review prohibited
+### § 1410. Other judicial review prohibited
 
 Except as expressly authorized by sections 1407, 1408, and 1409 of this title, the compliance or noncompliance with the provisions of this chapter and any action taken pursuant to this chapter shall not be subject to judicial review.
 
-(Pub. L. 104–1, title IV, § 410, Jan. 23, 1995, 109 Stat. 37.)
+(Pub. L. 104–1, title IV, § 410, Jan. 23, 1995, 109 Stat. 37.)
 
 **Editorial Notes**
 
@@ -2939,11 +2939,11 @@ Except as expressly authorized by sections 1407, 1408, and 1409 of this title, t
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-### § 1411. Effect of failure to issue regulations
+### § 1411. Effect of failure to issue regulations
 
 In any proceeding under section 1405, 1406, 1407, or 1408 of this title, except a proceeding to enforce section 1351 of this title with respect to offices listed under section 1351(e)(2) of this title, if the Board has not issued a regulation on a matter for which this chapter requires a regulation to be issued, the hearing officer, Board, or court, as the case may be, shall apply, to the extent necessary and appropriate, the most relevant substantive executive agency regulation promulgated to implement the statutory provision at issue in the proceeding.
 
-(Pub. L. 104–1, title IV, § 411, Jan. 23, 1995, 109 Stat. 37.)
+(Pub. L. 104–1, title IV, § 411, Jan. 23, 1995, 109 Stat. 37.)
 
 **Editorial Notes**
 
@@ -2951,7 +2951,7 @@ In any proceeding under section 1405, 1406, 1407, or 1408 of this title, except 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-### § 1412. Expedited review of certain appeals
+### § 1412. Expedited review of certain appeals
 
 **(a) In general**
 
@@ -2961,7 +2961,7 @@ An appeal may be taken directly to the Supreme Court of the United States from a
 
 The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal referred to in subsection (a), advance the appeal on the docket, and expedite the appeal to the greatest extent possible.
 
-(Pub. L. 104–1, title IV, § 412, Jan. 23, 1995, 109 Stat. 38.)
+(Pub. L. 104–1, title IV, § 412, Jan. 23, 1995, 109 Stat. 38.)
 
 **Editorial Notes**
 
@@ -2969,17 +2969,17 @@ The Supreme Court shall, if it has not previously ruled on the question, accept 
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-### § 1413. Privileges and immunities
+### § 1413. Privileges and immunities
 
 The authorization to bring judicial proceedings under sections 1405(f)(3), 1407, and 1408 of this title shall not constitute a waiver of sovereign immunity for any other purpose, or of the privileges of any Senator or Member of the House of Representatives under article I, section 6, clause 1, of the Constitution, or a waiver of any power of either the Senate or the House of Representatives under the Constitution, including under article I, section 5, clause 3, or under the rules of either House relating to records and information within its jurisdiction.
 
-(Pub. L. 104–1, title IV, § 413, Jan. 23, 1995, 109 Stat. 38.)
+(Pub. L. 104–1, title IV, § 413, Jan. 23, 1995, 109 Stat. 38.)
 
-### § 1414. Settlement
+### § 1414. Settlement
 
 Any settlement entered into by the parties to a process described in section 1331, 1341, 1351, or 1401 of this title shall be in writing and not become effective unless it is approved by the Executive Director. Nothing in this chapter shall affect the power of the Senate and the House of Representatives, respectively, to establish rules governing the process by which a settlement may be entered into by such House or by any employing office of such House.
 
-(Pub. L. 104–1, title IV, § 414, Jan. 23, 1995, 109 Stat. 38; Pub. L. 115–397, title I, § 103(f), Dec. 21, 2018, 132 Stat. 5305.)
+(Pub. L. 104–1, title IV, § 414, Jan. 23, 1995, 109 Stat. 38; Pub. L. 115–397, title I, § 103(f), Dec. 21, 2018, 132 Stat. 5305.)
 
 **Editorial Notes**
 
@@ -2997,7 +2997,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
-### § 1415. Payments
+### § 1415. Payments
 
 **(a) Awards and settlements**
 
@@ -3139,7 +3139,7 @@ Not later than 180 days after receiving a notification from the Executive Direct
 
 The head of an employing office shall transfer a payment under paragraph (2) in accordance with such timetable and procedures as may be established under regulations promulgated by the Office.
 
-(Pub. L. 104–1, title IV, § 415, Jan. 23, 1995, 109 Stat. 38; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–76, div. I, title I, § 1101(a), Jan. 17, 2014, 128 Stat. 425; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. I, title I, § 153(a)(2)(E), Mar. 23, 2018, 132 Stat. 786; Pub. L. 115–397, title I, §§ 111(a), 115(a), Dec. 21, 2018, 132 Stat. 5306, 5314.)
+(Pub. L. 104–1, title IV, § 415, Jan. 23, 1995, 109 Stat. 38; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–76, div. I, title I, § 1101(a), Jan. 17, 2014, 128 Stat. 425; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. I, title I, § 153(a)(2)(E), Mar. 23, 2018, 132 Stat. 786; Pub. L. 115–397, title I, §§ 111(a), 115(a), Dec. 21, 2018, 132 Stat. 5306, 5314.)
 
 **Editorial Notes**
 
@@ -3147,15 +3147,15 @@ The head of an employing office shall transfer a payment under paragraph (2) in 
 
 This chapter, referred to in subsecs. (a), (b), (d)(1)(D), and (e)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (d)(5)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(5)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–141 substituted “or” for comma after “Government Accountability Office” and struck out “, or the Library of Congress” before period at end.
+2018—Subsec. (a). Pub. L. 115–141 substituted “or” for comma after “Government Accountability Office” and struck out “, or the Library of Congress” before period at end.
 
-Subsec. (d). Pub. L. 115–397, § 111(a), added subsec. (d).
+Subsec. (d). Pub. L. 115–397, § 111(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 115–397, § 115(a), added subsec. (e).
+Subsec. (e). Pub. L. 115–397, § 115(a), added subsec. (e).
 
 2014—Subsec. (a). Pub. L. 113–76 substituted “There are appropriated for such account such sums as may be necessary to pay such awards and settlements.” for “There are authorized to be appropriated for such account such sums as may be necessary to pay such awards and settlements.”
 
@@ -3169,15 +3169,15 @@ Subsec. (e). Pub. L. 115–397, § 115(a), added subsec. (e).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–397, title I, § 111(c), Dec. 21, 2018, 132 Stat. 5311, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 8437 of Title 5, Government Organization and Employees] shall apply with respect to claims made on or after the date of the enactment of this Act [Dec. 21, 2018].”
+Pub. L. 115–397, title I, § 111(c), Dec. 21, 2018, 132 Stat. 5311, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 8437 of Title 5, Government Organization and Employees] shall apply with respect to claims made on or after the date of the enactment of this Act [Dec. 21, 2018].”
 
-Pub. L. 115–397, title I, § 115(b), Dec. 21, 2018, 132 Stat. 5314, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to payments made under section 415 of the Congressional Accountability Act of 1995 (2 U.S.C. 1415) for claims filed on or after the date of the enactment of this Act [Dec. 21, 2018].”
+Pub. L. 115–397, title I, § 115(b), Dec. 21, 2018, 132 Stat. 5314, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to payments made under section 415 of the Congressional Accountability Act of 1995 (2 U.S.C. 1415) for claims filed on or after the date of the enactment of this Act [Dec. 21, 2018].”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–76, div. I, title I, § 1101(b), Jan. 17, 2014, 128 Stat. 425, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
+Pub. L. 113–76, div. I, title I, § 1101(b), Jan. 17, 2014, 128 Stat. 425, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
-### § 1416. Confidentiality
+### § 1416. Confidentiality
 
 **(a) Mediation**
 
@@ -3245,7 +3245,7 @@ The Committee making a redaction in accordance with this paragraph shall retain 
 
 In this subsection, the term “senior staff” means any individual who, at the time a violation occurred, was required to file a report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(e) Final decisions**
 
@@ -3255,7 +3255,7 @@ A final decision entered under section 1405(g) or 1406(e) of this title shall be
 
 Nothing in this section may be construed to prohibit a covered employee from disclosing the factual allegations underlying the covered employee’s claim, or to prohibit an employing office from disclosing the factual allegations underlying the employing office’s defense to the claim, in the course of any proceeding under this subchapter.
 
-(Pub. L. 104–1, title IV, § 416, Jan. 23, 1995, 109 Stat. 38; Pub. L. 114–6, § 2(c), Mar. 20, 2015, 129 Stat. 81; Pub. L. 115–397, title I, §§ 112, 114, Dec. 21, 2018, 132 Stat. 5311, 5313.)
+(Pub. L. 104–1, title IV, § 416, Jan. 23, 1995, 109 Stat. 38; Pub. L. 114–6, § 2(c), Mar. 20, 2015, 129 Stat. 81; Pub. L. 115–397, title I, §§ 112, 114, Dec. 21, 2018, 132 Stat. 5311, 5313.)
 
 **Editorial Notes**
 
@@ -3263,27 +3263,27 @@ Nothing in this section may be construed to prohibit a covered employee from dis
 
 This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-The Ethics in Government Act of 1978, referred to in subsec. (d)(7), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in subchapter I (§ 13101 et seq.) of chapter 131 of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of title I of the Act into subchapter I of chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Ethics in Government Act of 1978, referred to in subsec. (d)(7), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in subchapter I (§ 13101 et seq.) of chapter 131 of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of title I of the Act into subchapter I of chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–397, § 114(b)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “All counseling shall be strictly confidential, except that the Office and a covered employee may agree to notify the employing office of the allegations.”
+2018—Subsec. (a). Pub. L. 115–397, § 114(b)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “All counseling shall be strictly confidential, except that the Office and a covered employee may agree to notify the employing office of the allegations.”
 
-Subsec. (b). Pub. L. 115–397, § 114(b)(2), (3), redesignated subsec. (c) as (b) and substituted “subsections (c), (d), and (e)” for “subsections (d), (e), and (f)”. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 115–397, § 114(b)(2), (3), redesignated subsec. (c) as (b) and substituted “subsections (c), (d), and (e)” for “subsections (d), (e), and (f)”. Former subsec. (b) redesignated (a).
 
-Pub. L. 115–397, § 114(a), substituted “All information discussed or disclosed in the course of any mediation” for “All mediation”.
+Pub. L. 115–397, § 114(a), substituted “All information discussed or disclosed in the course of any mediation” for “All mediation”.
 
-Subsecs. (c), (d). Pub. L. 115–397, § 114(b)(2), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
+Subsecs. (c), (d). Pub. L. 115–397, § 114(b)(2), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 
-Subsec. (e). Pub. L. 115–397, § 114(b)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 115–397, § 114(b)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 115–397, § 112, amended subsec. (e) generally, substituting provisions relating to automatic referral to congressional ethics committee of dispositions of claims involving Members of Congress and senior staff for provisions relating to access by committees of Congress.
+Pub. L. 115–397, § 112, amended subsec. (e) generally, substituting provisions relating to automatic referral to congressional ethics committee of dispositions of claims involving Members of Congress and senior staff for provisions relating to access by committees of Congress.
 
-Subsec. (f). Pub. L. 115–397, § 114(b)(4), added subsec. (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 115–397, § 114(b)(4), added subsec. (f). Former subsec. (f) redesignated (e).
 
-2015—Subsec. (b). Pub. L. 114–6, § 2(c)(1), inserted before period at end “, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement”.
+2015—Subsec. (b). Pub. L. 114–6, § 2(c)(1), inserted before period at end “, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement”.
 
-Subsec. (c). Pub. L. 114–6, § 2(c)(2), inserted at end “The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.”
+Subsec. (c). Pub. L. 114–6, § 2(c)(2), inserted at end “The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3295,7 +3295,7 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 Amendment by Pub. L. 114–6 applicable with respect to mediations and other proceedings first initiated after Mar. 20, 2015, see section 2(d) of Pub. L. 114–6, set out as a note under section 1403 of this title.
 
-### § 1417. Option to request remote work assignment or paid leave of absence during pendency of procedures
+### § 1417. Option to request remote work assignment or paid leave of absence during pendency of procedures
 
 **(a) Options for employees**
 
@@ -3323,13 +3323,13 @@ In granting leave for a paid leave of absence under this section, an employing o
 
 Subsection (a) does not apply to the extent that it is inconsistent with the terms and conditions of any collective bargaining agreement which is in effect with respect to an employing office.
 
-(Pub. L. 104–1, title IV, § 417, as added Pub. L. 115–397, title I, § 113(a), Dec. 21, 2018, 132 Stat. 5313.)
+(Pub. L. 104–1, title IV, § 417, as added Pub. L. 115–397, title I, § 113(a), Dec. 21, 2018, 132 Stat. 5313.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Part A of subchapter II, referred to in subsec. (a)(1), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsec. (a)(1), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3339,11 +3339,11 @@ Section effective upon expiration of the 180-day period beginning on Dec. 21, 20
 
 ## SUBCHAPTER V—MISCELLANEOUS PROVISIONS
 
-### § 1431. Exercise of rulemaking powers
+### § 1431. Exercise of rulemaking powers
 
-The provisions of sections 1302(b)(3), section 1
+The provisions of sections 1302(b)(3), section 1
 
-<sup>1</sup>  So in original. The word “section” probably should not appear.
+<sup>1</sup> So in original. The word “section” probably should not appear.
 
 1381(*l*), and 1384(c) of this title are enacted—
 
@@ -3351,13 +3351,13 @@ The provisions of sections 1302(b)(3), section 1
 
 **(2)** with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of each House.
 
-(Pub. L. 104–1, title V, § 501, Jan. 23, 1995, 109 Stat. 39; Pub. L. 115–397, title II, § 201(c), Dec. 21, 2018, 132 Stat. 5317.)
+(Pub. L. 104–1, title V, § 501, Jan. 23, 1995, 109 Stat. 39; Pub. L. 115–397, title II, § 201(c), Dec. 21, 2018, 132 Stat. 5317.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–397 inserted “, section 1381(*l*),” before“and 1384(c) of this title” in introductory provisions.
+2018—Pub. L. 115–397 inserted “, section 1381(*l*),” before“and 1384(c) of this title” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3365,7 +3365,7 @@ The provisions of sections 1302(b)(3), section 1
 
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
-### § 1432. Political affiliation and place of residence
+### § 1432. Political affiliation and place of residence
 
 **(a) In general** It shall not be a violation of any provision of section 1311 of this title to consider the—
 
@@ -3395,13 +3395,13 @@ of an employee referred to in subsection (b) with respect to employment decision
 
 **(5)** an applicant for a position that is to be occupied by an individual described in any of paragraphs (1) through (4).
 
-(Pub. L. 104–1, title V, § 502, Jan. 23, 1995, 109 Stat. 39.)
+(Pub. L. 104–1, title V, § 502, Jan. 23, 1995, 109 Stat. 39.)
 
-### § 1433. Nondiscrimination rules of House and Senate
+### § 1433. Nondiscrimination rules of House and Senate
 
 The Select Committee on Ethics of the Senate and the Committee on Standards of Official Conduct of the House of Representatives retain full power, in accordance with the authority provided to them by the Senate and the House, with respect to the discipline of Members, officers, and employees for violating rules of the Senate and the House on nondiscrimination in employment.
 
-(Pub. L. 104–1, title V, § 503, Jan. 23, 1995, 109 Stat. 40.)
+(Pub. L. 104–1, title V, § 503, Jan. 23, 1995, 109 Stat. 40.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3409,7 +3409,7 @@ The Select Committee on Ethics of the Senate and the Committee on Standards of O
 
 Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-### § 1434. Judicial branch coverage study
+### § 1434. Judicial branch coverage study
 
 The Judicial Conference of the United States shall prepare a report for submission by the Chief Justice of the United States to the Congress on the application to the judicial branch of the Federal Government of—
 
@@ -3437,75 +3437,75 @@ The Judicial Conference of the United States shall prepare a report for submissi
 
 The report shall be submitted to Congress not later than December 31, 1996, and shall include any recommendations the Judicial Conference may have for legislation to provide to employees of the judicial branch the rights, protections, and procedures under the listed laws, including administrative and judicial relief, that are comparable to those available to employees of the legislative branch under subchapters I through IV of this chapter.
 
-(Pub. L. 104–1, title V, § 505, Jan. 23, 1995, 109 Stat. 41.)
+(Pub. L. 104–1, title V, § 505, Jan. 23, 1995, 109 Stat. 41.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Labor Standards Act of 1938, referred to in par. (1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in par. (1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in par. (3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Age Discrimination in Employment Act of 1967, referred to in par. (4), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in par. (4), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The Family and Medical Leave Act of 1993, referred to in par. (5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in par. (5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in par. (6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in par. (6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The Employee Polygraph Protection Act of 1988, referred to in par. (8), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
+The Employee Polygraph Protection Act of 1988, referred to in par. (8), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 
-The Worker Adjustment and Retraining Notification Act, referred to in par. (9), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
+The Worker Adjustment and Retraining Notification Act, referred to in par. (9), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in par. (10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in par. (10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Subchapter II of this chapter, referred to in text, was in the original a reference to title II of this Act, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
 
-### § 1435. Savings provisions
+### § 1435. Savings provisions
 
 **(a) Transition provisions for employees of House of Representatives and of Senate**
 
 **(1) Claims arising before effective date**
 
-If, as of the date on which section 1311 of this title takes effect, an employee of the Senate or the House of Representatives has or could have requested counseling under section 305 1
+If, as of the date on which section 1311 of this title takes effect, an employee of the Senate or the House of Representatives has or could have requested counseling under section 305 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Government Employees Rights Act of 1991 or Rule LI of the House of Representatives, including counseling for alleged violations of family and medical leave rights under title V of the Family and Medical Leave Act of 1993, the employee may complete, or initiate and complete, all procedures under the Government Employees Rights Act of 1991 and Rule LI, and the provisions of that Act and Rule shall remain in effect with respect to, and provide the exclusive procedures for, those claims until the completion of all such procedures.
 
 **(2) Claims arising between effective date and opening of Office** If a claim by an employee of the Senate or House of Representatives arises under section 1311 or 1312 of this title after the effective date of such sections, but before the opening of the Office for receipt of requests for counseling or mediation under sections 1402 and 1403 of this title, the provisions of the Government Employees Rights Act of 1991 and Rule LI of the House of Representatives relating to counseling and mediation shall remain in effect, and the employee may complete under that Act or Rule the requirements for counseling and mediation under sections 1402 and 1403 of this title. If, after counseling and mediation is completed, the Office has not yet opened for the filing of a timely complaint under section 1405 of this title, the employee may elect—
 
-**(A)** to file a complaint under section 307 of the Government Employees Rights Act of 1991 <sup>1</sup> or Rule LI of the House of Representatives, and thereafter proceed exclusively under that Act or Rule, the provisions of which shall remain in effect until the completion of all proceedings in relation to the complaint, or
+**(A)** to file a complaint under section 307 of the Government Employees Rights Act of 1991 <sup>1</sup> or Rule LI of the House of Representatives, and thereafter proceed exclusively under that Act or Rule, the provisions of which shall remain in effect until the completion of all proceedings in relation to the complaint, or
 
 **(B)** to commence a civil action under section 1408 of this title.
 
 **(3) Section 1207a of this title**
 
-With respect to payments of awards and settlements relating to Senate employees under paragraph (1) of this subsection, section 1207a <sup>1</sup> of this title remains in effect.
+With respect to payments of awards and settlements relating to Senate employees under paragraph (1) of this subsection, section 1207a <sup>1</sup> of this title remains in effect.
 
 **(b) Transition provisions for employees of Architect of Capitol**
 
 **(1) Claims arising before effective date**
 
-If, as of the date on which section 1311 of this title takes effect, an employee of the Architect of the Capitol has or could have filed a charge or complaint regarding an alleged violation of section 1831(e)(2) <sup>1</sup> of this title, the employee may complete, or initiate and complete, all procedures under section 1831(e) <sup>1</sup> of this title, the provisions of which shall remain in effect with respect to, and provide the exclusive procedures for, that claim until the completion of all such procedures.
+If, as of the date on which section 1311 of this title takes effect, an employee of the Architect of the Capitol has or could have filed a charge or complaint regarding an alleged violation of section 1831(e)(2) <sup>1</sup> of this title, the employee may complete, or initiate and complete, all procedures under section 1831(e) <sup>1</sup> of this title, the provisions of which shall remain in effect with respect to, and provide the exclusive procedures for, that claim until the completion of all such procedures.
 
-**(2) Claims arising between effective date and opening of Office** If a claim by an employee of the Architect of the Capitol arises under section 1311 or 1312 of this title after the effective date of those provisions, but before the opening of the Office for receipt of requests for counseling or mediation under sections 1402 and 1403 of this title, the employee may satisfy the requirements for counseling and mediation by exhausting the requirements prescribed by the Architect of the Capitol in accordance with section 1831(e)(3) <sup>1</sup> of this title. If, after exhaustion of those requirements the Office has not yet opened for the filing of a timely complaint under section 1405 of this title, the employee may elect—
+**(2) Claims arising between effective date and opening of Office** If a claim by an employee of the Architect of the Capitol arises under section 1311 or 1312 of this title after the effective date of those provisions, but before the opening of the Office for receipt of requests for counseling or mediation under sections 1402 and 1403 of this title, the employee may satisfy the requirements for counseling and mediation by exhausting the requirements prescribed by the Architect of the Capitol in accordance with section 1831(e)(3) <sup>1</sup> of this title. If, after exhaustion of those requirements the Office has not yet opened for the filing of a timely complaint under section 1405 of this title, the employee may elect—
 
-**(A)** to file a charge with the General Accounting Office Personnel Appeals Board 2
+**(A)** to file a charge with the General Accounting Office Personnel Appeals Board 2
 
-<sup>2</sup>  See Change of Name note below.
+<sup>2</sup> See Change of Name note below.
 
-pursuant to section 1831(e)(3) <sup>1</sup> of this title, and thereafter proceed exclusively under section 1831(e) <sup>1</sup> of this title, the provisions of which shall remain in effect until the completion of all proceedings in relation to the charge, or
+pursuant to section 1831(e)(3) <sup>1</sup> of this title, and thereafter proceed exclusively under section 1831(e) <sup>1</sup> of this title, the provisions of which shall remain in effect until the completion of all proceedings in relation to the charge, or
 
 **(B)** to commence a civil action under section 1408 of this title.
 
 **(c) Transition provision relating to matters other than employment under section 12209 of title 42**
 
-With respect to matters other than employment under section 12209 <sup>1</sup> of title 42, the rights, protections, remedies, and procedures of section 12209 <sup>1</sup> of title 42 shall remain in effect until section 1331 of this title takes effect with respect to each of the entities covered by section 12209 <sup>1</sup> of title 42.
+With respect to matters other than employment under section 12209 <sup>1</sup> of title 42, the rights, protections, remedies, and procedures of section 12209 <sup>1</sup> of title 42 shall remain in effect until section 1331 of this title takes effect with respect to each of the entities covered by section 12209 <sup>1</sup> of title 42.
 
-(Pub. L. 104–1, title V, § 506, Jan. 23, 1995, 109 Stat. 42.)
+(Pub. L. 104–1, title V, § 506, Jan. 23, 1995, 109 Stat. 42.)
 
 **Editorial Notes**
 
@@ -3513,17 +3513,17 @@ With respect to matters other than employment under section 12209 <sup>1</sup>
 
 For the effective dates of sections 1311, 1312, and 1331 of this title, referred to in text, see sections 1311(e), 1312(f), and 1331(i), respectively, of this title.
 
-Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)(1), (2), was repealed by H. Res. No. 5, § 23(a), One Hundred Fifth Congress, Jan. 7, 1997.
+Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)(1), (2), was repealed by H. Res. No. 5, § 23(a), One Hundred Fifth Congress, Jan. 7, 1997.
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (a)(1), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title V of the Act was classified generally to sections 60m and 60n of this title prior to repeal, except as provided by this section, by Pub. L. 104–1, title V, § 504(b), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29, Labor, and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (a)(1), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title V of the Act was classified generally to sections 60m and 60n of this title prior to repeal, except as provided by this section, by Pub. L. 104–1, title V, § 504(b), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29, Labor, and Tables.
 
-The Government Employees Rights Act of 1991, referred to in subsec. (a)(1), (2), probably means the Government Employee Rights Act of 1991, which is title III of Pub. L. 102–166, Nov. 21, 1991, 105 Stat. 1088, and is classified generally to sections 2000e–16a to 2000e–16c of Title 42, The Public Health and Welfare. Sections 305 and 307 of the Act were classified to sections 1205 and 1207, respectively, of this title prior to repeal, except as provided in this section, by Pub. L. 104–1, title V, § 504(a)(2), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see section 2000e–16a(a) of Title 42 and Tables.
+The Government Employees Rights Act of 1991, referred to in subsec. (a)(1), (2), probably means the Government Employee Rights Act of 1991, which is title III of Pub. L. 102–166, Nov. 21, 1991, 105 Stat. 1088, and is classified generally to sections 2000e–16a to 2000e–16c of Title 42, The Public Health and Welfare. Sections 305 and 307 of the Act were classified to sections 1205 and 1207, respectively, of this title prior to repeal, except as provided in this section, by Pub. L. 104–1, title V, § 504(a)(2), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see section 2000e–16a(a) of Title 42 and Tables.
 
-Section 1207a of this title, referred to in subsec. (a)(3), was repealed, except as provided in this section, by Pub. L. 104–1, title V, § 504(a)(5), Jan. 23, 1995, 109 Stat. 41.
+Section 1207a of this title, referred to in subsec. (a)(3), was repealed, except as provided in this section, by Pub. L. 104–1, title V, § 504(a)(5), Jan. 23, 1995, 109 Stat. 41.
 
-Section 1831(e) of this title, referred to in subsec. (b), was repealed, except as provided in this section, by Pub. L. 104–1, title V, § 504(c)(1), Jan. 23, 1995, 109 Stat. 41.
+Section 1831(e) of this title, referred to in subsec. (b), was repealed, except as provided in this section, by Pub. L. 104–1, title V, § 504(c)(1), Jan. 23, 1995, 109 Stat. 41.
 
-Section 12209 of title 42, referred to in subsec. (c), was in the original a reference to section 509 of the Americans with Disabilities Act of 1990. Sections 508 and 509 of the Act were renumbered sections 509 and 510, respectively, by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558, and are classified to sections 12208 and 12209, respectively, of title 42.
+Section 12209 of title 42, referred to in subsec. (c), was in the original a reference to section 509 of the Americans with Disabilities Act of 1990. Sections 508 and 509 of the Act were renumbered sections 509 and 510, respectively, by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558, and are classified to sections 12208 and 12209, respectively, of title 42.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3531,15 +3531,15 @@ Section 12209 of title 42, referred to in subsec. (c), was in the original a ref
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
-### § 1436. Repealed. Pub. L. 106–57, title III, § 313, Sept. 29, 1999, 113 Stat. 428
+### § 1436. Repealed. Pub. L. 106–57, title III, § 313, Sept. 29, 1999, 113 Stat. 428
 
-Section, Pub. L. 104–1, title V, § 507, Jan. 23, 1995, 109 Stat. 43; Pub. L. 105–275, title I, § 12, Oct. 21, 1998, 112 Stat. 2436, related to use of frequent flyer miles.
+Section, Pub. L. 104–1, title V, § 507, Jan. 23, 1995, 109 Stat. 43; Pub. L. 105–275, title I, § 12, Oct. 21, 1998, 112 Stat. 2436, related to use of frequent flyer miles.
 
-### § 1437. Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions
+### § 1437. Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions
 
 It is the sense of the Senate that the Committee on Rules and Administration of the Senate should review the rules applicable to purchases by Senate offices to determine whether they are consistent with the acquisition simplification and streamlining laws enacted in the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355).
 
-(Pub. L. 104–1, title V, § 508, Jan. 23, 1995, 109 Stat. 44.)
+(Pub. L. 104–1, title V, § 508, Jan. 23, 1995, 109 Stat. 44.)
 
 **Editorial Notes**
 
@@ -3547,7 +3547,7 @@ It is the sense of the Senate that the Committee on Rules and Administration of 
 
 The Federal Acquisition Streamlining Act of 1994, referred to in text, is Pub. L. 103–355, Oct. 13, 1994, 108 Stat. 3243. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
 
-### § 1437a. Training and education programs of employing offices
+### § 1437a. Training and education programs of employing offices
 
 **(a) Requiring offices to develop and implement programs**
 
@@ -3567,7 +3567,7 @@ Not later than 180 days after December 21, 2018, each employing office shall sub
 
 This section does not apply to an employing office of the House of Representatives or an employing office of the Senate.
 
-(Pub. L. 104–1, title V, § 509, as added Pub. L. 115–397, title III, § 306(a)(2), Dec. 21, 2018, 132 Stat. 5324.)
+(Pub. L. 104–1, title V, § 509, as added Pub. L. 115–397, title III, § 306(a)(2), Dec. 21, 2018, 132 Stat. 5324.)
 
 **Editorial Notes**
 
@@ -3585,7 +3585,7 @@ A prior section 509 of Pub. L. 104–1 was renumbered section 511 and is classif
 
 Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under section 1301 of this title.
 
-### § 1437b. Support for out-of-area covered employees
+### § 1437b. Support for out-of-area covered employees
 
 **(a) In general**
 
@@ -3601,7 +3601,7 @@ All covered employees whose location of employment is outside of the Washington,
 
 It is the sense of Congress that each employing office with out-of-area covered employees should use its best efforts to facilitate equitable access to the resources and services provided under this chapter for those employees.
 
-(Pub. L. 104–1, title V, § 510, as added Pub. L. 115–397, title III, § 307(a)(2), Dec. 21, 2018, 132 Stat. 5325.)
+(Pub. L. 104–1, title V, § 510, as added Pub. L. 115–397, title III, § 307(a)(2), Dec. 21, 2018, 132 Stat. 5325.)
 
 **Editorial Notes**
 
@@ -3619,11 +3619,11 @@ A prior section 510 of Pub. L. 104–1 was renumbered section 511 and is classif
 
 Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under section 1301 of this title.
 
-### § 1438. Severability
+### § 1438. Severability
 
 If any provision of this chapter or the application of such provision to any person or circumstance is held to be invalid, the remainder of this chapter and the application of the provisions of the remainder to any person or circumstance shall not be affected thereby.
 
-(Pub. L. 104–1, title V, § 511, formerly § 509, Jan. 23, 1995, 109 Stat. 44; renumbered § 510, renumbered § 511, Pub. L. 115–397, title III, §§ 306(a)(1), 307(a)(1), Dec. 21, 2018, 132 Stat. 5324, 5325.)
+(Pub. L. 104–1, title V, § 511, formerly § 509, Jan. 23, 1995, 109 Stat. 44; renumbered § 510, renumbered § 511, Pub. L. 115–397, title III, §§ 306(a)(1), 307(a)(1), Dec. 21, 2018, 132 Stat. 5324, 5325.)
 
 **Editorial Notes**
 

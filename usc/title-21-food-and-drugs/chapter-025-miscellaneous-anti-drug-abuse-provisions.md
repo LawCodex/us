@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—ANTI-DOPING AGENCY
 
-### § 2001. Designation of United States Anti-Doping Agency
+### § 2001. Designation of United States Anti-Doping Agency
 
 **(a) Definitions** In this subchapter:
 
@@ -33,7 +33,7 @@ The term “amateur athletic competition” means a contest, game, meet, match, 
 
 The term “amateur athlete” means an athlete who meets the eligibility standards established by the national governing body or paralympic sports organization for the sport in which the athlete competes (36 U.S.C. 22501(b)(1)).1
 
-<sup>1</sup>  So in original. Probably should be “220501(b)(1)).”
+<sup>1</sup> So in original. Probably should be “220501(b)(1)).”
 
 **(b) In general** The United States Anti-Doping Agency shall—
 
@@ -57,7 +57,7 @@ The term “amateur athlete” means an athlete who meets the eligibility standa
 
 Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.
 
-(Pub. L. 109–469, title VII, § 701, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 113–280, § 2, Dec. 18, 2014, 128 Stat. 3020; Pub. L. 117–103, div. Q, title III, § 303, Mar. 15, 2022, 136 Stat. 817.)
+(Pub. L. 109–469, title VII, § 701, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 113–280, § 2, Dec. 18, 2014, 128 Stat. 3020; Pub. L. 117–103, div. Q, title III, § 303, Mar. 15, 2022, 136 Stat. 817.)
 
 **Editorial Notes**
 
@@ -67,23 +67,23 @@ The Ted Stevens Olympic and Amateur Sports Act, referred to in subsec. (a)(1), i
 
 **Amendments**
 
-2022—Subsec. (b)(1). Pub. L. 117–103, § 303(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee and be recognized worldwide as the independent national anti-doping organization for the United States;”.
+2022—Subsec. (b)(1). Pub. L. 117–103, § 303(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee and be recognized worldwide as the independent national anti-doping organization for the United States;”.
 
-Subsec. (b)(5). Pub. L. 117–103, § 303(1)(B), (C), added par. (5).
+Subsec. (b)(5). Pub. L. 117–103, § 303(1)(B), (C), added par. (5).
 
-Subsec. (c). Pub. L. 117–103, § 303(2), added subsec. (c).
+Subsec. (c). Pub. L. 117–103, § 303(2), added subsec. (c).
 
-2014—Subsec. (a)(4). Pub. L. 113–280, § 2(1), struck out par. (4). Text read as follows: “The term ‘gene doping’ means the nontherapeutic use of cells, genes, genetic elements, or of the modulation of gene expression, having the capacity to enhance athletic performance.”
+2014—Subsec. (a)(4). Pub. L. 113–280, § 2(1), struck out par. (4). Text read as follows: “The term ‘gene doping’ means the nontherapeutic use of cells, genes, genetic elements, or of the modulation of gene expression, having the capacity to enhance athletic performance.”
 
-Subsec. (b)(1). Pub. L. 113–280, § 2(2)(A), inserted “and be recognized worldwide as the independent national anti-doping organization for the United States” after “Committee”.
+Subsec. (b)(1). Pub. L. 113–280, § 2(2)(A), inserted “and be recognized worldwide as the independent national anti-doping organization for the United States” after “Committee”.
 
-Subsec. (b)(2). Pub. L. 113–280, § 2(2)(B), substituted “or prohibited performance-enhancing methods adopted by the Agency” for “, or performance-enhancing genetic modifications accomplished through gene-doping”.
+Subsec. (b)(2). Pub. L. 113–280, § 2(2)(B), substituted “or prohibited performance-enhancing methods adopted by the Agency” for “, or performance-enhancing genetic modifications accomplished through gene-doping”.
 
-Subsec. (b)(3). Pub. L. 113–280, § 2(2)(C), substituted “or prohibited performance-enhancing methods adopted by the Agency” for “, or performance-enhancing genetic modifications accomplished through gene-doping”.
+Subsec. (b)(3). Pub. L. 113–280, § 2(2)(C), substituted “or prohibited performance-enhancing methods adopted by the Agency” for “, or performance-enhancing genetic modifications accomplished through gene-doping”.
 
-Subsec. (b)(4). Pub. L. 113–280, § 2(2)(D), substituted “, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.” for “and the prevention of use of performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping by United States amateur athletes; and”.
+Subsec. (b)(4). Pub. L. 113–280, § 2(2)(D), substituted “, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.” for “and the prevention of use of performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping by United States amateur athletes; and”.
 
-Subsec. (b)(5). Pub. L. 113–280, § 2(2)(E), struck out par. (5) which read as follows: “permanently include ‘gene doping’ among any list of prohibited substances adopted by the Agency.”
+Subsec. (b)(5). Pub. L. 113–280, § 2(2)(E), struck out par. (5) which read as follows: “permanently include ‘gene doping’ among any list of prohibited substances adopted by the Agency.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -93,19 +93,19 @@ References to the United States Olympic Committee deemed to refer to the United 
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–103, div. Q, title III, § 301, Mar. 15, 2022, 136 Stat. 816, provided that: “This title [enacting section 2004 of this title, amending this section and section 2003 of this title, and enacting provisions set out as a note below] may be cited as the ‘United States Anti-Doping Agency Reauthorization Act of 2022’.”
+Pub. L. 117–103, div. Q, title III, § 301, Mar. 15, 2022, 136 Stat. 816, provided that: “This title [enacting section 2004 of this title, amending this section and section 2003 of this title, and enacting provisions set out as a note below] may be cited as the ‘United States Anti-Doping Agency Reauthorization Act of 2022’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–280, § 1, Dec. 18, 2014, 128 Stat. 3020, provided that: “This Act [amending this section and section 2003 of this title] may be cited as the ‘United States Anti-Doping Agency Reauthorization Act’.”
+Pub. L. 113–280, § 1, Dec. 18, 2014, 128 Stat. 3020, provided that: “This Act [amending this section and section 2003 of this title] may be cited as the ‘United States Anti-Doping Agency Reauthorization Act’.”
 
 **Short Title**
 
-Pub. L. 109–469, title X, § 1001, Dec. 29, 2006, 120 Stat. 3537, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘National Methamphetamine Information Clearinghouse Act of 2006’.”
+Pub. L. 109–469, title X, § 1001, Dec. 29, 2006, 120 Stat. 3537, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘National Methamphetamine Information Clearinghouse Act of 2006’.”
 
 **Findings**
 
-Pub. L. 117–103, div. Q, title III, § 302, Mar. 15, 2022, 136 Stat. 816, provided that:
+Pub. L. 117–103, div. Q, title III, § 302, Mar. 15, 2022, 136 Stat. 816, provided that:
 
 > “Congress makes the following findings:
 
@@ -127,7 +127,7 @@ Pub. L. 117–103, div. Q, title III, § 302, Mar. 15, 2022, 136 Stat. 816, pr
 
 > **“(7)** Increased appropriations for fiscal years 2023 through 2031 would enable the United States Anti-Doping Agency to directly affect the integrity and well-being of sport, both domestically and internationally.”
 
-### § 2002. Records, audit, and report
+### § 2002. Records, audit, and report
 
 **(a) Records**
 
@@ -139,9 +139,9 @@ The United States Anti-Doping Agency shall keep correct and complete records of 
 
 **(2)** a description of the activities of the agency.
 
-(Pub. L. 109–469, title VII, § 702, Dec. 29, 2006, 120 Stat. 3534.)
+(Pub. L. 109–469, title VII, § 702, Dec. 29, 2006, 120 Stat. 3534.)
 
-### § 2003. Authorization of appropriations
+### § 2003. Authorization of appropriations
 
 There are authorized to be appropriated to the United States Anti-Doping Agency—
 
@@ -163,7 +163,7 @@ There are authorized to be appropriated to the United States Anti-Doping Agency�
 
 **(9)** for fiscal year 2031, $23,700,000.
 
-(Pub. L. 109–469, title VII, § 703, Dec. 29, 2006, 120 Stat. 3534; Pub. L. 113–280, § 3, Dec. 18, 2014, 128 Stat. 3020; Pub. L. 117–103, div. Q, title III, § 304, Mar. 15, 2022, 136 Stat. 817.)
+(Pub. L. 109–469, title VII, § 703, Dec. 29, 2006, 120 Stat. 3534; Pub. L. 113–280, § 3, Dec. 18, 2014, 128 Stat. 3020; Pub. L. 117–103, div. Q, title III, § 304, Mar. 15, 2022, 136 Stat. 817.)
 
 **Editorial Notes**
 
@@ -173,11 +173,11 @@ There are authorized to be appropriated to the United States Anti-Doping Agency�
 
 2014—Pub. L. 113–280 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2007 to 2011.
 
-### § 2004. Information sharing
+### § 2004. Information sharing
 
 Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, pursuant to the obligation of the United States under Article 7 of the United Nations Educational, Scientific, and Cultural Organization International Convention Against Doping in Sport done at Paris October 19, 2005, and ratified by the United States in 2008, the Attorney General, the Secretary of Homeland Security, and the Commissioner of Food and Drugs shall provide to the United States Anti-Doping Agency any relevant information relating to the prevention of the use of performance-enhancing drugs or the prohibition of performance-enhancing methods.
 
-(Pub. L. 117–103, div. Q, title III, § 305, Mar. 15, 2022, 136 Stat. 817.)
+(Pub. L. 117–103, div. Q, title III, § 305, Mar. 15, 2022, 136 Stat. 817.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ Section was enacted as part of the United States Anti-Doping Agency Reauthorizat
 
 ## SUBCHAPTER II—NATIONAL METHAMPHETAMINE INFORMATION CLEARINGHOUSE
 
-### § 2011. Definitions
+### § 2011. Definitions
 
 In this subchapter—
 
@@ -199,9 +199,9 @@ In this subchapter—
 
 **(4)** the term “qualified entity” means a State, local, or tribal government, school board, or public health, law enforcement, nonprofit, community anti-drug coalition, or other nongovernmental organization providing services related to methamphetamines.
 
-(Pub. L. 109–469, title X, § 1002, Dec. 29, 2006, 120 Stat. 3537.)
+(Pub. L. 109–469, title X, § 1002, Dec. 29, 2006, 120 Stat. 3537.)
 
-### § 2012. Establishment of clearinghouse and advisory council
+### § 2012. Establishment of clearinghouse and advisory council
 
 **(a) Clearinghouse**
 
@@ -235,9 +235,9 @@ The members of the Council shall be allowed travel expenses, including per diem 
 
 The members of the Council shall not receive compensation for the performance of the duties of a member of the Council.
 
-(Pub. L. 109–469, title X, § 1003, Dec. 29, 2006, 120 Stat. 3538.)
+(Pub. L. 109–469, title X, § 1003, Dec. 29, 2006, 120 Stat. 3538.)
 
-### § 2013. NMIC requirements and review
+### § 2013. NMIC requirements and review
 
 **(a) In general**
 
@@ -279,9 +279,9 @@ Thirty days after the website in paragraph (2) is operational, no funds shall be
 
 **(B)** notify the qualified entity that submitted the item regarding the reason such item shall not be posted and modifications, if any, that the qualified entity may make to allow the item to be posted.
 
-(Pub. L. 109–469, title X, § 1004, Dec. 29, 2006, 120 Stat. 3538.)
+(Pub. L. 109–469, title X, § 1004, Dec. 29, 2006, 120 Stat. 3538.)
 
-### § 2014. Authorization of appropriations
+### § 2014. Authorization of appropriations
 
 There are authorized to be appropriated—
 
@@ -293,4 +293,4 @@ There are authorized to be appropriated—
 
 **(2)** for each of fiscal years 2008 and 2009, such sums as are necessary for the operation of the NMIC and Council.
 
-(Pub. L. 109–469, title X, § 1005, Dec. 29, 2006, 120 Stat. 3539.)
+(Pub. L. 109–469, title X, § 1005, Dec. 29, 2006, 120 Stat. 3539.)

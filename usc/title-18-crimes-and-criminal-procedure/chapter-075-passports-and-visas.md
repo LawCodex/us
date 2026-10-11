@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–322, title XIII, § 130009(b), Sept. 13, 1994, 108 Stat. 2030, added item 1547.
+1994—Pub. L. 103–322, title XIII, § 130009(b), Sept. 13, 1994, 108 Stat. 2030, added item 1547.
 
-1986—Pub. L. 99–603, title I, § 103(b), Nov. 6, 1986, 100 Stat. 3380, amended item 1546 generally, striking out “entry” before “documents”.
+1986—Pub. L. 99–603, title I, § 103(b), Nov. 6, 1986, 100 Stat. 3380, amended item 1546 generally, striking out “entry” before “documents”.
 
-## § 1541. Issuance without authority
+## § 1541. Issuance without authority
 
 Whoever, acting or claiming to act in any office or capacity under the United States, or a State, without lawful authority grants, issues, or verifies any passport or other instrument in the nature of a passport to or for any person whomsoever; or
 
@@ -33,11 +33,11 @@ Shall be fined under this title, imprisoned not more than 25 years (if the offen
 
 For purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(1), title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, § 607(n), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(1), title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, § 607(n), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 **Historical and Revision Notes**
 
-Based on section 219 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (R.S. 4078; June 14, 1902, ch. 1088, § 3, 32 Stat. 386).
+Based on section 219 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (R.S. 4078; June 14, 1902, ch. 1088, § 3, 32 Stat. 386).
 
 The venue provision, which followed the punishment provisions, was omitted as covered by section 3238 of this title.
 
@@ -49,15 +49,15 @@ Changes were made in phraseology.
 
 2002—Pub. L. 107–273 substituted “to facilitate” for “to facility” in third par.
 
-1996—Pub. L. 104–294, § 607(n)(1), struck out “or possession” after “or a State” in first par.
+1996—Pub. L. 104–294, § 607(n)(1), struck out “or possession” after “or a State” in first par.
 
-Pub. L. 104–294, § 607(n)(2), added last par. defining “State” for purposes of this section.
+Pub. L. 104–294, § 607(n)(2), added last par. defining “State” for purposes of this section.
 
 Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in third par.
 
-1994—Pub. L. 103–322, § 330016(1)(G), which directed the amendment of this section by substituting “under this title” for “not more than $500”, could not be executed because the words “not more than $500” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(1). See below.
+1994—Pub. L. 103–322, § 330016(1)(G), which directed the amendment of this section by substituting “under this title” for “not more than $500”, could not be executed because the words “not more than $500” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(1). See below.
 
-Pub. L. 103–322, § 130009(a)(1), substituted “under this title, imprisoned not more than 10 years” for “not more than $500 or imprisoned not more than one year” in last par.
+Pub. L. 103–322, § 130009(a)(1), substituted “under this title, imprisoned not more than 10 years” for “not more than $500 or imprisoned not more than one year” in last par.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -65,7 +65,7 @@ Pub. L. 103–322, § 130009(a)(1), substituted “under this title, imprisone
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
-## § 1542. False statement in application and use of passport
+## § 1542. False statement in application and use of passport
 
 Whoever willfully and knowingly makes any false statement in an application for passport with intent to induce or secure the issuance of a passport under the authority of the United States, either for his own use or the use of another, contrary to the laws regulating the issuance of passports or the rules prescribed pursuant to such laws; or
 
@@ -73,11 +73,11 @@ Whoever willfully and knowingly uses or attempts to use, or furnishes to another
 
 Shall be fined under this title, imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(2), title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(2), title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 **Historical and Revision Notes**
 
-Based on section 220 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title IX, § 2, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80).
+Based on section 220 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title IX, § 2, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80).
 
 Mandatory-punishment provision was rephrased in the alternative.
 
@@ -93,9 +93,9 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in last par.
 
-1994—Pub. L. 103–322, § 330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(2). See below.
+1994—Pub. L. 103–322, § 330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(2). See below.
 
-Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than five years” in last par.
+Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than five years” in last par.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -103,7 +103,7 @@ Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisone
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
-## § 1543. Forgery or false use of passport
+## § 1543. Forgery or false use of passport
 
 Whoever falsely makes, forges, counterfeits, mutilates, or alters any passport or instrument purporting to be a passport, with intent that the same may be used; or
 
@@ -111,11 +111,11 @@ Whoever willfully and knowingly uses, or attempts to use, or furnishes to anothe
 
 Shall be fined under this title, imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(2), title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(2), title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 **Historical and Revision Notes**
 
-Based on section 222 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title IX, § 4, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80).
+Based on section 222 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title IX, § 4, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -133,9 +133,9 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in last par.
 
-1994—Pub. L. 103–322, § 330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(2). See below.
+1994—Pub. L. 103–322, § 330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(2). See below.
 
-Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than five years” in last par.
+Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than five years” in last par.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -143,7 +143,7 @@ Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisone
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
-## § 1544. Misuse of passport
+## § 1544. Misuse of passport
 
 Whoever willfully and knowingly uses, or attempts to use, any passport issued or designed for the use of another; or
 
@@ -153,11 +153,11 @@ Whoever willfully and knowingly furnishes, disposes of, or delivers a passport t
 
 Shall be fined under this title, imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(2), title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(2), title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 **Historical and Revision Notes**
 
-Based on section 221 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title IX, § 3, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80).
+Based on section 221 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title IX, § 3, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80).
 
 Mandatory-punishment provision rephrased in the alternative.
 
@@ -175,9 +175,9 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in last par.
 
-1994—Pub. L. 103–322, § 330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(2). See below.
+1994—Pub. L. 103–322, § 330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(2). See below.
 
-Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than five years” in last par.
+Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than five years” in last par.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -185,11 +185,11 @@ Pub. L. 103–322, § 130009(a)(2), substituted “under this title, imprisone
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
-## § 1545. Safe conduct violation
+## § 1545. Safe conduct violation
 
 Whoever violates any safe conduct or passport duly obtained and issued under authority of the United States shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(3), title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, § 130009(a)(3), title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147.)
 
 **Historical and Revision Notes**
 
@@ -203,11 +203,11 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-1994—Pub. L. 103–322, § 330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(3). See below.
+1994—Pub. L. 103–322, § 330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 130009(a)(3). See below.
 
-Pub. L. 103–322, § 130009(a)(3), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than three years”.
+Pub. L. 103–322, § 130009(a)(3), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than three years”.
 
-## § 1546. Fraud and misuse of visas, permits, and other documents
+## § 1546. Fraud and misuse of visas, permits, and other documents
 
 **(a)** Whoever knowingly forges, counterfeits, alters, or falsely makes any immigrant or nonimmigrant visa, permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, or utters, uses, attempts to use, possesses, obtains, accepts, or receives any such visa, permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, knowing it to be forged, counterfeited, altered, or falsely made, or to have been procured by means of any false claim or statement, or to have been otherwise procured by fraud or unlawfully obtained; or
 
@@ -231,15 +231,15 @@ for the purpose of satisfying a requirement of section 274A(b) of the Immigratio
 
 **(c)** This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 For purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, § 402(a), 66 Stat. 275; Pub. L. 94–550, § 5, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–603, title I, § 103(a), Nov. 6, 1986, 100 Stat. 3380; Pub. L. 100–525, § 2(c), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–647, title XXXV, § 3550, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XIII, § 130009(a)(4), (5), title XXXIII, § 330011(p), Sept. 13, 1994, 108 Stat. 2030, 2145; Pub. L. 104–208, div. C, title II, §§ 211(a)(2), 214, Sept. 30, 1996, 110 Stat. 3009–569, 3009–572; Pub. L. 104–294, title VI, § 607(m), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
+(June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, § 402(a), 66 Stat. 275; Pub. L. 94–550, § 5, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–603, title I, § 103(a), Nov. 6, 1986, 100 Stat. 3380; Pub. L. 100–525, § 2(c), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–647, title XXXV, § 3550, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XIII, § 130009(a)(4), (5), title XXXIII, § 330011(p), Sept. 13, 1994, 108 Stat. 2030, 2145; Pub. L. 104–208, div. C, title II, §§ 211(a)(2), 214, Sept. 30, 1996, 110 Stat. 3009–569, 3009–572; Pub. L. 104–294, title VI, § 607(m), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 **Historical and Revision Notes**
 
-Based on section 220 of title 8, U.S.C., 1940 ed., Aliens and Nationality (May 26, 1924, ch. 190, § 22, 43 Stat. 165).
+Based on section 220 of title 8, U.S.C., 1940 ed., Aliens and Nationality (May 26, 1924, ch. 190, § 22, 43 Stat. 165).
 
 Words “upon conviction thereof” were omitted as surplusage since punishment can be imposed only after a conviction.
 
@@ -255,7 +255,7 @@ The immigration laws, referred to in subsec. (a), are classified generally to Ti
 
 Section 274A(b) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1324a(b) of Title 8.
 
-Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, § 1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
+Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, § 1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
 
 **Amendments**
 
@@ -265,19 +265,19 @@ Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), 
 
 Subsec. (c). Pub. L. 104–294 inserted at end “For purposes of this section, the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
-1994—Subsec. (a). Pub. L. 103–322, § 330011(p), amended directory language of Pub. L. 101–647, § 3550. See 1990 Amendment note below.
+1994—Subsec. (a). Pub. L. 103–322, § 330011(p), amended directory language of Pub. L. 101–647, § 3550. See 1990 Amendment note below.
 
-Pub. L. 103–322, § 130009(a)(4), substituted “10 years” for “five years” in concluding par.
+Pub. L. 103–322, § 130009(a)(4), substituted “10 years” for “five years” in concluding par.
 
-Subsec. (b). Pub. L. 103–322, § 130009(a)(5), in concluding provisions, substituted “under this title, imprisoned not more than 5 years” for “in accordance with this title, or imprisoned not more than two years”.
+Subsec. (b). Pub. L. 103–322, § 130009(a)(5), in concluding provisions, substituted “under this title, imprisoned not more than 5 years” for “in accordance with this title, or imprisoned not more than two years”.
 
-1990—Subsec. (a). Pub. L. 101–647, § 3550, as amended by Pub. L. 103–322, § 330011(p), substituted “Shall be fined under this title” for “Shall be fined in accordance with this title” in concluding par.
+1990—Subsec. (a). Pub. L. 101–647, § 3550, as amended by Pub. L. 103–322, § 330011(p), substituted “Shall be fined under this title” for “Shall be fined in accordance with this title” in concluding par.
 
 1988—Pub. L. 100–525 amended Pub. L. 99–603. See 1986 Amendment note below.
 
 1986—Pub. L. 99–603, as amended by Pub. L. 100–525, substituted “other documents” for “other entry documents” in section catchline, designated existing provisions as subsec. (a), substituted “permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States” for “or other document required for entry into the United States” and for “or document” in first par., substituted “in accordance with this title” for “not more than $2,000” in concluding par., and added subsecs. (b) and (c).
 
-1976—Pub. L. 94–550 inserted “, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true,” after “Whoever knowingly makes under oath” in fourth par.
+1976—Pub. L. 94–550 inserted “, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true,” after “Whoever knowingly makes under oath” in fourth par.
 
 1952—Act June 27, 1952, made section applicable to entry documents other than visas and permits.
 
@@ -289,7 +289,7 @@ Amendment by section 211(a)(2) of Pub. L. 104–208 applicable with respect to o
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(p), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3550 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(p), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3550 of Pub. L. 101–647 took effect.
 
 **Effective Date of 1988 Amendment**
 
@@ -303,9 +303,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Transfer of Functions**
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
-## § 1547. Alternative imprisonment maximum for certain offenses
+## § 1547. Alternative imprisonment maximum for certain offenses
 
 Notwithstanding any other provision of this title, the maximum term of imprisonment that may be imposed for an offense under this chapter (other than an offense under section 1545)—
 
@@ -313,4 +313,4 @@ Notwithstanding any other provision of this title, the maximum term of imprisonm
 
 **(2)** if committed to facilitate an act of international terrorism (as defined in section 2331) is 20 years.
 
-(Added Pub. L. 103–322, title XIII, § 130009(a)(6), Sept. 13, 1994, 108 Stat. 2030.)
+(Added Pub. L. 103–322, title XIII, § 130009(a)(6), Sept. 13, 1994, 108 Stat. 2030.)

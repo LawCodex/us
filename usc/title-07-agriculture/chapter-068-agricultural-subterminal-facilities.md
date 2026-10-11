@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 68—AGRICULTURAL SUBTERMINAL FACILITIES
 
-## § 3701. Congressional findings and declarations
+## § 3701. Congressional findings and declarations
 
 Congress finds and declares that—
 
@@ -27,19 +27,19 @@ Congress finds and declares that—
 
 **(4)** the location of such facilities must be carefully planned to assure maximum benefits to producers of agricultural commodities and unprocessed agricultural products and utilization of the most efficient means of transporting bulk agricultural commodities for domestic and export markets.
 
-(Pub. L. 96–358, § 2, Sept. 25, 1980, 94 Stat. 1184.)
+(Pub. L. 96–358, § 2, Sept. 25, 1980, 94 Stat. 1184.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 96–358, § 6, Sept. 25, 1980, 94 Stat. 1189, provided that: “The provisions of this Act [enacting this chapter and amending section 1932 of this title] shall become effective October 1, 1980.”
+Pub. L. 96–358, § 6, Sept. 25, 1980, 94 Stat. 1189, provided that: “The provisions of this Act [enacting this chapter and amending section 1932 of this title] shall become effective October 1, 1980.”
 
 **Short Title**
 
-Pub. L. 96–358, § 1, Sept. 25, 1980, 94 Stat. 1184, provided: “That this Act [enacting this chapter and amending section 1932 of this title] may be cited as the ‘Agricultural Subterminal Facilities Act of 1980’.”
+Pub. L. 96–358, § 1, Sept. 25, 1980, 94 Stat. 1184, provided: “That this Act [enacting this chapter and amending section 1932 of this title] may be cited as the ‘Agricultural Subterminal Facilities Act of 1980’.”
 
-## § 3702. Definitions
+## § 3702. Definitions
 
 As used in this chapter, the term—
 
@@ -57,7 +57,7 @@ As used in this chapter, the term—
 
 **(5)** “region” means two or more States acting together to develop a coordinated regional subterminal facilities plan.
 
-(Pub. L. 96–358, § 3, Sept. 25, 1980, 94 Stat. 1184.)
+(Pub. L. 96–358, § 3, Sept. 25, 1980, 94 Stat. 1184.)
 
 **Editorial Notes**
 
@@ -71,7 +71,7 @@ This chapter, referred to in the introductory phrase, was in the original “thi
 
 Section effective Oct. 1, 1980, see section 6 of Pub. L. 96–358, set out as a note under section 3701 of this title.
 
-## § 3703. State and regional plans
+## § 3703. State and regional plans
 
 **(a) Grants; requisite provisions of plans**
 
@@ -131,19 +131,19 @@ Whenever any State or region has submitted a State or regional plan under this s
 
 To carry out the purposes of this section, there are authorized to be appropriated not to exceed $3,300,000 for each of the fiscal years ending September 30, 1981, September 30, 1982, and September 30, 1983.
 
-(Pub. L. 96–358, § 4, Sept. 25, 1980, 94 Stat. 1185.)
+(Pub. L. 96–358, § 4, Sept. 25, 1980, 94 Stat. 1185.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), referred to in subsec. (a)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
+Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), referred to in subsec. (a)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
 
-Act of August 30, 1890 (7 U.S.C. 321–326 and 328), referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890 (7 U.S.C. 321–326 and 328), referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
-In subsec. (d)(4), “section 22102 of title 49” substituted for “section 5(j) of the Department of Transportation Act (49 U.S.C. 1654(j))” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 5 of the Department of Transportation Act was amended generally by Pub. L. 101–213, § 2(c), Dec. 11, 1989, 103 Stat. 1843, and, as so amended, provisions of subsec. (j), relating to an adequate State plan, were set out in subsec. (a).
+In subsec. (d)(4), “section 22102 of title 49” substituted for “section 5(j) of the Department of Transportation Act (49 U.S.C. 1654(j))” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 5 of the Department of Transportation Act was amended generally by Pub. L. 101–213, § 2(c), Dec. 11, 1989, 103 Stat. 1843, and, as so amended, provisions of subsec. (j), relating to an adequate State plan, were set out in subsec. (a).
 
 **Statutory Notes and Related Subsidiaries**
 

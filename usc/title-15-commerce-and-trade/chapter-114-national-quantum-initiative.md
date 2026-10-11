@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 114—NATIONAL QUANTUM INITIATIVE
 
-## § 8801. Definitions
+## § 8801. Definitions
 
 In this chapter:
 
@@ -51,7 +51,7 @@ The term “quantum information science” means the use of the laws of quantum 
 
 The term “quantum network infrastructure” means any facility, expertise, or capability that is necessary to enable the development and deployment of scalable and diverse quantum network technologies.
 
-**(8) 1 [footnote: 1 So in original. Two pars. (8) have been enacted.] Subcommittee on Economic and Security Implications**
+**(8) 1 [footnote: 1 So in original. Two pars. (8) have been enacted.] Subcommittee on Economic and Security Implications**
 
 The term “Subcommittee on Economic and Security Implications” means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under section 8814a(a) of this title.
 
@@ -59,7 +59,7 @@ The term “Subcommittee on Economic and Security Implications” means the Subc
 
 The term “Subcommittee on Quantum Information Science” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title.
 
-(Pub. L. 115–368, § 2, Dec. 21, 2018, 132 Stat. 5092; Pub. L. 117–81, div. F, title LXVI, § 6606(c)(1), Dec. 27, 2021, 135 Stat. 2443; Pub. L. 117–167, div. B, title I, § 10104(b)(1), Aug. 9, 2022, 136 Stat. 1437.)
+(Pub. L. 115–368, § 2, Dec. 21, 2018, 132 Stat. 5092; Pub. L. 117–81, div. F, title LXVI, § 6606(c)(1), Dec. 27, 2021, 135 Stat. 2443; Pub. L. 117–167, div. B, title I, § 10104(b)(1), Aug. 9, 2022, 136 Stat. 1437.)
 
 **Editorial Notes**
 
@@ -73,9 +73,9 @@ The term “Subcommittee on Quantum Information Science” means the Subcommitte
 
 **Short Title**
 
-Pub. L. 115–368, § 1(a), Dec. 21, 2018, 132 Stat. 5092, provided that: “This Act [enacting this chapter] may be cited as the ‘National Quantum Initiative Act’.”
+Pub. L. 115–368, § 1(a), Dec. 21, 2018, 132 Stat. 5092, provided that: “This Act [enacting this chapter] may be cited as the ‘National Quantum Initiative Act’.”
 
-## § 8802. Purposes
+## § 8802. Purposes
 
 The purpose of this chapter is to ensure the continued leadership of the United States in quantum information science and its technology applications by—
 
@@ -103,11 +103,11 @@ The purpose of this chapter is to ensure the continued leadership of the United 
 
 **(B)** to meet economic and national security goals.
 
-(Pub. L. 115–368, § 3, Dec. 21, 2018, 132 Stat. 5093.)
+(Pub. L. 115–368, § 3, Dec. 21, 2018, 132 Stat. 5093.)
 
 ## SUBCHAPTER I—NATIONAL QUANTUM INITIATIVE
 
-### § 8811. National Quantum Initiative Program
+### § 8811. National Quantum Initiative Program
 
 **(a) In general**
 
@@ -127,13 +127,13 @@ The President shall implement a National Quantum Initiative Program.
 
 **(6)** leverage existing Federal investments efficiently to advance Program goals and priorities established under paragraph (1).
 
-(Pub. L. 115–368, title I, § 101, Dec. 21, 2018, 132 Stat. 5094.)
+(Pub. L. 115–368, title I, § 101, Dec. 21, 2018, 132 Stat. 5094.)
 
 **Termination of Section**
 
 For termination of section, see section 8815 of this title.
 
-### § 8812. National Quantum Coordination Office
+### § 8812. National Quantum Coordination Office
 
 **(a) Establishment**
 
@@ -159,9 +159,9 @@ The President shall establish a National Quantum Coordination Office.
 
 **(2)** oversee interagency coordination of the Program, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Program;
 
-**(3)** serve as the point of contact on Federal civilian quantum information science and technology activities for Federal departments and agencies, industry, universities 1
+**(3)** serve as the point of contact on Federal civilian quantum information science and technology activities for Federal departments and agencies, industry, universities 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 professional societies, State governments, and such other persons as the Coordination Office considers appropriate to exchange technical and programmatic information;
 
@@ -177,7 +177,7 @@ professional societies, State governments, and such other persons as the Coordin
 
 Funds necessary to carry out the activities of the Coordination Office shall be made available each fiscal year by the Federal departments and agencies described in section 8813(b) of this title, as determined by the Director of the Office of Science and Technology Policy.
 
-(Pub. L. 115–368, title I, § 102, Dec. 21, 2018, 132 Stat. 5094; Pub. L. 117–81, div. F, title LXVI, § 6606(c)(2), Dec. 27, 2021, 135 Stat. 2444.)
+(Pub. L. 115–368, title I, § 102, Dec. 21, 2018, 132 Stat. 5094; Pub. L. 117–81, div. F, title LXVI, § 6606(c)(2), Dec. 27, 2021, 135 Stat. 2444.)
 
 **Termination of Section**
 
@@ -187,9 +187,9 @@ For termination of section, see section 8815 of this title.
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 117–81 substituted “on Quantum Information Science;” for “; and” in subpar. (A), inserted “and” after semicolon in subpar. (B), and added subpar. (C).
+2021—Subsec. (b)(1). Pub. L. 117–81 substituted “on Quantum Information Science;” for “; and” in subpar. (A), inserted “and” after semicolon in subpar. (B), and added subpar. (C).
 
-### § 8813. Subcommittee on Quantum Information Science
+### § 8813. Subcommittee on Quantum Information Science
 
 **(a) Establishment**
 
@@ -281,7 +281,7 @@ Not later than January 1, 2026, the Quantum Networking Working Group within the 
 
 **(F)** Such other matters as the Quantum Network Working Group considers necessary to advance the security of communications and network infrastructure, remain at the forefront of scientific discovery in the quantum information science domain, and transition quantum information science research into the emerging quantum technology economy.
 
-(Pub. L. 115–368, title I, § 103, Dec. 21, 2018, 132 Stat. 5095; Pub. L. 117–167, div. B, title VI, § 10661(b)(1), Aug. 9, 2022, 136 Stat. 1683.)
+(Pub. L. 115–368, title I, § 103, Dec. 21, 2018, 132 Stat. 5095; Pub. L. 117–167, div. B, title VI, § 10661(b)(1), Aug. 9, 2022, 136 Stat. 1683.)
 
 **Termination of Section**
 
@@ -293,7 +293,7 @@ For termination of section, see section 8815 of this title.
 
 2022—Subsec. (h). Pub. L. 117–167 added subsec. (h).
 
-### § 8814. National Quantum Initiative Advisory Committee
+### § 8814. National Quantum Initiative Advisory Committee
 
 **(a) In general**
 
@@ -341,9 +341,9 @@ Non-Federal members of the Advisory Committee, while attending meetings of the A
 
 The Advisory Committee shall be exempt from section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 115–368, title I, § 104, Dec. 21, 2018, 132 Stat. 5096; Pub. L. 117–81, div. F, title LXVI, § 6606(c)(3), Dec. 27, 2021, 135 Stat. 2444.)
+(Pub. L. 115–368, title I, § 104, Dec. 21, 2018, 132 Stat. 5096; Pub. L. 117–81, div. F, title LXVI, § 6606(c)(3), Dec. 27, 2021, 135 Stat. 2444.)
 
 **Termination of Section**
 
@@ -353,17 +353,17 @@ For termination of section, see section 8815 of this title.
 
 **References in Text**
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 **Amendments**
 
-2021—Subsec. (d)(1). Pub. L. 117–81 substituted “, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications” for “and the Subcommittee”.
+2021—Subsec. (d)(1). Pub. L. 117–81 substituted “, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications” for “and the Subcommittee”.
 
 **Executive Documents**
 
 **Executive Order No. 13885**
 
-Ex. Ord. No. 13885, Aug. 30, 2019, 84 F.R. 46873, which established the National Quantum Initiative Advisory Committee, was revoked by Ex. Ord. No. 14073, § 5, May 4, 2022, 87 F.R. 27910, set out below.
+Ex. Ord. No. 13885, Aug. 30, 2019, 84 F.R. 46873, which established the National Quantum Initiative Advisory Committee, was revoked by Ex. Ord. No. 14073, § 5, May 4, 2022, 87 F.R. 27910, set out below.
 
 **Ex. Ord. No. 14073. Enhancing the National Quantum Initiative Advisory Committee**
 
@@ -417,7 +417,7 @@ Sec. 6. *General Provisions*. (a) Insofar as the Federal Advisory Committee Act,
 
 J.R. Biden, Jr.
 
-### § 8814a. Subcommittee on the Economic and Security Implications of Quantum Information Science
+### § 8814a. Subcommittee on the Economic and Security Implications of Quantum Information Science
 
 **(a) Establishment**
 
@@ -449,9 +449,9 @@ The President shall establish, through the National Science and Technology Counc
 
 **(c) Responsibilities** The Subcommittee shall—
 
-**(1)** in coordination with the Director of the Office and 1
+**(1)** in coordination with the Director of the Office and 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 Management and Budget, the Director of the National Quantum Coordination Office, and the Subcommittee on Quantum Information Science, track investments of the Federal Government in quantum information science research and development;
 
@@ -479,7 +479,7 @@ The Secretary of Energy, the Director of National Intelligence, and the Director
 
 The Director of the Office of Science and Technology Policy and the Director of National Intelligence shall provide to the Subcommittee technical and administrative support related to the responsibilities of the Subcommittee that involve classified information, including support related to sensitive compartmented information facilities and the storage of classified information.
 
-(Pub. L. 115–368, title I, § 105, as added Pub. L. 117–81, div. F, title LXVI, § 6606(a)(2), Dec. 27, 2021, 135 Stat. 2442.)
+(Pub. L. 115–368, title I, § 105, as added Pub. L. 117–81, div. F, title LXVI, § 6606(a)(2), Dec. 27, 2021, 135 Stat. 2442.)
 
 **Termination of Section**
 
@@ -495,9 +495,9 @@ A prior section 105 of Pub. L. 115–368 was renumbered section 106 and is class
 
 **Effective Date**
 
-Pub. L. 117–81, div. F, title LXVI, § 6606(b)(2), Dec. 27, 2021, 135 Stat. 2443, provided that: “The amendments made by subsection (a) [enacting this section and amending section 8815 of this title] shall take effect as if included in the enactment of the National Quantum Initiative Act (15 U.S.C. 8801 et seq.).”
+Pub. L. 117–81, div. F, title LXVI, § 6606(b)(2), Dec. 27, 2021, 135 Stat. 2443, provided that: “The amendments made by subsection (a) [enacting this section and amending section 8815 of this title] shall take effect as if included in the enactment of the National Quantum Initiative Act (15 U.S.C. 8801 et seq.).”
 
-### § 8815. Sunset
+### § 8815. Sunset
 
 **(a) In general**
 
@@ -507,13 +507,13 @@ Except as provided in subsection (b), the authority to carry out sections 8811, 
 
 The President may continue the activities under such sections if the President determines that such activities are necessary to meet national economic or national security needs.
 
-(Pub. L. 115–368, title I, § 106, formerly § 105, Dec. 21, 2018, 132 Stat. 5097; renumbered § 106 and amended Pub. L. 117–81, div. F, title LXVI, § 6606(a)(1), (b)(1), Dec. 27, 2021, 135 Stat. 2442, 2443.)
+(Pub. L. 115–368, title I, § 106, formerly § 105, Dec. 21, 2018, 132 Stat. 5097; renumbered § 106 and amended Pub. L. 117–81, div. F, title LXVI, § 6606(a)(1), (b)(1), Dec. 27, 2021, 135 Stat. 2442, 2443.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 6606(b)(1), substituted “8813, 8814, and 8814a” for “8813, and 8814”.
+2021—Pub. L. 117–81, § 6606(b)(1), substituted “8813, 8814, and 8814a” for “8813, and 8814”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -523,7 +523,7 @@ Amendment by section 6606(a)(1) of Pub. L. 117–81 effective as if included in 
 
 ## SUBCHAPTER II—NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY QUANTUM ACTIVITIES
 
-### § 8831. National Institute of Standards and Technology activities and quantum consortium
+### § 8831. National Institute of Standards and Technology activities and quantum consortium
 
 **(a) National Institute of Standards and Technology activities** As part of the Program, the Director of the National Institute of Standards and Technology—
 
@@ -563,7 +563,7 @@ Not later than 2 years after December 21, 2018, the Director of the National Ins
 
 The Director of the National Institute of Standards and Technology shall allocate up to $80,000,000 to carry out the activities under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Institute of Standards and Technology.
 
-(Pub. L. 115–368, title II, § 201, Dec. 21, 2018, 132 Stat. 5098; Pub. L. 117–167, div. B, title VI, § 10661(c)(1), Aug. 9, 2022, 136 Stat. 1684.)
+(Pub. L. 115–368, title II, § 201, Dec. 21, 2018, 132 Stat. 5098; Pub. L. 117–167, div. B, title VI, § 10661(c)(1), Aug. 9, 2022, 136 Stat. 1684.)
 
 **Editorial Notes**
 
@@ -573,7 +573,7 @@ The Director of the National Institute of Standards and Technology shall allocat
 
 ## SUBCHAPTER III—NATIONAL SCIENCE FOUNDATION QUANTUM ACTIVITIES
 
-### § 8841. Quantum information science research and education program
+### § 8841. Quantum information science research and education program
 
 **(a) In general**
 
@@ -635,7 +635,7 @@ In carrying out this subsection, the Director shall coordinate with relevant Fed
 
 In this subsection, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics, including computer science.
 
-(Pub. L. 115–368, title III, § 301, Dec. 21, 2018, 132 Stat. 5099; Pub. L. 117–167, div. B, title VI, § 10661(e)(1), Aug. 9, 2022, 136 Stat. 1685.)
+(Pub. L. 115–368, title III, § 301, Dec. 21, 2018, 132 Stat. 5099; Pub. L. 117–167, div. B, title VI, § 10661(e)(1), Aug. 9, 2022, 136 Stat. 1685.)
 
 **Editorial Notes**
 
@@ -643,7 +643,7 @@ In this subsection, the term “STEM” means the academic and professional disc
 
 2022—Subsec. (d). Pub. L. 117–167 added subsec. (d).
 
-### § 8842. Multidisciplinary centers for quantum research and education
+### § 8842. Multidisciplinary centers for quantum research and education
 
 **(a) In general**
 
@@ -697,11 +697,11 @@ Consistent with the authorities of the National Science Foundation, the Director
 
 The Director of the National Science Foundation shall allocate up to $10,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Science Foundation.
 
-(Pub. L. 115–368, title III, § 302, Dec. 21, 2018, 132 Stat. 5100.)
+(Pub. L. 115–368, title III, § 302, Dec. 21, 2018, 132 Stat. 5100.)
 
 ## SUBCHAPTER IV—DEPARTMENT OF ENERGY QUANTUM ACTIVITIES
 
-### § 8851. Quantum information science research program
+### § 8851. Quantum information science research program
 
 **(a) In general**
 
@@ -745,9 +745,9 @@ The Secretary of Energy shall carry out a basic research program on quantum info
 
 **(5)** coordinate with other Federal departments and agencies, research communities, and potential users of information produced under this section.
 
-(Pub. L. 115–368, title IV, § 401, Dec. 21, 2018, 132 Stat. 5101.)
+(Pub. L. 115–368, title IV, § 401, Dec. 21, 2018, 132 Stat. 5101.)
 
-### § 8852. National Quantum Information Science Research Centers
+### § 8852. National Quantum Information Science Research Centers
 
 **(a) Establishment**
 
@@ -811,9 +811,9 @@ Consistent with the authorities of the Department of Energy, the Secretary of En
 
 The Secretary of Energy shall allocate up to $25,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the Department of Energy.
 
-(Pub. L. 115–368, title IV, § 402, Dec. 21, 2018, 132 Stat. 5101.)
+(Pub. L. 115–368, title IV, § 402, Dec. 21, 2018, 132 Stat. 5101.)
 
-### § 8853. Department of Energy quantum network infrastructure research and development program
+### § 8853. Department of Energy quantum network infrastructure research and development program
 
 **(a) In general** The Secretary of Energy (referred to in this section as the “Secretary”) shall carry out a research, development, and demonstration program to accelerate innovation in quantum network infrastructure in order to—
 
@@ -851,9 +851,9 @@ The Secretary of Energy shall allocate up to $25,000,000 for each Center establi
 
 **(E)** development of quantum memory buffers and small-scale quantum computers that are compatible with photon-based quantum bits in the optical or telecommunications wavelengths;
 
-**(F)** long-range entanglement distribution, including allowing entanglement-based protocols between small- and large 1
+**(F)** long-range entanglement distribution, including allowing entanglement-based protocols between small- and large 1
 
-<sup>1</sup>  So in original. Probably should be followed by a hyphen.
+<sup>1</sup> So in original. Probably should be followed by a hyphen.
 
 scale quantum processors, at the terrestrial and space-based level using quantum repeaters and optical or laser communications;
 
@@ -899,9 +899,9 @@ The Secretary shall review activities carried out under this section to determin
 
 Of the funds authorized to be appropriated for the Department of Energy’s Office of Science, there is authorized to be appropriated to the Secretary to carry out the activities under this section $100,000,000 for each of fiscal years 2023 through 2027.
 
-(Pub. L. 115–368, title IV, § 403, as added Pub. L. 117–167, div. B, title I, § 10104(b)(2)(A), Aug. 9, 2022, 136 Stat. 1438.)
+(Pub. L. 115–368, title IV, § 403, as added Pub. L. 117–167, div. B, title I, § 10104(b)(2)(A), Aug. 9, 2022, 136 Stat. 1438.)
 
-### § 8854. Department of Energy Quantum User Expansion for Science and Technology program
+### § 8854. Department of Energy Quantum User Expansion for Science and Technology program
 
 **(a) In general** The Secretary of Energy (referred to in this section as the “Secretary”) shall establish and carry out a program, to be known as the “Quantum User Expansion for Science and Technology program” or “QUEST program”, to encourage and facilitate access to United States quantum computing hardware and quantum computing clouds for research purposes—
 
@@ -967,4 +967,4 @@ In carrying out the activities authorized by this section, the Secretary, in con
 
 **(5)** $36,465,188 for fiscal year 2027.
 
-(Pub. L. 115–368, title IV, § 404, as added Pub. L. 117–167, div. B, title I, § 10104(b)(2)(A), Aug. 9, 2022, 136 Stat. 1440.)
+(Pub. L. 115–368, title IV, § 404, as added Pub. L. 117–167, div. B, title I, § 10104(b)(2)(A), Aug. 9, 2022, 136 Stat. 1440.)

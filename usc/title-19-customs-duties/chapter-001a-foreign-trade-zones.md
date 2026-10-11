@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 1A—FOREIGN TRADE ZONES
 
-## § 81a. Definitions
+## § 81a. Definitions
 
 When used in this chapter—
 
@@ -37,15 +37,15 @@ When used in this chapter—
 
 **(i)** The term “zone” means a “foreign-trade zone” as provided in this chapter.
 
-(June 18, 1934, ch. 590, § 1, 48 Stat. 998; Pub. L. 104–201, div. A, title IX, § 910, Sept. 23, 1996, 110 Stat. 2621.)
+(June 18, 1934, ch. 590, § 1, 48 Stat. 998; Pub. L. 104–201, div. A, title IX, § 910, Sept. 23, 1996, 110 Stat. 2621.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (b). Pub. L. 104–201, § 910(1), substituted “and the Secretary of the Treasury” for “the Secretary of the Treasury, and the Secretary of War”.
+1996—Subsec. (b). Pub. L. 104–201, § 910(1), substituted “and the Secretary of the Treasury” for “the Secretary of the Treasury, and the Secretary of War”.
 
-Subsec. (c). Pub. L. 104–201, § 910(2), struck out “Alaska, Hawaii,” after “Columbia,”.
+Subsec. (c). Pub. L. 104–201, § 910(2), struck out “Alaska, Hawaii,” after “Columbia,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -57,7 +57,7 @@ This chapter is popularly known as the “Foreign Trade Zones Act”.
 
 Notwithstanding this chapter, articles located in a foreign trade zone on the effective date of increases in tax under specific amendments by Pub. L. 101–508 subject to floor stocks taxes under certain circumstances, see section 11218 of Pub. L. 101–508, set out as a note under section 5001 of Title 26, Internal Revenue Code.
 
-## § 81b. Establishment of zones
+## § 81b. Establishment of zones
 
 **(a) Board authorization to grant zones**
 
@@ -75,9 +75,9 @@ In granting applications preference shall be given to public corporations.
 
 In case of any State in which harbor facilities of any port of entry are owned and controlled by the State and in which State harbor facilities of any other port of entry are owned and controlled by a municipality, the Board shall not grant an application by any public corporation for the establishment of any zone in such State, unless such application has been authorized by an Act of the legislature of such State (enacted after June 18, 1934).
 
-(June 18, 1934, ch. 590, § 2, 48 Stat. 999.)
+(June 18, 1934, ch. 590, § 2, 48 Stat. 999.)
 
-## § 81c. Exemption from customs laws of merchandise brought into foreign trade zone
+## § 81c. Exemption from customs laws of merchandise brought into foreign trade zone
 
 **(a) Handling of merchandise in zone; shipment of foreign merchandise into customs territory; appraisal; reshipment to zone** Foreign and domestic merchandise of every description, except such as is prohibited by law, may, without being subject to the customs laws of the United States, except as otherwise provided in this chapter, be brought into a zone and may be stored, sold, exhibited, broken up, repacked, assembled, distributed, sorted, graded, cleaned, mixed with foreign or domestic merchandise, or otherwise manipulated, or be manufactured except as otherwise provided in this chapter, and be exported, destroyed, or sent into customs territory of the United States therefrom, in the original package or otherwise; but when foreign merchandise is so sent from a zone into customs territory of the United States it shall be subject to the laws and regulations of the United States affecting imported merchandise: *Provided*, That whenever the privilege shall be requested and there has been no manipulation or manufacture effecting a change in tariff classification, the appropriate customs officer shall take under supervision any lot or part of a lot of foreign merchandise in a zone, cause it to be appraised and taxes determined and duties liquidated thereon. Merchandise so taken under supervision may be stored, manipulated, or manufactured under the supervision and regulations prescribed by the Secretary of the Treasury, and whether mixed or manufactured with domestic merchandise or not may, under regulations prescribed by the Secretary of the Treasury, be exported or destroyed, or may be sent into customs territory upon the payment of such liquidated duties and determined taxes thereon. If merchandise so taken under supervision has been manipulated or manufactured, such duties and taxes shall be payable on the quantity of such foreign merchandise used in the manipulation or manufacture of the entered article. Allowance shall be made for recoverable and irrecoverable waste; and if recoverable waste is sent into customs territory, it shall be dutiable and taxable in its condition and quantity and at its weight at the time of entry. Where two or more products result from the manipulation or manufacture of merchandise in a zone the liquidated duties and determined taxes shall be distributed to the several products in accordance with their relative value at the time of separation with due allowance for waste as provided for above: *Provided further*, That subject to such regulations respecting identity and the safeguarding of the revenue as the Secretary of the Treasury may deem necessary, articles, the growth, product, or manufacture of the United States, on which all internal-revenue taxes have been paid, if subject thereto, and articles previously imported on which duty and/or tax has been paid, or which have been admitted free of duty and tax, may be taken into a zone from the customs territory of the United States, placed under the supervision of the appropriate customs officer, and whether or not they have been combined with or made part, while in such zone, of other articles, may be brought back thereto free of quotas, duty, or tax: *Provided further*, That if in the opinion of the Secretary of the Treasury their identity has been lost, such articles not entitled to free entry by reason of noncompliance with the requirements made hereunder by the Secretary of the Treasury shall be treated when they reenter customs territory of the United States as foreign merchandise under the provisions of the tariff and internal-revenue laws in force at that time: *Provided further*, That under the rules and regulations of the controlling Federal agencies, articles which have been taken into a zone from customs territory for the sole purpose of exportation, destruction (except destruction of distilled spirits, wines, and fermented malt liquors), or storage shall be considered to be exported for the purpose of—
 
@@ -119,7 +119,7 @@ At the time use of the merchandise in production begins, the merchandise shall b
 
 For purposes of this subsection, the term “foreign trade zone” includes a subzone.
 
-(June 18, 1934, ch. 590, § 3, 48 Stat. 999; June 17, 1950, ch. 296, § 1, 64 Stat. 246; Pub. L. 91–271, title III, § 309, June 2, 1970, 84 Stat. 292; Pub. L. 98–573, title II, § 231(a)(2), Oct. 30, 1984, 98 Stat. 2990; Pub. L. 99–514, title XVIII, § 1894, Oct. 22, 1986, 100 Stat. 2931; Pub. L. 100–418, title I, § 1783(f), Aug. 23, 1988, 102 Stat. 1300; Pub. L. 100–449, title II, § 204(c)(5), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 100–647, title IX, § 9002, Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title III, §§ 481, 484F, Aug. 20, 1990, 104 Stat. 706, 710; Pub. L. 103–182, title II, § 203(b)(5), Dec. 8, 1993, 107 Stat. 2091; Pub. L. 104–295, § 31(a), Oct. 11, 1996, 110 Stat. 3536; Pub. L. 106–36, title I, § 1001(b)(2), June 25, 1999, 113 Stat. 131; Pub. L. 108–77, title II, § 203(b)(5), Sept. 3, 2003, 117 Stat. 929; Pub. L. 116–113, title V, § 501(e)(5), Jan. 29, 2020, 134 Stat. 69; Pub. L. 116–260, div. O, title VI, § 601(c)(2)(B), Dec. 27, 2020, 134 Stat. 2150.)
+(June 18, 1934, ch. 590, § 3, 48 Stat. 999; June 17, 1950, ch. 296, § 1, 64 Stat. 246; Pub. L. 91–271, title III, § 309, June 2, 1970, 84 Stat. 292; Pub. L. 98–573, title II, § 231(a)(2), Oct. 30, 1984, 98 Stat. 2990; Pub. L. 99–514, title XVIII, § 1894, Oct. 22, 1986, 100 Stat. 2931; Pub. L. 100–418, title I, § 1783(f), Aug. 23, 1988, 102 Stat. 1300; Pub. L. 100–449, title II, § 204(c)(5), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 100–647, title IX, § 9002, Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title III, §§ 481, 484F, Aug. 20, 1990, 104 Stat. 706, 710; Pub. L. 103–182, title II, § 203(b)(5), Dec. 8, 1993, 107 Stat. 2091; Pub. L. 104–295, § 31(a), Oct. 11, 1996, 110 Stat. 3536; Pub. L. 106–36, title I, § 1001(b)(2), June 25, 1999, 113 Stat. 131; Pub. L. 108–77, title II, § 203(b)(5), Sept. 3, 2003, 117 Stat. 929; Pub. L. 116–113, title V, § 501(e)(5), Jan. 29, 2020, 134 Stat. 69; Pub. L. 116–260, div. O, title VI, § 601(c)(2)(B), Dec. 27, 2020, 134 Stat. 2150.)
 
 **Amendment of Section**
 
@@ -131,26 +131,26 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsec. (a)(1), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Tariff Act of 1930, referred to in subsec. (a)(1), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-Sections 1001 and 1201 of this title, referred to in subsec. (a), which comprised the dutiable and free lists for articles imported into the United States, were repealed by Pub. L. 87–456, title I, § 101(a), May 24, 1962, 76 Stat. 72, which act also revised the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+Sections 1001 and 1201 of this title, referred to in subsec. (a), which comprised the dutiable and free lists for articles imported into the United States, were repealed by Pub. L. 87–456, title I, § 101(a), May 24, 1962, 76 Stat. 72, which act also revised the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-References in subsec. (a) to section and chapters of the Internal Revenue Code are references to section and chapters of the Internal Revenue Code, 1939, which was repealed by section 7851 of Title 26, I.R.C. 1954. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. Corresponding sections of I.R.C. 1986 to section and chapters of I.R.C. 1939 referred to in the text are set out below. For provision deeming a reference in other laws to a provision of I.R.C. 1939, also as a reference to corresponding provision of I.R.C. 1986, see section 7852(b) of Title 26, I.R.C. 1986.
+References in subsec. (a) to section and chapters of the Internal Revenue Code are references to section and chapters of the Internal Revenue Code, 1939, which was repealed by section 7851 of Title 26, I.R.C. 1954. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. Corresponding sections of I.R.C. 1986 to section and chapters of I.R.C. 1939 referred to in the text are set out below. For provision deeming a reference in other laws to a provision of I.R.C. 1939, also as a reference to corresponding provision of I.R.C. 1986, see section 7852(b) of Title 26, I.R.C. 1986.
 
 Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (a), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 | *I.R.C. 1939* | *I.R.C. 1986* |
 |---|---|
-| § 1807 | Omitted |
-| Chapter 15 | § 5701 et seq. |
-| Chapter 16 | § 4591 et seq., § 4811 et seq. |
-| Chapter 17 | § 4831 et seq. |
+| § 1807 | Omitted |
+| Chapter 15 | § 5701 et seq. |
+| Chapter 16 | § 4591 et seq., § 4811 et seq. |
+| Chapter 17 | § 4831 et seq. |
 | Chapter 21 | Omitted |
-| Chapter 23 | § 4701 et seq. |
-| Chapter 24 | § 4801 et seq. |
-| Chapter 25 | §§ 4181, 4182, and 5811 et seq. |
-| Chapter 26 | § 5001 et seq. |
-| Chapter 32 | § 4501 et seq. |
+| Chapter 23 | § 4701 et seq. |
+| Chapter 24 | § 4801 et seq. |
+| Chapter 25 | §§ 4181, 4182, and 5811 et seq. |
+| Chapter 26 | § 5001 et seq. |
+| Chapter 32 | § 4501 et seq. |
 
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsec. (a), is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
 
@@ -160,17 +160,17 @@ Section 204 of the United States-Canada Free-Trade Agreement Implementation Act 
 
 Pub. L. 116–113, which directed amendment of the flush text of subsec. “(a)(2)” by substituting “goods subject to USMCA drawback, as defined in section 4534(a) of this title” for “goods subject to NAFTA drawback, as defined in section 3333(a) of this title”, “a USMCA country, as defined in section 4502 of this title” for “a NAFTA country, as defined in section 3301(4) of this title”, and “USMCA” for “NAFTA” wherever appearing, was executed by making the substitutions in concluding provisions of subsec. (a), to reflect the probable intent of Congress.
 
-2003—Subsec. (a). Pub. L. 108–77, §§ 107(c), 203(b)(5), temporarily inserted before period at end “*Provided further*, That no merchandise that consists of goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, that is manufactured or otherwise changed in condition shall be exported to Chile without an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its exportation (or if the privilege in the first proviso to this subsection was requested, an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its admission into the zone) and the payment of the assessed duty before the 61st day after the date of exportation of the article, except that the customs duty may be waived or reduced by (1) 100 percent during the 8-year period beginning on January 1, 2004; (2) 75 percent during the 1-year period beginning on January 1, 2012; (3) 50 percent during the 1-year period beginning on January 1, 2013; and (4) 25 percent during the 1-year period beginning on January 1, 2014”. See Effective and Termination Dates of 2003 Amendment note below.
+2003—Subsec. (a). Pub. L. 108–77, §§ 107(c), 203(b)(5), temporarily inserted before period at end “*Provided further*, That no merchandise that consists of goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, that is manufactured or otherwise changed in condition shall be exported to Chile without an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its exportation (or if the privilege in the first proviso to this subsection was requested, an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its admission into the zone) and the payment of the assessed duty before the 61st day after the date of exportation of the article, except that the customs duty may be waived or reduced by (1) 100 percent during the 8-year period beginning on January 1, 2004; (2) 75 percent during the 1-year period beginning on January 1, 2012; (3) 50 percent during the 1-year period beginning on January 1, 2013; and (4) 25 percent during the 1-year period beginning on January 1, 2014”. See Effective and Termination Dates of 2003 Amendment note below.
 
 1999—Subsec. (a). Pub. L. 106–36 struck out second period at end of last sentence.
 
 1996—Subsec. (e). Pub. L. 104–295 added subsec. (e).
 
-1993—Subsec. (a). Pub. L. 103–182, in provisions following par. (2), inserted second proviso relating to goods subject to NAFTA drawback, and in last proviso inserted “, if Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates,” after “That” and substituted “during the period such Agreement is in operation” for “on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988,”.
+1993—Subsec. (a). Pub. L. 103–182, in provisions following par. (2), inserted second proviso relating to goods subject to NAFTA drawback, and in last proviso inserted “, if Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates,” after “That” and substituted “during the period such Agreement is in operation” for “on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988,”.
 
-1990—Subsec. (b). Pub. L. 101–382, § 481, substituted “on or before December 31, 1992” for “before January 1, 1991”.
+1990—Subsec. (b). Pub. L. 101–382, § 481, substituted “on or before December 31, 1992” for “before January 1, 1991”.
 
-Subsec. (c). Pub. L. 101–382, § 484F, designated existing provisions as par. (1), struck out “domestic” before “denatured distilled”, inserted provisions relating to withdrawal free of tax from a distilled spirits plant, and added par. (2).
+Subsec. (c). Pub. L. 101–382, § 484F, designated existing provisions as par. (1), struck out “domestic” before “denatured distilled”, inserted provisions relating to withdrawal free of tax from a distilled spirits plant, and added par. (2).
 
 1988—Subsec. (a). Pub. L. 100–449 temporarily inserted provision directing that, “with the exception of drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, no article manufactured or otherwise changed in condition (except a change by cleaning, testing or repacking) shall be exported to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without the payment of a duty that shall be payable on the article in its condition and quantity, and at its weight, at the time of its exportation to Canada unless the privilege in the first proviso to this subsection was requested.” See Effective and Termination Dates of 1988 Amendment note below.
 
@@ -190,9 +190,9 @@ Subsec. (d). Pub. L. 100–647 added subsec. (d).
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. O, title VI, § 601(h), Dec. 27, 2020, 134 Stat. 2152, provided that: “This section [amending this section, sections 1311 to 1313, 1508, 1520, 1562, 1677f, 3472, 3473, 4531, and 4534 of this title, and sections 290m to 290m–5 and 290m–7 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 3472 of this title] and the amendments made by this section shall take effect on July 1, 2020.”
+Pub. L. 116–260, div. O, title VI, § 601(h), Dec. 27, 2020, 134 Stat. 2152, provided that: “This section [amending this section, sections 1311 to 1313, 1508, 1520, 1562, 1677f, 3472, 3473, 4531, and 4534 of this title, and sections 290m to 290m–5 and 290m–7 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 3472 of this title] and the amendments made by this section shall take effect on July 1, 2020.”
 
-Pub. L. 116–113, title V, § 501(g), Jan. 29, 2020, 134 Stat. 69, provided that:
+Pub. L. 116–113, title V, § 501(g), Jan. 29, 2020, 134 Stat. 69, provided that:
 
 > **“(1) In general.—** Each transfer, redesignation, and amendment made by subsections (b) through (e) [amending this section and sections 1311 to 1313, 1562, 3333, and 4534 of this title] shall—
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–295, § 31(b), Oct. 11, 1996, 110 Stat. 3537, provided that: “The amendment made by this section [amending this section] shall apply with respect to merchandise admitted into a foreign trade zone after the date that is 15 days after the date of the enactment of this Act [Oct. 11, 1996].”
+Pub. L. 104–295, § 31(b), Oct. 11, 1996, 110 Stat. 3537, provided that: “The amendment made by this section [amending this section] shall apply with respect to merchandise admitted into a foreign trade zone after the date that is 15 days after the date of the enactment of this Act [Oct. 11, 1996].”
 
 **Effective Date of 1993 Amendment**
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the U
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–382, title III, § 485(a), Aug. 20, 1990, 104 Stat. 712, provided that: “Except as otherwise provided in this title, the amendments made by this title [amending this section and sections 1309, 1313, 1466, and 1553 of this title and enacting provisions set out as notes under sections 1309, 1466, and 1553 of this title], shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after October 1, 1990.”
+Pub. L. 101–382, title III, § 485(a), Aug. 20, 1990, 104 Stat. 712, provided that: “Except as otherwise provided in this title, the amendments made by this title [amending this section and sections 1309, 1313, 1466, and 1553 of this title and enacting provisions set out as notes under sections 1309, 1466, and 1553 of this title], shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after October 1, 1990.”
 
 **Effective and Termination Dates of 1988 Amendment**
 
@@ -232,7 +232,7 @@ Amendment by section 1783(f) of Pub. L. 100–418 applicable with respect to art
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–573, title II, § 231(a)(3), Oct. 30, 1984, 98 Stat. 2990, provided that: “The amendments made by paragraph (2) [amending this section] shall take effect on the fifteenth day after the date of the enactment of this Act [Oct. 30, 1984].”
+Pub. L. 98–573, title II, § 231(a)(3), Oct. 30, 1984, 98 Stat. 2990, provided that: “The amendments made by paragraph (2) [amending this section] shall take effect on the fifteenth day after the date of the enactment of this Act [Oct. 30, 1984].”
 
 **Effective Date of 1970 Amendment**
 
@@ -246,9 +246,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 Notwithstanding this chapter, articles located in a foreign trade zone on the effective date of increases in tax under specific amendments by Pub. L. 101–508 subject to floor stocks taxes under certain circumstances, see section 11218 of Pub. L. 101–508, set out as a note under section 5001 of Title 26, Internal Revenue Code.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 **Executive Documents**
 
@@ -256,25 +256,25 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under section 1 of this title. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 81d. Customs officers and guards
+## § 81d. Customs officers and guards
 
 The Secretary of the Treasury shall assign to the zone the necessary customs officers and guards to protect the revenue and to provide for the admission of foreign merchandise into customs territory.
 
-(June 18, 1934, ch. 590, § 4, 48 Stat. 1000.)
+(June 18, 1934, ch. 590, § 4, 48 Stat. 1000.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 81e. Vessels entering or leaving zone; coastwise trade
+## § 81e. Vessels entering or leaving zone; coastwise trade
 
 Vessels entering or leaving a zone shall be subject to the operation of all the laws of the United States, except as otherwise provided in this chapter, and vessels leaving a zone and arriving in customs territory of the United States shall be subject to such regulations to protect the revenue as may be prescribed by the Secretary of the Treasury. Nothing in this chapter shall be construed in any manner so as to permit vessels under foreign flags to carry goods or merchandise shipped from one foreign trade zone to another zone or port in the protected coastwise trade of the United States.
 
-(June 18, 1934, ch. 590, § 5, 48 Stat. 1000.)
+(June 18, 1934, ch. 590, § 5, 48 Stat. 1000.)
 
-## § 81f. Application for establishment and expansion of zone
+## § 81f. Application for establishment and expansion of zone
 
 **(a) Application for establishment; requirements** Each application shall state in detail—
 
@@ -292,25 +292,25 @@ Vessels entering or leaving a zone shall be subject to the operation of all the 
 
 The Board may upon its own initiative or upon request permit the amendment of the application. Any expansion of the area of an established zone shall be made and approved in the same manner as an original application.
 
-(June 18, 1934, ch. 590, § 6, 48 Stat. 1000.)
+(June 18, 1934, ch. 590, § 6, 48 Stat. 1000.)
 
-## § 81g. Granting of application
+## § 81g. Granting of application
 
 If the Board finds that the proposed plans and location are suitable for the accomplishment of the purpose of a foreign trade zone under this chapter, and that the facilities and appurtenances which it is proposed to provide are sufficient it shall make the grant.
 
-(June 18, 1934, ch. 590, § 7, 48 Stat. 1000.)
+(June 18, 1934, ch. 590, § 7, 48 Stat. 1000.)
 
-## § 81h. Rules and regulations
+## § 81h. Rules and regulations
 
 The Board shall prescribe such rules and regulations not inconsistent with the provisions of this chapter or the rules and regulations of the Secretary of the Treasury made hereunder and as may be necessary to carry out this chapter.
 
-(June 18, 1934, ch. 590, § 8, 48 Stat. 1000.)
+(June 18, 1934, ch. 590, § 8, 48 Stat. 1000.)
 
-## § 81i. Cooperation of Board with other agencies
+## § 81i. Cooperation of Board with other agencies
 
 The Board shall cooperate with the State, subdivision, and municipality in which the zone is located in the exercise of their police, sanitary, and other powers in and in connection with the free zone. It shall also cooperate with the United States Customs Service, the United States Postal Service, the Public Health Service, the Immigration and Naturalization Service, and such other Federal agencies as have jurisdiction in ports of entry described in section 81b of this title.
 
-(June 18, 1934, ch. 590, § 9, 48 Stat. 1000; Pub. L. 106–36, title I, § 1001(b)(3), June 25, 1999, 113 Stat. 131.)
+(June 18, 1934, ch. 590, § 9, 48 Stat. 1000; Pub. L. 106–36, title I, § 1001(b)(3), June 25, 1999, 113 Stat. 131.)
 
 **Editorial Notes**
 
@@ -336,21 +336,21 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Functions of officers of Department of Justice and functions of all agencies and employees of such Department transferred, with a few exceptions, to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by former sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. The Immigration and Naturalization Service, referred to in this section, was in Department of Justice.
 
-Functions of officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Customs Service was under Department of the Treasury.
+Functions of officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Customs Service was under Department of the Treasury.
 
-## § 81j. Cooperation of other agencies with Board
+## § 81j. Cooperation of other agencies with Board
 
 For the purpose of facilitating the investigations of the Board and its work in the granting of the privilege, in the establishment, operation, and maintenance of a zone, the President may direct the executive departments and other establishments of the Government to cooperate with the Board, and for such purpose each of the several departments and establishments is authorized, upon direction of the President, to furnish to the Board such records, papers, and information in their possession as may be required by him, and temporarily to detail to the service of the Board such officers, experts, or engineers as may be necessary.
 
-(June 18, 1934, ch. 590, § 10, 48 Stat. 1001.)
+(June 18, 1934, ch. 590, § 10, 48 Stat. 1001.)
 
-## § 81k. Agreements as to use of property
+## § 81k. Agreements as to use of property
 
 If the title to or right of user of any of the property to be included in a zone is in the United States, an agreement to use such property for zone purposes may be entered into between the grantee and the department or officer of the United States having control of the same, under such conditions, approved by the Board and such department or officer, as may be agreed upon.
 
-(June 18, 1934, ch. 590, § 11, 48 Stat. 1001.)
+(June 18, 1934, ch. 590, § 11, 48 Stat. 1001.)
 
-## § 81l. Facilities to be provided and maintained
+## § 81l. Facilities to be provided and maintained
 
 Each grantee shall provide and maintain in connection with the zone—
 
@@ -368,21 +368,21 @@ Each grantee shall provide and maintain in connection with the zone—
 
 **(g)** Such other facilities as may be required by the Board.
 
-(June 18, 1934, ch. 590, § 12, 48 Stat. 1001.)
+(June 18, 1934, ch. 590, § 12, 48 Stat. 1001.)
 
-## § 81m. Permission to others to use zone
+## § 81m. Permission to others to use zone
 
 The grantee may, with the approval of the Board, and under reasonable and uniform regulations for like conditions and circumstances to be prescribed by it, permit other persons, firms, corporations, or associations to erect such buildings and other structures within the zone as will meet their particular requirements: *Provided*, That such permission shall not constitute a vested right as against the United States, nor interfere with the regulation of the grantee or the permittee by the United States, nor interfere with or complicate the revocation of the grant by the United States: *And provided further*, That in the event of the United States or the grantee desiring to acquire the property of the permittee no good will shall be considered as accruing from the privilege granted to the zone: *And provided further*, That such permits shall not be granted on terms that conflict with the public use of the zone as set forth in this chapter.
 
-(June 18, 1934, ch. 590, § 13, 48 Stat. 1001.)
+(June 18, 1934, ch. 590, § 13, 48 Stat. 1001.)
 
-## § 81n. Operation of zone as public utility; cost of customs service
+## § 81n. Operation of zone as public utility; cost of customs service
 
 Each zone shall be operated as a public utility, and all rates and charges for all services or privileges within the zone shall be fair and reasonable, and the grantee shall afford to all who may apply for the use of the zone and its facilities and appurtenances uniform treatment under like conditions, subject to such treaties or commercial conventions as are now in force or may hereafter be made from time to time by the United States with foreign governments and the cost of maintaining the additional customs service required under this chapter shall be paid by the operator of the zone.
 
-(June 18, 1934, ch. 590, § 14, 48 Stat. 1001.)
+(June 18, 1934, ch. 590, § 14, 48 Stat. 1001.)
 
-## § 81o. Residents of zone
+## § 81o. Residents of zone
 
 **(a) Persons allowed to reside in zone**
 
@@ -404,7 +404,7 @@ No retail trade shall be conducted within the zone except under permits issued b
 
 Tangible personal property imported from outside the United States and held in a zone for the purpose of storage, sale, exhibition, repackaging, assembly, distribution, sorting, grading, cleaning, mixing, display, manufacturing, or processing, and tangible personal property produced in the United States and held in a zone for exportation, either in its original form or as altered by any of the above processes, shall be exempt from State and local ad valorem taxation.
 
-(June 18, 1934, ch. 590, § 15, 48 Stat. 1002; Pub. L. 98–573, title II, § 231(b)(1), Oct. 30, 1984, 98 Stat. 2991.)
+(June 18, 1934, ch. 590, § 15, 48 Stat. 1002; Pub. L. 98–573, title II, § 231(b)(1), Oct. 30, 1984, 98 Stat. 2991.)
 
 **Editorial Notes**
 
@@ -416,9 +416,9 @@ Tangible personal property imported from outside the United States and held in a
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–573, title II, § 231(b)(2), Oct. 30, 1984, 98 Stat. 2991, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1983.”
+Pub. L. 98–573, title II, § 231(b)(2), Oct. 30, 1984, 98 Stat. 2991, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1983.”
 
-## § 81p. Accounts and recordkeeping
+## § 81p. Accounts and recordkeeping
 
 **(a) Manner of keeping accounts**
 
@@ -432,25 +432,25 @@ Each grantee shall make to the Board annually, and at such other times as it may
 
 The Board shall make a report to Congress annually containing a summary of zone operations.
 
-(June 18, 1934, ch. 590, § 16, 48 Stat. 1002; Pub. L. 96–609, title II, § 204, Dec. 28, 1980, 94 Stat. 3561; Pub. L. 99–386, title II, § 203(b), Aug. 22, 1986, 100 Stat. 823.)
+(June 18, 1934, ch. 590, § 16, 48 Stat. 1002; Pub. L. 96–609, title II, § 204, Dec. 28, 1980, 94 Stat. 3561; Pub. L. 99–386, title II, § 203(b), Aug. 22, 1986, 100 Stat. 823.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Subsec. (b). Pub. L. 99–386, § 203(b)(1), substituted “reports on zone operations” for “reports containing a full statement of all the operations, receipts, and expenditures, and such other information as the Board may require”.
+1986—Subsec. (b). Pub. L. 99–386, § 203(b)(1), substituted “reports on zone operations” for “reports containing a full statement of all the operations, receipts, and expenditures, and such other information as the Board may require”.
 
-Subsec. (c). Pub. L. 99–386, § 203(b)(2), added subsec. (c) and struck out former subsec. (c) which required the Board to make an annual report to Congress containing a summary of the operation and fiscal condition of each zone, and transmit copies of the annual report of each grantee.
+Subsec. (c). Pub. L. 99–386, § 203(b)(2), added subsec. (c) and struck out former subsec. (c) which required the Board to make an annual report to Congress containing a summary of the operation and fiscal condition of each zone, and transmit copies of the annual report of each grantee.
 
 1980—Subsec. (c). Pub. L. 96–609 substituted “by April 1 of each year” for “on the first day of each regular session”.
 
-## § 81q. Transfer of grant
+## § 81q. Transfer of grant
 
 The grant shall not be sold, conveyed, transferred, set over, or assigned.
 
-(June 18, 1934, ch. 590, § 17, 48 Stat. 1002.)
+(June 18, 1934, ch. 590, § 17, 48 Stat. 1002.)
 
-## § 81r. Revocation of grants
+## § 81r. Revocation of grants
 
 **(a) Procedure for revocation**
 
@@ -464,7 +464,7 @@ In the conduct of any proceeding under this section for the revocation of a gran
 
 An order under the provisions of this section revoking the grant issued by the Board shall be final and conclusive, unless within ninety days after its service the grantee appeals to the court of appeals for the circuit in which the zone is located by filing with the clerk of said court a written petition praying that the order of the Board be set aside. Such order shall be stayed pending the disposition of appellate proceedings by the court. The clerk of the court in which such a petition is filed shall immediately cause a copy thereof to be delivered to the Board and it shall thereupon file in the court the record in the proceedings held before it under this section, as provided in section 2112 of title 28. The testimony and evidence taken or submitted before the Board, duly certified and filed as a part of the record, shall be considered by the court as the evidence in the case.
 
-(June 18, 1934, ch. 590, § 18, 48 Stat. 1002; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 11, Aug. 28, 1958, 72 Stat. 945.)
+(June 18, 1934, ch. 590, § 18, 48 Stat. 1002; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 11, Aug. 28, 1958, 72 Stat. 945.)
 
 **Editorial Notes**
 
@@ -478,20 +478,20 @@ An order under the provisions of this section revoking the grant issued by the B
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
 
-## § 81s. Offenses
+## § 81s. Offenses
 
 In case of a violation of this chapter, or any regulation under this chapter, by the grantee, any officer, agent or employee thereof responsible for or permitting any such violation shall be subject to a fine of not more than $1,000. Each day during which a violation continues shall constitute a separate offense.
 
-(June 18, 1934, ch. 590, § 19, 48 Stat. 1003.)
+(June 18, 1934, ch. 590, § 19, 48 Stat. 1003.)
 
-## § 81t. Separability
+## § 81t. Separability
 
 If any provision of this chapter or the application of such provision to certain circumstances be held invalid, the remainder of this chapter and the application of such provisions to circumstances other than those as to which it is held invalid shall not be affected thereby.
 
-(June 18, 1934, ch. 590, § 20, 48 Stat. 1003.)
+(June 18, 1934, ch. 590, § 20, 48 Stat. 1003.)
 
-## § 81u. Right to alter, amend, or repeal chapter
+## § 81u. Right to alter, amend, or repeal chapter
 
 The right to alter, amend, or repeal this chapter is reserved.
 
-(June 18, 1934, ch. 590, § 21, 48 Stat. 1003.)
+(June 18, 1934, ch. 590, § 21, 48 Stat. 1003.)

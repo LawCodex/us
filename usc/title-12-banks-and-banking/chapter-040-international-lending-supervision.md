@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 40—INTERNATIONAL LENDING SUPERVISION
 
-## § 3901. Congressional declaration of policy
+## § 3901. Congressional declaration of policy
 
 **(a)**
 
@@ -25,21 +25,21 @@ retrieved: 2026-10-11
 
 **(b)** The Federal banking agencies shall consult with the banking supervisory authorities of other countries to reach understandings aimed at achieving the adoption of effective and consistent supervisory policies and practices with respect to international lending.
 
-(Pub. L. 98–181, title I [title IX, § 902], Nov. 30, 1983, 97 Stat. 1278.)
+(Pub. L. 98–181, title I [title IX, § 902], Nov. 30, 1983, 97 Stat. 1278.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1989 Amendment**
 
-Pub. L. 101–240, title IV, § 401, Dec. 19, 1989, 103 Stat. 2501, provided that: “This title [enacting section 3904a of this title and enacting provisions set out as notes under section 3904a of this title and section 2291 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘Foreign Debt Reserving Act of 1989’.”
+Pub. L. 101–240, title IV, § 401, Dec. 19, 1989, 103 Stat. 2501, provided that: “This title [enacting section 3904a of this title and enacting provisions set out as notes under section 3904a of this title and section 2291 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘Foreign Debt Reserving Act of 1989’.”
 
 **Short Title**
 
-Pub. L. 98–181, title I [title IX, § 901], Nov. 30, 1983, 97 Stat. 1278, provided that: “This title [enacting this chapter] may be cited as the ‘International Lending Supervision Act of 1983’.”
+Pub. L. 98–181, title I [title IX, § 901], Nov. 30, 1983, 97 Stat. 1278, provided that: “This title [enacting this chapter] may be cited as the ‘International Lending Supervision Act of 1983’.”
 
 **Encouragement of Debt-for-Development Swaps Through Local Currency Repayment**
 
-Pub. L. 101–240, title V, § 531, Dec. 19, 1989, 103 Stat. 2513, provided that:
+Pub. L. 101–240, title V, § 531, Dec. 19, 1989, 103 Stat. 2513, provided that:
 
 > **“(a) Statement of Policy.—** It is the sense of the Congress that—
 
@@ -63,7 +63,7 @@ Pub. L. 101–240, title V, § 531, Dec. 19, 1989, 103 Stat. 2513, provided th
 
 > **“(4) Highly indebted country.—** The term ‘highly indebted country’ means any country designated as a ‘Highly Indebted Country’ in the annual World Debt Tables most recently published by the International Bank for Reconstruction and Development before the date of the enactment of this section [Dec. 19, 1989].”
 
-## § 3902. Definitions
+## § 3902. Definitions
 
 For purposes of this chapter—
 
@@ -71,9 +71,9 @@ For purposes of this chapter—
 
 **(A)** bank holding companies and any nonbank subsidiary thereof;
 
-**(B)** Edge Act corporations organized under section 25(a) 1
+**(B)** Edge Act corporations organized under section 25(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Reserve Act [12 U.S.C. 611 et seq.]; and
 
@@ -85,31 +85,31 @@ of the Federal Reserve Act [12 U.S.C. 611 et seq.]; and
 
 **(i)** an insured bank as defined in section 1813(h) of this title or any subsidiary of an insured bank;
 
-**(ii)** an Edge Act corporation organized under section 25(a) <sup>1</sup> of the Federal Reserve Act [12 U.S.C. 611 et seq.]; and
+**(ii)** an Edge Act corporation organized under section 25(a) <sup>1</sup> of the Federal Reserve Act [12 U.S.C. 611 et seq.]; and
 
 **(iii)** an Agreement Corporation operating under section 25 of the Federal Reserve Act [12 U.S.C. 601 et seq.]; and
 
 **(B)** to the extent determined by the appropriate Federal banking agency, any agency or branch of a foreign bank, and any commercial lending company owned or controlled by one or more foreign banks or companies that control a foreign bank as those terms are defined in the International Banking Act of 1978 [12 U.S.C. 3101 et seq.]. The term “banking institution” shall not include a foreign bank.
 
-(Pub. L. 98–181, title I [title IX, § 903], Nov. 30, 1983, 97 Stat. 1278.)
+(Pub. L. 98–181, title I [title IX, § 903], Nov. 30, 1983, 97 Stat. 1278.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 25(a) of the Federal Reserve Act, referred to in pars. (1) and (2)(A), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
+Section 25(a) of the Federal Reserve Act, referred to in pars. (1) and (2)(A), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
 
-The International Banking Act of 1978, referred to in par. (2)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§ 3101 et seq.) and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 247, 611a, and 3101 of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For definitions, see section 3101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The International Banking Act of 1978, referred to in par. (2)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§ 3101 et seq.) and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 247, 611a, and 3101 of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For definitions, see section 3101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-## § 3903. Strengthened supervision of international lending
+## § 3903. Strengthened supervision of international lending
 
 **(a)** Each appropriate Federal banking agency shall evaluate banking institution foreign country exposure and transfer risk for use in banking institution examination and supervision.
 
 **(b)** Each such agency shall establish examination and supervisory procedures to assure that factors such as foreign country exposure and transfer risk are taken into account in evaluating the adequacy of the capital of banking institutions.
 
-(Pub. L. 98–181, title I [title IX, § 904], Nov. 30, 1983, 97 Stat. 1279.)
+(Pub. L. 98–181, title I [title IX, § 904], Nov. 30, 1983, 97 Stat. 1279.)
 
-## § 3904. Reserves
+## § 3904. Reserves
 
 **(a) Establishment and maintenance of special reserves**
 
@@ -135,9 +135,9 @@ The appropriate Federal banking agencies shall analyze the results of foreign lo
 
 The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this section within one hundred and twenty days after November 30, 1983.
 
-(Pub. L. 98–181, title I [title IX, § 905], Nov. 30, 1983, 97 Stat. 1279.)
+(Pub. L. 98–181, title I [title IX, § 905], Nov. 30, 1983, 97 Stat. 1279.)
 
-## § 3904a. Additional reserve requirements
+## § 3904a. Additional reserve requirements
 
 **(a) In general**
 
@@ -165,9 +165,9 @@ Except as provided in paragraph (3), each appropriate Federal banking agency sha
 
 **(2) Report**
 
-Each appropriate Federal banking agency shall include in each report required to be made under section 3912(d) 1
+Each appropriate Federal banking agency shall include in each report required to be made under section 3912(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title after 1989 a report on the actions taken pursuant to this section.
 
@@ -179,19 +179,19 @@ Each Federal agency required to undertake a review described in subsection (a) s
 
 As used in this section, the term “highly indebted country” means any country designated as a “Highly Indebted Country” in the annual World Debt Tables most recently published by the International Bank for Reconstruction and Development before December 19, 1989.
 
-(Pub. L. 98–181, title I [title IX, § 905A], as added Pub. L. 101–240, title IV, § 402(b), Dec. 19, 1989, 103 Stat. 2501.)
+(Pub. L. 98–181, title I [title IX, § 905A], as added Pub. L. 101–240, title IV, § 402(b), Dec. 19, 1989, 103 Stat. 2501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3912(d) of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 104–208, div. A, title II, § 2224(c), Sept. 30, 1996, 110 Stat. 3009–415.
+Section 3912(d) of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 104–208, div. A, title II, § 2224(c), Sept. 30, 1996, 110 Stat. 3009–415.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Findings**
 
-Pub. L. 101–240, title IV, § 402(a), Dec. 19, 1989, 103 Stat. 2501, provided that:
+Pub. L. 101–240, title IV, § 402(a), Dec. 19, 1989, 103 Stat. 2501, provided that:
 
 > “The Congress finds that—
 
@@ -203,7 +203,7 @@ Pub. L. 101–240, title IV, § 402(a), Dec. 19, 1989, 103 Stat. 2501, provide
 
 > **“(4)** in order to fulfill the purposes of such Act, the Federal banking agencies should take a more active role in reviewing reserve levels established by United States banking institutions for potential losses from loans to highly indebted countries and in requiring appropriate levels of both special and general reserves to reflect the increased risk of such loans.”
 
-## § 3905. Accounting for fees on international loans
+## § 3905. Accounting for fees on international loans
 
 **(a)**
 
@@ -223,9 +223,9 @@ Pub. L. 101–240, title IV, § 402(a), Dec. 19, 1989, 103 Stat. 2501, provide
 
 **(3)** The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this subsection within one hundred and twenty days after November 30, 1983.
 
-(Pub. L. 98–181, title I [title IX, § 906], Nov. 30, 1983, 97 Stat. 1279.)
+(Pub. L. 98–181, title I [title IX, § 906], Nov. 30, 1983, 97 Stat. 1279.)
 
-## § 3906. Collection and disclosure of international lending data
+## § 3906. Collection and disclosure of international lending data
 
 **(a) Submission of information to Federal banking agencies**
 
@@ -239,9 +239,9 @@ Each appropriate Federal banking agency shall require, by regulation, banking in
 
 The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this section within one hundred and twenty days after November 30, 1983.
 
-(Pub. L. 98–181, title I [title IX, § 907], Nov. 30, 1983, 97 Stat. 1280.)
+(Pub. L. 98–181, title I [title IX, § 907], Nov. 30, 1983, 97 Stat. 1280.)
 
-## § 3907. Capital adequacy
+## § 3907. Capital adequacy
 
 **(a)**
 
@@ -255,9 +255,9 @@ The appropriate Federal banking agencies shall promulgate regulations or orders 
 
 **(2)**
 
-**(A)** In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the appropriate Federal banking agency may issue a directive to a banking institution that fails to maintain captial 1
+**(A)** In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the appropriate Federal banking agency may issue a directive to a banking institution that fails to maintain captial 1
 
-<sup>1</sup>  So in original. Probably should be “capital”.
+<sup>1</sup> So in original. Probably should be “capital”.
 
 at or above its required level as established pursuant to subsection (a).
 
@@ -275,7 +275,7 @@ at or above its required level as established pursuant to subsection (a).
 
 **(C)** The Chairman of the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall encourage governments, central banks, and regulatory authorities of other major banking countries to work toward maintaining and, where appropriate, strengthening the capital bases of banking institutions involved in international lending.
 
-(Pub. L. 98–181, title I [title IX, § 908], Nov. 30, 1983, 97 Stat. 1280; Pub. L. 111–203, title VI, § 616(c), July 21, 2010, 124 Stat. 1615.)
+(Pub. L. 98–181, title I [title IX, § 908], Nov. 30, 1983, 97 Stat. 1280; Pub. L. 111–203, title VI, § 616(c), July 21, 2010, 124 Stat. 1615.)
 
 **Editorial Notes**
 
@@ -289,7 +289,7 @@ at or above its required level as established pursuant to subsection (a).
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 616(e) of Pub. L. 111–203, set out as a note under section 1467a of this title.
 
-## § 3908. Foreign loan evaluations
+## § 3908. Foreign loan evaluations
 
 **(a) Projects requiring an economic feasibility evaluation; content of evaluation**
 
@@ -311,9 +311,9 @@ Such economic feasibility evaluations shall be reviewed by representatives of th
 
 **(2)** No private right of action or claim for relief may be predicated upon this section.
 
-(Pub. L. 98–181, title I [title IX, § 909], Nov. 30, 1983, 97 Stat. 1281.)
+(Pub. L. 98–181, title I [title IX, § 909], Nov. 30, 1983, 97 Stat. 1281.)
 
-## § 3909. General authorities
+## § 3909. General authorities
 
 **(a) Rules and regulations**
 
@@ -339,17 +339,17 @@ The appropriate Federal banking agencies shall establish uniform systems to impl
 
 **(2)** Such violations shall be deemed to be a violation of a final order under section 1818(i)(2) of this title and the penalty shall be assessed and collected by the appropriate Federal banking agency under the procedures established by, and subject to the rights afforded to parties in, such section.
 
-(Pub. L. 98–181, title I [title IX, § 910], Nov. 30, 1983, 97 Stat. 1282; Pub. L. 109–351, title VII, § 713(b), Oct. 13, 2006, 120 Stat. 1995.)
+(Pub. L. 98–181, title I [title IX, § 910], Nov. 30, 1983, 97 Stat. 1282; Pub. L. 109–351, title VII, § 713(b), Oct. 13, 2006, 120 Stat. 1995.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a)(2). Pub. L. 109–351, § 713(b)(1), substituted “insured depository institution” for “insured bank”.
+2006—Subsec. (a)(2). Pub. L. 109–351, § 713(b)(1), substituted “insured depository institution” for “insured bank”.
 
-Subsec. (a)(3). Pub. L. 109–351, § 713(b)(2), substituted “an ‘insured depository institution’, as such term is defined in section 1813(c)(2)” for “an ‘insured bank’, as such term is used in section 1813(h)”.
+Subsec. (a)(3). Pub. L. 109–351, § 713(b)(2), substituted “an ‘insured depository institution’, as such term is defined in section 1813(c)(2)” for “an ‘insured bank’, as such term is used in section 1813(h)”.
 
-## § 3910. Audit authority of Government Accountability Office
+## § 3910. Audit authority of Government Accountability Office
 
 **(a) Scope of audit**
 
@@ -391,7 +391,7 @@ Subsec. (a)(3). Pub. L. 109–351, § 713(b)(2), substituted “an ‘insured 
 
 **(2)** Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an appropriate Federal banking agency that the Comptroller General possesses during an audit, shall remain in such agency. The Comptroller General shall prevent unauthorized access to records or property.
 
-(Pub. L. 98–181, title I [title IX, § 911], Nov. 30, 1983, 97 Stat. 1282; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 98–181, title I [title IX, § 911], Nov. 30, 1983, 97 Stat. 1282; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -399,7 +399,7 @@ Subsec. (a)(3). Pub. L. 109–351, § 713(b)(2), substituted “an ‘insured 
 
 2004—Subsec. (b)(1)(A), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-## § 3911. Equal representation for Federal Deposit Insurance Corporation and the Office of Thrift Supervision
+## § 3911. Equal representation for Federal Deposit Insurance Corporation and the Office of Thrift Supervision
 
 **(a) In general**
 
@@ -409,7 +409,7 @@ As one of the 4 Federal bank regulatory and supervisory agencies, and as the ins
 
 As one of the 4 Federal bank regulatory and supervisory agencies, the Office of Thrift Supervision shall be given equal representation with the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation on the Committee on Banking Regulations and Supervisory Practices of the Group of Ten Countries and Switzerland.
 
-(Pub. L. 98–181, title I [title IX, § 912], Nov. 30, 1983, 97 Stat. 1284; Pub. L. 109–351, title VII, § 713(a), Oct. 13, 2006, 120 Stat. 1995.)
+(Pub. L. 98–181, title I [title IX, § 912], Nov. 30, 1983, 97 Stat. 1284; Pub. L. 109–351, title VII, § 713(a), Oct. 13, 2006, 120 Stat. 1995.)
 
 **Editorial Notes**
 
@@ -417,6 +417,6 @@ As one of the 4 Federal bank regulatory and supervisory agencies, the Office of 
 
 2006—Pub. L. 109–351 inserted “and the Office of Thrift Supervision” after “Federal Deposit Insurance Corporation” in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “As one of the 4” for “As one of the three”, and added subsec. (b).
 
-## § 3912. Repealed. Pub. L. 104–208, div. A, title II, § 2224(c), Sept. 30, 1996, 110 Stat. 3009–415
+## § 3912. Repealed. Pub. L. 104–208, div. A, title II, § 2224(c), Sept. 30, 1996, 110 Stat. 3009–415
 
-Section, Pub. L. 98–181, title I [title IX, § 913], Nov. 30, 1983, 97 Stat. 1284; Pub. L. 100–418, title III, § 3121(e), Aug. 23, 1988, 102 Stat. 1379, directed Secretary of the Treasury and certain Federal banking agencies to report to Congress, no later than 6 months after Nov. 30, 1983, regarding changes that could improve international lending operations of banking institutions.
+Section, Pub. L. 98–181, title I [title IX, § 913], Nov. 30, 1983, 97 Stat. 1284; Pub. L. 100–418, title III, § 3121(e), Aug. 23, 1988, 102 Stat. 1379, directed Secretary of the Treasury and certain Federal banking agencies to report to Congress, no later than 6 months after Nov. 30, 1983, regarding changes that could improve international lending operations of banking institutions.

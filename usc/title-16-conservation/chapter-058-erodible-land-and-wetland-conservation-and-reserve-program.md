@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—DEFINITIONS
 
-### § 3801. Definitions
+### § 3801. Definitions
 
 **(a)** For purposes of subchapters I through VIII:
 
@@ -123,9 +123,9 @@ retrieved: 2026-10-11
 
 **(22)** The term “shelterbelt” means a vegetative barrier with a linear configuration composed of trees, shrubs, and other approved perennial vegetation.
 
-**(23) Socially disadvantaged farmer or rancher.—** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e)(2) 1
+**(23) Socially disadvantaged farmer or rancher.—** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 7.
 
@@ -159,7 +159,7 @@ For purposes of this Act, and any other Act, this term shall not include lands i
 
 **(2)** lists of such soils and such vegetation.
 
-(Pub. L. 99–198, title XII, § 1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, § 1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, § 301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, § 2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, § 4(a), title II, § 2001, June 18, 2008, 122 Stat. 1664, 1753; Pub. L. 113–79, title II, § 2713(a), Feb. 7, 2014, 128 Stat. 772.)
+(Pub. L. 99–198, title XII, § 1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, § 1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, § 301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, § 2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, § 4(a), title II, § 2001, June 18, 2008, 122 Stat. 1664, 1753; Pub. L. 113–79, title II, § 2713(a), Feb. 7, 2014, 128 Stat. 772.)
 
 **Editorial Notes**
 
@@ -183,21 +183,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (a). Pub. L. 113–79 substituted “VIII” for “V” in introductory provisions.
 
-2008—Subsec. (a)(2) to (27). Pub. L. 110–246, § 2001, added pars. (2), (8), (14), (16) to (19), (23), and (25) and redesignated former pars. (2) to (18) as (3) to (7), (9) to (13), (15), (20) to (22), (24), (26), and (27), respectively.
+2008—Subsec. (a)(2) to (27). Pub. L. 110–246, § 2001, added pars. (2), (8), (14), (16) to (19), (23), and (25) and redesignated former pars. (2) to (18) as (3) to (7), (9) to (13), (15), (20) to (22), (24), (26), and (27), respectively.
 
-1996—Subsec. (a)(2) to (6). Pub. L. 104–127, § 301(a), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+1996—Subsec. (a)(2) to (6). Pub. L. 104–127, § 301(a), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
-Subsec. (a)(7). Pub. L. 104–127, § 301(b), added par. (7) and struck out former par. (7) which read as follows: “The term ‘field’ means such term as is defined in section 718.2(b)(9) of title 7 of the Code of Federal Regulations (as of January 1, 1985), except that any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title shall be considered as part of the field in which such land was included on December 23, 1985, unless the Secretary permits modification of the boundaries of the field to carry out subchapters I through V of this chapter.”
+Subsec. (a)(7). Pub. L. 104–127, § 301(b), added par. (7) and struck out former par. (7) which read as follows: “The term ‘field’ means such term as is defined in section 718.2(b)(9) of title 7 of the Code of Federal Regulations (as of January 1, 1985), except that any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title shall be considered as part of the field in which such land was included on December 23, 1985, unless the Secretary permits modification of the boundaries of the field to carry out subchapters I through V of this chapter.”
 
-Pub. L. 104–127, § 301(a)(1), redesignated par. (5) as (7). Former par. (7) redesignated (9).
+Pub. L. 104–127, § 301(a)(1), redesignated par. (5) as (7). Former par. (7) redesignated (9).
 
-Subsec. (a)(8). Pub. L. 104–127, § 301(a)(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
+Subsec. (a)(8). Pub. L. 104–127, § 301(a)(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
 
-Subsec. (a)(9). Pub. L. 104–127, § 301(a)(1), redesignated par. (7) as (9). Former par. (9) redesignated (11).
+Subsec. (a)(9). Pub. L. 104–127, § 301(a)(1), redesignated par. (7) as (9). Former par. (9) redesignated (11).
 
-Subsec. (a)(9)(C). Pub. L. 104–127, § 301(c), added subpar. (C).
+Subsec. (a)(9)(C). Pub. L. 104–127, § 301(c), added subpar. (C).
 
-Subsec. (a)(10) to (18). Pub. L. 104–127, § 301(a)(1), redesignated pars. (8) to (16) as (10) to (18), respectively.
+Subsec. (a)(10) to (18). Pub. L. 104–127, § 301(a)(1), redesignated pars. (8) to (16) as (10) to (18), respectively.
 
 1990—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for “The term ‘wetland’, except when such term is part of the term ‘converted wetland’, means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.”
 
@@ -211,23 +211,23 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–234, title III, § 3001, June 15, 2006, 120 Stat. 474, provided that: “This title [amending section 3831 of this title] may be cited as the ‘Emergency Agricultural Disaster Assistance Act of 2006’.”
+Pub. L. 109–234, title III, § 3001, June 15, 2006, 120 Stat. 474, provided that: “This title [amending section 3831 of this title] may be cited as the ‘Emergency Agricultural Disaster Assistance Act of 2006’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–7, div. N, title II, § 201, Feb. 20, 2003, 117 Stat. 538, provided that: “This title [amending sections 3832 and 3841 of this title] may be cited as the ‘Agricultural Assistance Act of 2003’.”
+Pub. L. 108–7, div. N, title II, § 201, Feb. 20, 2003, 117 Stat. 538, provided that: “This title [amending sections 3832 and 3841 of this title] may be cited as the ‘Agricultural Assistance Act of 2003’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–387, § 1(a) [title XI, § 1101], Oct. 28, 2000, 114 Stat. 1549, 1549A–75, provided that: “This title [amending sections 3831 and 3832 of this title and enacting provisions set out as notes under section 3831 of this title] may be cited as the ‘Conservation of Farmable Wetland Act of 2000’.”
+Pub. L. 106–387, § 1(a) [title XI, § 1101], Oct. 28, 2000, 114 Stat. 1549, 1549A–75, provided that: “This title [amending sections 3831 and 3832 of this title and enacting provisions set out as notes under section 3831 of this title] may be cited as the ‘Conservation of Farmable Wetland Act of 2000’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XIV, § 1401, Nov. 28, 1990, 104 Stat. 3568, provided that: “This title [enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 3157, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7] may be cited as the ‘Conservation Program Improvements Act’.”
+Pub. L. 101–624, title XIV, § 1401, Nov. 28, 1990, 104 Stat. 3568, provided that: “This title [enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 3157, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7] may be cited as the ‘Conservation Program Improvements Act’.”
 
 **Regulations**
 
-Pub. L. 110–234, title II, § 2904, May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, § 4(a), title II, § 2904, June 18, 2008, 122 Stat. 1664, 1819, provided that:
+Pub. L. 110–234, title II, § 2904, May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, § 4(a), title II, § 2904, June 18, 2008, 122 Stat. 1664, 1819, provided that:
 
 > **“(a) Issuance.—** Except as otherwise provided in this title [see Tables for classification] or an amendment made by this title, not later than 90 days after the date of enactment of this Act [June 18, 2008], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
 
@@ -249,7 +249,7 @@ Pub. L. 110–234, title II, § 2904, May 22, 2008, 122 Stat. 1091, and Pub. L
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
-Pub. L. 107–171, title II, § 2702, May 13, 2002, 116 Stat. 279, provided that:
+Pub. L. 107–171, title II, § 2702, May 13, 2002, 116 Stat. 279, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this title [see Tables for classification] or an amendment made by this title, not later than 90 days after the date of enactment of this Act [May 13, 2002], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
 
@@ -271,7 +271,7 @@ Pub. L. 107–171, title II, § 2702, May 13, 2002, 116 Stat. 279, provided th
 
 **Temporary Administration of Conservation Programs**
 
-Pub. L. 115–334, title II, § 2504, Dec. 20, 2018, 132 Stat. 4584, provided that:
+Pub. L. 115–334, title II, § 2504, Dec. 20, 2018, 132 Stat. 4584, provided that:
 
 > **“(a) Interim Administration.—** Subject to subsection (d), the Secretary [of Agriculture] shall use the applicable regulations in effect on the day before the date of enactment of this Act [Dec. 20, 2018], to the extent that the terms and conditions of those regulations are consistent with the amendments made by this title [see Tables for classification], to carry out the programs under laws as amended by this title, including—
 
@@ -283,7 +283,7 @@ Pub. L. 115–334, title II, § 2504, Dec. 20, 2018, 132 Stat. 4584, provided 
 
 > **“(4)** the agricultural conservation easement program established under subtitle H of title XII of the Food Security Act of 1985 (16 U.S.C. 3865 et seq.) (as amended by subtitle F).
 
-> **“(b) Regional Conservation Partnership Program.—** Notwithstanding subsection (e) of section 1271E of the Food Security Act of 1985 (16 U.S.C. 3871e) (as amended by section 2706), and subject to subsection (d), for fiscal year 2019, the Secretary may use an availability of program funding announcement consistent with the amendments made by subtitle G [subtitle G (§§ 2701–2707) of title II of Pub. L. 115–334, amending sections 3871 to 3871f of this title] to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 (16 U.S.C. 3871 et seq.) without issuing a regulation.
+> **“(b) Regional Conservation Partnership Program.—** Notwithstanding subsection (e) of section 1271E of the Food Security Act of 1985 (16 U.S.C. 3871e) (as amended by section 2706), and subject to subsection (d), for fiscal year 2019, the Secretary may use an availability of program funding announcement consistent with the amendments made by subtitle G [subtitle G (§§ 2701–2707) of title II of Pub. L. 115–334, amending sections 3871 to 3871f of this title] to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 (16 U.S.C. 3871 et seq.) without issuing a regulation.
 
 > **“(c) Funding.—** The Secretary may only use funds authorized to be made available by this title or the amendments made by this title for the specific programs described in paragraphs (1) through (4) of subsection (a) and subsection (b), in accordance with any restrictions on the use of those funds, for the purposes described in subsections (a) and (b).
 
@@ -291,19 +291,19 @@ Pub. L. 115–334, title II, § 2504, Dec. 20, 2018, 132 Stat. 4584, provided 
 
 > **“(e) Permanent Administration.—** Effective beginning on the termination date described in subsection (d), the Secretary shall carry out this title and the amendments made by this title in accordance with such final regulations as the Secretary considers necessary to carry out this title and the amendments made by this title.”
 
-Pub. L. 113–79, title II, § 2712, Feb. 7, 2014, 128 Stat. 771, provided that:
+Pub. L. 113–79, title II, § 2712, Feb. 7, 2014, 128 Stat. 771, provided that:
 
 > **“(a) Applicability.—** This section is applicable to activities under—
 
 > **“(1)** the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 [enacting sections 3865 to 3865d of this title and amending section 3844 of this title];
 
-> **“(2)** the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C [subtitle C (§§ 2201–2208) of title II of Pub. L. 113–79, amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title];
+> **“(2)** the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C [subtitle C (§§ 2201–2208) of title II of Pub. L. 113–79, amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title];
 
 > **“(3)** the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program being merged into the regional conservation partnership program under the amendment made by section 2401 [enacting sections 3871 to 3871f of this title]; and
 
-> **“(4)** the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A [subtitle A (§§ 2001–2008) of title II of Pub. L. 113–79, amending sections 3831, 3831b, and 3832 to 3835 of this title and repealing section 3835a of this title] and into the agricultural conservation easement program under the amendment made by section 2301.
+> **“(4)** the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A [subtitle A (§§ 2001–2008) of title II of Pub. L. 113–79, amending sections 3831, 3831b, and 3832 to 3835 of this title and repealing section 3835a of this title] and into the agricultural conservation easement program under the amendment made by section 2301.
 
-> **“(b) Interim Administration.—** Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 [16 U.S.C. 3865 et seq.], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 [16 U.S.C. 3871 et seq.], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary [of Agriculture] shall use the regulations in existence as of the day before the date of enactment of this Act [Feb. 7, 2014] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle [subtitle H (§§ 2701–2713) of title II of Pub. L. 113–79, see Tables for classification], to the extent that the terms and conditions of such regulations are consistent with—
+> **“(b) Interim Administration.—** Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 [16 U.S.C. 3865 et seq.], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 [16 U.S.C. 3871 et seq.], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary [of Agriculture] shall use the regulations in existence as of the day before the date of enactment of this Act [Feb. 7, 2014] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle [subtitle H (§§ 2701–2713) of title II of Pub. L. 113–79, see Tables for classification], to the extent that the terms and conditions of such regulations are consistent with—
 
 > **“(1)** the provisions of the agricultural conservation easement program and the regional conservation partnership program; and
 
@@ -317,23 +317,23 @@ Pub. L. 113–79, title II, § 2712, Feb. 7, 2014, 128 Stat. 771, provided tha
 
 **Continuation of Programs in Fiscal Year 2008**
 
-Pub. L. 110–234, title II, § 2903(a), May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, § 4(a), title II, § 2903(a), June 18, 2008, 122 Stat. 1664, 1819, provided that: “Except as otherwise provided by an amendment made by this title [see Tables for classification], the Secretary of Agriculture shall continue to carry out any program or activity covered by title XII of the Food Security Act (16 U.S.C. 3801 et seq.) until September 30, 2008, using the provisions of law applicable to the program or activity as they existed on the day before the date of the enactment of this Act [June 18, 2008] and using funds made available under such title for fiscal year 2008 for the program or activity.”
+Pub. L. 110–234, title II, § 2903(a), May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, § 4(a), title II, § 2903(a), June 18, 2008, 122 Stat. 1664, 1819, provided that: “Except as otherwise provided by an amendment made by this title [see Tables for classification], the Secretary of Agriculture shall continue to carry out any program or activity covered by title XII of the Food Security Act (16 U.S.C. 3801 et seq.) until September 30, 2008, using the provisions of law applicable to the program or activity as they existed on the day before the date of the enactment of this Act [June 18, 2008] and using funds made available under such title for fiscal year 2008 for the program or activity.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 **Reform and Assessment of Conservation Programs**
 
-Pub. L. 107–171, title II, § 2005, May 13, 2002, 116 Stat. 237, required the Secretary of Agriculture to develop a plan to coordinate land retirement and agricultural working land conservation programs that are administered by the Secretary to achieve the goals of eliminating redundancy, streamlining program delivery, and improving services provided to agricultural producers and to submit to Congress a report on this plan by Dec. 31, 2005.
+Pub. L. 107–171, title II, § 2005, May 13, 2002, 116 Stat. 237, required the Secretary of Agriculture to develop a plan to coordinate land retirement and agricultural working land conservation programs that are administered by the Secretary to achieve the goals of eliminating redundancy, streamlining program delivery, and improving services provided to agricultural producers and to submit to Congress a report on this plan by Dec. 31, 2005.
 
 **Conservation Corridor Demonstration Program**
 
-Pub. L. 110–114, title V, § 5059, Nov. 8, 2007, 121 Stat. 1215, which authorized the Secretary of the Army to provide technical assistance to the Secretary of Agriculture for use in carrying out the Conservation Corridor Demonstration Program established under subtitle G of title II of Pub. L. 107–171, formerly set out below, was repealed by Pub. L. 115–334, title II, § 2811(b), Dec. 20, 2018, 132 Stat. 4602.
+Pub. L. 110–114, title V, § 5059, Nov. 8, 2007, 121 Stat. 1215, which authorized the Secretary of the Army to provide technical assistance to the Secretary of Agriculture for use in carrying out the Conservation Corridor Demonstration Program established under subtitle G of title II of Pub. L. 107–171, formerly set out below, was repealed by Pub. L. 115–334, title II, § 2811(b), Dec. 20, 2018, 132 Stat. 4602.
 
-Pub. L. 107–171, title II, subtitle G, May 13, 2002, 116 Stat. 275, which related to a Conservation Corridor Demonstration Program to integrate agriculture and forestry conservation programs of the Department of Agriculture with State and local efforts to address farm conservation needs on the Delmarva Peninsula, was repealed by Pub. L. 115–334, title II, § 2811(a), Dec. 20, 2018, 132 Stat. 4602.
+Pub. L. 107–171, title II, subtitle G, May 13, 2002, 116 Stat. 275, which related to a Conservation Corridor Demonstration Program to integrate agriculture and forestry conservation programs of the Department of Agriculture with State and local efforts to address farm conservation needs on the Delmarva Peninsula, was repealed by Pub. L. 115–334, title II, § 2811(a), Dec. 20, 2018, 132 Stat. 4602.
 
 **Cranberry Acreage Reserve Program**
 
-Pub. L. 107–171, title X, § 10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture to establish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas, was repealed by Pub. L. 115–334, title II, § 2812, Dec. 20, 2018, 132 Stat. 4602.
+Pub. L. 107–171, title X, § 10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture to establish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas, was repealed by Pub. L. 115–334, title II, § 2812, Dec. 20, 2018, 132 Stat. 4602.
 
 **Executive Documents**
 
@@ -343,7 +343,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ## SUBCHAPTER II—HIGHLY ERODIBLE LAND CONSERVATION
 
-### § 3811. Program ineligibility
+### § 3811. Program ineligibility
 
 **(a) In general** Except as provided in section 3812 of this title, and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominant, or designates land on which highly erodible land is predominant to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
 
@@ -357,7 +357,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(D)** a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land; or
 
@@ -383,43 +383,43 @@ if the Secretary determines that the proceeds of such loan will be used for a pu
 
 The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
-(Pub. L. 99–198, title XII, § 1211, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 101–624, title XIV, § 1411, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, § 204(1), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, § 311, Apr. 4, 1996, 110 Stat. 982; Pub. L. 107–171, title II, § 2002(a), May 13, 2002, 116 Stat. 233; Pub. L. 113–79, title II, §§ 2611(a)(1), 2713(b), Feb. 7, 2014, 128 Stat. 762, 772; Pub. L. 115–334, title II, § 2301(d)(1)(A), Dec. 20, 2018, 132 Stat. 4553.)
+(Pub. L. 99–198, title XII, § 1211, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 101–624, title XIV, § 1411, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, § 204(1), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, § 311, Apr. 4, 1996, 110 Stat. 982; Pub. L. 107–171, title II, § 2002(a), May 13, 2002, 116 Stat. 233; Pub. L. 113–79, title II, §§ 2611(a)(1), 2713(b), Feb. 7, 2014, 128 Stat. 762, 772; Pub. L. 115–334, title II, § 2301(d)(1)(A), Dec. 20, 2018, 132 Stat. 4553.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Market Transition Act, referred to in subsec. (a)(1)(A), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (a)(1)(A), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (a)(1)(E), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (a)(1)(E), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 **Amendments**
 
 2018—Subsec. (a)(3)(A). Pub. L. 115–334 inserted “subpart A of” before “part IV”.
 
-2014—Subsec. (a). Pub. L. 113–79, § 2713(b), substituted “predominant” for “predominate” in two places in introductory provisions.
+2014—Subsec. (a). Pub. L. 113–79, § 2713(b), substituted “predominant” for “predominate” in two places in introductory provisions.
 
-Subsec. (a)(1)(E). Pub. L. 113–79, § 2611(a)(1), added subpar. (E).
+Subsec. (a)(1)(E). Pub. L. 113–79, § 2611(a)(1), added subpar. (E).
 
 2002—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1996—Pub. L. 104–127, § 311(1), struck out “following December 23, 1985,” before “any person who” in introductory provisions.
+1996—Pub. L. 104–127, § 311(1), struck out “following December 23, 1985,” before “any person who” in introductory provisions.
 
-Par. (1)(A). Pub. L. 104–127, § 311(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “any type of price support or payment made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;”.
+Par. (1)(A). Pub. L. 104–127, § 311(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “any type of price support or payment made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;”.
 
-Par. (1)(C). Pub. L. 104–127, § 311(2)(B), (E), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.);”.
+Par. (1)(C). Pub. L. 104–127, § 311(2)(B), (E), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.);”.
 
-Par. (1)(D). Pub. L. 104–127, § 311(2)(E), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
+Par. (1)(D). Pub. L. 104–127, § 311(2)(E), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
-Pub. L. 104–127, § 311(2)(C), struck out before semicolon “made under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), under section 132 of the Disaster Assistance Act of 1989 (7 U.S.C. 1421 note), or under any similar provision enacted subsequent to August 14, 1989”.
+Pub. L. 104–127, § 311(2)(C), struck out before semicolon “made under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), under section 132 of the Disaster Assistance Act of 1989 (7 U.S.C. 1421 note), or under any similar provision enacted subsequent to August 14, 1989”.
 
-Par. (1)(E). Pub. L. 104–127, § 311(2)(D), (E), substituted “Consolidated Farm Service Agency” for “Farmers Home Administration” and redesignated subpar. (E) as (D).
+Par. (1)(E). Pub. L. 104–127, § 311(2)(D), (E), substituted “Consolidated Farm Service Agency” for “Farmers Home Administration” and redesignated subpar. (E) as (D).
 
-Par. (3). Pub. L. 104–127, § 311(3), added par. (3) and struck out former par. (3) which read as follows: “during such crop year—
+Par. (3). Pub. L. 104–127, § 311(3), added par. (3) and struck out former par. (3) which read as follows: “during such crop year—
 
 “(A) a payment made under section 590h, section 590*l* or section 590p(b) of this title;
 
@@ -433,25 +433,25 @@ Par. (3). Pub. L. 104–127, § 311(3), added par. (3) and struck out former p
 
 “(F) a payment, loan or other assistance under section 1003 or section 1006a of this title.”
 
-1991—Par. (1)(D). Pub. L. 102–237, § 204(1)(A), substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
+1991—Par. (1)(D). Pub. L. 102–237, § 204(1)(A), substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
 
-Par. (3)(D), (E). Pub. L. 102–237, § 204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
+Par. (3)(D), (E). Pub. L. 102–237, § 204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
 
-1990—Pub. L. 101–624, § 1411(1), inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
+1990—Pub. L. 101–624, § 1411(1), inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
 
-Par. (1)(D). Pub. L. 101–624, § 1411(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
+Par. (1)(D). Pub. L. 101–624, § 1411(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
 
-Par. (3). Pub. L. 101–624, § 1411(3)–(5), added par. (3).
+Par. (3). Pub. L. 101–624, § 1411(3)–(5), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of Title 7, Agriculture, by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of Title 7, Agriculture, by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–127, title III, § 311, Apr. 4, 1996, 110 Stat. 982, provided that the amendment made by that section is effective 90 days after Apr. 4, 1996.
+Pub. L. 104–127, title III, § 311, Apr. 4, 1996, 110 Stat. 982, provided that the amendment made by that section is effective 90 days after Apr. 4, 1996.
 
 **Short Title**
 
@@ -459,7 +459,7 @@ Pub. L. 99–198, title XII, subtitle B, Dec. 23, 1985, 99 Stat. 1506, which is 
 
 **Wind Erosion Estimation Pilot Project**
 
-Pub. L. 104–127, title III, § 317, Apr. 4, 1996, 110 Stat. 986, provided that:
+Pub. L. 104–127, title III, § 317, Apr. 4, 1996, 110 Stat. 986, provided that:
 
 > **“(a) In General.—** The Secretary of Agriculture shall conduct a pilot project to review, and modify as appropriate, the use of wind erosion factors under the highly erodible conservation requirements of subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.).
 
@@ -473,7 +473,7 @@ Pub. L. 104–127, title III, § 317, Apr. 4, 1996, 110 Stat. 986, provided th
 
 > **“(c) Errors in Delineation.—** If the Secretary determines that a significant error has occurred in delineating cropland under the pilot project, the Secretary shall, at the request of the owners or operators of the cropland, conduct a new delineation of the cropland using the most accurate available delineation process, as determined by the Secretary.”
 
-### § 3812. Exemptions
+### § 3812. Exemptions
 
 **(a) Persons eligible for program benefits in connection with production or reduced production of crops on certain lands; eligibility based upon compliance with conservation plan by January 1, 1995; minimization of documentation**
 
@@ -585,7 +585,7 @@ Any person whose benefits are reduced for any crop year under this subsection sh
 
 Section 3811 of this title shall not apply to the noncommercial production of agricultural commodities on a farm if such production is limited to two acres or less and if the Secretary determines that such production is not intended to circumvent the conservation requirements otherwise applicable to lands under this subchapter.
 
-(Pub. L. 99–198, title XII, § 1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§ 2, 3, Apr. 24, 1987, 101 Stat. 291; Pub. L. 101–624, title XIV, § 1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, § 204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§ 301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983; Pub. L. 110–234, title II, § 2002, May 22, 2008, 122 Stat. 1027; Pub. L. 110–246, § 4(a), title II, § 2002, June 18, 2008, 122 Stat. 1664, 1755; Pub. L. 113–79, title II, § 2611(a)(2), Feb. 7, 2014, 128 Stat. 762.)
+(Pub. L. 99–198, title XII, § 1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§ 2, 3, Apr. 24, 1987, 101 Stat. 291; Pub. L. 101–624, title XIV, § 1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, § 204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§ 301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983; Pub. L. 110–234, title II, § 2002, May 22, 2008, 122 Stat. 1027; Pub. L. 110–246, § 4(a), title II, § 2002, June 18, 2008, 122 Stat. 1664, 1755; Pub. L. 113–79, title II, § 2611(a)(2), Feb. 7, 2014, 128 Stat. 762.)
 
 **Editorial Notes**
 
@@ -595,7 +595,7 @@ Section 2611(a) of the Agricultural Act of 2014, referred to in subsec. (a)(2)(C
 
 This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359. Title X of the Act enacted section 1446h of Title 7 and amended section 1425a of Title 7. Title XII of the Act, known as the Forest Stewardship Act of 1990, is classified principally to amended chapter 41 (§ 2101 et seq.) of this title. Title XIII of the Act enacted sections 138 to 138i and 499b–1 of Title 7, amended sections 499c, 608c, and 608e–1 of Title 7, and enacted provisions set out as notes under sections 499a and 1622 of Title 7. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359. Title X of the Act enacted section 1446h of Title 7 and amended section 1425a of Title 7. Title XII of the Act, known as the Forest Stewardship Act of 1990, is classified principally to amended chapter 41 (§ 2101 et seq.) of this title. Title XIII of the Act enacted sections 138 to 138i and 499b–1 of Title 7, amended sections 499c, 608c, and 608e–1 of Title 7, and enacted provisions set out as notes under sections 499a and 1622 of Title 7. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
 
 **Codification**
 
@@ -605,61 +605,61 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (a)(2). Pub. L. 113–79 inserted par. (2) heading, designated first sentence as subpar. (A) and inserted heading, designated second sentence as subpar. (B) and inserted heading, and added subpar. (C).
 
-2008—Subsec. (f). Pub. L. 110–246, § 2002, added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
+2008—Subsec. (f). Pub. L. 110–246, § 2002, added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
 
-1996—Subsec. (a)(2). Pub. L. 104–127, § 301(d)(1), in first sentence, struck out “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary” after “applying a conservation plan”.
+1996—Subsec. (a)(2). Pub. L. 104–127, § 301(d)(1), in first sentence, struck out “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary” after “applying a conservation plan”.
 
-Subsec. (a)(3). Pub. L. 104–127, § 312, substituted “shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person’s conservation plan requires structures to be constructed, the person shall” for “shall, if the conservation plan established under this subchapter for such land requires structures to be constructed,”.
+Subsec. (a)(3). Pub. L. 104–127, § 312, substituted “shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person’s conservation plan requires structures to be constructed, the person shall” for “shall, if the conservation plan established under this subchapter for such land requires structures to be constructed,”.
 
-Subsec. (c)(3). Pub. L. 104–127, § 301(d)(2), substituted “, in which case,” for “based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary,”.
+Subsec. (c)(3). Pub. L. 104–127, § 301(d)(2), substituted “, in which case,” for “based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary,”.
 
-Subsec. (e)(1)(A). Pub. L. 104–127, § 301(d)(3), substituted “conservation plan” for “conservation compliance plan”.
+Subsec. (e)(1)(A). Pub. L. 104–127, § 301(d)(3), substituted “conservation plan” for “conservation compliance plan”.
 
-Subsec. (f)(1). Pub. L. 104–127, § 313(a), substituted “No person” for “Except to the extent provided in paragraph (2), no person” and substituted “the person has acted in good faith and without an intent to violate this subchapter. A person who meets the requirements of this paragraph shall be allowed a reasonable period of time, as determined by the Secretary, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively applying the person’s conservation plan.” for “such person has—
+Subsec. (f)(1). Pub. L. 104–127, § 313(a), substituted “No person” for “Except to the extent provided in paragraph (2), no person” and substituted “the person has acted in good faith and without an intent to violate this subchapter. A person who meets the requirements of this paragraph shall be allowed a reasonable period of time, as determined by the Secretary, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively applying the person’s conservation plan.” for “such person has—
 
 “(A) not violated the provisions of section 3811 of this title within the previous 5 years on a farm; and
 
 “(B) acted in good faith and without the intent to violate the provisions of this subchapter.”
 
-Pub. L. 104–127, § 301(d)(4)(A), struck out “that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatment measures and schedules prepared under subsection (a) of this section” after “apply a conservation plan”.
+Pub. L. 104–127, § 301(d)(4)(A), struck out “that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatment measures and schedules prepared under subsection (a) of this section” after “apply a conservation plan”.
 
-Subsec. (f)(2). Pub. L. 104–127, § 313(b), substituted “with respect to highly erodible cropland that was not in production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions” for “meets the requirements of paragraph (1)”.
+Subsec. (f)(2). Pub. L. 104–127, § 313(b), substituted “with respect to highly erodible cropland that was not in production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions” for “meets the requirements of paragraph (1)”.
 
-Subsec. (f)(3). Pub. L. 104–127, § 301(d)(4)(B), struck out “prepared under subsection (a) of this section” after “a conservation plan”.
+Subsec. (f)(3). Pub. L. 104–127, § 301(d)(4)(B), struck out “prepared under subsection (a) of this section” after “a conservation plan”.
 
-Subsec. (f)(4). Pub. L. 104–127, § 313(c), struck out concluding sentence which read as follows: “A determination or the granting of a variance by the Secretary under this paragraph shall not be counted as a violation for the purposes of paragraph (1)(A).”
+Subsec. (f)(4). Pub. L. 104–127, § 313(c), struck out concluding sentence which read as follows: “A determination or the granting of a variance by the Secretary under this paragraph shall not be counted as a violation for the purposes of paragraph (1)(A).”
 
-Pub. L. 104–127, § 301(d)(4)(C), in introductory provisions, struck out “that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatment measures and schedules prepared under subsection (a) of this section” after “apply a conservation plan”.
+Pub. L. 104–127, § 301(d)(4)(C), in introductory provisions, struck out “that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatment measures and schedules prepared under subsection (a) of this section” after “apply a conservation plan”.
 
-Subsec. (f)(4)(C). Pub. L. 104–127, § 314(1), substituted “problem, including weather, pest, and disease problems” for “problem”.
+Subsec. (f)(4)(C). Pub. L. 104–127, § 314(1), substituted “problem, including weather, pest, and disease problems” for “problem”.
 
-Subsec. (f)(5). Pub. L. 104–127, § 314(2), added par. (5).
+Subsec. (f)(5). Pub. L. 104–127, § 314(2), added par. (5).
 
-1991—Subsec. (f)(4)(A). Pub. L. 102–237, § 204(2)(A), substituted “such violation” for “such violations” after “which”.
+1991—Subsec. (f)(4)(A). Pub. L. 102–237, § 204(2)(A), substituted “such violation” for “such violations” after “which”.
 
-Subsec. (g)(2). Pub. L. 102–235, § 204(2)(B), struck out comma after “XIII”.
+Subsec. (g)(2). Pub. L. 102–235, § 204(2)(B), struck out comma after “XIII”.
 
-1990—Subsec. (a)(3), (4). Pub. L. 101–624, § 1412(a), added pars. (3) and (4).
+1990—Subsec. (a)(3), (4). Pub. L. 101–624, § 1412(a), added pars. (3) and (4).
 
-Subsec. (b)(1), (2). Pub. L. 101–624, § 1412(b)(1), (2), inserted “or” in par. (1) and substituted a period for a semicolon in par. (2).
+Subsec. (b)(1), (2). Pub. L. 101–624, § 1412(b)(1), (2), inserted “or” in par. (1) and substituted a period for a semicolon in par. (2).
 
-Subsec. (b)(3) to (5). Pub. L. 101–624, § 1412(b)(4), redesignated pars. (3) to (5) as pars. (1) to (3), respectively, of subsec. (c).
+Subsec. (b)(3) to (5). Pub. L. 101–624, § 1412(b)(4), redesignated pars. (3) to (5) as pars. (1) to (3), respectively, of subsec. (c).
 
-Subsec. (c). Pub. L. 101–624, § 1412(b)(3), (4), added subsec. (c) introductory provisions, and redesignated former subsec. (c) as (d).
+Subsec. (c). Pub. L. 101–624, § 1412(b)(3), (4), added subsec. (c) introductory provisions, and redesignated former subsec. (c) as (d).
 
-Subsec. (c)(1). Pub. L. 101–624, § 1412(b)(4), (5), redesignated par. (3) of subsec. (b) as par. (1) of subsec. (c) and in subpar. (B) inserted “for the protection of highly erodible land that has been set aside or” after “adequate”.
+Subsec. (c)(1). Pub. L. 101–624, § 1412(b)(4), (5), redesignated par. (3) of subsec. (b) as par. (1) of subsec. (c) and in subpar. (B) inserted “for the protection of highly erodible land that has been set aside or” after “adequate”.
 
-Subsec. (c)(2). Pub. L. 101–624, § 1412(b)(4), (6), redesignated par. (4) of subsec. (b) as par. (2) of subsec. (c) and inserted “or set aside” in two places.
+Subsec. (c)(2). Pub. L. 101–624, § 1412(b)(4), (6), redesignated par. (4) of subsec. (b) as par. (2) of subsec. (c) and inserted “or set aside” in two places.
 
-Subsec. (c)(3). Pub. L. 101–624, § 1412(b)(4), redesignated par. (5) of subsec. (b) as par. (3) of subsec. (c).
+Subsec. (c)(3). Pub. L. 101–624, § 1412(b)(4), redesignated par. (5) of subsec. (b) as par. (3) of subsec. (c).
 
-Subsec. (d). Pub. L. 101–624, § 1412(b)(3), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 101–624, § 1412(b)(3), redesignated subsec. (c) as (d).
 
-Subsecs. (e) to (h). Pub. L. 101–624, § 1412(c)–(f), added subsecs. (e) to (h).
+Subsecs. (e) to (h). Pub. L. 101–624, § 1412(c)–(f), added subsecs. (e) to (h).
 
-1987—Subsec. (a)(2). Pub. L. 100–28, § 3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
+1987—Subsec. (a)(2). Pub. L. 100–28, § 3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
 
-Subsec. (b)(5). Pub. L. 100–28, § 2(b), added par. (5).
+Subsec. (b)(5). Pub. L. 100–28, § 2(b), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -667,7 +667,7 @@ Subsec. (b)(5). Pub. L. 100–28, § 2(b), added par. (5).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 3812a. Development and implementation of conservation plans and conservation systems
+### § 3812a. Development and implementation of conservation plans and conservation systems
 
 **(a) Technical requirements** In connection with the standards and guidelines contained in Natural Resources Conservation Service field office technical guides applicable to the development and use of conservation measures and management practices as part of a conservation system, the Secretary shall ensure that the standards and guidelines permit a person to use a conservation system that—
 
@@ -725,7 +725,7 @@ The Secretary shall, using available resources and consistent with the Secretary
 
 To encourage on-farm conservation research, the Secretary may allow a person to include in the person’s conservation plan or a conservation system under the plan, on a field trial basis, practices that are not currently approved but that the Secretary considers have a reasonable likelihood of success.
 
-(Pub. L. 99–198, title XII, § 1213, as added Pub. L. 104–127, title III, § 315(a)(2), Apr. 4, 1996, 110 Stat. 984; amended Pub. L. 113–79, title II, § 2611(a)(3), Feb. 7, 2014, 128 Stat. 763.)
+(Pub. L. 99–198, title XII, § 1213, as added Pub. L. 104–127, title III, § 315(a)(2), Apr. 4, 1996, 110 Stat. 984; amended Pub. L. 113–79, title II, § 2611(a)(3), Feb. 7, 2014, 128 Stat. 763.)
 
 **Editorial Notes**
 
@@ -737,13 +737,13 @@ A prior section 1213 of Pub. L. 99–198 was renumbered section 1214 and is clas
 
 2014—Subsec. (d)(4). Pub. L. 113–79 added par. (4).
 
-### § 3813. Soil surveys
+### § 3813. Soil surveys
 
 The Secretary shall, as soon as is practicable after December 23, 1985, complete soil surveys on those private lands that do not have a soil survey suitable for use in determining the land capability class for purposes of this subchapter. In carrying out this section, the Secretary shall, insofar as possible, concentrate on those localities where significant amounts of highly erodible land are being converted to the production of agricultural commodities.
 
-(Pub. L. 99–198, title XII, § 1214, formerly § 1213, Dec. 23, 1985, 99 Stat. 1507; renumbered § 1214, Pub. L. 104–127, title III, § 315(a)(1), Apr. 4, 1996, 110 Stat. 983.)
+(Pub. L. 99–198, title XII, § 1214, formerly § 1213, Dec. 23, 1985, 99 Stat. 1507; renumbered § 1214, Pub. L. 104–127, title III, § 315(a)(1), Apr. 4, 1996, 110 Stat. 983.)
 
-### § 3814. Notice and investigation of possible compliance deficiencies
+### § 3814. Notice and investigation of possible compliance deficiencies
 
 **(a) In general**
 
@@ -757,11 +757,11 @@ The responsible persons shall attempt to correct the deficiencies as soon as pra
 
 If the corrective action is not fully implemented not later than 1 year after the responsible persons receive the information, the Secretary may conduct a review of the status of compliance of the persons with the conservation plan and this subchapter.
 
-(Pub. L. 99–198, title XII, § 1215, as added Pub. L. 104–127, title III, § 316, Apr. 4, 1996, 110 Stat. 985.)
+(Pub. L. 99–198, title XII, § 1215, as added Pub. L. 104–127, title III, § 316, Apr. 4, 1996, 110 Stat. 985.)
 
 ## SUBCHAPTER III—WETLAND CONSERVATION
 
-### § 3821. Program ineligibility
+### § 3821. Program ineligibility
 
 **(a) Production on converted wetland** Except as provided in this subchapter and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on converted wetland, as determined by the Secretary, shall be—
 
@@ -775,7 +775,7 @@ If the corrective action is not fully implemented not later than 1 year after th
 
 **(2)** A loan made or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 if the Secretary determines that the proceeds of the loan will be used for a purpose that will contribute to conversion of a wetland (other than as provided in this subchapter) to produce an agricultural commodity.
 
@@ -909,71 +909,71 @@ This section shall not apply to a loan described in subsection (b) made before D
 
 The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
-(Pub. L. 99–198, title XII, § 1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, § 1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, § 204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, § 308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, § 321, Apr. 4, 1996, 110 Stat. 986; Pub. L. 107–171, title II, § 2002(b), May 13, 2002, 116 Stat. 233; Pub. L. 113–79, title II, § 2611(b), Feb. 7, 2014, 128 Stat. 763; Pub. L. 115–334, title II, §§ 2101, 2301(d)(1)(B), Dec. 20, 2018, 132 Stat. 4530, 4553.)
+(Pub. L. 99–198, title XII, § 1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, § 1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, § 204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, § 308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, § 321, Apr. 4, 1996, 110 Stat. 986; Pub. L. 107–171, title II, § 2002(b), May 13, 2002, 116 Stat. 233; Pub. L. 113–79, title II, § 2611(b), Feb. 7, 2014, 128 Stat. 763; Pub. L. 115–334, title II, §§ 2101, 2301(d)(1)(B), Dec. 20, 2018, 132 Stat. 4530, 4553.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Market Transition Act, referred to in subsec. (b)(1), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (b)(1), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (c)(1)(A), (3)(A), (E)(i), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (c)(1)(A), (3)(A), (E)(i), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 Section 2611(b) of the Agricultural Act of 2014, referred to in subsec. (c)(3)(B), is section 2611(b) of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 763, which amended this section.
 
 **Amendments**
 
-2018—Subsec. (b)(3)(A). Pub. L. 115–334, § 2301(d)(1)(B), inserted “subpart A of” before “part IV”.
+2018—Subsec. (b)(3)(A). Pub. L. 115–334, § 2301(d)(1)(B), inserted “subpart A of” before “part IV”.
 
-Subsec. (d). Pub. L. 115–334, § 2101, designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (d). Pub. L. 115–334, § 2101, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 2014—Subsecs. (c) to (f). Pub. L. 113–79 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
-1996—Pub. L. 104–127, § 321(a)(2), reenacted section catchline without change.
+1996—Pub. L. 104–127, § 321(a)(2), reenacted section catchline without change.
 
-Subsec. (a). Pub. L. 104–127, § 321(a)(2), added subsec. (a) and struck out former subsec. (a) which related to ineligibility of persons producing an agricultural commodity on converted wetland to receive certain Federal payments, loans, insurance benefits, and other benefits.
+Subsec. (a). Pub. L. 104–127, § 321(a)(2), added subsec. (a) and struck out former subsec. (a) which related to ineligibility of persons producing an agricultural commodity on converted wetland to receive certain Federal payments, loans, insurance benefits, and other benefits.
 
-Subsec. (b). Pub. L. 104–127, § 321(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 104–127, § 321(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–127, § 321(b)(1), inserted heading and substituted “beginning after November 28, 1990,” for “subsequent to November 28, 1990,” and “subsection (b)” for “subsections (a)(1) through (3)”.
+Subsec. (c). Pub. L. 104–127, § 321(b)(1), inserted heading and substituted “beginning after November 28, 1990,” for “subsequent to November 28, 1990,” and “subsection (b)” for “subsections (a)(1) through (3)”.
 
-Pub. L. 104–127, § 321(a)(1), redesignated subsec. (b) as (c).
+Pub. L. 104–127, § 321(a)(1), redesignated subsec. (b) as (c).
 
-Subsec. (d). Pub. L. 104–127, § 321(b)(2), added subsec. (d).
+Subsec. (d). Pub. L. 104–127, § 321(b)(2), added subsec. (d).
 
 1992—Subsec. (a)(1)(D). Pub. L. 102–552 made technical correction to directory language of Pub. L. 102–237. See 1991 Amendment note below.
 
 1991—Subsec. (a)(1)(D). Pub. L. 102–237, as amended by Pub. L. 102–552, substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1421(b)(1), designated existing provisions as subsec. (a).
+1990—Subsec. (a). Pub. L. 101–624, § 1421(b)(1), designated existing provisions as subsec. (a).
 
-Subsec. (a)(1)(D). Pub. L. 101–624, § 1421(b)(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
+Subsec. (a)(1)(D). Pub. L. 101–624, § 1421(b)(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
 
-Subsec. (a)(3). Pub. L. 101–624, § 1421(b)(3)–(5), added par. (3).
+Subsec. (a)(3). Pub. L. 101–624, § 1421(b)(3)–(5), added par. (3).
 
-Subsec. (b). Pub. L. 101–624, § 1421(b)(6), added subsec. (b).
+Subsec. (b). Pub. L. 101–624, § 1421(b)(6), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of Title 7, Agriculture, by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of Title 7, Agriculture, by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–127, title III, § 326, Apr. 4, 1996, 110 Stat. 992, provided that: “This subtitle [subtitle C (§§ 321–326) of title III of Pub. L. 104–127, enacting section 3823 of this title, amending this section and section 3822 of this title, and repealing former section 3823 of this title] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act [Apr. 4, 1996].”
+Pub. L. 104–127, title III, § 326, Apr. 4, 1996, 110 Stat. 992, provided that: “This subtitle [subtitle C (§§ 321–326) of title III of Pub. L. 104–127, enacting section 3823 of this title, amending this section and section 3822 of this title, and repealing former section 3823 of this title] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act [Apr. 4, 1996].”
 
 **Short Title**
 
 Pub. L. 99–198, title XII, subtitle C, Dec. 23, 1985, 99 Stat. 1507, which is classified generally to this subchapter, is popularly known as the swampbuster provisions.
 
-### § 3822. Delineation of wetlands; exemptions
+### § 3822. Delineation of wetlands; exemptions
 
 **(a) Delineation by Secretary**
 
@@ -1117,9 +1117,9 @@ For purposes of applying the minimal effect exemption under subsection (f)(1), t
 
 **(g) Mitigation appeals**
 
-A person shall be afforded the right to appeal, under section 3843 1
+A person shall be afforded the right to appeal, under section 3843 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the imposition of a mitigation agreement requiring greater than one-to-one acreage mitigation to which the person is subject.
 
@@ -1167,13 +1167,13 @@ Subsection (f)(2)(C) shall not apply to this subsection.
 
 The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
 
-(Pub. L. 99–198, title XII, § 1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, § 1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, § 322, Apr. 4, 1996, 110 Stat. 987; Pub. L. 110–234, title II, § 2003, May 22, 2008, 122 Stat. 1028; Pub. L. 110–246, § 4(a), title II, § 2003, June 18, 2008, 122 Stat. 1664, 1756; Pub. L. 113–79, title II, § 2609, Feb. 7, 2014, 128 Stat. 761; Pub. L. 115–334, title II, §§ 2102, 2103, 2821(b), Dec. 20, 2018, 132 Stat. 4530, 4602.)
+(Pub. L. 99–198, title XII, § 1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, § 1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, § 322, Apr. 4, 1996, 110 Stat. 987; Pub. L. 110–234, title II, § 2003, May 22, 2008, 122 Stat. 1028; Pub. L. 110–246, § 4(a), title II, § 2003, June 18, 2008, 122 Stat. 1664, 1756; Pub. L. 113–79, title II, § 2609, Feb. 7, 2014, 128 Stat. 761; Pub. L. 115–334, title II, §§ 2102, 2103, 2821(b), Dec. 20, 2018, 132 Stat. 4530, 4602.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3843 of this title, referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843, which did not relate to appeal procedures, was subsequently repealed by Pub. L. 113–79, title II, § 2710(a), Feb. 7, 2014, 128 Stat. 770.
+Section 3843 of this title, referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843, which did not relate to appeal procedures, was subsequently repealed by Pub. L. 113–79, title II, § 2710(a), Feb. 7, 2014, 128 Stat. 770.
 
 **Codification**
 
@@ -1181,33 +1181,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (c). Pub. L. 115–334, § 2102, designated existing provisions as par. (1), inserted heading, inserted “, which, except as provided in paragraph (2), shall be conducted in the presence of the affected person” before period at end, and added par. (2).
+2018—Subsec. (c). Pub. L. 115–334, § 2102, designated existing provisions as par. (1), inserted heading, inserted “, which, except as provided in paragraph (2), shall be conducted in the presence of the affected person” before period at end, and added par. (2).
 
-Subsec. (j). Pub. L. 115–334, § 2821(b), substituted “Natural Resources Conservation Service” for “National Resources Conservation Service”.
+Subsec. (j). Pub. L. 115–334, § 2821(b), substituted “Natural Resources Conservation Service” for “National Resources Conservation Service”.
 
-Subsec. (k)(1)(B). Pub. L. 115–334, § 2103, amended subpar. (B) generally. Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $10,000,000, to remain available until expended, to carry out this paragraph.”
+Subsec. (k)(1)(B). Pub. L. 115–334, § 2103, amended subpar. (B) generally. Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $10,000,000, to remain available until expended, to carry out this paragraph.”
 
 2014—Subsec. (k). Pub. L. 113–79 amended subsec. (k) generally. Prior to amendment, text read as follows: “Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.”
 
-2008—Subsec. (h)(2), (3). Pub. L. 110–246, § 2003, added par. (2), redesignated former par. (2) as (3), and inserted “be” before “actively”.
+2008—Subsec. (h)(2), (3). Pub. L. 110–246, § 2003, added par. (2), redesignated former par. (2) as (3), and inserted “be” before “actively”.
 
-1996—Subsec. (a). Pub. L. 104–127, § 322(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text consisted of pars. (1) to (4) relating to delineation of wetlands.
+1996—Subsec. (a). Pub. L. 104–127, § 322(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text consisted of pars. (1) to (4) relating to delineation of wetlands.
 
-Subsec. (b). Pub. L. 104–127, § 322(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1)(A) to (D) and (2)(A) and (B) relating to exemptions.
+Subsec. (b). Pub. L. 104–127, § 322(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1)(A) to (D) and (2)(A) and (B) relating to exemptions.
 
-Subsec. (d). Pub. L. 104–127, § 322(c), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Section 3821 of this title shall not apply to a loan described in section 3821 of this title made before December 23, 1985.”
+Subsec. (d). Pub. L. 104–127, § 322(c), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Section 3821 of this title shall not apply to a loan described in section 3821 of this title made before December 23, 1985.”
 
-Subsec. (f). Pub. L. 104–127, § 322(d), added subsec. (f) and struck out heading and text of former subsec. (f). Text consisted of pars. (1) to (3) relating to minimal effect and mitigation exemptions.
+Subsec. (f). Pub. L. 104–127, § 322(d), added subsec. (f) and struck out heading and text of former subsec. (f). Text consisted of pars. (1) to (3) relating to minimal effect and mitigation exemptions.
 
-Subsec. (g). Pub. L. 104–127, § 322(e), which directed substitution of “person” for “producer”, was executed by making the substitution in two places.
+Subsec. (g). Pub. L. 104–127, § 322(e), which directed substitution of “person” for “producer”, was executed by making the substitution in two places.
 
-Subsec. (h). Pub. L. 104–127, § 322(f), added subsec. (h) and struck out heading and text of former subsec. (h). Text consisted of pars. (1) to (3) relating to good faith exemptions to ineligibility under section 3821 of this title and graduated sanctions.
+Subsec. (h). Pub. L. 104–127, § 322(f), added subsec. (h) and struck out heading and text of former subsec. (h). Text consisted of pars. (1) to (3) relating to good faith exemptions to ineligibility under section 3821 of this title and graduated sanctions.
 
-Subsec. (i). Pub. L. 104–127, § 322(g), inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
+Subsec. (i). Pub. L. 104–127, § 322(g), inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
 
-Subsec. (j). Pub. L. 104–127, § 322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
+Subsec. (j). Pub. L. 104–127, § 322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
 
-Subsec. (k). Pub. L. 104–127, § 322(i), added subsec. (k).
+Subsec. (k). Pub. L. 104–127, § 322(i), added subsec. (k).
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to eligibility for program benefits in connection with production of crops on certain wetlands, making program ineligibility inapplicable to pre-Dec. 23, 1985, section 3821 loans, and providing for personal exemptions from program ineligibility for actions associated with production of commodities having minimal wetland effect.
 
@@ -1221,17 +1221,17 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 326 of Pub. L. 104–127, set out as a note under section 3821 of this title.
 
-### § 3823. Affiliated persons
+### § 3823. Affiliated persons
 
 If a person is affected by a reduction in benefits under section 3821 of this title and the affected person is affiliated with other persons for the purpose of receiving the benefits, the benefits of each affiliated person shall be reduced under section 3821 of this title in proportion to the interest held by the affiliated person.
 
-(Pub. L. 99–198, title XII, § 1223, as added Pub. L. 104–127, title III, § 324, Apr. 4, 1996, 110 Stat. 992.)
+(Pub. L. 99–198, title XII, § 1223, as added Pub. L. 104–127, title III, § 324, Apr. 4, 1996, 110 Stat. 992.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3823, Pub. L. 99–198, title XII, § 1223, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, § 1423, Nov. 28, 1990, 104 Stat. 3576; Pub. L. 102–237, title II, § 204(4), Dec. 13, 1991, 105 Stat. 1855, related to consultation with Secretary of the Interior, prior to repeal by Pub. L. 104–127, title III, §§ 323, 326, Apr. 4, 1996, 110 Stat. 992, effective 90 days after Apr. 4, 1996.
+A prior section 3823, Pub. L. 99–198, title XII, § 1223, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, § 1423, Nov. 28, 1990, 104 Stat. 3576; Pub. L. 102–237, title II, § 204(4), Dec. 13, 1991, 105 Stat. 1855, related to consultation with Secretary of the Interior, prior to repeal by Pub. L. 104–127, title III, §§ 323, 326, Apr. 4, 1996, 110 Stat. 992, effective 90 days after Apr. 4, 1996.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1239,11 +1239,11 @@ A prior section 3823, Pub. L. 99–198, title XII, § 1223, Dec. 23, 1985, 99 
 
 Section effective 90 days after Apr. 4, 1996, see section 326 of Pub. L. 104–127, set out as an Effective Date of 1996 Amendment note under section 3821 of this title.
 
-### § 3824. Fairness of compliance
+### § 3824. Fairness of compliance
 
 If the actions of an unrelated person or public entity, outside the control of, and without the prior approval of, the landowner or tenant result in a change in the characteristics of cropland that would cause the land to be determined to be a wetland, the affected land shall not be considered to be wetland for purposes of this subchapter.
 
-(Pub. L. 99–198, title XII, § 1224, as added Pub. L. 101–624, title XIV, § 1424, Nov. 28, 1990, 104 Stat. 3576.)
+(Pub. L. 99–198, title XII, § 1224, as added Pub. L. 101–624, title XIV, § 1424, Nov. 28, 1990, 104 Stat. 3576.)
 
 ## SUBCHAPTER IV—AGRICULTURAL RESOURCES CONSERVATION PROGRAM
 
@@ -1251,25 +1251,25 @@ If the actions of an unrelated person or public entity, outside the control of, 
 
 #### subpart a—general provisions
 
-##### § 3830. Repealed. Pub. L. 113–79, title II, § 2701, Feb. 7, 2014, 128 Stat. 766
+##### § 3830. Repealed. Pub. L. 113–79, title II, § 2701, Feb. 7, 2014, 128 Stat. 766
 
-Section, Pub. L. 99–198, title XII, § 1230, as added Pub. L. 101–624, title XIV, § 1431(2), Nov. 28, 1990, 104 Stat. 3576; amended Pub. L. 103–66, title I, § 1402(a), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, § 331, Apr. 4, 1996, 110 Stat. 992; Pub. L. 107–171, title II, § 2006(b), May 13, 2002, 116 Stat. 237, related to comprehensive conservation enhancement program.
+Section, Pub. L. 99–198, title XII, § 1230, as added Pub. L. 101–624, title XIV, § 1431(2), Nov. 28, 1990, 104 Stat. 3576; amended Pub. L. 103–66, title I, § 1402(a), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, § 331, Apr. 4, 1996, 110 Stat. 992; Pub. L. 107–171, title II, § 2006(b), May 13, 2002, 116 Stat. 237, related to comprehensive conservation enhancement program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Conservation Assistance**
 
-Pub. L. 106–224, title II, § 211, June 20, 2000, 114 Stat. 406, as amended by Pub. L. 107–171, title II, § 2503(b)(1)(B), May 13, 2002, 116 Stat. 269, authorized Secretary to use $40,000,000 of funds of the Commodity Credit Corporation to provide financial assistance to farmers and ranchers to address threats to soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat; comply with Federal and State environmental laws; and make beneficial, cost-effective changes to cropping systems, grazing management, manure, nutrient, pest, or irrigation management, land uses, or other measures needed to conserve and improve soil, water, and related natural resources.
+Pub. L. 106–224, title II, § 211, June 20, 2000, 114 Stat. 406, as amended by Pub. L. 107–171, title II, § 2503(b)(1)(B), May 13, 2002, 116 Stat. 269, authorized Secretary to use $40,000,000 of funds of the Commodity Credit Corporation to provide financial assistance to farmers and ranchers to address threats to soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat; comply with Federal and State environmental laws; and make beneficial, cost-effective changes to cropping systems, grazing management, manure, nutrient, pest, or irrigation management, land uses, or other measures needed to conserve and improve soil, water, and related natural resources.
 
 **Farmland Protection Program**
 
-Pub. L. 104–127, title III, § 388, Apr. 4, 1996, 110 Stat. 1020, directed Secretary of Agriculture to establish and carry out a farmland protection program, prior to repeal by Pub. L. 107–171, title II, § 2503(b)(1)(A), May 13, 2002, 116 Stat. 269.
+Pub. L. 104–127, title III, § 388, Apr. 4, 1996, 110 Stat. 1020, directed Secretary of Agriculture to establish and carry out a farmland protection program, prior to repeal by Pub. L. 107–171, title II, § 2503(b)(1)(A), May 13, 2002, 116 Stat. 269.
 
-[Pub. L. 107–171, title II, § 2503(b)(2), May 13, 2002, 116 Stat. 269, provided that: “The amendment made by paragraph (1)(A) [repealing section 388 of Pub. L. 104–127, formerly set out above] shall have no effect on any contract entered into under section 388 of the Federal Agriculture Improvement and Reform Act of 1996 [Pub. L. 104–127] (16 U.S.C. 3830 note) that is in effect as of the date of enactment of this Act [May 13, 2002].” ]
+[Pub. L. 107–171, title II, § 2503(b)(2), May 13, 2002, 116 Stat. 269, provided that: “The amendment made by paragraph (1)(A) [repealing section 388 of Pub. L. 104–127, formerly set out above] shall have no effect on any contract entered into under section 388 of the Federal Agriculture Improvement and Reform Act of 1996 [Pub. L. 104–127] (16 U.S.C. 3830 note) that is in effect as of the date of enactment of this Act [May 13, 2002].” ]
 
-##### § 3830a. Repealed. Pub. L. 107–171, title I, § 1613(j)(3), title II, § 2006(c), May 13, 2002, 116 Stat. 221, 237
+##### § 3830a. Repealed. Pub. L. 107–171, title I, § 1613(j)(3), title II, § 2006(c), May 13, 2002, 116 Stat. 221, 237
 
-Section, Pub. L. 99–198, title XII, § 1230A, as added Pub. L. 106–387, § 1(a) [title VII, § 755], Oct. 28, 2000, 114 Stat. 1549, 1549A–42, related to good faith reliance.
+Section, Pub. L. 99–198, title XII, § 1230A, as added Pub. L. 106–387, § 1(a) [title VII, § 755], Oct. 28, 2000, 114 Stat. 1549, 1549A–42, related to good faith reliance.
 
 #### subpart b—conservation reserve
 
@@ -1277,9 +1277,9 @@ Section, Pub. L. 99–198, title XII, § 1230A, as added Pub. L. 106–387, §
 
 **Codification**
 
-Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985, comprising this subpart, was originally designated in Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1509, by Pub. L. 101–624, title XIV, §§ 1431(1), 1432(1), Nov. 28, 1990, 104 Stat. 3576, 3577, and amended by Pub. L. 99–500, Oct. 18, 1986, 100 Stat. 1783, and Pub. L. 99–591, Oct. 30, 1986, 100 Stat. 3341; Pub. L. 99–641, Nov. 10, 1986, 100 Stat. 3556; Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568; Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924; Pub. L. 101–512, Nov. 5, 1990, 104 Stat. 1915; Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359; Pub. L. 102–237, Dec. 13, 1991, 105 Stat. 1818; Pub. L. 102–324, July 22, 1992, 106 Stat. 447; Pub. L. 102–552, Oct. 28, 1992, 106 Stat. 4102; Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312; Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888; Pub. L. 106–78, Oct. 22, 1999, 113 Stat. 1135; Pub. L. 106–387, Oct. 28, 2000, 114 Stat. 1549; Pub. L. 107–76, Nov. 28, 2001, 115 Stat. 704. Subchapter B is shown herein, however, as having been added by Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 238, without reference to the intervening amendments because of the extensive revision of the subchapter’s provisions by Pub. L. 107–171.
+Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985, comprising this subpart, was originally designated in Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1509, by Pub. L. 101–624, title XIV, §§ 1431(1), 1432(1), Nov. 28, 1990, 104 Stat. 3576, 3577, and amended by Pub. L. 99–500, Oct. 18, 1986, 100 Stat. 1783, and Pub. L. 99–591, Oct. 30, 1986, 100 Stat. 3341; Pub. L. 99–641, Nov. 10, 1986, 100 Stat. 3556; Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568; Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924; Pub. L. 101–512, Nov. 5, 1990, 104 Stat. 1915; Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359; Pub. L. 102–237, Dec. 13, 1991, 105 Stat. 1818; Pub. L. 102–324, July 22, 1992, 106 Stat. 447; Pub. L. 102–552, Oct. 28, 1992, 106 Stat. 4102; Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312; Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888; Pub. L. 106–78, Oct. 22, 1999, 113 Stat. 1135; Pub. L. 106–387, Oct. 28, 2000, 114 Stat. 1549; Pub. L. 107–76, Nov. 28, 2001, 115 Stat. 704. Subchapter B is shown herein, however, as having been added by Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 238, without reference to the intervening amendments because of the extensive revision of the subchapter’s provisions by Pub. L. 107–171.
 
-##### § 3831. Conservation reserve
+##### § 3831. Conservation reserve
 
 **(a) In general**
 
@@ -1421,9 +1421,9 @@ In enrolling acres under subparagraph (A), the Secretary shall make the program 
 
 For purposes of grasslands described in subsection (b)(3), the Secretary shall announce at least 1 ranking period subsequent to the announcement of general enrollment offers.
 
-**(D) Reservation of unenrolled acres** If the Secretary is unable in a fiscal year to enroll enough acres of land described in subsection (b)(3) to meet the number of acres described in clause (ii) or (iii) 1
+**(D) Reservation of unenrolled acres** If the Secretary is unable in a fiscal year to enroll enough acres of land described in subsection (b)(3) to meet the number of acres described in clause (ii) or (iii) 1
 
-<sup>1</sup>  So in original. There is no cl. (iii) of subpar. (A).
+<sup>1</sup> So in original. There is no cl. (iii) of subpar. (A).
 
 of subparagraph (A) for the fiscal year—
 
@@ -1567,13 +1567,13 @@ Except as provided in subparagraph (B), land subject to a contract entered into 
 
 In determining the acceptability of contract offers under this subpart, the Secretary shall ensure, to the maximum extent practicable, an equitable balance among the conservation purposes of soil erosion, water quality, and wildlife habitat.
 
-(Pub. L. 99–198, title XII, § 1231, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, § 107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, § 3022, June 15, 2006, 120 Stat. 478; Pub. L. 110–28, title IV, § 4101, May 25, 2007, 121 Stat. 152; Pub. L. 110–234, title II, §§ 2101–2105, 2106(a)(2), (b)(1), May 22, 2008, 122 Stat. 1028, 1029, 1031, 1032; Pub. L. 110–246, § 4(a), title II, §§ 2101–2105, 2106(a)(2), (b)(1), June 18, 2008, 122 Stat. 1664, 1756, 1757, 1759, 1760; Pub. L. 112–240, title VII, § 701(c)(1), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title II, § 2001, Feb. 7, 2014, 128 Stat. 713; Pub. L. 115–334, title II, § 2201, Dec. 20, 2018, 132 Stat. 4530.)
+(Pub. L. 99–198, title XII, § 1231, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, § 107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, § 3022, June 15, 2006, 120 Stat. 478; Pub. L. 110–28, title IV, § 4101, May 25, 2007, 121 Stat. 152; Pub. L. 110–234, title II, §§ 2101–2105, 2106(a)(2), (b)(1), May 22, 2008, 122 Stat. 1028, 1029, 1031, 1032; Pub. L. 110–246, § 4(a), title II, §§ 2101–2105, 2106(a)(2), (b)(1), June 18, 2008, 122 Stat. 1664, 1756, 1757, 1759, 1760; Pub. L. 112–240, title VII, § 701(c)(1), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title II, § 2001, Feb. 7, 2014, 128 Stat. 713; Pub. L. 115–334, title II, § 2201, Dec. 20, 2018, 132 Stat. 4530.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (d)(2)(B)(iii)(I), (II), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (d)(2)(B)(iii)(I), (II), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Codification**
 
@@ -1581,23 +1581,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3831, Pub. L. 99–198, title XII, § 1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, § 101(a) [title VI, § 643], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, § 101(a) [title VI, § 643], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, § 205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§ 1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, § 1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, § 1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, § 332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, § 1(a) [title XI, § 1102(a)], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, § 758(a), Nov. 28, 2001, 115 Stat. 741, related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 3831, Pub. L. 99–198, title XII, § 1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, § 101(a) [title VI, § 643], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, § 101(a) [title VI, § 643], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, § 205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§ 1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, § 1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, § 1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, § 332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, § 1(a) [title XI, § 1102(a)], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, § 758(a), Nov. 28, 2001, 115 Stat. 741, related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 2201(a), substituted “2023” for “2018”.
+2018—Subsec. (a). Pub. L. 115–334, § 2201(a), substituted “2023” for “2018”.
 
-Subsec. (b)(1)(B). Pub. L. 115–334, § 2201(b)(1), substituted “4 of the 6 years preceding December 20, 2018, on the condition that the Secretary shall consider to be planted cropland enrolled in the conservation reserve program” for “4 of the 6 years preceding February 7, 2014 (except for land enrolled in the conservation reserve program as of that date)”.
+Subsec. (b)(1)(B). Pub. L. 115–334, § 2201(b)(1), substituted “4 of the 6 years preceding December 20, 2018, on the condition that the Secretary shall consider to be planted cropland enrolled in the conservation reserve program” for “4 of the 6 years preceding February 7, 2014 (except for land enrolled in the conservation reserve program as of that date)”.
 
-Subsec. (b)(4). Pub. L. 115–334, § 2201(b)(3), added par. (4). Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 115–334, § 2201(b)(3), added par. (4). Former par. (4) redesignated (5).
 
-Subsec (b)(5). Pub. L. 115–334, § 2201(b)(2), (4)(A), redesignated par. (4) as (5) and substituted “salt tolerant vegetation, field borders, or practices to benefit State or federally identified wellhead protection areas” for “or filterstrips or riparian buffers devoted to trees, shrubs, or grasses” in subpar. (C). Former par. (5) redesignated (6).
+Subsec (b)(5). Pub. L. 115–334, § 2201(b)(2), (4)(A), redesignated par. (4) as (5) and substituted “salt tolerant vegetation, field borders, or practices to benefit State or federally identified wellhead protection areas” for “or filterstrips or riparian buffers devoted to trees, shrubs, or grasses” in subpar. (C). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 115–334, § 2201(b)(2), redesignated par. (5) as (6).
+Subsec. (b)(6). Pub. L. 115–334, § 2201(b)(2), redesignated par. (5) as (6).
 
-Subsec. (b)(7). Pub. L. 115–334, § 2201(b)(4)(B)–(6), added par. (7).
+Subsec. (b)(7). Pub. L. 115–334, § 2201(b)(4)(B)–(6), added par. (7).
 
-Subsec. (d)(1). Pub. L. 115–334, § 2201(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
+Subsec. (d)(1). Pub. L. 115–334, § 2201(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
 
 “(A) fiscal year 2014, no more than 27,500,000 acres;
 
@@ -1609,27 +1609,27 @@ Subsec. (d)(1). Pub. L. 115–334, § 2201(c)(1), added subpars. (A) to (E) an
 
 “(E) fiscal year 2018, no more than 24,000,000 acres.”
 
-Subsec. (d)(2)(A). Pub. L. 115–334, § 2201(c)(2)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “For purposes of applying the limitations in paragraph (1), no more than 2,000,000 acres of the land described in subsection (b)(3) may be enrolled in the program at any one time during the 2014 through 2018 fiscal years.”
+Subsec. (d)(2)(A). Pub. L. 115–334, § 2201(c)(2)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “For purposes of applying the limitations in paragraph (1), no more than 2,000,000 acres of the land described in subsection (b)(3) may be enrolled in the program at any one time during the 2014 through 2018 fiscal years.”
 
-Subsec. (d)(2)(B). Pub. L. 115–334, § 2201(c)(2)(A), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “In enrolling acres under subparagraph (A), the Secretary may give priority to land with expiring conservation reserve program contracts.”
+Subsec. (d)(2)(B). Pub. L. 115–334, § 2201(c)(2)(A), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “In enrolling acres under subparagraph (A), the Secretary may give priority to land with expiring conservation reserve program contracts.”
 
-Subsec. (d)(2)(C). Pub. L. 115–334, § 2201(c)(2)(B), designated existing provisions as cl. (i), inserted heading, substituted “an annual enrollment basis” for “a continuous enrollment basis”, and added cl. (ii).
+Subsec. (d)(2)(C). Pub. L. 115–334, § 2201(c)(2)(B), designated existing provisions as cl. (i), inserted heading, substituted “an annual enrollment basis” for “a continuous enrollment basis”, and added cl. (ii).
 
-Subsec. (d)(2)(D). Pub. L. 115–334, § 2201(c)(2)(C), added subpar. (D).
+Subsec. (d)(2)(D). Pub. L. 115–334, § 2201(c)(2)(C), added subpar. (D).
 
-Subsec. (d)(3) to (6). Pub. L. 115–334, § 2201(c)(3), added pars. (3) to (6).
+Subsec. (d)(3) to (6). Pub. L. 115–334, § 2201(c)(3), added pars. (3) to (6).
 
-Subsec. (h). Pub. L. 115–334, § 2201(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (h). Pub. L. 115–334, § 2201(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-2014—Subsec. (a). Pub. L. 113–79, § 2001(a), substituted “2018” for “2012”.
+2014—Subsec. (a). Pub. L. 113–79, § 2001(a), substituted “2018” for “2012”.
 
-Subsec. (b)(1)(B). Pub. L. 113–79, § 2001(b)(1), substituted “February 7, 2014” for “the date of enactment of the Food, Conservation, and Energy Act of 2008”.
+Subsec. (b)(1)(B). Pub. L. 113–79, § 2001(b)(1), substituted “February 7, 2014” for “the date of enactment of the Food, Conservation, and Energy Act of 2008”.
 
-Subsec. (b)(2), (3). Pub. L. 113–79, § 2001(b)(2), (3), redesignated par. (3) as (2), added par. (3), and struck out former par. (2) which read as follows: “marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;”.
+Subsec. (b)(2), (3). Pub. L. 113–79, § 2001(b)(2), (3), redesignated par. (3) as (2), added par. (3), and struck out former par. (2) which read as follows: “marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;”.
 
-Subsec. (b)(4)(C). Pub. L. 113–79, § 2001(b)(4), substituted “filterstrips or riparian buffers devoted to trees, shrubs, or grasses” for “filterstrips devoted to trees or shrubs”.
+Subsec. (b)(4)(C). Pub. L. 113–79, § 2001(b)(4), substituted “filterstrips or riparian buffers devoted to trees, shrubs, or grasses” for “filterstrips devoted to trees or shrubs”.
 
-Subsec. (b)(5). Pub. L. 113–79, § 2001(b)(5), added par. (5) and struck out former par. (5) which read as follows: “the portion of land in a field not enrolled in the conservation reserve in a case in which more than 50 percent of the land in the field is enrolled as a buffer, if—
+Subsec. (b)(5). Pub. L. 113–79, § 2001(b)(5), added par. (5) and struck out former par. (5) which read as follows: “the portion of land in a field not enrolled in the conservation reserve in a case in which more than 50 percent of the land in the field is enrolled as a buffer, if—
 
 “(A) the land is enrolled as part of the buffer; and
 
@@ -1639,7 +1639,7 @@ Subsec. (b)(5). Pub. L. 113–79, § 2001(b)(5), added par. (5) and struck out
 
 “(ii) enrolled at regular rental rates.”
 
-Subsec. (c). Pub. L. 113–79, § 2001(c), substituted “if, during the crop year, the land was devoted to a conserving use.” for “if—” and struck out pars. (1) and (2) which read as follows:
+Subsec. (c). Pub. L. 113–79, § 2001(c), substituted “if, during the crop year, the land was devoted to a conserving use.” for “if—” and struck out pars. (1) and (2) which read as follows:
 
 “(1) during the crop year, the land was devoted to a conserving use; or
 
@@ -1647,15 +1647,15 @@ Subsec. (c). Pub. L. 113–79, § 2001(c), substituted “if, during the crop 
 
 “(B) the contract of the owner or operator of the cropland expired or will expire in calendar year 2000, 2001, or 2002.”
 
-Subsec. (d). Pub. L. 113–79, § 2001(d), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.”
+Subsec. (d). Pub. L. 113–79, § 2001(d), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.”
 
-Subsec. (e)(2), (3). Pub. L. 113–79, § 2001(e), added par. (2) and struck out former pars. (2) and (3) which related to duration of contracts for certain land and 1-year extensions, respectively.
+Subsec. (e)(2), (3). Pub. L. 113–79, § 2001(e), added par. (2) and struck out former pars. (2) and (3) which related to duration of contracts for certain land and 1-year extensions, respectively.
 
-Subsec. (f)(1). Pub. L. 113–79, § 2001(f)(1), struck out “watershed areas of the Chesapeake Bay Region, the Great Lakes Region, the Long Island Sound Region, and other” before “areas of special”.
+Subsec. (f)(1). Pub. L. 113–79, § 2001(f)(1), struck out “watershed areas of the Chesapeake Bay Region, the Great Lakes Region, the Long Island Sound Region, and other” before “areas of special”.
 
-Subsec. (f)(2). Pub. L. 113–79, § 2001(f)(2), substituted “areas” for “watersheds” in heading and “Areas” for “Watersheds” in text.
+Subsec. (f)(2). Pub. L. 113–79, § 2001(f)(2), substituted “areas” for “watersheds” in heading and “Areas” for “Watersheds” in text.
 
-Subsec. (f)(3). Pub. L. 113–79, § 2001(f)(3), substituted “an area’s designation if the Secretary finds that the area no longer contains actual and significant adverse water quality or habitat impacts related to agricultural production activities.” for “a watershed’s designation—” and struck out subpars. (A) and (B) which read as follows:
+Subsec. (f)(3). Pub. L. 113–79, § 2001(f)(3), substituted “an area’s designation if the Secretary finds that the area no longer contains actual and significant adverse water quality or habitat impacts related to agricultural production activities.” for “a watershed’s designation—” and struck out subpars. (A) and (B) which read as follows:
 
 “(A) on application by the appropriate State agency; or
 
@@ -1663,21 +1663,21 @@ Subsec. (f)(3). Pub. L. 113–79, § 2001(f)(3), substituted “an area’s de
 
 2013—Subsec. (d). Pub. L. 112–240 substituted “2012, and 2013” for “and 2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 2101, substituted “2012 fiscal year” for “2007 calendar year” and inserted “and to address issues raised by State, regional, and national conservation initiatives” before period at end.
+2008—Subsec. (a). Pub. L. 110–246, § 2101, substituted “2012 fiscal year” for “2007 calendar year” and inserted “and to address issues raised by State, regional, and national conservation initiatives” before period at end.
 
-Subsec. (b)(1)(B). Pub. L. 110–246, § 2102(1), substituted “the date of enactment of the Food, Conservation, and Energy Act of 2008” for “May 13, 2002” and substituted semicolon for period at end.
+Subsec. (b)(1)(B). Pub. L. 110–246, § 2102(1), substituted “the date of enactment of the Food, Conservation, and Energy Act of 2008” for “May 13, 2002” and substituted semicolon for period at end.
 
-Subsec. (b)(4)(C) to (E). Pub. L. 110–246, § 2102(2), in subpar. (C) struck out “or” at end, in subpar. (D) substituted “or” for “and” at end, and in subpar. (E) inserted “or” at end.
+Subsec. (b)(4)(C) to (E). Pub. L. 110–246, § 2102(2), in subpar. (C) struck out “or” at end, in subpar. (D) substituted “or” for “and” at end, and in subpar. (E) inserted “or” at end.
 
-Subsec. (d). Pub. L. 110–246, § 2103, substituted “2009 fiscal years” for “2007 calendar years” and “(16 U.S.C.” for “( 16 U.S.C.” and inserted at end “During fiscal years 2010, 2011, and 2012, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.”
+Subsec. (d). Pub. L. 110–246, § 2103, substituted “2009 fiscal years” for “2007 calendar years” and “(16 U.S.C.” for “( 16 U.S.C.” and inserted at end “During fiscal years 2010, 2011, and 2012, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.”
 
-Subsec. (f)(1). Pub. L. 110–246, § 2104, substituted “the Chesapeake Bay Region” for “the Chesapeake Bay Region (Pennsylvania, Maryland, and Virginia)”.
+Subsec. (f)(1). Pub. L. 110–246, § 2104, substituted “the Chesapeake Bay Region” for “the Chesapeake Bay Region (Pennsylvania, Maryland, and Virginia)”.
 
-Subsec. (g). Pub. L. 110–246, § 2105, amended subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.”
+Subsec. (g). Pub. L. 110–246, § 2105, amended subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.”
 
-Subsecs. (h) to (j). Pub. L. 110–246, § 2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
+Subsecs. (h) to (j). Pub. L. 110–246, § 2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
 
-Subsec. (k). Pub. L. 110–246, § 2106(b)(1), renumbered subsec. (k) as section 3831a of this title.
+Subsec. (k). Pub. L. 110–246, § 2106(b)(1), renumbered subsec. (k) as section 3831a of this title.
 
 2007—Subsec. (k)(2). Pub. L. 110–28 substituted “The” for “During calendar year 2006, the”.
 
@@ -1697,37 +1697,37 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Regulations**
 
-Pub. L. 106–387, § 1(a) [title XI, § 1105], Oct. 28, 2000, 114 Stat. 1549, 1549A–78, required the Secretary of Agriculture, as soon as practicable after Oct. 28, 2000, to promulgate regulations to implement the amendments by section 1(a) [title XI] of Pub. L. 106–387, amending former sections 3831 and 3832 of this title.
+Pub. L. 106–387, § 1(a) [title XI, § 1105], Oct. 28, 2000, 114 Stat. 1549, 1549A–78, required the Secretary of Agriculture, as soon as practicable after Oct. 28, 2000, to promulgate regulations to implement the amendments by section 1(a) [title XI] of Pub. L. 106–387, amending former sections 3831 and 3832 of this title.
 
 **Eligible Land; State Law Requirements**
 
-Pub. L. 115–334, title II, § 2209, Dec. 20, 2018, 132 Stat. 4551, provided that: “The Secretary shall revise paragraph (4) of section 1410.6(d) of title 7, Code of Federal Regulations, to provide that land enrolled under a Conservation Reserve Enhancement Program agreement initially established before January 1, 2014 (including an amended or successor Conservation Reserve Enhancement Program agreement, as determined by the Secretary), shall not be ineligible for enrollment in the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.) under that paragraph if the Deputy Administrator (as defined in section 1410.2(b) of title 7, Code of Federal Regulations (or successor regulations)), on recommendation from and in consultation with the applicable State technical committee established under section 1261(a) of the Food Security Act of 1985 (16 U.S.C. 3861(a)) determines, under such terms and conditions as the Deputy Administrator, in consultation with the State technical committee, determines to be appropriate, that making that land eligible for enrollment in that program is not contrary to the purposes of that program.”
+Pub. L. 115–334, title II, § 2209, Dec. 20, 2018, 132 Stat. 4551, provided that: “The Secretary shall revise paragraph (4) of section 1410.6(d) of title 7, Code of Federal Regulations, to provide that land enrolled under a Conservation Reserve Enhancement Program agreement initially established before January 1, 2014 (including an amended or successor Conservation Reserve Enhancement Program agreement, as determined by the Secretary), shall not be ineligible for enrollment in the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.) under that paragraph if the Deputy Administrator (as defined in section 1410.2(b) of title 7, Code of Federal Regulations (or successor regulations)), on recommendation from and in consultation with the applicable State technical committee established under section 1261(a) of the Food Security Act of 1985 (16 U.S.C. 3861(a)) determines, under such terms and conditions as the Deputy Administrator, in consultation with the State technical committee, determines to be appropriate, that making that land eligible for enrollment in that program is not contrary to the purposes of that program.”
 
 **Effect on Existing Contracts**
 
-Pub. L. 113–79, title II, § 2008, Feb. 7, 2014, 128 Stat. 720, provided that:
+Pub. L. 113–79, title II, § 2008, Feb. 7, 2014, 128 Stat. 720, provided that:
 
-> **“(a) In General.—** Except as provided in paragraph (2), the amendments made by this subtitle [subtitle A (§§ 2001–2008) of title II of Pub. L. 113–79, amending this section and sections 3831b and 3832 to 3835 of this title and repealing section 3835a of this title] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract.
+> **“(a) In General.—** Except as provided in paragraph (2), the amendments made by this subtitle [subtitle A (§§ 2001–2008) of title II of Pub. L. 113–79, amending this section and sections 3831b and 3832 to 3835 of this title and repealing section 3835a of this title] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract.
 
 > **“(b) Updating of Existing Contracts.—** The Secretary shall permit an owner or operator of land subject to a contract entered into under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], to update the contract to reflect the activities and uses of land under contract permitted under the terms and conditions of section 1233(b) of that Act [16 U.S.C. 3833(b)] (as amended by section 2004), as determined appropriate by the Secretary.”
 
 **Study on Economic Effects**
 
-Pub. L. 107–171, title II, § 2101(b), May 13, 2002, 116 Stat. 252, provided that, not later than 18 months after May 13, 2002, the Secretary of Agriculture would submit to Congress a report, to include specified analyses, that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
+Pub. L. 107–171, title II, § 2101(b), May 13, 2002, 116 Stat. 252, provided that, not later than 18 months after May 13, 2002, the Secretary of Agriculture would submit to Congress a report, to include specified analyses, that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
 
 **Study of Impact of Pilot Program**
 
-Pub. L. 106–387, § 1(a) [title XI, § 1104], Oct. 28, 2000, 114 Stat. 1549, 1549A–78, required the Secretary of Agriculture to conduct a study of the impact of the pilot program established under former section 3831(h) of this title, as added by section 1(a) [title XI, § 1102(a)] of Pub. L. 106–387, and to report on the results of the study to committees of Congress not later than Mar. 1, 2003.
+Pub. L. 106–387, § 1(a) [title XI, § 1104], Oct. 28, 2000, 114 Stat. 1549, 1549A–78, required the Secretary of Agriculture to conduct a study of the impact of the pilot program established under former section 3831(h) of this title, as added by section 1(a) [title XI, § 1102(a)] of Pub. L. 106–387, and to report on the results of the study to committees of Congress not later than Mar. 1, 2003.
 
 **Study of Land Use for Expiring Contracts and Extension of Authority**
 
-Pub. L. 101–624, title XIV, § 1437, Nov. 28, 1990, 104 Stat. 3584, which required the Secretary of Agriculture to conduct a study of cropland subject to expiring conservation reserve contracts entered into prior to Nov. 28, 1990, and to report on the study to committees of Congress not later than Dec. 31, 1993, and authorized the Secretary, during calendar years 1996 to 2000, to extend up to 10 years contracts entered into under this subpart prior to Nov. 28, 1990, or to purchase long-term or permanent easements as provided for in former part III of this subchapter, at the option of the owner or operator on land that the Secretary has determined under the study should remain in conserving uses, was repealed by Pub. L. 115–334, title II, § 2815, Dec. 20, 2018, 132 Stat. 4602.
+Pub. L. 101–624, title XIV, § 1437, Nov. 28, 1990, 104 Stat. 3584, which required the Secretary of Agriculture to conduct a study of cropland subject to expiring conservation reserve contracts entered into prior to Nov. 28, 1990, and to report on the study to committees of Congress not later than Dec. 31, 1993, and authorized the Secretary, during calendar years 1996 to 2000, to extend up to 10 years contracts entered into under this subpart prior to Nov. 28, 1990, or to purchase long-term or permanent easements as provided for in former part III of this subchapter, at the option of the owner or operator on land that the Secretary has determined under the study should remain in conserving uses, was repealed by Pub. L. 115–334, title II, § 2815, Dec. 20, 2018, 132 Stat. 4602.
 
 **Existing Conservation Programs**
 
 Pub. L. 99–263, Mar. 24, 1986, 100 Stat. 59, provided: “That the conservation reserve program shall not replace or reduce any existing conservation program.”
 
-##### § 3831a. Conservation reserve enhancement program
+##### § 3831a. Conservation reserve enhancement program
 
 **(a) Definitions** In this section:
 
@@ -1871,19 +1871,19 @@ For the purpose of enrolling forested riparian buffers in a CREP, the Administra
 
 **(4)** the progress made in fulfilling those commitments.
 
-(Pub. L. 99–198, title XII, § 1231A, as added Pub. L. 115–334, title II, § 2202(a), Dec. 20, 2018, 132 Stat. 4534.)
+(Pub. L. 99–198, title XII, § 1231A, as added Pub. L. 115–334, title II, § 2202(a), Dec. 20, 2018, 132 Stat. 4534.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3831a, Pub. L. 99–198, title XII, § 1231A, as added and amended Pub. L. 110–234, title II, § 2106(b), May 22, 2008, 122 Stat. 1032, and Pub. L. 110–246, § 4(a), title II, § 2106(b), June 18, 2008, 122 Stat. 1664, 1760, related to emergency forestry conservation reserve program, prior to repeal by Pub. L. 113–79, title II, § 2702(a), Feb. 7, 2014, 128 Stat. 766.
+A prior section 3831a, Pub. L. 99–198, title XII, § 1231A, as added and amended Pub. L. 110–234, title II, § 2106(b), May 22, 2008, 122 Stat. 1032, and Pub. L. 110–246, § 4(a), title II, § 2106(b), June 18, 2008, 122 Stat. 1664, 1760, related to emergency forestry conservation reserve program, prior to repeal by Pub. L. 113–79, title II, § 2702(a), Feb. 7, 2014, 128 Stat. 766.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal of Former Section 3831a; Transitional Provisions**
 
-Pub. L. 113–79, title II, § 2702, Feb. 7, 2014, 128 Stat. 766, provided that:
+Pub. L. 113–79, title II, § 2702, Feb. 7, 2014, 128 Stat. 766, provided that:
 
 > **“(a) Repeal.—** Except as provided in subsection (b), section 1231A of the Food Security Act of 1985 ([former] 16 U.S.C. 3831a) is repealed.
 
@@ -1893,7 +1893,7 @@ Pub. L. 113–79, title II, § 2702, Feb. 7, 2014, 128 Stat. 766, provided tha
 
 > **“(2) Funding.—** The Secretary [of Agriculture] may use funds made available to carry out the conservation reserve program under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.) to continue to carry out contracts or agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts or agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014.”
 
-##### § 3831b. Farmable wetland program
+##### § 3831b. Farmable wetland program
 
 **(a) Program required**
 
@@ -2005,7 +2005,7 @@ The Secretary shall use the method of determination described in section 3834(d)
 
 The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title.
 
-(Pub. L. 99–198, title XII, § 1231B, as added Pub. L. 110–234, title II, § 2106(a)(1), May 22, 2008, 122 Stat. 1029, and Pub. L. 110–246, § 4(a), title II, § 2106(a)(1), June 18, 2008, 122 Stat. 1664, 1757; amended Pub. L. 113–79, title II, § 2002, Feb. 7, 2014, 128 Stat. 714; Pub. L. 115–334, title II, §§ 2203, 2821(c), Dec. 20, 2018, 132 Stat. 4538, 4603.)
+(Pub. L. 99–198, title XII, § 1231B, as added Pub. L. 110–234, title II, § 2106(a)(1), May 22, 2008, 122 Stat. 1029, and Pub. L. 110–246, § 4(a), title II, § 2106(a)(1), June 18, 2008, 122 Stat. 1664, 1757; amended Pub. L. 113–79, title II, § 2002, Feb. 7, 2014, 128 Stat. 714; Pub. L. 115–334, title II, §§ 2203, 2821(c), Dec. 20, 2018, 132 Stat. 4538, 4603.)
 
 **Editorial Notes**
 
@@ -2019,21 +2019,21 @@ Provisions similar to those comprising this section were contained in section 38
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 2203(1), substituted “2023” for “2018”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 2203(1), substituted “2023” for “2018”.
 
-Subsec. (b)(2)(A)(i). Pub. L. 115–334, § 2821(c), inserted semicolon at end.
+Subsec. (b)(2)(A)(i). Pub. L. 115–334, § 2821(c), inserted semicolon at end.
 
-Subsec. (f)(2). Pub. L. 115–334, § 2203(2), substituted “3834(d)” for “3834(d)(2)(A)(ii)”.
+Subsec. (f)(2). Pub. L. 115–334, § 2203(2), substituted “3834(d)” for “3834(d)(2)(A)(ii)”.
 
-2014—Pub. L. 113–79, § 2002(d)(1), substituted “Farmable wetland program” for “Pilot program for enrollment of wetland and buffer acreage in conservation reserve” in section catchline.
+2014—Pub. L. 113–79, § 2002(d)(1), substituted “Farmable wetland program” for “Pilot program for enrollment of wetland and buffer acreage in conservation reserve” in section catchline.
 
-Subsec. (a)(1). Pub. L. 113–79, § 2002(a), substituted “2018” for “2012” and “a farmable wetland program” for “a program”.
+Subsec. (a)(1). Pub. L. 113–79, § 2002(a), substituted “2018” for “2012” and “a farmable wetland program” for “a program”.
 
-Subsec. (b)(1)(B). Pub. L. 113–79, § 2002(b), substituted “surface and subsurface flow from row crop agricultural production” for “flow from a row crop agriculture drainage system”.
+Subsec. (b)(1)(B). Pub. L. 113–79, § 2002(b), substituted “surface and subsurface flow from row crop agricultural production” for “flow from a row crop agriculture drainage system”.
 
-Subsec. (c)(1)(B). Pub. L. 113–79, § 2002(c), substituted “750,000” for “1,000,000”.
+Subsec. (c)(1)(B). Pub. L. 113–79, § 2002(c), substituted “750,000” for “1,000,000”.
 
-Subsec. (f)(2). Pub. L. 113–79, § 2002(d)(2), substituted “section 3834(d)(2)(A)(ii)” for “section 3834(c)(2)(B)”.
+Subsec. (f)(2). Pub. L. 113–79, § 2002(d)(2), substituted “section 3834(d)(2)(A)(ii)” for “section 3834(c)(2)(B)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2041,7 +2041,7 @@ Subsec. (f)(2). Pub. L. 113–79, § 2002(d)(2), substituted “section 3834(d
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-##### § 3831c. Pilot programs
+##### § 3831c. Pilot programs
 
 **(a) CLEAR 30**
 
@@ -2205,7 +2205,7 @@ The Secretary shall establish a voluntary soil health and income protection pilo
 
 Eligible land may be enrolled in the program under this section through December 31, 2020.1
 
-<sup>1</sup>  See Soil Health and Income Protection Pilot Program Extension note below.
+<sup>1</sup> See Soil Health and Income Protection Pilot Program Extension note below.
 
 **(3) Contracts**
 
@@ -2279,21 +2279,21 @@ Of the number of acres available for enrollment in the conservation reserve unde
 
 **(B)** estimated savings from reduced commodity payments, crop insurance indemnities, and crop insurance premium subsidies.
 
-(Pub. L. 99–198, title XII, § 1231C, as added Pub. L. 115–334, title II, § 2204, Dec. 20, 2018, 132 Stat. 4538.)
+(Pub. L. 99–198, title XII, § 1231C, as added Pub. L. 115–334, title II, § 2204, Dec. 20, 2018, 132 Stat. 4538.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(3)(F)(ii)(I), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(3)(F)(ii)(I), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Soil Health and Income Protection Pilot Program Extension**
 
-Pub. L. 116–260, div. O, title V, § 501, Dec. 27, 2020, 134 Stat. 2149, provided that: “Section 1231C(b)(2)(B) of the Food Security Act of 1985 (16 U.S.C. 3831c(b)(2)(B)) shall be applied by substituting ‘September 30, 2021’ for ‘December 31, 2020’.”
+Pub. L. 116–260, div. O, title V, § 501, Dec. 27, 2020, 134 Stat. 2149, provided that: “Section 1231C(b)(2)(B) of the Food Security Act of 1985 (16 U.S.C. 3831c(b)(2)(B)) shall be applied by substituting ‘September 30, 2021’ for ‘December 31, 2020’.”
 
-##### § 3832. Duties of owners and operators
+##### § 3832. Duties of owners and operators
 
 **(a) In general** Under the terms of a contract entered into under this subpart, during the term of the contract, an owner or operator of a farm or ranch shall agree—
 
@@ -2367,7 +2367,7 @@ This subsection shall not void the responsibilities of an owner or operator unde
 
 On the resumption of the control over the land by the owner or operator, the provisions of the contract in effect on the date of the foreclosure shall apply.
 
-(Pub. L. 99–198, title XII, § 1232, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 242; amended Pub. L. 108–7, div. N, title II, § 212, Feb. 20, 2003, 117 Stat. 545; Pub. L. 110–234, title II, §§ 2107, 2108, May 22, 2008, 122 Stat. 1032, 1033; Pub. L. 110–246, § 4(a), title II, §§ 2107, 2108, June 18, 2008, 122 Stat. 1664, 1760, 1761; Pub. L. 113–79, title II, § 2003, Feb. 7, 2014, 128 Stat. 715; Pub. L. 115–334, title II, § 2205, Dec. 20, 2018, 132 Stat. 4543.)
+(Pub. L. 99–198, title XII, § 1232, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 242; amended Pub. L. 108–7, div. N, title II, § 212, Feb. 20, 2003, 117 Stat. 545; Pub. L. 110–234, title II, §§ 2107, 2108, May 22, 2008, 122 Stat. 1032, 1033; Pub. L. 110–246, § 4(a), title II, §§ 2107, 2108, June 18, 2008, 122 Stat. 1664, 1760, 1761; Pub. L. 113–79, title II, § 2003, Feb. 7, 2014, 128 Stat. 715; Pub. L. 115–334, title II, § 2205, Dec. 20, 2018, 132 Stat. 4543.)
 
 **Editorial Notes**
 
@@ -2377,15 +2377,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3832, Pub. L. 99–198, title XII, § 1232, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1919; Pub. L. 101–624, title XIV, §§ 1433, 1447(a), Nov. 28, 1990, 104 Stat. 3579, 3605; Pub. L. 102–237, title II, § 204(5), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title V, § 516(a), Oct. 28, 1992, 106 Stat. 4136; Pub. L. 104–127, title III, § 332(a)(2), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–78, title VII, §§ 763, 769, Oct. 22, 1999, 113 Stat. 1173, 1174; Pub. L. 106–387, § 1(a) [title VIII, § 817, title XI, § 1103], Oct. 28, 2000, 114 Stat. 1549, 1549A–58, 1549A–77; Pub. L. 107–76, title VII, §§ 758(b), 759(b)(2), Nov. 28, 2001, 115 Stat. 741, related to duties of owners and operators, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 3832, Pub. L. 99–198, title XII, § 1232, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1919; Pub. L. 101–624, title XIV, §§ 1433, 1447(a), Nov. 28, 1990, 104 Stat. 3579, 3605; Pub. L. 102–237, title II, § 204(5), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title V, § 516(a), Oct. 28, 1992, 106 Stat. 4136; Pub. L. 104–127, title III, § 332(a)(2), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–78, title VII, §§ 763, 769, Oct. 22, 1999, 113 Stat. 1173, 1174; Pub. L. 106–387, § 1(a) [title VIII, § 817, title XI, § 1103], Oct. 28, 2000, 114 Stat. 1549, 1549A–58, 1549A–77; Pub. L. 107–76, title VII, §§ 758(b), 759(b)(2), Nov. 28, 2001, 115 Stat. 741, related to duties of owners and operators, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
 2018—Subsec. (a)(10) to (12). Pub. L. 115–334 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
-2014—Subsec. (a)(8). Pub. L. 113–79, § 2003(a), substituted “except as provided in subsection (b) or (c) of section 3833 of this title;” for “except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—” and struck out subpars. (A) to (D), which related to managed harvesting, commercial use in response to an emergency, grazing for the control of invasive species, and the installation of wind turbines, respectively.
+2014—Subsec. (a)(8). Pub. L. 113–79, § 2003(a), substituted “except as provided in subsection (b) or (c) of section 3833 of this title;” for “except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—” and struck out subpars. (A) to (D), which related to managed harvesting, commercial use in response to an emergency, grazing for the control of invasive species, and the installation of wind turbines, respectively.
 
-Subsec. (b). Pub. L. 113–79, § 2003(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The plan referred to in subsection (a)(1) of this section—
+Subsec. (b). Pub. L. 113–79, § 2003(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The plan referred to in subsection (a)(1) of this section—
 
 “(1) shall set forth—
 
@@ -2395,19 +2395,19 @@ Subsec. (b). Pub. L. 113–79, § 2003(b), amended subsec. (b) generally. Prio
 
 “(2) may provide for the permanent retirement of any existing cropland base and allotment history for the land.”
 
-Subsec. (d). Pub. L. 113–79, § 2003(c), struck out subsec. (d). Text read as follows: “In the case of an authorized activity under subsection (a)(8) on land that is subject to a contract under this subpart, the Secretary shall reduce the rental payment otherwise payable under the contract by an amount commensurate with the economic value of the authorized activity.”
+Subsec. (d). Pub. L. 113–79, § 2003(c), struck out subsec. (d). Text read as follows: “In the case of an authorized activity under subsection (a)(8) on land that is subject to a contract under this subpart, the Secretary shall reduce the rental payment otherwise payable under the contract by an amount commensurate with the economic value of the authorized activity.”
 
-2008—Subsec. (a)(5) to (7). Pub. L. 110–246, § 2107, added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+2008—Subsec. (a)(5) to (7). Pub. L. 110–246, § 2107, added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 110–246, § 2108(a), added par. (8) and struck out former par. (8) which related to prohibition against harvesting, grazing, or other commercial use of the forage, with exception authorizing Secretary to permit managed harvesting and grazing if appropriate requirements were developed and timeframes identified or in a drought or other emergency, and exception for the installation of wind turbines.
+Subsec. (a)(8). Pub. L. 110–246, § 2108(a), added par. (8) and struck out former par. (8) which related to prohibition against harvesting, grazing, or other commercial use of the forage, with exception authorizing Secretary to permit managed harvesting and grazing if appropriate requirements were developed and timeframes identified or in a drought or other emergency, and exception for the installation of wind turbines.
 
-Pub. L. 110–246, § 2107(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Pub. L. 110–246, § 2107(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Subsec. (a)(9) to (11). Pub. L. 110–246, § 2107(1), redesignated pars. (8) to (10) as (9) to (11), respectively.
+Subsec. (a)(9) to (11). Pub. L. 110–246, § 2107(1), redesignated pars. (8) to (10) as (9) to (11), respectively.
 
-Subsec. (d). Pub. L. 110–246, § 2108(b), added subsec. (d).
+Subsec. (d). Pub. L. 110–246, § 2108(b), added subsec. (d).
 
-2003—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon “, except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year”.
+2003—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon “, except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2415,7 +2415,7 @@ Subsec. (d). Pub. L. 110–246, § 2108(b), added subsec. (d).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3833. Duties of the Secretary
+##### § 3833. Duties of the Secretary
 
 **(a) Cost-share and rental payments** In return for a contract entered into by an owner or operator under the conservation reserve program, the Secretary shall—
 
@@ -2547,31 +2547,31 @@ In the case of an activity carried out under paragraph (1), the Secretary shall 
 
 In the case of a natural disaster or adverse weather event that has the effect of a management practice consistent with the conservation plan, the Secretary shall not require further management practices pursuant to section 3832(a)(5) of this title that are intended to achieve the same effect.
 
-(Pub. L. 99–198, title XII, § 1233, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 245; amended Pub. L. 113–79, title II, § 2004, Feb. 7, 2014, 128 Stat. 715; Pub. L. 115–334, title II, § 2206, Dec. 20, 2018, 132 Stat. 4543.)
+(Pub. L. 99–198, title XII, § 1233, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 245; amended Pub. L. 113–79, title II, § 2004, Feb. 7, 2014, 128 Stat. 715; Pub. L. 115–334, title II, § 2206, Dec. 20, 2018, 132 Stat. 4543.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3833, Pub. L. 99–198, title XII, § 1233, Dec. 23, 1985, 99 Stat. 1511, related to duties of Secretary, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 3833, Pub. L. 99–198, title XII, § 1233, Dec. 23, 1985, 99 Stat. 1511, related to duties of Secretary, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 2206(a)(1), inserted “, including the cost of fencing and other water distribution practices, if applicable” after “in the public interest”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 2206(a)(1), inserted “, including the cost of fencing and other water distribution practices, if applicable” after “in the public interest”.
 
-Subsec. (a)(2). Pub. L. 115–334, § 2206(a)(2)(A), substituted “, in accordance with section 3834(d) of this title,” for “in an amount necessary to compensate” in introductory provisions.
+Subsec. (a)(2). Pub. L. 115–334, § 2206(a)(2)(A), substituted “, in accordance with section 3834(d) of this title,” for “in an amount necessary to compensate” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 115–334, § 2206(a)(2)(B) inserted “, marginal pastureland,” after “cropland” and “or” at end.
+Subsec. (a)(2)(A). Pub. L. 115–334, § 2206(a)(2)(B) inserted “, marginal pastureland,” after “cropland” and “or” at end.
 
-Subsec. (a)(2)(B), (C). Pub. L. 115–334, § 2206(a)(2)(C), (D), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “the retirement of any base history that the owner or operator agrees to retire permanently; and”.
+Subsec. (a)(2)(B), (C). Pub. L. 115–334, § 2206(a)(2)(C), (D), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “the retirement of any base history that the owner or operator agrees to retire permanently; and”.
 
-Subsec. (b). Pub. L. 115–334, § 2206(b), added subsec. (b) and struck out former subsec. (b) which described certain activities or commercial uses that would be permitted on land subject to a contract under the conservation reserve program.
+Subsec. (b). Pub. L. 115–334, § 2206(b), added subsec. (b) and struck out former subsec. (b) which described certain activities or commercial uses that would be permitted on land subject to a contract under the conservation reserve program.
 
-Subsec. (e). Pub. L. 115–334, § 2206(c), added subsec. (e).
+Subsec. (e). Pub. L. 115–334, § 2206(c), added subsec. (e).
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section also related to duties of the Secretary.
 
-##### § 3834. Payments
+##### § 3834. Payments
 
 **(a) Timing** The Secretary shall provide payment for obligations incurred by the Secretary under a contract entered into under this subpart—
 
@@ -2741,7 +2741,7 @@ Paragraph (1) and section 1308–3a(b) of title 7 shall not apply to rental paym
 
 In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
 
-(Pub. L. 99–198, title XII, § 1234, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 245; amended Pub. L. 110–234, title II, §§ 2109, 2110(a), (b)(1), (c), May 22, 2008, 122 Stat. 1034, 1035; Pub. L. 110–246, § 4(a), title II, §§ 2109, 2110(a), (b)(1), (c), June 18, 2008, 122 Stat. 1664, 1762, 1763; Pub. L. 113–79, title II, § 2005, Feb. 7, 2014, 128 Stat. 718; Pub. L. 115–334, title II, § 2207, Dec. 20, 2018, 132 Stat. 4546.)
+(Pub. L. 99–198, title XII, § 1234, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 245; amended Pub. L. 110–234, title II, §§ 2109, 2110(a), (b)(1), (c), May 22, 2008, 122 Stat. 1034, 1035; Pub. L. 110–246, § 4(a), title II, §§ 2109, 2110(a), (b)(1), (c), June 18, 2008, 122 Stat. 1664, 1762, 1763; Pub. L. 113–79, title II, § 2005, Feb. 7, 2014, 128 Stat. 718; Pub. L. 115–334, title II, § 2207, Dec. 20, 2018, 132 Stat. 4546.)
 
 **Editorial Notes**
 
@@ -2751,51 +2751,51 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3834, Pub. L. 99–198, title XII, § 1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, § 322, Aug. 11, 1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§ 1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605, related to payments for obligations, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 3834, Pub. L. 99–198, title XII, § 1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, § 322, Aug. 11, 1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§ 1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605, related to payments for obligations, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
-2018—Subsec. (b)(2) to (5). Pub. L. 115–334, § 2207(a), added par. (2), redesignated par. (5) as (3) and substituted “Except in the case of incentive payments that are related to the cost of the establishment of a practice and received from eligible partners under the conservation reserve enhancement program under section 3831a of this title, an owner” for “An owner”, added par. (4), and struck out former pars. (2) to (4) which related to limitation on payments, payments for land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors, and extension of planting of hardwood trees over a 3-year period, respectively.
+2018—Subsec. (b)(2) to (5). Pub. L. 115–334, § 2207(a), added par. (2), redesignated par. (5) as (3) and substituted “Except in the case of incentive payments that are related to the cost of the establishment of a practice and received from eligible partners under the conservation reserve enhancement program under section 3831a of this title, an owner” for “An owner”, added par. (4), and struck out former pars. (2) to (4) which related to limitation on payments, payments for land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors, and extension of planting of hardwood trees over a 3-year period, respectively.
 
-Subsec. (c). Pub. L. 115–334, § 2207(b)(1), substituted “Forest management incentive payments” for “Incentive payments” in heading.
+Subsec. (c). Pub. L. 115–334, § 2207(b)(1), substituted “Forest management incentive payments” for “Incentive payments” in heading.
 
-Subsec. (c)(1). Pub. L. 115–334, § 2207(b)(2), substituted “Using funds made available under section 3841(a)(1)(A) of this title, the Secretary” for “The Secretary”.
+Subsec. (c)(1). Pub. L. 115–334, § 2207(b)(2), substituted “Using funds made available under section 3841(a)(1)(A) of this title, the Secretary” for “The Secretary”.
 
-Subsec. (c)(2). Pub. L. 115–334, § 2207(b)(3), substituted “100 percent” for “150 percent”.
+Subsec. (c)(2). Pub. L. 115–334, § 2207(b)(3), substituted “100 percent” for “150 percent”.
 
-Subsec. (d)(1). Pub. L. 115–334, § 2207(c)(1), substituted “the Secretary shall consider—” for “the Secretary may consider, among other things,”, inserted subpar. (A) designation before “the amount” and substituted semicolon for period at end, and added subpars. (B) and (C).
+Subsec. (d)(1). Pub. L. 115–334, § 2207(c)(1), substituted “the Secretary shall consider—” for “the Secretary may consider, among other things,”, inserted subpar. (A) designation before “the amount” and substituted semicolon for period at end, and added subpars. (B) and (C).
 
-Subsec. (d)(2)(A). Pub. L. 115–334, § 2207(c)(2)(A), substituted “determined through the submission of applications for such contracts by owners and operators in such manner as the Secretary may prescribe.” for “determined through—
+Subsec. (d)(2)(A). Pub. L. 115–334, § 2207(c)(2)(A), substituted “determined through the submission of applications for such contracts by owners and operators in such manner as the Secretary may prescribe.” for “determined through—
 
 “(i) the submission of bids for such contracts by owners and operators in such manner as the Secretary may prescribe; or
 
 “(ii) such other means as the Secretary determines are appropriate.”
 
-Subsec. (d)(2)(B). Pub. L. 115–334, § 2207(c)(2)(C), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (d)(2)(B). Pub. L. 115–334, § 2207(c)(2)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (d)(2)(C). Pub. L. 115–334, § 2207(c)(2)(B), (D), redesignated subpar. (B) as (C) and substituted “Notwithstanding subparagraph (A), in the case” for “In the case”.
+Subsec. (d)(2)(C). Pub. L. 115–334, § 2207(c)(2)(B), (D), redesignated subpar. (B) as (C) and substituted “Notwithstanding subparagraph (A), in the case” for “In the case”.
 
-Subsec. (d)(2)(D). Pub. L. 115–334, § 2207(c)(2)(E), added subpar. (D).
+Subsec. (d)(2)(D). Pub. L. 115–334, § 2207(c)(2)(E), added subpar. (D).
 
-Subsec. (d)(4). Pub. L. 115–334, § 2207(c)(3), (4), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “In the case of acreage enrolled in the conservation reserve established under this subpart that is to be devoted to hardwood trees, the Secretary may consider bids for contracts under this subsection on a continuous basis.”
+Subsec. (d)(4). Pub. L. 115–334, § 2207(c)(3), (4), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “In the case of acreage enrolled in the conservation reserve established under this subpart that is to be devoted to hardwood trees, the Secretary may consider bids for contracts under this subsection on a continuous basis.”
 
-Subsec. (d)(4)(A). Pub. L. 115–334, § 2207(c)(5)(A), substituted “annually” for “, not less frequently than once every other year,” and inserted “, and shall publish the estimates derived from the survey not later than September 15 of each year” before period at end.
+Subsec. (d)(4)(A). Pub. L. 115–334, § 2207(c)(5)(A), substituted “annually” for “, not less frequently than once every other year,” and inserted “, and shall publish the estimates derived from the survey not later than September 15 of each year” before period at end.
 
-Subsec. (d)(4)(B). Pub. L. 115–334, § 2207(c)(5)(B), inserted “and the average current and previous soil rental rates for each county” before “shall be maintained”.
+Subsec. (d)(4)(B). Pub. L. 115–334, § 2207(c)(5)(B), inserted “and the average current and previous soil rental rates for each county” before “shall be maintained”.
 
-Subsec. (d)(4)(C). Pub. L. 115–334, § 2207(c)(5)(C), substituted “shall consider” for “may use”.
+Subsec. (d)(4)(C). Pub. L. 115–334, § 2207(c)(5)(C), substituted “shall consider” for “may use”.
 
-Subsec. (d)(4)(D), (E). Pub. L. 115–334, § 2207(c)(5)(D), added subpars. (D) and (E).
+Subsec. (d)(4)(D), (E). Pub. L. 115–334, § 2207(c)(5)(D), added subpars. (D) and (E).
 
-Subsec. (d)(5). Pub. L. 115–334, § 2207(c)(4), redesignated par. (5) as (4).
+Subsec. (d)(5). Pub. L. 115–334, § 2207(c)(4), redesignated par. (5) as (4).
 
-Subsec. (g)(1). Pub. L. 115–334, § 2207(d)(1), substituted “Except as provided in paragraph (2), the total” for “The total”.
+Subsec. (g)(1). Pub. L. 115–334, § 2207(d)(1), substituted “Except as provided in paragraph (2), the total” for “The total”.
 
-Subsec. (g)(2). Pub. L. 115–334, § 2207(d)(2), added par. (2) and struck out former par. (2) which related to applicability of payment limitations relative to agreements entered into under a special conservation reserve enhancement program.
+Subsec. (g)(2). Pub. L. 115–334, § 2207(d)(2), added par. (2) and struck out former par. (2) which related to applicability of payment limitations relative to agreements entered into under a special conservation reserve enhancement program.
 
-2014—Subsec. (b). Pub. L. 113–79, § 2005(b)(1)(A), struck out “Federal percentage of” before “cost sharing payments” in heading.
+2014—Subsec. (b). Pub. L. 113–79, § 2005(b)(1)(A), struck out “Federal percentage of” before “cost sharing payments” in heading.
 
-Subsec. (b)(3)(A). Pub. L. 113–79, § 2005(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “This paragraph applies to—
+Subsec. (b)(3)(A). Pub. L. 113–79, § 2005(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “This paragraph applies to—
 
 “(i) land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990;
 
@@ -2803,57 +2803,57 @@ Subsec. (b)(3)(A). Pub. L. 113–79, § 2005(a), amended subpar. (A) generally
 
 “(iii) land on which an owner or operator agrees to conduct thinning authorized by section 3832(a)(9) of this title, if the thinning is necessary to improve the condition of resources on the land.”
 
-Subsec. (b)(3)(B)(i). Pub. L. 113–79, § 2005(b)(1)(B)(i), struck out “or thinning” before period at end.
+Subsec. (b)(3)(B)(i). Pub. L. 113–79, § 2005(b)(1)(B)(i), struck out “or thinning” before period at end.
 
-Subsec. (b)(3)(B)(ii). Pub. L. 113–79, § 2005(b)(1)(B)(ii), amended cl. (ii) generally. Prior to amendment, text read as follows: “The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of—
+Subsec. (b)(3)(B)(ii). Pub. L. 113–79, § 2005(b)(1)(B)(ii), amended cl. (ii) generally. Prior to amendment, text read as follows: “The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of—
 
 “(I) the planting of the trees or shrubs; or
 
 “(II) the thinning of existing stands to improve the condition of resources on the land.”
 
-Subsecs. (c), (d). Pub. L. 113–79, § 2005(b)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 113–79, § 2005(b)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 113–79, § 2005(c)(1), inserted “or other eligible lands” after “highly erodible cropland” in two places.
+Subsec. (d)(1). Pub. L. 113–79, § 2005(c)(1), inserted “or other eligible lands” after “highly erodible cropland” in two places.
 
-Subsec. (d)(2). Pub. L. 113–79, § 2005(c)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through—
+Subsec. (d)(2). Pub. L. 113–79, § 2005(c)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through—
 
 “(A) the submission of bids for such contracts by owners and operators in such manner as the Secretary may prescribe; or
 
 “(B) such other means as the Secretary determines are appropriate.”
 
-Subsec. (d)(5)(A). Pub. L. 113–79, § 2005(c)(3)(A), substituted “, not less frequently than once every other year, conduct a survey” for “conduct an annual survey”.
+Subsec. (d)(5)(A). Pub. L. 113–79, § 2005(c)(3)(A), substituted “, not less frequently than once every other year, conduct a survey” for “conduct an annual survey”.
 
-Subsec. (d)(5)(B). Pub. L. 113–79, § 2005(c)(3)(B), struck out “annual” before “survey”.
+Subsec. (d)(5)(B). Pub. L. 113–79, § 2005(c)(3)(B), struck out “annual” before “survey”.
 
-Subsec. (d)(5)(C). Pub. L. 113–79, § 2005(c)(3)(C), added subpar. (C).
+Subsec. (d)(5)(C). Pub. L. 113–79, § 2005(c)(3)(C), added subpar. (C).
 
-Subsec. (e). Pub. L. 113–79, § 2005(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to cash or in-kind payments.
+Subsec. (e). Pub. L. 113–79, § 2005(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to cash or in-kind payments.
 
-Pub. L. 113–79, § 2005(b)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 113–79, § 2005(b)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsecs. (f), (g). Pub. L. 113–79, § 2005(b)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively. Former subsec. (g) redesignated (h).
+Subsecs. (f), (g). Pub. L. 113–79, § 2005(b)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively. Former subsec. (g) redesignated (h).
 
-Subsec. (g)(1). Pub. L. 113–79, § 2005(e)(1), struck out “, including rental payments made in the form of in-kind commodities,” after “total amount of rental payments”.
+Subsec. (g)(1). Pub. L. 113–79, § 2005(e)(1), struck out “, including rental payments made in the form of in-kind commodities,” after “total amount of rental payments”.
 
-Subsec. (g)(2) to (4). Pub. L. 113–79, § 2005(e)(2), (3), redesignated par. (4) as (2) and struck out par. (3). Prior to amendment, text of par. (3) read as follows: “Rental payments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002.”
+Subsec. (g)(2) to (4). Pub. L. 113–79, § 2005(e)(2), (3), redesignated par. (4) as (2) and struck out par. (3). Prior to amendment, text of par. (3) read as follows: “Rental payments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002.”
 
-Subsec. (h). Pub. L. 113–79, § 2005(b)(2), redesignated subsec. (g) as (h).
+Subsec. (h). Pub. L. 113–79, § 2005(b)(2), redesignated subsec. (g) as (h).
 
-2008—Subsec. (b)(3). Pub. L. 110–246, § 2109, added par. (3) and struck out former par. (3) which related to the making of payments to an owner or operator of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
+2008—Subsec. (b)(3). Pub. L. 110–246, § 2109, added par. (3) and struck out former par. (3) which related to the making of payments to an owner or operator of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
 
-Subsec. (c)(3). Pub. L. 110–246, § 2110(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In determining the acceptability of contract offers, the Secretary may—
+Subsec. (c)(3). Pub. L. 110–246, § 2110(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In determining the acceptability of contract offers, the Secretary may—
 
 “(A) take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, wildlife habitat, or provide other environmental benefits; and
 
 “(B) establish different criteria in various States and regions of the United States based on the extent to which water quality or wildlife habitat may be improved or erosion may be abated.”
 
-Subsec. (c)(5). Pub. L. 110–246, § 2110(b)(1), added par. (5).
+Subsec. (c)(5). Pub. L. 110–246, § 2110(b)(1), added par. (5).
 
-Subsec. (f)(1). Pub. L. 110–246, § 2110(c)(1), substituted “received by a person or legal entity, directly or indirectly,” for “made to a person”.
+Subsec. (f)(1). Pub. L. 110–246, § 2110(c)(1), substituted “received by a person or legal entity, directly or indirectly,” for “made to a person”.
 
-Subsec. (f)(2). Pub. L. 110–246, § 2110(c)(2), struck out par. (2) which related to promulgation of regulations defining the term “person” as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
+Subsec. (f)(2). Pub. L. 110–246, § 2110(c)(2), struck out par. (2) which related to promulgation of regulations defining the term “person” as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
 
-Subsec. (f)(4)(A). Pub. L. 110–246, § 2110(c)(3), substituted “any person or legal entity” for “any person”.
+Subsec. (f)(4)(A). Pub. L. 110–246, § 2110(c)(3), substituted “any person or legal entity” for “any person”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2863,7 +2863,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **First Survey Pursuant to Subsection (c)(5)**
 
-Pub. L. 110–234, title II, § 2110(b)(2), May 22, 2008, 122 Stat. 1035, and Pub. L. 110–246, § 4(a), title II, § 2110(b)(2), June 18, 2008, 122 Stat. 1664, 1763, provided that: “The first survey required by paragraph (5) of section 1234(c) [now 1234(d)] of the Food Security Act of 1985 (16 U.S.C. 3834(c) [now 16 U.S.C. 3834(d)]), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title II, § 2110(b)(2), May 22, 2008, 122 Stat. 1035, and Pub. L. 110–246, § 4(a), title II, § 2110(b)(2), June 18, 2008, 122 Stat. 1664, 1763, provided that: “The first survey required by paragraph (5) of section 1234(c) [now 1234(d)] of the Food Security Act of 1985 (16 U.S.C. 3834(c) [now 16 U.S.C. 3834(d)]), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
@@ -2871,7 +2871,7 @@ Pub. L. 110–234, title II, § 2110(b)(2), May 22, 2008, 122 Stat. 1035, and 
 
 For provisions directing that enumerated provisions of the Food Security Act of 1985 shall apply to the conservation reserve program under this subchapter with respect to rental payments to persons under contracts entered into after Dec. 22, 1987, with certain exceptions, see section 1305(d) of Pub. L. 100–203, set out as a note under section 1308 of Title 7, Agriculture.
 
-##### § 3835. Contracts
+##### § 3835. Contracts
 
 **(a) Ownership or operation requirements**
 
@@ -2991,9 +2991,9 @@ If land that was subject to a contract is returned to production of an agricultu
 
 **(f) Transition option for certain farmers or ranchers**
 
-**(1) Transition to covered farmer or rancher** In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a contract holder to a beginning farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) 1
+**(1) Transition to covered farmer or rancher** In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a contract holder to a beginning farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 7), or a socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
 
@@ -3051,15 +3051,15 @@ of title 7), or a socially disadvantaged farmer or rancher (in this subsection r
 
 The Secretary may terminate or modify a contract entered into under this subpart if eligible land that is subject to such contract is transferred into the agricultural conservation easement program under subchapter VII.
 
-(Pub. L. 99–198, title XII, § 1235, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 249; amended Pub. L. 110–234, title II, § 2111, May 22, 2008, 122 Stat. 1035; Pub. L. 110–246, § 4(a), title II, § 2111, June 18, 2008, 122 Stat. 1664, 1763; Pub. L. 113–79, title II, § 2006, Feb. 7, 2014, 128 Stat. 719; Pub. L. 115–334, title II, § 2208, Dec. 20, 2018, 132 Stat. 4549.)
+(Pub. L. 99–198, title XII, § 1235, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 249; amended Pub. L. 110–234, title II, § 2111, May 22, 2008, 122 Stat. 1035; Pub. L. 110–246, § 4(a), title II, § 2111, June 18, 2008, 122 Stat. 1664, 1763; Pub. L. 113–79, title II, § 2006, Feb. 7, 2014, 128 Stat. 719; Pub. L. 115–334, title II, § 2208, Dec. 20, 2018, 132 Stat. 4549.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2279(e) of title 7, referred to in subsec. (f)(1), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, § 12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
+Section 2279(e) of title 7, referred to in subsec. (f)(1), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, § 12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
 
-The Organic Foods Production Act of 1990, referred to in subsecs. (f)(1)(A)(ii) and (g)(2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
+The Organic Foods Production Act of 1990, referred to in subsecs. (f)(1)(A)(ii) and (g)(2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 **Codification**
 
@@ -3067,55 +3067,55 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3835, Pub. L. 99–198, title XII, § 1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII, § 801, Jan. 6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, § 1447(a), Nov. 28, 1990, 104 Stat. 3605; Pub. L. 104–127, title III, § 332(c), Apr. 4, 1996, 110 Stat. 994, related to contracts, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 3835, Pub. L. 99–198, title XII, § 1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII, § 801, Jan. 6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, § 1447(a), Nov. 28, 1990, 104 Stat. 3605; Pub. L. 104–127, title III, § 332(c), Apr. 4, 1996, 110 Stat. 994, related to contracts, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
-2018—Subsec. (f)(1). Pub. L. 115–334, § 2208(a)(1)(A), substituted “contract holder” for “retired farmer or rancher” in introductory provisions.
+2018—Subsec. (f)(1). Pub. L. 115–334, § 2208(a)(1)(A), substituted “contract holder” for “retired farmer or rancher” in introductory provisions.
 
-Subsec. (f)(1)(A). Pub. L. 115–334, § 2208(a)(1)(C), substituted “2 years” for “1 year” in introductory provisions.
+Subsec. (f)(1)(A). Pub. L. 115–334, § 2208(a)(1)(C), substituted “2 years” for “1 year” in introductory provisions.
 
-Subsec. (f)(1)(A)(i). Pub. L. 115–334, § 2208(a)(1)(B), substituted “contract holder” for “retired or retiring owner or operator”.
+Subsec. (f)(1)(A)(i). Pub. L. 115–334, § 2208(a)(1)(B), substituted “contract holder” for “retired or retiring owner or operator”.
 
-Subsec. (f)(1)(B). Pub. L. 115–334, § 2208(a)(1)(B), (D), substituted “contract holder” for “retired or retiring owner or operator” and inserted “, including a lease with a term of less than 5 years and an option to purchase” after “lease with an option to purchase”.
+Subsec. (f)(1)(B). Pub. L. 115–334, § 2208(a)(1)(B), (D), substituted “contract holder” for “retired or retiring owner or operator” and inserted “, including a lease with a term of less than 5 years and an option to purchase” after “lease with an option to purchase”.
 
-Subsec. (f)(1)(E). Pub. L. 115–334, § 2208(a)(1)(E), (G), added subpar. (E). Former subpar. (E) redesignated (F).
+Subsec. (f)(1)(E). Pub. L. 115–334, § 2208(a)(1)(E), (G), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Pub. L. 115–334, § 2208(a)(1)(B), substituted “contract holder” for “retired or retiring owner or operator” in two places.
+Pub. L. 115–334, § 2208(a)(1)(B), substituted “contract holder” for “retired or retiring owner or operator” in two places.
 
-Subsec. (f)(1)(F). Pub. L. 115–334, § 2208(a)(1)(F), redesignated subpar. (E) as (F).
+Subsec. (f)(1)(F). Pub. L. 115–334, § 2208(a)(1)(F), redesignated subpar. (E) as (F).
 
-Subsec. (f)(2). Pub. L. 115–334, § 2208(a)(2)(A), substituted “To the extent that the maximum number of acres permitted to be enrolled under the conservation reserve program has not been met, the Secretary” for “The Secretary” in introductory provisions.
+Subsec. (f)(2). Pub. L. 115–334, § 2208(a)(2)(A), substituted “To the extent that the maximum number of acres permitted to be enrolled under the conservation reserve program has not been met, the Secretary” for “The Secretary” in introductory provisions.
 
-Subsec. (f)(2)(A). Pub. L. 115–334, § 2208(a)(2)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “is eligible for enrollment under the continuous signup option pursuant to section 3834(d)(2)(A)(ii) of this title; and”.
+Subsec. (f)(2)(A). Pub. L. 115–334, § 2208(a)(2)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “is eligible for enrollment under the continuous signup option pursuant to section 3834(d)(2)(A)(ii) of this title; and”.
 
-Subsec. (g). Pub. L. 115–334, § 2208(b), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall not consider an owner or operator to be in violation of a term or condition of the conservation reserve contract if—
+Subsec. (g). Pub. L. 115–334, § 2208(b), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall not consider an owner or operator to be in violation of a term or condition of the conservation reserve contract if—
 
 “(1) during the year prior to expiration of the contract, the land is enrolled in the conservation stewardship program; and
 
 “(2) the activity required under the conservation stewardship program pursuant to such enrollment is consistent with this subpart.”
 
-2014—Subsec. (e)(1)(A). Pub. L. 113–79, § 2006(a)(1), substituted “During fiscal year 2015, the Secretary” for “The Secretary” and struck out “before January 1, 1995,” after “under this subpart”.
+2014—Subsec. (e)(1)(A). Pub. L. 113–79, § 2006(a)(1), substituted “During fiscal year 2015, the Secretary” for “The Secretary” and struck out “before January 1, 1995,” after “under this subpart”.
 
-Subsec. (e)(2)(C) to (J). Pub. L. 113–79, § 2006(a)(2), added subpars. (C) to (J) and struck out former subpar. (C) which read as follows: “Other land of high environmental value (including wetland), as determined by the Secretary.”
+Subsec. (e)(2)(C) to (J). Pub. L. 113–79, § 2006(a)(2), added subpars. (C) to (J) and struck out former subpar. (C) which read as follows: “Other land of high environmental value (including wetland), as determined by the Secretary.”
 
-Subsec. (e)(3). Pub. L. 113–79, § 2006(a)(3), substituted “upon approval by the Secretary” for “60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C)”.
+Subsec. (e)(3). Pub. L. 113–79, § 2006(a)(3), substituted “upon approval by the Secretary” for “60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C)”.
 
-Subsec. (f)(1). Pub. L. 113–79, § 2006(b)(1)(A), substituted “Transition to covered farmer or rancher” for “Duties of the Secretary” in heading and, in introductory provisions, substituted “In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a retired farmer or rancher to a beginning farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) of title 7), or a” for “In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or”.
+Subsec. (f)(1). Pub. L. 113–79, § 2006(b)(1)(A), substituted “Transition to covered farmer or rancher” for “Duties of the Secretary” in heading and, in introductory provisions, substituted “In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a retired farmer or rancher to a beginning farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) of title 7), or a” for “In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or”.
 
-Subsec. (f)(1)(A)(i). Pub. L. 113–79, § 2006(b)(1)(B), inserted “, including preparing to plant an agricultural crop” after “improvements”.
+Subsec. (f)(1)(A)(i). Pub. L. 113–79, § 2006(b)(1)(B), inserted “, including preparing to plant an agricultural crop” after “improvements”.
 
-Subsec. (f)(1)(D). Pub. L. 113–79, § 2006(b)(1)(C), substituted “the covered farmer or rancher” for “the farmer or rancher”.
+Subsec. (f)(1)(D). Pub. L. 113–79, § 2006(b)(1)(C), substituted “the covered farmer or rancher” for “the farmer or rancher”.
 
-Subsec. (f)(1)(E). Pub. L. 113–79, § 2006(b)(1)(D), substituted “section 1308” for “section 1308–1(b)(3)(B)”.
+Subsec. (f)(1)(E). Pub. L. 113–79, § 2006(b)(1)(D), substituted “section 1308” for “section 1308–1(b)(3)(B)”.
 
-Subsec. (f)(2)(A). Pub. L. 113–79, § 2006(b)(2), substituted “option pursuant to section 3834(d)(2)(A)(ii)” for “requirement of section 3831(h)(4)(B)”.
+Subsec. (f)(2)(A). Pub. L. 113–79, § 2006(b)(2), substituted “option pursuant to section 3834(d)(2)(A)(ii)” for “requirement of section 3831(h)(4)(B)”.
 
-Subsecs. (g), (h). Pub. L. 113–79, § 2006(c), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 113–79, § 2006(c), added subsecs. (g) and (h).
 
-2008—Subsec. (c)(1)(B)(iii), (iv). Pub. L. 110–246, § 2111(a), added cl. (iii) and redesignated former cl. (iii) as (iv).
+2008—Subsec. (c)(1)(B)(iii), (iv). Pub. L. 110–246, § 2111(a), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (f). Pub. L. 110–246, § 2111(b), added subsec. (f).
+Subsec. (f). Pub. L. 110–246, § 2111(b), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3125,43 +3125,43 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Conservation Reserve**
 
-Pub. L. 100–45, § 10, May 27, 1987, 101 Stat. 323, provided that: “Section 1235(a) of the Food Security Act of 1985 [16 U.S.C. 3835(a)] should be reviewed by the Secretary of Agriculture to ensure that the provisions thereof relating to exceptions to the three-year ownership requirement with respect to eligibility for the conservation reserve are being implemented in a manner to encourage inclusion of producer-owned land in the conservation reserve. However, any such exception to the three-year requirement should be made only if the Secretary determines that the land involved (1) was not acquired for the purpose of placing the land in the conservation reserve or (2) otherwise meets the criteria for exceptions made under section 1235(a).”
+Pub. L. 100–45, § 10, May 27, 1987, 101 Stat. 323, provided that: “Section 1235(a) of the Food Security Act of 1985 [16 U.S.C. 3835(a)] should be reviewed by the Secretary of Agriculture to ensure that the provisions thereof relating to exceptions to the three-year ownership requirement with respect to eligibility for the conservation reserve are being implemented in a manner to encourage inclusion of producer-owned land in the conservation reserve. However, any such exception to the three-year requirement should be made only if the Secretary determines that the land involved (1) was not acquired for the purpose of placing the land in the conservation reserve or (2) otherwise meets the criteria for exceptions made under section 1235(a).”
 
-##### § 3835a. Repealed. Pub. L. 113–79, title II, § 2007, Feb. 7, 2014, 128 Stat. 720
+##### § 3835a. Repealed. Pub. L. 113–79, title II, § 2007, Feb. 7, 2014, 128 Stat. 720
 
-Section, Pub. L. 99–198, title XII, § 1235A, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 251, related to conversion of land subject to contract to other conserving uses.
+Section, Pub. L. 99–198, title XII, § 1235A, as added Pub. L. 107–171, title II, § 2101(a), May 13, 2002, 116 Stat. 251, related to conversion of land subject to contract to other conserving uses.
 
 Prior sections 3835a and 3836 were omitted in the general amendment of this subpart by Pub. L. 107–171.
 
-Section 3835a, Pub. L. 99–198, title XII, § 1235A, as added Pub. L. 101–624, title XIV, § 1435, Nov. 28, 1990, 104 Stat. 3582; amended Pub. L. 102–324, § 1(b), July 22, 1992, 106 Stat. 447, related to conversion of land subject to contract to other conserving uses.
+Section 3835a, Pub. L. 99–198, title XII, § 1235A, as added Pub. L. 101–624, title XIV, § 1435, Nov. 28, 1990, 104 Stat. 3582; amended Pub. L. 102–324, § 1(b), July 22, 1992, 106 Stat. 447, related to conversion of land subject to contract to other conserving uses.
 
-Section 3836, Pub. L. 99–198, title XII, § 1236, Dec. 23, 1985, 99 Stat. 1514; Pub. L. 101–624, title XIV, §§ 1436, 1447(a), Nov. 28, 1990, 104 Stat. 3583, 3605; Pub. L. 107–76, title VII, § 759(b)(1), Nov. 28, 2001, 115 Stat. 741, related to cropland base and allotment history.
+Section 3836, Pub. L. 99–198, title XII, § 1236, Dec. 23, 1985, 99 Stat. 1514; Pub. L. 101–624, title XIV, §§ 1436, 1447(a), Nov. 28, 1990, 104 Stat. 3583, 3605; Pub. L. 107–76, title VII, § 759(b)(1), Nov. 28, 2001, 115 Stat. 741, related to cropland base and allotment history.
 
-A prior section 3836a, Pub. L. 104–127, title III, § 387, Apr. 4, 1996, 110 Stat. 1020, related to Wildlife Habitat Incentive Program, prior to repeal by Pub. L. 107–171, title II, § 2502(b), May 13, 2002, 116 Stat. 267.
+A prior section 3836a, Pub. L. 104–127, title III, § 387, Apr. 4, 1996, 110 Stat. 1020, related to Wildlife Habitat Incentive Program, prior to repeal by Pub. L. 107–171, title II, § 2502(b), May 13, 2002, 116 Stat. 267.
 
 #### subpart c—wetlands reserve program
 
-##### §§ 3837 to 3837f. Repealed. Pub. L. 113–79, title II, § 2703(a), Feb. 7, 2014, 128 Stat. 767
+##### §§ 3837 to 3837f. Repealed. Pub. L. 113–79, title II, § 2703(a), Feb. 7, 2014, 128 Stat. 767
 
-Section 3837, Pub. L. 99–198, title XII, § 1237, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3584; amended Pub. L. 102–237, title II, § 204(6), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 103–66, title I, § 1402(c), Aug. 10, 1993, 107 Stat. 333; Pub. L. 104–127, title III, § 333(a)–(c), Apr. 4, 1996, 110 Stat. 995; Pub. L. 105–277, div. A, § 101(a) [title VII, § 752], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 107–171, title II, §§ 2201, 2202, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§ 2201–2203(a), May 22, 2008, 122 Stat. 1036, 1037; Pub. L. 110–246, § 4(a), title II, §§ 2201–2203(a), June 18, 2008, 122 Stat. 1664, 1764, 1765, related to establishment of wetlands reserve program by Secretary.
+Section 3837, Pub. L. 99–198, title XII, § 1237, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3584; amended Pub. L. 102–237, title II, § 204(6), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 103–66, title I, § 1402(c), Aug. 10, 1993, 107 Stat. 333; Pub. L. 104–127, title III, § 333(a)–(c), Apr. 4, 1996, 110 Stat. 995; Pub. L. 105–277, div. A, § 101(a) [title VII, § 752], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 107–171, title II, §§ 2201, 2202, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§ 2201–2203(a), May 22, 2008, 122 Stat. 1036, 1037; Pub. L. 110–246, § 4(a), title II, §§ 2201–2203(a), June 18, 2008, 122 Stat. 1664, 1764, 1765, related to establishment of wetlands reserve program by Secretary.
 
-Section 3837a, Pub. L. 99–198, title XII, § 1237A, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3585; amended Pub. L. 104–127, title III, § 333(d), Apr. 4, 1996, 110 Stat. 996; Pub. L. 107–171, title II, § 2203, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§ 2204–2206, May 22, 2008, 122 Stat. 1038, 1039; Pub. L. 110–246, § 4(a), title II, §§ 2204–2206, June 18, 2008, 122 Stat. 1664, 1766, 1767, related to easements and agreements.
+Section 3837a, Pub. L. 99–198, title XII, § 1237A, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3585; amended Pub. L. 104–127, title III, § 333(d), Apr. 4, 1996, 110 Stat. 996; Pub. L. 107–171, title II, § 2203, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§ 2204–2206, May 22, 2008, 122 Stat. 1038, 1039; Pub. L. 110–246, § 4(a), title II, §§ 2204–2206, June 18, 2008, 122 Stat. 1664, 1766, 1767, related to easements and agreements.
 
-Section 3837b, Pub. L. 99–198, title XII, § 1237B, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3587, related to duties of owners.
+Section 3837b, Pub. L. 99–198, title XII, § 1237B, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3587, related to duties of owners.
 
-Section 3837c, Pub. L. 99–198, title XII, § 1237C, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3587; amended Pub. L. 104–127, title III, § 333(e), Apr. 4, 1996, 110 Stat. 996; Pub. L. 110–234, title II, § 2207, May 22, 2008, 122 Stat. 1039; Pub. L. 110–246, § 4(a), title II, § 2207, June 18, 2008, 122 Stat. 1664, 1767, related to duties of Secretary.
+Section 3837c, Pub. L. 99–198, title XII, § 1237C, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3587; amended Pub. L. 104–127, title III, § 333(e), Apr. 4, 1996, 110 Stat. 996; Pub. L. 110–234, title II, § 2207, May 22, 2008, 122 Stat. 1039; Pub. L. 110–246, § 4(a), title II, § 2207, June 18, 2008, 122 Stat. 1664, 1767, related to duties of Secretary.
 
-Section 3837d, Pub. L. 99–198, title XII, § 1237D, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3588; amended Pub. L. 105–277, div. A, § 101(a) [title VII, § 751], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 110–234, title II, §§ 2208, 2209, May 22, 2008, 122 Stat. 1040; Pub. L. 110–246, § 4(a), title II, §§ 2208, 2209, June 18, 2008, 122 Stat. 1664, 1768, related to payments.
+Section 3837d, Pub. L. 99–198, title XII, § 1237D, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3588; amended Pub. L. 105–277, div. A, § 101(a) [title VII, § 751], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 110–234, title II, §§ 2208, 2209, May 22, 2008, 122 Stat. 1040; Pub. L. 110–246, § 4(a), title II, §§ 2208, 2209, June 18, 2008, 122 Stat. 1664, 1768, related to payments.
 
-Section 3837e, Pub. L. 99–198, title XII, § 1237E, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3589; amended Pub. L. 107–171, title II, § 2204, May 13, 2002, 116 Stat. 253; Pub. L. 110–234, title II, § 2203(b), May 22, 2008, 122 Stat. 1037; Pub. L. 110–246, § 4(a), title II, § 2203(b), June 18, 2008, 122 Stat. 1664, 1765, related to changes in ownership; agreement modification; termination.
+Section 3837e, Pub. L. 99–198, title XII, § 1237E, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3589; amended Pub. L. 107–171, title II, § 2204, May 13, 2002, 116 Stat. 253; Pub. L. 110–234, title II, § 2203(b), May 22, 2008, 122 Stat. 1037; Pub. L. 110–246, § 4(a), title II, § 2203(b), June 18, 2008, 122 Stat. 1664, 1765, related to changes in ownership; agreement modification; termination.
 
-Section 3837f, Pub. L. 99–198, title XII, § 1237F, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3589; Pub. L. 110–234, title II, § 2203(c), May 22, 2008, 122 Stat. 1037; Pub. L. 110–246, § 4(a), title II, § 2203(c), June 18, 2008, 122 Stat. 1664, 1765, related to administration and funding.
+Section 3837f, Pub. L. 99–198, title XII, § 1237F, as added Pub. L. 101–624, title XIV, § 1438, Nov. 28, 1990, 104 Stat. 3589; Pub. L. 110–234, title II, § 2203(c), May 22, 2008, 122 Stat. 1037; Pub. L. 110–246, § 4(a), title II, § 2203(c), June 18, 2008, 122 Stat. 1664, 1765, related to administration and funding.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal; Transitional Provisions**
 
-Pub. L. 113–79, title II, § 2703, Feb. 7, 2014, 128 Stat. 767, provided that:
+Pub. L. 113–79, title II, § 2703, Feb. 7, 2014, 128 Stat. 767, provided that:
 
 > **“(a) Repeal.—** Except as provided in subsection (b), subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837 et seq.) is repealed.
 
@@ -3177,29 +3177,29 @@ Pub. L. 113–79, title II, § 2703, Feb. 7, 2014, 128 Stat. 767, provided tha
 
 **Effect of 1996 Amendments on Existing Agreements**
 
-Pub. L. 104–127, title III, § 333(f), Apr. 4, 1996, 110 Stat. 996, provided that: “The amendments made by this section [amending former sections 3837, 3837a, and 3837c of this title] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([former] 16 U.S.C. 3837 et seq.) before the date of enactment of this Act [Apr. 4, 1996] or any payments required to be made in connection with the agreements.”
+Pub. L. 104–127, title III, § 333(f), Apr. 4, 1996, 110 Stat. 996, provided that: “The amendments made by this section [amending former sections 3837, 3837a, and 3837c of this title] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([former] 16 U.S.C. 3837 et seq.) before the date of enactment of this Act [Apr. 4, 1996] or any payments required to be made in connection with the agreements.”
 
 ### Part II—Conservation Security and Farmland Protection
 
 #### subpart a—conservation security program
 
-##### §§ 3838 to 3838c. Repealed. Pub. L. 115–334, title II, § 2301(c)(1), Dec. 20, 2018, 132 Stat. 4551
+##### §§ 3838 to 3838c. Repealed. Pub. L. 115–334, title II, § 2301(c)(1), Dec. 20, 2018, 132 Stat. 4551
 
-Section 3838, Pub. L. 99–198, title XII, § 1238, as added Pub. L. 107–171, title II, § 2001(a), May 13, 2002, 116 Stat. 223, defined terms for this subpart.
+Section 3838, Pub. L. 99–198, title XII, § 1238, as added Pub. L. 107–171, title II, § 2001(a), May 13, 2002, 116 Stat. 223, defined terms for this subpart.
 
-A prior section 3838, Pub. L. 99–198, title XII, § 1238, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3590, related to policy of Congress on water quality protection, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838, Pub. L. 99–198, title XII, § 1238, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3590, related to policy of Congress on water quality protection, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
 
-Section 3838a, Pub. L. 99–198, title XII, § 1238A, as added Pub. L. 107–171, title II, § 2001(a), May 13, 2002, 116 Stat. 225; amended Pub. L. 109–171, title I, § 1202(a), Feb. 8, 2006, 120 Stat. 5; Pub. L. 110–234, title II, § 2301(b), (c), May 22, 2008, 122 Stat. 1047, 1048; Pub. L. 110–246, § 4(a), title II, § 2301(b), (c), June 18, 2008, 122 Stat. 1664, 1775, 1776, established a conservation security program to assist producers of agricultural operations in promoting conservation purposes.
+Section 3838a, Pub. L. 99–198, title XII, § 1238A, as added Pub. L. 107–171, title II, § 2001(a), May 13, 2002, 116 Stat. 225; amended Pub. L. 109–171, title I, § 1202(a), Feb. 8, 2006, 120 Stat. 5; Pub. L. 110–234, title II, § 2301(b), (c), May 22, 2008, 122 Stat. 1047, 1048; Pub. L. 110–246, § 4(a), title II, § 2301(b), (c), June 18, 2008, 122 Stat. 1664, 1775, 1776, established a conservation security program to assist producers of agricultural operations in promoting conservation purposes.
 
-A prior section 3838a, Pub. L. 99–198, title XII, § 1238A, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3590, defined terms for purposes of this part, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838a, Pub. L. 99–198, title XII, § 1238A, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3590, defined terms for purposes of this part, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
 
-Section 3838b, Pub. L. 99–198, title XII, § 1238B, as added Pub. L. 107–171, title II, § 2001(a), May 13, 2002, 116 Stat. 230, set forth duties of producers under conservation security contracts.
+Section 3838b, Pub. L. 99–198, title XII, § 1238B, as added Pub. L. 107–171, title II, § 2001(a), May 13, 2002, 116 Stat. 230, set forth duties of producers under conservation security contracts.
 
-A prior section 3838b, Pub. L. 99–198, title XII, § 1238B, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3590, directed Secretary to formulate and carry out agricultural water quality protection program, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838b, Pub. L. 99–198, title XII, § 1238B, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3590, directed Secretary to formulate and carry out agricultural water quality protection program, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
 
-Section 3838c, Pub. L. 99–198, title XII, § 1238C, as added Pub. L. 107–171, title II, § 2001(a), May 13, 2002, 116 Stat. 230, set forth duties of Secretary of Agriculture relating to timing and amounts of payments, promulgation of regulations, changes of interest in land, enrollment procedure, and providing technical assistance.
+Section 3838c, Pub. L. 99–198, title XII, § 1238C, as added Pub. L. 107–171, title II, § 2001(a), May 13, 2002, 116 Stat. 230, set forth duties of Secretary of Agriculture relating to timing and amounts of payments, promulgation of regulations, changes of interest in land, enrollment procedure, and providing technical assistance.
 
-A prior section 3838c, Pub. L. 99–198, title XII, § 1238C, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3594, related to lands eligible for enrollment in water quality protection program, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838c, Pub. L. 99–198, title XII, § 1238C, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3594, related to lands eligible for enrollment in water quality protection program, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
 
 #### subpart b—conservation stewardship program
 
@@ -3207,37 +3207,37 @@ A prior section 3838c, Pub. L. 99–198, title XII, § 1238C, as added Pub. L.
 
 **Codification**
 
-Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 721, amended subpart heading generally.
+Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 721, amended subpart heading generally.
 
 **Prior Provisions**
 
-A prior subpart B, consisting of sections 3838h to 3838j, was redesignated subpart C of this part by Pub. L. 110–234, title II, § 2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, and subsequently repealed by Pub. L. 113–79, title II, § 2704(a), Feb. 7, 2014, 128 Stat. 767.
+A prior subpart B, consisting of sections 3838h to 3838j, was redesignated subpart C of this part by Pub. L. 110–234, title II, § 2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, and subsequently repealed by Pub. L. 113–79, title II, § 2704(a), Feb. 7, 2014, 128 Stat. 767.
 
-##### §§ 3838d to 3838g. Transferred
+##### §§ 3838d to 3838g. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 3838d, Pub. L. 99–198, title XII, § 1238D, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1768; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 721, which set out definitions for this subpart, was renumbered section 1240I of Pub. L. 99–198 and transferred to section 3839aa–21 of this title.
+Section 3838d, Pub. L. 99–198, title XII, § 1238D, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1768; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 721, which set out definitions for this subpart, was renumbered section 1240I of Pub. L. 99–198 and transferred to section 3839aa–21 of this title.
 
-A prior section 3838d, Pub. L. 99–198, title XII, § 1238D, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3595, related to technical assistance for water quality protection, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838d, Pub. L. 99–198, title XII, § 1238D, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3595, related to technical assistance for water quality protection, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
 
-Section 3838e, Pub. L. 99–198, title XII, § 1238E, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1041, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1769; amended Pub. L. 112–55, div. A, title VII, § 716(b), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 722, which established a conservation stewardship program, was renumbered section 1240J of Pub. L. 99–198 and transferred to section 3839aa–22 of this title.
+Section 3838e, Pub. L. 99–198, title XII, § 1238E, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1041, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1769; amended Pub. L. 112–55, div. A, title VII, § 716(b), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 722, which established a conservation stewardship program, was renumbered section 1240J of Pub. L. 99–198 and transferred to section 3839aa–22 of this title.
 
-A prior section 3838e, Pub. L. 99–198, title XII, § 1238E, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3596, related to demonstration and pilot programs, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838e, Pub. L. 99–198, title XII, § 1238E, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3596, related to demonstration and pilot programs, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
 
-Section 3838f, Pub. L. 99–198, title XII, § 1238F, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1042, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1770; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 723, which related to stewardship contracts, was renumbered section 1240K of Pub. L. 99–198 and transferred to section 3839aa–23 of this title.
+Section 3838f, Pub. L. 99–198, title XII, § 1238F, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1042, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1770; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 723, which related to stewardship contracts, was renumbered section 1240K of Pub. L. 99–198 and transferred to section 3839aa–23 of this title.
 
-A prior section 3838f, Pub. L. 99–198, title XII, § 1238F, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3596, related to report to Congress, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838f, Pub. L. 99–198, title XII, § 1238F, as added Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3596, related to report to Congress, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007.
 
-Section 3838g, Pub. L. 99–198, title XII, § 1238G, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1045, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1773; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 726, which described duties of the Secretary regarding the conservation stewardship program, was renumbered section 1240L of Pub. L. 99–198 and transferred to section 3839aa–24 of this title.
+Section 3838g, Pub. L. 99–198, title XII, § 1238G, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1045, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1773; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 726, which described duties of the Secretary regarding the conservation stewardship program, was renumbered section 1240L of Pub. L. 99–198 and transferred to section 3839aa–24 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of Conservation Stewardship Program**
 
-Pub. L. 115–334, title II, § 2301(c)(2), Dec. 20, 2018, 132 Stat. 4552, provided that: “Effective on the date of enactment of this Act [Dec. 20, 2018], the conservation stewardship program under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838d et seq.) (as in effect on the day before the date of enactment of this Act) shall cease to be effective.”
+Pub. L. 115–334, title II, § 2301(c)(2), Dec. 20, 2018, 132 Stat. 4552, provided that: “Effective on the date of enactment of this Act [Dec. 20, 2018], the conservation stewardship program under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838d et seq.) (as in effect on the day before the date of enactment of this Act) shall cease to be effective.”
 
 #### subpart c—farmland protection program
 
@@ -3245,27 +3245,27 @@ Pub. L. 115–334, title II, § 2301(c)(2), Dec. 20, 2018, 132 Stat. 4552, pro
 
 **Codification**
 
-Pub. L. 110–234, title II, § 2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, both redesignated subpart B of this part as subpart C. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.
+Pub. L. 110–234, title II, § 2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, both redesignated subpart B of this part as subpart C. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.
 
 Section 2503(a) of Pub. L. 107–171, which directed that subchapter B (this subpart) be added at the end of chapter 2 of the Food Security Act of 1985, was executed by adding subchapter B after subchapter A of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (subpart A of this part) to reflect the probable intent of Congress and a prior amendment by section 2401 of Pub. L. 107–171, which had added subchapter C (subpart C of this part) at the end of chapter 2 of subtitle D of title XII of the Food Security Act of 1985.
 
 **Prior Provisions**
 
-A prior subpart C, consisting of sections 3838n to 3838q, was redesignated subpart D of this part by Pub. L. 110–234, title II, § 2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, and was subsequently repealed by Pub. L. 113–79, title II, § 2705(a), Feb. 7, 2014, 128 Stat. 768.
+A prior subpart C, consisting of sections 3838n to 3838q, was redesignated subpart D of this part by Pub. L. 110–234, title II, § 2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, and was subsequently repealed by Pub. L. 113–79, title II, § 2705(a), Feb. 7, 2014, 128 Stat. 768.
 
-##### §§ 3838h to 3838j. Repealed. Pub. L. 113–79, title II, § 2704(a), Feb. 7, 2014, 128 Stat. 767
+##### §§ 3838h to 3838j. Repealed. Pub. L. 113–79, title II, § 2704(a), Feb. 7, 2014, 128 Stat. 767
 
-Section 3838h, Pub. L. 99–198, title XII, § 1238H, as added Pub. L. 107–171, title II, § 2503(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, § 2401(a), May 22, 2008, 122 Stat. 1048; Pub. L. 110–246, § 4(a), title II, § 2401(a), June 18, 2008, 122 Stat. 1664, 1776, defined terms used in this subpart.
+Section 3838h, Pub. L. 99–198, title XII, § 1238H, as added Pub. L. 107–171, title II, § 2503(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, § 2401(a), May 22, 2008, 122 Stat. 1048; Pub. L. 110–246, § 4(a), title II, § 2401(a), June 18, 2008, 122 Stat. 1664, 1776, defined terms used in this subpart.
 
-Section 3838i, Pub. L. 99–198, title XII, § 1238I, as added Pub. L. 107–171, title II, § 2503(a), May 13, 2002, 116 Stat. 268; amended Pub. L. 110–234, title II, § 2401(b), May 22, 2008, 122 Stat. 1049; Pub. L. 110–246, § 4(a), title II, § 2401(b), June 18, 2008, 122 Stat. 1664, 1777, related to farmland protection program.
+Section 3838i, Pub. L. 99–198, title XII, § 1238I, as added Pub. L. 107–171, title II, § 2503(a), May 13, 2002, 116 Stat. 268; amended Pub. L. 110–234, title II, § 2401(b), May 22, 2008, 122 Stat. 1049; Pub. L. 110–246, § 4(a), title II, § 2401(b), June 18, 2008, 122 Stat. 1664, 1777, related to farmland protection program.
 
-Section 3838j, Pub. L. 99–198, title XII, § 1238J, as added Pub. L. 107–171, title II, § 2503(a), May 13, 2002, 116 Stat. 269; amended Pub. L. 110–234, title II, § 2402, May 22, 2008, 122 Stat. 1051; Pub. L. 110–246, § 4(a), title II, § 2402, June 18, 2008, 122 Stat. 1664, 1779, related to farm viability program.
+Section 3838j, Pub. L. 99–198, title XII, § 1238J, as added Pub. L. 107–171, title II, § 2503(a), May 13, 2002, 116 Stat. 269; amended Pub. L. 110–234, title II, § 2402, May 22, 2008, 122 Stat. 1051; Pub. L. 110–246, § 4(a), title II, § 2402, June 18, 2008, 122 Stat. 1664, 1779, related to farm viability program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal; Transitional Provisions**
 
-Pub. L. 113–79, title II, § 2704, Feb. 7, 2014, 128 Stat. 767, provided that:
+Pub. L. 113–79, title II, § 2704, Feb. 7, 2014, 128 Stat. 767, provided that:
 
 > **“(a) Repeal.—** Except as provided in subsection (b), subchapter C of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838h et seq.) is repealed.
 
@@ -3285,25 +3285,25 @@ Pub. L. 113–79, title II, § 2704, Feb. 7, 2014, 128 Stat. 767, provided tha
 
 **Codification**
 
-Pub. L. 110–234, title II, §§ 2301(a)(1), 2403, May 22, 2008, 122 Stat. 1040, 1051, and Pub. L. 110–246, § 4(a), title II, §§ 2301(a)(1), 2403, June 18, 2008, 122 Stat. 1664, 1768, 1779, both redesignated subpart C of this part as subpart D. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.
+Pub. L. 110–234, title II, §§ 2301(a)(1), 2403, May 22, 2008, 122 Stat. 1040, 1051, and Pub. L. 110–246, § 4(a), title II, §§ 2301(a)(1), 2403, June 18, 2008, 122 Stat. 1664, 1768, 1779, both redesignated subpart C of this part as subpart D. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.
 
 Section 2401 of Pub. L. 107–171, which directed that subchapter C (this subpart) be added at the end of chapter 2 of the Food Security Act of 1985, was executed by adding subchapter C at the end of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (this part) to reflect the probable intent of Congress.
 
-##### §§ 3838n to 3838q. Repealed. Pub. L. 113–79, title II, § 2705(a), Feb. 7, 2014, 128 Stat. 768
+##### §§ 3838n to 3838q. Repealed. Pub. L. 113–79, title II, § 2705(a), Feb. 7, 2014, 128 Stat. 768
 
-Section 3838n, Pub. L. 99–198, title XII, § 1238N, as added Pub. L. 107–171, title II, § 2401, May 13, 2002, 116 Stat. 258; Pub. L. 110–234, title II, § 2403, May 22, 2008, 122 Stat. 1051; Pub. L. 110–246, § 4(a), title II, § 2403, June 18, 2008, 122 Stat. 1664, 1779, related to establishment of grassland reserve program by Secretary.
+Section 3838n, Pub. L. 99–198, title XII, § 1238N, as added Pub. L. 107–171, title II, § 2401, May 13, 2002, 116 Stat. 258; Pub. L. 110–234, title II, § 2403, May 22, 2008, 122 Stat. 1051; Pub. L. 110–246, § 4(a), title II, § 2403, June 18, 2008, 122 Stat. 1664, 1779, related to establishment of grassland reserve program by Secretary.
 
-Section 3838*o*, Pub. L. 99–198, title XII, § 1238O, as added Pub. L. 107–171, title II, § 2401, May 13, 2002, 116 Stat. 259; amended Pub. L. 110–234, title II, § 2403, May 22, 2008, 122 Stat. 1052; Pub. L. 110–246, § 4(a), title II, § 2403, June 18, 2008, 122 Stat. 1664, 1780, related to duties of owners and operators.
+Section 3838*o*, Pub. L. 99–198, title XII, § 1238O, as added Pub. L. 107–171, title II, § 2401, May 13, 2002, 116 Stat. 259; amended Pub. L. 110–234, title II, § 2403, May 22, 2008, 122 Stat. 1052; Pub. L. 110–246, § 4(a), title II, § 2403, June 18, 2008, 122 Stat. 1664, 1780, related to duties of owners and operators.
 
-Section 3838p, Pub. L. 99–198, title XII, § 1238P, as added Pub. L. 107–171, title II, § 2401, May 13, 2002, 116 Stat. 261; amended Pub. L. 110–234, title II, § 2403, May 22, 2008, 122 Stat. 1054; Pub. L. 110–246, § 4(a), title II, § 2403, June 18, 2008, 122 Stat. 1664, 1782, related to duties of Secretary.
+Section 3838p, Pub. L. 99–198, title XII, § 1238P, as added Pub. L. 107–171, title II, § 2401, May 13, 2002, 116 Stat. 261; amended Pub. L. 110–234, title II, § 2403, May 22, 2008, 122 Stat. 1054; Pub. L. 110–246, § 4(a), title II, § 2403, June 18, 2008, 122 Stat. 1664, 1782, related to duties of Secretary.
 
-Section 3838q, Pub. L. 99–198, title XII, § 1238Q, as added Pub. L. 107–171, title II, § 2401, May 13, 2002, 116 Stat. 262; amended Pub. L. 108–447, div. A, title VII, § 797, Dec. 8, 2004, 118 Stat. 2852; Pub. L. 110–234, title II, § 2403, May 22, 2008, 122 Stat. 1055; Pub. L. 110–246, § 4(a), title II, § 2403, June 18, 2008, 122 Stat. 1664, 1783, related to delegation of duty.
+Section 3838q, Pub. L. 99–198, title XII, § 1238Q, as added Pub. L. 107–171, title II, § 2401, May 13, 2002, 116 Stat. 262; amended Pub. L. 108–447, div. A, title VII, § 797, Dec. 8, 2004, 118 Stat. 2852; Pub. L. 110–234, title II, § 2403, May 22, 2008, 122 Stat. 1055; Pub. L. 110–246, § 4(a), title II, § 2403, June 18, 2008, 122 Stat. 1664, 1783, related to delegation of duty.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal; Transitional Provisions**
 
-Pub. L. 113–79, title II, § 2705, Feb. 7, 2014, 128 Stat. 768, provided that:
+Pub. L. 113–79, title II, § 2705, Feb. 7, 2014, 128 Stat. 768, provided that:
 
 > **“(a) Repeal.—** Except as provided in subsection (b), subchapter D of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838n et seq.) is repealed.
 
@@ -3319,17 +3319,17 @@ Pub. L. 113–79, title II, § 2705, Feb. 7, 2014, 128 Stat. 768, provided tha
 
 ### Part III—Environmental Easement Program
 
-#### §§ 3839 to 3839d. Repealed. Pub. L. 113–79, title II, § 2711, Feb. 7, 2014, 128 Stat. 771
+#### §§ 3839 to 3839d. Repealed. Pub. L. 113–79, title II, § 2711, Feb. 7, 2014, 128 Stat. 771
 
-Section 3839, Pub. L. 99–198, title XII, § 1239, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3597; amended Pub. L. 102–237, title II, § 204(7), Dec. 13, 1991, 105 Stat. 1855, related to establishment of environmental easement program by Secretary.
+Section 3839, Pub. L. 99–198, title XII, § 1239, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3597; amended Pub. L. 102–237, title II, § 204(7), Dec. 13, 1991, 105 Stat. 1855, related to establishment of environmental easement program by Secretary.
 
-Section 3839a, Pub. L. 99–198, title XII, § 1239A, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3597, related to duties of owners; components of plan.
+Section 3839a, Pub. L. 99–198, title XII, § 1239A, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3597, related to duties of owners; components of plan.
 
-Section 3839b, Pub. L. 99–198, title XII, § 1239B, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3598, related to duties of Secretary.
+Section 3839b, Pub. L. 99–198, title XII, § 1239B, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3598, related to duties of Secretary.
 
-Section 3839c, Pub. L. 99–198, title XII, § 1239C, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3599, related to payments.
+Section 3839c, Pub. L. 99–198, title XII, § 1239C, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3599, related to payments.
 
-Section 3839d, Pub. L. 99–198, title XII, § 1239D, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3600, related to changes in ownership; modification of easement.
+Section 3839d, Pub. L. 99–198, title XII, § 1239D, as added Pub. L. 101–624, title XIV, § 1440, Nov. 28, 1990, 104 Stat. 3600, related to changes in ownership; modification of easement.
 
 ### Part IV—Environmental Quality Incentives Program and Conservation Stewardship Program
 
@@ -3337,13 +3337,13 @@ Section 3839d, Pub. L. 99–198, title XII, § 1239D, as added Pub. L. 101–6
 
 **Codification**
 
-Pub. L. 115–334, title II, § 2301(a)(1), Dec. 20, 2018, 132 Stat. 4551, substituted “Environmental Quality Incentives Program and Conservation Stewardship Program” for “Environmental Quality Incentives Program” in part heading.
+Pub. L. 115–334, title II, § 2301(a)(1), Dec. 20, 2018, 132 Stat. 4551, substituted “Environmental Quality Incentives Program and Conservation Stewardship Program” for “Environmental Quality Incentives Program” in part heading.
 
-Chapter 4 of subtitle D of title XII of the Food Security Act of 1985, comprising this part, was originally added to Pub. L. 99–198 by Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 996. Chapter 4 is shown herein, however, as having been added by Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 253, because of the extensive revision of the chapter’s provisions by Pub. L. 107–171. Such revision did not contain a chapter heading, which was subsequently added by Pub. L. 110–234, title II, § 2501(b), May 22, 2008, 122 Stat. 1058, and Pub. L. 110–246, § 4(a), title II, § 2501(b), June 18, 2008, 122 Stat. 1664, 1786. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.
+Chapter 4 of subtitle D of title XII of the Food Security Act of 1985, comprising this part, was originally added to Pub. L. 99–198 by Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 996. Chapter 4 is shown herein, however, as having been added by Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 253, because of the extensive revision of the chapter’s provisions by Pub. L. 107–171. Such revision did not contain a chapter heading, which was subsequently added by Pub. L. 110–234, title II, § 2501(b), May 22, 2008, 122 Stat. 1058, and Pub. L. 110–246, § 4(a), title II, § 2501(b), June 18, 2008, 122 Stat. 1664, 1786. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.
 
 #### subpart a—environmental quality incentives program
 
-##### § 3839aa. Purposes
+##### § 3839aa. Purposes
 
 The purposes of the environmental quality incentives program established by this subpart are to promote agricultural production, forest management, and environmental quality as compatible goals, and to optimize environmental benefits, by—
 
@@ -3367,7 +3367,7 @@ The purposes of the environmental quality incentives program established by this
 
 **(4)** assisting producers to make beneficial, cost-effective changes to production systems, including addressing identified, new, or expected resource concerns related to organic production, grazing management, fuels management, forest management, nutrient management associated with crops and livestock, pest management, irrigation management, adapting to, and mitigating against, increasing weather volatility, drought resiliency measures, or other practices on agricultural and forested land.
 
-(Pub. L. 99–198, title XII, § 1240, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, § 2501(a), May 22, 2008, 122 Stat. 1057; Pub. L. 110–246, § 4(a), title II, § 2501(a), June 18, 2008, 122 Stat. 1664, 1785; Pub. L. 113–79, title II, § 2201, Feb. 7, 2014, 128 Stat. 728; Pub. L. 115–334, title II, §§ 2301(d)(1)(D), 2302, Dec. 20, 2018, 132 Stat. 4554, 4555.)
+(Pub. L. 99–198, title XII, § 1240, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, § 2501(a), May 22, 2008, 122 Stat. 1057; Pub. L. 110–246, § 4(a), title II, § 2501(a), June 18, 2008, 122 Stat. 1664, 1785; Pub. L. 113–79, title II, § 2201, Feb. 7, 2014, 128 Stat. 728; Pub. L. 115–334, title II, §§ 2301(d)(1)(D), 2302, Dec. 20, 2018, 132 Stat. 4554, 4555.)
 
 **Editorial Notes**
 
@@ -3377,23 +3377,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa, Pub. L. 99–198, title XII, § 1240, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 996, related to purposes, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa, Pub. L. 99–198, title XII, § 1240, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 996, related to purposes, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 2301(d)(1)(D), substituted “this subpart” for “this part” in introductory provisions.
+2018—Pub. L. 115–334, § 2301(d)(1)(D), substituted “this subpart” for “this part” in introductory provisions.
 
-Par. (4). Pub. L. 115–334, § 2302, added par. (4) and struck out former par. (4) which read as follows: “assisting producers to make beneficial, cost effective changes to production systems (including conservation practices related to organic production), grazing management, fuels management, forest management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural and forested land.”
+Par. (4). Pub. L. 115–334, § 2302, added par. (4) and struck out former par. (4) which read as follows: “assisting producers to make beneficial, cost effective changes to production systems (including conservation practices related to organic production), grazing management, fuels management, forest management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural and forested land.”
 
-2014—Par. (3). Pub. L. 113–79, § 2201(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+2014—Par. (3). Pub. L. 113–79, § 2201(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Par. (4). Pub. L. 113–79, § 2201(2), substituted a period for “; and” at end.
+Par. (4). Pub. L. 113–79, § 2201(2), substituted a period for “; and” at end.
 
-Par. (5). Pub. L. 113–79, § 2201(3), struck out par. (5) which read as follows: “consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.”
+Par. (5). Pub. L. 113–79, § 2201(3), struck out par. (5) which read as follows: “consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.”
 
-2008—Pub. L. 110–246, § 2501(a)(1), inserted “, forest management,” after “agricultural production” in introductory provisions.
+2008—Pub. L. 110–246, § 2501(a)(1), inserted “, forest management,” after “agricultural production” in introductory provisions.
 
-Pars. (3), (4). Pub. L. 110–246, § 2501(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
+Pars. (3), (4). Pub. L. 110–246, § 2501(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 
 “(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
 
@@ -3407,9 +3407,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effect on Existing Contracts**
 
-Pub. L. 113–79, title II, § 2208, Feb. 7, 2014, 128 Stat. 731, provided that: “The amendments made by this subtitle [subtitle C (§§ 2201–2208) of title II of Pub. L. 113–79, amending this section and sections 3839aa–1 to 3839aa–4, 3839aa–7, and 3839aa–8 of this title] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract.”
+Pub. L. 113–79, title II, § 2208, Feb. 7, 2014, 128 Stat. 731, provided that: “The amendments made by this subtitle [subtitle C (§§ 2201–2208) of title II of Pub. L. 113–79, amending this section and sections 3839aa–1 to 3839aa–4, 3839aa–7, and 3839aa–8 of this title] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract.”
 
-##### § 3839aa–1. Definitions
+##### § 3839aa–1. Definitions
 
 In this subpart:
 
@@ -3517,13 +3517,13 @@ The term “program” means the environmental quality incentives program establ
 
 **(B)** the biological and physical characteristics indicative of proper soil functioning.
 
-(Pub. L. 99–198, title XII, § 1240A, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, § 2502, May 22, 2008, 122 Stat. 1058; Pub. L. 110–246, § 4(a), title II, § 2502, June 18, 2008, 122 Stat. 1664, 1786; Pub. L. 113–79, title II, § 2202, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–334, title II, §§ 2301(d)(1)(E), 2303, Dec. 20, 2018, 132 Stat. 4554, 4555.)
+(Pub. L. 99–198, title XII, § 1240A, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, § 2502, May 22, 2008, 122 Stat. 1058; Pub. L. 110–246, § 4(a), title II, § 2502, June 18, 2008, 122 Stat. 1664, 1786; Pub. L. 113–79, title II, § 2202, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–334, title II, §§ 2301(d)(1)(E), 2303, Dec. 20, 2018, 132 Stat. 4554, 4555.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Organic Foods Production Act of 1990, referred to in par. (4), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
+The Organic Foods Production Act of 1990, referred to in par. (4), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 **Codification**
 
@@ -3531,31 +3531,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa–1, Pub. L. 99–198, title XII, § 1240A, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 997, related to definitions of terms, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–1, Pub. L. 99–198, title XII, § 1240A, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 997, related to definitions of terms, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 2301(d)(1)(E), substituted “this subpart” for “this part” wherever appearing.
+2018—Pub. L. 115–334, § 2301(d)(1)(E), substituted “this subpart” for “this part” wherever appearing.
 
-Par. (1). Pub. L. 115–334, § 2303(2), added par. (1). Former par. (1) redesignated (2).
+Par. (1). Pub. L. 115–334, § 2303(2), added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 115–334, § 2303(1), (3), redesignated par. (1) as (2) and, in subpar. (B)(vi), inserted “environmentally sensitive areas,” after “marshes,” and “identified or expected” before “resource concerns”. Former par. (2) redesignated (4).
+Par. (2). Pub. L. 115–334, § 2303(1), (3), redesignated par. (1) as (2) and, in subpar. (B)(vi), inserted “environmentally sensitive areas,” after “marshes,” and “identified or expected” before “resource concerns”. Former par. (2) redesignated (4).
 
-Par. (3). Pub. L. 115–334, § 2303(4), added par. (3). Former par. (3) redesignated (5).
+Par. (3). Pub. L. 115–334, § 2303(4), added par. (3). Former par. (3) redesignated (5).
 
-Pars. (4), (5). Pub. L. 115–334, § 2303(1), redesignated pars. (2) and (3) as (4) and (5), respectively. Former pars. (4) and (5) redesignated (6) and (8), respectively.
+Pars. (4), (5). Pub. L. 115–334, § 2303(1), redesignated pars. (2) and (3) as (4) and (5), respectively. Former pars. (4) and (5) redesignated (6) and (8), respectively.
 
-Par. (6). Pub. L. 115–334, § 2303(1), (5), redesignated par. (4) as (6); in subpar. (A), added cls. (v) and (vi) and redesignated former cl. (v) as (vii); and, in subpar. (B), added cls. (ii) to (v) and redesignated former cl. (ii) as (vi).
+Par. (6). Pub. L. 115–334, § 2303(1), (5), redesignated par. (4) as (6); in subpar. (A), added cls. (v) and (vi) and redesignated former cl. (v) as (vii); and, in subpar. (B), added cls. (ii) to (v) and redesignated former cl. (ii) as (vi).
 
-Par. (7). Pub. L. 115–334, § 2303(6), added par. (7).
+Par. (7). Pub. L. 115–334, § 2303(6), added par. (7).
 
-Par. (8). Pub. L. 115–334, § 2303(1), redesignated par. (5) as (8).
+Par. (8). Pub. L. 115–334, § 2303(1), redesignated par. (5) as (8).
 
-Pars. (9), (10). Pub. L. 115–334, § 2303(7), added pars. (9) and (10).
+Pars. (9), (10). Pub. L. 115–334, § 2303(7), added pars. (9) and (10).
 
 2014—Pars. (2) to (6). Pub. L. 113–79 redesignated pars. (3) to (6) as (2) to (5), respectively, inserted “established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.)” after “national organic program” in par. (2), and struck out former par. (2). Text of former par. (2) read as follows: “The term ‘national organic program’ means the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et. seq.).”
 
-2008—Pub. L. 110–246, § 2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
+2008—Pub. L. 110–246, § 2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3563,7 +3563,7 @@ Pars. (9), (10). Pub. L. 115–334, § 2303(7), added pars. (9) and (10).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3839aa–2. Establishment and administration
+##### § 3839aa–2. Establishment and administration
 
 **(a) Establishment**
 
@@ -3619,9 +3619,9 @@ Payments are provided to a producer to implement one or more practices under the
 
 **(4) Increased payments for certain producers**
 
-**(A) In general** Notwithstanding paragraph (2), in the case of a producer that is a limited resource, socially disadvantaged farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) 1
+**(A) In general** Notwithstanding paragraph (2), in the case of a producer that is a limited resource, socially disadvantaged farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 7), or a beginning farmer or rancher, the Secretary shall increase the amount that would otherwise be provided to a producer under this subsection—
 
@@ -3877,15 +3877,15 @@ A contract under this subsection shall have a term of not less than 5, and not m
 
 **(ii)** in the case of practice payments under paragraph (2)(A)(ii)(II), make those payments as soon as practicable on the implementation of an incentive practice.
 
-(Pub. L. 99–198, title XII, § 1240B, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, § 794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, § 1203(a), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, § 2503, May 22, 2008, 122 Stat. 1059; Pub. L. 110–246, § 4(a), title II, § 2503, June 18, 2008, 122 Stat. 1664, 1787; Pub. L. 112–55, div. A, title VII, § 716(c), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, § 750(a), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, § 2203, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–123, div. F, § 60102(a), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §§ 2301(d)(1)(F), 2304, Dec. 20, 2018, 132 Stat. 4554, 4556; Pub. L. 117–169, title II, § 21001(c)(1), Aug. 16, 2022, 136 Stat. 2017.)
+(Pub. L. 99–198, title XII, § 1240B, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, § 794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, § 1203(a), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, § 2503, May 22, 2008, 122 Stat. 1059; Pub. L. 110–246, § 4(a), title II, § 2503, June 18, 2008, 122 Stat. 1664, 1787; Pub. L. 112–55, div. A, title VII, § 716(c), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, § 750(a), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, § 2203, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–123, div. F, § 60102(a), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §§ 2301(d)(1)(F), 2304, Dec. 20, 2018, 132 Stat. 4554, 4556; Pub. L. 117–169, title II, § 21001(c)(1), Aug. 16, 2022, 136 Stat. 2017.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2279(e) of title 7, referred to in subsec. (d)(4)(A), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, § 12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
+Section 2279(e) of title 7, referred to in subsec. (d)(4)(A), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, § 12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
 
-The Organic Foods Production Act of 1990, referred to in subsec. (i)(5)(B), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (i)(5)(B), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 **Codification**
 
@@ -3893,59 +3893,59 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa–2, Pub. L. 99–198, title XII, § 1240B, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 998, related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–2, Pub. L. 99–198, title XII, § 1240B, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 998, related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–169, § 21001(c)(1)(A), substituted “2031” for “2023”.
+2022—Subsec. (a). Pub. L. 117–169, § 21001(c)(1)(A), substituted “2031” for “2023”.
 
-Subsec. (f)(2)(B). Pub. L. 117–169, § 21001(c)(1)(B), substituted “2031” for “2023” in heading and text.
+Subsec. (f)(2)(B). Pub. L. 117–169, § 21001(c)(1)(B), substituted “2031” for “2023” in heading and text.
 
-2018—Subsec. (a). Pub. L. 115–334, § 2304(a), substituted “2023” for “2019”.
+2018—Subsec. (a). Pub. L. 115–334, § 2304(a), substituted “2023” for “2019”.
 
 Pub. L. 115–123 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “During each of the 2002 through 2018 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.”
 
-Subsec. (d)(4)(B)(i). Pub. L. 115–334, § 2304(b)(1)(A), substituted “On an election by a producer described in subparagraph (A), the Secretary shall provide at least 50 percent of the amount determined under subparagraph (A) in advance for all costs related to purchasing materials or contracting” for “Not more than 50 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting”.
+Subsec. (d)(4)(B)(i). Pub. L. 115–334, § 2304(b)(1)(A), substituted “On an election by a producer described in subparagraph (A), the Secretary shall provide at least 50 percent of the amount determined under subparagraph (A) in advance for all costs related to purchasing materials or contracting” for “Not more than 50 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting”.
 
-Subsec. (d)(4)(B)(iii). Pub. L. 115–334, § 2304(b)(1)(B), added cl. (iii).
+Subsec. (d)(4)(B)(iii). Pub. L. 115–334, § 2304(b)(1)(B), added cl. (iii).
 
-Subsec. (d)(7). Pub. L. 115–334, § 2304(b)(2), added par. (7).
+Subsec. (d)(7). Pub. L. 115–334, § 2304(b)(2), added par. (7).
 
-Subsec. (f)(1). Pub. L. 115–334, § 2304(c)(1), substituted “2019 through 2023” for “2014 through 2018”, “50 percent” for “60 percent”, and “production, including grazing management practices” for “production”.
+Subsec. (f)(1). Pub. L. 115–334, § 2304(c)(1), substituted “2019 through 2023” for “2014 through 2018”, “50 percent” for “60 percent”, and “production, including grazing management practices” for “production”.
 
-Subsec. (f)(2). Pub. L. 115–334, § 2304(c)(2), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (f)(2). Pub. L. 115–334, § 2304(c)(2), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (g)(3), (4). Pub. L. 115–334, § 2304(d), added pars. (3) and (4).
+Subsec. (g)(3), (4). Pub. L. 115–334, § 2304(d), added pars. (3) and (4).
 
-Subsec. (h)(1). Pub. L. 115–334, § 2304(e)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may provide payments under this subsection to a producer for a water conservation or irrigation practice.”
+Subsec. (h)(1). Pub. L. 115–334, § 2304(e)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may provide payments under this subsection to a producer for a water conservation or irrigation practice.”
 
-Subsec. (h)(2). Pub. L. 115–334, § 2304(e)(3), added par. (2). Former par. (2) redesignated (3).
+Subsec. (h)(2). Pub. L. 115–334, § 2304(e)(3), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (h)(3). Pub. L. 115–334, § 2304(e)(2), (4)(A), redesignated par. (2) as (3) and substituted “payments under this subsection” for “payments to a producer” in introductory provisions.
+Subsec. (h)(3). Pub. L. 115–334, § 2304(e)(2), (4)(A), redesignated par. (2) as (3) and substituted “payments under this subsection” for “payments to a producer” in introductory provisions.
 
-Subsec. (h)(3)(A). Pub. L. 115–334, § 2304(e)(4)(B), substituted “State in which the land on which the practices will be implemented is located, there is a reduction in water use in the operation on that land” for “State in which the eligible land of the producer is located, there is a reduction in water use in the operation of the producer”.
+Subsec. (h)(3)(A). Pub. L. 115–334, § 2304(e)(4)(B), substituted “State in which the land on which the practices will be implemented is located, there is a reduction in water use in the operation on that land” for “State in which the eligible land of the producer is located, there is a reduction in water use in the operation of the producer”.
 
-Subsec. (h)(3)(B). Pub. L. 115–334, § 2304(e)(4)(C), inserted “except in the case of an application under paragraph (2),” before “the producer agrees”.
+Subsec. (h)(3)(B). Pub. L. 115–334, § 2304(e)(4)(C), inserted “except in the case of an application under paragraph (2),” before “the producer agrees”.
 
-Subsec. (h)(4). Pub. L. 115–334, § 2304(e)(5), added par. (4).
+Subsec. (h)(4). Pub. L. 115–334, § 2304(e)(5), added par. (4).
 
-Subsec. (i)(2)(B). Pub. L. 115–334, § 2301(d)(1)(F), substituted “this subpart” for “this part”.
+Subsec. (i)(2)(B). Pub. L. 115–334, § 2301(d)(1)(F), substituted “this subpart” for “this part”.
 
-Subsec. (i)(3). Pub. L. 115–334, § 2304(f), designated first and second sentences as subpars. (A) and (B), respectively, and inserted headings; in subpar. (A), substituted “aggregate—” for “aggregate, $20,000 per year or $80,000 during any 6-year period.” and added cls. (i) and (ii); and, in subpar. (B), substituted “In applying the limitations under subparagraph (A)” for “In applying these limitations”.
+Subsec. (i)(3). Pub. L. 115–334, § 2304(f), designated first and second sentences as subpars. (A) and (B), respectively, and inserted headings; in subpar. (A), substituted “aggregate—” for “aggregate, $20,000 per year or $80,000 during any 6-year period.” and added cls. (i) and (ii); and, in subpar. (B), substituted “In applying the limitations under subparagraph (A)” for “In applying these limitations”.
 
-Subsec. (j). Pub. L. 115–334, § 2304(g), added subsec. (j).
+Subsec. (j). Pub. L. 115–334, § 2304(g), added subsec. (j).
 
-2014—Subsec. (a). Pub. L. 113–79, § 2203(1), which directed substitution of “2018” for “2014”, was executed by making the substitution for “2015” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 113–76. See below.
+2014—Subsec. (a). Pub. L. 113–79, § 2203(1), which directed substitution of “2018” for “2014”, was executed by making the substitution for “2015” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 113–76. See below.
 
 Pub. L. 113–76 substituted “2015” for “2014”.
 
-Subsec. (b)(2). Pub. L. 113–79, § 2203(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A contract under the program shall have a term that—
+Subsec. (b)(2). Pub. L. 113–79, § 2203(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A contract under the program shall have a term that—
 
 “(A) at a minimum, is equal to the period beginning on the date on which the contract is entered into and ending on the date that is one year after the date on which all practices under the contract have been implemented; but
 
 “(B) not to exceed 10 years.”
 
-Subsec. (d)(3)(A) to (G). Pub. L. 113–79, § 2203(3)(A), added subpars. (A) to (G) and struck out former subpars. (A) to (G) which read as follows:
+Subsec. (d)(3)(A) to (G). Pub. L. 113–79, § 2203(3)(A), added subpars. (A) to (G) and struck out former subpars. (A) to (G) which read as follows:
 
 “(A) residue management;
 
@@ -3961,17 +3961,17 @@ Subsec. (d)(3)(A) to (G). Pub. L. 113–79, § 2203(3)(A), added subpars. (A) 
 
 “(G) pest management.”
 
-Subsec. (d)(4)(A). Pub. L. 113–79, § 2203(3)(B)(i), in introductory provisions, inserted “, a veteran farmer or rancher (as defined in section 2279(e) of title 7),” before “or a beginning farmer or rancher”.
+Subsec. (d)(4)(A). Pub. L. 113–79, § 2203(3)(B)(i), in introductory provisions, inserted “, a veteran farmer or rancher (as defined in section 2279(e) of title 7),” before “or a beginning farmer or rancher”.
 
-Subsec. (d)(4)(B). Pub. L. 113–79, § 2203(3)(B)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Not more than 30 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.”
+Subsec. (d)(4)(B). Pub. L. 113–79, § 2203(3)(B)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Not more than 30 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.”
 
-Subsec. (f). Pub. L. 113–79, § 2203(4), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For each of fiscal years 2002 through 2012, 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production.”
+Subsec. (f). Pub. L. 113–79, § 2203(4), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For each of fiscal years 2002 through 2012, 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production.”
 
-Subsec. (g). Pub. L. 113–79, § 2203(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any Tribal or Native Corporation member.”
+Subsec. (g). Pub. L. 113–79, § 2203(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any Tribal or Native Corporation member.”
 
 2011—Subsec. (a). Pub. L. 112–55 substituted “2014” for “2012”.
 
-2008—Pub. L. 110–246, § 2503, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentive payments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
+2008—Pub. L. 110–246, § 2503, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentive payments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
 
 2006—Subsec. (a)(1). Pub. L. 109–171 substituted “2010” for “2007”.
 
@@ -3983,7 +3983,7 @@ Subsec. (g). Pub. L. 113–79, § 2203(5), added subsec. (g) and struck out fo
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3839aa–3. Evaluation of applications
+##### § 3839aa–3. Evaluation of applications
 
 **(a) Evaluation criteria**
 
@@ -4003,7 +4003,7 @@ The Secretary shall develop criteria for evaluating applications that will ensur
 
 To the greatest extent practicable, the Secretary shall group applications of similar crop or livestock operations for evaluation purposes or otherwise evaluate applications relative to other applications for similar farming operations.
 
-(Pub. L. 99–198, title XII, § 1240C, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 256; amended Pub. L. 110–234, title II, § 2504, May 22, 2008, 122 Stat. 1062; Pub. L. 110–246, § 4(a), title II, § 2504, June 18, 2008, 122 Stat. 1664, 1790; Pub. L. 113–79, title II, § 2204, Feb. 7, 2014, 128 Stat. 730; Pub. L. 115–334, title II, § 2301(d)(1)(G), Dec. 20, 2018, 132 Stat. 4554.)
+(Pub. L. 99–198, title XII, § 1240C, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 256; amended Pub. L. 110–234, title II, § 2504, May 22, 2008, 122 Stat. 1062; Pub. L. 110–246, § 4(a), title II, § 2504, June 18, 2008, 122 Stat. 1664, 1790; Pub. L. 113–79, title II, § 2204, Feb. 7, 2014, 128 Stat. 730; Pub. L. 115–334, title II, § 2301(d)(1)(G), Dec. 20, 2018, 132 Stat. 4554.)
 
 **Editorial Notes**
 
@@ -4013,17 +4013,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa–3, Pub. L. 99–198, title XII, § 1240C, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1000, related to evaluation of offers and payments, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–3, Pub. L. 99–198, title XII, § 1240C, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1000, related to evaluation of offers and payments, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
 2018—Subsec. (b). Pub. L. 115–334 substituted “this subpart” for “this part” in introductory provisions.
 
-2014—Subsec. (b)(1). Pub. L. 113–79, § 2204(1), substituted “conservation” for “environmental” before “benefits”.
+2014—Subsec. (b)(1). Pub. L. 113–79, § 2204(1), substituted “conservation” for “environmental” before “benefits”.
 
-Subsec. (b)(3). Pub. L. 113–79, § 2204(2), substituted “purposes of the program” for “purpose of the environmental quality incentives program specified in section 3839aa(1) of this title” before semicolon.
+Subsec. (b)(3). Pub. L. 113–79, § 2204(2), substituted “purposes of the program” for “purpose of the environmental quality incentives program specified in section 3839aa(1) of this title” before semicolon.
 
-2008—Pub. L. 110–246, § 2504, amended section generally. Prior to amendment, text read as follows: “In evaluating applications for cost-share payments and incentive payments, the Secretary shall accord a higher priority to assistance and payments that—
+2008—Pub. L. 110–246, § 2504, amended section generally. Prior to amendment, text read as follows: “In evaluating applications for cost-share payments and incentive payments, the Secretary shall accord a higher priority to assistance and payments that—
 
 “(1) encourage the use by producers of cost-effective conservation practices; and
 
@@ -4035,7 +4035,7 @@ Subsec. (b)(3). Pub. L. 113–79, § 2204(2), substituted “purposes of the p
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3839aa–4. Duties of producers
+##### § 3839aa–4. Duties of producers
 
 To receive payments under the program, a producer shall agree—
 
@@ -4059,7 +4059,7 @@ To receive payments under the program, a producer shall agree—
 
 **(6)** to comply with such additional provisions as the Secretary determines are necessary to carry out the program plan.
 
-(Pub. L. 99–198, title XII, § 1240D, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 256; amended Pub. L. 110–234, title II, § 2505, May 22, 2008, 122 Stat. 1062; Pub. L. 110–246, § 4(a), title II, § 2505, June 18, 2008, 122 Stat. 1664, 1790; Pub. L. 113–79, title II, § 2205, Feb. 7, 2014, 128 Stat. 730.)
+(Pub. L. 99–198, title XII, § 1240D, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 256; amended Pub. L. 110–234, title II, § 2505, May 22, 2008, 122 Stat. 1062; Pub. L. 110–246, § 4(a), title II, § 2505, June 18, 2008, 122 Stat. 1664, 1790; Pub. L. 113–79, title II, § 2205, Feb. 7, 2014, 128 Stat. 730.)
 
 **Editorial Notes**
 
@@ -4069,17 +4069,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa–4, Pub. L. 99–198, title XII, § 1240D, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1000, related to duties of producers, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–4, Pub. L. 99–198, title XII, § 1240D, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1000, related to duties of producers, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
 2014—Par. (2). Pub. L. 113–79 substituted “enrolled” for “farm, ranch, or forest”.
 
-2008—Pub. L. 110–246, § 2505(1), struck out “technical assistance, cost-share payments, or incentive” before “payments” in introductory provisions.
+2008—Pub. L. 110–246, § 2505(1), struck out “technical assistance, cost-share payments, or incentive” before “payments” in introductory provisions.
 
-Par. (2). Pub. L. 110–246, § 2505(2), substituted “farm, ranch, or forest land” for “farm or ranch”.
+Par. (2). Pub. L. 110–246, § 2505(2), substituted “farm, ranch, or forest land” for “farm or ranch”.
 
-Par. (4). Pub. L. 110–246, § 2505(3), struck out “cost-share payments and incentive” before “payments”.
+Par. (4). Pub. L. 110–246, § 2505(3), struck out “cost-share payments and incentive” before “payments”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4087,7 +4087,7 @@ Par. (4). Pub. L. 110–246, § 2505(3), struck out “cost-share payments and
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3839aa–5. Environmental quality incentives program plan
+##### § 3839aa–5. Environmental quality incentives program plan
 
 **(a) Plan of operations** To be eligible to receive payments under the program, a producer shall submit to the Secretary for approval a plan of operations that—
 
@@ -4111,7 +4111,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(2)** to the maximum extent practicable, eliminate duplication of planning activities under the program under this subpart and comparable conservation programs.
 
-(Pub. L. 99–198, title XII, § 1240E, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 256; amended Pub. L. 110–234, title II, § 2506, May 22, 2008, 122 Stat. 1063; Pub. L. 110–246, § 4(a), title II, § 2506, June 18, 2008, 122 Stat. 1664, 1791; Pub. L. 115–334, title II, §§ 2301(d)(1)(H), 2305, Dec. 20, 2018, 132 Stat. 4554, 4561.)
+(Pub. L. 99–198, title XII, § 1240E, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 256; amended Pub. L. 110–234, title II, § 2506, May 22, 2008, 122 Stat. 1063; Pub. L. 110–246, § 4(a), title II, § 2506, June 18, 2008, 122 Stat. 1664, 1791; Pub. L. 115–334, title II, §§ 2301(d)(1)(H), 2305, Dec. 20, 2018, 132 Stat. 4554, 4561.)
 
 **Editorial Notes**
 
@@ -4121,19 +4121,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa–5, Pub. L. 99–198, title XII, § 1240E, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1001, related to environmental quality incentives program plan, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–5, Pub. L. 99–198, title XII, § 1240E, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1001, related to environmental quality incentives program plan, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
-2018—Subsec. (a)(3). Pub. L. 115–334, § 2305, inserted “progressive” before “implementation”.
+2018—Subsec. (a)(3). Pub. L. 115–334, § 2305, inserted “progressive” before “implementation”.
 
-Subsec. (b)(2). Pub. L. 115–334, § 2301(d)(1)(H), substituted “this subpart” for “this part”.
+Subsec. (b)(2). Pub. L. 115–334, § 2301(d)(1)(H), substituted “this subpart” for “this part”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 2506(a)(1), (2), substituted “Plan of operations” for “In general” in heading and struck out “cost-share payments or incentive” before “payments” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–246, § 2506(a)(1), (2), substituted “Plan of operations” for “In general” in heading and struck out “cost-share payments or incentive” before “payments” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 110–246, § 2506(a)(3)–(5), added par. (4).
+Subsec. (a)(4). Pub. L. 110–246, § 2506(a)(3)–(5), added par. (4).
 
-Subsec. (b). Pub. L. 110–246, § 2506(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, eliminate duplication of planning activities under the program under this part and comparable conservation programs.”
+Subsec. (b). Pub. L. 110–246, § 2506(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, eliminate duplication of planning activities under the program under this part and comparable conservation programs.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4141,7 +4141,7 @@ Subsec. (b). Pub. L. 110–246, § 2506(b), amended subsec. (b) generally. Pri
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3839aa–6. Duties of the Secretary
+##### § 3839aa–6. Duties of the Secretary
 
 To the extent appropriate, the Secretary shall assist a producer in achieving the conservation and environmental goals of a program plan by—
 
@@ -4149,7 +4149,7 @@ To the extent appropriate, the Secretary shall assist a producer in achieving th
 
 **(2)** providing the producer with information and training to aid in implementation of the plan.
 
-(Pub. L. 99–198, title XII, § 1240F, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 110–234, title II, § 2507, May 22, 2008, 122 Stat. 1063; Pub. L. 110–246, § 4(a), title II, § 2507, June 18, 2008, 122 Stat. 1664, 1791.)
+(Pub. L. 99–198, title XII, § 1240F, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 110–234, title II, § 2507, May 22, 2008, 122 Stat. 1063; Pub. L. 110–246, § 4(a), title II, § 2507, June 18, 2008, 122 Stat. 1664, 1791.)
 
 **Editorial Notes**
 
@@ -4159,11 +4159,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa–6, Pub. L. 99–198, title XII, § 1240F, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1001, related to duties of Secretary, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–6, Pub. L. 99–198, title XII, § 1240F, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1001, related to duties of Secretary, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
-2008—Par. (1). Pub. L. 110–246, § 2507, struck out “cost-share payments or incentive” before “payments”.
+2008—Par. (1). Pub. L. 110–246, § 2507, struck out “cost-share payments or incentive” before “payments”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4171,11 +4171,11 @@ A prior section 3839aa–6, Pub. L. 99–198, title XII, § 1240F, as added Pu
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3839aa–7. Limitation on payments
+##### § 3839aa–7. Limitation on payments
 
 Not including payments made under section 3839aa–2(j) of this title, a person or legal entity may not receive, directly or indirectly, cost-share or incentive payments under this subpart that, in aggregate, exceed $450,000 for all contracts entered into under this subpart by the person or legal entity during the period of fiscal years 2014 through 2018, or the period of fiscal years 2019 through 2023, regardless of the number of contracts entered into under this subpart by the person or legal entity.
 
-(Pub. L. 99–198, title XII, § 1240G, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 108–447, div. A, title VII, § 794(b), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, § 1203(b), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, § 2508, May 22, 2008, 122 Stat. 1063; Pub. L. 110–246, § 4(a), title II, § 2508, June 18, 2008, 122 Stat. 1664, 1791; Pub. L. 113–79, title II, § 2206, Feb. 7, 2014, 128 Stat. 730; Pub. L. 115–334, title II, §§ 2301(d)(1)(I), 2306, Dec. 20, 2018, 132 Stat. 4554, 4561.)
+(Pub. L. 99–198, title XII, § 1240G, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 108–447, div. A, title VII, § 794(b), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, § 1203(b), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, § 2508, May 22, 2008, 122 Stat. 1063; Pub. L. 110–246, § 4(a), title II, § 2508, June 18, 2008, 122 Stat. 1664, 1791; Pub. L. 113–79, title II, § 2206, Feb. 7, 2014, 128 Stat. 730; Pub. L. 115–334, title II, §§ 2301(d)(1)(I), 2306, Dec. 20, 2018, 132 Stat. 4554, 4561.)
 
 **Editorial Notes**
 
@@ -4185,17 +4185,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa–7, Pub. L. 99–198, title XII, § 1240G, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1001, related to limitation on payments, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–7, Pub. L. 99–198, title XII, § 1240G, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1001, related to limitation on payments, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 2306, substituted “Not including payments made under section 3839aa–2(j) of this title, a person” for “A person” and inserted “or the period of fiscal years 2019 through 2023,” after “2018,”.
+2018—Pub. L. 115–334, § 2306, substituted “Not including payments made under section 3839aa–2(j) of this title, a person” for “A person” and inserted “or the period of fiscal years 2019 through 2023,” after “2018,”.
 
-Pub. L. 115–334, § 2301(d)(1)(I), substituted “this subpart” for “this part” wherever appearing.
+Pub. L. 115–334, § 2301(d)(1)(I), substituted “this subpart” for “this part” wherever appearing.
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to limitation on payments and included waiver authority in the case of contracts for projects of special environmental significance as determined by the Secretary.
 
-2008—Pub. L. 110–246, § 2508, designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), a person or legal entity” for “An individual or entity” and “$300,000” for “$450,000”, substituted “the person” for “the individual” in two places, and added subsec. (b).
+2008—Pub. L. 110–246, § 2508, designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), a person or legal entity” for “An individual or entity” and “$300,000” for “$450,000”, substituted “the person” for “the individual” in two places, and added subsec. (b).
 
 2006—Pub. L. 109–171 substituted “any six-year period” for “the period of fiscal years 2002 through 2007”.
 
@@ -4207,7 +4207,7 @@ Pub. L. 115–334, § 2301(d)(1)(I), substituted “this subpart” for “thi
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3839aa–8. Conservation innovation grants and payments
+##### § 3839aa–8. Conservation innovation grants and payments
 
 **(a) Competitive grants for innovative conservation approaches**
 
@@ -4373,7 +4373,7 @@ The Secretary shall identify a diversity of geographic regions of the United Sta
 
 Information provided under subparagraph (A) shall be transformed into a statistical or aggregate form so as to not include any identifiable or personal information of individual producers.
 
-(Pub. L. 99–198, title XII, § 1240H, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 110–234, title II, § 2509, May 22, 2008, 122 Stat. 1064; Pub. L. 110–246, § 4(a), title II, § 2509, June 18, 2008, 122 Stat. 1664, 1792; Pub. L. 113–79, title II, § 2207, Feb. 7, 2014, 128 Stat. 731; Pub. L. 115–334, title II, §§ 2301(d)(1)(J), 2307, Dec. 20, 2018, 132 Stat. 4554, 4561; Pub. L. 117–169, title II, § 21001(c)(2), Aug. 16, 2022, 136 Stat. 2017.)
+(Pub. L. 99–198, title XII, § 1240H, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 110–234, title II, § 2509, May 22, 2008, 122 Stat. 1064; Pub. L. 110–246, § 4(a), title II, § 2509, June 18, 2008, 122 Stat. 1664, 1792; Pub. L. 113–79, title II, § 2207, Feb. 7, 2014, 128 Stat. 731; Pub. L. 115–334, title II, §§ 2301(d)(1)(J), 2307, Dec. 20, 2018, 132 Stat. 4554, 4561; Pub. L. 117–169, title II, § 21001(c)(2), Aug. 16, 2022, 136 Stat. 2017.)
 
 **Editorial Notes**
 
@@ -4383,25 +4383,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3839aa–8, Pub. L. 99–198, title XII, § 1240H, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1002, related to temporary administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–8, Pub. L. 99–198, title XII, § 1240H, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1002, related to temporary administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 **Amendments**
 
 2022—Subsecs. (b)(2), (c)(2). Pub. L. 117–169 substituted “2031” for “2023”.
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 2301(d)(1)(J), substituted “this subpart” for “this part”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 2301(d)(1)(J), substituted “this subpart” for “this part”.
 
-Subsec. (a)(2)(A). Pub. L. 115–334, § 2307(a)(1), substituted “program or community colleges (as defined in section 3319e(a) of title 7) carrying out demonstration projects on land of the community college;” for “program;”.
+Subsec. (a)(2)(A). Pub. L. 115–334, § 2307(a)(1), substituted “program or community colleges (as defined in section 3319e(a) of title 7) carrying out demonstration projects on land of the community college;” for “program;”.
 
-Subsec. (a)(2)(B). Pub. L. 115–334, § 2301(d)(1)(J), substituted “this subpart” for “this part”.
+Subsec. (a)(2)(B). Pub. L. 115–334, § 2301(d)(1)(J), substituted “this subpart” for “this part”.
 
-Subsec. (a)(2)(E) to (H). Pub. L. 115–334, § 2307(a)(2), (3), added subpars. (E) and (F) and redesignated former subpars. (E) and (F) as (G) and (H), respectively.
+Subsec. (a)(2)(E) to (H). Pub. L. 115–334, § 2307(a)(2), (3), added subpars. (E) and (F) and redesignated former subpars. (E) and (F) as (G) and (H), respectively.
 
-Subsec. (b)(2). Pub. L. 115–334, § 2307(b), substituted “$37,500,000 for each of fiscal years 2019 through 2023” for “$25,000,000 for each of fiscal years 2009 through 2018”.
+Subsec. (b)(2). Pub. L. 115–334, § 2307(b), substituted “$37,500,000 for each of fiscal years 2019 through 2023” for “$25,000,000 for each of fiscal years 2009 through 2018”.
 
-Pub. L. 115–334, § 2301(d)(1)(J), substituted “this subpart” for “this part”.
+Pub. L. 115–334, § 2301(d)(1)(J), substituted “this subpart” for “this part”.
 
-Subsecs. (c), (d). Pub. L. 115–334, § 2307(c), added subsecs. (c) and (d) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Not later than December 31, 2014, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report on the status of projects funded under this section, including—
+Subsecs. (c), (d). Pub. L. 115–334, § 2307(c), added subsecs. (c) and (d) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Not later than December 31, 2014, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report on the status of projects funded under this section, including—
 
 “(1) funding awarded;
 
@@ -4409,13 +4409,13 @@ Subsecs. (c), (d). Pub. L. 115–334, § 2307(c), added subsecs. (c) and (d) a
 
 “(3) incorporation of project findings, such as new technology and innovative approaches, into the conservation efforts implemented by the Secretary.”
 
-2014—Subsec. (a)(2)(E), (F). Pub. L. 113–79, § 2207(1), added subpars. (E) and (F).
+2014—Subsec. (a)(2)(E), (F). Pub. L. 113–79, § 2207(1), added subpars. (E) and (F).
 
-Subsec. (b)(2). Pub. L. 113–79, § 2207(2), substituted “$25,000,000” for “$37,500,000” and “2018” for “2012”.
+Subsec. (b)(2). Pub. L. 113–79, § 2207(2), substituted “$25,000,000” for “$37,500,000” and “2018” for “2012”.
 
-Subsec. (c). Pub. L. 113–79, § 2207(3), added subsec. (c).
+Subsec. (c). Pub. L. 113–79, § 2207(3), added subsec. (c).
 
-2008—Pub. L. 110–246, § 2509, amended section generally. Prior to amendment, section related to conservation innovation grants.
+2008—Pub. L. 110–246, § 2509, amended section generally. Prior to amendment, section related to conservation innovation grants.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4423,15 +4423,15 @@ Subsec. (c). Pub. L. 113–79, § 2207(3), added subsec. (c).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-##### § 3839aa–9. Repealed. Pub. L. 113–79, title II, § 2706(a), Feb. 7, 2014, 128 Stat. 769
+##### § 3839aa–9. Repealed. Pub. L. 113–79, title II, § 2706(a), Feb. 7, 2014, 128 Stat. 769
 
-Section, Pub. L. 99–198, title XII, § 1240I, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 110–234, title II, § 2510, May 22, 2008, 122 Stat. 1064; Pub. L. 110–246, § 4(a), title II, § 2510, June 18, 2008, 122 Stat. 1664, 1792, related to agricultural water enhancement program.
+Section, Pub. L. 99–198, title XII, § 1240I, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 110–234, title II, § 2510, May 22, 2008, 122 Stat. 1064; Pub. L. 110–246, § 4(a), title II, § 2510, June 18, 2008, 122 Stat. 1664, 1792, related to agricultural water enhancement program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal; Transitional Provisions**
 
-Pub. L. 113–79, title II, § 2706, Feb. 7, 2014, 128 Stat. 769, provided that:
+Pub. L. 113–79, title II, § 2706, Feb. 7, 2014, 128 Stat. 769, provided that:
 
 > **“(a) Repeal.—** Except as provided in subsection (b), section 1240I of the Food Security Act of 1985 (16 U.S.C. 3839aa–9) is repealed.
 
@@ -4447,7 +4447,7 @@ Pub. L. 113–79, title II, § 2706, Feb. 7, 2014, 128 Stat. 769, provided tha
 
 #### subpart b—conservation stewardship program
 
-##### § 3839aa–21. Definitions
+##### § 3839aa–21. Definitions
 
 In this subpart:
 
@@ -4529,7 +4529,7 @@ The term “program” means the conservation stewardship program established by
 
 **(D)** other methods that measure conservation and improvement in priority resource concerns, as determined by the Secretary.
 
-(Pub. L. 99–198, title XII, § 1240I, formerly § 1238D, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1768; amended Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 721; renumbered § 1240I and amended Pub. L. 115–334, title II, §§ 2301(b), 2308(a), Dec. 20, 2018, 132 Stat. 4551, 4564.)
+(Pub. L. 99–198, title XII, § 1240I, formerly § 1238D, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1768; amended Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 721; renumbered § 1240I and amended Pub. L. 115–334, title II, §§ 2301(b), 2308(a), Dec. 20, 2018, 132 Stat. 4551, 4564.)
 
 **Editorial Notes**
 
@@ -4541,9 +4541,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2018—Par. (2)(B)(iii)–(v). Pub. L. 115–334, § 2308(a)(1), added cls. (iii) to (v).
+2018—Par. (2)(B)(iii)–(v). Pub. L. 115–334, § 2308(a)(1), added cls. (iii) to (v).
 
-Par. (7). Pub. L. 115–334, § 2308(a)(2), substituted “resource through the use of—” and subpars. (A) to (D) for “resource.”
+Par. (7). Pub. L. 115–334, § 2308(a)(2), substituted “resource through the use of—” and subpars. (A) to (D) for “resource.”
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section defined terms for this subpart.
 
@@ -4555,7 +4555,7 @@ Enactment of this subpart and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effect on Existing Contracts by Pub. L. 115–334**
 
-Pub. L. 115–334, title II, § 2301(c)(3)–(5), Dec. 20, 2018, 132 Stat. 4552, 4553, provided that:
+Pub. L. 115–334, title II, § 2301(c)(3)–(5), Dec. 20, 2018, 132 Stat. 4552, 4553, provided that:
 
 > **“(3) Transitional provisions.—**
 
@@ -4603,13 +4603,13 @@ Pub. L. 115–334, title II, § 2301(c)(3)–(5), Dec. 20, 2018, 132 Stat. 455
 
 **Effect on Existing Contracts by Pub. L. 113–79**
 
-Pub. L. 113–79, title II, § 2101(b), Feb. 7, 2014, 128 Stat. 728, provided that:
+Pub. L. 113–79, title II, § 2101(b), Feb. 7, 2014, 128 Stat. 728, provided that:
 
 > **“(1) In general.—** The amendment made by this section [amending sections 3838d to 3838g of this title] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 ([former] 16 U.S.C. 3838d et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract.
 
 > **“(2) Conservation stewardship program.—** Funds made available under section 1241(a)(4) of the Food Security Act of 1985 (16 U.S.C. 3841(a)(4)) (as amended by section 2601(a) of this title) may be used to administer and make payments to program participants that enrolled into contracts during any of fiscal years 2009 through 2013.”
 
-##### § 3839aa–22. Conservation stewardship program
+##### § 3839aa–22. Conservation stewardship program
 
 **(a) Establishment and purpose** During each of fiscal years 2019 through 2031, the Secretary shall carry out a conservation stewardship program to encourage producers to address priority resource concerns and improve and conserve the quality and condition of natural resources in a comprehensive manner—
 
@@ -4637,7 +4637,7 @@ Pub. L. 113–79, title II, § 2101(b), Feb. 7, 2014, 128 Stat. 728, provided 
 
 **(C)** the land is incidental land needed for efficient operation of the farm or ranch, as determined by the Secretary.
 
-(Pub. L. 99–198, title XII, § 1240J, formerly § 1238E, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1041, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1769; amended Pub. L. 112–55, div. A, title VII, § 716(b), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 722; renumbered § 1240J and amended Pub. L. 115–334, title II, §§ 2301(b), (d)(1)(C), 2308(b), Dec. 20, 2018, 132 Stat. 4551, 4554, 4565; Pub. L. 117–169, title II, § 21001(c)(3), Aug. 16, 2022, 136 Stat. 2017.)
+(Pub. L. 99–198, title XII, § 1240J, formerly § 1238E, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1041, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1769; amended Pub. L. 112–55, div. A, title VII, § 716(b), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 722; renumbered § 1240J and amended Pub. L. 115–334, title II, §§ 2301(b), (d)(1)(C), 2308(b), Dec. 20, 2018, 132 Stat. 4551, 4554, 4565; Pub. L. 117–169, title II, § 21001(c)(3), Aug. 16, 2022, 136 Stat. 2017.)
 
 **Editorial Notes**
 
@@ -4651,17 +4651,17 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 2022—Subsec. (a). Pub. L. 117–169 substituted “2031” for “2023” in introductory provisions.
 
-2018—Subsec. (a). Pub. L. 115–334, § 2308(b)(1), substituted “2019 through 2023” for “2014 through 2018” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–334, § 2308(b)(1), substituted “2019 through 2023” for “2014 through 2018” in introductory provisions.
 
-Subsec. (b)(1)(C). Pub. L. 115–334, § 2301(d)(1)(C), struck out subpar. (C) which read as follows: “Land enrolled in the conservation security program.”
+Subsec. (b)(1)(C). Pub. L. 115–334, § 2301(d)(1)(C), struck out subpar. (C) which read as follows: “Land enrolled in the conservation security program.”
 
-Subsec. (b)(2). Pub. L. 115–334, § 2308(b)(2), substituted “December 20, 2018” for “February 7, 2014”.
+Subsec. (b)(2). Pub. L. 115–334, § 2308(b)(2), substituted “December 20, 2018” for “February 7, 2014”.
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to conservation stewardship program.
 
 2011—Subsec. (a). Pub. L. 112–55 substituted “2014” for “2012”.
 
-##### § 3839aa–23. Stewardship contracts
+##### § 3839aa–23. Stewardship contracts
 
 **(a) Submission of contract offers** To be eligible to participate in the conservation stewardship program, a producer shall submit to the Secretary a contract offer for the agricultural operation that—
 
@@ -4785,7 +4785,7 @@ The Secretary may terminate a contract if the Secretary determines that the prod
 
 **(B)** to adopt or improve conservation activities, as determined by the Secretary, to achieve higher levels of performance with respect to not less than 2 existing priority resource concerns that are specified by the Secretary in the initial contract.
 
-(Pub. L. 99–198, title XII, § 1240K, formerly § 1238F, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1042, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1770; amended Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 723; renumbered § 1240K and amended Pub. L. 115–334, title II, §§ 2301(b), 2308(c), Dec. 20, 2018, 132 Stat. 4551, 4565.)
+(Pub. L. 99–198, title XII, § 1240K, formerly § 1238F, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1042, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1770; amended Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 723; renumbered § 1240K and amended Pub. L. 115–334, title II, §§ 2301(b), 2308(c), Dec. 20, 2018, 132 Stat. 4551, 4565.)
 
 **Editorial Notes**
 
@@ -4797,23 +4797,23 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-Subsec. (b)(1). Pub. L. 115–334, § 2308(c)(1), added par. (1) and struck out former par. (1) which provided criteria for ranking of applications.
+Subsec. (b)(1). Pub. L. 115–334, § 2308(c)(1), added par. (1) and struck out former par. (1) which provided criteria for ranking of applications.
 
-Subsec. (c). Pub. L. 115–334, § 2308(c)(2), substituted “a contract or contract renewal under this section” for “the program under subsection (a)” and inserted “or contract renewal” after “determination that the contract”, after “conservation stewardship contract”, and after “covered by the contract”.
+Subsec. (c). Pub. L. 115–334, § 2308(c)(2), substituted “a contract or contract renewal under this section” for “the program under subsection (a)” and inserted “or contract renewal” after “determination that the contract”, after “conservation stewardship contract”, and after “covered by the contract”.
 
-Subsec. (d)(2)(A). Pub. L. 115–334, § 2308(c)(3), substituted “section 3839aa–24(c)” for “section 3838g(d)”.
+Subsec. (d)(2)(A). Pub. L. 115–334, § 2308(c)(3), substituted “section 3839aa–24(c)” for “section 3838g(d)”.
 
-Subsec. (e). Pub. L. 115–334, § 2308(c)(4)(A), substituted “The Secretary may provide the producer an opportunity to renew an existing contract in the first half of the fifth year of the contract period” for “At the end of the initial 5-year contract period, the Secretary may allow the producer to renew the contract for 1 additional 5-year period” in introductory provisions.
+Subsec. (e). Pub. L. 115–334, § 2308(c)(4)(A), substituted “The Secretary may provide the producer an opportunity to renew an existing contract in the first half of the fifth year of the contract period” for “At the end of the initial 5-year contract period, the Secretary may allow the producer to renew the contract for 1 additional 5-year period” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 115–334, § 2308(c)(4)(B), substituted “existing contract” for “initial contract”.
+Subsec. (e)(1). Pub. L. 115–334, § 2308(c)(4)(B), substituted “existing contract” for “initial contract”.
 
-Subsec. (e)(2). Pub. L. 115–334, § 2308(c)(4)(C), inserted “new or improved” before “conservation activities” and “demonstrating continued improvement during the additional 5-year period,” before “as determined by the Secretary”.
+Subsec. (e)(2). Pub. L. 115–334, § 2308(c)(4)(C), inserted “new or improved” before “conservation activities” and “demonstrating continued improvement during the additional 5-year period,” before “as determined by the Secretary”.
 
-Subsec. (e)(3)(B). Pub. L. 115–334, § 2308(c)(4)(D), substituted “to adopt or improve conservation activities, as determined by the Secretary, to achieve higher levels of performance with respect to not less than 2” for “to exceed the stewardship threshold of 2”.
+Subsec. (e)(3)(B). Pub. L. 115–334, § 2308(c)(4)(D), substituted “to adopt or improve conservation activities, as determined by the Secretary, to achieve higher levels of performance with respect to not less than 2” for “to exceed the stewardship threshold of 2”.
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to stewardship contracts.
 
-##### § 3839aa–24. Duties of the Secretary
+##### § 3839aa–24. Duties of the Secretary
 
 **(a) In general** To achieve the conservation goals of a contract under the conservation stewardship program, the Secretary shall—
 
@@ -4995,13 +4995,13 @@ To the maximum extent feasible, the Secretary shall manage the program to enhanc
 
 Each fiscal year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the payment rates for conservation activities offered to producers under the program and an analysis of whether payment rates can be reduced for the most expensive conservation activities.
 
-(Pub. L. 99–198, title XII, § 1240L, formerly § 1238G, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1045, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1773; amended Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 726; renumbered § 1240L and amended Pub. L. 115–334, title II, §§ 2301(b), 2308(d), Dec. 20, 2018, 132 Stat. 4551, 4566; Pub. L. 117–169, title II, § 21001(c)(4), Aug. 16, 2022, 136 Stat. 2017.)
+(Pub. L. 99–198, title XII, § 1240L, formerly § 1238G, as added Pub. L. 110–234, title II, § 2301(a)(2), May 22, 2008, 122 Stat. 1045, and Pub. L. 110–246, § 4(a), title II, § 2301(a)(2), June 18, 2008, 122 Stat. 1664, 1773; amended Pub. L. 113–79, title II, § 2101(a), Feb. 7, 2014, 128 Stat. 726; renumbered § 1240L and amended Pub. L. 115–334, title II, §§ 2301(b), 2308(d), Dec. 20, 2018, 132 Stat. 4551, 4566; Pub. L. 117–169, title II, § 21001(c)(4), Aug. 16, 2022, 136 Stat. 2017.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Organic Foods Production Act of 1990, referred to in subsec. (h)(1), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (h)(1), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 **Codification**
 
@@ -5013,41 +5013,41 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 2022—Subsec. (h)(2)(A). Pub. L. 117–169 substituted “2031” for “2023”.
 
-2018—Subsec. (b). Pub. L. 115–334, § 2308(d)(1), substituted “allocate funding” for “allocate acres” in introductory provisions.
+2018—Subsec. (b). Pub. L. 115–334, § 2308(d)(1), substituted “allocate funding” for “allocate acres” in introductory provisions.
 
-Subsec. (c). Pub. L. 115–334, § 2308(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “During the period beginning on February 7, 2014, and ending on September 30, 2022, the Secretary shall, to the maximum extent practicable—
+Subsec. (c). Pub. L. 115–334, § 2308(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “During the period beginning on February 7, 2014, and ending on September 30, 2022, the Secretary shall, to the maximum extent practicable—
 
 “(1) enroll in the program an additional 10,000,000 acres for each fiscal year; and
 
 “(2) manage the program to achieve a national average rate of $18 per acre, which shall include the costs of all financial assistance, technical assistance, and any other expenses associated with enrollment or participation in the program.”
 
-Subsec. (c)(5). Pub. L. 115–334, § 2308(d)(4), added par. (5).
+Subsec. (c)(5). Pub. L. 115–334, § 2308(d)(4), added par. (5).
 
-Subsec. (d). Pub. L. 115–334, § 2308(d)(3), (5)(A), redesignated subsec. (e) as (d) and inserted “and advanced grazing management” after “crop rotations” in heading. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 115–334, § 2308(d)(3), (5)(A), redesignated subsec. (e) as (d) and inserted “and advanced grazing management” after “crop rotations” in heading. Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 115–334, § 2308(d)(5)(D), inserted par. designation, heading, and introductory provisions, added subpars. (A) and (B), designated existing provisions of par. (1) as subpar. (C), and, in subpar. (C), substituted “The term” for “In this subsection, the term”, redesignated former subpars. (A) to (D) and (E) of par. (1) as cls. (i) to (iv) and (vi), respectively, realigned margins, and added cl. (v).
+Subsec. (d)(1). Pub. L. 115–334, § 2308(d)(5)(D), inserted par. designation, heading, and introductory provisions, added subpars. (A) and (B), designated existing provisions of par. (1) as subpar. (C), and, in subpar. (C), substituted “The term” for “In this subsection, the term”, redesignated former subpars. (A) to (D) and (E) of par. (1) as cls. (i) to (iv) and (vi), respectively, realigned margins, and added cl. (v).
 
-Pub. L. 115–334, § 2308(d)(5)(C), redesignated par. (4) as (1). Former par. (1) redesignated (2).
+Pub. L. 115–334, § 2308(d)(5)(C), redesignated par. (4) as (1). Former par. (1) redesignated (2).
 
-Subsec. (d)(2). Pub. L. 115–334, § 2308(d)(5)(C), (E), redesignated par. (1) as (2), substituted “agree to adopt or improve, manage, and maintain—” for “agree to adopt or improve resource-conserving crop rotations to achieve beneficial crop rotations as appropriate for the eligible land of the producers.”, and added subpars. (A) and (B).
+Subsec. (d)(2). Pub. L. 115–334, § 2308(d)(5)(C), (E), redesignated par. (1) as (2), substituted “agree to adopt or improve, manage, and maintain—” for “agree to adopt or improve resource-conserving crop rotations to achieve beneficial crop rotations as appropriate for the eligible land of the producers.”, and added subpars. (A) and (B).
 
-Pub. L. 115–334, § 2308(d)(5)(B), struck out par. (2). Text read as follows: “The Secretary shall determine whether a resource-conserving crop rotation is a beneficial crop rotation eligible for additional payments under paragraph (1) based on whether the resource-conserving crop rotation is designed to provide natural resource conservation and production benefits.”
+Pub. L. 115–334, § 2308(d)(5)(B), struck out par. (2). Text read as follows: “The Secretary shall determine whether a resource-conserving crop rotation is a beneficial crop rotation eligible for additional payments under paragraph (1) based on whether the resource-conserving crop rotation is designed to provide natural resource conservation and production benefits.”
 
-Subsec. (d)(3). Pub. L. 115–334, § 2308(d)(5)(F), substituted “paragraph (2)” for “paragraph (1)” and “agree to adopt or improve, manage, and maintain resource-conserving crop rotations or advanced grazing management for the term of the contract” for “agree to adopt and maintain beneficial resource-conserving crop rotations for the term of the contract”.
+Subsec. (d)(3). Pub. L. 115–334, § 2308(d)(5)(F), substituted “paragraph (2)” for “paragraph (1)” and “agree to adopt or improve, manage, and maintain resource-conserving crop rotations or advanced grazing management for the term of the contract” for “agree to adopt and maintain beneficial resource-conserving crop rotations for the term of the contract”.
 
-Subsec. (d)(4). Pub. L. 115–334, § 2308(d)(5)(G), added par. (4). Former par. (4) redesignated (1).
+Subsec. (d)(4). Pub. L. 115–334, § 2308(d)(5)(G), added par. (4). Former par. (4) redesignated (1).
 
-Subsec. (e). Pub. L. 115–334, § 2308(d)(6), added subsec. (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 115–334, § 2308(d)(6), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 115–334, § 2308(d)(7), substituted “2019 through 2023” for “2014 through 2018”.
+Subsec. (f). Pub. L. 115–334, § 2308(d)(7), substituted “2019 through 2023” for “2014 through 2018”.
 
-Subsec. (h). Pub. L. 115–334, § 2308(d)(8), substituted “Organic certification” for “Coordination with organic certification” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+Subsec. (h). Pub. L. 115–334, § 2308(d)(8), substituted “Organic certification” for “Coordination with organic certification” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
 
-Subsecs. (j) to (*l*). Pub. L. 115–334, § 2308(d)(9), added subsecs. (j) to (*l*).
+Subsecs. (j) to (*l*). Pub. L. 115–334, § 2308(d)(9), added subsecs. (j) to (*l*).
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to duties of the Secretary.
 
-##### § 3839aa–25. Grassland conservation initiative
+##### § 3839aa–25. Grassland conservation initiative
 
 **(a) Definitions** In this section:
 
@@ -5129,7 +5129,7 @@ The Secretary shall consider land enrolled under a grassland conservation contra
 
 **(2)** shall not be prohibited from enrolling the land eligible under section 3839aa–23 of this title through a contract under section 3839aa–23 of this title.
 
-(Pub. L. 99–198, title XII, § 1240L–1, as added Pub. L. 115–334, title II, § 2309, Dec. 20, 2018, 132 Stat. 4569.)
+(Pub. L. 99–198, title XII, § 1240L–1, as added Pub. L. 115–334, title II, § 2309, Dec. 20, 2018, 132 Stat. 4569.)
 
 **Editorial Notes**
 
@@ -5139,7 +5139,7 @@ The Agriculture Improvement Act of 2018, referred to in subsec. (g)(1), is Pub. 
 
 ### Part V—Other Conservation Programs
 
-#### § 3839bb. Conservation of private grazing land
+#### § 3839bb. Conservation of private grazing land
 
 **(a) Purpose** It is the purpose of this section to authorize the Secretary to provide a coordinated technical, educational, and related assistance program to conserve and enhance private grazing land resources and provide related benefits to all citizens of the United States by—
 
@@ -5267,13 +5267,13 @@ The activities of a grazing management district shall be scientifically sound ac
 
 There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2023.
 
-(Pub. L. 99–198, title XII, § 1240M, as added Pub. L. 104–127, title III, § 335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, § 2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2601, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, § 2501, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, § 2404, Dec. 20, 2018, 132 Stat. 4572.)
+(Pub. L. 99–198, title XII, § 1240M, as added Pub. L. 104–127, title III, § 335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, § 2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2601, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, § 2501, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, § 2404, Dec. 20, 2018, 132 Stat. 4572.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
+The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
 
 **Codification**
 
@@ -5281,13 +5281,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (c)(2)(C). Pub. L. 115–334, § 2404(1), added subpar. (C).
+2018—Subsec. (c)(2)(C). Pub. L. 115–334, § 2404(1), added subpar. (C).
 
-Subsec. (e). Pub. L. 115–334, § 2404(2), substituted “2023” for “2018”.
+Subsec. (e). Pub. L. 115–334, § 2404(2), substituted “2023” for “2018”.
 
 2014—Subsec. (e). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (e). Pub. L. 110–246, § 2601, substituted “2012” for “2007”.
+2008—Subsec. (e). Pub. L. 110–246, § 2601, substituted “2012” for “2007”.
 
 2002—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
 
@@ -5297,15 +5297,15 @@ Subsec. (e). Pub. L. 115–334, § 2404(2), substituted “2023” for “2018
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-#### § 3839bb–1. Repealed. Pub. L. 113–79, title II, § 2707(a), Feb. 7, 2014, 128 Stat. 769
+#### § 3839bb–1. Repealed. Pub. L. 113–79, title II, § 2707(a), Feb. 7, 2014, 128 Stat. 769
 
-Section, Pub. L. 99–198, title XII, § 1240N, as added Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 266; amended Pub. L. 110–234, title II, § 2602, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2602, June 18, 2008, 122 Stat. 1664, 1796, related to wildlife habitat incentive program.
+Section, Pub. L. 99–198, title XII, § 1240N, as added Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 266; amended Pub. L. 110–234, title II, § 2602, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2602, June 18, 2008, 122 Stat. 1664, 1796, related to wildlife habitat incentive program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal; Transitional Provisions**
 
-Pub. L. 113–79, title II, § 2707, Feb. 7, 2014, 128 Stat. 769, provided that:
+Pub. L. 113–79, title II, § 2707, Feb. 7, 2014, 128 Stat. 769, provided that:
 
 > **“(a) Repeal.—** Except as provided in subsection (b), section 1240N of the Food Security Act of 1985 (16 U.S.C. 3839bb–1) is repealed.
 
@@ -5319,7 +5319,7 @@ Pub. L. 113–79, title II, § 2707, Feb. 7, 2014, 128 Stat. 769, provided tha
 
 > **“(B) Other.—** On exhaustion of funds made available under subparagraph (A), the Secretary [of Agriculture] may use funds made available to carry out the environmental quality incentives program under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.) to continue to carry out contracts or agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts or agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014.”
 
-#### § 3839bb–2. Grassroots source water protection program
+#### § 3839bb–2. Grassroots source water protection program
 
 **(a) In general**
 
@@ -5343,7 +5343,7 @@ In addition to funds made available under paragraph (1), of the funds of the Com
 
 **(C)** $1,000,000 beginning in fiscal year 2026, to remain available until expended.
 
-(Pub. L. 99–198, title XII, § 1240O, as added Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, § 2603, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2603, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, § 2502, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, § 2405, Dec. 20, 2018, 132 Stat. 4573; Pub. L. 118–22, div. B, title I, § 102(d)(1)(A), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10601(c), July 4, 2025, 139 Stat. 108.)
+(Pub. L. 99–198, title XII, § 1240O, as added Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, § 2603, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2603, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, § 2502, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, § 2405, Dec. 20, 2018, 132 Stat. 4573; Pub. L. 118–22, div. B, title I, § 102(d)(1)(A), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10601(c), July 4, 2025, 139 Stat. 108.)
 
 **Editorial Notes**
 
@@ -5353,19 +5353,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 119–21, § 10601(c)(1), substituted “2031” for “2023”.
+2025—Subsec. (b)(1). Pub. L. 119–21, § 10601(c)(1), substituted “2031” for “2023”.
 
-Subsec. (b)(3)(C). Pub. L. 119–21, § 10601(c)(2), added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 119–21, § 10601(c)(2), added subpar. (C).
 
 2023—Subsec. (b)(3). Pub. L. 118–22 inserted dash after “use”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
 
-2018—Subsec. (b)(1). Pub. L. 115–334, § 2405(a), substituted “2023” for “2018”.
+2018—Subsec. (b)(1). Pub. L. 115–334, § 2405(a), substituted “2023” for “2018”.
 
-Subsec. (b)(3). Pub. L. 115–334, § 2405(b), added par. (3).
+Subsec. (b)(3). Pub. L. 115–334, § 2405(b), added par. (3).
 
 2014—Subsec. (b). Pub. L. 113–79 amended subsec. (b) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2008 through 2012.”
 
-2008—Subsec. (b). Pub. L. 110–246, § 2603, substituted “$20,000,000 for each of fiscal years 2008 through 2012” for “$5,000,000 for each of fiscal years 2002 through 2007”.
+2008—Subsec. (b). Pub. L. 110–246, § 2603, substituted “$20,000,000 for each of fiscal years 2008 through 2012” for “$5,000,000 for each of fiscal years 2002 through 2007”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5377,19 +5377,19 @@ Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Se
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-#### § 3839bb–3. Repealed. Pub. L. 113–79, title II, § 2708, Feb. 7, 2014, 128 Stat. 770
+#### § 3839bb–3. Repealed. Pub. L. 113–79, title II, § 2708, Feb. 7, 2014, 128 Stat. 770
 
-Section, Pub. L. 99–198, title XII, § 1240P, as added Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, § 2604, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2604, June 18, 2008, 122 Stat. 1664, 1796, related to Great Lakes basin program for soil erosion and sediment control.
+Section, Pub. L. 99–198, title XII, § 1240P, as added Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, § 2604, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2604, June 18, 2008, 122 Stat. 1664, 1796, related to Great Lakes basin program for soil erosion and sediment control.
 
-#### § 3839bb–4. Repealed. Pub. L. 113–79, title II, § 2709(a), Feb. 7, 2014, 128 Stat. 770
+#### § 3839bb–4. Repealed. Pub. L. 113–79, title II, § 2709(a), Feb. 7, 2014, 128 Stat. 770
 
-Section, Pub. L. 99–198, title XII, § 1240Q, as added Pub. L. 110–234, title II, § 2605, May 22, 2008, 122 Stat. 1069, and Pub. L. 110–246, § 4(a), title II, § 2605, June 18, 2008, 122 Stat. 1664, 1797, related to conservation activities on agricultural lands in the Chesapeake Bay watershed.
+Section, Pub. L. 99–198, title XII, § 1240Q, as added Pub. L. 110–234, title II, § 2605, May 22, 2008, 122 Stat. 1069, and Pub. L. 110–246, § 4(a), title II, § 2605, June 18, 2008, 122 Stat. 1664, 1797, related to conservation activities on agricultural lands in the Chesapeake Bay watershed.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal; Transitional Provisions**
 
-Pub. L. 113–79, title II, § 2709, Feb. 7, 2014, 128 Stat. 770, provided that:
+Pub. L. 113–79, title II, § 2709, Feb. 7, 2014, 128 Stat. 770, provided that:
 
 > **“(a) Repeal.—** Except as provided in subsection (b), section 1240Q of the Food Security Act of 1985 (16 U.S.C. 3839bb–4) is repealed.
 
@@ -5403,7 +5403,7 @@ Pub. L. 113–79, title II, § 2709, Feb. 7, 2014, 128 Stat. 770, provided tha
 
 > **“(B) Other.—** The Secretary [of Agriculture] may use funds made available to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 [16 U.S.C. 3871 et seq.], as added by section 2401, to continue to carry out contracts, agreements, and easements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts, agreements, and easements as in existence on the day before the date of enactment of the Agricultural Act of 2014.”
 
-#### § 3839bb–5. Voluntary public access and habitat incentive program
+#### § 3839bb–5. Voluntary public access and habitat incentive program
 
 **(a) Establishment**
 
@@ -5459,13 +5459,13 @@ To the maximum extent practicable, of the funds made available under paragraph (
 
 There is authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2013.
 
-(Pub. L. 99–198, title XII, § 1240R, as added Pub. L. 110–234, title II, § 2606, May 22, 2008, 122 Stat. 1070, and Pub. L. 110–246, § 4(a), title II, § 2606, June 18, 2008, 122 Stat. 1664, 1798; amended Pub. L. 112–240, title VII, § 701(c)(2), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title II, § 2503(a), Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, §§ 2202(b)(1), 2406, Dec. 20, 2018, 132 Stat. 4537, 4573; Pub. L. 118–22, div. B, title I, § 102(d)(1)(B), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10601(d), July 4, 2025, 139 Stat. 108.)
+(Pub. L. 99–198, title XII, § 1240R, as added Pub. L. 110–234, title II, § 2606, May 22, 2008, 122 Stat. 1070, and Pub. L. 110–246, § 4(a), title II, § 2606, June 18, 2008, 122 Stat. 1664, 1798; amended Pub. L. 112–240, title VII, § 701(c)(2), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title II, § 2503(a), Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, §§ 2202(b)(1), 2406, Dec. 20, 2018, 132 Stat. 4537, 4573; Pub. L. 118–22, div. B, title I, § 102(d)(1)(B), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10601(d), July 4, 2025, 139 Stat. 108.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3834(f)(4) of this title, referred to in subsec. (c)(3), was redesignated as section 3834(g)(2) of this title by Pub. L. 113–79, title II, §§ 2005(b)(2), (e)(3), Feb. 7, 2014, 128 Stat. 718, 719.
+Section 3834(f)(4) of this title, referred to in subsec. (c)(3), was redesignated as section 3834(g)(2) of this title by Pub. L. 113–79, title II, §§ 2005(b)(2), (e)(3), Feb. 7, 2014, 128 Stat. 718, 719.
 
 **Codification**
 
@@ -5473,25 +5473,25 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2025—Subsec. (f)(1). Pub. L. 119–21 substituted “2023,” for “2023, and” and inserted “, and $70,000,000 for the period of fiscal years 2025 through 2031” before period at end.
+2025—Subsec. (f)(1). Pub. L. 119–21 substituted “2023,” for “2023, and” and inserted “, and $70,000,000 for the period of fiscal years 2025 through 2031” before period at end.
 
-2023—Subsec. (f)(1). Pub. L. 118–22 struck out “and” after “through 2018,” and inserted “, and $10,000,000 for fiscal year 2024” after “through 2023”.
+2023—Subsec. (f)(1). Pub. L. 118–22 struck out “and” after “through 2018,” and inserted “, and $10,000,000 for fiscal year 2024” after “through 2023”.
 
-2018—Subsec. (a). Pub. L. 115–334, § 2406(1), substituted “funding” for “grants”.
+2018—Subsec. (a). Pub. L. 115–334, § 2406(1), substituted “funding” for “grants”.
 
-Subsec. (b). Pub. L. 115–334, § 2406(2), substituted “funding” for “a grant” in introductory provisions.
+Subsec. (b). Pub. L. 115–334, § 2406(2), substituted “funding” for “a grant” in introductory provisions.
 
-Subsec. (c). Pub. L. 115–334, § 2406(1), substituted “funding” for “grants” in introductory provisions.
+Subsec. (c). Pub. L. 115–334, § 2406(1), substituted “funding” for “grants” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 115–334, § 2406(3), inserted “or on land covered by a wetland reserve easement under section 3865C of this title” before “by providing”.
+Subsec. (c)(3). Pub. L. 115–334, § 2406(3), inserted “or on land covered by a wetland reserve easement under section 3865C of this title” before “by providing”.
 
-Pub. L. 115–334, § 2202(b)(1), substituted “a conservation reserve enhancement program under section 3831a of this title” for “a special conservation reserve enhancement program described in section 3834(f)(4) of this title”.
+Pub. L. 115–334, § 2202(b)(1), substituted “a conservation reserve enhancement program under section 3831a of this title” for “a special conservation reserve enhancement program described in section 3834(f)(4) of this title”.
 
-Subsec. (d)(2). Pub. L. 115–334, § 2406(2), substituted “funding” for “a grant”.
+Subsec. (d)(2). Pub. L. 115–334, § 2406(2), substituted “funding” for “a grant”.
 
-Subsec. (f)(1). Pub. L. 115–334, § 2406(4)(A), substituted “2009 through 2012,” for “2009 through 2012 and” and inserted “, and $50,000,000 for the period of fiscal years 2019 through 2023” before period at end.
+Subsec. (f)(1). Pub. L. 115–334, § 2406(4)(A), substituted “2009 through 2012,” for “2009 through 2012 and” and inserted “, and $50,000,000 for the period of fiscal years 2019 through 2023” before period at end.
 
-Subsec. (f)(2), (3). Pub. L. 115–334, § 2406(4)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (f)(2), (3). Pub. L. 115–334, § 2406(4)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
 2014—Subsec. (f)(1). Pub. L. 113–79, in heading, substituted “Mandatory funding” for “Fiscal years 2009 through 2012” and in text, inserted “and $40,000,000 for the period of fiscal years 2014 through 2018” before period at end.
 
@@ -5511,7 +5511,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-#### § 3839bb–6. Terminal lakes assistance
+#### § 3839bb–6. Terminal lakes assistance
 
 **(a) Definitions** In this section:
 
@@ -5523,9 +5523,9 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(i)**
 
-**(I)** is ineligible for enrollment as a wetland reserve easement established under the agricultural conservation easement program under subtitle H 1
+**(I)** is ineligible for enrollment as a wetland reserve easement established under the agricultural conservation easement program under subtitle H 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Food Security Act of 1985;
 
@@ -5663,15 +5663,15 @@ Any funds made available to carry out this section before December 20, 2018, may
 
 The authority provided by this section shall terminate on October 1, 2025.
 
-(Pub. L. 107–171, title II, § 2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, § 2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, § 4(a), title II, § 2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, § 207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, § 208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, § 2507, Feb. 7, 2014, 128 Stat. 753; Pub. L. 115–334, title II, § 2821(d), Dec. 20, 2018, 132 Stat. 4603; Pub. L. 117–361, § 1, Jan. 5, 2023, 136 Stat. 6294.)
+(Pub. L. 107–171, title II, § 2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, § 2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, § 4(a), title II, § 2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, § 207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, § 208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, § 2507, Feb. 7, 2014, 128 Stat. 753; Pub. L. 115–334, title II, § 2821(d), Dec. 20, 2018, 132 Stat. 4603; Pub. L. 117–361, § 1, Jan. 5, 2023, 136 Stat. 6294.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in subsecs. (a)(1)(B)(i)(I) and (c)(2)(E)(i), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to this chapter. Subtitle H of the Food Security Act of 1985 probably means subtitle H (§ 1265 et seq.) of title XII of Pub. L. 99–198, which is classified generally to subchapter VII of this chapter. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsecs. (a)(1)(B)(i)(I) and (c)(2)(E)(i), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to this chapter. Subtitle H of the Food Security Act of 1985 probably means subtitle H (§ 1265 et seq.) of title XII of Pub. L. 99–198, which is classified generally to subchapter VII of this chapter. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (c)(2)(E)(ii), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (c)(2)(E)(ii), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 Section 2507 of the Farm Security and Rural Investment Act of 2002 (43 U.S.C. 2211 note; Public Law 107–171) (as in effect on the day before February 7, 2014), referred to in subsec. (d)(3)(B)(i), is section 2507 of Pub. L. 107–171, title II, May 13, 2002, 116 Stat. 275, which was classified as a note under section 2211 of Title 43, Public Lands, prior to being amended generally by Pub. L. 113–79 and editorially reclassified as this section.
 
@@ -5693,29 +5693,29 @@ Section was formerly set out as a note under section 2211 of Title 43, Public La
 
 2023—Subsec. (f). Pub. L. 117–361 substituted “2025” for “2023”.
 
-2018—Subsec. (e). Pub. L. 115–334, § 2821(d)(1), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “There is authorized to be appropriated to the Secretary to carry out subsection (c) $25,000,000, to remain available until expended.”
+2018—Subsec. (e). Pub. L. 115–334, § 2821(d)(1), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “There is authorized to be appropriated to the Secretary to carry out subsection (c) $25,000,000, to remain available until expended.”
 
-Subsec. (f). Pub. L. 115–334, § 2821(d)(2), added subsec. (f).
+Subsec. (f). Pub. L. 115–334, § 2821(d)(2), added subsec. (f).
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section directed Secretary of Agriculture, subject to certain other provisions, to transfer $175,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account to provide water to at-risk natural desert terminal lakes.
 
-2011—Subsec. (b). Pub. L. 112–74, § 208(a)(1), substituted “For the benefit of at-risk natural desert terminal lakes and associated riparian and watershed resources, in any case in which there are willing sellers or willing participants” for “In any case in which there are willing sellers” in introductory provisions.
+2011—Subsec. (b). Pub. L. 112–74, § 208(a)(1), substituted “For the benefit of at-risk natural desert terminal lakes and associated riparian and watershed resources, in any case in which there are willing sellers or willing participants” for “In any case in which there are willing sellers” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 112–74, § 208(a)(2), struck out “in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268)” before “; and”.
+Subsec. (b)(2). Pub. L. 112–74, § 208(a)(2), struck out “in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268)” before “; and”.
 
-Subsec. (b)(3). Pub. L. 112–74, § 208(a)(3), struck out “in the Walker River Basin” before period at end.
+Subsec. (b)(3). Pub. L. 112–74, § 208(a)(3), struck out “in the Walker River Basin” before period at end.
 
 2009—Subsec. (b)(3). Pub. L. 111–85 added par. (3).
 
-2008—Subsec. (a). Pub. L. 110–246, § 2807(1), substituted “Transfer” for “In general” in heading and “Subject to subsection (b) and paragraph (1) of section 207(a) of Public Law 108–7 (117 Stat. 146), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary of Agriculture shall transfer $175,000,000” for “Subject to subsection (b), as soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall transfer $200,000,000” in text and deleted quotation marks before “(1)” and “(2)”.
+2008—Subsec. (a). Pub. L. 110–246, § 2807(1), substituted “Transfer” for “In general” in heading and “Subject to subsection (b) and paragraph (1) of section 207(a) of Public Law 108–7 (117 Stat. 146), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary of Agriculture shall transfer $175,000,000” for “Subject to subsection (b), as soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall transfer $200,000,000” in text and deleted quotation marks before “(1)” and “(2)”.
 
-Subsec. (b). Pub. L. 110–246, § 2807(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The funds described in subsection (a) shall not be used to purchase or lease water rights.”
+Subsec. (b). Pub. L. 110–246, § 2807(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The funds described in subsection (a) shall not be used to purchase or lease water rights.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Funds**
 
-Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that not later than 14 days after Aug. 2, 2002, the Secretary of Agriculture was to carry out a transfer of funds under former section 2507(a) of Pub. L. 107–171.
+Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that not later than 14 days after Aug. 2, 2002, the Secretary of Agriculture was to carry out a transfer of funds under former section 2507(a) of Pub. L. 107–171.
 
 ## SUBCHAPTER V—FUNDING AND ADMINISTRATION
 
@@ -5723,9 +5723,9 @@ Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that
 
 **Codification**
 
-Subtitle E of title XII of the Food Security Act, comprising this subchapter, was originally enacted by Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1514, and amended by Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359; Pub. L. 102–237, Dec. 13, 1991, 105 Stat. 1818; Pub. L. 102–552, Oct. 28, 1992, 106 Stat. 4102; and Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707. Subtitle E was shown herein, however, as having been added by Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1007, without reference to the intervening amendments because of the extensive revision of the subtitle’s provisions by Pub. L. 104–127. Subsequent amendments to subtitle E have enacted or repealed and reenacted sections throughout the subtitle.
+Subtitle E of title XII of the Food Security Act, comprising this subchapter, was originally enacted by Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1514, and amended by Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359; Pub. L. 102–237, Dec. 13, 1991, 105 Stat. 1818; Pub. L. 102–552, Oct. 28, 1992, 106 Stat. 4102; and Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707. Subtitle E was shown herein, however, as having been added by Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1007, without reference to the intervening amendments because of the extensive revision of the subtitle’s provisions by Pub. L. 104–127. Subsequent amendments to subtitle E have enacted or repealed and reenacted sections throughout the subtitle.
 
-### § 3841. Commodity Credit Corporation
+### § 3841. Commodity Credit Corporation
 
 **(a) Annual funding** For each of fiscal years 2014 through 2031, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
 
@@ -5897,9 +5897,9 @@ No funds made available pursuant to Public Law 117–169 may be used to provide 
 
 **(i)** of activities that may be carried out, through a covered program, pursuant to this section; and
 
-**(ii)** any 1
+**(ii)** any 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “of”.
+<sup>1</sup> So in original. Probably should be preceded by “of”.
 
 terms prescribed by the contributing entity under paragraph (5)(D) with respect to such activities.
 
@@ -5941,7 +5941,7 @@ The Secretary shall not adjust the application of statutory requirements for a c
 
 **(A)** subchapter IV (except for subpart B of such subchapter),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 subchapter VII, or subchapter VIII;
 
@@ -5997,7 +5997,7 @@ In any fiscal year through fiscal year 2018, acres not obligated under paragraph
 
 **(4) Preference**
 
-In providing assistance under paragraph (1), the Secretary shall give preference to a veteran farmer or rancher (as defined in section 2279(e) <sup>2</sup> of title 7) that qualifies under, as applicable, clause (i) or (ii) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B).
+In providing assistance under paragraph (1), the Secretary shall give preference to a veteran farmer or rancher (as defined in section 2279(e) <sup>2</sup> of title 7) that qualifies under, as applicable, clause (i) or (ii) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B).
 
 **(i) Report on program enrollments and assistance** Not later than December 15 of each of calendar years 2019 through 2023, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report containing statistics by State related to enrollments in conservation programs under this chapter, as follows:
 
@@ -6031,7 +6031,7 @@ In providing assistance under paragraph (1), the Secretary shall give preference
 
 **(B)** payment rates, to the extent practicable, are consistent between the Farm Service Agency and the Natural Resources Conservation Service.
 
-(Pub. L. 99–198, title XII, § 1241, as added Pub. L. 107–171, title II, § 2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§ 213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, § 2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, § 101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, § 101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, § 1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§ 1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§ 2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, § 4(a), title II, §§ 2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802; Pub. L. 112–55, div. A, title VII, § 716(d)–(f), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, § 750(b), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §§ 2601–2605, Feb. 7, 2014, 128 Stat. 756–759; Pub. L. 115–123, div. F, § 60102(b), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, § 2501, title XII, § 12306(g), Dec. 20, 2018, 132 Stat. 4576, 4970; Pub. L. 117–169, title II, § 21001(c)(5), Aug. 16, 2022, 136 Stat. 2017; Pub. L. 117–328, div. HH, title I, § 202, Dec. 29, 2022, 136 Stat. 5982; Pub. L. 119–21, title I, § 10601(a), July 4, 2025, 139 Stat. 107.)
+(Pub. L. 99–198, title XII, § 1241, as added Pub. L. 107–171, title II, § 2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§ 213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, § 2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, § 101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, § 101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, § 1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§ 1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§ 2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, § 4(a), title II, §§ 2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802; Pub. L. 112–55, div. A, title VII, § 716(d)–(f), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, § 750(b), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §§ 2601–2605, Feb. 7, 2014, 128 Stat. 756–759; Pub. L. 115–123, div. F, § 60102(b), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, § 2501, title XII, § 12306(g), Dec. 20, 2018, 132 Stat. 4576, 4970; Pub. L. 117–169, title II, § 21001(c)(5), Aug. 16, 2022, 136 Stat. 2017; Pub. L. 117–328, div. HH, title I, § 202, Dec. 29, 2022, 136 Stat. 5982; Pub. L. 119–21, title I, § 10601(a), July 4, 2025, 139 Stat. 107.)
 
 **Editorial Notes**
 
@@ -6039,21 +6039,21 @@ In providing assistance under paragraph (1), the Secretary shall give preference
 
 This chapter, referred to in subsecs. (a), (c)(2)(A), (g)(1), (i), and (j)(1), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
-Part IV of subchapter IV, referred to in subsec. (a)(3), was in the original “chapter 4” or “that chapter”, and was translated as meaning “chapter 4 of subtitle D”, meaning chapter 4 of subtitle D of title XII of Pub. L. 99–198, which is classified generally to part IV (§ 3839aa et seq.) of subchapter IV of this chapter, to reflect the probable intent of Congress.
+Part IV of subchapter IV, referred to in subsec. (a)(3), was in the original “chapter 4” or “that chapter”, and was translated as meaning “chapter 4 of subtitle D”, meaning chapter 4 of subtitle D of title XII of Pub. L. 99–198, which is classified generally to part IV (§ 3839aa et seq.) of subchapter IV of this chapter, to reflect the probable intent of Congress.
 
 Section 2611 of the Agricultural Act of 2014, referred to in subsec. (c)(2), is section 2611 of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 762, which amended sections 3811, 3812, 3812a, and 3821 of this title.
 
-The Soil Conservation and Domestic Allotment Act, referred to in subsec. (c)(2)(A), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of this title. For complete classification of this Act to the Code, see section 590q of this title and Tables.
+The Soil Conservation and Domestic Allotment Act, referred to in subsec. (c)(2)(A), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of this title. For complete classification of this Act to the Code, see section 590q of this title and Tables.
 
 Public Law 117–169, referred to in subsec. (f)(4)(C), is Pub. L. 117–169, Aug. 16, 2022, 136 Stat. 1818, popularly known as the Inflation Reduction Act of 2022. For complete classification of this Act to the Code, see Tables.
 
-Subchapter IV (except for subpart B of such subchapter), referred to in subsec. (f)(9)(A), was in the original “subtitle D (except for subchapter B of such subtitle)”. Subtitle D of title XII of Pub. L. 99–198 contains two chapters with a subchapter B. Subchapter B of chapter 1 of subtitle D is classified to subpart B (§ 3831 et seq.) of part I of subchapter IV of this chapter, and subchapter B of chapter 4 of subtitle D is classified to subpart B (§ 3839aa–21 et seq.) of part IV of subchapter IV of this chapter.
+Subchapter IV (except for subpart B of such subchapter), referred to in subsec. (f)(9)(A), was in the original “subtitle D (except for subchapter B of such subtitle)”. Subtitle D of title XII of Pub. L. 99–198 contains two chapters with a subchapter B. Subchapter B of chapter 1 of subtitle D is classified to subpart B (§ 3831 et seq.) of part I of subchapter IV of this chapter, and subchapter B of chapter 4 of subtitle D is classified to subpart B (§ 3839aa–21 et seq.) of part IV of subchapter IV of this chapter.
 
-The Healthy Forests Restoration Act of 2003, referred to in subsec. (f)(9)(C), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887. Title V of the Act is classified generally to subchapter V (§ 6571 et seq.) of chapter 84 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Healthy Forests Restoration Act of 2003, referred to in subsec. (f)(9)(C), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887. Title V of the Act is classified generally to subchapter V (§ 6571 et seq.) of chapter 84 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-The Watershed Protection and Flood Prevention Act, referred to in subsec. (f)(9)(D), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Watershed Protection and Flood Prevention Act, referred to in subsec. (f)(9)(D), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-Section 2279(e) of title 7, referred to in subsec. (h)(4), was redesignated section 2279(a) of Title 7, Agriculture, by Pub. L. 115–334, title XII, § 12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
+Section 2279(e) of title 7, referred to in subsec. (h)(4), was redesignated section 2279(a) of Title 7, Agriculture, by Pub. L. 115–334, title XII, § 12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
 
 **Codification**
 
@@ -6063,55 +6063,55 @@ Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Se
 
 **Prior Provisions**
 
-A prior section 3841, Pub. L. 99–198, title XII, § 1241, as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1007, related to funding for the Commodity Credit Corporation, prior to repeal by Pub. L. 107–171, title II, § 2701, May 13, 2002, 116 Stat. 278. See Codification note above.
+A prior section 3841, Pub. L. 99–198, title XII, § 1241, as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1007, related to funding for the Commodity Credit Corporation, prior to repeal by Pub. L. 107–171, title II, § 2701, May 13, 2002, 116 Stat. 278. See Codification note above.
 
-Another prior section 3841, Pub. L. 99–198, title XII, § 1241, Dec. 23, 1985, 99 Stat. 1514, related to use of Commodity Credit Corporation, prior to the general amendment of this subchapter by Pub. L. 104–127.
+Another prior section 3841, Pub. L. 99–198, title XII, § 1241, Dec. 23, 1985, 99 Stat. 1514, related to use of Commodity Credit Corporation, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 **Amendments**
 
-2025—Subsec. (a)(2)(A) to (F). Pub. L. 119–21, § 10601(a)(1), added subpars. (A) to (F) and struck out former subpars. (A) to (F) which related to funding amounts under the agricultural conservation easement program for fiscal years 2014 to 2031.
+2025—Subsec. (a)(2)(A) to (F). Pub. L. 119–21, § 10601(a)(1), added subpars. (A) to (F) and struck out former subpars. (A) to (F) which related to funding amounts under the agricultural conservation easement program for fiscal years 2014 to 2031.
 
-Subsec. (a)(3)(A)(i) to (vi). Pub. L. 119–21, § 10601(a)(2)(A), added cls. (i) to (vi) and struck out former cls. (i) to (v) which related to funding amounts for the environmental quality incentives program for fiscal years 2019 to 2031.
+Subsec. (a)(3)(A)(i) to (vi). Pub. L. 119–21, § 10601(a)(2)(A), added cls. (i) to (vi) and struck out former cls. (i) to (v) which related to funding amounts for the environmental quality incentives program for fiscal years 2019 to 2031.
 
-Subsec. (a)(3)(B)(i) to (vi). Pub. L. 119–21, § 10601(a)(2)(B), added cls. (i) to (vi) and struck out former cls. (i) to (v) which related to funding amounts for the conservation stewardship program for fiscal years 2019 to 2031.
+Subsec. (a)(3)(B)(i) to (vi). Pub. L. 119–21, § 10601(a)(2)(B), added cls. (i) to (vi) and struck out former cls. (i) to (v) which related to funding amounts for the conservation stewardship program for fiscal years 2019 to 2031.
 
-2022—Subsec. (a). Pub. L. 117–169, § 21001(c)(5)(A)(i), substituted “2031” for “2023” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–169, § 21001(c)(5)(A)(i), substituted “2031” for “2023” in introductory provisions.
 
-Subsec. (a)(2)(F). Pub. L. 117–169, § 21001(c)(5)(A)(ii), substituted “2031” for “2023”.
+Subsec. (a)(2)(F). Pub. L. 117–169, § 21001(c)(5)(A)(ii), substituted “2031” for “2023”.
 
-Subsec. (a)(3)(A)(v), (B)(v). Pub. L. 117–169, § 21001(c)(5)(A)(iii), substituted “each of fiscal years 2023 through 2031” for “fiscal year 2023”.
+Subsec. (a)(3)(A)(v), (B)(v). Pub. L. 117–169, § 21001(c)(5)(A)(iii), substituted “each of fiscal years 2023 through 2031” for “fiscal year 2023”.
 
-Subsec. (b). Pub. L. 117–169, § 21001(c)(5)(B), substituted “2031” for “2023”.
+Subsec. (b). Pub. L. 117–169, § 21001(c)(5)(B), substituted “2031” for “2023”.
 
-Subsec. (f). Pub. L. 117–328, § 202(1), inserted “for public-private partnerships” after “contributions” in heading.
+Subsec. (f). Pub. L. 117–328, § 202(1), inserted “for public-private partnerships” after “contributions” in heading.
 
-Subsec. (f)(1). Pub. L. 117–328, § 202(2), amended par. (1) generally. Prior to amendment, text read as follows: “Subject to paragraph (2), the Secretary may establish a sub-account for each conservation program administered by the Secretary under subchapter IV to accept contributions of non-Federal funds to support the purposes of the program.”
+Subsec. (f)(1). Pub. L. 117–328, § 202(2), amended par. (1) generally. Prior to amendment, text read as follows: “Subject to paragraph (2), the Secretary may establish a sub-account for each conservation program administered by the Secretary under subchapter IV to accept contributions of non-Federal funds to support the purposes of the program.”
 
-Subsec. (f)(2). Pub. L. 117–328, § 202(3), substituted “a covered program shall be deposited into the account” for “a conservation program administered by the Secretary under subchapter IV shall be deposited into the sub-account”.
+Subsec. (f)(2). Pub. L. 117–328, § 202(3), substituted “a covered program shall be deposited into the account” for “a conservation program administered by the Secretary under subchapter IV shall be deposited into the sub-account”.
 
-Subsec. (f)(3) to (10). Pub. L. 117–328, § 202(4), added pars. (3) to (10).
+Subsec. (f)(3) to (10). Pub. L. 117–328, § 202(4), added pars. (3) to (10).
 
-Subsec. (h). Pub. L. 117–169, § 21001(c)(5)(C)(ii), substituted “2031” for “2023” wherever appearing in text.
+Subsec. (h). Pub. L. 117–169, § 21001(c)(5)(C)(ii), substituted “2031” for “2023” wherever appearing in text.
 
-Subsec. (h)(1)(B). Pub. L. 117–169, § 21001(c)(5)(C)(i), substituted “2031” for “2023” in heading.
+Subsec. (h)(1)(B). Pub. L. 117–169, § 21001(c)(5)(C)(i), substituted “2031” for “2023” in heading.
 
-2018—Subsec. (a). Pub. L. 115–334, § 2501(a)(1), substituted “2023” for “2018 (and fiscal year 2019 in the case of the program specified in paragraph (5))” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–334, § 2501(a)(1), substituted “2023” for “2018 (and fiscal year 2019 in the case of the program specified in paragraph (5))” in introductory provisions.
 
-Pub. L. 115–123, § 60102(b)(1)(A), substituted “2018 (and fiscal year 2019 in the case of the program specified in paragraph (5))” for “2018” in introductory provisions.
+Pub. L. 115–123, § 60102(b)(1)(A), substituted “2018 (and fiscal year 2019 in the case of the program specified in paragraph (5))” for “2018” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 115–334, § 2501(a)(2)(A), substituted “$12,000,000 for the period of fiscal years 2019 through 2023” for “$10,000,000 for the period of fiscal years 2014 through 2018”.
+Subsec. (a)(1)(A). Pub. L. 115–334, § 2501(a)(2)(A), substituted “$12,000,000 for the period of fiscal years 2019 through 2023” for “$10,000,000 for the period of fiscal years 2014 through 2018”.
 
-Subsec. (a)(1)(B). Pub. L. 115–334, § 12306(g), substituted “covered farmers or ranchers, as defined in section 3835(f)(1) of this title” for “beginning farmers or ranchers and socially disadvantaged farmers or ranchers”.
+Subsec. (a)(1)(B). Pub. L. 115–334, § 12306(g), substituted “covered farmers or ranchers, as defined in section 3835(f)(1) of this title” for “beginning farmers or ranchers and socially disadvantaged farmers or ranchers”.
 
-Pub. L. 115–334, § 2501(a)(2)(B), substituted “$50,000,000 for the period of fiscal years 2019 through 2023, including not more than $5,000,000 to provide outreach and technical assistance,” for “$33,000,000 for the period of fiscal years 2014 through 2018” and “contract holders” for “retired or retiring owners and operators”.
+Pub. L. 115–334, § 2501(a)(2)(B), substituted “$50,000,000 for the period of fiscal years 2019 through 2023, including not more than $5,000,000 to provide outreach and technical assistance,” for “$33,000,000 for the period of fiscal years 2014 through 2018” and “contract holders” for “retired or retiring owners and operators”.
 
-Subsec. (a)(2)(F). Pub. L. 115–334, § 2501(a)(3), added subpar. (F).
+Subsec. (a)(2)(F). Pub. L. 115–334, § 2501(a)(3), added subpar. (F).
 
-Subsec. (a)(3). Pub. L. 115–334, § 2501(a)(4), added par. (3) and struck out former par. (3) which read as follows: “The conservation security program under subpart A of part II of subchapter IV, using such sums as are necessary to administer contracts entered into before September 30, 2008.”
+Subsec. (a)(3). Pub. L. 115–334, § 2501(a)(4), added par. (3) and struck out former par. (3) which read as follows: “The conservation security program under subpart A of part II of subchapter IV, using such sums as are necessary to administer contracts entered into before September 30, 2008.”
 
-Subsec. (a)(4). Pub. L. 115–334, § 2501(a)(5), inserted before period at end “(as in effect on the day before December 20, 2018), using such sums as are necessary to administer contracts entered into before December 20, 2018”.
+Subsec. (a)(4). Pub. L. 115–334, § 2501(a)(5), inserted before period at end “(as in effect on the day before December 20, 2018), using such sums as are necessary to administer contracts entered into before December 20, 2018”.
 
-Subsec. (a)(5). Pub. L. 115–334, § 2501(a)(6), struck out par. (5) which read as follows: “The environmental quality incentives program under part IV of subchapter IV, using, to the maximum extent practicable—
+Subsec. (a)(5). Pub. L. 115–334, § 2501(a)(6), struck out par. (5) which read as follows: “The environmental quality incentives program under part IV of subchapter IV, using, to the maximum extent practicable—
 
 “(A) $1,350,000,000 for fiscal year 2014;
 
@@ -6123,93 +6123,93 @@ Subsec. (a)(5). Pub. L. 115–334, § 2501(a)(6), struck out par. (5) which re
 
 “(E) $1,750,000,000 for each of fiscal years 2018 through 2019.”
 
-Subsec. (a)(5)(E). Pub. L. 115–123, § 60102(b)(1)(B), substituted “each of fiscal years 2018 through 2019” for “fiscal year 2018”.
+Subsec. (a)(5)(E). Pub. L. 115–123, § 60102(b)(1)(B), substituted “each of fiscal years 2018 through 2019” for “fiscal year 2018”.
 
-Subsec. (b). Pub. L. 115–334, § 2501(b), substituted “2023” for “2018 (and fiscal year 2019 in the case of the program specified in subsection (a)(5))”.
+Subsec. (b). Pub. L. 115–334, § 2501(b), substituted “2023” for “2018 (and fiscal year 2019 in the case of the program specified in subsection (a)(5))”.
 
-Pub. L. 115–123, § 60102(b)(2), substituted “2018 (and fiscal year 2019 in the case of the program specified in subsection (a)(5))” for “2018”.
+Pub. L. 115–123, § 60102(b)(2), substituted “2018 (and fiscal year 2019 in the case of the program specified in subsection (a)(5))” for “2018”.
 
-Subsec. (g)(1). Pub. L. 115–334, § 2501(d)(1), substituted “1 year after December 20, 2018, the Secretary, acting through the Chief of the Natural Resources Conservation Service and the Administrator of the Farm Service Agency, shall” for “January 1, 2012, the Secretary shall” and inserted “annual” after “utilize” and “relevant data on local natural resource concerns, resource inventories, evaluations and reports, recommendations from State technical committees established under section 3861(a) of this title,” after “accounting for”.
+Subsec. (g)(1). Pub. L. 115–334, § 2501(d)(1), substituted “1 year after December 20, 2018, the Secretary, acting through the Chief of the Natural Resources Conservation Service and the Administrator of the Farm Service Agency, shall” for “January 1, 2012, the Secretary shall” and inserted “annual” after “utilize” and “relevant data on local natural resource concerns, resource inventories, evaluations and reports, recommendations from State technical committees established under section 3861(a) of this title,” after “accounting for”.
 
-Subsec. (g)(2). Pub. L. 115–334, § 2501(d)(2), substituted “that—” for “that”, inserted subpar. (A) designation before “the formulas” and substituted semicolon for period at end, and added subpars. (B) to (D).
+Subsec. (g)(2). Pub. L. 115–334, § 2501(d)(2), substituted “that—” for “that”, inserted subpar. (A) designation before “the formulas” and substituted semicolon for period at end, and added subpars. (B) to (D).
 
-Subsec. (h)(1). Pub. L. 115–334, § 2501(e)(1), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), and realigned margins.
+Subsec. (h)(1). Pub. L. 115–334, § 2501(e)(1), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), and realigned margins.
 
-Subsec. (h)(2). Pub. L. 115–334, § 2501(e)(2), inserted before period at end “and, in the case of fiscal years 2019 through 2023, under the conservation stewardship program under subpart B of part IV of subchapter IV”.
+Subsec. (h)(2). Pub. L. 115–334, § 2501(e)(2), inserted before period at end “and, in the case of fiscal years 2019 through 2023, under the conservation stewardship program under subpart B of part IV of subchapter IV”.
 
-Subsec. (h)(3). Pub. L. 115–334, § 2501(e)(3), substituted “year through fiscal year 2018, acres not obligated under paragraph (1)(A)” for “year, acres not obligated under paragraph (1)”.
+Subsec. (h)(3). Pub. L. 115–334, § 2501(e)(3), substituted “year through fiscal year 2018, acres not obligated under paragraph (1)(A)” for “year, acres not obligated under paragraph (1)”.
 
-Subsec. (h)(4). Pub. L. 115–334, § 2501(e)(4), substituted “, as applicable, clause (i) or (ii) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B)” for “subparagraph (A) or (B) of paragraph (1)”.
+Subsec. (h)(4). Pub. L. 115–334, § 2501(e)(4), substituted “, as applicable, clause (i) or (ii) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B)” for “subparagraph (A) or (B) of paragraph (1)”.
 
-Subsec. (i). Pub. L. 115–334, § 2501(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to semiannual report on program enrollments and assistance under this subchapter, beginning in calendar year 2009 and each year thereafter.
+Subsec. (i). Pub. L. 115–334, § 2501(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to semiannual report on program enrollments and assistance under this subchapter, beginning in calendar year 2009 and each year thereafter.
 
-Subsec. (j). Pub. L. 115–334, § 2501(f), added subsec. (j).
+Subsec. (j). Pub. L. 115–334, § 2501(f), added subsec. (j).
 
-2014—Subsec. (a). Pub. L. 113–79, § 2601(a), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out programs under subchapter IV for fiscal years 2002 through 2012 generally, and fiscal years 2014 and 2015 in the case of certain programs.
+2014—Subsec. (a). Pub. L. 113–79, § 2601(a), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out programs under subchapter IV for fiscal years 2002 through 2012 generally, and fiscal years 2014 and 2015 in the case of certain programs.
 
-Pub. L. 113–76, § 750(b)(1), substituted “and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)),” for “(6), and (7)),” in introductory provisions.
+Pub. L. 113–76, § 750(b)(1), substituted “and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)),” for “(6), and (7)),” in introductory provisions.
 
-Subsec. (a)(6)(F). Pub. L. 113–76, § 750(b)(2), added subpar. (F).
+Subsec. (a)(6)(F). Pub. L. 113–76, § 750(b)(2), added subpar. (F).
 
-Subsec. (b). Pub. L. 113–79, § 2601(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 113–79, § 2601(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 113–79, § 2602, added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Effective for fiscal year 2005 and each subsequent fiscal year, Commodity Credit Corporation funds made available for each of the programs specified in paragraphs (1) through (7) of subsection (a) of this section—
+Subsec. (c). Pub. L. 113–79, § 2602, added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Effective for fiscal year 2005 and each subsequent fiscal year, Commodity Credit Corporation funds made available for each of the programs specified in paragraphs (1) through (7) of subsection (a) of this section—
 
 “(1) shall be available for the provision of technical assistance for the programs for which funds are made available; and
 
 “(2) shall not be available for the provision of technical assistance for conservation programs specified in subsection (a) of this section other than the program for which the funds were made available.”
 
-Pub. L. 113–79, § 2601(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Pub. L. 113–79, § 2601(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 113–79, § 2601(b)(3), substituted “subsection (c)” for “subsection (b)”.
+Subsec. (d). Pub. L. 113–79, § 2601(b)(3), substituted “subsection (c)” for “subsection (b)”.
 
-Pub. L. 113–79, § 2601(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Pub. L. 113–79, § 2601(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 113–79, § 2603, added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows:
+Subsec. (e). Pub. L. 113–79, § 2603, added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows:
 
 “(1) Priority funding to promote equity.—Before April 1 of each fiscal year, the Secretary shall give priority for funding under the conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $15,000,000 for those conservation programs.
 
 “(2) Specific funding allocations.—In determining the specific funding allocations for States under paragraph (1), the Secretary shall consider the respective demand in each State for each program covered by such paragraph.”
 
-Pub. L. 113–79, § 2601(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 113–79, § 2601(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsecs. (f) to (h). Pub. L. 113–79, § 2601(b)(1), redesignated subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
+Subsecs. (f) to (h). Pub. L. 113–79, § 2601(b)(1), redesignated subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (h)(1). Pub. L. 113–79, § 2604(1), substituted “2018” for “2012” in introductory provisions.
+Subsec. (h)(1). Pub. L. 113–79, § 2604(1), substituted “2018” for “2012” in introductory provisions.
 
-Subsec. (h)(4). Pub. L. 113–79, § 2604(2), added par. (4).
+Subsec. (h)(4). Pub. L. 113–79, § 2604(2), added par. (4).
 
-Subsec. (i). Pub. L. 113–79, § 2601(b)(1), redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 113–79, § 2601(b)(1), redesignated subsec. (h) as (i).
 
-Subsec. (i)(1). Pub. L. 113–79, § 2605(1), substituted “agricultural conservation easement program” for “wetlands reserve program”.
+Subsec. (i)(1). Pub. L. 113–79, § 2605(1), substituted “agricultural conservation easement program” for “wetlands reserve program”.
 
-Subsec. (i)(2). Pub. L. 113–79, § 2605(2), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “Payments made under the farmland protection program for easements in which the Federal share is $250,000 or greater.”
+Subsec. (i)(2). Pub. L. 113–79, § 2605(2), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “Payments made under the farmland protection program for easements in which the Federal share is $250,000 or greater.”
 
-Subsec. (i)(3). Pub. L. 113–79, § 2605(2), (3), redesignated par. (5) as (3), substituted “regional conservation partnership program” for “agricultural water enhancement program” and “3871c(c)(3)” for “3839aa–9(g)”, and struck out former par. (3) which read as follows: “Payments made under the grassland reserve program valued at $250,000 or greater.”
+Subsec. (i)(3). Pub. L. 113–79, § 2605(2), (3), redesignated par. (5) as (3), substituted “regional conservation partnership program” for “agricultural water enhancement program” and “3871c(c)(3)” for “3839aa–9(g)”, and struck out former par. (3) which read as follows: “Payments made under the grassland reserve program valued at $250,000 or greater.”
 
-Subsec. (i)(4). Pub. L. 113–79, § 2605(2), redesignated par. (6) as (4).
+Subsec. (i)(4). Pub. L. 113–79, § 2605(2), redesignated par. (6) as (4).
 
-Subsec. (i)(5), (6). Pub. L. 113–79, § 2605(4), added pars. (5) and (6).
+Subsec. (i)(5), (6). Pub. L. 113–79, § 2605(4), added pars. (5) and (6).
 
-2011—Subsec. (a). Pub. L. 112–55, § 716(e)(1), substituted “2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), (6), and (7)),” for “2012,” in introductory provisions.
+2011—Subsec. (a). Pub. L. 112–55, § 716(e)(1), substituted “2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), (6), and (7)),” for “2012,” in introductory provisions.
 
-Subsec. (a)(4)(E). Pub. L. 112–55, § 716(e)(2), substituted “each of fiscal years 2012 through 2014” for “fiscal year 2012”.
+Subsec. (a)(4)(E). Pub. L. 112–55, § 716(e)(2), substituted “each of fiscal years 2012 through 2014” for “fiscal year 2012”.
 
-Subsec. (a)(6)(E). Pub. L. 112–55, § 716(d), substituted “each of fiscal years 2012 through 2014” for “fiscal year 2012”.
+Subsec. (a)(6)(E). Pub. L. 112–55, § 716(d), substituted “each of fiscal years 2012 through 2014” for “fiscal year 2012”.
 
-Subsec. (a)(7)(D). Pub. L. 112–55, § 716(f), substituted “2014” for “2012”.
+Subsec. (a)(7)(D). Pub. L. 112–55, § 716(f), substituted “2014” for “2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 2701(a), substituted “2012” for “2007” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–246, § 2701(a), substituted “2012” for “2007” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 110–246, § 2701(b), inserted “, including to the maximum extent practicable—” after “part I” and added subpars. (A) and (B).
+Subsec. (a)(1). Pub. L. 110–246, § 2701(b), inserted “, including to the maximum extent practicable—” after “part I” and added subpars. (A) and (B).
 
-Subsec. (a)(3). Pub. L. 110–246, § 2701(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The conservation security program under subpart A of part II, using not more than—
+Subsec. (a)(3). Pub. L. 110–246, § 2701(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The conservation security program under subpart A of part II, using not more than—
 
 “(A) $1,954,000,000 for the period of fiscal years 2006 through 2010; and
 
 “(B) $5,650,000,000 for the period of fiscal years 2006 through 2015.”
 
-Subsec. (a)(4). Pub. L. 110–246, § 2701(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The farmland protection program under subpart B of part II, using, to the maximum extent practicable—
+Subsec. (a)(4). Pub. L. 110–246, § 2701(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The farmland protection program under subpart B of part II, using, to the maximum extent practicable—
 
 “(A) $50,000,000 in fiscal year 2002;
 
@@ -6221,9 +6221,9 @@ Subsec. (a)(4). Pub. L. 110–246, § 2701(d), amended par. (4) generally. Pri
 
 “(E) $97,000,000 in fiscal year 2007.”
 
-Subsec. (a)(5). Pub. L. 110–246, § 2701(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The grassland reserve program under subpart C of part II, using, to the maximum extent practicable $254,000,000 for the period of fiscal years 2003 through 2007.”
+Subsec. (a)(5). Pub. L. 110–246, § 2701(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The grassland reserve program under subpart C of part II, using, to the maximum extent practicable $254,000,000 for the period of fiscal years 2003 through 2007.”
 
-Subsec. (a)(6). Pub. L. 110–246, § 2701(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The environmental quality incentives program under part IV, using, to the maximum extent practicable—
+Subsec. (a)(6). Pub. L. 110–246, § 2701(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The environmental quality incentives program under part IV, using, to the maximum extent practicable—
 
 “(A) $400,000,000 in fiscal year 2002;
 
@@ -6237,29 +6237,29 @@ Subsec. (a)(6). Pub. L. 110–246, § 2701(f), amended par. (6) generally. Pri
 
 “(F) $1,300,000,000 in fiscal year 2010.”
 
-Subsec. (a)(7)(D). Pub. L. 110–246, § 2701(g), substituted “2012” for “2007”.
+Subsec. (a)(7)(D). Pub. L. 110–246, § 2701(g), substituted “2012” for “2007”.
 
-Subsec. (d). Pub. L. 110–246, § 2703(a), designated existing provisions as par. (1), inserted heading, substituted “$15,000,000” for “$12,000,000”, and added par. (2).
+Subsec. (d). Pub. L. 110–246, § 2703(a), designated existing provisions as par. (1), inserted heading, substituted “$15,000,000” for “$12,000,000”, and added par. (2).
 
-Subsec. (e). Pub. L. 110–246, § 2702, added subsec. (e).
+Subsec. (e). Pub. L. 110–246, § 2702, added subsec. (e).
 
-Subsec. (f). Pub. L. 110–246, § 2703(b), added subsec. (f).
+Subsec. (f). Pub. L. 110–246, § 2703(b), added subsec. (f).
 
-Subsec. (g). Pub. L. 110–246, § 2704, added subsec. (g).
+Subsec. (g). Pub. L. 110–246, § 2704, added subsec. (g).
 
-Subsec. (h). Pub. L. 110–246, § 2705, added subsec. (h).
+Subsec. (h). Pub. L. 110–246, § 2705, added subsec. (h).
 
-2006—Subsec. (a)(3). Pub. L. 109–171, § 1202(b), substituted a dash for “$6,037,000,000 for the period of fiscal years 2005 through 2014.” and added subpars. (A) and (B).
+2006—Subsec. (a)(3). Pub. L. 109–171, § 1202(b), substituted a dash for “$6,037,000,000 for the period of fiscal years 2005 through 2014.” and added subpars. (A) and (B).
 
-Subsec. (a)(6)(E), (F). Pub. L. 109–171, § 1203(c), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: “$1,300,000,000 in fiscal year 2007.”
+Subsec. (a)(6)(E), (F). Pub. L. 109–171, § 1203(c), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: “$1,300,000,000 in fiscal year 2007.”
 
-2004—Subsec. (a)(3). Pub. L. 108–324 inserted “, using not more than $6,037,000,000 for the period of fiscal years 2005 through 2014” before period at end.
+2004—Subsec. (a)(3). Pub. L. 108–324 inserted “, using not more than $6,037,000,000 for the period of fiscal years 2005 through 2014” before period at end.
 
-Pub. L. 108–199 struck out “, using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013” before period at end.
+Pub. L. 108–199 struck out “, using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013” before period at end.
 
 Subsec. (b). Pub. L. 108–498 added subsec. (b) and struck out heading and text of former subsec. (b), which related to availability of certain Commodity Credit Corporation funds under subsec. (a) for the provision of technical assistance for conservation and conservation security programs.
 
-2003—Subsec. (a)(3). Pub. L. 108–7, § 216(c), inserted “, using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013” before period at end.
+2003—Subsec. (a)(3). Pub. L. 108–7, § 216(c), inserted “, using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013” before period at end.
 
 Subsec. (b). Pub. L. 108–11 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
@@ -6267,9 +6267,9 @@ Subsec. (b). Pub. L. 108–11 added subsec. (b) and struck out heading and text 
 
 “(2) Subsequent fiscal years.—Effective beginning on October 1, 2003, Commodity Credit Corporation funds made available under paragraphs (3) through (7) of subsection (a) of this section shall be available for the provision of technical assistance (subject to section 3842 of this title) for the conservation programs specified in subsection (a) of this section.”
 
-Pub. L. 108–7, § 213(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Nothing in this section affects the limit on expenditures for technical assistance imposed by section 714i of title 15.”
+Pub. L. 108–7, § 213(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Nothing in this section affects the limit on expenditures for technical assistance imposed by section 714i of title 15.”
 
-Subsecs. (c), (d). Pub. L. 108–7, § 213(2), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 108–7, § 213(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6279,13 +6279,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–498, § 1(b), Dec. 23, 2004, 118 Stat. 4020, provided that: “The amendment made by subsection (a) [amending this section] takes effect on October 1, 2004.”
+Pub. L. 108–498, § 1(b), Dec. 23, 2004, 118 Stat. 4020, provided that: “The amendment made by subsection (a) [amending this section] takes effect on October 1, 2004.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–11, title II, § 2106(b), Apr. 16, 2003, 117 Stat. 590, provided that: “The amendment made by subsection (a) [amending this section] takes effect on February 20, 2003.”
+Pub. L. 108–11, title II, § 2106(b), Apr. 16, 2003, 117 Stat. 590, provided that: “The amendment made by subsection (a) [amending this section] takes effect on February 20, 2003.”
 
-### § 3842. Delivery of technical assistance
+### § 3842. Delivery of technical assistance
 
 **(a) Definitions** In this section:
 
@@ -6445,7 +6445,7 @@ The Secretary shall ensure that adequate technical assistance is available for t
 
 **(ii)** program specifications that allow for innovative approaches to engage local resources in providing technical assistance for planning and implementation of conservation practices.
 
-(Pub. L. 99–198, title XII, § 1242, as added Pub. L. 107–171, title II, § 2701, May 13, 2002, 116 Stat. 279; amended Pub. L. 110–234, title II, § 2706, May 22, 2008, 122 Stat. 1074; Pub. L. 110–246, § 4(a), title II, § 2706, June 18, 2008, 122 Stat. 1664, 1802; Pub. L. 113–79, title II, § 2713(c), Feb. 7, 2014, 128 Stat. 772; Pub. L. 115–334, title II, §§ 2502, 2821(e), Dec. 20, 2018, 132 Stat. 4579, 4603.)
+(Pub. L. 99–198, title XII, § 1242, as added Pub. L. 107–171, title II, § 2701, May 13, 2002, 116 Stat. 279; amended Pub. L. 110–234, title II, § 2706, May 22, 2008, 122 Stat. 1074; Pub. L. 110–246, § 4(a), title II, § 2706, June 18, 2008, 122 Stat. 1664, 1802; Pub. L. 113–79, title II, § 2713(c), Feb. 7, 2014, 128 Stat. 772; Pub. L. 115–334, title II, §§ 2502, 2821(e), Dec. 20, 2018, 132 Stat. 4579, 4603.)
 
 **Editorial Notes**
 
@@ -6463,31 +6463,31 @@ Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Se
 
 **Prior Provisions**
 
-A prior section 3842, Pub. L. 99–198, title XII, § 1242, as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008, related to use of other agencies, prior to repeal by Pub. L. 107–171, title II, § 2701, May 13, 2002, 116 Stat. 278. See Codification note above.
+A prior section 3842, Pub. L. 99–198, title XII, § 1242, as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008, related to use of other agencies, prior to repeal by Pub. L. 107–171, title II, § 2701, May 13, 2002, 116 Stat. 278. See Codification note above.
 
-Another prior section 3842, Pub. L. 99–198, title XII, § 1242, Dec. 23, 1985, 99 Stat. 1515, related to use of other agencies, prior to the general amendment of this subchapter by Pub. L. 104–127.
+Another prior section 3842, Pub. L. 99–198, title XII, § 1242, Dec. 23, 1985, 99 Stat. 1515, related to use of other agencies, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 2502(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “In this section, the term ‘eligible participant’ means a producer, landowner, or entity that is participating in, or seeking to participate in, programs for which the producer, landowner, or entity is otherwise eligible to participate in under this chapter or the agricultural management assistance program under section 1524 of title 7.”
+2018—Subsec. (a). Pub. L. 115–334, § 2502(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “In this section, the term ‘eligible participant’ means a producer, landowner, or entity that is participating in, or seeking to participate in, programs for which the producer, landowner, or entity is otherwise eligible to participate in under this chapter or the agricultural management assistance program under section 1524 of title 7.”
 
-Subsec. (e)(3)(B). Pub. L. 115–334, § 2821(e), substituted “third-party” for “third party”.
+Subsec. (e)(3)(B). Pub. L. 115–334, § 2821(e), substituted “third-party” for “third party”.
 
-Subsec. (e)(4), (5). Pub. L. 115–334, § 2502(b), added pars. (4) and (5).
+Subsec. (e)(4), (5). Pub. L. 115–334, § 2502(b), added pars. (4) and (5).
 
-Subsec. (f)(4). Pub. L. 115–334, § 2821(e), substituted “third-party” for “third party” in subpars. (A) and (B).
+Subsec. (f)(4). Pub. L. 115–334, § 2821(e), substituted “third-party” for “third party” in subpars. (A) and (B).
 
-Subsec. (h)(1)(A). Pub. L. 115–334, § 2502(c)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “review conservation practice standards, including engineering design specifications, in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008;”.
+Subsec. (h)(1)(A). Pub. L. 115–334, § 2502(c)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “review conservation practice standards, including engineering design specifications, in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008;”.
 
-Subsec. (h)(1)(D). Pub. L. 115–334, § 2502(c)(1)(B)–(D), added subpar. (D).
+Subsec. (h)(1)(D). Pub. L. 115–334, § 2502(c)(1)(B)–(D), added subpar. (D).
 
-Subsec. (h)(2). Pub. L. 115–334, § 2502(c)(2), inserted “State technical committees established under section 3861(a) of this title,” before “crop consultants,”.
+Subsec. (h)(2). Pub. L. 115–334, § 2502(c)(2), inserted “State technical committees established under section 3861(a) of this title,” before “crop consultants,”.
 
-Subsec. (h)(3), (4). Pub. L. 115–334, § 2502(c)(3), added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: “If the Secretary determines under paragraph (1) that revisions to the conservation practice standards, including engineering design specifications, are necessary, the Secretary shall establish an administrative process for expediting the revisions.”
+Subsec. (h)(3), (4). Pub. L. 115–334, § 2502(c)(3), added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: “If the Secretary determines under paragraph (1) that revisions to the conservation practice standards, including engineering design specifications, are necessary, the Secretary shall establish an administrative process for expediting the revisions.”
 
 2014—Subsec. (i). Pub. L. 113–79 substituted “specialty” for “speciality” in heading.
 
-2008—Pub. L. 110–246, § 2706, amended section generally. Prior to amendment, section related to: in subsec. (a), provision of technical assistance to an eligible producer directly or through an approved third party; and, in subsec. (b), establishment of a system to certify third-party providers, transition provisions for persons that had provided assistance before May 13, 2002, and cooperative agreements or contracts with non-Federal entities.
+2008—Pub. L. 110–246, § 2706, amended section generally. Prior to amendment, section related to: in subsec. (a), provision of technical assistance to an eligible producer directly or through an approved third party; and, in subsec. (b), establishment of a system to certify third-party providers, transition provisions for persons that had provided assistance before May 13, 2002, and cooperative agreements or contracts with non-Federal entities.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6495,17 +6495,17 @@ Subsec. (h)(3), (4). Pub. L. 115–334, § 2502(c)(3), added pars. (3) and (4)
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 3843. Repealed. Pub. L. 113–79, title II, § 2710(a), Feb. 7, 2014, 128 Stat. 770
+### § 3843. Repealed. Pub. L. 113–79, title II, § 2710(a), Feb. 7, 2014, 128 Stat. 770
 
-Section, Pub. L. 99–198, title XII, § 1243, as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008; amended Pub. L. 107–171, title II, §§ 2003, 2006(d), May 13, 2002, 116 Stat. 233, 237; Pub. L. 110–234, title II, § 2707, May 22, 2008, 122 Stat. 1077; Pub. L. 110–246, § 4(a), title II, § 2707, June 18, 2008, 122 Stat. 1664, 1805, related to cooperative conservation partnership initiative.
+Section, Pub. L. 99–198, title XII, § 1243, as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008; amended Pub. L. 107–171, title II, §§ 2003, 2006(d), May 13, 2002, 116 Stat. 233, 237; Pub. L. 110–234, title II, § 2707, May 22, 2008, 122 Stat. 1077; Pub. L. 110–246, § 4(a), title II, § 2707, June 18, 2008, 122 Stat. 1664, 1805, related to cooperative conservation partnership initiative.
 
-A prior section 3843, Pub. L. 99–198, title XII, § 1243, Dec. 23, 1985, 99 Stat. 1515; Pub. L. 101–624, title XIV, § 1442, Nov. 28, 1990, 104 Stat. 3602, which related to administration of this chapter, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 3843, Pub. L. 99–198, title XII, § 1243, Dec. 23, 1985, 99 Stat. 1515; Pub. L. 101–624, title XIV, § 1442, Nov. 28, 1990, 104 Stat. 3602, which related to administration of this chapter, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal; Transitional Provisions**
 
-Pub. L. 113–79, title II, § 2710, Feb. 7, 2014, 128 Stat. 770, provided that:
+Pub. L. 113–79, title II, § 2710, Feb. 7, 2014, 128 Stat. 770, provided that:
 
 > **“(a) Repeal.—** Except as provided in subsection (b), section 1243 of the Food Security Act of 1985 (16 U.S.C. 3843) is repealed.
 
@@ -6519,7 +6519,7 @@ Pub. L. 113–79, title II, § 2710, Feb. 7, 2014, 128 Stat. 770, provided tha
 
 > **“(B) Other.—** On exhaustion of funds made available under subparagraph (A), the Secretary [of Agriculture] may use funds made available to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 [16 U.S.C. 3871 et seq.], as added by section 2401, to continue to carry out contracts and agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts and agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014.”
 
-### § 3844. Administrative requirements for conservation programs
+### § 3844. Administrative requirements for conservation programs
 
 **(a) Incentives for certain farmers and ranchers and Indian tribes**
 
@@ -6539,9 +6539,9 @@ Pub. L. 113–79, title II, § 2710, Feb. 7, 2014, 128 Stat. 770, provided tha
 
 **(D)** Indian tribes.
 
-**(E)** Veteran farmers or ranchers (as defined in section 2279(e) 1
+**(E)** Veteran farmers or ranchers (as defined in section 2279(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 7).
 
@@ -6833,13 +6833,13 @@ The Secretary may not prohibit, through a contract, easement, or agreement under
 
 **(C)** applies to a case in which the Department of Agriculture is the originating agency requesting a consultation or other technical and programmatic information or assistance from another Federal agency in assisting farmers, ranchers, or nonindustrial private forest landowners participating in a conservation program administered by the Secretary.
 
-(Pub. L. 99–198, title XII, § 1244, as added Pub. L. 107–171, title II, § 2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 110–234, title II, §§ 2707(a), 2708, May 22, 2008, 122 Stat. 1077, 1079; Pub. L. 110–246, § 4(a), title II, §§ 2707(a), 2708, June 18, 2008, 122 Stat. 1664, 1805, 1807; Pub. L. 113–79, title II, §§ 2301(b), 2606, Feb. 7, 2014, 128 Stat. 743, 760; Pub. L. 115–141, div. A, title VII, § 766, Mar. 23, 2018, 132 Stat. 397; Pub. L. 115–334, title II, §§ 2202(b)(2), 2301(d)(1)(K), (L), 2503, 2821(f), Dec. 20, 2018, 132 Stat. 4538, 4554, 4580, 4603; Pub. L. 117–169, title II, § 21001(c)(6), Aug. 16, 2022, 136 Stat. 2017.)
+(Pub. L. 99–198, title XII, § 1244, as added Pub. L. 107–171, title II, § 2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 110–234, title II, §§ 2707(a), 2708, May 22, 2008, 122 Stat. 1077, 1079; Pub. L. 110–246, § 4(a), title II, §§ 2707(a), 2708, June 18, 2008, 122 Stat. 1664, 1805, 1807; Pub. L. 113–79, title II, §§ 2301(b), 2606, Feb. 7, 2014, 128 Stat. 743, 760; Pub. L. 115–141, div. A, title VII, § 766, Mar. 23, 2018, 132 Stat. 397; Pub. L. 115–334, title II, §§ 2202(b)(2), 2301(d)(1)(K), (L), 2503, 2821(f), Dec. 20, 2018, 132 Stat. 4538, 4554, 4580, 4603; Pub. L. 117–169, title II, § 21001(c)(6), Aug. 16, 2022, 136 Stat. 2017.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2279(e) of title 7, referred to in subsec. (a)(2)(E), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, § 12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
+Section 2279(e) of title 7, referred to in subsec. (a)(2)(E), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, § 12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
 
 This chapter, referred to in subsecs. (b)(2)(D)(ii), (i)(1), (j)(1)(A), (k), (*l*), (n)(3), and (*o*), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
@@ -6847,87 +6847,87 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 
 This Act, referred to in subsec. (*l*)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, known as the Food Security Act of 1985. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (*l*)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, referred to in subsec. (*l*)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 The Agricultural Act of 2014, referred to in subsec. (*l*)(3), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
-The text of section 3843(a), (c), and (d) of this title, which was transferred to this section and redesignated as subsecs. (c), (d), and (e), respectively, by Pub. L. 110–246, § 2707(a), was based on Pub. L. 99–198, title XII, § 1243(a), (c), (d), as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008, 1009.
+The text of section 3843(a), (c), and (d) of this title, which was transferred to this section and redesignated as subsecs. (c), (d), and (e), respectively, by Pub. L. 110–246, § 2707(a), was based on Pub. L. 99–198, title XII, § 1243(a), (c), (d), as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008, 1009.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 **Prior Provisions**
 
-A prior section 3844, Pub. L. 99–198, title XII, § 1244, Dec. 23, 1985, 99 Stat. 1515, related to issuance of regulations to carry out subchapters I to V of this chapter, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 3844, Pub. L. 99–198, title XII, § 1244, Dec. 23, 1985, 99 Stat. 1515, related to issuance of regulations to carry out subchapters I to V of this chapter, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 **Amendments**
 
 2022—Subsec. (n)(3)(A). Pub. L. 117–169 substituted “2031” for “2023”.
 
-2018—Subsec. (b)(4)(B). Pub. L. 115–334, § 2821(f), substituted “Government Accountability Office” for “General Accounting Office”.
+2018—Subsec. (b)(4)(B). Pub. L. 115–334, § 2821(f), substituted “Government Accountability Office” for “General Accounting Office”.
 
-Subsec. (c)(3). Pub. L. 115–334, § 2301(d)(1)(K), inserted “subpart A of” before “part IV”.
+Subsec. (c)(3). Pub. L. 115–334, § 2301(d)(1)(K), inserted “subpart A of” before “part IV”.
 
-Subsec. (f)(1)(B). Pub. L. 115–334, § 2503(a)(1), substituted “15 percent” for “10 percent”.
+Subsec. (f)(1)(B). Pub. L. 115–334, § 2503(a)(1), substituted “15 percent” for “10 percent”.
 
-Subsec. (f)(3). Pub. L. 115–334, § 2202(b)(2), substituted “section 3831a” for “subsection (d)(2)(A)(ii) or (g)(2) of section 3834”.
+Subsec. (f)(3). Pub. L. 115–334, § 2202(b)(2), substituted “section 3831a” for “subsection (d)(2)(A)(ii) or (g)(2) of section 3834”.
 
-Subsec. (f)(5). Pub. L. 115–334, § 2503(a)(2), substituted “December 20, 2018,” for “February 7, 2014,”.
+Subsec. (f)(5). Pub. L. 115–334, § 2503(a)(2), substituted “December 20, 2018,” for “February 7, 2014,”.
 
-Subsecs. (j), (k). Pub. L. 115–334, § 2503(b)(2), (3), added subsec. (j) and redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (*l*).
+Subsecs. (j), (k). Pub. L. 115–334, § 2503(b)(2), (3), added subsec. (j) and redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (*l*).
 
-Subsec. (*l*). Pub. L. 115–334, § 2503(b)(2), redesignated subsec. (k) as (*l*). Former subsec. (*l*) redesignated (m).
+Subsec. (*l*). Pub. L. 115–334, § 2503(b)(2), redesignated subsec. (k) as (*l*). Former subsec. (*l*) redesignated (m).
 
-Pub. L. 115–334, § 2301(d)(1)(L), substituted “subpart B of part IV of subchapter IV” for “subpart B of part II of subchapter IV” and “subpart A of part IV of subchapter IV” for “part IV of subchapter IV”.
+Pub. L. 115–334, § 2301(d)(1)(L), substituted “subpart B of part IV of subchapter IV” for “subpart B of part II of subchapter IV” and “subpart A of part IV of subchapter IV” for “part IV of subchapter IV”.
 
-Subsec. (m). Pub. L. 115–334, § 2503(c), designated existing provisions as introductory provisions and pars. (1) and (3) and added par. (2), substituted “shall” for “may” in introductory provisions and “arrangements;” for “arrangements, and that” in par. (1), and inserted “, except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver under the statutory authority of the applicable program” before period at end of par. (3).
+Subsec. (m). Pub. L. 115–334, § 2503(c), designated existing provisions as introductory provisions and pars. (1) and (3) and added par. (2), substituted “shall” for “may” in introductory provisions and “arrangements;” for “arrangements, and that” in par. (1), and inserted “, except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver under the statutory authority of the applicable program” before period at end of par. (3).
 
-Pub. L. 115–334, § 2503(b)(2), redesignated subsec. (*l*) as (m).
+Pub. L. 115–334, § 2503(b)(2), redesignated subsec. (*l*) as (m).
 
-Pub. L. 115–334, § 2503(b)(1), struck out subsec. (m) which related to exemption from certain reporting requirements.
+Pub. L. 115–334, § 2503(b)(1), struck out subsec. (m) which related to exemption from certain reporting requirements.
 
 Pub. L. 115–141 added subsec. (m).
 
-Subsec. (n). Pub. L. 115–334, § 2503(d), added subsec. (n).
+Subsec. (n). Pub. L. 115–334, § 2503(d), added subsec. (n).
 
-Subsec. (*o*). Pub. L. 115–334, § 2503(e), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 115–334, § 2503(e), added subsec. (*o*).
 
-Subsec. (p). Pub. L. 115–334, § 2503(f), added subsec. (p).
+Subsec. (p). Pub. L. 115–334, § 2503(f), added subsec. (p).
 
-2014—Subsec. (a)(2)(E). Pub. L. 113–79, § 2606(1), added subpar. (E).
+2014—Subsec. (a)(2)(E). Pub. L. 113–79, § 2606(1), added subpar. (E).
 
-Subsec. (c)(1). Pub. L. 113–79, § 2301(b)(1)(A), inserted “and” after semicolon in subpar. (A), struck out “and” after semicolon in subpar. (B), and struck out subpar. (C) which read as follows: “the wetlands reserve program established under subpart C of part I of subchapter IV; and”.
+Subsec. (c)(1). Pub. L. 113–79, § 2301(b)(1)(A), inserted “and” after semicolon in subpar. (A), struck out “and” after semicolon in subpar. (B), and struck out subpar. (C) which read as follows: “the wetlands reserve program established under subpart C of part I of subchapter IV; and”.
 
-Subsec. (c)(2), (3). Pub. L. 113–79, § 2301(b)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (c)(2), (3). Pub. L. 113–79, § 2301(b)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (d). Pub. L. 113–79, § 2606(2), inserted “, VII, and VIII” before period at end.
+Subsec. (d). Pub. L. 113–79, § 2606(2), inserted “, VII, and VIII” before period at end.
 
-Subsec. (f)(1)(A). Pub. L. 113–79, § 2301(b)(2)(A)(i), substituted “conservation reserve program established under subpart B of part I of subchapter IV and wetland reserve easements under section 3865c of this title” for “programs administered under subparts B and C of part I of subchapter IV”.
+Subsec. (f)(1)(A). Pub. L. 113–79, § 2301(b)(2)(A)(i), substituted “conservation reserve program established under subpart B of part I of subchapter IV and wetland reserve easements under section 3865c of this title” for “programs administered under subparts B and C of part I of subchapter IV”.
 
-Subsec. (f)(1)(B). Pub. L. 113–79, § 2606(3)(A), substituted “county” for “country”.
+Subsec. (f)(1)(B). Pub. L. 113–79, § 2606(3)(A), substituted “county” for “country”.
 
-Pub. L. 113–79, § 2301(b)(2)(A)(ii), substituted “a wetland reserve easement under section 3865c of this title” for “an easement acquired under subpart C of part I of subchapter IV”.
+Pub. L. 113–79, § 2301(b)(2)(A)(ii), substituted “a wetland reserve easement under section 3865c of this title” for “an easement acquired under subpart C of part I of subchapter IV”.
 
-Subsec. (f)(3). Pub. L. 113–79, § 2606(3)(B), substituted “subsection (d)(2)(A)(ii) or (g)(2)” for “subsection (c)(2)(B) or (f)(4)”.
+Subsec. (f)(3). Pub. L. 113–79, § 2606(3)(B), substituted “subsection (d)(2)(A)(ii) or (g)(2)” for “subsection (c)(2)(B) or (f)(4)”.
 
-Subsec. (f)(4). Pub. L. 113–79, § 2301(b)(2)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart C of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.”
+Subsec. (f)(4). Pub. L. 113–79, § 2301(b)(2)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart C of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.”
 
-Subsec. (f)(5). Pub. L. 113–79, § 2301(b)(2)(C), added par. (5).
+Subsec. (f)(5). Pub. L. 113–79, § 2301(b)(2)(C), added par. (5).
 
-Subsec. (h)(2). Pub. L. 113–79, § 2606(4), inserted “, including, to the extent practicable, practices that maximize benefits for honey bees” before period at end.
+Subsec. (h)(2). Pub. L. 113–79, § 2606(4), inserted “, including, to the extent practicable, practices that maximize benefits for honey bees” before period at end.
 
-Subsecs. (j) to (*l*). Pub. L. 113–79, § 2606(5), added subsecs. (j) to (*l*).
+Subsecs. (j) to (*l*). Pub. L. 113–79, § 2606(5), added subsecs. (j) to (*l*).
 
-2008—Subsec. (a). Pub. L. 110–246, § 2708(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
+2008—Subsec. (a). Pub. L. 110–246, § 2708(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
 
 “(1) foster new farming and ranching opportunities; and
 
 “(2) enhance environmental stewardship over the long term.”
 
-Subsecs. (c) to (e). Pub. L. 110–246, § 2707(a), transferred subsecs. (a), (c), and (d) of section 3843 of this title and redesignated them as subsecs. (c) to (e), respectively, of this section. See Codification note above.
+Subsecs. (c) to (e). Pub. L. 110–246, § 2707(a), transferred subsecs. (a), (c), and (d) of section 3843 of this title and redesignated them as subsecs. (c) to (e), respectively, of this section. See Codification note above.
 
-Subsecs. (f) to (i). Pub. L. 110–246, § 2708(2), added subsecs. (f) to (i).
+Subsecs. (f) to (i). Pub. L. 110–246, § 2708(2), added subsecs. (f) to (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6935,7 +6935,7 @@ Subsecs. (f) to (i). Pub. L. 110–246, § 2708(2), added subsecs. (f) to (i).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 3845. Environmental services markets
+### § 3845. Environmental services markets
 
 **(a) Technical guidelines required**
 
@@ -6981,7 +6981,7 @@ In carrying out subsection (b), the Secretary shall build on activities or infor
 
 **(3)** Other interested persons, as determined by the Secretary.
 
-(Pub. L. 99–198, title XII, § 1245, as added Pub. L. 110–234, title II, § 2709, May 22, 2008, 122 Stat. 1081, and Pub. L. 110–246, § 4(a), title II, § 2709, June 18, 2008, 122 Stat. 1664, 1809.)
+(Pub. L. 99–198, title XII, § 1245, as added Pub. L. 110–234, title II, § 2709, May 22, 2008, 122 Stat. 1081, and Pub. L. 110–246, § 4(a), title II, § 2709, June 18, 2008, 122 Stat. 1664, 1809.)
 
 **Editorial Notes**
 
@@ -6995,7 +6995,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 3845, Pub. L. 99–198, title XII, § 1245, Dec. 23, 1985, 99 Stat. 1516; Pub. L. 101–624, title XIV, § 1443, Nov. 28, 1990, 104 Stat. 3602; Pub. L. 102–552, title V, § 516(b)(1), Oct. 28, 1992, 106 Stat. 4137, related to authorization of appropriations, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 3845, Pub. L. 99–198, title XII, § 1245, Dec. 23, 1985, 99 Stat. 1516; Pub. L. 101–624, title XIV, § 1443, Nov. 28, 1990, 104 Stat. 3602; Pub. L. 102–552, title V, § 516(b)(1), Oct. 28, 1992, 106 Stat. 4137, related to authorization of appropriations, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7003,7 +7003,7 @@ A prior section 3845, Pub. L. 99–198, title XII, § 1245, Dec. 23, 1985, 99 
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-### § 3846. Regulations
+### § 3846. Regulations
 
 **(a) In general**
 
@@ -7019,7 +7019,7 @@ The Secretary shall promulgate such regulations as are necessary to implement pr
 
 In promulgating regulations under this section, the Secretary shall use the authority provided under section 808 of title 5.
 
-(Pub. L. 99–198, title XII, § 1246, as added Pub. L. 113–79, title II, § 2608, Feb. 7, 2014, 128 Stat. 761.)
+(Pub. L. 99–198, title XII, § 1246, as added Pub. L. 113–79, title II, § 2608, Feb. 7, 2014, 128 Stat. 761.)
 
 **Editorial Notes**
 
@@ -7029,9 +7029,9 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 
 **Prior Provisions**
 
-A prior section 3846, Pub. L. 99–198, title XII, § 1246, as added Pub. L. 101–624, title XIV, § 1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, § 1011(a), Dec. 21, 1995, 109 Stat. 709.
+A prior section 3846, Pub. L. 99–198, title XII, § 1246, as added Pub. L. 101–624, title XIV, § 1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, § 1011(a), Dec. 21, 1995, 109 Stat. 709.
 
-### § 3847. Data on conservation practices
+### § 3847. Data on conservation practices
 
 **(a) Data on conservation practices**
 
@@ -7049,17 +7049,17 @@ The Secretary shall identify available data sets within the Department of Agricu
 
 **(5)** recommendations for any necessary authorizations or clarifications of Federal law to allow access to such data sets to maximize the potential for research benefits.
 
-(Pub. L. 99–198, title XII, § 1247, as added Pub. L. 115–334, title XII, § 12618, Dec. 20, 2018, 132 Stat. 5017.)
+(Pub. L. 99–198, title XII, § 1247, as added Pub. L. 115–334, title XII, § 12618, Dec. 20, 2018, 132 Stat. 5017.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3847, Pub. L. 99–198, title XII, § 1247, as added Pub. L. 101–624, title XIV, § 1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, § 204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 3847, Pub. L. 99–198, title XII, § 1247, as added Pub. L. 101–624, title XIV, § 1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, § 204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
 
 ## SUBCHAPTER V–A—OTHER CONSERVATION PROGRAMS
 
-### § 3851. Experienced services program
+### § 3851. Experienced services program
 
 **(a) Establishment and purpose** The Secretary shall establish an experienced services program (referred to in this section as the “program”) for the purpose of utilizing the talents of individuals who are age 55 or older, but who are not employees of the Department of Agriculture or a State agriculture department, to provide—
 
@@ -7111,45 +7111,45 @@ With respect to services referred to in subsection (a)(2), the Secretary may car
 
 **(2)** is acting within the scope of the agreement.
 
-(Pub. L. 99–198, title XII, § 1252, as added Pub. L. 110–234, title II, § 2710, May 22, 2008, 122 Stat. 1082, and Pub. L. 110–246, § 4(a), title II, § 2710, June 18, 2008, 122 Stat. 1664, 1810; amended Pub. L. 113–79, title II, § 2504, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title VII, § 7611, Dec. 20, 2018, 132 Stat. 4830.)
+(Pub. L. 99–198, title XII, § 1252, as added Pub. L. 110–234, title II, § 2710, May 22, 2008, 122 Stat. 1082, and Pub. L. 110–246, § 4(a), title II, § 2710, June 18, 2008, 122 Stat. 1664, 1810; amended Pub. L. 113–79, title II, § 2504, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title VII, § 7611, Dec. 20, 2018, 132 Stat. 4830.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Community Service Senior Opportunities Act, referred to in subsec. (b)(1), is title V of Pub. L. 89–73, as added Pub. L. 109–365, title V, § 501, Oct. 17, 2006, 120 Stat. 2563, which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Community Service Senior Opportunities Act, referred to in subsec. (b)(1), is title V of Pub. L. 89–73, as added Pub. L. 109–365, title V, § 501, Oct. 17, 2006, 120 Stat. 2563, which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 **Codification**
 
-Pub. L. 110–234, § 2710, and Pub. L. 110–246, § 2710, which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 (16 U.S.C. 2005a) of title XII of the Food Security Act of 1985 were repealed by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
+Pub. L. 110–234, § 2710, and Pub. L. 110–246, § 2710, which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 (16 U.S.C. 2005a) of title XII of the Food Security Act of 1985 were repealed by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 **Prior Provisions**
 
-A prior section 1252 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1516, amended sections 2004, 2005, 2006, and 2009 of this title, prior to repeal by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 1252 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1516, amended sections 2004, 2005, 2006, and 2009 of this title, prior to repeal by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 7611(1), struck out “Agriculture conservation” before “experienced” in section catchline.
+2018—Pub. L. 115–334, § 7611(1), struck out “Agriculture conservation” before “experienced” in section catchline.
 
-Subsec. (a). Pub. L. 115–334, § 7611(2), substituted “an experienced services program (referred to in this section as the ‘program’)” for “a conservation experienced services program (in this section referred to as the ‘ACES Program’)” and “provide—” for “provide”, inserted par. (1) designation before “technical services in support”, substituted “Secretary, including” for “Secretary. Such technical services may include”, and added par. (2).
+Subsec. (a). Pub. L. 115–334, § 7611(2), substituted “an experienced services program (referred to in this section as the ‘program’)” for “a conservation experienced services program (in this section referred to as the ‘ACES Program’)” and “provide—” for “provide”, inserted par. (1) designation before “technical services in support”, substituted “Secretary, including” for “Secretary. Such technical services may include”, and added par. (2).
 
-Subsec. (b). Pub. L. 115–334, § 7611(3), striking “ACES” before “program” wherever appearing.
+Subsec. (b). Pub. L. 115–334, § 7611(3), striking “ACES” before “program” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 115–334, § 7611(4), substituted “technical, professional, or administrative services, as applicable,” for “technical services”.
+Subsec. (b)(1). Pub. L. 115–334, § 7611(4), substituted “technical, professional, or administrative services, as applicable,” for “technical services”.
 
-Subsec. (c). Pub. L. 115–334, § 7611(3), substituted “the program” for “the ACES program” in two places.
+Subsec. (c). Pub. L. 115–334, § 7611(3), substituted “the program” for “the ACES program” in two places.
 
-Subsec. (c)(1). Pub. L. 115–334, § 7611(5)(A), substituted “Conservation technical services” for “In general” in heading, and inserted “with respect to subsection (a)(1),” before “the Secretary” in text.
+Subsec. (c)(1). Pub. L. 115–334, § 7611(5)(A), substituted “Conservation technical services” for “In general” in heading, and inserted “with respect to subsection (a)(1),” before “the Secretary” in text.
 
-Subsec. (c)(3). Pub. L. 115–334, § 7611(5)(B), added par. (3).
+Subsec. (c)(3). Pub. L. 115–334, § 7611(5)(B), added par. (3).
 
-Subsec. (d). Pub. L. 115–334, § 7611(4), substituted “technical, professional, or administrative services, as applicable,” for “technical services” in introductory provisions and par. (1).
+Subsec. (d). Pub. L. 115–334, § 7611(4), substituted “technical, professional, or administrative services, as applicable,” for “technical services” in introductory provisions and par. (1).
 
-Pub. L. 115–334, § 7611(3), struck out “ACES” before “program” in introductory provisions.
+Pub. L. 115–334, § 7611(3), struck out “ACES” before “program” in introductory provisions.
 
 2014—Subsec. (c)(2). Pub. L. 113–79 amended par. (2) generally. Prior to amendment, text read as follows: “Funds made available to carry out the following programs may not be used to carry out the ACES program:
 
@@ -7167,7 +7167,7 @@ Pub. L. 115–334, § 7611(3), struck out “ACES” before “program” in i
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-### § 3851a. Forest Service participation in ACES Program
+### § 3851a. Forest Service participation in ACES Program
 
 **(a) In general**
 
@@ -7177,9 +7177,9 @@ The Secretary, acting through the Chief of the Forest Service, may use funds der
 
 The authority provided to the Secretary to carry out this section terminates effective October 1, 2023.1
 
-<sup>1</sup>  See Extension of Forest Service Participation in Aces Program note below.
+<sup>1</sup> See Extension of Forest Service Participation in Aces Program note below.
 
-(Pub. L. 113–79, title VIII, § 8302, Feb. 7, 2014, 128 Stat. 923; Pub. L. 115–334, title VIII, § 8622, Dec. 20, 2018, 132 Stat. 4853.)
+(Pub. L. 113–79, title VIII, § 8302, Feb. 7, 2014, 128 Stat. 923; Pub. L. 115–334, title VIII, § 8622, Dec. 20, 2018, 132 Stat. 4853.)
 
 **Editorial Notes**
 
@@ -7195,11 +7195,11 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 **Extension of Forest Service Participation in Aces Program**
 
-Pub. L. 119–75, div. I, § 5003, Feb. 3, 2026, 140 Stat. 629, provided that: “Section 8302(b) of the Agricultural Act of 2014 (16 U.S.C. 3851a(b)) shall be applied by substituting ‘October 1, 2026’ for ‘October 1, 2023’.”
+Pub. L. 119–75, div. I, § 5003, Feb. 3, 2026, 140 Stat. 629, provided that: “Section 8302(b) of the Agricultural Act of 2014 (16 U.S.C. 3851a(b)) shall be applied by substituting ‘October 1, 2026’ for ‘October 1, 2023’.”
 
 Prior extensions were contained in the following prior acts:
 
-Pub. L. 118–83, div. B, title I, § 106, Sept. 26, 2024, 138 Stat. 1535.
+Pub. L. 118–83, div. B, title I, § 106, Sept. 26, 2024, 138 Stat. 1535.
 
 **Definition of “Secretary”**
 
@@ -7207,7 +7207,7 @@ Pub. L. 118–83, div. B, title I, § 106, Sept. 26, 2024, 138 Stat. 1535.
 
 ## SUBCHAPTER VI—STATE TECHNICAL COMMITTEES
 
-### § 3861. Establishment of State technical committees
+### § 3861. Establishment of State technical committees
 
 **(a) Establishment**
 
@@ -7249,7 +7249,7 @@ The Secretary shall establish a technical committee in each State to assist the 
 
 **(14)** The State Cooperative Extension Service and land grant university in the State.
 
-(Pub. L. 99–198, title XII, § 1261, as added Pub. L. 101–624, title XIV, § 1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 104–127, title III, § 342(a), Apr. 4, 1996, 110 Stat. 1009; Pub. L. 110–234, title II, § 2711, title VII, § 7511(c)(38), May 22, 2008, 122 Stat. 1083, 1271; Pub. L. 110–246, § 4(a), title II, § 2711, title VII, § 7511(c)(38), June 18, 2008, 122 Stat. 1664, 1811, 2032; Pub. L. 113–79, title II, § 2607, Feb. 7, 2014, 128 Stat. 760; Pub. L. 115–334, title II, § 2822, Dec. 20, 2018, 132 Stat. 4603.)
+(Pub. L. 99–198, title XII, § 1261, as added Pub. L. 101–624, title XIV, § 1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 104–127, title III, § 342(a), Apr. 4, 1996, 110 Stat. 1009; Pub. L. 110–234, title II, § 2711, title VII, § 7511(c)(38), May 22, 2008, 122 Stat. 1083, 1271; Pub. L. 110–246, § 4(a), title II, § 2711, title VII, § 7511(c)(38), June 18, 2008, 122 Stat. 1664, 1811, 2032; Pub. L. 113–79, title II, § 2607, Feb. 7, 2014, 128 Stat. 760; Pub. L. 115–334, title II, § 2822, Dec. 20, 2018, 132 Stat. 4603.)
 
 **Editorial Notes**
 
@@ -7263,15 +7263,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (b)(2). Pub. L. 115–334, § 2822(a), struck out “under section 3862(b) of this title” after “technical guidelines”.
+2018—Subsec. (b)(2). Pub. L. 115–334, § 2822(a), struck out “under section 3862(b) of this title” after “technical guidelines”.
 
-Subsec. (c)(14). Pub. L. 115–334, § 2822(b), added par. (14).
+Subsec. (c)(14). Pub. L. 115–334, § 2822(b), added par. (14).
 
 2014—Subsec. (b). Pub. L. 113–79, in introductory provisions, substituted “The Secretary shall review and update as necessary” for “Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall develop”.
 
-2008—Pub. L. 110–246, § 2711, which directed the general amendment of section 1261 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1261 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section related to the establishment in each State of a technical committee to assist the Secretary in the technical considerations relating to implementation of conservation provisions under this chapter, composition of each such committee, and development of standards to be used in the development of guidelines under former section 3862(b) of this title.
+2008—Pub. L. 110–246, § 2711, which directed the general amendment of section 1261 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1261 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section related to the establishment in each State of a technical committee to assist the Secretary in the technical considerations relating to implementation of conservation provisions under this chapter, composition of each such committee, and development of standards to be used in the development of guidelines under former section 3862(b) of this title.
 
-Subsec. (c)(4). Pub. L. 110–246, § 7511(c)(38), which directed amendment of par. (4) by substituting “National Institute of Food and Agriculture” for “Extension Service”, could not be executed because “Extension Service” did not appear subsequent to amendment by Pub. L. 110–246, § 2711. See above.
+Subsec. (c)(4). Pub. L. 110–246, § 7511(c)(38), which directed amendment of par. (4) by substituting “National Institute of Food and Agriculture” for “Extension Service”, could not be executed because “Extension Service” did not appear subsequent to amendment by Pub. L. 110–246, § 2711. See above.
 
 1996—Subsec. (c)(9) to (12). Pub. L. 104–127 added pars. (9) to (12).
 
@@ -7283,7 +7283,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(38) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of Title 7, Agriculture.
 
-### § 3862. Responsibilities
+### § 3862. Responsibilities
 
 **(a) In general**
 
@@ -7313,7 +7313,7 @@ Each State technical committee shall be exempt from chapter 10 of title 5.
 
 For purposes of chapter 10 of title 5, any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
 
-(Pub. L. 99–198, title XII, § 1262, as added Pub. L. 101–624, title XIV, § 1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 103–354, title II, § 246(f)(3), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 104–127, title III, § 342(b), Apr. 4, 1996, 110 Stat. 1009; Pub. L. 110–234, title II, § 2711, May 22, 2008, 122 Stat. 1084; Pub. L. 110–246, § 4(a), title II, § 2711, June 18, 2008, 122 Stat. 1664, 1812; Pub. L. 117–286, § 4(a)(119), Dec. 27, 2022, 136 Stat. 4318.)
+(Pub. L. 99–198, title XII, § 1262, as added Pub. L. 101–624, title XIV, § 1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 103–354, title II, § 246(f)(3), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 104–127, title III, § 342(b), Apr. 4, 1996, 110 Stat. 1009; Pub. L. 110–234, title II, § 2711, May 22, 2008, 122 Stat. 1084; Pub. L. 110–246, § 4(a), title II, § 2711, June 18, 2008, 122 Stat. 1664, 1812; Pub. L. 117–286, § 4(a)(119), Dec. 27, 2022, 136 Stat. 4318.)
 
 **Editorial Notes**
 
@@ -7327,19 +7327,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2022—Subsec. (d). Pub. L. 117–286, § 4(a)(119)(A), substituted “Requirements of chapter 10 of title 5” for “FACA requirements” in heading.
+2022—Subsec. (d). Pub. L. 117–286, § 4(a)(119)(A), substituted “Requirements of chapter 10 of title 5” for “FACA requirements” in heading.
 
-Subsec. (d)(1). Pub. L. 117–286, § 4(a)(119)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+Subsec. (d)(1). Pub. L. 117–286, § 4(a)(119)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-Subsec. (d)(2). Pub. L. 117–286, § 4(a)(119)(C), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act (5 U.S.C. App.),”.
+Subsec. (d)(2). Pub. L. 117–286, § 4(a)(119)(C), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act (5 U.S.C. App.),”.
 
-2008—Pub. L. 110–246, § 2711, which directed the general amendment of section 1262 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (e) which related to general responsibilities of committees established under section 3861 of this title, wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
+2008—Pub. L. 110–246, § 2711, which directed the general amendment of section 1262 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (e) which related to general responsibilities of committees established under section 3861 of this title, wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
 
-1996—Subsec. (a). Pub. L. 104–127, § 342(b)(1), inserted at end “Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.”
+1996—Subsec. (a). Pub. L. 104–127, § 342(b)(1), inserted at end “Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.”
 
-Subsec. (b)(1). Pub. L. 104–127, § 342(b)(2), inserted at end “Each State technical committee shall establish criteria and guidelines for evaluating petitions by agricultural producers regarding new conservation practices and systems not already described in field office technical guides.”
+Subsec. (b)(1). Pub. L. 104–127, § 342(b)(2), inserted at end “Each State technical committee shall establish criteria and guidelines for evaluating petitions by agricultural producers regarding new conservation practices and systems not already described in field office technical guides.”
 
-Subsec. (c)(7) to (9). Pub. L. 104–127, § 342(b)(3), struck out “and” at end of par. (7), added par. (8), and redesignated former par. (8) as (9).
+Subsec. (c)(7) to (9). Pub. L. 104–127, § 342(b)(3), struck out “and” at end of par. (7), added par. (8), and redesignated former par. (8) as (9).
 
 1994—Subsec. (e). Pub. L. 103–354 added subsec. (e).
 
@@ -7351,11 +7351,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Public Notice and Comment for Revisions to Certain State Technical Guides**
 
-Pub. L. 104–127, title III, § 343, Apr. 4, 1996, 110 Stat. 1009, provided that: “After the date of enactment of this Act [Apr. 4, 1996], the Secretary of Agriculture shall provide for public notice and comment under section 553 of title 5, United States Code, with regard to any future revisions to those provisions of the Natural Resources Conservation Service State technical guides that are used to carry out subtitles A, B, and C of title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq. [3811 et seq., 3821 et seq.]).”
+Pub. L. 104–127, title III, § 343, Apr. 4, 1996, 110 Stat. 1009, provided that: “After the date of enactment of this Act [Apr. 4, 1996], the Secretary of Agriculture shall provide for public notice and comment under section 553 of title 5, United States Code, with regard to any future revisions to those provisions of the Natural Resources Conservation Service State technical guides that are used to carry out subtitles A, B, and C of title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq. [3811 et seq., 3821 et seq.]).”
 
 ## SUBCHAPTER VII—AGRICULTURAL CONSERVATION EASEMENT PROGRAM
 
-### § 3865. Establishment and purposes
+### § 3865. Establishment and purposes
 
 **(a) Establishment**
 
@@ -7363,11 +7363,11 @@ The Secretary shall establish an agricultural conservation easement program for 
 
 **(b) Purposes** The purposes of the program are to—
 
-**(1)** combine the purposes and coordinate the functions of the wetlands reserve program established under section 3837 1
+**(1)** combine the purposes and coordinate the functions of the wetlands reserve program established under section 3837 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title, the grassland reserve program established under section 3838n 1 of this title, and the farmland protection program established under section 3838i 1 of this title, as such sections were in effect on the day before February 7, 2014;
+of this title, the grassland reserve program established under section 3838n 1 of this title, and the farmland protection program established under section 3838i 1 of this title, as such sections were in effect on the day before February 7, 2014;
 
 **(2)** restore, protect, and enhance wetlands on eligible land;
 
@@ -7375,21 +7375,21 @@ of this title, the grassland reserve program established under section 3838n 1
 
 **(4)** protect grazing uses and related conservation values by restoring or conserving eligible land.
 
-(Pub. L. 99–198, title XII, § 1265, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 731; amended Pub. L. 115–334, title II, § 2601, Dec. 20, 2018, 132 Stat. 4585.)
+(Pub. L. 99–198, title XII, § 1265, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 731; amended Pub. L. 115–334, title II, § 2601, Dec. 20, 2018, 132 Stat. 4585.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 3837, 3838n, and 3838i of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§ 2703(a), 2704(a), 2705(a), Feb. 7, 2014, 128 Stat. 767, 768.
+Sections 3837, 3838n, and 3838i of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§ 2703(a), 2704(a), 2705(a), Feb. 7, 2014, 128 Stat. 767, 768.
 
 **Amendments**
 
-2018—Subsec. (b)(3). Pub. L. 115–334, § 2601(1), inserted “that negatively affect the agricultural uses and conservation values” after “uses of that land”.
+2018—Subsec. (b)(3). Pub. L. 115–334, § 2601(1), inserted “that negatively affect the agricultural uses and conservation values” after “uses of that land”.
 
-Subsec. (b)(4). Pub. L. 115–334, § 2601(2), substituted “restoring or conserving” for “restoring and conserving”.
+Subsec. (b)(4). Pub. L. 115–334, § 2601(2), substituted “restoring or conserving” for “restoring and conserving”.
 
-### § 3865a. Definitions
+### § 3865a. Definitions
 
 In this subchapter:
 
@@ -7517,27 +7517,27 @@ The term “program” means the agricultural conservation easement program esta
 
 **(ii)** the rights, title, and interests in land that are reserved to the landowner.
 
-(Pub. L. 99–198, title XII, § 1265A, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 732; amended Pub. L. 115–334, title II, § 2602, Dec. 20, 2018, 132 Stat. 4585.)
+(Pub. L. 99–198, title XII, § 1265A, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 732; amended Pub. L. 115–334, title II, § 2602, Dec. 20, 2018, 132 Stat. 4585.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Par. (1)(B). Pub. L. 115–334, § 2602(1), struck out “subject to an agricultural land easement plan, as approved by the Secretary” after “related uses”.
+2018—Par. (1)(B). Pub. L. 115–334, § 2602(1), struck out “subject to an agricultural land easement plan, as approved by the Secretary” after “related uses”.
 
-Pars. (2), (3). Pub. L. 115–334, § 2602(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+Pars. (2), (3). Pub. L. 115–334, § 2602(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 115–334, § 2602(2), redesignated par. (3) as (4). Former par. (4) redesignated (6).
+Par. (4). Pub. L. 115–334, § 2602(2), redesignated par. (3) as (4). Former par. (4) redesignated (6).
 
-Par. (4)(A)(i). Pub. L. 115–334, § 2602(4)(A), inserted dash after “to”, subcl. (I) designation before “a pending”, and “or” at end, and added subcl. (II).
+Par. (4)(A)(i). Pub. L. 115–334, § 2602(4)(A), inserted dash after “to”, subcl. (I) designation before “a pending”, and “or” at end, and added subcl. (II).
 
-Par. (4)(B)(i)(II). Pub. L. 115–334, § 2602(4)(B), struck out “, as determined by the Secretary in consultation with the Secretary of the Interior at the local level” before semicolon at end.
+Par. (4)(B)(i)(II). Pub. L. 115–334, § 2602(4)(B), struck out “, as determined by the Secretary in consultation with the Secretary of the Interior at the local level” before semicolon at end.
 
-Par. (5). Pub. L. 115–334, § 2602(5), added par. (5). Former par. (5) redesignated (7).
+Par. (5). Pub. L. 115–334, § 2602(5), added par. (5). Former par. (5) redesignated (7).
 
-Pars. (6), (7). Pub. L. 115–334, § 2602(2), redesignated pars. (4) and (5) as (6) and (7), respectively.
+Pars. (6), (7). Pub. L. 115–334, § 2602(2), redesignated pars. (4) and (5) as (6) and (7), respectively.
 
-### § 3865b. Agricultural land easements
+### § 3865b. Agricultural land easements
 
 **(a) Availability of assistance** The Secretary shall facilitate and provide funding for—
 
@@ -7749,23 +7749,23 @@ The Secretary shall conduct a review of eligible entities certified under subpar
 
 The Secretary may provide technical assistance, if requested, to assist in compliance with the terms and conditions of easements.
 
-(Pub. L. 99–198, title XII, § 1265B, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 734; amended Pub. L. 115–334, title II, § 2603, Dec. 20, 2018, 132 Stat. 4586.)
+(Pub. L. 99–198, title XII, § 1265B, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 734; amended Pub. L. 115–334, title II, § 2603, Dec. 20, 2018, 132 Stat. 4586.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(2). Pub. L. 115–334, § 2603(a)(2), substituted “technical assistance to implement the program, including technical assistance for the development of a conservation plan under subsection (b)(4)(C)(iv); and” for “technical assistance to provide for the conservation of natural resources pursuant to an agricultural land easement plan.”
+2018—Subsec. (a)(2). Pub. L. 115–334, § 2603(a)(2), substituted “technical assistance to implement the program, including technical assistance for the development of a conservation plan under subsection (b)(4)(C)(iv); and” for “technical assistance to provide for the conservation of natural resources pursuant to an agricultural land easement plan.”
 
-Subsec. (a)(3). Pub. L. 115–334, § 2603(a)(1), (3), added par. (3).
+Subsec. (a)(3). Pub. L. 115–334, § 2603(a)(1), (3), added par. (3).
 
-Subsec. (b)(2)(B)(ii), (iii). Pub. L. 115–334, § 2603(b)(1)(A), added cls. (ii) and (iii) and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: “An eligible entity may include as part of its share under clause (i) a charitable donation or qualified conservation contribution (as defined by section 170(h) of title 26) from the private landowner if the eligible entity contributes its own cash resources in an amount that is at least 50 percent of the amount contributed by the Secretary.”
+Subsec. (b)(2)(B)(ii), (iii). Pub. L. 115–334, § 2603(b)(1)(A), added cls. (ii) and (iii) and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: “An eligible entity may include as part of its share under clause (i) a charitable donation or qualified conservation contribution (as defined by section 170(h) of title 26) from the private landowner if the eligible entity contributes its own cash resources in an amount that is at least 50 percent of the amount contributed by the Secretary.”
 
-Subsec. (b)(2)(C). Pub. L. 115–334, § 2603(b)(1)(B), struck out subpar. (C) which related to exception to Federal and non-Federal share requirements in the case of grassland of special environmental significance and for projects of special significance.
+Subsec. (b)(2)(C). Pub. L. 115–334, § 2603(b)(1)(B), struck out subpar. (C) which related to exception to Federal and non-Federal share requirements in the case of grassland of special environmental significance and for projects of special significance.
 
-Subsec. (b)(3)(C) to (E). Pub. L. 115–334, § 2603(b)(2), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
+Subsec. (b)(3)(C) to (E). Pub. L. 115–334, § 2603(b)(2), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
 
-Subsec. (b)(4)(C)(iii), (iv). Pub. L. 115–334, § 2603(b)(3)(A), added cls. (iii) and (iv) and struck out former cls. (iii) and (iv) which read as follows:
+Subsec. (b)(4)(C)(iii), (iv). Pub. L. 115–334, § 2603(b)(3)(A), added cls. (iii) and (iv) and struck out former cls. (iii) and (iv) which read as follows:
 
 “(iii) include a right of enforcement for the Secretary, that may be used only if the terms of the easement are not enforced by the holder of the easement;
 
@@ -7777,19 +7777,19 @@ Subsec. (b)(4)(C)(iii), (iv). Pub. L. 115–334, § 2603(b)(3)(A), added cls. 
 
 “(III) includes a conservation plan, where appropriate, and requires, at the option of the Secretary, the conversion of highly erodible cropland to less intensive uses; and”.
 
-Subsec. (b)(4)(D) to (F). Pub. L. 115–334, § 2603(b)(3)(B), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+Subsec. (b)(4)(D) to (F). Pub. L. 115–334, § 2603(b)(3)(B), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (b)(5)(A)(iv). Pub. L. 115–334, § 2603(b)(4)(A), added cl. (iv).
+Subsec. (b)(5)(A)(iv). Pub. L. 115–334, § 2603(b)(4)(A), added cl. (iv).
 
-Subsec. (b)(5)(B). Pub. L. 115–334, § 2603(b)(4)(B), substituted “eligible entity—” for “entity”, inserted cl. (i) designation before “will maintain”, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i) and subcls. (I) to (III) of former cl. (iii) as items (aa) to (cc), respectively, of subcl. (III), realigned margins, and added cl. (ii).
+Subsec. (b)(5)(B). Pub. L. 115–334, § 2603(b)(4)(B), substituted “eligible entity—” for “entity”, inserted cl. (i) designation before “will maintain”, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i) and subcls. (I) to (III) of former cl. (iii) as items (aa) to (cc), respectively, of subcl. (III), realigned margins, and added cl. (ii).
 
-Subsec. (d). Pub. L. 115–334, § 2603(b)(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may provide technical assistance, if requested, to assist in—
+Subsec. (d). Pub. L. 115–334, § 2603(b)(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may provide technical assistance, if requested, to assist in—
 
 “(1) compliance with the terms and conditions of easements; and
 
 “(2) implementation of an agricultural land easement plan.”
 
-### § 3865c. Wetland reserve easements
+### § 3865c. Wetland reserve easements
 
 **(a) Availability of assistance** The Secretary shall provide assistance to owners of eligible land to restore, protect, and enhance wetlands through—
 
@@ -8025,23 +8025,23 @@ If an owner who is entitled to a payment under this section dies, becomes incomp
 
 The relevant provisions of this section shall also apply to a 30-year contract.
 
-(Pub. L. 99–198, title XII, § 1265C, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 737; amended Pub. L. 115–334, title II, § 2604, Dec. 20, 2018, 132 Stat. 4589.)
+(Pub. L. 99–198, title XII, § 1265C, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 737; amended Pub. L. 115–334, title II, § 2604, Dec. 20, 2018, 132 Stat. 4589.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b)(3)(C). Pub. L. 115–334, § 2604(1)(A), inserted “or improving water quality” before period at end.
+2018—Subsec. (b)(3)(C). Pub. L. 115–334, § 2604(1)(A), inserted “or improving water quality” before period at end.
 
-Subsec. (b)(5)(C). Pub. L. 115–334, § 2604(1)(B)(i), designated existing provisions as cl. (i), inserted heading, inserted “water management,” after “managed timber harvest,”, and added cl. (ii).
+Subsec. (b)(5)(C). Pub. L. 115–334, § 2604(1)(B)(i), designated existing provisions as cl. (i), inserted heading, inserted “water management,” after “managed timber harvest,”, and added cl. (ii).
 
-Subsec. (b)(5)(D)(i)(III). Pub. L. 115–334, § 2604(1)(B)(ii), inserted “or a grazing management plan that is consistent with the wetland reserve easement plan and has been reviewed, and modified as necessary, at least every 5 years” after “under subsection (f)”.
+Subsec. (b)(5)(D)(i)(III). Pub. L. 115–334, § 2604(1)(B)(ii), inserted “or a grazing management plan that is consistent with the wetland reserve easement plan and has been reviewed, and modified as necessary, at least every 5 years” after “under subsection (f)”.
 
-Subsec. (f)(1). Pub. L. 115–334, § 2604(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary shall develop a wetland reserve easement plan for any eligible land subject to a wetland reserve easement, which shall include practices and activities necessary to restore, protect, enhance, and maintain the enrolled land.”
+Subsec. (f)(1). Pub. L. 115–334, § 2604(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary shall develop a wetland reserve easement plan for any eligible land subject to a wetland reserve easement, which shall include practices and activities necessary to restore, protect, enhance, and maintain the enrolled land.”
 
-Subsec. (f)(2) to (4). Pub. L. 115–334, § 2604(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (f)(2) to (4). Pub. L. 115–334, § 2604(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-### § 3865d. Administration
+### § 3865d. Administration
 
 **(a) Ineligible land** The Secretary may not use program funds for the purposes of acquiring an easement on—
 
@@ -8137,27 +8137,27 @@ A farmer or rancher who owns eligible land subject to an agricultural land easem
 
 **(2)** to comply with applicable wetland protection requirements under subchapter III.
 
-(Pub. L. 99–198, title XII, § 1265D, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 742; amended Pub. L. 115–334, title II, § 2605, Dec. 20, 2018, 132 Stat. 4591.)
+(Pub. L. 99–198, title XII, § 1265D, as added Pub. L. 113–79, title II, § 2301(a), Feb. 7, 2014, 128 Stat. 742; amended Pub. L. 115–334, title II, § 2605, Dec. 20, 2018, 132 Stat. 4591.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 2014, referred to in subsec. (d)(2), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitle H (§§ 2701–2713) of title II of the Act amended sections 3801, 3811, and 3842 of this title, repealed sections 3830, 3831a, 3837 to 3837f, 3838h to 3838j, 3838n to 3838q, 3839 to 3839d, 3839aa–9, 3839bb–1, 3839bb–3, and 3839bb–4 of this title, and enacted provisions set out as notes under sections 3801, 3831a, 3837, 3838h, 3838n, 3839aa–9, 3839bb–1, 3839bb–4, and 3843 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of Title 7, Agriculture, and Tables.
+The Agricultural Act of 2014, referred to in subsec. (d)(2), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitle H (§§ 2701–2713) of title II of the Act amended sections 3801, 3811, and 3842 of this title, repealed sections 3830, 3831a, 3837 to 3837f, 3838h to 3838j, 3838n to 3838q, 3839 to 3839d, 3839aa–9, 3839bb–1, 3839bb–3, and 3839bb–4 of this title, and enacted provisions set out as notes under sections 3801, 3831a, 3837, 3838h, 3838n, 3839aa–9, 3839bb–1, 3839bb–4, and 3843 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of Title 7, Agriculture, and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(4). Pub. L. 115–334, § 2605(1), substituted “permitted” for “proposed”.
+2018—Subsec. (a)(4). Pub. L. 115–334, § 2605(1), substituted “permitted” for “proposed”.
 
-Subsec. (c). Pub. L. 115–334, § 2605(2), added subsec. (c) and struck out former subsec. (c) which allowed the Secretary to subordinate, exchange, modify, or terminate interests in land subject to certain determination, consultation, and notice requirements.
+Subsec. (c). Pub. L. 115–334, § 2605(2), added subsec. (c) and struck out former subsec. (c) which allowed the Secretary to subordinate, exchange, modify, or terminate interests in land subject to certain determination, consultation, and notice requirements.
 
-Subsec. (d)(1). Pub. L. 115–334, § 2605(3)(A), substituted “enrolled in an easement under section 3865c(b) of this title” for “transferred into the program”.
+Subsec. (d)(1). Pub. L. 115–334, § 2605(3)(A), substituted “enrolled in an easement under section 3865c(b) of this title” for “transferred into the program”.
 
-Subsec. (d)(3). Pub. L. 115–334, § 2605(3)(B), added par. (3).
+Subsec. (d)(3). Pub. L. 115–334, § 2605(3)(B), added par. (3).
 
 ## SUBCHAPTER VIII—REGIONAL CONSERVATION PARTNERSHIP PROGRAM
 
-### § 3871. Establishment and purposes
+### § 3871. Establishment and purposes
 
 **(a) Establishment** The Secretary shall establish a regional conservation partnership program to implement eligible activities on eligible land through—
 
@@ -8169,17 +8169,17 @@ Subsec. (d)(3). Pub. L. 115–334, § 2605(3)(B), added par. (3).
 
 **(1)** To carry out eligible activities to accomplish purposes and functions similar to those of the following programs, as in effect on the day before February 7, 2014:
 
-**(A)** The agricultural water enhancement program established under section 3839aa–9 1
+**(A)** The agricultural water enhancement program established under section 3839aa–9 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-**(B)** The Chesapeake Bay watershed program established under section 3839bb–4 <sup>1</sup> of this title.
+**(B)** The Chesapeake Bay watershed program established under section 3839bb–4 <sup>1</sup> of this title.
 
-**(C)** The cooperative conservation partnership initiative established under section 3843 <sup>1</sup> of this title.
+**(C)** The cooperative conservation partnership initiative established under section 3843 <sup>1</sup> of this title.
 
-**(D)** The Great Lakes basin program for soil erosion and sediment control established under section 3839bb–3 <sup>1</sup> of this title.
+**(D)** The Great Lakes basin program for soil erosion and sediment control established under section 3839bb–3 <sup>1</sup> of this title.
 
 **(2)** To further the conservation, protection, restoration, and sustainable use of soil, water (including sources of drinking water and groundwater), wildlife, agricultural land, and related natural resources on eligible land on a regional or watershed scale.
 
@@ -8193,31 +8193,31 @@ of this title.
 
 **(5)** To engage producers and eligible partners in conservation projects to achieve greater conservation outcomes and benefits for producers than would otherwise be achieved.
 
-(Pub. L. 99–198, title XII, § 1271, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 744; amended Pub. L. 115–334, title II, § 2701, Dec. 20, 2018, 132 Stat. 4592.)
+(Pub. L. 99–198, title XII, § 1271, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 744; amended Pub. L. 115–334, title II, § 2701, Dec. 20, 2018, 132 Stat. 4592.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 3839aa–9, 3839bb–3, 3839bb–4, and 3843 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§ 2706(a), 2708, 2709(a), 2710(a), Feb. 7, 2014, 128 Stat. 768, 770.
+Sections 3839aa–9, 3839bb–3, 3839bb–4, and 3843 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§ 2706(a), 2708, 2709(a), 2710(a), Feb. 7, 2014, 128 Stat. 768, 770.
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 2701(1)(A), inserted “, including partnership agreements funded through alternative funding arrangements or grant agreements under section 3871c(d) of this title,” after “partnership agreements”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 2701(1)(A), inserted “, including partnership agreements funded through alternative funding arrangements or grant agreements under section 3871c(d) of this title,” after “partnership agreements”.
 
-Subsec. (a)(2). Pub. L. 115–334, § 2701(1)(B), substituted “program contracts with producers” for “contracts with producers”.
+Subsec. (a)(2). Pub. L. 115–334, § 2701(1)(B), substituted “program contracts with producers” for “contracts with producers”.
 
-Subsec. (b)(1). Pub. L. 115–334, § 2701(2)(A), substituted “To carry out eligible activities” for “To use covered programs” in introductory provisions.
+Subsec. (b)(1). Pub. L. 115–334, § 2701(2)(A), substituted “To carry out eligible activities” for “To use covered programs” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 115–334, § 2701(2)(B), added par. (2) and struck out former par. (2) which read as follows: “To further the conservation, restoration, and sustainable use of soil, water, wildlife, and related natural resources on eligible land on a regional or watershed scale.”
+Subsec. (b)(2). Pub. L. 115–334, § 2701(2)(B), added par. (2) and struck out former par. (2) which read as follows: “To further the conservation, restoration, and sustainable use of soil, water, wildlife, and related natural resources on eligible land on a regional or watershed scale.”
 
-Subsec. (b)(3)(A). Pub. L. 115–334, § 2701(2)(C)(i), inserted “, including through alignment of partnership projects with other national, State, and local agencies and programs addressing similar natural resource or environmental concerns” after “production on eligible land”.
+Subsec. (b)(3)(A). Pub. L. 115–334, § 2701(2)(C)(i), inserted “, including through alignment of partnership projects with other national, State, and local agencies and programs addressing similar natural resource or environmental concerns” after “production on eligible land”.
 
-Subsec. (b)(3)(B). Pub. L. 115–334, § 2701(2)(C)(ii), substituted “adoption, installation, and maintenance” for “installation and maintenance”.
+Subsec. (b)(3)(B). Pub. L. 115–334, § 2701(2)(C)(ii), substituted “adoption, installation, and maintenance” for “installation and maintenance”.
 
-Subsec. (b)(4), (5). Pub. L. 115–334, § 2701(2)(D), added pars. (4) and (5).
+Subsec. (b)(4), (5). Pub. L. 115–334, § 2701(2)(D), added pars. (4) and (5).
 
-### § 3871a. Definitions
+### § 3871a. Definitions
 
 In this subchapter:
 
@@ -8287,31 +8287,31 @@ The term “program contract” means the contract between the Secretary and a p
 
 The term “program contract” does not include a contract under a covered program.
 
-(Pub. L. 99–198, title XII, § 1271A, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 745; amended Pub. L. 115–334, title II, § 2702, Dec. 20, 2018, 132 Stat. 4593.)
+(Pub. L. 99–198, title XII, § 1271A, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 745; amended Pub. L. 115–334, title II, § 2702, Dec. 20, 2018, 132 Stat. 4593.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Watershed Protection and Flood Prevention Act, referred to in par. (1)(F), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Watershed Protection and Flood Prevention Act, referred to in par. (1)(F), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Amendments**
 
-2018—Par. (1)(C). Pub. L. 115–334, § 2702(1)(A), inserted “, not including the grassland conservation initiative under section 3839aa–25 of this title” before period at end.
+2018—Par. (1)(C). Pub. L. 115–334, § 2702(1)(A), inserted “, not including the grassland conservation initiative under section 3839aa–25 of this title” before period at end.
 
-Par. (1)(E), (F). Pub. L. 115–334, § 2702(1)(B), added subpars. (E) and (F).
+Par. (1)(E), (F). Pub. L. 115–334, § 2702(1)(B), added subpars. (E) and (F).
 
-Pars. (2), (3). Pub. L. 115–334, § 2702(2), added pars. (2) and (3) and struck out former pars. (2) and (3), which defined “eligible activity” as a conservation activity for specified purposes and types of projects and “eligible land” as specified types of land or associated lands on which agricultural commodities, livestock, or forest-related products are produced.
+Pars. (2), (3). Pub. L. 115–334, § 2702(2), added pars. (2) and (3) and struck out former pars. (2) and (3), which defined “eligible activity” as a conservation activity for specified purposes and types of projects and “eligible land” as specified types of land or associated lands on which agricultural commodities, livestock, or forest-related products are produced.
 
-Par. (4)(E). Pub. L. 115–334, § 2702(3)(A), inserted “acequia,” after “irrigation district,”.
+Par. (4)(E). Pub. L. 115–334, § 2702(3)(A), inserted “acequia,” after “irrigation district,”.
 
-Par. (4)(I), (J). Pub. L. 115–334, § 2702(3)(B), added subpars. (I) and (J).
+Par. (4)(I), (J). Pub. L. 115–334, § 2702(3)(B), added subpars. (I) and (J).
 
-Par. (5). Pub. L. 115–334, § 2702(4), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘partnership agreement’ means an agreement entered into under section 3871b of this title between the Secretary and an eligible partner.”
+Par. (5). Pub. L. 115–334, § 2702(4), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘partnership agreement’ means an agreement entered into under section 3871b of this title between the Secretary and an eligible partner.”
 
-Par. (7). Pub. L. 115–334, § 2702(5), added par. (7).
+Par. (7). Pub. L. 115–334, § 2702(5), added par. (7).
 
-### § 3871b. Regional conservation partnerships
+### § 3871b. Regional conservation partnerships
 
 **(a) Partnership agreements authorized**
 
@@ -8399,9 +8399,9 @@ Any amounts expended during the period beginning on the date on which the Secret
 
 **(A)** a semiannual report describing the status of each pending and obligated contract under the project of the eligible partner; and
 
-**(B)** an annual report describing how the Secretary used amounts reserved by the Secretary for that year for technical assistance under section 3871d(f) 1
+**(B)** an annual report describing how the Secretary used amounts reserved by the Secretary for that year for technical assistance under section 3871d(f) 1
 
-<sup>1</sup>  So in original. Probably should be “section 3871d(e)”.
+<sup>1</sup> So in original. Probably should be “section 3871d(e)”.
 
 of this title; and
 
@@ -8461,43 +8461,43 @@ In carrying out the process described in paragraph (1), the Secretary shall make
 
 The adjusted gross income limitation described in section 1308–3a(b)(1) of title 7 shall not apply to an eligible partner under the program.
 
-(Pub. L. 99–198, title XII, § 1271B, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 746; amended Pub. L. 115–334, title II, § 2703, Dec. 20, 2018, 132 Stat. 4594.)
+(Pub. L. 99–198, title XII, § 1271B, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 746; amended Pub. L. 115–334, title II, § 2703, Dec. 20, 2018, 132 Stat. 4594.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–334, § 2703(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A partnership agreement shall be for a period not to exceed 5 years, except that the Secretary may extend the agreement one time for up to 12 months when an extension is necessary to meet the objectives of the program.”
+2018—Subsec. (b). Pub. L. 115–334, § 2703(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A partnership agreement shall be for a period not to exceed 5 years, except that the Secretary may extend the agreement one time for up to 12 months when an extension is necessary to meet the objectives of the program.”
 
-Subsec. (c)(1)(A). Pub. L. 115–334, § 2703(2)(A)(i), added cls. (i) to (iii), redesignated former cls. (iii) and (iv) as (iv) and (v), respectively, and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (c)(1)(A). Pub. L. 115–334, § 2703(2)(A)(i), added cls. (i) to (iii), redesignated former cls. (iii) and (iv) as (iv) and (v), respectively, and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) the eligible activities to be implemented;
 
 “(ii) the potential agricultural or nonindustrial private forest land operations affected;”.
 
-Subsec. (c)(1)(D). Pub. L. 115–334, § 2703(2)(A)(ii), substituted “contributions” for “funds”.
+Subsec. (c)(1)(D). Pub. L. 115–334, § 2703(2)(A)(ii), substituted “contributions” for “funds”.
 
-Subsec. (c)(1)(E). Pub. L. 115–334, § 2703(2)(A)(iii), substituted “of—” for “of the project’s effects; and” and added cls. (i) and (ii).
+Subsec. (c)(1)(E). Pub. L. 115–334, § 2703(2)(A)(iii), substituted “of—” for “of the project’s effects; and” and added cls. (i) and (ii).
 
-Subsec. (c)(2). Pub. L. 115–334, § 2703(2)(B), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) and (C).
+Subsec. (c)(2). Pub. L. 115–334, § 2703(2)(B), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) and (C).
 
-Subsecs. (d), (e). Pub. L. 115–334, § 2703(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 115–334, § 2703(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-Subsec. (e)(1). Pub. L. 115–334, § 2703(5)(A), inserted “simplified” before “competitive process”.
+Subsec. (e)(1). Pub. L. 115–334, § 2703(5)(A), inserted “simplified” before “competitive process”.
 
-Subsec. (e)(3). Pub. L. 115–334, § 2703(5)(B)(i), substituted “Contents” for “Content” in heading and “The Secretary shall develop a simplified application that includes a description of—” for “An application to the Secretary shall include a description of—” in introductory provisions.
+Subsec. (e)(3). Pub. L. 115–334, § 2703(5)(B)(i), substituted “Contents” for “Content” in heading and “The Secretary shall develop a simplified application that includes a description of—” for “An application to the Secretary shall include a description of—” in introductory provisions.
 
-Subsec. (e)(3)(C). Pub. L. 115–334, § 2703(5)(B)(ii), struck out “, including the covered programs to be used” after “resources requested for the project”.
+Subsec. (e)(3)(C). Pub. L. 115–334, § 2703(5)(B)(ii), struck out “, including the covered programs to be used” after “resources requested for the project”.
 
-Subsec. (e)(3)(D). Pub. L. 115–334, § 2703(5)(B)(iii), struck out “financial” before “contribution”.
+Subsec. (e)(3)(D). Pub. L. 115–334, § 2703(5)(B)(iii), struck out “financial” before “contribution”.
 
-Subsec. (e)(4)(D) to (H). Pub. L. 115–334, § 2703(5)(C), added subpars. (D) to (F), redesignated former subpars. (E) and (F) as (G) and (H), respectively, and struck out former subpar. (D) which read as follows: “deliver high percentages of applied conservation to address conservation priorities or regional, State, or national conservation initiatives;”.
+Subsec. (e)(4)(D) to (H). Pub. L. 115–334, § 2703(5)(C), added subpars. (D) to (F), redesignated former subpars. (E) and (F) as (G) and (H), respectively, and struck out former subpar. (D) which read as follows: “deliver high percentages of applied conservation to address conservation priorities or regional, State, or national conservation initiatives;”.
 
-Subsec. (e)(5). Pub. L. 115–334, § 2703(5)(D), added par. (5).
+Subsec. (e)(5). Pub. L. 115–334, § 2703(5)(D), added par. (5).
 
-Subsec. (f). Pub. L. 115–334, § 2703(6), added subsec. (f).
+Subsec. (f). Pub. L. 115–334, § 2703(6), added subsec. (f).
 
-### § 3871c. Assistance to producers
+### § 3871c. Assistance to producers
 
 **(a) In general**
 
@@ -8587,21 +8587,21 @@ A partnership agreement entered into with an eligible partner may be funded thro
 
 **(v)** any other reporting data the Secretary determines are necessary to ensure compliance with the program rules.
 
-(Pub. L. 99–198, title XII, § 1271C, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 747; amended Pub. L. 115–334, title II, § 2704, Dec. 20, 2018, 132 Stat. 4596.)
+(Pub. L. 99–198, title XII, § 1271C, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 747; amended Pub. L. 115–334, title II, § 2704, Dec. 20, 2018, 132 Stat. 4596.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsecs. (a), (b). Pub. L. 115–334, § 2704(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Secretary to enter into contracts with producers to provide financial and technical assistance and set forth provisions relating to terms and conditions, respectively.
+2018—Subsecs. (a), (b). Pub. L. 115–334, § 2704(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Secretary to enter into contracts with producers to provide financial and technical assistance and set forth provisions relating to terms and conditions, respectively.
 
-Subsec. (c)(1). Pub. L. 115–334, § 2704(2)(A), substituted “Subject to section 3871d of this title, the Secretary may make payments to a producer” for “In accordance with statutory requirements of the covered programs involved, the Secretary may make payments to a producer”.
+Subsec. (c)(1). Pub. L. 115–334, § 2704(2)(A), substituted “Subject to section 3871d of this title, the Secretary may make payments to a producer” for “In accordance with statutory requirements of the covered programs involved, the Secretary may make payments to a producer”.
 
-Subsec. (c)(3). Pub. L. 115–334, § 2704(2)(B), struck out “participating” before “producers”.
+Subsec. (c)(3). Pub. L. 115–334, § 2704(2)(B), struck out “participating” before “producers”.
 
-Subsec. (d). Pub. L. 115–334, § 2704(3), added subsec. (d).
+Subsec. (d). Pub. L. 115–334, § 2704(3), added subsec. (d).
 
-### § 3871d. Funding
+### § 3871d. Funding
 
 **(a) Availability of funding** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out the program, to the maximum extent practicable—
 
@@ -8655,7 +8655,7 @@ The Secretary shall limit costs of the Secretary for technical assistance to cos
 
 The Secretary shall develop and implement strategies to encourage third-party technical service providers to provide technical assistance to eligible partners pursuant to a partnership agreement.
 
-(Pub. L. 99–198, title XII, § 1271D, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 749; amended Pub. L. 115–334, title II, § 2705, Dec. 20, 2018, 132 Stat. 4598; Pub. L. 117–169, title II, § 21001(c)(7), Aug. 16, 2022, 136 Stat. 2017; Pub. L. 119–21, title I, § 10601(b), July 4, 2025, 139 Stat. 107.)
+(Pub. L. 99–198, title XII, § 1271D, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 749; amended Pub. L. 115–334, title II, § 2705, Dec. 20, 2018, 132 Stat. 4598; Pub. L. 117–169, title II, § 21001(c)(7), Aug. 16, 2022, 136 Stat. 2017; Pub. L. 119–21, title I, § 10601(b), July 4, 2025, 139 Stat. 107.)
 
 **Editorial Notes**
 
@@ -8665,21 +8665,21 @@ The Secretary shall develop and implement strategies to encourage third-party te
 
 2022—Subsec. (a). Pub. L. 117–169 substituted “2031” for “2023”.
 
-2018—Subsec. (a). Pub. L. 115–334, § 2705(1), substituted “$300,000,000” for “$100,000,000” and “2019 through 2023” for “2014 through 2018”.
+2018—Subsec. (a). Pub. L. 115–334, § 2705(1), substituted “$300,000,000” for “$100,000,000” and “2019 through 2023” for “2014 through 2018”.
 
-Subsec. (c). Pub. L. 115–334, § 2705(2)–(4)(A), redesignated subsec. (d) as (c), struck out “and acres” after “funds” and “and reserved for the program under subsection (c)” after “under subsection (a)” in introductory provisions, and struck out former subsec. (c) which related to reservation of additional funding and acres for each of fiscal years 2014 through 2018.
+Subsec. (c). Pub. L. 115–334, § 2705(2)–(4)(A), redesignated subsec. (d) as (c), struck out “and acres” after “funds” and “and reserved for the program under subsection (c)” after “under subsection (a)” in introductory provisions, and struck out former subsec. (c) which related to reservation of additional funding and acres for each of fiscal years 2014 through 2018.
 
-Subsec. (c)(1). Pub. L. 115–334, § 2705(4)(B), substituted “50 percent of the funds to projects based on a State or multistate competitive process administered by the Secretary at the local level with the advice of the applicable State technical committees” for “25 percent of the funds and acres to projects based on a State competitive process administered by the State Conservationist, with the advice of the State technical committee” and inserted “and” at end.
+Subsec. (c)(1). Pub. L. 115–334, § 2705(4)(B), substituted “50 percent of the funds to projects based on a State or multistate competitive process administered by the Secretary at the local level with the advice of the applicable State technical committees” for “25 percent of the funds and acres to projects based on a State competitive process administered by the State Conservationist, with the advice of the State technical committee” and inserted “and” at end.
 
-Subsec. (c)(2), (3). Pub. L. 115–334, § 2705(4)(C)–(E), redesignated par. (3) as (2), substituted “50 percent of the funds” for “35 percent of the funds and acres”, and struck out former par. (2) which read as follows: “40 percent of the funds and acres to projects based on a national competitive process to be established by the Secretary; and”.
+Subsec. (c)(2), (3). Pub. L. 115–334, § 2705(4)(C)–(E), redesignated par. (3) as (2), substituted “50 percent of the funds” for “35 percent of the funds and acres”, and struck out former par. (2) which read as follows: “40 percent of the funds and acres to projects based on a national competitive process to be established by the Secretary; and”.
 
-Subsec. (d). Pub. L. 115–334, § 2705(5), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), none of the funds made available for the program, including for a partnership agreement funded through an alternative funding arrangement or grant agreement under section 3871c(d) of this title,” for “None of the funds made available or reserved for the program”, and added par. (2).
+Subsec. (d). Pub. L. 115–334, § 2705(5), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), none of the funds made available for the program, including for a partnership agreement funded through an alternative funding arrangement or grant agreement under section 3871c(d) of this title,” for “None of the funds made available or reserved for the program”, and added par. (2).
 
-Pub. L. 115–334, § 2705(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Pub. L. 115–334, § 2705(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 115–334, § 2705(6), added subsec. (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 115–334, § 2705(6), added subsec. (e). Former subsec. (e) redesignated (d).
 
-### § 3871e. Administration
+### § 3871e. Administration
 
 **(a) Disclosure**
 
@@ -8725,9 +8725,9 @@ In addition to the criteria used in evaluating applications as described in sect
 
 **(d) Historically underserved producers**
 
-To the maximum extent practicable, in carrying out the program, the Secretary and eligible partners shall conduct outreach to beginning farmers and ranchers, veteran farmers and ranchers, socially disadvantaged farmers and ranchers, and limited resource farmers and ranchers to encourage participation by those producers in a project subject to a partnership agreement or funding agreement under 3871c(d) 1
+To the maximum extent practicable, in carrying out the program, the Secretary and eligible partners shall conduct outreach to beginning farmers and ranchers, veteran farmers and ranchers, socially disadvantaged farmers and ranchers, and limited resource farmers and ranchers to encourage participation by those producers in a project subject to a partnership agreement or funding agreement under 3871c(d) 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “section”.
+<sup>1</sup> So in original. Probably should be preceded by “section”.
 
 of this title.
 
@@ -8735,27 +8735,27 @@ of this title.
 
 The Secretary shall issue regulations to carry out the program.
 
-(Pub. L. 99–198, title XII, § 1271E, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 749; amended Pub. L. 115–334, title II, § 2706, Dec. 20, 2018, 132 Stat. 4599.)
+(Pub. L. 99–198, title XII, § 1271E, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 749; amended Pub. L. 115–334, title II, § 2706, Dec. 20, 2018, 132 Stat. 4599.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 2706(1), which directed amendment of subsec. (a) by substituting “3871b(e)” for “3871b(d)” wherever appearing, was executed by substituting “3871(e)(2)” for “3871b(d)(2)” and “3871(e)(1)” for “3871b(d)(1)”.
+2018—Subsec. (a). Pub. L. 115–334, § 2706(1), which directed amendment of subsec. (a) by substituting “3871b(e)” for “3871b(d)” wherever appearing, was executed by substituting “3871(e)(2)” for “3871b(d)(2)” and “3871(e)(1)” for “3871b(d)(1)”.
 
-Subsec. (b). Pub. L. 115–334, § 2706(2)(A), substituted “December 31, 2019” for “December 31, 2014” in introductory provisions.
+Subsec. (b). Pub. L. 115–334, § 2706(2)(A), substituted “December 31, 2019” for “December 31, 2014” in introductory provisions.
 
-Subsec. (b)(1) to (3). Pub. L. 115–334, § 2706(2)(B), (C), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
+Subsec. (b)(1) to (3). Pub. L. 115–334, § 2706(2)(B), (C), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 115–334, § 2706(2)(B), (D), redesignated par. (3) as (4) and struck out “and” at end. Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 115–334, § 2706(2)(B), (D), redesignated par. (3) as (4) and struck out “and” at end. Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 115–334, § 2706(2)(B), (E), redesignated par. (4) as (5) and substituted “3871c(d)” for “3871c(b)(2)” in introductory provisions and “; and” for period at end.
+Subsec. (b)(5). Pub. L. 115–334, § 2706(2)(B), (E), redesignated par. (4) as (5) and substituted “3871c(d)” for “3871c(b)(2)” in introductory provisions and “; and” for period at end.
 
-Subsec. (b)(6). Pub. L. 115–334, § 2706(2)(F), added par. (6).
+Subsec. (b)(6). Pub. L. 115–334, § 2706(2)(F), added par. (6).
 
-Subsecs. (c) to (e). Pub. L. 115–334, § 2706(3), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 115–334, § 2706(3), added subsecs. (c) to (e).
 
-### § 3871f. Critical conservation areas
+### § 3871f. Critical conservation areas
 
 **(a) Definitions** In this section:
 
@@ -8823,21 +8823,21 @@ Except as provided in paragraph (2), the Secretary shall administer any partners
 
 The Secretary shall, to the maximum extent practicable, ensure that eligible activities carried out in critical conservation areas designated under this section complement and are consistent with other Federal and State programs and water quality and quantity strategies.
 
-(Pub. L. 99–198, title XII, § 1271F, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 750; amended Pub. L. 115–334, title II, § 2707, Dec. 20, 2018, 132 Stat. 4600.)
+(Pub. L. 99–198, title XII, § 1271F, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 750; amended Pub. L. 115–334, title II, § 2707, Dec. 20, 2018, 132 Stat. 4600.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 2707(2), added subsec. (a). Former subsec. (a) redesignated (b).
+2018—Subsec. (a). Pub. L. 115–334, § 2707(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 115–334, § 2707(1), (3), redesignated subsec. (a) as (b), in heading, substituted “Applications” for “In general”, and, in text, substituted “3871d(d)(2)” for “3871d(d)(3)” and “program contracts” for “producer contracts” and inserted “that address 1 or more priority resource concerns for which the critical conservation area is designated” before period at end. Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 115–334, § 2707(1), (3), redesignated subsec. (a) as (b), in heading, substituted “Applications” for “In general”, and, in text, substituted “3871d(d)(2)” for “3871d(d)(3)” and “program contracts” for “producer contracts” and inserted “that address 1 or more priority resource concerns for which the critical conservation area is designated” before period at end. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 115–334, § 2707(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (e).
+Subsec. (c). Pub. L. 115–334, § 2707(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (e).
 
-Subsec. (c)(1). Pub. L. 115–334, § 2707(4)(B), added par. (1). Former par. (1) redesignated (2).
+Subsec. (c)(1). Pub. L. 115–334, § 2707(4)(B), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (c)(2). Pub. L. 115–334, § 2707(4)(A), (C), redesignated par. (1) as (2), added subpar. (C), redesignated subpar. (E) as (D), and struck out former subpars. (C) and (D) which read as follows:
+Subsec. (c)(2). Pub. L. 115–334, § 2707(4)(A), (C), redesignated par. (1) as (2), added subpar. (C), redesignated subpar. (E) as (D), and struck out former subpars. (C) and (D) which read as follows:
 
 “(C) would benefit from water quality improvement, including through reducing erosion, promoting sediment control, and addressing nutrient management activities affecting large bodies of water of regional, national, or international significance;
 
@@ -8847,16 +8847,16 @@ Subsec. (c)(2). Pub. L. 115–334, § 2707(4)(A), (C), redesignated par. (1) a
 
 “(ii) a need to promote water retention and flood prevention; or”.
 
-Subsec. (c)(3). Pub. L. 115–334, § 2707(4)(D), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Critical conservation area designations under this section shall expire after 5 years, subject to redesignation, except that the Secretary may withdraw designation from an area if the Secretary finds the area no longer meets the conditions described in paragraph (1).”
+Subsec. (c)(3). Pub. L. 115–334, § 2707(4)(D), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Critical conservation area designations under this section shall expire after 5 years, subject to redesignation, except that the Secretary may withdraw designation from an area if the Secretary finds the area no longer meets the conditions described in paragraph (1).”
 
-Pub. L. 115–334, § 2707(4)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Pub. L. 115–334, § 2707(4)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(4). Pub. L. 115–334, § 2707(4)(A), redesignated par. (3) as (4).
+Subsec. (c)(4). Pub. L. 115–334, § 2707(4)(A), redesignated par. (3) as (4).
 
-Subsec. (d). Pub. L. 115–334, § 2707(5), added subsec. (d).
+Subsec. (d). Pub. L. 115–334, § 2707(5), added subsec. (d).
 
-Subsec. (e). Pub. L. 115–334, § 2707(1), redesignated subsec. (c) as (e).
+Subsec. (e). Pub. L. 115–334, § 2707(1), redesignated subsec. (c) as (e).
 
-Subsec. (e)(1). Pub. L. 115–334, § 2707(6)(A), substituted “program contract” for “producer contract”.
+Subsec. (e)(1). Pub. L. 115–334, § 2707(6)(A), substituted “program contract” for “producer contract”.
 
-Subsec. (e)(3). Pub. L. 115–334, § 2707(6)(B), struck out par. (3). Text read as follows: “For a critical conservation area described in subsection (b)(1)(D), the Secretary may use authorities under the Watershed Protection and Flood Prevention Act (16 U.S.C. 1001 et seq.), other than section 14 of such Act (16 U.S.C. 1012), to carry out projects for the purposes of this section.”
+Subsec. (e)(3). Pub. L. 115–334, § 2707(6)(B), struck out par. (3). Text read as follows: “For a critical conservation area described in subsection (b)(1)(D), the Secretary may use authorities under the Watershed Protection and Flood Prevention Act (16 U.S.C. 1001 et seq.), other than section 14 of such Act (16 U.S.C. 1012), to carry out projects for the purposes of this section.”

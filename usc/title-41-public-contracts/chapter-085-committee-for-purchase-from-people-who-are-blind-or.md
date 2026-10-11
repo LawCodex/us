@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 85—COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED
 
-## § 8501. Definitions
+## § 8501. Definitions
 
 In this chapter:
 
@@ -65,14 +65,14 @@ In this chapter:
 
 **(9) State.—** The term “State” includes the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3833.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3833.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8501(1) | 41:48b(1). | June 25, 1938, ch. 697, § 5, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 81; Pub. L. 93–358, § 1(3), July 25, 1974, 88 Stat. 393; Pub. L. 94–273, § 3(22), Apr. 21, 1976, 90 Stat. 377. |
-| 8501(2) | 41:46(a) (words in parentheses before par. (1)). | June 25, 1938, ch. 697, § 1(a) (words in parentheses before par. (1)), 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 77. |
+| 8501(1) | 41:48b(1). | June 25, 1938, ch. 697, § 5, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 81; Pub. L. 93–358, § 1(3), July 25, 1974, 88 Stat. 393; Pub. L. 94–273, § 3(22), Apr. 21, 1976, 90 Stat. 377. |
+| 8501(2) | 41:46(a) (words in parentheses before par. (1)). | June 25, 1938, ch. 697, § 1(a) (words in parentheses before par. (1)), 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 77. |
 | 8501(3) | 41:48b(5). |  |
 | 8501(4) | 41:48b(7). |  |
 | 8501(5) | 41:48b(2). |  |
@@ -91,7 +91,7 @@ In paragraph (9), the words “the Northern Mariana Islands” are substituted f
 
 **Contracting With Employers of Persons With Disabilities**
 
-Pub. L. 109–364, div. A, title VIII, § 856(a), (d), Oct. 17, 2006, 120 Stat. 2347, 2349, provided that:
+Pub. L. 109–364, div. A, title VIII, § 856(a), (d), Oct. 17, 2006, 120 Stat. 2347, 2349, provided that:
 
 > **“(a) Inapplicability of Certain Laws.—**
 
@@ -115,13 +115,13 @@ Pub. L. 109–364, div. A, title VIII, § 856(a), (d), Oct. 17, 2006, 120 Stat
 
 **Statement of Policy and Report Concerning the Operation and Management of Certain Military Facilities Regarding the Blind or Severely Disabled**
 
-Pub. L. 109–163, div. A, title VIII, § 848(b), (c), Jan. 6, 2006, 119 Stat. 3395, provided that:
+Pub. L. 109–163, div. A, title VIII, § 848(b), (c), Jan. 6, 2006, 119 Stat. 3395, provided that:
 
 > **“(b) Statement of Policy.—** The Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall jointly issue a statement of policy related to the implementation of the Randolph-Sheppard Act (20 U.S.C. 107 et seq.) and the Javits-Wagner-O’Day Act ([former] 41 U.S.C. 48 [46 et seq.]) [now 41 U.S.C. 8501 et seq.] within the Department of Defense and the Department of Education. The joint statement of policy shall specifically address the application of those Acts to both operation and management of all or any part of a military mess hall, military troop dining facility, or any similar dining facility operated for the purpose of providing meals to members of the Armed Forces, and shall take into account and address, to the extent practicable, the positions acceptable to persons representing programs implemented under each Act.
 
 > **“(c) Report.—** Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate.”
 
-## § 8502. Committee for Purchase From People Who Are Blind or Severely Disabled
+## § 8502. Committee for Purchase From People Who Are Blind or Severely Disabled
 
 **(a) Establishment.—** There is a Committee for Purchase From People Who Are Blind or Severely Disabled.
 
@@ -187,13 +187,13 @@ Pub. L. 109–163, div. A, title VIII, § 848(b), (c), Jan. 6, 2006, 119 Stat.
 
 **(j) Annual Report.—** Not later than December 31 of each year, the Committee shall transmit to the President a report that includes the names of the Committee members serving in the prior fiscal year, the dates of Committee meetings in that year, a description of the activities of the Committee under this chapter in that year, and any recommendations for changes in this chapter which the Committee determines are necessary.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3835.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3835.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8502(a), (b) | 41:46(a) (less words in parentheses before par. (1)). | June 25, 1938, ch. 697, § 1 (less (a) (words in parentheses before par. (1))), 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 77; Pub. L. 93–358, § 1(1), (2), July 25, 1974, 88 Stat. 392; Pub. L. 94–273, § 8(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 102–54, § 13(p), June 13, 1991, 105 Stat. 278; Pub. L. 102–569, title IX, § 911(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, § 301, Aug. 11, 1993, 107 Stat. 736. |
+| 8502(a), (b) | 41:46(a) (less words in parentheses before par. (1)). | June 25, 1938, ch. 697, § 1 (less (a) (words in parentheses before par. (1))), 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 77; Pub. L. 93–358, § 1(1), (2), July 25, 1974, 88 Stat. 392; Pub. L. 94–273, § 8(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 102–54, § 13(p), June 13, 1991, 105 Stat. 278; Pub. L. 102–569, title IX, § 911(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, § 301, Aug. 11, 1993, 107 Stat. 736. |
 | 8502(c) | 41:46(d)(1), (2), (4). |  |
 | 8502(d) | 41:46(c). |  |
 | 8502(e)(1) | 41:46(b). |  |
@@ -208,7 +208,7 @@ In subsection (b)(1)(F), the words “Department of Education” are substituted
 
 In subsection (c), the text of 41:46(d)(2) and (4) is omitted as obsolete.
 
-In subsection (f)(1), the reference to section 5376 of title 5 is substituted for the reference to grade GS–18 of the General Schedule because of section 529 [title I, § 101(c)(1)] of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442, 5 U.S.C. 5376 note). The word “actual” is omitted as unnecessary. The words “A member is entitled to travel expenses, including a per diem allowance instead of subsistence, as provided under section 5703 of title 5” are substituted for 41:46(e)(3) to eliminate unnecessary words. The reference to section 5703 of title 5 is substituted for the reference to section 5703(b) of title 5 because of the amendment to section 5703 by section 4 of the Travel Expense Amendments Act of 1975 (Public Law 94–22, 89 Stat. 85).
+In subsection (f)(1), the reference to section 5376 of title 5 is substituted for the reference to grade GS–18 of the General Schedule because of section 529 [title I, § 101(c)(1)] of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442, 5 U.S.C. 5376 note). The word “actual” is omitted as unnecessary. The words “A member is entitled to travel expenses, including a per diem allowance instead of subsistence, as provided under section 5703 of title 5” are substituted for 41:46(e)(3) to eliminate unnecessary words. The reference to section 5703 of title 5 is substituted for the reference to section 5703(b) of title 5 because of the amendment to section 5703 by section 4 of the Travel Expense Amendments Act of 1975 (Public Law 94–22, 89 Stat. 85).
 
 In subsection (g), the words “its duties and powers” are omitted as surplus.
 
@@ -218,9 +218,9 @@ In subsection (j), the words “and to the Congress” are omitted pursuant to s
 
 **Senate Revision Amendment**
 
-In subsec. (f)(1), “for level IV of the Executive Schedule” substituted for “under section 5376 of title 5” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
+In subsec. (f)(1), “for level IV of the Executive Schedule” substituted for “under section 5376 of title 5” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
 
-## § 8503. Duties and powers of the Committee
+## § 8503. Duties and powers of the Committee
 
 **(a) Procurement List.—**
 
@@ -248,13 +248,13 @@ In subsec. (f)(1), “for level IV of the Executive Schedule” substituted for 
 
 **(2)** the development and adaptation of production methods that would enable a greater utilization of the blind and other severely disabled individuals.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3836.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3836.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8503(a) | 41:47(a). | June 25, 1938, ch. 697, § 2, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 79. |
+| 8503(a) | 41:47(a). | June 25, 1938, ch. 697, § 2, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 79. |
 | 8503(b) | 41:47(b). |  |
 | 8503(c) | 41:47(c). |  |
 | 8503(d) | 41:47(d). |  |
@@ -264,25 +264,25 @@ In subsection (a), the text of 41:47(a)(1) (last sentence) is omitted as obsolet
 
 In subsection (d)(2), the text of 41:47(d)(2)(B) is omitted as obsolete.
 
-## § 8504. Procurement requirements for the Federal Government
+## § 8504. Procurement requirements for the Federal Government
 
 **(a) In General.—** An entity of the Federal Government intending to procure a product or service on the procurement list referred to in section 8503 of this title shall procure the product or service from a qualified nonprofit agency for the blind or a qualified nonprofit agency for other severely disabled in accordance with regulations of the Committee and at the price the Committee establishes if the product or service is available within the period required by the entity.
 
 **(b) Exception.—** This section does not apply to the procurement of a product that is available from an industry established under chapter 307 of title 18 and that is required under section 4124 of title 18 to be procured from that industry.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3837.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3837.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8504 | 41:48. | June 25, 1938, ch. 697, § 3, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 80. |
+| 8504 | 41:48. | June 25, 1938, ch. 697, § 3, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 80. |
 
 In subsection (a), the words “referred to in section 8503 of this title” are added for clarity because of the restatement of 41:47(a) in section 8503(a) of the revised title.
 
 In subsection (b), the words “for procurement” are omitted as unnecessary.
 
-## § 8505. Audit
+## § 8505. Audit
 
 For the purpose of audit and examination, the Comptroller General shall have access to the books, documents, papers, and other records of—
 
@@ -290,26 +290,26 @@ For the purpose of audit and examination, the Comptroller General shall have acc
 
 **(2)** qualified nonprofit agencies for the blind and qualified nonprofit agencies for other severely disabled that have sold products or services under this chapter to the extent those books, documents, papers, and other records relate to the activities of the agency in a fiscal year in which a sale was made under this chapter.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3838.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3838.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8505 | 41:48a. | June 25, 1938, ch. 697, § 4, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 81. |
+| 8505 | 41:48a. | June 25, 1938, ch. 697, § 4, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 81. |
 
 In this section, before paragraph (1), the words “or any of his duly authorized representatives” are omitted because of 31:711(2). In paragraph (1), the words “central nonprofit” are added for clarity.
 
-## § 8506. Authorization of appropriations
+## § 8506. Authorization of appropriations
 
 Necessary amounts may be appropriated to the Committee to carry out this chapter.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3838.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3838.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8506 | 41:48c. | June 25, 1938, ch. 697, § 6, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 82; Pub. L. 93–76, July 30, 1973, 87 Stat. 176; Pub. L. 93–358, § 1(4), July 25, 1974, 88 Stat. 393. |
+| 8506 | 41:48c. | June 25, 1938, ch. 697, § 6, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23, 1971, 85 Stat. 82; Pub. L. 93–76, July 30, 1973, 87 Stat. 176; Pub. L. 93–358, § 1(4), July 25, 1974, 88 Stat. 393. |
 
 The reference to the fiscal year ending June 30, 1974 is omitted as obsolete.

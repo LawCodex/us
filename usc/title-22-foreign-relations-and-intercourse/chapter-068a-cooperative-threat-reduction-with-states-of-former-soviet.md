@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 68A—COOPERATIVE THREAT REDUCTION WITH STATES OF FORMER SOVIET UNION
 
-## § 5951. Findings on cooperative threat reduction
+## § 5951. Findings on cooperative threat reduction
 
 The Congress finds that it is in the national security interest of the United States for the United States to do the following:
 
@@ -35,33 +35,33 @@ The Congress finds that it is in the national security interest of the United St
 
 **(5)** Expand military-to-military and defense contacts between the United States and the independent states of the former Soviet Union.
 
-(Pub. L. 103–160, div. A, title XII, § 1202, Nov. 30, 1993, 107 Stat. 1777.)
+(Pub. L. 103–160, div. A, title XII, § 1202, Nov. 30, 1993, 107 Stat. 1777.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–136, div. C, title XXXVI, § 3601, Nov. 24, 2003, 117 Stat. 1822, provided that: “This title [enacting provisions set out as notes under this section and sections 1928, 5959, and 6321 of this title] may be cited as the ‘Nuclear Security Initiative Act of 2003’.”
+Pub. L. 108–136, div. C, title XXXVI, § 3601, Nov. 24, 2003, 117 Stat. 1822, provided that: “This title [enacting provisions set out as notes under this section and sections 1928, 5959, and 6321 of this title] may be cited as the ‘Nuclear Security Initiative Act of 2003’.”
 
 **Short Title**
 
-Pub. L. 103–160, div. A, title XII, § 1201, Nov. 30, 1993, 107 Stat. 1777, provided that: “This title [enacting this chapter] may be cited as the ‘Cooperative Threat Reduction Act of 1993’.”
+Pub. L. 103–160, div. A, title XII, § 1201, Nov. 30, 1993, 107 Stat. 1777, provided that: “This title [enacting this chapter] may be cited as the ‘Cooperative Threat Reduction Act of 1993’.”
 
 **Congressional Notification**
 
-Pub. L. 113–66, div. A, title XII, § 1246(c)(3), Dec. 26, 2013, 127 Stat. 924, as amended by Pub. L. 113–291, div. A, title XII, § 1243(3), Dec. 19, 2014, 128 Stat. 3564, which required that the Secretary of Defense notify certain congressional committees of the Secretary’s intent to provide the Russian Federation with any sensitive missile defense information not less than 7 days prior to the provision of such information, including an explanation of the reasons for providing the information and the reasons why providing the information would not compromise United States national security, was repealed by Pub. L. 114–92, div. A, title XVI, § 1671(b)(1), Nov. 25, 2015, 129 Stat. 1130.
+Pub. L. 113–66, div. A, title XII, § 1246(c)(3), Dec. 26, 2013, 127 Stat. 924, as amended by Pub. L. 113–291, div. A, title XII, § 1243(3), Dec. 19, 2014, 128 Stat. 3564, which required that the Secretary of Defense notify certain congressional committees of the Secretary’s intent to provide the Russian Federation with any sensitive missile defense information not less than 7 days prior to the provision of such information, including an explanation of the reasons for providing the information and the reasons why providing the information would not compromise United States national security, was repealed by Pub. L. 114–92, div. A, title XVI, § 1671(b)(1), Nov. 25, 2015, 129 Stat. 1130.
 
 **Briefings to Congressional Committees**
 
-Pub. L. 113–66, div. A, title XII, § 1251(b), Dec. 26, 2013, 127 Stat. 926, provided that: “Prior to signing an executive agreement with the Russian Federation relating to ballistic missile defense, the President, or the President’s designee, shall brief the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the objectives and contents of the executive agreement.”
+Pub. L. 113–66, div. A, title XII, § 1251(b), Dec. 26, 2013, 127 Stat. 926, provided that: “Prior to signing an executive agreement with the Russian Federation relating to ballistic missile defense, the President, or the President’s designee, shall brief the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the objectives and contents of the executive agreement.”
 
 **Sense of Congress on Agreements Between the United States and the Russian Federation on Nuclear Arms, Missile Defense Systems, and Long-Range Conventional Strike Systems**
 
-Pub. L. 112–239, div. A, title XII, § 1282, Jan. 2, 2013, 126 Stat. 2034, as amended by Pub. L. 114–92, div. A, title X, § 1076(c), Nov. 25, 2015, 129 Stat. 998, provided that: “It is the sense of Congress that any agreement between the United States and the Russian Federation related to nuclear arms, missile defense systems, or long-range conventional strike systems obligating the United States to reduce or limit the Armed Forces or armaments of the United States in any militarily significant manner may be made only pursuant to the treaty-making power of the President as set forth in Article II, section 2, clause 2 of the Constitution of the United States.”
+Pub. L. 112–239, div. A, title XII, § 1282, Jan. 2, 2013, 126 Stat. 2034, as amended by Pub. L. 114–92, div. A, title X, § 1076(c), Nov. 25, 2015, 129 Stat. 998, provided that: “It is the sense of Congress that any agreement between the United States and the Russian Federation related to nuclear arms, missile defense systems, or long-range conventional strike systems obligating the United States to reduce or limit the Armed Forces or armaments of the United States in any militarily significant manner may be made only pursuant to the treaty-making power of the President as set forth in Article II, section 2, clause 2 of the Constitution of the United States.”
 
 **Sharing of Classified United States Ballistic Missile Defense Information With the Russian Federation**
 
-Pub. L. 112–81, div. A, title XII, § 1244, Dec. 31, 2011, 125 Stat. 1646, provided that:
+Pub. L. 112–81, div. A, title XII, § 1244, Dec. 31, 2011, 125 Stat. 1646, provided that:
 
 > **“(a) Notification.—** No classified United States ballistic missile defense information may be made available to the Russian Federation unless, 60 days prior to any instance in which the United States Government plans to provide such information to the Russian Federation, the President provides notification thereof to the appropriate congressional committees.
 
@@ -89,7 +89,7 @@ Pub. L. 112–81, div. A, title XII, § 1244, Dec. 31, 2011, 125 Stat. 1646, p
 
 **Establishment of Interparliamentary Threat Reduction Working Group**
 
-Pub. L. 108–136, div. C, title XXXVI, § 3622, Nov. 24, 2003, 117 Stat. 1824, provided that:
+Pub. L. 108–136, div. C, title XXXVI, § 3622, Nov. 24, 2003, 117 Stat. 1824, provided that:
 
 > **“(a) Establishment of Working Group.—** There is hereby established a working group to be known as the ‘Threat Reduction Working Group’ as an interparliamentary group of the Congress of the United States and the legislature of the Russian Federation.
 
@@ -103,7 +103,7 @@ Pub. L. 108–136, div. C, title XXXVI, § 3622, Nov. 24, 2003, 117 Stat. 1824
 
 **Transfer to National Nuclear Security Administration of Department of Defense’s Cooperative Threat Reduction Program Relating to Elimination of Weapons Grade Plutonium Production in Russia**
 
-Pub. L. 107–314, div. C, title XXXI, § 3151, Dec. 2, 2002, 116 Stat. 2736, as amended by Pub. L. 108–375, div. C, title XXXI, § 3135, Oct. 28, 2004, 118 Stat. 2170, provided that:
+Pub. L. 107–314, div. C, title XXXI, § 3151, Dec. 2, 2002, 116 Stat. 2736, as amended by Pub. L. 108–375, div. C, title XXXI, § 3135, Oct. 28, 2004, 118 Stat. 2170, provided that:
 
 > **“(a) Transfer of Program.—** There are hereby transferred to the Administrator for Nuclear Security the following:
 
@@ -179,7 +179,7 @@ Pub. L. 107–314, div. C, title XXXI, § 3151, Dec. 2, 2002, 116 Stat. 2736, 
 
 **Accelerated Disposition of Highly Enriched Uranium**
 
-Pub. L. 107–314, div. C, title XXXI, § 3157, Dec. 2, 2002, 116 Stat. 2740, provided that:
+Pub. L. 107–314, div. C, title XXXI, § 3157, Dec. 2, 2002, 116 Stat. 2740, provided that:
 
 > **“(a) Program on Accelerated Disposition of HEU Authorized.—**
 
@@ -205,7 +205,7 @@ Pub. L. 107–314, div. C, title XXXI, § 3157, Dec. 2, 2002, 116 Stat. 2740, 
 
 **Plan for Accelerated Return of Weapons-Usable Nuclear Materials**
 
-Pub. L. 107–314, div. C, title XXXI, § 3160, Dec. 2, 2002, 116 Stat. 2742, provided that:
+Pub. L. 107–314, div. C, title XXXI, § 3160, Dec. 2, 2002, 116 Stat. 2742, provided that:
 
 > **“(a) Plan for Accelerated Return.—** The Secretary of Energy shall work with the Russian Federation to develop a plan to accelerate the return to Russia of all weapons-usable nuclear materials located in research reactors and other facilities outside Russia that were supplied by the former Soviet Union.
 
@@ -219,7 +219,7 @@ Pub. L. 107–314, div. C, title XXXI, § 3160, Dec. 2, 2002, 116 Stat. 2742, 
 
 **Plan for Securing Nuclear Weapons, Material, and Expertise of the States of the Former Soviet Union**
 
-Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as amended by Pub. L. 107–314, div. A, title XII, § 1205, Dec. 2, 2002, 116 Stat. 2664, provided that:
+Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as amended by Pub. L. 107–314, div. A, title XII, § 1205, Dec. 2, 2002, 116 Stat. 2664, provided that:
 
 > **“(a) Plan Required.—** Not later than June 15, 2002, the President shall submit to Congress a plan, that has been developed in coordination with all relevant Federal agencies—
 
@@ -271,7 +271,7 @@ Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, 
 
 **Russian Nonstrategic Nuclear Arms**
 
-Pub. L. 106–65, div. A, title XIII, § 1312, Oct. 5, 1999, 113 Stat. 796, as amended by Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308(g)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–343, provided that:
+Pub. L. 106–65, div. A, title XIII, § 1312, Oct. 5, 1999, 113 Stat. 796, as amended by Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308(g)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–343, provided that:
 
 > “It is the sense of Congress that—
 
@@ -283,7 +283,7 @@ Pub. L. 106–65, div. A, title XIII, § 1312, Oct. 5, 1999, 113 Stat. 796, as
 
 **Limitation on Use of Funds for Chemical Weapons Destruction Activities in Russia**
 
-Pub. L. 105–261, div. A, title XIII, § 1304, Oct. 17, 1998, 112 Stat. 2163, provided that:
+Pub. L. 105–261, div. A, title XIII, § 1304, Oct. 17, 1998, 112 Stat. 2163, provided that:
 
 > **“(a) Limitation.—** Subject to the limitation in section 1405(b) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1961), no funds authorized to be appropriated for Cooperative Threat Reduction programs under this Act [see Tables for classification] or any other Act may be obligated or expended for chemical weapons destruction activities in Russia (including activities for the planning, design, or construction of a chemical weapons destruction facility or for the dismantlement of an existing chemical weapons production facility) until the President submits to Congress a written certification described in subsection (b).
 
@@ -309,13 +309,13 @@ Pub. L. 105–261, div. A, title XIII, § 1304, Oct. 17, 1998, 112 Stat. 2163,
 
 Similar provisions were contained in the following prior authorization acts:
 
-Pub. L. 105–85, div. A, title XIV, § 1406, Nov. 18, 1997, 111 Stat. 1961.
+Pub. L. 105–85, div. A, title XIV, § 1406, Nov. 18, 1997, 111 Stat. 1961.
 
-Pub. L. 104–106, div. A, title XII, § 1209, Feb. 10, 1996, 110 Stat. 472.
+Pub. L. 104–106, div. A, title XII, § 1209, Feb. 10, 1996, 110 Stat. 472.
 
 **Congressional Reports on Cooperative Threat Reduction Programs**
 
-Pub. L. 104–106, div. A, title XII, §§ 1201, 1205, 1206, Feb. 10, 1996, 110 Stat. 469, 470, 471, as amended by Pub. L. 104–201, div. A, title XIV, § 1431, Sept. 23, 1996, 110 Stat. 2726; Pub. L. 106–65, div. A, title X, § 1067(6), title XIII, § 1311, Oct. 5, 1999, 113 Stat. 774, 796; Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308(g)(1)(C)], Oct. 30, 2000, 114 Stat. 1654, 1654A–343; Pub. L. 113–291, div. A, title XIII, § 1351(4), Dec. 19, 2014, 128 Stat. 3607, provided that:
+Pub. L. 104–106, div. A, title XII, §§ 1201, 1205, 1206, Feb. 10, 1996, 110 Stat. 469, 470, 471, as amended by Pub. L. 104–201, div. A, title XIV, § 1431, Sept. 23, 1996, 110 Stat. 2726; Pub. L. 106–65, div. A, title X, § 1067(6), title XIII, § 1311, Oct. 5, 1999, 113 Stat. 774, 796; Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308(g)(1)(C)], Oct. 30, 2000, 114 Stat. 1654, 1654A–343; Pub. L. 113–291, div. A, title XIII, § 1351(4), Dec. 19, 2014, 128 Stat. 3607, provided that:
 
 > **“SEC. 1201. SPECIFICATION OF COOPERATIVE THREAT REDUCTION PROGRAMS.**
 
@@ -333,15 +333,15 @@ Pub. L. 104–106, div. A, title XII, §§ 1201, 1205, 1206, Feb. 10, 1996, 11
 
 > **“[SEC. 1205.**
 
-> Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(4), Dec. 19, 2014, 128 Stat. 3607.]
+> Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(4), Dec. 19, 2014, 128 Stat. 3607.]
 
 > **“[SEC. 1206.**
 
-> Repealed. Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308(g)(1)(C)], Oct. 30, 2000, 114 Stat. 1654, 1654A–343.]”
+> Repealed. Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308(g)(1)(C)], Oct. 30, 2000, 114 Stat. 1654, 1654A–343.]”
 
 **Condition on Assistance to Russia for Construction of Plutonium Storage Facility**
 
-Pub. L. 103–160, div. A, title XVI, § 1612, Nov. 30, 1993, 107 Stat. 1850, provided:
+Pub. L. 103–160, div. A, title XVI, § 1612, Nov. 30, 1993, 107 Stat. 1850, provided:
 
 > **“(a) Limitation.—** Until a certification under subsection (b) is made, no funds may be obligated or expended by the United States for the purpose of assisting the Ministry of Atomic Energy of Russia to construct a storage facility for surplus plutonium from dismantled weapons.
 
@@ -357,65 +357,65 @@ Pub. L. 103–160, div. A, title XVI, § 1612, Nov. 30, 1993, 107 Stat. 1850, 
 
 [Memorandum of President of the United States, Mar. 10, 1994, 59 F.R. 14079, delegated to Secretary of State authority and duty of President under section 1612(b) and (d) of Public Law 103–160 set out above.]
 
-## §§ 5952, 5953. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3), Dec. 19, 2014, 128 Stat. 3607
+## §§ 5952, 5953. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3), Dec. 19, 2014, 128 Stat. 3607
 
-Section 5952, Pub. L. 103–160, div. A, title XII, § 1203, Nov. 30, 1993, 107 Stat. 1778; Pub. L. 107–314, div. A, title XIII, § 1306(c), formerly § 1306(e), Dec. 2, 2002, 116 Stat. 2673, renumbered § 1306(c), Pub. L. 109–163, div. A, title XIII, § 1303(2), Jan. 6, 2006, 119 Stat. 3474; Pub. L. 110–53, title XVIII, § 1811(2), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, § 1304(a)(2), Jan. 28, 2008, 122 Stat. 412, related to authority for programs to facilitate cooperative threat reduction.
+Section 5952, Pub. L. 103–160, div. A, title XII, § 1203, Nov. 30, 1993, 107 Stat. 1778; Pub. L. 107–314, div. A, title XIII, § 1306(c), formerly § 1306(e), Dec. 2, 2002, 116 Stat. 2673, renumbered § 1306(c), Pub. L. 109–163, div. A, title XIII, § 1303(2), Jan. 6, 2006, 119 Stat. 3474; Pub. L. 110–53, title XVIII, § 1811(2), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, § 1304(a)(2), Jan. 28, 2008, 122 Stat. 412, related to authority for programs to facilitate cooperative threat reduction.
 
-Section 5953, Pub. L. 103–160, div. A, title XII, § 1204, Nov. 30, 1993, 107 Stat. 1779, authorized designation of Demilitarization Enterprise Fund.
+Section 5953, Pub. L. 103–160, div. A, title XII, § 1204, Nov. 30, 1993, 107 Stat. 1779, authorized designation of Demilitarization Enterprise Fund.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Utilization of Contributions to the Cooperative Threat Reduction Program**
 
-Pub. L. 111–84, div. A, title XIII, § 1303, Oct. 28, 2009, 123 Stat. 2557, as amended by Pub. L. 113–66, div. A, title XIII, § 1303, Dec. 26, 2013, 127 Stat. 931, which authorized the Secretary of Defense, through Dec. 31, 2018, to enter into agreements with any person (including a foreign government, international organization, multinational entity, or any other entity) under which the person would contribute funds for activities conducted under the Cooperative Threat Reduction Program, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(12)(A), Dec. 19, 2014, 128 Stat. 3607.
+Pub. L. 111–84, div. A, title XIII, § 1303, Oct. 28, 2009, 123 Stat. 2557, as amended by Pub. L. 113–66, div. A, title XIII, § 1303, Dec. 26, 2013, 127 Stat. 931, which authorized the Secretary of Defense, through Dec. 31, 2018, to enter into agreements with any person (including a foreign government, international organization, multinational entity, or any other entity) under which the person would contribute funds for activities conducted under the Cooperative Threat Reduction Program, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(12)(A), Dec. 19, 2014, 128 Stat. 3607.
 
 **Cooperative Threat Reduction Defense and Military Contacts Program**
 
-Pub. L. 111–84, div. A, title XIII, § 1306(a), Oct. 28, 2009, 123 Stat. 2560, which set out standards for the administration of the Defense and Military Contacts Program under the Cooperative Threat Reduction Program, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(12)(C), Dec. 19, 2014, 128 Stat. 3607.
+Pub. L. 111–84, div. A, title XIII, § 1306(a), Oct. 28, 2009, 123 Stat. 2560, which set out standards for the administration of the Defense and Military Contacts Program under the Cooperative Threat Reduction Program, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(12)(C), Dec. 19, 2014, 128 Stat. 3607.
 
 **Limited Waiver of Restrictions on Use of Funds for Threat Reduction in States of the Former Soviet Union**
 
-Pub. L. 107–314, div. A, title XIII, § 1306(a)–(d), Dec. 2, 2002, 116 Stat. 2673, as amended by Pub. L. 109–163, div. A, title XIII, § 1303(1), Jan. 6, 2006, 119 Stat. 3474, which authorized the President to waive the restrictions and eligibility requirements set out in former section 5952(d) of this title for the obligation and expenditure of funds under that section for assistance to an independent state of the former Soviet Union, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(10), Dec. 19, 2014, 128 Stat. 3607.
+Pub. L. 107–314, div. A, title XIII, § 1306(a)–(d), Dec. 2, 2002, 116 Stat. 2673, as amended by Pub. L. 109–163, div. A, title XIII, § 1303(1), Jan. 6, 2006, 119 Stat. 3474, which authorized the President to waive the restrictions and eligibility requirements set out in former section 5952(d) of this title for the obligation and expenditure of funds under that section for assistance to an independent state of the former Soviet Union, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(10), Dec. 19, 2014, 128 Stat. 3607.
 
 **Requirement To Consider Use of Revenue Generated by Activities Carried Out Under Cooperative Threat Reduction Programs**
 
-Pub. L. 107–107, div. A, title XIII, § 1304, Dec. 28, 2001, 115 Stat. 1255, which required that the Secretary of Defense consider the use of revenue generated by activities carried out under Cooperative Threat Reduction programs in negotiating and executing contracts with Russia to carry out such programs, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(9), Dec. 19, 2014, 128 Stat. 3607.
+Pub. L. 107–107, div. A, title XIII, § 1304, Dec. 28, 2001, 115 Stat. 1255, which required that the Secretary of Defense consider the use of revenue generated by activities carried out under Cooperative Threat Reduction programs in negotiating and executing contracts with Russia to carry out such programs, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(9), Dec. 19, 2014, 128 Stat. 3607.
 
 **Limitation on Use of Funds for Certain Purposes**
 
-Pub. L. 107–314, div. A, title XIII, § 1305, Dec. 2, 2002, 116 Stat. 2673, which prohibited the use of funds appropriated for Cooperative Threat Reduction programs for the design, planning, or construction of a second wing for a storage facility for Russian fissile material, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(10), Dec. 19, 2014, 128 Stat. 3607.
+Pub. L. 107–314, div. A, title XIII, § 1305, Dec. 2, 2002, 116 Stat. 2673, which prohibited the use of funds appropriated for Cooperative Threat Reduction programs for the design, planning, or construction of a second wing for a storage facility for Russian fissile material, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(10), Dec. 19, 2014, 128 Stat. 3607.
 
-Pub. L. 106–398, § 1 [[div. A], title XIII, § 1303], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, which prohibited the obligation or expenditure of funds appropriated for Cooperative Threat Reduction programs for the elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(8)(A), Dec. 19, 2014, 128 Stat. 3607.
+Pub. L. 106–398, § 1 [[div. A], title XIII, § 1303], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, which prohibited the obligation or expenditure of funds appropriated for Cooperative Threat Reduction programs for the elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(8)(A), Dec. 19, 2014, 128 Stat. 3607.
 
-Pub. L. 106–398, § 1 [[div. A], title XIII, § 1304], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, § 1305(b), Dec. 28, 2001, 115 Stat. 1255, which limited the use of funds appropriated for Cooperative Threat Reduction programs for the planning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (114 Stat. 1654–339) to not more than $412,600,000, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(8)(A), Dec. 19, 2014, 128 Stat. 3607.
+Pub. L. 106–398, § 1 [[div. A], title XIII, § 1304], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, § 1305(b), Dec. 28, 2001, 115 Stat. 1255, which limited the use of funds appropriated for Cooperative Threat Reduction programs for the planning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (114 Stat. 1654–339) to not more than $412,600,000, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(8)(A), Dec. 19, 2014, 128 Stat. 3607.
 
 **Requirement To Submit Summary of Amounts Requested by Project Category**
 
-Pub. L. 105–261, div. A, title XIII, § 1307, Oct. 17, 1998, 112 Stat. 2165, as amended by Pub. L. 108–375, div. A, title XIII, § 1304, Oct. 28, 2004, 118 Stat. 2094, which required that the Secretary of Defense submit to Congress an annual descriptive summary of the appropriations requested for Cooperative Threat Reduction programs and the obligation or expenditure of such appropriations for the previous fiscal year, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(6), Dec. 19, 2014, 128 Stat. 3607.
+Pub. L. 105–261, div. A, title XIII, § 1307, Oct. 17, 1998, 112 Stat. 2165, as amended by Pub. L. 108–375, div. A, title XIII, § 1304, Oct. 28, 2004, 118 Stat. 2094, which required that the Secretary of Defense submit to Congress an annual descriptive summary of the appropriations requested for Cooperative Threat Reduction programs and the obligation or expenditure of such appropriations for the previous fiscal year, was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(6), Dec. 19, 2014, 128 Stat. 3607.
 
-## § 5954. Funding for fiscal year 1994
+## § 5954. Funding for fiscal year 1994
 
 **(a) Authorization of appropriations**
 
-Funds authorized to be appropriated under section 301(21) 1
+Funds authorized to be appropriated under section 301(21) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be available for cooperative threat reduction with states of the former Soviet Union under this chapter.
 
 **(b) Limitations**
 
-**(1)** Not more than $15,000,000 of the funds referred to in subsection (a) may be made available for programs authorized in subsection (b)(6) of section 5952 <sup>1</sup> of this title.
+**(1)** Not more than $15,000,000 of the funds referred to in subsection (a) may be made available for programs authorized in subsection (b)(6) of section 5952 <sup>1</sup> of this title.
 
-**(2)** Not more than $20,000,000 of such funds may be made available for programs authorized in subsection (b)(7) of section 5952 <sup>1</sup> of this title.
+**(2)** Not more than $20,000,000 of such funds may be made available for programs authorized in subsection (b)(7) of section 5952 <sup>1</sup> of this title.
 
-**(3)** Not more than $40,000,000 of such funds may be made available for grants to the Demilitarization Enterprise Fund designated pursuant to section 5953 <sup>1</sup> of this title and for related administrative expenses.
+**(3)** Not more than $40,000,000 of such funds may be made available for grants to the Demilitarization Enterprise Fund designated pursuant to section 5953 <sup>1</sup> of this title and for related administrative expenses.
 
 **(c) Authorization of extension of availability of prior year funds**
 
 To the extent provided in appropriations Acts, the authority to transfer funds of the Department of Defense provided in section 9110(a) of the Department of Defense Appropriations Act, 1993 (Public Law 102–396; 106 Stat. 1928), and in section 108 of Public Law 102–229 (105 Stat. 1708) shall continue to be in effect during fiscal year 1994.
 
-(Pub. L. 103–160, div. A, title XII, § 1205, Nov. 30, 1993, 107 Stat. 1781.)
+(Pub. L. 103–160, div. A, title XII, § 1205, Nov. 30, 1993, 107 Stat. 1781.)
 
 **Editorial Notes**
 
@@ -423,25 +423,25 @@ To the extent provided in appropriations Acts, the authority to transfer funds o
 
 Section 301(21), referred to in subsec. (a), means section 301(21) of Pub. L. 103–160, div. A, title III, Nov. 30, 1993, 107 Stat. 1616, which is not classified to the Code.
 
-Sections 5952 and 5953 of this title, referred to in subsec. (b), were repealed by Pub. L. 113–291, div. A, title XIII, § 1351(3), Dec. 19, 2014, 128 Stat. 3607.
+Sections 5952 and 5953 of this title, referred to in subsec. (b), were repealed by Pub. L. 113–291, div. A, title XIII, § 1351(3), Dec. 19, 2014, 128 Stat. 3607.
 
 Section 9110(a) of the Department of Defense Appropriations Act, 1993, referred to in subsec. (c), is section 9110(a) of Pub. L. 102–396, title IX, Oct. 6, 1992, 106 Stat. 1928, which is not classified to the Code.
 
 Section 108 of Public Law 102–229, referred to in subsec. (c), is section 108 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, which is not classified to the Code.
 
-## § 5955. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3), Dec. 19, 2014, 128 Stat. 3607
+## § 5955. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3), Dec. 19, 2014, 128 Stat. 3607
 
-Section, Pub. L. 103–160, div. A, title XII, § 1206, Nov. 30, 1993, 107 Stat. 1781, related to prior notice to Congress of obligation of funds for cooperative threat reduction programs.
+Section, Pub. L. 103–160, div. A, title XII, § 1206, Nov. 30, 1993, 107 Stat. 1781, related to prior notice to Congress of obligation of funds for cooperative threat reduction programs.
 
-## § 5956. Repealed. Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308(g)(1)(A)], Oct. 30, 2000, 114 Stat. 1654, 1654A–343
+## § 5956. Repealed. Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308(g)(1)(A)], Oct. 30, 2000, 114 Stat. 1654, 1654A–343
 
-Section, Pub. L. 103–160, div. A, title XII, § 1207, Nov. 30, 1993, 107 Stat. 1782; Pub. L. 103–337, div. A, title XII, §§ 1202, 1208(b), Oct. 5, 1994, 108 Stat. 2882, 2887; Pub. L. 104–106, div. A, title XV, § 1504(a)(7), Feb. 10, 1996, 110 Stat. 513, required submission of semiannual report.
+Section, Pub. L. 103–160, div. A, title XII, § 1207, Nov. 30, 1993, 107 Stat. 1782; Pub. L. 103–337, div. A, title XII, §§ 1202, 1208(b), Oct. 5, 1994, 108 Stat. 2882, 2887; Pub. L. 104–106, div. A, title XV, § 1504(a)(7), Feb. 10, 1996, 110 Stat. 513, required submission of semiannual report.
 
-## § 5957. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3), Dec. 19, 2014, 128 Stat. 3607
+## § 5957. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3), Dec. 19, 2014, 128 Stat. 3607
 
-Section, Pub. L. 103–160, div. A, title XII, § 1208, Nov. 30, 1993, 107 Stat. 1782, defined “appropriate congressional committees” for this chapter.
+Section, Pub. L. 103–160, div. A, title XII, § 1208, Nov. 30, 1993, 107 Stat. 1782, defined “appropriate congressional committees” for this chapter.
 
-## § 5958. Authorization for additional fiscal year 1993 assistance to independent states of the former Soviet Union
+## § 5958. Authorization for additional fiscal year 1993 assistance to independent states of the former Soviet Union
 
 **(a) Authorization of appropriations**
 
@@ -463,7 +463,7 @@ There is hereby authorized to be appropriated for fiscal year 1993 for “Operat
 
 The President shall coordinate the programs described in subsection (b) with those authorized in the other provisions of this chapter and in the provisions of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (Public Law 102–511) so as to optimize the contribution such programs make to the national interests of the United States.
 
-(Pub. L. 103–160, div. A, title XII, § 1209, Nov. 30, 1993, 107 Stat. 1782.)
+(Pub. L. 103–160, div. A, title XII, § 1209, Nov. 30, 1993, 107 Stat. 1782.)
 
 **Editorial Notes**
 
@@ -471,17 +471,17 @@ The President shall coordinate the programs described in subsection (b) with tho
 
 The Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (d), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-## § 5959. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(8)(C), Dec. 19, 2014, 128 Stat. 3607
+## § 5959. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(8)(C), Dec. 19, 2014, 128 Stat. 3607
 
-Section, Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308], Oct. 30, 2000, 114 Stat. 1654, 1654A–341; Pub. L. 107–107, div. A, title XIII, §§ 1307, 1309, Dec. 28, 2001, 115 Stat. 1256, 1257; Pub. L. 107–314, div. A, title XIII, § 1304(a), Dec. 2, 2002, 116 Stat. 2672; Pub. L. 108–136, div. A, title X, § 1045(c)(2), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 109–163, div. A, title XIII, § 1305, Jan. 6, 2006, 119 Stat. 3474; Pub. L. 111–84, div. A, title XIII, § 1306(b), Oct. 28, 2009, 123 Stat. 2560; Pub. L. 111–383, div. A, title X, § 1075(d)(20), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 112–81, div. A, title X, § 1066(d), Dec. 31, 2011, 125 Stat. 1589, required reports on activities and assistance under cooperative threat reduction programs.
+Section, Pub. L. 106–398, § 1 [[div. A], title XIII, § 1308], Oct. 30, 2000, 114 Stat. 1654, 1654A–341; Pub. L. 107–107, div. A, title XIII, §§ 1307, 1309, Dec. 28, 2001, 115 Stat. 1256, 1257; Pub. L. 107–314, div. A, title XIII, § 1304(a), Dec. 2, 2002, 116 Stat. 2672; Pub. L. 108–136, div. A, title X, § 1045(c)(2), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 109–163, div. A, title XIII, § 1305, Jan. 6, 2006, 119 Stat. 3474; Pub. L. 111–84, div. A, title XIII, § 1306(b), Oct. 28, 2009, 123 Stat. 2560; Pub. L. 111–383, div. A, title X, § 1075(d)(20), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 112–81, div. A, title X, § 1066(d), Dec. 31, 2011, 125 Stat. 1589, required reports on activities and assistance under cooperative threat reduction programs.
 
-## §§ 5960, 5961. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(11), Dec. 19, 2014, 128 Stat. 3607
+## §§ 5960, 5961. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(11), Dec. 19, 2014, 128 Stat. 3607
 
-Section 5960, Pub. L. 108–136, div. A, title XIII, § 1303, Nov. 24, 2003, 117 Stat. 1659, related to limitation on use of funds for Cooperative Threat Reduction programs until certain permits obtained.
+Section 5960, Pub. L. 108–136, div. A, title XIII, § 1303, Nov. 24, 2003, 117 Stat. 1659, related to limitation on use of funds for Cooperative Threat Reduction programs until certain permits obtained.
 
-Section 5961, Pub. L. 108–136, div. A, title XIII, § 1305, Nov. 24, 2003, 117 Stat. 1660, related to requirement to appoint on-site managers before obligating any Cooperative Threat Reduction funds for certain projects.
+Section 5961, Pub. L. 108–136, div. A, title XIII, § 1305, Nov. 24, 2003, 117 Stat. 1660, related to requirement to appoint on-site managers before obligating any Cooperative Threat Reduction funds for certain projects.
 
-## § 5961a. Requirement for on-site managers
+## § 5961a. Requirement for on-site managers
 
 **(a) On-site manager requirement**
 
@@ -531,7 +531,7 @@ In this section, the term “permit” means any local or national permit for de
 
 This section shall take effect six months after November 24, 2003.
 
-(Pub. L. 108–136, div. C, title XXXI, § 3125, Nov. 24, 2003, 117 Stat. 1748.)
+(Pub. L. 108–136, div. C, title XXXI, § 3125, Nov. 24, 2003, 117 Stat. 1748.)
 
 **Editorial Notes**
 
@@ -539,14 +539,14 @@ This section shall take effect six months after November 24, 2003.
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
 
-## §§ 5962, 5963. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(11), Dec. 19, 2014, 128 Stat. 3607
+## §§ 5962, 5963. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(11), Dec. 19, 2014, 128 Stat. 3607
 
-Section 5962, Pub. L. 108–136, div. A, title XIII, § 1307, Nov. 24, 2003, 117 Stat. 1661, related to annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities.
+Section 5962, Pub. L. 108–136, div. A, title XIII, § 1307, Nov. 24, 2003, 117 Stat. 1661, related to annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities.
 
-Section 5963, Pub. L. 108–136, div. A, title XIII, § 1308, Nov. 24, 2003, 117 Stat. 1662; Pub. L. 110–53, title XVIII, § 1811(4), Aug. 3, 2007, 121 Stat. 493; Pub. L. 110–181, div. A, title XIII, § 1305, Jan. 28, 2008, 122 Stat. 413, related to authority to use Cooperative Threat Reduction funds outside the former Soviet Union.
+Section 5963, Pub. L. 108–136, div. A, title XIII, § 1308, Nov. 24, 2003, 117 Stat. 1662; Pub. L. 110–53, title XVIII, § 1811(4), Aug. 3, 2007, 121 Stat. 493; Pub. L. 110–181, div. A, title XIII, § 1305, Jan. 28, 2008, 122 Stat. 413, related to authority to use Cooperative Threat Reduction funds outside the former Soviet Union.
 
-## §§ 5964, 5965. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(12)(B), Dec. 19, 2014, 128 Stat. 3607
+## §§ 5964, 5965. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(12)(B), Dec. 19, 2014, 128 Stat. 3607
 
-Section 5964, Pub. L. 111–84, div. A, title XIII, § 1304, Oct. 28, 2009, 123 Stat. 2558, related to metrics for the Cooperative Threat Reduction Program.
+Section 5964, Pub. L. 111–84, div. A, title XIII, § 1304, Oct. 28, 2009, 123 Stat. 2558, related to metrics for the Cooperative Threat Reduction Program.
 
-Section 5965, Pub. L. 111–84, div. A, title XIII, § 1305, Oct. 28, 2009, 123 Stat. 2559, related to Cooperative Threat Reduction Program authority for urgent threat reduction activities.
+Section 5965, Pub. L. 111–84, div. A, title XIII, § 1305, Oct. 28, 2009, 123 Stat. 2559, related to Cooperative Threat Reduction Program authority for urgent threat reduction activities.

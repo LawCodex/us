@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 20—EDUCATION
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—OFFICE OF EDUCATION](chapter-001-office-of-education.md)
 

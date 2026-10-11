@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 35—ENDANGERED SPECIES
 
-## § 1531. Congressional findings and declaration of purposes and policy
+## § 1531. Congressional findings and declaration of purposes and policy
 
 **(a) Findings** The Congress finds and declares that—
 
@@ -53,7 +53,7 @@ The purposes of this chapter are to provide a means whereby the ecosystems upon 
 
 **(2)** It is further declared to be the policy of Congress that Federal agencies shall cooperate with State and local agencies to resolve water resource issues in concert with conservation of endangered species.
 
-(Pub. L. 93–205, § 2, Dec. 28, 1973, 87 Stat. 884; Pub. L. 96–159, § 1, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, § 9(a), Oct. 13, 1982, 96 Stat. 1426; Pub. L. 100–478, title I, § 1013(a), Oct. 7, 1988, 102 Stat. 2315.)
+(Pub. L. 93–205, § 2, Dec. 28, 1973, 87 Stat. 884; Pub. L. 96–159, § 1, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, § 9(a), Oct. 13, 1982, 96 Stat. 1426; Pub. L. 100–478, title I, § 1013(a), Oct. 7, 1988, 102 Stat. 2315.)
 
 **Editorial Notes**
 
@@ -63,7 +63,7 @@ This chapter, referred to in subsecs. (b) and (c)(1), was in the original “thi
 
 **Amendments**
 
-1988—Subsec. (a)(4)(G). Pub. L. 100–478 substituted “; and” for period at end.
+1988—Subsec. (a)(4)(G). Pub. L. 100–478 substituted “; and” for period at end.
 
 1982—Subsec. (c). Pub. L. 97–304 designated existing provisions as par. (1) and added par. (2).
 
@@ -73,23 +73,23 @@ This chapter, referred to in subsecs. (b) and (c)(1), was in the original “thi
 
 **Effective Date**
 
-Pub. L. 93–205, § 16, Dec. 28, 1973, 87 Stat. 903, provided that: “This Act [enacting this chapter, amending sections 460k–1, 460*l*–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section] shall take effect on the date of its enactment [Dec. 28, 1973].”
+Pub. L. 93–205, § 16, Dec. 28, 1973, 87 Stat. 903, provided that: “This Act [enacting this chapter, amending sections 460k–1, 460*l*–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section] shall take effect on the date of its enactment [Dec. 28, 1973].”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–304, § 1, Oct. 13, 1982, 96 Stat. 1411, provided: “That this Act [amending this section and sections 1532, 1533, 1535, 1536, 1537a, 1538, 1539, 1540, and 1542 of this title and enacting provisions set out as notes under sections 1533, 1537a, and 1539 of this title] may be cited as the ‘Endangered Species Act Amendments of 1982’.”
+Pub. L. 97–304, § 1, Oct. 13, 1982, 96 Stat. 1411, provided: “That this Act [amending this section and sections 1532, 1533, 1535, 1536, 1537a, 1538, 1539, 1540, and 1542 of this title and enacting provisions set out as notes under sections 1533, 1537a, and 1539 of this title] may be cited as the ‘Endangered Species Act Amendments of 1982’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–632, § 1, Nov. 10, 1978, 92 Stat. 3751, provided: “That this Act [amending sections 1532 to 1536, 1538 to 1540, and 1542 of this title] may be cited as the ‘Endangered Species Act Amendments of 1978’.”
+Pub. L. 95–632, § 1, Nov. 10, 1978, 92 Stat. 3751, provided: “That this Act [amending sections 1532 to 1536, 1538 to 1540, and 1542 of this title] may be cited as the ‘Endangered Species Act Amendments of 1978’.”
 
 **Short Title**
 
-Pub. L. 93–205, § 1, Dec. 28, 1973, 87 Stat. 884, provided: “That this Act [enacting this chapter, amending sections 460k–1, 460*l*–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Endangered Species Act of 1973’.”
+Pub. L. 93–205, § 1, Dec. 28, 1973, 87 Stat. 884, provided: “That this Act [enacting this chapter, amending sections 460k–1, 460*l*–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Endangered Species Act of 1973’.”
 
 **Wildlife Management and Working Lands for Wildlife Conservation Model**
 
-Pub. L. 115–334, title II, § 2407, Dec. 20, 2018, 132 Stat. 4573, provided that:
+Pub. L. 115–334, title II, § 2407, Dec. 20, 2018, 132 Stat. 4573, provided that:
 
 > **“(a) In General.—** The Secretary [of Agriculture] and the Secretary of the Interior shall continue to carry out the Working Lands for Wildlife model of conservation on working landscapes, as implemented on the day before the date of enactment of this Act [Dec. 20, 2018], in accordance with—
 
@@ -107,13 +107,13 @@ Pub. L. 115–334, title II, § 2407, Dec. 20, 2018, 132 Stat. 4573, provided 
 
 **Relationship to Endangered Species Act of 1973**
 
-Pub. L. 102–251, title III, § 305, Mar. 9, 1992, 106 Stat. 66, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The special areas defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
+Pub. L. 102–251, title III, § 305, Mar. 9, 1992, 106 Stat. 66, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The special areas defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
 
 **Executive Documents**
 
 **Minimization of Conflicts With Recreational Fisheries**
 
-For provision that all Federal agencies minimize conflicts between recreational fisheries and administration of this chapter, see Ex. Ord. No. 12962, § 4, June 7, 1995, 60 F.R. 30770, set out as a note under section 1801 of this title.
+For provision that all Federal agencies minimize conflicts between recreational fisheries and administration of this chapter, see Ex. Ord. No. 12962, § 4, June 7, 1995, 60 F.R. 30770, set out as a note under section 1801 of this title.
 
 **Ex. Ord. No. 13648. Combating Wildlife Trafficking**
 
@@ -211,7 +211,7 @@ Barack Obama.
 
 Term of Advisory Council on Wildlife Trafficking extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-## § 1532. Definitions
+## § 1532. Definitions
 
 For the purposes of this chapter—
 
@@ -253,7 +253,7 @@ For the purposes of this chapter—
 
 **(10)** The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
-**(11)** Repealed. Pub. L. 97–304, § 4(b), Oct. 13, 1982, 96 Stat. 1420.
+**(11)** Repealed. Pub. L. 97–304, § 4(b), Oct. 13, 1982, 96 Stat. 1420.
 
 **(12)** The term “permit or license applicant” means, when used with respect to an action of a Federal agency for which exemption is sought under section 1536 of this title, any person whose application to such agency for a permit or license has been denied primarily because of the application of section 1536(a) of this title to such agency action.
 
@@ -275,7 +275,7 @@ For the purposes of this chapter—
 
 **(21)** The term “United States”, when used in a geographical context, includes all States.
 
-(Pub. L. 93–205, § 3, Dec. 28, 1973, 87 Stat. 885; Pub. L. 94–359, § 5, July 12, 1976, 90 Stat. 913; Pub. L. 95–632, § 2, Nov. 10, 1978, 92 Stat. 3751; Pub. L. 96–159, § 2, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, § 4(b), Oct. 13, 1982, 96 Stat. 1420; Pub. L. 100–478, title I, § 1001, Oct. 7, 1988, 102 Stat. 2306.)
+(Pub. L. 93–205, § 3, Dec. 28, 1973, 87 Stat. 885; Pub. L. 94–359, § 5, July 12, 1976, 90 Stat. 913; Pub. L. 95–632, § 2, Nov. 10, 1978, 92 Stat. 3751; Pub. L. 96–159, § 2, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, § 4(b), Oct. 13, 1982, 96 Stat. 1420; Pub. L. 100–478, title I, § 1001, Oct. 7, 1988, 102 Stat. 2306.)
 
 **Editorial Notes**
 
@@ -287,37 +287,37 @@ Reorganization Plan Numbered 4 of 1970, referred to in par. (15), is Reorg. Plan
 
 **Amendments**
 
-1988—Par. (13). Pub. L. 100–478, § 1001(a), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “The term ‘person’ means an individual, corporation, partnership, trust, association, or any other private entity, or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.”
+1988—Par. (13). Pub. L. 100–478, § 1001(a), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “The term ‘person’ means an individual, corporation, partnership, trust, association, or any other private entity, or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.”
 
-Par. (15). Pub. L. 100–478, § 1001(b), inserted “also” before “means the Secretary of Agriculture”.
+Par. (15). Pub. L. 100–478, § 1001(b), inserted “also” before “means the Secretary of Agriculture”.
 
 1982—Par. (11). Pub. L. 97–304 struck out par. (11) which defined “irresolvable conflict” as, with respect to any action authorized, funded, or carried out by a Federal agency, a set of circumstances under which, after consultation as required in section 1536(a) of this title, completion of such action would violate section 1536(a)(2) of this title.
 
 1979—Par. (11). Pub. L. 96–159 substituted “action would violate section 1536(a)(2) of this title” for “action would (A) jeopardize the continued existence of an endangered or threatened species, or (B) result in the adverse modification or destruction of a critical habitat”.
 
-1978—Pars. (1) to (4). Pub. L. 95–632, § 2(1), (7), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (6).
+1978—Pars. (1) to (4). Pub. L. 95–632, § 2(1), (7), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (6).
 
-Par. (5). Pub. L. 95–632, § 2(2), (7), added par. (5). Former par. (5) redesignated (8).
+Par. (5). Pub. L. 95–632, § 2(2), (7), added par. (5). Former par. (5) redesignated (8).
 
-Par. (6). Pub. L. 95–632, § 2(7), redesignated former par. (4) as (6). Former par. (6) redesignated (9).
+Par. (6). Pub. L. 95–632, § 2(7), redesignated former par. (4) as (6). Former par. (6) redesignated (9).
 
-Par. (7). Pub. L. 95–632, § 2(3), (7), added par. (7). Former par. (7) redesignated (10).
+Par. (7). Pub. L. 95–632, § 2(3), (7), added par. (7). Former par. (7) redesignated (10).
 
-Pars. (8) to (10). Pub. L. 95–632, § 2(7), redesignated former pars. (5) to (7) as (8) to (10), respectively. Former pars. (8) to (10) redesignated (13) to (15), respectively.
+Pars. (8) to (10). Pub. L. 95–632, § 2(7), redesignated former pars. (5) to (7) as (8) to (10), respectively. Former pars. (8) to (10) redesignated (13) to (15), respectively.
 
-Pars. (11), (12). Pub. L. 95–632, § 2(4), (7), added pars. (11) and (12). Former pars. (11) and (12) redesignated (16) and (17), respectively.
+Pars. (11), (12). Pub. L. 95–632, § 2(4), (7), added pars. (11) and (12). Former pars. (11) and (12) redesignated (16) and (17), respectively.
 
-Pars. (13) to (15). Pub. L. 95–632, § 2(7), redesignated former pars. (8) to (10) as (13) to (15), respectively. Former pars. (13) to (15) redesignated as (18) to (20), respectively.
+Pars. (13) to (15). Pub. L. 95–632, § 2(7), redesignated former pars. (8) to (10) as (13) to (15), respectively. Former pars. (13) to (15) redesignated as (18) to (20), respectively.
 
-Par. (16). Pub. L. 95–632, § 2(5), (7), redesignated former par. (11) as (16) and substituted “and any distinct population segment of any species of vertebrate fish or wildlife which interbreeds when mature” for “and any other group of fish or wildlife of the same species or smaller taxa in common spatial arrangement that interbreed when mature”. Former par. (16) redesignated (21).
+Par. (16). Pub. L. 95–632, § 2(5), (7), redesignated former par. (11) as (16) and substituted “and any distinct population segment of any species of vertebrate fish or wildlife which interbreeds when mature” for “and any other group of fish or wildlife of the same species or smaller taxa in common spatial arrangement that interbreed when mature”. Former par. (16) redesignated (21).
 
-Par. (17). Pub. L. 95–632, § 2(7), redesignated former par. (12) as (17).
+Par. (17). Pub. L. 95–632, § 2(7), redesignated former par. (12) as (17).
 
-Par. (18). Pub. L. 95–632, § 2(6), (7), redesignated former par. (13) as (18) and substituted “fish, plant, or wildlife” for “fish or wildlife”.
+Par. (18). Pub. L. 95–632, § 2(6), (7), redesignated former par. (13) as (18) and substituted “fish, plant, or wildlife” for “fish or wildlife”.
 
-Pars. (19) to (21). Pub. L. 95–632, § 2(7), redesignated pars. (14) to (16) as (19) to (21), respectively.
+Pars. (19) to (21). Pub. L. 95–632, § 2(7), redesignated pars. (14) to (16) as (19) to (21), respectively.
 
-1976—Par. (1). Pub. L. 94–359 inserted “: *Provided, however*, That it does not include exhibition of commodities by museums or similar cultural or historical organizations.” after “facilitating such buying and selling”.
+1976—Par. (1). Pub. L. 94–359 inserted “: *Provided, however*, That it does not include exhibition of commodities by museums or similar cultural or historical organizations.” after “facilitating such buying and selling”.
 
 **Executive Documents**
 
@@ -325,7 +325,7 @@ Pars. (19) to (21). Pub. L. 95–632, § 2(7), redesignated pars. (14) to (16)
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 1533. Determination of endangered species and threatened species
+## § 1533. Determination of endangered species and threatened species
 
 **(a) Generally**
 
@@ -415,9 +415,9 @@ in which case the Secretary shall promptly publish such finding in the Federal R
 
 **(ii)** Any negative finding described in subparagraph (A) and any finding described in subparagraph (B)(i) or (iii) shall be subject to judicial review.
 
-**(iii)** The Secretary shall implement a system to monitor effectively the status of all species with respect to which a finding is made under subparagraph (B)(iii) and shall make prompt use of the authority under paragraph 7 1
+**(iii)** The Secretary shall implement a system to monitor effectively the status of all species with respect to which a finding is made under subparagraph (B)(iii) and shall make prompt use of the authority under paragraph 7 1
 
-<sup>1</sup>  So in original. Probably should be paragraph “(7)”.
+<sup>1</sup> So in original. Probably should be paragraph “(7)”.
 
 to prevent a significant risk to the well being of any such species.
 
@@ -545,7 +545,7 @@ Whenever any species is listed as a threatened species pursuant to subsection (c
 
 **(1)** The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c).
 
-**(2)** The Secretary shall make prompt use of the authority under paragraph 7 <sup>1</sup> of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
+**(2)** The Secretary shall make prompt use of the authority under paragraph 7 <sup>1</sup> of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
 
 **(h) Agency guidelines; publication in Federal Register; scope; proposals and amendments: notice and opportunity for comments** The Secretary shall establish, and publish in the Federal Register, agency guidelines to insure that the purposes of this section are achieved efficiently and effectively. Such guidelines shall include, but are not limited to—
 
@@ -563,7 +563,7 @@ The Secretary shall provide to the public notice of, and opportunity to submit w
 
 If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency’s comments or petition.
 
-(Pub. L. 93–205, § 4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, § 1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§ 11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, § 3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, § 2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§ 1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, § 318, Nov. 24, 2003, 117 Stat. 1433; Pub. L. 117–286, § 4(a)(113), Dec. 27, 2022, 136 Stat. 4318.)
+(Pub. L. 93–205, § 4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, § 1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§ 11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, § 3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, § 2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§ 1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, § 318, Nov. 24, 2003, 117 Stat. 1433; Pub. L. 117–286, § 4(a)(113), Dec. 27, 2022, 136 Stat. 4318.)
 
 **Editorial Notes**
 
@@ -577,75 +577,75 @@ This chapter, referred to in subsecs. (b)(4), (8), (e)(C), and (g)(1), was in th
 
 2022—Subsec. (f)(2). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
-2003—Subsec. (a)(3). Pub. L. 108–136, § 318(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+2003—Subsec. (a)(3). Pub. L. 108–136, § 318(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
-Subsec. (b)(2). Pub. L. 108–136, § 318(b), inserted “the impact on national security,” after “the economic impact,”.
+Subsec. (b)(2). Pub. L. 108–136, § 318(b), inserted “the impact on national security,” after “the economic impact,”.
 
-1988—Subsec. (b)(3)(C)(iii). Pub. L. 100–478, § 1002(a), added subcl. (iii).
+1988—Subsec. (b)(3)(C)(iii). Pub. L. 100–478, § 1002(a), added subcl. (iii).
 
-Subsec. (e). Pub. L. 100–478, § 1002(b), substituted “regulation of commerce or taking,” for “regulation,” in introductory provisions.
+Subsec. (e). Pub. L. 100–478, § 1002(b), substituted “regulation of commerce or taking,” for “regulation,” in introductory provisions.
 
-Subsec. (f). Pub. L. 100–478, § 1003, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall develop and implement plans (hereinafter in this subsection referred to as ‘recovery plans’) for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2) may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.”
+Subsec. (f). Pub. L. 100–478, § 1003, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall develop and implement plans (hereinafter in this subsection referred to as ‘recovery plans’) for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2) may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.”
 
-Subsecs. (g) to (i). Pub. L. 100–478, § 1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (i). Pub. L. 100–478, § 1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-1982—Subsec. (a)(1). Pub. L. 97–304, § 2(a)(1)(B), (D), inserted “promulgated in accordance with subsection (b)” after “shall by regulation” in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
+1982—Subsec. (a)(1). Pub. L. 97–304, § 2(a)(1)(B), (D), inserted “promulgated in accordance with subsection (b)” after “shall by regulation” in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
 
-Subsec. (a)(1)(A). Pub. L. 97–304, § 2(a)(1)(A), redesignated subpar. (1) as (A).
+Subsec. (a)(1)(A). Pub. L. 97–304, § 2(a)(1)(A), redesignated subpar. (1) as (A).
 
-Subsec. (a)(1)(B). Pub. L. 97–304, § 2(a)(1)(A), (C), redesignated subpar. (2) as (B) and substituted “recreational,” for “sporting,”.
+Subsec. (a)(1)(B). Pub. L. 97–304, § 2(a)(1)(A), (C), redesignated subpar. (2) as (B) and substituted “recreational,” for “sporting,”.
 
-Subsec. (a)(1)(C) to (E). Pub. L. 97–304, § 2(a)(1)(A), redesignated subpars. (3), (4), and (5) as (C), (D), and (E), respectively.
+Subsec. (a)(1)(C) to (E). Pub. L. 97–304, § 2(a)(1)(A), redesignated subpars. (3), (4), and (5) as (C), (D), and (E), respectively.
 
-Subsec. (a)(3). Pub. L. 97–304, § 2(a)(1)(E), added par. (3).
+Subsec. (a)(3). Pub. L. 97–304, § 2(a)(1)(E), added par. (3).
 
-Subsec. (b). Pub. L. 97–304, § 2(a)(2), completely revised subsec. (b) by, among other changes, requiring the Secretary to base determinations regarding the listing or delisting of species “solely” on the basis of the best scientific and commercial data available, streamlining the listing process by reducing the time periods for rulemaking, consolidating public meetings and hearing requirements, and establishing virtually identical procedures for the listing and delisting of species and for the designation of critical habitat, and altering the evidentiary standard which petitioners must satisfy to warrant a status review of the species proposed for listing or delisting.
+Subsec. (b). Pub. L. 97–304, § 2(a)(2), completely revised subsec. (b) by, among other changes, requiring the Secretary to base determinations regarding the listing or delisting of species “solely” on the basis of the best scientific and commercial data available, streamlining the listing process by reducing the time periods for rulemaking, consolidating public meetings and hearing requirements, and establishing virtually identical procedures for the listing and delisting of species and for the designation of critical habitat, and altering the evidentiary standard which petitioners must satisfy to warrant a status review of the species proposed for listing or delisting.
 
-Subsec. (c)(1). Pub. L. 97–304, § 2(a)(3)(A), struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted at end “The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b).”
+Subsec. (c)(1). Pub. L. 97–304, § 2(a)(3)(A), struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted at end “The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b).”
 
-Subsec. (c)(2). Pub. L. 97–304, § 2(a)(3)(B), (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under section 553(e) of title 5, to conduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
+Subsec. (c)(2). Pub. L. 97–304, § 2(a)(3)(B), (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under section 553(e) of title 5, to conduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
 
-Subsec. (c)(3). Pub. L. 97–304, § 2(a)(3)(B), struck out par. (3) which had provided that any list in effect on Dec. 27, 1973, of species of fish or wildlife determined by the Secretary of the Interior, pursuant to the Endangered Species Conservation Act of 1969, to be threatened with extinction be republished to conform to the classification for endangered species or threatened species, as the case might be, provided for in this chapter, but until such republication, any such species so listed was to be deemed an endangered species within the meaning of this chapter, and that the republication of any species pursuant to this paragraph did not require public hearing or comment under section 553 of title 5.
+Subsec. (c)(3). Pub. L. 97–304, § 2(a)(3)(B), struck out par. (3) which had provided that any list in effect on Dec. 27, 1973, of species of fish or wildlife determined by the Secretary of the Interior, pursuant to the Endangered Species Conservation Act of 1969, to be threatened with extinction be republished to conform to the classification for endangered species or threatened species, as the case might be, provided for in this chapter, but until such republication, any such species so listed was to be deemed an endangered species within the meaning of this chapter, and that the republication of any species pursuant to this paragraph did not require public hearing or comment under section 553 of title 5.
 
-Subsec. (c)(4). Pub. L. 97–304, § 2(a)(3)(C), redesignated par. (4) as (2).
+Subsec. (c)(4). Pub. L. 97–304, § 2(a)(3)(C), redesignated par. (4) as (2).
 
-Subsec. (d). Pub. L. 97–304, § 2(a)(4)(A), substituted “section 1535(c) of this title” for “section 1535(a) of this title”.
+Subsec. (d). Pub. L. 97–304, § 2(a)(4)(A), substituted “section 1535(c) of this title” for “section 1535(a) of this title”.
 
-Subsec. (f). Pub. L. 97–304, § 2(a)(4)(B), (C), (D), redesignated subsec. (g) as (f) and substituted “recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2)” for “recovery plans,”. Former subsec. (f), relating to the promulgation of regulations, was struck out.
+Subsec. (f). Pub. L. 97–304, § 2(a)(4)(B), (C), (D), redesignated subsec. (g) as (f) and substituted “recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2)” for “recovery plans,”. Former subsec. (f), relating to the promulgation of regulations, was struck out.
 
-Subsec. (g). Pub. L. 97–304, § 2(a)(4)(C), (E), redesignated subsec. (h) as (g), substituted reference to subsection (b)(3) of this section for reference to subsection (c)(2) of this section in par. (1), substituted “under subsection (a)(1) of this section” for “for listing” in par. (3), and substituted “subsection (f) of this section” for “subsection (g) of this section” in par. (4). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 97–304, § 2(a)(4)(C), (E), redesignated subsec. (h) as (g), substituted reference to subsection (b)(3) of this section for reference to subsection (c)(2) of this section in par. (1), substituted “under subsection (a)(1) of this section” for “for listing” in par. (3), and substituted “subsection (f) of this section” for “subsection (g) of this section” in par. (4). Former subsec. (g) redesignated (f).
 
-Subsec. (h). Pub. L. 97–304, § 2(a)(4)(C), (F), added subsec. (h) and redesignated former subsec. (h) as (g).
+Subsec. (h). Pub. L. 97–304, § 2(a)(4)(C), (F), added subsec. (h) and redesignated former subsec. (h) as (g).
 
-1979—Subsec. (b)(1). Pub. L. 96–159, § 3(1), required the Secretary’s determinations to be preceded with a review of the status of the species.
+1979—Subsec. (b)(1). Pub. L. 96–159, § 3(1), required the Secretary’s determinations to be preceded with a review of the status of the species.
 
-Subsec. (f)(2)(B)(i). Pub. L. 96–159, § 3(2), required publication of summary of text rather than of the complete text of proposed regulation specifying any critical habitat and inclusion of a map of the proposed critical habitat.
+Subsec. (f)(2)(B)(i). Pub. L. 96–159, § 3(2), required publication of summary of text rather than of the complete text of proposed regulation specifying any critical habitat and inclusion of a map of the proposed critical habitat.
 
-Subsec. (f)(2)(B)(iv)(II). Pub. L. 96–159, § 3(3), substituted “if requested within 15 days after the date on which the public meeting is conducted,” for “if requested,”.
+Subsec. (f)(2)(B)(iv)(II). Pub. L. 96–159, § 3(3), substituted “if requested within 15 days after the date on which the public meeting is conducted,” for “if requested,”.
 
-Subsec. (f)(2)(C). Pub. L. 96–159, § 3(4), (5), inserted in introductory text “, subsection (b)(4) of this section,”; and in cl. (ii), included reference to significant risk to wellbeing of any species of plants, inserted in item (II) reference to regulation applicable to resident species of plants, extended the statutory period to a “240-day period” from a “120-day period”, and provided for withdrawal of an emergency regulation without substantial evidence to warrant it, respectively.
+Subsec. (f)(2)(C). Pub. L. 96–159, § 3(4), (5), inserted in introductory text “, subsection (b)(4) of this section,”; and in cl. (ii), included reference to significant risk to wellbeing of any species of plants, inserted in item (II) reference to regulation applicable to resident species of plants, extended the statutory period to a “240-day period” from a “120-day period”, and provided for withdrawal of an emergency regulation without substantial evidence to warrant it, respectively.
 
-Subsec. (h). Pub. L. 96–159, § 3(6), added subsec. (h).
+Subsec. (h). Pub. L. 96–159, § 3(6), added subsec. (h).
 
-1978—Subsec. (a)(1). Pub. L. 95–632, § 11(1), inserted provision requiring the Secretary, at the time a regulation is proposed, to specify by regulation any habitat of the species involved which is considered a critical habitat providing the species was listed subsequent to Nov. 10, 1978.
+1978—Subsec. (a)(1). Pub. L. 95–632, § 11(1), inserted provision requiring the Secretary, at the time a regulation is proposed, to specify by regulation any habitat of the species involved which is considered a critical habitat providing the species was listed subsequent to Nov. 10, 1978.
 
-Subsec. (b)(4). Pub. L. 95–632, § 11(7), added par. (4).
+Subsec. (b)(4). Pub. L. 95–632, § 11(7), added par. (4).
 
-Subsec. (c)(1). Pub. L. 95–632, § 11(2), struck out “and shall” after “if any” and inserted “, and specify any critical habitat within such range” after “endangered or threatened”.
+Subsec. (c)(1). Pub. L. 95–632, § 11(2), struck out “and shall” after “if any” and inserted “, and specify any critical habitat within such range” after “endangered or threatened”.
 
-Subsec. (c)(2). Pub. L. 95–632, § 11(6), substituted “within 90 days of the receipt of” for “upon” and “conduct and publish in the Federal Register a review of the status of” for “conduct a review of” and inserted a provision requiring that the review and findings be made and published prior to initiation of any procedures under subsec. (b)(1) of this section.
+Subsec. (c)(2). Pub. L. 95–632, § 11(6), substituted “within 90 days of the receipt of” for “upon” and “conduct and publish in the Federal Register a review of the status of” for “conduct a review of” and inserted a provision requiring that the review and findings be made and published prior to initiation of any procedures under subsec. (b)(1) of this section.
 
-Subsec. (c)(4). Pub. L. 95–632, § 11(3), added par. (4).
+Subsec. (c)(4). Pub. L. 95–632, § 11(3), added par. (4).
 
-Subsec. (f)(2)(A). Pub. L. 95–632, § 11(4)(A), substituted “Except as provided in subparagraph (B), in” for “In”.
+Subsec. (f)(2)(A). Pub. L. 95–632, § 11(4)(A), substituted “Except as provided in subparagraph (B), in” for “In”.
 
-Subsec. (f)(2)(B), (C). Pub. L. 95–632, § 11(4)(B), (C), added subpar. (B), redesignated former subpar. (B) as (C), and as so redesignated, substituted “Neither subparagraph (A) or (B)” for “Neither subparagraph (A)”.
+Subsec. (f)(2)(B), (C). Pub. L. 95–632, § 11(4)(B), (C), added subpar. (B), redesignated former subpar. (B) as (C), and as so redesignated, substituted “Neither subparagraph (A) or (B)” for “Neither subparagraph (A)”.
 
-Subsec. (f)(3). Pub. L. 95–632, § 13, substituted “a summary by the Secretary of the data on which such regulation is based and shall show the relationship of such data to such regulations” for “a statement by the Secretary of the facts on which such regulation is based and the relationship of such facts to such regulation”.
+Subsec. (f)(3). Pub. L. 95–632, § 13, substituted “a summary by the Secretary of the data on which such regulation is based and shall show the relationship of such data to such regulations” for “a statement by the Secretary of the facts on which such regulation is based and the relationship of such facts to such regulation”.
 
-Subsec. (f)(4), (5). Pub. L. 95–632, § 11(4)(D), added pars. (4) and (5).
+Subsec. (f)(4), (5). Pub. L. 95–632, § 11(4)(D), added pars. (4) and (5).
 
-Subsec. (g). Pub. L. 95–632, § 11(5), added subsec. (g).
+Subsec. (g). Pub. L. 95–632, § 11(5), added subsec. (g).
 
 1976—Subsec. (f)(2)(B)(ii). Pub. L. 94–359 substituted “subsection (b)(1)(A)” for “subsection (b)(A), (B), and (C)”.
 
@@ -653,7 +653,7 @@ Subsec. (g). Pub. L. 95–632, § 11(5), added subsec. (g).
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–304, § 2(b), Oct. 13, 1982, 96 Stat. 1416, provided that:
+Pub. L. 97–304, § 2(b), Oct. 13, 1982, 96 Stat. 1416, provided that:
 
 > **“(1)** Any petition filed under section 4(c)(2) of the Endangered Species Act of 1973 [subsec. (c)(2) of this section] (as in effect on the day before the date of the enactment of this Act [Oct. 13, 1982]) and any regulation proposed under section 4(f) of such Act of 1973 [subsec. (f) of this section] (as in effect on such day) that is pending on such date of enactment [Oct. 13, 1982] shall be treated as having been filed or proposed on such date of enactment under section 4(b) of such Act of 1973 [subsec. (b) of this section] (as amended by subsection (a)); and the procedural requirements specified in such section 4(b) [subsec. (b) of this section] (as so amended) regarding such petition or proposed regulation shall be deemed to be complied with to the extent that like requirements under such section 4 [this section] (as in effect before the date of the enactment of this Act) were complied with before such date of enactment.
 
@@ -667,7 +667,7 @@ Pub. L. 97–304, § 2(b), Oct. 13, 1982, 96 Stat. 1416, provided that:
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 1534. Land acquisition
+## § 1534. Land acquisition
 
 **(a) Implementation of conservation program; authorization of Secretary and Secretary of Agriculture** The Secretary, and the Secretary of Agriculture with respect to the National Forest System, shall establish and implement a program to conserve fish, wildlife, and plants, including those which are listed as endangered species or threatened species pursuant to section 1533 of this title. To carry out such a program, the appropriate Secretary—
 
@@ -679,7 +679,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 Funds made available pursuant to chapter 2003 of title 54 may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
 
-(Pub. L. 93–205, § 5, Dec. 28, 1973, 87 Stat. 889; Pub. L. 95–632, § 12, Nov. 10, 1978, 92 Stat. 3766; Pub. L. 113–287, § 5(d)(32), Dec. 19, 2014, 128 Stat. 3267.)
+(Pub. L. 93–205, § 5, Dec. 28, 1973, 87 Stat. 889; Pub. L. 95–632, § 12, Nov. 10, 1978, 92 Stat. 3766; Pub. L. 113–287, § 5(d)(32), Dec. 19, 2014, 128 Stat. 3267.)
 
 **Editorial Notes**
 
@@ -689,7 +689,7 @@ The Fish and Wildlife Act of 1956, as amended, referred to in subsec. (a)(1), is
 
 The Fish and Wildlife Coordination Act, as amended, referred to in subsec. (a)(1), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
-The Migratory Bird Conservation Act, referred to in subsec. (a)(1), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (a)(1), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 **Amendments**
 
@@ -697,7 +697,7 @@ The Migratory Bird Conservation Act, referred to in subsec. (a)(1), is act Feb. 
 
 1978—Subsec. (a). Pub. L. 95–632, among other changes in text preceding par. (1), inserted reference to the Secretary of Agriculture with respect to the National Forest System and substituted the establishment and implementation of a plan to conserve plants for the establishment and implementation of a plan to conserve plants which were concluded in Appendices to the Convention.
 
-## § 1535. Cooperation with States
+## § 1535. Cooperation with States
 
 **(a) Generally**
 
@@ -803,7 +803,7 @@ The Secretary is authorized to promulgate such regulations as may be appropriate
 
 **(2)** Amounts deposited into the special fund are authorized to be appropriated annually and allocated in accordance with subsection (d) of this section.
 
-(Pub. L. 93–205, § 6, Dec. 28, 1973, 87 Stat. 889; Pub. L. 95–212, Dec. 19, 1977, 91 Stat. 1493; Pub. L. 95–632, § 10, Nov. 10, 1978, 92 Stat. 3762; Pub. L. 96–246, May 23, 1980, 94 Stat. 348; Pub. L. 97–304, §§ 3, 8(b), Oct. 13, 1982, 96 Stat. 1416, 1426; Pub. L. 100–478, title I, § 1005, Oct. 7, 1988, 102 Stat. 2307.)
+(Pub. L. 93–205, § 6, Dec. 28, 1973, 87 Stat. 889; Pub. L. 95–212, Dec. 19, 1977, 91 Stat. 1493; Pub. L. 95–632, § 10, Nov. 10, 1978, 92 Stat. 3762; Pub. L. 96–246, May 23, 1980, 94 Stat. 348; Pub. L. 97–304, §§ 3, 8(b), Oct. 13, 1982, 96 Stat. 1416, 1426; Pub. L. 100–478, title I, § 1005, Oct. 7, 1988, 102 Stat. 2307.)
 
 **Editorial Notes**
 
@@ -815,7 +815,7 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 **Amendments**
 
-1988—Subsec. (d)(1). Pub. L. 100–478, § 1005(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species. The Secretary shall make an allocation of appropriated funds to such States based on consideration of—
+1988—Subsec. (d)(1). Pub. L. 100–478, § 1005(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species. The Secretary shall make an allocation of appropriated funds to such States based on consideration of—
 
 “(A) the international commitments of the United States to protect endangered species or threatened species;
 
@@ -829,21 +829,21 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section.”
 
-Subsec. (i). Pub. L. 100–478, § 1005(b), added subsec. (i).
+Subsec. (i). Pub. L. 100–478, § 1005(b), added subsec. (i).
 
-1982—Subsec. (d)(2)(i). Pub. L. 97–304, § 3(1), substituted “75 percent” for “66⅔ per centum”.
+1982—Subsec. (d)(2)(i). Pub. L. 97–304, § 3(1), substituted “75 percent” for “66⅔ per centum”.
 
-Subsec. (d)(2)(ii). Pub. L. 97–304, § 3(2), substituted “90 percent” for “75 per centum”.
+Subsec. (d)(2)(ii). Pub. L. 97–304, § 3(2), substituted “90 percent” for “75 per centum”.
 
-Subsec. (i). Pub. L. 97–304, § 8(b), struck out subsec. (i) which authorized appropriations to carry out this section of $10,000,000 through the period ending Sept. 30, 1977, $12,000,000 for the period Oct. 1, 1977, through Sept. 30, 1980, and $12,000,000 for the period Oct. 1, 1980, through Sept. 30, 1982. See section 1542(b) of this title.
+Subsec. (i). Pub. L. 97–304, § 8(b), struck out subsec. (i) which authorized appropriations to carry out this section of $10,000,000 through the period ending Sept. 30, 1977, $12,000,000 for the period Oct. 1, 1977, through Sept. 30, 1980, and $12,000,000 for the period Oct. 1, 1980, through Sept. 30, 1982. See section 1542(b) of this title.
 
 1980—Subsec. (i). Pub. L. 96–246 in par. (2) substituted “$12,000,000” for “$16,000,000” and “1980” for “1981”, and added par. (3).
 
 1978—Subsec. (c). Pub. L. 95–632 designated existing provision as par. (1), and in par. (1) as so designated, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and subpars. (A) and (B) of subpar. (E), as so redesignated, as cls. (i) and (ii), respectively, substituted “paragraph” for “subsection” in provision preceding subpar. (A), as so redesignated, “endangered or threatened species of fish or wildlife” for “endangered species or threatened species” in subpar. (D), as so redesignated, “subparagraphs (C), (D), and (E) of this paragraph” for “paragraphs (3), (4), and (5) of this subsection” in cl. (i) of subpar. (E), as so redesignated, “clause (i) and this clause” for “subparagraph (A) and this subparagraph” in cl. (ii) of subpar. (E), as so redesignated, and added par. (2).
 
-1977—Subsec. (c). Pub. L. 95–212, § 1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
+1977—Subsec. (c). Pub. L. 95–212, § 1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
 
-Subsec. (i). Pub. L. 95–212, § 1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not to exceed $10,000,000 through the fiscal year ending June 30, 1977.
+Subsec. (i). Pub. L. 95–212, § 1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not to exceed $10,000,000 through the fiscal year ending June 30, 1977.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -851,7 +851,7 @@ Subsec. (i). Pub. L. 95–212, § 1(2), substituted provisions authorizing app
 
 Nothing in the amendment of section 1379 of this title by section 4(a) of Pub. L. 97–58 to be construed as affecting in any manner any cooperative agreement entered into by a State under subsec. (c) of this section before, on, or after Oct. 9, 1981, see section 4(b) of Pub. L. 97–58, set out as a note under section 1379 of this title.
 
-## § 1536. Interagency cooperation
+## § 1536. Interagency cooperation
 
 **(a) Federal agency actions and consultations**
 
@@ -1095,7 +1095,7 @@ Any person, as defined by section 1532(13) of this title, may obtain judicial re
 
 In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act [42 U.S.C. 5121 et seq.], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act [42 U.S.C. 5171 or 5172], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
 
-(Pub. L. 93–205, § 7, Dec. 28, 1973, 87 Stat. 892; Pub. L. 95–632, § 3, Nov. 10, 1978, 92 Stat. 3752; Pub. L. 96–159, § 4, Dec. 28, 1979, 93 Stat. 1226; Pub. L. 97–304, §§ 4(a), 8(b), Oct. 13, 1982, 96 Stat. 1417, 1426; Pub. L. 99–659, title IV, § 411(b), (c), Nov. 14, 1986, 100 Stat. 3741, 3742; Pub. L. 100–707, title I, § 109(g), Nov. 23, 1988, 102 Stat. 4709.)
+(Pub. L. 93–205, § 7, Dec. 28, 1973, 87 Stat. 892; Pub. L. 95–632, § 3, Nov. 10, 1978, 92 Stat. 3752; Pub. L. 96–159, § 4, Dec. 28, 1979, 93 Stat. 1226; Pub. L. 97–304, §§ 4(a), 8(b), Oct. 13, 1982, 96 Stat. 1417, 1426; Pub. L. 99–659, title IV, § 411(b), (c), Nov. 14, 1986, 100 Stat. 3741, 3742; Pub. L. 100–707, title I, § 109(g), Nov. 23, 1988, 102 Stat. 4709.)
 
 **Editorial Notes**
 
@@ -1105,89 +1105,89 @@ This chapter, referred to in subsecs. (a)(1), (i), and (j), was in the original 
 
 The Privacy Act, referred to in subsec. (e)(7)(C), is probably a reference to section 552a of Title 5, Government Organization and Employees. See Short Title note set out under section 552a of Title 5.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (p), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (p), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
 1988—Subsec. (p). Pub. L. 100–707 substituted “the Disaster Relief and Emergency Assistance Act” for “the Disaster Relief Act of 1974” and “section 405 or 406 of the Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
 
-1986—Subsec. (b)(4)(C). Pub. L. 99–659, § 411(b)(1)–(3), added subpar. (C).
+1986—Subsec. (b)(4)(C). Pub. L. 99–659, § 411(b)(1)–(3), added subpar. (C).
 
-Subsec. (b)(4)(iii), (iv). Pub. L. 99–659, § 411(b)(4)–(6), added cl. (iii), redesignated former cl. (iii) as (iv), and in cl. (iv), as so redesignated, inserted reference to cl. (iii).
+Subsec. (b)(4)(iii), (iv). Pub. L. 99–659, § 411(b)(4)–(6), added cl. (iii), redesignated former cl. (iii) as (iv), and in cl. (iv), as so redesignated, inserted reference to cl. (iii).
 
-Subsec. (*o*). Pub. L. 99–659, § 411(c)(1), in introductory provisions, inserted “, sections 1371 and 1372 of this title,”, and substituted “any” for “either” after “implement”.
+Subsec. (*o*). Pub. L. 99–659, § 411(c)(1), in introductory provisions, inserted “, sections 1371 and 1372 of this title,”, and substituted “any” for “either” after “implement”.
 
-Subsec. (*o*)(2). Pub. L. 99–659, § 411(c)(2), substituted “subsection (b)(4)(iv)” for “subsection (b)(4)(iii)” and inserted “prohibited” before “taking of the species”.
+Subsec. (*o*)(2). Pub. L. 99–659, § 411(c)(2), substituted “subsection (b)(4)(iv)” for “subsection (b)(4)(iii)” and inserted “prohibited” before “taking of the species”.
 
-1982—Subsec. (a)(3), (4). Pub. L. 97–304, § 4(a)(1), added par. (3) and redesignated former par. (3) as (4).
+1982—Subsec. (a)(3), (4). Pub. L. 97–304, § 4(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b). Pub. L. 97–304, § 4(a)(2), incorporated existing provisions into pars. (1)(A) and (3)(A) and added pars. (1)(B), (2), (3)(B), and (4).
+Subsec. (b). Pub. L. 97–304, § 4(a)(2), incorporated existing provisions into pars. (1)(A) and (3)(A) and added pars. (1)(B), (2), (3)(B), and (4).
 
-Subsec. (c)(1). Pub. L. 97–304, § 4(a)(3), inserted “, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor” after “agency” in parenthetical provision.
+Subsec. (c)(1). Pub. L. 97–304, § 4(a)(3), inserted “, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor” after “agency” in parenthetical provision.
 
-Subsec. (e)(10). Pub. L. 97–304, § 4(a)(4), struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, no member could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
+Subsec. (e)(10). Pub. L. 97–304, § 4(a)(4), struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, no member could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
 
-Subsec. (g)(1). Pub. L. 97–304, § 4(a)(5)(B), substituted “An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) after a report is made pursuant to paragraph (5)” for “An application for an exemption shall be considered initially by a review board in the manner provided in this subsection, and shall be considered by the Endangered Species Committee for a final determination under subsection (h) after a report is made by the review board”.
+Subsec. (g)(1). Pub. L. 97–304, § 4(a)(5)(B), substituted “An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) after a report is made pursuant to paragraph (5)” for “An application for an exemption shall be considered initially by a review board in the manner provided in this subsection, and shall be considered by the Endangered Species Committee for a final determination under subsection (h) after a report is made by the review board”.
 
-Subsec. (g)(2)(A). Pub. L. 97–304, § 4(a)(5)(C)(i), substituted “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f), not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license” for “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; or, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of title 5, with respect to the issuance of the permit or license” and inserted provision that, “For purposes of the preceding sentence, the term ‘final agency action’ means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review.”
+Subsec. (g)(2)(A). Pub. L. 97–304, § 4(a)(5)(C)(i), substituted “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f), not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license” for “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; or, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of title 5, with respect to the issuance of the permit or license” and inserted provision that, “For purposes of the preceding sentence, the term ‘final agency action’ means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review.”
 
-Subsec. (g)(2)(B). Pub. L. 97–304, § 4(a)(5)(C)(ii), inserted “(i)” after “the Secretary shall promptly”, struck out “to the review board to be established under paragraph (3) and” after “individuals to be appointed” in cl. (i) as so designated, and added cl. (ii).
+Subsec. (g)(2)(B). Pub. L. 97–304, § 4(a)(5)(C)(ii), inserted “(i)” after “the Secretary shall promptly”, struck out “to the review board to be established under paragraph (3) and” after “individuals to be appointed” in cl. (i) as so designated, and added cl. (ii).
 
-Subsec. (g)(3). Pub. L. 97–304, § 4(a)(5)(D), (E), redesignated par. (5) as (3) and substituted provisions directing the Secretary, within 20 days after the receipt of an application for exemption, or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, to (A) determine that the Federal agency concerned and the exemption applicant have (i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required by subsection (c) of this section, and (iii) to the extent determinable within the time provided herein, refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, or (B) deny the application for exemption because the Federal agency concerned or the exemption applicant have not met the requirements set forth in subparagraph (A)(i), (ii), and (iii), and providing that the denial of an application under subparagraph (B) shall be considered final agency action for purposes of chapter 7 of title 5, for provisions placing upon the review board appointed under former par. (3) the duty to make a full review of the consultation carried out under subsection (a)(2) of this section, and within 60 days after its appointment or within such longer time as was mutually agreed upon between the exemption applicant and the Secretary, to make a determination, by a majority vote, (A) whether an irresolvable conflict existed and (B) whether the Federal agency concerned and such exemption applicant had (i) carried out its consultation responsibilities as described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required of it by subsection (c) of this section, and (iii) refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, and providing that any determination by the review board that an irresolvable conflict did not exist or that the Federal agency concerned or the exemption applicant had not met its respective requirements under subclause (i), (ii), or (iii) was to be considered final agency action for purposes of chapter 7 of title 5. Former par. (3), providing for the establishment and functions of a review board to consider applications for exemptions and to submit reports to the Endangered Species Committee, was struck out.
+Subsec. (g)(3). Pub. L. 97–304, § 4(a)(5)(D), (E), redesignated par. (5) as (3) and substituted provisions directing the Secretary, within 20 days after the receipt of an application for exemption, or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, to (A) determine that the Federal agency concerned and the exemption applicant have (i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required by subsection (c) of this section, and (iii) to the extent determinable within the time provided herein, refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, or (B) deny the application for exemption because the Federal agency concerned or the exemption applicant have not met the requirements set forth in subparagraph (A)(i), (ii), and (iii), and providing that the denial of an application under subparagraph (B) shall be considered final agency action for purposes of chapter 7 of title 5, for provisions placing upon the review board appointed under former par. (3) the duty to make a full review of the consultation carried out under subsection (a)(2) of this section, and within 60 days after its appointment or within such longer time as was mutually agreed upon between the exemption applicant and the Secretary, to make a determination, by a majority vote, (A) whether an irresolvable conflict existed and (B) whether the Federal agency concerned and such exemption applicant had (i) carried out its consultation responsibilities as described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required of it by subsection (c) of this section, and (iii) refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, and providing that any determination by the review board that an irresolvable conflict did not exist or that the Federal agency concerned or the exemption applicant had not met its respective requirements under subclause (i), (ii), or (iii) was to be considered final agency action for purposes of chapter 7 of title 5. Former par. (3), providing for the establishment and functions of a review board to consider applications for exemptions and to submit reports to the Endangered Species Committee, was struck out.
 
-Subsec. (g)(4). Pub. L. 97–304, § 4(a)(5)(D), (F), redesignated par. (6) as (4) and substituted “If the Secretary determines that the Federal agency concerned and the exemption applicant have met the requirements set forth in paragraph (3)(A)(i), (ii), and (iii) he shall, in consultation with the Members of the Committee, hold a hearing on the application for exemption in accordance with sections 554, 555, and 556 (other than subsection (b)(1) and (2) thereof) of title 5 and prepare the report to be submitted pursuant to paragraph (5)” for “If the review board determines that an irresolvable conflict exists and makes positive determinations under subclauses (i), (ii), and (iii) of paragraph (5), it shall proceed to prepare the report to be submitted under paragraph (7)”. Former par. (4), directing the Secretary to submit the application to the review board immediately after its appointment under paragraph (3), and to submit to the review board, in writing, his views and recommendations with respect to the application within 60 days after receiving a copy of any application under paragraph (2), was struck out.
+Subsec. (g)(4). Pub. L. 97–304, § 4(a)(5)(D), (F), redesignated par. (6) as (4) and substituted “If the Secretary determines that the Federal agency concerned and the exemption applicant have met the requirements set forth in paragraph (3)(A)(i), (ii), and (iii) he shall, in consultation with the Members of the Committee, hold a hearing on the application for exemption in accordance with sections 554, 555, and 556 (other than subsection (b)(1) and (2) thereof) of title 5 and prepare the report to be submitted pursuant to paragraph (5)” for “If the review board determines that an irresolvable conflict exists and makes positive determinations under subclauses (i), (ii), and (iii) of paragraph (5), it shall proceed to prepare the report to be submitted under paragraph (7)”. Former par. (4), directing the Secretary to submit the application to the review board immediately after its appointment under paragraph (3), and to submit to the review board, in writing, his views and recommendations with respect to the application within 60 days after receiving a copy of any application under paragraph (2), was struck out.
 
-Subsec. (g)(5). Pub. L. 97–304, § 4(a)(5)(G), redesignated par. (7) as (5) and substituted “Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, the Secretary shall submit” for “Within 180 days after making the determinations under paragraph (6), the review board shall submit” in the provisions preceding subpar. (A), and added subpar. (D). Former par. (5) redesignated (3) and amended.
+Subsec. (g)(5). Pub. L. 97–304, § 4(a)(5)(G), redesignated par. (7) as (5) and substituted “Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, the Secretary shall submit” for “Within 180 days after making the determinations under paragraph (6), the review board shall submit” in the provisions preceding subpar. (A), and added subpar. (D). Former par. (5) redesignated (3) and amended.
 
-Subsec. (g)(6). Pub. L. 97–304, § 4(a)(5)(H), redesignated par. (8) as (6). Former par. (6) redesignated (4) and amended.
+Subsec. (g)(6). Pub. L. 97–304, § 4(a)(5)(H), redesignated par. (8) as (6). Former par. (6) redesignated (4) and amended.
 
-Subsec. (g)(7). Pub. L. 97–304, § 4(a)(5)(I), redesignated par. (10) as (7) and substituted “Upon request of the Secretary, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the Secretary to assist him in carrying out his duties under this section” for “Upon request of a review board, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the review board to assist it in carry out its duties under this section”. Former par. (7) redesignated (5) and amended.
+Subsec. (g)(7). Pub. L. 97–304, § 4(a)(5)(I), redesignated par. (10) as (7) and substituted “Upon request of the Secretary, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the Secretary to assist him in carrying out his duties under this section” for “Upon request of a review board, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the review board to assist it in carry out its duties under this section”. Former par. (7) redesignated (5) and amended.
 
-Subsec. (g)(8). Pub. L. 97–304, § 4(a)(5)(J), redesignated par. (12) as (8) and substituted “records resulting from activities pursuant to this subsection” for “records of review boards”. Former par. (8) redesignated (6).
+Subsec. (g)(8). Pub. L. 97–304, § 4(a)(5)(J), redesignated par. (12) as (8) and substituted “records resulting from activities pursuant to this subsection” for “records of review boards”. Former par. (8) redesignated (6).
 
-Subsec. (g)(9). Pub. L. 97–304, § 4(a)(5)(D), struck out par. (9) which had provided that the review board, in carrying out its duties, could (A) sit and act at such times and places, take such testimony, and receive such evidence, as the review board deemed advisable, (B) subject to the Privacy Act of 1974 [5 U.S.C. 552a], request of any Federal agency or applicant information necessary to enable it to carry out such duties, and upon such request the head of such Federal agency would furnish such information to the review board, and (C) use the United States mails in the same manner and upon the same conditions as a Federal agency.
+Subsec. (g)(9). Pub. L. 97–304, § 4(a)(5)(D), struck out par. (9) which had provided that the review board, in carrying out its duties, could (A) sit and act at such times and places, take such testimony, and receive such evidence, as the review board deemed advisable, (B) subject to the Privacy Act of 1974 [5 U.S.C. 552a], request of any Federal agency or applicant information necessary to enable it to carry out such duties, and upon such request the head of such Federal agency would furnish such information to the review board, and (C) use the United States mails in the same manner and upon the same conditions as a Federal agency.
 
-Subsec. (g)(10). Pub. L. 97–304, § 4(a)(5)(I), redesignated par. (10) as (7).
+Subsec. (g)(10). Pub. L. 97–304, § 4(a)(5)(I), redesignated par. (10) as (7).
 
-Subsec. (g)(11). Pub. L. 97–304, § 4(a)(5)(D), struck out par. (11) which had provided that the Administrator of the General Services Administration provide to a review board, on a reimbursable basis, such administrative support services as the review board requested.
+Subsec. (g)(11). Pub. L. 97–304, § 4(a)(5)(D), struck out par. (11) which had provided that the Administrator of the General Services Administration provide to a review board, on a reimbursable basis, such administrative support services as the review board requested.
 
-Subsec. (g)(12). Pub. L. 97–304, § 4(a)(5)(J), redesignated par. (12) as (8).
+Subsec. (g)(12). Pub. L. 97–304, § 4(a)(5)(J), redesignated par. (12) as (8).
 
-Subsec. (h)(1). Pub. L. 97–304, § 4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5)” for “within 90 days of receiving the report of the review board under subsection (g)(7)” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
+Subsec. (h)(1). Pub. L. 97–304, § 4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5)” for “within 90 days of receiving the report of the review board under subsection (g)(7)” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
 
-Subsec. (*o*). Pub. L. 97–304, § 4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
+Subsec. (*o*). Pub. L. 97–304, § 4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
 
-Subsec. (q). Pub. L. 97–304, § 8(b), struck out subsec. (q) which authorized appropriations of $600,000 for each of fiscal years 1979, 1980, 1981, and 1982 in carrying out functions under subsecs. (e), (f), (g), and (h) of this section. See section 1542(c) of this title.
+Subsec. (q). Pub. L. 97–304, § 8(b), struck out subsec. (q) which authorized appropriations of $600,000 for each of fiscal years 1979, 1980, 1981, and 1982 in carrying out functions under subsecs. (e), (f), (g), and (h) of this section. See section 1542(c) of this title.
 
-1979—Subsec. (a). Pub. L. 96–159, § 4(1), designated existing provisions as par. (1); struck out third sentence requirement that each Federal agency, in consultation with and with the assistance of the Secretary, insure that any action authorized, funded, or carried out by such agency (referred to as “agency action”) did not jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which was determined by the Secretary, after consultation as appropriate with the affected States, to be critical, unless the agency was granted an exemption for such action by the Committee pursuant to subsec. (h) of this section; and added pars. (2) and (3), incorporating former third sentence provisions.
+1979—Subsec. (a). Pub. L. 96–159, § 4(1), designated existing provisions as par. (1); struck out third sentence requirement that each Federal agency, in consultation with and with the assistance of the Secretary, insure that any action authorized, funded, or carried out by such agency (referred to as “agency action”) did not jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which was determined by the Secretary, after consultation as appropriate with the affected States, to be critical, unless the agency was granted an exemption for such action by the Committee pursuant to subsec. (h) of this section; and added pars. (2) and (3), incorporating former third sentence provisions.
 
-Subsec. (b). Pub. L. 96–159, § 4(2), (3), substituted “he believes would not violate subsection (a)(2) of this section and” for “he believes would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying the critical habitat of such species, and which” before “can be taken” and introductory “subsection (a)(2) of this section” for “subsection (a) of this section”.
+Subsec. (b). Pub. L. 96–159, § 4(2), (3), substituted “he believes would not violate subsection (a)(2) of this section and” for “he believes would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying the critical habitat of such species, and which” before “can be taken” and introductory “subsection (a)(2) of this section” for “subsection (a) of this section”.
 
-Subsec. (c). Pub. L. 96–159, § 4(3), (4), substituted “subsection (a)(2)” for “subsec. (a)” of this section, designated existing provisions as so amended par. (1), and added par. (2).
+Subsec. (c). Pub. L. 96–159, § 4(3), (4), substituted “subsection (a)(2)” for “subsec. (a)” of this section, designated existing provisions as so amended par. (1), and added par. (2).
 
-Subsec. (d). Pub. L. 96–159, § 4(3), (5), substituted introductory words “subsection (a)(2)” for “subsection (a)” of this section and “alternative measures which would not violate subsection (a)(2)” for “alternative measures which would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying or destroying the critical habitat of any such species”.
+Subsec. (d). Pub. L. 96–159, § 4(3), (5), substituted introductory words “subsection (a)(2)” for “subsection (a)” of this section and “alternative measures which would not violate subsection (a)(2)” for “alternative measures which would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying or destroying the critical habitat of any such species”.
 
-Subsecs. (e)(2), (f). Pub. L. 96–159, § 4(3), substituted “subsection (a)(2)” for “subsection (a)”.
+Subsecs. (e)(2), (f). Pub. L. 96–159, § 4(3), substituted “subsection (a)(2)” for “subsection (a)”.
 
-Subsec. (g)(1). Pub. L. 96–159, § 4(3), (6), substituted in first sentence “subsection (a)(2)” for “subsection (a)” of this section and “agency action would violate subsection (a)(2)” for “agency action may jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify the critical habitat of such species”.
+Subsec. (g)(1). Pub. L. 96–159, § 4(3), (6), substituted in first sentence “subsection (a)(2)” for “subsection (a)” of this section and “agency action would violate subsection (a)(2)” for “agency action may jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify the critical habitat of such species”.
 
-Subsec. (g)(2)(A). Pub. L. 96–159, § 4(7), required exemption applicant, to submit a written application, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of Title 5, with respect to the issuance of the permit or license.
+Subsec. (g)(2)(A). Pub. L. 96–159, § 4(7), required exemption applicant, to submit a written application, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of Title 5, with respect to the issuance of the permit or license.
 
-Subsec. (g)(3). Pub. L. 96–159, § 4(8), added subpar. (B), and redesignated former subpar. (B) as (C).
+Subsec. (g)(3). Pub. L. 96–159, § 4(8), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-Subsec. (g)(5). Pub. L. 96–159, § 4(3), (9), substituted in introductory text and cl. (i) “subsection (a)(2)” for “subsection (a)” of this section; redesignated as cls. (A) and (B) former cls. (i) and (ii); inserted in cl. (B) “the Federal agency concerned and” before “such exemption applicant”; redesignated as subcls. (i) to (iii) former subcls. (A) to (C); substituted in subcl. (i) “agency action which would not violate subsection (a)(2) of this section” for “agency action which will avoid jeopardizing the continued existence of an endangered or threatened species or result in the adverse modification or destruction of a critical habitat”; and substituted in last sentence “the Federal agency concerned or the exemption applicant has not met its respective requirements under subclause (i), (ii), or (iii)” for “the exemption applicant has not met the requirements of subparagraph (A), (B), or (C)” preceding “shall be considered final agency action”.
+Subsec. (g)(5). Pub. L. 96–159, § 4(3), (9), substituted in introductory text and cl. (i) “subsection (a)(2)” for “subsection (a)” of this section; redesignated as cls. (A) and (B) former cls. (i) and (ii); inserted in cl. (B) “the Federal agency concerned and” before “such exemption applicant”; redesignated as subcls. (i) to (iii) former subcls. (A) to (C); substituted in subcl. (i) “agency action which would not violate subsection (a)(2) of this section” for “agency action which will avoid jeopardizing the continued existence of an endangered or threatened species or result in the adverse modification or destruction of a critical habitat”; and substituted in last sentence “the Federal agency concerned or the exemption applicant has not met its respective requirements under subclause (i), (ii), or (iii)” for “the exemption applicant has not met the requirements of subparagraph (A), (B), or (C)” preceding “shall be considered final agency action”.
 
-Subsec. (g)(6). Pub. L. 96–159, § 4(10), substituted “subclauses (i), (ii), and (iii)” for “subparagraphs (A), (B), and (C)” of paragraph (5).
+Subsec. (g)(6). Pub. L. 96–159, § 4(10), substituted “subclauses (i), (ii), and (iii)” for “subparagraphs (A), (B), and (C)” of paragraph (5).
 
-Subsec. (h)(1). Pub. L. 96–159, § 4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
+Subsec. (h)(1). Pub. L. 96–159, § 4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
 
-Subsec. (h)(2). Pub. L. 96–159, § 4(11), in subpar. (A), substituted “paragraph (1)” for “subsection (h) of this section”, inserted cl. (i), incorporated existing provisions in text designated cl. (ii), inserting thereto “with respect to such agency action”; in subpar. (B), incorporated existing provision in cl. (i), inserted findings provision respecting the extinction of a species that was not: the subject of consultation or identified in any biological assessment under subsec. (a)(2) or (c) of this section, added cl. (ii), deleted prior requirement for a Committee determination within 30 days of the Secretary’s finding that an exemption would result in extinction of the species whether to grant an exemption for the agency notwithstanding such finding, and superseded the same with requirement that the Committee meet with respect to the matter within 30 days after the date of such a finding.
+Subsec. (h)(2). Pub. L. 96–159, § 4(11), in subpar. (A), substituted “paragraph (1)” for “subsection (h) of this section”, inserted cl. (i), incorporated existing provisions in text designated cl. (ii), inserting thereto “with respect to such agency action”; in subpar. (B), incorporated existing provision in cl. (i), inserted findings provision respecting the extinction of a species that was not: the subject of consultation or identified in any biological assessment under subsec. (a)(2) or (c) of this section, added cl. (ii), deleted prior requirement for a Committee determination within 30 days of the Secretary’s finding that an exemption would result in extinction of the species whether to grant an exemption for the agency notwithstanding such finding, and superseded the same with requirement that the Committee meet with respect to the matter within 30 days after the date of such a finding.
 
-Subsec. (m). Pub. L. 96–159, § 4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
+Subsec. (m). Pub. L. 96–159, § 4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
 
-Subsec. (q). Pub. L. 96–159, § 4(12), authorized appropriations of $600,000 for fiscal years 1980 through 1982, and deleted appropriations authorization of $300,000 for period beginning Oct. 1, 1979, and ending Mar. 3, 1980, and requirement that the Chairman of the Committee report to the Congress before end of fiscal year 1979 with respect to adequacy of the budget authority.
+Subsec. (q). Pub. L. 96–159, § 4(12), authorized appropriations of $600,000 for fiscal years 1980 through 1982, and deleted appropriations authorization of $300,000 for period beginning Oct. 1, 1979, and ending Mar. 3, 1980, and requirement that the Chairman of the Committee report to the Congress before end of fiscal year 1979 with respect to adequacy of the budget authority.
 
 1978—Subsec. (a). Pub. L. 95–632 designated existing provision as subsec. (a), inserted reference to agency action, substituted “adverse modification” for “modification”, and provided for the grant of an exemption for agency action by the Endangered Species Committee pursuant to subsec. (h) of this section.
 
@@ -1197,7 +1197,7 @@ Subsecs. (b) to (q). Pub. L. 95–632 added subsecs. (b) to (q).
 
 **Objectives, Performance Standards, and Criteria for Use of Wildlife Conservation Banking Programs**
 
-Pub. L. 116–283, div. A, title III, § 329, Jan. 1, 2021, 134 Stat. 3527, provided that:
+Pub. L. 116–283, div. A, title III, § 329, Jan. 1, 2021, 134 Stat. 3527, provided that:
 
 > **“(a) In General.—** To ensure opportunities for Department of Defense participation in wildlife conservation banking programs pursuant to section 2694c of title 10, United States Code, the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall issue regulations of general applicability establishing objectives, measurable performance standards, and criteria for use, consistent with the Endangered Species Act [of 1973] (16 U.S.C. 1531 et seq.), for mitigation banking offsetting effects on a species, or habitat of such species, that is endangered, threatened, a candidate for listing, or otherwise at risk under such Act. To the maximum extent practicable, the regulatory standards and criteria shall maximize available credits and opportunities for mitigation, provide flexibility for characteristics of various species, and apply equivalent standards and criteria to all mitigation banks.
 
@@ -1205,7 +1205,7 @@ Pub. L. 116–283, div. A, title III, § 329, Jan. 1, 2021, 134 Stat. 3527, pr
 
 **Deferral of Agency Action**
 
-Pub. L. 105–18, title II, § 3003, June 12, 1997, 111 Stat. 176, provided that:
+Pub. L. 105–18, title II, § 3003, June 12, 1997, 111 Stat. 176, provided that:
 
 > **“(a) Consultation and Conferencing.—** As provided by regulations issued under the Endangered Species Act (16 U.S.C. 1531 et seq.) for emergency situations, formal consultation or conferencing under section 7(a)(2) or section 7(a)(4) of the Act [16 U.S.C. 1536(a)(2), (4)] for any action authorized, funded or carried out by any Federal agency to repair a Federal or non-Federal flood control project, facility or structure may be deferred by the Federal agency authorizing, funding or carrying out the action, if the agency determines that the repair is needed to respond to an emergency causing an imminent threat to human lives and property in 1996 or 1997. Formal consultation or conferencing shall be deferred until the imminent threat to human lives and property has been abated. For purposes of this section, the term repair shall include preventive and remedial measures to restore the project, facility or structure to remove an imminent threat to human lives and property.
 
@@ -1213,7 +1213,7 @@ Pub. L. 105–18, title II, § 3003, June 12, 1997, 111 Stat. 176, provided th
 
 **Translocation of California Sea Otters**
 
-Pub. L. 99–625, § 1, Nov. 7, 1986, 100 Stat. 3500, provided that:
+Pub. L. 99–625, § 1, Nov. 7, 1986, 100 Stat. 3500, provided that:
 
 > **“(a) Definitions.—** For purposes of this section—
 
@@ -1283,7 +1283,7 @@ Pub. L. 99–625, § 1, Nov. 7, 1986, 100 Stat. 3500, provided that:
 
 > **“(f) Construction.—** For purposes of implementing the plan, no act by the Service, an authorized State agency, or an authorized agent of the Service or such an agency with respect to a sea otter that is necessary to effect the relocation or management of any sea otter under the plan may be treated as a violation of any provision of the Act or the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.).”
 
-## § 1537. International cooperation
+## § 1537. International cooperation
 
 **(a) Financial assistance**
 
@@ -1307,31 +1307,31 @@ As a demonstration of the commitment of the United States to the worldwide prote
 
 After consultation with the Secretary of State and the Secretary of the Treasury, as appropriate, the Secretary may conduct or cause to be conducted such law enforcement investigations and research abroad as he deems necessary to carry out the purposes of this chapter.
 
-(Pub. L. 93–205, § 8, Dec. 28, 1973, 87 Stat. 892; Pub. L. 96–159, § 5, Dec. 28, 1979, 93 Stat. 1228; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(N), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 93–205, § 8, Dec. 28, 1973, 87 Stat. 892; Pub. L. 96–159, § 5, Dec. 28, 1979, 93 Stat. 1228; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(N), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Codification**
 
-In subsec. (a), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953 (31 U.S.C. 724)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953 (31 U.S.C. 724)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 2008—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1979—Subsec. (b)(1). Pub. L. 96–159, § 5(1), encouraged conservation of plants.
+1979—Subsec. (b)(1). Pub. L. 96–159, § 5(1), encouraged conservation of plants.
 
-Subsec. (b)(3). Pub. L. 96–159, § 5(2), encouraged conservation practices for enhancement of plants taken for importation into the United States.
+Subsec. (b)(3). Pub. L. 96–159, § 5(2), encouraged conservation practices for enhancement of plants taken for importation into the United States.
 
-Subsec. (c)(1). Pub. L. 96–159, § 5(3), made personnel available for plant conservation.
+Subsec. (c)(1). Pub. L. 96–159, § 5(3), made personnel available for plant conservation.
 
-Subsec. (e). Pub. L. 96–159, § 5(4), struck out subsec. (e) relating to Convention implementation.
+Subsec. (e). Pub. L. 96–159, § 5(4), struck out subsec. (e) relating to Convention implementation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1341,7 +1341,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Conservation of Sea Turtles; Importation of Shrimp**
 
-Pub. L. 101–162, title VI, § 609, Nov. 21, 1989, 103 Stat. 1037, provided that:
+Pub. L. 101–162, title VI, § 609, Nov. 21, 1989, 103 Stat. 1037, provided that:
 
 > **“(a)** The Secretary of State, in consultation with the Secretary of Commerce, shall, with respect to those species of sea turtles the conservation of which is the subject of regulations promulgated by the Secretary of Commerce on June 29, 1987—
 
@@ -1395,7 +1395,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 George Bush.
 
-## § 1537a. Convention implementation
+## § 1537a. Convention implementation
 
 **(a) Management Authority and Scientific Authority**
 
@@ -1431,23 +1431,23 @@ If the United States votes against including any species in Appendix I or II of 
 
 **(4)** The provisions of this subsection shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate resident fish or wildlife under State law or regulations.
 
-(Pub. L. 93–205, § 8A, as added Pub. L. 96–159, § 6(a)(1), Dec. 28, 1979, 93 Stat. 1228; amended Pub. L. 97–304, § 5[(a)], Oct. 13, 1983, 96 Stat. 1421.)
+(Pub. L. 93–205, § 8A, as added Pub. L. 96–159, § 6(a)(1), Dec. 28, 1979, 93 Stat. 1228; amended Pub. L. 97–304, § 5[(a)], Oct. 13, 1983, 96 Stat. 1421.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1982—Subsec. (c). Pub. L. 97–304, § 5[(a)](1), designated existing provisions as par. (1) and added par. (2).
+1982—Subsec. (c). Pub. L. 97–304, § 5[(a)](1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 97–304, § 5[(a)](2), substituted provisions relating to reservations by the United States under the Convention for provisions which had established an International Convention Advisory Commission and had provided for its membership, staffing, and operation.
+Subsec. (d). Pub. L. 97–304, § 5[(a)](2), substituted provisions relating to reservations by the United States under the Convention for provisions which had established an International Convention Advisory Commission and had provided for its membership, staffing, and operation.
 
-Subsec. (e). Pub. L. 97–304, § 5[(a)](3), substituted provisions implementing the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere for provisions which had provided that the President shall designate those agencies of the Federal Government that shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere.
+Subsec. (e). Pub. L. 97–304, § 5[(a)](3), substituted provisions implementing the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere for provisions which had provided that the President shall designate those agencies of the Federal Government that shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–304, § 5(b), Oct. 13, 1982, 96 Stat. 1422, provided that: “The amendment made by paragraph (1) of subsection (a) [amending this section] shall take effect January 1, 1981.”
+Pub. L. 97–304, § 5(b), Oct. 13, 1982, 96 Stat. 1422, provided that: “The amendment made by paragraph (1) of subsection (a) [amending this section] shall take effect January 1, 1981.”
 
 **Abolition of House Committee on Merchant Marine and Fisheries**
 
@@ -1455,9 +1455,9 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 **Endangered Species Scientific Authority; Interim Performance of Functions of Commission**
 
-Pub. L. 96–159, § 6(b), Dec. 28, 1979, 93 Stat. 1230, provided that until such time as the Chairman, Members, and Executive Secretary of the International Convention Advisory Commission are appointed, but not later than 90 days after Dec. 28, 1979, the functions of the Commission be carried out by the Endangered Species Scientific Authority as established by Ex. Ord. No. 11911, formerly set out as a note under section 1537 of this title, with staff and administrative support being provided by the Secretary of the Interior as set forth in that Executive Order.
+Pub. L. 96–159, § 6(b), Dec. 28, 1979, 93 Stat. 1230, provided that until such time as the Chairman, Members, and Executive Secretary of the International Convention Advisory Commission are appointed, but not later than 90 days after Dec. 28, 1979, the functions of the Commission be carried out by the Endangered Species Scientific Authority as established by Ex. Ord. No. 11911, formerly set out as a note under section 1537 of this title, with staff and administrative support being provided by the Secretary of the Interior as set forth in that Executive Order.
 
-## § 1538. Prohibited acts
+## § 1538. Prohibited acts
 
 **(a) Generally**
 
@@ -1553,9 +1553,9 @@ It is unlawful for any person importing or exporting fish or wildlife (other tha
 
 **(1)** It is unlawful for any person subject to the jurisdiction of the United States to import into or export from the United States any fish or wildlife (other than shellfish and fishery products which (A) are not listed pursuant to section 1533 of this title as endangered species or threatened species, and (B) are imported for purposes of human or animal consumption or taken in waters under the jurisdiction of the United States or on the high seas for recreational purposes) or plants, except at a port or ports designated by the Secretary of the Interior. For the purpose of facilitating enforcement of this chapter and reducing the costs thereof, the Secretary of the Interior, with approval of the Secretary of the Treasury and after notice and opportunity for public hearing, may, by regulation, designate ports and change such designations. The Secretary of the Interior, under such terms and conditions as he may prescribe, may permit the importation or exportation at nondesignated ports in the interest of the health or safety of the fish or wildlife or plants, or for other reasons, if, in his discretion, he deems it appropriate and consistent with the purpose of this subsection.
 
-**(2)** Any port designated by the Secretary of the Interior under the authority of section 668cc–4(d) 1
+**(2)** Any port designated by the Secretary of the Interior under the authority of section 668cc–4(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, shall, if such designation is in effect on December 27, 1973, be deemed to be a port designated by the Secretary under paragraph (1) of this subsection until such time as the Secretary otherwise provides.
 
@@ -1563,7 +1563,7 @@ of this title, shall, if such designation is in effect on December 27, 1973, be 
 
 It is unlawful for any person subject to the jurisdiction of the United States to attempt to commit, solicit another to commit, or cause to be committed, any offense defined in this section.
 
-(Pub. L. 93–205, § 9, Dec. 28, 1973, 87 Stat. 893; Pub. L. 95–632, § 4, Nov. 10, 1978, 92 Stat. 3760; Pub. L. 97–304, § 9(b), Oct. 13, 1982, 96 Stat. 1426; Pub. L. 100–478, title I, § 1006, title II, § 2301, Oct. 7, 1988, 102 Stat. 2308, 2321; Pub. L. 100–653, title IX, § 905, Nov. 14, 1988, 102 Stat. 3835.)
+(Pub. L. 93–205, § 9, Dec. 28, 1973, 87 Stat. 893; Pub. L. 95–632, § 4, Nov. 10, 1978, 92 Stat. 3760; Pub. L. 97–304, § 9(b), Oct. 13, 1982, 96 Stat. 1426; Pub. L. 100–478, title I, § 1006, title II, § 2301, Oct. 7, 1988, 102 Stat. 2308, 2321; Pub. L. 100–653, title IX, § 905, Nov. 14, 1988, 102 Stat. 3835.)
 
 **Editorial Notes**
 
@@ -1571,21 +1571,21 @@ It is unlawful for any person subject to the jurisdiction of the United States t
 
 This chapter, referred to in subsecs. (a)(1)(G), (2)(E), (c)(2), (e), and (f)(1), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-Section 668cc–4 of this title, referred to in subsec. (f)(2), was repealed by Pub. L. 93–205, § 14, Dec. 28, 1973, 87 Stat. 903.
+Section 668cc–4 of this title, referred to in subsec. (f)(2), was repealed by Pub. L. 93–205, § 14, Dec. 28, 1973, 87 Stat. 903.
 
 **Amendments**
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–478, § 1006, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “remove and reduce to possession any such species from areas under Federal jurisdiction;”.
+1988—Subsec. (a)(2)(B). Pub. L. 100–478, § 1006, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “remove and reduce to possession any such species from areas under Federal jurisdiction;”.
 
-Subsec. (d). Pub. L. 100–478, § 2301, amended subsec. (d) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
+Subsec. (d). Pub. L. 100–478, § 2301, amended subsec. (d) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
 
 Subsec. (d)(1)(A). Pub. L. 100–653 inserted “or plants” after “purposes)”.
 
-1982—Subsec. (a)(2)(B) to (E). Pub. L. 97–304, § 9(b)(1), added subpar. (B) and redesignated former subpars. (B), (C), and (D) as (C), (D), and (E), respectively.
+1982—Subsec. (a)(2)(B) to (E). Pub. L. 97–304, § 9(b)(1), added subpar. (B) and redesignated former subpars. (B), (C), and (D) as (C), (D), and (E), respectively.
 
-Subsec. (b)(1). Pub. L. 97–304, § 9(b)(2), substituted “The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title: *Provided*, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title, there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection” for “The provisions of this section shall not apply to any fish or wildlife held in captivity or in a controlled environment on December 28, 1973, if the purposes of such holding are not contrary to the purposes of this chapter; except that this subsection shall not apply in the case of any fish or wildlife held in the course of a commercial activity. With respect to any act prohibited by this section which occurs after a period of 180 days from December 28, 1973, there shall be a rebuttable presumption that the fish or wildlife involved in such act was not held in captivity or in a controlled environment on December 28, 1973”.
+Subsec. (b)(1). Pub. L. 97–304, § 9(b)(2), substituted “The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title: *Provided*, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title, there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection” for “The provisions of this section shall not apply to any fish or wildlife held in captivity or in a controlled environment on December 28, 1973, if the purposes of such holding are not contrary to the purposes of this chapter; except that this subsection shall not apply in the case of any fish or wildlife held in the course of a commercial activity. With respect to any act prohibited by this section which occurs after a period of 180 days from December 28, 1973, there shall be a rebuttable presumption that the fish or wildlife involved in such act was not held in captivity or in a controlled environment on December 28, 1973”.
 
-Subsec. (b)(2)(A). Pub. L. 97–304, § 9(b)(3), substituted “The provisions of subsection (a)(1) shall not apply to” for “This section shall not apply to” in provisions preceding cl. (i).
+Subsec. (b)(2)(A). Pub. L. 97–304, § 9(b)(3), substituted “The provisions of subsection (a)(1) shall not apply to” for “This section shall not apply to” in provisions preceding cl. (i).
 
 1978—Subsec. (b). Pub. L. 95–632 designated existing provision as par. (1) and added par. (2).
 
@@ -1593,7 +1593,7 @@ Subsec. (b)(2)(A). Pub. L. 97–304, § 9(b)(3), substituted “The provisions
 
 **Exemption of Exportation of Certain Echinoderms From Permission and Licensing Requirements**
 
-Pub. L. 115–334, title XII, § 12617, Dec. 20, 2018, 132 Stat. 5016, provided that:
+Pub. L. 115–334, title XII, § 12617, Dec. 20, 2018, 132 Stat. 5016, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1643,7 +1643,7 @@ Pub. L. 115–334, title XII, § 12617, Dec. 20, 2018, 132 Stat. 5016, provide
 
 **Human Activities Within Proximity of Whales**
 
-Pub. L. 103–238, § 17, Apr. 30, 1994, 108 Stat. 559, provided that:
+Pub. L. 103–238, § 17, Apr. 30, 1994, 108 Stat. 559, provided that:
 
 > **“(a) Lawful Approaches.—** In waters of the United States surrounding the State of Hawaii, it is lawful for a person subject to the jurisdiction of the United States to approach, by any means other than an aircraft, no closer than 100 yards to a humpback whale, regardless of whether the approach is made in waters designated under section 222.31 of title 50, Code of Federal Regulations, as cow/calf waters.
 
@@ -1655,7 +1655,7 @@ Pub. L. 103–238, § 17, Apr. 30, 1994, 108 Stat. 559, provided that:
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## § 1539. Exceptions
+## § 1539. Exceptions
 
 **(a) Permits**
 
@@ -1695,9 +1695,9 @@ and he has received such other assurances as he may require that the plan will b
 
 **(b) Hardship exemptions**
 
-**(1)** If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 1
+**(1)** If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
 
@@ -1801,9 +1801,9 @@ to insure that any such part so exempted is adequately accounted for and not dis
 
 **(A)**
 
-**(i)**  2
+**(i)** 2
 
-<sup>2</sup>  So in original. No cl. (ii) has been enacted.
+<sup>2</sup> So in original. No cl. (ii) has been enacted.
 
 Any valid certificate of exemption which was renewed after October 13, 1982, and was in effect on March 31, 1988, shall be deemed to be renewed for a six-month period beginning on October 7, 1988. Any person holding such a certificate may apply to the Secretary for one additional renewal of such certificate for a period not to exceed 5 years beginning on October 7, 1988.
 
@@ -1875,7 +1875,7 @@ be an importation not in violation of any provision of this chapter or any regul
 
 **(3)** The Secretary, with respect to populations of endangered species or threatened species that the Secretary authorized, before October 13, 1982, for release in geographical areas separate from the other populations of such species, shall determine by regulation which of such populations are an experimental population for the purposes of this subsection and whether or not each is essential to the continued existence of an endangered species or a threatened species.
 
-(Pub. L. 93–205, § 10, Dec. 28, 1973, 87 Stat. 896; Pub. L. 94–359, §§ 2, 3, July 12, 1976, 90 Stat. 911, 912; Pub. L. 95–632, § 5, Nov. 10, 1978, 92 Stat. 3760; Pub. L. 96–159, § 7, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, § 6(1)–(4)(A), (5), (6), Oct. 13, 1982, 96 Stat. 1422–1424; Pub. L. 100–478, title I, §§ 1011, 1013(b), (c), Oct. 7, 1988, 102 Stat. 2314, 2315.)
+(Pub. L. 93–205, § 10, Dec. 28, 1973, 87 Stat. 896; Pub. L. 94–359, §§ 2, 3, July 12, 1976, 90 Stat. 911, 912; Pub. L. 95–632, § 5, Nov. 10, 1978, 92 Stat. 3760; Pub. L. 96–159, § 7, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, § 6(1)–(4)(A), (5), (6), Oct. 13, 1982, 96 Stat. 1422–1424; Pub. L. 100–478, title I, §§ 1011, 1013(b), (c), Oct. 7, 1988, 102 Stat. 2314, 2315.)
 
 **Editorial Notes**
 
@@ -1883,9 +1883,9 @@ be an importation not in violation of any provision of this chapter or any regul
 
 This chapter, referred to in text, was in the original “this Act”, except for “the Act” in subsec. (f)(6)(B), meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-Section 668cc–3 of this title, referred to in subsec. (b), was repealed by Pub. L. 93–205, § 14, Dec. 28, 1973, 87 Stat. 903.
+Section 668cc–3 of this title, referred to in subsec. (b), was repealed by Pub. L. 93–205, § 14, Dec. 28, 1973, 87 Stat. 903.
 
-Subsec. (f) of section 1533 of this title, referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of section 1533 of this title, was redesignated as subsec. (f), by Pub. L. 97–304, § 2(a)(4)(B), (C), Oct. 13, 1982, 96 Stat. 1415. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of section 1533 of this title.
+Subsec. (f) of section 1533 of this title, referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of section 1533 of this title, was redesignated as subsec. (f), by Pub. L. 97–304, § 2(a)(4)(B), (C), Oct. 13, 1982, 96 Stat. 1415. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of section 1533 of this title.
 
 Effective date of this subsection, referred to in subsec. (f)(6)(A), probably means the date of enactment of subsec. (f) by section 2 of Pub. L. 94–359, July 12, 1976.
 
@@ -1893,47 +1893,47 @@ October 7, 1988, referred to in subsec. (f)(8)(A), was in the original “the da
 
 **Amendments**
 
-1988—Subsec. (c). Pub. L. 100–478, § 1013(b), substituted “notice, of” for “notice,” in second sentence.
+1988—Subsec. (c). Pub. L. 100–478, § 1013(b), substituted “notice, of” for “notice,” in second sentence.
 
-Subsec. (e)(3)(ii). Pub. L. 100–478, § 1013(c), substituted “lacing,” for “lacking,”.
+Subsec. (e)(3)(ii). Pub. L. 100–478, § 1013(c), substituted “lacing,” for “lacking,”.
 
-Subsec. (f)(8)(A). Pub. L. 100–478, § 1011(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person to whom a certificate of exemption has been issued under paragraph (4) of this subsection may apply to the Secretary for a renewal of such exemption for a period not to exceed three years beginning on the expiration date of such certificate. Such application shall be made in the same manner as the application for exemption was made under paragraph (3), but without regard to subparagraph (A) of such paragraph.”
+Subsec. (f)(8)(A). Pub. L. 100–478, § 1011(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person to whom a certificate of exemption has been issued under paragraph (4) of this subsection may apply to the Secretary for a renewal of such exemption for a period not to exceed three years beginning on the expiration date of such certificate. Such application shall be made in the same manner as the application for exemption was made under paragraph (3), but without regard to subparagraph (A) of such paragraph.”
 
-Subsec. (f)(8)(B). Pub. L. 100–478, § 1011(b), substituted “previous” for “original”.
+Subsec. (f)(8)(B). Pub. L. 100–478, § 1011(b), substituted “previous” for “original”.
 
-Subsec. (f)(8)(D). Pub. L. 100–478, § 1011(c), added subpar. (D).
+Subsec. (f)(8)(D). Pub. L. 100–478, § 1011(c), added subpar. (D).
 
-Subsec. (f)(9). Pub. L. 100–478, § 1011(d), struck out par. (9) which provided for comprehensive review by Secretary of effectiveness of regulations prescribed pursuant to subsec. (f)(5) of this section.
+Subsec. (f)(9). Pub. L. 100–478, § 1011(d), struck out par. (9) which provided for comprehensive review by Secretary of effectiveness of regulations prescribed pursuant to subsec. (f)(5) of this section.
 
-1982—Subsec. (a). Pub. L. 97–304, § 6(1), designated as par. (1) and the beginning phrase of subpar. (A) thereof the existing provisions consisting of language authorizing the Secretary to permit, under such terms and conditions as he may prescribe, any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, and inserted remainder of par. (1)(A) and pars. (1)(B) and (2).
+1982—Subsec. (a). Pub. L. 97–304, § 6(1), designated as par. (1) and the beginning phrase of subpar. (A) thereof the existing provisions consisting of language authorizing the Secretary to permit, under such terms and conditions as he may prescribe, any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, and inserted remainder of par. (1)(A) and pars. (1)(B) and (2).
 
-Subsec. (d). Pub. L. 97–304, § 6(2), substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
+Subsec. (d). Pub. L. 97–304, § 6(2), substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
 
-Subsec. (f)(1)(B). Pub. L. 97–304, § 6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, or the carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
+Subsec. (f)(1)(B). Pub. L. 97–304, § 6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, or the carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
 
-Subsec. (f)(9). Pub. L. 97–304, § 6(3)(B), added par. (9).
+Subsec. (f)(9). Pub. L. 97–304, § 6(3)(B), added par. (9).
 
-Subsec. (h)(1). Pub. L. 97–304, § 6(4)(A), struck out “(other than scrimshaw)” after “do not apply to any article” in provisions preceding subpar. (A) and in subpar. (A) substituted “is not less than 100 years of age” for “was made before 1830”.
+Subsec. (h)(1). Pub. L. 97–304, § 6(4)(A), struck out “(other than scrimshaw)” after “do not apply to any article” in provisions preceding subpar. (A) and in subpar. (A) substituted “is not less than 100 years of age” for “was made before 1830”.
 
-Subsec. (i). Pub. L. 97–304, § 6(5), substituted provisions covering noncommercial transshipments of fish or wildlife for provisions that had related to exemptions from the provisions of this title of the Tellico Dam and Reservoir Project and the Grayrocks Dam and Reservoir Project and to the operation of the Missouri Basin Power Project.
+Subsec. (i). Pub. L. 97–304, § 6(5), substituted provisions covering noncommercial transshipments of fish or wildlife for provisions that had related to exemptions from the provisions of this title of the Tellico Dam and Reservoir Project and the Grayrocks Dam and Reservoir Project and to the operation of the Missouri Basin Power Project.
 
-Subsec. (j). Pub. L. 97–304, § 6(6), added subsec. (j).
+Subsec. (j). Pub. L. 97–304, § 6(6), added subsec. (j).
 
-1979—Subsec. (f)(4)(C). Pub. L. 96–159, § 7(1), inserted “unless such exemption is renewed under paragraph (8)” after “issuance of the certificate”.
+1979—Subsec. (f)(4)(C). Pub. L. 96–159, § 7(1), inserted “unless such exemption is renewed under paragraph (8)” after “issuance of the certificate”.
 
-Subsec. (f)(8). Pub. L. 96–159, § 7(2), added par. (8).
+Subsec. (f)(8). Pub. L. 96–159, § 7(2), added par. (8).
 
 1978—Subsecs. (h), (i). Pub. L. 95–632 added subsecs. (h) and (i).
 
-1976—Subsec. (c). Pub. L. 94–359, § 3, substituted “section” for “subsection” and inserted “; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit.” after “every stage of the proceeding”.
+1976—Subsec. (c). Pub. L. 94–359, § 3, substituted “section” for “subsection” and inserted “; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit.” after “every stage of the proceeding”.
 
-Subsecs. (f), (g). Pub. L. 94–359, § 2, added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 94–359, § 2, added subsecs. (f) and (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–304, § 6(4)(B), Oct. 13, 1982, 96 Stat. 1424, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect January 1, 1981.”
+Pub. L. 97–304, § 6(4)(B), Oct. 13, 1982, 96 Stat. 1424, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect January 1, 1981.”
 
 **Transfer of Functions**
 
@@ -1941,9 +1941,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Scrimshaw Exemptions**
 
-Pub. L. 103–238, § 18, Apr. 30, 1994, 108 Stat. 559, provided that: “Notwithstanding any other provision of law, any valid certificate of exemption renewed by the Secretary (or deemed to be renewed) under section 10(f)(8) of the Endangered Species Act of 1973 (16 U.S.C. 1539(f)(8)) for any person holding such a certificate with respect to the possession of pre-Act finished scrimshaw products or raw material for such products shall remain valid for a period not to exceed 5 years beginning on the date of enactment of this Act [Apr. 30, 1994].”
+Pub. L. 103–238, § 18, Apr. 30, 1994, 108 Stat. 559, provided that: “Notwithstanding any other provision of law, any valid certificate of exemption renewed by the Secretary (or deemed to be renewed) under section 10(f)(8) of the Endangered Species Act of 1973 (16 U.S.C. 1539(f)(8)) for any person holding such a certificate with respect to the possession of pre-Act finished scrimshaw products or raw material for such products shall remain valid for a period not to exceed 5 years beginning on the date of enactment of this Act [Apr. 30, 1994].”
 
-## § 1540. Penalties and enforcement
+## § 1540. Penalties and enforcement
 
 **(a) Civil penalties**
 
@@ -2033,13 +2033,13 @@ The district courts shall have jurisdiction, without regard to the amount in con
 
 **(h) Coordination with other laws**
 
-The Secretary of Agriculture and the Secretary shall provide for appropriate coordination of the administration of this chapter with the administration of the animal quarantine laws (as defined in section 136a(f) of title 21) and section 306 1
+The Secretary of Agriculture and the Secretary shall provide for appropriate coordination of the administration of this chapter with the administration of the animal quarantine laws (as defined in section 136a(f) of title 21) and section 306 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Tariff Act of 1930 (19 U.S.C. 1306). Nothing in this chapter or any amendment made by this chapter shall be construed as superseding or limiting in any manner the functions of the Secretary of Agriculture under any other law relating to prohibited or restricted importations or possession of animals and other articles and no proceeding or determination under this chapter shall preclude any proceeding or be considered determinative of any issue of fact or law in any proceeding under any Act administered by the Secretary of Agriculture. Nothing in this chapter shall be construed as superseding or limiting in any manner the functions and responsibilities of the Secretary of the Treasury under the Tariff Act of 1930 [19 U.S.C. 1202 et seq.], including, without limitation, section 527 of that Act (19 U.S.C. 1527), relating to the importation of wildlife taken, killed, possessed, or exported to the United States in violation of the laws or regulations of a foreign country.
 
-(Pub. L. 93–205, § 11, Dec. 28, 1973, 87 Stat. 897; Pub. L. 94–359, § 4, July 12, 1976, 90 Stat. 913; Pub. L. 95–632, §§ 6–8, Nov. 10, 1978, 92 Stat. 3761, 3762; Pub. L. 97–79, § 9(e), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 97–304, §§ 7, 9(c), Oct. 13, 1982, 96 Stat. 1425, 1427; Pub. L. 98–327, § 4, June 25, 1984, 98 Stat. 271; Pub. L. 100–478, title I, § 1007, Oct. 7, 1988, 102 Stat. 2309; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, § 10418(b)(3), May 13, 2002, 116 Stat. 508.)
+(Pub. L. 93–205, § 11, Dec. 28, 1973, 87 Stat. 897; Pub. L. 94–359, § 4, July 12, 1976, 90 Stat. 913; Pub. L. 95–632, §§ 6–8, Nov. 10, 1978, 92 Stat. 3761, 3762; Pub. L. 97–79, § 9(e), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 97–304, §§ 7, 9(c), Oct. 13, 1982, 96 Stat. 1425, 1427; Pub. L. 98–327, § 4, June 25, 1984, 98 Stat. 271; Pub. L. 100–478, title I, § 1007, Oct. 7, 1988, 102 Stat. 2309; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, § 10418(b)(3), May 13, 2002, 116 Stat. 508.)
 
 **Editorial Notes**
 
@@ -2049,45 +2049,45 @@ This chapter, referred to in subsecs. (a)(1), (3), (b)–(f), (g)(1)(A), and (h)
 
 The amendments made by this chapter, referred to in subsec. (h), refer to the amendments made by Pub. L. 93–205, which amended section 460k–1, former section 460*l*–9, and sections 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, and repealed sections 668aa to 668cc–6 of this title.
 
-The Tariff Act of 1930, referred to in subsec. (h), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Section 306 of the Act was repealed by Pub. L. 107–171, title X, § 10418(a)(5), May 13, 2002, 116 Stat. 507. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (h), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Section 306 of the Act was repealed by Pub. L. 107–171, title X, § 10418(a)(5), May 13, 2002, 116 Stat. 507. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 **Amendments**
 
 2002—Subsec. (h). Pub. L. 107–171 substituted “animal quarantine laws (as defined in section 136a(f) of title 21)” for “animal quarantine laws (21 U.S.C. 101–105, 111–135b, and 612–614)”.
 
-1988—Subsec. (a)(1). Pub. L. 100–478, § 1007(a), substituted “$25,000” for “$10,000” and “$12,000” for “$5,000”.
+1988—Subsec. (a)(1). Pub. L. 100–478, § 1007(a), substituted “$25,000” for “$10,000” and “$12,000” for “$5,000”.
 
-Subsec. (b)(1). Pub. L. 100–478, § 1007(b), substituted “$50,000” for “$20,000” and “$25,000” for “$10,000”.
+Subsec. (b)(1). Pub. L. 100–478, § 1007(b), substituted “$50,000” for “$20,000” and “$25,000” for “$10,000”.
 
-Subsec. (d). Pub. L. 100–478, § 1007(c), inserted at end “Whenever the balance of sums received under this section and section 3375(d) of this title, as penalties or fines, or from forfeitures of property, exceed $500,000, the Secretary of the Treasury shall deposit an amount equal to such excess balance in the cooperative endangered species conservation fund established under section 1535(i) of this title.”
+Subsec. (d). Pub. L. 100–478, § 1007(c), inserted at end “Whenever the balance of sums received under this section and section 3375(d) of this title, as penalties or fines, or from forfeitures of property, exceed $500,000, the Secretary of the Treasury shall deposit an amount equal to such excess balance in the cooperative endangered species conservation fund established under section 1535(i) of this title.”
 
 1984—Subsec. (d). Pub. L. 98–327, in first sentence, substituted a comma for “a reward” after “shall pay”, inserted “(1) a reward” before “to any person”, and added cl. (2).
 
-1982—Subsecs. (a)(1), (b)(1). Pub. L. 97–304, § 9(c), substituted “(a)(2)(A), (B), (C), or (D)” for “(a)(2)(A), (B), or (C)”.
+1982—Subsecs. (a)(1), (b)(1). Pub. L. 97–304, § 9(c), substituted “(a)(2)(A), (B), (C), or (D)” for “(a)(2)(A), (B), or (C)”.
 
-Subsec. (e)(6). Pub. L. 97–304, § 7(1), added par. (6).
+Subsec. (e)(6). Pub. L. 97–304, § 7(1), added par. (6).
 
-Subsec. (g)(1)(B). Pub. L. 97–304, § 7(2)(A)(i), substituted “any State; or” for “any State.”.
+Subsec. (g)(1)(B). Pub. L. 97–304, § 7(2)(A)(i), substituted “any State; or” for “any State.”.
 
-Subsec. (g)(1)(C). Pub. L. 97–304, § 7(2)(A)(ii), added subpar. (C).
+Subsec. (g)(1)(C). Pub. L. 97–304, § 7(2)(A)(ii), added subpar. (C).
 
-Subsec. (g)(1). Pub. L. 97–304, § 7(2)(A)(iii), inserted “or to order the Secretary to perform such act or duty,” after “any such provision or regulation,” in provisions following subpar. (C).
+Subsec. (g)(1). Pub. L. 97–304, § 7(2)(A)(iii), inserted “or to order the Secretary to perform such act or duty,” after “any such provision or regulation,” in provisions following subpar. (C).
 
-Subsec. (g)(2)(C). Pub. L. 97–304, § 7(2)(B), added subpar. (C).
+Subsec. (g)(2)(C). Pub. L. 97–304, § 7(2)(B), added subpar. (C).
 
 1981—Subsec. (d). Pub. L. 97–79 substituted “The Secretary or the Secretary of the Treasury shall pay a reward from sums received as penalties, fines, or forfeitures of property for any violation of this chapter or any regulation issued hereunder to any person who furnishes information which leads to an arrest, a criminal conviction, civil penalty assessment, or forfeiture of property for any violation of this chapter or any regulation issued hereunder” for “Upon the recommendation of the Secretary, the Secretary of the Treasury is authorized to pay an amount equal to one-half of the civil penalty or fine paid, but not to exceed $2,500, to any person who furnishes information which leads to a finding of civil violation or a conviction of a criminal violation of any provision of this chapter or any regulation or permit issued thereunder” and inserted provision that the amount of the reward, if any, be designated by the Secretary or the Secretary of the Treasury, as appropriate.
 
-1978—Subsec. (a)(1). Pub. L. 95–632, § 6(1), (2), substituted “and any person engaged in business as an importer or exporter of fish, wildlife, or plants who violates” for “or who knowingly commits an act in the course of a commercial activity which violates” in two places and “$500” for “$1,000”.
+1978—Subsec. (a)(1). Pub. L. 95–632, § 6(1), (2), substituted “and any person engaged in business as an importer or exporter of fish, wildlife, or plants who violates” for “or who knowingly commits an act in the course of a commercial activity which violates” in two places and “$500” for “$1,000”.
 
-Subsec. (a)(3). Pub. L. 95–632, § 7, added par. (3).
+Subsec. (a)(3). Pub. L. 95–632, § 7, added par. (3).
 
-Subsec. (b)(1). Pub. L. 95–632, § 6(3), substituted “knowingly” for “willfully commits an act which” in two places.
+Subsec. (b)(1). Pub. L. 95–632, § 6(3), substituted “knowingly” for “willfully commits an act which” in two places.
 
-Subsec. (b)(2). Pub. L. 95–632, § 6(4), inserted “a person to import or export fish, wildlife, or plants, or to operate a quarantine station for imported wildlife, or authorizing” after “authorizing”.
+Subsec. (b)(2). Pub. L. 95–632, § 6(4), inserted “a person to import or export fish, wildlife, or plants, or to operate a quarantine station for imported wildlife, or authorizing” after “authorizing”.
 
-Subsec. (b)(3). Pub. L. 95–632, § 8, added par. (3).
+Subsec. (b)(3). Pub. L. 95–632, § 8, added par. (3).
 
-1976—Subsec. (e)(3). Pub. L. 94–359 inserted “make arrests without a warrant for any violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing the violation in his presence or view, and may” after “Such person may” and “, but upon forfeiture of any such property to the United States, or the abandonment or waiver of any claim to any such property, it shall be disposed of (other than by sale to the general public) by the Secretary in such a manner, consistent with the purposes of this chapter, as the Secretary shall by regulation prescribe,” after “other surety satisfactory to the Secretary”.
+1976—Subsec. (e)(3). Pub. L. 94–359 inserted “make arrests without a warrant for any violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing the violation in his presence or view, and may” after “Such person may” and “, but upon forfeiture of any such property to the United States, or the abandonment or waiver of any claim to any such property, it shall be disposed of (other than by sale to the general public) by the Secretary in such a manner, consistent with the purposes of this chapter, as the Secretary shall by regulation prescribe,” after “other surety satisfactory to the Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2097,7 +2097,7 @@ Subsec. (b)(3). Pub. L. 95–632, § 8, added par. (3).
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–79, § 9(f), Nov. 16, 1981, 95 Stat. 1080, provided that: “The amendment specified in subsection 9(e) of this Act [amending this section] shall take effect beginning in fiscal year 1983.”
+Pub. L. 97–79, § 9(f), Nov. 16, 1981, 95 Stat. 1080, provided that: “The amendment specified in subsection 9(e) of this Act [amending this section] shall take effect beginning in fiscal year 1983.”
 
 **Transfer of Functions**
 
@@ -2105,13 +2105,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this section to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1541. Endangered plants
+## § 1541. Endangered plants
 
 The Secretary of the Smithsonian Institution, in conjunction with other affected agencies, is authorized and directed to review (1) species of plants which are now or may become endangered or threatened and (2) methods of adequately conserving such species, and to report to Congress, within one year after December 28, 1973, the results of such review including recommendations for new legislation or the amendment of existing legislation.
 
-(Pub. L. 93–205, § 12, Dec. 28, 1973, 87 Stat. 901.)
+(Pub. L. 93–205, § 12, Dec. 28, 1973, 87 Stat. 901.)
 
-## § 1542. Authorization of appropriations
+## § 1542. Authorization of appropriations
 
 **(a) In general** Except as provided in subsections (b), (c), and (d), there are authorized to be appropriated—
 
@@ -2123,9 +2123,9 @@ The Secretary of the Smithsonian Institution, in conjunction with other affected
 
 **(b) Exemptions**
 
-There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections 1
+There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 1536(e), (g), and (h) of this title not to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
 
@@ -2133,7 +2133,7 @@ There are authorized to be appropriated to the Secretary to assist him and the E
 
 There are authorized to be appropriated to the Department of the Interior for purposes of carrying out section 1537a(e) of this title not to exceed $400,000 for each of fiscal years 1988, 1989, and 1990, and $500,000 for each of fiscal years 1991 and 1992, and such sums shall remain available until expended.
 
-(Pub. L. 93–205, § 15, Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–325, June 30, 1976, 90 Stat. 724; Pub. L. 95–632, § 9, Nov. 10, 1978, 92 Stat. 3762; Pub. L. 96–159, § 8, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, § 8[(a)], Oct. 13, 1982, 96 Stat. 1425; Pub. L. 100–478, title I, § 1009, Oct. 7, 1988, 102 Stat. 2312.)
+(Pub. L. 93–205, § 15, Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–325, June 30, 1976, 90 Stat. 724; Pub. L. 95–632, § 9, Nov. 10, 1978, 92 Stat. 3762; Pub. L. 96–159, § 8, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, § 8[(a)], Oct. 13, 1982, 96 Stat. 1425; Pub. L. 100–478, title I, § 1009, Oct. 7, 1988, 102 Stat. 2312.)
 
 **Editorial Notes**
 
@@ -2159,15 +2159,15 @@ Par. (1). Pub. L. 95–632 substituted provision authorizing appropriations of n
 
 Par. (2). Pub. L. 95–632 substituted provision authorizing appropriations of not to exceed $5,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, of not to exceed $2,500,000 for the fiscal year ending Sept. 30, 1979, and of not to exceed $12,500,000 for the period beginning Oct. 1, 1979 and ending Mar. 31, 1980 for provision authorizing appropriations of not to exceed $2,000,000 for the fiscal year ending June 30, 1976, of not to exceed $500,000 for the fiscal transitional period ending Sept. 30, 1976 and of not to exceed a total of $5,000,000 for the fiscal year Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978.
 
-1976—Par. (1). Pub. L. 94–325, § 1(1), redesignated par. (A) as (1), inserted provisions authorizing appropriations for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $4,000,000 for fiscal year 1974, and not to exceed $8,000,000 for fiscal year 1975.
+1976—Par. (1). Pub. L. 94–325, § 1(1), redesignated par. (A) as (1), inserted provisions authorizing appropriations for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $4,000,000 for fiscal year 1974, and not to exceed $8,000,000 for fiscal year 1975.
 
-Par. (2). Pub. L. 94–325, § 1(2), redesignated par. (B) as (2), inserted provisions authorizing appropriation for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $2,000,000 for fiscal year 1974, and not to exceed $1,500,000 for fiscal year 1975.
+Par. (2). Pub. L. 94–325, § 1(2), redesignated par. (B) as (2), inserted provisions authorizing appropriation for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $2,000,000 for fiscal year 1974, and not to exceed $1,500,000 for fiscal year 1975.
 
-## § 1543. Construction with Marine Mammal Protection Act of 1972
+## § 1543. Construction with Marine Mammal Protection Act of 1972
 
 Except as otherwise provided in this chapter, no provision of this chapter shall take precedence over any more restrictive conflicting provision of the Marine Mammal Protection Act of 1972 [16 U.S.C. 1361 et seq.].
 
-(Pub. L. 93–205, § 17, Dec. 28, 1973, 87 Stat. 903.)
+(Pub. L. 93–205, § 17, Dec. 28, 1973, 87 Stat. 903.)
 
 **Editorial Notes**
 
@@ -2175,9 +2175,9 @@ Except as otherwise provided in this chapter, no provision of this chapter shall
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in text, is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in text, is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-## § 1544. Annual cost analysis by Fish and Wildlife Service
+## § 1544. Annual cost analysis by Fish and Wildlife Service
 
 Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), on or before January 15, 1990, and each January 15 thereafter, the Secretary of the Interior, acting through the Fish and Wildlife Service, shall submit to the Congress an annual report covering the preceding fiscal year which shall contain—
 
@@ -2185,7 +2185,7 @@ Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 St
 
 **(2)** an accounting on a species by species basis of all reasonably identifiable expenditures made primarily for the conservation of endangered or threatened species pursuant to this chapter by States receiving grants under section 1535 of this title.
 
-(Pub. L. 93–205, § 18, as added Pub. L. 100–478, title I, § 1012, Oct. 7, 1988, 102 Stat. 2314; amended Pub. L. 106–201, § 1(a), May 18, 2000, 114 Stat. 307.)
+(Pub. L. 93–205, § 18, as added Pub. L. 100–478, title I, § 1012, Oct. 7, 1988, 102 Stat. 2314; amended Pub. L. 106–201, § 1(a), May 18, 2000, 114 Stat. 307.)
 
 **Editorial Notes**
 
@@ -2201,7 +2201,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–201, § 1(b), May 18, 2000, 114 Stat. 307, provided that:
+Pub. L. 106–201, § 1(b), May 18, 2000, 114 Stat. 307, provided that:
 
 > “The amendment made by this section [amending this section] takes effect on the earlier of—
 

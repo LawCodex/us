@@ -17,15 +17,15 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 1431. Congressional declaration of objectives
+### § 1431. Congressional declaration of objectives
 
 The Congress declares that the objectives of this chapter are to enable the Government of the United States to promote a better understanding of the United States in other countries, and to increase mutual understanding between the people of the United States and the people of other countries. Among the means to be used in achieving these objectives are—
 
 **(1)** an information service to disseminate abroad information about the United States, its people, and policies promulgated by the Congress, the President, the Secretary of State and other responsible officials of Government having to do with matters affecting foreign affairs;
 
-**(2)** Repealed. Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538.
+**(2)** Repealed. Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538.
 
-(Jan. 27, 1948, ch. 36, title I, § 2, 62 Stat. 6; Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538.)
+(Jan. 27, 1948, ch. 36, title I, § 2, 62 Stat. 6; Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538.)
 
 **Editorial Notes**
 
@@ -37,7 +37,7 @@ The Congress declares that the objectives of this chapter are to enable the Gove
 
 **Termination of Chapter**
 
-Act Jan. 27, 1948, ch. 36, title X, § 1006, 62 Stat. 14, provided that: “The authority granted under this Act [this chapter] shall terminate whenever such termination is directed by concurrent resolution of the two Houses of the Congress.”
+Act Jan. 27, 1948, ch. 36, title X, § 1006, 62 Stat. 14, provided that: “The authority granted under this Act [this chapter] shall terminate whenever such termination is directed by concurrent resolution of the two Houses of the Congress.”
 
 **Short Title of 1983 Amendment**
 
@@ -45,23 +45,23 @@ For short title of Pub. L. 98–111, which enacted subchapter V–A of this chap
 
 **Short Title of 1973 Amendment**
 
-Pub. L. 93–168, § 1, Nov. 29, 1973, 87 Stat. 688, provided: “That this Act [amending former section 1476 of this title] may be cited as the ‘United States Information Agency Appropriations Authorization Act of 1973’.”
+Pub. L. 93–168, § 1, Nov. 29, 1973, 87 Stat. 688, provided: “That this Act [amending former section 1476 of this title] may be cited as the ‘United States Information Agency Appropriations Authorization Act of 1973’.”
 
 **Short Title**
 
-Act Jan. 27, 1948, ch. 36, title I, § 1, 62 Stat. 6, provided that: “This Act [enacting this chapter] may be cited as the ‘United States Information and Educational Exchange Act of 1948’.”
+Act Jan. 27, 1948, ch. 36, title I, § 1, 62 Stat. 6, provided that: “This Act [enacting this chapter] may be cited as the ‘United States Information and Educational Exchange Act of 1948’.”
 
 **Separability**
 
-Act Jan. 27, 1948, ch. 36, title X, § 1010, 62 Stat. 14, provided that: “If any provision of this Act [enacting this chapter] or the application of any such provision to any person or circumstance shall be held invalid, the validity of the remainder of the Act [this chapter] and the applicability of such provision to other persons or circumstances shall not be affected thereby.”
+Act Jan. 27, 1948, ch. 36, title X, § 1010, 62 Stat. 14, provided that: “If any provision of this Act [enacting this chapter] or the application of any such provision to any person or circumstance shall be held invalid, the validity of the remainder of the Act [this chapter] and the applicability of such provision to other persons or circumstances shall not be affected thereby.”
 
 **Transfer of Functions**
 
-All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, except to the extent that such functions were vested in the President under sections 1452, 1456, and 1467 of this title. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, except to the extent that such functions were vested in the President under sections 1452, 1456, and 1467 of this title. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 **Promotion of Free Media and Other American Values**
 
-Pub. L. 108–458, title VII, § 7108, Dec. 17, 2004, 118 Stat. 3790, provided that:
+Pub. L. 108–458, title VII, § 7108, Dec. 17, 2004, 118 Stat. 3790, provided that:
 
 > **“(a) Promotion of United States Values Through Broadcast Media.—**
 
@@ -129,13 +129,13 @@ Pub. L. 108–458, title VII, § 7108, Dec. 17, 2004, 118 Stat. 3790, provided
 
 Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, set out as section 2451 et seq. of this title, until modified or superseded by appropriate authority, of all Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of this section, see section 111(b) of Pub. L. 87–256, set out as a note under section 2451 of this title.
 
-### § 1432. Information on United States participation in United Nations
+### § 1432. Information on United States participation in United Nations
 
 In carrying out the objectives of this chapter, information concerning the participation of the United States in the United Nations, its organizations and functions, shall be emphasized.
 
-(Jan. 27, 1948, ch. 36, title I, § 3, 62 Stat. 6.)
+(Jan. 27, 1948, ch. 36, title I, § 3, 62 Stat. 6.)
 
-### § 1433. Definitions
+### § 1433. Definitions
 
 When used in this chapter, the term—
 
@@ -145,11 +145,11 @@ When used in this chapter, the term—
 
 **(3)** “Government agency” means any executive department, board, bureau, commission, or other agency of the Federal Government, or independent establishment, or any corporation wholly owned (either directly or through one or more corporations) by the United States.
 
-(Jan. 27, 1948, ch. 36, title I, § 4, 62 Stat. 6.)
+(Jan. 27, 1948, ch. 36, title I, § 4, 62 Stat. 6.)
 
-### § 1434. Repealed. Pub. L. 96–60, title II, § 203(a)(1), Aug. 15, 1979, 93 Stat. 398
+### § 1434. Repealed. Pub. L. 96–60, title II, § 203(a)(1), Aug. 15, 1979, 93 Stat. 398
 
-Section, acts Jan. 27, 1948, ch. 36, title X, § 1001, 62 Stat. 13; Apr. 5, 1952, ch. 159, § 1, 66 Stat. 43; 1977 Reorg. Plan No. 2, § 7(a)(1), 42 F.R. 62461, 91 Stat. 1637; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783, provided for loyalty check of personnel. Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538, previously repealed this section insofar as it related to persons employed or assigned to duties under the Mutual Educational and Cultural Exchange Act of 1961.
+Section, acts Jan. 27, 1948, ch. 36, title X, § 1001, 62 Stat. 13; Apr. 5, 1952, ch. 159, § 1, 66 Stat. 43; 1977 Reorg. Plan No. 2, § 7(a)(1), 42 F.R. 62461, 91 Stat. 1637; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783, provided for loyalty check of personnel. Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538, previously repealed this section insofar as it related to persons employed or assigned to duties under the Mutual Educational and Cultural Exchange Act of 1961.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -157,23 +157,23 @@ Section, acts Jan. 27, 1948, ch. 36, title X, § 1001, 62 Stat. 13; Apr. 5, 19
 
 Repeal effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Date of 1979 Amendment note under section 1471 of this title.
 
-### § 1435. Delegation of authority by Secretary
+### § 1435. Delegation of authority by Secretary
 
 The Secretary may delegate, to such officers of the Government as the Secretary determines to be appropriate, any of the powers conferred upon him by this chapter to the extent that he finds such delegation to be in the interest of the purposes expressed in this chapter and the efficient administration of the programs undertaken pursuant to this chapter.
 
-(Jan. 27, 1948, ch. 36, title X, § 1002, 62 Stat. 13.)
+(Jan. 27, 1948, ch. 36, title X, § 1002, 62 Stat. 13.)
 
-### § 1436. Restriction on disclosure of information
+### § 1436. Restriction on disclosure of information
 
 Nothing in this chapter shall authorize the disclosure of any information or knowledge in any case in which such disclosure (1) is prohibited by any other law of the United States, or (2) is inconsistent with the security of the United States.
 
-(Jan. 27, 1948, ch. 36, title X, § 1003, 62 Stat. 13.)
+(Jan. 27, 1948, ch. 36, title X, § 1003, 62 Stat. 13.)
 
-### § 1437. Utilization of private agencies
+### § 1437. Utilization of private agencies
 
 In carrying out the provisions of this chapter it shall be the duty of the Secretary and the Broadcasting Board of Governors to utilize, to the maximum extent practicable, the services and facilities of private agencies, including existing American press, publishing, radio, motion picture, and other agencies, through contractual arrangements or otherwise. It is the intent of Congress that the Secretary and the Broadcasting Board of Governors shall encourage participation in carrying out the purposes of this chapter by the maximum number of different private agencies in each field consistent with the present or potential market for their services in each country.
 
-(Jan. 27, 1948, ch. 36, title X, § 1005, 62 Stat. 14; Pub. L. 112–239, div. A, title X, § 1078(d)(2), Jan. 2, 2013, 126 Stat. 1959.)
+(Jan. 27, 1948, ch. 36, title X, § 1005, 62 Stat. 14; Pub. L. 112–239, div. A, title X, § 1078(d)(2), Jan. 2, 2013, 126 Stat. 1959.)
 
 **Editorial Notes**
 
@@ -189,37 +189,37 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1078(e), Jan. 2, 2013, 126 Stat. 1959, provided that: “This section [amending this section and sections 1461, 1461–1a, and 1462 of this title and enacting provisions set out as a note under section 1461 of this title] shall take effect and apply on the date that is 180 days after the date of the enactment of this section [Jan. 2, 2013].”
+Pub. L. 112–239, div. A, title X, § 1078(e), Jan. 2, 2013, 126 Stat. 1959, provided that: “This section [amending this section and sections 1461, 1461–1a, and 1462 of this title and enacting provisions set out as a note under section 1461 of this title] shall take effect and apply on the date that is 180 days after the date of the enactment of this section [Jan. 2, 2013].”
 
-### § 1438. Veterans’ preference
+### § 1438. Veterans’ preference
 
 No provision of this chapter shall be construed to modify or to repeal the provisions of sections 1302(b), (c), 2108, 3305(b), 3306(a)(2), 3308 to 3318, 3319(b), 3320, 3351, 3363, 3364, 3501 to 3504, 7511, 7512, and 7701 of title 5.
 
-(Jan. 27, 1948, ch. 36, title X, § 1007, 62 Stat. 14.)
+(Jan. 27, 1948, ch. 36, title X, § 1007, 62 Stat. 14.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3306 of title 5, referred to in text, was repealed by Pub. L. 95–228, § 1, Feb. 10, 1978, 92 Stat. 25.
+Section 3306 of title 5, referred to in text, was repealed by Pub. L. 95–228, § 1, Feb. 10, 1978, 92 Stat. 25.
 
-Section 3319 of title 5, referred to in text, was repealed by Pub. L. 95–454, title III, § 307(h)(1), Oct. 13, 1978, 92 Stat. 1149.
+Section 3319 of title 5, referred to in text, was repealed by Pub. L. 95–454, title III, § 307(h)(1), Oct. 13, 1978, 92 Stat. 1149.
 
-Section 3364 of title 5, referred to in text, was repealed by Pub. L. 94–183, § 2(6), Dec. 31, 1975, 89 Stat. 1057.
+Section 3364 of title 5, referred to in text, was repealed by Pub. L. 94–183, § 2(6), Dec. 31, 1975, 89 Stat. 1057.
 
-Sections 7511 and 7512 of title 5, referred to in text, which related to adverse actions against preference eligible employees and comprised subchapter II of chapter 75 of Title 5, Government Organization and Employees, were repealed by Pub. L. 95–454 and replaced by a new subchapter II (§§ 7511–7514) of chapter 75 relating to removal, suspension for more than 14 days, reduction in grade or pay, or furlough for 30 days or less.
+Sections 7511 and 7512 of title 5, referred to in text, which related to adverse actions against preference eligible employees and comprised subchapter II of chapter 75 of Title 5, Government Organization and Employees, were repealed by Pub. L. 95–454 and replaced by a new subchapter II (§§ 7511–7514) of chapter 75 relating to removal, suspension for more than 14 days, reduction in grade or pay, or furlough for 30 days or less.
 
 **Codification**
 
-“Sections 1302(b), (c), 2108, 3305(b), 3306(a)(2), 3308 to 3318, 3319(b), 3320, 3351, 3363, 3364, 3501 to 3504, 7511, 7512, and 7701 of title 5” substituted in text for “the Veterans’ Preference Act of 1944” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Sections 1302(b), (c), 2108, 3305(b), 3306(a)(2), 3308 to 3318, 3319(b), 3320, 3351, 3363, 3364, 3501 to 3504, 7511, 7512, and 7701 of title 5” substituted in text for “the Veterans’ Preference Act of 1944” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-### § 1439. Repealed. Pub. L. 96–470, title I, § 117, Oct. 19, 1980, 94 Stat. 2240
+### § 1439. Repealed. Pub. L. 96–470, title I, § 117, Oct. 19, 1980, 94 Stat. 2240
 
-Section, acts Jan. 27, 1948, ch. 36, title X, § 1008, 62 Stat. 14; Sept. 21, 1961, Pub. L. 87–256, § 111(a)(2), 75 Stat. 538; Oct. 26, 1974, Pub. L. 93–475, § 7, 88 Stat. 1440; 1977 Reorg. Plan No. 2, § 7(a)(1), 42 F.R. 62461, 91 Stat. 1637, required the Director to submit annual reports to Congress on expenditures made and activities carried on under this chapter, including appraisals and measurements, where feasible, as to the effectiveness of the several programs in each country where conducted. Pub. L. 87–256, § 111(9)(2), Sept. 21, 1961, 75 Stat. 538, previously repealed this section insofar as it related to educational exchange activities. See section 2458(b) of this title.
+Section, acts Jan. 27, 1948, ch. 36, title X, § 1008, 62 Stat. 14; Sept. 21, 1961, Pub. L. 87–256, § 111(a)(2), 75 Stat. 538; Oct. 26, 1974, Pub. L. 93–475, § 7, 88 Stat. 1440; 1977 Reorg. Plan No. 2, § 7(a)(1), 42 F.R. 62461, 91 Stat. 1637, required the Director to submit annual reports to Congress on expenditures made and activities carried on under this chapter, including appraisals and measurements, where feasible, as to the effectiveness of the several programs in each country where conducted. Pub. L. 87–256, § 111(9)(2), Sept. 21, 1961, 75 Stat. 538, previously repealed this section insofar as it related to educational exchange activities. See section 2458(b) of this title.
 
-### § 1440. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
+### § 1440. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
 
-Section, acts Jan. 27, 1948, ch. 36, title X, § 1009, 62 Stat. 14; Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538, related to applicability of chapter provisions to similar international activities of State Department.
+Section, acts Jan. 27, 1948, ch. 36, title X, § 1009, 62 Stat. 14; Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538, related to applicability of chapter provisions to similar international activities of State Department.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -227,7 +227,7 @@ Section, acts Jan. 27, 1948, ch. 36, title X, § 1009, 62 Stat. 14; Pub. L. 87
 
 Repeal effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1441. Omitted
+### § 1441. Omitted
 
 **Editorial Notes**
 
@@ -235,23 +235,23 @@ Repeal effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as
 
 Section, based on third proviso under subheading “International Information and Education Activities” under heading “State Department” of Title I of the Supplemental Appropriation Act, 1950 (approved Oct. 14, 1949, ch. 694, 63 Stat. 878), authorized the acquisition of land outside the continental United States, and was not repeated in the Department of State Appropriation Act, 1951 (approved Sept. 6, 1950, ch. 896, ch. III, title I, 64 Stat. 609), or other appropriation acts.
 
-### § 1442. Informational media guaranties
+### § 1442. Informational media guaranties
 
 **(a) Authorization to make**
 
-The Director of the United States Information Agency may make guaranties, in accordance with the provisions of subsection (b) of section 1933 1
+The Director of the United States Information Agency may make guaranties, in accordance with the provisions of subsection (b) of section 1933 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title, of investments in enterprises producing or distributing informational media consistent with the national interests of the United States: *Provided*, That the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in sections 1933(b)(4)(A) 1 and 1933(b)(4)(G) 1 of this title.
+of this title, of investments in enterprises producing or distributing informational media consistent with the national interests of the United States: *Provided*, That the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in sections 1933(b)(4)(A) 1 and 1933(b)(4)(G) 1 of this title.
 
 **(b) Assumption of notes issued pursuant to section 1509(c)(2) of this title; advances**
 
-The Director is authorized to assume the obligation of not to exceed $28,000,000 of the notes authorized to be issued pursuant to section 1509(c)(2) <sup>1</sup> of this title, together with the interest accrued and unpaid thereon, and to obtain advances from time to time from the Secretary of the Treasury up to such amount, less amounts previously advanced on such notes, as provided for in said notes. Such advances shall be deposited in a special account in the Treasury available for payments under informational media guaranties.
+The Director is authorized to assume the obligation of not to exceed $28,000,000 of the notes authorized to be issued pursuant to section 1509(c)(2) <sup>1</sup> of this title, together with the interest accrued and unpaid thereon, and to obtain advances from time to time from the Secretary of the Treasury up to such amount, less amounts previously advanced on such notes, as provided for in said notes. Such advances shall be deposited in a special account in the Treasury available for payments under informational media guaranties.
 
 **(c) Limitations of time; total of guaranties outstanding**
 
-The Director is authorized to make informational media guaranties without regard to the limitations of time contained in section 1933(b)(4) <sup>1</sup> of this title, but the total of such guaranties outstanding at any one time shall not exceed the sum of the face amount of the notes assumed by the Director less the amounts previously advanced on such notes by the Secretary of the Treasury plus the amount of the funds in the special account referred to in subsection (b).
+The Director is authorized to make informational media guaranties without regard to the limitations of time contained in section 1933(b)(4) <sup>1</sup> of this title, but the total of such guaranties outstanding at any one time shall not exceed the sum of the face amount of the notes assumed by the Director less the amounts previously advanced on such notes by the Secretary of the Treasury plus the amount of the funds in the special account referred to in subsection (b).
 
 **(d) Sale of foreign currencies; special account; availability**
 
@@ -259,7 +259,7 @@ Foreign currencies available after June 30, 1955, from conversions made pursuant
 
 **(e) Deposit of fees; availability**
 
-Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this title, (1) fees collected for the issuance of informational media guaranties shall be deposited in the special account and shall be available for payments under informational media guaranties; and (2) the Director may require the payment of a minimum charge of up to fifty dollars for issuance of guaranty contracts, or amendments thereto.
+Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this title, (1) fees collected for the issuance of informational media guaranties shall be deposited in the special account and shall be available for payments under informational media guaranties; and (2) the Director may require the payment of a minimum charge of up to fifty dollars for issuance of guaranty contracts, or amendments thereto.
 
 **(f) Advance payments**
 
@@ -267,7 +267,7 @@ The Director is further authorized, under such terms as he may prescribe, to mak
 
 **(g) Separate accounts; transfers**
 
-As soon as feasible after July 18, 1956, all assets, liabilities, income, expenses, and charges of whatever kind pertaining to informational media guaranties, including any charges against the authority to issue notes provided in section 1509(c)(2) <sup>1</sup> of this title, cumulative from April 3, 1948, shall be accounted for separately from other guaranties issued pursuant to section 1933(b) <sup>1</sup> of this title: *Provided*, That there shall be transferred from the special account established pursuant to subsection (b), into the account available for payments under guaranties other than the informational media guaranties, an amount equal to the total of the fees received for the issuance of guaranties other than informational media guaranties, and used to make payments under informational media guaranties.
+As soon as feasible after July 18, 1956, all assets, liabilities, income, expenses, and charges of whatever kind pertaining to informational media guaranties, including any charges against the authority to issue notes provided in section 1509(c)(2) <sup>1</sup> of this title, cumulative from April 3, 1948, shall be accounted for separately from other guaranties issued pursuant to section 1933(b) <sup>1</sup> of this title: *Provided*, That there shall be transferred from the special account established pursuant to subsection (b), into the account available for payments under guaranties other than the informational media guaranties, an amount equal to the total of the fees received for the issuance of guaranties other than informational media guaranties, and used to make payments under informational media guaranties.
 
 **(h) Appropriations for restoration of realized impairment to capital; liquidation of notes**
 
@@ -277,31 +277,31 @@ As soon as feasible after July 18, 1956, all assets, liabilities, income, expens
 
 **(3)** Dollars appropriated pursuant to this section shall be applied to the payment of interest and in satisfaction of notes issued or assumed hereunder, and to the extent of such application to the principal of the notes, the Director is authorized to issue notes to the Secretary of the Treasury which will bear interest at a rate to be determined by the Secretary of the Treasury, taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the guaranties. The currencies determined to be unavailable for, or in excess of, requirements of the United States as provided above shall be transferred to the Secretary of the Treasury to be held until disposed of, and any dollar proceeds realized from such disposition shall be deposited in miscellaneous receipts.
 
-**(4)** Section 1476(a) of this title <sup>1</sup> shall not apply with respect to any amounts appropriated under this section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982.
+**(4)** Section 1476(a) of this title <sup>1</sup> shall not apply with respect to any amounts appropriated under this section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982.
 
-(Jan. 27, 1948, ch. 36, title X, § 1011, as added Aug. 26, 1954, ch. 937, title V, § 544(a), 68 Stat. 862; amended Aug. 26, 1954, ch. 937, title V, § 544(g), as added July 18, 1956, ch. 627, § 11(a), 70 Stat. 563, and amended Pub. L. 85–141, § 11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, § 502(i), June 30, 1958, 72 Stat. 274; Pub. L. 86–108, ch. VII, § 701(c), July 24, 1959, 73 Stat. 257; Pub. L. 97–241, title III, § 304(f), Aug. 24, 1982, 96 Stat. 293.)
+(Jan. 27, 1948, ch. 36, title X, § 1011, as added Aug. 26, 1954, ch. 937, title V, § 544(a), 68 Stat. 862; amended Aug. 26, 1954, ch. 937, title V, § 544(g), as added July 18, 1956, ch. 627, § 11(a), 70 Stat. 563, and amended Pub. L. 85–141, § 11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, § 502(i), June 30, 1958, 72 Stat. 274; Pub. L. 86–108, ch. VII, § 701(c), July 24, 1959, 73 Stat. 257; Pub. L. 97–241, title III, § 304(f), Aug. 24, 1982, 96 Stat. 293.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1933 of this title, referred to in subsecs. (a), (c), (e), and (g), was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460. See section 2351 of this title.
+Section 1933 of this title, referred to in subsecs. (a), (c), (e), and (g), was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460. See section 2351 of this title.
 
-Section 1509 of this title, referred to in subsecs. (b) and (g), was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a)(4), (6), (9), (10), (11), 68 Stat. 861. See section 1754 et seq. of this title.
+Section 1509 of this title, referred to in subsecs. (b) and (g), was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a)(4), (6), (9), (10), (11), 68 Stat. 861. See section 1754 et seq. of this title.
 
-Section 1476(a) of this title, referred to in subsec. (h)(4), was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790.
+Section 1476(a) of this title, referred to in subsec. (h)(4), was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790.
 
 **Amendments**
 
-1982—Subsec. (h)(4). Pub. L. 97–241, § 304(f), added par. (4).
+1982—Subsec. (h)(4). Pub. L. 97–241, § 304(f), added par. (4).
 
 1959—Subsec. (a). Pub. L. 86–108 provided that the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in former sections 1933(b)(4)(A) and 1933(b)(4)(G) of this title, now covered by section 2351 of this title.
 
 1958—Subsec. (h). Pub. L. 85–477 added subsec. (h).
 
-1956—Subsec. (a). Act Aug. 26, 1954, § 544(g), as added by act July 18, 1956, designated as subsec. (a) the entire former section and amended it to eliminate provisions which permitted the Director to make guaranties against funds made available by notes issued pursuant to section 1509(c)(2) of this title and which limited the amount of such guaranties in any fiscal year to not more than $10,000,000. Such provisions were covered by subsecs. (b) to (g) of this section.
+1956—Subsec. (a). Act Aug. 26, 1954, § 544(g), as added by act July 18, 1956, designated as subsec. (a) the entire former section and amended it to eliminate provisions which permitted the Director to make guaranties against funds made available by notes issued pursuant to section 1509(c)(2) of this title and which limited the amount of such guaranties in any fiscal year to not more than $10,000,000. Such provisions were covered by subsecs. (b) to (g) of this section.
 
-Subsecs. (b) to (g). Act Aug. 26, 1954, § 544(g), as added by act July 18, 1956, added subsecs (b) to (g).
+Subsecs. (b) to (g). Act Aug. 26, 1954, § 544(g), as added by act July 18, 1956, added subsecs (b) to (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -313,7 +313,7 @@ Section 544(a), (g) of act Aug. 26, 1954, cited as a credit to this section, was
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 1442a. National security measures
+### § 1442a. National security measures
 
 **(a) Restriction** In coordination with other appropriate executive branch officials, the Secretary of State shall take all appropriate steps to—
 
@@ -329,7 +329,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 **(2)** The term “agent of a foreign power” has the same meaning as set forth in section 1801(b)(1)(B) and (b)(2) of title 50, and does not include any person who acts in the capacity defined under section 1801(b)(1)(A) of title 50.
 
-(Jan. 27, 1948, ch. 36, title X, § 1012, as added Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 403], Nov. 29, 1999, 113 Stat. 1536, 1501A–446.)
+(Jan. 27, 1948, ch. 36, title X, § 1012, as added Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 403], Nov. 29, 1999, 113 Stat. 1536, 1501A–446.)
 
 **Editorial Notes**
 
@@ -339,9 +339,9 @@ Section 101 of the Intelligence Authorization Act for Fiscal Year 1999, referred
 
 ## SUBCHAPTER II—INTERCHANGE OF PERSONS, KNOWLEDGE, AND SKILLS BETWEEN UNITED STATES AND FOREIGN COUNTRIES
 
-### § 1446. Repealed. Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538
+### § 1446. Repealed. Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538
 
-Section, acts Jan. 27, 1948, ch. 36, title II, § 201, 62 Stat. 7; June 27, 1952, ch. 477, title IV, § 402(f), 66 Stat. 276; June 4, 1956, ch. 356, 70 Stat. 241, authorized the interchange of persons on a reciprocal basis between the United States and other countries, provided for orientation courses, admission as nonimmigrant visitors, deportation, and eligibility requirements for reentry under changed status. See section 2451 et seq. of this title.
+Section, acts Jan. 27, 1948, ch. 36, title II, § 201, 62 Stat. 7; June 27, 1952, ch. 477, title IV, § 402(f), 66 Stat. 276; June 4, 1956, ch. 356, 70 Stat. 241, authorized the interchange of persons on a reciprocal basis between the United States and other countries, provided for orientation courses, admission as nonimmigrant visitors, deportation, and eligibility requirements for reentry under changed status. See section 2451 et seq. of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -349,35 +349,35 @@ Section, acts Jan. 27, 1948, ch. 36, title II, § 201, 62 Stat. 7; June 27, 19
 
 Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, set out as section 2451 et seq. of this title, until modified or superseded by appropriate authority, of all Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of this section, see section 111(b) of Pub. L. 87–256, set out as a note under section 2451 of this title.
 
-### § 1447. Books and materials
+### § 1447. Books and materials
 
 The Secretary is authorized to provide for interchanges between the United States and other countries of books and periodicals, including government publications, for the translation of such writings, and for the preparation, distribution, and interchange of other educational materials.
 
-(Jan. 27, 1948, ch. 36, title II, § 202, 62 Stat. 7.)
+(Jan. 27, 1948, ch. 36, title II, § 202, 62 Stat. 7.)
 
-### § 1448. Assistance to certain institutions abroad founded or sponsored by United States citizens
+### § 1448. Assistance to certain institutions abroad founded or sponsored by United States citizens
 
 The Secretary is authorized to provide for assistance to schools,1
 
-<sup>1</sup>  See Partial Repeal note below.
+<sup>1</sup> See Partial Repeal note below.
 
 libraries, and community centers abroad, founded or sponsored by citizens of the United States, and serving as demonstration centers for methods and practices employed in the United States. In assisting any such schools, however, the Secretary shall exercise no control over their educational policies and shall in no case furnish assistance of any character which is not in keeping with the free democratic principles and the established foreign policy of the United States.
 
-(Jan. 27, 1948, ch. 36, title II, § 203, 62 Stat. 7.)
+(Jan. 27, 1948, ch. 36, title II, § 203, 62 Stat. 7.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Partial Repeal**
 
-Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538, repealed this section insofar as it relates to schools. See section 2451 et seq. of this title. Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, 22 U.S.C. 2451 et seq., until modified or superseded by appropriate authority, of all Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of this section, see section 111(b) of Pub. L. 87–256, set out as a Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions note under section 2451 of this title.
+Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538, repealed this section insofar as it relates to schools. See section 2451 et seq. of this title. Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, 22 U.S.C. 2451 et seq., until modified or superseded by appropriate authority, of all Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of this section, see section 111(b) of Pub. L. 87–256, set out as a Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions note under section 2451 of this title.
 
 ## SUBCHAPTER III—ASSIGNMENT OF SPECIALISTS
 
-### § 1451. Assignment of Government employees to requesting countries; governing regulations
+### § 1451. Assignment of Government employees to requesting countries; governing regulations
 
 The Director of the United States Information Agency is authorized, when the government of another country is desirous of obtaining the services of a person having special scientific or other technical or professional qualifications, from time to time to assign or authorize the assignment for service, to or in cooperation with such government, any person in the employ or service of the Government of the United States who has such qualifications, with the approval of the Government agency in which such person is employed or serving. No person shall be assigned for service to or in cooperation with the government of any country unless (1) the Director finds that such assignment is necessary in the national interest of the United States, or (2) such government agrees to reimburse the United States in an amount equal to the compensation, travel expenses, and allowances payable to such person during the period of such assignment in accordance with the provisions of section 1452 of this title, or (3) such government shall have made an advance of funds, property, or services as provided in section 1479 of this title. Nothing in this chapter, however, shall authorize the assignment of such personnel for service relating to the organization, training, operation, development, or combat equipment of the armed forces of a foreign government.
 
-(Jan. 27, 1948, ch. 36, title III, § 301, 62 Stat. 7; Pub. L. 97–241, title III, § 304(a)(1)(A), (2)(A), Aug. 24, 1982, 96 Stat. 292.)
+(Jan. 27, 1948, ch. 36, title III, § 301, 62 Stat. 7; Pub. L. 97–241, title III, § 304(a)(1)(A), (2)(A), Aug. 24, 1982, 96 Stat. 292.)
 
 **Editorial Notes**
 
@@ -393,29 +393,29 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 **References to Act May 25, 1938**
 
-Act Jan. 27, 1948, ch. 36, title X, § 1004(c), 62 Stat. 14, provided that: “Any reference in the Foreign Service Act of 1946 (60 Stat. 999) [section 801 et seq. of this title], or in any other law, to provisions of such Act of May 25, 1938, as amended [section 118e of former Title 5, Executive Departments and Government Officers and Employees], shall be construed to be applicable to the appropriate provisions of titles III and IX of this Act [sections 1451 to 1453, 1478, and 1479 of this title].”
+Act Jan. 27, 1948, ch. 36, title X, § 1004(c), 62 Stat. 14, provided that: “Any reference in the Foreign Service Act of 1946 (60 Stat. 999) [section 801 et seq. of this title], or in any other law, to provisions of such Act of May 25, 1938, as amended [section 118e of former Title 5, Executive Departments and Government Officers and Employees], shall be construed to be applicable to the appropriate provisions of titles III and IX of this Act [sections 1451 to 1453, 1478, and 1479 of this title].”
 
 **Effectiveness of Executive Orders and Regulations Under Act May 25, 1938, Ch. 277, 52 Stat. 442**
 
-Act Jan. 27, 1948, ch. 36, title X, § 1004(b), 62 Stat. 14, provided that: “Existing Executive orders and regulations pertaining to the administration of such Act of May 25, 1938, as amended [former section 118e of former Title 5, Executive Departments and Government Officers and Employees], shall remain in effect until superseded by regulations prescribed under the provisions of this Act [this chapter].”
+Act Jan. 27, 1948, ch. 36, title X, § 1004(b), 62 Stat. 14, provided that: “Existing Executive orders and regulations pertaining to the administration of such Act of May 25, 1938, as amended [former section 118e of former Title 5, Executive Departments and Government Officers and Employees], shall remain in effect until superseded by regulations prescribed under the provisions of this Act [this chapter].”
 
-### § 1452. Status and allowances of assigned personnel
+### § 1452. Status and allowances of assigned personnel
 
 Any person in the employ or service of the Government of the United States, while assigned for service to or in cooperation with another government under the authority of this chapter, shall be considered, for the purpose of preserving his rights, allowances, and privileges as such, an officer or employee of the Government of the United States and of the Government agency from which assigned and he shall continue to receive compensation from that agency. He may also receive, under such regulations as the President may prescribe, representation allowances similar to those allowed under section 4085 of this title. The authorization of such allowances and other benefits and the payment thereof out of any appropriations available therefor shall be considered as meeting all the requirements of section 5536 of title 5.
 
-(Jan. 27, 1948, ch. 36, title III, § 302, 62 Stat. 8; Pub. L. 97–241, title III, § 304(a)(1)(B), (3), Aug. 24, 1982, 96 Stat. 292.)
+(Jan. 27, 1948, ch. 36, title III, § 302, 62 Stat. 8; Pub. L. 97–241, title III, § 304(a)(1)(B), (3), Aug. 24, 1982, 96 Stat. 292.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1982—Pub. L. 97–241 substituted “person in the employ or service of the Government of the United States” for “citizen of the United States”, “section 4085 of this title” for “section 1131(3) of this title”, and “section 5536 of title 5” for “section 1765 of the Revised Statutes”. Prior to the amendment by Pub. L. 97–241, “section 5536 of title 5” had been substituted for “section 1765 of the Revised Statutes” (which was formerly classified to section 70 of title 5) on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees, thereby requiring no change in text.
+1982—Pub. L. 97–241 substituted “person in the employ or service of the Government of the United States” for “citizen of the United States”, “section 4085 of this title” for “section 1131(3) of this title”, and “section 5536 of title 5” for “section 1765 of the Revised Statutes”. Prior to the amendment by Pub. L. 97–241, “section 5536 of title 5” had been substituted for “section 1765 of the Revised Statutes” (which was formerly classified to section 70 of title 5) on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees, thereby requiring no change in text.
 
-### § 1453. Acceptance of office under foreign governments of assigned personnel; oath of allegiance
+### § 1453. Acceptance of office under foreign governments of assigned personnel; oath of allegiance
 
 Any person in the employ or service of the Government of the United States while assigned for service to or in cooperation with another government under authority of this chapter may, at the discretion of his Government agency, with the concurrence of the Director of the United States Information Agency, and without additional compensation therefor, accept an office under the government to which he is assigned, if the acceptance of such an office in the opinion of such agency is necessary to permit the effective performance of duties for which he is assigned, including the making or approving on behalf of such foreign government the disbursement of funds provided by such government or of receiving from such foreign government funds for deposit and disbursement on behalf of such government, in carrying out programs undertaken pursuant to this chapter: *Provided, however*, That such acceptance of office shall in no case involve the taking of an oath of allegiance to another government.
 
-(Jan. 27, 1948, ch. 36, title III, § 303, 62 Stat. 8; Pub. L. 97–241, title III, § 304(a)(1)(B), (2)(B), Aug. 24, 1982, 96 Stat. 292.)
+(Jan. 27, 1948, ch. 36, title III, § 303, 62 Stat. 8; Pub. L. 97–241, title III, § 304(a)(1)(B), (2)(B), Aug. 24, 1982, 96 Stat. 292.)
 
 **Editorial Notes**
 
@@ -431,37 +431,37 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 ## SUBCHAPTER IV—PARTICIPATION BY GOVERNMENT AGENCIES
 
-### § 1456. Utilization of facilities and personnel of other Government agencies; reimbursement to agencies; report to Congress
+### § 1456. Utilization of facilities and personnel of other Government agencies; reimbursement to agencies; report to Congress
 
-The Secretary is authorized, in carrying on any activity under the authority of this chapter, to utilize, with the approval of the President, the services, facilities, and personnel of the other Government agencies. Whenever the Secretary shall use the services, facilities, or personnel of any Government agency for activities under authority of this chapter, the Secretary shall pay for such performance out of funds available to the Secretary under this chapter, either in advance, by reimbursement, or direct transfer. The Secretary shall include in each report submitted to the Congress under section 1439 1
+The Secretary is authorized, in carrying on any activity under the authority of this chapter, to utilize, with the approval of the President, the services, facilities, and personnel of the other Government agencies. Whenever the Secretary shall use the services, facilities, or personnel of any Government agency for activities under authority of this chapter, the Secretary shall pay for such performance out of funds available to the Secretary under this chapter, either in advance, by reimbursement, or direct transfer. The Secretary shall include in each report submitted to the Congress under section 1439 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title a statement of the services, facilities, and personnel of other Government agencies utilized in carrying on activities under the authority of this chapter, showing the names and salaries of the personnel utilized, or performing services utilized, during the period covered by such report, and the amounts paid to such other agencies under this section as payment for such performance.
 
-(Jan. 27, 1948, ch. 36, title IV, § 401, 62 Stat. 8.)
+(Jan. 27, 1948, ch. 36, title IV, § 401, 62 Stat. 8.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1439 of this title, referred to in text, was repealed by Pub. L. 96–470, title I, § 117, Oct. 19, 1980, 94 Stat. 2240.
+Section 1439 of this title, referred to in text, was repealed by Pub. L. 96–470, title I, § 117, Oct. 19, 1980, 94 Stat. 2240.
 
-### § 1457. Rendition of technical and other services to foreign governments; limitations
+### § 1457. Rendition of technical and other services to foreign governments; limitations
 
 A Government agency, at the request of the Secretary, may perform such technical or other services as such agency may be competent to render for the government of another country desirous of obtaining such services, upon terms and conditions which are satisfactory to the Secretary and to the head of the Government agency, when it is determined by the Secretary that such services will contribute to the purposes of this chapter. However, nothing in this chapter shall authorize the performance of services relating to the organization, training, operation, development, or combat equipment of the armed forces of a foreign government.
 
-(Jan. 27, 1948, ch. 36, title IV, § 402, 62 Stat. 9.)
+(Jan. 27, 1948, ch. 36, title IV, § 402, 62 Stat. 9.)
 
-### § 1458. Policy governing rendition of services
+### § 1458. Policy governing rendition of services
 
 In authorizing the performance of technical and other services under this subchapter, it is the sense of the Congress (1) that the Secretary shall encourage through any appropriate Government agency the performance of such services to foreign governments by qualified private American individuals and agencies, and shall not enter into the performance of such services to any foreign government where such services may be performed adequately by qualified private American individuals and agencies and such qualified individuals and agencies are available for the performance of such services; (2) that if such services are rendered by a Government agency, they shall demonstrate the technical accomplishments of the United States, such services being of an advisory, investigative, or instructional nature, or a demonstration of a technical process; (3) that such services shall not include the construction of public works or the supervision of the construction of public works, and that, under authority of this chapter, a Government agency shall render engineering services related to public works only when the Secretary shall determine that the national interest demands the rendering of such services by a Government agency, but this policy shall not be interpreted to preclude the assignment of individual specialists as advisers to other governments as provided under subchapter III of this chapter, together with such incidental assistance as may be necessary for the accomplishment of their individual assignments.
 
-(Jan. 27, 1948, ch. 36, title IV, § 403, 62 Stat. 9.)
+(Jan. 27, 1948, ch. 36, title IV, § 403, 62 Stat. 9.)
 
 ## SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES
 
-### § 1461. General authorization
+### § 1461. General authorization
 
 **(a) Dissemination of information abroad**
 
@@ -491,17 +491,17 @@ The Secretary and the Broadcasting Board of Governors are authorized to use fund
 
 Nothing in this section may be construed to require the Secretary or the Broadcasting Board of Governors to make material disseminated abroad available in any format other than in the format disseminated abroad.
 
-(Jan. 27, 1948, ch. 36, title V, § 501, 62 Stat. 9; Pub. L. 92–352, title II, § 204, July 13, 1972, 86 Stat. 494; Pub. L. 96–60, title II, § 208, Aug. 15, 1979, 93 Stat. 401; Pub. L. 101–246, title II, § 202, Feb. 16, 1990, 104 Stat. 49; Pub. L. 112–239, div. A, title X, § 1078(a), Jan. 2, 2013, 126 Stat. 1957.)
+(Jan. 27, 1948, ch. 36, title V, § 501, 62 Stat. 9; Pub. L. 92–352, title II, § 204, July 13, 1972, 86 Stat. 494; Pub. L. 96–60, title II, § 208, Aug. 15, 1979, 93 Stat. 401; Pub. L. 101–246, title II, § 202, Feb. 16, 1990, 104 Stat. 49; Pub. L. 112–239, div. A, title X, § 1078(a), Jan. 2, 2013, 126 Stat. 1957.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The Radio Broadcasting to Cuba Act, referred to in subsec. (b)(1), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§ 1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsec. (b)(1), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§ 1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 For the effective date of section 1078 of the National Defense Authorization Act for Fiscal Year 2013 [Pub. L. 112–239], referred to in subsec. (b)(2), see section 1078(e) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 1437 of this title.
 
@@ -511,7 +511,7 @@ For the effective date of section 1078 of the National Defense Authorization Act
 
 1990—Pub. L. 101–246 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, any such information” for “Any such information” in second sentence, and added subsec. (b).
 
-1979—Pub. L. 96–60 substituted “ ‘Problems of Communism’ and the ‘English Teaching Forum’ which may be sold” for “ ‘Problems of Communism’ which may continue to be sold” in parenthetical clause.
+1979—Pub. L. 96–60 substituted “ ‘Problems of Communism’ and the ‘English Teaching Forum’ which may be sold” for “ ‘Problems of Communism’ which may continue to be sold” in parenthetical clause.
 
 1972—Pub. L. 92–352 substituted provisions relating to the prohibition, except as otherwise provided, on the dissemination of information within the United States, its territories, or possessions, other than “Problems of Communism” which could continue to be sold at the Government Printing Office, for provisions relating to the availability of press release or radio scripts for examination by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and, on request, Members of Congress.
 
@@ -527,7 +527,7 @@ Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 
 
 **Rule of Construction**
 
-Pub. L. 112–239, div. A, title X, § 1078(b), Jan. 2, 2013, 126 Stat. 1958, provided that: “Nothing in this section [amending this section and sections 1437, 1461–1a, and 1462 of this title and enacting provisions set out as a note under section 1437 of this title], or in the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), may be construed to affect the allocation of funds appropriated or otherwise made specifically available for public diplomacy or to authorize appropriations for Broadcasting Board of Governors [now United States Agency for Global Media] programming other than for foreign audiences abroad.”
+Pub. L. 112–239, div. A, title X, § 1078(b), Jan. 2, 2013, 126 Stat. 1958, provided that: “Nothing in this section [amending this section and sections 1437, 1461–1a, and 1462 of this title and enacting provisions set out as a note under section 1437 of this title], or in the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), may be construed to affect the allocation of funds appropriated or otherwise made specifically available for public diplomacy or to authorize appropriations for Broadcasting Board of Governors [now United States Agency for Global Media] programming other than for foreign audiences abroad.”
 
 **Transfer of Functions**
 
@@ -535,7 +535,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 **USIA Network for Dissemination of Information Concerning United States Programs To Combat Narcotics and Other Controlled Substances**
 
-Pub. L. 101–246, title II, § 210, Feb. 16, 1990, 104 Stat. 54, provided that:
+Pub. L. 101–246, title II, § 210, Feb. 16, 1990, 104 Stat. 54, provided that:
 
 > “The United States Information Agency shall establish and maintain an international narcotics information network. The network shall disseminate prompt, accurate, and comprehensive information to foreign governments concerning programs and activities of the United States Government—
 
@@ -547,17 +547,17 @@ Pub. L. 101–246, title II, § 210, Feb. 16, 1990, 104 Stat. 54, provided tha
 
 **Public Service Announcements To Promote Child Survival**
 
-Pub. L. 101–246, title II, § 233, Feb. 16, 1990, 104 Stat. 57, provided that: “The United States Information Agency shall establish and maintain through the Voice of America a system of public service announcements focusing on child survival techniques.”
+Pub. L. 101–246, title II, § 233, Feb. 16, 1990, 104 Stat. 57, provided that: “The United States Information Agency shall establish and maintain through the Voice of America a system of public service announcements focusing on child survival techniques.”
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
 **USIA Posts and Personnel Overseas**
 
-Pub. L. 100–204, title II, § 204, Dec. 22, 1987, 101 Stat. 1373, prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, in case of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by Pub. L. 102–138, title II, § 206(c), Oct. 28, 1991, 105 Stat. 693. See section 1475g of this title.
+Pub. L. 100–204, title II, § 204, Dec. 22, 1987, 101 Stat. 1373, prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, in case of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by Pub. L. 102–138, title II, § 206(c), Oct. 28, 1991, 105 Stat. 693. See section 1475g of this title.
 
 **Redesignation of International Communication Agency as United States Information Agency**
 
-Pub. L. 97–241, title III, § 303, Aug. 24, 1982, 96 Stat. 291, provided that:
+Pub. L. 97–241, title III, § 303, Aug. 24, 1982, 96 Stat. 291, provided that:
 
 > **“(a)** The International Communication Agency, established by Reorganization Plan Numbered 2 of 1977 [set out as a note below], is hereby redesignated the United States Information Agency. The Director of the International Communication Agency or any other official of the International Communication Agency is hereby redesignated the Director or other official, as appropriate, of the United States Information Agency.
 
@@ -568,7 +568,7 @@ Pub. L. 97–241, title III, § 303, Aug. 24, 1982, 96 Stat. 291, provided tha
 **Executive Documents**
 
 ****REORGANIZATION PLAN NO. 8 OF 1953**
-Eff. Aug. 1, 1953, 18 F.R. 4542, 67 Stat. 642, as amended act June 28, 1955, ch. 189, § 12(c)(21), 69 Stat. 183; Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639**
+Eff. Aug. 1, 1953, 18 F.R. 4542, 67 Stat. 642, as amended act June 28, 1955, ch. 189, § 12(c)(21), 69 Stat. 183; Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639**
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 1, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended [see 5 U.S.C. 901 et seq.].
 
@@ -576,33 +576,33 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 **Section 1. Establishment of Agency**
 
-[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639, set out as a note below. Section was amended by act June 28, 1955, ch. 189, § 12(c)(21), 69 Stat. 183 and related to the establishment of the United States Information Agency.]
+[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639, set out as a note below. Section was amended by act June 28, 1955, ch. 189, § 12(c)(21), 69 Stat. 183 and related to the establishment of the United States Information Agency.]
 
 **Sec. 2. Transfer of Functions**
 
-(a) Subject to subsection (c) of this section, there are hereby transferred to the Director (1) the functions vested in the Secretary of State by Title V of the United States Information and Educational Exchange Act of 1948, as amended [22 U.S.C. 1461, 1462], and so much of functions with respect to the interchange of books and periodicals and aid to libraries and community centers under sections 202 and 203 of the said Act [22 U.S.C. 1447, 1448] as is an integral part of information programs under that Act [22 U.S.C. 1431–1479], together with so much of the functions vested in the Secretary of State by other provisions of the said Act [22 U.S.C. 1431–1479] as is incidental to or is necessary for the performance of the functions under Title V and sections 202 and 203 transferred by this section, and (2) [Superseded. Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Paragraph related to functions of the Secretary of State with respect to information programs relating to Germany and Austria.]
+(a) Subject to subsection (c) of this section, there are hereby transferred to the Director (1) the functions vested in the Secretary of State by Title V of the United States Information and Educational Exchange Act of 1948, as amended [22 U.S.C. 1461, 1462], and so much of functions with respect to the interchange of books and periodicals and aid to libraries and community centers under sections 202 and 203 of the said Act [22 U.S.C. 1447, 1448] as is an integral part of information programs under that Act [22 U.S.C. 1431–1479], together with so much of the functions vested in the Secretary of State by other provisions of the said Act [22 U.S.C. 1431–1479] as is incidental to or is necessary for the performance of the functions under Title V and sections 202 and 203 transferred by this section, and (2) [Superseded. Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Paragraph related to functions of the Secretary of State with respect to information programs relating to Germany and Austria.]
 
-(b) [Superseded. Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Subsection related to the transfer to the Director of functions vested in the Director for Mutual Security by the Mutual Security Act of 1951, as amended, act Oct. 10, 1951, ch. 479, 65 Stat. 373, which related to foreign information programs, as formerly provided for in section 1652 of this title.]
+(b) [Superseded. Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Subsection related to the transfer to the Director of functions vested in the Director for Mutual Security by the Mutual Security Act of 1951, as amended, act Oct. 10, 1951, ch. 479, 65 Stat. 373, which related to foreign information programs, as formerly provided for in section 1652 of this title.]
 
 (c)(1) The Secretary of State shall direct the policy and control the content of a program, for use abroad, on official United States positions, including interpretations of current events, identified as official positions by an exclusive descriptive label.
 
 (2) The Secretary of State shall continue to provide to the Director on a current basis full guidance concerning the foreign policy of the United States.
 
-(3) [Superseded. Reorg. Plan No. 2 of 1977, § 9(b), 42 F.R. 62461, 91 Stat. 1639. Paragraph provided that nothing in subsec. (c) of this section was to affect the functions of the Secretary of State with respect to conducting negotiations with other governments.]
+(3) [Superseded. Reorg. Plan No. 2 of 1977, § 9(b), 42 F.R. 62461, 91 Stat. 1639. Paragraph provided that nothing in subsec. (c) of this section was to affect the functions of the Secretary of State with respect to conducting negotiations with other governments.]
 
 (d) To the extent the President deems it necessary in order to carry out the functions transferred by the foregoing provisions of this section, he may authorize the Director to exercise, in relation to the respective functions so transferred, any authority or part thereof available by law, including appropriation acts, to the Secretary of State, the Director for Mutual Security, or the Director of the Foreign Operations Administration, in respect of the said transferred functions.
 
 **Sec. 3. Performance of Transferred Functions**
 
-[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), 42 F.R. 62461, 91 Stat. 1639. Section related to the performance of transferred functions.]
+[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), 42 F.R. 62461, 91 Stat. 1639. Section related to the performance of transferred functions.]
 
 **Sec. 4. Incidental Transfers**
 
-[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), 42 F.R. 62461, 91 Stat. 1639. Section related to incidental transfers.]
+[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), 42 F.R. 62461, 91 Stat. 1639. Section related to incidental transfers.]
 
 **Sec. 5. Interim Provisions**
 
-[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), 42 F.R. 62461, 91 Stat. 1639. Section related to interim provisions.]
+[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), 42 F.R. 62461, 91 Stat. 1639. Section related to interim provisions.]
 
 [The United States Information Agency was abolished and replaced by the International Communication Agency pursuant to Reorg. Plan No. 2 of 1977, set out below, effective on or before July 1, 1978, at such time as specified by the President. The International Communication Agency was redesignated the United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note above. For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
@@ -621,41 +621,41 @@ Dwight D. Eisenhower.
 The White House, June 1, 1953.
 
 ****REORGANIZATION PLAN NO. 2 OF 1977**
-42 F.R. 62461, 91 Stat. 1636, as amended Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1334(b), 1336(6), Oct. 21, 1998, 112 Stat. 2681–786, 2681–790; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, § 407(c), Nov. 28, 2001, 115 Stat. 790**
+42 F.R. 62461, 91 Stat. 1636, as amended Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1334(b), 1336(6), Oct. 21, 1998, 112 Stat. 2681–786, 2681–790; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, § 407(c), Nov. 28, 2001, 115 Stat. 790**
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, October 11, 1977,1
 
-<sup>1</sup>  Actually transmitted Oct. 12, 1977.
+<sup>1</sup> Actually transmitted Oct. 12, 1977.
 
 pursuant to the provisions of chapter 9 of title 5 of the United States Code.2
 
-<sup>2</sup>  As amended Nov. 1, 1977, and Nov. 3, 1977.
+<sup>2</sup> As amended Nov. 1, 1977, and Nov. 3, 1977.
 
 **INTERNATIONAL COMMUNICATION AGENCY**
 
 **Section 1. Establishment of the International Communication Agency**
 
-[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section established the International Communication Agency.]
+[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section established the International Communication Agency.]
 
 **Sec. 2. Director**
 
-[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and responsibilities of Director of the Agency.]
+[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and responsibilities of Director of the Agency.]
 
 **Sec. 3. Deputy Director**
 
-[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and duties of Deputy Director of the Agency.]
+[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and duties of Deputy Director of the Agency.]
 
 **Sec. 4. Associate Directors**
 
-[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment, titles, and functions of four Associate Directors of the Agency.]
+[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment, titles, and functions of four Associate Directors of the Agency.]
 
 **Sec. 5. Performance of Functions**
 
-[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for establishment of bureaus, offices, divisions, and other units within the Agency and for performance of functions of the Director within the Agency.]
+[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for establishment of bureaus, offices, divisions, and other units within the Agency and for performance of functions of the Director within the Agency.]
 
 **Sec. 6. Negotiations**
 
-[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section authorized Director to conduct negotiations with representatives of foreign states or organizations on matters for which responsibility was vested in the Director or in the Agency.]
+[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section authorized Director to conduct negotiations with representatives of foreign states or organizations on matters for which responsibility was vested in the Director or in the Agency.]
 
 **Sec. 7. Transfer of Functions**
 
@@ -711,7 +711,7 @@ pursuant to the provisions of chapter 9 of title 5 of the United States Code.2
 
 The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission’s reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
 
-(c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. [As amended Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, § 407(c), Nov. 28, 2001, 115 Stat. 790.]
+(c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. [As amended Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, § 407(c), Nov. 28, 2001, 115 Stat. 790.]
 
 [Section 6553 of this title provided that the United States Advisory Commission on Public Diplomacy, established under section 8 of Reorganization Plan Numbered 2 of 1977, set out above, was to continue to exist and operate until Oct. 1, 2005.]
 
@@ -841,7 +841,7 @@ Sec. 10. In accord with the name change provisions of Section 303 of Public Law 
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
-### § 1461–1. Mission of United States Information Agency
+### § 1461–1. Mission of United States Information Agency
 
 The mission of the United States Information Agency shall be to further the national interest by improving United States relations with other countries and peoples through the broadest possible sharing of ideas, information, and educational and cultural activities. In carrying out this mission, the United States Information Agency shall, among other activities—
 
@@ -859,7 +859,7 @@ The mission of the United States Information Agency shall be to further the nati
 
 **(5)** promote United States participation in international events relevant to the mission of the Agency.
 
-(Pub. L. 95–426, title II, § 202, Oct. 7, 1978, 92 Stat. 972; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 95–426, title II, § 202, Oct. 7, 1978, 92 Stat. 972; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 **Editorial Notes**
 
@@ -875,9 +875,9 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 **Increase in Financial Resources of Agency for Exchange-of-Persons Activities**
 
-Pub. L. 95–426, title II, § 203, Oct. 7, 1978, 92 Stat. 973, as amended by Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291, required the President, by a process of gradual expansion during the four-year period beginning Oct. 1, 1979, to increase significantly the financial resources expended annually by the United States Information Agency for exchange-of-persons activities.
+Pub. L. 95–426, title II, § 203, Oct. 7, 1978, 92 Stat. 973, as amended by Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291, required the President, by a process of gradual expansion during the four-year period beginning Oct. 1, 1979, to increase significantly the financial resources expended annually by the United States Information Agency for exchange-of-persons activities.
 
-### § 1461–1a. Clarification on domestic distribution of program material
+### § 1461–1a. Clarification on domestic distribution of program material
 
 **(a) In general**
 
@@ -891,7 +891,7 @@ Nothing in this section shall be construed to prohibit the Department of State o
 
 The provisions of this section shall apply only to the Department of State and the Broadcasting Board of Governors and to no other department or agency of the Federal Government.
 
-(Pub. L. 99–93, title II, § 208, Aug. 16, 1985, 99 Stat. 431; Pub. L. 103–236, title II, § 232, Apr. 30, 1994, 108 Stat. 424; Pub. L. 112–239, div. A, title X, § 1078(c), Jan. 2, 2013, 126 Stat. 1958.)
+(Pub. L. 99–93, title II, § 208, Aug. 16, 1985, 99 Stat. 431; Pub. L. 103–236, title II, § 232, Apr. 30, 1994, 108 Stat. 424; Pub. L. 112–239, div. A, title X, § 1078(c), Jan. 2, 2013, 126 Stat. 1958.)
 
 **Editorial Notes**
 
@@ -899,11 +899,11 @@ The provisions of this section shall apply only to the Department of State and t
 
 The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
-The United States International Broadcasting Act of 1994, referred to in subsec. (a), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The United States International Broadcasting Act of 1994, referred to in subsec. (a), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The Radio Broadcasting to Cuba Act, referred to in subsec. (a), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§ 1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsec. (a), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§ 1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (a), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (a), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 For the effective date of section 1078 of the National Defense Authorization Act for Fiscal Year 2013 [Pub. L. 112–239], referred to in subsec. (b), see section 1078(e) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 1437 of this title.
 
@@ -927,7 +927,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 days after Jan. 2, 2013, see section 1078(e) of Pub. L. 112–239, set out as a note under section 1437 of this title.
 
-### § 1461a. Omitted
+### § 1461a. Omitted
 
 **Editorial Notes**
 
@@ -947,17 +947,17 @@ July 7, 1955, ch. 279, title IV, 69 Stat. 279.
 
 July 2, 1954, ch. 456, title IV, 68 Stat. 432.
 
-### § 1461b. Indemnification of owners of short-wave radio facilities against loss or damage
+### § 1461b. Indemnification of owners of short-wave radio facilities against loss or damage
 
 Notwithstanding the provisions of sections 1341, 1342, 1349 to 1351 and subchapter II of chapter 15 of title 31, the United States Information Agency is authorized, in making contracts for the use of international shortwave radio stations and facilities, to agree on behalf of the United States to indemnify the owners and operators of said radio stations and facilities from such funds as may be hereafter appropriated for the purpose against loss or damage on account of injury to persons or property arising from such use of said radio stations and facilities.
 
-(Pub. L. 95–431, title V, § 501, Oct. 10, 1978, 92 Stat. 1041; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 95–431, title V, § 501, Oct. 10, 1978, 92 Stat. 1041; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Sections 1341, 1342, and 1349 to 1351 and subchapter II of chapter 15 of title 31” substituted in text for “section 3679 of the Revised Statutes, as amended (31 U.S.C. 665)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Sections 1341, 1342, and 1349 to 1351 and subchapter II of chapter 15 of title 31” substituted in text for “section 3679 of the Revised Statutes, as amended (31 U.S.C. 665)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was enacted as part of appropriation act, cited as the credit to this section, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
 
@@ -1019,7 +1019,7 @@ July 2, 1954, ch. 456, title IV, 68 Stat. 432.
 
 “United States Information Agency” substituted in text for “International Communication Agency” pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 1461c. Omitted
+### § 1461c. Omitted
 
 **Editorial Notes**
 
@@ -1055,11 +1055,11 @@ July 7, 1955, ch. 279, title IV, 69 Stat. 279.
 
 July 2, 1954, ch. 456, title IV, 68 Stat. 432.
 
-### § 1462. Policies governing information activities
+### § 1462. Policies governing information activities
 
 In authorizing international information activities under this chapter, it is the sense of the Congress (1) that the Secretary and the Broadcasting Board of Governors shall reduce such Government information activities whenever corresponding private information dissemination is found to be adequate; (2) that nothing in this chapter shall be construed to give the Department or the Broadcasting Board of Governors a monopoly in the production or sponsorship on the air of short-wave broadcasting programs, or a monopoly in any other medium of information.
 
-(Jan. 27, 1948, ch. 36, title V, § 502, 62 Stat. 10; Pub. L. 112–239, div. A, title X, § 1078(d)(1), Jan. 2, 2013, 126 Stat. 1958.)
+(Jan. 27, 1948, ch. 36, title V, § 502, 62 Stat. 10; Pub. L. 112–239, div. A, title X, § 1078(d)(1), Jan. 2, 2013, 126 Stat. 1958.)
 
 **Editorial Notes**
 
@@ -1077,11 +1077,11 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 days after Jan. 2, 2013, see section 1078(e) of Pub. L. 112–239, set out as a note under section 1437 of this title.
 
-### § 1463. Repealed. Pub. L. 103–236, title III, § 315(a), Apr. 30, 1994, 108 Stat. 445
+### § 1463. Repealed. Pub. L. 103–236, title III, § 315(a), Apr. 30, 1994, 108 Stat. 445
 
-Section, act Jan. 27, 1948, ch. 36, title V, § 503, as added July 12, 1976, Pub. L. 94–350, title II, § 206, 90 Stat. 831; amended 1977 Reorg. Plan No. 2, §§ 5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Aug. 24, 1982, Pub. L. 97–241, title III, § 303(b), 96 Stat. 291, related to principles governing communications of Voice of America broadcasts.
+Section, act Jan. 27, 1948, ch. 36, title V, § 503, as added July 12, 1976, Pub. L. 94–350, title II, § 206, 90 Stat. 831; amended 1977 Reorg. Plan No. 2, §§ 5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Aug. 24, 1982, Pub. L. 97–241, title III, § 303(b), 96 Stat. 291, related to principles governing communications of Voice of America broadcasts.
 
-### § 1464. Voice of America/Europe
+### § 1464. Voice of America/Europe
 
 As part of its duties and programs under this subchapter, Voice of America/Europe shall—
 
@@ -1091,9 +1091,9 @@ As part of its duties and programs under this subchapter, Voice of America/Europ
 
 **(3)** promote and advertise Voice of America/Europe.
 
-(Jan. 27, 1948, ch. 36, title V, § 504, as added Pub. L. 100–204, title IV, § 402, Dec. 22, 1987, 101 Stat. 1381.)
+(Jan. 27, 1948, ch. 36, title V, § 504, as added Pub. L. 100–204, title IV, § 402, Dec. 22, 1987, 101 Stat. 1381.)
 
-### § 1464a. Broadcasting Board of Governors satellite and television
+### § 1464a. Broadcasting Board of Governors satellite and television
 
 **(a) In general**
 
@@ -1129,29 +1129,29 @@ When a comparable program produced by United States public or commercial broadca
 
 **(3)** Of the funds authorized to be appropriated to the Broadcasting Board of Governors, $1,500,000 for the fiscal year 1990 and $1,500,000 for the fiscal year 1991 shall be available only for the purchase or use of programs produced with grants from the Corporation for Public Broadcasting or produced by United States public broadcasters.
 
-(Jan. 27, 1948, ch. 36, title V, § 505, as added Pub. L. 101–246, title II, § 205(a), Feb. 16, 1990, 104 Stat. 50; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(1), Oct. 21, 1998, 112 Stat. 2681–786.)
+(Jan. 27, 1948, ch. 36, title V, § 505, as added Pub. L. 101–246, title II, § 205(a), Feb. 16, 1990, 104 Stat. 50; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(1), Oct. 21, 1998, 112 Stat. 2681–786.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1335(a)(1)(A), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
+1998—Subsec. (a). Pub. L. 105–277, § 1335(a)(1)(A), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
 
-Subsec. (b). Pub. L. 105–277, § 1335(a)(1)(B), (C)(i), in introductory provisions, substituted “Broadcasting Board of Governors” for “United States Information Agency” and “television broadcasts of the United States International Television Service” for “Agency’s television broadcasts (hereinafter in this section referred to as ‘USIA–TV’)”.
+Subsec. (b). Pub. L. 105–277, § 1335(a)(1)(B), (C)(i), in introductory provisions, substituted “Broadcasting Board of Governors” for “United States Information Agency” and “television broadcasts of the United States International Television Service” for “Agency’s television broadcasts (hereinafter in this section referred to as ‘USIA–TV’)”.
 
-Subsec. (b)(1) to (3). Pub. L. 105–277, § 1335(a)(1)(C)(ii), substituted “The United States International Television Service” for “USIA–TV”, wherever appearing.
+Subsec. (b)(1) to (3). Pub. L. 105–277, § 1335(a)(1)(C)(ii), substituted “The United States International Television Service” for “USIA–TV”, wherever appearing.
 
-Subsec. (c). Pub. L. 105–277, § 1335(a)(1)(A), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” in introductory provisions.
+Subsec. (c). Pub. L. 105–277, § 1335(a)(1)(A), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” in introductory provisions.
 
-Subsec. (d). Pub. L. 105–277, § 1335(a)(1)(A), (D), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and substituted “the United States International Television Service” for “USIA–TV” in two places.
+Subsec. (d). Pub. L. 105–277, § 1335(a)(1)(A), (D), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and substituted “the United States International Television Service” for “USIA–TV” in two places.
 
-Subsec. (e)(1). Pub. L. 105–277, § 1335(a)(1)(B), (D), substituted “Broadcasting Board of Governors” for “United States Information Agency” and “the United States International Television Service” for “USIA–TV”.
+Subsec. (e)(1). Pub. L. 105–277, § 1335(a)(1)(B), (D), substituted “Broadcasting Board of Governors” for “United States Information Agency” and “the United States International Television Service” for “USIA–TV”.
 
-Subsec. (e)(2). Pub. L. 105–277, § 1335(a)(1)(D), substituted “the United States International Television Service” for “USIA–TV”, wherever appearing.
+Subsec. (e)(2). Pub. L. 105–277, § 1335(a)(1)(D), substituted “the United States International Television Service” for “USIA–TV”, wherever appearing.
 
-Pub. L. 105–277, § 1335(a)(1)(A), (B), in first sentence, substituted “Broadcasting Board of Governors” for “United States Information Agency”, and in last sentence, substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” after “statement by the” and for “United States Information Agency” after “available to the”.
+Pub. L. 105–277, § 1335(a)(1)(A), (B), in first sentence, substituted “Broadcasting Board of Governors” for “United States Information Agency”, and in last sentence, substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” after “statement by the” and for “United States Information Agency” after “available to the”.
 
-Subsec. (e)(3). Pub. L. 105–277, § 1335(a)(1)(B), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+Subsec. (e)(3). Pub. L. 105–277, § 1335(a)(1)(B), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1165,9 +1165,9 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **Television Service of USIA**
 
-Pub. L. 100–204, title II, § 207, Dec. 22, 1987, 101 Stat. 1374, which provided that the television and film service of the United States Information Agency was to operate under same criteria and conditions as specified for Voice of America by section 1463 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(7), Oct. 21, 1998, 112 Stat. 2681–790.
+Pub. L. 100–204, title II, § 207, Dec. 22, 1987, 101 Stat. 1374, which provided that the television and film service of the United States Information Agency was to operate under same criteria and conditions as specified for Voice of America by section 1463 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(7), Oct. 21, 1998, 112 Stat. 2681–790.
 
-### § 1464b. Voice of America hiring practices
+### § 1464b. Voice of America hiring practices
 
 **(a) Prohibition**
 
@@ -1185,7 +1185,7 @@ After February 16, 1990, the Voice of America shall not select candidates for em
 
 **(2)** the efforts made by the Voice of America to recruit such individuals for employment.
 
-(Jan. 27, 1948, ch. 36, title V, § 506, as added Pub. L. 101–246, title II, § 232, Feb. 16, 1990, 104 Stat. 57; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(2), Oct. 21, 1998, 112 Stat. 2681–787.)
+(Jan. 27, 1948, ch. 36, title V, § 506, as added Pub. L. 101–246, title II, § 232, Feb. 16, 1990, 104 Stat. 57; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(2), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 **Editorial Notes**
 
@@ -1209,7 +1209,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 Subchapter repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.
 
-### § 1465. Congressional findings and declaration of purposes
+### § 1465. Congressional findings and declaration of purposes
 
 The Congress finds and declares—
 
@@ -1221,7 +1221,7 @@ The Congress finds and declares—
 
 **(4)** that the Voice of America already broadcasts to Cuba information that represents America, not any single segment of American society, and includes a balanced and comprehensive projection of significant American thought and institutions but that there is a need for broadcasts to Cuba which provide news, commentary and other information about events in Cuba and elsewhere to promote the cause of freedom in Cuba.
 
-(Pub. L. 98–111, § 2, Oct. 4, 1983, 97 Stat. 749.)
+(Pub. L. 98–111, § 2, Oct. 4, 1983, 97 Stat. 749.)
 
 **Repeal of Section**
 
@@ -1237,9 +1237,9 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 **Short Title**
 
-Pub. L. 98–111, § 1, Oct. 4, 1983, 97 Stat. 749, provided: “That this Act [enacting this subchapter] may be cited as the ‘Radio Broadcasting to Cuba Act’.”
+Pub. L. 98–111, § 1, Oct. 4, 1983, 97 Stat. 749, provided: “That this Act [enacting this subchapter] may be cited as the ‘Radio Broadcasting to Cuba Act’.”
 
-### § 1465a. Additional functions of Broadcasting Board of Governors
+### § 1465a. Additional functions of Broadcasting Board of Governors
 
 **(a) Radio broadcasting to Cuba**
 
@@ -1251,15 +1251,15 @@ Radio broadcasting in accordance with subsection (a) shall be part of the Voice 
 
 **(c) Location of broadcast facilities; frequency; leased time from nongovernmental shortwave stations**
 
-Radio broadcasting to Cuba authorized by this subchapter shall utilize the broadcasting facilities located at Marathon, Florida, and the 1180 AM frequency that were used by the Voice of America prior to October 4, 1983. Other frequencies, not on the commercial Amplitude Modulation (AM) Band (535 kHz to 1605 kHz), may also be simultaneously utilized: *Provided*, That no frequency shall be used for radio broadcasts to Cuba in accordance with this subchapter which is not also used for all other Voice of America broadcasts to Cuba. Time leased from nongovernmental shortwave radio stations may be used to carry all or part of the Service programs and to rebroadcast Service programs: *Provided*, That not less than 30 per centum of the programs broadcast or rebroadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) 1
+Radio broadcasting to Cuba authorized by this subchapter shall utilize the broadcasting facilities located at Marathon, Florida, and the 1180 AM frequency that were used by the Voice of America prior to October 4, 1983. Other frequencies, not on the commercial Amplitude Modulation (AM) Band (535 kHz to 1605 kHz), may also be simultaneously utilized: *Provided*, That no frequency shall be used for radio broadcasts to Cuba in accordance with this subchapter which is not also used for all other Voice of America broadcasts to Cuba. Time leased from nongovernmental shortwave radio stations may be used to carry all or part of the Service programs and to rebroadcast Service programs: *Provided*, That not less than 30 per centum of the programs broadcast or rebroadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
 **(d) Changes in frequencies to other AM bands; jamming and interference**
 
-Notwithstanding subsection (c), in the event that broadcasts to Cuba on the 1180 AM frequency are subject to jamming or interference greater by 25 per centum or more than the average daily jamming or interference in the twelve months preceding September 1, 1983, the Broadcasting Board of Governors may lease time on commercial or noncommercial educational AM band radio broadcasting stations. The Federal Communications Commission shall determine levels of jamming and interference by conducting regular monitoring of the 1180 AM frequency. In the event that more than two hours a day of time is leased, not less than 30 per centum of the programing broadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) <sup>1</sup> of this title.
+Notwithstanding subsection (c), in the event that broadcasts to Cuba on the 1180 AM frequency are subject to jamming or interference greater by 25 per centum or more than the average daily jamming or interference in the twelve months preceding September 1, 1983, the Broadcasting Board of Governors may lease time on commercial or noncommercial educational AM band radio broadcasting stations. The Federal Communications Commission shall determine levels of jamming and interference by conducting regular monitoring of the 1180 AM frequency. In the event that more than two hours a day of time is leased, not less than 30 per centum of the programing broadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) <sup>1</sup> of this title.
 
 **(e) Voice of America: Cuba Service; Voice of America: Radio Marti program**
 
@@ -1269,7 +1269,7 @@ Any program of United States Government radio broadcasts to Cuba authorized by t
 
 In the event broadcasting facilities located at Marathon, Florida, are rendered inoperable by natural disaster or by unlawful destruction, the Broadcasting Board of Governors may, for the period in which the facilities are inoperable but not to exceed one hundred and fifty days, use other United States Government-owned transmission facilities for Voice of America broadcasts to Cuba authorized by this subchapter.
 
-(Pub. L. 98–111, § 3, Oct. 4, 1983, 97 Stat. 749; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1324(1)–(3), Oct. 21, 1998, 112 Stat. 2681–780, 2681–781.)
+(Pub. L. 98–111, § 3, Oct. 4, 1983, 97 Stat. 749; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1324(1)–(3), Oct. 21, 1998, 112 Stat. 2681–780, 2681–781.)
 
 **Repeal of Section**
 
@@ -1279,7 +1279,7 @@ Section repealed upon transmittal of determination by President under section 60
 
 **References in Text**
 
-Section 1463 of this title, referred to in subsecs. (c) and (d), was repealed by Pub. L. 103–236, title III, § 315(a), Apr. 30, 1994, 108 Stat. 445.
+Section 1463 of this title, referred to in subsecs. (c) and (d), was repealed by Pub. L. 103–236, title III, § 315(a), Apr. 30, 1994, 108 Stat. 445.
 
 **Codification**
 
@@ -1287,9 +1287,9 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1324(1), (2), substituted “Broadcasting Board of Governors” for “United States Information Agency” and “Board” for “Agency”.
+1998—Subsec. (a). Pub. L. 105–277, § 1324(1), (2), substituted “Broadcasting Board of Governors” for “United States Information Agency” and “Board” for “Agency”.
 
-Subsecs. (d), (f). Pub. L. 105–277, § 1324(3), substituted “the Broadcasting Board of Governors” for “the Director of the United States Information Agency”.
+Subsecs. (d), (f). Pub. L. 105–277, § 1324(3), substituted “the Broadcasting Board of Governors” for “the Director of the United States Information Agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1301,15 +1301,15 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1465b. Cuba Service
+### § 1465b. Cuba Service
 
-The Broadcasting Board of Governors shall establish within the International Broadcasting Bureau a Cuba Service (hereafter in this section referred to as the “Service”). The Service shall be responsible for all radio broadcasts to Cuba authorized by section 1465a of this title. The Broadcasting Board of Governors shall appoint a head of the Service and shall employ such staff as the head of the Service may need to carry out his duties. The Cuba Service shall be administered separately from other Voice of America functions and the head of the Cuba Service shall report directly to the Board 1
+The Broadcasting Board of Governors shall establish within the International Broadcasting Bureau a Cuba Service (hereafter in this section referred to as the “Service”). The Service shall be responsible for all radio broadcasts to Cuba authorized by section 1465a of this title. The Broadcasting Board of Governors shall appoint a head of the Service and shall employ such staff as the head of the Service may need to carry out his duties. The Cuba Service shall be administered separately from other Voice of America functions and the head of the Cuba Service shall report directly to the Board 1
 
-<sup>1</sup>  So in original. There is no Board of the International Broadcasting Bureau.
+<sup>1</sup> So in original. There is no Board of the International Broadcasting Bureau.
 
 of the International Broadcasting Bureau.
 
-(Pub. L. 98–111, § 4, Oct. 4, 1983, 97 Stat. 750; Pub. L. 103–236, title III, § 305(e)(1), formerly § 305(d)(1), Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1323(f)(1), 1324(3), (4), (6), Oct. 21, 1998, 112 Stat. 2681–779, 2681–781.)
+(Pub. L. 98–111, § 4, Oct. 4, 1983, 97 Stat. 750; Pub. L. 103–236, title III, § 305(e)(1), formerly § 305(d)(1), Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1323(f)(1), 1324(3), (4), (6), Oct. 21, 1998, 112 Stat. 2681–779, 2681–781.)
 
 **Repeal of Section**
 
@@ -1323,11 +1323,11 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 **Amendments**
 
-1998—Pub. L. 105–277, § 1324(6), substituted “Board” for “Director” in last sentence.
+1998—Pub. L. 105–277, § 1324(6), substituted “Board” for “Director” in last sentence.
 
-Pub. L. 105–277, § 1324(4), which directed the amendment of this section by substituting “the International Broadcasting Bureau” for “the Voice of America”, was executed by making the substitution for text in two places to reflect the probable intent of Congress.
+Pub. L. 105–277, § 1324(4), which directed the amendment of this section by substituting “the International Broadcasting Bureau” for “the Voice of America”, was executed by making the substitution for text in two places to reflect the probable intent of Congress.
 
-Pub. L. 105–277, § 1324(3), which directed the substitution of “the Broadcasting Board of Governors” for “the Director of the United States Information Agency” each place it appears, was executed by substituting “Broadcasting Board of Governors” for “Director of the United States Information Agency” in two places, to reflect the probable intent of Congress.
+Pub. L. 105–277, § 1324(3), which directed the substitution of “the Broadcasting Board of Governors” for “the Director of the United States Information Agency” each place it appears, was executed by substituting “Broadcasting Board of Governors” for “Director of the United States Information Agency” in two places, to reflect the probable intent of Congress.
 
 1994—Pub. L. 103–236 substituted “of the Voice of America” for “and the Associate Director for Broadcasting of the United States Information Agency”.
 
@@ -1343,7 +1343,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **Prohibitions**
 
-Pub. L. 114–323, title VII, § 703(b), Dec. 16, 2016, 130 Stat. 1941, as amended by Pub. L. 115–94, § 11, Dec. 18, 2017, 131 Stat. 2040, provided that:
+Pub. L. 114–323, title VII, § 703(b), Dec. 16, 2016, 130 Stat. 1941, as amended by Pub. L. 115–94, § 11, Dec. 18, 2017, 131 Stat. 2040, provided that:
 
 > **“(1) In general.—** Notwithstanding any other provision of law, any change to the Federal status of—
 
@@ -1353,21 +1353,21 @@ Pub. L. 114–323, title VII, § 703(b), Dec. 16, 2016, 130 Stat. 1941, as ame
 
 > **“(2) Definition.—** In this subsection, the term ‘change to the Federal status’, with respect to a service referred to in subparagraph (A) or (B) of paragraph (1), includes privatization, subordination to a private or private-public entity, or merger with a private or public-private entity of such service.”
 
-### § 1465c. Advisory Board for Cuba Broadcasting
+### § 1465c. Advisory Board for Cuba Broadcasting
 
 **(a) Establishment; membership; chairperson**
 
-There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this subchapter 1
+There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this subchapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 referred to as the “Advisory Board”). The Advisory Board shall consist of nine members, appointed by the President by and with the advice and consent of the Senate, of whom not more than five shall be members of the same political party. The President shall designate one member of the Advisory Board to serve as chairperson.
 
 **(b) Review; recommendations**
 
-The Advisory Board shall review the effectiveness of the activities carried out under this subchapter and the Television Broadcasting to Cuba Act [22 U.S.C. 1465aa et seq.] and shall make recommendations to the President and the Broadcasting Advisory 2
+The Advisory Board shall review the effectiveness of the activities carried out under this subchapter and the Television Broadcasting to Cuba Act [22 U.S.C. 1465aa et seq.] and shall make recommendations to the President and the Broadcasting Advisory 2
 
-<sup>2</sup>  So in original. The word “Advisory” probably should not appear.
+<sup>2</sup> So in original. The word “Advisory” probably should not appear.
 
 Board of Governors as it may consider necessary.
 
@@ -1395,7 +1395,7 @@ Notwithstanding any other provision of law, the Advisory Board shall remain in e
 
 There are authorized to be appropriated $130,000 to carry out the provisions of this section.
 
-(Pub. L. 98–111, § 5, Oct. 4, 1983, 97 Stat. 750; Pub. L. 101–246, title II, § 245(a), Feb. 16, 1990, 104 Stat. 61; Pub. L. 103–236, title III, § 305(e)(2), formerly § 305(d)(2), Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1323(f)(1), 1324(5), Oct. 21, 1998, 112 Stat. 2681–779, 2681–781.)
+(Pub. L. 98–111, § 5, Oct. 4, 1983, 97 Stat. 750; Pub. L. 101–246, title II, § 245(a), Feb. 16, 1990, 104 Stat. 61; Pub. L. 103–236, title III, § 305(e)(2), formerly § 305(d)(2), Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1323(f)(1), 1324(5), Oct. 21, 1998, 112 Stat. 2681–779, 2681–781.)
 
 **Repeal of Section**
 
@@ -1407,7 +1407,7 @@ Section repealed upon transmittal of determination by President under section 60
 
 This subchapter, referred to in subsec. (a), was in the original “this division”, and was translated as reading “this Act”, meaning Pub. L. 98–111, which enacted this subchapter, to reflect the probable intent of Congress.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 **Codification**
 
@@ -1415,21 +1415,21 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1324(5), substituted “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this division referred to as the ‘Advisory Board’).” for “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (hereafter in this subchapter referred to as the ‘Board’).”, and substituted “Advisory Board” for “Board” in two places.
+1998—Subsec. (a). Pub. L. 105–277, § 1324(5), substituted “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this division referred to as the ‘Advisory Board’).” for “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (hereafter in this subchapter referred to as the ‘Board’).”, and substituted “Advisory Board” for “Board” in two places.
 
-Subsecs. (b) to (g). Pub. L. 105–277, § 1324(5)(A), substituted “Advisory Board” for “Board” wherever appearing.
+Subsecs. (b) to (g). Pub. L. 105–277, § 1324(5)(A), substituted “Advisory Board” for “Board” wherever appearing.
 
 1994—Subsec. (b). Pub. L. 103–236 substituted “Broadcasting Board of Governors” for “Director and Associate Director for Broadcasting of the United States Information Agency”.
 
-1990—Pub. L. 101–246, § 245(a)(1), substituted “Cuba Broadcasting” for “Radio Broadcasting to Cuba” in section catchline.
+1990—Pub. L. 101–246, § 245(a)(1), substituted “Cuba Broadcasting” for “Radio Broadcasting to Cuba” in section catchline.
 
-Subsec. (a). Pub. L. 101–246, § 245(a)(2), amended subsec. (a) generally, substituting “Cuba Broadcasting” for “Radio Broadcasting to Cuba” and “to serve as chairperson” for “to serve as Chairman”.
+Subsec. (a). Pub. L. 101–246, § 245(a)(2), amended subsec. (a) generally, substituting “Cuba Broadcasting” for “Radio Broadcasting to Cuba” and “to serve as chairperson” for “to serve as Chairman”.
 
-Subsec. (b). Pub. L. 101–246, § 245(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board shall review the effectiveness of the activities carried out under this subchapter and shall make such recommendations to the President, the Director and the Associate Director for Broadcasting of the United States Information Agency as it may deem necessary.”
+Subsec. (b). Pub. L. 101–246, § 245(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board shall review the effectiveness of the activities carried out under this subchapter and shall make such recommendations to the President, the Director and the Associate Director for Broadcasting of the United States Information Agency as it may deem necessary.”
 
-Subsec. (d). Pub. L. 101–246, § 245(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The head of the Service shall serve, ex officio, as a member of the Board.”
+Subsec. (d). Pub. L. 101–246, § 245(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The head of the Service shall serve, ex officio, as a member of the Board.”
 
-Subsec. (e). Pub. L. 101–246, § 245(a)(4), substituted “The ex officio members” for “The ex officio member”.
+Subsec. (e). Pub. L. 101–246, § 245(a)(4), substituted “The ex officio members” for “The ex officio member”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1443,23 +1443,23 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **Former References to Advisory Board for Radio Broadcasting to Cuba**
 
-Pub. L. 101–246, title II, § 245(b), Feb. 16, 1990, 104 Stat. 61, provided that: “A reference in any provision of law to the ‘Advisory Board for Radio Broadcasting to Cuba’ shall be considered to be a reference to the ‘Advisory Board for Cuba Broadcasting’.”
+Pub. L. 101–246, title II, § 245(b), Feb. 16, 1990, 104 Stat. 61, provided that: “A reference in any provision of law to the ‘Advisory Board for Radio Broadcasting to Cuba’ shall be considered to be a reference to the ‘Advisory Board for Cuba Broadcasting’.”
 
 **Continued Service of Board Members**
 
-Pub. L. 101–246, title II, § 245(c), Feb. 16, 1990, 104 Stat. 61, provided that: “Each member of the Advisory Board for Radio Broadcasting to Cuba as in existence on the day before the effective date of the amendment made by subsection (a) [Feb. 16, 1990] shall continue to serve for the remainder of the term to which such member was appointed as a member of the Advisory Board for Cuba Broadcasting.”
+Pub. L. 101–246, title II, § 245(c), Feb. 16, 1990, 104 Stat. 61, provided that: “Each member of the Advisory Board for Radio Broadcasting to Cuba as in existence on the day before the effective date of the amendment made by subsection (a) [Feb. 16, 1990] shall continue to serve for the remainder of the term to which such member was appointed as a member of the Advisory Board for Cuba Broadcasting.”
 
 **Staff Director**
 
-Pub. L. 101–246, title II, § 245(d), Feb. 16, 1990, 104 Stat. 62, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(5), Oct. 21, 1998, 112 Stat. 2681–782, provided that: “The Advisory Board shall have a staff director who shall be appointed by the Chairperson of the Advisory Board for Cuba Broadcasting.”
+Pub. L. 101–246, title II, § 245(d), Feb. 16, 1990, 104 Stat. 62, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(5), Oct. 21, 1998, 112 Stat. 2681–782, provided that: “The Advisory Board shall have a staff director who shall be appointed by the Chairperson of the Advisory Board for Cuba Broadcasting.”
 
-### § 1465d. Assistance from other government agencies
+### § 1465d. Assistance from other government agencies
 
 **(a)** In order to assist the Broadcasting Board of Governors in carrying out the purposes set forth in section 1465 of this title, any agency or instrumentality of the United States may sell, loan, lease, or grant property (including interests therein) and may perform administrative and technical support and services at the request of the Board. Support and services shall be provided on a reimbursable basis. Any reimbursement shall be credited to the appropriation from which the property, support, or services was derived.
 
 **(b)** The Board may carry out the purposes of section 1465a of this title by means of grants, leases, or contracts (subject to the availability of appropriations), or such other means as the Board determines will be most effective.
 
-(Pub. L. 98–111, § 6, Oct. 4, 1983, 97 Stat. 751; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1324(1), (2), Oct. 21, 1998, 112 Stat. 2681–781.)
+(Pub. L. 98–111, § 6, Oct. 4, 1983, 97 Stat. 751; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1324(1), (2), Oct. 21, 1998, 112 Stat. 2681–781.)
 
 **Repeal of Section**
 
@@ -1475,7 +1475,7 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “Broadcasting Board of Governors” for “United States Information Agency” and “Board” for “Agency”.
 
-Subsec. (b). Pub. L. 105–277, § 1324(2), substituted “Board” for “Agency” in two places.
+Subsec. (b). Pub. L. 105–277, § 1324(2), substituted “Board” for “Agency” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1487,7 +1487,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1465e. Compensation for Cuban interference with broadcasting in United States
+### § 1465e. Compensation for Cuban interference with broadcasting in United States
 
 **(a) Interim assistance to United States broadcasters**
 
@@ -1517,7 +1517,7 @@ It is the sense of the Congress that the President should establish a task force
 
 This section shall enter into effect on October 1, 1984.
 
-(Pub. L. 98–111, § 7, Oct. 4, 1983, 97 Stat. 752; Pub. L. 98–411, title V, § 512, Aug. 30, 1984, 98 Stat. 1574; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1324(2), Oct. 21, 1998, 112 Stat. 2681–781.)
+(Pub. L. 98–111, § 7, Oct. 4, 1983, 97 Stat. 752; Pub. L. 98–411, title V, § 512, Aug. 30, 1984, 98 Stat. 1574; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1324(2), Oct. 21, 1998, 112 Stat. 2681–781.)
 
 **Repeal of Section**
 
@@ -1541,7 +1541,7 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1465f. Authorization of appropriations
+### § 1465f. Authorization of appropriations
 
 **(a)** There are authorized to be appropriated for the Broadcasting Board of Governors $14,000,000 for fiscal year 1984 and $11,000,000 for fiscal year 1985 to carry out sections 1465a and 1465b of this title. The amount obligated by the Broadcasting Board of Governors in ensuing fiscal years shall be sufficient to maintain broadcasts to Cuba under this subchapter at rates no less than the fiscal year 1985 level.
 
@@ -1549,7 +1549,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **(c)** Amounts appropriated under this section are authorized to be made available until expended.
 
-(Pub. L. 98–111, § 8, Oct. 4, 1983, 97 Stat. 752; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1324(1), (2), Oct. 21, 1998, 112 Stat. 2681–781.)
+(Pub. L. 98–111, § 8, Oct. 4, 1983, 97 Stat. 752; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1324(1), (2), Oct. 21, 1998, 112 Stat. 2681–781.)
 
 **Repeal of Section**
 
@@ -1563,9 +1563,9 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1324(1), substituted “Broadcasting Board of Governors” for “United States Information Agency” in two places.
+1998—Subsec. (a). Pub. L. 105–277, § 1324(1), substituted “Broadcasting Board of Governors” for “United States Information Agency” in two places.
 
-Subsec. (b). Pub. L. 105–277, § 1324(2), substituted “Board” for “Agency” in two places.
+Subsec. (b). Pub. L. 105–277, § 1324(2), substituted “Board” for “Agency” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1577,9 +1577,9 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1465g. Repealed. Pub. L. 103–236, title I, § 139(9), Apr. 30, 1994, 108 Stat. 398
+### § 1465g. Repealed. Pub. L. 103–236, title I, § 139(9), Apr. 30, 1994, 108 Stat. 398
 
-Section, Pub. L. 98–111, § 9, Oct. 4, 1983, 97 Stat. 753, directed United States Information Agency to arrange for independent evaluations of Cuba Service programing for submission to Congress.
+Section, Pub. L. 98–111, § 9, Oct. 4, 1983, 97 Stat. 753, directed United States Information Agency to arrange for independent evaluations of Cuba Service programing for submission to Congress.
 
 ## SUBCHAPTER V–B—TELEVISION BROADCASTING TO CUBA
 
@@ -1587,7 +1587,7 @@ Section, Pub. L. 98–111, § 9, Oct. 4, 1983, 97 Stat. 753, directed United S
 
 Subchapter repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.
 
-### § 1465aa. Findings and purposes
+### § 1465aa. Findings and purposes
 
 The Congress finds and declares that—
 
@@ -1599,13 +1599,13 @@ The Congress finds and declares that—
 
 **(4)** facilities broadcasting television programming to Cuba must be operated in a manner consistent with applicable regulations of the Federal Communications Commission, and must not affect the quality of domestic broadcast transmission or reception; and
 
-**(5)** that 1
+**(5)** that 1
 
-<sup>1</sup>  So in original. The word “that” probably should not appear.
+<sup>1</sup> So in original. The word “that” probably should not appear.
 
 the Voice of America already broadcasts to Cuba information that represents America, not any single segment of American society, and includes a balanced and comprehensive projection of significant American thought and institutions, but that there is a need for television broadcasts to Cuba which provide news, commentary, and other information about events in Cuba and elsewhere to promote the cause of freedom in Cuba.
 
-(Pub. L. 101–246, title II, § 242, Feb. 16, 1990, 104 Stat. 58.)
+(Pub. L. 101–246, title II, § 242, Feb. 16, 1990, 104 Stat. 58.)
 
 **Repeal of Section**
 
@@ -1621,9 +1621,9 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 **Short Title**
 
-Pub. L. 101–246, title II, § 241, Feb. 16, 1990, 104 Stat. 58, provided that: “This part [part D (§§ 241–248) of title II of Pub. L. 101–246, enacting this subchapter, amending section 1465c of this title, and enacting provisions set out as notes under section 1465c of this title] may be cited as the ‘Television Broadcasting to Cuba Act’.”
+Pub. L. 101–246, title II, § 241, Feb. 16, 1990, 104 Stat. 58, provided that: “This part [part D (§§ 241–248) of title II of Pub. L. 101–246, enacting this subchapter, amending section 1465c of this title, and enacting provisions set out as notes under section 1465c of this title] may be cited as the ‘Television Broadcasting to Cuba Act’.”
 
-### § 1465bb. Television broadcasting to Cuba
+### § 1465bb. Television broadcasting to Cuba
 
 **(a) Television broadcasting to Cuba**
 
@@ -1663,7 +1663,7 @@ Any program of United States Government television broadcasts to Cuba authorized
 
 It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban television and radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
 
-(Pub. L. 101–246, title II, § 243, Feb. 16, 1990, 104 Stat. 59; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(1), (2), Oct. 21, 1998, 112 Stat. 2681–781.)
+(Pub. L. 101–246, title II, § 243, Feb. 16, 1990, 104 Stat. 59; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(1), (2), Oct. 21, 1998, 112 Stat. 2681–781.)
 
 **Repeal of Section**
 
@@ -1673,7 +1673,7 @@ Section repealed upon transmittal of determination by President under section 60
 
 **References in Text**
 
-The Communications Act of 1934, referred to in subsec. (d)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (d)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 **Codification**
 
@@ -1681,9 +1681,9 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1325(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+1998—Subsec. (a). Pub. L. 105–277, § 1325(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
-Subsec. (c). Pub. L. 105–277, § 1325(2), in heading struck out “USIA” before “Television” and in text substituted “the ‘Television” for “ ‘USIA Television”.
+Subsec. (c). Pub. L. 105–277, § 1325(2), in heading struck out “USIA” before “Television” and in text substituted “the ‘Television” for “ ‘USIA Television”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1699,7 +1699,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (f) of this section is listed on page 167), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-### § 1465cc. Television Marti Service
+### § 1465cc. Television Marti Service
 
 **(a) Television Marti Service**
 
@@ -1713,7 +1713,7 @@ To assure consistency of presentation and efficiency of operations in conducting
 
 The Board may carry out the purposes of this subchapter by means of grants, leases, or contracts (subject to the availability of appropriations), or such other means as the Board determines will be most effective.
 
-(Pub. L. 101–246, title II, § 244, Feb. 16, 1990, 104 Stat. 61; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(3), (4), Oct. 21, 1998, 112 Stat. 2681–781.)
+(Pub. L. 101–246, title II, § 244, Feb. 16, 1990, 104 Stat. 61; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(3), (4), Oct. 21, 1998, 112 Stat. 2681–781.)
 
 **Repeal of Section**
 
@@ -1727,15 +1727,15 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 **Amendments**
 
-1998—Pub. L. 105–277, § 1325(4)(A), struck out “of the United States Information Agency” after “Service” in section catchline.
+1998—Pub. L. 105–277, § 1325(4)(A), struck out “of the United States Information Agency” after “Service” in section catchline.
 
-Subsec. (a). Pub. L. 105–277, § 1325(4)(B)(ii), which directed amendment of subsec. (a) in second sentence by substituting “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “the International Broadcasting Bureau” for “the Director of the Voice of America”, was executed by making the substitutions in third sentence, to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 105–277, § 1325(4)(B)(ii), which directed amendment of subsec. (a) in second sentence by substituting “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “the International Broadcasting Bureau” for “the Director of the Voice of America”, was executed by making the substitutions in third sentence, to reflect the probable intent of Congress.
 
-Pub. L. 105–277, § 1325(4)(B)(i), substituted “There is” for “The Director of the United States Information Agency shall establish” in first sentence.
+Pub. L. 105–277, § 1325(4)(B)(i), substituted “There is” for “The Director of the United States Information Agency shall establish” in first sentence.
 
-Subsec. (b). Pub. L. 105–277, § 1325(4)(C), substituted “Board facilities” for “Agency facilities” and “International” for “Information Agency”.
+Subsec. (b). Pub. L. 105–277, § 1325(4)(C), substituted “Board facilities” for “Agency facilities” and “International” for “Information Agency”.
 
-Subsec. (c). Pub. L. 105–277, § 1325(3), (4)(D), in heading struck out “USIA” before “Authority”, and in text substituted “Board” for “Agency” in two places.
+Subsec. (c). Pub. L. 105–277, § 1325(3), (4)(D), in heading struck out “USIA” before “Authority”, and in text substituted “Board” for “Agency” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1747,11 +1747,11 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1465dd. Assistance from other Government agencies
+### § 1465dd. Assistance from other Government agencies
 
 In order to assist the Broadcasting Board of Governors in carrying out the provisions of this subchapter, any agency or instrumentality of the United States may sell, loan, lease, or grant property (including interests therein) and may perform administrative and technical support and services at the request of the Board.
 
-(Pub. L. 101–246, title II, § 246, Feb. 16, 1990, 104 Stat. 62; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(1), (3), Oct. 21, 1998, 112 Stat. 2681–781.)
+(Pub. L. 101–246, title II, § 246, Feb. 16, 1990, 104 Stat. 62; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(1), (3), Oct. 21, 1998, 112 Stat. 2681–781.)
 
 **Repeal of Section**
 
@@ -1777,7 +1777,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1465ee. Authorization of appropriations
+### § 1465ee. Authorization of appropriations
 
 **(a) Authorization of appropriations**
 
@@ -1799,7 +1799,7 @@ whichever comes first.
 
 Amounts appropriated to carry out the purposes of this subchapter are authorized to be available until expended.
 
-(Pub. L. 101–246, title II, § 247, Feb. 16, 1990, 104 Stat. 62; Pub. L. 102–138, title II, § 232, Oct. 28, 1991, 105 Stat. 703.)
+(Pub. L. 101–246, title II, § 247, Feb. 16, 1990, 104 Stat. 62; Pub. L. 102–138, title II, § 232, Oct. 28, 1991, 105 Stat. 703.)
 
 **Repeal of Section**
 
@@ -1839,23 +1839,23 @@ You are authorized and directed to transmit this determination to the appropriat
 
 George Bush.
 
-### § 1465ff. Definitions
+### § 1465ff. Definitions
 
 As used in this subchapter—
 
-**(1)** the term “licensee” has the meaning provided in section 153(c) 1
+**(1)** the term “licensee” has the meaning provided in section 153(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 47;
 
-**(2)** the term “incumbent domestic licensee” means a licensee as provided in section 153(c) <sup>1</sup> of title 47 that was broadcasting a television signal as of January 1, 1989;
+**(2)** the term “incumbent domestic licensee” means a licensee as provided in section 153(c) <sup>1</sup> of title 47 that was broadcasting a television signal as of January 1, 1989;
 
 **(3)** the term “objectionable interference” shall be applied in the same manner as such term is applied under regulations of the Federal Communications Commission to other domestic broadcasters; and
 
 **(4)** the term “appropriate committees of Congress” includes the Committee on Foreign Affairs and the Committee on Energy and Commerce of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 101–246, title II, § 248, Feb. 16, 1990, 104 Stat. 62.)
+(Pub. L. 101–246, title II, § 248, Feb. 16, 1990, 104 Stat. 62.)
 
 **Repeal of Section**
 
@@ -1879,21 +1879,21 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 ## SUBCHAPTER VI—ADVISORY COMMISSIONS TO FORMULATE POLICIES
 
-### §§ 1466 to 1468. Omitted
+### §§ 1466 to 1468. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 1466 to 1468 of this title, contained provisions relating to the United States Advisory Commission on Information, and the United States Advisory Commission on Educational Exchange. Public Law 87–256, §§ 106, 111(a)(2), Sept. 21, 1961, 75 Stat. 532, 538, replaced the Advisory Commission on Educational Exchange with the Advisory Commission on International Educational and Cultural Affairs and repealed these sections insofar as they related to the Advisory Commission on Educational Exchange. The Advisory Commission on International Educational and Cultural Affairs and the Advisory Commission on Information were both abolished by Reorg. Plan No. 2 of 1977, § 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President.
+Sections 1466 to 1468 of this title, contained provisions relating to the United States Advisory Commission on Information, and the United States Advisory Commission on Educational Exchange. Public Law 87–256, §§ 106, 111(a)(2), Sept. 21, 1961, 75 Stat. 532, 538, replaced the Advisory Commission on Educational Exchange with the Advisory Commission on International Educational and Cultural Affairs and repealed these sections insofar as they related to the Advisory Commission on Educational Exchange. The Advisory Commission on International Educational and Cultural Affairs and the Advisory Commission on Information were both abolished by Reorg. Plan No. 2 of 1977, § 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President.
 
-Section 1466, acts Jan. 27, 1948, ch. 36, § 601, 62 Stat. 10; Sept. 21, 1961, Pub. L. 87–256, § 111(a)(2), 75 Stat. 538, created the United States Advisory Commission on Information, and the United States Advisory Commission on Educational Exchange and provided for the duties of the Commissions.
+Section 1466, acts Jan. 27, 1948, ch. 36, § 601, 62 Stat. 10; Sept. 21, 1961, Pub. L. 87–256, § 111(a)(2), 75 Stat. 538, created the United States Advisory Commission on Information, and the United States Advisory Commission on Educational Exchange and provided for the duties of the Commissions.
 
-Section 1467, acts Jan. 27, 1948, ch. 36, title VI, § 602, 62 Stat. 10; Sept. 21, 1961, Pub. L. 87–256, § 111(a)(2), 75 Stat. 538, provided for the composition, membership, terms of office, compensation, designation of chairmen, rules and regulations, and representation of the public interest, for the Commission on Information and the Commission on Educational Exchange.
+Section 1467, acts Jan. 27, 1948, ch. 36, title VI, § 602, 62 Stat. 10; Sept. 21, 1961, Pub. L. 87–256, § 111(a)(2), 75 Stat. 538, provided for the composition, membership, terms of office, compensation, designation of chairmen, rules and regulations, and representation of the public interest, for the Commission on Information and the Commission on Educational Exchange.
 
-Section 1468, acts Jan. 27, 1948, ch. 36, title VI, § 603, 62 Stat. 11; Sept. 21, 1961, Pub. L. 87–256, § 111(a)(2), 75 Stat. 538, provided that the Commissions report to Congress on programs and activities carried out under this chapter, including recommendations for effectuating the purposes and objectives of this chapter.
+Section 1468, acts Jan. 27, 1948, ch. 36, title VI, § 603, 62 Stat. 11; Sept. 21, 1961, Pub. L. 87–256, § 111(a)(2), 75 Stat. 538, provided that the Commissions report to Congress on programs and activities carried out under this chapter, including recommendations for effectuating the purposes and objectives of this chapter.
 
-### § 1469. United States Advisory Commission on Public Diplomacy
+### § 1469. United States Advisory Commission on Public Diplomacy
 
 **(a) Establishment**
 
@@ -1989,25 +1989,25 @@ The Commission shall make the reports submitted pursuant to subparagraph (A) pub
 
 The Secretary of State shall ensure that the Commission has access to all appropriate information to carry out its duties and responsibilities under this subsection.
 
-(Jan. 27, 1948, ch. 36, title VI, § 604, as added Pub. L. 96–60, title II, § 203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, § 213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, § 206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, § 407(c), Nov. 28, 2001, 115 Stat. 790; Pub. L. 112–239, div. A, title XII, § 1280(a)–(c), Jan. 2, 2013, 126 Stat. 2032.)
+(Jan. 27, 1948, ch. 36, title VI, § 604, as added Pub. L. 96–60, title II, § 203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, § 213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, § 206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, § 407(c), Nov. 28, 2001, 115 Stat. 790; Pub. L. 112–239, div. A, title XII, § 1280(a)–(c), Jan. 2, 2013, 126 Stat. 2032.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a)(1). Pub. L. 112–239, § 1280(a), inserted “(referred to in this section as the ‘Commission’)” before period at end.
+2013—Subsec. (a)(1). Pub. L. 112–239, § 1280(a), inserted “(referred to in this section as the ‘Commission’)” before period at end.
 
-Subsec. (c). Pub. L. 112–239, § 1280(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) described the Commission’s duties and responsibilities, including formulation and appraisal of policies and programs and submission of reports.
+Subsec. (c). Pub. L. 112–239, § 1280(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) described the Commission’s duties and responsibilities, including formulation and appraisal of policies and programs and submission of reports.
 
-Subsec. (d). Pub. L. 112–239, § 1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.”
+Subsec. (d). Pub. L. 112–239, § 1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.”
 
 2001—Pub. L. 107–77 reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
-1999—Pub. L. 106–113, § 1000(a)(7) [div. A, title IV, § 404(c)(2)], repealed this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+1999—Pub. L. 106–113, § 1000(a)(7) [div. A, title IV, § 404(c)(2)], repealed this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
-Pub. L. 106–113, § 1000(a)(7) [div. A, title IV, § 404(a), (c)(1)], amended Pub. L. 105–277, § 1334, generally (see 1998 Amendment note below) and reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+Pub. L. 106–113, § 1000(a)(7) [div. A, title IV, § 404(a), (c)(1)], amended Pub. L. 105–277, § 1334, generally (see 1998 Amendment note below) and reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
-1998—Pub. L. 105–277, § 1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, § 1334, by Pub. L. 106–113, § 1000(a)(7) [div. A, title IV, § 404(a)]. See 1999 Amendment note above.
+1998—Pub. L. 105–277, § 1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, § 1334, by Pub. L. 106–113, § 1000(a)(7) [div. A, title IV, § 404(a)]. See 1999 Amendment note above.
 
 1990—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
 
@@ -2029,49 +2029,49 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 **Reenactment and Repeal of Certain Provisions of Law**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that:
 
 > **“(1) Reenactment.—** The provisions of law repealed by section 1334 [22 U.S.C. 6553] of the Foreign Affairs Reform and Restructuring Act of 1998 [repealing this section and section 8 of Reorganization Plan No. 2 of 1977, set out under section 1461 of this title and in the Appendix to Title 5, Government Organization and Employees], as in effect before the date of the enactment of this Act [Nov. 29, 1999], are hereby reenacted into law.
 
 > **“(2) Repeal.—** Effective September 30, 2001, section 604 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469) and section 8 of the Reorganization Plan Numbered 2 of 1977 are repealed.”
 
-[Pub. L. 107–77, title IV, § 407(c), Nov. 28, 2001, 115 Stat. 790, reenacted into law the provisions that were repealed by section 1000(a)(7) [div. A, title IV, § 404(c)(2)] of div. B of Pub. L. 106–113, set out above.]
+[Pub. L. 107–77, title IV, § 407(c), Nov. 28, 2001, 115 Stat. 790, reenacted into law the provisions that were repealed by section 1000(a)(7) [div. A, title IV, § 404(c)(2)] of div. B of Pub. L. 106–113, set out above.]
 
 **Continuity of Advisory Commission**
 
-Pub. L. 107–77, title IV, § 407(d), Nov. 28, 2001, 115 Stat. 790, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
+Pub. L. 107–77, title IV, § 407(d), Nov. 28, 2001, 115 Stat. 790, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
 
 **Reduction in Staff and Budget**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 [22 U.S.C. 1469(b)], effective on the date of the enactment of this Act [Nov. 29, 1999], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 [22 U.S.C. 1469(b)], effective on the date of the enactment of this Act [Nov. 29, 1999], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999.”
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Continued Service of Commission Members**
 
-Pub. L. 101–246, title II, § 206(b), Feb. 16, 1990, 104 Stat. 53, provided that each member of the United States Advisory Commission on Public Diplomacy as in existence on the day before Jan. 20, 1989, was to continue to serve for the remainder of the term to which such member was appointed.
+Pub. L. 101–246, title II, § 206(b), Feb. 16, 1990, 104 Stat. 53, provided that each member of the United States Advisory Commission on Public Diplomacy as in existence on the day before Jan. 20, 1989, was to continue to serve for the remainder of the term to which such member was appointed.
 
 ## SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE
 
-### § 1471. Authority of Secretary of State
+### § 1471. Authority of Secretary of State
 
 In carrying out the purposes of this chapter, the Secretary is authorized, in addition to and not in limitation of the authority otherwise vested in him—
 
-**(1)** In 1
+**(1)** In 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 carrying out subchapter II of this chapter, to make grants of money, services, or materials to State and local governmental institutions in the United States, to governmental institutions in other countries, and to individuals and public or private nonprofit organizations both in the United States and in other countries;
 
 **(2)** to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-**(3)** whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 2
+**(3)** whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
 
@@ -2083,23 +2083,23 @@ of the Act of June 30, 1932, and any such real property or interests therein whi
 
 **(7)** notwithstanding any other provision of law, to carry out projects involving security construction and related improvements for overseas public diplomacy facilities not physically located together with other Department of State facilities abroad.
 
-(Jan. 27, 1948, ch. 36, title VIII, § 801, 62 Stat. 11; Pub. L. 87–139, § 11, Aug. 14, 1961, 75 Stat. 341; 1977 Reorg. Plan No. 2, §§ 8(b), 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1637–1639; Pub. L. 96–60, title II, §§ 203(b)(1), (e), 204(a), Aug. 15, 1979, 93 Stat. 398–400; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title II, § 217, Nov. 22, 1983, 97 Stat. 1036; Pub. L. 100–204, title II, § 205, Dec. 22, 1987, 101 Stat. 1374; Pub. L. 102–138, title II, § 203, Oct. 28, 1991, 105 Stat. 692; Pub. L. 103–236, title II, § 222, Apr. 30, 1994, 108 Stat. 421; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(4), Oct. 21, 1998, 112 Stat. 2681–787.)
+(Jan. 27, 1948, ch. 36, title VIII, § 801, 62 Stat. 11; Pub. L. 87–139, § 11, Aug. 14, 1961, 75 Stat. 341; 1977 Reorg. Plan No. 2, §§ 8(b), 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1637–1639; Pub. L. 96–60, title II, §§ 203(b)(1), (e), 204(a), Aug. 15, 1979, 93 Stat. 398–400; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title II, § 217, Nov. 22, 1983, 97 Stat. 1036; Pub. L. 100–204, title II, § 205, Dec. 22, 1987, 101 Stat. 1374; Pub. L. 102–138, title II, § 203, Oct. 28, 1991, 105 Stat. 692; Pub. L. 103–236, title II, § 222, Apr. 30, 1994, 108 Stat. 421; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(4), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 322 of the Act of June 30, 1932, referred to in par. (3), is section 322 of act June 30, 1932, ch. 314, 47 Stat. 412, which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 100–678, § 7, Nov. 17, 1988, 102 Stat. 4052.
+Section 322 of the Act of June 30, 1932, referred to in par. (3), is section 322 of act June 30, 1932, ch. 314, 47 Stat. 412, which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 100–678, § 7, Nov. 17, 1988, 102 Stat. 4052.
 
 **Codification**
 
-“Sections 3111 and 3112 of title 40” substituted in par. (3) for “section 355 of the Revised Statutes of the United States (40 U.S.C. 255)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3111 and 3112 of title 40” substituted in par. (3) for “section 355 of the Revised Statutes of the United States (40 U.S.C. 255)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-In par. (4), “section 501 of title 44” substituted for “section 11 of the Act of March 1, 1919 (44 U.S.C. 111)” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
+In par. (4), “section 501 of title 44” substituted for “section 11 of the Act of March 1, 1919 (44 U.S.C. 111)” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 
-In par. (6), “, with the approval of the Commission on Information and the Commission on Educational Exchange,” was deleted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished both the United States Advisory Commission on Information, and the United States Advisory Commission on International Educational and Cultural Affairs [which replaced the Advisory Commission on Educational Exchange], effective on or before July 1, 1978, at such time as specified by the President.
+In par. (6), “, with the approval of the Commission on Information and the Commission on Educational Exchange,” was deleted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished both the United States Advisory Commission on Information, and the United States Advisory Commission on International Educational and Cultural Affairs [which replaced the Advisory Commission on Educational Exchange], effective on or before July 1, 1978, at such time as specified by the President.
 
-In par. (6), “section 5703 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946, as amended, (5 U.S.C. 73b-2)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In par. (6), “section 5703 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946, as amended, (5 U.S.C. 73b-2)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -2113,11 +2113,11 @@ In par. (6), “section 5703 of title 5” substituted for “section 5 of the A
 
 1983—Par. (3). Pub. L. 98–164 substituted “twenty-five” for “ten”.
 
-1979—Par. (1). Pub. L. 96–60, § 204(a), struck out “within the limitation of such appropriations as the Congress may provide,” after “chapter,”.
+1979—Par. (1). Pub. L. 96–60, § 204(a), struck out “within the limitation of such appropriations as the Congress may provide,” after “chapter,”.
 
-Par. (3). Pub. L. 96–60, § 203(e), substituted “leasing of associated real property (either within or outside the United States)” for “leasing of real property both within and without the continental limits of the United States” and provided for alteration, improvement, and repair of such property, without regard to section 278a of title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
+Par. (3). Pub. L. 96–60, § 203(e), substituted “leasing of associated real property (either within or outside the United States)” for “leasing of real property both within and without the continental limits of the United States” and provided for alteration, improvement, and repair of such property, without regard to section 278a of title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
 
-Par. (5). Pub. L. 96–60, § 203(b)(1), struck out provision for employment of aliens within the United States limited to services related to the translation or narration of colloquial speech in foreign languages when suitably qualified United States citizens were not available, now covered in section 1474(1) of this title, and inserted “pertinent” before “appropriation”.
+Par. (5). Pub. L. 96–60, § 203(b)(1), struck out provision for employment of aliens within the United States limited to services related to the translation or narration of colloquial speech in foreign languages when suitably qualified United States citizens were not available, now covered in section 1474(1) of this title, and inserted “pertinent” before “appropriation”.
 
 1961—Par. (6). Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses as authorized by section 73b–2 of title 5, for provisions which allowed payment of actual transportation expenses and a maximum of $10 per diem.
 
@@ -2129,13 +2129,13 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–60, title II, § 209, Aug. 15, 1979, 93 Stat. 402, provided that: “The amendments made by sections 203 and 204 [enacting section 1469 and section 1477b of this title, amending this section, sections 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of former Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act [Aug. 15, 1979].”
+Pub. L. 96–60, title II, § 209, Aug. 15, 1979, 93 Stat. 402, provided that: “The amendments made by sections 203 and 204 [enacting section 1469 and section 1477b of this title, amending this section, sections 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of former Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act [Aug. 15, 1979].”
 
 **Transfer of Functions**
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in par. (3) pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title, which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and the Director thereof. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-The Commission on Educational Exchange, created by section 1466 of this title, abolished pursuant to Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538.
+The Commission on Educational Exchange, created by section 1466 of this title, abolished pursuant to Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538.
 
 **Termination of Advisory Committees**
 
@@ -2143,7 +2143,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 **Contractor Requirements**
 
-Pub. L. 100–204, title IV, § 403, Dec. 22, 1987, 101 Stat. 1381, provided that:
+Pub. L. 100–204, title IV, § 403, Dec. 22, 1987, 101 Stat. 1381, provided that:
 
 > **“(a) Findings.—** The Congress finds that the overriding national security aspects of the $1,300,000,000 facilities modernization program of the Voice of America require the assurance of uninterrupted logistic support under all circumstances for the program. Therefore, it is in the best interests of the United States to provide a preference for United States contractors bidding on the projects of this program.
 
@@ -2197,7 +2197,7 @@ Pub. L. 100–204, title IV, § 403, Dec. 22, 1987, 101 Stat. 1381, provided t
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
-### § 1472. Department of State and other Government agencies
+### § 1472. Department of State and other Government agencies
 
 **(a) Authority of agencies** In carrying on activities which further the purposes of this chapter, subject to approval of such activities by the Secretary, the Department and the other Government agencies are authorized—
 
@@ -2207,7 +2207,7 @@ Pub. L. 100–204, title IV, § 403, Dec. 22, 1987, 101 Stat. 1381, provided t
 
 **(3)** under such regulations as the Secretary may prescribe, to pay the transportation expenses, and not to exceed $10 per diem in lieu of subsistence and other expenses, of citizens or subjects of other countries, without regard to the Standardized Government Travel Regulations and the Subsistence Expense Act of 1926,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as amended; and
 
@@ -2237,17 +2237,17 @@ as amended; and
 
 **(B)** The authority of this paragraph may be exercised for a fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
-(Jan. 27, 1948, ch. 36, title VIII, § 802, 62 Stat. 12; Pub. L. 97–241, title III, § 304(b), Aug. 24, 1982, 96 Stat. 292; Pub. L. 103–236, title II, § 225, Apr. 30, 1994, 108 Stat. 423; Pub. L. 107–228, div. A, title V, § 503, Sept. 30, 2002, 116 Stat. 1392.)
+(Jan. 27, 1948, ch. 36, title VIII, § 802, 62 Stat. 12; Pub. L. 97–241, title III, § 304(b), Aug. 24, 1982, 96 Stat. 292; Pub. L. 103–236, title II, § 225, Apr. 30, 1994, 108 Stat. 423; Pub. L. 107–228, div. A, title V, § 503, Sept. 30, 2002, 116 Stat. 1392.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3), was repealed and superseded by the Travel Expense Act of 1949, which is covered by subchapter I of chapter 57 of Title 5, Government Organization and Employees. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”.
+The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3), was repealed and superseded by the Travel Expense Act of 1949, which is covered by subchapter I of chapter 57 of Title 5, Government Organization and Employees. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”.
 
 **Codification**
 
-In subsec. (a)(2), “section 6306 of title 41” substituted for “section 3741 of the Revised Statutes (41 U.S.C. 22)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(2), “section 6306 of title 41” substituted for “section 3741 of the Revised Statutes (41 U.S.C. 22)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -2299,13 +2299,13 @@ Sec. 4. *Effective Date*. This order shall become effective on August 1, 1953.
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
-### § 1473. Use of existing Government property and facilities
+### § 1473. Use of existing Government property and facilities
 
 In carrying on activities under this chapter which require the utilization of Government property and facilities, maximum use shall be made of existing Government property and facilities.
 
-(Jan. 27, 1948, ch. 36, title VIII, § 803, 62 Stat. 12.)
+(Jan. 27, 1948, ch. 36, title VIII, § 803, 62 Stat. 12.)
 
-### § 1474. Additional authority of Secretary of State or other Government agency authorized to administer provisions
+### § 1474. Additional authority of Secretary of State or other Government agency authorized to administer provisions
 
 In carrying out the provisions of this chapter, the Secretary, or any Government agency authorized to administer such provisions, may—
 
@@ -2355,33 +2355,33 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 
 **(23)** provide allowances as authorized by sections 5921 through 5928 of title 5.
 
-(Jan. 27, 1948, ch. 36, title VIII, § 804, as added Pub. L. 92–352, title II, § 202, July 13, 1972, 86 Stat. 493; amended Pub. L. 94–350, title II, § 203, July 12, 1976, 90 Stat. 830; Pub. L. 96–60, title II, §§ 203(b)(2), 204(b), Aug. 15, 1979, 93 Stat. 398, 400; Pub. L. 97–241, title III, §§ 303(b), 304(c), (d), Aug. 24, 1982, 96 Stat. 291, 293; Pub. L. 101–246, title II, § 207, Feb. 16, 1990, 104 Stat. 53; Pub. L. 102–138, title II, §§ 204, 205, Oct. 28, 1991, 105 Stat. 692.)
+(Jan. 27, 1948, ch. 36, title VIII, § 804, as added Pub. L. 92–352, title II, § 202, July 13, 1972, 86 Stat. 493; amended Pub. L. 94–350, title II, § 203, July 12, 1976, 90 Stat. 830; Pub. L. 96–60, title II, §§ 203(b)(2), 204(b), Aug. 15, 1979, 93 Stat. 398, 400; Pub. L. 97–241, title III, §§ 303(b), 304(c), (d), Aug. 24, 1982, 96 Stat. 291, 293; Pub. L. 101–246, title II, § 207, Feb. 16, 1990, 104 Stat. 53; Pub. L. 102–138, title II, §§ 204, 205, Oct. 28, 1991, 105 Stat. 692.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Amendments**
 
-1991—Par. (9). Pub. L. 102–138, § 205, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “pay the actual expenses of preparing and transporting to their former homes the remains of persons, not United States Government employees, who may die away from their homes while participating in activities conducted under this chapter;”.
+1991—Par. (9). Pub. L. 102–138, § 205, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “pay the actual expenses of preparing and transporting to their former homes the remains of persons, not United States Government employees, who may die away from their homes while participating in activities conducted under this chapter;”.
 
-Pars. (21) to (23). Pub. L. 102–138, § 204, added pars. (21) to (23).
+Pars. (21) to (23). Pub. L. 102–138, § 204, added pars. (21) to (23).
 
 1990—Par. (1). Pub. L. 101–246 inserted “when job vacancies occur” after “available”.
 
-1982—Par. (16). Pub. L. 97–241, § 304(c), inserted “and security” after “right-hand drive”.
+1982—Par. (16). Pub. L. 97–241, § 304(c), inserted “and security” after “right-hand drive”.
 
-Par. (20). Pub. L. 97–241, § 304(d), added par. (20).
+Par. (20). Pub. L. 97–241, § 304(d), added par. (20).
 
-1979—Par. (1). Pub. L. 96–60, § 203(b)(2), authorized employment of aliens within the United States, previously covered in section 1471(5) of this title, extended services to include preparation and production of foreign language programs, and eliminated investigation-of-alien-employees requirement.
+1979—Par. (1). Pub. L. 96–60, § 203(b)(2), authorized employment of aliens within the United States, previously covered in section 1471(5) of this title, extended services to include preparation and production of foreign language programs, and eliminated investigation-of-alien-employees requirement.
 
-Par. (10). Pub. L. 96–60, § 204(b)(1), substituted “ten” for “five” years.
+Par. (10). Pub. L. 96–60, § 204(b)(1), substituted “ten” for “five” years.
 
-Par. (14). Pub. L. 96–60, § 204(b)(3), substituted a semicolon for “, when funds are appropriated therefor.”
+Par. (14). Pub. L. 96–60, § 204(b)(3), substituted a semicolon for “, when funds are appropriated therefor.”
 
-Pars. (15) to (19). Pub. L. 96–60, § 204(b)(4), added pars. (15) to (19).
+Pars. (15) to (19). Pub. L. 96–60, § 204(b)(4), added pars. (15) to (19).
 
 1976—Par. (14). Pub. L. 94–350 added par. (14).
 
@@ -2397,37 +2397,37 @@ Amendment by Pub. L. 96–60 effective Oct. 1, 1979, and applicable only with re
 
 **Authority To Administer Summer Travel and Work Programs**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2418, Oct. 21, 1998, 112 Stat. 2681–835, provided that: “The Director of the United States Information Agency is authorized to administer summer travel and work programs without regard to preplacement requirements.”
+Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2418, Oct. 21, 1998, 112 Stat. 2681–835, provided that: “The Director of the United States Information Agency is authorized to administer summer travel and work programs without regard to preplacement requirements.”
 
-Similar provisions were contained in Pub. L. 105–244, title VIII, § 846, Oct. 7, 1998, 112 Stat. 1822.
+Similar provisions were contained in Pub. L. 105–244, title VIII, § 846, Oct. 7, 1998, 112 Stat. 1822.
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
 **Employment Authority for Fiscal Years 1994 and 1995**
 
-Pub. L. 103–236, title II, § 223, Apr. 30, 1994, 108 Stat. 422, provided that, for fiscal years 1994 and 1995, Director of United States Information Agency could, in carrying out provisions of this chapter, employ individuals or organizations by contract for services to be performed in United States or abroad, who could not, by virtue of such employment, be considered to be employees of United States Government for purposes of any law administered by Office of Personnel Management.
+Pub. L. 103–236, title II, § 223, Apr. 30, 1994, 108 Stat. 422, provided that, for fiscal years 1994 and 1995, Director of United States Information Agency could, in carrying out provisions of this chapter, employ individuals or organizations by contract for services to be performed in United States or abroad, who could not, by virtue of such employment, be considered to be employees of United States Government for purposes of any law administered by Office of Personnel Management.
 
-### § 1475. Travel expenses
+### § 1475. Travel expenses
 
 Appropriated funds made available for any fiscal year to the Secretary or any Government agency, to carry out the provisions of this chapter, for expenses in connection with travel of personnel outside the continental United States, including travel of dependents and transportation of personal effects, household goods, or automobiles of such personnel, shall be available for all such expenses in connection with travel or transportation which begins in that fiscal year pursuant to travel orders issued in that year, notwithstanding the fact that such travel or transportation may not be completed until the following fiscal year.
 
-(Jan. 27, 1948, ch. 36, title VIII, § 805, as added Pub. L. 92–352, title II, § 202, July 13, 1972, 86 Stat. 494.)
+(Jan. 27, 1948, ch. 36, title VIII, § 805, as added Pub. L. 92–352, title II, § 202, July 13, 1972, 86 Stat. 494.)
 
-### § 1475a. Replacement of passenger motor vehicles
+### § 1475a. Replacement of passenger motor vehicles
 
 The exchange allowances or proceeds derived from the exchange or sale of passenger motor vehicles used abroad for purposes of this chapter or the Mutual Educational and Cultural Exchange Act of 1961 [22 U.S.C. 2451 et seq.] shall be available without fiscal year limitation for replacement of an equal number of such vehicles in accordance with section 503 of title 40.
 
-(Jan. 27, 1948, ch. 36, title VIII, § 806, as added Pub. L. 94–350, title II, § 204, July 12, 1976, 90 Stat. 830; amended Pub. L. 96–60, title II, § 204(c), Aug. 15, 1979, 93 Stat. 400.)
+(Jan. 27, 1948, ch. 36, title VIII, § 806, as added Pub. L. 94–350, title II, § 204, July 12, 1976, 90 Stat. 830; amended Pub. L. 96–60, title II, § 204(c), Aug. 15, 1979, 93 Stat. 400.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 **Codification**
 
-“Section 503 of title 40” substituted in text for “section 201(c) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 503 of title 40” substituted in text for “section 201(c) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
@@ -2439,11 +2439,11 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, i
 
 Amendment by Pub. L. 96–60 effective Oct. 1, 1979, and applicable only with respect to funds appropriated after Aug. 15, 1979, where new authorities provide for expenditures of appropriated funds, see section 209 of Pub. L. 96–60, set out as a note under section 1471 of this title.
 
-### §§ 1475b, 1475c. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
+### §§ 1475b, 1475c. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
 
-Section 1475b, act Jan. 27, 1948, ch. 36, title VIII, § 807, as added Pub. L. 95–426, title II, § 204(c), Oct. 7, 1978, 92 Stat. 974; amended Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291, related to seal of the United States Information Agency.
+Section 1475b, act Jan. 27, 1948, ch. 36, title VIII, § 807, as added Pub. L. 95–426, title II, § 204(c), Oct. 7, 1978, 92 Stat. 974; amended Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291, related to seal of the United States Information Agency.
 
-Section 1475c, act Jan. 27, 1948, ch. 36, title VIII, § 808, as added Pub. L. 97–241, title III, § 304(e), Aug. 24, 1982, 96 Stat. 293, provided for Acting Associate Director in the event of death, resignation, illness, or absence of Associate Director.
+Section 1475c, act Jan. 27, 1948, ch. 36, title VIII, § 808, as added Pub. L. 97–241, title III, § 304(e), Aug. 24, 1982, 96 Stat. 293, provided for Acting Associate Director in the event of death, resignation, illness, or absence of Associate Director.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2451,19 +2451,19 @@ Section 1475c, act Jan. 27, 1948, ch. 36, title VIII, § 808, as added Pub. L.
 
 Repeal effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1475d. Compensation for disability or death
+### § 1475d. Compensation for disability or death
 
 A cultural exchange, international fair or exposition, or other exhibit or demonstration of United States economic accomplishments and cultural attainments, provided for under this chapter or the Mutual Educational and Cultural Exchange Act of 1961 [22 U.S.C. 2451 et seq.] shall not be considered a “public work” as that term is defined in section 1651 of title 42.
 
-(Jan. 27, 1948, ch. 36, title VIII, § 809, as added Pub. L. 97–241, title III, § 304(e), Aug. 24, 1982, 96 Stat. 293.)
+(Jan. 27, 1948, ch. 36, title VIII, § 809, as added Pub. L. 97–241, title III, § 304(e), Aug. 24, 1982, 96 Stat. 293.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-### § 1475e. Use of English-teaching program fees
+### § 1475e. Use of English-teaching program fees
 
 **(a) In general**
 
@@ -2479,21 +2479,21 @@ Notwithstanding section 3302 of title 31 or any other law or limitation of autho
 
 **(4)** advertising and business ventures of the Voice of America and the International Broadcasting Bureau,
 
-**(5)** cooperating international organizations, and 1
+**(5)** cooperating international organizations, and 1
 
-<sup>1</sup>  So in original. The word “and” probably should appear at end of par. (6).
+<sup>1</sup> So in original. The word “and” probably should appear at end of par. (6).
 
 **(6)** Agency-produced publications,<sup>1</sup>
 
 **(7)** an amount not to exceed $100,000 of the payments from motion picture and television programs produced or conducted by or on behalf of the Agency under the authority of this chapter or the Mutual Education and Cultural Exchange Act of 1961 [22 U.S.C. 2451 et seq.].
 
-(Jan. 27, 1948, ch. 36, title VIII, § 810, as added Pub. L. 97–241, title III, § 304(e), Aug. 24, 1982, 96 Stat. 293; amended Pub. L. 100–204, title II, § 203, Dec. 22, 1987, 101 Stat. 1373; Pub. L. 101–246, title II, § 208, Feb. 16, 1990, 104 Stat. 53; Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2412, Oct. 21, 1998, 112 Stat. 2681–832.)
+(Jan. 27, 1948, ch. 36, title VIII, § 810, as added Pub. L. 97–241, title III, § 304(e), Aug. 24, 1982, 96 Stat. 293; amended Pub. L. 100–204, title II, § 203, Dec. 22, 1987, 101 Stat. 1373; Pub. L. 101–246, title II, § 208, Feb. 16, 1990, 104 Stat. 53; Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2412, Oct. 21, 1998, 112 Stat. 2681–832.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mutual Education and Cultural Exchange Act of 1961, referred to in subsec. (b)(7), probably means the Mutual Educational and Cultural Exchange Act of 1961, Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Education and Cultural Exchange Act of 1961, referred to in subsec. (b)(7), probably means the Mutual Educational and Cultural Exchange Act of 1961, Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 **Amendments**
 
@@ -2511,9 +2511,9 @@ The Mutual Education and Cultural Exchange Act of 1961, referred to in subsec. (
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 1475f. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
+### § 1475f. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
 
-Section, act Jan. 27, 1948, ch. 36, title VIII, § 811, as added Pub. L. 101–246, title II, § 209, Feb. 16, 1990, 104 Stat. 53, related to recovery of indebtedness owed by person to United States arising out of activities of United States Information Agency.
+Section, act Jan. 27, 1948, ch. 36, title VIII, § 811, as added Pub. L. 101–246, title II, § 209, Feb. 16, 1990, 104 Stat. 53, related to recovery of indebtedness owed by person to United States arising out of activities of United States Information Agency.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2521,7 +2521,7 @@ Section, act Jan. 27, 1948, ch. 36, title VIII, § 811, as added Pub. L. 101�
 
 Repeal effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1475g. Overseas public diplomacy posts and personnel overseas
+### § 1475g. Overseas public diplomacy posts and personnel overseas
 
 **(a) Limitation**
 
@@ -2537,23 +2537,23 @@ Not less than 45 days before the closing of any overseas public diplomacy post a
 
 **(2)** where there is a real and present threat to United States diplomats in the city where the post is located and where a travel advisory warning against travel by United States citizens to the city has been issued by the Department of State.
 
-(Jan. 27, 1948, ch. 36, title VIII, § 812, as added Pub. L. 102–138, title II, § 206(a), Oct. 28, 1991, 105 Stat. 693; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(5), Oct. 21, 1998, 112 Stat. 2681–787.)
+(Jan. 27, 1948, ch. 36, title VIII, § 812, as added Pub. L. 102–138, title II, § 206(a), Oct. 28, 1991, 105 Stat. 693; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(5), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to this section were contained in Pub. L. 100–204, title II, § 204, Dec. 22, 1987, 101 Stat. 1373, which was set out as a note under section 1461 of this title prior to repeal by Pub. L. 102–138, title II, § 206(c), Oct. 28, 1991, 105 Stat. 693.
+Provisions similar to this section were contained in Pub. L. 100–204, title II, § 204, Dec. 22, 1987, 101 Stat. 1373, which was set out as a note under section 1461 of this title prior to repeal by Pub. L. 102–138, title II, § 206(c), Oct. 28, 1991, 105 Stat. 693.
 
 **Amendments**
 
-1998—Pub. L. 105–277, § 1335(a)(5)(D), substituted “Overseas public diplomacy” for “USIA” in section catchline.
+1998—Pub. L. 105–277, § 1335(a)(5)(D), substituted “Overseas public diplomacy” for “USIA” in section catchline.
 
-Subsec. (a). Pub. L. 105–277, § 1335(a)(5)(A), (B), substituted “Department of State” for “United States Information Agency” and “overseas public diplomacy post” for “United States Information Agency post”.
+Subsec. (a). Pub. L. 105–277, § 1335(a)(5)(A), (B), substituted “Department of State” for “United States Information Agency” and “overseas public diplomacy post” for “United States Information Agency post”.
 
-Subsec. (b). Pub. L. 105–277, § 1335(a)(5)(A), (C), substituted “overseas public diplomacy post” for “United States Information Agency post” and “Secretary of State” for “Director of the United States Information Agency”.
+Subsec. (b). Pub. L. 105–277, § 1335(a)(5)(A), (C), substituted “overseas public diplomacy post” for “United States Information Agency post” and “Secretary of State” for “Director of the United States Information Agency”.
 
-Subsec. (c). Pub. L. 105–277, § 1335(a)(5)(A), substituted “overseas public diplomacy post” for “United States Information Agency post” in introductory provisions.
+Subsec. (c). Pub. L. 105–277, § 1335(a)(5)(A), substituted “overseas public diplomacy post” for “United States Information Agency post” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2563,9 +2563,9 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **Guidance for Closure of Public Diplomacy Facilities**
 
-Pub. L. 117–81, div. E, title LVI, § 5606, Dec. 27, 2021, 135 Stat. 2379, as amended by Pub. L. 117–263, div. I, title XCIII, § 9301(e)(1), Dec. 23, 2022, 136 Stat. 3881, provided that:
+Pub. L. 117–81, div. E, title LVI, § 5606, Dec. 27, 2021, 135 Stat. 2379, as amended by Pub. L. 117–263, div. I, title XCIII, § 9301(e)(1), Dec. 23, 2022, 136 Stat. 3881, provided that:
 
-> **“(a) In General.—** In order to preserve public diplomacy facilities that are accessible to the publics of foreign countries, not later than 180 days after the date of the enactment of the Secure Embassy Construction and Counterterrorism Act of 2022 [Dec. 23, 2022], the Secretary of State shall adopt guidelines to collect and utilize information from each diplomatic post at which the construction of a new embassy compound or new consulate compound could result in the closure or co-location of an American Space that is owned and operated by the United States Government, generally known as an American Center, or any other public diplomacy facility under the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI]] (22 U.S.C. 4865 et seq.) [sic, see Short Title of 1999 Amendment note set out under section 4801 of this title].
+> **“(a) In General.—** In order to preserve public diplomacy facilities that are accessible to the publics of foreign countries, not later than 180 days after the date of the enactment of the Secure Embassy Construction and Counterterrorism Act of 2022 [Dec. 23, 2022], the Secretary of State shall adopt guidelines to collect and utilize information from each diplomatic post at which the construction of a new embassy compound or new consulate compound could result in the closure or co-location of an American Space that is owned and operated by the United States Government, generally known as an American Center, or any other public diplomacy facility under the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI]] (22 U.S.C. 4865 et seq.) [sic, see Short Title of 1999 Amendment note set out under section 4801 of this title].
 
 > **“(b) Requirements.—** The guidelines required by subsection (a) shall include the following:
 
@@ -2583,9 +2583,9 @@ Pub. L. 117–81, div. E, title LVI, § 5606, Dec. 27, 2021, 135 Stat. 2379, a
 
 **Reductions in American Employees**
 
-Pub. L. 102–138, title II, § 206(b), Oct. 28, 1991, 105 Stat. 693, which provided that reductions could not be made in number of American employees of United States Information Agency stationed abroad until number of such employees was same percentage of total number of American employees of Agency as number of American employees of Agency stationed abroad in 1981 was to total number of American employees at Agency at same time in 1981, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(4), Oct. 21, 1998, 112 Stat. 2681–790.
+Pub. L. 102–138, title II, § 206(b), Oct. 28, 1991, 105 Stat. 693, which provided that reductions could not be made in number of American employees of United States Information Agency stationed abroad until number of such employees was same percentage of total number of American employees of Agency as number of American employees of Agency stationed abroad in 1981 was to total number of American employees at Agency at same time in 1981, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(4), Oct. 21, 1998, 112 Stat. 2681–790.
 
-### § 1475h. Overseas public diplomacy grants
+### § 1475h. Overseas public diplomacy grants
 
 **(a) Competitive grant procedures**
 
@@ -2605,21 +2605,21 @@ Except as provided in subsection (b), the Department of State shall work to achi
 
 **(1)** After October 1, 1991, overseas public diplomacy grants awarded by the Department of State shall substantially comply with Department of State grant guidelines and applicable circulars of the Office of Management and Budget.
 
-**(2)** If the Agency 1
+**(2)** If the Agency 1
 
-<sup>1</sup>  So in original. Probably should be “Department”.
+<sup>1</sup> So in original. Probably should be “Department”.
 
 determines that a grantee has not satisfied the requirement of paragraph (1), the Department of State shall notify the grantee of the suspension of payments under a grant unless compliance is achieved within 90 days of such notice.
 
-**(3)** The Agency <sup>1</sup> shall suspend payments under any such grant which remains in noncompliance 90 days after notification under paragraph (2).
+**(3)** The Agency <sup>1</sup> shall suspend payments under any such grant which remains in noncompliance 90 days after notification under paragraph (2).
 
-(Pub. L. 102–138, title II, § 212, Oct. 28, 1991, 105 Stat. 695; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(b), Oct. 21, 1998, 112 Stat. 2681–787.)
+(Pub. L. 102–138, title II, § 212, Oct. 28, 1991, 105 Stat. 695; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(b), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 **Codification**
 
@@ -2627,19 +2627,19 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1335(b)(1), (2), substituted “Department of State” for “United States Information Agency” and inserted “for carrying out its overseas public diplomacy functions” after “grants”.
+1998—Subsec. (a). Pub. L. 105–277, § 1335(b)(1), (2), substituted “Department of State” for “United States Information Agency” and inserted “for carrying out its overseas public diplomacy functions” after “grants”.
 
-Subsec. (b). Pub. L. 105–277, § 1335(b)(1), (3)(A), in introductory provisions, substituted “Department of State” for “United States Information Agency” and “an overseas public diplomacy grant” for “a grant”.
+Subsec. (b). Pub. L. 105–277, § 1335(b)(1), (3)(A), in introductory provisions, substituted “Department of State” for “United States Information Agency” and “an overseas public diplomacy grant” for “a grant”.
 
-Subsec. (b)(1). Pub. L. 105–277, § 1335(b)(3)(B), inserted “such” after “(1)”.
+Subsec. (b)(1). Pub. L. 105–277, § 1335(b)(3)(B), inserted “such” after “(1)”.
 
-Subsec. (c)(1). Pub. L. 105–277, § 1335(b)(1), (4), inserted “overseas public diplomacy” before “grants” and substituted “Department of State” for “United States Information Agency” in two places.
+Subsec. (c)(1). Pub. L. 105–277, § 1335(b)(1), (4), inserted “overseas public diplomacy” before “grants” and substituted “Department of State” for “United States Information Agency” in two places.
 
-Subsec. (c)(2). Pub. L. 105–277, § 1335(b)(1), substituted “Department of State” for “United States Information Agency”.
+Subsec. (c)(2). Pub. L. 105–277, § 1335(b)(1), substituted “Department of State” for “United States Information Agency”.
 
-Subsec. (c)(3). Pub. L. 105–277, § 1335(b)(5), inserted “such” before “grant”.
+Subsec. (c)(3). Pub. L. 105–277, § 1335(b)(5), inserted “such” before “grant”.
 
-Subsec. (d). Pub. L. 105–277, § 1335(b)(6), struck out heading and text of subsec. (d). Text read as follows: “Not later than 90 days after October 28, 1991, the Director of the United States Information Agency shall submit a detailed report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on United States Information Agency action to comply with subsection (a) of this section.”
+Subsec. (d). Pub. L. 105–277, § 1335(b)(6), struck out heading and text of subsec. (d). Text read as follows: “Not later than 90 days after October 28, 1991, the Director of the United States Information Agency shall submit a detailed report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on United States Information Agency action to comply with subsection (a) of this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2649,9 +2649,9 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 ## SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS
 
-### § 1476. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
+### § 1476. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
 
-Section, acts Jan. 27, 1948, ch. 36, title VII, § 701, 62 Stat. 11; Pub. L. 92–226, pt. IV, § 407(d), Feb. 7, 1972, 86 Stat. 35; Pub. L. 92–352, title II, § 203, July 13, 1972, 86 Stat. 494; Pub. L. 93–168, § 3, Nov. 29, 1973, 87 Stat. 688; Pub. L. 93–475, § 6, Oct. 26, 1974, 88 Stat. 1440; 1977 Reorg. Plan No. 2, §§ 5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–499, § 2, Oct. 24, 1992, 106 Stat. 3264; Pub. L. 103–415, § 1(q), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2419, Oct. 21, 1998, 112 Stat. 2681–835, limited appropriations to carry out chapter to amounts previously authorized and prohibited appropriations in excess of such amounts.
+Section, acts Jan. 27, 1948, ch. 36, title VII, § 701, 62 Stat. 11; Pub. L. 92–226, pt. IV, § 407(d), Feb. 7, 1972, 86 Stat. 35; Pub. L. 92–352, title II, § 203, July 13, 1972, 86 Stat. 494; Pub. L. 93–168, § 3, Nov. 29, 1973, 87 Stat. 688; Pub. L. 93–475, § 6, Oct. 26, 1974, 88 Stat. 1440; 1977 Reorg. Plan No. 2, §§ 5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–499, § 2, Oct. 24, 1992, 106 Stat. 3264; Pub. L. 103–415, § 1(q), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2419, Oct. 21, 1998, 112 Stat. 2681–835, limited appropriations to carry out chapter to amounts previously authorized and prohibited appropriations in excess of such amounts.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2659,23 +2659,23 @@ Section, acts Jan. 27, 1948, ch. 36, title VII, § 701, 62 Stat. 11; Pub. L. 9
 
 Repeal effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1477. Transfer of funds
+### § 1477. Transfer of funds
 
 The Secretary shall authorize the transfer to other Government agencies for expenditure in the United States and in other countries, in order to carry out the purposes of this chapter, any part of any appropriations available to the Department for carrying out the purposes of this chapter, for direct expenditure or as a working fund, and any such expenditures may be made under the specific authority contained in this chapter or under the authority governing the activities of the Government agency to which a part of any such appropriation is transferred, provided the activities come within the scope of this chapter.
 
-(Jan. 27, 1948, ch. 36, title VII, § 702, 62 Stat. 11.)
+(Jan. 27, 1948, ch. 36, title VII, § 702, 62 Stat. 11.)
 
-### § 1477a. Omitted
+### § 1477a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Jan. 27, 1948, ch. 36, title VII, § 703, as added Mar. 30, 1972, Pub. L. 92–264, 86 Stat. 114; amended Aug. 20, 1972, Pub. L. 92–394, 86 Stat. 577; July 6, 1973, Pub. L. 93–59, 87 Stat. 142; 1977 Reorg. Plan No. 2, § 7(a)(1), 42 F.R. 62461, 91 Stat. 1637, which authorized appropriations for Radio Free Europe and Radio Liberty for fiscal year 1973 in an amount of $38,520,000, and also authorized an additional $1,150,000 for nondiscretionary costs, has been omitted in view of the authorization not being extended later than fiscal year 1973.
+Section, act Jan. 27, 1948, ch. 36, title VII, § 703, as added Mar. 30, 1972, Pub. L. 92–264, 86 Stat. 114; amended Aug. 20, 1972, Pub. L. 92–394, 86 Stat. 577; July 6, 1973, Pub. L. 93–59, 87 Stat. 142; 1977 Reorg. Plan No. 2, § 7(a)(1), 42 F.R. 62461, 91 Stat. 1637, which authorized appropriations for Radio Free Europe and Radio Liberty for fiscal year 1973 in an amount of $38,520,000, and also authorized an additional $1,150,000 for nondiscretionary costs, has been omitted in view of the authorization not being extended later than fiscal year 1973.
 
-### § 1477b. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
+### § 1477b. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, 112 Stat. 2681–790
 
-Section, act Jan. 27, 1948, ch. 36, title VII, § 704, as added Pub. L. 96–60, title II, § 204(e), Aug. 15, 1979, 93 Stat. 400; amended Pub. L. 97–241, title I, § 112(b), title III, § 303(b), Aug. 24, 1982, 96 Stat. 278, 291; Pub. L. 103–236, title II, § 224, Apr. 30, 1994, 108 Stat. 422, related to nondiscretionary personnel costs and currency fluctuations.
+Section, act Jan. 27, 1948, ch. 36, title VII, § 704, as added Pub. L. 96–60, title II, § 204(e), Aug. 15, 1979, 93 Stat. 400; amended Pub. L. 97–241, title I, § 112(b), title III, § 303(b), Aug. 24, 1982, 96 Stat. 278, 291; Pub. L. 103–236, title II, § 224, Apr. 30, 1994, 108 Stat. 422, related to nondiscretionary personnel costs and currency fluctuations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2683,17 +2683,17 @@ Section, act Jan. 27, 1948, ch. 36, title VII, § 704, as added Pub. L. 96–6
 
 Repeal effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 1477c. Notification and award of grants
+### § 1477c. Notification and award of grants
 
 The Department of State may award grants for overseas public diplomacy programs only if the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified fifteen days in advance of the proposed grant.
 
-(Jan. 27, 1948, ch. 36, title VII, § 705, as added Pub. L. 98–164, title II, § 214, Nov. 22, 1983, 97 Stat. 1035; amended Pub. L. 99–93, title II, § 214(a), Aug. 16, 1985, 99 Stat. 434; Pub. L. 100–204, title II, § 202, Dec. 22, 1987, 101 Stat. 1372; Pub. L. 102–138, title II, § 202, Oct. 28, 1991, 105 Stat. 692; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(3), Oct. 21, 1998, 112 Stat. 2681–787.)
+(Jan. 27, 1948, ch. 36, title VII, § 705, as added Pub. L. 98–164, title II, § 214, Nov. 22, 1983, 97 Stat. 1035; amended Pub. L. 99–93, title II, § 214(a), Aug. 16, 1985, 99 Stat. 434; Pub. L. 100–204, title II, § 202, Dec. 22, 1987, 101 Stat. 1372; Pub. L. 102–138, title II, § 202, Oct. 28, 1991, 105 Stat. 692; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(a)(3), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1335(a)(3)(A), struck out subsec. (a) which read as follows: “Unless the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified fifteen days in advance of a proposed reprograming, funds appropriated for the United States Information Agency shall not be available for obligation or expenditure through any such reprograming of funds—
+1998—Subsec. (a). Pub. L. 105–277, § 1335(a)(3)(A), struck out subsec. (a) which read as follows: “Unless the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified fifteen days in advance of a proposed reprograming, funds appropriated for the United States Information Agency shall not be available for obligation or expenditure through any such reprograming of funds—
 
 “(1) which creates new programs;
 
@@ -2709,15 +2709,15 @@ The Department of State may award grants for overseas public diplomacy programs 
 
 “(7) which involves a reprograming in excess of $500,000 or 10 per centum, whichever is less, and which (A) augments existing programs, projects, or activities, (B) reduces by 10 per centum or more the funding for any existing program, project, or activity, or personnel approved by the Congress, or (C) results from any general savings from a reduction in personnel which would result in a change in existing programs, activities, or projects approved by the Congress.”
 
-Subsec. (b). Pub. L. 105–277, § 1335(a)(3)(B), struck out subsec. (b) designation and substituted “The Department of State” for “In addition, the United States Information Agency” and “grants for overseas public diplomacy programs” for “program grants”.
+Subsec. (b). Pub. L. 105–277, § 1335(a)(3)(B), struck out subsec. (b) designation and substituted “The Department of State” for “In addition, the United States Information Agency” and “grants for overseas public diplomacy programs” for “program grants”.
 
-Subsec. (c). Pub. L. 105–277, § 1335(a)(3)(A), struck out subsec. (c) which read as follows: “Funds appropriated for the United States Information Agency may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.”
+Subsec. (c). Pub. L. 105–277, § 1335(a)(3)(A), struck out subsec. (c) which read as follows: “Funds appropriated for the United States Information Agency may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.”
 
 1991—Subsec. (a)(7). Pub. L. 102–138 substituted “$500,000” for “$250,000”.
 
-1987—Subsec. (b). Pub. L. 100–204, § 202(a), struck out “for the fiscal years 1986 and 1987” after “may award program grants”.
+1987—Subsec. (b). Pub. L. 100–204, § 202(a), struck out “for the fiscal years 1986 and 1987” after “may award program grants”.
 
-Subsec. (c). Pub. L. 100–204, § 202(b), added subsec. (c).
+Subsec. (c). Pub. L. 100–204, § 202(b), added subsec. (c).
 
 1985—Subsec. (b). Pub. L. 99–93 substituted “1986 and 1987” for “1984 and 1985”.
 
@@ -2729,22 +2729,22 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–93, title II, § 214(b), Aug. 16, 1985, 99 Stat. 434, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1985.”
+Pub. L. 99–93, title II, § 214(b), Aug. 16, 1985, 99 Stat. 434, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1985.”
 
-### § 1478. Reimbursement of program expenses from sources other than appropriations; disposition of receipts
+### § 1478. Reimbursement of program expenses from sources other than appropriations; disposition of receipts
 
 The Secretary shall, when he finds it in the public interest, request and accept reimbursement from any cooperating governmental or private source in a foreign country, or from State or local governmental institutions or private sources in the United States, for all or part of the expenses of any portion of the program undertaken hereunder. The amounts so received shall be covered into the Treasury as miscellaneous receipts.
 
-(Jan. 27, 1948, ch. 36, title IX, § 901, 62 Stat. 13.)
+(Jan. 27, 1948, ch. 36, title IX, § 901, 62 Stat. 13.)
 
-### § 1479. Advancement of funds, property, or services by foreign governments; disposition; availability; return of unexpended balances or property
+### § 1479. Advancement of funds, property, or services by foreign governments; disposition; availability; return of unexpended balances or property
 
 If any other government shall express the desire to provide funds, property, or services to be used by this Government, in whole or in part, for the expenses of any specific part of the program undertaken pursuant to this chapter, the Secretary is authorized, when he finds it in the public interest, to accept such funds, property, or services. Funds so received may be established as a special deposit account in the Treasury of the United States, to be available for the specified purpose, and to be used for reimbursement of appropriations or direct expenditure, subject to the provisions of this chapter. Any unexpended balance of the special deposit account and other property received under this section and no longer required for the purposes for which provided shall be returned to the government providing the funds or property.
 
-(Jan. 27, 1948, ch. 36, title IX, § 902, 62 Stat. 13.)
+(Jan. 27, 1948, ch. 36, title IX, § 902, 62 Stat. 13.)
 
-### § 1480. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657, 658
+### § 1480. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657, 658
 
-Section, act June 20, 1956, ch. 414, title I, § 107, 70 Stat. 304, related to maximum rates of per diem in lieu of subsistence payable to foreign participants. See section 2679 of this title.
+Section, act June 20, 1956, ch. 414, title I, § 107, 70 Stat. 304, related to maximum rates of per diem in lieu of subsistence payable to foreign participants. See section 2679 of this title.
 
-Acts July 10, 1952, ch. 651, title I, § 109, 66 Stat. 555; Aug. 5, 1953, ch. 328, title I, § 108, 67 Stat. 371; July 2, 1954, ch. 456, title I, § 107, 68 Stat. 418; July 7, 1955, ch. 279, title I, § 107, 69 Stat. 270, which contained provision similar to section 1480 of this title, were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657, 658.
+Acts July 10, 1952, ch. 651, title I, § 109, 66 Stat. 555; Aug. 5, 1953, ch. 328, title I, § 108, 67 Stat. 371; July 2, 1954, ch. 456, title I, § 107, 68 Stat. 418; July 7, 1955, ch. 279, title I, § 107, 69 Stat. 270, which contained provision similar to section 1480 of this title, were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657, 658.

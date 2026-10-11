@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 34—INDIAN CHILD PROTECTION AND FAMILY VIOLENCE PREVENTION
 
-## § 3201. Findings and purpose
+## § 3201. Findings and purpose
 
 **(a) Findings** The Congress, after careful review of the problem of child abuse on Indian reservations and the historical and special relationship of the Federal Government with Indian people,
 
@@ -59,7 +59,7 @@ retrieved: 2026-10-11
 
 **(9)** authorize other actions necessary to ensure effective child protection on Indian reservations.
 
-(Pub. L. 101–630, title IV, § 402, Nov. 28, 1990, 104 Stat. 4544.)
+(Pub. L. 101–630, title IV, § 402, Nov. 28, 1990, 104 Stat. 4544.)
 
 **Editorial Notes**
 
@@ -71,17 +71,17 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–160, § 1, Dec. 23, 2024, 138 Stat. 2567, provided that: “This Act [amending sections 3202, 3208, 3209, and 3210 of this title] may be cited as the ‘Native American Child Protection Act’.”
+Pub. L. 118–160, § 1, Dec. 23, 2024, 138 Stat. 2567, provided that: “This Act [amending sections 3202, 3208, 3209, and 3210 of this title] may be cited as the ‘Native American Child Protection Act’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–165, § 1, June 3, 2016, 130 Stat. 415, provided that: “This Act [amending section 3207 of this title] may be cited as the ‘Native American Children’s Safety Act’.”
+Pub. L. 114–165, § 1, June 3, 2016, 130 Stat. 415, provided that: “This Act [amending section 3207 of this title] may be cited as the ‘Native American Children’s Safety Act’.”
 
 **Short Title**
 
-Pub. L. 101–630, title IV, § 401, Nov. 28, 1990, 104 Stat. 4544, provided that: “This title [enacting this chapter and section 1169 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Indian Child Protection and Family Violence Prevention Act’.”
+Pub. L. 101–630, title IV, § 401, Nov. 28, 1990, 104 Stat. 4544, provided that: “This title [enacting this chapter and section 1169 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Indian Child Protection and Family Violence Prevention Act’.”
 
-## § 3202. Definitions
+## § 3202. Definitions
 
 For the purposes of this chapter, the term—
 
@@ -157,7 +157,7 @@ For the purposes of this chapter, the term—
 
 **(18)** “Service” means the Indian Health Service of the Department of Health and Human Services.
 
-(Pub. L. 101–630, title IV, § 403, Nov. 28, 1990, 104 Stat. 4545; Pub. L. 118–160, § 2(1), Dec. 23, 2024, 138 Stat. 2567.)
+(Pub. L. 101–630, title IV, § 403, Nov. 28, 1990, 104 Stat. 4545; Pub. L. 118–160, § 2(1), Dec. 23, 2024, 138 Stat. 2567.)
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ For the purposes of this chapter, the term—
 
 This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
@@ -175,7 +175,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92�
 
 “(ii) such condition is not justifiably explained or may not be the product of an accidental occurrence; and”.
 
-## § 3203. Reporting procedures
+## § 3203. Reporting procedures
 
 **(a) Omitted**
 
@@ -209,9 +209,9 @@ The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92�
 
 **(2)**
 
-**(A)** Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) 1
+**(A)** Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall immediately initiate an investigation of such allegation and shall take immediate, appropriate steps to secure the safety and well-being of the child or children involved.
 
@@ -221,7 +221,7 @@ of this title shall immediately initiate an investigation of such allegation and
 
 The identity of any person making a report described in subsection (b)(1) shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee’s duties.
 
-(Pub. L. 101–630, title IV, § 404, Nov. 28, 1990, 104 Stat. 4547.)
+(Pub. L. 101–630, title IV, § 404, Nov. 28, 1990, 104 Stat. 4547.)
 
 **Editorial Notes**
 
@@ -233,7 +233,7 @@ Section 3202(3) of this title, referred to in subsec. (c)(2)(A), was in the orig
 
 Section is comprised of section 404 of Pub. L. 101–630. Subsec. (a) of section 404 enacted section 1169 of Title 18, Crimes and Criminal Procedure.
 
-## § 3204. Central registry
+## § 3204. Central registry
 
 **(a) Preparation of study**
 
@@ -257,13 +257,13 @@ The Secretary, in consultation with the Secretary of Health and Human Services a
 
 The Secretary shall complete the study conducted pursuant to this section and shall submit such study, together with recommendations and draft legislation to implement such recommendations, to the Congress within 180 days after November 28, 1990.
 
-(Pub. L. 101–630, title IV, § 405, Nov. 28, 1990, 104 Stat. 4549.)
+(Pub. L. 101–630, title IV, § 405, Nov. 28, 1990, 104 Stat. 4549.)
 
-## § 3205. Confidentiality
+## § 3205. Confidentiality
 
 Pursuant to section 552a of title 5, the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g), or any other provision of law, agencies of any Indian tribe, of any State, or of the Federal Government that investigate and treat incidents of abuse of children may provide information and records to those agencies of any Indian tribe, any State, or the Federal Government that need to know the information in performance of their duties. For purposes of this section, Indian tribal governments shall be treated the same as other Federal Government entities.
 
-(Pub. L. 101–630, title IV, § 406, Nov. 28, 1990, 104 Stat. 4550.)
+(Pub. L. 101–630, title IV, § 406, Nov. 28, 1990, 104 Stat. 4550.)
 
 **Editorial Notes**
 
@@ -271,7 +271,7 @@ Pursuant to section 552a of title 5, the Family Educational Rights and Privacy A
 
 The Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g), referred to in text, is section 513 of title V of Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 571, which enacted section 1232g of Title 20, Education, and provisions set out as notes under sections 1221 and 1232g of Title 20. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1221 of Title 20 and Tables.
 
-## § 3206. Waiver of parental consent
+## § 3206. Waiver of parental consent
 
 **(a) Examinations and interviews**
 
@@ -285,7 +285,7 @@ In any case in which officials of the local law enforcement agency or local chil
 
 Examinations and interviews of a child who may have been the subject of abuse shall be conducted under such circumstances and with such safeguards as are designed to minimize additional trauma to the child and, where time permits, shall be conducted with the advise,1
 
-<sup>1</sup>  So in original. Probably should be “advice”.
+<sup>1</sup> So in original. Probably should be “advice”.
 
 or under the guidance, of a local multidisciplinary team established pursuant to section 3210 of this title or, in the absence of a local team, a multidisciplinary team established pursuant to section 3209 of this title.
 
@@ -293,7 +293,7 @@ or under the guidance, of a local multidisciplinary team established pursuant to
 
 Upon a finding of reasonable suspicion that an Indian child has been the subject of abuse in Indian country, a Federal magistrate judge or United States District Court may issue an order enforcing any provision of this section.
 
-(Pub. L. 101–630, title IV, § 407, Nov. 28, 1990, 104 Stat. 4550; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 101–630, title IV, § 407, Nov. 28, 1990, 104 Stat. 4550; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -301,7 +301,7 @@ Upon a finding of reasonable suspicion that an Indian child has been the subject
 
 “Federal magistrate judge” substituted for “Federal magistrate” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3207. Character investigations
+## § 3207. Character investigations
 
 **(a) By Secretary of the Interior and Secretary of Health and Human Services** The Secretary and the Secretary of Health and Human Services shall—
 
@@ -409,9 +409,9 @@ Not later than 2 years after June 3, 2016, each Indian tribe shall establish pro
 
 **(ii)** that each covered individual who resides in the home or is employed at the institution is subject to a criminal records check in accordance with this subsection, including any covered individual who—
 
-**(I)** resides in the home or is employed at the institution on the date on which the procedures established under subparagraph (A) commences; 1
+**(I)** resides in the home or is employed at the institution on the date on which the procedures established under subparagraph (A) commences; 1
 
-<sup>1</sup>  So in original. Probably should be “commence;”.
+<sup>1</sup> So in original. Probably should be “commence;”.
 
 and
 
@@ -439,15 +439,15 @@ The procedures established under subparagraph (A) shall be subject to any regula
 
 **(D)** procedures for certifying compliance with this chapter.
 
-(Pub. L. 101–630, title IV, § 408, Nov. 28, 1990, 104 Stat. 4551; Pub. L. 106–568, title VIII, § 814, Dec. 27, 2000, 114 Stat. 2918; Pub. L. 114–165, § 2, June 3, 2016, 130 Stat. 415.)
+(Pub. L. 101–630, title IV, § 408, Nov. 28, 1990, 104 Stat. 4551; Pub. L. 106–568, title VIII, § 814, Dec. 27, 2000, 114 Stat. 2918; Pub. L. 114–165, § 2, June 3, 2016, 130 Stat. 415.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in subsec. (c), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsec. (c), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 This chapter, referred to in subsec. (d)(5)(D), was in the original “this Act” and was translated as reading “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title IV to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
@@ -457,7 +457,7 @@ This chapter, referred to in subsec. (d)(5)(D), was in the original “this Act�
 
 2000—Subsec. (b). Pub. L. 106–568 substituted “any felonious offense, or any of two or more misdemeanor offenses,” for “any offense” and “crimes against persons; or offenses committed against children” for “or crimes against persons”.
 
-## § 3208. Indian Child Abuse Treatment Grant Program
+## § 3208. Indian Child Abuse Treatment Grant Program
 
 **(a) Establishment**
 
@@ -505,37 +505,37 @@ In awarding grants under this section, the Service shall encourage the use of cu
 
 **(f) Authorization of appropriations**
 
-there 1
+there 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 is hereby authorized to be appropriated to carry out the provisions of this section $10,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 101–630, title IV, § 409, Nov. 28, 1990, 104 Stat. 4551; Pub. L. 104–16, § 1, June 21, 1995, 109 Stat. 190; Pub. L. 118–160, § 2(2), Dec. 23, 2024, 138 Stat. 2567.)
+(Pub. L. 101–630, title IV, § 409, Nov. 28, 1990, 104 Stat. 4551; Pub. L. 104–16, § 1, June 21, 1995, 109 Stat. 190; Pub. L. 118–160, § 2(2), Dec. 23, 2024, 138 Stat. 2567.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–160, § 2(2)(A), substituted “The Service, in cooperation with the Bureau” for “The Secretary of Health and Human Services, acting through the Service and in cooperation with the Bureau” and “abuse or neglect” for “sexual abuse”.
+2024—Subsec. (a). Pub. L. 118–160, § 2(2)(A), substituted “The Service, in cooperation with the Bureau” for “The Secretary of Health and Human Services, acting through the Service and in cooperation with the Bureau” and “abuse or neglect” for “sexual abuse”.
 
-Subsec. (b)(1). Pub. L. 118–160, § 2(2)(B), (C), inserted “, on its own or in partnership with an urban Indian organization,” after “Any Indian tribe or intertribal consortium” and substituted “Service” for “Secretary of Health and Human Services”.
+Subsec. (b)(1). Pub. L. 118–160, § 2(2)(B), (C), inserted “, on its own or in partnership with an urban Indian organization,” after “Any Indian tribe or intertribal consortium” and substituted “Service” for “Secretary of Health and Human Services”.
 
-Subsec. (b)(2)(A). Pub. L. 118–160, § 2(2)(B), substituted “Service” for “Secretary of Health and Human Services”.
+Subsec. (b)(2)(A). Pub. L. 118–160, § 2(2)(B), substituted “Service” for “Secretary of Health and Human Services”.
 
-Subsec. (b)(2)(B). Pub. L. 118–160, § 2(2)(D), substituted “the Service” for “such Secretary” in two places.
+Subsec. (b)(2)(B). Pub. L. 118–160, § 2(2)(D), substituted “the Service” for “such Secretary” in two places.
 
-Subsec. (c). Pub. L. 118–160, § 2(2)(E), amended subsec. (c) generally. Prior to amendment, text read as follows: “The maximum amount of any grant awarded under subsection (a) shall not exceed $500,000.”
+Subsec. (c). Pub. L. 118–160, § 2(2)(E), amended subsec. (c) generally. Prior to amendment, text read as follows: “The maximum amount of any grant awarded under subsection (a) shall not exceed $500,000.”
 
-Subsec. (d)(1). Pub. L. 118–160, § 2(2)(B), (D), substituted “Service” for “Secretary of Health and Human Services” and “as the Service” for “as such Secretary” in introductory provisions.
+Subsec. (d)(1). Pub. L. 118–160, § 2(2)(B), (D), substituted “Service” for “Secretary of Health and Human Services” and “as the Service” for “as such Secretary” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 118–160, § 2(2)(D), (F), substituted “to the Service” for “to such Secretary” and “as the Service” for “as the Secretary”.
+Subsec. (d)(2). Pub. L. 118–160, § 2(2)(D), (F), substituted “to the Service” for “to such Secretary” and “as the Service” for “as the Secretary”.
 
-Subsecs. (e), (f). Pub. L. 118–160, § 2(2)(G), (H), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 118–160, § 2(2)(G), (H), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1995—Subsec. (e). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
 
-## § 3209. National Indian Child Resource and Family Services Center
+## § 3209. National Indian Child Resource and Family Services Center
 
 **(a) Establishment**
 
@@ -583,37 +583,37 @@ The National Indian Child Resource and Family Services Center shall be subject t
 
 There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 101–630, title IV, § 410, Nov. 28, 1990, 104 Stat. 4552; Pub. L. 104–16, § 1, June 21, 1995, 109 Stat. 190; Pub. L. 118–160, § 2(3), Dec. 23, 2024, 138 Stat. 2568.)
+(Pub. L. 101–630, title IV, § 410, Nov. 28, 1990, 104 Stat. 4552; Pub. L. 104–16, § 1, June 21, 1995, 109 Stat. 190; Pub. L. 118–160, § 2(3), Dec. 23, 2024, 138 Stat. 2568.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-2024—Pub. L. 118–160, § 2(3)(A), inserted “National” before “Indian” and substituted “Center” for “Centers” in section catchline.
+2024—Pub. L. 118–160, § 2(3)(A), inserted “National” before “Indian” and substituted “Center” for “Centers” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 118–160, § 2(3)(B), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the establishment of an Indian Child Resource and Family Services Center in Bureau area offices and the requirement to enter into a staffing Memorandum of Agreement, respectively.
+Subsecs. (a), (b). Pub. L. 118–160, § 2(3)(B), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the establishment of an Indian Child Resource and Family Services Center in Bureau area offices and the requirement to enter into a staffing Memorandum of Agreement, respectively.
 
-Subsec. (c). Pub. L. 118–160, § 2(3)(C), substituted “The Center” for “Each Center” and struck out “multidisciplinary” before “team”.
+Subsec. (c). Pub. L. 118–160, § 2(3)(C), substituted “The Center” for “Each Center” and struck out “multidisciplinary” before “team”.
 
-Subsec. (d). Pub. L. 118–160, § 2(3)(D)(i), substituted “The Center” for “Each Center” in introductory provisions.
+Subsec. (d). Pub. L. 118–160, § 2(3)(D)(i), substituted “The Center” for “Each Center” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 118–160, § 2(3)(D)(ii), substituted “inter-tribal consortia, and urban Indian organizations” for “and inter-tribal consortia”.
+Subsec. (d)(1). Pub. L. 118–160, § 2(3)(D)(ii), substituted “inter-tribal consortia, and urban Indian organizations” for “and inter-tribal consortia”.
 
-Subsec. (d)(2). Pub. L. 118–160, § 2(3)(D)(iii), inserted “urban Indian organizations,” after “tribal organizations,”.
+Subsec. (d)(2). Pub. L. 118–160, § 2(3)(D)(iii), inserted “urban Indian organizations,” after “tribal organizations,”.
 
-Subsec. (d)(3). Pub. L. 118–160, § 2(3)(D)(iv), inserted “and technical assistance” after “training” and substituted “, Tribal organizations, and urban Indian organizations” for “and to tribal organizations”.
+Subsec. (d)(3). Pub. L. 118–160, § 2(3)(D)(iv), inserted “and technical assistance” after “training” and substituted “, Tribal organizations, and urban Indian organizations” for “and to tribal organizations”.
 
-Subsec. (d)(4). Pub. L. 118–160, § 2(3)(D)(v), inserted “, State,” after “Federal” and substituted “Tribal, and urban Indian” for “and tribal”.
+Subsec. (d)(4). Pub. L. 118–160, § 2(3)(D)(v), inserted “, State,” after “Federal” and substituted “Tribal, and urban Indian” for “and tribal”.
 
-Subsec. (d)(5). Pub. L. 118–160, § 2(3)(D)(vi), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “develop policies and procedures for each agency office of the Bureau and service unit of the Service within the area which, to the extent feasible, comply with tribal laws pertaining to cases of family violence, child abuse, and child neglect, including any criminal laws, and which provide for maximum cooperation with the enforcement of such laws.”
+Subsec. (d)(5). Pub. L. 118–160, § 2(3)(D)(vi), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “develop policies and procedures for each agency office of the Bureau and service unit of the Service within the area which, to the extent feasible, comply with tribal laws pertaining to cases of family violence, child abuse, and child neglect, including any criminal laws, and which provide for maximum cooperation with the enforcement of such laws.”
 
-Subsec. (e). Pub. L. 118–160, § 2(3)(E), substituted “Team” for “Multidisciplinary team” in heading and “The” for “Each multidisciplinary” in introductory provisions.
+Subsec. (e). Pub. L. 118–160, § 2(3)(E), substituted “Team” for “Multidisciplinary team” in heading and “The” for “Each multidisciplinary” in introductory provisions.
 
-Subsecs. (f), (g). Pub. L. 118–160, § 2(3)(F), amended subsecs. (f) and (g) generally. Prior to amendment, subsecs. (f) and (g) related to the establishment of an advisory board to advise and assist each Indian Child Resource and Family Services Center and the application of the Indian Self-Determination Act to Indian Child Resource and Family Services Centers, respectively.
+Subsecs. (f), (g). Pub. L. 118–160, § 2(3)(F), amended subsecs. (f) and (g) generally. Prior to amendment, subsecs. (f) and (g) related to the establishment of an advisory board to advise and assist each Indian Child Resource and Family Services Center and the application of the Indian Self-Determination Act to Indian Child Resource and Family Services Centers, respectively.
 
 1995—Subsec. (h). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
 
@@ -623,7 +623,7 @@ Subsecs. (f), (g). Pub. L. 118–160, § 2(3)(F), amended subsecs. (f) and (g)
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 3210. Indian Child Protection and Family Violence Prevention Program
+## § 3210. Indian Child Protection and Family Violence Prevention Program
 
 **(a) Establishment**
 
@@ -683,9 +683,9 @@ The Secretary is authorized to enter into agreements with Indian tribes, tribal 
 
 **(B)** instruction in methods of protecting children from abuse and neglect for persons responsible for the welfare of Indian children, including parents of, and persons who work with, Indian children, or
 
-**(C)** educational, identification, prevention and treatment services for child abuse and child neglect in cooperation with preschool, elementary and secondary schools, or tribally controlled college or university 1
+**(C)** educational, identification, prevention and treatment services for child abuse and child neglect in cooperation with preschool, elementary and secondary schools, or tribally controlled college or university 1
 
-<sup>1</sup>  So in original. Probably should be “colleges or universities”.
+<sup>1</sup> So in original. Probably should be “colleges or universities”.
 
 (within the meaning of section 1801 of this title);
 
@@ -701,7 +701,7 @@ The Secretary is authorized to enter into agreements with Indian tribes, tribal 
 
 that show promise of successfully preventing and treating cases of family violence, child abuse, and child neglect.
 
-**(f) 2 [footnote: 2 So in original. No subsec. (e) has been enacted.] Secretarial regulations; base support funding**
+**(f) 2 [footnote: 2 So in original. No subsec. (e) has been enacted.] Secretarial regulations; base support funding**
 
 **(1)** The Secretary, with the participation of Indian tribes, shall establish, and promulgate by regulations, a formula which establishes base support funding for Indian Child Protection and Family Violence Prevention programs.
 
@@ -741,41 +741,41 @@ that show promise of successfully preventing and treating cases of family violen
 
 There are authorized to be appropriated to carry out the provisions of this section $30,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 101–630, title IV, § 411, Nov. 28, 1990, 104 Stat. 4553; Pub. L. 104–16, § 1, June 21, 1995, 109 Stat. 190; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(J), Aug. 14, 2008, 122 Stat. 3467; Pub. L. 118–160, § 2(4), Dec. 23, 2024, 138 Stat. 2569.)
+(Pub. L. 101–630, title IV, § 411, Nov. 28, 1990, 104 Stat. 4553; Pub. L. 104–16, § 1, June 21, 1995, 109 Stat. 190; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(J), Aug. 14, 2008, 122 Stat. 3467; Pub. L. 118–160, § 2(4), Dec. 23, 2024, 138 Stat. 2569.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-2024—Subsec. (d)(1)(A). Pub. L. 118–160, § 2(4)(A)(i)(I), substituted “abuse, neglect, or both” for “abuse and child neglect”.
+2024—Subsec. (d)(1)(A). Pub. L. 118–160, § 2(4)(A)(i)(I), substituted “abuse, neglect, or both” for “abuse and child neglect”.
 
-Subsec. (d)(1)(D) to (F). Pub. L. 118–160, § 2(4)(A)(i)(II), (III), added subpars. (D) to (F).
+Subsec. (d)(1)(D) to (F). Pub. L. 118–160, § 2(4)(A)(i)(II), (III), added subpars. (D) to (F).
 
-Subsec. (d)(2)(A). Pub. L. 118–160, § 2(4)(A)(ii)(I), inserted “in culturally appropriate ways” after “incidents of family violence”.
+Subsec. (d)(2)(A). Pub. L. 118–160, § 2(4)(A)(ii)(I), inserted “in culturally appropriate ways” after “incidents of family violence”.
 
-Subsec. (d)(2)(C). Pub. L. 118–160, § 2(4)(A)(ii)(II), inserted “that may include culturally appropriate programs” after “training programs”.
+Subsec. (d)(2)(C). Pub. L. 118–160, § 2(4)(A)(ii)(II), inserted “that may include culturally appropriate programs” after “training programs”.
 
-Subsec. (d)(3)(A). Pub. L. 118–160, § 2(4)(A)(iii)(I), inserted “and neglect” after “abuse”.
+Subsec. (d)(3)(A). Pub. L. 118–160, § 2(4)(A)(iii)(I), inserted “and neglect” after “abuse”.
 
-Subsec. (d)(3)(B). Pub. L. 118–160, § 2(4)(A)(iii)(II), substituted “and neglect cases” for “cases, to the extent practicable,”.
+Subsec. (d)(3)(B). Pub. L. 118–160, § 2(4)(A)(iii)(II), substituted “and neglect cases” for “cases, to the extent practicable,”.
 
-Subsec. (f)(2). Pub. L. 118–160, § 2(4)(B)(i), substituted “develop, not later than one year after December 23, 2024, in consultation with Indian Tribes, appropriate caseload standards and staffing requirements” for “develop, in consultation with Indian tribes, appropriate caseload standards and staffing requirements which are comparable to standards developed by the National Association of Social Work, the Child Welfare League of America and other professional associations in the field of social work and child welfare”.
+Subsec. (f)(2). Pub. L. 118–160, § 2(4)(B)(i), substituted “develop, not later than one year after December 23, 2024, in consultation with Indian Tribes, appropriate caseload standards and staffing requirements” for “develop, in consultation with Indian tribes, appropriate caseload standards and staffing requirements which are comparable to standards developed by the National Association of Social Work, the Child Welfare League of America and other professional associations in the field of social work and child welfare”.
 
-Subsec. (f)(3)(D). Pub. L. 118–160, § 2(4)(B)(ii), substituted “abuse and neglect, high incidence of family violence” for “sexual abuse”.
+Subsec. (f)(3)(D). Pub. L. 118–160, § 2(4)(B)(ii), substituted “abuse and neglect, high incidence of family violence” for “sexual abuse”.
 
-Subsec. (f)(4). Pub. L. 118–160, § 2(4)(B)(iii), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The formula established pursuant to this subsection shall provide funding necessary to support—
+Subsec. (f)(4). Pub. L. 118–160, § 2(4)(B)(iii), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The formula established pursuant to this subsection shall provide funding necessary to support—
 
 “(A) one child protective services or family violence caseworker, including fringe benefits and support costs, for each tribe; and
 
 “(B) an additional child protective services and family violence caseworker, including fringe benefits and support costs, for each level of assistance for which an Indian tribe qualifies.”
 
-Subsec. (f)(5). Pub. L. 118–160, § 2(4)(B)(iv), substituted “Indian Tribes” for “tribes”.
+Subsec. (f)(5). Pub. L. 118–160, § 2(4)(B)(iv), substituted “Indian Tribes” for “tribes”.
 
-Subsec. (g). Pub. L. 118–160, § 2(4)(C), amended subsec. (g) generally. Prior to amendment, subsec. (g) provided that services provided under contracts made under this section shall supplement, not supplant, services from any other funds available for the same general purposes.
+Subsec. (g). Pub. L. 118–160, § 2(4)(C), amended subsec. (g) generally. Prior to amendment, subsec. (g) provided that services provided under contracts made under this section shall supplement, not supplant, services from any other funds available for the same general purposes.
 
 2008—Subsec. (d)(5)(C). Pub. L. 110–315 substituted “tribally controlled college or university (within the meaning of section 1801 of this title)” for “tribally controlled community colleges (within the meaning of section 1801 of this title)”.
 
@@ -789,6 +789,6 @@ Subsec. (g). Pub. L. 118–160, § 2(4)(C), amended subsec. (g) generally. Pri
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-## § 3211. Repealed. Pub. L. 105–362, title VIII, § 801(a), Nov. 10, 1998, 112 Stat. 3287
+## § 3211. Repealed. Pub. L. 105–362, title VIII, § 801(a), Nov. 10, 1998, 112 Stat. 3287
 
-Section, Pub. L. 101–630, title IV, § 412, Nov. 28, 1990, 104 Stat. 4556, related to annual reports to Congress on administration of provisions concerning Indian child protection and family violence prevention.
+Section, Pub. L. 101–630, title IV, § 412, Nov. 28, 1990, 104 Stat. 4556, related to annual reports to Congress on administration of provisions concerning Indian child protection and family violence prevention.

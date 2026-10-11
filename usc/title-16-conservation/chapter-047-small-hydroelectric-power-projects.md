@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 47—SMALL HYDROELECTRIC POWER PROJECTS
 
-## § 2701. Establishment of program
+## § 2701. Establishment of program
 
 The Secretary shall establish a program in accordance with this chapter to encourage municipalities, electric cooperatives, industrial development agencies, nonprofit organizations, and other persons to undertake the development of small hydroelectric power projects in connection with existing dams which are not being used to generate electric power.
 
-(Pub. L. 95–617, title IV, § 401, Nov. 9, 1978, 92 Stat. 3154.)
+(Pub. L. 95–617, title IV, § 401, Nov. 9, 1978, 92 Stat. 3154.)
 
 **Editorial Notes**
 
@@ -31,9 +31,9 @@ The Secretary, referred to in text, means the Secretary of Energy, see section 2
 
 **Promulgation of Implementing Rules and Regulations**
 
-Pub. L. 96–294, title IV, § 408(d), June 30, 1980, 94 Stat. 718, provided that: “The Secretary shall take such action as may be necessary to assure the establishment, as soon as possible after the date of the enactment of this Act [June 30, 1980] (and in any event within six months after such date in the case of the amendments made by subsections (a) and (c) of this section and in the case of the loan program under section 403 of the Public Utility Regulatory Policies Act of 1978) [amending section 2708 of the title, and section 2703 of this title respectively], of such rules and regulations as may be necessary to fully implement his responsibilities under title IV of the Public Utility Regulatory Policies Act of 1978 [this subchapter] and the amendments thereto made by this section [amending sections 2705 and 2708 of this title]”.
+Pub. L. 96–294, title IV, § 408(d), June 30, 1980, 94 Stat. 718, provided that: “The Secretary shall take such action as may be necessary to assure the establishment, as soon as possible after the date of the enactment of this Act [June 30, 1980] (and in any event within six months after such date in the case of the amendments made by subsections (a) and (c) of this section and in the case of the loan program under section 403 of the Public Utility Regulatory Policies Act of 1978) [amending section 2708 of the title, and section 2703 of this title respectively], of such rules and regulations as may be necessary to fully implement his responsibilities under title IV of the Public Utility Regulatory Policies Act of 1978 [this subchapter] and the amendments thereto made by this section [amending sections 2705 and 2708 of this title]”.
 
-## § 2702. Loans for feasibility studies
+## § 2702. Loans for feasibility studies
 
 **(a) Loan authority** The Secretary, after consultation with the Commission, is authorized to make a loan to any municipality, electric cooperative, industrial development agency, nonprofit organization, or other person to assist such person in defraying up to 90 percent of the costs of—
 
@@ -45,7 +45,7 @@ Pub. L. 96–294, title IV, § 408(d), June 30, 1980, 94 Stat. 718, provided t
 
 The Secretary may cancel the unpaid balance and any accrued interest on any loan granted pursuant to this section if he determines on the basis of the study that the small hydroelectric power project would not be technically or economically feasible.
 
-(Pub. L. 95–617, title IV, § 402, Nov. 9, 1978, 92 Stat. 3154.)
+(Pub. L. 95–617, title IV, § 402, Nov. 9, 1978, 92 Stat. 3154.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ The Secretary may cancel the unpaid balance and any accrued interest on any loan
 
 The Secretary, referred to in text, and the Commission, referred to in subsec. (a), mean the Secretary of Energy and the Federal Energy Regulatory Commission, respectively, see section 2602(3), (14) of this title.
 
-## § 2703. Loans for project costs
+## § 2703. Loans for project costs
 
 **(a) Authority** The Secretary is authorized to make loans to any municipality, electric cooperative, industrial development agency, nonprofit organization, or other person of up to 75 percent of the proj­ect costs of a small hydroelectric power proj­ect. No such loan may be made unless the Secretary finds that—
 
@@ -65,9 +65,9 @@ The Secretary, referred to in text, and the Commission, referred to in subsec. (
 
 **(4)** the project will not have a significant adverse effect on any other use of the water used by such project.
 
-The Secretary may make a commitment to make a loan under this subsection to an applicant who has not met the requirements of paragraph (2), pending compliance by such applicant with such requirements. Such commitment shall be for period 1
+The Secretary may make a commitment to make a loan under this subsection to an applicant who has not met the requirements of paragraph (2), pending compliance by such applicant with such requirements. Such commitment shall be for period 1
 
-<sup>1</sup>  So in original. Probably should be “for a period”.
+<sup>1</sup> So in original. Probably should be “for a period”.
 
 of not to exceed 3 years unless the Secretary, in consultation with the Commission, extends such period for good cause shown. Notwithstanding any such commitment, no such loan shall be made before such person has complied with such requirements.
 
@@ -85,7 +85,7 @@ Every applicant for a license for a small hydroelectric power project receiving 
 
 In making loans for small hydroelectric power projects under this section, the Secretary shall encourage joint participation, to the extent permitted by law, by applicants eligible to receive loans under this section with respect to the same project.
 
-(Pub. L. 95–617, title IV, § 403, Nov. 9, 1978, 92 Stat. 3155.)
+(Pub. L. 95–617, title IV, § 403, Nov. 9, 1978, 92 Stat. 3155.)
 
 **Editorial Notes**
 
@@ -93,7 +93,7 @@ In making loans for small hydroelectric power projects under this section, the S
 
 The Secretary, referred to in text, and the Commission, referred to in subsec. (a), mean the Secretary of Energy and the Federal Energy Regulatory Commission, respectively, see section 2602(3), (14) of this title.
 
-## § 2704. Loan rates and repayment
+## § 2704. Loan rates and repayment
 
 **(a) Interest** Each loan made pursuant to this chapter shall bear interest at the discount or interest rate used at the time the loan is made for water resources planning projects under section 1962d–17 of title 42. Each such loan shall be for such term, as the Secretary deems appropriate, but not in excess of—
 
@@ -105,7 +105,7 @@ The Secretary, referred to in text, and the Commission, referred to in subsec. (
 
 Amounts repaid on loans made pursuant to this chapter shall be deposited into the United States Treasury as miscellaneous receipts.
 
-(Pub. L. 95–617, title IV, § 404, Nov. 9, 1978, 92 Stat. 3155.)
+(Pub. L. 95–617, title IV, § 404, Nov. 9, 1978, 92 Stat. 3155.)
 
 **Editorial Notes**
 
@@ -115,7 +115,7 @@ In subsec. (a), “section 1962d–17 of title 42” was in the original “sect
 
 The Secretary, referred to in subsec. (a), means the Secretary of Energy, see section 2602(14) of this title.
 
-## § 2705. Simplified and expeditious licensing procedures
+## § 2705. Simplified and expeditious licensing procedures
 
 **(a) Establishment of program**
 
@@ -137,7 +137,7 @@ The Commission shall encourage applicants for licenses for small hydroelectric p
 
 The Commission may in its discretion (by rule or order) grant an exemption in whole or in part from the requirements (including the licensing requirements) of part I of the Federal Power Act [16 U.S.C. 791a et seq.] to small hydroelectric power projects having a proposed installed capacity of 10,000 kilowatts or less, on a case-by-case basis or on the basis of classes or categories of projects, subject to the same limitations (to ensure protection for fish and wildlife as well as other environmental concerns) as those which are set forth in subsections (c) and (d) of section 30 of the Federal Power Act [16 U.S.C. 823a (c) and (d)] with respect to determinations made and exemptions granted under subsection (b) of such section 30 [16 U.S.C. 823a(b)]; and subsections (c) and (d) of such section 30 shall apply with respect to actions taken and exemptions granted under this subsection. Except as specifically provided in this subsection, the granting of an exemption to a project under this subsection shall in no case have the effect of waiving or limiting the application (to such project) of the second sentence of subsection (b) of this section.
 
-(Pub. L. 95–617, title IV, § 405, Nov. 9, 1978, 92 Stat. 3156; Pub. L. 96–294, title IV, § 408(b), June 30, 1980, 94 Stat. 718; Pub. L. 113–23, §§ 3, 4(b), Aug. 9, 2013, 127 Stat. 493, 495.)
+(Pub. L. 95–617, title IV, § 405, Nov. 9, 1978, 92 Stat. 3156; Pub. L. 96–294, title IV, § 408(b), June 30, 1980, 94 Stat. 718; Pub. L. 113–23, §§ 3, 4(b), Aug. 9, 2013, 127 Stat. 493, 495.)
 
 **Editorial Notes**
 
@@ -145,13 +145,13 @@ The Commission may in its discretion (by rule or order) grant an exemption in wh
 
 The Commission, referred to in text, means the Federal Energy Regulatory Commission, see section 2602(3) of this title.
 
-The Federal Power Act, referred to in subsecs. (a), (b), and (d), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsecs. (a), (b), and (d), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (b), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
-The Endangered Species Act, referred to in subsec. (b), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (b), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Amendments**
 
@@ -159,19 +159,19 @@ The Endangered Species Act, referred to in subsec. (b), probably means the Endan
 
 1980—Subsec. (d). Pub. L. 96–294 added subsec. (d).
 
-## § 2706. New impoundments
+## § 2706. New impoundments
 
 Nothing in this chapter authorizes (1) the loan of funds for construction of any new dam or other impoundment, or (2) the simple and expeditious licensing of any such new dam or other impoundment.
 
-(Pub. L. 95–617, title IV, § 406, Nov. 9, 1978, 92 Stat. 3156.)
+(Pub. L. 95–617, title IV, § 406, Nov. 9, 1978, 92 Stat. 3156.)
 
-## § 2707. Authorizations
+## § 2707. Authorizations
 
 There are hereby authorized to be appropriated for each of the fiscal years ending September 30, 1978, September 30, 1979, and September 30, 1980, not to exceed $10,000,000 for loans to be made pursuant to section 2702 of this title, such funds to remain available until expended. There are hereby authorized to be appropriated for each of the fiscal years ending September 30, 1978, September 30, 1979, September 30, 1980, not to exceed $100,000,000 for loans to be made pursuant to section 2703 of this title, such funds to remain available until expended.
 
-(Pub. L. 95–617, title IV, § 407, Nov. 9, 1978, 92 Stat. 3156.)
+(Pub. L. 95–617, title IV, § 407, Nov. 9, 1978, 92 Stat. 3156.)
 
-## § 2708. Definitions
+## § 2708. Definitions
 
 **(a)** For purposes of this chapter, the term—
 
@@ -181,17 +181,17 @@ There are hereby authorized to be appropriated for each of the fiscal years endi
 
 **(3)** “industrial development agency” means any agency which is permitted to issue obligations the interest on which is excludable from gross income under section 103 of title 26;
 
-**(4)** “project costs” means the cost of acquisiiton 1
+**(4)** “project costs” means the cost of acquisiiton 1
 
-<sup>1</sup>  So in original. Probably should be “acquisition”.
+<sup>1</sup> So in original. Probably should be “acquisition”.
 
 or construction of all facilities and services and the cost of acquisition of all land and interests in land used in the design and construction and operation of a small hydroelectric power project;
 
 **(5)** “nonprofit organization” means any organization described in section 501(c)(3) or 501(c)(4) of title 26 and exempt from tax under section 501(a) of title 26 (but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business, determined by applying section 513(a) of title 26 to such organization);
 
-**(6)** “existing dam” means any dam, the construction of which was completed or on 2
+**(6)** “existing dam” means any dam, the construction of which was completed or on 2
 
-<sup>2</sup>  So in original. Probably should be “on or”.
+<sup>2</sup> So in original. Probably should be “on or”.
 
 before July 22, 2005, and which does not require any construction or enlargement of impoundment structures (other than repairs or reconstruction) in connection with the installation of any small hydroelectric power project;
 
@@ -207,7 +207,7 @@ before July 22, 2005, and which does not require any construction or enlargement
 
 any project which utilizes or proposes to utilize natural water features for the generation of electricity, without the need for any dam or impoundment, in a manner which (as determined by the Commission) will achieve the purposes of this chapter and will do so without any adverse effect upon such natural water features.
 
-(Pub. L. 95–617, title IV, § 408, Nov. 9, 1978, 92 Stat. 3156; Pub. L. 96–294, title IV, § 408(a), (c), June 30, 1980, 94 Stat. 718; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–58, title II, § 246, Aug. 8, 2005, 119 Stat. 679.)
+(Pub. L. 95–617, title IV, § 408, Nov. 9, 1978, 92 Stat. 3156; Pub. L. 96–294, title IV, § 408(a), (c), June 30, 1980, 94 Stat. 718; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–58, title II, § 246, Aug. 8, 2005, 119 Stat. 679.)
 
 **Editorial Notes**
 
@@ -221,6 +221,6 @@ The Commission, referred to in subsec. (b), means the Federal Energy Regulatory 
 
 1986—Subsec. (a)(3), (5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–294, § 408(a), (c)(1), designated existing provisions as subsec. (a) and, as so designated, in par. (1) substituted “30,000” for “15,000”.
+1980—Subsec. (a). Pub. L. 96–294, § 408(a), (c)(1), designated existing provisions as subsec. (a) and, as so designated, in par. (1) substituted “30,000” for “15,000”.
 
-Subsec. (b). Pub. L. 96–294, § 408(c)(2), added subsec. (b).
+Subsec. (b). Pub. L. 96–294, § 408(c)(2), added subsec. (b).

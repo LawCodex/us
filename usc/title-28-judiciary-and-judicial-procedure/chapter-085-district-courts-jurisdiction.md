@@ -19,49 +19,49 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–273, div. C, title I, § 11020(b)(1)(B), Nov. 2, 2002, 116 Stat. 1827, added item 1369.
+2002—Pub. L. 107–273, div. C, title I, § 11020(b)(1)(B), Nov. 2, 2002, 116 Stat. 1827, added item 1369.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3009(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, substituted “trademarks” for “trade-marks” in item 1338.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3009(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, substituted “trademarks” for “trade-marks” in item 1338.
 
-1998—Pub. L. 105–304, title V, § 503(b)(2)(B), Oct. 28, 1998, 112 Stat. 2917, inserted “designs,” after “mask works,” in item 1338.
+1998—Pub. L. 105–304, title V, § 503(b)(2)(B), Oct. 28, 1998, 112 Stat. 2917, inserted “designs,” after “mask works,” in item 1338.
 
-1995—Pub. L. 104–88, title III, § 305(a)(4), Dec. 29, 1995, 109 Stat. 944, substituted “Surface Transportation Board’s” for “Interstate Commerce Commission’s” in item 1336.
+1995—Pub. L. 104–88, title III, § 305(a)(4), Dec. 29, 1995, 109 Stat. 944, substituted “Surface Transportation Board’s” for “Interstate Commerce Commission’s” in item 1336.
 
-1994—Pub. L. 103–465, title III, § 321(b)(3)(B), Dec. 8, 1994, 108 Stat. 4947, added item 1368.
+1994—Pub. L. 103–465, title III, § 321(b)(3)(B), Dec. 8, 1994, 108 Stat. 4947, added item 1368.
 
-1990—Pub. L. 101–650, title III, § 310(b), Dec. 1, 1990, 104 Stat. 5114, added item 1367.
+1990—Pub. L. 101–650, title III, § 310(b), Dec. 1, 1990, 104 Stat. 5114, added item 1367.
 
-1988—Pub. L. 100–702, title X, § 1020(a)(7), Nov. 19, 1988, 102 Stat. 4672, substituted “Actions” for “Action” in item 1330, inserted a period after “question” in item 1331, substituted “plant variety protection, copyrights, mask works, trade-marks,” for “copyrights, and trade-marks” in item 1338, and inserted “and elective franchise” in item 1343.
+1988—Pub. L. 100–702, title X, § 1020(a)(7), Nov. 19, 1988, 102 Stat. 4672, substituted “Actions” for “Action” in item 1330, inserted a period after “question” in item 1331, substituted “plant variety protection, copyrights, mask works, trade-marks,” for “copyrights, and trade-marks” in item 1338, and inserted “and elective franchise” in item 1343.
 
-1986—Pub. L. 99–336, § 6(a)(1)(A), June 19, 1986, 100 Stat. 638, renumbered item 1364 “Senate actions” and item 1364 “Construction of references to laws of the United States or Acts of Congress” as items 1365 and 1366, respectively.
+1986—Pub. L. 99–336, § 6(a)(1)(A), June 19, 1986, 100 Stat. 638, renumbered item 1364 “Senate actions” and item 1364 “Construction of references to laws of the United States or Acts of Congress” as items 1365 and 1366, respectively.
 
-1984—Pub. L. 98–353, title I, § 101(b), July 10, 1984, 98 Stat. 333, substituted “cases” for “matters” in item 1334.
+1984—Pub. L. 98–353, title I, § 101(b), July 10, 1984, 98 Stat. 333, substituted “cases” for “matters” in item 1334.
 
-1980—Pub. L. 96–486, § 2(b), Dec. 1, 1980, 94 Stat. 2369, struck out “; amount in controversy; costs.” after “question” in item 1331.
+1980—Pub. L. 96–486, § 2(b), Dec. 1, 1980, 94 Stat. 2369, struck out “; amount in controversy; costs.” after “question” in item 1331.
 
-1978—Pub. L. 95–598, title II, § 238(b), Nov. 6, 1978, 92 Stat. 2668, directed the substitution of “Bankruptcy appeals” for “Bankruptcy matters and proceedings” in item 1334, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598, title II, § 238(b), Nov. 6, 1978, 92 Stat. 2668, directed the substitution of “Bankruptcy appeals” for “Bankruptcy matters and proceedings” in item 1334, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-Pub. L. 95–572, § 6(b)(2), Nov. 2, 1978, 92 Stat. 2457, added item 1363 and redesignated former item 1363 “Construction of references to laws of the United States or Acts of Congress”, as 1364.
+Pub. L. 95–572, § 6(b)(2), Nov. 2, 1978, 92 Stat. 2457, added item 1363 and redesignated former item 1363 “Construction of references to laws of the United States or Acts of Congress”, as 1364.
 
-Pub. L. 95–521, title VII, § 705(f)(2), Oct. 26, 1978, 92 Stat. 1880, added item 1364 “Senate actions”.
+Pub. L. 95–521, title VII, § 705(f)(2), Oct. 26, 1978, 92 Stat. 1880, added item 1364 “Senate actions”.
 
-Pub. L. 95–486, § 9(c), Oct. 20, 1978, 92 Stat. 1634, substituted “Commerce and antitrust regulations; amount in controversy, costs” for “Commerce and antitrust regulations” in item 1337.
+Pub. L. 95–486, § 9(c), Oct. 20, 1978, 92 Stat. 1634, substituted “Commerce and antitrust regulations; amount in controversy, costs” for “Commerce and antitrust regulations” in item 1337.
 
-Pub. L. 95–393, §§ 7(b), 8(a)(2), Sept. 30, 1978, 92 Stat. 810, substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in item 1351 and added item 1364 “Direct actions against insurers of members of diplomatic missions and their families”.
+Pub. L. 95–393, §§ 7(b), 8(a)(2), Sept. 30, 1978, 92 Stat. 810, substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in item 1351 and added item 1364 “Direct actions against insurers of members of diplomatic missions and their families”.
 
-1976—Pub. L. 94–583, § 2(b), Oct. 21, 1976, 90 Stat. 2891, added item 1330.
+1976—Pub. L. 94–583, § 2(b), Oct. 21, 1976, 90 Stat. 2891, added item 1330.
 
-1970—Pub. L. 91–358, title I, § 172(c)(2), July 29, 1970, 84 Stat. 591, added item 1363.
+1970—Pub. L. 91–358, title I, § 172(c)(2), July 29, 1970, 84 Stat. 591, added item 1363.
 
-1966—Pub. L. 89–635, § 2, Oct. 10, 1966, 80 Stat. 880, added item 1362.
+1966—Pub. L. 89–635, § 2, Oct. 10, 1966, 80 Stat. 880, added item 1362.
 
-1962—Pub. L. 87–748, § 1(b), Oct. 5, 1962, 76 Stat. 744, added item 1361.
+1962—Pub. L. 87–748, § 1(b), Oct. 5, 1962, 76 Stat. 744, added item 1361.
 
-1958—Pub. L. 85–554, § 4, July 25, 1958, 72 Stat. 415, inserted “costs” in items 1331 and 1332.
+1958—Pub. L. 85–554, § 4, July 25, 1958, 72 Stat. 415, inserted “costs” in items 1331 and 1332.
 
-1953—Act Aug. 15, 1953, ch. 505, § 3, 67 Stat. 589, added item 1360.
+1953—Act Aug. 15, 1953, ch. 505, § 3, 67 Stat. 589, added item 1360.
 
-## § 1330. Actions against foreign states
+## § 1330. Actions against foreign states
 
 **(a)** The district courts shall have original jurisdiction without regard to amount in controversy of any nonjury civil action against a foreign state as defined in section 1603(a) of this title as to any claim for relief in personam with respect to which the foreign state is not entitled to immunity either under sections 1605–1607 of this title or under any applicable international agreement.
 
@@ -69,7 +69,7 @@ Pub. L. 95–393, §§ 7(b), 8(a)(2), Sept. 30, 1978, 92 Stat. 810, substitute
 
 **(c)** For purposes of subsection (b), an appearance by a foreign state does not confer personal jurisdiction with respect to any claim for relief not arising out of any transaction or occurrence enumerated in sections 1605–1607 of this title.
 
-(Added Pub. L. 94–583, § 2(a), Oct. 21, 1976, 90 Stat. 2891.)
+(Added Pub. L. 94–583, § 2(a), Oct. 21, 1976, 90 Stat. 2891.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -77,17 +77,17 @@ Pub. L. 95–393, §§ 7(b), 8(a)(2), Sept. 30, 1978, 92 Stat. 810, substitute
 
 Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 
-## § 1331. Federal question
+## § 1331. Federal question
 
 The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 930; Pub. L. 85–554, § 1, July 25, 1958, 72 Stat. 415; Pub. L. 94–574, § 2, Oct. 21, 1976, 90 Stat. 2721; Pub. L. 96–486, § 2(a), Dec. 1, 1980, 94 Stat. 2369.)
+(June 25, 1948, ch. 646, 62 Stat. 930; Pub. L. 85–554, § 1, July 25, 1958, 72 Stat. 415; Pub. L. 94–574, § 2, Oct. 21, 1976, 90 Stat. 2721; Pub. L. 96–486, § 2(a), Dec. 1, 1980, 94 Stat. 2369.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
-Jurisdiction of federal questions arising under other sections of this chapter is not dependent upon the amount in controversy. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq., §§ 30–43. See, also, reviser’s note under section 1332 of this title.)
+Jurisdiction of federal questions arising under other sections of this chapter is not dependent upon the amount in controversy. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq., §§ 30–43. See, also, reviser’s note under section 1332 of this title.)
 
 Words “wherein the matter in controversy exceeds the sum or value of $3,000, exclusive of interest and costs,” were added to conform to rulings of the Supreme Court. See construction of provision relating to jurisdictional amount requirement in cases involving a Federal question in *United States v. Sayward*, 16 S.Ct. 371, 160 U.S. 493, 40 L.Ed. 508; *Fishback v. Western Union Tel. Co*., 16 S.Ct. 506, 161 U.S. 96, 40 L.Ed. 630; and *Halt v. Indiana Manufacturing Co*., 1900, 20 S.Ct. 272, 176 U.S. 68, 44 L.Ed. 374.
 
@@ -103,7 +103,7 @@ Changes were made in arrangement and phraseology.
 
 **Amendments**
 
-1980—Pub. L. 96–486 struck out “; amount in controversy; costs” in section catchline, struck out minimum amount in controversy requirement of $10,000 for original jurisdiction in federal question cases which necessitated striking the exception to such required minimum amount that authorized original jurisdiction in actions brought against the United States, any agency thereof, or any officer or employee thereof in an official capacity, struck out provision authorizing the district court except where express provision therefore was made in a federal statute to deny costs to a plaintiff and in fact impose such costs upon such plaintiff where plaintiff was adjudged to be entitled to recover less than the required amount in controversy, computed without regard to set-off or counterclaim and exclusive of interests and costs, and struck out existing subsection designations.
+1980—Pub. L. 96–486 struck out “; amount in controversy; costs” in section catchline, struck out minimum amount in controversy requirement of $10,000 for original jurisdiction in federal question cases which necessitated striking the exception to such required minimum amount that authorized original jurisdiction in actions brought against the United States, any agency thereof, or any officer or employee thereof in an official capacity, struck out provision authorizing the district court except where express provision therefore was made in a federal statute to deny costs to a plaintiff and in fact impose such costs upon such plaintiff where plaintiff was adjudged to be entitled to recover less than the required amount in controversy, computed without regard to set-off or counterclaim and exclusive of interests and costs, and struck out existing subsection designations.
 
 1976—Subsec. (a). Pub. L. 94–574 struck out $10,000 jurisdictional amount where action is brought against the United States, any agency thereof, or any officer or employee thereof in his official capacity.
 
@@ -113,13 +113,13 @@ Changes were made in arrangement and phraseology.
 
 **Effective Date of 1980 Amendment; Applicability**
 
-Pub. L. 96–486, § 4, Dec. 1, 1980, 94 Stat. 2370, provided: “This Act [amending this section and section 2072 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 1 of this title] shall apply to any civil action pending on the date of enactment of this Act [Dec. 1, 1980].”
+Pub. L. 96–486, § 4, Dec. 1, 1980, 94 Stat. 2370, provided: “This Act [amending this section and section 2072 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 1 of this title] shall apply to any civil action pending on the date of enactment of this Act [Dec. 1, 1980].”
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–554, § 3, July 25, 1958, 72 Stat. 415, provided that: “This Act [amending this section and sections 1332 and 1345 of this title] shall apply only in the case of actions commenced after the date of the enactment of this Act [July 25, 1958].”
+Pub. L. 85–554, § 3, July 25, 1958, 72 Stat. 415, provided that: “This Act [amending this section and sections 1332 and 1345 of this title] shall apply only in the case of actions commenced after the date of the enactment of this Act [July 25, 1958].”
 
-## § 1332. Diversity of citizenship; amount in controversy; costs
+## § 1332. Diversity of citizenship; amount in controversy; costs
 
 **(a)** The district courts shall have original jurisdiction of all civil actions where the matter in controversy exceeds the sum or value of $75,000, exclusive of interest and costs, and is between—
 
@@ -215,13 +215,13 @@ Pub. L. 85–554, § 3, July 25, 1958, 72 Stat. 415, provided that: “This Ac
 
 **(9)** Paragraph (2) shall not apply to any class action that solely involves a claim—
 
-**(A)** concerning a covered security as defined under 16(f)(3) 1
+**(A)** concerning a covered security as defined under 16(f)(3) 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “section”.
+<sup>1</sup> So in original. Probably should be preceded by “section”.
 
-of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) 2
+of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) 2
 
-<sup>2</sup>  So in original. Probably should be “77p(f)(3)”.
+<sup>2</sup> So in original. Probably should be “77p(f)(3)”.
 
 ) and section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
 
@@ -263,15 +263,15 @@ of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) 2
 
 **(e)** The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, § 2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, § 1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, § 3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§ 201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, § 205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, § 4(a), Feb. 18, 2005, 119 Stat. 9; Pub. L. 112–63, title I, §§ 101, 102, Dec. 7, 2011, 125 Stat. 758.)
+(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, § 2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, § 1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, § 3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§ 201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, § 205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, § 4(a), Feb. 18, 2005, 119 Stat. 9; Pub. L. 112–63, title I, §§ 101, 102, Dec. 7, 2011, 125 Stat. 758.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
 Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1341, 1342, 1345, 1354, and 1359 of this title. (See reviser’s notes under said sections.)
 
-Jurisdiction conferred by other sections of this chapter, except section 1335, is not dependent upon diversity of citizenship. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq. §§ 30–43. See, also, reviser’s note under section 1331 of this title.) As to citizenship of bank where jurisdiction depends upon diversity of citizenship, see section 1348 of this title.
+Jurisdiction conferred by other sections of this chapter, except section 1335, is not dependent upon diversity of citizenship. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq. §§ 30–43. See, also, reviser’s note under section 1331 of this title.) As to citizenship of bank where jurisdiction depends upon diversity of citizenship, see section 1348 of this title.
 
 Words “all civil actions” were substituted for “all suits of a civil nature, at common law or in equity” in order to conform to Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -474,23 +474,23 @@ Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (d)(1)(B
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–63, § 101(1), struck out concluding provisions which read as follows: “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
+2011—Subsec. (a). Pub. L. 112–63, § 101(1), struck out concluding provisions which read as follows: “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
 
-Subsec. (a)(2). Pub. L. 112–63, § 101(2), inserted before semicolon at end “, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State”.
+Subsec. (a)(2). Pub. L. 112–63, § 101(2), inserted before semicolon at end “, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State”.
 
-Subsec. (c)(1). Pub. L. 112–63, § 102, substituted “every State and foreign state” for “any State”, “it has been incorporated and of the State or foreign state” for “it has been incorporated and of the State”, and “such insurer shall be deemed a citizen of—” for “such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business; and” and added subpars. (A) to (C).
+Subsec. (c)(1). Pub. L. 112–63, § 102, substituted “every State and foreign state” for “any State”, “it has been incorporated and of the State or foreign state” for “it has been incorporated and of the State”, and “such insurer shall be deemed a citizen of—” for “such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business; and” and added subpars. (A) to (C).
 
 2005—Subsecs. (d), (e). Pub. L. 109–2 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1996—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
 
-1988—Subsec. (a). Pub. L. 100–702, § 201(a), substituted “$50,000” for “$10,000” in introductory text.
+1988—Subsec. (a). Pub. L. 100–702, § 201(a), substituted “$50,000” for “$10,000” in introductory text.
 
-Pub. L. 100–702, § 203(a), inserted at end “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
+Pub. L. 100–702, § 203(a), inserted at end “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
 
-Subsec. (b). Pub. L. 100–702, § 201(a), substituted “$50,000” for “$10,000”.
+Subsec. (b). Pub. L. 100–702, § 201(a), substituted “$50,000” for “$10,000”.
 
-Subsec. (c). Pub. L. 100–702, § 202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: *Provided further*, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
+Subsec. (c). Pub. L. 100–702, § 202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: *Provided further*, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
 
 1976—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
 
@@ -512,7 +512,7 @@ Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignate
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–63, title I, § 105, Dec. 7, 2011, 125 Stat. 762, provided that:
+Pub. L. 112–63, title I, § 105, Dec. 7, 2011, 125 Stat. 762, provided that:
 
 > **“(a) In General.—** Subject to subsection (b), the amendments made by this title [enacting section 1455 of this title and amending this section and sections 1441, 1446, and 1453 of this title] shall take effect upon the expiration of the 30-day period beginning on the date of the enactment of this Act [Dec. 7, 2011], and shall apply to any action or prosecution commenced on or after such effective date.
 
@@ -520,19 +520,19 @@ Pub. L. 112–63, title I, § 105, Dec. 7, 2011, 125 Stat. 762, provided that:
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–2, § 9, Feb. 18, 2005, 119 Stat. 14, provided that: “The amendments made by this Act [enacting chapter 114 and section 1453 of this title and amending this section and sections 1335 and 1603 of this title] shall apply to any civil action commenced on or after the date of enactment of this Act [Feb. 18, 2005].”
+Pub. L. 109–2, § 9, Feb. 18, 2005, 119 Stat. 14, provided that: “The amendments made by this Act [enacting chapter 114 and section 1453 of this title and amending this section and sections 1335 and 1603 of this title] shall apply to any civil action commenced on or after the date of enactment of this Act [Feb. 18, 2005].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–317, title II, § 205(b), Oct. 19, 1996, 110 Stat. 3850, provided that: “The amendment made by this section [amending this section] shall take effect 90 days after the date of enactment of this Act [Oct. 19, 1996].”
+Pub. L. 104–317, title II, § 205(b), Oct. 19, 1996, 110 Stat. 3850, provided that: “The amendment made by this section [amending this section] shall take effect 90 days after the date of enactment of this Act [Oct. 19, 1996].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–702, title II, § 201(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendments made by this section [amending this section] shall apply to any civil action commenced on or after the 180th day after the date of enactment of this title [Nov. 19, 1988].”
+Pub. L. 100–702, title II, § 201(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendments made by this section [amending this section] shall apply to any civil action commenced on or after the 180th day after the date of enactment of this title [Nov. 19, 1988].”
 
-Pub. L. 100–702, title II, § 202(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendment made by this section [amending this section] shall apply to any civil action commenced in or removed to a United States district court on or after the 180th day after the date of enactment of this title [Nov. 19, 1988].”
+Pub. L. 100–702, title II, § 202(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendment made by this section [amending this section] shall apply to any civil action commenced in or removed to a United States district court on or after the 180th day after the date of enactment of this title [Nov. 19, 1988].”
 
-Pub. L. 100–702, title II, § 203(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendment made by this section [amending this section] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title [Nov. 19, 1988].”
+Pub. L. 100–702, title II, § 203(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendment made by this section [amending this section] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title [Nov. 19, 1988].”
 
 **Effective Date of 1976 Amendment**
 
@@ -540,13 +540,13 @@ Amendment by Pub. L. 94–583 effective 90 days after Oct. 21, 1976, see section
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–439, § 2, Aug. 14, 1964, 78 Stat. 445, provided that: “The amendment made by this Act to section 1332(c), title 28, United States Code, applies only to causes of action arising after the date of enactment of this Act [Aug. 14, 1964].”
+Pub. L. 88–439, § 2, Aug. 14, 1964, 78 Stat. 445, provided that: “The amendment made by this Act to section 1332(c), title 28, United States Code, applies only to causes of action arising after the date of enactment of this Act [Aug. 14, 1964].”
 
 **Effective Date of 1958 Amendment**
 
 Amendment by Pub. L. 85–554 applicable only in the case of actions commenced after July 25, 1958, see section 3 of Pub. L. 85–554, set out as a note under section 1331 of this title.
 
-## § 1333. Admiralty, maritime and prize cases
+## § 1333. Admiralty, maritime and prize cases
 
 The district courts shall have original jurisdiction, exclusive of the courts of the States, of:
 
@@ -554,13 +554,13 @@ The district courts shall have original jurisdiction, exclusive of the courts of
 
 **(2)** Any prize brought into the United States and all proceedings for the condemnation of property taken as prize.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; May 24, 1949, ch. 139, § 79, 63 Stat. 101.)
+(June 25, 1948, ch. 646, 62 Stat. 931; May 24, 1949, ch. 139, § 79, 63 Stat. 101.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(3) and 371 (3), (4) (Mar. 3, 1911, ch. 231, §§ 24, par. 3, 256, pars. 3, 4, 36 Stat. 1091, 1160; Oct. 6, 1917, ch. 97, §§ 1, 2, 40 Stat. 395; June 10, 1922, ch. 216, §§ 1, 2, 42 Stat. 634).
+Based on title 28, U.S.C., 1940 ed., §§ 41(3) and 371 (3), (4) (Mar. 3, 1911, ch. 231, §§ 24, par. 3, 256, pars. 3, 4, 36 Stat. 1091, 1160; Oct. 6, 1917, ch. 97, §§ 1, 2, 40 Stat. 395; June 10, 1922, ch. 216, §§ 1, 2, 42 Stat. 634).
 
 Section consolidates certain provisions of sections 41(3), 371(3) and 371(4) of title 28, U.S.C., 1940 ed. Other provisions of sections 41(3) and 371(4), relating to seizures, are incorporated in section 1356 of this title. (See reviser’s note thereunder.)
 
@@ -582,7 +582,7 @@ This section amends section 1333(a)(1) of title 28, U.S.C., by substituting “s
 
 1949—Subd. (1). Act May 24, 1949, substituted “suitors” for “libellant or petitioner”.
 
-## § 1334. Bankruptcy cases and proceedings
+## § 1334. Bankruptcy cases and proceedings
 
 **(a)** Except as provided in subsection (b) of this section, the district courts shall have original and exclusive jurisdiction of all cases under title 11.
 
@@ -602,11 +602,11 @@ This section amends section 1333(a)(1) of title 28, U.S.C., by substituting “s
 
 **(2)** over all claims or causes of action that involve construction of section 327 of title 11, United States Code, or rules relating to disclosure requirements under section 327.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–598, title II, § 238(a), Nov. 6, 1978, 92 Stat. 2667; Pub. L. 98–353, title I, § 101(a), July 10, 1984, 98 Stat. 333; Pub. L. 99–554, title I, § 144(e), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 101–650, title III, § 309(b), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 103–394, title I, § 104(b), Oct. 22, 1994, 108 Stat. 4109; Pub. L. 109–8, title III, § 324(a), title VIII, § 802(c)(2), title XII, § 1219, Apr. 20, 2005, 119 Stat. 98, 145, 195.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–598, title II, § 238(a), Nov. 6, 1978, 92 Stat. 2667; Pub. L. 98–353, title I, § 101(a), July 10, 1984, 98 Stat. 333; Pub. L. 99–554, title I, § 144(e), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 101–650, title III, § 309(b), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 103–394, title I, § 104(b), Oct. 22, 1994, 108 Stat. 4109; Pub. L. 109–8, title III, § 324(a), title VIII, § 802(c)(2), title XII, § 1219, Apr. 20, 2005, 119 Stat. 98, 145, 195.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(19) and 371(6) (Mar. 3, 1911, ch. 231, §§ 24, par. 19, 256, par. 6, 36 Stat. 1093, 1160).
+Based on title 28, U.S.C., 1940 ed., §§ 41(19) and 371(6) (Mar. 3, 1911, ch. 231, §§ 24, par. 19, 256, par. 6, 36 Stat. 1093, 1160).
 
 Changes in phraseology were made.
 
@@ -614,17 +614,17 @@ Changes in phraseology were made.
 
 **Amendments**
 
-2005—Subsec. (b). Pub. L. 109–8, § 324(a)(1), substituted “Except as provided in subsection (e)(2), and notwithstanding” for “Notwithstanding”.
+2005—Subsec. (b). Pub. L. 109–8, § 324(a)(1), substituted “Except as provided in subsection (e)(2), and notwithstanding” for “Notwithstanding”.
 
-Subsec. (c)(1). Pub. L. 109–8, § 802(c)(2), substituted “Except with respect to a case under chapter 15 of title 11, nothing in” for “Nothing in”.
+Subsec. (c)(1). Pub. L. 109–8, § 802(c)(2), substituted “Except with respect to a case under chapter 15 of title 11, nothing in” for “Nothing in”.
 
-Subsec. (d). Pub. L. 109–8, § 1219, substituted “made under subsection (c)” for “made under this subsection” and “Subsection (c) and this subsection” for “This subsection”.
+Subsec. (d). Pub. L. 109–8, § 1219, substituted “made under subsection (c)” for “made under this subsection” and “Subsection (c) and this subsection” for “This subsection”.
 
-Subsec. (e). Pub. L. 109–8, § 324(a)(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “The district court in which a case under title 11 is commenced or is pending shall have exclusive jurisdiction of all of the property, wherever located, of the debtor as of the commencement of such case, and of property of the estate.”
+Subsec. (e). Pub. L. 109–8, § 324(a)(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “The district court in which a case under title 11 is commenced or is pending shall have exclusive jurisdiction of all of the property, wherever located, of the debtor as of the commencement of such case, and of property of the estate.”
 
-1994—Subsecs. (c)(2), (d). Pub. L. 103–394, § 104(b)(2), inserted “(other than a decision not to abstain in a proceeding described in subsection (c)(2))” after “subsection” in second sentence of subsec. (c)(2) and designated that sentence and third sentence of subsec. (c)(2) as subsec. (d). Former subsec. (d) redesignated (e).
+1994—Subsecs. (c)(2), (d). Pub. L. 103–394, § 104(b)(2), inserted “(other than a decision not to abstain in a proceeding described in subsection (c)(2))” after “subsection” in second sentence of subsec. (c)(2) and designated that sentence and third sentence of subsec. (c)(2) as subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 103–394, § 104(b)(1), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 103–394, § 104(b)(1), redesignated subsec. (d) as (e).
 
 1990—Subsec. (c)(2). Pub. L. 101–650 inserted in second sentence “or not to abstain” after “to abstain” and “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title” before period at end.
 
@@ -638,7 +638,7 @@ Subsec. (e). Pub. L. 103–394, § 104(b)(1), redesignated subsec. (d) as (e).
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title III, § 324(b), Apr. 20, 2005, 119 Stat. 98, provided that: “This section [amending this section] shall only apply to cases filed after the date of enactment of this Act [Apr. 20, 2005].”
+Pub. L. 109–8, title III, § 324(b), Apr. 20, 2005, 119 Stat. 98, provided that: “This section [amending this section] shall only apply to cases filed after the date of enactment of this Act [Apr. 20, 2005].”
 
 Amendment by sections 802(c)(2) and 1219 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
@@ -656,7 +656,7 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, except that subsec. (c)(2
 
 **Jurisdiction Over and Transfer of Bankruptcy Cases and Proceedings**
 
-Pub. L. 98–353, title I, § 115, July 10, 1984, 98 Stat. 343, provided that:
+Pub. L. 98–353, title I, § 115, July 10, 1984, 98 Stat. 343, provided that:
 
 > **“(a)** On the date of the enactment of this Act [July 10, 1984] the appropriate district court of the United States shall have jurisdiction of—
 
@@ -666,7 +666,7 @@ Pub. L. 98–353, title I, § 115, July 10, 1984, 98 Stat. 343, provided that:
 
 > **“(b)** On the date of the enactment of this Act [July 10, 1984], there shall be transferred to the appropriate district court of the United States appeals from final judgments, orders, and decrees of the bankruptcy courts pending immediately before such date in the bankruptcy appellate panels appointed under section 405(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2685) [formerly set out as a note preceding section 1471 of this title].”
 
-## § 1335. Interpleader
+## § 1335. Interpleader
 
 **(a)** The district courts shall have original jurisdiction of any civil action of interpleader or in the nature of interpleader filed by any person, firm, or corporation, association, or society having in his or its custody or possession money or property of the value of $500 or more, or having issued a note, bond, certificate, policy of insurance, or other instrument of value or amount of $500 or more, or providing for the delivery or payment or the loan of money or property of such amount or value, or being under any obligation written or unwritten to the amount of $500 or more, if
 
@@ -674,11 +674,11 @@ Pub. L. 98–353, title I, § 115, July 10, 1984, 98 Stat. 343, provided that:
 
 **(b)** Such an action may be entertained although the titles or claims of the conflicting claimants do not have a common origin, or are not identical, but are adverse to and independent of one another.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 109–2, § 4(b)(1), Feb. 18, 2005, 119 Stat. 12.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 109–2, § 4(b)(1), Feb. 18, 2005, 119 Stat. 12.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(26) (Mar. 3, 1911, ch. 231, § 24, par. 26, as added Jan. 20, 1936, ch. 13, § 1, 49 Stat. 1096).
+Based on title 28, U.S.C., 1940 ed., § 41(26) (Mar. 3, 1911, ch. 231, § 24, par. 26, as added Jan. 20, 1936, ch. 13, § 1, 49 Stat. 1096).
 
 Words “civil action” were substituted for “suits in equity”; word “plaintiff” was substituted for “complainant”; and word “judgment” was substituted for “decree,” in order to make the language of this section conform with the Federal Rules of Civil Procedure.
 
@@ -704,7 +704,7 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 109–2 applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as a note under section 1332 of this title.
 
-## § 1336. Surface Transportation Board’s orders
+## § 1336. Surface Transportation Board’s orders
 
 **(a)** Except as otherwise provided by Act of Congress, the district courts shall have jurisdiction of any civil action to enforce, in whole or in part, any order of the Surface Transportation Board, and to enjoin or suspend, in whole or in part, any order of the Surface Transportation Board for the payment of money or the collection of fines, penalties, and forfeitures.
 
@@ -712,11 +712,11 @@ Amendment by Pub. L. 109–2 applicable to any civil action commenced on or afte
 
 **(c)** Any action brought under subsection (b) of this section shall be filed within 90 days from the date that the order of the Surface Transportation Board becomes final.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 88–513, § 1, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, § 1, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, § 128, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–88, title III, § 305(a)(1), (2), Dec. 29, 1995, 109 Stat. 944.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 88–513, § 1, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, § 1, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, § 128, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–88, title III, § 305(a)(1), (2), Dec. 29, 1995, 109 Stat. 944.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(27), (28) (Mar. 3, 1911, ch. 231, §§ 24(27), (28), 207, 36 Stat. 1091, 1148; Oct. 22, 1913, ch. 32, 38 Stat. 219).
+Based on title 28, U.S.C., 1940 ed., § 41(27), (28) (Mar. 3, 1911, ch. 231, §§ 24(27), (28), 207, 36 Stat. 1091, 1148; Oct. 22, 1913, ch. 32, 38 Stat. 219).
 
 Words “Except as otherwise provided by enactment of Congress” were inserted because of certain similar cases of which the courts of appeals are given jurisdiction. (See, for example, section 21 of title 15, U.S.C., 1940 ed., Commerce and Trade.)
 
@@ -756,7 +756,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under section 2321 of this title.
 
-## § 1337. Commerce and antitrust regulations; amount in controversy, costs
+## § 1337. Commerce and antitrust regulations; amount in controversy, costs
 
 **(a)** The district courts shall have original jurisdiction of any civil action or proceeding arising under any Act of Congress regulating commerce or protecting trade and commerce against restraints and monopolies: *Provided, however*, That the district courts shall have original jurisdiction of an action brought under section 11706 or 14706 of title 49, only if the matter in controversy for each receipt or bill of lading exceeds $10,000, exclusive of interest and costs.
 
@@ -764,11 +764,11 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 
 **(c)** The district courts shall not have jurisdiction under this section of any matter within the exclusive jurisdiction of the Court of International Trade under chapter 95 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–486, § 9(a), Oct. 20, 1978, 92 Stat. 1633; Pub. L. 96–417, title V, § 505, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–449, § 5(f), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 104–88, title III, § 305(a)(3), Dec. 29, 1995, 109 Stat. 944.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–486, § 9(a), Oct. 20, 1978, 92 Stat. 1633; Pub. L. 96–417, title V, § 505, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–449, § 5(f), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 104–88, title III, § 305(a)(3), Dec. 29, 1995, 109 Stat. 944.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(8), (23) (Mar. 3, 1911, ch. 231, § 24, pars. 8, 23, 36 Stat. 1092, 1093; Oct. 22, 1913, ch. 32, 38 Stat. 219).
+Based on title 28, U.S.C., 1940 ed., § 41(8), (23) (Mar. 3, 1911, ch. 231, § 24, pars. 8, 23, 36 Stat. 1092, 1093; Oct. 22, 1913, ch. 32, 38 Stat. 219).
 
 Words “civil action” were substituted for “suits”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -796,7 +796,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-## § 1338. Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition
+## § 1338. Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition
 
 **(a)** The district courts shall have original jurisdiction of any civil action arising under any Act of Congress relating to patents, plant variety protection, copyrights and trademarks. No State court shall have jurisdiction over any claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights. For purposes of this subsection, the term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
@@ -804,11 +804,11 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 **(c)** Subsections (a) and (b) apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 91–577, title III, § 143(b), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 100–702, title X, § 1020(a)(4), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 105–304, title V, § 503(b)(1), (2)(A), Oct. 28, 1998, 112 Stat. 2917; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3009(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 112–29, § 19(a), Sept. 16, 2011, 125 Stat. 331.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 91–577, title III, § 143(b), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 100–702, title X, § 1020(a)(4), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 105–304, title V, § 503(b)(1), (2)(A), Oct. 28, 1998, 112 Stat. 2917; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3009(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 112–29, § 19(a), Sept. 16, 2011, 125 Stat. 331.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(7) and 371(5) (Mar. 3, 1911, ch. 231, §§ 24, par. 7, 256, par. 5, 36 Stat. 1092, 1160).
+Based on title 28, U.S.C., 1940 ed., §§ 41(7) and 371(5) (Mar. 3, 1911, ch. 231, §§ 24, par. 7, 256, par. 5, 36 Stat. 1092, 1160).
 
 Section consolidates section 41(7) with section 371 (5) of title 28, U.S.C., 1940 ed., with necessary changes in phraseology.
 
@@ -828,13 +828,13 @@ Subsection (b) is added and is intended to avoid “piecemeal” litigation to e
 
 1999—Pub. L. 106–113 substituted “trademarks” for “trade-marks” in section catchline and subsec. (a) and substituted “trademark” for “trade-mark” in subsec. (b).
 
-1998—Pub. L. 105–304, § 503(b)(2)(A), inserted “designs,” after “mask works,” in section catchline.
+1998—Pub. L. 105–304, § 503(b)(2)(A), inserted “designs,” after “mask works,” in section catchline.
 
-Subsec. (c). Pub. L. 105–304, § 503(b)(1), inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
+Subsec. (c). Pub. L. 105–304, § 503(b)(1), inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
 
-1988—Pub. L. 100–702, § 1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
+1988—Pub. L. 100–702, § 1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
 
-Subsec. (c). Pub. L. 100–702, § 1020(a)(4)(A), added subsec. (c).
+Subsec. (c). Pub. L. 100–702, § 1020(a)(4)(A), added subsec. (c).
 
 1970—Pub. L. 91–577 inserted references to “plant variety protection” in section catchline and in subsecs. (a) and (b).
 
@@ -848,7 +848,7 @@ Amendment by Pub. L. 112–29 applicable to any civil action commenced on or aft
 
 Amendment by Pub. L. 91–577 effective Dec. 24, 1970, see section 141 of Pub. L. 91–577, set out as an Effective Date note under section 2321 of Title 7, Agriculture.
 
-## § 1339. Postal matters
+## § 1339. Postal matters
 
 The district courts shall have original jurisdiction of any civil action arising under any Act of Congress relating to the postal service.
 
@@ -856,19 +856,19 @@ The district courts shall have original jurisdiction of any civil action arising
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(6) (Mar. 3, 1911, ch. 231, § 24, par. 6, 36 Stat. 1092).
+Based on title 28, U.S.C., 1940 ed., § 41(6) (Mar. 3, 1911, ch. 231, § 24, par. 6, 36 Stat. 1092).
 
 Changes were made in phraseology.
 
-## § 1340. Internal revenue; customs duties
+## § 1340. Internal revenue; customs duties
 
 The district courts shall have original jurisdiction of any civil action arising under any Act of Congress providing for internal revenue, or revenue from imports or tonnage except matters within the jurisdiction of the Court of International Trade.
 
-(June 25, 1948, ch. 646, 62 Stat. 932; Pub. L. 96–417, title V, § 501(21), Oct. 10, 1980, 94 Stat. 1742.)
+(June 25, 1948, ch. 646, 62 Stat. 932; Pub. L. 96–417, title V, § 501(21), Oct. 10, 1980, 94 Stat. 1742.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(5) (Mar. 3, 1911, ch. 231, § 24, par. 5, 36 Stat. 1092; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475).
+Based on title 28, U.S.C., 1940 ed., § 41(5) (Mar. 3, 1911, ch. 231, § 24, par. 5, 36 Stat. 1092; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475).
 
 Words “Customs Court” were substituted for “Court of Customs and Patent Appeals.” Section 41(5) of title 28, U.S.C., 1940 ed., is based on the Judicial Code of 1911. At that time the only court, other than the district courts, having jurisdiction of customs cases, was the Court of Customs Appeals which became the Court of Customs and Patent Appeals in 1929. The Customs Court was created in 1926 as a court of original jurisdiction over customs cases. (See reviser’s note preceding section 251 of this title.)
 
@@ -888,7 +888,7 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-## § 1341. Taxes by States
+## § 1341. Taxes by States
 
 The district courts shall not enjoin, suspend or restrain the assessment, levy or collection of any tax under State law where a plain, speedy and efficient remedy may be had in the courts of such State.
 
@@ -896,7 +896,7 @@ The district courts shall not enjoin, suspend or restrain the assessment, levy o
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
 This section restates the last sentence of section 41(1) of title 28, U.S.C., 1940 ed.
 
@@ -908,7 +908,7 @@ Words “civil action” were substituted for “suit” in view of Rule 2 of th
 
 Words “under State law” were substituted for “imposed by or pursuant to the laws of any State” for the same reason.
 
-## § 1342. Rate orders of State agencies
+## § 1342. Rate orders of State agencies
 
 The district courts shall not enjoin, suspend or restrain the operation of, or compliance with, any order affecting rates chargeable by a public utility and made by a State administrative agency or a rate-making body of a State political subdivision, where:
 
@@ -924,7 +924,7 @@ The district courts shall not enjoin, suspend or restrain the operation of, or c
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
 This section rearranges and restates the fourth sentence of section 41(1) of title 28, U.S.C., 1940 ed.
 
@@ -936,7 +936,7 @@ Words “civil action” were substituted for “suit,” in view of Rule 2 of t
 
 Word “operation” was substituted for “enforcement, operation or execution” for the same reason.
 
-## § 1343. Civil rights and elective franchise
+## § 1343. Civil rights and elective franchise
 
 **(a)** The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person:
 
@@ -954,11 +954,11 @@ Word “operation” was substituted for “enforcement, operation or execution�
 
 **(2)** any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.
 
-(June 25, 1948, ch. 646, 62 Stat. 932; Sept. 3, 1954, ch. 1263, § 42, 68 Stat. 1241; Pub. L. 85–315, part III, § 121, Sept. 9, 1957, 71 Stat. 637; Pub. L. 96–170, § 2, Dec. 29, 1979, 93 Stat. 1284.)
+(June 25, 1948, ch. 646, 62 Stat. 932; Sept. 3, 1954, ch. 1263, § 42, 68 Stat. 1241; Pub. L. 85–315, part III, § 121, Sept. 9, 1957, 71 Stat. 637; Pub. L. 96–170, § 2, Dec. 29, 1979, 93 Stat. 1284.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(12), (13), and (14) (Mar. 3, 1911, ch. 231, § 24, pars. 12, 13, 14, 36 Stat. 1092).
+Based on title 28, U.S.C., 1940 ed., § 41(12), (13), and (14) (Mar. 3, 1911, ch. 231, § 24, pars. 12, 13, 14, 36 Stat. 1092).
 
 Words “civil action” were substituted for “suits,” “suits at law or in equity” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -978,9 +978,9 @@ Numerous changes were made in arrangement and phraseology.
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–170, § 3, Dec. 29, 1979, 93 Stat. 1284, provided that: “The amendments made by this Act [amending this section and section 1983 of Title 42, The Public Health and Welfare] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act [Dec. 29, 1979].”
+Pub. L. 96–170, § 3, Dec. 29, 1979, 93 Stat. 1284, provided that: “The amendments made by this Act [amending this section and section 1983 of Title 42, The Public Health and Welfare] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act [Dec. 29, 1979].”
 
-## § 1344. Election disputes
+## § 1344. Election disputes
 
 The district courts shall have original jurisdiction of any civil action to recover possession of any office, except that of elector of President or Vice President, United States Senator, Representative in or delegate to Congress, or member of a state legislature, authorized by law to be commenced, where in it appears that the sole question touching the title to office arises out of denial of the right to vote, to any citizen offering to vote, on account of race, color or previous condition of servitude.
 
@@ -990,7 +990,7 @@ The jurisdiction under this section shall extend only so far as to determine the
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(15) (Mar. 3, 1911, ch. 231, § 24, par. 15, 36 Stat. 1092).
+Based on title 28, U.S.C., 1940 ed., § 41(15) (Mar. 3, 1911, ch. 231, § 24, par. 15, 36 Stat. 1092).
 
 Words “civil action” were substituted for “suits,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -998,7 +998,7 @@ Words “United States Senator” were added, as no reason appears for including
 
 Changes were made in phraseology.
 
-## § 1345. United States as plaintiff
+## § 1345. United States as plaintiff
 
 Except as otherwise provided by Act of Congress, the district courts shall have original jurisdiction of all civil actions, suits or proceedings commenced by the United States, or by any agency or officer thereof expressly authorized to sue by Act of Congress.
 
@@ -1006,7 +1006,7 @@ Except as otherwise provided by Act of Congress, the district courts shall have 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
 Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1332, 1341, 1342, 1354, and 1359 of this title.
 
@@ -1018,7 +1018,7 @@ The phrase “Except as otherwise provided by Act of Congress,” at the beginni
 
 Changes were made in phraseology.
 
-## § 1346. United States as defendant
+## § 1346. United States as defendant
 
 **(a)** The district courts shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of:
 
@@ -1042,13 +1042,13 @@ Changes were made in phraseology.
 
 **(g)** Subject to the provisions of chapter 179, the district courts of the United States shall have exclusive jurisdiction over any civil action commenced under section 453(2) of title 3, by a covered employee under chapter 5 of such title.
 
-(June 25, 1948, ch. 646, 62 Stat. 933; Apr. 25, 1949, ch. 92, § 2(a), 63 Stat. 62; May 24, 1949, ch. 139, § 80(a), (b), 63 Stat. 101; Oct. 31, 1951, ch. 655, § 50(b), 65 Stat. 727; July 30, 1954, ch. 648, § 1, 68 Stat. 589; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 88–519, Aug. 30, 1964, 78 Stat. 699; Pub. L. 89–719, title II, § 202(a), Nov. 2, 1966, 80 Stat. 1148; Pub. L. 91–350, § 1(a), July 23, 1970, 84 Stat. 449; Pub. L. 92–562, § 1, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 94–455, title XII, § 1204(c)(1), title XIII, § 1306(b)(7), Oct. 4, 1976, 90 Stat. 1697, 1719; Pub. L. 95–563, § 14(a), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 97–164, title I, § 129, Apr. 2, 1982, 96 Stat. 39; Pub. L. 97–248, title IV, § 402(c)(17), Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 806], Apr. 26, 1996, 110 Stat. 1321, 1321–75; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–331, § 3(b)(1), Oct. 26, 1996, 110 Stat. 4069; Pub. L. 111–350, § 5(g)(6), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 113–4, title XI, § 1101(b), Mar. 7, 2013, 127 Stat. 134.)
+(June 25, 1948, ch. 646, 62 Stat. 933; Apr. 25, 1949, ch. 92, § 2(a), 63 Stat. 62; May 24, 1949, ch. 139, § 80(a), (b), 63 Stat. 101; Oct. 31, 1951, ch. 655, § 50(b), 65 Stat. 727; July 30, 1954, ch. 648, § 1, 68 Stat. 589; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 88–519, Aug. 30, 1964, 78 Stat. 699; Pub. L. 89–719, title II, § 202(a), Nov. 2, 1966, 80 Stat. 1148; Pub. L. 91–350, § 1(a), July 23, 1970, 84 Stat. 449; Pub. L. 92–562, § 1, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 94–455, title XII, § 1204(c)(1), title XIII, § 1306(b)(7), Oct. 4, 1976, 90 Stat. 1697, 1719; Pub. L. 95–563, § 14(a), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 97–164, title I, § 129, Apr. 2, 1982, 96 Stat. 39; Pub. L. 97–248, title IV, § 402(c)(17), Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 806], Apr. 26, 1996, 110 Stat. 1321, 1321–75; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–331, § 3(b)(1), Oct. 26, 1996, 110 Stat. 4069; Pub. L. 111–350, § 5(g)(6), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 113–4, title XI, § 1101(b), Mar. 7, 2013, 127 Stat. 134.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(20), 931(a), 932 (Mar. 3, 1911, ch. 231, § 24, par. 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, § 1310(c), 42 Stat. 311; June 2, 1924, ch. 234, § 1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972; Feb. 26, 1926, ch. 27, §§ 1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, §§ 410(a), 411, 60 Stat. 843).
+Based on title 28, U.S.C., 1940 ed., §§ 41(20), 931(a), 932 (Mar. 3, 1911, ch. 231, § 24, par. 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, § 1310(c), 42 Stat. 311; June 2, 1924, ch. 234, § 1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972; Feb. 26, 1926, ch. 27, §§ 1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, §§ 410(a), 411, 60 Stat. 843).
 
 Section consolidates provisions of section 41(20) conferring jurisdiction upon the district court, in civil actions against the United States, with the first sentence of section 931(a) relating to jurisdiction of the district courts in tort claims cases, and those provisions of section 932 making the provisions of said section 41(20), relating to counterclaim and set-off, applicable to tort claims cases, all of title 28, U.S.C., 1940 ed.
 
@@ -1072,7 +1072,7 @@ The words “in a civil action or in admiralty,” in subsection (a)(2), were su
 
 Words in section 41(20) “in respect to which claims the party would be entitled to redress against the United States, either in a court of law, equity, or admiralty, if the United States were suable” were omitted from subsection (a)(2) of this revised section as unnecessary. See reviser’s note under section 1491 of this title.
 
-For jurisdiction of The Tax Court to review claims for refunds of processing taxes collected under the unconstitutional Agriculture Adjustment Act, see sections 644–659 of title 7, U.S.C., 1940 ed., Agriculture, and the 1942 Revenue Act, Act Oct. 21, 1942, ch. 610, title V, § 510(a), (c), (d), 56 Stat. 667. (See, also, *Lamborn v. United States*, C.C.P.A. 1939, 104 F.2d 75, certiorari denied 60 S.Ct. 115, 308 U.S. 589, 84 L.Ed. 493.)
+For jurisdiction of The Tax Court to review claims for refunds of processing taxes collected under the unconstitutional Agriculture Adjustment Act, see sections 644–659 of title 7, U.S.C., 1940 ed., Agriculture, and the 1942 Revenue Act, Act Oct. 21, 1942, ch. 610, title V, § 510(a), (c), (d), 56 Stat. 667. (See, also, *Lamborn v. United States*, C.C.P.A. 1939, 104 F.2d 75, certiorari denied 60 S.Ct. 115, 308 U.S. 589, 84 L.Ed. 493.)
 
 See, also, reviser’s note under section 1491 of this title as to jurisdiction of the Court of Claims in suits against the United States generally. For venue of actions under this section, see section 1402 of this title and reviser’s note thereunder.
 
@@ -1080,7 +1080,7 @@ Minor changes were made in phraseology.
 
 **Senate Revision Amendment**
 
-The provision of title 28, U.S.C., § 932, which related to application of the Federal Rules of Civil Procedure, were originally set out in section 2676 of this revised title, but such section 2676 was eliminated by Senate amendment. See 80th Congress Senate Report No. 1559, amendment No. 61.
+The provision of title 28, U.S.C., § 932, which related to application of the Federal Rules of Civil Procedure, were originally set out in section 2676 of this revised title, but such section 2676 was eliminated by Senate amendment. See 80th Congress Senate Report No. 1559, amendment No. 61.
 
 **1949 Act**
 
@@ -1090,7 +1090,7 @@ This section corrects typographical errors in section 1346(a)(1) of title 28, U.
 
 **References in Text**
 
-Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 1986, referred to in subsec. (e), are classified to sections 6226, 6228(a), 7426, 7428, and 7429, respectively, of Title 26, Internal Revenue Code. Section 6226 of Title 26 was repealed and reenacted by Pub. L. 114–74, title XI, § 1101(a), (c)(1), Nov. 2, 2015, 129 Stat. 625, 630, and as so reenacted no longer relates to judicial review, see section 6234 of Title 26. Section 6228 of Title 26 was repealed by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
+Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 1986, referred to in subsec. (e), are classified to sections 6226, 6228(a), 7426, 7428, and 7429, respectively, of Title 26, Internal Revenue Code. Section 6226 of Title 26 was repealed and reenacted by Pub. L. 114–74, title XI, § 1101(a), (c)(1), Nov. 2, 2015, 129 Stat. 625, 630, and as so reenacted no longer relates to judicial review, see section 6234 of Title 26. Section 6228 of Title 26 was repealed by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 **Amendments**
 
@@ -1128,9 +1128,9 @@ Subsec. (e). Pub. L. 97–248 substituted “section 6226, 6228(a), 7426, or” 
 
 1951—Subsec. (d). Act Oct. 31, 1951, inserted references to “claim” and “employees”.
 
-1949—Subsec. (a)(1). Act May 24, 1949, § 80(a), inserted “, (i) if the claim does not exceed $10,000 or (ii)”.
+1949—Subsec. (a)(1). Act May 24, 1949, § 80(a), inserted “, (i) if the claim does not exceed $10,000 or (ii)”.
 
-Subsec. (b). Acts Apr. 25, 1949, and May 24, 1949, § 80(b), made a technical change to correct “chapter 173” to read “chapter 171”, and inserted “on and after January 1, 1945” after “for money damages”.
+Subsec. (b). Acts Apr. 25, 1949, and May 24, 1949, § 80(b), made a technical change to correct “chapter 173” to read “chapter 171”, and inserted “on and after January 1, 1945” after “for money damages”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1154,7 +1154,7 @@ Amendment by Pub. L. 95–563 effective with respect to contracts entered into 1
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–350, § 2, July 23, 1970, 84 Stat. 449, provided that:
+Pub. L. 91–350, § 2, July 23, 1970, 84 Stat. 449, provided that:
 
 > **“(a)** In addition to granting jurisdiction over suits brought after the date of enactment of this Act [July 23, 1970], the provisions of this Act [amending this section and section 1491 of this title and section 724a of former Title 31, Money and Finance] shall also apply to claims and civil actions dismissed before or pending on the date of enactment of this Act if the claim or civil action is based upon a transaction, omission, or breach that occurred not more than six years prior to the date of enactment of this Act [July 23, 1970].
 
@@ -1162,7 +1162,7 @@ Pub. L. 91–350, § 2, July 23, 1970, 84 Stat. 449, provided that:
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–719, title II, § 203, Nov. 2, 1966, 80 Stat. 1149, provided that: “The amendments made by this title [amending this section and sections 1402 and 2410 of this title] shall apply after the date of the enactment of this Act [Nov. 2, 1966].”
+Pub. L. 89–719, title II, § 203, Nov. 2, 1966, 80 Stat. 1149, provided that: “The amendments made by this title [amending this section and sections 1402 and 2410 of this title] shall apply after the date of the enactment of this Act [Nov. 2, 1966].”
 
 **Effective Date of 1958 Amendment**
 
@@ -1176,7 +1176,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-## § 1347. Partition action where United States is joint tenant
+## § 1347. Partition action where United States is joint tenant
 
 The district courts shall have original jurisdiction of any civil action commenced by any tenant in common or joint tenant for the partition of lands where the United States is one of the tenants in common or joint tenants.
 
@@ -1184,7 +1184,7 @@ The district courts shall have original jurisdiction of any civil action commenc
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(25) (Mar. 3, 1911, ch. 231, § 24, par. 25, 36 Stat. 1094).
+Based on title 28, U.S.C., 1940 ed., § 41(25) (Mar. 3, 1911, ch. 231, § 24, par. 25, 36 Stat. 1094).
 
 The venue provision in section 41(25) of title 28, U.S.C., 1940 ed., is incorporated in section 1399 of this title.
 
@@ -1192,7 +1192,7 @@ Words “civil action” were substituted for “suits in equity,” in view of 
 
 A change was made in phraseology.
 
-## § 1348. Banking association as party
+## § 1348. Banking association as party
 
 The district courts shall have original jurisdiction of any civil action commenced by the United States, or by direction of any officer thereof, against any national banking association, any civil action to wind up the affairs of any such association, and any action by a banking association established in the district for which the court is held, under chapter 2 of Title 12, to enjoin the Comptroller of the Currency, or any receiver acting under his direction, as provided by such chapter.
 
@@ -1202,7 +1202,7 @@ All national banking associations shall, for the purposes of all other actions b
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(16) (Mar. 3, 1911, ch. 231, § 24, par. 16, 36 Stat. 1092).
+Based on title 28, U.S.C., 1940 ed., § 41(16) (Mar. 3, 1911, ch. 231, § 24, par. 16, 36 Stat. 1092).
 
 Words “any civil action” were substituted for “all cases,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -1212,9 +1212,9 @@ Words “real, personal, or mixed, and all suits in equity,” after “all othe
 
 **Exception as to Transfer of Functions**
 
-Functions vested by any provision of law in the Comptroller of the Currency, referred to in this section, were not included in the transfer of functions of officers, agencies and employees of the Department of the Treasury to the Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
+Functions vested by any provision of law in the Comptroller of the Currency, referred to in this section, were not included in the transfer of functions of officers, agencies and employees of the Department of the Treasury to the Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
 
-## § 1349. Corporation organized under federal law as party
+## § 1349. Corporation organized under federal law as party
 
 The district courts shall not have jurisdiction of any civil action by or against any corporation upon the ground that it was incorporated by or under an Act of Congress, unless the United States is the owner of more than one-half of its capital stock.
 
@@ -1222,13 +1222,13 @@ The district courts shall not have jurisdiction of any civil action by or agains
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 42 (Feb. 13, 1925, ch. 229, § 12, 43 Stat. 941).
+Based on title 28, U.S.C., 1940 ed., § 42 (Feb. 13, 1925, ch. 229, § 12, 43 Stat. 941).
 
 Words “civil action” were substituted for “action or suit,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
 Minor changes were made in phraseology.
 
-## § 1350. Alien’s action for tort
+## § 1350. Alien’s action for tort
 
 The district courts shall have original jurisdiction of any civil action by an alien for a tort only, committed in violation of the law of nations or a treaty of the United States.
 
@@ -1236,7 +1236,7 @@ The district courts shall have original jurisdiction of any civil action by an a
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(17) (Mar. 3, 1911, ch. 231, § 24, par. 17, 36 Stat. 1093).
+Based on title 28, U.S.C., 1940 ed., § 41(17) (Mar. 3, 1911, ch. 231, § 24, par. 17, 36 Stat. 1093).
 
 Words “civil action” were substituted for “suits,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -1282,7 +1282,7 @@ Pub. L. 102–256, Mar. 12, 1992, 106 Stat. 73, provided that:
 
 > **“(D)** the threat that another individual will imminently be subjected to death, severe physical pain or suffering, or the administration or application of mind altering substances or other procedures calculated to disrupt profoundly the senses or personality.”
 
-## § 1351. Consuls, vice consuls, and members of a diplomatic mission as defendant
+## § 1351. Consuls, vice consuls, and members of a diplomatic mission as defendant
 
 The district courts shall have original jurisdiction, exclusive of the courts of the States, of all civil actions and proceedings against—
 
@@ -1290,11 +1290,11 @@ The district courts shall have original jurisdiction, exclusive of the courts of
 
 **(2)** members of a mission or members of their families (as such terms are defined in section 2 of the Diplomatic Relations Act).
 
-(June 25, 1948, ch. 646, 62 Stat. 934; May 24, 1949, ch. 139, § 80(c), 63 Stat. 101; Pub. L. 95–393, § 8(a)(1), Sept. 30, 1978, 92 Stat. 810.)
+(June 25, 1948, ch. 646, 62 Stat. 934; May 24, 1949, ch. 139, § 80(c), 63 Stat. 101; Pub. L. 95–393, § 8(a)(1), Sept. 30, 1978, 92 Stat. 810.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(18), 371(8) (Mar. 3, 1911, ch. 231, §§ 24, par. 18, 256, par. 8, 36 Stat. 1093, 1160).
+Based on title 28, U.S.C., 1940 ed., §§ 41(18), 371(8) (Mar. 3, 1911, ch. 231, §§ 24, par. 18, 256, par. 8, 36 Stat. 1093, 1160).
 
 Words “civil action” were substituted for “suits,” and “all suits and proceedings” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -1318,11 +1318,11 @@ Section 2 of the Diplomatic Relations Act, referred to in par. (2), is classifie
 
 Amendment by Pub. L. 95–393 effective at end of ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
 
-## § 1352. Bonds executed under federal law
+## § 1352. Bonds executed under federal law
 
 The district courts shall have original jurisdiction, concurrent with State courts, of any action on a bond executed under any law of the United States, except matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 934; Pub. L. 96–417, title V, § 506, Oct. 10, 1980, 94 Stat. 1743.)
+(June 25, 1948, ch. 646, 62 Stat. 934; Pub. L. 96–417, title V, § 506, Oct. 10, 1980, 94 Stat. 1743.)
 
 **Historical and Revision Notes**
 
@@ -1340,7 +1340,7 @@ This section is necessary to permit actions in the district courts upon any bond
 
 Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(B) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-## § 1353. Indian allotments
+## § 1353. Indian allotments
 
 The district courts shall have original jurisdiction of any civil action involving the right of any person, in whole or in part of Indian blood or descent, to any allotment of land under any Act of Congress or treaty.
 
@@ -1350,7 +1350,7 @@ The judgment in favor of any claimant to an allotment of land shall have the sam
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(24) (Mar. 3, 1911, ch. 231, § 24, par. 24, 36 Stat. 1094; Dec. 21, 1911, ch. 5, 37 Stat. 46).
+Based on title 28, U.S.C., 1940 ed., § 41(24) (Mar. 3, 1911, ch. 231, § 24, par. 24, 36 Stat. 1094; Dec. 21, 1911, ch. 5, 37 Stat. 46).
 
 Words “any civil action” were substituted for “all actions, suits, or proceedings,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -1358,7 +1358,7 @@ The sentence “The right of appeal shall be allowed to either party as in other
 
 Changes in phraseology were made.
 
-## § 1354. Land grants from different states
+## § 1354. Land grants from different states
 
 The district courts shall have original jurisdiction of actions between citizens of the same state claiming lands under grants from different states.
 
@@ -1366,13 +1366,13 @@ The district courts shall have original jurisdiction of actions between citizens
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+Based on title 28, U.S.C., 1940 ed., § 41(1) (Mar. 3, 1911, ch. 231, § 24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
 Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1332, 1341, 1342, 1345, and 1359 of this title.
 
 Changes were made in phraseology.
 
-## § 1355. Fine, penalty or forfeiture
+## § 1355. Fine, penalty or forfeiture
 
 **(a)** The district courts shall have original jurisdiction, exclusive of the courts of the States, of any action or proceeding for the recovery or enforcement of any fine, penalty, or forfeiture, pecuniary or otherwise, incurred under any Act of Congress, except matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
@@ -1384,9 +1384,9 @@ Changes were made in phraseology.
 
 **(B)** any other district where venue for the forfeiture action or proceeding is specifically provided for in section 1395 of this title or any other statute.
 
-**(2)** Whenever property subject to forfeiture under the laws of the United States is located in a foreign country, or has been detained or seized pursuant to legal process or competent authority of a foreign government, an action or proceeding for forfeiture may be brought as provided in paragraph (1), or in the United States District court 1
+**(2)** Whenever property subject to forfeiture under the laws of the United States is located in a foreign country, or has been detained or seized pursuant to legal process or competent authority of a foreign government, an action or proceeding for forfeiture may be brought as provided in paragraph (1), or in the United States District court 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 for the District of Columbia.
 
@@ -1394,11 +1394,11 @@ for the District of Columbia.
 
 **(d)** Any court with jurisdiction over a forfeiture action pursuant to subsection (b) may issue and cause to be served in any other district such process as may be required to bring before the court the property that is the subject of the forfeiture action.
 
-(June 25, 1948, ch. 646, 62 Stat. 934; Pub. L. 96–417, title V, § 507, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 102–550, title XV, § 1521, Oct. 28, 1992, 106 Stat. 4062.)
+(June 25, 1948, ch. 646, 62 Stat. 934; Pub. L. 96–417, title V, § 507, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 102–550, title XV, § 1521, Oct. 28, 1992, 106 Stat. 4062.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(9) and 371(2) (Mar. 3, 1911, ch. 231, §§ 24, par. 9, 256, par. 2, 36 Stat. 1092, 1160).
+Based on title 28, U.S.C., 1940 ed., §§ 41(9) and 371(2) (Mar. 3, 1911, ch. 231, §§ 24, par. 9, 256, par. 2, 36 Stat. 1092, 1160).
 
 Word “fine” was inserted so that this section will apply to the many provisions in the United States Code for fines which are essentially civil. (See, also, section 2461 of this title and reviser’s note thereunder.)
 
@@ -1420,15 +1420,15 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(B) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-## § 1356. Seizures not within admiralty and maritime jurisdiction
+## § 1356. Seizures not within admiralty and maritime jurisdiction
 
 The district courts shall have original jurisdiction, exclusive of the courts of the States, of any seizure under any law of the United States on land or upon waters not within admiralty and maritime jurisdiction, except matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 934; Pub. L. 96–417, title V, § 508, Oct. 10, 1980, 94 Stat. 1743.)
+(June 25, 1948, ch. 646, 62 Stat. 934; Pub. L. 96–417, title V, § 508, Oct. 10, 1980, 94 Stat. 1743.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(3) and 371(4) (Mar. 3, 1911, ch. 231, §§ 24, par. 3, 256, par. 4, 36 Stat. 1091, 1160; Oct. 6, 1917, ch. 97, § 1, 40 Stat. 395; June 10, 1922, ch. 216, § 1, 42 Stat. 634).
+Based on title 28, U.S.C., 1940 ed., §§ 41(3) and 371(4) (Mar. 3, 1911, ch. 231, §§ 24, par. 3, 256, par. 4, 36 Stat. 1091, 1160; Oct. 6, 1917, ch. 97, § 1, 40 Stat. 395; June 10, 1922, ch. 216, § 1, 42 Stat. 634).
 
 Section consolidates certain provisions of sections 41(3) and 371(4) of title 28, U.S.C., 1940 ed. Other provisions of such sections are incorporated in section 1333 of this title.
 
@@ -1446,7 +1446,7 @@ Changes were made in arrangement and phraseology.
 
 Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(B) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-## § 1357. Injuries under Federal laws
+## § 1357. Injuries under Federal laws
 
 The district courts shall have original jurisdiction of any civil action commenced by any person to recover damages for any injury to his person or property on account of any act done by him, under any Act of Congress, for the protection or collection of any of the revenues, or to enforce the right of citizens of the United States to vote in any State.
 
@@ -1454,13 +1454,13 @@ The district courts shall have original jurisdiction of any civil action commenc
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 41(11) (Mar. 3, 1911, ch. 231, § 24, par. 11, 36 Stat. 1092.)
+Based on title 28, U.S.C., 1940 ed., § 41(11) (Mar. 3, 1911, ch. 231, § 24, par. 11, 36 Stat. 1092.)
 
 Words “any civil action” were substituted for “all suits,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
 Minor changes were made in phraseology.
 
-## § 1358. Eminent domain
+## § 1358. Eminent domain
 
 The district courts shall have original jurisdiction of all proceedings to condemn real estate for the use of the United States or its departments or agencies.
 
@@ -1468,7 +1468,7 @@ The district courts shall have original jurisdiction of all proceedings to conde
 
 **Historical and Revision Notes**
 
-Based on section 257 of title 40, U.S.C., 1940 ed., Public Buildings, Property, and Works (Aug. 1, 1888, ch. 728, § 1, 25 Stat. 357; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
+Based on section 257 of title 40, U.S.C., 1940 ed., Public Buildings, Property, and Works (Aug. 1, 1888, ch. 728, § 1, 25 Stat. 357; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
 
 The venue provisions of section 257 of title 40, U.S.C., 1940 ed., are incorporated in section 1403 of this title.
 
@@ -1476,7 +1476,7 @@ Other provisions of section 257 of title 40, U.S.C., 1940 ed., are retained in s
 
 Changes were made in phraseology.
 
-## § 1359. Parties collusively joined or made
+## § 1359. Parties collusively joined or made
 
 A district court shall not have jurisdiction of a civil action in which any party, by assignment or otherwise, has been improperly or collusively made or joined to invoke the jurisdiction of such court.
 
@@ -1484,7 +1484,7 @@ A district court shall not have jurisdiction of a civil action in which any part
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed. §§ 41(1) and 80 (Mar. 3, 1911, ch. 231, §§ 24(1), 37, 36 Stat. 1091, 1098; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+Based on title 28, U.S.C., 1940 ed. §§ 41(1) and 80 (Mar. 3, 1911, ch. 231, §§ 24(1), 37, 36 Stat. 1091, 1098; May 14, 1934, ch. 283, § 1, 48 Stat. 775; Aug. 21, 1937, ch. 726, § 1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
 Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1332, 1341, 1342, 1345, and 1354 of this title.
 
@@ -1498,7 +1498,7 @@ The revised section changes this clause by confining its application to cases wh
 
 The assignee clause was incorporated in the original Judiciary Act of 1789. Such section 80 was enacted in 1875. The history of the assignee clause “shows clearly that its purpose and effect, at the time of its enactment were to prevent the conferring of jurisdiction on the Federal courts, on grounds of diversity of citizenship, by assignment, in cases where it would not otherwise exist.” (*Sowell v. Federal Reserve Bank*, 1925, 45 S.Ct. 528, 529, 268 U.S. 449, 453, 69 L.Ed. 1041, 1048.) Thus the purpose of the assignee clause was to prevent the manufacture of Federal jurisdiction by the device of assignment. It achieves this purpose only partially. For example, the assignee clause excepts two types of choses in action from its coverage: (1) Foreign bill of exchange; and (2) corporate bearer paper. But this does not prevent the use of assignment of these choses in action to create the necessary diversity or alienage for jurisdictional purposes. Such section 80 does, however, prevent that. (See *Bullard v. City of Cisco*, 1933, 54 S.Ct. 177, 290 U.S. 179, 78 L.Ed. 254, 93 A.L.R. 141.) Its coverage against collusive jurisdiction is unlimited, and its approach is direct. The assignee clause, on the other hand, prevents the bona fide assignee of a chose in action within its terms from resorting to the Federal courts unless there is jurisdiction to support the assignee-plaintiff’s case and a showing that there would have been jurisdiction if the assignor had brought the action in lieu of the assignee-plaintiff. Since the assignee clause deals with the bona fide assignee, there has been much litigation to determine the assignments which should or should not be within the purview of the clause. Thus the courts have thought it advisable to limit the term “chose in action” and exclude from its scope (1) an implied in law duty or promise, and (2) a transfer of a property interest; and to exclude an assignment by operation of law from the coverage of the clause. Intermediate assignments and reassignment also give difficulty.
 
-## § 1360. State civil jurisdiction in actions to which Indians are parties
+## § 1360. State civil jurisdiction in actions to which Indians are parties
 
 **(a)** Each of the States listed in the following table shall have jurisdiction over civil causes of action between Indians or to which Indians are parties which arise in the areas of Indian country listed opposite the name of the State to the same extent that such State has jurisdiction over other civil causes of action, and those civil laws of such State that are of general application to private persons or private property shall have the same force and effect within such Indian country as they have elsewhere within the State:
 
@@ -1515,7 +1515,7 @@ The assignee clause was incorporated in the original Judiciary Act of 1789. Such
 
 **(c)** Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, or community in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
 
-(Added Aug. 15, 1953, ch. 505, § 4, 67 Stat. 589; amended Aug. 24, 1954, ch. 910, § 2, 68 Stat. 795; Pub. L. 85–615, § 2, Aug. 8, 1958, 72 Stat. 545; Pub. L. 95–598, title II, § 239, Nov. 6, 1978, 92 Stat. 2668; Pub. L. 98–353, title I, § 110, July 10, 1984, 98 Stat. 342.)
+(Added Aug. 15, 1953, ch. 505, § 4, 67 Stat. 589; amended Aug. 24, 1954, ch. 910, § 2, 68 Stat. 795; Pub. L. 85–615, § 2, Aug. 8, 1958, 72 Stat. 545; Pub. L. 95–598, title II, § 239, Nov. 6, 1978, 92 Stat. 2668; Pub. L. 98–353, title I, § 110, July 10, 1984, 98 Stat. 342.)
 
 **Editorial Notes**
 
@@ -1537,11 +1537,11 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub
 
 **Amendment of State Constitutions To Remove Legal Impediment; Effective Date**
 
-Act Aug. 15, 1953, ch. 505, § 6, 67 Stat. 590, provided that: “Notwithstanding the provisions of any Enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of this Act [adding this section and section 1162 of Title 18, Crimes and Criminal Procedure]: *Provided*, That the provisions of this Act shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes as the case may be.”
+Act Aug. 15, 1953, ch. 505, § 6, 67 Stat. 590, provided that: “Notwithstanding the provisions of any Enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of this Act [adding this section and section 1162 of Title 18, Crimes and Criminal Procedure]: *Provided*, That the provisions of this Act shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes as the case may be.”
 
 **Consent of United States to Other States To Assume Jurisdiction**
 
-Act Aug. 15, 1953, ch. 505, § 7, 67 Stat. 590, which gave consent of the United States to any other State not having jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in this section and section 1162 of Title 18, Crimes and Criminal Procedure, to assume jurisdiction at such time and in such manner as the people of the State shall, by legislative action, obligate and bind the State to assumption thereof, was repealed by section 403(b) of Pub. L. 90–284, title IV, Apr. 11, 1968, 82 Stat. 79, such repeal not to affect any cession of jurisdiction made pursuant to such section prior to its repeal.
+Act Aug. 15, 1953, ch. 505, § 7, 67 Stat. 590, which gave consent of the United States to any other State not having jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in this section and section 1162 of Title 18, Crimes and Criminal Procedure, to assume jurisdiction at such time and in such manner as the people of the State shall, by legislative action, obligate and bind the State to assumption thereof, was repealed by section 403(b) of Pub. L. 90–284, title IV, Apr. 11, 1968, 82 Stat. 79, such repeal not to affect any cession of jurisdiction made pursuant to such section prior to its repeal.
 
 Retrocession of jurisdiction by State acquired by State pursuant to section 7 of Act Aug. 15, 1953, prior to its repeal, see section 1323 of Title 25, Indians.
 
@@ -1551,23 +1551,23 @@ Retrocession of jurisdiction by State acquired by State pursuant to section 7 of
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 1361. Action to compel an officer of the United States to perform his duty
+## § 1361. Action to compel an officer of the United States to perform his duty
 
 The district courts shall have original jurisdiction of any action in the nature of mandamus to compel an officer or employee of the United States or any agency thereof to perform a duty owed to the plaintiff.
 
-(Added Pub. L. 87–748, § 1(a), Oct. 5, 1962, 76 Stat. 744.)
+(Added Pub. L. 87–748, § 1(a), Oct. 5, 1962, 76 Stat. 744.)
 
-## § 1362. Indian tribes
+## § 1362. Indian tribes
 
 The district courts shall have original jurisdiction of all civil actions, brought by any Indian tribe or band with a governing body duly recognized by the Secretary of the Interior, wherein the matter in controversy arises under the Constitution, laws, or treaties of the United States.
 
-(Added Pub. L. 89–635, § 1, Oct. 10, 1966, 80 Stat. 880.)
+(Added Pub. L. 89–635, § 1, Oct. 10, 1966, 80 Stat. 880.)
 
-## § 1363. Jurors’ employment rights
+## § 1363. Jurors’ employment rights
 
 The district courts shall have original jurisdiction of any civil action brought for the protection of jurors’ employment under section 1875 of this title.
 
-(Added Pub. L. 95–572, § 6(b)(1), Nov. 2, 1978, 92 Stat. 2457.)
+(Added Pub. L. 95–572, § 6(b)(1), Nov. 2, 1978, 92 Stat. 2457.)
 
 **Editorial Notes**
 
@@ -1579,19 +1579,19 @@ A prior section 1363 was renumbered section 1366 of this title.
 
 **Effective Date**
 
-Pub. L. 95–572, § 7, Nov. 2, 1978, 92 Stat. 2457, provided that:
+Pub. L. 95–572, § 7, Nov. 2, 1978, 92 Stat. 2457, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, the amendments made by this Act [enacting this section and section 1875, renumbering section 1363, relating to construction of references to laws of the United States or Acts of Congress, as section 1364, and amending sections 1863, 1865, 1866, 1869, and 1871 of this title] shall apply with respect to any grand or petit juror summoned for service or actually serving on or after the date of enactment of this Act [Nov. 2, 1978].
 
 > **“(b)** The amendment made by section 5 of this Act [amending section 1871 of this title] shall apply with respect to any grand or petit juror serving on or after the sixtieth day following the date of enactment of this Act [Nov. 2, 1978].”
 
-## § 1364. Direct actions against insurers of members of diplomatic missions and their families
+## § 1364. Direct actions against insurers of members of diplomatic missions and their families
 
 **(a)** The district courts shall have original and exclusive jurisdiction, without regard to the amount in controversy, of any civil action commenced by any person against an insurer who by contract has insured an individual, who is, or was at the time of the tortious act or omission, a member of a mission (within the meaning of section 2(3) of the Diplomatic Relations Act (22 U.S.C. 254a(3))) or a member of the family of such a member of a mission, or an individual described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, against liability for personal injury, death, or damage to property.
 
 **(b)** Any direct action brought against an insurer under subsection (a) shall be tried without a jury, but shall not be subject to the defense that the insured is immune from suit, that the insured is an indispensable party, or in the absence of fraud or collusion, that the insured has violated a term of the contract, unless the contract was cancelled before the claim arose.
 
-(Added Pub. L. 95–393, § 7(a), Sept. 30, 1978, 92 Stat. 809; amended Pub. L. 97–241, title II, § 203(b)(4), Aug. 24, 1982, 96 Stat. 291; Pub. L. 100–204, title I, § 138(a), Dec. 22, 1987, 101 Stat. 1347.)
+(Added Pub. L. 95–393, § 7(a), Sept. 30, 1978, 92 Stat. 809; amended Pub. L. 97–241, title II, § 203(b)(4), Aug. 24, 1982, 96 Stat. 291; Pub. L. 100–204, title I, § 138(a), Dec. 22, 1987, 101 Stat. 1347.)
 
 **Editorial Notes**
 
@@ -1601,7 +1601,7 @@ Two other sections 1364 were renumbered sections 1365 and 1366 of this title.
 
 **Amendments**
 
-1987—Subsec. (a). Pub. L. 100–204 inserted “, or was at the time of the tortious act or omission,” after “who is”.
+1987—Subsec. (a). Pub. L. 100–204 inserted “, or was at the time of the tortious act or omission,” after “who is”.
 
 1982—Subsec. (a). Pub. L. 97–241 substituted “within the meaning of section 2(3) of the Diplomatic Relations Act (22 U.S.C. 254a(3))” for “as defined in the Vienna Convention on Diplomatic Relations”.
 
@@ -1609,7 +1609,7 @@ Two other sections 1364 were renumbered sections 1365 and 1366 of this title.
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–204, title I, § 138(b), Dec. 22, 1987, 101 Stat. 1347, provided that: “The amendment made by subsection (a) [amending this section] shall apply to the first tortious act or omission occurring after the date of enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–204, title I, § 138(b), Dec. 22, 1987, 101 Stat. 1347, provided that: “The amendment made by subsection (a) [amending this section] shall apply to the first tortious act or omission occurring after the date of enactment of this Act [Dec. 22, 1987].”
 
 **Effective Date of 1982 Amendment**
 
@@ -1619,13 +1619,13 @@ Amendment by Pub. L. 97–241 effective Oct. 1, 1982, see section 204 of Pub. L.
 
 Section effective at end of ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as a note under section 254a of Title 22, Foreign Relations and Intercourse.
 
-## § 1365. Senate actions
+## § 1365. Senate actions
 
 **(a)** The United States District Court for the District of Columbia shall have original jurisdiction, without regard to the amount in controversy, over any civil action brought by the Senate or any authorized committee or subcommittee of the Senate to enforce, to secure a declaratory judgment concerning the validity of, or to prevent a threatened refusal or failure to comply with, any subpena or order issued by the Senate or committee or subcommittee of the Senate to any entity acting or purporting to act under color or authority of State law or to any natural person to secure the production of documents or other materials of any kind or the answering of any deposition or interrogatory or to secure testimony or any combination thereof. This section shall not apply to an action to enforce, to secure a declaratory judgment concerning the validity of, or to prevent a threatened refusal to comply with, any subpena or order issued to an officer or employee of the executive branch of the Federal Government acting within his or her official capacity, except that this section shall apply if the refusal to comply is based on the assertion of a personal privilege or objection and is not based on a governmental privilege or objection the assertion of which has been authorized by the executive branch of the Federal Government.
 
 **(b)** Upon application by the Senate or any authorized committee or subcommittee of the Senate, the district court shall issue an order to an entity or person refusing, or failing to comply with, or threatening to refuse or not to comply with, a subpena or order of the Senate or committee or subcommittee of the Senate requiring such entity or person to comply forthwith. Any refusal or failure to obey a lawful order of the district court issued pursuant to this section may be held by such court to be a contempt thereof. A contempt proceeding shall be commenced by an order to show cause before the court why the entity or person refusing or failing to obey the court order should not be held in contempt of court. Such contempt proceeding shall be tried by the court and shall be summary in manner. The purpose of sanctions imposed as a result of such contempt proceeding shall be to compel obedience to the order of the court. Process in any such action or contempt proceeding may be served in any judicial district wherein the entity or party refusing, or failing to comply, or threatening to refuse or not to comply, resides, transacts business, or may be found, and subpenas for witnesses who are required to attend such proceeding may run into any other district. Nothing in this section shall confer upon such court jurisdiction to affect by injunction or otherwise the issuance or effect of any subpena or order of the Senate or any committee or subcommittee of the Senate or to review, modify, suspend, terminate, or set aside any such subpena or order. An action, contempt proceeding, or sanction brought or imposed pursuant to this section shall not abate upon adjournment sine die by the Senate at the end of a Congress if the Senate or the committee or subcommittee of the Senate which issued the subpena or order certifies to the court that it maintains its interest in securing the documents, answers, or testimony during such adjournment.
 
-**[(c)** Repealed. Pub. L. 98–620, title IV, § 402(29)(D), Nov. 8, 1984, 98 Stat. 3359.]
+**[(c)** Repealed. Pub. L. 98–620, title IV, § 402(29)(D), Nov. 8, 1984, 98 Stat. 3359.]
 
 **(d)** The Senate or any committee or subcommittee of the Senate commencing and prosecuting a civil action or contempt proceeding under this section may be represented in such action by such attorneys as the Senate may designate.
 
@@ -1633,7 +1633,7 @@ Section effective at end of ninety-day period beginning on Sept. 30, 1978, see s
 
 **(f)** For the purposes of this section the term “committee” includes standing, select, or special committees of the Senate established by law or resolution.
 
-(Added Pub. L. 95–521, title VII, § 705(f)(1), Oct. 26, 1978, 92 Stat. 1879, § 1364; amended Pub. L. 98–620, title IV, § 402(29)(D), Nov. 8, 1984, 98 Stat. 3359; renumbered § 1365, Pub. L. 99–336, § 6(a)(1)(B), June 19, 1986, 100 Stat. 638; Pub. L. 104–292, § 4, Oct. 11, 1996, 110 Stat. 3460.)
+(Added Pub. L. 95–521, title VII, § 705(f)(1), Oct. 26, 1978, 92 Stat. 1879, § 1364; amended Pub. L. 98–620, title IV, § 402(29)(D), Nov. 8, 1984, 98 Stat. 3359; renumbered § 1365, Pub. L. 99–336, § 6(a)(1)(B), June 19, 1986, 100 Stat. 638; Pub. L. 104–292, § 4, Oct. 11, 1996, 110 Stat. 3460.)
 
 **Editorial Notes**
 
@@ -1653,13 +1653,13 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of Title 2, The Congress.
 
-## § 1366. Construction of references to laws of the United States or Acts of Congress
+## § 1366. Construction of references to laws of the United States or Acts of Congress
 
 For the purposes of this chapter, references to laws of the United States or Acts of Congress do not include laws applicable exclusively to the District of Columbia.
 
-(Added Pub. L. 91–358, title I, § 172(c)(1), July 29, 1970, 84 Stat. 590, § 1363; renumbered § 1364, Pub. L. 95–572, § 6(b)(1), Nov. 2, 1978, 92 Stat. 2456; renumbered § 1366, Pub. L. 99–336, § 6(a)(1)(C), June 19, 1986, 100 Stat. 639.)
+(Added Pub. L. 91–358, title I, § 172(c)(1), July 29, 1970, 84 Stat. 590, § 1363; renumbered § 1364, Pub. L. 95–572, § 6(b)(1), Nov. 2, 1978, 92 Stat. 2456; renumbered § 1366, Pub. L. 99–336, § 6(a)(1)(C), June 19, 1986, 100 Stat. 639.)
 
-## § 1367. Supplemental jurisdiction
+## § 1367. Supplemental jurisdiction
 
 **(a)** Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties.
 
@@ -1679,7 +1679,7 @@ For the purposes of this chapter, references to laws of the United States or Act
 
 **(e)** As used in this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Added Pub. L. 101–650, title III, § 310(a), Dec. 1, 1990, 104 Stat. 5113.)
+(Added Pub. L. 101–650, title III, § 310(a), Dec. 1, 1990, 104 Stat. 5113.)
 
 **Editorial Notes**
 
@@ -1691,13 +1691,13 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in
 
 **Effective Date**
 
-Pub. L. 101–650, title III, § 310(c), Dec. 1, 1990, 104 Stat. 5114, provided that: “The amendments made by this section [enacting this section] shall apply to civil actions commenced on or after the date of the enactment of this Act [Dec. 1, 1990].”
+Pub. L. 101–650, title III, § 310(c), Dec. 1, 1990, 104 Stat. 5114, provided that: “The amendments made by this section [enacting this section] shall apply to civil actions commenced on or after the date of the enactment of this Act [Dec. 1, 1990].”
 
-## § 1368. Counterclaims in unfair practices in international trade.
+## § 1368. Counterclaims in unfair practices in international trade.
 
 The district courts shall have original jurisdiction of any civil action based on a counterclaim raised pursuant to section 337(c) of the Tariff Act of 1930, to the extent that it arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim in the proceeding under section 337(a) of that Act.
 
-(Added Pub. L. 103–465, title III, § 321(b)(3)(A), Dec. 8, 1994, 108 Stat. 4946.)
+(Added Pub. L. 103–465, title III, § 321(b)(3)(A), Dec. 8, 1994, 108 Stat. 4946.)
 
 **Editorial Notes**
 
@@ -1711,7 +1711,7 @@ Section 337 of the Tariff Act of 1930, referred to in text, is classified to sec
 
 Section applicable with respect to complaints filed under section 1337 of Title 19, Customs Duties, on or after the date on which the World Trade Organization Agreement enters into force with respect to the United States [Jan. 1, 1995], or in cases under section 1337 of Title 19 in which no complaint is filed, with respect to investigations initiated under such section on or after such date, see section 322 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1337 of Title 19.
 
-## § 1369. Multiparty, multiforum jurisdiction
+## § 1369. Multiparty, multiforum jurisdiction
 
 **(a) In General.—** The district courts shall have original jurisdiction of any civil action involving minimal diversity between adverse parties that arises from a single accident, where at least 75 natural persons have died in the accident at a discrete location, if—
 
@@ -1747,10 +1747,10 @@ Section applicable with respect to complaints filed under section 1337 of Title 
 
 **(e) Notification of Judicial Panel on Multidistrict Litigation.—** A district court in which an action under this section is pending shall promptly notify the judicial panel on multidistrict litigation of the pendency of the action.
 
-(Added Pub. L. 107–273, div. C, title I, § 11020(b)(1)(A), Nov. 2, 2002, 116 Stat. 1826.)
+(Added Pub. L. 107–273, div. C, title I, § 11020(b)(1)(A), Nov. 2, 2002, 116 Stat. 1826.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 107–273, div. C, title I, § 11020(c), Nov. 2, 2002, 116 Stat. 1829, provided that: “The amendments made by subsection (b) [enacting this section and sections 1697 and 1785 of this title and amending sections 1391 and 1441 of this title] shall apply to a civil action if the accident giving rise to the cause of action occurred on or after the 90th day after the date of the enactment of this Act [Nov. 2, 2002].”
+Pub. L. 107–273, div. C, title I, § 11020(c), Nov. 2, 2002, 116 Stat. 1829, provided that: “The amendments made by subsection (b) [enacting this section and sections 1697 and 1785 of this title and amending sections 1391 and 1441 of this title] shall apply to a civil action if the accident giving rise to the cause of action occurred on or after the 90th day after the date of the enactment of this Act [Nov. 2, 2002].”

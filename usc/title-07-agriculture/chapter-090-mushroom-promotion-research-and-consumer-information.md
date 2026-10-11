@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 90—MUSHROOM PROMOTION, RESEARCH, AND CONSUMER INFORMATION
 
-## § 6101. Findings and declaration of policy
+## § 6101. Findings and declaration of policy
 
 **(a) Findings** Congress finds that—
 
@@ -45,7 +45,7 @@ retrieved: 2026-10-11
 
 Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of individual producers to produce mushrooms.
 
-(Pub. L. 101–624, title XIX, § 1922, Nov. 28, 1990, 104 Stat. 3855.)
+(Pub. L. 101–624, title XIX, § 1922, Nov. 28, 1990, 104 Stat. 3855.)
 
 **Editorial Notes**
 
@@ -57,9 +57,9 @@ For information regarding the constitutionality of subtitle B of title XIX of Pu
 
 **Short Title**
 
-Pub. L. 101–624, title XIX, § 1921, Nov. 28, 1990, 104 Stat. 3854, provided that: “This subtitle [subtitle B (§§ 1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Mushroom Promotion, Research, and Consumer Information Act of 1990’.”
+Pub. L. 101–624, title XIX, § 1921, Nov. 28, 1990, 104 Stat. 3854, provided that: “This subtitle [subtitle B (§§ 1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Mushroom Promotion, Research, and Consumer Information Act of 1990’.”
 
-## § 6102. Definitions
+## § 6102. Definitions
 
 As used in this chapter—
 
@@ -123,9 +123,9 @@ The term “Secretary” means the Secretary of Agriculture.
 
 The terms “State” and “United States” include the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 101–624, title XIX, § 1923, Nov. 28, 1990, 104 Stat. 3855.)
+(Pub. L. 101–624, title XIX, § 1923, Nov. 28, 1990, 104 Stat. 3855.)
 
-## § 6103. Issuance of orders
+## § 6103. Issuance of orders
 
 **(a) In general**
 
@@ -155,9 +155,9 @@ The Secretary, from time to time, may amend any order issued under this section.
 
 The provisions of this chapter applicable to an order shall be applicable to amendments to the order.
 
-(Pub. L. 101–624, title XIX, § 1924, Nov. 28, 1990, 104 Stat. 3856.)
+(Pub. L. 101–624, title XIX, § 1924, Nov. 28, 1990, 104 Stat. 3856.)
 
-## § 6104. Required terms in orders
+## § 6104. Required terms in orders
 
 **(a) In general**
 
@@ -373,13 +373,13 @@ Nothing in this chapter shall be construed to authorize the withholding of infor
 
 The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g).
 
-(Pub. L. 101–624, title XIX, § 1925, Nov. 28, 1990, 104 Stat. 3857; Pub. L. 102–237, title VIII, § 803(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 110–234, title X, § 10104, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, § 4(a), title X, § 10104, June 18, 2008, 122 Stat. 1664, 2097.)
+(Pub. L. 101–624, title XIX, § 1925, Nov. 28, 1990, 104 Stat. 3857; Pub. L. 102–237, title VIII, § 803(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 110–234, title X, § 10104, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, § 4(a), title X, § 10104, June 18, 2008, 122 Stat. 1664, 2097.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 **Codification**
 
@@ -387,13 +387,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b)(2)(B). Pub. L. 110–246, § 10104(a)(1), substituted “3 regions” for “4 regions”.
+2008—Subsec. (b)(2)(B). Pub. L. 110–246, § 10104(a)(1), substituted “3 regions” for “4 regions”.
 
-Subsec. (b)(2)(D). Pub. L. 110–246, § 10104(a)(2), substituted “50,000,000 pounds” for “35,000,000 pounds”.
+Subsec. (b)(2)(D). Pub. L. 110–246, § 10104(a)(2), substituted “50,000,000 pounds” for “35,000,000 pounds”.
 
-Subsec. (b)(2)(E). Pub. L. 110–246, § 10104(a)(3), added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: “Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appoint an additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.”
+Subsec. (b)(2)(E). Pub. L. 110–246, § 10104(a)(3), added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: “Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appoint an additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.”
 
-Subsec. (c)(6) to (9). Pub. L. 110–246, § 10104(b), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+Subsec. (c)(6) to (9). Pub. L. 110–246, § 10104(b), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
 
 1991—Subsec. (h). Pub. L. 102–237 substituted “governmental” for “government”.
 
@@ -403,7 +403,7 @@ Subsec. (c)(6) to (9). Pub. L. 110–246, § 10104(b), added par. (6) and rede
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 6105. Referenda
+## § 6105. Referenda
 
 **(a) Initial referendum**
 
@@ -437,9 +437,9 @@ Effective beginning 3 years after the date on which an order becomes effective u
 
 Referenda conducted pursuant to this section shall be conducted in such a manner as is determined by the Secretary.
 
-(Pub. L. 101–624, title XIX, § 1926, Nov. 28, 1990, 104 Stat. 3861.)
+(Pub. L. 101–624, title XIX, § 1926, Nov. 28, 1990, 104 Stat. 3861.)
 
-## § 6106. Petition and review
+## § 6106. Petition and review
 
 **(a) Petition**
 
@@ -477,7 +477,7 @@ Service of process in such proceedings shall be conducted in accordance with the
 
 The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 6107 of this title.
 
-(Pub. L. 101–624, title XIX, § 1927, Nov. 28, 1990, 104 Stat. 3862.)
+(Pub. L. 101–624, title XIX, § 1927, Nov. 28, 1990, 104 Stat. 3862.)
 
 **Editorial Notes**
 
@@ -485,7 +485,7 @@ The pendency of proceedings instituted under subsection (a) shall not impede, hi
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6107. Enforcement
+## § 6107. Enforcement
 
 **(a) Jurisdiction**
 
@@ -537,7 +537,7 @@ A person who fails to obey a cease and desist order after the order has become f
 
 If a person fails to pay an assessment of a civil penalty after it has become final and unappealable, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any district court in which the person resides or conducts business. In such action, the validity and appropriateness of such civil penalty shall not be subject to review.
 
-(Pub. L. 101–624, title XIX, § 1928, Nov. 28, 1990, 104 Stat. 3863; Pub. L. 102–237, title VIII, § 803(2), Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 101–624, title XIX, § 1928, Nov. 28, 1990, 104 Stat. 3863; Pub. L. 102–237, title VIII, § 803(2), Dec. 13, 1991, 105 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -545,7 +545,7 @@ If a person fails to pay an assessment of a civil penalty after it has become fi
 
 1991—Subsec. (d)(1)(A). Pub. L. 102–237 substituted “United States District Court” for “United States district court”.
 
-## § 6108. Investigations and power to subpoena
+## § 6108. Investigations and power to subpoena
 
 **(a) Investigations**
 
@@ -577,7 +577,7 @@ Process in any such case may be served in the judicial district in which such pe
 
 The site of any hearings held under section 6106 or 6107 of this title shall be within the judicial district where such person resides or has a principal place of business.
 
-(Pub. L. 101–624, title XIX, § 1929, Nov. 28, 1990, 104 Stat. 3864; Pub. L. 102–237, title VIII, § 803(3), Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 101–624, title XIX, § 1929, Nov. 28, 1990, 104 Stat. 3864; Pub. L. 102–237, title VIII, § 803(3), Dec. 13, 1991, 105 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -585,19 +585,19 @@ The site of any hearings held under section 6106 or 6107 of this title shall be 
 
 1991—Subsec. (b)(2). Pub. L. 102–237 struck out “section” after “6106 or”.
 
-## § 6109. Savings provision
+## § 6109. Savings provision
 
 Nothing in this chapter may be construed to preempt or supersede any other program relating to mushroom promotion, research, consumer information, or industry information organized and operated under the laws of the United States or any State.
 
-(Pub. L. 101–624, title XIX, § 1930, Nov. 28, 1990, 104 Stat. 3865.)
+(Pub. L. 101–624, title XIX, § 1930, Nov. 28, 1990, 104 Stat. 3865.)
 
-## § 6110. Suspension or termination of orders
+## § 6110. Suspension or termination of orders
 
 The Secretary shall, whenever the Secretary finds that the order or any provision of the order obstructs or does not tend to effectuate the declared policy of this chapter, terminate or suspend the operation of such order or provision. The termination or suspension of any order, or any provision thereof, shall not be considered an order under the meaning of this chapter.
 
-(Pub. L. 101–624, title XIX, § 1931, Nov. 28, 1990, 104 Stat. 3865.)
+(Pub. L. 101–624, title XIX, § 1931, Nov. 28, 1990, 104 Stat. 3865.)
 
-## § 6111. Authorization of appropriations
+## § 6111. Authorization of appropriations
 
 **(a) In general**
 
@@ -607,10 +607,10 @@ There are authorized to be appropriated for each fiscal year such sums as are ne
 
 The funds so appropriated shall not be available for payment of the expenses or expenditures of the Council in administering any provision of an order issued under this chapter.
 
-(Pub. L. 101–624, title XIX, § 1932, Nov. 28, 1990, 104 Stat. 3865.)
+(Pub. L. 101–624, title XIX, § 1932, Nov. 28, 1990, 104 Stat. 3865.)
 
-## § 6112. Regulations
+## § 6112. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this chapter.
 
-(Pub. L. 101–624, title XIX, § 1933, Nov. 28, 1990, 104 Stat. 3865.)
+(Pub. L. 101–624, title XIX, § 1933, Nov. 28, 1990, 104 Stat. 3865.)

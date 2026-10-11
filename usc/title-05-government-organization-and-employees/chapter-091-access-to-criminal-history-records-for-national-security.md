@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1076(f)(1)(A), (2)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, substituted “AND OTHER PURPOSES” for “PURPOSES” in chapter heading and “Access to criminal history records for national security and other purposes” for “Criminal history record information for national security purposes” in item 9101.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1076(f)(1)(A), (2)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, substituted “AND OTHER PURPOSES” for “PURPOSES” in chapter heading and “Access to criminal history records for national security and other purposes” for “Criminal history record information for national security purposes” in item 9101.
 
-## § 9101. Access to criminal history records for national security and other purposes
+## § 9101. Access to criminal history records for national security and other purposes
 
 **(a)** As used in this section:
 
@@ -139,7 +139,7 @@ retrieved: 2026-10-11
 
 **(B)** State and local law enforcement agencies.
 
-(Added Pub. L. 99–169, title VIII, § 801(a), Dec. 4, 1985, 99 Stat. 1009; amended Pub. L. 99–569, title IV, § 402(a), Oct. 27, 1986, 100 Stat. 3196; Pub. L. 101–246, title I, § 114, Feb. 16, 1990, 104 Stat. 22; Pub. L. 106–398, § 1 [[div. A], title X, § 1076(a)–(e), (f)(2)(A)], Oct. 30, 2000, 114 Stat. 1654, 1654A–280 to 1654A–282; Pub. L. 114–92, div. A, title X, § 1086(f)(1)–(6)(A), (7), (8), (10), Nov. 25, 2015, 129 Stat. 1008–1011.)
+(Added Pub. L. 99–169, title VIII, § 801(a), Dec. 4, 1985, 99 Stat. 1009; amended Pub. L. 99–569, title IV, § 402(a), Oct. 27, 1986, 100 Stat. 3196; Pub. L. 101–246, title I, § 114, Feb. 16, 1990, 104 Stat. 22; Pub. L. 106–398, § 1 [[div. A], title X, § 1076(a)–(e), (f)(2)(A)], Oct. 30, 2000, 114 Stat. 1654, 1654A–280 to 1654A–282; Pub. L. 114–92, div. A, title X, § 1086(f)(1)–(6)(A), (7), (8), (10), Nov. 25, 2015, 129 Stat. 1008–1011.)
 
 **Editorial Notes**
 
@@ -147,53 +147,53 @@ retrieved: 2026-10-11
 
 Executive Order 13467, referred to in subsecs. (a)(6)(I)(ii), (7), (b)(1)(B)(i), and (i), is Ex. Ord. No. 13467, June 30, 2008, 73 F.R. 38103, which is set out as a note under section 3161 of Title 50, War and National Defense.
 
-Federal Aviation Administration Drug Enforcement Assistance Act of 1988, referred to in subsec. (b)(1)(D)(i), is subtitle E (§§ 7201 to 7214) of Pub. L. 100–690, title VII, Nov. 18, 1988, 102 Stat. 4424. For complete classification of this Act to the Code, see Tables.
+Federal Aviation Administration Drug Enforcement Assistance Act of 1988, referred to in subsec. (b)(1)(D)(i), is subtitle E (§§ 7201 to 7214) of Pub. L. 100–690, title VII, Nov. 18, 1988, 102 Stat. 4424. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2015—Subsec. (a)(2). Pub. L. 114–92, § 1086(f)(6)(A), substituted “The term includes those records of a State or locality sealed pursuant to law if such records are accessible by State and local criminal justice agencies for the purpose of conducting background checks.” for “The term does not include those records of a State or locality sealed pursuant to law from access by State and local criminal justice agencies of that State or locality.”
+2015—Subsec. (a)(2). Pub. L. 114–92, § 1086(f)(6)(A), substituted “The term includes those records of a State or locality sealed pursuant to law if such records are accessible by State and local criminal justice agencies for the purpose of conducting background checks.” for “The term does not include those records of a State or locality sealed pursuant to law from access by State and local criminal justice agencies of that State or locality.”
 
-Subsec. (a)(6)(G) to (J). Pub. L. 114–92, § 1086(f)(2), added subpars. (G) to (J).
+Subsec. (a)(6)(G) to (J). Pub. L. 114–92, § 1086(f)(2), added subpars. (G) to (J).
 
-Subsec. (a)(7). Pub. L. 114–92, § 1086(f)(1), added par. (7).
+Subsec. (a)(7). Pub. L. 114–92, § 1086(f)(1), added par. (7).
 
-Subsec. (b)(1). Pub. L. 114–92, § 1086(f)(3)(B), in introductory provisions, struck out “the head of” before “a covered agency”, inserted “all” before “criminal history record information”, and substituted “, in accordance with Federal Investigative Standards jointly promulgated by the Suitability Executive Agent and Security Executive Agent, for the purpose of—” for “for the purpose of determining eligibility for any of the following:”.
+Subsec. (b)(1). Pub. L. 114–92, § 1086(f)(3)(B), in introductory provisions, struck out “the head of” before “a covered agency”, inserted “all” before “criminal history record information”, and substituted “, in accordance with Federal Investigative Standards jointly promulgated by the Suitability Executive Agent and Security Executive Agent, for the purpose of—” for “for the purpose of determining eligibility for any of the following:”.
 
-Subsec. (b)(1)(A). Pub. L. 114–92, § 1086(f)(3)(A), (B)(iii), (C)–(F), inserted “(A) determining eligibility for—”; redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins; in cl. (i), substituted “access” for “Access” and semicolon for period at end; in cl. (ii), substituted “assignment” for “Assignment” and “or positions;” for period at end; in cl. (iii), substituted “acceptance” for “Acceptance” and “; or” for period at end; and in cl. (iv), substituted “appointment” for “Appointment” and “; or” for period at end and struck out “or a critical or sensitive position” after “public trust”.
+Subsec. (b)(1)(A). Pub. L. 114–92, § 1086(f)(3)(A), (B)(iii), (C)–(F), inserted “(A) determining eligibility for—”; redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins; in cl. (i), substituted “access” for “Access” and semicolon for period at end; in cl. (ii), substituted “assignment” for “Assignment” and “or positions;” for period at end; in cl. (iii), substituted “acceptance” for “Acceptance” and “; or” for period at end; and in cl. (iv), substituted “appointment” for “Appointment” and “; or” for period at end and struck out “or a critical or sensitive position” after “public trust”.
 
-Subsec. (b)(1)(B) to (D). Pub. L. 114–92, § 1086(f)(3)(G), added subpars. (B) to (D). Former subpars. (B) to (D) redesignated cls. (ii) to (iv), respectively, of subpar. (A).
+Subsec. (b)(1)(B) to (D). Pub. L. 114–92, § 1086(f)(3)(G), added subpars. (B) to (D). Former subpars. (B) to (D) redesignated cls. (ii) to (iv), respectively, of subpar. (A).
 
-Subsec. (b)(2). Pub. L. 114–92, § 1086(f)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Such a request to a State central criminal history record repository shall be accompanied by the fingerprints of the individual who is the subject of the request if required by State law and if the repository uses the fingerprints in an automated fingerprint identification system.”
+Subsec. (b)(2). Pub. L. 114–92, § 1086(f)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Such a request to a State central criminal history record repository shall be accompanied by the fingerprints of the individual who is the subject of the request if required by State law and if the repository uses the fingerprints in an automated fingerprint identification system.”
 
-Subsec. (e)(6). Pub. L. 114–92, § 1086(f)(5), added par. (6).
+Subsec. (e)(6). Pub. L. 114–92, § 1086(f)(5), added par. (6).
 
-Subsec. (g). Pub. L. 114–92, § 1086(f)(7), added subsec. (g).
+Subsec. (g). Pub. L. 114–92, § 1086(f)(7), added subsec. (g).
 
-Subsec. (h). Pub. L. 114–92, § 1086(f)(8), added subsec. (h).
+Subsec. (h). Pub. L. 114–92, § 1086(f)(8), added subsec. (h).
 
-Subsec. (i). Pub. L. 114–92, § 1086(f)(10), added subsec. (i).
+Subsec. (i). Pub. L. 114–92, § 1086(f)(10), added subsec. (i).
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1076(f)(2)(A)], substituted “Access to criminal history records for national security and other purposes” for “Criminal history record information for national security purposes” in section catchline.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1076(f)(2)(A)], substituted “Access to criminal history records for national security and other purposes” for “Criminal history record information for national security purposes” in section catchline.
 
-Subsec. (a)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(e)(1)], substituted “means (A) any Federal, State, or local court, and (B) any Federal, State, or local agency, or any subunit thereof, which” for “includes Federal, State, and local agencies and means: (A) courts, or (B) a Government agency or any subunit thereof which”.
+Subsec. (a)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(e)(1)], substituted “means (A) any Federal, State, or local court, and (B) any Federal, State, or local agency, or any subunit thereof, which” for “includes Federal, State, and local agencies and means: (A) courts, or (B) a Government agency or any subunit thereof which”.
 
-Subsec. (a)(4). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(e)(2)], inserted “the Commonwealth of” before “the Northern Mariana Islands” and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+Subsec. (a)(4). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(e)(2)], inserted “the Commonwealth of” before “the Northern Mariana Islands” and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
-Subsec. (a)(6). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(a)(1)], added par. (6).
+Subsec. (a)(6). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(a)(1)], added par. (6).
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(c)], in first sentence of par. (1), inserted “any of the following:” after “eligibility for” and substituted subpars. (A) to (D) for “(A) access to classified information or (B) assignment to or retention in sensitive national security duties.”, designated second sentence of par. (1) as par. (2), designated third sentence of par. (1) as par. (3) and substituted a period for “, nor shall they in any event exceed those charged to State or local agencies other than criminal justice agencies for such information.”, and redesignated former par. (2) as (4).
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(c)], in first sentence of par. (1), inserted “any of the following:” after “eligibility for” and substituted subpars. (A) to (D) for “(A) access to classified information or (B) assignment to or retention in sensitive national security duties.”, designated second sentence of par. (1) as par. (2), designated third sentence of par. (1) as par. (3) and substituted a period for “, nor shall they in any event exceed those charged to State or local agencies other than criminal justice agencies for such information.”, and redesignated former par. (2) as (4).
 
-Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(a)(2)], substituted “by the head of a covered agency” for “by the Department of Defense, the Department of State, the Office of Personnel Management, the Central Intelligence Agency, or the Federal Bureau of Investigation” and “that covered agency” for “such department, office, agency, or bureau”.
+Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(a)(2)], substituted “by the head of a covered agency” for “by the Department of Defense, the Department of State, the Office of Personnel Management, the Central Intelligence Agency, or the Federal Bureau of Investigation” and “that covered agency” for “such department, office, agency, or bureau”.
 
-Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(b)], struck out par. (3) which related to agreements between Federal departments and agencies and States and localities to indemnify and hold harmless the States and localities from claims arising from the disclosure or use of criminal history record information.
+Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(b)], struck out par. (3) which related to agreements between Federal departments and agencies and States and localities to indemnify and hold harmless the States and localities from claims arising from the disclosure or use of criminal history record information.
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(a)(3)], substituted “A covered agency” for “The Department of Defense, the Department of State, the Office of Personnel Management, the Central Intelligence Agency, or the Federal Bureau of Investigation”.
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(a)(3)], substituted “A covered agency” for “The Department of Defense, the Department of State, the Office of Personnel Management, the Central Intelligence Agency, or the Federal Bureau of Investigation”.
 
-Subsecs. (e), (f). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(d)], added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 106–398, § 1 [[div. A], title X, § 1076(d)], added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1990—Subsecs. (b)(1), (3)(A), (B), (c). Pub. L. 101–246, § 114(1), inserted “the Department of State,” after “Defense,” wherever appearing.
+1990—Subsecs. (b)(1), (3)(A), (B), (c). Pub. L. 101–246, § 114(1), inserted “the Department of State,” after “Defense,” wherever appearing.
 
-Subsec. (e). Pub. L. 101–246, § 114(2), added subsec. (e).
+Subsec. (e). Pub. L. 101–246, § 114(2), added subsec. (e).
 
 1986—Subsecs. (b)(1), (3), (c). Pub. L. 99–569 inserted references to the Federal Bureau of Investigation and such bureau.
 
@@ -205,18 +205,18 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–569, title IV, § 402(c), Oct. 27, 1986, 100 Stat. 3196, provided that: “The amendments made by this section [amending this section and provisions set out as a note under this section] shall become effective with respect to any inquiry which begins after the date of enactment of this Act [Oct. 27, 1986] conducted by the Federal Bureau of Investigation for purposes specified in paragraph (b)(1) of section 9101 of title 5, United States Code.”
+Pub. L. 99–569, title IV, § 402(c), Oct. 27, 1986, 100 Stat. 3196, provided that: “The amendments made by this section [amending this section and provisions set out as a note under this section] shall become effective with respect to any inquiry which begins after the date of enactment of this Act [Oct. 27, 1986] conducted by the Federal Bureau of Investigation for purposes specified in paragraph (b)(1) of section 9101 of title 5, United States Code.”
 
 **Effective Date**
 
-Pub. L. 99–169, title VIII, § 802, Dec. 4, 1985, 99 Stat. 1010, provided that: “The amendments made by section 801(a) of this Act [enacting this section] shall become effective with respect to any inquiry which begins after the date of enactment of this Act [Dec. 4, 1985] conducted by the Department of Defense, the Office of Personnel Management, or the Central Intelligence Agency, for the purposes specified in paragraph (b)(1) of section 9101 of title 5, United States Code, as added by this Act.”
+Pub. L. 99–169, title VIII, § 802, Dec. 4, 1985, 99 Stat. 1010, provided that: “The amendments made by section 801(a) of this Act [enacting this section] shall become effective with respect to any inquiry which begins after the date of enactment of this Act [Dec. 4, 1985] conducted by the Department of Defense, the Office of Personnel Management, or the Central Intelligence Agency, for the purposes specified in paragraph (b)(1) of section 9101 of title 5, United States Code, as added by this Act.”
 
 **Termination Date of Subsection (b)(3) of This Section**
 
-Pub. L. 100–453, title I, § 101(d), Sept. 29, 1988, 102 Stat. 1904, extended the expiration date provided in section 803(b) of Pub. L. 99–169, formerly set out below, until Dec. 31, 1989.
+Pub. L. 100–453, title I, § 101(d), Sept. 29, 1988, 102 Stat. 1904, extended the expiration date provided in section 803(b) of Pub. L. 99–169, formerly set out below, until Dec. 31, 1989.
 
-Pub. L. 99–169, title VIII, § 803(b), Dec. 4, 1985, 99 Stat. 1011, provided that subsec. (b)(3) of this section expired three years after Dec. 4, 1985.
+Pub. L. 99–169, title VIII, § 803(b), Dec. 4, 1985, 99 Stat. 1011, provided that subsec. (b)(3) of this section expired three years after Dec. 4, 1985.
 
 **Report to Congressional Committees on Effect of Provisions for Indemnification Agreements**
 
-Pub. L. 99–169, title VIII, § 803(a), Dec. 4, 1985, 99 Stat. 1010, as amended by Pub. L. 99–569, title IV, § 402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon States and localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
+Pub. L. 99–169, title VIII, § 803(a), Dec. 4, 1985, 99 Stat. 1010, as amended by Pub. L. 99–569, title IV, § 402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon States and localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.

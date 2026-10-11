@@ -19,43 +19,43 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title IV, § 403(b), Jan. 1, 2021, 134 Stat. 3556, added item 517 and struck out former item 517 “Authorized daily average: members in pay grades E–8 and E–9”.
+2021—Pub. L. 116–283, div. A, title IV, § 403(b), Jan. 1, 2021, 134 Stat. 3556, added item 517 and struck out former item 517 “Authorized daily average: members in pay grades E–8 and E–9”.
 
-2004—Pub. L. 108–375, div. A, title V, § 551(a)(2), Oct. 28, 2004, 118 Stat. 1911, added item 511.
+2004—Pub. L. 108–375, div. A, title V, § 551(a)(2), Oct. 28, 2004, 118 Stat. 1911, added item 511.
 
-2003—Pub. L. 108–136, div. A, title X, § 1031(a)(8)(B), Nov. 24, 2003, 117 Stat. 1597, substituted “provision of meals and refreshments” for “use of funds” in item 520c.
+2003—Pub. L. 108–136, div. A, title X, § 1031(a)(8)(B), Nov. 24, 2003, 117 Stat. 1597, substituted “provision of meals and refreshments” for “use of funds” in item 520c.
 
-2002—Pub. L. 107–314, div. A, title V, § 531(a)(2), Dec. 2, 2002, 116 Stat. 2544, added item 510.
+2002—Pub. L. 107–314, div. A, title V, § 531(a)(2), Dec. 2, 2002, 116 Stat. 2544, added item 510.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1076(g)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, struck out item 520a “Criminal history information for military recruiting purposes”.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1076(g)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, struck out item 520a “Criminal history information for military recruiting purposes”.
 
-1996—Pub. L. 104–201, div. A, title III, § 361(b), Sept. 23, 1996, 110 Stat. 2491, added item 520c.
+1996—Pub. L. 104–201, div. A, title III, § 361(b), Sept. 23, 1996, 110 Stat. 2491, added item 520c.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(3), Oct. 5, 1994, 108 Stat. 3013, as amended by Pub. L. 104–106, div. A, title XV, § 1501(a)(8)(A), Feb. 10, 1996, 110 Stat. 495, struck out items 510 “Reserve components: qualifications”, 511 “Reserve components: terms”, and 512 “Reserve components: transfers”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(3), Oct. 5, 1994, 108 Stat. 3013, as amended by Pub. L. 104–106, div. A, title XV, § 1501(a)(8)(A), Feb. 10, 1996, 110 Stat. 495, struck out items 510 “Reserve components: qualifications”, 511 “Reserve components: terms”, and 512 “Reserve components: transfers”.
 
-1989—Pub. L. 101–189, div. A, title V, § 501(a)(2), Nov. 29, 1989, 103 Stat. 1435, added item 513.
+1989—Pub. L. 101–189, div. A, title V, § 501(a)(2), Nov. 29, 1989, 103 Stat. 1435, added item 513.
 
-1985—Pub. L. 99–145, title XIII, § 1303(a)(4)(B), Nov. 8, 1985, 99 Stat. 738, substituted “enlistment” for “enlistments” in item 520b.
+1985—Pub. L. 99–145, title XIII, § 1303(a)(4)(B), Nov. 8, 1985, 99 Stat. 738, substituted “enlistment” for “enlistments” in item 520b.
 
-1984—Pub. L. 98–525, title XIV, § 1401(a)(2), Oct. 19, 1984, 98 Stat. 2614, added item 520b.
+1984—Pub. L. 98–525, title XIV, § 1401(a)(2), Oct. 19, 1984, 98 Stat. 2614, added item 520b.
 
-1982—Pub. L. 97–252, title XI, § 1114(b)(3), (c)(2), Sept. 8, 1982, 96 Stat. 749, 750, inserted “; compilation of directory information” in item 503, and added item 520a.
+1982—Pub. L. 97–252, title XI, § 1114(b)(3), (c)(2), Sept. 8, 1982, 96 Stat. 749, 750, inserted “; compilation of directory information” in item 503, and added item 520a.
 
-1980—Pub. L. 96–342, title III, § 302(b)(2), Sept. 8, 1980, 94 Stat. 1083, added item 520.
+1980—Pub. L. 96–342, title III, § 302(b)(2), Sept. 8, 1980, 94 Stat. 1083, added item 520.
 
-1968—Pub. L. 90–623, § 2(2), Oct. 22, 1968, 82 Stat. 1314, struck out “or national emergency” after “extension of enlistments during war” in item 506.
+1968—Pub. L. 90–623, § 2(2), Oct. 22, 1968, 82 Stat. 1314, struck out “or national emergency” after “extension of enlistments during war” in item 506.
 
-Pub. L. 90–235, § 2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 501 as 502, and added items 501, 503 to 509, 518 and 519.
+Pub. L. 90–235, § 2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 501 as 502, and added items 501, 503 to 509, 518 and 519.
 
-1962—Pub. L. 87–649, § 2(2), Sept. 7, 1962, 76 Stat. 492, added item 517.
+1962—Pub. L. 87–649, § 2(2), Sept. 7, 1962, 76 Stat. 492, added item 517.
 
-1958—Pub. L. 85–861, § 1(9)(B), (C), Sept. 2, 1958, 72 Stat. 1440, struck out item 513 “Reserve components: promotions” and added item 516.
+1958—Pub. L. 85–861, § 1(9)(B), (C), Sept. 2, 1958, 72 Stat. 1440, struck out item 513 “Reserve components: promotions” and added item 516.
 
-## § 501. Definition
+## § 501. Definition
 
 In this chapter “enlistment” means original enlistment or reenlistment.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 753.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 753.)
 
 **Editorial Notes**
 
@@ -67,7 +67,7 @@ Another section 501 was renumbered section 500a of this title.
 
 A prior section 501 was renumbered 502 of this title.
 
-## § 502. Enlistment oath: who may administer
+## § 502. Enlistment oath: who may administer
 
 **(a) Enlistment Oath.—** Each person enlisting in an armed force shall take the following oath:
 
@@ -75,13 +75,13 @@ A prior section 501 was renumbered 502 of this title.
 
 **(b) Who May Administer.—** The oath may be taken before the President, the Vice-President, the Secretary of Defense, any commissioned officer, or any other person designated under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 17, § 501; Pub. L. 87–751, § 1, Oct. 5, 1962, 76 Stat. 748; renumbered § 502, Pub. L. 90–235, § 2(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; Pub. L. 101–189, div. A, title VI, § 653(a)(1), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 109–364, div. A, title V, § 595(a), Oct. 17, 2006, 120 Stat. 2235.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 17, § 501; Pub. L. 87–751, § 1, Oct. 5, 1962, 76 Stat. 748; renumbered § 502, Pub. L. 90–235, § 2(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; Pub. L. 101–189, div. A, title VI, § 653(a)(1), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 109–364, div. A, title V, § 595(a), Oct. 17, 2006, 120 Stat. 2235.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 501 | 50:737. | May 5, 1950, ch. 169, § 8, 64 Stat. 146. |
+| 501 | 50:737. | May 5, 1950, ch. 169, § 8, 64 Stat. 146. |
 
 The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “of any armed force” are inserted in the last sentence, since they are necessarily implied by their use in the source statute.
 
@@ -89,7 +89,7 @@ The words “or affirmation” are omitted as covered by the definition of the w
 
 **References in Text**
 
-The Uniform Code of Military Justice, referred to in the oath, is classified to chapter 47 (§ 801 et seq.) of this title.
+The Uniform Code of Military Justice, referred to in the oath, is classified to chapter 47 (§ 801 et seq.) of this title.
 
 **Codification**
 
@@ -107,9 +107,9 @@ Another section 502 was renumbered section 500b of this title.
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–751, § 3, Oct. 5, 1962, 76 Stat. 748, provided that: “This Act [amending this section and section 304 of Title 32, National Guard] does not affect any oath taken before one year after its enactment [Oct. 5, 1962].”
+Pub. L. 87–751, § 3, Oct. 5, 1962, 76 Stat. 748, provided that: “This Act [amending this section and section 304 of Title 32, National Guard] does not affect any oath taken before one year after its enactment [Oct. 5, 1962].”
 
-## § 503. Enlistments: recruiting campaigns; compilation of directory information
+## § 503. Enlistments: recruiting campaigns; compilation of directory information
 
 **(a) Recruiting Campaigns.—**
 
@@ -201,13 +201,13 @@ Pub. L. 87–751, § 3, Oct. 5, 1962, 76 Stat. 748, provided that: “This Act
 
 **(F)** The term “member of the House of Representatives” includes a Delegate or Resident Commissioner to Congress.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, § 1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, § 571, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, § 1 [[div. A], title V, §§ 562, 563(a)–(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, § 544(a), title X, § 1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, § 543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, § 1084(d)(5), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 114–95, title IX, § 9215(uuu)(1), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 116–283, div. A, title V, § 521(a), Jan. 1, 2021, 134 Stat. 3597; Pub. L. 117–263, div. A, title V, § 531(a), Dec. 23, 2022, 136 Stat. 2574; Pub. L. 118–31, div. A, title V, § 541, title XVII, § 1717(b)(1), Dec. 22, 2023, 137 Stat. 264, 655; Pub. L. 119–60, div. A, title V, § 531, Dec. 18, 2025, 139 Stat. 868.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, § 1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, § 571, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, § 1 [[div. A], title V, §§ 562, 563(a)–(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, § 544(a), title X, § 1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, § 543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, § 1084(d)(5), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 114–95, title IX, § 9215(uuu)(1), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 116–283, div. A, title V, § 521(a), Jan. 1, 2021, 134 Stat. 3597; Pub. L. 117–263, div. A, title V, § 531(a), Dec. 23, 2022, 136 Stat. 2574; Pub. L. 118–31, div. A, title V, § 541, title XVII, § 1717(b)(1), Dec. 22, 2023, 137 Stat. 264, 655; Pub. L. 119–60, div. A, title V, § 531, Dec. 18, 2025, 139 Stat. 868.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 **Codification**
 
@@ -223,59 +223,59 @@ Another section 503 was renumbered section 500c of this title.
 
 “(iii) shall, upon a request made by military recruiters for military recruiting purposes, provide, not later than 60 days after receiving such request, access to secondary school student names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).”
 
-2023—Subsec. (a)(1). Pub. L. 118–31, § 1717(b)(1), inserted “and the Space Force” after “Regular Coast Guard”.
+2023—Subsec. (a)(1). Pub. L. 118–31, § 1717(b)(1), inserted “and the Space Force” after “Regular Coast Guard”.
 
-Subsec. (c)(1)(A). Pub. L. 118–31, § 541(1)(A), added cl. (ii), redesignated former cl. (ii) as (iii), and inserted in cl. (iii) “, not later than 60 days after receiving such request,” after “provide”.
+Subsec. (c)(1)(A). Pub. L. 118–31, § 541(1)(A), added cl. (ii), redesignated former cl. (ii) as (iii), and inserted in cl. (iii) “, not later than 60 days after receiving such request,” after “provide”.
 
-Subsec. (c)(1)(B). Pub. L. 118–31, § 541(1)(B), substituted “subparagraph (A)(iii)” for “subparagraph (A)(ii)”.
+Subsec. (c)(1)(B). Pub. L. 118–31, § 541(1)(B), substituted “subparagraph (A)(iii)” for “subparagraph (A)(ii)”.
 
-Subsec. (c)(6), (7). Pub. L. 118–31, § 541(2), (3), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (c)(6), (7). Pub. L. 118–31, § 541(2), (3), added par. (6) and redesignated former par. (6) as (7).
 
 2022—Subsec. (a)(3) to (5). Pub. L. 117–263 added pars. (3) to (5).
 
-2021—Subsec. (c)(1)(A)(ii). Pub. L. 116–283, § 521(a)(1)(A), substituted “electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).” for “and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B)).”
+2021—Subsec. (c)(1)(A)(ii). Pub. L. 116–283, § 521(a)(1)(A), substituted “electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).” for “and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B)).”
 
-Subsec. (c)(1)(B). Pub. L. 116–283, § 521(a)(1)(B), substituted “electronic mail address, and telephone listing” for “and telephone listing”.
+Subsec. (c)(1)(B). Pub. L. 116–283, § 521(a)(1)(B), substituted “electronic mail address, and telephone listing” for “and telephone listing”.
 
-Subsec. (d). Pub. L. 116–283, § 521(a)(2), struck out subsec. (d). Text read as follows: “In this section, the term ‘directory information’ has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).”
+Subsec. (d). Pub. L. 116–283, § 521(a)(2), struck out subsec. (d). Text read as follows: “In this section, the term ‘directory information’ has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).”
 
 2015—Subsec. (c)(6)(A)(i). Pub. L. 114–95 substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)”.
 
 2004—Subsec. (c)(1)(B). Pub. L. 108–375 substituted “educational” for “education” after “Each local”.
 
-2003—Subsec. (c)(5). Pub. L. 108–136, § 543(a), substituted “apply to a private secondary school that” for “apply to—
+2003—Subsec. (c)(5). Pub. L. 108–136, § 543(a), substituted “apply to a private secondary school that” for “apply to—
 
 “(A) a local educational agency with respect to access to secondary school students or access to directory information concerning such students for any period during which there is in effect a policy of that agency, established by majority vote of the governing body of the agency, to deny recruiting access to those students or to that directory information, respectively; or
 
 “(B) a private secondary school which”.
 
-Subsec. (c)(6)(A)(i). Pub. L. 108–136, § 543(b), substituted “9101” and “7801” for “14101” and “8801”, respectively.
+Subsec. (c)(6)(A)(i). Pub. L. 108–136, § 543(b), substituted “9101” and “7801” for “14101” and “8801”, respectively.
 
-2001—Subsec. (c). Pub. L. 107–107, § 544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
+2001—Subsec. (c). Pub. L. 107–107, § 544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
 
-Subsec. (c)(6)(A)(i). Pub. L. 107–107, § 1048(a)(5)(A), substituted “14101” for “14101(18)” and “8801” for “8801(18)”.
+Subsec. (c)(6)(A)(i). Pub. L. 107–107, § 1048(a)(5)(A), substituted “14101” for “14101(18)” and “8801” for “8801(18)”.
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title V, §§ 562, 563(c)(1)], inserted heading, designated existing provisions as par. (1), and added par. (2).
+2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title V, §§ 562, 563(c)(1)], inserted heading, designated existing provisions as par. (1), and added par. (2).
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 563(c)(2)], inserted heading.
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 563(c)(2)], inserted heading.
 
-Subsec. (b)(7). Pub. L. 106–398, § 1 [[div. A], title V, § 563(b)(1)], struck out par. (7) which read as follows: “In this subsection, ‘directory information’ means, with respect to a student, the student’s name, address, telephone listing, date and place of birth, level of education, degrees received, and the most recent previous educational agency or institution attended by the student.”
+Subsec. (b)(7). Pub. L. 106–398, § 1 [[div. A], title V, § 563(b)(1)], struck out par. (7) which read as follows: “In this subsection, ‘directory information’ means, with respect to a student, the student’s name, address, telephone listing, date and place of birth, level of education, degrees received, and the most recent previous educational agency or institution attended by the student.”
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 563(a)], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each local educational agency is requested to provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 563(a)], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each local educational agency is requested to provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
 
-Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title V, § 563(b)(2)], added subsec. (d).
+Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title V, § 563(b)(2)], added subsec. (d).
 
-1999—Subsec. (b)(5). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+1999—Subsec. (b)(5). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-Subsec. (c). Pub. L. 106–65, § 571, added subsec. (c).
+Subsec. (c). Pub. L. 106–65, § 571, added subsec. (c).
 
 1996—Subsec. (b)(5). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-1982—Pub. L. 97–252, § 1114(b)(2), inserted “; compilation of directory information” in section catchline.
+1982—Pub. L. 97–252, § 1114(b)(2), inserted “; compilation of directory information” in section catchline.
 
-Subsec. (a). Pub. L. 97–252, § 1114(b)(1)(A), designated existing provisions as subsec. (a).
+Subsec. (a). Pub. L. 97–252, § 1114(b)(1)(A), designated existing provisions as subsec. (a).
 
-Subsec. (b). Pub. L. 97–252, § 1114(b)(1)(B), added subsec. (b).
+Subsec. (b). Pub. L. 97–252, § 1114(b)(1)(B), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -285,13 +285,13 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 544(b), Dec. 28, 2001, 115 Stat. 1113, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 2002, immediately after the amendment to section 503(c) of title 10, United States Code, made, effective that date, by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131).”
+Pub. L. 107–107, div. A, title V, § 544(b), Dec. 28, 2001, 115 Stat. 1113, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 2002, immediately after the amendment to section 503(c) of title 10, United States Code, made, effective that date, by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131).”
 
-Pub. L. 107–107, div. A, title X, § 1048(a)(5)(B), Dec. 28, 2001, 115 Stat. 1222, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on July 1, 2002, immediately after the amendment to such section [this section] effective that date by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131).”
+Pub. L. 107–107, div. A, title X, § 1048(a)(5)(B), Dec. 28, 2001, 115 Stat. 1222, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on July 1, 2002, immediately after the amendment to such section [this section] effective that date by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131).”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 563(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 2002.”
+Pub. L. 106–398, § 1 [[div. A], title V, § 563(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 2002.”
 
 **Transfer of Functions**
 
@@ -299,11 +299,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Regulations to Ensure Notice to Recruits of Options for Naturalization**
 
-Pub. L. 117–81, div. A, title V, § 523(a), Dec. 27, 2021, 135 Stat. 1687, provided that: “The Secretary of each military department shall prescribe regulations that ensure that a military recruit, who is not a citizen of the United States, receives proper notice of options for naturalization under title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.)[.] Such notice shall inform the recruit of existing programs or services that may aid in the naturalization process of such recruit.”
+Pub. L. 117–81, div. A, title V, § 523(a), Dec. 27, 2021, 135 Stat. 1687, provided that: “The Secretary of each military department shall prescribe regulations that ensure that a military recruit, who is not a citizen of the United States, receives proper notice of options for naturalization under title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.)[.] Such notice shall inform the recruit of existing programs or services that may aid in the naturalization process of such recruit.”
 
 **Community College Enlisted Training Corps Demonstration Program**
 
-Pub. L. 118–31, div. A, title V, § 548, Dec. 22, 2023, 137 Stat. 267, provided that:
+Pub. L. 118–31, div. A, title V, § 548, Dec. 22, 2023, 137 Stat. 267, provided that:
 
 > **“(a) Demonstration Program.—**
 
@@ -335,7 +335,7 @@ Pub. L. 118–31, div. A, title V, § 548, Dec. 22, 2023, 137 Stat. 267, provi
 
 **Certification Requirement Regarding Contracting for Military Recruiting**
 
-Pub. L. 118–31, div. A, title XV, § 1555, Dec. 22, 2023, 137 Stat. 581, as amended by Pub. L. 118–159, div. A, title XV, § 1542, Dec. 23, 2024, 138 Stat. 2149; Pub. L. 119–60, div. A, title XV, § 1541, Dec. 18, 2025, 139 Stat. 1166, provided that:
+Pub. L. 118–31, div. A, title XV, § 1555, Dec. 22, 2023, 137 Stat. 581, as amended by Pub. L. 118–159, div. A, title XV, § 1542, Dec. 23, 2024, 138 Stat. 2149; Pub. L. 119–60, div. A, title XV, § 1541, Dec. 18, 2025, 139 Stat. 1166, provided that:
 
 > **“(a) Certification Requirement.—** Prior to the Secretary of Defense entering into any contract or other agreement (or extending, renewing, or otherwise modifying an existing contract or other agreement) with an entity for the purpose of that entity placing military recruitment advertisements on behalf of the Department of Defense, the Secretary shall require, as a condition of such contract or agreement, that the entity certify to the Secretary that the entity does not—
 
@@ -347,11 +347,11 @@ Pub. L. 118–31, div. A, title XV, § 1555, Dec. 22, 2023, 137 Stat. 581, as 
 
 > **“(b) Sunset.—** The requirement under this section shall terminate on December 31, 2030.”
 
-[Pub. L. 119–60, § 1541(3), which directed amendment of subsec. (c), as so redesignated, of section 1555 of Pub. L. 118–31, set out above, was executed to subsec. (b) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (b) by section 1541(2) of Pub. L. 119–60.]
+[Pub. L. 119–60, § 1541(3), which directed amendment of subsec. (c), as so redesignated, of section 1555 of Pub. L. 118–31, set out above, was executed to subsec. (b) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (b) by section 1541(2) of Pub. L. 119–60.]
 
 **Pilot Program on Recruiting**
 
-Pub. L. 117–263, div. A, title V, § 531(b), Dec. 23, 2022, 136 Stat. 2575, provided that:
+Pub. L. 117–263, div. A, title V, § 531(b), Dec. 23, 2022, 136 Stat. 2575, provided that:
 
 > **“(1) Authority.—** The Secretary of Defense may conduct a pilot program (such a program shall be referred to as a ‘Military Recruiting Modernization Program’) to evaluate the feasibility and effectiveness of collecting and using PRI with modern technologies to allow the Secretary to more effectively and efficiently use recruiting resources.
 
@@ -397,11 +397,11 @@ Pub. L. 117–263, div. A, title V, § 531(b), Dec. 23, 2022, 136 Stat. 2575, 
 
 **Armed Services Vocational Aptitude Battery Test Special Purpose Adjunct To Address Computational Thinking**
 
-Pub. L. 116–283, div. A, title V, § 594, Jan. 1, 2021, 134 Stat. 3666, as amended by Pub. L. 117–81, div. A, title V, § 581, Dec. 27, 2021, 135 Stat. 1755, provided that: “Not later than October 1, 2024, the Secretary of Defense shall establish a special purpose test adjunct to the Armed Services Vocational Aptitude Battery test to address computational thinking skills relevant to military applications, including problem decomposition, abstraction, pattern recognition, analytical ability, the identification of variables involved in data representation, and the ability to create algorithms and solution expressions.”
+Pub. L. 116–283, div. A, title V, § 594, Jan. 1, 2021, 134 Stat. 3666, as amended by Pub. L. 117–81, div. A, title V, § 581, Dec. 27, 2021, 135 Stat. 1755, provided that: “Not later than October 1, 2024, the Secretary of Defense shall establish a special purpose test adjunct to the Armed Services Vocational Aptitude Battery test to address computational thinking skills relevant to military applications, including problem decomposition, abstraction, pattern recognition, analytical ability, the identification of variables involved in data representation, and the ability to create algorithms and solution expressions.”
 
 **Programs on Direct Commissions to Cyber Positions**
 
-Pub. L. 114–328, div. A, title V, § 509, Dec. 23, 2016, 130 Stat. 2109, as amended by Pub. L. 116–283, div. A, title V, § 509A, Jan. 1, 2021, 134 Stat. 3586, provided that:
+Pub. L. 114–328, div. A, title V, § 509, Dec. 23, 2016, 130 Stat. 2109, as amended by Pub. L. 116–283, div. A, title V, § 509A, Jan. 1, 2021, 134 Stat. 3586, provided that:
 
 > **“(a) Programs Authorized.—** Each Secretary of a military department may carry out a program to improve the ability of an Armed Force under the jurisdiction of the Secretary to recruit cyber professionals.
 
@@ -411,7 +411,7 @@ Pub. L. 114–328, div. A, title V, § 509, Dec. 23, 2016, 130 Stat. 2109, as 
 
 **Temporary Authority To Develop and Provide Additional Recruitment Incentives**
 
-Pub. L. 114–92, div. A, title V, § 522, Nov. 25, 2015, 129 Stat. 811, as amended by Pub. L. 117–263, div. A, title V, § 532, Dec. 23, 2022, 136 Stat. 2576, provided that:
+Pub. L. 114–92, div. A, title V, § 522, Nov. 25, 2015, 129 Stat. 811, as amended by Pub. L. 117–263, div. A, title V, § 532, Dec. 23, 2022, 136 Stat. 2576, provided that:
 
 > **“(a) Additional Recruitment Incentives Authorized.—** The Secretary of a military department may develop and provide incentives, not otherwise authorized by law, to encourage individuals to accept an appointment as a commissioned officer, to accept an appointment as a warrant officer, or to enlist in an Armed Force under the jurisdiction of the Secretary.
 
@@ -453,7 +453,7 @@ Pub. L. 114–92, div. A, title V, § 522, Nov. 25, 2015, 129 Stat. 811, as am
 
 **Policy on Military Recruitment and Enlistment of Graduates of Secondary Schools**
 
-Pub. L. 113–66, div. A, title V, § 573, Dec. 26, 2013, 127 Stat. 772, as amended by Pub. L. 114–95, title IX, § 9215(eee), Dec. 10, 2015, 129 Stat. 2186, provided that:
+Pub. L. 113–66, div. A, title V, § 573, Dec. 26, 2013, 127 Stat. 772, as amended by Pub. L. 114–95, title IX, § 9215(eee), Dec. 10, 2015, 129 Stat. 2186, provided that:
 
 > **“(a) Conditions on Use of Test, Assessment, or Screening Tools.—** In the case of any test, assessment, or screening tool utilized under the policy on recruitment and enlistment required by subsection (b) of section 532 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1403; 10 U.S.C. 503 note) for the purpose of identifying persons for recruitment and enlistment in the Armed Forces, the Secretary of Defense shall—
 
@@ -463,7 +463,7 @@ Pub. L. 113–66, div. A, title V, § 573, Dec. 26, 2013, 127 Stat. 772, as am
 
 > **“(b) Rule of Construction.—** Nothing in section 532(b) of the National Defense Authorization Act for Fiscal Year 2012 or this section shall be construed to permit the Secretary of Defense or the Secretary of a military department to create or use a different grading standard on any test, assessment, or screening tool utilized for the purpose of identifying graduates of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 7801]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, for recruitment and enlistment in the Armed Forces.”
 
-Pub. L. 112–81, div. A, title V, § 532, Dec. 31, 2011, 125 Stat. 1403, as amended by Pub. L. 114–95, title IX, § 9215(ddd), Dec. 10, 2015, 129 Stat. 2185, provided that:
+Pub. L. 112–81, div. A, title V, § 532, Dec. 31, 2011, 125 Stat. 1403, as amended by Pub. L. 114–95, title IX, § 9215(ddd), Dec. 10, 2015, 129 Stat. 2185, provided that:
 
 > **“(a) Equal Treatment for Secondary School Graduates.—**
 
@@ -489,7 +489,7 @@ Pub. L. 112–81, div. A, title V, § 532, Dec. 31, 2011, 125 Stat. 1403, as a
 
 **Recruitment and Enlistment of Home-Schooled Students in the Armed Forces**
 
-Pub. L. 109–163, div. A, title V, § 591, Jan. 6, 2006, 119 Stat. 3280, provided that:
+Pub. L. 109–163, div. A, title V, § 591, Jan. 6, 2006, 119 Stat. 3280, provided that:
 
 > **“(a) Policy on Recruitment and Enlistment.—**
 
@@ -511,7 +511,7 @@ Pub. L. 109–163, div. A, title V, § 591, Jan. 6, 2006, 119 Stat. 3280, prov
 
 **Temporary Army Authority To Provide Additional Recruitment Incentives**
 
-Pub. L. 109–163, div. A, title VI, § 681, Jan. 6, 2006, 119 Stat. 3320, as amended by Pub. L. 111–84, div. A, title VI, § 621, Oct. 28, 2009, 123 Stat. 2358, provided that:
+Pub. L. 109–163, div. A, title VI, § 681, Jan. 6, 2006, 119 Stat. 3320, as amended by Pub. L. 111–84, div. A, title VI, § 621, Oct. 28, 2009, 123 Stat. 2358, provided that:
 
 > **“(a) Authority to Develop and Provide Recruitment Incentives.—** The Secretary of the Army may develop and provide incentives not otherwise authorized by law to encourage individuals to accept commissions as officers or to enlist in the Army.
 
@@ -565,7 +565,7 @@ Pub. L. 109–163, div. A, title VI, § 681, Jan. 6, 2006, 119 Stat. 3320, as 
 
 **Enhanced Screening Methods and Process Improvements for Recruitment of Home Schooled and National Guard Challenge Program GED Recipients**
 
-Pub. L. 108–375, div. A, title V, § 593, Oct. 28, 2004, 118 Stat. 1934, as amended by Pub. L. 109–364, div. A, title X, § 1071(g)(4), Oct. 17, 2006, 120 Stat. 2402, provided that:
+Pub. L. 108–375, div. A, title V, § 593, Oct. 28, 2004, 118 Stat. 1934, as amended by Pub. L. 109–364, div. A, title X, § 1071(g)(4), Oct. 17, 2006, 120 Stat. 2402, provided that:
 
 > **“(a) Enhanced Screening Methods and Process Improvements.—**
 
@@ -589,7 +589,7 @@ Pub. L. 108–375, div. A, title V, § 593, Oct. 28, 2004, 118 Stat. 1934, as 
 
 **Department of Defense Joint Advertising, Market Research, and Studies Program**
 
-Pub. L. 108–136, div. A, title V, § 548, Nov. 24, 2003, 117 Stat. 1481, provided that:
+Pub. L. 108–136, div. A, title V, § 548, Nov. 24, 2003, 117 Stat. 1481, provided that:
 
 > **“(a) Program Authorized.—** The Secretary of Defense may carry out a joint advertising, market research, and studies program to complement the recruiting advertising programs of the military departments and improve the ability of the military departments to attract and recruit qualified individuals to serve in the Armed Forces.
 
@@ -597,11 +597,11 @@ Pub. L. 108–136, div. A, title V, § 548, Nov. 24, 2003, 117 Stat. 1481, pro
 
 **Notification to Local Educational Agencies**
 
-Pub. L. 107–107, div. A, title V, § 544(c), Dec. 28, 2001, 115 Stat. 1113, directed the Secretary of Education to provide to local educational agencies notice of the provisions of subsec. (c) of this section, as amended by Pub. L. 107–107, not later than 120 days after Dec. 28, 2001.
+Pub. L. 107–107, div. A, title V, § 544(c), Dec. 28, 2001, 115 Stat. 1113, directed the Secretary of Education to provide to local educational agencies notice of the provisions of subsec. (c) of this section, as amended by Pub. L. 107–107, not later than 120 days after Dec. 28, 2001.
 
 **Army Recruiting Pilot Programs**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 561], Oct. 30, 2000, 114 Stat. 1654, 1654A–129, as amended by Pub. L. 107–107, div. A, title V, § 543, Dec. 28, 2001, 115 Stat. 1112, provided that:
+Pub. L. 106–398, § 1 [[div. A], title V, § 561], Oct. 30, 2000, 114 Stat. 1654, 1654A–129, as amended by Pub. L. 107–107, div. A, title V, § 543, Dec. 28, 2001, 115 Stat. 1112, provided that:
 
 > **“(a) Requirement for Programs.—** The Secretary of the Army shall carry out pilot programs to test various recruiting approaches under this section for the following purposes:
 
@@ -689,7 +689,7 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 561], Oct. 30, 2000, 114 Stat
 
 **Pilot Program To Enhance Military Recruiting by Improving Military Awareness of School Counselors and Educators**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 564], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, as amended by Pub. L. 109–364, div. A, title X, § 1046(d), Oct. 17, 2006, 120 Stat. 2394, directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
+Pub. L. 106–398, § 1 [[div. A], title V, § 564], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, as amended by Pub. L. 109–364, div. A, title X, § 1046(d), Oct. 17, 2006, 120 Stat. 2394, directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
 
 **Measures To Improve Recruit Quality and Reduce Recruit Attrition**
 
@@ -743,15 +743,15 @@ Pub. L. 105–85, div. A, title V, subtitle D, Nov. 18, 1997, 111 Stat. 1738, pr
 
 **Denial of Funds for Preventing ROTC Access to Campus or Federal Military Recruiting on Campus; Exceptions**
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title V, § 514], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which provided that none of the funds made available in any Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act for any fiscal year could be provided by contract or by grant to a covered educational entity if the Secretary of Defense determined that the covered educational entity had a policy or practice that prohibited or prevented the maintaining, establishing, or operation of a unit of the Senior Reserve Officer Training Corps at the covered educational entity, or a student at the covered educational entity from enrolling in a unit of the Senior Reserve Officer Training Corps at another institution of higher education, or prohibited or prevented entry to campuses, or access to students on campuses, for purposes of Federal military recruiting or access by military recruiters for purposes of Federal military recruiting to student names, addresses, and telephone listings and, if known, student ages, levels of education, and majors, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, § 549(a)(1), (b)(2), Oct. 5, 1999, 113 Stat. 609, 611.
+Pub. L. 104–208, div. A, title I, § 101(e) [title V, § 514], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which provided that none of the funds made available in any Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act for any fiscal year could be provided by contract or by grant to a covered educational entity if the Secretary of Defense determined that the covered educational entity had a policy or practice that prohibited or prevented the maintaining, establishing, or operation of a unit of the Senior Reserve Officer Training Corps at the covered educational entity, or a student at the covered educational entity from enrolling in a unit of the Senior Reserve Officer Training Corps at another institution of higher education, or prohibited or prevented entry to campuses, or access to students on campuses, for purposes of Federal military recruiting or access by military recruiters for purposes of Federal military recruiting to student names, addresses, and telephone listings and, if known, student ages, levels of education, and majors, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, § 549(a)(1), (b)(2), Oct. 5, 1999, 113 Stat. 609, 611.
 
 **Military Recruiting on Campus**
 
-Pub. L. 103–337, div. A, title V, § 558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, § 206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, § 549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
+Pub. L. 103–337, div. A, title V, § 558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, § 206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, § 549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
 
 **Military Recruiting Information**
 
-Pub. L. 97–252, title XI, § 1114(a), Sept. 8, 1982, 96 Stat. 748, provided that:
+Pub. L. 97–252, title XI, § 1114(a), Sept. 8, 1982, 96 Stat. 748, provided that:
 
 > “The Congress finds that in order for Congress to carry out effectively its constitutional authority to raise and support armies, it is essential—
 
@@ -761,7 +761,7 @@ Pub. L. 97–252, title XI, § 1114(a), Sept. 8, 1982, 96 Stat. 748, provided 
 
 **Access of Armed Forces Recruiting Personnel to Secondary Educational Institutions; Release of Data**
 
-Pub. L. 96–342, title III, § 302(d), Sept. 8, 1980, 94 Stat. 1083, provided that:
+Pub. L. 96–342, title III, § 302(d), Sept. 8, 1980, 94 Stat. 1083, provided that:
 
 > “It is the sense of the Congress—
 
@@ -769,7 +769,7 @@ Pub. L. 96–342, title III, § 302(d), Sept. 8, 1980, 94 Stat. 1083, provided
 
 > **“(2)** that it is appropriate for such institutions to release to the Armed Forces information regarding students at such institutions (including such data as names, addresses, and education levels) which is relevant to recruiting individuals for service in the Armed Forces.”
 
-## § 504. Persons not qualified
+## § 504. Persons not qualified
 
 **(a) Insanity, Desertion, Felons, Etc.—** No person who is insane, intoxicated, or a deserter from an armed force, or who has been convicted of a felony, may be enlisted in any armed force. However, the Secretary concerned may authorize exceptions, in meritorious cases, for the enlistment of deserters and persons convicted of felonies.
 
@@ -827,7 +827,7 @@ Pub. L. 96–342, title III, § 302(d), Sept. 8, 1980, 94 Stat. 1083, provided
 
 **(C)** The number of agreements described in paragraph (3)(C) into which the Secretary entered.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 109–163, div. A, title V, § 542(a), Jan. 6, 2006, 119 Stat. 3253; Pub. L. 115–232, div. A, title V, § 521(a), Aug. 13, 2018, 132 Stat. 1755; Pub. L. 119–60, div. A, title V, § 532(a), Dec. 18, 2025, 139 Stat. 869.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 109–163, div. A, title V, § 542(a), Jan. 6, 2006, 119 Stat. 3253; Pub. L. 115–232, div. A, title V, § 521(a), Aug. 13, 2018, 132 Stat. 1755; Pub. L. 119–60, div. A, title V, § 532(a), Dec. 18, 2025, 139 Stat. 869.)
 
 **Editorial Notes**
 
@@ -839,9 +839,9 @@ Another section 504 was renumbered section 500d of this title.
 
 2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
 
-2018—Subsec. (b)(2). Pub. L. 115–232, § 521(a)(1), inserted “and subject to paragraph (3),” after “Notwithstanding paragraph (1),” substituted “person possesses a critical skill or expertise—” for “enlistment is vital to the national interest.”, and added subpars. (A) and (B).
+2018—Subsec. (b)(2). Pub. L. 115–232, § 521(a)(1), inserted “and subject to paragraph (3),” after “Notwithstanding paragraph (1),” substituted “person possesses a critical skill or expertise—” for “enlistment is vital to the national interest.”, and added subpars. (A) and (B).
 
-Subsec. (b)(3). Pub. L. 115–232, § 521(a)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 115–232, § 521(a)(2), added par. (3).
 
 2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -849,7 +849,7 @@ Subsec. (b)(3). Pub. L. 115–232, § 521(a)(2), added par. (3).
 
 **Provision of Information Regarding Federal Service to Certain Persons Ineligible To Enlist in Certain Armed Forces**
 
-Pub. L. 118–159, div. A, title V, § 536, Dec. 23, 2024, 138 Stat. 1888, provided that:
+Pub. L. 118–159, div. A, title V, § 536, Dec. 23, 2024, 138 Stat. 1888, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall prescribe regulations directing the Secretary of a military department to provide, to a person described in subsection (b), information regarding opportunities for Federal, or other public, service for which the person may be qualified.
 
@@ -859,9 +859,9 @@ Pub. L. 118–159, div. A, title V, § 536, Dec. 23, 2024, 138 Stat. 1888, pro
 
 **Prohibition on Waiver for Commissioning or Enlistment in the Armed Forces for any Individual Convicted of a Felony Sexual Offense**
 
-Pub. L. 112–239, div. A, title V, § 523, Jan. 2, 2013, 126 Stat. 1723, which provided that an individual may not be provided a waiver for commissioning or enlistment in the Armed Forces if convicted of rape or other sexual offenses, was repealed by Pub. L. 113–66, div. A, title XVII, § 1711(b), Dec. 26, 2013, 127 Stat. 963. See section 657 of this title.
+Pub. L. 112–239, div. A, title V, § 523, Jan. 2, 2013, 126 Stat. 1723, which provided that an individual may not be provided a waiver for commissioning or enlistment in the Armed Forces if convicted of rape or other sexual offenses, was repealed by Pub. L. 113–66, div. A, title XVII, § 1711(b), Dec. 26, 2013, 127 Stat. 963. See section 657 of this title.
 
-## § 505. Regular components: qualifications, term, grade
+## § 505. Regular components: qualifications, term, grade
 
 **(a)** The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
 
@@ -885,7 +885,7 @@ Pub. L. 112–239, div. A, title V, § 523, Jan. 2, 2013, 126 Stat. 1723, whic
 
 **(e) Enlistments in the Space Force.—** For enlistments in the Space Force, see sections 20301 and 20302 of this title.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 93–290, May 24, 1974, 88 Stat. 173; Pub. L. 95–485, title VIII, § 820(a), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 98–94, title X, § 1023, Sept. 24, 1983, 97 Stat. 671; Pub. L. 104–201, div. A, title V, § 511, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 109–163, div. A, title V, §§ 543, 544, Jan. 6, 2006, 119 Stat. 3253; Pub. L. 110–417, [div. A], title V, § 531(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 116–283, div. A, title IX, § 924(b)(5)(A), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–31, div. A, title XVII, § 1717(b)(2), Dec. 22, 2023, 137 Stat. 655.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 93–290, May 24, 1974, 88 Stat. 173; Pub. L. 95–485, title VIII, § 820(a), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 98–94, title X, § 1023, Sept. 24, 1983, 97 Stat. 671; Pub. L. 104–201, div. A, title V, § 511, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 109–163, div. A, title V, §§ 543, 544, Jan. 6, 2006, 119 Stat. 3253; Pub. L. 110–417, [div. A], title V, § 531(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 116–283, div. A, title IX, § 924(b)(5)(A), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–31, div. A, title XVII, § 1717(b)(2), Dec. 22, 2023, 137 Stat. 655.)
 
 **Editorial Notes**
 
@@ -895,17 +895,17 @@ Another section 505 was renumbered section 500e of this title.
 
 **Amendments**
 
-2023—Pub. L. 118–31, § 1717(b)(2)(A), struck out “Regular Space Force,” after “Regular Marine Corps,” wherever appearing.
+2023—Pub. L. 118–31, § 1717(b)(2)(A), struck out “Regular Space Force,” after “Regular Marine Corps,” wherever appearing.
 
-Subsec. (e). Pub. L. 118–31, § 1717(b)(2)(B), added subsec. (e).
+Subsec. (e). Pub. L. 118–31, § 1717(b)(2)(B), added subsec. (e).
 
 2021—Pub. L. 116–283 substituted “Regular Marine Corps, Regular Space Force,” for “Regular Marine Corps,” wherever appearing.
 
 2008—Subsec. (d)(2), (3)(A). Pub. L. 110–417 substituted “eight years” for “six years”.
 
-2006—Subsec. (a). Pub. L. 109–163, § 543, in first sentence, substituted “forty-two years of age” for “thirty-five years of age”.
+2006—Subsec. (a). Pub. L. 109–163, § 543, in first sentence, substituted “forty-two years of age” for “thirty-five years of age”.
 
-Subsec. (c). Pub. L. 109–163, § 544, substituted “eight years” for “six years”.
+Subsec. (c). Pub. L. 109–163, § 544, substituted “eight years” for “six years”.
 
 1996—Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary concerned may accept reenlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for period of at least two but not more than six years. No enlisted member is entitled to be reenlisted for a period that would expire before the end of his current enlistment.”
 
@@ -913,9 +913,9 @@ Subsec. (c). Pub. L. 109–163, § 544, substituted “eight years” for “s
 
 1978—Subsecs. (d), (e). Pub. L. 95–485 redesignated subsec. (e) as (d). Former subsec. (d), which provided that in the Regular Army female persons may be enlisted only in the Women’s Army Corps, was struck out.
 
-1974—Subsec. (a). Pub. L. 93–290, § 1, struck out provisions which prohibited the Secretary from accepting original enlistments from female persons less than 18 years of age, and which required consent of the parent or guardian for an original enlistment of a female person under 21 years of age.
+1974—Subsec. (a). Pub. L. 93–290, § 1, struck out provisions which prohibited the Secretary from accepting original enlistments from female persons less than 18 years of age, and which required consent of the parent or guardian for an original enlistment of a female person under 21 years of age.
 
-Subsec. (c). Pub. L. 93–290, § 2, substituted provisions permitting the Secretary to accept original enlistments of persons for the duration of their minority or for a period of two, three, four, five, or six years, for provisions which limited the Secretary to accept original enlistments from male persons for the duration of their minority or for a period of two, three, four, five, or six years, and from female persons for a period of two, three, four, five, or six years.
+Subsec. (c). Pub. L. 93–290, § 2, substituted provisions permitting the Secretary to accept original enlistments of persons for the duration of their minority or for a period of two, three, four, five, or six years, for provisions which limited the Secretary to accept original enlistments from male persons for the duration of their minority or for a period of two, three, four, five, or six years, and from female persons for a period of two, three, four, five, or six years.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -923,11 +923,11 @@ Subsec. (c). Pub. L. 93–290, § 2, substituted provisions permitting the Sec
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 506. Regular components: extension of enlistments during war
+## § 506. Regular components: extension of enlistments during war
 
 An enlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Space Force, or Regular Coast Guard in effect at the beginning of a war, or entered into during a war, unless sooner terminated by the President, continues in effect until six months after the termination of that war.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 116–283, div. A, title IX, § 924(b)(5)(B), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–31, div. A, title XVII, § 1717(b)(3), Dec. 22, 2023, 137 Stat. 655.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 116–283, div. A, title IX, § 924(b)(5)(B), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–31, div. A, title XVII, § 1717(b)(3), Dec. 22, 2023, 137 Stat. 655.)
 
 **Editorial Notes**
 
@@ -947,15 +947,15 @@ Another section 506 was renumbered section 500f of this title.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 507. Extension of enlistment for members needing medical care or hospitalization
+## § 507. Extension of enlistment for members needing medical care or hospitalization
 
 **(a)** An enlisted member of an armed force on active duty whose term of enlistment expires while he is suffering from disease or injury incident to service and not due to his misconduct, and who needs medical care or hospitalization, may be retained on active duty, with his consent, until he recovers to the extent that he is able to meet the physical requirements for reenlistment, or it is determined that recovery to that extent is impossible.
 
 **(b)** This section does not prevent the retention in service, without his consent, of an enlisted member of an armed force under section 972 of this title.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754.)
 
-## § 508. Reenlistment: qualifications
+## § 508. Reenlistment: qualifications
 
 **(a)** No person whose service during his last term of enlistment was not honest and faithful may be reenlisted in an armed force. However, the Secretary concerned may authorize the reenlistment in the armed force under his jurisdiction of such a person if his conduct after that service has been good.
 
@@ -963,7 +963,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c)** This section does not deprive a person of any right to be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Space Force, or Regular Coast Guard under any other provision of law.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755; amended Pub. L. 116–283, div. A, title IX, § 924(b)(5)(C), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–31, div. A, title XVII, § 1717(b)(4), Dec. 22, 2023, 137 Stat. 655.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755; amended Pub. L. 116–283, div. A, title IX, § 924(b)(5)(C), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–31, div. A, title XVII, § 1717(b)(4), Dec. 22, 2023, 137 Stat. 655.)
 
 **Editorial Notes**
 
@@ -979,15 +979,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 509. Voluntary extension of enlistments: periods and benefits
+## § 509. Voluntary extension of enlistments: periods and benefits
 
 **(a)** Under such regulations as the Secretary concerned may prescribe, the term of enlistment of a member of an armed force may be extended or reextended with his written consent for any period. However, the total of all such extensions of an enlistment may not exceed four years.
 
 **(b)** When a member is discharged from an enlistment that has been extended under this section, he has the same rights, privileges, and benefits that he would have if discharged at the same time from an enlistment not so extended.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755.)
 
-## § 510. Enlistment incentives for pursuit of skills to facilitate national service
+## § 510. Enlistment incentives for pursuit of skills to facilitate national service
 
 **(a) Enlistment Incentive Program.—** The Secretary of Defense shall carry out an enlistment incentive program in accordance with this section under which a person who is a National Call to Service participant shall be entitled to one of the incentives specified in subsection (e). The program shall be carried out during the period ending on December 31, 2007, and may be carried out after that date.
 
@@ -1081,13 +1081,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(3)** The term “Secretary of a military department” includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
-(Added Pub. L. 107–314, div. A, title V, § 531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, § 535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, § 545, title VI, § 687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, § 1071(e)(2), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(A), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 118–31, div. A, title XVII, § 1717(b)(5), Dec. 22, 2023, 137 Stat. 655; Pub. L. 118–159, div. A, title XVII, § 1701(a)(11), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 107–314, div. A, title V, § 531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, § 535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, § 545, title VI, § 687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, § 1071(e)(2), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(A), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 118–31, div. A, title XVII, § 1717(b)(5), Dec. 22, 2023, 137 Stat. 655; Pub. L. 118–159, div. A, title XVII, § 1701(a)(11), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National and Community Service Act of 1990, referred to in subsec. (*l*)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle C of title I of the Act is classified generally to division C (§ 12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (*l*)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle C of title I of the Act is classified generally to division C (§ 12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -1097,23 +1097,23 @@ A prior section 510 was renumbered section 12102 of this title.
 
 2024—Subsec. (h)(2)(B). Pub. L. 118–159 substituted “subchapters II and III” for “subchapters I and II”.
 
-2023—Subsec. (c)(2). Pub. L. 118–31, § 1717(b)(5)(A), inserted “or the Space Force” after “Selected Reserve”.
+2023—Subsec. (c)(2). Pub. L. 118–31, § 1717(b)(5)(A), inserted “or the Space Force” after “Selected Reserve”.
 
-Subsec. (c)(3)(D) to (F). Pub. L. 118–31, § 1717(b)(5)(B), added subpar. (D), redesignated former subpars. (D) and (E) as (E) and (F), respectively, and in subpar. (F) substituted “subparagraphs (A) through (E)” for “subparagraphs (A) through (D)”.
+Subsec. (c)(3)(D) to (F). Pub. L. 118–31, § 1717(b)(5)(B), added subpar. (D), redesignated former subpars. (D) and (E) as (E) and (F), respectively, and in subpar. (F) substituted “subparagraphs (A) through (E)” for “subparagraphs (A) through (D)”.
 
 2017—Subsec. (i). Pub. L. 115–91 inserted “or 373” before “of title 37”.
 
-2006—Subsec. (c)(3)(D). Pub. L. 109–163, § 545(a), substituted “in Americorps or another domestic national service program” for “in the Peace Corps, Americorps, or another national service program”.
+2006—Subsec. (c)(3)(D). Pub. L. 109–163, § 545(a), substituted “in Americorps or another domestic national service program” for “in the Peace Corps, Americorps, or another national service program”.
 
-Subsec. (d). Pub. L. 109–163, § 545(b), as amended by Pub. L. 109–364, inserted “and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program” before period at end.
+Subsec. (d). Pub. L. 109–163, § 545(b), as amended by Pub. L. 109–364, inserted “and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program” before period at end.
 
-Subsec. (h)(2). Pub. L. 109–163, § 545(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+Subsec. (h)(2). Pub. L. 109–163, § 545(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2)(A) The Secretary of Defense shall, to the maximum extent practicable, administer the receipt by National Call to Service participants of incentives under paragraph (3) or (4) of subsection (e) as if such National Call to Service participants were, in receiving such incentives, receiving educational assistance for members of the Selected Reserve under chapter 1606 of this title.
 
 “(B) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, prescribe regulations for purposes of subparagraph (A). Such regulations shall, to the maximum extent practicable, take into account the administrative provisions of chapters 30 and 36 of title 38 that are specified in section 16136 of this title.”
 
-Subsec. (i). Pub. L. 109–163, § 687(c)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related to pro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
+Subsec. (i). Pub. L. 109–163, § 687(c)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related to pro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
 
 2003—Subsec. (j). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts for payment of incentives under subsection (e), including payment of allowances for educational assistance under that subsection, shall be derived from amounts available to the Secretary of the military department concerned for payment of pay, allowances, and other expenses of the members of the armed force concerned.”
 
@@ -1121,11 +1121,11 @@ Subsec. (i). Pub. L. 109–163, § 687(c)(1), amended heading and text of subs
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title X, § 1071(e), Oct. 17, 2006, 120 Stat. 2401, provided that the amendment made by section 1071(e)(2) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 109–364, div. A, title X, § 1071(e), Oct. 17, 2006, 120 Stat. 2401, provided that the amendment made by section 1071(e)(2) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
 **Savings Provision**
 
-Pub. L. 109–163, div. A, title VI, § 687(f), Jan. 6, 2006, 119 Stat. 3336, provided that: “In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c), or (d) of this section [amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, section 182 of Title 14, Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title 37, Pay and Allowances of the Uniformed Services], such provision of law, as in effect on the day before the date of the enactment of this Act [Jan. 6, 2006], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law.”
+Pub. L. 109–163, div. A, title VI, § 687(f), Jan. 6, 2006, 119 Stat. 3336, provided that: “In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c), or (d) of this section [amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, section 182 of Title 14, Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title 37, Pay and Allowances of the Uniformed Services], such provision of law, as in effect on the day before the date of the enactment of this Act [Jan. 6, 2006], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law.”
 
 **Transfer of Functions**
 
@@ -1133,17 +1133,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Commencement of Program**
 
-Pub. L. 107–314, div. A, title V, § 531(b), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to prescribe the date, not later than Oct. 1, 2003, on which the program provided for under this section was to commence.
+Pub. L. 107–314, div. A, title V, § 531(b), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to prescribe the date, not later than Oct. 1, 2003, on which the program provided for under this section was to commence.
 
 **Implementation Report**
 
-Pub. L. 107–314, div. A, title V, § 531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submit to the Committees on Armed Services of the Senate and House of Representatives, no later than Mar. 31, 2003, a report on the Secretary’s plans for implementation of this section.
+Pub. L. 107–314, div. A, title V, § 531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submit to the Committees on Armed Services of the Senate and House of Representatives, no later than Mar. 31, 2003, a report on the Secretary’s plans for implementation of this section.
 
 **Effectiveness Reports**
 
-Pub. L. 107–314, div. A, title V, § 531(e), Dec. 2, 2002, 116 Stat. 2545, directed the Secretary of Defense to submit to the Committees on Armed Services of the Senate and House of Representatives, no later than Mar. 31, 2005, and Mar. 31, 2007, reports on the effectiveness of the program under this section in attracting new recruits to national service.
+Pub. L. 107–314, div. A, title V, § 531(e), Dec. 2, 2002, 116 Stat. 2545, directed the Secretary of Defense to submit to the Committees on Armed Services of the Senate and House of Representatives, no later than Mar. 31, 2005, and Mar. 31, 2007, reports on the effectiveness of the program under this section in attracting new recruits to national service.
 
-## § 511. College First Program
+## § 511. College First Program
 
 **(a) Program Authority.—** The Secretary of each military department may establish a program to increase the number of, and the level of the qualifications of, persons entering the armed forces as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service.
 
@@ -1181,7 +1181,7 @@ Pub. L. 107–314, div. A, title V, § 531(e), Dec. 2, 2002, 116 Stat. 2545, d
 
 **(f) Special Pay and Bonuses.—** Upon enlisting in the regular component of the member’s armed force, a person who initially enlisted as a Reserve under this section may, at the discretion of the Secretary concerned, be eligible for all regular special pays, bonuses, education benefits, and loan repayment programs.
 
-(Added Pub. L. 108–375, div. A, title V, § 551(a)(1), Oct. 28, 2004, 118 Stat. 1909; amended Pub. L. 118–31, div. A, title XVII, § 1717(b)(6), Dec. 22, 2023, 137 Stat. 655.)
+(Added Pub. L. 108–375, div. A, title V, § 551(a)(1), Oct. 28, 2004, 118 Stat. 1909; amended Pub. L. 118–31, div. A, title XVII, § 1717(b)(6), Dec. 22, 2023, 137 Stat. 655.)
 
 **Editorial Notes**
 
@@ -1197,11 +1197,11 @@ A prior section 511 was renumbered section 12103 of this title.
 
 **Continuation for Army of Prior Army College First Program**
 
-Pub. L. 108–375, div. A, title V, § 551(b), Oct. 28, 2004, 118 Stat. 1911, provided that: “The Secretary of the Army shall treat the program under section 511 of title 10, United States Code, as added by subsection (a), as a continuation of the program under section 573 of the National Defense Authorization Act for Fiscal Year 2000 [Pub. L. 106–65] ([formerly] 10 U.S.C. 513 note), and for such purpose the Secretary may treat such section 511 as having been enacted on October 1, 2004.”
+Pub. L. 108–375, div. A, title V, § 551(b), Oct. 28, 2004, 118 Stat. 1911, provided that: “The Secretary of the Army shall treat the program under section 511 of title 10, United States Code, as added by subsection (a), as a continuation of the program under section 573 of the National Defense Authorization Act for Fiscal Year 2000 [Pub. L. 106–65] ([formerly] 10 U.S.C. 513 note), and for such purpose the Secretary may treat such section 511 as having been enacted on October 1, 2004.”
 
-## [§ 512. Renumbered § 12104]
+## [§ 512. Renumbered § 12104]
 
-## § 513. Enlistments: Delayed Entry Program
+## § 513. Enlistments: Delayed Entry Program
 
 **(a)** A person with no prior military service who is qualified under section 505 of this title and applicable regulations for enlistment in a regular component of an armed force, or who is qualified under section 20301 of this title and applicable regulations for enlistment in the Space Force, may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, or be enlisted as a member of the Space Force, for a term of not less than six years nor more than eight years.
 
@@ -1225,7 +1225,7 @@ Pub. L. 108–375, div. A, title V, § 551(b), Oct. 28, 2004, 118 Stat. 1911, 
 
 **(d)** This section shall be carried out under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 101–189, div. A, title V, § 501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, § 1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V, § 512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, § 572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, § 515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(ii), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. A, title V, § 526, Dec. 12, 2017, 131 Stat. 1382; Pub. L. 118–31, div. A, title XVII, § 1717(b)(7), Dec. 22, 2023, 137 Stat. 655.)
+(Added Pub. L. 101–189, div. A, title V, § 501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, § 1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V, § 512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, § 572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, § 515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(ii), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. A, title V, § 526, Dec. 12, 2017, 131 Stat. 1382; Pub. L. 118–31, div. A, title XVII, § 1717(b)(7), Dec. 22, 2023, 137 Stat. 655.)
 
 **Editorial Notes**
 
@@ -1233,15 +1233,15 @@ Pub. L. 108–375, div. A, title V, § 551(b), Oct. 28, 2004, 118 Stat. 1911, 
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (b)(3)(C), means the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
 
-The Military Selective Service Act, referred to in subsec. (c), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
+The Military Selective Service Act, referred to in subsec. (c), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
 
 **Prior Provisions**
 
-A prior section 513, act Aug. 10, 1956, ch. 1041, 70A Stat. 18, related to promotion of enlisted members of Reserve components, prior to repeal by Pub. L. 85–861, § 36B(1), Sept. 2, 1958, 72 Stat. 1570.
+A prior section 513, act Aug. 10, 1956, ch. 1041, 70A Stat. 18, related to promotion of enlisted members of Reserve components, prior to repeal by Pub. L. 85–861, § 36B(1), Sept. 2, 1958, 72 Stat. 1570.
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31 inserted “, or who is qualified under section 20301 of this title and applicable regulations for enlistment in the Space Force,” after “armed force” and “, or be enlisted as a member of the Space Force,” after “Coast Guard Reserve”.
+2023—Subsec. (a). Pub. L. 118–31 inserted “, or who is qualified under section 20301 of this title and applicable regulations for enlistment in the Space Force,” after “armed force” and “, or be enlisted as a member of the Space Force,” after “Coast Guard Reserve”.
 
 2017—Subsec. (b). Pub. L. 115–91 redesignated second sentence of par. (1) as (2) and inserted “described in paragraph (1)” after “the 365-day period”, added par. (3), and redesignated former par. (2) as (4) and substituted “this subsection” for “paragraph (1)”.
 
@@ -1265,13 +1265,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title V, § 572(b), Oct. 5, 1999, 113 Stat. 623, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999, and shall apply with respect to enlistments entered into, on or after that date.”
+Pub. L. 106–65, div. A, title V, § 572(b), Oct. 5, 1999, 113 Stat. 623, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999, and shall apply with respect to enlistments entered into, on or after that date.”
 
 **Army College First Pilot Program**
 
-Pub. L. 106–65, div. A, title V, § 573, Oct. 5, 1999, 113 Stat. 623, as amended by Pub. L. 107–107, div. A, title V, § 542(a)–(c), Dec. 28, 2001, 115 Stat. 1110, 1111; Pub. L. 107–314, div. A, title V, § 535, title X, § 1062(j)(1), Dec. 2, 2002, 116 Stat. 2548, 2651, directed the Secretary of the Army to establish a pilot program, known as the “Army College First” program, to be in effect from Oct. 1, 1999, to Sept. 30, 2004, to assess whether the Army could increase the number and qualifications of persons entering the Army as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004. See section 511 of this title and section 551(b) of Pub. L. 108–375, set out as a note under section 511 of this title.
+Pub. L. 106–65, div. A, title V, § 573, Oct. 5, 1999, 113 Stat. 623, as amended by Pub. L. 107–107, div. A, title V, § 542(a)–(c), Dec. 28, 2001, 115 Stat. 1110, 1111; Pub. L. 107–314, div. A, title V, § 535, title X, § 1062(j)(1), Dec. 2, 2002, 116 Stat. 2548, 2651, directed the Secretary of the Army to establish a pilot program, known as the “Army College First” program, to be in effect from Oct. 1, 1999, to Sept. 30, 2004, to assess whether the Army could increase the number and qualifications of persons entering the Army as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004. See section 511 of this title and section 551(b) of Pub. L. 108–375, set out as a note under section 511 of this title.
 
-## § 514. Bounties prohibited; substitutes prohibited
+## § 514. Bounties prohibited; substitutes prohibited
 
 **(a)** No bounty may be paid to induce any person to enlist in an armed force. A clothing allowance or enlistment bonus authorized by law is not a bounty for the purposes of this subsection.
 
@@ -1283,11 +1283,11 @@ Pub. L. 106–65, div. A, title V, § 573, Oct. 5, 1999, 113 Stat. 623, as ame
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 514(a)     514(b) | 50 App.:458 (1st sentence, less applicability to induction). 50 App.:458 (last sentence, less applicability to induction). | June 24, 1948, ch. 625, § 8 (less applicability to induction), 62 Stat. 614. |
+| 514(a) 514(b) | 50 App.:458 (1st sentence, less applicability to induction). 50 App.:458 (last sentence, less applicability to induction). | June 24, 1948, ch. 625, § 8 (less applicability to induction), 62 Stat. 614. |
 
 In subsection (b), the words “active duty” are substituted for the words “training and service”. The word “may” is substituted for the words “shall be permitted or allowed”. The last sentence is substituted for 50 App.:458 (words between 1st and last semicolons). 50 App.:458 (words after last semicolon) is omitted as applicable only to induction.
 
-## § 515. Reenlistment after discharge as warrant officer
+## § 515. Reenlistment after discharge as warrant officer
 
 A person who has been discharged from a regular component of an armed force under section 1165 or 1166 of this title may, upon his request and in the discretion of the Secretary concerned, be enlisted in that armed force in the grade prescribed by the Secretary. However, a person discharged under section 1165 of this title may not be enlisted in a grade lower than the grade that he held immediately before appointment as a warrant officer.
 
@@ -1297,25 +1297,25 @@ A person who has been discharged from a regular component of an armed force unde
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 515 | 10:600d (last 36 words of last sentence). 34:135d (last 36 words of last sentence). 10:600m (last 21 words of 3d sentence). 34:430a (last 21 words of 3d sentence). | May 29, 1954, ch. 249, §§ 6 (last 36 words of last sentence), 15 (last 21 words of 3d sentence), 68 Stat. 159, 164. |
+| 515 | 10:600d (last 36 words of last sentence). 34:135d (last 36 words of last sentence). 10:600m (last 21 words of 3d sentence). 34:430a (last 21 words of 3d sentence). | May 29, 1954, ch. 249, §§ 6 (last 36 words of last sentence), 15 (last 21 words of 3d sentence), 68 Stat. 159, 164. |
 
 The first 20 words are inserted for clarity. The word “request” is substituted for the word “application”.
 
-## § 516. Effect upon enlisted status of acceptance of appointment as cadet or midshipman
+## § 516. Effect upon enlisted status of acceptance of appointment as cadet or midshipman
 
 **(a)** The enlistment or period of obligated service of an enlisted member of the armed forces who accepts an appointment as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy or in the Navy Reserve, may not be terminated because of the acceptance of that appointment. However, while serving as a cadet or midshipman at an Academy, he is entitled only to the pay, allowances, compensation, pensions, and other benefits provided by law for such a cadet or midshipman or, if he is a midshipman in the Navy Reserve, to the compensation and emoluments of a midshipman in the Navy Reserve.
 
 **(b)** If a person covered by subsection (a) is separated from service as a cadet or midshipman, or from service as a midshipman in the Navy Reserve, for any reason other than his appointment as a commissioned officer of a regular or reserve component of an armed force or in the Space Force, or because of a physical disability, he resumes his enlisted status and shall complete the period of service for which he was enlisted or for which he has an obligation, unless he is sooner discharged. In computing the unexpired part of an enlistment or period of obligated service for the purposes of this subsection, all service as a cadet or midshipman is counted as service under that enlistment or period of obligated service.
 
-(Added Pub. L. 85–861, § 1(9)(A), Sept. 2, 1958, 72 Stat. 1439; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(B), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 118–31, div. A, title XVII, § 1717(b)(8), Dec. 22, 2023, 137 Stat. 655.)
+(Added Pub. L. 85–861, § 1(9)(A), Sept. 2, 1958, 72 Stat. 1439; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(B), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 118–31, div. A, title XVII, § 1717(b)(8), Dec. 22, 2023, 137 Stat. 655.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 516(a) 516(b) | 50:1411. 50:1412. | June 25, 1956, ch. 439, §§ 1, 2, 70 Stat. 333. |
+| 516(a) 516(b) | 50:1411. 50:1412. | June 25, 1956, ch. 439, §§ 1, 2, 70 Stat. 333. |
 
-In subsection (a), the words “on or after June 25, 1956” are omitted as executed. The words “Regular, Reserve” and “during the continuation of the cadet or midshipman status of such member” are omitted as surplusage. The words “if he is a midshipman in the Naval Reserve \* \* \* of a midshipman in the Naval Reserve” are substituted for the words “accruing to such reserve midshipman by virtue of his status in the Naval Reserve”.
+In subsection (a), the words “on or after June 25, 1956” are omitted as executed. The words “Regular, Reserve” and “during the continuation of the cadet or midshipman status of such member” are omitted as surplusage. The words “if he is a midshipman in the Naval Reserve \* \* \* of a midshipman in the Naval Reserve” are substituted for the words “accruing to such reserve midshipman by virtue of his status in the Naval Reserve”.
 
 In subsection (b), the words “a person covered by subsection (a)” are substituted for 50:1412 (1st 84 words of 1st sentence). The words “his appointment as a commissioned officer of” are substituted for the words “the acceptance of a commission in”. The words “and shall complete the period of service for which he was enlisted or for which he has an obligation, unless he is sooner discharged” are substituted for 50:1412 (2d sentence). The words “promoted or” are omitted as unnecessary, since the only kind of promotion involved is that to officer, in which case the member is discharged from his enlisted status. The words “as service under that enlistment” are substituted for the words “as time serviced under such contract”.
 
@@ -1333,31 +1333,31 @@ In subsection (b), the words “a person covered by subsection (a)” are substi
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 517. Authorized enlisted end strength: members in pay grades E–8 and E–9
+## § 517. Authorized enlisted end strength: members in pay grades E–8 and E–9
 
 **(a)** The authorized end strength for enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 as of the last day of a fiscal year may not be more than 3.0 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training). In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title.
 
-**[(b)** Repealed. Pub. L. 116–283, div. A, title IV, § 403(a)(3), Jan. 1, 2021, 134 Stat. 3556.]
+**[(b)** Repealed. Pub. L. 116–283, div. A, title IV, § 403(a)(3), Jan. 1, 2021, 134 Stat. 3556.]
 
 **(c)** Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
 
-(Added Pub. L. 87–649, § 2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, § 4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, § 503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, § 503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, § 503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§ 413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, § 413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, § 413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, § 413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, § 413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, § 413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, § 552(a), title XVI, § 1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, § 407(a), title X, § 1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135; Pub. L. 106–398, § 1 [[div. A], title IV, § 421(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–95; Pub. L. 107–107, div. A, title IV, § 403, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 108–375, div. A, title IV, § 416(f), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title IV, § 406, Jan. 28, 2008, 122 Stat. 89; Pub. L. 116–283, div. A, title IV, § 403(a), Jan. 1, 2021, 134 Stat. 3556.)
+(Added Pub. L. 87–649, § 2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, § 4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, § 503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, § 503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, § 503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§ 413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, § 413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, § 413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, § 413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, § 413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, § 413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, § 552(a), title XVI, § 1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, § 407(a), title X, § 1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135; Pub. L. 106–398, § 1 [[div. A], title IV, § 421(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–95; Pub. L. 107–107, div. A, title IV, § 403, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 108–375, div. A, title IV, § 416(f), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title IV, § 406, Jan. 28, 2008, 122 Stat. 89; Pub. L. 116–283, div. A, title IV, § 403(a), Jan. 1, 2021, 134 Stat. 3556.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 517 | 37:232(c) (last sentence). | Oct. 12, 1949, ch. 681, § 201(c) (last sentence); added May 20, 1958, Pub. L. 85–422, § 1(3) (last sentence), 72 Stat. 124. |
+| 517 | 37:232(c) (last sentence). | Oct. 12, 1949, ch. 681, § 201(c) (last sentence); added May 20, 1958, Pub. L. 85–422, § 1(3) (last sentence), 72 Stat. 124. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 403(a)(1), substituted “enlisted end strength” for “daily average” in section catchline.
+2021—Pub. L. 116–283, § 403(a)(1), substituted “enlisted end strength” for “daily average” in section catchline.
 
-Subsec. (a). Pub. L. 116–283, § 403(a)(2), in first sentence, substituted “end strength for” for “daily average number of”, “as of the last day of a fiscal year” for “in a fiscal year”, and “3.0 percent” for “2.5 percent” and struck out before period at end “on the first day of that fiscal year”.
+Subsec. (a). Pub. L. 116–283, § 403(a)(2), in first sentence, substituted “end strength for” for “daily average number of”, “as of the last day of a fiscal year” for “in a fiscal year”, and “3.0 percent” for “2.5 percent” and struck out before period at end “on the first day of that fiscal year”.
 
-Subsec. (b). Pub. L. 116–283, § 403(a)(3), struck out subsec. (b) which read as follows: “Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.”
+Subsec. (b). Pub. L. 116–283, § 403(a)(3), struck out subsec. (b) which read as follows: “Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.”
 
 2008—Subsec. (a). Pub. L. 110–181 substituted “1.25 percent” for “1 percent”.
 
@@ -1367,43 +1367,43 @@ Subsec. (b). Pub. L. 116–283, § 403(a)(3), struck out subsec. (b) which rea
 
 2000—Subsec. (c). Pub. L. 106–398 added subsec. (c).
 
-1998—Subsec. (a). Pub. L. 105–261, § 1069(a)(2), substituted “The authorized” for “Except as provided in section 307 of title 37, the authorized”.
+1998—Subsec. (a). Pub. L. 105–261, § 1069(a)(2), substituted “The authorized” for “Except as provided in section 307 of title 37, the authorized”.
 
-Pub. L. 105–261, § 407(a), substituted “a fiscal year” for “a calendar year” and “the first day of that fiscal year” for “January 1 of that year”.
+Pub. L. 105–261, § 407(a), substituted “a fiscal year” for “a calendar year” and “the first day of that fiscal year” for “January 1 of that year”.
 
-1994—Subsec. (a). Pub. L. 103–337, § 552(a), inserted “(or, in the case of the Army, 2.5 percent)” after “may not be more than 2 percent”.
+1994—Subsec. (a). Pub. L. 103–337, § 552(a), inserted “(or, in the case of the Army, 2.5 percent)” after “may not be more than 2 percent”.
 
-Subsec. (b). Pub. L. 103–337, § 1661(a)(4)(B), redesignated subsec. (c) as (b) and struck out “or whenever the number of members serving in pay grade E–9 for duty described in subsection (b) is less than the number authorized for that grade under subsection (b),” after “under subsection (a),”.
+Subsec. (b). Pub. L. 103–337, § 1661(a)(4)(B), redesignated subsec. (c) as (b) and struck out “or whenever the number of members serving in pay grade E–9 for duty described in subsection (b) is less than the number authorized for that grade under subsection (b),” after “under subsection (a),”.
 
-Pub. L. 103–337, § 1662(a)(4)(A), struck out subsec. (b) which limited the number of enlisted members in pay grades E–8 and E–9 who could be on active duty (other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
+Pub. L. 103–337, § 1662(a)(4)(A), struck out subsec. (b) which limited the number of enlisted members in pay grades E–8 and E–9 who could be on active duty (other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
 
-Subsec. (c). Pub. L. 103–337, § 1662(a)(4)(B), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 103–337, § 1662(a)(4)(B), redesignated subsec. (c) as (b).
 
 1993—Subsec. (b). Pub. L. 103–160, in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the Air Force to 328 and 840 from 279 and 800, respectively.
 
 1991—Subsec. (b). Pub. L. 102–190, in table, increased fiscal year limitation on number of enlisted men in pay grade E–8 on active duty affecting reserve components of the Air Force from 670 to 800, and increased limitation on number of enlisted men in pay grade E–9 on active duty affecting reserve components of the Army from 557 to 569, the Air Force from 231 to 279, and the Marine Corps from 13 to 14.
 
-1989—Subsec. (b). Pub. L. 101–189, § 413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 557 and 2,585 from 542 and 2,504, respectively; Navy, to 202 and 429 from 200 and 425, respectively; Air Force, to 231 and 670 from 224 and 637, respectively. Marine Corps figures remained unchanged.
+1989—Subsec. (b). Pub. L. 101–189, § 413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 557 and 2,585 from 542 and 2,504, respectively; Navy, to 202 and 429 from 200 and 425, respectively; Air Force, to 231 and 670 from 224 and 637, respectively. Marine Corps figures remained unchanged.
 
-Pub. L. 101–189, § 413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 542 and 2,504 from 529 and 2,350, respectively; Navy, to 200 and 425 from 180 and 400, respectively; Air Force, to 224 and 637 from 150 and 425, respectively. Marine Corps figures remained unchanged.
+Pub. L. 101–189, § 413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 542 and 2,504 from 529 and 2,350, respectively; Navy, to 200 and 425 from 180 and 400, respectively; Air Force, to 224 and 637 from 150 and 425, respectively. Marine Corps figures remained unchanged.
 
-1987—Subsec. (b). Pub. L. 100–180, § 413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 529 and 2,350 from 517 and 2,295, respectively; Navy, to 180 and 400 from 175 and 390, respectively; Air Force, to 150 and 425 from 125 and 425, respectively. Marine Corps figures remained unchanged.
+1987—Subsec. (b). Pub. L. 100–180, § 413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 529 and 2,350 from 517 and 2,295, respectively; Navy, to 180 and 400 from 175 and 390, respectively; Air Force, to 150 and 425 from 125 and 425, respectively. Marine Corps figures remained unchanged.
 
-Pub. L. 100–180, § 413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425 from 80 and 358, respectively; Marine Corps, to 13 and 74 from 9 and 74, respectively. Army figures remained unchanged.
+Pub. L. 100–180, § 413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425 from 80 and 358, respectively; Marine Corps, to 13 and 74 from 9 and 74, respectively. Army figures remained unchanged.
 
 1985—Subsec. (b). Pub. L. 99–145 in table, changed fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 165 and 381 from 156 and 381, respectively; Air Force, to 80 and 358 from 87 and 455, respectively. Army and Marine Corps figures remained unchanged.
 
-1984—Subsec. (b). Pub. L. 98–525, § 414(a)(2), inserted “(other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training)” and substituted “or the National Guard” for “of the armed forces” and “for that grade and armed force” for “prescribed for the grade and the armed force”.
+1984—Subsec. (b). Pub. L. 98–525, § 414(a)(2), inserted “(other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training)” and substituted “or the National Guard” for “of the armed forces” and “for that grade and armed force” for “prescribed for the grade and the armed force”.
 
-Pub. L. 98–525, § 413(a), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 2,295 and 517 from 1,494 and 314; Air Force, to 455 and 87 from 617 and 143; Marine Corps, to 74 and 9 from 56 and 6. Navy figures remained unchanged.
+Pub. L. 98–525, § 413(a), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 2,295 and 517 from 1,494 and 314; Air Force, to 455 and 87 from 617 and 143; Marine Corps, to 74 and 9 from 56 and 6. Navy figures remained unchanged.
 
 1983—Subsec. (b). Pub. L. 98–94 increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 1,494 and 314 from 1,244 and 265; Navy, to 381 and 156 from 329 and 156; Air Force, to 617 and 143 from 441 and 132; Marine Corps figures remained unchanged.
 
 1982—Subsec. (b). Pub. L. 97–252 increased the numbers in columns from 222, 146, 76, and 4 in the line for E–9 to 265, 156, 132, and 6, respectively, and from 908, 319, 307, and 12 in line for E–8 to 1,244, 329, 441, and 56, respectively.
 
-1981—Subsec. (b). Pub. L. 97–86, § 503(1), inserted column for “Marine Corps” in table and increased numbers in existing columns headed “Army”, “Navy”, and “Air Force” from 209, 140, and 71 in line for E–9 to 222, 146, and 76, respectively, and from 823, 302, and 302 in line for E–8 to 908, 319, and 307, respectively.
+1981—Subsec. (b). Pub. L. 97–86, § 503(1), inserted column for “Marine Corps” in table and increased numbers in existing columns headed “Army”, “Navy”, and “Air Force” from 209, 140, and 71 in line for E–9 to 222, 146, and 76, respectively, and from 823, 302, and 302 in line for E–8 to 908, 319, and 307, respectively.
 
-Subsec. (c). Pub. L. 97–86, § 503(2), added subsec. (c).
+Subsec. (c). Pub. L. 97–86, § 503(2), added subsec. (c).
 
 1980—Pub. L. 96–584 designated existing provisions as subsec. (a), inserted provisions respecting computation of limitations, and added subsec. (b).
 
@@ -1411,33 +1411,33 @@ Subsec. (c). Pub. L. 97–86, § 503(2), added subsec. (c).
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title IV, § 407(b), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1999.”
+Pub. L. 105–261, div. A, title IV, § 407(b), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1999.”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title V, § 552(c), Oct. 5, 1994, 108 Stat. 2772, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to the number of enlisted members of the Army on active duty in pay grade E–8 during 1994.”
+Pub. L. 103–337, div. A, title V, § 552(c), Oct. 5, 1994, 108 Stat. 2772, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to the number of enlisted members of the Army on active duty in pay grade E–8 during 1994.”
 
 Amendment by section 1662(a)(4) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title IV, § 413(a)(2), Nov. 29, 1989, 103 Stat. 1433, provided that the amendment made by that section is effective Oct. 1, 1990.
+Pub. L. 101–189, div. A, title IV, § 413(a)(2), Nov. 29, 1989, 103 Stat. 1433, provided that the amendment made by that section is effective Oct. 1, 1990.
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title IV, § 413(a)(2), Dec. 4, 1987, 101 Stat. 1083, provided that the amendment made by that section is effective Oct. 1, 1988.
+Pub. L. 100–180, div. A, title IV, § 413(a)(2), Dec. 4, 1987, 101 Stat. 1083, provided that the amendment made by that section is effective Oct. 1, 1988.
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title IV, § 413(c), Nov. 8, 1985, 99 Stat. 620, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 524 [now 12011] of this title] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title IV, § 413(c), Nov. 8, 1985, 99 Stat. 620, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 524 [now 12011] of this title] shall take effect on October 1, 1985.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title IV, § 413(c), Oct. 19, 1984, 98 Stat. 2518, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 524 [now 12011] of this title] shall take effect on October 1, 1984.”
+Pub. L. 98–525, title IV, § 413(c), Oct. 19, 1984, 98 Stat. 2518, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 524 [now 12011] of this title] shall take effect on October 1, 1984.”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title V, § 503(c), Sept. 24, 1983, 97 Stat. 631, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 524 [now 12011] of this title] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title V, § 503(c), Sept. 24, 1983, 97 Stat. 631, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 524 [now 12011] of this title] shall take effect on October 1, 1983.”
 
 **Effective Date**
 
@@ -1445,31 +1445,31 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 **Temporary Exemption From Enlisted End Strength Grade Restrictions for the Coast Guard**
 
-Pub. L. 119–60, div. G, title LXXI, § 7102(c), Dec. 18, 2025, 139 Stat. 1664, provided that: “Section 517(a) of title 10, United States Code, shall not apply with respect to the Coast Guard until October 1, 2027.”
+Pub. L. 119–60, div. G, title LXXI, § 7102(c), Dec. 18, 2025, 139 Stat. 1664, provided that: “Section 517(a) of title 10, United States Code, shall not apply with respect to the Coast Guard until October 1, 2027.”
 
 **Temporary Exemption From End Strength Grade Restrictions for the Space Force**
 
-Pub. L. 117–263, div. A, title V, § 526, Dec. 23, 2022, 136 Stat. 2572, provided that: “Section 517 and section 523 (as amended by section 501 of this Act) of title 10, United States Code, shall not apply to the Space Force until January 1, 2024.”
+Pub. L. 117–263, div. A, title V, § 526, Dec. 23, 2022, 136 Stat. 2572, provided that: “Section 517 and section 523 (as amended by section 501 of this Act) of title 10, United States Code, shall not apply to the Space Force until January 1, 2024.”
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 117–81, div. A, title V, § 528(a), Dec. 27, 2021, 135 Stat. 1690.
+Pub. L. 117–81, div. A, title V, § 528(a), Dec. 27, 2021, 135 Stat. 1690.
 
-Pub. L. 116–283, div. A, title IX, § 929, Jan. 1, 2021, 134 Stat. 3832.
+Pub. L. 116–283, div. A, title IX, § 929, Jan. 1, 2021, 134 Stat. 3832.
 
 **Authorized Active Duty Strengths for Army Enlisted Members in Pay Grade E–8; Special Rule for 1995**
 
-Pub. L. 103–337, div. A, title V, § 552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable to enlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, § 552(a).
+Pub. L. 103–337, div. A, title V, § 552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable to enlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, § 552(a).
 
 **Authority To Waive Grade Strength Laws for Fiscal Year 1991; Certification; Relationship to Other Suspension Authority**
 
-Pub. L. 102–25, title II, §§ 201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79, 80, authorized Secretary of a military department to suspend, for fiscal year 1991, the operation of any provision of this section and section 523, 524 (now 12011), 525, or 526 of this title with respect to that military department, that such Secretary may exercise such authority only after submission to the congressional defense committees of a certification in writing that such authority is necessary because of personnel actions associated with Operation Desert Storm, and that such authority is in addition to the authority provided in section 527 of this title.
+Pub. L. 102–25, title II, §§ 201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79, 80, authorized Secretary of a military department to suspend, for fiscal year 1991, the operation of any provision of this section and section 523, 524 (now 12011), 525, or 526 of this title with respect to that military department, that such Secretary may exercise such authority only after submission to the congressional defense committees of a certification in writing that such authority is necessary because of personnel actions associated with Operation Desert Storm, and that such authority is in addition to the authority provided in section 527 of this title.
 
-## § 518. Temporary enlistments
+## § 518. Temporary enlistments
 
 Temporary enlistments may be made only in the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, without specification of component.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755; amended Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(iii), Jan. 1, 2021, 134 Stat. 3821.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755; amended Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(iii), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Editorial Notes**
 
@@ -1483,7 +1483,7 @@ Temporary enlistments may be made only in the Army, Navy, Air Force, Marine Corp
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 519. Temporary enlistments: during war or emergency
+## § 519. Temporary enlistments: during war or emergency
 
 Except as provided in section 505 of this title and except for enlistments as Reserves of an armed force—
 
@@ -1491,9 +1491,9 @@ Except as provided in section 505 of this title and except for enlistments as Re
 
 **(2)** only persons at least eighteen years of age and otherwise qualified under regulations to be prescribed by the Secretary concerned are eligible for such enlistments.
 
-(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755.)
+(Added Pub. L. 90–235, § 2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755.)
 
-## § 520. Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level
+## § 520. Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level
 
 **(a)**
 
@@ -1503,13 +1503,13 @@ Except as provided in section 505 of this title and except for enlistments as Re
 
 **(b)** A person who is not a high school graduate may not be accepted for enlistment in the armed forces unless the score of that person on the Armed Forces Qualification Test is at or above the thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
 
-(Added Pub. L. 96–342, title III, § 302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, § 9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, § 402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 98–94, title XII, § 1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, § 1(a)(1), July 19, 1988, 102 Stat. 840; Pub. L. 118–31, div. A, title V, § 542, Dec. 22, 2023, 137 Stat. 264; Pub. L. 118–159, div. A, title XVII, § 1701(a)(12), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 96–342, title III, § 302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, § 9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, § 402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 98–94, title XII, § 1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, § 1(a)(1), July 19, 1988, 102 Stat. 840; Pub. L. 118–31, div. A, title V, § 542, Dec. 22, 2023, 137 Stat. 264; Pub. L. 118–159, div. A, title XVII, § 1701(a)(12), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Historical and Revision Notes**
 
 **1988 Act**
 
-Amendment of subsection (b) is based on Pub. L. 93–307, title IV, § 401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, § 705, Aug. 5, 1974, 88 Stat. 406.
+Amendment of subsection (b) is based on Pub. L. 93–307, title IV, § 401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, § 705, Aug. 5, 1974, 88 Stat. 406.
 
 **Editorial Notes**
 
@@ -1519,7 +1519,7 @@ Amendment of subsection (b) is based on Pub. L. 93–307, title IV, § 401, Ju
 
 2023—Subsec. (a). Pub. L. 118–31 designated existing provisions as par. (1), substituted “may not exceed 4 percent” for “may not exceed 20 percent”, and added par. (2).
 
-1988—Subsec. (b). Pub. L. 100–370 inserted before period at end “; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements”.
+1988—Subsec. (b). Pub. L. 100–370 inserted before period at end “; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements”.
 
 1983—Subsec. (a). Pub. L. 98–94 struck out provisions under which, for fiscal years beginning on October 1, 1980, and October 1, 1981, the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in the armed forces during such fiscal years whose score on the Armed Forces Qualification Test was at or above the tenth percentile and below the thirty-first percentile could not exceed 25 percent of the number of such persons enlisted or inducted into the armed forces during such fiscal years, and, in the provisions remaining applicable to fiscal years beginning after Sept. 30, 1982, substituted “20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force” for “20 percent of the number of such persons enlisted or inducted into such armed force”.
 
@@ -1531,11 +1531,11 @@ Amendment of subsection (b) is based on Pub. L. 93–307, title IV, § 401, Ju
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–86, title IV, § 402(b)(2), Dec. 1, 1981, 95 Stat. 1105, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act [Dec. 1, 1981].”
+Pub. L. 97–86, title IV, § 402(b)(2), Dec. 1, 1981, 95 Stat. 1105, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act [Dec. 1, 1981].”
 
 **Future Servicemember Preparatory Course**
 
-Pub. L. 118–31, div. A, title V, § 546, Dec. 22, 2023, 137 Stat. 266, as amended by Pub. L. 118–159, div. A, title V, § 531, Dec. 23, 2024, 138 Stat. 1886; Pub. L. 119–60, div. A, title V, § 534, Dec. 18, 2025, 139 Stat. 870, provided that:
+Pub. L. 118–31, div. A, title V, § 546, Dec. 22, 2023, 137 Stat. 266, as amended by Pub. L. 118–159, div. A, title V, § 531, Dec. 23, 2024, 138 Stat. 1886; Pub. L. 119–60, div. A, title V, § 534, Dec. 18, 2025, 139 Stat. 870, provided that:
 
 > **“(a) Requirement.—** If the number of nonprior service enlisted personnel covered under section 520 of title 10, United States Code, exceeds 10 percent of the total number of persons originally enlisted in an Armed Force during a fiscal year, the Secretary concerned shall establish a future servicemember preparatory course within the Armed Force concerned.
 
@@ -1585,25 +1585,25 @@ Pub. L. 118–31, div. A, title V, § 546, Dec. 22, 2023, 137 Stat. 266, as am
 
 **Pilot Program for Treating GED and Home School Diploma Recipients as High School Graduates for Determinations of Eligibility for Enlistment in Armed Forces**
 
-Pub. L. 105–261, div. A, title V, § 571, Oct. 17, 1998, 112 Stat. 2033, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to establish a pilot program during the period Oct. 1, 1998, to Sept. 30, 2003, to assess whether the Armed Forces could better meet recruiting requirements by treating GED recipients and home school diploma recipients as having graduated from high school with a high school diploma for the purpose of determining eligibility of those persons to enlist in the Armed Forces, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004.
+Pub. L. 105–261, div. A, title V, § 571, Oct. 17, 1998, 112 Stat. 2033, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to establish a pilot program during the period Oct. 1, 1998, to Sept. 30, 2003, to assess whether the Armed Forces could better meet recruiting requirements by treating GED recipients and home school diploma recipients as having graduated from high school with a high school diploma for the purpose of determining eligibility of those persons to enlist in the Armed Forces, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004.
 
 **Maximum Number of Army Enlistees and Inductees Who Are Not High School Graduates**
 
-Pub. L. 96–342, title III, § 302(a), Sept. 8, 1980, 94 Stat. 1082, as amended by Pub. L. 97–86, title IV, § 402(a), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 97–252, title IV, § 403, Sept. 8, 1982, 96 Stat. 725; Pub. L. 98–94, title IV, § 402, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title IV, § 402, Oct. 19, 1984, 98 Stat. 2516; Pub. L. 99–145, title IV, § 402, Nov. 8, 1985, 99 Stat. 618, provided that the number of male individuals enlisted or inducted into the Army during the fiscal year beginning on Oct. 1, 1985, who were not high school graduates could not exceed, as of Sept. 30, 1986, 35 percent of all male individuals enlisted or inducted into the Army during such fiscal year.
+Pub. L. 96–342, title III, § 302(a), Sept. 8, 1980, 94 Stat. 1082, as amended by Pub. L. 97–86, title IV, § 402(a), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 97–252, title IV, § 403, Sept. 8, 1982, 96 Stat. 725; Pub. L. 98–94, title IV, § 402, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title IV, § 402, Oct. 19, 1984, 98 Stat. 2516; Pub. L. 99–145, title IV, § 402, Nov. 8, 1985, 99 Stat. 618, provided that the number of male individuals enlisted or inducted into the Army during the fiscal year beginning on Oct. 1, 1985, who were not high school graduates could not exceed, as of Sept. 30, 1986, 35 percent of all male individuals enlisted or inducted into the Army during such fiscal year.
 
 **Denial of Enlistment for Lack of High School Diploma Prohibited**
 
-Pub. L. 93–307, title IV, § 401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, § 705, Aug. 5, 1974, 88 Stat. 406, which provided that no volunteer for enlistment into the Armed Forces shall be denied enlistment solely because of his not having a high school diploma when his enlistment is needed to meet established strength requirements, was repealed and restated in sections 520(b) and 3262 of this title by Pub. L. 100–370, § 1(a), July 19, 1988, 102 Stat. 840.
+Pub. L. 93–307, title IV, § 401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, § 705, Aug. 5, 1974, 88 Stat. 406, which provided that no volunteer for enlistment into the Armed Forces shall be denied enlistment solely because of his not having a high school diploma when his enlistment is needed to meet established strength requirements, was repealed and restated in sections 520(b) and 3262 of this title by Pub. L. 100–370, § 1(a), July 19, 1988, 102 Stat. 840.
 
-## [§ 520a. Repealed. Pub. L. 106–398, § 1 [[div. A], title X, § 1076(g)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–282]
+## [§ 520a. Repealed. Pub. L. 106–398, § 1 [[div. A], title X, § 1076(g)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–282]
 
-Section, added Pub. L. 97–252, title XI, § 1114(c)(1), Sept. 8, 1982, 96 Stat. 749; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to criminal history information for military recruiting purposes.
+Section, added Pub. L. 97–252, title XI, § 1114(c)(1), Sept. 8, 1982, 96 Stat. 749; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to criminal history information for military recruiting purposes.
 
-## § 520b. Applicants for enlistment: authority to use funds for the issue of authorized articles
+## § 520b. Applicants for enlistment: authority to use funds for the issue of authorized articles
 
 Funds appropriated to the Department of Defense may be used for the issue of authorized articles to applicants for enlistment.
 
-(Added Pub. L. 98–525, title XIV, § 1401(a)(1), Oct. 19, 1984, 98 Stat. 2614; amended Pub. L. 99–145, title XIII, § 1303(a)(4)(A), Nov. 8, 1985, 99 Stat. 738.)
+(Added Pub. L. 98–525, title XIV, § 1401(a)(1), Oct. 19, 1984, 98 Stat. 2614; amended Pub. L. 99–145, title XIII, § 1303(a)(4)(A), Nov. 8, 1985, 99 Stat. 738.)
 
 **Editorial Notes**
 
@@ -1611,105 +1611,105 @@ Funds appropriated to the Department of Defense may be used for the issue of aut
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8006], 98 Stat. 1904, 1923.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8006], 98 Stat. 1904, 1923.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, § 709, 97 Stat. 1439.
+Dec. 8, 1983, Pub. L. 98–212, title VII, § 709, 97 Stat. 1439.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 709], 96 Stat. 1833, 1851.
+Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 709], 96 Stat. 1833, 1851.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, § 709, 95 Stat. 1579.
+Dec. 29, 1981, Pub. L. 97–114, title VII, § 709, 95 Stat. 1579.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, § 709, 94 Stat. 3081.
+Dec. 15, 1980, Pub. L. 96–527, title VII, § 709, 94 Stat. 3081.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, § 709, 93 Stat. 1153.
+Dec. 21, 1979, Pub. L. 96–154, title VII, § 709, 93 Stat. 1153.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, § 809, 92 Stat. 1244.
+Oct. 13, 1978, Pub. L. 95–457, title VIII, § 809, 92 Stat. 1244.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, § 808, 91 Stat. 900.
+Sept. 21, 1977, Pub. L. 95–111, title VIII, § 808, 91 Stat. 900.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, § 708, 90 Stat. 1292.
+Sept. 22, 1976, Pub. L. 94–419, title VII, § 708, 90 Stat. 1292.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, § 708, 90 Stat. 169.
+Feb. 9, 1976, Pub. L. 94–212, title VII, § 708, 90 Stat. 169.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, § 808, 88 Stat. 1225.
+Oct. 8, 1974, Pub. L. 93–437, title VIII, § 808, 88 Stat. 1225.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, § 708, 87 Stat. 1039.
+Jan. 2, 1974, Pub. L. 93–238, title VII, § 708, 87 Stat. 1039.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, § 708, 86 Stat. 1197.
+Oct. 26, 1972, Pub. L. 92–570, title VII, § 708, 86 Stat. 1197.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, § 708, 85 Stat. 728.
+Dec. 18, 1971, Pub. L. 92–204, title VII, § 708, 85 Stat. 728.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, § 808, 84 Stat. 2031.
+Jan. 11, 1971, Pub. L. 91–668, title VIII, § 808, 84 Stat. 2031.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, § 608, 83 Stat. 480.
+Dec. 29, 1969, Pub. L. 91–171, title VI, § 608, 83 Stat. 480.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, § 507, 82 Stat. 1130.
+Oct. 17, 1968, Pub. L. 90–580, title V, § 507, 82 Stat. 1130.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, § 607, 81 Stat. 242.
+Sept. 29, 1967, Pub. L. 90–96, title VI, § 607, 81 Stat. 242.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, § 607, 80 Stat. 991.
+Oct. 15, 1966, Pub. L. 89–687, title VI, § 607, 80 Stat. 991.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, § 607, 79 Stat. 874.
+Sept. 29, 1965, Pub. L. 89–213, title VI, § 607, 79 Stat. 874.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, § 507, 78 Stat. 475.
+Aug. 19, 1964, Pub. L. 88–446, title V, § 507, 78 Stat. 475.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, § 507, 77 Stat. 264.
+Oct. 17, 1963, Pub. L. 88–149, title V, § 507, 77 Stat. 264.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, § 507, 76 Stat. 328.
+Aug. 9, 1962, Pub. L. 87–577, title V, § 507, 76 Stat. 328.
 
-Aug. 17, 1961, Pub. L. 87–144, title II, § 201, 75 Stat. 367, 369.
+Aug. 17, 1961, Pub. L. 87–144, title II, § 201, 75 Stat. 367, 369.
 
-July 7, 1960, Pub. L. 86–601, title II, § 201, 74 Stat. 340, 342.
+July 7, 1960, Pub. L. 86–601, title II, § 201, 74 Stat. 340, 342.
 
-Aug. 18, 1959, Pub. L. 86–166, title II, § 201, 73 Stat. 368, 370.
+Aug. 18, 1959, Pub. L. 86–166, title II, § 201, 73 Stat. 368, 370.
 
-Aug. 22, 1958, Pub. L. 85–724, title III, § 301, title V, § 501, 72 Stat. 714, 721.
+Aug. 22, 1958, Pub. L. 85–724, title III, § 301, title V, § 501, 72 Stat. 714, 721.
 
-Aug. 2, 1957, Pub. L. 85–117, title III, § 301, title V, § 501, 71 Stat. 314, 321.
+Aug. 2, 1957, Pub. L. 85–117, title III, § 301, title V, § 501, 71 Stat. 314, 321.
 
-July 2, 1956, ch. 488, title III, § 301, title V, § 501, 70 Stat. 457, 464.
+July 2, 1956, ch. 488, title III, § 301, title V, § 501, 70 Stat. 457, 464.
 
-July 13, 1955, ch. 358, title III, § 301, title V, § 501, 69 Stat. 304, 312.
+July 13, 1955, ch. 358, title III, § 301, title V, § 501, 69 Stat. 304, 312.
 
-June 30, 1954, ch. 432, title IV, § 401, title VI, § 601, 68 Stat. 339, 347.
+June 30, 1954, ch. 432, title IV, § 401, title VI, § 601, 68 Stat. 339, 347.
 
-Aug. 1, 1953, ch. 305, title III, § 301, title V, § 501, 67 Stat. 339, 348.
+Aug. 1, 1953, ch. 305, title III, § 301, title V, § 501, 67 Stat. 339, 348.
 
-July 10, 1952, ch. 630, title III, § 301, title V, § 501, 66 Stat. 520, 530.
+July 10, 1952, ch. 630, title III, § 301, title V, § 501, 66 Stat. 520, 530.
 
-Oct. 18, 1951, ch. 512, title III, § 301, title V, § 501, 65 Stat. 429, 443.
+Oct. 18, 1951, ch. 512, title III, § 301, title V, § 501, 65 Stat. 429, 443.
 
-Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title V, § 501, 64 Stat. 735, 750.
+Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title V, § 501, 64 Stat. 735, 750.
 
-Oct. 29, 1949, ch. 787, title III, § 301, title V, § 501, 63 Stat. 992, 1015.
+Oct. 29, 1949, ch. 787, title III, § 301, title V, § 501, 63 Stat. 992, 1015.
 
 June 24, 1948, ch. 632, 62 Stat. 655.
 
-July 30, 1947, ch. 357, title I, § 1, 61 Stat. 557.
+July 30, 1947, ch. 357, title I, § 1, 61 Stat. 557.
 
-July 16, 1946, ch. 583, § 1, 60 Stat. 547, 548.
+July 16, 1946, ch. 583, § 1, 60 Stat. 547, 548.
 
-July 3, 1945, ch. 265, § 1, 59 Stat. 390.
+July 3, 1945, ch. 265, § 1, 59 Stat. 390.
 
-June 28, 1944, ch. 303, § 1, 58 Stat. 580.
+June 28, 1944, ch. 303, § 1, 58 Stat. 580.
 
-July 1, 1943, ch. 185, § 1, 57 Stat. 354.
+July 1, 1943, ch. 185, § 1, 57 Stat. 354.
 
-July 2, 1942, ch. 477, § 1, 56 Stat. 617.
+July 2, 1942, ch. 477, § 1, 56 Stat. 617.
 
-June 30, 1941, ch. 262, § 1, 55 Stat. 373.
+June 30, 1941, ch. 262, § 1, 55 Stat. 373.
 
-June 13, 1940, ch. 343, § 1, 54 Stat. 358, 359.
+June 13, 1940, ch. 343, § 1, 54 Stat. 358, 359.
 
-Apr. 26, 1939, ch. 88, § 1, 53 Stat. 600.
+Apr. 26, 1939, ch. 88, § 1, 53 Stat. 600.
 
-June 11, 1938, ch. 37, § 1, 52 Stat. 649.
+June 11, 1938, ch. 37, § 1, 52 Stat. 649.
 
-July 1, 1937, ch. 423, § 1, 50 Stat. 450.
+July 1, 1937, ch. 423, § 1, 50 Stat. 450.
 
-May 15, 1936, ch. 404, § 1, title I, 49 Stat. 1286.
+May 15, 1936, ch. 404, § 1, title I, 49 Stat. 1286.
 
-Apr. 9, 1935, ch. 54, § 1, title I, 49 Stat. 128.
+Apr. 9, 1935, ch. 54, § 1, title I, 49 Stat. 128.
 
 Apr. 26, 1934, ch. 165, title I, 48 Stat. 621.
 
@@ -1739,9 +1739,9 @@ Feb. 12, 1925, ch. 225, title I, 43 Stat. 900.
 
 **Effective Date**
 
-Pub. L. 98–525, title XIV, § 1404, Oct. 19, 1984, 98 Stat. 2621, provided that: “The amendments made by sections 1401 [enacting this section and sections 956, 979 to 981, 1047 to 1050, 1074b [now 1074c], 1093, 1589, 2007 to 2009, 2484, 2638, and 2639 of this title, amending sections 1074, 1077, 1079, 2104, and 7204 of this title, and repealing section 7208 of this title], 1402 [enacting section 306a of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 206 and 404 of Title 37], and 1403 [amending provisions set out as a note under section 138 of this title and repealing provisions set out as notes under sections 138 and 2102 of this title] take effect on October 1, 1985.”
+Pub. L. 98–525, title XIV, § 1404, Oct. 19, 1984, 98 Stat. 2621, provided that: “The amendments made by sections 1401 [enacting this section and sections 956, 979 to 981, 1047 to 1050, 1074b [now 1074c], 1093, 1589, 2007 to 2009, 2484, 2638, and 2639 of this title, amending sections 1074, 1077, 1079, 2104, and 7204 of this title, and repealing section 7208 of this title], 1402 [enacting section 306a of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 206 and 404 of Title 37], and 1403 [amending provisions set out as a note under section 138 of this title and repealing provisions set out as notes under sections 138 and 2102 of this title] take effect on October 1, 1985.”
 
-## § 520c. Recruiting functions: provision of meals and refreshments
+## § 520c. Recruiting functions: provision of meals and refreshments
 
 Under regulations prescribed by the Secretary concerned, funds appropriated to the Department of Defense for recruitment of military personnel may be expended for small meals and refreshments during recruiting functions for the following persons:
 
@@ -1755,7 +1755,7 @@ Under regulations prescribed by the Secretary concerned, funds appropriated to t
 
 **(5)** Other persons whose presence at recruiting functions will contribute to recruiting efforts.
 
-(Added Pub. L. 104–201, div. A, title III, § 361(a), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 107–107, div. A, title V, § 545, Dec. 28, 2001, 115 Stat. 1113; Pub. L. 108–136, div. A, title X, § 1031(a)(8)(A), Nov. 24, 2003, 117 Stat. 1596.)
+(Added Pub. L. 104–201, div. A, title III, § 361(a), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 107–107, div. A, title V, § 545, Dec. 28, 2001, 115 Stat. 1113; Pub. L. 108–136, div. A, title X, § 1031(a)(8)(A), Nov. 24, 2003, 117 Stat. 1596.)
 
 **Editorial Notes**
 
@@ -1763,8 +1763,8 @@ Under regulations prescribed by the Secretary concerned, funds appropriated to t
 
 2003—Pub. L. 108–136 substituted “provision of meals and refreshments” for “use of funds” in section catchline, struck out “(a) Provision of Meals and Refreshments.—” before “Under regulations”, and struck out heading and text of subsec. (b). Text read as follows: “Not later than February 1 of each of the years 1998 through 2002, the Secretary of Defense shall submit to Congress a report on the extent to which the authority under subsection (a) was exercised during the fiscal year ending in the preceding year.”
 
-2001—Subsec. (a)(4). Pub. L. 107–107, § 545(b)(1), substituted “recruiting functions” for “recruiting events”.
+2001—Subsec. (a)(4). Pub. L. 107–107, § 545(b)(1), substituted “recruiting functions” for “recruiting events”.
 
-Subsec. (a)(5). Pub. L. 107–107, § 545(b)(2), substituted “presence at recruiting functions” for “presence at recruiting efforts”.
+Subsec. (a)(5). Pub. L. 107–107, § 545(b)(2), substituted “presence at recruiting functions” for “presence at recruiting efforts”.
 
-Subsec. (c). Pub. L. 107–107, § 545(a), struck out heading and text of subsec. (c). Text read as follows: “The authority in subsection (a) may not be exercised after September 30, 2001.”
+Subsec. (c). Pub. L. 107–107, § 545(a), struck out heading and text of subsec. (c). Text read as follows: “The authority in subsection (a) may not be exercised after September 30, 2001.”

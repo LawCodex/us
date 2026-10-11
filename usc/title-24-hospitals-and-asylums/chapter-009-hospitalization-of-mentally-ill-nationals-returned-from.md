@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 9—HOSPITALIZATION OF MENTALLY ILL NATIONALS RETURNED FROM FOREIGN COUNTRIES
 
-## § 321. Definitions
+## § 321. Definitions
 
 For the purposes of this chapter except as the context may otherwise require—
 
@@ -33,7 +33,7 @@ For the purposes of this chapter except as the context may otherwise require—
 
 **(e)** The term “residence” means residence as determined under the applicable law or regulations of a State or political subdivision for the purpose of determining the eligibility of an individual for hospitalization in a public mental hospital.
 
-(Pub. L. 86–571, § 1, July 5, 1960, 74 Stat. 308; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 86–571, § 1, July 5, 1960, 74 Stat. 308; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -43,9 +43,9 @@ For the purposes of this chapter except as the context may otherwise require—
 
 **Effective Date**
 
-Pub. L. 86–571, § 11, July 5, 1960, 74 Stat. 310, provided that: “This Act [enacting this chapter and repealing sections 191a and 196a of this title] shall, except as otherwise specified, take effect on the date of its enactment [July 5, 1960].”
+Pub. L. 86–571, § 11, July 5, 1960, 74 Stat. 310, provided that: “This Act [enacting this chapter and repealing sections 191a and 196a of this title] shall, except as otherwise specified, take effect on the date of its enactment [July 5, 1960].”
 
-## § 322. Reception of eligible persons at ports of entry or debarkation
+## § 322. Reception of eligible persons at ports of entry or debarkation
 
 **(a) Arrangements for care, treatment, and assistance**
 
@@ -55,13 +55,13 @@ Upon request of the Secretary of State, the Secretary of Health and Human Servic
 
 The Secretary may, to the extent deemed appropriate, equitable, and practicable by him, (1) require any person receiving care and treatment or assistance pursuant to subsection (a) to pay, in advance or by way of reimbursement, for the cost thereof or (2) obtain reimbursement for such cost from any State or political subdivision responsible for the cost of his subsequent hospitalization.
 
-(Pub. L. 86–571, § 2, July 5, 1960, 74 Stat. 308; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 86–571, § 2, July 5, 1960, 74 Stat. 308; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -69,13 +69,13 @@ In subsec. (a), “section 6101 of title 41” substituted for “section 3709 o
 
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-## § 323. Transfer and release to State of residence or legal domicile, or to relative
+## § 323. Transfer and release to State of residence or legal domicile, or to relative
 
 If, at the time of arrival in the United States, the residence or the legal domicile of an eligible person appearing to be in need of care and treatment in a mental hospital is known to be in a State, or whenever thereafter such a person’s residence or legal domicile in a State is ascertained, the Secretary shall, if the person is then under his care (whether directly or pursuant to a contract or other arrangement under section 322 or 324 of this title), endeavor to arrange with the proper authorities of such State, or of a political subdivision thereof, for the assumption of responsibility for the care and treatment of such person by such authorities and shall, upon the making of such arrangement in writing, transfer and release such person to such authorities. In the event the State of the residence or legal domicile of an eligible person cannot be ascertained, or the Secretary is unable to arrange with the proper authorities of such State, or of a political subdivision thereof, for the assumption of responsibility for his care and treatment, the Secretary may, if he determines that the best interests of such person will be served thereby, transfer and release the eligible person to a relative who agrees in writing to assume responsibility for such person after having been fully informed as to his condition.
 
-(Pub. L. 86–571, § 3, July 5, 1960, 74 Stat. 308.)
+(Pub. L. 86–571, § 3, July 5, 1960, 74 Stat. 308.)
 
-## § 324. Care and treatment of eligible persons until transfer and release
+## § 324. Care and treatment of eligible persons until transfer and release
 
 **(a) Place of hospitalization**
 
@@ -85,13 +85,13 @@ Until the transfer and release of an eligible person pursuant to section 323 of 
 
 The authority of the Secretary to provide hospitalization for any person under this section shall not apply to any person for whose medical care and treatment any agency of the United States is responsible.
 
-(Pub. L. 86–571, § 4, July 5, 1960, 74 Stat. 309; Pub. L. 98–621, § 10(r), Nov. 8, 1984, 98 Stat. 3381.)
+(Pub. L. 86–571, § 4, July 5, 1960, 74 Stat. 309; Pub. L. 98–621, § 10(r), Nov. 8, 1984, 98 Stat. 3381.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -103,7 +103,7 @@ In subsec. (a), “section 6101 of title 41” substituted for “section 3709 o
 
 Amendment by Pub. L. 98–621 effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621 set out as an Effective Date note under section 225 of this title.
 
-## § 325. Examination of persons admitted
+## § 325. Examination of persons admitted
 
 **(a) Time and frequency of examination; discharge**
 
@@ -113,9 +113,9 @@ Any person admitted to any hospital pursuant to section 322 or section 324 of th
 
 Whenever any person is admitted to a hospital pursuant to this chapter, his legal guardian, spouse, or next of kin shall, if known, be immediately notified.
 
-(Pub. L. 86–571, § 5, July 5, 1960, 74 Stat. 309.)
+(Pub. L. 86–571, § 5, July 5, 1960, 74 Stat. 309.)
 
-## § 326. Release of patient
+## § 326. Release of patient
 
 **(a) Request; determination of right to retain; retention after request**
 
@@ -125,15 +125,15 @@ If a person who is a patient hospitalized under section 322 or 324 of this title
 
 The Secretary is authorized at any time, when he deems it to be in the interest of the person or of the institution affected, to transfer any person hospitalized under section 324 of this title from one hospital to another, and to that end any judicial commitment of any person so hospitalized may be to the Secretary.
 
-(Pub. L. 86–571, § 6, July 5, 1960, 74 Stat. 309.)
+(Pub. L. 86–571, § 6, July 5, 1960, 74 Stat. 309.)
 
-## § 327. Notification to committing court of discharge or conditional release
+## § 327. Notification to committing court of discharge or conditional release
 
 In the case of any person hospitalized under section 324 of this title who has been judicially committed to the Secretary’s custody, the Secretary shall, upon the discharge or conditional release of such person, or upon such person’s transfer and release under section 323 of this title, notify the committing court of such discharge or conditional release or such transfer and release.
 
-(Pub. L. 86–571, § 7, July 5, 1960, 74 Stat. 310.)
+(Pub. L. 86–571, § 7, July 5, 1960, 74 Stat. 310.)
 
-## § 328. Payment for care and treatment
+## § 328. Payment for care and treatment
 
 **(a) Persons liable; scope of liability; compromise or waiver; investigations; judicial proceedings**
 
@@ -143,7 +143,7 @@ Any person hospitalized under section 324 of this title or his estate, shall be 
 
 As used in this section, the term “costs or charges” means, in the case of hospitalization at a hospital under the jurisdiction of the Department of Health and Human Services, a per diem rate prescribed by the Secretary on a basis comparable to that charged for any other paying patients and, in the case of persons hospitalized elsewhere, the contract rate or a per diem rate fixed by the Secretary on the basis of the contract rate.
 
-(Pub. L. 86–571, § 8, July 5, 1960, 74 Stat. 310; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 86–571, § 8, July 5, 1960, 74 Stat. 310; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -151,8 +151,8 @@ As used in this section, the term “costs or charges” means, in the case of h
 
 “Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-## § 329. Availability of appropriations for transportation
+## § 329. Availability of appropriations for transportation
 
 Appropriations for carrying out this chapter shall also be available for the transportation of any eligible person and necessary attendants to or from a hospital (including any hospital of a State or political subdivision to which an eligible person is released under section 323 of this title), to the place where a relative to whom any person is released under section 323 of this title resides, or to a person’s home upon his discharge from hospitalization under this chapter.
 
-(Pub. L. 86–571, § 9, July 5, 1960, 74 Stat. 310.)
+(Pub. L. 86–571, § 9, July 5, 1960, 74 Stat. 310.)

@@ -19,29 +19,29 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–260, div. O, title X, § 1003(e), Dec. 27, 2020, 134 Stat. 2156, struck out item 1921 “Receiving Federal employees’ compensation after marriage”.
+2020—Pub. L. 116–260, div. O, title X, § 1003(e), Dec. 27, 2020, 134 Stat. 2156, struck out item 1921 “Receiving Federal employees’ compensation after marriage”.
 
-1996—Pub. L. 104–294, title VI, § 604(b)(44), Oct. 11, 1996, 110 Stat. 3509, substituted “employees’ ” for “employee’s” in item 1920.
+1996—Pub. L. 104–294, title VI, § 604(b)(44), Oct. 11, 1996, 110 Stat. 3509, substituted “employees’ ” for “employee’s” in item 1920.
 
-1994—Pub. L. 103–359, title VIII, § 808(b), Oct. 14, 1994, 108 Stat. 3454, added item 1924.
+1994—Pub. L. 103–359, title VIII, § 808(b), Oct. 14, 1994, 108 Stat. 3454, added item 1924.
 
-Pub. L. 103–333, title I, § 101(b)(2), Sept. 30, 1994, 108 Stat. 2548, substituted “or fraud to obtain Federal employee’s compensation” for “to obtain Federal employees’ compensation” in item 1920.
+Pub. L. 103–333, title I, § 101(b)(2), Sept. 30, 1994, 108 Stat. 2548, substituted “or fraud to obtain Federal employee’s compensation” for “to obtain Federal employees’ compensation” in item 1920.
 
-Pub. L. 103–322, title XXXIII, § 330004(11), Sept. 13, 1994, 108 Stat. 2141, struck out items 1904 “Disclosure of information or speculation in securities affecting Reconstruction Finance Corporation” and 1908 “Disclosure of information by National Agricultural Credit Corporation examiner”.
+Pub. L. 103–322, title XXXIII, § 330004(11), Sept. 13, 1994, 108 Stat. 2141, struck out items 1904 “Disclosure of information or speculation in securities affecting Reconstruction Finance Corporation” and 1908 “Disclosure of information by National Agricultural Credit Corporation examiner”.
 
-1990—Pub. L. 101–647, title XXXV, § 3556, Nov. 29, 1990, 104 Stat. 4927, substituted “from a bank examination report” for “by bank examiner” in item 1906 and struck out item 1914 “Salary of Government officials and employees payable only by United States”.
+1990—Pub. L. 101–647, title XXXV, § 3556, Nov. 29, 1990, 104 Stat. 4927, substituted “from a bank examination report” for “by bank examiner” in item 1906 and struck out item 1914 “Salary of Government officials and employees payable only by United States”.
 
-1966—Pub. L. 89–554, § 3(c), Sept. 6, 1966, 80 Stat. 608, added items 1916 to 1923.
+1966—Pub. L. 89–554, § 3(c), Sept. 6, 1966, 80 Stat. 608, added items 1916 to 1923.
 
-## § 1901. Collecting or disbursing officer trading in public property
+## § 1901. Collecting or disbursing officer trading in public property
 
 Whoever, being an officer of the United States concerned in the collection or the disbursement of the revenues thereof, carries on any trade or business in the funds or debts of the United States, or of any State, or in any public property of either, shall be fined under this title or imprisoned not more than one year, or both; and shall be removed from office, and be incapable of holding any office under the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, § 330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, § 330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 192 (Mar. 4, 1909, ch. 321, § 103, 35 Stat. 1107).
+Based on title 18, U.S.C., 1940 ed., § 192 (Mar. 4, 1909, ch. 321, § 103, 35 Stat. 1107).
 
 Minor changes were made in phraseology.
 
@@ -51,17 +51,17 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
 
-## § 1902. Disclosure of crop information and speculation thereon
+## § 1902. Disclosure of crop information and speculation thereon
 
 Whoever, being an officer, employee or person acting for or on behalf of the United States or any department or agency thereof, and having by virtue of his office, employment or position, become possessed of information which might influence or affect the market value of any product of the soil grown within the United States, which information is by law or by the rules of such department or agency required to be withheld from publication until a fixed time, willfully imparts, directly or indirectly, such information, or any part thereof, to any person not entitled under the law or the rules of the department or agency to receive the same; or, before such information is made public through regular official channels, directly or indirectly speculates in any such product by buying or selling the same in any quantity, shall be fined under this title or imprisoned not more than ten years, or both.
 
 No person shall be deemed guilty of a violation of any such rules, unless prior to such alleged violation he shall have had actual knowledge thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 214 (Mar. 4, 1909, ch. 321, § 123, 35 Stat. 1110).
+Based on title 18, U.S.C., 1940 ed., § 214 (Mar. 4, 1909, ch. 321, § 123, 35 Stat. 1110).
 
 Words “agency thereof” were inserted in lieu of “office thereof” at beginning of section in conformity with section 6 of this title.
 
@@ -73,15 +73,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in first par.
 
-## § 1903. Speculation in stocks or commodities affecting crop insurance
+## § 1903. Speculation in stocks or commodities affecting crop insurance
 
 Whoever, while acting in any official capacity in the administration of any Act of Congress relating to crop insurance or to the Federal Crop Insurance Corporation speculates in any agricultural commodity or product thereof, to which such enactments apply, or in contracts relating thereto, or in the stock or membership interests of any association or corporation engaged in handling, processing, or disposing of any such commodity or product, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1514(b) of title 7, U.S.C., 1940 ed., Agriculture (Feb. 16, 1938, ch. 30, title V, § 514(b), 52 Stat. 76).
+Based on section 1514(b) of title 7, U.S.C., 1940 ed., Agriculture (Feb. 16, 1938, ch. 30, title V, § 514(b), 52 Stat. 76).
 
 Words “upon conviction thereof” were omitted as surplusage since punishment can be imposed only after a conviction.
 
@@ -93,19 +93,19 @@ Minor changes were made in phraseology and translations.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## [§ 1904. Repealed. Pub. L. 103–322, title XXXIII, § 330004(11), Sept. 13, 1994, 108 Stat. 2141]
+## [§ 1904. Repealed. Pub. L. 103–322, title XXXIII, § 330004(11), Sept. 13, 1994, 108 Stat. 2141]
 
-Section, acts June 25, 1948, ch. 645, 62 Stat. 791; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, § 330016(1)(L), 108 Stat. 2147, related to disclosure of information or speculation in securities affecting Reconstruction Finance Corporation.
+Section, acts June 25, 1948, ch. 645, 62 Stat. 791; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, § 330016(1)(L), 108 Stat. 2147, related to disclosure of information or speculation in securities affecting Reconstruction Finance Corporation.
 
-## § 1905. Disclosure of confidential information generally
+## § 1905. Disclosure of confidential information generally
 
 Whoever, being an officer or employee of the United States or of any department or agency thereof, any person acting on behalf of the Federal Housing Finance Agency, or agent of the Department of Justice as defined in the Antitrust Civil Process Act (15 U.S.C. 1311–1314), or being an employee of a private sector organization who is or was assigned to an agency under chapter 37 of title 5, publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information coming to him in the course of his employment or official duties or by reason of any examination or investigation made by, or return, report or record made to or filed with, such department or agency or officer or employee thereof, which information concerns or relates to the trade secrets, processes, operations, style of work, or apparatus, or to the identity, confidential statistical data, amount or source of any income, profits, losses, or expenditures of any person, firm, partnership, corporation, or association; or permits any income return or copy thereof or any book containing any abstract or particulars thereof to be seen or examined by any person except as provided by law; shall be fined under this title, or imprisoned not more than one year, or both; and shall be removed from office or employment.
 
-(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 96–349, § 7(b), Sept. 12, 1980, 94 Stat. 1158; Pub. L. 102–550, title XIII, § 1353, Oct. 28, 1992, 106 Stat. 3970; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–347, title II, § 209(d)(2), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 110–289, div. A, title I, § 1161(d), July 30, 2008, 122 Stat. 2780.)
+(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 96–349, § 7(b), Sept. 12, 1980, 94 Stat. 1158; Pub. L. 102–550, title XIII, § 1353, Oct. 28, 1992, 106 Stat. 3970; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–347, title II, § 209(d)(2), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 110–289, div. A, title I, § 1161(d), July 30, 2008, 122 Stat. 2780.)
 
 **Historical and Revision Notes**
 
-Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.; section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. § 3167; Aug. 27, 1894, ch. 349, § 24, 28 Stat. 557; Feb. 26, 1926, ch. 27, § 1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, § 335, 46 Stat. 701; Jan. 27, 1938, ch. 11, § 2, 52 Stat. 8).
+Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.; section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. § 3167; Aug. 27, 1894, ch. 349, § 24, 28 Stat. 557; Feb. 26, 1926, ch. 27, § 1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, § 335, 46 Stat. 701; Jan. 27, 1938, ch. 11, § 2, 52 Stat. 8).
 
 Section consolidates section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed., and section 1335 of title 19, U.S.C., 1940 ed., Customs Duties.
 
@@ -121,7 +121,7 @@ Minor changes were made in translations and phraseology.
 
 **References in Text**
 
-The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
+The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
 **Amendments**
 
@@ -141,23 +141,23 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-## § 1906. Disclosure of information from a bank examination report
+## § 1906. Disclosure of information from a bank examination report
 
-Whoever, being an examiner, public or private, or a Government Accountability Office employee with access to bank examination report information under section 714 of title 31, discloses the names of borrowers or the collateral for loans of any member bank of the Federal Reserve System, any bank insured by the Federal Deposit Insurance Corporation, any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or any organization operating under section 25 or section 25(a) 1
+Whoever, being an examiner, public or private, or a Government Accountability Office employee with access to bank examination report information under section 714 of title 31, discloses the names of borrowers or the collateral for loans of any member bank of the Federal Reserve System, any bank insured by the Federal Deposit Insurance Corporation, any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or any organization operating under section 25 or section 25(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of the Federal Reserve Act, examined by him or subject to Government Accountability Office audit under section 714 of title 31 to other than the proper officers of such bank, branch, agency, or organization, without first having obtained the express permission in writing from the Comptroller of the Currency as to a national bank or a Federal branch or Federal agency (as such terms are defined in paragraphs (5) and (6) of section 1(b) of the International Banking Act of 1978), the Board of Governors of the Federal Reserve System as to a State member bank, an uninsured State branch or State agency (as such terms are defined in paragraphs (11) and (12) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) 1 of the Federal Reserve Act, or the Federal Deposit Insurance Corporation as to any other insured bank, including any insured branch (as defined in section 3(s) of the Federal Deposit Insurance Act),,2
+of the Federal Reserve Act, examined by him or subject to Government Accountability Office audit under section 714 of title 31 to other than the proper officers of such bank, branch, agency, or organization, without first having obtained the express permission in writing from the Comptroller of the Currency as to a national bank or a Federal branch or Federal agency (as such terms are defined in paragraphs (5) and (6) of section 1(b) of the International Banking Act of 1978), the Board of Governors of the Federal Reserve System as to a State member bank, an uninsured State branch or State agency (as such terms are defined in paragraphs (11) and (12) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) 1 of the Federal Reserve Act, or the Federal Deposit Insurance Corporation as to any other insured bank, including any insured branch (as defined in section 3(s) of the Federal Deposit Insurance Act),,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 or from the board of directors of such bank or organization, except when ordered to do so by a court of competent jurisdiction, or by direction of the Congress of the United States, or either House thereof, or any committee of Congress or either House duly authorized or as authorized by section 714 of title 31 shall be fined under this title or imprisoned not more than one year or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 95–320, § 3, July 21, 1978, 92 Stat. 393; Pub. L. 97–258, § 3(e)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 101–647, title XXV, § 2597(k), Nov. 29, 1990, 104 Stat. 4911; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 95–320, § 3, July 21, 1978, 92 Stat. 393; Pub. L. 97–258, § 3(e)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 101–647, title XXV, § 2597(k), Nov. 29, 1990, 104 Stat. 4911; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
-Based on section 594 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 22 [second and third sentences of second paragraph], 38 Stat. 272, 273; Sept. 26, 1918, ch. 177, § 5 [22(b), second paragraph], 40 Stat. 970; Aug. 23, 1935, ch. 614, § 326(b), 49 Stat. 716).
+Based on section 594 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 22 [second and third sentences of second paragraph], 38 Stat. 272, 273; Sept. 26, 1918, ch. 177, § 5 [22(b), second paragraph], 40 Stat. 970; Aug. 23, 1935, ch. 614, § 326(b), 49 Stat. 716).
 
 Other provisions of section 594 of title 12, U.S.C., 1940 ed., Banks and Banking, were consolidated with similar provisions from other sections, to form section 1909 of this title.
 
@@ -169,7 +169,7 @@ Changes were made in phraseology.
 
 Section 1(b) of the International Banking Act of 1978, referred to in text, is classified to section 3101 of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 Section 3(s) of the Federal Deposit Insurance Act, referred to in text, is classified to section 1813(s) of Title 12.
 
@@ -179,27 +179,27 @@ Section 3(s) of the Federal Deposit Insurance Act, referred to in text, is class
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1990—Pub. L. 101–647 substituted “System, any bank insured” for “System, or bank insured” and inserted “, any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or any organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “by the Federal Deposit Insurance Corporation”, “branch, agency, or organization,” after “proper officers of such bank,”, “or a Federal branch or Federal agency (as such terms are defined in paragraphs (5) and (6) of section 1(b) of the International Banking Act of 1978)” after “national bank”, “, an uninsured State branch or State agency (as such terms are defined in paragraphs (11) and (12) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) of the Federal Reserve Act” after “as to a State member bank”, “, including any insured branch (as defined in section 3(s) of the Federal Deposit Insurance Act),” after “any other insured bank”, and “or organization” after “board of directors of such bank”.
+1990—Pub. L. 101–647 substituted “System, any bank insured” for “System, or bank insured” and inserted “, any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or any organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “by the Federal Deposit Insurance Corporation”, “branch, agency, or organization,” after “proper officers of such bank,”, “or a Federal branch or Federal agency (as such terms are defined in paragraphs (5) and (6) of section 1(b) of the International Banking Act of 1978)” after “national bank”, “, an uninsured State branch or State agency (as such terms are defined in paragraphs (11) and (12) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) of the Federal Reserve Act” after “as to a State member bank”, “, including any insured branch (as defined in section 3(s) of the Federal Deposit Insurance Act),” after “any other insured bank”, and “or organization” after “board of directors of such bank”.
 
 1982—Pub. L. 97–258 substituted “section 714 of title 31” for “section 117(e) of the Accounting and Auditing Act of 1950” wherever appearing.
 
-1978—Pub. L. 95–320 substituted “from a bank examination report” for “by bank examiner” in section catchline and, in text, substituted “public or private, or a General Accounting Office employee with access to bank examination report information under section 117(e) of the Accounting and Auditing Act of 1950, discloses” for “public or private, discloses”, “examined by him or subject to General Accounting Office audit under section 117(e) of the Accounting and Auditing Act of 1950 to other than” for “, examined by him, to other than”, and “either House duly authorized or as authorized by section 117(e) of the Accounting and Auditing Act of 1950 shall be fined” for “either House duly authorized, shall be fined”.
+1978—Pub. L. 95–320 substituted “from a bank examination report” for “by bank examiner” in section catchline and, in text, substituted “public or private, or a General Accounting Office employee with access to bank examination report information under section 117(e) of the Accounting and Auditing Act of 1950, discloses” for “public or private, discloses”, “examined by him or subject to General Accounting Office audit under section 117(e) of the Accounting and Auditing Act of 1950 to other than” for “, examined by him, to other than”, and “either House duly authorized or as authorized by section 117(e) of the Accounting and Auditing Act of 1950 shall be fined” for “either House duly authorized, shall be fined”.
 
 **Executive Documents**
 
 **Exception as to Transfer of Functions**
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies, and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26, of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies, and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26, of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 1907. Disclosure of information by farm credit examiner
+## § 1907. Disclosure of information by farm credit examiner
 
 Whoever, being a farm credit examiner or any examiner, public or private, discloses the names of borrowers of any Federal land bank association or Federal land bank, or any organization examined by him under the provisions of law relating to Federal intermediate credit banks, to other than the proper officers of such institution or organization, without first having obtained express permission in writing from the Land Bank Commissioner or from the board of directors of such institution or organization, except when ordered to do so by a court of competent jurisdiction or by direction of the Congress of the United States or either House thereof, or any committee of Congress or either House duly authorized, shall be fined under this title or imprisoned not more than one year, or both; and shall be disqualified from holding office as a farm credit examiner.
 
-(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 97–297, § 4(c), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 97–297, § 4(c), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 983 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, § 31 [third and fourth sentences of third paragraph], 39 Stat. 383; July 17, 1916, ch. 245, § 211(d) [part of first sentence], as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1460; June 16, 1933, ch. 98, § 80(a), 48 Stat. 273).
+Based on sections 983 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, § 31 [third and fourth sentences of third paragraph], 39 Stat. 383; July 17, 1916, ch. 245, § 211(d) [part of first sentence], as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1460; June 16, 1933, ch. 98, § 80(a), 48 Stat. 273).
 
 Section 983 of title 12, U.S.C., 1940 ed., Banks and Banking, does not include the term “farm credit examiner,” as used in this section, but it relates thereto as is indicated by sections 951 and 952 of said title.
 
@@ -221,7 +221,7 @@ Other provisions of said section 983 of title 12, U.S.C., 1940 ed., were incorpo
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1982—Pub. L. 97–297 substituted “or Federal land bank” for “, Federal land bank, or joint-stock land bank”.
+1982—Pub. L. 97–297 substituted “or Federal land bank” for “, Federal land bank, or joint-stock land bank”.
 
 1959—Pub. L. 86–168 substituted “Federal land bank associations” for “national farm loan association”.
 
@@ -235,19 +235,19 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 
 The office of Land Bank Commissioner was abolished by section 636f of Title 12, Banks and Banking.
 
-## [§ 1908. Repealed. Pub. L. 103–322, title XXXIII, § 330004(11), Sept. 13, 1994, 108 Stat. 2141]
+## [§ 1908. Repealed. Pub. L. 103–322, title XXXIII, § 330004(11), Sept. 13, 1994, 108 Stat. 2141]
 
-Section, acts June 25, 1948, ch. 645, 62 Stat. 792; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, § 330016(1)(K), 108 Stat. 2147, related to disclosure of information by National Agricultural Credit Corporation examiner.
+Section, acts June 25, 1948, ch. 645, 62 Stat. 792; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, § 330016(1)(K), 108 Stat. 2147, related to disclosure of information by National Agricultural Credit Corporation examiner.
 
-## § 1909. Examiner performing other services
+## § 1909. Examiner performing other services
 
 Whoever, being a national-bank examiner, Federal Deposit Insurance Corporation examiner, or farm credit examiner, performs any other service, for compensation, for any bank or banking or loan association, or for any officer, director, or employee thereof, or for any person connected therewith in any capacity, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §§ 330004(12), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §§ 330004(12), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 594, 656a, 952, 981, 1093, 1124, 1243, and 1314 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 22, fourth sentence of first paragraph, and third sentence of second paragraph, 38 Stat. 272; July 17, 1916, ch. 245, §§ 28, 31 [third sentence of first paragraph], 39 Stat. 381, 383; July 17, 1916, ch. 245, §§ 208(c), 211(d), second sentence, as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1459, 1460; Sept. 26, 1918, ch. 177, § 5 [“22(b)”] 40 Stat. 970; Mar. 4, 1923, ch. 252, title II, §§ 209(c), 216(d) [second sentence], 42 Stat. 1468, 1472; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, § 80(a), 48 Stat. 273; Aug. 23, 1935, ch. 614, § 326(b), 49 Stat. 716; Aug. 19, 1937, ch. 704, § 20, 50 Stat. 710).
+Based on sections 594, 656a, 952, 981, 1093, 1124, 1243, and 1314 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 22, fourth sentence of first paragraph, and third sentence of second paragraph, 38 Stat. 272; July 17, 1916, ch. 245, §§ 28, 31 [third sentence of first paragraph], 39 Stat. 381, 383; July 17, 1916, ch. 245, §§ 208(c), 211(d), second sentence, as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1459, 1460; Sept. 26, 1918, ch. 177, § 5 [“22(b)”] 40 Stat. 970; Mar. 4, 1923, ch. 252, title II, §§ 209(c), 216(d) [second sentence], 42 Stat. 1468, 1472; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, § 80(a), 48 Stat. 273; Aug. 23, 1935, ch. 614, § 326(b), 49 Stat. 716; Aug. 19, 1937, ch. 704, § 20, 50 Stat. 710).
 
 Section 594 of title 12, U.S.C., 1940 ed., Banks and Banking, first paragraph, related to national-bank examiners and Federal Deposit Insurance Corporation examiners, and provided punishment for several offenses including the offense of performing services, for compensation, other than their regular duties. Section 656a of said title 12 is authority for the designation “farm credit examiner” included in this section, and section 1093 of said title authorizes farm credit examiners to conduct examinations in connection with contemplated transactions of Federal intermediate credit banks, to which section 1124 of said title relates.
 
@@ -261,17 +261,17 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-1994—Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+1994—Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
-Pub. L. 103–322, § 330004(12), inserted “or” before “farm credit examiner” and struck out “or an examiner of National Agricultural Credit Corporations,” before “performs any other service”.
+Pub. L. 103–322, § 330004(12), inserted “or” before “farm credit examiner” and struck out “or an examiner of National Agricultural Credit Corporations,” before “performs any other service”.
 
-## § 1910. Nepotism in appointment of receiver or trustee
+## § 1910. Nepotism in appointment of receiver or trustee
 
 Whoever, being a judge of any court of the United States, appoints as receiver, or trustee, any person related to such judge by consanguinity, or affinity, within the fourth degree—
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
@@ -285,15 +285,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in last par.
 
-## § 1911. Receiver mismanaging property
+## § 1911. Receiver mismanaging property
 
 Whoever, being a receiver, trustee, or manager in possession of any property in any cause pending in any court of the United States, willfully fails to manage and operate such property according to the requirements of the valid laws of the State in which such property shall be situated, in the same manner that the owner or possessor thereof would be bound to do if in possession thereof, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based upon section 124 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 65, 36 Stat. 1104).
+Based upon section 124 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 65, 36 Stat. 1104).
 
 Word “trustee” was inserted after “receiver” so as to make it clear that persons holding such office are included in the enumeration of court officers who are subject to the provisions of this section.
 
@@ -307,15 +307,15 @@ Other provisions of section 124 of title 28, U.S.C., 1940 ed., were retained in 
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
 
-## § 1912. Unauthorized fees for inspection of vessels
+## § 1912. Unauthorized fees for inspection of vessels
 
 Whoever, being an officer, employee, or agent of the United States or any agency thereof, engaged in inspection of vessels, upon any pretense, receives any fee or reward for his services, except what is allowed to him by law, shall be fined under this title or imprisoned not more than six months, or both; and shall forfeit his office.
 
-(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 196 (Mar. 4, 1909, ch. 321, § 107, 35 Stat. 1107).
+Based on title 18, U.S.C., 1940 ed., § 196 (Mar. 4, 1909, ch. 321, § 107, 35 Stat. 1107).
 
 The phrase “officer or employee of the United States or any agency thereof” was substituted for the phrase “inspector of steamboats” in view of 1946 Reorganization Plan No. 3, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, abolishing inspectors and transferring their functions to the Coast Guard.
 
@@ -327,15 +327,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 1913. Lobbying with appropriated moneys
+## § 1913. Lobbying with appropriated moneys
 
 No part of the money appropriated by any enactment of Congress shall, in the absence of express authorization by Congress, be used directly or indirectly to pay for any personal service, advertisement, telegram, telephone, letter, printed or written matter, or other device, intended or designed to influence in any manner a Member of Congress, a jurisdiction, or an official of any government, to favor, adopt, or oppose, by vote or otherwise, any legislation, law, ratification, policy, or appropriation, whether before or after the introduction of any bill, measure, or resolution proposing such legislation, law, ratification, policy, or appropriation; but this shall not prevent officers or employees of the United States or of its departments or agencies from communicating to any such Member or official, at his request, or to Congress or such official, through the proper official channels, requests for any legislation, law, ratification, policy, or appropriations which they deem necessary for the efficient conduct of the public business, or from making any communication whose prohibition by this section might, in the opinion of the Attorney General, violate the Constitution or interfere with the conduct of foreign policy, counter-intelligence, intelligence, or national security activities. Violations of this section shall constitute violations of section 1352(a) of title 31.
 
-(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. A, title II, § 205(b), Nov. 2, 2002, 116 Stat. 1778.)
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. A, title II, § 205(b), Nov. 2, 2002, 116 Stat. 1778.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 201 (July 11, 1919, ch. 6, § 6, 41 Stat. 68).
+Based on title 18, U.S.C., 1940 ed., § 201 (July 11, 1919, ch. 6, § 6, 41 Stat. 68).
 
 Reference to “department” and “agency” was added in three instances after the words “United States” to remove doubt as to the scope of the section. (See definitions of “department” and “agency” in section 6 of this title.)
 
@@ -349,11 +349,11 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-2002—Pub. L. 107–273 substituted “a jurisdiction, or an official of any government, to favor, adopt,” for “to favor”, inserted “, law, ratification, policy,” after “legislation” wherever appearing, struck out “by Congress” before “, whether before or after”, inserted “, measure,” before “or resolution”, substituted “any such Member or official, at his request,” for “Members of Congress on the request of any Member”, inserted “or such official” before “, through the proper”, substituted “for any legislation” for “for legislation”, substituted “, or from making any communication whose prohibition by this section might, in the opinion of the Attorney General, violate the Constitution or interfere with the conduct of foreign policy, counter-intelligence, intelligence, or national security activities. Violations of this section shall constitute violations of section 1352(a) of title 31.” for period at end of first par., and struck out last par. which read as follows: “Whoever, being an officer or employee of the United States or of any department or agency thereof, violates or attempts to violate this section, shall be fined under this title or imprisoned not more than one year, or both; and after notice and hearing by the superior officer vested with the power of removing him, shall be removed from office or employment.”
+2002—Pub. L. 107–273 substituted “a jurisdiction, or an official of any government, to favor, adopt,” for “to favor”, inserted “, law, ratification, policy,” after “legislation” wherever appearing, struck out “by Congress” before “, whether before or after”, inserted “, measure,” before “or resolution”, substituted “any such Member or official, at his request,” for “Members of Congress on the request of any Member”, inserted “or such official” before “, through the proper”, substituted “for any legislation” for “for legislation”, substituted “, or from making any communication whose prohibition by this section might, in the opinion of the Attorney General, violate the Constitution or interfere with the conduct of foreign policy, counter-intelligence, intelligence, or national security activities. Violations of this section shall constitute violations of section 1352(a) of title 31.” for period at end of first par., and struck out last par. which read as follows: “Whoever, being an officer or employee of the United States or of any department or agency thereof, violates or attempts to violate this section, shall be fined under this title or imprisoned not more than one year, or both; and after notice and hearing by the superior officer vested with the power of removing him, shall be removed from office or employment.”
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in last par.
 
-## [§ 1914. Repealed. Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126]
+## [§ 1914. Repealed. Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 793, related to salary of Government officials and employees payable only by United States. Section was supplanted by section 209 of this title.
 
@@ -363,15 +363,15 @@ Section, act June 25, 1948, ch. 645, 62 Stat. 793, related to salary of Governme
 
 Repeal effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as an Effective Date note under section 201 of this title.
 
-## § 1915. Compromise of customs liabilities
+## § 1915. Compromise of customs liabilities
 
 Whoever, being an officer of the United States, without lawful authority compromises or abates or attempts to compromise or abate any claim of the United States arising under the customs laws for any fine, penalty or forfeiture, or in any manner relieves or attempts to relieve any person, vessel, vehicle, merchandise or baggage therefrom, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 793; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 793; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1616 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 616, 46 Stat. 757).
+Based on section 1616 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 616, 46 Stat. 757).
 
 Designation of the offense as a felony was omitted as unnecessary in view of definitive section 1 of this title. (See reviser’s note under section 550 of this title.)
 
@@ -385,7 +385,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 1916. Unauthorized employment and disposition of lapsed appropriations
+## § 1916. Unauthorized employment and disposition of lapsed appropriations
 
 Whoever—
 
@@ -395,16 +395,16 @@ Whoever—
 
 shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 608; amended Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title III, § 3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
+(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 608; amended Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title III, § 3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 47 (less so much as relates to removal). | Aug. 23, 1912, ch. 350, § 5 (less so much as relates to removal), 37 Stat. 414. |
+|  | 5 U.S.C. 47 (less so much as relates to removal). | Aug. 23, 1912, ch. 350, § 5 (less so much as relates to removal), 37 Stat. 414. |
 |  | 5 U.S.C. 50 (2d sentence, less so much as relates to removal). |  |
 
-The statement of the acts prohibited is supplied from section 4 of the Act of Aug. 5, 1882, ch. 389, 22 Stat. 255, as amended June 22, 1906, ch. 3514, §§ 6, 8, 34 Stat. 449, and Sept. 23, 1950, ch. 1010, § 7, 64 Stat. 986, which is codified in sections 3103 and 5501 of title 5, United States Code.
+The statement of the acts prohibited is supplied from section 4 of the Act of Aug. 5, 1882, ch. 389, 22 Stat. 255, as amended June 22, 1906, ch. 3514, §§ 6, 8, 34 Stat. 449, and Sept. 23, 1950, ch. 1010, § 7, 64 Stat. 986, which is codified in sections 3103 and 5501 of title 5, United States Code.
 
 The words “upon conviction thereof” are omitted as unnecessary because punishment can be imposed only after conviction.
 
@@ -412,11 +412,11 @@ The words “upon conviction thereof” are omitted as unnecessary because punis
 
 **Amendments**
 
-2002—Pub. L. 107–273 inserted “, or both” after “year” in concluding provisions.
+2002—Pub. L. 107–273 inserted “, or both” after “year” in concluding provisions.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
 
-## § 1917. Interference with civil service examinations
+## § 1917. Interference with civil service examinations
 
 Whoever, being a member or employee of the United States Office of Personnel Management or an individual in the public service, willfully and corruptly—
 
@@ -430,13 +430,13 @@ Whoever, being a member or employee of the United States Office of Personnel Man
 
 shall, for each offense, be fined under this title not less than $100 or imprisoned not less than ten days nor more than one year, or both.
 
-(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 609; amended Pub. L. 103–322, title XXXIII, § 330010(2), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 104–294, title VI, § 601(a)(9), Oct. 11, 1996, 110 Stat. 3498.)
+(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 609; amended Pub. L. 103–322, title XXXIII, § 330010(2), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 104–294, title VI, § 601(a)(9), Oct. 11, 1996, 110 Stat. 3498.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 637. | Jan. 16, 1883, ch. 27, § 5, 22 Stat. 405. |
+|  | 5 U.S.C. 637. | Jan. 16, 1883, ch. 27, § 5, 22 Stat. 405. |
 
 The section is rewritten to conform to the style of title 18. The words “a member or employee of the United States Civil Service Commission” are coextensive with and substituted for “Civil Service Commissioner, examiner, copyist, or messenger”.
 
@@ -458,7 +458,7 @@ The words “or both” are substituted for “or by both such fine and imprison
 
 1994—Pub. L. 103–322 substituted “Office of Personnel Management” for “Civil Service Commission” in introductory provisions and “such Office” for “the Commission” in par. (1).
 
-## § 1918. Disloyalty and asserting the right to strike against the Government
+## § 1918. Disloyalty and asserting the right to strike against the Government
 
 Whoever violates the provision of section 7311 of title 5 that an individual may not accept or hold a position in the Government of the United States or the government of the District of Columbia if he—
 
@@ -472,16 +472,16 @@ Whoever violates the provision of section 7311 of title 5 that an individual may
 
 shall be fined under this title or imprisoned not more than one year and a day, or both.
 
-(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 609; amended Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
+(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 609; amended Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118r. | Aug. 9, 1955, ch. 690, § 3, 69 Stat. 625. |
-|  | [Uncodified.] | June 29, 1956, ch. 479, § 3 (as applicable to the Act of Aug. 9, 1955, ch. 690, § 3, 69 Stat. 625), 70 Stat. 453. |
+|  | 5 U.S.C. 118r. | Aug. 9, 1955, ch. 690, § 3, 69 Stat. 625. |
+|  | [Uncodified.] | June 29, 1956, ch. 479, § 3 (as applicable to the Act of Aug. 9, 1955, ch. 690, § 3, 69 Stat. 625), 70 Stat. 453. |
 
-The section is rewritten to conform to the style of title 18. The statement of the acts prohibited is supplied from the Act of Aug. 9, 1955, ch. 690, § 1, 69 Stat. 624, which is codified in section 7311 of title 5, United States Code.
+The section is rewritten to conform to the style of title 18. The statement of the acts prohibited is supplied from the Act of Aug. 9, 1955, ch. 690, § 1, 69 Stat. 624, which is codified in section 7311 of title 5, United States Code.
 
 The words “From and after July 1, 1956”, appearing in the Act of June 29, 1956, are omitted as executed.
 
@@ -493,32 +493,32 @@ The words “shall be guilty of a felony” are omitted as unnecessary in view o
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
 
-## § 1919. False statement to obtain unemployment compensation for Federal service
+## § 1919. False statement to obtain unemployment compensation for Federal service
 
 Whoever makes a false statement or representation of a material fact knowing it to be false, or knowingly fails to disclose a material fact, to obtain or increase for himself or for any other individual any payment authorized to be paid under chapter 85 of title 5 or under an agreement thereunder, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 609.)
+(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 609.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1368(a). | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1508(a)”, 68 Stat. 1135. |
+|  | 42 U.S.C. 1368(a). | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1508(a)”, 68 Stat. 1135. |
 
 The words “under chapter 85 of title 5” are substituted for “under this title” (Title XV of the Social Security Act, as amended) to reflect the codification of the Title in title 5, United States Code.
 
-## § 1920. False statement or fraud to obtain Federal employees’ compensation
+## § 1920. False statement or fraud to obtain Federal employees’ compensation
 
 Whoever knowingly and willfully falsifies, conceals, or covers up a material fact, or makes a false, fictitious, or fraudulent statement or representation, or makes or uses a false statement or report knowing the same to contain any false, fictitious, or fraudulent statement or entry in connection with the application for or receipt of compensation or other benefit or payment under subchapter I or III of chapter 81 of title 5, shall be guilty of perjury, and on conviction thereof shall be punished by a fine under this title, or by imprisonment for not more than 5 years, or both; but if the amount of the benefits falsely obtained does not exceed $1,000, such person shall be punished by a fine under this title, or by imprisonment for not more than 1 year, or both.
 
-(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–333, title I, § 101(b)(1), Sept. 30, 1994, 108 Stat. 2547; Pub. L. 104–294, title VI, § 601(a)(10), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title IV, § 4002(f)(2), Nov. 2, 2002, 116 Stat. 1811.)
+(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–333, title I, § 101(b)(1), Sept. 30, 1994, 108 Stat. 2547; Pub. L. 104–294, title VI, § 601(a)(10), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title IV, § 4002(f)(2), Nov. 2, 2002, 116 Stat. 1811.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 789. | Sept. 7, 1916, ch. 458, § 39, 39 Stat. 749. |
-|  |  | Oct. 14, 1949, ch. 691, § 103(b), 63 Stat. 855. |
+|  | 5 U.S.C. 789. | Sept. 7, 1916, ch. 458, § 39, 39 Stat. 749. |
+|  |  | Oct. 14, 1949, ch. 691, § 103(b), 63 Stat. 855. |
 
 The word “That” in the Act of Sept. 7, 1916, is omitted as unnecessary.
 
@@ -532,7 +532,7 @@ Minor changes in phraseology are made to conform to the style of title 18.
 
 **Amendments**
 
-2002—Pub. L. 107–273 substituted “employees’ ” for “employee’s” in section catchline.
+2002—Pub. L. 107–273 substituted “employees’ ” for “employee’s” in section catchline.
 
 1996—Pub. L. 104–294 substituted “fine under this title” the first place it appears for “fine of not more than $250,000” and “fine under this title” the second place it appears for “fine of not more than $100,000”.
 
@@ -540,21 +540,21 @@ Minor changes in phraseology are made to conform to the style of title 18.
 
 Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## [§ 1921. Repealed. Pub. L. 116–260, div. O, title X, § 1002(9), Dec. 27, 2020, 134 Stat. 2155]
+## [§ 1921. Repealed. Pub. L. 116–260, div. O, title X, § 1002(9), Dec. 27, 2020, 134 Stat. 2155]
 
-Section, added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147, penalized receiving certain Federal employees’ compensation after marriage.
+Section, added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147, penalized receiving certain Federal employees’ compensation after marriage.
 
-## § 1922. False or withheld report concerning Federal employees’ compensation
+## § 1922. False or withheld report concerning Federal employees’ compensation
 
 Whoever, being an officer or employee of the United States charged with the responsibility for making the reports of the immediate superior specified by section 8120 of title 5, willfully fails, neglects, or refuses to make any of the reports, or knowingly files a false report, or induces, compels, or directs an injured employee to forego filing of any claim for compensation or other benefits provided under subchapter I of chapter 81 of title 5 or any extension or application thereof, or willfully retains any notice, report, claim, or paper which is required to be filed under that subchapter or any extension or application thereof, or regulations prescribed thereunder, shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 774(b). | Sept. 13, 1960, Pub. L. 86–767, § 206, 74 Stat. 908. |
+|  | 5 U.S.C. 774(b). | Sept. 13, 1960, Pub. L. 86–767, § 206, 74 Stat. 908. |
 
 The words “the reports of the immediate superior specified in section 8120 of title 5” are substituted for “the reports specified in subsection (a) of this section” to reflect the codification of that subsection in title 5, United States Code.
 
@@ -570,7 +570,7 @@ The words “and upon conviction thereof” are omitted as unnecessary because p
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 1923. Fraudulent receipt of payments of missing persons
+## § 1923. Fraudulent receipt of payments of missing persons
 
 Whoever obtains or receives any money, check, or allotment under—
 
@@ -580,13 +580,13 @@ Whoever obtains or receives any money, check, or allotment under—
 
 without being entitled thereto, with intent to defraud, shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 50A U.S.C. 1008. | Mar. 7, 1942, ch. 166, § 8, 56 Stat. 145. |
+|  | 50A U.S.C. 1008. | Mar. 7, 1942, ch. 166, § 8, 56 Stat. 145. |
 
 Clauses (1) and (2) are substituted for the words “under this Act” to reflect the codification of the Act. The portion of the Act which is applicable to civilian officers and employees and their dependents is codified in subchapter VII of chapter 55 of title 5, United States Code. The portion of the Act which is applicable to members of the uniformed services and their dependents is codified in chapter 10 of title 37, United States Code.
 
@@ -596,7 +596,7 @@ Clauses (1) and (2) are substituted for the words “under this Act” to reflec
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 1924. Unauthorized removal and retention of classified documents or material
+## § 1924. Unauthorized removal and retention of classified documents or material
 
 **(a)** Whoever, being an officer, employee, contractor, or consultant of the United States, and, by virtue of his office, employment, position, or contract, becomes possessed of documents or materials containing classified information of the United States, knowingly removes such documents or materials without authority and with the intent to retain such documents or materials at an unauthorized location shall be fined under this title or imprisoned for not more than five years, or both.
 
@@ -604,7 +604,7 @@ Clauses (1) and (2) are substituted for the words “under this Act” to reflec
 
 **(c)** In this section, the term “classified information of the United States” means information originated, owned, or possessed by the United States Government concerning the national defense or foreign relations of the United States that has been determined pursuant to law or Executive order to require protection against unauthorized disclosure in the interests of national security.
 
-(Added Pub. L. 103–359, title VIII, § 808(a), Oct. 14, 1994, 108 Stat. 3453; amended Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(i), Nov. 2, 2002, 116 Stat. 1809; Pub. L. 115–118, title II, § 202, Jan. 19, 2018, 132 Stat. 19.)
+(Added Pub. L. 103–359, title VIII, § 808(a), Oct. 14, 1994, 108 Stat. 3453; amended Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(i), Nov. 2, 2002, 116 Stat. 1809; Pub. L. 115–118, title II, § 202, Jan. 19, 2018, 132 Stat. 19.)
 
 **Editorial Notes**
 

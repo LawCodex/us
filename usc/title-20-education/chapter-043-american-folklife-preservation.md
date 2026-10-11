@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 2101. Congressional declaration of findings and purpose
+### § 2101. Congressional declaration of findings and purpose
 
 **(a)** The Congress hereby finds and declares—
 
@@ -35,23 +35,23 @@ retrieved: 2026-10-11
 
 **(b)** It is therefore the purpose of this subchapter to establish in the Library of Congress an American Folklife Center to preserve and pre­sent American folklife.
 
-(Pub. L. 94–201, § 2, Jan. 2, 1976, 89 Stat. 1129.)
+(Pub. L. 94–201, § 2, Jan. 2, 1976, 89 Stat. 1129.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–246, § 1, Nov. 28, 2016, 130 Stat. 995, provided that: “This Act [amending section 2142 of this title] may be cited as the ‘Gold Star Families Voices Act’.”
+Pub. L. 114–246, § 1, Nov. 28, 2016, 130 Stat. 995, provided that: “This Act [amending section 2142 of this title] may be cited as the ‘Gold Star Families Voices Act’.”
 
 **Short Title**
 
-Pub. L. 94–201, § 1, Jan. 2, 1976, 89 Stat. 1129, provided: “That this Act [enacting this subchapter] may be cited as the ‘American Folklife Preservation Act’.”
+Pub. L. 94–201, § 1, Jan. 2, 1976, 89 Stat. 1129, provided: “That this Act [enacting this subchapter] may be cited as the ‘American Folklife Preservation Act’.”
 
-Pub. L. 106–380, § 1, Oct. 27, 2000, 114 Stat. 1447, provided that: “This Act [enacting subchapter II of this chapter] may be cited as the ‘Veterans’ Oral History Project Act’.”
+Pub. L. 106–380, § 1, Oct. 27, 2000, 114 Stat. 1447, provided that: “This Act [enacting subchapter II of this chapter] may be cited as the ‘Veterans’ Oral History Project Act’.”
 
 **Findings and Purpose of 1998 Amendment**
 
-Pub. L. 105–275, title III, § 312(a), Oct. 21, 1998, 112 Stat. 2457, provided that:
+Pub. L. 105–275, title III, § 312(a), Oct. 21, 1998, 112 Stat. 2457, provided that:
 
 > **“(1) Findings.—** Congress makes the following findings:
 
@@ -79,7 +79,7 @@ Pub. L. 105–275, title III, § 312(a), Oct. 21, 1998, 112 Stat. 2457, provid
 
 > **“(2) Purpose.—** It is the purpose of this section [amending sections 2103, 2106, and 2107 of this title and enacting provisions set out as a note under section 2103 of this title] to authorize permanently the American Folklife Center in the Library of Congress to preserve and present American Folklife.”
 
-### § 2102. Definitions
+### § 2102. Definitions
 
 As used in this subchapter—
 
@@ -97,9 +97,9 @@ As used in this subchapter—
 
 **(7)** the term “workshop” means an activity the primary purpose of which is to encourage the development of skills, appreciation, or enjoyment of American folklife among amateur, student, or nonprofessional participants, or to promote scholarship or teaching among the participants.
 
-(Pub. L. 94–201, § 3, Jan. 2, 1976, 89 Stat. 1129.)
+(Pub. L. 94–201, § 3, Jan. 2, 1976, 89 Stat. 1129.)
 
-### § 2103. American Folklife Center
+### § 2103. American Folklife Center
 
 **(a) Establishment**
 
@@ -163,19 +163,19 @@ After consultation with the Board, the Librarian shall appoint the Director of t
 
 The Director shall be the chief executive officer of the Center. Subject to the direction of the Board and the general supervision of the Librarian, the Director shall have responsibility for carrying out functions of the Center, and shall have authority over all personnel and activities of the Center.
 
-(Pub. L. 94–201, § 4, Jan. 2, 1976, 89 Stat. 1130; Pub. L. 95–259, § 2, Apr. 17, 1978, 92 Stat. 196; Pub. L. 105–275, title III, § 312(b)(1), Oct. 21, 1998, 112 Stat. 2458; Pub. L. 116–94, div. P, title XIV, § 1402, Dec. 20, 2019, 133 Stat. 3206.)
+(Pub. L. 94–201, § 4, Jan. 2, 1976, 89 Stat. 1130; Pub. L. 95–259, § 2, Apr. 17, 1978, 92 Stat. 196; Pub. L. 105–275, title III, § 312(b)(1), Oct. 21, 1998, 112 Stat. 2458; Pub. L. 116–94, div. P, title XIV, § 1402, Dec. 20, 2019, 133 Stat. 3206.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (b)(1)(D). Pub. L. 116–94, § 1402(1)(A), substituted “nine” for “seven” in introductory provisions.
+2019—Subsec. (b)(1)(D). Pub. L. 116–94, § 1402(1)(A), substituted “nine” for “seven” in introductory provisions.
 
-Subsec. (b)(1)(D)(viii), (ix). Pub. L. 116–94, § 1402(1)(B)–(D), added cls. (viii) and (ix).
+Subsec. (b)(1)(D)(viii), (ix). Pub. L. 116–94, § 1402(1)(B)–(D), added cls. (viii) and (ix).
 
-Subsec. (f). Pub. L. 116–94, § 1402(2), substituted “The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5.” for “The basic pay of the Director shall be at an annual rate that is not less than an amount equal to 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule nor more than an amount equal to the pay payable under level IV of the Executive Schedule under section 5315 of title 5.”
+Subsec. (f). Pub. L. 116–94, § 1402(2), substituted “The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5.” for “The basic pay of the Director shall be at an annual rate that is not less than an amount equal to 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule nor more than an amount equal to the pay payable under level IV of the Executive Schedule under section 5315 of title 5.”
 
-1998—Subsec. (b). Pub. L. 105–275, § 312(b)(1)(A), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Center shall be under the direction of a Board of Trustees. The Board shall be composed as follows—
+1998—Subsec. (b). Pub. L. 105–275, § 312(b)(1)(A), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Center shall be under the direction of a Board of Trustees. The Board shall be composed as follows—
 
 “(1) four members appointed by the President from among individuals who are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts;
 
@@ -193,15 +193,15 @@ Subsec. (f). Pub. L. 116–94, § 1402(2), substituted “The rate of basic pa
 
 In making appointments from private life under clause 2, the President pro tempore of the Senate and the Speaker of the House of Representatives shall give due consideration to the appointment of individuals who collectively will provide appropriate regional balance on the Board. Not more than three of the members appointed by the President pro tempore of the Senate or by the Speaker of the House of Representatives may be affiliated with the same political party.”
 
-Subsec. (d). Pub. L. 105–275, § 312(b)(1)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: “Members of the Board who are not regular full-time employees of the United States shall be entitled, while serving on business of the Center, to receive compensation at rates fixed by the Librarian, but not exceeding $100 per diem, including traveltime; and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.”
+Subsec. (d). Pub. L. 105–275, § 312(b)(1)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: “Members of the Board who are not regular full-time employees of the United States shall be entitled, while serving on business of the Center, to receive compensation at rates fixed by the Librarian, but not exceeding $100 per diem, including traveltime; and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.”
 
-Subsec. (e)(2). Pub. L. 105–275, § 312(b)(1)(C)(i), inserted “currently serving” after “Board”.
+Subsec. (e)(2). Pub. L. 105–275, § 312(b)(1)(C)(i), inserted “currently serving” after “Board”.
 
-Subsec. (e)(3). Pub. L. 105–275, § 312(b)(1)(C)(ii), added par. (3).
+Subsec. (e)(3). Pub. L. 105–275, § 312(b)(1)(C)(ii), added par. (3).
 
-Subsec. (f). Pub. L. 105–275, § 312(b)(1)(D), added subsec. (f) and struck out former subsec. (f) which read as follows: “After consultation with the Board, the Librarian shall appoint the Director of the Center. The basic pay of the Director shall be at a per year rate not to exceed GS–18 of the General Schedule under section 5332 of title 5. The Librarian upon the recommendation of the Director shall appoint a Deputy Director of the Center. The basic pay of the Deputy Director shall be fixed at a rate not to exceed GS–16 of the General Schedule under section 5332 of such title.”
+Subsec. (f). Pub. L. 105–275, § 312(b)(1)(D), added subsec. (f) and struck out former subsec. (f) which read as follows: “After consultation with the Board, the Librarian shall appoint the Director of the Center. The basic pay of the Director shall be at a per year rate not to exceed GS–18 of the General Schedule under section 5332 of title 5. The Librarian upon the recommendation of the Director shall appoint a Deputy Director of the Center. The basic pay of the Deputy Director shall be fixed at a rate not to exceed GS–16 of the General Schedule under section 5332 of such title.”
 
-Subsec. (g). Pub. L. 105–275, § 312(b)(1)(E), struck out “(1)” before “The Director” and struck out par. (2) which read as follows: “The Deputy Director shall perform such functions as the Director, with the approval of the Librarian, may prescribe, and shall serve as Acting Director during the absence or disability of the Director or in the event of a vacancy in the office of the Director.”
+Subsec. (g). Pub. L. 105–275, § 312(b)(1)(E), struck out “(1)” before “The Director” and struck out par. (2) which read as follows: “The Deputy Director shall perform such functions as the Director, with the approval of the Librarian, may prescribe, and shall serve as Acting Director during the absence or disability of the Director or in the event of a vacancy in the office of the Director.”
 
 1978—Subsec. (c). Pub. L. 95–259 inserted provision limiting time of service of members appointed by the President to the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
 
@@ -209,9 +209,9 @@ Subsec. (g). Pub. L. 105–275, § 312(b)(1)(E), struck out “(1)” before �
 
 **Board of Trustees, Transition Period**
 
-Pub. L. 105–275, title III, § 312(d), Oct. 21, 1998, 112 Stat. 2460, provided that: “The term of office of members of the Board of Trustees appointed by the Librarian of Congress under the amendments made by subsection (b)(1) [amending this section] shall be 6 years, except that of the four members first appointed by the Librarian, one shall serve for a term of 2 years, two for a term of 4 years, and one for a term of 6 years.”
+Pub. L. 105–275, title III, § 312(d), Oct. 21, 1998, 112 Stat. 2460, provided that: “The term of office of members of the Board of Trustees appointed by the Librarian of Congress under the amendments made by subsection (b)(1) [amending this section] shall be 6 years, except that of the four members first appointed by the Librarian, one shall serve for a term of 2 years, two for a term of 4 years, and one for a term of 6 years.”
 
-### § 2104. Functions of Center
+### § 2104. Functions of Center
 
 **(a) Contracts; national archive and center for American folklife; loan of items in archive; procurement, display, etc., of items in archive; miscellaneous programs** The Librarian is authorized to—
 
@@ -241,15 +241,15 @@ Pub. L. 105–275, title III, § 312(d), Oct. 21, 1998, 112 Stat. 2460, provid
 
 The Librarian shall carry out his functions under this subchapter through the Center.
 
-(Pub. L. 94–201, § 5, Jan. 2, 1976, 89 Stat. 1131.)
+(Pub. L. 94–201, § 5, Jan. 2, 1976, 89 Stat. 1131.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Foundation on the Arts and the Humanities Act of 1965, referred to in subsec. (a)(6), is Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, which is classified principally to subchapter I (§ 951 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The National Foundation on the Arts and the Humanities Act of 1965, referred to in subsec. (a)(6), is Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, which is classified principally to subchapter I (§ 951 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
-### § 2105. Limitations on contracts
+### § 2105. Limitations on contracts
 
 **(a) Time**
 
@@ -263,9 +263,9 @@ Assistance pursuant to this subchapter shall not cover the cost of land acquisit
 
 No individual formerly in the employment of the Federal Government shall be eligible to receive any assistance pursuant to this subchapter, or to serve as a trustee of the Center in the two-year period following the termination of such employment.
 
-(Pub. L. 94–201, § 6, Jan. 2, 1976, 89 Stat. 1132.)
+(Pub. L. 94–201, § 6, Jan. 2, 1976, 89 Stat. 1132.)
 
-### § 2106. Administration
+### § 2106. Administration
 
 **(a) Regulations; receipt of money and other property; compensation of personnel; services of experts and consultants; contracts; payments** In addition to any authority vested in it by other provisions of this subchapter, the Librarian of Congress, in carrying out the Center’s functions, is authorized to—
 
@@ -289,25 +289,25 @@ No individual formerly in the employment of the Federal Government shall be elig
 
 The Director shall submit to the Librarian for inclusion in the annual report of the Library of Congress to the Congress an annual report of the operations of the Center under this subchapter, which shall include a detailed statement of all private and public funds received and expended by it, and such recommendations as the Center deems appropriate.
 
-(Pub. L. 94–201, § 7, Jan. 2, 1976, 89 Stat. 1133; Pub. L. 105–275, § 312(b)(2), Oct. 21, 1998, 112 Stat. 2459.)
+(Pub. L. 94–201, § 7, Jan. 2, 1976, 89 Stat. 1133; Pub. L. 105–275, § 312(b)(2), Oct. 21, 1998, 112 Stat. 2459.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(7), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(7), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-1998—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end “, but no individual so appointed shall receive compensation in excess of the rate received by the Deputy Director of the Center”.
+1998—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end “, but no individual so appointed shall receive compensation in excess of the rate received by the Deputy Director of the Center”.
 
-### § 2107. Authorization of appropriations
+### § 2107. Authorization of appropriations
 
 There are authorized to be appropriated to the Center to carry out this subchapter such sums as may be necessary for each fiscal year.
 
-(Pub. L. 94–201, § 8, Jan. 2, 1976, 89 Stat. 1134; Pub. L. 95–259, § 1, Apr. 17, 1978, 92 Stat. 196; Pub. L. 96–522, Dec. 12, 1980, 94 Stat. 3038; Pub. L. 98–392, §§ 1, 2, Aug. 21, 1984, 98 Stat. 1362; Pub. L. 99–473, Oct. 16, 1986, 100 Stat. 1212; Pub. L. 101–99, Sept. 26, 1989, 103 Stat. 637; Pub. L. 102–399, Oct. 7, 1992, 106 Stat. 1954; Pub. L. 103–101, § 1, Oct. 8, 1993, 107 Stat. 1020; Pub. L. 104–197, title II, § 209, Sept. 16, 1996, 110 Stat. 2410; Pub. L. 105–275, title III, § 312(c), Oct. 21, 1998, 112 Stat. 2459.)
+(Pub. L. 94–201, § 8, Jan. 2, 1976, 89 Stat. 1134; Pub. L. 95–259, § 1, Apr. 17, 1978, 92 Stat. 196; Pub. L. 96–522, Dec. 12, 1980, 94 Stat. 3038; Pub. L. 98–392, §§ 1, 2, Aug. 21, 1984, 98 Stat. 1362; Pub. L. 99–473, Oct. 16, 1986, 100 Stat. 1212; Pub. L. 101–99, Sept. 26, 1989, 103 Stat. 637; Pub. L. 102–399, Oct. 7, 1992, 106 Stat. 1954; Pub. L. 103–101, § 1, Oct. 8, 1993, 107 Stat. 1020; Pub. L. 104–197, title II, § 209, Sept. 16, 1996, 110 Stat. 2410; Pub. L. 105–275, title III, § 312(c), Oct. 21, 1998, 112 Stat. 2459.)
 
 **Editorial Notes**
 
@@ -317,13 +317,13 @@ There are authorized to be appropriated to the Center to carry out this subchapt
 
 1996—Pub. L. 104–197 substituted “Authorization of appropriations” for “Authorization” in section catchline and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Center to carry out the provisions of this subchapter $133,500 for the fiscal year 1976 and for the period from July 1 through September 30, 1976, $295,000 for the fiscal year 1977, $349,000 for the fiscal year 1978, $685,000 for the fiscal year ending September 30, 1979, $1,065,000 for the fiscal year ending September 30, 1980, $1,355,000 for the fiscal year ending September 30, 1981, $740,000 for the fiscal year ending September 30, 1982, $890,000 for the fiscal year ending September 30, 1983, $990,000 for the fiscal year ending September 30, 1984, $838,549 for the fiscal year ending September 30, 1985, $867,898 for the fiscal year ending September 30, 1986, $867,900 for the fiscal year ending September 30, 1987, $919,974 for the fiscal year ending September 30, 1988, $975,172 for the fiscal year ending September 30, 1989, $998,000 for the fiscal year ending September 30, 1990, $1,050,100 for the fiscal year ending September 30, 1991, $1,120,000 for the fiscal year ending September 30, 1992, $1,120,000 for the fiscal year ending September 30, 1993, $1,120,000 for the fiscal year ending September 30, 1994, and $1,120,000 for the fiscal year ending September 30, 1995.”
 
-1993—Pub. L. 103–101 struck out “and” after “September 30, 1992,” and inserted before period at end “, $1,120,000 for the fiscal year ending September 30, 1994, and $1,120,000 for the fiscal year ending September 30, 1995”.
+1993—Pub. L. 103–101 struck out “and” after “September 30, 1992,” and inserted before period at end “, $1,120,000 for the fiscal year ending September 30, 1994, and $1,120,000 for the fiscal year ending September 30, 1995”.
 
-1992—Pub. L. 102–399 substituted “1991,” for “1991, and” and inserted “, and $1,120,000 for the fiscal year ending September 30, 1993” after “September 30, 1992”.
+1992—Pub. L. 102–399 substituted “1991,” for “1991, and” and inserted “, and $1,120,000 for the fiscal year ending September 30, 1993” after “September 30, 1992”.
 
 1989—Pub. L. 101–99 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1990, Sept. 30, 1991, and Sept. 30, 1992, of $998,000, $1,050,100, and $1,120,000, respectively. Direction to strike out “and” after “1988” was executed by striking “and” after “1988,” to reflect the probable intent of Congress.
 
-1986—Pub. L. 99–473 struck out subsec. designation “(a)” before “There are authorized” and “and” after “1985,”, inserted “, $867,900 for the fiscal year ending September 30, 1987, $919,974 for the fiscal year ending September 30, 1988, and $975,172 for the fiscal year ending September 30, 1989”, and struck out subsec. (b) which provided that no amount authorized by subsec. (a) of this section for fiscal years ending Sept. 30, 1985, or Sept. 30, 1986, be used for pay, benefits, or other expenses of any personnel position established after Aug. 21, 1984.
+1986—Pub. L. 99–473 struck out subsec. designation “(a)” before “There are authorized” and “and” after “1985,”, inserted “, $867,900 for the fiscal year ending September 30, 1987, $919,974 for the fiscal year ending September 30, 1988, and $975,172 for the fiscal year ending September 30, 1989”, and struck out subsec. (b) which provided that no amount authorized by subsec. (a) of this section for fiscal years ending Sept. 30, 1985, or Sept. 30, 1986, be used for pay, benefits, or other expenses of any personnel position established after Aug. 21, 1984.
 
 1984—Pub. L. 98–392 designated existing provisions as subsec. (a), in subsec. (a), as so designated, inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, and Sept. 30, 1986, of $838,549 and $867,898, respectively, and added subsec. (b).
 
@@ -333,7 +333,7 @@ There are authorized to be appropriated to the Center to carry out this subchapt
 
 ## SUBCHAPTER II—VETERANS’ ORAL HISTORY
 
-### § 2141. Findings; purpose
+### § 2141. Findings; purpose
 
 **(a) Findings** Congress finds as follows:
 
@@ -351,9 +351,9 @@ There are authorized to be appropriated to the Center to carry out this subchapt
 
 **(7)** It is in the Nation’s best interest to collect and catalog oral histories of American war veterans so that future generations will have original sources of information regarding the lives and times of those who served in war and the conditions under which they endured, so that Americans will always remember those who served in war and may learn first-hand of the heroics, tediousness, horrors, and triumphs of war.
 
-**(8)** The Library of Congress, as the Nation’s oldest Federal cultural institution and largest and most inclusive library in human history (with nearly 119,000,000 items in its multimedia collection) 1
+**(8)** The Library of Congress, as the Nation’s oldest Federal cultural institution and largest and most inclusive library in human history (with nearly 119,000,000 items in its multimedia collection) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 is an appropriate repository to collect, preserve, and make available to the public an archive of these oral histories. The Library’s American Folklife Center has expertise in the management of documentation projects and experience in the development of cultural and educational programs for the public.
 
@@ -361,7 +361,7 @@ is an appropriate repository to collect, preserve, and make available to the pub
 
 It is the purpose of this subchapter to create a new federally sponsored, authorized, and funded program that will coordinate at a national level the collection of video and audio recordings of personal histories and testimonials of American war veterans, and to assist and encourage local efforts to preserve the memories of this Nation’s war veterans so that Americans of all current and future generations may hear directly from veterans and better appreciate the realities of war and the sacrifices made by those who served in uniform during wartime.
 
-(Pub. L. 106–380, § 2, Oct. 27, 2000, 114 Stat. 1447.)
+(Pub. L. 106–380, § 2, Oct. 27, 2000, 114 Stat. 1447.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -369,7 +369,7 @@ It is the purpose of this subchapter to create a new federally sponsored, author
 
 For short title of this subchapter as the “Veterans’ Oral History Project Act”, see section 1 of Pub. L. 106–380, set out as a note under section 2101 of this title.
 
-### § 2142. Establishment of program at American Folklife Center to collect video and audio recordings of histories of veterans
+### § 2142. Establishment of program at American Folklife Center to collect video and audio recordings of histories of veterans
 
 **(a) In general** The Director of the American Folklife Center at the Library of Congress shall establish an oral history program—
 
@@ -381,9 +381,9 @@ For short title of this subchapter as the “Veterans’ Oral History Project Ac
 
 **(2)** to create a collection of the recordings obtained (including a catalog and index) which will be available for public use through the National Digital Library of the Library of Congress and such other methods as the Director considers appropriate to the extent feasible subject to available resources; and
 
-**(3)** to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary 1
+**(3)** to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary 1
 
-<sup>1</sup>  So in original. Probably should be “complementary”.
+<sup>1</sup> So in original. Probably should be “complementary”.
 
 to the efforts described in paragraphs (1) and (2).
 
@@ -399,21 +399,21 @@ As soon as practicable after October 27, 2000, the Director shall begin collecti
 
 For purposes of subsection (a), the term “immediate family member” means a parent, spouse, sibling, or child.
 
-(Pub. L. 106–380, § 3, Oct. 27, 2000, 114 Stat. 1448; Pub. L. 114–246, § 2, Nov. 28, 2016, 130 Stat. 995.)
+(Pub. L. 106–380, § 3, Oct. 27, 2000, 114 Stat. 1448; Pub. L. 114–246, § 2, Nov. 28, 2016, 130 Stat. 995.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–246, § 2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to collect video and audio recordings of personal histories and testimonials of veterans of the Armed Forces who served during a period of war;”.
+2016—Subsec. (a)(1). Pub. L. 114–246, § 2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to collect video and audio recordings of personal histories and testimonials of veterans of the Armed Forces who served during a period of war;”.
 
-Subsec. (d). Pub. L. 114–246, § 2(b), added subsec. (d).
+Subsec. (d). Pub. L. 114–246, § 2(b), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **National Public Awareness and Participation Campaign for Veterans’ History Project of American Folklife Center**
 
-Pub. L. 112–239, div. A, title V, § 594, Jan. 2, 2013, 126 Stat. 1771, provided that:
+Pub. L. 112–239, div. A, title V, § 594, Jan. 2, 2013, 126 Stat. 1771, provided that:
 
 > **“(a) In General.—** The Director of the American Folklife Center at the Library of Congress shall carry out a national public awareness and participation campaign for the program required by section 3(a) of the Veterans’ Oral History Project Act (20 U.S.C. 2142(a)). Such campaign shall provide for the following:
 
@@ -429,7 +429,7 @@ Pub. L. 112–239, div. A, title V, § 594, Jan. 2, 2013, 126 Stat. 1771, prov
 
 > **“(c) Veterans Service Organization Defined.—** In this section, the term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.”
 
-### § 2143. Private support
+### § 2143. Private support
 
 **(a) Acceptance of donations**
 
@@ -447,9 +447,9 @@ There is established in the Treasury (among the accounts of the Library of Congr
 
 **(3)** the Librarian of Congress may not deposit into such account any funds donated to the Librarian which are not donated for the exclusive purpose of carrying out the oral history program under section 2142 of this title.
 
-(Pub. L. 106–380, § 4, Oct. 27, 2000, 114 Stat. 1448.)
+(Pub. L. 106–380, § 4, Oct. 27, 2000, 114 Stat. 1448.)
 
-### § 2144. Authorization of appropriations
+### § 2144. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter—
 
@@ -457,4 +457,4 @@ There are authorized to be appropriated to carry out this subchapter—
 
 **(2)** such sums as may be necessary for each succeeding fiscal year.
 
-(Pub. L. 106–380, § 5, Oct. 27, 2000, 114 Stat. 1449.)
+(Pub. L. 106–380, § 5, Oct. 27, 2000, 114 Stat. 1449.)

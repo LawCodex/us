@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 6(g)(2), Sept. 16, 2011, 125 Stat. 312, amended item 301 generally, substituting “Citation of prior art and written statements” for “Citation of prior art”.
+2011—Pub. L. 112–29, § 6(g)(2), Sept. 16, 2011, 125 Stat. 312, amended item 301 generally, substituting “Citation of prior art and written statements” for “Citation of prior art”.
 
-2002—Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, made technical correction to directory language of Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582. See 1999 Amendment note below.
+2002—Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, made technical correction to directory language of Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, as amended by Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, substituted “Director” for “Commissioner” in item 304.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, as amended by Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, substituted “Director” for “Commissioner” in item 304.
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4602, 4732(a)(9)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, 1501A–582, inserted “EX PARTE” before “REEXAMINATION” in chapter heading and substituted “Director” for “Commissioner” in item 303.
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4602, 4732(a)(9)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, 1501A–582, inserted “EX PARTE” before “REEXAMINATION” in chapter heading and substituted “Director” for “Commissioner” in item 303.
 
-## § 301. Citation of prior art and written statements
+## § 301. Citation of prior art and written statements
 
 **(a) In General.—** Any person at any time may cite to the Office in writing—
 
@@ -43,7 +43,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4602, 4732(a)(9)(B)
 
 **(e) Confidentiality.—** Upon the written request of the person citing prior art or written statements pursuant to subsection (a), that person’s identity shall be excluded from the patent file and kept confidential.
 
-(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 112–29, § 6(g)(1), Sept. 16, 2011, 125 Stat. 311.)
+(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 112–29, § 6(g)(1), Sept. 16, 2011, 125 Stat. 311.)
 
 **Editorial Notes**
 
@@ -55,17 +55,17 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4602, 4732(a)(9)(B)
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 6(g)(3), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendments made by this subsection [amending this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date.”
+Pub. L. 112–29, § 6(g)(3), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendments made by this subsection [amending this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date.”
 
 **Effective Date**
 
 Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 302. Request for reexamination
+## § 302. Request for reexamination
 
 Any person at any time may file a request for reexamination by the Office of any claim of a patent on the basis of any prior art cited under the provisions of section 301. The request must be in writing and must be accompanied by payment of a reexamination fee established by the Director pursuant to the provisions of section 41. The request must set forth the pertinency and manner of applying cited prior art to every claim for which reexamination is requested. Unless the requesting person is the owner of the patent, the Director promptly will send a copy of the request to the owner of record of the patent.
 
-(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(8), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(8), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Editorial Notes**
 
@@ -73,11 +73,11 @@ Any person at any time may file a request for reexamination by the Office of any
 
 2011—Pub. L. 112–29 struck out “of this title” after “301” and after “41”.
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director promptly” for “Commissioner promptly”.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director promptly” for “Commissioner promptly”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(8)], substituted “Director pursuant” for “Commissioner of Patents pursuant”.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(8)], substituted “Director pursuant” for “Commissioner of Patents pursuant”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -87,13 +87,13 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date**
 
 Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 303. Determination of issue by Director
+## § 303. Determination of issue by Director
 
 **(a)** Within three months following the filing of a request for reexamination under the provisions of section 302, the Director will determine whether a substantial new question of patentability affecting any claim of the patent concerned is raised by the request, with or without consideration of other patents or printed publications. On his own initiative, and any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications discovered by him or cited under the provisions of section 301 or 302. The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.
 
@@ -101,59 +101,59 @@ Section effective July 1, 1981, and applicable to patents in force as of July 1,
 
 **(c)** A determination by the Director pursuant to subsection (a) of this section that no substantial new question of patentability has been raised will be final and nonappealable. Upon such a determination, the Director may refund a portion of the reexamination fee required under section 302.
 
-(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(9)(A), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§ 13105(a), 13206(b)(1), Nov. 2, 2002, 116 Stat. 1900, 1905, 1906; Pub. L. 112–29, §§ 6(h)(1)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
+(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(9)(A), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§ 13105(a), 13206(b)(1), Nov. 2, 2002, 116 Stat. 1900, 1905, 1906; Pub. L. 112–29, §§ 6(h)(1)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–29, § 20(j), struck out “of this title” after “section 302”.
+2011—Subsec. (a). Pub. L. 112–29, § 20(j), struck out “of this title” after “section 302”.
 
-Pub. L. 112–29, § 6(h)(1)(A), substituted “section 301 or 302” for “section 301 of this title”.
+Pub. L. 112–29, § 6(h)(1)(A), substituted “section 301 or 302” for “section 301 of this title”.
 
-Subsec. (c). Pub. L. 112–29, § 20(j), struck out “of this title” after “section 302”.
+Subsec. (c). Pub. L. 112–29, § 20(j), struck out “of this title” after “section 302”.
 
-2002—Subsec. (a). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Subsec. (a). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-Pub. L. 107–273, § 13105(a), inserted at end “The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.”
+Pub. L. 107–273, § 13105(a), inserted at end “The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.”
 
-Subsec. (b). Pub. L. 107–273, § 13206(b)(1)(A), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(9)(A)(ii)]. See 1999 Amendment note below.
+Subsec. (b). Pub. L. 107–273, § 13206(b)(1)(A), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(9)(A)(ii)]. See 1999 Amendment note below.
 
-Subsec. (c). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+Subsec. (c). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(9)(A)(i)], substituted “Director” for “Commissioner” in section catchline.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(9)(A)(i)], substituted “Director” for “Commissioner” in section catchline.
 
-Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
+Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(9)(A)(ii)], as amended by Pub. L. 107–273, § 13206(b)(1)(A), substituted “Director’s” for “Commissioner’s”.
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(9)(A)(ii)], as amended by Pub. L. 107–273, § 13206(b)(1)(A), substituted “Director’s” for “Commissioner’s”.
 
-Subsec. (c). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
+Subsec. (c). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 6(h)(1)(B), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendment made by this paragraph [amending this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date.”
+Pub. L. 112–29, § 6(h)(1)(B), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendment made by this paragraph [amending this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date.”
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(*l*) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. C, title III, § 13105(b), Nov. 2, 2002, 116 Stat. 1900, provided that: “The amendments made by this section [amending this section and section 312 of this title] shall apply with respect to any determination of the Director of the United States Patent and Trademark Office that is made under section 303(a) or [former section] 312(a) [see section 314(a)] of title 35, United States Code, on or after the date of enactment of this Act [Nov. 2, 2002].”
+Pub. L. 107–273, div. C, title III, § 13105(b), Nov. 2, 2002, 116 Stat. 1900, provided that: “The amendments made by this section [amending this section and section 312 of this title] shall apply with respect to any determination of the Director of the United States Patent and Trademark Office that is made under section 303(a) or [former section] 312(a) [see section 314(a)] of title 35, United States Code, on or after the date of enactment of this Act [Nov. 2, 2002].”
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date**
 
 Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 304. Reexamination order by Director
+## § 304. Reexamination order by Director
 
 If, in a determination made under the provisions of subsection 303(a), the Director finds that a substantial new question of patentability affecting any claim of a patent is raised, the determination will include an order for reexamination of the patent for resolution of the question. The patent owner will be given a reasonable period, not less than two months from the date a copy of the determination is given or mailed to him, within which he may file a statement on such question, including any amendment to his patent and new claim or claims he may wish to propose, for consideration in the reexamination. If the patent owner files such a statement, he promptly will serve a copy of it on the person who has requested reexamination under the provisions of section 302. Within a period of two months from the date of service, that person may file and have considered in the reexamination a reply to any statement filed by the patent owner. That person promptly will serve on the patent owner a copy of any reply filed.
 
-(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Editorial Notes**
 
@@ -173,27 +173,27 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date**
 
 Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 305. Conduct of reexamination proceedings
+## § 305. Conduct of reexamination proceedings
 
 After the times for filing the statement and reply provided for by section 304 have expired, reexamination will be conducted according to the procedures established for initial examination under the provisions of sections 132 and 133. In any reexamination proceeding under this chapter, the patent owner will be permitted to propose any amendment to his patent and a new claim or claims thereto, in order to distinguish the invention as claimed from the prior art cited under the provisions of section 301, or in response to a decision adverse to the patentability of a claim of a patent. No proposed amended or new claim enlarging the scope of a claim of the patent will be permitted in a reexamination proceeding under this chapter. All reexamination proceedings under this section, including any appeal to the Patent Trial and Appeal Board, will be conducted with special dispatch within the Office.
 
-(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 98–622, title II, § 204(c), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 112–29, §§ 3(j)(1), 20(j), Sept. 16, 2011, 125 Stat. 290, 335.)
+(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 98–622, title II, § 204(c), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 112–29, §§ 3(j)(1), 20(j), Sept. 16, 2011, 125 Stat. 290, 335.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “304”, after “133”, and after “301”.
+2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “304”, after “133”, and after “301”.
 
-Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
-1984—Pub. L. 98–622, § 204(c), substituted “Patent Appeals and Interferences” for “Appeals”.
+1984—Pub. L. 98–622, § 204(c), substituted “Patent Appeals and Interferences” for “Appeals”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -211,25 +211,25 @@ Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see sec
 
 Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 306. Appeal
+## § 306. Appeal
 
 The patent owner involved in a reexamination proceeding under this chapter may appeal under the provisions of section 134, and may seek court review under the provisions of sections 141 to 144, with respect to any decision adverse to the patentability of any original or proposed amended or new claim of the patent.
 
-(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 112–29, §§ 6(h)(2)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
+(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 112–29, §§ 6(h)(2)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “134” and after “144”.
+2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “134” and after “144”.
 
-Pub. L. 112–29, § 6(h)(2)(A), substituted “144” for “145”.
+Pub. L. 112–29, § 6(h)(2)(A), substituted “144” for “145”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 6(h)(2)(B), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendment made by this paragraph [amending this section] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any appeal of a reexamination before the Board of Patent Appeals and Interferences or the Patent Trial and Appeal Board that is pending on, or brought on or after, the date of the enactment of this Act.”
+Pub. L. 112–29, § 6(h)(2)(B), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendment made by this paragraph [amending this section] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any appeal of a reexamination before the Board of Patent Appeals and Interferences or the Patent Trial and Appeal Board that is pending on, or brought on or after, the date of the enactment of this Act.”
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(*l*) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
@@ -237,13 +237,13 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 307. Certificate of patentability, unpatentability, and claim cancellation
+## § 307. Certificate of patentability, unpatentability, and claim cancellation
 
 **(a)** In a reexamination proceeding under this chapter, when the time for appeal has expired or any appeal proceeding has terminated, the Director will issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent any proposed amended or new claim determined to be patentable.
 
 **(b)** Any proposed amended or new claim determined to be patentable and incorporated into a patent following a reexamination proceeding will have the same effect as that specified in section 252 for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by such proposed amended or new claim, or who made substantial preparation for the same, prior to issuance of a certificate under the provisions of subsection (a) of this section.
 
-(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 103–465, title V, § 533(b)(8), Dec. 8, 1994, 108 Stat. 4990; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 103–465, title V, § 533(b)(8), Dec. 8, 1994, 108 Stat. 4990; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Editorial Notes**
 
@@ -265,7 +265,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1994 Amendment**
 

@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 34A—APPRAISAL SUBCOMMITTEE OF FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL
 
-## § 3331. Purpose
+## § 3331. Purpose
 
 The purpose of this chapter is to provide that Federal financial and public policy interests in real estate related transactions will be protected by requiring that real estate appraisals utilized in connection with federally related transactions are performed in writing, in accordance with uniform standards, by individuals whose competency has been demonstrated and whose professional conduct will be subject to effective supervision.
 
-(Pub. L. 101–73, title XI, § 1101, Aug. 9, 1989, 103 Stat. 511.)
+(Pub. L. 101–73, title XI, § 1101, Aug. 9, 1989, 103 Stat. 511.)
 
-## § 3332. Functions of Appraisal Subcommittee
+## § 3332. Functions of Appraisal Subcommittee
 
 **(a) In general** The Appraisal Subcommittee shall—
 
@@ -37,15 +37,15 @@ The purpose of this chapter is to provide that Federal financial and public poli
 
 **(B)** determinations as to which federally related transactions under their jurisdiction require the services of a State certified appraiser and which require the services of a State licensed appraiser;
 
-**(3)** maintain a national registry of State certified and licensed appraisers who are eligible to perform appraisals in federally related transactions; and 1
+**(3)** maintain a national registry of State certified and licensed appraisers who are eligible to perform appraisals in federally related transactions; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(4)** Omitted
 
 **(5)** transmit an annual report to the Congress not later than June 15 of each year that describes the manner in which each function assigned to the Appraisal Subcommittee has been carried out during the preceding year. The report shall also detail the activities of the Appraisal Subcommittee, including the results of all audits of State appraiser regulatory agencies, and provide an accounting of disapproved actions and warnings taken in the previous year, including a description of the conditions causing the disapproval and actions taken to achieve compliance.2
 
-<sup>2</sup>  So in original. Probably should be “compliance; and”.
+<sup>2</sup> So in original. Probably should be “compliance; and”.
 
 **(6)** maintain a national registry of appraisal management companies that either are registered with and subject to supervision of a State appraiser certifying and licensing agency or are operating subsidiaries of a Federally regulated financial institution.
 
@@ -53,7 +53,7 @@ The purpose of this chapter is to provide that Federal financial and public poli
 
 The Appraisal Subcommittee shall monitor and review the practices, procedures, activities, and organizational structure of the Appraisal Foundation.
 
-(Pub. L. 101–73, title XI, § 1103, Aug. 9, 1989, 103 Stat. 512; Pub. L. 111–203, title III, § 367(6), title XIV, § 1473(b), (f)(1), July 21, 2010, 124 Stat. 1557, 2190, 2191.)
+(Pub. L. 101–73, title XI, § 1103, Aug. 9, 1989, 103 Stat. 512; Pub. L. 111–203, title III, § 367(6), title XIV, § 1473(b), (f)(1), July 21, 2010, 124 Stat. 1557, 2190, 2191.)
 
 **Editorial Notes**
 
@@ -63,13 +63,13 @@ Paragraph (4) of subsection (a), which required the Appraisal Subcommittee to su
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 1473(f)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “monitor the requirements established by States for the certification and licensing of individuals who are qualified to perform appraisals in connection with federally related transactions, including a code of professional responsibility;”.
+2010—Subsec. (a)(1). Pub. L. 111–203, § 1473(f)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “monitor the requirements established by States for the certification and licensing of individuals who are qualified to perform appraisals in connection with federally related transactions, including a code of professional responsibility;”.
 
-Subsec. (a)(2). Pub. L. 111–203, § 367(6), struck out “and the Resolution Trust Corporation” after “agencies” in introductory provisions.
+Subsec. (a)(2). Pub. L. 111–203, § 367(6), struck out “and the Resolution Trust Corporation” after “agencies” in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 111–203, § 1473(b), added par. (5).
+Subsec. (a)(5). Pub. L. 111–203, § 1473(b), added par. (5).
 
-Subsec. (a)(6). Pub. L. 111–203, § 1473(f)(1)(B), added par. (6).
+Subsec. (a)(6). Pub. L. 111–203, § 1473(f)(1)(B), added par. (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -79,7 +79,7 @@ Amendment by section 367(6) of Pub. L. 111–203 effective on the transfer date,
 
 Amendment by section 1473(b), (f)(1), of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3333. Chairperson of Appraisal Subcommittee; term of Chairperson; meetings
+## § 3333. Chairperson of Appraisal Subcommittee; term of Chairperson; meetings
 
 **(a) Chairperson**
 
@@ -89,7 +89,7 @@ The Council shall select the Chairperson of the subcommittee. The term of the Ch
 
 The Appraisal Subcommittee shall meet in public session after notice in the Federal Register, but may close certain portions of these meetings related to personnel and review of preliminary State audit reports, at the call of the Chairperson or a majority of its members when there is business to be conducted. A majority of members of the Appraisal Subcommittee shall constitute a quorum but 2 or more members may hold hearings. Decisions of the Appraisal Subcommittee shall be made by the vote of a majority of its members. The subject matter discussed in any closed or executive session shall be described in the Federal Register notice of the meeting.
 
-(Pub. L. 101–73, title XI, § 1104, Aug. 9, 1989, 103 Stat. 512; Pub. L. 111–203, title XIV, § 1473(c), July 21, 2010, 124 Stat. 2191.)
+(Pub. L. 101–73, title XI, § 1104, Aug. 9, 1989, 103 Stat. 512; Pub. L. 111–203, title XIV, § 1473(c), July 21, 2010, 124 Stat. 2191.)
 
 **Editorial Notes**
 
@@ -103,25 +103,25 @@ The Appraisal Subcommittee shall meet in public session after notice in the Fede
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3334. Officers and staff
+## § 3334. Officers and staff
 
 The Chairperson of the Appraisal Subcommittee shall appoint such officers and staff as may be necessary to carry out the functions of this chapter consistent with the appointment and compensation practices of the Council.
 
-(Pub. L. 101–73, title XI, § 1105, Aug. 9, 1989, 103 Stat. 512.)
+(Pub. L. 101–73, title XI, § 1105, Aug. 9, 1989, 103 Stat. 512.)
 
-## § 3335. Powers of Appraisal Subcommittee
+## § 3335. Powers of Appraisal Subcommittee
 
-The Appraisal Subcommittee may, for the purpose of carrying out this chapter, establish advisory committees, hold hearings prescribe 1
+The Appraisal Subcommittee may, for the purpose of carrying out this chapter, establish advisory committees, hold hearings prescribe 1
 
-<sup>1</sup>  So in original. Probably should be preceded by a comma.
+<sup>1</sup> So in original. Probably should be preceded by a comma.
 
 regulations in accordance with chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act) after notice and opportunity for comment,,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 sit and act at times and places, take testimony, receive evidence, provide information, and perform research, as the Appraisal Subcommittee considers appropriate. Any regulations prescribed by the Appraisal Subcommittee shall (unless otherwise provided in this chapter) be limited to the following functions: temporary practice, national registry, information sharing, and enforcement. For purposes of prescribing regulations, the Appraisal Subcommittee shall establish an advisory committee of industry participants, including appraisers, lenders, consumer advocates, real estate agents, and government agencies, and hold meetings as necessary to support the development of regulations.
 
-(Pub. L. 101–73, title XI, § 1106, Aug. 9, 1989, 103 Stat. 512; Pub. L. 111–203, title XIV, § 1473(d), July 21, 2010, 124 Stat. 2191.)
+(Pub. L. 101–73, title XI, § 1106, Aug. 9, 1989, 103 Stat. 512; Pub. L. 111–203, title XIV, § 1473(d), July 21, 2010, 124 Stat. 2191.)
 
 **Editorial Notes**
 
@@ -139,43 +139,43 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3336. Procedures for establishing appraisal standards and requiring use of certified and licensed appraisers
+## § 3336. Procedures for establishing appraisal standards and requiring use of certified and licensed appraisers
 
 Appraisal standards and requirements for using State certified and licensed appraisers in federally related transactions pursuant to this chapter shall be prescribed in accordance with procedures set forth in section 553 of title 5, including the publication of notice and receipt of written comments or the holding of public hearings with respect to any standards or requirements proposed to be established.
 
-(Pub. L. 101–73, title XI, § 1107, Aug. 9, 1989, 103 Stat. 513.)
+(Pub. L. 101–73, title XI, § 1107, Aug. 9, 1989, 103 Stat. 513.)
 
-## § 3337. Startup funding
+## § 3337. Startup funding
 
 **(a) In general**
 
-For purposes of this chapter, the Secretary of the Treasury shall pay to the Appraisal Subcommittee a one-time payment of $5,000,000 on August 9, 1989. Thereafter, expenses of the subcommittee shall be funded through the collection of registry fees from certain certified and licensed appraisers pursuant to section 3338 of this title or, if required, pursuant to section 3351(b) 1
+For purposes of this chapter, the Secretary of the Treasury shall pay to the Appraisal Subcommittee a one-time payment of $5,000,000 on August 9, 1989. Thereafter, expenses of the subcommittee shall be funded through the collection of registry fees from certain certified and licensed appraisers pursuant to section 3338 of this title or, if required, pursuant to section 3351(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
 **(b) Additional funds**
 
-Except as provided in section 3351(b) <sup>1</sup> of this title, funds in addition to the funds provided under subsection (a) may be made available to the Appraisal Subcommittee only if authorized and appropriated by law.
+Except as provided in section 3351(b) <sup>1</sup> of this title, funds in addition to the funds provided under subsection (a) may be made available to the Appraisal Subcommittee only if authorized and appropriated by law.
 
 **(c) Repayment of Treasury loan**
 
 Not later than September 30, 1998, the Appraisal Subcommittee shall repay to the Secretary of the Treasury the unpaid portion of the $5,000,000 paid to the Appraisal Subcommittee pursuant to this section.
 
-(Pub. L. 101–73, title XI, § 1108, Aug. 9, 1989, 103 Stat. 513; Pub. L. 104–208, div. A, title II, § 2212, Sept. 30, 1996, 110 Stat. 3009–411.)
+(Pub. L. 101–73, title XI, § 1108, Aug. 9, 1989, 103 Stat. 513; Pub. L. 104–208, div. A, title II, § 2212, Sept. 30, 1996, 110 Stat. 3009–411.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3351(b) of this title, referred to in text, was redesignated section 3351(c) of this title by Pub. L. 103–325, title III, § 315(1), Sept. 23, 1994, 108 Stat. 2222.
+Section 3351(b) of this title, referred to in text, was redesignated section 3351(c) of this title by Pub. L. 103–325, title III, § 315(1), Sept. 23, 1994, 108 Stat. 2222.
 
 **Amendments**
 
 1996—Subsec. (c). Pub. L. 104–208 added subsec. (c).
 
-## § 3338. Roster of State certified or licensed appraisers; authority to collect and transmit fees
+## § 3338. Roster of State certified or licensed appraisers; authority to collect and transmit fees
 
 **(a) In general** Each State with an appraiser certifying and licensing agency whose certifications and licenses comply with this chapter, shall—
 
@@ -215,7 +215,7 @@ Subject to the approval of the Council, the Appraisal Subcommittee may adjust th
 
 **(6)** to report to all State appraiser certifying and licensing agencies when a license or certification is surrendered, revoked, or suspended.
 
-(Pub. L. 101–73, title XI, § 1109, Aug. 9, 1989, 103 Stat. 513; Pub. L. 111–203, title XIV, § 1473(g), (h)(1), (i), July 21, 2010, 124 Stat. 2194, 2195.)
+(Pub. L. 101–73, title XI, § 1109, Aug. 9, 1989, 103 Stat. 513; Pub. L. 111–203, title XIV, § 1473(g), (h)(1), (i), July 21, 2010, 124 Stat. 2194, 2195.)
 
 **Editorial Notes**
 
@@ -225,19 +225,19 @@ This chapter, referred to in subsecs. (a) and (b)(5), was in the original “thi
 
 **Codification**
 
-Pub. L. 111–203, § 1473(i), which amended this section, also enacted provisions set out as a note below.
+Pub. L. 111–203, § 1473(i), which amended this section, also enacted provisions set out as a note below.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1473(h)(1)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees, up to a maximum of $50 per annum, as necessary to carry out its functions under this chapter.”
+2010—Subsec. (a). Pub. L. 111–203, § 1473(h)(1)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees, up to a maximum of $50 per annum, as necessary to carry out its functions under this chapter.”
 
-Subsec. (a)(2), (3). Pub. L. 111–203, § 1473(g)(1), (3), added pars. (2) and (3). Former par. (2) redesignated (4).
+Subsec. (a)(2), (3). Pub. L. 111–203, § 1473(g)(1), (3), added pars. (2) and (3). Former par. (2) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 111–203, § 1473(h)(1)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “collect from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $25, such fees to be transmitted by the State agencies to the Council on an annual basis.”
+Subsec. (a)(4). Pub. L. 111–203, § 1473(h)(1)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “collect from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $25, such fees to be transmitted by the State agencies to the Council on an annual basis.”
 
-Pub. L. 111–203, § 1473(g)(2), redesignated par. (2) as (4).
+Pub. L. 111–203, § 1473(g)(2), redesignated par. (2) as (4).
 
-Subsec. (b)(5), (6). Pub. L. 111–203, § 1473(i), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 111–203, § 1473(i), added pars. (5) and (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -247,7 +247,7 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 
 **Grants and Reports**
 
-Pub. L. 111–203, title XIV, § 1473(i), July 21, 2010, 124 Stat. 2195, provided that:
+Pub. L. 111–203, title XIV, § 1473(i), July 21, 2010, 124 Stat. 2195, provided that:
 
 [Introductory provisions and pars. (1) to (3) amended this section].
 
@@ -255,9 +255,9 @@ Pub. L. 111–203, title XIV, § 1473(i), July 21, 2010, 124 Stat. 2195, provi
 
 **Incremental Revenues**
 
-Pub. L. 111–203, title XIV, § 1473(h)(2), July 21, 2010, 124 Stat. 2195, provided that: “Incremental revenues collected pursuant to the increases required by this subsection [amending this section] shall be placed in a separate account at the United States Treasury, entitled the ‘Appraisal Subcommittee Account’.”
+Pub. L. 111–203, title XIV, § 1473(h)(2), July 21, 2010, 124 Stat. 2195, provided that: “Incremental revenues collected pursuant to the increases required by this subsection [amending this section] shall be placed in a separate account at the United States Treasury, entitled the ‘Appraisal Subcommittee Account’.”
 
-## § 3339. Functions of Federal financial institutions regulatory agencies relating to appraisal standards
+## § 3339. Functions of Federal financial institutions regulatory agencies relating to appraisal standards
 
 Each Federal financial institutions regulatory agency and the Resolution Trust Corporation shall prescribe appropriate standards for the performance of real estate appraisals in connection with federally related transactions under the jurisdiction of each such agency or instrumentality. These rules shall require, at a minimum—
 
@@ -269,7 +269,7 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 Each such agency or instrumentality may require compliance with additional standards if it makes a determination in writing that such additional standards are required in order to properly carry out its statutory responsibilities.
 
-(Pub. L. 101–73, title XI, § 1110, Aug. 9, 1989, 103 Stat. 514; Pub. L. 111–203, title XIV, § 1473(e)(1), July 21, 2010, 124 Stat. 2191.)
+(Pub. L. 101–73, title XI, § 1110, Aug. 9, 1989, 103 Stat. 514; Pub. L. 111–203, title XIV, § 1473(e)(1), July 21, 2010, 124 Stat. 2191.)
 
 **Editorial Notes**
 
@@ -283,13 +283,13 @@ Each such agency or instrumentality may require compliance with additional stand
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3340. Time for proposal and adoption of standards
+## § 3340. Time for proposal and adoption of standards
 
 Appraisal standards established under this chapter shall be proposed not later than 6 months and shall be adopted in final form and become effective not later than 12 months after August 9, 1989.
 
-(Pub. L. 101–73, title XI, § 1111, Aug. 9, 1989, 103 Stat. 514.)
+(Pub. L. 101–73, title XI, § 1111, Aug. 9, 1989, 103 Stat. 514.)
 
-## § 3341. Functions of Federal financial institutions regulatory agencies relating to appraiser qualifications
+## § 3341. Functions of Federal financial institutions regulatory agencies relating to appraiser qualifications
 
 **(a) In general**
 
@@ -315,23 +315,23 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General’s findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
 
-(Pub. L. 101–73, title XI, § 1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, § 954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, § 2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, § 106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(g)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–203, title XIV, § 1473(a), July 21, 2010, 124 Stat. 2190.)
+(Pub. L. 101–73, title XI, § 1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, § 954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, § 2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, § 106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(g)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–203, title XIV, § 1473(a), July 21, 2010, 124 Stat. 2190.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–203 inserted “, and receives concurrence from the Bureau of Consumer Financial Protection that such threshold level provides reasonable protection for consumers who purchase 1–4 unit single-family residences” before the period.
+2010—Subsec. (b). Pub. L. 111–203 inserted “, and receives concurrence from the Bureau of Consumer Financial Protection that such threshold level provides reasonable protection for consumers who purchase 1–4 unit single-family residences” before the period.
 
 2006—Subsec. (c)(1)(B). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
 
-Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(15)(B). See 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(15)(B). See 1996 Amendment note below.
 
-1996—Subsec. (c)(1). Pub. L. 104–316, § 106(g)(1)(A), (2), in heading substituted “GAO studies” for “Study required”, and in text substituted “The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies” for “At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study”.
+1996—Subsec. (c)(1). Pub. L. 104–316, § 106(g)(1)(A), (2), in heading substituted “GAO studies” for “Study required”, and in text substituted “The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies” for “At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study”.
 
-Subsec. (c)(1)(B). Pub. L. 104–208, § 2704(d)(15)(B), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (c)(1)(B). Pub. L. 104–208, § 2704(d)(15)(B), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (c)(2). Pub. L. 104–316, § 106(g)(1)(B), substituted “referred to in” for “required under”.
+Subsec. (c)(2). Pub. L. 104–316, § 106(g)(1)(B), substituted “referred to in” for “required under”.
 
 1992—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
@@ -355,7 +355,7 @@ Amendment by Pub. L. 109–171 effective no later than the first day of the firs
 
 Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
-## § 3342. Transactions requiring services of State certified appraiser
+## § 3342. Transactions requiring services of State certified appraiser
 
 In determining whether an appraisal in connection with a federally related transaction shall be performed by a State certified appraiser, an agency or instrumentality under this chapter shall consider whether transactions, either individually or collectively, are of sufficient financial or public policy importance to the United States that an individual who performs an appraisal in connection with such transactions should be a State certified appraiser, except that—
 
@@ -363,13 +363,13 @@ In determining whether an appraisal in connection with a federally related trans
 
 **(2)** 1-to-4 unit, single family residential appraisals may be performed by State licensed appraisers unless the size and complexity requires a State certified appraiser, where a complex 1-to-4 unit single family residential appraisal means an appraisal for which the property to be appraised, the form of ownership, the property characteristics, or the market conditions are atypical.
 
-(Pub. L. 101–73, title XI, § 1113, Aug. 9, 1989, 103 Stat. 514; Pub. L. 111–203, title XIV, § 1473(e)(2), July 21, 2010, 124 Stat. 2191.)
+(Pub. L. 101–73, title XI, § 1113, Aug. 9, 1989, 103 Stat. 514; Pub. L. 111–203, title XIV, § 1473(e)(2), July 21, 2010, 124 Stat. 2191.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Par. (2). Pub. L. 111–203 inserted “, where a complex 1-to-4 unit single family residential appraisal means an appraisal for which the property to be appraised, the form of ownership, the property characteristics, or the market conditions are atypical” before the period.
+2010—Par. (2). Pub. L. 111–203 inserted “, where a complex 1-to-4 unit single family residential appraisal means an appraisal for which the property to be appraised, the form of ownership, the property characteristics, or the market conditions are atypical” before the period.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -377,19 +377,19 @@ In determining whether an appraisal in connection with a federally related trans
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3343. Transactions requiring services of State licensed appraiser
+## § 3343. Transactions requiring services of State licensed appraiser
 
 All federally related transactions not requiring the services of a State certified appraiser shall be performed by either a State certified or licensed appraiser.
 
-(Pub. L. 101–73, title XI, § 1114, Aug. 9, 1989, 103 Stat. 514.)
+(Pub. L. 101–73, title XI, § 1114, Aug. 9, 1989, 103 Stat. 514.)
 
-## § 3344. Time for proposal and adoption of rules
+## § 3344. Time for proposal and adoption of rules
 
 As appropriate, rules issued under sections 3342 and 3343 of this title shall be proposed not later than 6 months and shall be effective upon adoption in final form not later than 12 months after August 9, 1989.
 
-(Pub. L. 101–73, title XI, § 1115, Aug. 9, 1989, 103 Stat. 515.)
+(Pub. L. 101–73, title XI, § 1115, Aug. 9, 1989, 103 Stat. 515.)
 
-## § 3345. Certification and licensing requirements
+## § 3345. Certification and licensing requirements
 
 **(a) In general**
 
@@ -411,21 +411,21 @@ Nothing in this chapter shall be construed to prevent any Federal agency or inst
 
 Any requirements established for individuals in the position of “Trainee Appraiser” and “Supervisory Appraiser” shall meet or exceed the minimum qualification requirements of the Appraiser Qualifications Board of The Appraisal Foundation. The Appraisal Subcommittee shall have the authority to enforce these requirements.
 
-(Pub. L. 101–73, title XI, § 1116, Aug. 9, 1989, 103 Stat. 515; Pub. L. 102–233, title VII, § 701(a), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, § 472(a), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, § 1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, § 1473(j), July 21, 2010, 124 Stat. 2195.)
+(Pub. L. 101–73, title XI, § 1116, Aug. 9, 1989, 103 Stat. 515; Pub. L. 102–233, title VII, § 701(a), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, § 472(a), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, § 1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, § 1473(j), July 21, 2010, 124 Stat. 2195.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (c). Pub. L. 111–203, § 1473(j)(1), inserted “whose criteria for the licensing of a real estate appraiser currently meet or exceed the minimum criteria issued by the Appraisal Qualifications Board of The Appraisal Foundation for the licensing of real estate appraisers” before the period at end.
+2010—Subsec. (c). Pub. L. 111–203, § 1473(j)(1), inserted “whose criteria for the licensing of a real estate appraiser currently meet or exceed the minimum criteria issued by the Appraisal Qualifications Board of The Appraisal Foundation for the licensing of real estate appraisers” before the period at end.
 
-Subsec. (e). Pub. L. 111–203, § 1473(j)(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Appraisal Subcommittee shall not set qualifications or experience requirements for the States in licensing real estate appraisers, including a de minimus standard. Recommendations of the Subcommittee shall be nonbinding on the States.”
+Subsec. (e). Pub. L. 111–203, § 1473(j)(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Appraisal Subcommittee shall not set qualifications or experience requirements for the States in licensing real estate appraisers, including a de minimus standard. Recommendations of the Subcommittee shall be nonbinding on the States.”
 
-1992—Subsec. (e). Pub. L. 102–550, § 1617(a), repealed Pub. L. 102–233, § 701(a). See 1991 Amendment note below.
+1992—Subsec. (e). Pub. L. 102–550, § 1617(a), repealed Pub. L. 102–233, § 701(a). See 1991 Amendment note below.
 
 1991—Subsec. (e). Pub. L. 102–242 added subsec. (e) prohibiting Appraisal Subcommittee from setting qualifications or experience requirements, including a de minimis standard.
 
-Pub. L. 102–233, § 701(a), which added subsec. (e) prohibiting Appraisal Subcommittee from setting qualifications or experience requirements, was repealed by Pub. L. 102–550, § 1617(a). See Construction of 1991 Amendment note below.
+Pub. L. 102–233, § 701(a), which added subsec. (e) prohibiting Appraisal Subcommittee from setting qualifications or experience requirements, was repealed by Pub. L. 102–550, § 1617(a). See Construction of 1991 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -435,13 +435,13 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 
 **Construction of 1991 Amendment**
 
-Pub. L. 102–550, title XVI, § 1617(b), Oct. 28, 1992, 106 Stat. 4096, provided that: “No amendments made by title VII of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 [amending this section and section 3348 of this title] shall be deemed to have taken effect before the date of the enactment of this Act [Oct. 28, 1992] and the provisions of law amended by title VII shall continue in effect as if no such amendments had been made by such title.”
+Pub. L. 102–550, title XVI, § 1617(b), Oct. 28, 1992, 106 Stat. 4096, provided that: “No amendments made by title VII of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 [amending this section and section 3348 of this title] shall be deemed to have taken effect before the date of the enactment of this Act [Oct. 28, 1992] and the provisions of law amended by title VII shall continue in effect as if no such amendments had been made by such title.”
 
-## § 3346. Establishment of State appraiser certifying and licensing agencies
+## § 3346. Establishment of State appraiser certifying and licensing agencies
 
 To assure the availability of State certified and licensed appraisers for the performance in a State of appraisals in federally related transactions and to assure effective supervision of the activities of certified and licensed appraisers, a State may establish a State appraiser certifying and licensing agency. The duties of such agency may additionally include the registration and supervision of appraisal management companies and the addition of information about the appraisal management company to the national registry.
 
-(Pub. L. 101–73, title XI, § 1117, Aug. 9, 1989, 103 Stat. 515; Pub. L. 111–203, title XIV, § 1473(f)(3), July 21, 2010, 124 Stat. 2193.)
+(Pub. L. 101–73, title XI, § 1117, Aug. 9, 1989, 103 Stat. 515; Pub. L. 111–203, title XIV, § 1473(f)(3), July 21, 2010, 124 Stat. 2193.)
 
 **Editorial Notes**
 
@@ -455,7 +455,7 @@ To assure the availability of State certified and licensed appraisers for the pe
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3347. Monitoring of State appraiser certifying and licensing agencies
+## § 3347. Monitoring of State appraiser certifying and licensing agencies
 
 **(a) In general** The Appraisal Subcommittee shall monitor each State appraiser certifying and licensing agency for the purposes of determining whether such agency—
 
@@ -471,9 +471,9 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 
 The Appraisal Subcommittee shall have the authority to remove a State licensed or certified appraiser or a registered appraisal management company from a national registry on an interim basis, not to exceed 90 days, pending State agency action on licensing, certification, registration, and disciplinary proceedings. The Appraisal Subcommittee and all agencies, instrumentalities, and Federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, funding, staffing, or procedures are found to be inconsistent with this chapter. The Appraisal Subcommittee shall have the authority to impose sanctions, as described in this section, against a State agency that fails to have an effective appraiser regulatory program. In determining whether such a program is effective, the Appraisal Subcommittee shall include an analysis of the licensing and certification of appraisers, the registration of appraisal management companies, the issuance of temporary licenses and certifications for appraisers, the receiving and tracking of submitted complaints against appraisers and appraisal management companies, the investigation of complaints, and enforcement actions against appraisers and appraisal management companies. The Appraisal Subcommittee shall have the authority to impose interim actions and suspensions against a State agency as an alternative to, or in advance of, the derecognition of a State agency.
 
-**(b) Disapproval by Appraisal Subcommittee** The Federal financial institutions, 1
+**(b) Disapproval by Appraisal Subcommittee** The Federal financial institutions, 1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 regulatory agencies, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Resolution Trust Corporation shall accept certifications and licenses awarded by a State appraiser certifying the licensing agency unless the Appraisal Subcommittee issues a written finding that—
 
@@ -497,7 +497,7 @@ The Appraisal Subcommittee shall adopt written procedures for taking actions des
 
 A decision of the subcommittee under this section shall be subject to judicial review.
 
-(Pub. L. 101–73, title XI, § 1118, Aug. 9, 1989, 103 Stat. 515; Pub. L. 111–203, title XIV, § 1473(k), July 21, 2010, 124 Stat. 2196.)
+(Pub. L. 101–73, title XI, § 1118, Aug. 9, 1989, 103 Stat. 515; Pub. L. 111–203, title XIV, § 1473(k), July 21, 2010, 124 Stat. 2196.)
 
 **Editorial Notes**
 
@@ -507,9 +507,9 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1473(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency’s policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.”
+2010—Subsec. (a). Pub. L. 111–203, § 1473(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency’s policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.”
 
-Subsec. (b)(2). Pub. L. 111–203, § 1473(k)(2), inserted “or sufficient funding” after “authority”.
+Subsec. (b)(2). Pub. L. 111–203, § 1473(k)(2), inserted “or sufficient funding” after “authority”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -517,7 +517,7 @@ Subsec. (b)(2). Pub. L. 111–203, § 1473(k)(2), inserted “or sufficient fu
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3348. Recognition of State certified and licensed appraisers for purposes of this chapter
+## § 3348. Recognition of State certified and licensed appraisers for purposes of this chapter
 
 **(a) Effective date for use of certified or licensed appraisers only**
 
@@ -537,7 +537,7 @@ Subject to the approval of the Council, the Appraisal Subcommittee may waive any
 
 The Appraisal Subcommittee, any other Federal agency or instrumentality, or any federally recognized entity shall report any action of a State certified or licensed appraiser that is contrary to the purposes of this chapter, to the appropriate State agency for a disposition of the subject of the referral. The State agency shall provide the Appraisal Subcommittee or the other Federal agency or instrumentality with a report on its disposition of the matter referred. Subsequent to such disposition, the subcommittee or the agency or instrumentality may take such further action, pursuant to written procedures, it deems necessary to carry out the purposes of this chapter.
 
-(Pub. L. 101–73, title XI, § 1119, Aug. 9, 1989, 103 Stat. 516; Pub. L. 102–233, title VII, § 701(b), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, § 472(b), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, § 1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, § 1473(t)(1), July 21, 2010, 124 Stat. 2199.)
+(Pub. L. 101–73, title XI, § 1119, Aug. 9, 1989, 103 Stat. 516; Pub. L. 102–233, title VII, § 701(b), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, § 472(b), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, § 1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, § 1473(t)(1), July 21, 2010, 124 Stat. 2199.)
 
 **Editorial Notes**
 
@@ -545,11 +545,11 @@ The Appraisal Subcommittee, any other Federal agency or instrumentality, or any 
 
 2010—Subsec. (a)(2). Pub. L. 111–203 substituted “Council,” for “council,”.
 
-1992—Subsecs. (a)(1), (b). Pub. L. 102–550, § 1617(a), repealed Pub. L. 102–233, § 701(b). See 1991 Amendment note below.
+1992—Subsecs. (a)(1), (b). Pub. L. 102–550, § 1617(a), repealed Pub. L. 102–233, § 701(b). See 1991 Amendment note below.
 
-1991—Subsec. (a)(1). Pub. L. 102–242, § 472(b)(1), substituted “December 31, 1992” for “July 1, 1991”. Pub. L. 102–233, § 701(b)(1), which made an identical amendment, was repealed by Pub. L. 102–550, § 1617(a). See Construction of 1991 Amendment note below.
+1991—Subsec. (a)(1). Pub. L. 102–242, § 472(b)(1), substituted “December 31, 1992” for “July 1, 1991”. Pub. L. 102–233, § 701(b)(1), which made an identical amendment, was repealed by Pub. L. 102–550, § 1617(a). See Construction of 1991 Amendment note below.
 
-Subsec. (b). Pub. L. 102–242, § 472(b)(2), substituted “, or in any geographical political subdivision of a State, leading to significant delays” for “leading to inordinate delays” in first sentence and “significant” for “inordinate” in second sentence. Pub. L. 102–233, § 701(b)(2), which made an identical amendment, was repealed by Pub. L. 102–550, § 1617(a). See Construction of 1991 Amendment note below.
+Subsec. (b). Pub. L. 102–242, § 472(b)(2), substituted “, or in any geographical political subdivision of a State, leading to significant delays” for “leading to inordinate delays” in first sentence and “significant” for “inordinate” in second sentence. Pub. L. 102–233, § 701(b)(2), which made an identical amendment, was repealed by Pub. L. 102–550, § 1617(a). See Construction of 1991 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -561,7 +561,7 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 
 No amendment to this section by section 701 of Pub. L. 102–233 to be deemed to have taken effect before Oct. 28, 1992, and provisions of law amended by such section 701 to continue in effect as if no such amendment had been made, see section 1617(b) of Pub. L. 102–550, set out as a note under section 3345 of this title.
 
-## § 3349. Violations in obtaining and performing appraisals in federally related transactions
+## § 3349. Violations in obtaining and performing appraisals in federally related transactions
 
 **(a) Violations** Except as authorized by the Appraisal Subcommittee in exercising its waiver authority pursuant to section 3348(b) of this title, it shall be a violation of this section—
 
@@ -577,9 +577,9 @@ A financial institution that violates subsection (a)(1) shall be subject to civi
 
 A proceeding with respect to a violation of this section shall be an administrative proceeding which may be conducted by a Federal financial institutions regulatory agency in accordance with the procedures set forth in subchapter II of chapter 5 of title 5.
 
-(Pub. L. 101–73, title XI, § 1120, Aug. 9, 1989, 103 Stat. 517.)
+(Pub. L. 101–73, title XI, § 1120, Aug. 9, 1989, 103 Stat. 517.)
 
-## § 3350. Definitions
+## § 3350. Definitions
 
 For purposes of this chapter:
 
@@ -639,17 +639,17 @@ The term “written appraisal” means a written statement used in connection wi
 
 **(D)** to review and verify the work of appraisers.
 
-(Pub. L. 101–73, title XI, § 1121, Aug. 9, 1989, 103 Stat. 517; Pub. L. 111–203, title XIV, § 1473(f)(4), (t)(2), (3), July 21, 2010, 124 Stat. 2193, 2199.)
+(Pub. L. 101–73, title XI, § 1121, Aug. 9, 1989, 103 Stat. 517; Pub. L. 111–203, title XIV, § 1473(f)(4), (t)(2), (3), July 21, 2010, 124 Stat. 2193, 2199.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Par. (6). Pub. L. 111–203, § 1473(t)(2), substituted “Corporation,” for “Corporations,”.
+2010—Par. (6). Pub. L. 111–203, § 1473(t)(2), substituted “Corporation,” for “Corporations,”.
 
-Par. (8). Pub. L. 111–203, § 1473(t)(3), substituted “Council” for “council”.
+Par. (8). Pub. L. 111–203, § 1473(t)(3), substituted “Council” for “council”.
 
-Par. (11). Pub. L. 111–203, § 1473(f)(4), added par. (11).
+Par. (11). Pub. L. 111–203, § 1473(f)(4), added par. (11).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -657,7 +657,7 @@ Par. (11). Pub. L. 111–203, § 1473(f)(4), added par. (11).
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3351. Miscellaneous provisions
+## § 3351. Miscellaneous provisions
 
 **(a) Temporary practice**
 
@@ -719,29 +719,29 @@ The Appraisal Subcommittee shall encourage the States to accept courses approved
 
 If, 6 months after July 21, 2010, the Appraisal Subcommittee determines that no national hotline exists to receive complaints of non-compliance with appraisal independence standards and Uniform Standards of Professional Appraisal Practice, including complaints from appraisers, individuals, or other entities concerning the improper influencing or attempted improper influencing of appraisers or the appraisal process, the Appraisal Subcommittee shall establish and operate such a national hotline, which shall include a toll-free telephone number and an email address. If the Appraisal Subcommittee operates such a national hotline, the Appraisal Subcommittee shall refer complaints for further action to appropriate governmental bodies, including a State appraiser certifying and licensing agency, a financial institution regulator, or other appropriate legal authorities. For complaints referred to State appraiser certifying and licensing agencies or to Federal regulators, the Appraisal Subcommittee shall have the authority to follow up such complaint referrals in order to determine the status of the resolution of the complaint.
 
-(Pub. L. 101–73, title XI, § 1122, Aug. 9, 1989, 103 Stat. 518; Pub. L. 103–325, title III, § 315, Sept. 23, 1994, 108 Stat. 2222; Pub. L. 111–203, title XIV, § 1473(*l*)–(p), (t)(4), July 21, 2010, 124 Stat. 2196, 2197, 2199.)
+(Pub. L. 101–73, title XI, § 1122, Aug. 9, 1989, 103 Stat. 518; Pub. L. 103–325, title III, § 315, Sept. 23, 1994, 108 Stat. 2222; Pub. L. 111–203, title XIV, § 1473(*l*)–(p), (t)(4), July 21, 2010, 124 Stat. 2196, 2197, 2199.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1)(A) to (C). Pub. L. 111–203, § 1473(t)(4)(A), realigned margins.
+2010—Subsec. (a)(1)(A) to (C). Pub. L. 111–203, § 1473(t)(4)(A), realigned margins.
 
-Subsec. (b). Pub. L. 111–203, § 1473(*l*), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall encourage the States to develop reciprocity agreements that readily authorize appraisers who are licensed or certified in one State (and who are in good standing with their State appraiser certifying or licensing agency) to perform appraisals in other States.”
+Subsec. (b). Pub. L. 111–203, § 1473(*l*), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall encourage the States to develop reciprocity agreements that readily authorize appraisers who are licensed or certified in one State (and who are in good standing with their State appraiser certifying or licensing agency) to perform appraisals in other States.”
 
-Subsec. (c). Pub. L. 111–203, § 1473(t)(4)(B), substituted “Financial Institutions Examination Council” for “Federal Financial Institutions Examination Council” and “the Council’s functions” for “the council’s functions”.
+Subsec. (c). Pub. L. 111–203, § 1473(t)(4)(B), substituted “Financial Institutions Examination Council” for “Federal Financial Institutions Examination Council” and “the Council’s functions” for “the council’s functions”.
 
-Subsec. (d). Pub. L. 111–203, § 1473(m), substituted “may include education achieved, experience, sample appraisals, and references from prior clients. Membership in a nationally recognized professional appraisal organization may be a criteria considered, though lack of membership therein shall not be the sole bar against consideration for an assignment under these criteria.” for “shall not exclude a certified or licensed appraiser for consideration for an assignment solely by virtue of membership or lack of membership in any particular appraisal organization.”
+Subsec. (d). Pub. L. 111–203, § 1473(m), substituted “may include education achieved, experience, sample appraisals, and references from prior clients. Membership in a nationally recognized professional appraisal organization may be a criteria considered, though lack of membership therein shall not be the sole bar against consideration for an assignment under these criteria.” for “shall not exclude a certified or licensed appraiser for consideration for an assignment solely by virtue of membership or lack of membership in any particular appraisal organization.”
 
-Subsec. (g). Pub. L. 111–203, § 1473(n), added subsec. (g).
+Subsec. (g). Pub. L. 111–203, § 1473(n), added subsec. (g).
 
-Subsec. (h). Pub. L. 111–203, § 1473(*o*), added subsec. (h).
+Subsec. (h). Pub. L. 111–203, § 1473(*o*), added subsec. (h).
 
-Subsec. (i). Pub. L. 111–203, § 1473(p), added subsec. (i).
+Subsec. (i). Pub. L. 111–203, § 1473(p), added subsec. (i).
 
-1994—Subsec. (a). Pub. L. 103–325, § 315(3), redesignated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (1), and added par. (2).
+1994—Subsec. (a). Pub. L. 103–325, § 315(3), redesignated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (1), and added par. (2).
 
-Subsecs. (b) to (f). Pub. L. 103–325, § 315(1), (2), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+Subsecs. (b) to (f). Pub. L. 103–325, § 315(1), (2), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -749,7 +749,7 @@ Subsecs. (b) to (f). Pub. L. 103–325, § 315(1), (2), added subsec. (b) and 
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3352. Emergency exceptions for disaster areas
+## § 3352. Emergency exceptions for disaster areas
 
 **(a) In general** Each Federal financial institutions regulatory agency may, by regulation or order, make exceptions to this chapter, and to standards prescribed pursuant to this chapter, for transactions involving institutions for which the agency is the primary Federal regulator with respect to real property located within a disaster area if the agency—
 
@@ -779,9 +779,9 @@ Any exception made under this section shall expire not later than 3 years after 
 
 For purposes of this section, the term “disaster area” means an area in which the President, pursuant to section 5170 of title 42, has determined that a major disaster exists.
 
-(Pub. L. 101–73, title XI, § 1123, as added Pub. L. 102–485, § 2, Oct. 23, 1992, 106 Stat. 2771.)
+(Pub. L. 101–73, title XI, § 1123, as added Pub. L. 102–485, § 2, Oct. 23, 1992, 106 Stat. 2771.)
 
-## § 3353. Appraisal management company minimum requirements
+## § 3353. Appraisal management company minimum requirements
 
 **(a) In general** The Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau of Consumer Financial Protection shall jointly, by rule, establish minimum requirements to be applied by a State in the registration of appraisal management companies. Such requirements shall include a requirement that such companies—
 
@@ -819,7 +819,7 @@ No appraisal management company may perform services related to a federally rela
 
 Subject to the approval of the Council, the Appraisal Subcommittee may extend by an additional 12 months the requirements for the registration and supervision of appraisal management companies if it makes a written finding that a State has made substantial progress in establishing a State appraisal management company registration and supervision system that appears to conform with the provisions of this chapter.
 
-(Pub. L. 101–73, title XI, § 1124, as added Pub. L. 111–203, title XIV, § 1473(f)(2), July 21, 2010, 124 Stat. 2192.)
+(Pub. L. 101–73, title XI, § 1124, as added Pub. L. 111–203, title XIV, § 1473(f)(2), July 21, 2010, 124 Stat. 2192.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -827,7 +827,7 @@ Subject to the approval of the Council, the Appraisal Subcommittee may extend by
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3354. Automated valuation models used to estimate collateral value for mortgage lending purposes
+## § 3354. Automated valuation models used to estimate collateral value for mortgage lending purposes
 
 **(a) In general** Automated valuation models shall adhere to quality control standards designed to—
 
@@ -855,7 +855,7 @@ The Board, the Comptroller of the Currency, the Federal Deposit Insurance Corpor
 
 For purposes of this section, the term “automated valuation model” means any computerized model used by mortgage originators and secondary market issuers to determine the collateral worth of a mortgage secured by a consumer’s principal dwelling.
 
-(Pub. L. 101–73, title XI, § 1125, as added Pub. L. 111–203, title XIV, § 1473(q), July 21, 2010, 124 Stat. 2198.)
+(Pub. L. 101–73, title XI, § 1125, as added Pub. L. 111–203, title XIV, § 1473(q), July 21, 2010, 124 Stat. 2198.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -863,7 +863,7 @@ For purposes of this section, the term “automated valuation model” means any
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3355. Broker price opinions
+## § 3355. Broker price opinions
 
 **(a) General prohibition**
 
@@ -871,13 +871,13 @@ In conjunction with the purchase of a consumer’s principal dwelling, broker pr
 
 **(b) Broker price opinion defined**
 
-For purposes of this section, the term “broker price opinion” means an estimate prepared by a real estate broker, agent, or sales person that details the probable selling price of a particular piece of real estate property and provides a varying level of detail about the property’s condition, market, and neighborhood, and information on comparable sales, but does not include an automated valuation model, as defined in section 3354(c) 1
+For purposes of this section, the term “broker price opinion” means an estimate prepared by a real estate broker, agent, or sales person that details the probable selling price of a particular piece of real estate property and provides a varying level of detail about the property’s condition, market, and neighborhood, and information on comparable sales, but does not include an automated valuation model, as defined in section 3354(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 101–73, title XI, § 1126, as added Pub. L. 111–203, title XIV, § 1473(r), July 21, 2010, 124 Stat. 2198.)
+(Pub. L. 101–73, title XI, § 1126, as added Pub. L. 111–203, title XIV, § 1473(r), July 21, 2010, 124 Stat. 2198.)
 
 **Editorial Notes**
 
@@ -891,7 +891,7 @@ Section 3354(c) of this title, referred to in subsec. (b), probably means sectio
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3356. Exemption from appraisals of real estate located in rural areas
+## § 3356. Exemption from appraisals of real estate located in rural areas
 
 **(a) Definitions** In this section—
 
@@ -933,4 +933,4 @@ Section effective on the date on which final regulations implementing such secti
 
 Each Federal financial institutions regulatory agency shall ensure that any mortgage originator that the Federal financial institutions regulatory agency oversees that makes a significant amount of loans under subsection (b) is complying with the requirements of subsection (b)(2) with respect to each loan.
 
-(Pub. L. 101–73, title XI, § 1127, as added Pub. L. 115–174, title I, § 103, May 24, 2018, 132 Stat. 1299.)
+(Pub. L. 101–73, title XI, § 1127, as added Pub. L. 115–174, title I, § 103, May 24, 2018, 132 Stat. 1299.)

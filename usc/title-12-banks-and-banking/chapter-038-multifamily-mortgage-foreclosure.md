@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 38—MULTIFAMILY MORTGAGE FORECLOSURE
 
-## § 3701. Findings and purpose
+## § 3701. Findings and purpose
 
 **(a)** The Congress finds that—
 
@@ -33,31 +33,31 @@ retrieved: 2026-10-11
 
 **(b)** The purpose of this chapter is to create a uniform Federal foreclosure remedy for multifamily mortgages.
 
-(Pub. L. 97–35, title III, § 362, Aug. 13, 1981, 95 Stat. 422; Pub. L. 102–550, title V, § 517(a), Oct. 28, 1992, 106 Stat. 3791.)
+(Pub. L. 97–35, title III, § 362, Aug. 13, 1981, 95 Stat. 422; Pub. L. 102–550, title V, § 517(a), Oct. 28, 1992, 106 Stat. 3791.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a)(1). Pub. L. 102–550, § 517(a)(1), substituted “multifamily mortgages” for “real estate mortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties”.
+1992—Subsec. (a)(1). Pub. L. 102–550, § 517(a)(1), substituted “multifamily mortgages” for “real estate mortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties”.
 
-Subsec. (b). Pub. L. 102–550, § 517(a)(2), substituted “multifamily mortgages” for “multiunit residential and nonresidential mortgages held by the Secretary of Housing and Urban Development pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964”.
+Subsec. (b). Pub. L. 102–550, § 517(a)(2), substituted “multifamily mortgages” for “multiunit residential and nonresidential mortgages held by the Secretary of Housing and Urban Development pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 97–35, title III, § 371, Aug. 13, 1981, 95 Stat. 431, provided that:
+Pub. L. 97–35, title III, § 371, Aug. 13, 1981, 95 Stat. 431, provided that:
 
-> **“(a)** Except as otherwise provided in this subtitle, the provisions of this subtitle [for classification of subtitle A (§ 300–371) of title III of Pub. L. 97–35, see Tables] shall take effect on October 1, 1981.
+> **“(a)** Except as otherwise provided in this subtitle, the provisions of this subtitle [for classification of subtitle A (§ 300–371) of title III of Pub. L. 97–35, see Tables] shall take effect on October 1, 1981.
 
 > **“(b)** The amendments made by sections 324, 325, and 326(a) [amending section 1437f of Title 42, The Public Health and Welfare] shall apply only with respect to contracts entered into on and after October 1, 1981.”
 
 **Short Title**
 
-Pub. L. 97–35, title III, § 361, Aug. 13, 1981, 95 Stat. 422, provided that: “This part [enacting this chapter] may be cited as the ‘Multifamily Mortgage Foreclosure Act of 1981’.”
+Pub. L. 97–35, title III, § 361, Aug. 13, 1981, 95 Stat. 422, provided that: “This part [enacting this chapter] may be cited as the ‘Multifamily Mortgage Foreclosure Act of 1981’.”
 
-## § 3702. Definitions
+## § 3702. Definitions
 
 As used in this chapter—
 
@@ -93,15 +93,15 @@ As used in this chapter—
 
 **(10)** “Secretary” means the Secretary of Housing and Urban Development and the Secretary of Agriculture.
 
-(Pub. L. 97–35, title III, § 363, Aug. 13, 1981, 95 Stat. 422; Pub. L. 102–550, title V, § 517(b), Oct. 28, 1992, 106 Stat. 3792; Pub. L. 118–42, div. B, title VII, § 762, Mar. 9, 2024, 138 Stat. 115; Pub. L. 119–37, div. B, title VII, § 765, Nov. 12, 2025, 139 Stat. 554.)
+(Pub. L. 97–35, title III, § 363, Aug. 13, 1981, 95 Stat. 422; Pub. L. 102–550, title V, § 517(b), Oct. 28, 1992, 106 Stat. 3792; Pub. L. 118–42, div. B, title VII, § 762, Mar. 9, 2024, 138 Stat. 115; Pub. L. 119–37, div. B, title VII, § 765, Nov. 12, 2025, 139 Stat. 554.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in par. (2)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§ 1749aa et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–235, title I, § 133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (2)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§ 1749aa et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–235, title I, § 133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-Section 312 of the Housing Act of 1964, referred to in par. (2)(B), is section 312 of Pub. L. 88–560, which was classified to section 1452b of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 101–625, title II, § 289(b)(1), Nov. 28, 1990, 104 Stat. 4128.
+Section 312 of the Housing Act of 1964, referred to in par. (2)(B), is section 312 of Pub. L. 88–560, which was classified to section 1452b of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 101–625, title II, § 289(b)(1), Nov. 28, 1990, 104 Stat. 4128.
 
 Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred to in par. (2)(C), (D), is section 801 of Pub. L. 101–625.
 
@@ -111,7 +111,7 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 2024—Par. (10). Pub. L. 118–42, which directed the insertion of “and the Secretary of Agriculture” after “Secretary of Housing Urban Development”, was executed by making the insertion after “Secretary of Housing and Urban Development”, to reflect the probable intent of Congress.
 
-1992—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘multifamily mortgage’ means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;”.
+1992—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘multifamily mortgage’ means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;”.
 
 **Executive Documents**
 
@@ -119,11 +119,11 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 3703. Applicability
+## § 3703. Applicability
 
 Multifamily mortgages held by the Secretary encumbering real estate located in any State may be foreclosed by the Secretary in accordance with this chapter, or pursuant to other foreclosure procedures available, at the option of the Secretary. If the Secretary forecloses on any such mortgage pursuant to such other foreclosure procedures available, the provisions of section 3706(b) of this title may be applied at the discretion of the Secretary.
 
-(Pub. L. 97–35, title III, § 364, Aug. 13, 1981, 95 Stat. 423; Pub. L. 98–181, title I [title IV, § 471], Nov. 30, 1983, 97 Stat. 1237.)
+(Pub. L. 97–35, title III, § 364, Aug. 13, 1981, 95 Stat. 423; Pub. L. 98–181, title I [title IV, § 471], Nov. 30, 1983, 97 Stat. 1237.)
 
 **Editorial Notes**
 
@@ -131,17 +131,17 @@ Multifamily mortgages held by the Secretary encumbering real estate located in a
 
 1983—Pub. L. 98–181 inserted provision relating to application of section 3706(b) of this title in event of foreclosure under other foreclosure procedures.
 
-## § 3704. Foreclosure commissioner; designation, duties, etc.
+## § 3704. Foreclosure commissioner; designation, duties, etc.
 
 A foreclosure commissioner or commissioners designated pursuant to this chapter shall have a nonjudicial power of sale as provided in this chapter. Where the Secretary is the holder of a multifamily mortgage, the Secretary may designate a foreclosure commissioner and, with or without cause, may designate a substitute foreclosure commissioner to replace a previously designated foreclosure commissioner, by executing a duly acknowledged, written designation stating the name and business or residential address of the commissioner or substitute commissioner. The designation shall be effective upon execution. Except as provided in section 3707(b) of this title, a copy of the designation shall be mailed with each copy of the notice of default and foreclosure sale served by mail in accordance with section 3708(1) of this title. The foreclosure commissioner, if a natural person, shall be a resident of the State in which the security property is located and, if not a natural person, the foreclosure commissioner must be duly authorized to transact business under the laws of the State in which the security property is located. The foreclosure commissioner shall be a person who is responsible, financially sound and competent to conduct the foreclosure. More than one foreclosure commissioner may be designated. If a natural person is designated as foreclosure commissioner or substitute foreclosure commissioner, such person shall be designated by name, except that where such person is designated in his or her capacity as an official or employee of the government of the State or subdivision thereof in which the security property is located, such person may be designated by his or her unique title or position instead of by name. The Secretary shall be a guarantor of payment of any judgment against the foreclosure commissioner for damages based upon the commissioner’s failure properly to perform the commissioner’s duties. As between the Secretary and the mortgagor, the Secretary shall bear the risk of any financial default by the foreclosure commissioner. In the event that the Secretary makes any payment pursuant to the preceding two sentences, the Secretary shall be fully subrogated to the rights satisfied by such payment.
 
-(Pub. L. 97–35, title III, § 365, Aug. 13, 1981, 95 Stat. 423.)
+(Pub. L. 97–35, title III, § 365, Aug. 13, 1981, 95 Stat. 423.)
 
-## § 3705. Prerequisites to foreclosure
+## § 3705. Prerequisites to foreclosure
 
 Foreclosure by the Secretary under this chapter of a multifamily mortgage may be commenced, as provided in section 3707 of this title, upon the breach of a covenant or condition in the mortgage agreement for which foreclosure is authorized under the mortgage, except that no such foreclosure may be commenced unless any previously pending proceeding, judicial or nonjudicial, separately instituted by the Secretary to foreclose the mortgage other than under this chapter has been withdrawn, dismissed, or otherwise terminated. No such separately instituted foreclosure proceeding on the mortgage shall be instituted by the Secretary during the pendency of foreclosure pursuant to this chapter. Nothing in this chapter shall preclude the Secretary from enforcing any right, other than foreclosure, under applicable State law, including any right to obtain a monetary judgment. Nothing in this chapter shall preclude the Secretary from foreclosing under this chapter where the Secretary has obtained or is seeking any other remedy available pursuant to Federal or State law or under the mortgage agreement, including, but not limited to, the appointment of a receiver, mortgagee-in-possession status, relief under an assignment of rents, or transfer to a nonprofit entity pursuant to section 1701q of this title or section 8013 of title 42.
 
-(Pub. L. 97–35, title III, § 366, Aug. 13, 1981, 95 Stat. 424; Pub. L. 102–550, title V, § 517(c), Oct. 28, 1992, 106 Stat. 3792.)
+(Pub. L. 97–35, title III, § 366, Aug. 13, 1981, 95 Stat. 424; Pub. L. 102–550, title V, § 517(c), Oct. 28, 1992, 106 Stat. 3792.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ Foreclosure by the Secretary under this chapter of a multifamily mortgage may be
 
 1992—Pub. L. 102–550 substituted “status, relief under an assignment of rents, or transfer to a nonprofit entity pursuant to section 1701q of this title or section 8013 of title 42” for “status or relief under an assignment of rents” in last sentence.
 
-## § 3706. Notice of default and foreclosure sale; condition and term of sale
+## § 3706. Notice of default and foreclosure sale; condition and term of sale
 
 **(a)** The notice of default and foreclosure sale to be served in accordance with this chapter shall be subscribed with the name and address of the foreclosure commissioner and the date on which subscribed, and shall set forth the following information:
 
@@ -179,7 +179,7 @@ Foreclosure by the Secretary under this chapter of a multifamily mortgage may be
 
 **(B)** In any case where the Secretary is the purchaser of a multifamily project, the Secretary shall manage and dispose of such project in accordance with the provisions of section 203 of the Housing and Community Development Amendments of 1978 [12 U.S.C. 1701z–11].
 
-(Pub. L. 97–35, title III, § 367, Aug. 13, 1981, 95 Stat. 424; Pub. L. 102–550, title V, § 517(d), Oct. 28, 1992, 106 Stat. 3792.)
+(Pub. L. 97–35, title III, § 367, Aug. 13, 1981, 95 Stat. 424; Pub. L. 102–550, title V, § 517(d), Oct. 28, 1992, 106 Stat. 3792.)
 
 **Editorial Notes**
 
@@ -187,15 +187,15 @@ Foreclosure by the Secretary under this chapter of a multifamily mortgage may be
 
 1992—Subsec. (b)(1). Pub. L. 102–550 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2)(A), the Secretary may require, as a condition and term of sale, that the purchaser at a foreclosure sale under this chapter agree to continue to operate the security property in accordance with the terms, as appropriate, of the loan program under section 312 of the Housing Act of 1964, the program under which insurance under title II of the National Housing Act was originally provided with respect to such property, or any applicable regulatory or other agreement in effect with respect to such property immediately prior to the time of foreclosure sale.”
 
-## § 3707. Commencement of foreclosure; powers and duties of foreclosure commissioner or substitute
+## § 3707. Commencement of foreclosure; powers and duties of foreclosure commissioner or substitute
 
 **(a)** If the Secretary as holder of a multifamily mortgage determines that the prerequisites to foreclosure set forth in section 3705 of this title are satisfied, the Secretary may request the foreclosure commissioner to commence foreclosure of the mortgage. Upon such request, the foreclosure commissioner shall commence foreclosure of the mortgage, by commencing service of a notice of default and foreclosure sale in accordance with section 3708 of this title.
 
 **(b)** Subsequent to commencement of a foreclosure under this chapter, the Secretary may designate a substitute foreclosure commissioner at any time up to forty-eight hours prior to the time of foreclosure sale, and the foreclosure shall continue without prejudice, unless the substitute commissioner, in his or her sole discretion, finds that continuation of the foreclosure sale will unfairly affect the interests of the mortgagor. In the event that the substitute commissioner makes such a finding, the substitute commissioner shall cancel the foreclosure sale, or adjourn such sale in the manner provided in section 3710(c) of this title. Upon designation of a substitute foreclosure commissioner, a copy of the written notice of such designation referred to in section 3704 of this title shall be served upon the persons set forth in section 3708(1) of this title (1) by mail as provided in such section 3708 of this title (except that the minimum time periods between mailing and the date of foreclosure sale prescribed in such section shall not apply to notice by mail pursuant to this subsection), or (2) in any other manner, which in the substitute commissioner’s sole discretion, is conducive to achieving timely notice of such substitution. In the event a substitute foreclosure commissioner is designated less than forty-eight hours prior to the time of the foreclosure sale, the pending foreclosure shall be terminated and a new foreclosure shall be commenced by commencing service of a new notice of default and foreclosure sale.
 
-(Pub. L. 97–35, title III, § 368, Aug. 13, 1981, 95 Stat. 425.)
+(Pub. L. 97–35, title III, § 368, Aug. 13, 1981, 95 Stat. 425.)
 
-## § 3708. Service of notice of default and foreclosure sale
+## § 3708. Service of notice of default and foreclosure sale
 
 The foreclosure commissioner shall serve the notice of default and foreclosure sale provided for in section 3706 of this title upon the following persons and in the following manner, and no additional notice shall be required to be served notwithstanding any notice requirements of any State or local law—
 
@@ -213,9 +213,9 @@ Notice under clauses (A) and (B) of this paragraph shall be mailed at least twen
 
 **(3)** A copy of the notice of default and foreclosure sale shall be posted in a prominent place at or on the real property to be sold at least seven days prior to the foreclosure sale, and entry upon the premises for this purpose shall be privileged as against all persons. If the property consists of two or more noncontiguous parcels of land, a copy of the notice of default and foreclosure sale shall be posted in a prominent place on each such parcel. If the security property consists of two or more separate buildings, a copy of the notice of default and foreclosure sale shall be posted in a prominent place on each such building. Posting at or on the premises shall not be required where the foreclosure commissioner, in the commissioner’s sole discretion, finds that the act of posting will likely cause a breach of the peace or that posting may result in an increased risk of vandalism or damage to the property.
 
-(Pub. L. 97–35, title III, § 369, Aug. 13, 1981, 95 Stat. 426.)
+(Pub. L. 97–35, title III, § 369, Aug. 13, 1981, 95 Stat. 426.)
 
-## § 3709. Presale reinstatement
+## § 3709. Presale reinstatement
 
 **(a) Grounds** Except as provided in sections 3707(b) and 3710(c) of this title, the foreclosure commissioner shall withdraw the security property from foreclosure and cancel the foreclosure sale only if—
 
@@ -239,9 +239,9 @@ In any case in which a foreclosure commenced under this chapter is canceled, the
 
 If the foreclosure commissioner cancels a foreclosure sale under this chapter a new foreclosure may be subsequently commenced as provided in this chapter.
 
-(Pub. L. 97–35, title III, § 369A, Aug. 13, 1981, 95 Stat. 427.)
+(Pub. L. 97–35, title III, § 369A, Aug. 13, 1981, 95 Stat. 427.)
 
-## § 3710. Foreclosure sale
+## § 3710. Foreclosure sale
 
 **(a) Time of sale; public auction; location**
 
@@ -255,9 +255,9 @@ The foreclosure commissioner shall conduct the foreclosure sale in accordance wi
 
 The foreclosure commissioner shall have discretion, prior to or at the time of sale, to adjourn or cancel the foreclosure sale if the commissioner determines, in the commissioner’s sole discretion, that circumstances are not conducive to a sale which is fair to the mortgagor and the Secretary or that additional time is necessary to determine whether the security property should be withdrawn from foreclosure as provided in section 3709 of this title. The foreclosure commissioner may adjourn a sale to a later hour the same day without the giving of further notice, or may adjourn the foreclosure sale for not less than nine nor more than twenty-four days, in which case the commissioner shall serve a notice of default and foreclosure sale revised to recite that the foreclosure sale has been adjourned to a specified date and to include any corrections the foreclosure commissioner deems appropriate. Such notice shall be served by publication, mailing and posting in accordance with section 3708 of this title, except that publication may be made on any of three separate days prior to the revised date of foreclosure sale, and mailing may be made at any time at least seven days prior to the date to which the foreclosure sale has been adjourned.
 
-(Pub. L. 97–35, title III, § 369B, Aug. 13, 1981, 95 Stat. 428.)
+(Pub. L. 97–35, title III, § 369B, Aug. 13, 1981, 95 Stat. 428.)
 
-## § 3711. Foreclosure costs
+## § 3711. Foreclosure costs
 
 The following foreclosure costs shall be paid from the sale proceeds prior to satisfaction of any other claim to such sale proceeds:
 
@@ -271,9 +271,9 @@ The following foreclosure costs shall be paid from the sale proceeds prior to sa
 
 **(5)** a commission for the foreclosure commissioner for the conduct of the foreclosure to the extent authorized by regulations issued by the Secretary.
 
-(Pub. L. 97–35, title III, § 369C, Aug. 13, 1981, 95 Stat. 429.)
+(Pub. L. 97–35, title III, § 369C, Aug. 13, 1981, 95 Stat. 429.)
 
-## § 3712. Disposition of sale proceeds
+## § 3712. Disposition of sale proceeds
 
 Money realized from a foreclosure sale shall be made available for obligation and expenditure—
 
@@ -293,9 +293,9 @@ Money realized from a foreclosure sale shall be made available for obligation an
 
 Any surplus after payment of the foregoing shall be paid to holders of liens recorded after the mortgage and then to the appropriate mortgagor. If the person to whom such surplus is to be paid cannot be located, or if the surplus available is insufficient to pay all claimants and the claimants cannot agree on the allocation of the surplus, or if any person claiming an interest in the mortgage proceeds does not agree that some or all of the sale proceeds should be paid to a claimant as provided in this section, that part of the sale proceeds in question may be deposited by the foreclosure commissioner with an appropriate official or court authorized under law to receive disputed funds in such circumstances. If such a procedure for the deposit of disputed funds is not available, and the foreclosure commissioner files a bill of interpleader or is sued as a stakeholder to determine entitlement to such funds, the foreclosure commissioner’s necessary costs in taking or defending such action shall be deductible from the disputed funds.
 
-(Pub. L. 97–35, title III, § 369D, Aug. 13, 1981, 95 Stat. 429.)
+(Pub. L. 97–35, title III, § 369D, Aug. 13, 1981, 95 Stat. 429.)
 
-## § 3713. Transfer of title and possession
+## § 3713. Transfer of title and possession
 
 **(a) Payment and delivery of deeds**
 
@@ -317,9 +317,9 @@ There shall be no right of redemption, or right of possession based upon right o
 
 When conveyance is made to the Secretary, no tax shall be imposed or collected with respect to the foreclosure commissioner’s deed, whether as a tax upon the instrument or upon the privilege of conveying or transferring title to the property. Failure to collect or pay a tax of the type and under the circumstances stated in the preceding sentence shall not be grounds for refusing to record such a deed, for failing to recognize such recordation as imparting notice or for denying the enforcement of such a deed and its provisions in any State or Federal court.
 
-(Pub. L. 97–35, title III, § 369E, Aug. 13, 1981, 95 Stat. 430.)
+(Pub. L. 97–35, title III, § 369E, Aug. 13, 1981, 95 Stat. 430.)
 
-## § 3714. Record of foreclosure and sale
+## § 3714. Record of foreclosure and sale
 
 **(a)** To establish a sufficient record of foreclosure and sale, the foreclosure commissioner shall include in the recitals of the deed to the purchaser or prepare an affidavit or addendum to the deed stating—
 
@@ -335,22 +335,22 @@ When conveyance is made to the Secretary, no tax shall be imposed or collected w
 
 **(b)** The deed executed by the foreclosure commissioner, the foreclosure commissioner’s affidavit and any other instruments submitted for recordation in relation to the foreclosure of the security property under this chapter shall be accepted for recordation by the registrar of deeds or other appropriate official of the county or counties in which the security property is located upon tendering of payment of the usual recording fees for such instruments.
 
-(Pub. L. 97–35, title III, § 369F, Aug. 13, 1981, 95 Stat. 430.)
+(Pub. L. 97–35, title III, § 369F, Aug. 13, 1981, 95 Stat. 430.)
 
-## § 3715. Computation of time
+## § 3715. Computation of time
 
 Periods of time provided for in this chapter shall be calculated in consecutive calendar days including the day or days on which the actions or events occur or are to occur for which the period of time is provided and including the day on which an event occurs or is to occur from which the period is to be calculated.
 
-(Pub. L. 97–35, title III, § 369G, Aug. 13, 1981, 95 Stat. 431.)
+(Pub. L. 97–35, title III, § 369G, Aug. 13, 1981, 95 Stat. 431.)
 
-## § 3716. Separability
+## § 3716. Separability
 
 If any clause, sentence, paragraph or part of this chapter shall, for any reason, be adjudged by a court of competent jurisdiction to be invalid or invalid as applied to a class of cases, such judgment shall not affect, impair, or invalidate the remainder thereof and of this chapter, but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
-(Pub. L. 97–35, title III, § 369H, Aug. 13, 1981, 95 Stat. 431.)
+(Pub. L. 97–35, title III, § 369H, Aug. 13, 1981, 95 Stat. 431.)
 
-## § 3717. Regulations
+## § 3717. Regulations
 
 The Secretary is authorized to issue such regulations as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 97–35, title III, § 369I, Aug. 13, 1981, 95 Stat. 431.)
+(Pub. L. 97–35, title III, § 369I, Aug. 13, 1981, 95 Stat. 431.)

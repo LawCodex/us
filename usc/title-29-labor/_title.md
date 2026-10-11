@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 29—LABOR
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—LABOR STATISTICS](chapter-001-labor-statistics.md)
 

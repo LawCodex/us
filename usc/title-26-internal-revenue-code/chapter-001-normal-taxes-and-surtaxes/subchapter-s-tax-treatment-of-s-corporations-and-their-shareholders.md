@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## PART I—IN GENERAL
 
-### § 1361. S corporation defined
+### § 1361. S corporation defined
 
 **(a) S corporation defined**
 
@@ -305,7 +305,7 @@ For treatment of certain distributions with respect to restricted bank director 
 
 In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, § 721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, § 901(d)(4)(G), title XVIII, § 1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, § 1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, § 7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§ 1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, § 1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, § 6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, § 1(a)(7) [title III, § 316(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§ 231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§ 403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§ 8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198; Pub. L. 115–97, title I, § 13541(a), Dec. 22, 2017, 131 Stat. 2154; Pub. L. 115–141, div. U, title I, § 109(a), title IV, § 401(a)(190), (d)(1)(D)(xvi), Mar. 23, 2018, 132 Stat. 1171, 1193, 1208.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, § 721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, § 901(d)(4)(G), title XVIII, § 1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, § 1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, § 7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§ 1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, § 1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, § 6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, § 1(a)(7) [title III, § 316(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§ 231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§ 403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§ 8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198; Pub. L. 115–97, title I, § 13541(a), Dec. 22, 2017, 131 Stat. 2154; Pub. L. 115–141, div. U, title I, § 109(a), title IV, § 401(a)(190), (d)(1)(D)(xvi), Mar. 23, 2018, 132 Stat. 1171, 1193, 1208.)
 
 **Editorial Notes**
 
@@ -315,85 +315,85 @@ The date of the enactment of this clause, referred to in subsec. (c)(2)(A)(vi), 
 
 **Prior Provisions**
 
-A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, § 7(h), 76 Stat. 829; Feb. 26, 1964, Pub. L. 88–272, title II, § 225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, § 4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, § 4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
+A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, § 7(h), 76 Stat. 829; Feb. 26, 1964, Pub. L. 88–272, title II, § 225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, § 4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, § 4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
 
 **Amendments**
 
-2018—Subsec. (b)(2)(C), (D). Pub. L. 115–141, § 401(d)(1)(D)(xvi), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “a corporation to which an election under section 936 applies, or”.
+2018—Subsec. (b)(2)(C), (D). Pub. L. 115–141, § 401(d)(1)(D)(xvi), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “a corporation to which an election under section 936 applies, or”.
 
-Subsec. (c)(2)(B)(vi). Pub. L. 115–141, § 109(a), substituted “the shareholder” for “a shareholder”.
+Subsec. (c)(2)(B)(vi). Pub. L. 115–141, § 109(a), substituted “the shareholder” for “a shareholder”.
 
-Subsec. (f)(2). Pub. L. 115–141, § 401(a)(190), substituted “1813(w)(1))),” for “1813(w)(1)),” in introductory provisions.
+Subsec. (f)(2). Pub. L. 115–141, § 401(a)(190), substituted “1813(w)(1))),” for “1813(w)(1)),” in introductory provisions.
 
 2017—Subsec. (c)(2)(B)(v). Pub. L. 115–97 inserted at end “This clause shall not apply for purposes of subsection (b)(1)(C).”
 
-2007—Subsec. (b)(3)(C). Pub. L. 110–28, § 8234(a), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+2007—Subsec. (b)(3)(C). Pub. L. 110–28, § 8234(a), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
 
-Subsec. (f). Pub. L. 110–28, § 8232(a), added subsec. (f).
+Subsec. (f). Pub. L. 110–28, § 8232(a), added subsec. (f).
 
-Subsec. (g). Pub. L. 110–28, § 8233(a), added subsec. (g).
+Subsec. (g). Pub. L. 110–28, § 8233(a), added subsec. (g).
 
-2005—Subsec. (b)(3)(A). Pub. L. 109–135, § 413(c)(1), struck out “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
+2005—Subsec. (b)(3)(A). Pub. L. 109–135, § 413(c)(1), struck out “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
 
-Subsec. (b)(3)(E). Pub. L. 109–135, § 413(c)(2), added subpar. (E).
+Subsec. (b)(3)(E). Pub. L. 109–135, § 413(c)(2), added subpar. (E).
 
-Subsec. (c)(1). Pub. L. 109–135, § 403(b), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) to (D) relating to treatment as 1 shareholder, family members, adoption, and election.
+Subsec. (c)(1). Pub. L. 109–135, § 403(b), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) to (D) relating to treatment as 1 shareholder, family members, adoption, and election.
 
-Subsec. (c)(2)(A)(vi). Pub. L. 109–135, § 413(a)(1), inserted “or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” after “a bank (as defined in section 581)” and “or company” after “such bank”.
+Subsec. (c)(2)(A)(vi). Pub. L. 109–135, § 413(a)(1), inserted “or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” after “a bank (as defined in section 581)” and “or company” after “such bank”.
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–357, § 232(a), substituted “100” for “75”.
+2004—Subsec. (b)(1)(A). Pub. L. 108–357, § 232(a), substituted “100” for “75”.
 
-Subsec. (b)(3)(A). Pub. L. 108–357, § 239(a), inserted “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
+Subsec. (b)(3)(A). Pub. L. 108–357, § 239(a), inserted “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
 
-Subsec. (c)(1). Pub. L. 108–357, § 231(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For purposes of subsection (b)(1)(A), a husband and wife (and their estates) shall be treated as 1 shareholder.”
+Subsec. (c)(1). Pub. L. 108–357, § 231(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For purposes of subsection (b)(1)(A), a husband and wife (and their estates) shall be treated as 1 shareholder.”
 
-Subsec. (c)(2)(A)(vi). Pub. L. 108–357, § 233(a), added cl. (vi).
+Subsec. (c)(2)(A)(vi). Pub. L. 108–357, § 233(a), added cl. (vi).
 
-Subsec. (c)(2)(B)(vi). Pub. L. 108–357, § 233(b), added cl. (vi).
+Subsec. (c)(2)(B)(vi). Pub. L. 108–357, § 233(b), added cl. (vi).
 
-Subsec. (d)(1)(C). Pub. L. 108–357, § 236(a), added subpar. (C).
+Subsec. (d)(1)(C). Pub. L. 108–357, § 236(a), added subpar. (C).
 
-Subsec. (e)(2). Pub. L. 108–357, § 234(a), inserted “(determined without regard to any power of appointment to the extent such power remains unexercised at the end of such period)” after “of the trust” and substituted “1-year” for “60-day”.
+Subsec. (e)(2). Pub. L. 108–357, § 234(a), inserted “(determined without regard to any power of appointment to the extent such power remains unexercised at the end of such period)” after “of the trust” and substituted “1-year” for “60-day”.
 
 2000—Subsec. (e)(1)(A)(i)(IV). Pub. L. 106–554 added subcl. (IV).
 
 1998—Subsec. (e)(4). Pub. L. 105–206 substituted “section 641(c)” for “section 641(d)”.
 
-1997—Subsec. (b)(1)(B). Pub. L. 105–34, § 1601(c)(4)(C), substituted “subsection (c)(6)” for “subsection (c)(7)”.
+1997—Subsec. (b)(1)(B). Pub. L. 105–34, § 1601(c)(4)(C), substituted “subsection (c)(6)” for “subsection (c)(7)”.
 
-Subsec. (b)(3)(A). Pub. L. 105–34, § 1601(c)(3), substituted “Except as provided in regulations prescribed by the Secretary, for purposes of this title” for “For purposes of this title”.
+Subsec. (b)(3)(A). Pub. L. 105–34, § 1601(c)(3), substituted “Except as provided in regulations prescribed by the Secretary, for purposes of this title” for “For purposes of this title”.
 
-Subsec. (c)(6), (7). Pub. L. 105–34, § 1601(c)(4)(B), redesignated par. (7) as (6).
+Subsec. (c)(6), (7). Pub. L. 105–34, § 1601(c)(4)(B), redesignated par. (7) as (6).
 
-Subsec. (e)(1)(B)(iii). Pub. L. 105–34, § 1601(c)(1), added cl. (iii).
+Subsec. (e)(1)(B)(iii). Pub. L. 105–34, § 1601(c)(1), added cl. (iii).
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–188, § 1301, substituted “75” for “35”.
+1996—Subsec. (b)(1)(A). Pub. L. 104–188, § 1301, substituted “75” for “35”.
 
-Subsec. (b)(1)(B). Pub. L. 104–188, § 1316(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “have as a shareholder a person (other than an estate and other than a trust described in subsection (c)(2)) who is not an individual,”.
+Subsec. (b)(1)(B). Pub. L. 104–188, § 1316(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “have as a shareholder a person (other than an estate and other than a trust described in subsection (c)(2)) who is not an individual,”.
 
-Subsec. (b)(2)(A). Pub. L. 104–188, § 1315, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a financial institution to which section 585 applies (or would apply but for subsection (c) thereof),”.
+Subsec. (b)(2)(A). Pub. L. 104–188, § 1315, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a financial institution to which section 585 applies (or would apply but for subsection (c) thereof),”.
 
-Pub. L. 104–188, § 1308(a), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “a member of an affiliated group (determined under section 1504 without regard to the exceptions contained in subsection (b) thereof),”.
+Pub. L. 104–188, § 1308(a), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “a member of an affiliated group (determined under section 1504 without regard to the exceptions contained in subsection (b) thereof),”.
 
-Subsec. (b)(2)(B). Pub. L. 104–188, § 1308(a), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
+Subsec. (b)(2)(B). Pub. L. 104–188, § 1308(a), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
 
-Pub. L. 104–188, § 1616(b)(15), struck out “or to which section 593 applies” after “subsection (c) thereof)”.
+Pub. L. 104–188, § 1616(b)(15), struck out “or to which section 593 applies” after “subsection (c) thereof)”.
 
-Subsec. (b)(2)(C) to (E). Pub. L. 104–188, § 1308(a), redesignated subpars. (D) and (E) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
+Subsec. (b)(2)(C) to (E). Pub. L. 104–188, § 1308(a), redesignated subpars. (D) and (E) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
 
-Subsec. (b)(3). Pub. L. 104–188, § 1308(b), added par. (3).
+Subsec. (b)(3). Pub. L. 104–188, § 1308(b), added par. (3).
 
-Subsec. (c)(2)(A)(ii). Pub. L. 104–188, § 1303, substituted “2-year period” for “60-day period” in first sentence and struck out at end “If a trust is described in the preceding sentence and if the entire corpus of the trust is includible in the gross estate of the deemed owner, the preceding sentence shall be applied by substituting ‘2-year period’ for ‘60-day period’.”
+Subsec. (c)(2)(A)(ii). Pub. L. 104–188, § 1303, substituted “2-year period” for “60-day period” in first sentence and struck out at end “If a trust is described in the preceding sentence and if the entire corpus of the trust is includible in the gross estate of the deemed owner, the preceding sentence shall be applied by substituting ‘2-year period’ for ‘60-day period’.”
 
-Subsec. (c)(2)(A)(iii). Pub. L. 104–188, § 1303(1), substituted “2-year period” for “60-day period”.
+Subsec. (c)(2)(A)(iii). Pub. L. 104–188, § 1303(1), substituted “2-year period” for “60-day period”.
 
-Subsec. (c)(2)(A)(v). Pub. L. 104–188, § 1302(a), added cl. (v).
+Subsec. (c)(2)(A)(v). Pub. L. 104–188, § 1302(a), added cl. (v).
 
-Subsec. (c)(2)(B)(v). Pub. L. 104–188, § 1302(b), added cl. (v).
+Subsec. (c)(2)(B)(v). Pub. L. 104–188, § 1302(b), added cl. (v).
 
-Subsec. (c)(5)(B)(iii). Pub. L. 104–188, § 1304, substituted “a trust described in paragraph (2), or a person which is actively and regularly engaged in the business of lending money” for “or a trust described in paragraph (2)”.
+Subsec. (c)(5)(B)(iii). Pub. L. 104–188, § 1304, substituted “a trust described in paragraph (2), or a person which is actively and regularly engaged in the business of lending money” for “or a trust described in paragraph (2)”.
 
-Subsec. (c)(6). Pub. L. 104–188, § 1308(d)(1), struck out par. (6) which read as follows:
+Subsec. (c)(6). Pub. L. 104–188, § 1308(d)(1), struck out par. (6) which read as follows:
 
 “(6) Ownership of stock in certain inactive corporations.—For purposes of subsection (b)(2)(A), a corporation shall not be treated as a member of an affiliated group during any period within a taxable year by reason of the ownership of stock in another corporation if such other corporation—
 
@@ -401,29 +401,29 @@ Subsec. (c)(6). Pub. L. 104–188, § 1308(d)(1), struck out par. (6) which re
 
 “(B) does not have gross income for such period.”
 
-Subsec. (c)(7). Pub. L. 104–188, § 1316(a)(2), added par. (7).
+Subsec. (c)(7). Pub. L. 104–188, § 1316(a)(2), added par. (7).
 
-Subsec. (e). Pub. L. 104–188, § 1302(c), added subsec. (e).
+Subsec. (e). Pub. L. 104–188, § 1302(c), added subsec. (e).
 
-Subsec. (e)(1)(A)(i). Pub. L. 104–188, § 1316(e), struck out “which holds a contingent interest and is not a potential current beneficiary” after “170(c)”.
+Subsec. (e)(1)(A)(i). Pub. L. 104–188, § 1316(e), struck out “which holds a contingent interest and is not a potential current beneficiary” after “170(c)”.
 
 1989—Subsec. (b)(2)(B). Pub. L. 101–239 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a financial institution which is a bank (as defined in section 585(a)(2)) or to which section 593 applies,”.
 
 1988—Subsec. (d)(3). Pub. L. 100–647 substituted “within the meaning of” for “treated as a separate trust under” in last sentence.
 
-1986—Subsec. (b)(2)(B). Pub. L. 99–514, § 901(d)(4)(G), substituted “which is a bank (as defined in section 585(a)(2)) or to which section 593 applies” for “to which section 585 or 593 applies”.
+1986—Subsec. (b)(2)(B). Pub. L. 99–514, § 901(d)(4)(G), substituted “which is a bank (as defined in section 585(a)(2)) or to which section 593 applies” for “to which section 585 or 593 applies”.
 
-Subsec. (d)(3). Pub. L. 99–514, § 1879(m)(1)(A), inserted at end “A substantially separate and independent share of a trust treated as a separate trust under section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).”
+Subsec. (d)(3). Pub. L. 99–514, § 1879(m)(1)(A), inserted at end “A substantially separate and independent share of a trust treated as a separate trust under section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).”
 
-1984—Subsec. (c)(6). Pub. L. 98–369, § 721(c), amended par. (6) generally, substituting “during any period within a taxable year” for “during any taxable year” in provisions preceding subpar. (A), and substituting “on or before the close of such period” for “on or after the date of its incorporation and before the close of such taxable year” in subpar. (A), and “does not have gross income for such period” for “does not have taxable income for the period included within such taxable year” in subpar. (B).
+1984—Subsec. (c)(6). Pub. L. 98–369, § 721(c), amended par. (6) generally, substituting “during any period within a taxable year” for “during any taxable year” in provisions preceding subpar. (A), and substituting “on or before the close of such period” for “on or after the date of its incorporation and before the close of such taxable year” in subpar. (A), and “does not have gross income for such period” for “does not have taxable income for the period included within such taxable year” in subpar. (B).
 
-Subsec. (d)(2)(B)(i). Pub. L. 98–369, § 721(f)(3), substituted “corporation” for “S corporation” in heading and text.
+Subsec. (d)(2)(B)(i). Pub. L. 98–369, § 721(f)(3), substituted “corporation” for “S corporation” in heading and text.
 
-Subsec. (d)(2)(D). Pub. L. 98–369, § 721(f)(1), substituted “15 days and 2 months” for “60 days”.
+Subsec. (d)(2)(D). Pub. L. 98–369, § 721(f)(1), substituted “15 days and 2 months” for “60 days”.
 
-Subsec. (d)(3). Pub. L. 98–369, § 721(f)(2), in amending par. (3) generally, redesignated subpar. (C) as (A), substituted a period for “, and” at end of subpar. (B), and struck out former subpar. (A) which read “which owns stock in 1 or more S corporations”.
+Subsec. (d)(3). Pub. L. 98–369, § 721(f)(2), in amending par. (3) generally, redesignated subpar. (C) as (A), substituted a period for “, and” at end of subpar. (B), and struck out former subpar. (A) which read “which owns stock in 1 or more S corporations”.
 
-Subsec. (d)(4). Pub. L. 98–369, § 721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
+Subsec. (d)(4). Pub. L. 98–369, § 721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -433,43 +433,43 @@ Amendment by section 109(a) of Pub. L. 115–141 effective as if included in sec
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13541(b), Dec. 22, 2017, 131 Stat. 2154, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 2018.”
+Pub. L. 115–97, title I, § 13541(b), Dec. 22, 2017, 131 Stat. 2154, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 2018.”
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–28, title VIII, § 8232(c), May 25, 2007, 121 Stat. 198, provided that:
+Pub. L. 110–28, title VIII, § 8232(c), May 25, 2007, 121 Stat. 198, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 1368 of this title] shall apply to taxable years beginning after December 31, 2006.
 
 > **“(2) Special rule for treatment as second class of stock.—** In the case of any taxable year beginning after December 31, 1996, restricted bank director stock (as defined in section 1361(f) of the Internal Revenue Code of 1986, as added by this section) shall not be taken into account in determining whether an S corporation has more than 1 class of stock.”
 
-Pub. L. 110–28, title VIII, § 8233(b), May 25, 2007, 121 Stat. 198, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 110–28, title VIII, § 8233(b), May 25, 2007, 121 Stat. 198, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2006.”
 
-Pub. L. 110–28, title VIII, § 8234(b), May 25, 2007, 121 Stat. 199, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 110–28, title VIII, § 8234(b), May 25, 2007, 121 Stat. 199, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2006.”
 
 **Effective Date of 2005 Amendment**
 
 Amendment by section 403(b) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
-Pub. L. 109–135, title IV, § 413(d), Dec. 21, 2005, 119 Stat. 2642, provided that: “The amendments made by this section [amending this section and sections 1362 and 4975 of this title] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 [Pub. L. 108–357] to which they relate.”
+Pub. L. 109–135, title IV, § 413(d), Dec. 21, 2005, 119 Stat. 2642, provided that: “The amendments made by this section [amending this section and sections 1362 and 4975 of this title] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 [Pub. L. 108–357] to which they relate.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title II, § 231(c)(1), Oct. 22, 2004, 118 Stat. 1433, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title II, § 231(c)(1), Oct. 22, 2004, 118 Stat. 1433, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2004.”
 
-Pub. L. 108–357, title II, § 232(b), Oct. 22, 2004, 118 Stat. 1434, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title II, § 232(b), Oct. 22, 2004, 118 Stat. 1434, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
 
 Amendment by section 233(a), (b) of Pub. L. 108–357 effective Oct. 22, 2004, see section 233(e) of Pub. L. 108–357, set out as a note under section 512 of this title.
 
-Pub. L. 108–357, title II, § 234(b), Oct. 22, 2004, 118 Stat. 1435, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title II, § 234(b), Oct. 22, 2004, 118 Stat. 1435, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
 
-Pub. L. 108–357, title II, § 236(b), Oct. 22, 2004, 118 Stat. 1435, provided that: “The amendments made by this section [amending this section] shall apply to transfers made after December 31, 2004.”
+Pub. L. 108–357, title II, § 236(b), Oct. 22, 2004, 118 Stat. 1435, provided that: “The amendments made by this section [amending this section] shall apply to transfers made after December 31, 2004.”
 
-Pub. L. 108–357, title II, § 239(b), Oct. 22, 2004, 118 Stat. 1437, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title II, § 239(b), Oct. 22, 2004, 118 Stat. 1437, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–554 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 1(a)(7) [title III, § 316(e)] of Pub. L. 106–554, set out as a note under section 51 of this title.
+Amendment by Pub. L. 106–554 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 1(a)(7) [title III, § 316(e)] of Pub. L. 106–554, set out as a note under section 51 of this title.
 
 **Effective Date of 1998 Amendment**
 
@@ -499,11 +499,11 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 901(d)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
-Pub. L. 99–514, title XVIII, § 1879(m)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendments made by this subsection [amending this section and section 1368 of this title] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 99–514, title XVIII, § 1879(m)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendments made by this subsection [amending this section and section 1368 of this title] shall apply to taxable years beginning after December 31, 1982.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title VII, § 721(y), July 18, 1984, 98 Stat. 972, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title VII, § 721(y), July 18, 1984, 98 Stat. 972, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, any amendment made by this section [amending this section, sections 48, 108, 267, 318, 465, 1362, 1363, 1367, 1368, 1371, 1374, 1375, 1378, 1379, 6362, and 6659 and provisions set out as a note under this section] shall take effect as if included in the Subchapter S Revision Act of 1982 [Pub. L. 97–354].
 
@@ -529,7 +529,7 @@ Pub. L. 98–369, div. A, title VII, § 721(y), July 18, 1984, 98 Stat. 972, a
 
 **Effective Date**
 
-Pub. L. 97–354, § 6, Oct. 19, 1982, 96 Stat. 1697, as amended by Pub. L. 97–448, title III, § 305(d)(1)(A), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, § 721(i), (k), July 18, 1984, 98 Stat. 969; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–354, § 6, Oct. 19, 1982, 96 Stat. 1697, as amended by Pub. L. 97–448, title III, § 305(d)(1)(A), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, § 721(i), (k), July 18, 1984, 98 Stat. 969; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this section, the amendments made by this Act [enacting this section and sections 1362, 1363, 1366 to 1368, 1371 to 1375, 1377 to 1379, and 6241 to 6245 of this title, amending sections 31, 44D to 44F, 46, 48, 50A, 50B, 52, 53, 55, 57, 58, 62, 108, 163, 168, 170, 172, 179, 183, 189, 194, 267, 280, 280A, 291, 447, 464, 465, 613A, 992, 1016, 1101, 1212, 1251, 1254, 1256, 3453, 3454, 4992, 4996, 6037, 6042, 6362, and 6661 of this title and section 1108 of Title 29, Labor, omitting section 1376 of this title, and enacting provisions set out as a note under section 1 of this title] shall apply to taxable years beginning after December 31, 1982.
 
@@ -631,7 +631,7 @@ For provisions that nothing in amendment by section 401(d)(1)(D)(xvi) of Pub. L.
 
 **Elimination of all Earnings and Profits Attributable to Pre-1983 Years for Certain Corporations**
 
-Pub. L. 110–28, title VIII, § 8235, May 25, 2007, 121 Stat. 199, provided that:
+Pub. L. 110–28, title VIII, § 8235, May 25, 2007, 121 Stat. 199, provided that:
 
 > “In the case of a corporation which is—
 
@@ -643,7 +643,7 @@ Pub. L. 110–28, title VIII, § 8235, May 25, 2007, 121 Stat. 199, provided t
 
 **Elimination of Certain Earnings and Profits**
 
-Pub. L. 104–188, title I, § 1311(a), Aug. 20, 1996, 110 Stat. 1784, provided that:
+Pub. L. 104–188, title I, § 1311(a), Aug. 20, 1996, 110 Stat. 1784, provided that:
 
 > “If—
 
@@ -653,13 +653,13 @@ Pub. L. 104–188, title I, § 1311(a), Aug. 20, 1996, 110 Stat. 1784, provide
 
 > the amount of such corporation’s accumulated earnings and profits (as of the beginning of such first taxable year) shall be reduced by an amount equal to the portion (if any) of such accumulated earnings and profits which were accumulated in any taxable year beginning before January 1, 1983, for which such corporation was an electing small business corporation under such subchapter S.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Transitional Provisions**
 
-Pub. L. 97–448, title III, § 305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–448, title III, § 305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “If—
 
@@ -669,7 +669,7 @@ Pub. L. 97–448, title III, § 305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as
 
 > then such stock or securities shall not be taken into account under section 333(e)(2) of such Code.”
 
-### § 1362. Election; revocation; termination
+### § 1362. Election; revocation; termination
 
 **(a) Election**
 
@@ -893,15 +893,15 @@ then, notwithstanding the circumstances resulting in such ineffectiveness or ter
 
 If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, § 102(d)(2), title VII, § 721(g), (h), (*l*), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§ 1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§ 1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, § 532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§ 231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, § 413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, § 8231(a), May 25, 2007, 121 Stat. 196; Pub. L. 110–172, § 11(a)(25), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. A, title II, § 221(a)(88), Dec. 19, 2014, 128 Stat. 4050; Pub. L. 115–141, div. U, title IV, § 401(a)(190), (191), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, § 102(d)(2), title VII, § 721(g), (h), (*l*), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§ 1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§ 1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, § 532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§ 231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, § 413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, § 8231(a), May 25, 2007, 121 Stat. 196; Pub. L. 110–172, § 11(a)(25), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. A, title II, § 221(a)(88), Dec. 19, 2014, 128 Stat. 4050; Pub. L. 115–141, div. U, title IV, § 401(a)(190), (191), Mar. 23, 2018, 132 Stat. 1193.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (d)(3)(C)(v). Pub. L. 115–141, § 401(a)(190), substituted “1813(w)(1))),” for “1813(w)(1)),” in introductory provisions.
+2018—Subsec. (d)(3)(C)(v). Pub. L. 115–141, § 401(a)(190), substituted “1813(w)(1))),” for “1813(w)(1)),” in introductory provisions.
 
-Subsec. (f). Pub. L. 115–141, § 401(a)(191), substituted “may be, during” for “may be during” in concluding provisions.
+Subsec. (f). Pub. L. 115–141, § 401(a)(191), substituted “may be, during” for “may be during” in concluding provisions.
 
 2014—Subsec. (d)(3)(A)(iii). Pub. L. 113–295 substituted “unless the corporation was an S corporation for such taxable year.” for “unless—
 
@@ -911,43 +911,43 @@ Subsec. (f). Pub. L. 115–141, § 401(a)(191), substituted “may be, during�
 
 2007—Subsec. (d)(3)(B) to (F). Pub. L. 110–28 added subpars. (B) and (C) and struck out former subpar. (B), which related to gross receipts from dispositions of capital assets (other than stock and securities) being taken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
 
-Subsec. (f)(1). Pub. L. 110–172 substituted “or section 1361(b)(3)(B)(ii)” for “, section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii)” in introductory provisions and “or section 1361(b)(3)(C)” for “, section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii)” in subpar. (B).
+Subsec. (f)(1). Pub. L. 110–172 substituted “or section 1361(b)(3)(B)(ii)” for “, section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii)” in introductory provisions and “or section 1361(b)(3)(C)” for “, section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii)” in subpar. (B).
 
 2005—Subsec. (d)(3)(F). Pub. L. 109–135 substituted “a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” for “a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))), or a financial holding company (within the meaning of section 2(p) of such Act)”.
 
-2004—Subsec. (d)(3)(F). Pub. L. 108–357, § 237(a), added subpar. (F).
+2004—Subsec. (d)(3)(F). Pub. L. 108–357, § 237(a), added subpar. (F).
 
-Subsec. (f). Pub. L. 108–357, § 238(a)(5), inserted “or a qualified subchapter S subsidiary, as the case may be” after “S corporation” in concluding provisions.
+Subsec. (f). Pub. L. 108–357, § 238(a)(5), inserted “or a qualified subchapter S subsidiary, as the case may be” after “S corporation” in concluding provisions.
 
-Subsec. (f)(1). Pub. L. 108–357, § 238(a)(1), inserted “, section 1361(b)(3)(B)(ii),” after “subsection (a)” in introductory provisions.
+Subsec. (f)(1). Pub. L. 108–357, § 238(a)(1), inserted “, section 1361(b)(3)(B)(ii),” after “subsection (a)” in introductory provisions.
 
-Pub. L. 108–357, § 231(b)(1), inserted “or section 1361(c)(1)(A)(ii)” after “section 1361(b)(3)(B)(ii),” in introductory provisions.
+Pub. L. 108–357, § 231(b)(1), inserted “or section 1361(c)(1)(A)(ii)” after “section 1361(b)(3)(B)(ii),” in introductory provisions.
 
-Subsec. (f)(1)(B). Pub. L. 108–357, § 238(a)(2), inserted “, section 1361(b)(3)(C),” after “subsection (d)”.
+Subsec. (f)(1)(B). Pub. L. 108–357, § 238(a)(2), inserted “, section 1361(b)(3)(C),” after “subsection (d)”.
 
-Pub. L. 108–357, § 231(b)(2), inserted “or section 1361(c)(1)(D)(iii)” after “section 1361(b)(3)(C),”.
+Pub. L. 108–357, § 231(b)(2), inserted “or section 1361(c)(1)(D)(iii)” after “section 1361(b)(3)(C),”.
 
-Subsec. (f)(3)(A). Pub. L. 108–357, § 238(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so that the corporation is a small business corporation, or”.
+Subsec. (f)(3)(A). Pub. L. 108–357, § 238(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so that the corporation is a small business corporation, or”.
 
-Subsec. (f)(4). Pub. L. 108–357, § 238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
+Subsec. (f)(4). Pub. L. 108–357, § 238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
 
 1999—Subsec. (d)(3)(C)(ii). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-1996—Subsec. (b)(5). Pub. L. 104–188, § 1305(b), added par. (5).
+1996—Subsec. (b)(5). Pub. L. 104–188, § 1305(b), added par. (5).
 
-Subsec. (d)(3). Pub. L. 104–188, § 1311(b)(1)(A), in heading substituted “accumulated” for “subchapter C”.
+Subsec. (d)(3). Pub. L. 104–188, § 1311(b)(1)(A), in heading substituted “accumulated” for “subchapter C”.
 
-Subsec. (d)(3)(A)(i)(I). Pub. L. 104–188, § 1311(b)(1)(B), substituted “accumulated” for “subchapter C”.
+Subsec. (d)(3)(A)(i)(I). Pub. L. 104–188, § 1311(b)(1)(B), substituted “accumulated” for “subchapter C”.
 
-Subsec. (d)(3)(B) to (E). Pub. L. 104–188, § 1311(b)(1)(C), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows:
+Subsec. (d)(3)(B) to (E). Pub. L. 104–188, § 1311(b)(1)(C), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows:
 
 “(B) Subchapter c earnings and profits.—For purposes of subparagraph (A), the term ‘subchapter C earnings and profits’ means earnings and profits of any corporation for any taxable year with respect to which an election under section 1362(a) (or under section 1372 of prior law) was not in effect.”
 
-Subsec. (d)(3)(F). Pub. L. 104–188, § 1311(b)(1)(C), redesignated subpar. (F) as (E).
+Subsec. (d)(3)(F). Pub. L. 104–188, § 1311(b)(1)(C), redesignated subpar. (F) as (E).
 
-Pub. L. 104–188, § 1308(c), added subpar. (F).
+Pub. L. 104–188, § 1308(c), added subpar. (F).
 
-Subsec. (f). Pub. L. 104–188, § 1305(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+Subsec. (f). Pub. L. 104–188, § 1305(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
 “(f) Inadvertent Terminations.—If—
 
@@ -961,25 +961,25 @@ Subsec. (f). Pub. L. 104–188, § 1305(a), amended subsec. (f) generally. Pri
 
 then, notwithstanding the terminating event, such corporation shall be treated as continuing to be an S corporation during the period specified by the Secretary.”
 
-1988—Subsec. (d)(3)(D)(v). Pub. L. 100–647, § 1006(f)(6)(A), struck out cl. (v) which related to special rule for options and commodities dealers.
+1988—Subsec. (d)(3)(D)(v). Pub. L. 100–647, § 1006(f)(6)(A), struck out cl. (v) which related to special rule for options and commodities dealers.
 
-Subsec. (d)(3)(E). Pub. L. 100–647, § 1006(f)(6)(B), added subpar. (E).
+Subsec. (d)(3)(E). Pub. L. 100–647, § 1006(f)(6)(B), added subpar. (E).
 
-Subsec. (e)(5)(B). Pub. L. 100–647, § 1007(g)(9), substituted “Subsection (d)” for “Subsection (d)(2)”.
+Subsec. (e)(5)(B). Pub. L. 100–647, § 1007(g)(9), substituted “Subsection (d)” for “Subsection (d)(2)”.
 
-1984—Subsec. (b)(3)(B). Pub. L. 98–369, § 721(*l*)(2), substituted “on or before the 15th day of the 3rd month of the following taxable year” for “on or before the last day of such taxable year”.
+1984—Subsec. (b)(3)(B). Pub. L. 98–369, § 721(*l*)(2), substituted “on or before the 15th day of the 3rd month of the following taxable year” for “on or before the last day of such taxable year”.
 
-Subsec. (b)(4). Pub. L. 98–369, § 721(*l*)(1), added par. (4).
+Subsec. (b)(4). Pub. L. 98–369, § 721(*l*)(1), added par. (4).
 
-Subsec. (d)(3)(D)(v). Pub. L. 98–369, § 102(d)(2), added cl. (v).
+Subsec. (d)(3)(D)(v). Pub. L. 98–369, § 102(d)(2), added cl. (v).
 
-Subsec. (e)(2). Pub. L. 98–369, § 721(g)(2), substituted “as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6)” for “as provided in paragraph (3)”.
+Subsec. (e)(2). Pub. L. 98–369, § 721(g)(2), substituted “as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6)” for “as provided in paragraph (3)”.
 
-Subsec. (e)(3)(B). Pub. L. 98–369, § 721(h), struck out “All” in heading, and substituted “subsection” for “paragraph” and “S short year and all persons who are shareholders in the corporation on the first day of the C short year” for “S termination year” in text.
+Subsec. (e)(3)(B). Pub. L. 98–369, § 721(h), struck out “All” in heading, and substituted “subsection” for “paragraph” and “S short year and all persons who are shareholders in the corporation on the first day of the C short year” for “S termination year” in text.
 
-Subsec. (e)(6)(C). Pub. L. 98–369, § 721(g)(1), added subpar. (C).
+Subsec. (e)(6)(C). Pub. L. 98–369, § 721(g)(1), added subpar. (C).
 
-Subsec. (e)(6)(D). Pub. L. 98–369, § 721(t), added subpar. (D).
+Subsec. (e)(6)(D). Pub. L. 98–369, § 721(t), added subpar. (D).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -989,7 +989,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–28, title VIII, § 8231(b), May 25, 2007, 121 Stat. 197, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [May 25, 2007].”
+Pub. L. 110–28, title VIII, § 8231(b), May 25, 2007, 121 Stat. 197, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [May 25, 2007].”
 
 **Effective Date of 2005 Amendment**
 
@@ -997,11 +997,11 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title II, § 231(c)(2), Oct. 22, 2004, 118 Stat. 1434, provided that: “The amendments made by subsection (b) [amending this section] shall apply to elections and terminations made after December 31, 2004.”
+Pub. L. 108–357, title II, § 231(c)(2), Oct. 22, 2004, 118 Stat. 1434, provided that: “The amendments made by subsection (b) [amending this section] shall apply to elections and terminations made after December 31, 2004.”
 
-Pub. L. 108–357, title II, § 237(b), Oct. 22, 2004, 118 Stat. 1436, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title II, § 237(b), Oct. 22, 2004, 118 Stat. 1436, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
 
-Pub. L. 108–357, title II, § 238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: “The amendments made by this section [amending this section] shall apply to elections made and terminations made after December 31, 2004.”
+Pub. L. 108–357, title II, § 238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: “The amendments made by this section [amending this section] shall apply to elections made and terminations made after December 31, 2004.”
 
 **Effective Date of 1999 Amendment**
 
@@ -1009,7 +1009,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1305(c), Aug. 20, 1996, 110 Stat. 1780, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to elections for taxable years beginning after December 31, 1982.”
+Pub. L. 104–188, title I, § 1305(c), Aug. 20, 1996, 110 Stat. 1780, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to elections for taxable years beginning after December 31, 1982.”
 
 Amendment by sections 1308(c) and 1311(b)(1) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 
@@ -1029,11 +1029,11 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 **Treatment of Certain Elections Under Prior Law**
 
-Pub. L. 104–188, title I, § 1317(b), Aug. 20, 1996, 110 Stat. 1787, provided that: “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
+Pub. L. 104–188, title I, § 1317(b), Aug. 20, 1996, 110 Stat. 1787, provided that: “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
 
 **Subchapter S Election**
 
-Pub. L. 98–369, div. A, title I, § 102(d)(3), July 18, 1984, 98 Stat. 623, as amended by Pub. L. 99–514, § 2, title XVIII, § 1808(a)(2), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that:
+Pub. L. 98–369, div. A, title I, § 102(d)(3), July 18, 1984, 98 Stat. 623, as amended by Pub. L. 99–514, § 2, title XVIII, § 1808(a)(2), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that:
 
 > “If a commodities dealer or an options dealer—
 
@@ -1043,7 +1043,7 @@ Pub. L. 98–369, div. A, title I, § 102(d)(3), July 18, 1984, 98 Stat. 623, 
 
 > then such dealer shall be treated as having received approval for and adopted a taxable year beginning on the first day during 1984 on which it was a small business corporation (as so defined) or such other day as may be permitted under regulations and ending on the date determined under section 1378 of such Code and such election shall be effective for such taxable year.”
 
-### § 1363. Effect of election on corporation
+### § 1363. Effect of election on corporation
 
 **(a) General rule**
 
@@ -1127,7 +1127,7 @@ Except as provided in regulations, the corporation referred to in paragraph (1) 
 
 Sections 1367(a)(2)(D) and 1371(c)(1) shall not apply with respect to any increase in the tax imposed by reason of this subsection.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1676; amended Pub. L. 98–369, div. A, title VII, § 721(a), (b)(1), (p), July 18, 1984, 98 Stat. 966, 970; Pub. L. 99–514, title V, § 511(d)(2)(C), title VI, § 632(b), title VII, § 701(e)(4)(J), Oct. 22, 1986, 100 Stat. 2249, 2277, 2343; Pub. L. 100–203, title X, § 10227(a), Dec. 22, 1987, 101 Stat. 1330–416; Pub. L. 100–647, title I, § 1006(f)(7), title II, § 2004(n), Nov. 10, 1988, 102 Stat. 3407, 3608; Pub. L. 109–135, title IV, § 411(a), Dec. 21, 2005, 119 Stat. 2636.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1676; amended Pub. L. 98–369, div. A, title VII, § 721(a), (b)(1), (p), July 18, 1984, 98 Stat. 966, 970; Pub. L. 99–514, title V, § 511(d)(2)(C), title VI, § 632(b), title VII, § 701(e)(4)(J), Oct. 22, 1986, 100 Stat. 2249, 2277, 2343; Pub. L. 100–203, title X, § 10227(a), Dec. 22, 1987, 101 Stat. 1330–416; Pub. L. 100–647, title I, § 1006(f)(7), title II, § 2004(n), Nov. 10, 1988, 102 Stat. 3407, 3608; Pub. L. 109–135, title IV, § 411(a), Dec. 21, 2005, 119 Stat. 2636.)
 
 **Editorial Notes**
 
@@ -1135,33 +1135,33 @@ Sections 1367(a)(2)(D) and 1371(c)(1) shall not apply with respect to any increa
 
 2005—Subsec. (d)(5). Pub. L. 109–135 added par. (5).
 
-1988—Subsec. (d). Pub. L. 100–647, § 1006(f)(7), struck out subsec. (d) which related to distributions of appreciated property.
+1988—Subsec. (d). Pub. L. 100–647, § 1006(f)(7), struck out subsec. (d) which related to distributions of appreciated property.
 
-Subsec. (d)(4)(D). Pub. L. 100–647, § 2004(n), added subpar. (D).
+Subsec. (d)(4)(D). Pub. L. 100–647, § 2004(n), added subpar. (D).
 
-Subsec. (e). Pub. L. 100–647, § 1006(f)(7), struck out subsec. (e) which provided that subsec. (d) not apply to reorganizations, etc.
+Subsec. (e). Pub. L. 100–647, § 1006(f)(7), struck out subsec. (e) which provided that subsec. (d) not apply to reorganizations, etc.
 
 1987—Subsec. (d). Pub. L. 100–203 added subsec. (d) relating to recapture of LIFO benefits.
 
-1986—Subsec. (a). Pub. L. 99–514, § 701(e)(4)(J), struck out “and in section 58(d)” after “this subchapter”.
+1986—Subsec. (a). Pub. L. 99–514, § 701(e)(4)(J), struck out “and in section 58(d)” after “this subchapter”.
 
-Subsec. (c)(2). Pub. L. 99–514, § 511(d)(2)(C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “section 163(d) (relating to limitation on interest on investment indebtedness),”.
+Subsec. (c)(2). Pub. L. 99–514, § 511(d)(2)(C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “section 163(d) (relating to limitation on interest on investment indebtedness),”.
 
-Subsec. (e). Pub. L. 99–514, § 632(b), amended subsec. (e) generally, substituting “reorganizations, etc.” for “complete liquidations and reorganizations”, in heading and in text struck out reference to property in complete liquidation of the corporation.
+Subsec. (e). Pub. L. 99–514, § 632(b), amended subsec. (e) generally, substituting “reorganizations, etc.” for “complete liquidations and reorganizations”, in heading and in text struck out reference to property in complete liquidation of the corporation.
 
-1984—Subsec. (b)(4). Pub. L. 98–369, § 721(p), added par. (4).
+1984—Subsec. (b)(4). Pub. L. 98–369, § 721(p), added par. (4).
 
-Subsec. (c)(2). Pub. L. 98–369, § 721(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out subpar. (A) which provided “subsection (b)(5) or (d)(4) of section 108 (relating to income from discharge of indebtedness),”.
+Subsec. (c)(2). Pub. L. 98–369, § 721(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out subpar. (A) which provided “subsection (b)(5) or (d)(4) of section 108 (relating to income from discharge of indebtedness),”.
 
-Subsec. (d). Pub. L. 98–369, § 721(a)(2), substituted “Except as provided in subsection (e), if” for “If”.
+Subsec. (d). Pub. L. 98–369, § 721(a)(2), substituted “Except as provided in subsection (e), if” for “If”.
 
-Subsec. (e). Pub. L. 98–369, § 721(a)(1), added subsec. (e).
+Subsec. (e). Pub. L. 98–369, § 721(a)(1), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–135, title IV, § 411(b), Dec. 21, 2005, 119 Stat. 2636, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 10227 of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203].”
+Pub. L. 109–135, title IV, § 411(b), Dec. 21, 2005, 119 Stat. 2636, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 10227 of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203].”
 
 **Effective Date of 1988 Amendment**
 
@@ -1171,7 +1171,7 @@ Amendment by section 2004(n) of Pub. L. 100–647 effective, except as otherwise
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10227(b), Dec. 22, 1987, 101 Stat. 1330–417, provided that:
+Pub. L. 100–203, title X, § 10227(b), Dec. 22, 1987, 101 Stat. 1330–417, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2) the amendment made by subsection (a) [amending this section] shall apply in the case of elections made after December 17, 1987.
 
@@ -1203,7 +1203,7 @@ For applicability of amendment by section 701(e)(4)(J) of Pub. L. 99–514 notwi
 
 ## PART II—TAX TREATMENT OF SHAREHOLDERS
 
-### § 1366. Pass-thru of items to shareholders
+### § 1366. Pass-thru of items to shareholders
 
 **(a) Determination of shareholder’s tax liability**
 
@@ -1289,7 +1289,7 @@ If any tax is imposed under section 1374 for any taxable year on an S corporatio
 
 **(B)** the total passive investment income for the taxable year.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, § 474(r)(26), title VII, § 735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, § 632(c)(2), title VII, § 701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, § 1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, § 7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§ 1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784; Pub. L. 108–357, title II, § 235(a), Oct. 22, 2004, 118 Stat. 1435; Pub. L. 110–172, § 3(b), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 115–141, div. U, title IV, § 401(a)(192), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, § 474(r)(26), title VII, § 735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, § 632(c)(2), title VII, § 701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, § 1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, § 7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§ 1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784; Pub. L. 108–357, title II, § 235(a), Oct. 22, 2004, 118 Stat. 1435; Pub. L. 110–172, § 3(b), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 115–141, div. U, title IV, § 401(a)(192), Mar. 23, 2018, 132 Stat. 1193.)
 
 **Editorial Notes**
 
@@ -1301,19 +1301,19 @@ If any tax is imposed under section 1374 for any taxable year on an S corporatio
 
 2004—Subsec. (d)(2). Pub. L. 108–357 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.”
 
-1996—Subsec. (a)(1). Pub. L. 104–188, § 1302(e), inserted “, or of a trust or estate which terminates,” after “who dies” in introductory provisions.
+1996—Subsec. (a)(1). Pub. L. 104–188, § 1302(e), inserted “, or of a trust or estate which terminates,” after “who dies” in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 104–188, § 1309(a)(1), substituted “paragraphs (1) and (2)(A)” for “paragraph (1)”.
+Subsec. (d)(1)(A). Pub. L. 104–188, § 1309(a)(1), substituted “paragraphs (1) and (2)(A)” for “paragraph (1)”.
 
-Subsec. (d)(3)(D). Pub. L. 104–188, § 1312, added subpar. (D).
+Subsec. (d)(3)(D). Pub. L. 104–188, § 1312, added subpar. (D).
 
-Subsec. (g). Pub. L. 104–188, § 1307(c)(3)(A), struck out subsec. (g) which provided a cross reference to subchapter D of chapter 63 of this title.
+Subsec. (g). Pub. L. 104–188, § 1307(c)(3)(A), struck out subsec. (g) which provided a cross reference to subchapter D of chapter 63 of this title.
 
 1989—Subsec. (f)(2). Pub. L. 101–239 substituted “Treatment of tax imposed on built-in gains” for “Reduction in pass-thru for tax imposed on built-in gains” in heading and amended text generally. Prior to amendment, text read as follows: “If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount of each recognized built-in gain (within the meaning of section 1374) for such taxable year shall be reduced by its proportionate share of such tax.”
 
 1988—Subsec. (f)(2). Pub. L. 100–647 substituted “within the meaning of section 1374” for “as defined in section 1374(d)(2)”.
 
-1986—Subsec. (f)(2). Pub. L. 99–514, § 632(c)(2), amended par. (2) generally. Prior to amendment, par. (2), reduction in pass-thru for tax imposed on capital gain, read as follows: “If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a)—
+1986—Subsec. (f)(2). Pub. L. 99–514, § 632(c)(2), amended par. (2) generally. Prior to amendment, par. (2), reduction in pass-thru for tax imposed on capital gain, read as follows: “If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a)—
 
 “(A) the amount of the corporation’s long-term capital gains for the taxable year shall be reduced by the amount of such tax, and
 
@@ -1321,11 +1321,11 @@ Subsec. (g). Pub. L. 104–188, § 1307(c)(3)(A), struck out subsec. (g) which
 
 For purposes of the preceding sentence, the term ‘long-term capital gain’ shall not include any gain from the sale or exchange of property described in section 1231.”
 
-Pub. L. 99–514, § 701(e)(4)(K), struck out “56 or” before “1374”.
+Pub. L. 99–514, § 701(e)(4)(K), struck out “56 or” before “1374”.
 
-1984—Subsec. (f). Pub. L. 98–369, § 474(r)(26), substituted “section 34” for “section 39” in heading and text.
+1984—Subsec. (f). Pub. L. 98–369, § 474(r)(26), substituted “section 34” for “section 39” in heading and text.
 
-Subsec. (f)(1). Pub. L. 98–369, § 735(c)(16), substituted “and special fuels” for “, special fuels, and lubricating oil”.
+Subsec. (f)(1). Pub. L. 98–369, § 735(c)(16), substituted “and special fuels” for “, special fuels, and lubricating oil”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1335,7 +1335,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title II, § 235(b), Oct. 22, 2004, 118 Stat. 1435, as amended by Pub. L. 109–135, title IV, § 403(c), Dec. 21, 2005, 119 Stat. 2620, provided that: “The amendment made by this section [amending this section] shall apply to transfers after December 31, 2004.”
+Pub. L. 108–357, title II, § 235(b), Oct. 22, 2004, 118 Stat. 1435, as amended by Pub. L. 109–135, title IV, § 403(c), Dec. 21, 2005, 119 Stat. 2620, provided that: “The amendment made by this section [amending this section] shall apply to transfers after December 31, 2004.”
 
 **Effective Date of 1996 Amendment**
 
@@ -1369,7 +1369,7 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 For applicability of amendment by section 701(e)(4)(K) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-### § 1367. Adjustments to basis of stock of shareholders, etc.
+### § 1367. Adjustments to basis of stock of shareholders, etc.
 
 **(a) General rule**
 
@@ -1425,7 +1425,7 @@ If any person acquires stock in an S corporation by reason of the death of a dec
 
 The basis determined under section 1014 of any stock in an S corporation shall be reduced by the portion of the value of the stock which is attributable to items constituting income in respect of the decedent.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§ 721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§ 1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874; Pub. L. 109–280, title XII, § 1203(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, § 307(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, § 752(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, § 325(a), Jan. 2, 2013, 126 Stat. 2333; Pub. L. 113–295, div. A, title I, § 137(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, § 115(a), Dec. 18, 2015, 129 Stat. 3049.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§ 721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§ 1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874; Pub. L. 109–280, title XII, § 1203(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, § 307(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, § 752(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, § 325(a), Jan. 2, 2013, 126 Stat. 2333; Pub. L. 113–295, div. A, title I, § 137(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, § 115(a), Dec. 18, 2015, 129 Stat. 3049.)
 
 **Editorial Notes**
 
@@ -1443,45 +1443,45 @@ The basis determined under section 1014 of any stock in an S corporation shall b
 
 2006—Subsec. (a)(2). Pub. L. 109–280, which directed the addition of concluding provisions to section 1367(a)(2), without specifying the act to be amended, was executed to subsec. (a)(2) of this section, which is section 1367 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-1996—Subsec. (a)(2)(E). Pub. L. 104–188, § 1702(h)(14), substituted “section 613A(c)(11)(B)” for “section 613A(c)(13)(B)”.
+1996—Subsec. (a)(2)(E). Pub. L. 104–188, § 1702(h)(14), substituted “section 613A(c)(11)(B)” for “section 613A(c)(13)(B)”.
 
-Subsec. (b)(4). Pub. L. 104–188, § 1313(a), added par. (4).
+Subsec. (b)(4). Pub. L. 104–188, § 1313(a), added par. (4).
 
-1984—Subsec. (a)(2)(E). Pub. L. 98–369, § 722(e)(2), substituted “for any oil and gas property held by the S corporation to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such shareholder under section 613A(c)(13)(B)” for “under section 611 with respect to oil and gas wells”.
+1984—Subsec. (a)(2)(E). Pub. L. 98–369, § 722(e)(2), substituted “for any oil and gas property held by the S corporation to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such shareholder under section 613A(c)(13)(B)” for “under section 611 with respect to oil and gas wells”.
 
-Subsec. (b)(2)(B). Pub. L. 98–369, § 721(w), substituted “for any taxable year beginning after December 31, 1982, there is” for “for any taxable year there is”.
+Subsec. (b)(2)(B). Pub. L. 98–369, § 721(w), substituted “for any taxable year beginning after December 31, 1982, there is” for “for any taxable year there is”.
 
-Subsec. (b)(3). Pub. L. 98–369, § 721(d), inserted “and 166(d)” in heading and text.
+Subsec. (b)(3). Pub. L. 98–369, § 721(d), inserted “and 166(d)” in heading and text.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title I, § 115(b), Dec. 18, 2015, 129 Stat. 3049, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2014.”
+Pub. L. 114–113, div. Q, title I, § 115(b), Dec. 18, 2015, 129 Stat. 3049, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2014.”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. A, title I, § 137(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2013.”
+Pub. L. 113–295, div. A, title I, § 137(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2013.”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–240, title III, § 325(b), Jan. 2, 2013, 126 Stat. 2333, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2011.”
+Pub. L. 112–240, title III, § 325(b), Jan. 2, 2013, 126 Stat. 2333, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2011.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–312, title VII, § 752(b), Dec. 17, 2010, 124 Stat. 3321, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2009.”
+Pub. L. 111–312, title VII, § 752(b), Dec. 17, 2010, 124 Stat. 3321, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2009.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–343, div. C, title III, § 307(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2007.”
+Pub. L. 110–343, div. C, title III, § 307(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2007.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–280, title XII, § 1203(b), Aug. 17, 2006, 120 Stat. 1066, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2005.”
+Pub. L. 109–280, title XII, § 1203(b), Aug. 17, 2006, 120 Stat. 1066, provided that: “The amendment made by this section [amending this section] shall apply to contributions made in taxable years beginning after December 31, 2005.”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1313(b), Aug. 20, 1996, 110 Stat. 1785, provided that: “The amendment made by subsection (a) [amending this section] shall apply in the case of decedents dying after the date of the enactment of this Act [Aug. 20, 1996].”
+Pub. L. 104–188, title I, § 1313(b), Aug. 20, 1996, 110 Stat. 1785, provided that: “The amendment made by subsection (a) [amending this section] shall apply in the case of decedents dying after the date of the enactment of this Act [Aug. 20, 1996].”
 
 Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
@@ -1489,13 +1489,13 @@ Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as other
 
 Amendment by section 721(d), (w) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
-Pub. L. 98–369, div. A, title VII, § 722(e)(3)(B), July 18, 1984, 98 Stat. 974, provided that: “The amendment made by paragraph (2) [amending this section] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 98–369, div. A, title VII, § 722(e)(3)(B), July 18, 1984, 98 Stat. 974, provided that: “The amendment made by paragraph (2) [amending this section] shall apply to taxable years beginning after December 31, 1982.”
 
 **Effective Date**
 
 Section applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 
-### § 1368. Distributions
+### § 1368. Distributions
 
 **(a) General rule**
 
@@ -1579,7 +1579,7 @@ For purposes of subparagraph (A), the term “affected shareholder” means any 
 
 **(2)** shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount is included in the gross income of the director.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, § 305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, § 721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, § 1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 104–188, title I, § 1309(a)(2)–(c), Aug. 20, 1996, 110 Stat. 1783; Pub. L. 110–28, title VIII, § 8232(b), May 25, 2007, 121 Stat. 197; Pub. L. 115–141, div. U, title IV, § 401(a)(193), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, § 305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, § 721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, § 1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 104–188, title I, § 1309(a)(2)–(c), Aug. 20, 1996, 110 Stat. 1783; Pub. L. 110–28, title VIII, § 8232(b), May 25, 2007, 121 Stat. 197; Pub. L. 115–141, div. U, title IV, § 401(a)(193), Mar. 23, 2018, 132 Stat. 1193.)
 
 **Editorial Notes**
 
@@ -1589,17 +1589,17 @@ For purposes of subparagraph (A), the term “affected shareholder” means any 
 
 2007—Subsec. (f). Pub. L. 110–28 added subsec. (f).
 
-1996—Subsec. (d). Pub. L. 104–188, § 1309(a)(2), inserted at end “In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.”
+1996—Subsec. (d). Pub. L. 104–188, § 1309(a)(2), inserted at end “In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.”
 
-Subsec. (e)(1)(A). Pub. L. 104–188, § 1309(c), substituted “as otherwise provided in this paragraph” for “as provided in subparagraph (B)” and “section 1367(a)(2)” for “section 1367(b)(2)(A)”.
+Subsec. (e)(1)(A). Pub. L. 104–188, § 1309(c), substituted “as otherwise provided in this paragraph” for “as provided in subparagraph (B)” and “section 1367(a)(2)” for “section 1367(b)(2)(A)”.
 
-Subsec. (e)(1)(C). Pub. L. 104–188, § 1309(b), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 104–188, § 1309(b), added subpar. (C).
 
 1986—Subsec. (e)(1)(A). Pub. L. 99–514 inserted “and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation” before period at end.
 
-1984—Subsec. (c). Pub. L. 98–369, § 721(r)(2), inserted “Except to the extent provided in regulations, if the distributions during the taxable year exceed the amount in the accumulated adjustments account at the close of the taxable year, for purposes of this subsection, the balance of such account shall be allocated among such distributions in proportion to their respective sizes.”
+1984—Subsec. (c). Pub. L. 98–369, § 721(r)(2), inserted “Except to the extent provided in regulations, if the distributions during the taxable year exceed the amount in the accumulated adjustments account at the close of the taxable year, for purposes of this subsection, the balance of such account shall be allocated among such distributions in proportion to their respective sizes.”
 
-Subsec. (e)(1)(A). Pub. L. 98–369, § 721(r)(1), substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation’s taxable income and not properly chargeable to capital account)”.
+Subsec. (e)(1)(A). Pub. L. 98–369, § 721(r)(1), substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation’s taxable income and not properly chargeable to capital account)”.
 
 1983—Subsec. (e)(3). Pub. L. 97–448 added par. (3).
 
@@ -1623,15 +1623,15 @@ Amendment by Pub. L. 98–369 effective as if included in the Subchapter S Revis
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–448, title III, § 311(c)(4), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendments made by subsection (d) of section 305 [amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 [Oct. 19, 1982].”
+Pub. L. 97–448, title III, § 311(c)(4), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendments made by subsection (d) of section 305 [amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 [Oct. 19, 1982].”
 
 **Effective Date**
 
 Section applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 ## PART III—SPECIAL RULES
 
@@ -1639,11 +1639,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **Amendments**
 
-1996—Pub. L. 104–188, title I, § 1311(b)(2)(D), Aug. 20, 1996, 110 Stat. 1784, substituted “accumulated” for “subchapter C” in item 1375.
+1996—Pub. L. 104–188, title I, § 1311(b)(2)(D), Aug. 20, 1996, 110 Stat. 1784, substituted “accumulated” for “subchapter C” in item 1375.
 
-1986—Pub. L. 99–514, title VI, § 632(d), Oct. 22, 1986, 100 Stat. 2277, substituted “built-in” for “capital” in item 1374.
+1986—Pub. L. 99–514, title VI, § 632(d), Oct. 22, 1986, 100 Stat. 2277, substituted “built-in” for “capital” in item 1374.
 
-### § 1371. Coordination with subchapter C
+### § 1371. Coordination with subchapter C
 
 **(a) Application of subchapter C rules**
 
@@ -1705,13 +1705,13 @@ An S corporation may elect to have paragraph (1) not apply to all distributions 
 
 In the case of a distribution of money by an eligible terminated S corporation (as defined in section 481(d)) after the post-termination transition period, the accumulated adjustments account shall be allocated to such distribution, and the distribution shall be chargeable to accumulated earnings and profits, in the same ratio as the amount of such accumulated adjustments account bears to the amount of such accumulated earnings and profits.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII, § 721(e), (*o*), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, § 1899A(33), (34), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, § 11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, § 1310, Aug. 20, 1996, 110 Stat. 1784; Pub. L. 115–97, title I, § 13543(b), Dec. 22, 2017, 131 Stat. 2155; Pub. L. 117–167, div. A, § 107(b)(3)(C), Aug. 9, 2022, 136 Stat. 1398; Pub. L. 119–21, title VII, § 70513(b)(3)(B)(i), July 4, 2025, 139 Stat. 272.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII, § 721(e), (*o*), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, § 1899A(33), (34), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, § 11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, § 1310, Aug. 20, 1996, 110 Stat. 1784; Pub. L. 115–97, title I, § 13543(b), Dec. 22, 2017, 131 Stat. 2155; Pub. L. 117–167, div. A, § 107(b)(3)(C), Aug. 9, 2022, 136 Stat. 1398; Pub. L. 119–21, title VII, § 70513(b)(3)(B)(i), July 4, 2025, 139 Stat. 272.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1371, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 86–376, § 2(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 88–272, title II, § 233(a), Feb. 26, 1964, 78 Stat. 112; Pub. L. 94–455, title IX, § 902(a)(1), (2), (c)(1), (2), Oct. 4, 1976, 90 Stat. 1608, 1609; Pub. L. 95–600, title III, §§ 341, 342, title VII, § 701(y)(1), Nov. 6, 1978, 92 Stat. 2843, 2921; Pub. L. 96–589, § 5(d), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §§ 233(a), 234(a), (b), Aug. 13, 1981, 95 Stat. 250, 251; Pub. L. 97–448, title I, § 102(i)(1), Jan. 12, 1983, 96 Stat. 2372, related to definitions applicable to election of small business corporations as to taxable status, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1371, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 86–376, § 2(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 88–272, title II, § 233(a), Feb. 26, 1964, 78 Stat. 112; Pub. L. 94–455, title IX, § 902(a)(1), (2), (c)(1), (2), Oct. 4, 1976, 90 Stat. 1608, 1609; Pub. L. 95–600, title III, §§ 341, 342, title VII, § 701(y)(1), Nov. 6, 1978, 92 Stat. 2843, 2921; Pub. L. 96–589, § 5(d), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §§ 233(a), 234(a), (b), Aug. 13, 1981, 95 Stat. 250, 251; Pub. L. 97–448, title I, § 102(i)(1), Jan. 12, 1983, 96 Stat. 2372, related to definitions applicable to election of small business corporations as to taxable status, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 **Amendments**
 
@@ -1727,21 +1727,21 @@ A prior section 1371, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958
 
 “(2) S corporation as shareholder treated like individual.—For purposes of subchapter C, an S corporation in its capacity as a shareholder of another corporation shall be treated as an individual.”
 
-1990—Subsec. (d)(1). Pub. L. 101–508, § 11813(b)(23)(A), substituted “section 50(a)(4)” for “section 47(b)”.
+1990—Subsec. (d)(1). Pub. L. 101–508, § 11813(b)(23)(A), substituted “section 50(a)(4)” for “section 47(b)”.
 
-Subsec. (d)(2), (3). Pub. L. 101–508, § 11813(b)(23)(B), substituted “section 49(b) or 50(a)” for “section 47”.
+Subsec. (d)(2), (3). Pub. L. 101–508, § 11813(b)(23)(B), substituted “section 49(b) or 50(a)” for “section 47”.
 
-1986—Subsec. (e)(1). Pub. L. 99–514, § 1899A(33), inserted “(within the meaning of section 1368(e))”.
+1986—Subsec. (e)(1). Pub. L. 99–514, § 1899A(33), inserted “(within the meaning of section 1368(e))”.
 
-Subsec. (e)(2). Pub. L. 99–514, § 1899A(34), struck out “(within the meaning of section 1368(e))” after “to such election”.
+Subsec. (e)(2). Pub. L. 99–514, § 1899A(34), struck out “(within the meaning of section 1368(e))” after “to such election”.
 
-1984—Subsec. (c)(1). Pub. L. 98–369, § 621(e)(2), substituted “paragraphs (2) and (3) and subsection (d)(3)” for “paragraphs (2) and (3)”.
+1984—Subsec. (c)(1). Pub. L. 98–369, § 621(e)(2), substituted “paragraphs (2) and (3) and subsection (d)(3)” for “paragraphs (2) and (3)”.
 
-Subsec. (d)(3). Pub. L. 98–369, § 721(e)(1), added par. (3).
+Subsec. (d)(3). Pub. L. 98–369, § 721(e)(1), added par. (3).
 
-Subsec. (e). Pub. L. 98–369, § 721(*o*), amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
+Subsec. (e). Pub. L. 98–369, § 721(*o*), amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
 
-Subsec. (e)(2). Pub. L. 98–369, § 721(x)(3), inserted “(within the meaning of section 1368(e))”.
+Subsec. (e)(2). Pub. L. 98–369, § 721(x)(3), inserted “(within the meaning of section 1368(e))”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1773,11 +1773,11 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 1372. Partnership rules to apply for fringe benefit purposes
+### § 1372. Partnership rules to apply for fringe benefit purposes
 
 **(a) General rule** For purposes of applying the provisions of this subtitle which relate to employee fringe benefits—
 
@@ -1789,13 +1789,13 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 For purposes of this section, the term “2-percent shareholder” means any person who owns (or is considered as owning within the meaning of section 318) on any day during the taxable year of the S corporation more than 2 percent of the outstanding stock of such corporation or stock possessing more than 2 percent of the total combined voting power of all stock of such corporation.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1682.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1682.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1372, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 87–29, § 2, May 4, 1961, 75 Stat. 64; Pub. L. 89–389, §§ 2(b)(2), 3(a), Apr. 14, 1966, 80 Stat. 114; Pub. L. 91–683, § 1(a), Jan. 12, 1971, 84 Stat. 2067; Pub. L. 94–455, title IX, § 902(c)(3), title XIX, §§ 1901(a)(149), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1609, 1788, 1834; Pub. L. 95–600, title III, § 343, Nov. 6, 1978, 92 Stat. 2843; Pub. L. 95–628, § 5(a), (b), Nov. 10, 1978, 92 Stat. 3628, related to manner, effect, termination, etc., of an election not to be subject to taxes imposed under this chapter, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1372, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 87–29, § 2, May 4, 1961, 75 Stat. 64; Pub. L. 89–389, §§ 2(b)(2), 3(a), Apr. 14, 1966, 80 Stat. 114; Pub. L. 91–683, § 1(a), Jan. 12, 1971, 84 Stat. 2067; Pub. L. 94–455, title IX, § 902(c)(3), title XIX, §§ 1901(a)(149), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1609, 1788, 1834; Pub. L. 95–600, title III, § 343, Nov. 6, 1978, 92 Stat. 2843; Pub. L. 95–628, § 5(a), (b), Nov. 10, 1978, 92 Stat. 3628, related to manner, effect, termination, etc., of an election not to be subject to taxes imposed under this chapter, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1803,7 +1803,7 @@ A prior section 1372, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958
 
 Section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxable year beginning during 1982, sections 1362(d)(3), 1366(f)(3), and 1375 of this title shall apply and subsec. (e)(5) of this section as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3), of Pub. L. 97–354, set out as a note under section 1361 of this title. For additional provisions relating to the treatment of existing fringe benefit plans and the application of this section, see section 6(d) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 
-### § 1373. Foreign income
+### § 1373. Foreign income
 
 **(a) S corporation treated as partnership, etc.** For purposes of subparts A and F of part III, and part V, of subchapter N (relating to income from sources without the United States)—
 
@@ -1815,13 +1815,13 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 For purposes of section 904(f) (relating to recapture of overall foreign loss), the making or termination of an election to be treated as an S corporation shall be treated as a disposition of the business.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1682.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1682.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1373, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1652; amended Pub. L. 89–389, § 2(b)(3), Apr. 14, 1966, 80 Stat. 114; Pub. L. 91–172, title III, § 301(b)(10), Dec. 30, 1969, 83 Stat. 586, related to taxation of corporation undistributed taxable income to shareholders, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1373, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1652; amended Pub. L. 89–389, § 2(b)(3), Apr. 14, 1966, 80 Stat. 114; Pub. L. 91–172, title III, § 301(b)(10), Dec. 30, 1969, 83 Stat. 586, related to taxation of corporation undistributed taxable income to shareholders, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1829,7 +1829,7 @@ A prior section 1373, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958
 
 Section applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 
-### § 1374. Tax imposed on certain built-in gains
+### § 1374. Tax imposed on certain built-in gains
 
 **(a) General rule**
 
@@ -1965,21 +1965,21 @@ Any reference in this section to the 1st taxable year for which the corporation 
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, § 305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, § 102(d)(1), title IV, § 474(r)(27), title VII, § 721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, § 632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, § 1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, § 7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, § 1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, § 1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, § 2014(a), Sept. 27, 2010, 124 Stat. 2556; Pub. L. 112–240, title III, § 326(a), (b), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, § 138(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, § 127(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–97, title I, §§ 12002(c), 13001(b)(2)(N), Dec. 22, 2017, 131 Stat. 2095, 2097; Pub. L. 115–141, div. U, title IV, § 401(b)(33), Mar. 23, 2018, 132 Stat. 1204.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, § 305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, § 102(d)(1), title IV, § 474(r)(27), title VII, § 721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, § 632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, § 1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, § 7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, § 1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, § 1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, § 2014(a), Sept. 27, 2010, 124 Stat. 2556; Pub. L. 112–240, title III, § 326(a), (b), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, § 138(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, § 127(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–97, title I, §§ 12002(c), 13001(b)(2)(N), Dec. 22, 2017, 131 Stat. 2095, 2097; Pub. L. 115–141, div. U, title IV, § 401(b)(33), Mar. 23, 2018, 132 Stat. 1204.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1374, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1653; amended Pub. L. 86–376, § 2(b), Sept. 23, 1959, 73 Stat. 699; Pub. L. 94–455, title XIX, § 1901(a)(150), Oct. 4, 1976, 90 Stat. 1788, related to allowance to shareholders of corporation net operating loss, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1374, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1653; amended Pub. L. 86–376, § 2(b), Sept. 23, 1959, 73 Stat. 699; Pub. L. 94–455, title XIX, § 1901(a)(150), Oct. 4, 1976, 90 Stat. 1788, related to allowance to shareholders of corporation net operating loss, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 **Amendments**
 
 2018—Subsec. (d)(2)(B). Pub. L. 115–141 struck out at end “The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.”
 
-2017—Subsec. (b)(3)(B). Pub. L. 115–97, § 12002(c), struck out at end “A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
+2017—Subsec. (b)(3)(B). Pub. L. 115–97, § 12002(c), struck out at end “A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
 
-Subsec. (b)(4). Pub. L. 115–97, § 13001(b)(2)(N), struck out par. (4). Text read as follows: “For purposes of section 1201(a)—
+Subsec. (b)(4). Pub. L. 115–97, § 13001(b)(2)(N), struck out par. (4). Text read as follows: “For purposes of section 1201(a)—
 
 “(A) the tax imposed by subsection (a) shall be treated as if it were imposed by section 11, and
 
@@ -1989,11 +1989,11 @@ Subsec. (b)(4). Pub. L. 115–97, § 13001(b)(2)(N), struck out par. (4). Text
 
 2014—Subsec. (d)(7)(C). Pub. L. 113–295 substituted “2012, 2013, and 2014” for “2012 and 2013” in heading and “2012, 2013, or 2014” for “2012 or 2013” in text.
 
-2013—Subsec. (d)(2)(B). Pub. L. 112–240, § 326(b), inserted “described in subparagraph (A)” after “for any taxable year”.
+2013—Subsec. (d)(2)(B). Pub. L. 112–240, § 326(b), inserted “described in subparagraph (A)” after “for any taxable year”.
 
-Subsec. (d)(7)(C), (D). Pub. L. 112–240, § 326(a)(1), (2), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (d)(7)(C), (D). Pub. L. 112–240, § 326(a)(1), (2), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (d)(7)(E). Pub. L. 112–240, § 326(a)(3), added subpar. (E).
+Subsec. (d)(7)(E). Pub. L. 112–240, § 326(a)(3), added subpar. (E).
 
 2010—Subsec. (d)(7)(B). Pub. L. 111–240 amended subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any taxable year beginning in 2009 or 2010, no tax shall be imposed on the net recognized built-in gain of an S corporation if the 7th taxable year in the recognition period preceded such taxable year. The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.”
 
@@ -2001,39 +2001,39 @@ Subsec. (d)(7)(E). Pub. L. 112–240, § 326(a)(3), added subpar. (E).
 
 1997—Subsec. (d)(7). Pub. L. 105–34 inserted at end “For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
-1989—Subsec. (b)(3)(B). Pub. L. 101–239, § 7811(c)(8), inserted at end “A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
+1989—Subsec. (b)(3)(B). Pub. L. 101–239, § 7811(c)(8), inserted at end “A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
 
-Subsec. (d)(2)(A)(i). Pub. L. 101–239, § 7811(c)(4), struck out “(except as provided in subsection (b)(2))” after “taxable year if”.
+Subsec. (d)(2)(A)(i). Pub. L. 101–239, § 7811(c)(4), struck out “(except as provided in subsection (b)(2))” after “taxable year if”.
 
-Subsec. (d)(5)(B). Pub. L. 101–239, § 7811(c)(5)(B)(i), inserted “(determined without regard to any carryover)” after “during the recognition period”.
+Subsec. (d)(5)(B). Pub. L. 101–239, § 7811(c)(5)(B)(i), inserted “(determined without regard to any carryover)” after “during the recognition period”.
 
-Subsec. (d)(5)(C). Pub. L. 101–239, § 7811(c)(5)(B)(ii), substituted “which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period” for “treated as recognized built-in gains or losses under this paragraph”.
+Subsec. (d)(5)(C). Pub. L. 101–239, § 7811(c)(5)(B)(ii), substituted “which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period” for “treated as recognized built-in gains or losses under this paragraph”.
 
-1988—Subsec. (a). Pub. L. 100–647, § 1006(f)(1), inserted “net” before “recognized”.
+1988—Subsec. (a). Pub. L. 100–647, § 1006(f)(1), inserted “net” before “recognized”.
 
-Subsec. (b)(1). Pub. L. 100–647, § 1006(f)(2), added par. (1) and struck out former par. (1) which read as follows: “The tax imposed by subsection (a) shall be a tax computed by applying the highest rate of tax specified in section 11(b) to the lesser of—
+Subsec. (b)(1). Pub. L. 100–647, § 1006(f)(2), added par. (1) and struck out former par. (1) which read as follows: “The tax imposed by subsection (a) shall be a tax computed by applying the highest rate of tax specified in section 11(b) to the lesser of—
 
 “(A) the recognized built-in gains of the S corporation for the taxable year, or
 
 “(B) the amount which would be the taxable income of the corporation for such taxable year if such corporation were not an S corporation.”
 
-Subsec. (b)(2). Pub. L. 100–647, § 1006(f)(2), added par. (2) and struck out former par. (2) which read as follows: “Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed as a deduction against the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1). For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1) shall be treated as taxable income.”
+Subsec. (b)(2). Pub. L. 100–647, § 1006(f)(2), added par. (2) and struck out former par. (2) which read as follows: “Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed as a deduction against the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1). For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1) shall be treated as taxable income.”
 
-Subsec. (b)(4)(B). Pub. L. 100–647, § 1006(f)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the lower of the amounts specified in subparagraphs (A) and (B) of paragraph (1) shall be treated as the taxable income.”
+Subsec. (b)(4)(B). Pub. L. 100–647, § 1006(f)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the lower of the amounts specified in subparagraphs (A) and (B) of paragraph (1) shall be treated as the taxable income.”
 
-Subsec. (c)(2). Pub. L. 100–647, § 1006(f)(4), which directed amendment of par. (2) by substituting “net recognized built-in gain” for “recognized built-in gains” wherever appearing, was executed by making the substitution in heading as well as in introductory provisions and in subpar. (B), to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 100–647, § 1006(f)(4), which directed amendment of par. (2) by substituting “net recognized built-in gain” for “recognized built-in gains” wherever appearing, was executed by making the substitution in heading as well as in introductory provisions and in subpar. (B), to reflect the probable intent of Congress.
 
-Subsec. (d)(2) to (9). Pub. L. 100–647, § 1006(f)(5)(A), added pars. (2) to (9) and struck out former pars. (2), (3), and (4), which related to recognized built-in gain, recognition period, and taxable income, respectively.
+Subsec. (d)(2) to (9). Pub. L. 100–647, § 1006(f)(5)(A), added pars. (2) to (9) and struck out former pars. (2), (3), and (4), which related to recognized built-in gain, recognition period, and taxable income, respectively.
 
-Subsec. (e). Pub. L. 100–647, § 1006(f)(5)(A), added subsec. (e).
+Subsec. (e). Pub. L. 100–647, § 1006(f)(5)(A), added subsec. (e).
 
 1986—Pub. L. 99–514 amended section generally, substituting provisions imposing tax on certain built-in gains for provisions imposing tax on certain capital gains which had declared in: subsec. (a), general rule for capital gains tax on S corporations; subsec. (b), amount of tax; subsec. (c), general rule as to exceptions from subsec. (a) in par. (1), exception as to new corporations in par. (2), provisions relating to property with substituted basis in par. (3), and treatment of certain gains of options and commodities dealers in par. (4); and subsec. (d), determination of taxable income of corporation.
 
-1984—Subsec. (b). Pub. L. 98–369, § 474(r)(27), substituted “section 34” for “section 39” in provisions following par. (2).
+1984—Subsec. (b). Pub. L. 98–369, § 474(r)(27), substituted “section 34” for “section 39” in provisions following par. (2).
 
-Subsec. (c)(2). Pub. L. 98–369, § 721(u), struck out “(and any predecessor corporation)” before “has been in existence” in subpar. (A), and inserted provision that to the extent provided in regulations, an S corporation and any predecessor corporation shall be treated as 1 corporation for purposes of this paragraph and paragraph (1).
+Subsec. (c)(2). Pub. L. 98–369, § 721(u), struck out “(and any predecessor corporation)” before “has been in existence” in subpar. (A), and inserted provision that to the extent provided in regulations, an S corporation and any predecessor corporation shall be treated as 1 corporation for purposes of this paragraph and paragraph (1).
 
-Subsec. (c)(4). Pub. L. 98–369, § 102(d)(1), added par. (4).
+Subsec. (c)(4). Pub. L. 98–369, § 102(d)(1), added par. (4).
 
 1983—Subsec. (d). Pub. L. 97–448 substituted “this section” for “subsections (a)(2) and (b)(2)”.
 
@@ -2047,23 +2047,23 @@ Amendment by section 13001(b)(2)(N) of Pub. L. 115–97 applicable to taxable ye
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title I, § 127(b), Dec. 18, 2015, 129 Stat. 3054, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2014.”
+Pub. L. 114–113, div. Q, title I, § 127(b), Dec. 18, 2015, 129 Stat. 3054, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2014.”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. A, title I, § 138(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2013.”
+Pub. L. 113–295, div. A, title I, § 138(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2013.”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–240, title III, § 326(c), Jan. 2, 2013, 126 Stat. 2334, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2011.”
+Pub. L. 112–240, title III, § 326(c), Jan. 2, 2013, 126 Stat. 2334, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2011.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–240, title II, § 2014(b), Sept. 27, 2010, 124 Stat. 2556, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2010.”
+Pub. L. 111–240, title II, § 2014(b), Sept. 27, 2010, 124 Stat. 2556, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2010.”
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–5, div. B, title I, § 1251(b), Feb. 17, 2009, 123 Stat. 342, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, § 1251(b), Feb. 17, 2009, 123 Stat. 342, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2008.”
 
 **Effective Date of 1997 Amendment**
 
@@ -2101,7 +2101,7 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
-### § 1375. Tax imposed when passive investment income of corporation having accumulated earnings and profits exceeds 25 percent of gross receipts
+### § 1375. Tax imposed when passive investment income of corporation having accumulated earnings and profits exceeds 25 percent of gross receipts
 
 **(a) General rule** If for the taxable year an S corporation has—
 
@@ -2153,39 +2153,39 @@ No credit shall be allowed under part IV of subchapter A of this chapter (other 
 
 the Secretary may waive the tax imposed by subsection (a) for such taxable year.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV, § 474(r)(28), title VII, § 721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, § 632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, § 1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, § 1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784; Pub. L. 109–135, title IV, § 412(qq), Dec. 21, 2005, 119 Stat. 2640.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV, § 474(r)(28), title VII, § 721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, § 632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, § 1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, § 1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784; Pub. L. 109–135, title IV, § 412(qq), Dec. 21, 2005, 119 Stat. 2640.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1375, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1654; amended Pub. L. 88–272, title II, §§ 201(d)(13), 233(b), Feb. 26, 1964, 78 Stat. 32, 112; Pub. L. 89–389, §§ 1(a), (b), 2(b)(4), Apr. 14, 1966, 80 Stat. 111, 114; Pub. L. 91–172, title III, § 301(b)(11), Dec. 30, 1969, 83 Stat. 586; Pub. L. 94–455, title XIX, §§ 1901(a)(151), (b)(33)(Q), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1802, 1834; Pub. L. 95–600, title VII, § 703(j)(6), Nov. 6, 1978, 92 Stat. 2941, related to special rules applicable to distributions of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1375, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1654; amended Pub. L. 88–272, title II, §§ 201(d)(13), 233(b), Feb. 26, 1964, 78 Stat. 32, 112; Pub. L. 89–389, §§ 1(a), (b), 2(b)(4), Apr. 14, 1966, 80 Stat. 111, 114; Pub. L. 91–172, title III, § 301(b)(11), Dec. 30, 1969, 83 Stat. 586; Pub. L. 94–455, title XIX, §§ 1901(a)(151), (b)(33)(Q), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1802, 1834; Pub. L. 95–600, title VII, § 703(j)(6), Nov. 6, 1978, 92 Stat. 2941, related to special rules applicable to distributions of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
-A prior section 1376, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1655, related to adjustment to basis of stock of, and indebtedness owing, shareholders, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1376, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1655, related to adjustment to basis of stock of, and indebtedness owing, shareholders, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 **Amendments**
 
 2005—Subsec. (d)(1), (2). Pub. L. 109–135 substituted “accumulated” for “subchapter C”.
 
-1996—Pub. L. 104–188, § 1311(b)(2)(C), substituted “accumulated” for “subchapter C” in section catchline.
+1996—Pub. L. 104–188, § 1311(b)(2)(C), substituted “accumulated” for “subchapter C” in section catchline.
 
-Subsec. (a)(1). Pub. L. 104–188, § 1311(b)(2)(A), substituted “accumulated” for “subchapter C”.
+Subsec. (a)(1). Pub. L. 104–188, § 1311(b)(2)(A), substituted “accumulated” for “subchapter C”.
 
-Subsec. (b)(3). Pub. L. 104–188, § 1311(b)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
+Subsec. (b)(3). Pub. L. 104–188, § 1311(b)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
 “(3) Passive investment income; etc.—The terms ‘subchapter C earnings and profits’, ‘passive investment income’, and ‘gross receipts’ shall have the same respective meanings as when used in paragraph (3) of section 1362(d).”
 
-1988—Subsec. (b)(1)(B). Pub. L. 100–647, § 1006(f)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The amount of the excess net passive income for any taxable year shall not exceed the corporation’s taxable income for the taxable year (determined in accordance with section 1374(d)(4)).”
+1988—Subsec. (b)(1)(B). Pub. L. 100–647, § 1006(f)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The amount of the excess net passive income for any taxable year shall not exceed the corporation’s taxable income for the taxable year (determined in accordance with section 1374(d)(4)).”
 
-Subsec. (b)(4). Pub. L. 100–647, § 1006(f)(5)(C), added par. (4).
+Subsec. (b)(4). Pub. L. 100–647, § 1006(f)(5)(C), added par. (4).
 
-Subsec. (c). Pub. L. 100–647, § 1006(f)(5)(D), amended subsec. (c) generally, in heading substituting “Credits not allowable” for “Special rules”, and in text substituting “No credit” for “(1) Disallowance of credit.—No credit”, and striking out par. (2) which related to coordination with section 1374.
+Subsec. (c). Pub. L. 100–647, § 1006(f)(5)(D), amended subsec. (c) generally, in heading substituting “Credits not allowable” for “Special rules”, and in text substituting “No credit” for “(1) Disallowance of credit.—No credit”, and striking out par. (2) which related to coordination with section 1374.
 
 1986—Subsec. (b)(1)(B). Pub. L. 99–514 substituted “section 1374(d)(4)” for “section 1374(d)”.
 
-1984—Subsec. (c)(1). Pub. L. 98–369, § 474(r)(28), substituted “section 34” for “section 39”.
+1984—Subsec. (c)(1). Pub. L. 98–369, § 474(r)(28), substituted “section 34” for “section 39”.
 
-Subsec. (d). Pub. L. 98–369, § 721(v), added subsec. (d).
+Subsec. (d). Pub. L. 98–369, § 721(v), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2213,7 +2213,7 @@ This section applicable to taxable years beginning after Dec. 31, 1982, except t
 
 ## PART IV—DEFINITIONS; MISCELLANEOUS
 
-### § 1377. Definitions and special rule
+### § 1377. Definitions and special rule
 
 **(a) Pro rata share** For purposes of this subchapter—
 
@@ -2267,23 +2267,23 @@ Paragraph (1)(B) shall apply to a distribution described in section 1371(e) only
 
 Any election under this subchapter, and any revocation under section 1362(d)(1), shall be made in such manner as the Secretary shall by regulations prescribe.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 104–188, title I, §§ 1306–1307(b), Aug. 20, 1996, 110 Stat. 1780; Pub. L. 108–311, title IV, § 407(a), Oct. 4, 2004, 118 Stat. 1190.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 104–188, title I, §§ 1306–1307(b), Aug. 20, 1996, 110 Stat. 1780; Pub. L. 108–311, title IV, § 407(a), Oct. 4, 2004, 118 Stat. 1190.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1377, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1656; amended Pub. L. 94–455, title IX, § 902(b)(1), title XIX, § 1901(b)(32)(B)(iv), Oct. 4, 1976, 90 Stat. 1608, 1800, related to special rules applicable to earnings and profits of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1377, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1656; amended Pub. L. 94–455, title IX, § 902(b)(1), title XIX, § 1901(b)(32)(B)(iv), Oct. 4, 1976, 90 Stat. 1608, 1800, related to special rules applicable to earnings and profits of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 **Amendments**
 
 2004—Subsec. (b)(3). Pub. L. 108–311 added par. (3).
 
-1996—Subsec. (a)(2). Pub. L. 104–188, § 1306, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary, if any shareholder terminates his interest in the corporation during the taxable year and all persons who are shareholders during the taxable year agree to the application of this paragraph, paragraph (1) shall be applied as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.”
+1996—Subsec. (a)(2). Pub. L. 104–188, § 1306, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary, if any shareholder terminates his interest in the corporation during the taxable year and all persons who are shareholders during the taxable year agree to the application of this paragraph, paragraph (1) shall be applied as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.”
 
-Subsec. (b)(1)(A) to (C). Pub. L. 104–188, § 1307(a), struck out “and” at end of subpar. (A)(ii), added subpar. (B), and redesignated former subpar. (B) as (C).
+Subsec. (b)(1)(A) to (C). Pub. L. 104–188, § 1307(a), struck out “and” at end of subpar. (A)(ii), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-Subsec. (b)(2)(A) to (C). Pub. L. 104–188, § 1307(b), added subpar. (A), redesignated subpar. (C) as (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (b)(2)(A) to (C). Pub. L. 104–188, § 1307(b), added subpar. (A), redesignated subpar. (C) as (B), and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) a court decision which becomes final,
 
@@ -2297,7 +2297,7 @@ Amendment by Pub. L. 108–311 effective as if included in the provisions of the
 
 **Effective Date of 1996 Amendments**
 
-Pub. L. 105–34, title XVI, § 1601(c)(2), Aug. 5, 1997, 111 Stat. 1087, provided that:
+Pub. L. 105–34, title XVI, § 1601(c)(2), Aug. 5, 1997, 111 Stat. 1087, provided that:
 
 > **“(A)** Notwithstanding section 1317 of the Small Business Job Protection Act of 1996 [Pub. L. 104–188, enacting provisions set out as notes under sections 641 and 1362 of this title], the amendments made by subsections (a) and (b) of section 1307 of such Act [amending this section] shall apply to determinations made after December 31, 1996.
 
@@ -2309,7 +2309,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 Section applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 
-### § 1378. Taxable year of S corporation
+### § 1378. Taxable year of S corporation
 
 **(a) General rule**
 
@@ -2323,35 +2323,35 @@ For purposes of this subtitle, the taxable year of an S corporation shall be a p
 
 For purposes of paragraph (2), any deferral of income to shareholders shall not be treated as a business purpose.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 98–369, div. A, title VII, § 721(m), (q), July 18, 1984, 98 Stat. 969, 970; Pub. L. 99–514, title VIII, § 806(b), Oct. 22, 1986, 100 Stat. 2363.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 98–369, div. A, title VII, § 721(m), (q), July 18, 1984, 98 Stat. 969, 970; Pub. L. 99–514, title VIII, § 806(b), Oct. 22, 1986, 100 Stat. 2363.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1378, added Pub. L. 89–389, § 2(a), Apr. 14, 1966, 80 Stat. 113; amended Pub. L. 91–172, title V, § 511(c)(4), Dec. 30, 1969, 83 Stat. 638; Pub. L. 94–455, title XIX, § 1901(a)(152), (b)(33)(R), Oct. 4, 1976, 90 Stat. 1789, 1802, related to tax imposed on certain capital gains, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1378, added Pub. L. 89–389, § 2(a), Apr. 14, 1966, 80 Stat. 113; amended Pub. L. 91–172, title V, § 511(c)(4), Dec. 30, 1969, 83 Stat. 638; Pub. L. 94–455, title XIX, § 1901(a)(152), (b)(33)(R), Oct. 4, 1976, 90 Stat. 1789, 1802, related to tax imposed on certain capital gains, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–514, § 806(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subtitle—
+1986—Subsec. (a). Pub. L. 99–514, § 806(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subtitle—
 
 “(1) an S corporation shall not change its taxable year to any accounting period other than a permitted year, and
 
 “(2) no corporation may make an election under section 1362(a) for any taxable year unless such taxable year is a permitted year.”
 
-Subsec. (b). Pub. L. 99–514, § 806(b)(2), inserted at end “For purposes of paragraph (2), any deferral of income to shareholders shall not be treated as a business purpose.”
+Subsec. (b). Pub. L. 99–514, § 806(b)(2), inserted at end “For purposes of paragraph (2), any deferral of income to shareholders shall not be treated as a business purpose.”
 
-Subsec. (c). Pub. L. 99–514, § 806(b)(3), struck out subsec. (c) which required existing S corporations to use permitted year after 50-percent shift in ownership.
+Subsec. (c). Pub. L. 99–514, § 806(b)(3), struck out subsec. (c) which required existing S corporations to use permitted year after 50-percent shift in ownership.
 
-1984—Subsec. (c)(1). Pub. L. 98–369, § 721(m), substituted “which includes December 31, 1982 (or which is an S corporation for a taxable year beginning during 1983 by reason of an election made on or before October 19, 1982)” for “which includes December 31, 1982”.
+1984—Subsec. (c)(1). Pub. L. 98–369, § 721(m), substituted “which includes December 31, 1982 (or which is an S corporation for a taxable year beginning during 1983 by reason of an election made on or before October 19, 1982)” for “which includes December 31, 1982”.
 
-Subsec. (c)(3)(B)(i). Pub. L. 98–369, § 721(q), substituted “who (or whose estate) held” for “who held”.
+Subsec. (c)(3)(B)(i). Pub. L. 98–369, § 721(q), substituted “who (or whose estate) held” for “who held”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title VIII, § 806(e), Oct. 22, 1986, 100 Stat. 2364, as amended by Pub. L. 100–647, title I, § 1008(e)(7), (8), (10), Nov. 10, 1988, 102 Stat. 3441, provided that:
+Pub. L. 99–514, title VIII, § 806(e), Oct. 22, 1986, 100 Stat. 2364, as amended by Pub. L. 100–647, title I, § 1008(e)(7), (8), (10), Nov. 10, 1988, 102 Stat. 3441, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 267, 441, and 706 of this title] shall apply to taxable years beginning after December 31, 1986.
 
@@ -2381,9 +2381,9 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 
 **Construction of Section 806 of Pub. L. 99–514**
 
-Pub. L. 100–647, title I, § 1008(e)(9), Nov. 10, 1988, 102 Stat. 3441, provided that: “Nothing in section 806 of the Reform Act [Pub. L. 99–514, amending this section and sections 267, 441, and 706 of this title and enacting provisions set out above] or in any legislative history relating thereto shall be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year.”
+Pub. L. 100–647, title I, § 1008(e)(9), Nov. 10, 1988, 102 Stat. 3441, provided that: “Nothing in section 806 of the Reform Act [Pub. L. 99–514, amending this section and sections 267, 441, and 706 of this title and enacting provisions set out above] or in any legislative history relating thereto shall be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year.”
 
-### § 1379. Transitional rules on enactment
+### § 1379. Transitional rules on enactment
 
 **(a) Old elections**
 
@@ -2411,7 +2411,7 @@ The term “last preenactment year” means the last taxable year of a corporati
 
 The term “1st postenactment year” means the 1st taxable year of a corporation which begins after December 31, 1982.
 
-(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1686; amended Pub. L. 98–369, div. A, title VII, § 721(n), July 18, 1984, 98 Stat. 969.)
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1686; amended Pub. L. 98–369, div. A, title VII, § 721(n), July 18, 1984, 98 Stat. 969.)
 
 **Editorial Notes**
 
@@ -2421,7 +2421,7 @@ The enactment of the Subchapter S Revision Act of 1982, referred to in subsecs. 
 
 **Prior Provisions**
 
-A prior section 1379, added Pub. L. 91–172, title V, § 531(a), Dec. 30, 1969, 83 Stat. 654; amended Pub. L. 93–406, title II, § 2001(b), Sept. 2, 1974, 88 Stat. 952; Pub. L. 97–34, title III, § 312(c)(6), Aug. 13, 1981, 95 Stat. 284; Pub. L. 97–248, title II, § 238(c), Sept. 3, 1982, 96 Stat. 513, related to certain qualified pension, etc., plans, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1379, added Pub. L. 91–172, title V, § 531(a), Dec. 30, 1969, 83 Stat. 654; amended Pub. L. 93–406, title II, § 2001(b), Sept. 2, 1974, 88 Stat. 952; Pub. L. 97–34, title III, § 312(c)(6), Aug. 13, 1981, 95 Stat. 284; Pub. L. 97–248, title II, § 238(c), Sept. 3, 1982, 96 Stat. 513, related to certain qualified pension, etc., plans, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 **Amendments**
 

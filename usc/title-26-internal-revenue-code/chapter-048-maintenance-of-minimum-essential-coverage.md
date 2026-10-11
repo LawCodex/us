@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 48—MAINTENANCE OF MINIMUM ESSENTIAL COVERAGE
 
-## § 5000A. Requirement to maintain minimum essential coverage
+## § 5000A. Requirement to maintain minimum essential coverage
 
 **(a) Requirement to maintain minimum essential coverage**
 
@@ -165,9 +165,9 @@ Any applicable individual for any month if the applicable individual’s require
 
 **(C) Special rules for individuals related to employees**
 
-For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to 1
+For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 required contribution of the employee.
 
@@ -215,13 +215,13 @@ Any applicable individual who for any month is determined by the Secretary of He
 
 **(iii)** the CHIP program under title XXI of the Social Security Act or under a qualified CHIP look-alike program (as defined in section 2107(g) of the Social Security Act),
 
-**(iv)** medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; 2
+**(iv)** medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; 2
 
-<sup>2</sup>  So in original. The semicolon probably should be a comma.
+<sup>2</sup> So in original. The semicolon probably should be a comma.
 
 **(v)** a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary,
 
-**(vi)** a health plan under section 2504(e) of title 22, United States Code (relating to Peace Corps volunteers); <sup>2</sup> or
+**(vi)** a health plan under section 2504(e) of title 22, United States Code (relating to Peace Corps volunteers); <sup>2</sup> or
 
 **(vii)** the Nonappropriated Fund Health Benefits Program of the Department of Defense, established under section 349 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1587 note).
 
@@ -283,11 +283,11 @@ In the case of any failure by a taxpayer to timely pay any penalty imposed by th
 
 **(ii)** levy on any such property with respect to such failure.
 
-(Added and amended Pub. L. 111–148, title I, § 1501(b), title X, § 10106(b)–(d), Mar. 23, 2010, 124 Stat. 244, 909, 910; Pub. L. 111–152, title I, §§ 1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, 124 Stat. 1032, 1034; Pub. L. 111–159, § 2(a), Apr. 26, 2010, 124 Stat. 1123; Pub. L. 111–173, § 1(a), May 27, 2010, 124 Stat. 1215; Pub. L. 115–97, title I, §§ 11002(d)(1)(GG), 11081(a), Dec. 22, 2017, 131 Stat. 2060, 2092; Pub. L. 115–120, div. C, § 3002(g)(2)(A), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–271, title IV, § 4003(a), Oct. 24, 2018, 132 Stat. 3959; Pub. L. 119–21, title VII, § 71301(d), July 4, 2025, 139 Stat. 322.)
+(Added and amended Pub. L. 111–148, title I, § 1501(b), title X, § 10106(b)–(d), Mar. 23, 2010, 124 Stat. 244, 909, 910; Pub. L. 111–152, title I, §§ 1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, 124 Stat. 1032, 1034; Pub. L. 111–159, § 2(a), Apr. 26, 2010, 124 Stat. 1123; Pub. L. 111–173, § 1(a), May 27, 2010, 124 Stat. 1215; Pub. L. 115–97, title I, §§ 11002(d)(1)(GG), 11081(a), Dec. 22, 2017, 131 Stat. 2060, 2092; Pub. L. 115–120, div. C, § 3002(g)(2)(A), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–271, title IV, § 4003(a), Oct. 24, 2018, 132 Stat. 3959; Pub. L. 119–21, title VII, § 71301(d), July 4, 2025, 139 Stat. 322.)
 
 **Amendment of Subsection (d)(3)**
 
-Pub. L. 119–21, title VII, § 71301(d), (e), July 4, 2025, 139 Stat. 322, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (d)(3) of this section is amended by striking “an alien lawfully present in the United States” and inserting “an eligible alien (within the meaning of section 36B(e)(2))”. See 2025 Amendment notes below.
+Pub. L. 119–21, title VII, § 71301(d), (e), July 4, 2025, 139 Stat. 322, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (d)(3) of this section is amended by striking “an alien lawfully present in the United States” and inserting “an eligible alien (within the meaning of section 36B(e)(2))”. See 2025 Amendment notes below.
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -299,7 +299,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 The Patient Protection and Affordable Care Act and such Act, referred to in subsecs. (d)(2)(A), (e)(1)(A), (2), and (f)(5), are Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Title I of the Act enacted chapter 157 of Title 42, The Public Health and Welfare, and enacted, amended, and transferred numerous other sections and notes in the Code. Sections 1311(d)(4)(H), 1411(b)(5)(A), and 1412(b)(1)(B) of the Act are classified to sections 18031(d)(4)(H), 18081(b)(5)(A), and 18082(b)(1)(B), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (f)(1)(A)(i) to (iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Section 2107(g) of the Act is classified to section 1397gg(g) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(1)(A)(i) to (iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Section 2107(g) of the Act is classified to section 1397gg(g) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A), (3), is classified to section 300gg–91 of Title 42, The Public Health and Welfare.
 
@@ -315,11 +315,11 @@ Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A),
 
 Subsec. (f)(1)(A)(iii). Pub. L. 115–120 inserted “or under a qualified CHIP look-alike program (as defined in section 2107(g) of the Social Security Act)” before comma at end.
 
-2017—Subsec. (c)(2)(B)(iii). Pub. L. 115–97, § 11081(a)(1), substituted “Zero percent” for “2.5 percent”.
+2017—Subsec. (c)(2)(B)(iii). Pub. L. 115–97, § 11081(a)(1), substituted “Zero percent” for “2.5 percent”.
 
-Subsec. (c)(3)(A). Pub. L. 115–97, § 11081(a)(2)(A), substituted “$0” for “$695”.
+Subsec. (c)(3)(A). Pub. L. 115–97, § 11081(a)(2)(A), substituted “$0” for “$695”.
 
-Subsec. (c)(3)(D). Pub. L. 115–97, § 11081(a)(2)(B), struck out subpar. (D). Text read as follows: “In the case of any calendar year beginning after 2016, the applicable dollar amount shall be equal to $695, increased by an amount equal to—
+Subsec. (c)(3)(D). Pub. L. 115–97, § 11081(a)(2)(B), struck out subpar. (D). Text read as follows: “In the case of any calendar year beginning after 2016, the applicable dollar amount shall be equal to $695, increased by an amount equal to—
 
 “(i) $695, multiplied by
 
@@ -327,31 +327,31 @@ Subsec. (c)(3)(D). Pub. L. 115–97, § 11081(a)(2)(B), struck out subpar. (D)
 
 If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.”
 
-Subsec. (c)(3)(D)(ii). Pub. L. 115–97, § 11002(d)(1)(GG), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+Subsec. (c)(3)(D)(ii). Pub. L. 115–97, § 11002(d)(1)(GG), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
 
-2010—Subsec. (b)(1). Pub. L. 111–148, § 10106(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “If an applicable individual fails to meet the requirement of subsection (a) for 1 or more months during any calendar year beginning after 2013, then, except as provided in subsection (d), there is hereby imposed a penalty with respect to the individual in the amount determined under subsection (c).”
+2010—Subsec. (b)(1). Pub. L. 111–148, § 10106(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “If an applicable individual fails to meet the requirement of subsection (a) for 1 or more months during any calendar year beginning after 2013, then, except as provided in subsection (d), there is hereby imposed a penalty with respect to the individual in the amount determined under subsection (c).”
 
-Subsec. (c)(1), (2). Pub. L. 111–148, § 10106(b)(2), amended pars. (1) and (2) generally. Prior to amendment pars. (1) and (2) related to the amount of and dollar limitations on penalty for failure to maintain minimum essential coverage.
+Subsec. (c)(1), (2). Pub. L. 111–148, § 10106(b)(2), amended pars. (1) and (2) generally. Prior to amendment pars. (1) and (2) related to the amount of and dollar limitations on penalty for failure to maintain minimum essential coverage.
 
-Subsec. (c)(2)(B). Pub. L. 111–152, § 1002(a)(1)(A), inserted “the excess of” before “the taxpayer’s household income” and “for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer” before “for the taxable year” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 111–152, § 1002(a)(1)(A), inserted “the excess of” before “the taxpayer’s household income” and “for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer” before “for the taxable year” in introductory provisions.
 
-Subsec. (c)(2)(B)(i). Pub. L. 111–152, § 1002(a)(1)(B), substituted “1.0” for “0.5”.
+Subsec. (c)(2)(B)(i). Pub. L. 111–152, § 1002(a)(1)(B), substituted “1.0” for “0.5”.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 111–152, § 1002(a)(1)(C), substituted “2.0” for “1.0”.
+Subsec. (c)(2)(B)(ii). Pub. L. 111–152, § 1002(a)(1)(C), substituted “2.0” for “1.0”.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 111–152, § 1002(a)(1)(D), substituted “2.5” for “2.0”.
+Subsec. (c)(2)(B)(iii). Pub. L. 111–152, § 1002(a)(1)(D), substituted “2.5” for “2.0”.
 
-Subsec. (c)(3)(A). Pub. L. 111–152, § 1002(a)(2)(A), substituted “$695” for “$750”.
+Subsec. (c)(3)(A). Pub. L. 111–152, § 1002(a)(2)(A), substituted “$695” for “$750”.
 
-Subsec. (c)(3)(B). Pub. L. 111–152, § 1002(a)(2)(B), substituted “$325” for “$495”.
+Subsec. (c)(3)(B). Pub. L. 111–152, § 1002(a)(2)(B), substituted “$325” for “$495”.
 
-Pub. L. 111–148, § 10106(b)(3), substituted “$495” for “$350”.
+Pub. L. 111–148, § 10106(b)(3), substituted “$495” for “$350”.
 
-Subsec. (c)(3)(D). Pub. L. 111–152, § 1002(a)(2)(C), substituted “$695” for “$750” in introductory provisions and cl. (i).
+Subsec. (c)(3)(D). Pub. L. 111–152, § 1002(a)(2)(C), substituted “$695” for “$750” in introductory provisions and cl. (i).
 
-Subsec. (c)(4)(B)(i), (ii). Pub. L. 111–152, § 1004(a)(1)(C), substituted “modified adjusted gross” for “modified gross”.
+Subsec. (c)(4)(B)(i), (ii). Pub. L. 111–152, § 1004(a)(1)(C), substituted “modified adjusted gross” for “modified gross”.
 
-Subsec. (c)(4)(C). Pub. L. 111–152, § 1004(a)(2)(B), amended subpar. (C) generally. Prior to amendment, text read as follows: “The term ‘modified gross income’ means gross income—
+Subsec. (c)(4)(C). Pub. L. 111–152, § 1004(a)(2)(B), amended subpar. (C) generally. Prior to amendment, text read as follows: “The term ‘modified gross income’ means gross income—
 
 “(i) decreased by the amount of any deduction allowable under paragraph (1), (3), (4), or (10) of section 62(a),
 
@@ -359,23 +359,23 @@ Subsec. (c)(4)(C). Pub. L. 111–152, § 1004(a)(2)(B), amended subpar. (C) ge
 
 “(iii) determined without regard to sections 911, 931, and 933.”
 
-Subsec. (c)(4)(D). Pub. L. 111–152, § 1002(b)(1), struck out subpar. (D). Text read as follows:
+Subsec. (c)(4)(D). Pub. L. 111–152, § 1002(b)(1), struck out subpar. (D). Text read as follows:
 
 “(i) In general.—The term ‘poverty line’ has the meaning given that term in section 2110(c)(5) of the Social Security Act (42 U.S.C. 1397jj(c)(5)).
 
 “(ii) Poverty line used.—In the case of any taxable year ending with or within a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of such calendar year.”
 
-Subsec. (d)(2)(A). Pub. L. 111–148, § 10106(c), amended subpar. (A) generally. Prior to amendment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section.”
+Subsec. (d)(2)(A). Pub. L. 111–148, § 10106(c), amended subpar. (A) generally. Prior to amendment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section.”
 
-Subsec. (e)(1)(C). Pub. L. 111–148, § 10106(d), amended subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination shall be made by reference to the affordability of the coverage to the employee.”
+Subsec. (e)(1)(C). Pub. L. 111–148, § 10106(d), amended subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination shall be made by reference to the affordability of the coverage to the employee.”
 
-Subsec. (e)(2). Pub. L. 111–152, § 1002(b)(2), substituted “below filing threshold” for “under 100 percent of poverty line” in heading and “the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer.” for “100 percent of the poverty line for the size of the family involved (determined in the same manner as under subsection (b)(4)).” in text.
+Subsec. (e)(2). Pub. L. 111–152, § 1002(b)(2), substituted “below filing threshold” for “under 100 percent of poverty line” in heading and “the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer.” for “100 percent of the poverty line for the size of the family involved (determined in the same manner as under subsection (b)(4)).” in text.
 
-Subsec. (f)(1)(A)(iv). Pub. L. 111–159, § 2(a)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: “the TRICARE for Life program,”.
+Subsec. (f)(1)(A)(iv). Pub. L. 111–159, § 2(a)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: “the TRICARE for Life program,”.
 
-Subsec. (f)(1)(A)(v). Pub. L. 111–173, § 1(a), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “the veteran’s health care program under chapter 17 of title 38, United States Code,”.
+Subsec. (f)(1)(A)(v). Pub. L. 111–173, § 1(a), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “the veteran’s health care program under chapter 17 of title 38, United States Code,”.
 
-Subsec. (f)(1)(A)(vii). Pub. L. 111–159, § 2(a)(2)–(4), added cl. (vii).
+Subsec. (f)(1)(A)(vii). Pub. L. 111–159, § 2(a)(2)–(4), added cl. (vii).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -385,26 +385,26 @@ Amendment by Pub. L. 119–21, applicable to taxable years beginning after Dec. 
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–271, title IV, § 4003(b), Oct. 24, 2018, 132 Stat. 3960, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2018.”
+Pub. L. 115–271, title IV, § 4003(b), Oct. 24, 2018, 132 Stat. 3960, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2018.”
 
-Pub. L. 115–120, div. C, § 3002(g)(2)(B), Jan. 22, 2018, 132 Stat. 35, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply with respect to taxable years beginning after December 31, 2017.”
+Pub. L. 115–120, div. C, § 3002(g)(2)(B), Jan. 22, 2018, 132 Stat. 35, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply with respect to taxable years beginning after December 31, 2017.”
 
 **Effective Date of 2017 Amendment**
 
 Amendment by section 11002(d)(1)(GG) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Pub. L. 115–97, title I, § 11081(b), Dec. 22, 2017, 131 Stat. 2092, provided that: “The amendments made by this section [amending this section] shall apply to months beginning after December 31, 2018.”
+Pub. L. 115–97, title I, § 11081(b), Dec. 22, 2017, 131 Stat. 2092, provided that: “The amendments made by this section [amending this section] shall apply to months beginning after December 31, 2018.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–173, § 1(b), May 27, 2010, 124 Stat. 1215, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act [Pub. L. 111–148].”
+Pub. L. 111–173, § 1(b), May 27, 2010, 124 Stat. 1215, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act [Pub. L. 111–148].”
 
-Pub. L. 111–159, § 2(b), Apr. 26, 2010, 124 Stat. 1123, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act [Pub. L. 111–148] and shall be executed immediately after the amendments made by such section 1501(b).”
+Pub. L. 111–159, § 2(b), Apr. 26, 2010, 124 Stat. 1123, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act [Pub. L. 111–148] and shall be executed immediately after the amendments made by such section 1501(b).”
 
 **Effective Date**
 
-Pub. L. 111–148, title I, § 1501(d), Mar. 23, 2010, 124 Stat. 249, provided that: “The amendments made by this section [enacting this section and section 18091 of Title 42, The Public Health and Welfare] shall apply to taxable years ending after December 31, 2013.”
+Pub. L. 111–148, title I, § 1501(d), Mar. 23, 2010, 124 Stat. 249, provided that: “The amendments made by this section [enacting this section and section 18091 of Title 42, The Public Health and Welfare] shall apply to taxable years ending after December 31, 2013.”
 
 **Construction of 2018 Amendment**
 
-Pub. L. 115–271, title IV, § 4003(c), Oct. 24, 2018, 132 Stat. 3960, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall preempt any State law requiring the provision of medical treatment for children, especially those who are seriously ill.”
+Pub. L. 115–271, title IV, § 4003(c), Oct. 24, 2018, 132 Stat. 3960, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall preempt any State law requiring the provision of medical treatment for children, especially those who are seriously ill.”

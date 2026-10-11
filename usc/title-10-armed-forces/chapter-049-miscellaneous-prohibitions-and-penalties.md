@@ -19,73 +19,73 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title V, §§ 522, 523(b), Dec. 22, 2023, 137 Stat. 249, 252, added items 986 and 989. Addition of item 986 was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title V, §§ 522, 523(b), Dec. 22, 2023, 137 Stat. 249, 252, added items 986 and 989. Addition of item 986 was made pursuant to operation of section 102 of this title.
 
-2019—Pub. L. 116–92, div. A, title IX, § 921(b), Dec. 20, 2019, 133 Stat. 1561, added item 988.
+2019—Pub. L. 116–92, div. A, title IX, § 921(b), Dec. 20, 2019, 133 Stat. 1561, added item 988.
 
-2016—Pub. L. 114–328, div. A, title VII, § 721(a)(2), Dec. 23, 2016, 130 Stat. 2228, added item 977.
+2016—Pub. L. 114–328, div. A, title VII, § 721(a)(2), Dec. 23, 2016, 130 Stat. 2228, added item 977.
 
-2009—Pub. L. 111–84, div. A, title V, § 591(b), Oct. 28, 2009, 123 Stat. 2337, substituted “Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians” for “Uniform performance policies for military bands and other musical units” in item 974.
+2009—Pub. L. 111–84, div. A, title V, § 591(b), Oct. 28, 2009, 123 Stat. 2337, substituted “Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians” for “Uniform performance policies for military bands and other musical units” in item 974.
 
-2008—Pub. L. 110–181, div. A, title V, § 590(a)(2), title X, § 1072(b)(2), Jan. 28, 2008, 122 Stat. 138, 330, added item 974 and struck out item 986 “Security clearances: limitations”.
+2008—Pub. L. 110–181, div. A, title V, § 590(a)(2), title X, § 1072(b)(2), Jan. 28, 2008, 122 Stat. 138, 330, added item 974 and struck out item 986 “Security clearances: limitations”.
 
-Pub. L. 110–181, div. A, title X, § 1063(c)(6), Jan. 28, 2008, 122 Stat. 323, amended directory language of Pub. L. 109–364, § 670(b). See 2006 Amendment note below.
+Pub. L. 110–181, div. A, title X, § 1063(c)(6), Jan. 28, 2008, 122 Stat. 323, amended directory language of Pub. L. 109–364, § 670(b). See 2006 Amendment note below.
 
-2006—Pub. L. 109–364, div. A, title VI, § 670(b), Oct. 17, 2006, 120 Stat. 2269, as amended by Pub. L. 110–181, div. A, title X, § 1063(c)(6), Jan. 28, 2008, 122 Stat. 323, added item 987.
+2006—Pub. L. 109–364, div. A, title VI, § 670(b), Oct. 17, 2006, 120 Stat. 2269, as amended by Pub. L. 110–181, div. A, title X, § 1063(c)(6), Jan. 28, 2008, 122 Stat. 323, added item 987.
 
-Pub. L. 109–163, div. A, title VI, § 662(c)(2), Jan. 6, 2006, 119 Stat. 3315, substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in item 985.
+Pub. L. 109–163, div. A, title VI, § 662(c)(2), Jan. 6, 2006, 119 Stat. 3315, substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in item 985.
 
-2004—Pub. L. 108–375, div. A, title VI, § 651(f)(1), Oct. 28, 2004, 118 Stat. 1972, struck out item 977 “Operation of commissary stores: assignment of active duty members generally prohibited”.
+2004—Pub. L. 108–375, div. A, title VI, § 651(f)(1), Oct. 28, 2004, 118 Stat. 1972, struck out item 977 “Operation of commissary stores: assignment of active duty members generally prohibited”.
 
-2001—Pub. L. 107–107, div. A, title X, § 1048(g)(2), Dec. 28, 2001, 115 Stat. 1228, amended directory language of Pub. L. 106–65. See 1999 Amendment note below.
+2001—Pub. L. 107–107, div. A, title X, § 1048(g)(2), Dec. 28, 2001, 115 Stat. 1228, amended directory language of Pub. L. 106–65. See 1999 Amendment note below.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1071(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–276, added item 986.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1071(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–276, added item 986.
 
-1999—Pub. L. 106–65, div. A, title V, § 549(a)(2), Oct. 5, 1999, 113 Stat. 611, as amended by Pub. L. 107–107, div. A, title X, § 1048(g)(2), Dec. 28, 2001, 115 Stat. 1228, substituted “Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies” for “Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts” in item 983.
+1999—Pub. L. 106–65, div. A, title V, § 549(a)(2), Oct. 5, 1999, 113 Stat. 611, as amended by Pub. L. 107–107, div. A, title X, § 1048(g)(2), Dec. 28, 2001, 115 Stat. 1228, substituted “Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies” for “Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts” in item 983.
 
-1998—Pub. L. 105–261, div. A, title V, § 569(b), Oct. 17, 1998, 112 Stat. 2032, struck out item 974 “Civilian employment: enlisted members”.
+1998—Pub. L. 105–261, div. A, title V, § 569(b), Oct. 17, 1998, 112 Stat. 2032, struck out item 974 “Civilian employment: enlisted members”.
 
-1997—Pub. L. 105–85, div. A, title X, § 1077(a)(2), Nov. 18, 1997, 111 Stat. 1915, added item 985.
+1997—Pub. L. 105–85, div. A, title X, § 1077(a)(2), Nov. 18, 1997, 111 Stat. 1915, added item 985.
 
-1996—Pub. L. 104–201, div. A, title V, § 581(c)(3), Sept. 23, 1996, 110 Stat. 2538, struck out “enlisted” after “count” in item 971.
+1996—Pub. L. 104–201, div. A, title V, § 581(c)(3), Sept. 23, 1996, 110 Stat. 2538, struck out “enlisted” after “count” in item 971.
 
-Pub. L. 104–106, div. A, title V, §§ 541(b), 561(c)(2), Feb. 10, 1996, 110 Stat. 316, 322, substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” in item 972 and added item 983.
+Pub. L. 104–106, div. A, title V, §§ 541(b), 561(c)(2), Feb. 10, 1996, 110 Stat. 316, 322, substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” in item 972 and added item 983.
 
-1993—Pub. L. 103–160, div. A, title III, § 351(b), Nov. 30, 1993, 107 Stat. 1627, added item 977.
+1993—Pub. L. 103–160, div. A, title III, § 351(b), Nov. 30, 1993, 107 Stat. 1627, added item 977.
 
-1989—Pub. L. 101–189, div. A, title XVI, § 1622(b)(3), Nov. 29, 1989, 103 Stat. 1604, struck out item 975 “Prohibition on the sale of certain defense articles from the stocks of the Department of Defense”.
+1989—Pub. L. 101–189, div. A, title XVI, § 1622(b)(3), Nov. 29, 1989, 103 Stat. 1604, struck out item 975 “Prohibition on the sale of certain defense articles from the stocks of the Department of Defense”.
 
-1988—Pub. L. 100–456, div. A, title V, § 521(a)(2), Sept. 29, 1988, 102 Stat. 1973, substituted “Drug and alcohol abuse and dependency: testing of new entrants” for “Mandatory testing for drug, chemical, and alcohol abuse” in item 978.
+1988—Pub. L. 100–456, div. A, title V, § 521(a)(2), Sept. 29, 1988, 102 Stat. 1973, substituted “Drug and alcohol abuse and dependency: testing of new entrants” for “Mandatory testing for drug, chemical, and alcohol abuse” in item 978.
 
-1987—Pub. L. 100–180, div. A, title V, § 513(a)(2), Dec. 4, 1987, 101 Stat. 1091, substituted “Mandatory testing for drug, chemical, and alcohol abuse” for “Denial of entrance into the armed forces of persons dependent on drugs or alcohol” in item 978.
+1987—Pub. L. 100–180, div. A, title V, § 513(a)(2), Dec. 4, 1987, 101 Stat. 1091, substituted “Mandatory testing for drug, chemical, and alcohol abuse” for “Denial of entrance into the armed forces of persons dependent on drugs or alcohol” in item 978.
 
-1986—Pub. L. 99–661, div. A, title V, § 502(b), Nov. 14, 1986, 100 Stat. 3864, added item 982.
+1986—Pub. L. 99–661, div. A, title V, § 502(b), Nov. 14, 1986, 100 Stat. 3864, added item 982.
 
-1984—Pub. L. 98–525, title XIV, § 1401(c)(2), Oct. 19, 1984, 98 Stat. 2615, added items 979 to 981.
+1984—Pub. L. 98–525, title XIV, § 1401(c)(2), Oct. 19, 1984, 98 Stat. 2615, added items 979 to 981.
 
-1982—Pub. L. 97–306, title IV, § 408(c)(2), Oct. 14, 1982, 96 Stat. 1446, struck out item 977 “Denial of certain benefits to persons who fail to complete at least two years of an original enlistment”.
+1982—Pub. L. 97–306, title IV, § 408(c)(2), Oct. 14, 1982, 96 Stat. 1446, struck out item 977 “Denial of certain benefits to persons who fail to complete at least two years of an original enlistment”.
 
-Pub. L. 97–295, § 1(14)(B), Oct. 12, 1982, 96 Stat. 1290, added item 978.
+Pub. L. 97–295, § 1(14)(B), Oct. 12, 1982, 96 Stat. 1290, added item 978.
 
-1980—Pub. L. 96–513, title V, § 501(12), Dec. 12, 1980, 94 Stat. 2908, substituted “officers on active duty” for “Regular officers” in item 973.
+1980—Pub. L. 96–513, title V, § 501(12), Dec. 12, 1980, 94 Stat. 2908, substituted “officers on active duty” for “Regular officers” in item 973.
 
-Pub. L. 96–342, title X, § 1002(b), Sept. 8, 1980, 94 Stat. 1119, added item 977.
+Pub. L. 96–342, title X, § 1002(b), Sept. 8, 1980, 94 Stat. 1119, added item 977.
 
-1979—Pub. L. 96–107, title VIII, § 821(b), Nov. 9, 1979, 93 Stat. 820, redesignated item 975 relating to membership in military unions as 976.
+1979—Pub. L. 96–107, title VIII, § 821(b), Nov. 9, 1979, 93 Stat. 820, redesignated item 975 relating to membership in military unions as 976.
 
-1978—Pub. L. 95–610, § 2(b), Nov. 8, 1978, 92 Stat. 3088, added item 975 relating to military unions.
+1978—Pub. L. 95–610, § 2(b), Nov. 8, 1978, 92 Stat. 3088, added item 975 relating to military unions.
 
-Pub. L. 95–485, title VIII, § 815(b), Oct. 20, 1978, 92 Stat. 1626, added item 975 relating to sale of certain defense articles.
+Pub. L. 95–485, title VIII, § 815(b), Oct. 20, 1978, 92 Stat. 1626, added item 975 relating to sale of certain defense articles.
 
-1968—Pub. L. 90–235, §§ 4(a)(5)(B), 6(a)(6)(B), Jan. 2, 1968, 81 Stat. 759, 762, added items 973 and 974.
+1968—Pub. L. 90–235, §§ 4(a)(5)(B), 6(a)(6)(B), Jan. 2, 1968, 81 Stat. 759, 762, added items 973 and 974.
 
-1958—Pub. L. 85–861, § 1(20), Sept. 2, 1958, 72 Stat. 1442, added items 971 and 972.
+1958—Pub. L. 85–861, § 1(20), Sept. 2, 1958, 72 Stat. 1442, added items 971 and 972.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Enhancement of Recusal for Conflicts of Personal Interest Requirements for Department of Defense Officers and Employees**
 
-Pub. L. 117–81, div. A, title XI, § 1117, Dec. 27, 2021, 135 Stat. 1955, provided that:
+Pub. L. 117–81, div. A, title XI, § 1117, Dec. 27, 2021, 135 Stat. 1955, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), in addition to the prohibition set forth in section 208 of title 18, United States Code, an officer or employee of the Department of Defense may not knowingly participate personally and substantially in any particular matter involving specific parties where any of the following organizations is a party or represents a party to the matter:
 
@@ -99,7 +99,7 @@ Pub. L. 117–81, div. A, title XI, § 1117, Dec. 27, 2021, 135 Stat. 1955, pr
 
 **Prohibition on Lobbying Activities With Respect to the Department of Defense by Certain Officers of the Armed Forces and Civilian Employees of the Department Following Separation From Military Service or Employment With the Department**
 
-Pub. L. 115–91, div. A, title X, § 1045, Dec. 12, 2017, 131 Stat. 1555, provided that:
+Pub. L. 115–91, div. A, title X, § 1045, Dec. 12, 2017, 131 Stat. 1555, provided that:
 
 > **“(a) Two-year Prohibition.—**
 
@@ -133,7 +133,7 @@ Pub. L. 115–91, div. A, title X, § 1045, Dec. 12, 2017, 131 Stat. 1555, pro
 
 > **“(3)** The term ‘covered executive branch official’ has the meaning given that term in section 3(3) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602(3)).”
 
-## § 971. Service credit: officers may not count service performed while serving as cadet or midshipman
+## § 971. Service credit: officers may not count service performed while serving as cadet or midshipman
 
 **(a) Prohibition on Counting Enlisted Service Performed While at Service Academy or in Navy Reserve.—** The period of service under an enlistment or period of obligated service while also performing service as a cadet or midshipman or serving as a midshipman in the Navy Reserve may not be counted in computing, for any purpose, the length of service of an officer of an armed force or an officer in the Commissioned Corps of the Public Health Service.
 
@@ -153,29 +153,29 @@ Pub. L. 115–91, div. A, title X, § 1045, Dec. 12, 2017, 131 Stat. 1555, pro
 
 **(2)** service as a midshipman at the United States Naval Academy.
 
-(Added Pub. L. 85–861, § 1(20), Sept. 2, 1958, 72 Stat. 1442; amended Pub. L. 90–235, § 6(a) (1), Jan. 2, 1968, 81 Stat. 761; Pub. L. 98–557, § 17(a), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 101–189, div. A, title VI, § 652(a)(1)(A), (2), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–201, div. A, title V, § 581, Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title X, § 1073(a)(13), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 109–163, div. A, title V, § 515(b)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 116–283, div. A, title IX, § 924(b)(22), Jan. 1, 2021, 134 Stat. 3824.)
+(Added Pub. L. 85–861, § 1(20), Sept. 2, 1958, 72 Stat. 1442; amended Pub. L. 90–235, § 6(a) (1), Jan. 2, 1968, 81 Stat. 761; Pub. L. 98–557, § 17(a), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 101–189, div. A, title VI, § 652(a)(1)(A), (2), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–201, div. A, title V, § 581, Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title X, § 1073(a)(13), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 109–163, div. A, title V, § 515(b)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 116–283, div. A, title IX, § 924(b)(22), Jan. 1, 2021, 134 Stat. 3824.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 971 | 50:1414. | June 25, 1956, ch. 439, § 4, 70 Stat. 333. |
+| 971 | 50:1414. | June 25, 1956, ch. 439, § 4, 70 Stat. 333. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(2). Pub. L. 116–283 substituted “, Air Force, or Space Force” for “or Air Force”.
+2021—Subsec. (b)(2). Pub. L. 116–283 substituted “, Air Force, or Space Force” for “or Air Force”.
 
 2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in heading and “Navy Reserve” for “Naval Reserve” in text.
 
 1997—Subsec. (b)(4). Pub. L. 105–85 substituted “Commissioned Corps” for “commissioned corps”.
 
-1996—Pub. L. 104–201, § 581(c)(3), struck out “enlisted” after “count” in section catchline.
+1996—Pub. L. 104–201, § 581(c)(3), struck out “enlisted” after “count” in section catchline.
 
-Subsec. (a). Pub. L. 104–201, § 581(a), (c)(2), inserted heading, substituted “while also performing service as a cadet or midshipman or serving as a midshipman” for “while also serving as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy or”, and inserted before period at end “or an officer in the Commissioned Corps of the Public Health Service”.
+Subsec. (a). Pub. L. 104–201, § 581(a), (c)(2), inserted heading, substituted “while also performing service as a cadet or midshipman or serving as a midshipman” for “while also serving as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy or”, and inserted before period at end “or an officer in the Commissioned Corps of the Public Health Service”.
 
-Subsec. (b). Pub. L. 104–201, § 581(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In computing length of service for any purpose—
+Subsec. (b). Pub. L. 104–201, § 581(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In computing length of service for any purpose—
 
 “(1) no officer of the Navy or Marine Corps may be credited with service as a midshipman at the United States Naval Academy or as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy;
 
@@ -183,13 +183,13 @@ Subsec. (b). Pub. L. 104–201, § 581(b), amended subsec. (b) generally. Prio
 
 “(3) no officer of the Coast Guard may be credited with service as a midshipman at the United States Naval Academy or as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy.”
 
-Subsec. (c). Pub. L. 104–201, § 581(c)(1), added subsec. (c).
+Subsec. (c). Pub. L. 104–201, § 581(c)(1), added subsec. (c).
 
-1989—Subsec. (a). Pub. L. 101–189, § 652(a)(1)(A), struck out “, under an appointment accepted after June 25, 1956,” after “Naval Reserve”.
+1989—Subsec. (a). Pub. L. 101–189, § 652(a)(1)(A), struck out “, under an appointment accepted after June 25, 1956,” after “Naval Reserve”.
 
-Subsec. (b)(1). Pub. L. 101–189, § 652(a)(2)(A), struck out “, if he was appointed as a midshipman or cadet after March 4, 1913” after “United States Coast Guard Academy”.
+Subsec. (b)(1). Pub. L. 101–189, § 652(a)(2)(A), struck out “, if he was appointed as a midshipman or cadet after March 4, 1913” after “United States Coast Guard Academy”.
 
-Subsec. (b)(2). Pub. L. 101–189, § 652(a)(2)(B), struck out “, if he was appointed as a midshipman or cadet after August 24, 1912” after “United States Coast Guard Academy”.
+Subsec. (b)(2). Pub. L. 101–189, § 652(a)(2)(B), struck out “, if he was appointed as a midshipman or cadet after August 24, 1912” after “United States Coast Guard Academy”.
 
 1984—Subsec. (b)(3). Pub. L. 98–557 added par. (3).
 
@@ -203,9 +203,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Application of Subsection (a) to Service Under Appointment Accepted Before June 26, 1956**
 
-Pub. L. 101–189, div. A, title VI, § 652(a)(1)(B), Nov. 29, 1989, 103 Stat. 1461, provided that the computing limitation in subsection (a) of this section did not apply to service under an appointment as a cadet or midshipman accepted before June 26, 1956.
+Pub. L. 101–189, div. A, title VI, § 652(a)(1)(B), Nov. 29, 1989, 103 Stat. 1461, provided that the computing limitation in subsection (a) of this section did not apply to service under an appointment as a cadet or midshipman accepted before June 26, 1956.
 
-## § 972. Members: effect of time lost
+## § 972. Members: effect of time lost
 
 **(a) Enlisted Members Required To Make Up Time Lost.—** An enlisted member of an armed force who—
 
@@ -245,13 +245,13 @@ the period of such desertion, absence, confinement, or inability to perform duti
 
 **(B)** a judgment of acquittal or a dismissal is entered upon a reversal of the conviction on appeal.
 
-(Added Pub. L. 85–861, § 1(20), Sept. 2, 1958, 72 Stat. 1443; amended Pub. L. 104–106, div. A, title V, § 561(a)–(c)(1), Feb. 10, 1996, 110 Stat. 321, 322; Pub. L. 105–85, div. A, title X, § 1073(a)(14), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–375, div. A, title V, § 572, Oct. 28, 2004, 118 Stat. 1921.)
+(Added Pub. L. 85–861, § 1(20), Sept. 2, 1958, 72 Stat. 1443; amended Pub. L. 104–106, div. A, title V, § 561(a)–(c)(1), Feb. 10, 1996, 110 Stat. 321, 322; Pub. L. 105–85, div. A, title X, § 1073(a)(14), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–375, div. A, title V, § 572, Oct. 28, 2004, 118 Stat. 1921.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 972 | 10 App.:629a. 34 App.:183b. | July 24, 1956, ch. 692, § 1, 70 Stat. 631. |
+| 972 | 10 App.:629a. 34 App.:183b. | July 24, 1956, ch. 692, § 1, 70 Stat. 631. |
 
 **Editorial Notes**
 
@@ -261,9 +261,9 @@ the period of such desertion, absence, confinement, or inability to perform duti
 
 1997—Subsec. (b). Pub. L. 105–85 substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996” in introductory provisions.
 
-1996—Pub. L. 104–106, § 561(c)(1), substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” as section catchline.
+1996—Pub. L. 104–106, § 561(c)(1), substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” as section catchline.
 
-Pub. L. 104–106, § 561(a), designated existing provisions as subsec. (a), inserted heading, added par. (3), redesignated par. (5) as (4), struck out former pars. (3) and (4), and added subsec. (b). Prior to amendment, subsec. (a)(3) and (4) read as follows:
+Pub. L. 104–106, § 561(a), designated existing provisions as subsec. (a), inserted heading, added par. (3), redesignated par. (5) as (4), struck out former pars. (3) and (4), and added subsec. (b). Prior to amendment, subsec. (a)(3) and (4) read as follows:
 
 “(3) is confined for more than one day while awaiting trial and disposition of his case, and whose conviction has become final;
 
@@ -273,9 +273,9 @@ Pub. L. 104–106, § 561(a), designated existing provisions as subsec. (a), i
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title V, § 561(e), Feb. 10, 1996, 110 Stat. 323, provided that: “The amendments made by this section [enacting section 6328 of this title and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title] shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any period of time covered by section 972 of title 10, United States Code, that occurs after that date.”
+Pub. L. 104–106, div. A, title V, § 561(e), Feb. 10, 1996, 110 Stat. 323, provided that: “The amendments made by this section [enacting section 6328 of this title and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title] shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any period of time covered by section 972 of title 10, United States Code, that occurs after that date.”
 
-## § 973. Duties: officers on active duty; performance of civil functions restricted
+## § 973. Duties: officers on active duty; performance of civil functions restricted
 
 **(a)** No officer of an armed force on active duty may accept employment if that employment requires him to be separated from his organization, branch, or unit, or interferes with the performance of his military duties.
 
@@ -323,7 +323,7 @@ Pub. L. 104–106, div. A, title V, § 561(e), Feb. 10, 1996, 110 Stat. 323, p
 
 **(d)** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating in the Navy, shall prescribe regulations to implement this section.
 
-(Added Pub. L. 90–235, § 4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, § 116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, § 1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, § 556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, § 506, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, § 545, Nov. 24, 2003, 117 Stat. 1479; Pub. L. 118–31, div. A, title XVII, § 1722(f), Dec. 22, 2023, 137 Stat. 672.)
+(Added Pub. L. 90–235, § 4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, § 116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, § 1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, § 556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, § 506, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, § 545, Nov. 24, 2003, 117 Stat. 1479; Pub. L. 118–31, div. A, title XVII, § 1722(f), Dec. 22, 2023, 137 Stat. 672.)
 
 **Editorial Notes**
 
@@ -335,11 +335,11 @@ Another section 1722(f) of Pub. L. 118–31 amended sections 802, 803, and 937 o
 
 2023—Subsec. (b)(1)(D). Pub. L. 118–31 added subpar. (D).
 
-2003—Subsec. (b)(3). Pub. L. 108–136, § 545(2), inserted “by reason of subparagraph (A) of paragraph (1)” after “applies” and substituted “(or of any political subdivision of a State)” for “, the District of Columbia, or a territory, possession, or commonwealth of the United States (or of any political subdivision of any such government)”.
+2003—Subsec. (b)(3). Pub. L. 108–136, § 545(2), inserted “by reason of subparagraph (A) of paragraph (1)” after “applies” and substituted “(or of any political subdivision of a State)” for “, the District of Columbia, or a territory, possession, or commonwealth of the United States (or of any political subdivision of any such government)”.
 
-Subsec. (b)(4), (5). Pub. L. 108–136, § 545(1), (3), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4), (5). Pub. L. 108–136, § 545(1), (3), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (b)(6). Pub. L. 108–136, § 545(4), added par. (6).
+Subsec. (b)(6). Pub. L. 108–136, § 545(4), added par. (6).
 
 2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -351,11 +351,11 @@ Subsec. (b)(6). Pub. L. 108–136, § 545(4), added par. (6).
 
 Subsec. (c). Pub. L. 98–94 added subsec. (c).
 
-1980—Pub. L. 96–513, § 116(c), substituted “officers on active duty” for “regular officers” in section catchline.
+1980—Pub. L. 96–513, § 116(c), substituted “officers on active duty” for “regular officers” in section catchline.
 
-Subsec. (a). Pub. L. 96–513, § 116(a), substituted “of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
+Subsec. (a). Pub. L. 96–513, § 116(a), substituted “of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
 
-Subsec. (b). Pub. L. 96–513, § 116(b), substituted “regular officer of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
+Subsec. (b). Pub. L. 96–513, § 116(b), substituted “regular officer of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -369,7 +369,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 **Construction and Applicability of Section 973(b)**
 
-Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, provided that:
+Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, provided that:
 
 > **“(b)** Nothing in section 973(b) of title 10, United States Code, as in effect before the date of the enactment of this Act [Sept. 24, 1983], shall be construed—
 
@@ -379,7 +379,7 @@ Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, 
 
 > **“(c)** Nothing in section 973(b)(3) of title 10, United States Code, as added by subsection (a), shall preclude a Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act [Sept. 24, 1983], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election.”
 
-## § 974. Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians
+## § 974. Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians
 
 **(a) Military Musicians Performing in an Official Capacity.—**
 
@@ -447,13 +447,13 @@ Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, 
 
 **(f) Military Musical Unit Defined.—** In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
 
-(Added Pub. L. 110–181, div. A, title V, § 590(a)(1), Jan. 28, 2008, 122 Stat. 136; amended Pub. L. 111–84, div. A, title V, § 591(a), Oct. 28, 2009, 123 Stat. 2335; Pub. L. 113–66, div. A, title III, § 351, Dec. 26, 2013, 127 Stat. 741; Pub. L. 115–91, div. A, title X, § 1051(a)(4), Dec. 12, 2017, 131 Stat. 1560.)
+(Added Pub. L. 110–181, div. A, title V, § 590(a)(1), Jan. 28, 2008, 122 Stat. 136; amended Pub. L. 111–84, div. A, title V, § 591(a), Oct. 28, 2009, 123 Stat. 2335; Pub. L. 113–66, div. A, title III, § 351, Dec. 26, 2013, 127 Stat. 741; Pub. L. 115–91, div. A, title X, § 1051(a)(4), Dec. 12, 2017, 131 Stat. 1560.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 974, added Pub. L. 90–235, § 6(a)(6)(A), Jan. 2, 1968, 81 Stat. 762; amended Pub. L. 101–510, div. A, title III, § 327(e), Nov. 5, 1990, 104 Stat. 1532, related to civilian employment by enlisted members, prior to repeal by Pub. L. 105–261, div. A, title V, § 569(a), Oct. 17, 1998, 112 Stat. 2032.
+A prior section 974, added Pub. L. 90–235, § 6(a)(6)(A), Jan. 2, 1968, 81 Stat. 762; amended Pub. L. 101–510, div. A, title III, § 327(e), Nov. 5, 1990, 104 Stat. 1532, related to civilian employment by enlisted members, prior to repeal by Pub. L. 105–261, div. A, title V, § 569(a), Oct. 17, 1998, 112 Stat. 2032.
 
 **Amendments**
 
@@ -463,9 +463,9 @@ A prior section 974, added Pub. L. 90–235, § 6(a)(6)(A), Jan. 2, 1968, 81 S
 
 2009—Pub. L. 111–84 amended section generally. Prior to amendment, section related to uniform performance policies for military bands and other musical units.
 
-## [§ 975. Renumbered § 2390]
+## [§ 975. Renumbered § 2390]
 
-## § 976. Membership in military unions, organizing of military unions, and recognition of military unions prohibited
+## § 976. Membership in military unions, organizing of military unions, and recognition of military unions prohibited
 
 **(a)** In this section:
 
@@ -535,7 +535,7 @@ Nothing in this subsection shall prevent commanders or supervisors from giving c
 
 **(6)** to take such other administrative action to seek such administrative or judicial relief, as is authorized by applicable laws and regulations.
 
-(Added Pub. L. 95–610, § 2(a), Nov. 8, 1978, 92 Stat. 3085, § 975; renumbered § 976, Pub. L. 96–107, title VIII, § 821(a), Nov. 9, 1979, 93 Stat. 820; amended Pub. L. 98–525, title IV, § 414(a)(6), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 99–661, div. A, title XIII, § 1343(a)(2), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 105–85, div. A, title X, § 1073(a)(15), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 118–31, div. A, title XVII, § 1741(b)(3), Dec. 22, 2023, 137 Stat. 680.)
+(Added Pub. L. 95–610, § 2(a), Nov. 8, 1978, 92 Stat. 3085, § 975; renumbered § 976, Pub. L. 96–107, title VIII, § 821(a), Nov. 9, 1979, 93 Stat. 820; amended Pub. L. 98–525, title IV, § 414(a)(6), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 99–661, div. A, title XIII, § 1343(a)(2), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 105–85, div. A, title X, § 1073(a)(15), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 118–31, div. A, title XVII, § 1741(b)(3), Dec. 22, 2023, 137 Stat. 680.)
 
 **Editorial Notes**
 
@@ -555,7 +555,7 @@ Nothing in this subsection shall prevent commanders or supervisors from giving c
 
 **Findings; Purpose**
 
-Pub. L. 95–610, § 1, Nov. 8, 1978, 92 Stat. 3085, provided that:
+Pub. L. 95–610, § 1, Nov. 8, 1978, 92 Stat. 3085, provided that:
 
 > **“(a)** The Congress makes the following findings:
 
@@ -573,7 +573,7 @@ Pub. L. 95–610, § 1, Nov. 8, 1978, 92 Stat. 3085, provided that:
 
 > **“(b)** The purpose of this Act [enacting this section] is to promote the readiness of the armed forces to defend the United States.”
 
-## § 977. Conversion of military medical and dental positions to civilian medical and dental positions: limitation
+## § 977. Conversion of military medical and dental positions to civilian medical and dental positions: limitation
 
 **(a) Process.—** The Secretary of Defense, in collaboration with the Secretaries of the military departments, shall establish a process to define the military medical and dental personnel requirements necessary to meet operational medical force readiness requirements.
 
@@ -593,23 +593,23 @@ Pub. L. 95–610, § 1, Nov. 8, 1978, 92 Stat. 3085, provided that:
 
 **(3)** The term “conversion”, with respect to a military medical or dental position, means a change of the position to a civilian medical or dental position, effective as of the date of the manning authorization document of the military department making the change (through a change in designation from military to civilian in the document, the elimination of the listing of the position as a military position in the document, or through any other means indicating the change in the document or otherwise).
 
-(Added Pub. L. 114–328, div. A, title VII, § 721(a)(1), Dec. 23, 2016, 130 Stat. 2227.)
+(Added Pub. L. 114–328, div. A, title VII, § 721(a)(1), Dec. 23, 2016, 130 Stat. 2227.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 977, added Pub. L. 103–160, div. A, title III, § 351(a), Nov. 30, 1993, 107 Stat. 1626; amended Pub. L. 105–85, div. A, title X, § 1073(a)(16), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title X, § 1066(a)(6), Oct. 5, 1999, 113 Stat. 770, related to prohibition of assignment of active duty members to operation of commissary stores, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(e)(1), Oct. 28, 2004, 118 Stat. 1972.
+A prior section 977, added Pub. L. 103–160, div. A, title III, § 351(a), Nov. 30, 1993, 107 Stat. 1626; amended Pub. L. 105–85, div. A, title X, § 1073(a)(16), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title X, § 1066(a)(6), Oct. 5, 1999, 113 Stat. 770, related to prohibition of assignment of active duty members to operation of commissary stores, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(e)(1), Oct. 28, 2004, 118 Stat. 1972.
 
-Another prior section 977, added Pub. L. 96–342, title X, § 1002(a), Sept. 8, 1980, 94 Stat. 1119; amended Pub. L. 97–22, § 11(a)(1), July 10, 1981, 95 Stat. 137, provided that no one who originally enlisted after Sept. 7, 1980, in a regular armed services component and failed to serve at least 24 months of such enlistment would be eligible for Federal benefits otherwise receivable because of active service under such enlistment, except that such exclusion was not applicable to one discharged under section 1173 of chapter 61 of this title or to one later proved to be suffering from a disability resulting from an injury or disease incurred during enlistment, prior to repeal by Pub. L. 97–306, title IV, § 408(c)(1), Oct. 14, 1982, 96 Stat. 1446. See section 5303A of Title 38, Veterans’ Benefits, and provisions set out as notes under that section.
+Another prior section 977, added Pub. L. 96–342, title X, § 1002(a), Sept. 8, 1980, 94 Stat. 1119; amended Pub. L. 97–22, § 11(a)(1), July 10, 1981, 95 Stat. 137, provided that no one who originally enlisted after Sept. 7, 1980, in a regular armed services component and failed to serve at least 24 months of such enlistment would be eligible for Federal benefits otherwise receivable because of active service under such enlistment, except that such exclusion was not applicable to one discharged under section 1173 of chapter 61 of this title or to one later proved to be suffering from a disability resulting from an injury or disease incurred during enlistment, prior to repeal by Pub. L. 97–306, title IV, § 408(c)(1), Oct. 14, 1982, 96 Stat. 1446. See section 5303A of Title 38, Veterans’ Benefits, and provisions set out as notes under that section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 114–328, div. A, title VII, § 721(a)(3), Dec. 23, 2016, 130 Stat. 2228, provided that: “The Secretary of Defense may not carry out section 977(b) of title 10, United States Code, as added by paragraph (1), until the date that is 180 days after the date on which the Secretary submits the report under subsection (b).”
+Pub. L. 114–328, div. A, title VII, § 721(a)(3), Dec. 23, 2016, 130 Stat. 2228, provided that: “The Secretary of Defense may not carry out section 977(b) of title 10, United States Code, as added by paragraph (1), until the date that is 180 days after the date on which the Secretary submits the report under subsection (b).”
 
-## § 978. Drug and alcohol abuse and dependency: testing of new entrants
+## § 978. Drug and alcohol abuse and dependency: testing of new entrants
 
 **(a)**
 
@@ -645,13 +645,13 @@ An original appointment of any such person as an officer shall be terminated.
 
 **(e)** In time of war, or time of emergency declared by Congress or the President, the President may suspend the provisions of subsection (a).
 
-(Added Pub. L. 97–295, § 1(14)(A), Oct. 12, 1982, 96 Stat. 1289; amended Pub. L. 100–180, div. A, title V, § 513(a)(1), Dec. 4, 1987, 101 Stat. 1091; Pub. L. 100–456, div. A, title V, § 521(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 101–189, div. A, title V, § 513(a)–(c), Nov. 29, 1989, 103 Stat. 1440; Pub. L. 101–510, div. A, title XIV, § 1484(k)(4), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 103–160, div. A, title V, § 572, Nov. 30, 1993, 107 Stat. 1673; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 97–295, § 1(14)(A), Oct. 12, 1982, 96 Stat. 1289; amended Pub. L. 100–180, div. A, title V, § 513(a)(1), Dec. 4, 1987, 101 Stat. 1091; Pub. L. 100–456, div. A, title V, § 521(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 101–189, div. A, title V, § 513(a)–(c), Nov. 29, 1989, 103 Stat. 1440; Pub. L. 101–510, div. A, title XIV, § 1484(k)(4), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 103–160, div. A, title V, § 572, Nov. 30, 1993, 107 Stat. 1673; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 978 | 10:1071 (note). | Sept. 28, 1971, Pub. L. 92–129, § 501(a)(2), (b), 85 Stat. 361. |
+| 978 | 10:1071 (note). | Sept. 28, 1971, Pub. L. 92–129, § 501(a)(2), (b), 85 Stat. 361. |
 
 The word “regulations” is added for consistency. The word “persons” is omitted as surplus. The word “person” is substituted for “individuals” for consistency. The text of subsection (b) is omitted as executed.
 
@@ -665,23 +665,23 @@ The word “regulations” is added for consistency. The word “persons” is o
 
 1990—Subsec. (c)(3). Pub. L. 101–510 struck out “a” before “whose enlistment”.
 
-1989—Subsec. (a)(1). Pub. L. 101–189, § 513(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), the Secretary concerned shall require each member of the armed forces under the Secretary’s jurisdiction, within 72 hours after the member’s initial entry on active duty after enlistment or appointment, to—
+1989—Subsec. (a)(1). Pub. L. 101–189, § 513(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), the Secretary concerned shall require each member of the armed forces under the Secretary’s jurisdiction, within 72 hours after the member’s initial entry on active duty after enlistment or appointment, to—
 
 “(A) undergo testing (by practicable, scientifically supported means) for drug and alcohol use; and
 
 “(B) be evaluated for drug and alcohol dependency.”
 
-Subsec. (a)(2), (3). Pub. L. 101–189, § 513(a), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 101–189, § 513(a), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (b). Pub. L. 101–189, § 513(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A person who refuses to consent to testing and evaluation required by subsection (a) may not be retained in the armed forces, and any original appointment of such person as an officer shall be terminated, unless that person consents to such testing and evaluation.”
+Subsec. (b). Pub. L. 101–189, § 513(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A person who refuses to consent to testing and evaluation required by subsection (a) may not be retained in the armed forces, and any original appointment of such person as an officer shall be terminated, unless that person consents to such testing and evaluation.”
 
-Subsec. (c)(1). Pub. L. 101–189, § 513(b)(2)(B), added par. (1). Former par. (1) redesignated (2).
+Subsec. (c)(1). Pub. L. 101–189, § 513(b)(2)(B), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (c)(2). Pub. L. 101–189, § 513(b)(2)(A), (C), redesignated par. (1) as (2) and substituted “subsection (a)(2)” for “subsection (a)(1)(B)”. Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 101–189, § 513(b)(2)(A), (C), redesignated par. (1) as (2) and substituted “subsection (a)(2)” for “subsection (a)(1)(B)”. Former par. (2) redesignated (3).
 
-Subsec. (c)(3). Pub. L. 101–189, § 513(b)(2)(A), (D), redesignated par. (2) as (3), inserted “who is denied entrance into the armed forces under paragraph (1), or a” after “A person”, and substituted “paragraph (2),” for “paragraph (1)”.
+Subsec. (c)(3). Pub. L. 101–189, § 513(b)(2)(A), (D), redesignated par. (2) as (3), inserted “who is denied entrance into the armed forces under paragraph (1), or a” after “A person”, and substituted “paragraph (2),” for “paragraph (1)”.
 
-Subsec. (c)(4). Pub. L. 101–189, § 513(c), added par. (4).
+Subsec. (c)(4). Pub. L. 101–189, § 513(c), added par. (4).
 
 1988—Pub. L. 100–456 substituted “Drug and alcohol abuse and dependency: testing of new entrants” for “Mandatory testing for drug, chemical, and alcohol abuse” in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
@@ -707,11 +707,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title V, § 513(d), Nov. 29, 1989, 103 Stat. 1441, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect as of October 1, 1989.”
+Pub. L. 101–189, div. A, title V, § 513(d), Nov. 29, 1989, 103 Stat. 1441, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect as of October 1, 1989.”
 
 **Regulations; Implementation of Program**
 
-Pub. L. 100–456, div. A, title V, § 521(b), (c), Sept. 29, 1988, 102 Stat. 1973, provided that:
+Pub. L. 100–456, div. A, title V, § 521(b), (c), Sept. 29, 1988, 102 Stat. 1973, provided that:
 
 > **“(b) Regulations.—** The Secretary of Defense shall prescribe regulations for the implementation of section 978 of title 10, United States Code, as amended by subsection (a), not later than 60 days after the date of the enactment of this Act [Sept. 29, 1988].
 
@@ -719,17 +719,17 @@ Pub. L. 100–456, div. A, title V, § 521(b), (c), Sept. 29, 1988, 102 Stat. 
 
 **Implementation**
 
-Pub. L. 100–180, div. A, title V, § 513(b), Dec. 4, 1987, 101 Stat. 1091, as amended by Pub. L. 100–456, div. A, title V, § 521(d), Sept. 29, 1988, 102 Stat. 1973, provided that:
+Pub. L. 100–180, div. A, title V, § 513(b), Dec. 4, 1987, 101 Stat. 1091, as amended by Pub. L. 100–456, div. A, title V, § 521(d), Sept. 29, 1988, 102 Stat. 1973, provided that:
 
 > **“(1)** The Secretary of Defense shall prescribe regulations for the implementation of section 978 of title 10, United States Code, as amended by subsection (a), not later than 45 days after the date of the enactment of this Act [Dec. 4, 1987].
 
-> **“(2)** [Repealed. Pub. L. 100–456, div. A, title V, § 521(d), Sept. 29, 1988, 102 Stat. 1973].”
+> **“(2)** [Repealed. Pub. L. 100–456, div. A, title V, § 521(d), Sept. 29, 1988, 102 Stat. 1973].”
 
-## § 979. Prohibition on loan and grant assistance to persons convicted of certain crimes
+## § 979. Prohibition on loan and grant assistance to persons convicted of certain crimes
 
 Funds appropriated to the Department of Defense may not be used to provide a loan, a guarantee of a loan, or a grant to any person who has been convicted by a court of general jurisdiction of any crime which involves the use of (or assisting others in the use of) force, trespass, or the seizure of property under the control of an institution of higher education to prevent officials or students of the institution from engaging in their duties or pursuing their studies.
 
-(Added Pub. L. 98–525, title XIV, § 1401(c)(1), Oct. 19, 1984, 98 Stat. 2615.)
+(Added Pub. L. 98–525, title XIV, § 1401(c)(1), Oct. 19, 1984, 98 Stat. 2615.)
 
 **Editorial Notes**
 
@@ -737,39 +737,39 @@ Funds appropriated to the Department of Defense may not be used to provide a loa
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8027], Oct. 12, 1984, 98 Stat. 1904, 1928.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8027], Oct. 12, 1984, 98 Stat. 1904, 1928.
 
-Pub. L. 98–212, title VII, § 732, Dec. 8, 1983, 97 Stat. 1444.
+Pub. L. 98–212, title VII, § 732, Dec. 8, 1983, 97 Stat. 1444.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 735], Dec. 21, 1982, 96 Stat. 1833, 1856.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 735], Dec. 21, 1982, 96 Stat. 1833, 1856.
 
-Pub. L. 97–114, title VII, § 736, Dec. 29, 1981, 95 Stat. 1585.
+Pub. L. 97–114, title VII, § 736, Dec. 29, 1981, 95 Stat. 1585.
 
-Pub. L. 96–527, title VII, § 737, Dec. 15, 1980, 94 Stat. 3087.
+Pub. L. 96–527, title VII, § 737, Dec. 15, 1980, 94 Stat. 3087.
 
-Pub. L. 96–154, title VII, § 739, Dec. 21, 1979, 93 Stat. 1159.
+Pub. L. 96–154, title VII, § 739, Dec. 21, 1979, 93 Stat. 1159.
 
-Pub. L. 95–457, title VIII, § 839, Oct. 13, 1978, 92 Stat. 1250.
+Pub. L. 95–457, title VIII, § 839, Oct. 13, 1978, 92 Stat. 1250.
 
-Pub. L. 95–111, title VIII, § 838, Sept. 21, 1977, 91 Stat. 906.
+Pub. L. 95–111, title VIII, § 838, Sept. 21, 1977, 91 Stat. 906.
 
-Pub. L. 94–419, title VII, § 737, Sept. 22, 1976, 90 Stat. 1297.
+Pub. L. 94–419, title VII, § 737, Sept. 22, 1976, 90 Stat. 1297.
 
-Pub. L. 94–212, title VII, § 737, Feb. 9, 1976, 90 Stat. 175.
+Pub. L. 94–212, title VII, § 737, Feb. 9, 1976, 90 Stat. 175.
 
-Pub. L. 93–437, title VIII, § 838, Oct. 8, 1974, 88 Stat. 1231.
+Pub. L. 93–437, title VIII, § 838, Oct. 8, 1974, 88 Stat. 1231.
 
-Pub. L. 93–238, title VII, § 740, Jan. 2, 1974, 87 Stat. 1045.
+Pub. L. 93–238, title VII, § 740, Jan. 2, 1974, 87 Stat. 1045.
 
-Pub. L. 92–570, title VII, § 740, Oct. 26, 1972, 86 Stat. 1203.
+Pub. L. 92–570, title VII, § 740, Oct. 26, 1972, 86 Stat. 1203.
 
-Pub. L. 92–204, title VII, § 741, Dec. 18, 1971, 85 Stat. 734.
+Pub. L. 92–204, title VII, § 741, Dec. 18, 1971, 85 Stat. 734.
 
-Pub. L. 91–668, title VIII, § 841, Jan. 11, 1971, 84 Stat. 2037.
+Pub. L. 91–668, title VIII, § 841, Jan. 11, 1971, 84 Stat. 2037.
 
-Pub. L. 91–171, title VI, § 641, Dec. 29, 1969, 83 Stat. 486.
+Pub. L. 91–171, title VI, § 641, Dec. 29, 1969, 83 Stat. 486.
 
-Pub. L. 90–580, title V, § 540, Oct. 17, 1968, 82 Stat. 1136.
+Pub. L. 90–580, title V, § 540, Oct. 17, 1968, 82 Stat. 1136.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -777,7 +777,7 @@ Pub. L. 90–580, title V, § 540, Oct. 17, 1968, 82 Stat. 1136.
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 980. Limitation on use of humans as experimental subjects
+## § 980. Limitation on use of humans as experimental subjects
 
 **(a)** Funds appropriated to the Department of Defense may not be used for research involving a human being as an experimental subject unless—
 
@@ -791,7 +791,7 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 **(2)** The Secretary may delegate the authority provided by paragraph (1) to the Under Secretary of Defense for Research and Engineering.
 
-(Added Pub. L. 98–525, title XIV, § 1401(c)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 107–107, div. A, title VII, § 733, Dec. 28, 2001, 115 Stat. 1170; Pub. L. 118–31, div. A, title II, § 212, Dec. 22, 2023, 137 Stat. 183.)
+(Added Pub. L. 98–525, title XIV, § 1401(c)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 107–107, div. A, title VII, § 733, Dec. 28, 2001, 115 Stat. 1170; Pub. L. 118–31, div. A, title II, § 212, Dec. 22, 2023, 137 Stat. 183.)
 
 **Editorial Notes**
 
@@ -799,31 +799,31 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8029], Oct. 12, 1984, 98 Stat. 1904, 1929.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8029], Oct. 12, 1984, 98 Stat. 1904, 1929.
 
-Pub. L. 98–212, title VII, § 734, Dec. 8, 1983, 97 Stat. 1444.
+Pub. L. 98–212, title VII, § 734, Dec. 8, 1983, 97 Stat. 1444.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 737], Dec. 21, 1982, 96 Stat. 1833, 1857.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 737], Dec. 21, 1982, 96 Stat. 1833, 1857.
 
-Pub. L. 97–114, title VII, § 738, Dec. 29, 1981, 95 Stat. 1585.
+Pub. L. 97–114, title VII, § 738, Dec. 29, 1981, 95 Stat. 1585.
 
-Pub. L. 96–527, title VII, § 739, Dec. 15, 1980, 94 Stat. 3088.
+Pub. L. 96–527, title VII, § 739, Dec. 15, 1980, 94 Stat. 3088.
 
-Pub. L. 96–154, title VII, § 741, Dec. 21, 1979, 93 Stat. 1159.
+Pub. L. 96–154, title VII, § 741, Dec. 21, 1979, 93 Stat. 1159.
 
-Pub. L. 95–457, title VIII, § 841, Oct. 13, 1978, 92 Stat. 1251.
+Pub. L. 95–457, title VIII, § 841, Oct. 13, 1978, 92 Stat. 1251.
 
-Pub. L. 95–111, title VIII, § 840, Sept. 21, 1977, 91 Stat. 906.
+Pub. L. 95–111, title VIII, § 840, Sept. 21, 1977, 91 Stat. 906.
 
-Pub. L. 94–419, title VII, § 739, Sept. 22, 1976, 90 Stat. 1297.
+Pub. L. 94–419, title VII, § 739, Sept. 22, 1976, 90 Stat. 1297.
 
-Pub. L. 94–212, title VII, § 740, Feb. 9, 1976, 90 Stat. 175.
+Pub. L. 94–212, title VII, § 740, Feb. 9, 1976, 90 Stat. 175.
 
-Pub. L. 93–437, title VIII, § 841, Oct. 8, 1974, 88 Stat. 1231.
+Pub. L. 93–437, title VIII, § 841, Oct. 8, 1974, 88 Stat. 1231.
 
-Pub. L. 93–238, title VII, § 743, Jan. 2, 1974, 87 Stat. 1045.
+Pub. L. 93–238, title VII, § 743, Jan. 2, 1974, 87 Stat. 1045.
 
-Pub. L. 92–570, title VII, § 745, Oct. 26, 1972, 86 Stat. 1203.
+Pub. L. 92–570, title VII, § 745, Oct. 26, 1972, 86 Stat. 1203.
 
 **Amendments**
 
@@ -837,7 +837,7 @@ Pub. L. 92–570, title VII, § 745, Oct. 26, 1972, 86 Stat. 1203.
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 981. Limitation on number of enlisted aides
+## § 981. Limitation on number of enlisted aides
 
 **(a)** Subject to subsection (b), the total number of enlisted members that may be assigned or otherwise detailed to duty as enlisted aides on the personal staffs of officers of the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard (when operating as a service of the Navy) during a fiscal year is the number equal to the sum of (1) four times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of general or admiral, and (2) two times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of lieutenant general or vice admiral.
 
@@ -849,45 +849,45 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 **(2)** justifying, on a billet-by-billet basis, the authorization and assignment of each enlisted aide to each general officer and flag officer position.
 
-(Added Pub. L. 98–525, title XIV, § 1401(c)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 113–291, div. A, title V, § 504(a), Dec. 19, 2014, 128 Stat. 3355; Pub. L. 118–31, div. A, title XVII, § 1741(b)(4), Dec. 22, 2023, 137 Stat. 680.)
+(Added Pub. L. 98–525, title XIV, § 1401(c)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 113–291, div. A, title V, § 504(a), Dec. 19, 2014, 128 Stat. 3355; Pub. L. 118–31, div. A, title XVII, § 1741(b)(4), Dec. 22, 2023, 137 Stat. 680.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (a) of this section were contained in Pub. L. 94–106, title VIII, § 820(a), Oct. 7, 1975, 89 Stat. 544, prior to repeal by Pub. L. 98–525, §§ 1403(c), 1404, eff. Oct. 1, 1985.
+Provisions similar to those in subsec. (a) of this section were contained in Pub. L. 94–106, title VIII, § 820(a), Oct. 7, 1975, 89 Stat. 544, prior to repeal by Pub. L. 98–525, §§ 1403(c), 1404, eff. Oct. 1, 1985.
 
 Provisions similar to those in subsec. (b) of this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8034], Oct. 12, 1984, 98 Stat. 1904, 1930.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8034], Oct. 12, 1984, 98 Stat. 1904, 1930.
 
-Pub. L. 98–212, title VII, § 742, Dec. 8, 1983, 97 Stat. 1446.
+Pub. L. 98–212, title VII, § 742, Dec. 8, 1983, 97 Stat. 1446.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 745], Dec. 21, 1982, 96 Stat. 1833, 1858.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 745], Dec. 21, 1982, 96 Stat. 1833, 1858.
 
-Pub. L. 97–114, title VII, § 746, Dec. 29, 1981, 95 Stat. 1586.
+Pub. L. 97–114, title VII, § 746, Dec. 29, 1981, 95 Stat. 1586.
 
-Pub. L. 96–527, title VII, § 747, Dec. 15, 1980, 94 Stat. 3089.
+Pub. L. 96–527, title VII, § 747, Dec. 15, 1980, 94 Stat. 3089.
 
-Pub. L. 96–154, title VII, § 748, Dec. 21, 1979, 93 Stat. 1160.
+Pub. L. 96–154, title VII, § 748, Dec. 21, 1979, 93 Stat. 1160.
 
-Pub. L. 95–457, title VIII, § 848, Oct. 13, 1978, 92 Stat. 1252.
+Pub. L. 95–457, title VIII, § 848, Oct. 13, 1978, 92 Stat. 1252.
 
-Pub. L. 95–111, title VIII, § 849, Sept. 21, 1977, 91 Stat. 908.
+Pub. L. 95–111, title VIII, § 849, Sept. 21, 1977, 91 Stat. 908.
 
-Pub. L. 94–419, title VII, § 748, Sept. 22, 1976, 90 Stat. 1299.
+Pub. L. 94–419, title VII, § 748, Sept. 22, 1976, 90 Stat. 1299.
 
-Pub. L. 94–212, title VII, § 745, Feb. 9, 1976, 90 Stat. 175.
+Pub. L. 94–212, title VII, § 745, Feb. 9, 1976, 90 Stat. 175.
 
-Pub. L. 93–437, title VIII, § 848, Oct. 8, 1974, 88 Stat. 1232.
+Pub. L. 93–437, title VIII, § 848, Oct. 8, 1974, 88 Stat. 1232.
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31, § 1741(b)(4)(A), substituted “Air Force, Marine Corps, Space Force,” for “Marine Corps, Air Force,”.
+2023—Subsec. (a). Pub. L. 118–31, § 1741(b)(4)(A), substituted “Air Force, Marine Corps, Space Force,” for “Marine Corps, Air Force,”.
 
-Subsec. (b). Pub. L. 118–31, § 1741(b)(4)(B), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+Subsec. (b). Pub. L. 118–31, § 1741(b)(4)(B), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
-Subsec. (c)(1). Pub. L. 118–31, § 1741(b)(4)(C), inserted “Space Force,” after “Marine Corps,”.
+Subsec. (c)(1). Pub. L. 118–31, § 1741(b)(4)(C), inserted “Space Force,” after “Marine Corps,”.
 
 2014—Subsec. (c). Pub. L. 113–291 added subsec. (c).
 
@@ -905,7 +905,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 982. Members: service on State and local juries
+## § 982. Members: service on State and local juries
 
 **(a)** A member of the armed forces on active duty may not be required to serve on a State or local jury if the Secretary concerned determines that such service—
 
@@ -919,15 +919,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d)** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and each territory of the United States.
 
-(Added Pub. L. 99–661, div. A, title V, § 502(a), Nov. 14, 1986, 100 Stat. 3863.)
+(Added Pub. L. 99–661, div. A, title V, § 502(a), Nov. 14, 1986, 100 Stat. 3863.)
 
-## § 983. Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies
+## § 983. Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies
 
 **(a) Denial of Funds for Preventing ROTC Access to Campus.—** No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
-**(1)** the Secretary of a military department from maintaining, establishing, or operating a unit of the Senior Reserve Officer Training Corps (in accordance with section 654 1
+**(1)** the Secretary of a military department from maintaining, establishing, or operating a unit of the Senior Reserve Officer Training Corps (in accordance with section 654 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title and other applicable Federal laws) at that institution (or any subelement of that institution); or
 
@@ -973,59 +973,59 @@ of this title and other applicable Federal laws) at that institution (or any sub
 
 **(2)** shall publish in the Federal Register a notice of the determination and the effect of the determination on the eligibility of the institution of higher education (and any subelement of that institution) for contracts and grants.
 
-(Added Pub. L. 104–106, div. A, title V, § 541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, § 549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, § 1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, § 552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, § 1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, § 586, title X, § 1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952; Pub. L. 116–283, div. A, title V, § 521(b), Jan. 1, 2021, 134 Stat. 3597; Pub. L. 118–31, div. A, title V, § 543, Dec. 22, 2023, 137 Stat. 265.)
+(Added Pub. L. 104–106, div. A, title V, § 541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, § 549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, § 1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, § 552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, § 1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, § 586, title X, § 1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952; Pub. L. 116–283, div. A, title V, § 521(b), Jan. 1, 2021, 134 Stat. 3597; Pub. L. 118–31, div. A, title V, § 543, Dec. 22, 2023, 137 Stat. 265.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 654 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–321, § 2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516.
+Section 654 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–321, § 2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 103–337, div. A, title V, § 558, Oct. 5, 1994, 108 Stat. 2776, as amended, and Pub. L. 104–208, div. A, title I, § 101(e) [title V, § 514], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which were set out as notes under section 503 of this title, prior to repeal by Pub. L. 106–65, § 549(b).
+Provisions similar to those in this section were contained in Pub. L. 103–337, div. A, title V, § 558, Oct. 5, 1994, 108 Stat. 2776, as amended, and Pub. L. 104–208, div. A, title I, § 101(e) [title V, § 514], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which were set out as notes under section 503 of this title, prior to repeal by Pub. L. 106–65, § 549(b).
 
 **Amendments**
 
-2023—Subsec. (b)(1). Pub. L. 118–31, § 543(1), substituted “employer;” for “employer; or”.
+2023—Subsec. (b)(1). Pub. L. 118–31, § 543(1), substituted “employer;” for “employer; or”.
 
-Subsec. (b)(2). Pub. L. 118–31, § 543(2)(A), (B), in introductory provisions, substituted “, with respect” for “to the following information pertaining” and “institution)—” for “institution):”.
+Subsec. (b)(2). Pub. L. 118–31, § 543(2)(A), (B), in introductory provisions, substituted “, with respect” for “to the following information pertaining” and “institution)—” for “institution):”.
 
-Subsec. (b)(2)(A). Pub. L. 118–31, § 543(2)(C), substituted “names” for “Names” and “telephone listings, which information shall be made available not later than the 60th day following the date of a request; and” for “telephone listings.”.
+Subsec. (b)(2)(A). Pub. L. 118–31, § 543(2)(C), substituted “names” for “Names” and “telephone listings, which information shall be made available not later than the 60th day following the date of a request; and” for “telephone listings.”.
 
-Subsec. (b)(2)(B). Pub. L. 118–31, § 543(2)(D), substituted “date” for “Date”.
+Subsec. (b)(2)(B). Pub. L. 118–31, § 543(2)(D), substituted “date” for “Date”.
 
 2021—Subsec. (b)(2)(A). Pub. L. 116–283 substituted “electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings” for “and telephone listings”.
 
-2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(10), substituted “or the Secretary” for “or Secretary”.
+2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(10), substituted “or the Secretary” for “or Secretary”.
 
-Subsec. (f). Pub. L. 112–239, § 586, struck out subsec. (f). Text read as follows: “The Secretary of Defense shall publish in the Federal Register once every six months a list of each institution of higher education that is currently ineligible for contracts and grants by reason of a determination of the Secretary under subsection (a) or (b).”
+Subsec. (f). Pub. L. 112–239, § 586, struck out subsec. (f). Text read as follows: “The Secretary of Defense shall publish in the Federal Register once every six months a list of each institution of higher education that is currently ineligible for contracts and grants by reason of a determination of the Secretary under subsection (a) or (b).”
 
-2011—Subsec. (e)(1). Pub. L. 112–81 substituted “Secretary of Education and” for “Secretary of Education,” and struck out “, and to Congress” after “determination”.
+2011—Subsec. (e)(1). Pub. L. 112–81 substituted “Secretary of Education and” for “Secretary of Education,” and struck out “, and to Congress” after “determination”.
 
-2004—Subsec. (a). Pub. L. 108–375, § 552(d), struck out “(including a grant of funds to be available for student aid)” after “by grant” in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–375, § 552(d), struck out “(including a grant of funds to be available for student aid)” after “by grant” in introductory provisions.
 
-Subsec. (b). Pub. L. 108–375, § 552(b)(2)(A), (d), in introductory provisions, substituted “subsection (d)(1)” for “subsection (d)(2)” and struck out “(including a grant of funds to be available for student aid)” after “by grant”.
+Subsec. (b). Pub. L. 108–375, § 552(b)(2)(A), (d), in introductory provisions, substituted “subsection (d)(1)” for “subsection (d)(2)” and struck out “(including a grant of funds to be available for student aid)” after “by grant”.
 
-Subsec. (b)(1). Pub. L. 108–375, § 552(a), substituted “access to campuses” for “entry to campuses” and inserted before semicolon “in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer”.
+Subsec. (b)(1). Pub. L. 108–375, § 552(a), substituted “access to campuses” for “entry to campuses” and inserted before semicolon “in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer”.
 
-Subsec. (d)(1). Pub. L. 108–375, § 552(b)(1)(A)(i), (c)(1), in introductory provisions, substituted “Except as provided in paragraph (2), the” for “The” and “limitations established in subsections (a) and (b) apply” for “limitation established in subsection (a) applies”.
+Subsec. (d)(1). Pub. L. 108–375, § 552(b)(1)(A)(i), (c)(1), in introductory provisions, substituted “Except as provided in paragraph (2), the” for “The” and “limitations established in subsections (a) and (b) apply” for “limitation established in subsection (a) applies”.
 
-Subsec. (d)(1)(B). Pub. L. 108–375, § 552(b)(1)(A)(ii), inserted “for any department or agency for which regular appropriations are made” after “made available”.
+Subsec. (d)(1)(B). Pub. L. 108–375, § 552(b)(1)(A)(ii), inserted “for any department or agency for which regular appropriations are made” after “made available”.
 
-Subsec. (d)(1)(C) to (F). Pub. L. 108–375, § 552(b)(1)(A)(iii), added subpars. (C) to (F).
+Subsec. (d)(1)(C) to (F). Pub. L. 108–375, § 552(b)(1)(A)(iii), added subpars. (C) to (F).
 
-Subsec. (d)(2). Pub. L. 108–375, § 552(b)(1)(B), (c)(2), added par. (2) and struck out former par. (2) which read as follows: “The limitation established in subsection (b) applies to the following:
+Subsec. (d)(2). Pub. L. 108–375, § 552(b)(1)(B), (c)(2), added par. (2) and struck out former par. (2) which read as follows: “The limitation established in subsection (b) applies to the following:
 
 “(A) Funds described in paragraph (1).
 
 “(B) Any funds made available for the Department of Homeland Security.”
 
-Subsec. (e)(1). Pub. L. 108–375, § 552(b)(2)(B), inserted “, to the head of each other department and agency the funds of which are subject to the determination,” after “Secretary of Education”.
+Subsec. (e)(1). Pub. L. 108–375, § 552(b)(2)(B), inserted “, to the head of each other department and agency the funds of which are subject to the determination,” after “Secretary of Education”.
 
-2002—Subsec. (b)(1). Pub. L. 107–296, § 1704(b)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+2002—Subsec. (b)(1). Pub. L. 107–296, § 1704(b)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-Subsec. (d)(2)(B). Pub. L. 107–296, § 1704(b)(3), substituted “Department of Homeland Security” for “Department of Transportation”.
+Subsec. (d)(2)(B). Pub. L. 107–296, § 1704(b)(3), substituted “Department of Homeland Security” for “Department of Transportation”.
 
 1999—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Department of Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
 
@@ -1033,7 +1033,7 @@ Subsec. (d)(2)(B). Pub. L. 107–296, § 1704(b)(3), substituted “Department
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title V, § 552(f), Oct. 28, 2004, 118 Stat. 1912, provided that: “The amendments made by this section [amending this section and repealing provisions set out as a note under this section] shall apply with respect to funds appropriated for fiscal year 2005 and thereafter.”
+Pub. L. 108–375, div. A, title V, § 552(f), Oct. 28, 2004, 118 Stat. 1912, provided that: “The amendments made by this section [amending this section and repealing provisions set out as a note under this section] shall apply with respect to funds appropriated for fiscal year 2005 and thereafter.”
 
 **Effective Date of 2002 Amendment**
 
@@ -1041,9 +1041,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Funds Available Solely for Student Financial Assistance**
 
-Pub. L. 106–79, title VIII, § 8120, Oct. 25, 1999, 113 Stat. 1260, provided that during fiscal year 2000 and thereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs could be used for the purpose for which the grant was made without regard to any provision to the contrary in section 101(e) [title V, § 514] of Pub. L. 104–208 (formerly 10 U.S.C. 503 note), or section 983 of this title, prior to repeal by Pub. L. 108–375, div. A, title V, § 552(e), Oct. 28, 2004, 118 Stat. 1912.
+Pub. L. 106–79, title VIII, § 8120, Oct. 25, 1999, 113 Stat. 1260, provided that during fiscal year 2000 and thereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs could be used for the purpose for which the grant was made without regard to any provision to the contrary in section 101(e) [title V, § 514] of Pub. L. 104–208 (formerly 10 U.S.C. 503 note), or section 983 of this title, prior to repeal by Pub. L. 108–375, div. A, title V, § 552(e), Oct. 28, 2004, 118 Stat. 1912.
 
-## § 985. Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits
+## § 985. Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits
 
 **(a) Prohibition of Performance of Military Honors.—** The Secretary of a military department and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may not provide military honors (under section 1491 of this title or any other authority) at the funeral or burial of any of the following persons:
 
@@ -1063,25 +1063,25 @@ Pub. L. 106–79, title VIII, § 8120, Oct. 25, 1999, 113 Stat. 1260, provided
 
 **(d) Definition.—** In this section, the term “burial” includes inurnment.
 
-(Added Pub. L. 105–85, div. A, title X, § 1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, § 662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 115–232, div. A, title V, § 592, Aug. 13, 2018, 132 Stat. 1788.)
+(Added Pub. L. 105–85, div. A, title X, § 1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, § 662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 115–232, div. A, title V, § 592, Aug. 13, 2018, 132 Stat. 1788.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–232, § 592(1), substituted “Except as provided in subsection (c), a person who is ineligible” for “A person who is ineligible” in introductory provisions.
+2018—Subsec. (b). Pub. L. 115–232, § 592(1), substituted “Except as provided in subsection (c), a person who is ineligible” for “A person who is ineligible” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 115–232, § 592(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 115–232, § 592(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2006—Pub. L. 109–163, § 662(c)(1), substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in section catchline.
+2006—Pub. L. 109–163, § 662(c)(1), substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in section catchline.
 
-Subsec. (a). Pub. L. 109–163, § 662(b)(1)(B), substituted “any of the following persons:” for “a person who has been convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole.” and added pars. (1) and (2).
+Subsec. (a). Pub. L. 109–163, § 662(b)(1)(B), substituted “any of the following persons:” for “a person who has been convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole.” and added pars. (1) and (2).
 
-Pub. L. 109–163, § 662(b)(1)(A), inserted “(under section 1491 of this title or any other authority)” after “military honors”.
+Pub. L. 109–163, § 662(b)(1)(A), inserted “(under section 1491 of this title or any other authority)” after “military honors”.
 
-Subsec. (b). Pub. L. 109–163, § 662(b)(2), in introductory provisions, substituted “who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of section 2411(b) of title 38” for “convicted of a capital offense under Federal law”.
+Subsec. (b). Pub. L. 109–163, § 662(b)(2), in introductory provisions, substituted “who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of section 2411(b) of title 38” for “convicted of a capital offense under Federal law”.
 
-Subsec. (c). Pub. L. 109–163, § 662(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “In this section:
+Subsec. (c). Pub. L. 109–163, § 662(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “In this section:
 
 “(1) The term ‘capital offense’ means an offense for which the death penalty may be imposed.
 
@@ -1095,7 +1095,7 @@ Subsec. (c). Pub. L. 109–163, § 662(b)(3), amended heading and text of subs
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title VI, § 662(e), Jan. 6, 2006, 119 Stat. 3316, provided that: “The amendments made by this section [amending this section, section 1491 of this title, and section 2411 of Title 38, Veterans’ Benefits and enacting provisions set out as notes under this section and section 2411 of Title 38] shall apply with respect to funerals and burials that occur on or after the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title VI, § 662(e), Jan. 6, 2006, 119 Stat. 3316, provided that: “The amendments made by this section [amending this section, section 1491 of this title, and section 2411 of Title 38, Veterans’ Benefits and enacting provisions set out as notes under this section and section 2411 of Title 38] shall apply with respect to funerals and burials that occur on or after the date of the enactment of this Act [Jan. 6, 2006].”
 
 **Effective Date of 2002 Amendment**
 
@@ -1103,25 +1103,25 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date**
 
-Pub. L. 105–85, div. A, title X, § 1077(b), Nov. 18, 1997, 111 Stat. 1915, provided that: “Section 985 of title 10, United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997.”
+Pub. L. 105–85, div. A, title X, § 1077(b), Nov. 18, 1997, 111 Stat. 1915, provided that: “Section 985 of title 10, United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997.”
 
 **Regulations**
 
-Pub. L. 109–163, div. A, title VI, § 662(d)(2), Jan. 6, 2006, 119 Stat. 3316, provided that: “The Secretary of Defense shall prescribe regulations to ensure that a person is not interred in any military cemetery under the authority of the Secretary of a military department or provided funeral honors under section 1491 of title 10, United States Code, unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in section 2411(b) of title 38, United States Code, or is otherwise ineligible for such interment or honors under Federal law.”
+Pub. L. 109–163, div. A, title VI, § 662(d)(2), Jan. 6, 2006, 119 Stat. 3316, provided that: “The Secretary of Defense shall prescribe regulations to ensure that a person is not interred in any military cemetery under the authority of the Secretary of a military department or provided funeral honors under section 1491 of title 10, United States Code, unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in section 2411(b) of title 38, United States Code, or is otherwise ineligible for such interment or honors under Federal law.”
 
-## § 986. Policy regarding identification of gender or personal pronouns in official correspondence
+## § 986. Policy regarding identification of gender or personal pronouns in official correspondence
 
 The Secretary of Defense may not require or prohibit a member of the armed forces or a civilian employee of the Department of Defense to identify the gender or personal pronouns of such member or employee in any official correspondence of the Department.
 
-(Added Pub. L. 118–31, div. A, title V, § 522(b), Dec. 22, 2023, 137 Stat. 249.)
+(Added Pub. L. 118–31, div. A, title V, § 522(b), Dec. 22, 2023, 137 Stat. 249.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 986, added Pub. L. 106–398, § 1 [[div. A], title X, § 1071(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; amended Pub. L. 107–107, div. A, title X, § 1048(c)(3), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–375, div. A, title X, § 1062, Oct. 28, 2004, 118 Stat. 2056, prohibited the Department of Defense from granting or renewing security clearances for certain persons, prior to repeal by Pub. L. 110–181, div. A, title X, § 1072(b)(1), (3), Jan. 28, 2008, 122 Stat. 329, 330, effective Jan. 1, 2008.
+A prior section 986, added Pub. L. 106–398, § 1 [[div. A], title X, § 1071(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; amended Pub. L. 107–107, div. A, title X, § 1048(c)(3), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–375, div. A, title X, § 1062, Oct. 28, 2004, 118 Stat. 2056, prohibited the Department of Defense from granting or renewing security clearances for certain persons, prior to repeal by Pub. L. 110–181, div. A, title X, § 1072(b)(1), (3), Jan. 28, 2008, 122 Stat. 329, 330, effective Jan. 1, 2008.
 
-## § 987. Terms of consumer credit extended to members and dependents: limitations
+## § 987. Terms of consumer credit extended to members and dependents: limitations
 
 **(a) Interest.—** A creditor who extends consumer credit to a covered member of the armed forces or a dependent of such a member shall not require the member or dependent to pay interest with respect to the extension of such credit, except as—
 
@@ -1267,39 +1267,39 @@ A prior section 986, added Pub. L. 106–398, § 1 [[div. A], title X, § 10
 
 **(6) Consumer credit.—** The term “consumer credit” has the meaning provided for such term in regulations prescribed under this section, except that such term does not include (A) a residential mortgage, or (B) a loan procured in the course of purchasing a car or other personal property, when that loan is offered for the express purpose of financing the purchase and is secured by the car or personal property procured.
 
-(Added Pub. L. 109–364, div. A, title VI, § 670(a), Oct. 17, 2006, 120 Stat. 2266; amended Pub. L. 112–239, div. A, title VI, §§ 661(a), (b), 662(a), (b), 663, Jan. 2, 2013, 126 Stat. 1785, 1786; Pub. L. 114–328, div. A, title X, § 1081(b)(2)(A), Dec. 23, 2016, 130 Stat. 2418.)
+(Added Pub. L. 109–364, div. A, title VI, § 670(a), Oct. 17, 2006, 120 Stat. 2266; amended Pub. L. 112–239, div. A, title VI, §§ 661(a), (b), 662(a), (b), 663, Jan. 2, 2013, 126 Stat. 1785, 1786; Pub. L. 114–328, div. A, title X, § 1081(b)(2)(A), Dec. 23, 2016, 130 Stat. 2418.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (e)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (e)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
 
 **Amendments**
 
-2016—Subsec. (e)(2). Pub. L. 114–328, § 1081(b)(2)(A)(i), inserted “(50 U.S.C. 3901 et seq.)” before semicolon at end.
+2016—Subsec. (e)(2). Pub. L. 114–328, § 1081(b)(2)(A)(i), inserted “(50 U.S.C. 3901 et seq.)” before semicolon at end.
 
-Subsec. (g). Pub. L. 114–328, § 1081(b)(2)(A)(ii), substituted “(50 U.S.C. 3937)” for “(50 U.S.C. App. 527)”.
+Subsec. (g). Pub. L. 114–328, § 1081(b)(2)(A)(ii), substituted “(50 U.S.C. 3937)” for “(50 U.S.C. App. 527)”.
 
-2013—Subsec. (d)(2)(A). Pub. L. 112–239, § 661(a)(1), inserted “any consumer credit or” before “loans”.
+2013—Subsec. (d)(2)(A). Pub. L. 112–239, § 661(a)(1), inserted “any consumer credit or” before “loans”.
 
-Subsec. (d)(2)(B). Pub. L. 112–239, § 661(a)(2), inserted “covering consumer credit” after “State consumer lending protections”.
+Subsec. (d)(2)(B). Pub. L. 112–239, § 661(a)(2), inserted “covering consumer credit” after “State consumer lending protections”.
 
-Subsec. (f)(5), (6). Pub. L. 112–239, § 662(a), (b), added pars. (5) and (6).
+Subsec. (f)(5), (6). Pub. L. 112–239, § 662(a), (b), added pars. (5) and (6).
 
-Subsec. (h)(3). Pub. L. 112–239, § 661(b)(1), inserted “and not less often than once every two years thereafter,” after “under this subsection,” in introductory provisions.
+Subsec. (h)(3). Pub. L. 112–239, § 661(b)(1), inserted “and not less often than once every two years thereafter,” after “under this subsection,” in introductory provisions.
 
-Subsec. (h)(3)(E). Pub. L. 112–239, § 661(b)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: “The Office of Thrift Supervision.”
+Subsec. (h)(3)(E). Pub. L. 112–239, § 661(b)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: “The Office of Thrift Supervision.”
 
-Subsec. (i)(2). Pub. L. 112–239, § 663, amended par. (2) generally. Prior to amendment, par. (2) defined the term “dependent”.
+Subsec. (i)(2). Pub. L. 112–239, § 663, amended par. (2) generally. Prior to amendment, par. (2) defined the term “dependent”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title VI, § 661(c), Jan. 2, 2013, 126 Stat. 1785, provided that:
+Pub. L. 112–239, div. A, title VI, § 661(c), Jan. 2, 2013, 126 Stat. 1785, provided that:
 
 > **“(1) Modification of regulations.—** The Secretary of Defense shall modify the regulations prescribed under subsection (h) of section 987 of title 10, United States Code, to take into account the amendments made by subsection (a) [amending this section].
 
@@ -1311,11 +1311,11 @@ Pub. L. 112–239, div. A, title VI, § 661(c), Jan. 2, 2013, 126 Stat. 1785, 
 
 > **“(3) Publication of earlier date.—** If the Secretary specifies an earlier effective date for the amendments made by subsection (a) pursuant to paragraph (2)(B), the Secretary shall publish notice of such earlier effective date in the Federal Register not later than 90 days before such earlier effective date.”
 
-Pub. L. 112–239, div. A, title VI, § 662(c), Jan. 2, 2013, 126 Stat. 1786, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to consumer credit extended on or after the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–239, div. A, title VI, § 662(c), Jan. 2, 2013, 126 Stat. 1786, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to consumer credit extended on or after the date of the enactment of this Act [Jan. 2, 2013].”
 
 **Effective Date**
 
-Pub. L. 109–364, div. A, title VI, § 670(c), Oct. 17, 2006, 120 Stat. 2269, provided that:
+Pub. L. 109–364, div. A, title VI, § 670(c), Oct. 17, 2006, 120 Stat. 2269, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), section 987 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2007, or on such earlier date as may be prescribed by the Secretary of Defense, and shall apply with respect to extensions of consumer credit on or after such effective date.
 
@@ -1325,13 +1325,13 @@ Pub. L. 109–364, div. A, title VI, § 670(c), Oct. 17, 2006, 120 Stat. 2269,
 
 **Meetings With Private Sector Users of Systems**
 
-Pub. L. 114–92, div. A, title V, § 594(b)(3), Nov. 25, 2015, 129 Stat. 834, provided that: “The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with [within] three months after the date of the enactment of this Act [Nov. 25, 2015].”
+Pub. L. 114–92, div. A, title V, § 594(b)(3), Nov. 25, 2015, 129 Stat. 834, provided that: “The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with [within] three months after the date of the enactment of this Act [Nov. 25, 2015].”
 
 **Interim Regulations**
 
-Pub. L. 109–364, div. A, title VI, § 670(d), Oct. 17, 2006, 120 Stat. 2269, provided for the prescription of interim regulations to carry out this section, with interim rules not superseded by final rules expiring no later than 270 days after the effective date of this section (see Effective Date note above).
+Pub. L. 109–364, div. A, title VI, § 670(d), Oct. 17, 2006, 120 Stat. 2269, provided for the prescription of interim regulations to carry out this section, with interim rules not superseded by final rules expiring no later than 270 days after the effective date of this section (see Effective Date note above).
 
-## § 988. Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense
+## § 988. Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense
 
 **(a) Prohibition.—** Except as provided in subsection (b), a covered official of the Department of Defense may not own or purchase publicly traded stock of a company if that company is one of the 10 entities awarded the most amount of contract funds by the Department of Defense in a fiscal year during the five preceding fiscal years.
 
@@ -1355,17 +1355,17 @@ Pub. L. 109–364, div. A, title VI, § 670(d), Oct. 17, 2006, 120 Stat. 2269,
 
 **(2)** The term “Excepted Investment Fund” means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Added Pub. L. 116–92, div. A, title IX, § 921(a), Dec. 20, 2019, 133 Stat. 1560.)
+(Added Pub. L. 116–92, div. A, title IX, § 921(a), Dec. 20, 2019, 133 Stat. 1560.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 102(f)(8) of the Ethics in Government Act of 1978, referred to in subsec. (c)(2), is section 102(f)(8) of Pub. L. 95–521, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 13104(f)(8) of Title 5 by Pub. L. 117–286, §§ 3(c), (7), Dec. 27, 2022, 136 Stat. 4284, 4361.
+Section 102(f)(8) of the Ethics in Government Act of 1978, referred to in subsec. (c)(2), is section 102(f)(8) of Pub. L. 95–521, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 13104(f)(8) of Title 5 by Pub. L. 117–286, §§ 3(c), (7), Dec. 27, 2022, 136 Stat. 4284, 4361.
 
-## § 989. Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments
+## § 989. Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments
 
 **(a) In General.—** Except as provided by subsection (b), a covered individual may not occupy a covered post-service position.
 
@@ -1473,13 +1473,13 @@ Section 102(f)(8) of the Ethics in Government Act of 1978, referred to in subsec
 
 **(3) Covered post-service position.—** The term “covered post-service position” means a position of employment described in paragraph (2).
 
-(Added Pub. L. 118–31, div. A, title V, § 523(a), Dec. 22, 2023, 137 Stat. 250.)
+(Added Pub. L. 118–31, div. A, title V, § 523(a), Dec. 22, 2023, 137 Stat. 250.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Counterintelligence Briefings for Members of the Armed Forces**
 
-Pub. L. 119–60, div. F, title LXV, § 6511, Dec. 18, 2025, 139 Stat. 1629, provided that:
+Pub. L. 119–60, div. F, title LXV, § 6511, Dec. 18, 2025, 139 Stat. 1629, provided that:
 
 > **“(a) Definitions.—** In this section:
 

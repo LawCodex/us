@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—AUTOMOBILE DEALER SUITS AGAINST MANUFACTURERS
 
-## § 1221. Definitions
+## § 1221. Definitions
 
 As used in this chapter—
 
@@ -29,45 +29,45 @@ As used in this chapter—
 
 **(e)** The term “good faith” shall mean the duty of each party to any franchise, and all officers, employees, or agents thereof to act in a fair and equitable manner toward each other so as to guarantee the one party freedom from coercion, intimidation, or threats of coercion or intimidation from the other party: *Provided*, That recommendation, endorsement, exposition, persuasion, urging or argument shall not be deemed to constitute a lack of good faith.
 
-(Aug. 8, 1956, ch. 1038, § 1, 70 Stat. 1125.)
+(Aug. 8, 1956, ch. 1038, § 1, 70 Stat. 1125.)
 
-## § 1222. Authorization of suits against manufacturers; amount of recovery; defenses
+## § 1222. Authorization of suits against manufacturers; amount of recovery; defenses
 
 An automobile dealer may bring suit against any automobile manufacturer engaged in commerce, in any district court of the United States in the district in which said manufacturer resides, or is found, or has an agent, without respect to the amount in controversy, and shall recover the damages by him sustained and the cost of suit by reason of the failure of said automobile manufacturer from and after August 8, 1956, to act in good faith in performing or complying with any of the terms or provisions of the franchise, or in terminating, canceling, or not renewing the franchise with said dealer: *Provided*, That in any such suit the manufacturer shall not be barred from asserting in defense of any such action the failure of the dealer to act in good faith.
 
-(Aug. 8, 1956, ch. 1038, § 2, 70 Stat. 1125.)
+(Aug. 8, 1956, ch. 1038, § 2, 70 Stat. 1125.)
 
-## § 1223. Limitations
+## § 1223. Limitations
 
 Any action brought pursuant to this chapter shall be forever barred unless commenced within three years after the cause of action shall have accrued.
 
-(Aug. 8, 1956, ch. 1038, § 3, 70 Stat. 1125.)
+(Aug. 8, 1956, ch. 1038, § 3, 70 Stat. 1125.)
 
-## § 1224. Antitrust laws as affected
+## § 1224. Antitrust laws as affected
 
 No provision of this chapter shall repeal, modify, or supersede, directly or indirectly, any provision of the antitrust laws of the United States.
 
-(Aug. 8, 1956, ch. 1038, § 4, 70 Stat. 1125.)
+(Aug. 8, 1956, ch. 1038, § 4, 70 Stat. 1125.)
 
-## § 1225. State laws as affected
+## § 1225. State laws as affected
 
-This chapter shall not invalidate any provision of the laws of any State except insofar as there is a direct conflict between an express provision of this chapter and an express provision of State law which can not 1
+This chapter shall not invalidate any provision of the laws of any State except insofar as there is a direct conflict between an express provision of this chapter and an express provision of State law which can not 1
 
-<sup>1</sup>  So in original. Probably should be “cannot”.
+<sup>1</sup> So in original. Probably should be “cannot”.
 
 be reconciled.
 
-(Aug. 8, 1956, ch. 1038, § 5, 70 Stat. 1126.)
+(Aug. 8, 1956, ch. 1038, § 5, 70 Stat. 1126.)
 
-## § 1226. Motor vehicle franchise contract dispute resolution process
+## § 1226. Motor vehicle franchise contract dispute resolution process
 
 **(a) Election of arbitration**
 
 **(1) Definitions** For purposes of this subsection—
 
-**(A)** the term “motor vehicle” has the meaning given such term in section 30102(6) of title 49; 1
+**(A)** the term “motor vehicle” has the meaning given such term in section 30102(6) of title 49; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -85,7 +85,7 @@ Notwithstanding any other provision of law, whenever arbitration is elected to s
 
 Subsection (a) shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
 
-(Pub. L. 107–273, div. C, title I, § 11028, Nov. 2, 2002, 116 Stat. 1835.)
+(Pub. L. 107–273, div. C, title I, § 11028, Nov. 2, 2002, 116 Stat. 1835.)
 
 **Editorial Notes**
 

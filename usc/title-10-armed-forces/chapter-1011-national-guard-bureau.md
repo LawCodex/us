@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title III, § 333(b)(2), Dec. 12, 2017, 131 Stat. 1356, added item 10504 and struck out former item 10504 “Chief of National Guard Bureau: annual report”.
+2017—Pub. L. 115–91, div. A, title III, § 333(b)(2), Dec. 12, 2017, 131 Stat. 1356, added item 10504 and struck out former item 10504 “Chief of National Guard Bureau: annual report”.
 
-2011—Pub. L. 112–81, div. A, title V, § 511(d)(2), Dec. 31, 2011, 125 Stat. 1393, substituted “Vice Chief of the National Guard Bureau” for “Director of the Joint Staff of the National Guard Bureau” in item 10505.
+2011—Pub. L. 112–81, div. A, title V, § 511(d)(2), Dec. 31, 2011, 125 Stat. 1393, substituted “Vice Chief of the National Guard Bureau” for “Director of the Joint Staff of the National Guard Bureau” in item 10505.
 
-2008—Pub. L. 110–181, div. A, title XVIII, §§ 1812(b)(2), 1813(c)(2), Jan. 28, 2008, 122 Stat. 497, 498, substituted “Functions of National Guard Bureau: charter” for “Functions of National Guard Bureau: charter from Secretaries of the Army and Air Force” in item 10503 and added item 10508.
+2008—Pub. L. 110–181, div. A, title XVIII, §§ 1812(b)(2), 1813(c)(2), Jan. 28, 2008, 122 Stat. 497, 498, substituted “Functions of National Guard Bureau: charter” for “Functions of National Guard Bureau: charter from Secretaries of the Army and Air Force” in item 10503 and added item 10508.
 
-2004—Pub. L. 108–375, div. A, title V, §§ 507(b)(2), 508(c)(2), Oct. 28, 2004, 118 Stat. 1876, 1877, inserted “; succession” after “grade” in item 10502 and substituted “Director of the Joint Staff” for “Vice Chief” in item 10505.
+2004—Pub. L. 108–375, div. A, title V, §§ 507(b)(2), 508(c)(2), Oct. 28, 2004, 118 Stat. 1876, 1877, inserted “; succession” after “grade” in item 10502 and substituted “Director of the Joint Staff” for “Vice Chief” in item 10505.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(5), (7)(B), Feb. 10, 1996, 110 Stat. 496, inserted “Sec.” at top of column of section numbers and struck out item 10508 “Definition”.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(5), (7)(B), Feb. 10, 1996, 110 Stat. 496, inserted “Sec.” at top of column of section numbers and struck out item 10508 “Definition”.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1661(c)(1)(B), Oct. 5, 1994, 108 Stat. 2982, added item 10507.
+1994—Pub. L. 103–337, div. A, title XVI, § 1661(c)(1)(B), Oct. 5, 1994, 108 Stat. 2982, added item 10507.
 
-## § 10501. National Guard Bureau
+## § 10501. National Guard Bureau
 
 **(a) National Guard Bureau.—** There is in the Department of Defense the National Guard Bureau, which is a joint activity of the Department of Defense.
 
 **(b) Purposes.—** The National Guard Bureau is the channel of communications on all matters pertaining to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States between (1) the Department of the Army and Department of the Air Force, and (2) the several States.
 
-(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 110–181, div. A, title XVIII, § 1812(a), Jan. 28, 2008, 122 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 110–181, div. A, title XVIII, § 1812(a), Jan. 28, 2008, 122 Stat. 497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3040(a) of this title, prior to repeal by Pub. L. 103–337, § 904(b)(1).
+Provisions similar to those in this section were contained in section 3040(a) of this title, prior to repeal by Pub. L. 103–337, § 904(b)(1).
 
 **Amendments**
 
@@ -53,9 +53,9 @@ Provisions similar to those in this section were contained in section 3040(a) of
 
 **Effective Date**
 
-Pub. L. 103–337, div. A, title IX, § 904(d), Oct. 5, 1994, 108 Stat. 2827, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(6), Feb. 10, 1996, 110 Stat. 513, provided that: “The provisions of chapter 1011 of title 10, United States Code, as added by subsection (a), shall become effective, and the repeal made by subsection (b) [repealing section 3040 of this title] and the amendment made by subsection (c) [amending section 108 of Title 32, National Guard] shall take effect, at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title IX, § 904(d), Oct. 5, 1994, 108 Stat. 2827, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(6), Feb. 10, 1996, 110 Stat. 513, provided that: “The provisions of chapter 1011 of title 10, United States Code, as added by subsection (a), shall become effective, and the repeal made by subsection (b) [repealing section 3040 of this title] and the amendment made by subsection (c) [amending section 108 of Title 32, National Guard] shall take effect, at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 5, 1994].”
 
-## § 10502. Chief of the National Guard Bureau: appointment; adviser on National Guard matters; grade; succession
+## § 10502. Chief of the National Guard Bureau: appointment; adviser on National Guard matters; grade; succession
 
 **(a) Appointment.—** There is a Chief of the National Guard Bureau, who is responsible for the organization and operations of the National Guard Bureau. The Chief of the National Guard Bureau is appointed by the President, by and with the advice and consent of the Senate. Such appointment shall be made from officers of the Army National Guard of the United States or the Air National Guard of the United States who—
 
@@ -101,27 +101,27 @@ Pub. L. 103–337, div. A, title IX, § 904(d), Oct. 5, 1994, 108 Stat. 2827, 
 
 **(2)** When there is a vacancy in the offices of both the Chief and the Vice Chief of the National Guard Bureau or in the absence or disability of both the Chief and the Vice Chief of the National Guard Bureau, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the senior officer of the Army National Guard of the United States or the Air National Guard of the United States on duty with the National Guard Bureau shall perform the duties of the Chief until a successor to the Chief or Vice Chief is appointed or the absence or disability of the Chief or Vice Chief ceases, as the case may be.
 
-(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 108–375, div. A, title V, § 507(a), (b)(1), Oct. 28, 2004, 118 Stat. 1876; Pub. L. 110–181, div. A, title XVIII, §§ 1811, 1825(c)(2), Jan. 28, 2008, 122 Stat. 496, 502; Pub. L. 112–81, div. A, title V, §§ 511(a)(1),(2), 512(b), Dec. 31, 2011, 125 Stat. 1391, 1393.)
+(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 108–375, div. A, title V, § 507(a), (b)(1), Oct. 28, 2004, 118 Stat. 1876; Pub. L. 110–181, div. A, title XVIII, §§ 1811, 1825(c)(2), Jan. 28, 2008, 122 Stat. 496, 502; Pub. L. 112–81, div. A, title V, §§ 511(a)(1),(2), 512(b), Dec. 31, 2011, 125 Stat. 1391, 1393.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3040(a)–(c) of this title, prior to repeal by Pub. L. 103–337, § 904(b)(1).
+Provisions similar to those in this section were contained in section 3040(a)–(c) of this title, prior to repeal by Pub. L. 103–337, § 904(b)(1).
 
 **Amendments**
 
-2011—Subsec. (d). Pub. L. 112–81, § 512(b)(2) added subsec (d). Former subsec. (d) redesignated (e).
+2011—Subsec. (d). Pub. L. 112–81, § 512(b)(2) added subsec (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 112–81, § 511(a)(1), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau shall be appointed to serve in the grade of general.”
+Pub. L. 112–81, § 511(a)(1), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau shall be appointed to serve in the grade of general.”
 
-Subsec. (e). Pub. L. 112–81, § 512(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 112–81, § 512(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 112–81, § 511(a)(2), amended subsec. (e) generally. Prior to amendment, text related to succession for office of Chief of the National Guard Bureau.
+Pub. L. 112–81, § 511(a)(2), amended subsec. (e) generally. Prior to amendment, text related to succession for office of Chief of the National Guard Bureau.
 
-Subsec. (f). Pub. L. 112–81, § 512(b)(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 112–81, § 512(b)(1), redesignated subsec. (e) as (f).
 
-2008—Subsec. (a). Pub. L. 110–181, § 1811(a), added pars. (1) to (8) and struck out former pars. (1) to (3) which read as follows:
+2008—Subsec. (a). Pub. L. 110–181, § 1811(a), added pars. (1) to (8) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) are recommended for such appointment by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
 
@@ -129,17 +129,17 @@ Subsec. (f). Pub. L. 112–81, § 512(b)(1), redesignated subsec. (e) as (f).
 
 “(3) are in a grade above the grade of brigadier general.”
 
-Subsec. (b). Pub. L. 110–181, § 1825(c)(2), inserted par. (1) designation before “An officer appointed” and substituted “(2) Except as provided in section 14508(d) of this title, while holding the office of Chief of the National Guard Bureau” for “While holding that office”.
+Subsec. (b). Pub. L. 110–181, § 1825(c)(2), inserted par. (1) designation before “An officer appointed” and substituted “(2) Except as provided in section 14508(d) of this title, while holding the office of Chief of the National Guard Bureau” for “While holding that office”.
 
-Pub. L. 110–181, § 1811(c), struck out “An officer may not hold that office after becoming 64 years of age.” after “four years.”
+Pub. L. 110–181, § 1811(c), struck out “An officer may not hold that office after becoming 64 years of age.” after “four years.”
 
-Subsec. (c). Pub. L. 110–181, § 1811(d), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau is the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.”
+Subsec. (c). Pub. L. 110–181, § 1811(d), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau is the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.”
 
-Subsec. (d). Pub. L. 110–181, § 1811(b), substituted “general” for “lieutenant general”.
+Subsec. (d). Pub. L. 110–181, § 1811(b), substituted “general” for “lieutenant general”.
 
-2004—Pub. L. 108–375, § 507(b)(1), inserted “; succession” after “grade” in section catchline.
+2004—Pub. L. 108–375, § 507(b)(1), inserted “; succession” after “grade” in section catchline.
 
-Subsec. (e). Pub. L. 108–375, § 507(a), added subsec. (e).
+Subsec. (e). Pub. L. 108–375, § 507(a), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,7 +147,7 @@ Subsec. (e). Pub. L. 108–375, § 507(a), added subsec. (e).
 
 Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under section 10501 of this title.
 
-## § 10503. Functions of National Guard Bureau: charter
+## § 10503. Functions of National Guard Bureau: charter
 
 The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop and prescribe a charter for the National Guard Bureau. The charter shall reflect the full scope of the duties and activities of the Bureau, including the following matters:
 
@@ -189,7 +189,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 **(14)** Such other functions as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 110–181, div. A, title XVIII, § 1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498; Pub. L. 112–239, div. A, title X, § 1081(3), Jan. 2, 2013, 126 Stat. 1960.)
+(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 110–181, div. A, title XVIII, § 1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498; Pub. L. 112–239, div. A, title X, § 1081(3), Jan. 2, 2013, 126 Stat. 1960.)
 
 **Editorial Notes**
 
@@ -197,11 +197,11 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 2013—Par. (13)(B)(iii), (iv). Pub. L. 112–239 redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “The United States Joint Forces Command.”
 
-2008—Pub. L. 110–181, § 1813(c)(1), substituted “charter” for “charter from Secretaries of the Army and Air Force” in section catchline.
+2008—Pub. L. 110–181, § 1813(c)(1), substituted “charter” for “charter from Secretaries of the Army and Air Force” in section catchline.
 
-Pub. L. 110–181, § 1813(b)(1), in introductory provisions, substituted “The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop” for “The Secretary of the Army and the Secretary of the Air Force shall jointly develop” and “reflect the full scope of the duties and activities of the Bureau, including” for “cover”.
+Pub. L. 110–181, § 1813(b)(1), in introductory provisions, substituted “The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop” for “The Secretary of the Army and the Secretary of the Air Force shall jointly develop” and “reflect the full scope of the duties and activities of the Bureau, including” for “cover”.
 
-Pars. (2) to (14). Pub. L. 110–181, § 1813(a), (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted “the Secretary of Defense” for “the Secretaries” in par. (14).
+Pars. (2) to (14). Pub. L. 110–181, § 1813(a), (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted “the Secretary of Defense” for “the Secretaries” in par. (14).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -211,9 +211,9 @@ Section effective at end of 90-day period beginning on Oct. 5, 1994, see section
 
 **Annual Preparation of Future Years Defense Plan**
 
-Pub. L. 104–196, § 123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: *Provided*, That this plan shall be presented to the committees of Congress concurrent with the President’s budget submission for each fiscal year.”
+Pub. L. 104–196, § 123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: *Provided*, That this plan shall be presented to the committees of Congress concurrent with the President’s budget submission for each fiscal year.”
 
-## § 10504. Chief of National Guard Bureau: annual reports
+## § 10504. Chief of National Guard Bureau: annual reports
 
 **(a) Annual Report on State of the National Guard.—**
 
@@ -271,25 +271,25 @@ Pub. L. 104–196, § 123, Sept. 16, 1996, 110 Stat. 2392, provided that: “T
 
 **(4)** In this subsection, the term “covered period” means the fiscal year beginning after the date on which a report is submitted under paragraph (1).
 
-(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 115–91, div. A, title III, § 333(a), (b)(1), Dec. 12, 2017, 131 Stat. 1354–1356; Pub. L. 115–232, div. A, title X, § 1081(a)(30), title XII, § 1251(b)(1), Aug. 13, 2018, 132 Stat. 1985, 2053.)
+(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 115–91, div. A, title III, § 333(a), (b)(1), Dec. 12, 2017, 131 Stat. 1354–1356; Pub. L. 115–232, div. A, title X, § 1081(a)(30), title XII, § 1251(b)(1), Aug. 13, 2018, 132 Stat. 1985, 2053.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–232, § 1081(a)(30)(A), inserted “(1)” before “The Chief”.
+2018—Subsec. (a). Pub. L. 115–232, § 1081(a)(30)(A), inserted “(1)” before “The Chief”.
 
-Subsecs. (b), (c). Pub. L. 115–232, § 1081(a)(30)(B), redesignated subsec. (b), relating to annual report on non-Federalized service National Guard personnel, training, and equipment requirements, as (c).
+Subsecs. (b), (c). Pub. L. 115–232, § 1081(a)(30)(B), redesignated subsec. (b), relating to annual report on non-Federalized service National Guard personnel, training, and equipment requirements, as (c).
 
-Subsec. (c)(3)(H). Pub. L. 115–232, § 1251(b)(1), substituted “United States Indo-Pacific Command” for “United States Pacific Command”.
+Subsec. (c)(3)(H). Pub. L. 115–232, § 1251(b)(1), substituted “United States Indo-Pacific Command” for “United States Pacific Command”.
 
-2017—Pub. L. 115–91, § 333(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Chief of National Guard Bureau: annual report”.
+2017—Pub. L. 115–91, § 333(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Chief of National Guard Bureau: annual report”.
 
-Subsec. (a). Pub. L. 115–91, § 333(a)(1)(A), substituted “Report on State of the National Guard” for “Report” in heading.
+Subsec. (a). Pub. L. 115–91, § 333(a)(1)(A), substituted “Report on State of the National Guard” for “Report” in heading.
 
-Subsec. (a)(2). Pub. L. 115–91, § 333(a)(1)(B), designated second sentence of subsec. (a) as par. (2) and substituted “The annual report required by paragraph (1)” for “The report”.
+Subsec. (a)(2). Pub. L. 115–91, § 333(a)(1)(B), designated second sentence of subsec. (a) as par. (2) and substituted “The annual report required by paragraph (1)” for “The report”.
 
-Subsec. (b). Pub. L. 115–91, § 333(a)(2), added subsec. (b) relating to annual report on non-Federalized service National Guard personnel, training, and equipment requirements.
+Subsec. (b). Pub. L. 115–91, § 333(a)(2), added subsec. (b) relating to annual report on non-Federalized service National Guard personnel, training, and equipment requirements.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -297,7 +297,7 @@ Subsec. (b). Pub. L. 115–91, § 333(a)(2), added subsec. (b) relating to ann
 
 Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under section 10501 of this title.
 
-## § 10505. Vice Chief of the National Guard Bureau
+## § 10505. Vice Chief of the National Guard Bureau
 
 **(a) Appointment.—**
 
@@ -329,7 +329,7 @@ Section effective at end of 90-day period beginning on Oct. 5, 1994, see section
 
 **(2)** The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title, the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
 
-(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L. 108–375, div. A, title V, §§ 507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, § 511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393; Pub. L. 114–328, div. A, title V, §§ 502(rr), 511, Dec. 23, 2016, 130 Stat. 2106, 2112; Pub. L. 118–31, div. A, title V, § 512, Dec. 22, 2023, 137 Stat. 244.)
+(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L. 108–375, div. A, title V, §§ 507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, § 511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393; Pub. L. 114–328, div. A, title V, §§ 502(rr), 511, Dec. 23, 2016, 130 Stat. 2106, 2112; Pub. L. 118–31, div. A, title V, § 512, Dec. 22, 2023, 137 Stat. 244.)
 
 **Editorial Notes**
 
@@ -337,51 +337,51 @@ Section effective at end of 90-day period beginning on Oct. 5, 1994, see section
 
 2023—Subsec. (c). Pub. L. 118–31 added subsec. (c).
 
-2016—Subsec. (a)(1)(E). Pub. L. 114–328, § 502(rr)(1), struck out subpar. (E) which read as follows: “are in a grade above the grade of brigadier general.”
+2016—Subsec. (a)(1)(E). Pub. L. 114–328, § 502(rr)(1), struck out subpar. (E) which read as follows: “are in a grade above the grade of brigadier general.”
 
-Subsec. (a)(4). Pub. L. 114–328, § 511, substituted “paragraph (3) for not more than 90 days” for “paragraph (3)(B) for a limited period of time”.
+Subsec. (a)(4). Pub. L. 114–328, § 511, substituted “paragraph (3) for not more than 90 days” for “paragraph (3)(B) for a limited period of time”.
 
-Subsec. (c). Pub. L. 114–328, § 502(rr)(2), struck out subsec. (c). Text read as follows:
+Subsec. (c). Pub. L. 114–328, § 502(rr)(2), struck out subsec. (c). Text read as follows:
 
 “(1) The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of lieutenant general.
 
 “(2) The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title, the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.”
 
-2011—Pub. L. 112–81, § 511(d)(1), substituted “Vice Chief of the National Guard Bureau” for “Director of the Joint Staff of the National Guard Bureau” in section catchline.
+2011—Pub. L. 112–81, § 511(d)(1), substituted “Vice Chief of the National Guard Bureau” for “Director of the Joint Staff of the National Guard Bureau” in section catchline.
 
-Subsec. (a)(1). Pub. L. 112–81, § 511(b)(1), substituted “Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent of the Senate. The appointment shall be made from” for “Director of the Joint Staff of the National Guard Bureau, selected by the Secretary of Defense from” in introductory provisions.
+Subsec. (a)(1). Pub. L. 112–81, § 511(b)(1), substituted “Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent of the Senate. The appointment shall be made from” for “Director of the Joint Staff of the National Guard Bureau, selected by the Secretary of Defense from” in introductory provisions.
 
-Subsec. (a)(1)(B) to (E). Pub. L. 112–81, § 511(b)(2), added subpars. (B) and (C), redesignated former subpars. (B) and (C) as (D) and (E), respectively, and substituted “brigadier general” for “colonel” in subpar. (E).
+Subsec. (a)(1)(B) to (E). Pub. L. 112–81, § 511(b)(2), added subpars. (B) and (C), redesignated former subpars. (B) and (C) as (D) and (E), respectively, and substituted “brigadier general” for “colonel” in subpar. (E).
 
-Subsec. (a)(2) to (4). Pub. L. 112–81, § 511(c)(1)(A), substituted “Vice Chief” for “Director of the Joint Staff” wherever appearing and substituted “as the Vice Chief” for “as the Director” in par. (3)(B).
+Subsec. (a)(2) to (4). Pub. L. 112–81, § 511(c)(1)(A), substituted “Vice Chief” for “Director of the Joint Staff” wherever appearing and substituted “as the Vice Chief” for “as the Director” in par. (3)(B).
 
-Subsec. (b). Pub. L. 112–81, § 511(c)(1)(B), substituted “Vice Chief” for “Director of the Joint Staff”.
+Subsec. (b). Pub. L. 112–81, § 511(c)(1)(B), substituted “Vice Chief” for “Director of the Joint Staff”.
 
-Subsec. (c). Pub. L. 112–81, § 511(b)(3), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Director of the Joint Staff of the National Guard Bureau shall be appointed to serve in the grade of major general.”
+Subsec. (c). Pub. L. 112–81, § 511(b)(3), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Director of the Joint Staff of the National Guard Bureau shall be appointed to serve in the grade of major general.”
 
-2004—Pub. L. 108–375, § 508(c)(1), substituted “Director of the Joint Staff” for “Vice Chief” in section catchline.
+2004—Pub. L. 108–375, § 508(c)(1), substituted “Director of the Joint Staff” for “Vice Chief” in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–375, § 508(a), substituted “Director of the Joint Staff” for “Vice Chief” in introductory provisions.
+Subsec. (a)(1). Pub. L. 108–375, § 508(a), substituted “Director of the Joint Staff” for “Vice Chief” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 108–375, § 508(b)(3), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau”.
+Subsec. (a)(2). Pub. L. 108–375, § 508(b)(3), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau”.
 
-Subsec. (a)(3)(A). Pub. L. 108–375, § 508(b)(1), substituted “Director of the Joint Staff” for “Vice Chief”.
+Subsec. (a)(3)(A). Pub. L. 108–375, § 508(b)(1), substituted “Director of the Joint Staff” for “Vice Chief”.
 
-Subsec. (a)(3)(B). Pub. L. 108–375, § 508(b)(1), (2), substituted “Director of the Joint Staff” for “Vice Chief” and “as the Director” for “as the Vice Chief”.
+Subsec. (a)(3)(B). Pub. L. 108–375, § 508(b)(1), (2), substituted “Director of the Joint Staff” for “Vice Chief” and “as the Director” for “as the Vice Chief”.
 
-Subsec. (a)(4). Pub. L. 108–375, § 508(b)(3), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau”.
+Subsec. (a)(4). Pub. L. 108–375, § 508(b)(3), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau”.
 
-Subsecs. (b), (c). Pub. L. 108–375, § 508(b)(1), substituted “Director of the Joint Staff” for “Vice Chief”.
+Subsecs. (b), (c). Pub. L. 108–375, § 508(b)(1), substituted “Director of the Joint Staff” for “Vice Chief”.
 
-Subsecs. (d), (e). Pub. L. 108–375, § 507(c), struck out subsecs. (d) and (e) which related to functions as acting Chief and succession after Chief and Vice Chief, respectively.
+Subsecs. (d), (e). Pub. L. 108–375, § 507(c), struck out subsecs. (d) and (e) which related to functions as acting Chief and succession after Chief and Vice Chief, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 112–81, div. A, title V, § 511(c)(3), Dec. 31, 2011, 125 Stat. 1393, provided that: “Any reference in any law, regulation, document, paper, or other record of the United States to the Director of the Joint Staff of the National Guard Bureau shall be deemed to be a reference to the Vice Chief of the National Guard Bureau.”
+Pub. L. 112–81, div. A, title V, § 511(c)(3), Dec. 31, 2011, 125 Stat. 1393, provided that: “Any reference in any law, regulation, document, paper, or other record of the United States to the Director of the Joint Staff of the National Guard Bureau shall be deemed to be a reference to the Vice Chief of the National Guard Bureau.”
 
-Pub. L. 108–375, div. A, title V, § 508(d), Oct. 28, 2004, 118 Stat. 1877, provided that: “Any reference in any law, regulation, document, paper, or other record of the United States to the Vice Chief of the National Guard Bureau shall be deemed to be a reference to the Director of the Joint Staff of the National Guard Bureau.”
+Pub. L. 108–375, div. A, title V, § 508(d), Oct. 28, 2004, 118 Stat. 1877, provided that: “Any reference in any law, regulation, document, paper, or other record of the United States to the Vice Chief of the National Guard Bureau shall be deemed to be a reference to the Director of the Joint Staff of the National Guard Bureau.”
 
 **Effective Date**
 
@@ -389,9 +389,9 @@ Section effective at end of 90-day period beginning on Oct. 5, 1994, see section
 
 **Treatment of Current Director of the Joint Staff of the National Guard Bureau**
 
-Pub. L. 112–81, div. A, title V, § 511(e), Dec. 31, 2011, 125 Stat. 1393, provided that: “The officer who is serving as Director of the Joint Staff of the National Guard Bureau on the date of the enactment of this Act [Dec. 31, 2011] shall serve, in the grade of major general, as acting Vice Chief of the National Guard Bureau until the appointment of a Vice Chief of the National Guard Bureau in accordance with subsection (a) of section 10505 of title 10, United States Code, as amended by subsection (b). Notwithstanding the amendment made by subsection (b)(3) [amending this section], the acting Vice Chief of the National Guard Bureau shall not be excluded from the limitations in section 526(a) of such title.”
+Pub. L. 112–81, div. A, title V, § 511(e), Dec. 31, 2011, 125 Stat. 1393, provided that: “The officer who is serving as Director of the Joint Staff of the National Guard Bureau on the date of the enactment of this Act [Dec. 31, 2011] shall serve, in the grade of major general, as acting Vice Chief of the National Guard Bureau until the appointment of a Vice Chief of the National Guard Bureau in accordance with subsection (a) of section 10505 of title 10, United States Code, as amended by subsection (b). Notwithstanding the amendment made by subsection (b)(3) [amending this section], the acting Vice Chief of the National Guard Bureau shall not be excluded from the limitations in section 526(a) of such title.”
 
-## § 10506. Other senior National Guard Bureau officers
+## § 10506. Other senior National Guard Bureau officers
 
 **(a) Additional General Officers.—**
 
@@ -419,35 +419,35 @@ Pub. L. 112–81, div. A, title V, § 511(e), Dec. 31, 2011, 125 Stat. 1393, p
 
 **(b) Other Officers.—** There are in the National Guard Bureau a legal counsel, a comptroller, and an inspector general, each of whom shall be appointed by the Chief of the National Guard Bureau. They shall perform such duties as the Chief may prescribe.
 
-(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2827; amended Pub. L. 106–65, div. A, title V, § 554(f), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §§ 508(b)(4), 536(a), Oct. 28, 2004, 118 Stat. 1877, 1901; Pub. L. 112–81, div. A, title V, § 511(c)(2), Dec. 31, 2011, 125 Stat. 1393; Pub. L. 113–291, div. A, title V, § 512(a)–(c), Dec. 19, 2014, 128 Stat. 3358; Pub. L. 114–328, div. A, title V, § 502(ss), Dec. 23, 2016, 130 Stat. 2107.)
+(Added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2827; amended Pub. L. 106–65, div. A, title V, § 554(f), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §§ 508(b)(4), 536(a), Oct. 28, 2004, 118 Stat. 1877, 1901; Pub. L. 112–81, div. A, title V, § 511(c)(2), Dec. 31, 2011, 125 Stat. 1393; Pub. L. 113–291, div. A, title V, § 512(a)–(c), Dec. 19, 2014, 128 Stat. 3358; Pub. L. 114–328, div. A, title V, § 502(ss), Dec. 23, 2016, 130 Stat. 2107.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a)(1)(A), (B). Pub. L. 114–328, § 502(ss)(2), which directed amendment of subpars. (A) and (B) by striking “, and shall hold the grade of lieutenant general while so serving,” was executed by striking “, shall hold the grade of lieutenant general while so serving,” after “in accordance with paragraph (3)” to reflect the probable intent of Congress.
+2016—Subsec. (a)(1)(A), (B). Pub. L. 114–328, § 502(ss)(2), which directed amendment of subpars. (A) and (B) by striking “, and shall hold the grade of lieutenant general while so serving,” was executed by striking “, shall hold the grade of lieutenant general while so serving,” after “in accordance with paragraph (3)” to reflect the probable intent of Congress.
 
-Pub. L. 114–328, § 502(ss)(1), which directed amendment of subpars. (A) and (B) by striking “general”, was executed by striking “general” before “officers selected” to reflect the probable intent of Congress.
+Pub. L. 114–328, § 502(ss)(1), which directed amendment of subpars. (A) and (B) by striking “general”, was executed by striking “general” before “officers selected” to reflect the probable intent of Congress.
 
-2014—Subsec. (a)(1)(A). Pub. L. 113–291, § 512(a)(1), inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Army”.
+2014—Subsec. (a)(1)(A). Pub. L. 113–291, § 512(a)(1), inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Army”.
 
-Subsec. (a)(1)(B). Pub. L. 113–291, § 512(a)(2), inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Air Force”.
+Subsec. (a)(1)(B). Pub. L. 113–291, § 512(a)(2), inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Air Force”.
 
-Subsec. (a)(2). Pub. L. 113–291, § 512(b), substituted “The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard,” for “The officers so selected”.
+Subsec. (a)(2). Pub. L. 113–291, § 512(b), substituted “The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard,” for “The officers so selected”.
 
-Subsec. (a)(3)(D), (E). Pub. L. 113–291, § 512(c), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, subpar. (D) related to waiver of subsec. (a)(3)(B)(ii) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard.
+Subsec. (a)(3)(D), (E). Pub. L. 113–291, § 512(c), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, subpar. (D) related to waiver of subsec. (a)(3)(B)(ii) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard.
 
 2011—Subsec. (a)(1). Pub. L. 112–81 substituted “Chief and Vice Chief” for “Chief of the National Guard Bureau and the Director of the Joint Staff”.
 
-2004—Subsec. (a)(1). Pub. L. 108–375, § 508(b)(4), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau” in introductory provisions.
+2004—Subsec. (a)(1). Pub. L. 108–375, § 508(b)(4), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau” in introductory provisions.
 
-Subsec. (a)(3)(D). Pub. L. 108–375, § 536(a), substituted “December 31, 2006” for “December 31, 2004”.
+Subsec. (a)(3)(D). Pub. L. 108–375, § 536(a), substituted “December 31, 2006” for “December 31, 2004”.
 
 2002—Subsec. (a)(3)(D). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
 
-2000—Subsec. (a)(1). Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)(1)], substituted “shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall” for “while so serving shall hold the grade of major general or, if appointed to that position in accordance with section 12505(a)(2) of this title, the grade of lieutenant general, and” in subpars. (A) and (B).
+2000—Subsec. (a)(1). Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)(1)], substituted “shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall” for “while so serving shall hold the grade of major general or, if appointed to that position in accordance with section 12505(a)(2) of this title, the grade of lieutenant general, and” in subpars. (A) and (B).
 
-Subsec. (a)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)(2)], added par. (3).
+Subsec. (a)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)(2)], added par. (3).
 
 1999—Subsec. (a)(1)(A), (B). Pub. L. 106–65 inserted “or, if appointed to that position in accordance with section 12505(a)(2) of this title, the grade of lieutenant general,” after “major general”.
 
@@ -455,7 +455,7 @@ Subsec. (a)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)(2)], a
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title V, § 512(d), Dec. 19, 2014, 128 Stat. 3358, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to assignments to the National Guard Bureau under section 10506 of title 10, United States Code, that occur after the date of the enactment of this Act [Dec. 19, 2014].”
+Pub. L. 113–291, div. A, title V, § 512(d), Dec. 19, 2014, 128 Stat. 3358, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to assignments to the National Guard Bureau under section 10506 of title 10, United States Code, that occur after the date of the enactment of this Act [Dec. 19, 2014].”
 
 **Effective Date of 1999 Amendment; Applicability to Incumbents**
 
@@ -465,17 +465,17 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
 
 Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under section 10501 of this title.
 
-## § 10507. National Guard Bureau: assignment of officers of regular or reserve components
+## § 10507. National Guard Bureau: assignment of officers of regular or reserve components
 
 Except as provided in section 12402(b) of this title, the President may assign to duty in the National Guard Bureau as many regular or reserve officers of the Army or Air Force as he considers necessary.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(c)(1)(A), Oct. 5, 1994, 108 Stat. 2982; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(6), Feb. 10, 1996, 110 Stat. 496.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(c)(1)(A), Oct. 5, 1994, 108 Stat. 2982; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(6), Feb. 10, 1996, 110 Stat. 496.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3541 and 8541 of this title, prior to repeal by Pub. L. 103–337, § 1661(c)(2).
+Provisions similar to those in this section were contained in sections 3541 and 8541 of this title, prior to repeal by Pub. L. 103–337, § 1661(c)(2).
 
 **Amendments**
 
@@ -491,7 +491,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10508. National Guard Bureau: general provisions
+## § 10508. National Guard Bureau: general provisions
 
 **(a) Manpower Requirements of National Guard Bureau.—** The manpower requirements of the National Guard Bureau as a joint activity of the Department of Defense shall be determined in accordance with regulations prescribed by the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff.
 
@@ -513,17 +513,17 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(E)** Any settlement, judgment, or costs arising from an action described in subparagraph (A) or (C) shall be paid from appropriated funds allocated to the National Guard of the jurisdiction concerned.
 
-(Added Pub. L. 110–181, div. A, title XVIII, § 1812(b)(1), Jan. 28, 2008, 122 Stat. 497; amended Pub. L. 114–328, div. A, title IX, § 932, Dec. 23, 2016, 130 Stat. 2363; Pub. L. 115–232, div. A, title V, § 517, Aug. 13, 2018, 132 Stat. 1754.)
+(Added Pub. L. 110–181, div. A, title XVIII, § 1812(b)(1), Jan. 28, 2008, 122 Stat. 497; amended Pub. L. 114–328, div. A, title IX, § 932, Dec. 23, 2016, 130 Stat. 2363; Pub. L. 115–232, div. A, title V, § 517, Aug. 13, 2018, 132 Stat. 1754.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Intergovernmental Personnel Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
+The Intergovernmental Personnel Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 10508, added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2827, defined “State” for purposes of this chapter, prior to repeal by Pub. L. 104–106, div. A, title XV, § 1501(b)(7)(A), Feb. 10, 1996, 110 Stat. 496.
+A prior section 10508, added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2827, defined “State” for purposes of this chapter, prior to repeal by Pub. L. 104–106, div. A, title XV, § 1501(b)(7)(A), Feb. 10, 1996, 110 Stat. 496.
 
 **Amendments**
 
@@ -535,7 +535,7 @@ A prior section 10508, added Pub. L. 103–337, div. A, title IX, § 904(a), O
 
 **Number of Members of the National Guard on Full-Time Duty in Support of the Reserves Within the National Guard Bureau**
 
-Pub. L. 115–91, div. A, title IV, § 416, Dec. 12, 2017, 131 Stat. 1370, provided that:
+Pub. L. 115–91, div. A, title IV, § 416, Dec. 12, 2017, 131 Stat. 1370, provided that:
 
 > **“(a) Army National Guard of the United States.—** As of the end of fiscal year 2019, and as of the end of each fiscal year thereafter, the number of members of the Army National Guard of the United States serving with the National Guard Bureau on full-time duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components may not exceed the number equal to six percent of the total number of members of the Army National Guard of the United States authorized for service on full-time duty for that purpose in that fiscal year.
 

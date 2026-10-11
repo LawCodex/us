@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 171. Program for development of guayule and other rubber-bearing plants
+### § 171. Program for development of guayule and other rubber-bearing plants
 
 The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized—
 
@@ -39,19 +39,19 @@ The Secretary of Agriculture (hereinafter called the “Secretary”) is authori
 
 **(9)** To exercise with respect to rubber-bearing plants other than guayule the same powers as are granted in the foregoing provisions of this section with respect to guayule.
 
-(Mar. 5, 1942, ch. 140, § 1, 56 Stat. 126; Oct. 20, 1942, ch. 617, §§ 1–4, 56 Stat. 796, 797.)
+(Mar. 5, 1942, ch. 140, § 1, 56 Stat. 126; Oct. 20, 1942, ch. 617, §§ 1–4, 56 Stat. 796, 797.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1942—Par. (2). Act Oct. 20, 1942, § 1, increased acreage from 75,000 to 500,000 and inserted reference to land for administrative sites and water rights.
+1942—Par. (2). Act Oct. 20, 1942, § 1, increased acreage from 75,000 to 500,000 and inserted reference to land for administrative sites and water rights.
 
-Par. (3). Act Oct. 20, 1942, § 2, inserted “to acquire water rights; to erect necessary buildings on leased land where suitable land cannot be purchased;”.
+Par. (3). Act Oct. 20, 1942, § 2, inserted “to acquire water rights; to erect necessary buildings on leased land where suitable land cannot be purchased;”.
 
-Par. (4). Act Oct. 20, 1942, § 3, inserted “to purchase guayule shrub;”.
+Par. (4). Act Oct. 20, 1942, § 3, inserted “to purchase guayule shrub;”.
 
-Par. (8). Act Oct. 20, 1942, § 4, substituted “not in excess of five hundred” for “of seventy-five”.
+Par. (8). Act Oct. 20, 1942, § 4, substituted “not in excess of five hundred” for “of seventy-five”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -59,11 +59,11 @@ Par. (8). Act Oct. 20, 1942, § 4, substituted “not in excess of five hundre
 
 Act Oct. 26, 1942, ch. 629, title II, 56 Stat. 1002, provided that: “The Secretary of Agriculture, in connection with the appropriations herein and heretofore made for such project, is authorized to plant, or contract for the planting of, not to exceed twenty-five thousand acres of guayule in areas in the Western Hemisphere in addition to the acreage permitted under the provisions of paragraph (1), section 1 of the act of March 5, 1942 (Public Law 473) [par. (1) of this section].”
 
-### § 172. Authorization of Secretary to appoint employees; delegation of powers; cooperation with other agencies; allotment of funds; leases of facilities and disposal of water
+### § 172. Authorization of Secretary to appoint employees; delegation of powers; cooperation with other agencies; allotment of funds; leases of facilities and disposal of water
 
-**(a)** The Secretary is authorized to appoint such employees, including citizens of other countries, as may be necessary for carrying out the provisions of sections 171 to 173 of this title. Such appointments may be made without regard to the provisions of the civil-service laws. (Sections 321, 322, 324, and 325a of title 40 1
+**(a)** The Secretary is authorized to appoint such employees, including citizens of other countries, as may be necessary for carrying out the provisions of sections 171 to 173 of this title. Such appointments may be made without regard to the provisions of the civil-service laws. (Sections 321, 322, 324, and 325a of title 40 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to any nursery, planting, cultivating or harvesting operations conducted pursuant to sections 171 to 173 of this title.) All appointments so made by the Secretary shall be made only on the basis of merit and efficiency.
 
@@ -77,37 +77,37 @@ shall not apply to any nursery, planting, cultivating or harvesting operations c
 
 **(f)** The Secretary may lease at reasonable rentals structures erected by the Government with essential facilities for such periods as such structures and facilities are not required for the purposes of sections 171 to 173 of this title; and any part of land or structures with essential facilities acquired by lease, deed, or other agreement pursuant to said sections, which are not required or suitable for the purposes of said sections during the period the United States is entitled to possession thereof may be leased or subleased at a reasonable rental; and any surplus water controlled by the United States on land owned or leased by the United States for the purposes of said sections may be disposed of at reasonable rates.
 
-(Mar. 5, 1942, ch. 140, § 2, 56 Stat. 127; Oct. 20, 1942, ch. 617, §§ 5–7, 56 Stat. 797.)
+(Mar. 5, 1942, ch. 140, § 2, 56 Stat. 127; Oct. 20, 1942, ch. 617, §§ 5–7, 56 Stat. 797.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 321, 322, 324, and 325a of title 40, referred to in subsec. (a), mean sections 321, 322, 324, and 325a of former title 40 which were repealed by Pub. L. 87–581, title II, § 203, Aug. 13, 1962, 76 Stat. 360. See sections 3702, 3703, and 3708 of Title 40, Public Buildings, Property, and Works.
+Sections 321, 322, 324, and 325a of title 40, referred to in subsec. (a), mean sections 321, 322, 324, and 325a of former title 40 which were repealed by Pub. L. 87–581, title II, § 203, Aug. 13, 1962, 76 Stat. 360. See sections 3702, 3703, and 3708 of Title 40, Public Buildings, Property, and Works.
 
 **Codification**
 
-In the second sentence of subsec. (a), the words “and the compensation of the persons so appointed may be fixed without regard to the provisions of the Classification Act of 1923, as amended” were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act of any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Act Sept. 6, 1966, Pub. L. 89–554, § 8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, U.S.C., into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+In the second sentence of subsec. (a), the words “and the compensation of the persons so appointed may be fixed without regard to the provisions of the Classification Act of 1923, as amended” were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act of any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Act Sept. 6, 1966, Pub. L. 89–554, § 8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, U.S.C., into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 **Amendments**
 
-1942—Subsec. (a). Act Oct. 20, 1942, §§ 5, 7, substituted “other countries” for “countries in the Western Hemisphere” and inserted sentence relating to inapplicability of certain sections of title 40.
+1942—Subsec. (a). Act Oct. 20, 1942, §§ 5, 7, substituted “other countries” for “countries in the Western Hemisphere” and inserted sentence relating to inapplicability of certain sections of title 40.
 
-Subsecs. (e), (f). Act Oct. 20, 1942, § 6, added subsecs. (e) and (f).
+Subsecs. (e), (f). Act Oct. 20, 1942, § 6, added subsecs. (e) and (f).
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 173. Authorization of appropriations
+### § 173. Authorization of appropriations
 
 There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of sections 171 to 173 of this title. Any amounts so appropriated, and any funds received by the Secretary under said sections, shall remain permanently available for the purposes of said sections without regard to the provisions of any other laws relating to the availability and disposition of appropriated funds and the disposition of funds collected by officers or agencies of the United States.
 
-(Mar. 5, 1942, ch. 140, § 3, 56 Stat. 128.)
+(Mar. 5, 1942, ch. 140, § 3, 56 Stat. 128.)
 
-### § 174. Omitted
+### § 174. Omitted
 
 **Editorial Notes**
 
@@ -125,17 +125,17 @@ July 2, 1942, ch. 476, title I, 56 Stat. 597.
 
 Apr. 28, 1942, ch. 247, title III, 56 Stat. 240.
 
-### § 175. Lease or sublease of unsuitable lands; disposal of water supply
+### § 175. Lease or sublease of unsuitable lands; disposal of water supply
 
 Subject to conditions prescribed by the Secretary of Agriculture, any part of the land acquired by lease, deed, or other agreement pursuant to sections 171 to 173 of this title, which is not required or suitable for the purposes of said sections may be leased or subleased at a reasonable rental during the period the United States is entitled to possession thereof; and any surplus water supplies controlled by the United States on such land may be disposed of at reasonable rates.
 
 (July 2, 1942, ch. 476, title I, 56 Stat. 597.)
 
-### § 176. Sale of guayule shrub to Reconstruction Finance Corporation
+### § 176. Sale of guayule shrub to Reconstruction Finance Corporation
 
 Guayule shrub may be sold to the Reconstruction Finance Corporation at a price reflecting the net realization from the sale of the rubber recovered from such shrub in mills operated by said Corporation after deducting the cost of milling and amortization of the cost of mills constructed for the purpose by said Corporation.
 
-(June 30, 1945, ch. 215, § 1, 59 Stat. 310; July 5, 1945, ch. 271, title I, 59 Stat. 423.)
+(June 30, 1945, ch. 215, § 1, 59 Stat. 310; July 5, 1945, ch. 271, title I, 59 Stat. 423.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -151,7 +151,7 @@ Section 6(a) of 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Sta
 
 ## SUBCHAPTER II—CRITICAL AGRICULTURAL MATERIALS
 
-### § 178. Congressional findings and declaration of policy
+### § 178. Congressional findings and declaration of policy
 
 **(a)**
 
@@ -169,33 +169,33 @@ Section 6(a) of 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Sta
 
 **(c)** It is therefore the policy of the United States to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium and other hydrocarbon-containing plants, along with other native agricultural crops, for the production of critical agricultural materials to benefit the Nation and promote economic development.
 
-(Pub. L. 95–592, § 2, Nov. 4, 1978, 92 Stat. 2529; Pub. L. 98–284, § 2, May 16, 1984, 98 Stat. 181.)
+(Pub. L. 95–592, § 2, Nov. 4, 1978, 92 Stat. 2529; Pub. L. 98–284, § 2, May 16, 1984, 98 Stat. 181.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (a)(1). Pub. L. 98–284, § 2(1), redesignated existing provisions of subsec. (a) as par. (1).
+1984—Subsec. (a)(1). Pub. L. 98–284, § 2(1), redesignated existing provisions of subsec. (a) as par. (1).
 
-Subsec. (a)(2) to (4). Pub. L. 98–284, § 2(2), redesignated subsecs. (b), (c), and (d) as pars. (2), (3), and (4), respectively, of subsec. (a).
+Subsec. (a)(2) to (4). Pub. L. 98–284, § 2(2), redesignated subsecs. (b), (c), and (d) as pars. (2), (3), and (4), respectively, of subsec. (a).
 
-Subsec. (a)(5). Pub. L. 98–284, § 2(2), (3), redesignated subsec. (e) as par. (5) of subsec. (a), and in par. (5), as so redesignated, substituted “development and commercialization of native latex has been conducted by the Department of Agriculture, the Department of Commerce, the National Science Foundation, and other public as well as private and industrial research groups,” for “commercialization of native latex has been conducted by the Department of Agriculture and by the Department of Commerce through the regional commissions”.
+Subsec. (a)(5). Pub. L. 98–284, § 2(2), (3), redesignated subsec. (e) as par. (5) of subsec. (a), and in par. (5), as so redesignated, substituted “development and commercialization of native latex has been conducted by the Department of Agriculture, the Department of Commerce, the National Science Foundation, and other public as well as private and industrial research groups,” for “commercialization of native latex has been conducted by the Department of Agriculture and by the Department of Commerce through the regional commissions”.
 
-Subsec. (b). Pub. L. 98–284, § 2(4), added subsec. (b). Former subsec. (b) redesignated (a)(2).
+Subsec. (b). Pub. L. 98–284, § 2(4), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
-Subsec. (c). Pub. L. 98–284, § 2(4), added subsec. (c). Former subsec. (c) redesignated (a)(3).
+Subsec. (c). Pub. L. 98–284, § 2(4), added subsec. (c). Former subsec. (c) redesignated (a)(3).
 
-Subsecs. (d) and (e). Pub. L. 98–284, § 2(2), redesignated subsecs. (d) and (e) as (a)(4) and (a)(5), respectively.
+Subsecs. (d) and (e). Pub. L. 98–284, § 2(2), redesignated subsecs. (d) and (e) as (a)(4) and (a)(5), respectively.
 
-Subsec. (f). Pub. L. 98–284, § 2(4), struck out subsec. (f) which provided: “It is the policy of the Congress, therefore, to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium and other hydrocarbon-containing plants for the extraction of natural rubber and other products to benefit the Nation and promote economic development”. See subsec. (c).
+Subsec. (f). Pub. L. 98–284, § 2(4), struck out subsec. (f) which provided: “It is the policy of the Congress, therefore, to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium and other hydrocarbon-containing plants for the extraction of natural rubber and other products to benefit the Nation and promote economic development”. See subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 95–592, § 1, Nov. 4, 1978, 92 Stat. 2529, as amended by Pub. L. 98–284, § 1, May 16, 1984, 98 Stat. 181, provided: “That this Act [enacting this subchapter and amending section 1314f of this title] may be cited as the ‘Critical Agricultural Materials Act’.” As originally enacted Pub. L. 95–592 had been cited as the “Native Latex Commercialization and Economic Development Act of 1978”.
+Pub. L. 95–592, § 1, Nov. 4, 1978, 92 Stat. 2529, as amended by Pub. L. 98–284, § 1, May 16, 1984, 98 Stat. 181, provided: “That this Act [enacting this subchapter and amending section 1314f of this title] may be cited as the ‘Critical Agricultural Materials Act’.” As originally enacted Pub. L. 95–592 had been cited as the “Native Latex Commercialization and Economic Development Act of 1978”.
 
-### § 178a. Definitions
+### § 178a. Definitions
 
 As used in this subchapter—
 
@@ -207,17 +207,17 @@ As used in this subchapter—
 
 **(d)** The term “native” means hydrocarbon-containing plants and other agricultural crops of strategic and industrial importance which may be cultured in North America, especially plants which are members of the genus Parthenium known as Guayule.
 
-(Pub. L. 95–592, § 3, Nov. 4, 1978, 92 Stat. 2529; Pub. L. 98–284, § 3, May 16, 1984, 98 Stat. 181.)
+(Pub. L. 95–592, § 3, Nov. 4, 1978, 92 Stat. 2529; Pub. L. 98–284, § 3, May 16, 1984, 98 Stat. 181.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (d). Pub. L. 98–284, § 3(a), inserted “and other agricultural crops of strategic and industrial importance” and “plants which are”.
+1984—Subsec. (d). Pub. L. 98–284, § 3(a), inserted “and other agricultural crops of strategic and industrial importance” and “plants which are”.
 
-Subsec. (e). Pub. L. 98–284, § 3(b), struck out subsec. (e) which defined “Regional Commissions” as the Regional Action Planning Commissions established pursuant to title V of the Public Works and Economic Development Act of 1965.
+Subsec. (e). Pub. L. 98–284, § 3(b), struck out subsec. (e) which defined “Regional Commissions” as the Regional Action Planning Commissions established pursuant to title V of the Public Works and Economic Development Act of 1965.
 
-### § 178b. Joint Commission on Research and Development of Critical Agricultural Materials
+### § 178b. Joint Commission on Research and Development of Critical Agricultural Materials
 
 **(a) Establishment; function**
 
@@ -253,7 +253,7 @@ The Secretaries are authorized to provide without reimbursement such administrat
 
 To the maximum extent possible, the Secretaries and the Joint Commission shall seek the advice of the scientific, engineering and business communities with respect to the activities carried out under this subchapter. The Secretaries and the Commission shall specifically seek the advice of persons with expertise in appropriate fields of agricultural research in land grant colleges and other universities, in State agricultural experiment stations, and in other appropriate organizations; and, persons with expertise in manufacturing and commerce involving rubber and other critical agricultural materials in private enterprise and other appropriate organizations.
 
-(Pub. L. 95–592, § 4, Nov. 4, 1978, 92 Stat. 2530; Pub. L. 98–284, § 4, May 16, 1984, 98 Stat. 181; Pub. L. 104–127, title VIII, § 881(a), Apr. 4, 1996, 110 Stat. 1175.)
+(Pub. L. 95–592, § 4, Nov. 4, 1978, 92 Stat. 2530; Pub. L. 98–284, § 4, May 16, 1984, 98 Stat. 181; Pub. L. 104–127, title VIII, § 881(a), Apr. 4, 1996, 110 Stat. 1175.)
 
 **Editorial Notes**
 
@@ -261,13 +261,13 @@ To the maximum extent possible, the Secretaries and the Joint Commission shall s
 
 1996—Subsecs. (g), (h). Pub. L. 104–127 redesignated subsec. (h) as (g), and struck out former subsec. (g) which read as follows: “One year after November 4, 1978, and each year thereafter, the Joint Commission shall provide to the Congress a report on the implementation of the subchapter. Such report shall (1) recommend specific directions for further research, development, and other work, and (2) recommend funding levels for various elements of the overall project.”
 
-1984—Subsec. (a). Pub. L. 98–284, § 4(a), substituted “Research and Development of Critical Agricultural Materials” for “Guayule Research and Commercialization”.
+1984—Subsec. (a). Pub. L. 98–284, § 4(a), substituted “Research and Development of Critical Agricultural Materials” for “Guayule Research and Commercialization”.
 
-Subsec. (b). Pub. L. 98–284, § 4(b), struck out provision mandating that two of the designees of the Secretary of Commerce be Federal Cochairmen of Regional Commissions engaged in the support of native latex research, development, demonstration, or commercialization activities, inserted provisions for the appointment of a representative of the Department of State, a representative of the Department of Defense, and a representative of the Federal Emergency Management Agency, and inserted provisions that each of the members of the Joint Commission be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
+Subsec. (b). Pub. L. 98–284, § 4(b), struck out provision mandating that two of the designees of the Secretary of Commerce be Federal Cochairmen of Regional Commissions engaged in the support of native latex research, development, demonstration, or commercialization activities, inserted provisions for the appointment of a representative of the Department of State, a representative of the Department of Defense, and a representative of the Federal Emergency Management Agency, and inserted provisions that each of the members of the Joint Commission be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
 
-Subsec. (c). Pub. L. 98–284, § 4(c), substituted “The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b)” for “The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years”.
+Subsec. (c). Pub. L. 98–284, § 4(c), substituted “The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b)” for “The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years”.
 
-Subsec. (h). Pub. L. 98–284, § 4(d), substituted “manufacturing and commerce involving rubber and other critical agricultural materials” for “rubber manufacturing and commerce”.
+Subsec. (h). Pub. L. 98–284, § 4(d), substituted “manufacturing and commerce involving rubber and other critical agricultural materials” for “rubber manufacturing and commerce”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -277,7 +277,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 178c. Research and development program by Secretary of Agriculture
+### § 178c. Research and development program by Secretary of Agriculture
 
 **(a) Designation of Department as lead agency**
 
@@ -315,41 +315,41 @@ The Secretary of Agriculture shall establish within the Department of Agricultur
 
 **(3)** use any funds appropriated pursuant to section 178n(a) of this title, or any funds provided by any person, or public or private agency or organization, to carry out such project or reimburse the Commodity Credit Corporation for agricultural commodities or products that are utilized in connection with such project.
 
-(Pub. L. 95–592, § 5, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, § 5, May 16, 1984, 98 Stat. 182; Pub. L. 99–198, title XIV, § 1439, Dec. 23, 1985, 99 Stat. 1559; Pub. L. 102–237, title X, § 1005(1), Dec. 13, 1991, 105 Stat. 1894; Pub. L. 115–334, title VII, § 7501(a), Dec. 20, 2018, 132 Stat. 4819.)
+(Pub. L. 95–592, § 5, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, § 5, May 16, 1984, 98 Stat. 182; Pub. L. 99–198, title XIV, § 1439, Dec. 23, 1985, 99 Stat. 1559; Pub. L. 102–237, title X, § 1005(1), Dec. 13, 1991, 105 Stat. 1894; Pub. L. 115–334, title VII, § 7501(a), Dec. 20, 2018, 132 Stat. 4819.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b)(9). Pub. L. 115–334 inserted “, and including hemp (as defined in section 1639*o* of this title)” after “hydrocarbon-containing plants”.
+2018—Subsec. (b)(9). Pub. L. 115–334 inserted “, and including hemp (as defined in section 1639*o* of this title)” after “hydrocarbon-containing plants”.
 
 1991—Subsec. (b)(9). Pub. L. 102–237 substituted “industrial purposes,” for “industrial purposes,,”.
 
-1985—Subsec. (b)(9). Pub. L. 99–198, § 1439(a), extended research program to carrying out demonstration projects to promote the development or commercialization of native agricultural crops, including projects designed to expand domestic or foreign markets for such crops.
+1985—Subsec. (b)(9). Pub. L. 99–198, § 1439(a), extended research program to carrying out demonstration projects to promote the development or commercialization of native agricultural crops, including projects designed to expand domestic or foreign markets for such crops.
 
-Subsec. (d). Pub. L. 99–198, § 1439(b), added subsec. (d).
+Subsec. (d). Pub. L. 99–198, § 1439(b), added subsec. (d).
 
-1984—Subsec. (a). Pub. L. 98–284, § 5(1), added subsec. (a).
+1984—Subsec. (a). Pub. L. 98–284, § 5(1), added subsec. (a).
 
-Subsec. (b). Pub. L. 98–284, § 5(1), designated existing provisions as subsec. (b) and in first sentence of subsec. (b) as so designated inserted provision relating to development of other critical agricultural materials from native agricultural crops having strategic and industrial importance.
+Subsec. (b). Pub. L. 98–284, § 5(1), designated existing provisions as subsec. (b) and in first sentence of subsec. (b) as so designated inserted provision relating to development of other critical agricultural materials from native agricultural crops having strategic and industrial importance.
 
-Subsec. (b)(1), (2). Pub. L. 98–284, § 5(2), redesignated cls. (a) and (b) as pars. (1) and (2) of subsec. (b).
+Subsec. (b)(1), (2). Pub. L. 98–284, § 5(2), redesignated cls. (a) and (b) as pars. (1) and (2) of subsec. (b).
 
-Subsec. (b)(3). Pub. L. 98–284, § 5(2), (3), redesignated cl. (c) as par. (3) of subsec. (b) and substituted “accelerating present plant breeding, genetics, and selection programs for the purpose of improving and increasing latex yields, expanding insect and disease resistance, broadening the ranges of drought and cold resistance of the Parthenium plant, and providing a system of regional research trials for enhancing and increasing the supply of foundation seed for certified seed production” for “carrying out breeding and selection programs for the purpose of improving latex yields, expanding insect and disease resistance, and broadening the ranges of drought and cold tolerance of the Parthenium plant”.
+Subsec. (b)(3). Pub. L. 98–284, § 5(2), (3), redesignated cl. (c) as par. (3) of subsec. (b) and substituted “accelerating present plant breeding, genetics, and selection programs for the purpose of improving and increasing latex yields, expanding insect and disease resistance, broadening the ranges of drought and cold resistance of the Parthenium plant, and providing a system of regional research trials for enhancing and increasing the supply of foundation seed for certified seed production” for “carrying out breeding and selection programs for the purpose of improving latex yields, expanding insect and disease resistance, and broadening the ranges of drought and cold tolerance of the Parthenium plant”.
 
-Subsec. (b)(4). Pub. L. 98–284, § 5(2), (4), redesignated cl. (d) as par. (4) of subsec. (b) and substituted “establishing a system of large-scale experimental plantings (aggregating ten thousand acres or more) to provide shrub for feedstock to process in the developmental rubber processing facility described in paragraph (7)” for “establishing a system of experimental plantings in arid and semiarid regions of the United States having suitable climatic and soil conditions for the culture of Parthenium”.
+Subsec. (b)(4). Pub. L. 98–284, § 5(2), (4), redesignated cl. (d) as par. (4) of subsec. (b) and substituted “establishing a system of large-scale experimental plantings (aggregating ten thousand acres or more) to provide shrub for feedstock to process in the developmental rubber processing facility described in paragraph (7)” for “establishing a system of experimental plantings in arid and semiarid regions of the United States having suitable climatic and soil conditions for the culture of Parthenium”.
 
-Subsec. (b)(5), (6). Pub. L. 98–284, § 5(2), redesignated cls. (e) and (f) as pars. (5) and (6), respectively, of subsec. (b).
+Subsec. (b)(5), (6). Pub. L. 98–284, § 5(2), redesignated cls. (e) and (f) as pars. (5) and (6), respectively, of subsec. (b).
 
-Subsec. (b)(7). Pub. L. 98–284, § 5(2), (5), redesignated cl. (g) as par. (7) of subsec. (b) and substituted “accelerating the refinement of present extraction and processing technologies and future extraction technologies, including the development and construction of a developmental rubber processing facility for the extraction and production of test quantities of guayule natural rubber;” for “further refining present extraction technologies and future extraction technologies, including technologies which utilize solar energy; and”.
+Subsec. (b)(7). Pub. L. 98–284, § 5(2), (5), redesignated cl. (g) as par. (7) of subsec. (b) and substituted “accelerating the refinement of present extraction and processing technologies and future extraction technologies, including the development and construction of a developmental rubber processing facility for the extraction and production of test quantities of guayule natural rubber;” for “further refining present extraction technologies and future extraction technologies, including technologies which utilize solar energy; and”.
 
-Subsec. (b)(8). Pub. L. 98–284, § 5(2), redesignated cl. (h) as par. (8) of subsec. (b).
+Subsec. (b)(8). Pub. L. 98–284, § 5(2), redesignated cl. (h) as par. (8) of subsec. (b).
 
-Subsec. (b)(9). Pub. L. 98–284, § 5(7), added par. (9).
+Subsec. (b)(9). Pub. L. 98–284, § 5(7), added par. (9).
 
-Subsec. (c). Pub. L. 98–284, § 5(8), added subsec. (c).
+Subsec. (c). Pub. L. 98–284, § 5(8), added subsec. (c).
 
-### § 178d. Research and development program by Secretary of Commerce
+### § 178d. Research and development program by Secretary of Commerce
 
 The Secretary of Commerce is authorized and directed to initiate and carry out research, technology development, technology transfer, and demonstration projects to test and demonstrate the economic feasibility of the manufacture and commercialization of natural rubber from Parthenium or other hydrocarbon-containing plants or the manufacture and commercialization of other critical agricultural materials from native agricultural crops having strategic and industrial importance. Such research shall include but not be limited to—
 
@@ -367,33 +367,33 @@ The Secretary of Commerce is authorized and directed to initiate and carry out r
 
 **(g)** to the extent appropriate, carrying out research activities with respect to native agricultural crops (other than Parthenium and other hydrocarbon-containing plants) that would supply critical agricultural materials for strategic and industrial purposes, in the manner specified in clauses (a) through (f).
 
-(Pub. L. 95–592, § 6, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, § 6, May 16, 1984, 98 Stat. 183.)
+(Pub. L. 95–592, § 6, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, § 6, May 16, 1984, 98 Stat. 183.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Pub. L. 98–284, § 6(1), (2), inserted in provisions preceding cl. (a) reference to the manufacture and commercialization of other critical agricultural materials from native agricultural crops having strategic and industrial importance, and struck out “may be carried out through the Regional Commissions or otherwise and” after “Such research”.
+1984—Pub. L. 98–284, § 6(1), (2), inserted in provisions preceding cl. (a) reference to the manufacture and commercialization of other critical agricultural materials from native agricultural crops having strategic and industrial importance, and struck out “may be carried out through the Regional Commissions or otherwise and” after “Such research”.
 
-Cl. (g). Pub. L. 98–284, § 6(5), added cl. (g).
+Cl. (g). Pub. L. 98–284, § 6(5), added cl. (g).
 
-### § 178e. Cooperative projects with Mexico, Australia, and Israel
+### § 178e. Cooperative projects with Mexico, Australia, and Israel
 
 The Secretaries, in consultation with the Secretary of State, are authorized and encouraged to enter into cooperative projects with the Government of Mexico, the Government of Australia, and the Government of Israel in order to accomplish appropriate aspects of the research and development provided for in this subchapter. Such cooperative projects should include, but not be limited to, projects to determine the economic feasibility of extraction and processing of latex and other critical agricultural materials produced in the United States.
 
-(Pub. L. 95–592, § 7, Nov. 4, 1978, 92 Stat. 2532; Pub. L. 98–284, § 7, May 16, 1984, 98 Stat. 183.)
+(Pub. L. 95–592, § 7, Nov. 4, 1978, 92 Stat. 2532; Pub. L. 98–284, § 7, May 16, 1984, 98 Stat. 183.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Pub. L. 98–284 inserted “, the Government of Australia, and the Government of Israel”, and substituted “extraction and processing of latex and other critical agricultural materials produced in the United States” for “latex extraction and processing”.
+1984—Pub. L. 98–284 inserted “, the Government of Australia, and the Government of Israel”, and substituted “extraction and processing of latex and other critical agricultural materials produced in the United States” for “latex extraction and processing”.
 
-### § 178f. Assistance from States and public agencies; contracts and agreements
+### § 178f. Assistance from States and public agencies; contracts and agreements
 
 The Secretaries are authorized to accept financial or other assistance from any State or public agency to aid in carrying out the provisions of this subchapter and to enter into contracts with respect to such assistance and to enter into agreements with any State or public agency for the purpose of demonstrating, transferring, or applying results of research or methods of economic development relating to native latex or to other critical agricultural materials.
 
-(Pub. L. 95–592, § 8, Nov. 4, 1978, 92 Stat. 2532; Pub. L. 98–284, § 8, May 16, 1984, 98 Stat. 183.)
+(Pub. L. 95–592, § 8, Nov. 4, 1978, 92 Stat. 2532; Pub. L. 98–284, § 8, May 16, 1984, 98 Stat. 183.)
 
 **Editorial Notes**
 
@@ -401,13 +401,13 @@ The Secretaries are authorized to accept financial or other assistance from any 
 
 1984—Pub. L. 98–284 inserted “or to other critical agricultural materials”.
 
-### § 178g. Powers of Secretary of Agriculture
+### § 178g. Powers of Secretary of Agriculture
 
 In carrying out the provisions of this subchapter, the Secretary of Agriculture is authorized to—
 
 **(a)** make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and enter into contracts with such institutions and organizations and with industrial or engineering firms;
 
@@ -429,27 +429,27 @@ and enter into contracts with such institutions and organizations and with indus
 
 **(j)** cooperate with other Federal departments and agencies, with State and local departments, agencies, and instrumentalities, and with interested persons, firms, institutions, and organizations.
 
-(Pub. L. 95–592, § 9, Nov. 4, 1978, 92 Stat. 2532; Pub. L. 98–284, § 9, May 16, 1984, 98 Stat. 183.)
+(Pub. L. 95–592, § 9, Nov. 4, 1978, 92 Stat. 2532; Pub. L. 98–284, § 9, May 16, 1984, 98 Stat. 183.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Amendments**
 
-1984—Cl. (h). Pub. L. 98–284, § 9(1), inserted “or the culture of other native agricultural crops which could supply critical agricultural materials”.
+1984—Cl. (h). Pub. L. 98–284, § 9(1), inserted “or the culture of other native agricultural crops which could supply critical agricultural materials”.
 
-Cl. (i). Pub. L. 98–284, § 9(2), inserted “or the technology of other native agricultural crops which could supply critical agricultural materials”.
+Cl. (i). Pub. L. 98–284, § 9(2), inserted “or the technology of other native agricultural crops which could supply critical agricultural materials”.
 
-### § 178h. Powers of Secretary of Commerce
+### § 178h. Powers of Secretary of Commerce
 
 In carrying out the provisions of this subchapter, the Secretary of Commerce is authorized to—
 
 **(a)** make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and enter into contracts with such institutions and organizations and with industrial or engineering firms;
 
@@ -463,27 +463,27 @@ and enter into contracts with such institutions and organizations and with indus
 
 **(f)** foster and participate in regional, national, and international conferences relating to the activities authorized by this subchapter.
 
-(Pub. L. 95–592, § 10, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 10, May 16, 1984, 98 Stat. 184.)
+(Pub. L. 95–592, § 10, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 10, May 16, 1984, 98 Stat. 184.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Amendments**
 
-1984—Pub. L. 98–284, § 10(1), (2), in provisions preceding cl. (a) substituted “this subchapter” for “this section” and struck out “, acting through the Regional Commissions or otherwise,” after “the Secretary of Commerce”.
+1984—Pub. L. 98–284, § 10(1), (2), in provisions preceding cl. (a) substituted “this subchapter” for “this section” and struck out “, acting through the Regional Commissions or otherwise,” after “the Secretary of Commerce”.
 
-Cl. (b). Pub. L. 98–284, § 10(3), inserted “having expertise in native agricultural crops which could supply critical agricultural materials”.
+Cl. (b). Pub. L. 98–284, § 10(3), inserted “having expertise in native agricultural crops which could supply critical agricultural materials”.
 
-Cl. (f). Pub. L. 98–284, § 10(4), substituted “the activities authorized by this subchapter” for “natural rubber manufacture”.
+Cl. (f). Pub. L. 98–284, § 10(4), substituted “the activities authorized by this subchapter” for “natural rubber manufacture”.
 
-### § 178i. Coordination of activities with Federal agencies
+### § 178i. Coordination of activities with Federal agencies
 
 In carrying out the provisions of this subchapter, the Secretaries and the Joint Commission shall cooperate with each other in the conduct of their activities under this subchapter, and shall ensure that their activities under this subchapter are closely coordinated with the activities of other Federal agencies such as the Department of the Interior, National Science Foundation, Bureau of Indian Affairs, Department of Energy, Department of State, Department of Defense, Treasury Department, Federal Emergency Management Agency, and others, in order to prevent duplication of effort, ensure compatibility with ongoing programs and policies, and to fully exploit the opportunities inherent in the culture and manufacture of native latex.
 
-(Pub. L. 95–592, § 11, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 11, May 16, 1984, 98 Stat. 184; Pub. L. 102–237, title X, § 1005(2), Dec. 13, 1991, 105 Stat. 1894.)
+(Pub. L. 95–592, § 11, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 11, May 16, 1984, 98 Stat. 184; Pub. L. 102–237, title X, § 1005(2), Dec. 13, 1991, 105 Stat. 1894.)
 
 **Editorial Notes**
 
@@ -501,29 +501,29 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 178j. Laws governing inventions under this subchapter
+### § 178j. Laws governing inventions under this subchapter
 
 Relative to the definitions of, title to, and licensing of inventions made or conceived in the course of or under any contract or grant pursuant to this subchapter, and notwithstanding any other provisions of law, the provisions of sections 5908 and 5909 of title 42 shall govern.
 
-(Pub. L. 95–592, § 12, Nov. 4, 1978, 92 Stat. 2533.)
+(Pub. L. 95–592, § 12, Nov. 4, 1978, 92 Stat. 2533.)
 
-### § 178k. Disposition of byproducts and strategic and industrially important products
+### § 178k. Disposition of byproducts and strategic and industrially important products
 
 The Secretaries may dispose of any latex, resin, wax, pulp, and any other byproducts, as well as products, other than rubber, developed from agricultural crops which are of strategic and industrial importance, resulting from operations under this subchapter. Dispositions under this section may include sales of the materials involved to other Federal departments and agencies for testing purposes. All moneys received from dispositions under this section shall be paid into the Treasury as miscellaneous receipts.
 
-(Pub. L. 95–592, § 13, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 12, May 16, 1984, 98 Stat. 184.)
+(Pub. L. 95–592, § 13, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 12, May 16, 1984, 98 Stat. 184.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Pub. L. 98–284, substituted “The Secretaries” for “The Secretary of Agriculture and the Secretary of Commerce”, and inserted “, as well as products, other than rubber, developed from agricultural crops which are of strategic and industrial importance,” and “Dispositions under this section may include sales of the materials involved to other Federal departments and agencies for testing purposes.”
+1984—Pub. L. 98–284, substituted “The Secretaries” for “The Secretary of Agriculture and the Secretary of Commerce”, and inserted “, as well as products, other than rubber, developed from agricultural crops which are of strategic and industrial importance,” and “Dispositions under this section may include sales of the materials involved to other Federal departments and agencies for testing purposes.”
 
-### § 178l. Rules and regulations
+### § 178l. Rules and regulations
 
 The Secretaries may issue rules and regulations necessary to effectuate the purposes of this subchapter.
 
-(Pub. L. 95–592, § 14, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 13, May 16, 1984, 98 Stat. 184.)
+(Pub. L. 95–592, § 14, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 13, May 16, 1984, 98 Stat. 184.)
 
 **Editorial Notes**
 
@@ -531,11 +531,11 @@ The Secretaries may issue rules and regulations necessary to effectuate the purp
 
 1984—Pub. L. 98–284 substituted “The Secretaries” for “The Secretary of Agriculture and the Secretary of Commerce”.
 
-### § 178m. Report to President and Congress
+### § 178m. Report to President and Congress
 
 The Secretaries shall submit to the President and the Congress, no later than December 31, 1980, and each year thereafter through 1987, a report on the status of the research, development, and other work underway under this subchapter. Such report shall (1) recommend specific directions for further research, development and other work, and (2) recommend funding levels for various elements of the overall project.
 
-(Pub. L. 95–592, § 15, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 14, May 16, 1984, 98 Stat. 184.)
+(Pub. L. 95–592, § 15, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 14, May 16, 1984, 98 Stat. 184.)
 
 **Editorial Notes**
 
@@ -543,7 +543,7 @@ The Secretaries shall submit to the President and the Congress, no later than De
 
 1984—Pub. L. 98–284 substituted “The Secretaries” for “The Secretary of Agriculture and the Secretary of Commerce” and “1987” for “1982”.
 
-### § 178n. Administration and funding
+### § 178n. Administration and funding
 
 **(a) Authorization of appropriations to Secretary of Agriculture** There are authorized to be appropriated to the Secretary of Agriculture to carry out this subchapter—
 
@@ -563,7 +563,7 @@ Notwithstanding any other provision of this subchapter the authority to enter in
 
 Notwithstanding any other provision of this subchapter, the Secretaries and the Joint Commission shall limit their activities under this subchapter to critical agricultural materials other than native latex after the close of the fiscal year ending September 30, 1988.
 
-(Pub. L. 95–592, § 16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, § 15, May 16, 1984, 98 Stat. 184; Pub. L. 101–624, title XVI, § 1601(e), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, § 881(b), Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title III, § 301(c), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7138, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, § 7401, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, § 4(a), title VII, § 7401, June 18, 2008, 122 Stat. 1664, 2007; Pub. L. 113–79, title VII, § 7401, Feb. 7, 2014, 128 Stat. 893; Pub. L. 115–334, title VII, § 7501(b), Dec. 20, 2018, 132 Stat. 4819.)
+(Pub. L. 95–592, § 16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, § 15, May 16, 1984, 98 Stat. 184; Pub. L. 101–624, title XVI, § 1601(e), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, § 881(b), Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title III, § 301(c), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7138, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, § 7401, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, § 4(a), title VII, § 7401, June 18, 2008, 122 Stat. 1664, 2007; Pub. L. 113–79, title VII, § 7401, Feb. 7, 2014, 128 Stat. 893; Pub. L. 115–334, title VII, § 7501(b), Dec. 20, 2018, 132 Stat. 4819.)
 
 **Editorial Notes**
 
@@ -577,7 +577,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (a). Pub. L. 113–79 struck out “such sums as are necessary” after “Agriculture”, substituted “subchapter—” for “subchapter in each of the fiscal years 1991 through 2012.”, and added pars. (1) and (2).
 
-2008—Subsec. (a). Pub. L. 110–246, § 7401, substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 7401, substituted “2012” for “2007”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -585,17 +585,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 1996—Subsec. (a). Pub. L. 104–127 substituted “1997” for “1995”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1601(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is authorized to be appropriated to the Secretary of Agriculture $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized.”
+1990—Subsec. (a). Pub. L. 101–624, § 1601(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is authorized to be appropriated to the Secretary of Agriculture $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized.”
 
-Subsec. (b). Pub. L. 101–624, § 1601(e)(2)–(4), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsections (a) and (b)”, and struck out former subsec. (b) which read as follows: “There is authorized to be appropriated to the Secretary of Commerce $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized.”
+Subsec. (b). Pub. L. 101–624, § 1601(e)(2)–(4), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsections (a) and (b)”, and struck out former subsec. (b) which read as follows: “There is authorized to be appropriated to the Secretary of Commerce $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized.”
 
-Subsecs. (c) to (e). Pub. L. 101–624, § 1601(e)(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively.
+Subsecs. (c) to (e). Pub. L. 101–624, § 1601(e)(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively.
 
-1984—Subsec. (a). Pub. L. 98–284, § 15(a), inserted “$5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
+1984—Subsec. (a). Pub. L. 98–284, § 15(a), inserted “$5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
 
-Subsec. (b). Pub. L. 98–284, § 15(b), inserted “$2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
+Subsec. (b). Pub. L. 98–284, § 15(b), inserted “$2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
 
-Subsec. (e). Pub. L. 98–284, § 15(c), added subsec. (e).
+Subsec. (e). Pub. L. 98–284, § 15(c), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 

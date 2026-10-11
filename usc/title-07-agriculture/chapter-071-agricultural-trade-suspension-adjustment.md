@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 71—AGRICULTURAL TRADE SUSPENSION ADJUSTMENT
 
-## § 4001. Trade suspension reserves
+## § 4001. Trade suspension reserves
 
 Notwithstanding any other provision of law—
 
@@ -33,13 +33,13 @@ Within thirty days after the export of any agricultural commodity to a country o
 
 **(2)** The Secretary of Agriculture may dispose of stocks of agricultural commodities acquired under paragraph (1) of this subsection only through sale—
 
-**(A)** for use in the production of alcohol for motor fuel, at not less than the fuel conversion price (as defined in section 4005 of this title) for the commodity involved: *Provided*, That, for wheat and feed grains, if the fuel conversion price for the commodity involved is less than the then current release price at which producers may repay producer storage loans on the commodity and redeem the commodity prior to the maturity dates of the loans, as determined under clause (5) of the third sentence of section 1445e(b) 1
+**(A)** for use in the production of alcohol for motor fuel, at not less than the fuel conversion price (as defined in section 4005 of this title) for the commodity involved: *Provided*, That, for wheat and feed grains, if the fuel conversion price for the commodity involved is less than the then current release price at which producers may repay producer storage loans on the commodity and redeem the commodity prior to the maturity dates of the loans, as determined under clause (5) of the third sentence of section 1445e(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the Secretary may dispose of stocks of the commodity for such use only through sale at not less than the release price: *Provided further*, That such sales shall only be made to persons for use in the production of alcohol for motor fuel at facilities that, whenever supplies of the commodity are not readily available, can produce alcohol from other agricultural or forestry biomass feedstocks; or
 
-**(B)** for any other use, when sales for use under clause (A) of this paragraph are impracticable, (i) if there is a producer storage program in effect for the commodity, at not less than 110 per centum of the then current level at which the Secretary may encourage repayment of producer storage loans on the commodity prior to the maturity dates of the loans, as determined under clause (5) of the third sentence of section 1445e(b) <sup>1</sup> of this title, or, (ii) if there is no producer storage program in effect for the commodity, at not less than the average market price producers received for the commodity at the time the trade suspension was imposed.
+**(B)** for any other use, when sales for use under clause (A) of this paragraph are impracticable, (i) if there is a producer storage program in effect for the commodity, at not less than 110 per centum of the then current level at which the Secretary may encourage repayment of producer storage loans on the commodity prior to the maturity dates of the loans, as determined under clause (5) of the third sentence of section 1445e(b) <sup>1</sup> of this title, or, (ii) if there is no producer storage program in effect for the commodity, at not less than the average market price producers received for the commodity at the time the trade suspension was imposed.
 
 **(d) Acquisition of agricultural commodities suitable for providing emergency food assistance**
 
@@ -65,15 +65,15 @@ Whenever stocks of agricultural commodities are disposed of or released from res
 
 The provisions of this section shall become effective with respect to any suspension of, or restriction on, the export of agricultural commodities, as described in subsection (a) of this section, implemented after December 3, 1980.
 
-(Pub. L. 96–494, title II, § 208, Dec. 3, 1980, 94 Stat. 2573; Pub. L. 97–98, title X, § 1004, Dec. 22, 1981, 95 Stat. 1260; Pub. L. 104–127, title II, § 225(b), Apr. 4, 1996, 110 Stat. 962; Pub. L. 105–385, title II, § 212(b)(4), Nov. 13, 1998, 112 Stat. 3467.)
+(Pub. L. 96–494, title II, § 208, Dec. 3, 1980, 94 Stat. 2573; Pub. L. 97–98, title X, § 1004, Dec. 22, 1981, 95 Stat. 1260; Pub. L. 104–127, title II, § 225(b), Apr. 4, 1996, 110 Stat. 962; Pub. L. 105–385, title II, § 212(b)(4), Nov. 13, 1998, 112 Stat. 3467.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-Section 1445e of this title, referred to in subsec. (c)(2), was amended generally by Pub. L. 101–624, title XI, § 1123, Nov. 28, 1990, 104 Stat. 3503, and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
+Section 1445e of this title, referred to in subsec. (c)(2), was amended generally by Pub. L. 101–624, title XI, § 1123, Nov. 28, 1990, 104 Stat. 3503, and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
 
 **Amendments**
 
@@ -81,9 +81,9 @@ Section 1445e of this title, referred to in subsec. (c)(2), was amended generall
 
 1996—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: “The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of this subsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to ‘wheat’ in such subsections of section 1736f–1 of this title shall be deemed to be references to ‘agricultural commodities’.”
 
-1981—Subsec. (c)(2)(A). Pub. L. 97–98, § 1004(1), substituted “third sentence” for “second sentence”.
+1981—Subsec. (c)(2)(A). Pub. L. 97–98, § 1004(1), substituted “third sentence” for “second sentence”.
 
-Subsec. (c)(2)(B)(i). Pub. L. 97–98, § 1004(2), substituted “110 per centum” for “105 per centum”, “Secretary may encourage repayment” for “Secretary may call for repayment”, and “clause (5) of the third sentence” for “clause (6) of the second sentence”.
+Subsec. (c)(2)(B)(i). Pub. L. 97–98, § 1004(2), substituted “110 per centum” for “105 per centum”, “Secretary may encourage repayment” for “Secretary may call for repayment”, and “clause (5) of the third sentence” for “clause (6) of the second sentence”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -93,15 +93,15 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Effective Date**
 
-Pub. L. 96–494, title II, § 213, Dec. 3, 1980, 94 Stat. 2578, provided that: “Except as otherwise provided herein, this title [enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade] shall become effective October 1, 1980, or the date of enactment [Dec. 3, 1980], whichever is later.”
+Pub. L. 96–494, title II, § 213, Dec. 3, 1980, 94 Stat. 2578, provided that: “Except as otherwise provided herein, this title [enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade] shall become effective October 1, 1980, or the date of enactment [Dec. 3, 1980], whichever is later.”
 
 **Short Title**
 
-Pub. L. 96–494, § 1, Dec. 3, 1980, 94 Stat. 2570, provided: “That this Act [enacting this chapter and sections 1445h and 1736f–1 of this title, amending sections 608c, 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e, 1445h, and 1736f–1 of this title, and section 714c of Title 15, Commerce and Trade] may be cited as the ‘Agricultural Act of 1980’.”
+Pub. L. 96–494, § 1, Dec. 3, 1980, 94 Stat. 2570, provided: “That this Act [enacting this chapter and sections 1445h and 1736f–1 of this title, amending sections 608c, 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e, 1445h, and 1736f–1 of this title, and section 714c of Title 15, Commerce and Trade] may be cited as the ‘Agricultural Act of 1980’.”
 
-Pub. L. 96–494, title II, § 201, Dec. 3, 1980, 94 Stat. 2570, provided that: “This title [enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade] may be cited as the ‘Agricultural Trade Suspension Adjustment Act of 1980’.”
+Pub. L. 96–494, title II, § 201, Dec. 3, 1980, 94 Stat. 2570, provided that: “This title [enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade] may be cited as the ‘Agricultural Trade Suspension Adjustment Act of 1980’.”
 
-## § 4002. Alcohol processor grain reserve program
+## § 4002. Alcohol processor grain reserve program
 
 **(a) Definitions** As used in this section—
 
@@ -111,9 +111,9 @@ Pub. L. 96–494, title II, § 201, Dec. 3, 1980, 94 Stat. 2570, provided that
 
 **(3)** The terms “agricultural grain” and “grain” mean any agricultural commodity (A) that is suitable for processing into alcohol for use as a fuel, and (B) with respect to which a price support operation is in effect.
 
-**(4)** The term “producer storage program” means the producer storage program provided for under section 1445e 1
+**(4)** The term “producer storage program” means the producer storage program provided for under section 1445e 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -161,13 +161,13 @@ The Secretary may use the facilities of the Commodity Credit Corporation to carr
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section. Any loans made under this section shall be made to such extent and such amounts as provided in appropriation Acts. The authority to make loans under this section shall expire five years after December 3, 1980.
 
-(Pub. L. 96–494, title II, § 209, Dec. 3, 1980, 94 Stat. 2575.)
+(Pub. L. 96–494, title II, § 209, Dec. 3, 1980, 94 Stat. 2575.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The producer storage program provided for under section 1445e of this title, referred to in subsec. (a)(4), refers to section 1445e prior to the general amendment of such section by Pub. L. 101–624, title XI, § 1123, Nov. 28, 1990, 104 Stat. 3503. As amended, section 1445e now provides for a farmer owned reserve program.
+The producer storage program provided for under section 1445e of this title, referred to in subsec. (a)(4), refers to section 1445e prior to the general amendment of such section by Pub. L. 101–624, title XI, § 1123, Nov. 28, 1990, 104 Stat. 3503. As amended, section 1445e now provides for a farmer owned reserve program.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -175,7 +175,7 @@ The producer storage program provided for under section 1445e of this title, ref
 
 Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as a note under section 4001 of this title.
 
-## § 4003. Study of potential for expansion of United States agricultural export markets; report to President and Congress
+## § 4003. Study of potential for expansion of United States agricultural export markets; report to President and Congress
 
 **(a)** The Secretary of Agriculture, in consultation with the United States Trade Representative and any other appropriate agency of the United States Government as determined by the Secretary, shall perform a study of the potential for expansion of United States agricultural export markets and the use of agricultural exports in obtaining natural resources or other commodities and products needed by the United States. The Secretary shall complete the study and submit to the President and Congress a report on the study before June 30, 1981.
 
@@ -191,7 +191,7 @@ Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as 
 
 **(5)** the steps that the United States must take to (A) increase agricultural export trade, and (B) obtain needed natural resources or other commodities and products in exchange for agricultural products, to the maximum extent feasible.
 
-(Pub. L. 96–494, title II, § 210, Dec. 3, 1980, 94 Stat. 2576.)
+(Pub. L. 96–494, title II, § 210, Dec. 3, 1980, 94 Stat. 2576.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -199,7 +199,7 @@ Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as 
 
 Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as a note under section 4001 of this title.
 
-## § 4004. Food bank special nutrition projects
+## § 4004. Food bank special nutrition projects
 
 **(a) Distribution of agricultural commodities to community food banks for emergency distribution; availability of agricultural commodities; use of currently used distributorship systems; selection of food banks**
 
@@ -231,25 +231,25 @@ The Secretary shall minimize paperwork requirements placed on food banks which p
 
 There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 96–494, title II, § 211, Dec. 3, 1980, 94 Stat. 2577; Pub. L. 97–98, title XI, § 1114(b), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 106–78, title VII, § 752(b)(4), Oct. 22, 1999, 113 Stat. 1169.)
+(Pub. L. 96–494, title II, § 211, Dec. 3, 1980, 94 Stat. 2577; Pub. L. 97–98, title XI, § 1114(b), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 106–78, title VII, § 752(b)(4), Oct. 22, 1999, 113 Stat. 1169.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 **Amendments**
 
 1999—Subsec. (a). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1981—Subsecs. (a), (b). Pub. L. 97–98, § 1114(b)(1), substituted “special nutrition projects” for “demonstration projects” wherever appearing.
+1981—Subsecs. (a), (b). Pub. L. 97–98, § 1114(b)(1), substituted “special nutrition projects” for “demonstration projects” wherever appearing.
 
-Subsec. (d). Pub. L. 97–98, § 1114(b)(2), (3), substituted “to Congress a progress report on July 1, 1983, and a final report on January 1, 1984” for “a report to Congress on October 1, 1982” and “special nutrition projects” for “demonstration projects”.
+Subsec. (d). Pub. L. 97–98, § 1114(b)(2), (3), substituted “to Congress a progress report on July 1, 1983, and a final report on January 1, 1984” for “a report to Congress on October 1, 1982” and “special nutrition projects” for “demonstration projects”.
 
-Subsecs. (f), (g). Pub. L. 97–98, § 1114(b)(4), (5), added subsec. (f), redesignated former subsec. (f) as (g), and substituted “such sums as may be necessary to carry out this section” for “to carry out this section $356,000”.
+Subsecs. (f), (g). Pub. L. 97–98, § 1114(b)(4), (5), added subsec. (f), redesignated former subsec. (f) as (g), and substituted “such sums as may be necessary to carry out this section” for “to carry out this section $356,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -265,11 +265,11 @@ Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as 
 
 Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
 
-## § 4004a. Applicability of supplemental nutrition assistance requirements
+## § 4004a. Applicability of supplemental nutrition assistance requirements
 
 Section 2013(b) of this title shall not apply with respect to distribution of surplus commodities under section 4004 of this title.
 
-(Pub. L. 97–98, title XI, § 1114(d), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(II), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(II), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 97–98, title XI, § 1114(d), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(II), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(II), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 **Editorial Notes**
 
@@ -281,7 +281,7 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 4002(b)(1)(B), (2)(II), made technical amendment to reference in original act which appears in text as reference to section 2013(b) of this title.
+2008—Pub. L. 110–246, § 4002(b)(1)(B), (2)(II), made technical amendment to reference in original act which appears in text as reference to section 2013(b) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -295,11 +295,11 @@ Amendment by section 4002(b)(1)(B), (2)(II) of Pub. L. 110–246 effective Oct. 
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-## § 4005. “Fuel conversion price” defined
+## § 4005. “Fuel conversion price” defined
 
 As used in this chapter, the phrase “fuel conversion price” means the price for an agricultural commodity determined by the Secretary of Agriculture that will permit gasoline-alcohol mixtures using alcohol produced from the commodity to be competitive in price with unleaded gasoline priced at the point it leaves the refinery, adjusted for differences in octane rating, taking into consideration the energy value of the commodity and other appropriate values designed to represent, on a national average basis, the value of byproducts also recoverable from the commodity; the direct costs and capital recovery costs for a grain alcohol distillery capable of producing forty million gallons of alcohol and recovering byproducts annually; and Federal tax and other Federal incentives applicable to alcohol used for fuel.
 
-(Pub. L. 96–494, title II, § 212, Dec. 3, 1980, 94 Stat. 2578.)
+(Pub. L. 96–494, title II, § 212, Dec. 3, 1980, 94 Stat. 2578.)
 
 **Editorial Notes**
 

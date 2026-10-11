@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 705—THE FOUNDATION OF THE FEDERAL BAR ASSOCIATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 705—THE FOUNDATION OF THE FEDERAL BAR ASSOCIATION"
 identifier: "/us/usc/t36/stII/ptB/ch705"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 705—THE FOUNDATION OF THE FEDERAL BAR ASSOCIATION
 
-## § 70501. Organization
+## § 70501. Organization
 
 **(a) Federal Charter.—** The Foundation of the Federal Bar Association (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70501 | 36:571. | Aug. 24, 1954, ch. 911, §§ 1, 2, 68 Stat. 795. |
+| 70501 | 36:571. | Aug. 24, 1954, ch. 911, §§ 1, 2, 68 Stat. 795. |
 |  | 36:572. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 70502. Purposes
+## § 70502. Purposes
 
 The purposes of the corporation are—
 
@@ -60,7 +60,7 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70502 | 36:573. | Aug. 24, 1954, ch. 911, § 3, 68 Stat. 797. |
+| 70502 | 36:573. | Aug. 24, 1954, ch. 911, § 3, 68 Stat. 797. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
@@ -70,7 +70,7 @@ In clause (2), the words “and if the corporation so decides, all or” and “
 
 In clause (3), the words “any other acts” are substituted for “any and all things” for consistency in the revised title.
 
-## § 70503. Membership
+## § 70503. Membership
 
 **(a) Members.—** The members of the corporation are—
 
@@ -92,7 +92,7 @@ In clause (3), the words “any other acts” are substituted for “any and all
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70503(a) | 36:576(a). | Aug. 24, 1954, ch. 911, §§ 6, 16, 68 Stat. 798, 800. |
+| 70503(a) | 36:576(a). | Aug. 24, 1954, ch. 911, §§ 6, 16, 68 Stat. 798, 800. |
 | 70503(b) | 36:576(b). |  |
 | 70503(c) | 36:586. |  |
 
@@ -100,7 +100,7 @@ In subsection (a), the words “the persons listed in section 571 of this title�
 
 In subsection (b), the words “has one vote” are substituted for “may cast one vote” for consistency in the revised title.
 
-## § 70504. Governing body
+## § 70504. Governing body
 
 **(a) Board of Directors.—**
 
@@ -124,12 +124,12 @@ In subsection (b), the words “has one vote” are substituted for “may cast 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70504(a) | 36:577. | Aug. 24, 1954, ch. 911, §§ 7, 8, 68 Stat. 798. |
+| 70504(a) | 36:577. | Aug. 24, 1954, ch. 911, §§ 7, 8, 68 Stat. 798. |
 | 70504(b) | 36:578. |  |
 
 In subsection (a), the names of the directors for 1954 and the language about their initial terms are omitted as obsolete. In paragraph (2), the words “caused by expiration of the members’ terms or otherwise” are omitted as unnecessary.
 
-## § 70505. Powers
+## § 70505. Powers
 
 The corporation may—
 
@@ -155,7 +155,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70505 | 36:574. | Aug. 24, 1954, ch. 911, §§ 4, 18, 68 Stat. 797, 800. |
+| 70505 | 36:574. | Aug. 24, 1954, ch. 911, §§ 4, 18, 68 Stat. 797, 800. |
 |  | 36:588. |  |
 
 In this section, the definition of “State” in 36:588 is omitted because the word “State” (which in the source provisions for this chapter only appears in 36:574) is not used in the revised chapter.
@@ -176,7 +176,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 In clause (8), the words “any other act” are substituted for “any and all acts” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 70506. Exclusive right to name
+## § 70506. Exclusive right to name
 
 The corporation has the exclusive right to use the name “The Foundation of the Federal Bar Association”.
 
@@ -186,9 +186,9 @@ The corporation has the exclusive right to use the name “The Foundation of the
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70506 | 36:587. | Aug. 24, 1954, ch. 911, § 17, 68 Stat. 800. |
+| 70506 | 36:587. | Aug. 24, 1954, ch. 911, § 17, 68 Stat. 800. |
 
-## § 70507. Restrictions
+## § 70507. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -210,7 +210,7 @@ The corporation has the exclusive right to use the name “The Foundation of the
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70507(a) | 36:582. | Aug. 24, 1954, ch. 911, §§ 9, 10, 12, 68 Stat. 799. |
+| 70507(a) | 36:582. | Aug. 24, 1954, ch. 911, §§ 9, 10, 12, 68 Stat. 799. |
 | 70507(b) | 36:580. |  |
 | 70507(c) | 36:579(a) (words before last comma). |  |
 | 70507(d) | 36:579(b). |  |
@@ -224,7 +224,7 @@ In subsection (c), the word “income” is substituted for “net earnings” f
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 70508. Principal office
+## § 70508. Principal office
 
 The corporation shall have its principal office in the District of Columbia, but may conduct its activities anywhere.
 
@@ -234,11 +234,11 @@ The corporation shall have its principal office in the District of Columbia, but
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70508 | 36:575(a). | Aug. 24, 1954, ch. 911, § 5(a), 68 Stat. 798. |
+| 70508 | 36:575(a). | Aug. 24, 1954, ch. 911, § 5(a), 68 Stat. 798. |
 
 The word “anywhere” is substituted for “at any place or places in the United States, or elsewhere” to eliminate unnecessary words.
 
-## § 70509. Records and inspection
+## § 70509. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -256,11 +256,11 @@ The word “anywhere” is substituted for “at any place or places in the Unit
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70509 | 36:583. | Aug. 24, 1954, ch. 911, § 13, 68 Stat. 799. |
+| 70509 | 36:583. | Aug. 24, 1954, ch. 911, § 13, 68 Stat. 799. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 70510. Service of process
+## § 70510. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -270,11 +270,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70510 | 36:575(b). | Aug. 24, 1954, ch. 911, § 5(b), 68 Stat. 798. |
+| 70510 | 36:575(b). | Aug. 24, 1954, ch. 911, § 5(b), 68 Stat. 798. |
 
 The words “at all times” and “authorized” are omitted as unnecessary. The words “the business address of the agent” are substituted for “at such business address” for clarity and consistency in the revised title.
 
-## § 70511. Liability for acts of officers and agents
+## § 70511. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -284,9 +284,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70511 | 36:581. | Aug. 24, 1954, ch. 911, § 11, 68 Stat. 799. |
+| 70511 | 36:581. | Aug. 24, 1954, ch. 911, § 11, 68 Stat. 799. |
 
-## § 70512. Deposit of assets on dissolution or final liquidation
+## § 70512. Deposit of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be deposited in the Treasury of the United States as a miscellaneous receipt.
 
@@ -296,6 +296,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70512 | 36:585. | Aug. 24, 1954, ch. 911, § 15, 68 Stat. 800. |
+| 70512 | 36:585. | Aug. 24, 1954, ch. 911, § 15, 68 Stat. 800. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.

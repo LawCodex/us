@@ -17,9 +17,9 @@ retrieved: 2026-10-11
 
 **Senate Revision Amendment**
 
-In chapter 35 heading, “OR” substituted for “AND” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
+In chapter 35 heading, “OR” substituted for “AND” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
 
-## § 3501. General
+## § 3501. General
 
 **(a) Definitions.—** In this chapter:
 
@@ -37,16 +37,16 @@ In chapter 35 heading, “OR” substituted for “AND” by S. Amdt. 4726 (11
 
 **(B)** if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3764; Pub. L. 115–232, div. A, title VIII, § 836(b)(11), Aug. 13, 2018, 132 Stat. 1863.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3764; Pub. L. 115–232, div. A, title VIII, § 836(b)(11), Aug. 13, 2018, 132 Stat. 1863.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3501(a) | 41:254b(h). | June 30, 1949, ch. 288, title III, § 304A(h), formerly § 304A(i), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3284; redesignated as § 304A(h), Pub. L. 104–106, title XLII, § 4201(b)(2)(B), Feb. 10, 1996, 110 Stat. 652. |
-| 3501(b) | 41:254b note. | Pub. L. 110–417, [div. A], title VIII, § 868, Oct. 14, 2008, 122 Stat. 4552. |
+| 3501(a) | 41:254b(h). | June 30, 1949, ch. 288, title III, § 304A(h), formerly § 304A(i), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3284; redesignated as § 304A(h), Pub. L. 104–106, title XLII, § 4201(b)(2)(B), Feb. 10, 1996, 110 Stat. 652. |
+| 3501(b) | 41:254b note. | Pub. L. 110–417, [div. A], title VIII, § 868, Oct. 14, 2008, 122 Stat. 4552. |
 
-Subsection (a) of Pub. L. 110–417, § 868 is omitted as unnecessary.
+Subsection (a) of Pub. L. 110–417, § 868 is omitted as unnecessary.
 
 In subsection (b)(1), the words “The Federal Acquisition Regulation” are substituted for “The regulations modified pursuant to subsection (a)” for clarity and conformity with the revised title.
 
@@ -54,11 +54,11 @@ In subsection (b)(1), the words “The Federal Acquisition Regulation” are sub
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–232, § 836(b)(11)(A), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted “commercial products or commercial services” for “commercial items” in par. (2), as redesignated, and struck out former par. (1), which defined “commercial item”.
+2018—Subsec. (a). Pub. L. 115–232, § 836(b)(11)(A), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted “commercial products or commercial services” for “commercial items” in par. (2), as redesignated, and struck out former par. (1), which defined “commercial item”.
 
-Subsec. (b)(1). Pub. L. 115–232, § 836(b)(11)(B), in heading, struck out “item” before “authority” and, in text, substituted “commercial services” for “commercial items”.
+Subsec. (b)(1). Pub. L. 115–232, § 836(b)(11)(B), in heading, struck out “item” before “authority” and, in text, substituted “commercial services” for “commercial items”.
 
-Subsec. (b)(2)(A). Pub. L. 115–232, § 836(b)(11)(B)(ii), substituted “commercial services” for “commercial items”.
+Subsec. (b)(2)(A). Pub. L. 115–232, § 836(b)(11)(B)(ii), substituted “commercial services” for “commercial items”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -66,7 +66,7 @@ Subsec. (b)(2)(A). Pub. L. 115–232, § 836(b)(11)(B)(ii), substituted “com
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3502. Required cost or pricing data and certification
+## § 3502. Required cost or pricing data and certification
 
 **(a) When Required.—** The head of an executive agency shall require offerors, contractors, and subcontractors to make cost or pricing data available as follows:
 
@@ -114,31 +114,31 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(g) Adjustment of Amounts.—** Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with section 1908.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3765; Pub. L. 115–91, div. A, title VIII, § 811(a)(2), Dec. 12, 2017, 131 Stat. 1459.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3765; Pub. L. 115–91, div. A, title VIII, § 811(a)(2), Dec. 12, 2017, 131 Stat. 1459.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3502 | 41:254b(a). | June 30, 1949, ch. 288, title III, § 304A(a), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3278; Pub. L. 105–261, div. A, title VIII, § 805(b), Oct. 17, 1998, 112 Stat. 2083. |
+| 3502 | 41:254b(a). | June 30, 1949, ch. 288, title III, § 304A(a), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3278; Pub. L. 105–261, div. A, title VIII, § 805(b), Oct. 17, 1998, 112 Stat. 2083. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–91, § 811(a)(2)(A)(i), (ii), substituted “June 30, 2018” for “October 13, 1994” and “$750,000” for “$100,000” wherever appearing.
+2017—Subsec. (a). Pub. L. 115–91, § 811(a)(2)(A)(i), (ii), substituted “June 30, 2018” for “October 13, 1994” and “$750,000” for “$100,000” wherever appearing.
 
-Subsec. (a)(1)(A), (2)(A). Pub. L. 115–91, § 811(a)(2)(A)(iii), substituted “$2,000,000” for “$500,000”.
+Subsec. (a)(1)(A), (2)(A). Pub. L. 115–91, § 811(a)(2)(A)(iii), substituted “$2,000,000” for “$500,000”.
 
-Subsec. (a)(2)(B). Pub. L. 115–91, § 811(a)(2)(A)(iv), substituted “$750,000” for “$500,000”.
+Subsec. (a)(2)(B). Pub. L. 115–91, § 811(a)(2)(A)(iv), substituted “$750,000” for “$500,000”.
 
-Subsec. (a)(3)(A), (B), (4)(A). Pub. L. 115–91, § 811(a)(2)(A)(iii), substituted “$2,000,000” for “$500,000”.
+Subsec. (a)(3)(A), (B), (4)(A). Pub. L. 115–91, § 811(a)(2)(A)(iii), substituted “$2,000,000” for “$500,000”.
 
-Subsec. (f). Pub. L. 115–91, § 811(a)(2)(B), substituted “June 30, 2018” for “October 13, 1994”.
+Subsec. (f). Pub. L. 115–91, § 811(a)(2)(B), substituted “June 30, 2018” for “October 13, 1994”.
 
-Subsec. (g). Pub. L. 115–91, § 811(a)(2)(C), substituted “in accordance with section 1908.” for “to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.”
+Subsec. (g). Pub. L. 115–91, § 811(a)(2)(C), substituted “in accordance with section 1908.” for “to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.”
 
-## § 3503. Exceptions
+## § 3503. Exceptions
 
 **(a) In General.—** Submission of certified cost or pricing data shall not be required under section 3502 of this title in the case of a contract, a subcontract, or a modification of a contract or subcontract—
 
@@ -158,13 +158,13 @@ Subsec. (g). Pub. L. 115–91, § 811(a)(2)(C), substituted “in accordance w
 
 **(2)** the modification would not change the contract or subcontract from a contract or subcontract for the acquisition of a commercial product or a commercial service to a contract or subcontract for the acquisition of an item other than a commercial product or a commercial service.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3766; Pub. L. 115–232, div. A, title VIII, § 836(b)(12), Aug. 13, 2018, 132 Stat. 1863.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3766; Pub. L. 115–232, div. A, title VIII, § 836(b)(12), Aug. 13, 2018, 132 Stat. 1863.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3503 | 41:254b(b). | June 30, 1949, ch. 288, title III, § 304A(b), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3279; Pub. L. 104–106, title XLII, § 4201(b)(1), Feb. 10, 1996, 110 Stat. 651. |
+| 3503 | 41:254b(b). | June 30, 1949, ch. 288, title III, § 304A(b), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3279; Pub. L. 104–106, title XLII, § 4201(b)(1), Feb. 10, 1996, 110 Stat. 651. |
 
 In subsection (b)(2), the words “as the case may be” are omitted as unnecessary.
 
@@ -172,9 +172,9 @@ In subsection (b)(2), the words “as the case may be” are omitted as unnecess
 
 **Amendments**
 
-2018—Subsec. (a)(2). Pub. L. 115–232, § 836(b)(12)(A), substituted “a commercial product or a commercial service” for “a commercial item”.
+2018—Subsec. (a)(2). Pub. L. 115–232, § 836(b)(12)(A), substituted “a commercial product or a commercial service” for “a commercial item”.
 
-Subsec. (b). Pub. L. 115–232, § 836(b)(12)(B), in heading, substituted “Commercial Products or Commercial Services” for “Commercial Items” and, in text, substituted “a commercial product or a commercial service” for “a commercial item” wherever appearing.
+Subsec. (b). Pub. L. 115–232, § 836(b)(12)(B), in heading, substituted “Commercial Products or Commercial Services” for “Commercial Items” and, in text, substituted “a commercial product or a commercial service” for “a commercial item” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -182,7 +182,7 @@ Subsec. (b). Pub. L. 115–232, § 836(b)(12)(B), in heading, substituted “C
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3504. Cost or pricing data on below-threshold contracts
+## § 3504. Cost or pricing data on below-threshold contracts
 
 **(a) Authority To Require Submission.—** Subject to subsection (b), when certified cost or pricing data are not required to be submitted by section 3502 of this title for a contract, subcontract, or modification of a contract or subcontract, the data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that the data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires the data to be submitted under this section, the head of the procuring activity shall justify in writing the reason for the requirement.
 
@@ -190,15 +190,15 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(c) Delegation of Authority Prohibited.—** The head of a procuring activity may not delegate the functions under this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3767.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3767.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3504 | 41:254b(c). | June 30, 1949, ch. 288, title III, § 304A(c), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3280; Pub. L. 104–106, title XLII, §§ 4201(b)(1), 4321(e)(3), Feb. 10, 1996, 110 Stat. 651, 675. |
+| 3504 | 41:254b(c). | June 30, 1949, ch. 288, title III, § 304A(c), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3280; Pub. L. 104–106, title XLII, §§ 4201(b)(1), 4321(e)(3), Feb. 10, 1996, 110 Stat. 651, 675. |
 
-## § 3505. Submission of other information
+## § 3505. Submission of other information
 
 **(a) Authority To Require Submission.—** When certified cost or pricing data are not required to be submitted under this chapter for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in section 3503(a)(1) of this title, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
@@ -210,13 +210,13 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(3) Information not to be disclosed.—** A statement that any information received relating to commercial products or commercial services that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3767; Pub. L. 115–232, div. A, title VIII, § 836(b)(13), Aug. 13, 2018, 132 Stat. 1863.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3767; Pub. L. 115–232, div. A, title VIII, § 836(b)(13), Aug. 13, 2018, 132 Stat. 1863.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3505 | 41:254b(d). | June 30, 1949, ch. 288, title III, § 304A(d), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3281; Pub. L. 104–106, title XLII, §§ 4201(b)(1), 4321(e)(4), Feb. 10, 1996, 110 Stat. 652, 675; Pub. L. 105–261, div. A, title VIII, § 808(b), Oct. 17, 1998, 112 Stat. 2085. |
+| 3505 | 41:254b(d). | June 30, 1949, ch. 288, title III, § 304A(d), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3281; Pub. L. 104–106, title XLII, §§ 4201(b)(1), 4321(e)(4), Feb. 10, 1996, 110 Stat. 652, 675; Pub. L. 105–261, div. A, title VIII, § 808(b), Oct. 17, 1998, 112 Stat. 2085. |
 
 **Editorial Notes**
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3506. Price reductions for defective cost or pricing data
+## § 3506. Price reductions for defective cost or pricing data
 
 **(a) Provision Requiring Adjustment.—**
 
@@ -268,15 +268,15 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(B)** the Federal Government proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the Federal Government before date of agreement on the price of the contract (or price of the modification), or, if applicable, under subsection (a)(2), another date agreed on by the parties, the submission of the cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3768.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3768.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3506 | 41:254b(e). | June 30, 1949, ch. 288, title III, § 304A(e), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3282. |
+| 3506 | 41:254b(e). | June 30, 1949, ch. 288, title III, § 304A(e), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3282. |
 
-## § 3507. Interest and penalties for certain overpayments
+## § 3507. Interest and penalties for certain overpayments
 
 **(a) In General.—** If the Federal Government makes an overpayment to a contractor under a contract with an executive agency subject to this chapter and the overpayment was due to the submission by the contractor of defective cost or pricing data, the contractor shall be liable to the Federal Government—
 
@@ -290,39 +290,39 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(b) Liability Not Affected by Refusal To Submit Certification.—** Any liability under this section of a contractor that submits cost or pricing data but refuses to submit the certification required by section 3502(b) of this title with respect to the cost or pricing data is not affected by the refusal to submit the certification.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3769.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3769.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3507 | 41:254b(f). | June 30, 1949, ch. 288, title III, § 304A(f), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3283. |
+| 3507 | 41:254b(f). | June 30, 1949, ch. 288, title III, § 304A(f), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3283. |
 
-## § 3508. Right to examine contractor records
+## § 3508. Right to examine contractor records
 
 For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this chapter, an executive agency shall have the authority provided by section 4706(b)(2) of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3508 | 41:254b(g). | June 30, 1949, ch. 288, title III, § 304A(g), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3283. |
+| 3508 | 41:254b(g). | June 30, 1949, ch. 288, title III, § 304A(g), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3283. |
 
-## § 3509. Notification of violations of Federal criminal law or overpayments
+## § 3509. Notification of violations of Federal criminal law or overpayments
 
 **(a) Definition.—** In this section, the term “covered contract” means any contract in an amount greater than $5,000,000 and more than 120 days in duration.
 
 **(b) Federal Acquisition Regulation.—** The Federal Acquisition Regulation shall include, pursuant to FAR Case 2007–006 (as published at 72 Fed. Reg. 64019, November 14, 2007) or any follow-on FAR case, provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial products or commercial services.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770; Pub. L. 115–232, div. A, title VIII, § 836(b)(14), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770; Pub. L. 115–232, div. A, title VIII, § 836(b)(14), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3509 | 41:251 note. | Pub. L. 110–252, title VI, §§ 6102, 6103, June 30, 2008, 122 Stat. 2386, 2387. |
+| 3509 | 41:251 note. | Pub. L. 110–252, title VI, §§ 6102, 6103, June 30, 2008, 122 Stat. 2386, 2387. |
 
 In subsection (b), the words “shall include” are substituted for “shall be amended” and “to include” to reflect the permanence of the provision. The words “within 180 days after the date of the enactment of this Act” are omitted as obsolete.
 

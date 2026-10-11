@@ -21,13 +21,13 @@ retrieved: 2026-10-11
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however, as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 96–157.
 
-Title I of the Omnibus Crime Control and Safe Streets Act of 1968 was formerly classified to chapter 46 (§ 3701 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this chapter.
+Title I of the Omnibus Crime Control and Safe Streets Act of 1968 was formerly classified to chapter 46 (§ 3701 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this chapter.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Law Enforcement Assistance Act of 1965**
 
-Pub. L. 89–197, §§ 1–11, Sept. 22, 1965, 79 Stat. 828, as amended by Pub. L. 89–798, Nov. 8, 1966, 80 Stat. 1506, was repealed by Pub. L. 90–351, title I, § 405, June 19, 1968, 82 Stat. 204, subject to the provisions of former section 3745 of Title 42, The Public Health and Welfare. See section 10101 et seq. (chapter 101) of this title. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
+Pub. L. 89–197, §§ 1–11, Sept. 22, 1965, 79 Stat. 828, as amended by Pub. L. 89–798, Nov. 8, 1966, 80 Stat. 1506, was repealed by Pub. L. 90–351, title I, § 405, June 19, 1968, 82 Stat. 204, subject to the provisions of former section 3745 of Title 42, The Public Health and Welfare. See section 10101 et seq. (chapter 101) of this title. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
 
 **Executive Documents**
 
@@ -55,21 +55,21 @@ Lyndon B. Johnson.
 
 **Executive Order No. 14074**
 
-Ex. Ord. No. 14074, May 25, 2022, 87 F.R. 32945, which related to advancing effective, accountable policing and criminal justice practices to enhance public trust and public safety, was revoked by Ex. Ord. No. 14148, § 2(vv), Jan. 20, 2025, 90 F.R. 8239.
+Ex. Ord. No. 14074, May 25, 2022, 87 F.R. 32945, which related to advancing effective, accountable policing and criminal justice practices to enhance public trust and public safety, was revoked by Ex. Ord. No. 14148, § 2(vv), Jan. 20, 2025, 90 F.R. 8239.
 
 ## SUBCHAPTER I—OFFICE OF JUSTICE PROGRAMS
 
-### § 10101. Establishment of Office of Justice Programs
+### § 10101. Establishment of Office of Justice Programs
 
 There is hereby established an Office of Justice Programs within the Department of Justice under the general authority of the Attorney General. The Office of Justice Programs (hereinafter referred to in this chapter as the “Office”) shall be headed by an Assistant Attorney General (hereinafter in this chapter referred to as the “Assistant Attorney General”) appointed by the President, by and with the advice and consent of the Senate.
 
-(Pub. L. 90–351, title I, § 101, as added Pub. L. 98–473, title II, § 603(a), Oct. 12, 1984, 98 Stat. 2077.)
+(Pub. L. 90–351, title I, § 101, as added Pub. L. 98–473, title II, § 603(a), Oct. 12, 1984, 98 Stat. 2077.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 **Codification**
 
@@ -77,15 +77,15 @@ Section was formerly classified to section 3711 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 101 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1170, established Law Enforcement Assistance Administration, prior to the general amendment of part A of title I of Pub. L. 90–351 by Pub. L. 98–473.
+A prior section 101 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1170, established Law Enforcement Assistance Administration, prior to the general amendment of part A of title I of Pub. L. 90–351 by Pub. L. 98–473.
 
-Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 91–644, title I, § 2, Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 197; Pub. L. 94–503, title I, §§ 102, 103, Oct. 15, 1976, 90 Stat. 2407, established Law Enforcement Assistance Administration and Office of Community Anti-Crime Programs, prior to the general amendment of this chapter by Pub. L. 96–157.
+Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 91–644, title I, § 2, Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 197; Pub. L. 94–503, title I, §§ 102, 103, Oct. 15, 1976, 90 Stat. 2407, established Law Enforcement Assistance Administration and Office of Community Anti-Crime Programs, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that:
+Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that:
 
 > **“(a)** Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Act note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later.
 
@@ -97,433 +97,433 @@ Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided t
 
 **Short Title of 2026 Amendment**
 
-Pub. L. 119–94, § 1, May 28, 2026, 140 Stat. 830, provided that: “This Act [enacting chapter 511 of this title] may be cited as the ‘Medal of Sacrifice Act of 2025’.”
+Pub. L. 119–94, § 1, May 28, 2026, 140 Stat. 830, provided that: “This Act [enacting chapter 511 of this title] may be cited as the ‘Medal of Sacrifice Act of 2025’.”
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–159, div. E, title LII, § 5201, Dec. 23, 2024, 138 Stat. 2433, provided that: “This subtitle [subtitle A (§§ 5201–5203) of title LII of div. E of Pub. L. 118–159, amending section 20942 of this title, section 405 of Title 5, Government Organization and Employees, sections 3801 to 3803, 3806, and 3808 of Title 31, Money and Finance, and section 7105 of Title 41, Public Contracts, and enacting and amending provisions set out as notes under section 3801 of Title 31] may be cited as the ‘Law Enforcement And [sic] Victim Support Act of 2024’.”
+Pub. L. 118–159, div. E, title LII, § 5201, Dec. 23, 2024, 138 Stat. 2433, provided that: “This subtitle [subtitle A (§§ 5201–5203) of title LII of div. E of Pub. L. 118–159, amending section 20942 of this title, section 405 of Title 5, Government Organization and Employees, sections 3801 to 3803, 3806, and 3808 of Title 31, Money and Finance, and section 7105 of Title 41, Public Contracts, and enacting and amending provisions set out as notes under section 3801 of Title 31] may be cited as the ‘Law Enforcement And [sic] Victim Support Act of 2024’.”
 
-Pub. L. 118–72, § 1, July 30, 2024, 138 Stat. 1503, provided that: “This Act [amending section 40701 of this title] may be cited as the ‘Debbie Smith Act of 2023’.”
+Pub. L. 118–72, § 1, July 30, 2024, 138 Stat. 1503, provided that: “This Act [amending section 40701 of this title] may be cited as the ‘Debbie Smith Act of 2023’.”
 
-Pub. L. 118–65, § 1, June 17, 2024, 138 Stat. 1439, provided that: “This Act [amending sections 11292, 11293, 11295a, and 11297 of this title] may be cited as the ‘Missing Children’s Assistance Reauthorization Act of 2023’.”
+Pub. L. 118–65, § 1, June 17, 2024, 138 Stat. 1439, provided that: “This Act [amending sections 11292, 11293, 11295a, and 11297 of this title] may be cited as the ‘Missing Children’s Assistance Reauthorization Act of 2023’.”
 
-Pub. L. 118–64, § 1, May 24, 2024, 138 Stat. 1435, provided that: “This Act [amending sections 10381 and 10384 of this title] may be cited as the ‘Recruit and Retain Act’.”
+Pub. L. 118–64, § 1, May 24, 2024, 138 Stat. 1435, provided that: “This Act [amending sections 10381 and 10384 of this title] may be cited as the ‘Recruit and Retain Act’.”
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 117–347, § 1, Jan. 5, 2023, 136 Stat. 6199, provided that: “This Act [see Tables for classification] may be cited as the ‘Abolish Trafficking Reauthorization Act of 2022’.”
+Pub. L. 117–347, § 1, Jan. 5, 2023, 136 Stat. 6199, provided that: “This Act [see Tables for classification] may be cited as the ‘Abolish Trafficking Reauthorization Act of 2022’.”
 
-Pub. L. 117–330, § 1, Jan. 5, 2023, 136 Stat. 6114, provided that: “This Act [enacting section 41313 of this title] may be cited as the ‘Sami’s Law’.”
+Pub. L. 117–330, § 1, Jan. 5, 2023, 136 Stat. 6114, provided that: “This Act [enacting section 41313 of this title] may be cited as the ‘Sami’s Law’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. MM, § 101(a), Dec. 29, 2022, 136 Stat. 6106, provided that: “This section [amending section 20144 of this title] may be cited as the ‘Fairness for 9/11 Families Act’.”
+Pub. L. 117–328, div. MM, § 101(a), Dec. 29, 2022, 136 Stat. 6106, provided that: “This section [amending section 20144 of this title] may be cited as the ‘Fairness for 9/11 Families Act’.”
 
-Pub. L. 117–327, § 1, Dec. 27, 2022, 136 Stat. 4454, provided that: “This Act [enacting sections 40506 to 40508 of this title, amending sections 41307 and 41308 of this title, and enacting provisions set out as a note under section 40506 of this title] may be cited as ‘Billy’s Law’ or the ‘Help Find the Missing Act’.”
+Pub. L. 117–327, § 1, Dec. 27, 2022, 136 Stat. 4454, provided that: “This Act [enacting sections 40506 to 40508 of this title, amending sections 41307 and 41308 of this title, and enacting provisions set out as a note under section 40506 of this title] may be cited as ‘Billy’s Law’ or the ‘Help Find the Missing Act’.”
 
-Pub. L. 117–325, § 1, Dec. 27, 2022, 136 Stat. 4441, provided that: “This Act [enacting section 10159 of this title and amending sections 10251 and 10381 of this title and section 3758 of Title 42, The Public Health and Welfare] may be cited as the ‘Law Enforcement De-Escalation Training Act of 2022’.”
+Pub. L. 117–325, § 1, Dec. 27, 2022, 136 Stat. 4441, provided that: “This Act [enacting section 10159 of this title and amending sections 10251 and 10381 of this title and section 3758 of Title 42, The Public Health and Welfare] may be cited as the ‘Law Enforcement De-Escalation Training Act of 2022’.”
 
-Pub. L. 117–323, § 1, Dec. 27, 2022, 136 Stat. 4437, provided that: “This Act [amending section 10651 of this title] may be cited as the ‘Justice and Mental Health Collaboration Reauthorization Act of 2022’.”
+Pub. L. 117–323, § 1, Dec. 27, 2022, 136 Stat. 4437, provided that: “This Act [amending section 10651 of this title] may be cited as the ‘Justice and Mental Health Collaboration Reauthorization Act of 2022’.”
 
-Pub. L. 117–315, § 1, Dec. 27, 2022, 136 Stat. 4404, provided that: “This Act [amending sections 10441 and 12291 of this title] may be cited as the ‘VAWA Technical Amendment Act of 2022’.”
+Pub. L. 117–315, § 1, Dec. 27, 2022, 136 Stat. 4404, provided that: “This Act [amending sections 10441 and 12291 of this title] may be cited as the ‘VAWA Technical Amendment Act of 2022’.”
 
-Pub. L. 117–262, § 1, Dec. 21, 2022, 136 Stat. 2394, provided that: “This Act [amending section 21117 of this title] may be cited as the ‘Providing Resources, Officers, and Technology to Eradicate Cyber Threats to Our Children Act of 2022’ or the ‘PROTECT Our Children Act of 2022’.”
+Pub. L. 117–262, § 1, Dec. 21, 2022, 136 Stat. 2394, provided that: “This Act [amending section 21117 of this title] may be cited as the ‘Providing Resources, Officers, and Technology to Eradicate Cyber Threats to Our Children Act of 2022’ or the ‘PROTECT Our Children Act of 2022’.”
 
-Pub. L. 117–250, § 1, Dec. 20, 2022, 136 Stat. 2352, provided that: “This Act [amending section 10701 of this title] may be cited as the ‘Rural Opioid Abuse Prevention Act’.”
+Pub. L. 117–250, § 1, Dec. 20, 2022, 136 Stat. 2352, provided that: “This Act [amending section 10701 of this title] may be cited as the ‘Rural Opioid Abuse Prevention Act’.”
 
-Pub. L. 117–172, § 1, Aug. 16, 2022, 136 Stat. 2098, provided that: “This Act [amending sections 10225, 10281, and 10284 of this title and enacting provisions set out as notes under section 10281 of this title] may be cited as the ‘Public Safety Officer Support Act of 2022’.”
+Pub. L. 117–172, § 1, Aug. 16, 2022, 136 Stat. 2098, provided that: “This Act [amending sections 10225, 10281, and 10284 of this title and enacting provisions set out as notes under section 10281 of this title] may be cited as the ‘Public Safety Officer Support Act of 2022’.”
 
-Pub. L. 117–170, § 1, Aug. 16, 2022, 136 Stat. 2091, provided that: “This Act [enacting section 10653 of this title, amending section 10651 of this title, and enacting provisions set out as a note under section 10653 of this title] may be cited as the ‘Traumatic Brain Injury and Post-Traumatic Stress Disorder Law Enforcement Training Act’ or the ‘TBI and PTSD Law Enforcement Training Act’.”
+Pub. L. 117–170, § 1, Aug. 16, 2022, 136 Stat. 2091, provided that: “This Act [enacting section 10653 of this title, amending section 10651 of this title, and enacting provisions set out as a note under section 10653 of this title] may be cited as the ‘Traumatic Brain Injury and Post-Traumatic Stress Disorder Law Enforcement Training Act’ or the ‘TBI and PTSD Law Enforcement Training Act’.”
 
-Pub. L. 117–164, § 1, Aug. 3, 2022, 136 Stat. 1358, provided that: “This Act [enacting chapter 609 of this title] may be cited as the ‘Homicide Victims’ Families’ Rights Act of 2021’.”
+Pub. L. 117–164, § 1, Aug. 3, 2022, 136 Stat. 1358, provided that: “This Act [enacting chapter 609 of this title] may be cited as the ‘Homicide Victims’ Families’ Rights Act of 2021’.”
 
-Pub. L. 117–103, div. W, § 1, Mar. 15, 2022, 136 Stat. 840, provided that: “This Act [div. W of Pub. L. 117–103, see Tables for classification] may be cited as the ‘Violence Against Women Act Reauthorization Act of 2022’.”
+Pub. L. 117–103, div. W, § 1, Mar. 15, 2022, 136 Stat. 840, provided that: “This Act [div. W of Pub. L. 117–103, see Tables for classification] may be cited as the ‘Violence Against Women Act Reauthorization Act of 2022’.”
 
-Pub. L. 117–103, div. W, title II, § 205(a), Mar. 15, 2022, 136 Stat. 858, provided that: “This section [enacting part O (§ 12513) of subchapter III of chapter 121 of this title] may be cited as the ‘Abby Honold Act’.”
+Pub. L. 117–103, div. W, title II, § 205(a), Mar. 15, 2022, 136 Stat. 858, provided that: “This section [enacting part O (§ 12513) of subchapter III of chapter 121 of this title] may be cited as the ‘Abby Honold Act’.”
 
-Pub. L. 117–103, div. W, title XIII, § 1316(a), Mar. 15, 2022, 136 Stat. 939, provided that: “This section [amending section 20102 of this title] may be cited as the ‘Fairness for Rape Kit Backlog Survivors Act of 2022’.”
+Pub. L. 117–103, div. W, title XIII, § 1316(a), Mar. 15, 2022, 136 Stat. 939, provided that: “This section [amending section 20102 of this title] may be cited as the ‘Fairness for Rape Kit Backlog Survivors Act of 2022’.”
 
-Pub. L. 117–103, div. W, title XIII, § 1318(a), Mar. 15, 2022, 136 Stat. 940, provided that: “This section [amending section 40723 of this title] may be cited as the ‘Supporting Access to Nurse Exams Act’ or the ‘SANE Act’.”
+Pub. L. 117–103, div. W, title XIII, § 1318(a), Mar. 15, 2022, 136 Stat. 940, provided that: “This section [amending section 40723 of this title] may be cited as the ‘Supporting Access to Nurse Exams Act’ or the ‘SANE Act’.”
 
-Pub. L. 117–103, div. W, title XV, § 1501, Mar. 15, 2022, 136 Stat. 951, provided that: “This title [enacting section 10462a of this title and section 1161*l*–6 of Title 20, Education, amending sections 10446 and 10463 to 10465 of this title and section 3772 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 10446 of this title] may be cited as the ‘Keeping Children Safe From Family Violence Act’ or ‘Kayden’s Law’.”
+Pub. L. 117–103, div. W, title XV, § 1501, Mar. 15, 2022, 136 Stat. 951, provided that: “This title [enacting section 10462a of this title and section 1161*l*–6 of Title 20, Education, amending sections 10446 and 10463 to 10465 of this title and section 3772 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 10446 of this title] may be cited as the ‘Keeping Children Safe From Family Violence Act’ or ‘Kayden’s Law’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–61, § 1, Nov. 18, 2021, 135 Stat. 1474, provided that: “This Act [amending sections 10225, 10281, 10284, 10285, 10288, and 10306 of this title, and enacting and amending provisions set out as notes under section 10281 of this title] may be cited as the ‘Protecting America’s First Responders Act of 2021’.”
+Pub. L. 117–61, § 1, Nov. 18, 2021, 135 Stat. 1474, provided that: “This Act [amending sections 10225, 10281, 10284, 10285, 10288, and 10306 of this title, and enacting and amending provisions set out as notes under section 10281 of this title] may be cited as the ‘Protecting America’s First Responders Act of 2021’.”
 
-Pub. L. 117–60, § 1, Nov. 18, 2021, 135 Stat. 1470, provided that: “This Act [enacting chapter 509 of this title] may be cited as the ‘Confidentiality Opportunities for Peer Support Counseling Act’ or the ‘COPS Counseling Act’.”
+Pub. L. 117–60, § 1, Nov. 18, 2021, 135 Stat. 1470, provided that: “This Act [enacting chapter 509 of this title] may be cited as the ‘Confidentiality Opportunities for Peer Support Counseling Act’ or the ‘COPS Counseling Act’.”
 
-Pub. L. 117–27, § 1, July 22, 2021, 135 Stat. 301, provided that: “This Act [amending sections 20101 to 20103 of this title] may be cited as the ‘VOCA Fix to Sustain the Crime Victims Fund Act of 2021’.”
+Pub. L. 117–27, § 1, July 22, 2021, 135 Stat. 301, provided that: “This Act [amending sections 20101 to 20103 of this title] may be cited as the ‘VOCA Fix to Sustain the Crime Victims Fund Act of 2021’.”
 
-Pub. L. 117–13, § 1, May 20, 2021, 135 Stat. 265, provided that: “This Act [enacting section 30507 of this title, amending section 249 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 30501 of this title] may be cited as the ‘COVID–19 Hate Crimes Act’.”
+Pub. L. 117–13, § 1, May 20, 2021, 135 Stat. 265, provided that: “This Act [enacting section 30507 of this title, amending section 249 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 30501 of this title] may be cited as the ‘COVID–19 Hate Crimes Act’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–281, § 1, Dec. 31, 2020, 134 Stat. 3381, provided that: “This Act [enacting subchapter XLI of this chapter] may be cited as the ‘Crisis Stabilization and Community Reentry Act of 2020’.”
+Pub. L. 116–281, § 1, Dec. 31, 2020, 134 Stat. 3381, provided that: “This Act [enacting subchapter XLI of this chapter] may be cited as the ‘Crisis Stabilization and Community Reentry Act of 2020’.”
 
-Pub. L. 116–277, § 1, Dec. 31, 2020, 134 Stat. 3368, provided that: “This Act [enacting sections 40501, 40503, and 40505 of this title and section 224 of Title 6, Domestic Security, amending section 40502 of this title and section 211 of Title 6, repealing sections 40501 and 40503 of this title, and amending provisions set out as a note under section 40504 of this title] may be cited as the ‘Missing Persons and Unidentified Remains Act of 2019’.”
+Pub. L. 116–277, § 1, Dec. 31, 2020, 134 Stat. 3368, provided that: “This Act [enacting sections 40501, 40503, and 40505 of this title and section 224 of Title 6, Domestic Security, amending section 40502 of this title and section 211 of Title 6, repealing sections 40501 and 40503 of this title, and amending provisions set out as a note under section 40504 of this title] may be cited as the ‘Missing Persons and Unidentified Remains Act of 2019’.”
 
-Pub. L. 116–252, § 1, Dec. 22, 2020, 134 Stat. 1133, provided that: “This Act [amending section 21711 of this title and enacting provisions set out as notes under section 21711 of this title] may be cited as the ‘Promoting Alzheimer’s Awareness to Prevent Elder Abuse Act’.”
+Pub. L. 116–252, § 1, Dec. 22, 2020, 134 Stat. 1133, provided that: “This Act [amending section 21711 of this title and enacting provisions set out as notes under section 21711 of this title] may be cited as the ‘Promoting Alzheimer’s Awareness to Prevent Elder Abuse Act’.”
 
-Pub. L. 116–153, § 1, Aug. 8, 2020, 134 Stat. 688, provided that: “This Act [enacting section 10651a of this title] may be cited as the ‘Veteran Treatment Court Coordination Act of 2019’.”
+Pub. L. 116–153, § 1, Aug. 8, 2020, 134 Stat. 688, provided that: “This Act [enacting section 10651a of this title] may be cited as the ‘Veteran Treatment Court Coordination Act of 2019’.”
 
-Pub. L. 116–143, § 1, June 16, 2020, 134 Stat. 644, provided that: “This Act [enacting chapter 507 of this title] may be cited as the ‘Law Enforcement Suicide Data Collection Act’.”
+Pub. L. 116–143, § 1, June 16, 2020, 134 Stat. 644, provided that: “This Act [enacting chapter 507 of this title] may be cited as the ‘Law Enforcement Suicide Data Collection Act’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–104, § 1, Dec. 30, 2019, 133 Stat. 3272, provided that: “This Act [amending sections 40701, 40722, and 40723 of this title] may be cited as the ‘Debbie Smith Reauthorization Act of 2019’.”
+Pub. L. 116–104, § 1, Dec. 30, 2019, 133 Stat. 3272, provided that: “This Act [amending sections 40701, 40722, and 40723 of this title] may be cited as the ‘Debbie Smith Reauthorization Act of 2019’.”
 
-Pub. L. 116–69, div. B, title VII, § 1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: “This section [amending section 20144 of this title and enacting provisions set out as notes under section 20144 of this title] may be cited as the ‘United States Victims of State Sponsored Terrorism Fund Clarification Act’.”
+Pub. L. 116–69, div. B, title VII, § 1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: “This section [amending section 20144 of this title and enacting provisions set out as notes under section 20144 of this title] may be cited as the ‘United States Victims of State Sponsored Terrorism Fund Clarification Act’.”
 
-Pub. L. 116–32, § 1, July 25, 2019, 133 Stat. 1036, provided that: “This Act [amending sections 10261 and 10491 to 10493 of this title] may be cited as the ‘Supporting and Treating Officers In Crisis Act of 2019’.”
+Pub. L. 116–32, § 1, July 25, 2019, 133 Stat. 1036, provided that: “This Act [amending sections 10261 and 10491 to 10493 of this title] may be cited as the ‘Supporting and Treating Officers In Crisis Act of 2019’.”
 
-Pub. L. 115–424, § 1, Jan. 7, 2019, 132 Stat. 5465, provided that: “This Act [enacting section 20342 of this title and amending sections 20301 to 20307, 20323, and 20333 of this title and section 5106a of Title 42, The Public Health and Welfare] may be cited as the ‘Victims of Child Abuse Act Reauthorization Act of 2018’.”
+Pub. L. 115–424, § 1, Jan. 7, 2019, 132 Stat. 5465, provided that: “This Act [enacting section 20342 of this title and amending sections 20301 to 20307, 20323, and 20333 of this title and section 5106a of Title 42, The Public Health and Welfare] may be cited as the ‘Victims of Child Abuse Act Reauthorization Act of 2018’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–401, § 1, Dec. 31, 2018, 132 Stat. 5336, provided that: “This Act [enacting chapter 219 of this title, amending sections 40504 and 50112 of this title, and amending provisions set out as a note under section 40504 of this title] may be cited as the ‘Ashanti Alert Act of 2018’.”
+Pub. L. 115–401, § 1, Dec. 31, 2018, 132 Stat. 5336, provided that: “This Act [enacting chapter 219 of this title, amending sections 40504 and 50112 of this title, and amending provisions set out as a note under section 40504 of this title] may be cited as the ‘Ashanti Alert Act of 2018’.”
 
-Pub. L. 115–393, § 1(a), Dec. 21, 2018, 132 Stat. 5265, provided that: “This Act [enacting sections 11295a, 20709b, and 20709c of this title, section 645a of Title 6, Domestic Security, section 1595A of Title 18, Crimes and Criminal Procedure, and section 7105b of Title 22, Foreign Relations and Intercourse, amending sections 10381, 11291 to 11294, 11296, 11297, 12451, 20333, 20701, 20702, 20705, 20709, and 41303 of this title, section 1232 of Title 8, Aliens and Nationality, sections 1593A and 3056 of Title 18, and sections 7105, 7109a, 7110, and 7113 of Title 22, enacting provisions set out as a note under section 20702 of this title, and repealing provisions set out as a note under section 20702 of this title] may be cited as the ‘Trafficking Victims Protection Act of 2017’.”
+Pub. L. 115–393, § 1(a), Dec. 21, 2018, 132 Stat. 5265, provided that: “This Act [enacting sections 11295a, 20709b, and 20709c of this title, section 645a of Title 6, Domestic Security, section 1595A of Title 18, Crimes and Criminal Procedure, and section 7105b of Title 22, Foreign Relations and Intercourse, amending sections 10381, 11291 to 11294, 11296, 11297, 12451, 20333, 20701, 20702, 20705, 20709, and 41303 of this title, section 1232 of Title 8, Aliens and Nationality, sections 1593A and 3056 of Title 18, and sections 7105, 7109a, 7110, and 7113 of Title 22, enacting provisions set out as a note under section 20702 of this title, and repealing provisions set out as a note under section 20702 of this title] may be cited as the ‘Trafficking Victims Protection Act of 2017’.”
 
-Pub. L. 115–391, title V, § 501, Dec. 21, 2018, 132 Stat. 5222, provided that: “This title [enacting sections 10741, 60505, and 60506 of this title, amending sections 10261, 10591, 10593, 10631, 60502, 60504, 60511, 60521, 60531, and 60541 of this title, section 3624 of Title 18, Crimes and Criminal Procedure, and sections 3797s—5 and 17555 of Title 42, The Public Health and Welfare, repealing sections 10581, 10633, 10681, 60532, and 60544 of this title, and enacting provisions set out as notes under section 60501 of this title and section 3621 of Title 18] may be cited as the ‘Second Chance Reauthorization Act of 2018’.”
+Pub. L. 115–391, title V, § 501, Dec. 21, 2018, 132 Stat. 5222, provided that: “This title [enacting sections 10741, 60505, and 60506 of this title, amending sections 10261, 10591, 10593, 10631, 60502, 60504, 60511, 60521, 60531, and 60541 of this title, section 3624 of Title 18, Crimes and Criminal Procedure, and sections 3797s—5 and 17555 of Title 42, The Public Health and Welfare, repealing sections 10581, 10633, 10681, 60532, and 60544 of this title, and enacting provisions set out as notes under section 60501 of this title and section 3621 of Title 18] may be cited as the ‘Second Chance Reauthorization Act of 2018’.”
 
-Pub. L. 115–385, § 1, Dec. 21, 2018, 132 Stat. 5123, provided that: “This Act [enacting sections 11314, 11321, and 11322 of this title, amending sections 11102, 11103, 11114, 11116, 11117, 11131 to 11133, 11161, 11162, 11182, 11280, and 11311 to 11313 of this title and section 5784 of Title 42, The Public Health and Welfare, repealing sections 11141 to 11146 and 11181 of this title and section 5784 of Title 42, enacting provisions set out as notes under this section and section 11102 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Juvenile Justice Reform Act of 2018’.”
+Pub. L. 115–385, § 1, Dec. 21, 2018, 132 Stat. 5123, provided that: “This Act [enacting sections 11314, 11321, and 11322 of this title, amending sections 11102, 11103, 11114, 11116, 11117, 11131 to 11133, 11161, 11162, 11182, 11280, and 11311 to 11313 of this title and section 5784 of Title 42, The Public Health and Welfare, repealing sections 11141 to 11146 and 11181 of this title and section 5784 of Title 42, enacting provisions set out as notes under this section and section 11102 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Juvenile Justice Reform Act of 2018’.”
 
-Pub. L. 115–274, § 1, Oct. 31, 2018, 132 Stat. 4160, provided that: “This Act [amending section 30307 of this title and enacting provisions set out as a note under section 3551 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘United States Parole Commission Extension Act of 2018’.”
+Pub. L. 115–274, § 1, Oct. 31, 2018, 132 Stat. 4160, provided that: “This Act [amending section 30307 of this title and enacting provisions set out as a note under section 3551 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘United States Parole Commission Extension Act of 2018’.”
 
-Pub. L. 115–271, title VIII, § 8091, Oct. 24, 2018, 132 Stat. 4103, provided that: “This subtitle [subtitle H (§§ 8091, 8092) of title VIII of Pub. L. 115–271, amending section 10261 of this title] may be cited as the ‘Reauthorizing and Extending Grants for Recovery from Opioid Use Programs Act of 2018’ or the ‘REGROUP Act of 2018’.”
+Pub. L. 115–271, title VIII, § 8091, Oct. 24, 2018, 132 Stat. 4103, provided that: “This subtitle [subtitle H (§§ 8091, 8092) of title VIII of Pub. L. 115–271, amending section 10261 of this title] may be cited as the ‘Reauthorizing and Extending Grants for Recovery from Opioid Use Programs Act of 2018’ or the ‘REGROUP Act of 2018’.”
 
-Pub. L. 115–267, § 1, Oct. 11, 2018, 132 Stat. 3756, provided that: “This Act [enacting section 11295a of this title, amending sections 11291 to 11294, 11296, and 11297 of this title, and enacting provisions set out as a note under section 11291 of this title] may be cited as the ‘Missing Children’s Assistance Act of 2018’.”
+Pub. L. 115–267, § 1, Oct. 11, 2018, 132 Stat. 3756, provided that: “This Act [enacting section 11295a of this title, amending sections 11291 to 11294, 11296, and 11297 of this title, and enacting provisions set out as a note under section 11291 of this title] may be cited as the ‘Missing Children’s Assistance Act of 2018’.”
 
-Pub. L. 115–257, § 1, Oct. 9, 2018, 132 Stat. 3660, provided that: “This Act [amending section 40701 of this title] may be cited as the ‘Justice Served Act of 2018’.”
+Pub. L. 115–257, § 1, Oct. 9, 2018, 132 Stat. 3660, provided that: “This Act [amending section 40701 of this title] may be cited as the ‘Justice Served Act of 2018’.”
 
-Pub. L. 115–185, § 1, June 18, 2018, 132 Stat. 1485, provided that: “This Act [enacting chapter 607 of this title] may be cited as the ‘Project Safe Neighborhoods Grant Program Authorization Act of 2018’.”
+Pub. L. 115–185, § 1, June 18, 2018, 132 Stat. 1485, provided that: “This Act [enacting chapter 607 of this title] may be cited as the ‘Project Safe Neighborhoods Grant Program Authorization Act of 2018’.”
 
-Pub. L. 115–166, § 1, Apr. 13, 2018, 132 Stat. 1274, provided that: “This Act [amending section 20504 of this title] may be cited as the ‘Ashlynne Mike AMBER Alert in Indian Country Act’.”
+Pub. L. 115–166, § 1, Apr. 13, 2018, 132 Stat. 1274, provided that: “This Act [amending section 20504 of this title] may be cited as the ‘Ashlynne Mike AMBER Alert in Indian Country Act’.”
 
-Pub. L. 115–141, div. Q, § 1, Mar. 23, 2018, 132 Stat. 1115, provided that: “This division [enacting sections 12622 and 12623 of this title, amending sections 11293 and 12621 of this title, and enacting provisions set out as notes under this section and section 12623 of this title] may be cited as the ‘Kevin and Avonte’s Law of 2018’.”
+Pub. L. 115–141, div. Q, § 1, Mar. 23, 2018, 132 Stat. 1115, provided that: “This division [enacting sections 12622 and 12623 of this title, amending sections 11293 and 12621 of this title, and enacting provisions set out as notes under this section and section 12623 of this title] may be cited as the ‘Kevin and Avonte’s Law of 2018’.”
 
-Pub. L. 115–141, div. Q, title I, § 101, Mar. 23, 2018, 132 Stat. 1116, provided that: “This title [enacting section 12622 of this title and amending section 12621 of this title] may be cited as the ‘Missing Americans Alert Program Act of 2018’.”
+Pub. L. 115–141, div. Q, title I, § 101, Mar. 23, 2018, 132 Stat. 1116, provided that: “This title [enacting section 12622 of this title and amending section 12621 of this title] may be cited as the ‘Missing Americans Alert Program Act of 2018’.”
 
-Pub. L. 115–141, div. S, title V, § 501, Mar. 23, 2018, 132 Stat. 1128, provided that: “This title [enacting sections 10555 and 10556 of this title, amending sections 10551 to 10554 of this title, and repealing section 3797e of Title 42, The Public Health and Welfare] may be cited as the ‘Student, Teachers, and Officers Preventing School Violence Act of 2018’ or the ‘STOP School Violence Act of 2018’.”
+Pub. L. 115–141, div. S, title V, § 501, Mar. 23, 2018, 132 Stat. 1128, provided that: “This title [enacting sections 10555 and 10556 of this title, amending sections 10551 to 10554 of this title, and repealing section 3797e of Title 42, The Public Health and Welfare] may be cited as the ‘Student, Teachers, and Officers Preventing School Violence Act of 2018’ or the ‘STOP School Violence Act of 2018’.”
 
-Pub. L. 115–141, div. S, title VI, § 601, Mar. 23, 2018, 132 Stat. 1132, provided that: “This title [enacting section 40917 of this title and amending sections 40301, 40302, 40901, 40912, and 40913 of this title] may be cited as the ‘Fix NICS Act of 2018’.”
+Pub. L. 115–141, div. S, title VI, § 601, Mar. 23, 2018, 132 Stat. 1132, provided that: “This title [enacting section 40917 of this title and amending sections 40301, 40302, 40901, 40912, and 40913 of this title] may be cited as the ‘Fix NICS Act of 2018’.”
 
-Pub. L. 115–113, § 1, Jan. 10, 2018, 131 Stat. 2276, provided that: “This Act [amending section 10381 of this title and enacting provisions set out as notes preceding section 50101 of this title] may be cited as the ‘Law Enforcement Mental Health and Wellness Act of 2017’.”
+Pub. L. 115–113, § 1, Jan. 10, 2018, 131 Stat. 2276, provided that: “This Act [amending section 10381 of this title and enacting provisions set out as notes preceding section 50101 of this title] may be cited as the ‘Law Enforcement Mental Health and Wellness Act of 2017’.”
 
-Pub. L. 115–107, § 1, Jan. 8, 2018, 131 Stat. 2266, provided that: “This Act [amending sections 40701 and 40723 of this title and provisions set out as a note under section 40701 of this title] may be cited as the ‘Sexual Assault Forensic Evidence Reporting Act of 2017’ or the ‘SAFER Act of 2017’.”
+Pub. L. 115–107, § 1, Jan. 8, 2018, 131 Stat. 2266, provided that: “This Act [amending sections 40701 and 40723 of this title and provisions set out as a note under section 40701 of this title] may be cited as the ‘Sexual Assault Forensic Evidence Reporting Act of 2017’ or the ‘SAFER Act of 2017’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–82, § 1, Nov. 2, 2017, 131 Stat. 1266, provided that: “This Act [amending section 21117 of this title] may be cited as the ‘Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017’ or the ‘PROTECT Our Children Act of 2017’.”
+Pub. L. 115–82, § 1, Nov. 2, 2017, 131 Stat. 1266, provided that: “This Act [amending section 21117 of this title] may be cited as the ‘Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017’ or the ‘PROTECT Our Children Act of 2017’.”
 
-Pub. L. 115–76, § 1, Nov. 2, 2017, 131 Stat. 1246, provided that: “This Act [enacting subchapter XXXIX of chapter 101 of this title, section 383 of Title 6, Domestic Security, and provisions set out as a note under this section] may be cited as the ‘Strengthening State and Local Cyber Crime Fighting Act of 2017’.”
+Pub. L. 115–76, § 1, Nov. 2, 2017, 131 Stat. 1246, provided that: “This Act [enacting subchapter XXXIX of chapter 101 of this title, section 383 of Title 6, Domestic Security, and provisions set out as a note under this section] may be cited as the ‘Strengthening State and Local Cyber Crime Fighting Act of 2017’.”
 
-Pub. L. 115–70, § 1(a), Oct. 18, 2017, 131 Stat. 1208, provided that: “This Act [enacting chapter 217 of this title and sections 2325 and 2328 of Title 18, Crimes and Criminal Procedure, amending section 2326 of Title 18 and section 1397m–1 of Title 42, The Public Health and Welfare, repealing section 2325 of Title 18, and enacting provisions set out as a note under this section] may be cited as the ‘Elder Abuse Prevention and Prosecution Act’.”
+Pub. L. 115–70, § 1(a), Oct. 18, 2017, 131 Stat. 1208, provided that: “This Act [enacting chapter 217 of this title and sections 2325 and 2328 of Title 18, Crimes and Criminal Procedure, amending section 2326 of Title 18 and section 1397m–1 of Title 42, The Public Health and Welfare, repealing section 2325 of Title 18, and enacting provisions set out as a note under this section] may be cited as the ‘Elder Abuse Prevention and Prosecution Act’.”
 
-Pub. L. 115–70, title IV, § 401, Oct. 18, 2017, 131 Stat. 1213, provided that: “This title [enacting sections 2325 and 2328 of Title 18, Crimes and Criminal Procedure, amending section 2326 of Title 18, and repealing section 2325 of Title 18] may be cited as the ‘Robert Matava Elder Abuse Prosecution Act of 2017’.”
+Pub. L. 115–70, title IV, § 401, Oct. 18, 2017, 131 Stat. 1213, provided that: “This title [enacting sections 2325 and 2328 of Title 18, Crimes and Criminal Procedure, amending section 2326 of Title 18, and repealing section 2325 of Title 18] may be cited as the ‘Robert Matava Elder Abuse Prosecution Act of 2017’.”
 
-Pub. L. 115–50, § 1, Aug. 18, 2017, 131 Stat. 1001, provided that: “This Act [amending sections 12591, 12592, 40702, and 40703 of this title] may be cited as the ‘Rapid DNA Act of 2017’.”
+Pub. L. 115–50, § 1, Aug. 18, 2017, 131 Stat. 1001, provided that: “This Act [amending sections 12591, 12592, 40702, and 40703 of this title] may be cited as the ‘Rapid DNA Act of 2017’.”
 
-Pub. L. 115–37, § 1, June 2, 2017, 131 Stat. 854, provided that: “This Act [amending section 10381 of this title] may be cited as the ‘American Law Enforcement Heroes Act of 2017’.”
+Pub. L. 115–37, § 1, June 2, 2017, 131 Stat. 854, provided that: “This Act [amending section 10381 of this title] may be cited as the ‘American Law Enforcement Heroes Act of 2017’.”
 
-Pub. L. 115–36, § 1, June 2, 2017, 131 Stat. 849, provided that: “This Act [enacting section 10288 of this title, amending sections 10282, 10285, and 10302 of this title, and enacting provisions set out as a note under section 10282 of this title] may be cited as the ‘Public Safety Officers’ Benefits Improvement Act of 2017’.”
+Pub. L. 115–36, § 1, June 2, 2017, 131 Stat. 849, provided that: “This Act [enacting section 10288 of this title, amending sections 10282, 10285, and 10302 of this title, and enacting provisions set out as a note under section 10282 of this title] may be cited as the ‘Public Safety Officers’ Benefits Improvement Act of 2017’.”
 
 **Short Title of 2016 Act**
 
-Pub. L. 114–324, § 1, Dec. 16, 2016, 130 Stat. 1948, provided that: “This Act [see Tables for classification] may be cited as the ‘Justice for All Reauthorization Act of 2016’.”
+Pub. L. 114–324, § 1, Dec. 16, 2016, 130 Stat. 1948, provided that: “This Act [see Tables for classification] may be cited as the ‘Justice for All Reauthorization Act of 2016’.”
 
-Pub. L. 114–324, § 14(a), Dec. 16, 2016, 130 Stat. 1958, provided that: “This section [amending section 10153 of this title and enacting provisions set out as a note under section 10153 of this title] may be cited as the ‘Effective Administration of Criminal Justice Act of 2016’.”
+Pub. L. 114–324, § 14(a), Dec. 16, 2016, 130 Stat. 1958, provided that: “This section [amending section 10153 of this title and enacting provisions set out as a note under section 10153 of this title] may be cited as the ‘Effective Administration of Criminal Justice Act of 2016’.”
 
-Pub. L. 114–199, § 1, July 22, 2016, 130 Stat. 780, provided that: “This Act [amending section 10381 of this title] may be cited as the ‘Protecting Our Lives by Initiating COPS Expansion Act of 2016’ or the ‘POLICE Act of 2016’.”
+Pub. L. 114–199, § 1, July 22, 2016, 130 Stat. 780, provided that: “This Act [amending section 10381 of this title] may be cited as the ‘Protecting Our Lives by Initiating COPS Expansion Act of 2016’ or the ‘POLICE Act of 2016’.”
 
-Pub. L. 114–155, § 1, May 16, 2016, 130 Stat. 389, provided that: “This Act [amending sections 10202, 10261, and 10531 of this title] may be cited as the ‘Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015’.”
+Pub. L. 114–155, § 1, May 16, 2016, 130 Stat. 389, provided that: “This Act [amending sections 10202, 10261, and 10531 of this title] may be cited as the ‘Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015’.”
 
-Pub. L. 114–119, § 1(a), Feb. 8, 2016, 130 Stat. 15, provided that: “This Act [enacting chapter 215 of this title and section 212b of Title 22, Foreign Relations and Intercourse, and amending section 20914 of this title and section 2250 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders’.”
+Pub. L. 114–119, § 1(a), Feb. 8, 2016, 130 Stat. 15, provided that: “This Act [enacting chapter 215 of this title and section 212b of Title 22, Foreign Relations and Intercourse, and amending section 20914 of this title and section 2250 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders’.”
 
 **Short Title of 2015 Act**
 
-Pub. L. 114–22, title I, § 116(a), May 29, 2015, 129 Stat. 244, provided that: “This section [amending section 41308 of this title] may be cited as the ‘Bringing Missing Children Home Act’.”
+Pub. L. 114–22, title I, § 116(a), May 29, 2015, 129 Stat. 244, provided that: “This section [amending section 41308 of this title] may be cited as the ‘Bringing Missing Children Home Act’.”
 
-Pub. L. 114–22, title IV, § 401, May 29, 2015, 129 Stat. 256, provided that: “This title [enacting chapter 213 of this title] may be cited as the ‘Rape Survivor Child Custody Act’.”
+Pub. L. 114–22, title IV, § 401, May 29, 2015, 129 Stat. 256, provided that: “This title [enacting chapter 213 of this title] may be cited as the ‘Rape Survivor Child Custody Act’.”
 
-Pub. L. 114–22, title V, § 501, May 29, 2015, 129 Stat. 258, provided that: “This title [enacting section 20931 of this title] may be cited as the ‘Military Sex Offender Reporting Act of 2015’.”
+Pub. L. 114–22, title V, § 501, May 29, 2015, 129 Stat. 258, provided that: “This title [enacting section 20931 of this title] may be cited as the ‘Military Sex Offender Reporting Act of 2015’.”
 
-Pub. L. 114–22, title X, § 1001, May 29, 2015, 129 Stat. 266, provided that: “This title [amending section 10381 of this title] may be cited as the ‘Human Trafficking Survivors Relief and Empowerment Act of 2015’.”
+Pub. L. 114–22, title X, § 1001, May 29, 2015, 129 Stat. 266, provided that: “This title [amending section 10381 of this title] may be cited as the ‘Human Trafficking Survivors Relief and Empowerment Act of 2015’.”
 
-Pub. L. 114–12, § 1, May 19, 2015, 129 Stat. 192, provided that: “This Act [enacting chapter 505 of this title] may be cited as the ‘Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015’.”
+Pub. L. 114–12, § 1, May 19, 2015, 129 Stat. 192, provided that: “This Act [enacting chapter 505 of this title] may be cited as the ‘Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015’.”
 
 **Short Title of 2014 Act**
 
-Pub. L. 113–242, § 1, Dec. 18, 2014, 128 Stat. 2860, provided that: “This Act [enacting section 60105 of this title and provisions set out as a note under section 4001 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Death in Custody Reporting Act of 2013’.”
+Pub. L. 113–242, § 1, Dec. 18, 2014, 128 Stat. 2860, provided that: “This Act [enacting section 60105 of this title and provisions set out as a note under section 4001 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Death in Custody Reporting Act of 2013’.”
 
-Pub. L. 113–182, § 1, Sept. 29, 2014, 128 Stat. 1918, provided that: “This Act [amending sections 40701, 40722, and 40723 of this title] may be cited as the ‘Debbie Smith Reauthorization Act of 2014’.”
+Pub. L. 113–182, § 1, Sept. 29, 2014, 128 Stat. 1918, provided that: “This Act [amending sections 40701, 40722, and 40723 of this title] may be cited as the ‘Debbie Smith Reauthorization Act of 2014’.”
 
-Pub. L. 113–163, § 1, Aug. 8, 2014, 128 Stat. 1864, provided that: “This Act [enacting section 20307 of this title and amending sections 20101 and 20306 of this title] may be cited as the ‘Victims of Child Abuse Act Reauthorization Act of 2013’.”
+Pub. L. 113–163, § 1, Aug. 8, 2014, 128 Stat. 1864, provided that: “This Act [enacting section 20307 of this title and amending sections 20101 and 20306 of this title] may be cited as the ‘Victims of Child Abuse Act Reauthorization Act of 2013’.”
 
 **Short Title of 2013 Act**
 
-Pub. L. 113–38, § 1, Sept. 30, 2013, 127 Stat. 527, provided that: “This Act [enacting section 11296 of this title and amending sections 11291, 11293, 11294, and 11297 of this title] may be cited as the ‘E. Clay Shaw, Jr. Missing Children’s Assistance Reauthorization Act of 2013’.”
+Pub. L. 113–38, § 1, Sept. 30, 2013, 127 Stat. 527, provided that: “This Act [enacting section 11296 of this title and amending sections 11291, 11293, 11294, and 11297 of this title] may be cited as the ‘E. Clay Shaw, Jr. Missing Children’s Assistance Reauthorization Act of 2013’.”
 
-Pub. L. 113–4, § 1, Mar. 7, 2013, 127 Stat. 54, provided that: “This Act [see Tables for classification] may be cited as the ‘Violence Against Women Reauthorization Act of 2013’.”
+Pub. L. 113–4, § 1, Mar. 7, 2013, 127 Stat. 54, provided that: “This Act [see Tables for classification] may be cited as the ‘Violence Against Women Reauthorization Act of 2013’.”
 
-Pub. L. 113–4, title X, § 1001, Mar. 7, 2013, 127 Stat. 127, provided that: “This title [amending section 40701 of this title and enacting provisions set out as notes under section 40701 of this title] may be cited as the ‘Sexual Assault Forensic Evidence Reporting Act of 2013’ or the ‘SAFER Act of 2013’.”
+Pub. L. 113–4, title X, § 1001, Mar. 7, 2013, 127 Stat. 127, provided that: “This title [amending section 40701 of this title and enacting provisions set out as notes under section 40701 of this title] may be cited as the ‘Sexual Assault Forensic Evidence Reporting Act of 2013’ or the ‘SAFER Act of 2013’.”
 
-Pub. L. 112–253, § 1, Jan. 10, 2013, 126 Stat. 2407, provided that: “This Act [enacting sections 40741 to 40744 of this title and amending section 40701 of this title] may be cited as the ‘Katie Sepich Enhanced DNA Collection Act of 2012’.”
+Pub. L. 112–253, § 1, Jan. 10, 2013, 126 Stat. 2407, provided that: “This Act [enacting sections 40741 to 40744 of this title and amending section 40701 of this title] may be cited as the ‘Katie Sepich Enhanced DNA Collection Act of 2012’.”
 
-Pub. L. 112–239, div. A, title X, § 1086(a), Jan. 2, 2013, 126 Stat. 1964, provided that: “This section [see Tables for classification] may be cited as the ‘Dale Long Public Safety Officers’ Benefits Improvements Act of 2012’.”
+Pub. L. 112–239, div. A, title X, § 1086(a), Jan. 2, 2013, 126 Stat. 1964, provided that: “This section [see Tables for classification] may be cited as the ‘Dale Long Public Safety Officers’ Benefits Improvements Act of 2012’.”
 
 **Short Title of 2012 Act**
 
-Pub. L. 112–189, § 1, Oct. 5, 2012, 126 Stat. 1435, provided that: “This Act [amending section 10516 of this title and repealing section 14102 of Title 42, The Public Health and Welfare] may be cited as the ‘Reporting Efficiency Improvement Act’.”
+Pub. L. 112–189, § 1, Oct. 5, 2012, 126 Stat. 1435, provided that: “This Act [amending section 10516 of this title and repealing section 14102 of Title 42, The Public Health and Welfare] may be cited as the ‘Reporting Efficiency Improvement Act’.”
 
 **Short Title of 2010 Act**
 
-Pub. L. 111–341, § 1, Dec. 22, 2010, 124 Stat. 3606, provided that: “This Act [amending provisions set out as a note under section 40102 of this title] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2010’.”
+Pub. L. 111–341, § 1, Dec. 22, 2010, 124 Stat. 3606, provided that: “This Act [amending provisions set out as a note under section 40102 of this title] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2010’.”
 
-Pub. L. 111–143, § 1, Mar. 1, 2010, 124 Stat. 41, provided that: “This Act [amending provisions set out as a note under section 40102 of this title] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2009’.”
+Pub. L. 111–143, § 1, Mar. 1, 2010, 124 Stat. 41, provided that: “This Act [amending provisions set out as a note under section 40102 of this title] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2009’.”
 
 **Short Title of 2009 Act**
 
-Pub. L. 111–84, div. E, § 4701, Oct. 28, 2009, 123 Stat. 2835, provided that: “This division [see Tables for classification] may be cited as the ‘Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act’.”
+Pub. L. 111–84, div. E, § 4701, Oct. 28, 2009, 123 Stat. 2835, provided that: “This division [see Tables for classification] may be cited as the ‘Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act’.”
 
 **Short Title of 2008 Act**
 
-Pub. L. 110–421, § 1, Oct. 15, 2008, 122 Stat. 4778, provided that: “This Act [amending section 10261 of this title] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2008’.”
+Pub. L. 110–421, § 1, Oct. 15, 2008, 122 Stat. 4778, provided that: “This Act [amending section 10261 of this title] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2008’.”
 
-Pub. L. 110–416, § 1(a), Oct. 14, 2008, 122 Stat. 4352, provided that: “This Act [amending section 10651 of this title and enacting provisions set out as a note under section 10651 of this title] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008’.”
+Pub. L. 110–416, § 1(a), Oct. 14, 2008, 122 Stat. 4352, provided that: “This Act [amending section 10651 of this title and enacting provisions set out as a note under section 10651 of this title] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008’.”
 
-Pub. L. 110–401, § 1(a), Oct. 13, 2008, 122 Stat. 4229, provided that: “This Act [enacting chapter 211 of this title and sections 2258A to 2258E of Title 18, Crimes and Criminal Procedure, amending sections 2251, 2252A, 2256, 2260, and 2702 of Title 18, repealing section 13032 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 2251 of Title 18] may be cited as the ‘Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2008’ or the ‘PROTECT Our Children Act of 2008’.”
+Pub. L. 110–401, § 1(a), Oct. 13, 2008, 122 Stat. 4229, provided that: “This Act [enacting chapter 211 of this title and sections 2258A to 2258E of Title 18, Crimes and Criminal Procedure, amending sections 2251, 2252A, 2256, 2260, and 2702 of Title 18, repealing section 13032 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 2251 of Title 18] may be cited as the ‘Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2008’ or the ‘PROTECT Our Children Act of 2008’.”
 
-Pub. L. 110–400, § 1, Oct. 13, 2008, 122 Stat. 4224, provided that: “This Act [enacting sections 20916 and 20917 of this title, amending section 20981 of this title, and enacting provisions set out as a note under section 20981 of this title] may be cited as the ‘Keeping the Internet Devoid of Sexual Predators Act of 2008’ or the ‘KIDS Act of 2008’.”
+Pub. L. 110–400, § 1, Oct. 13, 2008, 122 Stat. 4224, provided that: “This Act [enacting sections 20916 and 20917 of this title, amending section 20981 of this title, and enacting provisions set out as a note under section 20981 of this title] may be cited as the ‘Keeping the Internet Devoid of Sexual Predators Act of 2008’ or the ‘KIDS Act of 2008’.”
 
-Pub. L. 110–378, § 1, Oct. 8, 2008, 122 Stat. 4068, provided that: “This Act [enacting sections 11245 and 11278 of this title and amending sections 11201, 11211, 11212, 11222, 11243, 11261, 11279, and 11280 of this title] may be cited as the ‘Reconnecting Homeless Youth Act of 2008’.”
+Pub. L. 110–378, § 1, Oct. 8, 2008, 122 Stat. 4068, provided that: “This Act [enacting sections 11245 and 11278 of this title and amending sections 11201, 11211, 11212, 11222, 11243, 11261, 11279, and 11280 of this title] may be cited as the ‘Reconnecting Homeless Youth Act of 2008’.”
 
-Pub. L. 110–360, § 1, Oct. 8, 2008, 122 Stat. 4008, provided that: “This Act [amending sections 40701, 40722, and 40723 of this title] may be cited as the ‘Debbie Smith Reauthorization Act of 2008’.”
+Pub. L. 110–360, § 1, Oct. 8, 2008, 122 Stat. 4008, provided that: “This Act [amending sections 40701, 40722, and 40723 of this title] may be cited as the ‘Debbie Smith Reauthorization Act of 2008’.”
 
-Pub. L. 110–345, § 1, Oct. 7, 2008, 122 Stat. 3938, provided that: “This Act [amending section 10663 of this title] may be cited as the ‘Drug Endangered Children Act of 2007’.”
+Pub. L. 110–345, § 1, Oct. 7, 2008, 122 Stat. 3938, provided that: “This Act [amending section 10663 of this title] may be cited as the ‘Drug Endangered Children Act of 2007’.”
 
-Pub. L. 110–315, title IX, § 951, Aug. 14, 2008, 122 Stat. 3470, provided that: “This part [part E (§§ 951, 952) of title IX of Pub. L. 110–315, enacting subchapter XXXV of this chapter] may be cited as the ‘John R. Justice Prosecutors and Defenders Incentive Act of 2008’.”
+Pub. L. 110–315, title IX, § 951, Aug. 14, 2008, 122 Stat. 3470, provided that: “This part [part E (§§ 951, 952) of title IX of Pub. L. 110–315, enacting subchapter XXXV of this chapter] may be cited as the ‘John R. Justice Prosecutors and Defenders Incentive Act of 2008’.”
 
-Pub. L. 110–298, § 1, July 31, 2008, 122 Stat. 2985, provided that: “This Act [enacting chapter 503 of this title] may be cited as the ‘Law Enforcement Congressional Badge of Bravery Act of 2008’.”
+Pub. L. 110–298, § 1, July 31, 2008, 122 Stat. 2985, provided that: “This Act [enacting chapter 503 of this title] may be cited as the ‘Law Enforcement Congressional Badge of Bravery Act of 2008’.”
 
-Pub. L. 110–296, § 1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, § 1, Oct. 13, 2008, 122 Stat. 4301, provided that: “This Act [amending provisions set out as a note under section 40102 of this title] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2008’.”
+Pub. L. 110–296, § 1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, § 1, Oct. 13, 2008, 122 Stat. 4301, provided that: “This Act [amending provisions set out as a note under section 40102 of this title] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2008’.”
 
-Pub. L. 110–240, § 1, June 3, 2008, 122 Stat. 1560, provided that: “This Act [amending sections 11291, 11293, and 11297 of this title and repealing section 5776a of Title 42, The Public Health and Welfare] may be cited as the ‘Protecting Our Children Comes First Act of 2007’.”
+Pub. L. 110–240, § 1, June 3, 2008, 122 Stat. 1560, provided that: “This Act [amending sections 11291, 11293, and 11297 of this title and repealing section 5776a of Title 42, The Public Health and Welfare] may be cited as the ‘Protecting Our Children Comes First Act of 2007’.”
 
-Pub. L. 110–199, § 1, Apr. 9, 2008, 122 Stat. 657, provided that: “This Act [see Tables for classification] may be cited as the ‘Second Chance Act of 2007: Community Safety Through Recidivism Prevention’ or the ‘Second Chance Act of 2007’.”
+Pub. L. 110–199, § 1, Apr. 9, 2008, 122 Stat. 657, provided that: “This Act [see Tables for classification] may be cited as the ‘Second Chance Act of 2007: Community Safety Through Recidivism Prevention’ or the ‘Second Chance Act of 2007’.”
 
-Pub. L. 110–180, § 1(a), Jan. 8, 2008, 121 Stat. 2559, provided that: “This Act [enacting chapter 409 of this title] may be cited as the ‘NICS Improvement Amendments Act of 2007’.”
+Pub. L. 110–180, § 1(a), Jan. 8, 2008, 121 Stat. 2559, provided that: “This Act [enacting chapter 409 of this title] may be cited as the ‘NICS Improvement Amendments Act of 2007’.”
 
 **Short Title of 2006 Act**
 
-Pub. L. 109–248, § 1(a), July 27, 2006, 120 Stat. 587, provided that: “This Act [see Tables for classification] may be cited as the ‘Adam Walsh Child Protection and Safety Act of 2006’.”
+Pub. L. 109–248, § 1(a), July 27, 2006, 120 Stat. 587, provided that: “This Act [see Tables for classification] may be cited as the ‘Adam Walsh Child Protection and Safety Act of 2006’.”
 
-Pub. L. 109–248, title I, § 101, July 27, 2006, 120 Stat. 590, provided that: “This title [see Tables for classification] may be cited as the ‘Sex Offender Registration and Notification Act’.”
+Pub. L. 109–248, title I, § 101, July 27, 2006, 120 Stat. 590, provided that: “This title [see Tables for classification] may be cited as the ‘Sex Offender Registration and Notification Act’.”
 
-Pub. L. 109–248, title VI, § 611, July 27, 2006, 120 Stat. 632, provided that: “This subtitle [subtitle B (§§ 611–617) of title VI of Pub. L. 109–248, amending provisions set out as a note under section 11313 of this title] may be cited as the ‘National Police Athletic League Youth Enrichment Reauthorization Act of 2006’.”
+Pub. L. 109–248, title VI, § 611, July 27, 2006, 120 Stat. 632, provided that: “This subtitle [subtitle B (§§ 611–617) of title VI of Pub. L. 109–248, amending provisions set out as a note under section 11313 of this title] may be cited as the ‘National Police Athletic League Youth Enrichment Reauthorization Act of 2006’.”
 
-Pub. L. 109–162, § 1, Jan. 5, 2006, 119 Stat. 2960, as amended by Pub. L. 109–271, § 1(a), Aug. 12, 2006, 120 Stat. 750, provided that:
+Pub. L. 109–162, § 1, Jan. 5, 2006, 119 Stat. 2960, as amended by Pub. L. 109–271, § 1(a), Aug. 12, 2006, 120 Stat. 750, provided that:
 
 > **“(a) In General.—** This Act [see Tables for classification] may be cited as the ‘Violence Against Women and Department of Justice Reauthorization Act of 2005’.
 
 > **“(b) Separate Short Titles.—** Section 3 and titles I through IX of this Act [see Tables for classification] may be cited as the ‘Violence Against Women Reauthorization Act of 2005’. Title XI of this Act [see Tables for classification] may be cited as the ‘Department of Justice Appropriations Authorization Act of 2005’.”
 
-Pub. L. 109–162, title X, § 1001, Jan. 5, 2006, 119 Stat. 3084, provided that: “This title [amending sections 12592, 40701, and 40702 of this title and sections 3142 and 3297 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘DNA Fingerprint Act of 2005’.”
+Pub. L. 109–162, title X, § 1001, Jan. 5, 2006, 119 Stat. 3084, provided that: “This title [amending sections 12592, 40701, and 40702 of this title and sections 3142 and 3297 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘DNA Fingerprint Act of 2005’.”
 
 **Short Title of 2004 Act**
 
-Pub. L. 108–414, § 1, Oct. 30, 2004, 118 Stat. 2327, provided that: “This Act [enacting subchapter XXXIII of this chapter and provisions set out as notes under section 10651 of this title] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Act of 2004’.”
+Pub. L. 108–414, § 1, Oct. 30, 2004, 118 Stat. 2327, provided that: “This Act [enacting subchapter XXXIII of this chapter and provisions set out as notes under section 10651 of this title] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Act of 2004’.”
 
-Pub. L. 108–405, § 1(a), Oct. 30, 2004, 118 Stat. 2260, provided that: “This Act [see Tables for classification] may be cited as the ‘Justice for All Act of 2004’.”
+Pub. L. 108–405, § 1(a), Oct. 30, 2004, 118 Stat. 2260, provided that: “This Act [see Tables for classification] may be cited as the ‘Justice for All Act of 2004’.”
 
-Pub. L. 108–405, title II, § 201, Oct. 30, 2004, 118 Stat. 2266, provided that: “This title [see Tables for classification] may be cited as the ‘Debbie Smith Act of 2004’.”
+Pub. L. 108–405, title II, § 201, Oct. 30, 2004, 118 Stat. 2266, provided that: “This title [see Tables for classification] may be cited as the ‘Debbie Smith Act of 2004’.”
 
-Pub. L. 108–405, title III, § 301, Oct. 30, 2004, 118 Stat. 2272, provided that: “This title [enacting sections 40722 to 40726 of this title, amending sections 10261, 10441 to 10450, 10562, 10564, 12592, and 40706 of this title, and enacting provisions set out as a note under section 10446 of this title] may be cited as the ‘DNA Sexual Assault Justice Act of 2004’.”
+Pub. L. 108–405, title III, § 301, Oct. 30, 2004, 118 Stat. 2272, provided that: “This title [enacting sections 40722 to 40726 of this title, amending sections 10261, 10441 to 10450, 10562, 10564, 12592, and 40706 of this title, and enacting provisions set out as a note under section 10446 of this title] may be cited as the ‘DNA Sexual Assault Justice Act of 2004’.”
 
 **Short Title of 2003 Act**
 
-Pub. L. 108–182, § 1, Dec. 15, 2003, 117 Stat. 2649, provided that: “This Act [amending section 10281 of this title] may be cited as the ‘Hometown Heroes Survivors Benefits Act of 2003’.”
+Pub. L. 108–182, § 1, Dec. 15, 2003, 117 Stat. 2649, provided that: “This Act [amending section 10281 of this title] may be cited as the ‘Hometown Heroes Survivors Benefits Act of 2003’.”
 
-Pub. L. 108–96, § 1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act [enacting section 11281 of this title, amending sections 11201, 11211, 11212, 11222, 11241, 11243, 11244, 11279, 11280, 11291, 11293, and 11297 of this title, repealing section 5714–25 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 11201 of this title and provisions formerly set out as a note under section 5714–1 of Title 42] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
+Pub. L. 108–96, § 1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act [enacting section 11281 of this title, amending sections 11201, 11211, 11212, 11222, 11241, 11243, 11244, 11279, 11280, 11291, 11293, and 11297 of this title, repealing section 5714–25 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 11201 of this title and provisions formerly set out as a note under section 5714–1 of Title 42] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
 
-Pub. L. 108–79, § 1(a), Sept. 4, 2003, 117 Stat. 972, provided that: “This Act [enacting chapter 303 of this title] may be cited as the ‘Prison Rape Elimination Act of 2003’.”
+Pub. L. 108–79, § 1(a), Sept. 4, 2003, 117 Stat. 972, provided that: “This Act [enacting chapter 303 of this title] may be cited as the ‘Prison Rape Elimination Act of 2003’.”
 
 **Short Title of 2002 Act**
 
-Pub. L. 107–273, div. A, title IV, § 401, Nov. 2, 2002, 116 Stat. 1789, provided that: “This title [see Tables for classification] may be cited as the ‘Violence Against Women Office Act’.”
+Pub. L. 107–273, div. A, title IV, § 401, Nov. 2, 2002, 116 Stat. 1789, provided that: “This title [see Tables for classification] may be cited as the ‘Violence Against Women Office Act’.”
 
-Pub. L. 107–273, div. B, title II, § 2001, Nov. 2, 2002, 116 Stat. 1792, provided that: “This title [see Tables for classification] may be cited as the ‘Drug Abuse Education, Prevention, and Treatment Act of 2002’.”
+Pub. L. 107–273, div. B, title II, § 2001, Nov. 2, 2002, 116 Stat. 1792, provided that: “This title [see Tables for classification] may be cited as the ‘Drug Abuse Education, Prevention, and Treatment Act of 2002’.”
 
-Pub. L. 107–273, div. C, title I, § 11027(a), Nov. 2, 2002, 116 Stat. 1834, provided that: “This section [enacting subchapter XXXII of this chapter] may be cited as the ‘Crime-Free Rural States Act of 2002’.”
+Pub. L. 107–273, div. C, title I, § 11027(a), Nov. 2, 2002, 116 Stat. 1834, provided that: “This section [enacting subchapter XXXII of this chapter] may be cited as the ‘Crime-Free Rural States Act of 2002’.”
 
-Pub. L. 107–273, div. C, title II, § 12101, Nov. 2, 2002, 116 Stat. 1859, provided that: “This subtitle [subtitle A (§§ 12101, 12102) of title II of div. C of Pub. L. 107–273, enacting subchapter XVII of this chapter and provisions set out as a note under section 10401 of this title] may be cited as the ‘Consequences for Juvenile Offenders Act of 2002’.”
+Pub. L. 107–273, div. C, title II, § 12101, Nov. 2, 2002, 116 Stat. 1859, provided that: “This subtitle [subtitle A (§§ 12101, 12102) of title II of div. C of Pub. L. 107–273, enacting subchapter XVII of this chapter and provisions set out as a note under section 10401 of this title] may be cited as the ‘Consequences for Juvenile Offenders Act of 2002’.”
 
-Pub. L. 107–273, div. C, title II, § 12201, Nov. 2, 2002, 116 Stat. 1869, provided that: “This subtitle [see Tables for classification] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 2002’.”
+Pub. L. 107–273, div. C, title II, § 12201, Nov. 2, 2002, 116 Stat. 1869, provided that: “This subtitle [see Tables for classification] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 2002’.”
 
-Pub. L. 107–196, § 1, June 24, 2002, 116 Stat. 719, provided that: “This Act [amending sections 10281 and 10284 of this title and enacting provisions set out as a note under section 10281 of this title] may be cited as the ‘Mychal Judge Police and Fire Chaplains Public Safety Officers’ Benefit Act of 2002’.”
+Pub. L. 107–196, § 1, June 24, 2002, 116 Stat. 719, provided that: “This Act [amending sections 10281 and 10284 of this title and enacting provisions set out as a note under section 10281 of this title] may be cited as the ‘Mychal Judge Police and Fire Chaplains Public Safety Officers’ Benefit Act of 2002’.”
 
 **Short Title of 2000 Act**
 
-Pub. L. 106–572, § 1, Dec. 28, 2000, 114 Stat. 3058, provided that: “This Act [enacting section 30101 of this title] may be cited as the ‘Computer Crime Enforcement Act’.”
+Pub. L. 106–572, § 1, Dec. 28, 2000, 114 Stat. 3058, provided that: “This Act [enacting section 30101 of this title] may be cited as the ‘Computer Crime Enforcement Act’.”
 
-Pub. L. 106–561, § 1, Dec. 21, 2000, 114 Stat. 2787, provided that: “This Act [enacting subchapter XXVII of this chapter, amending sections 10152, 10154, 10261, and 40301 of this title and section 983 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 40701 of this title and section 983 of Title 18] may be cited as the ‘Paul Coverdell National Forensic Sciences Improvement Act of 2000’.”
+Pub. L. 106–561, § 1, Dec. 21, 2000, 114 Stat. 2787, provided that: “This Act [enacting subchapter XXVII of this chapter, amending sections 10152, 10154, 10261, and 40301 of this title and section 983 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 40701 of this title and section 983 of Title 18] may be cited as the ‘Paul Coverdell National Forensic Sciences Improvement Act of 2000’.”
 
-Pub. L. 106–560, § 1, Dec. 21, 2000, 114 Stat. 2784, provided that: “This Act [enacting sections 60101 to 60104 of this title] may be cited as the ‘Interstate Transportation of Dangerous Criminals Act of 2000’ or ‘Jeanna’s Act’.”
+Pub. L. 106–560, § 1, Dec. 21, 2000, 114 Stat. 2784, provided that: “This Act [enacting sections 60101 to 60104 of this title] may be cited as the ‘Interstate Transportation of Dangerous Criminals Act of 2000’ or ‘Jeanna’s Act’.”
 
-Pub. L. 106–546, § 1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act [see Tables for classification] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
+Pub. L. 106–546, § 1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act [see Tables for classification] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
 
-Pub. L. 106–517, § 1, Nov. 13, 2000, 114 Stat. 2407, provided that: “This Act [amending sections 10261 and 10531 to 10533 of this title and enacting provisions set out as notes under sections 10531 and 10533 of this title] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2000’.”
+Pub. L. 106–517, § 1, Nov. 13, 2000, 114 Stat. 2407, provided that: “This Act [amending sections 10261 and 10531 to 10533 of this title and enacting provisions set out as notes under sections 10531 and 10533 of this title] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2000’.”
 
-Pub. L. 106–515, § 1, Nov. 13, 2000, 114 Stat. 2399, provided that: “This Act [enacting subchapter XXI of this chapter, amending section 10261 of this title, and enacting provisions set out as a note under section 10471 of this title] may be cited as the ‘America’s Law Enforcement and Mental Health Project’.”
+Pub. L. 106–515, § 1, Nov. 13, 2000, 114 Stat. 2399, provided that: “This Act [enacting subchapter XXI of this chapter, amending section 10261 of this title, and enacting provisions set out as a note under section 10471 of this title] may be cited as the ‘America’s Law Enforcement and Mental Health Project’.”
 
-Pub. L. 106–468, § 1, Nov. 9, 2000, 114 Stat. 2027, provided that: “This Act [enacting section 40504 of this title and provisions set out as a note under section 40504 of this title] may be cited as ‘Kristen’s Act’.”
+Pub. L. 106–468, § 1, Nov. 9, 2000, 114 Stat. 2027, provided that: “This Act [enacting section 40504 of this title and provisions set out as a note under section 40504 of this title] may be cited as ‘Kristen’s Act’.”
 
-Pub. L. 106–386, div. B, § 1001, Oct. 28, 2000, 114 Stat. 1491, provided that: “This division [see Tables for classification] may be cited as the ‘Violence Against Women Act of 2000’.”
+Pub. L. 106–386, div. B, § 1001, Oct. 28, 2000, 114 Stat. 1491, provided that: “This division [see Tables for classification] may be cited as the ‘Violence Against Women Act of 2000’.”
 
-Pub. L. 106–297, § 1, Oct. 13, 2000, 114 Stat. 1045, provided that: “This Act [amending section 12104 of this title] may be cited as the ‘Death in Custody Reporting Act of 2000’.”
+Pub. L. 106–297, § 1, Oct. 13, 2000, 114 Stat. 1045, provided that: “This Act [amending section 12104 of this title] may be cited as the ‘Death in Custody Reporting Act of 2000’.”
 
-Pub. L. 106–177, title I, § 101, Mar. 10, 2000, 114 Stat. 35, provided that: “This title [amending sections 10152, 20101, and 40301 of this title and enacting provisions set out as a note under section 20101 of this title] may be cited as the ‘Child Abuse Prevention and Enforcement Act’.”
+Pub. L. 106–177, title I, § 101, Mar. 10, 2000, 114 Stat. 35, provided that: “This title [amending sections 10152, 20101, and 40301 of this title and enacting provisions set out as a note under section 20101 of this title] may be cited as the ‘Child Abuse Prevention and Enforcement Act’.”
 
-Pub. L. 106–177, title II, § 201, Mar. 10, 2000, 114 Stat. 36, provided that: “This title [enacting chapter 405 of this title] may be cited as ‘Jennifer’s Law’.”
+Pub. L. 106–177, title II, § 201, Mar. 10, 2000, 114 Stat. 36, provided that: “This title [enacting chapter 405 of this title] may be cited as ‘Jennifer’s Law’.”
 
 **Short Title of 1999 Act**
 
-Pub. L. 106–71, § 1, Oct. 12, 1999, 113 Stat. 1032, provided that: “This Act [enacting sections 11245, 11261, 11276, and 11279 of this title, amending sections 11201, 11211, 11212, 11213, 11221 to 11241, 11243, 11244, 11271 to 11275, 11277, 11280 to 11293, 11294, and 11297 of this title, and enacting provisions set out as a note under section 7101 of Title 20, Education] may be cited as the ‘Missing, Exploited, and Runaway Children Protection Act’.”
+Pub. L. 106–71, § 1, Oct. 12, 1999, 113 Stat. 1032, provided that: “This Act [enacting sections 11245, 11261, 11276, and 11279 of this title, amending sections 11201, 11211, 11212, 11213, 11221 to 11241, 11243, 11244, 11271 to 11275, 11277, 11280 to 11293, 11294, and 11297 of this title, and enacting provisions set out as a note under section 7101 of Title 20, Education] may be cited as the ‘Missing, Exploited, and Runaway Children Protection Act’.”
 
 **Short Title of 1998 Act**
 
-Pub. L. 105–390, § 1, Nov. 13, 1998, 112 Stat. 3495, provided that: “This Act [amending sections 10301, 10302, 10304, 10306, and 10307 of this title] may be cited as the ‘Police, Fire, and Emergency Officers Educational Assistance Act of 1998’.”
+Pub. L. 105–390, § 1, Nov. 13, 1998, 112 Stat. 3495, provided that: “This Act [amending sections 10301, 10302, 10304, 10306, and 10307 of this title] may be cited as the ‘Police, Fire, and Emergency Officers Educational Assistance Act of 1998’.”
 
-Pub. L. 105–251, title I, § 101, Oct. 9, 1998, 112 Stat. 1871, provided that: “This title [enacting subchapter I of chapter 403 of this title] may be cited as the ‘Crime Identification Technology Act of 1998’.”
+Pub. L. 105–251, title I, § 101, Oct. 9, 1998, 112 Stat. 1871, provided that: “This title [enacting subchapter I of chapter 403 of this title] may be cited as the ‘Crime Identification Technology Act of 1998’.”
 
-Pub. L. 105–251, title II, § 201, Oct. 9, 1998, 112 Stat. 1874, provided that: “This title [enacting subchapter II of chapter 403 of this title, amending sections 40102 and 40103 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘National Criminal History Access and Child Protection Act’.”
+Pub. L. 105–251, title II, § 201, Oct. 9, 1998, 112 Stat. 1874, provided that: “This title [enacting subchapter II of chapter 403 of this title, amending sections 40102 and 40103 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘National Criminal History Access and Child Protection Act’.”
 
-Pub. L. 105–251, title II, § 211, Oct. 9, 1998, 112 Stat. 1874, provided that: “This subtitle [subtitle A (§§ 211–217) of title II of Pub. L. 105–251, enacting subchapter II of chapter 403 of this title] may be cited as the ‘National Crime Prevention and Privacy Compact Act of 1998’.”
+Pub. L. 105–251, title II, § 211, Oct. 9, 1998, 112 Stat. 1874, provided that: “This subtitle [subtitle A (§§ 211–217) of title II of Pub. L. 105–251, enacting subchapter II of chapter 403 of this title] may be cited as the ‘National Crime Prevention and Privacy Compact Act of 1998’.”
 
-Pub. L. 105–251, title II, § 221, Oct. 9, 1998, 112 Stat. 1885, provided that: “This subtitle [subtitle B (§§ 221, 222) of title II of Pub. L. 105–251, amending sections 40102 and 40103 of this title] may be cited as the ‘Volunteers for Children Act’.”
+Pub. L. 105–251, title II, § 221, Oct. 9, 1998, 112 Stat. 1885, provided that: “This subtitle [subtitle B (§§ 221, 222) of title II of Pub. L. 105–251, amending sections 40102 and 40103 of this title] may be cited as the ‘Volunteers for Children Act’.”
 
-Pub. L. 105–181, § 1, June 16, 1998, 112 Stat. 512, provided that: “This Act [enacting subchapter XXIV of this chapter, amending sections 10261 and 10541 of this title, and enacting provisions set out as a note under section 10531 of this title] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 1998’.”
+Pub. L. 105–181, § 1, June 16, 1998, 112 Stat. 512, provided that: “This Act [enacting subchapter XXIV of this chapter, amending sections 10261 and 10541 of this title, and enacting provisions set out as a note under section 10531 of this title] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 1998’.”
 
-Pub. L. 105–180, § 1, June 16, 1998, 112 Stat. 511, provided that: “This Act [amending sections 10283 and 10285 of this title] may be cited as the ‘Care for Police Survivors Act of 1998’.”
+Pub. L. 105–180, § 1, June 16, 1998, 112 Stat. 511, provided that: “This Act [amending sections 10283 and 10285 of this title] may be cited as the ‘Care for Police Survivors Act of 1998’.”
 
 **Short Title of 1996 Act**
 
-Pub. L. 104–238, § 1, Oct. 3, 1996, 110 Stat. 3114, provided that: “This Act [enacting part B (§ 10301 et seq.) of subchapter XI of this chapter] may be cited as the ‘Federal Law Enforcement Dependents Assistance Act of 1996’.”
+Pub. L. 104–238, § 1, Oct. 3, 1996, 110 Stat. 3114, provided that: “This Act [enacting part B (§ 10301 et seq.) of subchapter XI of this chapter] may be cited as the ‘Federal Law Enforcement Dependents Assistance Act of 1996’.”
 
-Pub. L. 104–132, title II, § 231, Apr. 24, 1996, 110 Stat. 1243, provided that: “This subtitle [subtitle C (§§ 231–236) of title II of Pub. L. 104–132, enacting sections 20105 and 20142 of this title, amending this section and sections 20102 and 20103 of this title, and enacting provisions set out as notes under section 20102 of this title] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
+Pub. L. 104–132, title II, § 231, Apr. 24, 1996, 110 Stat. 1243, provided that: “This subtitle [subtitle C (§§ 231–236) of title II of Pub. L. 104–132, enacting sections 20105 and 20142 of this title, amending this section and sections 20102 and 20103 of this title, and enacting provisions set out as notes under section 20102 of this title] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
 
 **Short Title of 1994 Act**
 
-Pub. L. 103–322, § 1, Sept. 13, 1994, 108 Stat. 1796, provided that: “This Act [see Tables for classification] may be cited as the ‘Violent Crime Control and Law Enforcement Act of 1994’.”
+Pub. L. 103–322, § 1, Sept. 13, 1994, 108 Stat. 1796, provided that: “This Act [see Tables for classification] may be cited as the ‘Violent Crime Control and Law Enforcement Act of 1994’.”
 
-Pub. L. 103–322, title I, § 10001, Sept. 13, 1994, 108 Stat. 1807, provided that: “This title [enacting subchapter XVI of this chapter, amending sections 10261 and 10541 of this title, and enacting provisions set out as a note under section 10381 of this title] may be cited as the ‘Public Safety Partnership and Community Policing Act of 1994’.”
+Pub. L. 103–322, title I, § 10001, Sept. 13, 1994, 108 Stat. 1807, provided that: “This title [enacting subchapter XVI of this chapter, amending sections 10261 and 10541 of this title, and enacting provisions set out as a note under section 10381 of this title] may be cited as the ‘Public Safety Partnership and Community Policing Act of 1994’.”
 
-Pub. L. 103–322, title III, § 31101, Sept. 13, 1994, 108 Stat. 1882, provided that: “This subtitle [subtitle K (§§ 31101–31133) of title III of Pub. L. 103–322, enacting part E (§ 12181 et seq.) of subchapter II of chapter 121 of this title] may be cited as the ‘National Community Economic Partnership Act of 1994’.”
+Pub. L. 103–322, title III, § 31101, Sept. 13, 1994, 108 Stat. 1882, provided that: “This subtitle [subtitle K (§§ 31101–31133) of title III of Pub. L. 103–322, enacting part E (§ 12181 et seq.) of subchapter II of chapter 121 of this title] may be cited as the ‘National Community Economic Partnership Act of 1994’.”
 
-Pub. L. 103–322, title III, § 31901, Sept. 13, 1994, 108 Stat. 1892, provided that: “This subtitle [subtitle S (§§ 31901–31922) of title III of Pub. L. 103–322, enacting part G (§ 12241 et seq.) of subchapter II of chapter 121 of this title] may be cited as the ‘Family Unity Demonstration Project Act’.”
+Pub. L. 103–322, title III, § 31901, Sept. 13, 1994, 108 Stat. 1892, provided that: “This subtitle [subtitle S (§§ 31901–31922) of title III of Pub. L. 103–322, enacting part G (§ 12241 et seq.) of subchapter II of chapter 121 of this title] may be cited as the ‘Family Unity Demonstration Project Act’.”
 
-Pub. L. 103–322, title IV, § 40001, Sept. 13, 1994, 108 Stat. 1902, provided that: “This title [see Tables for classification] may be cited as the ‘Violence Against Women Act of 1994’.”
+Pub. L. 103–322, title IV, § 40001, Sept. 13, 1994, 108 Stat. 1902, provided that: “This title [see Tables for classification] may be cited as the ‘Violence Against Women Act of 1994’.”
 
-Pub. L. 103–322, title IV, § 40101, Sept. 13, 1994, 108 Stat. 1903, provided that: “This subtitle [subtitle A (§§ 40101–40156) of title IV of Pub. L. 103–322, see Tables for classification] may be cited as the ‘Safe Streets for Women Act of 1994’.”
+Pub. L. 103–322, title IV, § 40101, Sept. 13, 1994, 108 Stat. 1903, provided that: “This subtitle [subtitle A (§§ 40101–40156) of title IV of Pub. L. 103–322, see Tables for classification] may be cited as the ‘Safe Streets for Women Act of 1994’.”
 
-Pub. L. 103–322, title IV, § 40201, Sept. 13, 1994, 108 Stat. 1925, provided that: “This title [probably should be “subtitle”, meaning subtitle B (§§ 40201–40295) of title IV of Pub. L. 103–322, see Tables for classification] may be cited as the ‘Safe Homes for Women Act of 1994’.”
+Pub. L. 103–322, title IV, § 40201, Sept. 13, 1994, 108 Stat. 1925, provided that: “This title [probably should be “subtitle”, meaning subtitle B (§§ 40201–40295) of title IV of Pub. L. 103–322, see Tables for classification] may be cited as the ‘Safe Homes for Women Act of 1994’.”
 
-Pub. L. 103–322, title IV, § 40301, Sept. 13, 1994, 108 Stat. 1941, provided that: “This subtitle [subtitle C (§§ 40301–40304) of title IV of Pub. L. 103–322, enacting part C (§ 12361) of subchapter III of chapter 121 of this title and amending section 1988 of Title 42, The Public Health and Welfare, and section 1445 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Civil Rights Remedies for Gender-Motivated Violence Act’.”
+Pub. L. 103–322, title IV, § 40301, Sept. 13, 1994, 108 Stat. 1941, provided that: “This subtitle [subtitle C (§§ 40301–40304) of title IV of Pub. L. 103–322, enacting part C (§ 12361) of subchapter III of chapter 121 of this title and amending section 1988 of Title 42, The Public Health and Welfare, and section 1445 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Civil Rights Remedies for Gender-Motivated Violence Act’.”
 
-Pub. L. 103–322, title IV, § 40401, Sept. 13, 1994, 108 Stat. 1942, provided that: “This subtitle [subtitle D (§§ 40401–40422) of title IV of Pub. L. 103–322, enacting part D (§ 12371 et seq.) of subchapter III of chapter 121 of this title] may be cited as the ‘Equal Justice for Women in the Courts Act of 1994’.”
+Pub. L. 103–322, title IV, § 40401, Sept. 13, 1994, 108 Stat. 1942, provided that: “This subtitle [subtitle D (§§ 40401–40422) of title IV of Pub. L. 103–322, enacting part D (§ 12371 et seq.) of subchapter III of chapter 121 of this title] may be cited as the ‘Equal Justice for Women in the Courts Act of 1994’.”
 
-Pub. L. 103–322, title XX, § 200101, Sept. 13, 1994, 108 Stat. 2049, provided that: “This subtitle [subtitle A (§§ 200101–200113) of title XX of Pub. L. 103–322, enacting part A (§ 12551 et seq.) of subchapter VII of chapter 121 of this title] may be cited as the ‘Police Corps Act’.”
+Pub. L. 103–322, title XX, § 200101, Sept. 13, 1994, 108 Stat. 2049, provided that: “This subtitle [subtitle A (§§ 200101–200113) of title XX of Pub. L. 103–322, enacting part A (§ 12551 et seq.) of subchapter VII of chapter 121 of this title] may be cited as the ‘Police Corps Act’.”
 
-Pub. L. 103–322, title XX, § 200201, Sept. 13, 1994, 108 Stat. 2057, provided that: “This subtitle [subtitle B (§§ 200201–200210) of title XX of Pub. L. 103–322, enacting part B (§ 12571 et seq.) of subchapter VII of chapter 121 of this title] may be cited as the ‘Law Enforcement Scholarships and Recruitment Act’.”
+Pub. L. 103–322, title XX, § 200201, Sept. 13, 1994, 108 Stat. 2057, provided that: “This subtitle [subtitle B (§§ 200201–200210) of title XX of Pub. L. 103–322, enacting part B (§ 12571 et seq.) of subchapter VII of chapter 121 of this title] may be cited as the ‘Law Enforcement Scholarships and Recruitment Act’.”
 
-Pub. L. 103–322, title XXI, § 210301, Sept. 13, 1994, 108 Stat. 2065, provided that: “This subtitle [subtitle C (§§ 210301–210306) of title XXI of Pub. L. 103–322, enacting part A (§ 12591 et seq.) of subchapter VIII of chapter 121 of this title and sections 10511 to 10517 of this title, amending sections 10152, 10154, 10261, and 10541 of this title, and enacting provisions set out as a note under section 10152 of this title] may be cited as the ‘DNA Identification Act of 1994’.”
+Pub. L. 103–322, title XXI, § 210301, Sept. 13, 1994, 108 Stat. 2065, provided that: “This subtitle [subtitle C (§§ 210301–210306) of title XXI of Pub. L. 103–322, enacting part A (§ 12591 et seq.) of subchapter VIII of chapter 121 of this title and sections 10511 to 10517 of this title, amending sections 10152, 10154, 10261, and 10541 of this title, and enacting provisions set out as a note under section 10152 of this title] may be cited as the ‘DNA Identification Act of 1994’.”
 
-Pub. L. 103–322, title XXII, § 220001, Sept. 13, 1994, 108 Stat. 2074, provided that: “This title [enacting subchapter IX (§ 12611) of chapter 121 of this title and section 511A of Title 18, Crimes and Criminal Procedure, and amending section 511 of Title 18] may be cited as the ‘Motor Vehicle Theft Prevention Act’.”
+Pub. L. 103–322, title XXII, § 220001, Sept. 13, 1994, 108 Stat. 2074, provided that: “This title [enacting subchapter IX (§ 12611) of chapter 121 of this title and section 511A of Title 18, Crimes and Criminal Procedure, and amending section 511 of Title 18] may be cited as the ‘Motor Vehicle Theft Prevention Act’.”
 
 **Short Title of 1993 Act**
 
-Pub. L. 103–209, § 1, Dec. 20, 1993, 107 Stat. 2490, provided that: “This Act [enacting chapter 401 of this title and amending section 3759 of Title 42, The Public Health and Welfare] may be cited as the ‘National Child Protection Act of 1993’.”
+Pub. L. 103–209, § 1, Dec. 20, 1993, 107 Stat. 2490, provided that: “This Act [enacting chapter 401 of this title and amending section 3759 of Title 42, The Public Health and Welfare] may be cited as the ‘National Child Protection Act of 1993’.”
 
 **Short Title of 1990 Act**
 
-Pub. L. 101–647, title II, § 201, Nov. 29, 1990, 104 Stat. 4792, provided that: “This title [see Tables for classification] may be cited as the ‘Victims of Child Abuse Act of 1990’.”
+Pub. L. 101–647, title II, § 201, Nov. 29, 1990, 104 Stat. 4792, provided that: “This title [see Tables for classification] may be cited as the ‘Victims of Child Abuse Act of 1990’.”
 
-Pub. L. 101–647, title V, § 501, Nov. 29, 1990, 104 Stat. 4820, provided that: “This title [see Tables for classification] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
+Pub. L. 101–647, title V, § 501, Nov. 29, 1990, 104 Stat. 4820, provided that: “This title [see Tables for classification] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
 
 **Short Title of 1988 Act**
 
-Pub. L. 100–690, title VII, § 7250(a), Nov. 18, 1988, 102 Stat. 4434, provided that: “This subtitle [subtitle F (§§ 7250–7296) of title VII of Pub. L. 100–690, see Tables for classification] may be cited as the ‘Juvenile Justice and Delinquency Prevention Amendments of 1988’.”
+Pub. L. 100–690, title VII, § 7250(a), Nov. 18, 1988, 102 Stat. 4434, provided that: “This subtitle [subtitle F (§§ 7250–7296) of title VII of Pub. L. 100–690, see Tables for classification] may be cited as the ‘Juvenile Justice and Delinquency Prevention Amendments of 1988’.”
 
-Pub. L. 100–413, § 1, Aug. 22, 1988, 102 Stat. 1101, provided that “This Act [enacting section 41102 of this title and provisions set out as a note under section 41102 of this title] may be cited as the ‘Parimutuel Licensing Simplification Act of 1988’.”
+Pub. L. 100–413, § 1, Aug. 22, 1988, 102 Stat. 1101, provided that “This Act [enacting section 41102 of this title and provisions set out as a note under section 41102 of this title] may be cited as the ‘Parimutuel Licensing Simplification Act of 1988’.”
 
 **Short Title of 1986 Act**
 
-Pub. L. 99–570, title I, § 1551, Oct. 27, 1986, 100 Stat. 3207–41, provided that: “This subtitle [subtitle K (§§ 1551, 1552) of title I of Pub. L. 99–570, enacting subchapter XII of this chapter and amending sections 10141, 10221, 10222, 10227, 10261, and 10541 of this title] may be cited as the ‘State and Local Law Enforcement Assistance Act of 1986’.”
+Pub. L. 99–570, title I, § 1551, Oct. 27, 1986, 100 Stat. 3207–41, provided that: “This subtitle [subtitle K (§§ 1551, 1552) of title I of Pub. L. 99–570, enacting subchapter XII of this chapter and amending sections 10141, 10221, 10222, 10227, 10261, and 10541 of this title] may be cited as the ‘State and Local Law Enforcement Assistance Act of 1986’.”
 
 **Short Title of 1984 Act**
 
-Pub. L. 98–473, title II, § 601, Oct. 12, 1984, 98 Stat. 2077, provided that: “This division [division I (§§ 601–609AA) of chapter VI of title II of Pub. L. 98–473, see Tables for classification] may be cited as the ‘Justice Assistance Act of 1984’.”
+Pub. L. 98–473, title II, § 601, Oct. 12, 1984, 98 Stat. 2077, provided that: “This division [division I (§§ 601–609AA) of chapter VI of title II of Pub. L. 98–473, see Tables for classification] may be cited as the ‘Justice Assistance Act of 1984’.”
 
-Pub. L. 98–473, title II, § 610, Oct. 12, 1984, 98 Stat. 2107, provided that: “This Division [division II (§§ 610–670) of chapter VI of title II of Pub. L. 98–473, see Tables for classification] may be cited as the ‘Juvenile Justice, Runaway Youth, and Missing Children’s Act Amendments of 1984’.”
+Pub. L. 98–473, title II, § 610, Oct. 12, 1984, 98 Stat. 2107, provided that: “This Division [division II (§§ 610–670) of chapter VI of title II of Pub. L. 98–473, see Tables for classification] may be cited as the ‘Juvenile Justice, Runaway Youth, and Missing Children’s Act Amendments of 1984’.”
 
-Pub. L. 98–473, title II, § 1401, Oct. 12, 1984, 98 Stat. 2170, provided that: “This chapter [chapter XIV (§§ 1401–1411) of title II of Pub. L. 98–473, see Tables for classification] may be cited as the ‘Victims of Crime Act of 1984’.”
+Pub. L. 98–473, title II, § 1401, Oct. 12, 1984, 98 Stat. 2170, provided that: “This chapter [chapter XIV (§§ 1401–1411) of title II of Pub. L. 98–473, see Tables for classification] may be cited as the ‘Victims of Crime Act of 1984’.”
 
 **Short Title of 1980 Act**
 
-Pub. L. 96–509, § 1, Dec. 8, 1980, 94 Stat. 2750, provided that: “This Act [see Tables for classification] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
+Pub. L. 96–509, § 1, Dec. 8, 1980, 94 Stat. 2750, provided that: “This Act [see Tables for classification] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
 
 **Short Title of 1979 Act**
 
-Pub. L. 96–157, § 1, Dec. 27, 1979, 93 Stat. 1167, provided: “That this Act [see Tables for classification] may be cited as the ‘Justice System Improvement Act of 1979’.”
+Pub. L. 96–157, § 1, Dec. 27, 1979, 93 Stat. 1167, provided: “That this Act [see Tables for classification] may be cited as the ‘Justice System Improvement Act of 1979’.”
 
 **Short Title of 1977 Act**
 
-Pub. L. 95–115, § 1, Oct. 3, 1977, 91 Stat. 1048, provided that: “This Act [see Tables for classification] may be cited as the ‘Juvenile Justice Amendments of 1977’.”
+Pub. L. 95–115, § 1, Oct. 3, 1977, 91 Stat. 1048, provided that: “This Act [see Tables for classification] may be cited as the ‘Juvenile Justice Amendments of 1977’.”
 
 **Short Title of 1976 Act**
 
-Pub. L. 94–503, § 1, Oct. 15, 1976, 90 Stat. 2407, provided: “That this Act [see Tables for classification] may be cited as the ‘Crime Control Act of 1976’.”
+Pub. L. 94–503, § 1, Oct. 15, 1976, 90 Stat. 2407, provided: “That this Act [see Tables for classification] may be cited as the ‘Crime Control Act of 1976’.”
 
-Pub. L. 94–430, § 1, Sept. 29, 1976, 90 Stat. 1346, provided: “That this Act [see Tables for classification] may be cited as the ‘Public Safety Officers’ Benefits Act of 1976’.”
+Pub. L. 94–430, § 1, Sept. 29, 1976, 90 Stat. 1346, provided: “That this Act [see Tables for classification] may be cited as the ‘Public Safety Officers’ Benefits Act of 1976’.”
 
 **Short Title of 1974 Act**
 
-Pub. L. 93–415, § 1, Sept. 7, 1974, 88 Stat. 1109, provided: “That this Act [see Tables for classification] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 1974’.”
+Pub. L. 93–415, § 1, Sept. 7, 1974, 88 Stat. 1109, provided: “That this Act [see Tables for classification] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 1974’.”
 
-Pub. L. 93–415, title II, § 220, as added by Pub. L. 115–385, title II, § 204(c)(2), Dec. 21, 2018, 132 Stat. 5131, provided that: “This part [part B (§§ 220–223) of title II of Pub. L. 93–415, enacting part B of subchapter II of chapter 111 of this title] may be cited as the ‘Charles Grassley Juvenile Justice and Delinquency Prevention Program’.”
+Pub. L. 93–415, title II, § 220, as added by Pub. L. 115–385, title II, § 204(c)(2), Dec. 21, 2018, 132 Stat. 5131, provided that: “This part [part B (§§ 220–223) of title II of Pub. L. 93–415, enacting part B of subchapter II of chapter 111 of this title] may be cited as the ‘Charles Grassley Juvenile Justice and Delinquency Prevention Program’.”
 
-Pub. L. 93–415, title III, § 301, Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 96–509, § 18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: “This title [enacting subchapter III of chapter 111 of this title] may be cited as the ‘Runaway and Homeless Youth Act’.”
+Pub. L. 93–415, title III, § 301, Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 96–509, § 18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: “This title [enacting subchapter III of chapter 111 of this title] may be cited as the ‘Runaway and Homeless Youth Act’.”
 
-Pub. L. 93–415, title IV, § 401, as added by Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, § 1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title [enacting subchapter IV of chapter 111 of this title] may be cited as the ‘Missing Children’s Assistance Act’.”
+Pub. L. 93–415, title IV, § 401, as added by Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, § 1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title [enacting subchapter IV of chapter 111 of this title] may be cited as the ‘Missing Children’s Assistance Act’.”
 
-Pub. L. 93–415, title V, § 501, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894; amended by Pub. L. 115–385, title III, § 301, Dec. 21, 2018, 132 Stat. 5145, provided that: “This title [enacting subchapter V of chapter 111 of this title] may be cited as the ‘Incentive Youth Promise Grants for Local Delinquency Prevention Programs Act of 2018’.”
+Pub. L. 93–415, title V, § 501, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894; amended by Pub. L. 115–385, title III, § 301, Dec. 21, 2018, 132 Stat. 5145, provided that: “This title [enacting subchapter V of chapter 111 of this title] may be cited as the ‘Incentive Youth Promise Grants for Local Delinquency Prevention Programs Act of 2018’.”
 
-A prior section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, provided that title V (enacting subchapter V of chapter 72 of Title 42, The Public Health and Welfare) could be cited as the “Incentive Grants for Local Delinquency Prevention Programs Act”, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273, § 12222(a).
+A prior section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, provided that title V (enacting subchapter V of chapter 72 of Title 42, The Public Health and Welfare) could be cited as the “Incentive Grants for Local Delinquency Prevention Programs Act”, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273, § 12222(a).
 
 Another section 501 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1133, amended section 5031 of Title 18, Crimes and Criminal Procedure.
 
 **Short Title of 1973 Act**
 
-Pub. L. 93–83, § 1, Aug. 6, 1973, 87 Stat. 197, provided: “That this Act [see Tables for classification] may be cited as the ‘Crime Control Act of 1973’.”
+Pub. L. 93–83, § 1, Aug. 6, 1973, 87 Stat. 197, provided: “That this Act [see Tables for classification] may be cited as the ‘Crime Control Act of 1973’.”
 
 **Short Title of 1970 Act**
 
-Pub. L. 91–644, § 1, Jan. 2, 1971, 84 Stat. 1880, provided: “That this Act [see Tables for classification] may be cited as the ‘Omnibus Crime Control Act of 1970’.”
+Pub. L. 91–644, § 1, Jan. 2, 1971, 84 Stat. 1880, provided: “That this Act [see Tables for classification] may be cited as the ‘Omnibus Crime Control Act of 1970’.”
 
 **Short Title of 1968 Act**
 
-Pub. L. 90–351, § 1, June 19, 1968, 82 Stat. 197, provided: “That this Act [see Tables for classification] may be cited as the ‘Omnibus Crime Control and Safe Streets Act of 1968’.”
+Pub. L. 90–351, § 1, June 19, 1968, 82 Stat. 197, provided: “That this Act [see Tables for classification] may be cited as the ‘Omnibus Crime Control and Safe Streets Act of 1968’.”
 
-Pub. L. 90–351, title I, § 3030, as added by Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1247, provided that: “This part [part MM (§§ 3030–3036) of title I of Pub. L. 90–351, enacting subchapter XXXIX of chapter 101 of this title] may be cited as the ‘National White Collar Crime Control Act of 2017’.”
+Pub. L. 90–351, title I, § 3030, as added by Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1247, provided that: “This part [part MM (§§ 3030–3036) of title I of Pub. L. 90–351, enacting subchapter XXXIX of chapter 101 of this title] may be cited as the ‘National White Collar Crime Control Act of 2017’.”
 
 **Separability**
 
-Pub. L. 90–351, title XI, § 1601, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of any part of this Act [see Short Title of 1968 Act note above] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” [Another section 1601 of Pub. L. 90–351 is classified to section 10361 of this title.]
+Pub. L. 90–351, title XI, § 1601, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of any part of this Act [see Short Title of 1968 Act note above] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” [Another section 1601 of Pub. L. 90–351 is classified to section 10361 of this title.]
 
 **References in Other Laws**
 
-Pub. L. 98–473, title II, § 609I, Oct. 12, 1984, 98 Stat. 2102, provided that:
+Pub. L. 98–473, title II, § 609I, Oct. 12, 1984, 98 Stat. 2102, provided that:
 
 > **“(a)** Any reference to the Law Enforcement Assistance Administration, or to the Administrator of the Law Enforcement Assistance Administration, in any law other than this Act [see Short Title of 1984 Act note set out above] and the Omnibus Crime Control and Safe Streets Act of 1968 [see Short Title of 1968 Act note set out above], applicable to activities, functions, powers, and duties that after the date of the enactment of this Act [Oct. 12, 1984] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
 
@@ -559,7 +559,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 10102. Duties and functions of Assistant Attorney General
+### § 10102. Duties and functions of Assistant Attorney General
 
 **(a) Specific, general and delegated powers** The Assistant Attorney General shall—
 
@@ -579,13 +579,13 @@ Donald J. Trump.
 
 The Assistant Attorney General shall submit an annual report to the President and to the Congress not later than March 31 of each year.
 
-(Pub. L. 90–351, title I, § 102, as added Pub. L. 98–473, title II, § 603(a), Oct. 12, 1984, 98 Stat. 2078; amended Pub. L. 107–296, title II, § 236, Nov. 25, 2002, 116 Stat. 2162; Pub. L. 109–162, title XI, § 1152, Jan. 5, 2006, 119 Stat. 3113.)
+(Pub. L. 90–351, title I, § 102, as added Pub. L. 98–473, title II, § 603(a), Oct. 12, 1984, 98 Stat. 2078; amended Pub. L. 107–296, title II, § 236, Nov. 25, 2002, 116 Stat. 2162; Pub. L. 109–162, title XI, § 1152, Jan. 5, 2006, 119 Stat. 3113.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a)(6), was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a)(6), was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 **Codification**
 
@@ -593,13 +593,13 @@ Section was formerly classified to section 3712 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 102 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1170, described duties and functions of Administrator of Law Enforcement Assistance Administration, prior to the general amendment of part A of title I of Pub. L. 90–351 by Pub. L. 98–473.
+A prior section 102 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1170, described duties and functions of Administrator of Law Enforcement Assistance Administration, prior to the general amendment of part A of title I of Pub. L. 90–351 by Pub. L. 98–473.
 
 **Amendments**
 
-2006—Subsec. (a)(5). Pub. L. 109–162, § 1152(a), inserted “the Office for Victims of Crime,” after “the Bureau of Justice Statistics,”.
+2006—Subsec. (a)(5). Pub. L. 109–162, § 1152(a), inserted “the Office for Victims of Crime,” after “the Bureau of Justice Statistics,”.
 
-Subsec. (a)(6). Pub. L. 109–162, § 1152(b), inserted “, including placing special conditions on all grants, and determining priority purposes for formula grants” before period at end.
+Subsec. (a)(6). Pub. L. 109–162, § 1152(b), inserted “, including placing special conditions on all grants, and determining priority purposes for formula grants” before period at end.
 
 2002—Subsec. (a)(5). Pub. L. 107–296 inserted “coordinate and” before “provide”.
 
@@ -613,7 +613,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 10101 of this title.
 
-### § 10103. Office of Weed and Seed Strategies
+### § 10103. Office of Weed and Seed Strategies
 
 **(a) Establishment**
 
@@ -627,7 +627,7 @@ The Director may assist States, units of local government, and neighborhood and 
 
 There is authorized to be appropriated to carry out this section $60,000,000 for fiscal year 2006, and such sums as may be necessary for each of fiscal years 2007, 2008, and 2009, to remain available until expended.
 
-(Pub. L. 90–351, title I, § 103, as added Pub. L. 109–162, title XI, § 1121(a), Jan. 5, 2006, 119 Stat. 3104.)
+(Pub. L. 90–351, title I, § 103, as added Pub. L. 109–162, title XI, § 1121(a), Jan. 5, 2006, 119 Stat. 3104.)
 
 **Editorial Notes**
 
@@ -639,17 +639,17 @@ Section was formerly classified to section 3712a of Title 42, The Public Health 
 
 **Effective Date**
 
-Pub. L. 109–162, title XI, § 1121(c), Jan. 5, 2006, 119 Stat. 3107, as amended by Pub. L. 109–271, § 8(n)(1), Aug. 12, 2006, 120 Stat. 767, provided that: “This section [enacting this section and sections 10104 and 10105 of this title and provisions set out as a note below] and the amendments made by this section take effect with respect to appropriations for fiscal year 2007 and for each fiscal year thereafter.”
+Pub. L. 109–162, title XI, § 1121(c), Jan. 5, 2006, 119 Stat. 3107, as amended by Pub. L. 109–271, § 8(n)(1), Aug. 12, 2006, 120 Stat. 767, provided that: “This section [enacting this section and sections 10104 and 10105 of this title and provisions set out as a note below] and the amendments made by this section take effect with respect to appropriations for fiscal year 2007 and for each fiscal year thereafter.”
 
 **Abolishment of Executive Office of Weed and Seed; Transfers of Functions**
 
-Pub. L. 109–162, title XI, § 1121(b), Jan. 5, 2006, 119 Stat. 3107, provided that:
+Pub. L. 109–162, title XI, § 1121(b), Jan. 5, 2006, 119 Stat. 3107, provided that:
 
 > **“(1) Abolishment.—** The Executive Office of Weed and Seed is abolished.
 
 > **“(2) Transfer.—** There are hereby transferred to the Office of Weed and Seed Strategies all functions and activities performed immediately before the date of the enactment of this Act [Jan. 5, 2006] by the Executive Office of Weed and Seed Strategies.”
 
-### § 10104. Weed and Seed strategies
+### § 10104. Weed and Seed strategies
 
 **(a) In general** From amounts made available under section 10103(c) of this title, the Director of the Office of Weed and Seed Strategies may implement strategies, to be known as Weed and Seed strategies, to prevent, control, and reduce violent crime, criminal drug-related activity, and gang activity in designated Weed-and-Seed communities. Each such strategy shall involve both of the following activities:
 
@@ -745,7 +745,7 @@ For each grant under this subsection, the community receiving that grant may not
 
 To receive a grant under this subsection, the applicant must provide assurances that the amounts received under the grant shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
 
-(Pub. L. 90–351, title I, § 104, as added Pub. L. 109–162, title XI, § 1121(a), Jan. 5, 2006, 119 Stat. 3104.)
+(Pub. L. 90–351, title I, § 104, as added Pub. L. 109–162, title XI, § 1121(a), Jan. 5, 2006, 119 Stat. 3104.)
 
 **Editorial Notes**
 
@@ -759,11 +759,11 @@ Section was formerly classified to section 3712b of Title 42, The Public Health 
 
 Section effective with respect to appropriations for fiscal year 2007 and for each fiscal year thereafter, see section 1121(c) of Pub. L. 109–162, set out as a note under section 10103 of this title.
 
-### § 10105. Inclusion of Indian tribes
+### § 10105. Inclusion of Indian tribes
 
 For purposes of sections 10103 and 10104 of this title, the term “State” includes an Indian tribal government.
 
-(Pub. L. 90–351, title I, § 105, as added Pub. L. 109–162, title XI, § 1121(a), Jan. 5, 2006, 119 Stat. 3107.)
+(Pub. L. 90–351, title I, § 105, as added Pub. L. 109–162, title XI, § 1121(a), Jan. 5, 2006, 119 Stat. 3107.)
 
 **Editorial Notes**
 
@@ -779,7 +779,7 @@ Another section 105 of Pub. L. 90–351 was renumbered section 109 and is classi
 
 Section effective with respect to appropriations for fiscal year 2007 and for each fiscal year thereafter, see section 1121(c) of Pub. L. 109–162, set out as a note under section 10103 of this title.
 
-### § 10106. Community Capacity Development Office
+### § 10106. Community Capacity Development Office
 
 **(a) Establishment**
 
@@ -789,9 +789,9 @@ There is established within the Office a Community Capacity Development Office, 
 
 **(2) Purpose**
 
-The purpose of the Office shall be to provide training to actual and prospective participants under programs covered by section 10103(b) 1
+The purpose of the Office shall be to provide training to actual and prospective participants under programs covered by section 10103(b) 1
 
-<sup>1</sup>  See References in Text Note below.
+<sup>1</sup> See References in Text Note below.
 
 of this title to assist such participants in understanding the substantive and procedural requirements for participating in such programs.
 
@@ -823,13 +823,13 @@ Training referred to in subsection (a) shall be provided on a regional basis to 
 
 **(e) Availability of funds**
 
-not 2
+not 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
-to exceed 3 percent of all funding made available for a fiscal year for the programs covered by section 10103(b) <sup>1</sup> of this title shall be reserved for the Community Capacity Development Office for the activities authorized by this section.
+to exceed 3 percent of all funding made available for a fiscal year for the programs covered by section 10103(b) <sup>1</sup> of this title shall be reserved for the Community Capacity Development Office for the activities authorized by this section.
 
-(Pub. L. 90–351, title I, § 106, as added Pub. L. 109–162, title XI, § 1159(a), Jan. 5, 2006, 119 Stat. 3116; amended Pub. L. 109–271, § 8(f), Aug. 12, 2006, 120 Stat. 766.)
+(Pub. L. 90–351, title I, § 106, as added Pub. L. 109–162, title XI, § 1159(a), Jan. 5, 2006, 119 Stat. 3116; amended Pub. L. 109–271, § 8(f), Aug. 12, 2006, 120 Stat. 766.)
 
 **Editorial Notes**
 
@@ -851,9 +851,9 @@ Section was formerly classified to section 3712e of Title 42, The Public Health 
 
 **Effective Date**
 
-Pub. L. 109–162, title XI, § 1159(b), Jan. 5, 2006, 119 Stat. 3117, provided that: “This section [enacting this section] and the amendment made by this section take effect 90 days after the date of the enactment of this Act [Jan. 5, 2006].”
+Pub. L. 109–162, title XI, § 1159(b), Jan. 5, 2006, 119 Stat. 3117, provided that: “This section [enacting this section] and the amendment made by this section take effect 90 days after the date of the enactment of this Act [Jan. 5, 2006].”
 
-### § 10107. Division of Applied Law Enforcement Technology
+### § 10107. Division of Applied Law Enforcement Technology
 
 **(a) Establishment**
 
@@ -865,7 +865,7 @@ There is established within the Office of Science and Technology, the Division o
 
 **(2)** ensure that recipients of such grants use such systems to participate in crime reporting programs administered by the Department, such as Uniform Crime Reports or the National Incident-Based Reporting System.
 
-(Pub. L. 90–351, title I, § 107, as added Pub. L. 109–162, title XI, § 1160(a), Jan. 5, 2006, 119 Stat. 3117.)
+(Pub. L. 90–351, title I, § 107, as added Pub. L. 109–162, title XI, § 1160(a), Jan. 5, 2006, 119 Stat. 3117.)
 
 **Editorial Notes**
 
@@ -877,9 +877,9 @@ Section was formerly classified to section 3712f of Title 42, The Public Health 
 
 **Effective Date**
 
-Pub. L. 109–162, title XI, § 1160(b), Jan. 5, 2006, 119 Stat. 3117, as amended by Pub. L. 109–271, § 8(n)(4)(A), Aug. 12, 2006, 120 Stat. 768, provided that: “This section [enacting this section] and the amendment made by this section take effect on October 1, 2006.”
+Pub. L. 109–162, title XI, § 1160(b), Jan. 5, 2006, 119 Stat. 3117, as amended by Pub. L. 109–271, § 8(n)(4)(A), Aug. 12, 2006, 120 Stat. 768, provided that: “This section [enacting this section] and the amendment made by this section take effect on October 1, 2006.”
 
-### § 10108. Availability of funds
+### § 10108. Availability of funds
 
 **(a) Period for awarding grant funds**
 
@@ -907,7 +907,7 @@ In this section, the term “DOJ grant funds” means, for a fiscal year, amount
 
 This section applies to DOJ grant funds for fiscal years beginning with fiscal year 2006.
 
-(Pub. L. 90–351, title I, § 108, as added Pub. L. 109–162, title XI, § 1161(a), Jan. 5, 2006, 119 Stat. 3118; amended Pub. L. 109–271, § 8(g), Aug. 12, 2006, 120 Stat. 767.)
+(Pub. L. 90–351, title I, § 108, as added Pub. L. 109–162, title XI, § 1161(a), Jan. 5, 2006, 119 Stat. 3118; amended Pub. L. 109–271, § 8(g), Aug. 12, 2006, 120 Stat. 767.)
 
 **Editorial Notes**
 
@@ -923,9 +923,9 @@ Section was formerly classified to section 3712g of Title 42, The Public Health 
 
 **Effective Date**
 
-Pub. L. 109–162, title XI, § 1161(b), Jan. 5, 2006, 119 Stat. 3118, as amended by Pub. L. 109–271, § 8(n)(4)(B), Aug. 12, 2006, 120 Stat. 768, provided that: “This section [enacting this section] and the amendment made by this section take effect on October 1, 2006.”
+Pub. L. 109–162, title XI, § 1161(b), Jan. 5, 2006, 119 Stat. 3118, as amended by Pub. L. 109–271, § 8(n)(4)(B), Aug. 12, 2006, 120 Stat. 768, provided that: “This section [enacting this section] and the amendment made by this section take effect on October 1, 2006.”
 
-### § 10109. Office of Audit, Assessment, and Management
+### § 10109. Office of Audit, Assessment, and Management
 
 **(a) Establishment**
 
@@ -977,7 +977,7 @@ The Director shall establish and maintain, in consultation with the chief inform
 
 Not to exceed 3 percent of all funding made available for a fiscal year for the programs covered by subsection (b) shall be reserved for the Office of Audit, Assessment and Management for the activities authorized by this section.
 
-(Pub. L. 90–351, title I, § 109, formerly § 105, as added Pub. L. 109–162, title XI, § 1158(a), Jan. 5, 2006, 119 Stat. 3114; renumbered § 109, Pub. L. 109–271, § 8(e), Aug. 12, 2006, 120 Stat. 766.)
+(Pub. L. 90–351, title I, § 109, formerly § 105, as added Pub. L. 109–162, title XI, § 1158(a), Jan. 5, 2006, 119 Stat. 3114; renumbered § 109, Pub. L. 109–271, § 8(e), Aug. 12, 2006, 120 Stat. 766.)
 
 **Editorial Notes**
 
@@ -995,25 +995,25 @@ Section was also formerly classified to section 3712d of Title 42 prior to renum
 
 **Effective Date**
 
-Pub. L. 109–162, title XI, § 1158(b), Jan. 5, 2006, 119 Stat. 3116, as amended by Pub. L. 109–271, § 8(n)(3), Aug. 12, 2006, 120 Stat. 768, provided that:
+Pub. L. 109–162, title XI, § 1158(b), Jan. 5, 2006, 119 Stat. 3116, as amended by Pub. L. 109–271, § 8(n)(3), Aug. 12, 2006, 120 Stat. 768, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), section 109 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3712d [3712h]) [now 34 U.S.C. 10109] shall take effect on April 5, 2006.
 
 > **“(2) Certain provisions.—** Subsections (c), (d), and (e) of section 109 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3712d [3712h]) [now 34 U.S.C. 10109] shall take effect on October 1, 2006.”
 
-### § 10110. Office of Justice Programs grants, cooperative agreements, and contracts
+### § 10110. Office of Justice Programs grants, cooperative agreements, and contracts
 
 Notwithstanding any other provision of law, during any fiscal year the Attorney General—
 
-**(1)** may make grants, or enter into cooperative agreements and contracts, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351); 1
+**(1)** may make grants, or enter into cooperative agreements and contracts, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
 **(2)** shall have final authority over all functions, including any grants, cooperative agreements, and contracts made, or entered into, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351).<sup>1</sup>
 
-(Pub. L. 105–277, div. A, § 101(b) [title I, § 112], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67; Pub. L. 107–56, title VI, § 614, Oct. 26, 2001, 115 Stat. 370; Pub. L. 107–273, div. A, title II, § 205(d), Nov. 2, 2002, 116 Stat. 1778.)
+(Pub. L. 105–277, div. A, § 101(b) [title I, § 112], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67; Pub. L. 107–56, title VI, § 614, Oct. 26, 2001, 115 Stat. 370; Pub. L. 107–273, div. A, title II, § 205(d), Nov. 2, 2002, 116 Stat. 1778.)
 
 **Editorial Notes**
 
@@ -1033,19 +1033,19 @@ Section was also formerly classified as a note under section 3712 of Title 42 pr
 
 2002—Pub. L. 107–273 substituted “any fiscal year the Attorney General—” for “fiscal year 1999, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice—” in introductory provisions.
 
-2001—Par. (1). Pub. L. 107–56, § 614(1), inserted “(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)” after “that Office”.
+2001—Par. (1). Pub. L. 107–56, § 614(1), inserted “(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)” after “that Office”.
 
-Par. (2). Pub. L. 107–56, § 614, inserted “functions, including any” after “all” and “(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)” after “that Office”.
+Par. (2). Pub. L. 107–56, § 614, inserted “functions, including any” after “all” and “(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)” after “that Office”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Use of Grants for Post-Conviction Relief Representation**
 
-Pub. L. 119–73, § 4, Jan. 23, 2026, 139 Stat. 2008, provided that: “The Office of Justice Programs or the Office on Violence Against Women, in awarding a grant that may be used for legal representation, may not prohibit a recipient from using the grant for legal representation for post-conviction relief.”
+Pub. L. 119–73, § 4, Jan. 23, 2026, 139 Stat. 2008, provided that: “The Office of Justice Programs or the Office on Violence Against Women, in awarding a grant that may be used for legal representation, may not prohibit a recipient from using the grant for legal representation for post-conviction relief.”
 
 **Office of Justice Programs Grants, Cooperative Agreements, and Contracts**
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, as amended by Pub. L. 107–56, title VI, § 614, Oct. 26, 2001, 115 Stat. 370, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, as amended by Pub. L. 107–56, title VI, § 614, Oct. 26, 2001, 115 Stat. 370, provided that:
 
 > “Notwithstanding any other provision of law, for fiscal year 2000, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice—
 
@@ -1053,9 +1053,9 @@ Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(a)], Nov. 29, 1999
 
 > **“(2)** shall have final authority over all functions, including any grants, cooperative agreements and contracts made, or entered into, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351 [see References in Text note above]), except for grants made under the provisions of sections 201, 202, 301, and 302 of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10121, 10122, 10131, 10132], as amended; and sections 204(b)(3), 241(e)(1), 243(a)(1), 243(a)(14) and 287A(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 [34 U.S.C. 11114(b)(3) and former 42 U.S.C. 5651(e)(1), 5653(a)(1), (14), 5667d–1(3)], as amended.”
 
-[Pub. L. 106–553, § 1(a)(2) [title I, § 108], Dec. 21, 2000, 114 Stat. 2762, 2762A–67, provided that: “Section 108(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) [set out above] shall apply for fiscal year 2001 and thereafter.” ]
+[Pub. L. 106–553, § 1(a)(2) [title I, § 108], Dec. 21, 2000, 114 Stat. 2762, 2762A–67, provided that: “Section 108(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) [set out above] shall apply for fiscal year 2001 and thereafter.” ]
 
-### § 10111. Consolidation of financial management systems of Office of Justice Programs
+### § 10111. Consolidation of financial management systems of Office of Justice Programs
 
 **(a) Consolidation of accounting activities and procurement activities** The Assistant Attorney General of the Office of Justice Programs, in coordination with the Chief Information Officer and Chief Financial Officer of the Department of Justice, shall ensure that—
 
@@ -1085,7 +1085,7 @@ The Assistant Attorney General shall undertake a scheduled consolidation of oper
 
 **(B)** subsections (b) and (c), the consolidation of operations shall be initiated not later than September 30, 2006, and shall be carried out by the Office of Administration, in consultation with the Chief Information Officer and the Office of Audit, Assessment, and Management.
 
-(Pub. L. 109–162, title XI, § 1162, Jan. 5, 2006, 119 Stat. 3118.)
+(Pub. L. 109–162, title XI, § 1162, Jan. 5, 2006, 119 Stat. 3118.)
 
 **Editorial Notes**
 
@@ -1095,7 +1095,7 @@ Section was enacted as part of the Violence Against Women and Department of Just
 
 Section was formerly classified to section 3715a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10112. Senior Policy Advisor on Culturally Specific Communities within the Office of Justice Programs
+### § 10112. Senior Policy Advisor on Culturally Specific Communities within the Office of Justice Programs
 
 **(a) Establishment; duties** There shall be a Senior Policy Advisor on Culturally Specific Communities within the Office of Justice Programs who shall, under the guidance and authority of the Assistant Attorney General of the Office of Justice Programs—
 
@@ -1121,7 +1121,7 @@ Section was formerly classified to section 3715a of Title 42, The Public Health 
 
 Not later than 120 days after March 15, 2022, the Assistant Attorney General of the Office of Justice Programs shall appoint an individual as Senior Policy Advisor on Culturally Specific Communities.
 
-(Pub. L. 117–103, div. W, title XIII, § 1313, Mar. 15, 2022, 136 Stat. 935.)
+(Pub. L. 117–103, div. W, title XIII, § 1313, Mar. 15, 2022, 136 Stat. 935.)
 
 **Editorial Notes**
 
@@ -1137,7 +1137,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 ## SUBCHAPTER II—NATIONAL INSTITUTE OF JUSTICE
 
-### § 10121. Statement of purpose
+### § 10121. Statement of purpose
 
 It is the purpose of this subchapter to establish a National Institute of Justice, which shall provide for and encourage research and demonstration efforts for the purpose of—
 
@@ -1151,13 +1151,13 @@ It is the purpose of this subchapter to establish a National Institute of Justic
 
 The Institute shall have authority to engage in and encourage research and development to improve and strengthen the criminal justice system and related aspects of the civil justice system and to disseminate the results of such efforts to Federal, State, and local governments, to evaluate the effectiveness of programs funded under this chapter, to develop and demonstrate new or improved approaches and techniques, to improve and strengthen the administration of justice, and to identify programs or projects carried out under this chapter which have demonstrated success in improving the quality of justice systems and which offer the likelihood of success if continued or repeated. In carrying out the provisions of this subchapter, the Institute shall give primary emphasis to the problems of State and local justice systems and shall insure that there is a balance between basic and applied research.
 
-(Pub. L. 90–351, title I, § 201, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, § 604(a), Oct. 12, 1984, 98 Stat. 2078.)
+(Pub. L. 90–351, title I, § 201, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, § 604(a), Oct. 12, 1984, 98 Stat. 2078.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 **Codification**
 
@@ -1165,7 +1165,7 @@ Section was formerly classified to section 3721 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 201 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 197; Pub. L. 94–503, title I, § 104, Oct. 15, 1976, 90 Stat. 2408, set out Congressional statement of purpose in providing for a program of planning grants, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 201 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 197; Pub. L. 94–503, title I, § 104, Oct. 15, 1976, 90 Stat. 2408, set out Congressional statement of purpose in providing for a program of planning grants, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 **Amendments**
 
@@ -1193,7 +1193,7 @@ Pub. L. 110–424, Oct. 15, 2008, 122 Stat. 4819, provided that:
 
 > “There are authorized to be appropriated to the Attorney General to carry out this Act $4,750,000 for each of the fiscal years 2009 through 2012, to remain available until expended.”
 
-### § 10122. National Institute of Justice
+### § 10122. National Institute of Justice
 
 **(a) Establishment; general authority of Attorney General over Institute**
 
@@ -1253,7 +1253,7 @@ In carrying out the provisions of this subsection, the Institute may request the
 
 **(5)** exercise the powers and functions set out in subchapter VII.
 
-(Pub. L. 90–351, title I, § 202, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, § 604(b), Oct. 12, 1984, 98 Stat. 2078; Pub. L. 103–322, title XXXIII, § 330001(h)(1), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 107–296, title II, § 237, Nov. 25, 2002, 116 Stat. 2162; Pub. L. 112–166, § 2(h)(3), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 90–351, title I, § 202, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, § 604(b), Oct. 12, 1984, 98 Stat. 2078; Pub. L. 103–322, title XXXIII, § 330001(h)(1), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 107–296, title II, § 237, Nov. 25, 2002, 116 Stat. 2162; Pub. L. 112–166, § 2(h)(3), Aug. 10, 2012, 126 Stat. 1285.)
 
 **Editorial Notes**
 
@@ -1263,33 +1263,33 @@ Section was formerly classified to section 3722 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 202 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 198, provided for making of grants to State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 202 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 198, provided for making of grants to State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 **Amendments**
 
-2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
-2002—Subsec. (c)(3). Pub. L. 107–296, § 237(1), inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
+2002—Subsec. (c)(3). Pub. L. 107–296, § 237(1), inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
 
-Subsec. (c)(10), (11). Pub. L. 107–296, § 237(2), added pars. (10) and (11).
+Subsec. (c)(10), (11). Pub. L. 107–296, § 237(2), added pars. (10) and (11).
 
 1994—Subsec. (c)(2)(E). Pub. L. 103–322 substituted “crime,” for “crime,,”.
 
-1984—Subsec. (b). Pub. L. 98–473, § 604(b)(1), required Director to report to Attorney General through Assistant Attorney General.
+1984—Subsec. (b). Pub. L. 98–473, § 604(b)(1), required Director to report to Attorney General through Assistant Attorney General.
 
-Subsec. (c)(2)(A). Pub. L. 98–473, § 604(b)(2)(A)(i), struck out “, including programs authorized by section 3713 of this title” after “system goals”.
+Subsec. (c)(2)(A). Pub. L. 98–473, § 604(b)(2)(A)(i), struck out “, including programs authorized by section 3713 of this title” after “system goals”.
 
-Subsec. (c)(2)(E). Pub. L. 98–473, § 604(b)(2)(A)(ii), struck out “the prevention and reduction of parental kidnaping” after “reduction of crime,”.
+Subsec. (c)(2)(E). Pub. L. 98–473, § 604(b)(2)(A)(ii), struck out “the prevention and reduction of parental kidnaping” after “reduction of crime,”.
 
-Subsec. (c)(3). Pub. L. 98–473, § 604(b)(2)(B), substituted “chapter” for “subchapter”.
+Subsec. (c)(3). Pub. L. 98–473, § 604(b)(2)(B), substituted “chapter” for “subchapter”.
 
-Subsec. (c)(4) to (7). Pub. L. 98–473, § 604(b)(2)(C), (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of this chapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
+Subsec. (c)(4) to (7). Pub. L. 98–473, § 604(b)(2)(C), (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of this chapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
 
-Subsec. (c)(8). Pub. L. 98–473, § 604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V” for “subchapter VI”. Former par. (8) redesignated (7).
+Subsec. (c)(8). Pub. L. 98–473, § 604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V” for “subchapter VI”. Former par. (8) redesignated (7).
 
-Subsec. (c)(9). Pub. L. 98–473, § 604(b)(2)(E), (F), redesignated par. (11) as (9), and struck out former par. (9) relating to a biennial report to President and Congress on state of justice research.
+Subsec. (c)(9). Pub. L. 98–473, § 604(b)(2)(E), (F), redesignated par. (11) as (9), and struck out former par. (9) relating to a biennial report to President and Congress on state of justice research.
 
-Subsec. (c)(10), (11). Pub. L. 98–473, § 604(b)(2)(F), redesignated pars. (10) and (11) as (8) and (9), respectively.
+Subsec. (c)(10), (11). Pub. L. 98–473, § 604(b)(2)(F), redesignated pars. (10) and (11) as (8) and (9), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1305,11 +1305,11 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10123. Authority for 100 per centum grants
+### § 10123. Authority for 100 per centum grants
 
 A grant authorized under this subchapter may be up to 100 per centum of the total cost of each project for which such grant is made. The Institute shall require, whenever feasible, as a condition of approval of a grant under this subchapter, that the recipient contribute money, facilities, or services to carry out the purposes for which the grant is sought.
 
-(Pub. L. 90–351, title I, § 203, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1174.)
+(Pub. L. 90–351, title I, § 203, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1174.)
 
 **Editorial Notes**
 
@@ -1319,15 +1319,15 @@ Section was formerly classified to section 3723 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 203 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 199; Pub. L. 91–644, title I, § 3(a)–(c), Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 198; Pub. L. 93–415, title V, § 542, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–503, title I, § 105, Oct. 15, 1976, 90 Stat. 2408; Pub. L. 95–115, § 9(b), Oct. 3, 1977, 91 Stat. 1061, provided for establishment of State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 203 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 199; Pub. L. 91–644, title I, § 3(a)–(c), Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 198; Pub. L. 93–415, title V, § 542, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–503, title I, § 105, Oct. 15, 1976, 90 Stat. 2408; Pub. L. 95–115, § 9(b), Oct. 3, 1977, 91 Stat. 1061, provided for establishment of State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 ## SUBCHAPTER III—BUREAU OF JUSTICE STATISTICS
 
-### § 10131. Statement of purpose
+### § 10131. Statement of purpose
 
 It is the purpose of this subchapter to provide for and encourage the collection and analysis of statistical information concerning crime, juvenile delinquency, and the operation of the criminal justice system and related aspects of the civil justice system and to support the development of information and statistical systems at the Federal, State, and local levels to improve the efforts of these levels of government to measure and understand the levels of crime, juvenile delinquency, and the operation of the criminal justice system and related aspects of the civil justice system. The Bureau shall utilize to the maximum extent feasible State governmental organizations and facilities responsible for the collection and analysis of criminal justice data and statistics. In carrying out the provisions of this subchapter, the Bureau shall give primary emphasis to the problems of State and local justice systems.
 
-(Pub. L. 90–351, title I, § 301, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, § 605(a), Oct. 12, 1984, 98 Stat. 2079.)
+(Pub. L. 90–351, title I, § 301, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, § 605(a), Oct. 12, 1984, 98 Stat. 2079.)
 
 **Editorial Notes**
 
@@ -1337,7 +1337,7 @@ Section was formerly classified to section 3731 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 301 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 199; Pub. L. 91–644, title I, § 4(1)–(4), Jan. 2, 1971, 84 Stat. 1882; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 199; Pub. L. 94–503, title I, §§ 109, 128(b), Oct. 15, 1976, 90 Stat. 2411, 2424, related to purposes and categories of grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 301 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 199; Pub. L. 91–644, title I, § 4(1)–(4), Jan. 2, 1971, 84 Stat. 1882; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 199; Pub. L. 94–503, title I, §§ 109, 128(b), Oct. 15, 1976, 90 Stat. 2411, 2424, related to purposes and categories of grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 **Amendments**
 
@@ -1349,7 +1349,7 @@ A prior section 301 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 199; P
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10132. Bureau of Justice Statistics
+### § 10132. Bureau of Justice Statistics
 
 **(a) Establishment**
 
@@ -1439,7 +1439,7 @@ In recommending standards for gathering justice statistics under this section, t
 
 Not later than 1 year after July 29, 2010, and annually thereafter, the Director shall submit to Congress a report describing the data collected and analyzed under this section relating to crimes in Indian country.
 
-(Pub. L. 90–351, title I, § 302, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, § 605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, § 6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, § 330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, § 1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, § 251(b), July 29, 2010, 124 Stat. 2297; Pub. L. 112–166, § 2(h)(1), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 90–351, title I, § 302, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, § 605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, § 6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, § 330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, § 1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, § 251(b), July 29, 2010, 124 Stat. 2297; Pub. L. 112–166, § 2(h)(1), Aug. 10, 2012, 126 Stat. 1285.)
 
 **Editorial Notes**
 
@@ -1453,69 +1453,69 @@ Section was formerly classified to section 3732 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 302 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 200; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 201; Pub. L. 94–503, title I, § 110, Oct. 15, 1976, 90 Stat. 2412, related to establishment of State planning agencies to develop comprehensive State plans for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 302 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 200; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 201; Pub. L. 94–503, title I, § 110, Oct. 15, 1976, 90 Stat. 2412, related to establishment of State planning agencies to develop comprehensive State plans for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 **Amendments**
 
-2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
-2010—Subsec. (c)(3) to (6). Pub. L. 111–211, § 251(b)(1)(A), inserted “tribal,” after “State,” wherever appearing.
+2010—Subsec. (c)(3) to (6). Pub. L. 111–211, § 251(b)(1)(A), inserted “tribal,” after “State,” wherever appearing.
 
-Subsec. (c)(7). Pub. L. 111–211, § 251(b)(1)(B), inserted “and in Indian country” after “States”.
+Subsec. (c)(7). Pub. L. 111–211, § 251(b)(1)(B), inserted “and in Indian country” after “States”.
 
-Subsec. (c)(9). Pub. L. 111–211, § 251(b)(1)(C), substituted “Federal Government and State and tribal governments” for “Federal and State Governments”.
+Subsec. (c)(9). Pub. L. 111–211, § 251(b)(1)(C), substituted “Federal Government and State and tribal governments” for “Federal and State Governments”.
 
-Subsec. (c)(10), (11). Pub. L. 111–211, § 251(b)(1)(D), inserted “, tribal,” after “State”.
+Subsec. (c)(10), (11). Pub. L. 111–211, § 251(b)(1)(D), inserted “, tribal,” after “State”.
 
-Subsec. (c)(13). Pub. L. 111–211, § 251(b)(1)(E), inserted “, Indian tribes,” after “States”.
+Subsec. (c)(13). Pub. L. 111–211, § 251(b)(1)(E), inserted “, Indian tribes,” after “States”.
 
-Subsec. (c)(17). Pub. L. 111–211, § 251(b)(1)(F), substituted “activities at the Federal, State, tribal, and local” for “activities at the Federal, State and local” and “generated by Federal, State, tribal, and local” for “generated by Federal, State, and local”.
+Subsec. (c)(17). Pub. L. 111–211, § 251(b)(1)(F), substituted “activities at the Federal, State, tribal, and local” for “activities at the Federal, State and local” and “generated by Federal, State, tribal, and local” for “generated by Federal, State, and local”.
 
-Subsec. (c)(18). Pub. L. 111–211, § 251(b)(1)(G), substituted “State, tribal, and local” for “State and local”.
+Subsec. (c)(18). Pub. L. 111–211, § 251(b)(1)(G), substituted “State, tribal, and local” for “State and local”.
 
-Subsec. (c)(19). Pub. L. 111–211, § 251(b)(1)(H), inserted “and tribal” after “State” in two places.
+Subsec. (c)(19). Pub. L. 111–211, § 251(b)(1)(H), inserted “and tribal” after “State” in two places.
 
-Subsec. (c)(20). Pub. L. 111–211, § 251(b)(1)(I), inserted “, tribal,” after “State”.
+Subsec. (c)(20). Pub. L. 111–211, § 251(b)(1)(I), inserted “, tribal,” after “State”.
 
-Subsec. (c)(22). Pub. L. 111–211, § 251(b)(1)(J), inserted “, tribal,” after “Federal”.
+Subsec. (c)(22). Pub. L. 111–211, § 251(b)(1)(J), inserted “, tribal,” after “Federal”.
 
-Subsec. (d). Pub. L. 111–211, § 251(b)(2), designated existing provisions as par. (1), inserted par. (1) heading, substituted “To ensure” for “To insure”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), realigned margins, and added par. (2).
+Subsec. (d). Pub. L. 111–211, § 251(b)(2), designated existing provisions as par. (1), inserted par. (1) heading, substituted “To ensure” for “To insure”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), realigned margins, and added par. (2).
 
-Subsec. (e). Pub. L. 111–211, § 251(b)(3), substituted “subsection (d)(1)(C)” for “subsection (d)(3)”.
+Subsec. (e). Pub. L. 111–211, § 251(b)(3), substituted “subsection (d)(1)(C)” for “subsection (d)(3)”.
 
-Subsec. (f). Pub. L. 111–211, § 251(b)(4)(B), inserted “, tribal,” after “State”.
+Subsec. (f). Pub. L. 111–211, § 251(b)(4)(B), inserted “, tribal,” after “State”.
 
-Pub. L. 111–211, § 251(b)(4)(A), which directed insertion of “, tribal,” after “State” in heading, was executed editorially but could not be executed in original because heading had been editorially supplied.
+Pub. L. 111–211, § 251(b)(4)(A), which directed insertion of “, tribal,” after “State” in heading, was executed editorially but could not be executed in original because heading had been editorially supplied.
 
-Subsec. (g). Pub. L. 111–211, § 251(b)(5), added subsec. (g).
+Subsec. (g). Pub. L. 111–211, § 251(b)(5), added subsec. (g).
 
-2006—Subsec. (b). Pub. L. 109–162, § 1115(a)(1), inserted after third sentence “The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure.”
+2006—Subsec. (b). Pub. L. 109–162, § 1115(a)(1), inserted after third sentence “The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure.”
 
-Subsec. (c)(19). Pub. L. 109–162, § 1115(a)(2), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide for research and improvements in the accuracy, completeness, and inclusiveness of criminal history record information, information systems, arrest warrant, and stolen vehicle record information and information systems and support research concerning the accuracy, completeness, and inclusiveness of other criminal justice record information;”.
+Subsec. (c)(19). Pub. L. 109–162, § 1115(a)(2), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide for research and improvements in the accuracy, completeness, and inclusiveness of criminal history record information, information systems, arrest warrant, and stolen vehicle record information and information systems and support research concerning the accuracy, completeness, and inclusiveness of other criminal justice record information;”.
 
-Subsec. (d)(6). Pub. L. 109–162, § 1115(a)(3), added par. (6).
+Subsec. (d)(6). Pub. L. 109–162, § 1115(a)(3), added par. (6).
 
 1994—Subsec. (c)(19). Pub. L. 103–322 substituted a semicolon for period at end.
 
 1988—Subsec. (c)(16) to (23). Pub. L. 100–690 added pars. (16) to (19) and redesignated former pars. (16) to (19) as (20) to (23), respectively.
 
-1984—Subsec. (b). Pub. L. 98–473, § 605(b)(1), inserted provision requiring Director to report to Attorney General through Assistant Attorney General.
+1984—Subsec. (b). Pub. L. 98–473, § 605(b)(1), inserted provision requiring Director to report to Attorney General through Assistant Attorney General.
 
-Subsec. (c)(13). Pub. L. 98–473, § 605(b)(2)(A), (C), added par. (13) and struck out former par. (13) relating to provision of financial and technical assistance to States and units of local government relating to collection, analysis, or dissemination of justice statistics.
+Subsec. (c)(13). Pub. L. 98–473, § 605(b)(2)(A), (C), added par. (13) and struck out former par. (13) relating to provision of financial and technical assistance to States and units of local government relating to collection, analysis, or dissemination of justice statistics.
 
-Subsec. (c)(14), (15). Pub. L. 98–473, § 605(b)(2)(C), added pars. (14) and (15). Former pars. (14) and (15) redesignated (16) and (17), respectively.
+Subsec. (c)(14), (15). Pub. L. 98–473, § 605(b)(2)(C), added pars. (14) and (15). Former pars. (14) and (15) redesignated (16) and (17), respectively.
 
-Subsec. (c)(16). Pub. L. 98–473, § 605(b)(2)(A), (B), redesignated par. (14) as (16) and struck out former par. (16) relating to insuring conformance with security and privacy regulations issued under section 10231 of this title.
+Subsec. (c)(16). Pub. L. 98–473, § 605(b)(2)(A), (B), redesignated par. (14) as (16) and struck out former par. (16) relating to insuring conformance with security and privacy regulations issued under section 10231 of this title.
 
-Subsec. (c)(17). Pub. L. 98–473, § 605(b)(2)(B), redesignated par. (15) as (17). Former par. (17) redesignated (19).
+Subsec. (c)(17). Pub. L. 98–473, § 605(b)(2)(B), redesignated par. (15) as (17). Former par. (17) redesignated (19).
 
-Subsec. (c)(18). Pub. L. 98–473, § 605(b)(2)(D), added par. (18).
+Subsec. (c)(18). Pub. L. 98–473, § 605(b)(2)(D), added par. (18).
 
-Subsec. (c)(19). Pub. L. 98–473, § 605(b)(2)(B), redesignated former par. (17) as (19).
+Subsec. (c)(19). Pub. L. 98–473, § 605(b)(2)(B), redesignated former par. (17) as (19).
 
-Subsec. (d)(1). Pub. L. 98–473, § 605(b)(3)(A), inserted “, and to enter into agreements with such agencies and instrumentalities for purposes of data collection and analysis”.
+Subsec. (d)(1). Pub. L. 98–473, § 605(b)(3)(A), inserted “, and to enter into agreements with such agencies and instrumentalities for purposes of data collection and analysis”.
 
-Subsec. (d)(5). Pub. L. 98–473, § 605(b)(3)(B)–(D), added par. (5).
+Subsec. (d)(5). Pub. L. 98–473, § 605(b)(3)(B)–(D), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1529,7 +1529,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 **Construction of 2010 Amendment**
 
-Pub. L. 111–211, title II, § 251(c), July 29, 2010, 124 Stat. 2298, provided that:
+Pub. L. 111–211, title II, § 251(c), July 29, 2010, 124 Stat. 2298, provided that:
 
 > “Nothing in this section [amending this section and section 41507 of this title] or any amendment made by this section—
 
@@ -1541,7 +1541,7 @@ Pub. L. 111–211, title II, § 251(c), July 29, 2010, 124 Stat. 2298, provide
 
 **Report on Employment of Individuals Formerly Incarcerated in Federal Prisons**
 
-Pub. L. 116–92, div. A, title XI, § 1124, Dec. 20, 2019, 133 Stat. 1614, provided that:
+Pub. L. 116–92, div. A, title XI, § 1124, Dec. 20, 2019, 133 Stat. 1614, provided that:
 
 > **“(a) Definition.—** In this section, the term ‘covered individual’—
 
@@ -1569,7 +1569,7 @@ Pub. L. 116–92, div. A, title XI, § 1124, Dec. 20, 2019, 133 Stat. 1614, pr
 
 **Data Collection**
 
-Pub. L. 115–391, title VI, § 610, Dec. 21, 2018, 132 Stat. 5245, provided that:
+Pub. L. 115–391, title VI, § 610, Dec. 21, 2018, 132 Stat. 5245, provided that:
 
 > **“(a) National Prisoner Statistics Program.—** Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], and annually thereafter, pursuant to the authority under section 302 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3732) [now 34 U.S.C. 10132], the Director of the Bureau of Justice Statistics, with information that shall be provided by the Director of the Bureau of Prisons, shall include in the National Prisoner Statistics Program the following:
 
@@ -1633,7 +1633,7 @@ Pub. L. 113–235, div. B, title II, Dec. 16, 2014, 128 Stat. 2191, provided in 
 
 **Study of Crimes Against Seniors**
 
-Pub. L. 106–534, § 5, Nov. 22, 2000, 114 Stat. 2557, provided that:
+Pub. L. 106–534, § 5, Nov. 22, 2000, 114 Stat. 2557, provided that:
 
 > **“(a) In General.—** The Attorney General shall conduct a study relating to crimes against seniors, in order to assist in developing new strategies to prevent and otherwise reduce the incidence of those crimes.
 
@@ -1659,7 +1659,7 @@ Pub. L. 106–534, § 5, Nov. 22, 2000, 114 Stat. 2557, provided that:
 
 **Inclusion of Seniors in National Crime Victimization Survey**
 
-Pub. L. 106–534, § 6, Nov. 22, 2000, 114 Stat. 2557, provided that:
+Pub. L. 106–534, § 6, Nov. 22, 2000, 114 Stat. 2557, provided that:
 
 > “Beginning not later than 2 years after the date of enactment of this Act [Nov. 22, 2000], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to—
 
@@ -1671,7 +1671,7 @@ Pub. L. 106–534, § 6, Nov. 22, 2000, 114 Stat. 2557, provided that:
 
 **Crime Victims With Disabilities Awareness**
 
-Pub. L. 105–301, Oct. 27, 1998, 112 Stat. 2838, as amended by Pub. L. 106–402, title IV, § 401(b)(10), Oct. 30, 2000, 114 Stat. 1739, provided that:
+Pub. L. 105–301, Oct. 27, 1998, 112 Stat. 2838, as amended by Pub. L. 106–402, title IV, § 401(b)(10), Oct. 30, 2000, 114 Stat. 1739, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -1735,11 +1735,11 @@ Pub. L. 105–301, Oct. 27, 1998, 112 Stat. 2838, as amended by Pub. L. 106–40
 
 > **“(2)** the specific characteristics of the victims of those crimes.”
 
-### § 10133. Authority for 100 per centum grants
+### § 10133. Authority for 100 per centum grants
 
 A grant authorized under this subchapter may be up to 100 per centum of the total cost of each project for which such grant is made. The Bureau shall require, whenever feasible as a condition of approval of a grant under this subchapter, that the recipient contribute money, facilities, or services to carry out the purposes for which the grant is sought.
 
-(Pub. L. 90–351, title I, § 303, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1178.)
+(Pub. L. 90–351, title I, § 303, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1178.)
 
 **Editorial Notes**
 
@@ -1749,13 +1749,13 @@ Section was formerly classified to section 3733 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 303 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 201; Pub. L. 91–644, title I, § 4(5), (6), Jan. 2, 1971, 84 Stat. 1883; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 201; Pub. L. 93–415, title V, § 543, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–503, title I, § 111, Oct. 15, 1976, 90 Stat. 2413; Pub. L. 96–181, § 15(b), Jan. 2, 1980, 93 Stat. 1316, set out requirements of State plans in order to qualify for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 303 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 201; Pub. L. 91–644, title I, § 4(5), (6), Jan. 2, 1971, 84 Stat. 1883; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 201; Pub. L. 93–415, title V, § 543, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–503, title I, § 111, Oct. 15, 1976, 90 Stat. 2413; Pub. L. 96–181, § 15(b), Jan. 2, 1980, 93 Stat. 1316, set out requirements of State plans in order to qualify for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-### § 10134. Use of data
+### § 10134. Use of data
 
 Data collected by the Bureau shall be used only for statistical or research purposes, and shall be gathered in a manner that precludes their use for law enforcement or any purpose relating to a private person or public agency other than statistical or research purposes.
 
-(Pub. L. 90–351, title I, § 304, formerly § 305, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1179; renumbered § 304, Pub. L. 98–473, title II, § 605(d), Oct. 12, 1984, 98 Stat. 2080; amended Pub. L. 109–162, title XI, § 1115(b), Jan. 5, 2006, 119 Stat. 3104.)
+(Pub. L. 90–351, title I, § 304, formerly § 305, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1179; renumbered § 304, Pub. L. 98–473, title II, § 605(d), Oct. 12, 1984, 98 Stat. 2080; amended Pub. L. 109–162, title XI, § 1115(b), Jan. 5, 2006, 119 Stat. 3104.)
 
 **Editorial Notes**
 
@@ -1765,7 +1765,7 @@ Section was formerly classified to section 3735 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 304 of Pub. L. 90–351, as added by Pub. L. 96–157, was classified to section 3734 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 98–473, title II, § 605(c), Oct. 12, 1984, 98 Stat. 2080.
+A prior section 304 of Pub. L. 90–351, as added by Pub. L. 96–157, was classified to section 3734 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 98–473, title II, § 605(c), Oct. 12, 1984, 98 Stat. 2080.
 
 **Amendments**
 
@@ -1777,15 +1777,15 @@ A prior section 304 of Pub. L. 90–351, as added by Pub. L. 96–157, was class
 
 **Prior Provisions**
 
-This subchapter is comprised of part D (§ 401 et seq.) of title I of Pub. L. 90–351. A prior part D related to block grants by Bureau of Justice Assistance, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328. For similar provisions, see part A (§ 10151 et seq.) of subchapter V of this chapter.
+This subchapter is comprised of part D (§ 401 et seq.) of title I of Pub. L. 90–351. A prior part D related to block grants by Bureau of Justice Assistance, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328. For similar provisions, see part A (§ 10151 et seq.) of subchapter V of this chapter.
 
-### § 10141. Establishment of Bureau of Justice Assistance
+### § 10141. Establishment of Bureau of Justice Assistance
 
 **(a)** There is established within the Department of Justice, under the general authority of the Attorney General, a Bureau of Justice Assistance (hereafter in this subchapter referred to as the “Bureau”).
 
 **(b)** The Bureau shall be headed by a Director (hereafter in this subchapter referred to as the “Director”) who shall be appointed by the President. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall have final authority for all grants, cooperative agreements, and contracts awarded by the Bureau. The Director shall not engage in any employment other than that of serving as the Director, nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Bureau makes any contract or other arrangement under this chapter.
 
-(Pub. L. 90–351, title I, § 401, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328; amended Pub. L. 112–166, § 2(h)(2), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 90–351, title I, § 401, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328; amended Pub. L. 112–166, § 2(h)(2), Aug. 10, 2012, 126 Stat. 1285.)
 
 **Editorial Notes**
 
@@ -1795,15 +1795,15 @@ Section was formerly classified to section 3741 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 401 of Pub. L. 90–351, title I, as added Pub. L. 98–473, title II, § 606, Oct. 12, 1984, 98 Stat. 2080; amended Pub. L. 99–570, title I, § 1552(b)(1), Oct. 27, 1986, 100 Stat. 3207–46, related to establishment of Bureau of Justice Assistance, appointment of Director, and authority and restrictions with regard to Director, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+A prior section 401 of Pub. L. 90–351, title I, as added Pub. L. 98–473, title II, § 606, Oct. 12, 1984, 98 Stat. 2080; amended Pub. L. 99–570, title I, § 1552(b)(1), Oct. 27, 1986, 100 Stat. 3207–46, related to establishment of Bureau of Justice Assistance, appointment of Director, and authority and restrictions with regard to Director, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Another prior section 401 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1179, described formula grant program, prior to the general amendment of part D of title I of Pub. L. 90–351 by Pub. L. 98–473.
+Another prior section 401 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1179, described formula grant program, prior to the general amendment of part D of title I of Pub. L. 90–351 by Pub. L. 98–473.
 
-Another prior section 401 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 203; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 205, set out the Congressional statement of purposes in making provision for training, education, research, demonstration, and special grants, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+Another prior section 401 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 203; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 205, set out the Congressional statement of purposes in making provision for training, education, research, demonstration, and special grants, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
-2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1813,9 +1813,9 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 **Transfer of Functions**
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(b)], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Notwithstanding any other provision of law, effective August 1, 2000, all functions of the Director of the Bureau of Justice Assistance, other than those enumerated in the Omnibus Crime Control and Safe Streets Act, as amended, 42 U.S.C. 3742(3) through (6) [now 34 U.S.C. 10142(3)–(6)], are transferred to the Assistant Attorney General for the Office of Justice Programs.”
+Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(b)], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Notwithstanding any other provision of law, effective August 1, 2000, all functions of the Director of the Bureau of Justice Assistance, other than those enumerated in the Omnibus Crime Control and Safe Streets Act, as amended, 42 U.S.C. 3742(3) through (6) [now 34 U.S.C. 10142(3)–(6)], are transferred to the Assistant Attorney General for the Office of Justice Programs.”
 
-### § 10142. Duties and functions of Director
+### § 10142. Duties and functions of Director
 
 The Director shall have the following duties:
 
@@ -1835,7 +1835,7 @@ The Director shall have the following duties:
 
 **(8)** Exercising such other powers and functions as may be vested in the Director pursuant to this chapter or by delegation of the Attorney General or Assistant Attorney General.
 
-(Pub. L. 90–351, title I, § 402, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328; amended Pub. L. 101–647, title II, § 241(b)(1), Nov. 29, 1990, 104 Stat. 4813.)
+(Pub. L. 90–351, title I, § 402, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328; amended Pub. L. 101–647, title II, § 241(b)(1), Nov. 29, 1990, 104 Stat. 4813.)
 
 **Editorial Notes**
 
@@ -1845,11 +1845,11 @@ Section was formerly classified to section 3742 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 402 of Pub. L. 90–351, title I, as added Pub. L. 98–473, title II, § 606, Oct. 12, 1984, 98 Stat. 2080, related to duties and functions of Director, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+A prior section 402 of Pub. L. 90–351, title I, as added Pub. L. 98–473, title II, § 606, Oct. 12, 1984, 98 Stat. 2080, related to duties and functions of Director, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Another prior section 402 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1181, related to eligibility provisions for formula grants, prior to the general amendment of part D of title I of Pub. L. 90–351 by Pub. L. 98–473.
+Another prior section 402 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1181, related to eligibility provisions for formula grants, prior to the general amendment of part D of title I of Pub. L. 90–351 by Pub. L. 98–473.
 
-Another prior section 402 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 203; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 205; Pub. L. 94–503, title I, § 117, Oct. 15, 1976, 90 Stat. 2416, provided for creation of a National Institute of Law Enforcement and Criminal Justice, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+Another prior section 402 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 203; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 205; Pub. L. 94–503, title I, § 117, Oct. 15, 1976, 90 Stat. 2416, provided for creation of a National Institute of Law Enforcement and Criminal Justice, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
@@ -1859,7 +1859,7 @@ Another prior section 402 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in pars. (3) to (6) of this section, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in pars. (3) to (6) of this section, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
 ## SUBCHAPTER V—BUREAU OF JUSTICE ASSISTANCE GRANT PROGRAMS
 
@@ -1867,9 +1867,9 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 **Prior Provisions**
 
-This subchapter is comprised of part E (§ 500 et seq.) of title I of Pub. L. 90–351. A prior part E (formerly part F) related to discretionary grants, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+This subchapter is comprised of part E (§ 500 et seq.) of title I of Pub. L. 90–351. A prior part E (formerly part F) related to discretionary grants, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Another prior part E (§ 501 et seq.) of title I of Pub. L. 90–351 related to national priority grants, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
+Another prior part E (§ 501 et seq.) of title I of Pub. L. 90–351 related to national priority grants, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
 
 ### Part A—Edward Byrne Memorial Justice Assistance Grant Program
 
@@ -1877,9 +1877,9 @@ Another prior part E (§ 501 et seq.) of title I of Pub. L. 90–351 related t
 
 **Prior Provisions**
 
-This part is comprised of subpart 1 (§ 501 et seq.) of part E of title I of Pub. L. 90–351. A prior subpart 1 (§ 501 et seq.) related to the drug control and system improvement grant program, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
+This part is comprised of subpart 1 (§ 501 et seq.) of part E of title I of Pub. L. 90–351. A prior subpart 1 (§ 501 et seq.) related to the drug control and system improvement grant program, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-#### § 10151. Name of program
+#### § 10151. Name of program
 
 **(a) In general**
 
@@ -1891,17 +1891,17 @@ The grant program established under this part shall be known as the “Edward By
 
 **(2)** Any reference in a law, regulation, document, paper, or other record of the United States to section 506 of this Act as such section was in effect on the date of the enactment of the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be deemed to be a reference to section 505(a) of this Act as amended by the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009.1
 
-(Pub. L. 90–351, title I, § 500, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4329; amended Pub. L. 109–162, title XI, § 1111(a)(2)(B), Jan. 5, 2006, 119 Stat. 3094.)
+(Pub. L. 90–351, title I, § 500, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4329; amended Pub. L. 109–162, title XI, § 1111(a)(2)(B), Jan. 5, 2006, 119 Stat. 3094.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (b)(2), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. Former section 506 of the Act was classified to section 3756 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), Jan. 5, 2006, 119 Stat. 3094. Section 505(a) of the Act is classified to section 10156(a) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+This Act, referred to in subsec. (b)(2), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. Former section 506 of the Act was classified to section 3756 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), Jan. 5, 2006, 119 Stat. 3094. Section 505(a) of the Act is classified to section 10156(a) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 The Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009, referred to in subsec. (b)(2), probably means the Violence Against Women and Department of Justice Reauthorization Act of 2005, Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960, which repealed former section 3756 of this title and enacted section 10156 of this title. See note above.
 
@@ -1917,9 +1917,9 @@ Section was formerly classified to section 3750 of Title 42, The Public Health a
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–162, title XI, § 1111(d), Jan. 5, 2006, 119 Stat. 3102, provided that: “The amendments made by this section [see Tables for classification] shall apply with respect to the first fiscal year beginning after the date of the enactment of this Act [Jan. 5, 2006] and each fiscal year thereafter.”
+Pub. L. 109–162, title XI, § 1111(d), Jan. 5, 2006, 119 Stat. 3102, provided that: “The amendments made by this section [see Tables for classification] shall apply with respect to the first fiscal year beginning after the date of the enactment of this Act [Jan. 5, 2006] and each fiscal year thereafter.”
 
-#### § 10152. Description
+#### § 10152. Description
 
 **(a) Grants authorized**
 
@@ -2017,7 +2017,7 @@ Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indi
 
 **(4)** efforts that the Attorney General is making, in coordination with the grant recipients, to protect the constitutional rights of individuals subject to the crisis intervention programs or initiatives.
 
-(Pub. L. 90–351, title I, § 501, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3095; amended Pub. L. 109–271, § 8(h), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–255, div. B, title XIV, § 14001(a), Dec. 13, 2016, 130 Stat. 1287; Pub. L. 117–159, div. A, title II, § 12003, June 25, 2022, 136 Stat. 1325; Pub. L. 119–60, div. H, title LXXXVI, § 8603, Dec. 18, 2025, 139 Stat. 1943.)
+(Pub. L. 90–351, title I, § 501, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3095; amended Pub. L. 109–271, § 8(h), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–255, div. B, title XIV, § 14001(a), Dec. 13, 2016, 130 Stat. 1287; Pub. L. 117–159, div. A, title II, § 12003, June 25, 2022, 136 Stat. 1325; Pub. L. 119–60, div. H, title LXXXVI, § 8603, Dec. 18, 2025, 139 Stat. 1943.)
 
 **Editorial Notes**
 
@@ -2031,23 +2031,23 @@ Section was formerly classified to section 3751 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 501 of title I of Pub. L. 90–351, as added and amended Pub. L. 100–690, title V, § 5104, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, § 601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, § 100003, title XIV, § 140004, title XV, § 150003, title XXI, § 210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065; Pub. L. 104–132, title VIII, § 822(a), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 106–177, title I, § 103, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–310, div. B, title XXXVI, § 3621(b), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 106–561, § 2(a), Dec. 21, 2000, 114 Stat. 2787, related to description of drug control and system improvement grant program, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
+A prior section 501 of title I of Pub. L. 90–351, as added and amended Pub. L. 100–690, title V, § 5104, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, § 601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, § 100003, title XIV, § 140004, title XV, § 150003, title XXI, § 210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065; Pub. L. 104–132, title VIII, § 822(a), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 106–177, title I, § 103, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–310, div. B, title XXXVI, § 3621(b), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 106–561, § 2(a), Dec. 21, 2000, 114 Stat. 2787, related to description of drug control and system improvement grant program, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-Another prior section 501 of title I of Pub. L. 90–351, formerly § 601, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1195; renumbered § 501 and amended Pub. L. 98–473, title II, § 608(a), Oct. 12, 1984, 98 Stat. 2086, related to Congressional statement of purpose regarding discretionary grants, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Another prior section 501 of title I of Pub. L. 90–351, formerly § 601, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1195; renumbered § 501 and amended Pub. L. 98–473, title II, § 608(a), Oct. 12, 1984, 98 Stat. 2086, related to Congressional statement of purpose regarding discretionary grants, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Another prior section 501 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1192, set out Congressional statement of purpose of national priority grants, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
+Another prior section 501 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1192, set out Congressional statement of purpose of national priority grants, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
 
-Another prior section 501 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, § 120, Oct. 15, 1976, 90 Stat. 2418, related to administrative rules, regulations, and procedures, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+Another prior section 501 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, § 120, Oct. 15, 1976, 90 Stat. 2418, related to administrative rules, regulations, and procedures, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
 2025—Subsec. (a)(1)(J), (K). Pub. L. 119–60 added subpars. (J) and (K).
 
-2022—Subsec. (a)(1). Pub. L. 117–159, § 12003(a)(1), inserted “or civil proceedings” after “criminal justice” in introductory provisions.
+2022—Subsec. (a)(1). Pub. L. 117–159, § 12003(a)(1), inserted “or civil proceedings” after “criminal justice” in introductory provisions.
 
-Subsec. (a)(1)(I). Pub. L. 117–159, § 12003(a)(2), added subpar. (I).
+Subsec. (a)(1)(I). Pub. L. 117–159, § 12003(a)(2), added subpar. (I).
 
-Subsec. (h). Pub. L. 117–159, § 12003(b), added subsec. (h).
+Subsec. (h). Pub. L. 117–159, § 12003(b), added subsec. (h).
 
 2016—Subsec. (a)(1)(H). Pub. L. 114–255 added subpar. (H).
 
@@ -2059,9 +2059,9 @@ Subsec. (h). Pub. L. 117–159, § 12003(b), added subsec. (h).
 
 Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
 
-#### § 10153. Applications
+#### § 10153. Applications
 
-**(a) 1 [footnote: 1 So in original. Probably should be “(a)”.] In general** To request a grant under this part, the chief executive officer of a State or unit of local government shall submit an application to the Attorney General within 120 days after the date on which funds to carry out this part are appropriated for a fiscal year, in such form as the Attorney General may require. Such application shall include the following:
+**(a) 1 [footnote: 1 So in original. Probably should be “(a)”.] In general** To request a grant under this part, the chief executive officer of a State or unit of local government shall submit an application to the Attorney General within 120 days after the date on which funds to carry out this part are appropriated for a fiscal year, in such form as the Attorney General may require. Such application shall include the following:
 
 **(1)** A certification that Federal funds made available under this part will not be used to supplant State or local funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for law enforcement activities.
 
@@ -2123,7 +2123,7 @@ Not later than 90 days after December 16, 2016, the Attorney General shall begin
 
 For each of fiscal years 2017 through 2021, of the amounts appropriated to carry out this subpart, not less than $5,000,000 and not more than $10,000,000 shall be used to carry out this subsection.
 
-(Pub. L. 90–351, title I, § 502, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3096; amended Pub. L. 109–271, § 8(i), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–324, § 14(b), Dec. 16, 2016, 130 Stat. 1958.)
+(Pub. L. 90–351, title I, § 502, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3096; amended Pub. L. 109–271, § 8(i), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–324, § 14(b), Dec. 16, 2016, 130 Stat. 1958.)
 
 **Editorial Notes**
 
@@ -2133,19 +2133,19 @@ Section was formerly classified to section 3752 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 502 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4331, related to eligibility of a State for financial assistance, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
+A prior section 502 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4331, related to eligibility of a State for financial assistance, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-Another prior section 502 of title I of Pub. L. 90–351, formerly § 602, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1195; renumbered § 502 and amended Pub. L. 98–473, title II, § 608(a), Oct. 12, 1984, 98 Stat. 2086, related to percentage of appropriation for discretionary grant program, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Another prior section 502 of title I of Pub. L. 90–351, formerly § 602, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1195; renumbered § 502 and amended Pub. L. 98–473, title II, § 608(a), Oct. 12, 1984, 98 Stat. 2086, related to percentage of appropriation for discretionary grant program, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Another prior section 502 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1192, prescribed percentage of appropriation for national priority grant program, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
+Another prior section 502 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1192, prescribed percentage of appropriation for national priority grant program, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
 
-Another prior section 502 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211, made provision for delegation of functions of Law Enforcement Assistance Administration to other officers of Department of Justice, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+Another prior section 502 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211, made provision for delegation of functions of Law Enforcement Assistance Administration to other officers of Department of Justice, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
 2016—Pub. L. 114–324 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Subsec. (a)(6). Pub. L. 114–324, § 14(b)(2), added par. (6).
+Subsec. (a)(6). Pub. L. 114–324, § 14(b)(2), added par. (6).
 
 2006—Pub. L. 109–271 substituted “120 days” for “90 days” in introductory provisions.
 
@@ -2157,17 +2157,17 @@ Section applicable with respect to the first fiscal year beginning after Jan. 5,
 
 **Applicability of 2016 Amendment**
 
-Pub. L. 114–324, § 14(c), Dec. 16, 2016, 130 Stat. 1959, provided that: “The requirement to submit a strategic plan under section 501(a)(6) [probably should be “502(a)(6)”] of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10153(a)(6)], as added by subsection (b), shall apply to any application submitted under such section 501 [502] for a grant for any fiscal year beginning after the date that is 1 year after the date of enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–324, § 14(c), Dec. 16, 2016, 130 Stat. 1959, provided that: “The requirement to submit a strategic plan under section 501(a)(6) [probably should be “502(a)(6)”] of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10153(a)(6)], as added by subsection (b), shall apply to any application submitted under such section 501 [502] for a grant for any fiscal year beginning after the date that is 1 year after the date of enactment of this Act [Dec. 16, 2016].”
 
 **Active-Shooter Training for Law Enforcement**
 
-Pub. L. 114–255, div. B, title XIV, § 14011, Dec. 13, 2016, 130 Stat. 1297, provided that: “The Attorney General, as part of the Preventing Violence Against Law Enforcement and Ensuring Officer Resilience and Survivability Initiative (VALOR) of the Department of Justice, may provide safety training and technical assistance to local law enforcement agencies, including active-shooter response training.”
+Pub. L. 114–255, div. B, title XIV, § 14011, Dec. 13, 2016, 130 Stat. 1297, provided that: “The Attorney General, as part of the Preventing Violence Against Law Enforcement and Ensuring Officer Resilience and Survivability Initiative (VALOR) of the Department of Justice, may provide safety training and technical assistance to local law enforcement agencies, including active-shooter response training.”
 
-#### § 10154. Review of applications
+#### § 10154. Review of applications
 
 The Attorney General shall not finally disapprove any application (or any amendment to that application) submitted under this part without first affording the applicant reasonable notice of any deficiencies in the application and opportunity for correction and reconsideration.
 
-(Pub. L. 90–351, title I, § 503, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097.)
+(Pub. L. 90–351, title I, § 503, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097.)
 
 **Editorial Notes**
 
@@ -2177,13 +2177,13 @@ Section was formerly classified to section 3753 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 503 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4331; amended Pub. L. 101–649, title V, § 507(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, § 306(a)(6), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 103–322, title XXI, § 210302(b), Sept. 13, 1994, 108 Stat. 2065; Pub. L. 106–546, § 8(a), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 106–561, § 2(b), Dec. 21, 2000, 114 Stat. 2787; Pub. L. 107–273, div. B, title V, § 5001(a), Nov. 2, 2002, 116 Stat. 1813, related to State applications, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter. See section 10153 of this title.
+A prior section 503 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4331; amended Pub. L. 101–649, title V, § 507(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, § 306(a)(6), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 103–322, title XXI, § 210302(b), Sept. 13, 1994, 108 Stat. 2065; Pub. L. 106–546, § 8(a), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 106–561, § 2(b), Dec. 21, 2000, 114 Stat. 2787; Pub. L. 107–273, div. B, title V, § 5001(a), Nov. 2, 2002, 116 Stat. 1813, related to State applications, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter. See section 10153 of this title.
 
-Another prior section 503 of title I of Pub. L. 90–351, formerly § 603, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1196; renumbered § 503 and amended Pub. L. 98–473, title II, § 608(a), Oct. 12, 1984, 98 Stat. 2086, related to procedure for establishing discretionary programs, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Another prior section 503 of title I of Pub. L. 90–351, formerly § 603, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1196; renumbered § 503 and amended Pub. L. 98–473, title II, § 608(a), Oct. 12, 1984, 98 Stat. 2086, related to procedure for establishing discretionary programs, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Another prior section 503 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1192, prescribed procedure for designating national priority programs, including periodic and joint designations by Director of Office of Justice Assistance, Research, and Statistics and Administrator of Law Enforcement Assistance Administration and requests to outside agencies for suggestions, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
+Another prior section 503 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1192, prescribed procedure for designating national priority programs, including periodic and joint designations by Director of Office of Justice Assistance, Research, and Statistics and Administrator of Law Enforcement Assistance Administration and requests to outside agencies for suggestions, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
 
-Another prior section 503 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211, required specific Congressional authorization to transfer functions, powers, and duties of Law Enforcement Assistance Administration within the Department of Justice, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+Another prior section 503 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211, required specific Congressional authorization to transfer functions, powers, and duties of Law Enforcement Assistance Administration within the Department of Justice, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2191,11 +2191,11 @@ Another prior section 503 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
 
-#### § 10155. Rules
+#### § 10155. Rules
 
 The Attorney General shall issue rules to carry out this part. The first such rules shall be issued not later than one year after the date on which amounts are first made available to carry out this part.
 
-(Pub. L. 90–351, title I, § 504, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097.)
+(Pub. L. 90–351, title I, § 504, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097.)
 
 **Editorial Notes**
 
@@ -2205,13 +2205,13 @@ Section was formerly classified to section 3754 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 504 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4333; amended Pub. L. 101–162, title II, § 211, Nov. 21, 1989, 103 Stat. 1006; Pub. L. 101–515, title II, § 207, Nov. 5, 1990, 104 Stat. 2119; Pub. L. 101–647, title VI, § 601(a), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 102–140, title I, §§ 108, 109, Oct. 28, 1991, 105 Stat. 794; Pub. L. 103–322, title XV, § 150009, Sept. 13, 1994, 108 Stat. 2036; Pub. L. 107–273, div. A, title II, § 203(a)(1), Nov. 2, 2002, 116 Stat. 1775, related to grant limitations, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
+A prior section 504 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4333; amended Pub. L. 101–162, title II, § 211, Nov. 21, 1989, 103 Stat. 1006; Pub. L. 101–515, title II, § 207, Nov. 5, 1990, 104 Stat. 2119; Pub. L. 101–647, title VI, § 601(a), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 102–140, title I, §§ 108, 109, Oct. 28, 1991, 105 Stat. 794; Pub. L. 103–322, title XV, § 150009, Sept. 13, 1994, 108 Stat. 2036; Pub. L. 107–273, div. A, title II, § 203(a)(1), Nov. 2, 2002, 116 Stat. 1775, related to grant limitations, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-Another prior section 504 of title I of Pub. L. 90–351, formerly § 604, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1197; renumbered § 504 and amended Pub. L. 98–473, title II, § 608(b), (f), Oct. 12, 1984, 98 Stat. 2087, related to application requirements for discretionary grants, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Another prior section 504 of title I of Pub. L. 90–351, formerly § 604, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1197; renumbered § 504 and amended Pub. L. 98–473, title II, § 608(b), (f), Oct. 12, 1984, 98 Stat. 2087, related to application requirements for discretionary grants, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Another prior section 504 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1193, prescribed application requirements, including contents of applications, certifications, review by State criminal justice councils, and private nonprofit organizations, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
+Another prior section 504 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1193, prescribed application requirements, including contents of applications, certifications, review by State criminal justice councils, and private nonprofit organizations, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
 
-Another prior section 504 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211, provided for place for holding of hearings, signing and issuance of subpenas, administering of oaths, the examination of witnesses, and reception of evidence by Administration personnel, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+Another prior section 504 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211, provided for place for holding of hearings, signing and issuance of subpenas, administering of oaths, the examination of witnesses, and reception of evidence by Administration personnel, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2219,7 +2219,7 @@ Another prior section 504 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
 
-#### § 10156. Formula
+#### § 10156. Formula
 
 **(a) Allocation among States**
 
@@ -2333,7 +2333,7 @@ In carrying out this section with respect to the State of Louisiana, the term �
 
 For purposes of this section, the term “part 1 violent crimes” shall include severe forms of trafficking in persons (as defined in section 7102 of title 22).
 
-(Pub. L. 90–351, title I, § 505, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097; amended Pub. L. 114–22, title I, § 107, May 29, 2015, 129 Stat. 238.)
+(Pub. L. 90–351, title I, § 505, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097; amended Pub. L. 114–22, title I, § 107, May 29, 2015, 129 Stat. 238.)
 
 **Editorial Notes**
 
@@ -2343,11 +2343,11 @@ Section was formerly classified to section 3755 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 505 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4333, related to review of State applications, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
+A prior section 505 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4333, related to review of State applications, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-Another prior section 505 of title I of Pub. L. 90–351, formerly § 605, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1197; renumbered § 505 and amended Pub. L. 98–473, title II, § 608(c), Oct. 12, 1984, 98 Stat. 2087, related to criteria for award, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Another prior section 505 of title I of Pub. L. 90–351, formerly § 605, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1197; renumbered § 505 and amended Pub. L. 98–473, title II, § 608(c), Oct. 12, 1984, 98 Stat. 2087, related to criteria for award, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Another prior section 505 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1194, set out criteria for award of national priority grants, including establishment of reasonable requirements, maximum per centum of grant funds, funds reserved or set aside but not used in the fiscal year, and three-year period for financial aid and assistance and extension or renewal of period, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
+Another prior section 505 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1194, set out criteria for award of national priority grants, including establishment of reasonable requirements, maximum per centum of grant funds, funds reserved or set aside but not used in the fiscal year, and three-year period for financial aid and assistance and extension or renewal of period, prior to repeal by Pub. L. 98–473, title II, § 607, Oct. 12, 1984, 98 Stat. 2086.
 
 Another prior section 505 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205, amended section 5315 of Title 5, Government Organization and Employees.
 
@@ -2361,7 +2361,7 @@ Another prior section 505 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
 
-#### § 10157. Reserved funds
+#### § 10157. Reserved funds
 
 **(a)** Of the total amount made available to carry out this part for a fiscal year, the Attorney General shall reserve not more than—
 
@@ -2375,7 +2375,7 @@ Section applicable with respect to the first fiscal year beginning after Jan. 5,
 
 **(2)** to prevent, compensate for, or mitigate significant programmatic harm resulting from operation of the formula established under section 10156 of this title.
 
-(Pub. L. 90–351, title I, § 506, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3100.)
+(Pub. L. 90–351, title I, § 506, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3100.)
 
 **Editorial Notes**
 
@@ -2385,9 +2385,9 @@ Section was formerly classified to section 3756 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 506 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4334; amended Pub. L. 101–162, title II, § 212, Nov. 21, 1989, 103 Stat. 998, 1006; Pub. L. 101–302, title III, § 320(c)(1), May 25, 1990, 104 Stat. 248; Pub. L. 101–647, title XVIII, § 1804, Nov. 29, 1990, 104 Stat. 4851; Pub. L. 103–322, title XXXIII, § 330001(a), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–273, div. A, title II, § 203(a)(2), Nov. 2, 2002, 116 Stat. 1775, related to allocation and distribution of funds under formula grants, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter. See section 10156(a) of this title.
+A prior section 506 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4334; amended Pub. L. 101–162, title II, § 212, Nov. 21, 1989, 103 Stat. 998, 1006; Pub. L. 101–302, title III, § 320(c)(1), May 25, 1990, 104 Stat. 248; Pub. L. 101–647, title XVIII, § 1804, Nov. 29, 1990, 104 Stat. 4851; Pub. L. 103–322, title XXXIII, § 330001(a), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–273, div. A, title II, § 203(a)(2), Nov. 2, 2002, 116 Stat. 1775, related to allocation and distribution of funds under formula grants, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter. See section 10156(a) of this title.
 
-Another prior section 506 of title I of Pub. L. 90–351, formerly § 606, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1197; renumbered § 506 and amended Pub. L. 98–473, title II, § 608(d), Oct. 12, 1984, 98 Stat. 2087, related to period for award of discretionary grants, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Another prior section 506 of title I of Pub. L. 90–351, formerly § 606, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1197; renumbered § 506 and amended Pub. L. 98–473, title II, § 608(d), Oct. 12, 1984, 98 Stat. 2087, related to period for award of discretionary grants, prior to repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
 Another prior section 506 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205, amended section 5316 of Title 5, Government Organization and Employees.
 
@@ -2397,7 +2397,7 @@ Another prior section 506 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
 
-#### § 10158. Interest-bearing trust funds
+#### § 10158. Interest-bearing trust funds
 
 **(a) Trust fund required**
 
@@ -2421,7 +2421,7 @@ If a State or unit of local government fails to comply with paragraphs (1) and (
 
 Amounts received as repayments under this section shall be subject to section 10108 of this title as if such amounts had not been granted and repaid. Such amounts shall be deposited in the Treasury in a dedicated fund for use by the Attorney General to carry out this part. Such funds are hereby made available to carry out this part.
 
-(Pub. L. 90–351, title I, § 507, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3100.)
+(Pub. L. 90–351, title I, § 507, as added Pub. L. 109–162, title XI, § 1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3100.)
 
 **Editorial Notes**
 
@@ -2431,9 +2431,9 @@ Section was formerly classified to section 3757 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 507 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4335, related to designation and purposes of a State office, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
+A prior section 507 of title I of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4335, related to designation and purposes of a State office, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-Another prior section 507 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, §§ 119(b), 121, Oct. 15, 1976, 90 Stat. 2417, 2418, related to officers, employees, and hearing examiners, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+Another prior section 507 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, §§ 119(b), 121, Oct. 15, 1976, 90 Stat. 2417, 2418, related to officers, employees, and hearing examiners, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2441,25 +2441,25 @@ Another prior section 507 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
 
-#### § 10159. Law enforcement training programs
+#### § 10159. Law enforcement training programs
 
-**(a) Definition** In this section, the term “certified training program or course” means a program or course using 1 or more of the training curricula developed or identified under section 10381(n)(1) 1
+**(a) Definition** In this section, the term “certified training program or course” means a program or course using 1 or more of the training curricula developed or identified under section 10381(n)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, or equivalents to such training curricula—
 
-**(1)** that is provided by the Attorney General under section 10381(n)(3) <sup>1</sup> of this title; or
+**(1)** that is provided by the Attorney General under section 10381(n)(3) <sup>1</sup> of this title; or
 
 **(2)** that is—
 
-**(A)** provided by a public or private entity, including the personnel of a law enforcement agency or law enforcement training academy of a State or unit of local government who have been trained to offer training programs or courses under section 10381(n)(3) <sup>1</sup> of this title; and
+**(A)** provided by a public or private entity, including the personnel of a law enforcement agency or law enforcement training academy of a State or unit of local government who have been trained to offer training programs or courses under section 10381(n)(3) <sup>1</sup> of this title; and
 
-**(B)** certified by the Attorney General under section 10381(n)(2) <sup>1</sup> of this title.
+**(B)** certified by the Attorney General under section 10381(n)(2) <sup>1</sup> of this title.
 
 **(b) Authority**
 
-**(1) In general** Not later than 90 days after the Attorney General completes the activities required by paragraphs (1) and (2) of section 10381(n) <sup>1</sup> of this title, the Attorney General shall, from amounts made available to fund training programs pursuant to subsection (h), make grants to States for use by the State or a unit of government located in the State to—
+**(1) In general** Not later than 90 days after the Attorney General completes the activities required by paragraphs (1) and (2) of section 10381(n) <sup>1</sup> of this title, the Attorney General shall, from amounts made available to fund training programs pursuant to subsection (h), make grants to States for use by the State or a unit of government located in the State to—
 
 **(A)** pay for—
 
@@ -2467,7 +2467,7 @@ of this title, or equivalents to such training curricula—
 
 **(ii)** attendance by law enforcement officers or covered mental health professionals at a certified training program or course, including a course provided by a law enforcement training academy of a State or unit of local government;
 
-**(B)** procure a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education on 1 or more of the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title;
+**(B)** procure a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education on 1 or more of the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title;
 
 **(C)** in the case of a law enforcement agency of a unit of local government that employs fewer than 50 employees (determined on a full-time equivalent basis), pay for the costs of overtime accrued as a result of the attendance of a law enforcement officer or covered mental health professional at a certified training program or course for which the costs associated with conducting the certified training program or course are paid using amounts provided under this section;
 
@@ -2479,7 +2479,7 @@ of this title, or equivalents to such training curricula—
 
 **(A) Definition**
 
-In this paragraph, the term “covered topic” means a topic covered under the curricula developed or identified under clause (i), (ii), or (iv) of section 10381(n)(1)(A) <sup>1</sup> of this title.
+In this paragraph, the term “covered topic” means a topic covered under the curricula developed or identified under clause (i), (ii), or (iv) of section 10381(n)(1)(A) <sup>1</sup> of this title.
 
 **(B) Requirement to provide initial training**
 
@@ -2519,11 +2519,11 @@ A State shall make available to units of local government in the State for the p
 
 **(B) Additional uses** A State may, with the approval of a unit of local government, use the funds allocated to the unit of local government under subparagraph (A)—
 
-**(i)** to facilitate offering a certified training program or course or, subject to subsection (b)(2), a certified training program or course that provide 2
+**(i)** to facilitate offering a certified training program or course or, subject to subsection (b)(2), a certified training program or course that provide 2
 
-<sup>2</sup>  So in original. Probably should be “provides”.
+<sup>2</sup> So in original. Probably should be “provides”.
 
-continuing education in 1 or more of the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title to law enforcement officers employed by the unit of local government; or
+continuing education in 1 or more of the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title to law enforcement officers employed by the unit of local government; or
 
 **(ii)** for the costs of training local law enforcement officers, including through law enforcement training academies of States and units of local government, to conduct a certified training program or course.
 
@@ -2539,17 +2539,17 @@ Not later than 30 days after the date on which a State receives an award under p
 
 **(1) Units of local government** Any unit of local government that receives funds from a State under subsection (c)(3) for a certified training program or course shall submit to the State or the Attorney General an annual report with respect to the first fiscal year during which the unit of local government receives such funds and each of the 2 fiscal years thereafter that—
 
-**(A)** shall include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs and courses under section 10381(n)(2) <sup>1</sup> of this title, the topics covered in those courses, and the number of officers who received training in each topic;
+**(A)** shall include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs and courses under section 10381(n)(2) <sup>1</sup> of this title, the topics covered in those courses, and the number of officers who received training in each topic;
 
 **(B)** may, at the election of the unit of local government, include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course using funds provided from a source other than the grants described under subsection (b), the topics covered in those courses, and the number of officers who received training in each topic;
 
 **(C)** shall include the total number of law enforcement officers employed by the unit of local government;
 
-**(D)** shall include a description of any barriers to providing training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title;
+**(D)** shall include a description of any barriers to providing training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title;
 
 **(E)** shall include information gathered through—
 
-**(i)** pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) <sup>1</sup> of this title; and
+**(i)** pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) <sup>1</sup> of this title; and
 
 **(ii)** follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training; and
 
@@ -2561,17 +2561,17 @@ Not later than 30 days after the date on which a State receives an award under p
 
 **(B)** if the State retains funds under subsection (c)(2) for a fiscal year, a report by the State for that fiscal year, and each of the 2 fiscal years thereafter—
 
-**(i)** indicating the number of law enforcement officers employed by the State that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs or courses under section 10381(n)(2) <sup>1</sup> of this title, the topics covered in those courses, and the number of officers who received training in each topic, including, at the election of the State, a certified training program or course using funds provided from a source other than the grants described under subsection (b);
+**(i)** indicating the number of law enforcement officers employed by the State that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs or courses under section 10381(n)(2) <sup>1</sup> of this title, the topics covered in those courses, and the number of officers who received training in each topic, including, at the election of the State, a certified training program or course using funds provided from a source other than the grants described under subsection (b);
 
 **(ii)** indicating the total number of law enforcement officers employed by the State;
 
 **(iii)** providing information gathered through—
 
-**(I)** pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) <sup>1</sup> of this title; and
+**(I)** pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) <sup>1</sup> of this title; and
 
 **(II)** follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training;
 
-**(iv)** discussing any barriers to providing training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title; and
+**(iv)** discussing any barriers to providing training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title; and
 
 **(v)** indicating the amount of funding retained by the State under subsection (c)(2) and providing a tentative plan for training all law enforcement officers employed by the State using available and anticipated funds.
 
@@ -2583,7 +2583,7 @@ Not later than 180 days after December 27, 2022, the Attorney General shall deve
 
 **(A) In general** The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, relevant law enforcement agencies of States and units of local government, associations that represent individuals with mental or behavioral health diagnoses or individuals with disabilities, labor organizations, professional law enforcement organizations, local law enforcement labor and representative organizations, law enforcement trade associations, mental health and suicide prevention organizations, family advocacy organizations, and civil rights and civil liberties groups, shall establish—
 
-**(i)** reporting requirements on interactions in which de-escalation tactics and other techniques in curricula developed or identified under section 10381(n)(1) <sup>1</sup> of this title are used by each law enforcement agency that receives funding under this section; and
+**(i)** reporting requirements on interactions in which de-escalation tactics and other techniques in curricula developed or identified under section 10381(n)(1) <sup>1</sup> of this title are used by each law enforcement agency that receives funding under this section; and
 
 **(ii)** mechanisms for each law enforcement agency to submit such reports to the Department of Justice.
 
@@ -2635,7 +2635,7 @@ Not later than 2 years after December 27, 2022, and each year thereafter in whic
 
 **(B)** the selection criteria the Attorney General has used or intends to use to select recipients of awards using funds authorized under this section;
 
-**(C)** the number of law enforcement officers of a State or unit of local government who were not able to receive training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title due to unavailability of funds and the amount of funds that would be required to complete the training; and
+**(C)** the number of law enforcement officers of a State or unit of local government who were not able to receive training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title due to unavailability of funds and the amount of funds that would be required to complete the training; and
 
 **(D)** the nature, frequency, and amount of information that the Attorney General has collected or intends to collect under subsection (d).
 
@@ -2667,11 +2667,11 @@ Not more than 1 percent of the amount appropriated to carry out this section dur
 
 **(1) Study and report** Not later than 3 years after the first grant award using funds authorized under this section, the Comptroller General of the United States shall review the grant program under this section and submit to Congress a report assessing the grant program, including—
 
-**(A)** the process for developing and identifying curricula under section 10381(n)(1) <sup>1</sup> of this title, including the effectiveness of the consultation by the Attorney General with the agencies, associations, and organizations identified under section 10381(n)(1)(C) <sup>1</sup> of this title;
+**(A)** the process for developing and identifying curricula under section 10381(n)(1) <sup>1</sup> of this title, including the effectiveness of the consultation by the Attorney General with the agencies, associations, and organizations identified under section 10381(n)(1)(C) <sup>1</sup> of this title;
 
-**(B)** the certification of training programs and courses under section 10381(n)(2) <sup>1</sup> of this title, including the development of the process for certification and its implementation;
+**(B)** the certification of training programs and courses under section 10381(n)(2) <sup>1</sup> of this title, including the development of the process for certification and its implementation;
 
-**(C)** the training of law enforcement personnel under section 10381(n)(3) <sup>1</sup> of this title, including the geographic distribution of the agencies that employ the personnel receiving the training and the sizes of those agencies;
+**(C)** the training of law enforcement personnel under section 10381(n)(3) <sup>1</sup> of this title, including the geographic distribution of the agencies that employ the personnel receiving the training and the sizes of those agencies;
 
 **(D)** the allocation of funds under subsection (c), including the geographic distribution of the agencies that receive funds and the degree to which both large and small agencies receive funds; and
 
@@ -2687,25 +2687,25 @@ For the purposes of preparing the report under paragraph (1), the Comptroller Ge
 
 **(2)** $50,000,000 for fiscal year 2026.
 
-(Pub. L. 90–351, title I, § 508, as added Pub. L. 117–325, § 2(c)(2), Dec. 27, 2022, 136 Stat. 4444.)
+(Pub. L. 90–351, title I, § 508, as added Pub. L. 117–325, § 2(c)(2), Dec. 27, 2022, 136 Stat. 4444.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 10381(n) of this title, referred to in text, was redesignated section 10381(*o*) of this title by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
+Section 10381(n) of this title, referred to in text, was redesignated section 10381(*o*) of this title by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
 
 **Prior Provisions**
 
 A prior section 508 of Pub. L. 90–351 was renumbered section 509 and had been classified to section 3758 of Title 42, The Public Health and Welfare, prior to being omitted from the Code.
 
-Another prior section 508 of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4335, related to distribution of grants to local government, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
+Another prior section 508 of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4335, related to distribution of grants to local government, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
 ### Part B—Discretionary Grants
 
 #### subpart 1—grants to public agencies
 
-##### § 10171. Correctional options grants
+##### § 10171. Correctional options grants
 
 **(a) Authority to make grants** The Director, in consultation with the Director of the National Institute of Corrections, may make—
 
@@ -2751,13 +2751,13 @@ Priority shall be given to State court applicants under subsection (a)(4) that h
 
 The Director shall consult with the Commission on Alternative Utilization of Military Facilities created by Public Law 100–456 in order to identify military facilities that may be used as sites for correctional programs receiving assistance under this subpart.
 
-(Pub. L. 90–351, title I, § 515, as added Pub. L. 101–647, title XVIII, § 1801(a)(7), Nov. 29, 1990, 104 Stat. 4847; amended Pub. L. 103–322, title XXXIII, § 330001(b)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, § 302(a), Jan. 7, 2008, 121 Stat. 2539.)
+(Pub. L. 90–351, title I, § 515, as added Pub. L. 101–647, title XVIII, § 1801(a)(7), Nov. 29, 1990, 104 Stat. 4847; amended Pub. L. 103–322, title XXXIII, § 330001(b)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, § 302(a), Jan. 7, 2008, 121 Stat. 2539.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commission on Alternative Utilization of Military Facilities, referred to in subsec. (c), was created by section 2819 of Pub. L. 100–456, which was set out as a note under section 2391 of Title 10, Armed Forces, prior to repeal by Pub. L. 105–261, div. A, title X, § 1031(b), Oct. 17, 1998, 112 Stat. 2123.
+The Commission on Alternative Utilization of Military Facilities, referred to in subsec. (c), was created by section 2819 of Pub. L. 100–456, which was set out as a note under section 2391 of Title 10, Armed Forces, prior to repeal by Pub. L. 105–261, div. A, title X, § 1031(b), Oct. 17, 1998, 112 Stat. 2123.
 
 **Codification**
 
@@ -2765,13 +2765,13 @@ Section was formerly classified to section 3762a of Title 42, The Public Health 
 
 **Prior Provisions**
 
-A prior section 515 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, § 7(4), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 213; Pub. L. 94–503, title I, § 124, Oct. 15, 1976, 90 Stat. 2421, provided for functions, powers, and duties of Law Enforcement Assistance Administration, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+A prior section 515 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, § 7(4), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 213; Pub. L. 94–503, title I, § 124, Oct. 15, 1976, 90 Stat. 2421, provided for functions, powers, and duties of Law Enforcement Assistance Administration, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
-2008—Subsec. (a)(4). Pub. L. 110–177, § 302(a)(1), added par. (4).
+2008—Subsec. (a)(4). Pub. L. 110–177, § 302(a)(1), added par. (4).
 
-Subsec. (b). Pub. L. 110–177, § 302(a)(2), inserted concluding provisions.
+Subsec. (b). Pub. L. 110–177, § 302(a)(2), inserted concluding provisions.
 
 1994—Subsec. (b). Pub. L. 103–322, in introductory provisions substituted “paragraphs (1) and (2) of subsection (a)” for “subsection (a)(1) and (2)”, and in par. (2) substituted “public agencies” for “States”.
 
@@ -2779,9 +2779,9 @@ Subsec. (b). Pub. L. 110–177, § 302(a)(2), inserted concluding provisions.
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-##### § 10172. Allocation of funds; administrative provisions
+##### § 10172. Allocation of funds; administrative provisions
 
 **(a) Allocation of funds**
 
@@ -2801,7 +2801,7 @@ A grant made under paragraph (1) or (3) of section 10171(a) of this title may be
 
 **(B)** request applications for grants under this subpart.
 
-(Pub. L. 90–351, title I, § 516, as added Pub. L. 101–647, title XVIII, § 1801(a)(7), Nov. 29, 1990, 104 Stat. 4848; amended Pub. L. 103–322, title XXXIII, § 330001(b)(2), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, § 302(b), Jan. 7, 2008, 121 Stat. 2539.)
+(Pub. L. 90–351, title I, § 516, as added Pub. L. 101–647, title XVIII, § 1801(a)(7), Nov. 29, 1990, 104 Stat. 4848; amended Pub. L. 103–322, title XXXIII, § 330001(b)(2), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, § 302(b), Jan. 7, 2008, 121 Stat. 2539.)
 
 **Editorial Notes**
 
@@ -2811,25 +2811,25 @@ Section was formerly classified to section 3762b of Title 42, The Public Health 
 
 **Prior Provisions**
 
-A prior section 516 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, § 7(5), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 213, provided for making of payments under title I of Pub. L. 90–351, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+A prior section 516 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, § 7(5), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 213, provided for making of payments under title I of Pub. L. 90–351, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–177 substituted “70” for “80” and “3762a(a)(2) of this title, 10” for “3762a(a)(2) of this title, and 10” and inserted “, and 10 percent for section 3762a(a)(4) of this title” before period at end.
+2008—Subsec. (a). Pub. L. 110–177 substituted “70” for “80” and “3762a(a)(2) of this title, 10” for “3762a(a)(2) of this title, and 10” and inserted “, and 10 percent for section 3762a(a)(4) of this title” before period at end.
 
-1994—Subsec. (a). Pub. L. 103–322, § 330001(b)(2)(A), substituted “10 percent shall be used to make grants under section” for “10 percent for section” in two places.
+1994—Subsec. (a). Pub. L. 103–322, § 330001(b)(2)(A), substituted “10 percent shall be used to make grants under section” for “10 percent for section” in two places.
 
-Subsec. (b). Pub. L. 103–322, § 330001(b)(2)(B), substituted “paragraph (1) or (3) of section 3762a(a)” for “section 3762a(a)(1) or (a)(3)”.
+Subsec. (b). Pub. L. 103–322, § 330001(b)(2)(B), substituted “paragraph (1) or (3) of section 3762a(a)” for “section 3762a(a)(1) or (a)(3)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
 #### subpart 2—general requirements
 
-##### § 10181. Application requirements
+##### § 10181. Application requirements
 
 **(a)** No grant may be made under this part unless an application has been submitted to the Director in which the applicant—
 
@@ -2843,7 +2843,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 **(b)** Each applicant for funds under this part shall certify that its program or project meets all the applicable requirements of this section, that all the applicable information contained in the application is correct, and that the applicant will comply with all the applicable provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Director.
 
-(Pub. L. 90–351, title I, § 517, formerly § 513, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4336; renumbered § 517 and amended Pub. L. 101–647, title XVIII, § 1801(a)(4), (6), Nov. 29, 1990, 104 Stat. 4847; Pub. L. 109–162, title XI, § 1111(c)(2)(A), Jan. 5, 2006, 119 Stat. 3101.)
+(Pub. L. 90–351, title I, § 517, formerly § 513, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4336; renumbered § 517 and amended Pub. L. 101–647, title XVIII, § 1801(a)(4), (6), Nov. 29, 1990, 104 Stat. 4847; Pub. L. 109–162, title XI, § 1111(c)(2)(A), Jan. 5, 2006, 119 Stat. 3101.)
 
 **Editorial Notes**
 
@@ -2853,15 +2853,15 @@ Section was formerly classified to section 3763 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 517 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, § 7(6), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 213, provided for personnel of Administration, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+A prior section 517 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, § 7(6), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 213, provided for personnel of Administration, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
 2006—Subsec. (a)(1). Pub. L. 109–162 substituted “pursuant to section 3762a” for “pursuant to section 3761 or 3762a”.
 
-1990—Subsec. (a)(1). Pub. L. 101–647, § 1801(a)(4)(A), inserted “or 3762a” after “3761”.
+1990—Subsec. (a)(1). Pub. L. 101–647, § 1801(a)(4)(A), inserted “or 3762a” after “3761”.
 
-Subsec. (b). Pub. L. 101–647, § 1801(a)(4)(B), inserted “applicable” after “all the” in three places.
+Subsec. (b). Pub. L. 101–647, § 1801(a)(4)(B), inserted “applicable” after “all the” in three places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2871,9 +2871,9 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-##### § 10182. Period of award
+##### § 10182. Period of award
 
 The Bureau may provide financial aid and assistance to programs or projects under this part for a period of not to exceed 4 years. Grants made pursuant to this part may be extended or renewed by the Bureau for an additional period of up to 2 years if—
 
@@ -2881,7 +2881,7 @@ The Bureau may provide financial aid and assistance to programs or projects unde
 
 **(2)** the applicant that conducts such program or project agrees to provide at least one-half of the total cost of such program or project from any source of funds, including Federal grants, available to the eligible jurisdiction.
 
-(Pub. L. 90–351, title I, § 518, formerly § 514, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4336; renumbered § 518 and amended Pub. L. 101–647, title XVIII, § 1801(a)(5), (6), Nov. 29, 1990, 104 Stat. 4847.)
+(Pub. L. 90–351, title I, § 518, formerly § 514, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4336; renumbered § 518 and amended Pub. L. 101–647, title XVIII, § 1801(a)(5), (6), Nov. 29, 1990, 104 Stat. 4847.)
 
 **Editorial Notes**
 
@@ -2891,11 +2891,11 @@ Section was formerly classified to section 3764 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 518 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 94–503, title I, § 122(b), Oct. 15, 1976, 90 Stat. 2418, prohibited certain constructions of provisions of title I of Pub. L. 90–351, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+A prior section 518 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 94–503, title I, § 122(b), Oct. 15, 1976, 90 Stat. 2418, prohibited certain constructions of provisions of title I of Pub. L. 90–351, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
-1990—Par. (2). Pub. L. 101–647, § 1801(a)(5), substituted “applicant that conducts such program or project” for “public agency or private nonprofit organization within which the program or project has been conducted”.
+1990—Par. (2). Pub. L. 101–647, § 1801(a)(5), substituted “applicant that conducts such program or project” for “public agency or private nonprofit organization within which the program or project has been conducted”.
 
 #### subpart 3—grants to private entities
 
@@ -2903,9 +2903,9 @@ A prior section 518 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; P
 
 **Codification**
 
-Pub. L. 109–248, title VI, § 626, July 27, 2006, 120 Stat. 636, which directed amendment of “subpart 2 of part E of title I of the Omnibus Crime Control and Safe Street Act of 1968” by adding chapter 4 at end, was treated as meaning chapter D, which was changed to subpart 4 for purposes of codification, to reflect the probable intent of Congress. Subpart 4 was subsequently editorially reclassified as subpart 3 of part B of subchapter V of this chapter.
+Pub. L. 109–248, title VI, § 626, July 27, 2006, 120 Stat. 636, which directed amendment of “subpart 2 of part E of title I of the Omnibus Crime Control and Safe Street Act of 1968” by adding chapter 4 at end, was treated as meaning chapter D, which was changed to subpart 4 for purposes of codification, to reflect the probable intent of Congress. Subpart 4 was subsequently editorially reclassified as subpart 3 of part B of subchapter V of this chapter.
 
-##### § 10191. Crime prevention campaign grant
+##### § 10191. Crime prevention campaign grant
 
 **(a) Grant authorization**
 
@@ -2947,7 +2947,7 @@ To request a grant under this section, an organization described in subsection (
 
 **(4)** for fiscal year 2010, $10,000,000.
 
-(Pub. L. 90–351, title I, § 519, as added Pub. L. 109–248, title VI, § 626, July 27, 2006, 120 Stat. 636.)
+(Pub. L. 90–351, title I, § 519, as added Pub. L. 109–248, title VI, § 626, July 27, 2006, 120 Stat. 636.)
 
 **Editorial Notes**
 
@@ -2957,11 +2957,11 @@ Section was formerly classified to section 3765 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 519 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, § 7(7), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 94–273, § 5(5), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–503, title I, § 125, Oct. 15, 1976, 90 Stat. 2422; Pub. L. 95–115, § 9(a), Oct. 3, 1977, 91 Stat. 1060, related to annual reports to President and Congress, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+A prior section 519 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, § 7(7), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 94–273, § 5(5), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–503, title I, § 125, Oct. 15, 1976, 90 Stat. 2422; Pub. L. 95–115, § 9(a), Oct. 3, 1977, 91 Stat. 1060, related to annual reports to President and Congress, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 ### Part C—Administrative Provisions
 
-#### § 10201. Evaluation
+#### § 10201. Evaluation
 
 **(a) Guidelines and comprehensive evaluations** To increase the efficiency and effectiveness of programs funded under this subchapter, the National Institute of Justice shall—
 
@@ -2983,7 +2983,7 @@ A prior section 519 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; P
 
 The Director of the National Institute of Justice shall annually report to the President, the Attorney General, and the Congress on the nature and findings of the evaluation and research and development activities funded under this section.
 
-(Pub. L. 90–351, title I, § 520, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 101–647, title XVIII, § 1801(b), Nov. 29, 1990, 104 Stat. 4848; Pub. L. 109–162, title XI, § 1111(c)(2)(B), Jan. 5, 2006, 119 Stat. 3101.)
+(Pub. L. 90–351, title I, § 520, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 101–647, title XVIII, § 1801(b), Nov. 29, 1990, 104 Stat. 4848; Pub. L. 109–162, title XI, § 1111(c)(2)(B), Jan. 5, 2006, 119 Stat. 3101.)
 
 **Editorial Notes**
 
@@ -2993,15 +2993,15 @@ Section was formerly classified to section 3766 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 520 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 90–462, § 1, Aug. 8, 1968, 82 Stat. 638; Pub. L. 91–644, title I, § 7(8), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 93–415, title V, § 544, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–430, § 3, Sept. 29, 1976, 90 Stat. 1348; Pub. L. 94–503, title I, § 126, Oct. 15, 1976, 90 Stat. 2423, related to authorization of appropriations, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+A prior section 520 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 90–462, § 1, Aug. 8, 1968, 82 Stat. 638; Pub. L. 91–644, title I, § 7(8), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 93–415, title V, § 544, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–430, § 3, Sept. 29, 1976, 90 Stat. 1348; Pub. L. 94–503, title I, § 126, Oct. 15, 1976, 90 Stat. 2423, related to authorization of appropriations, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
-2006—Subsec. (a)(1). Pub. L. 109–162, § 1111(c)(2)(B)(i), substituted “program evaluations” for “the program evaluations as required by section 3751(c) of this title”.
+2006—Subsec. (a)(1). Pub. L. 109–162, § 1111(c)(2)(B)(i), substituted “program evaluations” for “the program evaluations as required by section 3751(c) of this title”.
 
-Subsec. (a)(2). Pub. L. 109–162, § 1111(c)(2)(B)(ii), substituted “evaluations of programs funded under section 3755 (formula grants) and section 3762a (discretionary grants) of this title” for “evaluations of programs funded under section 3756 (formula grants) and sections 3761 and 3762a (discretionary grants) of this title”.
+Subsec. (a)(2). Pub. L. 109–162, § 1111(c)(2)(B)(ii), substituted “evaluations of programs funded under section 3755 (formula grants) and section 3762a (discretionary grants) of this title” for “evaluations of programs funded under section 3756 (formula grants) and sections 3761 and 3762a (discretionary grants) of this title”.
 
-Subsec. (b)(2). Pub. L. 109–162, § 1111(c)(2)(B)(iii), substituted “programs funded under section 3755 (formula grants)” for “programs funded under section 3756 (formula grants) and section 3761 (discretionary grants)”.
+Subsec. (b)(2). Pub. L. 109–162, § 1111(c)(2)(B)(iii), substituted “programs funded under section 3755 (formula grants)” for “programs funded under section 3756 (formula grants) and section 3761 (discretionary grants)”.
 
 1990—Subsec. (a)(2). Pub. L. 101–647 substituted “sections 3761 and 3762a” for “section 3761”.
 
@@ -3011,7 +3011,7 @@ Subsec. (b)(2). Pub. L. 109–162, § 1111(c)(2)(B)(iii), substituted “progr
 
 Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
 
-#### § 10202. General provisions
+#### § 10202. General provisions
 
 **(a)** The Bureau shall prepare both a “Program Brief” and “Implementation Guide” document for proven programs and projects to be funded under this subchapter.
 
@@ -3081,7 +3081,7 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 **(iii)** can be stored in a readily available kit.
 
-(Pub. L. 90–351, title I, § 521, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 114–155, § 6, May 16, 2016, 130 Stat. 390; Pub. L. 119–60, div. H, title LXXXII, § 8203, Dec. 18, 2025, 139 Stat. 1844.)
+(Pub. L. 90–351, title I, § 521, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 114–155, § 6, May 16, 2016, 130 Stat. 390; Pub. L. 119–60, div. H, title LXXXII, § 8203, Dec. 18, 2025, 139 Stat. 1844.)
 
 **Editorial Notes**
 
@@ -3091,7 +3091,7 @@ Section was formerly classified to section 3766a of Title 42, The Public Health 
 
 **Prior Provisions**
 
-A prior section 521 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, § 7(9), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 215; Pub. L. 94–503, title I, §§ 127, 128(a), Oct. 15, 1976, 90 Stat. 2424, related to recordkeeping requirements, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+A prior section 521 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, § 7(9), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 215; Pub. L. 94–503, title I, §§ 127, 128(a), Oct. 15, 1976, 90 Stat. 2424, related to recordkeeping requirements, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
@@ -3099,7 +3099,7 @@ A prior section 521 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; P
 
 2016—Subsec. (c). Pub. L. 114–155 added subsec. (c).
 
-#### § 10203. Reports
+#### § 10203. Reports
 
 **(a)** Each State which receives a grant under section 10156 of this title shall submit to the Director, for each year in which any part of such grant is expended by a State or unit of local government, a report which contains—
 
@@ -3127,7 +3127,7 @@ Such report shall be submitted in such form and by such time as the Director may
 
 **(5)** evaluation results of programs and projects and State strategy implementation.
 
-(Pub. L. 90–351, title I, § 522, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 109–162, title XI, § 1111(c)(2)(C), Jan. 5, 2006, 119 Stat. 3101.)
+(Pub. L. 90–351, title I, § 522, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 109–162, title XI, § 1111(c)(2)(C), Jan. 5, 2006, 119 Stat. 3101.)
 
 **Editorial Notes**
 
@@ -3151,11 +3151,11 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
 ## SUBCHAPTER VI—FBI TRAINING OF STATE AND LOCAL CRIMINAL JUSTICE PERSONNEL
 
-### § 10211. Training and manpower development
+### § 10211. Training and manpower development
 
 **(a) Functions, powers, and duties of Director of Federal Bureau of Investigation** The Director of the Federal Bureau of Investigation is authorized to—
 
@@ -3165,7 +3165,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 **(3)** assist in conducting, at the request of a State, unit of local government, or rail carrier, local and regional training programs for the training of State and local criminal justice personnel engaged in the investigation of crime and the apprehension of criminals. Training for rural criminal justice personnel shall include, when appropriate, effective use of regional resources and methods to improve coordination among criminal justice personnel in different areas and in different levels of government. Such training shall be provided only for persons actually employed as State police or highway patrol, police of a unit of local government, sheriffs, and their deputies, railroad police officer,1
 
-<sup>1</sup>  So in original. Probably should be “officers,”.
+<sup>1</sup> So in original. Probably should be “officers,”.
 
 and other persons as the State, unit of local government, or rail carrier may nominate for police training while such persons are actually employed as officers of such State, unit of local government, or rail carrier.
 
@@ -3187,7 +3187,7 @@ No Federal funds may be used for any travel, transportation, or subsistence expe
 
 **(2)** the term “railroad police officer” means a peace officer who is commissioned in his or her State of legal residence or State of primary employment and employed by a rail carrier to enforce State laws for the protection of railroad property, personnel, passengers, or cargo.
 
-(Pub. L. 90–351, title I, § 701, as added Pub. L. 98–473, title II, § 609A(a), Oct. 12, 1984, 98 Stat. 2090; amended Pub. L. 106–110, § 1, Nov. 24, 1999, 113 Stat. 1497.)
+(Pub. L. 90–351, title I, § 701, as added Pub. L. 98–473, title II, § 609A(a), Oct. 12, 1984, 98 Stat. 2090; amended Pub. L. 106–110, § 1, Nov. 24, 1999, 113 Stat. 1497.)
 
 **Editorial Notes**
 
@@ -3199,17 +3199,17 @@ Another section 701 of Pub. L. 90–351, title II, June 19, 1968, 82 Stat. 210, 
 
 **Prior Provisions**
 
-A prior section 701 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1198, contained Congressional statement of purpose for training and manpower development, prior to the general amendment of part G of title I of Pub. L. 90–351 by Pub. L. 98–473.
+A prior section 701 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1198, contained Congressional statement of purpose for training and manpower development, prior to the general amendment of part G of title I of Pub. L. 90–351 by Pub. L. 98–473.
 
-Another prior section 701 of Pub. L. 90–351, title I, as added Pub. L. 94–430, § 2, Sept. 29, 1976, 90 Stat. 1346, provided for payments of Public safety officers’ death benefits and was classified to former section 3796 of Title 42, The Public Health and Welfare, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+Another prior section 701 of Pub. L. 90–351, title I, as added Pub. L. 94–430, § 2, Sept. 29, 1976, 90 Stat. 1346, provided for payments of Public safety officers’ death benefits and was classified to former section 3796 of Title 42, The Public Health and Welfare, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 **Amendments**
 
-1999—Subsec. (a)(1). Pub. L. 106–110, § 1(a)(1), substituted “State, unit of local government, or rail carrier” for “State or unit of local government” and inserted “, including railroad police officers” before semicolon at end.
+1999—Subsec. (a)(1). Pub. L. 106–110, § 1(a)(1), substituted “State, unit of local government, or rail carrier” for “State or unit of local government” and inserted “, including railroad police officers” before semicolon at end.
 
-Subsec. (a)(3). Pub. L. 106–110, § 1(a)(2), substituted “State, unit of local government, or rail carrier” for “State or unit of local government”, “State or such unit”, and “State or unit” and inserted “railroad police officer,” after “deputies,”.
+Subsec. (a)(3). Pub. L. 106–110, § 1(a)(2), substituted “State, unit of local government, or rail carrier” for “State or unit of local government”, “State or such unit”, and “State or unit” and inserted “railroad police officer,” after “deputies,”.
 
-Subsecs. (d), (e). Pub. L. 106–110, § 1(b), (c), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 106–110, § 1(b), (c), added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3223,7 +3223,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 
 **Employment of Annuitants by Federal Law Enforcement Training Center**
 
-Pub. L. 107–206, title I, § 1202, Aug. 2, 2002, 116 Stat. 887, as amended by Pub. L. 109–295, title IV, Oct. 4, 2006, 120 Stat. 1374; Pub. L. 110–161, div. E, title IV, Dec. 26, 2007, 121 Stat. 2068; Pub. L. 110–329, div. D, title IV, Sept. 30, 2008, 122 Stat. 3677; Pub. L. 111–83, title IV, Oct. 28, 2009, 123 Stat. 2166; Pub. L. 112–74, div. D, title IV, Dec. 23, 2011, 125 Stat. 966; Pub. L. 113–6, div. D, title IV, Mar. 26, 2013, 127 Stat. 364; Pub. L. 113–76, div. F, title IV, Jan. 17, 2014, 128 Stat. 266; Pub. L. 114–4, title IV, Mar. 4, 2015, 129 Stat. 59; Pub. L. 114–113, div. F, title IV, Dec. 18, 2015, 129 Stat. 2509, provided that:
+Pub. L. 107–206, title I, § 1202, Aug. 2, 2002, 116 Stat. 887, as amended by Pub. L. 109–295, title IV, Oct. 4, 2006, 120 Stat. 1374; Pub. L. 110–161, div. E, title IV, Dec. 26, 2007, 121 Stat. 2068; Pub. L. 110–329, div. D, title IV, Sept. 30, 2008, 122 Stat. 3677; Pub. L. 111–83, title IV, Oct. 28, 2009, 123 Stat. 2166; Pub. L. 112–74, div. D, title IV, Dec. 23, 2011, 125 Stat. 966; Pub. L. 113–6, div. D, title IV, Mar. 26, 2013, 127 Stat. 364; Pub. L. 113–76, div. F, title IV, Jan. 17, 2014, 128 Stat. 266; Pub. L. 114–4, title IV, Mar. 4, 2015, 129 Stat. 59; Pub. L. 114–113, div. F, title IV, Dec. 18, 2015, 129 Stat. 2509, provided that:
 
 > **“(a)** The Federal Law Enforcement Training Center may, for a period ending not later than December 31, 2018, appoint and maintain a cadre of up to 350 Federal annuitants: (1) without regard to any provision of title 5, United States Code, which might otherwise require the application of competitive hiring procedures; and (2) who shall not be subject to any reduction in pay (for annuity allocable to the period of actual employment) under the provisions of section 8344 or 8468 of such title 5 or similar provision of any other retirement system for employees. A reemployed Federal annuitant as to whom a waiver of reduction under paragraph (2) applies shall not, for any period during which such waiver is in effect, be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or such other retirement system (referred to in paragraph (2)) as may apply.
 
@@ -3243,15 +3243,15 @@ Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, and similar provisions 
 
 **Travel and Subsistence Expenses of State and Local Law Enforcement Officers Attending Meetings, Courses, Etc., at FBI National Academy**
 
-Pub. L. 99–500, § 101(b) [title II], Oct. 18, 1986, 100 Stat. 1783–39, 1783–48, and Pub. L. 99–591, § 101(b) [title II], Oct. 30, 1986, 100 Stat. 3341–39, 3341–48, provided that: “Notwithstanding section 1345 of title 31, United States Code, funds made available to the Drug Enforcement Administration in any fiscal year may be used for travel, transportation, and subsistence expenses of State, county, and local law enforcement officers attending conferences, meetings, and training courses at the FBI Academy, Quantico, Virginia.”
+Pub. L. 99–500, § 101(b) [title II], Oct. 18, 1986, 100 Stat. 1783–39, 1783–48, and Pub. L. 99–591, § 101(b) [title II], Oct. 30, 1986, 100 Stat. 3341–39, 3341–48, provided that: “Notwithstanding section 1345 of title 31, United States Code, funds made available to the Drug Enforcement Administration in any fiscal year may be used for travel, transportation, and subsistence expenses of State, county, and local law enforcement officers attending conferences, meetings, and training courses at the FBI Academy, Quantico, Virginia.”
 
 **Fees To Provide Training for State and Local Law Enforcement Officers at FBI National Academy; Prohibition; Reimbursement**
 
-Pub. L. 99–500, § 101(b) [title II, § 210], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, § 101(b) [title II, § 210], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56, provided that: “The Director of the Federal Bureau of Investigation and the Administrator of the Drug Enforcement Administration shall not establish and collect fees to provide training to State and local law enforcement officers at the FBI National Academy. Any fees collected for training of State and local law enforcement officers, which occurred at the National Academy on or after October 1, 1986, shall be reimbursed to the appropriate official or agency. In addition, the Director of the National Institute of Corrections shall not establish and collect fees to provide training to State and local officers which was not provided on a reimbursable basis prior to October 1, 1986.”
+Pub. L. 99–500, § 101(b) [title II, § 210], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, § 101(b) [title II, § 210], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56, provided that: “The Director of the Federal Bureau of Investigation and the Administrator of the Drug Enforcement Administration shall not establish and collect fees to provide training to State and local law enforcement officers at the FBI National Academy. Any fees collected for training of State and local law enforcement officers, which occurred at the National Academy on or after October 1, 1986, shall be reimbursed to the appropriate official or agency. In addition, the Director of the National Institute of Corrections shall not establish and collect fees to provide training to State and local officers which was not provided on a reimbursable basis prior to October 1, 1986.”
 
 ## SUBCHAPTER VII—ADMINISTRATIVE PROVISIONS
 
-### § 10221. Rules, regulations, and procedures; consultations and establishment
+### § 10221. Rules, regulations, and procedures; consultations and establishment
 
 **(a) General authorization of certain Federal agencies**
 
@@ -3275,7 +3275,7 @@ In conducting evaluations described in this subsection, the Bureau of Justice As
 
 The procedures established to implement the provisions of this chapter shall minimize paperwork and prevent needless duplication and unnecessary delays in award and expenditure of funds at all levels of government.
 
-(Pub. L. 90–351, title I, § 801, formerly § 802, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1201; renumbered § 801 and amended Pub. L. 98–473, title II, § 609B(b), Oct. 12, 1984, 98 Stat. 2091; Pub. L. 99–570, title I, § 1552(b)(2), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, § 241(b)(2), title VIII, § 801(c)(1), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, § 40231(d)(1), title XXXIII, § 330001(h)(7), Sept. 13, 1994, 108 Stat. 1934, 2139; Pub. L. 109–162, title XI, § 1111(c)(2)(D), Jan. 5, 2006, 119 Stat. 3102.)
+(Pub. L. 90–351, title I, § 801, formerly § 802, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1201; renumbered § 801 and amended Pub. L. 98–473, title II, § 609B(b), Oct. 12, 1984, 98 Stat. 2091; Pub. L. 99–570, title I, § 1552(b)(2), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, § 241(b)(2), title VIII, § 801(c)(1), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, § 40231(d)(1), title XXXIII, § 330001(h)(7), Sept. 13, 1994, 108 Stat. 1934, 2139; Pub. L. 109–162, title XI, § 1111(c)(2)(D), Jan. 5, 2006, 119 Stat. 3102.)
 
 **Editorial Notes**
 
@@ -3295,9 +3295,9 @@ A prior section 801 of Pub. L. 90–351 was classified to section 3781 of Title 
 
 1994—Subsec. (b). Pub. L. 103–322, in introductory provisions substituted “subchapters” for “subchapters IV,” and “XII–C, and XII–I” for “and XII–C”, and in concluding provisions substituted “part A of subchapter V” for “subchapter IV” wherever appearing, “3751” for “3743(a)”, and “3753” for “3743”.
 
-1990—Subsec. (b). Pub. L. 101–647, § 801(c)(1), substituted “XII–B, and XII–C” for “and XII–B”.
+1990—Subsec. (b). Pub. L. 101–647, § 801(c)(1), substituted “XII–B, and XII–C” for “and XII–B”.
 
-Pub. L. 101–647, § 241(b)(2), substituted “XII–A, and XII–B” for “and XII–A”.
+Pub. L. 101–647, § 241(b)(2), substituted “XII–A, and XII–B” for “and XII–A”.
 
 1986—Subsec. (b). Pub. L. 99–570 inserted reference to subchapter XII–A of this chapter in introductory provisions.
 
@@ -3317,7 +3317,7 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10222. Notice and hearing on denial or termination of grant
+### § 10222. Notice and hearing on denial or termination of grant
 
 Whenever, after reasonable notice and opportunity for a hearing on the record in accordance with section 554 of title 5, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics finds that a recipient of assistance under this chapter has failed to comply substantially with—
 
@@ -3329,7 +3329,7 @@ Whenever, after reasonable notice and opportunity for a hearing on the record in
 
 the Director involved shall, until satisfied that there is no longer any such failure to comply, terminate payments to the recipient under this chapter, reduce payments to the recipient under this chapter by an amount equal to the amount of such payments which were not expended in accordance with this chapter, or limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply.
 
-(Pub. L. 90–351, title I, § 802, formerly § 803, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1202; renumbered § 802 and amended Pub. L. 98–473, title II, § 609B(b), Oct. 12, 1984, 98 Stat. 2092; Pub. L. 99–570, title I, § 1552(b)(3), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, § 241(b)(3), title VIII, § 801(c)(2), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, § 40231(d)(2), title XXXIII, § 330001(c), (h)(8), Sept. 13, 1994, 108 Stat. 1934, 2138, 2139; Pub. L. 107–273, div. C, title I, § 11012, Nov. 2, 2002, 116 Stat. 1823; Pub. L. 109–162, title XI, § 1155(1), Jan. 5, 2006, 119 Stat. 3113.)
+(Pub. L. 90–351, title I, § 802, formerly § 803, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1202; renumbered § 802 and amended Pub. L. 98–473, title II, § 609B(b), Oct. 12, 1984, 98 Stat. 2092; Pub. L. 99–570, title I, § 1552(b)(3), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, § 241(b)(3), title VIII, § 801(c)(2), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, § 40231(d)(2), title XXXIII, § 330001(c), (h)(8), Sept. 13, 1994, 108 Stat. 1934, 2138, 2139; Pub. L. 107–273, div. C, title I, § 11012, Nov. 2, 2002, 116 Stat. 1823; Pub. L. 109–162, title XI, § 1155(1), Jan. 5, 2006, 119 Stat. 3113.)
 
 **Editorial Notes**
 
@@ -3351,9 +3351,9 @@ A prior section 802 of Pub. L. 90–351 was renumbered section 801 and is classi
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “part A of subchapter V of this chapter or under subchapter XII–A, XII–B, XII–C, or XII–I” for “subchapter IV, XII–A,, XII–B, or XII–C”.
 
-1990—Subsec. (b). Pub. L. 101–647, § 801(c)(2), substituted “, XII–B, or XII–C” for “or XII–B”.
+1990—Subsec. (b). Pub. L. 101–647, § 801(c)(2), substituted “, XII–B, or XII–C” for “or XII–B”.
 
-Pub. L. 101–647, § 241(b)(3), substituted “, XII–A, or XII–B” for “or XII–A”.
+Pub. L. 101–647, § 241(b)(3), substituted “, XII–A, or XII–B” for “or XII–A”.
 
 1986—Subsec. (b). Pub. L. 99–570 inserted reference to subchapter XII–A of this chapter.
 
@@ -3371,13 +3371,13 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10223. Finality of determinations
+### § 10223. Finality of determinations
 
 In carrying out the functions vested by this chapter in the Bureau of Justice Assistance, the Bureau of Justice Statistics, or the National Institute of Justice, their determinations, findings, and conclusions shall be final and conclusive upon all applications.
 
-(Pub. L. 90–351, title I, § 803, formerly § 804, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1203; renumbered § 803 and amended Pub. L. 98–473, title II, § 609B(c), (f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 109–162, title XI, § 1155(2), Jan. 5, 2006, 119 Stat. 3113.)
+(Pub. L. 90–351, title I, § 803, formerly § 804, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1203; renumbered § 803 and amended Pub. L. 98–473, title II, § 609B(c), (f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 109–162, title XI, § 1155(2), Jan. 5, 2006, 119 Stat. 3113.)
 
 **Editorial Notes**
 
@@ -3393,9 +3393,9 @@ A prior section 803 of Pub. L. 90–351 was renumbered section 802 and is classi
 
 **Amendments**
 
-2006—Pub. L. 109–162 struck out “, after reasonable notice and opportunity for a hearing,” after “conclusions shall” and “, except as otherwise provided herein” before period at end.
+2006—Pub. L. 109–162 struck out “, after reasonable notice and opportunity for a hearing,” after “conclusions shall” and “, except as otherwise provided herein” before period at end.
 
-1984—Pub. L. 98–473, § 609B(c), substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
+1984—Pub. L. 98–473, § 609B(c), substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3403,11 +3403,11 @@ A prior section 803 of Pub. L. 90–351 was renumbered section 802 and is classi
 
 Amendment by section 609B(c) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10224. Delegation of functions
+### § 10224. Delegation of functions
 
 The Attorney General, the Assistant Attorney General, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, and the Director of the Bureau of Justice Assistance may delegate to any of their respective officers or employees such functions under this chapter as they deem appropriate.
 
-(Pub. L. 90–351, title I, § 805, as added Pub. L. 98–473, title II, § 609B(g), Oct. 12, 1984, 98 Stat. 2093.)
+(Pub. L. 90–351, title I, § 805, as added Pub. L. 98–473, title II, § 609B(g), Oct. 12, 1984, 98 Stat. 2093.)
 
 **Editorial Notes**
 
@@ -3427,13 +3427,13 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10225. Subpoena power; employment of hearing officers; authority to hold hearings
+### § 10225. Subpoena power; employment of hearing officers; authority to hold hearings
 
 The Assistant Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated, be understood to be comprised within the meaning of “special government employee” under section 202 of title 18 (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States) or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to section 3344 of title 5, as shall be necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office. The Assistant Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any hearing examiner or administrative law judge assigned to or employed thereby, shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, conduct examinations, and receive evidence at any place in the United States they respectively may designate.
 
-(Pub. L. 90–351, title I, § 806, as added Pub. L. 98–473, title II, § 609B(g), Oct. 12, 1984, 98 Stat. 2094; amended Pub. L. 117–61, § 7, Nov. 18, 2021, 135 Stat. 1479; Pub. L. 117–172, § 4(a), Aug. 16, 2022, 136 Stat. 2101.)
+(Pub. L. 90–351, title I, § 806, as added Pub. L. 98–473, title II, § 609B(g), Oct. 12, 1984, 98 Stat. 2094; amended Pub. L. 117–61, § 7, Nov. 18, 2021, 135 Stat. 1479; Pub. L. 117–172, § 4(a), Aug. 16, 2022, 136 Stat. 2101.)
 
 **Editorial Notes**
 
@@ -3449,15 +3449,15 @@ Provisions similar to this section were contained in part in section 3788 of Tit
 
 **Amendments**
 
-2022—Pub. L. 117–172, § 4(a)(2), in second sentence, substituted “The Assistant Attorney General, the Bureau of Justice Assistance” for “The Attorney General, the Bureau of Justice Assistance” and “, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any” for “or any” and inserted comma after “thereby” and after “examinations”.
+2022—Pub. L. 117–172, § 4(a)(2), in second sentence, substituted “The Assistant Attorney General, the Bureau of Justice Assistance” for “The Attorney General, the Bureau of Justice Assistance” and “, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any” for “or any” and inserted comma after “thereby” and after “examinations”.
 
-Pub. L. 117–172, § 4(a)(1)(E), substituted “necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office” for “necessary to carry out their respective powers and duties under this title”.
+Pub. L. 117–172, § 4(a)(1)(E), substituted “necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office” for “necessary to carry out their respective powers and duties under this title”.
 
-Pub. L. 117–172, § 4(a)(1)(A)–(D), in first sentence, substituted “The Assistant Attorney General, the Bureau of Justice Assistance” for “The Attorney General, the Bureau of Justice Assistance”, “title 18 (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States)” for “title 18)”, and “or administrative law judges” for “such hearing examiners or administrative law judges” and struck out “by the Attorney General” after “if so designated”.
+Pub. L. 117–172, § 4(a)(1)(A)–(D), in first sentence, substituted “The Assistant Attorney General, the Bureau of Justice Assistance” for “The Attorney General, the Bureau of Justice Assistance”, “title 18 (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States)” for “title 18)”, and “or administrative law judges” for “such hearing examiners or administrative law judges” and struck out “by the Attorney General” after “if so designated”.
 
-2021—Pub. L. 117–61, § 7(3), which directed amendment of par. (3) by substituting “or other law. The Attorney General, the” for “under this chapter. The”, could not be executed because the words “this chapter” did not appear in the original text.
+2021—Pub. L. 117–61, § 7(3), which directed amendment of par. (3) by substituting “or other law. The Attorney General, the” for “under this chapter. The”, could not be executed because the words “this chapter” did not appear in the original text.
 
-Pub. L. 117–61, § 7(1), (2), (4), inserted “Attorney General, the” before “Bureau of Justice Assistance” and “conduct examinations” after “examine witnesses,” and substituted “may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of ‘special government employee’ under section 202 of title 18)” for “may appoint”.
+Pub. L. 117–61, § 7(1), (2), (4), inserted “Attorney General, the” before “Bureau of Justice Assistance” and “conduct examinations” after “examine witnesses,” and substituted “may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of ‘special government employee’ under section 202 of title 18)” for “may appoint”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3469,7 +3469,7 @@ Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any mat
 
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 10101 of this title.
 
-### § 10226. Personnel and administrative authority
+### § 10226. Personnel and administrative authority
 
 **(a) Officers and employees of certain Federal agencies; employment; compensation**
 
@@ -3499,7 +3499,7 @@ Payments under this chapter may be made in installments, and in advance or by wa
 
 The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding section 1342 of title 31. Such individuals shall not be considered Federal employees except for purposes of chapter 81 of title 5 with respect to job-incurred disability and title 28 with respect to tort claims.
 
-(Pub. L. 90–351, title I, § 807, as added Pub. L. 98–473, title II, § 609B(g), Oct. 12, 1984, 98 Stat. 2094; amended Pub. L. 117–286, § 4(a)(210), Dec. 27, 2022, 136 Stat. 4329.)
+(Pub. L. 90–351, title I, § 807, as added Pub. L. 98–473, title II, § 609B(g), Oct. 12, 1984, 98 Stat. 2094; amended Pub. L. 117–286, § 4(a)(210), Dec. 27, 2022, 136 Stat. 4329.)
 
 **Editorial Notes**
 
@@ -3525,31 +3525,31 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 10227. Title to personal property
+### § 10227. Title to personal property
 
-Notwithstanding any other provision of law, title to all expendable and nonexpendable personal property purchased with funds made available under this chapter, including such property purchased with funds made available under this chapter as in effect before October 12, 1984, shall vest in the criminal justice agency or nonprofit organization that purchased the property if it certifies to the State office responsible for the trust fund required by section 10158 of this title, or the State office described in section 1408 1
+Notwithstanding any other provision of law, title to all expendable and nonexpendable personal property purchased with funds made available under this chapter, including such property purchased with funds made available under this chapter as in effect before October 12, 1984, shall vest in the criminal justice agency or nonprofit organization that purchased the property if it certifies to the State office responsible for the trust fund required by section 10158 of this title, or the State office described in section 1408 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 ,,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 as the case may be, that it will use the property for criminal justice purposes. If such certification is not made, title to the property shall vest in the State office, which shall seek to have the property used for criminal justice purposes elsewhere in the State prior to using it or disposing of it in any other manner.
 
-(Pub. L. 90–351, title I, § 808, as added Pub. L. 98–473, title II, § 609B(g), Oct. 12, 1984, 98 Stat. 2095; amended Pub. L. 99–570, title I, § 1552(b)(4), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, § 241(b)(4), Nov. 29, 1990, 104 Stat. 4813; Pub. L. 103–322, title XXXIII, § 330001(h)(10), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, § 1111(c)(2)(E), Jan. 5, 2006, 119 Stat. 3102.)
+(Pub. L. 90–351, title I, § 808, as added Pub. L. 98–473, title II, § 609B(g), Oct. 12, 1984, 98 Stat. 2095; amended Pub. L. 99–570, title I, § 1552(b)(4), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, § 241(b)(4), Nov. 29, 1990, 104 Stat. 4813; Pub. L. 103–322, title XXXIII, § 330001(h)(10), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, § 1111(c)(2)(E), Jan. 5, 2006, 119 Stat. 3102.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1408, referred to in text, is section 1408 of Pub. L. 90–351, which was classified to section 3796aa–7 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 103–322, title IV, § 40156(c)(8), Sept. 13, 1994, 108 Stat. 1924.
+Section 1408, referred to in text, is section 1408 of Pub. L. 90–351, which was classified to section 3796aa–7 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 103–322, title IV, § 40156(c)(8), Sept. 13, 1994, 108 Stat. 1924.
 
 **Codification**
 
@@ -3557,7 +3557,7 @@ Section was formerly classified to section 3789 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 808 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1204, amended section 5314 of Title 5, Government Organization and Employees, prior to repeal by section 609B(e) of Pub. L. 98–473.
+A prior section 808 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1204, amended section 5314 of Title 5, Government Organization and Employees, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
 **Amendments**
 
@@ -3565,9 +3565,9 @@ A prior section 808 of Pub. L. 90–351, title I, as added Pub. L. 96–157, §�
 
 1994—Pub. L. 103–322 substituted “3757” for “3748, 3796*o*,”.
 
-1990—Pub. L. 101–647 substituted “, 3796*o*, or 3796aa–7 of this title” for “or 3796*o* of this title”.
+1990—Pub. L. 101–647 substituted “, 3796*o*, or 3796aa–7 of this title” for “or 3796*o* of this title”.
 
-1986—Pub. L. 99–570 inserted reference to section 3796*o* of this title and “, as the case may be,”.
+1986—Pub. L. 99–570 inserted reference to section 3796*o* of this title and “, as the case may be,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3579,7 +3579,7 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 10101 of this title.
 
-### § 10228. Prohibition of Federal control over State and local criminal justice agencies; prohibition of discrimination
+### § 10228. Prohibition of Federal control over State and local criminal justice agencies; prohibition of discrimination
 
 **(a) General rule**
 
@@ -3633,9 +3633,9 @@ the Office of Justice Programs shall, within ten days after such occurrence, not
 
 **(iii)** If the Office of Justice Programs makes a finding of compliance, payment of the suspended funds shall resume as provided in subparagraph (D).
 
-**(H)** Any State government or unit of local government aggrieved by a final determination of the Office of Justice Programs under subparagraph (G) may appeal such determination as provided in section 804 1
+**(H)** Any State government or unit of local government aggrieved by a final determination of the Office of Justice Programs under subparagraph (G) may appeal such determination as provided in section 804 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 .
 
@@ -3649,13 +3649,13 @@ the Office of Justice Programs shall, within ten days after such occurrence, not
 
 **(C)** In any action instituted under this section to enforce compliance with paragraph (1), the Attorney General, or a specially designated assistant for or in the name of the United States, may intervene upon timely application if he certifies that the action is of general public importance. In such action the United States shall be entitled to the same relief as if it had instituted the action.
 
-(Pub. L. 90–351, title I, § 809, formerly § 815, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1206; renumbered § 809 and amended Pub. L. 98–473, title II, § 609B(f), (h)), Oct. 12, 1984, 98 Stat. 2093, 2095; Pub. L. 103–322, title XXXIII, § 330001(h)(11), Sept. 13, 1994, 108 Stat. 2139.)
+(Pub. L. 90–351, title I, § 809, formerly § 815, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1206; renumbered § 809 and amended Pub. L. 98–473, title II, § 609B(f), (h)), Oct. 12, 1984, 98 Stat. 2093, 2095; Pub. L. 103–322, title XXXIII, § 330001(h)(11), Sept. 13, 1994, 108 Stat. 2139.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 804, referred to in subsec. (c)(2)(H), is section 804 of title I of Pub. L. 90–351, which was classified to section 3785 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–162, title XI, § 1155(3), Jan. 5, 2006, 119 Stat. 3114.
+Section 804, referred to in subsec. (c)(2)(H), is section 804 of title I of Pub. L. 90–351, which was classified to section 3785 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–162, title XI, § 1155(3), Jan. 5, 2006, 119 Stat. 3114.
 
 **Codification**
 
@@ -3665,15 +3665,15 @@ Section was formerly classified to section 3789d of Title 42, The Public Health 
 
 Provisions similar to this section were contained in former section 3766 of Title 42, The Public Health and Welfare, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-A prior section 809 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1204, amended section 5315 of Title 5, Government Organization and Employees, prior to repeal by section 609B(e) of Pub. L. 98–473.
+A prior section 809 of Pub. L. 90–351, title I, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1204, amended section 5315 of Title 5, Government Organization and Employees, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
 **Amendments**
 
 1994—Subsec. (c)(2)(H). Pub. L. 103–322 substituted “804” for “805”.
 
-1984—Subsec. (a). Pub. L. 98–473, § 609B(h)(2), struck out “contained” after “Nothing”.
+1984—Subsec. (a). Pub. L. 98–473, § 609B(h)(2), struck out “contained” after “Nothing”.
 
-Subsec. (c). Pub. L. 98–473, § 609B(h)(3), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
+Subsec. (c). Pub. L. 98–473, § 609B(h)(3), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3681,11 +3681,11 @@ Subsec. (c). Pub. L. 98–473, § 609B(h)(3), substituted “Office of Justice
 
 Amendment by section 609B(h) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10229. Report to President and Congress
+### § 10229. Report to President and Congress
 
 Not later than April 1 of each year, the Assistant Attorney General, the Director of the Bureau of Justice Assistance, the Director of the Bureau of Justice Statistics, and the Director of the National Institute of Justice shall each submit a report to the President and to the Speaker of the House of Representatives and the President of the Senate, on their activities under this chapter during the fiscal year next preceding such date.
 
-(Pub. L. 90–351, title I, § 810, formerly § 816, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1209; renumbered § 810 and amended Pub. L. 98–473, title II, § 609B(f), (i), Oct. 12, 1984, 98 Stat. 2093, 2095.)
+(Pub. L. 90–351, title I, § 810, formerly § 816, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1209; renumbered § 810 and amended Pub. L. 98–473, title II, § 609B(f), (i), Oct. 12, 1984, 98 Stat. 2093, 2095.)
 
 **Editorial Notes**
 
@@ -3699,7 +3699,7 @@ A prior section 810 of Pub. L. 90–351 was classified to section 3788 of Title 
 
 **Amendments**
 
-1984—Pub. L. 98–473, § 609B(i), substituted requirement of individual reports by certain officials of listed agencies to the President and the Speaker of the House and President of the Senate for former subsec. (a) through (e) provisions which included requirement of an annual report on or before March 31 of each year to the President and Committees on the Judiciary of the Senate and the House, including description of scope of coverage; report covering receipt and compilation of evaluations, statistics, and performance reports, comprehensive statistics, analyses, and findings respecting attainment of described objectives; plan for collection, analysis, and evaluation of data for measurement of progress in prescribed and additional areas, definition of “comprehensive statistics” and “reasonably expected contribution”; attainment of reasonably expected contribution in prescribed and added areas; and data collection, including minimum duplication.
+1984—Pub. L. 98–473, § 609B(i), substituted requirement of individual reports by certain officials of listed agencies to the President and the Speaker of the House and President of the Senate for former subsec. (a) through (e) provisions which included requirement of an annual report on or before March 31 of each year to the President and Committees on the Judiciary of the Senate and the House, including description of scope of coverage; report covering receipt and compilation of evaluations, statistics, and performance reports, comprehensive statistics, analyses, and findings respecting attainment of described objectives; plan for collection, analysis, and evaluation of data for measurement of progress in prescribed and additional areas, definition of “comprehensive statistics” and “reasonably expected contribution”; attainment of reasonably expected contribution in prescribed and added areas; and data collection, including minimum duplication.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3709,9 +3709,9 @@ Amendment by section 609B(i) of Pub. L. 98–473 effective Oct. 12, 1984, see se
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10230. Other administrative provisions
+### § 10230. Other administrative provisions
 
 **(a) Recordkeeping requirement; scope of disclosure; other sources of funds**
 
@@ -3733,7 +3733,7 @@ The provisions of this section shall apply to all recipients of assistance under
 
 There is hereby established within the Bureau of Justice Assistance a revolving fund for the purpose of supporting projects that will acquire stolen goods and property in an effort to disrupt illicit commerce in such goods and property. Notwithstanding any other provision of law, any income or royalties generated from such projects together with income generated from any sale or use of such goods or property, where such goods or property are not claimed by their lawful owner, shall be paid into the revolving fund. Where a party establishes a legal right to such goods or property, the Administrator of the fund may in his discretion assert a claim against the property or goods in the amount of Federal funds used to purchase such goods or property. Proceeds from such claims shall be paid into the revolving fund. The Administrator is authorized to make disbursements by appropriate means, including grants, from the fund for the purpose of this section.
 
-(Pub. L. 90–351, title I, § 811, formerly § 817, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1212; renumbered § 811 and amended Pub. L. 98–473, title II, § 609B(f), (j), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 103–322, title XXXIII, § 330001(h)(12), Sept. 13, 1994, 108 Stat. 2139.)
+(Pub. L. 90–351, title I, § 811, formerly § 817, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1212; renumbered § 811 and amended Pub. L. 98–473, title II, § 609B(f), (j), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 103–322, title XXXIII, § 330001(h)(12), Sept. 13, 1994, 108 Stat. 2139.)
 
 **Editorial Notes**
 
@@ -3749,9 +3749,9 @@ A prior section 811 of Pub. L. 90–351 was classified to section 3789 of Title 
 
 1994—Subsec. (e). Pub. L. 103–322 substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
 
-1984—Subsecs. (a), (b). Pub. L. 98–473, § 609B(j)(1), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
+1984—Subsecs. (a), (b). Pub. L. 98–473, § 609B(j)(1), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
 
-Subsecs. (d) to (f). Pub. L. 98–473, § 609B(j)(2), (3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) relating to civil rights regulations and conforming changes of the regulations.
+Subsecs. (d) to (f). Pub. L. 98–473, § 609B(j)(2), (3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) relating to civil rights regulations and conforming changes of the regulations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3759,7 +3759,7 @@ Subsecs. (d) to (f). Pub. L. 98–473, § 609B(j)(2), (3), redesignated subsec
 
 Amendment by section 609B(j) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10231. Confidentiality of information
+### § 10231. Confidentiality of information
 
 **(a) Research or statistical information; immunity from process; prohibition against admission as evidence or use in any proceedings**
 
@@ -3777,7 +3777,7 @@ All criminal intelligence systems operating through support under this chapter s
 
 Any person violating the provisions of this section, or of any rule, regulation, or order issued thereunder, shall be fined not to exceed $10,000, in addition to any other penalty imposed by law.
 
-(Pub. L. 90–351, title I, § 812, formerly § 818, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1213; renumbered § 812 and amended Pub. L. 98–473, title II, § 609B(f), (k), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 109–162, title XI, § 1115(c), Jan. 5, 2006, 119 Stat. 3104; Pub. L. 119–60, div. H, title LXXXII, § 8205(b)(1), Dec. 18, 2025, 139 Stat. 1849.)
+(Pub. L. 90–351, title I, § 812, formerly § 818, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1213; renumbered § 812 and amended Pub. L. 98–473, title II, § 609B(f), (k), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 109–162, title XI, § 1115(c), Jan. 5, 2006, 119 Stat. 3104; Pub. L. 119–60, div. H, title LXXXII, § 8205(b)(1), Dec. 18, 2025, 139 Stat. 1849.)
 
 **Editorial Notes**
 
@@ -3801,7 +3801,7 @@ A prior section 812 of Pub. L. 90–351 was classified to section 3789a of Title
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–60, div. H, title LXXXII, § 8205(b)(2), Dec. 18, 2025, 139 Stat. 1849, provided that:
+Pub. L. 119–60, div. H, title LXXXII, § 8205(b)(2), Dec. 18, 2025, 139 Stat. 1849, provided that:
 
 > “The amendments made by paragraph (1) [amending this section] shall—
 
@@ -3817,11 +3817,11 @@ Amendment by section 609B(k) of Pub. L. 98–473 effective Oct. 12, 1984, see se
 
 Terms “this chapter” and “this section”, as such terms appear in this section, deemed to be references to chapter 501 and section 50105 of this title, respectively, and reference to the Office of Justice Programs in this section deemed to be a reference to the Attorney General, see section 50105 of this title.
 
-### § 10232. Administration of juvenile delinquency programs
+### § 10232. Administration of juvenile delinquency programs
 
 The Director of the National Institute of Justice and the Director of the Bureau of Justice Statistics shall work closely with the Administrator of the Office of Juvenile Justice and Delinquency Prevention in developing and implementing programs in the juvenile justice and delinquency prevention field.
 
-(Pub. L. 90–351, title I, § 813, formerly § 820, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 813 and amended Pub. L. 98–473, title II, § 609B(f), (m), Oct. 12, 1984, 98 Stat. 2093, 2096.)
+(Pub. L. 90–351, title I, § 813, formerly § 820, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 813 and amended Pub. L. 98–473, title II, § 609B(f), (m), Oct. 12, 1984, 98 Stat. 2093, 2096.)
 
 **Editorial Notes**
 
@@ -3835,7 +3835,7 @@ A prior section 813 of Pub. L. 90–351 was classified to section 3789b of Title
 
 **Amendments**
 
-1984—Pub. L. 98–473, § 609B(m), struck out subsec. (a) relating to programs concerned with juvenile delinquency and administered by the Law Enforcement Assistance Administration and struck out subsec. (b) designation.
+1984—Pub. L. 98–473, § 609B(m), struck out subsec. (a) relating to programs concerned with juvenile delinquency and administered by the Law Enforcement Assistance Administration and struck out subsec. (b) designation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3843,11 +3843,11 @@ A prior section 813 of Pub. L. 90–351 was classified to section 3789b of Title
 
 Amendment by section 609B(m) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10233. Prohibition on land acquisition
+### § 10233. Prohibition on land acquisition
 
 No funds under this chapter shall be used for land acquisition.
 
-(Pub. L. 90–351, title I, § 814, formerly § 821, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 814, Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093.)
+(Pub. L. 90–351, title I, § 814, formerly § 821, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 814, Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093.)
 
 **Editorial Notes**
 
@@ -3859,11 +3859,11 @@ Section was formerly classified to section 3789j of Title 42, The Public Health 
 
 A prior section 814 of Pub. L. 90–351 was classified to section 3789c of Title 42, The Public Health and Welfare, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
-### § 10234. Prohibition on use of Central Intelligence Agency services
+### § 10234. Prohibition on use of Central Intelligence Agency services
 
 Notwithstanding any other provision of this chapter, no use will be made of services, facilities, or personnel of the Central Intelligence Agency.
 
-(Pub. L. 90–351, title I, § 815, formerly § 822, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 815, Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093.)
+(Pub. L. 90–351, title I, § 815, formerly § 822, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 815, Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093.)
 
 **Editorial Notes**
 
@@ -3875,11 +3875,11 @@ Section was formerly classified to section 3789k of Title 42, The Public Health 
 
 A prior section 815 of Pub. L. 90–351 was renumbered section 809 and is classified to section 10228 of this title.
 
-### § 10235. Indian liability waiver
+### § 10235. Indian liability waiver
 
 Where a State does not have an adequate forum to enforce grant provisions imposing liability on Indian tribes, the Assistant Attorney General is authorized to waive State liability and may pursue such legal remedies as are necessary.
 
-(Pub. L. 90–351, title I, § 816, formerly § 823, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 816 and amended Pub. L. 98–473, title II, § 609B(f), (n), Oct. 12, 1984, 98 Stat. 2093, 2096.)
+(Pub. L. 90–351, title I, § 816, formerly § 823, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 816 and amended Pub. L. 98–473, title II, § 609B(f), (n), Oct. 12, 1984, 98 Stat. 2093, 2096.)
 
 **Editorial Notes**
 
@@ -3893,7 +3893,7 @@ A prior section 816 of Pub. L. 90–351 was renumbered section 810 and is classi
 
 **Amendments**
 
-1984—Pub. L. 98–473, § 609B(n), substituted “Assistant Attorney General” for “Administration”.
+1984—Pub. L. 98–473, § 609B(n), substituted “Assistant Attorney General” for “Administration”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3901,11 +3901,11 @@ A prior section 816 of Pub. L. 90–351 was renumbered section 810 and is classi
 
 Amendment by section 609B(n) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10236. District of Columbia matching fund source
+### § 10236. District of Columbia matching fund source
 
 Funds appropriated by the Congress for the activities of any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia may be used to provide the non-Federal share of the cost of programs or projects funded under this chapter.
 
-(Pub. L. 90–351, title I, § 817, formerly § 824, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 817, Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093.)
+(Pub. L. 90–351, title I, § 817, formerly § 824, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 817, Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093.)
 
 **Editorial Notes**
 
@@ -3917,11 +3917,11 @@ Section was formerly classified to section 3789m of Title 42, The Public Health 
 
 A prior section 817 of Pub. L. 90–351 was renumbered section 811 and is classified to section 10230 of this title.
 
-### § 10237. Limitation on civil justice matters
+### § 10237. Limitation on civil justice matters
 
 Authority of any entity established under this chapter shall extend to civil justice matters only to the extent that such civil justice matters bear directly and substantially upon criminal justice matters or are inextricably intertwined with criminal justice matters.
 
-(Pub. L. 90–351, title I, § 818, formerly § 825, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 818, Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093.)
+(Pub. L. 90–351, title I, § 818, formerly § 825, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1214; renumbered § 818, Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093.)
 
 **Editorial Notes**
 
@@ -3933,7 +3933,7 @@ Section was formerly classified to section 3789n of Title 42, The Public Health 
 
 A prior section 818 of Pub. L. 90–351 was renumbered section 812 and is classified to section 10231 of this title.
 
-### § 10238. Accountability and oversight
+### § 10238. Accountability and oversight
 
 **(a) Report by grant recipients**
 
@@ -3943,7 +3943,7 @@ The Attorney General or Secretary of Health and Human Services, as applicable, s
 
 The Attorney General or Secretary of Health and Human Services, as applicable, shall report biennially to the Committees on the Judiciary of the House of Representatives and the Senate on the grant programs described in subsection (a), including the information contained in any report under that subsection.
 
-(Pub. L. 106–386, div. B, § 1003, Oct. 28, 2000, 114 Stat. 1491.)
+(Pub. L. 106–386, div. B, § 1003, Oct. 28, 2000, 114 Stat. 1491.)
 
 **Editorial Notes**
 
@@ -3959,19 +3959,19 @@ Section was formerly classified to section 3789p of Title 42, The Public Health 
 
 ## SUBCHAPTER VIII—DEFINITIONS
 
-### § 10251. General provisions
+### § 10251. General provisions
 
 **(a) Definitions** As used in this chapter—
 
 **(1)** “criminal justice” means activities pertaining to crime prevention, control, or reduction, or the enforcement of the criminal law, including, but not limited to, police efforts to prevent, control, or reduce crime or to apprehend criminals, including juveniles, activities of courts having criminal jurisdiction, and related agencies (including but not limited to prosecutorial and defender services, juvenile delinquency agencies and pretrial service or release agencies), activities of corrections, probation, or parole authorities and related agencies assisting in the rehabilitation, supervision, and care of criminal offenders, and programs relating to the prevention, control, or reduction of narcotic addiction and juvenile delinquency;
 
-**(2)** “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: *Provided*, That for the purposes of section 10156(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state 1
+**(2)** “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: *Provided*, That for the purposes of section 10156(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(3)** “unit of local government” means—
 
@@ -4079,7 +4079,7 @@ Where appropriate, the definitions in subsection (a) shall be based, with respec
 
 One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.
 
-(Pub. L. 90–351, title I, § 901, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, § 609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, § 7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, § 6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, § 206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, § 1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, § 20201(c), title III, § 32101(c), title XXXIII, § 330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, § 102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(b)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§ 1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(A), Jan. 2, 2013, 126 Stat. 1964; Pub. L. 117–325, § 2(a), Dec. 27, 2022, 136 Stat. 4441.)
+(Pub. L. 90–351, title I, § 901, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, § 609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, § 7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, § 6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, § 206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, § 1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, § 20201(c), title III, § 32101(c), title XXXIII, § 330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, § 102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(b)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§ 1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(A), Jan. 2, 2013, 126 Stat. 1964; Pub. L. 117–325, § 2(a), Dec. 27, 2022, 136 Stat. 4441.)
 
 **Editorial Notes**
 
@@ -4095,35 +4095,35 @@ Another section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, 
 
 2013—Subsec. (a)(28). Pub. L. 112–239 added par. (28).
 
-2006—Subsec. (a)(2). Pub. L. 109–162, § 1111(c)(2)(F), which directed the substitution of “for the purposes of section 3755(a) of this title” for “for the purposes of section 3756(a) of this title”, was executed by making the substitution for “for the purpose of section 3756(a) of this title”, to reflect the probable intent of Congress.
+2006—Subsec. (a)(2). Pub. L. 109–162, § 1111(c)(2)(F), which directed the substitution of “for the purposes of section 3755(a) of this title” for “for the purposes of section 3756(a) of this title”, was executed by making the substitution for “for the purpose of section 3756(a) of this title”, to reflect the probable intent of Congress.
 
-Subsec. (a)(3)(C). Pub. L. 109–162, § 1156(1), struck out “(as that term is defined in section 5603 of this title)” after “an Indian Tribe”.
+Subsec. (a)(3)(C). Pub. L. 109–162, § 1156(1), struck out “(as that term is defined in section 5603 of this title)” after “an Indian Tribe”.
 
-Subsec. (a)(5). Pub. L. 109–162, § 1156(2), substituted “program, plan, or project” for “program or project”.
+Subsec. (a)(5). Pub. L. 109–162, § 1156(2), substituted “program, plan, or project” for “program or project”.
 
-Subsec. (a)(11). Pub. L. 109–162, § 1156(3), substituted “, including faith-based, that” for “which”.
+Subsec. (a)(11). Pub. L. 109–162, § 1156(3), substituted “, including faith-based, that” for “which”.
 
-Subsec. (a)(26), (27). Pub. L. 109–162, § 1156(4), added pars. (26) and (27).
+Subsec. (a)(26), (27). Pub. L. 109–162, § 1156(4), added pars. (26) and (27).
 
-1998—Subsec. (a)(3). Pub. L. 105–277, which directed the general amendment of par. (3) of this section, was executed to subsec. (a)(3) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(3) read as follows: “ ‘unit of local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;”.
+1998—Subsec. (a)(3). Pub. L. 105–277, which directed the general amendment of par. (3) of this section, was executed to subsec. (a)(3) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(3) read as follows: “ ‘unit of local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;”.
 
 Subsec. (a)(17). Pub. L. 105–244, which directed amendment of par. (17) of this section by substituting “1001” for “1141(a)”, was executed to subsec. (a)(17) of this section, to reflect the probable intent of Congress.
 
-1994—Subsec. (a)(3). Pub. L. 103–322, § 330001(h)(13), substituted “Columbia, and” for “Columbia and,”.
+1994—Subsec. (a)(3). Pub. L. 103–322, § 330001(h)(13), substituted “Columbia, and” for “Columbia and,”.
 
-Subsec. (a)(21). Pub. L. 103–322, §§ 20201(c)(1), 330001(d), amended par. (21) identically, inserting a semicolon at end.
+Subsec. (a)(21). Pub. L. 103–322, §§ 20201(c)(1), 330001(d), amended par. (21) identically, inserting a semicolon at end.
 
-Subsec. (a)(22). Pub. L. 103–322, § 20201(c)(2), struck out “and” at end.
+Subsec. (a)(22). Pub. L. 103–322, § 20201(c)(2), struck out “and” at end.
 
-Subsec. (a)(23). Pub. L. 103–322, § 32101(c)(1), which directed the striking out of “and” at end of par. (23), could not be executed because the word “and” did not appear at end of par. (23).
+Subsec. (a)(23). Pub. L. 103–322, § 32101(c)(1), which directed the striking out of “and” at end of par. (23), could not be executed because the word “and” did not appear at end of par. (23).
 
-Pub. L. 103–322, § 20201(c)(3), substituted a semicolon for period at end.
+Pub. L. 103–322, § 20201(c)(3), substituted a semicolon for period at end.
 
-Subsec. (a)(24). Pub. L. 103–322, § 32101(c)(2), substituted “; and” for period at end.
+Subsec. (a)(24). Pub. L. 103–322, § 32101(c)(2), substituted “; and” for period at end.
 
-Pub. L. 103–322, § 20201(c)(4), added par. (24).
+Pub. L. 103–322, § 20201(c)(4), added par. (24).
 
-Subsec. (a)(25). Pub. L. 103–322, § 32101(c)(3), added par. (25).
+Subsec. (a)(25). Pub. L. 103–322, § 32101(c)(3), added par. (25).
 
 1990—Subsec. (a)(22), (23). Pub. L. 101–647 added pars. (22) and (23).
 
@@ -4131,29 +4131,29 @@ Subsec. (a)(25). Pub. L. 103–322, § 32101(c)(3), added par. (25).
 
 1988—Subsec. (a)(2). Pub. L. 100–690 substituted “section 3756(a)” for “section 3747(a)”.
 
-1986—Subsec. (a)(2). Pub. L. 99–396, § 7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
+1986—Subsec. (a)(2). Pub. L. 99–396, § 7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
 
-Subsec. (a)(3). Pub. L. 99–396, § 7(2), substituted “and” for “, Guam, American Samoa” after “in and for the District of Columbia” and struck out “, or the Commonwealth of the Northern Mariana Islands” after “Trust Territory of the Pacific Islands”.
+Subsec. (a)(3). Pub. L. 99–396, § 7(2), substituted “and” for “, Guam, American Samoa” after “in and for the District of Columbia” and struck out “, or the Commonwealth of the Northern Mariana Islands” after “Trust Territory of the Pacific Islands”.
 
-1984—Subsec. (a)(2). Pub. L. 98–473, § 609C(b)(1), struck out references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+1984—Subsec. (a)(2). Pub. L. 98–473, § 609C(b)(1), struck out references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
-Subsec. (a)(3). Pub. L. 98–473, § 609C(b)(2), inserted references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+Subsec. (a)(3). Pub. L. 98–473, § 609C(b)(2), inserted references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
-Subsec. (a)(4). Pub. L. 98–473, § 609C(b)(3), extended definition of “construction” to include renovation, repairs, and remodeling and struck out previous exclusion of such items from definition.
+Subsec. (a)(4). Pub. L. 98–473, § 609C(b)(3), extended definition of “construction” to include renovation, repairs, and remodeling and struck out previous exclusion of such items from definition.
 
-Subsec. (a)(7). Pub. L. 98–473, § 609C(b)(4), substituted “correctional facility” for “correctional institution or facility”.
+Subsec. (a)(7). Pub. L. 98–473, § 609C(b)(4), substituted “correctional facility” for “correctional institution or facility”.
 
-Subsec. (a)(8). Pub. L. 98–473, § 609C(b)(5), substituted definition of “correctional facility project” for “comprehensive”.
+Subsec. (a)(8). Pub. L. 98–473, § 609C(b)(5), substituted definition of “correctional facility project” for “comprehensive”.
 
-Subsec. (a)(13). Pub. L. 98–473, § 609C(b)(6), substituted definition of “cost of construction” for “municipality”.
+Subsec. (a)(13). Pub. L. 98–473, § 609C(b)(6), substituted definition of “cost of construction” for “municipality”.
 
-Subsecs. (a)(17), (b). Pub. L. 98–473, § 609C(a), substituted “Office” for “Administration”.
+Subsecs. (a)(17), (b). Pub. L. 98–473, § 609C(a), substituted “Office” for “Administration”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1086(d), Jan. 2, 2013, 126 Stat. 1969, as amended by Pub. L. 113–66, div. A, title X, § 1091(b)(7), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–326, § 2(c), Dec. 16, 2016, 130 Stat. 1973, provided that:
+Pub. L. 112–239, div. A, title X, § 1086(d), Jan. 2, 2013, 126 Stat. 1969, as amended by Pub. L. 113–66, div. A, title X, § 1091(b)(7), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–326, § 2(c), Dec. 16, 2016, 130 Stat. 1973, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [see Tables for classification] shall—
 
@@ -4167,11 +4167,11 @@ Pub. L. 112–239, div. A, title X, § 1086(d), Jan. 2, 2013, 126 Stat. 1969, 
 
 > **“(B) Heart attacks, strokes, and vascular ruptures.—** Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10281(k)], as amended by this section, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003.”
 
-[Pub. L. 114–326, § 2(c)(1)(A), and Pub. L. 113–66, § 1091(b)(7), made identical amendments to section 1086(d) of Pub. L. 112–239 by substituting “paragraph (2)” for “paragraph (1)” in par. (1), effective on the same date. See below.]
+[Pub. L. 114–326, § 2(c)(1)(A), and Pub. L. 113–66, § 1091(b)(7), made identical amendments to section 1086(d) of Pub. L. 112–239 by substituting “paragraph (2)” for “paragraph (1)” in par. (1), effective on the same date. See below.]
 
-[Pub. L. 114–326, § 2(c), Dec. 16, 2016, 130 Stat. 1973, provided in part that the amendment made by section 2(c) is effective as if enacted on Jan. 2, 2013.]
+[Pub. L. 114–326, § 2(c), Dec. 16, 2016, 130 Stat. 1973, provided in part that the amendment made by section 2(c) is effective as if enacted on Jan. 2, 2013.]
 
-[Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(7) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
+[Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(7) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
 
 **Effective Date of 2006 Amendment**
 
@@ -4187,7 +4187,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 ## SUBCHAPTER IX—FUNDING
 
-### § 10261. Authorization of appropriations
+### § 10261. Authorization of appropriations
 
 **(a)**
 
@@ -4197,31 +4197,31 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 **(3)** There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $28,000,000 for each of the fiscal years 1994 and 1995 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance other than functions under subchapters IV, V, part F,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-subchapters VI, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, part V,1 subchapters XXII, and XXIII or 2
+subchapters VI, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, part V,1 subchapters XXII, and XXIII or 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 XXX.
 
 **(4)** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out subchapter XI of this chapter.
 
-**(5)** There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1994 and 1995 to carry out the programs under subchapters IV and V (other than subpart 2 of part B) 3
+**(5)** There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1994 and 1995 to carry out the programs under subchapters IV and V (other than subpart 2 of part B) 3
 
-<sup>3</sup>  So in original. Phrase “(other than subpart 2 of part B)” probably should not appear.
+<sup>3</sup> So in original. Phrase “(other than subpart 2 of part B)” probably should not appear.
 
 (other than subpart 1 of part B of subchapter V) of this chapter.
 
-**(6)** There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 4
+**(6)** There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 4
 
-<sup>4</sup>  So in original. Probably should be “years”.
+<sup>4</sup> So in original. Probably should be “years”.
 
 1994 and 1995 to carry out subpart 1 of part B of subchapter V of this chapter.
 
 **(7)** There is authorized to be appropriated to carry out subchapter XIII $1,000,000 for each of fiscal years 2001 through 2005.
 
-**(8)** There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>4</sup> 1994 and 1995.
+**(8)** There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>4</sup> 1994 and 1995.
 
 **(9)** There are authorized to be appropriated to carry out subchapter XIV—
 
@@ -4235,9 +4235,9 @@ XXX.
 
 **(E)** $66,000,000 for fiscal year 2000.
 
-**(10)** There are 5
+**(10)** There are 5
 
-<sup>5</sup>  So in original. Probably should be “is”.
+<sup>5</sup> So in original. Probably should be “is”.
 
 authorized to be appropriated $10,000,000 for each of the fiscal years 1994, 1995, and 1996 to carry out projects under subchapter XV.
 
@@ -4247,9 +4247,9 @@ authorized to be appropriated $10,000,000 for each of the fiscal years 1994, 199
 
 **(B)** Of funds available under subchapter XVI in any fiscal year, up to 3 percent may be used for technical assistance under section 10381(d) of this title or for evaluations or studies carried out or commissioned by the Attorney General in furtherance of the purposes of subchapter XVI. Of the remaining funds, 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations exceeding 150,000 or by public and private entities that serve areas with populations exceeding 150,000, and 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations 150,000 or less or by public and private entities that serve areas with populations 150,000 or less. In view of the extraordinary need for law enforcement assistance in Indian country, an appropriate amount of funds available under subchapter XVI shall be made available for grants to Indian tribal governments or tribal law enforcement agencies.
 
-**(16)**  6
+**(16)** 6
 
-<sup>6</sup>  So in original. No pars. (12) to (15) have been enacted.
+<sup>6</sup> So in original. No pars. (12) to (15) have been enacted.
 
 There are authorized to be appropriated to carry out projects under subchapter XVII—
 
@@ -4289,7 +4289,7 @@ There are authorized to be appropriated to carry out projects under subchapter X
 
 7
 
-<sup>7</sup>  Numbering so in original.
+<sup>7</sup> Numbering so in original.
 
 $1,000,000 for fiscal year 1996;
 
@@ -4353,21 +4353,21 @@ $1,000,000 for fiscal year 1996;
 
 **(27)** There are authorized to be appropriated to carry out subchapter XXXVIII $103,000,000 for each of fiscal years 2017 and 2018, and $330,000,000 for each of fiscal years 2019 through 2023.
 
-**(28)** There are authorized to be appropriated to carry out section 10741(a)(4) <sup>1</sup> of subchapter XL $5,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
+**(28)** There are authorized to be appropriated to carry out section 10741(a)(4) <sup>1</sup> of subchapter XL $5,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
 
 **(b)** Funds appropriated for any fiscal year may remain available for obligation until expended.
 
 **(c)** Notwithstanding any other provision of law, no funds appropriated under this section for subchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.
 
-(Pub. L. 90–351, title I, § 1001, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, § 609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, § 1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, § 6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, § 241(c), title VIII, § 801(b), title XVIII, § 1801(e), title XXVIII, § 2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, § 4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, § 1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, § 10003(c), title II, § 20201(d), title III, § 32101(d), title IV, §§ 40121(c), 40156(c)(1), 40231(c), title V, § 50001(c), title XVIII, § 180101(a), title XXI, §§ 210201(c), 210302(c)(3), 210601, title XXXIII, § 330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(B)(i)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, § 3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§ 1103(a), 1104, title III, § 1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, § 3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, § 3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, § 2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–273, div. B, title II, § 2302, Nov. 2, 2002, 116 Stat. 1798; Pub. L. 108–372, § 4, Oct. 25, 2004, 118 Stat. 1755; Pub. L. 108–405, title III, § 311(c), (d), Oct. 30, 2004, 118 Stat. 2277; Pub. L. 109–162, title I, §§ 101(a), 102(a), title XI, §§ 1116, 1142(b), 1163(c), Jan. 5, 2006, 119 Stat. 2972, 2975, 3104, 3110, 3120; Pub. L. 109–177, title VII, § 752, Mar. 9, 2006, 120 Stat. 273; Pub. L. 110–199, title I, § 112(b), Apr. 9, 2008, 122 Stat. 674; Pub. L. 110–421, § 2, Oct. 15, 2008, 122 Stat. 4778; Pub. L. 113–4, title I, §§ 101(1), 102(b), Mar. 7, 2013, 127 Stat. 64, 73; Pub. L. 114–155, § 2, May 16, 2016, 130 Stat. 389; Pub. L. 114–198, title II, § 201(a)(2), July 22, 2016, 130 Stat. 714; Pub. L. 114–324, § 9(b), Dec. 16, 2016, 130 Stat. 1955; Pub. L. 115–271, title VIII, §§ 8092, 8206, Oct. 24, 2018, 132 Stat. 4103, 4113; Pub. L. 115–391, title V, § 502(c)(3), Dec. 21, 2018, 132 Stat. 5229; Pub. L. 116–18, § 1(a), May 23, 2019, 133 Stat. 869; Pub. L. 116–32, § 3, July 25, 2019, 133 Stat. 1037; Pub. L. 117–103, div. W, title I, §§ 101(b), 102(c), Mar. 15, 2022, 136 Stat. 848, 850.)
+(Pub. L. 90–351, title I, § 1001, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, § 609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, § 1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, § 6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, § 241(c), title VIII, § 801(b), title XVIII, § 1801(e), title XXVIII, § 2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, § 4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, § 1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, § 10003(c), title II, § 20201(d), title III, § 32101(d), title IV, §§ 40121(c), 40156(c)(1), 40231(c), title V, § 50001(c), title XVIII, § 180101(a), title XXI, §§ 210201(c), 210302(c)(3), 210601, title XXXIII, § 330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(B)(i)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, § 3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§ 1103(a), 1104, title III, § 1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, § 3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, § 3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, § 2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–273, div. B, title II, § 2302, Nov. 2, 2002, 116 Stat. 1798; Pub. L. 108–372, § 4, Oct. 25, 2004, 118 Stat. 1755; Pub. L. 108–405, title III, § 311(c), (d), Oct. 30, 2004, 118 Stat. 2277; Pub. L. 109–162, title I, §§ 101(a), 102(a), title XI, §§ 1116, 1142(b), 1163(c), Jan. 5, 2006, 119 Stat. 2972, 2975, 3104, 3110, 3120; Pub. L. 109–177, title VII, § 752, Mar. 9, 2006, 120 Stat. 273; Pub. L. 110–199, title I, § 112(b), Apr. 9, 2008, 122 Stat. 674; Pub. L. 110–421, § 2, Oct. 15, 2008, 122 Stat. 4778; Pub. L. 113–4, title I, §§ 101(1), 102(b), Mar. 7, 2013, 127 Stat. 64, 73; Pub. L. 114–155, § 2, May 16, 2016, 130 Stat. 389; Pub. L. 114–198, title II, § 201(a)(2), July 22, 2016, 130 Stat. 714; Pub. L. 114–324, § 9(b), Dec. 16, 2016, 130 Stat. 1955; Pub. L. 115–271, title VIII, §§ 8092, 8206, Oct. 24, 2018, 132 Stat. 4103, 4113; Pub. L. 115–391, title V, § 502(c)(3), Dec. 21, 2018, 132 Stat. 5229; Pub. L. 116–18, § 1(a), May 23, 2019, 133 Stat. 869; Pub. L. 116–32, § 3, July 25, 2019, 133 Stat. 1037; Pub. L. 117–103, div. W, title I, §§ 101(b), 102(c), Mar. 15, 2022, 136 Stat. 848, 850.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Part F, referred to in subsec. (a)(3), is part F of title I of Pub. L. 90–351, which was classified to subchapter VI (§§ 3769 to 3769d) of chapter 46 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–162, title XI, § 1154(a), Jan. 5, 2006, 119 Stat. 3113.
+Part F, referred to in subsec. (a)(3), is part F of title I of Pub. L. 90–351, which was classified to subchapter VI (§§ 3769 to 3769d) of chapter 46 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–162, title XI, § 1154(a), Jan. 5, 2006, 119 Stat. 3113.
 
-Part V, referred to in subsec. (a)(3), (20), is former part V of title I of Pub. L. 90–351, which was classified to former subchapter XII–J (§§ 3796ii to 3796ii–8) of chapter 46 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327. Subsequently, a new Part V was enacted by Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2399, and is classified to subchapter XXI of this chapter.
+Part V, referred to in subsec. (a)(3), (20), is former part V of title I of Pub. L. 90–351, which was classified to former subchapter XII–J (§§ 3796ii to 3796ii–8) of chapter 46 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327. Subsequently, a new Part V was enacted by Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2399, and is classified to subchapter XXI of this chapter.
 
 Section 2401(c) of title II of Division B of the 21st Century Department of Justice Appropriations Authorization Act, referred to in subsec. (a)(25)(C), probably means section 2301(c) of title II of div. B of Pub. L. 107–273, Nov. 2, 2002, 116 Stat. 1798, which is not classified to the Code. Pub. L. 107–273 does not contain a section 2401.
 
@@ -4381,15 +4381,15 @@ Another section 1001 of Pub. L. 90–351 enacted section 7313 of Title 5, Govern
 
 **Amendments**
 
-2022—Subsec. (a)(18). Pub. L. 117–103, § 101(b), substituted “2023 through 2027” for “2014 through 2018”.
+2022—Subsec. (a)(18). Pub. L. 117–103, § 101(b), substituted “2023 through 2027” for “2014 through 2018”.
 
-Subsec. (a)(19). Pub. L. 117–103, § 102(c), substituted “2023 through 2027” for “2014 through 2018”.
+Subsec. (a)(19). Pub. L. 117–103, § 102(c), substituted “2023 through 2027” for “2014 through 2018”.
 
 2019—Subsec. (a)(21). Pub. L. 116–32 amended par. (21) generally. Prior to amendment, par. (21) authorized appropriations for fiscal years 1996 to 2000 to carry out subchapter XXII.
 
 Subsec. (a)(23). Pub. L. 116–18 substituted “subchapter XXIV, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.” for “subchapter XXIV, $25,000,000 for each of fiscal years 2016 through 2020.”
 
-2018—Subsec. (a)(25)(A). Pub. L. 115–271, § 8206, substituted “Except as provided in subparagraph (C), there is authorized to be appropriated to carry out subchapter XXX $75,000,000 for each of fiscal years 2018 through 2023.” for “Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XXX—
+2018—Subsec. (a)(25)(A). Pub. L. 115–271, § 8206, substituted “Except as provided in subparagraph (C), there is authorized to be appropriated to carry out subchapter XXX $75,000,000 for each of fiscal years 2018 through 2023.” for “Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XXX—
 
 “(i) $50,000,000 for fiscal year 2002;
 
@@ -4403,9 +4403,9 @@ Subsec. (a)(23). Pub. L. 116–18 substituted “subchapter XXIV, $30,000,000 fo
 
 “(v) $70,000,000 for fiscal year 2006.”
 
-Subsec. (a)(27). Pub. L. 115–271, § 8092, substituted “and 2018, and $330,000,000 for each of fiscal years 2019 through 2023” for “through 2021”.
+Subsec. (a)(27). Pub. L. 115–271, § 8092, substituted “and 2018, and $330,000,000 for each of fiscal years 2019 through 2023” for “through 2021”.
 
-Subsec. (a)(28). Pub. L. 115–391, § 502(c)(3), added par. (28).
+Subsec. (a)(28). Pub. L. 115–391, § 502(c)(3), added par. (28).
 
 2016—Subsec. (a)(23). Pub. L. 114–155 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “There are authorized to be appropriated to carry out subchapter XII–M of this chapter, $25,000,000 for each of fiscal years 1999 through 2001, and $50,000,000 for each of fiscal years 2002 through 2012.”
 
@@ -4413,41 +4413,41 @@ Subsec. (a)(24)(J) to (N). Pub. L. 114–324 added subpars. (J) to (N).
 
 Subsec. (a)(27). Pub. L. 114–198 added par. (27).
 
-2013—Subsec. (a)(18). Pub. L. 113–4, § 101(1), substituted “$222,000,000 for each of fiscal years 2014 through 2018” for “$225,000,000 for each of fiscal years 2007 through 2011”.
+2013—Subsec. (a)(18). Pub. L. 113–4, § 101(1), substituted “$222,000,000 for each of fiscal years 2014 through 2018” for “$225,000,000 for each of fiscal years 2007 through 2011”.
 
-Subsec. (a)(19). Pub. L. 113–4, § 102(b), substituted “$73,000,000 for each of fiscal years 2014 through 2018.” for “$75,000,000 for each of fiscal years 2007 through 2011.” and struck out second period at end.
+Subsec. (a)(19). Pub. L. 113–4, § 102(b), substituted “$73,000,000 for each of fiscal years 2014 through 2018.” for “$75,000,000 for each of fiscal years 2007 through 2011.” and struck out second period at end.
 
 2008—Subsec. (a)(23). Pub. L. 110–421 substituted “2012” for “2009”.
 
 Subsec. (a)(26). Pub. L. 110–199 added par. (26).
 
-2006—Subsec. (a)(11)(A). Pub. L. 109–162, § 1163(c)(1), substituted provisions authorizing appropriations for fiscal years 2006 through 2009 for provisions authorizing appropriations for fiscal years 1995 through 2000.
+2006—Subsec. (a)(11)(A). Pub. L. 109–162, § 1163(c)(1), substituted provisions authorizing appropriations for fiscal years 2006 through 2009 for provisions authorizing appropriations for fiscal years 1995 through 2000.
 
-Subsec. (a)(11)(B). Pub. L. 109–162, § 1163(c)(2), substituted “section 3796dd(d) of this title” for “section 3796dd(f) of this title” and struck out “Of the funds available in relation to grants under subchapter XII–E of this chapter, at least 85 percent shall be applied to grants for the purposes specified in section 3796dd(b) of this title, and no more than 15 percent may be applied to other grants in furtherance of the purposes of subchapter XII–E of this chapter.” after second sentence.
+Subsec. (a)(11)(B). Pub. L. 109–162, § 1163(c)(2), substituted “section 3796dd(d) of this title” for “section 3796dd(f) of this title” and struck out “Of the funds available in relation to grants under subchapter XII–E of this chapter, at least 85 percent shall be applied to grants for the purposes specified in section 3796dd(b) of this title, and no more than 15 percent may be applied to other grants in furtherance of the purposes of subchapter XII–E of this chapter.” after second sentence.
 
-Subsec. (a)(18). Pub. L. 109–162, § 101(a), substituted “$225,000,000 for each of fiscal years 2007 through 2011” for “$185,000,000 for each of fiscal years 2001 through 2005”.
+Subsec. (a)(18). Pub. L. 109–162, § 101(a), substituted “$225,000,000 for each of fiscal years 2007 through 2011” for “$185,000,000 for each of fiscal years 2001 through 2005”.
 
-Subsec. (a)(19). Pub. L. 109–162, § 102(a), substituted “$75,000,000 for each of fiscal years 2007 through 2011. Funds appropriated under this paragraph shall remain available until expended.” for “$65,000,000 for each of fiscal years 2001 through 2005”.
+Subsec. (a)(19). Pub. L. 109–162, § 102(a), substituted “$75,000,000 for each of fiscal years 2007 through 2011. Funds appropriated under this paragraph shall remain available until expended.” for “$65,000,000 for each of fiscal years 2001 through 2005”.
 
-Subsec. (a)(23). Pub. L. 109–162, § 1116, substituted “2009” for “2007”.
+Subsec. (a)(23). Pub. L. 109–162, § 1116, substituted “2009” for “2007”.
 
 Subsec. (a)(25)(A)(v). Pub. L. 109–177, which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal year 2006, at end, was executed by adding that cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
 
-Pub. L. 109–162, § 1142(b), which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal years 2007 and 2008, at end, was executed by adding cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
+Pub. L. 109–162, § 1142(b), which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal years 2007 and 2008, at end, was executed by adding cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
 
 2004—Subsec. (a)(23). Pub. L. 108–372 substituted “2007” for “2004”.
 
-Subsec. (a)(24). Pub. L. 108–405, § 311(d), realigned margins.
+Subsec. (a)(24). Pub. L. 108–405, § 311(d), realigned margins.
 
-Subsec. (a)(24)(G) to (I). Pub. L. 108–405, § 311(c), added subpars. (G) to (I).
+Subsec. (a)(24)(G) to (I). Pub. L. 108–405, § 311(c), added subpars. (G) to (I).
 
-Subsec. (a)(25). Pub. L. 108–405, § 311(d), realigned margins.
+Subsec. (a)(25). Pub. L. 108–405, § 311(d), realigned margins.
 
-2002—Subsec. (a)(3). Pub. L. 107–273, § 2302(1), inserted “or XVI” after “and XII–L”.
+2002—Subsec. (a)(3). Pub. L. 107–273, § 2302(1), inserted “or XVI” after “and XII–L”.
 
-Subsec. (a)(25). Pub. L. 107–273, § 2302(2), added par. (25).
+Subsec. (a)(25). Pub. L. 107–273, § 2302(2), added par. (25).
 
-2000—Subsec. (a)(7). Pub. L. 106–386, § 1302(c), added par. (7) and struck out former par. (7) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–B of this chapter—
+2000—Subsec. (a)(7). Pub. L. 106–386, § 1302(c), added par. (7) and struck out former par. (7) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–B of this chapter—
 
 “(A) $250,000 for fiscal year 1996;
 
@@ -4459,7 +4459,7 @@ Subsec. (a)(25). Pub. L. 107–273, § 2302(2), added par. (25).
 
 “(E) $1,000,000 for fiscal year 2000.”
 
-Subsec. (a)(18). Pub. L. 106–386, § 1103(a), added par. (18) and struck out former par. (18) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–H of this chapter—
+Subsec. (a)(18). Pub. L. 106–386, § 1103(a), added par. (18) and struck out former par. (18) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–H of this chapter—
 
 “(A) $26,000,000 for fiscal year 1995;
 
@@ -4473,7 +4473,7 @@ Subsec. (a)(18). Pub. L. 106–386, § 1103(a), added par. (18) and struck out
 
 “(F) $174,000,000 for fiscal year 2000.”
 
-Subsec. (a)(19). Pub. L. 106–386, § 1104, added par. (19) and struck out former par. (19) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–I of this chapter—
+Subsec. (a)(19). Pub. L. 106–386, § 1104, added par. (19) and struck out former par. (19) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–I of this chapter—
 
 “(A) $28,000,000 for fiscal year 1996;
 
@@ -4483,7 +4483,7 @@ Subsec. (a)(19). Pub. L. 106–386, § 1104, added par. (19) and struck out fo
 
 Subsec. (a)(20). Pub. L. 106–515 added par. (20).
 
-Subsec. (a)(23). Pub. L. 106–517 inserted “, and $50,000,000 for each of fiscal years 2002 through 2004” before period at end.
+Subsec. (a)(23). Pub. L. 106–517 inserted “, and $50,000,000 for each of fiscal years 2002 through 2004” before period at end.
 
 Subsec. (a)(24). Pub. L. 106–561 added par. (24).
 
@@ -4503,107 +4503,107 @@ Subsec. (a)(24). Pub. L. 106–561 added par. (24).
 
 “(F) $200,000,000 for fiscal year 2000.”
 
-1994—Subsec. (a)(1), (2). Pub. L. 103–322, § 210601(1), (2), substituted “1994 and 1995” for “1993 and 1994”.
+1994—Subsec. (a)(1), (2). Pub. L. 103–322, § 210601(1), (2), substituted “1994 and 1995” for “1993 and 1994”.
 
-Subsec. (a)(3). Pub. L. 103–322, § 210601(3), substituted “1994 and 1995” for “1993 and 1994”.
+Subsec. (a)(3). Pub. L. 103–322, § 210601(3), substituted “1994 and 1995” for “1993 and 1994”.
 
-Pub. L. 103–322, § 210302(c)(3)(A), which directed the substitution of “XII–K, and XII–L” for “and XII–K” in par. (3) of this section, was executed by making the substitution in par. (3) of subsec. (a) to reflect the probable intent of Congress.
+Pub. L. 103–322, § 210302(c)(3)(A), which directed the substitution of “XII–K, and XII–L” for “and XII–K” in par. (3) of this section, was executed by making the substitution in par. (3) of subsec. (a) to reflect the probable intent of Congress.
 
-Pub. L. 103–322, § 210201(c)(1), substituted “XII–J, and XII–K” for “and XII–J”.
+Pub. L. 103–322, § 210201(c)(1), substituted “XII–J, and XII–K” for “and XII–J”.
 
-Pub. L. 103–322, § 50001(c)(1), substituted “XII–I, and XII–J” for “and XII–I”.
+Pub. L. 103–322, § 50001(c)(1), substituted “XII–I, and XII–J” for “and XII–I”.
 
-Pub. L. 103–322, § 40231(c)(1), substituted “XII–H, and XII–I” for “and XII–H”.
+Pub. L. 103–322, § 40231(c)(1), substituted “XII–H, and XII–I” for “and XII–H”.
 
-Pub. L. 103–322, § 40121(c)(1), which directed the substitution of “XII–G, and XII–H” for “and XII–G”, was executed by making the substitution for “or XII–G”, to reflect the probable intent of Congress. See below.
+Pub. L. 103–322, § 40121(c)(1), which directed the substitution of “XII–G, and XII–H” for “and XII–G”, was executed by making the substitution for “or XII–G”, to reflect the probable intent of Congress. See below.
 
-Pub. L. 103–322, § 32101(d)(1), which directed the substitution of “XII–F, or XII–G” for “and XII–F”, was executed by making the substitution for “or XII–F” to reflect the probable intent of Congress. See below.
+Pub. L. 103–322, § 32101(d)(1), which directed the substitution of “XII–F, or XII–G” for “and XII–F”, was executed by making the substitution for “or XII–F” to reflect the probable intent of Congress. See below.
 
-Pub. L. 103–322, § 20201(d)(1), substituted “XII–E, or XII–F” for “and XII–E”.
+Pub. L. 103–322, § 20201(d)(1), substituted “XII–E, or XII–F” for “and XII–E”.
 
-Pub. L. 103–322, § 10003(c)(1), substituted “XII–C, XII–D, and XII–E” for “and XII–C”.
+Pub. L. 103–322, § 10003(c)(1), substituted “XII–C, XII–D, and XII–E” for “and XII–C”.
 
-Subsec. (a)(5). Pub. L. 103–322, § 330001(b)(3), inserted “(other than subpart 2 of part B)” after “and V”.
+Subsec. (a)(5). Pub. L. 103–322, § 330001(b)(3), inserted “(other than subpart 2 of part B)” after “and V”.
 
-Pub. L. 103–322, § 210601(4), substituted “1994 and 1995” for “1993 and 1994”.
+Pub. L. 103–322, § 210601(4), substituted “1994 and 1995” for “1993 and 1994”.
 
-Subsec. (a)(6). Pub. L. 103–322, § 210601(5), inserted “and 1995” after “1994”.
+Subsec. (a)(6). Pub. L. 103–322, § 210601(5), inserted “and 1995” after “1994”.
 
-Subsec. (a)(7). Pub. L. 103–322, § 210601(6), which directed the substitution of “1994 and 1995” for “1991, 1992, 1993, and 1994,”, could not be executed because “1991, 1992, 1993, and 1994,” did not appear in text of par. (7). See below.
+Subsec. (a)(7). Pub. L. 103–322, § 210601(6), which directed the substitution of “1994 and 1995” for “1991, 1992, 1993, and 1994,”, could not be executed because “1991, 1992, 1993, and 1994,” did not appear in text of par. (7). See below.
 
-Pub. L. 103–322, § 40156(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “There is authorized to be appropriated $25,000,000 for each of the fiscal years 1992, 1993, and 1994 to carry out the programs under subchapter XII–B of this chapter.”
+Pub. L. 103–322, § 40156(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “There is authorized to be appropriated $25,000,000 for each of the fiscal years 1992, 1993, and 1994 to carry out the programs under subchapter XII–B of this chapter.”
 
-Subsec. (a)(8). Pub. L. 103–322, § 210601(7), inserted “and 1995” after “1994”.
+Subsec. (a)(8). Pub. L. 103–322, § 210601(7), inserted “and 1995” after “1994”.
 
-Subsec. (a)(9). Pub. L. 103–322, § 210601(8), which directed the insertion of “and 1995” after “1994”, could not be executed because “1994” did not appear in text subsequent to amendment by Pub. L. 103–322, § 180101(a). See below.
+Subsec. (a)(9). Pub. L. 103–322, § 210601(8), which directed the insertion of “and 1995” after “1994”, could not be executed because “1994” did not appear in text subsequent to amendment by Pub. L. 103–322, § 180101(a). See below.
 
-Pub. L. 103–322, § 180101(a), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $22,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994 to carry out subchapter XII–C of this chapter.”
+Pub. L. 103–322, § 180101(a), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $22,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994 to carry out subchapter XII–C of this chapter.”
 
-Subsec. (a)(11). Pub. L. 103–322, § 10003(c)(2), added par. (11).
+Subsec. (a)(11). Pub. L. 103–322, § 10003(c)(2), added par. (11).
 
-Subsec. (a)(16). Pub. L. 103–322, § 20201(d)(2), added par. (16).
+Subsec. (a)(16). Pub. L. 103–322, § 20201(d)(2), added par. (16).
 
-Subsec. (a)(17). Pub. L. 103–322, § 32101(d)(2), added par. (17).
+Subsec. (a)(17). Pub. L. 103–322, § 32101(d)(2), added par. (17).
 
-Subsec. (a)(18). Pub. L. 103–322, § 40121(c)(2), added par. (18).
+Subsec. (a)(18). Pub. L. 103–322, § 40121(c)(2), added par. (18).
 
-Subsec. (a)(19). Pub. L. 103–322, § 40231(c)(2), added par. (19).
+Subsec. (a)(19). Pub. L. 103–322, § 40231(c)(2), added par. (19).
 
-Subsec. (a)(20). Pub. L. 103–322, § 50001(c)(2), added par. (20).
+Subsec. (a)(20). Pub. L. 103–322, § 50001(c)(2), added par. (20).
 
-Subsec. (a)(21). Pub. L. 103–322, § 210201(c)(2), added par. (21).
+Subsec. (a)(21). Pub. L. 103–322, § 210201(c)(2), added par. (21).
 
-Subsec. (a)(22). Pub. L. 103–322, § 210302(c)(3)(B), which directed amendment of this section by adding at the end a new par. (22), was executed by adding par. (22) at the end of subsec. (a) to reflect the probable intent of Congress.
+Subsec. (a)(22). Pub. L. 103–322, § 210302(c)(3)(B), which directed amendment of this section by adding at the end a new par. (22), was executed by adding par. (22) at the end of subsec. (a) to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 103–322, § 330001(h)(14), substituted “such subchapter” for “such subchapters”.
+Subsec. (c). Pub. L. 103–322, § 330001(h)(14), substituted “such subchapter” for “such subchapters”.
 
-1992—Subsec. (a)(1). Pub. L. 102–534, § 1(2), substituted “fiscal year 1992 and $33,000,000 for each of the fiscal years 1993 and 1994” for “each of the fiscal years 1989, 1990, 1991, and 1992”.
+1992—Subsec. (a)(1). Pub. L. 102–534, § 1(2), substituted “fiscal year 1992 and $33,000,000 for each of the fiscal years 1993 and 1994” for “each of the fiscal years 1989, 1990, 1991, and 1992”.
 
-Subsec. (a)(2). Pub. L. 102–534, § 1(3), substituted “fiscal year 1992 and $33,000,000 for each of the fiscal years 1993 and 1994” for “each of the fiscal years 1989, 1990, 1991, and 1992”.
+Subsec. (a)(2). Pub. L. 102–534, § 1(3), substituted “fiscal year 1992 and $33,000,000 for each of the fiscal years 1993 and 1994” for “each of the fiscal years 1989, 1990, 1991, and 1992”.
 
-Subsec. (a)(3). Pub. L. 102–534, § 1(4), substituted “such sums as may be necessary for fiscal year 1992 and $28,000,000 for each of the fiscal years 1993 and 1994 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance other than functions under subchapters IV, V, VI, VII, XII, XII–A, XII–B, and XII–C” for “$25,500,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance, other than functions under subchapters IV, V, VI, VII, XII, XII–A, and XII–B”.
+Subsec. (a)(3). Pub. L. 102–534, § 1(4), substituted “such sums as may be necessary for fiscal year 1992 and $28,000,000 for each of the fiscal years 1993 and 1994 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance other than functions under subchapters IV, V, VI, VII, XII, XII–A, XII–B, and XII–C” for “$25,500,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance, other than functions under subchapters IV, V, VI, VII, XII, XII–A, and XII–B”.
 
-Subsec. (a)(5). Pub. L. 102–534, § 1(5), substituted “such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1993 and 1994 to carry out the programs under subchapters IV and V (other than subpart 2 of part B of subchapter V)” for “$900,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V”.
+Subsec. (a)(5). Pub. L. 102–534, § 1(5), substituted “such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1993 and 1994 to carry out the programs under subchapters IV and V (other than subpart 2 of part B of subchapter V)” for “$900,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V”.
 
-Subsec. (a)(6). Pub. L. 102–534, § 1(6), substituted “such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994” for “$220,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992”.
+Subsec. (a)(6). Pub. L. 102–534, § 1(6), substituted “such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994” for “$220,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992”.
 
-Subsec. (a)(7). Pub. L. 102–534, § 1(7), substituted “1992, 1993, and 1994” for “1991, 1992, and 1993”.
+Subsec. (a)(7). Pub. L. 102–534, § 1(7), substituted “1992, 1993, and 1994” for “1991, 1992, and 1993”.
 
-Pub. L. 102–521, § 4(c)(1), and Pub. L. 102–534, § 1(1), amended subsec. (a) identically, redesignating par. (6), relating to authorization of appropriations for subchapter XII–B of this chapter, as (7). Former pars. (7) redesignated (8) and (9).
+Pub. L. 102–521, § 4(c)(1), and Pub. L. 102–534, § 1(1), amended subsec. (a) identically, redesignating par. (6), relating to authorization of appropriations for subchapter XII–B of this chapter, as (7). Former pars. (7) redesignated (8) and (9).
 
-Subsec. (a)(8). Pub. L. 102–534, § 1(8), substituted “such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994” for “$15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992 to carry out the programs under subchapter XII–A of this chapter”.
+Subsec. (a)(8). Pub. L. 102–534, § 1(8), substituted “such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994” for “$15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992 to carry out the programs under subchapter XII–A of this chapter”.
 
-Pub. L. 102–521, § 4(c)(1), and Pub. L. 102–534, § 1(1), amended subsec. (a) identically, redesignating par. (7), relating to authorization of appropriations for subchapter XII–A of this chapter, as (8).
+Pub. L. 102–521, § 4(c)(1), and Pub. L. 102–534, § 1(1), amended subsec. (a) identically, redesignating par. (7), relating to authorization of appropriations for subchapter XII–A of this chapter, as (8).
 
-Subsec. (a)(9). Pub. L. 102–534, § 1(9)(C), which directed the amendment of subsec. (a)(9) by substituting “such subchapter” for “such subchapters” in “subsection (c)”, could not be executed because “such subchapters” did not appear in text of subsec. (a)(9).
+Subsec. (a)(9). Pub. L. 102–534, § 1(9)(C), which directed the amendment of subsec. (a)(9) by substituting “such subchapter” for “such subchapters” in “subsection (c)”, could not be executed because “such subchapters” did not appear in text of subsec. (a)(9).
 
-Pub. L. 102–534, § 1(9)(A), (B), substituted “such sums as may be necessary for fiscal year 1992, $22,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994” for “$20,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992 and 1993,”.
+Pub. L. 102–534, § 1(9)(A), (B), substituted “such sums as may be necessary for fiscal year 1992, $22,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994” for “$20,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992 and 1993,”.
 
-Pub. L. 102–521, § 4(c)(1), and Pub. L. 102–534, § 1(1), amended subsec. (a) identically, redesignating par. (7), relating to authorization of appropriations for subchapter XII–C of this chapter, as (9).
+Pub. L. 102–521, § 4(c)(1), and Pub. L. 102–534, § 1(1), amended subsec. (a) identically, redesignating par. (7), relating to authorization of appropriations for subchapter XII–C of this chapter, as (9).
 
-Subsec. (a)(10). Pub. L. 102–521, § 4(c)(2), added par. (10).
+Subsec. (a)(10). Pub. L. 102–521, § 4(c)(2), added par. (10).
 
-1990—Subsec. (a)(3). Pub. L. 101–647, § 241(c)(1)(A), substituted “XII–A, and XII–B” for “and XII–A”.
+1990—Subsec. (a)(3). Pub. L. 101–647, § 241(c)(1)(A), substituted “XII–A, and XII–B” for “and XII–A”.
 
-Subsec. (a)(5). Pub. L. 101–647, § 2801, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “There are authorized to be appropriated $275,000,000 for fiscal year 1989; $350,000,000 for fiscal year 1990; $400,000,000 for fiscal year 1991; and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V of this chapter.”
+Subsec. (a)(5). Pub. L. 101–647, § 2801, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “There are authorized to be appropriated $275,000,000 for fiscal year 1989; $350,000,000 for fiscal year 1990; $400,000,000 for fiscal year 1991; and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V of this chapter.”
 
-Subsec. (a)(6). Pub. L. 101–647, § 1801(e), added par. (6) relating to authorization of appropriations for subpart 2 of part B of subchapter V of this chapter.
+Subsec. (a)(6). Pub. L. 101–647, § 1801(e), added par. (6) relating to authorization of appropriations for subpart 2 of part B of subchapter V of this chapter.
 
-Pub. L. 101–647, § 241(c)(1)(C), added par. (6) relating to authorization of appropriations for subchapter XII–B of this chapter. Former par. (6) redesignated (7).
+Pub. L. 101–647, § 241(c)(1)(C), added par. (6) relating to authorization of appropriations for subchapter XII–B of this chapter. Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 101–647, § 801(b), added par. (7) relating to authorization of appropriations for subchapter XII–C of this chapter.
+Subsec. (a)(7). Pub. L. 101–647, § 801(b), added par. (7) relating to authorization of appropriations for subchapter XII–C of this chapter.
 
-Pub. L. 101–647, § 241(c)(1)(B), redesignated par. (6), relating to authorization of appropriations for subchapter XII–A of this chapter, as (7).
+Pub. L. 101–647, § 241(c)(1)(B), redesignated par. (6), relating to authorization of appropriations for subchapter XII–A of this chapter, as (7).
 
-Subsec. (b). Pub. L. 101–647, § 241(c)(2), which directed substitution of “XII–A, and XII–B” for “and XII–A”, could not be executed because the words “and XII–A” did not appear.
+Subsec. (b). Pub. L. 101–647, § 241(c)(2), which directed substitution of “XII–A, and XII–B” for “and XII–A”, could not be executed because the words “and XII–A” did not appear.
 
 1988—Pub. L. 100–690 amended section generally, substituting provisions authorizing appropriations for fiscal years 1989 through 1992 for provisions authorizing appropriations for fiscal years 1984 through 1988.
 
-1986—Subsec. (a)(3). Pub. L. 99–570, § 1552(c)(1)(A), inserted reference to subchapter XII–A of this chapter.
+1986—Subsec. (a)(3). Pub. L. 99–570, § 1552(c)(1)(A), inserted reference to subchapter XII–A of this chapter.
 
-Subsec. (a)(6), (7). Pub. L. 99–570, § 1552(c)(1)(B), (C), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (a)(6), (7). Pub. L. 99–570, § 1552(c)(1)(B), (C), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (b). Pub. L. 99–570, § 1552(c)(2), inserted reference to subchapter XII–A of this chapter.
+Subsec. (b). Pub. L. 99–570, § 1552(c)(2), inserted reference to subchapter XII–A of this chapter.
 
 1984—Pub. L. 98–473, in amending section generally, designated existing provisions as subsec. (a), substituted appropriations authorization of necessary sums for fiscal years 1984 through 1988 for authorizations for fiscal years ending Sept. 30, 1980, through 1983, struck out provisions authorizing appropriations for subchapter VIII and for carrying out remaining functions of the Law Enforcement Assistance Administration, and added subsec. (b).
 
@@ -4619,7 +4619,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–162, § 4, as added by Pub. L. 109–271, § 1(b), Aug. 12, 2006, 120 Stat. 750, provided that: “Notwithstanding any other provision of this Act or any other law, sections 101, 102 (except the amendment to section 2101(d) of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10461(d)] included in that section), 103, 121, 203, 204, 205, 304, 306, 602, 906, and 907 of this Act [see Tables for classification] shall not take effect until the beginning of fiscal year 2007.”
+Pub. L. 109–162, § 4, as added by Pub. L. 109–271, § 1(b), Aug. 12, 2006, 120 Stat. 750, provided that: “Notwithstanding any other provision of this Act or any other law, sections 101, 102 (except the amendment to section 2101(d) of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10461(d)] included in that section), 103, 121, 203, 204, 205, 304, 306, 602, 906, and 907 of this Act [see Tables for classification] shall not take effect until the beginning of fiscal year 2007.”
 
 **Effective Date of 1994 Amendment**
 
@@ -4633,15 +4633,15 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-**Use of Funds Available Under Former Subsection (a)(20)**
+**Use of Funds Available Under Former Subsection (a)(20)**
 
-Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(B)(ii)], Apr. 26, 1996, 110 Stat. 1321, 1321–21, provided that: “Notwithstanding the provisions of subparagraph (A) [repealing sections 3796ii to 3796ii–8 of Title 42, The Public Health and Welfare], any funds that remain available to an applicant under paragraph (20) of [section 1001(a) of] title I of the Omnibus Crime Control and Safe Streets Act of 1968 [former 42 U.S.C. 3793(a)(20)] shall be used in accordance with part V of [title I of] such Act [former 42 U.S.C. 3796ii to 3796ii–8] as if [sic] such Act [part] was in effect on the day preceding the date of enactment of this Act [Apr. 26, 1996].”
+Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(B)(ii)], Apr. 26, 1996, 110 Stat. 1321, 1321–21, provided that: “Notwithstanding the provisions of subparagraph (A) [repealing sections 3796ii to 3796ii–8 of Title 42, The Public Health and Welfare], any funds that remain available to an applicant under paragraph (20) of [section 1001(a) of] title I of the Omnibus Crime Control and Safe Streets Act of 1968 [former 42 U.S.C. 3793(a)(20)] shall be used in accordance with part V of [title I of] such Act [former 42 U.S.C. 3796ii to 3796ii–8] as if [sic] such Act [part] was in effect on the day preceding the date of enactment of this Act [Apr. 26, 1996].”
 
 **Financial Support for Programs, etc., Devoted to International Aspects of Crime Prevention and Criminal Justice**
 
-Pub. L. 96–132, § 20(a), Nov. 30, 1979, 93 Stat. 1049, provided that: “The National Institute of Justice, the Bureau of Justice Statistics, and the Law Enforcement Assistance Administration are authorized to use funds, and to authorize States to use funds, for programs, projects or events devoted to the international aspects of crime prevention and criminal justice.”
+Pub. L. 96–132, § 20(a), Nov. 30, 1979, 93 Stat. 1049, provided that: “The National Institute of Justice, the Bureau of Justice Statistics, and the Law Enforcement Assistance Administration are authorized to use funds, and to authorize States to use funds, for programs, projects or events devoted to the international aspects of crime prevention and criminal justice.”
 
-### § 10262. State and local governments to consider courts
+### § 10262. State and local governments to consider courts
 
 The Attorney General may require, as appropriate, that whenever a State or unit of local government or Indian tribe applies for a grant from the Department of Justice, the State, unit, or tribe demonstrate that, in developing the application and distributing funds, the State, unit, or tribe—
 
@@ -4651,7 +4651,7 @@ The Attorney General may require, as appropriate, that whenever a State or unit 
 
 **(3)** consulted with the chief law enforcement officer of the law enforcement agency responsible for the security needs of the judicial branch of the State, unit, or tribe, as the case may be.
 
-(Pub. L. 110–177, title III, § 302(c), Jan. 7, 2008, 121 Stat. 2539.)
+(Pub. L. 110–177, title III, § 302(c), Jan. 7, 2008, 121 Stat. 2539.)
 
 **Editorial Notes**
 
@@ -4661,7 +4661,7 @@ Section was enacted as part of the Court Security Improvement Act of 2007, and n
 
 Section was formerly classified to section 3702 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10263. Oversight and accountability
+### § 10263. Oversight and accountability
 
 All grants awarded by the Department of Justice that are authorized under this Act shall be subject to the following:
 
@@ -4745,7 +4745,7 @@ Before the Attorney General awards a grant to an applicant under this Act, the A
 
 **(ii)** the reason the Attorney General awarded the duplicate grants.
 
-(Pub. L. 114–324, § 15, Dec. 16, 2016, 130 Stat. 1959.)
+(Pub. L. 114–324, § 15, Dec. 16, 2016, 130 Stat. 1959.)
 
 **Editorial Notes**
 
@@ -4761,11 +4761,11 @@ Section was formerly classified to section 3793c of Title 42, The Public Health 
 
 ## SUBCHAPTER X—CRIMINAL PENALTIES
 
-### § 10271. Misuse of Federal assistance
+### § 10271. Misuse of Federal assistance
 
 Whoever embezzles, willfully misapplies, steals, or obtains by fraud or endeavors to embezzle, willfully misapply, steal, or obtain by fraud any funds, assets, or property which are the subject of a grant or contract or other form of assistance pursuant to this chapter, whether received directly or indirectly from the Office of Justice Programs, Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, or whoever receives, conceals, or retains such funds, assets or property with intent to convert such funds, assets or property to his use or gain, knowing such funds, assets, or property has been embezzled, willfully misapplied, stolen or obtained by fraud, shall be fined not more than $10,000 or imprisoned for not more than five years, or both.
 
-(Pub. L. 90–351, title I, § 1101, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–473, title II, § 609E(a), Oct. 12, 1984, 98 Stat. 2097.)
+(Pub. L. 90–351, title I, § 1101, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–473, title II, § 609E(a), Oct. 12, 1984, 98 Stat. 2097.)
 
 **Editorial Notes**
 
@@ -4785,11 +4785,11 @@ Another section 1101 of Pub. L. 90–351, title VI, June 19, 1968, 82 Stat. 236,
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
 
-### § 10272. Falsification or concealment of facts
+### § 10272. Falsification or concealment of facts
 
 Whoever knowingly and willfully falsifies, conceals, or covers up by trick, scheme, or device, any material fact in any application for assistance submitted pursuant to this chapter or in any records required to be maintained pursuant to this chapter shall be subject to prosecution under the provisions of section 1001 of title 18.
 
-(Pub. L. 90–351, title I, § 1102, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219.)
+(Pub. L. 90–351, title I, § 1102, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219.)
 
 **Editorial Notes**
 
@@ -4801,11 +4801,11 @@ Section was formerly classified to section 3795a of Title 42, The Public Health 
 
 Provisions similar to this section were contained in former section 3792 of Title 42, The Public Health and Welfare, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-### § 10273. Conspiracy to commit offense against United States
+### § 10273. Conspiracy to commit offense against United States
 
 Any law enforcement or criminal justice program or project underwritten, in whole or in part, by any grant, or contract or other form of assistance pursuant to this chapter, whether received directly or indirectly from the Office of Justice Programs, Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be subject to the provisions of section 371 of title 18.
 
-(Pub. L. 90–351, title I, § 1103, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–473, title II, § 609E(b), Oct. 12, 1984, 98 Stat. 2098.)
+(Pub. L. 90–351, title I, § 1103, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–473, title II, § 609E(b), Oct. 12, 1984, 98 Stat. 2098.)
 
 **Editorial Notes**
 
@@ -4831,7 +4831,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 ### Part A—Death Benefits
 
-#### § 10281. Payment of death benefits
+#### § 10281. Payment of death benefits
 
 **(a) Amount; recipients** In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, a benefit of $250,000, adjusted in accordance with subsection (h), and calculated in accordance with subsection (i), shall be payable by the Bureau, as follows (if the payee indicated is living on the date on which the determination is made)—
 
@@ -5125,7 +5125,7 @@ The Director shall consider each recommendation under subclause (I) and promptly
 
 Not later than 30 days after taking any substantive action in connection with a recommendation under clause (iii)(II), the Director shall notify the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives of the substantive action.
 
-(Pub. L. 90–351, title I, § 1201, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, § 6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, § 1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, § 1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, § 330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, § 613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, § 2(b), June 24, 2002, 116 Stat. 719; Pub. L. 108–182, § 2, Dec. 15, 2003, 117 Stat. 2649; Pub. L. 109–162, title XI, § 1164(c)–(e), Jan. 5, 2006, 119 Stat. 3120, 3121; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(B), Jan. 2, 2013, 126 Stat. 1964; Pub. L. 117–61, § 2, Nov. 18, 2021, 135 Stat. 1474; Pub. L. 117–172, § 3(a), Aug. 16, 2022, 136 Stat. 2099; Pub. L. 119–60, div. H, title LXXXII, §§ 8204(a), 8205(a)(1), (c)(1), Dec. 18, 2025, 139 Stat. 1846, 1849.)
+(Pub. L. 90–351, title I, § 1201, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, § 6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, § 1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, § 1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, § 330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, § 613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, § 2(b), June 24, 2002, 116 Stat. 719; Pub. L. 108–182, § 2, Dec. 15, 2003, 117 Stat. 2649; Pub. L. 109–162, title XI, § 1164(c)–(e), Jan. 5, 2006, 119 Stat. 3120, 3121; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(B), Jan. 2, 2013, 126 Stat. 1964; Pub. L. 117–61, § 2, Nov. 18, 2021, 135 Stat. 1474; Pub. L. 117–172, § 3(a), Aug. 16, 2022, 136 Stat. 2099; Pub. L. 119–60, div. H, title LXXXII, §§ 8204(a), 8205(a)(1), (c)(1), Dec. 18, 2025, 139 Stat. 1846, 1849.)
 
 **Editorial Notes**
 
@@ -5141,51 +5141,51 @@ Section was formerly classified to section 3796 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 1201 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–411, title II, § 204(a)(1), Aug. 30, 1984, 98 Stat. 1561; Pub. L. 98–473, title II, § 609Z, Oct. 12, 1984, 98 Stat. 2107, contained provisions similar to this section, prior to the general amendment of part L of title I of Pub. L. 90–351 by section 609F of Pub. L. 98–473.
+A prior section 1201 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–411, title II, § 204(a)(1), Aug. 30, 1984, 98 Stat. 1561; Pub. L. 98–473, title II, § 609Z, Oct. 12, 1984, 98 Stat. 2107, contained provisions similar to this section, prior to the general amendment of part L of title I of Pub. L. 90–351 by section 609F of Pub. L. 98–473.
 
-Another prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
+Another prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
 
 **Amendments**
 
-2025—Subsec. (*o*)(2). Pub. L. 119–60, § 8205(c)(1), inserted “or (b)” after “subsection (a)” in pars. (A) to (C).
+2025—Subsec. (*o*)(2). Pub. L. 119–60, § 8205(c)(1), inserted “or (b)” after “subsection (a)” in pars. (A) to (C).
 
-Subsec. (p). Pub. L. 119–60, § 8204(a), added subsec. (p).
+Subsec. (p). Pub. L. 119–60, § 8204(a), added subsec. (p).
 
-Subsec. (q). Pub. L. 119–60, § 8205(a)(1), added subsec. (q).
+Subsec. (q). Pub. L. 119–60, § 8205(a)(1), added subsec. (q).
 
 2022—Subsec. (*o*). Pub. L. 117–172 added subsec. (*o*).
 
-2021—Subsec. (a). Pub. L. 117–61, § 2(1), in introductory provisions, struck out “the Bureau shall pay” before “a benefit of $250,000,” and inserted “, and calculated in accordance with subsection (i), shall be payable by the Bureau” after “ subsection (h)”.
+2021—Subsec. (a). Pub. L. 117–61, § 2(1), in introductory provisions, struck out “the Bureau shall pay” before “a benefit of $250,000,” and inserted “, and calculated in accordance with subsection (i), shall be payable by the Bureau” after “ subsection (h)”.
 
-Subsec. (b). Pub. L. 117–61, § 2(2), substituted “a benefit shall be payable” for “the Bureau shall pay the same benefit”, “in the same amount that would be payable, as of the date such injury was sustained (including” for “that is payable under subsection (a) with respect to the date on which the catastrophic injury occurred,”, and “necessary.” for “necessary: *Provided further*, That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” and inserted “, and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a)” before “: *Provided*, That”.
+Subsec. (b). Pub. L. 117–61, § 2(2), substituted “a benefit shall be payable” for “the Bureau shall pay the same benefit”, “in the same amount that would be payable, as of the date such injury was sustained (including” for “that is payable under subsection (a) with respect to the date on which the catastrophic injury occurred,”, and “necessary.” for “necessary: *Provided further*, That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” and inserted “, and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a)” before “: *Provided*, That”.
 
-Subsec. (c). Pub. L. 117–61, § 2(3), substituted “$6,000, adjusted in accordance with subsection (h),” for “$3,000”.
+Subsec. (c). Pub. L. 117–61, § 2(3), substituted “$6,000, adjusted in accordance with subsection (h),” for “$3,000”.
 
-Subsec. (h). Pub. L. 117–61, § 2(4), substituted “subsections (a) and (b) and the level of the interim benefit payable immediately before such October 1 under subsection (c)” for “subsection (a)”.
+Subsec. (h). Pub. L. 117–61, § 2(4), substituted “subsections (a) and (b) and the level of the interim benefit payable immediately before such October 1 under subsection (c)” for “subsection (a)”.
 
-Subsec. (i). Pub. L. 117–61, § 2(5), added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “The amount payable under subsection (a) with respect to the death of a public safety officer shall be the amount payable under subsection (a) as of the date of death of such officer.”
+Subsec. (i). Pub. L. 117–61, § 2(5), added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “The amount payable under subsection (a) with respect to the death of a public safety officer shall be the amount payable under subsection (a) as of the date of death of such officer.”
 
-Subsec. (m). Pub. L. 117–61, § 2(6), inserted “, (b),” after “subsection (a)”.
+Subsec. (m). Pub. L. 117–61, § 2(6), inserted “, (b),” after “subsection (a)”.
 
-2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(B)(i), substituted “follows (if the payee indicated is living on the date on which the determination is made)—” for “follows:” in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (6) which listed a succession of beneficiaries.
+2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(B)(i), substituted “follows (if the payee indicated is living on the date on which the determination is made)—” for “follows:” in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (6) which listed a succession of beneficiaries.
 
-Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(B)(ii), substituted “direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay the same benefit to the public safety officer (if living on the date on which the determination is made) that is payable under subsection (a) of this section with respect to the date on which the catastrophic injury occurred, as adjusted in accordance with subsection (h) of this section:” for “direct result of a catastrophic injury sustained in the line of duty, the Bureau shall pay, to the extent that appropriations are provided, the same benefit in any year that is payable under subsection (a) of this section in such year, adjusted in accordance with subsection (h) of this section, to such officer:”, “That for the purposes” for “That the total annual benefits paid under this subsection may not exceed $5,000,000. For the purposes”, and “That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” for “That these benefit payments are subject to the availability of appropriations and that each beneficiary’s payment shall be reduced by a proportionate share to the extent that sufficient funds are not appropriated.”
+Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(B)(ii), substituted “direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay the same benefit to the public safety officer (if living on the date on which the determination is made) that is payable under subsection (a) of this section with respect to the date on which the catastrophic injury occurred, as adjusted in accordance with subsection (h) of this section:” for “direct result of a catastrophic injury sustained in the line of duty, the Bureau shall pay, to the extent that appropriations are provided, the same benefit in any year that is payable under subsection (a) of this section in such year, adjusted in accordance with subsection (h) of this section, to such officer:”, “That for the purposes” for “That the total annual benefits paid under this subsection may not exceed $5,000,000. For the purposes”, and “That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” for “That these benefit payments are subject to the availability of appropriations and that each beneficiary’s payment shall be reduced by a proportionate share to the extent that sufficient funds are not appropriated.”
 
-Subsec. (f)(1). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(I), substituted semicolon at end for “, as amended (D.C. Code, sec. 4–622); or”.
+Subsec. (f)(1). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(I), substituted semicolon at end for “, as amended (D.C. Code, sec. 4–622); or”.
 
-Subsec. (f)(2). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(II), substituted “, such that beneficiaries shall receive only such benefits under such section 8191 as are in excess of the benefits received under this subchapter; or” for “. Such beneficiaries shall only receive benefits under such section 8191 that are in excess of the benefits received under this subchapter.”
+Subsec. (f)(2). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(II), substituted “, such that beneficiaries shall receive only such benefits under such section 8191 as are in excess of the benefits received under this subchapter; or” for “. Such beneficiaries shall only receive benefits under such section 8191 that are in excess of the benefits received under this subchapter.”
 
-Subsec. (f)(3). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(III), added par. (3).
+Subsec. (f)(3). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(III), added par. (3).
 
-Subsec. (k). Pub. L. 112–239, § 1086(b)(1)(B)(iv), amended subsec. (k) generally. Prior to amendment, subsec. (k) related to presumption with respect to death by heart attack or stroke.
+Subsec. (k). Pub. L. 112–239, § 1086(b)(1)(B)(iv), amended subsec. (k) generally. Prior to amendment, subsec. (k) related to presumption with respect to death by heart attack or stroke.
 
-Subsec. (n). Pub. L. 112–239, § 1086(b)(1)(B)(v), added subsec. (n).
+Subsec. (n). Pub. L. 112–239, § 1086(b)(1)(B)(v), added subsec. (n).
 
-2006—Subsec. (a)(4). Pub. L. 109–162, § 1164(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer’s most recently executed life insurance policy, provided that such individual survived such officer; or”.
+2006—Subsec. (a)(4). Pub. L. 109–162, § 1164(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer’s most recently executed life insurance policy, provided that such individual survived such officer; or”.
 
-Subsec. (a)(6). Pub. L. 109–162, § 1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a)) by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
+Subsec. (a)(6). Pub. L. 109–162, § 1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a)) by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
 
-Subsec. (m). Pub. L. 109–162, § 1164(c), added subsec. (m).
+Subsec. (m). Pub. L. 109–162, § 1164(c), added subsec. (m).
 
 2003—Subsecs. (k), (*l*). Pub. L. 108–182 added subsecs. (k) and (*l*).
 
@@ -5193,33 +5193,33 @@ Subsec. (m). Pub. L. 109–162, § 1164(c), added subsec. (m).
 
 2001—Subsec. (a). Pub. L. 107–56 substituted “$250,000” for “$100,000” in introductory provisions.
 
-1994—Subsec. (a). Pub. L. 103–322, § 330001(e)(1)(A), substituted “subsection (h) of this section,” for “subsection (g) of this section” in introductory provisions.
+1994—Subsec. (a). Pub. L. 103–322, § 330001(e)(1)(A), substituted “subsection (h) of this section,” for “subsection (g) of this section” in introductory provisions.
 
-Subsec. (b). Pub. L. 103–322, § 330001(e)(1)(B), substituted “catastrophic injury” for “catastrophic personal injury”, “subsection (h)” for “subsection (g)”, and “benefits paid under this subsection” for “benefits paid under this section”.
+Subsec. (b). Pub. L. 103–322, § 330001(e)(1)(B), substituted “catastrophic injury” for “catastrophic personal injury”, “subsection (h)” for “subsection (g)”, and “benefits paid under this subsection” for “benefits paid under this section”.
 
 1992—Subsec. (b). Pub. L. 102–520 substituted “the same benefit in any year that is payable under subsection (a) of this section in such year,” for “a benefit of up to $100,000,”.
 
-1990—Subsec. (b). Pub. L. 101–647, § 1301(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+1990—Subsec. (b). Pub. L. 101–647, § 1301(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 101–647, § 1301(a)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 101–647, § 1301(a)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsecs. (d), (e). Pub. L. 101–647, § 1301(a)(1), (2), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted “(c)” for “(b)”. Former subsec. (e) redesignated (f).
+Subsecs. (d), (e). Pub. L. 101–647, § 1301(a)(1), (2), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted “(c)” for “(b)”. Former subsec. (e) redesignated (f).
 
-Subsecs. (f) to (i). Pub. L. 101–647, § 1301(a)(2), redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
+Subsecs. (f) to (i). Pub. L. 101–647, § 1301(a)(2), redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 
-Subsec. (j). Pub. L. 101–647, § 1301(a)(4), added subsec. (j).
+Subsec. (j). Pub. L. 101–647, § 1301(a)(4), added subsec. (j).
 
-1988—Subsec. (a). Pub. L. 100–690, § 6105(a), substituted “$100,000, adjusted in accordance with subsection (g) of this section” for “$50,000”.
+1988—Subsec. (a). Pub. L. 100–690, § 6105(a), substituted “$100,000, adjusted in accordance with subsection (g) of this section” for “$50,000”.
 
-Subsec. (a)(4). Pub. L. 100–690, § 6105(c), struck out “dependent” before “parent”.
+Subsec. (a)(4). Pub. L. 100–690, § 6105(c), struck out “dependent” before “parent”.
 
-Subsecs. (g), (h). Pub. L. 100–690, § 6105(b), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 100–690, § 6105(b), added subsecs. (g) and (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–60, div. H, title LXXXII, § 8204(b), Dec. 18, 2025, 139 Stat. 1846, provided that:
+Pub. L. 119–60, div. H, title LXXXII, § 8204(b), Dec. 18, 2025, 139 Stat. 1846, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall—
 
@@ -5235,7 +5235,7 @@ Pub. L. 119–60, div. H, title LXXXII, § 8204(b), Dec. 18, 2025, 139 Stat. 1
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–172, § 3(b), Aug. 16, 2022, 136 Stat. 2099, provided that:
+Pub. L. 117–172, § 3(b), Aug. 16, 2022, 136 Stat. 2099, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall—
 
@@ -5247,7 +5247,7 @@ Pub. L. 117–172, § 3(b), Aug. 16, 2022, 136 Stat. 2099, provided that:
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–61, § 8, Nov. 18, 2021, 135 Stat. 1479, provided that:
+Pub. L. 117–61, § 8, Nov. 18, 2021, 135 Stat. 1479, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this section, the amendments made by this Act [amending this section and sections 10225, 10284, 10285, 10288, and 10306 of this title, and amending provisions set out as a note below] shall take effect on the date of enactment of this Act [Nov. 18, 2021].
 
@@ -5285,23 +5285,23 @@ Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–196, § 2(c), June 24, 2002, 116 Stat. 720, provided that: “The amendments made by this section [amending this section and section 10284 of this title] shall take effect on September 11, 2001, and shall apply to injuries or deaths that occur in the line of duty on or after such date.”
+Pub. L. 107–196, § 2(c), June 24, 2002, 116 Stat. 720, provided that: “The amendments made by this section [amending this section and section 10284 of this title] shall take effect on September 11, 2001, and shall apply to injuries or deaths that occur in the line of duty on or after such date.”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–56, title VI, § 613(b), Oct. 26, 2001, 115 Stat. 370, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any death or disability occurring on or after January 1, 2001.”
+Pub. L. 107–56, title VI, § 613(b), Oct. 26, 2001, 115 Stat. 370, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any death or disability occurring on or after January 1, 2001.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–520, § 2, Oct. 25, 1992, 106 Stat. 3402, provided that: “The amendments made by section 1 of this Act [amending this section] shall apply with respect to injuries occurring on or after November 29, 1990, using the calculation method used to determine benefits under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10281(a)].”
+Pub. L. 102–520, § 2, Oct. 25, 1992, 106 Stat. 3402, provided that: “The amendments made by section 1 of this Act [amending this section] shall apply with respect to injuries occurring on or after November 29, 1990, using the calculation method used to determine benefits under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10281(a)].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–647, title XIII, § 1303, Nov. 29, 1990, 104 Stat. 4835, provided that: “The amendments made by this title [amending this section and sections 10282 and 10284 of this title] shall take effect upon enactment [Nov. 29, 1990] and shall not apply with respect to injuries occurring before the effective date of such amendments.”
+Pub. L. 101–647, title XIII, § 1303, Nov. 29, 1990, 104 Stat. 4835, provided that: “The amendments made by this title [amending this section and sections 10282 and 10284 of this title] shall take effect upon enactment [Nov. 29, 1990] and shall not apply with respect to injuries occurring before the effective date of such amendments.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341, provided that: “The amendments made by this section [amending this section and section 10284 of this title] shall take effect on June 1, 1988.”
+Pub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341, provided that: “The amendments made by this section [amending this section and section 10284 of this title] shall take effect on June 1, 1988.”
 
 **Effective Date**
 
@@ -5309,7 +5309,7 @@ Subchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sus
 
 **Applicability**
 
-Pub. L. 119–60, div. H, title LXXXII, § 8205(a)(2), (3), Dec. 18, 2025, 139 Stat. 1849, provided that:
+Pub. L. 119–60, div. H, title LXXXII, § 8205(a)(2), (3), Dec. 18, 2025, 139 Stat. 1849, provided that:
 
 > **“(2) Applicability.—** The amendment made by paragraph (1) [amending this section] shall apply to any claim under—
 
@@ -5319,9 +5319,9 @@ Pub. L. 119–60, div. H, title LXXXII, § 8205(a)(2), (3), Dec. 18, 2025, 139
 
 > **“(3) Time for filing claim.—** Notwithstanding any other provision of law, an individual who desires to file a claim that is predicated upon the amendment made by paragraph (1) shall not be precluded from filing such a claim within 3 years of the date of enactment of this Act [Dec. 18, 2025].”
 
-Pub. L. 119–60, div. H, title LXXXII, § 8205(c)(2), Dec. 18, 2025, 139 Stat. 1849, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to any matter pending before the Department of Justice as of the date of enactment of this Act [Dec. 18, 2025].”
+Pub. L. 119–60, div. H, title LXXXII, § 8205(c)(2), Dec. 18, 2025, 139 Stat. 1849, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to any matter pending before the Department of Justice as of the date of enactment of this Act [Dec. 18, 2025].”
 
-Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(2), Dec. 18, 2025, 139 Stat. 1850, provided that:
+Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(2), Dec. 18, 2025, 139 Stat. 1850, provided that:
 
 > **“(A) In general.—** The amendment made by paragraph (1) [amending this section] shall apply to any claim under section 3 of the Safeguarding America’s First Responders Act of 2020 (34 U.S.C. 10281 note)—
 
@@ -5337,7 +5337,7 @@ Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(2), Dec. 18, 2025, 139 Stat
 
 **Findings**
 
-Pub. L. 117–172, § 2, Aug. 16, 2022, 136 Stat. 2098, provided that:
+Pub. L. 117–172, § 2, Aug. 16, 2022, 136 Stat. 2098, provided that:
 
 > “Congress finds the following:
 
@@ -5359,7 +5359,7 @@ Pub. L. 117–172, § 2, Aug. 16, 2022, 136 Stat. 2098, provided that:
 
 **Safeguarding America’s First Responders**
 
-Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61, § 9, Nov. 18, 2021, 135 Stat. 1481; Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(1), Dec. 18, 2025, 139 Stat. 1850, provided that:
+Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61, § 9, Nov. 18, 2021, 135 Stat. 1481; Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(1), Dec. 18, 2025, 139 Stat. 1850, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -5413,7 +5413,7 @@ Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61,
 
 > **“(2)** the public safety officer is authorized or obligated to perform.”
 
-#### § 10282. Limitations on benefits
+#### § 10282. Limitations on benefits
 
 **(a) In general** No benefit shall be paid under this subchapter—
 
@@ -5433,7 +5433,7 @@ Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61,
 
 **(2)** shall not determine that a limitation described in subsection (a) applies, absent clear and convincing evidence.
 
-(Pub. L. 90–351, title I, § 1202, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 101–647, title XIII, § 1301(b), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 109–162, title XI, § 1164(b), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(C), Jan. 2, 2013, 126 Stat. 1966; Pub. L. 115–36, § 5, June 2, 2017, 131 Stat. 852.)
+(Pub. L. 90–351, title I, § 1202, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 101–647, title XIII, § 1301(b), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 109–162, title XI, § 1164(b), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(C), Jan. 2, 2013, 126 Stat. 1966; Pub. L. 115–36, § 5, June 2, 2017, 131 Stat. 852.)
 
 **Editorial Notes**
 
@@ -5443,17 +5443,17 @@ Section was formerly classified to section 3796a of Title 42, The Public Health 
 
 **Prior Provisions**
 
-A prior section 1202 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1220; amended Pub. L. 98–411, title II, § 204(a)(2), Aug. 30, 1984, 98 Stat. 1561; Pub. L. 98–473, title II, § 609Z, Oct. 12, 1984, 98 Stat. 2107, contained provisions similar to this section, prior to the general amendment of part L of title I of Pub. L. 90–351 by section 609F of Pub. L. 98–473.
+A prior section 1202 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1220; amended Pub. L. 98–411, title II, § 204(a)(2), Aug. 30, 1984, 98 Stat. 1561; Pub. L. 98–473, title II, § 609Z, Oct. 12, 1984, 98 Stat. 2107, contained provisions similar to this section, prior to the general amendment of part L of title I of Pub. L. 90–351 by section 609F of Pub. L. 98–473.
 
-Another prior section 1202 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
+Another prior section 1202 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
 
 **Amendments**
 
 2017—Pub. L. 115–36 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-2013—Pub. L. 112–239, § 1086(b)(1)(C)(i), substituted “fatal” for “death” wherever appearing except in par. (1) following “bring about his”.
+2013—Pub. L. 112–239, § 1086(b)(1)(C)(i), substituted “fatal” for “death” wherever appearing except in par. (1) following “bring about his”.
 
-Par. (1). Pub. L. 112–239, § 1086(b)(1)(C)(ii), substituted “bring about his death, disability, or injury” for “bring about his death or catastrophic injury”.
+Par. (1). Pub. L. 112–239, § 1086(b)(1)(C)(ii), substituted “bring about his death, disability, or injury” for “bring about his death or catastrophic injury”.
 
 2006—Par. (5). Pub. L. 109–162 inserted “with respect” before “to any individual”.
 
@@ -5463,7 +5463,7 @@ Par. (1). Pub. L. 112–239, § 1086(b)(1)(C)(ii), substituted “bring about 
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–36, § 6, June 2, 2017, 131 Stat. 852, provided that:
+Pub. L. 115–36, § 6, June 2, 2017, 131 Stat. 852, provided that:
 
 > “The amendments made by this Act [enacting section 10288 of this title and amending this section and sections 10285 and 10302 of this title] shall—
 
@@ -5483,11 +5483,11 @@ Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters
 
 Amendment by Pub. L. 101–647 effective Nov. 29, 1990, and not applicable with respect to injuries occurring before Nov. 29, 1990, see section 1303 of Pub. L. 101–647, set out as a note under section 10281 of this title.
 
-#### § 10283. National programs for families of public safety officers who have sustained fatal or catastrophic injury in the line of duty
+#### § 10283. National programs for families of public safety officers who have sustained fatal or catastrophic injury in the line of duty
 
 The Director is authorized to use no less than $150,000 of the funds appropriated for this subchapter to maintain and enhance national peer support and counseling programs to assist families of public safety officers who have sustained fatal or catastrophic injury in the line of duty.
 
-(Pub. L. 90–351, title I, § 1203, as added Pub. L. 100–690, title VI, § 6106(a)(2), Nov. 18, 1988, 102 Stat. 4341; amended Pub. L. 105–180, § 2(a), June 16, 1998, 112 Stat. 511; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(D), Jan. 2, 2013, 126 Stat. 1966.)
+(Pub. L. 90–351, title I, § 1203, as added Pub. L. 100–690, title VI, § 6106(a)(2), Nov. 18, 1988, 102 Stat. 4341; amended Pub. L. 105–180, § 2(a), June 16, 1998, 112 Stat. 511; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(D), Jan. 2, 2013, 126 Stat. 1966.)
 
 **Editorial Notes**
 
@@ -5499,7 +5499,7 @@ Section was formerly classified to section 3796a–1 of Title 42, The Public Hea
 
 A prior section 1203 of Pub. L. 90–351 was renumbered section 1204 and is classified to section 10284 of this title.
 
-Another prior section 1203 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 237, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
+Another prior section 1203 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 237, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
 
 **Amendments**
 
@@ -5515,9 +5515,9 @@ Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-#### § 10284. Definitions
+#### § 10284. Definitions
 
 As used in this subchapter—
 
@@ -5575,9 +5575,9 @@ As used in this subchapter—
 
 **(i)** blind;
 
-**(ii)** parapalegic; 1
+**(ii)** parapalegic; 1
 
-<sup>1</sup>  So in original. Probably should be “paraplegic;”.
+<sup>1</sup> So in original. Probably should be “paraplegic;”.
 
 or
 
@@ -5673,13 +5673,13 @@ or resulting from drugs or other substances in the body;
 
 **(II)** managing the immediate consequences of a radiological release or exposure.
 
-(Pub. L. 90–351, title I, § 1204, formerly § 1203, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, § 101(b) [title II, § 207], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, § 101(b) [title II, § 207], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered § 1204 and amended Pub. L. 100–690, title VI, §§ 6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§ 1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, § 330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, § 305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, § 2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, § 1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 116–22, title III, § 301(d)(2), June 24, 2019, 133 Stat. 933; Pub. L. 116–283, div. C, title XXXI, § 3142, Jan. 1, 2021, 134 Stat. 4386; Pub. L. 117–61, § 3, Nov. 18, 2021, 135 Stat. 1475; Pub. L. 117–172, § 4(b), Aug. 16, 2022, 136 Stat. 2101.)
+(Pub. L. 90–351, title I, § 1204, formerly § 1203, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, § 101(b) [title II, § 207], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, § 101(b) [title II, § 207], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered § 1204 and amended Pub. L. 100–690, title VI, §§ 6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§ 1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, § 330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, § 305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, § 2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, § 1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 116–22, title III, § 301(d)(2), June 24, 2019, 133 Stat. 933; Pub. L. 116–283, div. C, title XXXI, § 3142, Jan. 1, 2021, 134 Stat. 4386; Pub. L. 117–61, § 3, Nov. 18, 2021, 135 Stat. 1475; Pub. L. 117–172, § 4(b), Aug. 16, 2022, 136 Stat. 2101.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (14)(C)(i), (D)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (14)(C)(i), (D)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Codification**
 
@@ -5695,91 +5695,91 @@ A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is clas
 
 **Amendments**
 
-2022—Par. (11). Pub. L. 117–172, § 4(b)(1), struck out “and” at end.
+2022—Par. (11). Pub. L. 117–172, § 4(b)(1), struck out “and” at end.
 
-Par. (12)(B). Pub. L. 117–172, § 4(b)(2), substituted semicolon for period at end.
+Par. (12)(B). Pub. L. 117–172, § 4(b)(2), substituted semicolon for period at end.
 
-Par. (14)(F), (G). Pub. L. 117–172, § 4(b)(3), redesignated subpar. (F) relating to an employee or contractor of the Department of Energy as (G).
+Par. (14)(F), (G). Pub. L. 117–172, § 4(b)(3), redesignated subpar. (F) relating to an employee or contractor of the Department of Energy as (G).
 
-2021—Pars. (1) to (3). Pub. L. 117–61, § 3(8), added pars. (1) to (3). Former pars. (1) to (3) redesignated (4) to (6), respectively.
+2021—Pars. (1) to (3). Pub. L. 117–61, § 3(8), added pars. (1) to (3). Former pars. (1) to (3) redesignated (4) to (6), respectively.
 
-Par. (4). Pub. L. 117–61, § 3(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘catastrophic injury’ means an injury, the direct and proximate consequences of which permanently prevent an individual from performing any gainful work;”.
+Par. (4). Pub. L. 117–61, § 3(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘catastrophic injury’ means an injury, the direct and proximate consequences of which permanently prevent an individual from performing any gainful work;”.
 
-Pub. L. 117–61, § 3(1), redesignated par. (1) as (4). Former par. (4) redesignated (7).
+Pub. L. 117–61, § 3(1), redesignated par. (1) as (4). Former par. (4) redesignated (7).
 
-Par. (5). Pub. L. 117–61, § 3(1), redesignated par. (2) as (5). Former par. (5) redesignated (8).
+Par. (5). Pub. L. 117–61, § 3(1), redesignated par. (2) as (5). Former par. (5) redesignated (8).
 
-Par. (6). Pub. L. 117–61, § 3(1), (3), redesignated par. (3) as (6) and substituted “at the time of the public safety officer’s death or fatal injury (in connection with any claim predicated upon such death or injury) or the date of the public safety officer’s catastrophic injury or of the final determination by the Bureau of any claim predicated upon such catastrophic injury” for “at the time of the public safety officer’s fatal or catastrophic injury” in introductory provisions. Former par. (6) redesignated (9).
+Par. (6). Pub. L. 117–61, § 3(1), (3), redesignated par. (3) as (6) and substituted “at the time of the public safety officer’s death or fatal injury (in connection with any claim predicated upon such death or injury) or the date of the public safety officer’s catastrophic injury or of the final determination by the Bureau of any claim predicated upon such catastrophic injury” for “at the time of the public safety officer’s fatal or catastrophic injury” in introductory provisions. Former par. (6) redesignated (9).
 
-Par. (7). Pub. L. 117–61, § 3(1), (4), redesignated par. (4) as (7) and inserted “, including an individual who, as such a member, engages in scene security or traffic management as the primary or only duty of the individual during emergency response” before semicolon at end. Former par. (7) redesignated (10).
+Par. (7). Pub. L. 117–61, § 3(1), (4), redesignated par. (4) as (7) and inserted “, including an individual who, as such a member, engages in scene security or traffic management as the primary or only duty of the individual during emergency response” before semicolon at end. Former par. (7) redesignated (10).
 
-Par. (8). Pub. L. 117–61, § 3(1), redesignated par. (5) as (8). Former par. (8) redesignated (13).
+Par. (8). Pub. L. 117–61, § 3(1), redesignated par. (5) as (8). Former par. (8) redesignated (13).
 
-Par. (9). Pub. L. 117–61, § 3(1), (5), redesignated par. (6) as (9) and substituted “delinquency),” for “delinquency).,”. Former par. (9) redesignated (14).
+Par. (9). Pub. L. 117–61, § 3(1), (5), redesignated par. (6) as (9) and substituted “delinquency),” for “delinquency).,”. Former par. (9) redesignated (14).
 
-Par. (9)(F). Pub. L. 116–283 added subpar. (F) relating to an employee or contractor of the Department of Energy. Par. (9) was subsequently redesignated (14) by Pub. L. 117–61, § 3(1).
+Par. (9)(F). Pub. L. 116–283 added subpar. (F) relating to an employee or contractor of the Department of Energy. Par. (9) was subsequently redesignated (14) by Pub. L. 117–61, § 3(1).
 
-Par. (10). Pub. L. 117–61, § 3(1), redesignated par. (7) as (10).
+Par. (10). Pub. L. 117–61, § 3(1), redesignated par. (7) as (10).
 
-Pars. (11), (12). Pub. L. 117–61, § 3(9), added pars. (11) and (12).
+Pars. (11), (12). Pub. L. 117–61, § 3(9), added pars. (11) and (12).
 
-Par. (13). Pub. L. 117–61, § 3(1), (6), redesignated par. (8) as (13) and inserted “, and includes (as may be prescribed by regulation hereunder) a legally organized volunteer fire department that is a nonprofit entity and provides services without regard to any particular relationship (such as a subscription) a member of the public may have with such a department” before “; and”.
+Par. (13). Pub. L. 117–61, § 3(1), (6), redesignated par. (8) as (13) and inserted “, and includes (as may be prescribed by regulation hereunder) a legally organized volunteer fire department that is a nonprofit entity and provides services without regard to any particular relationship (such as a subscription) a member of the public may have with such a department” before “; and”.
 
-Par. (14). Pub. L. 117–61, § 3(1), redesignated par. (9) as (14).
+Par. (14). Pub. L. 117–61, § 3(1), redesignated par. (9) as (14).
 
-Par. (14)(A). Pub. L. 117–61, § 3(7)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain;”.
+Par. (14)(A). Pub. L. 117–61, § 3(7)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain;”.
 
-Par. (14)(B). Pub. L. 117–61, § 3(7)(C), added subpar. (B). Former subpar. (B) redesignated (C).
+Par. (14)(B). Pub. L. 117–61, § 3(7)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Par. (14)(C), (D). Pub. L. 117–61, § 3(7)(B), redesignated subpars. (B) and (C) as (C) and (D), respectively.
+Par. (14)(C), (D). Pub. L. 117–61, § 3(7)(B), redesignated subpars. (B) and (C) as (C) and (D), respectively.
 
-Par. (14)(E). Pub. L. 117–61, § 3(7)(D), added subpar. (E) and struck out former subpar. (E) which read as follows: “a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services;”.
+Par. (14)(E). Pub. L. 117–61, § 3(7)(D), added subpar. (E) and struck out former subpar. (E) which read as follows: “a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services;”.
 
-Pub. L. 117–61, § 3(7)(B), redesignated subpar. (D) as (E). Former subpar. (E), relating to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42 and whose effect ceased Oct. 1, 2021, redesignated (F).
+Pub. L. 117–61, § 3(7)(B), redesignated subpar. (D) as (E). Former subpar. (E), relating to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42 and whose effect ceased Oct. 1, 2021, redesignated (F).
 
-Par. (14)(F). Pub. L. 117–61, § 3(7)(B), redesignated omitted subpar. (E), relating to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42 and whose effect ceased on Oct. 1, 2021, as (F). See Codification note above.
+Par. (14)(F). Pub. L. 117–61, § 3(7)(B), redesignated omitted subpar. (E), relating to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42 and whose effect ceased on Oct. 1, 2021, as (F). See Codification note above.
 
-2019—Par. (9)(E). Pub. L. 116–22, § 301(d)(2), (3), temporarily added subpar. (E) which related to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42. See Codification note above and Termination Date of 2019 Amendment note below.
+2019—Par. (9)(E). Pub. L. 116–22, § 301(d)(2), (3), temporarily added subpar. (E) which related to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42. See Codification note above and Termination Date of 2019 Amendment note below.
 
-2013—Par. (1). Pub. L. 112–239, § 1086(b)(1)(E)(i), substituted “an injury, the direct and proximate consequences of which” for “consequences of an injury that”.
+2013—Par. (1). Pub. L. 112–239, § 1086(b)(1)(E)(i), substituted “an injury, the direct and proximate consequences of which” for “consequences of an injury that”.
 
-Par. (3). Pub. L. 112–239, § 1086(b)(1)(E)(ii), inserted “or permanently and totally disabled” after “deceased” and substituted “fatal or catastrophic injury” for “death” in introductory provisions and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+Par. (3). Pub. L. 112–239, § 1086(b)(1)(E)(ii), inserted “or permanently and totally disabled” after “deceased” and substituted “fatal or catastrophic injury” for “death” in introductory provisions and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
 
-Par. (5). Pub. L. 112–239, § 1086(b)(1)(E)(iii)(II), (III), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and, in subpar. (B), substituted “fatal or catastrophic injury” for “death”.
+Par. (5). Pub. L. 112–239, § 1086(b)(1)(E)(iii)(II), (III), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and, in subpar. (B), substituted “fatal or catastrophic injury” for “death”.
 
-Pub. L. 112–239, § 1086(b)(1)(E)(iii)(I), substituted “post-injury” for “post-mortem” in cls. (i) and (ii).
+Pub. L. 112–239, § 1086(b)(1)(E)(iii)(I), substituted “post-injury” for “post-mortem” in cls. (i) and (ii).
 
-Par. (7). Pub. L. 112–239, § 1086(b)(1)(E)(iv), substituted “employee or volunteer member of a rescue squad or ambulance crew (including a ground or air ambulance service) that—” for “public employee member of a rescue squad or ambulance crew;” and added subpars. (A) and (B).
+Par. (7). Pub. L. 112–239, § 1086(b)(1)(E)(iv), substituted “employee or volunteer member of a rescue squad or ambulance crew (including a ground or air ambulance service) that—” for “public employee member of a rescue squad or ambulance crew;” and added subpars. (A) and (B).
 
-Par. (9)(A). Pub. L. 112–239, § 1086(b)(1)(E)(v)(I), substituted “or as a chaplain;” for “as a chaplain, or as a member of a rescue squad or ambulance crew;”.
+Par. (9)(A). Pub. L. 112–239, § 1086(b)(1)(E)(v)(I), substituted “or as a chaplain;” for “as a chaplain, or as a member of a rescue squad or ambulance crew;”.
 
-Par. (9)(D). Pub. L. 112–239, § 1086(b)(1)(E)(v)(II)–(IV), added subpar. (D).
+Par. (9)(D). Pub. L. 112–239, § 1086(b)(1)(E)(v)(II)–(IV), added subpar. (D).
 
-2006—Par. (4). Pub. L. 109–162, § 1164(a)(3), struck out “and an officially recognized or designated public employee member of a rescue squad or ambulance crew” before semicolon at end.
+2006—Par. (4). Pub. L. 109–162, § 1164(a)(3), struck out “and an officially recognized or designated public employee member of a rescue squad or ambulance crew” before semicolon at end.
 
-Par. (6). Pub. L. 109–162, § 1164(a)(4), substituted “enforcement of the criminal laws (including juvenile delinquency).” for “enforcement of the laws”.
+Par. (6). Pub. L. 109–162, § 1164(a)(4), substituted “enforcement of the criminal laws (including juvenile delinquency).” for “enforcement of the laws”.
 
-Pars. (7) to (9). Pub. L. 109–162, § 1164(a)(1), (2), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
+Pars. (7) to (9). Pub. L. 109–162, § 1164(a)(1), (2), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-2002—Pars. (2) to (7). Pub. L. 107–196, § 2(a)(1), (2), added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively. Former par. (7) redesignated (8).
+2002—Pars. (2) to (7). Pub. L. 107–196, § 2(a)(1), (2), added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively. Former par. (7) redesignated (8).
 
-Par. (8). Pub. L. 107–196, § 2(a)(1), (3), redesignated par. (7) as (8) and inserted “as a chaplain,” after “firefighter,” in subpar. (A).
+Par. (8). Pub. L. 107–196, § 2(a)(1), (3), redesignated par. (7) as (8) and inserted “as a chaplain,” after “firefighter,” in subpar. (A).
 
-2000—Par. (7). Pub. L. 106–390 added par. (7) and struck out former par. (7) which read as follows: “ ‘public safety officer’ means an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, a firefighter, or rescue squad or ambulance crew”.
+2000—Par. (7). Pub. L. 106–390 added par. (7) and struck out former par. (7) which read as follows: “ ‘public safety officer’ means an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, a firefighter, or rescue squad or ambulance crew”.
 
 1994—Par. (3). Pub. L. 103–322 struck out before semicolon at end “who was responding to a fire, rescue or police emergency”.
 
-1990—Par. (1). Pub. L. 101–647, § 1301(c), added par. (1). Former par. (1) redesignated (2).
+1990—Par. (1). Pub. L. 101–647, § 1301(c), added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 101–647, § 1302, which directed amendment of par. (2) by inserting a period after “ambulance crew” and striking out “who was responding to a fire, rescue or police emergency.”, could not be executed because the phrases “ambulance crew” and “who was responding to a fire, rescue or police emergency.” did not appear in text of par. (2).
+Par. (2). Pub. L. 101–647, § 1302, which directed amendment of par. (2) by inserting a period after “ambulance crew” and striking out “who was responding to a fire, rescue or police emergency.”, could not be executed because the phrases “ambulance crew” and “who was responding to a fire, rescue or police emergency.” did not appear in text of par. (2).
 
-Pub. L. 101–647, § 1301(c)(1), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Pub. L. 101–647, § 1301(c)(1), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Pars. (3) to (7). Pub. L. 101–647, § 1301(c)(1), redesignated pars. (2) to (6) as (3) to (7), respectively.
+Pars. (3) to (7). Pub. L. 101–647, § 1301(c)(1), redesignated pars. (2) to (6) as (3) to (7), respectively.
 
-1988—Pars. (2) to (7). Pub. L. 100–690, § 6105(d), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) defining a “dependent” as any individual substantially reliant for support upon income of deceased public safety officer.
+1988—Pars. (2) to (7). Pub. L. 100–690, § 6105(d), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) defining a “dependent” as any individual substantially reliant for support upon income of deceased public safety officer.
 
-1986—Pub. L. 99–500 and Pub. L. 99–591 inserted “and an officially recognized or designated public employee member of a rescue squad or ambulance crew who was responding to a fire, rescue or police emergency” in par. (3), and substituted “, a firefighter, or rescue squad or ambulance crew” for “or a firefighter.” in par. (7).
+1986—Pub. L. 99–500 and Pub. L. 99–591 inserted “and an officially recognized or designated public employee member of a rescue squad or ambulance crew who was responding to a fire, rescue or police emergency” in par. (3), and substituted “, a firefighter, or rescue squad or ambulance crew” for “or a firefighter.” in par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5793,7 +5793,7 @@ Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any mat
 
 **Termination Date of 2019 Amendment**
 
-Pub. L. 116–22, title III, § 301(d)(3), June 24, 2019, 133 Stat. 933, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 300hh–11 of Title 42, The Public Health and Welfare] shall cease to have force or effect on October 1, 2021.”
+Pub. L. 116–22, title III, § 301(d)(3), June 24, 2019, 133 Stat. 933, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 300hh–11 of Title 42, The Public Health and Welfare] shall cease to have force or effect on October 1, 2021.”
 
 **Effective Date of 2013 Amendment**
 
@@ -5805,7 +5805,7 @@ Amendment by Pub. L. 107–196 effective Sept. 11, 2001, and applicable to injur
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–390, title III, § 305(b), Oct. 30, 2000, 114 Stat. 1574, provided that: “The amendment made by subsection (a) [amending this section] applies only to employees described in subparagraphs (B) and (C) of section 1204(7) [now 1204(14)(C) and (D)] of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10284(14)(C), (D)] (as amended by subsection (a)) who are injured or who die in the line of duty on or after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–390, title III, § 305(b), Oct. 30, 2000, 114 Stat. 1574, provided that: “The amendment made by subsection (a) [amending this section] applies only to employees described in subparagraphs (B) and (C) of section 1204(7) [now 1204(14)(C) and (D)] of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10284(14)(C), (D)] (as amended by subsection (a)) who are injured or who die in the line of duty on or after the date of the enactment of this Act [Oct. 30, 2000].”
 
 **Effective Date of 1990 Amendment**
 
@@ -5827,7 +5827,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### § 10285. Administrative provisions
+#### § 10285. Administrative provisions
 
 **(a) Rules, regulations, and procedures**
 
@@ -5925,7 +5925,7 @@ Unless expressly provided otherwise, any reference in this subchapter to any pro
 
 **(C)** education assistance under part B.
 
-(Pub. L. 90–351, title I, § 1205, formerly § 1204, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2100; renumbered § 1205, Pub. L. 100–690, title VI, § 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; amended Pub. L. 105–180, § 2(b), June 16, 1998, 112 Stat. 511; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(F), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 115–36, § 2, June 2, 2017, 131 Stat. 849; Pub. L. 117–61, § 6, Nov. 18, 2021, 135 Stat. 1479.)
+(Pub. L. 90–351, title I, § 1205, formerly § 1204, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2100; renumbered § 1205, Pub. L. 100–690, title VI, § 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; amended Pub. L. 105–180, § 2(b), June 16, 1998, 112 Stat. 511; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(F), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 115–36, § 2, June 2, 2017, 131 Stat. 849; Pub. L. 117–61, § 6, Nov. 18, 2021, 135 Stat. 1479.)
 
 **Editorial Notes**
 
@@ -5941,11 +5941,11 @@ Section was formerly classified to section 3796c of Title 42, The Public Health 
 
 2021—Subsec. (e)(3)(B). Pub. L. 117–61 substituted “subparagraph (I)” for “subparagraph (B)(ix)”.
 
-2017—Subsec. (a). Pub. L. 115–36, § 2(1), inserted “Rules, regulations, and procedures issued under this subchapter may include regulations based on standards developed by another Federal agency for programs related to public safety officer death or disability claims.” before “The Bureau may prescribe”.
+2017—Subsec. (a). Pub. L. 115–36, § 2(1), inserted “Rules, regulations, and procedures issued under this subchapter may include regulations based on standards developed by another Federal agency for programs related to public safety officer death or disability claims.” before “The Bureau may prescribe”.
 
-Subsec. (b). Pub. L. 115–36, § 2(2), designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (b). Pub. L. 115–36, § 2(2), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (e). Pub. L. 115–36, § 2(3), added subsec. (e).
+Subsec. (e). Pub. L. 115–36, § 2(3), added subsec. (e).
 
 2013—Subsec. (d). Pub. L. 112–239 added subsec. (d).
 
@@ -5965,27 +5965,27 @@ Amendment by Pub. L. 115–36 effective June 2, 2017, and applicable to any bene
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
-#### § 10286. Expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a terrorist attack
+#### § 10286. Expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a terrorist attack
 
 **(a) In general**
 
 Notwithstanding the limitations of subsection (b) of section 1201 or the provisions of subsections (c), (d), and (e) of such section or section 1202 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796, 3796a),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-upon certification (containing identification of all eligible payees of benefits pursuant to section 1201 of such Act) by a public agency that a public safety officer employed by such agency or an entity described in section 1204(7)(B) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b(7)(B)) 1 was killed or suffered a catastrophic injury producing permanent and total disability as a direct and proximate result of a personal injury sustained in the line of duty as described in section 1201 of such Act in connection with prevention, investigation, rescue, or recovery efforts related to a terrorist attack, the Director of the Bureau of Justice Assistance shall authorize payment to qualified beneficiaries, said payment to be made not later than 30 days after receipt of such certification, benefits described under subpart 1 of part L of such Act (42 U.S.C. 3796 et seq.).1
+upon certification (containing identification of all eligible payees of benefits pursuant to section 1201 of such Act) by a public agency that a public safety officer employed by such agency or an entity described in section 1204(7)(B) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b(7)(B)) 1 was killed or suffered a catastrophic injury producing permanent and total disability as a direct and proximate result of a personal injury sustained in the line of duty as described in section 1201 of such Act in connection with prevention, investigation, rescue, or recovery efforts related to a terrorist attack, the Director of the Bureau of Justice Assistance shall authorize payment to qualified beneficiaries, said payment to be made not later than 30 days after receipt of such certification, benefits described under subpart 1 of part L of such Act (42 U.S.C. 3796 et seq.).1
 
 **(b) Definitions**
 
 For purposes of this section, the terms “catastrophic injury”, “public agency”, and “public safety officer” have the same meanings given such terms in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b).<sup>1</sup>
 
-(Pub. L. 107–56, title VI, § 611, Oct. 26, 2001, 115 Stat. 369; Pub. L. 112–239, div. A, title X, § 1086(b)(2), Jan. 2, 2013, 126 Stat. 1968.)
+(Pub. L. 107–56, title VI, § 611, Oct. 26, 2001, 115 Stat. 369; Pub. L. 112–239, div. A, title X, § 1086(b)(2), Jan. 2, 2013, 126 Stat. 1968.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. The reference to subpart 1 of part L of the Act probably means subpart 1 of part L of title I of the Act, which was classified to part A (§ 3796 et seq.) of subchapter XII of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as this part. Sections 1201, 1202, and 1204 of the Act were classified to sections 3796, 3796a, and 3796b, respectively, of Title 42 prior to editorial reclassification as sections 10281, 10282, and 10284, respectively, of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. The reference to subpart 1 of part L of the Act probably means subpart 1 of part L of title I of the Act, which was classified to part A (§ 3796 et seq.) of subchapter XII of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as this part. Sections 1201, 1202, and 1204 of the Act were classified to sections 3796, 3796a, and 3796b, respectively, of Title 42 prior to editorial reclassification as sections 10281, 10282, and 10284, respectively, of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
@@ -6003,13 +6003,13 @@ Section was formerly classified to section 3796c–1 of Title 42, The Public Hea
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
-#### § 10287. Funds available for appeals and expenses of representation of hearing examiners
+#### § 10287. Funds available for appeals and expenses of representation of hearing examiners
 
 On and after December 26, 2007, funds available to conduct appeals under section 1205(c) of the 1968 Act [34 U.S.C. 10285(c)], which includes all claims processing, shall be available also for the same under subpart 2 of such part L [34 U.S.C. 10301 et seq.] and under any statute authorizing payment of benefits described under subpart 1 [34 U.S.C. 10281 et seq.] thereof, and for appeals from final determinations of the Bureau (under such part or any such statute) to the Court of Appeals for the Federal Circuit, which shall have exclusive jurisdiction thereof, and for expenses of representation of hearing examiners (who shall be presumed irrebuttably to enjoy quasi-judicial immunity in the discharge of their duties under such part or any such statute) in connection with litigation against them arising from such discharge: *Provided further*, That, on and after January 2, 2013, as to each such statute—
 
-**(1)** the provisions of section 1001(a)(4) of such title I (42 U.S.C. 3793(a)(4)) 1
+**(1)** the provisions of section 1001(a)(4) of such title I (42 U.S.C. 3793(a)(4)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall apply;
 
@@ -6019,13 +6019,13 @@ shall apply;
 
 *Provided further*, That, on and after January 2, 2013, no appeal shall bring any final determination of the Bureau before any court for review unless notice of appeal is filed (within the time specified herein and in the manner prescribed for appeal to United States courts of appeals from United States district courts) not later than 90 days after the date on which the Bureau serves notice of the final determination: *Provided further*, That any regulations promulgated by the Bureau under such part (or any such statute) before, on, or after January 2, 2013, shall apply to any matter pending on, or filed or accruing after, the effective date specified in the regulations.
 
-(Pub. L. 110–161, div. B, title II, Dec. 26, 2007, 121 Stat. 1912; Pub. L. 112–239, div. A, title X, § 1086(c), Jan. 2, 2013, 126 Stat. 1968.)
+(Pub. L. 110–161, div. B, title II, Dec. 26, 2007, 121 Stat. 1912; Pub. L. 112–239, div. A, title X, § 1086(c), Jan. 2, 2013, 126 Stat. 1968.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The 1968 Act, referred to in text, is the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1205(c) of the Act is classified to section 10285(c) of this title. Subparts 1 and 2 of such part L means subparts 1 and 2 of part L of title I of the Act which are classified generally to this part and part B (§ 10301 et seq.) of this subchapter. Sections 1001(a)(4) and 1202 of such title I mean sections 1001(a)(4) and 1202 of title I of the Act, which are classified to sections 10261(a)(4) and 10282, respectively, of this title. Paragraphs (2) and (3) of such section 1202 mean pars. (2) and (3) of section 10282 of this title, which were redesignated subsec. (a)(2) and (3), respectively, of that section by Pub. L. 115–36, § 5(1), June 2, 2017, 131 Stat. 852. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The 1968 Act, referred to in text, is the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1205(c) of the Act is classified to section 10285(c) of this title. Subparts 1 and 2 of such part L means subparts 1 and 2 of part L of title I of the Act which are classified generally to this part and part B (§ 10301 et seq.) of this subchapter. Sections 1001(a)(4) and 1202 of such title I mean sections 1001(a)(4) and 1202 of title I of the Act, which are classified to sections 10261(a)(4) and 10282, respectively, of this title. Paragraphs (2) and (3) of such section 1202 mean pars. (2) and (3) of section 10282 of this title, which were redesignated subsec. (a)(2) and (3), respectively, of that section by Pub. L. 115–36, § 5(1), June 2, 2017, 131 Stat. 852. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
@@ -6043,7 +6043,7 @@ Section was formerly classified to section 3796c–2 of Title 42, The Public Hea
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
-#### § 10288. Due diligence in paying benefit claims
+#### § 10288. Due diligence in paying benefit claims
 
 **(a) In general**
 
@@ -6059,7 +6059,7 @@ The Bureau, with all due diligence, shall expeditiously attempt to obtain the in
 
 **(2)** may not abandon the benefit claim unless the Bureau has used investigative tools, including subpoenas, to obtain the information or documentation deemed necessary to adjudicate such claim by the Bureau under subparagraph (1)(B).
 
-(Pub. L. 90–351, title I, § 1206, as added Pub. L. 115–36, § 4, June 2, 2017, 131 Stat. 852; amended Pub. L. 117–61, § 4, Nov. 18, 2021, 135 Stat. 1478.)
+(Pub. L. 90–351, title I, § 1206, as added Pub. L. 115–36, § 4, June 2, 2017, 131 Stat. 852; amended Pub. L. 117–61, § 4, Nov. 18, 2021, 135 Stat. 1478.)
 
 **Editorial Notes**
 
@@ -6083,7 +6083,7 @@ Section effective June 2, 2017, and applicable to any benefit claim or applicati
 
 ### Part B—Educational Assistance to Dependents of Civilian Federal Law Enforcement Officers Killed or Disabled in Line of Duty
 
-#### § 10301. Purposes
+#### § 10301. Purposes
 
 The purposes of this part are—
 
@@ -6093,7 +6093,7 @@ The purposes of this part are—
 
 **(3)** to allow the family members of eligible officers to attain the vocational and educational status which they would have attained had a parent or spouse not been killed or disabled in the line of duty.
 
-(Pub. L. 90–351, title I, § 1211, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3114; amended Pub. L. 105–390, § 2(2), Nov. 13, 1998, 112 Stat. 3495.)
+(Pub. L. 90–351, title I, § 1211, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3114; amended Pub. L. 105–390, § 2(2), Nov. 13, 1998, 112 Stat. 3495.)
 
 **Editorial Notes**
 
@@ -6111,7 +6111,7 @@ Section was formerly classified to section 3796d of Title 42, The Public Health 
 
 For short title of Pub. L. 104–238, which enacted this subchapter, as the “Federal Law Enforcement Dependents Assistance Act of 1996”, see section 1 of Pub. L. 104–238, set out as a Short Title of 1996 Act note under section 10101 of this title.
 
-#### § 10302. Basic eligibility
+#### § 10302. Basic eligibility
 
 **(a) Benefits**
 
@@ -6149,7 +6149,7 @@ Subject to paragraph (2), no child shall be eligible for assistance under this p
 
 **(ii)** ending on the date on which the claim for benefits is approved.
 
-(Pub. L. 90–351, title I, § 1212, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3114; amended Pub. L. 105–390, § 2(3), Nov. 13, 1998, 112 Stat. 3495; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), (H), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–36, § 3, June 2, 2017, 131 Stat. 851.)
+(Pub. L. 90–351, title I, § 1212, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3114; amended Pub. L. 105–390, § 2(3), Nov. 13, 1998, 112 Stat. 3495; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), (H), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–36, § 3, June 2, 2017, 131 Stat. 851.)
 
 **Editorial Notes**
 
@@ -6161,25 +6161,25 @@ Section was formerly classified to section 3796d–1 of Title 42, The Public Hea
 
 2017—Subsec. (c). Pub. L. 115–36 designated existing provisions as par. (1) and inserted heading, substituted “Subject to paragraph (2), no child” for “No child”, and added par. (2).
 
-2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(G), substituted “person” for “dependent” wherever appearing.
+2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(G), substituted “person” for “dependent” wherever appearing.
 
-Subsec. (a)(1). Pub. L. 112–239, § 1086(b)(1)(H)(i)(I), substituted “The” for “Subject to the availability of appropriations, the” in introductory provisions.
+Subsec. (a)(1). Pub. L. 112–239, § 1086(b)(1)(H)(i)(I), substituted “The” for “Subject to the availability of appropriations, the” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 112–239, § 1086(b)(1)(H)(i)(II), substituted “reduced by the amount” for “reduced by the sum of—
+Subsec. (a)(3). Pub. L. 112–239, § 1086(b)(1)(H)(i)(II), substituted “reduced by the amount” for “reduced by the sum of—
 
 “(A) the amount of educational assistance benefits from other Federal, State, or local governmental sources to which the eligible dependent would otherwise be entitled to receive; and
 
 “(B) the amount”.
 
-Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(G), substituted “person” for “dependent”.
+Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(G), substituted “person” for “dependent”.
 
-Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(H)(ii), struck out “dependent” before “children” in heading and before “child shall” in text.
+Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(H)(ii), struck out “dependent” before “children” in heading and before “child shall” in text.
 
-1998—Subsec. (a)(1)(A). Pub. L. 105–390, § 2(3)(A), substituted “public safety” for “Federal law enforcement”.
+1998—Subsec. (a)(1)(A). Pub. L. 105–390, § 2(3)(A), substituted “public safety” for “Federal law enforcement”.
 
-Subsec. (a)(2). Pub. L. 105–390, § 2(3)(B), substituted “Except as provided in paragraph (3), financial” for “Financial”.
+Subsec. (a)(2). Pub. L. 105–390, § 2(3)(B), substituted “Except as provided in paragraph (3), financial” for “Financial”.
 
-Subsec. (a)(3). Pub. L. 105–390, § 2(3)(C), added par. (3).
+Subsec. (a)(3). Pub. L. 105–390, § 2(3)(C), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6191,7 +6191,7 @@ Amendment by Pub. L. 115–36 effective June 2, 2017, and applicable to any bene
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
-#### § 10303. Applications; approval
+#### § 10303. Applications; approval
 
 **(a) Application**
 
@@ -6211,7 +6211,7 @@ A person seeking assistance under this part shall submit an application to the A
 
 The Attorney General shall notify a person applying for assistance under this part of approval or disapproval of the application in writing.
 
-(Pub. L. 90–351, title I, § 1213, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), (I), Jan. 2, 2013, 126 Stat. 1968.)
+(Pub. L. 90–351, title I, § 1213, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), (I), Jan. 2, 2013, 126 Stat. 1968.)
 
 **Editorial Notes**
 
@@ -6223,7 +6223,7 @@ Section was formerly classified to section 3796d–2 of Title 42, The Public Hea
 
 2013—Subsec. (b). Pub. L. 112–239 substituted “person” for “dependent” in pars. (1) and (4) and “person’s” for “dependent’s” in pars. (2) and (3).
 
-Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(G), substituted “person” for “dependent”.
+Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(G), substituted “person” for “dependent”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6231,7 +6231,7 @@ Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(G), substituted “person” for
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
-#### § 10304. Regulations
+#### § 10304. Regulations
 
 **(a) In general**
 
@@ -6241,7 +6241,7 @@ The Attorney General may promulgate reasonable and necessary regulations to impl
 
 Notwithstanding section 10303(b) of this title, the Attorney General shall issue regulations regarding the use of a sliding scale based on financial need to ensure that an eligible person who is in financial need receives priority in receiving funds under this part.
 
-(Pub. L. 90–351, title I, § 1214, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 105–390, § 2(4), Nov. 13, 1998, 112 Stat. 3495; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), Jan. 2, 2013, 126 Stat. 1968.)
+(Pub. L. 90–351, title I, § 1214, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 105–390, § 2(4), Nov. 13, 1998, 112 Stat. 3495; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), Jan. 2, 2013, 126 Stat. 1968.)
 
 **Editorial Notes**
 
@@ -6261,11 +6261,11 @@ Section was formerly classified to section 3796d–3 of Title 42, The Public Hea
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
-#### § 10305. Discontinuation for unsatisfactory conduct or progress
+#### § 10305. Discontinuation for unsatisfactory conduct or progress
 
 The Attorney General may discontinue assistance under this part when the Attorney General finds that, according to the regularly prescribed standards and practices of the educational institution, the recipient fails to maintain satisfactory progress as described in section 1091(c) of title 20.
 
-(Pub. L. 90–351, title I, § 1215, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115.)
+(Pub. L. 90–351, title I, § 1215, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115.)
 
 **Editorial Notes**
 
@@ -6273,13 +6273,13 @@ The Attorney General may discontinue assistance under this part when the Attorne
 
 Section was formerly classified to section 3796d–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 10306. Special rule
+#### § 10306. Special rule
 
 **(a) Retroactive eligibility**
 
 Notwithstanding any other provision of law, a spouse or child of a Federal law enforcement officer killed in the line of duty on or after January 1, 1978,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and a spouse or child of a public safety officer killed in the line of duty on or after January 1, 1978, shall be eligible for assistance under this part, subject to the other limitations of this part.
 
@@ -6291,7 +6291,7 @@ The Attorney General shall (unless prospective assistance has been provided) pro
 
 The Attorney General may provide prospective assistance to a person eligible under this section on the same basis as assistance to a person otherwise eligible. In applying the limitations on assistance under this part, the Attorney General shall include assistance provided retroactively. A person eligible under this section may waive retroactive assistance and apply only for prospective assistance on the same basis as a person otherwise eligible.
 
-(Pub. L. 90–351, title I, § 1216, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 105–390, § 2(5), Nov. 13, 1998, 112 Stat. 3496; Pub. L. 106–276, § 1(a), Oct. 2, 2000, 114 Stat. 812; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), (J), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 117–61, § 5, Nov. 18, 2021, 135 Stat. 1479.)
+(Pub. L. 90–351, title I, § 1216, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 105–390, § 2(5), Nov. 13, 1998, 112 Stat. 3496; Pub. L. 106–276, § 1(a), Oct. 2, 2000, 114 Stat. 812; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), (J), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 117–61, § 5, Nov. 18, 2021, 135 Stat. 1479.)
 
 **Editorial Notes**
 
@@ -6303,11 +6303,11 @@ Section was formerly classified to section 3796d–5 of Title 42, The Public Hea
 
 2021—Subsec. (b). Pub. L. 117–61 substituted “shall (unless prospective assistance has been provided)” for “may”.
 
-2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(J)(i), substituted “a spouse or child” for “each dependent” in two places.
+2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(J)(i), substituted “a spouse or child” for “each dependent” in two places.
 
-Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(G), (J)(ii), substituted “to a person” for “to dependents” and “the person” for “the dependent”.
+Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(G), (J)(ii), substituted “to a person” for “to dependents” and “the person” for “the dependent”.
 
-Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(G), (J)(ii), substituted “A person” for “A dependent” and substituted “a person” for “dependents” wherever appearing.
+Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(G), (J)(ii), substituted “A person” for “A dependent” and substituted “a person” for “dependents” wherever appearing.
 
 2000—Subsec. (a). Pub. L. 106–276 substituted “January 1, 1978,” for “May 1, 1992” and “January 1, 1978, shall” for “October 1, 1997, shall”.
 
@@ -6325,9 +6325,9 @@ Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–276, § 1(b), Oct. 2, 2000, 114 Stat. 812, provided that: “The amendments made by subsection (a) [amending this section] shall take effect October 1, 1999.”
+Pub. L. 106–276, § 1(b), Oct. 2, 2000, 114 Stat. 812, provided that: “The amendments made by subsection (a) [amending this section] shall take effect October 1, 1999.”
 
-#### § 10307. Definitions
+#### § 10307. Definitions
 
 For purposes of this part:
 
@@ -6341,13 +6341,13 @@ For purposes of this part:
 
 **(B)** is eligible to participate in programs under title IV of such Act [20 U.S.C. 1070 et seq.].
 
-(Pub. L. 90–351, title I, § 1217, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3116; amended Pub. L. 105–390, § 2(6), Nov. 13, 1998, 112 Stat. 3496; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(K), Jan. 2, 2013, 126 Stat. 1968.)
+(Pub. L. 90–351, title I, § 1217, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3116; amended Pub. L. 105–390, § 2(6), Nov. 13, 1998, 112 Stat. 3496; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(K), Jan. 2, 2013, 126 Stat. 1968.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in par. (3)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in par. (3)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Codification**
 
@@ -6365,11 +6365,11 @@ Section was formerly classified to section 3796d–6 of Title 42, The Public Hea
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
-#### § 10308. Authorization of appropriations
+#### § 10308. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this part such sums as may be necessary.
 
-(Pub. L. 90–351, title I, § 1218, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3117.)
+(Pub. L. 90–351, title I, § 1218, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3117.)
 
 **Editorial Notes**
 
@@ -6379,7 +6379,7 @@ Section was formerly classified to section 3796d–7 of Title 42, The Public Hea
 
 ## SUBCHAPTER XII—REGIONAL INFORMATION SHARING SYSTEMS
 
-### § 10321. Regional information sharing systems grants
+### § 10321. Regional information sharing systems grants
 
 **(a) Authority of Director**
 
@@ -6405,7 +6405,7 @@ The Director is authorized to promulgate such rules and regulations as are neces
 
 There are authorized to be appropriated to the Bureau of Justice Assistance to carry out this section $50,000,000 for fiscal year 2002 and $100,000,000 for fiscal year 2003.
 
-(Pub. L. 90–351, title I, § 1301, as added Pub. L. 100–690, title VI, § 6101(a), Nov. 18, 1988, 102 Stat. 4340; amended Pub. L. 107–56, title VII, § 701, Oct. 26, 2001, 115 Stat. 374; Pub. L. 109–162, title XI, § 1114, Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, § 252(a), July 29, 2010, 124 Stat. 2299.)
+(Pub. L. 90–351, title I, § 1301, as added Pub. L. 100–690, title VI, § 6101(a), Nov. 18, 1988, 102 Stat. 4340; amended Pub. L. 107–56, title VII, § 701, Oct. 26, 2001, 115 Stat. 374; Pub. L. 109–162, title XI, § 1114, Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, § 252(a), July 29, 2010, 124 Stat. 2299.)
 
 **Editorial Notes**
 
@@ -6417,31 +6417,31 @@ Another section 1301 of Pub. L. 90–351, title VIII, June 19, 1968, 82 Stat. 23
 
 **Prior Provisions**
 
-A prior section 1301 of title I of Pub. L. 90–351, as added Pub. L. 99–570, title I, § 1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–41, authorized Director to provide grants for drug law enforcement programs to eligible States and units of local government, prior to repeal by Pub. L. 100–690, title VI, § 6101(a), Nov. 18, 1988, 102 Stat. 4340.
+A prior section 1301 of title I of Pub. L. 90–351, as added Pub. L. 99–570, title I, § 1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–41, authorized Director to provide grants for drug law enforcement programs to eligible States and units of local government, prior to repeal by Pub. L. 100–690, title VI, § 6101(a), Nov. 18, 1988, 102 Stat. 4340.
 
 Another prior section 1301 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 10541 of this title.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211 inserted “, tribal,” after “State”.
+2010—Subsec. (a). Pub. L. 111–211 inserted “, tribal,” after “State”.
 
-2006—Subsec. (b)(1). Pub. L. 109–162, § 1114(1), inserted “regional” before “information sharing systems”.
+2006—Subsec. (b)(1). Pub. L. 109–162, § 1114(1), inserted “regional” before “information sharing systems”.
 
-Subsec. (b)(3). Pub. L. 109–162, § 1114(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “establishing and maintaining a telecommunication of the information sharing and analytical programs in clauses (1) and (2);”.
+Subsec. (b)(3). Pub. L. 109–162, § 1114(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “establishing and maintaining a telecommunication of the information sharing and analytical programs in clauses (1) and (2);”.
 
-Subsec. (b)(4). Pub. L. 109–162, § 1114(3), struck out “(5)” at end.
+Subsec. (b)(4). Pub. L. 109–162, § 1114(3), struck out “(5)” at end.
 
-2001—Subsec. (a). Pub. L. 107–56, § 701(1), inserted “and terrorist conspiracies and activities” after “criminal conspiracies and activities”.
+2001—Subsec. (a). Pub. L. 107–56, § 701(1), inserted “and terrorist conspiracies and activities” after “criminal conspiracies and activities”.
 
-Subsec. (b)(4), (5). Pub. L. 107–56, § 701(2), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4), (5). Pub. L. 107–56, § 701(2), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (d). Pub. L. 107–56, § 701(3), added subsec. (d).
+Subsec. (d). Pub. L. 107–56, § 701(3), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction of 2010 Amendment**
 
-Pub. L. 111–211, title II, § 252(b), July 29, 2010, 124 Stat. 2299, provided that:
+Pub. L. 111–211, title II, § 252(b), July 29, 2010, 124 Stat. 2299, provided that:
 
 > “Nothing in this section [amending this section] or any amendment made by this section—
 
@@ -6453,15 +6453,15 @@ Pub. L. 111–211, title II, § 252(b), July 29, 2010, 124 Stat. 2299, provide
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
 ## SUBCHAPTER XIII—GRANTS FOR CLOSED-CIRCUIT TELEVISING OF TESTIMONY OF CHILDREN WHO ARE VICTIMS OF ABUSE
 
-### § 10331. Function of Director
+### § 10331. Function of Director
 
 The Director shall provide funds to eligible States and units of local government pursuant to this subchapter.
 
-(Pub. L. 90–351, title I, § 1401, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4810.)
+(Pub. L. 90–351, title I, § 1401, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4810.)
 
 **Editorial Notes**
 
@@ -6479,13 +6479,13 @@ A prior section 1401 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10332. Description of grant program
+### § 10332. Description of grant program
 
 The Director is authorized to make grants to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children in criminal proceedings for the violation of laws relating to the abuse of children.
 
-(Pub. L. 90–351, title I, § 1402, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4810; amended Pub. L. 103–322, title IV, § 40156(c)(2), Sept. 13, 1994, 108 Stat. 1923.)
+(Pub. L. 90–351, title I, § 1402, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4810; amended Pub. L. 103–322, title IV, § 40156(c)(2), Sept. 13, 1994, 108 Stat. 1923.)
 
 **Editorial Notes**
 
@@ -6501,9 +6501,9 @@ Section was formerly classified to section 3796aa–1 of Title 42, The Public He
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10333. Applications to receive grants
+### § 10333. Applications to receive grants
 
 To request a grant under section 10332 of this title, the chief executive officer of a State or unit of local government shall submit to the Director an application at such time and in such form as the Director may require. Such application shall include—
 
@@ -6511,7 +6511,7 @@ To request a grant under section 10332 of this title, the chief executive office
 
 **(2)** a certification that funds required to pay the non-Federal portion of the cost of equipment and personnel training for which such grant is made shall be in addition to funds that would otherwise be made available by the recipients of grant funds for criminal proceedings for the violation of laws relating to the abuse of children.
 
-(Pub. L. 90–351, title I, § 1403, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4810; amended Pub. L. 103–322, title IV, § 40156(c)(3), Sept. 13, 1994, 108 Stat. 1923.)
+(Pub. L. 90–351, title I, § 1403, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4810; amended Pub. L. 103–322, title IV, § 40156(c)(3), Sept. 13, 1994, 108 Stat. 1923.)
 
 **Editorial Notes**
 
@@ -6531,9 +6531,9 @@ Section was formerly classified to section 3796aa–2 of Title 42, The Public He
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10334. Review of applications
+### § 10334. Review of applications
 
 **(a) Eligibility for grants** An applicant is eligible to receive a grant under this subchapter if—
 
@@ -6561,7 +6561,7 @@ Each application or amendment made and submitted for approval to the Director pu
 
 The Director shall not finally disapprove any application, or any amendment thereto, submitted to the Director under this section without first affording the applicant reasonable notice and opportunity for reconsideration.
 
-(Pub. L. 90–351, title I, § 1404, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4811; amended Pub. L. 103–322, title IV, § 40156(c)(4), Sept. 13, 1994, 108 Stat. 1923.)
+(Pub. L. 90–351, title I, § 1404, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4811; amended Pub. L. 103–322, title IV, § 40156(c)(4), Sept. 13, 1994, 108 Stat. 1923.)
 
 **Editorial Notes**
 
@@ -6571,29 +6571,29 @@ Section was formerly classified to section 3796aa–3 of Title 42, The Public He
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–322, § 40156(c)(4)(A)(i), (vii), substituted “An applicant is eligible to receive a grant under this subchapter if—” for “The Bureau shall provide financial assistance to each State applicant under section 3796aa–1 of this title to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children in criminal proceedings for the violation of laws relating to the abuse of children, upon determining that” in introductory provisions and designated concluding provisions as subsec. (b). See below.
+1994—Subsec. (a). Pub. L. 103–322, § 40156(c)(4)(A)(i), (vii), substituted “An applicant is eligible to receive a grant under this subchapter if—” for “The Bureau shall provide financial assistance to each State applicant under section 3796aa–1 of this title to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children in criminal proceedings for the violation of laws relating to the abuse of children, upon determining that” in introductory provisions and designated concluding provisions as subsec. (b). See below.
 
-Subsec. (a)(1). Pub. L. 103–322, § 40156(c)(4)(A)(ii), substituted “the applicant certifies and the Director determines that there is in effect in the State” for “there is in effect in such State”.
+Subsec. (a)(1). Pub. L. 103–322, § 40156(c)(4)(A)(ii), substituted “the applicant certifies and the Director determines that there is in effect in the State” for “there is in effect in such State”.
 
-Subsec. (a)(2). Pub. L. 103–322, § 40156(c)(4)(A)(iii), in introductory provisions substituted “the applicant certifies and the Director determines that State law meets” for “such State law shall meet”.
+Subsec. (a)(2). Pub. L. 103–322, § 40156(c)(4)(A)(iii), in introductory provisions substituted “the applicant certifies and the Director determines that State law meets” for “such State law shall meet”.
 
-Subsec. (a)(2)(E). Pub. L. 103–322, § 40156(c)(4)(A)(iv), which directed the insertion of “and” at the end of “subparagraph (E)”, without indicating which paragraph of subsec. (a) was to be amended, was executed by making the insertion at end of par. (2)(E) to reflect the probable intent of Congress.
+Subsec. (a)(2)(E). Pub. L. 103–322, § 40156(c)(4)(A)(iv), which directed the insertion of “and” at the end of “subparagraph (E)”, without indicating which paragraph of subsec. (a) was to be amended, was executed by making the insertion at end of par. (2)(E) to reflect the probable intent of Congress.
 
-Subsec. (a)(3). Pub. L. 103–322, § 40156(c)(4)(A)(v), inserted “the Director determines that” before “the application” and substituted a period for “; and” at end.
+Subsec. (a)(3). Pub. L. 103–322, § 40156(c)(4)(A)(v), inserted “the Director determines that” before “the application” and substituted a period for “; and” at end.
 
-Subsec. (a)(4). Pub. L. 103–322, § 40156(c)(4)(A)(vi), struck out par. (4) which read as follows: “before the approval of such application and any amendment thereto the Bureau has made an affirmative finding in writing that such equipment and personnel training has been reviewed in accordance with section 3796aa–2 of this title.”
+Subsec. (a)(4). Pub. L. 103–322, § 40156(c)(4)(A)(vi), struck out par. (4) which read as follows: “before the approval of such application and any amendment thereto the Bureau has made an affirmative finding in writing that such equipment and personnel training has been reviewed in accordance with section 3796aa–2 of this title.”
 
-Subsec. (b). Pub. L. 103–322, § 40156(c)(4)(A)(vii), (viii), designated concluding provisions of subsec. (a) as subsec. (b) and substituted “the Director” for “the Bureau” wherever appearing. Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 103–322, § 40156(c)(4)(A)(vii), (viii), designated concluding provisions of subsec. (a) as subsec. (b) and substituted “the Director” for “the Bureau” wherever appearing. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 103–322, § 40156(c)(4)(B), redesignated subsec. (b), relating to reconsideration of applications, as (c) and substituted “The Director” for “The Bureau”.
+Subsec. (c). Pub. L. 103–322, § 40156(c)(4)(B), redesignated subsec. (b), relating to reconsideration of applications, as (c) and substituted “The Director” for “The Bureau”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10335. Reports
+### § 10335. Reports
 
 **(a)** Each State or unit of local government that receives a grant under this subchapter shall submit to the Director, for each year in which any part of such grant is expended by a State or unit of local government, a report which contains—
 
@@ -6609,7 +6609,7 @@ Such report shall be submitted in such form and by such time as the Director may
 
 **(2)** a summary of the information provided in compliance with subsection (a)(1) of this section.
 
-(Pub. L. 90–351, title I, § 1406, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4812; amended Pub. L. 103–322, title IV, § 40156(c)(6), Sept. 13, 1994, 108 Stat. 1924.)
+(Pub. L. 90–351, title I, § 1406, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4812; amended Pub. L. 103–322, title IV, § 40156(c)(6), Sept. 13, 1994, 108 Stat. 1924.)
 
 **Editorial Notes**
 
@@ -6619,11 +6619,11 @@ Section was formerly classified to section 3796aa–5 of Title 42, The Public He
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–322, § 40156(c)(6)(A)(i), (ii), substituted “State or unit of local government that” for “State which” and “subchapter” for “chapter” in introductory provisions.
+1994—Subsec. (a). Pub. L. 103–322, § 40156(c)(6)(A)(i), (ii), substituted “State or unit of local government that” for “State which” and “subchapter” for “chapter” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 103–322, § 40156(c)(6)(A)(iii), struck out “State” before “application submitted”.
+Subsec. (a)(1). Pub. L. 103–322, § 40156(c)(6)(A)(iii), struck out “State” before “application submitted”.
 
-Subsec. (b)(1). Pub. L. 103–322, § 40156(c)(6)(B), substituted “the State and units of local government in the State” for “such State”.
+Subsec. (b)(1). Pub. L. 103–322, § 40156(c)(6)(B), substituted “the State and units of local government in the State” for “such State”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6633,9 +6633,9 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10336. Expenditure of grants; records
+### § 10336. Expenditure of grants; records
 
 **(a) Identified uses**
 
@@ -6649,7 +6649,7 @@ Not more than 10 percent of a grant made under this subchapter may be used for c
 
 **(1)** Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit..1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(2)** The Director and the Comptroller General of the United States shall have access, for the purpose of audit and examination, to any books, documents, and records of grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) if, in the opinion of the Director or the Comptroller General, such books, documents, and records are related to the receipt or use of any such grant.
 
@@ -6657,7 +6657,7 @@ Not more than 10 percent of a grant made under this subchapter may be used for c
 
 Nothing in this subchapter shall prohibit the utilization of any grant funds to contract with a private organization to provide equipment or training for the televising of testimony as contemplated by the application submitted by an applicant.
 
-(Pub. L. 90–351, title I, § 1407, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4813; amended Pub. L. 103–322, title IV, § 40156(c)(7), Sept. 13, 1994, 108 Stat. 1924.)
+(Pub. L. 90–351, title I, § 1407, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4813; amended Pub. L. 103–322, title IV, § 40156(c)(7), Sept. 13, 1994, 108 Stat. 1924.)
 
 **Editorial Notes**
 
@@ -6667,19 +6667,19 @@ Section was formerly classified to section 3796aa–6 of Title 42, The Public He
 
 **Amendments**
 
-1994—Subsec. (c)(1). Pub. L. 103–322, § 40156(c)(7)(A)(i), substituted “Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.” for “Each State which receives a grant under this chapter shall keep, and shall require units of local government which receive any part of such grant to keep, such records as the Director may require by rule to facilitate an effective audit”.
+1994—Subsec. (c)(1). Pub. L. 103–322, § 40156(c)(7)(A)(i), substituted “Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.” for “Each State which receives a grant under this chapter shall keep, and shall require units of local government which receive any part of such grant to keep, such records as the Director may require by rule to facilitate an effective audit”.
 
-Subsec. (c)(2). Pub. L. 103–322, § 40156(c)(7)(A)(ii), substituted “grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds)” for “States which receive grants, and of units of local government which receive any part of a grant made under this subchapter”.
+Subsec. (c)(2). Pub. L. 103–322, § 40156(c)(7)(A)(ii), substituted “grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds)” for “States which receive grants, and of units of local government which receive any part of a grant made under this subchapter”.
 
-Subsec. (d). Pub. L. 103–322, § 40156(c)(7)(B), added subsec. (d).
+Subsec. (d). Pub. L. 103–322, § 40156(c)(7)(B), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10337. Definitions
+### § 10337. Definitions
 
 For purposes of this subchapter—
 
@@ -6687,7 +6687,7 @@ For purposes of this subchapter—
 
 **(2)** the term “abuse” means physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child.
 
-(Pub. L. 90–351, title I, § 1409, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4813.)
+(Pub. L. 90–351, title I, § 1409, as added Pub. L. 101–647, title II, § 241(a)(2), Nov. 29, 1990, 104 Stat. 4813.)
 
 **Editorial Notes**
 
@@ -6697,7 +6697,7 @@ Section was formerly classified to section 3796aa–8 of Title 42, The Public He
 
 ## SUBCHAPTER XIV—RURAL DRUG ENFORCEMENT
 
-### § 10351. Rural drug enforcement assistance
+### § 10351. Rural drug enforcement assistance
 
 **(a)** Of the total amount appropriated for this section in any fiscal year:
 
@@ -6711,7 +6711,7 @@ Section was formerly classified to section 3796aa–8 of Title 42, The Public He
 
 **(b)** For the purpose of this section, the term “rural State” means a State that has a population density of fifty-two or fewer persons per square mile or a State in which the largest county has fewer than one hundred and fifty thousand people, based on the decennial census of 1990 through fiscal year 1997.
 
-(Pub. L. 90–351, title I, § 1501, as added Pub. L. 101–647, title VIII, § 801(a)(3), Nov. 29, 1990, 104 Stat. 4825; amended Pub. L. 103–322, title XVIII, § 180101(b), (c), Sept. 13, 1994, 108 Stat. 2045.)
+(Pub. L. 90–351, title I, § 1501, as added Pub. L. 101–647, title VIII, § 801(a)(3), Nov. 29, 1990, 104 Stat. 4825; amended Pub. L. 103–322, title XVIII, § 180101(b), (c), Sept. 13, 1994, 108 Stat. 2045.)
 
 **Editorial Notes**
 
@@ -6727,11 +6727,11 @@ Another prior section 1501 of Pub. L. 90–351, title X, June 19, 1968, 82 Stat.
 
 **Amendments**
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–322, § 180101(b), substituted “$250,000” for “$100,000”.
+1994—Subsec. (a)(2)(A). Pub. L. 103–322, § 180101(b), substituted “$250,000” for “$100,000”.
 
-Subsec. (b). Pub. L. 103–322, § 180101(c), inserted before period at end “, based on the decennial census of 1990 through fiscal year 1997”.
+Subsec. (b). Pub. L. 103–322, § 180101(c), inserted before period at end “, based on the decennial census of 1990 through fiscal year 1997”.
 
-### § 10352. Other requirements
+### § 10352. Other requirements
 
 Parts A and C of subchapter V of this chapter shall apply with respect to funds appropriated to carry out this subchapter, in the same manner as such parts apply to funds appropriated to carry out subchapter V, except that—
 
@@ -6739,7 +6739,7 @@ Parts A and C of subchapter V of this chapter shall apply with respect to funds 
 
 **(2)** in addition to satisfying the requirements of section 10153 of this title, each application for a grant under this subchapter shall include in its application a statement specifying how such grant will be coordinated with a grant received under section 10156 of this title for the same fiscal year.
 
-(Pub. L. 90–351, title I, § 1502, as added Pub. L. 101–647, title VIII, § 801(a)(3), Nov. 29, 1990, 104 Stat. 4825; amended Pub. L. 109–162, title XI, § 1111(c)(2)(G), Jan. 5, 2006, 119 Stat. 3102.)
+(Pub. L. 90–351, title I, § 1502, as added Pub. L. 101–647, title VIII, § 801(a)(3), Nov. 29, 1990, 104 Stat. 4825; amended Pub. L. 109–162, title XI, § 1111(c)(2)(G), Jan. 5, 2006, 119 Stat. 3102.)
 
 **Editorial Notes**
 
@@ -6751,9 +6751,9 @@ Another section 1502 of Pub. L. 90–351, title X, June 19, 1968, 82 Stat. 238, 
 
 **Amendments**
 
-2006—Par. (1). Pub. L. 109–162, § 1111(c)(2)(G)(i), substituted “section 3755(a)” for “section 3756(a)”.
+2006—Par. (1). Pub. L. 109–162, § 1111(c)(2)(G)(i), substituted “section 3755(a)” for “section 3756(a)”.
 
-Par. (2). Pub. L. 109–162, § 1111(c)(2)(G)(ii), substituted “section 3752” for “section 3753(a)” and “section 3755” for “section 3756”.
+Par. (2). Pub. L. 109–162, § 1111(c)(2)(G)(ii), substituted “section 3752” for “section 3753(a)” and “section 3755” for “section 3756”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6763,7 +6763,7 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 ## SUBCHAPTER XV—CRIMINAL CHILD SUPPORT ENFORCEMENT
 
-### § 10361. Grant authorization
+### § 10361. Grant authorization
 
 **(a) In general**
 
@@ -6781,7 +6781,7 @@ The Director of the Bureau of Justice Assistance may make grants under this subc
 
 **(5)** coordinate criminal interstate child support enforcement efforts.
 
-(Pub. L. 90–351, title I, § 1601, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3404.)
+(Pub. L. 90–351, title I, § 1601, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3404.)
 
 **Editorial Notes**
 
@@ -6799,9 +6799,9 @@ A prior section 1601 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10362. State applications
+### § 10362. State applications
 
 **(a) In general**
 
@@ -6815,7 +6815,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 **(2)** shall administer grant funds received under this subchapter, including, review of spending, processing, progress, financial reporting, technical assistance, grant adjustments, accounting, auditing, and fund disbursement.
 
-(Pub. L. 90–351, title I, § 1602, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3404; amended Pub. L. 109–162, title XI, § 1111(c)(2)(H), Jan. 5, 2006, 119 Stat. 3102.)
+(Pub. L. 90–351, title I, § 1602, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3404; amended Pub. L. 109–162, title XI, § 1111(c)(2)(H), Jan. 5, 2006, 119 Stat. 3102.)
 
 **Editorial Notes**
 
@@ -6835,9 +6835,9 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10363. Review of State applications
+### § 10363. Review of State applications
 
 **(a) In general** The Bureau shall make a grant under section 10361(a) of this title to carry out the projects described in the application submitted by an applicant under section 10362 of this title upon determining that—
 
@@ -6853,7 +6853,7 @@ Each application submitted under section 10362 of this title shall be considered
 
 The Bureau shall not disapprove any application without first affording the applicant reasonable notice and an opportunity for reconsideration.
 
-(Pub. L. 90–351, title I, § 1603, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
+(Pub. L. 90–351, title I, § 1603, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
 
 **Editorial Notes**
 
@@ -6861,7 +6861,7 @@ The Bureau shall not disapprove any application without first affording the appl
 
 Section was formerly classified to section 3796cc–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10364. Local applications
+### § 10364. Local applications
 
 **(a) In general**
 
@@ -6877,7 +6877,7 @@ Section was formerly classified to section 3796cc–2 of Title 42, The Public He
 
 A State that receives funds under section 10361 of this title in a fiscal year shall make such funds available to a local entity with an approved application within 45 days after the Bureau has approved the application submitted by the State and has made funds available to the State. The Director may waive the 45-day requirement in this section upon a finding that the State is unable to satisfy the requirement of the preceding sentence under State statutes.
 
-(Pub. L. 90–351, title I, § 1604, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
+(Pub. L. 90–351, title I, § 1604, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
 
 **Editorial Notes**
 
@@ -6885,11 +6885,11 @@ A State that receives funds under section 10361 of this title in a fiscal year s
 
 Section was formerly classified to section 3796cc–3 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10365. Distribution of funds
+### § 10365. Distribution of funds
 
 The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the project described in the application submitted under section 10362(a) of this title for the fiscal year for which the project receives assistance under this subchapter.
 
-(Pub. L. 90–351, title I, § 1605, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
+(Pub. L. 90–351, title I, § 1605, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
 
 **Editorial Notes**
 
@@ -6897,7 +6897,7 @@ The Federal share of a grant made under this subchapter may not exceed 75 percen
 
 Section was formerly classified to section 3796cc–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10366. Evaluation
+### § 10366. Evaluation
 
 **(a) In general**
 
@@ -6913,7 +6913,7 @@ The Director shall make available to the public on a timely basis evaluations re
 
 A State or local entity may use not more than 5 percent of the funds it receives under this subchapter to develop an evaluation program under this section.
 
-(Pub. L. 90–351, title I, § 1606, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
+(Pub. L. 90–351, title I, § 1606, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
 
 **Editorial Notes**
 
@@ -6925,13 +6925,13 @@ Section was formerly classified to section 3796cc–5 of Title 42, The Public He
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10367. “Local entity” defined
+### § 10367. “Local entity” defined
 
 For purposes of this subchapter, the term “local entity” means a child support enforcement agency, law enforcement agency, prosecuting attorney, or unit of local government.
 
-(Pub. L. 90–351, title I, § 1607, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3406.)
+(Pub. L. 90–351, title I, § 1607, as added Pub. L. 102–521, § 4(a)(3), Oct. 25, 1992, 106 Stat. 3406.)
 
 **Editorial Notes**
 
@@ -6941,7 +6941,7 @@ Section was formerly classified to section 3796cc–6 of Title 42, The Public He
 
 ## SUBCHAPTER XVI—PUBLIC SAFETY AND COMMUNITY POLICING; “COPS ON THE BEAT”
 
-### § 10381. Authority to make public safety and community policing grants
+### § 10381. Authority to make public safety and community policing grants
 
 **(a) Grant authorization**
 
@@ -7071,7 +7071,7 @@ Not more than 2 percent of a grant made for the hiring or rehiring of additional
 
 Except as provided in subsection (j),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the authority under subsection (a) of this section to make grants for the hiring and rehiring of additional career law enforcement officers shall lapse at the conclusion of 6 years from September 13, 1994. Prior to the expiration of this grant authority, the Attorney General shall submit a report to Congress concerning the experience with and effects of such grants. The report may include any recommendations the Attorney General may have for amendments to this subchapter and related provisions of law in light of the termination of the authority to make grants for the hiring and rehiring of additional career law enforcement officers.
 
@@ -7079,7 +7079,7 @@ the authority under subsection (a) of this section to make grants for the hiring
 
 **(1) In general**
 
-Notwithstanding subsection (i) <sup>1</sup> and section 10383 of this title, and in acknowledgment of the Federal nexus and distinct Federal responsibility to address and prevent crime in Indian country, the Attorney General shall provide grants under this section to Indian tribal governments, for fiscal year 2011 and any fiscal year thereafter, for such period as the Attorney General determines to be appropriate to assist the Indian tribal governments in carrying out the purposes described in subsection (b).
+Notwithstanding subsection (i) <sup>1</sup> and section 10383 of this title, and in acknowledgment of the Federal nexus and distinct Federal responsibility to address and prevent crime in Indian country, the Attorney General shall provide grants under this section to Indian tribal governments, for fiscal year 2011 and any fiscal year thereafter, for such period as the Attorney General determines to be appropriate to assist the Indian tribal governments in carrying out the purposes described in subsection (b).
 
 **(2) Priority of funding**
 
@@ -7213,7 +7213,7 @@ The Attorney General shall develop and implement continuing education requiremen
 
 Of the amounts made available to carry out this subchapter for a fiscal year, the Attorney General may use not more than $3,000,000 to carry out this subsection.
 
-(Pub. L. 90–351, title I, § 1701, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, § 119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, § 1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, § 341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, § 1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, § 243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, § 601(1), title X, § 1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, § 2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, § 14001(b), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–37, § 2, June 2, 2017, 131 Stat. 854; Pub. L. 115–113, § 2(c), Jan. 10, 2018, 131 Stat. 2276; Pub. L. 115–271, title VIII, §§ 8210, 8211, Oct. 24, 2018, 132 Stat. 4114; Pub. L. 115–393, title I, § 101, Dec. 21, 2018, 132 Stat. 5266; Pub. L. 117–325, § 2(b), Dec. 27, 2022, 136 Stat. 4442; Pub. L. 118–64, §§ 2–4, May 24, 2024, 138 Stat. 1435; Pub. L. 119–60, div. H, title LXXXVI, § 8604, Dec. 18, 2025, 139 Stat. 1943.)
+(Pub. L. 90–351, title I, § 1701, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, § 119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, § 1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, § 341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, § 1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, § 243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, § 601(1), title X, § 1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, § 2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, § 14001(b), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–37, § 2, June 2, 2017, 131 Stat. 854; Pub. L. 115–113, § 2(c), Jan. 10, 2018, 131 Stat. 2276; Pub. L. 115–271, title VIII, §§ 8210, 8211, Oct. 24, 2018, 132 Stat. 4114; Pub. L. 115–393, title I, § 101, Dec. 21, 2018, 132 Stat. 5266; Pub. L. 117–325, § 2(b), Dec. 27, 2022, 136 Stat. 4442; Pub. L. 118–64, §§ 2–4, May 24, 2024, 138 Stat. 1435; Pub. L. 119–60, div. H, title LXXXVI, § 8604, Dec. 18, 2025, 139 Stat. 1943.)
 
 **Editorial Notes**
 
@@ -7221,9 +7221,9 @@ Of the amounts made available to carry out this subchapter for a fiscal year, th
 
 The Public Safety Partnership and Community Policing Act of 1994, referred to in subsec. (d)(1), (3), is title I of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1807, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 10101 of this title and Tables.
 
-Subsection (j), referred to in subsec. (j), was redesignated subsec. (k) by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
+Subsection (j), referred to in subsec. (j), was redesignated subsec. (k) by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
 
-Subsection (i), referred to in subsec. (k)(1), was redesignated subsec. (j) by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
+Subsection (i), referred to in subsec. (k)(1), was redesignated subsec. (j) by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
 
 **Codification**
 
@@ -7237,85 +7237,85 @@ A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 2025—Subsec. (b)(23) to (25). Pub. L. 119–60 added par. (23), redesignated former pars. (23) and (24) as (24) and (25), respectively, and, in par. (24) as so redesignated, substituted “through (23)” for “through (22)”.
 
-2024—Subsec. (b)(5) to (22). Pub. L. 118–64, § 2(a), added par. (5) and redesignated former pars. (5) to (21) as (6) to (22), respectively. Former par. (22) redesignated (23).
+2024—Subsec. (b)(5) to (22). Pub. L. 118–64, § 2(a), added par. (5) and redesignated former pars. (5) to (21) as (6) to (22), respectively. Former par. (22) redesignated (23).
 
-Subsec. (b)(23). Pub. L. 118–64, § 2, redesignated par. (22) as (23) and substituted “(22)” for “(21)”. Former par. (23) redesignated (24).
+Subsec. (b)(23). Pub. L. 118–64, § 2, redesignated par. (22) as (23) and substituted “(22)” for “(21)”. Former par. (23) redesignated (24).
 
-Subsec. (b)(24). Pub. L. 118–64, § 2(a), redesignated par. (23) as (24).
+Subsec. (b)(24). Pub. L. 118–64, § 2(a), redesignated par. (23) as (24).
 
-Subsecs. (i) to (*o*). Pub. L. 118–64, § 3, added subsec. (i) and redesignated former subsecs. (i) to (n) as (j) to (*o*), respectively.
+Subsecs. (i) to (*o*). Pub. L. 118–64, § 3, added subsec. (i) and redesignated former subsecs. (i) to (n) as (j) to (*o*), respectively.
 
-Subsec. (p). Pub. L. 118–64, § 4, added subsec. (p).
+Subsec. (p). Pub. L. 118–64, § 4, added subsec. (p).
 
 2022—Subsec. (n). Pub. L. 117–325 added subsec. (n).
 
-2018—Subsec. (b)(12). Pub. L. 115–393 inserted before semicolon at end “, including the training of school resource officers in the prevention of human trafficking offenses”.
+2018—Subsec. (b)(12). Pub. L. 115–393 inserted before semicolon at end “, including the training of school resource officers in the prevention of human trafficking offenses”.
 
 Subsec. (b)(23). Pub. L. 115–113 added par. (23).
 
-Subsec. (k). Pub. L. 115–271, § 8210, added subsec. (k). Former subsec. (k) redesignated (*l*), then (m).
+Subsec. (k). Pub. L. 115–271, § 8210, added subsec. (k). Former subsec. (k) redesignated (*l*), then (m).
 
-Subsec. (*l*). Pub. L. 115–271, § 8211, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 115–271, § 8211, added subsec. (*l*).
 
 Subsec. (m). Pub. L. 115–271 redesignated subsec. (k) as (*l*), then (m).
 
-2017—Subsec. (b)(2). Pub. L. 115–37 inserted “, including by prioritizing the hiring and training of veterans (as defined in section 101 of title 38)” after “Nation”.
+2017—Subsec. (b)(2). Pub. L. 115–37 inserted “, including by prioritizing the hiring and training of veterans (as defined in section 101 of title 38)” after “Nation”.
 
-2016—Subsec. (b)(17). Pub. L. 114–199, § 2(1), (3), added par. (17). Former par. (17) redesignated (18).
+2016—Subsec. (b)(17). Pub. L. 114–199, § 2(1), (3), added par. (17). Former par. (17) redesignated (18).
 
-Subsec. (b)(18). Pub. L. 114–255, § 14001(b)(1), (3), added par. (18). Former par. (18) redesignated (22).
+Subsec. (b)(18). Pub. L. 114–255, § 14001(b)(1), (3), added par. (18). Former par. (18) redesignated (22).
 
-Pub. L. 114–199, § 2(2), (4), redesignated par. (17) as (18) and substituted “through (17)” for “through (16)”.
+Pub. L. 114–199, § 2(2), (4), redesignated par. (17) as (18) and substituted “through (17)” for “through (16)”.
 
-Subsec. (b)(19) to (21). Pub. L. 114–255, § 14001(b)(3), added pars. (19) to (21).
+Subsec. (b)(19) to (21). Pub. L. 114–255, § 14001(b)(3), added pars. (19) to (21).
 
-Subsec. (b)(22). Pub. L. 114–255, § 14001(b)(2), (4), redesignated par. (18) as (22) and substituted “through (21)” for “through (17)”.
+Subsec. (b)(22). Pub. L. 114–255, § 14001(b)(2), (4), redesignated par. (18) as (22) and substituted “through (21)” for “through (17)”.
 
-2015—Subsec. (c). Pub. L. 114–22, § 601(1), substituted “where feasible, to an application—” for “where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.” and added pars. (1) and (2).
+2015—Subsec. (c). Pub. L. 114–22, § 601(1), substituted “where feasible, to an application—” for “where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.” and added pars. (1) and (2).
 
-Subsec. (c)(3). Pub. L. 114–22, § 1002, added par. (3).
+Subsec. (c)(3). Pub. L. 114–22, § 1002, added par. (3).
 
-2010—Subsec. (b). Pub. L. 111–211, § 243(1)(A), inserted “to” after each par. designation.
+2010—Subsec. (b). Pub. L. 111–211, § 243(1)(A), inserted “to” after each par. designation.
 
-Subsec. (b)(1). Pub. L. 111–211, § 243(1)(B), substituted “State, tribal, or” for “State and”.
+Subsec. (b)(1). Pub. L. 111–211, § 243(1)(B), substituted “State, tribal, or” for “State and”.
 
-Subsec. (b)(5) to (8). Pub. L. 111–211, § 243(1)(G), redesignated pars. (6) to (9) as (5) to (8), respectively.
+Subsec. (b)(5) to (8). Pub. L. 111–211, § 243(1)(G), redesignated pars. (6) to (9) as (5) to (8), respectively.
 
-Subsec. (b)(9), (10). Pub. L. 111–211, § 243(1)(G), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
+Subsec. (b)(9), (10). Pub. L. 111–211, § 243(1)(G), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 
-Pub. L. 111–211, § 243(1)(C), inserted “, tribal,” after “State”.
+Pub. L. 111–211, § 243(1)(C), inserted “, tribal,” after “State”.
 
-Subsec. (b)(11) to (14). Pub. L. 111–211, § 243(1)(G), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
+Subsec. (b)(11) to (14). Pub. L. 111–211, § 243(1)(G), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
 
-Subsec. (b)(15). Pub. L. 111–211, § 243(1)(G), redesignated par. (16) as (15). Former par. (15) redesignated (14).
+Subsec. (b)(15). Pub. L. 111–211, § 243(1)(G), redesignated par. (16) as (15). Former par. (15) redesignated (14).
 
-Pub. L. 111–211, § 243(1)(D), substituted “a State or Indian tribe in” for “a State in”, “the State or tribal community that” for “the State which”, and “a State, tribal, or local” for “a State or local”.
+Pub. L. 111–211, § 243(1)(D), substituted “a State or Indian tribe in” for “a State in”, “the State or tribal community that” for “the State which”, and “a State, tribal, or local” for “a State or local”.
 
-Subsec. (b)(16), (17). Pub. L. 111–211, § 243(1)(E)–(H), added par. (17) and redesignated former par. (17) as (16). Former par. (16) redesignated (15).
+Subsec. (b)(16), (17). Pub. L. 111–211, § 243(1)(E)–(H), added par. (17) and redesignated former par. (17) as (16). Former par. (16) redesignated (15).
 
-Subsec. (i). Pub. L. 111–211, § 243(2), substituted “Except as provided in subsection (j), the authority” for “The authority”.
+Subsec. (i). Pub. L. 111–211, § 243(2), substituted “Except as provided in subsection (j), the authority” for “The authority”.
 
-Subsecs. (j), (k). Pub. L. 111–211, § 243(3), added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 111–211, § 243(3), added subsecs. (j) and (k).
 
-2006—Subsec. (a). Pub. L. 109–162, § 1163(a)(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety.”
+2006—Subsec. (a). Pub. L. 109–162, § 1163(a)(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety.”
 
-Subsec. (b). Pub. L. 109–162, § 1163(a)(3)(A), substituted “Uses of grant amounts” for “Additional grant projects” in subsec. heading and “The purposes for which grants made under subsection (a) of this section may be made are—” for “Grants made under subsection (a) of this section may include programs, projects, and other activities to—” in introductory provisions.
+Subsec. (b). Pub. L. 109–162, § 1163(a)(3)(A), substituted “Uses of grant amounts” for “Additional grant projects” in subsec. heading and “The purposes for which grants made under subsection (a) of this section may be made are—” for “Grants made under subsection (a) of this section may include programs, projects, and other activities to—” in introductory provisions.
 
-Pub. L. 109–162, § 1163(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to rehiring, hiring, and initial redeployment grant projects.
+Pub. L. 109–162, § 1163(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to rehiring, hiring, and initial redeployment grant projects.
 
-Subsec. (b)(1) to (4). Pub. L. 109–162, § 1163(a)(3)(C), added pars. (1) to (4). Former pars. (1) to (4) redesignated (6) to (9), respectively.
+Subsec. (b)(1) to (4). Pub. L. 109–162, § 1163(a)(3)(C), added pars. (1) to (4). Former pars. (1) to (4) redesignated (6) to (9), respectively.
 
-Subsec. (b)(5). Pub. L. 109–162, § 1163(a)(3)(B), redesignated par. (5) as (10).
+Subsec. (b)(5). Pub. L. 109–162, § 1163(a)(3)(B), redesignated par. (5) as (10).
 
-Subsec. (b)(6) to (8). Pub. L. 109–162, § 1163(a)(3)(B), redesignated pars. (1) to (3) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (11) to (13), respectively.
+Subsec. (b)(6) to (8). Pub. L. 109–162, § 1163(a)(3)(B), redesignated pars. (1) to (3) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (11) to (13), respectively.
 
-Subsec. (b)(9). Pub. L. 109–162, § 1163(a)(3)(B), (D), redesignated par. (4) as (9) and amended it generally. Prior to amendment, par. (9) read as follows: “develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;”. Former par. (9) redesignated (14).
+Subsec. (b)(9). Pub. L. 109–162, § 1163(a)(3)(B), (D), redesignated par. (4) as (9) and amended it generally. Prior to amendment, par. (9) read as follows: “develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;”. Former par. (9) redesignated (14).
 
-Subsec. (b)(10) to (17). Pub. L. 109–162, § 1163(a)(3)(B), redesignated pars. (5) to (12) as (10) to (17), respectively.
+Subsec. (b)(10) to (17). Pub. L. 109–162, § 1163(a)(3)(B), redesignated pars. (5) to (12) as (10) to (17), respectively.
 
-Subsec. (c). Pub. L. 109–162, § 1163(a)(2), (4), (5), redesignated subsec. (e) as (c), substituted “subsection (g) of this section” for “subsection (i) of this section”, and struck out former subsec. (c) which related to use of grants for troops-to-cops programs.
+Subsec. (c). Pub. L. 109–162, § 1163(a)(2), (4), (5), redesignated subsec. (e) as (c), substituted “subsection (g) of this section” for “subsection (i) of this section”, and struck out former subsec. (c) which related to use of grants for troops-to-cops programs.
 
-Subsecs. (d) to (k). Pub. L. 109–162, § 1163(a)(4), redesignated subsecs. (f) to (k) as (d) to (i), respectively. Former subsecs. (d) and (e) redesignated (b) and (c), respectively.
+Subsecs. (d) to (k). Pub. L. 109–162, § 1163(a)(4), redesignated subsecs. (f) to (k) as (d) to (i), respectively. Former subsecs. (d) and (e) redesignated (b) and (c), respectively.
 
 2003—Subsec. (d)(10) to (12). Pub. L. 108–21 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
@@ -7333,7 +7333,7 @@ Subsecs. (d) to (k). Pub. L. 109–162, § 1163(a)(4), redesignated subsecs. (
 
 **Purposes of 1994 Amendments**
 
-Pub. L. 103–322, title I, § 10002, Sept. 13, 1994, 108 Stat. 1807, provided that:
+Pub. L. 103–322, title I, § 10002, Sept. 13, 1994, 108 Stat. 1807, provided that:
 
 > “The purposes of this title [see Short Title of 1994 Act note set out under section 10101 of this title] are to—
 
@@ -7349,7 +7349,7 @@ Pub. L. 103–322, title I, § 10002, Sept. 13, 1994, 108 Stat. 1807, provided
 
 **Improving Public Safety Presence in Rural Alaska**
 
-Pub. L. 111–211, title II, § 247(a)–(d), July 29, 2010, 124 Stat. 2296, 2297, provided that:
+Pub. L. 111–211, title II, § 247(a)–(d), July 29, 2010, 124 Stat. 2296, 2297, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -7375,7 +7375,7 @@ Pub. L. 111–211, title II, § 247(a)–(d), July 29, 2010, 124 Stat. 2296, 2
 
 [For definition of “Indian tribe” as used in section 247(a)–(d) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.]
 
-### § 10382. Applications
+### § 10382. Applications
 
 **(a) In general**
 
@@ -7419,7 +7419,7 @@ Notwithstanding any other provision of this subchapter, in relation to applicati
 
 Notwithstanding any other provision of this subchapter, in relation to applications under section 10381(b) of this title for grants of less than $1,000,000, the Attorney General may waive 1 or more of the requirements of subsection (c) and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
 
-(Pub. L. 90–351, title I, § 1702, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1811; amended Pub. L. 109–162, title XI, §§ 1111(c)(2)(I), 1163(b), Jan. 5, 2006, 119 Stat. 3102, 3120.)
+(Pub. L. 90–351, title I, § 1702, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1811; amended Pub. L. 109–162, title XI, §§ 1111(c)(2)(I), 1163(b), Jan. 5, 2006, 119 Stat. 3102, 3120.)
 
 **Editorial Notes**
 
@@ -7429,9 +7429,9 @@ Section was formerly classified to section 3796dd–1 of Title 42, The Public He
 
 **Amendments**
 
-2006—Subsec. (c)(1). Pub. L. 109–162, § 1111(c)(2)(I), struck out “and reflects consideration of the statewide strategy under section 3753(a)(1) of this title” before semicolon at end.
+2006—Subsec. (c)(1). Pub. L. 109–162, § 1111(c)(2)(I), struck out “and reflects consideration of the statewide strategy under section 3753(a)(1) of this title” before semicolon at end.
 
-Subsec. (d)(2). Pub. L. 109–162, § 1163(b), substituted “section 3796dd(b)” for “section 3796dd(d)”.
+Subsec. (d)(2). Pub. L. 109–162, § 1163(b), substituted “section 3796dd(b)” for “section 3796dd(d)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7439,7 +7439,7 @@ Subsec. (d)(2). Pub. L. 109–162, § 1163(b), substituted “section 3796dd(b
 
 Amendment by section 1111(c)(2)(I) of Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
 
-### § 10383. Renewal of grants
+### § 10383. Renewal of grants
 
 **(a) In general**
 
@@ -7453,7 +7453,7 @@ Grants made for hiring or rehiring additional career law enforcement officers ma
 
 A grant for a period exceeding 1 year may be renewed as provided in this section, except that the total duration of such a grant including any renewals may not exceed 3 years, or 5 years if it is a grant made for hiring or rehiring additional career law enforcement officers.
 
-(Pub. L. 90–351, title I, § 1703, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1812.)
+(Pub. L. 90–351, title I, § 1703, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1812.)
 
 **Editorial Notes**
 
@@ -7461,7 +7461,7 @@ A grant for a period exceeding 1 year may be renewed as provided in this section
 
 Section was formerly classified to section 3796dd–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10384. Limitation on use of funds
+### § 10384. Limitation on use of funds
 
 **(a) Nonsupplanting requirement**
 
@@ -7503,7 +7503,7 @@ The term “budgeted strength” means the employment of the maximum number of s
 
 In developing the procedures and guidance under paragraph (2), the Attorney General shall take measures to reduce paperwork requirements for grants to covered applicants.
 
-(Pub. L. 90–351, title I, § 1704, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1812; amended Pub. L. 118–64, § 5, May 24, 2024, 138 Stat. 1436.)
+(Pub. L. 90–351, title I, § 1704, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1812; amended Pub. L. 118–64, § 5, May 24, 2024, 138 Stat. 1436.)
 
 **Editorial Notes**
 
@@ -7515,7 +7515,7 @@ Section was formerly classified to section 3796dd–3 of Title 42, The Public He
 
 2024—Subsec. (d). Pub. L. 118–64 added subsec. (d).
 
-### § 10385. Performance evaluation
+### § 10385. Performance evaluation
 
 **(a) Monitoring components**
 
@@ -7529,7 +7529,7 @@ Selected grant recipients shall be evaluated on the local level or as part of a 
 
 The Attorney General may require a grant recipient to submit to the Attorney General the results of the monitoring and evaluations required under subsections (a) and (b) and such other data and information as the Attorney General deems reasonably necessary.
 
-(Pub. L. 90–351, title I, § 1705, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813.)
+(Pub. L. 90–351, title I, § 1705, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -7537,11 +7537,11 @@ The Attorney General may require a grant recipient to submit to the Attorney Gen
 
 Section was formerly classified to section 3796dd–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10386. Revocation or suspension of funding
+### § 10386. Revocation or suspension of funding
 
 If the Attorney General determines, as a result of the reviews required by section 10385 of this title, or otherwise, that a grant recipient under this subchapter is not in substantial compliance with the terms and requirements of an approved grant application submitted under section 10382 of this title, the Attorney General may revoke or suspend funding of that grant, in whole or in part.
 
-(Pub. L. 90–351, title I, § 1706, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813.)
+(Pub. L. 90–351, title I, § 1706, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -7549,7 +7549,7 @@ If the Attorney General determines, as a result of the reviews required by secti
 
 Section was formerly classified to section 3796dd–5 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10387. Access to documents
+### § 10387. Access to documents
 
 **(a) By Attorney General**
 
@@ -7559,7 +7559,7 @@ The Attorney General shall have access for the purpose of audit and examination 
 
 Subsection (a) shall apply with respect to audits and examinations conducted by the Comptroller General of the United States or by an authorized representative of the Comptroller General.
 
-(Pub. L. 90–351, title I, § 1707, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813.)
+(Pub. L. 90–351, title I, § 1707, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -7567,11 +7567,11 @@ Subsection (a) shall apply with respect to audits and examinations conducted by 
 
 Section was formerly classified to section 3796dd–6 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10388. General regulatory authority
+### § 10388. General regulatory authority
 
 The Attorney General may promulgate regulations and guidelines to carry out this subchapter.
 
-(Pub. L. 90–351, title I, § 1708, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813.)
+(Pub. L. 90–351, title I, § 1708, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -7579,7 +7579,7 @@ The Attorney General may promulgate regulations and guidelines to carry out this
 
 Section was formerly classified to section 3796dd–7 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10389. Definitions
+### § 10389. Definitions
 
 In this subchapter—
 
@@ -7611,13 +7611,13 @@ In this subchapter—
 
 **(7)** “severe form of trafficking in persons” has the meaning given the term in section 7102 of title 22.
 
-(Pub. L. 90–351, title I, § 1709, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813; amended Pub. L. 105–302, § 1(2), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 114–22, title VI, § 601(2), May 29, 2015, 129 Stat. 259.)
+(Pub. L. 90–351, title I, § 1709, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1813; amended Pub. L. 105–302, § 1(2), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 114–22, title VI, § 601(2), May 29, 2015, 129 Stat. 259.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, § 2, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, § 2, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Codification**
 
@@ -7635,9 +7635,9 @@ Section was formerly classified to section 3796dd–8 of Title 42, The Public He
 
 **Codification**
 
-Part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this subchapter, was originally added to Pub. L. 90–351, title I, by Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1819, and amended by Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681. Part R is shown herein, however, as having been added by Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1859, without reference to those intervening amendments because of the extensive revision of Part R by Pub. L. 107–273.
+Part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this subchapter, was originally added to Pub. L. 90–351, title I, by Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1819, and amended by Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681. Part R is shown herein, however, as having been added by Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1859, without reference to those intervening amendments because of the extensive revision of Part R by Pub. L. 107–273.
 
-### § 10401. Program authorized
+### § 10401. Program authorized
 
 **(a) In general**
 
@@ -7683,7 +7683,7 @@ The Attorney General is authorized to provide grants to States, for use by State
 
 In this section the term “restorative justice program” means a program that emphasizes the moral accountability of an offender toward the victim and the affected community and may include community reparations boards, restitution (in the form of monetary payment or service to the victim or, where no victim can be identified, service to the affected community), and mediation between victim and offender.
 
-(Pub. L. 90–351, title I, § 1801, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1859; amended Pub. L. 109–162, title XI, §§ 1165, 1186, Jan. 5, 2006, 119 Stat. 3121, 3127.)
+(Pub. L. 90–351, title I, § 1801, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1859; amended Pub. L. 109–162, title XI, §§ 1165, 1186, Jan. 5, 2006, 119 Stat. 3121, 3127.)
 
 **Editorial Notes**
 
@@ -7693,29 +7693,29 @@ Section was formerly classified to section 3796ee of Title 42, The Public Health
 
 **Prior Provisions**
 
-A prior section 1801 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1819; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(34), (f)(26)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, authorized grants for the purpose of developing alternative methods of punishment for young offenders, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1801 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1819; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(34), (f)(26)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, authorized grants for the purpose of developing alternative methods of punishment for young offenders, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
 Another prior section 1801 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 10541 of this title.
 
 **Amendments**
 
-2006—Subsec. (b)(13). Pub. L. 109–162, § 1186, amended par. (13) generally. Prior to amendment, par. (13) read as follows: “establishing and maintaining accountability-based programs that are designed to enhance school safety;”.
+2006—Subsec. (b)(13). Pub. L. 109–162, § 1186, amended par. (13) generally. Prior to amendment, par. (13) read as follows: “establishing and maintaining accountability-based programs that are designed to enhance school safety;”.
 
-Subsec. (b)(17). Pub. L. 109–162, § 1165, added par. (17).
+Subsec. (b)(17). Pub. L. 109–162, § 1165, added par. (17).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 107–273, div. C, title II, § 12102(b), Nov. 2, 2002, 116 Stat. 1869, provided that: “The amendments made by subsection (a) [enacting this subchapter] shall take effect on the first day of the first fiscal year that begins after the date of enactment of this Act [Nov. 2, 2002].”
+Pub. L. 107–273, div. C, title II, § 12102(b), Nov. 2, 2002, 116 Stat. 1869, provided that: “The amendments made by subsection (a) [enacting this subchapter] shall take effect on the first day of the first fiscal year that begins after the date of enactment of this Act [Nov. 2, 2002].”
 
-### § 10402. Tribal grant program authorized
+### § 10402. Tribal grant program authorized
 
 **(a) In general**
 
 From the amount reserved under section 1810(b),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Attorney General shall make grants to Indian tribes for programs to strengthen tribal juvenile justice systems and to hold tribal youth accountable.
 
@@ -7731,13 +7731,13 @@ The Attorney General shall award grants under this section on a competitive basi
 
 The Attorney General shall issue guidelines establishing application, use, and award criteria and processes consistent with the purposes and requirements of this Act.
 
-(Pub. L. 90–351, title I, § 1801A, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1861.)
+(Pub. L. 90–351, title I, § 1801A, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1861.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1810(b), referred to in subsec. (a), is section 1810(b) of title I of Pub. L. 90–351, as added by Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1868, which was classified to section 3796ee–10 of Title 42, The Public Health and Welfare, and was omitted from the Code as obsolete.
+Section 1810(b), referred to in subsec. (a), is section 1810(b) of title I of Pub. L. 90–351, as added by Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1868, which was classified to section 3796ee–10 of Title 42, The Public Health and Welfare, and was omitted from the Code as obsolete.
 
 This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
@@ -7745,7 +7745,7 @@ This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Sta
 
 Section was formerly classified to section 3796ee–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10403. Grant eligibility
+### § 10403. Grant eligibility
 
 **(a) State eligibility** To be eligible to receive a grant under this subchapter, a State shall submit to the Attorney General an application at such time, in such form, and containing such assurances and information as the Attorney General may require by guidelines, including—
 
@@ -7821,7 +7821,7 @@ The term “discretionary” means that a system of graduated sanctions is not r
 
 The term “sanctions” means tangible, proportional consequences that hold the juvenile offender accountable for the offense committed. A sanction may include counseling, restitution, community service, a fine, supervised probation, or confinement.
 
-(Pub. L. 90–351, title I, § 1802, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1861; amended Pub. L. 109–162, title XI, § 1168(a), formerly § 1168, Jan. 5, 2006, 119 Stat. 3122, renumbered § 1168(a), Pub. L. 109–271, § 8(n)(5)(A), Aug. 12, 2006, 120 Stat. 768.)
+(Pub. L. 90–351, title I, § 1802, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1861; amended Pub. L. 109–162, title XI, § 1168(a), formerly § 1168, Jan. 5, 2006, 119 Stat. 3122, renumbered § 1168(a), Pub. L. 109–271, § 8(n)(5)(A), Aug. 12, 2006, 120 Stat. 768.)
 
 **Editorial Notes**
 
@@ -7831,19 +7831,19 @@ Section was formerly classified to section 3796ee–2 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 1802 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–1 of Title 42, The Public Health and Welfare, related to State applications for grants, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1802 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–1 of Title 42, The Public Health and Welfare, related to State applications for grants, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
 **Amendments**
 
-2006—Subsecs. (a)(1)(B), (b)(1)(A)(ii). Pub. L. 109–162, § 1168(a), formerly § 1168, as renumbered by Pub. L. 109–271, inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
+2006—Subsecs. (a)(1)(B), (b)(1)(A)(ii). Pub. L. 109–162, § 1168(a), formerly § 1168, as renumbered by Pub. L. 109–271, inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–162, title XI, § 1168(b), as added by Pub. L. 109–271, § 8(n)(5)(B), Aug. 12, 2006, 120 Stat. 768, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2006.”
+Pub. L. 109–162, title XI, § 1168(b), as added by Pub. L. 109–271, § 8(n)(5)(B), Aug. 12, 2006, 120 Stat. 768, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2006.”
 
-### § 10404. Allocation and distribution of funds
+### § 10404. Allocation and distribution of funds
 
 **(a) State allocation**
 
@@ -7915,7 +7915,7 @@ If a State does not qualify or apply for funds reserved for allocation under sub
 
 In addition to the qualification requirements for direct grants for specially qualified units the Attorney General may use the average amount allocated by the States to units of local government as a basis for awarding grants under this section.
 
-(Pub. L. 90–351, title I, § 1803, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1863.)
+(Pub. L. 90–351, title I, § 1803, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1863.)
 
 **Editorial Notes**
 
@@ -7925,15 +7925,15 @@ Section was formerly classified to section 3796ee–3 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 1803 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–2 of Title 42, The Public Health and Welfare, related to review of State applications, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1803 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–2 of Title 42, The Public Health and Welfare, related to review of State applications, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
-### § 10405. Guidelines
+### § 10405. Guidelines
 
 **(a) In general**
 
-The Attorney General shall issue guidelines establishing procedures under which a State or specifically 1
+The Attorney General shall issue guidelines establishing procedures under which a State or specifically 1
 
-<sup>1</sup>  So in original. Probably should be “specially”.
+<sup>1</sup> So in original. Probably should be “specially”.
 
 qualified unit of local government that receives funds under section 10404 of this title is required to provide notice to the Attorney General regarding the proposed use of funds made available under this subchapter.
 
@@ -7963,7 +7963,7 @@ The guidelines referred to in subsection (a) shall include a requirement that su
 
 **(I)** a nonprofit, religious, or community group.
 
-(Pub. L. 90–351, title I, § 1804, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1865.)
+(Pub. L. 90–351, title I, § 1804, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1865.)
 
 **Editorial Notes**
 
@@ -7973,13 +7973,13 @@ Section was formerly classified to section 3796ee–4 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 1804 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–3 of Title 42, The Public Health and Welfare, related to applications by local governments, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1804 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–3 of Title 42, The Public Health and Welfare, related to applications by local governments, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
-### § 10406. Payment requirements
+### § 10406. Payment requirements
 
-**(a) Timing of payments** The Attorney General shall pay to each State or specifically 1
+**(a) Timing of payments** The Attorney General shall pay to each State or specifically 1
 
-<sup>1</sup>  So in original. Probably should be “specially”.
+<sup>1</sup> So in original. Probably should be “specially”.
 
 qualified unit of local government that receives funds under section 10404 of this title that has submitted an application under this subchapter the amount awarded to such State or unit of local government not later than the later of—
 
@@ -8023,7 +8023,7 @@ The Federal share of a grant received under this subchapter may not exceed 90 pe
 
 Notwithstanding paragraph (1), with respect to the cost of constructing juvenile detention or correctional facilities, the Federal share of a grant received under this subchapter may not exceed 50 percent of approved cost.
 
-(Pub. L. 90–351, title I, § 1805, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1865.)
+(Pub. L. 90–351, title I, § 1805, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1865.)
 
 **Editorial Notes**
 
@@ -8033,13 +8033,13 @@ Section was formerly classified to section 3796ee–5 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 1805 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1821, and classified to former section 3796ee–4 of Title 42, The Public Health and Welfare, related to allocation and distribution of funds, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1805 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1821, and classified to former section 3796ee–4 of Title 42, The Public Health and Welfare, related to allocation and distribution of funds, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
-### § 10407. Utilization of private sector
+### § 10407. Utilization of private sector
 
 Funds or a portion of funds allocated under this subchapter may be used by a State or unit of local government that receives a grant under this subchapter to contract with private, nonprofit entities, or community-based organizations to carry out the purposes specified under section 10401(b) of this title.
 
-(Pub. L. 90–351, title I, § 1806, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1866.)
+(Pub. L. 90–351, title I, § 1806, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1866.)
 
 **Editorial Notes**
 
@@ -8049,9 +8049,9 @@ Section was formerly classified to section 3796ee–6 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 1806 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1822, and classified to former section 3796ee–5 of Title 42, The Public Health and Welfare, required each State and unit of local government to submit an annual evaluation of programs, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1806 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1822, and classified to former section 3796ee–5 of Title 42, The Public Health and Welfare, required each State and unit of local government to submit an annual evaluation of programs, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
-### § 10408. Administrative provisions
+### § 10408. Administrative provisions
 
 **(a) In general** A State or specially qualified unit that receives funds under this subchapter shall—
 
@@ -8067,7 +8067,7 @@ A prior section 1806 of title I of Pub. L. 90–351, as added Pub. L. 103–322,
 
 Except as otherwise provided, the administrative provisions of subchapter VII shall apply to this subchapter and for purposes of this section any reference in such provisions to this chapter shall be deemed to include a reference to this subchapter.
 
-(Pub. L. 90–351, title I, § 1807, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1866.)
+(Pub. L. 90–351, title I, § 1807, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1866.)
 
 **Editorial Notes**
 
@@ -8075,7 +8075,7 @@ Except as otherwise provided, the administrative provisions of subchapter VII sh
 
 Section was formerly classified to section 3796ee–7 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10409. Assessment reports
+### § 10409. Assessment reports
 
 **(a) Reports to Attorney General**
 
@@ -8113,7 +8113,7 @@ Except as provided in paragraph (4), for each fiscal year for which a grant or s
 
 **(3)** such other information as the Attorney General considers appropriate.
 
-(Pub. L. 90–351, title I, § 1808, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1867.)
+(Pub. L. 90–351, title I, § 1808, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1867.)
 
 **Editorial Notes**
 
@@ -8121,7 +8121,7 @@ Except as provided in paragraph (4), for each fiscal year for which a grant or s
 
 Section was formerly classified to section 3796ee–8 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10410. Definitions
+### § 10410. Definitions
 
 In this subchapter:
 
@@ -8161,7 +8161,7 @@ The term “juvenile” means an individual who is 17 years of age or younger.
 
 The term “part 1 violent crimes” means murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault as reported to the Federal Bureau of Investigation for purposes of the Uniform Crime Reports.
 
-(Pub. L. 90–351, title I, § 1809, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1867.)
+(Pub. L. 90–351, title I, § 1809, as added Pub. L. 107–273, div. C, title II, § 12102(a), Nov. 2, 2002, 116 Stat. 1867.)
 
 **Editorial Notes**
 
@@ -8171,7 +8171,7 @@ Section was formerly classified to section 3796ee–9 of Title 42, The Public He
 
 ## SUBCHAPTER XVIII—RESIDENTIAL SUBSTANCE ABUSE TREATMENT FOR STATE PRISONERS
 
-### § 10421. Grant authorization
+### § 10421. Grant authorization
 
 **(a) In general** The Attorney General may make grants under this subchapter to States, for use by States and units of local government for the purpose of—
 
@@ -8189,7 +8189,7 @@ The Attorney General shall consult with the Secretary of Health and Human Servic
 
 States that demonstrate that they have existing in-prison drug treatment programs that are in compliance with Federal requirements may use funds awarded under this subchapter for treatment and sanctions both during incarceration and after release.
 
-(Pub. L. 90–351, title I, § 1901, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §§ 2101, 2102(1), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 114–255, div. B, title XIV, § 14012, Dec. 13, 2016, 130 Stat. 1297.)
+(Pub. L. 90–351, title I, § 1901, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §§ 2101, 2102(1), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 114–255, div. B, title XIV, § 14012, Dec. 13, 2016, 130 Stat. 1297.)
 
 **Editorial Notes**
 
@@ -8205,11 +8205,11 @@ A prior section 1901 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 2016—Subsec. (a)(3). Pub. L. 114–255 added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–273, § 2102(1), substituted “purpose of—” for “purpose of”, inserted par. (1) designation before “developing”, and added par. (2).
+2002—Subsec. (a). Pub. L. 107–273, § 2102(1), substituted “purpose of—” for “purpose of”, inserted par. (1) designation before “developing”, and added par. (2).
 
-Subsec. (c). Pub. L. 107–273, § 2101, added subsec. (c).
+Subsec. (c). Pub. L. 107–273, § 2101, added subsec. (c).
 
-### § 10422. State applications
+### § 10422. State applications
 
 **(a) In general**
 
@@ -8217,11 +8217,11 @@ Subsec. (c). Pub. L. 107–273, § 2101, added subsec. (c).
 
 **(2)** Such application shall include assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.
 
-**(3)** Such application shall coordinate the design and implementation of treatment programs between State correctional representatives and the State Alcohol 1
+**(3)** Such application shall coordinate the design and implementation of treatment programs between State correctional representatives and the State Alcohol 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
-and Drug 1 Abuse 1 agency (and, if appropriate, between representatives of local correctional agencies and representatives of either the State alcohol and drug abuse agency or any appropriate local alcohol and drug abuse agency).
+and Drug 1 Abuse 1 agency (and, if appropriate, between representatives of local correctional agencies and representatives of either the State alcohol and drug abuse agency or any appropriate local alcohol and drug abuse agency).
 
 **(b) Substance abuse testing requirement** To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing, including both periodic and random testing—
 
@@ -8237,9 +8237,9 @@ and Drug 1 Abuse 1 agency (and, if appropriate, between representatives of l
 
 **(3)** To qualify as an aftercare program, the head of the substance abuse treatment program, in conjunction with State and local authorities and organizations involved in substance abuse treatment, shall assist in placement of substance abuse treatment program participants with appropriate community substance abuse treatment facilities when such individuals leave the correctional facility at the end of a sentence or on parole.
 
-**(4)** After care 2
+**(4)** After care 2
 
-<sup>2</sup>  So in original. Probably should be “Aftercare”.
+<sup>2</sup> So in original. Probably should be “Aftercare”.
 
 services required by this subsection shall be funded through funds provided for this subchapter.
 
@@ -8257,7 +8257,7 @@ Each application submitted for a grant under this section shall include a descri
 
 A State may use amounts received under this subchapter to provide nonresidential substance abuse treatment aftercare services for inmates or former inmates that meet the requirements of subsection (c), if the chief executive officer of the State certifies to the Attorney General that the State is providing, and will continue to provide, an adequate level of residential treatment services.
 
-(Pub. L. 90–351, title I, § 1902, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, § 2102(2), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, §§ 1111(c)(2)(J), 1145(a), (b), Jan. 5, 2006, 119 Stat. 3102, 3111; Pub. L. 110–199, title I, § 102(a), Apr. 9, 2008, 122 Stat. 668.)
+(Pub. L. 90–351, title I, § 1902, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, § 2102(2), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, §§ 1111(c)(2)(J), 1145(a), (b), Jan. 5, 2006, 119 Stat. 3102, 3111; Pub. L. 110–199, title I, § 102(a), Apr. 9, 2008, 122 Stat. 668.)
 
 **Editorial Notes**
 
@@ -8269,15 +8269,15 @@ Section was formerly classified to section 3796ff–1 of Title 42, The Public He
 
 2008—Subsec. (c). Pub. L. 110–199 substituted “Requirement for aftercare component” for “Aftercare services requirement” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care services.”
 
-2006—Subsec. (b). Pub. L. 109–162, § 1145(a), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State.”
+2006—Subsec. (b). Pub. L. 109–162, § 1145(a), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State.”
 
-Subsec. (c). Pub. L. 109–162, § 1145(b)(1), substituted “Aftercare services requirement” for “Eligibility for preference with after care component” in subsec. heading.
+Subsec. (c). Pub. L. 109–162, § 1145(b)(1), substituted “Aftercare services requirement” for “Eligibility for preference with after care component” in subsec. heading.
 
-Subsec. (c)(1). Pub. L. 109–162, § 1145(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for a preference under this subchapter, a State must ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with aftercare services.”
+Subsec. (c)(1). Pub. L. 109–162, § 1145(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for a preference under this subchapter, a State must ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with aftercare services.”
 
-Subsec. (c)(4). Pub. L. 109–162, § 1145(b)(3), added par. (4).
+Subsec. (c)(4). Pub. L. 109–162, § 1145(b)(3), added par. (4).
 
-Subsec. (e). Pub. L. 109–162, § 1111(c)(2)(J), substituted “The office responsible for the trust fund required by section 3757 of this title” for “The Office designated under section 3757 of this title” in introductory provisions.
+Subsec. (e). Pub. L. 109–162, § 1111(c)(2)(J), substituted “The office responsible for the trust fund required by section 3757 of this title” for “The Office designated under section 3757 of this title” in introductory provisions.
 
 2002—Subsec. (f). Pub. L. 107–273 added subsec. (f).
 
@@ -8287,13 +8287,13 @@ Subsec. (e). Pub. L. 109–162, § 1111(c)(2)(J), substituted “The office re
 
 Amendment by section 1111(c)(2)(J) of Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
 
-Pub. L. 109–162, title XI, § 1147, as added by Pub. L. 109–271, § 8(n)(2)(A), Aug. 12, 2006, 120 Stat. 767, provided that: “The amendments made by sections 1144 and 1145 [amending this section and sections 10423 and 10424 of this title] shall take effect on October 1, 2006.”
+Pub. L. 109–162, title XI, § 1147, as added by Pub. L. 109–271, § 8(n)(2)(A), Aug. 12, 2006, 120 Stat. 767, provided that: “The amendments made by sections 1144 and 1145 [amending this section and sections 10423 and 10424 of this title] shall take effect on October 1, 2006.”
 
 **Construction of 2008 Amendment**
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10423. Review of State applications
+### § 10423. Review of State applications
 
 **(a) In general** The Attorney General shall make a grant under section 10421 of this title to carry out the projects described in the application submitted under section 10422 of this title upon determining that—
 
@@ -8317,7 +8317,7 @@ The Attorney General shall not disapprove any application without first affordin
 
 In considering an application submitted by a State under section 10422 of this title, the Attorney General shall give priority to an application that involves a partnership between the State and a community-based drug treatment program within the State.
 
-(Pub. L. 90–351, title I, § 1903, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1899; amended Pub. L. 109–162, title XI, § 1145(c), Jan. 5, 2006, 119 Stat. 3112.)
+(Pub. L. 90–351, title I, § 1903, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1899; amended Pub. L. 109–162, title XI, § 1145(c), Jan. 5, 2006, 119 Stat. 3112.)
 
 **Editorial Notes**
 
@@ -8335,7 +8335,7 @@ Section was formerly classified to section 3796ff–2 of Title 42, The Public He
 
 Amendment by Pub. L. 109–162 effective Oct. 1, 2006, see section 1147 of Pub. L. 109–162, set out as a note under section 10422 of this title.
 
-### § 10424. Allocation and distribution of funds
+### § 10424. Allocation and distribution of funds
 
 **(a) Allocation** Of the total amount appropriated under this subchapter in any fiscal year—
 
@@ -8355,7 +8355,7 @@ At least 10 percent of the total amount made available to a State under subsecti
 
 In this subchapter, the term “residential substance abuse treatment program” means a course of comprehensive individual and group substance abuse treatment services, lasting a period of at least 6 months, in residential treatment facilities set apart from the general population of a prison or jail (which may include the use of pharmacological treatment, where appropriate, that may extend beyond such period).
 
-(Pub. L. 90–351, title I, § 1904, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1900; amended Pub. L. 107–273, div. B, title II, § 2102(3), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, § 1144, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 110–199, title I, § 102(b), Apr. 9, 2008, 122 Stat. 668.)
+(Pub. L. 90–351, title I, § 1904, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1900; amended Pub. L. 107–273, div. B, title II, § 2102(3), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, § 1144, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 110–199, title I, § 102(b), Apr. 9, 2008, 122 Stat. 668.)
 
 **Editorial Notes**
 
@@ -8381,11 +8381,11 @@ Amendment by Pub. L. 109–162 effective Oct. 1, 2006, see section 1147 of Pub. 
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10425. Evaluation
+### § 10425. Evaluation
 
 Each State that receives a grant under this subchapter shall submit to the Attorney General an evaluation not later than March 1 of each year in such form and containing such information as the Attorney General may reasonably require.
 
-(Pub. L. 90–351, title I, § 1905, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1900.)
+(Pub. L. 90–351, title I, § 1905, as added Pub. L. 103–322, title III, § 32101(a)(3), Sept. 13, 1994, 108 Stat. 1900.)
 
 **Editorial Notes**
 
@@ -8393,7 +8393,7 @@ Each State that receives a grant under this subchapter shall submit to the Attor
 
 Section was formerly classified to section 3796ff–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10426. National training center for prison drug rehabilitation program personnel
+### § 10426. National training center for prison drug rehabilitation program personnel
 
 **(a) In general**
 
@@ -8409,7 +8409,7 @@ The Director of the National Institute of Corrections shall design and construct
 
 **(2)** for design and construction of facilities for the center, not more than $10,000,000 for fiscal years 1989, 1990, and 1991.
 
-(Pub. L. 100–690, title VI, § 6292, Nov. 18, 1988, 102 Stat. 4369.)
+(Pub. L. 100–690, title VI, § 6292, Nov. 18, 1988, 102 Stat. 4369.)
 
 **Editorial Notes**
 
@@ -8419,7 +8419,7 @@ Section was formerly classified as a note under section 4352 of Title 18, Crimes
 
 ## SUBCHAPTER XIX—GRANTS TO COMBAT VIOLENT CRIMES AGAINST WOMEN
 
-### § 10441. Purpose of program and grants
+### § 10441. Purpose of program and grants
 
 **(a) General program purpose**
 
@@ -8553,15 +8553,15 @@ Nothing in this subsection prohibits any tribal coalition or organization descri
 
 In this subsection, the term “Native Hawaiian” has the meaning given that term in section 4221 of title 25.
 
-(Pub. L. 90–351, title I, § 2001, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§ 1102(a)(1), 1103(b)(1), 1109(b), title II, § 1209(c), title V, § 1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, § 310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, § 101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, § 202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, § 101(2), title IX, § 902, Mar. 7, 2013, 127 Stat. 65, 119; Pub. L. 117–103, div. W, title I, § 101(a)(1), Mar. 15, 2022, 136 Stat. 846; Pub. L. 117–315, § 2(a), Dec. 27, 2022, 136 Stat. 4404.)
+(Pub. L. 90–351, title I, § 2001, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§ 1102(a)(1), 1103(b)(1), 1109(b), title II, § 1209(c), title V, § 1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, § 310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, § 101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, § 202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, § 101(2), title IX, § 902, Mar. 7, 2013, 127 Stat. 65, 119; Pub. L. 117–103, div. W, title I, § 101(a)(1), Mar. 15, 2022, 136 Stat. 846; Pub. L. 117–315, § 2(a), Dec. 27, 2022, 136 Stat. 4404.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Health Service Act, referred to in subsec. (c)(2)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (c)(2)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-This chapter, referred to in subsec. (d)(4), was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (d)(4), was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 **Codification**
 
@@ -8573,77 +8573,77 @@ A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 **Amendments**
 
-2022—Subsec. (b)(3). Pub. L. 117–103, § 101(a)(1)(A)(i), inserted “, including implementation of the grant conditions in section 12291(b) of this title” before semicolon at end.
+2022—Subsec. (b)(3). Pub. L. 117–103, § 101(a)(1)(A)(i), inserted “, including implementation of the grant conditions in section 12291(b) of this title” before semicolon at end.
 
-Subsec. (b)(5). Pub. L. 117–103, § 101(a)(1)(A)(ii), inserted “and legal assistance” after “improving delivery of victim services”.
+Subsec. (b)(5). Pub. L. 117–103, § 101(a)(1)(A)(ii), inserted “and legal assistance” after “improving delivery of victim services”.
 
-Subsec. (b)(9). Pub. L. 117–103, § 101(a)(1)(A)(iii), substituted “individuals 50 years of age or over, individuals with disabilities, and Deaf individuals” for “older and disabled women” and “such individuals” for “such older and disabled individuals” and inserted “legal assistance,” after “counseling,”.
+Subsec. (b)(9). Pub. L. 117–103, § 101(a)(1)(A)(iii), substituted “individuals 50 years of age or over, individuals with disabilities, and Deaf individuals” for “older and disabled women” and “such individuals” for “such older and disabled individuals” and inserted “legal assistance,” after “counseling,”.
 
-Subsec. (b)(11). Pub. L. 117–103, § 101(a)(1)(A)(iv), inserted “, including rehabilitative work with offenders” before semicolon at end.
+Subsec. (b)(11). Pub. L. 117–103, § 101(a)(1)(A)(iv), inserted “, including rehabilitative work with offenders” before semicolon at end.
 
-Subsec. (b)(20). Pub. L. 117–103, § 101(a)(1)(A)(vi)(I), substituted “stalking, or female genital mutilation or cutting” for “or stalking”.
+Subsec. (b)(20). Pub. L. 117–103, § 101(a)(1)(A)(vi)(I), substituted “stalking, or female genital mutilation or cutting” for “or stalking”.
 
-Subsec. (b)(21) to (24). Pub. L. 117–103, § 101(a)(1)(A)(v), (vi)(II), (vii), added pars. (21) to (24).
+Subsec. (b)(21) to (24). Pub. L. 117–103, § 101(a)(1)(A)(v), (vi)(II), (vii), added pars. (21) to (24).
 
-Subsec. (d)(1)(A), (B). Pub. L. 117–315, § 2(a)(1)(A), (B), inserted “or Native Hawaiian” after “Indian”.
+Subsec. (d)(1)(A), (B). Pub. L. 117–315, § 2(a)(1)(A), (B), inserted “or Native Hawaiian” after “Indian”.
 
-Subsec. (d)(1)(C). Pub. L. 117–315, § 2(a)(1)(C), inserted “or Native Hawaiian communities” after “tribal communities” and “or Native Hawaiian” after “Indian”.
+Subsec. (d)(1)(C). Pub. L. 117–315, § 2(a)(1)(C), inserted “or Native Hawaiian communities” after “tribal communities” and “or Native Hawaiian” after “Indian”.
 
-Subsec. (d)(1)(D). Pub. L. 117–315, § 2(a)(1)(D), inserted “or Native Hawaiian communities” after “Indian tribes” and “or Native Hawaiian” after “against Indian”.
+Subsec. (d)(1)(D). Pub. L. 117–315, § 2(a)(1)(D), inserted “or Native Hawaiian communities” after “Indian tribes” and “or Native Hawaiian” after “against Indian”.
 
-Subsec. (d)(2)(A)(iii), (B). Pub. L. 117–315, § 2(a)(2), inserted “or Native Hawaiian communities” after “Indian tribes”.
+Subsec. (d)(2)(A)(iii), (B). Pub. L. 117–315, § 2(a)(2), inserted “or Native Hawaiian communities” after “Indian tribes”.
 
-Subsec. (d)(3). Pub. L. 117–103, § 101(a)(1)(B), substituted “2023 through 2027” for “2014 through 2018” in introductory provisions.
+Subsec. (d)(3). Pub. L. 117–103, § 101(a)(1)(B), substituted “2023 through 2027” for “2014 through 2018” in introductory provisions.
 
-Subsec. (d)(6). Pub. L. 117–315, § 2(a)(3), added par. (6).
+Subsec. (d)(6). Pub. L. 117–315, § 2(a)(3), added par. (6).
 
-2013—Subsec. (b). Pub. L. 113–4, § 101(2)(A), substituted “resources” for “equipment” and inserted “for the protection and safety of victims,” after “women,” in introductory provisions.
+2013—Subsec. (b). Pub. L. 113–4, § 101(2)(A), substituted “resources” for “equipment” and inserted “for the protection and safety of victims,” after “women,” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 113–4, § 101(2)(B), substituted “domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8” for “sexual assault, domestic violence, and dating violence”.
+Subsec. (b)(1). Pub. L. 113–4, § 101(2)(B), substituted “domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8” for “sexual assault, domestic violence, and dating violence”.
 
-Subsec. (b)(2). Pub. L. 113–4, § 101(2)(C), substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
+Subsec. (b)(2). Pub. L. 113–4, § 101(2)(C), substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
 
-Subsec. (b)(3). Pub. L. 113–4, § 101(2)(D), substituted “domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims” for “sexual assault and domestic violence”.
+Subsec. (b)(3). Pub. L. 113–4, § 101(2)(D), substituted “domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims” for “sexual assault and domestic violence”.
 
-Subsec. (b)(4). Pub. L. 113–4, § 101(2)(E), inserted “, classifying,” after “identifying” and substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
+Subsec. (b)(4). Pub. L. 113–4, § 101(2)(E), inserted “, classifying,” after “identifying” and substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
 
-Subsec. (b)(5). Pub. L. 113–4, § 101(2)(F)(iii), substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
+Subsec. (b)(5). Pub. L. 113–4, § 101(2)(F)(iii), substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
 
-Pub. L. 113–4, § 101(2)(F)(ii), which directed substitution of “domestic violence, dating violence, and stalking” for “domestic violence and dating violence”, was executed by making the substitution for “domestic violence, and dating violence” to reflect the probable intent of Congress.
+Pub. L. 113–4, § 101(2)(F)(ii), which directed substitution of “domestic violence, dating violence, and stalking” for “domestic violence and dating violence”, was executed by making the substitution for “domestic violence, and dating violence” to reflect the probable intent of Congress.
 
-Pub. L. 113–4, § 101(2)(F)(i), which directed insertion of “and legal assistance” after “victim services”, was executed by making the insertion after “victim services” the first time appearing to reflect the probable intent of Congress.
+Pub. L. 113–4, § 101(2)(F)(i), which directed insertion of “and legal assistance” after “victim services”, was executed by making the insertion after “victim services” the first time appearing to reflect the probable intent of Congress.
 
-Subsec. (b)(6). Pub. L. 113–4, § 101(2)(H), substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
+Subsec. (b)(6). Pub. L. 113–4, § 101(2)(H), substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
 
-Pub. L. 113–4, § 101(2)(G), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “developing, enlarging, or strengthening programs addressing stalking;”.
+Pub. L. 113–4, § 101(2)(G), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “developing, enlarging, or strengthening programs addressing stalking;”.
 
-Subsec. (b)(7). Pub. L. 113–4, § 101(2)(I), substituted “dating violence, and stalking” for “and dating violence”.
+Subsec. (b)(7). Pub. L. 113–4, § 101(2)(I), substituted “dating violence, and stalking” for “and dating violence”.
 
-Pub. L. 113–4, § 101(2)(G), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+Pub. L. 113–4, § 101(2)(G), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
-Subsec. (b)(8). Pub. L. 113–4, § 101(2)(G), redesignated par. (9) as (8). Former par. (8) redesignated (7).
+Subsec. (b)(8). Pub. L. 113–4, § 101(2)(G), redesignated par. (9) as (8). Former par. (8) redesignated (7).
 
-Subsec. (b)(9). Pub. L. 113–4, § 101(2)(J), substituted “domestic violence, dating violence, sexual assault, or stalking” for “domestic violence or sexual assault”.
+Subsec. (b)(9). Pub. L. 113–4, § 101(2)(J), substituted “domestic violence, dating violence, sexual assault, or stalking” for “domestic violence or sexual assault”.
 
-Pub. L. 113–4, § 101(2)(G), redesignated par. (10) as (9). Former par. (9) redesignated (8).
+Pub. L. 113–4, § 101(2)(G), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
-Subsec. (b)(10), (11). Pub. L. 113–4, § 101(2)(G), redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
+Subsec. (b)(10), (11). Pub. L. 113–4, § 101(2)(G), redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
 
-Subsec. (b)(12). Pub. L. 113–4, § 101(2)(G), redesignated par. (13) as (12). Former par. (12) redesignated (11).
+Subsec. (b)(12). Pub. L. 113–4, § 101(2)(G), redesignated par. (13) as (12). Former par. (12) redesignated (11).
 
-Subsec. (b)(12)(A). Pub. L. 113–4, § 101(2)(K)(i), substituted “the use of evidence-based indicators to assess the risk of domestic and dating violence homicide and prioritize dangerous or potentially lethal cases” for “triage protocols to ensure that dangerous or potentially lethal cases are identified and prioritized”.
+Subsec. (b)(12)(A). Pub. L. 113–4, § 101(2)(K)(i), substituted “the use of evidence-based indicators to assess the risk of domestic and dating violence homicide and prioritize dangerous or potentially lethal cases” for “triage protocols to ensure that dangerous or potentially lethal cases are identified and prioritized”.
 
-Subsec. (b)(12)(D). Pub. L. 113–4, § 101(2)(K)(ii), struck out “and” after semicolon.
+Subsec. (b)(12)(D). Pub. L. 113–4, § 101(2)(K)(ii), struck out “and” after semicolon.
 
-Subsec. (b)(13). Pub. L. 113–4, § 101(2)(L), in introductory provisions, substituted “providing” for “to provide”, struck out “nonprofit nongovernmental” before “victim services”, and struck out comma after “local governments”, and in concluding provisions, substituted “paragraph (13)” for “paragraph (14)” and substituted semicolon for period at end.
+Subsec. (b)(13). Pub. L. 113–4, § 101(2)(L), in introductory provisions, substituted “providing” for “to provide”, struck out “nonprofit nongovernmental” before “victim services”, and struck out comma after “local governments”, and in concluding provisions, substituted “paragraph (13)” for “paragraph (14)” and substituted semicolon for period at end.
 
-Pub. L. 113–4, § 101(2)(G), redesignated par. (14) as (13). Former par. (13) redesignated (12).
+Pub. L. 113–4, § 101(2)(G), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
-Subsec. (b)(14). Pub. L. 113–4, § 101(2)(M), added par. (14). Former par. (14) redesignated (13).
+Subsec. (b)(14). Pub. L. 113–4, § 101(2)(M), added par. (14). Former par. (14) redesignated (13).
 
-Subsec. (b)(15) to (20). Pub. L. 113–4, § 101(2)(M), added pars. (15) to (20).
+Subsec. (b)(15) to (20). Pub. L. 113–4, § 101(2)(M), added pars. (15) to (20).
 
-Subsec. (d). Pub. L. 113–4, § 902, added subsec. (d) and struck out former subsec. (d) which related to tribal coalition grants.
+Subsec. (d). Pub. L. 113–4, § 902, added subsec. (d) and struck out former subsec. (d) which related to tribal coalition grants.
 
 2010—Subsec. (c)(2)(A). Pub. L. 111–320 substituted “under section 10411 of this title” for “through the Family Violence Prevention and Services Act (42 U.S.C. 10410 et seq.)”.
 
@@ -8651,29 +8651,29 @@ Subsec. (d). Pub. L. 113–4, § 902, added subsec. (d) and struck out former 
 
 2004—Subsec. (d). Pub. L. 108–405 added subsec. (d).
 
-2000—Subsec. (a). Pub. L. 106–386, § 1102(a)(1)(A), substituted “State and local courts (including juvenile courts), Indian tribal governments, tribal courts,” for “Indian tribal governments,”.
+2000—Subsec. (a). Pub. L. 106–386, § 1102(a)(1)(A), substituted “State and local courts (including juvenile courts), Indian tribal governments, tribal courts,” for “Indian tribal governments,”.
 
-Subsec. (b)(1). Pub. L. 106–386, §§ 1102(a)(1)(B)(i), 1109(b)(1), inserted “, judges, other court personnel,” after “law enforcement officers” and substituted “sexual assault, domestic violence, and dating violence” for “sexual assault and domestic violence”.
+Subsec. (b)(1). Pub. L. 106–386, §§ 1102(a)(1)(B)(i), 1109(b)(1), inserted “, judges, other court personnel,” after “law enforcement officers” and substituted “sexual assault, domestic violence, and dating violence” for “sexual assault and domestic violence”.
 
-Subsec. (b)(2). Pub. L. 106–386, § 1102(a)(1)(B)(ii), inserted “, judges, other court personnel,” after “law enforcement officers”.
+Subsec. (b)(2). Pub. L. 106–386, § 1102(a)(1)(B)(ii), inserted “, judges, other court personnel,” after “law enforcement officers”.
 
-Subsec. (b)(3). Pub. L. 106–386, § 1102(a)(1)(B)(iii), inserted “, court,” after “police”.
+Subsec. (b)(3). Pub. L. 106–386, § 1102(a)(1)(B)(iii), inserted “, court,” after “police”.
 
-Subsec. (b)(5). Pub. L. 106–386, §§ 1103(b)(1)(A)(i), 1109(b)(2), substituted “including sexual assault, domestic violence, and dating violence” for “including sexual assault and domestic violence” and “underserved populations” for “racial, cultural, ethnic, and language minorities”.
+Subsec. (b)(5). Pub. L. 106–386, §§ 1103(b)(1)(A)(i), 1109(b)(2), substituted “including sexual assault, domestic violence, and dating violence” for “including sexual assault and domestic violence” and “underserved populations” for “racial, cultural, ethnic, and language minorities”.
 
-Subsec. (b)(8), (9). Pub. L. 106–386, § 1103(b)(1)(A)(ii)–(iv), added pars. (8) and (9).
+Subsec. (b)(8), (9). Pub. L. 106–386, § 1103(b)(1)(A)(ii)–(iv), added pars. (8) and (9).
 
-Subsec. (b)(10). Pub. L. 106–386, § 1209(c), added par. (10).
+Subsec. (b)(10). Pub. L. 106–386, § 1209(c), added par. (10).
 
-Subsec. (b)(11). Pub. L. 106–386, § 1512(a), added par. (11).
+Subsec. (b)(11). Pub. L. 106–386, § 1512(a), added par. (11).
 
-Subsec. (c). Pub. L. 106–386, § 1103(b)(1)(B), added subsec. (c).
+Subsec. (c). Pub. L. 106–386, § 1103(b)(1)(B), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–315, § 3, Dec. 27, 2022, 136 Stat. 4405, provided that: “This Act [see Short Title of 2022 Amendment note set out under section 10101 of this title] shall become effective one day after enactment [Dec. 27, 2022].”
+Pub. L. 117–315, § 3, Dec. 27, 2022, 136 Stat. 4405, provided that: “This Act [see Short Title of 2022 Amendment note set out under section 10101 of this title] shall become effective one day after enactment [Dec. 27, 2022].”
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
@@ -8687,7 +8687,7 @@ Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 
 
 **Incentives for States To Create Sexual Assault Survivors’ Bill of Rights**
 
-Pub. L. 117–263, div. E, title LIX, § 5903(a), Dec. 23, 2022, 136 Stat. 3441, provided that:
+Pub. L. 117–263, div. E, title LIX, § 5903(a), Dec. 23, 2022, 136 Stat. 3441, provided that:
 
 > **“(a) Incentives for States to Create Sexual Assault Survivors’ Bill of Rights.—**
 
@@ -8703,7 +8703,7 @@ Pub. L. 117–263, div. E, title LIX, § 5903(a), Dec. 23, 2022, 136 Stat. 344
 
 **Standards, Practice, and Training for Sexual Assault Forensic Examinations**
 
-Pub. L. 106–386, div. B, title IV, § 1405, Oct. 28, 2000, 114 Stat. 1515, provided that:
+Pub. L. 106–386, div. B, title IV, § 1405, Oct. 28, 2000, 114 Stat. 1515, provided that:
 
 > **“(a) In General.—** The Attorney General shall—
 
@@ -8721,7 +8721,7 @@ Pub. L. 106–386, div. B, title IV, § 1405, Oct. 28, 2000, 114 Stat. 1515, p
 
 [For definitions of terms used in section 1405 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 10447 of this title.]
 
-### § 10442. Establishment of Office on Violence Against Women
+### § 10442. Establishment of Office on Violence Against Women
 
 **(a) In general**
 
@@ -8747,7 +8747,7 @@ The Office shall be a separate and distinct office within the Department of Just
 
 **(E)** the Violence Against Women Act Reauthorization Act of 2022.
 
-(Pub. L. 90–351, title I, § 2002, as added Pub. L. 107–273, div. A, title IV, § 402(3), Nov. 2, 2002, 116 Stat. 1789; amended Pub. L. 117–103, div. W, title IX, § 901(a), Mar. 15, 2022, 136 Stat. 910.)
+(Pub. L. 90–351, title I, § 2002, as added Pub. L. 107–273, div. A, title IV, § 402(3), Nov. 2, 2002, 116 Stat. 1789; amended Pub. L. 117–103, div. W, title IX, § 901(a), Mar. 15, 2022, 136 Stat. 910.)
 
 **Editorial Notes**
 
@@ -8773,13 +8773,13 @@ A prior section 2002 of Pub. L. 90–351 was renumbered section 2007 and is clas
 
 **Amendments**
 
-2022—Pub. L. 117–103, § 901(a)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
+2022—Pub. L. 117–103, § 901(a)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
 
-Subsec. (a). Pub. L. 117–103, § 901(a)(2), substituted “an Office on Violence Against Women” for “a Violence Against Women Office”.
+Subsec. (a). Pub. L. 117–103, § 901(a)(2), substituted “an Office on Violence Against Women” for “a Violence Against Women Office”.
 
-Subsec. (b). Pub. L. 117–103, § 901(a)(3), inserted “, not subsumed by any other office” after “within the Department of Justice”.
+Subsec. (b). Pub. L. 117–103, § 901(a)(3), inserted “, not subsumed by any other office” after “within the Department of Justice”.
 
-Subsec. (c)(2). Pub. L. 117–103, § 901(a)(4), substituted “authorized or undertaken under—” and subpars. (A) to (E) for “authorized or undertaken under the Violence Against Women Act of 1994 (title VI of Public 103–322) and the Violence Against Women Act of 2000 (Division B of Public Law 106–386).”
+Subsec. (c)(2). Pub. L. 117–103, § 901(a)(4), substituted “authorized or undertaken under—” and subpars. (A) to (E) for “authorized or undertaken under the Violence Against Women Act of 1994 (title VI of Public 103–322) and the Violence Against Women Act of 2000 (Division B of Public Law 106–386).”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8789,9 +8789,9 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 **Effective Date**
 
-Pub. L. 107–273, div. A, title IV, § 403, Nov. 2, 2002, 116 Stat. 1791, provided that: “This title [enacting this section and sections 10443 to 10445 of this title and former section 3796gg–0d of Title 42, The Public Health and Welfare, amending sections 10446 to 10450 of this title, and enacting provisions set out as a note under section 10101 of this title] shall take effect 90 days after this bill becomes law [Nov. 2, 2002].”
+Pub. L. 107–273, div. A, title IV, § 403, Nov. 2, 2002, 116 Stat. 1791, provided that: “This title [enacting this section and sections 10443 to 10445 of this title and former section 3796gg–0d of Title 42, The Public Health and Welfare, amending sections 10446 to 10450 of this title, and enacting provisions set out as a note under section 10101 of this title] shall take effect 90 days after this bill becomes law [Nov. 2, 2002].”
 
-### § 10443. Director of Office on Violence Against Women
+### § 10443. Director of Office on Violence Against Women
 
 **(a) Appointment**
 
@@ -8811,7 +8811,7 @@ In the case of a vacancy, the President may designate an officer or employee who
 
 The Director shall be compensated at a rate of pay not to exceed the rate payable for level V of the Executive Schedule under section 5316 of title 5.
 
-(Pub. L. 90–351, title I, § 2003, as added Pub. L. 107–273, div. A, title IV, § 402(3), Nov. 2, 2002, 116 Stat. 1789; amended Pub. L. 117–103, div. W, title IX, § 901(b), Mar. 15, 2022, 136 Stat. 910.)
+(Pub. L. 90–351, title I, § 2003, as added Pub. L. 107–273, div. A, title IV, § 402(3), Nov. 2, 2002, 116 Stat. 1789; amended Pub. L. 117–103, div. W, title IX, § 901(b), Mar. 15, 2022, 136 Stat. 910.)
 
 **Editorial Notes**
 
@@ -8837,11 +8837,11 @@ A prior section 2003 of Pub. L. 90–351 was renumbered section 2008 and is clas
 
 **Amendments**
 
-2022—Pub. L. 117–103, § 901(b)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
+2022—Pub. L. 117–103, § 901(b)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
 
-Subsec. (a). Pub. L. 117–103, § 901(b)(2), substituted “the Office on Violence Against Women” for “the Violence Against Women Office” and made technical amendment to reference in original act which appears in text as reference to this subchapter.
+Subsec. (a). Pub. L. 117–103, § 901(b)(2), substituted “the Office on Violence Against Women” for “the Violence Against Women Office” and made technical amendment to reference in original act which appears in text as reference to this subchapter.
 
-Subsec. (b)(2). Pub. L. 117–103, § 901(b)(3), substituted “103–322), the Violence” for “103–322) or the Violence” and inserted before period at end “, the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), or the Violence Against Women Act Reauthorization Act of 2022”.
+Subsec. (b)(2). Pub. L. 117–103, § 901(b)(3), substituted “103–322), the Violence” for “103–322) or the Violence” and inserted before period at end “, the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), or the Violence Against Women Act Reauthorization Act of 2022”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8853,7 +8853,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as a note under section 10442 of this title.
 
-### § 10444. Duties and functions of Director of Office on Violence Against Women
+### § 10444. Duties and functions of Director of Office on Violence Against Women
 
 The Director shall have the following duties:
 
@@ -8885,7 +8885,7 @@ The Director shall have the following duties:
 
 **(8)** Establishing such rules, regulations, guidelines, and procedures as are necessary to carry out any function of the Office.
 
-(Pub. L. 90–351, title I, § 2004, as added Pub. L. 107–273, div. A, title IV, § 402(3), Nov. 2, 2002, 116 Stat. 1790; amended Pub. L. 117–103, div. W, title IX, § 901(c), Mar. 15, 2022, 136 Stat. 910.)
+(Pub. L. 90–351, title I, § 2004, as added Pub. L. 107–273, div. A, title IV, § 402(3), Nov. 2, 2002, 116 Stat. 1790; amended Pub. L. 117–103, div. W, title IX, § 901(c), Mar. 15, 2022, 136 Stat. 910.)
 
 **Editorial Notes**
 
@@ -8911,11 +8911,11 @@ A prior section 2004 of Pub. L. 90–351 was renumbered section 2009 and is clas
 
 **Amendments**
 
-2022—Pub. L. 117–103, § 901(c)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
+2022—Pub. L. 117–103, § 901(c)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
 
-Par. (5). Pub. L. 117–103, § 901(c)(2), in introductory provisions, substituted “103–322), the Violence” for “103–322) and the Violence” and “, the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), and the Violence Against Women Act Reauthorization Act of 2022, including with” for “, including with”.
+Par. (5). Pub. L. 117–103, § 901(c)(2), in introductory provisions, substituted “103–322), the Violence” for “103–322) and the Violence” and “, the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), and the Violence Against Women Act Reauthorization Act of 2022, including with” for “, including with”.
 
-Par. (6)(B). Pub. L. 117–103, § 901(c)(3), inserted “synchronize Federal definitions and protocols,” before “and improve coordination”.
+Par. (6)(B). Pub. L. 117–103, § 901(c)(3), inserted “synchronize Federal definitions and protocols,” before “and improve coordination”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8927,11 +8927,11 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as a note under section 10442 of this title.
 
-### § 10445. Staff of Office on Violence Against Women
+### § 10445. Staff of Office on Violence Against Women
 
 The Attorney General shall ensure that the Director has adequate staff to support the Director in carrying out the Director’s responsibilities under this subchapter.
 
-(Pub. L. 90–351, title I, § 2005, as added Pub. L. 107–273, div. A, title IV, § 402(3), Nov. 2, 2002, 116 Stat. 1791; amended Pub. L. 117–103, div. W, title IX, § 901(d), Mar. 15, 2022, 136 Stat. 911.)
+(Pub. L. 90–351, title I, § 2005, as added Pub. L. 107–273, div. A, title IV, § 402(3), Nov. 2, 2002, 116 Stat. 1791; amended Pub. L. 117–103, div. W, title IX, § 901(d), Mar. 15, 2022, 136 Stat. 911.)
 
 **Editorial Notes**
 
@@ -8957,7 +8957,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as a note under section 10442 of this title.
 
-### § 10446. State grants
+### § 10446. State grants
 
 **(a) General grants**
 
@@ -8969,7 +8969,7 @@ The Attorney General may make grants to States, for use by States, State and loc
 
 **(2)** 2.5 percent shall be available for grants for State domestic violence coalitions under section 10441(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 each receiving an amount equal to 1⁄<sub>56</sub> of the total amount made available under this paragraph for each fiscal year;
 
@@ -9009,11 +9009,11 @@ each receiving an amount equal to 1⁄<sub>56</sub> of the total amount made ava
 
 **(3)** grantees shall coordinate the State implementation plan described in paragraph (2) with the State plans described in section 10407 of title 42 and the programs described in section 20103 of this title and section 280b–1b of title 42.2
 
-<sup>2</sup>  So in original. The period should probably be a semicolon.
+<sup>2</sup> So in original. The period should probably be a semicolon.
 
-**(4)**  3
+**(4)** 3
 
-<sup>3</sup>  So in original. There are two pars. designated “(4)”.
+<sup>3</sup> So in original. There are two pars. designated “(4)”.
 
 of the amount granted—
 
@@ -9023,15 +9023,15 @@ of the amount granted—
 
 **(C)** not less than 30 percent shall be allocated for victims services of which at least 10 percent shall be distributed to culturally specific community-based organizations; and
 
-**(D)** not less than 5 percent shall be allocated to State and local courts (including juvenile courts); and 4
+**(D)** not less than 5 percent shall be allocated to State and local courts (including juvenile courts); and 4
 
-<sup>4</sup>  So in original. The word “and” probably should not appear.
+<sup>4</sup> So in original. The word “and” probably should not appear.
 
-**(4)**  <sup>3</sup> any Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.<sup>2</sup>, 5
+**(4)** <sup>3</sup> any Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.<sup>2</sup>, 5
 
-<sup>5</sup>  See References in Text note below.
+<sup>5</sup> See References in Text note below.
 
-**(5)** not later than 2 years after the date of enactment of this Act,<sup>5</sup> and every year thereafter, not less than 20 percent of the total amount granted to a State under this subchapter <sup>5</sup> shall be allocated for programs or projects in 2 or more allocations listed in paragraph (4) that meaningfully address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
+**(5)** not later than 2 years after the date of enactment of this Act,<sup>5</sup> and every year thereafter, not less than 20 percent of the total amount granted to a State under this subchapter <sup>5</sup> shall be allocated for programs or projects in 2 or more allocations listed in paragraph (4) that meaningfully address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
 
 **(d) Application requirements** An application for a grant under this section shall include—
 
@@ -9057,7 +9057,7 @@ of the amount granted—
 
 **(A)** disburse the appropriate sums provided for under this subchapter; or
 
-**(B)** inform the applicant why the application does not conform to the terms of section 10181 <sup>5</sup> of this title or to the requirements of this section.
+**(B)** inform the applicant why the application does not conform to the terms of section 10181 <sup>5</sup> of this title or to the requirements of this section.
 
 **(2) Regulations** In disbursing monies under this subchapter, the Attorney General shall issue regulations to ensure that States will—
 
@@ -9075,7 +9075,7 @@ In disbursing grants under this subchapter, the Attorney General may impose reas
 
 **(f) Federal share**
 
-The Federal share of a grant made under this subchapter <sup>5</sup> may not exceed 75 percent of the total costs of the projects described in the application submitted, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under section 12291(b)(1) of this title shall not count toward the total costs of the projects.
+The Federal share of a grant made under this subchapter <sup>5</sup> may not exceed 75 percent of the total costs of the projects described in the application submitted, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under section 12291(b)(1) of this title shall not count toward the total costs of the projects.
 
 **(g) Indian tribes**
 
@@ -9299,7 +9299,7 @@ Nothing in this subsection shall be interpreted as discouraging States from adop
 
 There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2023 through 2027.
 
-(Pub. L. 90–351, title I, § 2007, formerly § 2002, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§ 1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered § 2007 and amended Pub. L. 107–273, div. A, title IV, § 402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, § 310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, § 101(c)–(e), title IX, § 906(b), title XI, § 1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§ 2(d), (f)(1), (g), (*l*), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766; Pub. L. 113–4, title I, § 101(3), Mar. 7, 2013, 127 Stat. 66; Pub. L. 117–103, div. W, title I, § 101(a)(2), title XV, § 1504, Mar. 15, 2022, 136 Stat. 847, 953.)
+(Pub. L. 90–351, title I, § 2007, formerly § 2002, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§ 1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered § 2007 and amended Pub. L. 107–273, div. A, title IV, § 402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, § 310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, § 101(c)–(e), title IX, § 906(b), title XI, § 1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§ 2(d), (f)(1), (g), (*l*), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766; Pub. L. 113–4, title I, § 101(3), Mar. 7, 2013, 127 Stat. 66; Pub. L. 117–103, div. W, title I, § 101(a)(2), title XV, § 1504, Mar. 15, 2022, 136 Stat. 847, 953.)
 
 **Editorial Notes**
 
@@ -9311,7 +9311,7 @@ The date of enactment of this Act, referred to in subsec. (c)(5), probably means
 
 This subchapter, referred to in subsec. (c)(5), was in the original “this subchapter”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress.
 
-Section 10181 of this title, referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning section 517 of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Pub. L. 90–351 does not contain a section 513, but section 10181 of this title was section 513 of Pub. L. 90–351 prior to renumbering as section 517 by Pub. L. 101–647, title XVIII, § 1801(a)(6), Nov. 29, 1990, 104 Stat. 4847.
+Section 10181 of this title, referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning section 517 of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Pub. L. 90–351 does not contain a section 513, but section 10181 of this title was section 513 of Pub. L. 90–351 prior to renumbering as section 517 by Pub. L. 101–647, title XVIII, § 1801(a)(6), Nov. 29, 1990, 104 Stat. 4847.
 
 **Codification**
 
@@ -9321,101 +9321,101 @@ Another section 2007 of Pub. L. 90–351 was renumbered section 2015 and is clas
 
 **Amendments**
 
-2022—Subsec. (d)(5) to (8). Pub. L. 117–103, § 101(a)(2)(A), added pars. (5) and (6) and redesignated former pars. (5) and (6) as (7) and (8), respectively.
+2022—Subsec. (d)(5) to (8). Pub. L. 117–103, § 101(a)(2)(A), added pars. (5) and (6) and redesignated former pars. (5) and (6) as (7) and (8), respectively.
 
-Subsec. (i)(1). Pub. L. 117–103, § 101(a)(2)(B)(i), which directed amendment of par. (1) by inserting “and the requirements under section 12291(b) of this title, as applicable” before “semicolon at the end”, was executed by making the insertion before “; and”, to reflect the probable intent of Congress.
+Subsec. (i)(1). Pub. L. 117–103, § 101(a)(2)(B)(i), which directed amendment of par. (1) by inserting “and the requirements under section 12291(b) of this title, as applicable” before “semicolon at the end”, was executed by making the insertion before “; and”, to reflect the probable intent of Congress.
 
-Subsec. (i)(2)(C)(iv). Pub. L. 117–103, § 101(a)(2)(B)(ii), inserted “sexual orientation, gender identity,” after “ethnicity,”.
+Subsec. (i)(2)(C)(iv). Pub. L. 117–103, § 101(a)(2)(B)(ii), inserted “sexual orientation, gender identity,” after “ethnicity,”.
 
-Subsec. (j)(2). Pub. L. 117–103, § 101(a)(2)(C), inserted period at end.
+Subsec. (j)(2). Pub. L. 117–103, § 101(a)(2)(C), inserted period at end.
 
-Subsec. (k). Pub. L. 117–103, § 1504, added subsec. (k).
+Subsec. (k). Pub. L. 117–103, § 1504, added subsec. (k).
 
-2013—Subsec. (a). Pub. L. 113–4, § 101(3)(A), which directed substitution of “victim service providers” for “nonprofit nongovernmental victim service programs”, was executed by making the substitution for “nonprofit nongovernmental victim services programs” to reflect the probable intent of Congress.
+2013—Subsec. (a). Pub. L. 113–4, § 101(3)(A), which directed substitution of “victim service providers” for “nonprofit nongovernmental victim service programs”, was executed by making the substitution for “nonprofit nongovernmental victim services programs” to reflect the probable intent of Congress.
 
-Subsec. (b)(6). Pub. L. 113–4, § 101(3)(B), struck out “(not including populations of Indian tribes)” before period at end.
+Subsec. (b)(6). Pub. L. 113–4, § 101(3)(B), struck out “(not including populations of Indian tribes)” before period at end.
 
-Subsec. (c)(2). Pub. L. 113–4, § 101(3)(C)(i), added par. (2) and struck out former par. (2) which read as follows: “grantees and subgrantees shall develop a plan for implementation and shall consult and coordinate with nonprofit, nongovernmental victim services programs, including sexual assault and domestic violence victim services programs and describe how the State will address the needs of underserved populations;”.
+Subsec. (c)(2). Pub. L. 113–4, § 101(3)(C)(i), added par. (2) and struck out former par. (2) which read as follows: “grantees and subgrantees shall develop a plan for implementation and shall consult and coordinate with nonprofit, nongovernmental victim services programs, including sexual assault and domestic violence victim services programs and describe how the State will address the needs of underserved populations;”.
 
-Subsec. (c)(3), (4). Pub. L. 113–4, § 101(3)(C)(ii), (iii), added par. (3) and redesignated former par. (3), relating to State allocation of funds granted, as (4).
+Subsec. (c)(3), (4). Pub. L. 113–4, § 101(3)(C)(ii), (iii), added par. (3) and redesignated former par. (3), relating to State allocation of funds granted, as (4).
 
-Subsec. (c)(4)(A). Pub. L. 113–4, § 101(3)(C)(iv)(I), struck out “and not less than 25 percent shall be allocated for prosecutors” before semicolon at end.
+Subsec. (c)(4)(A). Pub. L. 113–4, § 101(3)(C)(iv)(I), struck out “and not less than 25 percent shall be allocated for prosecutors” before semicolon at end.
 
-Subsec. (c)(4)(B), (C). Pub. L. 113–4, § 101(3)(C)(iv)(II), (III), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
+Subsec. (c)(4)(B), (C). Pub. L. 113–4, § 101(3)(C)(iv)(II), (III), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (c)(4)(D). Pub. L. 113–4, § 101(3)(C)(iv)(IV), substituted “to” for “for”.
+Subsec. (c)(4)(D). Pub. L. 113–4, § 101(3)(C)(iv)(IV), substituted “to” for “for”.
 
-Pub. L. 113–4, § 101(3)(C)(iv)(II), redesignated subpar. (C) as (D).
+Pub. L. 113–4, § 101(3)(C)(iv)(II), redesignated subpar. (C) as (D).
 
-Subsec. (c)(5). Pub. L. 113–4, § 101(3)(C)(v), added par. (5).
+Subsec. (c)(5). Pub. L. 113–4, § 101(3)(C)(v), added par. (5).
 
-Subsec. (d). Pub. L. 113–4, § 101(3)(D), added subsec. (d) and struck out former subsec. (d) which related to application requirements.
+Subsec. (d). Pub. L. 113–4, § 101(3)(D), added subsec. (d) and struck out former subsec. (d) which related to application requirements.
 
-Subsec. (e)(2)(A). Pub. L. 113–4, § 101(3)(E)(i)(I), substituted “domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and sexual assault”.
+Subsec. (e)(2)(A). Pub. L. 113–4, § 101(3)(E)(i)(I), substituted “domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and sexual assault”.
 
-Subsec. (e)(2)(D). Pub. L. 113–4, § 101(3)(E)(i)(II), struck out “linguistically and” before “culturally”.
+Subsec. (e)(2)(D). Pub. L. 113–4, § 101(3)(E)(i)(II), struck out “linguistically and” before “culturally”.
 
-Subsec. (e)(3). Pub. L. 113–4, § 101(3)(E)(ii), added par. (3).
+Subsec. (e)(3). Pub. L. 113–4, § 101(3)(E)(ii), added par. (3).
 
-Subsec. (f). Pub. L. 113–4, § 101(3)(F), substituted “, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under section 13925(b)(1) of this title shall not count toward the total costs of the projects.” for period at end.
+Subsec. (f). Pub. L. 113–4, § 101(3)(F), substituted “, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under section 13925(b)(1) of this title shall not count toward the total costs of the projects.” for period at end.
 
-Subsecs. (i), (j). Pub. L. 113–4, § 101(3)(G), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 113–4, § 101(3)(G), added subsecs. (i) and (j).
 
-2006—Subsec. (b)(1). Pub. L. 109–271, § 7(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Ten percent shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subchapter shall not apply to funds allocated for such program.”
+2006—Subsec. (b)(1). Pub. L. 109–271, § 7(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Ten percent shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subchapter shall not apply to funds allocated for such program.”
 
-Pub. L. 109–162, § 906(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “10 percent shall be available for grants to Indian tribal governments;”.
+Pub. L. 109–162, § 906(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “10 percent shall be available for grants to Indian tribal governments;”.
 
-Pub. L. 109–162, § 101(d)(1)(A), substituted “10 percent” for “5 percent”.
+Pub. L. 109–162, § 101(d)(1)(A), substituted “10 percent” for “5 percent”.
 
-Subsec. (b)(2). Pub. L. 109–271, § 2(g), which directed the substitution of “the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.” for “and the coalitions for combined Territories of the United States”, was executed by making the substitution for “and the coalition for the combined Territories of the United States”, to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 109–271, § 2(g), which directed the substitution of “the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.” for “and the coalitions for combined Territories of the United States”, was executed by making the substitution for “and the coalition for the combined Territories of the United States”, to reflect the probable intent of Congress.
 
-Pub. L. 109–162, § 101(d)(1)(B), substituted “<sup>1</sup>⁄<sub>56</sub>” for “<sup>1</sup>⁄<sub>54</sub>”.
+Pub. L. 109–162, § 101(d)(1)(B), substituted “<sup>1</sup>⁄<sub>56</sub>” for “<sup>1</sup>⁄<sub>54</sub>”.
 
-Subsec. (b)(3). Pub. L. 109–162, § 101(d)(1)(C), substituted “coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to <sup>1</sup>⁄<sub>56</sub>” for “and the coalition for the combined Territories of the United States, each receiving an amount equal to <sup>1</sup>⁄<sub>54</sub>”.
+Subsec. (b)(3). Pub. L. 109–162, § 101(d)(1)(C), substituted “coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to <sup>1</sup>⁄<sub>56</sub>” for “and the coalition for the combined Territories of the United States, each receiving an amount equal to <sup>1</sup>⁄<sub>54</sub>”.
 
-Subsec. (b)(4). Pub. L. 109–162, § 101(d)(1)(D), substituted “<sup>1</sup>⁄<sub>56</sub>” for “<sup>1</sup>⁄<sub>54</sub>”.
+Subsec. (b)(4). Pub. L. 109–162, § 101(d)(1)(D), substituted “<sup>1</sup>⁄<sub>56</sub>” for “<sup>1</sup>⁄<sub>54</sub>”.
 
-Subsec. (c)(2). Pub. L. 109–162, § 101(c)(1), inserted “and describe how the State will address the needs of underserved populations” before semicolon at end.
+Subsec. (c)(2). Pub. L. 109–162, § 101(c)(1), inserted “and describe how the State will address the needs of underserved populations” before semicolon at end.
 
-Subsec. (c)(3)(A). Pub. L. 109–271, § 2(*l*), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
+Subsec. (c)(3)(A). Pub. L. 109–271, § 2(*l*), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
 
-Pub. L. 109–162, § 1134(a)(1), which directed substitution of “law enforcement” for “police”, was repealed by Pub. L. 109–271, §§ 2(d) and 8(b).
+Pub. L. 109–162, § 1134(a)(1), which directed substitution of “law enforcement” for “police”, was repealed by Pub. L. 109–271, §§ 2(d) and 8(b).
 
-Subsec. (c)(3)(B). Pub. L. 109–271, § 2(*l*), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not less than 30 percent shall be allocated to victim services, of which at least 10 percent shall be distributed to culturally specific community-based organization; and”.
+Subsec. (c)(3)(B). Pub. L. 109–271, § 2(*l*), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not less than 30 percent shall be allocated to victim services, of which at least 10 percent shall be distributed to culturally specific community-based organization; and”.
 
-Pub. L. 109–162, § 101(d)(2), inserted “, of which at least 10 percent shall be distributed to culturally specific community-based organization” after “victim services”.
+Pub. L. 109–162, § 101(d)(2), inserted “, of which at least 10 percent shall be distributed to culturally specific community-based organization” after “victim services”.
 
-Subsec. (d). Pub. L. 109–162, § 1134(a)(2), which directed insertion of “submitted by a State” after “each application” in second sentence and substitution of “In addition, each application submitted by a State or tribal government” for “An application” in third sentence, was repealed by Pub. L. 109–271, §§ 2(d) and 8(b).
+Subsec. (d). Pub. L. 109–162, § 1134(a)(2), which directed insertion of “submitted by a State” after “each application” in second sentence and substitution of “In addition, each application submitted by a State or tribal government” for “An application” in third sentence, was repealed by Pub. L. 109–271, §§ 2(d) and 8(b).
 
-Subsec. (d)(4). Pub. L. 109–162, § 101(d)(3), added par. (4).
+Subsec. (d)(4). Pub. L. 109–162, § 101(d)(3), added par. (4).
 
-Subsec. (e)(2)(D). Pub. L. 109–162, § 101(c)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “recognize and address the needs of underserved populations.”
+Subsec. (e)(2)(D). Pub. L. 109–162, § 101(c)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “recognize and address the needs of underserved populations.”
 
-Subsec. (i). Pub. L. 109–271, § 2(f)(1), struck out subsec. (i) which related to training, technical assistance, and data collection.
+Subsec. (i). Pub. L. 109–271, § 2(f)(1), struck out subsec. (i) which related to training, technical assistance, and data collection.
 
-Pub. L. 109–162, § 101(e), added subsec. (i).
+Pub. L. 109–162, § 101(e), added subsec. (i).
 
-2004—Pub. L. 108–405, § 310(b), made technical amendment to directory language of Pub. L. 107–273, § 402(2), which renumbered this section as section 2007 of Pub. L. 90–351.
+2004—Pub. L. 108–405, § 310(b), made technical amendment to directory language of Pub. L. 107–273, § 402(2), which renumbered this section as section 2007 of Pub. L. 90–351.
 
-Subsec. (b)(4). Pub. L. 108–405, § 310(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “<sup>1</sup>⁄<sub>54</sub> shall be available for the development and operation of nonprofit tribal domestic violence and sexual assault coalitions in Indian country;”.
+Subsec. (b)(4). Pub. L. 108–405, § 310(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “<sup>1</sup>⁄<sub>54</sub> shall be available for the development and operation of nonprofit tribal domestic violence and sexual assault coalitions in Indian country;”.
 
-2002—Subsec. (d)(2). Pub. L. 107–273, § 402(1)(A), made technical amendment to reference in original act which appears in text as reference to section 10449 of this title.
+2002—Subsec. (d)(2). Pub. L. 107–273, § 402(1)(A), made technical amendment to reference in original act which appears in text as reference to section 10449 of this title.
 
-Subsec. (d)(3). Pub. L. 107–273, § 402(1)(B), made technical amendment to reference in original act which appears in text as reference to section 10450 of this title.
+Subsec. (d)(3). Pub. L. 107–273, § 402(1)(B), made technical amendment to reference in original act which appears in text as reference to section 10450 of this title.
 
-2000—Subsec. (a). Pub. L. 106–386, § 1102(a)(2)(A), inserted “State and local courts (including juvenile courts),” after “for use by States,”.
+2000—Subsec. (a). Pub. L. 106–386, § 1102(a)(2)(A), inserted “State and local courts (including juvenile courts),” after “for use by States,”.
 
-Subsec. (b)(1). Pub. L. 106–386, § 1103(b)(2)(B), substituted “5 percent” for “4 percent”.
+Subsec. (b)(1). Pub. L. 106–386, § 1103(b)(2)(B), substituted “5 percent” for “4 percent”.
 
-Subsec. (b)(2) to (4). Pub. L. 106–386, § 1103(b)(2)(D), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
+Subsec. (b)(2) to (4). Pub. L. 106–386, § 1103(b)(2)(D), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
 
-Subsec. (b)(5). Pub. L. 106–386, § 1103(b)(2)(A), (C), redesignated par. (2) as (5) and substituted “$600,000” for “$500,000”.
+Subsec. (b)(5). Pub. L. 106–386, § 1103(b)(2)(A), (C), redesignated par. (2) as (5) and substituted “$600,000” for “$500,000”.
 
-Subsec. (b)(6). Pub. L. 106–386, § 1103(b)(2)(A), redesignated par. (3) as (6).
+Subsec. (b)(6). Pub. L. 106–386, § 1103(b)(2)(A), redesignated par. (3) as (6).
 
-Subsec. (c)(3). Pub. L. 106–386, § 1102(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “at least 25 percent of the amount granted shall be allocated, without duplication, to each of the following 3 areas: prosecution, law enforcement, and victim services; and”.
+Subsec. (c)(3). Pub. L. 106–386, § 1102(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “at least 25 percent of the amount granted shall be allocated, without duplication, to each of the following 3 areas: prosecution, law enforcement, and victim services; and”.
 
-Subsec. (d)(1). Pub. L. 106–386, § 1102(a)(2)(C), inserted “court,” after “law enforcement,” in introductory provisions.
+Subsec. (d)(1). Pub. L. 106–386, § 1102(a)(2)(C), inserted “court,” after “law enforcement,” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9433,7 +9433,7 @@ Amendment by sections 101(c)–(e) and 906(b) of Pub. L. 109–162 not effective
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276, provided that amendment by section 310(b) (amending this section and sections 10447 to 10450 of this title) is effective as of Nov. 2, 2002, and as if included in Pub. L. 107–273, as enacted.
+Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276, provided that amendment by section 310(b) (amending this section and sections 10447 to 10450 of this title) is effective as of Nov. 2, 2002, and as if included in Pub. L. 107–273, as enacted.
 
 **Effective Date of 2002 Amendment**
 
@@ -9441,7 +9441,7 @@ Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section
 
 **Findings**
 
-Pub. L. 117–103, div. W, title XV, § 1502, Mar. 15, 2022, 136 Stat. 951, provided that:
+Pub. L. 117–103, div. W, title XV, § 1502, Mar. 15, 2022, 136 Stat. 951, provided that:
 
 > “Congress finds the following:
 
@@ -9469,7 +9469,7 @@ Pub. L. 117–103, div. W, title XV, § 1502, Mar. 15, 2022, 136 Stat. 951, pr
 
 **Purposes**
 
-Pub. L. 117–103, div. W, title XV, § 1503, Mar. 15, 2022, 136 Stat. 952, provided that:
+Pub. L. 117–103, div. W, title XV, § 1503, Mar. 15, 2022, 136 Stat. 952, provided that:
 
 > “The purposes of this title [see Short Title of 2022 Amendment note set out under section 10101 of this title] are to—
 
@@ -9485,11 +9485,11 @@ Pub. L. 117–103, div. W, title XV, § 1503, Mar. 15, 2022, 136 Stat. 952, pr
 
 [For definitions of terms used in section 1503 of div. W of Pub. L. 117–103, set out above, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.]
 
-### § 10447. Definitions and grant conditions
+### § 10447. Definitions and grant conditions
 
 In this subchapter the definitions and grant conditions in section 12291 of this title shall apply.
 
-(Pub. L. 90–351, title I, § 2008, as added Pub. L. 109–162, § 3(c)(1), Jan. 5, 2006, 119 Stat. 2971.)
+(Pub. L. 90–351, title I, § 2008, as added Pub. L. 109–162, § 3(c)(1), Jan. 5, 2006, 119 Stat. 2971.)
 
 **Editorial Notes**
 
@@ -9501,15 +9501,15 @@ Another section 2008 of Pub. L. 90–351 was renumbered section 2016 and is clas
 
 **Prior Provisions**
 
-A prior section 2008 of title I of Pub. L. 90–351, formerly § 2003, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1913; amended Pub. L. 106–386, div. B, title I, §§ 1103(b)(3), 1109(a)(1), Oct. 28, 2000, 114 Stat. 1496, 1502; renumbered § 2008, Pub. L. 107–273, div. A, title IV, § 402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276, related to definitions of terms in part T of title I of Pub. L. 90–351, prior to repeal by Pub. L. 109–162, § 3(c)(1), Jan. 5, 2006, 119 Stat. 2971.
+A prior section 2008 of title I of Pub. L. 90–351, formerly § 2003, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1913; amended Pub. L. 106–386, div. B, title I, §§ 1103(b)(3), 1109(a)(1), Oct. 28, 2000, 114 Stat. 1496, 1502; renumbered § 2008, Pub. L. 107–273, div. A, title IV, § 402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276, related to definitions of terms in part T of title I of Pub. L. 90–351, prior to repeal by Pub. L. 109–162, § 3(c)(1), Jan. 5, 2006, 119 Stat. 2971.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Definitions and Grant Conditions Applicable to Division B of Pub. L. 106–386**
 
-Pub. L. 106–386, div. B, § 1002, Oct. 28, 2000, 114 Stat. 1491, as amended by Pub. L. 109–162, § 3(d), Jan. 5, 2006, 119 Stat. 2972, provided that: “In this division [see section 1001 of Pub. L. 106–386, set out as a Short Title of 2000 Act note under section 10101 of this title] the definitions and grant conditions in section 40002 of the Violence Against Women Act of 1994 [34 U.S.C. 12291] shall apply.”
+Pub. L. 106–386, div. B, § 1002, Oct. 28, 2000, 114 Stat. 1491, as amended by Pub. L. 109–162, § 3(d), Jan. 5, 2006, 119 Stat. 2972, provided that: “In this division [see section 1001 of Pub. L. 106–386, set out as a Short Title of 2000 Act note under section 10101 of this title] the definitions and grant conditions in section 40002 of the Violence Against Women Act of 1994 [34 U.S.C. 12291] shall apply.”
 
-### § 10448. General terms and conditions
+### § 10448. General terms and conditions
 
 **(a) Nonmonetary assistance**
 
@@ -9529,7 +9529,7 @@ In addition to the assistance provided under this subchapter, the Attorney Gener
 
 Not later than 120 days after September 13, 1994, the Attorney General shall publish proposed regulations or guidelines implementing this subchapter. Not later than 180 days after September 13, 1994, the Attorney General shall publish final regulations or guidelines implementing this subchapter.
 
-(Pub. L. 90–351, title I, § 2009, formerly § 2004, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; amended Pub. L. 106–386, div. B, title I, § 1103(b)(4), Oct. 28, 2000, 114 Stat. 1497; renumbered § 2009, Pub. L. 107–273, div. A, title IV, § 402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, § 3(b)(3), title XI, §§ 1134(b), 1135(c), Jan. 5, 2006, 119 Stat. 2971, 3108, 3109; Pub. L. 109–271, §§ 2(d), 8(b), Aug. 12, 2006, 120 Stat. 752, 766.)
+(Pub. L. 90–351, title I, § 2009, formerly § 2004, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; amended Pub. L. 106–386, div. B, title I, § 1103(b)(4), Oct. 28, 2000, 114 Stat. 1497; renumbered § 2009, Pub. L. 107–273, div. A, title IV, § 402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, § 3(b)(3), title XI, §§ 1134(b), 1135(c), Jan. 5, 2006, 119 Stat. 2971, 3108, 3109; Pub. L. 109–271, §§ 2(d), 8(b), Aug. 12, 2006, 120 Stat. 752, 766.)
 
 **Editorial Notes**
 
@@ -9539,19 +9539,19 @@ Section was formerly classified to section 3796gg–3 of Title 42, The Public He
 
 **Amendments**
 
-2006—Subsec. (b). Pub. L. 109–162, §§ 1134(b) and 1135(c), which directed an amendment substantially identical to that made by Pub. L. 109–162, § 3(b)(3), were repealed by Pub. L. 109–271, §§ 2(d) and 8(b).
+2006—Subsec. (b). Pub. L. 109–162, §§ 1134(b) and 1135(c), which directed an amendment substantially identical to that made by Pub. L. 109–162, § 3(b)(3), were repealed by Pub. L. 109–271, §§ 2(d) and 8(b).
 
-Pub. L. 109–162, § 3(b)(3), substituted “Not later than 1 month after the end of each even-numbered fiscal year, the Attorney General shall submit” for “Not later than 180 days after the end of each fiscal year for which grants are made under this subchapter, the Attorney General shall submit” in introductory provisions.
+Pub. L. 109–162, § 3(b)(3), substituted “Not later than 1 month after the end of each even-numbered fiscal year, the Attorney General shall submit” for “Not later than 180 days after the end of each fiscal year for which grants are made under this subchapter, the Attorney General shall submit” in introductory provisions.
 
-2000—Subsec. (b)(3). Pub. L. 106–386 inserted “, and the membership of persons served in any underserved population” before the semicolon.
+2000—Subsec. (b)(3). Pub. L. 106–386 inserted “, and the membership of persons served in any underserved population” before the semicolon.
 
-### § 10449. Rape exam payments
+### § 10449. Rape exam payments
 
 **(a) Restriction of funds**
 
-**(1) In general** A State, Indian tribal government, or unit of local government shall not be entitled to funds under this subchapter 1
+**(1) In general** A State, Indian tribal government, or unit of local government shall not be entitled to funds under this subchapter 1
 
-<sup>1</sup>  So in original. See References in Text note below.
+<sup>1</sup> So in original. See References in Text note below.
 
 unless the State, Indian tribal government, unit of local government, or another governmental entity—
 
@@ -9581,7 +9581,7 @@ To be in compliance with this section, a State, Indian tribal government, or uni
 
 **(2) Compliance period**
 
-States, territories, and Indian tribal governments shall have 3 years from the date of enactment of this Act <sup>1</sup> to come into compliance with this section.
+States, territories, and Indian tribal governments shall have 3 years from the date of enactment of this Act <sup>1</sup> to come into compliance with this section.
 
 **(e) Judicial notification**
 
@@ -9599,7 +9599,7 @@ States, territories, and Indian tribal governments shall have 3 years from the d
 
 Funds withheld from a State or unit of local government under subsection (a) shall be distributed to other States and units of local government, pro rata.
 
-(Pub. L. 90–351, title I, § 2010, formerly § 2005, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; renumbered § 2010, Pub. L. 107–273, div. A, title IV, § 402(2), Nov. 2, 2002, 116 Stat. 1789; amended Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, § 101(f), Jan. 5, 2006, 119 Stat. 2974; Pub. L. 109–271, § 2(j), Aug. 12, 2006, 120 Stat. 753; Pub. L. 113–4, title I, § 101(4), Mar. 7, 2013, 127 Stat. 69.)
+(Pub. L. 90–351, title I, § 2010, formerly § 2005, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; renumbered § 2010, Pub. L. 107–273, div. A, title IV, § 402(2), Nov. 2, 2002, 116 Stat. 1789; amended Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, § 101(f), Jan. 5, 2006, 119 Stat. 2974; Pub. L. 109–271, § 2(j), Aug. 12, 2006, 120 Stat. 753; Pub. L. 113–4, title I, § 101(4), Mar. 7, 2013, 127 Stat. 69.)
 
 **Editorial Notes**
 
@@ -9615,11 +9615,11 @@ Section was formerly classified to section 3796gg–4 of Title 42, The Public He
 
 **Amendments**
 
-2013—Subsec. (a)(1). Pub. L. 113–4, § 101(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, unit of local government, or another governmental entity incurs the full out-of-pocket cost of forensic medical exams described in subsection (b) of this section for victims of sexual assault.”
+2013—Subsec. (a)(1). Pub. L. 113–4, § 101(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, unit of local government, or another governmental entity incurs the full out-of-pocket cost of forensic medical exams described in subsection (b) of this section for victims of sexual assault.”
 
-Subsec. (b). Pub. L. 113–4, § 101(4)(B), inserted “or” after the semicolon in par. (1), substituted a period for “; or” in par. (2), and struck out par. (3) which related to reimbursement of victims for the cost of exams under certain conditions.
+Subsec. (b). Pub. L. 113–4, § 101(4)(B), inserted “or” after the semicolon in par. (1), substituted a period for “; or” in par. (2), and struck out par. (3) which related to reimbursement of victims for the cost of exams under certain conditions.
 
-Subsec. (d). Pub. L. 113–4, § 101(4)(C), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to a rule of construction and a compliance period.
+Subsec. (d). Pub. L. 113–4, § 101(4)(C), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to a rule of construction and a compliance period.
 
 2006—Subsec. (c). Pub. L. 109–162 added subsec. (c).
 
@@ -9639,7 +9639,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 10261 of this title.
 
-### § 10450. Costs for criminal charges and protection orders
+### § 10450. Costs for criminal charges and protection orders
 
 **(a) In general** A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, or unit of local government—
 
@@ -9659,7 +9659,7 @@ Funds withheld from a State, unit of local government, or Indian tribal governme
 
 In this section, the term “protection order” has the meaning given the term in section 2266 of title 18.
 
-(Pub. L. 90–351, title I, § 2011, formerly § 2006, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1915; amended Pub. L. 106–386, div. B, title I, § 1101(b)(1), Oct. 28, 2000, 114 Stat. 1492; renumbered § 2011, Pub. L. 107–273, div. A, title IV, § 402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 113–4, title I, § 101(5), Mar. 7, 2013, 127 Stat. 69.)
+(Pub. L. 90–351, title I, § 2011, formerly § 2006, as added Pub. L. 103–322, title IV, § 40121(a)(3), Sept. 13, 1994, 108 Stat. 1915; amended Pub. L. 106–386, div. B, title I, § 1101(b)(1), Oct. 28, 2000, 114 Stat. 1492; renumbered § 2011, Pub. L. 107–273, div. A, title IV, § 402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 113–4, title I, § 101(5), Mar. 7, 2013, 127 Stat. 69.)
 
 **Editorial Notes**
 
@@ -9669,15 +9669,15 @@ Section was formerly classified to section 3796gg–5 of Title 42, The Public He
 
 **Amendments**
 
-2013—Subsec. (a)(1). Pub. L. 113–4 inserted “modification, enforcement, dismissal, withdrawal” after “registration,” in two places and “, dating violence, sexual assault, or stalking” after “felony domestic violence” and substituted “victim of domestic violence, dating violence, sexual assault, or stalking” for “victim of domestic violence, stalking, or sexual assault”.
+2013—Subsec. (a)(1). Pub. L. 113–4 inserted “modification, enforcement, dismissal, withdrawal” after “registration,” in two places and “, dating violence, sexual assault, or stalking” after “felony domestic violence” and substituted “victim of domestic violence, dating violence, sexual assault, or stalking” for “victim of domestic violence, stalking, or sexual assault”.
 
-2000—Pub. L. 106–386, § 1101(b)(1)(A), in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
+2000—Pub. L. 106–386, § 1101(b)(1)(A), in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
 
-Subsec. (a)(1). Pub. L. 106–386, § 1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
+Subsec. (a)(1). Pub. L. 106–386, § 1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
 
-Subsec. (a)(2)(B). Pub. L. 106–386, § 1101(b)(1)(B)(ii), substituted “2 years after October 28, 2000” for “2 years”.
+Subsec. (a)(2)(B). Pub. L. 106–386, § 1101(b)(1)(B)(ii), substituted “2 years after October 28, 2000” for “2 years”.
 
-Subsec. (c). Pub. L. 106–386, § 1101(b)(1)(C), added subsec. (c).
+Subsec. (c). Pub. L. 106–386, § 1101(b)(1)(C), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9685,7 +9685,7 @@ Subsec. (c). Pub. L. 106–386, § 1101(b)(1)(C), added subsec. (c).
 
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
-### § 10451. Polygraph testing prohibition
+### § 10451. Polygraph testing prohibition
 
 **(a) In general**
 
@@ -9695,7 +9695,7 @@ In order to be eligible for grants under this subchapter, a State, Indian tribal
 
 The refusal of a victim to submit to an examination described in subsection (a) shall not prevent the investigation, charging, or prosecution of the offense.
 
-(Pub. L. 90–351, title I, § 2013, as added Pub. L. 109–162, title I, § 101(g), Jan. 5, 2006, 119 Stat. 2975.)
+(Pub. L. 90–351, title I, § 2013, as added Pub. L. 109–162, title I, § 101(g), Jan. 5, 2006, 119 Stat. 2975.)
 
 **Editorial Notes**
 
@@ -9709,7 +9709,7 @@ Section was formerly classified to section 3796gg–8 of Title 42, The Public He
 
 Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10261 of this title.
 
-### § 10452. Grants to Indian tribal governments
+### § 10452. Grants to Indian tribal governments
 
 **(a) Grants** The Attorney General may make grants to Indian tribal governments or authorized designees of Indian tribal governments to—
 
@@ -9719,7 +9719,7 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
 **(3)** strengthen tribal justice interventions including tribal law enforcement, prosecution, courts, probation,1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 correctional facilities;
 
@@ -9745,7 +9745,7 @@ correctional facilities;
 
 All applicants under this section shall demonstrate their proposal was developed in consultation with a nonprofit, nongovernmental Indian victim services program, including sexual assault and domestic violence victim services providers in the tribal or local community, or a nonprofit tribal domestic violence and sexual assault coalition to the extent that they exist. In the absence of such a demonstration, the applicant may meet the requirement of this subsection through consultation with women in the community to be served.
 
-(Pub. L. 90–351, title I, § 2015, formerly § 2007, as added Pub. L. 109–162, title IX, § 906(a), Jan. 5, 2006, 119 Stat. 3080; renumbered § 2015 and amended Pub. L. 109–271, § 7(a)(1)(A), (C), (3), Aug. 12, 2006, 120 Stat. 763; Pub. L. 113–4, title IX, § 901, Mar. 7, 2013, 127 Stat. 118; Pub. L. 116–165, § 7(b), Oct. 10, 2020, 134 Stat. 765.)
+(Pub. L. 90–351, title I, § 2015, formerly § 2007, as added Pub. L. 109–162, title IX, § 906(a), Jan. 5, 2006, 119 Stat. 3080; renumbered § 2015 and amended Pub. L. 109–271, § 7(a)(1)(A), (C), (3), Aug. 12, 2006, 120 Stat. 763; Pub. L. 113–4, title IX, § 901, Mar. 7, 2013, 127 Stat. 118; Pub. L. 116–165, § 7(b), Oct. 10, 2020, 134 Stat. 765.)
 
 **Editorial Notes**
 
@@ -9757,21 +9757,21 @@ Section was formerly classified to section 3796gg–10 of Title 42, The Public H
 
 2020—Subsec. (a)(11), (12). Pub. L. 116–165, which directed addition of pars. (11) and (12) to this section, was executed by making the addition to subsec. (a) of this section to reflect the probable intent of Congress.
 
-2013—Subsec. (a)(2). Pub. L. 113–4, § 901(1), inserted “sex trafficking,” after “sexual assault,”.
+2013—Subsec. (a)(2). Pub. L. 113–4, § 901(1), inserted “sex trafficking,” after “sexual assault,”.
 
-Subsec. (a)(4). Pub. L. 113–4, § 901(2), inserted “sex trafficking,” after “sexual assault,”.
+Subsec. (a)(4). Pub. L. 113–4, § 901(2), inserted “sex trafficking,” after “sexual assault,”.
 
-Subsec. (a)(5). Pub. L. 113–4, § 901(3), substituted “sexual assault, sex trafficking, and stalking;” for “and stalking programs and to address the needs of children exposed to domestic violence;”.
+Subsec. (a)(5). Pub. L. 113–4, § 901(3), substituted “sexual assault, sex trafficking, and stalking;” for “and stalking programs and to address the needs of children exposed to domestic violence;”.
 
-Subsec. (a)(7). Pub. L. 113–4, § 901(4)(A), inserted “sex trafficking,” after “sexual assault,” in two places.
+Subsec. (a)(7). Pub. L. 113–4, § 901(4)(A), inserted “sex trafficking,” after “sexual assault,” in two places.
 
-Subsec. (a)(8). Pub. L. 113–4, § 901(5)(A), inserted “sex trafficking,” after “stalking,”.
+Subsec. (a)(8). Pub. L. 113–4, § 901(5)(A), inserted “sex trafficking,” after “stalking,”.
 
-Subsec. (a)(9), (10). Pub. L. 113–4, § 901(4)(B), (5)(B), (6), added pars. (9) and (10).
+Subsec. (a)(9), (10). Pub. L. 113–4, § 901(4)(B), (5)(B), (6), added pars. (9) and (10).
 
-2006—Subsec. (a). Pub. L. 109–271, § 7(a)(3)(A), substituted “or authorized designees of Indian tribal governments” for “and tribal organizations” in introductory provisions and added par. (8).
+2006—Subsec. (a). Pub. L. 109–271, § 7(a)(3)(A), substituted “or authorized designees of Indian tribal governments” for “and tribal organizations” in introductory provisions and added par. (8).
 
-Subsec. (c). Pub. L. 109–271, § 7(a)(3)(B), struck out subsec. (c). Prior to amendment, text read as follows: “The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.”
+Subsec. (c). Pub. L. 109–271, § 7(a)(3)(B), struck out subsec. (c). Prior to amendment, text read as follows: “The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9785,7 +9785,7 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
 **Findings and Purposes**
 
-Pub. L. 109–162, title IX, §§ 901, 902, Jan. 5, 2006, 119 Stat. 3077, 3078, provided that:
+Pub. L. 109–162, title IX, §§ 901, 902, Jan. 5, 2006, 119 Stat. 3077, 3078, provided that:
 
 > **“SEC. 901. FINDINGS.**
 
@@ -9815,7 +9815,7 @@ Pub. L. 109–162, title IX, §§ 901, 902, Jan. 5, 2006, 119 Stat. 3077, 3078
 
 **National Baseline Study on Violence Against Indian Women**
 
-Pub. L. 109–162, title IX, § 904(a), Jan. 5, 2006, 119 Stat. 3078, as amended by Pub. L. 113–4, title IX, § 907(a), Mar. 7, 2013, 127 Stat. 125, provided that:
+Pub. L. 109–162, title IX, § 904(a), Jan. 5, 2006, 119 Stat. 3078, as amended by Pub. L. 113–4, title IX, § 907(a), Mar. 7, 2013, 127 Stat. 125, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date of enactment of the Violence Against Women Reauthorization Act of 2013 [Mar. 7, 2013], the National Institute of Justice, in consultation with the Office on Violence Against Women, shall conduct a national baseline study to examine violence against Indian women in Indian country and in Native villages (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602)).
 
@@ -9855,7 +9855,7 @@ Pub. L. 109–162, title IX, § 904(a), Jan. 5, 2006, 119 Stat. 3078, as amend
 
 > **“(5) Authorization of appropriations.—** There is authorized to be appropriated to carry out this subsection $1,000,000 for each of fiscal years 2014 and 2015, to remain available until expended.”
 
-### § 10453. Tribal Deputy
+### § 10453. Tribal Deputy
 
 **(a) Establishment**
 
@@ -9863,7 +9863,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 **(b) Duties**
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] In general** The Deputy Director shall under the guidance and authority of the Director of the Office on Violence Against Women—
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] In general** The Deputy Director shall under the guidance and authority of the Director of the Office on Violence Against Women—
 
 **(A)** oversee and manage the administration of grants to and contracts with Indian tribes, tribal courts, tribal organizations, or tribal nonprofit organizations;
 
@@ -9873,9 +9873,9 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 **(D)** advise the Director of the Office on Violence Against Women concerning policies, legislation, implementation of laws, and other issues relating to violence against Indian women;
 
-**(E)** represent the Office on Violence Against Women in the annual consultations under section 20126 2
+**(E)** represent the Office on Violence Against Women in the annual consultations under section 20126 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title;
 
@@ -9905,7 +9905,7 @@ The Deputy Director shall ensure that a portion of the tribal set-aside funds fr
 
 **(E)** development, implementation, and maintenance of tribal electronic databases for tribal protection order registries.
 
-(Pub. L. 90–351, title I, § 2016, formerly § 2008, as added Pub. L. 109–162, title IX, § 907, Jan. 5, 2006, 119 Stat. 3082; renumbered § 2016 and amended Pub. L. 109–271, § 7(a)(1)(B), (C), (4), Aug. 12, 2006, 120 Stat. 763, 764.)
+(Pub. L. 90–351, title I, § 2016, formerly § 2008, as added Pub. L. 109–162, title IX, § 907, Jan. 5, 2006, 119 Stat. 3082; renumbered § 2016 and amended Pub. L. 109–271, § 7(a)(1)(B), (C), (4), Aug. 12, 2006, 120 Stat. 763, 764.)
 
 **Editorial Notes**
 
@@ -9925,7 +9925,7 @@ Section was formerly classified to section 3796gg–11 of Title 42, The Public H
 
 **Amendments**
 
-2006—Subsec. (b)(1)(I). Pub. L. 109–271, § 7(a)(4), inserted “that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law” after “technical assistance”.
+2006—Subsec. (b)(1)(I). Pub. L. 109–271, § 7(a)(4), inserted “that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law” after “technical assistance”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9933,7 +9933,7 @@ Section was formerly classified to section 3796gg–11 of Title 42, The Public H
 
 Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10261 of this title.
 
-### § 10454. Grant eligibility regarding compelling victim testimony
+### § 10454. Grant eligibility regarding compelling victim testimony
 
 In order for a prosecutor’s office to be eligible to receive grant funds under this subchapter, the head of the office shall certify, to the State, Indian Tribal government, or territorial government receiving the grant funding, that the office will, during the 3-year period beginning on the date on which the grant is awarded, engage in planning, developing and implementing—
 
@@ -9943,7 +9943,7 @@ In order for a prosecutor’s office to be eligible to receive grant funds under
 
 **(3)** a protocol outlining alternative practices and procedures for material witness petitions and bench warrants, consistent with best practices, that shall be exhausted before employing material witness petitions and bench warrants to obtain victim-witness testimony in the investigation, prosecution, and trial of a crime related to domestic violence, sexual assault, dating violence, and stalking of the victim in order to prevent further victimization and trauma to the victim.
 
-(Pub. L. 90–351, title I, § 2017, as added Pub. L. 117–103, div. W, title I, § 101(a)(3), Mar. 15, 2022, 136 Stat. 848.)
+(Pub. L. 90–351, title I, § 2017, as added Pub. L. 117–103, div. W, title I, § 101(a)(3), Mar. 15, 2022, 136 Stat. 848.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9951,7 +9951,7 @@ In order for a prosecutor’s office to be eligible to receive grant funds under
 
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
-### § 10455. Senior Policy Advisor for Culturally Specific Communities
+### § 10455. Senior Policy Advisor for Culturally Specific Communities
 
 **(a) Establishment**
 
@@ -9977,7 +9977,7 @@ There is established in the Office on Violence Against Women a Senior Policy Adv
 
 Not later than 120 days after March 15, 2022, the Director shall hire for the position established under subsection (a) an individual with personal, lived, and work experience from a culturally specific community, and a demonstrated history and expertise addressing domestic violence or sexual assault in a nongovernmental agency.
 
-(Pub. L. 90–351, title I, § 2018, as added Pub. L. 117–103, div. W, title IX, § 902, Mar. 15, 2022, 136 Stat. 911.)
+(Pub. L. 90–351, title I, § 2018, as added Pub. L. 117–103, div. W, title IX, § 902, Mar. 15, 2022, 136 Stat. 911.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9991,11 +9991,11 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 **Codification**
 
-Pub. L. 117–103, div. W, title I, § 102(a), Mar. 15, 2022, 136 Stat. 848, substituted “GRANTS TO IMPROVE THE CRIMINAL JUSTICE RESPONSE” for “GRANTS TO ENCOURAGE ARREST POLICIES” in heading.
+Pub. L. 117–103, div. W, title I, § 102(a), Mar. 15, 2022, 136 Stat. 848, substituted “GRANTS TO IMPROVE THE CRIMINAL JUSTICE RESPONSE” for “GRANTS TO ENCOURAGE ARREST POLICIES” in heading.
 
-Pub. L. 106–386, div. B, title I, § 1101(a)(1), Oct. 28, 2000, 114 Stat. 1492, inserted “AND ENFORCEMENT OF PROTECTION ORDERS” at end of heading.
+Pub. L. 106–386, div. B, title I, § 1101(a)(1), Oct. 28, 2000, 114 Stat. 1492, inserted “AND ENFORCEMENT OF PROTECTION ORDERS” at end of heading.
 
-### § 10461. Grants
+### § 10461. Grants
 
 **(a) Purpose**
 
@@ -10017,9 +10017,9 @@ The purpose of this subchapter is to assist States, Indian Tribal governments, S
 
 **(7)** To provide technical assistance and computer and other equipment to police departments, prosecutors, courts, and tribal jurisdictions to facilitate the widespread enforcement of protection orders, including interstate enforcement, enforcement between States and tribal jurisdictions, and enforcement between tribal jurisdictions.
 
-**(8)** To develop or strengthen policies and training for police, prosecutors, and the judiciary in recognizing, investigating, and prosecuting instances of domestic violence 1
+**(8)** To develop or strengthen policies and training for police, prosecutors, and the judiciary in recognizing, investigating, and prosecuting instances of domestic violence 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 dating violence, sexual assault, and stalking against individuals 50 years of age or over, Deaf individuals, and individuals with disabilities (as defined in section 12102(2) of title 42).
 
@@ -10071,7 +10071,7 @@ dating violence, sexual assault, and stalking against individuals 50 years of ag
 
 **(c) Eligibility** Eligible grantees are—
 
-**(1)** States, Indian tribal governments <sup>1</sup> State and local courts (including juvenile courts), or units of local government that—
+**(1)** States, Indian tribal governments <sup>1</sup> State and local courts (including juvenile courts), or units of local government that—
 
 **(A)** except for a court, certify that their laws or official policies—
 
@@ -10087,7 +10087,7 @@ dating violence, sexual assault, and stalking against individuals 50 years of ag
 
 **(E)** certify that,2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 their laws, policies, or practices will ensure that—
 
@@ -10095,9 +10095,9 @@ their laws, policies, or practices will ensure that—
 
 **(ii)** the refusal of a victim to submit to an examination described in clause (i) shall not prevent the investigation of, trial of, or sentencing for the offense;
 
-**(F)** except for a court, not later than 3 years after the date on which an eligible grantee receives the first award under this subchapter after March 15, 2022, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located ensure that prosecutor’s 3
+**(F)** except for a court, not later than 3 years after the date on which an eligible grantee receives the first award under this subchapter after March 15, 2022, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located ensure that prosecutor’s 3
 
-<sup>3</sup>  So in original. Probably should be “prosecutors’ ”.
+<sup>3</sup> So in original. Probably should be “prosecutors’ ”.
 
 offices engage in planning, developing, and implementing—
 
@@ -10107,9 +10107,9 @@ offices engage in planning, developing, and implementing—
 
 **(iii)** a protocol outlining alternative practices and procedures for material witness petitions and bench warrants, consistent with best practices, that shall be exhausted before employing material witness petitions and bench warrants to obtain victim-witness testimony in the investigation, prosecution, and trial of a crime related to domestic violence, sexual assault, dating violence, and stalking of the victim in order to prevent further victimization and trauma to the victim; and
 
-**(G)** except for a court, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located prohibits 4
+**(G)** except for a court, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located prohibits 4
 
-<sup>4</sup>  So in original. Probably should be “prohibit”.
+<sup>4</sup> So in original. Probably should be “prohibit”.
 
 the prosecution of a minor under the age of 18 with respect to prostitution; and
 
@@ -10149,7 +10149,7 @@ Of the amounts appropriated for purposes of this subchapter for each fiscal year
 
 Of the amounts appropriated for purposes of this subchapter for each fiscal year, not less than 25 percent shall be available for projects that address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
 
-(Pub. L. 90–351, title I, § 2101, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§ 1101(a)(2), (b)(2), 1102(b), 1109(c), title II, § 1209(b), title V, § 1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, § 102(b), title IX, § 906(c), Jan. 5, 2006, 119 Stat. 2975, 3081; Pub. L. 109–271, § 7(a)(5), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title I, § 102(a)(1), Mar. 7, 2013, 127 Stat. 70; Pub. L. 116–165, § 7(a), Oct. 10, 2020, 134 Stat. 764; Pub. L. 117–103, div. W, title I, § 102(b), Mar. 15, 2022, 136 Stat. 848.)
+(Pub. L. 90–351, title I, § 2101, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§ 1101(a)(2), (b)(2), 1102(b), 1109(c), title II, § 1209(b), title V, § 1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, § 102(b), title IX, § 906(c), Jan. 5, 2006, 119 Stat. 2975, 3081; Pub. L. 109–271, § 7(a)(5), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title I, § 102(a)(1), Mar. 7, 2013, 127 Stat. 70; Pub. L. 116–165, § 7(a), Oct. 10, 2020, 134 Stat. 764; Pub. L. 117–103, div. W, title I, § 102(b), Mar. 15, 2022, 136 Stat. 848.)
 
 **Editorial Notes**
 
@@ -10167,115 +10167,115 @@ A prior section 2101 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–103, § 102(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The purpose of this subchapter is to encourage States, Indian tribal governments, State and local courts (including juvenile courts), tribal courts, and units of local government to treat domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law.”
+2022—Subsec. (a). Pub. L. 117–103, § 102(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The purpose of this subchapter is to encourage States, Indian tribal governments, State and local courts (including juvenile courts), tribal courts, and units of local government to treat domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law.”
 
-Subsec. (b)(1). Pub. L. 117–103, § 102(b)(2)(A), substituted “offender accountability and homicide reduction” for “proarrest”.
+Subsec. (b)(1). Pub. L. 117–103, § 102(b)(2)(A), substituted “offender accountability and homicide reduction” for “proarrest”.
 
-Subsec. (b)(5). Pub. L. 117–103, § 102(b)(2)(B), substituted “legal advocacy and legal assistance programs” for “legal advocacy service programs”.
+Subsec. (b)(5). Pub. L. 117–103, § 102(b)(2)(B), substituted “legal advocacy and legal assistance programs” for “legal advocacy service programs”.
 
-Subsec. (b)(8). Pub. L. 117–103, § 102(b)(2)(C), substituted “individuals 50 years of age or over, Deaf individuals,” for “older individuals (as defined in section 3002 of title 42)”.
+Subsec. (b)(8). Pub. L. 117–103, § 102(b)(2)(C), substituted “individuals 50 years of age or over, Deaf individuals,” for “older individuals (as defined in section 3002 of title 42)”.
 
-Subsec. (b)(19). Pub. L. 117–103, § 102(b)(2)(D), inserted “, including victims among underserved populations (as defined in section 12291(a) of this title)” before period at end.
+Subsec. (b)(19). Pub. L. 117–103, § 102(b)(2)(D), inserted “, including victims among underserved populations (as defined in section 12291(a) of this title)” before period at end.
 
-Subsec. (b)(25), (26). Pub. L. 117–103, § 102(b)(2)(E), added pars. (25) and (26).
+Subsec. (b)(25), (26). Pub. L. 117–103, § 102(b)(2)(E), added pars. (25) and (26).
 
-Subsec. (c)(1)(A)(i). Pub. L. 117–103, § 102(b)(3)(A)(i), substituted “encourage arrests of domestic violence, dating violence, sexual assault, and stalking offenders” for “encourage or mandate arrests of domestic violence offenders”.
+Subsec. (c)(1)(A)(i). Pub. L. 117–103, § 102(b)(3)(A)(i), substituted “encourage arrests of domestic violence, dating violence, sexual assault, and stalking offenders” for “encourage or mandate arrests of domestic violence offenders”.
 
-Subsec. (c)(1)(A)(ii). Pub. L. 117–103, § 102(b)(3)(A)(ii), substituted “encourage arrest of offenders” for “encourage or mandate arrest of domestic violence offenders”.
+Subsec. (c)(1)(A)(ii). Pub. L. 117–103, § 102(b)(3)(A)(ii), substituted “encourage arrest of offenders” for “encourage or mandate arrest of domestic violence offenders”.
 
-Subsec. (c)(1)(F), (G). Pub. L. 117–103, § 102(b)(3)(B), (C), added subpars. (F) and (G).
+Subsec. (c)(1)(F), (G). Pub. L. 117–103, § 102(b)(3)(B), (C), added subpars. (F) and (G).
 
 2020—Subsec. (b)(23), (24). Pub. L. 116–165 added pars. (23) and (24).
 
-2013—Subsec. (b). Pub. L. 113–4, § 102(a)(1)(A)(i), in introductory provisions, substituted “grantees” for “States, Indian tribal governments State, tribal, territorial, and local courts (including juvenile courts),, or units of local government”.
+2013—Subsec. (b). Pub. L. 113–4, § 102(a)(1)(A)(i), in introductory provisions, substituted “grantees” for “States, Indian tribal governments State, tribal, territorial, and local courts (including juvenile courts),, or units of local government”.
 
-Subsec. (b)(1). Pub. L. 113–4, § 102(a)(1)(A)(ii), inserted “and enforcement of protection orders across State and tribal lines” before period at end.
+Subsec. (b)(1). Pub. L. 113–4, § 102(a)(1)(A)(ii), inserted “and enforcement of protection orders across State and tribal lines” before period at end.
 
-Subsec. (b)(2). Pub. L. 113–4, § 102(a)(1)(A)(iii), substituted “data collection systems, and training in police departments to improve tracking of cases and classification of complaints” for “and training in police departments to improve tracking of cases”.
+Subsec. (b)(2). Pub. L. 113–4, § 102(a)(1)(A)(iii), substituted “data collection systems, and training in police departments to improve tracking of cases and classification of complaints” for “and training in police departments to improve tracking of cases”.
 
-Subsec. (b)(4). Pub. L. 113–4, § 102(a)(1)(A)(iv), inserted “and provide the appropriate training and education about domestic violence, dating violence, sexual assault, and stalking” after “computer tracking systems”.
+Subsec. (b)(4). Pub. L. 113–4, § 102(a)(1)(A)(iv), inserted “and provide the appropriate training and education about domestic violence, dating violence, sexual assault, and stalking” after “computer tracking systems”.
 
-Subsec. (b)(5). Pub. L. 113–4, § 102(a)(1)(A)(v), inserted “and other victim services” after “legal advocacy service programs”.
+Subsec. (b)(5). Pub. L. 113–4, § 102(a)(1)(A)(v), inserted “and other victim services” after “legal advocacy service programs”.
 
-Subsec. (b)(6). Pub. L. 113–4, § 102(a)(1)(A)(vi), substituted “Federal, State, tribal, territorial, and local judges, courts, and court-based and court-related personnel” for “judges”.
+Subsec. (b)(6). Pub. L. 113–4, § 102(a)(1)(A)(vi), substituted “Federal, State, tribal, territorial, and local judges, courts, and court-based and court-related personnel” for “judges”.
 
-Subsec. (b)(8). Pub. L. 113–4, § 102(a)(1)(A)(vii), substituted “dating violence, sexual assault, and stalking” for “and sexual assault”.
+Subsec. (b)(8). Pub. L. 113–4, § 102(a)(1)(A)(vii), substituted “dating violence, sexual assault, and stalking” for “and sexual assault”.
 
-Subsec. (b)(10). Pub. L. 113–4, § 102(a)(1)(A)(viii), substituted “victim service providers, staff from population specific organizations,” for “non-profit, non-governmental victim services organizations,”.
+Subsec. (b)(10). Pub. L. 113–4, § 102(a)(1)(A)(viii), substituted “victim service providers, staff from population specific organizations,” for “non-profit, non-governmental victim services organizations,”.
 
-Subsec. (b)(14) to (22). Pub. L. 113–4, § 102(a)(1)(A)(ix), added pars. (14) to (22).
+Subsec. (b)(14) to (22). Pub. L. 113–4, § 102(a)(1)(A)(ix), added pars. (14) to (22).
 
-Subsec. (c). Pub. L. 113–4, § 102(a)(1)(B)(vi), (vii), substituted “grantees are—” for “grantees are”, inserted par. (1) designation before “States”, struck out second comma after “(including juvenile courts)”, and redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1).
+Subsec. (c). Pub. L. 113–4, § 102(a)(1)(B)(vi), (vii), substituted “grantees are—” for “grantees are”, inserted par. (1) designation before “States”, struck out second comma after “(including juvenile courts)”, and redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1).
 
-Subsec. (c)(1). Pub. L. 113–4, § 102(a)(1)(B)(i), inserted “except for a court,” before “certify” in introductory provisions and redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively.
+Subsec. (c)(1). Pub. L. 113–4, § 102(a)(1)(B)(i), inserted “except for a court,” before “certify” in introductory provisions and redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively.
 
-Subsec. (c)(2). Pub. L. 113–4, § 102(a)(1)(B)(viii), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
+Subsec. (c)(2). Pub. L. 113–4, § 102(a)(1)(B)(viii), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
-Pub. L. 113–4, § 102(a)(1)(B)(ii), inserted “except for a court,” before “demonstrate”.
+Pub. L. 113–4, § 102(a)(1)(B)(ii), inserted “except for a court,” before “demonstrate”.
 
-Subsec. (c)(3). Pub. L. 113–4, § 102(a)(1)(B)(iii), substituted “parties” for “spouses” in two places and substituted “party” for “spouse”.
+Subsec. (c)(3). Pub. L. 113–4, § 102(a)(1)(B)(iii), substituted “parties” for “spouses” in two places and substituted “party” for “spouse”.
 
-Subsec. (c)(4). Pub. L. 113–4, § 102(a)(1)(B)(iv), inserted “, dating violence, sexual assault, or stalking” after “felony domestic violence”, “modification, enforcement, dismissal,” after “registration,” in two places, and “dating violence,” after “victim of domestic violence,” and struck out “and” at end.
+Subsec. (c)(4). Pub. L. 113–4, § 102(a)(1)(B)(iv), inserted “, dating violence, sexual assault, or stalking” after “felony domestic violence”, “modification, enforcement, dismissal,” after “registration,” in two places, and “dating violence,” after “victim of domestic violence,” and struck out “and” at end.
 
-Subsec. (c)(5). Pub. L. 113–4, § 102(a)(1)(B)(v), struck out “, not later than 3 years after January 5, 2006” after “certify that” in introductory provisions, inserted “, trial of, or sentencing for” after “investigation of” in two places, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “clause (i)” for “subparagraph (A)” in cl. (ii) as redesignated, and substituted “; and” for period at end.
+Subsec. (c)(5). Pub. L. 113–4, § 102(a)(1)(B)(v), struck out “, not later than 3 years after January 5, 2006” after “certify that” in introductory provisions, inserted “, trial of, or sentencing for” after “investigation of” in two places, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “clause (i)” for “subparagraph (A)” in cl. (ii) as redesignated, and substituted “; and” for period at end.
 
-Subsec. (d)(1). Pub. L. 113–4, § 102(a)(1)(C)(i)(I), inserted “, policy,” after “law” in introductory provisions.
+Subsec. (d)(1). Pub. L. 113–4, § 102(a)(1)(C)(i)(I), inserted “, policy,” after “law” in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 113–4, § 102(a)(1)(C)(i)(II), inserted “and the defendant is in custody or has been served with the information or indictment” before semicolon at end.
+Subsec. (d)(1)(A). Pub. L. 113–4, § 102(a)(1)(C)(i)(II), inserted “and the defendant is in custody or has been served with the information or indictment” before semicolon at end.
 
-Subsec. (d)(2). Pub. L. 113–4, § 102(a)(1)(C)(ii), substituted “its” for “it” in introductory provisions.
+Subsec. (d)(2). Pub. L. 113–4, § 102(a)(1)(C)(ii), substituted “its” for “it” in introductory provisions.
 
-Subsecs. (f), (g). Pub. L. 113–4, § 102(a)(1)(D), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 113–4, § 102(a)(1)(D), added subsecs. (f) and (g).
 
-2006—Subsec. (a). Pub. L. 109–162, § 102(b)(1), substituted “to treat domestic violence, dating violence, sexual assault, and stalking as serious violations” for “to treat domestic violence as a serious violation”.
+2006—Subsec. (a). Pub. L. 109–162, § 102(b)(1), substituted “to treat domestic violence, dating violence, sexual assault, and stalking as serious violations” for “to treat domestic violence as a serious violation”.
 
-Subsec. (b). Pub. L. 109–162, § 102(b)(2)(A), inserted “, tribal, territorial,” after “State” in introductory provisions.
+Subsec. (b). Pub. L. 109–162, § 102(b)(2)(A), inserted “, tribal, territorial,” after “State” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 109–162, § 102(b)(2)(B), struck out “mandatory arrest or” after “implement” and “mandatory arrest programs and” after “including”.
+Subsec. (b)(1). Pub. L. 109–162, § 102(b)(2)(B), struck out “mandatory arrest or” after “implement” and “mandatory arrest programs and” after “including”.
 
-Subsec. (b)(2). Pub. L. 109–162, § 102(b)(2)(C), inserted “protection order registries,” after “educational programs,” and substituted “domestic violence, dating violence, sexual assault, and stalking. Policies, educational programs, protection order registries, and training described in this paragraph shall incorporate confidentiality, and privacy protections for victims of domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and dating violence”.
+Subsec. (b)(2). Pub. L. 109–162, § 102(b)(2)(C), inserted “protection order registries,” after “educational programs,” and substituted “domestic violence, dating violence, sexual assault, and stalking. Policies, educational programs, protection order registries, and training described in this paragraph shall incorporate confidentiality, and privacy protections for victims of domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and dating violence”.
 
-Subsec. (b)(3). Pub. L. 109–162, § 102(b)(2)(D), substituted “domestic violence, dating violence, sexual assault, and stalking cases” for “domestic violence cases” and “teams” for “groups”.
+Subsec. (b)(3). Pub. L. 109–162, § 102(b)(2)(D), substituted “domestic violence, dating violence, sexual assault, and stalking cases” for “domestic violence cases” and “teams” for “groups”.
 
-Subsec. (b)(5). Pub. L. 109–162, § 102(b)(2)(E), substituted “domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and dating violence”.
+Subsec. (b)(5). Pub. L. 109–162, § 102(b)(2)(E), substituted “domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and dating violence”.
 
-Subsec. (b)(6). Pub. L. 109–162, § 102(b)(2)(F), substituted “civil” for “other” and inserted “, dating violence, sexual assault, and stalking” after “domestic violence”.
+Subsec. (b)(6). Pub. L. 109–162, § 102(b)(2)(F), substituted “civil” for “other” and inserted “, dating violence, sexual assault, and stalking” after “domestic violence”.
 
-Subsec. (b)(9) to (13). Pub. L. 109–162, § 102(b)(2)(G), added pars. (9) to (13).
+Subsec. (b)(9) to (13). Pub. L. 109–162, § 102(b)(2)(G), added pars. (9) to (13).
 
-Subsec. (c)(5). Pub. L. 109–162, § 102(b)(3), added par. (5).
+Subsec. (c)(5). Pub. L. 109–162, § 102(b)(3), added par. (5).
 
-Subsec. (d). Pub. L. 109–162, § 102(b)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “In this section, the term ‘protection order’ has the meaning given the term in section 2266 of title 18.”
+Subsec. (d). Pub. L. 109–162, § 102(b)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “In this section, the term ‘protection order’ has the meaning given the term in section 2266 of title 18.”
 
 Subsec. (e). Pub. L. 109–271 added subsec. (e) and struck out former subsec. (e) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subchapter shall not apply to funds allocated for such program.”
 
-Pub. L. 109–162, § 906(c), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Not less than 10 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
+Pub. L. 109–162, § 906(c), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Not less than 10 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
 
-Pub. L. 109–162, § 102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
+Pub. L. 109–162, § 102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
 
-2000—Subsec. (a). Pub. L. 106–386, § 1102(b)(1), inserted “State and local courts (including juvenile courts), tribal courts,” after “Indian tribal governments,”.
+2000—Subsec. (a). Pub. L. 106–386, § 1102(b)(1), inserted “State and local courts (including juvenile courts), tribal courts,” after “Indian tribal governments,”.
 
-Subsec. (b). Pub. L. 106–386, § 1102(b)(2)(A), inserted “State and local courts (including juvenile courts),” after “Indian tribal governments” in introductory provisions.
+Subsec. (b). Pub. L. 106–386, § 1102(b)(2)(A), inserted “State and local courts (including juvenile courts),” after “Indian tribal governments” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 106–386, §§ 1102(b)(2)(B), 1109(c)(1), substituted “policies, educational programs, and” for “policies and” and inserted “and dating violence” before period at end.
+Subsec. (b)(2). Pub. L. 106–386, §§ 1102(b)(2)(B), 1109(c)(1), substituted “policies, educational programs, and” for “policies and” and inserted “and dating violence” before period at end.
 
-Subsec. (b)(3), (4). Pub. L. 106–386, § 1102(b)(2)(C), (D), inserted “parole and probation officers,” after “prosecutors,”.
+Subsec. (b)(3), (4). Pub. L. 106–386, § 1102(b)(2)(C), (D), inserted “parole and probation officers,” after “prosecutors,”.
 
-Subsec. (b)(5). Pub. L. 106–386, §§ 1109(c)(2), 1512(b), inserted “and dating violence, including strengthening assistance to such victims in immigration matters” before period at end.
+Subsec. (b)(5). Pub. L. 106–386, §§ 1109(c)(2), 1512(b), inserted “and dating violence, including strengthening assistance to such victims in immigration matters” before period at end.
 
-Subsec. (b)(6). Pub. L. 106–386, § 1101(a)(2)(A), inserted “(including juvenile courts)” after “courts”.
+Subsec. (b)(6). Pub. L. 106–386, § 1101(a)(2)(A), inserted “(including juvenile courts)” after “courts”.
 
-Subsec. (b)(7). Pub. L. 106–386, § 1101(a)(2)(B), added par. (7).
+Subsec. (b)(7). Pub. L. 106–386, § 1101(a)(2)(B), added par. (7).
 
-Subsec. (b)(8). Pub. L. 106–386, § 1209(b), added par. (8).
+Subsec. (b)(8). Pub. L. 106–386, § 1209(b), added par. (8).
 
-Subsec. (c). Pub. L. 106–386, § 1102(b)(3), inserted “State and local courts (including juvenile courts),” after “Indian tribal governments” in introductory provisions.
+Subsec. (c). Pub. L. 106–386, § 1102(b)(3), inserted “State and local courts (including juvenile courts),” after “Indian tribal governments” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 106–386, § 1101(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: “certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena.”
+Subsec. (c)(4). Pub. L. 106–386, § 1101(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: “certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena.”
 
-Subsec. (d). Pub. L. 106–386, § 1101(b)(2)(B), added subsec. (d).
+Subsec. (d). Pub. L. 106–386, § 1101(b)(2)(B), added subsec. (d).
 
-Subsec. (e). Pub. L. 106–386, § 1102(b)(4), added subsec. (e).
+Subsec. (e). Pub. L. 106–386, § 1102(b)(4), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10291,7 +10291,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 Amendment by sections 102(b) (except the amendment to subsec. (d) of this section included in that section) and 906(c) of Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 10261 of this title.
 
-### § 10462. Applications
+### § 10462. Applications
 
 **(a) Application** An eligible grantee shall submit an application to the Attorney General that—
 
@@ -10299,13 +10299,13 @@ Amendment by sections 102(b) (except the amendment to subsec. (d) of this sectio
 
 **(A)** the period ending on the date on which the next session of the State or Indian tribal legislature ends; or
 
-**(B)** 2 years of September 13, 1994 or, in the case of the condition set forth in subsection 1
+**(B)** 2 years of September 13, 1994 or, in the case of the condition set forth in subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
-10461(c)(4) 2
+10461(c)(4) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title, the expiration of the 2-year period beginning on October 28, 2000;
 
@@ -10329,13 +10329,13 @@ of this title, the expiration of the 2-year period beginning on October 28, 2000
 
 The Attorney General shall annually compile and broadly disseminate (including through electronic publication) information about successful data collection and communication systems that meet the purposes described in this section. Such dissemination shall target States, State and local courts, Indian tribal governments, and units of local government.
 
-(Pub. L. 90–351, title I, § 2102, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; amended Pub. L. 106–386, div. B, title I, § 1101(a)(3), (b)(3), Oct. 28, 2000, 114 Stat. 1492, 1493; Pub. L. 109–162, title I, § 102(c), Jan. 5, 2006, 119 Stat. 2977; Pub. L. 113–4, title I, § 102(a)(2), Mar. 7, 2013, 127 Stat. 72.)
+(Pub. L. 90–351, title I, § 2102, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; amended Pub. L. 106–386, div. B, title I, § 1101(a)(3), (b)(3), Oct. 28, 2000, 114 Stat. 1492, 1493; Pub. L. 109–162, title I, § 102(c), Jan. 5, 2006, 119 Stat. 2977; Pub. L. 113–4, title I, § 102(a)(2), Mar. 7, 2013, 127 Stat. 72.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection 10461(c)(4) of this title, referred to in subsec. (a)(1)(B), which probably should be a reference to “section 10461(c)(4) of this title”, was redesignated section 10461(c)(1)(D) of this title by Pub. L. 113–4, title I, § 102(a)(1)(B)(vi), Mar. 7, 2013, 127 Stat. 72.
+Subsection 10461(c)(4) of this title, referred to in subsec. (a)(1)(B), which probably should be a reference to “section 10461(c)(4) of this title”, was redesignated section 10461(c)(1)(D) of this title by Pub. L. 113–4, title I, § 102(a)(1)(B)(vi), Mar. 7, 2013, 127 Stat. 72.
 
 **Codification**
 
@@ -10343,21 +10343,21 @@ Section was formerly classified to section 3796hh–1 of Title 42, The Public He
 
 **Amendments**
 
-2013—Subsec. (a)(1). Pub. L. 113–4, § 102(a)(2)(A), inserted “court,” after “tribal government,” in introductory provisions.
+2013—Subsec. (a)(1). Pub. L. 113–4, § 102(a)(2)(A), inserted “court,” after “tribal government,” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 113–4, § 102(a)(2)(B), substituted “victim service providers and, as appropriate, population specific organizations” for “nonprofit, private sexual assault and domestic violence programs”.
+Subsec. (a)(4). Pub. L. 113–4, § 102(a)(2)(B), substituted “victim service providers and, as appropriate, population specific organizations” for “nonprofit, private sexual assault and domestic violence programs”.
 
-2006—Subsec. (b)(1), (2). Pub. L. 109–162 inserted “, dating violence, sexual assault, or stalking” after “involving domestic violence”.
+2006—Subsec. (b)(1), (2). Pub. L. 109–162 inserted “, dating violence, sexual assault, or stalking” after “involving domestic violence”.
 
-2000—Subsec. (a)(1)(B). Pub. L. 106–386, § 1101(b)(3), inserted before semicolon “or, in the case of the condition set forth in subsection 3796hh(c)(4) of this title, the expiration of the 2-year period beginning on October 28, 2000”.
+2000—Subsec. (a)(1)(B). Pub. L. 106–386, § 1101(b)(3), inserted before semicolon “or, in the case of the condition set forth in subsection 3796hh(c)(4) of this title, the expiration of the 2-year period beginning on October 28, 2000”.
 
-Subsec. (b)(1). Pub. L. 106–386, § 1101(a)(3)(A)(i), struck out “and” at the end.
+Subsec. (b)(1). Pub. L. 106–386, § 1101(a)(3)(A)(i), struck out “and” at the end.
 
-Subsec. (b)(2). Pub. L. 106–386, § 1101(a)(3)(A)(ii), substituted “, including the enforcement of protection orders from other States and jurisdictions (including tribal jurisdictions);” for period at end.
+Subsec. (b)(2). Pub. L. 106–386, § 1101(a)(3)(A)(ii), substituted “, including the enforcement of protection orders from other States and jurisdictions (including tribal jurisdictions);” for period at end.
 
-Subsec. (b)(3), (4). Pub. L. 106–386, § 1101(a)(3)(A)(iii), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 106–386, § 1101(a)(3)(A)(iii), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 106–386, § 1101(a)(3)(B), added subsec. (c).
+Subsec. (c). Pub. L. 106–386, § 1101(a)(3)(B), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10369,7 +10369,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 10261 of this title.
 
-### § 10462a. Grants to State and Tribal courts to implement protection order pilot programs
+### § 10462a. Grants to State and Tribal courts to implement protection order pilot programs
 
 **(a) Definition of eligible entity** In this section, the term “eligible entity” means a State or Tribal court that is part of a multidisciplinary partnership that includes, to the extent practicable—
 
@@ -10519,7 +10519,7 @@ Notwithstanding section 10464 of this title, the Attorney General shall not be r
 
 There is authorized to be appropriated to carry out this section $10,000,000 for fiscal years 2023 through 2027.
 
-(Pub. L. 90–351, title I, § 2103, as added Pub. L. 117–103, div. W, title XV, § 1506(2), Mar. 15, 2022, 136 Stat. 957.)
+(Pub. L. 90–351, title I, § 2103, as added Pub. L. 117–103, div. W, title XV, § 1506(2), Mar. 15, 2022, 136 Stat. 957.)
 
 **Editorial Notes**
 
@@ -10533,11 +10533,11 @@ A prior section 2103 of Pub. L. 90–351 was renumbered section 2104 and is clas
 
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
-### § 10463. Reports
+### § 10463. Reports
 
 Each grantee receiving funds under this subchapter shall submit a report to the Attorney General evaluating the effectiveness of projects developed with funds provided under this subchapter and containing such additional information as the Attorney General may prescribe.
 
-(Pub. L. 90–351, title I, § 2104, formerly § 2103, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; renumbered § 2104, Pub. L. 117–103, div. W, title XV, § 1506(1), Mar. 15, 2022, 136 Stat. 956.)
+(Pub. L. 90–351, title I, § 2104, formerly § 2103, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; renumbered § 2104, Pub. L. 117–103, div. W, title XV, § 1506(1), Mar. 15, 2022, 136 Stat. 956.)
 
 **Editorial Notes**
 
@@ -10555,11 +10555,11 @@ A prior section 2104 of Pub. L. 90–351 was renumbered section 2105 and is clas
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
-### § 10464. Regulations or guidelines
+### § 10464. Regulations or guidelines
 
 Not later than 120 days after September 13, 1994, the Attorney General shall publish proposed regulations or guidelines implementing this subchapter. Not later than 180 days after September 13, 1994, the Attorney General shall publish final regulations or guidelines implementing this subchapter.
 
-(Pub. L. 90–351, title I, § 2105, formerly § 2104, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; renumbered § 2105, Pub. L. 117–103, div. W, title XV, § 1506(1), Mar. 15, 2022, 136 Stat. 956.)
+(Pub. L. 90–351, title I, § 2105, formerly § 2104, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; renumbered § 2105, Pub. L. 117–103, div. W, title XV, § 1506(1), Mar. 15, 2022, 136 Stat. 956.)
 
 **Editorial Notes**
 
@@ -10577,11 +10577,11 @@ A prior section 2105 of Pub. L. 90–351 was renumbered section 2106 and is clas
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
-### § 10465. Definitions and grant conditions
+### § 10465. Definitions and grant conditions
 
 In this subchapter the definitions and grant conditions in section 12291 of this title shall apply.
 
-(Pub. L. 90–351, title I, § 2106, formerly § 2105, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; amended Pub. L. 106–386, div. B, title I, § 1109(a)(2), Oct. 28, 2000, 114 Stat. 1503; Pub. L. 109–162, § 3(c)(2), Jan. 5, 2006, 119 Stat. 2972; renumbered § 2106, Pub. L. 117–103, div. W, title XV, § 1506(1), Mar. 15, 2022, 136 Stat. 956.)
+(Pub. L. 90–351, title I, § 2106, formerly § 2105, as added Pub. L. 103–322, title IV, § 40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; amended Pub. L. 106–386, div. B, title I, § 1109(a)(2), Oct. 28, 2000, 114 Stat. 1503; Pub. L. 109–162, § 3(c)(2), Jan. 5, 2006, 119 Stat. 2972; renumbered § 2106, Pub. L. 117–103, div. W, title XV, § 1506(1), Mar. 15, 2022, 136 Stat. 956.)
 
 **Editorial Notes**
 
@@ -10591,7 +10591,7 @@ Section was formerly classified to section 3796hh–4 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2106 of Pub. L. 90–351 was classified to section 3796hh–5 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–271, § 2(f)(2), Aug. 12, 2006, 120 Stat. 752.
+A prior section 2106 of Pub. L. 90–351 was classified to section 3796hh–5 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–271, § 2(f)(2), Aug. 12, 2006, 120 Stat. 752.
 
 **Amendments**
 
@@ -10607,7 +10607,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 ## SUBCHAPTER XXI—MENTAL HEALTH COURTS
 
-### § 10471. Grant authority
+### § 10471. Grant authority
 
 The Attorney General shall make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or nonprofit entities, for not more than 100 programs that involve—
 
@@ -10623,7 +10623,7 @@ The Attorney General shall make grants to States, State courts, local courts, un
 
 **(D)** continuing supervision of treatment plan compliance for a term not to exceed the maximum allowable sentence or probation for the charged or relevant offense and, to the extent practicable, continuity of psychiatric care at the end of the supervised period.
 
-(Pub. L. 90–351, title I, § 2201, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2399; amended Pub. L. 114–255, div. B, title XIV, § 14002(a), Dec. 13, 2016, 130 Stat. 1288.)
+(Pub. L. 90–351, title I, § 2201, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2399; amended Pub. L. 114–255, div. B, title XIV, § 14002(a), Dec. 13, 2016, 130 Stat. 1288.)
 
 **Editorial Notes**
 
@@ -10633,19 +10633,19 @@ Section was formerly classified to section 3796ii of Title 42, The Public Health
 
 **Prior Provisions**
 
-A prior section 2201 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to grant authority, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2201 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to grant authority, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Another prior section 2201 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 10541 of this title.
 
 **Amendments**
 
-2016—Par. (2)(B). Pub. L. 114–255 inserted before period at end “, or court-ordered assisted outpatient treatment when the court has determined such treatment to be necessary”.
+2016—Par. (2)(B). Pub. L. 114–255 inserted before period at end “, or court-ordered assisted outpatient treatment when the court has determined such treatment to be necessary”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Federal Drug and Mental Health Courts**
 
-Pub. L. 114–255, div. B, title XIV, § 14003, Dec. 13, 2016, 130 Stat. 1289, provided that:
+Pub. L. 114–255, div. B, title XIV, § 14003, Dec. 13, 2016, 130 Stat. 1289, provided that:
 
 > **“(a) Definitions.—** In this section—
 
@@ -10717,7 +10717,7 @@ Pub. L. 114–255, div. B, title XIV, § 14003, Dec. 13, 2016, 130 Stat. 1289,
 
 **Findings**
 
-Pub. L. 106–515, § 2, Nov. 13, 2000, 114 Stat. 2399, provided that:
+Pub. L. 106–515, § 2, Nov. 13, 2000, 114 Stat. 2399, provided that:
 
 > “Congress finds that—
 
@@ -10731,7 +10731,7 @@ Pub. L. 106–515, § 2, Nov. 13, 2000, 114 Stat. 2399, provided that:
 
 > **“(5)** Broward County, Florida and King County, Washington, have created separate Mental Health Courts to place nonviolent mentally ill offenders into judicially monitored inpatient and outpatient mental health treatment programs, where appropriate, with positive results.”
 
-### § 10472. Definitions
+### § 10472. Definitions
 
 In this subchapter—
 
@@ -10775,7 +10775,7 @@ In this subchapter—
 
 **(F)** due to mental illness, lacks capacity to fully understand or lacks judgment to make informed decisions regarding his or her need for treatment, care, or supervision.
 
-(Pub. L. 90–351, title I, § 2202, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2400; amended Pub. L. 114–255, div. B, title XIV, § 14002(b), Dec. 13, 2016, 130 Stat. 1288.)
+(Pub. L. 90–351, title I, § 2202, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2400; amended Pub. L. 114–255, div. B, title XIV, § 14002(b), Dec. 13, 2016, 130 Stat. 1288.)
 
 **Editorial Notes**
 
@@ -10785,13 +10785,13 @@ Section was formerly classified to section 3796ii–1 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2202 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to prohibition of participation by violent offenders, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2202 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to prohibition of participation by violent offenders, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 **Amendments**
 
 2016—Pars. (3), (4). Pub. L. 114–255 added pars. (3) and (4).
 
-### § 10473. Administration
+### § 10473. Administration
 
 **(a) Consultation**
 
@@ -10825,7 +10825,7 @@ The Attorney General shall issue regulations and guidelines necessary to carry o
 
 **(9)** certify that participating first time offenders without a history of a mental illness will receive a mental health evaluation.
 
-(Pub. L. 90–351, title I, § 2203, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2400.)
+(Pub. L. 90–351, title I, § 2203, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2400.)
 
 **Editorial Notes**
 
@@ -10835,13 +10835,13 @@ Section was formerly classified to section 3796ii–2 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2203 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, defined “violent offender”, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2203 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, defined “violent offender”, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-### § 10474. Applications
+### § 10474. Applications
 
 To request funds under this subchapter, the chief executive or the chief justice of a State or the chief executive or chief judge of a unit of local government or Indian tribal government shall submit to the Attorney General an application in such form and containing such information as the Attorney General may reasonably require.
 
-(Pub. L. 90–351, title I, § 2204, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2401.)
+(Pub. L. 90–351, title I, § 2204, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2401.)
 
 **Editorial Notes**
 
@@ -10851,13 +10851,13 @@ Section was formerly classified to section 3796ii–3 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2204 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to administration, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2204 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to administration, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-### § 10475. Federal share
+### § 10475. Federal share
 
 The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the program described in the application submitted under section 10474 of this title for the fiscal year for which the program receives assistance under this subchapter, unless the Attorney General waives, wholly or in part, the requirement of a matching contribution under this section. The use of the Federal share of a grant made under this subchapter shall be limited to new expenses necessitated by the proposed program, including the development of treatment services and the hiring and training of personnel. In-kind contributions may constitute a portion of the non-Federal share of a grant.
 
-(Pub. L. 90–351, title I, § 2205, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2401.)
+(Pub. L. 90–351, title I, § 2205, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2401.)
 
 **Editorial Notes**
 
@@ -10867,13 +10867,13 @@ Section was formerly classified to section 3796ii–4 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2205 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to applications to request funds, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2205 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to applications to request funds, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-### § 10476. Geographic distribution
+### § 10476. Geographic distribution
 
 The Attorney General shall ensure that, to the extent practicable, an equitable geographic distribution of grant awards is made that considers the special needs of rural communities, Indian tribes, and Alaska Natives.
 
-(Pub. L. 90–351, title I, § 2206, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2401.)
+(Pub. L. 90–351, title I, § 2206, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2401.)
 
 **Editorial Notes**
 
@@ -10883,13 +10883,13 @@ Section was formerly classified to section 3796ii–5 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2206 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to Federal share of grants, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2206 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to Federal share of grants, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-### § 10477. Report
+### § 10477. Report
 
 A State, Indian tribal government, or unit of local government that receives funds under this subchapter during a fiscal year shall submit to the Attorney General a report in March of the following year regarding the effectiveness of this subchapter.
 
-(Pub. L. 90–351, title I, § 2207, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2402.)
+(Pub. L. 90–351, title I, § 2207, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2402.)
 
 **Editorial Notes**
 
@@ -10899,9 +10899,9 @@ Section was formerly classified to section 3796ii–6 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2207 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to geographic distribution of grant awards, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2207 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to geographic distribution of grant awards, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-### § 10478. Technical assistance, training, and evaluation
+### § 10478. Technical assistance, training, and evaluation
 
 **(a) Technical assistance and training**
 
@@ -10915,7 +10915,7 @@ In addition to any evaluation requirements that may be prescribed for grantees, 
 
 The technical assistance, training, and evaluations authorized by this section may be carried out directly by the Attorney General, in collaboration with the Secretary of Health and Human Services, or through grants, contracts, or other cooperative arrangements with other entities.
 
-(Pub. L. 90–351, title I, § 2208, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2402.)
+(Pub. L. 90–351, title I, § 2208, as added Pub. L. 106–515, § 3(a), Nov. 13, 2000, 114 Stat. 2402.)
 
 **Editorial Notes**
 
@@ -10925,9 +10925,9 @@ Section was formerly classified to section 3796ii–7 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2208 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, required reports by entities receiving funds, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2208 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, required reports by entities receiving funds, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-### § 10479. Mental health responses in the judicial system
+### § 10479. Mental health responses in the judicial system
 
 **(a) Pretrial screening and supervision**
 
@@ -11009,9 +11009,9 @@ For each fiscal year, each grantee under this section during that fiscal year sh
 
 **(A) Definition**
 
-In this paragraph, the term “unresolved audit finding” means a finding in the final audit report of the Inspector General of the Department of Justice under subparagraph (C) that the audited grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 1 year after the date on which 1
+In this paragraph, the term “unresolved audit finding” means a finding in the final audit report of the Inspector General of the Department of Justice under subparagraph (C) that the audited grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 1 year after the date on which 1
 
-<sup>1</sup>  So in original. The word “the” probably should appear.
+<sup>1</sup> So in original. The word “the” probably should appear.
 
 final audit report is issued.
 
@@ -11089,7 +11089,7 @@ Before the Attorney General awards a grant to an applicant under this section, t
 
 **(B)** the reason the Attorney General awarded the duplicate grants.
 
-(Pub. L. 90–351, title I, § 2209, as added Pub. L. 114–255, div. B, title XIV, § 14004, Dec. 13, 2016, 130 Stat. 1291.)
+(Pub. L. 90–351, title I, § 2209, as added Pub. L. 114–255, div. B, title XIV, § 14004, Dec. 13, 2016, 130 Stat. 1291.)
 
 **Editorial Notes**
 
@@ -11103,7 +11103,7 @@ Section was formerly classified to section 3796ii–8 of Title 42, The Public He
 
 **Prior Provisions**
 
-A prior section 2209 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1958, related to technical assistance, training, and evaluation, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 2209 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title V, § 50001(a)(3), Sept. 13, 1994, 108 Stat. 1958, related to technical assistance, training, and evaluation, prior to repeal by Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(A)], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 ## SUBCHAPTER XXII—SUPPORT FOR LAW ENFORCEMENT OFFICERS AND FAMILIES
 
@@ -11111,9 +11111,9 @@ A prior section 2209 of title I of Pub. L. 90–351, as added Pub. L. 103–322,
 
 **Codification**
 
-Pub. L. 116–32, § 2(1), July 25, 2019, 133 Stat. 1036, substituted “SUPPORT FOR LAW ENFORCEMENT OFFICERS AND FAMILIES” for “FAMILY SUPPORT” in subchapter heading.
+Pub. L. 116–32, § 2(1), July 25, 2019, 133 Stat. 1036, substituted “SUPPORT FOR LAW ENFORCEMENT OFFICERS AND FAMILIES” for “FAMILY SUPPORT” in subchapter heading.
 
-### § 10491. Duties
+### § 10491. Duties
 
 The Attorney General shall—
 
@@ -11129,7 +11129,7 @@ The Attorney General shall—
 
 **(6)** determine issues to be researched by the Department of Justice and by grant recipients.
 
-(Pub. L. 90–351, title I, § 2301, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2062; amended Pub. L. 116–32, § 2(2), July 25, 2019, 133 Stat. 1036.)
+(Pub. L. 90–351, title I, § 2301, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2062; amended Pub. L. 116–32, § 2(2), July 25, 2019, 133 Stat. 1036.)
 
 **Editorial Notes**
 
@@ -11147,15 +11147,15 @@ A prior section 2301 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 **Amendments**
 
-2019—Par. (2). Pub. L. 116–32, § 2(2)(A), inserted “, including any research and reports developed under the Law Enforcement Mental Health and Wellness Act of 2017 (Public Law 115–113; 131 Stat. 2276)” after “interested parties”.
+2019—Par. (2). Pub. L. 116–32, § 2(2)(A), inserted “, including any research and reports developed under the Law Enforcement Mental Health and Wellness Act of 2017 (Public Law 115–113; 131 Stat. 2276)” after “interested parties”.
 
-Par. (4). Pub. L. 116–32, § 2(2)(B), inserted “, psychological services, suicide prevention,” after “stress reduction”.
+Par. (4). Pub. L. 116–32, § 2(2)(B), inserted “, psychological services, suicide prevention,” after “stress reduction”.
 
-### § 10492. General authorization
+### § 10492. General authorization
 
 The Attorney General may make grants to States and local law enforcement agencies and to organizations representing State or local law enforcement personnel to provide family support services and mental health services to law enforcement personnel.
 
-(Pub. L. 90–351, title I, § 2302, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2062; amended Pub. L. 116–32, § 2(3), July 25, 2019, 133 Stat. 1036.)
+(Pub. L. 90–351, title I, § 2302, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2062; amended Pub. L. 116–32, § 2(3), July 25, 2019, 133 Stat. 1036.)
 
 **Editorial Notes**
 
@@ -11167,13 +11167,13 @@ Section was formerly classified to section 3796jj–1 of Title 42, The Public He
 
 2019—Pub. L. 116–32 inserted “and mental health services” after “family support services”.
 
-### § 10493. Uses of funds
+### § 10493. Uses of funds
 
 **(a) In general**
 
-A State or local law enforcement agency or organization that receives a grant under this subchapter 1
+A State or local law enforcement agency or organization that receives a grant under this subchapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall use amounts provided under the grant to establish or improve training and support programs for law enforcement personnel.
 
@@ -11215,7 +11215,7 @@ shall use amounts provided under the grant to establish or improve training and 
 
 **(11)** Technical assistance and training to support any or all of the services described in paragraphs (1) through (10).
 
-(Pub. L. 90–351, title I, § 2303, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2062; amended Pub. L. 116–32, § 2(4), July 25, 2019, 133 Stat. 1036.)
+(Pub. L. 90–351, title I, § 2303, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2062; amended Pub. L. 116–32, § 2(4), July 25, 2019, 133 Stat. 1036.)
 
 **Editorial Notes**
 
@@ -11229,19 +11229,19 @@ Section was formerly classified to section 3796jj–2 of Title 42, The Public He
 
 **Amendments**
 
-2019—Subsec. (b)(1). Pub. L. 116–32, § 2(4)(A)(i), inserted “officers and” after “law enforcement”.
+2019—Subsec. (b)(1). Pub. L. 116–32, § 2(4)(A)(i), inserted “officers and” after “law enforcement”.
 
-Subsec. (b)(4). Pub. L. 116–32, § 2(4)(A)(ii), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Stress reduction programs.”
+Subsec. (b)(4). Pub. L. 116–32, § 2(4)(A)(ii), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Stress reduction programs.”
 
-Subsec. (c)(5). Pub. L. 116–32, § 2(4)(B)(i), inserted “, mental health crisis, and suicide prevention” after “family crisis”.
+Subsec. (c)(5). Pub. L. 116–32, § 2(4)(B)(i), inserted “, mental health crisis, and suicide prevention” after “family crisis”.
 
-Subsec. (c)(6). Pub. L. 116–32, § 2(4)(B)(ii), substituted “infectious disease” for “the human immunodeficiency virus”.
+Subsec. (c)(6). Pub. L. 116–32, § 2(4)(B)(ii), substituted “infectious disease” for “the human immunodeficiency virus”.
 
-Subsec. (c)(8). Pub. L. 116–32, § 2(4)(B)(iii), inserted “, injured, or permanently disabled” after “killed”.
+Subsec. (c)(8). Pub. L. 116–32, § 2(4)(B)(iii), inserted “, injured, or permanently disabled” after “killed”.
 
-Subsec. (c)(10), (11). Pub. L. 116–32, § 2(4)(B)(iv), added pars. (10) and (11) and struck out former par. (10) which read as follows: “Technical assistance and training to support any or all of the services described in paragraphs (1), (2), (3), (4), (5), (6), (7), (8), and (9).”
+Subsec. (c)(10), (11). Pub. L. 116–32, § 2(4)(B)(iv), added pars. (10) and (11) and struck out former par. (10) which read as follows: “Technical assistance and training to support any or all of the services described in paragraphs (1), (2), (3), (4), (5), (6), (7), (8), and (9).”
 
-### § 10494. Applications
+### § 10494. Applications
 
 A law enforcement agency or organization desiring to receive a grant under this subchapter shall submit to the Attorney General an application at such time, in such manner, and containing or accompanied by such information as the Attorney General may reasonably require. Such application shall—
 
@@ -11251,7 +11251,7 @@ A law enforcement agency or organization desiring to receive a grant under this 
 
 **(3)** assure that the Attorney General or the Comptroller General of the United States shall have access to all records related to the receipt and use of grant funds received under this subchapter.
 
-(Pub. L. 90–351, title I, § 2304, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2063.)
+(Pub. L. 90–351, title I, § 2304, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2063.)
 
 **Editorial Notes**
 
@@ -11259,7 +11259,7 @@ A law enforcement agency or organization desiring to receive a grant under this 
 
 Section was formerly classified to section 3796jj–3 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10495. Award of grants; limitation
+### § 10495. Award of grants; limitation
 
 **(a) Grant distribution**
 
@@ -11273,7 +11273,7 @@ The Attorney General may award a grant each fiscal year, not to exceed $100,000 
 
 Not more than 5 percent of grant funds received by a State or a local law enforcement agency or organization may be used for administrative purposes.
 
-(Pub. L. 90–351, title I, § 2305, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2063.)
+(Pub. L. 90–351, title I, § 2305, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2063.)
 
 **Editorial Notes**
 
@@ -11281,11 +11281,11 @@ Not more than 5 percent of grant funds received by a State or a local law enforc
 
 Section was formerly classified to section 3796jj–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10496. Discretionary research grants
+### § 10496. Discretionary research grants
 
 The Attorney General may reserve 10 percent of funds to award research grants to a State or local law enforcement agency or organization to study issues of importance in the law enforcement field as determined by the Attorney General.
 
-(Pub. L. 90–351, title I, § 2306, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2064.)
+(Pub. L. 90–351, title I, § 2306, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2064.)
 
 **Editorial Notes**
 
@@ -11293,7 +11293,7 @@ The Attorney General may reserve 10 percent of funds to award research grants to
 
 Section was formerly classified to section 3796jj–5 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10497. Reports
+### § 10497. Reports
 
 A State or local law enforcement agency or organization that receives a grant under this subchapter shall submit to the Attorney General an annual report that includes—
 
@@ -11305,7 +11305,7 @@ A State or local law enforcement agency or organization that receives a grant un
 
 **(4)** an evaluation of the effectiveness of grant programs.
 
-(Pub. L. 90–351, title I, § 2307, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2064.)
+(Pub. L. 90–351, title I, § 2307, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2064.)
 
 **Editorial Notes**
 
@@ -11313,7 +11313,7 @@ A State or local law enforcement agency or organization that receives a grant un
 
 Section was formerly classified to section 3796jj–6 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10498. Definitions
+### § 10498. Definitions
 
 For purposes of this subchapter—
 
@@ -11321,7 +11321,7 @@ For purposes of this subchapter—
 
 **(2)** the term “law enforcement personnel” means individuals employed by Federal, State, and local law enforcement agencies.
 
-(Pub. L. 90–351, title I, § 2308, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2064.)
+(Pub. L. 90–351, title I, § 2308, as added Pub. L. 103–322, title XXI, § 210201(a)(3), Sept. 13, 1994, 108 Stat. 2064.)
 
 **Editorial Notes**
 
@@ -11331,11 +11331,11 @@ Section was formerly classified to section 3796jj–7 of Title 42, The Public He
 
 ## SUBCHAPTER XXIII—DNA IDENTIFICATION GRANTS
 
-### § 10511. Grant authorization
+### § 10511. Grant authorization
 
 The Attorney General may make funds available under this subchapter to States and units of local government, or combinations thereof, to carry out all or a substantial part of a program or project intended to develop or improve the capability to analyze deoxyribonucleic acid (referred to in this subchapter as “DNA”) in a forensic laboratory.
 
-(Pub. L. 90–351, title I, § 2401, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066.)
+(Pub. L. 90–351, title I, § 2401, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066.)
 
 **Editorial Notes**
 
@@ -11351,13 +11351,13 @@ A prior section 2401 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 **Effective Date**
 
-Pub. L. 103–322, title XXI, § 210302(c)(4), Sept. 13, 1994, 108 Stat. 2068, provided that: “The amendments made by this section [enacting this subchapter and amending sections 10152, 10154, 10261, and 10541 of this title] shall take effect on the date that is 60 days after the date of enactment of this Act [Sept. 13, 1994].”
+Pub. L. 103–322, title XXI, § 210302(c)(4), Sept. 13, 1994, 108 Stat. 2068, provided that: “The amendments made by this section [enacting this subchapter and amending sections 10152, 10154, 10261, and 10541 of this title] shall take effect on the date that is 60 days after the date of enactment of this Act [Sept. 13, 1994].”
 
-### § 10512. Applications
+### § 10512. Applications
 
 To request a grant under this subchapter, the chief executive officer of a State or unit of local government shall submit an application in such form as the Attorney General may require.
 
-(Pub. L. 90–351, title I, § 2402, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066.)
+(Pub. L. 90–351, title I, § 2402, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066.)
 
 **Editorial Notes**
 
@@ -11365,13 +11365,13 @@ To request a grant under this subchapter, the chief executive officer of a State
 
 Section was formerly classified to section 3796kk–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10513. Application requirements
+### § 10513. Application requirements
 
 No grant may be made under this subchapter unless an application has been submitted to the Attorney General in which the applicant certifies that—
 
 **(1)** DNA analyses performed at the laboratory will satisfy or exceed then current standards for a quality assurance program for DNA analysis issued by the Director of the Federal Bureau of Investigation under section 12591 of this title.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(2)** DNA samples obtained by and DNA analyses performed at the laboratory shall be made available only—
 
@@ -11385,7 +11385,7 @@ No grant may be made under this subchapter unless an application has been submit
 
 **(3)** the laboratory and each analyst performing DNA analyses at the laboratory shall undergo semiannual external proficiency testing by a DNA proficiency testing program that meets the standards issued under section 12591 of this title.
 
-(Pub. L. 90–351, title I, § 2403, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066; amended Pub. L. 106–546, § 8(b), Dec. 19, 2000, 114 Stat. 2735.)
+(Pub. L. 90–351, title I, § 2403, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066; amended Pub. L. 106–546, § 8(b), Dec. 19, 2000, 114 Stat. 2735.)
 
 **Editorial Notes**
 
@@ -11395,9 +11395,9 @@ Section was formerly classified to section 3796kk–2 of Title 42, The Public He
 
 **Amendments**
 
-2000—Par. (3). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals not exceeding 180 days,”.
+2000—Par. (3). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals not exceeding 180 days,”.
 
-### § 10514. Administrative provisions
+### § 10514. Administrative provisions
 
 **(a) Regulation authority**
 
@@ -11411,7 +11411,7 @@ The Attorney General shall have final authority over all funds awarded under thi
 
 To assist and measure the effectiveness and performance of programs and activities funded under this subchapter, the Attorney General may provide technical assistance as required.
 
-(Pub. L. 90–351, title I, § 2404, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066.)
+(Pub. L. 90–351, title I, § 2404, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066.)
 
 **Editorial Notes**
 
@@ -11419,7 +11419,7 @@ To assist and measure the effectiveness and performance of programs and activiti
 
 Section was formerly classified to section 3796kk–3 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10515. Restrictions on use of funds
+### § 10515. Restrictions on use of funds
 
 **(a) Federal share**
 
@@ -11427,13 +11427,13 @@ The Federal share of a grant, contract, or cooperative agreement made under this
 
 **(b) Administrative costs**
 
-A State or unit of local government may not use more than 10 percent of the funds it receives from 1
+A State or unit of local government may not use more than 10 percent of the funds it receives from 1
 
-<sup>1</sup>  So in original. Probably should be “under”.
+<sup>1</sup> So in original. Probably should be “under”.
 
 this subchapter for administrative expenses.
 
-(Pub. L. 90–351, title I, § 2405, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067.)
+(Pub. L. 90–351, title I, § 2405, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067.)
 
 **Editorial Notes**
 
@@ -11441,7 +11441,7 @@ this subchapter for administrative expenses.
 
 Section was formerly classified to section 3796kk–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10516. Reports
+### § 10516. Reports
 
 Each State or unit of local government which receives a grant under this subchapter shall submit to the Attorney General, for each year in which funds from a grant received under this subchapter is expended, a report at such time and in such manner as the Attorney General may reasonably require which contains—
 
@@ -11449,7 +11449,7 @@ Each State or unit of local government which receives a grant under this subchap
 
 **(2)** such other information as the Attorney General may require.
 
-(Pub. L. 90–351, title I, § 2406, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067; amended Pub. L. 112–189, § 2(a), Oct. 5, 2012, 126 Stat. 1435.)
+(Pub. L. 90–351, title I, § 2406, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067; amended Pub. L. 112–189, § 2(a), Oct. 5, 2012, 126 Stat. 1435.)
 
 **Editorial Notes**
 
@@ -11461,7 +11461,7 @@ Section was formerly classified to section 3796kk–5 of Title 42, The Public He
 
 2012—Pub. L. 112–189 struck out subsec. (a) designation and heading “Reports to Attorney General” before “Each State” and struck out subsec. (b) which required the Attorney General to submit reports to Congress on grant amounts and activities.
 
-### § 10517. Expenditure records
+### § 10517. Expenditure records
 
 **(a) Records**
 
@@ -11471,7 +11471,7 @@ Each State or unit of local government which receives a grant under this subchap
 
 The Attorney General, the Comptroller General, or their designated agents shall have access, for the purpose of audit and examination, to any books, documents, and records of States and units of local government which receive grants made under this subchapter if, in the opinion of the Attorney General, the Comptroller General, or their designated agents, such books, documents, and records are related to the receipt or use of any such grant.
 
-(Pub. L. 90–351, title I, § 2407, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067.)
+(Pub. L. 90–351, title I, § 2407, as added Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067.)
 
 **Editorial Notes**
 
@@ -11481,13 +11481,13 @@ Section was formerly classified to section 3796kk–6 of Title 42, The Public He
 
 ## SUBCHAPTER XXIV—MATCHING GRANT PROGRAM FOR LAW ENFORCEMENT ARMOR VESTS
 
-### § 10530. Patrick Leahy Bulletproof Vest Partnership Grant Program
+### § 10530. Patrick Leahy Bulletproof Vest Partnership Grant Program
 
 The program under this subchapter shall be known as the “Patrick Leahy Bulletproof Vest Partnership Grant Program”.
 
-(Pub. L. 90–351, title I, § 2500, as added Pub. L. 116–18, § 1(b), May 23, 2019, 133 Stat. 869.)
+(Pub. L. 90–351, title I, § 2500, as added Pub. L. 116–18, § 1(b), May 23, 2019, 133 Stat. 869.)
 
-### § 10531. Program authorized
+### § 10531. Program authorized
 
 **(a) In general**
 
@@ -11559,7 +11559,7 @@ In this subsection, the term “appropriated funds” means any amounts that are
 
 All appropriated funds that are not obligated on or before December 31, 2022 shall be transferred to the General Fund of the Treasury not later than January 31, 2023.
 
-(Pub. L. 90–351, title I, § 2501, as added Pub. L. 105–181, § 3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, § 3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408; Pub. L. 110–177, title III, § 302(d), Jan. 7, 2008, 121 Stat. 2539; Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 583; Pub. L. 114–155, §§ 3, 5, 7, May 16, 2016, 130 Stat. 389, 390.)
+(Pub. L. 90–351, title I, § 2501, as added Pub. L. 105–181, § 3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, § 3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408; Pub. L. 110–177, title III, § 302(d), Jan. 7, 2008, 121 Stat. 2539; Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 583; Pub. L. 114–155, §§ 3, 5, 7, May 16, 2016, 130 Stat. 389, 390.)
 
 **Editorial Notes**
 
@@ -11577,31 +11577,31 @@ A prior section 2501 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 **Amendments**
 
-2016—Subsec. (c)(2) to (5). Pub. L. 114–155, § 7, substituted “; and” for “; or” at end of par. (3), added par. (4), and redesignated former par. (4) as (5).
+2016—Subsec. (c)(2) to (5). Pub. L. 114–155, § 7, substituted “; and” for “; or” at end of par. (3), added par. (4), and redesignated former par. (4) as (5).
 
-Subsec. (f)(3), (4). Pub. L. 114–155, § 5, added par. (3) and redesignated former par. (3) as (4).
+Subsec. (f)(3), (4). Pub. L. 114–155, § 5, added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (h). Pub. L. 114–155, § 3, added subsec. (h).
+Subsec. (h). Pub. L. 114–155, § 3, added subsec. (h).
 
 2009—Subsec. (f)(3). Pub. L. 111–8 added par. (3).
 
-2008—Subsec. (a). Pub. L. 110–177, § 302(d)(1), inserted “and State and local court officers” after “tribal law enforcement officers”.
+2008—Subsec. (a). Pub. L. 110–177, § 302(d)(1), inserted “and State and local court officers” after “tribal law enforcement officers”.
 
-Subsec. (b)(1). Pub. L. 110–177, § 302(d)(2), inserted “State or local court,” after “government,”.
+Subsec. (b)(1). Pub. L. 110–177, § 302(d)(2), inserted “State or local court,” after “government,”.
 
-2000—Subsec. (f). Pub. L. 106–517, § 3(a), designated first sentence as par. (1), inserted par. heading, substituted “subsection (a)—” and subpars. (A) and (B) for “subsection (a) may not exceed 50 percent.”, and designated second sentence as par. (2) and inserted par. heading.
+2000—Subsec. (f). Pub. L. 106–517, § 3(a), designated first sentence as par. (1), inserted par. heading, substituted “subsection (a)—” and subpars. (A) and (B) for “subsection (a) may not exceed 50 percent.”, and designated second sentence as par. (2) and inserted par. heading.
 
-Subsec. (g). Pub. L. 106–517, § 3(b), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “At least half of the funds available under this subchapter shall be awarded to units of local government with fewer than 100,000 residents.”
+Subsec. (g). Pub. L. 106–517, § 3(b), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “At least half of the funds available under this subchapter shall be awarded to units of local government with fewer than 100,000 residents.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
 **Findings of 2000 Amendments**
 
-Pub. L. 106–517, § 2, Nov. 13, 2000, 114 Stat. 2407, provided that:
+Pub. L. 106–517, § 2, Nov. 13, 2000, 114 Stat. 2407, provided that:
 
 > “Congress finds that—
 
@@ -11617,7 +11617,7 @@ Pub. L. 106–517, § 2, Nov. 13, 2000, 114 Stat. 2407, provided that:
 
 **Findings and Purpose of 1998 Amendments**
 
-Pub. L. 105–181, § 2, June 16, 1998, 112 Stat. 512, provided that:
+Pub. L. 105–181, § 2, June 16, 1998, 112 Stat. 512, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -11635,7 +11635,7 @@ Pub. L. 105–181, § 2, June 16, 1998, 112 Stat. 512, provided that:
 
 > **“(b) Purpose.—** The purpose of this Act [see Short Title of 1998 Act note set out under section 10101 of this title] is to save lives of law enforcement officers by helping State, local, and tribal law enforcement agencies provide officers with armor vests.”
 
-### § 10532. Applications
+### § 10532. Applications
 
 **(a) In general**
 
@@ -11655,7 +11655,7 @@ A unit of local government that receives funding under the Local Law Enforcement
 
 **(2)** expressly assumes the obligation to carry out the transaction, regardless of whether such amounts are received.
 
-(Pub. L. 90–351, title I, § 2502, as added Pub. L. 105–181, § 3(a)(3), June 16, 1998, 112 Stat. 514; amended Pub. L. 106–517, § 3(c), Nov. 13, 2000, 114 Stat. 2408.)
+(Pub. L. 90–351, title I, § 2502, as added Pub. L. 105–181, § 3(a)(3), June 16, 1998, 112 Stat. 514; amended Pub. L. 106–517, § 3(c), Nov. 13, 2000, 114 Stat. 2408.)
 
 **References in Text**
 
@@ -11671,9 +11671,9 @@ Section was formerly classified to section 3796*ll*–1 of Title 42, The Public 
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-### § 10533. Definitions
+### § 10533. Definitions
 
 For purposes of this subchapter—
 
@@ -11693,7 +11693,7 @@ For purposes of this subchapter—
 
 **(6)** the term “law enforcement officer” means any officer, agent, or employee of a State, unit of local government, or Indian tribe authorized by law or by a government agency to engage in or supervise the prevention, detection, or investigation of any violation of criminal law, or authorized by law to supervise sentenced criminal offenders.
 
-(Pub. L. 90–351, title I, § 2503, as added Pub. L. 105–181, § 3(a)(3), June 16, 1998, 112 Stat. 514; amended Pub. L. 106–517, § 3(d), Nov. 13, 2000, 114 Stat. 2408.)
+(Pub. L. 90–351, title I, § 2503, as added Pub. L. 105–181, § 3(a)(3), June 16, 1998, 112 Stat. 514; amended Pub. L. 106–517, § 3(d), Nov. 13, 2000, 114 Stat. 2408.)
 
 **Editorial Notes**
 
@@ -11703,15 +11703,15 @@ Section was formerly classified to section 3796*ll*–2 of Title 42, The Public 
 
 **Amendments**
 
-2000—Par. (1). Pub. L. 106–517 designated provisions after “ ‘armor vest’ means” as subpar. (A) and added subpar. (B).
+2000—Par. (1). Pub. L. 106–517 designated provisions after “ ‘armor vest’ means” as subpar. (A) and added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Interim Definition of Armor Vest**
 
-Pub. L. 106–517, § 3(e), Nov. 13, 2000, 114 Stat. 2408, provided that: “For purposes of part Y of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10531 et seq.], as amended by this Act, the meaning of the term ‘armor vest’ (as defined in section 2503 of such Act (42 U.S.C. 3796*ll*–2) [now 34 U.S.C. 10533]) shall, until the date on which a final NIJ Standard 0115.00 is first fully approved and implemented, also include body armor which has been found to meet or exceed the requirements for protection against stabbing established by the State in which the grantee is located.”
+Pub. L. 106–517, § 3(e), Nov. 13, 2000, 114 Stat. 2408, provided that: “For purposes of part Y of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10531 et seq.], as amended by this Act, the meaning of the term ‘armor vest’ (as defined in section 2503 of such Act (42 U.S.C. 3796*ll*–2) [now 34 U.S.C. 10533]) shall, until the date on which a final NIJ Standard 0115.00 is first fully approved and implemented, also include body armor which has been found to meet or exceed the requirements for protection against stabbing established by the State in which the grantee is located.”
 
-### § 10534. James Guelff and Chris McCurley Body Armor Act of 2002
+### § 10534. James Guelff and Chris McCurley Body Armor Act of 2002
 
 **(a) Short title**
 
@@ -11803,7 +11803,7 @@ The head of a Federal agency who donates body armor under this subsection shall 
 
 Notwithstanding any other provision of law, the United States shall not be liable for any harm occurring in connection with the use or misuse of any body armor donated under this subsection.
 
-(Pub. L. 107–273, div. C, title I, § 11009, Nov. 2, 2002, 116 Stat. 1819; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 107–273, div. C, title I, § 11009, Nov. 2, 2002, 116 Stat. 1819; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
@@ -11813,7 +11813,7 @@ Section is comprised of section 11009 of Pub. L. 107–273. Subsec. (e) of secti
 
 Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
-In subsec. (f), “section 102 of title 40” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)” in par. (1), and “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)” in par. (2), on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (f), “section 102 of title 40” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)” in par. (1), and “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)” in par. (2), on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was formerly classified to section 3796*ll*–3 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
@@ -11841,9 +11841,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Codification**
 
-This subchapter is comprised of part Z, formerly part M, of title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, and redesignated by Pub. L. 99–570, § 1552(a)(1), Pub. L. 101–647, §§ 241(a)(1)(A), 801(a)(1), Pub. L. 102–521, § 4(a)(1), Pub. L. 103–322, §§ 10003(a)(1), 20201(a)(1), 32101(a)(1), 40121(a)(1), 40231(a)(1), 50001(a)(1), 210201(a)(1), 210302(c)(1)(A), and Pub. L. 105–181, § 3(a)(1).
+This subchapter is comprised of part Z, formerly part M, of title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, and redesignated by Pub. L. 99–570, § 1552(a)(1), Pub. L. 101–647, §§ 241(a)(1)(A), 801(a)(1), Pub. L. 102–521, § 4(a)(1), Pub. L. 103–322, §§ 10003(a)(1), 20201(a)(1), 32101(a)(1), 40121(a)(1), 40231(a)(1), 50001(a)(1), 210201(a)(1), 210302(c)(1)(A), and Pub. L. 105–181, § 3(a)(1).
 
-### § 10541. Continuation of rules, authorities, and proceedings
+### § 10541. Continuation of rules, authorities, and proceedings
 
 **(a) Continuing status until otherwise affected**
 
@@ -11877,9 +11877,9 @@ Except as otherwise provided in this chapter, the personnel employed on December
 
 **(h) Unobligated funds of a State or unit of local government available for cost of any program or project**
 
-Any funds made available under subchapters II, III, and V 1
+Any funds made available under subchapters II, III, and V 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this chapter, as in effect before December 27, 1979, which are not obligated by a State or unit of local government, may be used to provide up to 100 per centum of the cost of any program or project.
 
@@ -11891,7 +11891,7 @@ Notwithstanding any other provision of this chapter, all provisions of this chap
 
 Notwithstanding the provisions of section 404(c)(3),<sup>1</sup> any construction projects which were funded under this chapter, as in effect before December 27, 1979, and which were budgeted in anticipation of receiving additional Federal funding for such construction may continue for two years to be funded under this chapter.
 
-(Pub. L. 90–351, title I, § 2601, formerly § 1301, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1221; amended Pub. L. 98–473, title II, § 609G, Oct. 12, 1984, 98 Stat. 2100; renumbered § 1401, Pub. L. 99–570, title I, § 1552(a)(2), Oct. 27, 1986, 100 Stat. 3207–41; renumbered § 1501, renumbered § 1601, Pub. L. 101–647, title II, § 241(a)(1)(B), title VIII, § 801(a)(2), Nov. 29, 1990, 104 Stat. 4810, 4825; renumbered § 1701, Pub. L. 102–521, § 4(a)(2), Oct. 25, 1992, 106 Stat. 3404; renumbered § 1801, renumbered § 1901, renumbered § 2001, renumbered § 2101, renumbered § 2201, renumbered § 2301, renumbered § 2401, renumbered § 2501, Pub. L. 103–322, title I, § 10003(a)(2), title II, § 20201(a)(2), title III, § 32101(a)(2), title IV, §§ 40121(a)(2), 40231(a)(2), title V, § 50001(a)(2), title XXI, §§ 210201(a)(2), 210302(c)(1)(B), Sept. 13, 1994, 108 Stat. 1808, 1819, 1898, 1910, 1932, 1955, 2062, 2066, renumbered § 2601, Pub. L. 105–181, § 3(a)(2), June 16, 1998, 112 Stat. 512.)
+(Pub. L. 90–351, title I, § 2601, formerly § 1301, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1221; amended Pub. L. 98–473, title II, § 609G, Oct. 12, 1984, 98 Stat. 2100; renumbered § 1401, Pub. L. 99–570, title I, § 1552(a)(2), Oct. 27, 1986, 100 Stat. 3207–41; renumbered § 1501, renumbered § 1601, Pub. L. 101–647, title II, § 241(a)(1)(B), title VIII, § 801(a)(2), Nov. 29, 1990, 104 Stat. 4810, 4825; renumbered § 1701, Pub. L. 102–521, § 4(a)(2), Oct. 25, 1992, 106 Stat. 3404; renumbered § 1801, renumbered § 1901, renumbered § 2001, renumbered § 2101, renumbered § 2201, renumbered § 2301, renumbered § 2401, renumbered § 2501, Pub. L. 103–322, title I, § 10003(a)(2), title II, § 20201(a)(2), title III, § 32101(a)(2), title IV, §§ 40121(a)(2), 40231(a)(2), title V, § 50001(a)(2), title XXI, §§ 210201(a)(2), 210302(c)(1)(B), Sept. 13, 1994, 108 Stat. 1808, 1819, 1898, 1910, 1932, 1955, 2062, 2066, renumbered § 2601, Pub. L. 105–181, § 3(a)(2), June 16, 1998, 112 Stat. 512.)
 
 **Editorial Notes**
 
@@ -11899,11 +11899,11 @@ Notwithstanding the provisions of section 404(c)(3),<sup>1</sup> any constructio
 
 The Justice System Improvement Act of 1979, referred to in subsec. (e), is Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1979 Act note under section 10101 of this title and Tables.
 
-Subchapter V of this chapter, referred to in subsec. (h), was repealed and former subchapter VI was redesignated as V by Pub. L. 98–473, title II, §§ 607, 608(e), Oct. 12, 1984, 98 Stat. 2086, 2087, which was also repealed and a new subchapter V enacted by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Subchapter V of this chapter, referred to in subsec. (h), was repealed and former subchapter VI was redesignated as V by Pub. L. 98–473, title II, §§ 607, 608(e), Oct. 12, 1984, 98 Stat. 2086, 2087, which was also repealed and a new subchapter V enacted by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (i), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1974 Act note under section 10101 of this title and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (i), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1974 Act note under section 10101 of this title and Tables.
 
-Section 404(c)(3), referred to in subsec. (j), is a reference to section 404(c)(3) of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1188, as in effect prior to the general amendment of section 404 by Pub. L. 98–473, and subsequent repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Section 404(c)(3), referred to in subsec. (j), is a reference to section 404(c)(3) of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1188, as in effect prior to the general amendment of section 404 by Pub. L. 98–473, and subsequent repeal by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
 **Codification**
 
@@ -11911,9 +11911,9 @@ Section was formerly classified to section 3797 of Title 42, The Public Health a
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–473, § 609G(1), designated existing provisions as par. (1) and added par. (2).
+1984—Subsec. (a). Pub. L. 98–473, § 609G(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (j), (k). Pub. L. 98–473, § 609G(2), (3), redesignated subsec. (k) as (j) and struck out former subsec. (j) relating to State planning agency meeting representation requirement as competent to carry out functions, powers, and duties of State criminal justice council.
+Subsecs. (j), (k). Pub. L. 98–473, § 609G(2), (3), redesignated subsec. (k) as (j) and struck out former subsec. (j) relating to State planning agency meeting representation requirement as competent to carry out functions, powers, and duties of State criminal justice council.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11923,7 +11923,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
 **Executive Documents**
 
@@ -11933,7 +11933,7 @@ The operations of the Law Enforcement Assistance Administration were closed out 
 
 ## SUBCHAPTER XXVI—MATCHING GRANT PROGRAM FOR SCHOOL SECURITY
 
-### § 10551. Program authorized
+### § 10551. Program authorized
 
 **(a) In general**
 
@@ -12001,7 +12001,7 @@ In awarding grants under this subchapter, the COPS Director and the BJA shall ea
 
 The COPS Director and the BJA Director may each reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
 
-(Pub. L. 90–351, title I, § 2701, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1501; amended Pub. L. 109–162, title XI, § 1169(b), Jan. 5, 2006, 119 Stat. 3122; Pub. L. 109–271, § 8(j), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–255, div. B, title XIV, § 14010, Dec. 13, 2016, 130 Stat. 1297; Pub. L. 115–141, div. S, title V, § 502(1), Mar. 23, 2018, 132 Stat. 1128.)
+(Pub. L. 90–351, title I, § 2701, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1501; amended Pub. L. 109–162, title XI, § 1169(b), Jan. 5, 2006, 119 Stat. 3122; Pub. L. 109–271, § 8(j), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–255, div. B, title XIV, § 14010, Dec. 13, 2016, 130 Stat. 1297; Pub. L. 115–141, div. S, title V, § 502(1), Mar. 23, 2018, 132 Stat. 1128.)
 
 **Editorial Notes**
 
@@ -12011,9 +12011,9 @@ Section was formerly classified to section 3797a of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–141, § 502(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’) is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.”
+2018—Subsec. (a). Pub. L. 115–141, § 502(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’) is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.”
 
-Subsec. (b). Pub. L. 115–141, § 502(1)(B), inserted “evidence-based school safety programs that may include” after “through” in introductory provisions, added pars. (1) to (9), and struck out former pars. (1) to (6) which read as follows:
+Subsec. (b). Pub. L. 115–141, § 502(1)(B), inserted “evidence-based school safety programs that may include” after “through” in introductory provisions, added pars. (1) to (9), and struck out former pars. (1) to (6) which read as follows:
 
 “(1) Placement and use of metal detectors, locks, lighting, and other deterrent measures.
 
@@ -12027,29 +12027,29 @@ Subsec. (b). Pub. L. 115–141, § 502(1)(B), inserted “evidence-based schoo
 
 “(6) Any other measure that, in the determination of the Director, may provide a significant improvement in security.”
 
-Subsecs. (c), (d). Pub. L. 115–141, § 502(1)(D), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+Subsecs. (c), (d). Pub. L. 115–141, § 502(1)(D), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-Subsec. (e). Pub. L. 115–141, § 502(1)(C), (E), redesignated subsec. (c) as (e), substituted “COPS Director and the BJA Director” for “Director” and “has evidenced” for “and has evidenced”, and inserted before period at end “, and will use evidence-based strategies and programs, such as those identified by the Comprehensive School Safety Initiative of the Department of Justice”. Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 115–141, § 502(1)(C), (E), redesignated subsec. (c) as (e), substituted “COPS Director and the BJA Director” for “Director” and “has evidenced” for “and has evidenced”, and inserted before period at end “, and will use evidence-based strategies and programs, such as those identified by the Comprehensive School Safety Initiative of the Department of Justice”. Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 115–141, § 502(1)(C), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 115–141, § 502(1)(C), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 
-Subsec. (f)(1). Pub. L. 115–141, § 502(1)(F)(i), substituted “75 percent” for “50 percent”.
+Subsec. (f)(1). Pub. L. 115–141, § 502(1)(F)(i), substituted “75 percent” for “50 percent”.
 
-Subsec. (f)(3). Pub. L. 115–141, § 502(1)(F)(ii), substituted “COPS Director and the BJA Director may each” for “Director may”.
+Subsec. (f)(3). Pub. L. 115–141, § 502(1)(F)(ii), substituted “COPS Director and the BJA Director may each” for “Director may”.
 
-Subsec. (g). Pub. L. 115–141, § 502(1)(C), (G), redesignated subsec. (e) as (g) and substituted “COPS Director and the BJA shall each” for “Director shall”.
+Subsec. (g). Pub. L. 115–141, § 502(1)(C), (G), redesignated subsec. (e) as (g) and substituted “COPS Director and the BJA shall each” for “Director shall”.
 
-Subsec. (h). Pub. L. 115–141, § 502(1)(C), (H), redesignated subsec. (f) as (h) and substituted “COPS Director and the BJA Director may each” for “Director may”.
+Subsec. (h). Pub. L. 115–141, § 502(1)(C), (H), redesignated subsec. (f) as (h) and substituted “COPS Director and the BJA Director may each” for “Director may”.
 
 2016—Subsec. (b)(4) to (6). Pub. L. 114–255 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-2006—Subsec. (a). Pub. L. 109–271, § 8(j)(1), substituted “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’)” for “The Attorney General, acting through the Office of Community Oriented Policing Services,”.
+2006—Subsec. (a). Pub. L. 109–271, § 8(j)(1), substituted “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’)” for “The Attorney General, acting through the Office of Community Oriented Policing Services,”.
 
-Pub. L. 109–162 inserted “, acting through the Office of Community Oriented Policing Services,” after “The Attorney General”.
+Pub. L. 109–162 inserted “, acting through the Office of Community Oriented Policing Services,” after “The Attorney General”.
 
-Subsecs. (b) to (f). Pub. L. 109–271, § 8(j)(2), substituted “Director” for “Attorney General” wherever appearing.
+Subsecs. (b) to (f). Pub. L. 109–271, § 8(j)(2), substituted “Director” for “Attorney General” wherever appearing.
 
-### § 10552. Applications
+### § 10552. Applications
 
 **(a) In general** To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the COPS Director or the BJA Director, as the case may be, at such time, in such manner, and accompanied by such information as the COPS Director or the BJA Director may require. Each application shall—
 
@@ -12079,7 +12079,7 @@ Subsecs. (b) to (f). Pub. L. 109–271, § 8(j)(2), substituted “Director”
 
 Not later than 90 days after March 23, 2018, the COPS Director and the BJA Director shall each promulgate guidelines to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
 
-(Pub. L. 90–351, title I, § 2702, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–271, § 8(j)(2), Aug. 12, 2006, 120 Stat. 767; Pub. L. 115–141, div. S, title V, § 502(2), Mar. 23, 2018, 132 Stat. 1130.)
+(Pub. L. 90–351, title I, § 2702, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–271, § 8(j)(2), Aug. 12, 2006, 120 Stat. 767; Pub. L. 115–141, div. S, title V, § 502(2), Mar. 23, 2018, 132 Stat. 1130.)
 
 **Editorial Notes**
 
@@ -12089,17 +12089,17 @@ Section was formerly classified to section 3797b of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–141, § 502(2)(A)(i), in introductory provisions, substituted “the COPS Director or the BJA Director, as the case may be,” for “the Director” after “application to” and “the COPS Director or the BJA Director may” for “the Director may”.
+2018—Subsec. (a). Pub. L. 115–141, § 502(2)(A)(i), in introductory provisions, substituted “the COPS Director or the BJA Director, as the case may be,” for “the Director” after “application to” and “the COPS Director or the BJA Director may” for “the Director may”.
 
-Subsec. (a)(2). Pub. L. 115–141, § 502(2)(A)(iii)(I), substituted “licensed mental health professionals” for “child psychologists” in introductory provisions.
+Subsec. (a)(2). Pub. L. 115–141, § 502(2)(A)(iii)(I), substituted “licensed mental health professionals” for “child psychologists” in introductory provisions.
 
-Subsec. (a)(3), (4). Pub. L. 115–141, § 502(2)(A)(ii), (iii)(II), (iv), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 115–141, § 502(2)(A)(ii), (iii)(II), (iv), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 115–141, § 502(2)(B), substituted “March 23, 2018” for “October 28, 2000” and “COPS Director and the BJA Director shall each” for “Director shall”.
+Subsec. (b). Pub. L. 115–141, § 502(2)(B), substituted “March 23, 2018” for “October 28, 2000” and “COPS Director and the BJA Director shall each” for “Director shall”.
 
 2006—Pub. L. 109–271 substituted “Director” for “Attorney General” wherever appearing.
 
-### § 10553. Annual report to Congress; grant accountability
+### § 10553. Annual report to Congress; grant accountability
 
 **(a) Annual report**
 
@@ -12109,7 +12109,7 @@ Not later than November 30th of each year, the COPS Director and the BJA Directo
 
 Section 10706 of this title (relating to grant accountability) shall apply to grants awarded by the COPS Director and the BJA Director under this subchapter. For purposes of the preceding sentence, any references in section 10706 of this title to the Attorney General shall be considered references to the COPS Director or the BJA Director, as appropriate, and any references in that section to subchapter XXXVIII shall be considered references to this subchapter.
 
-(Pub. L. 90–351, title I, § 2703, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–271, § 8(j)(2), Aug. 12, 2006, 120 Stat. 767; Pub. L. 115–141, div. S, title V, § 502(3), Mar. 23, 2018, 132 Stat. 1130.)
+(Pub. L. 90–351, title I, § 2703, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–271, § 8(j)(2), Aug. 12, 2006, 120 Stat. 767; Pub. L. 115–141, div. S, title V, § 502(3), Mar. 23, 2018, 132 Stat. 1130.)
 
 **Editorial Notes**
 
@@ -12119,13 +12119,13 @@ Section was formerly classified to section 3797c of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Pub. L. 115–141, § 502(3)(A), inserted “; grant accountability” after “Congress” in section catchline.
+2018—Pub. L. 115–141, § 502(3)(A), inserted “; grant accountability” after “Congress” in section catchline.
 
-Pub. L. 115–141, § 502(3)(B)–(D), designated existing provisions as subsec. (a), inserted heading, substituted “COPS Director and the BJA Director shall each” for “Director shall”, and added subsec. (b).
+Pub. L. 115–141, § 502(3)(B)–(D), designated existing provisions as subsec. (a), inserted heading, substituted “COPS Director and the BJA Director shall each” for “Director shall”, and added subsec. (b).
 
 2006—Pub. L. 109–271 substituted “Director” for “Attorney General”.
 
-### § 10554. Definitions
+### § 10554. Definitions
 
 For purposes of this subchapter—
 
@@ -12159,7 +12159,7 @@ For purposes of this subchapter—
 
 **(5)** the term “tribal organization” has the same meaning given the term in section 5304(*l*) of title 25.
 
-(Pub. L. 90–351, title I, § 2704, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 115–141, div. S, title V, § 502(4), Mar. 23, 2018, 132 Stat. 1131.)
+(Pub. L. 90–351, title I, § 2704, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 115–141, div. S, title V, § 502(4), Mar. 23, 2018, 132 Stat. 1131.)
 
 **Editorial Notes**
 
@@ -12169,11 +12169,11 @@ Section was formerly classified to section 3797d of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Par. (1). Pub. L. 115–141, § 502(4)(A), substituted “an” for “a public” and inserted “, including a Bureau-funded school (as defined in section 2021 of title 25)” after “secondary school”.
+2018—Par. (1). Pub. L. 115–141, § 502(4)(A), substituted “an” for “a public” and inserted “, including a Bureau-funded school (as defined in section 2021 of title 25)” after “secondary school”.
 
-Pars. (4), (5). Pub. L. 115–141, § 502(4)(B)–(D), added pars. (4) and (5).
+Pars. (4), (5). Pub. L. 115–141, § 502(4)(B)–(D), added pars. (4) and (5).
 
-### § 10555. Authorization of appropriations
+### § 10555. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated—
 
@@ -12193,15 +12193,15 @@ Pars. (4), (5). Pub. L. 115–141, § 502(4)(B)–(D), added pars. (4) and (5)
 
 Any funds appropriated for the Comprehensive School Safety Initiative of the National Institute of Justice in fiscal year 2018 shall instead be used for the purposes in subsection (a).
 
-(Pub. L. 90–351, title I, § 2705, as added Pub. L. 115–141, div. S, title V, § 502(5), Mar. 23, 2018, 132 Stat. 1131.)
+(Pub. L. 90–351, title I, § 2705, as added Pub. L. 115–141, div. S, title V, § 502(5), Mar. 23, 2018, 132 Stat. 1131.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2705 of title I of Pub. L. 90–351, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–162, title XI, § 1169(a), Jan. 5, 2006, 119 Stat. 3122, was classified to section 3797e of Title 42, The Public Health and Welfare, prior to repeal by section 502(5) of title V of div. S of Pub. L. 115–141.
+A prior section 2705 of title I of Pub. L. 90–351, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–162, title XI, § 1169(a), Jan. 5, 2006, 119 Stat. 3122, was classified to section 3797e of Title 42, The Public Health and Welfare, prior to repeal by section 502(5) of title V of div. S of Pub. L. 115–141.
 
-### § 10556. Rules of construction
+### § 10556. Rules of construction
 
 **(a) No funds to provide firearms or training**
 
@@ -12211,15 +12211,15 @@ No amounts provided as a grant under this subchapter may be used for the provisi
 
 Nothing in this subchapter may be construed to preclude or contradict any other provision of law authorizing the provision of firearms or training in the use of firearms.
 
-(Pub. L. 90–351, title I, § 2706, as added Pub. L. 115–141, div. S, title V, § 502(6), Mar. 23, 2018, 132 Stat. 1132.)
+(Pub. L. 90–351, title I, § 2706, as added Pub. L. 115–141, div. S, title V, § 502(6), Mar. 23, 2018, 132 Stat. 1132.)
 
 ## SUBCHAPTER XXVII—PAUL COVERDELL FORENSIC SCIENCES IMPROVEMENT GRANTS
 
-### § 10561. Grant authorization
+### § 10561. Grant authorization
 
 The Attorney General shall award grants to States and units of local government in accordance with this subchapter.
 
-(Pub. L. 90–351, title I, § 2801, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, § 5001(b)(1), Nov. 2, 2002, 116 Stat. 1813.)
+(Pub. L. 90–351, title I, § 2801, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, § 5001(b)(1), Nov. 2, 2002, 116 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -12231,7 +12231,7 @@ Section was formerly classified to section 3797j of Title 42, The Public Health 
 
 2002—Pub. L. 107–273 inserted “and units of local government” after “States”.
 
-### § 10562. Applications
+### § 10562. Applications
 
 To request a grant under this subchapter, a State or unit of local government shall submit to the Attorney General—
 
@@ -12243,7 +12243,7 @@ To request a grant under this subchapter, a State or unit of local government sh
 
 **(4)** a certification that a government entity exists and an appropriate process is in place to conduct independent external investigations into allegations of serious negligence or misconduct substantially affecting the integrity of the forensic results committed by employees or contractors of any forensic laboratory system, medical examiner’s office, coroner’s office, law enforcement storage facility, or medical facility in the State that will receive a portion of the grant amount.
 
-(Pub. L. 90–351, title I, § 2802, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, § 5001(b)(2), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–405, title III, § 311(b), Oct. 30, 2004, 118 Stat. 2277; Pub. L. 114–324, § 9(a)(1), Dec. 16, 2016, 130 Stat. 1954.)
+(Pub. L. 90–351, title I, § 2802, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, § 5001(b)(2), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–405, title III, § 311(b), Oct. 30, 2004, 118 Stat. 2277; Pub. L. 114–324, § 9(a)(1), Dec. 16, 2016, 130 Stat. 1954.)
 
 **Editorial Notes**
 
@@ -12257,15 +12257,15 @@ Section was formerly classified to section 3797k of Title 42, The Public Health 
 
 2004—Par. (4). Pub. L. 108–405 added par. (4).
 
-2002—Pub. L. 107–273, § 5001(b)(2)(A), inserted “or unit of local government” after “State” in introductory provisions.
+2002—Pub. L. 107–273, § 5001(b)(2)(A), inserted “or unit of local government” after “State” in introductory provisions.
 
-Par. (1). Pub. L. 107–273, § 5001(b)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a certification that the State has developed a consolidated State plan for forensic science laboratories operated by the State or by other units of local government within the State under a program described in section 3797m(a) of this title, and a specific description of the manner in which the grant will be used to carry out that plan;”.
+Par. (1). Pub. L. 107–273, § 5001(b)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a certification that the State has developed a consolidated State plan for forensic science laboratories operated by the State or by other units of local government within the State under a program described in section 3797m(a) of this title, and a specific description of the manner in which the grant will be used to carry out that plan;”.
 
-Par. (2). Pub. L. 107–273, § 5001(b)(2)(C), inserted “or appropriate certifying bodies” after “accrediting organizations”.
+Par. (2). Pub. L. 107–273, § 5001(b)(2)(C), inserted “or appropriate certifying bodies” after “accrediting organizations”.
 
-Par. (3). Pub. L. 107–273, § 5001(b)(2)(D), inserted “for a State or local plan” after “program”.
+Par. (3). Pub. L. 107–273, § 5001(b)(2)(D), inserted “for a State or local plan” after “program”.
 
-### § 10563. Allocation
+### § 10563. Allocation
 
 **(a) In general**
 
@@ -12291,7 +12291,7 @@ If the amounts available to carry out this subchapter in each fiscal year are in
 
 **(2)** for purposes of paragraph (1), 67 percent of the amount allocated shall be allocated to American Samoa, and 33 percent shall be allocated to the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 90–351, title I, § 2803, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, § 5001(b)(3), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 114–324, § 9(a)(2), Dec. 16, 2016, 130 Stat. 1955.)
+(Pub. L. 90–351, title I, § 2803, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, § 5001(b)(3), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 114–324, § 9(a)(2), Dec. 16, 2016, 130 Stat. 1955.)
 
 **Editorial Notes**
 
@@ -12301,15 +12301,15 @@ Section was formerly classified to section 3797*l* of Title 42, The Public Healt
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–324, § 9(a)(2)(A), substituted “Eighty-five percent” for “Seventy-five percent” and “85 percent” for “75 percent”.
+2016—Subsec. (a)(1). Pub. L. 114–324, § 9(a)(2)(A), substituted “Eighty-five percent” for “Seventy-five percent” and “85 percent” for “75 percent”.
 
-Subsec. (a)(2). Pub. L. 114–324, § 9(a)(2)(B), substituted “Fifteen percent” for “Twenty-five percent”.
+Subsec. (a)(2). Pub. L. 114–324, § 9(a)(2)(B), substituted “Fifteen percent” for “Twenty-five percent”.
 
-Subsec. (a)(3). Pub. L. 114–324, § 9(a)(2)(C), substituted “1 percent” for “0.6 percent”.
+Subsec. (a)(3). Pub. L. 114–324, § 9(a)(2)(C), substituted “1 percent” for “0.6 percent”.
 
 2002—Subsec. (a)(2). Pub. L. 107–273 substituted “for competitive awards to States and units of local government. In making awards under this subchapter, the Attorney General shall consider the average annual number of part 1 violent crimes reported by each State to the Federal Bureau of Investigation for the 3 most recent calendar years for which data is available and consider the existing resources and current needs of the potential grant recipient” for “to States with above average rates of part 1 violent crimes based on the average annual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available”.
 
-### § 10564. Use of grants
+### § 10564. Use of grants
 
 **(a) In general** A State or unit of local government that receives a grant under this subchapter shall use the grant to do any one or more of the following:
 
@@ -12353,7 +12353,7 @@ Not more than 10 percent of the total amount of a grant awarded under this subch
 
 **(2)** has not been subjected to all appropriate forensic testing because of a lack of resources or personnel.
 
-(Pub. L. 90–351, title I, § 2804, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2789; amended Pub. L. 107–273, div. B, title V, § 5001(b)(4), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 108–405, title III, § 311(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 114–324, § 9(a)(3), Dec. 16, 2016, 130 Stat. 1955.)
+(Pub. L. 90–351, title I, § 2804, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2789; amended Pub. L. 107–273, div. B, title V, § 5001(b)(4), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 108–405, title III, § 311(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 114–324, § 9(a)(3), Dec. 16, 2016, 130 Stat. 1955.)
 
 **Editorial Notes**
 
@@ -12363,27 +12363,27 @@ Section was formerly classified to section 3797m of Title 42, The Public Health 
 
 **Amendments**
 
-2016—Subsec. (a)(2). Pub. L. 114–324, § 9(a)(3)(A), inserted “impression evidence,” after “latent prints,” and “digital evidence, fire evidence,” after “toxicology,”.
+2016—Subsec. (a)(2). Pub. L. 114–324, § 9(a)(3)(A), inserted “impression evidence,” after “latent prints,” and “digital evidence, fire evidence,” after “toxicology,”.
 
-Subsec. (a)(3). Pub. L. 114–324, § 9(a)(3)(B), inserted “and medicolegal death investigators” after “laboratory personnel”.
+Subsec. (a)(3). Pub. L. 114–324, § 9(a)(3)(B), inserted “and medicolegal death investigators” after “laboratory personnel”.
 
-Subsec. (a)(4) to (6). Pub. L. 114–324, § 9(a)(3)(C), added pars. (4) to (6).
+Subsec. (a)(4) to (6). Pub. L. 114–324, § 9(a)(3)(C), added pars. (4) to (6).
 
-2004—Subsec. (a). Pub. L. 108–405, § 311(a)(1), substituted “shall use the grant to do any one or more of the following:
+2004—Subsec. (a). Pub. L. 108–405, § 311(a)(1), substituted “shall use the grant to do any one or more of the following:
 
 “(1) To carry out”
 
 for “shall use the grant to carry out” and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 108–405, § 311(a)(2), substituted “for the purpose set forth in subsection (a)(1)” for “under this subchapter” in introductory provisions.
+Subsec. (b). Pub. L. 108–405, § 311(a)(2), substituted “for the purpose set forth in subsection (a)(1)” for “under this subchapter” in introductory provisions.
 
-Subsec. (e). Pub. L. 108–405, § 311(a)(3), added subsec. (e).
+Subsec. (e). Pub. L. 108–405, § 311(a)(3), added subsec. (e).
 
-2002—Subsec. (a). Pub. L. 107–273, § 5001(b)(4)(A), inserted “or unit of local government” after “A State”.
+2002—Subsec. (a). Pub. L. 107–273, § 5001(b)(4)(A), inserted “or unit of local government” after “A State”.
 
-Subsec. (c)(1). Pub. L. 107–273, § 5001(b)(4)(B), inserted “(including grants received by units of local government within a State)” after “under this subchapter”.
+Subsec. (c)(1). Pub. L. 107–273, § 5001(b)(4)(B), inserted “(including grants received by units of local government within a State)” after “under this subchapter”.
 
-### § 10565. Administrative provisions
+### § 10565. Administrative provisions
 
 **(a) Regulations**
 
@@ -12399,7 +12399,7 @@ Each State, or unit of local government within the State, that receives a grant 
 
 The Attorney General and the Comptroller General of the United States, or a designee thereof, shall have access, for the purpose of audit and examination, to any book, document, or record of a State, or unit of local government within the State, that receives a grant under this subchapter, if, in the determination of the Attorney General, Comptroller General, or designee thereof, the book, document, or record is related to the receipt of the grant, or the use of the grant amount.
 
-(Pub. L. 90–351, title I, § 2805, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2790.)
+(Pub. L. 90–351, title I, § 2805, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2790.)
 
 **Editorial Notes**
 
@@ -12407,7 +12407,7 @@ The Attorney General and the Comptroller General of the United States, or a desi
 
 Section was formerly classified to section 3797n of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10566. Reports
+### § 10566. Reports
 
 **(a) Reports to Attorney General** For each fiscal year for which a grant is awarded under this subchapter, each State or unit of local government that receives such a grant shall submit to the Attorney General a report, at such time and in such manner as the Attorney General may reasonably require, which report shall include—
 
@@ -12427,7 +12427,7 @@ Section was formerly classified to section 3797n of Title 42, The Public Health 
 
 **(2)** a summary of the information provided under subsection (a).
 
-(Pub. L. 90–351, title I, § 2806, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2790; amended Pub. L. 107–273, div. B, title V, § 5001(b)(5), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 114–324, § 9(a)(4), Dec. 16, 2016, 130 Stat. 1955.)
+(Pub. L. 90–351, title I, § 2806, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2790; amended Pub. L. 107–273, div. B, title V, § 5001(b)(5), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 114–324, § 9(a)(4), Dec. 16, 2016, 130 Stat. 1955.)
 
 **Editorial Notes**
 
@@ -12439,11 +12439,11 @@ Section was formerly classified to section 3797*o* of Title 42, The Public Healt
 
 2016—Subsec. (a)(4), (5). Pub. L. 114–324 added par. (4) and redesignated former par. (4) as (5).
 
-2002—Subsec. (a). Pub. L. 107–273, § 5001(b)(5)(A), inserted “or unit of local government” after “each State” in introductory provisions.
+2002—Subsec. (a). Pub. L. 107–273, § 5001(b)(5)(A), inserted “or unit of local government” after “each State” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 107–273, § 5001(b)(5)(B), inserted “, which shall include a comparison of pre-grant and post-grant forensic science capabilities” before semicolon at end.
+Subsec. (a)(1). Pub. L. 107–273, § 5001(b)(5)(B), inserted “, which shall include a comparison of pre-grant and post-grant forensic science capabilities” before semicolon at end.
 
-Subsec. (a)(3), (4). Pub. L. 107–273, § 5001(b)(5)(C)–(E), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 107–273, § 5001(b)(5)(C)–(E), added par. (3) and redesignated former par. (3) as (4).
 
 ## SUBCHAPTER XXVIII—MENTAL HEALTH AND DRUG TREATMENT ALTERNATIVES TO INCARCERATION PROGRAMS
 
@@ -12451,31 +12451,31 @@ Subsec. (a)(3), (4). Pub. L. 107–273, § 5001(b)(5)(C)–(E), added par. (3)
 
 **Codification**
 
-Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298, substituted “MENTAL HEALTH AND DRUG TREATMENT ALTERNATIVES TO INCARCERATION PROGRAMS” for “PROSECUTION DRUG TREATMENT ALTERNATIVE TO PRISON PROGRAM” in subchapter heading.
+Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298, substituted “MENTAL HEALTH AND DRUG TREATMENT ALTERNATIVES TO INCARCERATION PROGRAMS” for “PROSECUTION DRUG TREATMENT ALTERNATIVE TO PRISON PROGRAM” in subchapter heading.
 
-### § 10581. Repealed. Pub. L. 115–391, title V, § 504(g)(2), Dec. 21, 2018, 132 Stat. 5234
+### § 10581. Repealed. Pub. L. 115–391, title V, § 504(g)(2), Dec. 21, 2018, 132 Stat. 5234
 
-Section, Pub. L. 90–351, title I, § 2901, as added Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298, related to mental health and drug treatment alternatives to incarceration programs.
+Section, Pub. L. 90–351, title I, § 2901, as added Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298, related to mental health and drug treatment alternatives to incarceration programs.
 
 Section was formerly classified to section 3797q of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-A prior section 2901 of title I of Pub. L. 90–351, as added Pub. L. 110–199, title I, § 112(a), Apr. 9, 2008, 122 Stat. 672, authorized the Attorney General to make grants for qualified drug treatment programs as alternatives to imprisonment, prior to repeal by Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298.
+A prior section 2901 of title I of Pub. L. 90–351, as added Pub. L. 110–199, title I, § 112(a), Apr. 9, 2008, 122 Stat. 672, authorized the Attorney General to make grants for qualified drug treatment programs as alternatives to imprisonment, prior to repeal by Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298.
 
 ## SUBCHAPTER XXIX—GRANTS FOR FAMILY-BASED SUBSTANCE ABUSE TREATMENT
 
-### § 10591. Grants authorized
+### § 10591. Grants authorized
 
 The Attorney General may make grants to States, units of local government, territories, nonprofit organizations, and Indian Tribes to—
 
 **(1)** develop, implement, and expand comprehensive and clinically-appropriate family-based substance abuse treatment programs as alternatives to incarceration for nonviolent parent drug offenders; and
 
-**(2)** to 1
+**(2)** to 1
 
-<sup>1</sup>  So in original. The word “to” probably should not appear.
+<sup>1</sup> So in original. The word “to” probably should not appear.
 
 provide prison-based family treatment programs for incarcerated parents of minor children or pregnant women.
 
-(Pub. L. 90–351, title I, § 2921, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 674; amended Pub. L. 114–198, title II, § 201(c)(1), July 22, 2016, 130 Stat. 714; Pub. L. 115–391, title V, § 502(b)(1), Dec. 21, 2018, 132 Stat. 5228.)
+(Pub. L. 90–351, title I, § 2921, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 674; amended Pub. L. 114–198, title II, § 201(c)(1), July 22, 2016, 130 Stat. 714; Pub. L. 115–391, title V, § 502(b)(1), Dec. 21, 2018, 132 Stat. 5228.)
 
 **Editorial Notes**
 
@@ -12495,7 +12495,7 @@ Section was formerly classified to section 3797s of Title 42, The Public Health 
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10592. Use of grant funds
+### § 10592. Use of grant funds
 
 Grants made to an entity under section 10591 of this title for a program described in such section may be used for—
 
@@ -12509,7 +12509,7 @@ Grants made to an entity under section 10591 of this title for a program describ
 
 **(5)** salaries, personnel costs, facility costs, and other costs directly related to the operation of that program.
 
-(Pub. L. 90–351, title I, § 2922, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 675.)
+(Pub. L. 90–351, title I, § 2922, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 675.)
 
 **Editorial Notes**
 
@@ -12523,7 +12523,7 @@ Section was formerly classified to section 3797s–1 of Title 42, The Public Hea
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10593. Program requirements
+### § 10593. Program requirements
 
 **(a) In general** A program for which a grant is made under section 10591(1) of this title shall comply with the following requirements:
 
@@ -12557,7 +12557,7 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
 **(2)** with the local corrections agencies, which shall be documented by a written agreement that details the terms of access to facilities and participants and provides information on the history of the organization of working with correctional populations.
 
-(Pub. L. 90–351, title I, § 2923, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 675; amended Pub. L. 115–391, title V, § 502(b)(2), Dec. 21, 2018, 132 Stat. 5228.)
+(Pub. L. 90–351, title I, § 2923, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 675; amended Pub. L. 115–391, title V, § 502(b)(2), Dec. 21, 2018, 132 Stat. 5228.)
 
 **Editorial Notes**
 
@@ -12575,7 +12575,7 @@ Section was formerly classified to section 3797s–2 of Title 42, The Public Hea
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10594. Applications
+### § 10594. Applications
 
 **(a) In general**
 
@@ -12585,7 +12585,7 @@ An entity described in section 10591 of this title desiring a grant under this s
 
 An application under subsection (a) shall include a description of the methods and measurements the applicant will use for purposes of evaluating the program involved.
 
-(Pub. L. 90–351, title I, § 2924, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676.)
+(Pub. L. 90–351, title I, § 2924, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676.)
 
 **Editorial Notes**
 
@@ -12599,7 +12599,7 @@ Section was formerly classified to section 3797s–3 of Title 42, The Public Hea
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10595. Reports
+### § 10595. Reports
 
 An entity that receives a grant under this subchapter during a fiscal year shall submit to the Attorney General, not later than a date specified by the Attorney General, a report that describes and evaluates the effectiveness of that program during such fiscal year that—
 
@@ -12607,7 +12607,7 @@ An entity that receives a grant under this subchapter during a fiscal year shall
 
 **(2)** uses the methods and measurements described in the application of that entity for purposes of evaluating that program.
 
-(Pub. L. 90–351, title I, § 2925, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676.)
+(Pub. L. 90–351, title I, § 2925, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676.)
 
 **Editorial Notes**
 
@@ -12621,7 +12621,7 @@ Section was formerly classified to section 3797s–4 of Title 42, The Public Hea
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10595a. Authorization of appropriations
+### § 10595a. Authorization of appropriations
 
 **(a) In general**
 
@@ -12631,7 +12631,7 @@ There are authorized to be appropriated to carry out this subchapter $10,000,000
 
 Of the amount made available to carry out this subchapter in any fiscal year, not less than 5 percent shall be used for grants to Indian Tribes.
 
-(Pub. L. 90–351, title I, § 2926, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676; amended Pub. L. 115–391, title V, § 502(b)(3), Dec. 21, 2018, 132 Stat. 5228.)
+(Pub. L. 90–351, title I, § 2926, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676; amended Pub. L. 115–391, title V, § 502(b)(3), Dec. 21, 2018, 132 Stat. 5228.)
 
 **Editorial Notes**
 
@@ -12649,7 +12649,7 @@ Section was formerly classified to section 3797s–5 of Title 42, The Public Hea
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10596. Definitions
+### § 10596. Definitions
 
 In this subchapter:
 
@@ -12669,7 +12669,7 @@ In this subchapter:
 
 The term “prison-based family treatment program” means a program for incarcerated parents or pregnant women in a correctional facility that provides a comprehensive response to offender needs, including substance abuse treatment, child early intervention services, family counseling, legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, physical therapy, prenatal care, sexual abuse therapy, relapse prevention, transportation, and vocational or GED training.
 
-(Pub. L. 90–351, title I, § 2927, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676; amended Pub. L. 114–198, title II, § 201(c)(2), July 22, 2016, 130 Stat. 714; Pub. L. 114–255, div. B, title XIV, § 14028(b), Dec. 13, 2016, 130 Stat. 1312.)
+(Pub. L. 90–351, title I, § 2927, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676; amended Pub. L. 114–198, title II, § 201(c)(2), July 22, 2016, 130 Stat. 714; Pub. L. 114–255, div. B, title XIV, § 14028(b), Dec. 13, 2016, 130 Stat. 1312.)
 
 **Editorial Notes**
 
@@ -12679,11 +12679,11 @@ Section was formerly classified to section 3797s–6 of Title 42, The Public Hea
 
 **Amendments**
 
-2016—Par. (1)(A). Pub. L. 114–198, § 201(c)(2)(A), inserted “pregnant or” before “a parent”.
+2016—Par. (1)(A). Pub. L. 114–198, § 201(c)(2)(A), inserted “pregnant or” before “a parent”.
 
 Par. (2). Pub. L. 114–255 substituted “means an offense that—” and subpars. (A) and (B) for “has the meaning given that term in section 3797aa(a) of this title.”
 
-Par. (3). Pub. L. 114–198, § 201(c)(2)(B), inserted “or pregnant women” after “incarcerated parents”.
+Par. (3). Pub. L. 114–198, § 201(c)(2)(B), inserted “or pregnant women” after “incarcerated parents”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12697,9 +12697,9 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
 **Codification**
 
-Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1794, which directed that part EE (this subchapter) be inserted after part DD of title I of Pub. L. 90–351, was executed by adding part EE to title I of Pub. L. 90–351 to reflect the probable intent of Congress, notwithstanding that title I of Pub. L. 90–351 did not contain a part DD.
+Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1794, which directed that part EE (this subchapter) be inserted after part DD of title I of Pub. L. 90–351, was executed by adding part EE to title I of Pub. L. 90–351 to reflect the probable intent of Congress, notwithstanding that title I of Pub. L. 90–351 did not contain a part DD.
 
-### § 10611. Grant authority
+### § 10611. Grant authority
 
 **(a) In general** The Attorney General may make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or private entities, for adult drug courts, juvenile drug courts, family drug courts, and tribal drug courts that involve—
 
@@ -12767,7 +12767,7 @@ Economic sanctions imposed on an offender pursuant to this section shall not be 
 
 **(N)** Anger management classes.
 
-(Pub. L. 90–351, title I, § 2951, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1794; amended Pub. L. 109–162, title XI, § 1143, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 109–177, title VII, § 751, Mar. 9, 2006, 120 Stat. 273; Pub. L. 114–255, div. B, title XIV, § 14007(1), Dec. 13, 2016, 130 Stat. 1296.)
+(Pub. L. 90–351, title I, § 2951, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1794; amended Pub. L. 109–162, title XI, § 1143, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 109–177, title VII, § 751, Mar. 9, 2006, 120 Stat. 273; Pub. L. 114–255, div. B, title XIV, § 14007(1), Dec. 13, 2016, 130 Stat. 1296.)
 
 **Editorial Notes**
 
@@ -12777,13 +12777,13 @@ Section was formerly classified to section 3797u of Title 42, The Public Health 
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–255 inserted “, including co-occurring substance abuse and mental health problems,” after “abuse problems”.
+2016—Subsec. (a)(1). Pub. L. 114–255 inserted “, including co-occurring substance abuse and mental health problems,” after “abuse problems”.
 
 2006—Subsec. (a)(1). Pub. L. 109–162 substituted “offenders, and other individuals under the jurisdiction of the court, with substance abuse problems” for “offenders with substance abuse problems”.
 
 Subsec. (c). Pub. L. 109–177 added subsec. (c).
 
-### § 10612. Prohibition of participation by violent offenders
+### § 10612. Prohibition of participation by violent offenders
 
 The Attorney General shall—
 
@@ -12791,7 +12791,7 @@ The Attorney General shall—
 
 **(2)** immediately suspend funding for any grant under this subchapter, pending compliance, if the Attorney General finds that violent offenders are participating in any program funded under this subchapter.
 
-(Pub. L. 90–351, title I, § 2952, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1795.)
+(Pub. L. 90–351, title I, § 2952, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1795.)
 
 **Editorial Notes**
 
@@ -12803,9 +12803,9 @@ Section was formerly classified to section 3797u–1 of Title 42, The Public Hea
 
 **Regulations**
 
-Pub. L. 110–199, title I, § 103(c), Apr. 9, 2008, 122 Stat. 668, provided that: “Not later than 90 days after the date of the enactment of this Act [Apr. 9, 2008], the Secretary [probably should be “the Attorney General”] shall revise any regulations or guidelines described in section 2952 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797u–1) [now 34 U.S.C. 10612] in accordance with the amendments made by subsection (a) [amending section 10613 of this title]. Such regulations shall specify that grant amounts under part EE of such Act [34 U.S.C. 10611 et seq.] shall be reduced for any drug court that does not adopt the definition of ‘violent offender’ under such part, as amended by subsection (a) of this section, within 3 years after such date of enactment.”
+Pub. L. 110–199, title I, § 103(c), Apr. 9, 2008, 122 Stat. 668, provided that: “Not later than 90 days after the date of the enactment of this Act [Apr. 9, 2008], the Secretary [probably should be “the Attorney General”] shall revise any regulations or guidelines described in section 2952 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797u–1) [now 34 U.S.C. 10612] in accordance with the amendments made by subsection (a) [amending section 10613 of this title]. Such regulations shall specify that grant amounts under part EE of such Act [34 U.S.C. 10611 et seq.] shall be reduced for any drug court that does not adopt the definition of ‘violent offender’ under such part, as amended by subsection (a) of this section, within 3 years after such date of enactment.”
 
-### § 10613. Definition
+### § 10613. Definition
 
 **(a) In general** Except as provided in subsection (b), in this subchapter, the term “violent offender” means a person who—
 
@@ -12825,7 +12825,7 @@ Pub. L. 110–199, title I, § 103(c), Apr. 9, 2008, 122 Stat. 668, provided t
 
 **(2)** by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
-(Pub. L. 90–351, title I, § 2953, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1795; amended Pub. L. 109–162, title XI, § 1141, Jan. 5, 2006, 119 Stat. 3110; Pub. L. 110–199, title I, § 103(a), Apr. 9, 2008, 122 Stat. 668.)
+(Pub. L. 90–351, title I, § 2953, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1795; amended Pub. L. 109–162, title XI, § 1141, Jan. 5, 2006, 119 Stat. 3110; Pub. L. 110–199, title I, § 103(a), Apr. 9, 2008, 122 Stat. 668.)
 
 **Editorial Notes**
 
@@ -12847,9 +12847,9 @@ For construction of amendments and provisions set out as a note below by Pub. L.
 
 **Period for Compliance**
 
-Pub. L. 110–199, title I, § 103(b), Apr. 9, 2008, 122 Stat. 668, provided that: “Notwithstanding section 2952(2) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797u–1(2)) [now 34 U.S.C. 10612(2)], each grantee under part EE of such Act [34 U.S.C. 10611 et seq.] shall have not more than 3 years from the date of the enactment of this Act [Apr. 9, 2008] to adopt the definition of ‘violent offender’ under such part, as amended by subsection (a) of this section [amending this section].”
+Pub. L. 110–199, title I, § 103(b), Apr. 9, 2008, 122 Stat. 668, provided that: “Notwithstanding section 2952(2) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797u–1(2)) [now 34 U.S.C. 10612(2)], each grantee under part EE of such Act [34 U.S.C. 10611 et seq.] shall have not more than 3 years from the date of the enactment of this Act [Apr. 9, 2008] to adopt the definition of ‘violent offender’ under such part, as amended by subsection (a) of this section [amending this section].”
 
-### § 10614. Administration
+### § 10614. Administration
 
 **(a) Consultation**
 
@@ -12881,7 +12881,7 @@ The Attorney General may issue regulations and guidelines necessary to carry out
 
 **(8)** describe the methodology that will be used in evaluating the program.
 
-(Pub. L. 90–351, title I, § 2954, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1796.)
+(Pub. L. 90–351, title I, § 2954, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1796.)
 
 **Editorial Notes**
 
@@ -12889,11 +12889,11 @@ The Attorney General may issue regulations and guidelines necessary to carry out
 
 Section was formerly classified to section 3797u–3 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10615. Applications
+### § 10615. Applications
 
 To request funds under this subchapter, the chief executive or the chief justice of a State or the chief executive or judge of a unit of local government or Indian tribal government, or the chief judge of a State court or the judge of a local court or Indian tribal court shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
 
-(Pub. L. 90–351, title I, § 2955, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797.)
+(Pub. L. 90–351, title I, § 2955, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797.)
 
 **Editorial Notes**
 
@@ -12901,7 +12901,7 @@ To request funds under this subchapter, the chief executive or the chief justice
 
 Section was formerly classified to section 3797u–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10616. Federal share
+### § 10616. Federal share
 
 **(a) In general**
 
@@ -12911,7 +12911,7 @@ The Federal share of a grant made under this subchapter may not exceed 75 percen
 
 In-kind contributions may constitute a portion of the non-Federal share of a grant.
 
-(Pub. L. 90–351, title I, § 2956, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797.)
+(Pub. L. 90–351, title I, § 2956, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797.)
 
 **Editorial Notes**
 
@@ -12919,7 +12919,7 @@ In-kind contributions may constitute a portion of the non-Federal share of a gra
 
 Section was formerly classified to section 3797u–5 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10617. Distribution and allocation
+### § 10617. Distribution and allocation
 
 **(a) Geographic distribution**
 
@@ -12929,7 +12929,7 @@ The Attorney General shall ensure that, to the extent practicable, an equitable 
 
 Unless one or more applications submitted by any State or unit of local government within such State (other than an Indian tribe) for a grant under this subchapter has been funded in any fiscal year, such State, together with eligible applicants within such State, shall be provided targeted technical assistance and training by the Bureau of Justice Assistance to assist such State and such eligible applicants to successfully compete for future funding under this subchapter, and to strengthen existing State drug court systems. In providing such technical assistance and training, the Bureau of Justice Assistance shall consider and respond to the unique needs of rural States, rural areas and rural communities.
 
-(Pub. L. 90–351, title I, § 2957, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797; amended Pub. L. 109–162, title XI, § 1142(a), Jan. 5, 2006, 119 Stat. 3110; Pub. L. 109–271, § 8(*l*), Aug. 12, 2006, 120 Stat. 767.)
+(Pub. L. 90–351, title I, § 2957, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797; amended Pub. L. 109–162, title XI, § 1142(a), Jan. 5, 2006, 119 Stat. 3110; Pub. L. 109–271, § 8(*l*), Aug. 12, 2006, 120 Stat. 767.)
 
 **Editorial Notes**
 
@@ -12943,11 +12943,11 @@ Section was formerly classified to section 3797u–6 of Title 42, The Public Hea
 
 Pub. L. 109–162 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Unless all eligible applications submitted by any State or unit of local government within such State for a grant under this subchapter have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this subchapter not less than 0.50 percent of the total amount appropriated in the fiscal year for grants pursuant to this subchapter.”
 
-### § 10618. Report
+### § 10618. Report
 
 A State, Indian tribal government, or unit of local government that receives funds under this subchapter during a fiscal year shall submit to the Attorney General a description and an evaluation report on a date specified by the Attorney General regarding the effectiveness of this subchapter.
 
-(Pub. L. 90–351, title I, § 2958, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797.)
+(Pub. L. 90–351, title I, § 2958, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797.)
 
 **Editorial Notes**
 
@@ -12955,7 +12955,7 @@ A State, Indian tribal government, or unit of local government that receives fun
 
 Section was formerly classified to section 3797u–7 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10619. Technical assistance, training, and evaluation
+### § 10619. Technical assistance, training, and evaluation
 
 **(a) Technical assistance and training**
 
@@ -12969,7 +12969,7 @@ In addition to any evaluation requirements that may be prescribed for grantees (
 
 The technical assistance, training, and evaluations authorized by this section may be carried out directly by the Attorney General, in collaboration with the Secretary of Health and Human Services, or through grants, contracts, or other cooperative arrangements with other entities.
 
-(Pub. L. 90–351, title I, § 2959, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797; amended Pub. L. 114–255, div. B, title XIV, § 14007(2), Dec. 13, 2016, 130 Stat. 1296.)
+(Pub. L. 90–351, title I, § 2959, as added Pub. L. 107–273, div. B, title II, § 2301(a), Nov. 2, 2002, 116 Stat. 1797; amended Pub. L. 114–255, div. B, title XIV, § 14007(2), Dec. 13, 2016, 130 Stat. 1296.)
 
 **Editorial Notes**
 
@@ -12979,11 +12979,11 @@ Section was formerly classified to section 3797u–8 of Title 42, The Public Hea
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–255 inserted before period at end “, including training for drug court personnel and officials on identifying and addressing co-occurring substance abuse and mental health problems”.
+2016—Subsec. (a). Pub. L. 114–255 inserted before period at end “, including training for drug court personnel and officials on identifying and addressing co-occurring substance abuse and mental health problems”.
 
 ## SUBCHAPTER XXXI—OFFENDER REENTRY AND COMMUNITY SAFETY
 
-### § 10631. Adult and juvenile offender State and local reentry demonstration projects
+### § 10631. Adult and juvenile offender State and local reentry demonstration projects
 
 **(a) Grant authorization**
 
@@ -13197,9 +13197,9 @@ Each applicant for an implementation grant under subsection (f) shall identify i
 
 **(2) Performance outcomes** The performance outcomes identified under paragraph (1) shall include, with respect to offenders released back into the community—
 
-**(A)** reduction in recidivism rates, which shall be reported in accordance with the measure selected by the Director of the Bureau of Justice Statistics under section 60541(d)(3)(B) 1
+**(A)** reduction in recidivism rates, which shall be reported in accordance with the measure selected by the Director of the Bureau of Justice Statistics under section 60541(d)(3)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -13377,7 +13377,7 @@ The Attorney General shall ensure that grants awarded under this section are equ
 
 **(6)** establishes and implements graduated sanctions and incentives.
 
-(Pub. L. 90–351, title I, § 2976, as added Pub. L. 107–273, div. B, title II, § 2421(a), Nov. 2, 2002, 116 Stat. 1801; amended Pub. L. 110–199, title I, § 101, Apr. 9, 2008, 122 Stat. 661; Pub. L. 114–255, div. B, title XIV, §§ 14006, 14009(a), Dec. 13, 2016, 130 Stat. 1296, 1297; Pub. L. 115–391, title V, § 502(a), Dec. 21, 2018, 132 Stat. 5222.)
+(Pub. L. 90–351, title I, § 2976, as added Pub. L. 107–273, div. B, title II, § 2421(a), Nov. 2, 2002, 116 Stat. 1801; amended Pub. L. 110–199, title I, § 101, Apr. 9, 2008, 122 Stat. 661; Pub. L. 114–255, div. B, title XIV, §§ 14006, 14009(a), Dec. 13, 2016, 130 Stat. 1296, 1297; Pub. L. 115–391, title V, § 502(a), Dec. 21, 2018, 132 Stat. 5222.)
 
 **Editorial Notes**
 
@@ -13391,27 +13391,27 @@ Section was formerly classified to section 3797w of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–391, § 502(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Attorney General shall make grants of up to $1,000,000 to States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.”
+2018—Subsec. (a). Pub. L. 115–391, § 502(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Attorney General shall make grants of up to $1,000,000 to States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.”
 
-Subsec. (b)(3). Pub. L. 115–391, § 502(a)(2)(A), inserted “or reentry courts,” after “community,”.
+Subsec. (b)(3). Pub. L. 115–391, § 502(a)(2)(A), inserted “or reentry courts,” after “community,”.
 
-Subsec. (b)(8). Pub. L. 115–391, § 502(a)(2)(B)–(D), added par. (8).
+Subsec. (b)(8). Pub. L. 115–391, § 502(a)(2)(B)–(D), added par. (8).
 
-Subsecs. (d) to (f). Pub. L. 115–391, § 502(a)(3), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to applications, requirements, and priority considerations for grants, respectively.
+Subsecs. (d) to (f). Pub. L. 115–391, § 502(a)(3), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to applications, requirements, and priority considerations for grants, respectively.
 
-Subsec. (h)(1), (2). Pub. L. 115–391, § 502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text of former par. (1) read as follows: “As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.” Former par. (2) redesignated (3).
+Subsec. (h)(1), (2). Pub. L. 115–391, § 502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text of former par. (1) read as follows: “As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.” Former par. (2) redesignated (3).
 
-Subsec. (h)(3), (4). Pub. L. 115–391, § 502(a)(4)(A), redesignated pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (h)(3), (4). Pub. L. 115–391, § 502(a)(4)(A), redesignated pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (i)(1). Pub. L. 115–391, § 502(a)(5)(A), substituted “under subsection (f)” for “under this section” in introductory provisions.
+Subsec. (i)(1). Pub. L. 115–391, § 502(a)(5)(A), substituted “under subsection (f)” for “under this section” in introductory provisions.
 
-Subsec. (i)(1)(B). Pub. L. 115–391, § 502(a)(5)(B), substituted “subsection (f)(2)(D)” for “subsection (e)(4)”.
+Subsec. (i)(1)(B). Pub. L. 115–391, § 502(a)(5)(B), substituted “subsection (f)(2)(D)” for “subsection (e)(4)”.
 
-Subsec. (j)(1). Pub. L. 115–391, § 502(a)(6)(A), inserted “for an implementation grant under subsection (f)” after “applicant”.
+Subsec. (j)(1). Pub. L. 115–391, § 502(a)(6)(A), inserted “for an implementation grant under subsection (f)” after “applicant”.
 
-Subsec. (j)(2)(E). Pub. L. 115–391, § 502(a)(6)(B)(i), inserted “, where appropriate” after “support”.
+Subsec. (j)(2)(E). Pub. L. 115–391, § 502(a)(6)(B)(i), inserted “, where appropriate” after “support”.
 
-Subsec. (j)(2)(F) to (O). Pub. L. 115–391, § 502(a)(6)(B)(ii), added subpars. (F) to (O) and struck out former subpars. (F) to (H) which read as follows:
+Subsec. (j)(2)(F) to (O). Pub. L. 115–391, § 502(a)(6)(B)(ii), added subpars. (F) to (O) and struck out former subpars. (F) to (H) which read as follows:
 
 “(F) increased housing opportunities;
 
@@ -13419,31 +13419,31 @@ Subsec. (j)(2)(F) to (O). Pub. L. 115–391, § 502(a)(6)(B)(ii), added subpar
 
 “(H) increased participation in substance abuse and mental health services.”
 
-Subsec. (j)(3). Pub. L. 115–391, § 502(a)(6)(C), substituted “facilities, including a cost-benefit analysis to determine the cost effectiveness of the reentry program.” for “facilities.”
+Subsec. (j)(3). Pub. L. 115–391, § 502(a)(6)(C), substituted “facilities, including a cost-benefit analysis to determine the cost effectiveness of the reentry program.” for “facilities.”
 
-Subsec. (j)(4). Pub. L. 115–391, § 502(a)(6)(D), substituted “subsection (f)” for “this section”.
+Subsec. (j)(4). Pub. L. 115–391, § 502(a)(6)(D), substituted “subsection (f)” for “this section”.
 
-Subsec. (j)(5). Pub. L. 115–391, § 502(a)(6)(E), substituted “subsection (f)” for “this section” in introductory provisions.
+Subsec. (j)(5). Pub. L. 115–391, § 502(a)(6)(E), substituted “subsection (f)” for “this section” in introductory provisions.
 
-Subsec. (k)(1). Pub. L. 115–391, § 502(a)(7), substituted “subsection (f)” for “this section” wherever appearing.
+Subsec. (k)(1). Pub. L. 115–391, § 502(a)(7), substituted “subsection (f)” for “this section” wherever appearing.
 
-Subsec. (*l*)(2). Pub. L. 115–391, § 502(a)(8)(A), inserted “beginning on the date on which the most recent implementation grant is made to the grantee under subsection (f)” after “2-year period”.
+Subsec. (*l*)(2). Pub. L. 115–391, § 502(a)(8)(A), inserted “beginning on the date on which the most recent implementation grant is made to the grantee under subsection (f)” after “2-year period”.
 
-Subsec. (*l*)(4). Pub. L. 115–391, § 502(a)(8)(B), substituted “during the 2-year period described in paragraph (2)” for “over a 2-year period”.
+Subsec. (*l*)(4). Pub. L. 115–391, § 502(a)(8)(B), substituted “during the 2-year period described in paragraph (2)” for “over a 2-year period”.
 
-Subsec. (*o*)(1). Pub. L. 115–391, § 502(a)(9), substituted “appropriated $35,000,000 for each of fiscal years 2019 through 2023.” for “appropriated $55,000,000 for each of fiscal years 2009 and 2010.”
+Subsec. (*o*)(1). Pub. L. 115–391, § 502(a)(9), substituted “appropriated $35,000,000 for each of fiscal years 2019 through 2023.” for “appropriated $55,000,000 for each of fiscal years 2009 and 2010.”
 
-Subsec. (p). Pub. L. 115–391, § 502(a)(10), added subsec. (p).
+Subsec. (p). Pub. L. 115–391, § 502(a)(10), added subsec. (p).
 
-2016—Subsec. (f)(3)(C). Pub. L. 114–255, § 14009(a)(1), inserted “mental health services,” before “drug treatment”.
+2016—Subsec. (f)(3)(C). Pub. L. 114–255, § 14009(a)(1), inserted “mental health services,” before “drug treatment”.
 
-Subsec. (f)(7). Pub. L. 114–255, § 14006, added par. (7).
+Subsec. (f)(7). Pub. L. 114–255, § 14006, added par. (7).
 
-Subsec. (f)(8). Pub. L. 114–255, § 14009(a)(2), added par. (8).
+Subsec. (f)(8). Pub. L. 114–255, § 14009(a)(2), added par. (8).
 
-2008—Subsec. (a). Pub. L. 110–199, § 101(d), substituted “States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.” for “States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects.”
+2008—Subsec. (a). Pub. L. 110–199, § 101(d), substituted “States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.” for “States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects.”
 
-Subsec. (b)(1) to (7). Pub. L. 110–199, § 101(a), added pars. (1) to (7) and struck out former pars. (1) to (4) which read as follows:
+Subsec. (b)(1) to (7). Pub. L. 110–199, § 101(a), added pars. (1) to (7) and struck out former pars. (1) to (4) which read as follows:
 
 “(1) oversight/monitoring of released offenders;
 
@@ -13453,7 +13453,7 @@ Subsec. (b)(1) to (7). Pub. L. 110–199, § 101(a), added pars. (1) to (7) an
 
 “(4) establishing and implementing graduated sanctions and incentives.”
 
-Subsec. (c). Pub. L. 110–199, § 101(b), substituted “may be expended for any activity described in subsection (b).” for “may be expended for—
+Subsec. (c). Pub. L. 110–199, § 101(b), substituted “may be expended for any activity described in subsection (b).” for “may be expended for—
 
 “(1) providing returning juvenile offenders with drug and alcohol testing and treatment and mental and medical health assessment and services;
 
@@ -13463,11 +13463,11 @@ Subsec. (c). Pub. L. 110–199, § 101(b), substituted “may be expended for 
 
 “(4) providing for the planning of reentry services when the youth is initially incarcerated and coordinating the delivery of community-based services, such as education, family involvement and support, and other services as needed.”
 
-Subsecs. (d) to (*o*). Pub. L. 110–199, § 101(c), added subsecs. (d) to (n), redesignated former subsec. (h) as (*o*), and struck out former subsecs. (d) to (g) which related to submission of application, applicant requirements, matching funds, and reports, respectively.
+Subsecs. (d) to (*o*). Pub. L. 110–199, § 101(c), added subsecs. (d) to (n), redesignated former subsec. (h) as (*o*), and struck out former subsecs. (d) to (g) which related to submission of application, applicant requirements, matching funds, and reports, respectively.
 
-Subsec. (*o*)(1). Pub. L. 110–199, § 101(e)(1), substituted “$55,000,000 for each of fiscal years 2009 and 2010” for “$15,000,000 for fiscal year 2003, $15,500,000 for fiscal year 2004, and $16,000,000 for fiscal year 2005”.
+Subsec. (*o*)(1). Pub. L. 110–199, § 101(e)(1), substituted “$55,000,000 for each of fiscal years 2009 and 2010” for “$15,000,000 for fiscal year 2003, $15,500,000 for fiscal year 2004, and $16,000,000 for fiscal year 2005”.
 
-Subsec. (*o*)(2). Pub. L. 110–199, § 101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Of the amount made available to carry out this section in any fiscal year—
+Subsec. (*o*)(2). Pub. L. 110–199, § 101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Of the amount made available to carry out this section in any fiscal year—
 
 “(A) not more than 2 percent or less than 1 percent may be used by the Attorney General for salaries and administrative expenses; and
 
@@ -13479,7 +13479,7 @@ Subsec. (*o*)(2). Pub. L. 110–199, § 101(e)(2), amended par. (2) generally.
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-### § 10632. State reentry project evaluation
+### § 10632. State reentry project evaluation
 
 **(a) Evaluation**
 
@@ -13491,7 +13491,7 @@ The Attorney General shall evaluate the demonstration projects authorized by sec
 
 **(2)** any recommendations the Attorney General has with regard to expanding, changing, or eliminating the demonstration projects.
 
-(Pub. L. 90–351, title I, § 2977, as added Pub. L. 107–273, div. B, title II, § 2421(a), Nov. 2, 2002, 116 Stat. 1802.)
+(Pub. L. 90–351, title I, § 2977, as added Pub. L. 107–273, div. B, title II, § 2421(a), Nov. 2, 2002, 116 Stat. 1802.)
 
 **Editorial Notes**
 
@@ -13499,19 +13499,19 @@ The Attorney General shall evaluate the demonstration projects authorized by sec
 
 Section was formerly classified to section 3797w–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10633. Repealed. Pub. L. 115–391, title V, § 504(g)(1), Dec. 21, 2018, 132 Stat. 5234
+### § 10633. Repealed. Pub. L. 115–391, title V, § 504(g)(1), Dec. 21, 2018, 132 Stat. 5234
 
-Section, Pub. L. 90–351, title I, § 2978, as added Pub. L. 110–199, title I, § 111, Apr. 9, 2008, 122 Stat. 669, related to State, Tribal, and local reentry courts.
+Section, Pub. L. 90–351, title I, § 2978, as added Pub. L. 110–199, title I, § 111, Apr. 9, 2008, 122 Stat. 669, related to State, Tribal, and local reentry courts.
 
 Section was formerly classified to section 3797w–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ## SUBCHAPTER XXXII—CRIME FREE RURAL STATE GRANTS
 
-### § 10641. Grant authority
+### § 10641. Grant authority
 
 The Attorney General shall award grants to rural State criminal justice agencies, Byrne agencies, or other agencies as designated by the Governor of that State and approved by the Attorney General, to develop rural States’ capacity to assist local communities in the prevention and reduction of crime, violence, and substance abuse.
 
-(Pub. L. 90–351, title I, § 2985, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1834.)
+(Pub. L. 90–351, title I, § 2985, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -13525,7 +13525,7 @@ Section was formerly classified to section 3797y of Title 42, The Public Health 
 
 For short title of section 11027 of Pub. L. 107–273, which enacted this subchapter, as the “Crime-Free Rural States Act of 2002”, see section 11027(a) of Pub. L. 107–273, set out as a Short Title of 2002 Act note under section 10101 of this title.
 
-### § 10642. Use of funds
+### § 10642. Use of funds
 
 **(a) In general**
 
@@ -13539,7 +13539,7 @@ A rural State may also use its grant to provide training and technical assistanc
 
 A rural State may use up to 5 percent of the grant to assist grant recipients in collecting statewide data related to the costs of crime, violence, and substance abuse for purposes of supporting the statewide strategic plan.
 
-(Pub. L. 90–351, title I, § 2986, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1834.)
+(Pub. L. 90–351, title I, § 2986, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -13547,7 +13547,7 @@ A rural State may use up to 5 percent of the grant to assist grant recipients in
 
 Section was formerly classified to section 3797y–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10643. Statewide strategic prevention plan
+### § 10643. Statewide strategic prevention plan
 
 **(a) In general**
 
@@ -13565,7 +13565,7 @@ The rural State shall be required to develop and report in its plan relevant per
 
 The rural State shall form a State crime free communities commission that includes representatives of State and local government, and community leaders who will provide advice and recommendations on relevant community goals and objectives, and performance targets and measures.
 
-(Pub. L. 90–351, title I, § 2987, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1834.)
+(Pub. L. 90–351, title I, § 2987, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -13573,7 +13573,7 @@ The rural State shall form a State crime free communities commission that includ
 
 Section was formerly classified to section 3797y–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10644. Requirements
+### § 10644. Requirements
 
 **(a) Training and technical assistance**
 
@@ -13591,7 +13591,7 @@ The rural State shall provide training and technical assistance, including throu
 
 Beginning in the third year of the program, States must certify that the local grantee’s project funded under the community grant is generally consistent with statewide strategic goals and objectives, and performance targets and measures.
 
-(Pub. L. 90–351, title I, § 2988, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1835.)
+(Pub. L. 90–351, title I, § 2988, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1835.)
 
 **Editorial Notes**
 
@@ -13601,7 +13601,7 @@ Section was formerly classified to section 3797y–3 of Title 42, The Public Hea
 
 ## SUBCHAPTER XXXIII—ADULT AND JUVENILE COLLABORATION PROGRAM GRANTS
 
-### § 10651. Adult and juvenile collaboration programs
+### § 10651. Adult and juvenile collaboration programs
 
 **(a) Definitions** In this section, the following definitions shall apply:
 
@@ -14249,7 +14249,7 @@ For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized 
 
 Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (i) (relating to veterans).
 
-(Pub. L. 90–351, title I, § 2991, as added Pub. L. 108–414, § 4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§ 3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353; Pub. L. 114–198, title V, § 502, July 22, 2016, 130 Stat. 728; Pub. L. 114–255, div. B, title XIV, §§ 14005, 14018, 14021–14024, 14027, 14028(a), 14029, Dec. 13, 2016, 130 Stat. 1295, 1307–1311, 1313; Pub. L. 115–391, title VI, § 612, Dec. 21, 2018, 132 Stat. 5247; Pub. L. 117–170, § 3(1), Aug. 16, 2022, 136 Stat. 2092; Pub. L. 117–323, § 2, Dec. 27, 2022, 136 Stat. 4437.)
+(Pub. L. 90–351, title I, § 2991, as added Pub. L. 108–414, § 4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§ 3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353; Pub. L. 114–198, title V, § 502, July 22, 2016, 130 Stat. 728; Pub. L. 114–255, div. B, title XIV, §§ 14005, 14018, 14021–14024, 14027, 14028(a), 14029, Dec. 13, 2016, 130 Stat. 1295, 1307–1311, 1313; Pub. L. 115–391, title VI, § 612, Dec. 21, 2018, 132 Stat. 5247; Pub. L. 117–170, § 3(1), Aug. 16, 2022, 136 Stat. 2092; Pub. L. 117–323, § 2, Dec. 27, 2022, 136 Stat. 4437.)
 
 **Editorial Notes**
 
@@ -14265,55 +14265,55 @@ Section was formerly classified to section 3797aa of Title 42, The Public Health
 
 **Amendments**
 
-2022—Subsec. (b)(5)(I)(i). Pub. L. 117–323, § 2(1)(A), substituted “teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation” for “teams and treatment accountability services for communities”.
+2022—Subsec. (b)(5)(I)(i). Pub. L. 117–323, § 2(1)(A), substituted “teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation” for “teams and treatment accountability services for communities”.
 
-Subsec. (b)(5)(I)(v)(V). Pub. L. 117–323, § 2(1)(B), added subcl. V.
+Subsec. (b)(5)(I)(v)(V). Pub. L. 117–323, § 2(1)(B), added subcl. V.
 
-Subsec. (b)(5)(I)(vi) to (ix). Pub. L. 117–323, § 2(1)(C), added cls. (vi) to (ix).
+Subsec. (b)(5)(I)(vi) to (ix). Pub. L. 117–323, § 2(1)(C), added cls. (vi) to (ix).
 
-Subsec. (b)(5)(K). Pub. L. 117–323, § 2(2), added subpar. (K).
+Subsec. (b)(5)(K). Pub. L. 117–323, § 2(2), added subpar. (K).
 
-Subsec. (h)(1)(A). Pub. L. 117–170, § 3(1)(A), inserted before period at end “, including the training developed under section 10653 of this title”.
+Subsec. (h)(1)(A). Pub. L. 117–170, § 3(1)(A), inserted before period at end “, including the training developed under section 10653 of this title”.
 
-Subsec. (*o*)(1). Pub. L. 117–170, § 3(1)(B), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2005 to 2007 and 2017 to 2021.
+Subsec. (*o*)(1). Pub. L. 117–170, § 3(1)(B), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2005 to 2007 and 2017 to 2021.
 
-2018—Subsec. (b)(4)(D), (E). Pub. L. 115–391, § 612(1)(A), (B), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: “The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount.”
+2018—Subsec. (b)(4)(D), (E). Pub. L. 115–391, § 612(1)(A), (B), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: “The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount.”
 
-Subsec. (e). Pub. L. 115–391, § 612(2), substituted “shall use not less than 6 percent” for “may use up to 3 percent” in introductory provisions.
+Subsec. (e). Pub. L. 115–391, § 612(2), substituted “shall use not less than 6 percent” for “may use up to 3 percent” in introductory provisions.
 
-Subsec. (g). Pub. L. 115–391, § 612(3), amended subsec. (g) generally. Prior to amendment, text read as follows: “Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section.”
+Subsec. (g). Pub. L. 115–391, § 612(3), amended subsec. (g) generally. Prior to amendment, text read as follows: “Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section.”
 
-2016—Subsec. (a)(7). Pub. L. 114–255, § 14028(a)(1), substituted “Mental illness; mental health disorder” for “Mental illness” in heading and “terms ‘mental illness’ and ‘mental health disorder’ mean” for “term ‘mental illness’ means” in introductory provisions.
+2016—Subsec. (a)(7). Pub. L. 114–255, § 14028(a)(1), substituted “Mental illness; mental health disorder” for “Mental illness” in heading and “terms ‘mental illness’ and ‘mental health disorder’ mean” for “term ‘mental illness’ means” in introductory provisions.
 
-Subsec. (a)(9). Pub. L. 114–255, § 14028(a)(2), added par. (9) and struck out former par. (9) which defined the term “preliminarily qualified offender”.
+Subsec. (a)(9). Pub. L. 114–255, § 14028(a)(2), added par. (9) and struck out former par. (9) which defined the term “preliminarily qualified offender”.
 
-Subsec. (b)(5)(I)(v). Pub. L. 114–255, § 14023, added cl. (v).
+Subsec. (b)(5)(I)(v). Pub. L. 114–255, § 14023, added cl. (v).
 
-Subsec. (c)(4) to (6). Pub. L. 114–255, § 14027, added pars. (4) and (5) and redesignated former par. (4) as (6).
+Subsec. (c)(4) to (6). Pub. L. 114–255, § 14027, added pars. (4) and (5) and redesignated former par. (4) as (6).
 
-Subsec. (h)(1)(F). Pub. L. 114–255, § 14024(1), added subpar. (F).
+Subsec. (h)(1)(F). Pub. L. 114–255, § 14024(1), added subpar. (F).
 
-Subsec. (h)(4). Pub. L. 114–255, § 14024(2), added par. (4).
+Subsec. (h)(4). Pub. L. 114–255, § 14024(2), added par. (4).
 
-Subsec. (i). Pub. L. 114–198, § 502(2), added subsec. (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 114–198, § 502(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 114–255, § 14005(2), added subsec. (j). Former subsec. (j) redesignated (*o*).
+Subsec. (j). Pub. L. 114–255, § 14005(2), added subsec. (j). Former subsec. (j) redesignated (*o*).
 
-Pub. L. 114–198, § 502(1), redesignated subsec. (i) as (j).
+Pub. L. 114–198, § 502(1), redesignated subsec. (i) as (j).
 
-Subsec. (k). Pub. L. 114–255, § 14021, added subsec. (k).
+Subsec. (k). Pub. L. 114–255, § 14021, added subsec. (k).
 
-Subsec. (*l*). Pub. L. 114–255, § 14022, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 114–255, § 14022, added subsec. (*l*).
 
-Subsecs. (m), (n). Pub. L. 114–255, § 14029, added subsecs. (m) and (n).
+Subsecs. (m), (n). Pub. L. 114–255, § 14029, added subsecs. (m) and (n).
 
-Subsec. (*o*). Pub. L. 114–255, § 14005(1), redesignated subsec. (j) as (*o*).
+Subsec. (*o*). Pub. L. 114–255, § 14005(1), redesignated subsec. (j) as (*o*).
 
-Subsec. (*o*)(1)(C). Pub. L. 114–255, § 14018(1), substituted “2017 through 2021” for “2009 through 2014”.
+Subsec. (*o*)(1)(C). Pub. L. 114–255, § 14018(1), substituted “2017 through 2021” for “2009 through 2014”.
 
-Subsec. (*o*)(3). Pub. L. 114–255, § 14018(2), added par. (3).
+Subsec. (*o*)(3). Pub. L. 114–255, § 14018(2), added par. (3).
 
-2008—Subsec. (c). Pub. L. 110–416, § 3(c), amended subsec. (c) generally. Prior to amendment, text read as follows:
+2008—Subsec. (c). Pub. L. 110–416, § 3(c), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
 “The Attorney General, in awarding funds under this section, shall give priority to applications that—
 
@@ -14325,19 +14325,19 @@ Subsec. (*o*)(3). Pub. L. 114–255, § 14018(2), added par. (3).
 
 “(4) have the support of both the Attorney General and the Secretary.”
 
-Subsec. (h). Pub. L. 110–416, § 4(2), added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 110–416, § 4(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Pub. L. 110–416, § 3(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, and added par. (2).
+Pub. L. 110–416, § 3(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, and added par. (2).
 
-Pub. L. 110–416, § 3(a), substituted “for each of the fiscal years 2006 and 2007; and” for “for fiscal years 2006 through 2009.” in par. (2) and added par. (3).
+Pub. L. 110–416, § 3(a), substituted “for each of the fiscal years 2006 and 2007; and” for “for fiscal years 2006 through 2009.” in par. (2) and added par. (3).
 
-Subsec. (i). Pub. L. 110–416, § 4(1), redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 110–416, § 4(1), redesignated subsec. (h) as (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings**
 
-Pub. L. 110–416, § 2, Oct. 14, 2008, 122 Stat. 4352, provided that:
+Pub. L. 110–416, § 2, Oct. 14, 2008, 122 Stat. 4352, provided that:
 
 > “Congress finds the following:
 
@@ -14349,7 +14349,7 @@ Pub. L. 110–416, § 2, Oct. 14, 2008, 122 Stat. 4352, provided that:
 
 > **“(4)** State prisoners with a mental health problem are twice as likely as those without a mental health problem to have been homeless in the year before their arrest.”
 
-Pub. L. 108–414, § 2, Oct. 30, 2004, 118 Stat. 2327, provided that:
+Pub. L. 108–414, § 2, Oct. 30, 2004, 118 Stat. 2327, provided that:
 
 > “Congress finds the following:
 
@@ -14369,7 +14369,7 @@ Pub. L. 108–414, § 2, Oct. 30, 2004, 118 Stat. 2327, provided that:
 
 **Purpose**
 
-Pub. L. 108–414, § 3, Oct. 30, 2004, 118 Stat. 2328, provided that:
+Pub. L. 108–414, § 3, Oct. 30, 2004, 118 Stat. 2328, provided that:
 
 > “The purpose of this Act [see Short Title of 2004 Act note set out under section 10101 of this title] is to increase public safety by facilitating collaboration among the criminal justice, juvenile justice, mental health treatment, and substance abuse systems. Such collaboration is needed to—
 
@@ -14387,7 +14387,7 @@ Pub. L. 108–414, § 3, Oct. 30, 2004, 118 Stat. 2328, provided that:
 
 > **“(7)** promote communication, collaboration, and intergovernmental partnerships among municipal, county, and State elected officials with respect to mentally ill offenders.”
 
-### § 10651a. Veteran Treatment Court Program
+### § 10651a. Veteran Treatment Court Program
 
 **(a) Establishment** Subject to the availability of appropriations, in coordination with the Secretary of Veterans Affairs, the Attorney General shall establish and carry out a Veteran Treatment Court Program to provide grants and technical assistance to court systems that—
 
@@ -14407,7 +14407,7 @@ The Veterans Treatment Court Program established under subsection (a) shall incl
 
 The Attorney General shall promulgate regulations to carry out this section.
 
-(Pub. L. 116–153, § 3, Aug. 8, 2020, 134 Stat. 688.)
+(Pub. L. 116–153, § 3, Aug. 8, 2020, 134 Stat. 688.)
 
 **Editorial Notes**
 
@@ -14415,7 +14415,7 @@ The Attorney General shall promulgate regulations to carry out this section.
 
 Section was enacted as part of the Veteran Treatment Court Coordination Act of 2019, and not as part of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
-### § 10652. National criminal justice and mental health training and technical assistance
+### § 10652. National criminal justice and mental health training and technical assistance
 
 **(a) Authority**
 
@@ -14527,7 +14527,7 @@ Before the Attorney General awards a grant to an applicant under this section, t
 
 **(ii)** the reason the Attorney General awarded the duplicate grants.
 
-(Pub. L. 90–351, title I, § 2992, as added Pub. L. 114–255, div. B, title XIV, § 14014, Dec. 13, 2016, 130 Stat. 1303.)
+(Pub. L. 90–351, title I, § 2992, as added Pub. L. 114–255, div. B, title XIV, § 14014, Dec. 13, 2016, 130 Stat. 1303.)
 
 **Editorial Notes**
 
@@ -14543,7 +14543,7 @@ Section was formerly classified to section 3797aa–1 of Title 42, The Public He
 
 **Mental Health Training for Federal Uniformed Services**
 
-Pub. L. 114–255, div. B, title XIV, § 14008, Dec. 13, 2016, 130 Stat. 1296, provided that:
+Pub. L. 114–255, div. B, title XIV, § 14008, Dec. 13, 2016, 130 Stat. 1296, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Dec. 13, 2016], the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and the Secretary of Commerce shall provide the following to each of the uniformed services (as that term is defined in section 101 of title 10, United States Code) under their direction:
 
@@ -14555,7 +14555,7 @@ Pub. L. 114–255, div. B, title XIV, § 14008, Dec. 13, 2016, 130 Stat. 1296,
 
 **Federal Law Enforcement Training**
 
-Pub. L. 114–255, div. B, title XIV, § 14025, Dec. 13, 2016, 130 Stat. 1310, provided that:
+Pub. L. 114–255, div. B, title XIV, § 14025, Dec. 13, 2016, 130 Stat. 1310, provided that:
 
 > “Not later than 1 year after the date of enactment of this Act [Dec. 13, 2016], the Attorney General shall provide direction and guidance for the following:
 
@@ -14567,7 +14567,7 @@ Pub. L. 114–255, div. B, title XIV, § 14025, Dec. 13, 2016, 130 Stat. 1310,
 
 > **“(2) Improved technology.—** The establishment of, or improvement of existing, computerized information systems to provide timely information to employees of Federal law enforcement agencies, and Federal criminal justice agencies to improve the response of such employees to situations involving individuals who have a mental illness.”
 
-### § 10653. Creation of a TBI and PTSD training for first responders
+### § 10653. Creation of a TBI and PTSD training for first responders
 
 **(a) In general** Not later than one year after August 16, 2022, the Attorney General, acting through the Director of the Bureau of Justice Assistance, in consultation with the Director of the Centers for Disease Control and Prevention and the Assistant Secretary for Mental Health and Substance Use, shall solicit best practices regarding techniques to interact with persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder from first responder, brain injury, veteran, and mental health organizations, health care and mental health providers, hospital emergency departments, and other relevant stakeholders, and shall develop crisis intervention training tools for use by first responders (as such term is defined in section 10705 of this title) that provide—
 
@@ -14585,13 +14585,13 @@ The Attorney General shall ensure that not less than one Law Enforcement Mental 
 
 The Attorney General shall make the training tools developed under subsection (a) available as part of the Police-Mental Health Collaboration Toolkit provided by the Bureau of Justice Assistance.
 
-(Pub. L. 90–351, title I, § 2993, as added Pub. L. 117–170, § 3(2), Aug. 16, 2022, 136 Stat. 2092.)
+(Pub. L. 90–351, title I, § 2993, as added Pub. L. 117–170, § 3(2), Aug. 16, 2022, 136 Stat. 2092.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings**
 
-Pub. L. 117–170, § 2, Aug. 16, 2022, 136 Stat. 2091, provided that:
+Pub. L. 117–170, § 2, Aug. 16, 2022, 136 Stat. 2091, provided that:
 
 > “Congress finds the following:
 
@@ -14617,17 +14617,17 @@ Pub. L. 117–170, § 2, Aug. 16, 2022, 136 Stat. 2091, provided that:
 
 ## SUBCHAPTER XXXIV—CONFRONTING USE OF METHAMPHETAMINE
 
-### § 10661. Authority to make grants to address public safety and methamphetamine manufacturing, sale, and use in hot spots
+### § 10661. Authority to make grants to address public safety and methamphetamine manufacturing, sale, and use in hot spots
 
-**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] Purpose and program authority**
+**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] Purpose and program authority**
 
 **(1) Purpose** It is the purpose of this subchapter to assist States, territories, and Indian tribes (as defined in section 10554 of this title)—
 
 **(A)** to carry out programs to address the manufacture, sale, and use of methamphetamine drugs; and
 
-**(B)** to improve the ability of State, territorial, Tribal, and local government institutions of 2
+**(B)** to improve the ability of State, territorial, Tribal, and local government institutions of 2
 
-<sup>2</sup>  So in original. The word “of” probably should not appear.
+<sup>2</sup> So in original. The word “of” probably should not appear.
 
 to carry out such programs.
 
@@ -14645,7 +14645,7 @@ The Attorney General, through the Bureau of Justice Assistance in the Office of 
 
 **(D)** procure equipment, technology, or support systems, or pay for resources, if the applicant for such a grant demonstrates to the satisfaction of the Attorney General that expenditures for such purposes would result in the reduction in the use, sale, and manufacture of methamphetamine.
 
-(Pub. L. 90–351, title I, § 2996, as added Pub. L. 109–177, title VII, § 754, Mar. 9, 2006, 120 Stat. 274; amended Pub. L. 110–161, div. B, title II, § 220(a), Dec. 26, 2007, 121 Stat. 1916.)
+(Pub. L. 90–351, title I, § 2996, as added Pub. L. 109–177, title VII, § 754, Mar. 9, 2006, 120 Stat. 274; amended Pub. L. 110–161, div. B, title II, § 220(a), Dec. 26, 2007, 121 Stat. 1916.)
 
 **Editorial Notes**
 
@@ -14655,19 +14655,19 @@ Section was formerly classified to section 3797cc of Title 42, The Public Health
 
 **Amendments**
 
-2007—Subsec. (a)(1). Pub. L. 110–161, § 220(a)(1)(A), inserted “, territories, and Indian tribes (as defined in section 3797d of this title)” after “to assist States” in introductory provisions.
+2007—Subsec. (a)(1). Pub. L. 110–161, § 220(a)(1)(A), inserted “, territories, and Indian tribes (as defined in section 3797d of this title)” after “to assist States” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 110–161, § 220(a)(1)(B), substituted “, territorial, Tribal, and local” for “and local”.
+Subsec. (a)(1)(B). Pub. L. 110–161, § 220(a)(1)(B), substituted “, territorial, Tribal, and local” for “and local”.
 
-Subsec. (a)(2). Pub. L. 110–161, § 220(a)(2), inserted “, territories, and Indian tribes” after “make grants to States”.
+Subsec. (a)(2). Pub. L. 110–161, § 220(a)(2), inserted “, territories, and Indian tribes” after “make grants to States”.
 
-Subsec. (a)(3)(C). Pub. L. 110–161, § 220(a)(3), inserted “, Tribal,” after “support State”.
+Subsec. (a)(3)(C). Pub. L. 110–161, § 220(a)(3), inserted “, Tribal,” after “support State”.
 
-### § 10662. Funding
+### § 10662. Funding
 
 There are authorized to be appropriated to carry out this subchapter $99,000,000 for each fiscal year 2006, 2007, 2008, 2009, and 2010.
 
-(Pub. L. 90–351, title I, § 2997, as added Pub. L. 109–177, title VII, § 754, Mar. 9, 2006, 120 Stat. 274.)
+(Pub. L. 90–351, title I, § 2997, as added Pub. L. 109–177, title VII, § 754, Mar. 9, 2006, 120 Stat. 274.)
 
 **Editorial Notes**
 
@@ -14675,7 +14675,7 @@ There are authorized to be appropriated to carry out this subchapter $99,000,000
 
 Section was formerly classified to section 3797cc–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10663. Grants for programs for drug-endangered children
+### § 10663. Grants for programs for drug-endangered children
 
 **(a) In general**
 
@@ -14691,7 +14691,7 @@ The Attorney General shall make grants to States, territories, and Indian tribes
 
 For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for each of the fiscal years 2008 and 2009. Amounts appropriated under the preceding sentence shall remain available until expended.
 
-(Pub. L. 109–177, title VII, § 755, Mar. 9, 2006, 120 Stat. 275; Pub. L. 110–161, div. B, title II, § 220(b), Dec. 26, 2007, 121 Stat. 1916; Pub. L. 110–345, § 2, Oct. 7, 2008, 122 Stat. 3938.)
+(Pub. L. 109–177, title VII, § 755, Mar. 9, 2006, 120 Stat. 275; Pub. L. 110–161, div. B, title II, § 220(b), Dec. 26, 2007, 121 Stat. 1916; Pub. L. 110–345, § 2, Oct. 7, 2008, 122 Stat. 3938.)
 
 **Editorial Notes**
 
@@ -14705,9 +14705,9 @@ Section was formerly classified to section 3797cc–2 of Title 42, The Public He
 
 2008—Subsec. (c). Pub. L. 110–345 substituted “fiscal years 2008 and 2009” for “fiscal years 2006 and 2007”.
 
-2007—Subsec. (a). Pub. L. 110–161 inserted “, territories, and Indian tribes (as defined in section 3797d of this title)” after “make grants to States”.
+2007—Subsec. (a). Pub. L. 110–161 inserted “, territories, and Indian tribes (as defined in section 3797d of this title)” after “make grants to States”.
 
-### § 10664. Authority to award competitive grants to address methamphetamine use by pregnant and parenting women offenders
+### § 10664. Authority to award competitive grants to address methamphetamine use by pregnant and parenting women offenders
 
 **(a) Purpose and program authority**
 
@@ -14717,9 +14717,9 @@ The Attorney General may award competitive grants to address the use of methamph
 
 **(2) Purposes and program authority**
 
-Grants awarded under this section shall be used to facilitate or enhance and 1
+Grants awarded under this section shall be used to facilitate or enhance and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 collaboration between the criminal justice, child welfare, and State, territorial, or Tribal substance abuse systems in order to carry out programs to address the use of methamphetamine drugs by pregnant and parenting women offenders.
 
@@ -14733,7 +14733,7 @@ The term “child welfare agency” means the State, territorial, or Tribal agen
 
 The term “criminal justice agency” means an agency of the State, territory, Indian tribe, or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State, territory, Indian tribe, or local government.
 
-**(C) 2 [footnote: 2 So in original. Probably should be par. “(3)”.] Indian tribe**
+**(C) 2 [footnote: 2 So in original. Probably should be par. “(3)”.] Indian tribe**
 
 The term “Indian tribe” has the meaning given the term in section 10554 of this title.
 
@@ -14747,7 +14747,7 @@ No grant may be awarded under this section unless an application has been submit
 
 An application for a grant under this section shall be submitted in such form, and contain such information, as the Attorney General,3
 
-<sup>3</sup>  So in original. The comma probably should not appear.
+<sup>3</sup> So in original. The comma probably should not appear.
 
 may prescribe by regulation or guidelines.
 
@@ -14757,9 +14757,9 @@ The Attorney General shall make grants to States, territories, and Indian tribes
 
 **(4) Contents** In accordance with the regulations or guidelines established by the Attorney General in consultation with the Secretary of Health and Human Services, each application for a grant under this section shall contain a plan to expand the services for pregnant and parenting women offenders who are pregnant women or women with dependent children for the use of methamphetamine or methamphetamine and other drugs and include the following in the plan:
 
-**(A)** A description of how the applicant will work jointly with the criminal justice and child welfare agencies needs 4
+**(A)** A description of how the applicant will work jointly with the criminal justice and child welfare agencies needs 4
 
-<sup>4</sup>  So in original. The word “needs” probably should not appear.
+<sup>4</sup> So in original. The word “needs” probably should not appear.
 
 associated with the use of methamphetamine or methamphetamine and other drugs by pregnant and parenting women offenders to promote family stability and permanence.
 
@@ -14789,9 +14789,9 @@ Successful applicants shall submit to the Attorney General a report on the activ
 
 **(2) Evaluations**
 
-Not later than 12 months at 5
+Not later than 12 months at 5
 
-<sup>5</sup>  So in original. Probably should be “after”.
+<sup>5</sup> So in original. Probably should be “after”.
 
 the end of the 3 year funding cycle under this section, the Attorney General shall submit a report to the appropriate committees of jurisdiction that summarizes the results of the evaluations conducted by recipients and recommendations for further legislative action.
 
@@ -14799,7 +14799,7 @@ the end of the 3 year funding cycle under this section, the Attorney General sha
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(Pub. L. 109–177, title VII, § 756, Mar. 9, 2006, 120 Stat. 275; Pub. L. 110–161, div. B, title II, § 220(c), Dec. 26, 2007, 121 Stat. 1916.)
+(Pub. L. 109–177, title VII, § 756, Mar. 9, 2006, 120 Stat. 275; Pub. L. 110–161, div. B, title II, § 220(c), Dec. 26, 2007, 121 Stat. 1916.)
 
 **Editorial Notes**
 
@@ -14811,23 +14811,23 @@ Section was formerly classified to section 3797cc–3 of Title 42, The Public He
 
 **Amendments**
 
-2007—Subsec. (a)(2). Pub. L. 110–161, § 220(c)(1), inserted “, territorial, or Tribal” after “State”.
+2007—Subsec. (a)(2). Pub. L. 110–161, § 220(c)(1), inserted “, territorial, or Tribal” after “State”.
 
-Subsec. (b)(1). Pub. L. 110–161, § 220(c)(2)(A), inserted “, territorial, or Tribal” after “State” and substituted “or” for “and/or”.
+Subsec. (b)(1). Pub. L. 110–161, § 220(c)(2)(A), inserted “, territorial, or Tribal” after “State” and substituted “or” for “and/or”.
 
-Subsec. (b)(2). Pub. L. 110–161, § 220(c)(2)(B), inserted “, territory, Indian tribe,” after “agency of the State” and after “criminal laws of that State”.
+Subsec. (b)(2). Pub. L. 110–161, § 220(c)(2)(B), inserted “, territory, Indian tribe,” after “agency of the State” and after “criminal laws of that State”.
 
-Subsec. (b)(C). Pub. L. 110–161, § 220(c)(2)(C), added par. (C).
+Subsec. (b)(C). Pub. L. 110–161, § 220(c)(2)(C), added par. (C).
 
-Subsec. (c)(3). Pub. L. 110–161, § 220(c)(3)(A), substituted “Indian tribes” for “Indian Tribes”.
+Subsec. (c)(3). Pub. L. 110–161, § 220(c)(3)(A), substituted “Indian tribes” for “Indian Tribes”.
 
-Subsec. (c)(4). Pub. L. 110–161, § 220(c)(3)(B)(i), struck out “State’s” after “expand the” and substituted “women or” for “women and/or” in introductory provisions.
+Subsec. (c)(4). Pub. L. 110–161, § 220(c)(3)(B)(i), struck out “State’s” after “expand the” and substituted “women or” for “women and/or” in introductory provisions.
 
-Subsec. (c)(4)(A). Pub. L. 110–161, § 220(c)(3)(B)(ii), struck out “State” after “with the”.
+Subsec. (c)(4)(A). Pub. L. 110–161, § 220(c)(3)(B)(ii), struck out “State” after “with the”.
 
-Subsec. (c)(4)(C). Pub. L. 110–161, § 220(c)(3)(B)(iii), inserted “, Indian tribes,” after “involved counties”.
+Subsec. (c)(4)(C). Pub. L. 110–161, § 220(c)(3)(B)(iii), inserted “, Indian tribes,” after “involved counties”.
 
-Subsec. (c)(4)(D). Pub. L. 110–161, § 220(c)(3)(B)(iv), inserted “, Tribal” after “Federal, State”.
+Subsec. (c)(4)(D). Pub. L. 110–161, § 220(c)(3)(B)(iv), inserted “, Tribal” after “Federal, State”.
 
 ## SUBCHAPTER XXXV—LOAN REPAYMENT FOR PROSECUTORS AND PUBLIC DEFENDERS
 
@@ -14835,9 +14835,9 @@ Subsec. (c)(4)(D). Pub. L. 110–161, § 220(c)(3)(B)(iv), inserted “, Tri
 
 **Codification**
 
-This subchapter is comprised of part JJ of title I of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351. Another part JJ of title I of Pub. L. 90–351 was classified to subchapter XXXVI (§ 10681) of this chapter, prior to repeal by Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228.
+This subchapter is comprised of part JJ of title I of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351. Another part JJ of title I of Pub. L. 90–351 was classified to subchapter XXXVI (§ 10681) of this chapter, prior to repeal by Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228.
 
-### § 10671. Grant authorization
+### § 10671. Grant authorization
 
 **(a) Purpose**
 
@@ -14965,13 +14965,13 @@ Not later than one year after August 14, 2008, the Comptroller General shall con
 
 There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
-(Pub. L. 90–351, title I, § 3001, as added Pub. L. 110–315, title IX, § 952, Aug. 14, 2008, 122 Stat. 3470.)
+(Pub. L. 90–351, title I, § 3001, as added Pub. L. 110–315, title IX, § 952, Aug. 14, 2008, 122 Stat. 3470.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (b)(3)(A)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(3)(A)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Codification**
 
@@ -14991,11 +14991,11 @@ For short title of part E of title IX of Pub. L. 110–315, which enacted this s
 
 **Codification**
 
-This subchapter was comprised of part JJ of title I of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351, as added by Pub. L. 110–199, title I, § 114(2), Apr. 9, 2008, 122 Stat. 677, prior to repeal by Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228. Another part JJ of title I of Pub. L. 90–351 is classified to subchapter XXXV (§ 10671) of this chapter.
+This subchapter was comprised of part JJ of title I of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351, as added by Pub. L. 110–199, title I, § 114(2), Apr. 9, 2008, 122 Stat. 677, prior to repeal by Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228. Another part JJ of title I of Pub. L. 90–351 is classified to subchapter XXXV (§ 10671) of this chapter.
 
-### § 10681. Repealed. Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228
+### § 10681. Repealed. Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228
 
-Section, Pub. L. 90–351, title I, § 3001, as added Pub. L. 110–199, title I, § 114(2), Apr. 9, 2008, 122 Stat. 677, related to grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities. See section 10741 of this title.
+Section, Pub. L. 90–351, title I, § 3001, as added Pub. L. 110–199, title I, § 114(2), Apr. 9, 2008, 122 Stat. 677, related to grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities. See section 10741 of this title.
 
 Section was formerly classified to section 3797dd of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
@@ -15007,11 +15007,11 @@ Another section 3001 of Pub. L. 90–351 is classified to section 10671 of this 
 
 **Codification**
 
-This subchapter is comprised of part KK, formerly part X, of title I of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351, as added by Pub. L. 109–248, title VI, § 623, July 27, 2006, 120 Stat. 635, and redesignated part KK by Pub. L. 110–199, title I, § 114(1), Apr. 9, 2008, 122 Stat. 677. Another part X of title I of Pub. L. 90–351, as added by Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066, is classified to subchapter XXIII (§ 10511 et seq.) of this chapter.
+This subchapter is comprised of part KK, formerly part X, of title I of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351, as added by Pub. L. 109–248, title VI, § 623, July 27, 2006, 120 Stat. 635, and redesignated part KK by Pub. L. 110–199, title I, § 114(1), Apr. 9, 2008, 122 Stat. 677. Another part X of title I of Pub. L. 90–351, as added by Pub. L. 103–322, title XXI, § 210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066, is classified to subchapter XXIII (§ 10511 et seq.) of this chapter.
 
-Pub. L. 110–199, title I, § 114(1), Apr. 9, 2008, 122 Stat. 677, which directed amendment of title I of the Omnibus Crime Control and Safe Streets Act of 1968 by redesignating part X as part KK, was executed by redesignating part X of title I of Pub. L. 90–351, as added by Pub. L. 109–248, as part KK to reflect the probable intent of Congress.
+Pub. L. 110–199, title I, § 114(1), Apr. 9, 2008, 122 Stat. 677, which directed amendment of title I of the Omnibus Crime Control and Safe Streets Act of 1968 by redesignating part X as part KK, was executed by redesignating part X of title I of Pub. L. 90–351, as added by Pub. L. 109–248, as part KK to reflect the probable intent of Congress.
 
-### § 10691. Sex offender apprehension grants
+### § 10691. Sex offender apprehension grants
 
 **(a) Authority to make sex offender apprehension grants**
 
@@ -15027,7 +15027,7 @@ An activity referred to in paragraph (1) is any program, project, or other activ
 
 There are authorized to be appropriated such sums as may be necessary for fiscal years 2007 through 2009 to carry out this subchapter.
 
-(Pub. L. 90–351, title I, § 3011, as added Pub. L. 109–248, title VI, § 623, July 27, 2006, 120 Stat. 635.)
+(Pub. L. 90–351, title I, § 3011, as added Pub. L. 109–248, title VI, § 623, July 27, 2006, 120 Stat. 635.)
 
 **Editorial Notes**
 
@@ -15035,7 +15035,7 @@ There are authorized to be appropriated such sums as may be necessary for fiscal
 
 Section was formerly classified to section 3797ee of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10692. Juvenile sex offender treatment grants
+### § 10692. Juvenile sex offender treatment grants
 
 **(a) Authority to make juvenile sex offender treatment grants**
 
@@ -15055,7 +15055,7 @@ For purposes of this section, the term “juvenile sex offender” is a sex offe
 
 There are authorized to be appropriated $10,000,000 for each of fiscal years 2007 through 2009 to carry out this subchapter.
 
-(Pub. L. 90–351, title I, § 3012, as added Pub. L. 109–248, title VI, § 623, July 27, 2006, 120 Stat. 635.)
+(Pub. L. 90–351, title I, § 3012, as added Pub. L. 109–248, title VI, § 623, July 27, 2006, 120 Stat. 635.)
 
 **Editorial Notes**
 
@@ -15065,7 +15065,7 @@ Section was formerly classified to section 3797ee–1 of Title 42, The Public He
 
 ## SUBCHAPTER XXXVIII—COMPREHENSIVE OPIOID ABUSE GRANT PROGRAM
 
-### § 10701. Description
+### § 10701. Description
 
 **(a) Grants authorized** From amounts made available to carry out this subchapter, the Attorney General may make grants to States, units of local government, and Indian tribes, for use by the State, unit of local government, or Indian tribe to provide services primarily relating to opioid abuse, including for any one or more of the following:
 
@@ -15143,7 +15143,7 @@ The pilot program described under this subsection shall make grants to rural are
 
 **(B)** limit or prohibit the discretion of a prescription drug monitoring program for interoperability connections to other programs (including electronic health records systems, hospital systems, pharmacy dispensing systems, or health information exchanges).
 
-(Pub. L. 90–351, title I, § 3021, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 711; amended Pub. L. 117–250, § 2, Dec. 20, 2022, 136 Stat. 2352.)
+(Pub. L. 90–351, title I, § 3021, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 711; amended Pub. L. 117–250, § 2, Dec. 20, 2022, 136 Stat. 2352.)
 
 **Editorial Notes**
 
@@ -15153,11 +15153,11 @@ Section was formerly classified to section 3797ff of Title 42, The Public Health
 
 **Amendments**
 
-2022—Subsec. (a)(1)(H). Pub. L. 117–250, § 2(1), added subpar. (H).
+2022—Subsec. (a)(1)(H). Pub. L. 117–250, § 2(1), added subpar. (H).
 
-Subsec. (f). Pub. L. 117–250, § 2(2), added subsec. (f).
+Subsec. (f). Pub. L. 117–250, § 2(2), added subsec. (f).
 
-### § 10702. Applications
+### § 10702. Applications
 
 To request a grant under this subchapter, the chief executive officer of a State, unit of local government, or Indian tribe shall submit an application to the Attorney General at such time and in such form as the Attorney General may require. Such application shall include the following:
 
@@ -15177,7 +15177,7 @@ To request a grant under this subchapter, the chief executive officer of a State
 
 **(4)** An assurance that the applicant will work with the Drug Enforcement Administration to develop an integrated and comprehensive strategy to address opioid abuse.
 
-(Pub. L. 90–351, title I, § 3022, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 712.)
+(Pub. L. 90–351, title I, § 3022, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 712.)
 
 **Editorial Notes**
 
@@ -15185,11 +15185,11 @@ To request a grant under this subchapter, the chief executive officer of a State
 
 Section was formerly classified to section 3797ff–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10703. Review of applications
+### § 10703. Review of applications
 
 The Attorney General shall not finally disapprove any application (or any amendment to that application) submitted under this subchapter without first affording the applicant reasonable notice of any deficiencies in the application and an opportunity for correction of any such deficiencies and reconsideration.
 
-(Pub. L. 90–351, title I, § 3023, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 713.)
+(Pub. L. 90–351, title I, § 3023, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 713.)
 
 **Editorial Notes**
 
@@ -15197,7 +15197,7 @@ The Attorney General shall not finally disapprove any application (or any amendm
 
 Section was formerly classified to section 3797ff–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10704. Equitable distribution of funds
+### § 10704. Equitable distribution of funds
 
 In awarding grants under this subchapter, the Attorney General shall distribute funds in a manner that—
 
@@ -15211,7 +15211,7 @@ In awarding grants under this subchapter, the Attorney General shall distribute 
 
 **(C)** a lack of accessibility to treatment providers and facilities and to emergency medical services.
 
-(Pub. L. 90–351, title I, § 3024, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 713.)
+(Pub. L. 90–351, title I, § 3024, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 713.)
 
 **Editorial Notes**
 
@@ -15219,7 +15219,7 @@ In awarding grants under this subchapter, the Attorney General shall distribute 
 
 Section was formerly classified to section 3797ff–3 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10705. Definitions
+### § 10705. Definitions
 
 In this subchapter:
 
@@ -15247,25 +15247,25 @@ In this subchapter:
 
 **(7)** The term “tribal organization” has the meaning given that term in section 5304 of title 25.
 
-**(8)** The term “State substance abuse agency” has the meaning given that term in section 290bb–1(r)(6) 1
+**(8)** The term “State substance abuse agency” has the meaning given that term in section 290bb–1(r)(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42.
 
-(Pub. L. 90–351, title I, § 3025, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 713.)
+(Pub. L. 90–351, title I, § 3025, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 713.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 290bb–1(r)(6) of title 42, referred to in par. (8), was redesignated section 290bb–1(r)(5) of title 42 by Pub. L. 117–328, div. FF, title I, § 1114(2), Dec. 29, 2022, 136 Stat. 5647.
+Section 290bb–1(r)(6) of title 42, referred to in par. (8), was redesignated section 290bb–1(r)(5) of title 42 by Pub. L. 117–328, div. FF, title I, § 1114(2), Dec. 29, 2022, 136 Stat. 5647.
 
 **Codification**
 
 Section was formerly classified to section 3797ff–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10706. Grant accountability
+### § 10706. Grant accountability
 
 **(a) Definition of applicable committees** In this section, the term “applicable committees” means—
 
@@ -15353,7 +15353,7 @@ Before the Attorney General awards a grant to an applicant under this subchapter
 
 **(B)** the reason the Attorney General awarded the duplicate grants.
 
-(Pub. L. 90–351, title I, § 3026, as added Pub. L. 114–198, title VII, § 701(a), July 22, 2016, 130 Stat. 735.)
+(Pub. L. 90–351, title I, § 3026, as added Pub. L. 114–198, title VII, § 701(a), July 22, 2016, 130 Stat. 735.)
 
 **Editorial Notes**
 
@@ -15361,7 +15361,7 @@ Before the Attorney General awards a grant to an applicant under this subchapter
 
 Section was formerly classified to section 3797ff–5 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 10707. Evaluation of performance of Department of Justice programs
+### § 10707. Evaluation of performance of Department of Justice programs
 
 **(1) Evaluation of Justice Department Comprehensive Opioid Abuse Grant Program**
 
@@ -15395,7 +15395,7 @@ In the case of the interim evaluation under paragraph (2), and the final evaluat
 
 **(B)** enter into a contract or cooperative agreement with an entity that is not an agency of the Federal Government, and is qualified to conduct and evaluate research pertaining to opioid use and abuse, and draw conclusions about overall opioid use and abuse on the basis of that research.
 
-(Pub. L. 114–198, title VII, § 701(b), July 22, 2016, 130 Stat. 737.)
+(Pub. L. 114–198, title VII, § 701(b), July 22, 2016, 130 Stat. 737.)
 
 **Editorial Notes**
 
@@ -15411,7 +15411,7 @@ Section was formerly classified to section 3797ff–6 of Title 42, The Public He
 
 ## SUBCHAPTER XXXIX—PREVENTION, INVESTIGATION, AND PROSECUTION OF WHITE COLLAR CRIME
 
-### § 10721. Establishment of grant program
+### § 10721. Establishment of grant program
 
 **(a) Authorization**
 
@@ -15425,7 +15425,7 @@ The Director of the Bureau of Justice Assistance is authorized to enter into a c
 
 **(3)** Internet-based crime against children and child pornography.
 
-(Pub. L. 90–351, title I, § 3031, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1247.)
+(Pub. L. 90–351, title I, § 3031, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1247.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15433,7 +15433,7 @@ The Director of the Bureau of Justice Assistance is authorized to enter into a c
 
 For short title of part MM of title I of Pub. L. 90–351, which is classified to this subchapter, as the “National White Collar Crime Control Act of 2017”, see section 3030 of Pub. L. 90–351, set out as a Short Title of 1968 Act note under section 10101 of this title.
 
-### § 10722. Purposes
+### § 10722. Purposes
 
 The purposes of this subchapter include the following:
 
@@ -15445,9 +15445,9 @@ The purposes of this subchapter include the following:
 
 **(4)** To provide appropriate training on protections for privacy, civil rights, and civil liberties in the conduct of criminal intelligence analysis and cyber and electronic crime and financial crime investigations, including in the development of policies, guidelines, and procedures by State, local, tribal, and territorial law enforcement agencies to protect and enhance privacy, civil rights, and civil liberties protections and identify weaknesses and gaps in the protection of privacy, civil rights, and civil liberties.
 
-(Pub. L. 90–351, title I, § 3032, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1248.)
+(Pub. L. 90–351, title I, § 3032, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1248.)
 
-### § 10723. Authorized programs
+### § 10723. Authorized programs
 
 A grant or cooperative agreement awarded under this subchapter may be made only for the following programs, with respect to the prevention, investigation, and prosecution of certain criminal activities:
 
@@ -15467,29 +15467,29 @@ A grant or cooperative agreement awarded under this subchapter may be made only 
 
 **(8)** Any other programs specified by the Attorney General as furthering the purposes of this subchapter.
 
-(Pub. L. 90–351, title I, § 3033, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1248.)
+(Pub. L. 90–351, title I, § 3033, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1248.)
 
-### § 10724. Application
+### § 10724. Application
 
 To be eligible for an award of a grant or cooperative agreement under this subchapter, an entity shall submit to the Director of the Bureau of Justice Assistance an application in such form and manner, and containing such information, as required by the Director of the Bureau of Justice Assistance.
 
-(Pub. L. 90–351, title I, § 3034, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1249.)
+(Pub. L. 90–351, title I, § 3034, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1249.)
 
-### § 10725. Eligibility
+### § 10725. Eligibility
 
 States, units of local government, not-for-profit entities, and institutions of higher-education with demonstrated capacity and experience in delivering training, technical assistance and other resources including direct, practical laboratory training to law enforcement officers, investigators, auditors and prosecutors in States and units of local government and over the Internet shall be eligible to receive an award under this subchapter.
 
-(Pub. L. 90–351, title I, § 3035, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1249.)
+(Pub. L. 90–351, title I, § 3035, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1249.)
 
-### § 10726. Rules and regulations
+### § 10726. Rules and regulations
 
 The Director of the Bureau of Justice Assistance shall promulgate such rules and regulations as are necessary to carry out this subchapter, including rules and regulations for submitting and reviewing applications under section 10725 of this title.
 
-(Pub. L. 90–351, title I, § 3036, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1249.)
+(Pub. L. 90–351, title I, § 3036, as added Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1249.)
 
 ## SUBCHAPTER XL—GRANT PROGRAM TO EVALUATE AND IMPROVE EDUCATIONAL METHODS AT PRISONS, JAILS, AND JUVENILE FACILITIES
 
-### § 10741. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities
+### § 10741. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities
 
 **(a) Grant program authorized** The Attorney General may carry out a grant program under which the Attorney General may make grants to States, units of local government, territories, Indian Tribes, and other public and private entities to—
 
@@ -15513,11 +15513,11 @@ Not later than 180 days after December 21, 2018, the Attorney General shall iden
 
 Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a) receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.
 
-(Pub. L. 90–351, title I, § 3041, as added Pub. L. 115–391, title V, § 502(c)(2), Dec. 21, 2018, 132 Stat. 5228.)
+(Pub. L. 90–351, title I, § 3041, as added Pub. L. 115–391, title V, § 502(c)(2), Dec. 21, 2018, 132 Stat. 5228.)
 
 ## SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM
 
-### § 10751. Grant authorization
+### § 10751. Grant authorization
 
 **(a) In general**
 
@@ -15563,7 +15563,7 @@ The Attorney General shall consult with the Secretary of Health and Human Servic
 
 **(2)** a certified community behavioral health clinic described in section 223(d) of the Protecting Access to Medicare Act of 2014 (42 U.S.C. 1396a note).
 
-(Pub. L. 90–351, title I, § 3051, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3381.)
+(Pub. L. 90–351, title I, § 3051, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3381.)
 
 **Editorial Notes**
 
@@ -15577,7 +15577,7 @@ Section 223(d) of the Protecting Access to Medicare Act of 2014, referred to in 
 
 For short title of Pub. L. 116–281, which enacted this subchapter, as the “Crisis Stabilization and Community Reentry Act of 2020”, see section 1 of Pub. L. 116–281, set out as a Short Title of 2020 Amendment note under section 10101 of this title.
 
-### § 10752. Applications
+### § 10752. Applications
 
 **(a) In general** To request a grant under this subchapter, the chief executive of a State, Indian Tribe, unit of local government, or community-based non-profit organization shall submit an application to the Attorney General—
 
@@ -15611,9 +15611,9 @@ For purposes of this subsection, the term “community care provider program” 
 
 Each application submitted for a grant under this subchapter shall include a description of how the funds made available under this subchapter will be coordinated with Federal assistance for behavioral health services currently provided by the Department of Health and Human Services’ Substance Abuse and Mental Health Services Administration.
 
-(Pub. L. 90–351, title I, § 3052, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3383.)
+(Pub. L. 90–351, title I, § 3052, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3383.)
 
-### § 10753. Review of applications
+### § 10753. Review of applications
 
 **(a) In general** The Attorney General shall make a grant under section 10751 of this title to carry out the projects described in the application submitted under section 10752 of this title upon determining that—
 
@@ -15633,16 +15633,16 @@ Grant funds received under this subchapter shall not be used for land acquisitio
 
 The Attorney General may not disapprove any application without first affording the applicant reasonable notice and an opportunity for reconsideration.
 
-(Pub. L. 90–351, title I, § 3053, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3384.)
+(Pub. L. 90–351, title I, § 3053, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3384.)
 
-### § 10754. Evaluation
+### § 10754. Evaluation
 
 Each State, Indian Tribe, unit of local government, or community-based nonprofit organization that receives a grant under this subchapter shall submit to the Attorney General an evaluation not later than 1 year after receipt of the grant in such form and containing such information as the Attorney General, in consultation with the Secretary of Health and Human Services, may reasonably require.
 
-(Pub. L. 90–351, title I, § 3054, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3384.)
+(Pub. L. 90–351, title I, § 3054, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3384.)
 
-### § 10755. Authorization of funding
+### § 10755. Authorization of funding
 
 Subject to the availability of appropriations, for purposes of carrying out this subchapter, the Attorney General is authorized to award not more than $10,000,000 of funds appropriated to the Department of Justice for these purposes for each of fiscal years 2021 through 2025.
 
-(Pub. L. 90–351, title I, § 3055, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3385.)
+(Pub. L. 90–351, title I, § 3055, as added Pub. L. 116–281, § 2(a), Dec. 31, 2020, 134 Stat. 3385.)

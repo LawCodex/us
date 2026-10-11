@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2014—Pub. L. 113–291, div. A, title VIII, § 831(b), Dec. 19, 2014, 128 Stat. 3440, added item 11319.
+2014—Pub. L. 113–291, div. A, title VIII, § 831(b), Dec. 19, 2014, 128 Stat. 3440, added item 11319.
 
-2002—Pub. L. 107–296, title X, §§ 1002(b), 1005(a)(2), Nov. 25, 2002, 116 Stat. 2269, 2272, and Pub. L. 107–347, title III, §§ 302(b), 305(a), Dec. 17, 2002, 116 Stat. 2957, 2960, amended table of sections identically, substituting “Responsibilities for Federal information systems standards” for “Responsibilities regarding efficiency, security, and privacy of federal computer systems” in item 11331 and striking out item 11332 “Federal computer system security training and plan”.
+2002—Pub. L. 107–296, title X, §§ 1002(b), 1005(a)(2), Nov. 25, 2002, 116 Stat. 2269, 2272, and Pub. L. 107–347, title III, §§ 302(b), 305(a), Dec. 17, 2002, 116 Stat. 2957, 2960, amended table of sections identically, substituting “Responsibilities for Federal information systems standards” for “Responsibilities regarding efficiency, security, and privacy of federal computer systems” in item 11331 and striking out item 11332 “Federal computer system security training and plan”.
 
 ## SUBCHAPTER I—DIRECTOR OF OFFICE OF MANAGEMENT AND BUDGET
 
-### § 11301. Responsibility of Director
+### § 11301. Responsibility of Director
 
 In fulfilling the responsibility to administer the functions assigned under chapter 35 of title 44, the Director of the Office of Management and Budget shall comply with this chapter with respect to the specific matters covered by this chapter.
 
@@ -35,7 +35,7 @@ In fulfilling the responsibility to administer the functions assigned under chap
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11301 | 40:1411. | Pub. L. 104–106, div. E, title LI, § 5111, Feb. 10, 1996, 110 Stat. 680. |
+| 11301 | 40:1411. | Pub. L. 104–106, div. E, title LI, § 5111, Feb. 10, 1996, 110 Stat. 680. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -393,7 +393,7 @@ Pub. L. 116–260, div. U, title I, Dec. 27, 2020, 134 Stat. 2286, provided that
 
 **GSA Modernization Centers of Excellence Program**
 
-Pub. L. 116–194, § 2, Dec. 3, 2020, 134 Stat. 981, provided that:
+Pub. L. 116–194, § 2, Dec. 3, 2020, 134 Stat. 981, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -451,7 +451,7 @@ Pub. L. 116–194, § 2, Dec. 3, 2020, 134 Stat. 981, provided that:
 
 **Modernizing Government Technology**
 
-Pub. L. 115–91, div. A, title X, subtitle G, Dec. 12, 2017, 131 Stat. 1586, as amended by Pub. L. 119–75, div. I, § 5010, Feb. 3, 2026, 140 Stat. 630, provided that:
+Pub. L. 115–91, div. A, title X, subtitle G, Dec. 12, 2017, 131 Stat. 1586, as amended by Pub. L. 119–75, div. I, § 5010, Feb. 3, 2026, 140 Stat. 630, provided that:
 
 > **“SEC. 1076. DEFINITIONS.**
 
@@ -785,7 +785,7 @@ Sec. 10. *General Provisions*. (a) Nothing in this order shall be construed to i
 
 Donald J. Trump.
 
-### § 11302. Capital planning and investment control
+### § 11302. Capital planning and investment control
 
 **(a) Federal Information Technology.—** The Director of the Office of Management and Budget shall perform the responsibilities set forth in this section in fulfilling the responsibilities under section 3504(h) of title 44.
 
@@ -801,7 +801,7 @@ Donald J. Trump.
 
 **(C)** The term “national security system” has the meaning provided in section 3542 of title 44.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) Analyzing, tracking, and evaluating capital investments.—** As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
 
@@ -847,13 +847,13 @@ Donald J. Trump.
 
 **(iii)** the committees of the Senate and the House of Representatives with primary jurisdiction over the agency;
 
-**(C)** in the case of a major information technology investment of the Department of Defense, the assessment required by subparagraph (A) may be accomplished in accordance with section 2445c <sup>1</sup> of title 10, provided that the results of the review are provided to the Administrator of the Office of Electronic Government upon request and to the committees identified in subsection (B); and
+**(C)** in the case of a major information technology investment of the Department of Defense, the assessment required by subparagraph (A) may be accomplished in accordance with section 2445c <sup>1</sup> of title 10, provided that the results of the review are provided to the Administrator of the Office of Electronic Government upon request and to the committees identified in subsection (B); and
 
 **(D)** for a covered agency other than the Department of Defense, if on the date that is one year after the date of completion of the review required under subsection (A), the investment is rated as high risk under paragraph (3)(C), the Director shall deny any request for additional development, modernization, or enhancement funding for the investment until the date on which the Chief Information Officer of the covered agency determines that the root causes of the high level of risk of the investment have been addressed, and there is sufficient capability to deliver the remaining planned increments within the planned cost and schedule.
 
 **(5) Report to congress.—** At the same time that the President submits the budget for a fiscal year to Congress under section 1105(a) of title 31, the Director shall submit to Congress a report on the net program performance benefits achieved as a result of major capital investments made by executive agencies for information systems and how the benefits relate to the accomplishment of the goals of the executive agencies.
 
-**(d) Information Technology Standards.—** The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under section 11331 of this title <sup>1</sup> and section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
+**(d) Information Technology Standards.—** The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under section 11331 of this title <sup>1</sup> and section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
 
 **(e) Designation of Executive Agents for Acquisitions.—** The Director shall designate the head of one or more executive agencies, as the Director considers appropriate, as executive agent for Government-wide acquisitions of information technology.
 
@@ -869,23 +869,23 @@ Donald J. Trump.
 
 **(k) Coordination of Policy Development and Review.—** The Director shall coordinate with the Office of Federal Procurement Policy the development and review by the Administrator of the Office of Information and Regulatory Affairs of policy associated with federal acquisition of information technology.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1237; Pub. L. 108–458, title VIII, § 8401(1), (2), Dec. 17, 2004, 118 Stat. 3869; Pub. L. 113–291, div. A, title VIII, § 832, Dec. 19, 2014, 128 Stat. 3440; Pub. L. 115–88, § 2, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, § 819(a), Dec. 12, 2017, 131 Stat. 1464.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1237; Pub. L. 108–458, title VIII, § 8401(1), (2), Dec. 17, 2004, 118 Stat. 3869; Pub. L. 113–291, div. A, title VIII, § 832, Dec. 19, 2014, 128 Stat. 3440; Pub. L. 115–88, § 2, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, § 819(a), Dec. 12, 2017, 131 Stat. 1464.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11302 | 40:1412. | Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680. |
+| 11302 | 40:1412. | Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680. |
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3542 of title 44, referred to in subsec. (c)(1)(C), was repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. See section 3552 of Title 44, Public Printing and Documents.
+Section 3542 of title 44, referred to in subsec. (c)(1)(C), was repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. See section 3552 of Title 44, Public Printing and Documents.
 
-Section 2445c of title 10, referred to in subsec. (c)(4)(C), was repealed by Pub. L. 114–328, div. A, title VIII, § 846(1), Dec. 23, 2016, 130 Stat. 2292.
+Section 2445c of title 10, referred to in subsec. (c)(4)(C), was repealed by Pub. L. 114–328, div. A, title VIII, § 846(1), Dec. 23, 2016, 130 Stat. 2292.
 
-The text of section 11331 of this title, referred to in subsec. (d), was generally amended by Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
+The text of section 11331 of this title, referred to in subsec. (d), was generally amended by Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
 
 **Amendments**
 
@@ -893,9 +893,9 @@ The text of section 11331 of this title, referred to in subsec. (d), was general
 
 2014—Subsec. (c). Pub. L. 113–291 added pars. (1), (3), (4), and par. (5) relating to sunset of certain provisions and redesignated former pars. (1) and (2) as par. (2) and par. (5) relating to report to Congress, respectively.
 
-2004—Subsec. (b). Pub. L. 108–458, § 8401(1), inserted “security,” after “use,”.
+2004—Subsec. (b). Pub. L. 108–458, § 8401(1), inserted “security,” after “use,”.
 
-Subsec. (c)(1). Pub. L. 108–458, § 8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
+Subsec. (c)(1). Pub. L. 108–458, § 8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -945,7 +945,7 @@ Pub. L. 114–210, July 29, 2016, 130 Stat. 824, provided that:
 
 **Appropriate Use of Requirements Regarding Experience and Education of Contractor Personnel in the Procurement of Information Technology Services**
 
-Pub. L. 106–398, § 1 [[div. A], title VIII, § 813], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VIII, § 813], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, provided that:
 
 > **“(a) Amendment of the Federal Acquisition Regulation.—** Not later than 180 days after the date of the enactment of this Act [Oct. 30, 2000], the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 405 and 421) [see 41 U.S.C. 1121, 1303] shall be amended to address the use, in the procurement of information technology services, of requirements regarding the experience and education of contractor personnel.
 
@@ -969,7 +969,7 @@ Pub. L. 106–398, § 1 [[div. A], title VIII, § 813], Oct. 30, 2000, 114 S
 
 > **“(3)** The term ‘performance-based’, with respect to a contract, means that the contract includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
 
-### § 11303. Performance-based and results-based management
+### § 11303. Performance-based and results-based management
 
 **(a) In General.—** The Director of the Office of Management and Budget shall encourage the use of performance-based and results-based management in fulfilling the responsibilities assigned under section 3504(h) of title 44.
 
@@ -1015,11 +1015,11 @@ Pub. L. 106–398, § 1 [[div. A], title VIII, § 813], Oct. 30, 2000, 114 S
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11303 | 40:1413. | Pub. L. 104–106, div. E, title LI, § 5113, Feb. 10, 1996, 110 Stat. 681. |
+| 11303 | 40:1413. | Pub. L. 104–106, div. E, title LI, § 5113, Feb. 10, 1996, 110 Stat. 681. |
 
 ## SUBCHAPTER II—EXECUTIVE AGENCIES
 
-### § 11311. Responsibilities
+### § 11311. Responsibilities
 
 In fulfilling the responsibilities assigned under chapter 35 of title 44, the head of each executive agency shall comply with this subchapter with respect to the specific matters covered by this subchapter.
 
@@ -1029,15 +1029,15 @@ In fulfilling the responsibilities assigned under chapter 35 of title 44, the he
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11311 | 40:1421. | Pub. L. 104–106, div. E, title LI, § 5121, Feb. 10, 1996, 110 Stat. 683. |
+| 11311 | 40:1421. | Pub. L. 104–106, div. E, title LI, § 5121, Feb. 10, 1996, 110 Stat. 683. |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Procurement of Automatic Data Processing Equipment for Tax Systems Modernization Program; Delegation of Authority**
 
-Pub. L. 104–52, title V, § 526, Nov. 19, 1995, 109 Stat. 495, provided that: “Notwithstanding any other provision of law, the Administrator of General Services shall delegate the authority to procure automatic data processing equipment for the Tax Systems Modernization Program to the Secretary of the Treasury: *Provided*, That the Director of the Office of Management and Budget shall have the authority to revoke such delegation upon the written recommendation of the Administrator that the Secretary’s actions under such delegation are inconsistent with the goals of economic and efficient procurement and utilization of automatic data processing equipment: *Provided further*, That for all other purposes, a procurement conducted under such delegation shall be treated as if made under a delegation by the Administrator pursuant to [former] 40 U.S.C. 759.”
+Pub. L. 104–52, title V, § 526, Nov. 19, 1995, 109 Stat. 495, provided that: “Notwithstanding any other provision of law, the Administrator of General Services shall delegate the authority to procure automatic data processing equipment for the Tax Systems Modernization Program to the Secretary of the Treasury: *Provided*, That the Director of the Office of Management and Budget shall have the authority to revoke such delegation upon the written recommendation of the Administrator that the Secretary’s actions under such delegation are inconsistent with the goals of economic and efficient procurement and utilization of automatic data processing equipment: *Provided further*, That for all other purposes, a procurement conducted under such delegation shall be treated as if made under a delegation by the Administrator pursuant to [former] 40 U.S.C. 759.”
 
-### § 11312. Capital planning and investment control
+### § 11312. Capital planning and investment control
 
 **(a) Design of Process.—** In fulfilling the responsibilities assigned under section 3506(h) of title 44, the head of each executive agency shall design and implement in the executive agency a process for maximizing the value, and assessing and managing the risks, of the information technology acquisitions of the executive agency.
 
@@ -1055,13 +1055,13 @@ Pub. L. 104–52, title V, § 526, Nov. 19, 1995, 109 Stat. 495, provided that
 
 **(6)** provide the means for senior management personnel of the executive agency to obtain timely information regarding the progress of an investment in an information system, including a system of milestones for measuring progress, on an independently verifiable basis, in terms of cost, capability of the system to meet specified requirements, timeliness, and quality.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1239; Pub. L. 108–458, title VIII, § 8401(3), Dec. 17, 2004, 118 Stat. 3869.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1239; Pub. L. 108–458, title VIII, § 8401(3), Dec. 17, 2004, 118 Stat. 3869.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11312 | 40:1422. | Pub. L. 104–106, div. E, title LI, § 5122, Feb. 10, 1996, 110 Stat. 683. |
+| 11312 | 40:1422. | Pub. L. 104–106, div. E, title LI, § 5122, Feb. 10, 1996, 110 Stat. 683. |
 
 **Editorial Notes**
 
@@ -1069,7 +1069,7 @@ Pub. L. 104–52, title V, § 526, Nov. 19, 1995, 109 Stat. 495, provided that
 
 2004—Subsec. (b)(1). Pub. L. 108–458 substituted “investments in information technology (including information security needs)” for “information technology investments”.
 
-### § 11313. Performance and results-based management
+### § 11313. Performance and results-based management
 
 In fulfilling the responsibilities under section 3506(h) of title 44, the head of an executive agency shall—
 
@@ -1095,9 +1095,9 @@ In fulfilling the responsibilities under section 3506(h) of title 44, the head o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11313 | 40:1423. | Pub. L. 104–106, div. E, title LI, § 5123, Feb. 10, 1996, 110 Stat. 683. |
+| 11313 | 40:1423. | Pub. L. 104–106, div. E, title LI, § 5123, Feb. 10, 1996, 110 Stat. 683. |
 
-### § 11314. Authority to acquire and manage information technology
+### § 11314. Authority to acquire and manage information technology
 
 **(a) In General.—** The authority of the head of an executive agency to acquire information technology includes—
 
@@ -1109,13 +1109,13 @@ In fulfilling the responsibilities under section 3506(h) of title 44, the head o
 
 **(b) FTS 2000 Program.—** The Administrator of General Services shall continue to manage the FTS 2000 program, and to coordinate the follow-on to that program, for and with the advice of the heads of executive agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1241; Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(B), Aug. 13, 2018, 132 Stat. 1874.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1241; Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(B), Aug. 13, 2018, 132 Stat. 1874.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11314 | 40:1424. | Pub. L. 104–106, div. E, title LI, § 5124, Feb. 10, 1996, 110 Stat. 684. |
+| 11314 | 40:1424. | Pub. L. 104–106, div. E, title LI, § 5124, Feb. 10, 1996, 110 Stat. 684. |
 
 In subsection (b), the words “Notwithstanding any other provision of this or any other law” are omitted as unnecessary.
 
@@ -1131,7 +1131,7 @@ In subsection (b), the words “Notwithstanding any other provision of this or a
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-### § 11315. Agency Chief Information Officer
+### § 11315. Agency Chief Information Officer
 
 **(a) Definition.—** In this section, the term “information technology architecture”, with respect to an executive agency, means an integrated framework for evolving or maintaining existing information technology and acquiring new information technology to achieve the agency’s strategic goals and information resources management goals.
 
@@ -1159,13 +1159,13 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(D)** reports to the head of the agency on the progress made in improving information resources management capability.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1241; Pub. L. 108–458, title VIII, § 8401(4), Dec. 17, 2004, 118 Stat. 3869.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1241; Pub. L. 108–458, title VIII, § 8401(4), Dec. 17, 2004, 118 Stat. 3869.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11315 | 40:1425(b)–(d). | Pub. L. 104–106, div. E, title LI, § 5125(b)–(d), Feb. 10, 1996, 110 Stat. 685. |
+| 11315 | 40:1425(b)–(d). | Pub. L. 104–106, div. E, title LI, § 5125(b)–(d), Feb. 10, 1996, 110 Stat. 685. |
 
 In subsection (c)(3), before subclause (A), the reference to 31:1105(a)(29) is changed to 1105(a)(28) because of the redesignation of 1105(a)(29) as 1105(a)(28) by section 4(1) of the Act of October 11, 1996, (Public Law 104–287, 110 Stat. 3388). The words “as added by section 5(a) of the Government Performance and Results Act of 1993 (Public Law 103–62, 107 Stat. 289)” are added for clarity because there is another 31:9703.
 
@@ -1173,7 +1173,7 @@ In subsection (c)(3), before subclause (A), the reference to 31:1105(a)(29) is c
 
 **Amendments**
 
-2004—Subsec. (b)(2). Pub. L. 108–458 inserted “, secure,” after “sound”.
+2004—Subsec. (b)(2). Pub. L. 108–458 inserted “, secure,” after “sound”.
 
 **Executive Documents**
 
@@ -1261,7 +1261,7 @@ Sec. 11. *General Provisions*. (a) Nothing in this order shall be construed to i
 
 Donald J. Trump.
 
-### § 11316. Accountability
+### § 11316. Accountability
 
 The head of each executive agency, in consultation with the Chief Information Officer and the Chief Financial Officer of that executive agency (or, in the case of an executive agency without a chief financial officer, any comparable official), shall establish policies and procedures to ensure that—
 
@@ -1281,9 +1281,9 @@ The head of each executive agency, in consultation with the Chief Information Of
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11316 | 40:1426. | Pub. L. 104–106, div. E, title LI, § 5126, Feb. 10, 1996, 110 Stat. 686. |
+| 11316 | 40:1426. | Pub. L. 104–106, div. E, title LI, § 5126, Feb. 10, 1996, 110 Stat. 686. |
 
-### § 11317. Significant deviations
+### § 11317. Significant deviations
 
 The head of each executive agency shall identify in the strategic information resources management plan required under section 3506(b)(2) of title 44 any major information technology acquisition program, or any phase or increment of that program, that has significantly deviated from the cost, performance, or schedule goals established for the program.
 
@@ -1293,9 +1293,9 @@ The head of each executive agency shall identify in the strategic information re
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11317 | 40:1427. | Pub. L. 104–106, div. E, title LI, § 5127, Feb. 10, 1996, 110 Stat. 687. |
+| 11317 | 40:1427. | Pub. L. 104–106, div. E, title LI, § 5127, Feb. 10, 1996, 110 Stat. 687. |
 
-### § 11318. Interagency support
+### § 11318. Interagency support
 
 The head of an executive agency may use amounts available to the agency for oversight, acquisition, and procurement of information technology to support jointly with other executive agencies the activities of interagency groups that are established to advise the Director of the Office of Management and Budget in carrying out the Director’s responsibilities under this chapter. The use of those amounts for that purpose is subject to requirements and limitations on uses and amounts that the Director may prescribe. The Director shall prescribe the requirements and limitations during the Director’s review of the executive agency’s proposed budget submitted to the Director by the head of the executive agency for purposes of section 1105 of title 31.
 
@@ -1305,9 +1305,9 @@ The head of an executive agency may use amounts available to the agency for over
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11318 | 40:1428. | Pub. L. 104–106, div. E, title LI, § 5128, Feb. 10, 1996, 110 Stat. 687. |
+| 11318 | 40:1428. | Pub. L. 104–106, div. E, title LI, § 5128, Feb. 10, 1996, 110 Stat. 687. |
 
-### § 11319. Resources, planning, and portfolio management
+### § 11319. Resources, planning, and portfolio management
 
 **(a) Definitions.—** In this section:
 
@@ -1395,7 +1395,7 @@ The head of an executive agency may use amounts available to the agency for over
 
 **(B) Inclusion in other reports.—** The reports required under subparagraph (A) may be included as part of another report submitted to the committees of Congress described in clauses (i), (ii), and (iii) of subparagraph (A).
 
-(Added and amended Pub. L. 113–291, div. A, title VIII, §§ 831(a), 833, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3438, 3442, 3469; Pub. L. 115–88, § 3, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, § 819(b), title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1464, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(iii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, § 902(87), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 118–31, div. A, title IX, § 901(f), Dec. 22, 2023, 137 Stat. 355.)
+(Added and amended Pub. L. 113–291, div. A, title VIII, §§ 831(a), 833, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3438, 3442, 3469; Pub. L. 115–88, § 3, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, § 819(b), title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1464, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(iii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, § 902(87), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 118–31, div. A, title IX, § 901(f), Dec. 22, 2023, 137 Stat. 355.)
 
 **Editorial Notes**
 
@@ -1407,11 +1407,11 @@ The head of an executive agency may use amounts available to the agency for over
 
 2018—Subsec. (d)(4). Pub. L. 115–232 substituted “Chief Management Officer” for “Deputy Chief Management Officer”.
 
-2017—Subsecs. (c), (d). Pub. L. 115–88, § 3(1), and Pub. L. 115–91, § 819(b)(1), amended section identically, redesignating subsec. (c) relating to information technology portfolio, program, and resource reviews as (d).
+2017—Subsecs. (c), (d). Pub. L. 115–88, § 3(1), and Pub. L. 115–91, § 819(b)(1), amended section identically, redesignating subsec. (c) relating to information technology portfolio, program, and resource reviews as (d).
 
-Subsec. (d)(6). Pub. L. 115–88, § 3(2), and Pub. L. 115–91, § 819(b)(2), amended subsec. (d) identically, striking out par. (6). Text read as follows: “This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015.”
+Subsec. (d)(6). Pub. L. 115–88, § 3(2), and Pub. L. 115–91, § 819(b)(2), amended subsec. (d) identically, striking out par. (6). Text read as follows: “This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015.”
 
-2014—Subsec. (c). Pub. L. 113–291, § 833, added subsec. (c) relating to information technology portfolio, program, and resource reviews.
+2014—Subsec. (c). Pub. L. 113–291, § 833, added subsec. (c) relating to information technology portfolio, program, and resource reviews.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1421,7 +1421,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 ## SUBCHAPTER III—OTHER RESPONSIBILITIES
 
-### § 11331. Responsibilities for Federal information systems standards
+### § 11331. Responsibilities for Federal information systems standards
 
 **(a) Standards and Guidelines.—**
 
@@ -1463,13 +1463,13 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(3) National security system.—** The term “national security system” has the meaning given that term in section 3552(b)(6) of title 44.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1243; Pub. L. 107–296, title X, § 1002(a), Nov. 25, 2002, 116 Stat. 2268; Pub. L. 107–347, title III, § 302(a), Dec. 17, 2002, 116 Stat. 2956; Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1243; Pub. L. 107–296, title X, § 1002(a), Nov. 25, 2002, 116 Stat. 2268; Pub. L. 107–347, title III, § 302(a), Dec. 17, 2002, 116 Stat. 2956; Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11331 | 40:1441. | Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat. 687. |
+| 11331 | 40:1441. | Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat. 687. |
 
 **Editorial Notes**
 
@@ -1553,7 +1553,7 @@ Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pu
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-### [§ 11332. Repealed. Pub. L. 107–296, title X, § 1005(a)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, § 305(a), Dec. 17, 2002, 116 Stat. 2960]
+### [§ 11332. Repealed. Pub. L. 107–296, title X, § 1005(a)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, § 305(a), Dec. 17, 2002, 116 Stat. 2960]
 
 Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1244, related to Federal computer system security training and plan.
 

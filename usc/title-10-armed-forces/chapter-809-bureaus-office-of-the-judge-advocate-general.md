@@ -19,33 +19,33 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 513 of this title as this chapter and items 5131 to 5150 as 8071 to 8090, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 513 of this title as this chapter and items 5131 to 5150 as 8071 to 8090, respectively.
 
-2016—Pub. L. 114–328, div. A, title V, § 502(z)(2), (bb)(3), title VII, § 702(b)(2)(B), Dec. 23, 2016, 130 Stat. 2105, 2196, substituted “Surgeon General: appointment; duties” for “Bureau of Medicine and Surgery: Chief; Deputy Chief” in item 5137 and “Chief of Naval Personnel; Deputy Chief of Naval Personnel” for “Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel” in item 5141 and struck out item 5133 “Bureau Chiefs: rank; pay and allowances; retirement”.
+2016—Pub. L. 114–328, div. A, title V, § 502(z)(2), (bb)(3), title VII, § 702(b)(2)(B), Dec. 23, 2016, 130 Stat. 2105, 2196, substituted “Surgeon General: appointment; duties” for “Bureau of Medicine and Surgery: Chief; Deputy Chief” in item 5137 and “Chief of Naval Personnel; Deputy Chief of Naval Personnel” for “Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel” in item 5141 and struck out item 5133 “Bureau Chiefs: rank; pay and allowances; retirement”.
 
-2006—Pub. L. 109–364, div. A, title V, § 593(d)(2), Oct. 17, 2006, 120 Stat. 2235, substituted “Corps” for “Division” in item 5138.
+2006—Pub. L. 109–364, div. A, title V, § 593(d)(2), Oct. 17, 2006, 120 Stat. 2235, substituted “Corps” for “Division” in item 5138.
 
-Pub. L. 109–163, div. A, title V, § 515(b)(4)(A), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy” for “Naval” in item 5143.
+Pub. L. 109–163, div. A, title V, § 515(b)(4)(A), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy” for “Naval” in item 5143.
 
-1996—Pub. L. 104–201, div. A, title XII, § 1212(b)(2), (c)(2), Sept. 23, 1996, 110 Stat. 2692, 2693, added items 5143 and 5144.
+1996—Pub. L. 104–201, div. A, title XII, § 1212(b)(2), (c)(2), Sept. 23, 1996, 110 Stat. 2692, 2693, added items 5143 and 5144.
 
-1994—Pub. L. 103–337, div. A, title V, § 504(b)(5), Oct. 5, 1994, 108 Stat. 2751, struck out “and Judge Advocate General” after “Chiefs” in item 5133.
+1994—Pub. L. 103–337, div. A, title V, § 504(b)(5), Oct. 5, 1994, 108 Stat. 2751, struck out “and Judge Advocate General” after “Chiefs” in item 5133.
 
-1992—Pub. L. 102–484, div. A, title V, § 505(b)(2), Oct. 23, 1992, 106 Stat. 2404, added item 5139.
+1992—Pub. L. 102–484, div. A, title V, § 505(b)(2), Oct. 23, 1992, 106 Stat. 2404, added item 5139.
 
-1986—Pub. L. 99–433, title V, § 514(a)(1), (3), Oct. 1, 1986, 100 Stat. 1054, struck out “; OFFICE OF NAVAL RESEARCH” after “GENERAL” in chapter heading, struck out items 5150 “Office of Naval Research: Chief, appointment, term, emoluments; Assistant Chief; succession to duties”, 5151 “Office of Naval Research: duties”, 5152 “Office of Naval Research: appropriations; time limit”, and 5153 “Naval Research Advisory Committee”, and redesignated item 5155 as item 5150.
+1986—Pub. L. 99–433, title V, § 514(a)(1), (3), Oct. 1, 1986, 100 Stat. 1054, struck out “; OFFICE OF NAVAL RESEARCH” after “GENERAL” in chapter heading, struck out items 5150 “Office of Naval Research: Chief, appointment, term, emoluments; Assistant Chief; succession to duties”, 5151 “Office of Naval Research: duties”, 5152 “Office of Naval Research: appropriations; time limit”, and 5153 “Naval Research Advisory Committee”, and redesignated item 5155 as item 5150.
 
-1980—Pub. L. 96–513, title V, §§ 503(8), 513(6), Dec. 12, 1980, 94 Stat. 2911, 2931, struck out items 5134 “Deputy Bureau Chiefs: pay”, 5139 “Bureau of Medicine and Surgery: Medical Service Corps, Chief”, 5140 “Bureau of Medicine and Surgery: Nurse Corps, Director”, and 5143 “Bureau of Naval Personnel: Assistant Chief of Women”, and added item 5155.
+1980—Pub. L. 96–513, title V, §§ 503(8), 513(6), Dec. 12, 1980, 94 Stat. 2911, 2931, struck out items 5134 “Deputy Bureau Chiefs: pay”, 5139 “Bureau of Medicine and Surgery: Medical Service Corps, Chief”, 5140 “Bureau of Medicine and Surgery: Nurse Corps, Director”, and 5143 “Bureau of Naval Personnel: Assistant Chief of Women”, and added item 5155.
 
-Pub. L. 96–343, § 11(b), Sept. 8, 1980, 94 Stat. 1130, substituted “Chaplain Corps and” for “Bureau of Naval Personnel:” in item 5142 and added item 5142a.
+Pub. L. 96–343, § 11(b), Sept. 8, 1980, 94 Stat. 1130, substituted “Chaplain Corps and” for “Bureau of Naval Personnel:” in item 5142 and added item 5142a.
 
-1967—Pub. L. 90–179, § 2(3), Dec. 8, 1967, 81 Stat. 547, inserted reference to Judge Advocate General’s Corps in item 5148 and inserted reference to Deputy Judge Advocate General and substituted “Advocates General” for “Advocate General; succession to duties” after “Assistant Judge” in item 5149.
+1967—Pub. L. 90–179, § 2(3), Dec. 8, 1967, 81 Stat. 547, inserted reference to Judge Advocate General’s Corps in item 5148 and inserted reference to Deputy Judge Advocate General and substituted “Advocates General” for “Advocate General; succession to duties” after “Assistant Judge” in item 5149.
 
-1966—Pub. L. 89–718, §§ 35(2), (5), 36, Nov. 2, 1966, 80 Stat. 1120, inserted “and Judge Advocate General” after “Bureau Chiefs” in item 5133, struck out items 5145, 5146, 5147, and 5154 which related to Bureau of Ships and the Chief, Deputy Chief, and Division Heads thereof, Bureau of Supplies and Accounts and the Chief and Deputy Chief thereof, Bureau of Yards and Docks and the Chief and Deputy Chief thereof, and Bureau of Naval Weapons and the Chief and Deputy Chief thereof, respectively, and struck out “pay,” in item 5149.
+1966—Pub. L. 89–718, §§ 35(2), (5), 36, Nov. 2, 1966, 80 Stat. 1120, inserted “and Judge Advocate General” after “Bureau Chiefs” in item 5133, struck out items 5145, 5146, 5147, and 5154 which related to Bureau of Ships and the Chief, Deputy Chief, and Division Heads thereof, Bureau of Supplies and Accounts and the Chief and Deputy Chief thereof, Bureau of Yards and Docks and the Chief and Deputy Chief thereof, and Bureau of Naval Weapons and the Chief and Deputy Chief thereof, respectively, and struck out “pay,” in item 5149.
 
-1959—Pub. L. 86–174, §§ 1(3), 2(4), Aug. 18, 1959, 73 Stat. 395, 396, added item 5154 and eliminated items 5136 and 5144.
+1959—Pub. L. 86–174, §§ 1(3), 2(4), Aug. 18, 1959, 73 Stat. 395, 396, added item 5154 and eliminated items 5136 and 5144.
 
-## § 8071. Bureaus: names; location
+## § 8071. Bureaus: names; location
 
 There are in the executive part of the Department of the Navy the following bureaus:
 
@@ -53,13 +53,13 @@ There are in the executive part of the Department of the Navy the following bure
 
 **(2)** Bureau of Naval Personnel.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 285, § 5131; Pub. L. 86–174, §§ 1(1), 2(1), Aug. 18, 1959, 73 Stat. 395; Pub. L. 89–718, § 35(1), Nov. 2, 1966, 80 Stat. 1120; renumbered § 8071, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 285, § 5131; Pub. L. 86–174, §§ 1(1), 2(1), Aug. 18, 1959, 73 Stat. 395; Pub. L. 89–718, § 35(1), Nov. 2, 1966, 80 Stat. 1120; renumbered § 8071, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5131 | 5 U.S.C. 429 (less applicability to distribution of business among bureaus). | R.S. 419 (less applicability to distribution of business among bureaus); July 19, 1892, ch. 206, 27 Stat. 243 (6th par.); June 30, 1914, ch. 130, 38 Stat. 408 (4th par.); July 12, 1921, ch. 44, § 8 (1st 17 words of 1st par.), 42 Stat. 140; June 20, 1940, ch. 400, § 1(a), (b), 54 Stat. 492; May 13, 1942, ch. 303, § 1, 56 Stat. 276. |
+| 5131 | 5 U.S.C. 429 (less applicability to distribution of business among bureaus). | R.S. 419 (less applicability to distribution of business among bureaus); July 19, 1892, ch. 206, 27 Stat. 243 (6th par.); June 30, 1914, ch. 130, 38 Stat. 408 (4th par.); July 12, 1921, ch. 44, § 8 (1st 17 words of 1st par.), 42 Stat. 140; June 20, 1940, ch. 400, § 1(a), (b), 54 Stat. 492; May 13, 1942, ch. 303, § 1, 56 Stat. 276. |
 
 The bureaus are listed alphabetically for convenience. This listing has no effect on the precedence of the bureaus.
 
@@ -67,7 +67,7 @@ The bureaus are listed alphabetically for convenience. This listing has no effec
 
 **Prior Provisions**
 
-A prior section 8071, act Aug. 10, 1956, ch. 1041, 70A Stat. 495, provided for appointment of a female Air Force officer in temporary grade of colonel, prior to repeal by Pub. L. 90–130, § 1(25), Nov. 8, 1967, 81 Stat. 382.
+A prior section 8071, act Aug. 10, 1956, ch. 1041, 70A Stat. 495, provided for appointment of a female Air Force officer in temporary grade of colonel, prior to repeal by Pub. L. 90–130, § 1(25), Nov. 8, 1967, 81 Stat. 382.
 
 **Amendments**
 
@@ -85,13 +85,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–174, § 2, Aug. 18, 1959, 73 Stat. 395, provided that the amendment of this section and former section 5133 of this title and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
+Pub. L. 86–174, § 2, Aug. 18, 1959, 73 Stat. 395, provided that the amendment of this section and former section 5133 of this title and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
 
 **Bureau of Naval Weapons; Transfer of Funds**
 
-Pub. L. 86–174, § 3, Aug. 18, 1959, 73 Stat. 396, provided that: “The unexpended balances of appropriations and funds available for use in connection with the exercise of any function transferred to the Bureau of Naval Weapons shall be transferred in the manner provided by section 407 of the National Security Act of 1947, as amended (5 U.S.C. 172f) [10 U.S.C. 126], for use in connection with the transferred functions.”
+Pub. L. 86–174, § 3, Aug. 18, 1959, 73 Stat. 396, provided that: “The unexpended balances of appropriations and funds available for use in connection with the exercise of any function transferred to the Bureau of Naval Weapons shall be transferred in the manner provided by section 407 of the National Security Act of 1947, as amended (5 U.S.C. 172f) [10 U.S.C. 126], for use in connection with the transferred functions.”
 
-## § 8072. Bureaus: distribution of business; orders; records; expenses
+## § 8072. Bureaus: distribution of business; orders; records; expenses
 
 **(a)** Except as otherwise provided by law, the business of the executive part of the Department of the Navy shall be distributed among the bureaus as the Secretary of the Navy considers expedient and proper.
 
@@ -101,17 +101,17 @@ Pub. L. 86–174, § 3, Aug. 18, 1959, 73 Stat. 396, provided that: “The une
 
 **(d)** Each bureau shall furnish to the Secretary estimates for its specific, general, and contingent expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 285, § 5132; renumbered § 8072, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 285, § 5132; renumbered § 8072, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 5132(a) | 5 U.S.C. 429 (as applicable to distribution of business among bureaus). | R.S. 419 (as applicable to distribution of business among bureaus). |
-|  | 5 U.S.C. 455 (1st 23 words). | July 12, 1921, ch. 44, § 8 (1st par., 1st 37 words), 42 Stat. 140. |
+|  | 5 U.S.C. 455 (1st 23 words). | July 12, 1921, ch. 44, § 8 (1st par., 1st 37 words), 42 Stat. 140. |
 | 5132(b) | 5 U.S.C. 430 (last 39 words). | R.S. 420 (last 39 words). |
-|  | 5 U.S.C. 430b. | June 20, 1940, ch. 400, § 1(b) (2d sentence), 54 Stat. 493. |
-|  | 5 U.S.C. 455 (less 1st 23 words). | July 12, 1921, ch. 44, § 8 (1st par., less 1st 37 words), 42 Stat. 140. |
+|  | 5 U.S.C. 430b. | June 20, 1940, ch. 400, § 1(b) (2d sentence), 54 Stat. 493. |
+|  | 5 U.S.C. 455 (less 1st 23 words). | July 12, 1921, ch. 44, § 8 (1st par., less 1st 37 words), 42 Stat. 140. |
 | 5132(c) | 5 U.S.C. 430 (less last 39 words). | R.S. 420 (less last 39 words). |
 | 5132(d) | 5 U.S.C. 431. | R.S. 430. |
 
@@ -139,29 +139,29 @@ A prior section 8074 was renumbered section 9074 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8075. Bureau Chiefs: succession to duties
+## § 8075. Bureau Chiefs: succession to duties
 
 **(a)** When there is a vacancy in the office of chief of a bureau, or during the absence or disability of the chief of a bureau, the deputy chief of that bureau, unless otherwise directed by the President, shall perform the duties of the chief until a successor is appointed or the absence or disability ceases.
 
 **(b)** When subsection (a) cannot be complied with because of the absence or disability of the deputy chief of the bureau, the heads of the major divisions of the bureau, in the order directed by the Secretary of the Navy, shall perform the duties of the chief, unless otherwise directed by the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 286, § 5135; renumbered § 8075, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 286, § 5135; renumbered § 8075, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 5135(a) | 5 U.S.C. 445 (less 1st 43 words). | Aug. 29, 1916, ch. 417, 39 Stat. 558 (3d par., 45th through 95th words). |
-|  | 5 U.S.C. 446 (last 49 words). | Mar. 3, 1893, ch. 212, 27 Stat. 717 (1st par., last 53 words); May 13, 1942, ch. 303, § 1, 56 Stat. 276. |
-|  | 5 U.S.C. 447 (25th through 74th words). | May 4, 1898, ch. 234, § 1, 30 Stat. 373 (12th par., 41st through 92d words). |
-|  | 5 U.S.C. 448a. | June 20, 1940, ch. 400, § 1(f), 54 Stat. 493. |
-|  | 5 U.S.C. 449 (last 51 words). | July 26, 1894, ch. 165, § 1, 28 Stat. 132 (3d par., last 56 words); July 11, 1919, ch. 9, 41 Stat. 147 (1st proviso). |
-|  | 5 U.S.C. 452 (less 1st 35 words). | July 12, 1921, ch. 44, § 8 (3d par., less 1st 35 words), 42 Stat. 140. |
-| 5135(b) | 5 U.S.C. 432a (less applicability to JAG). | Feb. 3, 1942, ch. 35, § 1 (less applicability to JAG), 56 Stat. 47. |
+|  | 5 U.S.C. 446 (last 49 words). | Mar. 3, 1893, ch. 212, 27 Stat. 717 (1st par., last 53 words); May 13, 1942, ch. 303, § 1, 56 Stat. 276. |
+|  | 5 U.S.C. 447 (25th through 74th words). | May 4, 1898, ch. 234, § 1, 30 Stat. 373 (12th par., 41st through 92d words). |
+|  | 5 U.S.C. 448a. | June 20, 1940, ch. 400, § 1(f), 54 Stat. 493. |
+|  | 5 U.S.C. 449 (last 51 words). | July 26, 1894, ch. 165, § 1, 28 Stat. 132 (3d par., last 56 words); July 11, 1919, ch. 9, 41 Stat. 147 (1st proviso). |
+|  | 5 U.S.C. 452 (less 1st 35 words). | July 12, 1921, ch. 44, § 8 (3d par., less 1st 35 words), 42 Stat. 140. |
+| 5135(b) | 5 U.S.C. 432a (less applicability to JAG). | Feb. 3, 1942, ch. 35, § 1 (less applicability to JAG), 56 Stat. 47. |
 
 In subsection (a) all the provisions covering succession in case of the absence of the chiefs of the various bureaus are integrated and uniformly stated.
 
-That part of 5 U.S.C. 448a, enacted in the Act of June 20, 1940, ch. 400, § 1(f), 54 Stat. 493, relating to the succession by heads of major divisions of the Bureau of Ships is superseded by the Act of Feb. 3, 1942, ch. 35, § 1 (5 U.S.C. 432a).
+That part of 5 U.S.C. 448a, enacted in the Act of June 20, 1940, ch. 400, § 1(f), 54 Stat. 493, relating to the succession by heads of major divisions of the Bureau of Ships is superseded by the Act of Feb. 3, 1942, ch. 35, § 1 (5 U.S.C. 432a).
 
 **Editorial Notes**
 
@@ -169,7 +169,7 @@ That part of 5 U.S.C. 448a, enacted in the Act of June 20, 1940, ch. 400, § 1
 
 A prior section 8075 was renumbered section 9075 of this title.
 
-A prior section 8076, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10110 of this title.
+A prior section 8076, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10110 of this title.
 
 **Amendments**
 
@@ -181,7 +181,7 @@ A prior section 8076, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to com
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8077. Surgeon General: appointment; duties
+## § 8077. Surgeon General: appointment; duties
 
 **(a) Appointment.—** The Surgeon General of the Navy shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list of the Navy in any corps of the Navy Medical Department.
 
@@ -193,7 +193,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** The Surgeon General, acting under the authority, direction, and control of the Secretary of the Navy, shall recruit, organize, train, and equip, medical personnel of the Navy and the Marine Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 286, § 5137; Pub. L. 89–288, § 4, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 96–513, title V, § 503(10), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 104–106, div. A, title V, § 506(b), Feb. 10, 1996, 110 Stat. 296; Pub. L. 114–328, div. A, title VII, § 702(b)(2)(A), Dec. 23, 2016, 130 Stat. 2195; renumbered § 8077, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 286, § 5137; Pub. L. 89–288, § 4, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 96–513, title V, § 503(10), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 104–106, div. A, title V, § 506(b), Feb. 10, 1996, 110 Stat. 296; Pub. L. 114–328, div. A, title VII, § 702(b)(2)(A), Dec. 23, 2016, 130 Stat. 2195; renumbered § 8077, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
@@ -201,10 +201,10 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 |---|---|---|
 | 5137(a) | 5 U.S.C. 432. | R.S. 421. |
 |  | 5 U.S.C. 438. | R.S. 426. |
-|  | 5 U.S.C. 440 (less applicability to Paymaster General). | R.S. 1471 (less applicability to Paymaster General); June 20, 1940, ch. 400, § 1(a), 54 Stat. 492. |
-| 5137(b) | 5 U.S.C. 451 (less last 10 words). | R.S. 1375 (less last 10 words); Feb. 27, 1877, ch. 69, § 1, 19 Stat. 244. |
+|  | 5 U.S.C. 440 (less applicability to Paymaster General). | R.S. 1471 (less applicability to Paymaster General); June 20, 1940, ch. 400, § 1(a), 54 Stat. 492. |
+| 5137(b) | 5 U.S.C. 451 (less last 10 words). | R.S. 1375 (less last 10 words); Feb. 27, 1877, ch. 69, § 1, 19 Stat. 244. |
 
-In subsection (a) the words “from officers on the active list of the Navy in the Medical Corps” are substituted for the words “from the list of Surgeons of the Navy” to conform to present statutory terminology, and the words “or from officers having the rank of captain in the staff corps of the Navy” are omitted as obsolete in view of the subsequent changes in staff corps grades and the establishment of grades and ranks higher than captain in the staff corps. R.S. 421 and 426 were derived from the Act of July 5, 1862, ch. 134, 12 Stat. 510, and the Act of Mar. 3, 1871, ch. 117, § 10, 16 Stat. 537. The Act of July 5, 1862, provided that the Chief of the Bureau of Medicine and Surgery should be appointed from the list of surgeons in the Navy. At that time the senior medical officers were “surgeons” who “ranked with” commanders. Next junior to them were “surgeons” who “ranked with” lieutenants. The rank of lieutenant commander did not exist. The Act of Mar. 3, 1871, established five grades in the Medical Corps of which two, medical director and medical inspector, were higher than the grade of surgeon. Medical directors were given the relative rank of captain, medical inspectors the relative rank of commander, and surgeons the relative rank of lieutenant commander or lieutenant. The 1871 Act further provided that chiefs of bureaus might be appointed from officers having the relative rank of captain in the staff corps. This provision was probably intended to insure that the assignment of new grades and titles to senior staff corps officers should not be construed as a bar to their appointment as bureau chiefs. However, it was interpreted by the Commissioners who drafted the Revised Statutes as setting up a new category of officers from which bureau chiefs could be appointed, and it was therefore stated, in R.S. 421, as an alternative to each of the other categories specified for the various Bureaus in the 1862 Act and reenacted in R.S. 422–426. Thus the Chief of the Bureau of Medicine and Surgery could be appointed from surgeons, who had the relative rank of lieutenant commander or lieutenant in the Medical Corps, or from officers having the relative rank of captain in the Medical Corps, Pay Corps, or Engineer Corps. Section 405 of the Officer Personnel Act of 1947 (34 U.S.C. 10a) abolished the grade of surgeon and other staff corps grades and replaced them with grades having the same titles as the grades and ranks in the line. Officers who were “surgeons” are now “lieutenant commanders and lieutenants in the Medical Corps.” If this literal translation is made in R.S. 426 and the eligibility of all staff corps captains, as stated in R.S. 421, is retained, an absurd result is reached; i.e., lieutenants, lieutenant commanders, and captains in the Medical Corps are eligible for appointment as Chief of the Bureau of Medicine and Surgery; but commanders and rear admirals in that corps are ineligible; captains, but not rear admirals, in other staff corps are eligible by virtue of their rank alone, regardless of their lack of training in medicine. It appears, therefore, that the only reasonable meaning that can be given to R.S. 421 and 426 at the present time is that the Chief of the Bureau of Medicine and Surgery must be an officer of the Medical Corps.
+In subsection (a) the words “from officers on the active list of the Navy in the Medical Corps” are substituted for the words “from the list of Surgeons of the Navy” to conform to present statutory terminology, and the words “or from officers having the rank of captain in the staff corps of the Navy” are omitted as obsolete in view of the subsequent changes in staff corps grades and the establishment of grades and ranks higher than captain in the staff corps. R.S. 421 and 426 were derived from the Act of July 5, 1862, ch. 134, 12 Stat. 510, and the Act of Mar. 3, 1871, ch. 117, § 10, 16 Stat. 537. The Act of July 5, 1862, provided that the Chief of the Bureau of Medicine and Surgery should be appointed from the list of surgeons in the Navy. At that time the senior medical officers were “surgeons” who “ranked with” commanders. Next junior to them were “surgeons” who “ranked with” lieutenants. The rank of lieutenant commander did not exist. The Act of Mar. 3, 1871, established five grades in the Medical Corps of which two, medical director and medical inspector, were higher than the grade of surgeon. Medical directors were given the relative rank of captain, medical inspectors the relative rank of commander, and surgeons the relative rank of lieutenant commander or lieutenant. The 1871 Act further provided that chiefs of bureaus might be appointed from officers having the relative rank of captain in the staff corps. This provision was probably intended to insure that the assignment of new grades and titles to senior staff corps officers should not be construed as a bar to their appointment as bureau chiefs. However, it was interpreted by the Commissioners who drafted the Revised Statutes as setting up a new category of officers from which bureau chiefs could be appointed, and it was therefore stated, in R.S. 421, as an alternative to each of the other categories specified for the various Bureaus in the 1862 Act and reenacted in R.S. 422–426. Thus the Chief of the Bureau of Medicine and Surgery could be appointed from surgeons, who had the relative rank of lieutenant commander or lieutenant in the Medical Corps, or from officers having the relative rank of captain in the Medical Corps, Pay Corps, or Engineer Corps. Section 405 of the Officer Personnel Act of 1947 (34 U.S.C. 10a) abolished the grade of surgeon and other staff corps grades and replaced them with grades having the same titles as the grades and ranks in the line. Officers who were “surgeons” are now “lieutenant commanders and lieutenants in the Medical Corps.” If this literal translation is made in R.S. 426 and the eligibility of all staff corps captains, as stated in R.S. 421, is retained, an absurd result is reached; i.e., lieutenants, lieutenant commanders, and captains in the Medical Corps are eligible for appointment as Chief of the Bureau of Medicine and Surgery; but commanders and rear admirals in that corps are ineligible; captains, but not rear admirals, in other staff corps are eligible by virtue of their rank alone, regardless of their lack of training in medicine. It appears, therefore, that the only reasonable meaning that can be given to R.S. 421 and 426 at the present time is that the Chief of the Bureau of Medicine and Surgery must be an officer of the Medical Corps.
 
 In subsection (b) the words “Deputy Chief of the Bureau” are substituted for the words “assistant to the Bureau” for uniformity. The words “An officer on the active list of the Navy in the Medical Corps” are substituted for the words “A surgeon, assistant surgeon, or passed assistant surgeon” to conform to present statutory terminology and to describe clearly the class of officers eligible for detail under this subsection. When the source statute was enacted there was no class of officers exactly corresponding to officers of the present Naval Reserve, and retired officers could be called to active duty only in time of war, so that the detailing of an officer not on the active list as assistant to the bureau chief was probably not contemplated. Further, since the assistant or deputy must at times perform the duties of the chief, it is reasonable to assume that he was intended to be in the same category of officers. Later statutes relating to the Assistant Chiefs of the Bureau of Aeronautics and the Bureau of Ships, enacted at a time when there were Reserve officers and when retired officers could be called to duty at any time with their consent, specify that the assistant chiefs shall be officers on the active list.
 
@@ -212,7 +212,7 @@ In subsection (b) the words “Deputy Chief of the Bureau” are substituted for
 
 **Prior Provisions**
 
-A prior section 8077, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition of Air National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10111 of this title.
+A prior section 8077, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition of Air National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10111 of this title.
 
 **Amendments**
 
@@ -220,9 +220,9 @@ A prior section 8077, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to com
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to Chief and Deputy Chief of the Bureau of Medicine and Surgery.
 
-1996—Subsec. (a). Pub. L. 104–106, § 506(b)(1), substituted “in any corps of the Navy Medical Department” for “in the Medical Corps”.
+1996—Subsec. (a). Pub. L. 104–106, § 506(b)(1), substituted “in any corps of the Navy Medical Department” for “in the Medical Corps”.
 
-Subsec. (b). Pub. L. 104–106, § 506(b)(2), substituted “who is qualified to be the Chief of the Bureau of Medicine and Surgery” for “in the Medical Corps”.
+Subsec. (b). Pub. L. 104–106, § 506(b)(2), substituted “who is qualified to be the Chief of the Bureau of Medicine and Surgery” for “in the Medical Corps”.
 
 1980—Pub. L. 96–513 substituted “active-duty list” for “active list” wherever appearing.
 
@@ -238,13 +238,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8078. Bureau of Medicine and Surgery: Dental Corps; Chief; functions
+## § 8078. Bureau of Medicine and Surgery: Dental Corps; Chief; functions
 
 **(a)** An officer of the Dental Corps shall be detailed as Chief of the Dental Corps.
 
-**(b)** The Chief of the Dental Corps is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 1
+**(b)** The Chief of the Dental Corps is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -258,44 +258,44 @@ of this title.
 
 **(3)** serve as the advisor for the Bureau on all matters relating directly to dentistry.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 286, § 5138; Pub. L. 87–649, § 14c(17), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title III, § 342, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 109–364, div. A, title V, § 593(a)–(d)(1), Oct. 17, 2006, 120 Stat. 2234; Pub. L. 114–328, div. A, title V, § 502(aa), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8078, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 286, § 5138; Pub. L. 87–649, § 14c(17), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title III, § 342, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 109–364, div. A, title V, § 593(a)–(d)(1), Oct. 17, 2006, 120 Stat. 2234; Pub. L. 114–328, div. A, title V, § 502(aa), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8078, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5138 | 5 U.S.C. 456b. | Dec. 28, 1945, ch. 604, § 2, 59 Stat. 666. |
-|  | 5 U.S.C. 456c. | Dec. 28, 1945, ch. 604, § 3, 59 Stat. 666; Aug. 7, 1947, ch. 512, § 427, 61 Stat. 880; Oct. 18, 1951, ch. 513, 65 Stat. 450. |
+| 5138 | 5 U.S.C. 456b. | Dec. 28, 1945, ch. 604, § 2, 59 Stat. 666. |
+|  | 5 U.S.C. 456c. | Dec. 28, 1945, ch. 604, § 3, 59 Stat. 666; Aug. 7, 1947, ch. 512, § 427, 61 Stat. 880; Oct. 18, 1951, ch. 513, 65 Stat. 450. |
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5133 of this title, referred to in subsec. (b), was repealed by Pub. L. 114–328, div. A, title V, § 502(z)(1), Dec. 23, 2016, 130 Stat. 2104.
+Section 5133 of this title, referred to in subsec. (b), was repealed by Pub. L. 114–328, div. A, title V, § 502(z)(1), Dec. 23, 2016, 130 Stat. 2104.
 
 **Prior Provisions**
 
-A prior section 8078, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, provided that Air National Guard is component of Air Force when in service of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10112 of this title.
+A prior section 8078, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, provided that Air National Guard is component of Air Force when in service of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10112 of this title.
 
 **Amendments**
 
 2018—Pub. L. 115–232 renumbered section 5138 of this title as this section.
 
-2016—Subsec. (a). Pub. L. 114–328, § 502(aa)(1), struck out “not below the grade of rear admiral (lower half)” after “officer of the Dental Corps”.
+2016—Subsec. (a). Pub. L. 114–328, § 502(aa)(1), struck out “not below the grade of rear admiral (lower half)” after “officer of the Dental Corps”.
 
-Subsec. (c). Pub. L. 114–328, § 502(aa)(2), struck out first sentence which read as follows: “The dental functions of the Bureau of Medicine and Surgery shall be defined and prescribed by Bureau directives, and if necessary by regulations of the Secretary of the Navy, so that all such functions are under the direction of the Dental Corps.”
+Subsec. (c). Pub. L. 114–328, § 502(aa)(2), struck out first sentence which read as follows: “The dental functions of the Bureau of Medicine and Surgery shall be defined and prescribed by Bureau directives, and if necessary by regulations of the Secretary of the Navy, so that all such functions are under the direction of the Dental Corps.”
 
-2006—Pub. L. 109–364, § 593(d)(1), substituted “Dental Corps” for “Dental Division” in section catchline.
+2006—Pub. L. 109–364, § 593(d)(1), substituted “Dental Corps” for “Dental Division” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 593(a)(1), substituted “Chief of the Dental Corps” for “Chief of the Dental Division” and struck out first sentence which read as follows: “There is a Dental Division in the Bureau of Medicine and Surgery.”
+Subsec. (a). Pub. L. 109–364, § 593(a)(1), substituted “Chief of the Dental Corps” for “Chief of the Dental Division” and struck out first sentence which read as follows: “There is a Dental Division in the Bureau of Medicine and Surgery.”
 
-Subsec. (b). Pub. L. 109–364, § 593(a)(2), substituted “Dental Corps” for “Dental Division”.
+Subsec. (b). Pub. L. 109–364, § 593(a)(2), substituted “Dental Corps” for “Dental Division”.
 
-Subsec. (c). Pub. L. 109–364, § 593(c), substituted “shall be defined” for “shall be so defined” and “so that all such functions are” for “that all such functions will be”.
+Subsec. (c). Pub. L. 109–364, § 593(c), substituted “shall be defined” for “shall be so defined” and “so that all such functions are” for “that all such functions will be”.
 
-Pub. L. 109–364, § 593(a)(3), substituted “Dental Corps” for “Dental Division” in first sentence and “the Chief of the Dental Corps” for “that Division” in second sentence.
+Pub. L. 109–364, § 593(a)(3), substituted “Dental Corps” for “Dental Division” in first sentence and “the Chief of the Dental Corps” for “that Division” in second sentence.
 
-Subsec. (d). Pub. L. 109–364, § 593(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Dental Division shall—
+Subsec. (d). Pub. L. 109–364, § 593(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Dental Division shall—
 
 “(1) establish professional standards and policies for dental practice;
 
@@ -331,21 +331,21 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-## § 8079. Appointment of chiropractors in the Medical Service Corps
+## § 8079. Appointment of chiropractors in the Medical Service Corps
 
 Chiropractors who are qualified under regulations prescribed by the Secretary of the Navy may be appointed as commissioned officers in the Medical Service Corps of the Navy.
 
-(Added Pub. L. 102–484, div. A, title V, § 505(b)(1), Oct. 23, 1992, 106 Stat. 2404, § 5139; renumbered § 8079, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 102–484, div. A, title V, § 505(b)(1), Oct. 23, 1992, 106 Stat. 2404, § 5139; renumbered § 8079, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 8079 and 8080 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994.
+Prior sections 8079 and 8080 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994.
 
 Section 8079, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to status of Air National Guard of United States when not in Federal service. See section 10113 of this title.
 
-Section 8080, added Pub. L. 86–603, § 1(3)(A), July 7, 1960, 74 Stat. 357, related to authority of officers of Air National Guard of United States with respect to Federal status. See section 10215 of this title.
+Section 8080, added Pub. L. 86–603, § 1(3)(A), July 7, 1960, 74 Stat. 357, related to authority of officers of Air National Guard of United States with respect to Federal status. See section 10215 of this title.
 
 **Amendments**
 
@@ -361,25 +361,25 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Regulations required to be prescribed by amendment made by section 505 of Pub. L. 102–484 to be prescribed not later than 180 days after Oct. 23, 1992, see section 505(d) of Pub. L. 102–484, set out as a note under section 7070 of this title.
 
-## § 8081. Chief of Naval Personnel; Deputy Chief of Naval Personnel
+## § 8081. Chief of Naval Personnel; Deputy Chief of Naval Personnel
 
 **(a)** The Chief of Naval Personnel shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list in the line of the Navy not below the grade of commander.
 
 **(b)** An officer on the active-duty list in the line of the Navy not below the grade of commander may be detailed as Deputy Chief of Naval Personnel.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 287, § 5141; Pub. L. 96–513, title V, § 503(11), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 114–328, div. A, title V, § 502(bb)(1), (2), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8081, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 287, § 5141; Pub. L. 96–513, title V, § 503(11), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 114–328, div. A, title V, § 502(bb)(1), (2), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8081, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 5141(a) | 5 U.S.C. 432. | R.S. 421. |
-|  | 5 U.S.C. 434 (less applicability to Chief of BuOrd). | R.S. 422 (less applicability to Chief of BuOrd, Bureau of Equipment and Recruiting, and BuDocks); May 13, 1942, ch. 303, § 1, 56 Stat. 276. |
-| 5141(b) | 5 U.S.C. 446 (less last 49 words). | Mar. 3, 1893, ch. 212 (1st par., less last 53 words), 27 Stat. 717; May 13, 1942, ch. 303, § 1, 56 Stat. 276. |
+|  | 5 U.S.C. 434 (less applicability to Chief of BuOrd). | R.S. 422 (less applicability to Chief of BuOrd, Bureau of Equipment and Recruiting, and BuDocks); May 13, 1942, ch. 303, § 1, 56 Stat. 276. |
+| 5141(b) | 5 U.S.C. 446 (less last 49 words). | Mar. 3, 1893, ch. 212 (1st par., less last 53 words), 27 Stat. 717; May 13, 1942, ch. 303, § 1, 56 Stat. 276. |
 
-In subsection (a) the words “from officers on the active list in the line of the Navy” are substituted for the words “from the list of officers of the Navy” to conform to current terminology. Line officers alone had the “grade” of commander when the source statute was enacted. The words “or from officers having the rank of captain in the staff corps of the Navy” are omitted as obsolete in view of subsequent changes in the staff corps and in the staff corps ranks and grades. These words were derived from the Act of Mar. 3, 1871, ch. 117, § 10, 16 Stat. 537, which established new staff corps grades and assigned to officers in the highest grade the relative rank of captain. They were probably intended merely to assure the eligibility of senior staff corps officers for appointment as chiefs of appropriate staff bureaus. However, as incorporated in R.S. 421, they provide a category of eligible officers which is an alternative to each of the categories listed in R.S. 422–426. Thus R.S. 421 and R.S. 422, as originally enacted, provided that the chiefs of the four “line” bureaus, Yards and Docks, Navigation, Ordnance, and Equipment and Recruiting, could be appointed from line officers not below the grade of commander or from officers having the relative rank of captain in any staff corps. Pursuant to these sections the Attorney General held in 1898 that an officer having the relative rank of captain in the Civil Engineer Corps could legally be appointed as Chief of the Bureau of Yards and Docks (22 Op. Atty. Gen. 47, 17 Mar. 1898). There is some confusion in the opinion as to which corps was meant. The proposed appointee was a member of the Civil Engineer Corps, but the Corps of Engineers is the corps mentioned in the conclusion of the opinion. A provision in the Act of June 29, 1906, ch. 3590, 34 Stat. 564, requires that the Chief of the Bureau of Yards and Docks be selected from officers of the Civil Engineer Corps, so that there is no longer any question as to that bureau. The Bureau of Equipment and Recruiting has been abolished, leaving only the Bureau of Naval Personnel (formerly Navigation) and the Bureau of Ordnance of the four “line” bureaus originally listed in R.S. 422. The statutes establishing new “line” bureaus, the Bureau of Ships and the Bureau of Aeronautics, contain their own requirements as to the qualifications of the chiefs. The abolition of the Corps of Engineers and the Construction Corps, with the transfer of officers in those corps to the line, has eliminated the only staff corps whose members had duties closely related to those of line officers. The present staff corps, with the possible exception of the Supply Corps, are all highly specialized. Furthermore, in five of the seven corps, captain is no longer the highest grade. In view of these facts it is considered that the provision of R.S. 421 making staff corps captains eligible for appointment as Chief of the Bureaus of Naval Personnel and Ordnance is obsolete.
+In subsection (a) the words “from officers on the active list in the line of the Navy” are substituted for the words “from the list of officers of the Navy” to conform to current terminology. Line officers alone had the “grade” of commander when the source statute was enacted. The words “or from officers having the rank of captain in the staff corps of the Navy” are omitted as obsolete in view of subsequent changes in the staff corps and in the staff corps ranks and grades. These words were derived from the Act of Mar. 3, 1871, ch. 117, § 10, 16 Stat. 537, which established new staff corps grades and assigned to officers in the highest grade the relative rank of captain. They were probably intended merely to assure the eligibility of senior staff corps officers for appointment as chiefs of appropriate staff bureaus. However, as incorporated in R.S. 421, they provide a category of eligible officers which is an alternative to each of the categories listed in R.S. 422–426. Thus R.S. 421 and R.S. 422, as originally enacted, provided that the chiefs of the four “line” bureaus, Yards and Docks, Navigation, Ordnance, and Equipment and Recruiting, could be appointed from line officers not below the grade of commander or from officers having the relative rank of captain in any staff corps. Pursuant to these sections the Attorney General held in 1898 that an officer having the relative rank of captain in the Civil Engineer Corps could legally be appointed as Chief of the Bureau of Yards and Docks (22 Op. Atty. Gen. 47, 17 Mar. 1898). There is some confusion in the opinion as to which corps was meant. The proposed appointee was a member of the Civil Engineer Corps, but the Corps of Engineers is the corps mentioned in the conclusion of the opinion. A provision in the Act of June 29, 1906, ch. 3590, 34 Stat. 564, requires that the Chief of the Bureau of Yards and Docks be selected from officers of the Civil Engineer Corps, so that there is no longer any question as to that bureau. The Bureau of Equipment and Recruiting has been abolished, leaving only the Bureau of Naval Personnel (formerly Navigation) and the Bureau of Ordnance of the four “line” bureaus originally listed in R.S. 422. The statutes establishing new “line” bureaus, the Bureau of Ships and the Bureau of Aeronautics, contain their own requirements as to the qualifications of the chiefs. The abolition of the Corps of Engineers and the Construction Corps, with the transfer of officers in those corps to the line, has eliminated the only staff corps whose members had duties closely related to those of line officers. The present staff corps, with the possible exception of the Supply Corps, are all highly specialized. Furthermore, in five of the seven corps, captain is no longer the highest grade. In view of these facts it is considered that the provision of R.S. 421 making staff corps captains eligible for appointment as Chief of the Bureaus of Naval Personnel and Ordnance is obsolete.
 
-In subsection (b) the words “An officer on the active list in the line of the Navy not below the grade of commander” are substituted for the words “An officer of the Navy not below the rank of commander” to conform to current terminology and for clarity. When the source statute was enacted only line officers had the actual rank of commander. The words “on the active list” are inserted for the reasons stated in the revision note on § 5137(b) of this title. The words “Deputy Chief” are substituted for the words “assistant to the Chief” for the reason stated in the revision note on § 5134 of this title.
+In subsection (b) the words “An officer on the active list in the line of the Navy not below the grade of commander” are substituted for the words “An officer of the Navy not below the rank of commander” to conform to current terminology and for clarity. When the source statute was enacted only line officers had the actual rank of commander. The words “on the active list” are inserted for the reasons stated in the revision note on § 5137(b) of this title. The words “Deputy Chief” are substituted for the words “assistant to the Chief” for the reason stated in the revision note on § 5134 of this title.
 
 **Editorial Notes**
 
@@ -391,11 +391,11 @@ A prior section 8081 was renumbered section 9081 of this title.
 
 2018—Pub. L. 115–232 renumbered section 5141 of this title as this section.
 
-2016—Pub. L. 114–328, § 502(bb)(2), amended section catchline generally, substituting “Chief of Naval Personnel; Deputy Chief of Naval Personnel” for “Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel”.
+2016—Pub. L. 114–328, § 502(bb)(2), amended section catchline generally, substituting “Chief of Naval Personnel; Deputy Chief of Naval Personnel” for “Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel”.
 
-Subsec. (a). Pub. L. 114–328, § 502(bb)(1)(A), struck out first sentence which read as follows: “The Chief of the Bureau of Naval Personnel shall be known as the Chief of Naval Personnel.”
+Subsec. (a). Pub. L. 114–328, § 502(bb)(1)(A), struck out first sentence which read as follows: “The Chief of the Bureau of Naval Personnel shall be known as the Chief of Naval Personnel.”
 
-Subsec. (b). Pub. L. 114–328, § 502(bb)(1)(B), struck out first sentence which read as follows: “The Deputy Chief of the Bureau of Naval Personnel shall be known as the Deputy Chief of Naval Personnel.”
+Subsec. (b). Pub. L. 114–328, § 502(bb)(1)(B), struck out first sentence which read as follows: “The Deputy Chief of the Bureau of Naval Personnel shall be known as the Deputy Chief of Naval Personnel.”
 
 1980—Pub. L. 96–513 substituted “active-duty list” for “active list” wherever appearing.
 
@@ -409,7 +409,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8082. Chaplain Corps and Chief of Chaplains
+## § 8082. Chaplain Corps and Chief of Chaplains
 
 **(a)** The Chaplain Corps is a staff corps of the Navy and shall be organized in accordance with regulations prescribed by the Secretary of the Navy.
 
@@ -425,19 +425,19 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 **(e)** The Chief of Chaplains, while so serving, holds the grade of rear admiral (upper half).
 
-(Added Pub. L. 96–343, § 11(a), Sept. 8, 1980, 94 Stat. 1130, § 5142; amended Pub. L. 105–85, div. A, title V, § 504(c)(1), Nov. 18, 1997, 111 Stat. 1725; Pub. L. 114–328, div. A, title V, § 502(cc), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8082 and amended Pub. L. 115–232, div. A, title V, § 510(b), title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1751, 1834.)
+(Added Pub. L. 96–343, § 11(a), Sept. 8, 1980, 94 Stat. 1130, § 5142; amended Pub. L. 105–85, div. A, title V, § 504(c)(1), Nov. 18, 1997, 111 Stat. 1725; Pub. L. 114–328, div. A, title V, § 502(cc), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8082 and amended Pub. L. 115–232, div. A, title V, § 510(b), title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1751, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(a)(2), renumbered section 5142 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(2), renumbered section 5142 of this title as this section.
 
-Subsec. (e). Pub. L. 115–232, § 510(b), added subsec. (e).
+Subsec. (e). Pub. L. 115–232, § 510(b), added subsec. (e).
 
 2016—Subsec. (e). Pub. L. 114–328 struck out subsec. (e) which read as follows: “The Chief of Chaplains of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”
 
-1997—Subsec. (b). Pub. L. 105–85 struck out “, who are not on the retired list,” after “serving on active duty”.
+1997—Subsec. (b). Pub. L. 105–85 struck out “, who are not on the retired list,” after “serving on active duty”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -445,11 +445,11 @@ Subsec. (e). Pub. L. 115–232, § 510(b), added subsec. (e).
 
 Amendment by section 807(a)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8082a. Deputy Chief of Chaplains
+## § 8082a. Deputy Chief of Chaplains
 
 The Secretary of the Navy may detail as the Deputy Chief of Chaplains an officer of the Chaplain Corps in the grade of commander or above who is on active duty and who has served on active duty in the Chaplain Corps for at least eight years.
 
-(Added Pub. L. 96–343, § 11(a), Sept. 8, 1980, 94 Stat. 1130, § 5142a; amended Pub. L. 105–85, div. A, title V, § 504(c)(2), Nov. 18, 1997, 111 Stat. 1725; renumbered § 8082a, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 96–343, § 11(a), Sept. 8, 1980, 94 Stat. 1130, § 5142a; amended Pub. L. 105–85, div. A, title V, § 504(c)(2), Nov. 18, 1997, 111 Stat. 1725; renumbered § 8082a, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -457,7 +457,7 @@ The Secretary of the Navy may detail as the Deputy Chief of Chaplains an officer
 
 2018—Pub. L. 115–232 renumbered section 5142a of this title as this section.
 
-1997—Pub. L. 105–85 struck out “, who is not on the retired list,” after “who is on active duty”.
+1997—Pub. L. 105–85 struck out “, who is not on the retired list,” after “who is on active duty”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -465,7 +465,7 @@ The Secretary of the Navy may detail as the Deputy Chief of Chaplains an officer
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8083. Office of Navy Reserve: appointment of Chief
+## § 8083. Office of Navy Reserve: appointment of Chief
 
 **(a) Establishment of Office: Chief of Navy Reserve.—** There is in the executive part of the Department of the Navy, on the staff of the Chief of Naval Operations, an Office of the Navy Reserve, which is headed by a Chief of Navy Reserve. The Chief of Navy Reserve—
 
@@ -499,7 +499,7 @@ Any such waiver shall be made on a case-by-case basis.
 
 **(e) Annual Report.—** The Chief of Navy Reserve shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Navy Reserve and the ability of the Navy Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Naval Operations and may be submitted in classified and unclassified versions.
 
-(Added Pub. L. 104–201, div. A, title XII, § 1212(b)(1), Sept. 23, 1996, 110 Stat. 2691, § 5143; amended Pub. L. 106–65, div. A, title V, § 554(c), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(b), title X, § 1087(a)(18)], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, § 536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–163, div. A, title V, § 515(b)(1)(F), (2), (3)(A), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 112–81, div. A, title X, § 1061(26), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 114–328, div. A, title V, § 502(dd), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8083 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 118–159, div. A, title X, § 1061, Dec. 23, 2024, 138 Stat. 2064.)
+(Added Pub. L. 104–201, div. A, title XII, § 1212(b)(1), Sept. 23, 1996, 110 Stat. 2691, § 5143; amended Pub. L. 106–65, div. A, title V, § 554(c), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(b), title X, § 1087(a)(18)], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, § 536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–163, div. A, title V, § 515(b)(1)(F), (2), (3)(A), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 112–81, div. A, title X, § 1061(26), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 114–328, div. A, title V, § 502(dd), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8083 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 118–159, div. A, title X, § 1061, Dec. 23, 2024, 138 Stat. 2064.)
 
 **Editorial Notes**
 
@@ -507,11 +507,11 @@ Any such waiver shall be made on a case-by-case basis.
 
 2024—Subsec. (e). Pub. L. 118–159 added subsec. (e).
 
-2018—Pub. L. 115–232, § 807(a)(2), renumbered section 5143 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(2), renumbered section 5143 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8001(1)” for “section 5001(1)”.
+Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8001(1)” for “section 5001(1)”.
 
-2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Chief of Navy Reserve” and struck out par. (2) which read as follows: “The Chief of Navy Reserve, while so serving, holds the grade of vice admiral.”
+2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Chief of Navy Reserve” and struck out par. (2) which read as follows: “The Chief of Navy Reserve, while so serving, holds the grade of vice admiral.”
 
 2011—Subsec. (e). Pub. L. 112–81 struck out subsec. (e). Prior to amendment, text read as follows:
 
@@ -519,17 +519,17 @@ Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8001(1)�
 
 “(2) The Secretary of Defense shall transmit the annual report of the Chief of Navy Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.”
 
-2006—Pub. L. 109–163, § 515(b)(3)(A), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+2006—Pub. L. 109–163, § 515(b)(3)(A), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-Pub. L. 109–163, § 515(b)(1)(F), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
+Pub. L. 109–163, § 515(b)(1)(F), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
 
-Subsec. (a). Pub. L. 109–163, § 515(b)(2), substituted “Navy Reserve” for “Naval Reserve” in heading.
+Subsec. (a). Pub. L. 109–163, § 515(b)(2), substituted “Navy Reserve” for “Naval Reserve” in heading.
 
 2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
 2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003” in introductory provisions.
 
-2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 507(b)], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Naval Reserve from officers who—
+2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 507(b)], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Naval Reserve from officers who—
 
 “(1) have had at least 10 years of commissioned service;
 
@@ -537,13 +537,13 @@ Subsec. (a). Pub. L. 109–163, § 515(b)(2), substituted “Navy Reserve” f
 
 “(3) have been recommended by the Secretary of the Navy.”
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 507(b)], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 507(b)], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(c) Grade.—(1) The Chief of Naval Reserve holds office for a term determined by the Chief of Naval Operations, normally four years, but may be removed for cause at any time. He is eligible to succeed himself.
 
 “(2) The Chief of Naval Reserve, while so serving, has the grade of rear admiral, without vacating the officer’s permanent grade. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of vice admiral.”
 
-Subsec. (c)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(18)], substituted “has the grade of” for “has a grade”.
+Subsec. (c)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(18)], substituted “has the grade of” for “has a grade”.
 
 1999—Subsec. (c)(2). Pub. L. 106–65 substituted “rear admiral” for “above rear admiral (lower half)” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of vice admiral.”
 
@@ -557,7 +557,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 7038 of this title.
 
-## § 8084. Office of Marine Forces Reserve: appointment of Commander
+## § 8084. Office of Marine Forces Reserve: appointment of Commander
 
 **(a) Establishment of Office; Commander, Marine Forces Reserve.—** There is in the executive part of the Department of the Navy an Office of the Marine Forces Reserve, which is headed by the Commander, Marine Forces Reserve. The Commander, Marine Forces Reserve, is the principal adviser to the Commandant on Marine Forces Reserve matters.
 
@@ -585,7 +585,7 @@ Any such waiver shall be made on a case-by-case basis.
 
 **(d) Annual Report.—** The Commander, Marine Forces Reserve, shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Marine Corps Reserve and the ability of the Marine Corps Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant of the Marine Corps and may be submitted in classified and unclassified versions.
 
-(Added Pub. L. 104–201, div. A, title XII, § 1212(c)(1), Sept. 23, 1996, 110 Stat. 2692, § 5144; amended Pub. L. 106–65, div. A, title V, § 554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(c), title X, § 1087(a)(19)], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, § 536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, § 502(ee), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title X, § 1051(a)(29), Dec. 12, 2017, 131 Stat. 1562; renumbered § 8084 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–92, div. A, title V, § 514(a), Dec. 20, 2019, 133 Stat. 1349.)
+(Added Pub. L. 104–201, div. A, title XII, § 1212(c)(1), Sept. 23, 1996, 110 Stat. 2692, § 5144; amended Pub. L. 106–65, div. A, title V, § 554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(c), title X, § 1087(a)(19)], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, § 536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, § 502(ee), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title X, § 1051(a)(29), Dec. 12, 2017, 131 Stat. 1562; renumbered § 8084 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–92, div. A, title V, § 514(a), Dec. 20, 2019, 133 Stat. 1349.)
 
 **Editorial Notes**
 
@@ -597,19 +597,19 @@ A prior section 8084 was successively renumbered section 9084, 9068, and 9083 of
 
 2019—Subsec. (b)(1). Pub. L. 116–92 substituted “general officers of the Marine Corps Reserve” for “general officers of the Marine Corps (as defined in section 8001(2))”.
 
-2018—Pub. L. 115–232, § 807(a)(2), renumbered section 5144 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(2), renumbered section 5144 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8001(2)” for “section 5001(2)”.
+Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8001(2)” for “section 5001(2)”.
 
 2017—Subsec. (d). Pub. L. 115–91 struck out par. (1) designation before “The Commander,” and struck out par. (2) which read as follows: “The Secretary of Defense shall transmit the annual report of the Commander, Marine Forces Reserve, under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.”
 
-2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Commander, Marine Forces Reserve,” and struck out par. (2) which read as follows: “The Commander, Marine Forces Reserve, while so serving, holds the grade of lieutenant general.”
+2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Commander, Marine Forces Reserve,” and struck out par. (2) which read as follows: “The Commander, Marine Forces Reserve, while so serving, holds the grade of lieutenant general.”
 
 2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
 2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
 
-2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 507(c)], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from officers of the Marine Corps who—
+2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 507(c)], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from officers of the Marine Corps who—
 
 “(1) have had at least 10 years of commissioned service;
 
@@ -617,13 +617,13 @@ Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8001(2)�
 
 “(3) have been recommended by the Secretary of the Navy.”
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 507(c)], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 507(c)], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(c) Term of Office; Grade.—(1) The Commander, Marine Forces Reserve, holds office for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. He is eligible to succeed himself.
 
 “(2) The Commander, Marine Forces Reserve, while so serving, has the grade of major general, without vacating the officer’s permanent grade. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
-Subsec. (c)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(19)], substituted “has the grade of” for “has a grade”.
+Subsec. (c)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(19)], substituted “has the grade of” for “has a grade”.
 
 1999—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
@@ -631,7 +631,7 @@ Subsec. (c)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(19)],
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title V, § 514(b), Dec. 20, 2019, 133 Stat. 1349, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2019] and shall apply to appointments made after such date.”
+Pub. L. 116–92, div. A, title V, § 514(b), Dec. 20, 2019, 133 Stat. 1349, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2019] and shall apply to appointments made after such date.”
 
 **Effective Date of 2018 Amendment**
 
@@ -641,7 +641,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 7038 of this title.
 
-## § 8088. Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties
+## § 8088. Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties
 
 **(a)** The Judge Advocate General’s Corps is a Staff Corps of the Navy, and shall be organized in accordance with regulations prescribed by the Secretary of the Navy.
 
@@ -667,14 +667,14 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
 
 **(f)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (b), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 289, § 5148; Pub. L. 87–649, § 14c(20), Sept. 7, 1962, 76 Stat. 501; Pub. L. 90–179, § 2(1), Dec. 8, 1967, 81 Stat. 546; Pub. L. 96–513, title III, § 343, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 103–337, div. A, title V, § 504(b)(1), Oct. 5, 1994, 108 Stat. 2750; Pub. L. 108–375, div. A, title V, § 574(b)(1), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 109–163, div. A, title V, § 508(b), title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, § 543(b), Jan. 28, 2008, 122 Stat. 115; Pub. L. 114–328, div. A, title V, § 502(ff), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8088, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 119–60, div. A, title V, § 506(b), Dec. 18, 2025, 139 Stat. 858.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 289, § 5148; Pub. L. 87–649, § 14c(20), Sept. 7, 1962, 76 Stat. 501; Pub. L. 90–179, § 2(1), Dec. 8, 1967, 81 Stat. 546; Pub. L. 96–513, title III, § 343, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 103–337, div. A, title V, § 504(b)(1), Oct. 5, 1994, 108 Stat. 2750; Pub. L. 108–375, div. A, title V, § 574(b)(1), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 109–163, div. A, title V, § 508(b), title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, § 543(b), Jan. 28, 2008, 122 Stat. 115; Pub. L. 114–328, div. A, title V, § 502(ff), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8088, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 119–60, div. A, title V, § 506(b), Dec. 18, 2025, 139 Stat. 858.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 5148 | 5 U.S.C. 428. | June 8, 1880, ch. 129, 21 Stat. 164; June 5, 1896, ch. 331, 29 Stat. 251. |
-|  | 50 U.S.C. 741 (as applicable to Navy JAG). | May 5, 1950, ch. 169, § 13 (as applicable to Navy JAG), 64 Stat. 147. |
+|  | 50 U.S.C. 741 (as applicable to Navy JAG). | May 5, 1950, ch. 169, § 13 (as applicable to Navy JAG), 64 Stat. 147. |
 |  | 5 U.S.C. 441 (as applicable to JAG). | July 1, 1918, ch. 114, 40 Stat. 717 (1st sentence on p. 717, as applicable to JAG). |
 |  | 5 U.S.C. 425a (as applicable to JAG). | June 22, 1938, ch. 567 (as applicable to JAG), 52 Stat. 839. |
 
@@ -696,23 +696,23 @@ Subsection (c)(2) is substituted for the reference, in 5 U.S.C. 428, to courts-m
 
 2008—Subsec. (b). Pub. L. 110–181 substituted “The Judge Advocate General, while so serving, has the grade of vice admiral or lieutenant general, as appropriate.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than rear admiral or major general, as appropriate.”
 
-2006—Subsec. (b). Pub. L. 109–163, § 1057(a)(2), struck out “or Territory” after “highest court of a State”.
+2006—Subsec. (b). Pub. L. 109–163, § 1057(a)(2), struck out “or Territory” after “highest court of a State”.
 
-Pub. L. 109–163, § 508(b), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than rear admiral or major general, as appropriate.” for “If an officer appointed as the Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.”
+Pub. L. 109–163, § 508(b), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than rear admiral or major general, as appropriate.” for “If an officer appointed as the Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.”
 
 2004—Subsec. (e). Pub. L. 108–375 added subsec. (e).
 
-1994—Subsec. (b). Pub. L. 103–337, § 504(b)(1)(A), added last sentence and struck out former last sentence which read as follows: “While so serving, the Judge Advocate General of the Navy shall be entitled to the rank and grade of rear admiral or major general, as appropriate, unless entitled to a higher rank and grade under another provision of law.”
+1994—Subsec. (b). Pub. L. 103–337, § 504(b)(1)(A), added last sentence and struck out former last sentence which read as follows: “While so serving, the Judge Advocate General of the Navy shall be entitled to the rank and grade of rear admiral or major general, as appropriate, unless entitled to a higher rank and grade under another provision of law.”
 
-Subsec. (c). Pub. L. 103–337, § 504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Judge Advocate General of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”
+Subsec. (c). Pub. L. 103–337, § 504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Judge Advocate General of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”
 
 1980—Subsec. (b). Pub. L. 96–513 inserted provision entitling Judge Advocate General of Navy to rank and grade of rear admiral or major general, as appropriate.
 
-1967—Pub. L. 90–179, § 2(1)(A), inserted reference to Judge Advocate General’s Corps in section catchline.
+1967—Pub. L. 90–179, § 2(1)(A), inserted reference to Judge Advocate General’s Corps in section catchline.
 
-Subsecs. (a) to (d). Pub. L. 90–179, § 2(1)(B), (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as (b) to (d), respectively, and in subsec. (b) as so redesignated substituted “judge advocates” for “officers”.
+Subsecs. (a) to (d). Pub. L. 90–179, § 2(1)(B), (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as (b) to (d), respectively, and in subsec. (b) as so redesignated substituted “judge advocates” for “officers”.
 
-1962—Subsec. (b). Pub. L. 87–649 struck out “, pay, allowances,” after “same rank”. See Title 37, Pay and Allowances of the Uniformed Services.
+1962—Subsec. (b). Pub. L. 87–649 struck out “, pay, allowances,” after “same rank”. See Title 37, Pay and Allowances of the Uniformed Services.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -730,7 +730,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 **Redesignation of Navy Law Specialists as Judge Advocates**
 
-Pub. L. 90–179, § 8, Dec. 8, 1967, 81 Stat. 549, provided that:
+Pub. L. 90–179, § 8, Dec. 8, 1967, 81 Stat. 549, provided that:
 
 > **“(a)** In this section ‘law specialist’ means a line officer on the active or retired list of the Regular Navy or of the Naval Reserve designated for special duty (law) or a line officer of the Naval Reserve [now Navy Reserve] assigned a numerical designator indicating a special duty officer (law).
 
@@ -738,9 +738,9 @@ Pub. L. 90–179, § 8, Dec. 8, 1967, 81 Stat. 549, provided that:
 
 **Savings Provision**
 
-Pub. L. 90–179, § 10, Dec. 8, 1967, 81 Stat. 549, provided that: “This Act [enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5149, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897 and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5149 of this title] does not affect rights accrued, duties matured, or proceedings commenced before its effective date. Redesignation of an officer under section 8(b) of this Act [set out as a note under this section] shall not operate to change the computation of his service for any purpose.”
+Pub. L. 90–179, § 10, Dec. 8, 1967, 81 Stat. 549, provided that: “This Act [enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5149, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897 and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5149 of this title] does not affect rights accrued, duties matured, or proceedings commenced before its effective date. Redesignation of an officer under section 8(b) of this Act [set out as a note under this section] shall not operate to change the computation of his service for any purpose.”
 
-## § 8089. Office of the Judge Advocate General: Deputy Judge Advocate General; Assistant Judge Advocates General
+## § 8089. Office of the Judge Advocate General: Deputy Judge Advocate General; Assistant Judge Advocates General
 
 **(a)**
 
@@ -762,50 +762,50 @@ Pub. L. 90–179, § 10, Dec. 8, 1967, 81 Stat. 549, provided that: “This Ac
 
 **(e)** When subsection (d) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the Assistant Judge Advocates General, in the order directed by the Secretary of the Navy, shall perform the duties of the Judge Advocate General.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 290, § 5149; Pub. L. 85–861, § 33(a)(28), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, § 14c(21), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–718, § 36, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 90–179, § 2(2), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–623, § 2(9), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, § 503(13), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–661, div. A, title V, § 508(b), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 103–337, div. A, title V, § 504(b)(2), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 114–328, div. A, title V, § 502(gg), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title V, § 508(b), Dec. 12, 2017, 131 Stat. 1375; renumbered § 8089 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 290, § 5149; Pub. L. 85–861, § 33(a)(28), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, § 14c(21), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–718, § 36, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 90–179, § 2(2), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–623, § 2(9), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, § 503(13), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–661, div. A, title V, § 508(b), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 103–337, div. A, title V, § 504(b)(2), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 114–328, div. A, title V, § 502(gg), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title V, § 508(b), Dec. 12, 2017, 131 Stat. 1375; renumbered § 8089 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 5149(a) | 5 U.S.C. 444 (less last 19 words). | Aug. 29, 1916, ch. 417 (3d par., 96th through 121st word), 39 Stat. 558. |
-|  | 5 U.S.C. 453 (as applicable to Asst. JAG). | Mar. 4, 1925, ch. 536, § 15 (as applicable to Asst. JAG), 43 Stat. 1275. |
+|  | 5 U.S.C. 453 (as applicable to Asst. JAG). | Mar. 4, 1925, ch. 536, § 15 (as applicable to Asst. JAG), 43 Stat. 1275. |
 | 5149(b) | 5 U.S.C. 444 (last 19 words). | Aug. 29, 1916, ch. 417 (3d par., 122d word to end of par.), 39 Stat. 558. |
-| 5149(c) | 5 U.S.C. 432a (as applicable to JAG). | Feb. 3, 1942, ch. 35, § 1 (as applicable to JAG), 56 Stat. 47. |
+| 5149(c) | 5 U.S.C. 432a (as applicable to JAG). | Feb. 3, 1942, ch. 35, § 1 (as applicable to JAG), 56 Stat. 47. |
 
-Changes in phraseology are made to conform to the language used in § 5135 of this title.
+Changes in phraseology are made to conform to the language used in § 5135 of this title.
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(a)(2), renumbered section 5149 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(2), renumbered section 5149 of this title as this section.
 
-Subsecs. (b), (c). Pub. L. 115–232, § 809(a), substituted “section 8088(b)” for “section 5148(b)”.
+Subsecs. (b), (c). Pub. L. 115–232, § 809(a), substituted “section 8088(b)” for “section 5148(b)”.
 
 2017—Subsec. (a)(3). Pub. L. 115–91 added par. (3).
 
-2016—Subsec. (a)(1). Pub. L. 114–328, § 502(gg)(1), struck out “, by and with the advice and consent of the Senate,” after “appointed by the President” and struck out second sentence which read as follows: “If an officer appointed as the Deputy Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.”
+2016—Subsec. (a)(1). Pub. L. 114–328, § 502(gg)(1), struck out “, by and with the advice and consent of the Senate,” after “appointed by the President” and struck out second sentence which read as follows: “If an officer appointed as the Deputy Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.”
 
-Subsec. (b). Pub. L. 114–328, § 502(gg)(2), struck out second and last sentences which read “While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate.” and “If he is retired as a rear admiral (lower half), he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.”, respectively.
+Subsec. (b). Pub. L. 114–328, § 502(gg)(2), struck out second and last sentences which read “While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate.” and “If he is retired as a rear admiral (lower half), he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.”, respectively.
 
-Subsec. (c). Pub. L. 114–328, § 502(gg)(2), struck out second and last sentences which read “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate.” and “If he is retired as a brigadier general, he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.”, respectively.
+Subsec. (c). Pub. L. 114–328, § 502(gg)(2), struck out second and last sentences which read “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate.” and “If he is retired as a brigadier general, he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.”, respectively.
 
 1994—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1), added second sentence, struck out former second and third sentences which read as follows: “While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”, and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–661, § 508(b)(1), substituted “There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General” for “A judge advocate of the Navy or Marine Corps who has the qualifications prescribed for the Judge Advocate General in section 5148(b) of this title shall be detailed as Deputy Judge Advocate General of the Navy”, and struck out “rank and” before “grade of” and struck out “rank or” before “grade under” in second sentence.
+1986—Subsec. (a). Pub. L. 99–661, § 508(b)(1), substituted “There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General” for “A judge advocate of the Navy or Marine Corps who has the qualifications prescribed for the Judge Advocate General in section 5148(b) of this title shall be detailed as Deputy Judge Advocate General of the Navy”, and struck out “rank and” before “grade of” and struck out “rank or” before “grade under” in second sentence.
 
-Subsec. (b). Pub. L. 99–661, § 508(b)(2), substituted “While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate” for “While so serving he is entitled to the rank and grade of rear admiral (lower half), unless entitled to a higher rank or grade under another provision of law”.
+Subsec. (b). Pub. L. 99–661, § 508(b)(2), substituted “While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate” for “While so serving he is entitled to the rank and grade of rear admiral (lower half), unless entitled to a higher rank or grade under another provision of law”.
 
-Subsec. (c). Pub. L. 99–661, § 508(b)(3), substituted “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate” for “While so serving he is entitled to the rank and grade of brigadier general, unless entitled to a higher rank or grade under another provision of law”.
+Subsec. (c). Pub. L. 99–661, § 508(b)(3), substituted “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate” for “While so serving he is entitled to the rank and grade of brigadier general, unless entitled to a higher rank or grade under another provision of law”.
 
 1985—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” in three places.
 
 1981—Subsec. (b). Pub. L. 97–86 substituted “commodore” for “commodore admiral” in three places.
 
-1980—Subsec. (a). Pub. L. 96–513, § 503(13)(A), struck out “(upper half)” after “entitled to the rank and grade of rear admiral”.
+1980—Subsec. (a). Pub. L. 96–513, § 503(13)(A), struck out “(upper half)” after “entitled to the rank and grade of rear admiral”.
 
-Subsec. (b). Pub. L. 96–513, § 503(13)(B), (C), substituted “rank and grade of commodore admiral” for “rank and grade of rear admiral (lower half)” in two places, “retired as a commodore admiral” for “retired as a rear admiral”, and “retired pay of that grade” for “retired pay in the lower half of that grade”.
+Subsec. (b). Pub. L. 96–513, § 503(13)(B), (C), substituted “rank and grade of commodore admiral” for “rank and grade of rear admiral (lower half)” in two places, “retired as a commodore admiral” for “retired as a rear admiral”, and “retired pay of that grade” for “retired pay in the lower half of that grade”.
 
 1968—Subsec. (c). Pub. L. 90–623 substituted “5148(b)” for “4158(b)”.
 
@@ -851,7 +851,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 **Grandfathering of Retired Grade of Assistant Judge Advocates General of the Navy as of Repeal of Statutory Specification of General and Flag Officers Grades in the Armed Forces**
 
-Pub. L. 115–91, div. A, title V, § 509, Dec. 12, 2017, 131 Stat. 1375, provided that:
+Pub. L. 115–91, div. A, title V, § 509, Dec. 12, 2017, 131 Stat. 1375, provided that:
 
 > **“(a) In General.—** Notwithstanding the amendments made by section 502(gg)(2) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2105) [amending this section], an officer selected to hold a position specified in subsection (b) as of December 23, 2016, may be retired after that date in the grade of rear admiral (lower half) or brigadier general, as applicable, with the retired pay of such grade (unless entitled to higher pay under another provision of law).
 
@@ -859,7 +859,7 @@ Pub. L. 115–91, div. A, title V, § 509, Dec. 12, 2017, 131 Stat. 1375, prov
 
 **Officer Serving as Deputy and Assistant Judge Advocate of the Navy on Dec. 7, 1967; Rank; Retirement Benefits**
 
-Pub. L. 90–179, § 9, Dec. 8, 1967, 81 Stat. 549, provided that: “Nothing in this Act [enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5148, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897, and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5184 of this title] shall operate to terminate or reduce the term of an officer who was serving as Deputy and Assistant Judge Advocate General of the Navy on the day before the effective date of this Act [Dec. 8, 1967] or to deprive to him of the rank, pay, allowances, or retirement privileges to which he was then entitled. Notwithstanding any other provision of law, an officer who was so serving on the day before the effective date of this Act shall be deemed to be detailed as Deputy Judge Advocate General, pursuant to section 5149 [now 8089] of title 10, United States Code, as amended by this Act [this section], and in addition to rights and benefits then accrued, to be entitled to the rank and retirement benefits authorized by that section. For the purposes of determining his eligibility for the retirement benefits authorized by section 5149 [now 8089] of title 10, United States Code, as amended by this Act [this section], an officer who is serving as Deputy Judge Advocate General on the effective date of this Act shall be credited with all service performed under appointment or detail as Deputy and Assistant Judge Advocate General before the effective date of this Act.”
+Pub. L. 90–179, § 9, Dec. 8, 1967, 81 Stat. 549, provided that: “Nothing in this Act [enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5148, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897, and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5184 of this title] shall operate to terminate or reduce the term of an officer who was serving as Deputy and Assistant Judge Advocate General of the Navy on the day before the effective date of this Act [Dec. 8, 1967] or to deprive to him of the rank, pay, allowances, or retirement privileges to which he was then entitled. Notwithstanding any other provision of law, an officer who was so serving on the day before the effective date of this Act shall be deemed to be detailed as Deputy Judge Advocate General, pursuant to section 5149 [now 8089] of title 10, United States Code, as amended by this Act [this section], and in addition to rights and benefits then accrued, to be entitled to the rank and retirement benefits authorized by that section. For the purposes of determining his eligibility for the retirement benefits authorized by section 5149 [now 8089] of title 10, United States Code, as amended by this Act [this section], an officer who is serving as Deputy Judge Advocate General on the effective date of this Act shall be credited with all service performed under appointment or detail as Deputy and Assistant Judge Advocate General before the effective date of this Act.”
 
 **Executive Documents**
 
@@ -867,7 +867,7 @@ Pub. L. 90–179, § 9, Dec. 8, 1967, 81 Stat. 549, provided that: “Nothing 
 
 Functions of President under this section delegated to Secretary of Defense, see section 1(8) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
-## § 8090. Staff corps of the Navy
+## § 8090. Staff corps of the Navy
 
 **(a)** The staff corps of the Navy are—
 
@@ -895,21 +895,21 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 **(2)** The Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.
 
-(Added Pub. L. 96–513, title III, § 351, Dec. 12, 1980, 94 Stat. 2902, § 5155; amended Pub. L. 97–22, § 6(a), July 10, 1981, 95 Stat. 129; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; renumbered § 5150, Pub. L. 99–433, title V, § 514(a)(2), Oct. 1, 1986, 100 Stat. 1054; Pub. L. 99–661, div. A, title XIII, § 1343(a)(23), Nov. 14, 1986, 100 Stat. 3994; Pub. L. 100–26, § 3(7), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, § 1061(a)(22)(A), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 107–314, div. A, title V, § 504(a)(2), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 112–239, div. A, title V, § 501(b), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 114–328, div. A, title V, § 502(hh), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8090, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 118–159, div. A, title IX, § 923, Dec. 23, 2024, 138 Stat. 2039.)
+(Added Pub. L. 96–513, title III, § 351, Dec. 12, 1980, 94 Stat. 2902, § 5155; amended Pub. L. 97–22, § 6(a), July 10, 1981, 95 Stat. 129; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; renumbered § 5150, Pub. L. 99–433, title V, § 514(a)(2), Oct. 1, 1986, 100 Stat. 1054; Pub. L. 99–661, div. A, title XIII, § 1343(a)(23), Nov. 14, 1986, 100 Stat. 3994; Pub. L. 100–26, § 3(7), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, § 1061(a)(22)(A), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 107–314, div. A, title V, § 504(a)(2), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 112–239, div. A, title V, § 501(b), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 114–328, div. A, title V, § 502(hh), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8090, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 118–159, div. A, title IX, § 923, Dec. 23, 2024, 138 Stat. 2039.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a)(5) to (9). Pub. L. 118–159, § 923(a), added pars. (5) to (8) and redesignated former par. (5) as (9).
+2024—Subsec. (a)(5) to (9). Pub. L. 118–159, § 923(a), added pars. (5) to (8) and redesignated former par. (5) as (9).
 
-Subsec. (b)(1). Pub. L. 118–159, § 923(b), substituted “staff corps specified in subsection (a)” for “Medical Corps, the Dental Corps, the Judge Advocate General’s Corps, and the Chaplain Corps”.
+Subsec. (b)(1). Pub. L. 118–159, § 923(b), substituted “staff corps specified in subsection (a)” for “Medical Corps, the Dental Corps, the Judge Advocate General’s Corps, and the Chaplain Corps”.
 
 2018—Pub. L. 115–232 renumbered section 5150 of this title as this section.
 
-2016—Subsec. (b)(2). Pub. L. 114–328, § 502(hh)(1), substituted “The Secretary” for “Subject to subsection (c), the Secretary”.
+2016—Subsec. (b)(2). Pub. L. 114–328, § 502(hh)(1), substituted “The Secretary” for “Subject to subsection (c), the Secretary”.
 
-Subsec. (c). Pub. L. 114–328, § 502(hh)(2), struck out subsec. (c) which read as follows: “The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under section 611(a) of this title to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps. An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary.”
+Subsec. (c). Pub. L. 114–328, § 502(hh)(2), struck out subsec. (c) which read as follows: “The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under section 611(a) of this title to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps. An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary.”
 
 2013—Subsec. (c). Pub. L. 112–239 struck out at end “For the purpose of computing the total number of flag officers in the staff corps of the Navy under section 526 of this title, an officer so appointed shall be considered an additional number in grade.”
 
@@ -917,7 +917,7 @@ Subsec. (c). Pub. L. 114–328, § 502(hh)(2), struck out subsec. (c) which re
 
 1991—Subsec. (c). Pub. L. 102–190 substituted “section 526” for “section 5444”.
 
-1987—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, § 1343(a)(23). See 1986 Amendment note below.
+1987—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, § 1343(a)(23). See 1986 Amendment note below.
 
 1986—Pub. L. 99–433 renumbered section 5155 of this title as this section.
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 50—FOREIGN PROCUREMENT
 
-## § 5000C. Imposition of tax on certain foreign procurement
+## § 5000C. Imposition of tax on certain foreign procurement
 
 **(a) Imposition of tax**
 
@@ -41,17 +41,17 @@ The amount deducted and withheld under chapter 3 shall be increased by the amoun
 
 For purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
 
-(Added Pub. L. 111–347, title III, § 301(a)(1), Jan. 2, 2011, 124 Stat. 3666.)
+(Added Pub. L. 111–347, title III, § 301(a)(1), Jan. 2, 2011, 124 Stat. 3666.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–347, title III, § 301(a)(3), Jan. 2, 2011, 124 Stat. 3666, provided that: “The amendments made by this subsection [enacting this section] shall apply to payments received pursuant to contracts entered into on and after the date of the enactment of this Act [Jan. 2, 2011].”
+Pub. L. 111–347, title III, § 301(a)(3), Jan. 2, 2011, 124 Stat. 3666, provided that: “The amendments made by this subsection [enacting this section] shall apply to payments received pursuant to contracts entered into on and after the date of the enactment of this Act [Jan. 2, 2011].”
 
 **Prohibition on Reimbursement of Fees**
 
-Pub. L. 111–347, title III, § 301(b), Jan. 2, 2011, 124 Stat. 3666, provided that:
+Pub. L. 111–347, title III, § 301(b), Jan. 2, 2011, 124 Stat. 3666, provided that:
 
 > **“(1) In general.—** The head of each executive agency shall take any and all measures necessary to ensure that no funds are disbursed to any foreign contractor in order to reimburse the tax imposed under section 5000C of the Internal Revenue Code of 1986.
 
@@ -61,4 +61,4 @@ Pub. L. 111–347, title III, § 301(b), Jan. 2, 2011, 124 Stat. 3666, provide
 
 **Application**
 
-Pub. L. 111–347, title III, § 301(c), Jan. 2, 2011, 124 Stat. 3666, provided that: “This section [enacting this section and provisions set out as notes under this section] and the amendments made by this section shall be applied in a manner consistent with United States obligations under international agreements.”
+Pub. L. 111–347, title III, § 301(c), Jan. 2, 2011, 124 Stat. 3666, provided that: “This section [enacting this section and provisions set out as notes under this section] and the amendments made by this section shall be applied in a manner consistent with United States obligations under international agreements.”

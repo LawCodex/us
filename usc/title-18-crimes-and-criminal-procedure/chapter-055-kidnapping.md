@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by “striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading and “Kidnapping” for “Kidnaping” in item 1201, to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by “striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading and “Kidnapping” for “Kidnaping” in item 1201, to reflect the probable intent of Congress.
 
-1993—Pub. L. 103–173, § 2(c), Dec. 2, 1993, 107 Stat. 1999, added item 1204.
+1993—Pub. L. 103–173, § 2(c), Dec. 2, 1993, 107 Stat. 1999, added item 1204.
 
-1984—Pub. L. 98–473, title II, § 2002(b), Oct. 12, 1984, 98 Stat. 2186, added item 1203.
+1984—Pub. L. 98–473, title II, § 2002(b), Oct. 12, 1984, 98 Stat. 2186, added item 1203.
 
-1972—Pub. L. 92–539, title II, § 202, Oct. 24, 1972, 86 Stat. 1072, substituted “Kidnaping” for “Transportation” in item 1201.
+1972—Pub. L. 92–539, title II, § 202, Oct. 24, 1972, 86 Stat. 1072, substituted “Kidnaping” for “Transportation” in item 1201.
 
-## § 1201. Kidnapping
+## § 1201. Kidnapping
 
 **(a)** Whoever unlawfully seizes, confines, inveigles, decoys, kidnaps, abducts, or carries away and holds for ransom or reward or otherwise any person, except in the case of a minor by the parent thereof, when—
 
@@ -81,15 +81,15 @@ shall be punished by imprisonment for any term of years or for life and, if the 
 
 the sentence under this section for such offense shall include imprisonment for not less than 20 years.
 
-**[(2)** Repealed. Pub. L. 108–21, title I, § 104(b), Apr. 30, 2003, 117 Stat. 653.]
+**[(2)** Repealed. Pub. L. 108–21, title I, § 104(b), Apr. 30, 2003, 117 Stat. 653.]
 
 **(h)** As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
 
-(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, § 201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, § 4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, § 1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§ 36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, § 401, title XXXV, § 3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, § 5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, § 60003(a)(6), title XXXII, §§ 320903(b), 320924, title XXXIII, § 330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, § 721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, § 702, Oct. 30, 1998, 112 Stat. 2987; Pub. L. 108–21, title I, § 104(b), Apr. 30, 2003, 117 Stat. 653; Pub. L. 109–248, title II, § 213, July 27, 2006, 120 Stat. 616.)
+(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, § 201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, § 4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, § 1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§ 36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, § 401, title XXXV, § 3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, § 5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, § 60003(a)(6), title XXXII, §§ 320903(b), 320924, title XXXIII, § 330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, § 721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, § 702, Oct. 30, 1998, 112 Stat. 2987; Pub. L. 108–21, title I, § 104(b), Apr. 30, 2003, 117 Stat. 653; Pub. L. 109–248, title II, § 213, July 27, 2006, 120 Stat. 616.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 408a, 408c (June 22, 1932, ch. 271, §§ 1, 3, 47 Stat. 326; May 18, 1934, ch. 301, 48 Stat. 781, 782).
+Based on title 18, U.S.C., 1940 ed., §§ 408a, 408c (June 22, 1932, ch. 271, §§ 1, 3, 47 Stat. 326; May 18, 1934, ch. 301, 48 Stat. 781, 782).
 
 Section consolidates sections 408a and 408c of title 18 U.S.C., 1940 ed.
 
@@ -107,43 +107,43 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-2006—Subsec. (a)(1). Pub. L. 109–248, § 213(1), substituted “, or the offender travels in interstate or foreign commerce or uses the mail or any means, facility, or instrumentality of interstate or foreign commerce in committing or in furtherance of the commission of the offense” for “if the person was alive when the transportation began”.
+2006—Subsec. (a)(1). Pub. L. 109–248, § 213(1), substituted “, or the offender travels in interstate or foreign commerce or uses the mail or any means, facility, or instrumentality of interstate or foreign commerce in committing or in furtherance of the commission of the offense” for “if the person was alive when the transportation began”.
 
-Subsec. (b). Pub. L. 109–248, § 213(2), substituted “in interstate” for “to interstate”.
+Subsec. (b). Pub. L. 109–248, § 213(2), substituted “in interstate” for “to interstate”.
 
 2003—Subsec. (g). Pub. L. 108–21 substituted “shall include imprisonment for not less than 20 years.” for “shall be subject to paragraph (2) of this subsection.” in concluding provisions of par. (1) and struck out par. (2) which read as follows:
 
 “(2) Guidelines.—The United States Sentencing Commission is directed to amend the existing guidelines for the offense of ‘kidnapping, abduction, or unlawful restraint,’ by including the following additional specific offense characteristics: If the victim was intentionally maltreated (i.e., denied either food or medical care) to a life-threatening degree, increase by 4 levels; if the victim was sexually exploited (i.e., abused, used involuntarily for pornographic purposes) increase by 3 levels; if the victim was placed in the care or custody of another person who does not have a legal right to such care or custody of the child either in exchange for money or other consideration, increase by 3 levels; if the defendant allowed the child to be subjected to any of the conduct specified in this section by another person, then increase by 2 levels.”
 
-1998—Subsec. (a)(1). Pub. L. 105–314, § 702(a), inserted “, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began” before semicolon at end.
+1998—Subsec. (a)(1). Pub. L. 105–314, § 702(a), inserted “, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began” before semicolon at end.
 
-Subsec. (a)(5). Pub. L. 105–314, § 702(b), substituted “described” for “designated”.
+Subsec. (a)(5). Pub. L. 105–314, § 702(b), substituted “described” for “designated”.
 
-Subsec. (b). Pub. L. 105–314, § 702(c), inserted at end “Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.”
+Subsec. (b). Pub. L. 105–314, § 702(c), inserted at end “Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.”
 
 1996—Subsec. (e). Pub. L. 104–132 substituted “If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States.” for “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.” and inserted at end “For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).”
 
-1994—Pub. L. 103–322, § 330021(1), which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “Kidnapping” for “Kidnaping” as section catchline, to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, § 330021(1), which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “Kidnapping” for “Kidnaping” as section catchline, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–322, § 60003(a)(6), in concluding provisions, inserted “and, if the death of any person results, shall be punished by death or life imprisonment” after “or for life”.
+Subsec. (a). Pub. L. 103–322, § 60003(a)(6), in concluding provisions, inserted “and, if the death of any person results, shall be punished by death or life imprisonment” after “or for life”.
 
-Subsec. (a)(3). Pub. L. 103–272, § 5(e)(8), substituted “section 46501 of title 49” for “section 101(38) of the Federal Aviation Act of 1958”.
+Subsec. (a)(3). Pub. L. 103–272, § 5(e)(8), substituted “section 46501 of title 49” for “section 101(38) of the Federal Aviation Act of 1958”.
 
-Subsec. (b). Pub. L. 103–322, § 330021(2), substituted “kidnapped” for “kidnaped”.
+Subsec. (b). Pub. L. 103–322, § 330021(2), substituted “kidnapped” for “kidnaped”.
 
-Subsec. (d). Pub. L. 103–322, § 320903(b), substituted “(a)” for “(a)(4) or (a)(5)”.
+Subsec. (d). Pub. L. 103–322, § 320903(b), substituted “(a)” for “(a)(4) or (a)(5)”.
 
-Subsec. (e). Pub. L. 103–272, § 5(e)(2), substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
+Subsec. (e). Pub. L. 103–272, § 5(e)(2), substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
 
-Subsec. (h). Pub. L. 103–322, § 320924, added subsec. (h).
+Subsec. (h). Pub. L. 103–322, § 320924, added subsec. (h).
 
-1990—Subsec. (a)(3). Pub. L. 101–647, § 3538, substituted “101(38)” for “101(36)” and struck out “, as amended (49 U.S.C. 1301(36))” after “Federal Aviation Act of 1958”.
+1990—Subsec. (a)(3). Pub. L. 101–647, § 3538, substituted “101(38)” for “101(36)” and struck out “, as amended (49 U.S.C. 1301(36))” after “Federal Aviation Act of 1958”.
 
-Subsec. (g). Pub. L. 101–647, § 401, added subsec. (g).
+Subsec. (g). Pub. L. 101–647, § 401, added subsec. (g).
 
-1986—Subsec. (a). Pub. L. 99–646, § 36, substituted “when—” for “when:” in introductory text, substituted “the person” for “The person” and “official duties” for “his official duties” in par. (5), and aligned the margin of par. (5) with the margins of pars. (1) to (4).
+1986—Subsec. (a). Pub. L. 99–646, § 36, substituted “when—” for “when:” in introductory text, substituted “the person” for “The person” and “official duties” for “his official duties” in par. (5), and aligned the margin of par. (5) with the margins of pars. (1) to (4).
 
-Subsec. (d). Pub. L. 99–646, § 37(b), inserted “or (a)(5)” after “subsection (a)(4)”.
+Subsec. (d). Pub. L. 99–646, § 37(b), inserted “or (a)(5)” after “subsection (a)(4)”.
 
 1984—Subsec. (a)(5). Pub. L. 98–473 added par. (5).
 
@@ -155,9 +155,9 @@ Subsec. (e). Pub. L. 95–504 substituted reference to section 101(38) of the Fe
 
 Subsec. (e). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
 
-1976—Subsec. (a)(4). Pub. L. 94–467, § 4(a), substituted provision which includes acts committed against an internationally protected person and an official guest as defined in section 1116(b) of this title for provision which included acts committed against an official guest as defined in section 1116(c) of this title.
+1976—Subsec. (a)(4). Pub. L. 94–467, § 4(a), substituted provision which includes acts committed against an internationally protected person and an official guest as defined in section 1116(b) of this title for provision which included acts committed against an official guest as defined in section 1116(c) of this title.
 
-Subsecs. (d) to (f). Pub. L. 94–467, § 4(b), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 94–467, § 4(b), added subsecs. (d) to (f).
 
 1972—Subsec. (a). Pub. L. 92–539 substituted “Kidnaping” for “Transportation” in section catchline and, in subsec. (a), extended the jurisdictional base to include acts committed within the special maritime, territorial, and aircraft jurisdiction of the United States, and to include acts committed against foreign officials and official guests, and struck out provisions relating to death penalty.
 
@@ -171,13 +171,13 @@ Subsec. (c). Pub. L. 92–539 substituted “by imprisonment for any term of yea
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–173, § 1, Dec. 2, 1993, 107 Stat. 1998, provided that: “This Act [enacting section 1204 of this title and provisions set out as a note under section 1204 of this title] may be cited as the ‘International Parental Kidnapping Crime Act of 1993’.”
+Pub. L. 103–173, § 1, Dec. 2, 1993, 107 Stat. 1998, provided that: “This Act [enacting section 1204 of this title and provisions set out as a note under section 1204 of this title] may be cited as the ‘International Parental Kidnapping Crime Act of 1993’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 2001, Oct. 12, 1984, 98 Stat. 2186, provided that: “This part [part A (§§ 2001–2003) of chapter XX of title II of Pub. L. 98–473, enacting section 1203 of this title and provisions set out as a note under section 1203 of this title] may be cited as the ‘Act for the Prevention and Punishment of the Crime of Hostage-Taking’.”
+Pub. L. 98–473, title II, § 2001, Oct. 12, 1984, 98 Stat. 2186, provided that: “This part [part A (§§ 2001–2003) of chapter XX of title II of Pub. L. 98–473, enacting section 1203 of this title and provisions set out as a note under section 1203 of this title] may be cited as the ‘Act for the Prevention and Punishment of the Crime of Hostage-Taking’.”
 
-## § 1202. Ransom money
+## § 1202. Ransom money
 
 **(a)** Whoever receives, possesses, or disposes of any money or other property, or any portion thereof, which has at any time been delivered as ransom or reward in connection with a violation of section 1201 of this title, knowing the same to be money or property which has been at any time delivered as such ransom or reward, shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -185,11 +185,11 @@ Pub. L. 98–473, title II, § 2001, Oct. 12, 1984, 98 Stat. 2186, provided th
 
 **(c)** For purposes of this section, the term “State” has the meaning set forth in section 245(d) of this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 760; Pub. L. 103–322, title XXXII, § 320601(b), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2115, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 760; Pub. L. 103–322, title XXXII, § 320601(b), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2115, 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 408c–1 (June 22, 1932, ch. 271, § 4, as added Jan. 24, 1936, ch. 29, 49 Stat. 1099).
+Based on title 18, U.S.C., 1940 ed., § 408c–1 (June 22, 1932, ch. 271, § 4, as added Jan. 24, 1936, ch. 29, 49 Stat. 1099).
 
 Words “in the penitentiary” after “imprisoned” were omitted in view of section 4082 of this title committing prisoners to the custody of the Attorney General. (See reviser’s note under section 1 of this title.)
 
@@ -199,11 +199,11 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-1994—Pub. L. 103–322, § 320601(b), designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+1994—Pub. L. 103–322, § 320601(b), designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-Subsec. (a). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+Subsec. (a). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 1203. Hostage taking
+## § 1203. Hostage taking
 
 **(a)** Except as provided in subsection (b) of this section, whoever, whether inside or outside the United States, seizes or detains and threatens to kill, to injure, or to continue to detain another person in order to compel a third person or a governmental organization to do or abstain from doing any act as an explicit or implicit condition for the release of the person detained, or attempts or conspires to do so, shall be punished by imprisonment for any term of years or for life and, if the death of any person results, shall be punished by death or life imprisonment.
 
@@ -221,7 +221,7 @@ Subsec. (a). Pub. L. 103–322, § 330016(1)(L), substituted “fined under th
 
 **(c)** As used in this section, the term “national of the United States” has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(Added Pub. L. 98–473, title II, § 2002(a), Oct. 12, 1984, 98 Stat. 2186; amended Pub. L. 100–690, title VII, § 7028, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, § 60003(a)(10), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 104–132, title VII, § 723(a)(1), Apr. 24, 1996, 110 Stat. 1300.)
+(Added Pub. L. 98–473, title II, § 2002(a), Oct. 12, 1984, 98 Stat. 2186; amended Pub. L. 100–690, title VII, § 7028, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, § 60003(a)(10), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 104–132, title VII, § 723(a)(1), Apr. 24, 1996, 110 Stat. 1300.)
 
 **Editorial Notes**
 
@@ -237,15 +237,15 @@ Subsec. (a). Pub. L. 103–322, § 330016(1)(L), substituted “fined under th
 
 **Effective Date**
 
-Pub. L. 98–473, title II, § 2003, Oct. 12, 1984, 98 Stat. 2186, provided that:
+Pub. L. 98–473, title II, § 2003, Oct. 12, 1984, 98 Stat. 2186, provided that:
 
-> “This part [part A (§§ 2001–2003) of chapter XX of title II of Pub. L. 98–473, enacting this section and provisions set out as a note under section 1201 of this title] and the amendments made by this part shall take effect on the later of—
+> “This part [part A (§§ 2001–2003) of chapter XX of title II of Pub. L. 98–473, enacting this section and provisions set out as a note under section 1201 of this title] and the amendments made by this part shall take effect on the later of—
 
 > **“(1)** the date of the enactment of this joint resolution [Oct. 12, 1984]; or
 
 > **“(2)** the date the International Convention Against the Taking of Hostages has come into force and the United States has become a party to that convention [the convention entered into force June 6, 1983; and entered into force for the United States Jan. 6, 1985].”
 
-## § 1204. International parental kidnapping
+## § 1204. International parental kidnapping
 
 **(a)** Whoever removes a child from the United States, or attempts to do so, or retains a child (who has been in the United States) outside the United States with intent to obstruct the lawful exercise of parental rights shall be fined under this title or imprisoned not more than 3 years, or both.
 
@@ -269,20 +269,20 @@ Pub. L. 98–473, title II, § 2003, Oct. 12, 1984, 98 Stat. 2186, provided th
 
 **(d)** This section does not detract from The Hague Convention on the Civil Aspects of International Parental Child Abduction, done at The Hague on October 25, 1980.
 
-(Added Pub. L. 103–173, § 2(a), Dec. 2, 1993, 107 Stat. 1998; amended Pub. L. 108–21, title I, § 107, Apr. 30, 2003, 117 Stat. 655.)
+(Added Pub. L. 103–173, § 2(a), Dec. 2, 1993, 107 Stat. 1998; amended Pub. L. 108–21, title I, § 107, Apr. 30, 2003, 117 Stat. 655.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–21, § 107(1), inserted “, or attempts to do so,” before “or retains”.
+2003—Subsec. (a). Pub. L. 108–21, § 107(1), inserted “, or attempts to do so,” before “or retains”.
 
-Subsec. (c)(1). Pub. L. 108–21, § 107(2)(A), inserted “or the Uniform Child Custody Jurisdiction and Enforcement Act” before “and was”.
+Subsec. (c)(1). Pub. L. 108–21, § 107(2)(A), inserted “or the Uniform Child Custody Jurisdiction and Enforcement Act” before “and was”.
 
-Subsec. (c)(2). Pub. L. 108–21, § 107(2)(B), inserted “or” after semicolon at end.
+Subsec. (c)(2). Pub. L. 108–21, § 107(2)(B), inserted “or” after semicolon at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Sense of Congress Regarding Use of Procedures Under The Hague Convention on the Civil Aspects of International Parental Child Abduction**
 
-Pub. L. 103–173, § 2(b), Dec. 2, 1993, 107 Stat. 1999, provided that: “It is the sense of the Congress that, inasmuch as use of the procedures under the Hague Convention on the Civil Aspects of International Parental Child Abduction has resulted in the return of many children, those procedures, in circumstances in which they are applicable, should be the option of first choice for a parent who seeks the return of a child who has been removed from the parent.”
+Pub. L. 103–173, § 2(b), Dec. 2, 1993, 107 Stat. 1999, provided that: “It is the sense of the Congress that, inasmuch as use of the procedures under the Hague Convention on the Civil Aspects of International Parental Child Abduction has resulted in the return of many children, those procedures, in circumstances in which they are applicable, should be the option of first choice for a parent who seeks the return of a child who has been removed from the parent.”

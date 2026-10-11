@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 6—PRIVATE CARRIAGE OF LETTERS
 
-## § 601. Letters carried out of the mail
+## § 601. Letters carried out of the mail
 
 **(a)** A letter may be carried out of the mails when—
 
@@ -41,7 +41,7 @@ retrieved: 2026-10-11
 
 **(c)** Any regulations necessary to carry out this section shall be promulgated by the Postal Regulatory Commission.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727; Pub. L. 109–435, title V, § 503(a), Dec. 20, 2006, 120 Stat. 3234.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727; Pub. L. 109–435, title V, § 503(a), Dec. 20, 2006, 120 Stat. 3234.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ retrieved: 2026-10-11
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–435, title V, § 503(b), Dec. 20, 2006, 120 Stat. 3235, provided that: “This section [amending this section] shall take effect on the date as of which the regulations promulgated under section 3633 of title 39, United States Code (as amended by section 202) take effect [Dec. 10, 2007, 72 F.R. 63662, 64155].”
+Pub. L. 109–435, title V, § 503(b), Dec. 20, 2006, 120 Stat. 3235, provided that: “This section [amending this section] shall take effect on the date as of which the regulations promulgated under section 3633 of title 39, United States Code (as amended by section 202) take effect [Dec. 10, 2007, 72 F.R. 63662, 64155].”
 
 **Effective Date**
 
@@ -61,11 +61,11 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Study of Private Carriage of Mail: Reports to President and Congress**
 
-Pub. L. 91–375, § 7, Aug. 12, 1970, 84 Stat. 783, required the Board of Governors of the United States Postal Service to make a study of the restrictions on the private carriage of letters and packets and to submit a report and recommendations for modernization to the President and to the Congress within 2 years after the effective date of this section.
+Pub. L. 91–375, § 7, Aug. 12, 1970, 84 Stat. 783, required the Board of Governors of the United States Postal Service to make a study of the restrictions on the private carriage of letters and packets and to submit a report and recommendations for modernization to the President and to the Congress within 2 years after the effective date of this section.
 
 Provisions of section 7 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
-## § 602. Foreign letters out of the mails
+## § 602. Foreign letters out of the mails
 
 **(a)** Except as provided in section 601 of this title, the master of a vessel departing from the United States for foreign ports may not receive on board or transport any letter which originated in the United States that—
 
@@ -85,7 +85,7 @@ Provisions of section 7 of Pub. L. 91–375 effective within 1 year after Aug. 1
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 603. Searches authorized
+## § 603. Searches authorized
 
 The Postal Service may authorize any officer or employee of the Postal Service to make searches for mail matter transported in violation of law. When the authorized officer has reason to believe that mailable matter transported contrary to law may be found therein, he may open and search any—
 
@@ -103,7 +103,7 @@ The Postal Service may authorize any officer or employee of the Postal Service t
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 604. Seizing and detaining letters
+## § 604. Seizing and detaining letters
 
 An officer or employee of the Postal Service performing duties related to the inspection of postal matters, a customs officer, or United States marshal or his deputy, may seize at any time, letters and bags, packets, or parcels containing letters which are being carried contrary to law on board any vessel or on any post road. The officer or employee who makes the seizure shall convey the articles seized to the nearest post office, or, by direction of the Postal Service or the Secretary of the Treasury, he may detain them until 2 months after the final determination of all suits and proceedings which may be brought within 6 months after the seizure against any person for sending or carrying the letters.
 
@@ -115,7 +115,7 @@ An officer or employee of the Postal Service performing duties related to the in
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 605. Searching vessels for letters
+## § 605. Searching vessels for letters
 
 An officer or employee of the Postal Service performing duties related to the inspection of postal matters, when instructed by the Postal Service to make examinations and seizures, and any customs officer without special instructions shall search vessels for letters which may be on board, or which may have been conveyed contrary to law.
 
@@ -127,7 +127,7 @@ An officer or employee of the Postal Service performing duties related to the in
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 606. Disposition of seized mail
+## § 606. Disposition of seized mail
 
 Every package or parcel seized by an officer or employee of the Postal Service performing duties related to the inspection of postal matters, a customs officer, or United States marshal or his deputies, in which a letter is unlawfully concealed, shall be forfeited to the United States. The same proceedings may be used to enforce forfeitures as are authorized in respect of goods, wares, and merchandise forfeited for violation of the revenue laws. Laws for the benefit and protection of customs officers making seizures for violating revenue laws apply to officers and employees making seizures for violating the postal laws.
 

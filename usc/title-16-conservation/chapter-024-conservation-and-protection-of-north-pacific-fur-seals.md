@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FUR SEAL MANAGEMENT
 
-### § 1151. Definitions
+### § 1151. Definitions
 
 **(a)** “Commission” means the North Pacific Fur Seal Commission established pursuant to article V of the Convention.
 
@@ -45,11 +45,11 @@ retrieved: 2026-10-11
 
 **(m)** “Take” or “taking” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill.
 
-(Pub. L. 89–702, title I, § 101, Nov. 2, 1966, 80 Stat. 1091; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 835; Pub. L. 102–251, title III, § 303, Mar. 9, 1992, 106 Stat. 65; Pub. L. 103–199, title VI, § 602(1), Dec. 17, 1993, 107 Stat. 2327.)
+(Pub. L. 89–702, title I, § 101, Nov. 2, 1966, 80 Stat. 1091; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 835; Pub. L. 102–251, title III, § 303, Mar. 9, 1992, 106 Stat. 65; Pub. L. 103–199, title VI, § 602(1), Dec. 17, 1993, 107 Stat. 2327.)
 
 **Amendment of Section**
 
-Pub. L. 102–251, title III, §§ 303, 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (f) to (m) as (g) to (n), respectively, and by inserting after subsection (e) the following new subsection:
+Pub. L. 102–251, title III, §§ 303, 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (f) to (m) as (g) to (n), respectively, and by inserting after subsection (e) the following new subsection:
 
 *(f) “Jurisdiction of the United States” includes jurisdiction over the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.*
 
@@ -69,29 +69,29 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–328, div. C, title XXXV, § 3531, Dec. 23, 2016, 130 Stat. 2794, provided that: “This subtitle [subtitle B (§§ 3531–3533) of title XXXV of div. C of Pub. L. 114–328, amending provisions set out as a note under section 1161 of this title] may be cited as the ‘Pribilof Islands Transition Completion Amendments Act of 2016’.”
+Pub. L. 114–328, div. C, title XXXV, § 3531, Dec. 23, 2016, 130 Stat. 2794, provided that: “This subtitle [subtitle B (§§ 3531–3533) of title XXXV of div. C of Pub. L. 114–328, amending provisions set out as a note under section 1161 of this title] may be cited as the ‘Pribilof Islands Transition Completion Amendments Act of 2016’.”
 
-Pub. L. 114–120, title V, § 521, Feb. 8, 2016, 130 Stat. 70, as amended by Pub. L. 114–328, div. C, title XXXV, § 3503(c), Dec. 23, 2016, 130 Stat. 2775, provided that: “This subtitle [subtitle B (§§ 521–524) of title V of Pub. L. 114–120, amending section 1165 of this title and provisions set out as a note under section 1161 of this title] may be cited as the ‘Pribilof Island [sic] Transition Completion Act of 2016’.”
+Pub. L. 114–120, title V, § 521, Feb. 8, 2016, 130 Stat. 70, as amended by Pub. L. 114–328, div. C, title XXXV, § 3503(c), Dec. 23, 2016, 130 Stat. 2775, provided that: “This subtitle [subtitle B (§§ 521–524) of title V of Pub. L. 114–120, amending section 1165 of this title and provisions set out as a note under section 1161 of this title] may be cited as the ‘Pribilof Island [sic] Transition Completion Act of 2016’.”
 
 **Short Title of 2000 Amendments**
 
-Pub. L. 106–562, title I, § 101, Dec. 23, 2000, 114 Stat. 2794, provided that: “This title [enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title] may be referred to as the ‘Pribilof Islands Transition Act’.”
+Pub. L. 106–562, title I, § 101, Dec. 23, 2000, 114 Stat. 2794, provided that: “This title [enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title] may be referred to as the ‘Pribilof Islands Transition Act’.”
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–244, provided that: “This subsection [enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title] may be referred to as the ‘Pribilof Islands Transition Act’.”
+Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–244, provided that: “This subsection [enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title] may be referred to as the ‘Pribilof Islands Transition Act’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–129, § 1, Oct. 14, 1983, 97 Stat. 835, provided: “That this Act [amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 5323 of Title 25, Indians] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
+Pub. L. 98–129, § 1, Oct. 14, 1983, 97 Stat. 835, provided: “That this Act [amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 5323 of Title 25, Indians] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
 
 **Short Title**
 
-Pub. L. 89–702, § 1, as added by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(6)(C)], Dec. 21, 2000, 114 Stat. 2763, 2763A–248, and Pub. L. 106–562, title I, § 106(c), Dec. 23, 2000, 114 Stat. 2799, provided that: “This Act [generally enacting this chapter, for complete classification, see Tables] may be cited as the ‘Fur Seal Act of 1966’.”
+Pub. L. 89–702, § 1, as added by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(6)(C)], Dec. 21, 2000, 114 Stat. 2763, 2763A–248, and Pub. L. 106–562, title I, § 106(c), Dec. 23, 2000, 114 Stat. 2799, provided that: “This Act [generally enacting this chapter, for complete classification, see Tables] may be cited as the ‘Fur Seal Act of 1966’.”
 
-### § 1152. Prohibitions
+### § 1152. Prohibitions
 
 It is unlawful, except as provided in this chapter or by regulation of the Secretary, for any person or vessel subject to the jurisdiction of the United States to engage in the taking of fur seals in the North Pacific Ocean or on lands or waters under the jurisdiction of the United States, or to use any port or harbor or other place under the jurisdiction of the United States for any purpose connected in any way with such taking, or for any person to transport, import, offer for sale, or possess at any port or place or on any vessel, subject to the jurisdiction of the United States, fur seals or the parts thereof, including, but not limited to, raw, dressed, or dyed fur seal skins, taken contrary to the provisions of this chapter or the Convention, or for any person subject to the jurisdiction of the United States to refuse to permit, except within the Exclusive Economic Zone of the United States, a duly authorized official of Canada, Japan, or Russia to board and search any vessel which is outfitted for the harvesting of living marine resources and which is subject to the jurisdiction of the United States to determine whether such vessel is engaged in sealing contrary to the provisions of said Convention.
 
-(Pub. L. 89–702, title I, § 102, Nov. 2, 1966, 80 Stat. 1091; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 836; Pub. L. 103–199, title VI, § 602(2), Dec. 17, 1993, 107 Stat. 2327.)
+(Pub. L. 89–702, title I, § 102, Nov. 2, 1966, 80 Stat. 1091; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 836; Pub. L. 103–199, title VI, § 602(2), Dec. 17, 1993, 107 Stat. 2327.)
 
 **Editorial Notes**
 
@@ -101,13 +101,13 @@ It is unlawful, except as provided in this chapter or by regulation of the Secre
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions enumerating the activities prohibited under this chapter, which were previously contained in section 1151 of this title, for provisions authorizing sealing by Aleuts, Eskimos, and Indians. See section 1153 of this title.
 
-### § 1153. Sealing permitted by Aleuts, Eskimos, and Indians
+### § 1153. Sealing permitted by Aleuts, Eskimos, and Indians
 
 **(a)** Indians, Aleuts, and Eskimos who dwell on the coasts of the North Pacific Ocean are permitted to take fur seals and dispose of their skins after the skins have been officially marked and certified by a person authorized by the Secretary: *Provided*, That the seals are taken for subsistence uses as defined in section 1379(f)(2) of this title, and only in canoes not transported by or used in connection with other vessels, and propelled entirely by oars, paddles, or sails, and manned by not more than five persons each, in the way hitherto practiced and without the use of firearms. This authority shall not apply to Indians, Aleuts, and Eskimos while they are employed by any person for the purpose of taking fur seals or are under contract to deliver the skins to any person.
 
 **(b)** Indians, Aleuts, and Eskimos who live on the Pribilof Islands are authorized to take fur seals for subsistence purposes as defined in section 1379(f)(2) of this title, under such conditions as recommended by the Commission and accepted by the Secretary of State pursuant to regulations promulgated by the Secretary.
 
-(Pub. L. 89–702, title I, § 103, Nov. 2, 1966, 80 Stat. 1091; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 836.)
+(Pub. L. 89–702, title I, § 103, Nov. 2, 1966, 80 Stat. 1091; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 836.)
 
 **Editorial Notes**
 
@@ -115,11 +115,11 @@ It is unlawful, except as provided in this chapter or by regulation of the Secre
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions authorizing sealing by Aleuts, Eskimos, and Indians, which were previously contained in section 1152 of this title, for provisions authorizing scientific research on fur seal resources. See section 1154 of this title.
 
-### § 1154. Scientific research on fur seal resources; use of fur seals for educational, scientific, or exhibition purposes
+### § 1154. Scientific research on fur seal resources; use of fur seals for educational, scientific, or exhibition purposes
 
 The Secretary shall (1) conduct such scientific research and investigations on the fur seal resources of the North Pacific Ocean as he deems necessary to carry out the obligations of the United States under the Convention, and (2) permit, subject to such terms and conditions as he deems desirable, the taking, transportation, importation, exportation, or possession of fur seals or their parts for educational, scientific, or exhibition purposes.
 
-(Pub. L. 89–702, title I, § 104, Nov. 2, 1966, 80 Stat. 1091; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 836.)
+(Pub. L. 89–702, title I, § 104, Nov. 2, 1966, 80 Stat. 1091; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 836.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ The Secretary shall (1) conduct such scientific research and investigations on t
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions authorizing scientific research on fur seal resources, which were previously contained in section 1153 of this title, for provisions delineating the authority of the Secretary of Commerce. See section 1155 of this title.
 
-### § 1155. Authority of Secretary of Commerce
+### § 1155. Authority of Secretary of Commerce
 
 **(a) Regulations with respect to taking of fur seals on Pribilof Islands and on lands subject to United States jurisdiction**
 
@@ -141,7 +141,7 @@ The Secretary is authorized to enter into agreements with any public or private 
 
 The Secretary shall give preference to the village corporations of Saint Paul and Saint George Islands established pursuant to section 1607 of title 43 for the taking of fur seals on the village corporations’ respective islands, and the curing and marketing of the sealskins and other seal parts, and may retain the proceeds therefrom. Any proceeds therefrom will be deposited in a separate fund in the Treasury and will be available to the Secretary, subject to appropriations, for the purpose of this section. All seal harvests will be financed, to the extent possible, from proceeds collected in preceding years or unsold assets retained from harvests conducted in preceding years. In the event that such assets and proceeds are insufficient, as determined by the Secretary, to finance the seal harvest in accordance with the requirements of the Convention, there are authorized to be appropriated to the Secretary for fiscal year 1984, and for fiscal year 1985 and beyond if the Convention is extended by protocol signed by the parties and made effective as to the United States, such sums as may be necessary to carry out the harvest and curing on the Pribilof Islands. Such amounts as are determined by the Secretary to exceed amounts required to carry out this section shall be transferred to the General Fund of the Treasury.
 
-(Pub. L. 89–702, title I, § 105, Nov. 2, 1966, 80 Stat. 1092; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 836.)
+(Pub. L. 89–702, title I, § 105, Nov. 2, 1966, 80 Stat. 1092; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 836.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ The Secretary shall give preference to the village corporations of Saint Paul an
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions delineating the authority of the Secretary of Commerce, which were previously contained in sections 1154 and 1185 of this title, for provisions which had set out enforcement steps. See section 1156 of this title.
 
-### § 1156. Enforcement provisions
+### § 1156. Enforcement provisions
 
 **(a) Search of vessels; certificate of identification; exhibition to master**
 
@@ -165,7 +165,7 @@ The Secretary or the Secretary of the department in which the Coast Guard is ope
 
 At the request of said party, the Secretary or the Secretary of the department in which the Coast Guard is operating, shall direct the person authorized to enforce the provisions of this chapter to attend the trial as a witness in any case arising under said article or give testimony by deposition, and shall produce such records and files or copies thereof as may be necessary to establish the offense.
 
-(Pub. L. 89–702, title I, § 106, Nov. 2, 1966, 80 Stat. 1092; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 837.)
+(Pub. L. 89–702, title I, § 106, Nov. 2, 1966, 80 Stat. 1092; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 837.)
 
 **Editorial Notes**
 
@@ -179,21 +179,21 @@ At the request of said party, the Secretary or the Secretary of the department i
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1157. North Pacific Fur Seal Commission; appointment of United States Commissioner, Deputy Commissioner, and Advisors; duties, compensation, and travel expenses
+### § 1157. North Pacific Fur Seal Commission; appointment of United States Commissioner, Deputy Commissioner, and Advisors; duties, compensation, and travel expenses
 
-The President shall appoint to the Commission a United States Commissioner who shall serve at the pleasure of the President. The President may appoint one Native from each of the two inhabited Pribilof Islands to serve as Advisors to the Commissioner and as liaisons between the Commissioner and the Natives of the Pribilof Islands. The President may also appoint other interested parties as Advisors to the Commissioner. Such Advisors shall serve at the pleasure of the President. The President may also appoint a Deputy United States Commissioner who shall serve at the pleasure of the President. The Deputy Commissioner shall be the principal adviser of the Commissioner, and shall perform the duties of the Commissioner in the case of his death, resignation, absence, or illness. The Commissioner, the Deputy Commissioner, and the Advisors shall receive no compensation for their services. The Commissioners may be paid traval 1
+The President shall appoint to the Commission a United States Commissioner who shall serve at the pleasure of the President. The President may appoint one Native from each of the two inhabited Pribilof Islands to serve as Advisors to the Commissioner and as liaisons between the Commissioner and the Natives of the Pribilof Islands. The President may also appoint other interested parties as Advisors to the Commissioner. Such Advisors shall serve at the pleasure of the President. The President may also appoint a Deputy United States Commissioner who shall serve at the pleasure of the President. The Deputy Commissioner shall be the principal adviser of the Commissioner, and shall perform the duties of the Commissioner in the case of his death, resignation, absence, or illness. The Commissioner, the Deputy Commissioner, and the Advisors shall receive no compensation for their services. The Commissioners may be paid traval 1
 
-<sup>1</sup>  So in original. Probably should be “travel”.
+<sup>1</sup> So in original. Probably should be “travel”.
 
 expenses and per diem in lieu of subsistence at the rates authorized by section 5703 of title 5 when engaged in the performance of their duties.
 
-(Pub. L. 89–702, title I, § 107, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
+(Pub. L. 89–702, title I, § 107, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expense Act of 1946” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expense Act of 1946” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -205,11 +205,11 @@ expenses and per diem in lieu of subsistence at the rates authorized by section 
 
 Secretary of State authorized to designate Alternate United States Commissioners, see sections 2672a and 2672b of Title 22, Foreign Relations and Intercourse.
 
-### § 1158. Acceptance or rejection by Secretaries of State and Commerce of Commission recommendations
+### § 1158. Acceptance or rejection by Secretaries of State and Commerce of Commission recommendations
 
 The Secretary of State, with the concurrence of the Secretary, is authorized to accept or reject, on behalf of the United States, recommendations made by the Commission pursuant to article V of the Convention.
 
-(Pub. L. 89–702, title I, § 108, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
+(Pub. L. 89–702, title I, § 108, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
 
 **Editorial Notes**
 
@@ -217,11 +217,11 @@ The Secretary of State, with the concurrence of the Secretary, is authorized to 
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions empowering the Secretaries of State and Commerce to accept or reject recommendations made by the Commission, which were previously contained in section 1157 of this title, for provisions authorizing Federal agency consultation with and technical assistance to the Secretary of Commerce or the Commission. See section 1159 of this title.
 
-### § 1159. Federal agency consultations with and technical assistance to Secretary of Commerce or Commission; reimbursement for assistance
+### § 1159. Federal agency consultations with and technical assistance to Secretary of Commerce or Commission; reimbursement for assistance
 
 The head of any Federal agency is authorized to consult with and provide technical assistance to the Secretary or the Commission whenever such assistance is needed and reasonably can be furnished in carrying out the provisions of this subchapter. Any Federal agency furnishing assistance hereunder may expend its own funds for such purposes, with or without reimbursement.
 
-(Pub. L. 89–702, title I, § 109, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
+(Pub. L. 89–702, title I, § 109, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
 
 **Editorial Notes**
 
@@ -231,17 +231,17 @@ The head of any Federal agency is authorized to consult with and provide technic
 
 ## SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS
 
-### § 1161. Administration of fur seal rookeries and other Federal real and personal property on Pribilof Islands
+### § 1161. Administration of fur seal rookeries and other Federal real and personal property on Pribilof Islands
 
 The Secretary shall administer the fur seal rookeries and other Federal real and personal property on the Pribilof Islands, with the exception of lands purchased by the U.S. Fish and Wildlife Service under section 1417 of the Alaska National Interest Lands Conservation Act (Public Law 96–487) or acquired or purchased by any other authority after October 14, 1983, and, in consultation with the Secretary of the Interior, shall ensure that activities on such property are consistent with the purposes of conserving, managing, and protecting the North Pacific fur seals and other wildlife and for other purposes consistent with that primary purpose.
 
-(Pub. L. 89–702, title II, § 201, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(6)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, § 106(b), Dec. 23, 2000, 114 Stat. 2799.)
+(Pub. L. 89–702, title II, § 201, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(6)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, § 106(b), Dec. 23, 2000, 114 Stat. 2799.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1417 of the Alaska National Interest Lands Conservation Act, referred to in text, is Pub. L. 96–487, title XIV, § 1417, Dec. 2, 1980, 94 Stat. 2500, which is not classified to the Code.
+Section 1417 of the Alaska National Interest Lands Conservation Act, referred to in text, is Pub. L. 96–487, title XIV, § 1417, Dec. 2, 1980, 94 Stat. 2500, which is not classified to the Code.
 
 **Amendments**
 
@@ -253,13 +253,13 @@ Section 1417 of the Alaska National Interest Lands Conservation Act, referred to
 
 **Purpose**
 
-Pub. L. 106–562, title I, § 102, Dec. 23, 2000, 114 Stat. 2794, provided that: “The purpose of this title [see Short Title of 2000 Amendments note set out under section 1151 of this title] is to complete the orderly withdrawal of the National Oceanic and Atmospheric Administration from the civil administration of the Pribilof Islands, Alaska.”
+Pub. L. 106–562, title I, § 102, Dec. 23, 2000, 114 Stat. 2794, provided that: “The purpose of this title [see Short Title of 2000 Amendments note set out under section 1151 of this title] is to complete the orderly withdrawal of the National Oceanic and Atmospheric Administration from the civil administration of the Pribilof Islands, Alaska.”
 
-Substantially identical provisions were contained in Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–244.
+Substantially identical provisions were contained in Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–244.
 
 **Termination of Responsibilities**
 
-Pub. L. 106–562, title I, § 105, Dec. 23, 2000, 114 Stat. 2796, as amended by Pub. L. 114–120, title V, § 523, Feb. 8, 2016, 130 Stat. 71; Pub. L. 114–328, div. C, title XXXV, § 3533(d), Dec. 23, 2016, 130 Stat. 2799; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(c), Jan. 1, 2021, 134 Stat. 4754, provided that:
+Pub. L. 106–562, title I, § 105, Dec. 23, 2000, 114 Stat. 2796, as amended by Pub. L. 114–120, title V, § 523, Feb. 8, 2016, 130 Stat. 71; Pub. L. 114–328, div. C, title XXXV, § 3533(d), Dec. 23, 2016, 130 Stat. 2799; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(c), Jan. 1, 2021, 134 Stat. 4754, provided that:
 
 > **“(a) Future Obligation.—**
 
@@ -371,9 +371,9 @@ Pub. L. 106–562, title I, § 105, Dec. 23, 2000, 114 Stat. 2796, as amended 
 
 > **“(2) Natives of the pribilof islands.—** For purposes of this section, the term ‘Natives of the Pribilof Islands’ includes the Tanadgusix Corporation, the St. George Tanaq Corporation, and the city governments and tribal councils of St. Paul and St. George, Alaska.”
 
-Substantially similar provisions were contained in Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–246.
+Substantially similar provisions were contained in Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–246.
 
-### § 1162. Authority of Secretary to operate, maintain, and repair Government-owned property; necessary facilities, services, and equipment for Federal employees and dependents
+### § 1162. Authority of Secretary to operate, maintain, and repair Government-owned property; necessary facilities, services, and equipment for Federal employees and dependents
 
 In carrying out the provisions of this subchapter, the Secretary is authorized—
 
@@ -381,7 +381,7 @@ In carrying out the provisions of this subchapter, the Secretary is authorized�
 
 **(2)** to provide the employees of the Department of Commerce and other Federal agencies and their dependents, at reasonable rates to be determined by the Secretary, with such facilities, services, and equipment as he deems necessary, including, but not limited to, food, fuel, shelter, and transportation.
 
-(Pub. L. 89–702, title II, § 202, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
+(Pub. L. 89–702, title II, § 202, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
 
 **Editorial Notes**
 
@@ -389,11 +389,11 @@ In carrying out the provisions of this subchapter, the Secretary is authorized�
 
 1983—Pub. L. 98–129 substituted provisions authorizing the Secretary to operate, maintain, and repair such Government-owned property, both real and personal, and other facilities held by the Secretary on the Pribilof Islands as may be necessary, and to provide the employees of the Department of Commerce and other Federal agencies and their dependents, at reasonable rates to be determined by the Secretary, with such facilities, services, and equipment as he deems necessary, including, but not limited to, food, fuel, shelter, and transportation, for provisions authorizing the Secretary to enter into contracts or agreements or leases with, or to issue permits to, public or private agencies or persons, including the natives of the Pribilof Islands, in accordance with such terms and conditions as he deemed desirable for the use of any Government-owned real or personal property located on the islands, for the furnishing of accommodations for tourists and other visitors, for educational, recreational, residential, or commercial purposes, for the operation, maintenance, and repair of Government-owned facilities and utilities, for the transportation and storage of food and other supplies, and for such other purposes as the Secretary deemed desirable.
 
-### § 1163. Responsibility of Alaska to meet educational needs of Pribilof Islands citizens
+### § 1163. Responsibility of Alaska to meet educational needs of Pribilof Islands citizens
 
 The State of Alaska will be responsible for meeting the educational needs of the citizens of the Pribilof Islands.
 
-(Pub. L. 89–702, title II, § 203, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
+(Pub. L. 89–702, title II, § 203, Nov. 2, 1966, 80 Stat. 1093; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 838.)
 
 **Editorial Notes**
 
@@ -401,25 +401,25 @@ The State of Alaska will be responsible for meeting the educational needs of the
 
 1983—Pub. L. 98–129 substituted provisions directing that the State of Alaska be responsible for meeting the educational needs of the citizens of the Pribilof Islands for provisions which had authorized the Secretary (1) to provide, with or without reimbursement, the natives of the Pribilof Islands with such facilities, services, and equipment as he deemed necessary, including, but not limited to food, fuel, shelter, transportation, and education, (2) to provide the employees of the Department of Commerce and other Federal agencies and their dependents, and tourists and other persons, at reasonable rates to be determined by the Secretary, with such facilities, services, and equipment as he deemed necessary, including, but not limited to, food, fuel, shelter, transportation, and education, (3) to purchase, transport, store, and distribute such supplies and equipment to carry out the provisions of this section as the Secretary deemed necessary, and (4) to purchase, construct, operate, and maintain the facilities necessary to carry out the provisions of this section.
 
-### § 1164. Responsibility of Secretary of Health and Human Services to provide medical and dental care to Pribilof Islands natives
+### § 1164. Responsibility of Secretary of Health and Human Services to provide medical and dental care to Pribilof Islands natives
 
 The Secretary of Health and Human Services shall provide medical and dental care to the Natives of the Pribilof Islands with or without reimbursement, as provided by other law. He is authorized to provide such care to Federal employees and their dependents and tourists and other persons in the Pribilof Islands at reasonable rates to be determined by him. He may purchase, lease, construct, operate, and maintain such facilities, supplies, and equipment as he deems necessary to carry out the provisions of this section; and the costs of such items, including medical and dental care, shall be charged to the budget of the Secretary of Health and Human Services. Nothing in this chapter shall be construed as superseding or limiting the authority and responsibility of the Secretary of Health and Human Services under the Act of August 5, 1954, as amended [42 U.S.C. 2001 et seq.], or any other law with respect to medical and dental care of natives or other persons in the Pribilof Islands.
 
-(Pub. L. 89–702, title II, § 204, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 839.)
+(Pub. L. 89–702, title II, § 204, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 839.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 5, 1954, as amended, referred to in text, is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Act of August 5, 1954, as amended, referred to in text, is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 1983—Pub. L. 98–129 substituted provisions formerly set out in section 1165 of this title relating to medical and dental care of the natives of the Pribilof Islands for provisions which had authorized the Secretary to enter into an agreement with the Governor of the State of Alaska pursuant to which the State assumed full responsibility for furnishing education to the natives of the Pribilof Islands and also to enter into agreements with said Governor pursuant to which the State furnished to such natives adequate food, shelter, transportation, and such other facilities, services, and equipment as the Secretary deemed necessary, with the State of Alaska, in assuming such responsibility, to meet the educational needs of the said natives in the same manner as the State met the educational needs of all of its citizens, including the furnishing of necessary facilities therefor.
 
-### § 1165. Disposal of Federal property on Pribilof Islands
+### § 1165. Disposal of Federal property on Pribilof Islands
 
-**(a) to (d) Repealed. Pub. L. 106–562, title I, § 105(c), Dec. 23, 2000, 114 Stat. 2798, as amended by Pub. L. 114–120, title V, § 523(3)(B), Feb. 8, 2016, 130 Stat. 71**
+**(a) to (d) Repealed. Pub. L. 106–562, title I, § 105(c), Dec. 23, 2000, 114 Stat. 2798, as amended by Pub. L. 114–120, title V, § 523(3)(B), Feb. 8, 2016, 130 Stat. 71**
 
 **(e) Taxation**
 
@@ -429,21 +429,21 @@ The grant, sale, transfer or conveyance of any real or personal property pursuan
 
 In carrying out the purposes of this chapter, the Secretary is authorized to enter into agreements, including but not limited to land exchange agreements with other Departments and Agencies of both the State and Federal Governments, and with third parties, notwithstanding any provision of law relating to the transfer and disposal of Federal property to the contrary; except that the authority of the Secretary of the Interior regarding exchanges involving lands in the National Wildlife Refuge System on October 14, 1983, is not affected by this section.
 
-(Pub. L. 89–702, title II, § 205, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 839; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–245; Pub. L. 106–562, title I, §§ 104, 105(c)(1), Dec. 23, 2000, 114 Stat. 2796, 2798.)
+(Pub. L. 89–702, title II, § 205, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 839; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–245; Pub. L. 106–562, title I, §§ 104, 105(c)(1), Dec. 23, 2000, 114 Stat. 2796, 2798.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsecs. (a), (b). Pub. L. 106–562, § 105(c)(1), as amended by Pub. L. 114–120, § 523(3)(B), struck out subsec. (a) which related to the submission to Congress of a property transfer document for property on the Pribilof Islands held by the Secretary of the department in which the Coast Guard is operating and subsec. (b) which related to the contents of such document.
+2000—Subsecs. (a), (b). Pub. L. 106–562, § 105(c)(1), as amended by Pub. L. 114–120, § 523(3)(B), struck out subsec. (a) which related to the submission to Congress of a property transfer document for property on the Pribilof Islands held by the Secretary of the department in which the Coast Guard is operating and subsec. (b) which related to the contents of such document.
 
-Subsec. (c). Pub. L. 106–562, § 105(c)(1), as amended by Pub. L. 114–120, § 523(3)(B), struck out subsec. (c) which related to a report to Congress on conveyed and retained properties.
+Subsec. (c). Pub. L. 106–562, § 105(c)(1), as amended by Pub. L. 114–120, § 523(3)(B), struck out subsec. (c) which related to a report to Congress on conveyed and retained properties.
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(4)(A)], and Pub. L. 106–562, § 104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
+Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(4)(A)], and Pub. L. 106–562, § 104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
 
-Subsec. (d). Pub. L. 106–562, § 105(c)(1), as amended by Pub. L. 114–120, § 523(3)(B), struck out subsec. (d) which related to a Memorandum of Understanding to be entered into by the Secretary, representatives of the local governmental authorities, and the State of Alaska setting forth the respective responsibilities of the Federal Government and the State.
+Subsec. (d). Pub. L. 106–562, § 105(c)(1), as amended by Pub. L. 114–120, § 523(3)(B), struck out subsec. (d) which related to a Memorandum of Understanding to be entered into by the Secretary, representatives of the local governmental authorities, and the State of Alaska setting forth the respective responsibilities of the Federal Government and the State.
 
-Subsec. (g). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(4)(B)], and Pub. L. 106–562, § 104(2), struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
+Subsec. (g). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(4)(B)], and Pub. L. 106–562, § 104(2), struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions relating to the disposal of Federal property on the Pribilof Islands for provisions relating to the medical and dental care of Pribilof Islands natives. See section 1164 of this title.
 
@@ -455,7 +455,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–562, title I, § 105(c), Dec. 23, 2000, 114 Stat. 2798, as amended by Pub. L. 114–120, title V, § 523(3)(B), Feb. 8, 2016, 130 Stat. 71, provided that the amendment by section 105(c)(1) of Pub. L. 106–562 is effective on the date on which the Secretary of Commerce publishes the notice of certification required by section 105(b)(5) of Pub. L. 106–562, which is set out in a Termination of Responsibilities note under section 1161 of this title. Such notice was published by the Secretary to Congress on Jan. 24, 2023.
+Pub. L. 106–562, title I, § 105(c), Dec. 23, 2000, 114 Stat. 2798, as amended by Pub. L. 114–120, title V, § 523(3)(B), Feb. 8, 2016, 130 Stat. 71, provided that the amendment by section 105(c)(1) of Pub. L. 106–562 is effective on the date on which the Secretary of Commerce publishes the notice of certification required by section 105(b)(5) of Pub. L. 106–562, which is set out in a Termination of Responsibilities note under section 1161 of this title. Such notice was published by the Secretary to Congress on Jan. 24, 2023.
 
 **Transfer of Functions**
 
@@ -463,9 +463,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Pribilof Islands Environmental Cleanup**
 
-Pub. L. 104–91, § 3, Jan. 6, 1996, 110 Stat. 8, as amended by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(5)(A)(iv), (6)(A), (7)], Dec. 21, 2000, 114 Stat. 2763, 2763A–246, 2763A–248; Pub. L. 106–562, title I, §§ 105(a)(4), 106(a), 107, Dec. 23, 2000, 114 Stat. 2797, 2799; Pub. L. 108–447, div. B, title II, § 212, Dec. 8, 2004, 118 Stat. 2884, which provided that the Secretary of Commerce was to clean up landfills, wastes, dumps, debris, storage tanks, property, hazardous or unsafe conditions, and contaminants, including petroleum products and their derivatives, left by the National Oceanic and Atmospheric Administration on lands which it and its predecessor agencies abandoned, quitclaimed, or otherwise transferred or are obligated to transfer, to local entities or residents on the Pribilof Islands, Alaska, pursuant to the Fur Seal Act of 1966 (16 U.S.C. 1151 et seq.) or other applicable law, was repealed by Pub. L. 106–562, title I, § 105(c), Dec. 23, 2000, 114 Stat. 2798, as amended by Pub. L. 114–120, title V, § 523(3)(B), Feb. 8, 2016, 130 Stat. 71, effective on the date on which the Secretary of Commerce publishes the notice of certification required by section 105(b)(5) of Pub. L. 106–562, which is set out in a Termination of Responsibilities note under section 1161 of this title. Such notice was published by the Secretary to Congress on Jan. 24, 2023.
+Pub. L. 104–91, § 3, Jan. 6, 1996, 110 Stat. 8, as amended by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(5)(A)(iv), (6)(A), (7)], Dec. 21, 2000, 114 Stat. 2763, 2763A–246, 2763A–248; Pub. L. 106–562, title I, §§ 105(a)(4), 106(a), 107, Dec. 23, 2000, 114 Stat. 2797, 2799; Pub. L. 108–447, div. B, title II, § 212, Dec. 8, 2004, 118 Stat. 2884, which provided that the Secretary of Commerce was to clean up landfills, wastes, dumps, debris, storage tanks, property, hazardous or unsafe conditions, and contaminants, including petroleum products and their derivatives, left by the National Oceanic and Atmospheric Administration on lands which it and its predecessor agencies abandoned, quitclaimed, or otherwise transferred or are obligated to transfer, to local entities or residents on the Pribilof Islands, Alaska, pursuant to the Fur Seal Act of 1966 (16 U.S.C. 1151 et seq.) or other applicable law, was repealed by Pub. L. 106–562, title I, § 105(c), Dec. 23, 2000, 114 Stat. 2798, as amended by Pub. L. 114–120, title V, § 523(3)(B), Feb. 8, 2016, 130 Stat. 71, effective on the date on which the Secretary of Commerce publishes the notice of certification required by section 105(b)(5) of Pub. L. 106–562, which is set out in a Termination of Responsibilities note under section 1161 of this title. Such notice was published by the Secretary to Congress on Jan. 24, 2023.
 
-### § 1166. Financial assistance
+### § 1166. Financial assistance
 
 **(a) Grant authority**
 
@@ -547,19 +547,19 @@ Each entity which receives assistance authorized under subsection (c) shall subm
 
 Amounts authorized under subsection (c) are intended by Congress to be provided in addition to the base funding appropriated to the National Oceanic and Atmospheric Administration in fiscal year 2000.
 
-(Pub. L. 89–702, title II, § 206, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 840; Pub. L. 100–711, § 9, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1931; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–244; Pub. L. 106–562, title I, § 103, Dec. 23, 2000, 114 Stat. 2794; Pub. L. 109–59, title IV, § 4403, Aug. 10, 2005, 119 Stat. 1775.)
+(Pub. L. 89–702, title II, § 206, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 840; Pub. L. 100–711, § 9, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1931; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–244; Pub. L. 106–562, title I, § 103, Dec. 23, 2000, 114 Stat. 2794; Pub. L. 109–59, title IV, § 4403, Aug. 10, 2005, 119 Stat. 1775.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Title IV of the Act is classified generally to subchapter IV (§ 5361 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Title IV of the Act is classified generally to subchapter IV (§ 5361 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Amendments**
 
-2005—Subsec. (c). Pub. L. 109–59, § 4403(1), struck out “for fiscal years 2001, 2002, 2003, 2004, and 2005” after “Secretary” in introductory provisions.
+2005—Subsec. (c). Pub. L. 109–59, § 4403(1), struck out “for fiscal years 2001, 2002, 2003, 2004, and 2005” after “Secretary” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 109–59, § 4403(2), inserted “, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007” after “subsection (a)” in introductory provisions.
+Subsec. (c)(1). Pub. L. 109–59, § 4403(2), inserted “, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007” after “subsection (a)” in introductory provisions.
 
 2000—Pub. L. 106–562 amended section generally, inserting section catchline and subsec. and par. headings and reenacting substantially identical text.
 
@@ -577,11 +577,11 @@ Pub. L. 106–554 amended section generally. Prior to amendment, section consist
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 1167. Leases, permits, agreements, and contracts with public or private agencies or persons
+### § 1167. Leases, permits, agreements, and contracts with public or private agencies or persons
 
 The Secretary is authorized to enter into agreements or contracts or leases with, or to issue permits to, any public or private agency or person for carrying out the provisions of the Convention or this chapter.
 
-(Pub. L. 89–702, title II, § 207, Nov. 2, 1966, 80 Stat. 1095; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 842.)
+(Pub. L. 89–702, title II, § 207, Nov. 2, 1966, 80 Stat. 1095; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 842.)
 
 **Editorial Notes**
 
@@ -589,7 +589,7 @@ The Secretary is authorized to enter into agreements or contracts or leases with
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions authorizing the Secretary to enter into agreements or contracts or leases with, or to issue permits to, any public or private agency or person for carrying out the provisions of the Convention or this chapter for provisions which had set a fine of not more than $500 or imprisonment for not more than six months, or both, for violating regulations of the Secretary relating to the use and management of the Pribilof Islands or the protection or conservation of fur seals, wildlife, or other natural resources.
 
-### § 1168. Civil service retirement benefits
+### § 1168. Civil service retirement benefits
 
 **(a) Credit for services performed by natives**
 
@@ -607,13 +607,13 @@ In no case shall credit for the service described in subsection (a) of this sect
 
 Notwithstanding any other provisions of this chapter or any other law, benefits under subchapter III of chapter 83 of title 5 made available by reason of the provisions of this section shall be paid from the civil service retirement and disability fund subject to reimbursement to such fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Director of the Office of Personnel Management during each fiscal year, of benefits provided by this section.
 
-(Pub. L. 89–702, title II, § 208, Nov. 2, 1966, 80 Stat. 1096; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 842.)
+(Pub. L. 89–702, title II, § 208, Nov. 2, 1966, 80 Stat. 1096; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 842.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” in subsec. (a) and for “the Civil Service Retirement Act” in subsec. (d), and “section 8342(h) of title 5” substituted for “section 11(h) of the Civil Service Retirement Act” in subsec. (c) on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” in subsec. (a) and for “the Civil Service Retirement Act” in subsec. (d), and “section 8342(h) of title 5” substituted for “section 11(h) of the Civil Service Retirement Act” in subsec. (c) on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -625,31 +625,31 @@ Subsec. (d). Pub. L. 98–129 reenacted subsec. (d) without change other than th
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-### § 1169. Regulations
+### § 1169. Regulations
 
 The Secretary is authorized to prescribe such regulations as he deems necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 89–702, title II, § 211, as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844.)
+(Pub. L. 89–702, title II, § 211, as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844.)
 
-### § 1169a. Annuities and survivor annuities; recomputation
+### § 1169a. Annuities and survivor annuities; recomputation
 
 **(a)**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. No subsec. (b) has been enacted.
+<sup>1</sup> So in original. No subsec. (b) has been enacted.
 
-An annuity or survivor annuity based on the service of an employee or Member who performed service described in the second paragraph (13) 2
+An annuity or survivor annuity based on the service of an employee or Member who performed service described in the second paragraph (13) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of subsection (b) or subsection (*l*)(1)(C) of section 8332 of title 5, as added by subsections (b) and (e), respectively, of section 209 of this Act [Pub. L. 89–702], shall, upon application to the Office of Personnel Management, be recomputed in accordance with the second paragraph (13) of subsection (b) and subsection (*l*), respectively, of such section 8332, regardless of whether the employee or Member retires before, on, or after October 14, 1983.
 
 **(2)** Any recomputation of annuity under paragraph (1) of this subsection shall apply with respect to months beginning more than 30 days after the date on which application for such recomputation is received by the Office.
 
-(Pub. L. 89–702, title II, § 212, as added Pub. L. 98–369, div. B, title II, § 2208(b), July 18, 1984, 98 Stat. 1061.)
+(Pub. L. 89–702, title II, § 212, as added Pub. L. 98–369, div. B, title II, § 2208(b), July 18, 1984, 98 Stat. 1061.)
 
 **Editorial Notes**
 
@@ -665,17 +665,17 @@ Another section 212 of Pub. L. 89–702 is classified to section 1169b of this t
 
 **Effective Date**
 
-Pub. L. 98–369, div. B, title II, § 2208(c), July 18, 1984, 98 Stat. 1061, provided that: “The amendments made by this section [enacting this section and amending section 8332 of Title 5, Government Organization and Employees] shall take effect as of October 14, 1983.”
+Pub. L. 98–369, div. B, title II, § 2208(c), July 18, 1984, 98 Stat. 1061, provided that: “The amendments made by this section [enacting this section and amending section 8332 of Title 5, Government Organization and Employees] shall take effect as of October 14, 1983.”
 
-### § 1169b. Use of local entities
+### § 1169b. Use of local entities
 
-Notwithstanding any other law to the contrary, the Secretary of Commerce shall, to the maximum extent practicable, carry out activities under subsection (a) 1
+Notwithstanding any other law to the contrary, the Secretary of Commerce shall, to the maximum extent practicable, carry out activities under subsection (a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and fulfill other obligations under Federal and State law relating to the Pribilof Islands, through grants or other agreements with local entities and residents of the Pribilof Islands, unless specialized skills are needed for an activity, and the Secretary specifies in writing that such skills are not available through local entities and residents of the Pribilof Islands.
 
-(Pub. L. 89–702, title II, § 212, as added Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(6)(A)(ii)], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, § 106(a)(2), Dec. 23, 2000, 114 Stat. 2799.)
+(Pub. L. 89–702, title II, § 212, as added Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(6)(A)(ii)], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, § 106(a)(2), Dec. 23, 2000, 114 Stat. 2799.)
 
 **Editorial Notes**
 
@@ -685,19 +685,19 @@ Subsection (a), referred to in text, was a reference to subsection (a) of sectio
 
 **Codification**
 
-The text of this section as added by Pub. L. 106–554 and Pub. L. 106–562 is based on the text of Pub. L. 104–91, § 3(d), Jan. 6, 1996, 110 Stat. 9, as amended by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(6)(A)(i)], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, § 106(a)(1), Dec. 23, 2000, 114 Stat. 2799. Pub. L. 104–91, § 3(d), was included in a note set out under section 1165 of this title prior to being redesignated and transferred by Pub. L. 106–554 and Pub. L. 106–562 so as to appear as section 212 of Pub. L. 89–702.
+The text of this section as added by Pub. L. 106–554 and Pub. L. 106–562 is based on the text of Pub. L. 104–91, § 3(d), Jan. 6, 1996, 110 Stat. 9, as amended by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(6)(A)(i)], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, § 106(a)(1), Dec. 23, 2000, 114 Stat. 2799. Pub. L. 104–91, § 3(d), was included in a note set out under section 1165 of this title prior to being redesignated and transferred by Pub. L. 106–554 and Pub. L. 106–562 so as to appear as section 212 of Pub. L. 89–702.
 
 Another section 212 of Pub. L. 89–702 is classified to section 1169a of this title.
 
 ## SUBCHAPTER III—ENFORCEMENT
 
-### § 1171. Seizure and forfeiture of vessels
+### § 1171. Seizure and forfeiture of vessels
 
 **(a)** Every vessel subject to the jurisdiction of the United States that is employed in any manner in connection with a violation of the provision of this chapter, including its tackle, apparel, furniture, appurtenances, cargo, and stores shall be subject to forfeiture; and all fur seals, or parts thereof, taken or retained in violation of this chapter, or the monetary value thereof, shall be forfeited.
 
 **(b)** All provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of a vessel, including its tackle, apparel, furniture, appurtenances, cargo, and stores for violation of the customs laws, the disposition of such vessel, including its tackle, apparel, furniture, appurtenances, cargo, and stores or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
-(Pub. L. 89–702, title III, § 301, Nov. 2, 1966, 80 Stat. 1096; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844.)
+(Pub. L. 89–702, title III, § 301, Nov. 2, 1966, 80 Stat. 1096; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844.)
 
 **Editorial Notes**
 
@@ -705,7 +705,7 @@ Another section 212 of Pub. L. 89–702 is classified to section 1169a of this t
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions, which were contained in section 1181 of this title, relating to seizure and forfeiture of vessels for provisions prohibiting the taking of sea otters on the high seas.
 
-### § 1172. Practice and procedure
+### § 1172. Practice and procedure
 
 **(a) Joint responsibility; designation by Secretary of State officers and employees as Federal law enforcement agents; non-Federal employees for civil service purposes**
 
@@ -733,7 +733,7 @@ Such person so authorized may seize any vessel subject to the jurisdiction of th
 
 Such person so authorized may seize, whenever and wherever lawfully found, all fur seals taken or retained in violation of this chapter or the regulations issued thereunder. Any fur seals so seized or forfeited to the United States pursuant to this chapter shall be disposed of in accordance with the provisions of section 1155 of this title.
 
-(Pub. L. 89–702, title III, § 302, Nov. 2, 1966, 80 Stat. 1097; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 89–702, title III, § 302, Nov. 2, 1966, 80 Stat. 1097; Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -751,11 +751,11 @@ Such person so authorized may seize, whenever and wherever lawfully found, all f
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1173. Regulations
+### § 1173. Regulations
 
 The Secretary is authorized to prescribe such regulations as he deems necessary and appropriate to carry out the provisions of this subchapter.
 
-(Pub. L. 89–702, title III, § 303, as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 845.)
+(Pub. L. 89–702, title III, § 303, as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 845.)
 
 **Editorial Notes**
 
@@ -763,13 +763,13 @@ The Secretary is authorized to prescribe such regulations as he deems necessary 
 
 Provisions similar to this section were contained in section 1183 of this title, prior to the complete revision of this chapter by Pub. L. 98–129.
 
-### § 1174. Penalties
+### § 1174. Penalties
 
 **(a)** Any person who knowingly violates any provision of this chapter or of any permit or regulation issued thereunder shall, upon conviction, be fined not more than $20,000 for such violation, or imprisoned for not more than one year, or both.
 
 **(b)** Any person who violates any provision of this chapter or any regulation or permit issued hereunder may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation. No penalty shall be assessed unless such person is given notice and opportunity for a hearing with respect to such violation. Hearings held during proceedings for the assessment of civil penalties authorized by this subsection shall be conducted in accordance with section 554 of title 5. The Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpoena served upon any person pursuant to this paragraph, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof. Any civil penalty assessed may be remitted or mitigated by the Secretary for good cause shown. Upon any failure to pay a penalty assessed under this subsection, the Secretary may request the Attorney General to institute civil action in a district court of the United States for any district in which such person is found, resides, or transacts business to collect the penalty, and such court shall have jurisdiction to hear and decide any such action.
 
-(Pub. L. 89–702, title III, § 304, as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 845.)
+(Pub. L. 89–702, title III, § 304, as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 845.)
 
 **Editorial Notes**
 
@@ -777,32 +777,32 @@ Provisions similar to this section were contained in section 1183 of this title,
 
 Provisions similar to this section were contained in section 1184 of this title, prior to the complete revision of this chapter by Pub. L. 98–129.
 
-### § 1175. Authorization of appropriations
+### § 1175. Authorization of appropriations
 
 **(a)** There are authorized to be appropriated to the operations, research, and facilities account of the National Oceanic and Atmospheric Administration in the Department of Commerce, such sums as may be necessary, up to $2,000,000, for fiscal year 1984 for the purpose of upgrading Federal property to be transferred pursuant to section 1165 of this title, $736,000 for fiscal year 1984 for the purposes of sections 1154 and 1168 of this title and such sums as may be necessary for each fiscal year thereafter for the purposes of sections 1154 and 1168 of this title.
 
 **(b)** The contract authority of the Secretary under this chapter is effective for any fiscal year only to the extent that appropriations are available for such purposes.
 
-(Pub. L. 89–702, title III, § 305, as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 845.)
+(Pub. L. 89–702, title III, § 305, as added Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 845.)
 
-### §§ 1181 to 1187. Omitted
+### §§ 1181 to 1187. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections were omitted in the general revision of this chapter by Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 835.
+Sections were omitted in the general revision of this chapter by Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 835.
 
-Section 1181, Pub. L. 89–702, title IV, § 401, Nov. 2, 1966, 80 Stat. 1097, related to seizure and forfeiture of vessels. See section 1171 of this title.
+Section 1181, Pub. L. 89–702, title IV, § 401, Nov. 2, 1966, 80 Stat. 1097, related to seizure and forfeiture of vessels. See section 1171 of this title.
 
-Section 1182, Pub. L. 89–702, title IV, § 402, Nov. 2, 1966, 80 Stat. 1097; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; 1978 Reorg. Plan No. 2 of 1978, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784, set out additional enforcement provisions. See section 1172 of this title.
+Section 1182, Pub. L. 89–702, title IV, § 402, Nov. 2, 1966, 80 Stat. 1097; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; 1978 Reorg. Plan No. 2 of 1978, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784, set out additional enforcement provisions. See section 1172 of this title.
 
-Section 1183, Pub. L. 89–702, title IV, § 403, Nov. 2, 1966, 80 Stat. 1098; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, authorized the Secretary of Commerce to issue regulations. See section 1173 of this title.
+Section 1183, Pub. L. 89–702, title IV, § 403, Nov. 2, 1966, 80 Stat. 1098; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, authorized the Secretary of Commerce to issue regulations. See section 1173 of this title.
 
-Section 1184, Pub. L. 89–702, title IV, § 404, Nov. 2, 1966, 80 Stat. 1098, set out penalties for violations. See section 1174 of this title.
+Section 1184, Pub. L. 89–702, title IV, § 404, Nov. 2, 1966, 80 Stat. 1098, set out penalties for violations. See section 1174 of this title.
 
-Section 1185, Pub. L. 89–702, title IV, § 405, Nov. 2, 1966, 80 Stat. 1098; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to contracts or agreements for research. See section 1155(b) of this title.
+Section 1185, Pub. L. 89–702, title IV, § 405, Nov. 2, 1966, 80 Stat. 1098; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to contracts or agreements for research. See section 1155(b) of this title.
 
-Section 1186, Pub. L. 89–702, title IV, § 406, Nov. 2, 1966, 80 Stat. 1098, defined terms as used in this chapter. See section 1151 of this title.
+Section 1186, Pub. L. 89–702, title IV, § 406, Nov. 2, 1966, 80 Stat. 1098, defined terms as used in this chapter. See section 1151 of this title.
 
-Section 1187, Pub. L. 89–702, title IV, § 407, Nov. 2, 1966, 80 Stat. 1098, related to creation of a Pribilof Islands fund. See section 1166 of this title.
+Section 1187, Pub. L. 89–702, title IV, § 407, Nov. 2, 1966, 80 Stat. 1098, related to creation of a Pribilof Islands fund. See section 1166 of this title.

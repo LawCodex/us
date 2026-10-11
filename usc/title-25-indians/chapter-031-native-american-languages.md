@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 31—NATIVE AMERICAN LANGUAGES
 
-## § 2901. Findings
+## § 2901. Findings
 
 The Congress finds that—
 
@@ -25,9 +25,9 @@ The Congress finds that—
 
 **(3)** the traditional languages of Native Americans are an integral part of their cultures and identities and form the basic medium for the transmission, and thus survival, of Native American cultures, literatures, histories, religions, political institutions, and values;
 
-**(4)** there is a widespread practice of treating Native Americans 1
+**(4)** there is a widespread practice of treating Native Americans 1
 
-<sup>1</sup>  So in original. Probably should be “American”.
+<sup>1</sup> So in original. Probably should be “American”.
 
 languages as if they were anachronisms;
 
@@ -43,19 +43,19 @@ languages as if they were anachronisms;
 
 **(10)** language provides a direct and powerful means of promoting international communication by people who share languages.
 
-(Pub. L. 101–477, title I, § 102, Oct. 30, 1990, 104 Stat. 1153.)
+(Pub. L. 101–477, title I, § 102, Oct. 30, 1990, 104 Stat. 1153.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 117–337, § 1, Jan. 5, 2023, 136 Stat. 6153, provided that: “This Act [enacting section 2907 of this title and amending section 2905 of this title] may be cited as the ‘Durbin Feeling Native American Languages Act of 2022’.”
+Pub. L. 117–337, § 1, Jan. 5, 2023, 136 Stat. 6153, provided that: “This Act [enacting section 2907 of this title and amending section 2905 of this title] may be cited as the ‘Durbin Feeling Native American Languages Act of 2022’.”
 
 **Short Title**
 
-Pub. L. 101–477, title I, § 101, Oct. 30, 1990, 104 Stat. 1153, provided that: “This title [enacting this chapter] may be cited as the ‘Native American Languages Act’.”
+Pub. L. 101–477, title I, § 101, Oct. 30, 1990, 104 Stat. 1153, provided that: “This title [enacting this chapter] may be cited as the ‘Native American Languages Act’.”
 
-## § 2902. Definitions
+## § 2902. Definitions
 
 For purposes of this chapter—
 
@@ -75,23 +75,23 @@ For purposes of this chapter—
 
 **(8)** The term “Indian reservation” has the same meaning given to the term “reservation” under section 1452 of this title.
 
-(Pub. L. 101–477, title I, § 103, Oct. 30, 1990, 104 Stat. 1154; Pub. L. 104–109, § 11, Feb. 12, 1996, 110 Stat. 765; Pub. L. 107–110, title VII, § 702(f), Jan. 8, 2002, 115 Stat. 1947; Pub. L. 114–95, title IX, § 9215(iii), Dec. 10, 2015, 129 Stat. 2187.)
+(Pub. L. 101–477, title I, § 103, Oct. 30, 1990, 104 Stat. 1154; Pub. L. 104–109, § 11, Feb. 12, 1996, 110 Stat. 765; Pub. L. 107–110, title VII, § 702(f), Jan. 8, 2002, 115 Stat. 1947; Pub. L. 114–95, title IX, § 9215(iii), Dec. 10, 2015, 129 Stat. 2187.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Par. (2). Pub. L. 114–95, § 9215(iii)(1), made technical amendment to reference in original act which appears in text as reference to section 7491(3) of title 20.
+2015—Par. (2). Pub. L. 114–95, § 9215(iii)(1), made technical amendment to reference in original act which appears in text as reference to section 7491(3) of title 20.
 
-Par. (3). Pub. L. 114–95, § 9215(iii)(2), made technical amendment to reference in original act which appears in text as reference to section 7517 of title 20.
+Par. (3). Pub. L. 114–95, § 9215(iii)(2), made technical amendment to reference in original act which appears in text as reference to section 7517 of title 20.
 
-2002—Par. (2). Pub. L. 107–110, § 702(f)(1), substituted “section 7491(3) of title 20” for “section 7881(4) of title 20”.
+2002—Par. (2). Pub. L. 107–110, § 702(f)(1), substituted “section 7491(3) of title 20” for “section 7881(4) of title 20”.
 
-Par. (3). Pub. L. 107–110, § 702(f)(2), substituted “section 7517 of title 20” for “section 7912(1) of title 20”.
+Par. (3). Pub. L. 107–110, § 702(f)(2), substituted “section 7517 of title 20” for “section 7912(1) of title 20”.
 
-1996—Par. (2). Pub. L. 104–109, § 11(1), substituted “section 7881(4) of title 20” for “section 2651(4) of this title”.
+1996—Par. (2). Pub. L. 104–109, § 11(1), substituted “section 7881(4) of title 20” for “section 2651(4) of this title”.
 
-Par. (3). Pub. L. 104–109, § 11(2), substituted “section 7912(1) of title 20” for “section 4909 of title 20”.
+Par. (3). Pub. L. 104–109, § 11(2), substituted “section 7912(1) of title 20” for “section 4909 of title 20”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -103,7 +103,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
-## § 2903. Declaration of policy
+## § 2903. Declaration of policy
 
 It is the policy of the United States to—
 
@@ -133,15 +133,15 @@ It is the policy of the United States to—
 
 **(8)** encourage all institutions of elementary, secondary and higher education, where appropriate, to include Native American languages in the curriculum in the same manner as foreign languages and to grant proficiency in Native American languages the same full academic credit as proficiency in foreign languages.
 
-(Pub. L. 101–477, title I, § 104, Oct. 30, 1990, 104 Stat. 1155.)
+(Pub. L. 101–477, title I, § 104, Oct. 30, 1990, 104 Stat. 1155.)
 
-## § 2904. No restrictions
+## § 2904. No restrictions
 
 The right of Native Americans to express themselves through the use of Native American languages shall not be restricted in any public proceeding, including publicly supported education programs.
 
-(Pub. L. 101–477, title I, § 105, Oct. 30, 1990, 104 Stat. 1155.)
+(Pub. L. 101–477, title I, § 105, Oct. 30, 1990, 104 Stat. 1155.)
 
-## § 2905. Evaluations
+## § 2905. Evaluations
 
 **(a)** The President shall direct the heads of the various Federal departments, agencies, and instrumentalities to—
 
@@ -169,7 +169,7 @@ The right of Native Americans to express themselves through the use of Native Am
 
 **(iii)** to reduce duplication, inefficiencies, and barriers Native American language communities face in accessing Federal programs to support efforts to revitalize, maintain, or increase the use of Native American languages.
 
-(Pub. L. 101–477, title I, § 106, Oct. 30, 1990, 104 Stat. 1156; Pub. L. 117–337, § 2(a), Jan. 5, 2023, 136 Stat. 6153.)
+(Pub. L. 101–477, title I, § 106, Oct. 30, 1990, 104 Stat. 1156; Pub. L. 117–337, § 2(a), Jan. 5, 2023, 136 Stat. 6153.)
 
 **Editorial Notes**
 
@@ -181,13 +181,13 @@ This chapter, referred to in subsec. (c)(2)(B)(i), was in the original “this A
 
 2023—Subsec. (c). Pub. L. 117–337 added subsec. (c).
 
-## § 2906. Use of English
+## § 2906. Use of English
 
 Nothing in this chapter shall be construed as precluding the use of Federal funds to teach English to Native Americans.
 
-(Pub. L. 101–477, title I, § 107, Oct. 30, 1990, 104 Stat. 1156.)
+(Pub. L. 101–477, title I, § 107, Oct. 30, 1990, 104 Stat. 1156.)
 
-## § 2907. Survey on Native American languages
+## § 2907. Survey on Native American languages
 
 **(a) In general**
 
@@ -273,7 +273,7 @@ Not later than 90 days after the date on which analysis of each survey under sub
 
 **(2)** during which a survey under that subsection is conducted.
 
-(Pub. L. 101–477, title I, § 108, as added Pub. L. 117–337, § 2(b), Jan. 5, 2023, 136 Stat. 6153.)
+(Pub. L. 101–477, title I, § 108, as added Pub. L. 117–337, § 2(b), Jan. 5, 2023, 136 Stat. 6153.)
 
 **Statutory Notes and Related Subsidiaries**
 

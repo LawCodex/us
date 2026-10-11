@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–389, title III, § 334(b), Oct. 10, 2008, 122 Stat. 4173, added item 3122.
+2008—Pub. L. 110–389, title III, § 334(b), Oct. 10, 2008, 122 Stat. 4173, added item 3122.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1500 to 1521 as 3100 to 3121, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1500 to 1521 as 3100 to 3121, respectively.
 
-1986—Pub. L. 99–576, title III, § 333(b)(7), Oct. 28, 1986, 100 Stat. 3279, substituted “Program” for “Pilot program” in item 1520.
+1986—Pub. L. 99–576, title III, § 333(b)(7), Oct. 28, 1986, 100 Stat. 3279, substituted “Program” for “Pilot program” in item 1520.
 
-1980—Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2171, amended chapter generally, substituting in chapter heading “TRAINING AND REHABILITATION FOR VETERANS WITH SERVICE-CONNECTED DISABILITIES” for “VOCATIONAL REHABILITATION”, in item 1504 “Scope of services and assistance” for “Subsistence allowances”, in item 1505 “Duration of rehabilitation programs” for “Leaves of absence”, in item 1506 “Initial and extended evaluations; determinations regarding serious employment handicap” for “Medical care of trainees”, in item 1507 “Individualized vocational rehabilitation plan” for “Loans to trainees”, in item 1508 “Allowances” for “Regulations to promote good conduct”, in item 1509 “Entitlement to independent living services and assistance” for “Books, supplies, and equipment”, in item 1510 “Leaves of absence” for “Vocational rehabilitation for hospitalized persons”, in item 1511 “Regulations to promote satisfactory conduct and cooperation” for “Training and training facilities”, and adding items 1500 and 1512 to 1521.
+1980—Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2171, amended chapter generally, substituting in chapter heading “TRAINING AND REHABILITATION FOR VETERANS WITH SERVICE-CONNECTED DISABILITIES” for “VOCATIONAL REHABILITATION”, in item 1504 “Scope of services and assistance” for “Subsistence allowances”, in item 1505 “Duration of rehabilitation programs” for “Leaves of absence”, in item 1506 “Initial and extended evaluations; determinations regarding serious employment handicap” for “Medical care of trainees”, in item 1507 “Individualized vocational rehabilitation plan” for “Loans to trainees”, in item 1508 “Allowances” for “Regulations to promote good conduct”, in item 1509 “Entitlement to independent living services and assistance” for “Books, supplies, and equipment”, in item 1510 “Leaves of absence” for “Vocational rehabilitation for hospitalized persons”, in item 1511 “Regulations to promote satisfactory conduct and cooperation” for “Training and training facilities”, and adding items 1500 and 1512 to 1521.
 
-1965—Pub. L. 89–138, § 2(1), Aug. 26, 1965, 79 Stat. 578, struck out item 1502A, added item 1503, and redesignated former item 1503 as 1511.
+1965—Pub. L. 89–138, § 2(1), Aug. 26, 1965, 79 Stat. 578, struck out item 1502A, added item 1503, and redesignated former item 1503 as 1511.
 
-1962—Pub. L. 87–591, § 2, Aug. 16, 1962, 76 Stat. 394, added item 1502A.
+1962—Pub. L. 87–591, § 2, Aug. 16, 1962, 76 Stat. 394, added item 1502A.
 
-## § 3100. Purposes
+## § 3100. Purposes
 
 The purposes of this chapter are to provide for all services and assistance necessary to enable veterans with service-connected disabilities to achieve maximum independence in daily living and, to the maximum extent feasible, to become employable and to obtain and maintain suitable employment.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2172, § 1500; renumbered § 3100, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2172, § 1500; renumbered § 3100, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -47,7 +47,7 @@ The purposes of this chapter are to provide for all services and assistance nece
 
 **Effective Date**
 
-Pub. L. 96–466, title VIII, § 802(a)(1)–(5), Oct. 17, 1980, 94 Stat. 2217, provided that:
+Pub. L. 96–466, title VIII, § 802(a)(1)–(5), Oct. 17, 1980, 94 Stat. 2217, provided that:
 
 > **“(a)**
 
@@ -61,13 +61,13 @@ Pub. L. 96–466, title VIII, § 802(a)(1)–(5), Oct. 17, 1980, 94 Stat. 2217
 
 > **“(5)** Subsection (c) of section 101 [enacting provisions set out as a note under section 3108 of this title] shall become effective on October 1, 1980. Subsection (d) of such section [enacting provisions set out as a note under section 3107 of this title] shall become effective on the date of the enactment of this Act [Oct. 17, 1980].”
 
-## § 3101. Definitions
+## § 3101. Definitions
 
 For the purposes of this chapter—
 
-**(10)**  1
+**(10)** 1
 
-<sup>1</sup>  So in original. Probably should be “(1)”.
+<sup>1</sup> So in original. Probably should be “(1)”.
 
 The term “emergency situation” has the meaning given such term in section 3601 of this title.
 
@@ -97,7 +97,7 @@ The term “emergency situation” has the meaning given such term in section 36
 
 **(B)** the assistance authorized by this chapter for a veteran receiving any of the services described in clause (A) of this paragraph.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2172, § 1501; amended Pub. L. 99–576, title III, § 333(b)(1), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3101 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(a), Oct. 9, 1996, 110 Stat. 3323; Pub. L. 117–333, § 3(e)(3)(A), Jan. 5, 2023, 136 Stat. 6128.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2172, § 1501; amended Pub. L. 99–576, title III, § 333(b)(1), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3101 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(a), Oct. 9, 1996, 110 Stat. 3323; Pub. L. 117–333, § 3(e)(3)(A), Jan. 5, 2023, 136 Stat. 6128.)
 
 **Editorial Notes**
 
@@ -109,15 +109,15 @@ Prior section 3101 was renumbered section 5301 of this title.
 
 2023—Pub. L. 117–333 added par. (10) defining “emergency situation” after introductory provisions and redesignated former pars. (1) to (9) as (2) to (10), respectively.
 
-1996—Par. (1). Pub. L. 104–275, § 101(a)(1), inserted “, resulting in substantial part from a disability described in section 3102(1)(A) of this title,” after “impairment”.
+1996—Par. (1). Pub. L. 104–275, § 101(a)(1), inserted “, resulting in substantial part from a disability described in section 3102(1)(A) of this title,” after “impairment”.
 
-Par. (6). Pub. L. 104–275, § 101(a)(2), inserted “authorized under section 3120 of this title” after “assistance”.
+Par. (6). Pub. L. 104–275, § 101(a)(2), inserted “authorized under section 3120 of this title” after “assistance”.
 
-Par. (7). Pub. L. 104–275, § 101(a)(3), inserted “, resulting in substantial part from a service-connected disability rated at 10 percent or more,” after “impairment”.
+Par. (7). Pub. L. 104–275, § 101(a)(3), inserted “, resulting in substantial part from a service-connected disability rated at 10 percent or more,” after “impairment”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1501 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1501 of this title as this section.
 
-Par. (3). Pub. L. 102–83, § 5(c)(1), substituted “3452(b)” for “1652(b)”.
+Par. (3). Pub. L. 102–83, § 5(c)(1), substituted “3452(b)” for “1652(b)”.
 
 1989—Pars. (4), (9)(A). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
@@ -127,7 +127,7 @@ Par. (3). Pub. L. 102–83, § 5(c)(1), substituted “3452(b)” for “1652(
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–275, title I, § 101(j), Oct. 9, 1996, 110 Stat. 3325, provided that:
+Pub. L. 104–275, title I, § 101(j), Oct. 9, 1996, 110 Stat. 3325, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 3102 to 3109, 3117, 3118, and 3120 of this title] shall take effect on the date of the enactment of this Act [Oct. 9, 1996].
 
@@ -137,7 +137,7 @@ Pub. L. 104–275, title I, § 101(j), Oct. 9, 1996, 110 Stat. 3325, provided 
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, as amended, set out as a note under section 3100 of this title.
 
-## § 3102. Basic entitlement
+## § 3102. Basic entitlement
 
 **(a) In General.—** A person shall be entitled to a rehabilitation program under the terms and conditions of this chapter if—
 
@@ -187,7 +187,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, as am
 
 **(4)** No person shall be entitled to an additional rehabilitation program under paragraph (1) from whom the Secretary receives an application therefor after March 31, 2014.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2173, § 1502; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, § 8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, § 3(a), Mar. 22, 1991, 105 Stat. 49; renumbered § 3102, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, § 404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, § 101(b), Oct. 9, 1996, 110 Stat. 3323; Pub. L. 112–56, title II, § 233(a)(1), Nov. 21, 2011, 125 Stat. 719; Pub. L. 116–283, div. A, title IX, § 926(a)(41), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2173, § 1502; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, § 8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, § 3(a), Mar. 22, 1991, 105 Stat. 49; renumbered § 3102, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, § 404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, § 101(b), Oct. 9, 1996, 110 Stat. 3323; Pub. L. 112–56, title II, § 233(a)(1), Nov. 21, 2011, 125 Stat. 719; Pub. L. 116–283, div. A, title IX, § 926(a)(41), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -205,11 +205,11 @@ Prior section 3102 was renumbered section 5302 of this title.
 
 2011—Pub. L. 112–56 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1996—Par. (1)(A)(i). Pub. L. 104–275, § 101(b)(1), substituted “rated at 20 percent or more” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 20 percent or more under chapter 11 of this title and”.
+1996—Par. (1)(A)(i). Pub. L. 104–275, § 101(b)(1), substituted “rated at 20 percent or more” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 20 percent or more under chapter 11 of this title and”.
 
-Par. (2)(A). Pub. L. 104–275, § 101(b)(2), substituted “rated at 10 percent” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 10 percent under chapter 11 of this title and”.
+Par. (2)(A). Pub. L. 104–275, § 101(b)(2), substituted “rated at 10 percent” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 10 percent under chapter 11 of this title and”.
 
-Par. (2)(B). Pub. L. 104–275, § 101(b)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has a serious employment handicap.”
+Par. (2)(B). Pub. L. 104–275, § 101(b)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has a serious employment handicap.”
 
 1992—Pub. L. 102–568 amended section generally, making changes in substance and structure.
 
@@ -225,27 +225,27 @@ Par. (1)(B). Pub. L. 102–16 substituted “or receiving outpatient medical car
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–56, title II, § 233(c), Nov. 21, 2011, 125 Stat. 720, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 3103 and 3105 of this title] shall take effect on June 1, 2012, and shall apply with respect to rehabilitation programs beginning after such date.”
+Pub. L. 112–56, title II, § 233(c), Nov. 21, 2011, 125 Stat. 720, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 3103 and 3105 of this title] shall take effect on June 1, 2012, and shall apply with respect to rehabilitation programs beginning after such date.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–568, title IV, § 404(b), Oct. 29, 1992, 106 Stat. 4338, as amended by Pub. L. 103–446, title VI, § 602(c)(1), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1993, but shall not apply to veterans and other persons who originally applied for assistance under chapter 31 of title 38, United States Code, before November 1, 1990.”
+Pub. L. 102–568, title IV, § 404(b), Oct. 29, 1992, 106 Stat. 4338, as amended by Pub. L. 103–446, title VI, § 602(c)(1), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1993, but shall not apply to veterans and other persons who originally applied for assistance under chapter 31 of title 38, United States Code, before November 1, 1990.”
 
-[Pub. L. 103–446, title VI, § 602(c)(2), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendment made by paragraph (1) [amending section 404(b) of Pub. L. 102–568, set out above] shall take effect as of October 29, 1992.” ]
+[Pub. L. 103–446, title VI, § 602(c)(2), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendment made by paragraph (1) [amending section 404(b) of Pub. L. 102–568, set out above] shall take effect as of October 29, 1992.” ]
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VIII, § 8021(b), Nov. 5, 1990, 104 Stat. 1388–347, provided that: “The amendments made by this section [amending this section] shall apply to veterans and other persons originally applying for assistance under chapter 31 of title 38, United States Code, on or after November 1, 1990.”
+Pub. L. 101–508, title VIII, § 8021(b), Nov. 5, 1990, 104 Stat. 1388–347, provided that: “The amendments made by this section [amending this section] shall apply to veterans and other persons originally applying for assistance under chapter 31 of title 38, United States Code, on or after November 1, 1990.”
 
 **Effective Date**
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3103. Periods of eligibility
+## § 3103. Periods of eligibility
 
-**(a)** Except as provided in subsection (b), (c), (d), (e), (g), or (h) 1
+**(a)** Except as provided in subsection (b), (c), (d), (e), (g), or (h) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, air, or space service.
 
@@ -285,9 +285,9 @@ the twelve-year period of eligibility shall not run during the period of time th
 
 **(h)**
 
-**(1)**  2
+**(1)** 2
 
-<sup>2</sup>  So in original. Two subsecs. (h) have been enacted.
+<sup>2</sup> So in original. Two subsecs. (h) have been enacted.
 
 In the case of a veteran who is eligible for a vocational rehabilitation program under this chapter and who is prevented from participating in the vocational rehabilitation program within the period of eligibility prescribed in subsection (a) because of a covered reason, as determined by the Secretary, such period of eligibility—
 
@@ -307,15 +307,15 @@ In the case of a veteran who is eligible for a vocational rehabilitation program
 
 **(h)** <sup>2</sup> In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the 12-year period of eligibility prescribed in subsection (a) due to an emergency situation, such 12-year period—
 
-**(1)** shall not run during the period the individual is so prevented from participating 3
+**(1)** shall not run during the period the individual is so prevented from participating 3
 
-<sup>3</sup>  So in original. Probably should be followed by “in”.
+<sup>3</sup> So in original. Probably should be followed by “in”.
 
 such program; and
 
 **(2)** shall again begin running on the first day after the individual is able to resume participation in such program.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2173, § 1503; amended Pub. L. 99–576, title III, § 333(b)(2), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3103 and amended, Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(d)(8), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, § 101(c), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, § 103(c)(2), Dec. 27, 2001, 115 Stat. 979; Pub. L. 107–330, title III, § 308(h), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 112–56, title II, § 233(b), Nov. 21, 2011, 125 Stat. 720; Pub. L. 115–48, title IV, § 402, Aug. 16, 2017, 131 Stat. 996; Pub. L. 116–283, div. A, title IX, § 926(a)(42), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title I, § 1025(a), Jan. 5, 2021, 134 Stat. 4960; Pub. L. 117–328, div. U, title II, § 233, Dec. 29, 2022, 136 Stat. 5457; Pub. L. 117–333, § 3(c)(1), Jan. 5, 2023, 136 Stat. 6126.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2173, § 1503; amended Pub. L. 99–576, title III, § 333(b)(2), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3103 and amended, Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(d)(8), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, § 101(c), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, § 103(c)(2), Dec. 27, 2001, 115 Stat. 979; Pub. L. 107–330, title III, § 308(h), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 112–56, title II, § 233(b), Nov. 21, 2011, 125 Stat. 720; Pub. L. 115–48, title IV, § 402, Aug. 16, 2017, 131 Stat. 996; Pub. L. 116–283, div. A, title IX, § 926(a)(42), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title I, § 1025(a), Jan. 5, 2021, 134 Stat. 4960; Pub. L. 117–328, div. U, title II, § 233, Dec. 29, 2022, 136 Stat. 5457; Pub. L. 117–333, § 3(c)(1), Jan. 5, 2023, 136 Stat. 6126.)
 
 **Editorial Notes**
 
@@ -329,47 +329,47 @@ Prior section 3103 was renumbered section 5303 of this title.
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 117–333, § 3(c)(1)(A), made identical amendment to that made by Pub. L. 117–328, § 233(1). See 2022 Amendment note below.
+2023—Subsec. (a). Pub. L. 117–333, § 3(c)(1)(A), made identical amendment to that made by Pub. L. 117–328, § 233(1). See 2022 Amendment note below.
 
-Subsec. (h). Pub. L. 117–333, § 3(c)(1)(B), added subsec. (h) referring to the 12-year period of eligibility prescribed in subsec. (a).
+Subsec. (h). Pub. L. 117–333, § 3(c)(1)(B), added subsec. (h) referring to the 12-year period of eligibility prescribed in subsec. (a).
 
-2022—Subsec. (a). Pub. L. 117–328, § 233(1), substituted “(g), or (h)” for “or (g)”.
+2022—Subsec. (a). Pub. L. 117–328, § 233(1), substituted “(g), or (h)” for “or (g)”.
 
-Subsec. (h). Pub. L. 117–328, § 233(2), added subsec. (h) referring to the period of eligibility prescribed in subsec. (a) because of a covered reason.
+Subsec. (h). Pub. L. 117–328, § 233(2), added subsec. (h) referring to the period of eligibility prescribed in subsec. (a) because of a covered reason.
 
-2021—Subsec. (a). Pub. L. 116–315, § 1025(a)(1), substituted “(e), or (g)” for “or (e)”.
+2021—Subsec. (a). Pub. L. 116–315, § 1025(a)(1), substituted “(e), or (g)” for “or (e)”.
 
 Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 Subsec. (b)(2)(A). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-Subsec. (g). Pub. L. 116–315, § 1025(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 116–315, § 1025(a)(2), added subsec. (g).
 
 2017—Subsec. (f). Pub. L. 115–48 substituted “12304, 12304a, or 12304b” for “or 12304”.
 
-2011—Subsec. (a). Pub. L. 112–56, § 233(b)(1), substituted “in subsection (b), (c), (d), or (e)” for “in subsection (b), (c), or (d)”.
+2011—Subsec. (a). Pub. L. 112–56, § 233(b)(1), substituted “in subsection (b), (c), (d), or (e)” for “in subsection (b), (c), or (d)”.
 
-Subsecs. (e), (f). Pub. L. 112–56, § 233(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 112–56, § 233(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 2002—Subsec. (e). Pub. L. 107–330 made technical correction to directory language of Pub. L. 107–103. See 2001 Amendment note below.
 
 2001—Subsec. (e). Pub. L. 107–103, as amended by Pub. L. 107–330, added subsec. (e).
 
-1996—Subsec. (b)(3). Pub. L. 104–275, § 101(c)(1), substituted “rated at 10 percent or more” for “described in section 3102(1)(A)(i) of this title”.
+1996—Subsec. (b)(3). Pub. L. 104–275, § 101(c)(1), substituted “rated at 10 percent or more” for “described in section 3102(1)(A)(i) of this title”.
 
-Subsec. (c). Pub. L. 104–275, § 101(c)(2)(A), substituted “current” for “particular” in introductory provisions.
+Subsec. (c). Pub. L. 104–275, § 101(c)(2)(A), substituted “current” for “particular” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 104–275, § 101(c)(2)(B), substituted “veteran’s current employment” for “veteran’s employment”.
+Subsec. (c)(2). Pub. L. 104–275, § 101(c)(2)(B), substituted “veteran’s current employment” for “veteran’s employment”.
 
-Subsec. (d). Pub. L. 104–275, § 101(c)(3), substituted “in accordance with the provisions of section 3120 of this title” for “under this chapter”.
+Subsec. (d). Pub. L. 104–275, § 101(c)(3), substituted “in accordance with the provisions of section 3120 of this title” for “under this chapter”.
 
 1994—Subsec. (b)(3). Pub. L. 103–446 substituted “section 3102(1)(A)(i)” for “section 3102(1)(A)”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1503 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1503 of this title as this section.
 
 Subsec. (b)(2)(B). Pub. L. 102–40 substituted “5303” for “3103”.
 
-Subsec. (b)(3). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)”.
+Subsec. (b)(3). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)”.
 
 1989—Subsecs. (b) to (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -383,7 +383,7 @@ Amendment by Pub. L. 112–56 effective June 1, 2012, and applicable with respec
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–330, title III, § 308(h), Dec. 6, 2002, 116 Stat. 2829, provided that the amendment made by section 308(h) of Pub. L. 107–330 is effective as of Dec. 27, 2001, and as if included in section 103(c) of the Veterans Education and Benefits Expansion Act of 2001, Pub. L. 107–103, as originally enacted.
+Pub. L. 107–330, title III, § 308(h), Dec. 6, 2002, 116 Stat. 2829, provided that the amendment made by section 308(h) of Pub. L. 107–330 is effective as of Dec. 27, 2001, and as if included in section 103(c) of the Veterans Education and Benefits Expansion Act of 2001, Pub. L. 107–103, as originally enacted.
 
 **Effective Date of 2001 Amendment**
 
@@ -395,11 +395,11 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **Extension of Time Limitations for Use of Entitlement: Vocational Rehabilitation and Training**
 
-Pub. L. 116–315, title I, § 1105(b), Jan. 5, 2021, 134 Stat. 4964, as amended by Pub. L. 117–76, § 5(a), Dec. 21, 2021, 135 Stat. 1520, amended text temporarily added by Pub. L. 116–140, § 6(c)(1), formerly set out below.
+Pub. L. 116–315, title I, § 1105(b), Jan. 5, 2021, 134 Stat. 4964, as amended by Pub. L. 117–76, § 5(a), Dec. 21, 2021, 135 Stat. 1520, amended text temporarily added by Pub. L. 116–140, § 6(c)(1), formerly set out below.
 
-Pub. L. 116–140, § 6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided that during Mar. 1, 2020, to Dec. 21, 2021, the Secretary of Veterans Affairs would apply subsec. (a) by striking “or (e)” and inserting “(e), or (g)” and adding subsec. (g), relating to the twelve-year period of eligibility prescribed in subsec. (a), was repealed by Pub. L. 116–315, title I, § 1025(b), Jan. 5, 2021, 134 Stat. 4960.
+Pub. L. 116–140, § 6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided that during Mar. 1, 2020, to Dec. 21, 2021, the Secretary of Veterans Affairs would apply subsec. (a) by striking “or (e)” and inserting “(e), or (g)” and adding subsec. (g), relating to the twelve-year period of eligibility prescribed in subsec. (a), was repealed by Pub. L. 116–315, title I, § 1025(b), Jan. 5, 2021, 134 Stat. 4960.
 
-## § 3104. Scope of services and assistance
+## § 3104. Scope of services and assistance
 
 **(a)** Services and assistance which the Secretary may provide under this chapter, pursuant to regulations which the Secretary shall prescribe, include the following:
 
@@ -457,7 +457,7 @@ Pub. L. 116–140, § 6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided th
 
 **(e)** In the case of any veteran whom the Secretary determines is satisfactorily following a program of employment services provided under subsection (a)(5) during the period of an emergency situation, the Secretary may pay the veteran a subsistence allowance, as prescribed in section 3108 of this title for full-time training for the type of program that the veteran was pursuing, for two additional months, if the Secretary determines that the veteran is negatively affected by the emergency situation.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2174, § 1504; amended Pub. L. 100–323, § 11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, § 3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, § 14(c)(3), June 13, 1991, 105 Stat. 285; renumbered § 3104 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(d), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 114–315, title IV, §§ 402(a), 403, Dec. 16, 2016, 130 Stat. 1553, 1554; Pub. L. 115–177, § 1(c)(1), June 1, 2018, 132 Stat. 1377; Pub. L. 117–333, §§ 4(a), 14(a), (b), Jan. 5, 2023, 136 Stat. 6128, 6135.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2174, § 1504; amended Pub. L. 100–323, § 11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, § 3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, § 14(c)(3), June 13, 1991, 105 Stat. 285; renumbered § 3104 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(d), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 114–315, title IV, §§ 402(a), 403, Dec. 16, 2016, 130 Stat. 1553, 1554; Pub. L. 115–177, § 1(c)(1), June 1, 2018, 132 Stat. 1377; Pub. L. 117–333, §§ 4(a), 14(a), (b), Jan. 5, 2023, 136 Stat. 6128, 6135.)
 
 **Editorial Notes**
 
@@ -467,35 +467,35 @@ Prior section 3104 was renumbered section 5304 of this title.
 
 **Amendments**
 
-2023—Subsec. (a)(12). Pub. L. 117–333, § 14(a), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “For veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment, such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for such a veteran to begin employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks.”
+2023—Subsec. (a)(12). Pub. L. 117–333, § 14(a), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “For veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment, such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for such a veteran to begin employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks.”
 
-Subsec. (c)(1). Pub. L. 117–333, § 14(b), inserted “, including with respect to providing priority for services under subsection (a)(12) to veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment” after “determined by the Secretary”.
+Subsec. (c)(1). Pub. L. 117–333, § 14(b), inserted “, including with respect to providing priority for services under subsection (a)(12) to veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment” after “determined by the Secretary”.
 
-Subsec. (e). Pub. L. 117–333, § 4(a), added subsec. (e).
+Subsec. (e). Pub. L. 117–333, § 4(a), added subsec. (e).
 
 2018—Subsec. (d). Pub. L. 115–177 added subsec. (d).
 
-2016—Subsec. (b). Pub. L. 114–315, § 402(a), inserted at end “To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.”
+2016—Subsec. (b). Pub. L. 114–315, § 402(a), inserted at end “To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.”
 
-Subsec. (c). Pub. L. 114–315, § 403, added subsec. (c).
+Subsec. (c). Pub. L. 114–315, § 403, added subsec. (c).
 
-1996—Subsec. (a)(1). Pub. L. 104–275, § 101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran’s disability or disabilities cause” and inserted “reasonably” after “goal is”.
+1996—Subsec. (a)(1). Pub. L. 104–275, § 101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran’s disability or disabilities cause” and inserted “reasonably” after “goal is”.
 
-Subsec. (a)(7)(A). Pub. L. 104–275, § 101(d)(1)(B), struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act (29 U.S.C. 1721 note) for a participant in a program of training under such Act” after “individual case”.
+Subsec. (a)(7)(A). Pub. L. 104–275, § 101(d)(1)(B), struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act (29 U.S.C. 1721 note) for a participant in a program of training under such Act” after “individual case”.
 
-Subsec. (a)(12). Pub. L. 104–275, § 101(d)(1)(C), substituted “For veterans with the most severe service-connected disabilities who require” for “For the most severely disabled veterans requiring”.
+Subsec. (a)(12). Pub. L. 104–275, § 101(d)(1)(C), substituted “For veterans with the most severe service-connected disabilities who require” for “For the most severely disabled veterans requiring”.
 
-Subsecs. (b), (c). Pub. L. 104–275, § 101(d)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “A program of independent living services and assistance may include the types of services and assistance described in section 702 of the Rehabilitation Act of 1973 (29 U.S.C. 796a).”
+Subsecs. (b), (c). Pub. L. 104–275, § 101(d)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “A program of independent living services and assistance may include the types of services and assistance described in section 702 of the Rehabilitation Act of 1973 (29 U.S.C. 796a).”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1504 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1504 of this title as this section.
 
-Subsec. (a)(3). Pub. L. 102–83, § 5(c)(1), substituted “3108” for “1508”.
+Subsec. (a)(3). Pub. L. 102–83, § 5(c)(1), substituted “3108” for “1508”.
 
-Subsec. (a)(4). Pub. L. 102–83, § 5(c)(1), substituted “3485” for “1685”.
+Subsec. (a)(4). Pub. L. 102–83, § 5(c)(1), substituted “3485” for “1685”.
 
 Subsec. (a)(7). Pub. L. 102–16 designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as cls. (i) and (ii), respectively, substituted “handling charges, licensing” for “and licensing”, and added subpar. (B).
 
-Subsec. (a)(8). Pub. L. 102–83, § 5(c)(1), substituted “3112” for “1512”.
+Subsec. (a)(8). Pub. L. 102–83, § 5(c)(1), substituted “3112” for “1512”.
 
 Subsec. (b). Pub. L. 102–54 substituted “(29 U.S.C. 796a)” for “(29 U.S.C. 796)”.
 
@@ -507,7 +507,7 @@ Subsec. (b). Pub. L. 102–54 substituted “(29 U.S.C. 796a)” for “(29 U.S.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title IV, § 402(b), Dec. 16, 2016, 130 Stat. 1554, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a course of education or training pursued by a veteran who first begins a program of rehabilitation under chapter 31 of title 38, United States Code, on or after the date that is 1 year after the date of the enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–315, title IV, § 402(b), Dec. 16, 2016, 130 Stat. 1554, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a course of education or training pursued by a veteran who first begins a program of rehabilitation under chapter 31 of title 38, United States Code, on or after the date that is 1 year after the date of the enactment of this Act [Dec. 16, 2016].”
 
 **Effective Date of 1996 Amendment**
 
@@ -515,11 +515,11 @@ Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–16, § 3(b)(2), Mar. 22, 1991, 105 Stat. 49, provided that: “The amendments made by this subsection [amending this section] shall apply only to payments made on or after the date of the enactment of this Act [Mar. 22, 1991].”
+Pub. L. 102–16, § 3(b)(2), Mar. 22, 1991, 105 Stat. 49, provided that: “The amendments made by this subsection [amending this section] shall apply only to payments made on or after the date of the enactment of this Act [Mar. 22, 1991].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–323, § 16, May 20, 1988, 102 Stat. 575, provided that:
+Pub. L. 100–323, § 16, May 20, 1988, 102 Stat. 575, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), the provisions of and amendments made by this Act [see Tables for classification] shall take effect on the date of the enactment of this Act [May 20, 1988].
 
@@ -543,7 +543,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **Blind Rehabilitation Outpatient Specialists**
 
-Pub. L. 109–461, title II, § 207, Dec. 22, 2006, 120 Stat. 3412, provided that:
+Pub. L. 109–461, title II, § 207, Dec. 22, 2006, 120 Stat. 3412, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -579,9 +579,9 @@ Pub. L. 109–461, title II, § 207, Dec. 22, 2006, 120 Stat. 3412, provided t
 
 **Veterans Pursuing Program of Vocational Rehabilitation Under Former Section 1504 of This Title**
 
-During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 [formerly 1508] of this title, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
+During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 [formerly 1508] of this title, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 
-## § 3105. Duration of rehabilitation programs
+## § 3105. Duration of rehabilitation programs
 
 **(a)** In any case in which the Secretary is unable to determine whether it currently is reasonably feasible for a veteran to achieve a vocational goal, the period of extended evaluation under section 3106(c) of this title may not exceed twelve months, except that such period may be extended for additional periods of up to six months each if the Secretary determines before granting any such extension that it is reasonably likely that, during the period of any such extension, a determination can be made whether the achievement of a vocational goal is reasonably feasible in the case of such veteran.
 
@@ -629,7 +629,7 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
 **(3)** The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2176, § 1505; amended Pub. L. 99–576, title III, § 333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3105 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, § 103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, § 331, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 112–56, title II, § 233(a)(2), Nov. 21, 2011, 125 Stat. 720; Pub. L. 115–407, title I, § 101, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 117–333, § 3(c)(2), Jan. 5, 2023, 136 Stat. 6127.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2176, § 1505; amended Pub. L. 99–576, title III, § 333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3105 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, § 103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, § 331, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 112–56, title II, § 233(a)(2), Nov. 21, 2011, 125 Stat. 720; Pub. L. 115–407, title I, § 101, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 117–333, § 3(c)(2), Jan. 5, 2023, 136 Stat. 6127.)
 
 **Editorial Notes**
 
@@ -639,9 +639,9 @@ Prior section 3105 was renumbered section 5305 of this title.
 
 **Amendments**
 
-2023—Subsec. (b)(1). Pub. L. 117–333, § 3(c)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+2023—Subsec. (b)(1). Pub. L. 117–333, § 3(c)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (b)(3). Pub. L. 117–333, § 3(c)(2)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 117–333, § 3(c)(2)(B), added par. (3).
 
 2018—Subsec. (e)(2). Pub. L. 115–407 substituted “12304, 12304a, or 12304b” for “or 12304”.
 
@@ -653,19 +653,19 @@ Subsec. (b)(3). Pub. L. 117–333, § 3(c)(2)(B), added par. (3).
 
 1996—Subsec. (c)(1). Pub. L. 104–275 substituted “veteran’s current employment” for “veteran’s employment”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1505 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1505 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3106(c)” for “1506(c)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3106(c)” for “1506(c)”.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)”.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (a). Pub. L. 99–576, § 333(b)(3)(A), inserted “currently” after “it”.
+1986—Subsec. (a). Pub. L. 99–576, § 333(b)(3)(A), inserted “currently” after “it”.
 
-Subsec. (b). Pub. L. 99–576, § 333(b)(3)(B), inserted “current” after “of the”.
+Subsec. (b). Pub. L. 99–576, § 333(b)(3)(B), inserted “current” after “of the”.
 
-Subsec. (d). Pub. L. 99–576, § 333(b)(3)(C), inserted “currently” after “goal”.
+Subsec. (d). Pub. L. 99–576, § 333(b)(3)(C), inserted “currently” after “goal”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -683,9 +683,9 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **Extension of Time Limitations for Use of Entitlement: Duration of Program**
 
-Pub. L. 116–140, § 6(c)(2), Apr. 28, 2020, 134 Stat. 633, which temporarily provided for extended time to participate in counseling and placement and postplacement services and vocational rehabilitation programs, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (b)(3) of this section.
+Pub. L. 116–140, § 6(c)(2), Apr. 28, 2020, 134 Stat. 633, which temporarily provided for extended time to participate in counseling and placement and postplacement services and vocational rehabilitation programs, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (b)(3) of this section.
 
-## § 3106. Initial and extended evaluations; determinations regarding serious employment handicap
+## § 3106. Initial and extended evaluations; determinations regarding serious employment handicap
 
 **(a)** The Secretary shall provide any veteran who has a service-connected disability rated at 10 percent or more and who applies for benefits under this chapter with an initial evaluation consisting of such services described in section 3104(a)(1) of this title as are necessary (1) to determine whether such veteran is entitled to and eligible for benefits under this chapter, and (2) in the case of a veteran who is determined to be entitled to and eligible for such benefits, to determine—
 
@@ -703,7 +703,7 @@ Pub. L. 116–140, § 6(c)(2), Apr. 28, 2020, 134 Stat. 633, which temporarily
 
 **(f)** In connection with each period of extended evaluation of a veteran and each rehabilitation program for a veteran who is determined to have a serious employment handicap, the Secretary shall assign a Department of Veterans Affairs employee to be responsible for the management and followup of the provision of all services (including appropriate coordination of employment assistance under section 3117 of this title) and assistance under this chapter to such veteran.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2176, § 1506; amended Pub. L. 99–576, title III, § 333(b)(4), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3106 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(d)(9), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, § 101(f)(1), Oct. 9, 1996, 110 Stat. 3324.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2176, § 1506; amended Pub. L. 99–576, title III, § 333(b)(4), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3106 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(d)(9), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, § 101(f)(1), Oct. 9, 1996, 110 Stat. 3324.)
 
 **Editorial Notes**
 
@@ -713,27 +713,27 @@ Prior section 3106 was renumbered section 5306 of this title.
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–275, § 101(f)(1)(A), substituted “rated at 10 percent or more” for “described in clause (i) or (ii) of section 3102(1)(A) of this title”.
+1996—Subsec. (a). Pub. L. 104–275, § 101(f)(1)(A), substituted “rated at 10 percent or more” for “described in clause (i) or (ii) of section 3102(1)(A) of this title”.
 
-Subsec. (b). Pub. L. 104–275, § 101(f)(1)(B), struck out “counseling in accordance with” before “an individualized written plan”.
+Subsec. (b). Pub. L. 104–275, § 101(f)(1)(B), struck out “counseling in accordance with” before “an individualized written plan”.
 
-Subsec. (c). Pub. L. 104–275, § 101(f)(1)(C), substituted “with an extended” for “with extended”.
+Subsec. (c). Pub. L. 104–275, § 101(f)(1)(C), substituted “with an extended” for “with extended”.
 
-Subsecs. (d) to (f). Pub. L. 104–275, § 101(f)(1)(D), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 104–275, § 101(f)(1)(D), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 1994—Subsec. (a). Pub. L. 103–446 substituted “clause (i) or (ii) of section 3102(1)(A)” for “section 3102(1)(A) or (B)”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1506 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1506 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)” and “3104(a)(1)” for “1504(a)(1)” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)” and “3104(a)(1)” for “1504(a)(1)” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3107(a)” for “1507(a)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3107(a)” for “1507(a)”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(1)” for “1504(a)(1)” and “3108” for “1508”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(1)” for “1504(a)(1)” and “3108” for “1508”.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “3105(a)” for “1505(a)”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “3105(a)” for “1505(a)”.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3117” for “1517”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3117” for “1517”.
 
 1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -745,7 +745,7 @@ Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3117” for “1517�
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3107. Individualized vocational rehabilitation plan
+## § 3107. Individualized vocational rehabilitation plan
 
 **(a)** The Secretary shall formulate an individualized written plan of vocational rehabilitation for a veteran described in section 3106(b) of this title. Such plan shall be developed with such veteran and shall include, but not be limited to (1) a statement of long-range rehabilitation goals for such veteran and intermediate rehabilitation objectives related to achieving such goals, (2) a statement of the specific services (which shall include counseling in all cases) and assistance to be provided under this chapter, (3) the projected date for the initiation and the anticipated duration of each such service, and (4) objective criteria and an evaluation procedure and schedule for determining whether such objectives and goals are being achieved.
 
@@ -771,7 +771,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **(3)** The Secretary shall review the statement submitted under paragraph (2) of this subsection and the plan as proposed or as redeveloped, and, if applicable, the disapproval of redevelopment of the plan, and render a decision on such review not later than ninety days after the date on which such veteran submits such statement, unless the case is one for which a longer period for review, not to exceed 150 days after such veteran submits such statement, is allowed under regulations prescribed by the Secretary, in which case the Secretary shall render a decision no later than the last day of the period prescribed in such regulations.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2177, § 1507; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3107 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(f)(2)(A), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 119–72, § 2, Jan. 20, 2026, 139 Stat. 2001.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2177, § 1507; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3107 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(f)(2)(A), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 119–72, § 2, Jan. 20, 2026, 139 Stat. 2001.)
 
 **Editorial Notes**
 
@@ -785,9 +785,9 @@ Prior section 3107 was renumbered section 5307 of this title.
 
 1996—Subsec. (c)(2). Pub. L. 104–275 substituted “3106(f)” for “3106(e)”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1507 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1507 of this title as this section.
 
-Subsecs. (a), (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3106(b)” for “1506(b)” in subsec. (a) and “3106(e)” for “1506(e)” in subsec. (c)(2).
+Subsecs. (a), (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3106(b)” for “1506(b)” in subsec. (a) and “3106(e)” for “1506(e)” in subsec. (c)(2).
 
 1989—Subsecs. (a), (b), (c)(3). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -799,13 +799,13 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **Individualized Written Plans and Extensions of Eligibility and Vocational Rehabilitation Program Periods for Veterans in Programs on March 31, 1981**
 
-Pub. L. 96–466, title I, § 101(d), Oct. 17, 1980, 94 Stat. 2186, provided that with respect to veterans participating in a program of vocational rehabilitation under this chapter on Mar. 31, 1981, individualized written plans of vocational rehabilitation were to be formulated under this section as determined by Administrator, and authorized extensions of periods of vocational rehabilitation without regard to certain requirements for determinations of serious employment handicaps.
+Pub. L. 96–466, title I, § 101(d), Oct. 17, 1980, 94 Stat. 2186, provided that with respect to veterans participating in a program of vocational rehabilitation under this chapter on Mar. 31, 1981, individualized written plans of vocational rehabilitation were to be formulated under this section as determined by Administrator, and authorized extensions of periods of vocational rehabilitation without regard to certain requirements for determinations of serious employment handicaps.
 
 **Veterans Pursuing Program of Vocational Rehabilitation Under Former Section 1507 of This Title**
 
-During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3112 [formerly 1512] of this title, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1507 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
+During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3112 [formerly 1512] of this title, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1507 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 
-## § 3108. Allowances
+## § 3108. Allowances
 
 **(a)**
 
@@ -893,7 +893,7 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
 **(i)** Payment of a subsistence allowance may be made in advance in accordance with the provisions of section 3680(d) of this title.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2178, § 1508; amended Pub. L. 97–306, title II, § 205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, § 703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, § 201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§ 402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, § 3(c), Mar. 22, 1991, 105 Stat. 49; renumbered § 3108 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, § 405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, § 602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, § 101(g), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 109–461, title X, § 1002(b), Dec. 22, 2006, 120 Stat. 3465; Pub. L. 111–377, title II, § 205(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 112–154, title VII, § 701(b), Aug. 6, 2012, 126 Stat. 1203; Pub. L. 114–58, title VI, § 601(15), Sept. 30, 2015, 129 Stat. 539.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2178, § 1508; amended Pub. L. 97–306, title II, § 205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, § 703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, § 201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§ 402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, § 3(c), Mar. 22, 1991, 105 Stat. 49; renumbered § 3108 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, § 405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, § 602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, § 101(g), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 109–461, title X, § 1002(b), Dec. 22, 2006, 120 Stat. 3465; Pub. L. 111–377, title II, § 205(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 112–154, title VII, § 701(b), Aug. 6, 2012, 126 Stat. 1203; Pub. L. 114–58, title VI, § 601(15), Sept. 30, 2015, 129 Stat. 539.)
 
 **Editorial Notes**
 
@@ -913,41 +913,41 @@ Provisions similar to those comprising this section were contained in former sec
 
 2006—Subsec. (g)(1). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
 
-1996—Subsec. (a)(2). Pub. L. 104–275, § 101(g)(1), substituted “while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title” for “following the conclusion of such pursuit”.
+1996—Subsec. (a)(2). Pub. L. 104–275, § 101(g)(1), substituted “while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title” for “following the conclusion of such pursuit”.
 
-Subsec. (f)(1)(A). Pub. L. 104–275, § 101(g)(2)(A), inserted “eligible for and” after “veteran is” and substituted “chapter 30” for “chapter 30 or 34” and “enrolled under chapter 30” for “enrolled under either chapter 30 or chapter 34”.
+Subsec. (f)(1)(A). Pub. L. 104–275, § 101(g)(2)(A), inserted “eligible for and” after “veteran is” and substituted “chapter 30” for “chapter 30 or 34” and “enrolled under chapter 30” for “enrolled under either chapter 30 or chapter 34”.
 
-Subsec. (f)(1)(B). Pub. L. 104–275, § 101(g)(2)(B), substituted “chapter 30” for “chapter 30 or 34”.
+Subsec. (f)(1)(B). Pub. L. 104–275, § 101(g)(2)(B), substituted “chapter 30” for “chapter 30 or 34”.
 
 1994—Subsec. (c)(2). Pub. L. 103–446 inserted “or federally recognized Indian tribe” after “local government agency”.
 
-1992—Subsec. (b). Pub. L. 102–568, § 405(b), designated existing provisions as par. (1) and added pars. (2) and (3).
+1992—Subsec. (b). Pub. L. 102–568, § 405(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Pub. L. 102–568, § 405(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $333, $250, $167, $291, $333, $333, $250, and $167 to $366, $275, $184, $320, $366, $366, $275, and $184; in column III from $413, $310, $207, $352, $413, $413, $310, and $207 to $454, $341, $228, $387, $454, $454, $341, and $228; in column IV from $486, $364, $244, $405, $486, $486, $364, and $244 to $535, $400, $268, $446, $535, $535, $$400, and $268; and in column V from $35, $27, $18, $26, $35, $35, $27, and $18 to $39, $30, $20, $29, $39, $39, $30, and $20, respectively.
+Pub. L. 102–568, § 405(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $333, $250, $167, $291, $333, $333, $250, and $167 to $366, $275, $184, $320, $366, $366, $275, and $184; in column III from $413, $310, $207, $352, $413, $413, $310, and $207 to $454, $341, $228, $387, $454, $454, $341, and $228; in column IV from $486, $364, $244, $405, $486, $486, $364, and $244 to $535, $400, $268, $446, $535, $535, $$400, and $268; and in column V from $35, $27, $18, $26, $35, $35, $27, and $18 to $39, $30, $20, $29, $39, $39, $30, and $20, respectively.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1508 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1508 of this title as this section.
 
-Subsec. (a)(3). Pub. L. 102–83, § 5(c)(1), substituted “3106(a)” for “1506(a)” and “3105(b)” for “1505(b)”.
+Subsec. (a)(3). Pub. L. 102–83, § 5(c)(1), substituted “3106(a)” for “1506(a)” and “3105(b)” for “1505(b)”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3115(a)(1)” for “1515(a)(1)”.
+Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3115(a)(1)” for “1515(a)(1)”.
 
-Pub. L. 102–16 inserted “, State, or local government” after “Federal”.
+Pub. L. 102–16 inserted “, State, or local government” after “Federal”.
 
-Subsec. (f)(2). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(3)” for “1504(a)(3)”.
+Subsec. (f)(2). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(3)” for “1504(a)(3)”.
 
-Subsec. (h). Pub. L. 102–83, § 5(c)(1), substituted “1114(j)” for “314(j)” in two places.
+Subsec. (h). Pub. L. 102–83, § 5(c)(1), substituted “1114(j)” for “314(j)” in two places.
 
-Subsec. (i). Pub. L. 102–83, § 5(c)(1), substituted “3680(d)” for “1780(d)”.
+Subsec. (i). Pub. L. 102–83, § 5(c)(1), substituted “3680(d)” for “1780(d)”.
 
-1989—Subsec. (a)(1), (2). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
+1989—Subsec. (a)(1), (2). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-Subsec. (b). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-Pub. L. 101–237, § 402(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $310, $233, $155, $271, $310, $310, $233, and $155 to $333, $250, $167, $291, $333, $333, $250, and $167; in column III from $384, $288, $193, $327, $384, $384, $288, and $193 to $413, $310, $207, $352, $413, $413, $310, and $207; in column IV from $452, $339, $227, $377, $452, $452, $339, and $227 to $486, $364, $244, $405, $486, $486, $364, and $244; in column V from $33, $25, $17, $24, $33, $33, $25, and $17 to $35, $27, $18, $26, $35, $35, $27, and $18, respectively.
+Pub. L. 101–237, § 402(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $310, $233, $155, $271, $310, $310, $233, and $155 to $333, $250, $167, $291, $333, $333, $250, and $167; in column III from $384, $288, $193, $327, $384, $384, $288, and $193 to $413, $310, $207, $352, $413, $413, $310, and $207; in column IV from $452, $339, $227, $377, $452, $452, $339, and $227 to $486, $364, $244, $405, $486, $486, $364, and $244; in column V from $33, $25, $17, $24, $33, $33, $25, and $17 to $35, $27, $18, $26, $35, $35, $27, and $18, respectively.
 
-Subsecs. (c)(1) to (f)(1)(A). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (c)(1) to (f)(1)(A). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (h). Pub. L. 101–237, § 423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (h). Pub. L. 101–237, § 423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 1984—Subsec. (b). Pub. L. 98–543 increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $282, $212, $141, $246, $282, $282, $212, and $141 to $310, $233, $155, $271, $310, $310, $233, and $155; in column III from $349, $262, $175, $297, $349, $349, $262, and $175 to $384, $288, $193, $323, $384, $384, $288, and $193; in column IV from $411, $308, $206, $343, $411, $411, $308, and $206 to $452, $339, $227, $377, $452, $452, $339, and $227; in column V from $30, $23, $15, $22, $30, $30, $23, and $15 to $33, $25, $17, $24, $33, $33, $25, and $17, respectively.
 
@@ -963,37 +963,37 @@ Amendment by Pub. L. 112–154 effective on the date that is one year after Aug.
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–377, title II, § 205(b), Jan. 4, 2011, 124 Stat. 4126, provided that: “The amendment made by this section [amending this section] shall take effect on August 1, 2011.”
+Pub. L. 111–377, title II, § 205(b), Jan. 4, 2011, 124 Stat. 4126, provided that: “The amendment made by this section [amending this section] shall take effect on August 1, 2011.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–568, title IV, § 405(c), Oct. 29, 1992, 106 Stat. 4339, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on October 1, 1993.”
+Pub. L. 102–568, title IV, § 405(c), Oct. 29, 1992, 106 Stat. 4339, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on October 1, 1993.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title IV, § 402(b), Dec. 18, 1989, 103 Stat. 2078, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 1990.”
+Pub. L. 101–237, title IV, § 402(b), Dec. 18, 1989, 103 Stat. 2078, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 1990.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–543, title II, § 205, Oct. 24, 1984, 98 Stat. 2743, provided that: “The amendments made by this part [part A (§§ 201–205) of title II of Pub. L. 98–543, see Tables for classification] shall take effect as of October 1, 1984.”
+Pub. L. 98–543, title II, § 205, Oct. 24, 1984, 98 Stat. 2743, provided that: “The amendments made by this part [part A (§§ 201–205) of title II of Pub. L. 98–543, see Tables for classification] shall take effect as of October 1, 1984.”
 
 **Effective Date; Veterans Pursuing Program of Vocational Rehabilitation Under This Chapter**
 
-Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of this section, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(2), (4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
+Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of this section, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(2), (4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 
 **Extension of Payment of Vocational Rehabilitation Subsistence Allowances**
 
-Pub. L. 116–140, § 8, Apr. 28, 2020, 134 Stat. 634, which temporarily allowed for additional subsistence allowances for certain veterans, was repealed by Pub. L. 117–333, § 4(b), Jan. 5, 2023, 136 Stat. 6128.
+Pub. L. 116–140, § 8, Apr. 28, 2020, 134 Stat. 634, which temporarily allowed for additional subsistence allowances for certain veterans, was repealed by Pub. L. 117–333, § 4(b), Jan. 5, 2023, 136 Stat. 6128.
 
 **Applicability of Subsection (g)(1) to Apportionments Made Before October 17, 1980**
 
-Pub. L. 96–466, title I, § 101(c), Oct. 17, 1980, 94 Stat. 2186, provided that: “The provisions of section 1508(g)(1) [now 3108(g)(1)] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) [now 5307(c)] of such title before the date of the enactment of this Act [Oct. 17, 1980].”
+Pub. L. 96–466, title I, § 101(c), Oct. 17, 1980, 94 Stat. 2186, provided that: “The provisions of section 1508(g)(1) [now 3108(g)(1)] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) [now 5307(c)] of such title before the date of the enactment of this Act [Oct. 17, 1980].”
 
-## § 3109. Entitlement to independent living services and assistance
+## § 3109. Entitlement to independent living services and assistance
 
 In any case in which the Secretary has determined under section 3106(e) of this title that the achievement of a vocational goal by a veteran currently is not reasonably feasible, such veteran shall be entitled, in accordance with the provisions of section 3120 of this title, to a program of independent living services and assistance designed to enable such veteran to achieve maximum independence in daily living.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1509; amended Pub. L. 99–576, title III, § 333(b)(5), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3109 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(f)(2)(B), Oct. 9, 1996, 110 Stat. 3325.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1509; amended Pub. L. 99–576, title III, § 333(b)(5), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3109 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(f)(2)(B), Oct. 9, 1996, 110 Stat. 3325.)
 
 **Editorial Notes**
 
@@ -1017,11 +1017,11 @@ Prior section 3109 was renumbered section 5309 of this title.
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3110. Leaves of absence
+## § 3110. Leaves of absence
 
 The Secretary shall prescribe such regulations as the Secretary determines necessary for granting leaves of absence to veterans pursuing rehabilitation programs under this chapter. During authorized leaves of absence, a veteran shall be considered to be pursuing such program.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1510; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3110, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1510; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3110, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1043,7 +1043,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3111. Regulations to promote satisfactory conduct and cooperation
+## § 3111. Regulations to promote satisfactory conduct and cooperation
 
 The Secretary shall prescribe such rules and regulations as the Secretary determines necessary to promote satisfactory conduct and cooperation on the part of veterans who are pursuing rehabilitation programs under this chapter. In any case in which the Secretary determines that a veteran has failed to maintain satisfactory conduct or cooperation, the Secretary may, after determining that all reasonable counseling efforts have been made and are not reasonably likely to be effective, discontinue services and assistance unless the Secretary determines that mitigating circumstances exist. In any case in which such services and assistance have been discontinued, the Secretary may reinstitute such services and assistance only if the Secretary determines that—
 
@@ -1051,7 +1051,7 @@ The Secretary shall prescribe such rules and regulations as the Secretary determ
 
 **(2)** the rehabilitation program which such veteran proposes to pursue (whether the same or revised) is suitable to such veteran’s abilities, aptitudes, and interests.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1511; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3111, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1511; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3111, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1071,17 +1071,17 @@ Prior section 3111 was renumbered section 5311 of this title.
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3112. Revolving fund loans
+## § 3112. Revolving fund loans
 
 The revolving fund established pursuant to part VII of Veterans Regulation Numbered 1(a) is continued in effect, and may be used by the Secretary, under regulations prescribed by the Secretary, for making advances, not in excess of twice the amount of the full-time institutional monthly subsistence allowance for a veteran with no dependents (as provided in section 3108(b) of this title) to veterans pursuing rehabilitation programs under this chapter. Such advances, and advances from such fund made before the effective date of the Veterans’ Rehabilitation and Education Amendments of 1980, shall bear no interest and shall be repaid in such installments, as may be determined by the Secretary, by proper deductions from future payments of compensation, pension, subsistence allowance, educational assistance allowance, or retirement pay.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1512; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3112 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1512; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3112 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The revolving fund established pursuant to part VII of Veterans Regulation Numbered 1(a), referred to in text, means the vocational rehabilitation revolving fund established by par. 8 of part VII of Veterans Regulation Numbered 1(a), as added by act Mar. 24, 1943, ch. 22, § 2, 57 Stat. 44, which was set out in chapter 12A of former Title 38, Pensions, Bonuses, and Veterans’ Relief. The appropriation for such fund made by act July 12, 1943, ch. 218, § 1, 57 Stat. 434, was reduced by act June 24, 1954, ch. 359, title I, § 101(part), 68 Stat. 293, and repealed by Pub. L. 85–857, § 14(82), Sept. 2, 1958, 72 Stat. 1272. Part VII of Veterans Regulation Numbered 1(a) was repealed by section 14(67) of Pub. L. 85–857, effective Jan. 1, 1959, which provided in part, that repeal of part VII should not take effect in such manner as to impair the operation of the deferred repeal of a portion of paragraph 9 of the part as provided in section 21 of the Government Employees Training Act, Pub. L. 85–507, July 7, 1958, 72 Stat. 337. For continuation of certain rights and benefits see section 12 of Pub. L. 85–857, set out as a note preceding part I of this title.
+The revolving fund established pursuant to part VII of Veterans Regulation Numbered 1(a), referred to in text, means the vocational rehabilitation revolving fund established by par. 8 of part VII of Veterans Regulation Numbered 1(a), as added by act Mar. 24, 1943, ch. 22, § 2, 57 Stat. 44, which was set out in chapter 12A of former Title 38, Pensions, Bonuses, and Veterans’ Relief. The appropriation for such fund made by act July 12, 1943, ch. 218, § 1, 57 Stat. 434, was reduced by act June 24, 1954, ch. 359, title I, § 101(part), 68 Stat. 293, and repealed by Pub. L. 85–857, § 14(82), Sept. 2, 1958, 72 Stat. 1272. Part VII of Veterans Regulation Numbered 1(a) was repealed by section 14(67) of Pub. L. 85–857, effective Jan. 1, 1959, which provided in part, that repeal of part VII should not take effect in such manner as to impair the operation of the deferred repeal of a portion of paragraph 9 of the part as provided in section 21 of the Government Employees Training Act, Pub. L. 85–507, July 7, 1958, 72 Stat. 337. For continuation of certain rights and benefits see section 12 of Pub. L. 85–857, set out as a note preceding part I of this title.
 
 For effective date of the Veterans’ Rehabilitation and Education Amendments of 1980, referred to in text, see section 802 of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 
@@ -1101,15 +1101,15 @@ Provisions similar to those comprising this section were contained in former sec
 
 **Effective Date; Veterans Pursuing Program of Vocational Rehabilitation Under This Chapter**
 
-Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of this section, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1507 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(2), (4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
+Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of this section, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1507 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(2), (4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 
-## § 3113. Vocational rehabilitation for hospitalized members of the Armed Forces and veterans
+## § 3113. Vocational rehabilitation for hospitalized members of the Armed Forces and veterans
 
 **(a)** Services and assistance may be provided under this chapter to a person described in subparagraphs (A)(ii) and (B) of section 3102(1) of this title who is hospitalized pending discharge from active military, naval, air, or space service. In such cases, no subsistence allowance shall be paid.
 
 **(b)** Services and assistance may be provided under this chapter to a veteran who is receiving care in a Department of Veterans Affairs hospital, nursing home, or domiciliary facility or in any other hospital or medical facility.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1513; amended Pub. L. 101–237, title IV, § 423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3113 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(d)(10), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 116–283, div. A, title IX, § 926(a)(43), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2181, § 1513; amended Pub. L. 101–237, title IV, § 423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3113 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(d)(10), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 116–283, div. A, title IX, § 926(a)(43), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -1125,9 +1125,9 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 1994—Subsec. (a). Pub. L. 103–446 substituted “subparagraphs (A)(ii) and (B) of section 3102(1)” for “section 3102(1)(B) and (2)”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1513 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1513 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(B)” for “1502(1)(B)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(B)” for “1502(1)(B)”.
 
 1989—Subsec. (b). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -1137,11 +1137,11 @@ Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(B)” for �
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3114. Vocational rehabilitation outside the United States
+## § 3114. Vocational rehabilitation outside the United States
 
 Under regulations which the Secretary shall prescribe, a vocational rehabilitation program under this chapter may be provided outside the United States if the Secretary determines that such training is (1) necessary in the particular case to provide the preparation needed to render a veteran employable and enable such veteran to obtain and retain suitable employment, and (2) in the best interest of such veteran and the Federal Government.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2182, § 1514; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3114, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2182, § 1514; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3114, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1161,7 +1161,7 @@ Prior section 3114 was renumbered section 5314 of this title.
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3115. Rehabilitation resources
+## § 3115. Rehabilitation resources
 
 **(a)** Notwithstanding any other provision of law, for the purpose of providing services under this chapter, the Secretary may—
 
@@ -1185,13 +1185,13 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **(c)** For purposes of this section, the term “federally recognized Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2182, § 1515; amended Pub. L. 100–689, title II, § 201, Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3115, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 602(a), Nov. 2, 1994, 108 Stat. 4671.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2182, § 1515; amended Pub. L. 100–689, title II, § 201, Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3115, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, § 602(a), Nov. 2, 1994, 108 Stat. 4671.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Prior Provisions**
 
@@ -1201,21 +1201,21 @@ Provisions similar to those comprising this section were contained in former sec
 
 **Amendments**
 
-1994—Subsec. (a)(1). Pub. L. 103–446, § 602(a)(1)(A), struck out “or” after “(including the Department of Veterans Affairs),” and inserted “or of any federally recognized Indian tribe,” after “financial assistance,”.
+1994—Subsec. (a)(1). Pub. L. 103–446, § 602(a)(1)(A), struck out “or” after “(including the Department of Veterans Affairs),” and inserted “or of any federally recognized Indian tribe,” after “financial assistance,”.
 
-Subsec. (a)(4). Pub. L. 103–446, § 602(a)(1)(B), inserted “any federally recognized Indian tribe,” after “contributions,”.
+Subsec. (a)(4). Pub. L. 103–446, § 602(a)(1)(B), inserted “any federally recognized Indian tribe,” after “contributions,”.
 
-Subsec. (c). Pub. L. 103–446, § 602(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 103–446, § 602(a)(2), added subsec. (c).
 
 1991—Pub. L. 102–83 renumbered section 1515 of this title as this section.
 
 1989—Subsecs. (a), (b)(2), (4). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–689, § 201(1), inserted “, or of any State or local government agency receiving Federal financial assistance,” after “Administration)”.
+1988—Subsec. (a)(1). Pub. L. 100–689, § 201(1), inserted “, or of any State or local government agency receiving Federal financial assistance,” after “Administration)”.
 
-Subsec. (b)(1). Pub. L. 100–689, § 201(2)(A), inserted “at a Federal agency” after “section”.
+Subsec. (b)(1). Pub. L. 100–689, § 201(2)(A), inserted “at a Federal agency” after “section”.
 
-Subsec. (b)(3), (4). Pub. L. 100–689, § 201(2)(B), added pars. (3) and (4) and struck out former par. (3) which read as follows: “Use of facilities and services under clause (4) of subsection (a) of this section, shall be procured through contract, agreement, or other cooperative arrangement.”
+Subsec. (b)(3), (4). Pub. L. 100–689, § 201(2)(B), added pars. (3) and (4) and struck out former par. (3) which read as follows: “Use of facilities and services under clause (4) of subsection (a) of this section, shall be procured through contract, agreement, or other cooperative arrangement.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1223,7 +1223,7 @@ Subsec. (b)(3), (4). Pub. L. 100–689, § 201(2)(B), added pars. (3) and (4) 
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3116. Promotion of employment and training opportunities
+## § 3116. Promotion of employment and training opportunities
 
 **(a)** The Secretary shall actively promote the development and establishment of employment, training, and other related opportunities for (1) veterans who are participating or who have participated in a rehabilitation program under this chapter, (2) veterans with service-connected disabilities, and (3) other veterans to whom the employment emphases set forth in chapter 42 of this title apply. The Secretary shall promote the development and establishment of such opportunities through Department of Veterans Affairs staff outreach efforts to employers and through Department of Veterans Affairs coordination with Federal, State, and local governmental agencies and appropriate nongovernmental organizations. In carrying out the provisions of this subsection with respect to veterans referred to in clause (3) of the first sentence of this subsection, the Secretary shall place particular emphasis on the needs of categories of such veterans on the basis of applicable rates of unemployment.
 
@@ -1235,13 +1235,13 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **(3)** The Secretary shall prescribe regulations under this subsection in consultation with the Secretary of Labor and, in prescribing such regulations, shall take into consideration the provisions of title V of the Rehabilitation Act of 1973 (29 U.S.C. ch. 16, subch. V) and section 4212 of this title, and regulations prescribed under such provisions.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2182, § 1516; amended Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3116 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–56, title II, § 232, Nov. 21, 2011, 125 Stat. 719.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2182, § 1516; amended Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3116 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–56, title II, § 232, Nov. 21, 2011, 125 Stat. 719.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 **Prior Provisions**
 
@@ -1251,9 +1251,9 @@ Prior section 3116 was renumbered section 5316 of this title.
 
 2011—Subsec. (b)(1). Pub. L. 112–56 struck out “who have been rehabilitated to the point of employability” after “veterans”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1516 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1516 of this title as this section.
 
-Subsec. (b)(2), (3). Pub. L. 102–83, § 5(c)(1), substituted “3687” for “1787” in par. (2) and “4212” for “2012” in par. (3).
+Subsec. (b)(2), (3). Pub. L. 102–83, § 5(c)(1), substituted “3687” for “1787” in par. (2) and “4212” for “2012” in par. (3).
 
 1989—Subsecs. (a), (b)(1), (3). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -1265,13 +1265,13 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 **Coordination With Programs Under Veterans’ Job Training Act**
 
-Pub. L. 99–238, title II, § 202, Jan. 13, 1986, 99 Stat. 1768, as amended by Pub. L. 102–83, §§ 5(c)(2), 6(g), Aug. 6, 1991, 105 Stat. 406, 408, provided that:
+Pub. L. 99–238, title II, § 202, Jan. 13, 1986, 99 Stat. 1768, as amended by Pub. L. 102–83, §§ 5(c)(2), 6(g), Aug. 6, 1991, 105 Stat. 406, 408, provided that:
 
 > **“(a) In General.—** In carrying out section 3116(b) [formerly 1516(b)] of title 38, United States Code, the Secretary of Veterans Affairs shall take all feasible steps to establish and encourage, for veterans who are eligible to have payments made on their behalf under such section, the development of training opportunities through programs of job training consistent with the provisions of the Veterans’ Job Training Act (as redesignated by section 201(a)(1) of this Act) [29 U.S.C. 1721 note] so as to utilize programs of job training established by employers pursuant to such Act.
 
 > **“(b) Directive.—** In carrying out such Act, the Secretary of Veterans Affairs shall take all feasible steps to ensure that, in the cases of veterans who are eligible to have payments made on their behalf under both such Act and section 3116(b) [formerly 1516(b)] of title 38, United States Code, the authority under such section is utilized, to the maximum extent feasible and consistent with the veteran’s best interests, to make payments to employers on behalf of such veterans.”
 
-## § 3117. Employment assistance
+## § 3117. Employment assistance
 
 **(a)**
 
@@ -1291,13 +1291,13 @@ Pub. L. 99–238, title II, § 202, Jan. 13, 1986, 99 Stat. 1768, as amended b
 
 **(2)** In the case of a veteran described in paragraph (12) of section 3104(a) of this title who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such paragraph, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2183, § 1517; amended Pub. L. 97–72, title III, § 303(k), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–689, title II, § 202(a), Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, § 14(c)(4), June 13, 1991, 105 Stat. 285; renumbered § 3117 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(h), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–288, § 4(e)(2), Nov. 7, 2002, 116 Stat. 2044; Pub. L. 109–233, title V, § 503(6), June 15, 2006, 120 Stat. 416; Pub. L. 117–333, § 14(c), Jan. 5, 2023, 136 Stat. 6135.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2183, § 1517; amended Pub. L. 97–72, title III, § 303(k), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–689, title II, § 202(a), Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, § 14(c)(4), June 13, 1991, 105 Stat. 285; renumbered § 3117 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(h), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–288, § 4(e)(2), Nov. 7, 2002, 116 Stat. 2044; Pub. L. 109–233, title V, § 503(6), June 15, 2006, 120 Stat. 416; Pub. L. 117–333, § 14(c), Jan. 5, 2023, 136 Stat. 6135.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973, referred to in subsec. (a)(1), (2)(C)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a)(1), (2)(C)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 **Prior Provisions**
 
@@ -1305,11 +1305,11 @@ Prior section 3117 was renumbered section 5317 of this title.
 
 **Amendments**
 
-2023—Subsec. (a)(2)(C). Pub. L. 117–333, § 14(c)(1), substituted “this subparagraph” for “this clause”.
+2023—Subsec. (a)(2)(C). Pub. L. 117–333, § 14(c)(1), substituted “this subparagraph” for “this clause”.
 
-Subsec. (b)(1). Pub. L. 117–333, § 14(c)(2)(A), substituted “ensure” for “insure”.
+Subsec. (b)(1). Pub. L. 117–333, § 14(c)(2)(A), substituted “ensure” for “insure”.
 
-Subsec. (b)(2). Pub. L. 117–333, § 14(c)(2)(B), substituted “paragraph” for “clause” in two places.
+Subsec. (b)(2). Pub. L. 117–333, § 14(c)(2)(B), substituted “paragraph” for “clause” in two places.
 
 2006—Subsec. (b)(1). Pub. L. 109–233 substituted “section 4(b)(1)” for “section 8” and “633(b)(1)” for “633(b)”.
 
@@ -1317,15 +1317,15 @@ Subsec. (b)(2). Pub. L. 117–333, § 14(c)(2)(B), substituted “paragraph”
 
 1996—Subsec. (a)(1). Pub. L. 104–275 inserted “rated at 10 percent or more” after “disability”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1517 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1517 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–54, § 14(c)(4)(A), inserted “(29 U.S.C. 701 et seq.)” after “1973”.
+Subsec. (a)(1). Pub. L. 102–54, § 14(c)(4)(A), inserted “(29 U.S.C. 701 et seq.)” after “1973”.
 
-Subsec. (a)(2)(B). Pub. L. 102–83, § 5(c)(1), substituted “4103A” for “2003A”.
+Subsec. (a)(2)(B). Pub. L. 102–83, § 5(c)(1), substituted “4103A” for “2003A”.
 
-Subsec. (a)(2)(C)(v). Pub. L. 102–54, § 14(c)(4)(B), struck out second period at end.
+Subsec. (a)(2)(C)(v). Pub. L. 102–54, § 14(c)(4)(B), struck out second period at end.
 
-Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)” for “1504(a)”.
+Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)” for “1504(a)”.
 
 1989—Subsecs. (a)(1), (2)(C), (b). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -1343,7 +1343,7 @@ Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3118. Personnel training, development, and qualifications
+## § 3118. Personnel training, development, and qualifications
 
 **(a)** The Secretary shall provide a program of ongoing professional training and development for Department of Veterans Affairs counseling and rehabilitation personnel engaged in providing rehabilitation services under this chapter. The objective of such training shall be to insure that rehabilitation services for disabled veterans are provided in accordance with the most advanced knowledge, methods, and techniques available for the rehabilitation of handicapped persons. For this purpose, the Secretary may employ the services of consultants and may make grants to and contract with public or private agencies (including institutions of higher learning) to conduct such training and development.
 
@@ -1351,13 +1351,13 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **(c)** Notwithstanding any other provision of law, the Secretary shall establish such qualifications for personnel providing evaluation and rehabilitation services to veterans under this chapter and for employees performing the functions described in section 3106(f) of this title as the Secretary determines are necessary and appropriate to insure the quality of rehabilitation programs under this chapter. In establishing such qualifications, the Secretary shall take into account the qualifications established for comparable personnel under the Rehabilitation Act of 1973 (29 U.S.C. ch. 16).
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2184, § 1518; amended Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3118 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(f)(2)(C), Oct. 9, 1996, 110 Stat. 3325.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2184, § 1518; amended Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3118 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, § 101(f)(2)(C), Oct. 9, 1996, 110 Stat. 3325.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973 (29 U.S.C. ch. 16), referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973 (29 U.S.C. ch. 16), referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 **Prior Provisions**
 
@@ -1367,9 +1367,9 @@ Prior section 3118 was renumbered section 5318 of this title.
 
 1996—Subsec. (c). Pub. L. 104–275 substituted “3106(f)” for “3106(e)”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1518 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1518 of this title as this section.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3106(e)” for “1506(e)”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3106(e)” for “1506(e)”.
 
 1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -1379,7 +1379,7 @@ Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3106(e)” for “15
 
 Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3119. Rehabilitation research and special projects
+## § 3119. Rehabilitation research and special projects
 
 **(a)** The Secretary shall carry out an ongoing program of activities for the purpose of advancing the knowledge, methods, techniques, and resources available for use in rehabilitation programs for veterans. For this purpose, the Secretary shall conduct and provide support for the development or conduct, or both the development and conduct, of—
 
@@ -1391,7 +1391,7 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 **(c)** The Secretary shall cooperate with the Commissioner of the Rehabilitation Services Administration and the Director of the Institute of Handicapped Research in the Department of Education, the Assistant Secretary for Veterans’ Employment in the Department of Labor, and the Secretary of Health and Human Services regarding rehabilitation studies, research, and special projects of mutual programmatic concern.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2184, § 1519; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3119, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2184, § 1519; amended Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3119, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1407,7 +1407,7 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3120. Program of independent living services and assistance
+## § 3120. Program of independent living services and assistance
 
 **(a)** The Secretary may, under contracts with entities described in subsection (f) of this section, or through facilities of the Veterans Health Administration, which possess a demonstrated capability to conduct programs of independent living services for severely handicapped persons, provide, under regulations which the Secretary shall prescribe, programs of independent living services and assistance under this chapter, in various geographic regions of the United States, to veterans described in subsection (b) of this section.
 
@@ -1425,7 +1425,7 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 **(f)** Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2185, § 1520; amended Pub. L. 99–576, title III, § 333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, § 202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§ 404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered § 3120 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684; Pub. L. 104–275, title I, § 101(f)(2)(D), (i), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–103, title V, § 508(a), Dec. 27, 2001, 115 Stat. 997; Pub. L. 110–389, title III, § 332, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 111–275, title VIII, § 801(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 112–154, title VII, § 701(c), Aug. 6, 2012, 126 Stat. 1203.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2185, § 1520; amended Pub. L. 99–576, title III, § 333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, § 202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§ 404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered § 3120 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684; Pub. L. 104–275, title I, § 101(f)(2)(D), (i), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–103, title V, § 508(a), Dec. 27, 2001, 115 Stat. 997; Pub. L. 110–389, title III, § 332, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 111–275, title VIII, § 801(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 112–154, title VII, § 701(c), Aug. 6, 2012, 126 Stat. 1203.)
 
 **Editorial Notes**
 
@@ -1439,57 +1439,57 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 2001—Subsec. (e). Pub. L. 107–103 substituted “2,500 veterans” for “five hundred veterans”.
 
-1996—Subsec. (b). Pub. L. 104–275, § 101(i)(1), substituted “serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i)” for “service-connected disability described in section 3102(1)(A)”.
+1996—Subsec. (b). Pub. L. 104–275, § 101(i)(1), substituted “serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i)” for “service-connected disability described in section 3102(1)(A)”.
 
-Pub. L. 104–275, § 101(f)(2)(D), substituted “3106(d) or (e)” for “3106(d)”.
+Pub. L. 104–275, § 101(f)(2)(D), substituted “3106(d) or (e)” for “3106(d)”.
 
-Subsec. (d). Pub. L. 104–275, § 101(i)(2), struck out “and (b)” after “section 3104(a)”.
+Subsec. (d). Pub. L. 104–275, § 101(i)(2), struck out “and (b)” after “section 3104(a)”.
 
-1994—Subsec. (a). Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+1994—Subsec. (a). Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-Subsec. (b). Pub. L. 103–446, § 1201(d)(11), which directed substitution of “section 3102(1)(A)(i)” for “section 3012(1)(A)”, could not be executed because the words “section 3012(1)(A)” did not appear.
+Subsec. (b). Pub. L. 103–446, § 1201(d)(11), which directed substitution of “section 3102(1)(A)(i)” for “section 3012(1)(A)”, could not be executed because the words “section 3012(1)(A)” did not appear.
 
-Subsec. (f). Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+Subsec. (f). Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1520 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1520 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)” and “3106(d)” for “1506(d)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)” and “3106(d)” for “1506(d)”.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)” for “1504(a)” and “3107” for “1507”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)” for “1504(a)” and “3107” for “1507”.
 
-1989—Subsec. (a). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+1989—Subsec. (a). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 101–237, § 404(2)–(4), redesignated former par. (1) of subsec. (a) as entire subsection, substituted “The” for “During fiscal years 1982 through 1989, the”, “subsection (f) of this section” for “paragraph (7) of this subsection” and “subsection (b) of this section” for “paragraph (2) of this subsection”, redesignated former pars. (2), (3), (4), (6), and (7) of subsec. (a) as subsecs. (b), (c), (d), (e), and (f) of this section, respectively, and struck out former par. (5) which read as follows: “Any contract for services initiated with respect to any veteran under this section before the end of fiscal year 1989 may be continued in effect after the end of such year for the purposes of providing services and assistance to such veteran in accordance with the provisions of this chapter.”
+Pub. L. 101–237, § 404(2)–(4), redesignated former par. (1) of subsec. (a) as entire subsection, substituted “The” for “During fiscal years 1982 through 1989, the”, “subsection (f) of this section” for “paragraph (7) of this subsection” and “subsection (b) of this section” for “paragraph (2) of this subsection”, redesignated former pars. (2), (3), (4), (6), and (7) of subsec. (a) as subsecs. (b), (c), (d), (e), and (f) of this section, respectively, and struck out former par. (5) which read as follows: “Any contract for services initiated with respect to any veteran under this section before the end of fiscal year 1989 may be continued in effect after the end of such year for the purposes of providing services and assistance to such veteran in accordance with the provisions of this chapter.”
 
-Subsec. (b). Pub. L. 101–237, § 404(1), (3), (5), redesignated former subsec. (a)(2) as (b), struck out before period at end “and who is selected pursuant to criteria provided for in regulations prescribed under paragraph (1) of this subsection” and struck out former subsec. (b) which read as follows: “Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives statistical data regarding veterans’ participation in the program conducted under subsection (a) of this section during fiscal years 1987 and 1988 and any recommendations of the Administrator for administrative or legislative action or both regarding the program.”
+Subsec. (b). Pub. L. 101–237, § 404(1), (3), (5), redesignated former subsec. (a)(2) as (b), struck out before period at end “and who is selected pursuant to criteria provided for in regulations prescribed under paragraph (1) of this subsection” and struck out former subsec. (b) which read as follows: “Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives statistical data regarding veterans’ participation in the program conducted under subsection (a) of this section during fiscal years 1987 and 1988 and any recommendations of the Administrator for administrative or legislative action or both regarding the program.”
 
-Subsec. (c). Pub. L. 101–237, § 423(b)(1), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+Subsec. (c). Pub. L. 101–237, § 423(b)(1), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-Pub. L. 101–237, § 404(3), (6), redesignated former subsec. (a)(3) as (c) and substituted “subsection (b) of this section” for “paragraph (2) of this subsection”.
+Pub. L. 101–237, § 404(3), (6), redesignated former subsec. (a)(3) as (c) and substituted “subsection (b) of this section” for “paragraph (2) of this subsection”.
 
-Subsec. (d). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-Pub. L. 101–237, § 404(3), redesignated former subsec. (a)(4) as (d).
+Pub. L. 101–237, § 404(3), redesignated former subsec. (a)(4) as (d).
 
-Subsec. (e). Pub. L. 101–237, § 404(3), (7), redesignated former subsec. (a)(6) as (e) and substituted “in each fiscal year” for “in each of the fiscal years 1982 through 1989”.
+Subsec. (e). Pub. L. 101–237, § 404(3), (7), redesignated former subsec. (a)(6) as (e) and substituted “in each fiscal year” for “in each of the fiscal years 1982 through 1989”.
 
-Subsec. (f). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
+Subsec. (f). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-Pub. L. 101–237, § 404(3), (8), redesignated former subsec. (a)(7) as (f) and substituted “in this subsection are (1) public or nonprofit agencies or organizations, and (2)” for “in this paragraph are (A) public or nonprofit agencies or organizations, and (B)”.
+Pub. L. 101–237, § 404(3), (8), redesignated former subsec. (a)(7) as (f) and substituted “in this subsection are (1) public or nonprofit agencies or organizations, and (2)” for “in this paragraph are (A) public or nonprofit agencies or organizations, and (B)”.
 
-1988—Subsec. (a)(1). Pub. L. 100–689, § 202(b)(1), substituted “entities described in paragraph (7) of this subsection” for “public or nonprofit private agencies or organizations”.
+1988—Subsec. (a)(1). Pub. L. 100–689, § 202(b)(1), substituted “entities described in paragraph (7) of this subsection” for “public or nonprofit private agencies or organizations”.
 
-Subsec. (a)(7). Pub. L. 100–689, § 202(b)(2), added par. (7).
+Subsec. (a)(7). Pub. L. 100–689, § 202(b)(2), added par. (7).
 
-1986—Pub. L. 99–576, § 333(b)(6), substituted “Program” for “Pilot program” in section catchline.
+1986—Pub. L. 99–576, § 333(b)(6), substituted “Program” for “Pilot program” in section catchline.
 
-Subsec. (a)(1). Pub. L. 99–576, § 333(a)(1)(A), substituted “1989” for “1985”.
+Subsec. (a)(1). Pub. L. 99–576, § 333(a)(1)(A), substituted “1989” for “1985”.
 
-Subsec. (a)(2). Pub. L. 99–576, § 333(a)(1)(B), inserted “currently” after “goal”.
+Subsec. (a)(2). Pub. L. 99–576, § 333(a)(1)(B), inserted “currently” after “goal”.
 
-Subsec. (a)(5), (6). Pub. L. 99–576, § 333(a)(1)(A), substituted “1989” for “1985”.
+Subsec. (a)(5), (6). Pub. L. 99–576, § 333(a)(1)(A), substituted “1989” for “1985”.
 
-Subsec. (b). Pub. L. 99–576, § 333(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than September 30, 1984, the Administrator shall submit to the Congress a report on the programs of independent living services and assistance provided for in subsection (a) of this section. Such report shall include—
+Subsec. (b). Pub. L. 99–576, § 333(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than September 30, 1984, the Administrator shall submit to the Congress a report on the programs of independent living services and assistance provided for in subsection (a) of this section. Such report shall include—
 
 “(1) the results of a study which the Administrator shall conduct of the accomplishments and cost-effectiveness of such programs, including the extent to which (A) such programs have met needs for comprehensive independent living services that would not otherwise have been met, (B) severely disabled veterans have achieved and maintained greater independence in daily living as a result of participation in the programs, and (C) costs of care in hospital, nursing home, and domiciliary facilities have been and may be avoided as the result of such programs; and
 
@@ -1503,11 +1503,11 @@ Amendment by Pub. L. 112–154 effective on the date that is one year after Aug.
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VIII, § 801(b), Oct. 13, 2010, 124 Stat. 2888, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning after the date of the enactment of this Act [Oct. 13, 2010].”
+Pub. L. 111–275, title VIII, § 801(b), Oct. 13, 2010, 124 Stat. 2888, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning after the date of the enactment of this Act [Oct. 13, 2010].”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–103, title V, § 508(b), Dec. 27, 2001, 115 Stat. 997, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 30, 2001.”
+Pub. L. 107–103, title V, § 508(b), Dec. 27, 2001, 115 Stat. 997, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 30, 2001.”
 
 **Effective Date of 1996 Amendment**
 
@@ -1517,7 +1517,7 @@ Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section
 
 Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3121. Veterans’ Advisory Committee on Rehabilitation
+## § 3121. Veterans’ Advisory Committee on Rehabilitation
 
 **(a)**
 
@@ -1531,7 +1531,7 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 **(c)** The Committee shall submit to the Secretary an annual report on the rehabilitation programs and activities of the Department of Veterans Affairs and shall submit such other reports and recommendations to the Secretary as the Committee determines appropriate. The annual report shall include an assessment of the rehabilitation needs of veterans and a review of the programs and activities of the Department of Veterans Affairs designed to meet such needs. The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a copy of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary was submitted to the Congress pursuant to such section.
 
-(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2186, § 1521; amended Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, § 14(c)(5), June 13, 1991, 105 Stat. 285; renumbered § 3121 and amended Pub. L. 102–83, §§ 2(c)(3), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 103–446, title XII, § 1201(b)(1), (i)(5), Nov. 2, 1994, 108 Stat. 4682, 4688.)
+(Added Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2186, § 1521; amended Pub. L. 101–237, title IV, § 423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, § 14(c)(5), June 13, 1991, 105 Stat. 285; renumbered § 3121 and amended Pub. L. 102–83, §§ 2(c)(3), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 103–446, title XII, § 1201(b)(1), (i)(5), Nov. 2, 1994, 108 Stat. 4682, 4688.)
 
 **Editorial Notes**
 
@@ -1539,11 +1539,11 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 1994—Subsec. (a)(3)(A). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery” and “Veterans Benefits Administration” for “Department of Veterans’ Benefits”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1521 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1521 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 102–54 substituted “Veterans’ Employment and Training” for “Veterans’ Employment”.
 
-Subsec. (c). Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
+Subsec. (c). Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
 
 1989—Subsecs. (a)(1), (2), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -1553,7 +1553,7 @@ Subsec. (c). Pub. L. 102–83, § 2(c)(3), substituted “section 529” for �
 
 Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-## § 3122. Longitudinal study of vocational rehabilitation programs
+## § 3122. Longitudinal study of vocational rehabilitation programs
 
 **(a) Study Required.—**
 
@@ -1603,4 +1603,4 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 **(16)** The average number of dependents of each such veteran.
 
-(Added Pub. L. 110–389, title III, § 334(a), Oct. 10, 2008, 122 Stat. 4172.)
+(Added Pub. L. 110–389, title III, § 334(a), Oct. 10, 2008, 122 Stat. 4172.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 50A—DESIGNATED DRUGS
 
-## § 5000D. Designated drugs during noncompliance periods
+## § 5000D. Designated drugs during noncompliance periods
 
 **(a) In general** There is hereby imposed on the sale by the manufacturer, producer, or importer of any designated drug during a day described in subsection (b) a tax in an amount such that the applicable percentage is equal to the ratio of—
 
@@ -113,7 +113,7 @@ Rules similar to the rules of section 4662(e) (other than section 4662(e)(2)(A)(
 
 The Secretary shall prescribe such regulations and other guidance as may be necessary to carry out this section.
 
-(Added Pub. L. 117–169, title I, § 11003(a), Aug. 16, 2022, 136 Stat. 1862.)
+(Added Pub. L. 117–169, title I, § 11003(a), Aug. 16, 2022, 136 Stat. 1862.)
 
 **Editorial Notes**
 
@@ -125,4 +125,4 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 **Effective Date**
 
-Pub. L. 117–169, title I, § 11003(d), Aug. 16, 2022, 136 Stat. 1864, provided that: “The amendments made by this section [enacting this chapter and amending section 275 of this title] shall apply to sales after the date of the enactment of this Act [Aug. 16, 2022].”
+Pub. L. 117–169, title I, § 11003(d), Aug. 16, 2022, 136 Stat. 1864, provided that: “The amendments made by this section [enacting this chapter and amending section 275 of this title] shall apply to sales after the date of the enactment of this Act [Aug. 16, 2022].”

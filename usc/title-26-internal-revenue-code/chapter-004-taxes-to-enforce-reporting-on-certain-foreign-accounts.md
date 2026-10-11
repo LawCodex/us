@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 4, consisting of sections 1481 and 1482, which related to rules applicable to recovery of excessive profits on government contracts, was repealed by Pub. L. 101–508, title XI, § 11801(a)(37), Nov. 5, 1990, 104 Stat. 1388–521.
+A prior chapter 4, consisting of sections 1481 and 1482, which related to rules applicable to recovery of excessive profits on government contracts, was repealed by Pub. L. 101–508, title XI, § 11801(a)(37), Nov. 5, 1990, 104 Stat. 1388–521.
 
-Section 1481, acts Aug. 16, 1954, ch. 736, 68A Stat. 362; June 21, 1965, Pub. L. 89–44, title VIII, § 809(d)(5)(B), 79 Stat. 168; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(157), 1906(b)(13)(A), 1951(b)(14)(A), 90 Stat. 1789, 1834, 1840, related to mitigation of effect of renegotiation of government contracts.
+Section 1481, acts Aug. 16, 1954, ch. 736, 68A Stat. 362; June 21, 1965, Pub. L. 89–44, title VIII, § 809(d)(5)(B), 79 Stat. 168; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(157), 1906(b)(13)(A), 1951(b)(14)(A), 90 Stat. 1789, 1834, 1840, related to mitigation of effect of renegotiation of government contracts.
 
-Section 1482, added Pub. L. 85–866, title I, § 62(a), Sept. 2, 1958, 72 Stat. 1648, related to readjustment for repayments made pursuant to price redeterminations.
+Section 1482, added Pub. L. 85–866, title I, § 62(a), Sept. 2, 1958, 72 Stat. 1648, related to readjustment for repayments made pursuant to price redeterminations.
 
-## § 1471. Withholdable payments to foreign financial institutions
+## § 1471. Withholdable payments to foreign financial institutions
 
 **(a) In general**
 
@@ -193,19 +193,19 @@ A partnership or any other entity (other than a corporation) shall be treated as
 
 **(4)** any other class of persons identified by the Secretary for purposes of this subsection as posing a low risk of tax evasion.
 
-(Added Pub. L. 111–147, title V, § 501(a), Mar. 18, 2010, 124 Stat. 97.)
+(Added Pub. L. 111–147, title V, § 501(a), Mar. 18, 2010, 124 Stat. 97.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1471, act Aug. 16, 1954, ch. 736, 68A Stat. 361, related to recovery of excessive profits on government contracts, prior to repeal by Pub. L. 94–455, title XIX, § 1901(b)(13)(A), Oct. 4, 1976, 90 Stat. 1840.
+A prior section 1471, act Aug. 16, 1954, ch. 736, 68A Stat. 361, related to recovery of excessive profits on government contracts, prior to repeal by Pub. L. 94–455, title XIX, § 1901(b)(13)(A), Oct. 4, 1976, 90 Stat. 1840.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–147, title V, § 501(d), Mar. 18, 2010, 124 Stat. 106, provided that:
+Pub. L. 111–147, title V, § 501(d), Mar. 18, 2010, 124 Stat. 106, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title] shall apply to payments made after December 31, 2012.
 
@@ -219,7 +219,7 @@ Pub. L. 111–147, title V, § 501(d), Mar. 18, 2010, 124 Stat. 106, provided 
 
 > **“(C)** in the case of such amendment’s application to paragraph (3) of such section, to refunds paid after the date of the enactment of this Act (regardless of the taxable period to which such refund relates).”
 
-## § 1472. Withholdable payments to other foreign entities
+## § 1472. Withholdable payments to other foreign entities
 
 **(a) In general** In the case of any withholdable payment to a non-financial foreign entity, if—
 
@@ -265,9 +265,9 @@ then the withholding agent with respect to such payment shall deduct and withhol
 
 For purposes of this section, the term “non-financial foreign entity” means any foreign entity which is not a financial institution (as defined in section 1471(d)(5)).
 
-(Added Pub. L. 111–147, title V, § 501(a), Mar. 18, 2010, 124 Stat. 102.)
+(Added Pub. L. 111–147, title V, § 501(a), Mar. 18, 2010, 124 Stat. 102.)
 
-## § 1473. Definitions
+## § 1473. Definitions
 
 For purposes of this chapter—
 
@@ -339,9 +339,9 @@ The term “withholding agent” means all persons, in whatever capacity acting,
 
 The term “foreign entity” means any entity which is not a United States person.
 
-(Added Pub. L. 111–147, title V, § 501(a), Mar. 18, 2010, 124 Stat. 103.)
+(Added Pub. L. 111–147, title V, § 501(a), Mar. 18, 2010, 124 Stat. 103.)
 
-## § 1474. Special rules
+## § 1474. Special rules
 
 **(a) Liability for withheld tax**
 
@@ -395,7 +395,7 @@ Any tax deducted and withheld pursuant to an agreement described in section 1471
 
 The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of, and prevent the avoidance of, this chapter.
 
-(Added Pub. L. 111–147, title V, § 501(a), Mar. 18, 2010, 124 Stat. 104.)
+(Added Pub. L. 111–147, title V, § 501(a), Mar. 18, 2010, 124 Stat. 104.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 6—TRANSPORTATION IN INTERSTATE COMMERCE
 
-## § 121. State statutes as operative on termination of transportation; original packages
+## § 121. State statutes as operative on termination of transportation; original packages
 
 All fermented, distilled, or other intoxicating liquors or liquids transported into any State or Territory or remaining therein for use, consumption, sale, or storage therein, shall upon arrival in such State or Territory be subject to the operation and effect of the laws of such State or Territory enacted in the exercise of its police powers, to the same extent and in the same manner as though such liquids or liquors had been produced in such State or Territory, and shall not be exempt therefrom by reason of being introduced therein in original packages or otherwise.
 
@@ -27,17 +27,17 @@ All fermented, distilled, or other intoxicating liquors or liquids transported i
 
 Act Aug. 8, 1890, is popularly known as the “Wilson Act” or the “Original Packages Act”.
 
-## § 122. Shipments into States for possession or sale in violation of State law
+## § 122. Shipments into States for possession or sale in violation of State law
 
 The shipment or transportation, in any manner or by any means whatsoever, of any spirituous, vinous, malted, fermented, or other intoxicating liquor of any kind, from one State, Territory, or District of the United States, or place noncontiguous to but subject to the jurisdiction thereof, into any other State, Territory, or District of the United States, or place noncontiguous to but subject to the jurisdiction thereof, or from any foreign country into any State, Territory, or District of the United States, or place noncontiguous to but subject to the jurisdiction thereof, which said spirituous, vinous, malted, fermented, or other intoxicating liquor is intended, by any person interested therein, to be received, possessed, sold, or in any manner used, either in the original package or otherwise, in violation of any law of such State, Territory, or District of the United States, or place noncontiguous to but subject to the jurisdiction thereof, is prohibited.
 
-(Aug. 27, 1935, ch. 740, § 202(b), 49 Stat. 877.)
+(Aug. 27, 1935, ch. 740, § 202(b), 49 Stat. 877.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in the act of Mar. 1, 1913, ch. 90, § 1, 37 Stat. 699.
+Provisions similar to those in this section were contained in the act of Mar. 1, 1913, ch. 90, § 1, 37 Stat. 699.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -45,7 +45,7 @@ Provisions similar to those in this section were contained in the act of Mar. 1,
 
 Act Mar. 1, 1913, is popularly known as the “Webb-Kenyon Act”.
 
-## § 122a. Injunctive relief in Federal district court
+## § 122a. Injunctive relief in Federal district court
 
 **(a) Definitions** In this section—
 
@@ -131,19 +131,19 @@ A remedy under this section is in addition to any other remedies provided by law
 
 Nothing in this section may be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any State law.
 
-(Mar. 1, 1913, ch. 90, § 2, as added Pub. L. 106–386, div. C, § 2004(a), Oct. 28, 2000, 114 Stat. 1546.)
+(Mar. 1, 1913, ch. 90, § 2, as added Pub. L. 106–386, div. C, § 2004(a), Oct. 28, 2000, 114 Stat. 1546.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–386, div. C, § 2004(b), Oct. 28, 2000, 114 Stat. 1548, provided that: “This section [enacting this section and section 122b of this title and provisions set out as a note under this section] and the amendments made by this section shall become effective 90 days after the date of the enactment of this Act [Oct. 28, 2000].”
+Pub. L. 106–386, div. C, § 2004(b), Oct. 28, 2000, 114 Stat. 1548, provided that: “This section [enacting this section and section 122b of this title and provisions set out as a note under this section] and the amendments made by this section shall become effective 90 days after the date of the enactment of this Act [Oct. 28, 2000].”
 
 **Impact Study**
 
-Pub. L. 106–386, div. C, § 2004(c), Oct. 28, 2000, 114 Stat. 1548, provided that: “The Attorney General shall carry out the study to determine the impact of this section [enacting this section and section 122b of this title and provisions set out as a note under this section] and shall submit the results of such study not later than 180 days after the enactment of this Act [Oct. 28, 2000].”
+Pub. L. 106–386, div. C, § 2004(c), Oct. 28, 2000, 114 Stat. 1548, provided that: “The Attorney General shall carry out the study to determine the impact of this section [enacting this section and section 122b of this title and provisions set out as a note under this section] and shall submit the results of such study not later than 180 days after the enactment of this Act [Oct. 28, 2000].”
 
-## § 122b. General provisions
+## § 122b. General provisions
 
 **(a) Effect on Internet Tax Freedom Act**
 
@@ -151,9 +151,9 @@ Nothing in this section may be construed to modify or supersede the operation of
 
 **(b) Inapplicability to service providers** Nothing in this section may be construed to—
 
-**(1)** authorize any injunction against an interactive computer service (as defined in section 230(f) of title 47 1
+**(1)** authorize any injunction against an interactive computer service (as defined in section 230(f) of title 47 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 used by another person to engage in any activity that is subject to this Act;
 
@@ -161,7 +161,7 @@ used by another person to engage in any activity that is subject to this Act;
 
 **(3)** authorize an injunction prohibiting the advertising or marketing of any intoxicating liquor by any person in any case in which such advertising or marketing is lawful in the jurisdiction from which the importation, transportation or other conduct to which this Act applies originates.
 
-(Mar. 1, 1913, ch. 90, §  3, as added Pub. L. 106–386, div. C, § 2004(a), Oct. 28, 2000, 114 Stat. 1548.)
+(Mar. 1, 1913, ch. 90, § 3, as added Pub. L. 106–386, div. C, § 2004(a), Oct. 28, 2000, 114 Stat. 1548.)
 
 **Editorial Notes**
 
@@ -177,11 +177,11 @@ This Act, referred to in subsec. (b), is act Mar. 1, 1913, ch. 90, 37 Stat. 699,
 
 Section effective 90 days after Oct. 28, 2000, see section 2004(b) of Pub. L. 106–386, set out as a note under section 122a of this title.
 
-## § 123. Repealed. June 25, 1936, ch. 815, § 9, 49 Stat. 1930
+## § 123. Repealed. June 25, 1936, ch. 815, § 9, 49 Stat. 1930
 
-Section, acts Mar. 3, 1917, ch. 162, § 5, 39 Stat. 1069; Mar. 4, 1917, ch. 192, 39 Stat. 1202; Feb. 24, 1919, ch. 18, title XIV, § 1407, 40 Stat. 1151; Jan. 11, 1934, ch. 1, title I, § 12, 48 Stat. 316, prescribed punishment for violation of section 122 of this title.
+Section, acts Mar. 3, 1917, ch. 162, § 5, 39 Stat. 1069; Mar. 4, 1917, ch. 192, 39 Stat. 1202; Feb. 24, 1919, ch. 18, title XIV, § 1407, 40 Stat. 1151; Jan. 11, 1934, ch. 1, title I, § 12, 48 Stat. 316, prescribed punishment for violation of section 122 of this title.
 
-## § 124. Direct shipment of wine
+## § 124. Direct shipment of wine
 
 **(a) Conditions for transporting certain wine** During any period in which the Federal Aviation Administration has in effect restrictions on airline passengers to ensure safety, the direct shipment of wine shall be permitted from States where wine is purchased from a winery, to another State or the District of Columbia, if—
 
@@ -203,4 +203,4 @@ If any person fails to meet any of the conditions under subsection (a), the atto
 
 Not later than 2 years after November 2, 2002, and at 2-year intervals thereafter, the Attorney General of the United States, in consultation with the Administrator of the Federal Aviation Administration, shall prepare and submit to the Committee on the Judiciary of the Senate and to the Committee on the Judiciary of the House of Representatives a report on the implementation of this section.
 
-(Pub. L. 107–273, div. C, title I, § 11022, Nov. 2, 2002, 116 Stat. 1829.)
+(Pub. L. 107–273, div. C, title I, § 11022, Nov. 2, 2002, 116 Stat. 1829.)

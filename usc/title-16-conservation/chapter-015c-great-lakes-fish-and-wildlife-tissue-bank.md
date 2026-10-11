@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15C—GREAT LAKES FISH AND WILDLIFE TISSUE BANK
 
-## § 943. Tissue bank
+## § 943. Tissue bank
 
 **(a) In general**
 
@@ -29,15 +29,15 @@ The Secretary shall coordinate existing facilities for the storage, preparation,
 
 **(3)** appropriate scientific use of the tissues in the Great Lakes Fish and Wildlife Tissue Bank.
 
-(Pub. L. 102–440, title II, § 202, Oct. 23, 1992, 106 Stat. 2233.)
+(Pub. L. 102–440, title II, § 202, Oct. 23, 1992, 106 Stat. 2233.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 102–440, title II, § 201, Oct. 23, 1992, 106 Stat. 2233, provided that: “This title [enacting this chapter] may be cited as ‘The Great Lakes Fish and Wildlife Tissue Bank Act’.”
+Pub. L. 102–440, title II, § 201, Oct. 23, 1992, 106 Stat. 2233, provided that: “This title [enacting this chapter] may be cited as ‘The Great Lakes Fish and Wildlife Tissue Bank Act’.”
 
-## § 943a. Data base
+## § 943a. Data base
 
 **(a) Maintenance**
 
@@ -47,9 +47,9 @@ The Secretary shall maintain a central data base which provides an effective mea
 
 The Secretary shall establish criteria, after an opportunity for public review and comment, for access to the data base which provides for appropriate use of the information by the public.
 
-(Pub. L. 102–440, title II, § 203, Oct. 23, 1992, 106 Stat. 2233.)
+(Pub. L. 102–440, title II, § 203, Oct. 23, 1992, 106 Stat. 2233.)
 
-## § 943b. Definitions
+## § 943b. Definitions
 
 In this chapter—
 
@@ -57,10 +57,10 @@ In this chapter—
 
 **(2)** “Great Lakes fish and wildlife” means fauna, fish, and invertebrates dependent on Great Lakes resources, and located within the Great Lakes Basin.
 
-(Pub. L. 102–440, title II, § 204, Oct. 23, 1992, 106 Stat. 2233.)
+(Pub. L. 102–440, title II, § 204, Oct. 23, 1992, 106 Stat. 2233.)
 
-## § 943c. Authorization of appropriations
+## § 943c. Authorization of appropriations
 
 There is authorized to be appropriated to the Secretary, $250,000 for each of fiscal years 1993 and 1994 to carry out this chapter.
 
-(Pub. L. 102–440, title II, § 205, Oct. 23, 1992, 106 Stat. 2234.)
+(Pub. L. 102–440, title II, § 205, Oct. 23, 1992, 106 Stat. 2234.)

@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 836(b)(18)(B)(ii), Aug. 13, 2018, 132 Stat. 1864, substituted “Payments for commercial products and commercial services” for “Payments for commercial items” in item 4505.
+2018—Pub. L. 115–232, div. A, title VIII, § 836(b)(18)(B)(ii), Aug. 13, 2018, 132 Stat. 1864, substituted “Payments for commercial products and commercial services” for “Payments for commercial items” in item 4505.
 
-## § 4501. Authority of executive agency
+## § 4501. Authority of executive agency
 
 An executive agency may—
 
@@ -29,21 +29,21 @@ An executive agency may—
 
 **(2)** insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3790.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3790.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4501 | 41:255(a). | June 30, 1949, ch. 288, title III, § 305(a), 63 Stat. 396; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, § 4, Aug. 28, 1958, 72 Stat. 966; Pub. L. 103–355, title II, § 2051(a)(2), (c), Oct. 13, 1994, 108 Stat. 3304. |
+| 4501 | 41:255(a). | June 30, 1949, ch. 288, title III, § 305(a), 63 Stat. 396; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, § 4, Aug. 28, 1958, 72 Stat. 966; Pub. L. 103–355, title II, § 2051(a)(2), (c), Oct. 13, 1994, 108 Stat. 3304. |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Relationship to Prompt Payment Requirements**
 
-Pub. L. 103–355, title II, § 2051(f), Oct. 13, 1994, 108 Stat. 3306, provided that: “The amendments made by this section [see Tables for classification] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act [Oct. 13, 1994]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
+Pub. L. 103–355, title II, § 2051(f), Oct. 13, 1994, 108 Stat. 3306, provided that: “The amendments made by this section [see Tables for classification] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act [Oct. 13, 1994]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
 
-## § 4502. Payment
+## § 4502. Payment
 
 **(a) Basis for Payment.—** When practicable, payments under section 4501 of this title shall be made on any of the following bases:
 
@@ -55,28 +55,28 @@ Pub. L. 103–355, title II, § 2051(f), Oct. 13, 1994, 108 Stat. 3306, provid
 
 **(b) Payment Amount.—** Payments made under section 4501 of this title may not exceed the unpaid contract price.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3791.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3791.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4502(a) | 41:255(b). | June 30, 1949, ch. 288, title III, § 305(b), as added Pub. L. 103–355, title II, § 2051(b), Oct. 13, 1994, 108 Stat. 3304. |
-| 4502(b) | 41:255(c). | June 30, 1949, ch. 288, title III, § 305(c), 63 Stat. 396; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, § 4, Aug. 28, 1958, 72 Stat. 966; Pub. L. 103–355, title II, § 2051(a)(3), (5), Oct. 13, 1994, 108 Stat. 3304. |
+| 4502(a) | 41:255(b). | June 30, 1949, ch. 288, title III, § 305(b), as added Pub. L. 103–355, title II, § 2051(b), Oct. 13, 1994, 108 Stat. 3304. |
+| 4502(b) | 41:255(c). | June 30, 1949, ch. 288, title III, § 305(c), 63 Stat. 396; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, § 4, Aug. 28, 1958, 72 Stat. 966; Pub. L. 103–355, title II, § 2051(a)(3), (5), Oct. 13, 1994, 108 Stat. 3304. |
 
-## § 4503. Security for advance payments
+## § 4503. Security for advance payments
 
 Advance payments under section 4501 of this title may be made only on adequate security and a determination by the agency head that to do so would be in the public interest. The security may be in the form of a lien in favor of the Federal Government on the property contracted for, on the balance in an account in which the payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien shall be paramount to all other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the Federal Government.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3791.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3791.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4503 | 41:255(d). | June 30, 1949, ch. 288, title III, § 305(d), 63 Stat. 396; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, § 4, Aug. 28, 1958, 72 Stat. 966; Pub. L. 103–355, title II, § 2051(a)(4), (5), (d), Oct. 13, 1994, 108 Stat. 3304. |
+| 4503 | 41:255(d). | June 30, 1949, ch. 288, title III, § 305(d), 63 Stat. 396; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, § 4, Aug. 28, 1958, 72 Stat. 966; Pub. L. 103–355, title II, § 2051(a)(4), (5), (d), Oct. 13, 1994, 108 Stat. 3304. |
 
-## § 4504. Conditions for progress payments
+## § 4504. Conditions for progress payments
 
 **(a) Payment Commensurate With Work.—** The executive agency shall ensure that a payment for work in progress (including materials, labor, and other items) under a contract of an executive agency that provides for those payments is commensurate with the work accomplished that meets standards established under the contract. The contractor shall provide information and evidence the executive agency determines is necessary to permit the executive agency to carry out this subsection.
 
@@ -84,15 +84,15 @@ Advance payments under section 4501 of this title may be made only on adequate s
 
 **(c) Application.—** This section applies to a contract in an amount greater than $25,000.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3791.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3791.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4504 | 41:255(e). | June 30, 1949, ch. 288, title III, § 305(e), as added Pub. L. 103–355, title II, § 2051(e), Oct. 13, 1994, 108 Stat. 3304, as amended Pub. L. 104–106, title XLIII, § 4321(a)(4), Feb. 10, 1996, 110 Stat. 671. |
+| 4504 | 41:255(e). | June 30, 1949, ch. 288, title III, § 305(e), as added Pub. L. 103–355, title II, § 2051(e), Oct. 13, 1994, 108 Stat. 3304, as amended Pub. L. 104–106, title XLIII, § 4321(a)(4), Feb. 10, 1996, 110 Stat. 671. |
 
-## § 4505. Payments for commercial products and commercial services
+## § 4505. Payments for commercial products and commercial services
 
 **(a) Terms and Conditions for Payments.—** Payments under section 4501 of this title for commercial products or commercial services may be made under terms and conditions that the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the Federal Government.
 
@@ -102,21 +102,21 @@ Advance payments under section 4501 of this title may be made only on adequate s
 
 **(d) Nonapplication of Certain Conditions.—** The conditions of sections 4503 and 4504 of this title need not be applied if they would be inconsistent, as determined by the head of the executive agency, with commercial terms and conditions pursuant to this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3791; Pub. L. 115–232, div. A, title VIII, § 836(b)(18)(A), (B)(i), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3791; Pub. L. 115–232, div. A, title VIII, § 836(b)(18)(A), (B)(i), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4505 | 41:255(f). | June 30, 1949, ch. 288, title III, § 305(f), as added Pub. L. 103–355, title II, § 2051(e), Oct. 13, 1994, 108 Stat. 3304, as amended Pub. L. 104–106, title XLIII, § 4321(a)(4), Feb. 10, 1996, 110 Stat. 671. |
+| 4505 | 41:255(f). | June 30, 1949, ch. 288, title III, § 305(f), as added Pub. L. 103–355, title II, § 2051(e), Oct. 13, 1994, 108 Stat. 3304, as amended Pub. L. 104–106, title XLIII, § 4321(a)(4), Feb. 10, 1996, 110 Stat. 671. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 836(b)(18)(B)(i), substituted “Payments for commercial products and commercial services” for “Payments for commercial items” in section catchline.
+2018—Pub. L. 115–232, § 836(b)(18)(B)(i), substituted “Payments for commercial products and commercial services” for “Payments for commercial items” in section catchline.
 
-Subsecs. (a), (c). Pub. L. 115–232, § 836(b)(18)(A), substituted “commercial products or commercial services” for “commercial items”.
+Subsecs. (a), (c). Pub. L. 115–232, § 836(b)(18)(A), substituted “commercial products or commercial services” for “commercial items”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -124,7 +124,7 @@ Subsecs. (a), (c). Pub. L. 115–232, § 836(b)(18)(A), substituted “commerc
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 4506. Action in case of fraud
+## § 4506. Action in case of fraud
 
 **(a) Definition.—** In this section, the term “remedy coordination official”, with respect to an executive agency, means the individual or entity in that executive agency who coordinates within that executive agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
@@ -148,10 +148,10 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(i) Restriction on Delegation.—** The head of an executive agency may not delegate responsibilities under this section to an individual in a position below level IV of the Executive Schedule.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3792.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3792.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4506 | 41:255(g). | June 30, 1949, ch. 288, title III, § 305(g), as added Pub. L. 103–355, title II, § 2051(e), Oct. 13, 1994, 108 Stat. 3305, as amended Pub. L. 104–106, title XLIII, § 4321(a)(4), Feb. 10, 1996, 110 Stat. 671. |
+| 4506 | 41:255(g). | June 30, 1949, ch. 288, title III, § 305(g), as added Pub. L. 103–355, title II, § 2051(e), Oct. 13, 1994, 108 Stat. 3305, as amended Pub. L. 104–106, title XLIII, § 4321(a)(4), Feb. 10, 1996, 110 Stat. 671. |

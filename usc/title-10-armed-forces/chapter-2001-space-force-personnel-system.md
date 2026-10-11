@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 2001—SPACE FORCE PERSONNEL SYSTEM
 
-## § 20001. Single military personnel management system
+## § 20001. Single military personnel management system
 
 Members of the Space Force shall be managed through a single military personnel management system, without component.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1711, Dec. 22, 2023, 137 Stat. 625.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1711, Dec. 22, 2023, 137 Stat. 625.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer to the Space Force of Covered Space Functions of the Air National Guard of the United States**
 
-Pub. L. 118–159, div. A, title V, § 514, Dec. 23, 2024, 138 Stat. 1876, provided that:
+Pub. L. 118–159, div. A, title V, § 514, Dec. 23, 2024, 138 Stat. 1876, provided that:
 
 > **“(a) Transfer of Covered Space Functions.—**
 
@@ -135,7 +135,7 @@ Pub. L. 118–159, div. A, title V, § 514, Dec. 23, 2024, 138 Stat. 1876, pro
 
 **Transition Provisions**
 
-Pub. L. 118–31, div. A, title XVII, subtitle C, Dec. 22, 2023, 137 Stat. 675, as amended by Pub. L. 118–159, div. A, title IV, § 402(c)(4), title V, § 521(y), Dec. 23, 2024, 138 Stat. 1862, 1883, provided that:
+Pub. L. 118–31, div. A, title XVII, subtitle C, Dec. 22, 2023, 137 Stat. 675, as amended by Pub. L. 118–159, div. A, title IV, § 402(c)(4), title V, § 521(y), Dec. 23, 2024, 138 Stat. 1862, 1883, provided that:
 
 > **“SEC. 1731. TRANSITION PERIOD.**
 
@@ -253,7 +253,7 @@ Pub. L. 118–31, div. A, title XVII, subtitle C, Dec. 22, 2023, 137 Stat. 675, 
 
 > **“(c) Effect of Using New Chapter 2005 Authorities.—** If the Secretary of the Air Force convenes a selection board under chapter 2005 of title 10, United States Code, as added by section 1716, to consider officers on the space force officer list in a particular grade and competitive category for selection for promotion to the next higher grade, the Secretary may not convene a future selection board pursuant to subsection (a) to consider officers of the same grade and competitive category under chapter 36 or part III of subtitle E of such title.”
 
-## § 20002. Members: duty status
+## § 20002. Members: duty status
 
 Under regulations prescribed by the Secretary of the Air Force, each member of the Space Force shall be placed in one of the following duty statuses:
 
@@ -263,12 +263,12 @@ Under regulations prescribed by the Secretary of the Air Force, each member of t
 
 **(3)** Space Force retired status.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1714, Dec. 22, 2023, 137 Stat. 626.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1714, Dec. 22, 2023, 137 Stat. 626.)
 
-## § 20003. Members: minimum service requirement as applied to Space Force
+## § 20003. Members: minimum service requirement as applied to Space Force
 
 **(a) Inapplicability of Active/reserve Service Distinction.—** In applying section 651 of this title to a person who becomes a member of the Space Force, the provisions of the second sentence of subsection (a) and of subsection (b) of that section (relating to service in a reserve component) are inapplicable.
 
 **(b) Treatment Upon Transfer Out of Space Force.—** A member of the Space Force who transfers to one of the other armed forces before completing the service required by subsection (a) of section 651 of this title shall upon such transfer be subject to section 651 of this title in the same manner as if such member had initially entered the armed force to which the member transfers.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1714, Dec. 22, 2023, 137 Stat. 626.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1714, Dec. 22, 2023, 137 Stat. 626.)

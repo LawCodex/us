@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 84—HEALTHY FOREST RESTORATION
 
-## § 6501. Purposes
+## § 6501. Purposes
 
 The purposes of this chapter are—
 
@@ -37,7 +37,7 @@ The purposes of this chapter are—
 
 **(C)** to enhance productivity and carbon sequestration.
 
-(Pub. L. 108–148, § 2, Dec. 3, 2003, 117 Stat. 1888.)
+(Pub. L. 108–148, § 2, Dec. 3, 2003, 117 Stat. 1888.)
 
 **Editorial Notes**
 
@@ -49,11 +49,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 108–148, § 1(a), Dec. 3, 2003, 117 Stat. 1887, provided that: “This Act [enacting this chapter and section 2103b of this title and amending sections 6601, 8606, and 8609 of Title 7, Agriculture] may be cited as the ‘Healthy Forests Restoration Act of 2003’.”
+Pub. L. 108–148, § 1(a), Dec. 3, 2003, 117 Stat. 1887, provided that: “This Act [enacting this chapter and section 2103b of this title and amending sections 6601, 8606, and 8609 of Title 7, Agriculture] may be cited as the ‘Healthy Forests Restoration Act of 2003’.”
 
 **Wildfire Hazard Severity Mapping for Communities**
 
-Pub. L. 115–141, div. O, title II, § 210, Mar. 23, 2018, 132 Stat. 1067, provided that:
+Pub. L. 115–141, div. O, title II, § 210, Mar. 23, 2018, 132 Stat. 1067, provided that:
 
 > **“(a) Map Required.—** Not later than 2 years after the date of the enactment of this section [Mar. 23, 2018], the Secretary of Agriculture, acting through the Chief of the Forest Service, shall—
 
@@ -99,9 +99,9 @@ Pub. L. 115–141, div. O, title II, § 210, Mar. 23, 2018, 132 Stat. 1067, pr
 
 **Executive Order No. 14072**
 
-Ex. Ord. No. 14072, Apr. 22, 2022, 87 F.R. 24851, which related to restoring and conserving the nation’s forests, stopping international deforestation, and nature-based solutions to tackle climate change and enhance resilience, was revoked by Ex. Ord. No. 14154, § 4(a)(x), Jan. 20, 2025, 90 F.R. 8355.
+Ex. Ord. No. 14072, Apr. 22, 2022, 87 F.R. 24851, which related to restoring and conserving the nation’s forests, stopping international deforestation, and nature-based solutions to tackle climate change and enhance resilience, was revoked by Ex. Ord. No. 14154, § 4(a)(x), Jan. 20, 2025, 90 F.R. 8355.
 
-## § 6502. Definitions
+## § 6502. Definitions
 
 In this chapter:
 
@@ -115,7 +115,7 @@ In this chapter:
 
 The term “Indian tribe” has the meaning given the term in section 5304 of title 25.
 
-(Pub. L. 108–148, § 3, Dec. 3, 2003, 117 Stat. 1888.)
+(Pub. L. 108–148, § 3, Dec. 3, 2003, 117 Stat. 1888.)
 
 **Editorial Notes**
 
@@ -125,7 +125,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ## SUBCHAPTER I—HAZARDOUS FUEL REDUCTION ON FEDERAL LAND
 
-### § 6511. Definitions
+### § 6511. Definitions
 
 In this subchapter:
 
@@ -223,9 +223,9 @@ The term “authorized hazardous fuel reduction project” means the measures an
 
 **(11) Implementation Plan**
 
-The term “Implementation Plan” means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) 1
+The term “Implementation Plan” means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (and subsequent revisions).
 
@@ -271,7 +271,7 @@ The term “municipal water supply system” means the reservoirs, canals, ditch
 
 **(iii)** an area that is adjacent to an evacuation route for an at-risk community that the Secretary determines, in cooperation with the at-risk community, requires hazardous fuel reduction to provide safer evacuation from the at-risk community.
 
-(Pub. L. 108–148, title I, § 101, Dec. 3, 2003, 117 Stat. 1889; Pub. L. 115–141, div. O, title II, § 203, Mar. 23, 2018, 132 Stat. 1064.)
+(Pub. L. 108–148, title I, § 101, Dec. 3, 2003, 117 Stat. 1889; Pub. L. 115–141, div. O, title II, § 203, Mar. 23, 2018, 132 Stat. 1064.)
 
 **Editorial Notes**
 
@@ -281,13 +281,13 @@ The Department of the Interior and Related Agencies Appropriations Act, 2001, re
 
 House Report No. 106–64, referred to in par. (11), does not exist. However, there was a House Report No. 106–646 that accompanied H.R. 4578, which became the Department of the Interior and Related Agencies Appropriations Act, 2001. The conference report that accompanied H.R. 4578 was H. Rept. 106–914.
 
-The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Amendments**
 
 2018—Par. (2). Pub. L. 115–141 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-### § 6512. Authorized hazardous fuel reduction projects
+### § 6512. Authorized hazardous fuel reduction projects
 
 **(a) Authorized projects** As soon as practicable after December 3, 2003, the Secretary shall implement authorized hazardous fuel reduction projects, consistent with the Implementation Plan, on—
 
@@ -451,9 +451,9 @@ For each administrative unit, the Secretary shall track acres burned, by the deg
 
 The Secretary shall, to the maximum extent practicable, develop a process for monitoring the need for maintenance of treated areas, over time, in order to preserve the forest health benefits achieved.
 
-(Pub. L. 108–148, title I, § 102, Dec. 3, 2003, 117 Stat. 1892.)
+(Pub. L. 108–148, title I, § 102, Dec. 3, 2003, 117 Stat. 1892.)
 
-### § 6513. Prioritization
+### § 6513. Prioritization
 
 **(a) In general**
 
@@ -545,13 +545,13 @@ The Secretary may make grants to State foresters to support hazardous fuel reduc
 
 There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 108–148, title I, § 103, Dec. 3, 2003, 117 Stat. 1896; Pub. L. 115–334, title VIII, § 8401, Dec. 20, 2018, 132 Stat. 4840; Pub. L. 117–286, § 4(a)(130), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 108–148, title I, § 103, Dec. 3, 2003, 117 Stat. 1896; Pub. L. 115–334, title VIII, § 8401, Dec. 20, 2018, 132 Stat. 4840; Pub. L. 117–286, § 4(a)(130), Dec. 27, 2022, 136 Stat. 4319.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
@@ -559,7 +559,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pu
 
 2018—Subsec. (e). Pub. L. 115–334 added subsec. (e).
 
-### § 6514. Environmental analysis
+### § 6514. Environmental analysis
 
 **(a) Authorized hazardous fuel reduction projects** Except as otherwise provided in this subchapter, the Secretary shall conduct authorized hazardous fuel reduction projects in accordance with—
 
@@ -629,15 +629,15 @@ In accordance with section 102(2) of the National Environmental Policy Act of 19
 
 The Secretary shall sign a decision document for authorized hazardous fuel reduction projects and provide notice of the final agency actions.
 
-(Pub. L. 108–148, title I, § 104, Dec. 3, 2003, 117 Stat. 1897.)
+(Pub. L. 108–148, title I, § 104, Dec. 3, 2003, 117 Stat. 1897.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 6515. Special administrative review process
+### § 6515. Special administrative review process
 
 **(a) Interim final regulations**
 
@@ -685,17 +685,17 @@ An exception to the requirement of exhausting the administrative review process 
 
 If an agency fails or is unable to make information timely available during the administrative review process, a court should evaluate whether the administrative review process was inadequate for claims or issues to which the information is material.
 
-(Pub. L. 108–148, title I, § 105, Dec. 3, 2003, 117 Stat. 1899.)
+(Pub. L. 108–148, title I, § 105, Dec. 3, 2003, 117 Stat. 1899.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Forest Service Pre-Decisional Objection Process**
 
-Pub. L. 113–79, title VIII, § 8006(b), Feb. 7, 2014, 128 Stat. 913, provided that: “Section 428 of division E of the Consolidated Appropriations Act, 2012 (16 U.S.C. 6515 note; Public Law 112–74) shall not apply to any project or activity implementing a land and resource management plan developed under section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604) that is categorically excluded from documentation in an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).”
+Pub. L. 113–79, title VIII, § 8006(b), Feb. 7, 2014, 128 Stat. 913, provided that: “Section 428 of division E of the Consolidated Appropriations Act, 2012 (16 U.S.C. 6515 note; Public Law 112–74) shall not apply to any project or activity implementing a land and resource management plan developed under section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604) that is categorically excluded from documentation in an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).”
 
-Pub. L. 112–74, div. E, title IV, § 428, Dec. 23, 2011, 125 Stat. 1046, provided that: “Hereafter, upon issuance of final regulations, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall apply section 105(a) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6515(a)), providing for a pre-decisional objection process, to proposed actions of the Forest Service concerning projects and activities implementing land and resource management plans developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.), and documented with a Record of Decision or Decision Notice, in lieu of subsections (c), (d), and (e) of section 322 of Public Law 102–381 ([former] 16 U.S.C. 1612 note), providing for an administrative appeal process: *Provided*, That if the Chief of the Forest Service determines an emergency situation exists for which immediate implementation of a proposed action is necessary, the proposed action shall not be subject to the pre-decisional objection process, and implementation shall begin immediately after the Forest Service gives notice of the final decision for the proposed action: *Provided further*, That this section shall not apply to an authorized hazardous fuel reduction project under title I of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6501 et seq.) [probably should be 16 U.S.C. 6511 et seq.].”
+Pub. L. 112–74, div. E, title IV, § 428, Dec. 23, 2011, 125 Stat. 1046, provided that: “Hereafter, upon issuance of final regulations, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall apply section 105(a) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6515(a)), providing for a pre-decisional objection process, to proposed actions of the Forest Service concerning projects and activities implementing land and resource management plans developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.), and documented with a Record of Decision or Decision Notice, in lieu of subsections (c), (d), and (e) of section 322 of Public Law 102–381 ([former] 16 U.S.C. 1612 note), providing for an administrative appeal process: *Provided*, That if the Chief of the Forest Service determines an emergency situation exists for which immediate implementation of a proposed action is necessary, the proposed action shall not be subject to the pre-decisional objection process, and implementation shall begin immediately after the Forest Service gives notice of the final decision for the proposed action: *Provided further*, That this section shall not apply to an authorized hazardous fuel reduction project under title I of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6501 et seq.) [probably should be 16 U.S.C. 6511 et seq.].”
 
-### § 6516. Judicial review in United States district courts
+### § 6516. Judicial review in United States district courts
 
 **(a) Venue**
 
@@ -727,9 +727,9 @@ In each renewal of an injunction in an action, the parties to the action shall p
 
 **(B)** the short- and long-term effects of not undertaking the agency action.
 
-(Pub. L. 108–148, title I, § 106, Dec. 3, 2003, 117 Stat. 1900.)
+(Pub. L. 108–148, title I, § 106, Dec. 3, 2003, 117 Stat. 1900.)
 
-### § 6517. Effect of subchapter
+### § 6517. Effect of subchapter
 
 **(a) Other authority**
 
@@ -739,15 +739,15 @@ Nothing in this subchapter affects, or otherwise biases, the use by the Secretar
 
 For projects and activities of the National Forest System other than authorized hazardous fuel reduction projects, nothing in this subchapter affects, or otherwise biases, the notice, comment, and appeal procedures for projects and activities of the National Forest System contained in part 215 of title 36, Code of Federal Regulations, or the consideration or disposition of any legal action brought with respect to the procedures.
 
-(Pub. L. 108–148, title I, § 107, Dec. 3, 2003, 117 Stat. 1900.)
+(Pub. L. 108–148, title I, § 107, Dec. 3, 2003, 117 Stat. 1900.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 6518. Authorization of appropriations
+### § 6518. Authorization of appropriations
 
 There is authorized to be appropriated $660,000,000 for each of fiscal years 2019 through 2023 to carry out—
 
@@ -755,7 +755,7 @@ There is authorized to be appropriated $660,000,000 for each of fiscal years 201
 
 **(2)** other hazardous fuel reduction activities of the Secretary, including making grants to States, local governments, Indian tribes, and other eligible recipients for activities authorized by law.
 
-(Pub. L. 108–148, title I, § 108, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 115–334, title VIII, § 8402, Dec. 20, 2018, 132 Stat. 4841.)
+(Pub. L. 108–148, title I, § 108, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 115–334, title VIII, § 8402, Dec. 20, 2018, 132 Stat. 4841.)
 
 **Editorial Notes**
 
@@ -765,21 +765,21 @@ There is authorized to be appropriated $660,000,000 for each of fiscal years 201
 
 ## SUBCHAPTER II—BIOMASS
 
-### § 6531. Repealed. Pub. L. 115–334, title VIII, § 8403(a), Dec. 20, 2018, 132 Stat. 4841
+### § 6531. Repealed. Pub. L. 115–334, title VIII, § 8403(a), Dec. 20, 2018, 132 Stat. 4841
 
-Section, Pub. L. 108–148, title II, § 203, Dec. 3, 2003, 117 Stat. 1902, related to biomass commercial utilization grant program.
+Section, Pub. L. 108–148, title II, § 203, Dec. 3, 2003, 117 Stat. 1902, related to biomass commercial utilization grant program.
 
 ## SUBCHAPTER III—WATERSHED FORESTRY ASSISTANCE
 
-### § 6541. Omitted
+### § 6541. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 108–148, title III, § 301, Dec. 3, 2003, 117 Stat. 1902, which provided congressional findings and purposes of title III of Pub. L. 108–148 (enacting this subchapter and section 2103b of this title), was omitted in view of the repeal of sections 2103b and 6542 of this title.
+Section, Pub. L. 108–148, title III, § 301, Dec. 3, 2003, 117 Stat. 1902, which provided congressional findings and purposes of title III of Pub. L. 108–148 (enacting this subchapter and section 2103b of this title), was omitted in view of the repeal of sections 2103b and 6542 of this title.
 
-### § 6542. Water Source Protection Program
+### § 6542. Water Source Protection Program
 
 **(a) Definitions** In this section:
 
@@ -913,23 +913,23 @@ There is authorized to be appropriated to carry out this section $10,000,000 for
 
 The Secretary may make multiyear commitments, if necessary, to implement 1 or more partnership agreements under subsection (c).
 
-(Pub. L. 108–148, title III, § 303, as added Pub. L. 115–334, title VIII, § 8404(a), Dec. 20, 2018, 132 Stat. 4841.)
+(Pub. L. 108–148, title III, § 303, as added Pub. L. 115–334, title VIII, § 8404(a), Dec. 20, 2018, 132 Stat. 4841.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (e)(2)(A), was in the original “this Act”, meaning Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (f), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (f), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 6542, Pub. L. 108–148, title III, § 303, Dec. 3, 2003, 117 Stat. 1905, provided for tribal watershed forestry assistance and the development of water quality and watershed forestry programs, prior to repeal by Pub. L. 113–79, title VIII, § 8005, Feb. 7, 2014, 128 Stat. 913.
+A prior section 6542, Pub. L. 108–148, title III, § 303, Dec. 3, 2003, 117 Stat. 1905, provided for tribal watershed forestry assistance and the development of water quality and watershed forestry programs, prior to repeal by Pub. L. 113–79, title VIII, § 8005, Feb. 7, 2014, 128 Stat. 913.
 
-### § 6543. Watershed Condition Framework
+### § 6543. Watershed Condition Framework
 
 **(a) In general** The Secretary of Agriculture, acting through the Chief of the Forest Service (referred to in this section as the “Secretary”), may establish and maintain a Watershed Condition Framework for National Forest System land—
 
@@ -1001,11 +1001,11 @@ A prior section 6542, Pub. L. 108–148, title III, § 303, Dec. 3, 2003, 117 
 
 **(2)** the emergency stabilization activities of the Burned Area Emergency Response Team are insufficient to return the watershed to proper function.
 
-(Pub. L. 108–148, title III, § 304, as added Pub. L. 115–334, title VIII, § 8405(a), Dec. 20, 2018, 132 Stat. 4843.)
+(Pub. L. 108–148, title III, § 304, as added Pub. L. 115–334, title VIII, § 8405(a), Dec. 20, 2018, 132 Stat. 4843.)
 
 ## SUBCHAPTER IV—INSECT INFESTATIONS AND RELATED DISEASES
 
-### § 6551. Findings and purpose
+### § 6551. Findings and purpose
 
 **(a) Findings** Congress finds that—
 
@@ -1085,9 +1085,9 @@ A prior section 6542, Pub. L. 108–148, title III, § 303, Dec. 3, 2003, 117 
 
 **(3)** to carry out applied silvicultural assessments.
 
-(Pub. L. 108–148, title IV, § 401, Dec. 3, 2003, 117 Stat. 1907.)
+(Pub. L. 108–148, title IV, § 401, Dec. 3, 2003, 117 Stat. 1907.)
 
-### § 6552. Definitions
+### § 6552. Definitions
 
 In this subchapter:
 
@@ -1137,15 +1137,15 @@ The term “1890 Institution” includes Tuskegee University.
 
 **(B)** the Secretary of the Interior, acting through appropriate offices of the United States Geological Survey, with respect to federally owned land administered by the Secretary of the Interior.
 
-(Pub. L. 108–148, title IV, § 402, Dec. 3, 2003, 117 Stat. 1908.)
+(Pub. L. 108–148, title IV, § 402, Dec. 3, 2003, 117 Stat. 1908.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of August 30, 1890, referred to in par. (2)(A), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
+The Act of August 30, 1890, referred to in par. (2)(A), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
-### § 6553. Accelerated information gathering regarding forest-damaging insects
+### § 6553. Accelerated information gathering regarding forest-damaging insects
 
 **(a) Information gathering** The Secretary, acting through the Forest Service and United States Geological Survey, as appropriate, shall establish an accelerated program—
 
@@ -1177,9 +1177,9 @@ The Act of August 30, 1890, referred to in par. (2)(A), is act Aug. 30, 1890, ch
 
 **(2)** designate such colleges and universities to assist in carrying out the program.
 
-(Pub. L. 108–148, title IV, § 403, Dec. 3, 2003, 117 Stat. 1909.)
+(Pub. L. 108–148, title IV, § 403, Dec. 3, 2003, 117 Stat. 1909.)
 
-### § 6554. Applied silvicultural assessments
+### § 6554. Applied silvicultural assessments
 
 **(a) Assessment efforts**
 
@@ -1241,25 +1241,25 @@ The total number of acres categorically excluded under paragraph (1) shall not e
 
 In accordance with paragraph (1), the Secretary shall not be required to make any findings as to whether an applied silvicultural assessment project, either individually or cumulatively, has a significant effect on the environment.
 
-(Pub. L. 108–148, title IV, § 404, Dec. 3, 2003, 117 Stat. 1910.)
+(Pub. L. 108–148, title IV, § 404, Dec. 3, 2003, 117 Stat. 1910.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 6555. Relation to other laws
+### § 6555. Relation to other laws
 
 The authority provided to each Secretary under this subchapter is supplemental to, and not in lieu of, any authority provided to the Secretaries under any other law.
 
-(Pub. L. 108–148, title IV, § 405, Dec. 3, 2003, 117 Stat. 1911.)
+(Pub. L. 108–148, title IV, § 405, Dec. 3, 2003, 117 Stat. 1911.)
 
-### § 6556. Termination of effectiveness
+### § 6556. Termination of effectiveness
 
 The authority provided by this subchapter terminates effective October 1, 2023.
 
-(Pub. L. 108–148, title IV, § 406, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 115–334, title VIII, § 8406(a), Dec. 20, 2018, 132 Stat. 4845.)
+(Pub. L. 108–148, title IV, § 406, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 115–334, title VIII, § 8406(a), Dec. 20, 2018, 132 Stat. 4845.)
 
 **Editorial Notes**
 
@@ -1269,7 +1269,7 @@ The authority provided by this subchapter terminates effective October 1, 2023.
 
 ## SUBCHAPTER V—HEALTHY FORESTS RESERVE PROGRAM
 
-### § 6571. Establishment of healthy forests reserve program
+### § 6571. Establishment of healthy forests reserve program
 
 **(a) Establishment** The Secretary of Agriculture shall establish the healthy forests reserve program for the purpose of restoring and enhancing forest ecosystems—
 
@@ -1285,7 +1285,7 @@ The authority provided by this subchapter terminates effective October 1, 2023.
 
 The Secretary of Agriculture shall carry out the healthy forests reserve program in coordination with the Secretary of the Interior and the Secretary of Commerce.
 
-(Pub. L. 108–148, title V, § 501, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 115–334, title VIII, § 8407(a)(1), Dec. 20, 2018, 132 Stat. 4845.)
+(Pub. L. 108–148, title V, § 501, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 115–334, title VIII, § 8407(a)(1), Dec. 20, 2018, 132 Stat. 4845.)
 
 **Editorial Notes**
 
@@ -1293,7 +1293,7 @@ The Secretary of Agriculture shall carry out the healthy forests reserve program
 
 2018—Subsec. (a)(3), (4). Pub. L. 115–334 added par. (3) and redesignated former par. (3) as (4).
 
-### § 6572. Eligibility and enrollment of lands in program
+### § 6572. Eligibility and enrollment of lands in program
 
 **(a) In general**
 
@@ -1415,7 +1415,7 @@ As consideration for termination of an easement or other interest in land under 
 
 **(III)** the modification will result in equal or greater environmental and economic values to the United States.
 
-(Pub. L. 108–148, title V, § 502, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 110–234, title VIII, § 8205(a), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, § 4(a), title VIII, § 8205(a), June 18, 2008, 122 Stat. 1664, 2056; Pub. L. 113–79, title VIII, § 8203(a), Feb. 7, 2014, 128 Stat. 914; Pub. L. 115–334, title VIII, § 8407(a)(2)–(6), Dec. 20, 2018, 132 Stat. 4845, 4846; Pub. L. 117–328, div. HH, title III, § 401, Dec. 29, 2022, 136 Stat. 5984.)
+(Pub. L. 108–148, title V, § 502, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 110–234, title VIII, § 8205(a), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, § 4(a), title VIII, § 8205(a), June 18, 2008, 122 Stat. 1664, 2056; Pub. L. 113–79, title VIII, § 8203(a), Feb. 7, 2014, 128 Stat. 914; Pub. L. 115–334, title VIII, § 8407(a)(2)–(6), Dec. 20, 2018, 132 Stat. 4845, 4846; Pub. L. 117–328, div. HH, title III, § 401, Dec. 29, 2022, 136 Stat. 5984.)
 
 **Editorial Notes**
 
@@ -1427,7 +1427,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsec. (g). Pub. L. 117–328 added subsec. (g).
 
-2018—Subsec. (b). Pub. L. 115–334, § 8407(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “To be eligible for enrollment in the healthy forests reserve program, land shall be—
+2018—Subsec. (b). Pub. L. 115–334, § 8407(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “To be eligible for enrollment in the healthy forests reserve program, land shall be—
 
 “(1) private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a species listed as endangered or threatened under section 1533 of this title; and
 
@@ -1437,25 +1437,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 “(B) are candidates for such listing, State-listed species, or special concern species.”
 
-Subsec. (c)(2), (3). Pub. L. 115–334, § 8407(a)(3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (c)(2), (3). Pub. L. 115–334, § 8407(a)(3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (e)(2). Pub. L. 115–334, § 8407(a)(4), redesignated par. (3) as (2) and struck out former par. (2) which related to limitation on use of cost-share agreements and easements.
+Subsec. (e)(2). Pub. L. 115–334, § 8407(a)(4), redesignated par. (3) as (2) and struck out former par. (2) which related to limitation on use of cost-share agreements and easements.
 
-Subsec. (e)(2)(B)(ii) to (iv). Pub. L. 115–334, § 8407(a)(5), added cls. (ii) to (iv) and struck out former cls. (ii) and (iii) which read as follows:
+Subsec. (e)(2)(B)(ii) to (iv). Pub. L. 115–334, § 8407(a)(5), added cls. (ii) to (iv) and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) a 10-year cost-share agreement; or
 
 “(iii) any combination of the options described in clauses (i) and (ii).”
 
-Subsec. (e)(3). Pub. L. 115–334, § 8407(a)(4), redesignated par. (3) as (2).
+Subsec. (e)(3). Pub. L. 115–334, § 8407(a)(4), redesignated par. (3) as (2).
 
-Subsec. (f)(1)(B)(ii). Pub. L. 115–334, § 8407(a)(6), added cl. (ii) and struck out former cl. (ii) which read as follows: “are candidates for such listing, State-listed species, or special concern species.”
+Subsec. (f)(1)(B)(ii). Pub. L. 115–334, § 8407(a)(6), added cl. (ii) and struck out former cl. (ii) which read as follows: “are candidates for such listing, State-listed species, or special concern species.”
 
-2014—Subsec. (e)(3). Pub. L. 113–79, § 8203(a)(2), (3), added subpar. (A), designated existing provisions as subpar. (B) and inserted heading, and redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins.
+2014—Subsec. (e)(3). Pub. L. 113–79, § 8203(a)(2), (3), added subpar. (A), designated existing provisions as subpar. (B) and inserted heading, and redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins.
 
-Subsec. (e)(3)(C). Pub. L. 113–79, § 8203(a)(1), substituted “clauses (i) and (ii)” for “subparagraphs (A) and (B)”.
+Subsec. (e)(3)(C). Pub. L. 113–79, § 8203(a)(1), substituted “clauses (i) and (ii)” for “subparagraphs (A) and (B)”.
 
-2008—Subsecs. (e) to (g). Pub. L. 110–246, § 8205(a), added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
+2008—Subsecs. (e) to (g). Pub. L. 110–246, § 8205(a), added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1463,7 +1463,7 @@ Subsec. (e)(3)(C). Pub. L. 113–79, § 8203(a)(1), substituted “clauses (i)
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 6573. Restoration plans
+### § 6573. Restoration plans
 
 **(a) In general**
 
@@ -1483,25 +1483,25 @@ Land enrolled in the healthy forests reserve program shall be subject to a resto
 
 **(6)** Other practices and measures.
 
-(Pub. L. 108–148, title V, § 503, Dec. 3, 2003, 117 Stat. 1912; Pub. L. 115–334, title VIII, § 8407(a)(7), (9), Dec. 20, 2018, 132 Stat. 4846.)
+(Pub. L. 108–148, title V, § 503, Dec. 3, 2003, 117 Stat. 1912; Pub. L. 115–334, title VIII, § 8407(a)(7), (9), Dec. 20, 2018, 132 Stat. 4846.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 8407(a)(9), substituted “Secretary of the Interior” for “Secretary of Interior”.
+2018—Subsec. (a). Pub. L. 115–334, § 8407(a)(9), substituted “Secretary of the Interior” for “Secretary of Interior”.
 
-Subsec. (b). Pub. L. 115–334, § 8407(a)(7), amended subsec. (b) generally. Prior to amendment, text read as follows: “The restoration plan shall require such restoration practices as are necessary to restore and enhance habitat for—
+Subsec. (b). Pub. L. 115–334, § 8407(a)(7), amended subsec. (b) generally. Prior to amendment, text read as follows: “The restoration plan shall require such restoration practices as are necessary to restore and enhance habitat for—
 
 “(1) species listed as endangered or threatened under section 1533 of this title; and
 
 “(2) animal or plant species before the species reach threatened or endangered status, such as candidate, State-listed species, and special concern species.”
 
-### § 6574. Financial assistance
+### § 6574. Financial assistance
 
-**(a) Permanent easements** In the case of land enrolled in the healthy forests reserve program using a permanent easement (or an easement described in section 6572(f)(1)(C)(ii) 1
+**(a) Permanent easements** In the case of land enrolled in the healthy forests reserve program using a permanent easement (or an easement described in section 6572(f)(1)(C)(ii) 1
 
-<sup>1</sup>  So in original. Probably should be “6572(e)(1)(C)(ii)”.
+<sup>1</sup> So in original. Probably should be “6572(e)(1)(C)(ii)”.
 
 of this title), the Secretary of Agriculture shall pay the owner of the land an amount equal to not less than 75 percent, nor more than 100 percent, of (as determined by the Secretary)—
 
@@ -1525,7 +1525,7 @@ of this title), the Secretary of Agriculture shall pay the owner of the land an 
 
 The Secretary of Agriculture may accept and use contributions of non-Federal funds to make payments under this section.
 
-(Pub. L. 108–148, title V, § 504, Dec. 3, 2003, 117 Stat. 1913; Pub. L. 110–234, title VIII, § 8205(b), May 22, 2008, 122 Stat. 1295; Pub. L. 110–246, § 4(a), title VIII, § 8205(b), June 18, 2008, 122 Stat. 1664, 2057.)
+(Pub. L. 108–148, title V, § 504, Dec. 3, 2003, 117 Stat. 1913; Pub. L. 110–234, title VIII, § 8205(b), May 22, 2008, 122 Stat. 1295; Pub. L. 110–246, § 4(a), title VIII, § 8205(b), June 18, 2008, 122 Stat. 1664, 2057.)
 
 **Editorial Notes**
 
@@ -1535,7 +1535,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 8205(b), substituted “Permanent easements” for “Easements of not more than 99 years” in heading and “a permanent easement (or an easement described in section 6572(f)(1)(C)(ii) of this title)” for “an easement of not more than 99 years described in section 6572(f)(1)(C) of this title” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–246, § 8205(b), substituted “Permanent easements” for “Easements of not more than 99 years” in heading and “a permanent easement (or an easement described in section 6572(f)(1)(C)(ii) of this title)” for “an easement of not more than 99 years described in section 6572(f)(1)(C) of this title” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1543,7 +1543,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 6575. Technical assistance
+### § 6575. Technical assistance
 
 **(a) In general**
 
@@ -1553,9 +1553,9 @@ The Secretary of Agriculture shall provide landowners with technical assistance 
 
 The Secretary of Agriculture may request the services of, and enter into cooperative agreements with, individuals or entities certified as technical service providers under section 3842 of this title, to assist the Secretary in providing technical assistance necessary to develop and implement the healthy forests reserve program.
 
-(Pub. L. 108–148, title V, § 505, Dec. 3, 2003, 117 Stat. 1913.)
+(Pub. L. 108–148, title V, § 505, Dec. 3, 2003, 117 Stat. 1913.)
 
-### § 6576. Protections and measures
+### § 6576. Protections and measures
 
 **(a) Protections** In the case of a landowner that enrolls land in the program and whose conservation activities result in a net conservation benefit for listed, candidate, or other species, the Secretary of Agriculture shall make available to the landowner safe harbor or similar assurances and protection under—
 
@@ -1567,9 +1567,9 @@ The Secretary of Agriculture may request the services of, and enter into coopera
 
 If protection under subsection (a) requires the taking of measures that are in addition to the measures covered by the applicable restoration plan agreed to under section 6573 of this title, the cost of the additional measures, as well as the cost of any permit, shall be considered part of the restoration plan for purposes of financial assistance under section 6574 of this title.
 
-(Pub. L. 108–148, title V, § 506, Dec. 3, 2003, 117 Stat. 1914.)
+(Pub. L. 108–148, title V, § 506, Dec. 3, 2003, 117 Stat. 1914.)
 
-### § 6577. Involvement by other agencies and organizations
+### § 6577. Involvement by other agencies and organizations
 
 In carrying out this subchapter, the Secretary of Agriculture may consult with—
 
@@ -1587,13 +1587,13 @@ In carrying out this subchapter, the Secretary of Agriculture may consult with�
 
 **(7)** nonprofit conservation organizations.
 
-(Pub. L. 108–148, title V, § 507, Dec. 3, 2003, 117 Stat. 1914.)
+(Pub. L. 108–148, title V, § 507, Dec. 3, 2003, 117 Stat. 1914.)
 
-### § 6578. Funding
+### § 6578. Funding
 
-**(a) Fiscal years 2009 through 2013 1 [footnote: 1 So in original. Heading and text do not correspond.]**
+**(a) Fiscal years 2009 through 2013 1 [footnote: 1 So in original. Heading and text do not correspond.]**
 
-Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make available $9,750,000 for each of fiscal years 2009 through 2012 <sup>1</sup> to carry out this subchapter.
+Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make available $9,750,000 for each of fiscal years 2009 through 2012 <sup>1</sup> to carry out this subchapter.
 
 **(b) Authorization of appropriations**
 
@@ -1607,13 +1607,13 @@ In addition to funds appropriated pursuant to the authorization of appropriation
 
 The funds made available under subsection (a) shall remain available until expended.
 
-(Pub. L. 108–148, title V, § 508, Dec. 3, 2003, 117 Stat. 1914; Pub. L. 110–234, title VIII, § 8205(c), May 22, 2008, 122 Stat. 1295; Pub. L. 110–246, § 4(a), title VIII, § 8205(c), June 18, 2008, 122 Stat. 1664, 2057; Pub. L. 113–79, title VIII, § 8203(b), Feb. 7, 2014, 128 Stat. 915; Pub. L. 115–334, title VIII, § 8407(a)(8), Dec. 20, 2018, 132 Stat. 4846.)
+(Pub. L. 108–148, title V, § 508, Dec. 3, 2003, 117 Stat. 1914; Pub. L. 110–234, title VIII, § 8205(c), May 22, 2008, 122 Stat. 1295; Pub. L. 110–246, § 4(a), title VIII, § 8205(c), June 18, 2008, 122 Stat. 1664, 2057; Pub. L. 113–79, title VIII, § 8203(b), Feb. 7, 2014, 128 Stat. 915; Pub. L. 115–334, title VIII, § 8407(a)(8), Dec. 20, 2018, 132 Stat. 4846.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Soil Conservation and Domestic Allotment Act, referred to in subsec. (c), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of this title. For complete classification of this Act to the Code, see section 590q of this title and Tables.
+The Soil Conservation and Domestic Allotment Act, referred to in subsec. (c), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of this title. For complete classification of this Act to the Code, see section 590q of this title and Tables.
 
 **Codification**
 
@@ -1623,11 +1623,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (b). Pub. L. 115–334 substituted “Authorization of appropriations” for “Fiscal years 2014 through 2018” in heading and “2023” for “2018” in text.
 
-2014—Subsec. (a). Pub. L. 113–79, § 8203(b)(1), substituted “Fiscal years 2009 through 2013” for “In general” in heading.
+2014—Subsec. (a). Pub. L. 113–79, § 8203(b)(1), substituted “Fiscal years 2009 through 2013” for “In general” in heading.
 
-Subsecs. (b) to (d). Pub. L. 113–79, § 8203(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+Subsecs. (b) to (d). Pub. L. 113–79, § 8203(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-2008—Pub. L. 110–246, § 8205(c), amended section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter—
+2008—Pub. L. 110–246, § 8205(c), amended section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter—
 
 “(1) $25,000,000 for fiscal year 2004; and
 
@@ -1641,7 +1641,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER VI—MISCELLANEOUS
 
-### § 6591. Forest stands inventory and monitoring program to improve detection of and response to environmental threats
+### § 6591. Forest stands inventory and monitoring program to improve detection of and response to environmental threats
 
 **(a) In general** The Secretary of Agriculture shall carry out a comprehensive program to inventory, monitor, characterize, assess, and identify forest stands (with emphasis on hardwood forest stands) and potential forest stands—
 
@@ -1671,9 +1671,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008.
 
-(Pub. L. 108–148, title VI, § 601, Dec. 3, 2003, 117 Stat. 1914.)
+(Pub. L. 108–148, title VI, § 601, Dec. 3, 2003, 117 Stat. 1914.)
 
-### § 6591a. Designation of treatment areas
+### § 6591a. Designation of treatment areas
 
 **(a) Definition of declining forest health** In this section, the term “declining forest health” means a forest that is experiencing—
 
@@ -1733,7 +1733,7 @@ Projects carried out under this subsection shall be considered authorized hazard
 
 The Secretary shall carry out projects under subsection (d) in a manner that maximizes the retention of old-growth and large trees, as appropriate for the forest type, to the extent that the trees promote stands that are resilient to insects and disease.
 
-(Pub. L. 108–148, title VI, § 602, as added Pub. L. 113–79, title VIII, § 8204, Feb. 7, 2014, 128 Stat. 915; amended Pub. L. 115–334, title VIII, §§ 8407(b), 8408, Dec. 20, 2018, 132 Stat. 4846, 4847.)
+(Pub. L. 108–148, title VI, § 602, as added Pub. L. 113–79, title VIII, § 8204, Feb. 7, 2014, 128 Stat. 915; amended Pub. L. 115–334, title VIII, §§ 8407(b), 8408, Dec. 20, 2018, 132 Stat. 4846, 4847.)
 
 **Editorial Notes**
 
@@ -1743,13 +1743,13 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 
 **Amendments**
 
-2018—Subsec. (d)(1). Pub. L. 115–334, § 8407(b)(1), substituted “subsection (b)—” and subpars. (A) and (B) for “subsection (b) to reduce the risk or extent of, or increase the resilience to, insect or disease infestation in the areas.”
+2018—Subsec. (d)(1). Pub. L. 115–334, § 8407(b)(1), substituted “subsection (b)—” and subpars. (A) and (B) for “subsection (b) to reduce the risk or extent of, or increase the resilience to, insect or disease infestation in the areas.”
 
-Subsec. (d)(2). Pub. L. 115–334, § 8407(b)(2), substituted “2023” for “2018”.
+Subsec. (d)(2). Pub. L. 115–334, § 8407(b)(2), substituted “2023” for “2018”.
 
-Subsec. (f). Pub. L. 115–334, § 8408, struck out subsec. (f). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2014 through 2024.”
+Subsec. (f). Pub. L. 115–334, § 8408, struck out subsec. (f). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2014 through 2024.”
 
-### § 6591b. Administrative review
+### § 6591b. Administrative review
 
 **(a) In general** Except as provided in subsection (d), a project described in subsection (b) that is conducted in accordance with section 6591a(d) of this title may be—
 
@@ -1843,15 +1843,15 @@ The Secretary shall prepare an annual report on the use of categorical exclusion
 
 **(E)** the Government Accountability Office.
 
-(Pub. L. 108–148, title VI, § 603, as added Pub. L. 113–79, title VIII, § 8204, Feb. 7, 2014, 128 Stat. 916.)
+(Pub. L. 108–148, title VI, § 603, as added Pub. L. 113–79, title VIII, § 8204, Feb. 7, 2014, 128 Stat. 916.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 91–190, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+Public Law 91–190, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 6591c. Stewardship end result contracting projects
+### § 6591c. Stewardship end result contracting projects
 
 **(a) Definitions** In this section:
 
@@ -1923,7 +1923,7 @@ The Chief and the Director may apply the value of timber or other forest product
 
 Notwithstanding subsections (d) and (g) of section 472a of this title, the Chief may enter into an agreement or contract under subsection (b). Notwithstanding the Materials Act of 1947 (30 U.S.C. 602(a)),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Director may enter into an agreement or contract under subsection (b).
 
@@ -1955,9 +1955,9 @@ The Chief and the Director may collect monies from an agreement or contract unde
 
 Notwithstanding any other provision of law, the value of services received by the Chief or the Director under a stewardship contract project conducted under this section, and any payments made or resources provided by the contractor, Chief, or Director shall not be considered monies received from the National Forest System or the public lands.
 
-**(B) Knutson-Vanderberg 2 [footnote: 2 So in original. Probably should be “Knutson-Vandenberg”.] Act**
+**(B) Knutson-Vanderberg 2 [footnote: 2 So in original. Probably should be “Knutson-Vandenberg”.] Act**
 
-The Act of June 9, 1930 (commonly known as the “Knutson-Vanderberg <sup>2</sup> Act”) (16 U.S.C. 576 et seq.) shall not apply to any agreement or contract under subsection (b).
+The Act of June 9, 1930 (commonly known as the “Knutson-Vanderberg <sup>2</sup> Act”) (16 U.S.C. 576 et seq.) shall not apply to any agreement or contract under subsection (b).
 
 **(f) Costs of removal** Notwithstanding the fact that a contractor did not harvest the timber, the Chief may collect deposits from a contractor covering the costs of removal of timber or other forest products under—
 
@@ -2017,13 +2017,13 @@ The Chief and the Director shall establish a multiparty monitoring and evaluatio
 
 **(3)** the role of local communities in the development of agreements or contract plans.
 
-(Pub. L. 108–148, title VI, § 604, as added Pub. L. 113–79, title VIII, § 8205(a), Feb. 7, 2014, 128 Stat. 918; amended Pub. L. 115–31, div. G, title IV, § 422, May 5, 2017, 131 Stat. 499; Pub. L. 115–141, div. O, title II, §§ 204–206, Mar. 23, 2018, 132 Stat. 1064, 1065.)
+(Pub. L. 108–148, title VI, § 604, as added Pub. L. 113–79, title VIII, § 8205(a), Feb. 7, 2014, 128 Stat. 918; amended Pub. L. 115–31, div. G, title IV, § 422, May 5, 2017, 131 Stat. 499; Pub. L. 115–141, div. O, title II, §§ 204–206, Mar. 23, 2018, 132 Stat. 1064, 1065.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Materials Act of 1947, referred to in subsec. (d)(5), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. Section 602(a) of Title 30 is section 2(a) of the Act. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+The Materials Act of 1947, referred to in subsec. (d)(5), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. Section 602(a) of Title 30 is section 2(a) of the Act. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
 The Act of June 9, 1930, referred to in subsec. (e)(3)(B), is act June 9, 1930, ch. 416, 46 Stat. 527, popularly known as the Knutson-Vandenberg Act, which is classified generally to sections 576, 576a, and 576b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 576 of this title and Tables.
 
@@ -2033,25 +2033,25 @@ Section 498 of this title, referred to in subsec. (f)(2), was in the original �
 
 **Amendments**
 
-2018—Subsec. (g)(2). Pub. L. 115–141, § 205, added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+2018—Subsec. (g)(2). Pub. L. 115–141, § 205, added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) collect any residual receipts under the Act of June 9, 1930 (commonly known as the “Knutson-Vanderberg Act”) (16 U.S.C. 576 et seq.); and
 
 “(B) apply the excess to other authorized stewardship projects.”
 
-Subsecs. (h), (i). Pub. L. 115–141, § 204, added subsec. (h) and redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Subsecs. (h), (i). Pub. L. 115–141, § 204, added subsec. (h) and redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 115–141, §§ 204(1), 206, redesignated subsec. (i) as (j) and substituted “submit to the congressional committees described in subsection (h)(2) a report” for “report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives” in introductory provisions.
+Subsec. (j). Pub. L. 115–141, §§ 204(1), 206, redesignated subsec. (i) as (j) and substituted “submit to the congressional committees described in subsection (h)(2) a report” for “report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives” in introductory provisions.
 
-2017—Subsec. (d)(5). Pub. L. 115–31, § 422(1), inserted at end “Notwithstanding the Materials Act of 1947 (30 U.S.C. 602(a)), the Director may enter into an agreement or contract under subsection (b).”
+2017—Subsec. (d)(5). Pub. L. 115–31, § 422(1), inserted at end “Notwithstanding the Materials Act of 1947 (30 U.S.C. 602(a)), the Director may enter into an agreement or contract under subsection (b).”
 
-Subsec. (d)(7). Pub. L. 115–31, § 422(2), struck out “and the Director” after “the Chief” in introductory provisions.
+Subsec. (d)(7). Pub. L. 115–31, § 422(2), struck out “and the Director” after “the Chief” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **20-Year Stewardship Contracting**
 
-Pub. L. 115–141, div. O, title II, § 207, Mar. 23, 2018, 132 Stat. 1065, provided that:
+Pub. L. 115–141, div. O, title II, § 207, Mar. 23, 2018, 132 Stat. 1065, provided that:
 
 > **“(a) In General.—** The Secretary of Agriculture and the Secretary of the Interior may award contracts or agreements under section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511 [6591c]), for terms not to exceed 20 years on areas where the majority of Federal lands are in Fire Regime Groups I, II, or III.
 
@@ -2059,7 +2059,7 @@ Pub. L. 115–141, div. O, title II, § 207, Mar. 23, 2018, 132 Stat. 1065, pr
 
 **Definitions**
 
-Pub. L. 115–141, div. O, title II, § 201, Mar. 23, 2018, 132 Stat. 1062, provided that:
+Pub. L. 115–141, div. O, title II, § 201, Mar. 23, 2018, 132 Stat. 1062, provided that:
 
 > “In this title [see Tables for classification]:
 
@@ -2073,7 +2073,7 @@ Pub. L. 115–141, div. O, title II, § 201, Mar. 23, 2018, 132 Stat. 1062, pr
 
 > **“(B)** the Secretary of the Interior, with respect to public land.”
 
-### § 6591d. Wildfire resilience projects
+### § 6591d. Wildfire resilience projects
 
 **(a) In general** Hazardous fuels reduction projects, as defined in section 6511(2) of this title may be—
 
@@ -2137,9 +2137,9 @@ The Secretary shall decommission any temporary road constructed under a project 
 
 **(4) Extraordinary circumstances**
 
-The Secretary shall apply the extraordinary circumstances procedures under section 220.6 of title 36, code of Federal regulations 1
+The Secretary shall apply the extraordinary circumstances procedures under section 220.6 of title 36, code of Federal regulations 1
 
-<sup>1</sup>  So in original. Probably should be “Code of Federal Regulations”.
+<sup>1</sup> So in original. Probably should be “Code of Federal Regulations”.
 
 (or successor regulations), when using the categorical exclusion under this section.
 
@@ -2179,7 +2179,7 @@ The Secretary shall prepare an annual report on the use of categorical exclusion
 
 **(E)** the Government Accountability Office.
 
-(Pub. L. 108–148, title VI, § 605, as added Pub. L. 115–141, div. O, title II, § 202, Mar. 23, 2018, 132 Stat. 1062.)
+(Pub. L. 108–148, title VI, § 605, as added Pub. L. 115–141, div. O, title II, § 202, Mar. 23, 2018, 132 Stat. 1062.)
 
 **Editorial Notes**
 
@@ -2187,11 +2187,11 @@ The Secretary shall prepare an annual report on the use of categorical exclusion
 
 Section 6511(2) of this title, referred to in subsec. (a), was in the original “the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511(2))” and was translated as referring to section 101(2) of that Act, which is classified to section 6511(2) of this title and defines “authorized hazardous fuel reduction project”.
 
-Public Law 91–190, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+Public Law 91–190, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 March 23, 2018, referred to in subsec. (c)(2)(C), was in the original “the date of enactment of this Act” and was translated as meaning the date of enactment of Pub. L. 115–141, which enacted this section, to reflect the probable intent of Congress.
 
-### § 6591e. Categorical exclusion for greater sage-grouse and mule deer habitat
+### § 6591e. Categorical exclusion for greater sage-grouse and mule deer habitat
 
 **(a) Definitions** In this section:
 
@@ -2395,15 +2395,15 @@ A covered vegetation management activity that is covered by the categorical excl
 
 A covered vegetation management activity carried out on National Forest System land that is covered by the categorical exclusion under subsection (b) shall be limited to areas designated under section 6591a(b) of this title, as of December 20, 2018.
 
-(Pub. L. 108–148, title VI, § 606, as added Pub. L. 115–334, title VIII, § 8611, Dec. 20, 2018, 132 Stat. 4848.)
+(Pub. L. 108–148, title VI, § 606, as added Pub. L. 115–334, title VIII, § 8611, Dec. 20, 2018, 132 Stat. 4848.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 6592. Wildfire risk reduction
+### § 6592. Wildfire risk reduction
 
 **(a) Authorization of appropriations**
 
@@ -2711,17 +2711,17 @@ Not later than 90 days after the date of completion of the study under paragraph
 
 A project carried out using funding authorized under paragraphs (11)(A)(i), (13), or (14) of subsection (c) shall be considered an authorized hazardous fuel reduction project pursuant to section 6512 of this title.
 
-(Pub. L. 117–58, div. D, title VIII, § 40803, Nov. 15, 2021, 135 Stat. 1097.)
+(Pub. L. 117–58, div. D, title VIII, § 40803, Nov. 15, 2021, 135 Stat. 1097.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Southwest Forest Health and Wildfire Prevention Act of 2004, referred to in subsec. (c)(8), is Pub. L. 108–317, Oct. 5, 2004, 118 Stat. 1204, which is classified generally to chapter 86 (§ 6701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6701 of this title and Tables.
+The Southwest Forest Health and Wildfire Prevention Act of 2004, referred to in subsec. (c)(8), is Pub. L. 108–317, Oct. 5, 2004, 118 Stat. 1204, which is classified generally to chapter 86 (§ 6701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
 This title, referred to in subsec. (c)(8)(A), means title VIII of division D of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1094, which enacted this section and sections 538a and 6592a to 6592d of this title and amended section 5545 of Title 5, Government Organization and Employees. For complete classification of title VIII to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (g)(1) and (j)(1)(C)(ii), (iv), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (g)(1) and (j)(1)(C)(ii), (iv), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -2733,7 +2733,7 @@ Section was enacted as part of the Infrastructure Investment and Jobs Act, and n
 
 **Special Base Rates of Pay for Wildland Firefighters**
 
-Section 456(e) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30, provided that: “Notwithstanding section 40803(d)(4)(B) of the Infrastructure Investment and Jobs Act (16 U.S.C. 6592(d)(4)(B)) and authority provided under the headings ‘Wildland Fire Management–Forest Service’ [H.R. 8998 page 121] and ‘Wildland Fire Management–Department of the Interior’ [H.R. 8998 page 47] in fiscal years 2024 and 2025, the salary increase in such section and under such headings shall not apply to the positions described in such section 40803(d)(4)(B) [16 U.S.C. 6592(d)(4)(B)] for service performed on or after the effective date described in subsection (d) of this section [see Effective Date note set out under section 5332a of Title 5, Government Organization and Employees].”
+Section 456(e) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30, provided that: “Notwithstanding section 40803(d)(4)(B) of the Infrastructure Investment and Jobs Act (16 U.S.C. 6592(d)(4)(B)) and authority provided under the headings ‘Wildland Fire Management–Forest Service’ [H.R. 8998 page 121] and ‘Wildland Fire Management–Department of the Interior’ [H.R. 8998 page 47] in fiscal years 2024 and 2025, the salary increase in such section and under such headings shall not apply to the positions described in such section 40803(d)(4)(B) [16 U.S.C. 6592(d)(4)(B)] for service performed on or after the effective date described in subsection (d) of this section [see Effective Date note set out under section 5332a of Title 5, Government Organization and Employees].”
 
 **Wage Rate Requirements**
 
@@ -2743,7 +2743,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 For definition of “Indian Tribe” as used in this section, see section 5304 of Title 25, Indians, as made applicable by section 18701(2) of Title 42, The Public Health and Welfare.
 
-### § 6592a. Ecosystem restoration
+### § 6592a. Ecosystem restoration
 
 **(a) Authorization of appropriations**
 
@@ -2861,9 +2861,9 @@ If Congress has not enacted legislation establishing alternate allocations descr
 
 **(1) Site restoration and improvements**
 
-Of the amounts made available under subsection (b)(7), $45,000,000 shall be made available to the Secretary of the Interior and $35,000,000 shall be made available the 1
+Of the amounts made available under subsection (b)(7), $45,000,000 shall be made available to the Secretary of the Interior and $35,000,000 shall be made available the 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “to”.
+<sup>1</sup> So in original. Probably should be preceded by “to”.
 
 Secretary of Agriculture to restore, prepare, or adapt recreation sites on Federal land, including Indian forest land or rangeland, that have experienced or may likely experience visitation and use beyond the carrying capacity of the sites.
 
@@ -2915,7 +2915,7 @@ Of the amount described in subparagraph (A), $5,000,000 shall be made available 
 
 **(C)** the condition of each priority watershed on the date that is 5 years after November 15, 2021.
 
-(Pub. L. 117–58, div. D, title VIII, § 40804, Nov. 15, 2021, 135 Stat. 1105.)
+(Pub. L. 117–58, div. D, title VIII, § 40804, Nov. 15, 2021, 135 Stat. 1105.)
 
 **Editorial Notes**
 
@@ -2937,7 +2937,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 For definition of “Indian Tribe” as used in this section, see section 5304 of Title 25, Indians, as made applicable by section 18701(2) of Title 42, The Public Health and Welfare.
 
-### § 6592b. Establishment of fuel breaks in forests and other wildland vegetation
+### § 6592b. Establishment of fuel breaks in forests and other wildland vegetation
 
 **(a) Definition of Secretary concerned** In this section, the term “Secretary concerned” means—
 
@@ -3031,13 +3031,13 @@ The Secretary concerned shall decommission any temporary road constructed under 
 
 **(2)** participation of interested persons.
 
-(Pub. L. 117–58, div. D, title VIII, § 40806, Nov. 15, 2021, 135 Stat. 1110.)
+(Pub. L. 117–58, div. D, title VIII, § 40806, Nov. 15, 2021, 135 Stat. 1110.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -3053,7 +3053,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 For definition of “Indian Tribe” as used in this section, see section 5304 of Title 25, Indians, as made applicable by section 18701(2) of Title 42, The Public Health and Welfare.
 
-### § 6592c. Emergency actions
+### § 6592c. Emergency actions
 
 **(a) Definitions** In this section:
 
@@ -3157,7 +3157,7 @@ A court shall not enjoin an authorized emergency action under this section if th
 
 The Secretary shall provide notification and guidance to each local field office of the Forest Service to ensure awareness of, compliance with, and appropriate use of the authorized emergency action authority under this section.
 
-(Pub. L. 117–58, div. D, title VIII, § 40807, Nov. 15, 2021, 135 Stat. 1112.)
+(Pub. L. 117–58, div. D, title VIII, § 40807, Nov. 15, 2021, 135 Stat. 1112.)
 
 **Editorial Notes**
 
@@ -3171,7 +3171,7 @@ Section was enacted as part of the Infrastructure Investment and Jobs Act, and n
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 6592d. Joint Chiefs Landscape Restoration Partnership program
+### § 6592d. Joint Chiefs Landscape Restoration Partnership program
 
 **(a) Definitions** In this section:
 
@@ -3299,13 +3299,13 @@ Funds made available under paragraph (1) shall remain available until expended.
 
 **(ii)** for other purposes, such as technical assistance, project development, or local capacity building.
 
-(Pub. L. 117–58, div. D, title VIII, § 40808, Nov. 15, 2021, 135 Stat. 1114.)
+(Pub. L. 117–58, div. D, title VIII, § 40808, Nov. 15, 2021, 135 Stat. 1114.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(A), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of this title. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(A), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of this title. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 **Codification**
 

@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1983—Pub. L. 98–169, § 6, Nov. 29, 1983, 97 Stat. 1115, added items 6105 and 6106, and struck out item 6105 “Authorization of appropriations”.
+1983—Pub. L. 98–169, § 6, Nov. 29, 1983, 97 Stat. 1115, added items 6105 and 6106, and struck out item 6105 “Authorization of appropriations”.
 
-Pub. L. 97–452, § 1(23)(B), Jan. 12, 1983, 96 Stat. 2478, added item 6102a.
+Pub. L. 97–452, § 1(23)(B), Jan. 12, 1983, 96 Stat. 2478, added item 6102a.
 
-## § 6101. Definitions
+## § 6101. Definitions
 
 In this chapter—
 
@@ -79,13 +79,13 @@ In this chapter—
 
 and from which the results can be objectively replicated, within reasonable limits due to rounding error, through independent application of such statement, procedures, or algorithm, by different qualified individuals.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–169, §§ 1(1), 3(a), Nov. 29, 1983, 97 Stat. 1113; Pub. L. 99–547, § 2(b)(2), Oct. 27, 1986, 100 Stat. 3060; Pub. L. 103–272, § 4(f)(1)(S), July 5, 1994, 108 Stat. 1362; Pub. L. 104–287, § 6(a)(1), Oct. 11, 1996, 110 Stat. 3398.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–169, §§ 1(1), 3(a), Nov. 29, 1983, 97 Stat. 1113; Pub. L. 99–547, § 2(b)(2), Oct. 27, 1986, 100 Stat. 3060; Pub. L. 103–272, § 4(f)(1)(S), July 5, 1994, 108 Stat. 1362; Pub. L. 104–287, § 6(a)(1), Oct. 11, 1996, 110 Stat. 3398.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6101(1) | 31:1701(4). | Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615. |
+| 6101(1) | 31:1701(4). | Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615. |
 | 6101(2) | 31:1701(2). |  |
 | 6101(3) | 31:1701(1). |  |
 | 6101(4) | 31:1701(3). |  |
@@ -98,7 +98,7 @@ In clause (3)(A), the words “money, property, services, or” are omitted as b
 
 In clause (3)(B), the words “or procurement of property or services for the direct benefit or use of the Government” are added for consistency in subtitle V of the revised title.
 
-In clause (4)(A), the words “or benefits” are omitted as being included in “assistance”. Subclause (ii) is included for consistency in the revised title because the District of Columbia is stated when a provision is meant to apply to the District. In subclause (vi), the word “grouping” is omitted as being included in “political subdivision or instrumentality”. In subclauses (vii)–(ix), the words “profit or nonprofit” are omitted as surplus. In subclause (ix), the words “individual of the United States” are substituted for “domestic . . . individual” for clarity.
+In clause (4)(A), the words “or benefits” are omitted as being included in “assistance”. Subclause (ii) is included for consistency in the revised title because the District of Columbia is stated when a provision is meant to apply to the District. In subclause (vi), the word “grouping” is omitted as being included in “political subdivision or instrumentality”. In subclauses (vii)–(ix), the words “profit or nonprofit” are omitted as surplus. In subclause (ix), the words “individual of the United States” are substituted for “domestic . . . individual” for clarity.
 
 **Editorial Notes**
 
@@ -110,31 +110,31 @@ In clause (4)(A), the words “or benefits” are omitted as being included in �
 
 1986—Par. (4)(B). Pub. L. 99–547 substituted “assistance from an agency for an agency” for “a department, agency, or instrumentality of the Government.”
 
-1983—Pars. (5), (6). Pub. L. 98–169, § 1(1), added pars. (5) and (6).
+1983—Pars. (5), (6). Pub. L. 98–169, § 1(1), added pars. (5) and (6).
 
-Par. (7). Pub. L. 98–169, § 3(a), added par. (7).
+Par. (7). Pub. L. 98–169, § 3(a), added par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–287, § 6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
+Pub. L. 104–287, § 6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–219, § 1, Dec. 5, 2022, 136 Stat. 2271, provided that: “This Act [enacting section 6309 of this title, amending section 6102 of this title and section 3504 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under section 6102 of this title] may be cited as the ‘Metropolitan Areas Protection and Standardization Act of 2021’ or the ‘MAPS Act of 2021’.”
+Pub. L. 117–219, § 1, Dec. 5, 2022, 136 Stat. 2271, provided that: “This Act [enacting section 6309 of this title, amending section 6102 of this title and section 3504 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under section 6102 of this title] may be cited as the ‘Metropolitan Areas Protection and Standardization Act of 2021’ or the ‘MAPS Act of 2021’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–40, § 1, Sept. 24, 2021, 135 Stat. 337, provided that: “This Act [amending section 1105 of this title and provisions set out as a note under this section] may be cited as the ‘Congressional Budget Justification Transparency Act of 2021’.”
+Pub. L. 117–40, § 1, Sept. 24, 2021, 135 Stat. 337, provided that: “This Act [amending section 1105 of this title and provisions set out as a note under this section] may be cited as the ‘Congressional Budget Justification Transparency Act of 2021’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–101, § 1, May 9, 2014, 128 Stat. 1146, provided that: “This Act [amending sections 3512 and 3716 of this title and enacting and amending provisions set out as notes under this section] may be cited as the ‘Digital Accountability and Transparency Act of 2014’ or the ‘DATA Act’.”
+Pub. L. 113–101, § 1, May 9, 2014, 128 Stat. 1146, provided that: “This Act [amending sections 3512 and 3716 of this title and enacting and amending provisions set out as notes under this section] may be cited as the ‘Digital Accountability and Transparency Act of 2014’ or the ‘DATA Act’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–252, title VI, § 6201, June 30, 2008, 122 Stat. 2387, provided that: “This chapter [chapter 2 (§§ 6201, 6202) of title VI of Pub. L. 110–252, enacting and amending provisions set out as notes under this section] may be cited as the ‘Government Funding Transparency Act of 2008’.”
+Pub. L. 110–252, title VI, § 6201, June 30, 2008, 122 Stat. 2387, provided that: “This chapter [chapter 2 (§§ 6201, 6202) of title VI of Pub. L. 110–252, enacting and amending provisions set out as notes under this section] may be cited as the ‘Government Funding Transparency Act of 2008’.”
 
 **Grant Transparency**
 
@@ -208,7 +208,7 @@ Pub. L. 118–140, Dec. 11, 2024, 138 Stat. 1657, provided that:
 
 **Reporting on Use of Funds**
 
-Pub. L. 116–136, div. B, title V, § 15011, Mar. 27, 2020, 134 Stat. 540, provided that:
+Pub. L. 116–136, div. B, title V, § 15011, Mar. 27, 2020, 134 Stat. 540, provided that:
 
 > **“(a)** In this section—
 
@@ -266,7 +266,7 @@ Pub. L. 116–136, div. B, title V, § 15011, Mar. 27, 2020, 134 Stat. 540, pr
 
 **Exemption From Certain Reporting Requirements for Certain Agricultural Producers**
 
-Pub. L. 115–334, title I, § 1707, Dec. 20, 2018, 132 Stat. 4529, provided that:
+Pub. L. 115–334, title I, § 1707, Dec. 20, 2018, 132 Stat. 4529, provided that:
 
 > **“(a) Definition of Exempted Producer.—** In this section, the term ‘exempted producer’ means an individual or entity that is eligible to participate in—
 
@@ -280,7 +280,7 @@ Pub. L. 115–334, title I, § 1707, Dec. 20, 2018, 132 Stat. 4529, provided t
 
 **Purposes**
 
-Pub. L. 113–101, § 2, May 9, 2014, 128 Stat. 1146, provided that:
+Pub. L. 113–101, § 2, May 9, 2014, 128 Stat. 1146, provided that:
 
 > “The purposes of this Act [see Short Title of 2014 Amendment note above] are to—
 
@@ -296,7 +296,7 @@ Pub. L. 113–101, § 2, May 9, 2014, 128 Stat. 1146, provided that:
 
 **Requirements and Limitations for Suspension and Debarment Officials of the Department of Defense, the Department of State, and the United States Agency for International Development**
 
-Pub. L. 112–239, div. A, title VIII, § 861, Jan. 2, 2013, 126 Stat. 1857, provided that:
+Pub. L. 112–239, div. A, title VIII, § 861, Jan. 2, 2013, 126 Stat. 1857, provided that:
 
 > **“(a) Requirements.—** Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the head of the covered agency concerned shall ensure the following:
 
@@ -332,7 +332,7 @@ Pub. L. 112–239, div. A, title VIII, § 861, Jan. 2, 2013, 126 Stat. 1857, p
 
 **Role of Interagency Committee on Debarment and Suspension**
 
-Pub. L. 110–417, [div. A], title VIII, § 873, Oct. 14, 2008, 122 Stat. 4557, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(16), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–239, div. A, title VIII, § 861(b), Jan. 2, 2013, 126 Stat. 1858, provided that:
+Pub. L. 110–417, [div. A], title VIII, § 873, Oct. 14, 2008, 122 Stat. 4557, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(16), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–239, div. A, title VIII, § 861(b), Jan. 2, 2013, 126 Stat. 1858, provided that:
 
 > **“(a) Requirement.—** The Interagency Committee on Debarment and Suspension shall—
 
@@ -368,9 +368,9 @@ Pub. L. 110–417, [div. A], title VIII, § 873, Oct. 14, 2008, 122 Stat. 4557
 
 **Federal Funding Accountability and Transparency**
 
-Pub. L. 110–252, title VI, § 6202(b), June 30, 2008, 122 Stat. 2387, provided that: “The Director of the Office of Management and Budget shall promulgate regulations to implement the amendment made by this chapter [amending Pub. L. 109–282, set out below]. Such regulations shall include a definition of ‘total compensation’ that is consistent with regulations of the Securities and Exchange Commission at section 402 of part 229 of title 17 of the Code of Federal Regulations (or any subsequent regulation).”
+Pub. L. 110–252, title VI, § 6202(b), June 30, 2008, 122 Stat. 2387, provided that: “The Director of the Office of Management and Budget shall promulgate regulations to implement the amendment made by this chapter [amending Pub. L. 109–282, set out below]. Such regulations shall include a definition of ‘total compensation’ that is consistent with regulations of the Securities and Exchange Commission at section 402 of part 229 of title 17 of the Code of Federal Regulations (or any subsequent regulation).”
 
-Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–252, title VI, § 6202(a), June 30, 2008, 122 Stat. 2387; Pub. L. 113–101, § 3, May 9, 2014, 128 Stat. 1146; Pub. L. 117–40, § 2(a), Sept. 24, 2021, 135 Stat. 337, provided that:
+Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–252, title VI, § 6202(a), June 30, 2008, 122 Stat. 2387; Pub. L. 113–101, § 3, May 9, 2014, 128 Stat. 1146; Pub. L. 117–40, § 2(a), Sept. 24, 2021, 135 Stat. 337, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -782,11 +782,11 @@ Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–2
 
 **Federal Financial Assistance Management Improvement**
 
-Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, which required Federal agencies to streamline and simplify the application, administrative, and reporting procedures for Federal financial assistance programs, ceased to be effective on Nov. 20, 2007.
+Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, which required Federal agencies to streamline and simplify the application, administrative, and reporting procedures for Federal financial assistance programs, ceased to be effective on Nov. 20, 2007.
 
 **Uniform Suspension, Debarment or Exclusion From Procurement or Nonprocurement Activity**
 
-Pub. L. 103–355, title II, § 2455, Oct. 13, 1994, 108 Stat. 3327, as amended by Pub. L. 111–84, div. A, title VIII, § 815, Oct. 28, 2009, 123 Stat. 2408; Pub. L. 115–232, div. A, title VIII, § 836(g)(4), Aug. 13, 2018, 132 Stat. 1873, provided that:
+Pub. L. 103–355, title II, § 2455, Oct. 13, 1994, 108 Stat. 3327, as amended by Pub. L. 111–84, div. A, title VIII, § 815, Oct. 28, 2009, 123 Stat. 2408; Pub. L. 115–232, div. A, title VIII, § 836(g)(4), Aug. 13, 2018, 132 Stat. 1873, provided that:
 
 > **“(a) Requirement for Regulations.—** Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 [set out below], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
@@ -802,7 +802,7 @@ Pub. L. 103–355, title II, § 2455, Oct. 13, 1994, 108 Stat. 3327, as amende
 
 **Transfer of Personnel, Property, Records, and Appropriations**
 
-Pub. L. 98–169, § 7, Nov. 29, 1983, 97 Stat. 1115, provided that: “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act [enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title].”
+Pub. L. 98–169, § 7, Nov. 29, 1983, 97 Stat. 1115, provided that: “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act [enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title].”
 
 **Executive Documents**
 
@@ -950,7 +950,7 @@ Sec. 4. *Considerations for Discretionary Awards*. (a) Senior appointees and the
 
 (c) Nothing in this order shall be construed to discourage or prevent the use of peer review methods to evaluate proposals for discretionary awards or otherwise inform agency decision making, provided that peer review recommendations remain advisory and are not ministerially ratified, routinely deferred to, or otherwise treated as de facto binding by senior appointees or their designees. Further, nothing in this order shall be construed to create any rights to any particular level of review or consideration for any funding applicant except as consistent with applicable law.
 
-Sec. 5. *Revisions to the Uniform Guidance*. (a) The Director shall revise the Uniform Guidance and other relevant guidance to streamline application requirements and to further clarify and require all discretionary grants to permit termination for convenience, including when the award no longer advances agency priorities or the national interest, but subject to appropriate exceptions, including agreements entered into in furtherance of international trade agreements or those awarded by the Department of Commerce under title XCIX of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [15 U.S.C. 4651 et seq.], the CHIPS Act of 2022 (Public Law 117–167[, div. A, see Tables for classification]), or division F of the Infrastructure Investment and Jobs Act (Public Law 117–58) [see Tables for classification].
+Sec. 5. *Revisions to the Uniform Guidance*. (a) The Director shall revise the Uniform Guidance and other relevant guidance to streamline application requirements and to further clarify and require all discretionary grants to permit termination for convenience, including when the award no longer advances agency priorities or the national interest, but subject to appropriate exceptions, including agreements entered into in furtherance of international trade agreements or those awarded by the Department of Commerce under title XCIX of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [15 U.S.C. 4651 et seq.], the CHIPS Act of 2022 (Public Law 117–167[, div. A, see Tables for classification]), or division F of the Infrastructure Investment and Jobs Act (Public Law 117–58) [see Tables for classification].
 
 (b) The Director shall further revise the Uniform Guidance and other relevant guidance to appropriately limit the use of discretionary grant funds for costs related to facilities and administration.
 
@@ -986,7 +986,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 6102. Program information requirements
+## § 6102. Program information requirements
 
 **(a)** The Director shall collect and review information on domestic assistance programs and shall provide such information to the Administrator. The information on each domestic assistance program shall include the following:
 
@@ -1054,17 +1054,17 @@ Donald J. Trump.
 
 **(4)** shall transmit annually the information compiled under paragraphs (3) and (4) of subsection (a) to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1001; Pub. L. 98–169, §§ 1(2), 2, 3(b), (c), Nov. 29, 1983, 97 Stat. 1113, 1114; Pub. L. 117–219, § 6(a), Dec. 5, 2022, 136 Stat. 2273.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1001; Pub. L. 98–169, §§ 1(2), 2, 3(b), (c), Nov. 29, 1983, 97 Stat. 1113, 1114; Pub. L. 117–219, § 6(a), Dec. 5, 2022, 136 Stat. 2273.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6102(a). | 31:1703(a) | Dec. 28, 1977, Pub. L. 95–220, §§ 4, 5(d), (e), 91 Stat. 1615, 1616. |
+| 6102(a). | 31:1703(a) | Dec. 28, 1977, Pub. L. 95–220, §§ 4, 5(d), (e), 91 Stat. 1615, 1616. |
 | 6102(b) | 31:1703(b). |  |
 | 6102(c) | 31:1704(d), (e). |  |
 
-In subsection (a), before clause (1), the words in parentheses are omitted as unnecessary because of the restatement. The words “information on domestic assistance programs. The information on each domestic assistance program shall include the following” are substituted for “a Federal Assistance Information Data Base . . . For each Federal domestic assistance program the data base shall” for clarity and consistency. In clause (1)(A), the word “law” is substituted for “statute” for consistency. In clause (2)(H), the word “obligations” is omitted as surplus.
+In subsection (a), before clause (1), the words in parentheses are omitted as unnecessary because of the restatement. The words “information on domestic assistance programs. The information on each domestic assistance program shall include the following” are substituted for “a Federal Assistance Information Data Base . . . For each Federal domestic assistance program the data base shall” for clarity and consistency. In clause (1)(A), the word “law” is substituted for “statute” for consistency. In clause (2)(H), the word “obligations” is omitted as surplus.
 
 In subsection (c)(1), the word “catalogs” is added for clarity.
 
@@ -1080,21 +1080,21 @@ Section 4 of the MAPS Act of 2021, referred to in subsec. (a)(2)(G), is section 
 
 2022—Subsec. (a)(2)(G), (H). Pub. L. 117–219 added subpar. (G) and redesignated former subpar. (G) as (H).
 
-1983—Subsec. (a). Pub. L. 98–169, § 2(1), substituted “collect and review information on domestic assistance programs and shall provide such information to the Administrator” for “prepare and maintain information on domestic assistance programs”.
+1983—Subsec. (a). Pub. L. 98–169, § 2(1), substituted “collect and review information on domestic assistance programs and shall provide such information to the Administrator” for “prepare and maintain information on domestic assistance programs”.
 
-Pub. L. 98–169, § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
+Pub. L. 98–169, § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 
-Subsec. (a)(2)(E) to (H). Pub. L. 98–169, § 3(b)(1), struck out subpar. (E) relating to formulas governing distribution of amounts, and redesignated subpars. (F) to (H) as (E) to (G), respectively.
+Subsec. (a)(2)(E) to (H). Pub. L. 98–169, § 3(b)(1), struck out subpar. (E) relating to formulas governing distribution of amounts, and redesignated subpars. (F) to (H) as (E) to (G), respectively.
 
-Subsec. (a)(3) to (7). Pub. L. 98–169, § 3(b)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) to (5) as (5) to (7), respectively.
+Subsec. (a)(3) to (7). Pub. L. 98–169, § 3(b)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) to (5) as (5) to (7), respectively.
 
-Subsec. (b). Pub. L. 98–169, § 2(2), substituted “The Director shall be responsible for ensuring that the Administrator incorporates all relevant information received on a regular basis” for “The Director shall incorporate on a regular basis all relevant information received”.
+Subsec. (b). Pub. L. 98–169, § 2(2), substituted “The Director shall be responsible for ensuring that the Administrator incorporates all relevant information received on a regular basis” for “The Director shall incorporate on a regular basis all relevant information received”.
 
-Subsec. (c). Pub. L. 98–169, § 2(3), substituted “Administrator” for “Director”.
+Subsec. (c). Pub. L. 98–169, § 2(3), substituted “Administrator” for “Director”.
 
-Subsec. (c)(3). Pub. L. 98–169, § 2(4), added par. (3).
+Subsec. (c)(3). Pub. L. 98–169, § 2(4), added par. (3).
 
-Subsec. (c)(4). Pub. L. 98–169, § 3(c), added par. (4).
+Subsec. (c)(4). Pub. L. 98–169, § 3(c), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1110,7 +1110,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(4) of this
 
 **Findings**
 
-Pub. L. 117–219, § 2, Dec. 5, 2022, 136 Stat. 2271, provided that:
+Pub. L. 117–219, § 2, Dec. 5, 2022, 136 Stat. 2271, provided that:
 
 > “Congress finds the following:
 
@@ -1130,7 +1130,7 @@ Pub. L. 117–219, § 2, Dec. 5, 2022, 136 Stat. 2271, provided that:
 
 **Purpose of Pub. L. 117–219**
 
-Pub. L. 117–219, § 3, Dec. 5, 2022, 136 Stat. 2272, provided that:
+Pub. L. 117–219, § 3, Dec. 5, 2022, 136 Stat. 2272, provided that:
 
 > “This [sic] purpose of this Act [see Short Title of 2022 Amendment note set out under section 6101 of this title] is to ensure—
 
@@ -1142,7 +1142,7 @@ Pub. L. 117–219, § 3, Dec. 5, 2022, 136 Stat. 2272, provided that:
 
 **Content Requirements**
 
-Pub. L. 117–219, § 6(b), Dec. 5, 2022, 136 Stat. 2273, provided that:
+Pub. L. 117–219, § 6(b), Dec. 5, 2022, 136 Stat. 2273, provided that:
 
 > “In collecting and reviewing the information required under section 6102(a)(2)(G) of title 31, United States Code, as amended by subsection (a) of this section, the Director shall include as standardized categories—
 
@@ -1170,7 +1170,7 @@ Pub. L. 117–219, § 6(b), Dec. 5, 2022, 136 Stat. 2273, provided that:
 
 **Accessibility Requirements**
 
-Pub. L. 117–219, § 6(c), Dec. 5, 2022, 136 Stat. 2273, provided that:
+Pub. L. 117–219, § 6(c), Dec. 5, 2022, 136 Stat. 2273, provided that:
 
 > “The Director shall ensure that the information collected and reviewed under section 6102(a)(2)(G) of title 31, United States Code, as amended by subsection (a) of this section, shall be—
 
@@ -1186,15 +1186,15 @@ Pub. L. 117–219, § 6(c), Dec. 5, 2022, 136 Stat. 2273, provided that:
 
 **Implementation Timeline**
 
-Pub. L. 117–219, § 6(d), Dec. 5, 2022, 136 Stat. 2274, provided that: “The requirements of this section [amending this section and enacting provisions set out as notes under this section] shall be fully implemented not later than 2 years after the date of enactment of this Act [Dec. 5, 2022].”
+Pub. L. 117–219, § 6(d), Dec. 5, 2022, 136 Stat. 2274, provided that: “The requirements of this section [amending this section and enacting provisions set out as notes under this section] shall be fully implemented not later than 2 years after the date of enactment of this Act [Dec. 5, 2022].”
 
 **Consolidated Federal Funds Report**
 
-Pub. L. 97–326, Oct. 15, 1982, 96 Stat. 1607, as amended by Pub. L. 97–452, § 4(b), Jan. 12, 1983, 96 Stat. 2480, known as the “Consolidated Federal Funds Report Act of 1982”, which required the Director of the Office of Management and Budget to prepare Consolidated Federal Funds Reports for the fiscal years 1981 through 1985, was repealed by Pub. L. 99–547, § 2(d), Oct. 27, 1986, 100 Stat. 3060, effective May 1, 1986.
+Pub. L. 97–326, Oct. 15, 1982, 96 Stat. 1607, as amended by Pub. L. 97–452, § 4(b), Jan. 12, 1983, 96 Stat. 2480, known as the “Consolidated Federal Funds Report Act of 1982”, which required the Director of the Office of Management and Budget to prepare Consolidated Federal Funds Reports for the fiscal years 1981 through 1985, was repealed by Pub. L. 99–547, § 2(d), Oct. 27, 1986, 100 Stat. 3060, effective May 1, 1986.
 
 **Definitions**
 
-Pub. L. 117–219, § 4, Dec. 5, 2022, 136 Stat. 2272, provided that:
+Pub. L. 117–219, § 4, Dec. 5, 2022, 136 Stat. 2272, provided that:
 
 > “In this Act [see Short Title of 2022 Amendment note set out under section 6101 of this title]:
 
@@ -1210,7 +1210,7 @@ Pub. L. 117–219, § 4, Dec. 5, 2022, 136 Stat. 2272, provided that:
 
 > **“(6) Open government data asset.—** The term ‘open Government data asset’ has the meaning given the term in section 3502 of title 44, United States Code.”
 
-## § 6102a. Assistance awards information system
+## § 6102a. Assistance awards information system
 
 **(a)** The Director shall—
 
@@ -1228,13 +1228,13 @@ Pub. L. 117–219, § 4, Dec. 5, 2022, 136 Stat. 2272, provided that:
 
 **(c)** The Director shall transmit promptly after the end of each calendar quarter, free of charge, the data in the system required by subsection (a) to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
 
-(Added Pub. L. 97–452, § 1(23)(A), Jan. 12, 1983, 96 Stat. 2477; amended Pub. L. 98–169, § 1(2), Nov. 29, 1983, 97 Stat. 1113; Pub. L. 99–547, § 2(b)(1), Oct. 27, 1986, 100 Stat. 3060; Pub. L. 104–186, title II, § 219(b)(2), Aug. 20, 1996, 110 Stat. 1748.)
+(Added Pub. L. 97–452, § 1(23)(A), Jan. 12, 1983, 96 Stat. 2477; amended Pub. L. 98–169, § 1(2), Nov. 29, 1983, 97 Stat. 1113; Pub. L. 99–547, § 2(b)(1), Oct. 27, 1986, 100 Stat. 3060; Pub. L. 104–186, title II, § 219(b)(2), Aug. 20, 1996, 110 Stat. 1748.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6102a | 31 App.:6102(note). | Oct. 15, 1982, Pub. L. 97–326, § 8, 96 Stat. 1609. |
+| 6102a | 31 App.:6102(note). | Oct. 15, 1982, Pub. L. 97–326, § 8, 96 Stat. 1609. |
 
 In subsection (a)(1), the words “operate and” are omitted as surplus. The words “United States Government” are substituted for “Federal” for consistency in the revised title and with other titles of the United States Code. The words “information system” are substituted for “data system” for consistency with 31:6102. The words “by the Director” are omitted as surplus.
 
@@ -1246,7 +1246,7 @@ In subsection (b)(2), the words “the head of” are added for consistency in t
 
 **References in Text**
 
-Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1), is section 9 of Pub. L. 95–220, Dec. 28, 1977, 91 Stat. 1617, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
+Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1), is section 9 of Pub. L. 95–220, Dec. 28, 1977, 91 Stat. 1617, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 **Amendments**
 
@@ -1262,7 +1262,7 @@ Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1),
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-## § 6103. Access to computer information system
+## § 6103. Access to computer information system
 
 **(a)** The Administrator shall maintain a computerized information system providing access to—
 
@@ -1280,13 +1280,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **(3)** associated services.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1002; Pub. L. 98–169, §§ 1(2), 3(d), 4, Nov. 29, 1983, 97 Stat. 1113, 1114.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1002; Pub. L. 98–169, §§ 1(2), 3(d), 4, Nov. 29, 1983, 97 Stat. 1113, 1114.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6103 | 31:1704(a)–(c). | Dec. 28, 1977, Pub. L. 95–220, § 5(a)–(c), 91 Stat. 1616. |
+| 6103 | 31:1704(a)–(c). | Dec. 28, 1977, Pub. L. 95–220, § 5(a)–(c), 91 Stat. 1616. |
 
 In subsection (a), the words “establish and” are omitted as surplus. The word “information” is substituted for “data base” for consistency. The words “described in section 6102 of this title” are added for clarity.
 
@@ -1298,13 +1298,13 @@ In subsection (c), the words “notwithstanding another provision of law to the 
 
 **Amendments**
 
-1983—Subsec. (a). Pub. L. 98–169, § 3(d), amended subsec. (a) generally, substituting provisions requiring the Administrator to maintain a computerized information system providing access to the information described in section 6102(a)(1), (2), (5), (6), and (7) of this title and such portions or summaries, as the Administrator considers appropriate, of the information described in section 6102(a)(3), (4) of this title for provisions requiring the Director to maintain a computerized information system providing access to the information described in section 6102 of this title.
+1983—Subsec. (a). Pub. L. 98–169, § 3(d), amended subsec. (a) generally, substituting provisions requiring the Administrator to maintain a computerized information system providing access to the information described in section 6102(a)(1), (2), (5), (6), and (7) of this title and such portions or summaries, as the Administrator considers appropriate, of the information described in section 6102(a)(3), (4) of this title for provisions requiring the Director to maintain a computerized information system providing access to the information described in section 6102 of this title.
 
-Pub. L. 98–169, § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
+Pub. L. 98–169, § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 
-Subsecs. (b), (c). Pub. L. 98–169, § 4, substituted “Administrator” for “Director” wherever appearing.
+Subsecs. (b), (c). Pub. L. 98–169, § 4, substituted “Administrator” for “Director” wherever appearing.
 
-## § 6104. Catalog of Federal domestic assistance programs
+## § 6104. Catalog of Federal domestic assistance programs
 
 **(a)** The Administrator shall prepare and publish each year a catalog of domestic assistance programs.
 
@@ -1342,13 +1342,13 @@ Subsecs. (b), (c). Pub. L. 98–169, § 4, substituted “Administrator” for
 
 **(7)** depository designated by the Administrator.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1002; Pub. L. 98–169, § 1(2), 3(e), 4, Nov. 29, 1983, 97 Stat. 1113, 1114.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1002; Pub. L. 98–169, § 1(2), 3(e), 4, Nov. 29, 1983, 97 Stat. 1113, 1114.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6104(a) | 31:1705(a). | Dec. 28, 1977, Pub. L. 95–220, § 6, 91 Stat. 1616. |
+| 6104(a) | 31:1705(a). | Dec. 28, 1977, Pub. L. 95–220, § 6, 91 Stat. 1616. |
 | 6104(b) | 31:1705(d). |  |
 | 6104(c) | 31:1705(b), (c). |  |
 | 6104(d) | 31:1705(e). |  |
@@ -1363,21 +1363,21 @@ In subsection (d), before clause (1), the text of 31:1705(e)(1) is omitted as un
 
 **Amendments**
 
-1983—Subsec. (a). Pub. L. 98–169, § 4, substituted “Administrator” for “Director”.
+1983—Subsec. (a). Pub. L. 98–169, § 4, substituted “Administrator” for “Director”.
 
-Pub. L. 98–169, § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
+Pub. L. 98–169, § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 
-Subsec. (b). Pub. L. 98–169, § 4, substituted “Administrator” for “Director” in provisions preceding par. (1).
+Subsec. (b). Pub. L. 98–169, § 4, substituted “Administrator” for “Director” in provisions preceding par. (1).
 
-Subsec. (b)(1). Pub. L. 98–169, § 3(e), amended par. (1) generally, substituting provisions requiring that the catalog contain all substantive information on domestic assistance programs that is in the system under section 6102(a)(1), (2), and (5)–(7) of this title, and such portions or summaries, as the Administrator considers appropriate, of information in the system under section 6102(a)(3), (4) of this title, at the time the catalog is prepared, for provision requiring that the catalog contain all such information in the system under section 6102(a) of this title at the time the catalog was prepared.
+Subsec. (b)(1). Pub. L. 98–169, § 3(e), amended par. (1) generally, substituting provisions requiring that the catalog contain all substantive information on domestic assistance programs that is in the system under section 6102(a)(1), (2), and (5)–(7) of this title, and such portions or summaries, as the Administrator considers appropriate, of information in the system under section 6102(a)(3), (4) of this title, at the time the catalog is prepared, for provision requiring that the catalog contain all such information in the system under section 6102(a) of this title at the time the catalog was prepared.
 
-Subsecs. (b)(2), (c), (d). Pub. L. 98–169, § 4, substituted “Administrator” for “Director” wherever appearing.
+Subsecs. (b)(2), (c), (d). Pub. L. 98–169, § 4, substituted “Administrator” for “Director” wherever appearing.
 
-## § 6105. Oversight responsibility of Director
+## § 6105. Oversight responsibility of Director
 
 The Director shall have oversight responsibility for the exercise of all authorities and responsibilities in this chapter not specifically assigned to the Director.
 
-(Added Pub. L. 98–169, § 5, Nov. 29, 1983, 97 Stat. 1115.)
+(Added Pub. L. 98–169, § 5, Nov. 29, 1983, 97 Stat. 1115.)
 
 **Editorial Notes**
 
@@ -1385,8 +1385,8 @@ The Director shall have oversight responsibility for the exercise of all authori
 
 A prior section 6105, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1002, related to authorization of appropriations to carry out this chapter, prior to repeal by section 5 of Pub. L. 98–169. See section 6106 of this title.
 
-## § 6106. Authorization of appropriations
+## § 6106. Authorization of appropriations
 
 After October 1, 1983, there may be appropriated to the Administrator such sums as may be necessary to carry out the responsibilities of this chapter.
 
-(Added Pub. L. 98–169, § 5, Nov. 29, 1983, 97 Stat. 1115.)
+(Added Pub. L. 98–169, § 5, Nov. 29, 1983, 97 Stat. 1115.)

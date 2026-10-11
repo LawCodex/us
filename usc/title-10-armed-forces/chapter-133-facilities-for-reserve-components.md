@@ -21,11 +21,11 @@ retrieved: 2026-10-11
 
 A prior chapter 133 was transferred to end of part V of subtitle E of this title and renumbered chapter 1803.
 
-## § 2231. Reference to chapter 1803
+## § 2231. Reference to chapter 1803
 
 Provisions of law relating to facilities for reserve components are set forth in chapter 1803 of this title (beginning with section 18231).
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1664(b)(11), Oct. 5, 1994, 108 Stat. 3011.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1664(b)(11), Oct. 5, 1994, 108 Stat. 3011.)
 
 **Editorial Notes**
 

@@ -19,47 +19,47 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–177, title VI, § 605(b), Mar. 9, 2006, 120 Stat. 255, added item 3056A.
+2006—Pub. L. 109–177, title VI, § 605(b), Mar. 9, 2006, 120 Stat. 255, added item 3056A.
 
-Pub. L. 109–162, title XI, § 1172(a), Jan. 5, 2006, 119 Stat. 3123, added item 3051.
+Pub. L. 109–162, title XI, § 1172(a), Jan. 5, 2006, 119 Stat. 3123, added item 3051.
 
-2005—Pub. L. 109–59, title IV, § 4143(c)(2), Aug. 10, 2005, 119 Stat. 1748, added item 3064.
+2005—Pub. L. 109–59, title IV, § 4143(c)(2), Aug. 10, 2005, 119 Stat. 1748, added item 3064.
 
-1996—Pub. L. 104–294, title VI, § 605(n), Oct. 11, 1996, 110 Stat. 3510, added item 3059B.
+1996—Pub. L. 104–294, title VI, § 605(n), Oct. 11, 1996, 110 Stat. 3510, added item 3059B.
 
-1994—Pub. L. 103–322, title XXXIII, § 330010(18), Sept. 13, 1994, 108 Stat. 2144, inserted a period at end of item 3059A.
+1994—Pub. L. 103–322, title XXXIII, § 330010(18), Sept. 13, 1994, 108 Stat. 2144, inserted a period at end of item 3059A.
 
-1990—Pub. L. 101–647, title XXXV, § 3570, Nov. 29, 1990, 104 Stat. 4928, struck out item 3054 “Officer’s powers involving animals and birds”.
+1990—Pub. L. 101–647, title XXXV, § 3570, Nov. 29, 1990, 104 Stat. 4928, struck out item 3054 “Officer’s powers involving animals and birds”.
 
-Pub. L. 101–647, title XXV, § 2587(b), Nov. 29, 1990, 104 Stat. 4905, as amended, effective as of date section 2587(b) of Pub. L. 101–647 took effect, by Pub. L. 103–322, title XXXIII, § 330011(a), Sept. 13, 1994, 108 Stat. 2144, added item 3059A.
+Pub. L. 101–647, title XXV, § 2587(b), Nov. 29, 1990, 104 Stat. 4905, as amended, effective as of date section 2587(b) of Pub. L. 101–647 took effect, by Pub. L. 103–322, title XXXIII, § 330011(a), Sept. 13, 1994, 108 Stat. 2144, added item 3059A.
 
-1988—Pub. L. 100–690, title VI, § 6251(b), Nov. 18, 1988, 102 Stat. 4362, substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in item 3061.
+1988—Pub. L. 100–690, title VI, § 6251(b), Nov. 18, 1988, 102 Stat. 4362, substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in item 3061.
 
-Pub. L. 100–582, § 4(b), Nov. 1, 1988, 102 Stat. 2959, added item 3063.
+Pub. L. 100–582, § 4(b), Nov. 1, 1988, 102 Stat. 2959, added item 3063.
 
-1984—Pub. L. 98–587, § 1(b), Oct. 30, 1984, 98 Stat. 3111, substituted “Powers, authorities, and duties of United States Secret Service” for “Secret Service powers” in item 3056.
+1984—Pub. L. 98–587, § 1(b), Oct. 30, 1984, 98 Stat. 3111, substituted “Powers, authorities, and duties of United States Secret Service” for “Secret Service powers” in item 3056.
 
-Pub. L. 98–473, title II, § 204(e), Oct. 12, 1984, 98 Stat. 1986, substituted “Repealed” for “Security of the peace and good behavior” in item 3043 and added item 3062.
+Pub. L. 98–473, title II, § 204(e), Oct. 12, 1984, 98 Stat. 1986, substituted “Repealed” for “Security of the peace and good behavior” in item 3043 and added item 3062.
 
-1970—Pub. L. 91–375, § 6(j)(38)(B), Aug. 12, 1970, 84 Stat. 782, substituted “postal personnel” for “postal inspectors” in item 3061.
+1970—Pub. L. 91–375, § 6(j)(38)(B), Aug. 12, 1970, 84 Stat. 782, substituted “postal personnel” for “postal inspectors” in item 3061.
 
-1968—Pub. L. 90–578, title III, § 303(b), Oct. 17, 1968, 82 Stat. 1118, struck out reference to “Rule” in item 3060.
+1968—Pub. L. 90–578, title III, § 303(b), Oct. 17, 1968, 82 Stat. 1118, struck out reference to “Rule” in item 3060.
 
-Pub. L. 90–560, § 5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
+Pub. L. 90–560, § 5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 
-1951—Act Oct. 31, 1951, ch. 655, § 56(f), 65 Stat. 729, struck out item 3051 “Extradition agent’s powers”.
+1951—Act Oct. 31, 1951, ch. 655, § 56(f), 65 Stat. 729, struck out item 3051 “Extradition agent’s powers”.
 
-## § 3041. Power of courts and magistrates
+## § 3041. Power of courts and magistrates
 
 For any offense against the United States, the offender may, by any justice or judge of the United States, or by any United States magistrate judge, or by any chancellor, judge of a supreme or superior court, chief or first judge of the common pleas, mayor of a city, justice of the peace, or other magistrate, of any state where the offender may be found, and at the expense of the United States, be arrested and imprisoned or released as provided in chapter 207 of this title, as the case may be, for trial before such court of the United States as by law has cognizance of the offense. Copies of the process shall be returned as speedily as may be into the office of the clerk of such court, together with the recognizances of the witnesses for their appearances to testify in the case.
 
 A United States judge or magistrate judge shall proceed under this section according to rules promulgated by the Supreme Court of the United States. Any state judge or magistrate acting hereunder may proceed according to the usual mode of procedure of his state but his acts and orders shall have no effect beyond determining, pursuant to the provisions of section 3142 of this title, whether to detain or conditionally release the prisoner prior to trial or to discharge him from arrest.
 
-(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 89–465, § 5(a), June 22, 1966, 80 Stat. 217; Pub. L. 90–578, title III, § 301(a)(1), (3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 98–473, title II, § 204(a), Oct. 12, 1984, 98 Stat. 1985; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 89–465, § 5(a), June 22, 1966, 80 Stat. 217; Pub. L. 90–578, title III, § 301(a)(1), (3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 98–473, title II, § 204(a), Oct. 12, 1984, 98 Stat. 1985; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 591 (R.S. § 1014; May 28, 1896, ch. 252, § 19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956).
+Based on title 18, U.S.C., 1940 ed., § 591 (R.S. § 1014; May 28, 1896, ch. 252, § 19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956).
 
 This section was completely rewritten to omit all provisions superseded by Federal Rules of Criminal Procedure, rules 3, 4, 5, 40 and 54(a) which prescribed the procedure for preliminary proceedings and examinations before United States judges and commissioners and for removal proceedings but not for preliminary examinations before State magistrates.
 
@@ -87,7 +87,7 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 Amendment by Pub. L. 89–465 effective ninety days after June 22, 1966, see section 6 of Pub. L. 89–465, set out as an Effective Date note under section 3146 of this title.
 
-## § 3042. Extraterritorial jurisdiction
+## § 3042. Extraterritorial jurisdiction
 
 Section 3041 of this title shall apply in any country where the United States exercises extraterritorial jurisdiction for the arrest and removal therefrom to the United States of any citizen or national of the United States who is a fugitive from justice charged with or convicted of the commission of any offense against the United States, and shall also apply throughout the United States for the arrest and removal therefrom to the jurisdiction of any officer or representative of the United States vested with judicial authority in any country in which the United States exercises extraterritorial jurisdiction, of any citizen or national of the United States who is a fugitive from justice charged with or convicted of the commission of any offense against the United States in any country where it exercises extraterritorial jurisdiction.
 
@@ -95,11 +95,11 @@ Such fugitive first mentioned may, by any officer or representative of the Unite
 
 Such marshal or other officer, or the deputies of such marshal or officer, when engaged in executing such warrant without the jurisdiction of the court to which they are attached, shall have all the powers of a marshal of the United States so far as such powers are requisite for the prisoner’s safekeeping and the execution of the warrant.
 
-(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 98–473, title II, § 204(b), Oct. 12, 1984, 98 Stat. 1985.)
+(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 98–473, title II, § 204(b), Oct. 12, 1984, 98 Stat. 1985.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 662b (Mar. 22, 1934, ch. 73, § 1, 48 Stat. 454).
+Based on title 18, U.S.C., 1940 ed., § 662b (Mar. 22, 1934, ch. 73, § 1, 48 Stat. 454).
 
 Words “crime or” before “offense” were omitted as unnecessary.
 
@@ -115,11 +115,11 @@ Minor changes were made in phraseology.
 
 1984—Pub. L. 98–473 substituted “detained or conditionally released pursuant to section 3142 of this title” for “imprisoned or admitted to bail”.
 
-## [§ 3043. Repealed. Pub. L. 98–473, title II, § 204(c), Oct. 12, 1984, 98 Stat. 1986]
+## [§ 3043. Repealed. Pub. L. 98–473, title II, § 204(c), Oct. 12, 1984, 98 Stat. 1986]
 
-Section, acts June 25, 1948, ch. 645, 62 Stat. 816; Oct. 17, 1968, Pub. L. 90–578, title III, § 301(a)(2), 82 Stat. 1115, related to authority of justices, judges, and magistrates to hold to security of the peace and for good behavior. See section 3142 of this title.
+Section, acts June 25, 1948, ch. 645, 62 Stat. 816; Oct. 17, 1968, Pub. L. 90–578, title III, § 301(a)(2), 82 Stat. 1115, related to authority of justices, judges, and magistrates to hold to security of the peace and for good behavior. See section 3142 of this title.
 
-## § 3044. Complaint—(Rule)
+## § 3044. Complaint—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -127,15 +127,15 @@ Contents of complaint; oath, Rule 3.
 
 (June 25, 1948, ch. 645, 62 Stat. 816.)
 
-## § 3045. Internal revenue violations
+## § 3045. Internal revenue violations
 
 Warrants of arrest for violations of internal revenue laws may be issued by United States magistrate judges upon the complaint of a United States attorney, assistant United States attorney, collector, or deputy collector of internal revenue or revenue agent, or private citizen; but no such warrant of arrest shall be issued upon the complaint of a private citizen unless first approved in writing by a United States attorney.
 
-(June 25, 1948, ch. 645, 62 Stat. 816; Pub. L. 90–578, title III, § 301(a)(2), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 816; Pub. L. 90–578, title III, § 301(a)(2), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 594 (May 28, 1896, ch. 252, § 19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956).
+Based on title 18, U.S.C., 1940 ed., § 594 (May 28, 1896, ch. 252, § 19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956).
 
 Minor changes were made in phraseology.
 
@@ -159,9 +159,9 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 **Abolition of Offices of Collector and Deputy Collector of Internal Revenue**
 
-Offices of Collector and Deputy Collector of Internal Revenue abolished by Reorg. Plan No. 1 of 1952, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and the offices of “district commissioner of internal revenue”, and so many other offices, with titles to be determined by Secretary of the Treasury, were established by section 2(a) of the Plan.
+Offices of Collector and Deputy Collector of Internal Revenue abolished by Reorg. Plan No. 1 of 1952, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and the offices of “district commissioner of internal revenue”, and so many other offices, with titles to be determined by Secretary of the Treasury, were established by section 2(a) of the Plan.
 
-## § 3046. Warrant or summons—(Rule)
+## § 3046. Warrant or summons—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -173,7 +173,7 @@ Summons on request of government; form; contents; service; return, Rules 4, 9.
 
 (June 25, 1948, ch. 645, 62 Stat. 816.)
 
-## § 3047. Multiple warrants unnecessary
+## § 3047. Multiple warrants unnecessary
 
 When two or more charges are made, or two or more indictments are found against any person, only one writ or warrant shall be necessary to commit him for trial. It shall be sufficient to state in the writ the name or general character of the offenses, or to refer to them only in general terms.
 
@@ -181,17 +181,17 @@ When two or more charges are made, or two or more indictments are found against 
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 602 (R.S. § 1027).
+Based on title 18, U.S.C., 1940 ed., § 602 (R.S. § 1027).
 
 Minor changes were made in phraseology.
 
-## § 3048. Commitment to another district; removal—(Rule)
+## § 3048. Commitment to another district; removal—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
 Arrest in nearby or distant districts; informative statement by judge or magistrate judge; hearing and removal; warrant; Rule 40.
 
-(June 25, 1948, ch. 645, 62 Stat. 817; Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 817; Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -205,7 +205,7 @@ Arrest in nearby or distant districts; informative statement by judge or magistr
 
 Words “magistrate judge” substituted for “magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3049. Warrant for removal
+## § 3049. Warrant for removal
 
 Only one writ or warrant is necessary to remove a prisoner from one district to another. One copy thereof may be delivered to the sheriff or jailer from whose custody the prisoner is taken, and another to the sheriff or jailer to whose custody he is committed, and the original writ, with the marshal’s return thereon, shall be returned to the clerk of the district to which he is removed.
 
@@ -213,9 +213,9 @@ Only one writ or warrant is necessary to remove a prisoner from one district to 
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 604 (R.S. § 1029).
+Based on title 18, U.S.C., 1940 ed., § 604 (R.S. § 1029).
 
-## § 3050. Bureau of Prisons employees’ powers
+## § 3050. Bureau of Prisons employees’ powers
 
 An officer or employee of the Bureau of Prisons may—
 
@@ -227,11 +227,11 @@ An officer or employee of the Bureau of Prisons may—
 
 if such officer or employee has reasonable grounds to believe that the arrested person is guilty of such offense, and if there is likelihood of such person’s escaping before an arrest warrant can be obtained. If the arrested person is a fugitive from custody, such prisoner shall be returned to custody. Officers and employees of the said Bureau of Prisons may carry firearms under such rules and regulations as the Attorney General may prescribe.
 
-(June 25, 1948, ch. 645, 62 Stat. 817; Pub. L. 99–646, § 65, Nov. 10, 1986, 100 Stat. 3615.)
+(June 25, 1948, ch. 645, 62 Stat. 817; Pub. L. 99–646, § 65, Nov. 10, 1986, 100 Stat. 3615.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 753k (June 29, 1940, ch. 449, § 5, 54 Stat. 693).
+Based on title 18, U.S.C., 1940 ed., § 753k (June 29, 1940, ch. 449, § 5, 54 Stat. 693).
 
 Section was broadened to include authority to make arrests for mutiny, riot or traffic in dangerous instrumentalities, by reference to section 1792 of this title.
 
@@ -247,9 +247,9 @@ Minor changes were made in phraseology and provision for taking arrested person 
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 3051. Powers of Special Agents 1 [footnote: 1 So in original. The words “Special Agents” probably should not be capitalized.] of Bureau of Alcohol, Tobacco, Firearms, and Explosives
+## § 3051. Powers of Special Agents 1 [footnote: 1 So in original. The words “Special Agents” probably should not be capitalized.] of Bureau of Alcohol, Tobacco, Firearms, and Explosives
 
 **(a)** Special agents of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, as well as any other investigator or officer charged by the Attorney General with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of the laws of the United States, may carry firearms, serve warrants and subpoenas issued under the authority of the United States and make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 
@@ -273,7 +273,7 @@ shall apply to seizures and forfeitures incurred, or alleged to have been incurr
 
 **(3)** Notwithstanding any other provision of law, the disposition of firearms forfeited by reason of a violation of any law of the United States shall be governed by the provisions of section 5872(b) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 107–296, title XI, § 1113, Nov. 25, 2002, 116 Stat. 2279.)
+(Added Pub. L. 107–296, title XI, § 1113, Nov. 25, 2002, 116 Stat. 2279.)
 
 **Editorial Notes**
 
@@ -283,7 +283,7 @@ Section 5872(b) of the Internal Revenue Code of 1986, referred to in subsec. (c)
 
 **Prior Provisions**
 
-A prior section 3051, act June 25, 1948, ch. 645, § 1, 62 Stat. 817, related to powers of extradition agents, prior to repeal by act Oct. 31, 1951, ch. 655, § 56(f), 65 Stat. 729. Substantially identical provisions are contained in section 3193 of this title.
+A prior section 3051, act June 25, 1948, ch. 645, § 1, 62 Stat. 817, related to powers of extradition agents, prior to repeal by act Oct. 31, 1951, ch. 655, § 56(f), 65 Stat. 729. Substantially identical provisions are contained in section 3193 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -291,11 +291,11 @@ A prior section 3051, act June 25, 1948, ch. 645, § 1, 62 Stat. 817, related 
 
 Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under section 101 of Title 6, Domestic Security.
 
-## § 3052. Powers of Federal Bureau of Investigation
+## § 3052. Powers of Federal Bureau of Investigation
 
 The Director, Associate Director, Assistant to the Director, Assistant Directors, inspectors, and agents of the Federal Bureau of Investigation of the Department of Justice may carry firearms, serve warrants and subpoenas issued under the authority of the United States and make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 
-(June 25, 1948, ch. 645, 62 Stat. 817; Jan. 10, 1951, ch. 1221, § 1, 64 Stat. 1239.)
+(June 25, 1948, ch. 645, 62 Stat. 817; Jan. 10, 1951, ch. 1221, § 1, 64 Stat. 1239.)
 
 **Historical and Revision Notes**
 
@@ -315,9 +315,9 @@ Minor changes were made in phraseology particularly with respect to omission of 
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 3053. Powers of marshals and deputies
+## § 3053. Powers of marshals and deputies
 
 United States marshals and their deputies may carry firearms and may make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 
@@ -325,7 +325,7 @@ United States marshals and their deputies may carry firearms and may make arrest
 
 **Historical and Revision Notes**
 
-Based on section 504a of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 15, 1935, ch. 259, § 2, 49 Stat. 378).
+Based on section 504a of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 15, 1935, ch. 259, § 2, 49 Stat. 378).
 
 Minor changes were made in phraseology.
 
@@ -333,13 +333,13 @@ Minor changes were made in phraseology.
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## [§ 3054. Repealed. Pub. L. 97–79, § 9(b)(3), Nov. 16, 1981, 95 Stat. 1079]
+## [§ 3054. Repealed. Pub. L. 97–79, § 9(b)(3), Nov. 16, 1981, 95 Stat. 1079]
 
-Section, acts June 25, 1948, ch. 645, 62 Stat. 817; Dec. 5, 1969, Pub. L. 91–135, § 7(b), 83 Stat. 281, provided for an officer’s power to act in enforcing sections 42, 43, and 44 of this title relating to animals and birds. See section 3375 of Title 16, Conservation.
+Section, acts June 25, 1948, ch. 645, 62 Stat. 817; Dec. 5, 1969, Pub. L. 91–135, § 7(b), 83 Stat. 281, provided for an officer’s power to act in enforcing sections 42, 43, and 44 of this title relating to animals and birds. See section 3375 of Title 16, Conservation.
 
-## § 3055. Officers’ powers to suppress Indian liquor traffic
+## § 3055. Officers’ powers to suppress Indian liquor traffic
 
 The chief special officer for the suppression of the liquor traffic among Indians and duly authorized officers working under his supervision whose appointments are made or affirmed by the Commissioner of Indian Affairs or the Secretary of the Interior may execute all warrants of arrest and other lawful precepts issued under the authority of the United States and in the execution of his duty he may command all necessary assistance.
 
@@ -347,11 +347,11 @@ The chief special officer for the suppression of the liquor traffic among Indian
 
 **Historical and Revision Notes**
 
-Based on section 250 of title 25, U.S.C., 1940 ed., Indians (Aug. 24, 1912, ch. 388, § 1, 37 Stat. 519).
+Based on section 250 of title 25, U.S.C., 1940 ed., Indians (Aug. 24, 1912, ch. 388, § 1, 37 Stat. 519).
 
 The only change was to delete the words at the beginning of the section, “The powers conferred by section 504 of title 28 upon marshals and their deputies are conferred upon.” and the addition, at the end of the section, of the phrase expressing such powers beginning with the words “may execute all warrants”.
 
-## § 3056. Powers, authorities, and duties of United States Secret Service
+## § 3056. Powers, authorities, and duties of United States Secret Service
 
 **(a)** Under the direction of the Secretary of Homeland Security, the United States Secret Service is authorized to protect the following persons:
 
@@ -377,7 +377,7 @@ The protection authorized in paragraphs (2) through (8) may be declined.
 
 **(1)** section 508, 509, 510, 871, or 879 of this title or, with respect to the Federal Deposit Insurance Corporation, Federal land banks, and Federal land bank associations, section 213, 216,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, or 1909 of this title;
 
@@ -419,11 +419,11 @@ The protection authorized in paragraphs (2) through (8) may be declined.
 
 **(g)** The United States Secret Service shall be maintained as a distinct entity within the Department of Homeland Security and shall not be merged with any other Department function. No personnel and operational elements of the United States Secret Service shall report to an individual other than the Director of the United States Secret Service, who shall report directly to the Secretary of Homeland Security without being required to report through any other official of the Department.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, § 4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, § 2, 68 Stat. 999; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, § 3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, § 1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, § 19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, § 4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, § 8, July 12, 1974, as added Pub. L. 93–552, title VI, § 609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, § 2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, § 3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, § 2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, § 115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, § 1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, § 530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, § 605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, § 3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, § 506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, § 1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, § 322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§ 604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256; Pub. L. 110–326, title I, § 102, Sept. 26, 2008, 122 Stat. 3560; Pub. L. 112–257, § 2, Jan. 10, 2013, 126 Stat. 2413; Pub. L. 115–393, title II, § 203, Dec. 21, 2018, 132 Stat. 5271; Pub. L. 117–286, § 4(a)(135), Dec. 27, 2022, 136 Stat. 4320.)
+(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, § 4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, § 2, 68 Stat. 999; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, § 3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, § 1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, § 19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, § 4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, § 8, July 12, 1974, as added Pub. L. 93–552, title VI, § 609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, § 2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, § 3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, § 2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, § 115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, § 1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, § 530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, § 605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, § 3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, § 506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, § 1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, § 322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§ 604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256; Pub. L. 110–326, title I, § 102, Sept. 26, 2008, 122 Stat. 3560; Pub. L. 112–257, § 2, Jan. 10, 2013, 126 Stat. 2413; Pub. L. 115–393, title II, § 203, Dec. 21, 2018, 132 Stat. 5271; Pub. L. 117–286, § 4(a)(135), Dec. 27, 2022, 136 Stat. 4320.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 148, and on sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 12B, subsection (x), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178; July 17, 1916, ch. 245, § 31, sixth paragraph, 39 Stat. 382 (384); Dec. 11, 1926, ch. 2, § 3, 44 Stat. 918; Aug. 23, 1935, ch. 614, § 101, 49 Stat. 684, 703).
+Based on title 18, U.S.C., 1940 ed., § 148, and on sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 12B, subsection (x), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178; July 17, 1916, ch. 245, § 31, sixth paragraph, 39 Stat. 382 (384); Dec. 11, 1926, ch. 2, § 3, 44 Stat. 918; Aug. 23, 1935, ch. 614, § 101, 49 Stat. 684, 703).
 
 Section consolidates said section 148 of title 18, U.S.C., 1940 ed., and said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking.
 
@@ -441,7 +441,7 @@ Changes were made in phraseology.
 
 **References in Text**
 
-Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, § 1107(b), Oct. 12, 1984, 98 Stat. 2146.
+Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, § 1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 **Amendments**
 
@@ -449,19 +449,19 @@ Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L
 
 2018—Subsec. (f). Pub. L. 115–393 inserted “in conjunction with an investigation” after “local law enforcement agency” and struck out before period at end “in support of any investigation involving missing or exploited children”.
 
-2013—Subsec. (a)(3). Pub. L. 112–257, § 2(a), struck out provisions limiting protection for certain former Presidents and their spouses to ten years from the date a former President leaves office, with certain exceptions, and authorizing the provision of temporary protection if determined to be warranted by the Secretary of Homeland Security.
+2013—Subsec. (a)(3). Pub. L. 112–257, § 2(a), struck out provisions limiting protection for certain former Presidents and their spouses to ten years from the date a former President leaves office, with certain exceptions, and authorizing the provision of temporary protection if determined to be warranted by the Secretary of Homeland Security.
 
-Subsec. (a)(4). Pub. L. 112–257, § 2(b), struck out “for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first” after “16 years of age”.
+Subsec. (a)(4). Pub. L. 112–257, § 2(b), struck out “for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first” after “16 years of age”.
 
-2008—Subsec. (a). Pub. L. 110–326, § 102(2), substituted “(8)” for “(7)” in concluding provisions.
+2008—Subsec. (a). Pub. L. 110–326, § 102(2), substituted “(8)” for “(7)” in concluding provisions.
 
-Subsec. (a)(8). Pub. L. 110–326, § 102(1), added par. (8).
+Subsec. (a)(8). Pub. L. 110–326, § 102(1), added par. (8).
 
-2006—Subsec. (a)(7). Pub. L. 109–177, § 608(a), which directed amendment of subsec. (a)(7) by inserting “The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).” after “other members of the Committee.”, was executed by making the insertion after “other members of the committee.”, to reflect the probable intent of Congress.
+2006—Subsec. (a)(7). Pub. L. 109–177, § 608(a), which directed amendment of subsec. (a)(7) by inserting “The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).” after “other members of the Committee.”, was executed by making the insertion after “other members of the committee.”, to reflect the probable intent of Congress.
 
-Subsec. (f). Pub. L. 109–177, § 604, substituted “the Secret Service is” for “officers and agents of the Secret Service are”.
+Subsec. (f). Pub. L. 109–177, § 604, substituted “the Secret Service is” for “officers and agents of the Secret Service are”.
 
-Subsec. (g). Pub. L. 109–177, § 607, added subsec. (g).
+Subsec. (g). Pub. L. 109–177, § 607, added subsec. (g).
 
 2003—Subsec. (f). Pub. L. 108–21 added subsec. (f).
 
@@ -473,7 +473,7 @@ Subsec. (g). Pub. L. 109–177, § 607, added subsec. (g).
 
 1996—Subsec. (a)(3). Pub. L. 104–294 redesignated subpars. (1) and (2) as (A) and (B), respectively, and realigned margins.
 
-1994—Subsec. (a)(3). Pub. L. 103–329, § 530(a), inserted before period at end “unless the former President did not serve as President prior to January 1, 1997, in which case, former Presidents and their spouses for a period of not more than ten years from the date a former President leaves office, except that—
+1994—Subsec. (a)(3). Pub. L. 103–329, § 530(a), inserted before period at end “unless the former President did not serve as President prior to January 1, 1997, in which case, former Presidents and their spouses for a period of not more than ten years from the date a former President leaves office, except that—
 
 “(1) protection of a spouse shall terminate in the event of remarriage or the divorce from, or death of a former President; and
 
@@ -481,19 +481,19 @@ Subsec. (g). Pub. L. 109–177, § 607, added subsec. (g).
 
 *Provided*, That the Secretary of the Treasury shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time if the Secretary of the Treasury or designee determines that information or conditions warrant such protection”.
 
-Subsec. (a)(4). Pub. L. 103–329, § 530(b), inserted before period at end “for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first”.
+Subsec. (a)(4). Pub. L. 103–329, § 530(b), inserted before period at end “for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first”.
 
 1984—Pub. L. 98–587 amended section generally, providing authority for the Secret Service to conduct criminal investigations of, make arrests in, and present for prosecutorial consideration, cases relating to electronic fund transfer frauds, and providing the Secret Service with authority to conduct investigations and make arrests relating to credit and debit card frauds, and false identification documents and devices, to be exercised subject to the agreement of the Attorney General and the Secretary of the Treasury.
 
 1983—Subsec. (a). Pub. L. 98–151 inserted reference to section 510 of this section in fifth clause.
 
-1982—Subsec. (a). Pub. L. 97–297, § 3(1), substituted “871, and 879 of this title” for “and 871 of this title”.
+1982—Subsec. (a). Pub. L. 97–297, § 3(1), substituted “871, and 879 of this title” for “and 871 of this title”.
 
-Pub. L. 97–297, § 3(2), substituted “and Federal land bank associations are concerned, of sections 213, 216” for “, joint-stock land banks and Federal land bank associations are concerned, of sections 218, 221”.
+Pub. L. 97–297, § 3(2), substituted “and Federal land bank associations are concerned, of sections 213, 216” for “, joint-stock land banks and Federal land bank associations are concerned, of sections 218, 221”.
 
 Subsec. (b). Pub. L. 97–308 increased the limitation on fines to $1,000 from $300.
 
-1976—Subsec. (a). Pub. L. 94–408 substituted “, and the members of their immediate families unless the members decline such protection;” for “; protect the members of the immediate family of the Vice-President, unless such protection is declined;”.
+1976—Subsec. (a). Pub. L. 94–408 substituted “, and the members of their immediate families unless the members decline such protection;” for “; protect the members of the immediate family of the Vice-President, unless such protection is declined;”.
 
 Subsec. (b). Pub. L. 94–408 inserted reference to other Federal law enforcement agents.
 
@@ -523,15 +523,15 @@ Pub. L. 87–791 required moneys expended from Secret Service appropriations for
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–326, title I, § 103, Sept. 26, 2008, 122 Stat. 3560, provided that: “The amendments made by this Act [probably should be “title”, meaning title I of Pub. L. 110–326, which amended this section and enacted provisions set out as a note under section 1 of this title] shall apply with respect to any Vice President holding office on or after the date of enactment of the Act [Sept. 26, 2008].”
+Pub. L. 110–326, title I, § 103, Sept. 26, 2008, 122 Stat. 3560, provided that: “The amendments made by this Act [probably should be “title”, meaning title I of Pub. L. 110–326, which amended this section and enacted provisions set out as a note under section 1 of this title] shall apply with respect to any Vice President holding office on or after the date of enactment of the Act [Sept. 26, 2008].”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–296, title XVII, § 1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made by this section [amending this section and former sections 202 and 208 of Title 3, The President] shall take effect on the date of transfer of the United States Secret Service to the Department [of Homeland Security].”
+Pub. L. 107–296, title XVII, § 1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made by this section [amending this section and former sections 202 and 208 of Title 3, The President] shall take effect on the date of transfer of the United States Secret Service to the Department [of Homeland Security].”
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–552, title VI, § 609(b), Dec. 27, 1974, 88 Stat. 1765, provided that: “Except as otherwise provided therein, the amendment made by subsection (a) of this section [amending this section, former section 202 of Title 3, The President, and provisions set out as a note under section 111 of Title 3] shall become effective July 12, 1974.”
+Pub. L. 93–552, title VI, § 609(b), Dec. 27, 1974, 88 Stat. 1765, provided that: “Except as otherwise provided therein, the amendment made by subsection (a) of this section [amending this section, former section 202 of Title 3, The President, and provisions set out as a note under section 111 of Title 3] shall become effective July 12, 1974.”
 
 **Effective Date of 1959 Amendment**
 
@@ -561,7 +561,7 @@ Pub. L. 118–91, Oct. 1, 2024, 138 Stat. 1560, provided that:
 
 > “In this Act, the term ‘major Presidential and Vice Presidential candidates’ has the meaning given such term in section 3056 of title 18, United States Code, and includes any other Presidential or Vice Presidential candidate for whom the President has otherwise authorized the Secret Service to protect.”
 
-Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended by Pub. L. 99–190, § 143, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 101–136, title V, § 527, Nov. 3, 1989, 103 Stat. 815; Pub. L. 101–509, title V, § 531(a), Nov. 5, 1990, 104 Stat. 1469; Pub. L. 102–141, title V, § 533, Oct. 28, 1991, 105 Stat. 867; Pub. L. 104–52, title V, § 529, Nov. 19, 1995, 109 Stat. 496; Pub. L. 104–316, title I, § 109(a), Oct. 19, 1996, 110 Stat. 3832, provided:
+Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended by Pub. L. 99–190, § 143, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 101–136, title V, § 527, Nov. 3, 1989, 103 Stat. 815; Pub. L. 101–509, title V, § 531(a), Nov. 5, 1990, 104 Stat. 1469; Pub. L. 102–141, title V, § 533, Oct. 28, 1991, 105 Stat. 867; Pub. L. 104–52, title V, § 529, Nov. 19, 1995, 109 Stat. 496; Pub. L. 104–316, title I, § 109(a), Oct. 19, 1996, 110 Stat. 3832, provided:
 
 > “That this Act may be cited as the ‘Presidential Protection Assistance Act of 1976’.
 
@@ -641,7 +641,7 @@ Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended by Pub. L. 99–190, 
 
 **Use of Funds for United States Secret Service Protection**
 
-Pub. L. 109–295, title V, § 517(b), Oct. 4, 2006, 120 Stat. 1380, as amended by Pub. L. 110–161, div. E, title V, § 517, Dec. 26, 2007, 121 Stat. 2073, provided that: “For fiscal year 2008, and each fiscal year thereafter, the Director of the United States Secret Service may enter into an agreement to perform protection of a Federal official other than a person granted protection under section 3056(a) of title 18, United States Code, on a fully reimbursable basis.”
+Pub. L. 109–295, title V, § 517(b), Oct. 4, 2006, 120 Stat. 1380, as amended by Pub. L. 110–161, div. E, title V, § 517, Dec. 26, 2007, 121 Stat. 2073, provided that: “For fiscal year 2008, and each fiscal year thereafter, the Director of the United States Secret Service may enter into an agreement to perform protection of a Federal official other than a person granted protection under section 3056(a) of title 18, United States Code, on a fully reimbursable basis.”
 
 **Funds for Training**
 
@@ -649,11 +649,11 @@ Pub. L. 108–90, title II, Oct. 1, 2003, 117 Stat. 1145, provided in part: “T
 
 **Expansion of National Electronic Crime Task Force Initiative**
 
-Pub. L. 107–56, title I, § 105, Oct. 26, 2001, 115 Stat. 277, as amended by Pub. L. 109–177, title VI, § 608(b), Mar. 9, 2006, 120 Stat. 256; Pub. L. 117–286, § 4(a)(136), Dec. 27, 2022, 136 Stat. 4320, provided that: “The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems. The electronic crimes task forces shall not be subject to chapter 10 of title 5, United States Code.”
+Pub. L. 107–56, title I, § 105, Oct. 26, 2001, 115 Stat. 277, as amended by Pub. L. 109–177, title VI, § 608(b), Mar. 9, 2006, 120 Stat. 256; Pub. L. 117–286, § 4(a)(136), Dec. 27, 2022, 136 Stat. 4320, provided that: “The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems. The electronic crimes task forces shall not be subject to chapter 10 of title 5, United States Code.”
 
 **National Threat Assessment Center**
 
-Pub. L. 106–544, § 4, Dec. 19, 2000, 114 Stat. 2716, provided that:
+Pub. L. 106–544, § 4, Dec. 19, 2000, 114 Stat. 2716, provided that:
 
 > **“(a) Establishment.—** The United States Secret Service (hereafter in this section referred to as the ‘Service’), at the direction of the Secretary of the Treasury, may establish the National Threat Assessment Center (hereafter in this section referred to as the ‘Center’) as a unit within the Service.
 
@@ -675,25 +675,25 @@ Pub. L. 106–544, § 4, Dec. 19, 2000, 114 Stat. 2716, provided that:
 
 **Telecommunications Support to United States Secret Service by White House Communications Agency**
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8100], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, § 2, Nov. 9, 1999, 113 Stat. 1309, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service’s duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President’s Residence at the Naval Observatory.”
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8100], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, § 2, Nov. 9, 1999, 113 Stat. 1309, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service’s duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President’s Residence at the Naval Observatory.”
 
 **Off-Set of Costs of Protecting Former Presidents and Spouses**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 509], Sept. 30, 1996, 110 Stat. 3009–314, 3009–345, provided that: “The United States Secret Service may, during the fiscal year ending September 30, 1997, and hereafter, accept donations of money to off-set costs incurred while protecting former Presidents and spouses of former Presidents when the former President or spouse travels for the purpose of making an appearance or speech for a payment of money or any thing of value.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 509], Sept. 30, 1996, 110 Stat. 3009–314, 3009–345, provided that: “The United States Secret Service may, during the fiscal year ending September 30, 1997, and hereafter, accept donations of money to off-set costs incurred while protecting former Presidents and spouses of former Presidents when the former President or spouse travels for the purpose of making an appearance or speech for a payment of money or any thing of value.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-Pub. L. 104–52, title V, § 509, Nov. 19, 1995, 109 Stat. 492.
+Pub. L. 104–52, title V, § 509, Nov. 19, 1995, 109 Stat. 492.
 
-Pub. L. 103–329, title V, § 514, Sept. 30, 1994, 108 Stat. 2410.
+Pub. L. 103–329, title V, § 514, Sept. 30, 1994, 108 Stat. 2410.
 
-Pub. L. 103–123, title V, § 515, Oct. 28, 1993, 107 Stat. 1253.
+Pub. L. 103–123, title V, § 515, Oct. 28, 1993, 107 Stat. 1253.
 
-Pub. L. 102–393, title V, § 519, Oct. 6, 1992, 106 Stat. 1759.
+Pub. L. 102–393, title V, § 519, Oct. 6, 1992, 106 Stat. 1759.
 
-Pub. L. 102–141, title V, § 522, Oct. 28, 1991, 105 Stat. 865.
+Pub. L. 102–141, title V, § 522, Oct. 28, 1991, 105 Stat. 865.
 
-Pub. L. 101–509, title V, § 525, Nov. 5, 1990, 104 Stat. 1426.
+Pub. L. 101–509, title V, § 525, Nov. 5, 1990, 104 Stat. 1426.
 
 **Former Vice President or Spouse; Protection**
 
@@ -719,7 +719,7 @@ Pub. L. 95–1, Jan. 19, 1977, 91 Stat. 3, provided: “That the United States S
 
 **Major Presidential or Vice Presidential Candidates and Spouses; Personal Protection**
 
-Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended by Pub. L. 94–408, § 1, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 94–524, § 11, Oct. 17, 1976, 90 Stat. 2477; Pub. L. 96–329, Aug. 11, 1980, 94 Stat. 1029, which had provided for personal protection of major presidential or vice presidential candidates and had authorized protection of spouses commencing not more than 120 days before the general Presidential election, and appropriated for fiscal year ending June 30, 1968, $400,000 for execution of such provisions, was repealed by Pub. L. 98–587, § 2, Oct. 30, 1984, 98 Stat. 3111. See subsec. (a)(7) of this section.
+Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended by Pub. L. 94–408, § 1, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 94–524, § 11, Oct. 17, 1976, 90 Stat. 2477; Pub. L. 96–329, Aug. 11, 1980, 94 Stat. 1029, which had provided for personal protection of major presidential or vice presidential candidates and had authorized protection of spouses commencing not more than 120 days before the general Presidential election, and appropriated for fiscal year ending June 30, 1968, $400,000 for execution of such provisions, was repealed by Pub. L. 98–587, § 2, Oct. 30, 1984, 98 Stat. 3111. See subsec. (a)(7) of this section.
 
 **Extension of Protection of President’s Widow and Children**
 
@@ -727,9 +727,9 @@ Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the 
 
 **Applicability of Reorg. Plan No. 26 of 1950**
 
-Pub. L. 91–651, § 5, Jan. 5, 1971, 84 Stat. 1941, provided that: “Section 3056 of title 18, United States Code, as amended by section 4 of this Act, shall be subject to Reorganization Plan Numbered 26 of 1950 (64 Stat. 1280) [set out in the Appendix to Title 5, Government Organization and Employees].”
+Pub. L. 91–651, § 5, Jan. 5, 1971, 84 Stat. 1941, provided that: “Section 3056 of title 18, United States Code, as amended by section 4 of this Act, shall be subject to Reorganization Plan Numbered 26 of 1950 (64 Stat. 1280) [set out in the Appendix to Title 5, Government Organization and Employees].”
 
-## § 3056A. Powers, authorities, and duties of United States Secret Service Uniformed Division
+## § 3056A. Powers, authorities, and duties of United States Secret Service Uniformed Division
 
 **(a)** There is hereby created and established a permanent police force, to be known as the “United States Secret Service Uniformed Division”. Subject to the supervision of the Secretary of Homeland Security, the United States Secret Service Uniformed Division shall perform such duties as the Director, United States Secret Service, may prescribe in connection with the protection of the following:
 
@@ -787,13 +787,13 @@ except that such protection may also be provided for motorcades and at other pla
 
 **(d)** In carrying out the functions pursuant to paragraphs (7) and (9) of subsection (a), the Secretary of Homeland Security may utilize, with their consent, on a reimbursable basis, the services, personnel, equipment, and facilities of State and local governments, and is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. The Secretary of Homeland Security may carry out the functions pursuant to paragraphs (7) and (9) of subsection (a) by contract. The authority of this subsection may be transferred by the President to the Secretary of State. In carrying out any duty under paragraphs (7) and (9) of subsection (a), the Secretary of State is authorized to utilize any authority available to the Secretary under title II of the State Department Basic Authorities Act of 1956.
 
-(Added Pub. L. 109–177, title VI, § 605(a), Mar. 9, 2006, 120 Stat. 253.)
+(Added Pub. L. 109–177, title VI, § 605(a), Mar. 9, 2006, 120 Stat. 253.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
+Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -801,11 +801,11 @@ Title II of the State Department Basic Authorities Act of 1956, referred to in s
 
 Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371, provided in part that: “Any reference in any other law or in any regulation, document, record, or other paper of the United States to the Executive Protective Service shall be held to be a reference to the United States Secret Service Uniformed Division.”
 
-Pub. L. 91–297, title II, § 202, June 30, 1970, 84 Stat. 358, provided that: “All laws of the United States in force on the date of enactment of this title [June 30, 1970] in which reference is made to the White House Police force are amended by substituting ‘Executive Protective Service’ for each such reference.”
+Pub. L. 91–297, title II, § 202, June 30, 1970, 84 Stat. 358, provided that: “All laws of the United States in force on the date of enactment of this title [June 30, 1970] in which reference is made to the White House Police force are amended by substituting ‘Executive Protective Service’ for each such reference.”
 
 **Savings Provisions**
 
-Pub. L. 109–177, title VI, § 606, Mar. 9, 2006, 120 Stat. 256, provided that:
+Pub. L. 109–177, title VI, § 606, Mar. 9, 2006, 120 Stat. 256, provided that:
 
 > **“(a)** This title [see Tables for classification] does not affect the retirement benefits of current employees or annuitants that existed on the day before the effective date of this Act [probably means Mar. 9, 2006, the date of enactment of Pub. L. 109–177].
 
@@ -813,7 +813,7 @@ Pub. L. 109–177, title VI, § 606, Mar. 9, 2006, 120 Stat. 256, provided tha
 
 **Conversion to New Salary Schedule**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 905], Dec. 21, 2000, 114 Stat. 2763, 2763A–306, as amended by Pub. L. 111–282, § 4(b)(4), Oct. 15, 2010, 124 Stat. 3043, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 905], Dec. 21, 2000, 114 Stat. 2763, 2763A–306, as amended by Pub. L. 111–282, § 4(b)(4), Oct. 15, 2010, 124 Stat. 3043, provided that:
 
 > **“(a) In General.—**
 
@@ -841,29 +841,29 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 905], Dec. 21, 2000, 114
 
 > **“(f) Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—** The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by section 2[902](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled ‘An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia’, approved August 4, 1949 [ch. 394, 63 Stat. 566] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen’s Salary Act of 1953 [June 20, 1953, ch. 146, title III, 67 Stat. 75] (sec. 4–605, D.C. Code).”
 
-[Pub. L. 111–282, § 4(b)(4), Oct. 15, 2010, 124 Stat. 3043, which directed amendment of section 1(a)(4) [div. B, title IX, § 905(a)(1)] of Pub. L. 106–554, set out above, by striking out “the Secretary of Treasury” and all that followed through “United States Secret Service Uniformed Division, and”, was executed by striking out “the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and” to reflect the probable intent of Congress.
+[Pub. L. 111–282, § 4(b)(4), Oct. 15, 2010, 124 Stat. 3043, which directed amendment of section 1(a)(4) [div. B, title IX, § 905(a)(1)] of Pub. L. 106–554, set out above, by striking out “the Secretary of Treasury” and all that followed through “United States Secret Service Uniformed Division, and”, was executed by striking out “the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and” to reflect the probable intent of Congress.
 
-[Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 909], Dec. 21, 2000, 114 Stat. 2763, 2763A–310, provided that: “Except as provided in section 908(c) [114 Stat. 2763A–310], this title [enacting provisions set out as notes above and under sections 5301, 5304, and 5305 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 5305 of Title 5] and the amendments made by this title shall become effective on the first day of the first pay period beginning 6 months after the date of enactment [Dec. 21, 2000].” ]
+[Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 909], Dec. 21, 2000, 114 Stat. 2763, 2763A–310, provided that: “Except as provided in section 908(c) [114 Stat. 2763A–310], this title [enacting provisions set out as notes above and under sections 5301, 5304, and 5305 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 5305 of Title 5] and the amendments made by this title shall become effective on the first day of the first pay period beginning 6 months after the date of enactment [Dec. 21, 2000].” ]
 
 **Secret Service Uniformed Division Compensation**
 
-Pub. L. 105–61, title I, § 118, Oct. 10, 1997, 111 Stat. 1285, as amended by Pub. L. 111–282, § 4(b)(3), Oct. 15, 2010, 124 Stat. 3043, provided that:
+Pub. L. 105–61, title I, § 118, Oct. 10, 1997, 111 Stat. 1285, as amended by Pub. L. 111–282, § 4(b)(3), Oct. 15, 2010, 124 Stat. 3043, provided that:
 
 > **“(a) New Rates of Basic Pay.—**
 
-> [Amended Pub. L. 85–584, title V, § 501, Aug. 1, 1958, 72 Stat. 485.]
+> [Amended Pub. L. 85–584, title V, § 501, Aug. 1, 1958, 72 Stat. 485.]
 
-> **“(b) [Repealed. Pub. L. 111–282, § 4(b)(3), Oct. 15, 2010, 124 Stat. 3043.]**
+> **“(b) [Repealed. Pub. L. 111–282, § 4(b)(3), Oct. 15, 2010, 124 Stat. 3043.]**
 
 > **“(c) Limitation on Pay Period Earnings.—**
 
 > [Amended act Aug. 15, 1950, ch. 715, 64 Stat. 477.]
 
-> **“(d) Savings Provision.—** On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under section 5305 of title 5, United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 [Pub. L. 101–509, § 529 [title IV, §§ 403–405], 5 U.S.C. 5305 note] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
+> **“(d) Savings Provision.—** On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under section 5305 of title 5, United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 [Pub. L. 101–509, § 529 [title IV, §§ 403–405], 5 U.S.C. 5305 note] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
 
 > **“(e) Conforming Amendment.—**
 
-> [Amended Pub. L. 101–509, § 529 [title IV, § 405], set out as a note under section 5305 of Title 5, Government Organization and Employees.]
+> [Amended Pub. L. 101–509, § 529 [title IV, § 405], set out as a note under section 5305 of Title 5, Government Organization and Employees.]
 
 > **“(f) Effective Date.—** The provisions of this section shall become effective on the first day of the first pay period beginning after the date of enactment of this Act [Oct. 10, 1997].”
 
@@ -885,19 +885,19 @@ Sec. 4. This Order shall be effective on October 1, 1984.
 
 Ronald Reagan.
 
-## § 3057. Bankruptcy investigations
+## § 3057. Bankruptcy investigations
 
 **(a)** Any judge, receiver, or trustee having reasonable grounds for believing that any violation under chapter 9 of this title or other laws of the United States relating to insolvent debtors, receiverships or reorganization plans has been committed, or that an investigation should be had in connection therewith, shall report to the appropriate United States attorney all the facts and circumstances of the case, the names of the witnesses and the offense or offenses believed to have been committed. Where one of such officers has made such report, the others need not do so.
 
 **(b)** The United States attorney thereupon shall inquire into the facts and report thereon to the judge, and if it appears probable that any such offense has been committed, shall without delay, present the matter to the grand jury, unless upon inquiry and examination he decides that the ends of public justice do not require investigation or prosecution, in which case he shall report the facts to the Attorney General for his direction.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; May 24, 1949, ch. 139, § 48, 63 Stat. 96; Pub. L. 95–598, title III, § 314(i), Nov. 6, 1978, 92 Stat. 2677.)
+(June 25, 1948, ch. 645, 62 Stat. 818; May 24, 1949, ch. 139, § 48, 63 Stat. 96; Pub. L. 95–598, title III, § 314(i), Nov. 6, 1978, 92 Stat. 2677.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on section 52(e)(1), (2) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29e(1), (2), as added by May 27, 1926, ch. 406, § 11, 44 Stat. 665, 666; June 22, 1938, ch. 575, § 1, 52 Stat. 840, 856).
+Based on section 52(e)(1), (2) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29e(1), (2), as added by May 27, 1926, ch. 406, § 11, 44 Stat. 665, 666; June 22, 1938, ch. 575, § 1, 52 Stat. 840, 856).
 
 Remaining provisions of section 52 of title 11, U.S.C., 1940 ed., Bankruptcy, constitute sections 151–154, and 3284 of this title.
 
@@ -913,9 +913,9 @@ This section [section 48] clarifies the meaning of section 3057 of title 18, U.S
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–598, § 314(i), substituted “judge” for “referee” and “violation under chapter 9 of this title” for “violations of the bankruptcy laws”.
+1978—Subsec. (a). Pub. L. 95–598, § 314(i), substituted “judge” for “referee” and “violation under chapter 9 of this title” for “violations of the bankruptcy laws”.
 
-Subsec. (b). Pub. L. 95–598, § 314(i)(1), substituted “judge” for “referee”.
+Subsec. (b). Pub. L. 95–598, § 314(i)(1), substituted “judge” for “referee”.
 
 1949—Subsec. (a). Act May 24, 1949, substituted “or other laws of the United States” for “or laws”.
 
@@ -927,23 +927,23 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Savings Provision**
 
-Amendment by Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 3058. Interned belligerent nationals
+## § 3058. Interned belligerent nationals
 
 Whoever, belonging to the armed land or naval forces of a belligerent nation or belligerent faction and being interned in the United States, in accordance with the law of nations, leaves or attempts to leave said jurisdiction, or leaves or attempts to leave the limits of internment without permission from the proper official of the United States in charge, or willfully overstays a leave of absence granted by such official, shall be subject to arrest by any marshal or deputy marshal of the United States, or by the military or naval authorities thereof, and shall be returned to the place of internment and there confined and safely kept for such period of time as the official of the United States in charge shall direct.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; Pub. L. 101–647, title XXXV, § 3571, Nov. 29, 1990, 104 Stat. 4928.)
+(June 25, 1948, ch. 645, 62 Stat. 818; Pub. L. 101–647, title XXXV, § 3571, Nov. 29, 1990, 104 Stat. 4928.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 37 (June 15, 1917, ch. 30, title V, § 7, 40 Stat. 223).
+Based on title 18, U.S.C., 1940 ed., § 37 (June 15, 1917, ch. 30, title V, § 7, 40 Stat. 223).
 
 Said section 37 was incorporated in this section and section 756 of this title.
 
@@ -955,15 +955,15 @@ Minor verbal changes were made.
 
 1990—Pub. L. 101–647 substituted “belligerent” for “beligerent” before “nation”.
 
-## [§§ 3059 to 3059B. Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781]
+## [§§ 3059 to 3059B. Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781]
 
-Section 3059, act June 25, 1948, ch. 645, 62 Stat. 818; Pub. L. 97–258, § 2(d)(2), Sept. 13, 1982, 96 Stat. 1058; Pub. L. 103–322, title XXV, § 250004, Sept. 13, 1994, 108 Stat. 2086, related to rewards and appropriations therefor.
+Section 3059, act June 25, 1948, ch. 645, 62 Stat. 818; Pub. L. 97–258, § 2(d)(2), Sept. 13, 1982, 96 Stat. 1058; Pub. L. 103–322, title XXV, § 250004, Sept. 13, 1994, 108 Stat. 2086, related to rewards and appropriations therefor.
 
-Section 3059A, added Pub. L. 101–647, title XXV, § 2587(a), Nov. 29, 1990, 104 Stat. 4904; amended Pub. L. 103–322, title XXXII, § 320607, title XXXIII, § 330010(10), (17), Sept. 13, 1994, 108 Stat. 2120, 2143, 2144; Pub. L. 104–294, title VI, §§ 601(f)(4), 604(b)(24), Oct. 11, 1996, 110 Stat. 3499, 3508, related to special rewards for information relating to certain financial institution offenses.
+Section 3059A, added Pub. L. 101–647, title XXV, § 2587(a), Nov. 29, 1990, 104 Stat. 4904; amended Pub. L. 103–322, title XXXII, § 320607, title XXXIII, § 330010(10), (17), Sept. 13, 1994, 108 Stat. 2120, 2143, 2144; Pub. L. 104–294, title VI, §§ 601(f)(4), 604(b)(24), Oct. 11, 1996, 110 Stat. 3499, 3508, related to special rewards for information relating to certain financial institution offenses.
 
-Section 3059B, added Pub. L. 104–132, title VIII, § 815(e)(1), Apr. 24, 1996, 110 Stat. 1315, set forth general reward authority.
+Section 3059B, added Pub. L. 104–132, title VIII, § 815(e)(1), Apr. 24, 1996, 110 Stat. 1315, set forth general reward authority.
 
-## § 3060. Preliminary examination
+## § 3060. Preliminary examination
 
 **(a)** Except as otherwise provided by this section, a preliminary examination shall be held within the time set by the judge or magistrate judge pursuant to subsection (b) of this section, to determine whether there is probable cause to believe that an offense has been committed and that the arrested person has committed it.
 
@@ -981,7 +981,7 @@ Section 3059B, added Pub. L. 104–132, title VIII, § 815(e)(1), Apr. 24, 199
 
 **(f)** Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. A copy of the record of such proceeding shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
 
-(June 25, 1948, ch. 645, 62 Stat. 819; Pub. L. 90–578, title III, § 303(a), Oct. 17, 1968, 82 Stat. 1117; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–162, title XI, § 1179, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–16, § 3(9), May 7, 2009, 123 Stat. 1608.)
+(June 25, 1948, ch. 645, 62 Stat. 819; Pub. L. 90–578, title III, § 303(a), Oct. 17, 1968, 82 Stat. 1117; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–162, title XI, § 1179, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–16, § 3(9), May 7, 2009, 123 Stat. 1608.)
 
 **Editorial Notes**
 
@@ -1007,7 +1007,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates [now United States magistrate judges] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3061. Investigative powers of Postal Service personnel
+## § 3061. Investigative powers of Postal Service personnel
 
 **(a)** Subject to subsection (b) of this section, Postal Inspectors and other agents of the United States Postal Service designated by the Board of Governors to investigate criminal matters related to the Postal Service and the mails may—
 
@@ -1037,9 +1037,9 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 **(B)** carry firearms; and
 
-**(C)** make arrests without a warrant for any offense against the Unites 1
+**(C)** make arrests without a warrant for any offense against the Unites 1
 
-<sup>1</sup>  So in original. Probably should be “United”.
+<sup>1</sup> So in original. Probably should be “United”.
 
 States committed in the presence of the officer or for any felony cognizable under the laws of the United States if the officer has reasonable grounds to believe that the person to be arrested has committed or is committing a felony.
 
@@ -1055,7 +1055,7 @@ States committed in the presence of the officer or for any felony cognizable und
 
 **(B)** A person violating a regulation prescribed under this subsection shall be fined under this title, imprisoned for not more than 30 days, or both.
 
-(Added Pub. L. 90–560, § 5(a), Oct. 12, 1968, 82 Stat. 998; amended Pub. L. 91–375, § 6(j)(38)(A), Aug. 12, 1970, 84 Stat. 781; Pub. L. 100–690, title VI, § 6251(a), Nov. 18, 1988, 102 Stat. 4362; Pub. L. 109–435, title X, § 1001, Dec. 20, 2006, 120 Stat. 3254.)
+(Added Pub. L. 90–560, § 5(a), Oct. 12, 1968, 82 Stat. 998; amended Pub. L. 91–375, § 6(j)(38)(A), Aug. 12, 1970, 84 Stat. 781; Pub. L. 100–690, title VI, § 6251(a), Nov. 18, 1988, 102 Stat. 4362; Pub. L. 109–435, title X, § 1001, Dec. 20, 2006, 120 Stat. 3254.)
 
 **Editorial Notes**
 
@@ -1075,11 +1075,11 @@ States committed in the presence of the officer or for any felony cognizable und
 
 “(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of laws regarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses.”
 
-1970—Pub. L. 91–375, § 6(j)(38)(A)(i), substituted “postal personnel” for “postal inspectors” in section catchline.
+1970—Pub. L. 91–375, § 6(j)(38)(A)(i), substituted “postal personnel” for “postal inspectors” in section catchline.
 
-Subsec. (a). Pub. L. 91–375, § 6(j)(38)(A)(ii), substituted “officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—” for “postal inspectors may, to the extent authorized by the Postmaster General—”.
+Subsec. (a). Pub. L. 91–375, § 6(j)(38)(A)(ii), substituted “officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—” for “postal inspectors may, to the extent authorized by the Postmaster General—”.
 
-Subsec. (b). Pub. L. 91–375, § 6(j)(38)(A)(iii), substituted “Postal Service, including property of the Postal Service,” for “postal service”.
+Subsec. (b). Pub. L. 91–375, § 6(j)(38)(A)(iii), substituted “Postal Service, including property of the Postal Service,” for “postal service”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1087,11 +1087,11 @@ Subsec. (b). Pub. L. 91–375, § 6(j)(38)(A)(iii), substituted “Postal Serv
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 3062. General arrest authority for violation of release conditions
+## § 3062. General arrest authority for violation of release conditions
 
 A law enforcement officer, who is authorized to arrest for an offense committed in his presence, may arrest a person who is released pursuant to chapter 207 if the officer has reasonable grounds to believe that the person is violating, in his presence, a condition imposed on the person pursuant to section 3142(c)(1)(B)(iv), (v), (viii), (ix), or (xiii), or, if the violation involves a failure to remain in a specified institution as required, a condition imposed pursuant to section 3142(c)(1)(B)(x).
 
-(Added Pub. L. 98–473, title II, § 204(d), Oct. 12, 1984, 98 Stat. 1986; amended Pub. L. 100–690, title VII, § 7052, Nov. 18, 1988, 102 Stat. 4401.)
+(Added Pub. L. 98–473, title II, § 204(d), Oct. 12, 1984, 98 Stat. 1986; amended Pub. L. 100–690, title VII, § 7052, Nov. 18, 1988, 102 Stat. 4401.)
 
 **Editorial Notes**
 
@@ -1099,7 +1099,7 @@ A law enforcement officer, who is authorized to arrest for an offense committed 
 
 1988—Pub. L. 100–690 substituted “section 3142(c)(1)(B)(iv), (v), (viii), (ix), or (xiii)” for “section 3142(c)(2)(D), (c)(2)(E), (c)(2)(H), (c)(2)(I), or (c)(2)(M)” and “section 3142(c)(1)(B)(x)” for “section 3142(c)(2)(J)”.
 
-## § 3063. Powers of Environmental Protection Agency
+## § 3063. Powers of Environmental Protection Agency
 
 **(a)** Upon designation by the Administrator of the Environmental Protection Agency, any law enforcement officer of the Environmental Protection Agency with responsibility for the investigation of criminal violations of a law administered by the Environmental Protection Agency, may—
 
@@ -1115,10 +1115,10 @@ A law enforcement officer, who is authorized to arrest for an offense committed 
 
 **(b)** The powers granted under subsection (a) of this section shall be exercised in accordance with guidelines approved by the Attorney General.
 
-(Added Pub. L. 100–582, § 4(a), Nov. 1, 1988, 102 Stat. 2958.)
+(Added Pub. L. 100–582, § 4(a), Nov. 1, 1988, 102 Stat. 2958.)
 
-## § 3064. Powers of Federal Motor Carrier Safety Administration
+## § 3064. Powers of Federal Motor Carrier Safety Administration
 
 Authorized employees of the Federal Motor Carrier Safety Administration may direct a driver of a commercial motor vehicle (as defined in section 31132 of title 49) to stop for inspection of the vehicle, driver, cargo, and required records at or in the vicinity of an inspection site.
 
-(Added Pub. L. 109–59, title IV, § 4143(b), Aug. 10, 2005, 119 Stat. 1748.)
+(Added Pub. L. 109–59, title IV, § 4143(b), Aug. 10, 2005, 119 Stat. 1748.)

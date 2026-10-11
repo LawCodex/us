@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 103—BETTER UTILIZATION OF INVESTMENTS LEADING TO DEVELOPMENT
 
-## § 9601. Definitions
+## § 9601. Definitions
 
 In this chapter:
 
@@ -71,7 +71,7 @@ The term “predecessor authority” means authorities repealed by subchapter VI
 
 **(B)** does not include members of the ‘Five Eyes’ alliance or the overseas territories of the 20 countries referred to in subparagraph (A).
 
-(Pub. L. 115–254, div. F, § 1402, Oct. 5, 2018, 132 Stat. 3485; Pub. L. 119–60, div. H, title LXXXVII, § 8711, Dec. 18, 2025, 139 Stat. 1946.)
+(Pub. L. 115–254, div. F, § 1402, Oct. 5, 2018, 132 Stat. 3485; Pub. L. 119–60, div. H, title LXXXVII, § 8711, Dec. 18, 2025, 139 Stat. 1946.)
 
 **Editorial Notes**
 
@@ -79,35 +79,35 @@ The term “predecessor authority” means authorities repealed by subchapter VI
 
 This chapter, referred to in text, was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out below and Tables.
 
-Subchapter VI of this chapter, referred to in par. (3), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+Subchapter VI of this chapter, referred to in par. (3), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 **Amendments**
 
-2025—Pars. (1), (2). Pub. L. 119–60, § 8711(1), (2), added par. (1) and redesignated former par. (1) as par. (2). Former par. (2) redesignated (5).
+2025—Pars. (1), (2). Pub. L. 119–60, § 8711(1), (2), added par. (1) and redesignated former par. (1) as par. (2). Former par. (2) redesignated (5).
 
-Pars. (3), (4). Pub. L. 119–60, § 8711(3), added pars. (3) and (4).
+Pars. (3), (4). Pub. L. 119–60, § 8711(3), added pars. (3) and (4).
 
-Par. (5). Pub. L. 119–60, § 8711(4), added par. (5) and struck out former par. (5), as so redesignated. Prior to amendment, text of par. (5) read as follows: “The term “less developed country” means a country with a low-income economy, lower-middle-income economy, or upper-middle-income economy, as defined by the International Bank for Reconstruction and Development and the International Development Association (collectively referred to as the “World Bank”).”
+Par. (5). Pub. L. 119–60, § 8711(4), added par. (5) and struck out former par. (5), as so redesignated. Prior to amendment, text of par. (5) read as follows: “The term “less developed country” means a country with a low-income economy, lower-middle-income economy, or upper-middle-income economy, as defined by the International Bank for Reconstruction and Development and the International Development Association (collectively referred to as the “World Bank”).”
 
-Pub. L. 119–60, § 8711(1), redesignated par. (2) as (5).
+Pub. L. 119–60, § 8711(1), redesignated par. (2) as (5).
 
-Pars. (6), (7). Pub. L. 119–60, § 8711(1), redesignated pars. (3) and (4) as (6) and (7), respectively.
+Pars. (6), (7). Pub. L. 119–60, § 8711(1), redesignated pars. (3) and (4) as (6) and (7), respectively.
 
-Par. (8). Pub. L. 119–60, § 8711(5), added par. (8).
+Par. (8). Pub. L. 119–60, § 8711(5), added par. (8).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–60, div. H, title LXXXVII, § 8701, Dec. 18, 2025, 139 Stat. 1946, provided that: “This title [amending sections 9601, 9612—9614, 9621, 9622, 9624, 9632, 9633, 9652—9654, 9656, and 9671 of this title] may be cited as the ‘DFC Modernization and Reauthorization Act of 2025’.”
+Pub. L. 119–60, div. H, title LXXXVII, § 8701, Dec. 18, 2025, 139 Stat. 1946, provided that: “This title [amending sections 9601, 9612—9614, 9621, 9622, 9624, 9632, 9633, 9652—9654, 9656, and 9671 of this title] may be cited as the ‘DFC Modernization and Reauthorization Act of 2025’.”
 
 **Short Title**
 
-Pub. L. 115–254, div. F, § 1401, Oct. 5, 2018, 132 Stat. 3485, provided that: “This division [enacting this chapter, amending sections 2151n, 2197, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of this title, section 905 of Title 2, The Congress, sections 5313 to 5316 of Title 5, Government Organization and Employees, section 8G of Pub. L. 95–452, set out in the Appendix to Title 5, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, section 709 of Title 18, Crimes and Criminal Procedure, section 4421 of Title 19, Customs Duties, section 1131c of Title 20, Education, section 9101 of Title 31, Money and Finance, and sections 17334 and 17336 of Title 42, The Public Health and Welfare, repealing subpart iv of part II of subchapter I of chapter 32 of this title, except for section 2197 of this title, enacting provisions set out as a note under section 905 of Title 2, amending provisions set out as notes under sections 2293 and 2394c of this title] may be cited as the ‘Better Utilization of Investments Leading to Development Act of 2018’ or the ‘BUILD Act of 2018’.”
+Pub. L. 115–254, div. F, § 1401, Oct. 5, 2018, 132 Stat. 3485, provided that: “This division [enacting this chapter, amending sections 2151n, 2197, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of this title, section 905 of Title 2, The Congress, sections 5313 to 5316 of Title 5, Government Organization and Employees, section 8G of Pub. L. 95–452, set out in the Appendix to Title 5, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, section 709 of Title 18, Crimes and Criminal Procedure, section 4421 of Title 19, Customs Duties, section 1131c of Title 20, Education, section 9101 of Title 31, Money and Finance, and sections 17334 and 17336 of Title 42, The Public Health and Welfare, repealing subpart iv of part II of subchapter I of chapter 32 of this title, except for section 2197 of this title, enacting provisions set out as a note under section 905 of Title 2, amending provisions set out as notes under sections 2293 and 2394c of this title] may be cited as the ‘Better Utilization of Investments Leading to Development Act of 2018’ or the ‘BUILD Act of 2018’.”
 
 ## SUBCHAPTER I—ESTABLISHMENT
 
-### § 9611. Statement of policy
+### § 9611. Statement of policy
 
 It is the policy of the United States to facilitate market-based private sector development and inclusive economic growth in less developed countries through the provision of credit, capital, and other financial support—
 
@@ -127,19 +127,19 @@ It is the policy of the United States to facilitate market-based private sector 
 
 **(8)** to complement and be guided by overall United States foreign policy, development, and national security objectives, taking into account the priorities and needs of countries receiving support.
 
-(Pub. L. 115–254, div. F, title I, § 1411, Oct. 5, 2018, 132 Stat. 3486.)
+(Pub. L. 115–254, div. F, title I, § 1411, Oct. 5, 2018, 132 Stat. 3486.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Enhancement of Nongovernmental Sector in Poland and Hungary**
 
-Pub. L. 101–179, title III, § 302(b), Nov. 28, 1989, 103 Stat. 1311, provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
+Pub. L. 101–179, title III, § 302(b), Nov. 28, 1989, 103 Stat. 1311, provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
 
 [For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.]
 
-Pub. L. 101–179, title III, § 302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: “If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 [Pub. L. 101–167], contains the same amendment that is made by subsection (a) of this section [amending former section 2199(f) of this title by inserting “, Poland, Hungary,” after “Yugoslavia”], the amendment made by that Act shall not be effective.”
+Pub. L. 101–179, title III, § 302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: “If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 [Pub. L. 101–167], contains the same amendment that is made by subsection (a) of this section [amending former section 2199(f) of this title by inserting “, Poland, Hungary,” after “Yugoslavia”], the amendment made by that Act shall not be effective.”
 
-### § 9612. United States International Development Finance Corporation
+### § 9612. United States International Development Finance Corporation
 
 **(a) Establishment**
 
@@ -239,7 +239,7 @@ The Board shall establish policies, which shall be applied on a project-by-proje
 
 **(2)** resources of the Corporation should not be diverted for domestic or other activities extending beyond the scope of such mission and purpose.
 
-(Pub. L. 115–254, div. F, title I, § 1412, Oct. 5, 2018, 132 Stat. 3486; Pub. L. 119–60, div. H, title LXXXVII, § 8712, Dec. 18, 2025, 139 Stat. 1947.)
+(Pub. L. 115–254, div. F, title I, § 1412, Oct. 5, 2018, 132 Stat. 3486; Pub. L. 119–60, div. H, title LXXXVII, § 8712, Dec. 18, 2025, 139 Stat. 1947.)
 
 **Editorial Notes**
 
@@ -249,9 +249,9 @@ This chapter, referred to in subsec. (a), was in the original “this division�
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 8712(1), substituted “countries in transition from nonmarket to market economies, and other eligible foreign countries” for “and countries in transition from nonmarket to market economies” and inserted “and national security” after “foreign policy”.
+2025—Subsec. (b). Pub. L. 119–60, § 8712(1), substituted “countries in transition from nonmarket to market economies, and other eligible foreign countries” for “and countries in transition from nonmarket to market economies” and inserted “and national security” after “foreign policy”.
 
-Subsecs. (c) to (g). Pub. L. 119–60, § 8712(2), added subsecs. (c) to (g) and struck out former subsec. (c), which related to private support in less developed and upper-middle-income countries.
+Subsecs. (c) to (g). Pub. L. 119–60, § 8712(2), added subsecs. (c) to (g) and struck out former subsec. (c), which related to private support in less developed and upper-middle-income countries.
 
 **Executive Documents**
 
@@ -267,7 +267,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Donald J. Trump.
 
-### § 9613. Management of Corporation
+### § 9613. Management of Corporation
 
 **(a) Structure of Corporation**
 
@@ -509,7 +509,7 @@ Except as otherwise provided in this section, officers, employees, and agents sh
 
 **(ii)** should be prioritized for the development of the Corporation’s next generation of talent, particularly for the recruitment of early career financial or legal sector equivalent positions..1
 
-<sup>1</sup>  So in original. Second period probably should not appear.
+<sup>1</sup> So in original. Second period probably should not appear.
 
 **(B) Reinstatement**
 
@@ -577,7 +577,7 @@ The Board shall meet with the Council at least twice each year and engage direct
 
 The Council shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(k) Congressional Strategic Advisory Group**
 
@@ -767,7 +767,7 @@ Any data collected under this subsection shall be subject to the relevant privac
 
 Internships offered and compensated by the Corporation under this subsection shall be funded solely by available amounts appropriated after December 18, 2025, to the Corporate Capital Account established under section 9634 of this title.
 
-(Pub. L. 115–254, div. F, title I, § 1413, Oct. 5, 2018, 132 Stat. 3487; Pub. L. 119–60, div. H, title LXXXVII, §§ 8721—8730(a), 8731, 8732, Dec. 18, 2025, 139 Stat. 1949—1959.)
+(Pub. L. 115–254, div. F, title I, § 1413, Oct. 5, 2018, 132 Stat. 3487; Pub. L. 119–60, div. H, title LXXXVII, §§ 8721—8730(a), 8731, 8732, Dec. 18, 2025, 139 Stat. 1949—1959.)
 
 **Editorial Notes**
 
@@ -775,7 +775,7 @@ Internships offered and compensated by the Corporation under this subsection sha
 
 This chapter, referred to in subsecs. (a), (b)(1)(A), and (c)(1)(A), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (j)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (j)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Codification**
 
@@ -783,35 +783,35 @@ Section is comprised of section 1413 of Pub. L. 115–254. Par. (4) of subsec. (
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8721, inserted “a Chief Strategic Officer,” after “Chief Development Officer,”.
+2025—Subsec. (a). Pub. L. 119–60, § 8721, inserted “a Chief Strategic Officer,” after “Chief Development Officer,”.
 
-Subsec. (b)(2)(A)(iii). Pub. L. 119–60, § 8722(1)(A), substituted “3 individuals” for “5 individuals” wherever appearing.
+Subsec. (b)(2)(A)(iii). Pub. L. 119–60, § 8722(1)(A), substituted “3 individuals” for “5 individuals” wherever appearing.
 
-Subsec. (b)(6). Pub. L. 119–60, § 8722(1)(B), added par. (6).
+Subsec. (b)(6). Pub. L. 119–60, § 8722(1)(B), added par. (6).
 
-Subsec. (c). Pub. L. 119–60, § 8722(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Board shall hold at least 2 public hearings each year in order to afford an opportunity for any person to present views with respect to whether—
+Subsec. (c). Pub. L. 119–60, § 8722(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Board shall hold at least 2 public hearings each year in order to afford an opportunity for any person to present views with respect to whether—
 
 “(1) the Corporation is carrying out its activities in accordance with this chapter; and
 
 “(2) any support provided by the Corporation under subchapter II of this chapter in any country should be suspended, expanded, or extended.”
 
-Subsec. (d)(3). Pub. L. 119–60, § 8723, amended subsec. (d)(3) generally. Prior to amendment, text read as follows: “The Chief Executive Officer shall report to and be under the direct authority of the Board.”
+Subsec. (d)(3). Pub. L. 119–60, § 8723, amended subsec. (d)(3) generally. Prior to amendment, text read as follows: “The Chief Executive Officer shall report to and be under the direct authority of the Board.”
 
-Subsec. (f)(1). Pub. L. 119–60, § 8724(1), substituted “who shall be removable only by a majority vote of the Board.” for “who—” and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (f)(1). Pub. L. 119–60, § 8724(1), substituted “who shall be removable only by a majority vote of the Board.” for “who—” and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) shall report directly to the Board; and
 
 “(B) shall be removable only by a majority vote of the Board.”
 
-Subsec. (f)(2). Pub. L. 119–60, § 8724(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Chief Risk Officer shall, in coordination with the audit committee of the Board established under section 9651 of this title, develop, implement, and manage a comprehensive process for identifying, assessing, monitoring, and limiting risks to the Corporation, including the overall portfolio diversification of the Corporation.”
+Subsec. (f)(2). Pub. L. 119–60, § 8724(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Chief Risk Officer shall, in coordination with the audit committee of the Board established under section 9651 of this title, develop, implement, and manage a comprehensive process for identifying, assessing, monitoring, and limiting risks to the Corporation, including the overall portfolio diversification of the Corporation.”
 
-Subsec. (g)(1). Pub. L. 119–60, § 8725(1)(A), substituted “The” for “Subject to the approval of the Board, the” and “in international development and development finance” for “in development” in introductory provisions.
+Subsec. (g)(1). Pub. L. 119–60, § 8725(1)(A), substituted “The” for “Subject to the approval of the Board, the” and “in international development and development finance” for “in development” in introductory provisions.
 
-Subsec. (g)(1)(A). Pub. L. 119–60, § 8725(1)(B), substituted “the Chief Executive Officer” for “the Board”.
+Subsec. (g)(1)(A). Pub. L. 119–60, § 8725(1)(B), substituted “the Chief Executive Officer” for “the Board”.
 
-Subsec. (g)(2). Pub. L. 119–60, § 8725(2)(A), inserted “and responsibilities” after “Duties” in heading.
+Subsec. (g)(2). Pub. L. 119–60, § 8725(2)(A), inserted “and responsibilities” after “Duties” in heading.
 
-Subsec. (g)(2)(A) to (D). Pub. L. 119–60, § 8725(2)(B), (C), added subpars. (A) to (D), redesignated former subpar. (A) as (E), and struck out former subpars. (B) to (D) which read as follows:
+Subsec. (g)(2)(A) to (D). Pub. L. 119–60, § 8725(2)(B), (C), added subpars. (A) to (D), redesignated former subpar. (A) as (E), and struck out former subpars. (B) to (D) which read as follows:
 
 “(B) under the guidance of the Chief Executive Officer, manage employees of the Corporation that are dedicated to structuring, monitoring, and evaluating transactions and projects co-designed with the United States Agency for International Development and other relevant United States Government departments and agencies;
 
@@ -819,39 +819,39 @@ Subsec. (g)(2)(A) to (D). Pub. L. 119–60, § 8725(2)(B), (C), added subpars.
 
 “(D) manage the responsibilities of the Corporation under paragraphs (1) and (4) of section 9652(b) of this title and paragraphs (1)(A) and (3)(A) of section 9653(b) of this title;”.
 
-Subsec. (g)(2)(E). Pub. L. 119–60, § 8725(2)(D), substituted “support—” for “coordinate” and “Federal departments and agencies, including by directly liaising with the relevant members of United States country teams serving overseas, to ensure that such Federal departments, agencies, and country teams have the training and awareness necessary to fully leverage the Corporation’s development tools overseas;” for “United States Government departments and agencies, including directly liaising with missions of the United States Agency for International Development, to ensure that departments, agencies, and missions have training, awareness, and access to the Corporation’s tools in relation to development policy and projects in countries;”, inserted cl. (i) designation and “coordination of” before “the Corporation’s”, and added cls. (ii) to (iv).
+Subsec. (g)(2)(E). Pub. L. 119–60, § 8725(2)(D), substituted “support—” for “coordinate” and “Federal departments and agencies, including by directly liaising with the relevant members of United States country teams serving overseas, to ensure that such Federal departments, agencies, and country teams have the training and awareness necessary to fully leverage the Corporation’s development tools overseas;” for “United States Government departments and agencies, including directly liaising with missions of the United States Agency for International Development, to ensure that departments, agencies, and missions have training, awareness, and access to the Corporation’s tools in relation to development policy and projects in countries;”, inserted cl. (i) designation and “coordination of” before “the Corporation’s”, and added cls. (ii) to (iv).
 
-Pub. L. 119–60, § 8725(2)(B), (C), redesignated subpar. (A) as (E) and struck out former subpar. (E) which read as follows: “coordinate and implement the activities of the Corporation under section 9655 of this title; and”.
+Pub. L. 119–60, § 8725(2)(B), (C), redesignated subpar. (A) as (E) and struck out former subpar. (E) which read as follows: “coordinate and implement the activities of the Corporation under section 9655 of this title; and”.
 
-Subsec. (g)(2)(F), (G). Pub. L. 119–60, § 8725(2)(C), (E), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “be an ex officio member of the Development Advisory Council established under subsection (i) and participate in or send a representative to each meeting of the Council.”
+Subsec. (g)(2)(F), (G). Pub. L. 119–60, § 8725(2)(C), (E), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “be an ex officio member of the Development Advisory Council established under subsection (i) and participate in or send a representative to each meeting of the Council.”
 
-Subsec. (h). Pub. L. 119–60, § 8726, added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 119–60, § 8726, added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 119–60, § 8726, redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 119–60, § 8726, redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (i)(1). Pub. L. 119–60, § 8727(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as otherwise provided in this section, officers, employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine.”
+Subsec. (i)(1). Pub. L. 119–60, § 8727(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as otherwise provided in this section, officers, employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine.”
 
-Subsec. (i)(2)(A). Pub. L. 119–60, § 8727(2)(A), substituted “100” for “50” and “title 5, and such positions—” for “title 5,”, and added cls. (i) and (ii).
+Subsec. (i)(2)(A). Pub. L. 119–60, § 8727(2)(A), substituted “100” for “50” and “title 5, and such positions—” for “title 5,”, and added cls. (i) and (ii).
 
-Subsec. (i)(2)(D). Pub. L. 119–60, § 8727(2)(B), inserted “, provided that no such officer or employee may be compensated at a rate exceeding level II of the Executive Schedule” after “respectively”.
+Subsec. (i)(2)(D). Pub. L. 119–60, § 8727(2)(B), inserted “, provided that no such officer or employee may be compensated at a rate exceeding level II of the Executive Schedule” after “respectively”.
 
-Subsec. (i)(3)(C). Pub. L. 119–60, § 8727(3), substituted “subsection (j)” for “subsection (i)”.
+Subsec. (i)(3)(C). Pub. L. 119–60, § 8727(3), substituted “subsection (j)” for “subsection (i)”.
 
-Subsec. (j). Pub. L. 119–60, § 8726(1), redesignated subsec. (i) as (j).
+Subsec. (j). Pub. L. 119–60, § 8726(1), redesignated subsec. (i) as (j).
 
-Subsec. (j)(1), (2). Pub. L. 119–60, § 8728(1), added pars. (1) and (2) and struck out former pars. (1) and (2). Prior to amendment, pars. (1) and (2) established Development Finance Advisory Council and related to appointment of members of the Council, respectively.
+Subsec. (j)(1), (2). Pub. L. 119–60, § 8728(1), added pars. (1) and (2) and struck out former pars. (1) and (2). Prior to amendment, pars. (1) and (2) established Development Finance Advisory Council and related to appointment of members of the Council, respectively.
 
-Subsec. (j)(4) to (6). Pub. L. 119–60, § 8728(2), (3), added pars. (4) and (5) and redesignated former par. (4) as (6).
+Subsec. (j)(4) to (6). Pub. L. 119–60, § 8728(2), (3), added pars. (4) and (5) and redesignated former par. (4) as (6).
 
-Subsec. (k). Pub. L. 119–60, § 8729, added subsec. (k).
+Subsec. (k). Pub. L. 119–60, § 8729, added subsec. (k).
 
-Subsec. (*l*). Pub. L. 119–60, § 8730(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 119–60, § 8730(a), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 119–60, § 8731, added subsec. (n).
+Subsec. (m). Pub. L. 119–60, § 8731, added subsec. (n).
 
-Subsec. (n). Pub. L. 119–60, § 8732, added subsec. (n).
+Subsec. (n). Pub. L. 119–60, § 8732, added subsec. (n).
 
-### § 9614. Independent accountability mechanism
+### § 9614. Independent accountability mechanism
 
 **(a) In general**
 
@@ -867,19 +867,19 @@ The Board shall establish a transparent and independent accountability mechanism
 
 **(c) Consolidation of functions**
 
-Not later than 90 days after December 18, 2025, the Board shall submit a report to the appropriate congressional committees describing any efficiencies that may be gained through the consolidation of functions of the independent accountability mechanism under the authorities of the Office of the Inspector General of the Corporation under section 1414. 1
+Not later than 90 days after December 18, 2025, the Board shall submit a report to the appropriate congressional committees describing any efficiencies that may be gained through the consolidation of functions of the independent accountability mechanism under the authorities of the Office of the Inspector General of the Corporation under section 1414. 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 The report shall include an outline as to how the Inspector General of the Corporation would develop an internal environmental, social, and governance expertise to adequately replace the independent accountability mechanism’s environmental, social, and governance expertise.
 
-(Pub. L. 115–254, div. F, title I, § 1415, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 119–60, div. H, title LXXXVII, § 8733, Dec. 18, 2025, 139 Stat. 1960.)
+(Pub. L. 115–254, div. F, title I, § 1415, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 119–60, div. H, title LXXXVII, § 8733, Dec. 18, 2025, 139 Stat. 1960.)
 
 **Editorial Notes**
 
 **References in Text**
 
-**Section 1414, referred to in subsec. (c), means section 1414 of Pub. L. 115–254, div. F, title I, Oct. 5, 2018, 132 Stat. 3492, which amended section 8G of the Inspector General Act of 1978, Pub. L. 95–452, formerly § 8E, as added Pub. L. 100–504, which was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal and restatement as section 415 of Title 5.**
+**Section 1414, referred to in subsec. (c), means section 1414 of Pub. L. 115–254, div. F, title I, Oct. 5, 2018, 132 Stat. 3492, which amended section 8G of the Inspector General Act of 1978, Pub. L. 95–452, formerly § 8E, as added Pub. L. 100–504, which was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal and restatement as section 415 of Title 5.**
 
 **Amendments**
 
@@ -887,13 +887,13 @@ The report shall include an outline as to how the Inspector General of the Corpo
 
 ## SUBCHAPTER II—AUTHORITIES
 
-### § 9621. Authorities relating to provision of support
+### § 9621. Authorities relating to provision of support
 
 **(a) In general** The authorities in this subchapter shall only be exercised to—
 
-**(1)** carry out of 1
+**(1)** carry out of 1
 
-<sup>1</sup>  So in original. The word “of” probably should not appear.
+<sup>1</sup> So in original. The word “of” probably should not appear.
 
 the policy of the United States in section 9611 of this title and the purpose of the Corporation in section 9612 of this title;
 
@@ -1123,7 +1123,7 @@ The Corporation shall undertake, in cooperation with appropriate departments, ag
 
 The Corporation shall include, in its annual report submitted to Congress under section 9653 of this title, the aggregate data collected under this paragraph, in such form as to quantify the effectiveness of the Corporation’s outreach activities to minority- and women-owned businesses.
 
-(Pub. L. 115–254, div. F, title II, § 1421, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 119–60, div. H, title LXXXVII, §§ 8741, 8742, Dec. 18, 2025, 139 Stat. 1961, 1962.)
+(Pub. L. 115–254, div. F, title II, § 1421, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 119–60, div. H, title LXXXVII, §§ 8741, 8742, Dec. 18, 2025, 139 Stat. 1961, 1962.)
 
 **Termination of Section**
 
@@ -1133,19 +1133,19 @@ For termination of section on Dec. 31, 2031, see section 9624 of this title.
 
 **References in Text**
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (b)(3), is title V of Pub. L. 93–344 as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (b)(3), is title V of Pub. L. 93–344 as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 **Amendments**
 
-2025—Subsec. (c)(3)(C). Pub. L. 119–60, § 8741(b), inserted “, localized workforces, and partner country economic security” after “markets”.
+2025—Subsec. (c)(3)(C). Pub. L. 119–60, § 8741(b), inserted “, localized workforces, and partner country economic security” after “markets”.
 
-Subsec. (c)(4)(A). Pub. L. 119–60, § 8741(c), substituted “40” for “30”.
+Subsec. (c)(4)(A). Pub. L. 119–60, § 8741(c), substituted “40” for “30”.
 
-Subsec. (c)(7). Pub. L. 119–60, § 8741(a), added par. (7).
+Subsec. (c)(7). Pub. L. 119–60, § 8741(a), added par. (7).
 
-Subsec. (f). Pub. L. 119–60, § 8742, added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “The Corporation may administer and manage special projects and programs in support of specific transactions undertaken by the Corporation, including programs of financial and advisory support that provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings, or intermediate financial and investment institutions or cooperatives, and including the initiation of incentives, grants, or studies for energy, women’s economic empowerment, microenterprise households, or other small business activities.”
+Subsec. (f). Pub. L. 119–60, § 8742, added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “The Corporation may administer and manage special projects and programs in support of specific transactions undertaken by the Corporation, including programs of financial and advisory support that provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings, or intermediate financial and investment institutions or cooperatives, and including the initiation of incentives, grants, or studies for energy, women’s economic empowerment, microenterprise households, or other small business activities.”
 
-### § 9622. Terms and conditions
+### § 9622. Terms and conditions
 
 **(a) In general**
 
@@ -1203,9 +1203,9 @@ The Corporation shall ensure that terms, conditions, penalties, rules for collec
 
 **(2) Truth in lending policies**
 
-The Corporation shall develop required truth in lending rules, guidelines, and related implementing policies and practices to govern secondary lending through intermediaries and shall report such policies and practices to the appropriate committees not later than 180 days of 1
+The Corporation shall develop required truth in lending rules, guidelines, and related implementing policies and practices to govern secondary lending through intermediaries and shall report such policies and practices to the appropriate committees not later than 180 days of 1
 
-<sup>1</sup>  So in original. The word “of” probably should be “after”.
+<sup>1</sup> So in original. The word “of” probably should be “after”.
 
 December 18, 2025, with annual updates, as needed, thereafter.
 
@@ -1233,7 +1233,7 @@ December 18, 2025, with annual updates, as needed, thereafter.
 
 The Corporation shall establish appropriate auditing mechanisms to oversee and monitor secondary lending provided through intermediaries in partner countries and include in each annual report to Congress required under paragraph (2) a summary of the results of such audits.
 
-(Pub. L. 115–254, div. F, title II, § 1422, Oct. 5, 2018, 132 Stat. 3497; Pub. L. 119–60, div. H, title LXXXVII, § 8743, Dec. 18, 2025, 139 Stat. 1962.)
+(Pub. L. 115–254, div. F, title II, § 1422, Oct. 5, 2018, 132 Stat. 3497; Pub. L. 119–60, div. H, title LXXXVII, § 8743, Dec. 18, 2025, 139 Stat. 1962.)
 
 **Termination of Section**
 
@@ -1243,11 +1243,11 @@ For termination of section on Dec. 31, 2031, see section 9624 of this title.
 
 **Amendments**
 
-2025—Subsec. (b)(3). Pub. L. 119–60, § 8743(1), added par. (3) and struck out former par. (3) which read as follows: “The Corporation shall, with respect to providing any loan guaranty to a project, require the parties to the project to bear the risk of loss in an amount equal to at least 20 percent of the guaranteed support by the Corporation in the project.”
+2025—Subsec. (b)(3). Pub. L. 119–60, § 8743(1), added par. (3) and struck out former par. (3) which read as follows: “The Corporation shall, with respect to providing any loan guaranty to a project, require the parties to the project to bear the risk of loss in an amount equal to at least 20 percent of the guaranteed support by the Corporation in the project.”
 
-Subsec. (c). Pub. L. 119–60, § 8743(2), added subsec. (c).
+Subsec. (c). Pub. L. 119–60, § 8743(2), added subsec. (c).
 
-### § 9623. Payment of losses
+### § 9623. Payment of losses
 
 **(a) Payments for defaults on guaranteed loans**
 
@@ -1295,13 +1295,13 @@ The Attorney General shall take such action as may be appropriate to enforce any
 
 Nothing in this section shall be construed to preclude any forbearance for the benefit of a borrower that may be agreed upon by the parties to a loan guaranteed by the Corporation if budget authority for any resulting costs to the United States Government (as defined in section 661a of title 2) is available.
 
-(Pub. L. 115–254, div. F, title II, § 1423, Oct. 5, 2018, 132 Stat. 3498.)
+(Pub. L. 115–254, div. F, title II, § 1423, Oct. 5, 2018, 132 Stat. 3498.)
 
 **Termination of Section**
 
 For termination of section on Dec. 31, 2031, see section 9624 of this title.
 
-### § 9624. Termination
+### § 9624. Termination
 
 **(a) In general**
 
@@ -1311,7 +1311,7 @@ The authorities provided under this subchapter terminate on December 31, 2031.
 
 The Corporation shall terminate on the date on which the portfolio of the Corporation is liquidated.
 
-(Pub. L. 115–254, div. F, title II, § 1424, Oct. 5, 2018, 132 Stat. 3499; Pub. L. 119–60, div. H, title LXXXVII, § 8744, Dec. 18, 2025, 139 Stat. 1963.)
+(Pub. L. 115–254, div. F, title II, § 1424, Oct. 5, 2018, 132 Stat. 3499; Pub. L. 119–60, div. H, title LXXXVII, § 8744, Dec. 18, 2025, 139 Stat. 1963.)
 
 **Editorial Notes**
 
@@ -1321,7 +1321,7 @@ The Corporation shall terminate on the date on which the portfolio of the Corpor
 
 ## SUBCHAPTER III—ADMINISTRATIVE AND GENERAL PROVISIONS
 
-### § 9631. Operations
+### § 9631. Operations
 
 **(a) Bilateral agreements**
 
@@ -1351,7 +1351,7 @@ The Corporation shall implement policies to accept electronic documents and elec
 
 **(2)** the Corporation should consider preference, experience, and, when relevant, seniority when reassigning existing employees to new areas of work.
 
-(Pub. L. 115–254, div. F, title III, § 1431, Oct. 5, 2018, 132 Stat. 3499; Pub. L. 119–60, div. H, title LXXXVII, § 8751, Dec. 18, 2025, 139 Stat. 1963.)
+(Pub. L. 115–254, div. F, title III, § 1431, Oct. 5, 2018, 132 Stat. 3499; Pub. L. 119–60, div. H, title LXXXVII, § 8751, Dec. 18, 2025, 139 Stat. 1963.)
 
 **Editorial Notes**
 
@@ -1363,7 +1363,7 @@ This chapter, referred to in subsec. (c), was in the original “this division�
 
 2025—Subsec. (e). Pub. L. 119–60 added subsec. (e).
 
-### § 9632. Corporate powers
+### § 9632. Corporate powers
 
 **(a) In general** The Corporation—
 
@@ -1405,7 +1405,7 @@ This chapter, referred to in subsec. (c), was in the original “this division�
 
 Notwithstanding any other provision of law relating to the acquisition, handling, or disposal of property by the United States, the Corporation shall have the right in its discretion to complete, recondition, reconstruct, renovate, repair, maintain, operate, or sell any property acquired by the Corporation pursuant to the provisions of this chapter, except that, in the case of real property that is for the Corporation’s own occupancy, the completion, reconditioning, reconstruction, renovation, repair, maintenance, operation, or sale of the real property shall be conducted in consultation with the Administrator of General Services.
 
-(Pub. L. 115–254, div. F, title III, § 1432, Oct. 5, 2018, 132 Stat. 3500; Pub. L. 119–60, div. H, title LXXXVII, § 8752, Dec. 18, 2025, 139 Stat. 1964.)
+(Pub. L. 115–254, div. F, title III, § 1432, Oct. 5, 2018, 132 Stat. 3500; Pub. L. 119–60, div. H, title LXXXVII, § 8752, Dec. 18, 2025, 139 Stat. 1964.)
 
 **Editorial Notes**
 
@@ -1417,7 +1417,7 @@ This chapter, referred to in subsec. (b), was in the original “this division�
 
 2025—Subsec. (a)(10). Pub. L. 119–60 struck out “until the expiration of the current lease under predecessor authority, as of the day before October 5, 2018” after “payments are due”.
 
-### § 9633. Maximum contingent liability
+### § 9633. Maximum contingent liability
 
 **(a) In general**
 
@@ -1427,7 +1427,7 @@ The maximum contingent liability of the Corporation outstanding at any one time 
 
 The maximum contingent liability shall apply to all extension of liability by the Corporation regardless of the authority cited thereto.
 
-(Pub. L. 115–254, div. F, title III, § 1433, Oct. 5, 2018, 132 Stat. 3501; Pub. L. 119–60, div. H, title LXXXVII, § 8753, Dec. 18, 2025, 139 Stat. 1964.)
+(Pub. L. 115–254, div. F, title III, § 1433, Oct. 5, 2018, 132 Stat. 3501; Pub. L. 119–60, div. H, title LXXXVII, § 8753, Dec. 18, 2025, 139 Stat. 1964.)
 
 **Editorial Notes**
 
@@ -1435,7 +1435,7 @@ The maximum contingent liability shall apply to all extension of liability by th
 
 2025—Pub. L. 119–60 amended section generally. Prior to amendment, text of section read as follows: “The maximum contingent liability of the Corporation outstanding at any one time shall not exceed in the aggregate $60,000,000,000.”
 
-### § 9634. Corporate funds
+### § 9634. Corporate funds
 
 **(a) Corporate Capital Account**
 
@@ -1467,9 +1467,9 @@ Fees may be charged and collected for providing services in amounts to be determ
 
 **(B)** administrative expenses of the Corporation;
 
-**(C)** for the cost of providing support authorized by subsections (c), (e), (f), and (g) of section 9621 of this title; 1
+**(C)** for the cost of providing support authorized by subsections (c), (e), (f), and (g) of section 9621 of this title; 1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 **(D)** project-specific transaction costs.
 
@@ -1523,17 +1523,17 @@ In order to carry out this chapter, funds authorized to be appropriated to carry
 
 **(2)** does not include information technology (as such term is defined in section 11101 of title 40).
 
-(Pub. L. 115–254, div. F, title III, § 1434, Oct. 5, 2018, 132 Stat. 3501.)
+(Pub. L. 115–254, div. F, title III, § 1434, Oct. 5, 2018, 132 Stat. 3501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter VI of this chapter, referred to in subsec. (i), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+Subchapter VI of this chapter, referred to in subsec. (i), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 This chapter, referred to in subsec. (j), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1541,15 +1541,15 @@ The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–
 
 Pub. L. 116–94, div. G, title VI, Dec. 20, 2019, 133 Stat. 2841, provided in part: “That in this fiscal year, and each fiscal year thereafter, the Corporation shall collect the amounts described in section 1434(h) of the BUILD Act of 2018 [22 U.S.C. 9634(h)]”.
 
-### § 9635. Coordination with other development agencies
+### § 9635. Coordination with other development agencies
 
 It is the sense of Congress that the Corporation should use relevant data of the Department of State, the Millennium Challenge Corporation, the United States Agency for International Development, and other departments and agencies that have development functions to better inform the decisions of the Corporation with respect to providing support under subchapter II of this chapter.
 
-(Pub. L. 115–254, div. F, title III, § 1435, Oct. 5, 2018, 132 Stat. 3503.)
+(Pub. L. 115–254, div. F, title III, § 1435, Oct. 5, 2018, 132 Stat. 3503.)
 
 ## SUBCHAPTER IV—MONITORING, EVALUATION, AND REPORTING
 
-### § 9651. Establishment of risk and audit committees
+### § 9651. Establishment of risk and audit committees
 
 **(a) In general**
 
@@ -1583,9 +1583,9 @@ To assist the Board to fulfill its duties and responsibilities under section 962
 
 **(4)** compliance with legal and regulatory requirements related to the finances of the Corporation.
 
-(Pub. L. 115–254, div. F, title IV, § 1441, Oct. 5, 2018, 132 Stat. 3503.)
+(Pub. L. 115–254, div. F, title IV, § 1441, Oct. 5, 2018, 132 Stat. 3503.)
 
-### § 9652. Performance measures, evaluation, and learning
+### § 9652. Performance measures, evaluation, and learning
 
 **(a) In general**
 
@@ -1659,23 +1659,23 @@ Personnel assigned to carry out the obligations described in paragraph (1) shall
 
 **(B)** the Corporation includes in its annual report a detailed explanation of the impact of any such changes on its capacity to analyze and report on portfolio performance.
 
-(Pub. L. 115–254, div. F, title IV, § 1442, Oct. 5, 2018, 132 Stat. 3504; Pub. L. 119–60, div. H, title LXXXVII, § 8754, Dec. 18, 2025, 139 Stat. 1964.)
+(Pub. L. 115–254, div. F, title IV, § 1442, Oct. 5, 2018, 132 Stat. 3504; Pub. L. 119–60, div. H, title LXXXVII, § 8754, Dec. 18, 2025, 139 Stat. 1964.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 119–60, § 8754(1)(A), added par. (1) and struck out former par. (1) which read as follows: “develop a successor for the development impact measurement system of the Overseas Private Investment Corporation (as such system was in effect on the day before October 5, 2018);”.
+2025—Subsec. (b)(1). Pub. L. 119–60, § 8754(1)(A), added par. (1) and struck out former par. (1) which read as follows: “develop a successor for the development impact measurement system of the Overseas Private Investment Corporation (as such system was in effect on the day before October 5, 2018);”.
 
-Subsec. (b)(4). Pub. L. 119–60, § 8754(1)(C)(i), substituted “method for evaluating and documenting the development impacts” for “method for ensuring, appropriate development performance” in introductory provisions.
+Subsec. (b)(4). Pub. L. 119–60, § 8754(1)(C)(i), substituted “method for evaluating and documenting the development impacts” for “method for ensuring, appropriate development performance” in introductory provisions.
 
-Subsec. (b)(5), (6). Pub. L. 119–60, § 8754(1)(B), (C)(ii), (D), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 119–60, § 8754(1)(B), (C)(ii), (D), added pars. (5) and (6).
 
-Subsecs. (c) to (e). Pub. L. 119–60, § 8754(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (c) to (e). Pub. L. 119–60, § 8754(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-Subsec. (f). Pub. L. 119–60, § 8754(4), added subsec. (f).
+Subsec. (f). Pub. L. 119–60, § 8754(4), added subsec. (f).
 
-### § 9653. Annual report
+### § 9653. Annual report
 
 **(a) In general** After the end of each fiscal year, the Corporation shall submit to the appropriate congressional committees a complete and detailed report of its operations during that fiscal year, including an assessment of—
 
@@ -1683,9 +1683,9 @@ Subsec. (f). Pub. L. 119–60, § 8754(4), added subsec. (f).
 
 **(2)** the extent to which the operations of the Corporation complement or are compatible with the development assistance programs of the United States and qualifying sovereign entities;
 
-**(3)** the Corporation’s institutional linkages with other relevant United States Government department 1
+**(3)** the Corporation’s institutional linkages with other relevant United States Government department 1
 
-<sup>1</sup>  So in original. Probably should be “departments”.
+<sup>1</sup> So in original. Probably should be “departments”.
 
 and agencies, including efforts to strengthen such linkages;
 
@@ -1737,23 +1737,23 @@ and agencies, including efforts to strengthen such linkages;
 
 **(5)** an assessment of the extent to which lessons learned from the monitoring and evaluation activities of the Corporation, and from annual reports from previous years compiled by the Corporation, have been applied to projects.
 
-(Pub. L. 115–254, div. F, title IV, § 1443, Oct. 5, 2018, 132 Stat. 3505; Pub. L. 119–60, div. H, title LXXXVII, § 8755, Dec. 18, 2025, 139 Stat. 1966.)
+(Pub. L. 115–254, div. F, title IV, § 1443, Oct. 5, 2018, 132 Stat. 3505; Pub. L. 119–60, div. H, title LXXXVII, § 8755, Dec. 18, 2025, 139 Stat. 1966.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a)(5), (6). Pub. L. 119–60, § 8755(1), added pars. (5) and (6).
+2025—Subsec. (a)(5), (6). Pub. L. 119–60, § 8755(1), added pars. (5) and (6).
 
-Subsec. (b)(1)(A) to (I). Pub. L. 119–60, § 8755(2)(A), added pars. (A) to (I) and struck out former pars. (A) and (B) which read as follows:
+Subsec. (b)(1)(A) to (I). Pub. L. 119–60, § 8755(2)(A), added pars. (A) to (I) and struck out former pars. (A) and (B) which read as follows:
 
 “(A) the desired development outcomes for projects and whether or not the Corporation is meeting the associated metrics, goals, and development objectives, including, to the extent practicable, in the years after conclusion of projects; and
 
 “(B) the effect of the Corporation’s support on access to capital and ways in which the Corporation is addressing identifiable market gaps or inefficiencies and what impact, if any, such support has on access to credit for a specific project, country, or sector;”.
 
-Subsec. (b)(4), (5). Pub. L. 119–60, § 8755(2)(B) to (D), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4), (5). Pub. L. 119–60, § 8755(2)(B) to (D), added par. (4) and redesignated former par. (4) as (5).
 
-### § 9654. Publicly available project information
+### § 9654. Publicly available project information
 
 The Corporation shall—
 
@@ -1767,7 +1767,7 @@ The Corporation shall—
 
 **(2)** include a clear link to information about each project supported by the Corporation under subchapter II of this chapter on the internet website of the Department of State, “ForeignAssistance.gov”, or a successor website or other online publication.
 
-(Pub. L. 115–254, div. F, title IV, § 1444, Oct. 5, 2018, 132 Stat. 3506; Pub. L. 119–60, div. H, title LXXXVII, § 8756, Dec. 18, 2025, 139 Stat. 1967.)
+(Pub. L. 115–254, div. F, title IV, § 1444, Oct. 5, 2018, 132 Stat. 3506; Pub. L. 119–60, div. H, title LXXXVII, § 8756, Dec. 18, 2025, 139 Stat. 1967.)
 
 **Editorial Notes**
 
@@ -1775,7 +1775,7 @@ The Corporation shall—
 
 2025—Par. (1). Pub. L. 119–60 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “maintain a user-friendly, publicly available, machine-readable database with detailed project-level information, as appropriate and to the extent practicable, including a description of the support provided by the Corporation under subchapter II of this chapter, including, to the extent feasible, the information included in the report to Congress under section 9653 of this title and project-level performance metrics; and”.
 
-### § 9655. Engagement with investors
+### § 9655. Engagement with investors
 
 **(a) In general** The Corporation, acting through the Chief Development Officer, shall, in cooperation with the Administrator of the United States Agency for International Development—
 
@@ -1815,9 +1815,9 @@ The Corporation shall—
 
 The Corporation shall coordinate with the United States Agency for International Development and other agencies and departments, as necessary, on projects and programs supported by the Corporation that include technical assistance.
 
-(Pub. L. 115–254, div. F, title IV, § 1445, Oct. 5, 2018, 132 Stat. 3506.)
+(Pub. L. 115–254, div. F, title IV, § 1445, Oct. 5, 2018, 132 Stat. 3506.)
 
-### § 9656. Notifications to be provided by the Corporation
+### § 9656. Notifications to be provided by the Corporation
 
 **(a) In general**
 
@@ -1841,21 +1841,21 @@ Not later than 15 days prior to the Corporation making a financial commitment as
 
 The Chief Executive Officer of the Corporation shall notify the appropriate congressional committees not later than 30 days after entering into a new bilateral agreement described in section 9631(a) of this title.
 
-(Pub. L. 115–254, div. F, title IV, § 1446, Oct. 5, 2018, 132 Stat. 3507; (As amended Pub. L. 119–60, div. H, title LXXXVII, § 8757, Dec. 18, 2025, 139 Stat. 1967.)
+(Pub. L. 115–254, div. F, title IV, § 1446, Oct. 5, 2018, 132 Stat. 3507; (As amended Pub. L. 119–60, div. H, title LXXXVII, § 8757, Dec. 18, 2025, 139 Stat. 1967.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8757(1), substituted “$20,000,000” for “$10,000,000”.
+2025—Subsec. (a). Pub. L. 119–60, § 8757(1), substituted “$20,000,000” for “$10,000,000”.
 
-Subsec. (b)(3). Pub. L. 119–60, § 8757(2)(B)(i), inserted “the Corporation’s impact quotient outlining” after “asset and”.
+Subsec. (b)(3). Pub. L. 119–60, § 8757(2)(B)(i), inserted “the Corporation’s impact quotient outlining” after “asset and”.
 
-Subsec. (b)(4). Pub. L. 119–60, § 8757(2)(B)(ii), (C), added par. (4).
+Subsec. (b)(4). Pub. L. 119–60, § 8757(2)(B)(ii), (C), added par. (4).
 
 ## SUBCHAPTER V—CONDITIONS, RESTRICTIONS, AND PROHIBITIONS
 
-### § 9671. Limitations and preferences
+### § 9671. Limitations and preferences
 
 **(a) Limitation on support for single entity**
 
@@ -1969,7 +1969,7 @@ The term “owned”, with respect to an enterprise, means a majority or control
 
 The term “state-owned enterprise” means any enterprise established for a commercial or business purpose that is directly owned or controlled by one or more governments, including any agency, instrumentality, subdivision, or other unit of government at any level of jurisdiction.
 
-(Pub. L. 115–254, div. F, title V, § 1451, Oct. 5, 2018, 132 Stat. 3507; Pub. L. 119–60, div. H, title LXXXVII, § 8758, Dec. 18, 2025, 139 Stat. 1968.)
+(Pub. L. 115–254, div. F, title V, § 1451, Oct. 5, 2018, 132 Stat. 3507; Pub. L. 119–60, div. H, title LXXXVII, § 8758, Dec. 18, 2025, 139 Stat. 1968.)
 
 **Editorial Notes**
 
@@ -1979,11 +1979,11 @@ This chapter, referred to in subsec. (i), was in the original “this division�
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8758(1), substituted “2.5 percent” for “5 percent”.
+2025—Subsec. (a). Pub. L. 119–60, § 8758(1), substituted “2.5 percent” for “5 percent”.
 
-Subsec. (j). Pub. L. 119–60, § 8758(2), added subsec. (j).
+Subsec. (j). Pub. L. 119–60, § 8758(2), added subsec. (j).
 
-### § 9672. Additionality and avoidance of market distortion
+### § 9672. Additionality and avoidance of market distortion
 
 **(a) In general**
 
@@ -1997,9 +1997,9 @@ Before the Corporation provides support for a project under subchapter II of thi
 
 **(3)** does not have a significant adverse impact on United States employment.
 
-(Pub. L. 115–254, div. F, title V, § 1452, Oct. 5, 2018, 132 Stat. 3509.)
+(Pub. L. 115–254, div. F, title V, § 1452, Oct. 5, 2018, 132 Stat. 3509.)
 
-### § 9673. Prohibition on support in countries that support terrorism or violate human rights and with sanctioned persons
+### § 9673. Prohibition on support in countries that support terrorism or violate human rights and with sanctioned persons
 
 **(a) In general** The Corporation is prohibited from providing support under subchapter II of this chapter for a government, or an entity owned or controlled by a government, if the Secretary of State has determined that the government—
 
@@ -2023,17 +2023,17 @@ The Corporation is prohibited from all dealings related to any project under sub
 
 The Corporation shall require any person receiving support under subchapter II of this chapter to certify that the person, and any entity owned or controlled by the person, is in compliance with all United States sanctions laws and regulations.
 
-(Pub. L. 115–254, div. F, title V, § 1453, Oct. 5, 2018, 132 Stat. 3510.)
+(Pub. L. 115–254, div. F, title V, § 1453, Oct. 5, 2018, 132 Stat. 3510.)
 
-### § 9674. Applicability of certain provisions of law
+### § 9674. Applicability of certain provisions of law
 
 Subsections (g), (*l*), (m), and (n) of section 2197 of this title shall apply with respect to the Corporation to the same extent and in the same manner as such subsections applied with respect to the Overseas Private Investment Corporation on the day before October 5, 2018.
 
-(Pub. L. 115–254, div. F, title V, § 1454, Oct. 5, 2018, 132 Stat. 3510.)
+(Pub. L. 115–254, div. F, title V, § 1454, Oct. 5, 2018, 132 Stat. 3510.)
 
 ## SUBCHAPTER VI—TRANSITIONAL PROVISIONS
 
-### § 9681. Definitions
+### § 9681. Definitions
 
 In this subchapter:
 
@@ -2047,15 +2047,15 @@ The term “agency” includes any entity, organizational unit, program, or func
 
 **(B)** ending on the effective date of the reorganization plan required by section 9682(e) of this title.
 
-(Pub. L. 115–254, div. F, title VI, § 1461, Oct. 5, 2018, 132 Stat. 3510.)
+(Pub. L. 115–254, div. F, title VI, § 1461, Oct. 5, 2018, 132 Stat. 3510.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
-### § 9682. Reorganization plan
+### § 9682. Reorganization plan
 
 **(a) Submission of plan**
 
@@ -2109,13 +2109,13 @@ The reorganization plan described in this section, including any modifications o
 
 Nothing in this subsection may be construed to require the transfer of functions, personnel, records, balances of appropriations, or other assets of an agency on a single date.
 
-(Pub. L. 115–254, div. F, title VI, § 1462, Oct. 5, 2018, 132 Stat. 3511.)
+(Pub. L. 115–254, div. F, title VI, § 1462, Oct. 5, 2018, 132 Stat. 3511.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter. Section 1464(2) of title VI of div. F of Pub. L. 115–254 repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), effective at the end of the transition period, as defined in section 9681 of this title. The reorganization plan described in this section was submitted on Mar. 8, 2019, with a proposed effective date of Oct. 1, 2019, and funding authorized on Dec. 20, 2019. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter. Section 1464(2) of title VI of div. F of Pub. L. 115–254 repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), effective at the end of the transition period, as defined in section 9681 of this title. The reorganization plan described in this section was submitted on Mar. 8, 2019, with a proposed effective date of Oct. 1, 2019, and funding authorized on Dec. 20, 2019. For complete classification of title VI to the Code, see Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
@@ -2133,7 +2133,7 @@ The President of the Overseas Private Investment Corporation is authorized and d
 
 Donald J. Trump.
 
-### § 9683. Transfer of functions
+### § 9683. Transfer of functions
 
 **(a) In general** Effective at the end of the transition period, there shall be transferred to the Corporation the functions, personnel, assets, and liabilities of—
 
@@ -2171,13 +2171,13 @@ Any bilateral agreement of the United States in effect on October 5, 2018, that 
 
 **(2)** carry out such programs and activities authorized under this chapter as may be determined by the President.
 
-(Pub. L. 115–254, div. F, title VI, § 1463, Oct. 5, 2018, 132 Stat. 3512.)
+(Pub. L. 115–254, div. F, title VI, § 1463, Oct. 5, 2018, 132 Stat. 3512.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (e)(2), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
@@ -2185,13 +2185,13 @@ This chapter, referred to in subsec. (e)(2), was in the original “this divisio
 
 **Enhancement of Nongovernmental Sector in Poland and Hungary**
 
-Pub. L. 101–179, title III, § 302(b), Nov. 28, 1989, 103 Stat. 1311, provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
+Pub. L. 101–179, title III, § 302(b), Nov. 28, 1989, 103 Stat. 1311, provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
 
 [For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see this section and section 9686(d) of this title.]
 
-Pub. L. 101–179, title III, § 302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: “If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 [Pub. L. 101–167], contains the same amendment that is made by subsection (a) of this section [amending former section 2199(f) of this title by inserting “, Poland, Hungary,” after “Yugoslavia”], the amendment made by that Act shall not be effective.”
+Pub. L. 101–179, title III, § 302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: “If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 [Pub. L. 101–167], contains the same amendment that is made by subsection (a) of this section [amending former section 2199(f) of this title by inserting “, Poland, Hungary,” after “Yugoslavia”], the amendment made by that Act shall not be effective.”
 
-### § 9684. Termination of Overseas Private Investment Corporation and other superceded authorities
+### § 9684. Termination of Overseas Private Investment Corporation and other superceded authorities
 
 Effective at the end of the transition period—
 
@@ -2199,7 +2199,7 @@ Effective at the end of the transition period—
 
 **(2)** Omitted.
 
-(Pub. L. 115–254, div. F, title VI, § 1464, Oct. 5, 2018, 132 Stat. 3513.)
+(Pub. L. 115–254, div. F, title VI, § 1464, Oct. 5, 2018, 132 Stat. 3513.)
 
 **Editorial Notes**
 
@@ -2207,7 +2207,7 @@ Effective at the end of the transition period—
 
 Section is comprised of section 1464 of Pub. L. 115–254. Par. (2) of section 1464 of Pub. L. 115–254 repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)).
 
-### § 9685. Transitional authorities
+### § 9685. Transitional authorities
 
 **(a) Provision of assistance by officials**
 
@@ -2239,7 +2239,7 @@ Nothing in this chapter shall be construed to require the advice and consent of 
 
 **(B)** vested in the Corporation by this chapter or other law.
 
-(Pub. L. 115–254, div. F, title VI, § 1465, Oct. 5, 2018, 132 Stat. 3513.)
+(Pub. L. 115–254, div. F, title VI, § 1465, Oct. 5, 2018, 132 Stat. 3513.)
 
 **Editorial Notes**
 
@@ -2247,9 +2247,9 @@ Nothing in this chapter shall be construed to require the advice and consent of 
 
 This chapter, referred to in subsecs. (c) and (d)(2)(B), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-This subchapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
-### § 9686. Savings provisions
+### § 9686. Savings provisions
 
 **(a) Completed administrative actions**
 
@@ -2293,7 +2293,7 @@ Except as otherwise provided in this chapter, or under authority granted by this
 
 Any statutory reporting requirement that applied to an agency transferred to the Corporation under this subchapter immediately before October 5, 2018, shall continue to apply following that transfer if the statutory requirement refers to the agency by name.
 
-(Pub. L. 115–254, div. F, title VI, § 1466, Oct. 5, 2018, 132 Stat. 3514.)
+(Pub. L. 115–254, div. F, title VI, § 1466, Oct. 5, 2018, 132 Stat. 3514.)
 
 **Editorial Notes**
 
@@ -2305,13 +2305,13 @@ This chapter, referred to in subsecs. (b)(2), (d), and (e)(2), was in the origin
 
 The effective date of this chapter, referred to in subsec. (d), probably means the date of enactment of Pub. L. 115–254, which enacted this chapter and which was approved Oct. 5, 2018.
 
-This subchapter, referred to in subsecs. (e)(2) and (f), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in subsecs. (e)(2) and (f), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
-### § 9687. Other terminations
+### § 9687. Other terminations
 
 Except as otherwise provided in this chapter, whenever all the functions vested by law in any agency have been transferred pursuant to this subchapter, each position and office the incumbent of which was authorized to receive compensation at the rates prescribed for an office or position at level II, III, IV, or V of the Executive Schedule under subchapter II of chapter 53 of title 5 shall terminate.
 
-(Pub. L. 115–254, div. F, title VI, § 1467, Oct. 5, 2018, 132 Stat. 3515.)
+(Pub. L. 115–254, div. F, title VI, § 1467, Oct. 5, 2018, 132 Stat. 3515.)
 
 **Editorial Notes**
 
@@ -2319,32 +2319,32 @@ Except as otherwise provided in this chapter, whenever all the functions vested 
 
 This chapter, referred to in text, was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 Levels II, III, IV, and V of the Executive Schedule, referred to in text, are set out in sections 5313, 5314, 5315, and 5316, respectively, of Title 5, Government Organization and Employees.
 
-### § 9688. Incidental transfers
+### § 9688. Incidental transfers
 
 The Director of the Office of Management and Budget, in consultation with the Corporation, is authorized and directed to make such additional incidental dispositions of personnel, assets, and liabilities held, used, arising from, available, or to be made available, in connection with the functions transferred by this subchapter, as the Director may determine necessary to accomplish the purposes of this chapter.
 
-(Pub. L. 115–254, div. F, title VI, § 1468, Oct. 5, 2018, 132 Stat. 3515.)
+(Pub. L. 115–254, div. F, title VI, § 1468, Oct. 5, 2018, 132 Stat. 3515.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 This chapter, referred to in text, was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-### § 9689. Reference
+### § 9689. Reference
 
 With respect to any function transferred under this subchapter (including under a reorganization plan under section 9682 of this title) and exercised on or after October 5, 2018, reference in any other Federal law to any department, commission, or agency or any officer or office the functions of which are so transferred shall be deemed to refer to the Corporation or official or component of the Corporation to which that function is so transferred.
 
-(Pub. L. 115–254, div. F, title VI, § 1469, Oct. 5, 2018, 132 Stat. 3515.)
+(Pub. L. 115–254, div. F, title VI, § 1469, Oct. 5, 2018, 132 Stat. 3515.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (*l*), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (*l*), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.

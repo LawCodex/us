@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 40—GENERAL PROVISIONS RELATING TO OCCUPATIONAL TAXES
 
-## § 4901. Payment of tax
+## § 4901. Payment of tax
 
 **(a) Condition precedent to carrying on certain business**
 
@@ -25,7 +25,7 @@ No person shall be engaged in or carry on any trade or business subject to the t
 
 All special taxes shall be imposed as of on the first day of July in each year, or on commencing any trade or business on which such tax is imposed. In the former case the tax shall be reckoned for 1 year, and in the latter case it shall be reckoned proportionately, from the first day of the month in which the liability to a special tax commenced, to and including the 30th day of June following.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 593; Pub. L. 89–44, title IV, § 405(b), June 21, 1965, 79 Stat. 149; Pub. L. 91–513, title III, § 1102(a), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, § 1904(a)(19), Oct. 4, 1976, 90 Stat. 1814; Pub. L. 95–600, title V, § 521(c)(2), Nov. 6, 1978, 92 Stat. 2884.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 593; Pub. L. 89–44, title IV, § 405(b), June 21, 1965, 79 Stat. 149; Pub. L. 91–513, title III, § 1102(a), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, § 1904(a)(19), Oct. 4, 1976, 90 Stat. 1814; Pub. L. 95–600, title V, § 521(c)(2), Nov. 6, 1978, 92 Stat. 2884.)
 
 **Editorial Notes**
 
@@ -65,25 +65,25 @@ Prosecution for any violation of law occurring, and civil seizures or forfeiture
 
 Person on Dec. 1, 1974, engaging in an activity making him liable for payment of tax imposed by section 4411 of this title (as in effect on such date) to be treated as commencing such activity on such date for purposes of this section and section 4411 of this title, see section 3(d)(2) of Pub. L. 93–499, set out as a note under section 4411 of this title.
 
-## § 4902. Liability of partners
+## § 4902. Liability of partners
 
 Any number of persons doing business in copartnership at any one place shall be required to pay but one special tax.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 593.)
 
-## § 4903. Liability in case of business in more than one location
+## § 4903. Liability in case of business in more than one location
 
 The payment of the special tax imposed, other than the tax imposed by section 4411, shall not exempt from an additional special tax the person carrying on a trade or business in any other place than that stated in the register kept in the office of the official in charge of the internal revenue district; but nothing herein contained shall require a special tax for the storage of goods, wares, or merchandise in other places than the place of business, nor, except as provided in this subtitle, for the sale by manufacturers or producers of their own goods, wares, and merchandise, at the place of production or manufacture, and at their principal office or place of business, provided no goods, wares, or merchandise shall be kept except as samples at said office or place of business.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 593.)
 
-## § 4904. Liability in case of different businesses of same ownership and location
+## § 4904. Liability in case of different businesses of same ownership and location
 
 Whenever more than one of the pursuits or occupations described in this subtitle are carried on in the same place by the same person at the same time, except as otherwise provided in this subtitle, the tax shall be paid for each according to the rates severally prescribed.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 594.)
 
-## § 4905. Liability in case of death or change of location
+## § 4905. Liability in case of death or change of location
 
 **(a) Requirements**
 
@@ -93,15 +93,15 @@ When any person who has paid the special tax for any trade or business dies, his
 
 For registration in case of wagering, see section 4412.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 594; Pub. L. 89–44, title IV, § 405(c), June 21, 1965, 79 Stat. 149; Pub. L. 91–513, title III, § 1102(b), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1904(a)(20), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1814, 1816, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 594; Pub. L. 89–44, title IV, § 405(c), June 21, 1965, 79 Stat. 149; Pub. L. 91–513, title III, § 1102(b), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1904(a)(20), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1814, 1816, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1904(a)(20), 1906(b)(13)(A), substituted “spouse or child” for “wife or child” and struck out “or his delegate” after “Secretary” wherever appearing.
+1976—Subsec. (a). Pub. L. 94–455, §§ 1904(a)(20), 1906(b)(13)(A), substituted “spouse or child” for “wife or child” and struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (b). Pub. L. 94–455, § 1904(b)(8)(A), among other changes, struck out reference to section 4804(d) for registration in case of white phosphorous matches and references to subtitle F for other provisions relating to registration.
+Subsec. (b). Pub. L. 94–455, § 1904(b)(8)(A), among other changes, struck out reference to section 4804(d) for registration in case of white phosphorous matches and references to subtitle F for other provisions relating to registration.
 
 1970—Subsec. (b)(1). Pub. L. 91–513 struck out references to narcotics and marihuana and to sections 4722 and 4753.
 
@@ -115,19 +115,19 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VII, § 701(c)(2), June 21, 1965, 79 Stat. 157, provided in part that: “The amendments made by section 402 [repealing sections 4451 to 4457 of this title] (relating to playing cards) and by subsection (c) of section 405 [amending this section] shall apply on and after the day after the date of the enactment of this Act [June 21, 1965].”
+Pub. L. 89–44, title VII, § 701(c)(2), June 21, 1965, 79 Stat. 157, provided in part that: “The amendments made by section 402 [repealing sections 4451 to 4457 of this title] (relating to playing cards) and by subsection (c) of section 405 [amending this section] shall apply on and after the day after the date of the enactment of this Act [June 21, 1965].”
 
 **Savings Provision**
 
 Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
 
-## § 4906. Application of State laws
+## § 4906. Application of State laws
 
 The payment of any special tax imposed by this subtitle for carrying on any trade or business shall not be held to exempt any person from any penalty or punishment provided by the laws of any State for carrying on the same within such State, or in any manner to authorize the commencement or continuance of such trade or business contrary to the laws of such State or in places prohibited by municipal law; nor shall the payment of any such tax be held to prohibit any State from placing a duty or tax on the same trade or business, for State or other purposes.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 594.)
 
-## § 4907. Federal agencies or instrumentalities
+## § 4907. Federal agencies or instrumentalities
 
 Any special tax imposed by this subtitle, except the tax imposed by section 4411, shall apply to any agency or instrumentality of the United States unless such agency or instrumentality is granted by statute a specific exemption from such tax.
 

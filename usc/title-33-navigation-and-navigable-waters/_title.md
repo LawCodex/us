@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 33—NAVIGATION AND NAVIGABLE WATERS
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—NAVIGABLE WATERS GENERALLY](chapter-001-navigable-waters-generally.md)
 

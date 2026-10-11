@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 183—NATIONAL CAPITAL AREA INTEREST ARBITRATION STANDARDS
 
-## § 18301. Findings and purposes
+## § 18301. Findings and purposes
 
 **(a) Findings.—** Congress finds that—
 
@@ -41,11 +41,11 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 18301 | 40:1301. | Pub. L. 104–50, title IV, § 402, Nov. 15, 1995, 109 Stat. 463. |
+| 18301 | 40:1301. | Pub. L. 104–50, title IV, § 402, Nov. 15, 1995, 109 Stat. 463. |
 
 In subsection (a)(7), the reference is to section 8 of article I of the United States Constitution to correct an error in the source provision.
 
-## § 18302. Definitions
+## § 18302. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -65,11 +65,11 @@ In this chapter, the following definitions apply:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 18302 | 40:1302(1), (2), (4), (5). | Pub. L. 104–50, title IV, § 403(1), (2), (4), (5), Nov. 15, 1995, 109 Stat. 464. |
+| 18302 | 40:1302(1), (2), (4), (5). | Pub. L. 104–50, title IV, § 403(1), (2), (4), (5), Nov. 15, 1995, 109 Stat. 464. |
 
 The text of 40:1302(4) and (5) is combined to eliminate unnecessary words.
 
-## § 18303. Standards for arbitrators
+## § 18303. Standards for arbitrators
 
 **(a) Definition.—** In this section, the term “public welfare” includes, with respect to arbitration under an interstate compact—
 
@@ -115,13 +115,13 @@ The text of 40:1302(4) and (5) is combined to eliminate unnecessary words.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 18303(a) | 40:1302(6). | Pub. L. 104–50, title IV, §§ 403(3), (6), 404, Nov. 15, 1995, 109 Stat. 464. |
+| 18303(a) | 40:1302(6). | Pub. L. 104–50, title IV, §§ 403(3), (6), 404, Nov. 15, 1995, 109 Stat. 464. |
 | 18303(b)–(d) | 40:1302(3). |  |
 |  | 40:1303. |  |
 
 The text of 40:1302(3) and 1303(b) is combined because 40:1303(b) is the only place the definition of “funding ability” is used in the revised chapter.
 
-## § 18304. Procedures for enforcement of awards
+## § 18304. Procedures for enforcement of awards
 
 **(a) Modifications and Finality of Award.—** Within 10 days after the parties receive an arbitration award to which section 18303 of this title applies, the interstate compact agency and the employees, through their representative, may agree in writing on any modifications to the award. After the end of that 10-day period, the award, and any modifications, become binding on the interstate compact agency, the employees in the bargaining unit, and the employees’ representative.
 
@@ -149,4 +149,4 @@ The text of 40:1302(3) and 1303(b) is combined because 40:1303(b) is the only pl
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 18304 | 40:1304. | Pub. L. 104–50, title IV, § 405, Nov. 15, 1995, 109 Stat. 465. |
+| 18304 | 40:1304. | Pub. L. 104–50, title IV, § 405, Nov. 15, 1995, 109 Stat. 465. |

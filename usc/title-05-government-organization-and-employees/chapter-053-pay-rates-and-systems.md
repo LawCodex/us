@@ -19,41 +19,41 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30, which directed amendment of the table of sections for subchapter III of this chapter by adding item 5332a, was executed to the table of sections for this chapter, to reflect the probable intent of Congress. Amendment is based on section 456(b) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
+2025—Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30, which directed amendment of the table of sections for subchapter III of this chapter by adding item 5332a, was executed to the table of sections for this chapter, to reflect the probable intent of Congress. Amendment is based on section 456(b) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
 
-2000—Pub. L. 106–554, § 1(a)(3) [title VI, § 645(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–170, added item 5372b.
+2000—Pub. L. 106–554, § 1(a)(3) [title VI, § 645(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–170, added item 5372b.
 
-1992—Pub. L. 102–378, § 8(a), Oct. 2, 1992, 106 Stat. 1359, repealed Pub. L. 100–510, § 1206(i)(2). See 1990 Amendment note below.
+1992—Pub. L. 102–378, § 8(a), Oct. 2, 1992, 106 Stat. 1359, repealed Pub. L. 100–510, § 1206(i)(2). See 1990 Amendment note below.
 
-Pub. L. 102–378, § 2(24), Oct. 2, 1992, 106 Stat. 1348, substituted “repayments” for “repayment” in item 5379 and struck out “Sec.” before item 5391.
+Pub. L. 102–378, § 2(24), Oct. 2, 1992, 106 Stat. 1348, substituted “repayments” for “repayment” in item 5379 and struck out “Sec.” before item 5391.
 
-1990—Pub. L. 101–510, div. A, title XII, § 1206(i)(2), Nov. 5, 1990, 104 Stat. 1663, which added item 5380 “Pay authority for critical positions”, was repealed by Pub. L. 102–378, § 8(a), Oct. 2, 1992, 106 Stat. 1359, which provided that this title shall read as if such section 1206(i)(2) had not been enacted.
+1990—Pub. L. 101–510, div. A, title XII, § 1206(i)(2), Nov. 5, 1990, 104 Stat. 1663, which added item 5380 “Pay authority for critical positions”, was repealed by Pub. L. 102–378, § 8(a), Oct. 2, 1992, 106 Stat. 1359, which provided that this title shall read as if such section 1206(i)(2) had not been enacted.
 
-Pub. L. 101–510, div. A, title XII, § 1206(b)(2), Nov. 5, 1990, 104 Stat. 1661, added item 5379.
+Pub. L. 101–510, div. A, title XII, § 1206(b)(2), Nov. 5, 1990, 104 Stat. 1661, added item 5379.
 
-Pub. L. 101–509, title V, § 529 [title I, §§ 101(a)(2), 102(a)(2), 103(b), 104(b), 105(a)(2), 109(a)(1)(B), title II, §§ 205(b), 211(b)(2)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1443, 1445, 1446, 1448, 1451, 1457, 1461, struck out items 5301 “Policy”, 5303 “Higher minimum rates; Presidential authority”, 5304 “Presidential policies and regulations”, 5305 “Annual pay reports and adjustments”, 5306 “Advisory Committee on Federal Pay”, 5307 “Pay fixed by administrative action”, and 5308 “Pay limitation”, and added items 5301 to 5307, struck out “; higher rates for supervisors of prevailing rate employees” after “appointments” in item 5333, substituted “Health care positions” for “Scientific and professional positions” in item 5371, and added items 5372a, 5376 to 5378, item for subchapter IX, and items 5391 and 5392.
+Pub. L. 101–509, title V, § 529 [title I, §§ 101(a)(2), 102(a)(2), 103(b), 104(b), 105(a)(2), 109(a)(1)(B), title II, §§ 205(b), 211(b)(2)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1443, 1445, 1446, 1448, 1451, 1457, 1461, struck out items 5301 “Policy”, 5303 “Higher minimum rates; Presidential authority”, 5304 “Presidential policies and regulations”, 5305 “Annual pay reports and adjustments”, 5306 “Advisory Committee on Federal Pay”, 5307 “Pay fixed by administrative action”, and 5308 “Pay limitation”, and added items 5301 to 5307, struck out “; higher rates for supervisors of prevailing rate employees” after “appointments” in item 5333, substituted “Health care positions” for “Scientific and professional positions” in item 5371, and added items 5372a, 5376 to 5378, item for subchapter IX, and items 5391 and 5392.
 
-Pub. L. 101–263, § 1(b), Apr. 4, 1990, 104 Stat. 125, inserted “the” before “National” in item 5375.
+Pub. L. 101–263, § 1(b), Apr. 4, 1990, 104 Stat. 125, inserted “the” before “National” in item 5375.
 
-1979—Pub. L. 96–54, § 2(a)(26)(B), Aug. 14, 1979, 93 Stat. 382, substituted “prevailing rate” for “wage-board” in item 5333.
+1979—Pub. L. 96–54, § 2(a)(26)(B), Aug. 14, 1979, 93 Stat. 382, substituted “prevailing rate” for “wage-board” in item 5333.
 
-1978—Pub. L. 95–454, title IV, § 407(b), title VIII, § 801(a)(3)(B)(i), (ii), Oct. 13, 1978, 92 Stat. 1172, 1221, struck out items 5337 “Pay saving” and 5345 “Retained rate of pay on reduction in grade or reassignment”, added item for subchapter VI and items 5361 to 5366, redesignated former item for subchapter VI and items 5361 to 5365 as subchapter VII and items 5371 to 5375, respectively, and added item for subchapter VIII and items 5381 to 5385.
+1978—Pub. L. 95–454, title IV, § 407(b), title VIII, § 801(a)(3)(B)(i), (ii), Oct. 13, 1978, 92 Stat. 1172, 1221, struck out items 5337 “Pay saving” and 5345 “Retained rate of pay on reduction in grade or reassignment”, added item for subchapter VI and items 5361 to 5366, redesignated former item for subchapter VI and items 5361 to 5365 as subchapter VII and items 5371 to 5375, respectively, and added item for subchapter VIII and items 5381 to 5385.
 
-Pub. L. 95–251, § 2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted “Administrative law judges” for “Hearing examiners” in item 5362.
+Pub. L. 95–251, § 2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted “Administrative law judges” for “Hearing examiners” in item 5362.
 
-1975—Pub. L. 94–82, title II, § 202(b)(6), Aug. 9, 1975, 89 Stat. 420, added item 5318.
+1975—Pub. L. 94–82, title II, § 202(b)(6), Aug. 9, 1975, 89 Stat. 420, added item 5318.
 
-1972—Pub. L. 92–392, § 1(b), Aug. 19, 1972, 86 Stat. 572, substituted items 5341, 5343, 5344, and 5345 relating to “Policy”, “Prevailing rate determinations; wage schedules; night differentials”, “Effective date of wage increase; retroactive pay” and “Retained rate of pay on reduction in grade or reassignment”, for such former items relating to “Trades and crafts”, “Effective date of pay increase”, “Retroactive pay” and “Position classification appeals”, added items 5342, 5346, 5347, and 5349, and renumbered former item 5342 as 5348.
+1972—Pub. L. 92–392, § 1(b), Aug. 19, 1972, 86 Stat. 572, substituted items 5341, 5343, 5344, and 5345 relating to “Policy”, “Prevailing rate determinations; wage schedules; night differentials”, “Effective date of wage increase; retroactive pay” and “Retained rate of pay on reduction in grade or reassignment”, for such former items relating to “Trades and crafts”, “Effective date of pay increase”, “Retroactive pay” and “Position classification appeals”, added items 5342, 5346, 5347, and 5349, and renumbered former item 5342 as 5348.
 
-1971—Pub. L. 91–656, §§ 2(b)(2), 3(b), Jan. 8, 1971, 84 Stat. 1946, 1951, struck out item 5302 “Annual reports on pay comparability” and added items 5305–5308.
+1971—Pub. L. 91–656, §§ 2(b)(2), 3(b), Jan. 8, 1971, 84 Stat. 1946, 1951, struck out item 5302 “Annual reports on pay comparability” and added items 5305–5308.
 
-1969—Pub. L. 91–34, § 1(b), June 30, 1969, 83 Stat. 41, added item 5365.
+1969—Pub. L. 91–34, § 1(b), June 30, 1969, 83 Stat. 41, added item 5365.
 
-1967—Pub. L. 90–206, title II, § 223(b), Dec. 16, 1967, 81 Stat. 642, added item 5345.
+1967—Pub. L. 90–206, title II, § 223(b), Dec. 16, 1967, 81 Stat. 642, added item 5345.
 
 ## SUBCHAPTER I—PAY COMPARABILITY SYSTEM
 
-### § 5301. Policy
+### § 5301. Policy
 
 It is the policy of Congress that Federal pay fixing for employees under the General Schedule be based on the principles that—
 
@@ -65,13 +65,13 @@ It is the policy of Congress that Federal pay fixing for employees under the Gen
 
 **(4)** any existing pay disparities between Federal and non-Federal employees should be completely eliminated.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, § 2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L. 96–465, title II, § 2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1429.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, § 2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L. 96–465, title II, § 2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1429.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1171. | Oct. 11, 1962, Pub. L. 87–793, § 502, 76 Stat. 841. |
+|  | 5 U.S.C. 1171. | Oct. 11, 1962, Pub. L. 87–793, § 502, 76 Stat. 841. |
 
 The words “It is the policy of Congress” are substituted for “The Congress hereby declares”. The words “whereas the functions of a Federal salary system are to fix salary rates for the services rendered by Federal employees so as to make possible the employment of persons well qualified to conduct the Government’s programs and to control expenditures of public funds for personal services with equity to the employee and to the taxpayer, and whereas fulfillment of these functions is essential to the development and maintenance of maximum proficiency in the civilian services of Government, then, accordingly” are omitted as unnecessary.
 
@@ -113,9 +113,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1990 Amendment**
 
-Section 529 [title III, § 305] of Pub. L. 101–509 provided that:
+Section 529 [title III, § 305] of Pub. L. 101–509 provided that:
 
-> **“(a) Generally.—** Except as otherwise provided in this Act, this Act and the amendments made by this Act [this Act means section 529 [titles I–III, §§ 1–306] of Pub. L. 101–509, but does not include section 529 [title IV, §§ 401–412] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note below, and see Tables for classification] shall take effect on such date as the President shall determine [see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act [Nov. 5, 1990].
+> **“(a) Generally.—** Except as otherwise provided in this Act, this Act and the amendments made by this Act [this Act means section 529 [titles I–III, §§ 1–306] of Pub. L. 101–509, but does not include section 529 [title IV, §§ 401–412] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note below, and see Tables for classification] shall take effect on such date as the President shall determine [see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act [Nov. 5, 1990].
 
 > **“(b) Special Rule.—** The first calendar year in which comparability payments under section 5304 of title 5, United States Code (as amended by this Act), are paid shall be the calendar year beginning on January 1, 1994.”
 
@@ -125,17 +125,17 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 901], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title [enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
+Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 901], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title [enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–89, § 1, Sept. 30, 1993, 107 Stat. 981, provided that: “This Act [amending sections 3372, 4501, 4502, 5302, 5332, 5334 to 5336, 5361 to 5363, 5410, 5948, and 8473 of this title, sections 1602, 1732, and 1733 of Title 10, Armed Forces, and section 731 of Title 31, Money and Finance, repealing sections 4302a and 5401 to 5410 of this title, enacting provisions set out as notes under sections 3372, 5335, 5401, and 5410 of this title, and amending provisions set out as a note under section 5304 of this title] may be cited as the ‘Performance Management and Recognition System Termination Act’.”
+Pub. L. 103–89, § 1, Sept. 30, 1993, 107 Stat. 981, provided that: “This Act [amending sections 3372, 4501, 4502, 5302, 5332, 5334 to 5336, 5361 to 5363, 5410, 5948, and 8473 of this title, sections 1602, 1732, and 1733 of Title 10, Armed Forces, and section 731 of Title 31, Money and Finance, repealing sections 4302a and 5401 to 5410 of this title, enacting provisions set out as notes under sections 3372, 5335, 5401, and 5410 of this title, and amending provisions set out as a note under section 5304 of this title] may be cited as the ‘Performance Management and Recognition System Termination Act’.”
 
 **Short Title of 1990 Amendment; Rules of Construction**
 
-Pub. L. 101–509, title V, § 529 [§ 1], Nov. 5, 1990, 104 Stat. 1427, provided that:
+Pub. L. 101–509, title V, § 529 [§ 1], Nov. 5, 1990, 104 Stat. 1427, provided that:
 
-> **“(a) Short Title.—** This section, and the sections immediately following this section through section 412, inclusive [section 529 [§§ 1–412] of Pub. L. 101–509, see Tables for classification], may be cited as the ‘Federal Employees Pay Comparability Act of 1990’ (hereinafter in this section referred to as ‘FEPCA’).
+> **“(a) Short Title.—** This section, and the sections immediately following this section through section 412, inclusive [section 529 [§§ 1–412] of Pub. L. 101–509, see Tables for classification], may be cited as the ‘Federal Employees Pay Comparability Act of 1990’ (hereinafter in this section referred to as ‘FEPCA’).
 
 > **“(b) Rules of Construction.—**
 
@@ -143,15 +143,15 @@ Pub. L. 101–509, title V, § 529 [§ 1], Nov. 5, 1990, 104 Stat. 1427, pro
 
 > **“(2)** Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Act to the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ [Pub. L. 101–509] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
 
-Pub. L. 101–509, title V, § 529 [title III, § 306], Nov. 5, 1990, 104 Stat. 1427, 1464, provided that: “Notwithstanding section 1(b) [section 529 [§ 1(b)] of Pub. L. 101–509, set out above], a reference in any of the preceding provisions of this title [section 529 [title III, §§ 301–305] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42] to ‘this Act’ [section 529 of Pub. L. 101–509] (other than a reference in section 301) [section 529 [title III, § 301] of Pub. L. 101–509, set out below] shall not be considered to include any provision of title IV [section 529 [title IV, §§ 401–412] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title].”
+Pub. L. 101–509, title V, § 529 [title III, § 306], Nov. 5, 1990, 104 Stat. 1427, 1464, provided that: “Notwithstanding section 1(b) [section 529 [§ 1(b)] of Pub. L. 101–509, set out above], a reference in any of the preceding provisions of this title [section 529 [title III, §§ 301–305] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42] to ‘this Act’ [section 529 of Pub. L. 101–509] (other than a reference in section 301) [section 529 [title III, § 301] of Pub. L. 101–509, set out below] shall not be considered to include any provision of title IV [section 529 [title IV, §§ 401–412] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title].”
 
 **Short Title**
 
-Pub. L. 91–656, § 1, Jan. 8, 1971, 84 Stat. 1946, provided that: “This Act [enacting sections 5305 to 5308 and 5947 of this title, amending this section, sections 5108 and 5942 of this title, and section 410 of Title 39, Postal Service, repealing section 5302 of this title, and enacting provisions set out as notes under sections 5303 and 5942 of this title, section 60a of Title 2, The Congress, and section 410 of Title 39] may be cited as the ‘Federal Pay Comparability Act of 1970’.”
+Pub. L. 91–656, § 1, Jan. 8, 1971, 84 Stat. 1946, provided that: “This Act [enacting sections 5305 to 5308 and 5947 of this title, amending this section, sections 5108 and 5942 of this title, and section 410 of Title 39, Postal Service, repealing section 5302 of this title, and enacting provisions set out as notes under sections 5303 and 5942 of this title, section 60a of Title 2, The Congress, and section 410 of Title 39] may be cited as the ‘Federal Pay Comparability Act of 1970’.”
 
 **Pay-for-Performance Labor-Management Committee**
 
-Pub. L. 101–509, title V, § 529 [title I, § 111], Nov. 5, 1990, 104 Stat. 1453, provided that:
+Pub. L. 101–509, title V, § 529 [title I, § 111], Nov. 5, 1990, 104 Stat. 1453, provided that:
 
 > **“(a) Policy.—** It is the policy of Congress that—
 
@@ -199,17 +199,17 @@ Pub. L. 101–509, title V, § 529 [title I, § 111], Nov. 5, 1990, 104 Stat
 
 **Budget Act Compliance**
 
-Pub. L. 101–509, title V, § 529 [title III, § 301], Nov. 5, 1990, 104 Stat. 1461, provided that: “For purposes of the Congressional Budget Act of 1974 [titles I through IX, of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, see Tables for classification], any authority to make payments under this Act or any amendment made by this Act [see Short Title of 1990 Amendment note above] shall be effective only to the extent provided for in advance in appropriation Acts.”
+Pub. L. 101–509, title V, § 529 [title III, § 301], Nov. 5, 1990, 104 Stat. 1461, provided that: “For purposes of the Congressional Budget Act of 1974 [titles I through IX, of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, see Tables for classification], any authority to make payments under this Act or any amendment made by this Act [see Short Title of 1990 Amendment note above] shall be effective only to the extent provided for in advance in appropriation Acts.”
 
 **Pay Rates for Current Employees**
 
-Pub. L. 101–509, title V, § 529 [title III, § 303], Nov. 5, 1990, 104 Stat. 1463, provided that: “Nothing in this Act or in any amendment made by this Act [see Short Title of 1990 Amendment note above] shall have the effect of diminishing the rate of basic pay payable to any individual employed by the United States on the date of the enactment of this Act [Nov. 5, 1990] to a rate below the rate payable to such individual on such date, so long as that individual continues in such position without a break in service.”
+Pub. L. 101–509, title V, § 529 [title III, § 303], Nov. 5, 1990, 104 Stat. 1463, provided that: “Nothing in this Act or in any amendment made by this Act [see Short Title of 1990 Amendment note above] shall have the effect of diminishing the rate of basic pay payable to any individual employed by the United States on the date of the enactment of this Act [Nov. 5, 1990] to a rate below the rate payable to such individual on such date, so long as that individual continues in such position without a break in service.”
 
 **Executive Documents**
 
 **Ex. Ord. No. 12748. Providing for Federal Pay Administration**
 
-Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, as amended by Ex. Ord. No. 12883, Nov. 29, 1993, 58 F.R. 63281; Ex. Ord. No. 13106, § 8, Dec. 7, 1998, 63 F.R. 68152; Ex. Ord. No. 13415, § 2(a), Dec. 1, 2006, 71 F.R. 70641, provided:
+Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, as amended by Ex. Ord. No. 12883, Nov. 29, 1993, 58 F.R. 63281; Ex. Ord. No. 13106, § 8, Dec. 7, 1998, 63 F.R. 68152; Ex. Ord. No. 13415, § 2(a), Dec. 1, 2006, 71 F.R. 70641, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Employees Pay Comparability Act of 1990 (hereinafter “FEPCA”), as incorporated in section 529 of Public Law 101–509 [see Short Title of 1990 Amendment note above], and sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
 
@@ -243,7 +243,7 @@ Sec. 7. *Effective Dates*. (a) Except as otherwise provided by Public Law 101–
 
 (b) Except as otherwise provided by Public Law 101–509, the remaining provisions of FEPCA and of this order shall take effect on May 4, 1991, except that the Office of Personnel Management may establish an earlier effective date, but not earlier than February 3, 1991, for any such provisions with respect to which the Office determines an earlier effective date is appropriate. [For effective dates of certain provisions of FEPCA as established by the Office of Personnel Management, see notices and rules issued by the Office of Personnel Management and published in the Federal Register at 56 F.R. 6212, 11059, 12833, 20339, and 20343.]
 
-### § 5302. Definitions
+### § 5302. Definitions
 
 For the purpose of this subchapter—
 
@@ -271,7 +271,7 @@ For the purpose of this subchapter—
 
 **(9)** the term “General Schedule position” means any position to which subchapter III applies.
 
-(Added Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1429; amended Pub. L. 102–378, § 2(25), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 103–89, § 3(b)(1)(E), Sept. 30, 1993, 107 Stat. 981; Pub. L. 108–411, title III, § 301(a)(1), Oct. 30, 2004, 118 Stat. 2313.)
+(Added Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1429; amended Pub. L. 102–378, § 2(25), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 103–89, § 3(b)(1)(E), Sept. 30, 1993, 107 Stat. 981; Pub. L. 108–411, title III, § 301(a)(1), Oct. 30, 2004, 118 Stat. 2313.)
 
 **Editorial Notes**
 
@@ -281,7 +281,7 @@ Section 403 of the Foreign Service Act of 1980, referred to in par. (1)(B), is c
 
 **Prior Provisions**
 
-A prior section 5302, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458, provided for annual reports on pay comparability, prior to repeal by Pub. L. 91–656, § 2(b)(1), Jan. 8, 1971, 84 Stat. 1946.
+A prior section 5302, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458, provided for annual reports on pay comparability, prior to repeal by Pub. L. 91–656, § 2(b)(1), Jan. 8, 1971, 84 Stat. 1946.
 
 **Amendments**
 
@@ -291,13 +291,13 @@ A prior section 5302, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458, provided fo
 
 “(B) in the case of an employee receiving a retained rate of basic pay under section 5363, the rate of basic pay payable under such section; and”.
 
-1993—Par. (8). Pub. L. 103–89, § 3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
+1993—Par. (8). Pub. L. 103–89, § 3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
 
-Par. (9). Pub. L. 103–89, § 3(b)(1)(E)(ii), substituted “applies” for “applies (including any position under the performance management and recognition system)”.
+Par. (9). Pub. L. 103–89, § 3(b)(1)(E)(ii), substituted “applies” for “applies (including any position under the performance management and recognition system)”.
 
-1992—Par. (1)(C). Pub. L. 102–378, § 2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
+1992—Par. (1)(C). Pub. L. 102–378, § 2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
 
-Par. (8)(C). Pub. L. 102–378, § 2(25)(B), added subpar. (C).
+Par. (8)(C). Pub. L. 102–378, § 2(25)(B), added subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -315,9 +315,9 @@ Amendment by Pub. L. 102–378 effective Feb. 3, 1991, see section 9(b)(5) of Pu
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
-### § 5303. Annual adjustments to pay schedules
+### § 5303. Annual adjustments to pay schedules
 
 **(a)** Effective as of the first day of the first applicable pay period beginning on or after January 1 of each calendar year, the rates of basic pay for each statutory pay system shall be increased by the percentage (rounded to the nearest one-tenth of 1 percent) equal to one-half of 1 percentage point less than the percentage by which the ECI for the base quarter of the year before the preceding calendar year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
 
@@ -347,13 +347,13 @@ Section effective on such date as the President shall determine, but not earlier
 
 **(g)** Any rate of pay under this section shall be initially adjusted, effective on the effective date of the rate of pay, under conversion rules prescribed by the President or by such agency or agencies as the President may designate.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 90–206, title II, § 207, Dec. 16, 1967, 81 Stat. 631; Pub. L. 91–375, § 6(c)(10), Aug. 12, 1970, 84 Stat. 776; Pub. L. 94–183, § 2(16), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, § 2314(c)(2), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1430.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 90–206, title II, § 207, Dec. 16, 1967, 81 Stat. 631; Pub. L. 91–375, § 6(c)(10), Aug. 12, 1970, 84 Stat. 776; Pub. L. 94–183, § 2(16), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, § 2314(c)(2), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1430.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1173. | Oct. 11, 1962, Pub. L. 87–793, § 504, 76 Stat. 842. Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412. |
+|  | 5 U.S.C. 1173. | Oct. 11, 1962, Pub. L. 87–793, § 504, 76 Stat. 842. Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412. |
 
 In subsection (a), the words “the provisions of this title governing appointment in the competitive service” are substituted for “the civil service laws and regulations”.
 
@@ -381,15 +381,15 @@ Level V of the Executive Schedule, referred to in subsec. (f), is set out in sec
 
 1970—Subsec. (a)(2). Pub. L. 91–375 repealed cl. (2) making positions paid under provisions of part III of title 39 relating to employees in the postal field service subject to higher minimum rates established by the President.
 
-1967—Subsec. (a). Pub. L. 90–206, § 207(a), substituted “maximum pay rate” for “seventh pay rate”.
+1967—Subsec. (a). Pub. L. 90–206, § 207(a), substituted “maximum pay rate” for “seventh pay rate”.
 
-Subsec. (d). Pub. L. 90–206, § 207(b), inserted provisions that permitted an initial adjustment to be made to statutory increases which become effective prior to, on, or after the date of enactment of the statute.
+Subsec. (d). Pub. L. 90–206, § 207(b), inserted provisions that permitted an initial adjustment to be made to statutory increases which become effective prior to, on, or after the date of enactment of the statute.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1980 Amendment**
 
@@ -409,15 +409,15 @@ Amendment by Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of 
 
 **Pay Raises for Programs Funded by Energy and Water Development Appropriations Acts To Be Absorbed Within Such Acts**
 
-Pub. L. 102–377, title V, § 506, Oct. 2, 1992, 106 Stat. 1343, provided that: “Such sums as may be necessary for Federal employee pay raises for programs funded by this Act or subsequent Energy and Water Development Appropriations Acts hereafter shall be absorbed within the levels appropriated in such Acts.”
+Pub. L. 102–377, title V, § 506, Oct. 2, 1992, 106 Stat. 1343, provided that: “Such sums as may be necessary for Federal employee pay raises for programs funded by this Act or subsequent Energy and Water Development Appropriations Acts hereafter shall be absorbed within the levels appropriated in such Acts.”
 
 **Sense of Congress**
 
-Pub. L. 101–509, title V, § 529 [title I, § 101(e)], Nov. 5, 1990, 104 Stat. 1427, 1443, provided that: “It is the sense of the Congress that the total funds dedicated to adjustments under sections 5303 and 5304 [of this title] for any year be no less than the total funds that would have been dedicated to adjustments under such section 5303 for such year had the full change in the ECI been applied to pay rates for such year.”
+Pub. L. 101–509, title V, § 529 [title I, § 101(e)], Nov. 5, 1990, 104 Stat. 1427, 1443, provided that: “It is the sense of the Congress that the total funds dedicated to adjustments under sections 5303 and 5304 [of this title] for any year be no less than the total funds that would have been dedicated to adjustments under such section 5303 for such year had the full change in the ECI been applied to pay rates for such year.”
 
 **Federal Employee Pay Adjustments—Vice President and Executive Schedule Positions**
 
-CY 2026—Pub. L. 119–75, div. E, title VII, § 747, Feb. 3, 2026, 140 Stat. 504, provided that:
+CY 2026—Pub. L. 119–75, div. E, title VII, § 747, Feb. 3, 2026, 140 Stat. 504, provided that:
 
 > **“(a)** Notwithstanding any official rate adjusted under section 104 of title 3, United States Code, the rate payable to the Vice President during calendar year 2026 shall be the rate payable to the Vice President on December 31, 2025, by operation of section 747 of division B of Public Law 118–47, as continued in effect and modified by section 1605 of title VI of division A of Public Law 119–4 (as continued in effect and modified by division A of Public Law 119–37) [see table below].
 
@@ -455,19 +455,19 @@ CY 2026—Pub. L. 119–75, div. E, title VII, § 747, Feb. 3, 2026, 140 Stat.
 
 Additional adjustments were made in the following prior acts:
 
-CY 2024—Pub. L. 118–47, div. B, title VII, § 747, Mar. 23, 2024, 138 Stat. 585 [as continued in effect by Pub. L. 119–4, div. A, title VI, § 1605, Mar. 15, 2025, 139 Stat. 27].
+CY 2024—Pub. L. 118–47, div. B, title VII, § 747, Mar. 23, 2024, 138 Stat. 585 [as continued in effect by Pub. L. 119–4, div. A, title VI, § 1605, Mar. 15, 2025, 139 Stat. 27].
 
-CY 2023—Pub. L. 117–328, div. E, title VII, § 747, Dec. 29, 2022, 136 Stat. 4716.
+CY 2023—Pub. L. 117–328, div. E, title VII, § 747, Dec. 29, 2022, 136 Stat. 4716.
 
-CY 2022—Pub. L. 117–103, div. E, title VII, § 747, Mar. 15, 2022, 136 Stat. 305.
+CY 2022—Pub. L. 117–103, div. E, title VII, § 747, Mar. 15, 2022, 136 Stat. 305.
 
-CY 2021—Pub. L. 116–260, div. E, title VII, § 748, Dec. 27, 2020, 134 Stat. 1442.
+CY 2021—Pub. L. 116–260, div. E, title VII, § 748, Dec. 27, 2020, 134 Stat. 1442.
 
-CY 2020—Pub. L. 116–93, div. C, title VII, § 749, Dec. 20, 2019, 133 Stat. 2497.
+CY 2020—Pub. L. 116–93, div. C, title VII, § 749, Dec. 20, 2019, 133 Stat. 2497.
 
-CY 2019—Pub. L. 116–6, div. D, title VII, § 749, Feb. 15, 2019, 133 Stat. 199.
+CY 2019—Pub. L. 116–6, div. D, title VII, § 749, Feb. 15, 2019, 133 Stat. 199.
 
-CY 2018—Pub. L. 115–141, div. E, title VII, § 738, Mar. 23, 2018, 132 Stat. 597, provided that:
+CY 2018—Pub. L. 115–141, div. E, title VII, § 738, Mar. 23, 2018, 132 Stat. 597, provided that:
 
 > **“(a)** The Vice President may not receive a pay raise in calendar year 2018, notwithstanding the rate adjustment made under section 104 of title 3, United States Code, or any other provision of law.
 
@@ -497,15 +497,15 @@ CY 2018—Pub. L. 115–141, div. E, title VII, § 738, Mar. 23, 2018, 132 Sta
 
 Similar provisions were contained in the following prior acts:
 
-CY 2017—Pub. L. 115–31, div. E, title VII, § 738, May 5, 2017, 131 Stat. 386.
+CY 2017—Pub. L. 115–31, div. E, title VII, § 738, May 5, 2017, 131 Stat. 386.
 
-CY 2016—Pub. L. 114–113, div. E, title VII, § 738, Dec. 18, 2015, 129 Stat. 2482.
+CY 2016—Pub. L. 114–113, div. E, title VII, § 738, Dec. 18, 2015, 129 Stat. 2482.
 
-CY 2015—Pub. L. 113–235, div. E, title VII, § 738, Dec. 16, 2014, 128 Stat. 2388.
+CY 2015—Pub. L. 113–235, div. E, title VII, § 738, Dec. 16, 2014, 128 Stat. 2388.
 
-CY 2014—Pub. L. 113–76, div. E, title VII, § 741, Jan. 17, 2014, 128 Stat. 241.
+CY 2014—Pub. L. 113–76, div. E, title VII, § 741, Jan. 17, 2014, 128 Stat. 241.
 
-CYs 2011–2013—Pub. L. 111–242, § 147, as added by Pub. L. 111–322, title I, § 1(a)(2), Dec. 22, 2010, 124 Stat. 3518, as amended by Pub. L. 113–6, div. F, title I, § 1112(a), Mar. 26, 2013, 127 Stat. 414, provided that:
+CYs 2011–2013—Pub. L. 111–242, § 147, as added by Pub. L. 111–322, title I, § 1(a)(2), Dec. 22, 2010, 124 Stat. 3518, as amended by Pub. L. 113–6, div. F, title I, § 1112(a), Mar. 26, 2013, 127 Stat. 414, provided that:
 
 > **“(a)** For the purposes of this section—
 
@@ -545,11 +545,11 @@ CYs 2011–2013—Pub. L. 111–242, § 147, as added by Pub. L. 111–322, ti
 
 > **“(e)** The Non-Foreign Area Retirement Equity Assurance Act of 2009 [Pub. L. 111–84, div. A, title XIX, subtitle B] (5 U.S.C. 5304 note) shall be applied using the appropriate locality-based comparability payments established by the President as the applicable comparability payments in section 1914(2) and (3) of such Act.”
 
-[Pub. L. 112–175, § 114, Sept. 28, 2012, 126 Stat. 1316, which applied Mar. 27, 2013, as end date for moratorium on statutory pay adjustments and senior executive or senior-level executive pay increases under section 147 of Pub. L. 111–242 (set out above), was repealed by Pub. L. 113–6, div. F, title I, § 1112(b), Mar. 26, 2013, 127 Stat. 415.]
+[Pub. L. 112–175, § 114, Sept. 28, 2012, 126 Stat. 1316, which applied Mar. 27, 2013, as end date for moratorium on statutory pay adjustments and senior executive or senior-level executive pay increases under section 147 of Pub. L. 111–242 (set out above), was repealed by Pub. L. 113–6, div. F, title I, § 1112(b), Mar. 26, 2013, 127 Stat. 415.]
 
 **Adjustment in Rates of Pay of Employees**
 
-FY 2020—Pub. L. 116–93, div. C, title VII, § 748, Dec. 20, 2019, 133 Stat. 2496, provided that:
+FY 2020—Pub. L. 116–93, div. C, title VII, § 748, Dec. 20, 2019, 133 Stat. 2496, provided that:
 
 > **“(a)** The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2020 under section 5303 of title 5, United States Code, shall be an increase of 2.6 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304 and 5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2020.
 
@@ -559,45 +559,45 @@ FY 2020—Pub. L. 116–93, div. C, title VII, § 748, Dec. 20, 2019, 133 Stat
 
 Additional adjustments were made in the following prior acts:
 
-FY 2019—Pub. L. 116–6, div. D, title VII, § 748, Feb. 15, 2019, 133 Stat. 199, increased rates by 1.4 percent under this section and by 0.5 percent under sections 5304 and 5304a of this title.
+FY 2019—Pub. L. 116–6, div. D, title VII, § 748, Feb. 15, 2019, 133 Stat. 199, increased rates by 1.4 percent under this section and by 0.5 percent under sections 5304 and 5304a of this title.
 
-FY 2010—Pub. L. 111–117, div. C, title VII, § 744, Dec. 16, 2009, 123 Stat. 3219, increased rates by 1.5 percent under this section and by 0.5 percent under sections 5304 and 5304a of this title.
+FY 2010—Pub. L. 111–117, div. C, title VII, § 744, Dec. 16, 2009, 123 Stat. 3219, increased rates by 1.5 percent under this section and by 0.5 percent under sections 5304 and 5304a of this title.
 
-FY 2009—Pub. L. 110–329, div. A, § 142, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. D, title VII, § 738(a), Mar. 11, 2009, 123 Stat. 691, increased rates by 3.9 percent.
+FY 2009—Pub. L. 110–329, div. A, § 142, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. D, title VII, § 738(a), Mar. 11, 2009, 123 Stat. 691, increased rates by 3.9 percent.
 
-FY 2008—Pub. L. 110–161, div. D, title VII, § 740, Dec. 26, 2007, 121 Stat. 2031, increased rates by 3.5 percent.
+FY 2008—Pub. L. 110–161, div. D, title VII, § 740, Dec. 26, 2007, 121 Stat. 2031, increased rates by 3.5 percent.
 
-FY 2006—Pub. L. 109–115, div. A, title VIII, § 843, Nov. 30, 2005, 119 Stat. 2506, increased rates by 3.1 percent.
+FY 2006—Pub. L. 109–115, div. A, title VIII, § 843, Nov. 30, 2005, 119 Stat. 2506, increased rates by 3.1 percent.
 
-FY 2005—Pub. L. 108–447, div. H, title VI, § 640, Dec. 8, 2004, 118 Stat. 3282, increased rates by 3.5 percent.
+FY 2005—Pub. L. 108–447, div. H, title VI, § 640, Dec. 8, 2004, 118 Stat. 3282, increased rates by 3.5 percent.
 
-FY 2004—Pub. L. 108–199, div. F, title VI, § 640, Jan. 23, 2004, 118 Stat. 359, increased rates by 4.1 percent.
+FY 2004—Pub. L. 108–199, div. F, title VI, § 640, Jan. 23, 2004, 118 Stat. 359, increased rates by 4.1 percent.
 
-FY 2003—Pub. L. 108–7, div. J, title VI, § 637, Feb. 20, 2003, 117 Stat. 472, increased rates by 4.1 percent.
+FY 2003—Pub. L. 108–7, div. J, title VI, § 637, Feb. 20, 2003, 117 Stat. 472, increased rates by 4.1 percent.
 
-FY 2002—Pub. L. 107–67, title VI, § 646, Nov. 12, 2001, 115 Stat. 556, increased rates by 4.6 percent.
+FY 2002—Pub. L. 107–67, title VI, § 646, Nov. 12, 2001, 115 Stat. 556, increased rates by 4.6 percent.
 
-FY 2001—Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 140], Dec. 21, 2000, 114 Stat. 2763, 2763A–235, increased rates by 3.7 percent.
+FY 2001—Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 140], Dec. 21, 2000, 114 Stat. 2763, 2763A–235, increased rates by 3.7 percent.
 
-FY 2000—Pub. L. 106–58, title VI, § 646, Sept. 29, 1999, 113 Stat. 478, increased rates by 4.8 percent.
+FY 2000—Pub. L. 106–58, title VI, § 646, Sept. 29, 1999, 113 Stat. 478, increased rates by 4.8 percent.
 
-FY 1999—Pub. L. 105–277, div. A, § 101(h) [title VI, § 647], Oct. 21, 1998, 112 Stat. 2681–480, 2681–527, increased rates by 3.6 percent.
+FY 1999—Pub. L. 105–277, div. A, § 101(h) [title VI, § 647], Oct. 21, 1998, 112 Stat. 2681–480, 2681–527, increased rates by 3.6 percent.
 
-FY 1997—Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 637], Sept. 30, 1996, 110 Stat. 3009–314, 3009–364, made no adjustment.
+FY 1997—Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 637], Sept. 30, 1996, 110 Stat. 3009–314, 3009–364, made no adjustment.
 
-FY 1996—Pub. L. 104–52, title VI, § 633, Nov. 19, 1995, 109 Stat. 507, made no adjustment.
+FY 1996—Pub. L. 104–52, title VI, § 633, Nov. 19, 1995, 109 Stat. 507, made no adjustment.
 
-FY 1995—Pub. L. 103–329, title VI, § 630(a), Sept. 30, 1994, 108 Stat. 2424, increased rates by 2 percent.
+FY 1995—Pub. L. 103–329, title VI, § 630(a), Sept. 30, 1994, 108 Stat. 2424, increased rates by 2 percent.
 
-FY 1994—Pub. L. 103–123, title V, § 517B, Oct. 28, 1993, 107 Stat. 1253, made no adjustment.
+FY 1994—Pub. L. 103–123, title V, § 517B, Oct. 28, 1993, 107 Stat. 1253, made no adjustment.
 
-FY 1991—Pub. L. 101–509, title VI, § 618, Nov. 5, 1990, 104 Stat. 1475, increased rates by 4.1 percent.
+FY 1991—Pub. L. 101–509, title VI, § 618, Nov. 5, 1990, 104 Stat. 1475, increased rates by 4.1 percent.
 
 **Other Provisions Relating to Adjustments in Rates of Pay**
 
-FYs 1992–1994—Pub. L. 101–509, title VI, § 633, Nov. 5, 1990, 104 Stat. 633, provided that:
+FYs 1992–1994—Pub. L. 101–509, title VI, § 633, Nov. 5, 1990, 104 Stat. 633, provided that:
 
-> **“(a) In General.—** Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 [see Short Title of 1990 Amendment note set out under section 5301 of this title] and any provision of law amended by such Act), for purposes of any adjustment scheduled to take effect under section 5303 of title 5, United States Code (as amended by section 101 [section 529 [title I, § 101] of Pub. L. 101–509]) during the period beginning on October 1, 1991, and ending on September 30, 1994, the provisions of section 5303 of such title (as so amended) shall be applied in accordance with the following:
+> **“(a) In General.—** Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 [see Short Title of 1990 Amendment note set out under section 5301 of this title] and any provision of law amended by such Act), for purposes of any adjustment scheduled to take effect under section 5303 of title 5, United States Code (as amended by section 101 [section 529 [title I, § 101] of Pub. L. 101–509]) during the period beginning on October 1, 1991, and ending on September 30, 1994, the provisions of section 5303 of such title (as so amended) shall be applied in accordance with the following:
 
 > **“(1)** For purposes of the adjustment taking effect in each of fiscal years 1992 and 1993, respectively, deem subsection (a) to be amended by striking ‘one-half of 1 percentage point less than’.
 
@@ -609,23 +609,23 @@ FYs 1992–1994—Pub. L. 101–509, title VI, § 633, Nov. 5, 1990, 104 Stat.
 
 > **“(C)** Insert after paragraph (1) the following:
 
-> “ ‘(2) Authority to provide alternative pay adjustments under this subsection in any year may not be exercised except in accordance with the following:
+> “ ‘(2) Authority to provide alternative pay adjustments under this subsection in any year may not be exercised except in accordance with the following:
 
-> “ ‘(A) If the adjustment which (but for this subsection) would otherwise take effect under this section in a fiscal year would be 5 percent or less, no reduction may be made unless necessary because a state of war or severe economic conditions exist.
+> “ ‘(A) If the adjustment which (but for this subsection) would otherwise take effect under this section in a fiscal year would be 5 percent or less, no reduction may be made unless necessary because a state of war or severe economic conditions exist.
 
-> “ ‘(B) If the adjustment which (but for this subsection) would otherwise take effect under this section in a fiscal year would be greater than 5 percent, no reduction may be made—
+> “ ‘(B) If the adjustment which (but for this subsection) would otherwise take effect under this section in a fiscal year would be greater than 5 percent, no reduction may be made—
 
-> “ ‘(i) to a level of 5 percent or greater, unless necessary because of national emergency or serious economic conditions affecting the general welfare; or
+> “ ‘(i) to a level of 5 percent or greater, unless necessary because of national emergency or serious economic conditions affecting the general welfare; or
 
-> “ ‘(ii) to a level of less than 5 percent, unless necessary because of either of the reasons set forth in subparagraph (A).’
+> “ ‘(ii) to a level of less than 5 percent, unless necessary because of either of the reasons set forth in subparagraph (A).’
 
 > **“(D)** Add after paragraph (4) (as so redesignated by subparagraph (B) the following:
 
-> “ ‘(5) For the purpose of this subsection, “severe economic conditions” shall be considered to exist relative to an adjustment scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.’
+> “ ‘(5) For the purpose of this subsection, “severe economic conditions” shall be considered to exist relative to an adjustment scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.’
 
-> **“(b) References.—** Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 [see Short Title of 1990 Amendment note set out under section 5301 of this title] and any provision of law amended made by such Act), effective for purposes of any pay adjustment scheduled to take effect during the period described in subsection (a), any reference in a provision of law to section 5303 of title 5, United States Code, as amended by section 101 [section 529 [title I, § 101] of Pub. L. 101–509] (or to the effective date of a pay adjustment, the size of an adjustment, a rate payable after an adjustment, or other related matter under such section 5303) shall be considered a reference to such section as applied in accordance with this section (or to the corresponding matter, as determined under such section 5303, as applied in accordance with this section).”
+> **“(b) References.—** Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 [see Short Title of 1990 Amendment note set out under section 5301 of this title] and any provision of law amended made by such Act), effective for purposes of any pay adjustment scheduled to take effect during the period described in subsection (a), any reference in a provision of law to section 5303 of title 5, United States Code, as amended by section 101 [section 529 [title I, § 101] of Pub. L. 101–509] (or to the effective date of a pay adjustment, the size of an adjustment, a rate payable after an adjustment, or other related matter under such section 5303) shall be considered a reference to such section as applied in accordance with this section (or to the corresponding matter, as determined under such section 5303, as applied in accordance with this section).”
 
-1989—Pub. L. 101–194, title VII, § 702, Nov. 30, 1989, 103 Stat. 1767, provided that:
+1989—Pub. L. 101–194, title VII, § 702, Nov. 30, 1989, 103 Stat. 1767, provided that:
 
 > **“(a) Restoration.—**
 
@@ -643,7 +643,7 @@ FYs 1992–1994—Pub. L. 101–509, title VI, § 633, Nov. 5, 1990, 104 Stat.
 
 > **“(d) Special Rule.—** Notwithstanding any other provision of this section, no adjustment in any rate of pay shall become effective, as a result of the enactment of this section, before the first applicable pay period beginning on or after the date as of which the order issued by the President on October 16, 1989, pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] is rescinded.”
 
-FYs 1988–1990—Pub. L. 101–194, title XI, § 1101(a), Nov. 30, 1989, 103 Stat. 1781, provided that:
+FYs 1988–1990—Pub. L. 101–194, title XI, § 1101(a), Nov. 30, 1989, 103 Stat. 1781, provided that:
 
 > **“(1) Adjustments in Rates of Pay.—** Notwithstanding any other provision of law (including any provision of this Act or amendment made by this Act), effective as provided in paragraph (2), the rate of pay of each office and position of United States Senator, the President pro tempore of the Senate, and the majority and minority leaders of the Senate shall be increased by—
 
@@ -655,7 +655,7 @@ FYs 1988–1990—Pub. L. 101–194, title XI, § 1101(a), Nov. 30, 1989, 103 
 
 > **“(2)** The increase in the rates of pay for each office and position described under paragraph (1) shall be effective on the first day of the first pay period beginning on or after January 1, 1990.”
 
-FY 1990—Pub. L. 101–136, title VI, § 619, Nov. 3, 1989, 103 Stat. 820, provided that:
+FY 1990—Pub. L. 101–136, title VI, § 619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 > **“(a)**
 
@@ -683,13 +683,13 @@ FY 1990—Pub. L. 101–136, title VI, § 619, Nov. 3, 1989, 103 Stat. 820, pr
 
 Additional adjustments under section 5305 of this title were made in the following prior acts:
 
-FY 1989—Pub. L. 100–440, title VI, § 620, Sept. 22, 1988, 102 Stat. 1756, increased rates by 4.1 percent, subject to limitation based on existing pay.
+FY 1989—Pub. L. 100–440, title VI, § 620, Sept. 22, 1988, 102 Stat. 1756, increased rates by 4.1 percent, subject to limitation based on existing pay.
 
-FY 1988—Pub. L. 100–202, §§ 108, 110(a), Dec. 22, 1987, 101 Stat. 1329–434, 1329–436, increased rates by 2 percent, subject to limitation based on existing pay.
+FY 1988—Pub. L. 100–202, §§ 108, 110(a), Dec. 22, 1987, 101 Stat. 1329–434, 1329–436, increased rates by 2 percent, subject to limitation based on existing pay.
 
-FY 1987—Pub. L. 99–500, § 144(a), Oct. 18, 1986, 100 Stat. 1783–350, and Pub. L. 99–591, § 144(a), Oct. 30, 1986, 100 Stat. 3341–353, increased rates by 3 percent.
+FY 1987—Pub. L. 99–500, § 144(a), Oct. 18, 1986, 100 Stat. 1783–350, and Pub. L. 99–591, § 144(a), Oct. 30, 1986, 100 Stat. 3341–353, increased rates by 3 percent.
 
-FYs 1986–1988—Pub. L. 99–272, title XV, § 15201(a), Apr. 7, 1986, 100 Stat. 332, provided that:
+FYs 1986–1988—Pub. L. 99–272, title XV, § 15201(a), Apr. 7, 1986, 100 Stat. 332, provided that:
 
 > **“(1)** The rates of pay under the General Schedule and the rates of pay under the other statutory pay systems referred to in section 5301(c) of title 5, United States Code, shall not be adjusted under section 5305 of such title during fiscal year 1986.
 
@@ -707,9 +707,9 @@ FYs 1986–1988—Pub. L. 99–272, title XV, § 15201(a), Apr. 7, 1986, 100 S
 
 > **“(ii)** shall be effective with respect to pay periods beginning on or after January 1 of the fiscal year involved.”
 
-FY 1984—Pub. L. 98–270, title II, § 202(a), Apr. 18, 1984, 98 Stat. 158, increased rates by 4 percent.
+FY 1984—Pub. L. 98–270, title II, § 202(a), Apr. 18, 1984, 98 Stat. 158, increased rates by 4 percent.
 
-FY 1983—Pub. L. 97–253, title III, § 310(a), Sept. 8, 1982, 96 Stat. 799, provided that:
+FY 1983—Pub. L. 97–253, title III, § 310(a), Sept. 8, 1982, 96 Stat. 799, provided that:
 
 > **“(1)** Notwithstanding any other provision of law, if—
 
@@ -721,9 +721,9 @@ FY 1983—Pub. L. 97–253, title III, § 310(a), Sept. 8, 1982, 96 Stat. 799,
 
 > **“(2)** Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect on the first day of the first applicable pay period commencing on or after October 1 of such fiscal year.”
 
-FY 1982—Pub. L. 97–35, title XVII, § 1701(a), Aug. 13, 1981, 95 Stat. 753, provided that: “Notwithstanding any other provision of law, the overall percentage of the adjustment of the rates of pay under the General Schedule or any other statutory pay system under section 5305 of title 5, United States Code, which is to become effective with the first applicable pay period commencing on or after October 1, 1981, shall not exceed 4.8 percent.”
+FY 1982—Pub. L. 97–35, title XVII, § 1701(a), Aug. 13, 1981, 95 Stat. 753, provided that: “Notwithstanding any other provision of law, the overall percentage of the adjustment of the rates of pay under the General Schedule or any other statutory pay system under section 5305 of title 5, United States Code, which is to become effective with the first applicable pay period commencing on or after October 1, 1981, shall not exceed 4.8 percent.”
 
-FY 1979—Pub. L. 95–429, title VI, § 614, Oct. 10, 1978, 92 Stat. 1018, provided that:
+FY 1979—Pub. L. 95–429, title VI, § 614, Oct. 10, 1978, 92 Stat. 1018, provided that:
 
 > **“(a)** No part of any of the funds appropriated for the fiscal year ending September 30, 1979, by this Act or any other Act, may be used to pay the salary or pay of any individual in any office or position in an amount which exceeds the rate of salary or basic pay payable for such office or position on September 30, 1978, by more than 5.5 percent, as a result of any adjustments which take effect during such fiscal year under—
 
@@ -735,7 +735,7 @@ FY 1979—Pub. L. 95–429, title VI, § 614, Oct. 10, 1978, 92 Stat. 1018, pr
 
 > **“(b)** For the purpose of administering any provision of law, rule, or regulation which provides premium pay, retirement, life insurance, or other employee benefit, which requires any deduction or contribution, or which imposes any requirement or limitation, on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.”
 
-1972—Pub. L. 92–210, § 3, Dec. 22, 1971, 85 Stat. 753, provided that:
+1972—Pub. L. 92–210, § 3, Dec. 22, 1971, 85 Stat. 753, provided that:
 
 > “Notwithstanding any provision of section 3(c) of the Federal Pay Comparability Act of 1970 (Public Law 91–656), or of section 5305 of title 5, United States Code, as added by section 3(a) of Public Law 91–656, and the provisions of the alternative plan submitted by the President to the Congress pursuant thereto on August 31, 1971, such comparability adjustments in the rates of pay of each Federal statutory pay system as may be required under such sections 5305 and 3(c), based on the 1971 Bureau of Labor Statistics survey—
 
@@ -747,11 +747,11 @@ FY 1979—Pub. L. 95–429, title VI, § 614, Oct. 10, 1978, 92 Stat. 1018, pr
 
 **Allowed Deviations from Provisions of Subchapter I for Adjustments Made in 1971 and 1972**
 
-Pub. L. 91–656, § 3(c), Jan. 8, 1971, 84 Stat. 1951, provided that: “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effective on the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President’s agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply to employees of the Post Office Department whose basic pay is fixed under the General Schedule.”
+Pub. L. 91–656, § 3(c), Jan. 8, 1971, 84 Stat. 1951, provided that: “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effective on the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President’s agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply to employees of the Post Office Department whose basic pay is fixed under the General Schedule.”
 
 **Special Adjustments Made by President for 1968 and 1969**
 
-Pub. L. 90–206, title II, § 212, Dec. 16, 1967, 81 Stat. 634, provided that:
+Pub. L. 90–206, title II, § 212, Dec. 16, 1967, 81 Stat. 634, provided that:
 
 > “In order to complete the implementation of the policy of the Congress set forth in paragraph (2) of section 5301 of title 5, United States Code, the President, after seeking the views of such employee organizations as he considers appropriate and in such manner as he may provide, shall—
 
@@ -765,7 +765,7 @@ Pub. L. 90–206, title II, § 212, Dec. 16, 1967, 81 Stat. 634, provided that
 
 > **“(2)** effective on the first day of the first pay period beginning on or after July 1, 1969, adjust the rates he has established under subparagraph (1) of this section, and the rates established by Postal Field Service Schedule II, and Rural Carrier Schedule II (contained in the amendments made by subsections (a) and (b) of section 205 [amending sections 3542 and 3543 of Title 39, Postal Service], by amounts equal, as nearly as may be practicable, to the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1968 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of section 5302 of title 5, United States Code.
 
-> Adjustments made by the President under this section shall have the force and effect of statute. The rates of pay of personnel subject to sections 210, 213 (except subsections (d) and (e) ), and 214 of this title [see Short Title note under section 5332 of this title], and any minimum or maximum rate, limitation, or allowance applicable to any such personnel, shall be adjusted, by amounts which are equal, insofar as practicable and with such exceptions as may be necessary to provide for appropriate relationships between positions, to the amounts of the adjustments made by the President under subparagraphs (1) and (2) of this section, by the following authorities—
+> Adjustments made by the President under this section shall have the force and effect of statute. The rates of pay of personnel subject to sections 210, 213 (except subsections (d) and (e) ), and 214 of this title [see Short Title note under section 5332 of this title], and any minimum or maximum rate, limitation, or allowance applicable to any such personnel, shall be adjusted, by amounts which are equal, insofar as practicable and with such exceptions as may be necessary to provide for appropriate relationships between positions, to the amounts of the adjustments made by the President under subparagraphs (1) and (2) of this section, by the following authorities—
 
 > **“(i)** the President pro tempore of the Senate, with respect to the United States Senate;
 
@@ -775,7 +775,7 @@ Pub. L. 90–206, title II, § 212, Dec. 16, 1967, 81 Stat. 634, provided that
 
 > **“(iv)** the Director of the Administrative Office of the United States Courts, with respect to the judicial branch of the Government; and
 
-> **“(v)** the Secretary of Agriculture, with respect to persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b) ).
+> **“(v)** the Secretary of Agriculture, with respect to persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b) ).
 
 > Such adjustments shall be made in such manner as the appropriate authority concerned deems advisable and shall have the force and effect of statute. Nothing in this section shall impair any authority pursuant to which rates of pay may be fixed by administrative action.” [Section 212 of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of this title.]
 
@@ -783,9 +783,9 @@ Pub. L. 90–206, title II, § 212, Dec. 16, 1967, 81 Stat. 634, provided that
 
 **Delegation of Functions**
 
-For designation of agencies to perform functions of President under subsec. (g) of this section, see Ex. Ord. No. 12748, § 1, Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
+For designation of agencies to perform functions of President under subsec. (g) of this section, see Ex. Ord. No. 12748, § 1, Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
 
-### § 5304. Locality-based comparability payments
+### § 5304. Locality-based comparability payments
 
 **(a)** Pay disparities shall be identified and reduced as follows:
 
@@ -847,9 +847,9 @@ For designation of agencies to perform functions of President under subsec. (g) 
 
 **(1)** direct such agent as he considers appropriate to prepare and submit to him annually, after considering such views and recommendations as may be submitted under subsection (e) (but not later than 13 months before the start of the calendar year for purposes of which it is prepared), a report that—
 
-**(A)** compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) 1
+**(A)** compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 with the rates of pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
 
@@ -975,13 +975,13 @@ but does not include—
 
 **(i)** The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, § 6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, § 2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, § 2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, § 1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, § 302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, § 2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, § 1912(a), Oct. 28, 2009, 123 Stat. 2619.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, § 6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, § 2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, § 2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, § 1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, § 302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, § 2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, § 1912(a), Oct. 28, 2009, 123 Stat. 2619.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1174. | Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842. |
+|  | 5 U.S.C. 1174. | Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842. |
 
 The words “agencies” and “regulations” are substituted for “departments” and “rules”, respectively.
 
@@ -993,7 +993,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 The General Schedule, referred to in text, is set out under section 5332 of this title.
 
-Section 5302(8)(C), referred to in subsec. (d)(1)(A), was redesignated 5302(8)(B) of this title by Pub. L. 103–89, § 3(b)(1)(E)(i)(II), Sept. 30, 1993, 107 Stat. 981.
+Section 5302(8)(C), referred to in subsec. (d)(1)(A), was redesignated 5302(8)(B) of this title by Pub. L. 103–89, § 3(b)(1)(E)(i)(II), Sept. 30, 1993, 107 Stat. 981.
 
 Levels II, III, and IV of the Executive Schedule, referred to in subsecs. (g) and (h)(1)(D), are set out in sections 5313, 5314, and 5315, respectively, of this title.
 
@@ -1001,23 +1001,23 @@ For the effective date of section 1912 of the Non-Foreign Area Retirement Equity
 
 **Amendments**
 
-2009—Subsec. (f)(1)(A). Pub. L. 111–84, § 1912(a)(1), added subpar. (A) and struck out former subpar. (A), which read as follows: “each General Schedule position (excluding any outside the continental United States, as defined in section 5701(6)) shall be included with a pay locality; and”.
+2009—Subsec. (f)(1)(A). Pub. L. 111–84, § 1912(a)(1), added subpar. (A) and struck out former subpar. (A), which read as follows: “each General Schedule position (excluding any outside the continental United States, as defined in section 5701(6)) shall be included with a pay locality; and”.
 
-Subsec. (g)(2)(B), (C). Pub. L. 111–84, § 1912(a)(2)(A), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “any positions under subsection (h)(1)(C) as the President may determine.”
+Subsec. (g)(2)(B), (C). Pub. L. 111–84, § 1912(a)(2)(A), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “any positions under subsection (h)(1)(C) as the President may determine.”
 
-Subsec. (g)(3). Pub. L. 111–84, § 1912(a)(2)(B), added par. (3).
+Subsec. (g)(3). Pub. L. 111–84, § 1912(a)(2)(B), added par. (3).
 
-Subsec. (h)(1)(C), (D). Pub. L. 111–84, § 1912(a)(3)(A)–(C), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (h)(1)(C), (D). Pub. L. 111–84, § 1912(a)(3)(A)–(C), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (h)(1)(iv), (v). Pub. L. 111–84, § 1912(a)(3)(D), (E), inserted “, except for a position covered by subparagraph (C)” before the semicolon.
+Subsec. (h)(1)(iv), (v). Pub. L. 111–84, § 1912(a)(3)(D), (E), inserted “, except for a position covered by subparagraph (C)” before the semicolon.
 
-Subsec. (h)(1)(vii). Pub. L. 111–84, § 1912(a)(3)(F), inserted “, except for a position covered by subparagraph (C)” before the period.
+Subsec. (h)(1)(vii). Pub. L. 111–84, § 1912(a)(3)(F), inserted “, except for a position covered by subparagraph (C)” before the period.
 
-Subsec. (h)(2)(B)(i). Pub. L. 111–84, § 1912(a)(4)(A), substituted “through (C)” for “and (B)”.
+Subsec. (h)(2)(B)(i). Pub. L. 111–84, § 1912(a)(4)(A), substituted “through (C)” for “and (B)”.
 
-Subsec. (h)(2)(B)(ii). Pub. L. 111–84, § 1912(a)(4)(B), substituted “(1)(D)” for “(1)(C)”.
+Subsec. (h)(2)(B)(ii). Pub. L. 111–84, § 1912(a)(4)(B), substituted “(1)(D)” for “(1)(C)”.
 
-2008—Subsec. (g)(2). Pub. L. 110–372, § 2(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+2008—Subsec. (g)(2). Pub. L. 110–372, § 2(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2) The applicable maximum under this subsection shall be level III of the Executive Schedule for—
 
@@ -1025,55 +1025,55 @@ Subsec. (h)(2)(B)(ii). Pub. L. 111–84, § 1912(a)(4)(B), substituted “(1)(
 
 “(B) any positions under subsection (h)(1)(D) which the President may determine.”
 
-Subsec. (h)(1). Pub. L. 110–372, § 2(a)(2)(A)(ii), which directed amendment of subsec. (h)(1)(D) by striking “or” at end of cl. (v), substituting “; or” for period at end of cl. (vi), and adding at end a new cl. (vii), was executed by making the strike out and substitution in the cls. (v) and (vi) which follow subpar. (D) and by adding cl. (vii) after cl. (vi), to reflect the probable intent of Congress.
+Subsec. (h)(1). Pub. L. 110–372, § 2(a)(2)(A)(ii), which directed amendment of subsec. (h)(1)(D) by striking “or” at end of cl. (v), substituting “; or” for period at end of cl. (vi), and adding at end a new cl. (vii), was executed by making the strike out and substitution in the cls. (v) and (vi) which follow subpar. (D) and by adding cl. (vii) after cl. (vi), to reflect the probable intent of Congress.
 
-Subsec. (h)(1)(A) to (D). Pub. L. 110–372, § 2(a)(2)(A)(i), (iii), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “a position to which section 5376 applies (relating to certain senior-level positions);”.
+Subsec. (h)(1)(A) to (D). Pub. L. 110–372, § 2(a)(2)(A)(i), (iii), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “a position to which section 5376 applies (relating to certain senior-level positions);”.
 
-Subsec. (h)(2)(B)(i). Pub. L. 110–372, § 2(a)(2)(B)(i), substituted “subparagraphs (A) and (B)” for “subparagraphs (A) through (C)” and “(vi), or (vii)” for “or (vi)”.
+Subsec. (h)(2)(B)(i). Pub. L. 110–372, § 2(a)(2)(B)(i), substituted “subparagraphs (A) and (B)” for “subparagraphs (A) through (C)” and “(vi), or (vii)” for “or (vi)”.
 
-Subsec. (h)(2)(B)(ii). Pub. L. 110–372, § 2(a)(2)(B)(ii), substituted “paragraph (1)(C)” for “paragraph (1)(D)” and “(vi), or (vii)” for “or (vi)”.
+Subsec. (h)(2)(B)(ii). Pub. L. 110–372, § 2(a)(2)(B)(ii), substituted “paragraph (1)(C)” for “paragraph (1)(D)” and “(vi), or (vii)” for “or (vi)”.
 
-2004—Subsec. (g)(2)(A). Pub. L. 108–411, § 302(a)(1)(A), substituted “(A)–(C)” for “(A)–(D)”.
+2004—Subsec. (g)(2)(A). Pub. L. 108–411, § 302(a)(1)(A), substituted “(A)–(C)” for “(A)–(D)”.
 
-Subsec. (h)(2)(B)(i). Pub. L. 108–411, § 302(a)(1)(B), substituted “or (vi)” for “or (vii)”.
+Subsec. (h)(2)(B)(i). Pub. L. 108–411, § 302(a)(1)(B), substituted “or (vi)” for “or (vii)”.
 
-2003—Subsec. (g)(2)(A). Pub. L. 108–136, § 1125(a)(1)(A)(i), substituted “subparagraphs (A)–(D)” for “subparagraphs (A)–(E)”.
+2003—Subsec. (g)(2)(A). Pub. L. 108–136, § 1125(a)(1)(A)(i), substituted “subparagraphs (A)–(D)” for “subparagraphs (A)–(E)”.
 
-Subsec. (g)(2)(B). Pub. L. 108–136, § 1125(a)(1)(A)(ii), substituted “subsection (h)(1)(D)” for “subsection (h)(1)(F)”.
+Subsec. (g)(2)(B). Pub. L. 108–136, § 1125(a)(1)(A)(ii), substituted “subsection (h)(1)(D)” for “subsection (h)(1)(F)”.
 
-Subsec. (h)(1)(B) to (F). Pub. L. 108–136, § 1125(a)(1)(B)(i), (ii), redesignated subpars. (D), (E), and (F) as (B), (C), and (D), respectively, and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (h)(1)(B) to (F). Pub. L. 108–136, § 1125(a)(1)(B)(i), (ii), redesignated subpars. (D), (E), and (F) as (B), (C), and (D), respectively, and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) a Senior Executive Service position under section 3132;
 
 “(C) a position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service under section 3151;”.
 
-Subsec. (h)(1)(iv) to (vi). Pub. L. 108–136, § 1125(a)(1)(B)(iii)–(v), added cls. (iv) to (vi).
+Subsec. (h)(1)(iv) to (vi). Pub. L. 108–136, § 1125(a)(1)(B)(iii)–(v), added cls. (iv) to (vi).
 
-Subsec. (h)(2)(B)(i). Pub. L. 108–136, § 1125(a)(1)(C)(i), substituted “subparagraphs (A) through (C)” for “subparagraphs (A) through (E)” and “clause (i), (ii), (iii), (iv), (v), or (vii)” for “clause (i) or (ii)”.
+Subsec. (h)(2)(B)(i). Pub. L. 108–136, § 1125(a)(1)(C)(i), substituted “subparagraphs (A) through (C)” for “subparagraphs (A) through (E)” and “clause (i), (ii), (iii), (iv), (v), or (vii)” for “clause (i) or (ii)”.
 
-Subsec. (h)(2)(B)(ii). Pub. L. 108–136, § 1125(a)(1)(C)(ii), substituted “paragraph (1)(D)” for “paragraph (1)(F)” and “clause (i), (ii), (iii), (iv), (v), or (vi)” for “clause (i) or (ii)”.
+Subsec. (h)(2)(B)(ii). Pub. L. 108–136, § 1125(a)(1)(C)(ii), substituted “paragraph (1)(D)” for “paragraph (1)(F)” and “clause (i), (ii), (iii), (iv), (v), or (vi)” for “clause (i) or (ii)”.
 
-1992—Subsec. (a)(3). Pub. L. 102–378, § 2(26)(A)(i), substituted “Subject to paragraph (4),” for “Subject to paragraphs (4) and (5),” and “a comparability payment” for “a comparative payment”.
+1992—Subsec. (a)(3). Pub. L. 102–378, § 2(26)(A)(i), substituted “Subject to paragraph (4),” for “Subject to paragraphs (4) and (5),” and “a comparability payment” for “a comparative payment”.
 
-Subsec. (a)(3)(H). Pub. L. 102–378, § 2(26)(A)(ii), inserted “and” after semicolon at end.
+Subsec. (a)(3)(H). Pub. L. 102–378, § 2(26)(A)(ii), inserted “and” after semicolon at end.
 
-Subsec. (a)(3)(I). Pub. L. 102–378, § 2(26)(A)(iii), substituted a period for semicolon at end.
+Subsec. (a)(3)(I). Pub. L. 102–378, § 2(26)(A)(iii), substituted a period for semicolon at end.
 
-Subsec. (d)(1)(A). Pub. L. 102–378, § 2(26)(B), inserted “(disregarding any described in section 5302(8)(C))” after “General Schedule” and struck out “annual” before “surveys”.
+Subsec. (d)(1)(A). Pub. L. 102–378, § 2(26)(B), inserted “(disregarding any described in section 5302(8)(C))” after “General Schedule” and struck out “annual” before “surveys”.
 
-Subsec. (e)(1). Pub. L. 102–378, § 2(26)(C)(i), inserted after second sentence “However, members under subparagraph (A) may be paid expenses in accordance with section 5703.”
+Subsec. (e)(1). Pub. L. 102–378, § 2(26)(C)(i), inserted after second sentence “However, members under subparagraph (A) may be paid expenses in accordance with section 5703.”
 
-Subsec. (e)(2)(A)(ii). Pub. L. 102–378, § 2(26)(C)(ii), substituted “surveys of pay localities” for “annual survey” and “industries” for “industries,”.
+Subsec. (e)(2)(A)(ii). Pub. L. 102–378, § 2(26)(C)(ii), substituted “surveys of pay localities” for “annual survey” and “industries” for “industries,”.
 
-Subsec. (g)(2). Pub. L. 102–378, § 2(26)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For positions under subparagraphs (A)–(E) of subsection (h)(1), the applicable maximum under this subsection shall be level III of the Executive Schedule.”
+Subsec. (g)(2). Pub. L. 102–378, § 2(26)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For positions under subparagraphs (A)–(E) of subsection (h)(1), the applicable maximum under this subsection shall be level III of the Executive Schedule.”
 
-Subsec. (h)(1)(F). Pub. L. 102–378, § 2(26)(E)(i)(I), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “a position within an Executive agency not covered under any of the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) less than the rate payable for level V of the Executive Schedule;”.
+Subsec. (h)(1)(F). Pub. L. 102–378, § 2(26)(E)(i)(I), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “a position within an Executive agency not covered under any of the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) less than the rate payable for level V of the Executive Schedule;”.
 
-Subsec. (h)(1)(iii). Pub. L. 102–378, § 2(26)(E)(i)(II)–(IV), added cl. (iii).
+Subsec. (h)(1)(iii). Pub. L. 102–378, § 2(26)(E)(i)(II)–(IV), added cl. (iii).
 
-Subsec. (h)(2)(C). Pub. L. 102–378, § 2(26)(E)(ii), added subpar. (C).
+Subsec. (h)(2)(C). Pub. L. 102–378, § 2(26)(E)(ii), added subpar. (C).
 
-Subsec. (h)(3)(B). Pub. L. 102–378, § 2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall be payable, within the locality involved, for the entirety of each calendar year for which authority is granted by the President;”.
+Subsec. (h)(3)(B). Pub. L. 102–378, § 2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall be payable, within the locality involved, for the entirety of each calendar year for which authority is granted by the President;”.
 
 1990—Pub. L. 101–509 amended section generally, substituting provisions relating to locality-based comparability payments for provisions making functions, duties, and regulations of agencies and Office of Personnel Management with respect to this subchapter subject to Presidential policies and regulations.
 
@@ -1095,11 +1095,11 @@ Amendment by Pub. L. 110–372 effective on the first day of the first pay perio
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–411, title III, § 302(a)(2), Oct. 30, 2004, 118 Stat. 2318, provided that: “The amendments made by this subsection [amending this section] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136).”
+Pub. L. 108–411, title III, § 302(a)(2), Oct. 30, 2004, 118 Stat. 2318, provided that: “The amendments made by this subsection [amending this section] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136).”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title XI, § 1125(c), Nov. 24, 2003, 117 Stat. 1640, provided that:
+Pub. L. 108–136, div. A, title XI, § 1125(c), Nov. 24, 2003, 117 Stat. 1640, provided that:
 
 > **“(1)** The amendments made by this section [enacting section 7302 of this title and amending this section, sections 5382 and 5383 of this title, and section 207 of Title 18, Crimes and Criminal Procedure] shall take effect on the first day of the first pay period beginning on or after the first January 1 following the date of the enactment of this section [Nov. 24, 2003].
 
@@ -1111,7 +1111,7 @@ Pub. L. 108–136, div. A, title XI, § 1125(c), Nov. 24, 2003, 117 Stat. 1640
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, with provision that first calendar year in which comparability payments under this section are paid shall be calendar year beginning Jan. 1, 1994, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, with provision that first calendar year in which comparability payments under this section are paid shall be calendar year beginning Jan. 1, 1994, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1980 Amendment**
 
@@ -1127,7 +1127,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **Locality Pay for Federal Employees Working Overseas Under Domestic Employee Teleworking Overseas Agreements**
 
-Pub. L. 117–263, div. I, title XCVII, § 9717, Dec. 23, 2022, 136 Stat. 3922, provided that:
+Pub. L. 117–263, div. I, title XCVII, § 9717, Dec. 23, 2022, 136 Stat. 3922, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1163,7 +1163,7 @@ Pub. L. 117–263, div. I, title XCVII, § 9717, Dec. 23, 2022, 136 Stat. 3922
 
 **Non-Foreign Area Retirement Equity Assurance**
 
-Pub. L. 111–84, div. A, title XIX, subtitle B, Oct. 28, 2009, 123 Stat. 2619, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(22), Jan. 7, 2011, 124 Stat. 4374, provided that:
+Pub. L. 111–84, div. A, title XIX, subtitle B, Oct. 28, 2009, 123 Stat. 2619, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(22), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 > **“SEC. 1911. SHORT TITLE.**
 
@@ -1367,7 +1367,7 @@ Pub. L. 111–84, div. A, title XIX, subtitle B, Oct. 28, 2009, 123 Stat. 2619, 
 
 **Comparability Payments Between 2002 and 2007; Comparisons and Recommendations; Revision of Methodology**
 
-Pub. L. 106–554, § 1(a)(3) [title VI, § 637], Dec. 21, 2000, 114 Stat. 2763, 2763A–165, provided that:
+Pub. L. 106–554, § 1(a)(3) [title VI, § 637], Dec. 21, 2000, 114 Stat. 2763, 2763A–165, provided that:
 
 > **“(a)** For purposes of this section—
 
@@ -1437,11 +1437,11 @@ Pub. L. 106–554, § 1(a)(3) [title VI, § 637], Dec. 21, 2000, 114 Stat. 2
 
 **Freeze of Current Rate for Locality-based Comparability Adjustments**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 902(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–304, which provided that notwithstanding any other law, no officer or member of the United States Secret Service Uniformed Division or Park Police was to be paid locality pay under section 5304 or 5304a of this title, at a percentage rate for the applicable locality in excess of the rate in effect for pay periods during calendar year 2000, ceased to be effective on the first day of the first pay period on or after Jan. 1, 2003, pursuant to Pub. L. 108–7, div. J, title VI, § 643, Feb. 20, 2003, 117 Stat. 473.
+Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 902(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–304, which provided that notwithstanding any other law, no officer or member of the United States Secret Service Uniformed Division or Park Police was to be paid locality pay under section 5304 or 5304a of this title, at a percentage rate for the applicable locality in excess of the rate in effect for pay periods during calendar year 2000, ceased to be effective on the first day of the first pay period on or after Jan. 1, 2003, pursuant to Pub. L. 108–7, div. J, title VI, § 643, Feb. 20, 2003, 117 Stat. 473.
 
 **Comparability Payments in 1994 and 1995**
 
-Pub. L. 103–329, title VI, § 630(b), (c), Sept. 30, 1994, 108 Stat. 2424, provided that:
+Pub. L. 103–329, title VI, § 630(b), (c), Sept. 30, 1994, 108 Stat. 2424, provided that:
 
 > **“(b)** For purposes of any locality-based comparability payments taking effect in fiscal year 1995 under subchapter I of chapter 53 of title 5, United States Code (whether by adjustment or otherwise), section 5304(a) of such title shall be deemed to be without force or effect.
 
@@ -1461,7 +1461,7 @@ Section 8(b) of Pub. L. 102–378 provided that:
 
 **Interim Geographic Adjustments**
 
-Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1427, 1462, as amended by Pub. L. 102–378, § 3(4), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–89, § 3(b)(2), Sept. 30, 1993, 107 Stat. 982, provided that:
+Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1427, 1462, as amended by Pub. L. 102–378, § 3(4), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–89, § 3(b)(2), Sept. 30, 1993, 107 Stat. 982, provided that:
 
 > **“(a) Definitions.—** For the purpose of this section—
 
@@ -1495,7 +1495,7 @@ Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1427, 1462, as amended by Pub. L. 102
 
 > **“(2)**
 
-> **(A)** The size of any payments under this section may be reduced or terminated after the amendments made by section 101 of this Act [section 529 [title I, § 101] of Pub. L. 101–509, see Tables for classification] take effect [see Effective Date of 1990 Amendment note set out under section 5301 of this title], except that the reduction or termination of a payment under this section may not have the effect of reducing, for the individual involved, the total rate at which additional forms of basic pay (as defined in subparagraph (B)) are payable to such individual.
+> **(A)** The size of any payments under this section may be reduced or terminated after the amendments made by section 101 of this Act [section 529 [title I, § 101] of Pub. L. 101–509, see Tables for classification] take effect [see Effective Date of 1990 Amendment note set out under section 5301 of this title], except that the reduction or termination of a payment under this section may not have the effect of reducing, for the individual involved, the total rate at which additional forms of basic pay (as defined in subparagraph (B)) are payable to such individual.
 
 > **“(B)** The total rate to which subparagraph (A) applies is the sum of—
 
@@ -1507,17 +1507,17 @@ Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1427, 1462, as amended by Pub. L. 102
 
 > **“(f) Effective Date.—** This section shall take effect on the date of enactment of this Act [Nov. 5, 1990].”
 
-[Amendment by Pub. L. 103–89 to section 529 [title III, § 302] of Pub. L. 101–509, set out above, effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as an Effective Date of 1993 Amendment note under section 3372 of this title.]
+[Amendment by Pub. L. 103–89 to section 529 [title III, § 302] of Pub. L. 101–509, set out above, effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as an Effective Date of 1993 Amendment note under section 3372 of this title.]
 
-[Amendment by Pub. L. 102–378 to section 529 [title III, § 302] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.]
+[Amendment by Pub. L. 102–378 to section 529 [title III, § 302] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.]
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748, § 2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
+For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748, § 2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
 
-Interim geographic adjustments pursuant to section 529 [title III, § 302] of Pub. L. 101–509, set out above, were provided by the following executive orders, formerly set out as notes under section 5332 of this title, effective on the first day of first pay period beginning on or after the effective date shown:
+Interim geographic adjustments pursuant to section 529 [title III, § 302] of Pub. L. 101–509, set out above, were provided by the following executive orders, formerly set out as notes under section 5332 of this title, effective on the first day of first pay period beginning on or after the effective date shown:
 
 Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, effective Jan. 1, 1995.
 
@@ -1571,7 +1571,7 @@ Memorandum of President of the United States, Nov. 30, 1994, 59 F.R. 62549.
 
 Memorandum of President of the United States, Dec. 1, 1993, 58 F.R. 64097.
 
-### § 5304a. Authority to fix an alternative level of comparability payments
+### § 5304a. Authority to fix an alternative level of comparability payments
 
 **(a)** If, because of national emergency or serious economic conditions affecting the general welfare, the President should consider the level of comparability payments which would otherwise be payable under section 5304 in any year to be inappropriate, the President shall—
 
@@ -1581,17 +1581,17 @@ Memorandum of President of the United States, Dec. 1, 1993, 58 F.R. 64097.
 
 **(b)** The requirements set forth in paragraphs (2) and (3), respectively, of section 5303(b) shall apply with respect to any decision to exercise any authority to fix an alternative level of comparability payments under this section.
 
-(Added Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1436.)
+(Added Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1436.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
 **Special Rule Relating to Comparability Payments in 1994**
 
-Pub. L. 101–509, title VI, § 634, Nov. 5, 1990, 104 Stat. 1482, provided that:
+Pub. L. 101–509, title VI, § 634, Nov. 5, 1990, 104 Stat. 1482, provided that:
 
 > “Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 [see Short Title of 1990 Amendment note set out under section 5301 of this title] and any provision of law amended by such Act), for purposes of any comparability payments scheduled to take effect under section 5304 of title 5, United States Code (as amended by such Act) during calendar year 1994—
 
@@ -1601,29 +1601,29 @@ Pub. L. 101–509, title VI, § 634, Nov. 5, 1990, 104 Stat. 1482, provided th
 
 > **“(B)** add after subsection (b) the following:
 
-> “ ‘(c)(1) For the purpose of this section—
+> “ ‘(c)(1) For the purpose of this section—
 
-> “ ‘(A) the “threshold amount” is $1,800,000,000; and
+> “ ‘(A) the “threshold amount” is $1,800,000,000; and
 
-> “ ‘(B) “severe economic conditions” shall be considered to exist relative to comparability payments scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.
+> “ ‘(B) “severe economic conditions” shall be considered to exist relative to comparability payments scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.
 
-> “ ‘(2) Authority under this section to provide an alternative level of comparability payments in any year may not be exercised except in accordance with the following:
+> “ ‘(2) Authority under this section to provide an alternative level of comparability payments in any year may not be exercised except in accordance with the following:
 
-> “ ‘(A) If the estimated cost of the comparability payments which (but for this section) would otherwise be payable in such year would be equal to the threshold amount or less, no alternative level may be fixed under this section unless necessary because a state of war or severe economic conditions exist.
+> “ ‘(A) If the estimated cost of the comparability payments which (but for this section) would otherwise be payable in such year would be equal to the threshold amount or less, no alternative level may be fixed under this section unless necessary because a state of war or severe economic conditions exist.
 
-> “ ‘(B) If the estimated cost of the comparability payments which (but for this section) would otherwise be payable in such year would be greater than the threshold amount, no alternative level may be fixed—
+> “ ‘(B) If the estimated cost of the comparability payments which (but for this section) would otherwise be payable in such year would be greater than the threshold amount, no alternative level may be fixed—
 
-> “ ‘(i) at a level which would result in an estimated cost equal to or greater than the threshold amount, unless necessary because of national emergency or serious economic conditions affecting the general welfare; or
+> “ ‘(i) at a level which would result in an estimated cost equal to or greater than the threshold amount, unless necessary because of national emergency or serious economic conditions affecting the general welfare; or
 
-> “ ‘(ii) at a level which would result in an estimated cost less than the threshold amount, unless necessary because of either of the reasons set forth in subparagraph (A).
+> “ ‘(ii) at a level which would result in an estimated cost less than the threshold amount, unless necessary because of either of the reasons set forth in subparagraph (A).
 
-> “ ‘(d)(1) The President’s agent (as referred to in section 5304(d)) shall develop and include in the appropriate report under section 5304(d)(1) the methodology for estimating any costs under this section, and any estimate under this section shall be in accordance with such methodology.
+> “ ‘(d)(1) The President’s agent (as referred to in section 5304(d)) shall develop and include in the appropriate report under section 5304(d)(1) the methodology for estimating any costs under this section, and any estimate under this section shall be in accordance with such methodology.
 
-> “ ‘(2) In making any estimate under this section, costs attributable to any authority under section 5304(h) may not be taken into account.’; and
+> “ ‘(2) In making any estimate under this section, costs attributable to any authority under section 5304(h) may not be taken into account.’; and
 
 > **“(2)** the President’s pay agent (referred to in section 5304(d) of such title, as so amended) may use appropriate estimates in lieu of BLS survey data if such data is not available for use in preparing the agent’s report with respect to comparability payments payable during calendar year 1994.”
 
-### § 5305. Special pay authority
+### § 5305. Special pay authority
 
 **(a)**
 
@@ -1669,7 +1669,7 @@ Pub. L. 101–509, title VI, § 634, Nov. 5, 1990, 104 Stat. 1482, provided th
 
 **(j)** A rate determined under a schedule of special rates established under this section shall be considered to be part of basic pay for purposes of subchapter III of chapter 83, chapter 84, chapter 87, subchapter V of chapter 55, and section 5941, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
-(Added Pub. L. 91–656, § 3(a), Jan. 8, 1971, 84 Stat. 1946; amended Pub. L. 94–82, title II, § 202(c), Aug. 9, 1975, 89 Stat. 420; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1436; Pub. L. 108–411, title III, § 301(a)(2), Oct. 30, 2004, 118 Stat. 2313.)
+(Added Pub. L. 91–656, § 3(a), Jan. 8, 1971, 84 Stat. 1946; amended Pub. L. 94–82, title II, § 202(c), Aug. 9, 1975, 89 Stat. 420; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1436; Pub. L. 108–411, title III, § 301(a)(2), Oct. 30, 2004, 118 Stat. 2313.)
 
 **Editorial Notes**
 
@@ -1681,27 +1681,27 @@ The provisions of this title governing appointment in the competitive service, r
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–411, § 301(a)(2)(A), added subsec. (a) and struck out former subsec. (a) relating to the President’s authority to establish higher minimum rates of basic pay for specified individuals where the Government’s recruitment or retention efforts are, or are likely to become, significantly handicapped.
+2004—Subsec. (a). Pub. L. 108–411, § 301(a)(2)(A), added subsec. (a) and struck out former subsec. (a) relating to the President’s authority to establish higher minimum rates of basic pay for specified individuals where the Government’s recruitment or retention efforts are, or are likely to become, significantly handicapped.
 
-Subsec. (b)(4). Pub. L. 108–411, § 301(a)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “any other circumstances which the President (or an agency duly authorized or designated by the President in accordance with the last sentence of subsection (a)) considers appropriate.”
+Subsec. (b)(4). Pub. L. 108–411, § 301(a)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “any other circumstances which the President (or an agency duly authorized or designated by the President in accordance with the last sentence of subsection (a)) considers appropriate.”
 
-Subsec. (d). Pub. L. 108–411, § 301(a)(2)(C), substituted “Office of Personnel Management” for “President” and “(or by such other agency as the President may designate under the last sentence of subsection (a)(1))” for “or by such agency as he may designate”.
+Subsec. (d). Pub. L. 108–411, § 301(a)(2)(C), substituted “Office of Personnel Management” for “President” and “(or by such other agency as the President may designate under the last sentence of subsection (a)(1))” for “or by such agency as he may designate”.
 
-Subsec. (e). Pub. L. 108–411, § 301(a)(2)(D), substituted “rate of pay” for “rate of basic pay”.
+Subsec. (e). Pub. L. 108–411, § 301(a)(2)(D), substituted “rate of pay” for “rate of basic pay”.
 
-Subsec. (f). Pub. L. 108–411, § 301(a)(2)(E), added subsec. (f) and struck out former subsec. (f) which read as follows: “The rate of basic pay established under this section and received by an individual immediately before a statutory increase, which becomes effective prior to, on, or after the date of enactment of the statute, in the pay schedule applicable to such individual of any pay system specified in subsection (c) of this section, shall be initially adjusted, effective on the effective date of the statutory increase, under conversion rules prescribed by the President or by such agency as the President may designate.”
+Subsec. (f). Pub. L. 108–411, § 301(a)(2)(E), added subsec. (f) and struck out former subsec. (f) which read as follows: “The rate of basic pay established under this section and received by an individual immediately before a statutory increase, which becomes effective prior to, on, or after the date of enactment of the statute, in the pay schedule applicable to such individual of any pay system specified in subsection (c) of this section, shall be initially adjusted, effective on the effective date of the statutory increase, under conversion rules prescribed by the President or by such agency as the President may designate.”
 
-Subsec. (g)(1). Pub. L. 108–411, § 301(a)(2)(F), substituted “pay” for “basic pay” and “Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate)” for “President (or his designated agency)”.
+Subsec. (g)(1). Pub. L. 108–411, § 301(a)(2)(F), substituted “pay” for “basic pay” and “Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate)” for “President (or his designated agency)”.
 
-Subsec. (h). Pub. L. 108–411, § 301(a)(2)(G), added subsec. (h) and struck out former subsec. (h) which read as follows “The rate of basic pay payable to an individual under this section may not, at any time, be less than the rate which would then be payable to such individual (taking comparability payments under section 5304 into account) if this section had never been enacted.”
+Subsec. (h). Pub. L. 108–411, § 301(a)(2)(G), added subsec. (h) and struck out former subsec. (h) which read as follows “The rate of basic pay payable to an individual under this section may not, at any time, be less than the rate which would then be payable to such individual (taking comparability payments under section 5304 into account) if this section had never been enacted.”
 
-Subsecs. (i), (j). Pub. L. 108–411, § 301(a)(2)(H), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 108–411, § 301(a)(2)(H), added subsecs. (i) and (j).
 
 1990—Pub. L. 101–509 amended section generally, substituting provisions authorizing President to make special pay increases whenever recruitment or retention efforts are handicapped for provisions requiring annual pay reports and adjustments, authorizing alternative plan in years of emergency or when economic conditions affect the general welfare, and setting forth procedure where Congressional committee disapproves such alternative plan.
 
-1975—Subsec. (a)(3). Pub. L. 94–82, § 202(c)(1), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
+1975—Subsec. (a)(3). Pub. L. 94–82, § 202(c)(1), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 
-Subsec. (c)(1). Pub. L. 94–82, § 202(c)(2), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
+Subsec. (c)(1). Pub. L. 94–82, § 202(c)(2), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1711,11 +1711,11 @@ Amendment by Pub. L. 108–411 effective on the first day of the first applicabl
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Staffing Differentials**
 
-Pub. L. 101–509, title V, § 529 [title II, § 209], Nov. 5, 1990, 104 Stat. 1427, 1460, as amended by Pub. L. 102–378, § 3(3), Oct. 2, 1992, 106 Stat. 1355, provided that:
+Pub. L. 101–509, title V, § 529 [title II, § 209], Nov. 5, 1990, 104 Stat. 1427, 1460, as amended by Pub. L. 102–378, § 3(3), Oct. 2, 1992, 106 Stat. 1355, provided that:
 
 > **“(a) In General.—** Effective on the first day of the first applicable pay period beginning on or after January 1, 1991, the President may establish staffing differentials equal to 5 percent of basic pay, which may be paid to each General Schedule employee whose position is in—
 
@@ -1731,23 +1731,23 @@ Pub. L. 101–509, title V, § 529 [title II, § 209], Nov. 5, 1990, 104 Sta
 
 > **“(2)** may be reduced or eliminated by the Office of Personnel Management in its sole discretion as the amendments made by this Act take effect [see Effective Date of 1990 Amendment and Short Title of 1990 Amendment notes set out under section 5301 of this title], except that no such reduction or elimination shall have the effect of reducing the total amount of pay (determined by adding basic pay and staffing differential) which any employee is receiving.”
 
-[Authority of President under section 529 [title II, § 209] of Pub. L. 101–509, set out above, delegated to Office of Personnel Management by Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.]
+[Authority of President under section 529 [title II, § 209] of Pub. L. 101–509, set out above, delegated to Office of Personnel Management by Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.]
 
 **Federal Law Enforcement Pay Reform**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 907(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 907(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that:
 
-> “Beginning on the effective date of this Act [see section 1(a)(4) [div. B, title IX, § 909] of Pub. L. 106–554, set out in a Conversion to New Salary Schedule note under section 3056A of Title 18, Crimes and Criminal Procedure]—
+> “Beginning on the effective date of this Act [see section 1(a)(4) [div. B, title IX, § 909] of Pub. L. 106–554, set out in a Conversion to New Salary Schedule note under section 3056A of Title 18, Crimes and Criminal Procedure]—
 
 > **“(1)** no existing special salary rates shall be authorized for members of the United States Park Police under section 5305 of title 5, United States Code (or any previous similar provision of law); and
 
-> **“(2)** no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 [section 529 [title IV, § 405] of Pub. L. 101–509, set out in a note below].”
+> **“(2)** no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 [section 529 [title IV, § 405] of Pub. L. 101–509, set out in a note below].”
 
-Pub. L. 101–509, title V, § 529 [title IV, §§ 401–407], Nov. 5, 1990, 104 Stat. 1427, 1465, as amended by Pub. L. 102–378, § 3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, § 628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, § 303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, § 118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 907(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–309; Pub. L. 108–411, title I, § 101(b), title III, § 301(b), Oct. 30, 2004, 118 Stat. 2309, 2317, provided that:
+Pub. L. 101–509, title V, § 529 [title IV, §§ 401–407], Nov. 5, 1990, 104 Stat. 1427, 1465, as amended by Pub. L. 102–378, § 3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, § 628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, § 303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, § 118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, § 1(a)(4) [div. B, title IX, § 907(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–309; Pub. L. 108–411, title I, § 101(b), title III, § 301(b), Oct. 30, 2004, 118 Stat. 2309, 2317, provided that:
 
 > **“SEC. 401. SHORT TITLE.**
 
-> “This title [section 529 [title IV, §§ 401–412] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under this section and sections 4521, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title] may be cited as the ‘Federal Law Enforcement Pay Reform Act of 1990’.
+> “This title [section 529 [title IV, §§ 401–412] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under this section and sections 4521, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title] may be cited as the ‘Federal Law Enforcement Pay Reform Act of 1990’.
 
 > **“SEC. 402. DEFINITION.**
 
@@ -1785,11 +1785,11 @@ Pub. L. 101–509, title V, § 529 [title IV, §§ 401–407], Nov. 5, 1990,
 
 > **“(c)** The higher minimum rates and corresponding higher rates for each step rate of each designated grade shall apply to every law enforcement officer in the designated grades (except in the case of any law enforcement officer for whom a higher rate is authorized under section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law) and shall be basic pay for all purposes. The rates shall be adjusted at the time of adjustments in the General Schedule to maintain the step linkage set forth in subsection (b)(2).
 
-> **“(d)** Any interim entry-level adjustment under section 209 of this Act [section 529 [title II, § 209] of Pub. L. 101–509, set out as a note above] which a law enforcement officer is receiving shall be eliminated on the day before the effective date of the higher minimum rates under subsection (b)(1).
+> **“(d)** Any interim entry-level adjustment under section 209 of this Act [section 529 [title II, § 209] of Pub. L. 101–509, set out as a note above] which a law enforcement officer is receiving shall be eliminated on the day before the effective date of the higher minimum rates under subsection (b)(1).
 
 > **“SEC. 404. SPECIAL PAY ADJUSTMENTS FOR LAW ENFORCEMENT OFFICERS IN SELECTED CITIES.**
 
-> **“(a)** A law enforcement officer shall be paid any applicable special pay adjustment in accordance with the provisions of this section, but such special pay adjustment shall be reduced by the amount of any applicable interim geographic adjustment under section 302 of this Act [section 529 [title III, § 302] of Pub. L. 101–509, set out as a note under section 5304 of this title], any applicable locality-based comparability payment under section 5304 of title 5, United States Code, as amended by section 101 of this Act, and, to the extent determined appropriate by the Office of Personnel Management, any applicable special rate of pay under section 5305 of such title, as so amended, or any similar provision of law (other than section 403).
+> **“(a)** A law enforcement officer shall be paid any applicable special pay adjustment in accordance with the provisions of this section, but such special pay adjustment shall be reduced by the amount of any applicable interim geographic adjustment under section 302 of this Act [section 529 [title III, § 302] of Pub. L. 101–509, set out as a note under section 5304 of this title], any applicable locality-based comparability payment under section 5304 of title 5, United States Code, as amended by section 101 of this Act, and, to the extent determined appropriate by the Office of Personnel Management, any applicable special rate of pay under section 5305 of such title, as so amended, or any similar provision of law (other than section 403).
 
 > **“(b)**
 
@@ -1838,13 +1838,13 @@ Pub. L. 101–509, title V, § 529 [title IV, §§ 401–407], Nov. 5, 1990,
 
 > **“(b)** Beginning on September 30, 1993, any periodic payment under section 601(a)(2) of the Intelligence Authorization Act for Fiscal Year 1989 [Pub. L. 100–453, 102 Stat. 1911] for any such employee shall be reduced by the amount of any increase in basic pay under title 5, United States Code, including the following provisions: an annual adjustment under section 5303, locality-based comparability payment under section 5304, initiation or increase in a special pay rate under section 5305, promotion under section 5334, periodic step increase under section 5335, merit increase under section 5404, or other increase to basic pay under any provision of law.”
 
-[Section 303(b) of Pub. L. 103–178 provided that: “The amendment made by subsection (a) [amending section 529 [title IV, § 406] of Pub. L. 101–509, set out above] shall take effect as of September 30, 1993, and shall apply to the pay of employees to whom the amendment applies that is earned on or after that date.” ]
+[Section 303(b) of Pub. L. 103–178 provided that: “The amendment made by subsection (a) [amending section 529 [title IV, § 406] of Pub. L. 101–509, set out above] shall take effect as of September 30, 1993, and shall apply to the pay of employees to whom the amendment applies that is earned on or after that date.” ]
 
-[For effective dates of amendments by section 3(5)–(9) of Pub. L. 102–378 to section 529 [title IV, §§ 402, 403(d), 404(a), (b), 405(a)] of Pub. L. 101–509, set out above, see section 9(a), (b)(6), (9) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.]
+[For effective dates of amendments by section 3(5)–(9) of Pub. L. 102–378 to section 529 [title IV, §§ 402, 403(d), 404(a), (b), 405(a)] of Pub. L. 101–509, set out above, see section 9(a), (b)(6), (9) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.]
 
 **Reporting Requirement**
 
-Pub. L. 101–509, title V, § 529 [title IV, § 412], Nov. 5, 1990, 104 Stat. 1427, 1469, provided that not later than Jan. 1, 1993, the Office of Personnel Management should submit to Congress a written plan to establish a separate pay and classification system for law enforcement officers and specifications for legislation to implement such plan.
+Pub. L. 101–509, title V, § 529 [title IV, § 412], Nov. 5, 1990, 104 Stat. 1427, 1469, provided that not later than Jan. 1, 1993, the Office of Personnel Management should submit to Congress a written plan to establish a separate pay and classification system for law enforcement officers and specifications for legislation to implement such plan.
 
 **Executive Documents**
 
@@ -1852,7 +1852,7 @@ Pub. L. 101–509, title V, § 529 [title IV, § 412], Nov. 5, 1990, 104 Sta
 
 Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 
-### § 5306. Pay fixed by administrative action
+### § 5306. Pay fixed by administrative action
 
 **(a)** Notwithstanding sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31—
 
@@ -1860,9 +1860,9 @@ Functions of President under this section assigned to the Director of the Office
 
 **(A)** employees in the legislative, executive, and judicial branches of the Government of the United States (except employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) and of the government of the District of Columbia, whose rates of pay are fixed by administrative action under law and are not otherwise adjusted under this subchapter;
 
-**(B)** employees under the Architect of the Capitol, whose rates of pay are fixed under section 166b–3a 1
+**(B)** employees under the Architect of the Capitol, whose rates of pay are fixed under section 166b–3a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 40, and the Superintendent of Garages, House office buildings; and
 
@@ -1886,7 +1886,7 @@ may be adjusted, by the appropriate authority concerned, effective at the beginn
 
 **(e)** Pay may not be paid, by reason of any exercise of authority under this section, at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
 
-(Added Pub. L. 91–656, § 3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, § 2(27), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–186, title II, § 215(3), Aug. 20, 1996, 110 Stat. 1745.)
+(Added Pub. L. 91–656, § 3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, § 2(27), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–186, title II, § 215(3), Aug. 20, 1996, 110 Stat. 1745.)
 
 **Editorial Notes**
 
@@ -1910,9 +1910,9 @@ Level V of the Executive Schedule, referred to in subsec. (e), is set out in sec
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-### § 5307. Limitation on certain payments
+### § 5307. Limitation on certain payments
 
 **(a)**
 
@@ -1922,9 +1922,9 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 **(A)** subchapter III or VII of chapter 55 or section 5596;
 
-**(B)** chapter 57 (other than section 5753, 5754, 5755, or 5757); 1
+**(B)** chapter 57 (other than section 5753, 5754, 5755, or 5757); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or
 
@@ -1934,9 +1934,9 @@ or
 
 **(1)** Any amount which is not paid to an employee in a calendar year because of the limitation under subsection (a) shall be paid to such employee in a lump sum at the beginning of the following calendar year.
 
-**(2)** Any amount paid under this subsection in a calendar year shall be taken into account for purposes of appying 2
+**(2)** Any amount paid under this subsection in a calendar year shall be taken into account for purposes of appying 2
 
-<sup>2</sup>  So in original. Probably should be “applying”.
+<sup>2</sup> So in original. Probably should be “applying”.
 
 the limitations under subsection (a) with respect to such calendar year.
 
@@ -1974,7 +1974,7 @@ the limitations under subsection (a) with respect to such calendar year.
 
 **(B)** The regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
 
-(Added Pub. L. 91–656, § 3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, § 3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, § 2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, § 207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII, § 1322, Nov. 25, 2002, 116 Stat. 2297; Pub. L. 110–372, § 3(a), Oct. 8, 2008, 122 Stat. 4045; Pub. L. 114–113, div. I, title II, § 210(a), Dec. 18, 2015, 129 Stat. 2674.)
+(Added Pub. L. 91–656, § 3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, § 3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, § 2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, § 207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII, § 1322, Nov. 25, 2002, 116 Stat. 2297; Pub. L. 110–372, § 3(a), Oct. 8, 2008, 122 Stat. 4045; Pub. L. 114–113, div. I, title II, § 210(a), Dec. 18, 2015, 129 Stat. 2674.)
 
 **Editorial Notes**
 
@@ -1986,25 +1986,25 @@ Section 5757, referred to in subsec. (a)(2)(B), probably means the section 5757 
 
 **Amendments**
 
-2015—Subsec. (d)(1)(A). Pub. L. 114–113, § 210(a)(1), substituted “this title, section 332(f), 603, or 604 of title 28, or section 108 of the Legislative Branch Appropriations Act, 1991 (2 U.S.C. 1849)” for “this title or section 332(f), 603, or 604 of title 28”.
+2015—Subsec. (d)(1)(A). Pub. L. 114–113, § 210(a)(1), substituted “this title, section 332(f), 603, or 604 of title 28, or section 108 of the Legislative Branch Appropriations Act, 1991 (2 U.S.C. 1849)” for “this title or section 332(f), 603, or 604 of title 28”.
 
-Subsec. (d)(5). Pub. L. 114–113, § 210(a)(2), added par. (5).
+Subsec. (d)(5). Pub. L. 114–113, § 210(a)(2), added par. (5).
 
-2008—Subsec. (d)(2). Pub. L. 110–372, § 3(a)(1), substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
+2008—Subsec. (d)(2). Pub. L. 110–372, § 3(a)(1), substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
 
-Subsec. (d)(3)(B). Pub. L. 110–372, § 3(a)(2), substituted “The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months” for “An agency’s certification under this subsection shall be for a period of 2 calendar years” and struck out “, for purposes of either or both of those years,” after “time”.
+Subsec. (d)(3)(B). Pub. L. 110–372, § 3(a)(2), substituted “The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months” for “An agency’s certification under this subsection shall be for a period of 2 calendar years” and struck out “, for purposes of either or both of those years,” after “time”.
 
-2002—Subsec. (a)(1). Pub. L. 107–296, § 1322(b)(1), inserted “or as otherwise provided under subsection (d),” after “under law,”.
+2002—Subsec. (a)(1). Pub. L. 107–296, § 1322(b)(1), inserted “or as otherwise provided under subsection (d),” after “under law,”.
 
 Subsec. (a)(2)(B). Pub. L. 107–273 substituted “5755, or 5757” for “or 5755”.
 
-Subsec. (c). Pub. L. 107–296, § 1322(b)(2), substituted “this section (subject to subsection (d)),” for “this section,”.
+Subsec. (c). Pub. L. 107–296, § 1322(b)(2), substituted “this section (subject to subsection (d)),” for “this section,”.
 
-Subsec. (d). Pub. L. 107–296, § 1322(a), added subsec. (d).
+Subsec. (d). Pub. L. 107–296, § 1322(a), added subsec. (d).
 
-1991—Subsec. (a). Pub. L. 102–77, § 2(1)–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
+1991—Subsec. (a). Pub. L. 102–77, § 2(1)–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
 
-Subsec. (b)(3). Pub. L. 102–77, § 2(4), struck out par. (3) which read as follows: “Paragraph (1) shall not apply to an amount if, or to the extent that, it is attributable to a payment the authority for which would derive from section 4505a(d), 5753(e), or 5754(e).”
+Subsec. (b)(3). Pub. L. 102–77, § 2(4), struck out par. (3) which read as follows: “Paragraph (1) shall not apply to an amount if, or to the extent that, it is attributable to a payment the authority for which would derive from section 4505a(d), 5753(e), or 5754(e).”
 
 1990—Pub. L. 101–509 amended section generally, substituting provisions prohibiting cash payments to employees in excess of annual rate of basic pay payable for level I of Executive Schedule in a calendar year, for provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees.
 
@@ -2014,29 +2014,29 @@ Subsec. (b)(3). Pub. L. 102–77, § 2(4), struck out par. (3) which read as f
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. I, title II, § 210(b), Dec. 18, 2015, 129 Stat. 2674, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. I, title II, § 210(b), Dec. 18, 2015, 129 Stat. 2674, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 18, 2015].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–372, § 3(c), Oct. 8, 2008, 122 Stat. 4046, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 8, 2008].”
+Pub. L. 110–372, § 3(c), Oct. 8, 2008, 122 Stat. 4046, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 8, 2008].”
 
 **Effective Date of 2002 Amendments**
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–273, div. A, title II, § 207(c), Nov. 2, 2002, 116 Stat. 1780, provided that: “The amendments made by this section [enacting section 5757 of this title and amending this section] shall take effect on the first day of the first applicable pay period beginning on or after 6 months after the date of enactment of this Act [Nov. 2, 2002].”
+Pub. L. 107–273, div. A, title II, § 207(c), Nov. 2, 2002, 116 Stat. 1780, provided that: “The amendments made by this section [enacting section 5757 of this title and amending this section] shall take effect on the first day of the first applicable pay period beginning on or after 6 months after the date of enactment of this Act [Nov. 2, 2002].”
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Construction**
 
-Pub. L. 115–41, title II, § 204(d), June 23, 2017, 131 Stat. 876, provided that: “Nothing in this Act [see Short Title of 2017 Amendment note set out under section 101 of Title 38, Veterans’ Benefits] or the amendments made by this Act may be construed to modify the certification issued by the Office of Personnel Management and the Office of Management and Budget regarding the performance appraisal system of the Senior Executive Service of the Department of Veterans Affairs.”
+Pub. L. 115–41, title II, § 204(d), June 23, 2017, 131 Stat. 876, provided that: “Nothing in this Act [see Short Title of 2017 Amendment note set out under section 101 of Title 38, Veterans’ Benefits] or the amendments made by this Act may be construed to modify the certification issued by the Office of Personnel Management and the Office of Management and Budget regarding the performance appraisal system of the Senior Executive Service of the Department of Veterans Affairs.”
 
 **Extension of Certification**
 
-Pub. L. 110–372, § 3(b), Oct. 8, 2008, 122 Stat. 4045, provided that:
+Pub. L. 110–372, § 3(b), Oct. 8, 2008, 122 Stat. 4045, provided that:
 
 > **“(1) Extension to 2009.—**
 
@@ -2080,27 +2080,27 @@ The Director of the Office of Management and Budget is hereby authorized and dir
 
 Barack Obama.
 
-### [§ 5308. Omitted]
+### [§ 5308. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-Section, added Pub. L. 91–656, § 3(a), Jan. 8, 1971, 84 Stat. 1951, relating to pay limitation, was omitted in the general revision of this subchapter by Pub. L. 101–509.
+Section, added Pub. L. 91–656, § 3(a), Jan. 8, 1971, 84 Stat. 1951, relating to pay limitation, was omitted in the general revision of this subchapter by Pub. L. 101–509.
 
 ## SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES
 
-### § 5311. The Executive Schedule
+### § 5311. The Executive Schedule
 
 The Executive Schedule, which is divided into five pay levels, is the basic pay schedule for positions, other than Senior Executive Service positions and positions in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, to which this subchapter applies.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 95–454, title IV, §§ 408(b)(1), 414(b)(1), Oct. 13, 1978, 92 Stat. 1173, 1178; Pub. L. 96–54, § 2(a)(24), Aug. 14, 1979, 93 Stat. 382; Pub. L. 100–325, § 2(h)(1), (2), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, § 529 [title I, § 104(c)], Nov. 5, 1990, 104 Stat. 1427, 1447.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 95–454, title IV, §§ 408(b)(1), 414(b)(1), Oct. 13, 1978, 92 Stat. 1173, 1178; Pub. L. 96–54, § 2(a)(24), Aug. 14, 1979, 93 Stat. 382; Pub. L. 100–325, § 2(h)(1), (2), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, § 529 [title I, § 104(c)], Nov. 5, 1990, 104 Stat. 1427, 1447.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2210. | Aug. 14, 1964, Pub. L. 88–426, § 302, 78 Stat. 415. |
+|  | 5 U.S.C. 2210. | Aug. 14, 1964, Pub. L. 88–426, § 302, 78 Stat. 415. |
 
 The words “There is hereby established” are omitted as executed. The word “offices” is omitted as included in “positions”. The words “Executive Schedule” are substituted for “Federal Executive Salary Schedule”.
 
@@ -2122,21 +2122,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 but does not include any Senior Executive Service position (as defined in section 3132(a) of this title) or any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.”
 
-1988—Subsec. (a). Pub. L. 100–325, § 2(h)(1), inserted reference to positions in Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+1988—Subsec. (a). Pub. L. 100–325, § 2(h)(1), inserted reference to positions in Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-Subsec. (b)(2). Pub. L. 100–325, § 2(h)(2), substituted “(as defined in section 3132(a) of this title) or any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service” for “, as defined in section 3132(a) of this title” in concluding provision.
+Subsec. (b)(2). Pub. L. 100–325, § 2(h)(2), substituted “(as defined in section 3132(a) of this title) or any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service” for “, as defined in section 3132(a) of this title” in concluding provision.
 
 1979—Subsec. (b)(1). Pub. L. 96–54 inserted “of the Office of Personnel Management” after “Director”.
 
-1978—Pub. L. 95–454, § 408(b)(1), inserted reference to Senior Executive Service positions.
+1978—Pub. L. 95–454, § 408(b)(1), inserted reference to Senior Executive Service positions.
 
-Pub. L. 95–454, § 414(b)(1), designated existing provisions as subsec. (a) and added subsec. (b).
+Pub. L. 95–454, § 414(b)(1), designated existing provisions as subsec. (a) and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1979 Amendment**
 
@@ -2150,7 +2150,7 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 Section 414(b)(2) of Pub. L. 95–454 required President to transmit by Jan. 1, 1980, a plan to Congress for authorizing executive level positions in executive branch.
 
-### § 5312. Positions at level I
+### § 5312. Positions at level I
 
 Level I of the Executive Schedule applies to the following positions for which the annual rate of basic pay shall be the rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title:
 
@@ -2196,13 +2196,13 @@ Chairman, Board of Governors of the Federal Reserve System.
 
 Director of National Intelligence.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, § 10(d)(1), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, § 6(c)(12), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–618, title I, § 141(b)(3)(A), Jan. 3, 1975, 88 Stat. 1999; Pub. L. 94–82, title II, § 202(b)(1), Aug. 9, 1975, 89 Stat. 419; Pub. L. 95–91, title VII, § 710(c), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, § 508(c), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 97–456, § 3(d)(1), (5), Jan. 12, 1983, 96 Stat. 2505; Pub. L. 99–198, title XI, § 1113(d), Dec. 23, 1985, 99 Stat. 1480; Pub. L. 99–260, § 4(c), Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–527, § 13(c), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, § 11(a), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, § 1003(a)(4)(A), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–296, title I, § 108(e)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 105–277, div. C, title VII, § 713(a)(1), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–569, title X, § 1002(a)(1), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–296, title XVII, § 1702(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–458, title I, § 1015(a), Dec. 17, 2004, 118 Stat. 3664.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, § 10(d)(1), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, § 6(c)(12), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–618, title I, § 141(b)(3)(A), Jan. 3, 1975, 88 Stat. 1999; Pub. L. 94–82, title II, § 202(b)(1), Aug. 9, 1975, 89 Stat. 419; Pub. L. 95–91, title VII, § 710(c), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, § 508(c), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 97–456, § 3(d)(1), (5), Jan. 12, 1983, 96 Stat. 2505; Pub. L. 99–198, title XI, § 1113(d), Dec. 23, 1985, 99 Stat. 1480; Pub. L. 99–260, § 4(c), Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–527, § 13(c), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, § 11(a), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, § 1003(a)(4)(A), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–296, title I, § 108(e)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 105–277, div. C, title VII, § 713(a)(1), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–569, title X, § 1002(a)(1), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–296, title XVII, § 1702(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–458, title I, § 1015(a), Dec. 17, 2004, 118 Stat. 3664.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2211(a). | Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416. |
+|  | 5 U.S.C. 2211(a). | Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -2210,7 +2210,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
 
 **Codification**
 
@@ -2228,7 +2228,7 @@ Paragraph designation for the position added by Pub. L. 96–88 has been omitted
 
 1994—Pub. L. 103–296 inserted item relating to Commissioner of Social Security, Social Security Administration.
 
-1988—Pub. L. 100–690, §§ 1003(a)(4)(A), 1009, temporarily inserted item relating to Director of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
+1988—Pub. L. 100–690, §§ 1003(a)(4)(A), 1009, temporarily inserted item relating to Director of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
 
 Pub. L. 100–679 inserted item relating to Director of Office of Management and Budget.
 
@@ -2238,13 +2238,13 @@ Pub. L. 100–527 inserted item relating to Secretary of Veterans Affairs.
 
 1985—Pub. L. 99–198 inserted item relating to Special Assistant for Agricultural Trade and Food Aid.
 
-1983—Pub. L. 97–456, § 3(d)(5), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+1983—Pub. L. 97–456, § 3(d)(5), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
-1979—Pub. L. 96–88, § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
+1979—Pub. L. 96–88, § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
 
 Pars. (1) to (14). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
 
-Par. (15). Pub. L. 96–88, § 508(c), added par. (15) relating to Secretary of Education. See Codification note set out above.
+Par. (15). Pub. L. 96–88, § 508(c), added par. (15) relating to Secretary of Education. See Codification note set out above.
 
 1977—Par. (14). Pub. L. 95–91 added par. (14) relating to Secretary of Energy.
 
@@ -2270,13 +2270,13 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–569, title X, § 1002(b), Dec. 27, 2000, 114 Stat. 3028, provided that: “This section [amending this section and sections 5313 and 5314 of this title] and the amendments made by this section shall take effect on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after the date of the enactment of this Act [Dec. 27, 2000].”
+Pub. L. 106–569, title X, § 1002(b), Dec. 27, 2000, 114 Stat. 3028, provided that: “This section [amending this section and sections 5313 and 5314 of this title] and the amendments made by this section shall take effect on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after the date of the enactment of this Act [Dec. 27, 2000].”
 
 **Effective and Termination Dates of 1988 Amendments**
 
 Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed on Sept. 30, 1997, see sections 1012 and 1009, respectively, of Pub. L. 100–690.
 
-Pub. L. 100–679, § 11(e), Nov. 17, 1988, 102 Stat. 4070, provided that: “The amendments made by this section [amending sections 5312 to 5315 of this title] shall be effective on January 20, 1989.”
+Pub. L. 100–679, § 11(e), Nov. 17, 1988, 102 Stat. 4070, provided that: “The amendments made by this section [amending sections 5312 to 5315 of this title] shall be effective on January 20, 1989.”
 
 Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
@@ -2284,7 +2284,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
 
-Pub. L. 96–54, § 2(a)(25)(B), Aug. 14, 1979, 93 Stat. 382, provided that: The amendments made by subparagraph (A) [amending sections 5312 to 5316 of this title] shall take effect January 1, 1980”.
+Pub. L. 96–54, § 2(a)(25)(B), Aug. 14, 1979, 93 Stat. 382, provided that: The amendments made by subparagraph (A) [amending sections 5312 to 5316 of this title] shall take effect January 1, 1980”.
 
 **Effective Date of 1970 Amendment**
 
@@ -2292,15 +2292,15 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective 90 days after Secretary of Transportation first takes office, or on any earlier date after Oct. 15, 1966, as President prescribes and publishes in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670.
+Amendment by Pub. L. 89–670 effective 90 days after Secretary of Transportation first takes office, or on any earlier date after Oct. 15, 1966, as President prescribes and publishes in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670.
 
 **Short Title of 1975 Amendment**
 
-Pub. L. 94–82, title II, § 201, Aug. 9, 1975, 89 Stat. 419, provided that: “This title [see Tables for classification] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
+Pub. L. 94–82, title II, § 201, Aug. 9, 1975, 89 Stat. 419, provided that: “This title [see Tables for classification] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
 
 **Compensation and Emoluments of Secretary of the Interior; Fixing at Level in Effect on January 1, 2005**
 
-Pub. L. 111–1, § 1, Jan. 16, 2009, 123 Stat. 3, provided that:
+Pub. L. 111–1, § 1, Jan. 16, 2009, 123 Stat. 3, provided that:
 
 > **“(a) In General.—** The compensation and other emoluments attached to the office of Secretary of the Interior shall be those in effect January 1, 2005, notwithstanding any increase in such compensation or emoluments after that date under any provision of law, or provision which has the force and effect of law, that is enacted or becomes effective during the period beginning at noon of January 3, 2005, and ending at noon of January 3, 2011.
 
@@ -2344,11 +2344,11 @@ For provisions limiting compensation and emoluments of Secretary of the Treasury
 
 **Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on January 1, 1977**
 
-Pub. L. 96–241, § 1, May 3, 1980, 94 Stat. 343, limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointed to that office after May 3, 1980, ceases to hold that office.
+Pub. L. 96–241, § 1, May 3, 1980, 94 Stat. 343, limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointed to that office after May 3, 1980, ceases to hold that office.
 
 **Compensation and Emoluments of Attorney General; Fixing at Level in Effect on January 1, 1969**
 
-Provisions of Pub. L. 93–178, § 1, Dec. 10, 1973, 87 Stat. 697, which fixed the compensation and other emoluments attached to the Office of Attorney General at level in effect on Jan. 1, 1969, notwithstanding any other provision of law enacted or becoming effective during period from noon, Jan. 3, 1969, through noon, Jan. 2, 1975, were repealed by Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, effective as of Feb. 4, 1975.
+Provisions of Pub. L. 93–178, § 1, Dec. 10, 1973, 87 Stat. 697, which fixed the compensation and other emoluments attached to the Office of Attorney General at level in effect on Jan. 1, 1969, notwithstanding any other provision of law enacted or becoming effective during period from noon, Jan. 3, 1969, through noon, Jan. 2, 1975, were repealed by Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, effective as of Feb. 4, 1975.
 
 **Salary Increases**
 
@@ -2358,7 +2358,7 @@ For prior year salary increases per the recommendation of the President, see Pri
 
 For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under section 5318 of this title.
 
-### § 5313. Positions at level II
+### § 5313. Positions at level II
 
 Level II of the Executive Schedule applies to the following positions, for which the annual rate of basic pay shall be the rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title:
 
@@ -2456,7 +2456,7 @@ Federal Transit Administrator.
 
 Chief Executive Officer, United States International Development Finance Corporation.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, § 10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, § 1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, § 15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, § 8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, § 212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, § 2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, § 104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, § 6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, § 310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, § 16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, § 202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, § 4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, § 1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, § 710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, § 3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, § 201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, § 2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§ 3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, § 2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, § 3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, § 501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, § 2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, § 178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, § 13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, § 11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, § 501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, § 529 [title I, § 112(b)], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, § 207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, § 315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, § 1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, § 904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, § 108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, § 104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, § 713(a)(2), div. G, subdiv. A, title XII, § 1224(1), title XIII, § 1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, § 911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, § 1(a)(2) [title IV, § 404(b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, § 1002(a)(2), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–71, title I, § 101(c)(1), Nov. 19, 2001, 115 Stat. 602; Pub. L. 107–295, title II, § 215(b), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 107–296, title XVII, § 1702(a)(2), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–199, div. D, title VI, § 604(b)(4)(B), Jan. 23, 2004, 118 Stat. 212; Pub. L. 108–458, title I, § 1015(b), Dec. 17, 2004, 118 Stat. 3664; Pub. L. 109–295, title VI, § 612(a)(1), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–53, title XXIV, § 2405(e), Aug. 3, 2007, 121 Stat. 550; Pub. L. 110–289, div. A, title I, § 1161(g)(1), July 30, 2008, 122 Stat. 2780; Pub. L. 111–259, title VIII, § 807(a), Oct. 7, 2010, 124 Stat. 2749; Pub. L. 113–291, div. A, title IX, § 901(m)(1), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–94, div. A, title III, § 3029(a), title VI, § 6011(d)(1)(A), Dec. 4, 2015, 129 Stat. 1496, 1569; Pub. L. 114–328, div. A, title IX, § 901(h), Dec. 23, 2016, 130 Stat. 2342; Pub. L. 115–31, div. N, title III, § 312, May 5, 2017, 131 Stat. 816; Pub. L. 115–91, div. A, title IX, §§ 903(a), 910(d), title X, § 1081(b)(1)(C), Dec. 12, 2017, 131 Stat. 1512, 1518, 1597; Pub. L. 115–254, div. F, title I, § 1413(d)(4), div. K, title I, § 1904(c)(1)(A), Oct. 5, 2018, 132 Stat. 3489, 3546; Pub. L. 116–92, div. A, title IX, § 902(93)(B), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), div. H, title XC, § 9001(b)(1), Jan. 1, 2021, 134 Stat. 3794, 4766.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, § 10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, § 1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, § 15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, § 8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, § 212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, § 2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, § 104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, § 6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, § 310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, § 16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, § 202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, § 4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, § 1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, § 710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, § 3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, § 201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, § 2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§ 3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, § 2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, § 3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, § 501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, § 2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, § 178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, § 13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, § 11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, § 501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, § 529 [title I, § 112(b)], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, § 207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, § 315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, § 1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, § 904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, § 108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, § 104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, § 713(a)(2), div. G, subdiv. A, title XII, § 1224(1), title XIII, § 1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, § 911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, § 1(a)(2) [title IV, § 404(b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, § 1002(a)(2), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–71, title I, § 101(c)(1), Nov. 19, 2001, 115 Stat. 602; Pub. L. 107–295, title II, § 215(b), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 107–296, title XVII, § 1702(a)(2), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–199, div. D, title VI, § 604(b)(4)(B), Jan. 23, 2004, 118 Stat. 212; Pub. L. 108–458, title I, § 1015(b), Dec. 17, 2004, 118 Stat. 3664; Pub. L. 109–295, title VI, § 612(a)(1), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–53, title XXIV, § 2405(e), Aug. 3, 2007, 121 Stat. 550; Pub. L. 110–289, div. A, title I, § 1161(g)(1), July 30, 2008, 122 Stat. 2780; Pub. L. 111–259, title VIII, § 807(a), Oct. 7, 2010, 124 Stat. 2749; Pub. L. 113–291, div. A, title IX, § 901(m)(1), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–94, div. A, title III, § 3029(a), title VI, § 6011(d)(1)(A), Dec. 4, 2015, 129 Stat. 1496, 1569; Pub. L. 114–328, div. A, title IX, § 901(h), Dec. 23, 2016, 130 Stat. 2342; Pub. L. 115–31, div. N, title III, § 312, May 5, 2017, 131 Stat. 816; Pub. L. 115–91, div. A, title IX, §§ 903(a), 910(d), title X, § 1081(b)(1)(C), Dec. 12, 2017, 131 Stat. 1512, 1518, 1597; Pub. L. 115–254, div. F, title I, § 1413(d)(4), div. K, title I, § 1904(c)(1)(A), Oct. 5, 2018, 132 Stat. 3489, 3546; Pub. L. 116–92, div. A, title IX, § 902(93)(B), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), div. H, title XC, § 9001(b)(1), Jan. 1, 2021, 134 Stat. 3794, 4766.)
 
 **Historical and Revision Notes**
 
@@ -2464,7 +2464,7 @@ Chief Executive Officer, United States International Development Finance Corpora
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2211(b) (less (15)). | Aug. 14, 1964, Pub. L. 88–426, § 303(b) (less (15)), 78 Stat. 416. |
+|  | 5 U.S.C. 2211(b) (less (15)). | Aug. 14, 1964, Pub. L. 88–426, § 303(b) (less (15)), 78 Stat. 416. |
 
 The proviso in paragraph (15) of former section 2211(b) is carried into section 5314. The remainder of paragraph (15) is omitted but not repealed, see table III. The part of paragraph (15) that is omitted but not repealed provides that the position of Director of the Federal Bureau of Investigation shall be in Level II of the Federal Executive Salary Schedule so long as the position is held by the incumbent of the position on August 14, 1964. The omission of this provision from title 5, without repealing the corresponding provision of the source statute, in effect leaves existing statute unchanged insofar as it relates to the present incumbent of the position of Director of the Federal Bureau of Investigation.
 
@@ -2478,35 +2478,35 @@ The deletion of paragraph (6) of 5 U.S.C. 5313 reflects the abolition of the pos
 
 **References in Text**
 
-Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 9001(b)(1), inserted item relating to Director, Cybersecurity and Infrastructure Security Agency.
+2021—Pub. L. 116–283, § 9001(b)(1), inserted item relating to Director, Cybersecurity and Infrastructure Security Agency.
 
-Pub. L. 116–283, § 901(a)(2)(B), repealed by Pub. L. 115–91, § 910(d). See 2017 Amendment note below.
+Pub. L. 116–283, § 901(a)(2)(B), repealed by Pub. L. 115–91, § 910(d). See 2017 Amendment note below.
 
 2019—Pub. L. 116–92 struck out item relating to Under Secretary of Defense for Research and Engineering.
 
-2018—Pub. L. 115–254, § 1904(c)(1)(A), inserted item relating to Administrator of the Transportation Security Administration.
+2018—Pub. L. 115–254, § 1904(c)(1)(A), inserted item relating to Administrator of the Transportation Security Administration.
 
-Pub. L. 115–254, § 1413(d)(4), inserted item relating to Chief Executive Officer, United States International Development Finance Corporation.
+Pub. L. 115–254, § 1413(d)(4), inserted item relating to Chief Executive Officer, United States International Development Finance Corporation.
 
-2017—Pub. L. 115–91, § 1081(b)(1)(C), repealed Pub. L. 113–291, § 901(m)(1). See 2014 Amendment note below.
+2017—Pub. L. 115–91, § 1081(b)(1)(C), repealed Pub. L. 113–291, § 901(m)(1). See 2014 Amendment note below.
 
-Pub. L. 115–91, § 910(d), which inserted item relating to Chief Management Officer of the Department of Defense, was repealed by Pub. L. 116–283, § 901(a)(2)(B).
+Pub. L. 115–91, § 910(d), which inserted item relating to Chief Management Officer of the Department of Defense, was repealed by Pub. L. 116–283, § 901(a)(2)(B).
 
-Pub. L. 115–91, § 903(a), amended Pub. L. 114–328, § 901(h). See 2016 Amendment note below.
+Pub. L. 115–91, § 903(a), amended Pub. L. 114–328, § 901(h). See 2016 Amendment note below.
 
 Pub. L. 115–31 struck out item relating to Director of the National Counter Proliferation Center.
 
-2016—Pub. L. 114–328, § 901(h), as amended by Pub. 115–91, § 903(a), struck out item relating to Under Secretary of Defense for Acquisition, Technology, and Logistics and inserted item relating to Under Secretary of Defense for Research and Engineering.
+2016—Pub. L. 114–328, § 901(h), as amended by Pub. 115–91, § 903(a), struck out item relating to Under Secretary of Defense for Acquisition, Technology, and Logistics and inserted item relating to Under Secretary of Defense for Research and Engineering.
 
-2015—Pub. L. 114–94, § 6011(d)(1)(A), struck out item relating to Under Secretary of Transportation for Security.
+2015—Pub. L. 114–94, § 6011(d)(1)(A), struck out item relating to Under Secretary of Transportation for Security.
 
-Pub. L. 114–94, § 3029(a), inserted item relating to Federal Transit Administrator.
+Pub. L. 114–94, § 3029(a), inserted item relating to Federal Transit Administrator.
 
-2014—Pub. L. 113–291, § 901(m)(1), which directed insertion of item relating to Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, § 1081(b)(1)(C).
+2014—Pub. L. 113–291, § 901(m)(1), which directed insertion of item relating to Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, § 1081(b)(1)(C).
 
 2010—Pub. L. 111–259 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
@@ -2532,11 +2532,11 @@ Pub. L. 106–553 inserted item relating to Deputy Secretary of State for Manage
 
 1999—Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1998—Pub. L. 105–277, § 1332(1), struck out item relating to Director of the United States Information Agency.
+1998—Pub. L. 105–277, § 1332(1), struck out item relating to Director of the United States Information Agency.
 
-Pub. L. 105–277, § 1224(1), struck out item relating to Director of the United States Arms Control and Disarmament Agency.
+Pub. L. 105–277, § 1224(1), struck out item relating to Director of the United States Arms Control and Disarmament Agency.
 
-Pub. L. 105–277, § 713(a)(2), inserted item relating to Deputy Director of National Drug Control Policy.
+Pub. L. 105–277, § 713(a)(2), inserted item relating to Deputy Director of National Drug Control Policy.
 
 1994—Pub. L. 103–325 inserted item relating to Administrator of the Community Development Financial Institutions Fund.
 
@@ -2568,7 +2568,7 @@ Pub. L. 99–348 inserted item relating to Under Secretary of Defense for Acquis
 
 1983—Pub. L. 98–80 inserted item relating to Administrator of Environmental Protection Agency.
 
-Pub. L. 97–449, § 3(1), inserted item relating to Administrator, Federal Highway Administration.
+Pub. L. 97–449, § 3(1), inserted item relating to Administrator, Federal Highway Administration.
 
 1980—Pub. L. 96–465 inserted item relating to Ambassadors at Large.
 
@@ -2596,7 +2596,7 @@ Par. (22). Pub. L. 93–438 added par. (22) relating to Deputy Secretary of Ener
 
 Par. (2). Pub. L. 92–352 substituted “Deputy Secretary of State” for “Under Secretary of State”.
 
-Par. (6). Pub. L. 92–302 added par. (6) relating to Deputy Secretary of the Treasury. A prior par. (6), “Administrator of the Housing and Home Finance Agency,” was repealed by Pub. L. 90–83, § 1(13), Sept. 11, 1967, 81 Stat. 198.
+Par. (6). Pub. L. 92–302 added par. (6) relating to Deputy Secretary of the Treasury. A prior par. (6), “Administrator of the Housing and Home Finance Agency,” was repealed by Pub. L. 90–83, § 1(13), Sept. 11, 1967, 81 Stat. 198.
 
 Par. (21). Pub. L. 92–255 added par. (21) relating to Director of Special Action Office for Drug Abuse Prevention.
 
@@ -2614,27 +2614,27 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title IX, § 902(93)(C), Dec. 20, 2019, 133 Stat. 1554, provided that: “This paragraph [amending this section and section 5314 of this title] shall have no force or effect until the next date on which the Congress confirms an individual to serve as the Under Secretary of Defense for Research and Engineering after the date of enactment of this Act [Dec. 20, 2019] [Under Secretary confirmed on July 22, 2021].”
+Pub. L. 116–92, div. A, title IX, § 902(93)(C), Dec. 20, 2019, 133 Stat. 1554, provided that: “This paragraph [amending this section and section 5314 of this title] shall have no force or effect until the next date on which the Congress confirms an individual to serve as the Under Secretary of Defense for Research and Engineering after the date of enactment of this Act [Dec. 20, 2019] [Under Secretary confirmed on July 22, 2021].”
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 910(d), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(d) (amending this section) was effective on Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
+Pub. L. 115–91, div. A, title IX, § 910(d), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(d) (amending this section) was effective on Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
-Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(C) is effective as of Dec. 23, 2016.
+Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(C) is effective as of Dec. 23, 2016.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title IX, § 901(h), Dec. 23, 2016, 130 Stat. 2341, provided that the amendment made by section 901(h) is effective on Feb. 1, 2018.
+Pub. L. 114–328, div. A, title IX, § 901(h), Dec. 23, 2016, 130 Stat. 2341, provided that the amendment made by section 901(h) is effective on Feb. 1, 2018.
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–94, div. A, § 1003, Dec. 4, 2015, 129 Stat. 1322, provided that: “Except as otherwise provided, this division [see Tables for classification], including the amendments made by this division, takes effect on October 1, 2015.”
+Pub. L. 114–94, div. A, § 1003, Dec. 4, 2015, 129 Stat. 1322, provided that: “Except as otherwise provided, this division [see Tables for classification], including the amendments made by this division, takes effect on October 1, 2015.”
 
-Pub. L. 114–94, div. A, title III, § 3029(c), Dec. 4, 2015, 129 Stat. 1496, provided that: “The amendments made by this section [amending this section and section 5314 of this title] shall take effect on the first day of the first pay period beginning on or after the first day of the first fiscal year beginning after the date of enactment of this Act [Dec. 4, 2015].”
+Pub. L. 114–94, div. A, title III, § 3029(c), Dec. 4, 2015, 129 Stat. 1496, provided that: “The amendments made by this section [amending this section and section 5314 of this title] shall take effect on the first day of the first pay period beginning on or after the first day of the first fiscal year beginning after the date of enactment of this Act [Dec. 4, 2015].”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(m)(1), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(m)(1) is effective on Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(C), Dec. 12, 2017, 131 Stat. 1597, effective Dec. 23, 2016.
+Pub. L. 113–291, div. A, title IX, § 901(m)(1), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(m)(1) is effective on Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(C), Dec. 12, 2017, 131 Stat. 1597, effective Dec. 23, 2016.
 
 **Effective Date of 2004 Amendment**
 
@@ -2662,7 +2662,7 @@ Amendment by Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Health and Human Services, Under Secretary of the Interior, Under Secretary of Education, and Under Secretary of Housing and Urban Development, see section 529 [title I, § 112(e)] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
+Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Health and Human Services, Under Secretary of the Interior, Under Secretary of Education, and Under Secretary of Housing and Urban Development, see section 529 [title I, § 112(e)] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
 **Effective Date of 1988 Amendments**
 
@@ -2672,7 +2672,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–204, title I, § 178(b), Dec. 22, 1987, 101 Stat. 1362, provided that: “The amendments made by subsection (a) [amending sections 5313 and 5315 of this title] shall take effect 30 days after the date of enactment of this Act [Dec. 22, 1987] and shall not affect the salary of any individual holding the rank of Ambassador at Large immediately before the date of enactment of this Act during the period such individual continues to serve in such position.”
+Pub. L. 100–204, title I, § 178(b), Dec. 22, 1987, 101 Stat. 1362, provided that: “The amendments made by subsection (a) [amending sections 5313 and 5315 of this title] shall take effect 30 days after the date of enactment of this Act [Dec. 22, 1987] and shall not affect the salary of any individual holding the rank of Ambassador at Large immediately before the date of enactment of this Act during the period such individual continues to serve in such position.”
 
 **Effective Date of 1986 Amendment**
 
@@ -2692,7 +2692,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–561, § 5, Oct. 19, 1976, 90 Stat. 2643, provided that:
+Pub. L. 94–561, § 5, Oct. 19, 1976, 90 Stat. 2643, provided that:
 
 > **“(a)** Except as otherwise provided in this section, this Act [enacting section 2212b of Title 7, Agriculture, amending sections 5313 to 5316 of this title, sections 2210 and 2211 of Title 7, and section 714g of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 2210 of Title 7] shall take effect on its date of enactment [Oct. 19, 1976].
 
@@ -2708,11 +2708,11 @@ Amendment by Pub. L. 92–302 effective May 18, 1972, see section 3 of Pub. L. 9
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–407, § 15(a)(4), July 18, 1968, 82 Stat. 367, provided that: “The amendments made by this subsection [amending sections 5313, 5314, and 5316 of this title] (and the amendments made by sections 3 and 4 of this Act [amending section 1864 and enacting section 1864a of Title 42, The Public Health and Welfare] insofar as they relate to rates of basic pay) shall take effect on the first day of the first calendar month which begins on or after the date of the enactment of this Act [July 18, 1968].”
+Pub. L. 90–407, § 15(a)(4), July 18, 1968, 82 Stat. 367, provided that: “The amendments made by this subsection [amending sections 5313, 5314, and 5316 of this title] (and the amendments made by sections 3 and 4 of this Act [amending section 1864 and enacting section 1864a of Title 42, The Public Health and Welfare] insofar as they relate to rates of basic pay) shall take effect on the first day of the first calendar month which begins on or after the date of the enactment of this Act [July 18, 1968].”
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective April 1, 1967, see section 16(a), formerly § 15(a), of Pub. L. 89–670, and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective April 1, 1967, see section 16(a), formerly § 15(a), of Pub. L. 89–670, and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Transfer of Functions**
 
@@ -2720,7 +2720,7 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 **Bonus Eligibility of Administrator of the Transportation Security Administration**
 
-Pub. L. 107–71, title I, § 101(c)(2), Nov. 19, 2001, 115 Stat. 602, as amended by Pub. L. 115–254, div. K, title I, § 1904(c)(1)(B), Oct. 5, 2018, 132 Stat. 3546, provided that: “In addition to the annual rate of pay authorized by section 5313 of title 5, United States Code, the Administrator of the Transportation Security Administration may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of pay, based on the Secretary of Homeland Security’s evaluation of the Administrator’s performance.”
+Pub. L. 107–71, title I, § 101(c)(2), Nov. 19, 2001, 115 Stat. 602, as amended by Pub. L. 115–254, div. K, title I, § 1904(c)(1)(B), Oct. 5, 2018, 132 Stat. 3546, provided that: “In addition to the annual rate of pay authorized by section 5313 of title 5, United States Code, the Administrator of the Transportation Security Administration may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of pay, based on the Secretary of Homeland Security’s evaluation of the Administrator’s performance.”
 
 **Pay Increase; Effective Date**
 
@@ -2744,7 +2744,7 @@ For miscellaneous provisions dealing with adjustments of pay and limitations on 
 
 Office of Director of Office of Science and Technology abolished and functions vested by law in such office transferred to Director of the National Science Foundation by sections 2 and 3(a)(5) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to this title.
 
-### § 5314. Positions at level III
+### § 5314. Positions at level III
 
 Level III of the Executive Schedule applies to the following positions, for which the annual rate of basic pay shall be the rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title:
 
@@ -2902,7 +2902,7 @@ Executive Director, Federal Retirement Thrift Investment Board.
 
 Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 Director, Trade and Development Agency.
 
@@ -2944,9 +2944,9 @@ Register of Copyrights.
 
 Commissioner of U.S. Customs and Border Protection, Department of Homeland Security.
 
-Under Secretary of Education 2
+Under Secretary of Education 2
 
-<sup>2</sup>  So in original. Probably should be followed by a period.
+<sup>2</sup> So in original. Probably should be followed by a period.
 
 Administrator of the Centers for Medicare & Medicaid Services.
 
@@ -2970,7 +2970,7 @@ Director of the National Reconnaissance Office.
 
 Special Counsel of the Office of Special Counsel.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, § 10(d)(3), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, § 1(14), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, § 215(a), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, § 505, June 19, 1968, 82 Stat. 205, as amended by Pub. L. 91–644, title I, § 7(1), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 90–407, § 15(a)(2), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, § 1(26), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–175, pt. V, § 503(1), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, § 6(c)(13), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–596, § 12(c)(1), Dec. 29, 1970, 84 Stat. 1604; Pub. L. 91–644, title I, §§ 7(1), 8(a), Jan. 2, 1971, 84 Stat. 1887, 1888; Pub. L. 92–181, title V, § 5.41(a), formerly § 5.27(a), Dec. 10, 1971, 85 Stat. 625, as renumbered Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 92–226, pt. IV, § 403, Feb. 7, 1972, 86 Stat. 34; Pub. L. 92–261, § 9(a), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, § 2(b), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, § 104(2), July 13, 1972, 86 Stat. 490; Pub. L. 92–573, § 4(h)(1), Oct. 27, 1972, 86 Stat. 1211; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–438, title III, § 310(2), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–463, title I, § 102(a), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 93–618, title I, §§ 141(b)(3)(B), 172(c)(1), Jan. 3, 1975, 88 Stat. 1999, 2010; Pub. L. 94–82, title II, § 202(b)(3), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–123, § 2(c)(1), Oct. 22, 1975, 89 Stat. 670; Pub. L. 94–183, § 2(17), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 92–255, title II, § 209(a), as added Pub. L. 94–237, § 4(b), Mar. 19, 1976, 90 Stat. 243; Pub. L. 94–461, § 4(a), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 94–561, § 1(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, § 710(e), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–139, § 3, Oct. 19, 1977, 91 Stat. 1171; Pub. L. 95–140, § 3(d)(2), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–164, title III, § 302(c)(1), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 95–426, title I, § 114(b)(1), Oct. 7, 1978, 92 Stat. 969; Pub. L. 95–454, title II, §§ 201(b)(2), 202(c)(1), Oct. 13, 1978, 92 Stat. 1121, 1131; Pub. L. 95–501, title V, § 501(b), Oct. 21, 1978, 92 Stat. 1691; Pub. L. 95–630, title V, § 502(d), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–53, title IV, § 412(a), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, § 508(d), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 90–351, title I, § 808, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1204; Pub. L. 96–355, § 3(b), Sept. 24, 1980, 94 Stat. 1173; Pub. L. 97–31, § 12(1)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–63, § 4(a)(4), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 97–195, § 1(b)(1), June 16, 1982, 96 Stat. 115; Pub. L. 97–377, title I, § 123, Dec. 21, 1982, 96 Stat. 1913; Pub. L. 97–449, § 3(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 97–456, § 3(d)(1), (6), Jan. 12, 1983, 96 Stat. 2505, 2506; Pub. L. 98–80, § 2(b)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–164, title I, § 125(b)(1), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 98–216, § 3(a)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–443, § 9(e), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 98–473, title II, § 609J(a), Oct. 12, 1984, 98 Stat. 2102; Pub. L. 98–497, title I, § 107(h), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 99–64, title I, § 116(b), July 12, 1985, 99 Stat. 153; Pub. L. 99–93, title I, § 116(b), title VII, § 704(a)(1), Aug. 16, 1985, 99 Stat. 412, 445; Pub. L. 99–335, title II, § 203, June 6, 1986, 100 Stat. 591; Pub. L. 99–348, title V, § 501(d)(2), July 1, 1986, 100 Stat. 708; Pub. L. 99–500, § 101(c) [title X, §§ 902(b), 903(b)(2)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, §§ 902(b), 903(b)(2)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–619, § 2(a)(3), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, § 407(e)(1), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 99–661, div. A, title IX, formerly title IV, §§ 902(b), 903(b)(2)(A), Nov. 14, 1986, 100 Stat. 3911, 3912, as renumbered Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–418, title II, § 2204(d)(1), Aug. 23, 1988, 102 Stat. 1331; Pub. L. 100–456, div. A, title XIV, § 1441(b), Sept. 29, 1988, 102 Stat. 2084; Pub. L. 100–519, title II, § 201(d)(4), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 100–527, § 13(e), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, § 8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–679, § 11(c), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §§ 1003(a)(4)(B), 1007(c)(3), Nov. 18, 1988, 102 Stat. 4182, 4188; Pub. L. 101–73, title VII, § 742(a)(1), Aug. 9, 1989, 103 Stat. 436; Pub. L. 101–328, § 3(b), July 8, 1990, 104 Stat. 308; Pub. L. 101–509, title V, § 529 [title I, § 112(d)], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 101–576, title II, § 207(b), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–103, title II, § 202, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–233, title III, § 315(c), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–240, title III, § 3004(d)(1), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–378, § 2(28), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 102–405, title III, § 302(d), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–508, title IV, § 401(c), Oct. 24, 1992, 106 Stat. 3310; Pub. L. 102–549, title II, § 202(d), Oct. 28, 1992, 106 Stat. 3658; Pub. L. 102–552, title II, § 201(b)(1), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 103–160, div. A, title IX, §§ 901(b), 903(b), 904(e)(2), Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–204, § 5(b)(1), Dec. 17, 1993, 107 Stat. 2382; Pub. L. 103–211, title II, § 2003(b), Feb. 12, 1994, 108 Stat. 24; Pub. L. 103–236, title I, § 162(d)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–337, div. A, title IX, § 903(c), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 103–354, title II, §§ 225(e)(2), 231(f)(2), 241(e), 245(e), 251(g), formerly 251(e), 261(c), 285(e), Oct. 13, 1994, 108 Stat. 3214, 3219, 3222, 3223, 3226, 3227, as amended Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(3)], Oct. 21, 1998, 112 Stat. 2681, 2681–41, and renumbered Pub. L. 110–234, title VII, § 7511(a)(3), May 22, 2008, 122 Stat. 1259, and Pub. L. 110–246, § 4(a), title VII, § 7511(a)(3), June 18, 2008, 122 Stat. 1664, 2021; Pub. L. 104–88, title III, § 301(a), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–105, title II, § 219(b)(1), Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VII, § 794(b), Apr. 4, 1996, 110 Stat. 1155; Pub. L. 104–293, title VIII, § 812(a), Oct. 11, 1996, 110 Stat. 3482; Pub. L. 105–277, div. C, title VII, § 713(a)(3), div. G, subdiv. A, title XII, § 1224(2), subdiv. B, title XXIII, § 2305(a)(2), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–825; Pub. L. 105–304, title IV, § 401(a)(3), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 105–368, title IV, § 403(b)(1), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–65, div. A, title IX, § 911(b)(2), div. C, title XXXII, § 3293(a), Oct. 5, 1999, 113 Stat. 718, 969; Pub. L. 106–113, div. B, §§ 1000(a)(5) [title II, § 238(a)(2)], 1000(a)(9) [title IV, § 4720(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, 1501A–581; Pub. L. 106–159, title I, § 101(d)(1), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 106–476, title II, § 2002, Nov. 9, 2000, 114 Stat. 2175; Pub. L. 106–569, title X, § 1002(a)(3), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–110, title X, § 1071(a), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–296, title IV, § 411(b)(2), title XVII, § 1702(a)(3), Nov. 25, 2002, 116 Stat. 2179, 2313; Pub. L. 107–314, div. A, title IX, § 901(c), Dec. 2, 2002, 116 Stat. 2620; Pub. L. 108–173, title IX, § 900(d)(1), Dec. 8, 2003, 117 Stat. 2370; Pub. L. 108–411, title III, § 302(b), Oct. 30, 2004, 118 Stat. 2319; Pub. L. 108–426, §§ 2(d), 4(f), Nov. 30, 2004, 118 Stat. 2424, 2426; Pub. L. 108–447, div. C, title VI, § 603(c)(1), Dec. 8, 2004, 118 Stat. 2967; Pub. L. 109–58, title X, § 1006(c)(2), Aug. 8, 2005, 119 Stat. 932; Pub. L. 109–163, div. A, title IX, § 901(a), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 109–280, title IV, § 411(b), Aug. 17, 2006, 120 Stat. 935; Pub. L. 109–295, title VI, § 612(a)(2), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–364, div. A, title IX, § 942(b), Oct. 17, 2006, 120 Stat. 2365; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–69, title III, § 3002(c)(1), Aug. 9, 2007, 121 Stat. 586; Pub. L. 110–140, title IX, § 922(b)(4)(B), Dec. 19, 2007, 121 Stat. 1733; Pub. L. 110–181, div. A, title IX, § 904(a)(3), Jan. 28, 2008, 122 Stat. 274; Pub. L. 111–84, div. A, title IX, § 906(d)(1), Oct. 28, 2009, 123 Stat. 2428; Pub. L. 111–203, title I, §§ 111(i)(2), 152(j), July 21, 2010, 124 Stat. 1394, 1414; Pub. L. 111–259, title IV, § 423(b)(1), Oct. 7, 2010, 124 Stat. 2728; Pub. L. 111–358, title IV, § 403(b)(1)(A), Jan. 4, 2011, 124 Stat. 4000; Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574; Pub. L. 113–291, div. A, title IX, § 901(m)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 114–94, div. A, title III, § 3029(b), Dec. 4, 2015, 129 Stat. 1496; Pub. L. 114–125, title VI, § 609(b), title VIII, § 802(d)(1), Feb. 24, 2016, 130 Stat. 190, 210; Pub. L. 115–91, div. A, title IX, § 903(b), title X, § 1081(b)(1)(C), Dec. 12, 2017, 131 Stat. 1512, 1597; Pub. L. 115–141, div. A, title VII, § 772(b), Mar. 23, 2018, 132 Stat. 398; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(F), title XVII, § 1781(c), formerly § 1781(b), Aug. 13, 2018, 132 Stat. 1987, 2238, renumbered § 1781(c), Pub. L. 116–6, div. H, title II, § 205(a)(1), Feb. 15, 2019, 133 Stat. 476; Pub. L. 115–254, div. F, title VI, § 1470(b)(1), div. K, title I, § 1904(c)(2), Oct. 5, 2018, 132 Stat. 3516, 3546; Pub. L. 115–278, § 2(h)(3)(A), Nov. 16, 2018, 132 Stat. 4183; Pub. L. 116–92, div. A, title IX, § 902(93)(A), title XVI, § 1621(e)(2)(A), Dec. 20, 2019, 133 Stat. 1554, 1733; Pub. L. 116–260, div. W, title III, § 304, Dec. 27, 2020, 134 Stat. 2365; Pub. L. 116–283, div. H, title XC, § 9001(b)(2), Jan. 1, 2021, 134 Stat. 4766; Pub. L. 117–58, div. K, § 100003(b)(2)(B), Nov. 15, 2021, 135 Stat. 1448; Pub. L. 117–263, div. E, title LIII, § 5304(b)(1)(A), Dec. 23, 2022, 136 Stat. 3251.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, § 10(d)(3), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, § 1(14), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, § 215(a), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, § 505, June 19, 1968, 82 Stat. 205, as amended by Pub. L. 91–644, title I, § 7(1), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 90–407, § 15(a)(2), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, § 1(26), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–175, pt. V, § 503(1), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, § 6(c)(13), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–596, § 12(c)(1), Dec. 29, 1970, 84 Stat. 1604; Pub. L. 91–644, title I, §§ 7(1), 8(a), Jan. 2, 1971, 84 Stat. 1887, 1888; Pub. L. 92–181, title V, § 5.41(a), formerly § 5.27(a), Dec. 10, 1971, 85 Stat. 625, as renumbered Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 92–226, pt. IV, § 403, Feb. 7, 1972, 86 Stat. 34; Pub. L. 92–261, § 9(a), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, § 2(b), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, § 104(2), July 13, 1972, 86 Stat. 490; Pub. L. 92–573, § 4(h)(1), Oct. 27, 1972, 86 Stat. 1211; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–438, title III, § 310(2), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–463, title I, § 102(a), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 93–618, title I, §§ 141(b)(3)(B), 172(c)(1), Jan. 3, 1975, 88 Stat. 1999, 2010; Pub. L. 94–82, title II, § 202(b)(3), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–123, § 2(c)(1), Oct. 22, 1975, 89 Stat. 670; Pub. L. 94–183, § 2(17), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 92–255, title II, § 209(a), as added Pub. L. 94–237, § 4(b), Mar. 19, 1976, 90 Stat. 243; Pub. L. 94–461, § 4(a), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 94–561, § 1(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, § 710(e), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–139, § 3, Oct. 19, 1977, 91 Stat. 1171; Pub. L. 95–140, § 3(d)(2), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–164, title III, § 302(c)(1), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 95–426, title I, § 114(b)(1), Oct. 7, 1978, 92 Stat. 969; Pub. L. 95–454, title II, §§ 201(b)(2), 202(c)(1), Oct. 13, 1978, 92 Stat. 1121, 1131; Pub. L. 95–501, title V, § 501(b), Oct. 21, 1978, 92 Stat. 1691; Pub. L. 95–630, title V, § 502(d), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–53, title IV, § 412(a), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, § 508(d), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 90–351, title I, § 808, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1204; Pub. L. 96–355, § 3(b), Sept. 24, 1980, 94 Stat. 1173; Pub. L. 97–31, § 12(1)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–63, § 4(a)(4), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 97–195, § 1(b)(1), June 16, 1982, 96 Stat. 115; Pub. L. 97–377, title I, § 123, Dec. 21, 1982, 96 Stat. 1913; Pub. L. 97–449, § 3(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 97–456, § 3(d)(1), (6), Jan. 12, 1983, 96 Stat. 2505, 2506; Pub. L. 98–80, § 2(b)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–164, title I, § 125(b)(1), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 98–216, § 3(a)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–443, § 9(e), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 98–473, title II, § 609J(a), Oct. 12, 1984, 98 Stat. 2102; Pub. L. 98–497, title I, § 107(h), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 99–64, title I, § 116(b), July 12, 1985, 99 Stat. 153; Pub. L. 99–93, title I, § 116(b), title VII, § 704(a)(1), Aug. 16, 1985, 99 Stat. 412, 445; Pub. L. 99–335, title II, § 203, June 6, 1986, 100 Stat. 591; Pub. L. 99–348, title V, § 501(d)(2), July 1, 1986, 100 Stat. 708; Pub. L. 99–500, § 101(c) [title X, §§ 902(b), 903(b)(2)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, §§ 902(b), 903(b)(2)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–619, § 2(a)(3), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, § 407(e)(1), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 99–661, div. A, title IX, formerly title IV, §§ 902(b), 903(b)(2)(A), Nov. 14, 1986, 100 Stat. 3911, 3912, as renumbered Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–418, title II, § 2204(d)(1), Aug. 23, 1988, 102 Stat. 1331; Pub. L. 100–456, div. A, title XIV, § 1441(b), Sept. 29, 1988, 102 Stat. 2084; Pub. L. 100–519, title II, § 201(d)(4), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 100–527, § 13(e), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, § 8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–679, § 11(c), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §§ 1003(a)(4)(B), 1007(c)(3), Nov. 18, 1988, 102 Stat. 4182, 4188; Pub. L. 101–73, title VII, § 742(a)(1), Aug. 9, 1989, 103 Stat. 436; Pub. L. 101–328, § 3(b), July 8, 1990, 104 Stat. 308; Pub. L. 101–509, title V, § 529 [title I, § 112(d)], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 101–576, title II, § 207(b), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–103, title II, § 202, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–233, title III, § 315(c), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–240, title III, § 3004(d)(1), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–378, § 2(28), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 102–405, title III, § 302(d), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–508, title IV, § 401(c), Oct. 24, 1992, 106 Stat. 3310; Pub. L. 102–549, title II, § 202(d), Oct. 28, 1992, 106 Stat. 3658; Pub. L. 102–552, title II, § 201(b)(1), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 103–160, div. A, title IX, §§ 901(b), 903(b), 904(e)(2), Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–204, § 5(b)(1), Dec. 17, 1993, 107 Stat. 2382; Pub. L. 103–211, title II, § 2003(b), Feb. 12, 1994, 108 Stat. 24; Pub. L. 103–236, title I, § 162(d)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–337, div. A, title IX, § 903(c), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 103–354, title II, §§ 225(e)(2), 231(f)(2), 241(e), 245(e), 251(g), formerly 251(e), 261(c), 285(e), Oct. 13, 1994, 108 Stat. 3214, 3219, 3222, 3223, 3226, 3227, as amended Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(3)], Oct. 21, 1998, 112 Stat. 2681, 2681–41, and renumbered Pub. L. 110–234, title VII, § 7511(a)(3), May 22, 2008, 122 Stat. 1259, and Pub. L. 110–246, § 4(a), title VII, § 7511(a)(3), June 18, 2008, 122 Stat. 1664, 2021; Pub. L. 104–88, title III, § 301(a), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–105, title II, § 219(b)(1), Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VII, § 794(b), Apr. 4, 1996, 110 Stat. 1155; Pub. L. 104–293, title VIII, § 812(a), Oct. 11, 1996, 110 Stat. 3482; Pub. L. 105–277, div. C, title VII, § 713(a)(3), div. G, subdiv. A, title XII, § 1224(2), subdiv. B, title XXIII, § 2305(a)(2), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–825; Pub. L. 105–304, title IV, § 401(a)(3), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 105–368, title IV, § 403(b)(1), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–65, div. A, title IX, § 911(b)(2), div. C, title XXXII, § 3293(a), Oct. 5, 1999, 113 Stat. 718, 969; Pub. L. 106–113, div. B, §§ 1000(a)(5) [title II, § 238(a)(2)], 1000(a)(9) [title IV, § 4720(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, 1501A–581; Pub. L. 106–159, title I, § 101(d)(1), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 106–476, title II, § 2002, Nov. 9, 2000, 114 Stat. 2175; Pub. L. 106–569, title X, § 1002(a)(3), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–110, title X, § 1071(a), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–296, title IV, § 411(b)(2), title XVII, § 1702(a)(3), Nov. 25, 2002, 116 Stat. 2179, 2313; Pub. L. 107–314, div. A, title IX, § 901(c), Dec. 2, 2002, 116 Stat. 2620; Pub. L. 108–173, title IX, § 900(d)(1), Dec. 8, 2003, 117 Stat. 2370; Pub. L. 108–411, title III, § 302(b), Oct. 30, 2004, 118 Stat. 2319; Pub. L. 108–426, §§ 2(d), 4(f), Nov. 30, 2004, 118 Stat. 2424, 2426; Pub. L. 108–447, div. C, title VI, § 603(c)(1), Dec. 8, 2004, 118 Stat. 2967; Pub. L. 109–58, title X, § 1006(c)(2), Aug. 8, 2005, 119 Stat. 932; Pub. L. 109–163, div. A, title IX, § 901(a), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 109–280, title IV, § 411(b), Aug. 17, 2006, 120 Stat. 935; Pub. L. 109–295, title VI, § 612(a)(2), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–364, div. A, title IX, § 942(b), Oct. 17, 2006, 120 Stat. 2365; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–69, title III, § 3002(c)(1), Aug. 9, 2007, 121 Stat. 586; Pub. L. 110–140, title IX, § 922(b)(4)(B), Dec. 19, 2007, 121 Stat. 1733; Pub. L. 110–181, div. A, title IX, § 904(a)(3), Jan. 28, 2008, 122 Stat. 274; Pub. L. 111–84, div. A, title IX, § 906(d)(1), Oct. 28, 2009, 123 Stat. 2428; Pub. L. 111–203, title I, §§ 111(i)(2), 152(j), July 21, 2010, 124 Stat. 1394, 1414; Pub. L. 111–259, title IV, § 423(b)(1), Oct. 7, 2010, 124 Stat. 2728; Pub. L. 111–358, title IV, § 403(b)(1)(A), Jan. 4, 2011, 124 Stat. 4000; Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574; Pub. L. 113–291, div. A, title IX, § 901(m)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 114–94, div. A, title III, § 3029(b), Dec. 4, 2015, 129 Stat. 1496; Pub. L. 114–125, title VI, § 609(b), title VIII, § 802(d)(1), Feb. 24, 2016, 130 Stat. 190, 210; Pub. L. 115–91, div. A, title IX, § 903(b), title X, § 1081(b)(1)(C), Dec. 12, 2017, 131 Stat. 1512, 1597; Pub. L. 115–141, div. A, title VII, § 772(b), Mar. 23, 2018, 132 Stat. 398; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(F), title XVII, § 1781(c), formerly § 1781(b), Aug. 13, 2018, 132 Stat. 1987, 2238, renumbered § 1781(c), Pub. L. 116–6, div. H, title II, § 205(a)(1), Feb. 15, 2019, 133 Stat. 476; Pub. L. 115–254, div. F, title VI, § 1470(b)(1), div. K, title I, § 1904(c)(2), Oct. 5, 2018, 132 Stat. 3516, 3546; Pub. L. 115–278, § 2(h)(3)(A), Nov. 16, 2018, 132 Stat. 4183; Pub. L. 116–92, div. A, title IX, § 902(93)(A), title XVI, § 1621(e)(2)(A), Dec. 20, 2019, 133 Stat. 1554, 1733; Pub. L. 116–260, div. W, title III, § 304, Dec. 27, 2020, 134 Stat. 2365; Pub. L. 116–283, div. H, title XC, § 9001(b)(2), Jan. 1, 2021, 134 Stat. 4766; Pub. L. 117–58, div. K, § 100003(b)(2)(B), Nov. 15, 2021, 135 Stat. 1448; Pub. L. 117–263, div. E, title LIII, § 5304(b)(1)(A), Dec. 23, 2022, 136 Stat. 3251.)
 
 **Historical and Revision Notes**
 
@@ -2978,8 +2978,8 @@ Special Counsel of the Office of Special Counsel.
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1)–(44) | 5 U.S.C. 2211(c) (less (39) and (46)). | Aug. 14, 1964, Pub. L. 88–426, § 303(c) (less (39) and (46)), 78 Stat. 416. |
-| (45) | 5 U.S.C. 2211(b)(15) (proviso). | Aug. 14, 1964, Pub. L. 88–426, § 303(b)(15) (proviso), 78 Stat. 416. |
+| (1)–(44) | 5 U.S.C. 2211(c) (less (39) and (46)). | Aug. 14, 1964, Pub. L. 88–426, § 303(c) (less (39) and (46)), 78 Stat. 416. |
+| (45) | 5 U.S.C. 2211(b)(15) (proviso). | Aug. 14, 1964, Pub. L. 88–426, § 303(b)(15) (proviso), 78 Stat. 416. |
 
 The provisos in paragraphs (39) and (46) of former section 2211(c) are carried into section 5315. The remainders of paragraphs (39) and (46) are omitted but not repealed, see table III. The parts of paragraphs (39) and (46) that are omitted but not repealed provide that the positions of Director of Selective Service and Associate Director of the Federal Bureau of Investigation shall be in Level III so long as the positions are held by the incumbents of the positions on August 14, 1964. The omission of these provisions from title 5, without repealing the corresponding provisions of the source statute, in effect, leaves existing statute unchanged insofar as it relates to the present incumbents of the positions of Director of Selective Service and Associate Director of the Federal Bureau of Investigation.
 
@@ -2989,10 +2989,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5314(49) | 20: 954(d) (2d sentence). | Sept. 29, 1965, Pub. L. 89–209, § 5(d)(1) (2d sentence), 79 Stat. 847. |
-| 5314(50) | 20:956(b)(1) (2d sentence). | Sept. 29, 1965, Pub. L. 89–209, § 7(b)(1) (2d sentence), 79 Stat. 850. |
-| 5314(51) | 5 App.: 2211(c)(47). | July 18, 1966, Pub. L. 89–504, § 408(a), 80 Stat. 299. |
-| 5314(52) | 42:3533(a) (as applicable to compensation of Under Secretary). | Sept. 9, 1965, Pub. L. 89–174, § 4(a) (as applicable to compensation of Under Secretary), 79 Stat. 668. |
+| 5314(49) | 20: 954(d) (2d sentence). | Sept. 29, 1965, Pub. L. 89–209, § 5(d)(1) (2d sentence), 79 Stat. 847. |
+| 5314(50) | 20:956(b)(1) (2d sentence). | Sept. 29, 1965, Pub. L. 89–209, § 7(b)(1) (2d sentence), 79 Stat. 850. |
+| 5314(51) | 5 App.: 2211(c)(47). | July 18, 1966, Pub. L. 89–504, § 408(a), 80 Stat. 299. |
+| 5314(52) | 42:3533(a) (as applicable to compensation of Under Secretary). | Sept. 9, 1965, Pub. L. 89–174, § 4(a) (as applicable to compensation of Under Secretary), 79 Stat. 668. |
 
 The deletion of paragraph (41) of 5 U.S.C. 5314 reflects the abolition of the position of “Deputy Administrator of the Housing and Home Finance Agency” by the act of September 9, 1965, Public Law 89–174, sections 5(a), 9(c), 79 Stat. 669, 671.
 
@@ -3002,9 +3002,9 @@ In paragraph (49), the words “In lieu of receiving compensation at the rate pr
 
 **References in Text**
 
-Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
 
-The position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, referred to in text, was established by former section 133a of Title 10, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, § 904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, § 903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, § 1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, which was repealed by Pub. L. 111–383, div. A, title IX, § 901(b)(1), (p), Jan. 7, 2011, 124 Stat. 4317, 4327, effective Jan. 1, 2011.
+The position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, referred to in text, was established by former section 133a of Title 10, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, § 904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, § 903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, § 1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, which was repealed by Pub. L. 111–383, div. A, title IX, § 901(b)(1), (p), Jan. 7, 2011, 124 Stat. 4317, 4327, effective Jan. 1, 2011.
 
 **Codification**
 
@@ -3024,43 +3024,43 @@ Pub. L. 116–283 struck out item relating to Director, Cybersecurity and Infras
 
 2020—Pub. L. 116–260 inserted item relating to Director of the National Reconnaissance Office.
 
-2019—Pub. L. 116–92, § 1621(e)(2)(A), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
+2019—Pub. L. 116–92, § 1621(e)(2)(A), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
 
-Pub. L. 116–92, § 902(93)(A), inserted item relating to Under Secretary of Defense for Research and Engineering.
+Pub. L. 116–92, § 902(93)(A), inserted item relating to Under Secretary of Defense for Research and Engineering.
 
-Pub. L. 116–6, § 205(a)(1), amended Pub. L. 115–232, § 1781(b). See 2018 Amendment note below.
+Pub. L. 116–6, § 205(a)(1), amended Pub. L. 115–232, § 1781(b). See 2018 Amendment note below.
 
 2018—Pub. L. 115–278 inserted item relating to Director, Cybersecurity and Infrastructure Security Agency.
 
-Pub. L. 115–254, § 1904(c)(2), inserted item relating to Deputy Administrator, Transportation Security Administration.
+Pub. L. 115–254, § 1904(c)(2), inserted item relating to Deputy Administrator, Transportation Security Administration.
 
-Pub. L. 115–254, § 1470(b)(1), struck out item relating to President, Overseas Private Investment Corporation.
+Pub. L. 115–254, § 1470(b)(1), struck out item relating to President, Overseas Private Investment Corporation.
 
-Pub. L. 115–232, § 1781(c), formerly (b), as renumbered by Pub. L. 116–6, § 205(a)(1), substituted “Under Secretary of Commerce for Industry and Security” for “Under Secretary of Commerce for Export Administration”.
+Pub. L. 115–232, § 1781(c), formerly (b), as renumbered by Pub. L. 116–6, § 205(a)(1), substituted “Under Secretary of Commerce for Industry and Security” for “Under Secretary of Commerce for Export Administration”.
 
-Pub. L. 115–232, § 1081(f)(1)(F), struck out item relating to Deputy Chief Management Officer of the Department of Defense.
+Pub. L. 115–232, § 1081(f)(1)(F), struck out item relating to Deputy Chief Management Officer of the Department of Defense.
 
 Pub. L. 115–141 inserted items relating to Under Secretary of Agriculture for Farm Production and Conservation and Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs and struck out item relating to Under Secretary of Agriculture for Farm and Foreign Agricultural Services.
 
-2017—Pub. L. 115–91, § 1081(b)(1)(C), repealed Pub. L. 113–291, § 901(m)(2). See 2014 Amendment note below.
+2017—Pub. L. 115–91, § 1081(b)(1)(C), repealed Pub. L. 113–291, § 901(m)(2). See 2014 Amendment note below.
 
-Pub. L. 115–91, § 903(b), inserted item relating to Under Secretary of Defense for Acquisition and Sustainment.
+Pub. L. 115–91, § 903(b), inserted item relating to Under Secretary of Defense for Acquisition and Sustainment.
 
-2016—Pub. L. 114–125, § 802(d)(1), substituted “Commissioner of U.S. Customs and Border Protection, Department of Homeland Security” for “Commissioner of Customs, Department of Homeland Security”.
+2016—Pub. L. 114–125, § 802(d)(1), substituted “Commissioner of U.S. Customs and Border Protection, Department of Homeland Security” for “Commissioner of Customs, Department of Homeland Security”.
 
-Pub. L. 114–125, § 609(b), inserted items relating to Chief Agricultural Negotiator, Office of the United States Trade Representative and Chief Innovation and Intellectual Property Negotiator, Office of the United States Trade Representative and struck out item relating to Chief Agricultural Negotiator.
+Pub. L. 114–125, § 609(b), inserted items relating to Chief Agricultural Negotiator, Office of the United States Trade Representative and Chief Innovation and Intellectual Property Negotiator, Office of the United States Trade Representative and struck out item relating to Chief Agricultural Negotiator.
 
 2015—Pub. L. 114–94 struck out item relating to Federal Transit Administrator.
 
-2014—Pub. L. 113–291, § 901(m)(2), which directed striking out item relating to Deputy Chief Management Officer of the Department of Defense, was repealed by Pub. L. 115–91, § 1081(b)(1)(C).
+2014—Pub. L. 113–291, § 901(m)(2), which directed striking out item relating to Deputy Chief Management Officer of the Department of Defense, was repealed by Pub. L. 115–91, § 1081(b)(1)(C).
 
 2011—Pub. L. 111–358 inserted item relating to Under Secretary of Commerce for Standards and Technology, who also serves as Director of the National Institute of Standards and Technology.
 
 2010—Pub. L. 111–259 substituted “Deputy Director of the Central Intelligence Agency” for “Deputy Directors of Central Intelligence (2)”.
 
-Pub. L. 111–203, § 152(j), inserted item relating to Director of the Office of Financial Research.
+Pub. L. 111–203, § 152(j), inserted item relating to Director of the Office of Financial Research.
 
-Pub. L. 111–203, § 111(i)(2), inserted item relating to Independent Member of the Financial Stability Oversight Council.
+Pub. L. 111–203, § 111(i)(2), inserted item relating to Independent Member of the Financial Stability Oversight Council.
 
 2009—Pub. L. 111–84 substituted “Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.” for “Deputy Under Secretary of Defense for Acquisition and Technology.”
 
@@ -3084,9 +3084,9 @@ Pub. L. 109–163, which directed insertion of items relating to Under Secretary
 
 2004—Pub. L. 108–447 struck out item relating to Chairman, Board of Directors of the Tennessee Valley Authority.
 
-Pub. L. 108–426, § 4(f), substituted “Administrator, Research and Innovative Technology Administration” for “Administrator, Research and Special Programs Administration”.
+Pub. L. 108–426, § 4(f), substituted “Administrator, Research and Innovative Technology Administration” for “Administrator, Research and Special Programs Administration”.
 
-Pub. L. 108–426, § 2(d), inserted item relating to Administrator, Pipeline and Hazardous Materials Safety Administration.
+Pub. L. 108–426, § 2(d), inserted item relating to Administrator, Pipeline and Hazardous Materials Safety Administration.
 
 Pub. L. 108–411 inserted item relating to Administrator of the Office of Electronic Government.
 
@@ -3094,9 +3094,9 @@ Pub. L. 108–411 inserted item relating to Administrator of the Office of Elect
 
 2002—Pub. L. 107–314 inserted item relating to Under Secretary of Defense for Intelligence.
 
-Pub. L. 107–296, § 1702(a)(3), inserted items relating to Under Secretaries, Department of Homeland Security and Director of the Bureau of Citizenship and Immigration Services.
+Pub. L. 107–296, § 1702(a)(3), inserted items relating to Under Secretaries, Department of Homeland Security and Director of the Bureau of Citizenship and Immigration Services.
 
-Pub. L. 107–296, § 411(b)(2), substituted “Commissioner of Customs, Department of Homeland Security.” for “Commissioner of Customs, Department of the Treasury”.
+Pub. L. 107–296, § 411(b)(2), substituted “Commissioner of Customs, Department of Homeland Security.” for “Commissioner of Customs, Department of the Treasury”.
 
 Pub. L. 107–110 inserted item relating to Under Secretary of Education.
 
@@ -3106,25 +3106,25 @@ Pub. L. 106–476 inserted item relating to Chief Agricultural Negotiator.
 
 1999—Pub. L. 106–159 inserted item relating to Administrator of the Federal Motor Carrier Safety Administration.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4720(a)], substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.” for “Assistant Secretary of Commerce and Commissioner of Patents and Trademarks.”
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4720(a)], substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.” for “Assistant Secretary of Commerce and Commissioner of Patents and Trademarks.”
 
-Pub. L. 106–113, § 1000(a)(5) [title II, § 238(a)(2)], inserted item relating to Commissioner of Customs, Department of the Treasury.
+Pub. L. 106–113, § 1000(a)(5) [title II, § 238(a)(2)], inserted item relating to Commissioner of Customs, Department of the Treasury.
 
-Pub. L. 106–65, § 3293(a), substituted “Under Secretaries of Energy (2)” for “Under Secretary, Department of Energy”.
+Pub. L. 106–65, § 3293(a), substituted “Under Secretaries of Energy (2)” for “Under Secretary, Department of Energy”.
 
-Pub. L. 106–65, § 911(b)(2), inserted item relating to Deputy Under Secretary of Defense for Logistics and Materiel Readiness.
+Pub. L. 106–65, § 911(b)(2), inserted item relating to Deputy Under Secretary of Defense for Logistics and Materiel Readiness.
 
 1998—Pub. L. 105–368 inserted item relating to Under Secretary for Memorial Affairs, Department of Veterans Affairs.
 
 Pub. L. 105–304 inserted items relating to Assistant Secretary of Commerce and Commissioner of Patents and Trademarks and Register of Copyrights.
 
-Pub. L. 105–277, § 2305(a)(2), substituted “Under Secretaries of State (6)” for “Under Secretaries of State (5)”.
+Pub. L. 105–277, § 2305(a)(2), substituted “Under Secretaries of State (6)” for “Under Secretaries of State (5)”.
 
-Pub. L. 105–277, § 1224(2), struck out item relating to Deputy Director of the United States Arms Control and Disarmament Agency.
+Pub. L. 105–277, § 1224(2), struck out item relating to Deputy Director of the United States Arms Control and Disarmament Agency.
 
-Pub. L. 105–277, § 713(a)(3), inserted items relating to Deputy Director for Demand Reduction, Office of National Drug Control Policy, Deputy Director for Supply Reduction, Office of National Drug Control Policy, and Deputy Director for State and Local Affairs, Office of National Drug Control Policy.
+Pub. L. 105–277, § 713(a)(3), inserted items relating to Deputy Director for Demand Reduction, Office of National Drug Control Policy, Deputy Director for Supply Reduction, Office of National Drug Control Policy, and Deputy Director for State and Local Affairs, Office of National Drug Control Policy.
 
-Pub. L. 105–277, § 101(a) [title X, § 1001(3)], added Pub. L. 103–354, § 285(e). See 1994 Amendment note below.
+Pub. L. 105–277, § 101(a) [title X, § 1001(3)], added Pub. L. 103–354, § 285(e). See 1994 Amendment note below.
 
 1996—Pub. L. 104–293 substituted “Deputy Directors of Central Intelligence (2)” for “Deputy Director of Central Intelligence”.
 
@@ -3134,11 +3134,11 @@ Pub. L. 104–105 struck out item relating to Chairperson, Board of Directors of
 
 1995—Pub. L. 104–88 substituted “Chairman, Surface Transportation Board” for “Chairman, Interstate Commerce Commission”.
 
-1994—Pub. L. 103–354, § 251(g), formerly § 251(e), as renumbered by Pub. L. 110–246, § 7511(a)(3), inserted item relating to Under Secretary of Agriculture for Research, Education, and Economics.
+1994—Pub. L. 103–354, § 251(g), formerly § 251(e), as renumbered by Pub. L. 110–246, § 7511(a)(3), inserted item relating to Under Secretary of Agriculture for Research, Education, and Economics.
 
-Pub. L. 103–354, § 285(e), as added by Pub. L. 105–277, § 101(a) [title X, § 1001(3)], inserted item relating to Under Secretary of Agriculture for Marketing and Regulatory Programs.
+Pub. L. 103–354, § 285(e), as added by Pub. L. 105–277, § 101(a) [title X, § 1001(3)], inserted item relating to Under Secretary of Agriculture for Marketing and Regulatory Programs.
 
-Pub. L. 103–354, §§ 225(e)(2), 231(f)(2), 241(e), 245(e), 261(c), substituted “Under Secretary of Agriculture for Farm and Foreign Agricultural Services” for “Under Secretary of Agriculture for International Affairs and Commodity Programs”, inserted items relating to Under Secretaries of Agriculture for Food, Nutrition, and Consumer Services; for Natural Resources and Environment; and for Food Safety, and substituted “Under Secretary of Agriculture for Rural Economic and Community Development” for “Under Secretary of Agriculture for Small Community and Rural Development”.
+Pub. L. 103–354, §§ 225(e)(2), 231(f)(2), 241(e), 245(e), 261(c), substituted “Under Secretary of Agriculture for Farm and Foreign Agricultural Services” for “Under Secretary of Agriculture for International Affairs and Commodity Programs”, inserted items relating to Under Secretaries of Agriculture for Food, Nutrition, and Consumer Services; for Natural Resources and Environment; and for Food Safety, and substituted “Under Secretary of Agriculture for Rural Economic and Community Development” for “Under Secretary of Agriculture for Small Community and Rural Development”.
 
 Pub. L. 103–337 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
 
@@ -3184,9 +3184,9 @@ Pub. L. 101–328 inserted item relating to Executive Secretary, National Space 
 
 1989—Pub. L. 101–73 inserted items relating to Director of the Office of Thrift Supervision and Chairperson of the Federal Housing Finance Board, and struck out item relating to Chairman of the Federal Home Loan Bank Board.
 
-1988—Pub. L. 100–690, § 1007(c)(3), struck out item relating to Director of Office of Drug Abuse Policy.
+1988—Pub. L. 100–690, § 1007(c)(3), struck out item relating to Director of Office of Drug Abuse Policy.
 
-Pub. L. 100–690, §§ 1003(a)(4)(B), 1009, temporarily inserted items relating to Deputy Director for Demand Reduction, Office of National Drug Control Policy, and Deputy Director for Supply Reduction, Office of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
+Pub. L. 100–690, §§ 1003(a)(4)(B), 1009, temporarily inserted items relating to Deputy Director for Demand Reduction, Office of National Drug Control Policy, and Deputy Director for Supply Reduction, Office of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
 
 Pub. L. 100–679 inserted items relating to Administrator for Federal Procurement Policy and to Administrator, Office of Information and Regulatory Affairs, Office of Management and Budget, and struck out item relating to Deputy Director of Office of Management and Budget.
 
@@ -3210,9 +3210,9 @@ Pub. L. 99–348 substituted “Under Secretary of Defense for Policy” for “
 
 Pub. L. 99–335 inserted item relating to Executive Director, Federal Retirement Thrift Investment Board.
 
-1985—Pub. L. 99–93, § 116(b), substituted “Under Secretary of State for Economic and Agricultural Affairs” for “Under Secretary of State for Economic Affairs”.
+1985—Pub. L. 99–93, § 116(b), substituted “Under Secretary of State for Economic and Agricultural Affairs” for “Under Secretary of State for Economic Affairs”.
 
-Pub. L. 99–93, § 704(a)(1), inserted item relating to Deputy Director of United States Arms Control and Disarmament Agency.
+Pub. L. 99–93, § 704(a)(1), inserted item relating to Deputy Director of United States Arms Control and Disarmament Agency.
 
 Pub. L. 99–64 inserted item relating to Under Secretary of Commerce for Export Administration.
 
@@ -3228,7 +3228,7 @@ Pub. L. 98–216 substituted “Deputy Director of the Office of Management and 
 
 Pub. L. 98–80 inserted item relating to Deputy Administrator of Environmental Protection Agency.
 
-Pub. L. 97–456, § 3(d)(6), substituted “Deputy United States Trade Representatives (3)” for “Deputy Special Representatives for Trade Negotiations (2)”.
+Pub. L. 97–456, § 3(d)(6), substituted “Deputy United States Trade Representatives (3)” for “Deputy Special Representatives for Trade Negotiations (2)”.
 
 Pub. L. 97–449 substituted “Administrator of the National Highway Traffic Safety Administration” for “Administrator, Federal Highway Administration”.
 
@@ -3244,9 +3244,9 @@ Pub. L. 97–31 inserted item relating to Administrator, Maritime Administration
 
 1979—Pub. L. 96–157 inserted item relating to Director, Office of Justice Assistance, Research, and Statistics, and struck out item relating to Administrator of Law Enforcement Assistance.
 
-Pub. L. 96–88, § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to Under Secretary of Health and Human Services.
+Pub. L. 96–88, § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to Under Secretary of Health and Human Services.
 
-Par. (5). Pub. L. 96–88, § 508(d), added par. (5) relating to Under Secretary of Education. See Codification note above.
+Par. (5). Pub. L. 96–88, § 508(d), added par. (5) relating to Under Secretary of Education. See Codification note above.
 
 Pars. (1) to (70). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
 
@@ -3254,11 +3254,11 @@ Par. (70). Pub. L. 96–53 added par. (70) relating to Director, Institute for S
 
 1978—Par. (9). Pub. L. 95–426 inserted “and Under Secretary of State for Management”.
 
-Par. (17). Pub. L. 95–454, § 202(c)(1), substituted “Merit Systems Protection Board” for “United States Civil Service Commission”.
+Par. (17). Pub. L. 95–454, § 202(c)(1), substituted “Merit Systems Protection Board” for “United States Civil Service Commission”.
 
 Par. (66). Pub. L. 95–630 added par. (66) relating to Chairman, National Credit Union Administration Board.
 
-Par. (68). Pub. L. 95–454, § 201(b)(2), added par. (68) relating to Deputy Director of Office of Personnel Management.
+Par. (68). Pub. L. 95–454, § 201(b)(2), added par. (68) relating to Deputy Director of Office of Personnel Management.
 
 Par. (69). Pub. L. 95–501 added par. (69) relating to Under Secretary of Agriculture for International Affairs and Commodity Programs.
 
@@ -3286,11 +3286,11 @@ Par. (54). Pub. L. 94–183 redesignated par. (55), relating to Chairman, Postal
 
 Pars. (56), (57). Pub. L. 94–183 redesignated par. (57) relating to Chairman, Occupational Safety and Health Review Commission, and par. (58) relating to Governor of the Farm Credit Administration, as pars. (56) and (57), respectively.
 
-Par. (60). Pub. L. 93–618, § 141(b)(3)(B), added par. (60) relating to Deputy Special Representative for Trade Negotiations. For renumbering by Pub. L. 94–183, see item relating to par. (62) hereunder.
+Par. (60). Pub. L. 93–618, § 141(b)(3)(B), added par. (60) relating to Deputy Special Representative for Trade Negotiations. For renumbering by Pub. L. 94–183, see item relating to par. (62) hereunder.
 
 Par. (61). Pub. L. 94–183 redesignated par. (60), relating to Chairman, Commodity Futures Trading Commission, as par. (61).
 
-Pub. L. 93–618, § 172(c)(1), added par. (61). For renumbering by Pub. L. 94–183, see item relating to par. (63) hereunder.
+Pub. L. 93–618, § 172(c)(1), added par. (61). For renumbering by Pub. L. 94–183, see item relating to par. (63) hereunder.
 
 Pars. (62), (63). Pub. L. 94–183 redesignated par. (60) relating to Deputy Special Representatives for Trade Negotiations, and par. (61) relating to Chairman, United States International Trade Commission, as pars. (62) and (63), respectively.
 
@@ -3312,15 +3312,15 @@ Par. (58). Pub. L. 92–261 added par. (58) relating to Chairman, Equal Employme
 
 Par. (59). Pub. L. 92–573 added par. (59) relating to Chairman, Consumer Product Safety Commission.
 
-1971—Pars. (1) to (54). Pub. L. 91–644, § 8(a), struck out par. (1) relating to Deputy Attorney General, now a level II position under section 5313 of this title, renumbered pars. (2) through (54) as (1) through (53), respectively.
+1971—Pars. (1) to (54). Pub. L. 91–644, § 8(a), struck out par. (1) relating to Deputy Attorney General, now a level II position under section 5313 of this title, renumbered pars. (2) through (54) as (1) through (53), respectively.
 
-Par. (55). Pub. L. 91–644, § 7(1), in amending section 505 of Pub. L. 90–351, renumbered par. (90) “Administrator of Law Enforcement Assistance” of section 5315 of this title as par. (55) of this section.
+Par. (55). Pub. L. 91–644, § 7(1), in amending section 505 of Pub. L. 90–351, renumbered par. (90) “Administrator of Law Enforcement Assistance” of section 5315 of this title as par. (55) of this section.
 
 Par. (58). Pub. L. 92–181 added par. (58) relating to Governor of Farm Credit Administration.
 
-1970—Par. (3). Pub. L. 91–375, § 6(c)(13)(A), struck out par. (3) relating to Deputy Postmaster General.
+1970—Par. (3). Pub. L. 91–375, § 6(c)(13)(A), struck out par. (3) relating to Deputy Postmaster General.
 
-Par. (55). Pub. L. 91–375, § 6(c)(13)(B), added par. (55) relating to Chairman, Postal Rate Commission.
+Par. (55). Pub. L. 91–375, § 6(c)(13)(B), added par. (55) relating to Chairman, Postal Rate Commission.
 
 Par. (57). Pub. L. 91–596 added par. (57) relating to Chairman, Occupational Safety and Health Review Commission.
 
@@ -3344,7 +3344,7 @@ Par. (53). Pub. L. 90–623 added par. (53) relating to Urban Mass Transportatio
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LIII, § 5304(b)(2), Dec. 23, 2022, 136 Stat. 3251, provided that: “The rate of pay applied under the amendments made by paragraph (1) [amending this section and section 5315 of this title] shall begin to apply on the first day of the first pay period beginning after [the] date of enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. E, title LIII, § 5304(b)(2), Dec. 23, 2022, 136 Stat. 3251, provided that: “The rate of pay applied under the amendments made by paragraph (1) [amending this section and section 5315 of this title] shall begin to apply on the first day of the first pay period beginning after [the] date of enactment of this Act [Dec. 23, 2022].”
 
 **Effective Date of 2019 Amendment**
 
@@ -3356,9 +3356,9 @@ Amendment by section 1470(b)(1) of Pub. L. 115–254 effective at the end of the
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(C) is effective as of Dec. 23, 2016.
+Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(C) is effective as of Dec. 23, 2016.
 
-Pub. L. 115–91, div. A, title IX, § 903(b), Dec. 12, 2017, 131 Stat. 1512, provided that the amendment made by section 903(b) is effective on Feb. 1, 2018.
+Pub. L. 115–91, div. A, title IX, § 903(b), Dec. 12, 2017, 131 Stat. 1512, provided that the amendment made by section 903(b) is effective on Feb. 1, 2018.
 
 **Effective Date of 2015 Amendment**
 
@@ -3366,7 +3366,7 @@ Amendment by Pub. L. 114–94 effective on the first day of the first pay period
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(m)(2), Dec. 19, 2014, 128 Stat. 3469, which provided that the amendment made by section 901(m)(2) is effective on Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(C), Dec. 12, 2017, 131 Stat. 1597, effective Dec. 23, 2016.
+Pub. L. 113–291, div. A, title IX, § 901(m)(2), Dec. 19, 2014, 128 Stat. 3469, which provided that the amendment made by section 901(m)(2) is effective on Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(C), Dec. 12, 2017, 131 Stat. 1597, effective Dec. 23, 2016.
 
 **Effective Date of 2010 Amendment**
 
@@ -3380,7 +3380,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title IX, § 942(c), Oct. 17, 2006, 120 Stat. 2365, provided that: “The amendments made by this section [amending this section and section 5315 of this title] shall take effect on the date of the enactment of this Act [Oct. 17, 2006], and shall apply with respect to individuals appointed as Deputy Under Secretary of Defense for Logistics and Materiel Readiness on or after that date.”
+Pub. L. 109–364, div. A, title IX, § 942(c), Oct. 17, 2006, 120 Stat. 2365, provided that: “The amendments made by this section [amending this section and section 5315 of this title] shall take effect on the date of the enactment of this Act [Oct. 17, 2006], and shall apply with respect to individuals appointed as Deputy Under Secretary of Defense for Logistics and Materiel Readiness on or after that date.”
 
 **Effective Date of 2004 Amendment**
 
@@ -3388,13 +3388,13 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–173, title IX, § 900(d)(3), Dec. 8, 2003, 117 Stat. 2370, provided that: “The amendments made by this subsection [amending this section and section 5315 of this title] take effect on January 1, 2004.”
+Pub. L. 108–173, title IX, § 900(d)(3), Dec. 8, 2003, 117 Stat. 2370, provided that: “The amendments made by this subsection [amending this section and section 5315 of this title] take effect on January 1, 2004.”
 
 **Effective Date of 2002 Amendments**
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–110, title X, § 1071(b), Jan. 8, 2002, 115 Stat. 2088, provided that: “This section [amending this section] shall take effect on the first day of the first pay period on or after the date of enactment of this Act [Jan. 8, 2002].”
+Pub. L. 107–110, title X, § 1071(b), Jan. 8, 2002, 115 Stat. 2088, provided that: “This section [amending this section] shall take effect on the first day of the first pay period on or after the date of enactment of this Act [Jan. 8, 2002].”
 
 **Effective Date of 2000 Amendment**
 
@@ -3404,9 +3404,9 @@ Amendment by Pub. L. 106–569 effective on the first day of the first pay perio
 
 Amendment by Pub. L. 106–159 effective Jan. 1, 2000, see section 107(a) of Pub. L. 106–159, set out as a note under section 104 of Title 49, Transportation.
 
-Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 238(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that: “The amendment made by this subsection [probably means this section, amending this section and section 5315 of this title] shall take effect on January 1, 2000.”
+Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 238(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that: “The amendment made by this subsection [probably means this section, amending this section and section 5315 of this title] shall take effect on January 1, 2000.”
 
-Amendment by section 1000(a)(9) [title IV, § 4720(a)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by section 1000(a)(9) [title IV, § 4720(a)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 Amendment by section 3293(a) of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under section 2401 of Title 50, War and National Defense.
 
@@ -3436,9 +3436,9 @@ Amendment by Pub. L. 102–103 effective on first day of first pay period beginn
 
 **Effective Date of 1990 Amendments**
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Health and Human Services, Under Secretary of the Interior, Under Secretary of Education, and Under Secretary of Housing and Urban Development, see section 529 [title I, § 112(e)] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
+Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Health and Human Services, Under Secretary of the Interior, Under Secretary of Education, and Under Secretary of Housing and Urban Development, see section 529 [title I, § 112(e)] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
-Pub. L. 101–328, § 6, July 8, 1990, 104 Stat. 309, provided that: “The provisions of this Act [amending this section and enacting provisions set out as notes under section 2471 of Title 42, The Public Health and Welfare] are effective as of October 1, 1989.”
+Pub. L. 101–328, § 6, July 8, 1990, 104 Stat. 309, provided that: “The provisions of this Act [amending this section and enacting provisions set out as notes under section 2471 of Title 42, The Public Health and Welfare] are effective as of October 1, 1989.”
 
 **Effective and Termination Dates of 1988 Amendments**
 
@@ -3446,7 +3446,7 @@ Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and amendment by section
 
 Amendment by Pub. L. 100–679 effective Jan. 20, 1989, see section 11(e) of Pub. L. 100–679, set out as a note under section 5312 of this title.
 
-Pub. L. 100–598, § 10, Nov. 3, 1988, 102 Stat. 3035, provided that:
+Pub. L. 100–598, § 10, Nov. 3, 1988, 102 Stat. 3035, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), the amendments made by this Act [see Tables for classification] shall take effect on the date of the enactment of this Act [Nov. 3, 1988].
 
@@ -3460,7 +3460,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–64, title I, § 116(d), July 12, 1985, 99 Stat. 153, as amended by Pub. L. 99–441, § 5, Oct. 3, 1986, 100 Stat. 1118, provided that: “The provisions of [former] section 15(a) of the Export Administration Act of 1979 [former 50 U.S.C. 4617(a)], as amended by subsection (a) of this section, and the amendments made by subsections (b) and (c) of this section [amending sections 5314 and 5315 of this title] shall take effect on October 1, 1987.”
+Pub. L. 99–64, title I, § 116(d), July 12, 1985, 99 Stat. 153, as amended by Pub. L. 99–441, § 5, Oct. 3, 1986, 100 Stat. 1118, provided that: “The provisions of [former] section 15(a) of the Export Administration Act of 1979 [former 50 U.S.C. 4617(a)], as amended by subsection (a) of this section, and the amendments made by subsections (b) and (c) of this section [amending sections 5314 and 5315 of this title] shall take effect on October 1, 1987.”
 
 **Effective Date of 1984 Amendments**
 
@@ -3468,7 +3468,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 Amendment by section 609J of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA of Pub. L. 98–473, set out as an Effective Date note under section 10101 of Title 34, Crime Control and Law Enforcement.
 
-Pub. L. 98–443, § 9(v), Oct. 4, 1984, 98 Stat. 1709, provided that: “The amendments made by this section [amending sections 5314 and 5315 of this title, sections 1622 and 2145 of Title 7, Agriculture, sections 4746 and 9746 of Title 10, Armed Forces, sections 18, 21, 1607, 1681s, 1691c, and 1692*l* of Title 15, Commerce and Trade, section 18b of Title 16, Conservation, sections 47 and 7701 of Title 26, Internal Revenue Code, section 3726 of Title 31, Money and Finance, sections 3401, 5005, 5401, and 5402 of Title 39, Postal Service, section 3502 of Title 44, Public Printing and Documents, and sections 1159a, 1159b, 1301, 1305, 1377, 1382, 1388, 1389, and 1537 of former Title 49, Transportation] shall take effect on January 1, 1985.”
+Pub. L. 98–443, § 9(v), Oct. 4, 1984, 98 Stat. 1709, provided that: “The amendments made by this section [amending sections 5314 and 5315 of this title, sections 1622 and 2145 of Title 7, Agriculture, sections 4746 and 9746 of Title 10, Armed Forces, sections 18, 21, 1607, 1681s, 1691c, and 1692*l* of Title 15, Commerce and Trade, section 18b of Title 16, Conservation, sections 47 and 7701 of Title 26, Internal Revenue Code, section 3726 of Title 31, Money and Finance, sections 3401, 5005, 5401, and 5402 of Title 39, Postal Service, section 3502 of Title 44, Public Printing and Documents, and sections 1159a, 1159b, 1301, 1305, 1377, 1382, 1388, 1389, and 1537 of former Title 49, Transportation] shall take effect on January 1, 1985.”
 
 **Effective Date of 1981 Amendment**
 
@@ -3500,7 +3500,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 **Effective Date of 1975 Amendment**
 
-Section 6(a), formerly section 6(a)(1), of Pub. L. 94–123, as renumbered Pub. L. 96–330, title I, § 101, Aug. 26, 1980, 94 Stat. 1030, provided that: “The amendments made by section 2 of this Act [enacting former section 4118 of Title 38, Veterans’ Benefits, amending this section, section 5315 of this title, and former section 4107 of Title 38, and enacting provisions set out as notes under former section 4118 of Title 38] shall become effective on October 12, 1975.”
+Section 6(a), formerly section 6(a)(1), of Pub. L. 94–123, as renumbered Pub. L. 96–330, title I, § 101, Aug. 26, 1980, 94 Stat. 1030, provided that: “The amendments made by section 2 of this Act [enacting former section 4118 of Title 38, Veterans’ Benefits, amending this section, section 5315 of this title, and former section 4107 of Title 38, and enacting provisions set out as notes under former section 4118 of Title 38] shall become effective on October 12, 1975.”
 
 **Effective Date of 1974 Amendments**
 
@@ -3532,15 +3532,15 @@ Amendment by Pub. L. 90–206 effective at beginning of first pay period which b
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective Apr. 1, 1967 as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective Apr. 1, 1967 as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Nonapplicability of Amendment by Pub. L. 115–254**
 
-Pub. L. 115–254, div. K, title I, § 1904(c)(3), Oct. 5, 2018, 132 Stat. 3546, provided that: “The amendment made by paragraph (2) of this subsection [amending this section] shall not affect the salary of an individual who is performing the duties of the Deputy Administrator on the date of enactment of this Act [Oct. 5, 2018], even if that individual is subsequently appointed as Deputy Administrator.”
+Pub. L. 115–254, div. K, title I, § 1904(c)(3), Oct. 5, 2018, 132 Stat. 3546, provided that: “The amendment made by paragraph (2) of this subsection [amending this section] shall not affect the salary of an individual who is performing the duties of the Deputy Administrator on the date of enactment of this Act [Oct. 5, 2018], even if that individual is subsequently appointed as Deputy Administrator.”
 
 **Spending Authority Under 1985 Amendment**
 
-Pub. L. 99–64, title I, § 116(e), July 12, 1985, 99 Stat. 153, provided that: “Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 [2 U.S.C. 651]) which is provided under this section [amending this section, section 5315 of this title, and former section 4617 of Title 50, War and National Defense] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.”
+Pub. L. 99–64, title I, § 116(e), July 12, 1985, 99 Stat. 153, provided that: “Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 [2 U.S.C. 651]) which is provided under this section [amending this section, section 5315 of this title, and former section 4617 of Title 50, War and National Defense] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.”
 
 **Pay Increase; Effective Date**
 
@@ -3550,7 +3550,7 @@ Persons occupying a position under the Executive Schedule on May 18, 1972, and l
 
 Director of Federal Bureau of Investigation, Department of Justice to receive compensation at rate prescribed for level II of Federal Executive Salary Schedule (5 U.S.C. 5313), effective as of day following date on which person holding such office on June 19, 1968, ceases to serve as Director, see section 1101(a) of Pub. L. 90–351, set out as a note under section 532 of Title 28, Judiciary and Judicial Procedure.
 
-Position of Director of Federal Bureau of Investigation, referred to in text, placed temporarily in level II during incumbency of incumbent on Aug. 14, 1964, by Pub. L. 88–426, Aug. 14, 1964, § 303(b)(15), 78 Stat. 416.
+Position of Director of Federal Bureau of Investigation, referred to in text, placed temporarily in level II during incumbency of incumbent on Aug. 14, 1964, by Pub. L. 88–426, Aug. 14, 1964, § 303(b)(15), 78 Stat. 416.
 
 Section 1101(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (Pub. L. 90–351, June 19, 1968, 82 Stat. 236), which is set out as a note under section 532 of Title 28, Judiciary and Judicial Procedure, provided in part that when present incumbent of position of Director leaves office, his successors will be paid at rate prescribed for level II.
 
@@ -3568,7 +3568,7 @@ For miscellaneous provisions dealing with adjustments of pay and limitations on 
 
 Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President by sections 1 and 3(a)(1) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to this title.
 
-### § 5315. Positions at level IV
+### § 5315. Positions at level IV
 
 Level IV of the Executive Schedule applies to the following positions, for which the annual rate of basic pay shall be the rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title:
 
@@ -3790,9 +3790,9 @@ Assistant Secretaries, Department of Veterans Affairs (7).
 
 General Counsel, Department of Veterans Affairs.
 
-Commissioner of Food and Drugs, Department of Health and Human Services 1
+Commissioner of Food and Drugs, Department of Health and Human Services 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 Chairman, Board of Veterans’ Appeals.
 
@@ -3862,9 +3862,9 @@ Director of the Office of Educational Technology.
 
 Director of the International Broadcasting Bureau.
 
-The 2
+The 2
 
-<sup>2</sup>  The word “The” probably should not appear.
+<sup>2</sup> The word “The” probably should not appear.
 
 Commissioner of Labor Statistics, Department of Labor.
 
@@ -3928,7 +3928,7 @@ Chief Medical Officer, Department of Homeland Security.
 
 Director of the National Counterintelligence and Security Center.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 461; Pub. L. 89–670, § 10(d)(4), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, § 1(1), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, § 8(c)(1), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–83, § 1(15), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, § 215(b), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, § 505, June 19, 1968, 82 Stat. 205; Pub. L. 90–448, title XI, § 1105(b), title XVII, § 1708(b), Aug. 1, 1968, 82 Stat. 567, 606; Pub. L. 90–623, § 1(4), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–121, title IV, § 404(b), Nov. 19, 1969, 83 Stat. 207; Pub. L. 91–175, pt. V, § 503(2), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–206, § 5(b), Mar. 10, 1970, 84 Stat. 51; Pub. L. 91–375, § 6(c)(14), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–469, § 42(b), Oct. 21, 1970, 84 Stat. 1038; Pub. L. 91–477, § 3(b), Oct. 21, 1970, 84 Stat. 1072; Pub. L. 91–596, §§ 12(c)(2), 29(b), Dec. 29, 1970, 84 Stat. 1604, 1619; Pub. L. 91–611, title II, § 211(b), Dec. 31, 1970, 84 Stat. 1829; Pub. L. 91–644, title I, § 7 (1), (2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, § 2, June 1, 1971, 85 Stat. 76; Pub. L. 92–181, title V, § 5.41(a), formerly § 5.27(a), Dec. 10, 1971, 85 Stat. 625, renumbered Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 92–215, § 2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–255, title II, § 212(b), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, § 9(b), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, § 2(c), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, § 104(3), July 13, 1972, 86 Stat. 490; Pub. L. 92–419, title VI, § 604(b), Aug. 30, 1972, 86 Stat. 676; Pub. L. 92–573, § 4(h)(2), Oct. 27, 1972, 86 Stat. 1211; Pub. L. 92–603, title IV, § 404(b), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 90–351, title I, § 506(a), as added Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–126, § 9(b), as added Pub. L. 93–312, § 9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, § 818(c), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–400, § 13, Aug. 30, 1974, 88 Stat. 799; Pub. L. 93–438, title III, § 310(3), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, § 102(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 93–618, title I, § 172(c)(2), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, § 202(b)(4), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–123, § 2(c)(2), Oct. 22, 1975, 89 Stat. 670; Pub. L. 94–183, § 2(18), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 92–255, title II, § 209(b), as added Pub. L. 94–237, § 4(b), Mar. 19, 1976, 90 Stat. 243; Pub. L. 94–375, § 17(c), Aug. 3, 1976, 90 Stat. 1077; Pub. L. 94–461, § 4(b), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 94–503, title II, § 202(b), Oct. 15, 1976, 90 Stat. 2426; Pub. L. 94–561, § 3(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–88, title I, § 124(b), Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–91, title VII, § 710(f), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–105, title I, § 109(d), Aug. 17, 1977, 91 Stat. 847; Pub. L. 95–108, § 2(b), Aug. 17, 1977, 91 Stat. 871; Pub. L. 95–164, title III, § 302(b), Nov. 9, 1977, 91 Stat. 1319; Pub. L. 95–173, § 9(b), Nov. 12, 1977, 91 Stat. 1360; Pub. L. 95–351, title III, § 302, Aug. 20, 1978, 92 Stat. 514; Pub. L. 95–426, title I, §§ 114(b)(2), 115(b)(1), Oct. 7, 1978, 92 Stat. 969; Pub. L. 95–452, § 10(a), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§ 202(c)(2), (3), title VII, § 703(d), Oct. 13, 1978, 92 Stat. 1131, 1217; Pub. L. 95–630, title V, § 502(e), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–39, title XI, § 1106(c)(4), July 26, 1979, 93 Stat. 312; Pub. L. 96–53, title IV, § 412(b), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, § 508(e), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, § 820(e)(1), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–132, § 5, Nov. 30, 1979, 93 Stat. 1045; Pub. L. 96–153, title VI, § 603(b), Dec. 21, 1979, 93 Stat. 1138; Pub. L. 90–351, title I, § 809, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1204; Pub. L. 96–302, title IV, § 403, July 2, 1980, 94 Stat. 850; Pub. L. 96–511, § 4(d), Dec. 11, 1980, 94 Stat. 2826; Pub. L. 97–31, § 12(1)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–35, title III, § 396(h)(4), Aug. 13, 1981, 95 Stat. 441; Pub. L. 97–98, title XIV, § 1414(b), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 97–195, § 1(b)(2), June 16, 1982, 96 Stat. 115; Pub. L. 97–252, title XI, § 1117(d), Sept. 8, 1982, 96 Stat. 753; Pub. L. 97–325, § 8(b), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, § 3(3), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–80, § 2(c)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–94, title XII, §§ 1211(b), 1212(d), Sept. 24, 1983, 97 Stat. 686, 687; Pub. L. 98–164, title I, § 125(b)(2), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 98–202, § 6(b), Dec. 2, 1983, 97 Stat. 1382; Pub. L. 98–216, § 3(a)(3), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. B, title III, § 2332(b), July 18, 1984, 98 Stat. 1089; Pub. L. 98–443, § 9(e), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 98–473, title II, §§ 609J(b), 1701(b), Oct. 12, 1984, 98 Stat. 2102, 2185; Pub. L. 98–594, § 1(b), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–64, title I, § 116(c), July 12, 1985, 99 Stat. 153; Pub. L. 99–73, § 6(b)(1), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title I, § 115(b), title VII, § 704(a)(2), Aug. 16, 1985, 99 Stat. 411, 445; Pub. L. 99–399, title I, § 104(c), title IV, §§ 412(c), 413(e), formerly 413(a)(5), Aug. 27, 1986, 100 Stat. 856, 867, 868, as renumbered Pub. L. 100–204, title I, § 134(b), Dec. 22, 1987, 101 Stat. 1344; Pub. L. 99–500, § 101(c) [title X, § 903(b)(2)(B)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, § 903(b)(2)(B)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–619, § 2(b)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, § 407(e)(2), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(b)(2)(B), Nov. 14, 1986, 100 Stat. 3912, as renumbered Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–204, title I, § 178(a)(2), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–297, title III, § 3001(b)(2), Apr. 28, 1988, 102 Stat. 331; Pub. L. 100–418, title II, § 2301(i), formerly § 2301(h), title V, § 5112(c)(2), Aug. 23, 1988, 102 Stat. 1341, 1431, as renumbered Pub. L. 102–429, title II, § 203(b)(1), Oct. 21, 1992, 106 Stat. 2201; Pub. L. 100–485, title VI, § 603(b), Oct. 13, 1988, 102 Stat. 2409; Pub. L. 100–504, title I, § 103(a), Oct. 18, 1988, 102 Stat. 2521; Pub. L. 100–527, § 13(f), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–607, title V, § 503(b)(2), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–679, § 11(d), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–687, div. A, title II, § 201(b)(1), Nov. 18, 1988, 102 Stat. 4109; Pub. L. 100–690, title I, §§ 1003(a)(4)(C), 1007(c)(4), title VII, §§ 7252(b)(3), 7608(e), Nov. 18, 1988, 102 Stat. 4182, 4188, 4436, 4517; Pub. L. 101–73, title V, § 501(b)(2)(A), title VII, § 742(a)(2), Aug. 9, 1989, 103 Stat. 393, 436; Pub. L. 101–189, div. A, title XI, § 1112, Nov. 29, 1989, 103 Stat. 1554; Pub. L. 101–319, § 3(a), July 3, 1990, 104 Stat. 290; Pub. L. 101–509, title V, § 529 [title I, § 113(2)], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 101–512, title III, § 318 [title II, § 202(a)(2)], Nov. 5, 1990, 104 Stat. 1960, 1975; Pub. L. 101–576, title II, § 207(c), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–138, title I, § 122(d)(1), Oct. 28, 1991, 105 Stat. 659; Pub. L. 102–180, § 3(g), Dec. 2, 1991, 105 Stat. 1231; Pub. L. 102–183, title IV, § 404, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–190, div. A, title IX, §§ 901(b), 903(a)(1), div. C, title XXXV, § 3504(a), Dec. 5, 1991, 105 Stat. 1450, 1451, 1586; Pub. L. 102–325, title XV, § 1553(b), July 23, 1992, 106 Stat. 839; Pub. L. 102–359, § 2(b)(1), Aug. 26, 1992, 106 Stat. 962; Pub. L. 102–552, title II, § 201(b)(2), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 103–123, title I, § 108(a)(2), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–160, div. A, title IX, §§ 902(a)(2), 903(c)(2), Nov. 30, 1993, 107 Stat. 1727, 1728; Pub. L. 103–171, § 3(b)(1), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–204, § 23(b), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 103–227, title II, § 233(b), Mar. 31, 1994, 108 Stat. 155; Pub. L. 103–236, title I, § 162(d)(2), title III, § 307(b)(2), title VII, § 708(b), Apr. 30, 1994, 108 Stat. 405, 436, 494; Pub. L. 103–272, § 4(b)(2), July 5, 1994, 108 Stat. 1361; Pub. L. 103–296, title I, §§ 106(a)(7)(B), 108(e)(3), Aug. 15, 1994, 108 Stat. 1476, 1486; Pub. L. 103–333, title I, § 106, Sept. 30, 1994, 108 Stat. 2548; Pub. L. 103–337, div. A, title IX, § 901(b), Oct. 5, 1994, 108 Stat. 2822; Pub. L. 103–354, title II, §§ 218(d), 232(b)(2), formerly 232(b)(3), Oct. 13, 1994, 108 Stat. 3212, 3219, as renumbered Pub. L. 112–166, § 2(a)(2)(C), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 104–88, title III, § 301(b), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–105, title II, § 219(b)(2), Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–106, div. A, title IX, § 902(b), div. E, title LI, § 5125(e), Feb. 10, 1996, 110 Stat. 401, 686; Pub. L. 104–127, title VII, § 723(b), Apr. 4, 1996, 110 Stat. 1119; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(b)(1)], (f) [title VI, § 662(c)(1)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313, 3009–314, 3009–380; Pub. L. 104–293, title VIII, §§ 812(b), 813(c), Oct. 11, 1996, 110 Stat. 3482, 3483; Pub. L. 105–85, div. A, title X, § 1073(e)(1), div. C, title XXXV, § 3550(b), Nov. 18, 1997, 111 Stat. 1906, 2074; Pub. L. 105–245, title III, § 309(b)(2)(A), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 105–261, div. A, title IX, § 901(b), Oct. 17, 1998, 112 Stat. 2091; Pub. L. 105–277, div. A, § 101(a) [title X, § 1003], div. G, subdiv. A, title XII, § 1224(3), title XIII, §§ 1314(c), 1332(2), subdiv. B, title XXIII, § 2305(b)(2), Oct. 21, 1998, 112 Stat. 2681, 2681–42, 2681–772, 2681–776, 2681–785, 2681–825; Pub. L. 105–368, title IV, § 403(b)(2), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–65, div. C, title XXXII, §§ 3293(b), 3294(a)(1), Oct. 5, 1999, 113 Stat. 969, 970; Pub. L. 106–113, div. B, §§ 1000(a)(5) [title II, § 238(a)(1)], 1000(a)(9) [title IV, § 4720(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, 1501A–581; Pub. L. 106–422, § 1(c), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–107, div. A, title IX, § 901(b), (c)(2), div. C, title XXXI, § 3141(b), Dec. 28, 2001, 115 Stat. 1194, 1370; Pub. L. 107–171, title VI, § 6201(d)(1), title X, § 10704(b), May 13, 2002, 116 Stat. 419, 518; Pub. L. 107–189, § 22(b), June 14, 2002, 116 Stat. 708; Pub. L. 107–279, title IV, § 404(b), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 107–287, § 5(d), Nov. 7, 2002, 116 Stat. 2030; Pub. L. 107–296, title XVII, § 1702(a)(4), (5), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 107–314, div. A, title IX, § 902(d), Dec. 2, 2002, 116 Stat. 2621; Pub. L. 108–173, title IX, § 900(d)(2), Dec. 8, 2003, 117 Stat. 2370; Pub. L. 108–177, title I, § 105(d)(3), Dec. 13, 2003, 117 Stat. 2604; Pub. L. 108–447, div. C, title VI, § 603(c)(2), Dec. 8, 2004, 118 Stat. 2967; Pub. L. 108–458, title I, § 1015(c), Dec. 17, 2004, 118 Stat. 3664; Pub. L. 109–58, title V, § 502(b)(2), title X, § 1006(c)(3), Aug. 8, 2005, 119 Stat. 764, 932; Pub. L. 109–163, div. A, title IX, § 901(b), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 109–177, title V, § 506(a)(3), Mar. 9, 2006, 120 Stat. 247; Pub. L. 109–295, title VI, § 612(a)(3), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–364, div. A, title IX, §§ 901(b), 942(a), Oct. 17, 2006, 120 Stat. 2350, 2365; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–49, § 11(b), July 26, 2007, 121 Stat. 260; Pub. L. 110–343, div. A, title I, § 101(a)(3)(B)(i), Oct. 3, 2008, 122 Stat. 3767; Pub. L. 110–409, § 4(a)(2), Oct. 14, 2008, 122 Stat. 4303; Pub. L. 111–11, title XIII, § 13004(b), Mar. 30, 2009, 123 Stat. 1449; Pub. L. 111–23, title I, § 101(a)(3), May 22, 2009, 123 Stat. 1706; Pub. L. 111–84, div. A, title IX, § 906(d)(2), Oct. 28, 2009, 123 Stat. 2428; Pub. L. 111–259, title VIII, § 807(b), Oct. 7, 2010, 124 Stat. 2749; Pub. L. 111–358, title IV, § 403(b)(1)(B), Jan. 4, 2011, 124 Stat. 4000; Pub. L. 111–383, div. A, title IX, § 901(n)(1), (2)(A), Jan. 7, 2011, 124 Stat. 4326, 4327; Pub. L. 112–87, title IV, § 404, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 113–76, div. H, title I, § 111(a), Jan. 17, 2014, 128 Stat. 361; Pub. L. 113–291, div. A, title IX, § 901(m)(3), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 114–94, div. A, title VI, § 6011(d)(1)(B), Dec. 4, 2015, 129 Stat. 1570; Pub. L. 115–91, div. A, title IX, § 906(e), Dec. 12, 2017, 131 Stat. 1513; Pub. L. 115–254, div. F, title VI, § 1470(b)(2), Oct. 5, 2018, 132 Stat. 3516; Pub. L. 115–278, § 2(h)(3)(B), Nov. 16, 2018, 132 Stat. 4183; Pub. L. 115–334, title XII, § 12408(a)(2), Dec. 20, 2018, 132 Stat. 4977; Pub. L. 116–92, div. A, title IX, § 956(b)(2), title XVI, § 1621(e)(2)(B), div. E, title LXIV, § 6403, Dec. 20, 2019, 133 Stat. 1566, 1733, 2196; Pub. L. 116–260, div. AA, title V, § 512(c)(1), Dec. 27, 2020, 134 Stat. 2756; Pub. L. 117–103, div. X, title IV, § 405, Mar. 15, 2022, 136 Stat. 976; Pub. L. 117–263, div. A, title IX, § 901(b)(2), div. E, title LIII, § 5304(b)(1)(B), Dec. 23, 2022, 136 Stat. 2747, 3251; Pub. L. 119–60, div. A, title IX, § 903(b)(2), Dec. 18, 2025, 139 Stat. 1009.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 461; Pub. L. 89–670, § 10(d)(4), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, § 1(1), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, § 8(c)(1), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–83, § 1(15), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, § 215(b), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, § 505, June 19, 1968, 82 Stat. 205; Pub. L. 90–448, title XI, § 1105(b), title XVII, § 1708(b), Aug. 1, 1968, 82 Stat. 567, 606; Pub. L. 90–623, § 1(4), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–121, title IV, § 404(b), Nov. 19, 1969, 83 Stat. 207; Pub. L. 91–175, pt. V, § 503(2), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–206, § 5(b), Mar. 10, 1970, 84 Stat. 51; Pub. L. 91–375, § 6(c)(14), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–469, § 42(b), Oct. 21, 1970, 84 Stat. 1038; Pub. L. 91–477, § 3(b), Oct. 21, 1970, 84 Stat. 1072; Pub. L. 91–596, §§ 12(c)(2), 29(b), Dec. 29, 1970, 84 Stat. 1604, 1619; Pub. L. 91–611, title II, § 211(b), Dec. 31, 1970, 84 Stat. 1829; Pub. L. 91–644, title I, § 7 (1), (2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, § 2, June 1, 1971, 85 Stat. 76; Pub. L. 92–181, title V, § 5.41(a), formerly § 5.27(a), Dec. 10, 1971, 85 Stat. 625, renumbered Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 92–215, § 2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–255, title II, § 212(b), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, § 9(b), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, § 2(c), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, § 104(3), July 13, 1972, 86 Stat. 490; Pub. L. 92–419, title VI, § 604(b), Aug. 30, 1972, 86 Stat. 676; Pub. L. 92–573, § 4(h)(2), Oct. 27, 1972, 86 Stat. 1211; Pub. L. 92–603, title IV, § 404(b), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 90–351, title I, § 506(a), as added Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–126, § 9(b), as added Pub. L. 93–312, § 9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, § 818(c), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–400, § 13, Aug. 30, 1974, 88 Stat. 799; Pub. L. 93–438, title III, § 310(3), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, § 102(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 93–618, title I, § 172(c)(2), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, § 202(b)(4), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–123, § 2(c)(2), Oct. 22, 1975, 89 Stat. 670; Pub. L. 94–183, § 2(18), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 92–255, title II, § 209(b), as added Pub. L. 94–237, § 4(b), Mar. 19, 1976, 90 Stat. 243; Pub. L. 94–375, § 17(c), Aug. 3, 1976, 90 Stat. 1077; Pub. L. 94–461, § 4(b), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 94–503, title II, § 202(b), Oct. 15, 1976, 90 Stat. 2426; Pub. L. 94–561, § 3(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–88, title I, § 124(b), Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–91, title VII, § 710(f), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–105, title I, § 109(d), Aug. 17, 1977, 91 Stat. 847; Pub. L. 95–108, § 2(b), Aug. 17, 1977, 91 Stat. 871; Pub. L. 95–164, title III, § 302(b), Nov. 9, 1977, 91 Stat. 1319; Pub. L. 95–173, § 9(b), Nov. 12, 1977, 91 Stat. 1360; Pub. L. 95–351, title III, § 302, Aug. 20, 1978, 92 Stat. 514; Pub. L. 95–426, title I, §§ 114(b)(2), 115(b)(1), Oct. 7, 1978, 92 Stat. 969; Pub. L. 95–452, § 10(a), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§ 202(c)(2), (3), title VII, § 703(d), Oct. 13, 1978, 92 Stat. 1131, 1217; Pub. L. 95–630, title V, § 502(e), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–39, title XI, § 1106(c)(4), July 26, 1979, 93 Stat. 312; Pub. L. 96–53, title IV, § 412(b), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, § 508(e), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, § 820(e)(1), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–132, § 5, Nov. 30, 1979, 93 Stat. 1045; Pub. L. 96–153, title VI, § 603(b), Dec. 21, 1979, 93 Stat. 1138; Pub. L. 90–351, title I, § 809, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1204; Pub. L. 96–302, title IV, § 403, July 2, 1980, 94 Stat. 850; Pub. L. 96–511, § 4(d), Dec. 11, 1980, 94 Stat. 2826; Pub. L. 97–31, § 12(1)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–35, title III, § 396(h)(4), Aug. 13, 1981, 95 Stat. 441; Pub. L. 97–98, title XIV, § 1414(b), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 97–195, § 1(b)(2), June 16, 1982, 96 Stat. 115; Pub. L. 97–252, title XI, § 1117(d), Sept. 8, 1982, 96 Stat. 753; Pub. L. 97–325, § 8(b), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, § 3(3), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–80, § 2(c)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–94, title XII, §§ 1211(b), 1212(d), Sept. 24, 1983, 97 Stat. 686, 687; Pub. L. 98–164, title I, § 125(b)(2), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 98–202, § 6(b), Dec. 2, 1983, 97 Stat. 1382; Pub. L. 98–216, § 3(a)(3), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. B, title III, § 2332(b), July 18, 1984, 98 Stat. 1089; Pub. L. 98–443, § 9(e), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 98–473, title II, §§ 609J(b), 1701(b), Oct. 12, 1984, 98 Stat. 2102, 2185; Pub. L. 98–594, § 1(b), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–64, title I, § 116(c), July 12, 1985, 99 Stat. 153; Pub. L. 99–73, § 6(b)(1), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title I, § 115(b), title VII, § 704(a)(2), Aug. 16, 1985, 99 Stat. 411, 445; Pub. L. 99–399, title I, § 104(c), title IV, §§ 412(c), 413(e), formerly 413(a)(5), Aug. 27, 1986, 100 Stat. 856, 867, 868, as renumbered Pub. L. 100–204, title I, § 134(b), Dec. 22, 1987, 101 Stat. 1344; Pub. L. 99–500, § 101(c) [title X, § 903(b)(2)(B)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, § 903(b)(2)(B)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–619, § 2(b)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, § 407(e)(2), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(b)(2)(B), Nov. 14, 1986, 100 Stat. 3912, as renumbered Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–204, title I, § 178(a)(2), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–297, title III, § 3001(b)(2), Apr. 28, 1988, 102 Stat. 331; Pub. L. 100–418, title II, § 2301(i), formerly § 2301(h), title V, § 5112(c)(2), Aug. 23, 1988, 102 Stat. 1341, 1431, as renumbered Pub. L. 102–429, title II, § 203(b)(1), Oct. 21, 1992, 106 Stat. 2201; Pub. L. 100–485, title VI, § 603(b), Oct. 13, 1988, 102 Stat. 2409; Pub. L. 100–504, title I, § 103(a), Oct. 18, 1988, 102 Stat. 2521; Pub. L. 100–527, § 13(f), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–607, title V, § 503(b)(2), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–679, § 11(d), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–687, div. A, title II, § 201(b)(1), Nov. 18, 1988, 102 Stat. 4109; Pub. L. 100–690, title I, §§ 1003(a)(4)(C), 1007(c)(4), title VII, §§ 7252(b)(3), 7608(e), Nov. 18, 1988, 102 Stat. 4182, 4188, 4436, 4517; Pub. L. 101–73, title V, § 501(b)(2)(A), title VII, § 742(a)(2), Aug. 9, 1989, 103 Stat. 393, 436; Pub. L. 101–189, div. A, title XI, § 1112, Nov. 29, 1989, 103 Stat. 1554; Pub. L. 101–319, § 3(a), July 3, 1990, 104 Stat. 290; Pub. L. 101–509, title V, § 529 [title I, § 113(2)], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 101–512, title III, § 318 [title II, § 202(a)(2)], Nov. 5, 1990, 104 Stat. 1960, 1975; Pub. L. 101–576, title II, § 207(c), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–138, title I, § 122(d)(1), Oct. 28, 1991, 105 Stat. 659; Pub. L. 102–180, § 3(g), Dec. 2, 1991, 105 Stat. 1231; Pub. L. 102–183, title IV, § 404, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–190, div. A, title IX, §§ 901(b), 903(a)(1), div. C, title XXXV, § 3504(a), Dec. 5, 1991, 105 Stat. 1450, 1451, 1586; Pub. L. 102–325, title XV, § 1553(b), July 23, 1992, 106 Stat. 839; Pub. L. 102–359, § 2(b)(1), Aug. 26, 1992, 106 Stat. 962; Pub. L. 102–552, title II, § 201(b)(2), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 103–123, title I, § 108(a)(2), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–160, div. A, title IX, §§ 902(a)(2), 903(c)(2), Nov. 30, 1993, 107 Stat. 1727, 1728; Pub. L. 103–171, § 3(b)(1), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–204, § 23(b), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 103–227, title II, § 233(b), Mar. 31, 1994, 108 Stat. 155; Pub. L. 103–236, title I, § 162(d)(2), title III, § 307(b)(2), title VII, § 708(b), Apr. 30, 1994, 108 Stat. 405, 436, 494; Pub. L. 103–272, § 4(b)(2), July 5, 1994, 108 Stat. 1361; Pub. L. 103–296, title I, §§ 106(a)(7)(B), 108(e)(3), Aug. 15, 1994, 108 Stat. 1476, 1486; Pub. L. 103–333, title I, § 106, Sept. 30, 1994, 108 Stat. 2548; Pub. L. 103–337, div. A, title IX, § 901(b), Oct. 5, 1994, 108 Stat. 2822; Pub. L. 103–354, title II, §§ 218(d), 232(b)(2), formerly 232(b)(3), Oct. 13, 1994, 108 Stat. 3212, 3219, as renumbered Pub. L. 112–166, § 2(a)(2)(C), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 104–88, title III, § 301(b), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–105, title II, § 219(b)(2), Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–106, div. A, title IX, § 902(b), div. E, title LI, § 5125(e), Feb. 10, 1996, 110 Stat. 401, 686; Pub. L. 104–127, title VII, § 723(b), Apr. 4, 1996, 110 Stat. 1119; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(b)(1)], (f) [title VI, § 662(c)(1)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313, 3009–314, 3009–380; Pub. L. 104–293, title VIII, §§ 812(b), 813(c), Oct. 11, 1996, 110 Stat. 3482, 3483; Pub. L. 105–85, div. A, title X, § 1073(e)(1), div. C, title XXXV, § 3550(b), Nov. 18, 1997, 111 Stat. 1906, 2074; Pub. L. 105–245, title III, § 309(b)(2)(A), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 105–261, div. A, title IX, § 901(b), Oct. 17, 1998, 112 Stat. 2091; Pub. L. 105–277, div. A, § 101(a) [title X, § 1003], div. G, subdiv. A, title XII, § 1224(3), title XIII, §§ 1314(c), 1332(2), subdiv. B, title XXIII, § 2305(b)(2), Oct. 21, 1998, 112 Stat. 2681, 2681–42, 2681–772, 2681–776, 2681–785, 2681–825; Pub. L. 105–368, title IV, § 403(b)(2), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–65, div. C, title XXXII, §§ 3293(b), 3294(a)(1), Oct. 5, 1999, 113 Stat. 969, 970; Pub. L. 106–113, div. B, §§ 1000(a)(5) [title II, § 238(a)(1)], 1000(a)(9) [title IV, § 4720(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, 1501A–581; Pub. L. 106–422, § 1(c), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–107, div. A, title IX, § 901(b), (c)(2), div. C, title XXXI, § 3141(b), Dec. 28, 2001, 115 Stat. 1194, 1370; Pub. L. 107–171, title VI, § 6201(d)(1), title X, § 10704(b), May 13, 2002, 116 Stat. 419, 518; Pub. L. 107–189, § 22(b), June 14, 2002, 116 Stat. 708; Pub. L. 107–279, title IV, § 404(b), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 107–287, § 5(d), Nov. 7, 2002, 116 Stat. 2030; Pub. L. 107–296, title XVII, § 1702(a)(4), (5), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 107–314, div. A, title IX, § 902(d), Dec. 2, 2002, 116 Stat. 2621; Pub. L. 108–173, title IX, § 900(d)(2), Dec. 8, 2003, 117 Stat. 2370; Pub. L. 108–177, title I, § 105(d)(3), Dec. 13, 2003, 117 Stat. 2604; Pub. L. 108–447, div. C, title VI, § 603(c)(2), Dec. 8, 2004, 118 Stat. 2967; Pub. L. 108–458, title I, § 1015(c), Dec. 17, 2004, 118 Stat. 3664; Pub. L. 109–58, title V, § 502(b)(2), title X, § 1006(c)(3), Aug. 8, 2005, 119 Stat. 764, 932; Pub. L. 109–163, div. A, title IX, § 901(b), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 109–177, title V, § 506(a)(3), Mar. 9, 2006, 120 Stat. 247; Pub. L. 109–295, title VI, § 612(a)(3), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–364, div. A, title IX, §§ 901(b), 942(a), Oct. 17, 2006, 120 Stat. 2350, 2365; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–49, § 11(b), July 26, 2007, 121 Stat. 260; Pub. L. 110–343, div. A, title I, § 101(a)(3)(B)(i), Oct. 3, 2008, 122 Stat. 3767; Pub. L. 110–409, § 4(a)(2), Oct. 14, 2008, 122 Stat. 4303; Pub. L. 111–11, title XIII, § 13004(b), Mar. 30, 2009, 123 Stat. 1449; Pub. L. 111–23, title I, § 101(a)(3), May 22, 2009, 123 Stat. 1706; Pub. L. 111–84, div. A, title IX, § 906(d)(2), Oct. 28, 2009, 123 Stat. 2428; Pub. L. 111–259, title VIII, § 807(b), Oct. 7, 2010, 124 Stat. 2749; Pub. L. 111–358, title IV, § 403(b)(1)(B), Jan. 4, 2011, 124 Stat. 4000; Pub. L. 111–383, div. A, title IX, § 901(n)(1), (2)(A), Jan. 7, 2011, 124 Stat. 4326, 4327; Pub. L. 112–87, title IV, § 404, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 113–76, div. H, title I, § 111(a), Jan. 17, 2014, 128 Stat. 361; Pub. L. 113–291, div. A, title IX, § 901(m)(3), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 114–94, div. A, title VI, § 6011(d)(1)(B), Dec. 4, 2015, 129 Stat. 1570; Pub. L. 115–91, div. A, title IX, § 906(e), Dec. 12, 2017, 131 Stat. 1513; Pub. L. 115–254, div. F, title VI, § 1470(b)(2), Oct. 5, 2018, 132 Stat. 3516; Pub. L. 115–278, § 2(h)(3)(B), Nov. 16, 2018, 132 Stat. 4183; Pub. L. 115–334, title XII, § 12408(a)(2), Dec. 20, 2018, 132 Stat. 4977; Pub. L. 116–92, div. A, title IX, § 956(b)(2), title XVI, § 1621(e)(2)(B), div. E, title LXIV, § 6403, Dec. 20, 2019, 133 Stat. 1566, 1733, 2196; Pub. L. 116–260, div. AA, title V, § 512(c)(1), Dec. 27, 2020, 134 Stat. 2756; Pub. L. 117–103, div. X, title IV, § 405, Mar. 15, 2022, 136 Stat. 976; Pub. L. 117–263, div. A, title IX, § 901(b)(2), div. E, title LIII, § 5304(b)(1)(B), Dec. 23, 2022, 136 Stat. 2747, 3251; Pub. L. 119–60, div. A, title IX, § 903(b)(2), Dec. 18, 2025, 139 Stat. 1009.)
 
 **Historical and Revision Notes**
 
@@ -3936,9 +3936,9 @@ Director of the National Counterintelligence and Security Center.
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1)–(69) | 5 U.S.C. 2211(d). | Aug. 14, 1964, Pub. L. 88–426, § 303(d), 78 Stat. 417. |
-| (70), (71) | 5 U.S.C. 2211(c)(39) (proviso), (46) (proviso). | Aug. 14, 1964, Pub. L. 88–426, § 303(c)(39) (proviso), (46) (proviso), 78 Stat. 417. |
-| (72)–(77) | 5 U.S.C. 2211(g). | Aug. 14, 1964, Pub. L. 88–426, § 303(g), 78 Stat. 422. |
+| (1)–(69) | 5 U.S.C. 2211(d). | Aug. 14, 1964, Pub. L. 88–426, § 303(d), 78 Stat. 417. |
+| (70), (71) | 5 U.S.C. 2211(c)(39) (proviso), (46) (proviso). | Aug. 14, 1964, Pub. L. 88–426, § 303(c)(39) (proviso), (46) (proviso), 78 Stat. 417. |
+| (72)–(77) | 5 U.S.C. 2211(g). | Aug. 14, 1964, Pub. L. 88–426, § 303(g), 78 Stat. 422. |
 
 Paragraphs (72)–(77) are added on authority of former section 2211(g) which authorized the President to place, from Aug. 15, 1964, to Feb. 1, 1965, not more than 30 positions in Levels IV and V of the Federal Executive Salary Schedule. Pursuant to this authority, the President by Executive Order No. 11189, Nov. 23, 1964, as amended by Executive Order No. 11195, Jan. 30, 1965, placed the positions listed in paragraphs (72)–(77) in Level IV.
 
@@ -3948,14 +3948,14 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5315(12) | 5 App.: 2211(d)(12). | Aug. 26, 1965, Pub. L. 89–136, § 601(b), 79 Stat. 569. |
-| 5315(17) | 5 App.: 2211(d)(17). | Aug. 9, 1965, Pub. L. 89–115, § 4(c) (words before semicolon), 79 Stat. 449. Oct. 2, 1965, Pub. L. 89–234, § 1(b) (last sentence), 79 Stat. 903. |
-|  | [Uncodified]. | 1966 Reorg. Plan No. 2, § 5(a), eff. May 10, 1966, 80 Stat. 1609. |
-| 5315(18) | [Uncodified]. | 1966 Reorg. Plan No. 2, § 2 (last 20 words), eff. May 10, 1966, 80 Stat. 1609. |
-| 5315(21) | 5 App.: 2211(d)(21). | July 5, 1966, Pub. L. 89–492, § 3, 80 Stat. 262. |
-| 5315(30) | 5 App.: 2211(d)(30). | July 18, 1966, Pub. L. 89–504, § 408(b), 80 Stat. 299. |
-| 5315(87), (88). | 42: 3533(a) (as applicable to compensation of four Assistant Secretaries and General Counsel). | Sept. 9, 1965, Pub. L. 89–174, § 4(a) (as applicable to compensation of four Assistant Secretaries and General Counsel), 79 Stat. 668. |
-| 5315(89) | 22: 2083(a) (1st sentence, less 1st 20 words). | Feb. 19, 1966, Pub. L. 89–355, § 3(a) (1st sentence, less 1st 20 words), 80 Stat. 6. |
+| 5315(12) | 5 App.: 2211(d)(12). | Aug. 26, 1965, Pub. L. 89–136, § 601(b), 79 Stat. 569. |
+| 5315(17) | 5 App.: 2211(d)(17). | Aug. 9, 1965, Pub. L. 89–115, § 4(c) (words before semicolon), 79 Stat. 449. Oct. 2, 1965, Pub. L. 89–234, § 1(b) (last sentence), 79 Stat. 903. |
+|  | [Uncodified]. | 1966 Reorg. Plan No. 2, § 5(a), eff. May 10, 1966, 80 Stat. 1609. |
+| 5315(18) | [Uncodified]. | 1966 Reorg. Plan No. 2, § 2 (last 20 words), eff. May 10, 1966, 80 Stat. 1609. |
+| 5315(21) | 5 App.: 2211(d)(21). | July 5, 1966, Pub. L. 89–492, § 3, 80 Stat. 262. |
+| 5315(30) | 5 App.: 2211(d)(30). | July 18, 1966, Pub. L. 89–504, § 408(b), 80 Stat. 299. |
+| 5315(87), (88). | 42: 3533(a) (as applicable to compensation of four Assistant Secretaries and General Counsel). | Sept. 9, 1965, Pub. L. 89–174, § 4(a) (as applicable to compensation of four Assistant Secretaries and General Counsel), 79 Stat. 668. |
+| 5315(89) | 22: 2083(a) (1st sentence, less 1st 20 words). | Feb. 19, 1966, Pub. L. 89–355, § 3(a) (1st sentence, less 1st 20 words), 80 Stat. 6. |
 
 The deletion of paragraphs (25)–(28) of 5 U.S.C. 5315 reflects the abolition of the positions of “Commissioner, Community Facilities Administration”, “Commissioner, Federal Housing Administration”, “Commissioner, Public Housing Administration”, and “Commissioner, Urban Renewal Administration” by the act of September 9, 1965, Public Law 89–174, sections 5(a), 9(c), 79 Stat. 669, 671.
 
@@ -3965,7 +3965,7 @@ The redesignation of paragraphs (78) and (79), added by Public Law 89–734, and
 
 **References in Text**
 
-Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
 
 **Codification**
 
@@ -3979,19 +3979,19 @@ Amendment by Pub. L. 94–237 to formerly designated par. (95) of this section h
 
 2025—Pub. L. 119–60 substituted “Assistant Secretaries of Defense (20).” for “Assistant Secretaries of Defense (19).”
 
-2022—Pub. L. 117–263, § 5304(b)(1)(B), struck out item relating to Special Counsel of the Merit Systems Protection Board.
+2022—Pub. L. 117–263, § 5304(b)(1)(B), struck out item relating to Special Counsel of the Merit Systems Protection Board.
 
-Pub. L. 117–263, § 901(b)(2), substituted “Assistant Secretaries of Defense (19).” for “Assistant Secretaries of Defense (14).”
+Pub. L. 117–263, § 901(b)(2), substituted “Assistant Secretaries of Defense (19).” for “Assistant Secretaries of Defense (14).”
 
 Pub. L. 117–103 struck out item relating to Chief Information Officer of the Intelligence Community.
 
 2020—Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
-2019—Pub. L. 116–92, § 6403, inserted item relating to Director of the National Counterintelligence and Security Center.
+2019—Pub. L. 116–92, § 6403, inserted item relating to Director of the National Counterintelligence and Security Center.
 
-Pub. L. 116–92, § 1621(e)(2)(B), substituted “Deputy Under Secretary of Defense for Intelligence and Security” for “Deputy Under Secretary of Defense for Intelligence”.
+Pub. L. 116–92, § 1621(e)(2)(B), substituted “Deputy Under Secretary of Defense for Intelligence and Security” for “Deputy Under Secretary of Defense for Intelligence”.
 
-Pub. L. 116–92, § 956(b)(2), substituted “(5)” for “(4)” in item relating to Assistant Secretaries of the Air Force.
+Pub. L. 116–92, § 956(b)(2), substituted “(5)” for “(4)” in item relating to Assistant Secretaries of the Air Force.
 
 2018—Pub. L. 115–334 struck out item relating to Administrator, Rural Utilities Service, Department of Agriculture.
 
@@ -4009,9 +4009,9 @@ Pub. L. 113–76 inserted item relating to Administrator, Wage and Hour Division
 
 2012—Pub. L. 112–87 inserted item relating to Chief Information Officer of the Intelligence Community.
 
-2011—Pub. L. 111–383, § 901(n)(2)(A), struck out item relating to Director of Defense Research and Engineering.
+2011—Pub. L. 111–383, § 901(n)(2)(A), struck out item relating to Director of Defense Research and Engineering.
 
-Pub. L. 111–383, § 901(n)(1), substituted “(16)” for “(12)” in item relating to Assistant Secretaries of Defense.
+Pub. L. 111–383, § 901(n)(1), substituted “(16)” for “(12)” in item relating to Assistant Secretaries of Defense.
 
 Pub. L. 111–358 struck out item relating to Director, National Institute of Standards and Technology, Department of Commerce.
 
@@ -4031,19 +4031,19 @@ Pub. L. 110–343 substituted “(10)” for “(9)” in item relating to Assis
 
 2006—Pub. L. 109–435 substituted “Members, Postal Regulatory Commission (4)” for “Members, Postal Rate Commission (4)”.
 
-Pub. L. 109–364, § 942(a), inserted item relating to Deputy Under Secretary of Defense for Logistics and Materiel Readiness.
+Pub. L. 109–364, § 942(a), inserted item relating to Deputy Under Secretary of Defense for Logistics and Materiel Readiness.
 
-Pub. L. 109–364, § 901(b), substituted “(10)” for “(9)” in item relating to Assistant Secretaries of Defense.
+Pub. L. 109–364, § 901(b), substituted “(10)” for “(9)” in item relating to Assistant Secretaries of Defense.
 
 Pub. L. 109–295 inserted item relating to Chief Medical Officer, Department of Homeland Security.
 
-Pub. L. 109–177, § 506(a)(3), substituted “(11)” for “(10)” in item relating to Assistant Attorneys General.
+Pub. L. 109–177, § 506(a)(3), substituted “(11)” for “(10)” in item relating to Assistant Attorneys General.
 
 Pub. L. 109–163 struck out items relating to Under Secretary of the Air Force, Under Secretary of the Army, and Under Secretary of the Navy.
 
-2005—Pub. L. 109–58, § 1006(c)(3), substituted “(7)” for “(6)” in item relating to Assistant Secretaries of Energy.
+2005—Pub. L. 109–58, § 1006(c)(3), substituted “(7)” for “(6)” in item relating to Assistant Secretaries of Energy.
 
-Pub. L. 109–58, § 502(b)(2), inserted item relating to Director, Office of Indian Energy Policy and Programs, Department of Energy.
+Pub. L. 109–58, § 502(b)(2), inserted item relating to Director, Office of Indian Energy Policy and Programs, Department of Energy.
 
 2004—Pub. L. 108–458 inserted item relating to General Counsel of the Office of the National Intelligence Director and struck out item relating to Assistant Directors of Central Intelligence.
 
@@ -4053,11 +4053,11 @@ Pub. L. 108–447 struck out item relating to Members, Board of Directors of the
 
 Pub. L. 108–173 struck out item relating to Administrator of the Health Care Financing Administration.
 
-2002—Pub. L. 107–314, which directed the repeal of Pub. L. 107–107, § 901(c), was executed by substituting “(9)” for “(8)” in item relating to Assistant Secretaries of Defense to reflect the probable intent of Congress. See 2001 Amendment note below.
+2002—Pub. L. 107–314, which directed the repeal of Pub. L. 107–107, § 901(c), was executed by substituting “(9)” for “(8)” in item relating to Assistant Secretaries of Defense to reflect the probable intent of Congress. See 2001 Amendment note below.
 
-Pub. L. 107–296, § 1702(a)(5), struck out item relating to Commissioner of Immigration and Naturalization, Department of Justice.
+Pub. L. 107–296, § 1702(a)(5), struck out item relating to Commissioner of Immigration and Naturalization, Department of Justice.
 
-Pub. L. 107–296, § 1702(a)(4), inserted items relating to Assistant Secretaries, Department of Homeland Security, General Counsel, Department of Homeland Security, Officer for Civil Rights and Civil Liberties, Department of Homeland Security, Chief Financial Officer, Department of Homeland Security, Chief Information Officer, Department of Homeland Security, and Inspector General, Department of Homeland Security.
+Pub. L. 107–296, § 1702(a)(4), inserted items relating to Assistant Secretaries, Department of Homeland Security, General Counsel, Department of Homeland Security, Officer for Civil Rights and Civil Liberties, Department of Homeland Security, Chief Financial Officer, Department of Homeland Security, Chief Information Officer, Department of Homeland Security, and Inspector General, Department of Homeland Security.
 
 Pub. L. 107–287 substituted “(7)” for “(6)” in item relating to Assistant Secretaries, Department of Veterans Affairs.
 
@@ -4065,79 +4065,79 @@ Pub. L. 107–279 struck out item relating to Commissioner, National Center for 
 
 Pub. L. 107–189 inserted item relating to Inspector General, Export-Import Bank.
 
-Pub. L. 107–171, § 10704(b), substituted “(3)” for “(2)” in item relating to Assistant Secretaries of Agriculture.
+Pub. L. 107–171, § 10704(b), substituted “(3)” for “(2)” in item relating to Assistant Secretaries of Agriculture.
 
-Pub. L. 107–171, § 6201(d)(1), struck out item relating to Executive Director of the Alternative Agricultural Research and Commercialization Corporation.
+Pub. L. 107–171, § 6201(d)(1), struck out item relating to Executive Director of the Alternative Agricultural Research and Commercialization Corporation.
 
-2001—Pub. L. 107–107, § 3141(b), inserted item relating to Principal Deputy Administrator, National Nuclear Security Administration and inserted “Additional” before “Deputy Administrators of the National Nuclear Security Administration”.
+2001—Pub. L. 107–107, § 3141(b), inserted item relating to Principal Deputy Administrator, National Nuclear Security Administration and inserted “Additional” before “Deputy Administrators of the National Nuclear Security Administration”.
 
-Pub. L. 107–107, § 901(c)(2), which substituted “(8)” for “(9)” in item relating to Assistant Secretaries of Defense, was repealed by Pub. L. 107–314. See 2002 Amendment note above.
+Pub. L. 107–107, § 901(c)(2), which substituted “(8)” for “(9)” in item relating to Assistant Secretaries of Defense, was repealed by Pub. L. 107–314. See 2002 Amendment note above.
 
-Pub. L. 107–107, § 901(b), inserted item relating to Deputy Under Secretary of Defense for Personnel and Readiness.
+Pub. L. 107–107, § 901(b), inserted item relating to Deputy Under Secretary of Defense for Personnel and Readiness.
 
 2000—Pub. L. 106–422 inserted item relating to Inspector General, Tennessee Valley Authority.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4720(b)], inserted item relating to Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the United States Patent and Trademark Office.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4720(b)], inserted item relating to Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the United States Patent and Trademark Office.
 
-Pub. L. 106–113, § 1000(a)(5) [title II, § 238(a)(1)], struck out “Commissioner of Customs, Department of the Treasury”.
+Pub. L. 106–113, § 1000(a)(5) [title II, § 238(a)(1)], struck out “Commissioner of Customs, Department of the Treasury”.
 
-Pub. L. 106–65, § 3294(a)(1), substituted “(6)” for “(8)” in item relating to Assistant Secretaries of Energy.
+Pub. L. 106–65, § 3294(a)(1), substituted “(6)” for “(8)” in item relating to Assistant Secretaries of Energy.
 
-Pub. L. 106–65, § 3293(b), inserted item relating to Deputy Administrators of the National Nuclear Security Administration.
+Pub. L. 106–65, § 3293(b), inserted item relating to Deputy Administrators of the National Nuclear Security Administration.
 
 1998—Pub. L. 105–368 struck out item relating to Director of the National Cemetery System.
 
-Pub. L. 105–277, § 2305(b)(2), which directed the substitution of “Assistant Secretaries of State (24)” for “Assistant Secretaries of State (20)”, was executed by making the substitution for “20 Assistant Secretaries of State” in item relating to Assistant Secretaries of State and 4 other State Department officials to be appointed by the President, by and with the advice and consent of the Senate, to reflect the probable intent of Congress.
+Pub. L. 105–277, § 2305(b)(2), which directed the substitution of “Assistant Secretaries of State (24)” for “Assistant Secretaries of State (20)”, was executed by making the substitution for “20 Assistant Secretaries of State” in item relating to Assistant Secretaries of State and 4 other State Department officials to be appointed by the President, by and with the advice and consent of the Senate, to reflect the probable intent of Congress.
 
-Pub. L. 105–277, § 1332(2), struck out item relating to Deputy Director of the United States Information Agency and substituted “Director of the International Broadcasting Bureau.” for “Director of the International Broadcasting Bureau, the United States Information Agency.”
+Pub. L. 105–277, § 1332(2), struck out item relating to Deputy Director of the United States Information Agency and substituted “Director of the International Broadcasting Bureau.” for “Director of the International Broadcasting Bureau, the United States Information Agency.”
 
-Pub. L. 105–277, § 1314(c), struck out item relating to Inspector General, United States Information Agency.
+Pub. L. 105–277, § 1314(c), struck out item relating to Inspector General, United States Information Agency.
 
-Pub. L. 105–277, § 1224(3), struck out item relating to Assistant Directors, United States Arms Control and Disarmament Agency (4) and substituted “Special Representatives of the President for arms control, nonproliferation, and disarmament matters, Department of State” for “Special Representatives of the President for arms control, nonproliferation, and disarmament matters, United States Arms Control and Disarmament Agency”.
+Pub. L. 105–277, § 1224(3), struck out item relating to Assistant Directors, United States Arms Control and Disarmament Agency (4) and substituted “Special Representatives of the President for arms control, nonproliferation, and disarmament matters, Department of State” for “Special Representatives of the President for arms control, nonproliferation, and disarmament matters, United States Arms Control and Disarmament Agency”.
 
-Pub. L. 105–277, § 101(a) [title X, § 1003], substituted “Assistant Secretaries of Agriculture (2)” for “Assistant Secretaries of Agriculture (3)”.
+Pub. L. 105–277, § 101(a) [title X, § 1003], substituted “Assistant Secretaries of Agriculture (2)” for “Assistant Secretaries of Agriculture (3)”.
 
 Pub. L. 105–261 substituted “(9)” for “(10)” in item relating to Assistant Secretaries of Defense.
 
 Pub. L. 105–245 substituted “Director, Office of Science, Department of Energy” for “Director, Office of Energy Research, Department of Energy”.
 
-1997—Pub. L. 105–85, § 3550(b), struck out item relating to Administrator of the Panama Canal Commission.
+1997—Pub. L. 105–85, § 3550(b), struck out item relating to Administrator of the Panama Canal Commission.
 
-Pub. L. 105–85, § 1073(e)(1), inserted “the” before “Interior” in item relating to Chief Information Officer of Department of the Interior and before “Treasury” in item relating to Chief Information Officer of Department of the Treasury.
+Pub. L. 105–85, § 1073(e)(1), inserted “the” before “Interior” in item relating to Chief Information Officer of Department of the Interior and before “Treasury” in item relating to Chief Information Officer of Department of the Treasury.
 
 1996—Pub. L. 104–293 inserted items relating to Assistant Directors of Central Intelligence and General Counsel of Central Intelligence Agency.
 
-Pub. L. 104–208, § 101(f) [title VI, § 662(c)(1)], inserted item relating to Inspector General, United States Postal Service.
+Pub. L. 104–208, § 101(f) [title VI, § 662(c)(1)], inserted item relating to Inspector General, United States Postal Service.
 
-Pub. L. 104–208, § 101(e) [title VII, § 709(b)(1)], substituted “Museum and Library Services” for “Museum Services” after “Director of the Institute of”.
+Pub. L. 104–208, § 101(e) [title VII, § 709(b)(1)], substituted “Museum and Library Services” for “Museum Services” after “Director of the Institute of”.
 
 Pub. L. 104–127 inserted item relating to Executive Director of the Alternative Agricultural Research and Commercialization Corporation.
 
-Pub. L. 104–106, § 5125(e), inserted items relating to Chief Information Officer of Departments of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, Treasury, and Veterans Affairs and Chief Information Officer of Environmental Protection Agency, National Aeronautics and Space Administration, Agency for International Development, Federal Emergency Management Agency, General Services Administration, National Science Foundation, Nuclear Regulatory Agency, Office of Personnel Management, and Small Business Administration.
+Pub. L. 104–106, § 5125(e), inserted items relating to Chief Information Officer of Departments of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, Treasury, and Veterans Affairs and Chief Information Officer of Environmental Protection Agency, National Aeronautics and Space Administration, Agency for International Development, Federal Emergency Management Agency, General Services Administration, National Science Foundation, Nuclear Regulatory Agency, Office of Personnel Management, and Small Business Administration.
 
-Pub. L. 104–106, § 902(b), substituted “(10)” for “(11)” in item relating to Assistant Secretaries of Defense.
+Pub. L. 104–106, § 902(b), substituted “(10)” for “(11)” in item relating to Assistant Secretaries of Defense.
 
 Pub. L. 104–105 struck out item relating to Members, Board of Directors of the Farm Credit System Insurance Corporation.
 
 1995—Pub. L. 104–88 substituted “Members, Surface Transportation Board” for “Members, Interstate Commerce Commission”.
 
-1994—Pub. L. 103–354, §§ 218(d), 232(b)(2), formerly 232(b)(3), Oct. 13, 1994, 108 Stat. 3212, 3219, as renumbered by Pub. L. 112–166, § 2(a)(2)(C), Aug. 10, 2012, 126 Stat. 1283, substituted “(3)” for “(7)” in item relating to Assistant Secretaries of Agriculture and inserted item relating to Administrator, Rural Utilities Service, Department of Agriculture.
+1994—Pub. L. 103–354, §§ 218(d), 232(b)(2), formerly 232(b)(3), Oct. 13, 1994, 108 Stat. 3212, 3219, as renumbered by Pub. L. 112–166, § 2(a)(2)(C), Aug. 10, 2012, 126 Stat. 1283, substituted “(3)” for “(7)” in item relating to Assistant Secretaries of Agriculture and inserted item relating to Administrator, Rural Utilities Service, Department of Agriculture.
 
 Pub. L. 103–337 substituted “(11)” for “(10)” in item relating to Assistant Secretaries of Defense.
 
 Pub. L. 103–333 inserted item relating to Commissioner of Labor Statistics, Department of Labor.
 
-Pub. L. 103–296, § 108(e)(3), inserted item relating to Inspector General, Social Security Administration.
+Pub. L. 103–296, § 108(e)(3), inserted item relating to Inspector General, Social Security Administration.
 
-Pub. L. 103–296, § 106(a)(7)(B), struck out item relating to Commissioner of Social Security, Department of Health and Human Services.
+Pub. L. 103–296, § 106(a)(7)(B), struck out item relating to Commissioner of Social Security, Department of Health and Human Services.
 
 Pub. L. 103–272 substituted “Saint” for “St.” in item relating to Administrator of Saint Lawrence Seaway Development Corporation.
 
-Pub. L. 103–236, § 708(b), substituted “Special Representatives of the President for arms control, nonproliferation, and disarmament matters, United States Arms Control and Disarmament Agency” for “Special Representatives for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency (2)”.
+Pub. L. 103–236, § 708(b), substituted “Special Representatives of the President for arms control, nonproliferation, and disarmament matters, United States Arms Control and Disarmament Agency” for “Special Representatives for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency (2)”.
 
-Pub. L. 103–236, § 307(b)(2), inserted item relating to Director of the International Broadcasting Bureau, United States Information Agency.
+Pub. L. 103–236, § 307(b)(2), inserted item relating to Director of the International Broadcasting Bureau, United States Information Agency.
 
-Pub. L. 103–236, § 162(d)(2), directed insertion of item relating to 20 Assistant Secretaries of State and 4 other State Department Officials to be appointed by the President, and struck out “Assistant Secretaries of State (15).”, “Legal Adviser of the Department of State.”, “Chief of Protocol, Department of State.”, “Assistant Secretary for Oceans and International Environmental and Scientific Affairs, Department of State.”, “Assistant Secretary for International Narcotics Matters, Department of State.”, and “Assistant Secretary for South Asian Affairs, Department of State.” New item was inserted in lieu of “Assistant Secretaries of State (15).” to reflect the probable intent of Congress.
+Pub. L. 103–236, § 162(d)(2), directed insertion of item relating to 20 Assistant Secretaries of State and 4 other State Department Officials to be appointed by the President, and struck out “Assistant Secretaries of State (15).”, “Legal Adviser of the Department of State.”, “Chief of Protocol, Department of State.”, “Assistant Secretary for Oceans and International Environmental and Scientific Affairs, Department of State.”, “Assistant Secretary for International Narcotics Matters, Department of State.”, and “Assistant Secretary for South Asian Affairs, Department of State.” New item was inserted in lieu of “Assistant Secretaries of State (15).” to reflect the probable intent of Congress.
 
 Pub. L. 103–227 inserted item relating to Director of the Office of Educational Technology.
 
@@ -4155,11 +4155,11 @@ Pub. L. 102–359 substituted “(10)” for “(6)” in item relating to Assis
 
 Pub. L. 102–325 inserted item relating to Liaison for Community and Junior Colleges, Department of Education.
 
-1991—Pub. L. 102–190, § 3504(a), inserted item relating to Administrator of the Panama Canal Commission.
+1991—Pub. L. 102–190, § 3504(a), inserted item relating to Administrator of the Panama Canal Commission.
 
-Pub. L. 102–190, § 903(a)(1), inserted items relating to General Counsels of the Departments of the Army, Navy, and Air Force.
+Pub. L. 102–190, § 903(a)(1), inserted items relating to General Counsels of the Departments of the Army, Navy, and Air Force.
 
-Pub. L. 102–190, § 901(b), inserted item relating to Deputy Under Secretary of Defense for Policy.
+Pub. L. 102–190, § 901(b), inserted item relating to Deputy Under Secretary of Defense for Policy.
 
 Pub. L. 102–183 inserted item relating to Inspector General of Central Intelligence Agency.
 
@@ -4177,17 +4177,17 @@ Pub. L. 101–319 inserted item relating to Chairman, United States Parole Commi
 
 1989—Pub. L. 101–189 substituted “(4)” for “(3)” in item relating to Assistant Secretaries of the Air Force.
 
-Pub. L. 101–73, § 742(a)(2), substituted “Directors, Federal Housing Finance Board” for “Members, Federal Home Loan Bank Board”.
+Pub. L. 101–73, § 742(a)(2), substituted “Directors, Federal Housing Finance Board” for “Members, Federal Home Loan Bank Board”.
 
-Pub. L. 101–73, § 501(b)(2)(A), inserted item relating to Inspector General, Resolution Trust Corporation.
+Pub. L. 101–73, § 501(b)(2)(A), inserted item relating to Inspector General, Resolution Trust Corporation.
 
-1988—Pub. L. 100–690, § 7608(e), inserted item relating to Director, United States Marshals Service.
+1988—Pub. L. 100–690, § 7608(e), inserted item relating to Director, United States Marshals Service.
 
-Pub. L. 100–690, § 7252(b)(3), inserted item relating to Administrator, Office of Juvenile Justice and Delinquency Prevention.
+Pub. L. 100–690, § 7252(b)(3), inserted item relating to Administrator, Office of Juvenile Justice and Delinquency Prevention.
 
-Pub. L. 100–690, § 1007(c)(4), struck out item relating to Deputy Director of Office of Drug Abuse Policy.
+Pub. L. 100–690, § 1007(c)(4), struck out item relating to Deputy Director of Office of Drug Abuse Policy.
 
-Pub. L. 100–690, §§ 1003(a)(4)(C), 1009, temporarily inserted item relating to Associate Director for National Drug Control Policy, Office of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
+Pub. L. 100–690, §§ 1003(a)(4)(C), 1009, temporarily inserted item relating to Associate Director for National Drug Control Policy, Office of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
 
 Pub. L. 100–687 inserted item relating to Chairman, Board of Veterans’ Appeals.
 
@@ -4201,9 +4201,9 @@ Pub. L. 100–504 inserted items relating to Inspector General for Departments o
 
 Pub. L. 100–485 substituted “(5)” for “(4)” in item relating to Assistant Secretaries of Health and Human Services.
 
-Pub. L. 100–418, § 5112(c)(2), substituted “Director, National Institute of Standards and Technology, Department of Commerce” for “Director, National Bureau of Standards, Department of Commerce”.
+Pub. L. 100–418, § 5112(c)(2), substituted “Director, National Institute of Standards and Technology, Department of Commerce” for “Director, National Bureau of Standards, Department of Commerce”.
 
-Pub. L. 100–418, § 2301(h), inserted item relating to Assistant Secretary of Commerce and Director General of United States and Foreign Commercial Service.
+Pub. L. 100–418, § 2301(h), inserted item relating to Assistant Secretary of Commerce and Director General of United States and Foreign Commercial Service.
 
 Pub. L. 100–297 inserted item relating to Commissioner, National Center for Education Statistics.
 
@@ -4215,17 +4215,17 @@ Pub. L. 99–659 substituted “Assistant Secretary of Commerce for Oceans and A
 
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended section identically, inserting item relating to Director of Defense Research and Engineering.
 
-Pub. L. 99–399, § 104(c), substituted “(15)” for “(14)” in item relating to Assistant Secretaries of State.
+Pub. L. 99–399, § 104(c), substituted “(15)” for “(14)” in item relating to Assistant Secretaries of State.
 
-Pub. L. 99–399, §§ 412(c), 413(e), formerly § 413(a)(5), as renumbered by Pub. L. 100–204, § 134(b), inserted items relating to Inspector General, United States Information Agency, and Inspector General, Department of State.
+Pub. L. 99–399, §§ 412(c), 413(e), formerly § 413(a)(5), as renumbered by Pub. L. 100–204, § 134(b), inserted items relating to Inspector General, United States Information Agency, and Inspector General, Department of State.
 
-1985—Pub. L. 99–93, § 704(a)(2)(A), struck out item relating to Deputy Director of United States Arms Control and Disarmament Agency.
+1985—Pub. L. 99–93, § 704(a)(2)(A), struck out item relating to Deputy Director of United States Arms Control and Disarmament Agency.
 
-Pub. L. 99–93, § 704(a)(2)(B), inserted item relating to Assistant Directors, United States Arms Control and Disarmament Agency (4).
+Pub. L. 99–93, § 704(a)(2)(B), inserted item relating to Assistant Directors, United States Arms Control and Disarmament Agency (4).
 
-Pub. L. 99–93, § 115(b)(1), struck out item relating to Director, Bureau of Intelligence and Research, Department of State.
+Pub. L. 99–93, § 115(b)(1), struck out item relating to Director, Bureau of Intelligence and Research, Department of State.
 
-Pub. L. 99–93, § 115(b)(2), substituted “(14)” for “(13)” in item relating to Assistant Secretaries of State.
+Pub. L. 99–93, § 115(b)(2), substituted “(14)” for “(13)” in item relating to Assistant Secretaries of State.
 
 Pub. L. 99–73 inserted item relating to Director, National Bureau of Standards, Department of Commerce.
 
@@ -4233,9 +4233,9 @@ Pub. L. 99–64 substituted “(11)” for “(8)” in item relating to Assista
 
 1984—Pub. L. 98–594 substituted “(7)” for “(5)” in item relating to Assistant Secretaries of the Treasury.
 
-Pub. L. 98–473, § 1701(b), struck out items relating to United States Attorney for Southern District of New York, United States Attorney for District of Columbia, United States Attorney for Northern District of Illinois, and United States Attorney for Central District of California.
+Pub. L. 98–473, § 1701(b), struck out items relating to United States Attorney for Southern District of New York, United States Attorney for District of Columbia, United States Attorney for Northern District of Illinois, and United States Attorney for Central District of California.
 
-Pub. L. 98–473, § 609J(b), struck out item relating to Administrator of Law Enforcement Assistance.
+Pub. L. 98–473, § 609J(b), struck out item relating to Administrator of Law Enforcement Assistance.
 
 Pub. L. 98–443 struck out item relating to members of Civil Aeronautics Board.
 
@@ -4243,19 +4243,19 @@ Pub. L. 98–369 inserted item relating to Administrator of Health Care Financin
 
 Pub. L. 98–216 substituted “Assistant Directors of Office of Management and Budget (3)” for “Assistant Directors of the Bureau of the Budget (3)”.
 
-1983—Pub. L. 98–202, § 6(b)(1), inserted item relating to two Special Representatives for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency.
+1983—Pub. L. 98–202, § 6(b)(1), inserted item relating to two Special Representatives for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency.
 
-Pub. L. 98–202, § 6(b)(2), struck out item relating to Special Representative for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency.
+Pub. L. 98–202, § 6(b)(2), struck out item relating to Special Representative for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency.
 
 Pub. L. 98–164 struck out item relating to Counselor of Department of State.
 
-Pub. L. 98–94, § 1212(d)(1), substituted “(11)” for “(7)” in item relating to Assistant Secretaries of Defense.
+Pub. L. 98–94, § 1212(d)(1), substituted “(11)” for “(7)” in item relating to Assistant Secretaries of Defense.
 
-Pub. L. 98–94, § 1212(d)(2), substituted “(5)” for “(4)” in item relating to Assistant Secretaries of the Army.
+Pub. L. 98–94, § 1212(d)(2), substituted “(5)” for “(4)” in item relating to Assistant Secretaries of the Army.
 
-Pub. L. 98–94, § 1212(d)(3), substituted “(4)” for “(3)” in item relating to Assistant Secretaries of the Navy.
+Pub. L. 98–94, § 1212(d)(3), substituted “(4)” for “(3)” in item relating to Assistant Secretaries of the Navy.
 
-Pub. L. 98–94, § 1211(b), inserted item relating to Director of Operational Test and Evaluation, Department of Defense.
+Pub. L. 98–94, § 1211(b), inserted item relating to Director of Operational Test and Evaluation, Department of Defense.
 
 Pub. L. 98–80 inserted items relating to Assistant Administrator for Toxic Substances, Environmental Protection Agency, Assistant Administrator, Office of Solid Waste, Environmental Protection Agency, and eight Assistant Administrators, Environmental Protection Agency.
 
@@ -4279,55 +4279,55 @@ Pub. L. 96–302 inserted item relating to Chief Counsel for Advocacy, Small Bus
 
 1979—Pub. L. 96–157 inserted items relating to Administrator of Law Enforcement Assistance, Director of National Institute of Justice, and Director of Bureau of Justice Statistics, and struck out items relating to Deputy Administrator for Policy Development and Deputy Administrator for Administration of Law Enforcement Assistance Administration.
 
-Pub. L. 96–88, § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in items relating to General Counsel of Department of Health and Human Services, Commissioner of Social Security, Department of Health and Human Services, and Inspector General, Department of Health and Human Services.
+Pub. L. 96–88, § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in items relating to General Counsel of Department of Health and Human Services, Commissioner of Social Security, Department of Health and Human Services, and Inspector General, Department of Health and Human Services.
 
 Pars. (1) to (128). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
 
 Pars. (13) to (16). Pub. L. 96–107 in par. (13), relating to Assistant Secretaries of Defense, substituted “(7)” for “(9)”, par. (14), relating to Assistant Secretaries of the Air Force, “(3)” for “(4)”, par. (15), relating to Assistant Secretaries of the Army, “(4)” for “(5)”, and par. (16), relating to Assistant Secretaries of the Navy, “(3)” for “(4)”.
 
-Par. (17). Pub. L. 96–88, § 508(e)(1), substituted “(4)” for “(5)” and “Health and Human Services” for “Health, Education, and Welfare” in par. (17) relating to Assistant Secretaries of Health and Human Services. See Codification note above.
+Par. (17). Pub. L. 96–88, § 508(e)(1), substituted “(4)” for “(5)” and “Health and Human Services” for “Health, Education, and Welfare” in par. (17) relating to Assistant Secretaries of Health and Human Services. See Codification note above.
 
 Par. (19). Pub. L. 96–132 in par. (19), relating to Assistant Attorneys General, increased authorized number from nine to ten.
 
 Par. (24). Pub. L. 96–39 inserted “(5)” at end of par. (24) relating to Members, United States International Trade Commission.
 
-Pars. (25) to (27). Pub. L. 96–88, § 508(e)(2), added pars. (25) to (27) relating to Assistant Secretaries of Education (6), General Counsel, Department of Education, and Inspector General, Department of Education, respectively. See Codification note above.
+Pars. (25) to (27). Pub. L. 96–88, § 508(e)(2), added pars. (25) to (27) relating to Assistant Secretaries of Education (6), General Counsel, Department of Education, and Inspector General, Department of Education, respectively. See Codification note above.
 
 Par. (91). Pub. L. 96–153 substituted “Federal Emergency Management Agency” for “Department of Housing and Urban Development” in par. (91), relating to Federal Insurance Administrator, Federal Emergency Management Agency.
 
 Par. (128). Pub. L. 96–53 added par. (128) relating to Deputy Director, Institute for Scientific and Technological Cooperation.
 
-1978—Par. (10). Pub. L. 95–426, § 114(b)(2), struck out par. (10) relating to Deputy Under Secretary of State.
+1978—Par. (10). Pub. L. 95–426, § 114(b)(2), struck out par. (10) relating to Deputy Under Secretary of State.
 
-Par. (66). Pub. L. 95–454, § 202(c)(2), substituted “Merit Systems Protection Board” for “United States Civil Service Commission”.
+Par. (66). Pub. L. 95–454, § 202(c)(2), substituted “Merit Systems Protection Board” for “United States Civil Service Commission”.
 
 Par. (93). Pub. L. 95–630 substituted “Members, National Credit Union Administration Board (2)” for “Administrator of the National Credit Union Administration”.
 
 Par. (122). Pub. L. 95–452 added par. (122) relating to Inspector General, Department of Health, Education, and Welfare.
 
-Pub. L. 95–426, § 115(b)(1), added par. (122) relating to Assistant Secretary for International Narcotics Matters, Department of State.
+Pub. L. 95–426, § 115(b)(1), added par. (122) relating to Assistant Secretary for International Narcotics Matters, Department of State.
 
 Pub. L. 95–351 added par. (122) relating to President, National Consumer Cooperative Bank.
 
-Par. (123). Pub. L. 95–454, § 202(c)(3), added par. (123) relating to Special Counsel of Merit Systems Protection Board.
+Par. (123). Pub. L. 95–454, § 202(c)(3), added par. (123) relating to Special Counsel of Merit Systems Protection Board.
 
 Pub. L. 95–452 added par. (123) relating to Inspector General, Department of Agriculture.
 
 Pub. L. 95–351 added par. (123) relating to Director, Office of Self-Help Development and Technical Assistance, National Consumer Cooperative Bank.
 
-Par. (124). Pub. L. 95–454, § 703(d), added par. (124) relating to Chairman of Federal Labor Relations Authority.
+Par. (124). Pub. L. 95–454, § 703(d), added par. (124) relating to Chairman of Federal Labor Relations Authority.
 
 Pub. L. 95–452 added par. (124) relating to Inspector General, Department of Housing and Urban Development.
 
 Pars. (125) to (127). Pub. L. 95–452 added pars. (125) to (127) relating to Inspectors General for Department of Labor, Department of Transportation, and Veterans’ Administration, respectively.
 
-1977—Par. (1). Pub. L. 95–105, § 109(d)(1), struck out par. (1) relating to Administrator, Bureau of Security and Consular Affairs, Department of State.
+1977—Par. (1). Pub. L. 95–105, § 109(d)(1), struck out par. (1) relating to Administrator, Bureau of Security and Consular Affairs, Department of State.
 
 Par. (12). Pub. L. 95–173 substituted “(8)” for “(6)” in par. (12) relating to Assistant Secretaries of Commerce.
 
-Par. (22). Pub. L. 95–105, § 109(d)(2), substituted “(13)” for “(11)” in par. (22) relating to Assistant Secretaries of State.
+Par. (22). Pub. L. 95–105, § 109(d)(2), substituted “(13)” for “(11)” in par. (22) relating to Assistant Secretaries of State.
 
-Par. (50). Pub. L. 95–108 added par. (50) relating to Special Representative for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency. A prior par. (50), relating to General Manager of Atomic Energy Commission, was repealed by Pub. L. 93–438, title III, § 310(3), Oct. 11, 1974, 88 Stat. 1253.
+Par. (50). Pub. L. 95–108 added par. (50) relating to Special Representative for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency. A prior par. (50), relating to General Manager of Atomic Energy Commission, was repealed by Pub. L. 93–438, title III, § 310(3), Oct. 11, 1974, 88 Stat. 1253.
 
 Pars. (52), (53). Pub. L. 95–88 struck out par. (52) relating to Inspector General, Foreign Assistance, and par. (53) relating to Deputy Inspector General, Foreign Assistance.
 
@@ -4367,7 +4367,7 @@ Pars. (93) to (107). Pub. L. 94–183 redesignated par. (92) Administrator of th
 
 Par. (87). Pub. L. 93–383 increased number of Assistant Secretaries of Housing and Urban Development from 6 to 8.
 
-Par. (99). Pub. L. 93–126, § 9(b), as added by Pub. L. 93–312, added par. (99) relating to Assistant Secretary for Oceans and International Environmental and Scientific Affairs, Department of State.
+Par. (99). Pub. L. 93–126, § 9(b), as added by Pub. L. 93–312, added par. (99) relating to Assistant Secretary for Oceans and International Environmental and Scientific Affairs, Department of State.
 
 Par. (100). Pub. L. 93–463 added par. (100) relating to Members, Commodity Futures Trading Commission.
 
@@ -4383,13 +4383,13 @@ Pars. (101) to (104). Pub. L. 93–438 added pars. (101) to (104) relating to Di
 
 Par. (11). Pub. L. 92–419 substituted “(4)” for “(3)” in par. (11) relating to Assistant Secretaries of Agriculture.
 
-Par. (23). Pub. L. 92–302, § 2(c)(1), substituted “(5)” for “(4)” in par. (23) relating to Assistant Secretaries of the Treasury.
+Par. (23). Pub. L. 92–302, § 2(c)(1), substituted “(5)” for “(4)” in par. (23) relating to Assistant Secretaries of the Treasury.
 
 Par. (72). Pub. L. 92–261 substituted “Members, Equal Employment Opportunity Commission (4)” for “Chairman, Equal Employment Opportunity Commission”.
 
 Par. (95). Pub. L. 92–255 added par. (95) relating to Deputy Director of Special Action Office for Drug Abuse Prevention.
 
-Par. (96). Pub. L. 92–302, § 2(c)(2), added par. (96) relating to Deputy Under Secretaries of the Treasury (or Assistant Secretaries of the Treasury) (2).
+Par. (96). Pub. L. 92–302, § 2(c)(2), added par. (96) relating to Deputy Under Secretaries of the Treasury (or Assistant Secretaries of the Treasury) (2).
 
 Par. (97). Pub. L. 92–603 added par. (97) relating to Commissioner of Social Security, Department of Health, Education, and Welfare.
 
@@ -4401,21 +4401,21 @@ Par. (18). Pub. L. 92–22 substituted “(6)” for “(5)” in par. (18) rela
 
 Par. (51). Pub. L. 92–181 struck out par. (51) relating to Governor of Farm Credit Administration.
 
-Par. (90). Pub. L. 91–644, § 7(1), (2), in amending section 505 of Pub. L. 90–351, struck out par. (90) “Administrator of Law Enforcement Assistance”, renumbered as par. (55) of section 5314 of this title, and renumbered par. (126) “Associate Administrator of Law Enforcement Assistance (2)” of section 5316 of this title as par. (90) of this section, respectively.
+Par. (90). Pub. L. 91–644, § 7(1), (2), in amending section 505 of Pub. L. 90–351, struck out par. (90) “Administrator of Law Enforcement Assistance”, renumbered as par. (55) of section 5314 of this title, and renumbered par. (126) “Associate Administrator of Law Enforcement Assistance (2)” of section 5316 of this title as par. (90) of this section, respectively.
 
 1970—Par. (12). Pub. L. 91–477 substituted “(6)” for “(5)” in par. (12) relating to Assistant Secretaries of Commerce. Pub. L. 91–469 also substituted “(6)” for “(5)” in par. (12). Thus, the correct figure in par. (12) presumably should be seven. See amendment of par. (12) by Pub. L. 95–173 above.
 
 Par. (15). Pub. L. 91–611 substituted “(5)” for “(4)” in par. (15) relating to Assistant Secretaries of the Army.
 
-Par. (20). Pub. L. 91–596, § 29(b), substituted “(5)” for “(4)” in par. (20) relating to Assistant Secretaries of Labor.
+Par. (20). Pub. L. 91–596, § 29(b), substituted “(5)” for “(4)” in par. (20) relating to Assistant Secretaries of Labor.
 
-Pars. (21), (45). Pub. L. 91–375, § 6(c)(14)(A), struck out pars. (21) and (45) relating to Assistant Postmasters General (6) and General Counsel of Post Office Department, respectively.
+Pars. (21), (45). Pub. L. 91–375, § 6(c)(14)(A), struck out pars. (21) and (45) relating to Assistant Postmasters General (6) and General Counsel of Post Office Department, respectively.
 
 Par. (92). Pub. L. 91–206 added par. (92) relating to Administrator of National Credit Union Administration.
 
-Par. (93). Pub. L. 91–375, § 6(c)(14)(B), added par. (93) relating to Members, Postal Rate Commission (4).
+Par. (93). Pub. L. 91–375, § 6(c)(14)(B), added par. (93) relating to Members, Postal Rate Commission (4).
 
-Par. (94). Pub. L. 91–596, § 12(c)(2), added par. (94) relating to Members, Occupational Safety and Health Review Commission.
+Par. (94). Pub. L. 91–596, § 12(c)(2), added par. (94) relating to Members, Occupational Safety and Health Review Commission.
 
 1969—Par. (13). Pub. L. 91–121 substituted “(8)” for “(7)” in par. (13) relating to Assistant Secretaries of Defense.
 
@@ -4423,11 +4423,11 @@ Par. (92). Pub. L. 91–175 added par. (92) relating to Executive Vice President
 
 1968—Pars. (14) to (16). Pub. L. 90–623 substituted “(4)” for “(3)” in pars. (14) to (16) relating to Assistant Secretaries of Air Force, Army, and Navy respectively.
 
-Par. (87). Pub. L. 90–448, § 1708(b), substituted “(6)” for “(4)” in par. (87) relating to Assistant Secretaries of Housing and Urban Development.
+Par. (87). Pub. L. 90–448, § 1708(b), substituted “(6)” for “(4)” in par. (87) relating to Assistant Secretaries of Housing and Urban Development.
 
 Par. (90). Pub. L. 90–351 added par. (90) relating to Administrator of Law Enforcement Assistance.
 
-Par. (91). Pub. L. 90–448, § 1105(b), added par. (91) relating to Federal Insurance Administrator, Department of Housing and Urban Development.
+Par. (91). Pub. L. 90–448, § 1105(b), added par. (91) relating to Federal Insurance Administrator, Department of Housing and Urban Development.
 
 1967—Pub. L. 90–206 increased annual rate of basic pay from $27,000 to $28,750.
 
@@ -4465,7 +4465,7 @@ Amendment by section 901 of Pub. L. 111–383 effective Jan. 1, 2011, see sectio
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–49, § 12, July 26, 2007, 121 Stat. 260, provided that: “The amendments made by this Act [amending this section, section 301 of Title 31, Money and Finance, and section 4565 of Title 50, War and National Defense] shall apply after the end of the 90-day period beginning on the date of enactment of this Act [July 26, 2007].”
+Pub. L. 110–49, § 12, July 26, 2007, 121 Stat. 260, provided that: “The amendments made by this Act [amending this section, section 301 of Title 31, Money and Finance, and section 4565 of Title 50, War and National Defense] shall apply after the end of the 90-day period beginning on the date of enactment of this Act [July 26, 2007].”
 
 **Effective Date of 2006 Amendment**
 
@@ -4485,17 +4485,17 @@ Amendment by Pub. L. 108–173 effective Jan. 1, 2004, see section 900(d)(3) of 
 
 **Effective Date of 2002 Amendments**
 
-Pub. L. 107–296, title XVII, § 1702(b), Nov. 25, 2002, 116 Stat. 2313, provided that: “Notwithstanding section 4 [enacting provisions set out as a note under section 101 of Title 6, Domestic Security], the amendment made by subsection (a)(5) [amending this section] shall take effect on the date on which the transfer of functions specified under section 441 [enacting section 251 of Title 6] takes effect.”
+Pub. L. 107–296, title XVII, § 1702(b), Nov. 25, 2002, 116 Stat. 2313, provided that: “Notwithstanding section 4 [enacting provisions set out as a note under section 101 of Title 6, Domestic Security], the amendment made by subsection (a)(5) [amending this section] shall take effect on the date on which the transfer of functions specified under section 441 [enacting section 251 of Title 6] takes effect.”
 
-Pub. L. 107–189, § 22(e), June 14, 2002, 116 Stat. 708, provided that: “The amendments made by this section [amending this section and sections 9 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to this title] shall take effect on October 1, 2002.”
+Pub. L. 107–189, § 22(e), June 14, 2002, 116 Stat. 708, provided that: “The amendments made by this section [amending this section and sections 9 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to this title] shall take effect on October 1, 2002.”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title IX, § 901(d), Dec. 28, 2001, 115 Stat. 1194, which provided that amendments made by Pub. L. 107–107, § 901(c) (amending this section and section 138 of Title 10, Armed Forces), were to take effect on the date on which a person was first appointed as Deputy Under Secretary of Defense for Personnel and Readiness, was repealed by Pub. L. 107–314, div. A, title IX, § 902(d), Dec. 2, 2002, 116 Stat. 2621.
+Pub. L. 107–107, div. A, title IX, § 901(d), Dec. 28, 2001, 115 Stat. 1194, which provided that amendments made by Pub. L. 107–107, § 901(c) (amending this section and section 138 of Title 10, Armed Forces), were to take effect on the date on which a person was first appointed as Deputy Under Secretary of Defense for Personnel and Readiness, was repealed by Pub. L. 107–314, div. A, title IX, § 902(d), Dec. 2, 2002, 116 Stat. 2621.
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–422, § 1(d), Nov. 1, 2000, 114 Stat. 1872, provided that:
+Pub. L. 106–422, § 1(d), Nov. 1, 2000, 114 Stat. 1872, provided that:
 
 > **“(1) In general.—** The amendments made by this section [see Tables for classification] shall take effect 30 days after the date of enactment of this Act [Nov. 1, 2000].
 
@@ -4507,9 +4507,9 @@ Pub. L. 106–422, § 1(d), Nov. 1, 2000, 114 Stat. 1872, provided that:
 
 **Effective Date of 1999 Amendments**
 
-Amendment by section 1000(a)(5) [title II, § 238(a)(1)] of Pub. L. 106–113 effective Jan. 1, 2000, see section 1000(a)(5) [title II, § 238(b)] of Pub. L. 106–113, set out as a note under section 5314 of this title.
+Amendment by section 1000(a)(5) [title II, § 238(a)(1)] of Pub. L. 106–113 effective Jan. 1, 2000, see section 1000(a)(5) [title II, § 238(b)] of Pub. L. 106–113, set out as a note under section 5314 of this title.
 
-Amendment by section 1000(a)(9) [title IV, § 4720(b)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by section 1000(a)(9) [title IV, § 4720(b)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under section 2401 of Title 50, War and National Defense.
 
@@ -4533,25 +4533,25 @@ Amendment by section 162(d)(2) of Pub. L. 103–236 applicable with respect to o
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–123, title I, § 108(b), Oct. 28, 1993, 107 Stat. 1234, provided that: “The amendments made by this section [amending this section and section 5316 of this title] shall take effect on the first applicable pay period after enactment [Oct. 28, 1993].”
+Pub. L. 103–123, title I, § 108(b), Oct. 28, 1993, 107 Stat. 1234, provided that: “The amendments made by this section [amending this section and section 5316 of this title] shall take effect on the first applicable pay period after enactment [Oct. 28, 1993].”
 
 **Effective Date of 1992 Amendments**
 
 Amendment by Pub. L. 102–552 effective Jan. 1, 1996, see section 201(c)(1) of Pub. L. 102–552, set out as an Effective Date of 1992 Amendment; Transitional Provision note under section 2277a–2 of Title 12, Banks and Banking.
 
-Pub. L. 102–359, § 2(b)(3), Aug. 26, 1992, 106 Stat. 962, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 5316 of this title] shall take effect on the first day of the first pay period that begins on or after the date of the enactment of this Act [Aug. 26, 1992].”
+Pub. L. 102–359, § 2(b)(3), Aug. 26, 1992, 106 Stat. 962, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 5316 of this title] shall take effect on the first day of the first pay period that begins on or after the date of the enactment of this Act [Aug. 26, 1992].”
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of Title 20, Education.
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–138, title I, § 122(d)(2), Oct. 28, 1991, 105 Stat. 659, which provided that the amendment to this section made by section 122(d)(1) of Pub. L. 102–138 would take effect on Oct. 1, 1991, was repealed by Pub. L. 119–60, div. E, title I, § 5153(b), Dec. 18, 2025, 139 Stat. 1580.
+Pub. L. 102–138, title I, § 122(d)(2), Oct. 28, 1991, 105 Stat. 659, which provided that the amendment to this section made by section 122(d)(1) of Pub. L. 102–138 would take effect on Oct. 1, 1991, was repealed by Pub. L. 119–60, div. E, title I, § 5153(b), Dec. 18, 2025, 139 Stat. 1580.
 
 **Effective Date of 1990 Amendments**
 
-Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 [title IV, § 403(a)] of Pub. L. 101–512, set out as a note under section 951 of Title 20, Education.
+Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 [title IV, § 403(a)] of Pub. L. 101–512, set out as a note under section 951 of Title 20, Education.
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective and Termination Dates of 1988 Amendments**
 
@@ -4559,15 +4559,15 @@ Amendment by sections 1003(a)(4)(C) and 1007(c)(4) of Pub. L. 100–690 effectiv
 
 Amendment by section 7252(b)(3) of Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 11101 of Title 34, Crime Control and Law Enforcement.
 
-Pub. L. 100–687, div. A, title II, § 201(b)(2), Nov. 18, 1988, 102 Stat. 4109, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect when the President first appoints an individual as Chairman of the Board of Veterans’ Appeals under section 4001(b)(1) [now 7101(b)(1)] of title 38, United States Code (as amended by subsection (a)).”
+Pub. L. 100–687, div. A, title II, § 201(b)(2), Nov. 18, 1988, 102 Stat. 4109, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect when the President first appoints an individual as Chairman of the Board of Veterans’ Appeals under section 4001(b)(1) [now 7101(b)(1)] of title 38, United States Code (as amended by subsection (a)).”
 
 Amendment by Pub. L. 100–679 effective Jan. 20, 1989, see section 11(e) of Pub. L. 100–679, set out as a note under section 5312 of this title.
 
 Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
-Pub. L. 100–504, title I, § 113, Oct. 18, 1988, 102 Stat. 2530, provided that: “This title and the amendments made by this title [see Tables for classification] shall take effect 180 days after the date of the enactment of this title [Oct. 18, 1988], except that [former] section 5(a)(6) through (12) of the Inspector General Act of 1978 (as amended by section 106(a) of this title) and [former] section 5(b)(1) through (4) of the Inspector General Act of 1978 (as amended by section 106(b) of this title) [see 5 U.S.C. 405(b)(6) to (12); (c)(1) to (4)] shall take effect 1 year after the date of the enactment of this title.”
+Pub. L. 100–504, title I, § 113, Oct. 18, 1988, 102 Stat. 2530, provided that: “This title and the amendments made by this title [see Tables for classification] shall take effect 180 days after the date of the enactment of this title [Oct. 18, 1988], except that [former] section 5(a)(6) through (12) of the Inspector General Act of 1978 (as amended by section 106(a) of this title) and [former] section 5(b)(1) through (4) of the Inspector General Act of 1978 (as amended by section 106(b) of this title) [see 5 U.S.C. 405(b)(6) to (12); (c)(1) to (4)] shall take effect 1 year after the date of the enactment of this title.”
 
-Pub. L. 100–485, title VI, § 603(c), Oct. 13, 1988, 102 Stat. 2409, provided that: “The amendments made by this section [amending this section and enacting section 617 of Title 42, The Public Health and Welfare] shall become effective on February 1, 1989.”
+Pub. L. 100–485, title VI, § 603(c), Oct. 13, 1988, 102 Stat. 2409, provided that: “The amendments made by this section [amending this section and enacting section 617 of Title 42, The Public Health and Welfare] shall become effective on February 1, 1989.”
 
 Amendment by Pub. L. 100–297 effective July 1, 1988, but with amendments authorizing appropriations for fiscal year 1988 effective Apr. 28, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of Title 20, Education.
 
@@ -4581,7 +4581,7 @@ Amendment by Pub. L. 99–619 applicable to incumbent Assistant Secretary of Lab
 
 **Effective Date of 1985 Amendments**
 
-Pub. L. 99–73, § 6(c), July 29, 1985, 99 Stat. 173, provided that: “The amendments made by this section [amending this section and section 5316 of this title and section 274 of Title 15, Commerce and Trade] shall be effective October 1, 1985.”
+Pub. L. 99–73, § 6(c), July 29, 1985, 99 Stat. 173, provided that: “The amendments made by this section [amending this section and section 5316 of this title and section 274 of Title 15, Commerce and Trade] shall be effective October 1, 1985.”
 
 Amendment by Pub. L. 99–64 effective Oct. 1, 1987, see section 116(d) of Pub. L. 99–64, set out as a note under section 5314 of this title.
 
@@ -4635,7 +4635,7 @@ Amendment by Pub. L. 95–452 effective Oct. 1, 1978, see section 12 of Pub. L. 
 
 Amendment by section 114(b)(2) of Pub. L. 95–426 effective Oct. 1, 1978, see section 114(c) of Pub. L. 95–426, set out as a note under section 5314 of this title.
 
-Pub. L. 95–426, title I, § 115(b)(2), Oct. 7, 1978, 92 Stat. 969, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title I, § 115(b)(2), Oct. 7, 1978, 92 Stat. 969, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect on October 1, 1978.”
 
 **Effective Date of 1977 Amendments**
 
@@ -4659,7 +4659,7 @@ Offices and salaries modified under amendment by Pub. L. 93–83, prospectively 
 
 **Effective Date of 1972 Amendments**
 
-Pub. L. 92–603, title IV, § 404(c), Oct. 30, 1972, 86 Stat. 1488, provided that: “The amendments made by the preceding provisions of this section [amending this section and section 5316 of this title] shall take effect on the first day of the first pay period of the Commissioner of Social Security, Department of Health, Education, and Welfare, which commences on or after the first day of the month which follows the month in which this Act is enacted [Oct. 30, 1972].”
+Pub. L. 92–603, title IV, § 404(c), Oct. 30, 1972, 86 Stat. 1488, provided that: “The amendments made by the preceding provisions of this section [amending this section and section 5316 of this title] shall take effect on the first day of the first pay period of the Commissioner of Social Security, Department of Health, Education, and Welfare, which commences on or after the first day of the month which follows the month in which this Act is enacted [Oct. 30, 1972].”
 
 Amendment by Pub. L. 92–302 effective May 18, 1972, see section 3 of Pub. L. 92–302, May 18, 1972, 86 Stat. 149.
 
@@ -4677,15 +4677,15 @@ Amendment by Pub. L. 90–206 effective at beginning of first pay period which b
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–180, § 1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act [amending this section and former sections 640d–11 and 640d–24 of Title 25, Indians, and enacting provisions formerly set out as notes under section 640d–11 of Title 25] may be cited as the ‘Navajo-Hopi Relocation Housing Program Reauthorization Act of 1991’.”
+Pub. L. 102–180, § 1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act [amending this section and former sections 640d–11 and 640d–24 of Title 25, Indians, and enacting provisions formerly set out as notes under section 640d–11 of Title 25] may be cited as the ‘Navajo-Hopi Relocation Housing Program Reauthorization Act of 1991’.”
 
 **Repeals**
 
-Pub. L. 93–496, § 16(c), Oct. 28, 1974, 88 Stat. 1533, cited as a credit to this section, was repealed by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2444.
+Pub. L. 93–496, § 16(c), Oct. 28, 1974, 88 Stat. 1533, cited as a credit to this section, was repealed by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2444.
 
 **Transfer of Functions**
 
@@ -4697,7 +4697,7 @@ For transfer of responsibilities of the Department of Homeland Security Chief In
 
 **Inspector General, United States Postal Service**
 
-Section 101(f) [title VI, § 662(c)(1)] of Pub. L. 104–208 provided in part that: “The amendment made by the preceding sentence [amending this section] shall apply notwithstanding section 410 or any other provision of title 39, United States Code.”
+Section 101(f) [title VI, § 662(c)(1)] of Pub. L. 104–208 provided in part that: “The amendment made by the preceding sentence [amending this section] shall apply notwithstanding section 410 or any other provision of title 39, United States Code.”
 
 **Compensation of Deputy Administrator of Drug Enforcement Administration**
 
@@ -4713,7 +4713,7 @@ Persons occupying a position under the Executive Schedule on May 18, 1972, and l
 
 **Associate Director of Federal Bureau of Investigation**
 
-Position of Associate Director of Federal Bureau of Investigation placed temporarily in level III during incumbency of incumbent on Aug. 14, 1964, by Pub. L. 88–426, Aug. 14, 1964, § 303(c)(46), 78 Stat. 417.
+Position of Associate Director of Federal Bureau of Investigation placed temporarily in level III during incumbency of incumbent on Aug. 14, 1964, by Pub. L. 88–426, Aug. 14, 1964, § 303(c)(46), 78 Stat. 417.
 
 **Salary Increases**
 
@@ -4733,9 +4733,9 @@ Office of Deputy Director of Office of Science and Technology abolished and func
 
 **Abolition of One Position of Assistant Administrator, Agency for International Development**
 
-One of the 6 positions of Assistant Administrator, Agency for International Development, provided for in this section, was abolished by Reorg. Plan No. 2 of 1979, § 7, 44 F.R. 41165, 93 Stat. 1378, set out in the Appendix to this title.
+One of the 6 positions of Assistant Administrator, Agency for International Development, provided for in this section, was abolished by Reorg. Plan No. 2 of 1979, § 7, 44 F.R. 41165, 93 Stat. 1378, set out in the Appendix to this title.
 
-### § 5316. Positions at level V
+### § 5316. Positions at level V
 
 Level V of the Executive Schedule applies to the following positions, for which the annual rate of basic pay shall be the rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title:
 
@@ -4883,7 +4883,7 @@ Commissioner, Administration on Children, Youth, and Families.
 
 Chairman of the Advisory Council on Historic Preservation.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 463; Pub. L. 89–670, § 10(d)(5), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, § 1(2), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, § 8(c)(2), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–9, § 6, Apr. 10, 1967, 81 Stat. 12; Pub. L. 90–83, § 1(16), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, § 215(c), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, § 506, June 19, 1968, 82 Stat. 205; Pub. L. 90–407, § 15(a)(3), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, § 1(4), (5), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–175, pt. V, § 503(3), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, § 6(c)(15), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–453, § 12, Oct. 15, 1970, 84 Stat. 968; Pub. L. 91–644, title I, § 7(2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, § 3, June 1, 1971, 85 Stat. 76; Pub. L. 92–255, title II, § 212(c), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, § 9(c), (d), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, § 2(d), May 18, 1972, 86 Stat. 149; Pub. L. 92–603, title IV, § 404(a), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 93–43, § 2(c), June 18, 1973, 87 Stat. 78; Pub. L. 93–74, § 8, July 23, 1973, 87 Stat. 175; Pub. L. 90–351, title I, § 506(b), as added Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–271, § 2, Apr. 22, 1974, 88 Stat. 92; Pub. L. 93–126, § 9(c), as added Pub. L. 93–312, § 9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, § 818(b), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–438, title III, § 310(4), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, § 102(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 93–618, title I, § 172(c)(3), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, § 202(b)(5), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–183, § 2(19), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–237, § 4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–307, § 7, June 4, 1976, 90 Stat. 681; Pub. L. 94–370, § 15(b), July 26, 1976, 90 Stat. 1032; Pub. L. 94–422, title II, § 202, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–503, title II, § 202(c), Oct. 15, 1976, 90 Stat. 2427; Pub. L. 94–561, § 3(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 94–582, § 26, Oct. 21, 1976, 90 Stat. 2889; Pub. L. 95–89, title II, § 209, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–91, title VII, § 710(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–115, § 3(a)(6), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 95–219, § 3(b), Dec. 28, 1977, 91 Stat. 1614; Pub. L. 95–452, § 10(b), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§ 201(b)(3), 202(c)(4), title VII, § 703(e), Oct. 13, 1978, 92 Stat. 1121, 1131, 1217; Pub. L. 95–521, title IV, § 406, Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–53, title IV, § 412(c), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, § 3302(e)(11), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–88, title V, § 508(f), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, § 820(e)(2), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–209, title I, § 109, Mar. 14, 1980, 94 Stat. 97; Pub. L. 96–466, title V, § 504(d), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–31, § 12(1)(C), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–113, title VII, § 705(b)(3), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 97–258, § 2(a), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 97–325, § 8(c), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, § 3(4), (5), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–557, § 26(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–73, § 6(b)(2), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title VII, § 704(a)(3), Aug. 16, 1985, 99 Stat. 446; Pub. L. 99–145, title XII, § 1204(c), Nov. 8, 1985, 99 Stat. 721; Pub. L. 99–383, § 7(b)(2), Aug. 21, 1986, 100 Stat. 814; Pub. L. 99–619, § 2(c)(2), (d), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, § 407(e)(3), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–180, div. A, title XII, § 1245(c), Dec. 4, 1987, 101 Stat. 1165; Pub. L. 100–504, title I, § 103(b), Oct. 18, 1988, 102 Stat. 2522; Pub. L. 100–527, § 13(g), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, § 8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–607, title V, § 503(b)(1), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–690, title VII, § 7252(b)(4), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 100–713, title VI, § 601(d), Nov. 23, 1988, 102 Stat. 4826; Pub. L. 101–319, §§ 3(b), 4, July 3, 1990, 104 Stat. 290, 291; Pub. L. 101–501, title IX, § 915(b)(1)(B), Nov. 3, 1990, 104 Stat. 1263; Pub. L. 101–509, title V, § 529 [title I, § 113(1)], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 102–190, div. A, title IX, § 903(a)(2), div. C, title XXXV, § 3504(b), Dec. 5, 1991, 105 Stat. 1451, 1586; Pub. L. 102–240, title III, § 3004(d)(2), title VI, § 6006(d), Dec. 18, 1991, 105 Stat. 2088, 2174; Pub. L. 102–359, § 2(b)(2), Aug. 26, 1992, 106 Stat. 962; Pub. L. 103–123, title I, § 108(a)(1), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–333, title I, § 106, Sept. 30, 1994, 108 Stat. 2549; Pub. L. 103–354, title II, § 294, Oct. 13, 1994, 108 Stat. 3237; Pub. L. 104–106, div. A, title IX, § 904(b)(2), Feb. 10, 1996, 110 Stat. 403; Pub. L. 104–201, div. A, title X, § 1073(e)(1)(A), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, § 1073(e)(2), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1224(4), title XIII, § 1332(3), Oct. 21, 1998, 112 Stat. 2681–772, 2681–785; Pub. L. 105–393, title I, § 103, Nov. 13, 1998, 112 Stat. 3617; Pub. L. 106–44, § 2(b), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(4)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–159, title I, § 101(d)(2), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 107–171, title X, § 10702(c)(2), May 13, 2002, 116 Stat. 517; Pub. L. 108–426, § 3(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–313, § 2(b), Oct. 6, 2006, 120 Stat. 1734; Pub. L. 111–383, div. A, title IX, § 901(n)(2)(B), (3), Jan. 7, 2011, 124 Stat. 4327; Pub. L. 113–76, div. H, title I, § 111(b), Jan. 17, 2014, 128 Stat. 362; Pub. L. 114–94, div. A, title VI, § 6011(d)(1)(C), Dec. 4, 2015, 129 Stat. 1570; Pub. L. 114–289, title V, § 501(c)(4), Dec. 16, 2016, 130 Stat. 1490; Pub. L. 115–254, div. F, title VI, § 1470(b)(3), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 463; Pub. L. 89–670, § 10(d)(5), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, § 1(2), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, § 8(c)(2), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–9, § 6, Apr. 10, 1967, 81 Stat. 12; Pub. L. 90–83, § 1(16), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, § 215(c), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, § 506, June 19, 1968, 82 Stat. 205; Pub. L. 90–407, § 15(a)(3), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, § 1(4), (5), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–175, pt. V, § 503(3), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, § 6(c)(15), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–453, § 12, Oct. 15, 1970, 84 Stat. 968; Pub. L. 91–644, title I, § 7(2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, § 3, June 1, 1971, 85 Stat. 76; Pub. L. 92–255, title II, § 212(c), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, § 9(c), (d), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, § 2(d), May 18, 1972, 86 Stat. 149; Pub. L. 92–603, title IV, § 404(a), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 93–43, § 2(c), June 18, 1973, 87 Stat. 78; Pub. L. 93–74, § 8, July 23, 1973, 87 Stat. 175; Pub. L. 90–351, title I, § 506(b), as added Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–271, § 2, Apr. 22, 1974, 88 Stat. 92; Pub. L. 93–126, § 9(c), as added Pub. L. 93–312, § 9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, § 818(b), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–438, title III, § 310(4), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, § 102(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 93–618, title I, § 172(c)(3), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, § 202(b)(5), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–183, § 2(19), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–237, § 4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–307, § 7, June 4, 1976, 90 Stat. 681; Pub. L. 94–370, § 15(b), July 26, 1976, 90 Stat. 1032; Pub. L. 94–422, title II, § 202, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–503, title II, § 202(c), Oct. 15, 1976, 90 Stat. 2427; Pub. L. 94–561, § 3(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 94–582, § 26, Oct. 21, 1976, 90 Stat. 2889; Pub. L. 95–89, title II, § 209, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–91, title VII, § 710(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–115, § 3(a)(6), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 95–219, § 3(b), Dec. 28, 1977, 91 Stat. 1614; Pub. L. 95–452, § 10(b), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§ 201(b)(3), 202(c)(4), title VII, § 703(e), Oct. 13, 1978, 92 Stat. 1121, 1131, 1217; Pub. L. 95–521, title IV, § 406, Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–53, title IV, § 412(c), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, § 2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, § 3302(e)(11), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–88, title V, § 508(f), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, § 820(e)(2), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–209, title I, § 109, Mar. 14, 1980, 94 Stat. 97; Pub. L. 96–466, title V, § 504(d), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–31, § 12(1)(C), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–113, title VII, § 705(b)(3), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 97–258, § 2(a), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 97–325, § 8(c), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, § 3(4), (5), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–557, § 26(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–73, § 6(b)(2), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title VII, § 704(a)(3), Aug. 16, 1985, 99 Stat. 446; Pub. L. 99–145, title XII, § 1204(c), Nov. 8, 1985, 99 Stat. 721; Pub. L. 99–383, § 7(b)(2), Aug. 21, 1986, 100 Stat. 814; Pub. L. 99–619, § 2(c)(2), (d), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, § 407(e)(3), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–180, div. A, title XII, § 1245(c), Dec. 4, 1987, 101 Stat. 1165; Pub. L. 100–504, title I, § 103(b), Oct. 18, 1988, 102 Stat. 2522; Pub. L. 100–527, § 13(g), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, § 8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–607, title V, § 503(b)(1), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–690, title VII, § 7252(b)(4), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 100–713, title VI, § 601(d), Nov. 23, 1988, 102 Stat. 4826; Pub. L. 101–319, §§ 3(b), 4, July 3, 1990, 104 Stat. 290, 291; Pub. L. 101–501, title IX, § 915(b)(1)(B), Nov. 3, 1990, 104 Stat. 1263; Pub. L. 101–509, title V, § 529 [title I, § 113(1)], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 102–190, div. A, title IX, § 903(a)(2), div. C, title XXXV, § 3504(b), Dec. 5, 1991, 105 Stat. 1451, 1586; Pub. L. 102–240, title III, § 3004(d)(2), title VI, § 6006(d), Dec. 18, 1991, 105 Stat. 2088, 2174; Pub. L. 102–359, § 2(b)(2), Aug. 26, 1992, 106 Stat. 962; Pub. L. 103–123, title I, § 108(a)(1), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–333, title I, § 106, Sept. 30, 1994, 108 Stat. 2549; Pub. L. 103–354, title II, § 294, Oct. 13, 1994, 108 Stat. 3237; Pub. L. 104–106, div. A, title IX, § 904(b)(2), Feb. 10, 1996, 110 Stat. 403; Pub. L. 104–201, div. A, title X, § 1073(e)(1)(A), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, § 1073(e)(2), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1224(4), title XIII, § 1332(3), Oct. 21, 1998, 112 Stat. 2681–772, 2681–785; Pub. L. 105–393, title I, § 103, Nov. 13, 1998, 112 Stat. 3617; Pub. L. 106–44, § 2(b), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(4)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–159, title I, § 101(d)(2), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 107–171, title X, § 10702(c)(2), May 13, 2002, 116 Stat. 517; Pub. L. 108–426, § 3(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–313, § 2(b), Oct. 6, 2006, 120 Stat. 1734; Pub. L. 111–383, div. A, title IX, § 901(n)(2)(B), (3), Jan. 7, 2011, 124 Stat. 4327; Pub. L. 113–76, div. H, title I, § 111(b), Jan. 17, 2014, 128 Stat. 362; Pub. L. 114–94, div. A, title VI, § 6011(d)(1)(C), Dec. 4, 2015, 129 Stat. 1570; Pub. L. 114–289, title V, § 501(c)(4), Dec. 16, 2016, 130 Stat. 1490; Pub. L. 115–254, div. F, title VI, § 1470(b)(3), Oct. 5, 2018, 132 Stat. 3516.)
 
 **Historical and Revision Notes**
 
@@ -4891,8 +4891,8 @@ Chairman of the Advisory Council on Historic Preservation.
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1)–(99) | 5 U.S.C. 2211(e). | Aug. 14, 1964, Pub. L. 88–426, § 303(e), 78 Stat. 419. |
-| (100)–(116) | 5 U.S.C. 2211(g). | Aug. 14, 1964, Pub. L. 88–426, § 303(g), 78 Stat. 422. |
+| (1)–(99) | 5 U.S.C. 2211(e). | Aug. 14, 1964, Pub. L. 88–426, § 303(e), 78 Stat. 419. |
+| (100)–(116) | 5 U.S.C. 2211(g). | Aug. 14, 1964, Pub. L. 88–426, § 303(g), 78 Stat. 422. |
 
 Paragraphs (100)–(116) are added on authority of former section 2211(g) which authorized the President to place, from Aug. 15, 1964, to Feb. 1, 1965, not more than 30 positions in Levels IV and V of the Federal Executive Salary Schedule. Pursuant to this authority, the President by Executive Order No. 11189, Nov. 23, 1964, as amended by Executive Order No. 11195, Jan. 30, 1965, placed the positions listed in paragraphs (100)–(116) in Level V.
 
@@ -4902,15 +4902,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5316(60) | 5 App.: 2211(e)(60). | July 5, 1966, Pub. L. 89–492, § 4(1), 80 Stat. 262. |
-| 5316(94) | 5 App.: 2211(e)(94). | Sept. 9, 1965, Pub. L. 89–174, § 5(b)(as applicable to § 303(e)(94) of the Federal Executive Salary Act of 1964), 79 Stat. 669. |
-| 5316(95) | 5 App.: 2211(e)(95). | Aug. 9, 1965, Pub. L. 89–115, § 4(c)(words after semicolon), 79 Stat. 449. |
-| 5316(120) | 5 App.: 2211(e)(100). | Aug. 26, 1965, Pub. L. 89–136, § 601(c), 79 Stat. 570. |
-| 5316(121) | [Uncodified]. | 1965 Reorg. Plan No. 2, § 4(a)(2d sentence, less 1st 18 words), eff. July 13, 1965, 79 Stat. 1318. |
-| 5316(122) | 42:3533(b) (last 29 words). | Sept. 9, 1965, Pub. L. 89–174, § 4(b)(last 29 words), 79 Stat. 668. |
-| 5316(123) | 5 App.: 2211(e)(101). | July 5, 1966, Pub. L. 89–492, § 4(2), 80 Stat. 262. |
-| 5316(124) | 49: 1652(f)(2) (last 15 words in 2d sentence). | Oct. 15, 1966, Pub. L. 89–670, § 3(f)(2)(last 15 words in 2d sentence), 80 Stat. 932. |
-| 5316(125) | 49: 1652(f)(1) (last 15 words in 2d sentence). | Oct. 15, 1966, Pub. L. 89–670, § 3(f)(1)(last 15 words in 2d sentence), 80 Stat. 932. |
+| 5316(60) | 5 App.: 2211(e)(60). | July 5, 1966, Pub. L. 89–492, § 4(1), 80 Stat. 262. |
+| 5316(94) | 5 App.: 2211(e)(94). | Sept. 9, 1965, Pub. L. 89–174, § 5(b)(as applicable to § 303(e)(94) of the Federal Executive Salary Act of 1964), 79 Stat. 669. |
+| 5316(95) | 5 App.: 2211(e)(95). | Aug. 9, 1965, Pub. L. 89–115, § 4(c)(words after semicolon), 79 Stat. 449. |
+| 5316(120) | 5 App.: 2211(e)(100). | Aug. 26, 1965, Pub. L. 89–136, § 601(c), 79 Stat. 570. |
+| 5316(121) | [Uncodified]. | 1965 Reorg. Plan No. 2, § 4(a)(2d sentence, less 1st 18 words), eff. July 13, 1965, 79 Stat. 1318. |
+| 5316(122) | 42:3533(b) (last 29 words). | Sept. 9, 1965, Pub. L. 89–174, § 4(b)(last 29 words), 79 Stat. 668. |
+| 5316(123) | 5 App.: 2211(e)(101). | July 5, 1966, Pub. L. 89–492, § 4(2), 80 Stat. 262. |
+| 5316(124) | 49: 1652(f)(2) (last 15 words in 2d sentence). | Oct. 15, 1966, Pub. L. 89–670, § 3(f)(2)(last 15 words in 2d sentence), 80 Stat. 932. |
+| 5316(125) | 49: 1652(f)(1) (last 15 words in 2d sentence). | Oct. 15, 1966, Pub. L. 89–670, § 3(f)(1)(last 15 words in 2d sentence), 80 Stat. 932. |
 
 The deletion of paragraphs (22), (38), and (83) of 5 U.S.C. 5316 reflects (1) the termination, effective June 30, 1965, of the position of “Area Redevelopment Administrator, Department of Commerce” pursuant to Public Law 87–27 (sec. 29, 75 Stat. 63; 42 U.S.C. 2525); (2) the abolition of the position of “Chief, Weather Bureau, Department of Commerce” by 1965 Reorganization Plan No. 2 (sec. 2(a), 79 Stat. 1318); and (3) the abolition of the position of “General Counsel of the Housing and Home Finance Agency” by Public Law 89–174 (sec. 5(a), 9(c), 79 Stat. 669, 671).
 
@@ -4920,7 +4920,7 @@ The redesignation of paragraphs (117) and (118) as paragraphs “(118)” and �
 
 **References in Text**
 
-Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
 
 **Codification**
 
@@ -4936,9 +4936,9 @@ The paragraph designations for the positions added by Pub. L. 96–88 have been 
 
 2014—Pub. L. 113–76 struck out item relating to Administrator, Wage and Hour and Public Contracts Division, Department of Labor.
 
-2011—Pub. L. 111–383, § 901(n)(3), struck out items relating to Director, Defense Advanced Research Projects Agency, Department of Defense, Deputy General Counsel, Department of Defense, Deputy Under Secretaries of Defense for Research and Engineering, Department of Defense, and Special Assistant to the Secretary of Defense.
+2011—Pub. L. 111–383, § 901(n)(3), struck out items relating to Director, Defense Advanced Research Projects Agency, Department of Defense, Deputy General Counsel, Department of Defense, Deputy Under Secretaries of Defense for Research and Engineering, Department of Defense, and Special Assistant to the Secretary of Defense.
 
-Pub. L. 111–383, § 901(n)(2)(B), struck out item relating to Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, Department of Defense.
+Pub. L. 111–383, § 901(n)(2)(B), struck out item relating to Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, Department of Defense.
 
 2006—Pub. L. 109–313 substituted “Commissioner, Federal Acquisition Service, General Services Administration” for “Commissioner, Federal Supply Service, General Services Administration”.
 
@@ -4948,15 +4948,15 @@ Pub. L. 111–383, § 901(n)(2)(B), struck out item relating to Assistant to t
 
 1999—Pub. L. 106–159 inserted items relating to Deputy Administrator of the Federal Motor Carrier Safety Administration and Assistant Federal Motor Carrier Safety Administrator.
 
-Pub. L. 106–113 which directed amendment of this section by striking out items relating to Commissioner of Patents, Department of Commerce, Deputy Commissioner of Patents and Trademarks, Assistant Commissioner for Patents, and Assistant Commissioner for Trademarks, was executed by striking out items relating to Deputy Commissioner of Patents and Trademarks, Assistant Commissioner for Patents, and Assistant Commissioner for Trademarks to reflect the probable intent of Congress and the intervening amendment by Pub. L. 106–44, § 2(b), which struck out item relating to Commissioner of Patents, Department of Commerce. See below.
+Pub. L. 106–113 which directed amendment of this section by striking out items relating to Commissioner of Patents, Department of Commerce, Deputy Commissioner of Patents and Trademarks, Assistant Commissioner for Patents, and Assistant Commissioner for Trademarks, was executed by striking out items relating to Deputy Commissioner of Patents and Trademarks, Assistant Commissioner for Patents, and Assistant Commissioner for Trademarks to reflect the probable intent of Congress and the intervening amendment by Pub. L. 106–44, § 2(b), which struck out item relating to Commissioner of Patents, Department of Commerce. See below.
 
 Pub. L. 106–44 struck out item relating to Commissioner of Patents, Department of Commerce.
 
 1998—Pub. L. 105–393 struck out item relating to Administrator for Economic Development.
 
-Pub. L. 105–277, § 1332(3), struck out items relating to Deputy Director, Policy and Plans, United States Information Agency, and Associate Director (Policy and Plans), United States Information Agency.
+Pub. L. 105–277, § 1332(3), struck out items relating to Deputy Director, Policy and Plans, United States Information Agency, and Associate Director (Policy and Plans), United States Information Agency.
 
-Pub. L. 105–277, § 1224(4), struck out item relating to General Counsel of the United States Arms Control and Disarmament Agency.
+Pub. L. 105–277, § 1224(4), struck out item relating to General Counsel of the United States Arms Control and Disarmament Agency.
 
 1997—Pub. L. 105–85 substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy”.
 
@@ -4972,21 +4972,21 @@ Pub. L. 103–333 struck out item relating to Commissioner of Labor Statistics, 
 
 1992—Pub. L. 102–359 struck out item relating to Additional Officers, Department of Education.
 
-1991—Pub. L. 102–240, § 6006(d), inserted item relating to Director, Bureau of Transportation Statistics.
+1991—Pub. L. 102–240, § 6006(d), inserted item relating to Director, Bureau of Transportation Statistics.
 
-Pub. L. 102–240, § 3004(d)(2), substituted “Deputy Administrator, Federal Transit Administration” for “Deputy Administrator, Urban Mass Transportation Administration”.
+Pub. L. 102–240, § 3004(d)(2), substituted “Deputy Administrator, Federal Transit Administration” for “Deputy Administrator, Urban Mass Transportation Administration”.
 
-Pub. L. 102–190, § 3504(b), struck out item relating to Administrator of the Panama Canal Commission.
+Pub. L. 102–190, § 3504(b), struck out item relating to Administrator of the Panama Canal Commission.
 
-Pub. L. 102–190, § 903(a)(2), struck out items relating to General Counsels of the Departments of the Air Force, Army, and Navy.
+Pub. L. 102–190, § 903(a)(2), struck out items relating to General Counsels of the Departments of the Air Force, Army, and Navy.
 
 1990—Pub. L. 101–509 struck out item relating to Director, Bureau of the Census, Department of Commerce.
 
 Pub. L. 101–501 inserted item relating to Commissioner, Administration on Children, Youth, and Families.
 
-Pub. L. 101–319, § 4, inserted items relating to Deputy Commissioner of Patents and Trademarks, Assistant Commissioner for Patents, and Assistant Commissioner for Trademarks.
+Pub. L. 101–319, § 4, inserted items relating to Deputy Commissioner of Patents and Trademarks, Assistant Commissioner for Patents, and Assistant Commissioner for Trademarks.
 
-Pub. L. 101–319, § 3(b), inserted item relating to Commissioners, United States Parole Commission.
+Pub. L. 101–319, § 3(b), inserted item relating to Commissioners, United States Parole Commission.
 
 1988—Pub. L. 100–713 inserted item relating to Director, Indian Health Service, Department of Health and Human Services.
 
@@ -5004,9 +5004,9 @@ Pub. L. 100–504 struck out items relating to Inspectors General for Department
 
 1986—Pub. L. 99–659 inserted item relating to Chief Scientist, National Oceanic and Atmospheric Administration.
 
-Pub. L. 99–619, § 2(c)(2), struck out item relating to Assistant Secretary of Labor for Administration.
+Pub. L. 99–619, § 2(c)(2), struck out item relating to Assistant Secretary of Labor for Administration.
 
-Pub. L. 99–619, § 2(d), struck out item relating to Assistant Secretary of Labor for Veterans’ Employment.
+Pub. L. 99–619, § 2(d), struck out item relating to Assistant Secretary of Labor for Veterans’ Employment.
 
 Pub. L. 99–383 struck out item relating to Assistant Directors, National Science Foundation (4).
 
@@ -5018,9 +5018,9 @@ Pub. L. 99–73 struck out item relating to Director, National Bureau of Standar
 
 1984—Pub. L. 98–557 inserted item relating to Associate Deputy Secretary, Department of Transportation.
 
-1983—Pub. L. 97–449, § 3(4), substituted “Assistant Federal Highway Administrator” for “Director, National Highway Safety Bureau”.
+1983—Pub. L. 97–449, § 3(4), substituted “Assistant Federal Highway Administrator” for “Director, National Highway Safety Bureau”.
 
-Pub. L. 97–449, § 3(5), substituted “Deputy Administrator of the National Highway Traffic Safety Administration” for “Director, National Traffic Safety Bureau”.
+Pub. L. 97–449, § 3(5), substituted “Deputy Administrator of the National Highway Traffic Safety Administration” for “Director, National Traffic Safety Bureau”.
 
 1982—Pub. L. 97–325 struck out item relating to Assistant Secretary of Agriculture for Administration.
 
@@ -5032,17 +5032,17 @@ Pub. L. 97–31 purported to strike out “Maritime Administration, Department o
 
 1980—Pub. L. 96–466 inserted item relating to Assistant Secretary of Labor for Veterans’ Employment.
 
-Pub. L. 96–209, § 109(1), which provided for striking out par. (31) and inserting in lieu thereof “(31) Chairman, Foreign Claims Settlement Commission of the United States, Department of Justice.” was executed by striking out the item relating to the Chairman, Foreign Claims Settlement Commission of the United States which was designated par. (31) prior to amendment of this section by Pub. L. 96–54 and inserting the item relating to the Chairman, Foreign Claims Settlement Commission of the United States, Department of Justice. See 1979 Amendment note below.
+Pub. L. 96–209, § 109(1), which provided for striking out par. (31) and inserting in lieu thereof “(31) Chairman, Foreign Claims Settlement Commission of the United States, Department of Justice.” was executed by striking out the item relating to the Chairman, Foreign Claims Settlement Commission of the United States which was designated par. (31) prior to amendment of this section by Pub. L. 96–54 and inserting the item relating to the Chairman, Foreign Claims Settlement Commission of the United States, Department of Justice. See 1979 Amendment note below.
 
-Pub. L. 96–209, § 109(2), which provided for striking out par. (90) was executed by striking out item relating to Members, Foreign Claims Settlement Commission of United States which was designated par. (90) prior to amendment of this section by Pub. L. 96–54. See 1979 Amendment note below.
+Pub. L. 96–209, § 109(2), which provided for striking out par. (90) was executed by striking out item relating to Members, Foreign Claims Settlement Commission of United States which was designated par. (90) prior to amendment of this section by Pub. L. 96–54. See 1979 Amendment note below.
 
-1979—Pub. L. 96–88, § 508(f)(1), which provided for striking out par. (41) was executed by striking out item relating to Commissioner of Education, Department of Health, Education, and Welfare which was designated par. (41) prior to amendment of this section by Pub. L. 96–54. See 1979 Amendment note below.
+1979—Pub. L. 96–88, § 508(f)(1), which provided for striking out par. (41) was executed by striking out item relating to Commissioner of Education, Department of Health, Education, and Welfare which was designated par. (41) prior to amendment of this section by Pub. L. 96–54. See 1979 Amendment note below.
 
-Pub. L. 96–88, § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in items relating to the Assistant Secretary of Health and Human Services for Administration, the Commissioner of Food and Drugs, the Commissioner of Vocational Rehabilitation, the Commissioner of Welfare, and the Deputy Inspector General of the Department of Health and Human Services.
+Pub. L. 96–88, § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in items relating to the Assistant Secretary of Health and Human Services for Administration, the Commissioner of Food and Drugs, the Commissioner of Vocational Rehabilitation, the Commissioner of Welfare, and the Deputy Inspector General of the Department of Health and Human Services.
 
 Pars. (1) to (152). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
 
-Pars. (37), (38). Pub. L. 96–88, § 508(f)(2), added pars. (37) and (38) relating to additional officers and Administrator of Education for Overseas Dependents in Department of Education, respectively. See Codification note set out above.
+Pars. (37), (38). Pub. L. 96–88, § 508(f)(2), added pars. (37) and (38) relating to additional officers and Administrator of Education for Overseas Dependents in Department of Education, respectively. See Codification note set out above.
 
 Par. (87). Pub. L. 96–70 substituted “Administrator of the Panama Canal Commission” for “Governor of the Canal Zone”.
 
@@ -5050,13 +5050,13 @@ Par. (96). Pub. L. 96–107 substituted “Deputy Under Secretaries of Defense f
 
 Par. (152). Pub. L. 96–53 added par. (152) relating to two additional officers in Institute for Scientific and Technological Cooperation.
 
-1978—Par. (99). Pub. L. 95–454, § 202(c)(4), struck out par. (99) relating to Executive Director of United States Civil Service Commission.
+1978—Par. (99). Pub. L. 95–454, § 202(c)(4), struck out par. (99) relating to Executive Director of United States Civil Service Commission.
 
-Par. (122). Pub. L. 95–454, § 201(b)(3), added par. (122) relating to five Associate Directors of Office of Personnel Management.
+Par. (122). Pub. L. 95–454, § 201(b)(3), added par. (122) relating to five Associate Directors of Office of Personnel Management.
 
-Par. (144). Pub. L. 95–452, § 10(b), added par. (144) relating to Deputy Inspector General, Department of Health, Education, and Welfare.
+Par. (144). Pub. L. 95–452, § 10(b), added par. (144) relating to Deputy Inspector General, Department of Health, Education, and Welfare.
 
-Par. (145). Pub. L. 95–454, § 703(e), added par. (145) relating to Members and General Counsel of Federal Labor Relations Authority.
+Par. (145). Pub. L. 95–454, § 703(e), added par. (145) relating to Members and General Counsel of Federal Labor Relations Authority.
 
 Pub. L. 95–452 added par. (145) relating to Inspector General, Department of Commerce.
 
@@ -5084,7 +5084,7 @@ Pars. (142), (143). Pub. L. 95–219 added pars. (142) and (143) relating to thr
 
 Par. (44). Pub. L. 94–503 struck out par. (44) relating to Commissioner of Immigration and Naturalization, Department of Justice.
 
-Par. (55). Pub. L. 94–561, § 3(b)(1), struck out par. (55) relating to Director of Agricultural Economics, Department of Agriculture.
+Par. (55). Pub. L. 94–561, § 3(b)(1), struck out par. (55) relating to Director of Agricultural Economics, Department of Agriculture.
 
 Par. (58). Pub. L. 94–503 struck out par. (58) relating to Director, Bureau of Prisons, Department of Justice.
 
@@ -5110,7 +5110,7 @@ Pars. (134) to (139). Pub. L. 94–183 redesignated par. (133), Deputy Administr
 
 1974—Par. (29). Pub. L. 93–438 struck out par. (29) relating to Assistant General Manager, Atomic Energy Commission.
 
-Par. (42). Pub. L. 93–271, § 2, substituted “Director, United States Fish and Wildlife” for “Commissioner of Fish and Wildlife”.
+Par. (42). Pub. L. 93–271, § 2, substituted “Director, United States Fish and Wildlife” for “Commissioner of Fish and Wildlife”.
 
 Par. (62). Pub. L. 93–438 struck out par. (62) relating to Director of Regulation, Atomic Energy Commission. See section 5315 of this title.
 
@@ -5120,7 +5120,7 @@ Par. (81). Pub. L. 93–438 substituted “General Counsel of the Nuclear Regula
 
 Par. (102). Pub. L. 93–438 struck out par. (102) relating to Assistant General Managers, Atomic Energy Commission (2).
 
-Par. (109). Pub. L. 93–126, § 9(c), as added by Pub. L. 93–312, repealed par. (109) relating to Director of International Scientific Affairs, Department of State.
+Par. (109). Pub. L. 93–126, § 9(c), as added by Pub. L. 93–312, repealed par. (109) relating to Director of International Scientific Affairs, Department of State.
 
 Par. (122). Pub. L. 93–383 struck out par. (122) relating to Assistant Secretary of Housing and Urban Development for Administration.
 
@@ -5140,9 +5140,9 @@ Par. (133). Pub. L. 93–83 added par. (133) relating to Deputy Administrator fo
 
 Par. (51). Pub. L. 92–603 struck out par. (51) relating to Commissioner of Social Security, Department of Health, Education, and Welfare. See section 5315 of this title.
 
-Par. (111). Pub. L. 92–261, § 9(c), struck out par. (111) relating to Members, Equal Employment Opportunity Commission (4). See section 5315 of this title.
+Par. (111). Pub. L. 92–261, § 9(c), struck out par. (111) relating to Members, Equal Employment Opportunity Commission (4). See section 5315 of this title.
 
-Par. (131). Pub. L. 92–261, § 9(d), added par. (131) relating to General Counsel of the Equal Employment Opportunity Commission.
+Par. (131). Pub. L. 92–261, § 9(d), added par. (131) relating to General Counsel of the Equal Employment Opportunity Commission.
 
 Pub. L. 92–255 added par. (131) relating to Assistant Directors, Special Action Office for Drug Abuse Prevention.
 
@@ -5158,11 +5158,11 @@ Par. (130). Pub. L. 91–453 added par. (130) relating to Deputy Administrator, 
 
 1968—Par. (66). Pub. L. 90–407 substituted “Assistant Directors, National Science Foundation (4)” for “Deputy Director, National Science Foundation”.
 
-Par. (126). Pub. L. 90–623, § 1(4), inserted “(2)” at end of par. (126) relating to Associate Administrator of Law Enforcement Assistance.
+Par. (126). Pub. L. 90–623, § 1(4), inserted “(2)” at end of par. (126) relating to Associate Administrator of Law Enforcement Assistance.
 
 Pub. L. 90–351 added par. (126) relating to Associate Administrator of Law Enforcement Assistance.
 
-Par. (127). Pub. L. 90–623, § 1(5), added par. (127) relating to Director, Bureau of Narcotics and Dangerous Drugs, Department of Justice.
+Par. (127). Pub. L. 90–623, § 1(5), added par. (127) relating to Director, Bureau of Narcotics and Dangerous Drugs, Department of Justice.
 
 1967—Pub. L. 90–206 increased annual rate of basic pay from $26,000 to $28,000.
 
@@ -5196,13 +5196,13 @@ Amendment by section 901 of Pub. L. 111–383 effective Jan. 1, 2011, see sectio
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–313, § 6, Oct. 6, 2006, 120 Stat. 1738, provided that: “This Act [see Short Title of 2006 Amendment note set out under section 101 of Title 40, Public Buildings, Property, and Works] and the amendments made by this Act shall take effect 60 days after the date of the enactment of this Act [Oct. 6, 2006].”
+Pub. L. 109–313, § 6, Oct. 6, 2006, 120 Stat. 1738, provided that: “This Act [see Short Title of 2006 Amendment note set out under section 101 of Title 40, Public Buildings, Property, and Works] and the amendments made by this Act shall take effect 60 days after the date of the enactment of this Act [Oct. 6, 2006].”
 
 **Effective Date of 1999 Amendments**
 
 Amendment by Pub. L. 106–159 effective Jan. 1, 2000, see section 107(a) of Pub. L. 106–159, set out as a note under section 104 of Title 49, Transportation.
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendments**
 
@@ -5222,7 +5222,7 @@ Amendment by Pub. L. 102–359 effective on first day of first pay period that b
 
 **Effective Date of 1990 Amendments**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of Title 42, The Public Health and Welfare.
 
@@ -5316,15 +5316,15 @@ Amendment by Pub. L. 90–206 effective as of beginning of first pay period whic
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Indian Claims Commission**
 
-Indian Claims Commission terminated on Sept. 30, 1978, pursuant to Pub. L. 94–465, § 2, Oct. 8, 1976, 90 Stat. 1990.
+Indian Claims Commission terminated on Sept. 30, 1978, pursuant to Pub. L. 94–465, § 2, Oct. 8, 1976, 90 Stat. 1990.
 
 **Commissioner of Patents**
 
-Commissioner of Patents redesignated Commissioner of Patents and Trademarks by Pub. L. 93–596, § 3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
+Commissioner of Patents redesignated Commissioner of Patents and Trademarks by Pub. L. 93–596, § 3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
 
 **Administrator of Bonneville Power Administration**
 
@@ -5332,11 +5332,11 @@ Bonneville Power Administration transferred to Department of Energy by section 7
 
 **General Counsel of Military Departments**
 
-Pub. L. 100–456, div. A, title VII, § 703(b), Sept. 29, 1988, 102 Stat. 1996, which provided that, notwithstanding this section, the General Counsel of each of the military departments was to be paid at the highest rate of basic pay payable under section 5382 of this title, to a member of the Senior Executive Service, was repealed by Pub. L. 102–190, div. A, title IX, § 903(b), Dec. 5, 1991, 105 Stat. 1451.
+Pub. L. 100–456, div. A, title VII, § 703(b), Sept. 29, 1988, 102 Stat. 1996, which provided that, notwithstanding this section, the General Counsel of each of the military departments was to be paid at the highest rate of basic pay payable under section 5382 of this title, to a member of the Senior Executive Service, was repealed by Pub. L. 102–190, div. A, title IX, § 903(b), Dec. 5, 1991, 105 Stat. 1451.
 
 **Compensation of Deputy Assistant Secretary of Commerce for Communications and Information**
 
-Pub. L. 95–567, title I, § 106(c), Nov. 2, 1978, 92 Stat. 2409, provided that: “The position of Deputy Assistant Secretary of Commerce for Communications and Information, established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978), shall be compensated at the rate of pay in effect from time to time for level V of the Executive Schedule under section 5316 of title 5, United States Code.”
+Pub. L. 95–567, title I, § 106(c), Nov. 2, 1978, 92 Stat. 2409, provided that: “The position of Deputy Assistant Secretary of Commerce for Communications and Information, established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978), shall be compensated at the rate of pay in effect from time to time for level V of the Executive Schedule under section 5316 of title 5, United States Code.”
 
 **Subversive Activities Control Board**
 
@@ -5360,11 +5360,11 @@ Environmental Science Services Administration in Department of Commerce, includi
 
 Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by 1973 Reorg. Plan No. 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to this title, 1973 Reorg. Plan No. 2 also created in Department of Justice an agency to be known as Drug Enforcement Administration, with an Administrator and Deputy Administrator appointed by President with advice and consent of Senate.
 
-### § 5317. Presidential authority to place positions at levels IV and V
+### § 5317. Presidential authority to place positions at levels IV and V
 
 In addition to the positions listed in sections 5315 and 5316 of this title, the President, from time to time, may place in levels IV and V of the Executive Schedule positions held by not to exceed 34 individuals when he considers that action necessary to reflect changes in organization, management responsibilities, or workload in an Executive agency. Such an action with respect to a position to which appointment is made by the President by and with the advice and consent of the Senate is effective only at the time of a new appointment to the position. Notice of each action taken under this section shall be published in the Federal Register, except when the President determines that the publication would be contrary to the interest of national security. The President may not take action under this section with respect to a position the pay for which is fixed at a specific rate by this subchapter or by statute enacted after August 14, 1964.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 89–670, § 10(d)(6), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, § 1(17), Sept. 11, 1967, 81 Stat. 199.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 89–670, § 10(d)(6), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, § 1(17), Sept. 11, 1967, 81 Stat. 199.)
 
 **Historical and Revision Notes**
 
@@ -5372,7 +5372,7 @@ In addition to the positions listed in sections 5315 and 5316 of this title, the
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2211(f). | Aug. 14, 1964, Pub. L. 88–426, § 303(f), 78 Stat. 421. |
+|  | 5 U.S.C. 2211(f). | Aug. 14, 1964, Pub. L. 88–426, § 303(f), 78 Stat. 421. |
 
 The word “offices” is omitted as included in “positions”. The term “Executive agency” is substituted for “Federal department or agency” in view of the definition in section 105. The words “after August 14, 1964” are substituted for “subsequent to the date of enactment of this Act”.
 
@@ -5392,7 +5392,7 @@ The amendment to 5 U.S.C. 5317 conforms to the style of title 5.
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Executive Documents**
 
@@ -5472,13 +5472,13 @@ By the authority vested in me as President by Section 5317 of Title 5 of the Uni
 
 1–202. Executive Order No. 12076, as amended, is hereby revoked.
 
-### § 5318. Adjustments in rates of pay
+### § 5318. Adjustments in rates of pay
 
 **(a)** Subject to subsection (b), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of this title in the rates of pay under the General Schedule, the annual rate of pay for positions at each level of the Executive Schedule shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate of pay which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 **(b)** In no event shall the percentage adjustment taking effect under subsection (a) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under section 5303 in the rates of pay under the General Schedule.
 
-(Added Pub. L. 94–82, title II, § 202(a), Aug. 9, 1975, 89 Stat. 419; amended Pub. L. 101–194, title VII, § 704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(A)], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 103–356, title I, § 101(3), Oct. 13, 1994, 108 Stat. 3411.)
+(Added Pub. L. 94–82, title II, § 202(a), Aug. 9, 1975, 89 Stat. 419; amended Pub. L. 101–194, title VII, § 704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(A)], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 103–356, title I, § 101(3), Oct. 13, 1994, 108 Stat. 3411.)
 
 **Editorial Notes**
 
@@ -5500,21 +5500,21 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), 
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective as of Dec. 31, 1994.
+Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective as of Dec. 31, 1994.
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–194, title VII, § 704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: “This section and the amendments made by this section [amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] shall take effect on January 1, 1991.”
+Pub. L. 101–194, title VII, § 704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: “This section and the amendments made by this section [amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] shall take effect on January 1, 1991.”
 
 **Salary Levels of Senior Government Officials**
 
-Pub. L. 102–90, title I, § 6(a), Aug. 14, 1991, 105 Stat. 450, provided that: “The rate of pay for the offices referred to under section 703(a)(2)(B) of the Ethics Reform Act of 1989 [Pub. L. 101–194] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted.”
+Pub. L. 102–90, title I, § 6(a), Aug. 14, 1991, 105 Stat. 450, provided that: “The rate of pay for the offices referred to under section 703(a)(2)(B) of the Ethics Reform Act of 1989 [Pub. L. 101–194] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted.”
 
-Pub. L. 101–194, title VII, § 703, Nov. 30, 1989, 103 Stat. 1768, provided that:
+Pub. L. 101–194, title VII, § 703, Nov. 30, 1989, 103 Stat. 1768, provided that:
 
 > **“(a) Salary Levels.—**
 
@@ -5532,7 +5532,7 @@ Pub. L. 101–194, title VII, § 703, Nov. 30, 1989, 103 Stat. 1768, provided 
 
 **Revision in Method by Which Annual Pay Adjustments for Certain Executive, Legislative, and Judicial Positions Are To Be Made**
 
-Pub. L. 101–194, title VII, § 704(a), Nov. 30, 1989, 103 Stat. 1769, provided that:
+Pub. L. 101–194, title VII, § 704(a), Nov. 30, 1989, 103 Stat. 1769, provided that:
 
 > **“(a) Percent Change in the Employment Cost Index.—**
 
@@ -5572,39 +5572,39 @@ Pub. L. 101–194, title VII, § 704(a), Nov. 30, 1989, 103 Stat. 1769, provid
 
 **Reduction of Rate of Salary or Basic Pay of Offices or Positions in the Executive, Legislative, and Judicial Branches to the Salary or Basic Pay Rate Payable as of July 14, 1983**
 
-Pub. L. 98–51, title III, § 304, July 14, 1983, 97 Stat. 279, reduced the rate of salary or basic pay prescribed by law as of July 14, 1983, for any office or position at level I, II, or III of the Executive Schedule, any Member of Congress, and certain other offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia and also reduced the maximum rate of salary or basic pay prescribed by law as of July 14, 1983, for certain offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia.
+Pub. L. 98–51, title III, § 304, July 14, 1983, 97 Stat. 279, reduced the rate of salary or basic pay prescribed by law as of July 14, 1983, for any office or position at level I, II, or III of the Executive Schedule, any Member of Congress, and certain other offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia and also reduced the maximum rate of salary or basic pay prescribed by law as of July 14, 1983, for certain offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia.
 
 **Limitation on Maximum Rate of Salary Increases for Senior Executive, Judicial, and Legislative Positions for Services Performed After December 17, 1982**
 
-Pub. L. 97–377, title I, § 129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, reduced salary increases for senior executive, judicial, and legislative positions (including Members of Congress but excluding Senators) from up to 27.2 percent to 15 percent.
+Pub. L. 97–377, title I, § 129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, reduced salary increases for senior executive, judicial, and legislative positions (including Members of Congress but excluding Senators) from up to 27.2 percent to 15 percent.
 
 **Fiscal Year 1983 Limitation on Use of Funds for Pay Adjustments for Certain Positions**
 
-Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, § 129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
+Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, § 129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
 **Fiscal Year 1982 Limitation on Use of Funds for Pay Adjustments for Certain Positions**
 
-Section 305(a), (b), and (d) of H.R. 4120, as reported July 9, 1981, made applicable by Pub. L. 97–92, § 101(g), Dec. 15, 1981, 95 Stat. 1190, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1982, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1981, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
+Section 305(a), (b), and (d) of H.R. 4120, as reported July 9, 1981, made applicable by Pub. L. 97–92, § 101(g), Dec. 15, 1981, 95 Stat. 1190, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1982, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1981, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
-Similar provisions were contained in Pub. L. 97–51, § 101(c), Oct. 1, 1981, 95 Stat. 959, as amended by Pub. L. 97–85, Nov. 23, 1981, 95 Stat. 1098.
+Similar provisions were contained in Pub. L. 97–51, § 101(c), Oct. 1, 1981, 95 Stat. 959, as amended by Pub. L. 97–85, Nov. 23, 1981, 95 Stat. 1098.
 
-Pub. L. 97–92, § 141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that the rate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31, 1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule under section 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
+Pub. L. 97–92, § 141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that the rate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31, 1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule under section 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
 
 **Fiscal Year 1981 Limitation on Use of Funds for Pay Adjustments for Certain Positions**
 
-Section 306(a), (b), and (d) of H.R. 7593, as passed the House of Representatives on July 21, 1980, made applicable by Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167, as amended by Pub. L. 97–12, title IV, § 401, June 5, 1981, 95 Stat. 95, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1981, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1980, if the rate of salary or basic pay for that office or position was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
+Section 306(a), (b), and (d) of H.R. 7593, as passed the House of Representatives on July 21, 1980, made applicable by Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167, as amended by Pub. L. 97–12, title IV, § 401, June 5, 1981, 95 Stat. 95, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1981, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1980, if the rate of salary or basic pay for that office or position was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
-Similar provisions were contained in Pub. L. 96–369, § 101(c), Oct. 1, 1980, 94 Stat. 1352.
+Similar provisions were contained in Pub. L. 96–369, § 101(c), Oct. 1, 1980, 94 Stat. 1352.
 
 **Fiscal Year 1980 Limitation on Use of Funds for Pay Adjustments for Certain Positions**
 
-Pub. L. 96–86, § 101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year.
+Pub. L. 96–86, § 101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year.
 
 **Fiscal Year 1979 Limitation on Use of Funds for Pay Adjustments for Certain Positions**
 
-Pub. L. 95–429, title VI, § 613, Oct. 10, 1978, 92 Stat. 1017, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1979, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1978, if the rate of salary or basic pay for such office or position was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
+Pub. L. 95–429, title VI, § 613, Oct. 10, 1978, 92 Stat. 1017, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1979, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1978, if the rate of salary or basic pay for such office or position was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
-Identical provisions were enacted by Pub. L. 95–391, title III, § 304, Sept. 30, 1978, 92 Stat. 788.
+Identical provisions were enacted by Pub. L. 95–391, title III, § 304, Sept. 30, 1978, 92 Stat. 788.
 
 **1977 Comparability Adjustment Not Effective for Certain Positions**
 
@@ -5616,13 +5616,13 @@ Pub. L. 94–440, title II, Oct. 1, 1976, 90 Stat. 1446, prohibited the use of f
 
 ## SUBCHAPTER III—GENERAL SCHEDULE PAY RATES
 
-### § 5331. Definitions; application
+### § 5331. Definitions; application
 
 **(a)** For the purpose of this subchapter, “agency”, “employee”, “position”, “class”, and “grade” have the meanings given them by section 5102 of this title.
 
 **(b)** This subchapter applies to employees and positions to which chapter 51 applies, other than Senior Executive Service positions, positions in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, and positions to which section 5376 applies.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 95–454, title IV, § 408(b)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 100–325, § 2(h)(3), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, § 529 [title I, § 102(c)], Nov. 5, 1990, 104 Stat. 1427, 1444.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 95–454, title IV, § 408(b)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 100–325, § 2(h)(3), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, § 529 [title I, § 102(c)], Nov. 5, 1990, 104 Stat. 1427, 1444.)
 
 **Historical and Revision Notes**
 
@@ -5642,7 +5642,7 @@ The section is added on authority of former sections 1081, 1082, 1084, and 1091,
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1978 Amendment**
 
@@ -5650,9 +5650,9 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 **References in Other Laws to Chapter 51 and Subchapter III of Chapter 53**
 
-References in laws to fix pay in accordance with this subchapter and chapter 51 of this title considered to include authority under section 5376 of this title, if applicable, but not to include any authority under section 5304 of this title or section 529 [title III, § 302] of Pub. L. 101–509, set out as a note under section 5304 of this title, see section 529 [title I, § 101(c)(2)] of Pub. L. 101–509, set out in a References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations note under section 5376 of this title.
+References in laws to fix pay in accordance with this subchapter and chapter 51 of this title considered to include authority under section 5376 of this title, if applicable, but not to include any authority under section 5304 of this title or section 529 [title III, § 302] of Pub. L. 101–509, set out as a note under section 5304 of this title, see section 529 [title I, § 101(c)(2)] of Pub. L. 101–509, set out in a References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations note under section 5376 of this title.
 
-### § 5332. The General Schedule
+### § 5332. The General Schedule
 
 **(a)**
 
@@ -5662,7 +5662,7 @@ References in laws to fix pay in accordance with this subchapter and chapter 51 
 
 **(b)** When payment is made on the basis of an hourly, daily, weekly, or biweekly rate, the rate is computed from the appropriate annual rate of basic pay named by subsection (a) of this section in accordance with the rules prescribed by section 5504(b) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 90–83, § 1(18), Sept. 11, 1967, 81 Stat. 199; Pub. L. 90–206, title II, § 202(a), Dec. 16, 1967, 81 Stat. 624; Pub. L. 95–454, title V, § 503(e), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 102–378, § 2(29), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 103–89, § 3(b)(1)(F), Sept. 30, 1993, 107 Stat. 982.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 90–83, § 1(18), Sept. 11, 1967, 81 Stat. 199; Pub. L. 90–206, title II, § 202(a), Dec. 16, 1967, 81 Stat. 624; Pub. L. 95–454, title V, § 503(e), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 102–378, § 2(29), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 103–89, § 3(b)(1)(F), Sept. 30, 1993, 107 Stat. 982.)
 
 **Historical and Revision Notes**
 
@@ -5670,18 +5670,18 @@ References in laws to fix pay in accordance with this subchapter and chapter 51 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 1113 (less (c)). | Oct. 28, 1949, ch. 782, § 603 (less (d)), 63 Stat. 965. |
-|  |  | Oct. 24, 1951, ch. 554, § 1(a), 65 Stat. 612. |
-|  |  | Sept. 1, 1954, ch. 1208, § 109 (less (c)), 68 Stat. 1108. |
-|  |  | June 28, 1955, ch. 189, § 2(a), 69 Stat. 172. |
-|  |  | June 20, 1958, Pub. L. 85–462, § 2(a), 72 Stat. 203. |
-|  |  | July 1, 1960, Pub. L. 86–568, § 112(a), 74 Stat. 298. |
-|  |  | Oct. 11, 1962, Pub. L. 87–793, § 602(a), 76 Stat. 843. |
-|  |  | Aug. 14, 1964, Pub. L. 88–426, § 102(a), 78 Stat. 400. |
-| (b) | 5 U.S.C. 1113(c). | Oct. 28, 1949, ch. 782, § 603 (d), 63 Stat. 965. |
-|  |  | Sept. 1, 1954, ch. 1208, § 109(c), 68 Stat. 1108. |
+| (a) | 5 U.S.C. 1113 (less (c)). | Oct. 28, 1949, ch. 782, § 603 (less (d)), 63 Stat. 965. |
+|  |  | Oct. 24, 1951, ch. 554, § 1(a), 65 Stat. 612. |
+|  |  | Sept. 1, 1954, ch. 1208, § 109 (less (c)), 68 Stat. 1108. |
+|  |  | June 28, 1955, ch. 189, § 2(a), 69 Stat. 172. |
+|  |  | June 20, 1958, Pub. L. 85–462, § 2(a), 72 Stat. 203. |
+|  |  | July 1, 1960, Pub. L. 86–568, § 112(a), 74 Stat. 298. |
+|  |  | Oct. 11, 1962, Pub. L. 87–793, § 602(a), 76 Stat. 843. |
+|  |  | Aug. 14, 1964, Pub. L. 88–426, § 102(a), 78 Stat. 400. |
+| (b) | 5 U.S.C. 1113(c). | Oct. 28, 1949, ch. 782, § 603 (d), 63 Stat. 965. |
+|  |  | Sept. 1, 1954, ch. 1208, § 109(c), 68 Stat. 1108. |
 
-In subsection (a), the words “the symbol for which is ‘GS’ ” are added on authority of former section 1111 which is carried into section 5104. So much as related to the Crafts, Protective, and Custodial Schedule is omitted as repealed effective not later than Sept. 11, 1955, by the Act of Sept. 1, 1954, §§ 109(b), 110(b), 68 Stat. 1108.
+In subsection (a), the words “the symbol for which is ‘GS’ ” are added on authority of former section 1111 which is carried into section 5104. So much as related to the Crafts, Protective, and Custodial Schedule is omitted as repealed effective not later than Sept. 11, 1955, by the Act of Sept. 1, 1954, §§ 109(b), 110(b), 68 Stat. 1108.
 
 In subsection (b), reference to payment made on the basis of a “monthly” rate is omitted since section 5504(b), former section 944(c), no longer provides for converting a basic annual rate to a basic monthly rate.
 
@@ -5691,13 +5691,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5332(a) | 5 App.: 1113(b). | Oct. 29, 1965, Pub. L. 89–301, § 2(a), 79 Stat. 1111. July 18, 1966, Pub. L. 89–504, § 102(a), 80 Stat. 288. |
+| 5332(a) | 5 App.: 1113(b). | Oct. 29, 1965, Pub. L. 89–301, § 2(a), 79 Stat. 1111. July 18, 1966, Pub. L. 89–504, § 102(a), 80 Stat. 288. |
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (a)(1). Pub. L. 103–89 struck out “, except an employee covered by the performance management and recognition system established under chapter 54,” after “whom this subchapter applies”.
+1993—Subsec. (a)(1). Pub. L. 103–89 struck out “, except an employee covered by the performance management and recognition system established under chapter 54,” after “whom this subchapter applies”.
 
 1992—Subsec. (a). Pub. L. 102–378 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The General Schedule, the symbol for which is ‘GS’, is the basic pay schedule for positions to which this subchapter applies. Each employee to whom this subchapter applies, except an employee covered by the performance management and recognition system established under chapter 54 of this title, is entitled to basic pay in accordance with the General Schedule.”
 
@@ -5719,21 +5719,21 @@ Amendment by Pub. L. 102–378 effective May 4, 1991, see section 9(b)(4) of Pub
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–206, title II, § 220(a)(2), Dec. 16, 1967, 81 Stat. 639, provided, except as otherwise expressly provided, that: “Sections 202 [amending this section and enacting provisions set out as a note under this section], 203 [amending section 3301 of Title 39, The Postal Service], 204 [enacting section 3512A of Title 39, amending sections 3512, and 3513–3531 of Title 39, and enacting provisions set out as a note under section 3512A of Title 39], 205 [amending sections 3542–3544 of Title 39, and enacting provisions set out as notes under sections 3542, 3544, 3552, and 3560 of Title 39], 206 [amending sections 3560, 3573, and 3575 of Title 39, and enacting provisions set out as a note under section 3542 of Title 39], 208 [amending former section 4107 of Title 38, Veterans’ Benefits], 209 [amending sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 867 of Title 22], 210 [enacting provisions set out as a note under section 590h of Title 16, Conservation], 211 [enacting provisions set out as a note under this section and section 548 of Title 28, Judiciary and Judicial Procedure], 213 (except subsections (d) and (e)) [enacting provisions set out as notes under sections 603, 604, and 753 of Title 28], 214 (except subsections (j), (k), (*l*), (n), and (*o*)) [enacting sections 60e–14, 61–2, 293c, and 4302 of Title 2, The Congress, amending section 1847 of Title 2, and enacting provisions set out as a note under section 8339 of this title], and 216 [enacting provisions set out as a note under section 60e–14 of Title 2] shall become effective as of the beginning of the first pay period which began on or after October 1, 1967.”
+Pub. L. 90–206, title II, § 220(a)(2), Dec. 16, 1967, 81 Stat. 639, provided, except as otherwise expressly provided, that: “Sections 202 [amending this section and enacting provisions set out as a note under this section], 203 [amending section 3301 of Title 39, The Postal Service], 204 [enacting section 3512A of Title 39, amending sections 3512, and 3513–3531 of Title 39, and enacting provisions set out as a note under section 3512A of Title 39], 205 [amending sections 3542–3544 of Title 39, and enacting provisions set out as notes under sections 3542, 3544, 3552, and 3560 of Title 39], 206 [amending sections 3560, 3573, and 3575 of Title 39, and enacting provisions set out as a note under section 3542 of Title 39], 208 [amending former section 4107 of Title 38, Veterans’ Benefits], 209 [amending sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 867 of Title 22], 210 [enacting provisions set out as a note under section 590h of Title 16, Conservation], 211 [enacting provisions set out as a note under this section and section 548 of Title 28, Judiciary and Judicial Procedure], 213 (except subsections (d) and (e)) [enacting provisions set out as notes under sections 603, 604, and 753 of Title 28], 214 (except subsections (j), (k), (*l*), (n), and (*o*)) [enacting sections 60e–14, 61–2, 293c, and 4302 of Title 2, The Congress, amending section 1847 of Title 2, and enacting provisions set out as a note under section 8339 of this title], and 216 [enacting provisions set out as a note under section 60e–14 of Title 2] shall become effective as of the beginning of the first pay period which began on or after October 1, 1967.”
 
 **Short Title**
 
-Pub. L. 90–206, § 1, Dec. 16, 1967, 81 Stat. 613, provided: “That this Act [see Tables for classification] may be cited as the ‘Postal Revenue and Federal Salary Act of 1967’.”
+Pub. L. 90–206, § 1, Dec. 16, 1967, 81 Stat. 613, provided: “That this Act [see Tables for classification] may be cited as the ‘Postal Revenue and Federal Salary Act of 1967’.”
 
-Pub. L. 90–206, title II, § 201, Dec. 16, 1967, 81 Stat. 624, provided that: “This title [see Tables for classification] may be cited as the ‘Federal Salary Act of 1967’.”
+Pub. L. 90–206, title II, § 201, Dec. 16, 1967, 81 Stat. 624, provided that: “This title [see Tables for classification] may be cited as the ‘Federal Salary Act of 1967’.”
 
 **Adjustment of Pay Rates Effective October 1, 1972**
 
@@ -5745,15 +5745,15 @@ Pub. L. 91–231, Apr. 15, 1970, 84 Stat. 195, known as the Federal Employees Sa
 
 **Initial Adjustment of 1967 Pay Increases**
 
-Pub. L. 90–206, title II, §§ 202(b), 220(a)(2), Dec. 16, 1967, 81 Stat. 625, 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, made various initial adjustments to the rates of basic pay of officers and employees referred to in the General Schedule set forth in the amendment to this section made by section 202(a) of Pub. L. 90–206.
+Pub. L. 90–206, title II, §§ 202(b), 220(a)(2), Dec. 16, 1967, 81 Stat. 625, 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, made various initial adjustments to the rates of basic pay of officers and employees referred to in the General Schedule set forth in the amendment to this section made by section 202(a) of Pub. L. 90–206.
 
 **1967 Salary Increase for Persons Whose Compensation Rates are Fixed by Administrative Action**
 
-Pub. L. 90–206, title II, §§ 211(b)–(d), 220(a)(2), Dec. 16, 1967, 81 Stat. 633, 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, authorized the increase of the rates of pay of certain officers and employees of the Federal Government and of the municipal government of the District of Columbia by amounts not to exceed the increases provided by title II of Pub. L. 90–206 for corresponding rates of pay in the appropriate schedule or scale of pay.
+Pub. L. 90–206, title II, §§ 211(b)–(d), 220(a)(2), Dec. 16, 1967, 81 Stat. 633, 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, authorized the increase of the rates of pay of certain officers and employees of the Federal Government and of the municipal government of the District of Columbia by amounts not to exceed the increases provided by title II of Pub. L. 90–206 for corresponding rates of pay in the appropriate schedule or scale of pay.
 
 **Retroactive Compensation Under 1967 Pay Increases**
 
-Pub. L. 90–206, title II, § 218, Dec. 16, 1967, 81 Stat. 638, provided for retroactive pay under title II of Pub. L. 90–206 only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
+Pub. L. 90–206, title II, § 218, Dec. 16, 1967, 81 Stat. 638, provided for retroactive pay under title II of Pub. L. 90–206 only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
 
 **Executive Documents**
 
@@ -5849,26 +5849,26 @@ Donald J. Trump.
 **(Effective on the first day of the first applicable pay period beginning on or after January 1, 2026)**
 
 <table>
-<tr><td colspan="3">1 Pursuant to 38 U.S.C. 7404(a)(2)(A) and (e), this schedule does not apply to the Director of Nursing Service or any incumbents who are physicians, podiatrists, optometrists or dentists. Pursuant to 38 U.S.C. 7404(a)(2)(B), this schedule also does not apply to the basic pay of any incumbents who are registered nurses or physician assistants if that basic pay is determined by the Secretary under subchapter IV of chapter 74 of title 38, United States Code.</td></tr>
-<tr><td colspan="3">2 Pursuant to 38 U.S.C. 7404(a)(3)(B), for positions that are covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level II of the Executive Schedule. For positions that are not covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level III of the Executive Schedule.</td></tr>
-<tr><td colspan="3">3 Pursuant to 38 U.S.C. 7431, Veterans Health Administration physicians, podiatrists, optometrists and dentists paid under the Physician, Podiatrist, Optometrist, and Dentist Base and Longevity Pay schedule may also be paid market pay and performance pay.</td></tr>
-<tr><td colspan="3">4 Pursuant to section 142 of Public Law 118–210, Veterans Health Administration optometrists are to be removed from the 38 U.S.C. 7404 Salary Table for Clinical Chiropractors and converted to the Physician, Podiatrist, Optometrist, and Dentist pay system under 38 U.S.C. 7431.</td></tr>
-<tr><td colspan="3">5 Pursuant to section 301(a) of Public Law 102–40 [38 U.S.C. 7451 note], these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b), as in effect on August 14, 1990, with subsequent adjustments.</td></tr>
-<tr><td colspan="2">Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) and Directors of Medical Centers and Directors of Veterans Integrated Service Networks (38 U.S.C. 7401(4)) 1</td></tr>
+<tr><td colspan="3">1 Pursuant to 38 U.S.C. 7404(a)(2)(A) and (e), this schedule does not apply to the Director of Nursing Service or any incumbents who are physicians, podiatrists, optometrists or dentists. Pursuant to 38 U.S.C. 7404(a)(2)(B), this schedule also does not apply to the basic pay of any incumbents who are registered nurses or physician assistants if that basic pay is determined by the Secretary under subchapter IV of chapter 74 of title 38, United States Code.</td></tr>
+<tr><td colspan="3">2 Pursuant to 38 U.S.C. 7404(a)(3)(B), for positions that are covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level II of the Executive Schedule. For positions that are not covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level III of the Executive Schedule.</td></tr>
+<tr><td colspan="3">3 Pursuant to 38 U.S.C. 7431, Veterans Health Administration physicians, podiatrists, optometrists and dentists paid under the Physician, Podiatrist, Optometrist, and Dentist Base and Longevity Pay schedule may also be paid market pay and performance pay.</td></tr>
+<tr><td colspan="3">4 Pursuant to section 142 of Public Law 118–210, Veterans Health Administration optometrists are to be removed from the 38 U.S.C. 7404 Salary Table for Clinical Chiropractors and converted to the Physician, Podiatrist, Optometrist, and Dentist pay system under 38 U.S.C. 7431.</td></tr>
+<tr><td colspan="3">5 Pursuant to section 301(a) of Public Law 102–40 [38 U.S.C. 7451 note], these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b), as in effect on August 14, 1990, with subsequent adjustments.</td></tr>
+<tr><td colspan="2">Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) and Directors of Medical Centers and Directors of Veterans Integrated Service Networks (38 U.S.C. 7401(4)) 1</td></tr>
 <tr><td></td><td>Minimum</td><td>Maximum</td></tr>
-<tr><td></td><td>$151,661</td><td>$228,000 2</td></tr>
-<tr><td>Physician, Podiatrist, Optometrist, and Dentist Base and Longevity Pay Schedule 3</td><td></td><td></td></tr>
+<tr><td></td><td>$151,661</td><td>$228,000 2</td></tr>
+<tr><td>Physician, Podiatrist, Optometrist, and Dentist Base and Longevity Pay Schedule 3</td><td></td><td></td></tr>
 <tr><td>Physician Grade</td><td>$124,308</td><td>$182,324</td></tr>
 <tr><td>Podiatrist Grade</td><td>124,308</td><td>182,324</td></tr>
 <tr><td>Optometrist Grade</td><td>124,308</td><td>182,324</td></tr>
 <tr><td>Dentist Grade</td><td>124,308</td><td>182,324</td></tr>
-<tr><td>Clinical Chiropractor Schedule 4</td><td></td><td></td></tr>
+<tr><td>Clinical Chiropractor Schedule 4</td><td></td><td></td></tr>
 <tr><td>Chief Grade</td><td>$126,384</td><td>$164,301</td></tr>
 <tr><td>Senior Grade</td><td>107,446</td><td>139,684</td></tr>
 <tr><td>Intermediate Grade</td><td>90,925</td><td>118,204</td></tr>
 <tr><td>Full Grade</td><td>76,463</td><td>99,404</td></tr>
 <tr><td>Associate Grade</td><td>63,795</td><td>82,938</td></tr>
-<tr><td>Expanded-Function Dental Auxiliary Schedule 5</td><td></td><td></td></tr>
+<tr><td>Expanded-Function Dental Auxiliary Schedule 5</td><td></td><td></td></tr>
 <tr><td>Director Grade</td><td>$126,384</td><td>$164,301</td></tr>
 <tr><td>Assistant Director Grade</td><td>107,446</td><td>139,684</td></tr>
 <tr><td>Chief Grade</td><td>90,925</td><td>118,204</td></tr>
@@ -5947,38 +5947,38 @@ Donald J. Trump.
 
 <table>
 <tr><th>Pay Grade</th><th>2 or less</th><th>Over 2</th><th>Over 3</th><th>Over 4</th><th>Over 6</th><th>Over 8</th><th>Over 10</th><th>Over 12</th><th>Over 14</th><th>Over 16</th><th>Over 18</th></tr>
-<tr><td colspan="12">1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2026, which is $18,899.90 per month, for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in 10 U.S.C. 161(c)).</td></tr>
-<tr><td colspan="12">2 Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2026, which is $15,408.30 per month, for officers at pay grades O–6 and below.</td></tr>
-<tr><td colspan="12">3 Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.</td></tr>
-<tr><td>O–10 1</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td></tr>
-<tr><td>O–9 1</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td></tr>
-<tr><td>O–8 1</td><td>$13,888.50</td><td>$14,343.90</td><td>$14,645.40</td><td>$14,729.40</td><td>$15,106.50</td><td>$15,735.30</td><td>$15,882.00</td><td>$16,479.60</td><td>$16,651.80</td><td>$17,166.60</td><td>$17,911.80</td></tr>
+<tr><td colspan="12">1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2026, which is $18,899.90 per month, for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in 10 U.S.C. 161(c)).</td></tr>
+<tr><td colspan="12">2 Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2026, which is $15,408.30 per month, for officers at pay grades O–6 and below.</td></tr>
+<tr><td colspan="12">3 Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.</td></tr>
+<tr><td>O–10 1</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td></tr>
+<tr><td>O–9 1</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td></tr>
+<tr><td>O–8 1</td><td>$13,888.50</td><td>$14,343.90</td><td>$14,645.40</td><td>$14,729.40</td><td>$15,106.50</td><td>$15,735.30</td><td>$15,882.00</td><td>$16,479.60</td><td>$16,651.80</td><td>$17,166.60</td><td>$17,911.80</td></tr>
 <tr><td>O–7</td><td>11,540.10</td><td>12,076.20</td><td>12,324.30</td><td>12,522.00</td><td>12,878.70</td><td>13,231.80</td><td>13,639.20</td><td>14,045.70</td><td>14,454.30</td><td>15,735.30</td><td>16,817.70</td></tr>
-<tr><td>O–6 2</td><td>8,751.30</td><td>9,613.80</td><td>10,245.00</td><td>10,245.00</td><td>10,284.30</td><td>10,725.00</td><td>10,783.50</td><td>10,783.50</td><td>11,396.40</td><td>12,479.70</td><td>13,115.40</td></tr>
+<tr><td>O–6 2</td><td>8,751.30</td><td>9,613.80</td><td>10,245.00</td><td>10,245.00</td><td>10,284.30</td><td>10,725.00</td><td>10,783.50</td><td>10,783.50</td><td>11,396.40</td><td>12,479.70</td><td>13,115.40</td></tr>
 <tr><td>O–5</td><td>7,295.40</td><td>8,218.20</td><td>8,787.00</td><td>8,894.10</td><td>9,249.60</td><td>9,461.40</td><td>9,928.50</td><td>10,271.70</td><td>10,715.10</td><td>11,391.30</td><td>11,713.80</td></tr>
 <tr><td>O–4</td><td>6,294.60</td><td>7,286.40</td><td>7,773.60</td><td>7,881.00</td><td>8,332.20</td><td>8,816.40</td><td>9,420.00</td><td>9,888.30</td><td>10,214.40</td><td>10,401.60</td><td>10,509.90</td></tr>
-<tr><td>O–3 3</td><td>5,534.10</td><td>6,273.90</td><td>6,770.40</td><td>7,382.70</td><td>7,737.00</td><td>8,125.50</td><td>8,375.70</td><td>8,788.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td></tr>
-<tr><td>O–2 3</td><td>4,782.00</td><td>5,446.20</td><td>6,272.40</td><td>6,484.50</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td></tr>
-<tr><td>O–1 3</td><td>4,150.20</td><td>4,320.00</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td></tr>
+<tr><td>O–3 3</td><td>5,534.10</td><td>6,273.90</td><td>6,770.40</td><td>7,382.70</td><td>7,737.00</td><td>8,125.50</td><td>8,375.70</td><td>8,788.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td></tr>
+<tr><td>O–2 3</td><td>4,782.00</td><td>5,446.20</td><td>6,272.40</td><td>6,484.50</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td></tr>
+<tr><td>O–1 3</td><td>4,150.20</td><td>4,320.00</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td></tr>
 <tr><td></td><td>Over 20</td><td>Over 22</td><td>Over 24</td><td>Over 26</td><td>Over 28</td><td>Over 30</td><td>Over 32</td><td>Over 34</td><td>Over 36</td><td>Over 38</td><td>Over 40</td></tr>
-<tr><td>O–10 1</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,990.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td></tr>
-<tr><td>O–9 1</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td></tr>
-<tr><td>O–8 1</td><td>18,598.20</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td></tr>
+<tr><td>O–10 1</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,990.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td><td>$18,999.90</td></tr>
+<tr><td>O–9 1</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td></tr>
+<tr><td>O–8 1</td><td>18,598.20</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td><td>18,999.90</td></tr>
 <tr><td>O–7</td><td>16,817.70</td><td>16,817.70</td><td>16,817.70</td><td>16,904.40</td><td>16,904.40</td><td>17,242.20</td><td>17,242.20</td><td>17,242.20</td><td>17,242.20</td><td>17,242.20</td><td>17,242.20</td></tr>
-<tr><td>O–6 2</td><td>13,751.10</td><td>14,112.90</td><td>14,479.20</td><td>15,188.70</td><td>15,188.70</td><td>15,408.30</td><td>15,408.30</td><td>15,408.30</td><td>15,408.30</td><td>15,408.30</td><td>15,408.30</td></tr>
+<tr><td>O–6 2</td><td>13,751.10</td><td>14,112.90</td><td>14,479.20</td><td>15,188.70</td><td>15,188.70</td><td>15,408.30</td><td>15,408.30</td><td>15,408.30</td><td>15,408.30</td><td>15,408.30</td><td>15,408.30</td></tr>
 <tr><td>O–5</td><td>12,032.70</td><td>12,394.80</td><td>12,394.80</td><td>12,394.80</td><td>12,394.80</td><td>12,394.80</td><td>12,394.80</td><td>12,394.80</td><td>12,394.80</td><td>12,394.80</td><td>12,394.80</td></tr>
 <tr><td>O–4</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td><td>10,509.90</td></tr>
-<tr><td>O–3 3</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td></tr>
-<tr><td>O–2 3</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td></tr>
-<tr><td>O–1 3</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td></tr>
+<tr><td>O–3 3</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td><td>9,004.20</td></tr>
+<tr><td>O–2 3</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td><td>6,617.70</td></tr>
+<tr><td>O–1 3</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td><td>5,222.40</td></tr>
 </table>
 
-**Commissioned Officers With Over 4 Years Active Duty Service as an Enlisted Member or Warrant Officer <sup>4</sup>**
+**Commissioned Officers With Over 4 Years Active Duty Service as an Enlisted Member or Warrant Officer <sup>4</sup>**
 
 <table>
 <tr><th>Pay Grade</th><th>2 or less</th><th>Over 2</th><th>Over 3</th><th>Over 4</th><th>Over 6</th><th>Over 8</th><th>Over 10</th><th>Over 12</th><th>Over 14</th><th>Over 16</th><th>Over 18</th></tr>
-<tr><td colspan="12">4 [sic, two footnotes 4 were provided] Reservists also qualify for these rates, provided that they have at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member, and that those points are creditable toward reserve retirement.</td></tr>
-<tr><td colspan="12">4 [sic, two footnotes 4 were provided] Reservists with at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member which are creditable toward reserve retirement also qualify for these rates.</td></tr>
+<tr><td colspan="12">4 [sic, two footnotes 4 were provided] Reservists also qualify for these rates, provided that they have at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member, and that those points are creditable toward reserve retirement.</td></tr>
+<tr><td colspan="12">4 [sic, two footnotes 4 were provided] Reservists with at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member which are creditable toward reserve retirement also qualify for these rates.</td></tr>
 <tr><td>O–3E</td><td>..............</td><td>..............</td><td>..............</td><td>$7,382.70</td><td>$7,737.00</td><td>$8,125.50</td><td>$8,375.70</td><td>$8,788.20</td><td>$9,137.10</td><td>$9,336.90</td><td>$9,609.60</td></tr>
 <tr><td>O–2E</td><td>..............</td><td>..............</td><td>..............</td><td>6,484.50</td><td>6,617.70</td><td>6,828.00</td><td>7,183.80</td><td>7,458.90</td><td>7,663.50</td><td>7,663.50</td><td>7,663.50</td></tr>
 <tr><td>O–1E</td><td>..............</td><td>..............</td><td>..............</td><td>5,222.40</td><td>5,576.70</td><td>5,783.10</td><td>5,993.70</td><td>6,200.70</td><td>6,484.50</td><td>6,484.50</td><td>6,484.50</td></tr>
@@ -6008,10 +6008,10 @@ Donald J. Trump.
 
 <table>
 <tr><th>Pay Grade</th><th>2 or less</th><th>Over 2</th><th>Over 3</th><th>Over 4</th><th>Over 6</th><th>Over 8</th><th>Over 10</th><th>Over 12</th><th>Over 14</th><th>Over 16</th><th>Over 18</th></tr>
-<tr><td colspan="12">1 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $11,166.90 per month, regardless of cumulative years of service under 37 U.S.C. 205.</td></tr>
-<tr><td colspan="12">2 Applies to personnel who have served 4 months or more on active duty.</td></tr>
-<tr><td colspan="12">3 Applies to personnel who have served less than 4 months on active duty.</td></tr>
-<tr><td>E–9 1</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>$6,910.20</td><td>$7,066.50</td><td>$7,263.60</td><td>$7,496.10</td><td>$7,730.70</td></tr>
+<tr><td colspan="12">1 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $11,166.90 per month, regardless of cumulative years of service under 37 U.S.C. 205.</td></tr>
+<tr><td colspan="12">2 Applies to personnel who have served 4 months or more on active duty.</td></tr>
+<tr><td colspan="12">3 Applies to personnel who have served less than 4 months on active duty.</td></tr>
+<tr><td>E–9 1</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>$6,910.20</td><td>$7,066.50</td><td>$7,263.60</td><td>$7,496.10</td><td>$7,730.70</td></tr>
 <tr><td>E–8</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>$5,656.50</td><td>5,907.00</td><td>6,061.80</td><td>6,247.20</td><td>6,448.20</td><td>6,811.20</td></tr>
 <tr><td>E–7</td><td>$3,932.10</td><td>$4,291.50</td><td>$4,456.20</td><td>$4,673.10</td><td>$4,843.80</td><td>5,135.70</td><td>5,300.40</td><td>5,591.70</td><td>5,835.00</td><td>6,000.90</td><td>6,177.30</td></tr>
 <tr><td>E–6</td><td>3,401.10</td><td>3,743.10</td><td>3,908.10</td><td>4,068.90</td><td>4,235.70</td><td>4,612.80</td><td>4,759.50</td><td>5,043.30</td><td>5,130.30</td><td>5,193.60</td><td>5,267.70</td></tr>
@@ -6019,10 +6019,10 @@ Donald J. Trump.
 <tr><td>E–4</td><td>3,142.20</td><td>3,303.00</td><td>3,482.40</td><td>3,658.50</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td></tr>
 <tr><td>E–3</td><td>2,836.80</td><td>3,015.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td></tr>
 <tr><td>E–2</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td></tr>
-<tr><td>E–1 2</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td></tr>
-<tr><td>E–1 3</td><td>2,225.70</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td></tr>
+<tr><td>E–1 2</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td></tr>
+<tr><td>E–1 3</td><td>2,225.70</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td></tr>
 <tr><td></td><td>Over 20</td><td>Over 22</td><td>Over 24</td><td>Over 26</td><td>Over 28</td><td>Over 30</td><td>Over 32</td><td>Over 34</td><td>Over 36</td><td>Over 38</td><td>Over 40</td></tr>
-<tr><td>E–9 1</td><td>$8,105.10</td><td>$8,423.10</td><td>$8,756.70</td><td>$9,267.90</td><td>$9,267.90</td><td>$9,730.20</td><td>$9,730.20</td><td>$10,217.40</td><td>$10,217.40</td><td>$10,729.20</td><td>$10,729.20</td></tr>
+<tr><td>E–9 1</td><td>$8,105.10</td><td>$8,423.10</td><td>$8,756.70</td><td>$9,267.90</td><td>$9,267.90</td><td>$9,730.20</td><td>$9,730.20</td><td>$10,217.40</td><td>$10,217.40</td><td>$10,729.20</td><td>$10,729.20</td></tr>
 <tr><td>E–8</td><td>6,995.40</td><td>7,308.30</td><td>7,481.70</td><td>7,908.90</td><td>7,908.90</td><td>8,067.30</td><td>8,067.30</td><td>8,067.30</td><td>8,067.30</td><td>8,067.30</td><td>8,067.30</td></tr>
 <tr><td>E–7</td><td>6,245.70</td><td>6,475.20</td><td>6,598.20</td><td>7,067.40</td><td>7,067.40</td><td>7,067.40</td><td>7,067.40</td><td>7,067.40</td><td>7,067.40</td><td>7,067.40</td><td>7,067.40</td></tr>
 <tr><td>E–6</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td><td>5,267.70</td></tr>
@@ -6030,8 +6030,8 @@ Donald J. Trump.
 <tr><td>E–4</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td><td>3,815.40</td></tr>
 <tr><td>E–3</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td><td>3,198.00</td></tr>
 <tr><td>E–2</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td><td>2,697.90</td></tr>
-<tr><td>E–1 2</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td></tr>
-<tr><td>E–1 3</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td></tr>
+<tr><td>E–1 2</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td><td>2,407.20</td></tr>
+<tr><td>E–1 3</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td><td>..............</td></tr>
 </table>
 
 part ii—rate of monthly cadet or midshipman pay
@@ -6045,8 +6045,8 @@ The rate of monthly cadet or midshipman pay authorized by 37 U.S.C. 203(c) is $1
 **(Effective on the first day of the first applicable pay period beginning on or after January 1, 2026)**
 
 <table>
-<tr><th>Locality Pay Area 1</th><th>Rate</th></tr>
-<tr><td colspan="2">1 Locality Pay Areas are defined in 5 CFR 531.603.</td></tr>
+<tr><th>Locality Pay Area 1</th><th>Rate</th></tr>
+<tr><td colspan="2">1 Locality Pay Areas are defined in 5 CFR 531.603.</td></tr>
 <tr><td>Alaska</td><td>32.36%</td></tr>
 <tr><td>Albany-Schenectady, NY–MA</td><td>20.77%</td></tr>
 <tr><td>Albuquerque-Santa Fe-Las Vegas, NM</td><td>18.33%</td></tr>
@@ -6114,7 +6114,7 @@ The rate of monthly cadet or midshipman pay authorized by 37 U.S.C. 203(c) is $1
 **(Effective on the first day of the first applicable pay period beginning on or after January 1, 2026)**
 
 <table>
-<tr><td colspan="2">1 Pursuant to 5 U.S.C. 5372(b)(1)(C), the rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule.</td></tr>
+<tr><td colspan="2">1 Pursuant to 5 U.S.C. 5372(b)(1)(C), the rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule.</td></tr>
 <tr><td>AL–3/A</td><td>$131,700</td></tr>
 <tr><td>AL–3/B</td><td>141,700</td></tr>
 <tr><td>AL–3/C</td><td>151,900</td></tr>
@@ -6122,7 +6122,7 @@ The rate of monthly cadet or midshipman pay authorized by 37 U.S.C. 203(c) is $1
 <tr><td>AL–3/E</td><td>172,500</td></tr>
 <tr><td>AL–3/F</td><td>182,400</td></tr>
 <tr><td>AL–2</td><td>192,400</td></tr>
-<tr><td>AL–1 1</td><td>197,200</td></tr>
+<tr><td>AL–1 1</td><td>197,200</td></tr>
 </table>
 
 **Prior adjustments of certain rates of pay were contained in the following:**
@@ -6193,13 +6193,13 @@ Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, effective Jan. 1, 1997, supers
 
 Ex. Ord. No. 12990, Feb. 29, 1996, 61 F.R. 8467, effective Jan. 1, 1996, superseded by Ex. Ord. No. 13033.
 
-Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, as amended by Ex. Ord. No. 12990, § 3, Feb. 29, 1996, 61 F.R. 8467, effective Jan. 1, 1996, superseded by Ex. Ord. No. 13033.
+Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, as amended by Ex. Ord. No. 12990, § 3, Feb. 29, 1996, 61 F.R. 8467, effective Jan. 1, 1996, superseded by Ex. Ord. No. 13033.
 
 Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, effective Jan. 1, 1995, superseded by Ex. Ord. No. 12984, as amended.
 
 Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, effective Jan. 1, 1994, superseded by Ex. Ord. No. 12944.
 
-Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, as amended by Ex. Ord. No. 12886, § 3, Dec. 23, 1993, 58 F.R. 68709, effective Jan. 1, 1993, superseded by Ex. Ord. No. 12944.
+Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, as amended by Ex. Ord. No. 12886, § 3, Dec. 23, 1993, 58 F.R. 68709, effective Jan. 1, 1993, superseded by Ex. Ord. No. 12944.
 
 Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, effective Jan. 1, 1992, superseded by Ex. Ord. No. 12826, as amended.
 
@@ -6295,7 +6295,7 @@ The Director of the Office of Personnel Management shall issue any necessary gui
 
 Barack Obama.
 
-### § 5332a. Special base rates of pay for wildland firefighters
+### § 5332a. Special base rates of pay for wildland firefighters
 
 **(a) Definitions.—** In this section—
 
@@ -6365,7 +6365,7 @@ Barack Obama.
 
 **(B) Hourly, daily, weekly, or biweekly rates.—** When the special base rate with respect to a wildland firefighter is expressed as an hourly, daily, weekly, or biweekly rate, the special base rate shall be computed from the appropriate annual rate of basic pay derived under subparagraph (A) in accordance with the rules under section 5504(b).
 
-(Added Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30.)
+(Added Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30.)
 
 **Editorial Notes**
 
@@ -6377,13 +6377,13 @@ Section is based on section 456(a) of H.R. 8998, from the 118th Congress (Depart
 
 **Effective Date**
 
-Section 456(d) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30, provided that: “The amendments made by this section [enacting this section, amending section 5343 of this title, and enacting provisions set out as a note under section 6592 of Title 16, Conservation] shall take effect on the first day of the first applicable pay period beginning on or after either October 1, 2024 or the date of enactment of this Act [Mar. 15, 2025], whichever is later.”
+Section 456(d) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30, provided that: “The amendments made by this section [enacting this section, amending section 5343 of this title, and enacting provisions set out as a note under section 6592 of Title 16, Conservation] shall take effect on the first day of the first applicable pay period beginning on or after either October 1, 2024 or the date of enactment of this Act [Mar. 15, 2025], whichever is later.”
 
-### § 5333. Minimum rate for new appointments
+### § 5333. Minimum rate for new appointments
 
 New appointments shall be made at the minimum rate of the appropriate grade. However, under regulations prescribed by the Office of Personnel Management which provide for such considerations as the existing pay or unusually high or unique qualifications of the candidate, or a special need of the Government for his services, the head of an agency may appoint, with the approval of the Office in each specific case, an individual to a position at such a rate above the minimum rate of the appropriate grade as the Office may authorize for this purpose. The approval of the Office in each specific case is not required with respect to an appointment made by the Librarian of Congress.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 90–83, § 1(19), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(26)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–509, title V, § 529 [title I, § 106, title II, § 211(b)(1)], Nov. 5, 1990, 104 Stat. 1427, 1449, 1461.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 90–83, § 1(19), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(26)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–509, title V, § 529 [title I, § 106, title II, § 211(b)(1)], Nov. 5, 1990, 104 Stat. 1427, 1449, 1461.)
 
 **Historical and Revision Notes**
 
@@ -6391,10 +6391,10 @@ New appointments shall be made at the minimum rate of the appropriate grade. How
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 1131. | Oct. 28, 1949, ch. 782, § 801, 63 Stat. 969. Aug. 14, 1964, Pub. L. 88–426, § 103(a), 78 Stat. 401. |
-| (b) | 5 U.S.C. 1133. | Oct. 28, 1949, ch. 782, § 803, 63 Stat. 970. |
-|  |  | Sept. 1, 1954, ch. 1208, § 104, 68 Stat. 1106. |
-|  |  | Oct. 11, 1962, Pub. L. 87–793, § 604(c), 76 Stat. 848. |
+| (a) | 5 U.S.C. 1131. | Oct. 28, 1949, ch. 782, § 801, 63 Stat. 969. Aug. 14, 1964, Pub. L. 88–426, § 103(a), 78 Stat. 401. |
+| (b) | 5 U.S.C. 1133. | Oct. 28, 1949, ch. 782, § 803, 63 Stat. 970. |
+|  |  | Sept. 1, 1954, ch. 1208, § 104, 68 Stat. 1106. |
+|  |  | Oct. 11, 1962, Pub. L. 87–793, § 604(c), 76 Stat. 848. |
 
 In subsection (b), the word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
 
@@ -6404,13 +6404,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5333(a) | 5 App.: 1131. | July 18, 1966, Pub. L. 89–504, § 103, 80 Stat. 289. |
+| 5333(a) | 5 App.: 1131. | July 18, 1966, Pub. L. 89–504, § 103, 80 Stat. 289. |
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–509 struck out “; higher rates for supervisors of prevailing rate employees” after “appointments” in section catchline, struck out “(a)” before “New appointments shall”, struck out “in GS–11 or above” after “individual to a position”, and struck out subsec. (b) which read as follows: “Under regulations prescribed by the Office of Personnel Management, an employee in a position to which this subchapter applies, who regularly has responsibility for supervision (including supervision over the technical aspects of the work concerned) over employees whose pay is fixed and adjusted from time to time by wage boards or similar administrative authority as nearly as is consistent with the public interest in accordance with prevailing rates, may be paid at one of the rates for his grade which is above the highest rate of basic pay being paid to any such prevailing-rate employee regularly supervised, or at the maximum rate for his grade, as provided by the regulations.”
+1990—Pub. L. 101–509 struck out “; higher rates for supervisors of prevailing rate employees” after “appointments” in section catchline, struck out “(a)” before “New appointments shall”, struck out “in GS–11 or above” after “individual to a position”, and struck out subsec. (b) which read as follows: “Under regulations prescribed by the Office of Personnel Management, an employee in a position to which this subchapter applies, who regularly has responsibility for supervision (including supervision over the technical aspects of the work concerned) over employees whose pay is fixed and adjusted from time to time by wage boards or similar administrative authority as nearly as is consistent with the public interest in accordance with prevailing rates, may be paid at one of the rates for his grade which is above the highest rate of basic pay being paid to any such prevailing-rate employee regularly supervised, or at the maximum rate for his grade, as provided by the regulations.”
 
 1979—Pub. L. 96–54 substituted “prevailing rate” for “wage-board” in section catchline.
 
@@ -6420,7 +6420,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1979 Amendment**
 
@@ -6430,7 +6430,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 5334. Rate on change of position or type of appointment; regulations
+### § 5334. Rate on change of position or type of appointment; regulations
 
 **(a)** The rate of basic pay to which an employee is entitled is governed by regulations prescribed by the Office of Personnel Management in conformity with this subchapter and chapter 51 of this title when—
 
@@ -6504,18 +6504,18 @@ any rate adjustment under the preceding provisions of this section, with respect
 
 **(B)** then, by applying the provisions of this section that would otherwise apply (if any), treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, § 105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, § 1, June 29, 1968, 82 Stat. 277; Pub. L. 90–623, § 1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, § 503(f), title VIII, § 801(a)(2), (3)(F), (G), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, § 2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, § 306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, § 7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, § 3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, § 215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, § 1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, § 223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, § 10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, § 4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, § 301(a)(3), Oct. 30, 2004, 118 Stat. 2315; Pub. L. 110–181, div. A, title XI, § 1114, Jan. 28, 2008, 122 Stat. 360.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, § 105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, § 1, June 29, 1968, 82 Stat. 277; Pub. L. 90–623, § 1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, § 503(f), title VIII, § 801(a)(2), (3)(F), (G), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, § 2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, § 306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, § 7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, § 3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, § 215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, § 1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, § 223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, § 10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, § 4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, § 301(a)(3), Oct. 30, 2004, 118 Stat. 2315; Pub. L. 110–181, div. A, title XI, § 1114, Jan. 28, 2008, 122 Stat. 360.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a)–(d) | 5 U.S.C. 1132. | Oct. 28, 1949, ch. 782, § 802, 63 Stat. 969. |
-|  |  | Sept. 1, 1954, ch. 1208, § 112 (as applicable to § 802(b)), 68 Stat. 1108. |
-|  |  | May 29, 1958, Pub. L. 85–432, § 4(a), (b), 72 Stat. 151. |
-|  |  | July 31, 1959, Pub. L. 86–122, § 2(a), 73 Stat. 268. |
-|  |  | Oct. 11, 1962, Pub. L. 87–793, § 604(a), (b), 76 Stat. 847. |
-| (e) | 5 U.S.C. 2357. | July 17, 1959, Pub. L. 86–91. § 9, 73 Stat. 216. |
+| (a)–(d) | 5 U.S.C. 1132. | Oct. 28, 1949, ch. 782, § 802, 63 Stat. 969. |
+|  |  | Sept. 1, 1954, ch. 1208, § 112 (as applicable to § 802(b)), 68 Stat. 1108. |
+|  |  | May 29, 1958, Pub. L. 85–432, § 4(a), (b), 72 Stat. 151. |
+|  |  | July 31, 1959, Pub. L. 86–122, § 2(a), 73 Stat. 268. |
+|  |  | Oct. 11, 1962, Pub. L. 87–793, § 604(a), (b), 76 Stat. 847. |
+| (e) | 5 U.S.C. 2357. | July 17, 1959, Pub. L. 86–91. § 9, 73 Stat. 216. |
 
 In subsection (b), the words “under any provision of law” are omitted from the second sentence as unnecessary.
 
@@ -6529,9 +6529,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2008—Subsec. (f). Pub. L. 110–181 designated first sentence as par. (1), substituted “does not exceed—” for “does not exceed the highest previous rate of basic pay received by that employee during the employee’s service described in section 2105(c).”, added subpars. (A) to (C), and designated second sentence as par. (2).
 
-2004—Subsec. (b). Pub. L. 108–411, § 301(a)(3)(A), inserted concluding provisions.
+2004—Subsec. (b). Pub. L. 108–411, § 301(a)(3)(A), inserted concluding provisions.
 
-Subsec. (g). Pub. L. 108–411, § 301(a)(3)(B), added subsec. (g).
+Subsec. (g). Pub. L. 108–411, § 301(a)(3)(B), added subsec. (g).
 
 2003—Subsec. (a). Pub. L. 108–178 substituted “section 14306(a)(2) of title 40” for “section 106(2) of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)”.
 
@@ -6543,9 +6543,9 @@ Subsec. (g). Pub. L. 108–411, § 301(a)(3)(B), added subsec. (g).
 
 1996—Subsec. (c). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1993—Subsec. (c)(2). Pub. L. 103–89, § 3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
+1993—Subsec. (c)(2). Pub. L. 103–89, § 3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
 
-Subsecs. (f), (g). Pub. L. 103–89, § 3(b)(1)(G)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “In the case of an employee covered by the performance management and recognition system established under chapter 54 of this title, all references in this section to ‘two steps’ or ‘two step-increases’ shall be deemed to mean 6 percent.”
+Subsecs. (f), (g). Pub. L. 103–89, § 3(b)(1)(G)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “In the case of an employee covered by the performance management and recognition system established under chapter 54 of this title, all references in this section to ‘two steps’ or ‘two step-increases’ shall be deemed to mean 6 percent.”
 
 1990—Subsec. (g). Pub. L. 101–508 added subsec. (g).
 
@@ -6555,19 +6555,19 @@ Subsecs. (f), (g). Pub. L. 103–89, § 3(b)(1)(G)(ii), redesignated subsec. (
 
 1979—Subsec. (a). Pub. L. 96–54 substituted “106(2)” for “106(a)” and “3186(a)(2)” for “3186(2)”.
 
-1978—Subsec. (a). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (b). Pub. L. 95–454, § 801(a)(3)(F), substituted “subchapter VI of this chapter” for “section 5337 of this title” wherever appearing.
+Subsec. (b). Pub. L. 95–454, § 801(a)(3)(F), substituted “subchapter VI of this chapter” for “section 5337 of this title” wherever appearing.
 
-Subsec. (c). Pub. L. 95–454, § 503(f)(1), in par. (2) inserted reference to an employee appointed to a position covered by the merit pay system established under section 5402 of this title.
+Subsec. (c). Pub. L. 95–454, § 503(f)(1), in par. (2) inserted reference to an employee appointed to a position covered by the merit pay system established under section 5402 of this title.
 
-Subsecs. (d) to (f). Pub. L. 95–454, § 801(a)(2), (3)(G), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which related to regulations governing the retention of the rate of basic pay of an employee and his position covered by this subchapter and chapter 51 of this title, was struck out.
+Subsecs. (d) to (f). Pub. L. 95–454, § 801(a)(2), (3)(G), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which related to regulations governing the retention of the rate of basic pay of an employee and his position covered by this subchapter and chapter 51 of this title, was struck out.
 
-Pub. L. 95–454, § 503(f)(2), added a new subsec. (f).
+Pub. L. 95–454, § 503(f)(2), added a new subsec. (f).
 
-1968—Subsec. (a). Pub. L. 90–623, § 1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
+1968—Subsec. (a). Pub. L. 90–623, § 1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
 
-Subsec. (f). Pub. L. 90–623, § 1(24), substituted “section 590h(b) of title 16” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))”.
+Subsec. (f). Pub. L. 90–623, § 1(24), substituted “section 590h(b) of title 16” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))”.
 
 Pub. L. 90–367 added subsec. (f).
 
@@ -6581,11 +6581,11 @@ Amendment by Pub. L. 108–411 effective on the first day of the first applicabl
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–178, § 5, Dec. 15, 2003, 117 Stat. 2642, provided that: “This Act [see Tables for classification] and amendments and repeals made by this Act are effective August 21, 2002.”
+Pub. L. 108–178, § 5, Dec. 15, 2003, 117 Stat. 2642, provided that: “This Act [see Tables for classification] and amendments and repeals made by this Act are effective August 21, 2002.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title XI, § 1104(b), Nov. 18, 1997, 111 Stat. 1923, provided that:
+Pub. L. 105–85, div. A, title XI, § 1104(b), Nov. 18, 1997, 111 Stat. 1923, provided that:
 
 > **“(1)** The amendment made by subsection (a) [amending this section] shall take effect 180 days after the date of the enactment of this Act [Nov. 18, 1997].
 
@@ -6601,7 +6601,7 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 **Effective Date of 1979 Amendment**
 
@@ -6609,7 +6609,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 105–85, div. A, title V, § 504(a), Nov. 18, 1997, 111 Stat. 1725, provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 105–85, div. A, title V, § 504(a), Nov. 18, 1997, 111 Stat. 1725, provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 801(a)(2), (3)(F), (G) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
@@ -6617,7 +6617,7 @@ Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–623, § 6, Oct. 22, 1968, 82 Stat. 1315, provided that:
+Pub. L. 90–623, § 6, Oct. 22, 1968, 82 Stat. 1315, provided that:
 
 > **“(a)** Sections 1–5 of this Act [amending this section, sections 559, 2108, 3102, 3502, 5314, 5315, 5316, 5352, 5353, 5516, 5521, 5527, 5537, 5546, 5724, 6104, 6305, 6312, 6323, 6324, 8143, 8191, 8331, and 8347 of this title, sections 101, 510 [now 12102], 815, 1124, 3534, 4342, 5149, 6483, 6954, and 9342 of Title 10, Armed Forces, sections 101, 212, 205, 305, 306, 307, 308, 311, 406, 417, 554, 703, 904, 1001, and 1006 of Title 37, Pay and Allowances of the Uniformed Services, and sections 2727 and 2994b of Title 42, The Public Health and Welfare, and repealing section 8339 note of this title] restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after June 30, 1968, that are inconsistent with this Act [Oct. 22, 1968] supersede it to the extent of the inconsistency.
 
@@ -6633,7 +6633,7 @@ Pub. L. 90–623, § 6, Oct. 22, 1968, 82 Stat. 1315, provided that:
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 5335. Periodic step-increases
+### § 5335. Periodic step-increases
 
 **(a)** An employee paid on an annual basis, and occupying a permanent position within the scope of the General Schedule, who has not reached the maximum rate of pay for the grade in which his position is placed, shall be advanced in pay successively to the next higher rate within the grade at the beginning of the next pay period following the completion of—
 
@@ -6659,7 +6659,7 @@ subject to the following conditions:
 
 **(f)** In computing periods of service under subsection (a) in the case of an employee who moves without a break in service of more than 3 days from a position under a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) to a position under the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, service under such instrumentality shall, under regulations prescribed by the Office, be deemed service in a position subject to this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 469; Pub. L. 90–83, § 1(20), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title V, § 503(g), title IX, § 906(a)(2), (8), Oct. 13, 1978, 92 Stat. 1184, 1224, 1225; Pub. L. 96–54, § 2(a)(28), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §§ 203, 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 101–508, title VII, § 7202(e), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 101–509, title V, § 529 [title I, § 104(d)(2)], Nov. 5, 1990, 104 Stat. 1427, 1447; Pub. L. 103–89, § 3(b)(1)(H), Sept. 30, 1993, 107 Stat. 982.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 469; Pub. L. 90–83, § 1(20), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title V, § 503(g), title IX, § 906(a)(2), (8), Oct. 13, 1978, 92 Stat. 1184, 1224, 1225; Pub. L. 96–54, § 2(a)(28), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §§ 203, 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 101–508, title VII, § 7202(e), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 101–509, title V, § 529 [title I, § 104(d)(2)], Nov. 5, 1990, 104 Stat. 1427, 1447; Pub. L. 103–89, § 3(b)(1)(H), Sept. 30, 1993, 107 Stat. 982.)
 
 **Historical and Revision Notes**
 
@@ -6667,24 +6667,24 @@ subject to the following conditions:
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a)–(c) | 5 U.S.C. 1121. | Oct. 11, 1962, Pub. L. 87–793, § 603 “Sec. 701”, 76 Stat. 847. |
-| (d) | 5 U.S.C. 1123 (as applicable to 5 U.S.C. 1121). | Oct. 11, 1962, Pub. L. 87–793, § 603 “Sec. 703 (as applicable to § 701)”, 76 Stat. 847. |
+| (a)–(c) | 5 U.S.C. 1121. | Oct. 11, 1962, Pub. L. 87–793, § 603 “Sec. 701”, 76 Stat. 847. |
+| (d) | 5 U.S.C. 1123 (as applicable to 5 U.S.C. 1121). | Oct. 11, 1962, Pub. L. 87–793, § 603 “Sec. 703 (as applicable to § 701)”, 76 Stat. 847. |
 
 In subsection (a), the words “General Schedule” are substituted for “compensation schedules fixed by this chapter” since the General Schedule is now the only compensation schedule in that chapter. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
 
 In subsection (a)(B), the words “except a hearing examiner appointed under section 3105 of this title” are added on authority of the third sentence of former section 1010 and the fifth sentence of former section 1011, which are carried into sections 5362 and 559, respectively, and of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
-Title VII (sections 701–705) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 967–969, as amended by the following Acts is omitted from the derivation and repealed (see Table II) as superseded by the Act of Oct. 11, 1962, Pub. L. 87–793, § 603, 76 Stat. 847, which is carried into this section and section 5336:
+Title VII (sections 701–705) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 967–969, as amended by the following Acts is omitted from the derivation and repealed (see Table II) as superseded by the Act of Oct. 11, 1962, Pub. L. 87–793, § 603, 76 Stat. 847, which is carried into this section and section 5336:
 
-June 28, 1950, ch. 382, § 2, 64 Stat. 262.
+June 28, 1950, ch. 382, § 2, 64 Stat. 262.
 
-Sept. 30, 1950, ch. 1123, §§ 9, 10, 64 Stat. 1100.
+Sept. 30, 1950, ch. 1123, §§ 9, 10, 64 Stat. 1100.
 
-Oct. 24, 1951, ch. 554, § 1(e), 65 Stat. 613.
+Oct. 24, 1951, ch. 554, § 1(e), 65 Stat. 613.
 
-Sept. 1, 1954, ch. 1208, §§ 102(a), 103(a), 112 (less applicability to § 802(b)), 305(a), 68 Stat. 1105, 1108, 1113.
+Sept. 1, 1954, ch. 1208, §§ 102(a), 103(a), 112 (less applicability to § 802(b)), 305(a), 68 Stat. 1105, 1108, 1113.
 
-June 28, 1955, ch. 189, § 2(e), 69 Stat. 175.
+June 28, 1955, ch. 189, § 2(e), 69 Stat. 175.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -6692,7 +6692,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5335(c) | 5 App.: 1121(c). | Oct. 29, 1965, Pub. L. 89–301, § 3, 79 Stat. 1112. |
+| 5335(c) | 5 App.: 1121(c). | Oct. 29, 1965, Pub. L. 89–301, § 3, 79 Stat. 1112. |
 
 The word “officer” is omitted as included in “employee”, and the word “agency” is substituted for “department” to conform to the definition in 5 U.S.C. 5331.
 
@@ -6704,27 +6704,27 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 **Amendments**
 
-1993—Subsec. (e). Pub. L. 103–89, § 3(b)(1)(H)(i), struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
+1993—Subsec. (e). Pub. L. 103–89, § 3(b)(1)(H)(i), struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
 
-Subsecs. (f), (g). Pub. L. 103–89, § 3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section, was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
+Subsecs. (f), (g). Pub. L. 103–89, § 3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section, was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
 
-1990—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed under section 3105 of this title,” after “work of the employee”.
+1990—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed under section 3105 of this title,” after “work of the employee”.
 
 Subsec. (g). Pub. L. 101–508 added subsec. (g).
 
-1984—Subsec. (e). Pub. L. 98–615, § 204(a)(1), substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+1984—Subsec. (e). Pub. L. 98–615, § 204(a)(1), substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
 
-Subsec. (f). Pub. L. 98–615, § 203, added subsec. (f).
+Subsec. (f). Pub. L. 98–615, § 203, added subsec. (f).
 
 1979—Subsec. (a)(3)(B). Pub. L. 96–54 substituted “an administrative law judge” for “a administrative law judge”.
 
 1978—Subsec. (a). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-Subsec. (b). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+Subsec. (b). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (c). Pub. L. 95–454, § 906(a)(8), substituted references to Office of Personnel Management and Merit Systems Protection Board and Office and Board, respectively, for references to Civil Service Commission wherever appearing in text.
+Subsec. (c). Pub. L. 95–454, § 906(a)(8), substituted references to Office of Personnel Management and Merit Systems Protection Board and Office and Board, respectively, for references to Civil Service Commission wherever appearing in text.
 
-Subsec. (e). Pub. L. 95–454, § 503(g), inserted reference to merit pay system established under section 5402 of this title.
+Subsec. (e). Pub. L. 95–454, § 503(g), inserted reference to merit pay system established under section 5402 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6734,13 +6734,13 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 **Effective Date of 1990 Amendments**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 **Effective Date of 1979 Amendment**
 
@@ -6748,7 +6748,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by section 503(g) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by section 503(g) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 906(a)(2), (8) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
@@ -6758,7 +6758,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Delay of Periodic Step Increase for Civilian Employees of the Department of Defense Based Upon Unacceptable Performance**
 
-Pub. L. 114–92, div. A, title XI, § 1106, Nov. 25, 2015, 129 Stat. 1024, provided that:
+Pub. L. 114–92, div. A, title XI, § 1106, Nov. 25, 2015, 129 Stat. 1024, provided that:
 
 > **“(a) Delay.—** Under procedures established by the Secretary of Defense, upon a determination by the Secretary that the work of an employee is not at an acceptable level of competence, the period of time during which the work of the employee is not at an acceptable level of competence shall not count toward completion of the period of service required for purposes of subsection (a) of section 5335 of title 5, United States Code, or subsection (e)(1) or (e)(2) of section 5343 of such title.
 
@@ -6766,9 +6766,9 @@ Pub. L. 114–92, div. A, title XI, § 1106, Nov. 25, 2015, 129 Stat. 1024, pr
 
 **Pay Increases Deemed Equivalent Increases in Pay**
 
-Pub. L. 103–89, § 5(a), Sept. 30, 1993, 107 Stat. 984, provided that: “Notwithstanding the amendment made by section 3(b)(1)(H)(ii) [amending this section], an increase in pay granted under section 5404 of title 5, United States Code, before November 1, 1993, shall be deemed to be an equivalent increase in pay within the meaning of section 5335(a) of such title.”
+Pub. L. 103–89, § 5(a), Sept. 30, 1993, 107 Stat. 984, provided that: “Notwithstanding the amendment made by section 3(b)(1)(H)(ii) [amending this section], an increase in pay granted under section 5404 of title 5, United States Code, before November 1, 1993, shall be deemed to be an equivalent increase in pay within the meaning of section 5335(a) of such title.”
 
-### § 5336. Additional step-increases
+### § 5336. Additional step-increases
 
 **(a)** Within the limit of available appropriations and under regulations prescribed by the Office of Personnel Management, the head of each agency may grant additional step-increases in recognition of high quality performance above that ordinarily found in the type of position concerned. However, an employee is eligible under this section for only one additional step-increase within any 52-week period.
 
@@ -6776,14 +6776,14 @@ Pub. L. 103–89, § 5(a), Sept. 30, 1993, 107 Stat. 984, provided that: “No
 
 **(c)** This section does not apply to the pay of an individual appointed by the President, by and with the advice and consent of the Senate.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 469; Pub. L. 95–454, title V, § 503(h), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1224; Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, § 3(b)(1)(I), Sept. 30, 1993, 107 Stat. 982.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 469; Pub. L. 95–454, title V, § 503(h), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1224; Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, § 3(b)(1)(I), Sept. 30, 1993, 107 Stat. 982.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a), (b) | 5 U.S.C. 1122. | Oct. 11, 1962, Pub. L. 87–793, § 603 “Sec. 702”, 76 Stat. 847. |
-| (c) | 5 U.S.C. 1123 (less applicability to 5 U.S.C. 1121). | Oct. 11, 1962, Pub. L. 87–793, § 603 “Sec. 703 (less applicability to § 701)”, 76 Stat. 847. |
+| (a), (b) | 5 U.S.C. 1122. | Oct. 11, 1962, Pub. L. 87–793, § 603 “Sec. 702”, 76 Stat. 847. |
+| (c) | 5 U.S.C. 1123 (less applicability to 5 U.S.C. 1121). | Oct. 11, 1962, Pub. L. 87–793, § 603 “Sec. 703 (less applicability to § 701)”, 76 Stat. 847. |
 
 For repeal of Title VII (sections 701–705) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 967–969, as amended, see revision note for section 5335.
 
@@ -6797,9 +6797,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1984—Subsec. (c). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
 
-1978—Subsec. (a). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (c). Pub. L. 95–454, § 503(h), inserted reference to merit pay system established under section 5402 of this title.
+Subsec. (c). Pub. L. 95–454, § 503(h), inserted reference to merit pay system established under section 5402 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6809,17 +6809,17 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by section 503(h) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by section 503(h) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### [§ 5337. Repealed. Pub. L. 95–454, title VIII, § 801(a)(2), Oct. 13, 1978, 92 Stat. 1221]
+### [§ 5337. Repealed. Pub. L. 95–454, title VIII, § 801(a)(2), Oct. 13, 1978, 92 Stat. 1221]
 
-Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 470; Pub. L. 92–392, § 3, Aug. 19, 1972, 86 Stat. 573, set forth provisions relating to pay saving for employees reduced in grade from a grade in the General Schedule. See section 5361 et seq. of this title.
+Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 470; Pub. L. 92–392, § 3, Aug. 19, 1972, 86 Stat. 573, set forth provisions relating to pay saving for employees reduced in grade from a grade in the General Schedule. See section 5361 et seq. of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6827,11 +6827,11 @@ Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 470; Pub. L. 92–392, § 3
 
 Repeal effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, and an employee receiving pay on day before such effective date not to have such pay reduced or terminated and, unless section 5362 applies, employee is entitled to continuation of such pay, etc., see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
-### § 5338. Regulations
+### § 5338. Regulations
 
 The Office of Personnel Management may prescribe regulations necessary for the administration of this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 470; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 470; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
@@ -6851,7 +6851,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 ## SUBCHAPTER IV—PREVAILING RATE SYSTEMS
 
-### § 5341. Policy
+### § 5341. Policy
 
 It is the policy of Congress that rates of pay of prevailing rate employees be fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates and be based on principles that—
 
@@ -6863,29 +6863,29 @@ It is the policy of Congress that rates of pay of prevailing rate employees be f
 
 **(4)** the level of rates of pay will be maintained so as to attract and retain qualified prevailing rate employees.
 
-(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 564.)
+(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 564.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5341, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471; Pub. L. 90–83, § 1(97), Sept. 11, 1967, 81 Stat. 220; Pub. L. 90–560, § 4, Oct. 12, 1968, 82 Stat. 997, provided prevailing rate system for trades and crafts and is covered by sections 5343(c), (d) and 5349(a) of this title.
+A prior section 5341, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471; Pub. L. 90–83, § 1(97), Sept. 11, 1967, 81 Stat. 220; Pub. L. 90–560, § 4, Oct. 12, 1968, 82 Stat. 997, provided prevailing rate system for trades and crafts and is covered by sections 5343(c), (d) and 5349(a) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 92–392, § 15(a), Aug. 19, 1972, 86 Stat. 575, provided that: “The provisions of this Act [enacting this subchapter and section 5550 of this title, amending sections 2105, 5337, 5541, 5544, 5548, 6101, 7154, and 8704 of this title, repealing section 6102 of this title, and enacting provisions set out as notes under sections 5341 and 5343 of this title and sections 4531 and 4571 of Title 2, The Congress] are effective on the first day of the first applicable pay period which begins on or after the ninetieth day after the date of enactment of this Act [Aug. 19, 1972], except that, in the case of those employees referred to in section 5342(a)(2)(B) and (C) of title 5, United States Code (as amended by the first section of this Act), such provisions are effective on the first day of the first applicable pay period which begins on or after the one hundred and eightieth day after such date of enactment or on such earlier date (not earlier than the ninetieth day after such date of enactment) as the Civil Service Commission may prescribe. Notwithstanding the provisions of this subsection, section 5343(e)(1)(D) and (E) and (e)(2)(C), as enacted by the first section of this Act, shall not be effective until the first day of the first pay period commencing after (1) the date on which the President ceases to exercise his authority under the Economic Stabilization Act of 1970 [formerly set out as a note under section 1904 of Title 12, Banks and Banking] to stabilize wages and salaries, or (2) April 30, 1973, whichever occurs first.”
+Pub. L. 92–392, § 15(a), Aug. 19, 1972, 86 Stat. 575, provided that: “The provisions of this Act [enacting this subchapter and section 5550 of this title, amending sections 2105, 5337, 5541, 5544, 5548, 6101, 7154, and 8704 of this title, repealing section 6102 of this title, and enacting provisions set out as notes under sections 5341 and 5343 of this title and sections 4531 and 4571 of Title 2, The Congress] are effective on the first day of the first applicable pay period which begins on or after the ninetieth day after the date of enactment of this Act [Aug. 19, 1972], except that, in the case of those employees referred to in section 5342(a)(2)(B) and (C) of title 5, United States Code (as amended by the first section of this Act), such provisions are effective on the first day of the first applicable pay period which begins on or after the one hundred and eightieth day after such date of enactment or on such earlier date (not earlier than the ninetieth day after such date of enactment) as the Civil Service Commission may prescribe. Notwithstanding the provisions of this subsection, section 5343(e)(1)(D) and (E) and (e)(2)(C), as enacted by the first section of this Act, shall not be effective until the first day of the first pay period commencing after (1) the date on which the President ceases to exercise his authority under the Economic Stabilization Act of 1970 [formerly set out as a note under section 1904 of Title 12, Banks and Banking] to stabilize wages and salaries, or (2) April 30, 1973, whichever occurs first.”
 
 **Repeals**
 
-Pub. L. 92–392, § 13, Aug. 19, 1972, 86 Stat. 575, provided that:
+Pub. L. 92–392, § 13, Aug. 19, 1972, 86 Stat. 575, provided that:
 
 > **“(a)** All laws or parts of laws inconsistent with this Act [see Effective Date note above] are hereby repealed to the extent of such inconsistency.
 
 > **“(b)** Subsection (a) of this section does not repeal or otherwise affect section 5102(d) of title 5, United States Code, section 305 of title 44 of such Code, or the provisions contained in section 180 of former title 31, United States Code.”
 
-### § 5342. Definitions; application
+### § 5342. Definitions; application
 
 **(a)** For the purpose of this subchapter—
 
@@ -6905,13 +6905,13 @@ Pub. L. 92–392, § 13, Aug. 19, 1972, 86 Stat. 575, provided that:
 
 **(G)** the Bureau of Engraving and Printing, except for the purposes of section 5349 of this title;
 
-**(H)** the Government Accountability Office; or 1
+**(H)** the Government Accountability Office; or 1
 
-<sup>1</sup>  So in original. The word “or” probably should not appear.
+<sup>1</sup> So in original. The word “or” probably should not appear.
 
-**(J)**  2
+**(J)** 2
 
-<sup>2</sup>  So in original. Subsec. (a)(1) does not contain a subpar. (I).
+<sup>2</sup> So in original. Subsec. (a)(1) does not contain a subpar. (I).
 
 the Defense Intelligence Agency, Department of Defense; or
 
@@ -6941,7 +6941,7 @@ the Defense Intelligence Agency, Department of Defense; or
 
 **(c)** Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 
-(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, § 3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, § 8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, § 615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, § 502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, § 13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, § 501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, § 1122(a)(1), div. C, title XXXV, § 3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, § 3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, § 8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, § 615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, § 502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, § 13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, § 501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, § 1122(a)(1), div. C, title XXXV, § 3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 **Editorial Notes**
 
@@ -6957,9 +6957,9 @@ Provisions similar to those comprising subsec. (b) of this section were containe
 
 2004—Subsec. (a)(1)(H). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Subsec. (a)(1). Pub. L. 104–201, § 3548(a)(3)(A), which directed amendment of subsec. (a)(1) by striking subpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
+1996—Subsec. (a)(1). Pub. L. 104–201, § 3548(a)(3)(A), which directed amendment of subsec. (a)(1) by striking subpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
 
-Subsec. (a)(1)(L). Pub. L. 104–201, § 1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+Subsec. (a)(1)(L). Pub. L. 104–201, § 1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
 1994—Subsec. (a)(1)(J) to (L). Pub. L. 103–359 directed the amendment of subpar. (J) by striking out “or” at end which could not be executed because par. (1) does not contain a subpar. (J), added “or” at end of subpar. (K), and added subpar. (L).
 
@@ -7001,9 +7001,9 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 **Dissolution of Virgin Islands Corporation**
 
-Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, § 308(e), Oct. 19, 1982, 96 Stat. 1710.
+Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, § 308(e), Oct. 19, 1982, 96 Stat. 1710.
 
-### § 5343. Prevailing rate determinations; wage schedules; night differentials
+### § 5343. Prevailing rate determinations; wage schedules; night differentials
 
 **(a)** The pay of prevailing rate employees shall be fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates. Subject to section 213(f) of title 29, the rates may not be less than the appropriate rates provided by section 206(a)(1) of title 29. To carry out this subsection—
 
@@ -7103,13 +7103,13 @@ A night differential under this subsection is a part of basic pay.
 
 **(3)** An increase under this subsection may not cause the wage rate of an employee to increase to a rate that would produce an annualized rate in excess of the annual rate for level IV of the Executive Schedule.
 
-(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 566; amended Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, § 3302(e)(10), Sept. 27, 1979, 93 Stat. 499; Pub. L. 99–145, title XII, § 1242(a), Nov. 8, 1985, 99 Stat. 735; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(3)(B), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 107–107, div. A, title XI, § 1113(a), Dec. 28, 2001, 115 Stat. 1239; Pub. L. 108–136, div. A, title XI, § 1122(a), Nov. 24, 2003, 117 Stat. 1636; Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30.)
+(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 566; amended Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, § 3302(e)(10), Sept. 27, 1979, 93 Stat. 499; Pub. L. 99–145, title XII, § 1242(a), Nov. 8, 1985, 99 Stat. 735; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(3)(B), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 107–107, div. A, title XI, § 1113(a), Dec. 28, 2001, 115 Stat. 1239; Pub. L. 108–136, div. A, title XI, § 1122(a), Nov. 24, 2003, 117 Stat. 1636; Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (c)(4), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (c)(4), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 **Codification**
 
@@ -7119,13 +7119,13 @@ Amendment by Pub. L. 119–4 is based on section 456(c) of H.R. 8998, from the 1
 
 A prior section 5343, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, related to effective date of pay increases and is covered by section 5344(a) of this title.
 
-Provisions similar to those comprising part of first sentence of subsec. (c) and subsec. (d) of this section were contained in Pub. L. 90–560, § 4, Oct. 12, 1968, 82 Stat. 997 (formerly classified to section 5341(c) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
+Provisions similar to those comprising part of first sentence of subsec. (c) and subsec. (d) of this section were contained in Pub. L. 90–560, § 4, Oct. 12, 1968, 82 Stat. 997 (formerly classified to section 5341(c) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 **Amendments**
 
 2025—Subsec. (g). Pub. L. 119–4 added subsec. (g).
 
-2003—Subsec. (c)(4). Pub. L. 108–136 inserted before semicolon at end “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
+2003—Subsec. (c)(4). Pub. L. 108–136 inserted before semicolon at end “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
 
 2001—Subsec. (d)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall—
 
@@ -7153,11 +7153,11 @@ Amendment by Pub. L. 119–4 effective the first day of the first applicable pay
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title XI, § 1122(c), Nov. 24, 2003, 117 Stat. 1637, provided that: “Subject to any vested constitutional property rights, any administrative or judicial determination after the date of the enactment of this Act [Nov. 24, 2003] concerning backpay for a differential established under sections 5343(c)(4) or 5545(d) of such title [this title] shall be based on occupational safety and health standards described in the amendments made by subsections (a) and (b) [amending this section and section 5545 of this title].”
+Pub. L. 108–136, div. A, title XI, § 1122(c), Nov. 24, 2003, 117 Stat. 1637, provided that: “Subject to any vested constitutional property rights, any administrative or judicial determination after the date of the enactment of this Act [Nov. 24, 2003] concerning backpay for a differential established under sections 5343(c)(4) or 5545(d) of such title [this title] shall be based on occupational safety and health standards described in the amendments made by subsections (a) and (b) [amending this section and section 5545 of this title].”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title XI, § 1113(b), Dec. 28, 2001, 115 Stat. 1239, provided that: “Wage adjustments made pursuant to the amendment made by this section [amending this section] shall take effect in each applicable wage area on the first normal effective date of the applicable wage survey adjustment that occurs after the date of the enactment of this Act [Dec. 28, 2001].”
+Pub. L. 107–107, div. A, title XI, § 1113(b), Dec. 28, 2001, 115 Stat. 1239, provided that: “Wage adjustments made pursuant to the amendment made by this section [amending this section] shall take effect in each applicable wage area on the first normal effective date of the applicable wage survey adjustment that occurs after the date of the enactment of this Act [Dec. 28, 2001].”
 
 **Effective Date of 1985 Amendment**
 
@@ -7177,7 +7177,7 @@ Section other than subsec. (e)(1)(D), (E), (2)(C) of this section effective on f
 
 **Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels**
 
-Pub. L. 119–75, div. E, title VII, § 737, Feb. 3, 2026, 140 Stat. 500, provided that:
+Pub. L. 119–75, div. E, title VII, § 737, Feb. 3, 2026, 140 Stat. 500, provided that:
 
 > **“(a)**
 
@@ -7213,105 +7213,105 @@ Pub. L. 119–75, div. E, title VII, § 737, Feb. 3, 2026, 140 Stat. 500, prov
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 118–47, div. B, title VII, § 737, Mar. 23, 2024, 138 Stat. 581.
+Pub. L. 118–47, div. B, title VII, § 737, Mar. 23, 2024, 138 Stat. 581.
 
-Pub. L. 117–328, div. E, title VII, § 737, Dec. 29, 2022, 136 Stat. 4712.
+Pub. L. 117–328, div. E, title VII, § 737, Dec. 29, 2022, 136 Stat. 4712.
 
-Pub. L. 117–103, div. E, title VII, § 737, Mar. 15, 2022, 136 Stat. 301.
+Pub. L. 117–103, div. E, title VII, § 737, Mar. 15, 2022, 136 Stat. 301.
 
-Pub. L. 116–260, div. E, title VII, § 737, Dec. 27, 2020, 134 Stat. 1438.
+Pub. L. 116–260, div. E, title VII, § 737, Dec. 27, 2020, 134 Stat. 1438.
 
-Pub. L. 116–93, div. C, title VII, § 737, Dec. 20, 2019, 133 Stat. 2492.
+Pub. L. 116–93, div. C, title VII, § 737, Dec. 20, 2019, 133 Stat. 2492.
 
-Pub. L. 116–6, div. D, title VII, § 737, Feb. 15, 2019, 133 Stat. 195.
+Pub. L. 116–6, div. D, title VII, § 737, Feb. 15, 2019, 133 Stat. 195.
 
-Pub. L. 115–141, div. E, title VII, § 737, Mar. 23, 2018, 132 Stat. 595.
+Pub. L. 115–141, div. E, title VII, § 737, Mar. 23, 2018, 132 Stat. 595.
 
-Pub. L. 115–31, div. E, title VII, § 737, May 5, 2017, 131 Stat. 385.
+Pub. L. 115–31, div. E, title VII, § 737, May 5, 2017, 131 Stat. 385.
 
-Pub. L. 114–113, div. E, title VII, § 737, Dec. 18, 2015, 129 Stat. 2481.
+Pub. L. 114–113, div. E, title VII, § 737, Dec. 18, 2015, 129 Stat. 2481.
 
-Pub. L. 113–235, div. E, title VII, § 737, Dec. 16, 2014, 128 Stat. 2387.
+Pub. L. 113–235, div. E, title VII, § 737, Dec. 16, 2014, 128 Stat. 2387.
 
-Pub. L. 113–76, div. E, title VII, § 740, Jan. 17, 2014, 128 Stat. 239.
+Pub. L. 113–76, div. E, title VII, § 740, Jan. 17, 2014, 128 Stat. 239.
 
-Pub. L. 111–117, div. C, title VII, § 710, Dec. 16, 2009, 123 Stat. 3206.
+Pub. L. 111–117, div. C, title VII, § 710, Dec. 16, 2009, 123 Stat. 3206.
 
-Pub. L. 111–8, div. D, title VII, § 710, Mar. 11, 2009, 123 Stat. 682.
+Pub. L. 111–8, div. D, title VII, § 710, Mar. 11, 2009, 123 Stat. 682.
 
-Pub. L. 110–161, div. D, title VII, § 712, Dec. 26, 2007, 121 Stat. 2021.
+Pub. L. 110–161, div. D, title VII, § 712, Dec. 26, 2007, 121 Stat. 2021.
 
-Pub. L. 109–115, div. A, title VIII, § 813, Nov. 30, 2005, 119 Stat. 2497.
+Pub. L. 109–115, div. A, title VIII, § 813, Nov. 30, 2005, 119 Stat. 2497.
 
-Pub. L. 108–447, div. H, title VI, § 613, Dec. 8, 2004, 118 Stat. 3275.
+Pub. L. 108–447, div. H, title VI, § 613, Dec. 8, 2004, 118 Stat. 3275.
 
-Pub. L. 108–199, div. F, title VI, § 613, Jan. 23, 2004, 118 Stat. 352.
+Pub. L. 108–199, div. F, title VI, § 613, Jan. 23, 2004, 118 Stat. 352.
 
-Pub. L. 108–7, div. J, title VI, § 613, Feb. 20, 2003, 117 Stat. 465.
+Pub. L. 108–7, div. J, title VI, § 613, Feb. 20, 2003, 117 Stat. 465.
 
-Pub. L. 107–67, title VI, § 613, Nov. 12, 2001, 115 Stat. 547, as amended by Pub. L. 108–2, § 3, Jan. 10, 2003, 117 Stat. 5.
+Pub. L. 107–67, title VI, § 613, Nov. 12, 2001, 115 Stat. 547, as amended by Pub. L. 108–2, § 3, Jan. 10, 2003, 117 Stat. 5.
 
-Pub. L. 106–554, § 1(a)(3) [title VI, § 613], Dec. 21, 2000, 114 Stat. 2763, 2763A–157.
+Pub. L. 106–554, § 1(a)(3) [title VI, § 613], Dec. 21, 2000, 114 Stat. 2763, 2763A–157.
 
-Pub. L. 106–58, title VI, § 613, Sept. 29, 1999, 113 Stat. 468.
+Pub. L. 106–58, title VI, § 613, Sept. 29, 1999, 113 Stat. 468.
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 614], Oct. 21, 1998, 112 Stat. 2681–480, 2681–515.
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 614], Oct. 21, 1998, 112 Stat. 2681–480, 2681–515.
 
-Pub. L. 105–61, title VI, § 614, Oct. 10, 1997, 111 Stat. 1311.
+Pub. L. 105–61, title VI, § 614, Oct. 10, 1997, 111 Stat. 1311.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 616], Sept. 30, 1996, 110 Stat. 3009–314, 3009–356.
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 616], Sept. 30, 1996, 110 Stat. 3009–314, 3009–356.
 
-Pub. L. 104–52, title VI, § 616, Nov. 19, 1995, 109 Stat. 500, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 206(b)(3)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378.
+Pub. L. 104–52, title VI, § 616, Nov. 19, 1995, 109 Stat. 500, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 206(b)(3)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378.
 
-Pub. L. 103–329, title VI, § 617, Sept. 30, 1994, 108 Stat. 2419.
+Pub. L. 103–329, title VI, § 617, Sept. 30, 1994, 108 Stat. 2419.
 
-Pub. L. 103–123, title VI, § 615, Oct. 28, 1993, 107 Stat. 1261.
+Pub. L. 103–123, title VI, § 615, Oct. 28, 1993, 107 Stat. 1261.
 
-Pub. L. 102–393, title VI, § 616, Oct. 6, 1992, 106 Stat. 1768.
+Pub. L. 102–393, title VI, § 616, Oct. 6, 1992, 106 Stat. 1768.
 
-Pub. L. 102–141, title VI, § 616, Oct. 28, 1991, 105 Stat. 870.
+Pub. L. 102–141, title VI, § 616, Oct. 28, 1991, 105 Stat. 870.
 
-Pub. L. 101–509, title VI, § 612, Nov. 5, 1990, 104 Stat. 1473.
+Pub. L. 101–509, title VI, § 612, Nov. 5, 1990, 104 Stat. 1473.
 
-Pub. L. 101–136, title VI, § 612, Nov. 3, 1989, 103 Stat. 818.
+Pub. L. 101–136, title VI, § 612, Nov. 3, 1989, 103 Stat. 818.
 
-Pub. L. 100–440, title VI, § 612, Sept. 22, 1988, 102 Stat. 1753.
+Pub. L. 100–440, title VI, § 612, Sept. 22, 1988, 102 Stat. 1753.
 
-Pub. L. 100–202, § 101(m) [title VI, § 613], Dec. 22, 1987, 101 Stat. 1329–390, 1329–421.
+Pub. L. 100–202, § 101(m) [title VI, § 613], Dec. 22, 1987, 101 Stat. 1329–390, 1329–421.
 
-Pub. L. 99–500, § 101(m) [title VI, § 613], Oct. 18, 1986, 100 Stat. 1783–308, 1783–330, and Pub. L. 99–591, § 101(m) [title VI, § 613], Oct. 30, 1986, 100 Stat. 3341–308, 3341–330.
+Pub. L. 99–500, § 101(m) [title VI, § 613], Oct. 18, 1986, 100 Stat. 1783–308, 1783–330, and Pub. L. 99–591, § 101(m) [title VI, § 613], Oct. 30, 1986, 100 Stat. 3341–308, 3341–330.
 
-Pub. L. 99–272, title XV, § 15201(b), Apr. 7, 1986, 100 Stat. 332.
+Pub. L. 99–272, title XV, § 15201(b), Apr. 7, 1986, 100 Stat. 332.
 
-Pub. L. 99–190, § 101(h) [H.R. 3036, title VI, § 613], Dec. 19, 1985, 99 Stat. 1291.
+Pub. L. 99–190, § 101(h) [H.R. 3036, title VI, § 613], Dec. 19, 1985, 99 Stat. 1291.
 
-Pub. L. 98–473, § 101(j) [H.R. 5798, title VI, § 616], Oct. 12, 1984, 98 Stat. 1963.
+Pub. L. 98–473, § 101(j) [H.R. 5798, title VI, § 616], Oct. 12, 1984, 98 Stat. 1963.
 
-Pub. L. 98–369, div. B, title II, § 2202, July 18, 1984, 98 Stat. 1058.
+Pub. L. 98–369, div. B, title II, § 2202, July 18, 1984, 98 Stat. 1058.
 
-Pub. L. 98–270, title II, § 202(b), Apr. 18, 1984, 98 Stat. 158.
+Pub. L. 98–270, title II, § 202(b), Apr. 18, 1984, 98 Stat. 158.
 
-Pub. L. 98–151, § 101(f) [H.R. 4139, title VI, § 616], Nov. 14, 1983, 97 Stat. 973.
+Pub. L. 98–151, § 101(f) [H.R. 4139, title VI, § 616], Nov. 14, 1983, 97 Stat. 973.
 
-Pub. L. 98–107, § 110, Oct. 1, 1983, 97 Stat. 741.
+Pub. L. 98–107, § 110, Oct. 1, 1983, 97 Stat. 741.
 
-Pub. L. 97–377, title I, § 107, Dec. 21, 1982, 96 Stat. 1909.
+Pub. L. 97–377, title I, § 107, Dec. 21, 1982, 96 Stat. 1909.
 
-Pub. L. 97–276, § 109, Oct. 2, 1982, 96 Stat. 1191.
+Pub. L. 97–276, § 109, Oct. 2, 1982, 96 Stat. 1191.
 
-Pub. L. 97–35, title XVII, § 1701(b), Aug. 13, 1981, 95 Stat. 754.
+Pub. L. 97–35, title XVII, § 1701(b), Aug. 13, 1981, 95 Stat. 754.
 
-Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title VI, § 613], Dec. 16, 1980, 94 Stat. 3166.
+Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title VI, § 613], Dec. 16, 1980, 94 Stat. 3166.
 
-Pub. L. 96–369, § 114, Oct. 1, 1980, 94 Stat. 1356.
+Pub. L. 96–369, § 114, Oct. 1, 1980, 94 Stat. 1356.
 
-Pub. L. 96–74, title VI, § 613, Sept. 29, 1979, 93 Stat. 576.
+Pub. L. 96–74, title VI, § 613, Sept. 29, 1979, 93 Stat. 576.
 
-Pub. L. 95–429, title VI, § 614, Oct. 10, 1978, 92 Stat. 1018.
+Pub. L. 95–429, title VI, § 614, Oct. 10, 1978, 92 Stat. 1018.
 
 **Wage Rate for Certain Corps of Engineers Employees**
 
-Pub. L. 99–661, div. A, title XIII, § 1358, Nov. 14, 1986, 100 Stat. 3999, provided that:
+Pub. L. 99–661, div. A, title XIII, § 1358, Nov. 14, 1986, 100 Stat. 3999, provided that:
 
 > **“(a) Wage Determinations.—** Notwithstanding any other provision of law, in the administration of the last undesignated paragraph preceding chapter 6 of title I of Public Law 97–257 (96 Stat. 832) [set out below], the individuals described in subsection (b) shall be paid wages determined in the same manner as that established in such undesignated paragraph with respect to United States Army Corps of Engineers employees paid from Corps of Engineers Special Power Rate Schedules.
 
@@ -7321,13 +7321,13 @@ Pub. L. 99–661, div. A, title XIII, § 1358, Nov. 14, 1986, 100 Stat. 3999, 
 
 **Employees of United States Corps of Engineers Paid From Corps of Engineers Special Power Rate Schedules; Consistency of Wages With Wages of Energy and Interior Department Employees**
 
-Pub. L. 110–114, title V, § 5026, Nov. 8, 2007, 121 Stat. 1203, provided that: “Employees of the Corps of Engineers who are paid wages determined under the last undesignated paragraph under the heading ‘Administrative Provisions’ of chapter V of the Supplemental Appropriations Act, 1982 (5 U.S.C. 5343 note; 96 Stat. 832) shall be allowed, through appropriate employee organization representatives, to participate in wage surveys under such paragraph to the same extent as are prevailing rate employees under subsection (c)(2) of section 5343 of title 5, United States Code. Nothing in such section 5343 shall be construed to affect which agencies are to be surveyed under such paragraph.”
+Pub. L. 110–114, title V, § 5026, Nov. 8, 2007, 121 Stat. 1203, provided that: “Employees of the Corps of Engineers who are paid wages determined under the last undesignated paragraph under the heading ‘Administrative Provisions’ of chapter V of the Supplemental Appropriations Act, 1982 (5 U.S.C. 5343 note; 96 Stat. 832) shall be allowed, through appropriate employee organization representatives, to participate in wage surveys under such paragraph to the same extent as are prevailing rate employees under subsection (c)(2) of section 5343 of title 5, United States Code. Nothing in such section 5343 shall be construed to affect which agencies are to be surveyed under such paragraph.”
 
-Pub. L. 97–257, title I, § 100, Sept. 10, 1982, 96 Stat. 832, provided in part that: “Without regard to any other provision of law limiting the amounts payable to prevailing wage rate employees, United States Army Corps of Engineers employees paid from Corps of Engineers Special Power Rate Schedules shall be paid, beginning the effective date of each annual wage survey in the region after the date of enactment of this Act [Sept. 10, 1982], wages as determined by the Department of Defense Wage Fixing Authority to be consistent with wages of the Department of Energy and the Department of the Interior employees performing similar work in the corresponding area whose wage rates are established in accordance with section 9(b) of Public Law 92–392 or section 704 of Public Law 95–454 [set out as notes under this section].”
+Pub. L. 97–257, title I, § 100, Sept. 10, 1982, 96 Stat. 832, provided in part that: “Without regard to any other provision of law limiting the amounts payable to prevailing wage rate employees, United States Army Corps of Engineers employees paid from Corps of Engineers Special Power Rate Schedules shall be paid, beginning the effective date of each annual wage survey in the region after the date of enactment of this Act [Sept. 10, 1982], wages as determined by the Department of Defense Wage Fixing Authority to be consistent with wages of the Department of Energy and the Department of the Interior employees performing similar work in the corresponding area whose wage rates are established in accordance with section 9(b) of Public Law 92–392 or section 704 of Public Law 95–454 [set out as notes under this section].”
 
 **Negotiating Requirements for Labor Contracts, Etc., On and After October 13, 1978, and Negotiated Under Prevailing Rates and Practices Prior to August 19, 1972**
 
-Pub. L. 95–454, title VII, § 704, Oct. 13, 1978, 92 Stat. 1218, provided that:
+Pub. L. 95–454, title VII, § 704, Oct. 13, 1978, 92 Stat. 1218, provided that:
 
 > **“(a)** Those terms and conditions of employment and other employment benefits with respect to Government prevailing rate employees to whom section 9(b) of Public Law 92–392 [set out as a note under this section] applies which were the subject of negotiation in accordance with prevailing rates and practices prior to August 19, 1972, shall be negotiated on and after the date of the enactment of this Act [Oct. 13, 1978] in accordance with the provisions of section 9(b) of Public Law 92–392 without regard to any provision of chapter 71 of title 5, United States Code (as amended by this title [title VII of Pub. L. 95–454]), to the extent that any such provision is inconsistent with this paragraph.
 
@@ -7341,7 +7341,7 @@ Pub. L. 95–454, title VII, § 704, Oct. 13, 1978, 92 Stat. 1218, provided th
 
 **Conversion Rules for Wage Schedule; Service for One Step Increase; Prohibition of Decrease in Basic Pay Rate; Retained Pay Continued**
 
-Pub. L. 92–392, § 9(a), Aug. 19, 1972, 86 Stat. 573, provided that:
+Pub. L. 92–392, § 9(a), Aug. 19, 1972, 86 Stat. 573, provided that:
 
 > **“(1)** Except as provided by this subsection, an employee’s initial rate of pay on conversion to a wage schedule established pursuant to the amendments made by this Act [see Effective Date note under section 5341 of this title] shall be determined under conversion rules prescribed by the Civil Service Commission. Service by an employee in a grade of a wage schedule performed before the effective date of the conversion of the employee to a wage schedule established pursuant to the amendments made by this Act shall be counted toward not to exceed one step increase under the time in step provisions of section 5343(e)(2) of title 5, United States Code, as amended by the first section of this Act [subsec. (e)(2) of this section].
 
@@ -7349,7 +7349,7 @@ Pub. L. 92–392, § 9(a), Aug. 19, 1972, 86 Stat. 573, provided that:
 
 **Labor Contracts Pertaining to Wages, Terms and Conditions of Employment, and Other Employment Benefits**
 
-Pub. L. 92–392, § 9(b), Aug. 19, 1972, 86 Stat. 574, provided that:
+Pub. L. 92–392, § 9(b), Aug. 19, 1972, 86 Stat. 574, provided that:
 
 > “The amendments made by this Act [enacting this subchapter and section 5550 of this title, amending sections 2105(c)(1), 5337, 5541(2)(xi), 5544(a), 5548, 6101(a)(1), 7154(b), and 8704(d)(2) of this title, repealing section 6102 of this title, and enacting provisions set out as notes under sections 5341 and 5343 of this title and section 60a of Title 2, The Congress] shall not be construed to—
 
@@ -7361,11 +7361,11 @@ Pub. L. 92–392, § 9(b), Aug. 19, 1972, 86 Stat. 574, provided that:
 
 **Wage Survey**
 
-Pub. L. 92–392, § 15(b), Aug. 19, 1972, 86 Stat. 575, provided that: “A wage survey conducted by an agency before the effective date (with respect to employees covered by that wage survey) of this Act [see note under section 5341 of this title], for a wage schedule which becomes effective after that effective date [Aug. 19, 1972], is deemed to meet the requirement in this Act for a survey by a lead agency.”
+Pub. L. 92–392, § 15(b), Aug. 19, 1972, 86 Stat. 575, provided that: “A wage survey conducted by an agency before the effective date (with respect to employees covered by that wage survey) of this Act [see note under section 5341 of this title], for a wage schedule which becomes effective after that effective date [Aug. 19, 1972], is deemed to meet the requirement in this Act for a survey by a lead agency.”
 
 **Equitable Wage Adjustments for Certain Prevailing Rate Employees**
 
-Pub. L. 92–298, §§ 1, 2, May 17, 1972, 86 Stat. 146, provided:
+Pub. L. 92–298, §§ 1, 2, May 17, 1972, 86 Stat. 146, provided:
 
 > “That this Act [enacting this note and amending sections 4531 and 4571 of Title 2, The Congress] may be cited as the ‘Prevailing Rate Equalization Adjustment Act of 1972’.
 
@@ -7387,7 +7387,7 @@ Pub. L. 92–298, §§ 1, 2, May 17, 1972, 86 Stat. 146, provided:
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 5344. Effective date of wage increase; retroactive pay
+### § 5344. Effective date of wage increase; retroactive pay
 
 **(a)** Each increase in rates of basic pay granted, pursuant to a wage survey, to prevailing rate employees is effective not later than the first day of the first pay period which begins on or after the 45th day, excluding Saturdays and Sundays, following the date the wage survey is ordered to be made.
 
@@ -7399,7 +7399,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 For the purpose of this subsection, service in the armed forces includes the period provided by statute for the mandatory restoration of the individual to a position in or under the Government of the United States or the government of the District of Columbia after he is relieved from training and service in the armed forces or discharged from hospitalization following that training and service.
 
-(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 568.)
+(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 568.)
 
 **Editorial Notes**
 
@@ -7413,11 +7413,11 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 Section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
 
-### [§ 5345. Repealed. Pub. L. 95–454, title VIII, § 801(a)(2), Oct. 13, 1978, 92 Stat. 1221]
+### [§ 5345. Repealed. Pub. L. 95–454, title VIII, § 801(a)(2), Oct. 13, 1978, 92 Stat. 1221]
 
-Section, added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 569, related to retained rate of pay on reduction in grade or reassignment.
+Section, added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 569, related to retained rate of pay on reduction in grade or reassignment.
 
-A prior section 5345, added Pub. L. 90–206, title II, § 223(a), Dec. 16, 1967, 81 Stat. 641, which provided for position classification appeals, was omitted in the general amendment of this subchapter, and is covered by section 5346(c) of this title.
+A prior section 5345, added Pub. L. 90–206, title II, § 223(a), Dec. 16, 1967, 81 Stat. 641, which provided for position classification appeals, was omitted in the general amendment of this subchapter, and is covered by section 5346(c) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7425,7 +7425,7 @@ A prior section 5345, added Pub. L. 90–206, title II, § 223(a), Dec. 16, 19
 
 Repeal effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, and an employee receiving pay on day before such effective date not to have such pay reduced or terminated and, unless section 5362 applies, employee is entitled to continuation of such pay, etc., see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
-### § 5346. Job grading system
+### § 5346. Job grading system
 
 **(a)** The Office of Personnel Management, after consulting with the agencies and with employee organizations, shall establish and maintain a job grading system for positions to which this subchapter applies. In carrying out this subsection, the Office shall—
 
@@ -7451,7 +7451,7 @@ Repeal effective on first day of first applicable pay period beginning on or aft
 
 The Office shall certify to the agency concerned its action under paragraph (3) of this subsection. The agency shall act in accordance with the certificate, and the certificate is binding on all administrative, certifying, payroll, disbursing, and accounting officials.
 
-(Added Pub. L. 90–206, title II, § 223(a), Dec. 16, 1967, 81 Stat. 641, § 5345; renumbered § 5346 and amended Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 570; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+(Added Pub. L. 90–206, title II, § 223(a), Dec. 16, 1967, 81 Stat. 641, § 5345; renumbered § 5346 and amended Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 570; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Editorial Notes**
 
@@ -7473,7 +7473,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
-### § 5347. Federal Prevailing Rate Advisory Committee
+### § 5347. Federal Prevailing Rate Advisory Committee
 
 **(a)** There is established a Federal Prevailing Rate Advisory Committee composed of—
 
@@ -7507,7 +7507,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 **(h)** The Office of Personnel Management shall provide such clerical and professional personnel as the Chairman of the Committee considers appropriate and necessary to carry out its functions under this subchapter. Such personnel shall be responsible to the Chairman of the Committee.
 
-(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 571; amended Pub. L. 95–454, title IX, § 906(a)(1), (2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 102–378, § 2(30), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–66, title II, § 2181(d), Dec. 21, 1995, 109 Stat. 732.)
+(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 571; amended Pub. L. 95–454, title IX, § 906(a)(1), (2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 102–378, § 2(30), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–66, title II, § 2181(d), Dec. 21, 1995, 109 Stat. 732.)
 
 **Editorial Notes**
 
@@ -7535,7 +7535,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
 
-### § 5348. Crews of vessels
+### § 5348. Crews of vessels
 
 **(a)** Except as provided by subsection (c), the pay of officers and members of crews of vessels excepted from chapter 51 of this title by section 5102(c)(8) of this title shall be fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates and practices in the maritime industry, not to exceed the rate of pay for the Vice President under section 104 of title 3.
 
@@ -7543,19 +7543,19 @@ Section effective on first day of first applicable pay period beginning on or af
 
 **(c)** Vessel employees in an area where inadequate maritime industry practice exists and vessel employees of the Corps of Engineers shall have their pay fixed and adjusted under the provisions of this subchapter other than this section, as appropriate.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, § 5348, formerly § 5342; renumbered and amended Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 572; Pub. L. 96–70, title III, § 3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(3)(C), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 119–60, div. A, title XI, § 1104, Dec. 18, 2025, 139 Stat. 1073.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, § 5348, formerly § 5342; renumbered and amended Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 572; Pub. L. 96–70, title III, § 3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(3)(C), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 119–60, div. A, title XI, § 1104, Dec. 18, 2025, 139 Stat. 1073.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1104(1), substituted “subsection (c)” for “subsection (b) of this section” and inserted “, not to exceed the rate of pay for the Vice President under section 104 of title 3” before period at end.
+2025—Subsec. (a). Pub. L. 119–60, § 1104(1), substituted “subsection (c)” for “subsection (b) of this section” and inserted “, not to exceed the rate of pay for the Vice President under section 104 of title 3” before period at end.
 
-Subsecs. (b), (c). Pub. L. 119–60, § 1104(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 119–60, § 1104(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1996—Subsec. (a). Pub. L. 104–201, § 3548(a)(3)(C)(iii), substituted “subsection (b)” for “subsections (b) and (c)”.
+1996—Subsec. (a). Pub. L. 104–201, § 3548(a)(3)(C)(iii), substituted “subsection (b)” for “subsections (b) and (c)”.
 
-Subsecs. (b), (c). Pub. L. 104–201, § 3548(a)(3)(C)(i), (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Vessel employees of the Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry.”
+Subsecs. (b), (c). Pub. L. 104–201, § 3548(a)(3)(C)(i), (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Vessel employees of the Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry.”
 
 1979—Subsec. (b). Pub. L. 96–70 substituted “Commission” for “Company”.
 
@@ -7577,19 +7577,19 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 For provisions limiting the adjustment of salary or basic pay of employees covered by this section, see provisions set out as notes under section 5343 of this title.
 
-### § 5349. Prevailing rate employees; legislative, judicial, Bureau of Engraving and Printing, and government of the District of Columbia
+### § 5349. Prevailing rate employees; legislative, judicial, Bureau of Engraving and Printing, and government of the District of Columbia
 
 **(a)** The pay of employees, described under section 5102(c)(7) of this title, in the Library of Congress, the Botanic Garden, the Government Publishing Office, the Government Accountability Office, the Office of the Architect of the Capitol, the Bureau of Engraving and Printing, and the government of the District of Columbia, shall be fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates and in accordance with such provisions of this subchapter, including the provisions of section 5344, relating to retroactive pay, and subchapter VI of this chapter, relating to grade and pay retention, as the pay-fixing authority of each such agency may determine. Subject to section 213(f) of title 29, the rates may not be less than the appropriate rates provided for by section 206(a)(1) of title 29. If the pay-fixing authority concerned determines that the provisions of subchapter VI of this chapter should apply to any employee under his jurisdiction, then the employee concerned shall be deemed to have satisfied the requirements of section 5361(1) of this title if the tenure of his appointment is substantially equivalent to the tenure of any appointment referred to in such paragraph.
 
 **(b)** Subsection (a) of this section does not modify or otherwise affect section 5102(d) of this title, section 305 of title 44, and section 5141 of title 31.
 
-(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 572; amended Pub. L. 95–454, title VIII, § 801(a)(3)(H), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 97–258, § 3(a)(11), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 100–426, title III, § 301, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–474, § 5(j), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 92–392, § 1(a), Aug. 19, 1972, 86 Stat. 572; amended Pub. L. 95–454, title VIII, § 801(a)(3)(H), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 97–258, § 3(a)(11), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 100–426, title III, § 301, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–474, § 5(j), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those comprising subsec. (a) of this section were contained in Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471; Pub. L. 90–83, § 1(97), Sept. 11, 1967, 81 Stat. 220 (formerly classified to section 5341(a) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
+Provisions similar to those comprising subsec. (a) of this section were contained in Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471; Pub. L. 90–83, § 1(97), Sept. 11, 1967, 81 Stat. 220 (formerly classified to section 5341(a) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 **Amendments**
 
@@ -7619,7 +7619,7 @@ Section effective on first day of first applicable pay period beginning on or af
 
 ## SUBCHAPTER V—STUDENT-EMPLOYEES
 
-### § 5351. Definitions
+### § 5351. Definitions
 
 For the purpose of this subchapter—
 
@@ -7631,13 +7631,13 @@ For the purpose of this subchapter—
 
 **(B)** any other student-employee, assigned or attached primarily for training purposes to a hospital, clinic, or medical or dental laboratory operated by an agency, who is designated by the head of the agency with the approval of the Office of Personnel Management.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1052. | Aug. 4, 1947, ch. 452, § 2, 61 Stat. 727. |
+|  | 5 U.S.C. 1052. | Aug. 4, 1947, ch. 452, § 2, 61 Stat. 727. |
 
 The section is restated in definition form. In paragraph (1), the words “an Executive agency, a military department” are coextensive with and substituted for “department, agency, or instrumentality of the Federal Government” in view of the definitions in sections 105 and 102.
 
@@ -7657,17 +7657,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 5352. Stipends
+### § 5352. Stipends
 
 The head of each agency, and the District of Columbia Council with respect to the government of the District of Columbia, shall fix the stipends of its student-employees. The stipend may not exceed the applicable maximum prescribed by the Office of Personnel Management.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 90–623, § 1(7), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 90–623, § 1(7), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1051 (1st sentence). | Aug. 4, 1947, ch. 452, § 3 (1st sentence), 61 Stat. 727. |
+|  | 5 U.S.C. 1051 (1st sentence). | Aug. 4, 1947, ch. 452, § 3 (1st sentence), 61 Stat. 727. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -7677,7 +7677,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1968—Pub. L. 90–623 inserted “, and the District of Columbia Council with respect to the government of the District of Columbia,” after “head of each agency” and substituted “its” for “his”.
+1968—Pub. L. 90–623 inserted “, and the District of Columbia Council with respect to the government of the District of Columbia,” after “head of each agency” and substituted “its” for “his”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7691,19 +7691,19 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **Transfer of Functions**
 
-District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
-### § 5353. Quarters, subsistence, and laundry
+### § 5353. Quarters, subsistence, and laundry
 
 An agency may provide living quarters, subsistence, and laundering to student-employees while at the hospitals, clinics, or laboratories. The reasonable value of the accommodations, when furnished, shall be deducted from the stipend of the student-employee. The head of the agency concerned, and the District of Columbia Council with respect to the government of the District of Columbia, shall fix the reasonable value of the accommodations at an amount not less than the lowest deduction applicable to regular employees at the same hospital, clinic, or laboratory for similar accommodations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 90–623, § 1(8), Oct. 22, 1968, 82 Stat. 1312.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 90–623, § 1(8), Oct. 22, 1968, 82 Stat. 1312.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1051 (less 1st sentence). | Aug. 4, 1947, ch. 452, § 3 (less 1st sentence), 61 Stat. 727. |
+|  | 5 U.S.C. 1051 (less 1st sentence). | Aug. 4, 1947, ch. 452, § 3 (less 1st sentence), 61 Stat. 727. |
 
 The section is restated for clarity.
 
@@ -7713,7 +7713,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1968—Pub. L. 90–623 inserted “, and the District of Columbia Council with respect to the government of the District of Columbia,” after “head of the agency concerned”.
+1968—Pub. L. 90–623 inserted “, and the District of Columbia Council with respect to the government of the District of Columbia,” after “head of the agency concerned”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7723,9 +7723,9 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **Transfer of Functions**
 
-District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
-### § 5354. Effect of detail or affiliation; travel expenses
+### § 5354. Effect of detail or affiliation; travel expenses
 
 **(a)** Status as a student-employee is not terminated by a temporary detail to or affiliation with another Government or non-Government institution to procure necessary supplementary training or experience pursuant to an order of the head of the agency. A student-employee may receive his stipend and other perquisites provided under this subchapter from the hospital, clinic, or laboratory to which he is assigned or attached for not more than 60 days of a detail or affiliation for each training year, as defined by the head of the agency.
 
@@ -7737,25 +7737,25 @@ District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, aboli
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1055. | Aug. 4, 1947, ch. 452, § 6, 61 Stat. 728. |
+|  | 5 U.S.C. 1055. | Aug. 4, 1947, ch. 452, § 6, 61 Stat. 728. |
 
 In subsection (b), the reference to “subchapter I of chapter 57 of this title” is substituted for the reference to “the Standardized Government Travel Regulations and the provisions of the Subsistence Expense Act of 1926, as amended” as the Subsistence Expense Act of 1926 was repealed by section 9(a) of the Travel Expense Act of 1949, 63 Stat. 167, part of which appeared in former section 842 and is carried into section 5708, and as the authority for the Standardized Government Travel Regulations in former section 840 is carried into section 5707 of subchapter I of chapter 57.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 5355. Effect on other statutes
+### § 5355. Effect on other statutes
 
 This subchapter does not limit the authority conferred on the Secretary of Veterans Affairs by chapter 73 of title 38.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 102–54, § 13(b)(3), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 102–54, § 13(b)(3), June 13, 1991, 105 Stat. 274.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1057. | Aug. 4, 1947, ch. 452, § 8, 61 Stat. 728. |
-|  |  | June 17, 1957, Pub. L. 85–56, § 2201(19), 71 Stat. 159. |
-|  |  | Sept. 2, 1958, Pub. L. 85–857, § 13(m), 72 Stat. 1265. |
+|  | 5 U.S.C. 1057. | Aug. 4, 1947, ch. 452, § 8, 61 Stat. 728. |
+|  |  | June 17, 1957, Pub. L. 85–56, § 2201(19), 71 Stat. 159. |
+|  |  | Sept. 2, 1958, Pub. L. 85–857, § 13(m), 72 Stat. 1265. |
 
 The prohibition is restated in positive form.
 
@@ -7767,7 +7767,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1991—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-### § 5356. Appropriations
+### § 5356. Appropriations
 
 Funds appropriated to an agency for expenses of its hospitals, clinics, and laboratories to which student-employees are assigned or attached are available to carry out the provisions of this subchapter.
 
@@ -7777,7 +7777,7 @@ Funds appropriated to an agency for expenses of its hospitals, clinics, and labo
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1058. | Aug. 4, 1947, ch. 452, § 9, 61 Stat. 728. |
+|  | 5 U.S.C. 1058. | Aug. 4, 1947, ch. 452, § 9, 61 Stat. 728. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -7787,9 +7787,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Prior Provisions**
 
-A prior subchapter VI was renumbered VII by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(i), Oct. 13, 1978, 92 Stat. 1221.
+A prior subchapter VI was renumbered VII by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(i), Oct. 13, 1978, 92 Stat. 1221.
 
-### § 5361. Definitions
+### § 5361. Definitions
 
 For the purpose of this subchapter—
 
@@ -7819,7 +7819,7 @@ For the purpose of this subchapter—
 
 **(8)** “retained rate” means the rate of basic pay to which an employee is entitled under section 5363(b)(2).
 
-(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1218; amended Pub. L. 98–615, title II, § 204(a)(2), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 101–509, title V, § 529 [title I, § 105(b)(1)], Nov. 5, 1990, 104 Stat. 1427, 1448; Pub. L. 103–89, § 3(b)(1)(J), Sept. 30, 1993, 107 Stat. 982; Pub. L. 108–411, title III, § 301(a)(4), Oct. 30, 2004, 118 Stat. 2315.)
+(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1218; amended Pub. L. 98–615, title II, § 204(a)(2), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 101–509, title V, § 529 [title I, § 105(b)(1)], Nov. 5, 1990, 104 Stat. 1427, 1448; Pub. L. 103–89, § 3(b)(1)(J), Sept. 30, 1993, 107 Stat. 982; Pub. L. 108–411, title III, § 301(a)(4), Oct. 30, 2004, 118 Stat. 2315.)
 
 **Editorial Notes**
 
@@ -7829,13 +7829,13 @@ The General Schedule, referred to in par. (5), is set out under section 5332 of 
 
 **Prior Provisions**
 
-A prior section 5361, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which related to scientific and professional positions, was renumbered section 5371 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
+A prior section 5361, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which related to scientific and professional positions, was renumbered section 5371 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
 
 **Amendments**
 
-2004—Par. (4). Pub. L. 108–411, § 301(a)(4)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘rate of basic pay’ means, in the case of a prevailing rate employee, the scheduled rate of pay determined under section 5343 of this title;”.
+2004—Par. (4). Pub. L. 108–411, § 301(a)(4)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘rate of basic pay’ means, in the case of a prevailing rate employee, the scheduled rate of pay determined under section 5343 of this title;”.
 
-Par. (8). Pub. L. 108–411, § 301(a)(4)(B)–(D), added par. (8).
+Par. (8). Pub. L. 108–411, § 301(a)(4)(B)–(D), added par. (8).
 
 1993—Par. (5). Pub. L. 103–89 substituted “or a special occupational pay system under subchapter IX” for “a special occupational pay system under subchapter IX, or the performance management and recognition system under chapter 54 of this title”.
 
@@ -7855,21 +7855,21 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 **Effective Date**
 
-Pub. L. 95–454, title VIII, § 801(a)(4), Oct. 13, 1978, 92 Stat. 1222, provided that:
+Pub. L. 95–454, title VIII, § 801(a)(4), Oct. 13, 1978, 92 Stat. 1222, provided that:
 
 > **“(A)** The amendments made by this subsection [enacting sections 5361 to 5366 of this title and redesignating former sections 5361 to 5366 as sections 5371 to 5375 of this title, amending sections 559, 1305, 3104, 5102, 5107, 5334, 5349, and 8704 of this title, sections 4540, 7212, and 9540 of Title 10, Armed Forces, section 1715 of Title 15, Commerce and Trade, and section 3608 of Title 42, The Public Health and Welfare, and repealing sections 5337 and 5345 of this title] shall take effect on the first day of the first applicable pay period beginning on or after the 90th day after the date of the enactment of this Act [Oct. 13, 1978].
 
 > **“(B)** An employee who was receiving pay under the provisions of section 5334(d), 5337, or 5345 of title 5, United States Code, on the day before the effective date prescribed in subparagraph (A) of this paragraph shall not have such pay reduced or terminated by reason of the amendments made by this subsection and, unless section 5362 of such title 5 (as amended by subsection (a)(1) of this section) applies, such an employee is entitled to continue to receive pay as authorized by those provisions (as in effect on such date).”
 
-### § 5362. Grade retention following a change of positions or reclassification
+### § 5362. Grade retention following a change of positions or reclassification
 
 **(a)** Any employee—
 
@@ -7903,13 +7903,13 @@ is entitled, to the extent provided in subsection (c) of this section, to have t
 
 **(4)** elects in writing to have the benefits of this section terminate.
 
-(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1219; amended Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, § 3(b)(1)(K), Sept. 30, 1993, 107 Stat. 982.)
+(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1219; amended Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, § 3(b)(1)(K), Sept. 30, 1993, 107 Stat. 982.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5362, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, Pub. L. 95–251, § 2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183, which related to hearing examiners, was renumbered section 5372 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
+A prior section 5362, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, Pub. L. 95–251, § 2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183, which related to hearing examiners, was renumbered section 5372 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
 
 **Amendments**
 
@@ -7929,7 +7929,7 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 **Additional Pay and Benefits for Employees Reduced in Grade On or After January 1, 1977, Etc.**
 
-Pub. L. 95–454, title VIII, § 801(b), Oct. 13, 1978, 92 Stat. 1222, provided that:
+Pub. L. 95–454, title VIII, § 801(b), Oct. 13, 1978, 92 Stat. 1222, provided that:
 
 > **“(1)** Under regulations prescribed by the Office of Personnel Management, any employee—
 
@@ -7957,7 +7957,7 @@ Pub. L. 95–454, title VIII, § 801(b), Oct. 13, 1978, 92 Stat. 1222, provide
 
 > **“(4)** The Office of Personnel Management shall have the same authority to prescribe regulations under this subsection as it has under section 5365 of title 5, United States Code, with respect to subchapter VI of chapter 53 of such title, as added by subsection (a) of this section.”
 
-### § 5363. Pay retention
+### § 5363. Pay retention
 
 **(a)** Any employee—
 
@@ -8021,19 +8021,19 @@ this section shall be applied—
 
 **(3)** is demoted for personal cause or at the employee’s request.
 
-(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1219; amended Pub. L. 101–509, title V, § 529 [title I, §§ 101(b)(3)(B), 105(b)(2)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1448; Pub. L. 103–89, § 3(b)(1)(L), Sept. 30, 1993, 107 Stat. 982; Pub. L. 108–411, title III, § 301(a)(5), Oct. 30, 2004, 118 Stat. 2316.)
+(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1219; amended Pub. L. 101–509, title V, § 529 [title I, §§ 101(b)(3)(B), 105(b)(2)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1448; Pub. L. 103–89, § 3(b)(1)(L), Sept. 30, 1993, 107 Stat. 982; Pub. L. 108–411, title III, § 301(a)(5), Oct. 30, 2004, 118 Stat. 2316.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5363, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which related to limitation on pay fixed by administrative action, was renumbered section 5373 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
+A prior section 5363, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which related to limitation on pay fixed by administrative action, was renumbered section 5373 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–411, § 301(a)(5)(A), inserted concluding provisions and struck out former concluding provisions which read as follows: “is entitled to basic pay at a rate equal to (A) the employee’s allowable former rate of basic pay, plus (B) 50 percent of the amount of each increase in the maximum rate of basic pay payable for the grade of the employee’s position immediately after such reduction in pay if such allowable former rate exceeds such maximum rate for such grade.”
+2004—Subsec. (a). Pub. L. 108–411, § 301(a)(5)(A), inserted concluding provisions and struck out former concluding provisions which read as follows: “is entitled to basic pay at a rate equal to (A) the employee’s allowable former rate of basic pay, plus (B) 50 percent of the amount of each increase in the maximum rate of basic pay payable for the grade of the employee’s position immediately after such reduction in pay if such allowable former rate exceeds such maximum rate for such grade.”
 
-Subsecs. (b) to (e). Pub. L. 108–411, § 301(a)(5)(B), added subsecs. (b) to (e) and struck out former subsecs. (b) and (c) which read as follows:
+Subsecs. (b) to (e). Pub. L. 108–411, § 301(a)(5)(B), added subsecs. (b) to (e) and struck out former subsecs. (b) and (c) which read as follows:
 
 “(b) For the purpose of subsection (a) of this section, ‘allowable former rate of basic pay’ means the lower of—
 
@@ -8057,7 +8057,7 @@ Subsecs. (b) to (e). Pub. L. 108–411, § 301(a)(5)(B), added subsecs. (b) to
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–411, title III, § 301(d), Oct. 30, 2004, 118 Stat. 2317, provided that:
+Pub. L. 108–411, title III, § 301(d), Oct. 30, 2004, 118 Stat. 2317, provided that:
 
 > **“(1) Effective date.—** This section [amending this section, sections 4505a, 5302, 5305, 5334, 5361, and 5365 of this title, and provisions set out as a note under section 5305 of this title] shall take effect on the first day of the first applicable pay period beginning on or after the 180th day after the date of the enactment of this Act [Oct. 30, 2004].
 
@@ -8073,9 +8073,9 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-### § 5364. Remedial actions
+### § 5364. Remedial actions
 
 Under regulations prescribed by the Office of Personnel Management, the Office may require any agency—
 
@@ -8087,15 +8087,15 @@ Under regulations prescribed by the Office of Personnel Management, the Office m
 
 **(4)** to place certain employees, notwithstanding the fact their previous position was in a different agency, but only in circumstances in which the Office determines the exercise of such authority is necessary to carry out the purpose of this section.
 
-(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1220.)
+(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1220.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5364, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which related to miscellaneous positions in the executive branch, was renumbered section 5374 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
+A prior section 5364, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which related to miscellaneous positions in the executive branch, was renumbered section 5374 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
 
-### § 5365. Regulations
+### § 5365. Regulations
 
 **(a)** The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
 
@@ -8109,13 +8109,13 @@ A prior section 5364, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which relat
 
 Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
-(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1220; amended Pub. L. 101–508, title VII, § 7202(f), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 108–411, title III, § 301(a)(6), Oct. 30, 2004, 118 Stat. 2317.)
+(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1220; amended Pub. L. 101–508, title VII, § 7202(f), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 108–411, title III, § 301(a)(6), Oct. 30, 2004, 118 Stat. 2317.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5365, added Pub. L. 91–34, § 1(a), June 30, 1969, 83 Stat. 41; amended Pub. L. 94–183, § 2(20), Dec. 31, 1975, 89 Stat. 1058, which related to the police force of National Zoological Park, was renumbered section 5375 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
+A prior section 5365, added Pub. L. 91–34, § 1(a), June 30, 1969, 83 Stat. 41; amended Pub. L. 94–183, § 2(20), Dec. 31, 1975, 89 Stat. 1058, which related to the police force of National Zoological Park, was renumbered section 5375 of this title by Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
 
 **Amendments**
 
@@ -8137,7 +8137,7 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 5366. Appeals
+### § 5366. Appeals
 
 **(a)**
 
@@ -8157,7 +8157,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 shall not be treated as appealable under such appeals procedures or grievable under such grievance procedure.
 
-(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1221.)
+(Added Pub. L. 95–454, title VIII, § 801(a)(1), Oct. 13, 1978, 92 Stat. 1221.)
 
 ## SUBCHAPTER VII—MISCELLANEOUS PROVISIONS
 
@@ -8165,9 +8165,9 @@ shall not be treated as appealable under such appeals procedures or grievable un
 
 **Amendments**
 
-1978—Pub. L. 95–454, title VIII, § 801(a)(3)(A)(i), Oct. 13, 1978, 92 Stat. 1221, redesignated former subchapter VI as VII.
+1978—Pub. L. 95–454, title VIII, § 801(a)(3)(A)(i), Oct. 13, 1978, 92 Stat. 1221, redesignated former subchapter VI as VII.
 
-### § 5371. Health care positions
+### § 5371. Health care positions
 
 **(a)** For the purposes of this section, “health care” means direct patient-care services or services incident to direct patient-care services.
 
@@ -8183,13 +8183,13 @@ shall not be treated as appealable under such appeals procedures or grievable un
 
 **(2)** which involves health care responsibilities.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, § 5361; renumbered § 5371 and amended Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, § 529 [title II, § 205(A)], Nov. 5, 1990, 104 Stat. 1427, 1456; Pub. L. 102–378, § 2(31), Oct. 2, 1992, 106 Stat. 1350.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, § 5361; renumbered § 5371 and amended Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, § 529 [title II, § 205(A)], Nov. 5, 1990, 104 Stat. 1427, 1456; Pub. L. 102–378, § 2(31), Oct. 2, 1992, 106 Stat. 1350.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1162(b). | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 2(b)”, 75 Stat. 790. Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(1), 76 Stat. 863. |
+|  | 5 U.S.C. 1162(b). | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 2(b)”, 75 Stat. 790. Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(1), 76 Stat. 863. |
 
 The authority to fix rates of pay is added on authority of former section 1161, which is carried into section 3104.
 
@@ -8205,19 +8205,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1990—Pub. L. 101–509 amended section generally, substituting designated provisions directing that Office of Personnel Management may provide that chapter 73 of title 38 provisions apply to certain health care professionals for undesignated text authorizing agency heads to fix pay rates for scientific and professional positions at between GS–16 and GS–18 rates.
 
-1978—Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1978 Amendment**
 
 Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 5372. Administrative law judges
+### § 5372. Administrative law judges
 
 **(a)** For the purposes of this section, the term “administrative law judge” means an administrative law judge appointed under section 3105.
 
@@ -8243,13 +8243,13 @@ Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 
 **(c)** The Office of Personnel Management shall prescribe regulations necessary to administer this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, § 5362; Pub. L. 95–251, § 2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; renumbered § 5372 and amended Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, § 529 [title I, § 104(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1445; Pub. L. 102–378, § 2(32), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 106–97, § 1, Nov. 12, 1999, 113 Stat. 1322.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, § 5362; Pub. L. 95–251, § 2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; renumbered § 5372 and amended Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, § 529 [title I, § 104(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1445; Pub. L. 102–378, § 2(32), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 106–97, § 1, Nov. 12, 1999, 113 Stat. 1322.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1010 (3d sentence). | June 11, 1946, ch. 324, § 11 (3d sentence), 60 Stat. 244. |
+|  | 5 U.S.C. 1010 (3d sentence). | June 11, 1946, ch. 324, § 11 (3d sentence), 60 Stat. 244. |
 
 The exception from the operation of the efficiency rating system is omitted as covered by sections 4301(2)(E) and 5335(a)(B). The reference to “subchapter III of this chapter and chapter 51 of this title” is substituted for “the Classification Act of 1923, as amended” on authority of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
@@ -8265,7 +8265,7 @@ The General Schedule, referred to in subsec. (b)(4), is set out under section 53
 
 **Amendments**
 
-1999—Subsec. (b)(1). Pub. L. 106–97, § 1(1), designated first sentence as subpar. (A) and struck out after first sentence the following: “The rates of basic pay for those levels shall be as follows:
+1999—Subsec. (b)(1). Pub. L. 106–97, § 1(1), designated first sentence as subpar. (A) and struck out after first sentence the following: “The rates of basic pay for those levels shall be as follows:
 
 | AL–3, rate A | 65 percent of the rate of basic pay for level IV of the Executive Schedule. |
 |---|---|
@@ -8277,17 +8277,17 @@ The General Schedule, referred to in subsec. (b)(4), is set out under section 53
 | AL–2 | 95 percent of the rate of basic pay for level IV of the Executive Schedule. |
 | AL–1 | The rate of basic pay for level IV of the Executive Schedule.” |
 
-Subsec. (b)(1)(B), (C). Pub. L. 106–97, § 1(1), added subpars. (B) and (C).
+Subsec. (b)(1)(B), (C). Pub. L. 106–97, § 1(1), added subpars. (B) and (C).
 
-Subsec. (b)(3)(A). Pub. L. 106–97, § 1(2), substituted “at the beginning of the next pay period following” for “upon” in two places.
+Subsec. (b)(3)(A). Pub. L. 106–97, § 1(2), substituted “at the beginning of the next pay period following” for “upon” in two places.
 
-Subsec. (b)(4). Pub. L. 106–97, § 1(3), added par. (4).
+Subsec. (b)(4). Pub. L. 106–97, § 1(3), added par. (4).
 
 1992—Subsec. (c). Pub. L. 102–378 substituted “shall” for “shall,”.
 
 1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Administrative law judges appointed under section 3105 of this title are entitled to pay prescribed by the Office of Personnel Management independently of agency recommendations or ratings and in accordance with subchapter III of this chapter and chapter 51 of this title.”
 
-1978—Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Pub. L. 95–251 substituted “Administrative law judges” for “Hearing examiners” in section catchline and text.
 
@@ -8295,7 +8295,7 @@ Pub. L. 95–251 substituted “Administrative law judges” for “Hearing exam
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1978 Amendment**
 
@@ -8303,13 +8303,13 @@ Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 
 **Conversion Rule for Administrative Law Judges**
 
-Pub. L. 101–509, title V, § 529 [title I, § 104(e)], Nov. 5, 1990, 104 Stat. 1427, 1447, provided that: “In making initial pay adjustments for administrative law judges after this section and the amendments made by this section [enacting section 5372a of this title, amending this section, sections 5102, 5311, and 5335 of this title, section 938 of Title 30, Mineral Lands and Mining, and section 607 of Title 41, Public Contracts] take effect [see Effective Date of 1990 Amendment note set out under section 5301 of this title], the rate of basic pay for any such judge shall, upon conversion to the new pay system, be at least equal to the rate which was payable to that individual immediately before such conversion.”
+Pub. L. 101–509, title V, § 529 [title I, § 104(e)], Nov. 5, 1990, 104 Stat. 1427, 1447, provided that: “In making initial pay adjustments for administrative law judges after this section and the amendments made by this section [enacting section 5372a of this title, amending this section, sections 5102, 5311, and 5335 of this title, section 938 of Title 30, Mineral Lands and Mining, and section 607 of Title 41, Public Contracts] take effect [see Effective Date of 1990 Amendment note set out under section 5301 of this title], the rate of basic pay for any such judge shall, upon conversion to the new pay system, be at least equal to the rate which was payable to that individual immediately before such conversion.”
 
 **Pay Increases**
 
 For adjustment of rates of basic pay for administrative law judges under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of this title.
 
-### § 5372a. Contract appeals board members
+### § 5372a. Contract appeals board members
 
 **(a)** For the purpose of this section—
 
@@ -8327,7 +8327,7 @@ For adjustment of rates of basic pay for administrative law judges under this se
 
 **(c)** Rates of pay taking effect under this section shall be printed in the Federal Register and the Code of Federal Regulations.
 
-(Added Pub. L. 101–509, title V, § 529 [title I, § 104(a)(2)], Nov. 5, 1990, 104 Stat. 1427, 1446; amended Pub. L. 109–163, div. A, title VIII, § 847(f)(1), Jan. 6, 2006, 119 Stat. 3395; Pub. L. 111–350, § 5(a)(9), Jan. 4, 2011, 124 Stat. 3841.)
+(Added Pub. L. 101–509, title V, § 529 [title I, § 104(a)(2)], Nov. 5, 1990, 104 Stat. 1427, 1446; amended Pub. L. 109–163, div. A, title VIII, § 847(f)(1), Jan. 6, 2006, 119 Stat. 3395; Pub. L. 111–350, § 5(a)(9), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Editorial Notes**
 
@@ -8337,9 +8337,9 @@ Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in
 
 **Amendments**
 
-2011—Subsec. (a)(1). Pub. L. 111–350, § 5(a)(9)(A), substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978” and “section 7105(b)(2) of title 41” for “section 42 of the Office of Federal Procurement Policy Act”.
+2011—Subsec. (a)(1). Pub. L. 111–350, § 5(a)(9)(A), substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978” and “section 7105(b)(2) of title 41” for “section 42 of the Office of Federal Procurement Policy Act”.
 
-Subsec. (a)(2). Pub. L. 111–350, § 5(a)(9)(B), substituted “section 7105(a)(1), (c)(1), or (d)(1) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
+Subsec. (a)(2). Pub. L. 111–350, § 5(a)(9)(B), substituted “section 7105(a)(1), (c)(1), or (d)(1) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
 
 2006—Subsec. (a)(1). Pub. L. 109–163 inserted “or a member of the Civilian Board of Contract Appeals appointed under section 42 of the Office of Federal Procurement Policy Act” after “of 1978”.
 
@@ -8347,13 +8347,13 @@ Subsec. (a)(2). Pub. L. 111–350, § 5(a)(9)(B), substituted “section 7105(
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title VIII, § 847(g), Jan. 6, 2006, 119 Stat. 3395, provided that: “Section 42 of the Office of Federal Procurement Policy Act, as added by this section, and the amendments and repeals made by this section [enacting section 438 of Title 41, Public Contracts, amending this section and sections 601 and 607 of Title 41, and enacting provisions set out as a note under section 607 of Title 41], shall take effect 1 year after the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title VIII, § 847(g), Jan. 6, 2006, 119 Stat. 3395, provided that: “Section 42 of the Office of Federal Procurement Policy Act, as added by this section, and the amendments and repeals made by this section [enacting section 438 of Title 41, Public Contracts, amending this section and sections 601 and 607 of Title 41, and enacting provisions set out as a note under section 607 of Title 41], shall take effect 1 year after the date of the enactment of this Act [Jan. 6, 2006].”
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
-### § 5372b. Administrative appeals judges
+### § 5372b. Administrative appeals judges
 
 **(a)** For the purpose of this section—
 
@@ -8369,7 +8369,7 @@ Section effective on such date as the President shall determine, but not earlier
 
 **(2)** not greater than the maximum rate of basic pay for level AL–3 under section 5372.
 
-(Added Pub. L. 106–554, § 1(a)(3) [title VI, § 645(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 106–554, § 1(a)(3) [title VI, § 645(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -8385,7 +8385,7 @@ GS–15, referred to in subsec. (b), is contained in the General Schedule which 
 
 **Effective Date**
 
-Pub. L. 106–554, § 1(a)(3) [title VI, § 645(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–170, provided that:
+Pub. L. 106–554, § 1(a)(3) [title VI, § 645(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–170, provided that:
 
 > “The amendment made by subsection (a)(1) [enacting this section] shall apply with respect to pay for service performed on or after the first day of the first applicable pay period beginning on or after—
 
@@ -8393,37 +8393,37 @@ Pub. L. 106–554, § 1(a)(3) [title VI, § 645(b)], Dec. 21, 2000, 114 Stat
 
 > **“(2)** if earlier, the effective date of regulations prescribed by the Office of Personnel Management to carry out such amendment.”
 
-### § 5373. Limitation on pay fixed by administrative action
+### § 5373. Limitation on pay fixed by administrative action
 
 **(a)** Except as provided in subsection (b) and by the Government Employees Salary Reform Act of 1964 (78 Stat. 400) and notwithstanding the provisions of other statutes, the head of an Executive agency or military department who is authorized to fix by administrative action the annual rate of basic pay for a position or employee may not fix the rate at more than the rate for level IV of the Executive Schedule. This section does not impair the authorities provided by—
 
-**(1)** sections 248, 482, 1766, and 1819 of title 12, section 206 of the Bank Conservation Act, sections 2B(b) 1
+**(1)** sections 248, 482, 1766, and 1819 of title 12, section 206 of the Bank Conservation Act, sections 2B(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-and 21A(e)(4) 1 of the Federal Home Loan Bank Act, section 2A(i) 1 of the Home Owners’ Loan Act, and sections 5.11 and 5.58 of the Farm Credit Act of 1971;
+and 21A(e)(4) 1 of the Federal Home Loan Bank Act, section 2A(i) 1 of the Home Owners’ Loan Act, and sections 5.11 and 5.58 of the Farm Credit Act of 1971;
 
 **(2)** section 831b of title 16;
 
-**(3)** sections 403a–403c, 403e–403h, and 403j of title 50; <sup>1</sup> or
+**(3)** sections 403a–403c, 403e–403h, and 403j of title 50; <sup>1</sup> or
 
-**(4)**  2
+**(4)** 2
 
-<sup>2</sup>  So in original. Two pars. (4) have been enacted.
+<sup>2</sup> So in original. Two pars. (4) have been enacted.
 
 section 4802.
 
-**(4)**  <sup>2</sup> section 2(a)(7) of the Commodity Exchange Act (7 U.S.C. 2(a)(7)).
+**(4)** <sup>2</sup> section 2(a)(7) of the Commodity Exchange Act (7 U.S.C. 2(a)(7)).
 
 **(b)** Subsection (a) shall not affect the authority of the Secretary of Defense or the Secretary of a military department to fix the pay of a civilian employee paid from nonappropriated funds, except that the annual rate of basic pay (including any portion of such pay attributable to comparability with private-sector pay in a locality) of such an employee may not be fixed at a rate greater than the rate for level III of the Executive Schedule.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, § 5363; renumbered § 5373, Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, § 3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, § 742(b), title XII, § 1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(H)], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(4), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 106–65, div. A, title XI, § 1102, Oct. 5, 1999, 113 Stat. 776; Pub. L. 107–123, § 8(d)(1)(C), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, § 10702(c)(3), May 13, 2002, 116 Stat. 517.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, § 5363; renumbered § 5373, Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, § 3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, § 742(b), title XII, § 1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(H)], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(4), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 106–65, div. A, title XI, § 1102, Oct. 5, 1999, 113 Stat. 776; Pub. L. 107–123, § 8(d)(1)(C), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, § 10702(c)(3), May 13, 2002, 116 Stat. 517.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2212. | Aug. 14, 1964, Pub. L. 88–426, § 308, 78 Stat. 432. Oct. 6, 1964, Pub. L. 88–631, § 3(e), 78 Stat. 1008. |
+|  | 5 U.S.C. 2212. | Aug. 14, 1964, Pub. L. 88–426, § 308, 78 Stat. 432. Oct. 6, 1964, Pub. L. 88–631, § 3(e), 78 Stat. 1008. |
 
 The words “head of an Executive agency or military department” are coextensive with and substituted for “head of any executive department, independent establishment, or agency in the executive branch” because of the definitions in sections 102 and 105.
 
@@ -8439,29 +8439,29 @@ Level IV of the Executive Schedule, referred to in subsec. (a), is set out in se
 
 Section 206 of the Bank Conservation Act, referred to in subsec. (a)(1), is classified to section 206 of Title 12, Banks and Banking.
 
-Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in subsec. (a)(1), were classified to former sections 1422b(b) and 1441a(e)(4), respectively, of Title 12, Banks and Banking. Section 1422b of Title 12 was repealed by Pub. L. 110–289, div. A, title II, § 1204(1), July 30, 2008, 122 Stat. 2786. Section 1441a of Title 12 was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
+Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in subsec. (a)(1), were classified to former sections 1422b(b) and 1441a(e)(4), respectively, of Title 12, Banks and Banking. Section 1422b of Title 12 was repealed by Pub. L. 110–289, div. A, title II, § 1204(1), July 30, 2008, 122 Stat. 2786. Section 1441a of Title 12 was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
 
-Section 2A(i) of the Home Owners’ Loan Act, referred to in subsec. (a)(1), probably should be a reference to section 3(g) of the Home Owners’ Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, § 301, Aug. 9, 1989, 103 Stat. 278, which was classified to section 1462a(g) of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title III, § 369(3)(B), July 21, 2010, 124 Stat. 1558.
+Section 2A(i) of the Home Owners’ Loan Act, referred to in subsec. (a)(1), probably should be a reference to section 3(g) of the Home Owners’ Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, § 301, Aug. 9, 1989, 103 Stat. 278, which was classified to section 1462a(g) of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title III, § 369(3)(B), July 21, 2010, 124 Stat. 1558.
 
 Sections 5.11 and 5.58 of the Farm Credit Act of 1971, referred to in subsec. (a)(1), are classified to sections 2245 and 2277a–7, respectively, of Title 12, Banks and Banking.
 
-Sections 403a–403c, 403e–403h, and 403j of title 50, referred to in subsec. (a)(3), were editorially reclassified to sections 3501 to 3503, 3505, 3323, 3506, 3507, 3508, and 3510, respectively, of Title 50, War and National Defense. Section 403e–1 of Title 50, included within the reference to sections 403e–403h of Title 50, was enacted by Pub. L. 98–215, title IV, § 402, Dec. 9, 1983, 97 Stat. 1477, after subsec. (a)(3) was enacted, and subsequently editorially reclassified to section 3323 of Title 50.
+Sections 403a–403c, 403e–403h, and 403j of title 50, referred to in subsec. (a)(3), were editorially reclassified to sections 3501 to 3503, 3505, 3323, 3506, 3507, 3508, and 3510, respectively, of Title 50, War and National Defense. Section 403e–1 of Title 50, included within the reference to sections 403e–403h of Title 50, was enacted by Pub. L. 98–215, title IV, § 402, Dec. 9, 1983, 97 Stat. 1477, after subsec. (a)(3) was enacted, and subsequently editorially reclassified to section 3323 of Title 50.
 
 Level III of the Executive Schedule, referred to in subsec. (b), is set out in section 5314 of this title.
 
 **Amendments**
 
-2002—Subsec. (a)(2). Pub. L. 107–171, § 10702(c)(3)(A), which directed amendment of par. (2) by striking “or” at end, could not be executed because the word “or” did not appear at the end. See below.
+2002—Subsec. (a)(2). Pub. L. 107–171, § 10702(c)(3)(A), which directed amendment of par. (2) by striking “or” at end, could not be executed because the word “or” did not appear at the end. See below.
 
-Pub. L. 107–123, § 8(d)(1)(C)(i), struck out “or” at end.
+Pub. L. 107–123, § 8(d)(1)(C)(i), struck out “or” at end.
 
-Subsec. (a)(3). Pub. L. 107–171, § 10702(c)(3)(B), which directed substitution of “; or” for the period at the end, could not be executed because there was no period at the end. See below.
+Subsec. (a)(3). Pub. L. 107–171, § 10702(c)(3)(B), which directed substitution of “; or” for the period at the end, could not be executed because there was no period at the end. See below.
 
-Pub. L. 107–123, § 8(d)(1)(C)(ii), substituted “; or” for the period at the end.
+Pub. L. 107–123, § 8(d)(1)(C)(ii), substituted “; or” for the period at the end.
 
-Subsec. (a)(4). Pub. L. 107–171, § 10702(c)(3)(C), added par. (4) relating to section 2(a)(7) of the Commodity Exchange Act.
+Subsec. (a)(4). Pub. L. 107–171, § 10702(c)(3)(C), added par. (4) relating to section 2(a)(7) of the Commodity Exchange Act.
 
-Pub. L. 107–123, § 8(d)(1)(C)(iii), added par. (4) relating to section 4802.
+Pub. L. 107–123, § 8(d)(1)(C)(iii), added par. (4) relating to section 4802.
 
 1999—Pub. L. 106–65 designated existing provisions as subsec. (a), substituted “(a) Except as provided in subsection (b) and” for “Except as provided”, and added subsec. (b).
 
@@ -8469,9 +8469,9 @@ Pub. L. 107–123, § 8(d)(1)(C)(iii), added par. (4) relating to section 4802
 
 1990—Pub. L. 101–509 substituted “rate for level IV of the Executive Schedule.” for “maximum rate for GS–18.”
 
-1989—Par. (2). Pub. L. 101–73, § 1209, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “sections 248, 481, 1437, 1439, and 1819 of title 12;”.
+1989—Par. (2). Pub. L. 101–73, § 1209, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “sections 248, 481, 1437, 1439, and 1819 of title 12;”.
 
-Pub. L. 101–73, § 742(b), inserted references to sections 1437 and 1439 of title 12.
+Pub. L. 101–73, § 742(b), inserted references to sections 1437 and 1439 of title 12.
 
 1979—Par. (1). Pub. L. 96–70 substituted “section 1202 of the Panama Canal Act of 1979” for “section 121 of title 2, Canal Zone Code (76A Stat. 15)”.
 
@@ -8483,23 +8483,23 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, see section 11 of Pub. L.
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1979 Amendment**
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
-### § 5374. Miscellaneous positions in the executive branch
+### § 5374. Miscellaneous positions in the executive branch
 
 The head of the agency concerned shall fix the annual rate of basic pay for each position in the executive branch specifically referred to in, or covered by, a conforming change in statute made by section 305 of the Government Employees Salary Reform Act of 1964 (78 Stat. 422), or other position in the executive branch for which the annual pay is fixed at a rate of $18,500 or more under special provision of statute enacted before August 14, 1964, which is not placed in a level of the Executive Schedule set forth in subchapter II of this chapter, at a rate equal to the pay rate of a grade and step of the General Schedule set forth in section 5332 of this title. The head of the agency concerned shall report each action taken under this section to the Office of Personnel Management and publish a notice thereof in the Federal Register, except when the President determines that the report and publication would be contrary to the interest of national security.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, § 5364; renumbered § 5374 and amended Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, § 5364; renumbered § 5374 and amended Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2213. | Aug. 14, 1964, Pub. L. 88–426, § 309, 78 Stat. 433. |
+|  | 5 U.S.C. 2213. | Aug. 14, 1964, Pub. L. 88–426, § 309, 78 Stat. 433. |
 
 The word “office” is omitted as included in “position”. The words “before August 14, 1964” are substituted for “prior to the date of enactment of this Act”. The words “pursuant to section 303 of this Act” are omitted as surplusage.
 
@@ -8513,7 +8513,7 @@ Section 305 of the Government Employees Salary Reform Act of 1964, referred to i
 
 **Amendments**
 
-1978—Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8521,7 +8521,7 @@ Section 305 of the Government Employees Salary Reform Act of 1964, referred to i
 
 Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 5375. Police force of the National Zoological Park
+### § 5375. Police force of the National Zoological Park
 
 The Secretary of the Smithsonian Institution shall fix the annual rates of basic pay for positions on the police force of the National Zoological Park as follows:
 
@@ -8533,7 +8533,7 @@ The Secretary of the Smithsonian Institution shall fix the annual rates of basic
 
 **(4)** Captain, not more than the maximum annual rate of basic pay payable for grade GS–10 of the General Schedule.
 
-(Added Pub. L. 91–34, § 1(a), June 30, 1969, 83 Stat. 41, § 5365; amended Pub. L. 94–183, § 2(20), Dec. 31, 1975, 89 Stat. 1058; renumbered § 5375, Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 101–263, § 1(a), Apr. 4, 1990, 104 Stat. 125; Pub. L. 102–378, § 2(33), Oct. 2, 1992, 106 Stat. 1350.)
+(Added Pub. L. 91–34, § 1(a), June 30, 1969, 83 Stat. 41, § 5365; amended Pub. L. 94–183, § 2(20), Dec. 31, 1975, 89 Stat. 1058; renumbered § 5375, Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 101–263, § 1(a), Apr. 4, 1990, 104 Stat. 125; Pub. L. 102–378, § 2(33), Oct. 2, 1992, 106 Stat. 1350.)
 
 **Editorial Notes**
 
@@ -8561,17 +8561,17 @@ General Schedule, referred to in text, is set out under section 5332 of this tit
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–263, § 2, Apr. 4, 1990, 104 Stat. 125, provided that: “The amendments made by section 1 [amending this section] shall apply with respect to pay periods beginning after the date of the enactment of this Act [Apr. 4, 1990].”
+Pub. L. 101–263, § 2, Apr. 4, 1990, 104 Stat. 125, provided that: “The amendments made by section 1 [amending this section] shall apply with respect to pay periods beginning after the date of the enactment of this Act [Apr. 4, 1990].”
 
 **Effective Date**
 
-Pub. L. 91–34, § 3(a), June 30, 1969, 83 Stat. 41, provided that: “The foregoing provisions of this Act [enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works] shall become effective at the beginning of the first pay period which commences on or after the date of enactment of this Act [June 30, 1969].”
+Pub. L. 91–34, § 3(a), June 30, 1969, 83 Stat. 41, provided that: “The foregoing provisions of this Act [enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works] shall become effective at the beginning of the first pay period which commences on or after the date of enactment of this Act [June 30, 1969].”
 
 **Reduction of Basic Pay Rate**
 
-Pub. L. 91–34, § 3(b), June 30, 1969, 83 Stat. 41, provided that: “No rate of basic pay shall be reduced by reason of the enactment of this Act [enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works].”
+Pub. L. 91–34, § 3(b), June 30, 1969, 83 Stat. 41, provided that: “No rate of basic pay shall be reduced by reason of the enactment of this Act [enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works].”
 
-### § 5376. Pay for certain senior-level positions
+### § 5376. Pay for certain senior-level positions
 
 **(a)** This section applies to—
 
@@ -8601,7 +8601,7 @@ The payment of a rate of basic pay under this section shall not be subject to th
 
 **(4)** No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under paragraph (3) to an agency with an applicable maximum rate of pay prescribed under paragraph (1)(B).
 
-(Added Pub. L. 101–509, title V, § 529 [title I, § 102(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1443; amended Pub. L. 110–372, § 2(b), Oct. 8, 2008, 122 Stat. 4044.)
+(Added Pub. L. 101–509, title V, § 529 [title I, § 102(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1443; amended Pub. L. 110–372, § 2(b), Oct. 8, 2008, 122 Stat. 4044.)
 
 **Editorial Notes**
 
@@ -8613,15 +8613,15 @@ Levels II and III of the Executive Schedule, referred to in subsec. (b), are set
 
 **Amendments**
 
-2008—Subsec. (b)(1)(B). Pub. L. 110–372, § 2(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “not greater than the rate of basic pay payable for level IV of the Executive Schedule.”.
+2008—Subsec. (b)(1)(B). Pub. L. 110–372, § 2(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “not greater than the rate of basic pay payable for level IV of the Executive Schedule.”.
 
-Subsec. (b)(3), (4). Pub. L. 110–372, § 2(b)(2), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 110–372, § 2(b)(2), added pars. (3) and (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–372, § 2(d), Oct. 8, 2008, 122 Stat. 4044, provided that:
+Pub. L. 110–372, § 2(d), Oct. 8, 2008, 122 Stat. 4044, provided that:
 
 > **“(1) Effective date.—** The amendments made by this section [amending this section and sections 3104, 3324, 3325, 5108 and 5304 of this title] shall take effect on the first day of the first pay period beginning on or after the 180th day following the date of enactment of this Act [Oct. 8, 2008].
 
@@ -8643,11 +8643,11 @@ Pub. L. 110–372, § 2(d), Oct. 8, 2008, 122 Stat. 4044, provided that:
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations**
 
-Pub. L. 101–509, title V, § 529 [title I, § 101(c), (d)], Nov. 5, 1990, 104 Stat. 1427, 1442, provided that:
+Pub. L. 101–509, title V, § 529 [title I, § 101(c), (d)], Nov. 5, 1990, 104 Stat. 1427, 1442, provided that:
 
 > **“(c) Other References.—** Until otherwise provided by law—
 
@@ -8661,7 +8661,7 @@ Pub. L. 101–509, title V, § 529 [title I, § 101(c), (d)], Nov. 5, 1990, 
 
 > **“(iii)** to a rate of pay for grade GS–16 or 17 of the General Schedule shall (except as provided in clause (ii)) be considered a reference to a rate of pay for a position classified above GS–15 pursuant to section 5108 of such title (as amended by section 102(b)(2)); and
 
-> **“(B)** to a rate of pay under the General Schedule shall not include any comparability payment payable under section 5304 of such title (as amended by this section) or any geographic adjustment payable under section 302 [section 529 [title III, § 302] of Pub. L. 101–509, set out as a note under section 5304 of this title]; and
+> **“(B)** to a rate of pay under the General Schedule shall not include any comparability payment payable under section 5304 of such title (as amended by this section) or any geographic adjustment payable under section 302 [section 529 [title III, § 302] of Pub. L. 101–509, set out as a note under section 5304 of this title]; and
 
 > **“(2)** any authority granted by a provision of law (which is outside such title, and in effect immediately before this section takes effect) to fix pay in accordance with chapter 51 and subchapter III of chapter 53 of such title—
 
@@ -8669,11 +8669,11 @@ Pub. L. 101–509, title V, § 529 [title I, § 101(c), (d)], Nov. 5, 1990, 
 
 > **“(B)** shall be considered to include authority under section 5376 of such title (as amended by section 102(a)), if applicable.
 
-> **“(d) Regulations.—** The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 [section 529 [title III, § 303] of Pub. L. 101–509, set out as a note under section 5301 of this title], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule.”
+> **“(d) Regulations.—** The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 [section 529 [title III, § 303] of Pub. L. 101–509, set out as a note under section 5301 of this title], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule.”
 
 [For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under this section.]
 
-### § 5377. Pay authority for critical positions
+### § 5377. Pay authority for critical positions
 
 **(a)** For the purpose of this section—
 
@@ -8727,9 +8727,9 @@ Pub. L. 101–509, title V, § 529 [title I, § 101(c), (d)], Nov. 5, 1990, 
 
 **(1)** the number of positions, in the aggregate and by agency, for which higher rates of pay were authorized or paid under this section during any part of the period covered by such report; and
 
-**(2)** the name of each employee to whom a higher rate of pay was paid under this section during any portion of the period covered by such report, the rate on 1
+**(2)** the name of each employee to whom a higher rate of pay was paid under this section during any portion of the period covered by such report, the rate on 1
 
-<sup>1</sup>  So in original. Probably should be “or”.
+<sup>1</sup> So in original. Probably should be “or”.
 
 rates paid under this section during such period, the dates between which each such higher rate was paid, and the rate or rates that would have been paid but for this section.
 
@@ -8739,7 +8739,7 @@ rates paid under this section during such period, the dates between which each s
 
 **(2)** At the request of an agency head, the President may designate 1 or more categories of positions within such agency to be treated, for purposes of this section, as positions within the meaning of subsection (a)(2).
 
-(Added Pub. L. 101–509, title V, § 529 [title I, § 103(a)], Nov. 5, 1990, 104 Stat. 1427, 1444; amended Pub. L. 102–378, § 2(34), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 108–411, title I, § 102, Oct. 30, 2004, 118 Stat. 2311; Pub. L. 108–447, div. B, title I, § 115, Dec. 8, 2004, 118 Stat. 2870.)
+(Added Pub. L. 101–509, title V, § 529 [title I, § 103(a)], Nov. 5, 1990, 104 Stat. 1427, 1444; amended Pub. L. 102–378, § 2(34), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 108–411, title I, § 102, Oct. 30, 2004, 118 Stat. 2311; Pub. L. 108–447, div. B, title I, § 115, Dec. 8, 2004, 118 Stat. 2870.)
 
 **Editorial Notes**
 
@@ -8751,17 +8751,17 @@ Level I of the Executive Schedule, referred to in subsec. (d)(2), is set out in 
 
 2004—Subsec. (a)(2)(G). Pub. L. 108–447 added subpar. (G).
 
-Subsec. (c). Pub. L. 108–411, § 102(1), (2), substituted “Office of Management and Budget” for “Office of Personnel Management” and “Office of Personnel Management” for “Office of Management and Budget”.
+Subsec. (c). Pub. L. 108–411, § 102(1), (2), substituted “Office of Management and Budget” for “Office of Personnel Management” and “Office of Personnel Management” for “Office of Management and Budget”.
 
-Subsec. (e)(1), (f). Pub. L. 108–411, § 102(2), substituted “Office of Personnel Management” for “Office of Management and Budget”.
+Subsec. (e)(1), (f). Pub. L. 108–411, § 102(2), substituted “Office of Personnel Management” for “Office of Management and Budget”.
 
-Subsec. (g). Pub. L. 108–411, § 102(1)–(3), substituted “Office of Personnel Management” for “Office of Management and Budget” and “Office of Management and Budget” for “Office of Personnel Management” and struck out “prescribing regulations under this section or” before “making any decision”.
+Subsec. (g). Pub. L. 108–411, § 102(1)–(3), substituted “Office of Personnel Management” for “Office of Management and Budget” and “Office of Management and Budget” for “Office of Personnel Management” and struck out “prescribing regulations under this section or” before “making any decision”.
 
-Subsec. (h). Pub. L. 108–411, § 102(2), (4), in introductory provisions, substituted “Office of Personnel Management” for “Office of Management and Budget” and “Committee on Government Reform” for “Committee on Post Office and Civil Service”.
+Subsec. (h). Pub. L. 108–411, § 102(2), (4), in introductory provisions, substituted “Office of Personnel Management” for “Office of Management and Budget” and “Committee on Government Reform” for “Committee on Post Office and Civil Service”.
 
-1992—Subsec. (a)(2)(E), (F). Pub. L. 102–378, § 2(34)(A), added subpars. (E) and (F).
+1992—Subsec. (a)(2)(E), (F). Pub. L. 102–378, § 2(34)(A), added subpars. (E) and (F).
 
-Subsec. (i). Pub. L. 102–378, § 2(34)(B), added subsec. (i).
+Subsec. (i). Pub. L. 102–378, § 2(34)(B), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8773,7 +8773,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
 **Executive Documents**
 
@@ -8781,13 +8781,13 @@ Section effective on such date as the President shall determine, but not earlier
 
 Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 
-### § 5378. Police forces of the Bureau of Engraving and Printing and the United States Mint
+### § 5378. Police forces of the Bureau of Engraving and Printing and the United States Mint
 
 **(a)** The Secretary of the Department of the Treasury, or his designee, in his sole discretion shall fix the rates of basic pay for positions within the police forces of the United States Mint and the Bureau of Engraving and Printing without regard to the pay provisions of title 5, United States Code, except that no entry-level police officer shall receive basic pay for a calendar year that is less than the basic rate of pay for General Schedule GS–7 and no executive security official shall receive basic compensation for a calendar year that exceeds the basic rate of pay for General Schedule GS–15.
 
 **(b)** For the purpose of this section, the term “police forces of the Bureau of Engraving and Printing and the United States Mint” means the employees of the Department of the Treasury who are appointed, under the authority of the Secretary of the Treasury, as police officers for the protection of the Bureau of Engraving and Printing and the United States Mint buildings and property.
 
-(Added Pub. L. 101–509, title V, § 529 [title I, § 109(a)(1)(A)], Nov. 5, 1990, 104 Stat. 1427, 1451; amended Pub. L. 104–52, title V, § 521, Nov. 19, 1995, 109 Stat. 494; Pub. L. 105–61, title I, § 121, Oct. 10, 1997, 111 Stat. 1289.)
+(Added Pub. L. 101–509, title V, § 529 [title I, § 109(a)(1)(A)], Nov. 5, 1990, 104 Stat. 1427, 1451; amended Pub. L. 104–52, title V, § 521, Nov. 19, 1995, 109 Stat. 494; Pub. L. 105–61, title I, § 121, Oct. 10, 1997, 111 Stat. 1289.)
 
 **Editorial Notes**
 
@@ -8805,7 +8805,7 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 **Effective Date; Conversion and Savings Provisions**
 
-Pub. L. 101–509, title V, § 529 [title I, § 109(c)], Nov. 5, 1990, 104 Stat. 1427, 1452, provided that:
+Pub. L. 101–509, title V, § 529 [title I, § 109(c)], Nov. 5, 1990, 104 Stat. 1427, 1452, provided that:
 
 > **“(1)** This section and the amendments made by this section [enacting this section, amending section 5102 of this title, and enacting provisions set out as a note below] shall become effective on the first day of the first applicable pay period beginning on or after the 30th day following the date of enactment of this Act [Nov. 5, 1990].
 
@@ -8835,7 +8835,7 @@ Pub. L. 101–509, title V, § 529 [title I, § 109(c)], Nov. 5, 1990, 104 S
 
 **Special Pay Rates Not Affected**
 
-Pub. L. 101–509, title V, § 529 [title I, § 109(b)], Nov. 5, 1990, 104 Stat. 1427, 1451, as amended by Pub. L. 102–378, § 3(1), Oct. 2, 1992, 106 Stat. 1355, provided that:
+Pub. L. 101–509, title V, § 529 [title I, § 109(b)], Nov. 5, 1990, 104 Stat. 1427, 1451, as amended by Pub. L. 102–378, § 3(1), Oct. 2, 1992, 106 Stat. 1355, provided that:
 
 > “Nothing in this section or in any amendment made by this section [enacting this section, amending section 5102 of this title, and enacting provisions set out as a note above] shall—
 
@@ -8843,9 +8843,9 @@ Pub. L. 101–509, title V, § 529 [title I, § 109(b)], Nov. 5, 1990, 104 S
 
 > **“(2)** impair any authority to fix or adjust special pay rates under such section 5303 (or a succeeding provision of law) for positions within the police forces of the Bureau of Engraving and Printing and the United States Mint.”
 
-[Amendment by Pub. L. 102–378 to section 529 [title I, § 109(b)] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.]
+[Amendment by Pub. L. 102–378 to section 529 [title I, § 109(b)] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.]
 
-### § 5379. Student loan repayments
+### § 5379. Student loan repayments
 
 **(a)**
 
@@ -8919,49 +8919,49 @@ The head of the agency concerned may waive, in whole or in part, a right of reco
 
 **(2)** The Director of the Office of Personnel Management shall prepare, and annually submit to Congress, a report containing the information submitted under paragraph (1), and information identifying the agencies that have provided benefits under this section.
 
-(Added Pub. L. 101–510, div. A, title XII, § 1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(a), (b), (d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, § 2, Nov. 11, 2003, 117 Stat. 1345; Pub. L. 108–136, div. A, title XI, § 1123(a), Nov. 24, 2003, 117 Stat. 1637; Pub. L. 110–437, title V, § 502, Oct. 20, 2008, 122 Stat. 4997.)
+(Added Pub. L. 101–510, div. A, title XII, § 1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(a), (b), (d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, § 2, Nov. 11, 2003, 117 Stat. 1345; Pub. L. 108–136, div. A, title XI, § 1123(a), Nov. 24, 2003, 117 Stat. 1637; Pub. L. 110–437, title V, § 502, Oct. 20, 2008, 122 Stat. 4997.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§ 297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§ 297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Amendments**
 
-2008—Subsec. (a)(1)(A). Pub. L. 110–437 inserted “, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services” after “title”.
+2008—Subsec. (a)(1)(A). Pub. L. 110–437 inserted “, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services” after “title”.
 
-2003—Subsec. (b)(2)(A). Pub. L. 108–123, § 2(1), and Pub. L. 108–136 amended subpar. (A) identically, substituting “$10,000” for “$6,000”.
+2003—Subsec. (b)(2)(A). Pub. L. 108–123, § 2(1), and Pub. L. 108–136 amended subpar. (A) identically, substituting “$10,000” for “$6,000”.
 
-Subsec. (b)(2)(B). Pub. L. 108–123, § 2(2), substituted “$60,000” for “$40,000”.
+Subsec. (b)(2)(B). Pub. L. 108–123, § 2(2), substituted “$60,000” for “$40,000”.
 
-2000—Subsec. (a)(1)(B)(i). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(a)(1)], inserted “(20 U.S.C. 1071 et seq.)” before semicolon.
+2000—Subsec. (a)(1)(B)(i). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(a)(1)], inserted “(20 U.S.C. 1071 et seq.)” before semicolon.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(a)(2)], substituted “part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.)” for “part E of title IV of the Higher Education Act of 1965”.
+Subsec. (a)(1)(B)(ii). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(a)(2)], substituted “part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.)” for “part E of title IV of the Higher Education Act of 1965”.
 
-Subsec. (a)(1)(B)(iii). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(a)(3)], substituted “part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.)” for “part C of title VII of Public Health Service Act or under part B of title VIII of such Act”.
+Subsec. (a)(1)(B)(iii). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(a)(3)], substituted “part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.)” for “part C of title VII of Public Health Service Act or under part B of title VIII of such Act”.
 
-Subsec. (a)(2). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(b)(1)], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An employee shall be ineligible for benefits under this section if such employee occupies a position which—
+Subsec. (a)(2). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(b)(1)], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An employee shall be ineligible for benefits under this section if such employee occupies a position which—
 
 “(A) is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
 
 “(B) is not subject to subchapter III of this chapter.”
 
-Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(b)(2)], struck out “professional, technical, or administrative” after “highly qualified”.
+Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(b)(2)], struck out “professional, technical, or administrative” after “highly qualified”.
 
-Subsec. (h). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(d)], added subsec. (h).
+Subsec. (h). Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(d)], added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title XI, § 1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2004.”
+Pub. L. 108–136, div. A, title XI, § 1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2004.”
 
 **Regulations**
 
-Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–316, provided that:
+Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–316, provided that:
 
 > **“(1)** Not later than 60 days after the date of the enactment of this Act [Oct. 30, 2000], the Director of the Office of Personnel Management shall issue proposed regulations under section 5379(g) of title 5, United States Code. The Director shall provide for a period of not less than 60 days for public comment on the regulations.
 
@@ -8969,7 +8969,7 @@ Pub. L. 106–398, § 1 [[div. A], title XI, § 1122(c)], Oct. 30, 2000, 114
 
 **Institutional Loan Forgiveness Programs**
 
-Pub. L. 110–315, title IX, § 961, Aug. 14, 2008, 122 Stat. 3473, provided that:
+Pub. L. 110–315, title IX, § 961, Aug. 14, 2008, 122 Stat. 3473, provided that:
 
 > “Notwithstanding any other provision of law—
 
@@ -8981,11 +8981,11 @@ Pub. L. 110–315, title IX, § 961, Aug. 14, 2008, 122 Stat. 3473, provided t
 
 > **“(2)** an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia may receive repayment or forbearance permitted under paragraph (1).”
 
-### [§ 5380. Repealed. Pub. L. 102–378, § 8(a), Oct. 2, 1992, 106 Stat. 1359]
+### [§ 5380. Repealed. Pub. L. 102–378, § 8(a), Oct. 2, 1992, 106 Stat. 1359]
 
-Section, added Pub. L. 101–510, div. A, title XII, § 1206(i)(1), Nov. 5, 1990, 104 Stat. 1662, related to pay authority for critical positions. See section 5377 of this title. Pub. L. 102–378, § 8(a), repealed Pub. L. 101–510, § 1206(i)(1), and provided that this title shall read as if section 1206(i)(1) had not been enacted.
+Section, added Pub. L. 101–510, div. A, title XII, § 1206(i)(1), Nov. 5, 1990, 104 Stat. 1662, related to pay authority for critical positions. See section 5377 of this title. Pub. L. 102–378, § 8(a), repealed Pub. L. 101–510, § 1206(i)(1), and provided that this title shall read as if section 1206(i)(1) had not been enacted.
 
-Pub. L. 101–510, § 1206(i)(3), provided that (A) unless section 5380 of this title did not take effect as provided in subpar. (B), such section would cease to be in effect on the earlier of Oct. 1, 1992, or the date of the enactment of the Federal Employees Pay Comparability Act of 1990 [Nov. 5, 1990], and (B) section 5380 of this title would not take effect if the Federal Employees Pay Comparability Act of 1990 [Pub. L. 101–509] was enacted before the date of the enactment of this Act [Nov. 5, 1990]. Pub. L. 102–378, § 8(a), repealed Pub. L. 101–510, § 1206(i)(3), and provided that this title shall read as if section 1206(i)(3) had not been enacted.
+Pub. L. 101–510, § 1206(i)(3), provided that (A) unless section 5380 of this title did not take effect as provided in subpar. (B), such section would cease to be in effect on the earlier of Oct. 1, 1992, or the date of the enactment of the Federal Employees Pay Comparability Act of 1990 [Nov. 5, 1990], and (B) section 5380 of this title would not take effect if the Federal Employees Pay Comparability Act of 1990 [Pub. L. 101–509] was enacted before the date of the enactment of this Act [Nov. 5, 1990]. Pub. L. 102–378, § 8(a), repealed Pub. L. 101–510, § 1206(i)(3), and provided that this title shall read as if section 1206(i)(3) had not been enacted.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8995,17 +8995,17 @@ Repeal effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out
 
 ## SUBCHAPTER VIII—PAY FOR THE SENIOR EXECUTIVE SERVICE
 
-### § 5381. Definitions
+### § 5381. Definitions
 
 For the purpose of this subchapter, “agency”, “Senior Executive Service position”, “career appointee”, and “senior executive” have the meanings set forth in section 3132(a) of this title.
 
-(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 101–136, title VI, § 625(b), Nov. 3, 1989, 103 Stat. 823.)
+(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 101–136, title VI, § 625(b), Nov. 3, 1989, 103 Stat. 823.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1989—Pub. L. 101–136 inserted “ ‘career appointee’,” before “and”.
+1989—Pub. L. 101–136 inserted “ ‘career appointee’,” before “and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9013,7 +9013,7 @@ For the purpose of this subchapter, “agency”, “Senior Executive Service po
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
-### § 5382. Establishment of rates of pay for the Senior Executive Service
+### § 5382. Establishment of rates of pay for the Senior Executive Service
 
 **(a)** Subject to regulations prescribed by the Office of Personnel Management, there shall be established a range of rates of basic pay for the Senior Executive Service, and each senior executive shall be paid at one of the rates within the range, based on individual performance, contribution to the agency’s performance, or both, as determined under a rigorous performance management system. The lowest rate of the range shall not be less than the minimum rate of basic pay payable under section 5376, and the highest rate, for any position under this system or an equivalent system as determined by the President’s Pay Agent designated under section 5304(d), shall not exceed the rate for level III of the Executive Schedule. The payment of the rates shall not be subject to the pay limitation of section 5306(e) or 5373.
 
@@ -9021,7 +9021,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **(c)** No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under subsection (b) to an agency with an applicable maximum rate of pay prescribed under subsection (a).
 
-(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(B), (6)(A), (9)(I)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440, 1442; Pub. L. 108–136, div. A, title XI, § 1125(a)(2), Nov. 24, 2003, 117 Stat. 1638.)
+(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(B), (6)(A), (9)(I)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440, 1442; Pub. L. 108–136, div. A, title XI, § 1125(a)(2), Nov. 24, 2003, 117 Stat. 1638.)
 
 **Editorial Notes**
 
@@ -9043,9 +9043,9 @@ Level II of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 “(d) The rates of basic pay that are established and adjusted under this section shall be printed in the Federal Register and shall supersede any prior rates of basic pay for the Senior Executive Service.”
 
-1990—Subsec. (b). Pub. L. 101–509, § 529 [title I, § 101(b)(6)(A), (9)(I)], substituted “under section 5376” for “for GS–16 of the General Schedule” and “5306(e)” for “5308”.
+1990—Subsec. (b). Pub. L. 101–509, § 529 [title I, § 101(b)(6)(A), (9)(I)], substituted “under section 5376” for “for GS–16 of the General Schedule” and “5306(e)” for “5308”.
 
-Subsec. (c). Pub. L. 101–509, § 529 [title I, § 101(b)(4)(B)], substituted “5303” for “5305” and struck out at end “The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title.”
+Subsec. (c). Pub. L. 101–509, § 529 [title I, § 101(b)(4)(B)], substituted “5303” for “5305” and struck out at end “The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9055,7 +9055,7 @@ Amendment by Pub. L. 108–136 effective on first day of first pay period beginn
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date**
 
@@ -9073,7 +9073,7 @@ For miscellaneous provisions dealing with adjustments of pay and limitations on 
 
 Ex. Ord. No. 12592, Apr. 10, 1987, 52 F.R. 13417, as amended by Ex. Ord. No. 12609, Sept. 23, 1987, 52 F.R. 36211, which related to the establishment, functions, administration, and termination of the President’s Commission on Compensation of Career Federal Executives, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 1013 of this title.
 
-### § 5383. Setting individual senior executive pay
+### § 5383. Setting individual senior executive pay
 
 **(a)** Each appointing authority shall determine, in accordance with criteria established by the Office of Personnel Management, which of the rates within a range established under section 5382 shall be paid to each senior executive under such appointing authority.
 
@@ -9101,15 +9101,15 @@ Ex. Ord. No. 12592, Apr. 10, 1987, 52 F.R. 13417, as amended by Ex. Ord. No. 126
 
 **(B)** The initial rate of pay for a career appointee following the position’s conversion (as described in paragraph (1)(B)) may not be less than the rate of basic pay last payable to that individual immediately before such position’s conversion.
 
-(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 96–166, § 3, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 98–615, title III, § 305, Nov. 8, 1984, 98 Stat. 3219; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(7)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–175, § 2, Dec. 2, 1991, 105 Stat. 1222; Pub. L. 102–378, § 2(35), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 108–136, div. A, title XI, § 1125(a)(3), Nov. 24, 2003, 117 Stat. 1639.)
+(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 96–166, § 3, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 98–615, title III, § 305, Nov. 8, 1984, 98 Stat. 3219; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(7)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–175, § 2, Dec. 2, 1991, 105 Stat. 1222; Pub. L. 102–378, § 2(35), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 108–136, div. A, title XI, § 1125(a)(3), Nov. 24, 2003, 117 Stat. 1639.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–136, § 1125(a)(3)(A), substituted “which of the rates within a range established under section 5382” for “which of the rates established under section 5382 of this title”.
+2003—Subsec. (a). Pub. L. 108–136, § 1125(a)(3)(A), substituted “which of the rates within a range established under section 5382” for “which of the rates established under section 5382 of this title”.
 
-Subsec. (c). Pub. L. 108–136, § 1125(a)(3)(B), substituted “as provided in regulations prescribed by the Office under section 5385” for “for any pay adjustment under section 5382 of this title”.
+Subsec. (c). Pub. L. 108–136, § 1125(a)(3)(B), substituted “as provided in regulations prescribed by the Office under section 5385” for “for any pay adjustment under section 5382 of this title”.
 
 1992—Subsec. (b). Pub. L. 102–378 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -9145,9 +9145,9 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **Senior Executive Service; Maximum Aggregate Amount Payable, Etc.; Report**
 
-Pub. L. 98–168, title III, § 301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to study and, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
+Pub. L. 98–168, title III, § 301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to study and, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
 
-### § 5384. Performance awards in the Senior Executive Service
+### § 5384. Performance awards in the Senior Executive Service
 
 **(a)**
 
@@ -9171,15 +9171,15 @@ Pub. L. 98–168, title III, § 301(a), Nov. 29, 1983, 97 Stat. 1112, required
 
 **(1)** Performance awards paid by any agency under this section shall be based on recommendations by performance review boards established by such agency under section 4314 of this title.
 
-**(2)** not 1
+**(2)** not 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 less than a majority of the members of any review board referred to in paragraph (1) shall be career appointees whenever making recommendations under such paragraph with respect to a career appointee. The requirement of the preceding sentence shall not apply in any case in which the Office of Personnel Management determines that there exists an insufficient number of career appointees available to comply with the requirement.
 
 **(d)** The Office of Personnel Management may issue guidance to agencies concerning the proportion of Senior Executive Service salary expenses that may be appropriately applied to payment of performance awards and the distribution of awards.
 
-(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1172; amended Pub. L. 98–615, title III, § 302, Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–136, title VI, § 625(a), Nov. 3, 1989, 103 Stat. 822; Pub. L. 105–277, div. A, § 101(h) [title VI, § 632(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
+(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1172; amended Pub. L. 98–615, title III, § 302, Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–136, title VI, § 625(a), Nov. 3, 1989, 103 Stat. 822; Pub. L. 105–277, div. A, § 101(h) [title VI, § 632(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
 **Editorial Notes**
 
@@ -9189,15 +9189,15 @@ less than a majority of the members of any review board referred to in paragraph
 
 1989—Subsec. (c). Pub. L. 101–136 designated existing provisions as par. (1) and added par. (2).
 
-1984—Subsec. (b)(2). Pub. L. 98–615, § 302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
+1984—Subsec. (b)(2). Pub. L. 98–615, § 302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
 
-Subsec. (b)(3). Pub. L. 98–615, § 302(2), substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during any fiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
+Subsec. (b)(3). Pub. L. 98–615, § 302(2), substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during any fiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 632(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1998, or the date of enactment of this Act [Oct. 21, 1998], whichever is later.”
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 632(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1998, or the date of enactment of this Act [Oct. 21, 1998], whichever is later.”
 
 **Effective Date of 1984 Amendment**
 
@@ -9209,23 +9209,23 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **Limitation on Number of Performance Awards for Career Appointees**
 
-Section 306(c) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided that: “None of the funds appropriated by this Act or any other Act shall be used by any agency to pay performance awards in fiscal year 1983 under section 5384 of title 5, United States Code, or any comparable personnel system established on or after October 13, 1978, to more than 20 per centum of the number of Senior Executive Service or comparable personnel system positions in such agency: *Provided*, That an agency with less than five Senior Executive Service employees or equivalent positions may grant one such performance award.”
+Section 306(c) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided that: “None of the funds appropriated by this Act or any other Act shall be used by any agency to pay performance awards in fiscal year 1983 under section 5384 of title 5, United States Code, or any comparable personnel system established on or after October 13, 1978, to more than 20 per centum of the number of Senior Executive Service or comparable personnel system positions in such agency: *Provided*, That an agency with less than five Senior Executive Service employees or equivalent positions may grant one such performance award.”
 
 Similar provisions were contained in the following acts:
 
-Pub. L. 97–51, §§ 101(c), 124, Oct. 1, 1981, 95 Stat. 959, 965.
+Pub. L. 97–51, §§ 101(c), 124, Oct. 1, 1981, 95 Stat. 959, 965.
 
-Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.
+Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.
 
-Pub. L. 96–369, § 101(c), Oct. 1, 1980, 94 Stat. 1352.
+Pub. L. 96–369, § 101(c), Oct. 1, 1980, 94 Stat. 1352.
 
-Pub. L. 96–304, title III, § 303, July 8, 1980, 94 Stat. 927.
+Pub. L. 96–304, title III, § 303, July 8, 1980, 94 Stat. 927.
 
-### § 5385. Regulations
+### § 5385. Regulations
 
 The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
 
-(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1172.)
+(Added Pub. L. 95–454, title IV, § 407(a), Oct. 13, 1978, 92 Stat. 1172.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9239,21 +9239,21 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **Amendments**
 
-1992—Pub. L. 102–378, § 2(36), Oct. 2, 1992, 106 Stat. 1351, struck out subchapter analysis, consisting of item 5391 “Definitions” and item 5392 “Establishment of special occupational pay systems”.
+1992—Pub. L. 102–378, § 2(36), Oct. 2, 1992, 106 Stat. 1351, struck out subchapter analysis, consisting of item 5391 “Definitions” and item 5392 “Establishment of special occupational pay systems”.
 
-### § 5391. Definitions
+### § 5391. Definitions
 
 For the purposes of this subchapter, “agency”, “employee”, and “position” have the meanings given them by section 5102.
 
-(Added Pub. L. 101–509, title V, § 529 [title I, § 105(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1447.)
+(Added Pub. L. 101–509, title V, § 529 [title I, § 105(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1447.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
-### § 5392. Establishment of special occupational pay systems
+### § 5392. Establishment of special occupational pay systems
 
 **(a)** Authority under this section may be exercised with respect to any occupation or group of occupations to which subchapter III applies (or would apply but for this section).
 
@@ -9283,7 +9283,7 @@ Section effective on such date as the President shall determine, but not earlier
 
 **(e)** Subject to subsection (d)(2), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of pay under the General Schedule, each rate of pay established under this section shall be adjusted by such amount as the Office considers appropriate.
 
-(Added Pub. L. 101–509, title V, § 529 [title I, § 105(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1448.)
+(Added Pub. L. 101–509, title V, § 529 [title I, § 105(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1448.)
 
 **Editorial Notes**
 
@@ -9297,4 +9297,4 @@ The General Schedule, referred to in subsec. (e), is set out under section 5332 
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.

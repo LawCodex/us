@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 37—INFORMATION TECHNOLOGY EXCHANGE PROGRAM
 
-## § 3701. Definitions
+## § 3701. Definitions
 
 For purposes of this chapter—
 
@@ -29,7 +29,7 @@ For purposes of this chapter—
 
 whichever is appropriate in the context in which such term is used.
 
-(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2925; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2925; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -43,7 +43,7 @@ whichever is appropriate in the context in which such term is used.
 
 Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
 
-## § 3702. General provisions
+## § 3702. General provisions
 
 **(a) Assignment Authority.—** On request from or with the agreement of a private sector organization, and with the consent of the employee concerned, the head of an agency may arrange for the assignment of an employee of the agency to a private sector organization or an employee of a private sector organization to the agency. An eligible employee is an individual who—
 
@@ -75,7 +75,7 @@ An amount under paragraph (2) shall be treated as a debt due the United States.
 
 **(2)** how assignments described in section 3703 might best be used to help meet the needs of the agency for the training of employees in information technology management.
 
-(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2925.)
+(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2925.)
 
 **Editorial Notes**
 
@@ -95,7 +95,7 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 
 **Pilot Program for the Temporary Assignment of Cyber and Information Technology Personnel to Private Sector Organizations**
 
-Pub. L. 111–84, div. A, title XI, § 1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, § 1106, Dec. 26, 2013, 127 Stat. 887; Pub. L. 114–92, div. A, title X, § 1075(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 114–328, div. A, title XI, § 1123, Dec. 23, 2016, 130 Stat. 2455; Pub. L. 117–263, div. A, title XI, § 1112, Dec. 23, 2022, 136 Stat. 2820; Pub. L. 117–286, § 4(c)(7), Dec. 27, 2022, 136 Stat. 4354; Pub. L. 118–159, div. A, title XI, § 1101, Dec. 23, 2024, 138 Stat. 2085, provided that:
+Pub. L. 111–84, div. A, title XI, § 1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, § 1106, Dec. 26, 2013, 127 Stat. 887; Pub. L. 114–92, div. A, title X, § 1075(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 114–328, div. A, title XI, § 1123, Dec. 23, 2016, 130 Stat. 2455; Pub. L. 117–263, div. A, title XI, § 1112, Dec. 23, 2022, 136 Stat. 2820; Pub. L. 117–286, § 4(c)(7), Dec. 27, 2022, 136 Stat. 4354; Pub. L. 118–159, div. A, title XI, § 1101, Dec. 23, 2024, 138 Stat. 2085, provided that:
 
 > **“(a) Assignment Authority.—** The Secretary of Defense may, with the agreement of the private sector organization concerned, arrange for the temporary assignment of an employee to such private sector organization, or from such private sector organization to a Department of Defense organization under this section. An employee shall be eligible for such an assignment only if—
 
@@ -165,9 +165,9 @@ Pub. L. 111–84, div. A, title XI, § 1110, Oct. 28, 2009, 123 Stat. 2493, as
 
 > **“(2)** any employee whose assignment is allowed to continue by virtue of paragraph (1) shall be taken into account for purposes of the numerical limitation under subsection (h).”
 
-Pub. L. 110–181, div. A, title XI, § 1109, Jan. 28, 2008, 122 Stat. 358, which authorized the Secretary of Defense to arrange for the temporary assignment of a Department of Defense employee to a private sector organization under certain terms, conditions, and considerations, and for a limited period, and required the Secretary to submit to the Committees on Armed Services a report on the potential benefits of temporarily assigning information technology specialists from private sector organizations to the Department of Defense, was repealed, with certain exceptions, by Pub. L. 111–84, div. A, title XI, § 1110(i), formerly § 1110(j), Oct. 28, 2009, 123 Stat. 2495, renumbered § 1110(i), Pub. L. 114–92, div. A, title X, § 1075(a)(2), Nov. 25, 2015, 129 Stat. 997, see above.
+Pub. L. 110–181, div. A, title XI, § 1109, Jan. 28, 2008, 122 Stat. 358, which authorized the Secretary of Defense to arrange for the temporary assignment of a Department of Defense employee to a private sector organization under certain terms, conditions, and considerations, and for a limited period, and required the Secretary to submit to the Committees on Armed Services a report on the potential benefits of temporarily assigning information technology specialists from private sector organizations to the Department of Defense, was repealed, with certain exceptions, by Pub. L. 111–84, div. A, title XI, § 1110(i), formerly § 1110(j), Oct. 28, 2009, 123 Stat. 2495, renumbered § 1110(i), Pub. L. 114–92, div. A, title X, § 1075(a)(2), Nov. 25, 2015, 129 Stat. 997, see above.
 
-## § 3703. Assignment of employees to private sector organizations
+## § 3703. Assignment of employees to private sector organizations
 
 **(a) In General.—** An employee of an agency assigned to a private sector organization under this chapter is deemed, during the period of the assignment, to be on detail to a regular work assignment in his agency.
 
@@ -199,13 +199,13 @@ Pub. L. 110–181, div. A, title XI, § 1109, Jan. 28, 2008, 122 Stat. 358, wh
 
 **(4) Exclusion.—** This subsection shall not apply to an agency in any year in which it makes fewer than 5 assignments under this chapter to private sector organizations.
 
-(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2926.)
+(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2926.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Tort Claims Act, referred to in subsec. (d), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (d), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Section 3(a)(2) of the Small Business Act, referred to in subsec. (e)(2)(A), is classified to section 632(a)(2) of Title 15, Commerce and Trade.
 
@@ -225,7 +225,7 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
 
-## § 3704. Assignment of employees from private sector organizations
+## § 3704. Assignment of employees from private sector organizations
 
 **(a) In General.—** An employee of a private sector organization assigned to an agency under this chapter is deemed, during the period of the assignment, to be on detail to such agency.
 
@@ -259,13 +259,13 @@ The supervision of an employee of a private sector organization assigned to an a
 
 **(d) Prohibition Against Charging Certain Costs to the Federal Government.—** A private sector organization may not charge the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee assigned to an agency under this chapter for the period of the assignment.
 
-(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2928; amended Pub. L. 111–350, § 5(a)(6), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 117–286, § 4(c)(8), Dec. 27, 2022, 136 Stat. 4354.)
+(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2928; amended Pub. L. 111–350, § 5(a)(6), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 117–286, § 4(c)(8), Dec. 27, 2022, 136 Stat. 4354.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Tort Claims Act, referred to in subsec. (b)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (b)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)(F), is classified to section 1043 of Title 26, Internal Revenue Code.
 
@@ -281,7 +281,7 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)
 
 Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
 
-## § 3705. Application to Office of the Chief Technology Officer of the District of Columbia
+## § 3705. Application to Office of the Chief Technology Officer of the District of Columbia
 
 **(a) In General.—** The Chief Technology Officer of the District of Columbia may arrange for the assignment of an employee of the Office of the Chief Technology Officer to a private sector organization, or an employee of a private sector organization to such Office, in the same manner as the head of an agency under this chapter.
 
@@ -289,7 +289,7 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 
 **(c) Definition.—** For purposes of this section, the term “Office of the Chief Technology Officer” means the office established in the executive branch of the government of the District of Columbia under the Office of the Chief Technology Officer Establishment Act of 1998 (sec. 1–1401 et seq., D.C. Official Code).
 
-(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
+(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
 
 **Editorial Notes**
 
@@ -307,7 +307,7 @@ The Office of the Chief Technology Officer Establishment Act of 1998, referred t
 
 Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
 
-## § 3706. Reporting requirement
+## § 3706. Reporting requirement
 
 **(a) In General.—** The Office of Personnel Management shall, not later than April 30 and October 31 of each year, prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a semiannual report summarizing the operation of this chapter during the immediately preceding 6-month period ending on March 31 and September 30, respectively.
 
@@ -333,7 +333,7 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 
 **(d) Agency Cooperation.—** On request of the Office, agencies shall furnish such information and reports as the Office may require in order to carry out this section.
 
-(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
+(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -347,11 +347,11 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
 
-## § 3707. Regulations
+## § 3707. Regulations
 
 The Director of the Office of Personnel Management shall prescribe regulations for the administration of this chapter.
 
-(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2930.)
+(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2930.)
 
 **Statutory Notes and Related Subsidiaries**
 

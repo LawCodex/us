@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 98—INTERNATIONAL CHILD ABDUCTION PREVENTION AND RETURN
 
-## § 9101. Definitions
+## § 9101. Definitions
 
 In this chapter:
 
@@ -27,9 +27,9 @@ The term “abducted child” means a child who is the victim of international c
 
 The term “abduction” means the alleged wrongful removal of a child from the child’s country of habitual residence, or the wrongful retention of a child outside such country, in violation of a left-behind parent’s custodial rights, including the rights of a military parent.
 
-**(3) Abduction case** The term abduction case 1
+**(3) Abduction case** The term abduction case 1
 
-<sup>1</sup>  So in original. The defined term probably should be within quotation marks.
+<sup>1</sup> So in original. The defined term probably should be within quotation marks.
 
 means—
 
@@ -183,7 +183,7 @@ Subject to subparagraph (B), the term “unresolved abduction case” means an a
 
 **(vi)** the child or left-behind parent is deceased.
 
-(Pub. L. 113–150, § 3, Aug. 8, 2014, 128 Stat. 1809; Pub. L. 118–159, div. G, title LXXV, § 7509(a), Dec. 23, 2024, 138 Stat. 2550.)
+(Pub. L. 113–150, § 3, Aug. 8, 2014, 128 Stat. 1809; Pub. L. 118–159, div. G, title LXXV, § 7509(a), Dec. 23, 2024, 138 Stat. 2550.)
 
 **Editorial Notes**
 
@@ -193,19 +193,19 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-2024—Par. (3). Pub. L. 118–159, § 7509(a)(1), substituted “abduction case means—” for “ ‘abduction case’ means” in introductory provisions, inserted subpar. (A) designation before “a case”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+2024—Par. (3). Pub. L. 118–159, § 7509(a)(1), substituted “abduction case means—” for “ ‘abduction case’ means” in introductory provisions, inserted subpar. (A) designation before “a case”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Par. (11). Pub. L. 118–159, § 7509(a)(2), substituted “18” for “16”.
+Par. (11). Pub. L. 118–159, § 7509(a)(2), substituted “18” for “16”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 113–150, § 1(a), Aug. 8, 2014, 128 Stat. 1807, provided that: “This Act [enacting this chapter and section 241 of Title 6, Domestic Security, repealing section 11611 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under this section] may be cited as the ‘Sean and David Goldman International Child Abduction Prevention and Return Act of 2014’.”
+Pub. L. 113–150, § 1(a), Aug. 8, 2014, 128 Stat. 1807, provided that: “This Act [enacting this chapter and section 241 of Title 6, Domestic Security, repealing section 11611 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under this section] may be cited as the ‘Sean and David Goldman International Child Abduction Prevention and Return Act of 2014’.”
 
 **Findings; Sense of Congress; Purposes**
 
-Pub. L. 113–150, § 2, Aug. 8, 2014, 128 Stat. 1807, provided that:
+Pub. L. 113–150, § 2, Aug. 8, 2014, 128 Stat. 1807, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -269,7 +269,7 @@ Pub. L. 113–150, § 2, Aug. 8, 2014, 128 Stat. 1807, provided that:
 
 ## SUBCHAPTER I—DEPARTMENT OF STATE ACTIONS
 
-### § 9111. Annual Report
+### § 9111. Annual Report
 
 **(a) In general**
 
@@ -383,7 +383,7 @@ The Secretary of State shall include, in a separate section of the Annual Report
 
 **(C)** shall indicate whether noneconomic policy options designed to resolve the pattern of noncompliance have reasonably been exhausted, including the consultations required under section 9123 of this title.
 
-(Pub. L. 113–150, title I, § 101, Aug. 8, 2014, 128 Stat. 1813; Pub. L. 117–81, div. E, title LVII, § 5702, Dec. 27, 2021, 135 Stat. 2381.)
+(Pub. L. 113–150, title I, § 101, Aug. 8, 2014, 128 Stat. 1813; Pub. L. 117–81, div. E, title LVII, § 5702, Dec. 27, 2021, 135 Stat. 2381.)
 
 **Editorial Notes**
 
@@ -393,15 +393,15 @@ Section is comprised of section 101 of Pub. L. 113–150. Subsec. (e) of section
 
 **Amendments**
 
-2021—Subsec. (b)(2)(A). Pub. L. 117–81, § 5702(1)(A), inserted “, respectively,” after “access cases” and “and the number of children involved” before semicolon at end.
+2021—Subsec. (b)(2)(A). Pub. L. 117–81, § 5702(1)(A), inserted “, respectively,” after “access cases” and “and the number of children involved” before semicolon at end.
 
-Subsec. (b)(2)(D). Pub. L. 117–81, § 5702(1)(B), inserted “respectively, the number of children involved,” after “access cases,”.
+Subsec. (b)(2)(D). Pub. L. 117–81, § 5702(1)(B), inserted “respectively, the number of children involved,” after “access cases,”.
 
-Subsec. (b)(7). Pub. L. 117–81, § 5702(2), inserted “, and number of children involved in such cases” before semicolon at end.
+Subsec. (b)(7). Pub. L. 117–81, § 5702(2), inserted “, and number of children involved in such cases” before semicolon at end.
 
-Subsec. (b)(10). Pub. L. 117–81, § 5702(3)–(5), added par. (10).
+Subsec. (b)(10). Pub. L. 117–81, § 5702(3)–(5), added par. (10).
 
-### § 9112. Standards and assistance
+### § 9112. Standards and assistance
 
 The Secretary of State shall—
 
@@ -415,9 +415,9 @@ The Secretary of State shall—
 
 **(2)** develop and implement written strategic plans for engagement with any Convention or non-Convention country in which there are 5 or more cases of international child abduction.
 
-(Pub. L. 113–150, title I, § 102, Aug. 8, 2014, 128 Stat. 1815.)
+(Pub. L. 113–150, title I, § 102, Aug. 8, 2014, 128 Stat. 1815.)
 
-### § 9113. Bilateral procedures, including memoranda of understanding
+### § 9113. Bilateral procedures, including memoranda of understanding
 
 **(a) Development**
 
@@ -453,9 +453,9 @@ In carrying out paragraph (1), the Secretary of State shall give priority to cou
 
 **(4)** the implementation of a protocol to establish periodic visits between a United States embassy or consular official and an abducted child, in order to allow the official to ascertain the child’s location and welfare.
 
-(Pub. L. 113–150, title I, § 103, Aug. 8, 2014, 128 Stat. 1815.)
+(Pub. L. 113–150, title I, § 103, Aug. 8, 2014, 128 Stat. 1815.)
 
-### § 9114. Report to congressional representatives
+### § 9114. Report to congressional representatives
 
 **(a) Notification** The Secretary of State shall submit written notification to the Member of Congress and Senators, or Resident Commissioner or Delegate, as appropriate, representing the legal residence of a left-behind parent if such parent—
 
@@ -467,11 +467,11 @@ In carrying out paragraph (1), the Secretary of State shall give priority to cou
 
 At the request of any person who is a left-behind parent, including a left-behind parent who previously reported an abduction to the Central Authority of the United States before August 8, 2014, the notification required under subsection (a) shall be provided as soon as is practicable.
 
-(Pub. L. 113–150, title I, § 104, Aug. 8, 2014, 128 Stat. 1816.)
+(Pub. L. 113–150, title I, § 104, Aug. 8, 2014, 128 Stat. 1816.)
 
 ## SUBCHAPTER II—ACTIONS BY THE SECRETARY OF STATE
 
-### § 9121. Response to international child abductions
+### § 9121. Response to international child abductions
 
 **(a) United States policy** It is the policy of the United States—
 
@@ -533,7 +533,7 @@ At the request of the appropriate congressional committees, the Secretary of Sta
 
 When an individual who is an abducted child attains 16 years of age, a consular officer from a United States diplomatic mission in the country in which such individual resides shall, until either the left-behind parent seeking assistance or the individual (after attaining 18 years of age) requests the officer to cease, annually attempt to contact such individual, through welfare and whereabout visits and by engaging other agencies and foreign counterparts as necessary, to provide information, as relevant, on rights and privileges as a United States citizen, such as passports, and any eligible benefits from left-behind parent, such as G.I. educational and health benefits and to obtain a verified location of such individual.
 
-(Pub. L. 113–150, title II, § 201, Aug. 8, 2014, 128 Stat. 1817; Pub. L. 118–159, div. G, title LXXV, § 7509(b), Dec. 23, 2024, 138 Stat. 2551.)
+(Pub. L. 113–150, title II, § 201, Aug. 8, 2014, 128 Stat. 1817; Pub. L. 118–159, div. G, title LXXV, § 7509(b), Dec. 23, 2024, 138 Stat. 2551.)
 
 **Editorial Notes**
 
@@ -541,7 +541,7 @@ When an individual who is an abducted child attains 16 years of age, a consular 
 
 2024—Subsec. (d). Pub. L. 118–159 added subsec. (d).
 
-### § 9122. Actions by the Secretary of State in response to patterns of noncompliance in cases of international child abductions
+### § 9122. Actions by the Secretary of State in response to patterns of noncompliance in cases of international child abductions
 
 **(a) Response to a pattern of noncompliance** It is the policy of the United States—
 
@@ -659,13 +659,13 @@ The Secretary of State shall consult with the appropriate congressional committe
 
 There is authorized to be appropriated $1,000,000 for each of fiscal years 2025 and 2026 to carry out the study required under paragraph (1).
 
-(Pub. L. 113–150, title II, § 202, Aug. 8, 2014, 128 Stat. 1818; Pub. L. 118–159, div. G, title LXXV, § 7509(c), Dec. 23, 2024, 138 Stat. 2551.)
+(Pub. L. 113–150, title II, § 202, Aug. 8, 2014, 128 Stat. 1818; Pub. L. 118–159, div. G, title LXXV, § 7509(c), Dec. 23, 2024, 138 Stat. 2551.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d)(7), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d)(7), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (e)(1)(B), (2)(C)(ii), was in the original “this Act”, meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
@@ -673,13 +673,13 @@ This chapter, referred to in subsec. (e)(1)(B), (2)(C)(ii), was in the original 
 
 2024—Subsec. (h). Pub. L. 118–159 added subsec. (h).
 
-### § 9123. Consultations with foreign governments
+### § 9123. Consultations with foreign governments
 
 As soon as practicable after the Secretary of State makes a determination under section 9121 of this title in response to a failure to resolve unresolved abduction cases or the Secretary takes an action under subsection (d) or (e) of section 9122 of this title, based on a pattern of noncompliance, the Secretary shall request consultations with the government of such country regarding the situation giving rise to such determination.
 
-(Pub. L. 113–150, title II, § 203, Aug. 8, 2014, 128 Stat. 1820.)
+(Pub. L. 113–150, title II, § 203, Aug. 8, 2014, 128 Stat. 1820.)
 
-### § 9124. Waiver by the Secretary of State
+### § 9124. Waiver by the Secretary of State
 
 **(a) In general** Subject to subsection (b), the Secretary of State may waive the application of any of the actions described in subsections (d) and (e) of section 9122 of this title with respect to a country if the Secretary determines and notifies the appropriate congressional committees that—
 
@@ -711,7 +711,7 @@ As soon as practicable after the Secretary of State makes a determination under 
 
 The Secretary of State may limit the publication of information under subsection (c) in the same manner and to the same extent as the President may limit the publication of findings and determinations described in section 2414(c) of this title, if the Secretary determines that the publication of such information would be harmful to the national security of the United States and would not further the purposes of this chapter.
 
-(Pub. L. 113–150, title II, § 204, Aug. 8, 2014, 128 Stat. 1821.)
+(Pub. L. 113–150, title II, § 204, Aug. 8, 2014, 128 Stat. 1821.)
 
 **Editorial Notes**
 
@@ -719,7 +719,7 @@ The Secretary of State may limit the publication of information under subsection
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
-### § 9125. Termination of actions by the Secretary of State
+### § 9125. Termination of actions by the Secretary of State
 
 Any specific action taken under this Act or any amendment made by this Act with respect to a foreign country shall terminate on the date on which the Secretary of State submits a written certification to Congress that the government of such country—
 
@@ -727,7 +727,7 @@ Any specific action taken under this Act or any amendment made by this Act with 
 
 **(2)** has taken substantial and verifiable steps to correct such country’s persistent pattern of noncompliance that gave rise to such specific action, as applicable.
 
-(Pub. L. 113–150, title II, § 205, Aug. 8, 2014, 128 Stat. 1821.)
+(Pub. L. 113–150, title II, § 205, Aug. 8, 2014, 128 Stat. 1821.)
 
 **Editorial Notes**
 
@@ -737,7 +737,7 @@ This Act, referred to in text, is Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 180
 
 ## SUBCHAPTER III—PREVENTION OF INTERNATIONAL CHILD ABDUCTION
 
-### § 9141. Authorization for judicial training on international parental child abduction
+### § 9141. Authorization for judicial training on international parental child abduction
 
 **(a) In general** The Secretary of State, subject to the availability of appropriations, shall seek to provide training, directly or through another government agency or nongovernmental organizations, on the effective handling of parental abduction cases to the judicial and administrative authorities in countries—
 
@@ -765,7 +765,7 @@ There is authorized to be appropriated to the Secretary of State $1,000,000 for 
 
 Amounts appropriated for the activities set forth in subsection (a) shall be used pursuant to the authorization and requirements under this section.
 
-(Pub. L. 113–150, title III, § 302, Aug. 8, 2014, 128 Stat. 1822.)
+(Pub. L. 113–150, title III, § 302, Aug. 8, 2014, 128 Stat. 1822.)
 
 **Executive Documents**
 

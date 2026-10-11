@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 172—STRATEGIC ENVIRONMENTAL RESEARCH AND DEVELOPMENT PROGRAM
 
-## § 2901. Strategic Environmental Research and Development Program
+## § 2901. Strategic Environmental Research and Development Program
 
 **(a)** The Secretary of Defense shall establish a program to be known as the “Strategic Environmental Research and Development Program”.
 
@@ -29,9 +29,9 @@ retrieved: 2026-10-11
 
 **(4)** To identify technologies developed by the private sector that are useful for Department of Defense and Department of Energy defense activities concerning environmental restoration, hazardous and solid waste minimization and prevention, hazardous material substitution, and provide for the use of such technologies in the conduct of such activities.
 
-(Added Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1), Nov. 5, 1990, 104 Stat. 1751.)
+(Added Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1), Nov. 5, 1990, 104 Stat. 1751.)
 
-## § 2902. Strategic Environmental Research and Development Program Council
+## § 2902. Strategic Environmental Research and Development Program Council
 
 **(a)** There is a Strategic Environmental Research and Development Program Council (hereinafter in this chapter referred to as the “Council”).
 
@@ -123,23 +123,23 @@ retrieved: 2026-10-11
 
 **(g)** Not later than February 1 of each year, the Council shall submit to the Secretary of Defense the annual report prepared pursuant to subsection (d)(3).
 
-(Added Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1), Nov. 5, 1990, 104 Stat. 1751; amended Pub. L. 102–190, div. A, title II, § 257(a), title X, § 1061(a)(19), Dec. 5, 1991, 105 Stat. 1331, 1473; Pub. L. 102–484, div. A, title X, § 1052(38), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 103–160, div. A, title II, § 265(a), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, § 203(a)–(b)(2), (c), Feb. 10, 1996, 110 Stat. 217, 218; Pub. L. 105–245, title III, § 309(b)(2)(B), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 106–65, div. A, title III, § 324, Oct. 5, 1999, 113 Stat. 563; Pub. L. 106–398, § 1 [[div. A], title III, § 313(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–55; Pub. L. 108–136, div. A, title X, § 1031(a)(52), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 111–383, div. A, title IX, § 901(j)(5), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 116–92, div. A, title IX, § 902(80), Dec. 20, 2019, 133 Stat. 1553.)
+(Added Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1), Nov. 5, 1990, 104 Stat. 1751; amended Pub. L. 102–190, div. A, title II, § 257(a), title X, § 1061(a)(19), Dec. 5, 1991, 105 Stat. 1331, 1473; Pub. L. 102–484, div. A, title X, § 1052(38), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 103–160, div. A, title II, § 265(a), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, § 203(a)–(b)(2), (c), Feb. 10, 1996, 110 Stat. 217, 218; Pub. L. 105–245, title III, § 309(b)(2)(B), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 106–65, div. A, title III, § 324, Oct. 5, 1999, 113 Stat. 563; Pub. L. 106–398, § 1 [[div. A], title III, § 313(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–55; Pub. L. 108–136, div. A, title X, § 1031(a)(52), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 111–383, div. A, title IX, § 901(j)(5), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 116–92, div. A, title IX, § 902(80), Dec. 20, 2019, 133 Stat. 1553.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(7), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(7), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 **Amendments**
 
-2019—Subsec. (b)(1). Pub. L. 116–92, § 902(80)(A), substituted “Office of the Under Secretary of Defense for Research and Engineering” for “Office of the Assistant Secretary of Defense for Research and Engineering”.
+2019—Subsec. (b)(1). Pub. L. 116–92, § 902(80)(A), substituted “Office of the Under Secretary of Defense for Research and Engineering” for “Office of the Assistant Secretary of Defense for Research and Engineering”.
 
-Subsec. (b)(3). Pub. L. 116–92, § 902(80)(B), substituted “Office of the Under Secretary of Defense for Acquisition and Sustainment” for “Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (b)(3). Pub. L. 116–92, § 902(80)(B), substituted “Office of the Under Secretary of Defense for Acquisition and Sustainment” for “Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-2011—Subsec. (b)(1). Pub. L. 111–383, § 901(j)(5)(A), substituted “official within the Office of the Assistant Secretary of Defense for Research and Engineering who is responsible for science and technology” for “Deputy Under Secretary of Defense for Science and Technology”.
+2011—Subsec. (b)(1). Pub. L. 111–383, § 901(j)(5)(A), substituted “official within the Office of the Assistant Secretary of Defense for Research and Engineering who is responsible for science and technology” for “Deputy Under Secretary of Defense for Science and Technology”.
 
-Subsec. (b)(3). Pub. L. 111–383, § 901(j)(5)(B), substituted “official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics who is” for “Deputy Under Secretary of Defense”.
+Subsec. (b)(3). Pub. L. 111–383, § 901(j)(5)(B), substituted “official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics who is” for “Deputy Under Secretary of Defense”.
 
 2003—Subsec. (g). Pub. L. 108–136 struck out designation for par. (1) before “Not later than February” and struck out par. (2) which read as follows: “Not later than March 15 of each year, the Secretary of Defense shall submit such annual report to Congress, along with such comments as the Secretary considers appropriate.”
 
@@ -149,35 +149,35 @@ Subsec. (b)(3). Pub. L. 111–383, § 901(j)(5)(B), substituted “official wi
 
 1998—Subsec. (b)(6). Pub. L. 105–245 substituted “Science” for “Energy Research”.
 
-1996—Subsec. (b). Pub. L. 104–106, § 203(a)(1), substituted “12” for “thirteen” in introductory provisions.
+1996—Subsec. (b). Pub. L. 104–106, § 203(a)(1), substituted “12” for “thirteen” in introductory provisions.
 
-Subsec. (b)(3) to (7). Pub. L. 104–106, § 203(a)(2), (3), redesignated pars. (4) to (8) as (3) to (7), respectively, and struck out former par. (3) which read as follows: “The Assistant Secretary of the Air Force responsible for matters relating to space.”
+Subsec. (b)(3) to (7). Pub. L. 104–106, § 203(a)(2), (3), redesignated pars. (4) to (8) as (3) to (7), respectively, and struck out former par. (3) which read as follows: “The Assistant Secretary of the Air Force responsible for matters relating to space.”
 
-Subsec. (b)(8). Pub. L. 104–106, § 203(a)(3), (4), redesignated par. (9) as (8) and struck out “, who shall be nonvoting members” after “Coast Guard”. Former par. (8) redesignated (7).
+Subsec. (b)(8). Pub. L. 104–106, § 203(a)(3), (4), redesignated par. (9) as (8) and struck out “, who shall be nonvoting members” after “Coast Guard”. Former par. (8) redesignated (7).
 
-Subsec. (b)(9), (10). Pub. L. 104–106, § 203(a)(3), redesignated pars. (9) and (10) as (8) and (9), respectively.
+Subsec. (b)(9), (10). Pub. L. 104–106, § 203(a)(3), redesignated pars. (9) and (10) as (8) and (9), respectively.
 
-Subsec. (d)(3). Pub. L. 104–106, § 203(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “To prepare an annual five-year strategic environmental research and development plan that shall cover the fiscal year in which the plan is prepared and the four fiscal years following such fiscal year.”
+Subsec. (d)(3). Pub. L. 104–106, § 203(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “To prepare an annual five-year strategic environmental research and development plan that shall cover the fiscal year in which the plan is prepared and the four fiscal years following such fiscal year.”
 
-Subsec. (d)(4). Pub. L. 104–106, § 203(b)(1)(B), substituted “National Science and Technology Council” for “Federal Coordinating Council on Science, Engineering, and Technology”.
+Subsec. (d)(4). Pub. L. 104–106, § 203(b)(1)(B), substituted “National Science and Technology Council” for “Federal Coordinating Council on Science, Engineering, and Technology”.
 
-Subsec. (e)(3). Pub. L. 104–106, § 203(c), substituted “national security programs” for “national security programs, particularly technologies that have the potential for industrial, commercial, and other governmental applications, and to support programs of research in and development of such applications”.
+Subsec. (e)(3). Pub. L. 104–106, § 203(c), substituted “national security programs” for “national security programs, particularly technologies that have the potential for industrial, commercial, and other governmental applications, and to support programs of research in and development of such applications”.
 
-Subsecs. (f), (g). Pub. L. 104–106, § 203(b)(2), added subsec. (g), redesignated former subsec. (g) as (f), and struck out former subsec. (f) which authorized Secretaries of Defense and Energy to submit to the Council proposals for conducting environmental research under this chapter.
+Subsecs. (f), (g). Pub. L. 104–106, § 203(b)(2), added subsec. (g), redesignated former subsec. (g) as (f), and struck out former subsec. (f) which authorized Secretaries of Defense and Energy to submit to the Council proposals for conducting environmental research under this chapter.
 
-Subsec. (h). Pub. L. 104–106, § 203(b)(2)(A), struck out subsec. (h) which required Council to submit to Secretary of Defense and to Congress an annual report on annual five-year strategic environmental research and development plan.
+Subsec. (h). Pub. L. 104–106, § 203(b)(2)(A), struck out subsec. (h) which required Council to submit to Secretary of Defense and to Congress an annual report on annual five-year strategic environmental research and development plan.
 
-1993—Subsec. (b)(1) to (4). Pub. L. 103–160, § 265(a)(1)–(3), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1) which read as follows: “The Assistant Secretary of Defense responsible for matters relating to production and logistics.”
+1993—Subsec. (b)(1) to (4). Pub. L. 103–160, § 265(a)(1)–(3), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1) which read as follows: “The Assistant Secretary of Defense responsible for matters relating to production and logistics.”
 
-Subsec. (b)(6). Pub. L. 103–160, § 265(a)(4), added par. (6) and struck out former par. (6) which read as follows: “The Director of the Department of Energy Office of Environmental Restoration and Waste Management.”
+Subsec. (b)(6). Pub. L. 103–160, § 265(a)(4), added par. (6) and struck out former par. (6) which read as follows: “The Director of the Department of Energy Office of Environmental Restoration and Waste Management.”
 
 1992—Subsec. (b)(9). Pub. L. 102–484 substituted “nonvoting” for “non-voting”.
 
-1991—Subsec. (b). Pub. L. 102–190, § 257(a)(1), substituted “thirteen” for “nine” in introductory provisions.
+1991—Subsec. (b). Pub. L. 102–190, § 257(a)(1), substituted “thirteen” for “nine” in introductory provisions.
 
-Subsec. (b)(9), (10). Pub. L. 102–190, § 257(a)(2), (3), added par. (9) and redesignated former par. (9) as (10).
+Subsec. (b)(9), (10). Pub. L. 102–190, § 257(a)(2), (3), added par. (9) and redesignated former par. (9) as (10).
 
-Subsec. (f)(2)(A). Pub. L. 102–190, § 1061(a)(19), substituted “department’s” for “Department’s”.
+Subsec. (f)(2)(A). Pub. L. 102–190, § 1061(a)(19), substituted “department’s” for “Department’s”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,7 +187,7 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title II, § 203(b)(3), Feb. 10, 1996, 110 Stat. 218, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to the annual report prepared during fiscal year 1997 and each fiscal year thereafter.”
+Pub. L. 104–106, div. A, title II, § 203(b)(3), Feb. 10, 1996, 110 Stat. 218, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to the annual report prepared during fiscal year 1997 and each fiscal year thereafter.”
 
 **Transfer of Functions**
 
@@ -195,9 +195,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **First Annual Report of Strategic Environmental Research and Development Program Council**
 
-Pub. L. 101–510, div. A, title XVIII, § 1801(c), Nov. 5, 1990, 104 Stat. 1758, provided that the first annual report required by former subsec. (h) of this section be submitted to Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency not later than Feb. 1, 1992, that the Strategic Environmental Research and Development Program Council conduct and include as part of report an assessment of advisability of, and various alternatives to, charging fees for information released, as required pursuant to section 2901(b)(3) of this title and subsecs. (e)(1), (2), and (g)(2)(I) [now (f)(2)(I)] of this section, to private sector entities operating for a profit, and that Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency submit to Congress any recommendations for changes in structure or personnel of Council that Secretaries and Administrator consider necessary to carry out environmental activities of strategic environmental research and development program.
+Pub. L. 101–510, div. A, title XVIII, § 1801(c), Nov. 5, 1990, 104 Stat. 1758, provided that the first annual report required by former subsec. (h) of this section be submitted to Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency not later than Feb. 1, 1992, that the Strategic Environmental Research and Development Program Council conduct and include as part of report an assessment of advisability of, and various alternatives to, charging fees for information released, as required pursuant to section 2901(b)(3) of this title and subsecs. (e)(1), (2), and (g)(2)(I) [now (f)(2)(I)] of this section, to private sector entities operating for a profit, and that Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency submit to Congress any recommendations for changes in structure or personnel of Council that Secretaries and Administrator consider necessary to carry out environmental activities of strategic environmental research and development program.
 
-## § 2903. Executive Director
+## § 2903. Executive Director
 
 **(a)** There shall be an Executive Director of the Council appointed by the Secretary of Defense after consultation with the Secretary of Energy.
 
@@ -211,15 +211,15 @@ Pub. L. 101–510, div. A, title XVIII, § 1801(c), Nov. 5, 1990, 104 Stat. 17
 
 **(2)** The Executive Director, with the concurrence of the Council and without regard to the provisions of chapter 51 of title 5 and subchapter III of chapter 53 of such title, may establish the rates of basic pay for professional, scientific, and technical employees appointed pursuant to paragraph (1).
 
-(Added Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1), Nov. 5, 1990, 104 Stat. 1755; amended Pub. L. 102–25, title VII, § 701(h)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–160, div. A, title II, § 265(b), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, § 203(d), (e)(1), Feb. 10, 1996, 110 Stat. 218.)
+(Added Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1), Nov. 5, 1990, 104 Stat. 1755; amended Pub. L. 102–25, title VII, § 701(h)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–160, div. A, title II, § 265(b), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, § 203(d), (e)(1), Feb. 10, 1996, 110 Stat. 218.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (c). Pub. L. 104–106, § 203(d), substituted “contracts using competitive procedures. The Executive Director may enter into” for “contracts or” and “law. In either case,” for “law, except that”.
+1996—Subsec. (c). Pub. L. 104–106, § 203(d), substituted “contracts using competitive procedures. The Executive Director may enter into” for “contracts or” and “law. In either case,” for “law, except that”.
 
-Subsec. (d)(2). Pub. L. 104–106, § 203(e)(1), struck out at end “The authority provided in the preceding sentence shall expire on September 30, 1995.”
+Subsec. (d)(2). Pub. L. 104–106, § 203(e)(1), struck out at end “The authority provided in the preceding sentence shall expire on September 30, 1995.”
 
 1993—Subsec. (d)(2). Pub. L. 103–160 substituted “September 30, 1995” for “November 5, 1992”.
 
@@ -229,9 +229,9 @@ Subsec. (d)(2). Pub. L. 104–106, § 203(e)(1), struck out at end “The auth
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title II, § 203(e)(2), Feb. 10, 1996, 110 Stat. 218, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of September 29, 1995.”
+Pub. L. 104–106, div. A, title II, § 203(e)(2), Feb. 10, 1996, 110 Stat. 218, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of September 29, 1995.”
 
-## § 2904. Strategic Environmental Research and Development Program Scientific Advisory Board
+## § 2904. Strategic Environmental Research and Development Program Scientific Advisory Board
 
 **(a)** The Secretary of Defense and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency, shall jointly appoint a Strategic Environmental Research and Development Program Scientific Advisory Board (hereafter in this section referred to as the “Advisory Board”) consisting of not less than six and not more than 14 members.
 
@@ -267,7 +267,7 @@ Pub. L. 104–106, div. A, title II, § 203(e)(2), Feb. 10, 1996, 110 Stat. 21
 
 **(h)** Each member of the Advisory Board shall be required to file a financial disclosure report under subchapter I of chapter 131 of title 5.
 
-(Added Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1), Nov. 5, 1990, 104 Stat. 1756; amended Pub. L. 102–190, div. A, title II, § 257(b), Dec. 5, 1991, 105 Stat. 1331; Pub. L. 105–85, div. A, title III, § 341, Nov. 18, 1997, 111 Stat. 1686; Pub. L. 106–398, § 1 [[div. A], title III, § 313(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–55; Pub. L. 117–286, § 4(c)(21), Dec. 27, 2022, 136 Stat. 4356.)
+(Added Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1), Nov. 5, 1990, 104 Stat. 1756; amended Pub. L. 102–190, div. A, title II, § 257(b), Dec. 5, 1991, 105 Stat. 1331; Pub. L. 105–85, div. A, title III, § 341, Nov. 18, 1997, 111 Stat. 1686; Pub. L. 106–398, § 1 [[div. A], title III, § 313(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–55; Pub. L. 117–286, § 4(c)(21), Dec. 27, 2022, 136 Stat. 4356.)
 
 **Editorial Notes**
 
@@ -279,19 +279,19 @@ Pub. L. 104–106, div. A, title II, § 203(e)(2), Feb. 10, 1996, 110 Stat. 21
 
 1997—Subsec. (b)(4). Pub. L. 105–85 substituted “not less than two and not more than four” for “three years”.
 
-1991—Subsec. (a). Pub. L. 102–190, § 257(b)(1), substituted “14 members” for “13 members”.
+1991—Subsec. (a). Pub. L. 102–190, § 257(b)(1), substituted “14 members” for “13 members”.
 
-Subsec. (b)(1). Pub. L. 102–190, § 257(b)(2), added par. (1) and struck out former par. (1) which read as follows: “The Science Advisor to the President, or his designee, shall be a permanent member of the Advisory Board.”
+Subsec. (b)(1). Pub. L. 102–190, § 257(b)(2), added par. (1) and struck out former par. (1) which read as follows: “The Science Advisor to the President, or his designee, shall be a permanent member of the Advisory Board.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Initial Appointments of Advisory Board Members**
 
-Pub. L. 101–510, div. A, title XVIII, § 1801(b), Nov. 5, 1990, 104 Stat. 1757, directed Secretary of Defense and Secretary of Energy to make the appointments required by 10 U.S.C. 2904(a) not later than 60 days after Nov. 5, 1990, and provided that up to one-half of the members originally appointed to the Strategic Environmental Research and Development Program Scientific Advisory Board could be appointed for terms of not more than six and not less than two years in order to provide for staggered expiration of the terms of members.
+Pub. L. 101–510, div. A, title XVIII, § 1801(b), Nov. 5, 1990, 104 Stat. 1757, directed Secretary of Defense and Secretary of Energy to make the appointments required by 10 U.S.C. 2904(a) not later than 60 days after Nov. 5, 1990, and provided that up to one-half of the members originally appointed to the Strategic Environmental Research and Development Program Scientific Advisory Board could be appointed for terms of not more than six and not less than two years in order to provide for staggered expiration of the terms of members.
 
 **First Annual Report of Advisory Board**
 
-Pub. L. 101–510, div. A, title XVIII, § 1801(d), Nov. 5, 1990, 104 Stat. 1758, directed that first annual report of the Strategic Environmental Research and Development Program Scientific Advisory Board be submitted not later than Mar. 15, 1992.
+Pub. L. 101–510, div. A, title XVIII, § 1801(d), Nov. 5, 1990, 104 Stat. 1758, directed that first annual report of the Strategic Environmental Research and Development Program Scientific Advisory Board be submitted not later than Mar. 15, 1992.
 
 **Termination of Advisory Boards**
 

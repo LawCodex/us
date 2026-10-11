@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FAIR TRADE IN AUTO PARTS
 
-### §§ 4701 to 4704. Omitted
+### §§ 4701 to 4704. Omitted
 
 **Editorial Notes**
 
@@ -25,33 +25,33 @@ retrieved: 2026-10-11
 
 Sections 4701 to 4704 were omitted pursuant to section 4704 which provided that the authorities under this subchapter expired on Dec. 31, 1998.
 
-Section 4701, Pub. L. 100–418, title II, § 2122, Aug. 23, 1988, 102 Stat. 1325, defined “Japanese markets”.
+Section 4701, Pub. L. 100–418, title II, § 2122, Aug. 23, 1988, 102 Stat. 1325, defined “Japanese markets”.
 
-Section 4702, Pub. L. 100–418, title II, § 2123, Aug. 23, 1988, 102 Stat. 1326, established initiative on auto parts sales to Japan.
+Section 4702, Pub. L. 100–418, title II, § 2123, Aug. 23, 1988, 102 Stat. 1326, established initiative on auto parts sales to Japan.
 
-Section 4703, Pub. L. 100–418, title II, § 2124, Aug. 23, 1988, 102 Stat. 1326, established Special Advisory Committee on auto parts sales in Japan.
+Section 4703, Pub. L. 100–418, title II, § 2124, Aug. 23, 1988, 102 Stat. 1326, established Special Advisory Committee on auto parts sales in Japan.
 
-Section 4704, Pub. L. 100–418, title II, § 2125, Aug. 23, 1988, 102 Stat. 1327; Pub. L. 103–236, title V, § 510(a), Apr. 30, 1994, 108 Stat. 465, provided that the authorities under this subchapter expire on Dec. 31, 1998.
+Section 4704, Pub. L. 100–418, title II, § 2125, Aug. 23, 1988, 102 Stat. 1327; Pub. L. 103–236, title V, § 510(a), Apr. 30, 1994, 108 Stat. 465, provided that the authorities under this subchapter expire on Dec. 31, 1998.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–261, div. C, title XXXVIII, § 3801, Oct. 17, 1998, 112 Stat. 2275, provided that title XXXVIII of div. C of Pub. L. 105–261, enacting former subchapter I–A of this chapter, could be cited as the “Fair Trade in Automotive Parts Act of 1998”.
+Pub. L. 105–261, div. C, title XXXVIII, § 3801, Oct. 17, 1998, 112 Stat. 2275, provided that title XXXVIII of div. C of Pub. L. 105–261, enacting former subchapter I–A of this chapter, could be cited as the “Fair Trade in Automotive Parts Act of 1998”.
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–392, title IV, § 401, Oct. 22, 1994, 108 Stat. 4099, provided that: “This title [amending section 4728 of this title] may be cited as the ‘Environmental Export Promotion Act of 1994’.”
+Pub. L. 103–392, title IV, § 401, Oct. 22, 1994, 108 Stat. 4099, provided that: “This title [amending section 4728 of this title] may be cited as the ‘Environmental Export Promotion Act of 1994’.”
 
 **Short Title**
 
-Pub. L. 100–418, title II, § 2001, Aug. 23, 1988, 102 Stat. 1325, provided that: “This title [see Tables for classification] may be referred to as the ‘Export Enhancement Act of 1988’.”
+Pub. L. 100–418, title II, § 2001, Aug. 23, 1988, 102 Stat. 1325, provided that: “This title [see Tables for classification] may be referred to as the ‘Export Enhancement Act of 1988’.”
 
-Pub. L. 100–418, title II, § 2121, Aug. 23, 1988, 102 Stat. 1325, provided that this subchapter could be referred to as the “Fair Trade in Auto Parts Act of 1988”.
+Pub. L. 100–418, title II, § 2121, Aug. 23, 1988, 102 Stat. 1325, provided that this subchapter could be referred to as the “Fair Trade in Auto Parts Act of 1988”.
 
 ## SUBCHAPTER I–A—FAIR TRADE IN AUTOMOTIVE PARTS
 
-### §§ 4705 to 4705c. Omitted
+### §§ 4705 to 4705c. Omitted
 
 **Editorial Notes**
 
@@ -59,21 +59,21 @@ Pub. L. 100–418, title II, § 2121, Aug. 23, 1988, 102 Stat. 1325, provided 
 
 Sections 4705 to 4705c were omitted pursuant to section 4705c which provided that the authority under this subchapter expired on Dec. 31, 2003.
 
-Section 4705, Pub. L. 105–261, div. C, title XXXVIII, § 3802, Oct. 17, 1998, 112 Stat. 2275, contained definitions.
+Section 4705, Pub. L. 105–261, div. C, title XXXVIII, § 3802, Oct. 17, 1998, 112 Stat. 2275, contained definitions.
 
-Section 4705a, Pub. L. 105–261, div. C, title XXXVIII, § 3803, Oct. 17, 1998, 112 Stat. 2276, related to re-establishment of initiative on automotive parts sales to Japan.
+Section 4705a, Pub. L. 105–261, div. C, title XXXVIII, § 3803, Oct. 17, 1998, 112 Stat. 2276, related to re-establishment of initiative on automotive parts sales to Japan.
 
-Section 4705b, Pub. L. 105–261, div. C, title XXXVIII, § 3804, Oct. 17, 1998, 112 Stat. 2276, established Special Advisory Committee on automotive parts sales in Japanese and other Asian markets.
+Section 4705b, Pub. L. 105–261, div. C, title XXXVIII, § 3804, Oct. 17, 1998, 112 Stat. 2276, established Special Advisory Committee on automotive parts sales in Japanese and other Asian markets.
 
-Section 4705c, Pub. L. 105–261, div. C, title XXXVIII, § 3805, Oct. 17, 1998, 112 Stat. 2277, provided that the authority under this subchapter expire on Dec. 31, 2003.
+Section 4705c, Pub. L. 105–261, div. C, title XXXVIII, § 3805, Oct. 17, 1998, 112 Stat. 2277, provided that the authority under this subchapter expire on Dec. 31, 2003.
 
 ## SUBCHAPTER II—GENERAL PROVISIONS
 
-### § 4711. Repealed. Pub. L. 107–228, div. A, title VI, § 671(1), Sept. 30, 2002, 116 Stat. 1407
+### § 4711. Repealed. Pub. L. 107–228, div. A, title VI, § 671(1), Sept. 30, 2002, 116 Stat. 1407
 
-Section, Pub. L. 100–418, title II, § 2202, Aug. 23, 1988, 102 Stat. 1327; Pub. L. 104–188, title I, § 1954(b)(2), Aug. 20, 1996, 110 Stat. 1928, required the Secretary of State to report annually on the economic policy and trade practices of each country with which the United States has an economic or trade relationship.
+Section, Pub. L. 100–418, title II, § 2202, Aug. 23, 1988, 102 Stat. 1327; Pub. L. 104–188, title I, § 1954(b)(2), Aug. 20, 1996, 110 Stat. 1928, required the Secretary of State to report annually on the economic policy and trade practices of each country with which the United States has an economic or trade relationship.
 
-### § 4712. Barter and countertrade
+### § 4712. Barter and countertrade
 
 **(a) Interagency group**
 
@@ -121,7 +121,7 @@ The Secretary of Commerce shall transfer such staff to the Office as the Secreta
 
 **(D)** provide assistance to enterprises seeking barter and countertrade opportunities.
 
-(Pub. L. 100–418, title II, § 2205, Aug. 23, 1988, 102 Stat. 1332.)
+(Pub. L. 100–418, title II, § 2205, Aug. 23, 1988, 102 Stat. 1332.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -131,7 +131,7 @@ For composition of Interagency Group on Countertrade, see section 2–101 of Ex.
 
 ## SUBCHAPTER III—EXPORT PROMOTION
 
-### § 4721. United States and Foreign Commercial Service
+### § 4721. United States and Foreign Commercial Service
 
 **(a) Establishment**
 
@@ -189,9 +189,9 @@ The Secretary shall establish district offices of the Commercial Service in any 
 
 **(A)** The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines there are significant business opportunities for United States exporters.
 
-**(B)** The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 [22 U.S.C. 3901 et seq.]. The Secretary shall designate a Commercial Officer 1
+**(B)** The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 [22 U.S.C. 3901 et seq.]. The Secretary shall designate a Commercial Officer 1
 
-<sup>1</sup>  So in original. Probably should be “Commercial Service Officer”.
+<sup>1</sup> So in original. Probably should be “Commercial Service Officer”.
 
 as head of each foreign office.
 
@@ -259,13 +259,13 @@ that exports, or seeks to export, goods or services produced in the United State
 
 **(6)** the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 100–418, title II, § 2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102–429, title II, §§ 202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204; Pub. L. 115–254, div. F, title VI, § 1470(d), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 100–418, title II, § 2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102–429, title II, §§ 202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204; Pub. L. 115–254, div. F, title VI, § 1470(d), Oct. 5, 2018, 132 Stat. 3516.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Codification**
 
@@ -277,11 +277,11 @@ Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of sectio
 
 Subsec. (f). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in introductory provisions.
 
-1992—Subsec. (b)(8), (9). Pub. L. 102–429, §§ 202, 203(a), added pars. (8) and (9).
+1992—Subsec. (b)(8), (9). Pub. L. 102–429, §§ 202, 203(a), added pars. (8) and (9).
 
-Subsec. (d)(1). Pub. L. 102–429, § 205, substituted “16” for “8”.
+Subsec. (d)(1). Pub. L. 102–429, § 205, substituted “16” for “8”.
 
-Subsecs. (f) to (j). Pub. L. 102–429, § 203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+Subsecs. (f) to (j). Pub. L. 102–429, § 203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,7 +293,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
 
-### § 4721a. State trade coordination
+### § 4721a. State trade coordination
 
 **(a) Omitted**
 
@@ -329,7 +329,7 @@ The plan required under paragraph (1) shall be finalized and submitted to Congre
 
 The Secretary of Commerce, acting through the head of the United States Foreign and Commercial Service,1
 
-<sup>1</sup>  So in original. Probably should be “United States and Foreign Commercial Service,”.
+<sup>1</sup> So in original. Probably should be “United States and Foreign Commercial Service,”.
 
 shall develop an annual Federal-State export strategy for each State that submits to the Secretary of Commerce its export strategy for the upcoming calendar year. In developing an annual Federal-State export strategy under this paragraph, the Secretary of Commerce shall take into account the Federal and State export promotion coordination plan developed under subsection (b).
 
@@ -359,7 +359,7 @@ Not later than one year after February 24, 2016, the Secretary of Commerce shall
 
 **(e) Omitted**
 
-(Pub. L. 114–125, title V, § 505, Feb. 24, 2016, 130 Stat. 179.)
+(Pub. L. 114–125, title V, § 505, Feb. 24, 2016, 130 Stat. 179.)
 
 **Editorial Notes**
 
@@ -369,15 +369,15 @@ Section was enacted as part of the Small Business Trade Enhancement Act of 2015 
 
 Section is comprised of section 505 of Pub. L. 114–125. Subsecs. (a) and (e) of section 505 of Pub. L. 114–125 amended section 4727 of this title.
 
-### § 4722. Transferred
+### § 4722. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 100–418, title II, § 2302, Aug. 23, 1988, 102 Stat. 1341, which related to Commercial Service Officers and multilateral development bank procurement, was renumbered § 1803 of title XVIII of Pub. L. 95–118, by Pub. L. 101–240, title V, § 541(b)(2), Dec. 19, 1989, 103 Stat. 2517, and was transferred to section 262s–2 of Title 22, Foreign Relations and Intercourse.
+Section, Pub. L. 100–418, title II, § 2302, Aug. 23, 1988, 102 Stat. 1341, which related to Commercial Service Officers and multilateral development bank procurement, was renumbered § 1803 of title XVIII of Pub. L. 95–118, by Pub. L. 101–240, title V, § 541(b)(2), Dec. 19, 1989, 103 Stat. 2517, and was transferred to section 262s–2 of Title 22, Foreign Relations and Intercourse.
 
-### § 4723. Market Development Cooperator Program
+### § 4723. Market Development Cooperator Program
 
 **(a) Authority of Secretary of Commerce**
 
@@ -419,9 +419,9 @@ In order to qualify for the program established under this subsection, individua
 
 Contracts may be entered into under this section in a fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
 
-(Pub. L. 100–418, title II, § 2303, Aug. 23, 1988, 102 Stat. 1342.)
+(Pub. L. 100–418, title II, § 2303, Aug. 23, 1988, 102 Stat. 1342.)
 
-### § 4723a. United States Commercial Centers
+### § 4723a. United States Commercial Centers
 
 **(a) Establishment**
 
@@ -489,7 +489,7 @@ The Secretary of Commerce shall, to the greatest extent feasible, use the Market
 
 There are authorized to be appropriated to the Secretary of Commerce to carry out this section $8,000,000 for fiscal year 1993, and $5,500,000 for fiscal year 1994. Funds made available under this subsection may be used for the acquisition of real property.
 
-**(j) Repealed. Pub. L. 104–66, title I, § 1021(b), Dec. 21, 1995, 109 Stat. 712**
+**(j) Repealed. Pub. L. 104–66, title I, § 1021(b), Dec. 21, 1995, 109 Stat. 712**
 
 **(k) Definitions** For purposes of this section—
 
@@ -507,7 +507,7 @@ that exports, or seeks to export, goods or services produced in the United State
 
 **(3)** the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 102–549, title IV, § 401, Oct. 28, 1992, 106 Stat. 3661; Pub. L. 104–66, title I, § 1021(b), Dec. 21, 1995, 109 Stat. 712.)
+(Pub. L. 102–549, title IV, § 401, Oct. 28, 1992, 106 Stat. 3661; Pub. L. 104–66, title I, § 1021(b), Dec. 21, 1995, 109 Stat. 712.)
 
 **Editorial Notes**
 
@@ -519,7 +519,7 @@ Section was enacted as part of the Jobs Through Exports Act of 1992, and not as 
 
 1995—Subsec. (j). Pub. L. 104–66 struck out heading and text of subsec. (j). Text read as follows: “The Secretary of Commerce shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 1 year after October 28, 1992, and not later than the end of each 1-year period occurring thereafter, a report on the status, activities, and effectiveness of the Centers. Each such report shall include any recommendations with respect to the program established under this section.”
 
-### § 4724. Trade shows
+### § 4724. Trade shows
 
 **(a) Authority of Secretary of Commerce**
 
@@ -563,9 +563,9 @@ In providing assistance under this section, the Secretary of Commerce shall, in 
 
 **(2)** the term “small business” means any small business concern as defined under section 632 of this title.
 
-(Pub. L. 100–418, title II, § 2304, Aug. 23, 1988, 102 Stat. 1343.)
+(Pub. L. 100–418, title II, § 2304, Aug. 23, 1988, 102 Stat. 1343.)
 
-### § 4725. United States and Foreign Commercial Service Pacific Rim initiative
+### § 4725. United States and Foreign Commercial Service Pacific Rim initiative
 
 **(a) In general** In order to encourage the export of United States goods and services to Japan, South Korea, and Taiwan, the United States and Foreign Commercial Service shall make a special effort to—
 
@@ -589,7 +589,7 @@ The Secretary of Commerce shall report periodically to the Congress on activitie
 
 **(2)** a corporation, partnership, or other association created under the laws of the United States or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).
 
-(Pub. L. 100–418, title II, § 2306, Aug. 23, 1988, 102 Stat. 1344.)
+(Pub. L. 100–418, title II, § 2306, Aug. 23, 1988, 102 Stat. 1344.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -597,7 +597,7 @@ The Secretary of Commerce shall report periodically to the Congress on activitie
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b) of this section is listed on page 51), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-### § 4726. Indian tribes export promotion
+### § 4726. Indian tribes export promotion
 
 **(a) Assistance authorized**
 
@@ -619,9 +619,9 @@ The Secretary of Commerce shall provide technical assistance and support service
 
 No assistance shall be provided under this section in support of any activity which includes the sale or marketing of any craft items other than authentic arts and crafts hand made or hand crafted by American Indian artisans.
 
-(Pub. L. 100–418, title II, § 2307, Aug. 23, 1988, 102 Stat. 1345.)
+(Pub. L. 100–418, title II, § 2307, Aug. 23, 1988, 102 Stat. 1345.)
 
-### § 4727. Trade Promotion Coordinating Committee
+### § 4727. Trade Promotion Coordinating Committee
 
 **(a) Establishment and purpose** The President shall establish the Trade Promotion Coordinating Committee (hereafter in this section referred to as the “TPCC”). The purpose of the TPCC shall be—
 
@@ -711,13 +711,13 @@ Members of the TPCC (other than members described in subsection (d)(2)) shall be
 
 **(1)** the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan (including implementation of the survey and analysis described in paragraph (7) of that subsection), and any revisions thereto; and
 
-**(2)** the implementation of sections 5823 and 5824 of title 22 1
+**(2)** the implementation of sections 5823 and 5824 of title 22 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, § 2312, as added Pub. L. 102–429, title II, § 201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, § 1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, § 8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, § 7, Dec. 9, 1999, 113 Stat. 1747; Pub. L. 114–125, title V, § 505(a), (e), Feb. 24, 2016, 130 Stat. 179, 180; Pub. L. 115–254, div. F, title VI, § 1470(e), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 100–418, title II, § 2312, as added Pub. L. 102–429, title II, § 201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, § 1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, § 8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, § 7, Dec. 9, 1999, 113 Stat. 1747; Pub. L. 114–125, title V, § 505(a), (e), Feb. 24, 2016, 130 Stat. 179, 180; Pub. L. 115–254, div. F, title VI, § 1470(e), Oct. 5, 2018, 132 Stat. 3516.)
 
 **Editorial Notes**
 
@@ -729,13 +729,13 @@ Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the o
 
 2018—Subsec. (d)(1)(K). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
 
-2016—Subsec. (c)(7). Pub. L. 114–125, § 505(e)(1), added par. (7).
+2016—Subsec. (c)(7). Pub. L. 114–125, § 505(e)(1), added par. (7).
 
-Subsec. (d)(2), (3). Pub. L. 114–125, § 505(a)(1), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (d)(2), (3). Pub. L. 114–125, § 505(a)(1), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (e). Pub. L. 114–125, § 505(a)(2), inserted “(other than members described in subsection (d)(2))” after “Members of the TPCC”.
+Subsec. (e). Pub. L. 114–125, § 505(a)(2), inserted “(other than members described in subsection (d)(2))” after “Members of the TPCC”.
 
-Subsec. (f)(1). Pub. L. 114–125, § 505(e)(2), inserted “(including implementation of the survey and analysis described in paragraph (7) of that subsection)” after “the implementation of such plan”.
+Subsec. (f)(1). Pub. L. 114–125, § 505(e)(2), inserted “(including implementation of the survey and analysis described in paragraph (7) of that subsection)” after “the implementation of such plan”.
 
 1999—Subsec. (f). Pub. L. 106–158 substituted “March 30 of each year,” for “September 30, 1995, and annually thereafter,” in introductory provisions.
 
@@ -755,7 +755,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 **Availability of State Resources Guides on Export.gov**
 
-Pub. L. 114–125, title V, § 504(c), Feb. 24, 2016, 130 Stat. 179, provided that:
+Pub. L. 114–125, title V, § 504(c), Feb. 24, 2016, 130 Stat. 179, provided that:
 
 > “The Secretary of Commerce shall make available on the Internet website Export.gov (or a successor website) information on the resources relating to export promotion and export financing available in each State—
 
@@ -767,7 +767,7 @@ Pub. L. 114–125, title V, § 504(c), Feb. 24, 2016, 130 Stat. 179, provided 
 
 **Ex. Ord. No. 12870. Trade Promotion Coordinating Committee**
 
-Ex. Ord. No. 12870, Sept. 30, 1993, 58 F.R. 51753, as amended by Ex. Ord. No. 13286, § 26, Feb. 28, 2003, 68 F.R. 10625, provided:
+Ex. Ord. No. 12870, Sept. 30, 1993, 58 F.R. 51753, as amended by Ex. Ord. No. 13286, § 26, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Export Enhancement Act of 1992 (Public Law 102–429, 106 Stat. 2186) [see Short Title of 1992 Amendment note set out under section 635 of Title 12, Banks and Banking], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -1015,7 +1015,7 @@ Barack Obama.
 
 **Ex. Ord. No. 13675. Establishing the President’s Advisory Council on Doing Business in Africa**
 
-Ex. Ord. No. 13675, Aug. 5, 2014, 79 F.R. 46661, as amended by Ex. Ord. No. 13734, § 2, Aug. 3, 2016, 81 F.R. 52321, provided:
+Ex. Ord. No. 13675, Aug. 5, 2014, 79 F.R. 46661, as amended by Ex. Ord. No. 13734, § 2, Aug. 3, 2016, 81 F.R. 52321, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote broad-based economic growth and job creation in the United States and Africa by encouraging U.S. companies to trade with and invest in Africa, it is hereby ordered as follows:
 
@@ -1163,7 +1163,7 @@ Accordingly, to further enhance and coordinate Federal efforts to facilitate the
 
 Barack Obama.
 
-### § 4727a. Implementation of primary objectives of TPCC
+### § 4727a. Implementation of primary objectives of TPCC
 
 The Trade Promotion Coordinating Committee shall—
 
@@ -1177,7 +1177,7 @@ The Trade Promotion Coordinating Committee shall—
 
 **(5)** by not later than March 30, 2000, and annually thereafter, include the matters addressed in paragraphs (1), (2), (3), and (4) in the annual report required to be submitted under section 4727(f) of this title.
 
-(Pub. L. 106–158, § 6, Dec. 6, 1999, 113 Stat. 1746.)
+(Pub. L. 106–158, § 6, Dec. 6, 1999, 113 Stat. 1746.)
 
 **Editorial Notes**
 
@@ -1185,7 +1185,7 @@ The Trade Promotion Coordinating Committee shall—
 
 Section was enacted as part of the Export Enhancement Act of 1999, and not as part of the Export Enhancement Act of 1988 which enacted this chapter.
 
-### § 4728. Environmental trade promotion
+### § 4728. Environmental trade promotion
 
 **(a) Statement of policy**
 
@@ -1233,9 +1233,9 @@ The Secretary, in carrying out the duties of the chairperson of the TPCC, shall 
 
 **(C)** private sector organizations involved in the promotion of environmental exports, including products that comply with United States environmental, safety, and related requirements;
 
-**(D)** States (as defined in section 4721(i)(5) 1
+**(D)** States (as defined in section 4721(i)(5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) and associations representing the States; and
 
@@ -1333,7 +1333,7 @@ Subject to the availability of appropriations for such purpose, the Secretary is
 
 For purposes of this section, the term “environmental business” means a business that produces environmental technologies, goods, or services.
 
-(Pub. L. 100–418, title II, § 2313, as added Pub. L. 102–429, title II, § 204(a), Oct. 21, 1992, 106 Stat. 2202; amended Pub. L. 103–392, title IV, § 402, Oct. 22, 1994, 108 Stat. 4099.)
+(Pub. L. 100–418, title II, § 2313, as added Pub. L. 102–429, title II, § 204(a), Oct. 21, 1992, 106 Stat. 2202; amended Pub. L. 103–392, title IV, § 402, Oct. 22, 1994, 108 Stat. 4099.)
 
 **Editorial Notes**
 
@@ -1343,9 +1343,9 @@ Section 4721 of this title, referred to in subsec. (c)(2)(D), was amended, and s
 
 **Amendments**
 
-1994—Subsecs. (c) to (e). Pub. L. 103–392, § 402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and struck out former subsec. (d) which related to overseas services for exporters.
+1994—Subsecs. (c) to (e). Pub. L. 103–392, § 402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and struck out former subsec. (d) which related to overseas services for exporters.
 
-Subsecs. (f) to (k). Pub. L. 103–392, § 402(b), added subsecs. (f) to (k).
+Subsecs. (f) to (k). Pub. L. 103–392, § 402(b), added subsecs. (f) to (k).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1353,7 +1353,7 @@ Subsecs. (f) to (k). Pub. L. 103–392, § 402(b), added subsecs. (f) to (k).
 
 Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2) the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
 
-### § 4728a. State and Federal Export Promotion Coordination Working Group
+### § 4728a. State and Federal Export Promotion Coordination Working Group
 
 **(a) Statement of policy**
 
@@ -1379,15 +1379,15 @@ The President shall establish a State and Federal Export Promotion Coordination 
 
 **(2)** representatives of the departments and agencies that are represented on the TPCC, who are designated by the heads of their respective departments or agencies to advise the head on ways of promoting the exportation of United States goods and services.
 
-(Pub. L. 100–418, title II, § 2313A, as added Pub. L. 114–125, title V, § 504(a), Feb. 24, 2016, 130 Stat. 177.)
+(Pub. L. 100–418, title II, § 2313A, as added Pub. L. 114–125, title V, § 504(a), Feb. 24, 2016, 130 Stat. 177.)
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Functions of President under subsec. (b) of this section assigned to Secretary of Commerce, see Ex. Ord. No. 13733, § 1(a), July 22, 2016, 81 F.R. 49515, set out as a note under section 4421 of Title 19, Customs Duties.
+Functions of President under subsec. (b) of this section assigned to Secretary of Commerce, see Ex. Ord. No. 13733, § 1(a), July 22, 2016, 81 F.R. 49515, set out as a note under section 4421 of Title 19, Customs Duties.
 
-### § 4729. Report on export policy
+### § 4729. Report on export policy
 
 **(a) In general**
 
@@ -1421,9 +1421,9 @@ Not later than May 31 of each year, the Secretary of Commerce shall submit to th
 
 **(G)** the status, activities, and effectiveness of the United States commercial centers established under section 4723a of this title;
 
-**(H)** the implementation of sections 5821 and 5822 of title 22 1
+**(H)** the implementation of sections 5821 and 5822 of title 22 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 concerning American Business Centers and the Independent States Business and Agriculture Advisory Council;
 
@@ -1435,7 +1435,7 @@ concerning American Business Centers and the Independent States Business and Agr
 
 Portions of each report under this section may incorporate or be based upon relevant reports and testimony produced by the Department of Commerce or other agencies, but the policy views shall be those of the Secretary of Commerce.
 
-(Pub. L. 100–418, title II, § 2314, as added Pub. L. 102–429, title II, § 206, Oct. 21, 1992, 106 Stat. 2204; amended Pub. L. 104–66, title I, § 1022(b), Dec. 21, 1995, 109 Stat. 713.)
+(Pub. L. 100–418, title II, § 2314, as added Pub. L. 102–429, title II, § 206, Oct. 21, 1992, 106 Stat. 2204; amended Pub. L. 104–66, title I, § 1022(b), Dec. 21, 1995, 109 Stat. 713.)
 
 **Editorial Notes**
 

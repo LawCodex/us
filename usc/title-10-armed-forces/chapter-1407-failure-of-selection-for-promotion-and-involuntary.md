@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title V, § 505(b)(2), Jan. 1, 2021, 134 Stat. 3571, added item 14502a.
+2021—Pub. L. 116–283, div. A, title V, § 505(b)(2), Jan. 1, 2021, 134 Stat. 3571, added item 14502a.
 
-2008—Pub. L. 110–181, div. A, title V, § 503(c)(3), title XVIII, § 1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted “six years” for “five years” in item 14503 and “officers in grade of major general or rear admiral and above” for “major generals and rear admirals” in item 14511.
+2008—Pub. L. 110–181, div. A, title V, § 503(c)(3), title XVIII, § 1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted “six years” for “five years” in item 14503 and “officers in grade of major general or rear admiral and above” for “major generals and rear admirals” in item 14511.
 
-2006—Pub. L. 109–364, div. A, title V, § 503(f), Oct. 17, 2006, 120 Stat. 2178, struck out “reserve” before “brigadier” in item 14510 and substituted “62” for “60” in items 14509 and 14510, “64” for “62” in item 14511, and “66” for “64” in item 14512.
+2006—Pub. L. 109–364, div. A, title V, § 503(f), Oct. 17, 2006, 120 Stat. 2178, struck out “reserve” before “brigadier” in item 14510 and substituted “62” for “60” in items 14509 and 14510, “64” for “62” in item 14511, and “66” for “64” in item 14512.
 
-2002—Pub. L. 107–314, div. A, title V, § 522(b), Dec. 2, 2002, 116 Stat. 2541, added item 14519.
+2002—Pub. L. 107–314, div. A, title V, § 522(b), Dec. 2, 2002, 116 Stat. 2541, added item 14519.
 
-2001—Pub. L. 107–107, div. A, title V, § 517(b)(2)(B), Dec. 28, 2001, 115 Stat. 1094, substituted “Failure of selection for promotion: transfer, retirement, or discharge” for “Separation for failure of selection of promotion” in item 14513.
+2001—Pub. L. 107–107, div. A, title V, § 517(b)(2)(B), Dec. 28, 2001, 115 Stat. 1094, substituted “Failure of selection for promotion: transfer, retirement, or discharge” for “Separation for failure of selection of promotion” in item 14513.
 
-1999—Pub. L. 106–65, div. A, title V, § 511(b), Oct. 5, 1999, 113 Stat. 592, added item 14518.
+1999—Pub. L. 106–65, div. A, title V, § 511(b), Oct. 5, 1999, 113 Stat. 592, added item 14518.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(27), Feb. 10, 1996, 110 Stat. 497, inserted “reserve” after “Marine Corps and” in item 14506, “reserve” after “Removal from the” in item 14507, and “in grades” after “reserve officers” in item 14509.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(27), Feb. 10, 1996, 110 Stat. 497, inserted “reserve” after “Marine Corps and” in item 14506, “reserve” after “Removal from the” in item 14507, and “in grades” after “reserve officers” in item 14509.
 
-## § 14501. Failure of selection for promotion
+## § 14501. Failure of selection for promotion
 
 **(a) Officers Below the Grade of Colonel or Navy Captain.—** An officer on the reserve active-status list in a grade below the grade of colonel or, in the case of an officer in the Navy Reserve, captain who is in or above the promotion zone established for that officer’s grade and competitive category and who (1) is considered but not recommended for promotion (other than by a vacancy promotion board), or (2) declines to accept a promotion for which selected (other than by a vacancy promotion board), shall be considered to have failed of selection for promotion.
 
@@ -49,7 +49,7 @@ retrieved: 2026-10-11
 
 **(B)** the officer’s name is again removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2946; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(28), Feb. 10, 1996, 110 Stat. 498; Pub. L. 109–163, div. A, title V, § 515(b)(1)(TT), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2946; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(28), Feb. 10, 1996, 110 Stat. 498; Pub. L. 109–163, div. A, title V, § 515(b)(1)(TT), Jan. 6, 2006, 119 Stat. 3234.)
 
 **Editorial Notes**
 
@@ -71,7 +71,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **Continuation on Reserve Active-Status List of Certain Reserve Colonels of Army and Air Force**
 
-Pub. L. 103–337, div. A, title XVI, § 1681, Oct. 5, 1994, 108 Stat. 3021, provided that:
+Pub. L. 103–337, div. A, title XVI, § 1681, Oct. 5, 1994, 108 Stat. 3021, provided that:
 
 > **“(a) Continuation Under Old Law.—** Except as provided in subsection (b), a reserve officer of the Army or the Air Force who, on the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title]—
 
@@ -93,7 +93,7 @@ Pub. L. 103–337, div. A, title XVI, § 1681, Oct. 5, 1994, 108 Stat. 3021, p
 
 **Mandatory Separation for Age for Certain Reserve Officers of Navy and Marine Corps**
 
-Pub. L. 103–337, div. A, title XVI, § 1690, Oct. 5, 1994, 108 Stat. 3025, provided that:
+Pub. L. 103–337, div. A, title XVI, § 1690, Oct. 5, 1994, 108 Stat. 3025, provided that:
 
 > **“(a) Savings Provisions for Required Separation Age.—** A reserve officer of the Navy or the Marine Corps—
 
@@ -111,7 +111,7 @@ Pub. L. 103–337, div. A, title XVI, § 1690, Oct. 5, 1994, 108 Stat. 3025, p
 
 > **“(c)** An officer who was initially appointed in the Naval Reserve [now Navy Reserve] or the Marine Corps Reserve before the effective date of this title, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 60 years of age, but can complete this service by the time he becomes 62 years of age, may be retained in an active status not later than the date he becomes 62 years of age.”
 
-## § 14502. Special selection boards: correction of errors
+## § 14502. Special selection boards: correction of errors
 
 **(a) Officers Not Considered Because of Administrative Error.—**
 
@@ -167,21 +167,21 @@ Pub. L. 103–337, div. A, title XVI, § 1690, Oct. 5, 1994, 108 Stat. 3025, p
 
 **(i) Designation of Boards.—** The Secretary of the military department concerned may designate a promotion board convened under section 14101(a) of this title as a special selection board convened under this section. A board so designated may function in both capacities.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2947; amended Pub. L. 107–107, div. A, title V, § 505(c)(3)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, § 514(b), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 114–92, div. A, title V, §§ 502(c)(2), 512, Nov. 25, 2015, 129 Stat. 807, 809.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2947; amended Pub. L. 107–107, div. A, title V, § 505(c)(3)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, § 514(b), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 114–92, div. A, title V, §§ 502(c)(2), 512, Nov. 25, 2015, 129 Stat. 807, 809.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5904 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+Provisions similar to those in this section were contained in section 5904 of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 **Amendments**
 
-2015—Subsec. (a)(1). Pub. L. 114–92, § 502(c)(2), struck out “or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error,” after “administrative error,”.
+2015—Subsec. (a)(1). Pub. L. 114–92, § 502(c)(2), struck out “or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error,” after “administrative error,”.
 
-Subsec. (b)(1). Pub. L. 114–92, § 512(1), substituted “a mandatory promotion board convened under section 14101(a) of this title” for “a selection board” in introductory provisions and “mandatory promotion board” for “selection board” in subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 114–92, § 512(1), substituted “a mandatory promotion board convened under section 14101(a) of this title” for “a selection board” in introductory provisions and “mandatory promotion board” for “selection board” in subpars. (A) and (B).
 
-Subsec. (b)(3). Pub. L. 114–92, § 512(2), in first sentence, substituted “The special selection board” for “Such board” and “mandatory promotion board” for “selection board”.
+Subsec. (b)(3). Pub. L. 114–92, § 512(2), in first sentence, substituted “The special selection board” for “Such board” and “mandatory promotion board” for “selection board”.
 
 2006—Subsec. (b)(1)(A). Pub. L. 109–364 inserted “in a matter material to the decision of the board” after “contrary to law”.
 
@@ -197,7 +197,7 @@ Amendment by Pub. L. 109–364 effective Mar. 1, 2007, and applicable with respe
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14502a. Special selection review boards
+## § 14502a. Special selection review boards
 
 **(a) In General.—**
 
@@ -289,7 +289,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(h) Promotion Board Defined.—** In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 14101(a) of this title.
 
-(Added Pub. L. 116–283, div. A, title V, § 505(b)(1), Jan. 1, 2021, 134 Stat. 3569; amended Pub. L. 118–31, div. A, title V, § 507(b), Dec. 22, 2023, 137 Stat. 242; Pub. L. 118–159, div. A, title V, § 506(b), Dec. 23, 2024, 138 Stat. 1871.)
+(Added Pub. L. 116–283, div. A, title V, § 505(b)(1), Jan. 1, 2021, 134 Stat. 3569; amended Pub. L. 118–31, div. A, title V, § 507(b), Dec. 22, 2023, 137 Stat. 242; Pub. L. 118–159, div. A, title V, § 506(b), Dec. 23, 2024, 138 Stat. 1871.)
 
 **Editorial Notes**
 
@@ -299,7 +299,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 2023—Subsec. (a)(2)(B). Pub. L. 118–31 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under section 14308(a) of this title.”
 
-## § 14503. Discharge of officers with less than six years of commissioned service or found not qualified for promotion to first lieutenant or lieutenant (junior grade)
+## § 14503. Discharge of officers with less than six years of commissioned service or found not qualified for promotion to first lieutenant or lieutenant (junior grade)
 
 **(a) Authorized Discharges.—** The Secretary of the military department concerned may discharge any reserve officer who—
 
@@ -319,19 +319,19 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Regulations.—** Discharges under this section shall be made under regulations prescribed by the Secretary of Defense and may be made without regard to section 12645 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2949; amended Pub. L. 110–181, div. A, title V, § 503(c)(1), (2), Jan. 28, 2008, 122 Stat. 95.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2949; amended Pub. L. 110–181, div. A, title V, § 503(c)(1), (2), Jan. 28, 2008, 122 Stat. 95.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained in sections 3819(b) and 8819(c) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(2), (c)(2).
+Provisions similar to those in subsecs. (a) and (b) of this section were contained in sections 3819(b) and 8819(c) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(2), (c)(2).
 
 **Amendments**
 
-2008—Pub. L. 110–181, § 503(c)(2), substituted “six years” for “five years” in section catchline.
+2008—Pub. L. 110–181, § 503(c)(2), substituted “six years” for “five years” in section catchline.
 
-Subsec. (a)(1). Pub. L. 110–181, § 503(c)(1), substituted “six years” for “five years”.
+Subsec. (a)(1). Pub. L. 110–181, § 503(c)(1), substituted “six years” for “five years”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,9 +341,9 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **Rights for Officers With Over Three Years Service**
 
-Pub. L. 103–337, div. A, title XVI, § 1689, Oct. 5, 1994, 108 Stat. 3025, provided that: “A reserve officer of the Army, Navy, Air Force, or Marine Corps who was in an active status on the day before the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title] and who was subject to placement of the reserve active-status list on the effective date of this title may not be discharged under section 14503 of title 10, United States Code, as added by this title, until on or after the day on which that officer completes three years of continuous service as a reserve commissioned officer.”
+Pub. L. 103–337, div. A, title XVI, § 1689, Oct. 5, 1994, 108 Stat. 3025, provided that: “A reserve officer of the Army, Navy, Air Force, or Marine Corps who was in an active status on the day before the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title] and who was subject to placement of the reserve active-status list on the effective date of this title may not be discharged under section 14503 of title 10, United States Code, as added by this title, until on or after the day on which that officer completes three years of continuous service as a reserve commissioned officer.”
 
-## § 14504. Effect of failure of selection for promotion: reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants (junior grade) of the Navy
+## § 14504. Effect of failure of selection for promotion: reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants (junior grade) of the Navy
 
 **(a) General Rule.—** A first lieutenant on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant (junior grade) on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall be separated in accordance with section 14513 of this title not later than the first day of the seventh month after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public.
 
@@ -351,7 +351,7 @@ Pub. L. 103–337, div. A, title XVI, § 1689, Oct. 5, 1994, 108 Stat. 3025, p
 
 **(c) Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Fully Qualified for Promotion.—** For the purposes of this chapter, an officer of the Army, Air Force, or Marine Corps on a reserve active-status list who holds the grade of first lieutenant, and an officer of the Navy on a reserve active-status list who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 14101(a) of this title if such a board were convened but is not fully qualified for promotion when recommending for promotion under section 14308(b)(4) of this title all fully qualified officers of the officer’s armed force in such grade who would be eligible for such consideration.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2950; amended Pub. L. 107–107, div. A, title V, § 505(b)(2), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 118–159, div. A, title V, § 505(b)(4), Dec. 23, 2024, 138 Stat. 1870; Pub. L. 119–60, div. A, title XVII, § 1701(a)(42), Dec. 18, 2025, 139 Stat. 1210.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2950; amended Pub. L. 107–107, div. A, title V, § 505(b)(2), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 118–159, div. A, title V, § 505(b)(4), Dec. 23, 2024, 138 Stat. 1870; Pub. L. 119–60, div. A, title XVII, § 1701(a)(42), Dec. 18, 2025, 139 Stat. 1210.)
 
 **Editorial Notes**
 
@@ -359,9 +359,9 @@ Pub. L. 103–337, div. A, title XVI, § 1689, Oct. 5, 1994, 108 Stat. 3025, p
 
 2025—Subsec. (b). Pub. L. 119–60 substituted “the Secretary” for “the the Secretary”.
 
-2024—Subsec. (a). Pub. L. 118–159, § 505(b)(4)(A), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
+2024—Subsec. (a). Pub. L. 118–159, § 505(b)(4)(A), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
 
-Subsec. (b). Pub. L. 118–159, § 505(b)(4)(B), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “President approves the report of the selection board which resulted in the second failure”.
+Subsec. (b). Pub. L. 118–159, § 505(b)(4)(B), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “President approves the report of the selection board which resulted in the second failure”.
 
 2001—Subsec. (c). Pub. L. 107–107 added subsec. (c).
 
@@ -371,19 +371,19 @@ Subsec. (b). Pub. L. 118–159, § 505(b)(4)(B), substituted “the Secretary 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14505. Effect of failure of selection for promotion: reserve captains of the Army, Air Force, and Marine Corps and reserve lieutenants of the Navy
+## § 14505. Effect of failure of selection for promotion: reserve captains of the Army, Air Force, and Marine Corps and reserve lieutenants of the Navy
 
 Unless retained as provided in section 12646 or 12686 of this title, a captain on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade and who has not been selected for continuation on the reserve active-status list under section 14701 or 14701a of this title, shall be separated in accordance with section 14513 of this title not later than the first day of the seventh month after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2950; amended Pub. L. 118–159, div. A, title V, §§ 505(b)(5), 513(c)(2), Dec. 23, 2024, 138 Stat. 1870, 1876.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2950; amended Pub. L. 118–159, div. A, title V, §§ 505(b)(5), 513(c)(2), Dec. 23, 2024, 138 Stat. 1870, 1876.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 513(c)(2), inserted “or 14701a” after “14701”.
+2024—Pub. L. 118–159, § 513(c)(2), inserted “or 14701a” after “14701”.
 
-Pub. L. 118–159, § 505(b)(5), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
+Pub. L. 118–159, § 505(b)(5), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -391,21 +391,21 @@ Pub. L. 118–159, § 505(b)(5), substituted “the Secretary concerned releas
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14506. Effect of failure of selection for promotion: reserve majors of the Army, Air Force, and Marine Corps and reserve lieutenant commanders of the Navy
+## § 14506. Effect of failure of selection for promotion: reserve majors of the Army, Air Force, and Marine Corps and reserve lieutenant commanders of the Navy
 
 Unless retained as provided in section 12646, 12686, 14701, 14701a, or 14702 of this title, each reserve officer of the Army, Navy, Air Force, or Marine Corps who holds the grade of major or lieutenant commander who has failed of selection to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall, if not earlier removed from the reserve active-status list, be removed from that list in accordance with section 14513 of this title on the later of (1) the first day of the month after the month in which the officer completes 20 years of commissioned service, or (2) the first day of the seventh month after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(29), Feb. 10, 1996, 110 Stat. 498; Pub. L. 106–65, div. A, title V, § 514(a), Oct. 5, 1999, 113 Stat. 593; Pub. L. 118–159, div. A, title V, §§ 505(b)(6), 513(c)(3), Dec. 23, 2024, 138 Stat. 1870, 1876.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(29), Feb. 10, 1996, 110 Stat. 498; Pub. L. 106–65, div. A, title V, § 514(a), Oct. 5, 1999, 113 Stat. 593; Pub. L. 118–159, div. A, title V, §§ 505(b)(6), 513(c)(3), Dec. 23, 2024, 138 Stat. 1870, 1876.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 513(c)(3), inserted “14701a,” after “14701,”.
+2024—Pub. L. 118–159, § 513(c)(3), inserted “14701a,” after “14701,”.
 
-Pub. L. 118–159, § 505(b)(6), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
+Pub. L. 118–159, § 505(b)(6), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
 
-1999—Pub. L. 106–65 inserted “the later of (1)” after “in accordance with section 14513 of this title on” and “, or (2) the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time” before the period at end.
+1999—Pub. L. 106–65 inserted “the later of (1)” after “in accordance with section 14513 of this title on” and “, or (2) the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time” before the period at end.
 
 1996—Pub. L. 104–106 inserted comma after “Force” in section catchline.
 
@@ -413,7 +413,7 @@ Pub. L. 118–159, § 505(b)(6), substituted “the Secretary concerned releas
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title V, § 514(b), Oct. 5, 1999, 113 Stat. 593, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to removals of reserve officers from reserve active-status lists under section 14506 of title 10, United States Code, on or after the date of the enactment of this Act [Oct. 5, 1999].”
+Pub. L. 106–65, div. A, title V, § 514(b), Oct. 5, 1999, 113 Stat. 593, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to removals of reserve officers from reserve active-status lists under section 14506 of title 10, United States Code, on or after the date of the enactment of this Act [Oct. 5, 1999].”
 
 **Effective Date of 1996 Amendment**
 
@@ -423,7 +423,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14507. Removal from the reserve active-status list for years of service: reserve lieutenant colonels and colonels of the Army, Air Force, and Marine Corps and reserve commanders and captains of the Navy
+## § 14507. Removal from the reserve active-status list for years of service: reserve lieutenant colonels and colonels of the Army, Air Force, and Marine Corps and reserve commanders and captains of the Navy
 
 **(a) Lieutenant Colonels and Commanders.—** Unless continued on the reserve active-status list under section 14701, 14701a, or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Navy, Air Force, or Marine Corps who holds the grade of lieutenant colonel or commander and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed from that list under section 14514 of this title on the first day of the month after the month in which the officer completes 28 years of commissioned service.
 
@@ -439,13 +439,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(4)** The authority of the Secretary of the Air Force under paragraph (1) expires on September 30, 2003.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–201, div. A, title V, § 508(a), Sept. 23, 1996, 110 Stat. 2513; Pub. L. 118–159, div. A, title V, § 513(c)(4), Dec. 23, 2024, 138 Stat. 1876.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–201, div. A, title V, § 508(a), Sept. 23, 1996, 110 Stat. 2513; Pub. L. 118–159, div. A, title V, § 513(c)(4), Dec. 23, 2024, 138 Stat. 1876.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsecs. (a), (b). Pub. L. 118–159 inserted “, 14701a,” after “14701”.
+2024—Subsecs. (a), (b). Pub. L. 118–159 inserted “, 14701a,” after “14701”.
 
 1996—Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
@@ -453,13 +453,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title V, § 508(b), Sept. 23, 1996, 110 Stat. 2513, provided that: “Subsection (c) of section 14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title V, § 508(b), Sept. 23, 1996, 110 Stat. 2513, provided that: “Subsection (c) of section 14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
 
 **Effective Date**
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14508. Removal from the reserve active-status list for years of service: reserve general and flag officers
+## § 14508. Removal from the reserve active-status list for years of service: reserve general and flag officers
 
 **(a) Thirty Years Service or Five Years in Grade for Brigadier Generals and Rear Admirals (Lower Half).—** Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps in the grade of brigadier general who has not been recommended for promotion to the grade of major general, and each reserve officer of the Navy in the grade of rear admiral (lower half) who has not been recommended for promotion to rear admiral shall, 30 days after completion of 30 years of commissioned service or on the fifth anniversary of the date of the officer’s appointment in the grade of brigadier general or rear admiral (lower half), whichever is later, be separated in accordance with section 14514 of this title.
 
@@ -481,37 +481,37 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(h) Exception for State Adjutants General and Assistant Adjutants General.—** This section does not apply to an officer who is the adjutant general or assistant adjutant general of a State.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(30), Feb. 10, 1996, 110 Stat. 498; Pub. L. 105–85, div. A, title V, § 521(b), Nov. 18, 1997, 111 Stat. 1734; Pub. L. 109–364, div. A, title V, § 503(e), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title V, § 513, title XVIII, § 1825(c)(1), Jan. 28, 2008, 122 Stat. 99, 502; Pub. L. 110–417, [div. A], title V, § 515, Oct. 14, 2008, 122 Stat. 4442.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(30), Feb. 10, 1996, 110 Stat. 498; Pub. L. 105–85, div. A, title V, § 521(b), Nov. 18, 1997, 111 Stat. 1734; Pub. L. 109–364, div. A, title V, § 503(e), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title V, § 513, title XVIII, § 1825(c)(1), Jan. 28, 2008, 122 Stat. 99, 502; Pub. L. 110–417, [div. A], title V, § 515, Oct. 14, 2008, 122 Stat. 4442.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3851, 3852, 6389(f)(1), (2), 8851, and 8852 of this title, prior to repeal by Pub. L. 103–337, §§ 1628(4), 1629(a)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3851, 3852, 6389(f)(1), (2), 8851, and 8852 of this title, prior to repeal by Pub. L. 103–337, §§ 1628(4), 1629(a)(3), (c)(3).
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–181, § 513(b)(1), inserted “for Brigadier Generals and Rear Admirals (Lower Half)” after “Grade” in heading.
+2008—Subsec. (a). Pub. L. 110–181, § 513(b)(1), inserted “for Brigadier Generals and Rear Admirals (Lower Half)” after “Grade” in heading.
 
-Subsec. (b). Pub. L. 110–181, § 513(b)(2), inserted “for Major Generals and Rear Admirals” after “Grade” in heading.
+Subsec. (b). Pub. L. 110–181, § 513(b)(2), inserted “for Major Generals and Rear Admirals” after “Grade” in heading.
 
-Subsec. (c). Pub. L. 110–181, § 513(a)(2), added subsec. (c). Former subsec. (c) redesignated (e).
+Subsec. (c). Pub. L. 110–181, § 513(a)(2), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Subsec. (d). Pub. L. 110–181, § 1825(c)(1), added subsec. (d). Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 110–181, § 1825(c)(1), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Pub. L. 110–181, § 513(a)(1), redesignated subsec. (d) as (f).
+Pub. L. 110–181, § 513(a)(1), redesignated subsec. (d) as (f).
 
-Subsecs. (e) and (f). Pub. L. 110–181, § 513(a)(1), redesignated subsecs. (c) and (d) as (e) and (f), respectively.
+Subsecs. (e) and (f). Pub. L. 110–181, § 513(a)(1), redesignated subsecs. (c) and (d) as (e) and (f), respectively.
 
-Subsec. (g). Pub. L. 110–417, § 515(2), added subsec. (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 110–417, § 515(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Pub. L. 110–181, § 513(a)(1), redesignated subsec. (e) as (g).
+Pub. L. 110–181, § 513(a)(1), redesignated subsec. (e) as (g).
 
-Subsec. (h). Pub. L. 110–417, § 515(1), redesignated subsec. (g) as (h).
+Subsec. (h). Pub. L. 110–417, § 515(1), redesignated subsec. (g) as (h).
 
-2006—Subsec. (c). Pub. L. 109–364, § 503(e)(1), substituted “62” for “60”.
+2006—Subsec. (c). Pub. L. 109–364, § 503(e)(1), substituted “62” for “60”.
 
-Subsec. (d). Pub. L. 109–364, § 503(e)(2), substituted “64” for “62”.
+Subsec. (d). Pub. L. 109–364, § 503(e)(2), substituted “64” for “62”.
 
 1997—Subsec. (c). Pub. L. 105–85 substituted “not later than the last day of the month in which the officer becomes 60 years of age” for “not later than the date on which the officer becomes 60 years of age”.
 
@@ -527,11 +527,11 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14509. Separation at age 62: reserve officers in grades below brigadier general or rear admiral (lower half)
+## § 14509. Separation at age 62: reserve officers in grades below brigadier general or rear admiral (lower half)
 
 Each reserve officer of the Army, Navy, Air Force, or Marine Corps in a grade below brigadier general or rear admiral (lower half) who has not been recommended for promotion to the grade of brigadier general or rear admiral (lower half) and is not a member of the Retired Reserve shall, on the last day of the month in which that officer becomes 62 years of age, be separated in accordance with section 14515 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2952; amended Pub. L. 109–364, div. A, title V, § 503(c), Oct. 17, 2006, 120 Stat. 2178.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2952; amended Pub. L. 109–364, div. A, title V, § 503(c), Oct. 17, 2006, 120 Stat. 2178.)
 
 **Editorial Notes**
 
@@ -545,17 +545,17 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps in a grade be
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14510. Separation at age 62: brigadier generals and rear admirals (lower half)
+## § 14510. Separation at age 62: brigadier generals and rear admirals (lower half)
 
 Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps in the grade of brigadier general who has not been recommended for promotion to the grade of major general, and each reserve rear admiral (lower half) of the Navy who has not been recommended for promotion to the grade of rear admiral, except an officer covered by section 14512 of this title, shall be separated in accordance with section 14515 of this title on the last day of the month in which the officer becomes 62 years of age.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2952; amended Pub. L. 109–364, div. A, title V, § 503(b), Oct. 17, 2006, 120 Stat. 2178.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2952; amended Pub. L. 109–364, div. A, title V, § 503(b), Oct. 17, 2006, 120 Stat. 2178.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3843(a) and 8843 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3843(a) and 8843 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
 
 **Amendments**
 
@@ -567,7 +567,7 @@ Provisions similar to those in this section were contained in sections 3843(a) a
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14511. Separation at age 64: officers in grade of major general or rear admiral and above
+## § 14511. Separation at age 64: officers in grade of major general or rear admiral and above
 
 **(a) Separation Required.—** Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps in the grade of major general or above and each reserve officer of the Navy in the grade of rear admiral or above shall be separated in accordance with section 14515 of this title on the last day of the month in which the officer becomes 64 years of age.
 
@@ -579,13 +579,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Exception for Officers Holding Certain Offices.—** This section does not apply to an officer covered by section 14512 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–364, div. A, title V, § 503(a), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, § 1825(a)(1), Jan. 28, 2008, 122 Stat. 501.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–364, div. A, title V, § 503(a), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, § 1825(a)(1), Jan. 28, 2008, 122 Stat. 501.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3844 and 8844 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3844 and 8844 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
 
 **Amendments**
 
@@ -599,7 +599,7 @@ Provisions similar to those in this section were contained in sections 3844 and 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14512. Separation at age 66: officers holding certain offices
+## § 14512. Separation at age 66: officers holding certain offices
 
 **(a) Army and Air Force.—**
 
@@ -619,29 +619,29 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(2)** The Secretary of Defense may defer the retirement of a reserve officer serving in the position of Chief of the Navy Reserve or Commander of the Marine Forces Reserve, but such deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age. A deferment under this paragraph shall not count toward the limitation on the total number of officers whose retirement may be deferred at any one time under paragraph (1).
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–163, div. A, title V, §§ 511, 515(b)(1)(UU), Jan. 6, 2006, 119 Stat. 3231, 3234; Pub. L. 109–364, div. A, title V, § 503(d), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, § 1825(b), Jan. 28, 2008, 122 Stat. 502.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–163, div. A, title V, §§ 511, 515(b)(1)(UU), Jan. 6, 2006, 119 Stat. 3231, 3234; Pub. L. 109–364, div. A, title V, § 503(d), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, § 1825(b), Jan. 28, 2008, 122 Stat. 502.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3845, 6391(b), and 8845 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (b)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3845, 6391(b), and 8845 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (b)(3), (c)(3).
 
 **Amendments**
 
-2008—Subsec. (a)(2). Pub. L. 110–181, § 1825(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “The Chief of the National Guard Bureau.”
+2008—Subsec. (a)(2). Pub. L. 110–181, § 1825(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “The Chief of the National Guard Bureau.”
 
-Subsec. (b). Pub. L. 110–181, § 1825(b)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 110–181, § 1825(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-2006—Pub. L. 109–364, § 503(d)(2), substituted “66” for “64” in section catchline.
+2006—Pub. L. 109–364, § 503(d)(2), substituted “66” for “64” in section catchline.
 
-Subsec. (a). Pub. L. 109–163, § 511, designated existing provisions as par. (1), substituted “who is specified in paragraph (2)” for “who is Chief of the National Guard Bureau, an adjutant general, or if a reserve officer of the Army, commanding general of the troops of a State,”, and added par. (2).
+Subsec. (a). Pub. L. 109–163, § 511, designated existing provisions as par. (1), substituted “who is specified in paragraph (2)” for “who is Chief of the National Guard Bureau, an adjutant general, or if a reserve officer of the Army, commanding general of the troops of a State,”, and added par. (2).
 
-Subsec. (a)(1). Pub. L. 109–364, § 503(d)(1), substituted “66” for “64”.
+Subsec. (a)(1). Pub. L. 109–364, § 503(d)(1), substituted “66” for “64”.
 
-Subsec. (b). Pub. L. 109–364, § 503(d)(1), substituted “66” for “64”.
+Subsec. (b). Pub. L. 109–364, § 503(d)(1), substituted “66” for “64”.
 
-Pub. L. 109–163, § 515(b)(1)(UU), substituted “Navy Reserve” for “Naval Reserve”.
+Pub. L. 109–163, § 515(b)(1)(UU), substituted “Navy Reserve” for “Naval Reserve”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -649,7 +649,7 @@ Pub. L. 109–163, § 515(b)(1)(UU), substituted “Navy Reserve” for “Nav
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14513. Failure of selection for promotion: transfer, retirement, or discharge
+## § 14513. Failure of selection for promotion: transfer, retirement, or discharge
 
 Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an active status and whose removal from an active status or from a reserve active-status list is required by section 14504, 14505, or 14506 of this title shall (unless the officer’s separation is deferred or the officer is continued in an active status under another provision of law) not later than the date specified in those sections—
 
@@ -659,15 +659,15 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an 
 
 **(3)** if the officer is not transferred to an inactive status or to the Retired Reserve, be discharged from the officer’s reserve appointment.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 107–107, div. A, title V, § 517(b)(1), (2)(A), Dec. 28, 2001, 115 Stat. 1094.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 107–107, div. A, title V, § 517(b)(1), (2)(A), Dec. 28, 2001, 115 Stat. 1094.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Pub. L. 107–107, § 517(b)(2)(A), substituted “Failure of selection for promotion: transfer, retirement, or discharge” for “Separation for failure of selection of promotion” in section catchline.
+2001—Pub. L. 107–107, § 517(b)(2)(A), substituted “Failure of selection for promotion: transfer, retirement, or discharge” for “Separation for failure of selection of promotion” in section catchline.
 
-Par. (2). Pub. L. 107–107, § 517(b)(1), substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
+Par. (2). Pub. L. 107–107, § 517(b)(1), substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -679,7 +679,7 @@ Amendment by Pub. L. 107–107 effective on the first day of the first month tha
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14514. Discharge or retirement for years of service or after selection for early removal
+## § 14514. Discharge or retirement for years of service or after selection for early removal
 
 Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an active status and who is required to be removed from an active status or from a reserve active-status list, as the case may be, under section 14507, 14508, 14704, or 14705 of this title (unless the officer is sooner separated or the officer’s separation is deferred or the officer is continued in an active status under another provision of law), in accordance with those sections, shall—
 
@@ -687,15 +687,15 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an 
 
 **(2)** be discharged from the officer’s reserve appointment if the officer is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 107–107, div. A, title V, § 517(c), Dec. 28, 2001, 115 Stat. 1094.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 107–107, div. A, title V, § 517(c), Dec. 28, 2001, 115 Stat. 1094.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Par. (1). Pub. L. 107–107, § 517(c)(1), substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
+2001—Par. (1). Pub. L. 107–107, § 517(c)(1), substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
 
-Par. (2). Pub. L. 107–107, § 517(c)(2), added par. (2) and struck out former par. (2) which read as follows: “if the officer is not qualified or does not apply for such transfer, be discharged from the officer’s reserve appointment.”
+Par. (2). Pub. L. 107–107, § 517(c)(2), added par. (2) and struck out former par. (2) which read as follows: “if the officer is not qualified or does not apply for such transfer, be discharged from the officer’s reserve appointment.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -707,7 +707,7 @@ Amendment by Pub. L. 107–107 effective on the first day of the first month tha
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14515. Discharge or retirement for age
+## § 14515. Discharge or retirement for age
 
 Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an active status or on an inactive-status list and who reaches the maximum age specified in section 14509, 14510, 14511, or 14512 of this title for the officer’s grade or position shall (unless the officer is sooner separated or the officer’s separation is deferred or the officer is continued in an active status under another provision of law) not later than the last day of the month in which the officer reaches that maximum age—
 
@@ -715,15 +715,15 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an 
 
 **(2)** be discharged from the officer’s reserve appointment if the officer is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(31), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–107, div. A, title V, § 517(d), Dec. 28, 2001, 115 Stat. 1095.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(31), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–107, div. A, title V, § 517(d), Dec. 28, 2001, 115 Stat. 1095.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Par. (1). Pub. L. 107–107, § 517(d)(1), substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
+2001—Par. (1). Pub. L. 107–107, § 517(d)(1), substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
 
-Par. (2). Pub. L. 107–107, § 517(d)(2), added par. (2) and struck out former par. (2) which read as follows: “if the officer is not qualified or does not apply for transfer to the Retired Reserve, be discharged from the officer’s reserve appointment.”
+Par. (2). Pub. L. 107–107, § 517(d)(2), added par. (2) and struck out former par. (2) which read as follows: “if the officer is not qualified or does not apply for transfer to the Retired Reserve, be discharged from the officer’s reserve appointment.”
 
 1996—Pub. L. 104–106 substituted “inactive-status” for “inactive status” in introductory provisions.
 
@@ -741,11 +741,11 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14516. Separation to be considered involuntary
+## § 14516. Separation to be considered involuntary
 
 The separation of an officer pursuant to section 14513, 14514, or 14515 of this title shall be considered to be an involuntary separation for purposes of any other provision of law.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2954.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2954.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -753,11 +753,11 @@ The separation of an officer pursuant to section 14513, 14514, or 14515 of this 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14517. Entitlement of officers discharged under this chapter to separation pay
+## § 14517. Entitlement of officers discharged under this chapter to separation pay
 
 An officer who is discharged under section 14513, 14514, or 14515 of this title is entitled to separation pay under section 1174 of this title if otherwise eligible under that section.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2954.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2954.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -765,16 +765,16 @@ An officer who is discharged under section 14513, 14514, or 14515 of this title 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14518. Continuation of officers to complete disciplinary action
+## § 14518. Continuation of officers to complete disciplinary action
 
 The Secretary concerned may delay the separation or retirement under this chapter of an officer against whom an action has been commenced with a view to trying the officer by court-martial. Any such delay may continue until the completion of the disciplinary action against the officer.
 
-(Added Pub. L. 106–65, div. A, title V, § 511(a), Oct. 5, 1999, 113 Stat. 592.)
+(Added Pub. L. 106–65, div. A, title V, § 511(a), Oct. 5, 1999, 113 Stat. 592.)
 
-## § 14519. Deferment of retirement or separation for medical reasons
+## § 14519. Deferment of retirement or separation for medical reasons
 
 **(a) Authority.—** If, in the case of an officer required to be retired or separated under this chapter or chapter 1409 of this title, the Secretary concerned determines that the evaluation of the physical condition of the officer and determination of the officer’s entitlement to retirement or separation for physical disability require hospitalization or medical observation and that such hospitalization or medical observation cannot be completed with confidence in a manner consistent with the officer’s well being before the date on which the officer would otherwise be required to retire or be separated, the Secretary may defer the retirement or separation of the officer.
 
 **(b) Period of Deferment.—** A deferral of retirement or separation under subsection (a) may not extend for more than 30 days after the completion of the evaluation requiring hospitalization or medical observation.
 
-(Added Pub. L. 107–314, div. A, title V, § 522(a), Dec. 2, 2002, 116 Stat. 2540.)
+(Added Pub. L. 107–314, div. A, title V, § 522(a), Dec. 2, 2002, 116 Stat. 2540.)

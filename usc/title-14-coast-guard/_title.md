@@ -13,23 +13,23 @@ retrieved: 2026-10-11
 
 # Title 14—COAST GUARD
 
-This title was enacted by act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 495
+This title was enacted by act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 495
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior analysis for Title 14, Coast Guard, consisted of items for part I “Regular Coast Guard” beginning with section 1, part II “Coast Guard Reserve and Auxiliary” beginning with section 701, and part III “Coast Guard Authorizations and Reports to Congress” beginning with section 2701, prior to repeal by Pub. L. 115–282, title I, § 101, Dec. 4, 2018, 132 Stat. 4194.
+A prior analysis for Title 14, Coast Guard, consisted of items for part I “Regular Coast Guard” beginning with section 1, part II “Coast Guard Reserve and Auxiliary” beginning with section 701, and part III “Coast Guard Authorizations and Reports to Congress” beginning with section 2701, prior to repeal by Pub. L. 115–282, title I, § 101, Dec. 4, 2018, 132 Stat. 4194.
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 101, Dec. 4, 2018, 132 Stat. 4194, inserted Title 14 designation and heading and added items for subtitles I to IV.
+2018—Pub. L. 115–282, title I, § 101, Dec. 4, 2018, 132 Stat. 4194, inserted Title 14 designation and heading and added items for subtitles I to IV.
 
 **Table Showing Redesignations Made by Title I of Pub. L. 115–282**
 
-| *Title 14 Section* *Before Redesignation* | *Title 14 Section* *After Redesignation* |
+| *Title 14 Section* *Before Redesignation* | *Title 14 Section* *After Redesignation* |
 |---|---|
 | 1 | 14 U.S.C. 101 |
 | 2 | 14 U.S.C. 102 |
@@ -397,7 +397,7 @@ A prior analysis for Title 14, Coast Guard, consisted of items for part I “Reg
 
 **Table Showing Disposition of All Sections of Former Title 14**
 
-| *Title 14* *Former Sections* | *Title 14* *New Sections* |
+| *Title 14* *Former Sections* | *Title 14* *New Sections* |
 |---|---|
 | 1 | 1, 3, 4(a), (b) |
 | 2 | 467 |
@@ -469,7 +469,7 @@ A prior analysis for Title 14, Coast Guard, consisted of items for part I “Reg
 | 31c | 151 |
 | 32, 33 | (See former 131, 132) |
 | 34 | 632 |
-| 34–1 | T. 34 § 450b–1 |
+| 34–1 | T. 34 § 450b–1 |
 | 34a | Rep. |
 | 35 | 351, 365, 367 |
 | 35a | 351, 367 |
@@ -497,9 +497,9 @@ A prior analysis for Title 14, Coast Guard, consisted of items for part I “Reg
 | 50a | Rep. in part, elim. in part |
 | 50b | 640 |
 | 50c | 643 |
-| 50d | T. 37 § 31a. |
+| 50d | T. 37 § 31a. |
 | 50e | 433(e). |
-| 50f–50j | T. 5 §§ 150p–150t |
+| 50f–50j | T. 5 §§ 150p–150t |
 | 50k | 90(a) |
 | 50*l* | 90(b) |
 | 50m | 81 |
@@ -576,19 +576,19 @@ A prior analysis for Title 14, Coast Guard, consisted of items for part I “Reg
 | 161a | 49 |
 | 162 | 49 |
 | 162a | 230, 232, 243, 303, 313, 423 |
-| 162b | T. 34 § 428 |
+| 162b | T. 34 § 428 |
 | 163 | Rep. |
 | 164, 165 | 240, 310 |
 | 165a | 241, 311 |
 | 165b | 240, 241, 310, 311 |
 | 166 | Rep. |
 | 167 | 423 |
-| 167a | T. 37 § 26a |
+| 167a | T. 37 § 26a |
 | 167b | Rep. |
 | 167b–1 | Elim. |
 | 167b–2 | 483 |
 | 167b–3 | Elim. |
-| 167c | T. 34 § 399c–1 |
+| 167c | T. 34 § 399c–1 |
 | 168 | 246, 315, 364 |
 | 169 | 233, 241, 306, 311, 356 |
 | 170 | 425, 635 |
@@ -667,19 +667,19 @@ A prior analysis for Title 14, Coast Guard, consisted of items for part I “Reg
 
 **Positive Law; Citation**
 
-This title has been enacted into positive law by act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 495, which provided in part that: “Title 14 of the United States Code, entitled ‘Coast Guard’, is hereby revised, codified, and enacted into law, and may be cited as ‘14 U.S.C., § —.’ ”
+This title has been enacted into positive law by act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 495, which provided in part that: “Title 14 of the United States Code, entitled ‘Coast Guard’, is hereby revised, codified, and enacted into law, and may be cited as ‘14 U.S.C., § —.’ ”
 
 **Effective Date**
 
-Act Aug. 4, 1949, ch. 393, § 19, 63 Stat. 561, provided that: “This Act shall take effect on the first day of the third month after approval by the President but shall not affect any proceedings commenced by or against any person prior to the effective date of this Act.”
+Act Aug. 4, 1949, ch. 393, § 19, 63 Stat. 561, provided that: “This Act shall take effect on the first day of the third month after approval by the President but shall not affect any proceedings commenced by or against any person prior to the effective date of this Act.”
 
 **Repeals**
 
-Act Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, with a proviso that “any rights or liabilities now existing under such sections or parts thereof shall not be affected by such repeal”.
+Act Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, with a proviso that “any rights or liabilities now existing under such sections or parts thereof shall not be affected by such repeal”.
 
 **Construction of Title I of Pub. L. 115–282**
 
-Pub. L. 115–282, title I, § 124, Dec. 4, 2018, 132 Stat. 4241, provided that:
+Pub. L. 115–282, title I, § 124, Dec. 4, 2018, 132 Stat. 4241, provided that:
 
 > “This title [see Tables for Classification], including the amendments made by this title, is intended only to reorganize title 14, United States Code, and may not be construed to alter—
 
@@ -691,15 +691,15 @@ Pub. L. 115–282, title I, § 124, Dec. 4, 2018, 132 Stat. 4241, provided tha
 
 **Legislative Construction of 1949 Enactment of Title 14**
 
-Act Aug. 4, 1949, ch. 393, § 3, 63 Stat. 557, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 14, Coast Guard, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catch lines used in such title.”
+Act Aug. 4, 1949, ch. 393, § 3, 63 Stat. 557, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 14, Coast Guard, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catch lines used in such title.”
 
 **Separability**
 
-Act Aug. 4, 1949, ch. 393, § 2, 63 Stat. 557, provided that: “If any part of Title 14, United States Code, as enacted by section 1 of this Act, shall be held invalid the remainder of such title shall not be affected thereby.”
+Act Aug. 4, 1949, ch. 393, § 2, 63 Stat. 557, provided that: “If any part of Title 14, United States Code, as enacted by section 1 of this Act, shall be held invalid the remainder of such title shall not be affected thereby.”
 
 **References to Sections of Title 14 as Redesignated by Pub. L. 115–282**
 
-Pub. L. 115–282, title I, § 123(a), (b)(1), Dec. 4, 2018, 132 Stat. 4240, provided that:
+Pub. L. 115–282, title I, § 123(a), (b)(1), Dec. 4, 2018, 132 Stat. 4240, provided that:
 
 > **“(a) Definitions.—** In this section [see Tables for classification], the following definitions apply:
 
@@ -713,11 +713,11 @@ Pub. L. 115–282, title I, § 123(a), (b)(1), Dec. 4, 2018, 132 Stat. 4240, p
 
 **Orders, Rules, and Regulations**
 
-Act Aug. 4, 1949, ch. 393, § 4, 63 Stat. 558, provided that: “All orders, rules, and regulations of the Coast Guard in effect under provisions of law superseded or amended by this Act shall, to the extent they would have been authorized under this Act, remain in force and effect as the regulations and orders under the provisions of this Act and shall be administered and enforced under this Act as nearly as may be until specifically repealed, amended, or revised.”
+Act Aug. 4, 1949, ch. 393, § 4, 63 Stat. 558, provided that: “All orders, rules, and regulations of the Coast Guard in effect under provisions of law superseded or amended by this Act shall, to the extent they would have been authorized under this Act, remain in force and effect as the regulations and orders under the provisions of this Act and shall be administered and enforced under this Act as nearly as may be until specifically repealed, amended, or revised.”
 
 **Reduction in Grade, Rank, Pay, Allowances, and Benefits**
 
-Act Aug. 4, 1949, ch. 393, § 5, 63 Stat. 558, provided that: “Nothing contained in this Act shall operate to abolish or reduce the grade, rank, rating, pay, allowances, or other benefits to which any person in the Coast Guard is entitled on the effective date of this Act.”
+Act Aug. 4, 1949, ch. 393, § 5, 63 Stat. 558, provided that: “Nothing contained in this Act shall operate to abolish or reduce the grade, rank, rating, pay, allowances, or other benefits to which any person in the Coast Guard is entitled on the effective date of this Act.”
 
 ## SUBTITLE I—ESTABLISHMENT, POWERS, DUTIES, AND ADMINISTRATION
 
@@ -725,11 +725,11 @@ Act Aug. 4, 1949, ch. 393, § 5, 63 Stat. 558, provided that: “Nothing conta
 
 **Prior Provisions**
 
-A prior analysis for part I of this title “REGULAR COAST GUARD” preceded prior section 1 and consisted of items for chapter 1 “Establishment and Duties” beginning with section 1, chapter 3 “Composition and Organization” beginning with section 41, chapter 5 “Functions and Powers” beginning with section 81, chapter 7 “Cooperation With Other Agencies” beginning with section 141, chapter 9 “Coast Guard Academy” beginning with section 181, chapter 11 “Personnel” beginning with section 211, chapter 13 “Pay, Allowances, Awards, and Other Rights and Benefits” beginning with section 461, chapter 14 “Coast Guard Family Support and Child Care” beginning with section 531, chapter 15 “Acquisitions” beginning with section 561, chapter 17 “Administration” beginning with section 631, chapter 18 “Coast Guard Housing Authorities” beginning with section 680, and chapter 19 “Environmental Compliance and Restoration Program” beginning with section 690, prior to repeal by Pub. L. 115–282, title I, § 102, Dec. 4, 2018, 132 Stat. 4195.
+A prior analysis for part I of this title “REGULAR COAST GUARD” preceded prior section 1 and consisted of items for chapter 1 “Establishment and Duties” beginning with section 1, chapter 3 “Composition and Organization” beginning with section 41, chapter 5 “Functions and Powers” beginning with section 81, chapter 7 “Cooperation With Other Agencies” beginning with section 141, chapter 9 “Coast Guard Academy” beginning with section 181, chapter 11 “Personnel” beginning with section 211, chapter 13 “Pay, Allowances, Awards, and Other Rights and Benefits” beginning with section 461, chapter 14 “Coast Guard Family Support and Child Care” beginning with section 531, chapter 15 “Acquisitions” beginning with section 561, chapter 17 “Administration” beginning with section 631, chapter 18 “Coast Guard Housing Authorities” beginning with section 680, and chapter 19 “Environmental Compliance and Restoration Program” beginning with section 690, prior to repeal by Pub. L. 115–282, title I, § 102, Dec. 4, 2018, 132 Stat. 4195.
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 102, Dec. 4, 2018, 132 Stat. 4195, inserted subtitle I designation and heading and added items for chapters 1 to 11.
+2018—Pub. L. 115–282, title I, § 102, Dec. 4, 2018, 132 Stat. 4195, inserted subtitle I designation and heading and added items for chapters 1 to 11.
 
 - [CHAPTER 1—ESTABLISHMENT AND DUTIES](chapter-001-establishment-and-duties.md)
 
@@ -745,7 +745,7 @@ A prior analysis for part I of this title “REGULAR COAST GUARD” preceded pri
 
 ## SUBTITLE II—PERSONNEL
 
-2018—Pub. L. 115–282, title I, § 109(a), Dec. 4, 2018, 132 Stat. 4211, inserted subtitle II designation and heading and added items for chapters 19 to 29.
+2018—Pub. L. 115–282, title I, § 109(a), Dec. 4, 2018, 132 Stat. 4211, inserted subtitle II designation and heading and added items for chapters 19 to 29.
 
 - [CHAPTER 19—COAST GUARD ACADEMY](chapter-019-coast-guard-academy.md)
 
@@ -761,7 +761,7 @@ A prior analysis for part I of this title “REGULAR COAST GUARD” preceded pri
 
 ## SUBTITLE III—COAST GUARD RESERVE AND AUXILIARY
 
-2018—Pub. L. 115–282, title I, § 118(a), Dec. 4, 2018, 132 Stat. 4232, inserted subtitle III designation and heading and added items for chapters 37 to 41.
+2018—Pub. L. 115–282, title I, § 118(a), Dec. 4, 2018, 132 Stat. 4232, inserted subtitle III designation and heading and added items for chapters 37 to 41.
 
 - [CHAPTER 37—COAST GUARD RESERVE](chapter-037-coast-guard-reserve.md)
 
@@ -771,7 +771,7 @@ A prior analysis for part I of this title “REGULAR COAST GUARD” preceded pri
 
 ## SUBTITLE IV—COAST GUARD AUTHORIZATIONS AND REPORTS TO CONGRESS
 
-2018—Pub. L. 115–282, title I, § 121(a), Dec. 4, 2018, 132 Stat. 4238, inserted subtitle IV designation and heading and added items for chapters 49 and 51.
+2018—Pub. L. 115–282, title I, § 121(a), Dec. 4, 2018, 132 Stat. 4238, inserted subtitle IV designation and heading and added items for chapters 49 and 51.
 
 - [CHAPTER 49—AUTHORIZATIONS](chapter-049-authorizations.md)
 

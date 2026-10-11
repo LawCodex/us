@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERALLY
 
-### § 1361. Congressional findings and declaration of policy
+### § 1361. Congressional findings and declaration of policy
 
 The Congress finds that—
 
@@ -39,15 +39,15 @@ and that the protection and conservation of marine mammals and their habitats is
 
 **(6)** marine mammals have proven themselves to be resources of great international significance, esthetic and recreational as well as economic, and it is the sense of the Congress that they should be protected and encouraged to develop to the greatest extent feasible commensurate with sound policies of resource management and that the primary objective of their management should be to maintain the health and stability of the marine ecosystem. Whenever consistent with this primary objective, it should be the goal to obtain an optimum sustainable population keeping in mind the carrying capacity of the habitat.
 
-(Pub. L. 92–522, § 2, Oct. 21, 1972, 86 Stat. 1027; Pub. L. 97–58, § 1(b)(1), Oct. 9, 1981, 95 Stat. 979; Pub. L. 103–238, § 3, Apr. 30, 1994, 108 Stat. 532.)
+(Pub. L. 92–522, § 2, Oct. 21, 1972, 86 Stat. 1027; Pub. L. 97–58, § 1(b)(1), Oct. 9, 1981, 95 Stat. 979; Pub. L. 103–238, § 3, Apr. 30, 1994, 108 Stat. 532.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Par. (2). Pub. L. 103–238, § 3(1), inserted “essential habitats, including” after “made to protect”.
+1994—Par. (2). Pub. L. 103–238, § 3(1), inserted “essential habitats, including” after “made to protect”.
 
-Par. (5). Pub. L. 103–238, § 3(2), inserted “and their habitats” before “is therefore necessary” in concluding provisions.
+Par. (5). Pub. L. 103–238, § 3(2), inserted “and their habitats” before “is therefore necessary” in concluding provisions.
 
 1981—Par. (6). Pub. L. 97–58 substituted “carrying capacity” for “optimum carrying capacity”.
 
@@ -55,55 +55,55 @@ Par. (5). Pub. L. 103–238, § 3(2), inserted “and their habitats” before
 
 **Effective Date**
 
-Pub. L. 92–522, § 4, Oct. 21, 1972, 86 Stat. 1029, provided that: “The provisions of this Act [enacting this chapter] shall take effect upon the expiration of the sixty-day period following the date of its enactment [Oct. 21, 1972].”
+Pub. L. 92–522, § 4, Oct. 21, 1972, 86 Stat. 1029, provided that: “The provisions of this Act [enacting this chapter] shall take effect upon the expiration of the sixty-day period following the date of its enactment [Oct. 21, 1972].”
 
 **Short Title of 2026 Amendment**
 
-Pub. L. 119–99, § 1, June 12, 2026, 140 Stat. 842, provided that: “This Act [amending section 1371 of this title] may be cited as the ‘Alaska’s Right to Ivory Sales and Tradition Act’ or the ‘ARTIST Act’.”
+Pub. L. 119–99, § 1, June 12, 2026, 140 Stat. 842, provided that: “This Act [amending section 1371 of this title] may be cited as the ‘Alaska’s Right to Ivory Sales and Tradition Act’ or the ‘ARTIST Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–329, § 1, Dec. 18, 2018, 132 Stat. 4475, provided that: “This Act [amending section 1389 of this title and enacting provisions set out as a note under section 1389 of this title] may be cited as the ‘Endangered Salmon Predation Prevention Act’.”
+Pub. L. 115–329, § 1, Dec. 18, 2018, 132 Stat. 4475, provided that: “This Act [amending section 1389 of this title and enacting provisions set out as a note under section 1389 of this title] may be cited as the ‘Endangered Salmon Predation Prevention Act’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 109–479, title IX, § 901, Jan. 12, 2007, 120 Stat. 3660, provided that: “This title [enacting subchapter VI of this chapter and amending section 1377 of this title] may be cited as the ‘United States-Russia Polar Bear Conservation and Management Act of 2006’.”
+Pub. L. 109–479, title IX, § 901, Jan. 12, 2007, 120 Stat. 3660, provided that: “This title [enacting subchapter VI of this chapter and amending section 1377 of this title] may be cited as the ‘United States-Russia Polar Bear Conservation and Management Act of 2006’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–555, § 1, Dec. 21, 2000, 114 Stat. 2765, provided that: “This Act [enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, 1434, 5101 to 5103, 5106, 5107a to 5108, and 5156 of this title, enacting provisions set out as notes under this section and sections 917a, 1433, 5101, and 5107 of this title, and amending provisions set out as a note under section 1855 of this title] may be cited as the ‘Striped Bass Conservation, Atlantic Coastal Fisheries Management, and Marine Mammal Rescue Assistance Act of 2000’.”
+Pub. L. 106–555, § 1, Dec. 21, 2000, 114 Stat. 2765, provided that: “This Act [enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, 1434, 5101 to 5103, 5106, 5107a to 5108, and 5156 of this title, enacting provisions set out as notes under this section and sections 917a, 1433, 5101, and 5107 of this title, and amending provisions set out as a note under section 1855 of this title] may be cited as the ‘Striped Bass Conservation, Atlantic Coastal Fisheries Management, and Marine Mammal Rescue Assistance Act of 2000’.”
 
-Pub. L. 106–555, title II, § 201, Dec. 21, 2000, 114 Stat. 2767, provided that: “This title [enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, and 1434 of this title, enacting provisions set out as notes under sections 917a and 1433 of this title, and amending provisions set out as a note under section 1855 of this title] may be cited as the ‘Marine Mammal Rescue Assistance Act of 2000’.”
+Pub. L. 106–555, title II, § 201, Dec. 21, 2000, 114 Stat. 2767, provided that: “This title [enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, and 1434 of this title, enacting provisions set out as notes under sections 917a and 1433 of this title, and amending provisions set out as a note under section 1855 of this title] may be cited as the ‘Marine Mammal Rescue Assistance Act of 2000’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–42, § 1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: “This Act [enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title] may be cited as the ‘International Dolphin Conservation Program Act’.”
+Pub. L. 105–42, § 1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: “This Act [enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title] may be cited as the ‘International Dolphin Conservation Program Act’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–238, § 1, Apr. 30, 1994, 108 Stat. 532, provided that: “This Act [enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372, 1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title] may be cited as the ‘Marine Mammal Protection Act Amendments of 1994’.”
+Pub. L. 103–238, § 1, Apr. 30, 1994, 108 Stat. 532, provided that: “This Act [enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372, 1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title] may be cited as the ‘Marine Mammal Protection Act Amendments of 1994’.”
 
 **Short Title of 1992 Amendments**
 
-Pub. L. 102–587, title III, § 3001, Nov. 4, 1992, 106 Stat. 5059, provided that: “This title [enacting subchapter V of this chapter, amending sections 1362, 1372, 1379, and 1382 of this title and section 183c of Title 46, Appendix, Shipping, and enacting provisions set out as notes under sections 1421 and 1421a of this title] may be cited as the ‘Marine Mammal Health and Stranding Response Act’.”
+Pub. L. 102–587, title III, § 3001, Nov. 4, 1992, 106 Stat. 5059, provided that: “This title [enacting subchapter V of this chapter, amending sections 1362, 1372, 1379, and 1382 of this title and section 183c of Title 46, Appendix, Shipping, and enacting provisions set out as notes under sections 1421 and 1421a of this title] may be cited as the ‘Marine Mammal Health and Stranding Response Act’.”
 
-Pub. L. 102–523, § 1, Oct. 26, 1992, 106 Stat. 3425, provided that: “This Act [enacting subchapter IV of this chapter and amending sections 952, 953, 973r, and 1362 of this title] may be cited as the ‘International Dolphin Conservation Act of 1992’.”
+Pub. L. 102–523, § 1, Oct. 26, 1992, 106 Stat. 3425, provided that: “This Act [enacting subchapter IV of this chapter and amending sections 952, 953, 973r, and 1362 of this title] may be cited as the ‘International Dolphin Conservation Act of 1992’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–711, § 1, Nov. 23, 1988, 102 Stat. 4755, provided: “That this Act [enacting sections 1383a and 1383b of this title, amending sections 1166, 1371, 1372, 1374, 1378 to 1380, 1384, 1402, and 1407 of this title and section 1978 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1384 of this title] may be cited as the ‘Marine Mammal Protection Act Amendments of 1988’.”
+Pub. L. 100–711, § 1, Nov. 23, 1988, 102 Stat. 4755, provided: “That this Act [enacting sections 1383a and 1383b of this title, amending sections 1166, 1371, 1372, 1374, 1378 to 1380, 1384, 1402, and 1407 of this title and section 1978 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1384 of this title] may be cited as the ‘Marine Mammal Protection Act Amendments of 1988’.”
 
 **Short Title**
 
-Pub. L. 92–522, § 1, Oct. 21, 1972, 86 Stat. 1027, provided in part that: “This Act [enacting this chapter] may be cited as the ‘Marine Mammal Protection Act of 1972’.”
+Pub. L. 92–522, § 1, Oct. 21, 1972, 86 Stat. 1027, provided in part that: “This Act [enacting this chapter] may be cited as the ‘Marine Mammal Protection Act of 1972’.”
 
 **Regulations**
 
-Pub. L. 103–238, § 15(b), Apr. 30, 1994, 108 Stat. 559, provided that: “Except as provided otherwise in this Act [see Short Title of 1994 Amendment note above], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
+Pub. L. 103–238, § 15(b), Apr. 30, 1994, 108 Stat. 559, provided that: “Except as provided otherwise in this Act [see Short Title of 1994 Amendment note above], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
 
 **Purposes and Findings**
 
-Pub. L. 105–42, § 2, Aug. 15, 1997, 111 Stat. 1122, provided that:
+Pub. L. 105–42, § 2, Aug. 15, 1997, 111 Stat. 1122, provided that:
 
 > **“(a) Purposes.—** The purposes of this Act [see Short Title of 1997 Amendment note above] are—
 
@@ -125,11 +125,11 @@ Pub. L. 105–42, § 2, Aug. 15, 1997, 111 Stat. 1122, provided that:
 
 **Relationship of Marine Mammal Protection Act Amendments of 1994 to Other Law**
 
-Pub. L. 103–238, § 2(b), Apr. 30, 1994, 108 Stat. 532, provided that: “Except as otherwise expressly provided, nothing in this Act [see Short Title of 1994 Amendment note above] is intended to amend, repeal, or otherwise affect any other provision of law.”
+Pub. L. 103–238, § 2(b), Apr. 30, 1994, 108 Stat. 532, provided that: “Except as otherwise expressly provided, nothing in this Act [see Short Title of 1994 Amendment note above] is intended to amend, repeal, or otherwise affect any other provision of law.”
 
 **Indian Treaty Rights; Alaska Native Subsistence**
 
-Pub. L. 103–238, § 14, Apr. 30, 1994, 108 Stat. 558, provided that:
+Pub. L. 103–238, § 14, Apr. 30, 1994, 108 Stat. 558, provided that:
 
 > “Nothing in this Act [see Short Title of 1994 Amendment note above], including any amendments to the Marine Mammal Protection Act of 1972 [16 U.S.C. 1361 et seq.] made by this Act—
 
@@ -139,15 +139,15 @@ Pub. L. 103–238, § 14, Apr. 30, 1994, 108 Stat. 558, provided that:
 
 **Study on Effects of Dolphin Feeding**
 
-Pub. L. 102–567, title III, § 306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects of feeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
+Pub. L. 102–567, title III, § 306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects of feeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
 
 **Study on Mortality of Atlantic Dolphin**
 
-Pub. L. 100–711, § 7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Commerce to conduct a study regarding east coast epidemic during 1987 and 1988 which caused substantial mortality within North Atlantic coastal population of Atlantic bottle-nosed dolphin, such study to examine (1) cause or causes of epidemic, (2) effect of epidemic on coastal and offshore populations of Atlantic bottle-nosed dolphin, (3) extent to which pollution may have contributed to epidemic, (4) whether other species and populations of marine mammals were affected by those factors which contributed to epidemic, and (5) any other matters pertaining to causes and effects of epidemic, with Secretary to submit on or before Jan. 1, 1989, to Committee on Commerce, Science, and Transportation of the Senate and Committee on Merchant Marine and Fisheries of the House of Representatives a plan for conducting the study.
+Pub. L. 100–711, § 7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Commerce to conduct a study regarding east coast epidemic during 1987 and 1988 which caused substantial mortality within North Atlantic coastal population of Atlantic bottle-nosed dolphin, such study to examine (1) cause or causes of epidemic, (2) effect of epidemic on coastal and offshore populations of Atlantic bottle-nosed dolphin, (3) extent to which pollution may have contributed to epidemic, (4) whether other species and populations of marine mammals were affected by those factors which contributed to epidemic, and (5) any other matters pertaining to causes and effects of epidemic, with Secretary to submit on or before Jan. 1, 1989, to Committee on Commerce, Science, and Transportation of the Senate and Committee on Merchant Marine and Fisheries of the House of Representatives a plan for conducting the study.
 
 **International Discussion To Advance Understanding of Cetacean Life**
 
-Pub. L. 95–426, title VI, § 602, Oct. 7, 1978, 92 Stat. 985, provided that:
+Pub. L. 95–426, title VI, § 602, Oct. 7, 1978, 92 Stat. 985, provided that:
 
 > “It is the sense of the Congress that the President should convey to all countries having an interest in cetacean sea life the serious concern of the Congress regarding the continuing destruction of these marine mammals (highlighted by the recent slaughter of dolphins in the Sea of Japan by Japanese fishermen) and should encourage such countries—
 
@@ -163,7 +163,7 @@ Pub. L. 95–426, title VI, § 602, Oct. 7, 1978, 92 Stat. 985, provided that:
 
 > **“(4)** to adopt comprehensive marine mammal protection legislation.”
 
-### § 1362. Definitions
+### § 1362. Definitions
 
 For the purposes of this chapter—
 
@@ -203,9 +203,9 @@ For the purposes of this chapter—
 
 **(ii)** the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
 
-**(B)** in 1
+**(B)** in 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 section 1387 of this title and subchapter V (other than section 1421f–1 of this title) the term “Secretary” means the Secretary of Commerce.
 
@@ -295,13 +295,13 @@ section 1387 of this title and subchapter V (other than section 1421f–1 of thi
 
 **(29)** The term “Declaration of Panama” means the declaration signed in Panama City, Republic of Panama, on October 4, 1995.
 
-(Pub. L. 92–522, § 3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, § 13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, § 404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, § 1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, § 304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, § 2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, § 3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§ 12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, § 405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, § 3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, § 202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, § 319(a), Nov. 24, 2003, 117 Stat. 1433.)
+(Pub. L. 92–522, § 3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, § 13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, § 404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, § 1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, § 304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, § 2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, § 3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§ 12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, § 405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, § 3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, § 202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, § 319(a), Nov. 24, 2003, 117 Stat. 1433.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Amendments**
 
@@ -315,9 +315,9 @@ The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C)
 
 1997—Pars. (28), (29). Pub. L. 105–42 added pars. (28) and (29).
 
-1996—Par. (15). Pub. L. 104–297, § 405(b)(2), repealed Pub. L. 102–251, § 304. See 1992 Amendment note below.
+1996—Par. (15). Pub. L. 104–297, § 405(b)(2), repealed Pub. L. 102–251, § 304. See 1992 Amendment note below.
 
-Pub. L. 104–297, § 404(b)(3), amended par. (15) generally. Prior to amendment, par. (15) read as follows: “The term ‘waters under the jurisdiction of the United States’ means—
+Pub. L. 104–297, § 404(b)(3), amended par. (15) generally. Prior to amendment, par. (15) read as follows: “The term ‘waters under the jurisdiction of the United States’ means—
 
 “(A) the territorial sea of the United States, and
 
@@ -325,11 +325,11 @@ Pub. L. 104–297, § 404(b)(3), amended par. (15) generally. Prior to amendme
 
 Par. (21). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-1994—Par. (12)(B). Pub. L. 103–238, § 24(a)(2), substituted “in section 1387 of this title and subchapter V” for “in subchapter V”.
+1994—Par. (12)(B). Pub. L. 103–238, § 24(a)(2), substituted “in section 1387 of this title and subchapter V” for “in subchapter V”.
 
-Pars. (15) to (17). Pub. L. 103–238, § 16(a), redesignated par. (15) defining “fishery”, and par. (16), as pars. (16) and (17), respectively, and struck out former par. (17) which defined “intermediary nation”.
+Pars. (15) to (17). Pub. L. 103–238, § 16(a), redesignated par. (15) defining “fishery”, and par. (16), as pars. (16) and (17), respectively, and struck out former par. (17) which defined “intermediary nation”.
 
-Pars. (18) to (27). Pub. L. 103–238, § 12, added pars. (18) to (27).
+Pars. (18) to (27). Pub. L. 103–238, § 12, added pars. (18) to (27).
 
 1992—Pars. (5) to (11). Pub. L. 102–582 added par. (5) and redesignated former pars. (5) to (10) as (6) to (11), respectively.
 
@@ -343,21 +343,21 @@ Par. (15). Pub. L. 102–582 redesignated par. (14), defining waters under the j
 
 Pub. L. 102–523 added par. (15) defining fishery.
 
-Pub. L. 102–251, § 304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, § 405(b)(2).
+Pub. L. 102–251, § 304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, § 405(b)(2).
 
 Pars. (16), (17). Pub. L. 102–523 added pars. (16) and (17).
 
-1981—Par. (1). Pub. L. 97–58, § 1(b)(2)(A), substituted a single management standard, that is, the maintenance of species at their optimum sustainable population, for the former management standard which had included the decline of a species or population stock that had declined to a significant degree over a period of years, the decline of a species or population stock which, if continued or resumed, would place the species or stock within the provisions of the Endangered Species Act of 1973, and a species or population stock that was below the optimum carrying capacity for the species or stock within its environment.
+1981—Par. (1). Pub. L. 97–58, § 1(b)(2)(A), substituted a single management standard, that is, the maintenance of species at their optimum sustainable population, for the former management standard which had included the decline of a species or population stock that had declined to a significant degree over a period of years, the decline of a species or population stock which, if continued or resumed, would place the species or stock within the provisions of the Endangered Species Act of 1973, and a species or population stock that was below the optimum carrying capacity for the species or stock within its environment.
 
-Par. (2). Pub. L. 97–58, § 1(b)(2)(B), substituted “their optimum sustainable population” for “the optimum carrying capacity of their habitat”.
+Par. (2). Pub. L. 97–58, § 1(b)(2)(B), substituted “their optimum sustainable population” for “the optimum carrying capacity of their habitat”.
 
-Par. (8). Pub. L. 97–58, § 1(a), (b)(2)(C), (D), redesignated par. (9) as (8) and substituted “carrying capacity” for “optimum carrying capacity”. Former par. (8), which defined “optimum carrying capacity” was struck out.
+Par. (8). Pub. L. 97–58, § 1(a), (b)(2)(C), (D), redesignated par. (9) as (8) and substituted “carrying capacity” for “optimum carrying capacity”. Former par. (8), which defined “optimum carrying capacity” was struck out.
 
-Pars. (9) to (12). Pub. L. 97–58, § 1(b)(2)(C), redesignated pars. (9) to (13) as (8) to (12), respectively.
+Pars. (9) to (12). Pub. L. 97–58, § 1(b)(2)(C), redesignated pars. (9) to (13) as (8) to (12), respectively.
 
-Par. (13). Pub. L. 97–58, § 1(b)(2)(C), (E), redesignated par. (14) as (13) and substituted “the Virgin Islands of the United States, American Samoa, Guam, and Northern Mariana Islands” for “the Canal Zone, the possessions of the United States, and the Trust Territory of the Pacific Islands”. Former par. (13) redesignated (12).
+Par. (13). Pub. L. 97–58, § 1(b)(2)(C), (E), redesignated par. (14) as (13) and substituted “the Virgin Islands of the United States, American Samoa, Guam, and Northern Mariana Islands” for “the Canal Zone, the possessions of the United States, and the Trust Territory of the Pacific Islands”. Former par. (13) redesignated (12).
 
-Pars. (14), (15). Pub. L. 97–58, § 1(b)(2)(C), redesignated pars. (14) and (15) as (13) and (14), respectively.
+Pars. (14), (15). Pub. L. 97–58, § 1(b)(2)(C), redesignated pars. (14) and (15) as (13) and (14), respectively.
 
 1976—Par. (15)(B). Pub. L. 94–265 substituted “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured” for “the fisheries zone established pursuant to the Act of October 14, 1966”.
 
@@ -367,7 +367,7 @@ Pars. (14), (15). Pub. L. 97–58, § 1(b)(2)(C), redesignated pars. (14) and 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–42, § 8, Aug. 15, 1997, 111 Stat. 1139, provided that:
+Pub. L. 105–42, § 8, Aug. 15, 1997, 111 Stat. 1139, provided that:
 
 > **“(a) Amendments to Take Effect When IDCP in Force.—** Sections 3 through 7 of this Act [enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, and repealing sections 1412 to 1416 and 1418 of this title] (except for section 304 of the Marine Mammal Protection Act of 1972 as added by section 6 of this Act [section 1414a of this title]) shall become effective upon—
 
@@ -391,11 +391,11 @@ Pub. L. 105–42, § 8, Aug. 15, 1997, 111 Stat. 1139, provided that:
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–238, § 24(e), Apr. 30, 1994, 108 Stat. 566, provided that: “The amendments made by subsection (a) [amending this section] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) [Pub. L. 102–587].”
+Pub. L. 103–238, § 24(e), Apr. 30, 1994, 108 Stat. 566, provided that: “The amendments made by subsection (a) [amending this section] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) [Pub. L. 102–587].”
 
 **Effective Date of 1992 Amendment**
 
@@ -403,7 +403,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–265, title IV, § 404(b), Apr. 13, 1976, 90 Stat. 361, provided that the amendment made by section 404(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Pub. L. 94–265, title IV, § 404(b), Apr. 13, 1976, 90 Stat. 361, provided that the amendment made by section 404(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 **Effective Date of 1973 Amendment**
 
@@ -415,7 +415,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 **Construction of Amendment by Pub. L. 102–587**
 
-Pub. L. 103–238, § 24(a)(1), Apr. 30, 1994, 108 Stat. 565, provided that:
+Pub. L. 103–238, § 24(a)(1), Apr. 30, 1994, 108 Stat. 565, provided that:
 
 > “The amendments set forth in section 3004(b) of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) [Pub. L. 102–587, amending this section]—
 
@@ -443,7 +443,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 ## SUBCHAPTER II—CONSERVATION AND PROTECTION OF MARINE MAMMALS
 
-### § 1371. Moratorium on taking and importing marine mammals and marine mammal products
+### § 1371. Moratorium on taking and importing marine mammals and marine mammal products
 
 **(a) Imposition; exceptions** There shall be a moratorium on the taking and importation of marine mammals and marine mammal products, commencing on the effective date of this chapter, during which time no permit may be issued for the taking of any marine mammal and no marine mammal or marine mammal product may be imported into the United States except in the following cases:
 
@@ -571,9 +571,9 @@ so long as such measures do not result in the death or serious injury of a marin
 
 **(v)** A person conducting an activity for which an authorization has been granted under this subparagraph shall not be subject to the penalties of this chapter for taking by harassment that occurs in compliance with such authorization.
 
-**(vi)** For a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), a determination of “least practicable adverse impact on such species or stock” under clause (i)(I) 1
+**(vi)** For a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), a determination of “least practicable adverse impact on such species or stock” under clause (i)(I) 1
 
-<sup>1</sup>  So in original. Probably should be a reference to cl. (ii)(I).
+<sup>1</sup> So in original. Probably should be a reference to cl. (ii)(I).
 
 shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
 
@@ -733,7 +733,7 @@ The provisions of this chapter shall not apply to a citizen of the United States
 
 **(4)** Not later than 30 days after issuing an exemption under paragraph (1) or an additional exemption under paragraph (3), the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate notice describing the exemption and the reasons therefor. The notice may be provided in classified form if the Secretary of Defense determines that use of the classified form is necessary for reasons of national security.
 
-(Pub. L. 92–522, title I, § 101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, § 13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, § 2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, § 101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, § 411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§ 4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, § 901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, § 103, title IV, § 401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, § 4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–18, title II, § 2003, June 12, 1997, 111 Stat. 174; Pub. L. 105–42, § 4(a)–(c), Aug. 15, 1997, 111 Stat. 1123, 1124; Pub. L. 108–136, div. A, title III, § 319(b), (c), Nov. 24, 2003, 117 Stat. 1434; Pub. L. 115–232, div. A, title III, § 316, Aug. 13, 2018, 132 Stat. 1714; Pub. L. 119–99, § 2, June 12, 2026, 140 Stat. 842.)
+(Pub. L. 92–522, title I, § 101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, § 13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, § 2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, § 101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, § 411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§ 4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, § 901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, § 103, title IV, § 401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, § 4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–18, title II, § 2003, June 12, 1997, 111 Stat. 174; Pub. L. 105–42, § 4(a)–(c), Aug. 15, 1997, 111 Stat. 1123, 1124; Pub. L. 108–136, div. A, title III, § 319(b), (c), Nov. 24, 2003, 117 Stat. 1434; Pub. L. 115–232, div. A, title III, § 316, Aug. 13, 2018, 132 Stat. 1714; Pub. L. 119–99, § 2, June 12, 2026, 140 Stat. 842.)
 
 **Editorial Notes**
 
@@ -743,9 +743,9 @@ The effective date of this chapter, referred to in subsec. (a), means the effect
 
 For effective date of section 4 of the International Dolphin Conservation Program Act [Pub. L. 105–42], referred to in subsec. (a)(2)(B)(i), see section 8 of Pub. L. 105–42 set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i)(I), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
+The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i)(I), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
 Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -761,31 +761,31 @@ Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–6
 
 Notwithstanding the preceding provisions of this subsection, when, under this chapter, the Secretary determines any species or stock of marine mammal subject to taking by Indians, Aleuts, or Eskimos to be depleted, he may prescribe regulations upon the taking of such marine mammals by any Indian, Aleut, or Eskimo described in this subsection. Such regulations may be established with reference to species or stocks, geographical description of the area included, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the purposes of this chapter. Such regulations shall be prescribed after notice and hearing required by section 1373 of this title and shall be removed as soon as the Secretary determines that the need for their imposition has disappeared. In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or section 1386(b)(2) of this title, or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.”
 
-2018—Subsec. (a)(5)(A)(i). Pub. L. 115–232, § 316(1), substituted “Except as provided by clause (ii), upon request” for “Upon request” in introductory provisions.
+2018—Subsec. (a)(5)(A)(i). Pub. L. 115–232, § 316(1), substituted “Except as provided by clause (ii), upon request” for “Upon request” in introductory provisions.
 
-Subsec. (a)(5)(A)(ii) to (iv). Pub. L. 115–232, § 316(2), (3), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+Subsec. (a)(5)(A)(ii) to (iv). Pub. L. 115–232, § 316(2), (3), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-2003—Subsec. (a)(5)(A). Pub. L. 108–136, § 319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
+2003—Subsec. (a)(5)(A). Pub. L. 108–136, § 319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
 
-Subsec. (a)(5)(D)(vi), (vii). Pub. L. 108–136, § 319(c)(2), added cls. (vi) and (vii).
+Subsec. (a)(5)(D)(vi), (vii). Pub. L. 108–136, § 319(c)(2), added cls. (vi) and (vii).
 
-Subsec. (a)(5)(F). Pub. L. 108–136, § 319(c)(3), added subpar. (F).
+Subsec. (a)(5)(F). Pub. L. 108–136, § 319(c)(3), added subpar. (F).
 
-Subsec. (f). Pub. L. 108–136, § 319(b), added subsec. (f).
+Subsec. (f). Pub. L. 108–136, § 319(b), added subsec. (f).
 
-1997—Subsec. (a)(2). Pub. L. 105–42, § 4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title.” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
+1997—Subsec. (a)(2). Pub. L. 105–42, § 4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title.” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
 
-Subsec. (a)(2)(B). Pub. L. 105–42, § 4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
+Subsec. (a)(2)(B). Pub. L. 105–42, § 4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
 
-Subsec. (a)(2)(C) to (F). Pub. L. 105–42, § 4(b)(2), (3), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+Subsec. (a)(2)(C) to (F). Pub. L. 105–42, § 4(b)(2), (3), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
 
 Subsec. (d). Pub. L. 105–18 added subsec. (d).
 
-Subsec. (e). Pub. L. 105–42, § 4(c), added subsec. (e).
+Subsec. (e). Pub. L. 105–42, § 4(c), added subsec. (e).
 
 1996—Subsec. (a)(5)(E)(i). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1824(b) of this title.
 
-1994—Subsec. (a)(1). Pub. L. 103–238, § 4(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
+1994—Subsec. (a)(1). Pub. L. 103–238, § 4(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
 
 “(A) the taking proposed in the application for any such permit, or
 
@@ -793,11 +793,11 @@ Subsec. (e). Pub. L. 105–42, § 4(c), added subsec. (e).
 
 is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation which is consistent with the purposes and policies of section 1361 of this title. The Secretary shall, if he grants approval for importation, issue to the importer concerned a certificate to that effect which shall be in such form as the Secretary of the Treasury prescribes and such importation may be made upon presentation of the certificate to the customs officer concerned.”
 
-Subsec. (a)(2). Pub. L. 103–238, § 4(a)(2), inserted before period at end of first sentence “, or in lieu of such permits, authorizations may be granted therefor under section 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title”.
+Subsec. (a)(2). Pub. L. 103–238, § 4(a)(2), inserted before period at end of first sentence “, or in lieu of such permits, authorizations may be granted therefor under section 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title”.
 
-Subsec. (a)(3)(B). Pub. L. 103–238, § 4(a)(3), inserted “, photography for educational or commercial purposes,” after “purposes” and “or as provided for under paragraph (5) of this subsection,” after “subsection,”.
+Subsec. (a)(3)(B). Pub. L. 103–238, § 4(a)(3), inserted “, photography for educational or commercial purposes,” after “purposes” and “or as provided for under paragraph (5) of this subsection,” after “subsection,”.
 
-Subsec. (a)(4). Pub. L. 103–238, § 4(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+Subsec. (a)(4). Pub. L. 103–238, § 4(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
 “(4)(A) During any period of five consecutive years, the Secretary shall allow the incidental, but not the intentional, taking, by citizens of the United States while engaging in commercial fishing operations, of small numbers of marine mammals of a species or population stock that is not depleted if the Secretary, after notice and opportunity for public comment—
 
@@ -813,43 +813,43 @@ Subsec. (a)(4). Pub. L. 103–238, § 4(a)(4), amended par. (4) generally. Pri
 
 Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this paragraph.”
 
-Subsec. (a)(5)(D), (E). Pub. L. 103–238, § 4(a)(5), added subpars. (D) and (E).
+Subsec. (a)(5)(D), (E). Pub. L. 103–238, § 4(a)(5), added subpars. (D) and (E).
 
-Subsec. (a)(6). Pub. L. 103–238, § 4(a)(6), added par. (6).
+Subsec. (a)(6). Pub. L. 103–238, § 4(a)(6), added par. (6).
 
-Subsec. (b). Pub. L. 103–238, § 4(b), inserted at end “In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or section 1386(b)(2) of this title, or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.”
+Subsec. (b). Pub. L. 103–238, § 4(b), inserted at end “In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or section 1386(b)(2) of this title, or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.”
 
-Subsec. (c). Pub. L. 103–238, § 4(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In order to minimize undue economic hardship to persons subject to this chapter, other than those engaged in commercial fishing operations referred to in subsection (a)(2) of this section, the Secretary, upon any such person filing an application with him and upon filing such information as the Secretary may require showing, to his satisfaction, such hardship, may exempt such person or class of persons from provisions of this chapter for no more than one year from October 21, 1972, as he determines to be appropriate.”
+Subsec. (c). Pub. L. 103–238, § 4(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In order to minimize undue economic hardship to persons subject to this chapter, other than those engaged in commercial fishing operations referred to in subsection (a)(2) of this section, the Secretary, upon any such person filing an application with him and upon filing such information as the Secretary may require showing, to his satisfaction, such hardship, may exempt such person or class of persons from provisions of this chapter for no more than one year from October 21, 1972, as he determines to be appropriate.”
 
-1992—Subsec. (a)(2). Pub. L. 102–582, § 103(2), inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
+1992—Subsec. (a)(2). Pub. L. 102–582, § 103(2), inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
 
-Subsec. (a)(2)(C). Pub. L. 102–582, § 401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
+Subsec. (a)(2)(C). Pub. L. 102–582, § 401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
 
-Subsec. (a)(2)(E)(i). Pub. L. 102–582, § 103(1), substituted “January 1, 1993” for “July 1, 1992”.
+Subsec. (a)(2)(E)(i). Pub. L. 102–582, § 103(1), substituted “January 1, 1993” for “July 1, 1992”.
 
 1990—Subsec. (a)(2). Pub. L. 101–627 added subpar. (E) and concluding provisions.
 
-1988—Subsec. (a)(1). Pub. L. 100–711, § 5(c), which directed that par. (1) be amended generally to read as follows: “(1) Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—”, was executed as the probable intent of Congress by substituting such provisions for provisions of par. (1) before subpar. (A) which read as follows: “Permits may be issued by the Secretary for taking and importation for purposes of scientific research and for public display if—”.
+1988—Subsec. (a)(1). Pub. L. 100–711, § 5(c), which directed that par. (1) be amended generally to read as follows: “(1) Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—”, was executed as the probable intent of Congress by substituting such provisions for provisions of par. (1) before subpar. (A) which read as follows: “Permits may be issued by the Secretary for taking and importation for purposes of scientific research and for public display if—”.
 
-Subsec. (a)(2). Pub. L. 100–711, § 4(a), inserted provisions at end of subpar. (B) relating to finding by Secretary that regulatory program, or average rate of incidental taking by vessels, of harvesting nation is comparable to that of United States, and added subpars. (C) and (D).
+Subsec. (a)(2). Pub. L. 100–711, § 4(a), inserted provisions at end of subpar. (B) relating to finding by Secretary that regulatory program, or average rate of incidental taking by vessels, of harvesting nation is comparable to that of United States, and added subpars. (C) and (D).
 
-Subsec. (a)(3)(B). Pub. L. 100–711, § 5(e)(1), inserted “or enhancing the survival or recovery of a species or stock” after “scientific research purposes”.
+Subsec. (a)(3)(B). Pub. L. 100–711, § 5(e)(1), inserted “or enhancing the survival or recovery of a species or stock” after “scientific research purposes”.
 
-1986—Subsec. (a)(5)(A). Pub. L. 99–659, § 411(a)(1), in provisions preceding cl. (i) struck out “that is not depleted” after “population stock”.
+1986—Subsec. (a)(5)(A). Pub. L. 99–659, § 411(a)(1), in provisions preceding cl. (i) struck out “that is not depleted” after “population stock”.
 
-Subsec. (a)(5)(A)(i). Pub. L. 99–659, § 411(a)(2), substituted “will not have an unmitigable adverse impact” for “its habitat, and”, and inserted “or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title”.
+Subsec. (a)(5)(A)(i). Pub. L. 99–659, § 411(a)(2), substituted “will not have an unmitigable adverse impact” for “its habitat, and”, and inserted “or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title”.
 
-Subsec. (a)(5)(A)(ii)(I). Pub. L. 99–659, § 411(a)(3), inserted “, and on the availability of such species or stock for subsistence uses”.
+Subsec. (a)(5)(A)(ii)(I). Pub. L. 99–659, § 411(a)(3), inserted “, and on the availability of such species or stock for subsistence uses”.
 
 1984—Subsec. (a)(2). Pub. L. 98–364 amended last sentence generally, restating existing provisions in cl. (A) and adding cl. (B).
 
-1981—Subsec. (a)(2). Pub. L. 97–58, § 2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
+1981—Subsec. (a)(2). Pub. L. 97–58, § 2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
 
-Subsec. (a)(3)(B). Pub. L. 97–58, § 2(1)(B), struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
+Subsec. (a)(3)(B). Pub. L. 97–58, § 2(1)(B), struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
 
-Subsec. (a)(4), (5). Pub. L. 97–58, § 2(1)(C), added pars. (4) and (5).
+Subsec. (a)(4), (5). Pub. L. 97–58, § 2(1)(C), added pars. (4) and (5).
 
-Subsec. (b). Pub. L. 97–58, § 2(2), substituted “Except as provided in section 1379 of this title, the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and” for “The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo” in provisions preceding par. (1) and, in par. (1), substituted “is for subsistence purposes; or” for “is for subsistence purposes by Alaskan natives who reside in Alaska, or”.
+Subsec. (b). Pub. L. 97–58, § 2(2), substituted “Except as provided in section 1379 of this title, the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and” for “The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo” in provisions preceding par. (1) and, in par. (1), substituted “is for subsistence purposes; or” for “is for subsistence purposes by Alaskan natives who reside in Alaska, or”.
 
 1973—Subsec. (a)(3)(B). Pub. L. 93–205 substituted “or threatened species pursuant to the Endangered Species Act of 1973” for “pursuant to the Endangered Species Conservation Act of 1969”.
 
@@ -861,7 +861,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1973 Amendment**
 
@@ -875,7 +875,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 1372. Prohibitions
+### § 1372. Prohibitions
 
 **(a) Taking** Except as provided in sections 1371, 1373, 1374, 1379, 1381, 1383, 1383a, and 1387 of this title and subchapter V, it is unlawful—
 
@@ -939,7 +939,7 @@ This chapter shall not apply with respect to any marine mammal taken before the 
 
 It is unlawful for any person or vessel or other conveyance to take any species of whale incident to commercial whaling in waters subject to the jurisdiction of the United States.
 
-(Pub. L. 92–522, title I, § 102, Oct. 21, 1972, 86 Stat. 1032; Pub. L. 93–205, § 13(e)(3), Dec. 28, 1973, 87 Stat. 903; Pub. L. 95–136, § 4, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 97–58, § 3(a), Oct. 9, 1981, 95 Stat. 981; Pub. L. 100–711, §§ 2(b), 5(b), (e)(2), Nov. 23, 1988, 102 Stat. 4763, 4769, 4771; Pub. L. 102–587, title III, § 3004(a)(1), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§ 5(a), 13(c), 24(c)(9), Apr. 30, 1994, 108 Stat. 536, 558, 566.)
+(Pub. L. 92–522, title I, § 102, Oct. 21, 1972, 86 Stat. 1032; Pub. L. 93–205, § 13(e)(3), Dec. 28, 1973, 87 Stat. 903; Pub. L. 95–136, § 4, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 97–58, § 3(a), Oct. 9, 1981, 95 Stat. 981; Pub. L. 100–711, §§ 2(b), 5(b), (e)(2), Nov. 23, 1988, 102 Stat. 4763, 4769, 4771; Pub. L. 102–587, title III, § 3004(a)(1), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§ 5(a), 13(c), 24(c)(9), Apr. 30, 1994, 108 Stat. 536, 558, 566.)
 
 **Editorial Notes**
 
@@ -951,27 +951,27 @@ The effective date of this chapter, referred to in subsec. (e), means the effect
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–238, § 24(c)(9), which directed technical amendment to reference to subchapter V of this chapter in introductory provisions to reflect renumbering of corresponding title of original act, could not be executed to text because of prior amendment by section 13(c) of Pub. L. 103–238. See below.
+1994—Subsec. (a). Pub. L. 103–238, § 24(c)(9), which directed technical amendment to reference to subchapter V of this chapter in introductory provisions to reflect renumbering of corresponding title of original act, could not be executed to text because of prior amendment by section 13(c) of Pub. L. 103–238. See below.
 
-Pub. L. 103–238, § 13(c), in introductory provisions inserted reference to section 1387 of this title and made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
+Pub. L. 103–238, § 13(c), in introductory provisions inserted reference to section 1387 of this title and made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
 
-Subsec. (a)(2)(B). Pub. L. 103–238, § 5(a)(1), substituted “to take or import” for “for any purpose in any way connected with the taking or importation of”.
+Subsec. (a)(2)(B). Pub. L. 103–238, § 5(a)(1), substituted “to take or import” for “for any purpose in any way connected with the taking or importation of”.
 
-Subsec. (a)(4). Pub. L. 103–238, § 5(a)(2), substituted “export, or offer to purchase, sell, or export” for “or offer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
+Subsec. (a)(4). Pub. L. 103–238, § 5(a)(2), substituted “export, or offer to purchase, sell, or export” for “or offer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
 
 1992—Subsec. (a). Pub. L. 102–587 inserted “or subchapter V” in introductory provisions.
 
-1988—Subsec. (a). Pub. L. 100–711, § 2(b), substituted “1383, and 1383a” for “and 1383”.
+1988—Subsec. (a). Pub. L. 100–711, § 2(b), substituted “1383, and 1383a” for “and 1383”.
 
-Subsec. (b). Pub. L. 100–711, § 5(e)(2), substituted “research, or for enhancing the survival or recovery of a species or stock,” for “research”.
+Subsec. (b). Pub. L. 100–711, § 5(e)(2), substituted “research, or for enhancing the survival or recovery of a species or stock,” for “research”.
 
-Pub. L. 100–711, § 5(b), inserted sentence at end authorizing Secretary to issue permit for importation of marine mammal.
+Pub. L. 100–711, § 5(b), inserted sentence at end authorizing Secretary to issue permit for importation of marine mammal.
 
-1981—Subsec. (a). Pub. L. 97–58, § 3(a)(1), inserted reference to section 1379 of this title in the enumeration of sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
+1981—Subsec. (a). Pub. L. 97–58, § 3(a)(1), inserted reference to section 1379 of this title in the enumeration of sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
 
-Subsec. (b)(3). Pub. L. 97–58, § 3(a)(2), struck out “or which has been listed as an endangered species or threatened species pursuant to the Endangered Species Act of 1973” after “designated as a depleted species or stock”.
+Subsec. (b)(3). Pub. L. 97–58, § 3(a)(2), struck out “or which has been listed as an endangered species or threatened species pursuant to the Endangered Species Act of 1973” after “designated as a depleted species or stock”.
 
-Subsec. (d)(1). Pub. L. 97–58, § 3(b)(3), struck out “or endangered” after “concerned as depleted”.
+Subsec. (d)(1). Pub. L. 97–58, § 3(b)(3), struck out “or endangered” after “concerned as depleted”.
 
 1977—Subsec. (f). Pub. L. 95–136 added subsec. (f).
 
@@ -987,7 +987,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1373. Regulations on taking of marine mammals
+### § 1373. Regulations on taking of marine mammals
 
 **(a) Necessity and appropriateness**
 
@@ -1035,7 +1035,7 @@ Any regulation prescribed pursuant to this section shall be periodically reviewe
 
 Within six months after the effective date of this chapter and every twelve months thereafter, the Secretary shall report to the public through publication in the Federal Register and to the Congress on the current status of all marine mammal species and population stocks subject to the provisions of this chapter. His report shall describe those actions taken and those measures believed necessary, including where appropriate, the issuance of permits pursuant to this subchapter to assure the well-being of such marine mammals.
 
-(Pub. L. 92–522, title I, § 103, Oct. 21, 1972, 86 Stat. 1033.)
+(Pub. L. 92–522, title I, § 103, Oct. 21, 1972, 86 Stat. 1033.)
 
 **Editorial Notes**
 
@@ -1055,15 +1055,15 @@ For termination, effective May 15, 2000, of provisions in subsec. (f) of this se
 
 **Marine Mammal Populations Report**
 
-Pub. L. 101–627, title XI, § 1101, Nov. 28, 1990, 104 Stat. 4468, directed Secretary of Commerce, in consultation with Secretary of the Interior, to provide to Congress within 12 months after Nov. 28, 1990, a report assessing population sizes and trends of harbor seals, sea otters, California sea lions, and northern sea lions off the coast of the State of Washington; assessing the effectiveness of 16 U.S.C. 1371(a)(3)(A) and 1379(h); and specifying long range management plans for the species of marine mammals listed.
+Pub. L. 101–627, title XI, § 1101, Nov. 28, 1990, 104 Stat. 4468, directed Secretary of Commerce, in consultation with Secretary of the Interior, to provide to Congress within 12 months after Nov. 28, 1990, a report assessing population sizes and trends of harbor seals, sea otters, California sea lions, and northern sea lions off the coast of the State of Washington; assessing the effectiveness of 16 U.S.C. 1371(a)(3)(A) and 1379(h); and specifying long range management plans for the species of marine mammals listed.
 
-### § 1374. Permits
+### § 1374. Permits
 
 **(a) Issuance**
 
-The Secretary may issue permits which authorize the taking or importation of any marine mammal. Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1
+The Secretary may issue permits which authorize the taking or importation of any marine mammal. Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 1371(a)(5) or 1416 of this title, or subsection (h) of this section.
 
@@ -1287,13 +1287,13 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 **(2)** Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title, subject to the regulations issued pursuant to section 1413 of this title.
 
-(Pub. L. 92–522, title I, § 104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, § 102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§ 4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, § 5(b), Apr. 30, 1994, 108 Stat. 537; Pub. L. 105–18, title V, § 5004, June 12, 1997, 111 Stat. 187; Pub. L. 105–42, § 4(d), Aug. 15, 1997, 111 Stat. 1125; Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238; Pub. L. 106–31, title V, § 5004(1), May 21, 1999, 113 Stat. 110; Pub. L. 108–108, title I, § 149, Nov. 10, 2003, 117 Stat. 1281.)
+(Pub. L. 92–522, title I, § 104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, § 102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§ 4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, § 5(b), Apr. 30, 1994, 108 Stat. 537; Pub. L. 105–18, title V, § 5004, June 12, 1997, 111 Stat. 187; Pub. L. 105–42, § 4(d), Aug. 15, 1997, 111 Stat. 1125; Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238; Pub. L. 106–31, title V, § 5004(1), May 21, 1999, 113 Stat. 110; Pub. L. 108–108, title I, § 149, Nov. 10, 2003, 117 Stat. 1281.)
 
 **Editorial Notes**
 
 **References in Text**
 
-7 U.S.C. 2131 et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, known as the Animal Welfare Act, which is classified generally to chapter 54 (§ 2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
+7 U.S.C. 2131 et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, known as the Animal Welfare Act, which is classified generally to chapter 54 (§ 2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
 
 **Amendments**
 
@@ -1303,27 +1303,27 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 1998—Subsec. (c)(5)(B). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted “until expended” after “Secretary” in second sentence.
 
-1997—Subsec. (c)(5)(A). Pub. L. 105–18, § 5004(1), struck out “, including polar bears taken but not imported prior to April 30, 1994,” after “sport hunts in Canada”.
+1997—Subsec. (c)(5)(A). Pub. L. 105–18, § 5004(1), struck out “, including polar bears taken but not imported prior to April 30, 1994,” after “sport hunts in Canada”.
 
-Subsec. (c)(5)(D). Pub. L. 105–18, § 5004(2), added subpar. (D).
+Subsec. (c)(5)(D). Pub. L. 105–18, § 5004(2), added subpar. (D).
 
 Subsec. (h). Pub. L. 105–42 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to general permits, extension of general permit to American Tunaboat Association, and monitoring of incidental taking of marine mammals.
 
-1994—Subsec. (a). Pub. L. 103–238, § 5(b)(1), inserted at end “Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1371(a)(5) or 1416 of this title, or subsection (h) of this section.”
+1994—Subsec. (a). Pub. L. 103–238, § 5(b)(1), inserted at end “Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1371(a)(5) or 1416 of this title, or subsection (h) of this section.”
 
-Subsec. (c)(1). Pub. L. 103–238, § 5(b)(2)(A), struck out “and after” after “must be observed pursuant to”.
+Subsec. (c)(1). Pub. L. 103–238, § 5(b)(2)(A), struck out “and after” after “must be observed pursuant to”.
 
-Subsec. (c)(2). Pub. L. 103–238, § 5(b)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A permit may be issued for public display purposes only to an applicant which offers a program for education or conservation purposes that, based on professionally recognized standards of the public display community, is acceptable to the Secretary and which submits with the permit application information indicating that the applicant’s facilities are open to the public on a regularly scheduled basis and that access to the facilities is not limited or restricted other than by the charging of an admission fee.”
+Subsec. (c)(2). Pub. L. 103–238, § 5(b)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A permit may be issued for public display purposes only to an applicant which offers a program for education or conservation purposes that, based on professionally recognized standards of the public display community, is acceptable to the Secretary and which submits with the permit application information indicating that the applicant’s facilities are open to the public on a regularly scheduled basis and that access to the facilities is not limited or restricted other than by the charging of an admission fee.”
 
-Subsec. (c)(3). Pub. L. 103–238, § 5(b)(2)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A permit may be issued for scientific research purposes only to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose and does not involve unnecessary duplication of research. No permit issued for purposes of scientific research shall authorize the killing of a marine mammal unless the applicant demonstrates that a nonlethal method for carrying out the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock designated as depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.”
+Subsec. (c)(3). Pub. L. 103–238, § 5(b)(2)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A permit may be issued for scientific research purposes only to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose and does not involve unnecessary duplication of research. No permit issued for purposes of scientific research shall authorize the killing of a marine mammal unless the applicant demonstrates that a nonlethal method for carrying out the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock designated as depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.”
 
-Subsec. (c)(5) to (10). Pub. L. 103–238, § 5(b)(2)(D), added pars. (5) to (10).
+Subsec. (c)(5) to (10). Pub. L. 103–238, § 5(b)(2)(D), added pars. (5) to (10).
 
-Subsec. (e)(1)(C). Pub. L. 103–238, § 5(b)(3), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 103–238, § 5(b)(3), added subpar. (C).
 
-1988—Subsec. (c). Pub. L. 100–711, § 5(d), designated existing provisions as par. (1) and substituted “scientific research, public display, or enhancing the survival or recovery of a species or stock” for “display or scientific research” in two places, and added pars. (2) to (4).
+1988—Subsec. (c). Pub. L. 100–711, § 5(d), designated existing provisions as par. (1) and substituted “scientific research, public display, or enhancing the survival or recovery of a species or stock” for “display or scientific research” in two places, and added pars. (2) to (4).
 
-Subsec. (h)(2)(B). Pub. L. 100–711, § 4(d), added cls. (iv) to (ix).
+Subsec. (h)(2)(B). Pub. L. 100–711, § 4(d), added cls. (iv) to (ix).
 
 1984—Subsec. (h). Pub. L. 98–364 designated existing provisions as par. (1), and added pars. (2) and (3).
 
@@ -1337,11 +1337,11 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-**Modification of Permits Existing Prior to April 30, 1994**
+**Modification of Permits Existing Prior to April 30, 1994**
 
-Pub. L. 103–238, § 5(c), Apr. 30, 1994, 108 Stat. 541, provided that: “Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(2)) before the date of the enactment of this Act [Apr. 30, 1994] is hereby modified to be consistent with that section as amended by this Act.”
+Pub. L. 103–238, § 5(c), Apr. 30, 1994, 108 Stat. 541, provided that: “Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(2)) before the date of the enactment of this Act [Apr. 30, 1994] is hereby modified to be consistent with that section as amended by this Act.”
 
-### § 1375. Penalties
+### § 1375. Penalties
 
 **(a)**
 
@@ -1351,15 +1351,15 @@ Pub. L. 103–238, § 5(c), Apr. 30, 1994, 108 Stat. 541, provided that: “An
 
 **(b)** Any person who knowingly violates any provision of this subchapter or of any permit or regulation issued thereunder (except as provided in section 1387 of this title) shall, upon conviction, be fined not more than $20,000 for each such violation, or imprisoned for not more than one year, or both.
 
-(Pub. L. 92–522, title I, § 105, Oct. 21, 1972, 86 Stat. 1036; Pub. L. 97–58, § 3(b), Oct. 9, 1981, 95 Stat. 982; Pub. L. 103–238, § 13(a), (b), Apr. 30, 1994, 108 Stat. 558.)
+(Pub. L. 92–522, title I, § 105, Oct. 21, 1972, 86 Stat. 1036; Pub. L. 97–58, § 3(b), Oct. 9, 1981, 95 Stat. 982; Pub. L. 103–238, § 13(a), (b), Apr. 30, 1994, 108 Stat. 558.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a)(1). Pub. L. 103–238, § 13(a), inserted “, except as provided in section 1387 of this title,” after “thereunder”.
+1994—Subsec. (a)(1). Pub. L. 103–238, § 13(a), inserted “, except as provided in section 1387 of this title,” after “thereunder”.
 
-Subsec. (b). Pub. L. 103–238, § 13(b), inserted “(except as provided in section 1387 of this title)” after “thereunder”.
+Subsec. (b). Pub. L. 103–238, § 13(b), inserted “(except as provided in section 1387 of this title)” after “thereunder”.
 
 1981—Subsec. (a). Pub. L. 97–58 designated existing provisions as par. (1) and added par. (2).
 
@@ -1369,11 +1369,11 @@ Subsec. (b). Pub. L. 103–238, § 13(b), inserted “(except as provided in s
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1375a. Use of fines for protection and recovery of manatees, polar bears, sea otters, and walruses
+### § 1375a. Use of fines for protection and recovery of manatees, polar bears, sea otters, and walruses
 
 On and after November 29, 1999, all fines collected by the United States Fish and Wildlife Service for violations of the Marine Mammal Protection Act (16 U.S.C. 1362–1407) and implementing regulations shall be available to the Secretary, without further appropriation, to be used for the expenses of the United States Fish and Wildlife Service in administering activities for the protection and recovery of manatees, polar bears, sea otters, and walruses, and shall remain available until expended.
 
-(Pub. L. 106–113, div. B, § 1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–139.)
+(Pub. L. 106–113, div. B, § 1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–139.)
 
 **Editorial Notes**
 
@@ -1385,7 +1385,7 @@ The Marine Mammal Protection Act, referred to in text, probably means the Marine
 
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2000, and not as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
 
-### § 1376. Seizure and forfeiture of cargo
+### § 1376. Seizure and forfeiture of cargo
 
 **(a) Application of consistent provisions**
 
@@ -1399,7 +1399,7 @@ Any vessel subject to the jurisdiction of the United States that is employed in 
 
 Upon the recommendation of the Secretary, the Secretary of the Treasury is authorized to pay an amount equal to one-half of the fine incurred but not to exceed $2,500 to any person who furnishes information which leads to a conviction for a violation of this subchapter. Any officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall not be eligible for payment under this section.
 
-(Pub. L. 92–522, title I, § 106, Oct. 21, 1972, 86 Stat. 1036.)
+(Pub. L. 92–522, title I, § 106, Oct. 21, 1972, 86 Stat. 1036.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1407,7 +1407,7 @@ Upon the recommendation of the Secretary, the Secretary of the Treasury is autho
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1377. Enforcement
+### § 1377. Enforcement
 
 **(a) Utilization of personnel**
 
@@ -1447,13 +1447,13 @@ The judges of the district courts of the United States and the United States mag
 
 **(A)** a civil penalty is assessed under section 1375(a) of this title and no judicial action is commenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall be immediately returned to the owner or the consignee; or
 
-**(B)** no conviction results from an alleged violation of section 1375(b) of this title, such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with 1
+**(B)** no conviction results from an alleged violation of section 1375(b) of this title, such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with 1
 
-<sup>1</sup>  So in original. Probably should be “within”.
+<sup>1</sup> So in original. Probably should be “within”.
 
 thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under section 1375(a) of this title.
 
-(Pub. L. 92–522, title I, § 107, Oct. 21, 1972, 86 Stat. 1037; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–479, title IX, § 902(c), Jan. 12, 2007, 120 Stat. 3665.)
+(Pub. L. 92–522, title I, § 107, Oct. 21, 1972, 86 Stat. 1037; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–479, title IX, § 902(c), Jan. 12, 2007, 120 Stat. 3665.)
 
 **Editorial Notes**
 
@@ -1475,9 +1475,9 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-### § 1378. International program
+### § 1378. International program
 
 **(a) Duties of Secretary** The Secretary, through the Secretary of State, shall—
 
@@ -1527,7 +1527,7 @@ he shall, through the Secretary of State, immediately initiate negotiations to m
 
 The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B), as well as any proposals for further action to achieve the purposes of that subsection, in the report required under section 1373(f) of this title.
 
-(Pub. L. 92–522, title I, § 108, Oct. 21, 1972, 86 Stat. 1038; Pub. L. 100–711, § 4(b), (c), Nov. 23, 1988, 102 Stat. 4766, 4767; Pub. L. 105–42, § 4(e), Aug. 15, 1997, 111 Stat. 1125.)
+(Pub. L. 92–522, title I, § 108, Oct. 21, 1972, 86 Stat. 1038; Pub. L. 100–711, § 4(b), (c), Nov. 23, 1988, 102 Stat. 4766, 4767; Pub. L. 105–42, § 4(e), Aug. 15, 1997, 111 Stat. 1125.)
 
 **Editorial Notes**
 
@@ -1535,9 +1535,9 @@ The Secretary shall include a description of the annual results of discussions i
 
 1997—Subsecs. (a)(2)(C), (D). Pub. L. 105–42 added subpars. (C) and (D).
 
-1988—Subsec. (a)(2). Pub. L. 100–711, § 4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;”.
+1988—Subsec. (a)(2). Pub. L. 100–711, § 4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;”.
 
-Subsec. (c). Pub. L. 100–711, § 4(c), added subsec. (c).
+Subsec. (c). Pub. L. 100–711, § 4(c), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1549,7 +1549,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1379. Transfer of management authority
+### § 1379. Transfer of management authority
 
 **(a) State enforcement of State laws or regulations prohibited without transfer to State of management authority by Secretary**
 
@@ -1595,9 +1595,9 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 **(B)** the Secretary shall regulate, without regard to this section other than the allocations specified under such an agreement, the taking of the species—
 
-**(i)** incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) 1
+**(i)** incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, and
 
@@ -1623,9 +1623,9 @@ The State agency must give public notice of the hearing and make available to th
 
 **(d) Cooperative allocation agreements**
 
-**(1)** If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b), as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>1</sup> of this title.
+**(1)** If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b), as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>1</sup> of this title.
 
-**(2)** If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>1</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency’s regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act [5 U.S.C. 601 et seq.], the Paperwork Reduction Act,<sup>1</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
+**(2)** If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>1</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency’s regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act [5 U.S.C. 601 et seq.], the Paperwork Reduction Act,<sup>1</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
 
 **(e) Revocation of transfer of management authority**
 
@@ -1719,19 +1719,19 @@ The Secretary is authorized and directed to enter into cooperative arrangements 
 
 **(2)** There are authorized to be appropriated to the Department of Commerce, for the purposes of carrying out this section, not to exceed $225,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
-(Pub. L. 92–522, title I, § 109, Oct. 21, 1972, 86 Stat. 1040; Pub. L. 95–316, § 1, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, § 4(a), Oct. 9, 1981, 95 Stat. 982; Pub. L. 100–711, § 5(a), (e)(3), Nov. 23, 1988, 102 Stat. 4769, 4771; Pub. L. 102–587, title III, § 3004(a)(2), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, § 24(c)(10), Apr. 30, 1994, 108 Stat. 566.)
+(Pub. L. 92–522, title I, § 109, Oct. 21, 1972, 86 Stat. 1040; Pub. L. 95–316, § 1, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, § 4(a), Oct. 9, 1981, 95 Stat. 982; Pub. L. 100–711, § 5(a), (e)(3), Nov. 23, 1988, 102 Stat. 4769, 4771; Pub. L. 102–587, title III, § 3004(a)(2), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, § 24(c)(10), Apr. 30, 1994, 108 Stat. 566.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1362(14) of this title, referred to in subsecs. (b)(3)(B)(i) and (d), was redesignated section 1362(15) by Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909.
+Section 1362(14) of this title, referred to in subsecs. (b)(3)(B)(i) and (d), was redesignated section 1362(15) by Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909.
 
-The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
+The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
-The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
-Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. (d)(2), was formerly set out as a note under section 601 of Title 5, Government Organization and Employees, and was revoked by Ex. Ord. No. 12866, § 11, Sept. 30, 1993, 58 F.R. 51735.
+Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. (d)(2), was formerly set out as a note under section 601 of Title 5, Government Organization and Employees, and was revoked by Ex. Ord. No. 12866, § 11, Sept. 30, 1993, 58 F.R. 51735.
 
 **Amendments**
 
@@ -1739,11 +1739,11 @@ Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. 
 
 1992—Subsec. (h)(1). Pub. L. 102–587 inserted “or subchapter V” after “this subchapter” in introductory provisions.
 
-1988—Subsec. (b)(1)(E). Pub. L. 100–711, § 5(e)(3)(A), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research and public display purposes”.
+1988—Subsec. (b)(1)(E). Pub. L. 100–711, § 5(e)(3)(A), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research and public display purposes”.
 
-Subsec. (b)(3)(B)(ii). Pub. L. 100–711, § 5(e)(3)(B), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research or public display purposes”.
+Subsec. (b)(3)(B)(ii). Pub. L. 100–711, § 5(e)(3)(B), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research or public display purposes”.
 
-Subsec. (h). Pub. L. 100–711, § 5(a), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Nothing in this subchapter shall prevent a Federal, State, or local government official or employee or a person designated under section 1382(c) of this title from taking, in the course of his duties as an official, employee, or designee, a marine mammal in a humane manner (including euthanasia) if such taking is for—
+Subsec. (h). Pub. L. 100–711, § 5(a), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Nothing in this subchapter shall prevent a Federal, State, or local government official or employee or a person designated under section 1382(c) of this title from taking, in the course of his duties as an official, employee, or designee, a marine mammal in a humane manner (including euthanasia) if such taking is for—
 
 “(1) the protection or welfare of the mammal,
 
@@ -1753,15 +1753,15 @@ Subsec. (h). Pub. L. 100–711, § 5(a), amended subsec. (h) generally. Prior 
 
 and, in any case in which the return of the mammal to its natural habitat is feasible, includes steps designed to achieve that result.”
 
-1981—Subsec. (a). Pub. L. 97–58, § 4(a)(2), added subsec. (a). Former subsec. (a), relating to State regulation of the taking of marine mammals, was struck out.
+1981—Subsec. (a). Pub. L. 97–58, § 4(a)(2), added subsec. (a). Former subsec. (a), relating to State regulation of the taking of marine mammals, was struck out.
 
-Subsec. (b). Pub. L. 97–58, § 4(a)(2), added subsec. (b). Former subsec. (b), relating to the making of grants to States by the Secretary, was struck out. See subsec. (j) of this section.
+Subsec. (b). Pub. L. 97–58, § 4(a)(2), added subsec. (b). Former subsec. (b), relating to the making of grants to States by the Secretary, was struck out. See subsec. (j) of this section.
 
-Subsecs. (c), (d). Pub. L. 97–58, § 4(a)(1), (2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (k) and (*l*), respectively.
+Subsecs. (c), (d). Pub. L. 97–58, § 4(a)(1), (2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (k) and (*l*), respectively.
 
-Subsecs. (e) to (j). Pub. L. 97–58, § 4(a)(2), added subsecs. (e) to (j).
+Subsecs. (e) to (j). Pub. L. 97–58, § 4(a)(2), added subsecs. (e) to (j).
 
-Subsecs. (k), (*l*). Pub. L. 97–58, § 4(a)(1), redesignated subsecs. (c) and (d) as (k) and (*l*), respectively.
+Subsecs. (k), (*l*). Pub. L. 97–58, § 4(a)(1), redesignated subsecs. (c) and (d) as (k) and (*l*), respectively.
 
 1978—Subsec. (d). Pub. L. 95–316 added subsec. (d).
 
@@ -1773,13 +1773,13 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 **Enforcement by Hawaii of Laws Relating to Conservation and Management of Humpback Whales With Respect to Recreational and Commercial Vessels**
 
-Pub. L. 108–447, div. B, title II, § 213, Dec. 8, 2004, 118 Stat. 2884, provided that: “Hereafter, notwithstanding any other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law.”
+Pub. L. 108–447, div. B, title II, § 213, Dec. 8, 2004, 118 Stat. 2884, provided that: “Hereafter, notwithstanding any other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law.”
 
 **Cooperative Agreements Under Endangered Species Act**
 
-Pub. L. 97–58, § 4(b), Oct. 9, 1981, 95 Stat. 986, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed as affecting in any manner, or to any extent, any cooperative agreement entered into by a State under section 6(c) of the Endangered Species Act of 1973 (16 U.S.C. 1535(c)) before, on, or after the date of the enactment of this Act [Oct. 9, 1981].”
+Pub. L. 97–58, § 4(b), Oct. 9, 1981, 95 Stat. 986, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed as affecting in any manner, or to any extent, any cooperative agreement entered into by a State under section 6(c) of the Endangered Species Act of 1973 (16 U.S.C. 1535(c)) before, on, or after the date of the enactment of this Act [Oct. 9, 1981].”
 
-### § 1380. Marine mammal research grants
+### § 1380. Marine mammal research grants
 
 **(a) Authorization; research concerning yellowfin tuna; annual report**
 
@@ -1811,9 +1811,9 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 **(3)** The Secretary of Commerce, the Secretary of the Interior, and the Commission shall address the status and findings of the research program in their annual reports to Congress required by sections 1373(f) and 1404 of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 92–522, title I, § 110, Oct. 21, 1972, 86 Stat. 1041; Pub. L. 95–136, § 1, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, § 2, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, § 5, Oct. 9, 1981, 95 Stat. 986; Pub. L. 100–711, § 4(e), Nov. 23, 1988, 102 Stat. 4768; Pub. L. 103–238, § 20, Apr. 30, 1994, 108 Stat. 560; Pub. L. 105–42, § 4(f), Aug. 15, 1997, 111 Stat. 1125.)
+(Pub. L. 92–522, title I, § 110, Oct. 21, 1972, 86 Stat. 1041; Pub. L. 95–136, § 1, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, § 2, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, § 5, Oct. 9, 1981, 95 Stat. 986; Pub. L. 100–711, § 4(e), Nov. 23, 1988, 102 Stat. 4768; Pub. L. 103–238, § 20, Apr. 30, 1994, 108 Stat. 560; Pub. L. 105–42, § 4(f), Aug. 15, 1997, 111 Stat. 1125.)
 
 **Editorial Notes**
 
@@ -1851,7 +1851,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-### § 1381. Commercial fisheries gear development
+### § 1381. Commercial fisheries gear development
 
 **(a) Research and development program; report to Congress; authorization of appropriations**
 
@@ -1869,7 +1869,7 @@ Additionally, the Secretary and Secretary of State are directed to commence nego
 
 Furthermore, after timely notice and during the period of research provided in this section, duly authorized agents of the Secretary are hereby empowered to board and to accompany any commercial fishing vessel documented under the laws of the United States, there being space available, on a regular fishing trip for the purpose of conducting research or observing operations in regard to the development of improved fishing methods and gear as authorized by this section. Such research and observation shall be carried out in such manner as to minimize interference with fishing operations. The Secretary shall provide for the cost of quartering and maintaining such agents. No master, operator, or owner of such a vessel shall impair or in any way interfere with the research or observation being carried out by agents of the Secretary pursuant to this section.
 
-(Pub. L. 92–522, title I, § 111, Oct. 21, 1972, 86 Stat. 1041.)
+(Pub. L. 92–522, title I, § 111, Oct. 21, 1972, 86 Stat. 1041.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1877,7 +1877,7 @@ Furthermore, after timely notice and during the period of research provided in t
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1382. Regulations and administration
+### § 1382. Regulations and administration
 
 **(a) Consultation with Federal agencies**
 
@@ -1893,9 +1893,9 @@ The Secretary may enter into such contracts, leases, cooperative agreements, or 
 
 **(d) Annual review; suspension of program**
 
-The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of 1
+The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
 
@@ -1903,15 +1903,15 @@ policies of this chapter, he shall suspend the operation of that program and sha
 
 If the Secretary determines, based on a stock assessment under section 1386 of this title or other significant new information obtained under this chapter, that impacts on rookeries, mating grounds, or other areas of similar ecological significance to marine mammals may be causing the decline or impeding the recovery of a strategic stock, the Secretary may develop and implement conservation or management measures to alleviate those impacts. Such measures shall be developed and implemented after consultation with the Marine Mammal Commission and the appropriate Federal agencies and after notice and opportunity for public comment.
 
-(Pub. L. 92–522, title I, § 112, Oct. 21, 1972, 86 Stat. 1042; Pub. L. 96–470, title II, § 201(e), Oct. 19, 1980, 94 Stat. 2241; Pub. L. 102–587, title III, § 3004(a)(3), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§ 7(a), 24(c)(11), Apr. 30, 1994, 108 Stat. 542, 566.)
+(Pub. L. 92–522, title I, § 112, Oct. 21, 1972, 86 Stat. 1042; Pub. L. 96–470, title II, § 201(e), Oct. 19, 1980, 94 Stat. 2241; Pub. L. 102–587, title III, § 3004(a)(3), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§ 7(a), 24(c)(11), Apr. 30, 1994, 108 Stat. 542, 566.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (c). Pub. L. 103–238, § 24(c)(11), made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
+1994—Subsec. (c). Pub. L. 103–238, § 24(c)(11), made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
 
-Subsec. (e). Pub. L. 103–238, § 7(a), added subsec. (e).
+Subsec. (e). Pub. L. 103–238, § 7(a), added subsec. (e).
 
 1992—Subsec. (c). Pub. L. 102–587 inserted “or subchapter V” after “of this subchapter”.
 
@@ -1923,7 +1923,7 @@ Subsec. (e). Pub. L. 103–238, § 7(a), added subsec. (e).
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1383. Application to other treaties and conventions
+### § 1383. Application to other treaties and conventions
 
 **(a) Generally; findings; waiver of penalties**
 
@@ -1941,7 +1941,7 @@ The Secretary of the Interior, in consultation with the Secretary of State and t
 
 Not later than 6 months after April 30, 1994, the Secretary of the Interior, acting through the Secretary of State and in consultation with the Marine Mammal Commission and the State of Alaska, shall consult with the appropriate officials of the Russian Federation on the development and implementation of enhanced cooperative research and management programs for the conservation of polar bears in Alaska and Russia. The Secretary shall report the results of this consultation and provide periodic progress reports on the research and management programs to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate.
 
-(Pub. L. 92–522, title I, § 113, Oct. 21, 1972, 86 Stat. 1042; Pub. L. 103–238, § 7(b), Apr. 30, 1994, 108 Stat. 542.)
+(Pub. L. 92–522, title I, § 113, Oct. 21, 1972, 86 Stat. 1042; Pub. L. 103–238, § 7(b), Apr. 30, 1994, 108 Stat. 542.)
 
 **Editorial Notes**
 
@@ -1951,9 +1951,9 @@ A prior subsec. (b) of section 113 of Pub. L. 92–522 amended section 659 of th
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–238, § 7(b)(1), directed the amendment of this section by “designating the existing paragraph” as subsec. (a), notwithstanding the existing first par. of this section was already designated (a).
+1994—Subsec. (a). Pub. L. 103–238, § 7(b)(1), directed the amendment of this section by “designating the existing paragraph” as subsec. (a), notwithstanding the existing first par. of this section was already designated (a).
 
-Subsecs. (b) to (d). Pub. L. 103–238, § 7(b)(2), added subsecs. (b) to (d). See Codification note above.
+Subsecs. (b) to (d). Pub. L. 103–238, § 7(b)(2), added subsecs. (b) to (d). See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1965,7 +1965,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 1383a. Interim exemption for commercial fisheries
+### § 1383a. Interim exemption for commercial fisheries
 
 **(a) Effective and termination dates of preemptive provisions; law governing incidental taking of marine mammals in course of commercial yellowfin tuna fishing**
 
@@ -2087,9 +2087,9 @@ Except to the extent authorized by the provisions of subsection (e), the program
 
 The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not identified under subsection (b)(1)(A)(i).
 
-**(4)** Information gathered by observers shall be subject to the provisions of subsection (j). Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate 1
+**(4)** Information gathered by observers shall be subject to the provisions of subsection (j). Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
 
@@ -2213,9 +2213,9 @@ For the purposes of this section, the owner of fixed or other commercial fishing
 
 **(o) Definitions** As used in this section—
 
-**(1)** the term “fishery” has the same meaning as it does in section 1802(8) 2
+**(1)** the term “fishery” has the same meaning as it does in section 1802(8) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title.
 
@@ -2223,9 +2223,9 @@ of this title.
 
 **(3)** the term “vessel engaged in a fishery” means a fishing vessel as defined in section 2101(12) of title 46 or a fish processing vessel as defined in section 2101(13) of that title, which is engaged in fishery.
 
-**(4)** the term “vessel of the United States” has the same meaning as it does in section 1802(27) <sup>2</sup> of this title.
+**(4)** the term “vessel of the United States” has the same meaning as it does in section 1802(27) <sup>2</sup> of this title.
 
-(Pub. L. 92–522, title I, § 114, as added Pub. L. 100–711, § 2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, § 15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, § 404(a)(1), Nov. 3, 1995, 109 Stat. 390; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(1), Aug. 13, 2018, 132 Stat. 2323.)
+(Pub. L. 92–522, title I, § 114, as added Pub. L. 100–711, § 2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, § 15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, § 404(a)(1), Nov. 3, 1995, 109 Stat. 390; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(1), Aug. 13, 2018, 132 Stat. 2323.)
 
 **Editorial Notes**
 
@@ -2251,17 +2251,17 @@ Pub. L. 103–228 substituted “May 1, 1994.” for “April 1, 1994,”.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–43, title IV, § 404(a)(2), Nov. 3, 1995, 109 Stat. 391, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective on and after April 30, 1994.”
+Pub. L. 104–43, title IV, § 404(a)(2), Nov. 3, 1995, 109 Stat. 391, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective on and after April 30, 1994.”
 
 **Abolition of House Committee on Merchant Marine and Fisheries**
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 1383b. Status review; conservation plans
+### § 1383b. Status review; conservation plans
 
 **(a) Determinations by rule; notice and hearing; findings; final rule on status of species or stock involved**
 
@@ -2293,9 +2293,9 @@ In no case after making a finding under this subparagraph shall the Secretary de
 
 **(1)** The Secretary shall prepare conservation plans—
 
-**(A)** By 1
+**(A)** By 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 December 31, 1989, for North Pacific fur seals;
 
@@ -2309,7 +2309,7 @@ December 31, 1989, for North Pacific fur seals;
 
 **(4)** If the Secretary determines that a take reduction plan is necessary to reduce the incidental taking of marine mammals in the course of commercial fishing operations from a strategic stock, or for species or stocks which interact with a commercial fishery for which the Secretary has made a determination under section 1387(f)(1) of this title, any conservation plan prepared under this subsection for such species or stock shall incorporate the take reduction plan required under section 1387 of this title for such species or stock.
 
-(Pub. L. 92–522, title I, § 115, as added Pub. L. 100–711, § 3(a), Nov. 23, 1988, 102 Stat. 4763; amended Pub. L. 103–238, § 8, Apr. 30, 1994, 108 Stat. 543.)
+(Pub. L. 92–522, title I, § 115, as added Pub. L. 100–711, § 3(a), Nov. 23, 1988, 102 Stat. 4763; amended Pub. L. 103–238, § 8, Apr. 30, 1994, 108 Stat. 543.)
 
 **Editorial Notes**
 
@@ -2317,7 +2317,7 @@ December 31, 1989, for North Pacific fur seals;
 
 1994—Subsec. (b)(4). Pub. L. 103–238 added par. (4).
 
-### § 1384. Authorization of appropriations
+### § 1384. Authorization of appropriations
 
 **(a) Department of Commerce**
 
@@ -2329,13 +2329,13 @@ December 31, 1989, for North Pacific fur seals;
 
 There are authorized to be appropriated to the Department of the Interior, for purposes of carrying out its functions and responsibilities under this subchapter, $8,000,000 for fiscal year 1994, $8,600,000 for fiscal year 1995, $9,000,000 for fiscal year 1996, $9,400,000 for fiscal year 1997, $9,900,000 for fiscal year 1998, and $10,296,000 for fiscal year 1999.
 
-(Pub. L. 92–522, title I, § 116, formerly § 114, Oct. 21, 1972, 86 Stat. 1043; Pub. L. 95–136, § 2, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, § 3, July 10, 1978, 92 Stat. 380; renumbered § 116, Pub. L. 100–711, § 2(a)(1), Nov. 23, 1988, 102 Stat. 4755; Pub. L. 103–238, § 9(a), Apr. 30, 1994, 108 Stat. 543.)
+(Pub. L. 92–522, title I, § 116, formerly § 114, Oct. 21, 1972, 86 Stat. 1043; Pub. L. 95–136, § 2, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, § 3, July 10, 1978, 92 Stat. 380; renumbered § 116, Pub. L. 100–711, § 2(a)(1), Nov. 23, 1988, 102 Stat. 4755; Pub. L. 103–238, § 9(a), Apr. 30, 1994, 108 Stat. 543.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 97–58, § 7(a), (b), Oct. 9, 1981, 95 Stat. 987; Pub. L. 98–364, title I, § 104(1), (2), July 17, 1984, 98 Stat. 442; Pub. L. 100–711, § 6(1), (2), Nov. 23, 1988, 102 Stat. 4771, prior to repeal by Pub. L. 103–238, § 9(c), Apr. 30, 1994, 108 Stat. 543.
+Provisions similar to those in this section were contained in Pub. L. 97–58, § 7(a), (b), Oct. 9, 1981, 95 Stat. 987; Pub. L. 98–364, title I, § 104(1), (2), July 17, 1984, 98 Stat. 442; Pub. L. 100–711, § 6(1), (2), Nov. 23, 1988, 102 Stat. 4771, prior to repeal by Pub. L. 103–238, § 9(c), Apr. 30, 1994, 108 Stat. 543.
 
 **Amendments**
 
@@ -2345,13 +2345,13 @@ Provisions similar to those in this section were contained in Pub. L. 97–58, �
 
 “(b) There are authorized to be appropriated not to exceed $700,000 for the fiscal year ending June 30, 1973, not to exceed $525,000 for each of the next four fiscal years thereafter, not to exceed $850,000 for the fiscal year ending September 30, 1978, not to exceed $650,000 for the fiscal year ending September 30, 1979, not to exceed $760,000 for the fiscal year ending September 30, 1980, and not to exceed $876,000 for the fiscal year ending September 30, 1981 to enable the Department of the Interior to carry out such functions and responsibilities as it may have been given under this subchapter (other than sections 1379 and 1380 of this title).”
 
-1978—Subsec. (a). Pub. L. 95–316, § 3(1), added reference to sections 1379 and 1380 of this title and provisions authorizing appropriations for the fiscal years ending Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981.
+1978—Subsec. (a). Pub. L. 95–316, § 3(1), added reference to sections 1379 and 1380 of this title and provisions authorizing appropriations for the fiscal years ending Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981.
 
-Subsec. (b). Pub. L. 95–316, § 3(2), added reference to sections 1379 and 1380 of this title and provisions authorizing appropriations for the fiscal years Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981.
+Subsec. (b). Pub. L. 95–316, § 3(2), added reference to sections 1379 and 1380 of this title and provisions authorizing appropriations for the fiscal years Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981.
 
-1977—Subsec. (a). Pub. L. 95–136, § 2(1), inserted “, and not to exceed $11,500,000 for the fiscal year ending September 30, 1978,” after “fiscal years”.
+1977—Subsec. (a). Pub. L. 95–136, § 2(1), inserted “, and not to exceed $11,500,000 for the fiscal year ending September 30, 1978,” after “fiscal years”.
 
-Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850,000 for the fiscal year ending September 30, 1978” after “thereafter”.
+Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850,000 for the fiscal year ending September 30, 1978” after “thereafter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2359,7 +2359,7 @@ Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1385. Dolphin protection
+### § 1385. Dolphin protection
 
 **(a) Short title**
 
@@ -2427,7 +2427,7 @@ which states that there was an observer approved by the International Dolphin Co
 
 **(A)** The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this section.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B)** A tuna product that bears the dolphin safe mark developed under subparagraph (A) shall not bear any other label or mark that refers to dolphins, porpoises, or marine mammals.
 
@@ -2445,7 +2445,7 @@ which states that there was an observer approved by the International Dolphin Co
 
 **(e) Additional prohibitions and enforcement**
 
-For additional prohibitions relating to this section <sup>1</sup> and enforcement of this section,<sup>1</sup> see section 1826g of this title.
+For additional prohibitions relating to this section <sup>1</sup> and enforcement of this section,<sup>1</sup> see section 1826g of this title.
 
 **(f) Regulations** The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section,<sup>1</sup> including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
 
@@ -2463,7 +2463,7 @@ For additional prohibitions relating to this section <sup>1</sup> and enforcem
 
 **(7)** The provision of timely access to data required under this subsection by the Secretary from harvesting nations to undertake the actions required in paragraph (6) of this paragraph.2
 
-<sup>2</sup>  So in original. Probably should be “this subsection”.
+<sup>2</sup> So in original. Probably should be “this subsection”.
 
 The Secretary may make such adjustments as may be appropriate to the regulations promulgated under this subsection to implement an international tracking and verification program that meets or exceeds the minimum requirements established by the Secretary under this subsection.
 
@@ -2485,7 +2485,7 @@ The Secretary may make such adjustments as may be appropriate to the regulations
 
 **(C)** after the effective date of the finding under subsection (g)(2), where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 
-(Pub. L. 101–627, title IX, § 901, Nov. 28, 1990, 104 Stat. 4465; Pub. L. 105–42, § 5, Aug. 15, 1997, 111 Stat. 1125; Pub. L. 114–81, title I, § 109, Nov. 5, 2015, 129 Stat. 659.)
+(Pub. L. 101–627, title IX, § 901, Nov. 28, 1990, 104 Stat. 4465; Pub. L. 105–42, § 5, Aug. 15, 1997, 111 Stat. 1125; Pub. L. 114–81, title I, § 109, Nov. 5, 2015, 129 Stat. 659.)
 
 **Editorial Notes**
 
@@ -2501,7 +2501,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 2015—Subsec. (e). Pub. L. 114–81 amended subsec. (e) generally. Prior to amendment, text read as follows: “Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.”
 
-1997—Subsec. (d). Pub. L. 105–42, § 5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+1997—Subsec. (d). Pub. L. 105–42, § 5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
 
@@ -2525,11 +2525,11 @@ which states that there was an approved observer on board the vessel during the 
 
 “(iii) the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product.”
 
-Subsec. (f). Pub. L. 105–42, § 5(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishing procedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
+Subsec. (f). Pub. L. 105–42, § 5(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishing procedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
 
-Subsec. (g). Pub. L. 105–42, § 5(c), added subsec. (g) and struck out former subsec. (g), which had amended section 1371 of this title.
+Subsec. (g). Pub. L. 105–42, § 5(c), added subsec. (g) and struck out former subsec. (g), which had amended section 1371 of this title.
 
-Subsecs. (h), (i). Pub. L. 105–42, § 5(c), added subsec. (h) and struck out former subsecs. (h) and (i) which read as follows:
+Subsecs. (h), (i). Pub. L. 105–42, § 5(c), added subsec. (h) and struck out former subsecs. (h) and (i) which read as follows:
 
 “(h) Negotiations.—The Secretary of State shall immediately seek, through negotiations and discussions with appropriate foreign governments, to reduce and, as soon as possible, eliminate the practice of harvesting tuna through the use of purse seine nets intentionally deployed to encircle dolphins.
 
@@ -2545,7 +2545,7 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
-### § 1386. Stock assessments
+### § 1386. Stock assessments
 
 **(a) In general** Not later than August 1, 1994, the Secretary shall, in consultation with the appropriate regional scientific review group established under subsection (d), prepare a draft stock assessment for each marine mammal stock which occurs in waters under the jurisdiction of the United States. Each draft stock assessment, based on the best scientific information available, shall—
 
@@ -2623,7 +2623,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 This section shall not affect or otherwise modify the provisions of section 1371(b) of this title.
 
-(Pub. L. 92–522, title I, § 117, as added Pub. L. 103–238, § 10, Apr. 30, 1994, 108 Stat. 543; amended Pub. L. 117–286, § 4(a)(108), Dec. 27, 2022, 136 Stat. 4317.)
+(Pub. L. 92–522, title I, § 117, as added Pub. L. 103–238, § 10, Apr. 30, 1994, 108 Stat. 543; amended Pub. L. 117–286, § 4(a)(108), Dec. 27, 2022, 136 Stat. 4317.)
 
 **Editorial Notes**
 
@@ -2631,7 +2631,7 @@ This section shall not affect or otherwise modify the provisions of section 1371
 
 2022—Subsec. (d)(2). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 App. U.S.C.).”
 
-### § 1387. Taking of marine mammals incidental to commercial fishing operations
+### § 1387. Taking of marine mammals incidental to commercial fishing operations
 
 **(a) In general**
 
@@ -2639,9 +2639,9 @@ This section shall not affect or otherwise modify the provisions of section 1371
 
 **(2)** In the case of the incidental taking of marine mammals from species or stocks designated under this chapter as depleted on the basis of their listing as threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), both this section and section 1371(a)(5)(E) of this title shall apply.
 
-**(3)** Sections 1
+**(3)** Sections 1
 
-<sup>1</sup>  So in original. Probably should be “Section”.
+<sup>1</sup> So in original. Probably should be “Section”.
 
 1374(h) of this title and subchapter IV, and not this section, shall govern the taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean.
 
@@ -2967,13 +2967,13 @@ The Secretary shall consult with the Secretary of the Interior prior to taking a
 
 As used in this section and section 1371(a)(5)(E) of this title, each of the terms “fishery” and “vessel of the United States” has the same meaning it does in section 1802 of this title.
 
-(Pub. L. 92–522, title I, § 118, as added Pub. L. 103–238, § 11, Apr. 30, 1994, 108 Stat. 546; amended Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 117–286, § 4(a)(109), Dec. 27, 2022, 136 Stat. 4317.)
+(Pub. L. 92–522, title I, § 118, as added Pub. L. 103–238, § 11, Apr. 30, 1994, 108 Stat. 546; amended Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 117–286, § 4(a)(109), Dec. 27, 2022, 136 Stat. 4317.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions set out as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -2987,7 +2987,7 @@ Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Abolition of House Committee on Merchant Marine and Fisheries**
 
@@ -2995,7 +2995,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 **North Atlantic Right Whales and Regulations**
 
-Pub. L. 117–328, div. JJ, title I, § 101, Dec. 29, 2022, 136 Stat. 6089, provided that:
+Pub. L. 117–328, div. JJ, title I, § 101, Dec. 29, 2022, 136 Stat. 6089, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law except as provided in subsection (b), for the period beginning on the date of enactment of this Act [Dec. 29, 2022] and ending on December 31, 2028, the Final Rule amending the regulations implementing the Atlantic Large Whale Take Reduction Plan (86 Fed. Reg. 51970) shall be deemed sufficient to ensure that the continued Federal and State authorizations of the American lobster and Jonah crab fisheries are in full compliance with the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) and the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.). The National Marine Fisheries Service shall—
 
@@ -3007,7 +3007,7 @@ Pub. L. 117–328, div. JJ, title I, § 101, Dec. 29, 2022, 136 Stat. 6089, pr
 
 > **“(b) Exception.—** The provisions of subsection (a) shall not apply to an existing emergency rule, or any action taken to extend or make final an emergency rule that is in place on the date of enactment of this Act, affecting lobster and Jonah crab.”
 
-### § 1388. Marine mammal cooperative agreements in Alaska
+### § 1388. Marine mammal cooperative agreements in Alaska
 
 **(a) In general**
 
@@ -3037,9 +3037,9 @@ The Secretary may enter into cooperative agreements with Alaska Native organizat
 
 The amounts authorized to be appropriated under this subsection are in addition to the amounts authorized to be appropriated under section 1384 of this title.
 
-(Pub. L. 92–522, title I, § 119, as added Pub. L. 103–238, § 19, Apr. 30, 1994, 108 Stat. 559.)
+(Pub. L. 92–522, title I, § 119, as added Pub. L. 103–238, § 19, Apr. 30, 1994, 108 Stat. 559.)
 
-### § 1389. Pacific Coast Task Force; Gulf of Maine
+### § 1389. Pacific Coast Task Force; Gulf of Maine
 
 **(a) Pinniped removal authority**
 
@@ -3169,9 +3169,9 @@ A committee established under this subparagraph may take action with respect to 
 
 **(iv) Nonapplicability of FACA**
 
-The Federal Advisory Committee Act (5 U.S.C. App.) 1
+The Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to a committee established under this subparagraph.
 
@@ -3223,15 +3223,15 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 **(2)** In developing and implementing a take reduction plan under section 1387 of this title for Gulf of Maine harbor porpoise, the Secretary shall consider all actions already taken to reduce incidental mortality and serious injury of such stock, and may, based on the recommendations of the take reduction team for such stock, modify the time period required for compliance with section 1387(f)(5)(A) of this title, but in no case may such modification extend the date of compliance beyond April 1, 1997.
 
-(Pub. L. 92–522, title I, § 120, as added Pub. L. 103–238, § 23, Apr. 30, 1994, 108 Stat. 562; amended Pub. L. 115–329, § 3, Dec. 18, 2018, 132 Stat. 4475; Pub. L. 117–286, § 4(a)(110), Dec. 27, 2022, 136 Stat. 4317.)
+(Pub. L. 92–522, title I, § 120, as added Pub. L. 103–238, § 23, Apr. 30, 1994, 108 Stat. 562; amended Pub. L. 115–329, § 3, Dec. 18, 2018, 132 Stat. 4475; Pub. L. 117–286, § 4(a)(110), Dec. 27, 2022, 136 Stat. 4317.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Amendments**
 
@@ -3247,9 +3247,9 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 **Treaty Rights of Federally Recognized Indian Tribes**
 
-Pub. L. 115–329, § 4, Dec. 18, 2018, 132 Stat. 4478, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under section 1361 of this title] or the amendments made by this Act shall be construed to enlarge, confirm, adjudicate, affect, or modify any treaty or other right of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).”
+Pub. L. 115–329, § 4, Dec. 18, 2018, 132 Stat. 4478, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under section 1361 of this title] or the amendments made by this Act shall be construed to enlarge, confirm, adjudicate, affect, or modify any treaty or other right of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).”
 
-### § 1390. Assistance to ports to reduce impacts of vessel traffic and port operations on marine mammals
+### § 1390. Assistance to ports to reduce impacts of vessel traffic and port operations on marine mammals
 
 **(a) In general**
 
@@ -3317,13 +3317,13 @@ From funds otherwise appropriated to the Under Secretary, $10,000,000 is authori
 
 An activity may not be carried out under this section if the Secretary of Defense, in consultation with the Under Secretary, determines that the activity would negatively impact the defense readiness or the national security of the United States.
 
-(Pub. L. 117–263, div. K, title CXIII, § 11302, Dec. 23, 2022, 136 Stat. 4070.)
+(Pub. L. 117–263, div. K, title CXIII, § 11302, Dec. 23, 2022, 136 Stat. 4070.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (c)(3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (c)(3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Codification**
 
@@ -3333,7 +3333,7 @@ Section was enacted as part of the Don Young Coast Guard Authorization Act of 20
 
 **Pilot Program To Establish a Cetacean Desk for Puget Sound Region**
 
-Pub. L. 117–263, div. K, title CXIII, § 11304, Dec. 23, 2022, 136 Stat. 4075, as amended by Pub. L. 119–60, div. G, title LXXIII, § 7344, Dec. 18, 2025, 139 Stat. 1778, provided that:
+Pub. L. 117–263, div. K, title CXIII, § 11304, Dec. 23, 2022, 136 Stat. 4075, as amended by Pub. L. 119–60, div. G, title LXXIII, § 7344, Dec. 18, 2025, 139 Stat. 1778, provided that:
 
 > **“(a) Establishment.—**
 
@@ -3425,9 +3425,9 @@ Pub. L. 117–263, div. K, title CXIII, § 11304, Dec. 23, 2022, 136 Stat. 407
 
 For definition of “Secretary” as used in this section, see section 11002 of div. K of Pub. L. 117–263, set out as a note under section 106 of Title 14, Coast Guard.
 
-Pub. L. 117–263, div. K, title CXIII, § 11301, Dec. 23, 2022, 136 Stat. 4069, provided that:
+Pub. L. 117–263, div. K, title CXIII, § 11301, Dec. 23, 2022, 136 Stat. 4069, provided that:
 
-> “In this subtitle [subtitle A (§§ 11301–11305) of title CXIII of div. K of Pub. L. 117–263, enacting this section and sections 1391 and 1392 of this title and provisions set out as a note under this section]:
+> “In this subtitle [subtitle A (§§ 11301–11305) of title CXIII of div. K of Pub. L. 117–263, enacting this section and sections 1391 and 1392 of this title and provisions set out as a note under this section]:
 
 > **“(1) Appropriate congressional committees.—** The term ‘appropriate congressional committees’ means—
 
@@ -3463,7 +3463,7 @@ Pub. L. 117–263, div. K, title CXIII, § 11301, Dec. 23, 2022, 136 Stat. 406
 
 > **“(10) Under Secretary.—** The term ‘Under Secretary’ means the Under Secretary of Commerce for Oceans and Atmosphere.”
 
-### § 1391. Near real-time monitoring and mitigation program for large cetaceans
+### § 1391. Near real-time monitoring and mitigation program for large cetaceans
 
 **(a) Establishment**
 
@@ -3589,7 +3589,7 @@ An activity may not be carried out under this section if the Secretary of Defens
 
 From funds otherwise appropriated to the Under Secretary $5,000,000 is authorized to support development, deployment, application, and ongoing maintenance of the Program and to otherwise carry out this section for each of fiscal years 2023 through 2027.
 
-(Pub. L. 117–263, div. K, title CXIII, § 11303, Dec. 23, 2022, 136 Stat. 4072.)
+(Pub. L. 117–263, div. K, title CXIII, § 11303, Dec. 23, 2022, 136 Stat. 4072.)
 
 **Editorial Notes**
 
@@ -3605,7 +3605,7 @@ For definition of “Secretary” as used in this section, see section 11002 of 
 
 For definitions of terms used in this section, see section 11301 of div. K of Pub. L. 117–263, set out as a note under section 1390 of this title.
 
-### § 1392. Monitoring ocean soundscapes
+### § 1392. Monitoring ocean soundscapes
 
 **(a) In general** The Under Secretary shall maintain and expand an ocean soundscape development program to—
 
@@ -3635,7 +3635,7 @@ An activity may not be carried out under this section if the Secretary of Defens
 
 From funds otherwise appropriated to the Under Secretary, $1,500,000 is authorized for each of fiscal years 2023 through 2028 to carry out this section.
 
-(Pub. L. 117–263, div. K, title CXIII, § 11305, Dec. 23, 2022, 136 Stat. 4077.)
+(Pub. L. 117–263, div. K, title CXIII, § 11305, Dec. 23, 2022, 136 Stat. 4077.)
 
 **Editorial Notes**
 
@@ -3649,15 +3649,15 @@ Section was enacted as part of the Don Young Coast Guard Authorization Act of 20
 
 For definitions of terms used in this section, see section 11301 of div. K of Pub. L. 117–263, set out as a note under section 1390 of this title.
 
-### § 1393. Conservation and mitigation assistance
+### § 1393. Conservation and mitigation assistance
 
 **(a) Assistance**
 
 **(1) In general**
 
-Not later than 180 days after December 29, 2022, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere (in this title 1
+Not later than 180 days after December 29, 2022, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere (in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 referred to as the “Under Secretary”) shall establish a program to provide competitive financial assistance, on an annual basis, and cooperative agreements including multiyear grants and direct payment, to eligible entities for eligible uses, such as projects designed to reduce the lethal and sub-lethal effects of human activities on North Atlantic right whales.
 
@@ -3725,7 +3725,7 @@ Each individual or entity that receives assistance under this section for a proj
 
 Reports under paragraph (1) shall be made available to the public in a timely manner.
 
-(Pub. L. 117–328, div. JJ, title II, § 201, Dec. 29, 2022, 136 Stat. 6090.)
+(Pub. L. 117–328, div. JJ, title II, § 201, Dec. 29, 2022, 136 Stat. 6090.)
 
 **Editorial Notes**
 
@@ -3733,11 +3733,11 @@ Reports under paragraph (1) shall be made available to the public in a timely ma
 
 This title, referred to in subsec. (a)(1), (3), means title II of div. JJ of Pub. L. 117–328, which enacted this section and provisions set out as notes under this section. For complete classification of title II to the Code, see Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The Marine Mammal Protection Act of 1972, referred to in subsec. (a)(2), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The National Fish and Wildlife Foundation Establishment Act, referred to in subsec. (a)(3), is Pub. L. 98–244, Mar. 26, 1984, 98 Stat. 107, which is classified generally to chapter 57 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title.
+The National Fish and Wildlife Foundation Establishment Act, referred to in subsec. (a)(3), is Pub. L. 98–244, Mar. 26, 1984, 98 Stat. 107, which is classified generally to chapter 57 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title.
 
 **Codification**
 
@@ -3747,15 +3747,15 @@ Section was enacted as part of the Consolidated Appropriations Act, 2023, and no
 
 **Report to Congress**
 
-Pub. L. 117–328, div. JJ, title II, § 202, Dec. 29, 2022, 136 Stat. 6092, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 29, 2022], and every 5 years thereafter, the Under Secretary [of Commerce for Oceans and Atmosphere] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on the results and effectiveness of projects receiving assistance provided under this title [enacting this section and provisions set out as notes under this section].”
+Pub. L. 117–328, div. JJ, title II, § 202, Dec. 29, 2022, 136 Stat. 6092, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 29, 2022], and every 5 years thereafter, the Under Secretary [of Commerce for Oceans and Atmosphere] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on the results and effectiveness of projects receiving assistance provided under this title [enacting this section and provisions set out as notes under this section].”
 
 **Acceptance and Use of Donations**
 
-Pub. L. 117–328, div. JJ, title II, § 203(b), Dec. 29, 2022, 136 Stat. 6092, provided that: “The Under Secretary [of Commerce for Oceans and Atmosphere] may accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, consistent with policy of the Department of Commerce in effect on the date of enactment of this Act [Dec. 29, 2022], to provide assistance under section 201 [16 U.S.C. 1393].”
+Pub. L. 117–328, div. JJ, title II, § 203(b), Dec. 29, 2022, 136 Stat. 6092, provided that: “The Under Secretary [of Commerce for Oceans and Atmosphere] may accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, consistent with policy of the Department of Commerce in effect on the date of enactment of this Act [Dec. 29, 2022], to provide assistance under section 201 [16 U.S.C. 1393].”
 
 ## SUBCHAPTER III—MARINE MAMMAL COMMISSION
 
-### § 1401. Establishment
+### § 1401. Establishment
 
 **(a) Designation**
 
@@ -3779,7 +3779,7 @@ Members of the Commission shall each be compensated at a rate equal to the daily
 
 The Commission shall have an Executive Director, who shall be appointed (without regard to the provisions of title 5 governing appointments in the competitive service) by the Chairman with the approval of the Commission and shall be paid at a rate not in excess of the rate for GS–18 of the General Schedule under section 5332 of title 5. The Executive Director shall have such duties as the Chairman may assign.
 
-(Pub. L. 92–522, title II, § 201, Oct. 21, 1972, 86 Stat. 1043; Pub. L. 97–389, title II, § 202, Dec. 29, 1982, 96 Stat. 1951; Pub. L. 98–364, title I, § 103(a), July 17, 1984, 98 Stat. 441.)
+(Pub. L. 92–522, title II, § 201, Oct. 21, 1972, 86 Stat. 1043; Pub. L. 97–389, title II, § 202, Dec. 29, 1982, 96 Stat. 1951; Pub. L. 98–364, title I, § 103(a), July 17, 1984, 98 Stat. 441.)
 
 **Editorial Notes**
 
@@ -3797,9 +3797,9 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 1402. Duties of Commission
+### § 1402. Duties of Commission
 
 **(a) Reports and recommendations** The Commission shall—
 
@@ -3819,9 +3819,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(b) Consultation with Secretary; reports to Secretary before publication**
 
-The Commission shall consult with the Secretary at such intervals as it or he may deem desirable, and shall provide each annual report required under section 1404 1
+The Commission shall consult with the Secretary at such intervals as it or he may deem desirable, and shall provide each annual report required under section 1404 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, before submission to Congress, to the Secretary for comment.
 
@@ -3833,21 +3833,21 @@ The reports and recommendations which the Commission makes shall be matters of p
 
 Any recommendations made by the Commission to the Secretary and other Federal officials shall be responded to by those individuals within one hundred and twenty days after receipt thereof. Any recommendations which are not followed or adopted shall be referred to the Commission together with a detailed explanation of the reasons why those recommendations were not followed or adopted.
 
-(Pub. L. 92–522, title II, § 202, Oct. 21, 1972, 86 Stat. 1044; Pub. L. 93–205, § 13(e)(4), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, § 6(1), Oct. 9, 1981, 95 Stat. 987; Pub. L. 100–711, § 5(e)(4), Nov. 23, 1988, 102 Stat. 4771.)
+(Pub. L. 92–522, title II, § 202, Oct. 21, 1972, 86 Stat. 1044; Pub. L. 93–205, § 13(e)(4), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, § 6(1), Oct. 9, 1981, 95 Stat. 987; Pub. L. 100–711, § 5(e)(4), Nov. 23, 1988, 102 Stat. 4771.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
+The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
-The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, which is classified generally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
+The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, which is classified generally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
 
 Section 1404 of this title, referred to in subsec. (b), was omitted from the Code.
 
 **Amendments**
 
-1988—Subsec. (a)(2). Pub. L. 100–711 inserted “, public display, or enhancing the survival or recovery of a species or stock” after “scientific research”.
+1988—Subsec. (a)(2). Pub. L. 100–711 inserted “, public display, or enhancing the survival or recovery of a species or stock” after “scientific research”.
 
 1981—Subsec. (b). Pub. L. 97–58 substituted “provide each annual report required under section 1404 of this title, before submission to Congress, to the Secretary for comment” for “furnish its reports and recommendations to him, before publication, for his comment”.
 
@@ -3863,7 +3863,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1403. Committee of Scientific Advisors on Marine Mammals
+### § 1403. Committee of Scientific Advisors on Marine Mammals
 
 **(a) Establishment; membership**
 
@@ -3877,7 +3877,7 @@ Except for United States Government employees, members of the Committee shall ea
 
 The Commission shall consult with the Committee on all studies and recommendations which it may propose to make or has made, on research programs conducted or proposed to be conducted under the authority of this chapter, and on all applications for permits for scientific research. Any recommendations made by the Committee or any of its members which are not adopted by the Commission shall be transmitted by the Commission to the appropriate Federal agency and to the appropriate committees of Congress with a detailed explanation of the Commission’s reasons for not accepting such recommendations.
 
-(Pub. L. 92–522, title II, § 203, Oct. 21, 1972, 86 Stat. 1044.)
+(Pub. L. 92–522, title II, § 203, Oct. 21, 1972, 86 Stat. 1044.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3891,21 +3891,21 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 1404. Omitted
+### § 1404. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 92–522, title II, § 204, Oct. 21, 1972, 86 Stat. 1045, which required the Marine Mammal Commission to transmit to Congress, by January 31 of each year, a report including a description of the Commission’s activities and accomplishments during the preceding year and all findings and recommendations made by and to the Commission pursuant to section 1402 of this title together with responses made to those recommendations, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 176 of House Document No. 103–7.
+Section, Pub. L. 92–522, title II, § 204, Oct. 21, 1972, 86 Stat. 1045, which required the Marine Mammal Commission to transmit to Congress, by January 31 of each year, a report including a description of the Commission’s activities and accomplishments during the preceding year and all findings and recommendations made by and to the Commission pursuant to section 1402 of this title together with responses made to those recommendations, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 176 of House Document No. 103–7.
 
-### § 1405. Coordination with other Federal agencies
+### § 1405. Coordination with other Federal agencies
 
 The Commission shall have access to all studies and data compiled by Federal agencies regarding marine mammals. With the consent of the appropriate Secretary or Agency head, the Commission may also utilize the facilities or services of any Federal agency and shall take every feasible step to avoid duplication of research and to carry out the purposes of this chapter.
 
-(Pub. L. 92–522, title II, § 205, Oct. 21, 1972, 86 Stat. 1045.)
+(Pub. L. 92–522, title II, § 205, Oct. 21, 1972, 86 Stat. 1045.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3913,7 +3913,7 @@ The Commission shall have access to all studies and data compiled by Federal age
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1406. Administration
+### § 1406. Administration
 
 The Commission, in carrying out its responsibilities under this subchapter, may—
 
@@ -3927,13 +3927,13 @@ The Commission, in carrying out its responsibilities under this subchapter, may�
 
 **(5)** incur such necessary expenses and exercise such other powers, as are consistent with and reasonably required to perform its functions under this subchapter; except that no fewer than 11 employees must be employed under paragraph (1) at any time. Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel, and procurement) shall be provided the Commission by the General Services Administration, for which payment shall be made in advance, or by reimbursement from funds of the Commission in such amounts as may be agreed upon by the Chairman and the Administrator of General Services.
 
-(Pub. L. 92–522, title II, § 206, Oct. 21, 1972, 86 Stat. 1045; Pub. L. 97–58, § 6(2), Oct. 9, 1981, 95 Stat. 987; Pub. L. 98–364, title I, § 103(b), July 17, 1984, 98 Stat. 442.)
+(Pub. L. 92–522, title II, § 206, Oct. 21, 1972, 86 Stat. 1045; Pub. L. 97–58, § 6(2), Oct. 9, 1981, 95 Stat. 987; Pub. L. 98–364, title I, § 103(b), July 17, 1984, 98 Stat. 442.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Par. (5). Pub. L. 98–364 inserted “; except that no fewer than 11 employees must be employed under paragraph (1) at any time” at end.
+1984—Par. (5). Pub. L. 98–364 inserted “; except that no fewer than 11 employees must be employed under paragraph (1) at any time” at end.
 
 1981—Par. (3). Pub. L. 97–58 substituted “contracts or agreements with, or provide such grants to, other organizations” for “contracts or agreements with other organizations”.
 
@@ -3943,17 +3943,17 @@ The Commission, in carrying out its responsibilities under this subchapter, may�
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
-### § 1407. Authorization of appropriations
+### § 1407. Authorization of appropriations
 
 There are authorized to be appropriated to the Marine Mammal Commission, for purposes of carrying out this subchapter, $1,500,000 for fiscal year 1994, $1,550,000 for fiscal year 1995, $1,600,000 for fiscal year 1996, $1,650,000 for fiscal year 1997, $1,700,000 for fiscal year 1998, and $1,750,000 for fiscal year 1999.
 
-(Pub. L. 92–522, title II, § 207, Oct. 21, 1972, 86 Stat. 1046; Pub. L. 95–136, § 3, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, § 4, July 10, 1978, 92 Stat. 381; Pub. L. 103–238, § 9(b), Apr. 30, 1994, 108 Stat. 543.)
+(Pub. L. 92–522, title II, § 207, Oct. 21, 1972, 86 Stat. 1046; Pub. L. 95–136, § 3, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, § 4, July 10, 1978, 92 Stat. 381; Pub. L. 103–238, § 9(b), Apr. 30, 1994, 108 Stat. 543.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 97–58, § 7(c), Oct. 9, 1981, 95 Stat. 987; Pub. L. 98–364, title I, § 104(3), July 17, 1984, 98 Stat. 442; Pub. L. 100–711, § 6(3), Nov. 23, 1988, 102 Stat. 4771, prior to repeal by Pub. L. 103–238, § 9(c).
+Provisions similar to those in this section were contained in Pub. L. 97–58, § 7(c), Oct. 9, 1981, 95 Stat. 987; Pub. L. 98–364, title I, § 104(3), July 17, 1984, 98 Stat. 442; Pub. L. 100–711, § 6(3), Nov. 23, 1988, 102 Stat. 4771, prior to repeal by Pub. L. 103–238, § 9(c).
 
 **Amendments**
 
@@ -3971,7 +3971,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 ## SUBCHAPTER IV—INTERNATIONAL DOLPHIN CONSERVATION PROGRAM
 
-### § 1411. Findings and policy
+### § 1411. Findings and policy
 
 **(a) Findings** The Congress finds the following:
 
@@ -3995,7 +3995,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 **(5)** encourage observer coverage on purse seine vessels fishing for tuna outside of the eastern tropical Pacific Ocean in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals.
 
-(Pub. L. 92–522, title III, § 301, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3425; amended Pub. L. 105–42, § 6(b), Aug. 15, 1997, 111 Stat. 1129.)
+(Pub. L. 92–522, title III, § 301, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3425; amended Pub. L. 105–42, § 6(b), Aug. 15, 1997, 111 Stat. 1129.)
 
 **Editorial Notes**
 
@@ -4005,9 +4005,9 @@ Another section 301 of Pub. L. 92–522 was renumbered section 401 and is classi
 
 **Amendments**
 
-1997—Subsec. (a)(4). Pub. L. 105–42, § 6(b)(1), added par. (4) and struck out former par. (4) which read as follows: “Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have indicated their willingness to participate in appropriate multilateral agreements to reduce, and eventually eliminate, dolphin mortality in that fishery.”
+1997—Subsec. (a)(4). Pub. L. 105–42, § 6(b)(1), added par. (4) and struck out former par. (4) which read as follows: “Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have indicated their willingness to participate in appropriate multilateral agreements to reduce, and eventually eliminate, dolphin mortality in that fishery.”
 
-Subsec. (b)(2), (3). Pub. L. 105–42, § 6(b)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (b)(2), (3). Pub. L. 105–42, § 6(b)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) secure appropriate multilateral agreements to reduce, and eventually eliminate, the mortality referred to in paragraph (1);
 
@@ -4019,7 +4019,7 @@ Subsec. (b)(2), (3). Pub. L. 105–42, § 6(b)(2), added pars. (2) and (3) and
 
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
-### § 1412. International Dolphin Conservation Program
+### § 1412. International Dolphin Conservation Program
 
 The Secretary of State, in consultation with the Secretary, shall seek to secure a binding international agreement to establish an International Dolphin Conservation Program that requires—
 
@@ -4051,13 +4051,13 @@ The Secretary of State, in consultation with the Secretary, shall seek to secure
 
 **(8)** the provision of a system of incentives to vessel captains to continue to reduce dolphin mortality, with the goal of eliminating dolphin mortality.
 
-(Pub. L. 92–522, title III, § 302, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.)
+(Pub. L. 92–522, title III, § 302, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1412, Pub. L. 92–522, title III, § 302, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3426, related to international agreements to establish global moratorium to prohibit certain tuna harvesting practices prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
+A prior section 1412, Pub. L. 92–522, title III, § 302, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3426, related to international agreements to establish global moratorium to prohibit certain tuna harvesting practices prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
 
 A prior section 302 of Pub. L. 92–522 was renumbered section 402 and is classified to section 1421a of this title.
 
@@ -4067,7 +4067,7 @@ A prior section 302 of Pub. L. 92–522 was renumbered section 402 and is classi
 
 For effective date of section, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 
-### § 1413. Regulatory authority of Secretary
+### § 1413. Regulatory authority of Secretary
 
 **(a) Regulations**
 
@@ -4137,17 +4137,17 @@ In developing any regulation under this section, the Secretary shall consult wit
 
 **(C)** if they indicate that the actions taken do not address the problem adequately, include recommendations of such additional action to be taken as may be necessary.
 
-(Pub. L. 92–522, title III, § 303, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1131.)
+(Pub. L. 92–522, title III, § 303, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1131.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 1413, Pub. L. 92–522, title III, § 303, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3426, related to research programs prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
+A prior section 1413, Pub. L. 92–522, title III, § 303, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3426, related to research programs prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
 
 A prior section 303 of Pub. L. 92–522 was renumbered section 403 and is classified to section 1421b of this title.
 
@@ -4157,9 +4157,9 @@ A prior section 303 of Pub. L. 92–522 was renumbered section 403 and is classi
 
 For effective date of section, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 
-### § 1414. Repealed. Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130
+### § 1414. Repealed. Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130
 
-Section, Pub. L. 92–522, title III, § 304, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3428, related to reviews, reports, and recommendations by Secretary of Commerce.
+Section, Pub. L. 92–522, title III, § 304, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3428, related to reviews, reports, and recommendations by Secretary of Commerce.
 
 A prior section 304 of Pub. L. 92–522 was renumbered section 404 and is classified to section 1421c of this title.
 
@@ -4169,7 +4169,7 @@ A prior section 304 of Pub. L. 92–522 was renumbered section 404 and is classi
 
 For effective date of repeal, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 
-### § 1414a. Research
+### § 1414a. Research
 
 **(a) Required research**
 
@@ -4223,7 +4223,7 @@ In addition to conducting the research described in subsection (a), the Secretar
 
 **(2)** In addition to the amount authorized to be appropriated under paragraph (1), there are authorized to be appropriated to the Secretary for carrying out this section $3,000,000 for each of the fiscal years 1998, 1999, 2000, and 2001.
 
-(Pub. L. 92–522, title III, § 304, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1133.)
+(Pub. L. 92–522, title III, § 304, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1133.)
 
 **Editorial Notes**
 
@@ -4237,7 +4237,7 @@ A prior section 304 of Pub. L. 92–522 was classified to section 1414 of this t
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-### § 1415. Reports by Secretary
+### § 1415. Reports by Secretary
 
 Notwithstanding section 1373(f) of this title, the Secretary shall submit annual reports to the Congress which include—
 
@@ -4255,13 +4255,13 @@ Notwithstanding section 1373(f) of this title, the Secretary shall submit annual
 
 **(7)** any other information deemed relevant by the Secretary.
 
-(Pub. L. 92–522, title III, § 305, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1134.)
+(Pub. L. 92–522, title III, § 305, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1134.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1415, Pub. L. 92–522, title III, § 305, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3428, related to international commitments, prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
+A prior section 1415, Pub. L. 92–522, title III, § 305, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3428, related to international commitments, prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
 
 A prior section 305 of Pub. L. 92–522 was renumbered section 405 and is classified to section 1421d of this title.
 
@@ -4271,7 +4271,7 @@ A prior section 305 of Pub. L. 92–522 was renumbered section 405 and is classi
 
 For effective date of section, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 
-### § 1416. Permits
+### § 1416. Permits
 
 **(a) In general**
 
@@ -4317,7 +4317,7 @@ the Secretary may—
 
 **(5)** No sanctions shall be imposed under this section unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this subchapter or otherwise.
 
-(Pub. L. 92–522, title III, § 306, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1135.)
+(Pub. L. 92–522, title III, § 306, as added Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1135.)
 
 **Editorial Notes**
 
@@ -4327,7 +4327,7 @@ For effective date of the International Dolphin Conservation Program Act [Pub. L
 
 **Prior Provisions**
 
-A prior section 1416, Pub. L. 92–522, title III, § 306, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3430, related to permits for taking dolphins, prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
+A prior section 1416, Pub. L. 92–522, title III, § 306, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3430, related to permits for taking dolphins, prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
 
 A prior section 306 of Pub. L. 92–522 was renumbered section 406 and is classified to section 1421e of this title.
 
@@ -4337,19 +4337,19 @@ A prior section 306 of Pub. L. 92–522 was renumbered section 406 and is classi
 
 For effective date of section, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 
-### § 1417. Prohibitions
+### § 1417. Prohibitions
 
 **(a) In general** It is unlawful—
 
 **(1)** for any person to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product unless the tuna or tuna product is either dolphin safe or has been harvested in compliance with the International Dolphin Conservation Program by a country that is a member of the Inter-American Tropical Tuna Commission or has initiated and within 6 months thereafter completed all steps required of applicant nations in accordance with Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
 
-**(2)** except as provided for in subsection 1
+**(2)** except as provided for in subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
-1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and 2
+1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and 2
 
-<sup>2</sup>  So in original. The word “and” probably should not appear.
+<sup>2</sup> So in original. The word “and” probably should not appear.
 
 **(3)** for any person to import any yellowfin tuna or yellowfin tuna product or any other fish or fish product in violation of a ban on importation imposed under section 1371(a)(2) of this title;
 
@@ -4373,7 +4373,7 @@ A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall
 
 Any vessel (including its fishing gear, appurtenances, stores, and cargo) used, and any fish (or its fair market value) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by this section shall be subject to forfeiture to the United States in the manner provided in section 1860 of this title.
 
-(Pub. L. 92–522, title III, § 307, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3431; amended Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–42, § 6(d), Aug. 15, 1997, 111 Stat. 1136.)
+(Pub. L. 92–522, title III, § 307, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3431; amended Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–42, § 6(d), Aug. 15, 1997, 111 Stat. 1136.)
 
 **Editorial Notes**
 
@@ -4383,7 +4383,7 @@ Another section 307 of Pub. L. 92–522 was renumbered section 407 and is classi
 
 **Amendments**
 
-1997—Subsec. (a)(1) to (3). Pub. L. 105–42, § 6(d)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+1997—Subsec. (a)(1) to (3). Pub. L. 105–42, § 6(d)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) for any person, after June 1, 1994, to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product that is not dolphin safe;
 
@@ -4397,9 +4397,9 @@ Another section 307 of Pub. L. 92–522 was renumbered section 407 and is classi
 
 “(3) for any person to import any yellowfin tuna or yellowfin tuna product or any other fish or fish product in violation of a ban on importation imposed under section 1415(b)(1) or (2) of this title;”.
 
-Subsec. (b)(2). Pub. L. 105–42, § 6(d)(2), inserted “(a)(5) or” before “(a)(6)”.
+Subsec. (b)(2). Pub. L. 105–42, § 6(d)(2), inserted “(a)(5) or” before “(a)(6)”.
 
-Subsec. (d). Pub. L. 105–42, § 6(d)(3), struck out heading and text of subsec. (d). Text read as follows: “For purposes of this section, tuna or a tuna product is dolphin safe if—
+Subsec. (d). Pub. L. 105–42, § 6(d)(3), struck out heading and text of subsec. (d). Text read as follows: “For purposes of this section, tuna or a tuna product is dolphin safe if—
 
 “(1) it does not contain tuna that was harvested on the high seas by a vessel engaged in driftnet fishing, as that term is defined in section 4003 of the Driftnet Impact, Monitoring, Assessment, and Control Act of 1987;
 
@@ -4419,11 +4419,11 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
-### § 1418. Repealed. Pub. L. 105–42, § 6(e), Aug. 15, 1997, 111 Stat. 1137
+### § 1418. Repealed. Pub. L. 105–42, § 6(e), Aug. 15, 1997, 111 Stat. 1137
 
-Section, Pub. L. 92–522, title III, § 308, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3432, related to authorization of appropriations.
+Section, Pub. L. 92–522, title III, § 308, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3432, related to authorization of appropriations.
 
 Another section 308 of Pub. L. 92–522 was renumbered section 409, and is classified to section 1421g of this title.
 
@@ -4435,7 +4435,7 @@ For effective date of repeal, see section 8 of Pub. L. 105–42, set out as an E
 
 ## SUBCHAPTER V—MARINE MAMMAL HEALTH AND STRANDING RESPONSE
 
-### § 1421. Establishment of Program
+### § 1421. Establishment of Program
 
 **(a) Establishment**
 
@@ -4449,19 +4449,19 @@ The Secretary shall, in consultation with the Secretary of the Interior, the Mar
 
 **(3)** coordinate effective responses to unusual mortality events by establishing a process in the Department of Commerce in accordance with section 1421c of this title.
 
-(Pub. L. 92–522, title IV, § 401, formerly title III, § 301, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5060; renumbered title IV, § 401, and amended Pub. L. 103–238, § 24(b), (c)(1), Apr. 30, 1994, 108 Stat. 565, 566.)
+(Pub. L. 92–522, title IV, § 401, formerly title III, § 301, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5060; renumbered title IV, § 401, and amended Pub. L. 103–238, § 24(b), (c)(1), Apr. 30, 1994, 108 Stat. 565, 566.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (b)(3). Pub. L. 103–238, § 24(c)(1), made technical amendment to reference to section 1421c of this title to reflect renumbering of corresponding section of original act.
+1994—Subsec. (b)(3). Pub. L. 103–238, § 24(c)(1), made technical amendment to reference to section 1421c of this title to reflect renumbering of corresponding section of original act.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings**
 
-Pub. L. 102–587, title III, § 3002, Nov. 4, 1992, 106 Stat. 5060, provided that:
+Pub. L. 102–587, title III, § 3002, Nov. 4, 1992, 106 Stat. 5060, provided that:
 
 > “The Congress finds the following:
 
@@ -4481,7 +4481,7 @@ Pub. L. 102–587, title III, § 3002, Nov. 4, 1992, 106 Stat. 5060, provided 
 
 > **“(8)** Information on marine mammals, including results of analyses of marine mammal tissues, should be broadly available to the scientific community, including stranding network participants, through a marine mammal data base.”
 
-### § 1421a. Determination; data collection and dissemination
+### § 1421a. Determination; data collection and dissemination
 
 **(a) Determination for release**
 
@@ -4597,25 +4597,25 @@ The Secretary, acting through the Under Secretary of Commerce for Oceans and Atm
 
 The Secretary shall not require submission of research data that are not described in subsection (c).
 
-(Pub. L. 92–522, title IV, § 402, formerly title III, § 302, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5061; renumbered title IV, § 402, Pub. L. 103–238, § 24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–263, div. J, title CIV, § 10401, Dec. 23, 2022, 136 Stat. 3981.)
+(Pub. L. 92–522, title IV, § 402, formerly title III, § 302, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5061; renumbered title IV, § 402, Pub. L. 103–238, § 24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–263, div. J, title CIV, § 10401, Dec. 23, 2022, 136 Stat. 3981.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (b)(1)(A). Pub. L. 117–263, § 10401(1)(A), inserted “or entangled” after “stranded”.
+2022—Subsec. (b)(1)(A). Pub. L. 117–263, § 10401(1)(A), inserted “or entangled” after “stranded”.
 
-Subsec. (b)(3). Pub. L. 117–263, § 10401(1)(B), substituted “strandings and entanglements, including unusual mortality events, which the Secretary shall compile and analyze, by stranding region, to monitor species, numbers, conditions, and causes of illnesses and deaths of stranded marine mammals and entangled marine mammals to allow comparison of the causes of illness and deaths in stranded marine mammals and entangled marine mammals with physical, chemical, and biological environmental parameters; and” for “strandings, which the Secretary shall compile and analyze, by region, to monitor species, numbers, conditions, and causes of illnesses and deaths of stranded marine mammals; and”.
+Subsec. (b)(3). Pub. L. 117–263, § 10401(1)(B), substituted “strandings and entanglements, including unusual mortality events, which the Secretary shall compile and analyze, by stranding region, to monitor species, numbers, conditions, and causes of illnesses and deaths of stranded marine mammals and entangled marine mammals to allow comparison of the causes of illness and deaths in stranded marine mammals and entangled marine mammals with physical, chemical, and biological environmental parameters; and” for “strandings, which the Secretary shall compile and analyze, by region, to monitor species, numbers, conditions, and causes of illnesses and deaths of stranded marine mammals; and”.
 
-Subsec. (b)(4). Pub. L. 117–263, § 10401(1)(C), substituted “analyses.” for “analyses, that would allow comparison of the causes of illness and deaths in stranded marine mammals with physical, chemical, and biological environmental parameters.”
+Subsec. (b)(4). Pub. L. 117–263, § 10401(1)(C), substituted “analyses.” for “analyses, that would allow comparison of the causes of illness and deaths in stranded marine mammals with physical, chemical, and biological environmental parameters.”
 
-Subsecs. (c) to (h). Pub. L. 117–263, § 10401(2), added subsecs. (c) to (h) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The Secretary shall make information collected under this section available to stranding network participants and other qualified scientists.”
+Subsecs. (c) to (h). Pub. L. 117–263, § 10401(2), added subsecs. (c) to (h) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The Secretary shall make information collected under this section available to stranding network participants and other qualified scientists.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation**
 
-Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided that:
+Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided that:
 
 > “The Secretary of Commerce shall—
 
@@ -4631,7 +4631,7 @@ Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provid
 
 > **“(B)** in final form by not later than 24 months after the date of enactment of this Act.”
 
-### § 1421b. Stranding or entanglement response agreements
+### § 1421b. Stranding or entanglement response agreements
 
 **(a) In general**
 
@@ -4649,19 +4649,19 @@ The Secretary may enter into an agreement under section 1382(c) of this title wi
 
 The Secretary shall periodically review agreements under section 1382(c) of this title that are entered into pursuant to this subchapter, for performance adequacy and effectiveness.
 
-(Pub. L. 92–522, title IV, § 403, formerly title III, § 303, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5061; renumbered title IV, § 403, Pub. L. 103–238, § 24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–263, div. J, title CIV, § 10402(a), Dec. 23, 2022, 136 Stat. 3983.)
+(Pub. L. 92–522, title IV, § 403, formerly title III, § 303, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5061; renumbered title IV, § 403, Pub. L. 103–238, § 24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–263, div. J, title CIV, § 10402(a), Dec. 23, 2022, 136 Stat. 3983.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 10402(a)(1), inserted “or entanglement” before “response” in section catchline.
+2022—Pub. L. 117–263, § 10402(a)(1), inserted “or entanglement” before “response” in section catchline.
 
-Subsec. (a). Pub. L. 117–263, § 10402(a)(2), inserted “or entanglement” after “stranding”.
+Subsec. (a). Pub. L. 117–263, § 10402(a)(2), inserted “or entanglement” after “stranding”.
 
-Subsec. (b)(3). Pub. L. 117–263, § 10402(a)(3), added par. (3).
+Subsec. (b)(3). Pub. L. 117–263, § 10402(a)(3), added par. (3).
 
-### § 1421c. Unusual mortality event response
+### § 1421c. Unusual mortality event response
 
 **(a) Response**
 
@@ -4733,7 +4733,7 @@ The Secretary shall, in consultation with the Secretary of the Interior and the 
 
 **(B)** An Onsite Coordinator may delegate to any qualified person authority to act as an Onsite Coordinator under this subchapter.
 
-(Pub. L. 92–522, title IV, § 404, formerly title III, § 304, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5062; renumbered title IV, § 404, Pub. L. 103–238, § 24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–286, § 4(a)(111), Dec. 27, 2022, 136 Stat. 4317.)
+(Pub. L. 92–522, title IV, § 404, formerly title III, § 304, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5062; renumbered title IV, § 404, Pub. L. 103–238, § 24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–286, § 4(a)(111), Dec. 27, 2022, 136 Stat. 4317.)
 
 **Editorial Notes**
 
@@ -4741,7 +4741,7 @@ The Secretary shall, in consultation with the Secretary of the Interior and the 
 
 2022—Subsec. (a)(1)(B). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 App. U.S.C.)”.
 
-### § 1421d. Unusual mortality event activity funding
+### § 1421d. Unusual mortality event activity funding
 
 **(a) Establishment of Fund**
 
@@ -4753,9 +4753,9 @@ There is established in the Treasury an interest bearing fund to be known as the
 
 **(2)** for reimbursing any stranding network participant for costs incurred in the collection, preparation, analysis, and transportation of marine mammal tissues and samples collected with respect to an unusual mortality event for the Tissue Bank; and
 
-**(3)** for the care and maintenance of a marine mammal seized under section 1374(c)(2)(D) of this title; and 1
+**(3)** for the care and maintenance of a marine mammal seized under section 1374(c)(2)(D) of this title; and 1
 
-<sup>1</sup>  So in original. The “; and” probably should be a period.
+<sup>1</sup> So in original. The “; and” probably should be a period.
 
 **(c) Deposits into Fund** There shall be deposited into the Fund—
 
@@ -4769,7 +4769,7 @@ There is established in the Treasury an interest bearing fund to be known as the
 
 For purposes of carrying out this subchapter and section 1374(c)(2)(D) of this title, the Secretary may accept, solicit, and use the services of volunteers, and may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
 
-(Pub. L. 92–522, title IV, § 405, formerly title III, § 305, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5064; renumbered title IV, § 405, and amended Pub. L. 103–238, §§ 6, 16(b), 24(b), (c)(2), Apr. 30, 1994, 108 Stat. 542, 559, 565, 566; Pub. L. 117–263, div. J, title CIV, § 10403, Dec. 23, 2022, 136 Stat. 3983.)
+(Pub. L. 92–522, title IV, § 405, formerly title III, § 305, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5064; renumbered title IV, § 405, and amended Pub. L. 103–238, §§ 6, 16(b), 24(b), (c)(2), Apr. 30, 1994, 108 Stat. 542, 559, 565, 566; Pub. L. 117–263, div. J, title CIV, § 10403, Dec. 23, 2022, 136 Stat. 3983.)
 
 **Editorial Notes**
 
@@ -4777,15 +4777,15 @@ For purposes of carrying out this subchapter and section 1374(c)(2)(D) of this t
 
 2022—Subsec. (b). Pub. L. 117–263 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to uses of amounts in the Marine Mammal Unusual Mortality Event Fund and payment of pending claims.
 
-1994—Subsec. (a). Pub. L. 103–238, § 16(b), substituted “an interest bearing fund” for “a fund”.
+1994—Subsec. (a). Pub. L. 103–238, § 16(b), substituted “an interest bearing fund” for “a fund”.
 
-Subsec. (b)(1)(A)(i). Pub. L. 103–238, § 24(c)(2), made technical amendment to reference to section 1421c(b) of this title to reflect renumbering of corresponding section of original act.
+Subsec. (b)(1)(A)(i). Pub. L. 103–238, § 24(c)(2), made technical amendment to reference to section 1421c(b) of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 103–238, § 6(1), added cl. (iii).
+Subsec. (b)(1)(A)(iii). Pub. L. 103–238, § 6(1), added cl. (iii).
 
-Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and section 1374(c)(2)(D) of this title”.
+Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and section 1374(c)(2)(D) of this title”.
 
-### § 1421e. Liability
+### § 1421e. Liability
 
 **(a) In general** A person who is authorized to respond to a stranding or entanglement pursuant to an agreement entered into under section 1382(c) of this title is deemed to be an employee of the Government for purposes of chapter 171 of title 28, with respect to actions of the person that are—
 
@@ -4803,7 +4803,7 @@ Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and section 1374(c)(2)(D)
 
 Subsection (a) does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.
 
-(Pub. L. 92–522, title IV, § 406, formerly title III, § 306, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5064; renumbered title IV, § 406, and amended Pub. L. 103–238, § 24(b), (c)(3), (4), Apr. 30, 1994, 108 Stat. 565, 566; Pub. L. 117–263, div. J, title CIV, § 10404, Dec. 23, 2022, 136 Stat. 3984.)
+(Pub. L. 92–522, title IV, § 406, formerly title III, § 306, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5064; renumbered title IV, § 406, and amended Pub. L. 103–238, § 24(b), (c)(3), (4), Apr. 30, 1994, 108 Stat. 565, 566; Pub. L. 117–263, div. J, title CIV, § 10404, Dec. 23, 2022, 136 Stat. 3984.)
 
 **Editorial Notes**
 
@@ -4811,9 +4811,9 @@ Subsection (a) does not apply to actions of a person described in that subsectio
 
 2022—Subsec. (a). Pub. L. 117–263, in introductory provisions, inserted “or entanglement” after “to a stranding” and substituted “Government” for “government”.
 
-1994—Subsec. (a)(2)(A), (B). Pub. L. 103–238, § 24(c)(3), (4), made technical amendment to references to section 1421c of this title to reflect renumbering of corresponding section of original act.
+1994—Subsec. (a)(2)(A), (B). Pub. L. 103–238, § 24(c)(3), (4), made technical amendment to references to section 1421c of this title to reflect renumbering of corresponding section of original act.
 
-### § 1421f. National Marine Mammal Tissue Bank and tissue analysis
+### § 1421f. National Marine Mammal Tissue Bank and tissue analysis
 
 **(a) Tissue Bank**
 
@@ -4865,17 +4865,17 @@ The Secretary shall maintain a central data base which provides an effective mea
 
 which provide for appropriate uses of the tissues, analyses, and data by qualified scientists, including stranding network participants.
 
-(Pub. L. 92–522, title IV, § 407, formerly title III, § 307, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5065; renumbered title IV, § 407, Pub. L. 103–238, § 24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–263, div. J, title CIV, § 10405, Dec. 23, 2022, 136 Stat. 3984.)
+(Pub. L. 92–522, title IV, § 407, formerly title III, § 307, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5065; renumbered title IV, § 407, Pub. L. 103–238, § 24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–263, div. J, title CIV, § 10405, Dec. 23, 2022, 136 Stat. 3984.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (c)(2)(A). Pub. L. 117–263, § 10405(1), substituted “marine mammal health and mortality and the health of” for “the health of marine mammals and”.
+2022—Subsec. (c)(2)(A). Pub. L. 117–263, § 10405(1), substituted “marine mammal health and mortality and the health of” for “the health of marine mammals and”.
 
-Subsec. (d). Pub. L. 117–263, § 10405(2), inserted “public” before “access” in introductory provisions.
+Subsec. (d). Pub. L. 117–263, § 10405(2), inserted “public” before “access” in introductory provisions.
 
-### § 1421f–1. Marine Mammal Rescue and Response Grant Program and Rapid Response Fund
+### § 1421f–1. Marine Mammal Rescue and Response Grant Program and Rapid Response Fund
 
 **(a) Definitions** In this section:
 
@@ -5035,7 +5035,7 @@ The non-Federal share of a project conducted with funds awarded under the grant 
 
 The Secretary may apply to the non-Federal share of a project conducted with a grant under this section the amount of funds, and the fair market value of property and services, provided by non-Federal sources and used for the project.
 
-(Pub. L. 92–522, title IV, § 408, as added Pub. L. 106–555, title II, § 202(a)(2), Dec. 21, 2000, 114 Stat. 2767; amended Pub. L. 117–263, div. J, title CIV, § 10406(a), (b), Dec. 23, 2022, 136 Stat. 3984, 3987.)
+(Pub. L. 92–522, title IV, § 408, as added Pub. L. 106–555, title II, § 202(a)(2), Dec. 21, 2000, 114 Stat. 2767; amended Pub. L. 117–263, div. J, title CIV, § 10406(a), (b), Dec. 23, 2022, 136 Stat. 3984, 3987.)
 
 **Editorial Notes**
 
@@ -5045,21 +5045,21 @@ A prior section 408 of Pub. L. 92–522 was renumbered section 409, and is class
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 10406(a)(1), substituted “Marine Mammal Rescue and Response Grant Program and Rapid Response Fund” for “John H. Prescott Marine Mammal Rescue Assistance Grant Program” in section catchline.
+2022—Pub. L. 117–263, § 10406(a)(1), substituted “Marine Mammal Rescue and Response Grant Program and Rapid Response Fund” for “John H. Prescott Marine Mammal Rescue Assistance Grant Program” in section catchline.
 
-Subsecs. (a) to (d). Pub. L. 117–263, § 10406(a)(2), (4), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to authorization of the John H. Prescott Marine Mammal Rescue Assistance Grant Program, grant applications, required consultations, and limitation of the grant amount, respectively.
+Subsecs. (a) to (d). Pub. L. 117–263, § 10406(a)(2), (4), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to authorization of the John H. Prescott Marine Mammal Rescue Assistance Grant Program, grant applications, required consultations, and limitation of the grant amount, respectively.
 
-Subsec. (e). Pub. L. 117–263, § 10406(a)(4), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 117–263, § 10406(a)(4), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 117–263, § 10406(a)(2), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Of amounts available each fiscal year to carry out this section, the Secretary may expend not more than 6 percent or $80,000, whichever is greater, to pay the administrative expenses necessary to carry out this section.”
+Subsec. (f). Pub. L. 117–263, § 10406(a)(2), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Of amounts available each fiscal year to carry out this section, the Secretary may expend not more than 6 percent or $80,000, whichever is greater, to pay the administrative expenses necessary to carry out this section.”
 
-Subsec. (f)(1). Pub. L. 117–263, § 10406(b)(1), substituted “a project conducted with funds awarded under the grant program under this section shall be not less than 25 percent of such project” for “the costs of an activity conducted with a grant under this section shall be 25 percent of such costs”.
+Subsec. (f)(1). Pub. L. 117–263, § 10406(b)(1), substituted “a project conducted with funds awarded under the grant program under this section shall be not less than 25 percent of such project” for “the costs of an activity conducted with a grant under this section shall be 25 percent of such costs”.
 
-Subsec. (f)(2). Pub. L. 117–263, § 10406(b)(2), substituted “a project” for “an activity” and “the project” for “the activity”.
+Subsec. (f)(2). Pub. L. 117–263, § 10406(b)(2), substituted “a project” for “an activity” and “the project” for “the activity”.
 
-Subsecs. (g), (h). Pub. L. 117–263, § 10406(a)(2), struck out subsecs. (g) and (h) which defined “designated stranding region” and “Secretary” and authorized appropriations for fiscal years 2001 through 2003, respectively.
+Subsecs. (g), (h). Pub. L. 117–263, § 10406(a)(2), struck out subsecs. (g) and (h) which defined “designated stranding region” and “Secretary” and authorized appropriations for fiscal years 2001 through 2003, respectively.
 
-### § 1421f–2. Marine Mammal Health Monitoring and Analysis Platform (Health MAP)
+### § 1421f–2. Marine Mammal Health Monitoring and Analysis Platform (Health MAP)
 
 **(a) In general** Not later than 1 year after December 23, 2022, the Secretary, acting through the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Secretary of the Interior and the Marine Mammal Commission, shall—
 
@@ -5131,9 +5131,9 @@ For the purposes of carrying out this section, the Secretary may solicit, accept
 
 A monetary gift, devise, or bequest accepted by the Secretary under paragraph (1) shall be credited as discretionary offsetting collections to the currently applicable appropriation, account, or fund of the Department of Commerce and shall be made available for such purposes only to the extent and in the amounts provided in advance in appropriations Acts.
 
-(Pub. L. 92–522, title IV, § 408A, as added Pub. L. 117–263, div. J, title CIV, § 10407(a), Dec. 23, 2022, 136 Stat. 3988.)
+(Pub. L. 92–522, title IV, § 408A, as added Pub. L. 117–263, div. J, title CIV, § 10407(a), Dec. 23, 2022, 136 Stat. 3988.)
 
-### § 1421f–3. Reports to Congress
+### § 1421f–3. Reports to Congress
 
 **(a) Definition of appropriate committees of Congress** In this section, the term “appropriate committees of Congress” means—
 
@@ -5223,9 +5223,9 @@ The term “Arctic” has the meaning given the term in section 4111 of title 15
 
 **(G)** recommendations to address future stranding response needs for marine mammals in the Arctic region of the United States.
 
-(Pub. L. 92–522, title IV, § 408B, as added Pub. L. 117–263, div. J, title CIV, § 10408(a), Dec. 23, 2022, 136 Stat. 3990.)
+(Pub. L. 92–522, title IV, § 408B, as added Pub. L. 117–263, div. J, title CIV, § 10408(a), Dec. 23, 2022, 136 Stat. 3990.)
 
-### § 1421g. Authorization of appropriations
+### § 1421g. Authorization of appropriations
 
 There is authorized to be appropriated—
 
@@ -5233,29 +5233,29 @@ There is authorized to be appropriated—
 
 **(2)** to the Secretary for carrying out section 1421f of this title, $250,000 for each of fiscal years 2023 through 2028; and
 
-**(3)** to the Fund, $500,000 for for 1
+**(3)** to the Fund, $500,000 for for 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 each of fiscal years 2023 through 2028.
 
-(Pub. L. 92–522, title IV, § 409, formerly title III, § 308, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5066; renumbered title IV, § 408, and amended Pub. L. 103–238, § 24(b), (c)(5), (6), Apr. 30, 1994, 108 Stat. 565, 566; renumbered § 409, Pub. L. 106–555, title II, § 202(a)(1), Dec. 21, 2000, 114 Stat. 2767; Pub. L. 117–263, div. J, title CIV, § 10409, Dec. 23, 2022, 136 Stat. 3992.)
+(Pub. L. 92–522, title IV, § 409, formerly title III, § 308, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5066; renumbered title IV, § 408, and amended Pub. L. 103–238, § 24(b), (c)(5), (6), Apr. 30, 1994, 108 Stat. 565, 566; renumbered § 409, Pub. L. 106–555, title II, § 202(a)(1), Dec. 21, 2000, 114 Stat. 2767; Pub. L. 117–263, div. J, title CIV, § 10409, Dec. 23, 2022, 136 Stat. 3992.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Par. (1). Pub. L. 117–263, § 10409(1), substituted “2023 through 2028;” for “1993 and 1994;”.
+2022—Par. (1). Pub. L. 117–263, § 10409(1), substituted “2023 through 2028;” for “1993 and 1994;”.
 
-Par. (2). Pub. L. 117–263, § 10409(2), substituted “2023 through 2028;” for “1993 and 1994;”.
+Par. (2). Pub. L. 117–263, § 10409(2), substituted “2023 through 2028;” for “1993 and 1994;”.
 
-Par. (3). Pub. L. 117–263, § 10409(3), substituted “for each of fiscal years 2023 through 2028.” for “fiscal year 1993.”
+Par. (3). Pub. L. 117–263, § 10409(3), substituted “for each of fiscal years 2023 through 2028.” for “fiscal year 1993.”
 
-1994—Par. (1). Pub. L. 103–238, § 24(c)(5), made technical amendment to references to sections 1421d and 1421f of this title to reflect renumbering of corresponding sections of original act.
+1994—Par. (1). Pub. L. 103–238, § 24(c)(5), made technical amendment to references to sections 1421d and 1421f of this title to reflect renumbering of corresponding sections of original act.
 
-Par. (2). Pub. L. 103–238, § 24(c)(6), made technical amendment to reference to section 1421f of this title to reflect renumbering of corresponding section of original act.
+Par. (2). Pub. L. 103–238, § 24(c)(6), made technical amendment to reference to section 1421f of this title to reflect renumbering of corresponding section of original act.
 
-### § 1421h. Definitions
+### § 1421h. Definitions
 
 In this subchapter, the following definitions apply:
 
@@ -5301,27 +5301,27 @@ In this subchapter, the following definitions apply:
 
 **(C)** demands immediate response.
 
-(Pub. L. 92–522, title IV, § 410, formerly title III, § 309, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5066; renumbered title IV, § 409, and amended Pub. L. 103–238, § 24(b), (c)(7), (8), Apr. 30, 1994, 108 Stat. 565, 566; renumbered § 410, Pub. L. 106–555, title II, § 202(a)(1), Dec. 21, 2000, 114 Stat. 2767; Pub. L. 117–263, div. J, title CIV, § 10410, Dec. 23, 2022, 136 Stat. 3992.)
+(Pub. L. 92–522, title IV, § 410, formerly title III, § 309, as added Pub. L. 102–587, title III, § 3003(a), Nov. 4, 1992, 106 Stat. 5066; renumbered title IV, § 409, and amended Pub. L. 103–238, § 24(b), (c)(7), (8), Apr. 30, 1994, 108 Stat. 565, 566; renumbered § 410, Pub. L. 106–555, title II, § 202(a)(1), Dec. 21, 2000, 114 Stat. 2767; Pub. L. 117–263, div. J, title CIV, § 10410, Dec. 23, 2022, 136 Stat. 3992.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Par. (1). Pub. L. 117–263, § 10410(2), added par. (1). Former par. (1) redesignated (2).
+2022—Par. (1). Pub. L. 117–263, § 10410(2), added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 117–263, § 10410(3), substituted “Except as used in section 1421f–1 of this title, the term” for “The term”.
+Par. (2). Pub. L. 117–263, § 10410(3), substituted “Except as used in section 1421f–1 of this title, the term” for “The term”.
 
-Pub. L. 117–263, § 10410(1), redesignated par. (1) as (2). Former par. (2) redesignated (5).
+Pub. L. 117–263, § 10410(1), redesignated par. (1) as (2). Former par. (2) redesignated (5).
 
-Pars. (3) to (9). Pub. L. 117–263, § 10410(1), (4), added pars. (3) and (4) and redesignated former pars. (2) to (6) as (5) to (9), respectively.
+Pars. (3) to (9). Pub. L. 117–263, § 10410(1), (4), added pars. (3) and (4) and redesignated former pars. (2) to (6) as (5) to (9), respectively.
 
-1994—Par. (1). Pub. L. 103–238, § 24(c)(7), made technical amendment to reference to section 1421d(a) of this title to reflect renumbering of corresponding section of original act.
+1994—Par. (1). Pub. L. 103–238, § 24(c)(7), made technical amendment to reference to section 1421d(a) of this title to reflect renumbering of corresponding section of original act.
 
-Par. (5). Pub. L. 103–238, § 24(c)(8), made technical amendment to reference to section 1421f(a) of this title to reflect renumbering of corresponding section of original act.
+Par. (5). Pub. L. 103–238, § 24(c)(8), made technical amendment to reference to section 1421f(a) of this title to reflect renumbering of corresponding section of original act.
 
 ## SUBCHAPTER VI—POLAR BEARS
 
-### § 1423. Definitions
+### § 1423. Definitions
 
 In this subchapter:
 
@@ -5353,9 +5353,9 @@ The term “taking” has the meaning given the term in the Agreement.
 
 The term “Commission” means the commission established under article 8 of the Agreement.
 
-(Pub. L. 92–522, title V, § 501, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3660.)
+(Pub. L. 92–522, title V, § 501, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3660.)
 
-### § 1423a. Prohibitions
+### § 1423a. Prohibitions
 
 **(a) In general** It is unlawful for any person who is subject to the jurisdiction of the United States or any person in waters or on lands under the jurisdiction of the United States—
 
@@ -5375,9 +5375,9 @@ The term “Commission” means the commission established under article 8 of th
 
 For the purpose of forensic testing or any other law enforcement purpose, the Secretary, and Federal law enforcement officials, and any State or local law enforcement official authorized by the Secretary, may import a polar bear or any part or product of a polar bear.
 
-(Pub. L. 92–522, title V, § 502, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3661.)
+(Pub. L. 92–522, title V, § 502, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3661.)
 
-### § 1423b. Administration
+### § 1423b. Administration
 
 **(a) In general**
 
@@ -5413,9 +5413,9 @@ The Secretary shall promulgate such regulations as are necessary to carry out th
 
 If necessary to carry out this subchapter and the Agreement, and to improve compliance with any annual taking limit or other restriction on taking adopted by the Commission and implemented by the Secretary in accordance with this subchapter, the Secretary may promulgate regulations that adopt any ordinance or regulation that restricts the taking of polar bears for subsistence purposes if the ordinance or regulation has been promulgated by the Alaska Nanuuq Commission.
 
-(Pub. L. 92–522, title V, § 503, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3662.)
+(Pub. L. 92–522, title V, § 503, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3662.)
 
-### § 1423c. Cooperative management agreement; authority to delegate enforcement authority
+### § 1423c. Cooperative management agreement; authority to delegate enforcement authority
 
 **(a) In general**
 
@@ -5433,9 +5433,9 @@ The Secretary, acting through the Director of the United States Fish and Wildlif
 
 **(B)** the Agreement.
 
-(Pub. L. 92–522, title V, § 504, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3662.)
+(Pub. L. 92–522, title V, § 504, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3662.)
 
-### § 1423d. Commission appointments; compensation, travel expenses, and claims
+### § 1423d. Commission appointments; compensation, travel expenses, and claims
 
 **(a) Appointment of United States commissioners**
 
@@ -5505,15 +5505,15 @@ A member of the United States section shall be allowed travel expenses, includin
 
 The United States section shall, for the purpose of title 28 relating to claims against the United States and tort claims procedure, be considered to be a Federal agency.
 
-(Pub. L. 92–522, title V, § 505, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3663.)
+(Pub. L. 92–522, title V, § 505, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3663.)
 
-### § 1423e. Votes taken by the United States section on matters before the Commission
+### § 1423e. Votes taken by the United States section on matters before the Commission
 
 In accordance with paragraph 3 of article 8 of the Agreement, the United States section, made up of commissioners appointed by the President, shall vote on any issue before the United States-Russia Polar Bear Commission only if there is no disagreement between the United States commissioners regarding the vote.
 
-(Pub. L. 92–522, title V, § 506, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3664.)
+(Pub. L. 92–522, title V, § 506, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3664.)
 
-### § 1423f. Implementation of actions taken by the Commission
+### § 1423f. Implementation of actions taken by the Commission
 
 **(a) In general**
 
@@ -5523,15 +5523,15 @@ The Secretary shall take all necessary actions to implement the decisions and de
 
 Not later than 60 days after the date on which the Secretary receives notice of the determination of the Commission of an annual taking limit, or of the adoption by the Commission of other restriction on the taking of polar bears for subsistence purposes, the Secretary shall publish a notice in the Federal Register announcing the determination or restriction.
 
-(Pub. L. 92–522, title V, § 507, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3664.)
+(Pub. L. 92–522, title V, § 507, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3664.)
 
-### § 1423g. Application with other subchapters of chapter
+### § 1423g. Application with other subchapters of chapter
 
 **(a) In general** The authority of the Secretary under this subchapter is in addition to, and shall not affect—
 
-**(1)** the authority of the Secretary under other subchapters 1
+**(1)** the authority of the Secretary under other subchapters 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this chapter or the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.) or the exemption for Alaskan natives under section 1371(b) of this title as applied to other marine mammal populations; or
 
@@ -5541,7 +5541,7 @@ of this chapter or the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.) or 
 
 The provisions of subchapters II through V of this chapter do not apply with respect to the implementation or administration of this subchapter, except as specified in section 1423b of this title.
 
-(Pub. L. 92–522, title V, § 508, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3664.)
+(Pub. L. 92–522, title V, § 508, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3664.)
 
 **Editorial Notes**
 
@@ -5549,9 +5549,9 @@ The provisions of subchapters II through V of this chapter do not apply with res
 
 Other subchapters of this chapter, referred to in subsec. (a)(1), was in the original a reference to “other titles of this Act” meaning Pub. L. 92–522. Subchapter I of this chapter consists of sections of Pub. L. 92–522 that are not part of a title of that Act.
 
-The Lacey Act Amendments of 1981, referred to in subsec. (a)(1), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which enacted chapter 53 (§ 3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (a)(1), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which enacted chapter 53 (§ 3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
-### § 1423h. Authorization of appropriations
+### § 1423h. Authorization of appropriations
 
 **(a) In general**
 
@@ -5559,9 +5559,9 @@ There are authorized to be appropriated to the Secretary to carry out the functi
 
 **(b) Commission**
 
-There are authorized to be appropriated to the Secretary to carry out functions and responsibilities of the United States Section 1
+There are authorized to be appropriated to the Secretary to carry out functions and responsibilities of the United States Section 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 $150,000 for each of fiscal years 2006 through 2010.
 
@@ -5569,4 +5569,4 @@ $150,000 for each of fiscal years 2006 through 2010.
 
 There are authorized to be appropriated to the Secretary to carry out this subchapter and the Agreement in Alaska $150,000 for each of fiscal years 2006 through 2010.
 
-(Pub. L. 92–522, title V, § 509, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3665.)
+(Pub. L. 92–522, title V, § 509, as added Pub. L. 109–479, title IX, § 902(a), Jan. 12, 2007, 120 Stat. 3665.)

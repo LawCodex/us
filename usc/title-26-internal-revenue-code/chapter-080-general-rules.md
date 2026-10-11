@@ -21,21 +21,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2019—Pub. L. 116–25, title II, § 2103(b), July 1, 2019, 133 Stat. 1011, added item 7812.
+2019—Pub. L. 116–25, title II, § 2103(b), July 1, 2019, 133 Stat. 1011, added item 7812.
 
-1998—Pub. L. 105–206, title I, §§ 1101(c)(2), 1102(e)(1), 1104(b)(2), July 22, 1998, 112 Stat. 697, 704, 710, added items 7802 to 7804 and struck out former items 7802 “Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate”, 7803 “Other personnel”, and 7804 “Effect of reorganization plans”.
+1998—Pub. L. 105–206, title I, §§ 1101(c)(2), 1102(e)(1), 1104(b)(2), July 22, 1998, 112 Stat. 697, 704, 710, added items 7802 to 7804 and struck out former items 7802 “Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate”, 7803 “Other personnel”, and 7804 “Effect of reorganization plans”.
 
-1996—Pub. L. 104–168, title I, § 101(b)(3), July 30, 1996, 110 Stat. 1456, added item 7802 and struck out former item 7802 “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)”.
+1996—Pub. L. 104–168, title I, § 101(b)(3), July 30, 1996, 110 Stat. 1456, added item 7802 and struck out former item 7802 “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)”.
 
-1988—Pub. L. 100–647, title VI, § 6230(b), Nov. 10, 1988, 102 Stat. 3734, added item 7811.
+1988—Pub. L. 100–647, title VI, § 6230(b), Nov. 10, 1988, 102 Stat. 3734, added item 7811.
 
-1983—Pub. L. 97–473, title II, § 202(c), Jan. 14, 1983, 96 Stat. 2610, added item for subchapter C.
+1983—Pub. L. 97–473, title II, § 202(c), Jan. 14, 1983, 96 Stat. 2610, added item for subchapter C.
 
-1974—Pub. L. 93–406, title II, § 1051(c), Sept. 2, 1974, 88 Stat. 951, substituted “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)” for “Commissioner of Internal Revenue” in item 7802.
+1974—Pub. L. 93–406, title II, § 1051(c), Sept. 2, 1974, 88 Stat. 951, substituted “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)” for “Commissioner of Internal Revenue” in item 7802.
 
-1966—Pub. L. 89–719, title I, § 112(c), Nov. 2, 1966, 80 Stat. 1146, added item 7810.
+1966—Pub. L. 89–719, title I, § 112(c), Nov. 2, 1966, 80 Stat. 1146, added item 7810.
 
-### § 7801. Authority of Department of the Treasury
+### § 7801. Authority of Department of the Treasury
 
 **(a) Powers and duties of Secretary**
 
@@ -55,19 +55,19 @@ Except as otherwise expressly provided by law, the administration and enforcemen
 
 Nothing in the Homeland Security Act of 2002 alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of such Act, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
 
-**[(b) Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1078]**
+**[(b) Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1078]**
 
 **(c) Functions of Department of Justice unaffected**
 
 Nothing in this section or section 301(f) of title 31 shall be considered to affect the duties, powers, or functions imposed upon, or vested in, the Department of Justice, or any officer thereof, by law existing on May 10, 1934.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 86–368, § 1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 88–426, title III, § 305(39), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–455, title XIX, § 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §§ 2(f)(1), 5(b), Sept. 13, 1982, 96 Stat. 1059, 1068, 1078; Pub. L. 107–296, title XI, § 1112(k), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 115–141, div. U, title IV, § 401(a)(333), Mar. 23, 2018, 132 Stat. 1200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 86–368, § 1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 88–426, title III, § 305(39), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–455, title XIX, § 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §§ 2(f)(1), 5(b), Sept. 13, 1982, 96 Stat. 1059, 1068, 1078; Pub. L. 107–296, title XI, § 1112(k), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 115–141, div. U, title IV, § 401(a)(333), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6.
+The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6.
 
 **Amendments**
 
@@ -75,9 +75,9 @@ The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 
 
 2002—Subsec. (a). Pub. L. 107–296 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-1982—Subsec. (b). Pub. L. 97–258, § 5(b), struck out subsec. (b) which related to Office of General Counsel of Department of the Treasury. See section 301 of Title 31, Money and Finance.
+1982—Subsec. (b). Pub. L. 97–258, § 5(b), struck out subsec. (b) which related to Office of General Counsel of Department of the Treasury. See section 301 of Title 31, Money and Finance.
 
-Subsec. (c). Pub. L. 97–258, § 2(f)(1), inserted “or section 301(f) of title 31” after “Nothing in this section”.
+Subsec. (c). Pub. L. 97–258, § 2(f)(1), inserted “or section 301(f) of title 31” after “Nothing in this section”.
 
 1976—Subsec. (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary” in four places, in par. (1) after “prescribed by the”, in par. (2) after “prescribed by the” and in third sentence thereof “The”, and in par. (3) before “may appoint and fix”.
 
@@ -97,7 +97,7 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–368, § 3, Sept. 22, 1959, 73 Stat. 648, provided that:
+Pub. L. 86–368, § 3, Sept. 22, 1959, 73 Stat. 648, provided that:
 
 > **“(a)** Except as otherwise provided in this Act, the amendments made by this Act [amending this section] shall take effect on the date of the enactment of this Act [Sept. 22, 1959].
 
@@ -105,11 +105,11 @@ Pub. L. 86–368, § 3, Sept. 22, 1959, 73 Stat. 648, provided that:
 
 **Repeals**
 
-Pub. L. 86–368, § 1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III, § 305(39), Aug. 14, 1964, 78 Stat. 427; and Pub. L. 94–455, title XIX, § 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834, cited as credits to this section, were repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1079, 1080, 1082.
+Pub. L. 86–368, § 1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III, § 305(39), Aug. 14, 1964, 78 Stat. 427; and Pub. L. 94–455, title XIX, § 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834, cited as credits to this section, were repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1079, 1080, 1082.
 
 **Savings Provision**
 
-Pub. L. 86–368, § 4, Sept. 22, 1959, 73 Stat. 649, provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
+Pub. L. 86–368, § 4, Sept. 22, 1959, 73 Stat. 649, provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
 
 **Transfer of Functions**
 
@@ -117,7 +117,7 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 
 **Notice From IRS Regarding Closure of Taxpayer Assistance Centers**
 
-Pub. L. 116–25, title I, § 1403, July 1, 2019, 133 Stat. 997, provided that:
+Pub. L. 116–25, title I, § 1403, July 1, 2019, 133 Stat. 997, provided that:
 
 > “Not later than 90 days before the date that a proposed closure of a Taxpayer Assistance Center would take effect, the Secretary of the Treasury (or the Secretary’s delegate) shall—
 
@@ -137,7 +137,7 @@ Pub. L. 116–25, title I, § 1403, July 1, 2019, 133 Stat. 997, provided that
 
 **Customer Service Information**
 
-Pub. L. 116–25, title I, § 1406, July 1, 2019, 133 Stat. 1000, provided that:
+Pub. L. 116–25, title I, § 1406, July 1, 2019, 133 Stat. 1000, provided that:
 
 > “The Secretary of the Treasury (or the Secretary’s delegate) shall provide helpful information to taxpayers placed on hold during a telephone call to any Internal Revenue Service help line, including the following:
 
@@ -149,7 +149,7 @@ Pub. L. 116–25, title I, § 1406, July 1, 2019, 133 Stat. 1000, provided tha
 
 **IRS Employees Prohibited From Using Personal Email Accounts for Official Business**
 
-Pub. L. 114–113, div. Q, title IV, § 402, Dec. 18, 2015, 129 Stat. 3117, provided that: “No officer or employee of the Internal Revenue Service may use a personal email account to conduct any official business of the Government.”
+Pub. L. 114–113, div. Q, title IV, § 402, Dec. 18, 2015, 129 Stat. 3117, provided that: “No officer or employee of the Internal Revenue Service may use a personal email account to conduct any official business of the Government.”
 
 **IRS Reports on Information Technology Investments**
 
@@ -195,11 +195,11 @@ Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
 
 **Elimination of User Fee for Requests to IRS Regarding Pension Plans**
 
-Pub. L. 107–16, title VI, § 620, June 7, 2001, 115 Stat. 110, related to elimination of user fees for certain requests to the Internal Revenue Service regarding pension plans, prior to repeal by Pub. L. 108–89, title II, § 202(b)(3), Oct. 1, 2003, 117 Stat. 1133.
+Pub. L. 107–16, title VI, § 620, June 7, 2001, 115 Stat. 110, related to elimination of user fees for certain requests to the Internal Revenue Service regarding pension plans, prior to repeal by Pub. L. 108–89, title II, § 202(b)(3), Oct. 1, 2003, 117 Stat. 1133.
 
 **Itemized Income Tax Receipt**
 
-Pub. L. 106–58, title VI, § 650, Sept. 29, 1999, 113 Stat. 479, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(D), (2)(P), May 22, 2008, 110 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(D), (2)(P), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 106–58, title VI, § 650, Sept. 29, 1999, 113 Stat. 479, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(D), (2)(P), May 22, 2008, 110 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(D), (2)(P), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 > **“(a) In General.—** Not later than April 15, 2000, the Secretary of the Treasury shall establish an interactive program on an Internet website where any taxpayer may generate an itemized receipt showing a proportionate allocation (in money terms) of the taxpayer’s total tax payments among the major expenditure categories.
 
@@ -285,11 +285,11 @@ Pub. L. 106–58, title VI, § 650, Sept. 29, 1999, 113 Stat. 479, as amended 
 
 > **“(f) Regulations.—** The Secretary of the Treasury may prescribe such regulations as may be necessary to carry out this section.”
 
-[Pub. L. 110–234, § 4002(b)(1)(D), (2)(P), and Pub. L. 110–246, § 4002(b)(1)(D), (2)(P), which directed identical amendment of Pub. L. 106–58, § 650, set out above, by substituting “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing, was executed by making the substitution for “Food stamp” in subsec. (d)(2)(B)(iv), to reflect the probable intent of Congress. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.]
+[Pub. L. 110–234, § 4002(b)(1)(D), (2)(P), and Pub. L. 110–246, § 4002(b)(1)(D), (2)(P), which directed identical amendment of Pub. L. 106–58, § 650, set out above, by substituting “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing, was executed by making the substitution for “Food stamp” in subsec. (d)(2)(B)(iv), to reflect the probable intent of Congress. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.]
 
 **Reorganization of Internal Revenue Service**
 
-Pub. L. 116–25, title I, § 1302, July 1, 2019, 133 Stat. 993, provided that:
+Pub. L. 116–25, title I, § 1302, July 1, 2019, 133 Stat. 993, provided that:
 
 > **“(a) In General.—** Not later than September 30, 2020, the Secretary of the Treasury (or the Secretary’s delegate) shall submit to Congress a comprehensive written plan to redesign the organization of the Internal Revenue Service. Such plan shall—
 
@@ -305,7 +305,7 @@ Pub. L. 116–25, title I, § 1302, July 1, 2019, 133 Stat. 993, provided that
 
 > **“(b) Repeal of Restriction on Organizational Structure of Internal Revenue Service.—** Paragraph (3) of section 1001(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206, set out below] shall cease to apply beginning 1 year after the date on which the plan described in subsection (a) is submitted to Congress.”
 
-Pub. L. 105–206, title I, § 1001, July 22, 1998, 112 Stat. 689, provided that:
+Pub. L. 105–206, title I, § 1001, July 22, 1998, 112 Stat. 689, provided that:
 
 > **“(a) In General.—** The Commissioner of Internal Revenue shall develop and implement a plan to reorganize the Internal Revenue Service. The plan shall—
 
@@ -343,11 +343,11 @@ Pub. L. 105–206, title I, § 1001, July 22, 1998, 112 Stat. 689, provided th
 
 **Internal Revenue Service Mission To Focus on Taxpayers’ Needs**
 
-Pub. L. 105–206, title I, § 1002, July 22, 1998, 112 Stat. 690, provided that: “The Internal Revenue Service shall review and restate its mission to place a greater emphasis on serving the public and meeting taxpayers’ needs.”
+Pub. L. 105–206, title I, § 1002, July 22, 1998, 112 Stat. 690, provided that: “The Internal Revenue Service shall review and restate its mission to place a greater emphasis on serving the public and meeting taxpayers’ needs.”
 
 **Explanation of Joint and Several Liability**
 
-Pub. L. 105–206, title III, § 3501, July 22, 1998, 112 Stat. 770, provided that:
+Pub. L. 105–206, title III, § 3501, July 22, 1998, 112 Stat. 770, provided that:
 
 > **“(a) In General.—** The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [July 22, 1998], establish procedures to clearly alert married taxpayers of their joint and several liabilities on all appropriate publications and instructions.
 
@@ -355,7 +355,7 @@ Pub. L. 105–206, title III, § 3501, July 22, 1998, 112 Stat. 770, provided 
 
 **Explanation of Taxpayers’ Rights in Interviews With Internal Revenue Service**
 
-Pub. L. 105–206, title III, § 3502, July 22, 1998, 112 Stat. 770, provided that:
+Pub. L. 105–206, title III, § 3502, July 22, 1998, 112 Stat. 770, provided that:
 
 > “The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [July 22, 1998], revise the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights [Pub. L. 100–647, set out below] (Internal Revenue Service Publication No. 1) to more clearly inform taxpayers of their rights—
 
@@ -365,7 +365,7 @@ Pub. L. 105–206, title III, § 3502, July 22, 1998, 112 Stat. 770, provided 
 
 **Disclosure of Criteria for Examination Selection**
 
-Pub. L. 105–206, title III, § 3503, July 22, 1998, 112 Stat. 771, provided that:
+Pub. L. 105–206, title III, § 3503, July 22, 1998, 112 Stat. 771, provided that:
 
 > **“(a) In General.—** The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [July 22, 1998], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights [Pub. L. 100–647, set out below] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms the criteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
 
@@ -373,11 +373,11 @@ Pub. L. 105–206, title III, § 3503, July 22, 1998, 112 Stat. 771, provided 
 
 **Disclosure to Taxpayers**
 
-Pub. L. 105–206, title III, § 3508, July 22, 1998, 112 Stat. 772, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall ensure that any instructions booklet accompanying an individual Federal income tax return form (including forms 1040, 1040A, 1040EZ, and any similar or successor forms) shall include, in clear language, in conspicuous print, and in a conspicuous place, a concise description of the conditions under which return information may be disclosed to any party outside the Internal Revenue Service, including disclosure to any State or agency, body, or commission (or legal representative) thereof.”
+Pub. L. 105–206, title III, § 3508, July 22, 1998, 112 Stat. 772, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall ensure that any instructions booklet accompanying an individual Federal income tax return form (including forms 1040, 1040A, 1040EZ, and any similar or successor forms) shall include, in clear language, in conspicuous print, and in a conspicuous place, a concise description of the conditions under which return information may be disclosed to any party outside the Internal Revenue Service, including disclosure to any State or agency, body, or commission (or legal representative) thereof.”
 
 **Internal Revenue Service Employee Contacts**
 
-Pub. L. 105–206, title III, § 3705, July 22, 1998, 112 Stat. 777, provided that:
+Pub. L. 105–206, title III, § 3705, July 22, 1998, 112 Stat. 777, provided that:
 
 > **“(a) Notice.—** The Secretary of the Treasury or the Secretary’s delegate shall provide that—
 
@@ -405,15 +405,15 @@ Pub. L. 105–206, title III, § 3705, July 22, 1998, 112 Stat. 777, provided 
 
 **Listing of Local Internal Revenue Service Telephone Numbers and Addresses**
 
-Pub. L. 105–206, title III, § 3709, July 22, 1998, 112 Stat. 779, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, provide that the local telephone numbers and addresses of Internal Revenue Service offices located in any particular area be listed in a telephone book for that area.”
+Pub. L. 105–206, title III, § 3709, July 22, 1998, 112 Stat. 779, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, provide that the local telephone numbers and addresses of Internal Revenue Service offices located in any particular area be listed in a telephone book for that area.”
 
 **Study of Noncompliance With Internal Revenue Laws by Taxpayers**
 
-Pub. L. 105–206, title III, § 3803, July 22, 1998, 112 Stat. 783, provided that: “Not later than 1 year after the date of the enactment of this Act [July 22, 1998], the Secretary of the Treasury and the Commissioner of Internal Revenue shall jointly conduct a study, in consultation with the Joint Committee on Taxation, of the noncompliance with internal revenue laws by taxpayers (including willful noncompliance and noncompliance due to tax law complexity or other factors) and report the findings of such study to Congress.”
+Pub. L. 105–206, title III, § 3803, July 22, 1998, 112 Stat. 783, provided that: “Not later than 1 year after the date of the enactment of this Act [July 22, 1998], the Secretary of the Treasury and the Commissioner of Internal Revenue shall jointly conduct a study, in consultation with the Joint Committee on Taxation, of the noncompliance with internal revenue laws by taxpayers (including willful noncompliance and noncompliance due to tax law complexity or other factors) and report the findings of such study to Congress.”
 
 **Tax Law Complexity Analysis; Commissioner Study**
 
-Pub. L. 105–206, title IV, § 4022(a), July 22, 1998, 112 Stat. 785, provided that:
+Pub. L. 105–206, title IV, § 4022(a), July 22, 1998, 112 Stat. 785, provided that:
 
 > **“(1) In general.—** The Commissioner of Internal Revenue shall conduct each year after 1998 an analysis of the sources of complexity in administration of the Federal tax laws. Such analysis may include an analysis of—
 
@@ -439,7 +439,7 @@ Pub. L. 105–206, title IV, § 4022(a), July 22, 1998, 112 Stat. 785, provide
 
 **National Commission on Restructuring Internal Revenue Service**
 
-Pub. L. 104–52, title VI, § 637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, § 2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 643(a)–(e)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
+Pub. L. 104–52, title VI, § 637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, § 2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 643(a)–(e)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
 
 > **“(a) Findings.—** The Congress finds the following:
 
@@ -579,17 +579,17 @@ Pub. L. 104–52, title VI, § 637, Nov. 19, 1995, 109 Stat. 509, as amended b
 
 > **“(i) Appropriations.—** Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
 
-[Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 643(f)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “The amendments made by this section [amending section 637 of Pub. L. 104–52, set out above] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 [Pub. L. 104–52].” ]
+[Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 643(f)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “The amendments made by this section [amending section 637 of Pub. L. 104–52, set out above] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 [Pub. L. 104–52].” ]
 
-[Pub. L. 104–134, title II, § 2904(b), Apr. 26, 1996, 110 Stat. 1321–333, provided that: “The amendments made by this section [amending section 637 of Pub. L. 104–52, set out above] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 [Pub. L. 104–52].” ]
+[Pub. L. 104–134, title II, § 2904(b), Apr. 26, 1996, 110 Stat. 1321–333, provided that: “The amendments made by this section [amending section 637 of Pub. L. 104–52, set out above] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 [Pub. L. 104–52].” ]
 
 **Fees for Services Rendered**
 
-Pub. L. 103–329, title I, § 3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227; Pub. L. 109–115, div. A, title II, § 209, Nov. 30, 2005, 119 Stat. 2439, provided that: “The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: *Provided*, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: *Provided further*, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service.”
+Pub. L. 103–329, title I, § 3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227; Pub. L. 109–115, div. A, title II, § 209, Nov. 30, 2005, 119 Stat. 2439, provided that: “The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: *Provided*, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: *Provided further*, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service.”
 
 **Disclosure of Rights of Taxpayers**
 
-Pub. L. 100–647, title VI, § 6227, Nov. 10, 1988, 102 Stat. 3731, provided that:
+Pub. L. 100–647, title VI, § 6227, Nov. 10, 1988, 102 Stat. 3731, provided that:
 
 > **“(a) In General.—** The Secretary of the Treasury shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [Nov. 10, 1988], prepare a statement which sets forth in simple and nontechnical terms—
 
@@ -607,19 +607,19 @@ Pub. L. 100–647, title VI, § 6227, Nov. 10, 1988, 102 Stat. 3731, provided 
 
 **Fees for Requests for Ruling, Determination, and Similar Letters**
 
-Pub. L. 100–203, title X, § 10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, § 11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, § 743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, § 2, Mar. 20, 1996, 110 Stat. 828, related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repeal by Pub. L. 108–89, title II, § 202(b)(2), Oct. 1, 2003, 117 Stat. 1133.
+Pub. L. 100–203, title X, § 10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, § 11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, § 743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, § 2, Mar. 20, 1996, 110 Stat. 828, related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repeal by Pub. L. 108–89, title II, § 202(b)(2), Oct. 1, 2003, 117 Stat. 1133.
 
 **Study of Tax Incentives for Expenditures Required by Occupational Safety and Health Administration and Mining Health and Safety Administration**
 
-Pub. L. 95–600, title V, § 552, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to conduct an investigation into the appropriateness of providing additional tax incentives for expenditures required by the Occupational Safety and Health Act, section 651 et seq. of Title 29, Labor, and the Mining Safety and Health Administration of the Department of Labor and to submit a report on such investigation to Congress before Apr. 1, 1979, together with any legislative recommendations.
+Pub. L. 95–600, title V, § 552, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to conduct an investigation into the appropriateness of providing additional tax incentives for expenditures required by the Occupational Safety and Health Act, section 651 et seq. of Title 29, Labor, and the Mining Safety and Health Administration of the Department of Labor and to submit a report on such investigation to Congress before Apr. 1, 1979, together with any legislative recommendations.
 
 **Study of Taxation of Nonresident Alien Real Estate Transactions in the United States**
 
-Pub. L. 95–600, title V, § 553, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given to income derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
+Pub. L. 95–600, title V, § 553, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given to income derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
 
 **Study and Investigation of Internal Revenue Code Provisions Which Impede or Discourage Recycling of Solid Waste Materials; Presidential and Congressional Report**
 
-Pub. L. 94–568, § 4, Oct. 20, 1976, 90 Stat. 2698, provided that the Secretary of the Treasury, in cooperation with the Administrator of the Environmental Protection Agency, make a complete study of all provisions of the Internal Revenue Code of 1954 which impeded or discouraged the recycling of solid waste materials and to report to the President and Congress, not later than Apr. 20, 1977, his findings, together with specific legislative proposals designed to increase and encourage the recycling of solid waste materials and detailed revenue cost estimates.
+Pub. L. 94–568, § 4, Oct. 20, 1976, 90 Stat. 2698, provided that the Secretary of the Treasury, in cooperation with the Administrator of the Environmental Protection Agency, make a complete study of all provisions of the Internal Revenue Code of 1954 which impeded or discouraged the recycling of solid waste materials and to report to the President and Congress, not later than Apr. 20, 1977, his findings, together with specific legislative proposals designed to increase and encourage the recycling of solid waste materials and detailed revenue cost estimates.
 
 **Executive Documents**
 
@@ -735,7 +735,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 7802. Internal Revenue Service Oversight Board
+### § 7802. Internal Revenue Service Oversight Board
 
 **(a) Establishment**
 
@@ -983,7 +983,7 @@ The Oversight Board shall each year report with respect to the conduct of its re
 
 Upon a determination by the Oversight Board under subsection (c)(1)(B) that the organization and operation of the Internal Revenue Service are not allowing it to carry out its mission, the Oversight Board shall report such determination to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, § 1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, § 2(f)(2), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, § 6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, § 101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, § 1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, § 1(a)(7) [title III, § 319(27)], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 117–286, § 4(c)(34), Dec. 27, 2022, 136 Stat. 4358.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, § 1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, § 2(f)(2), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, § 6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, § 101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, § 1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, § 1(a)(7) [title III, § 319(27)], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 117–286, § 4(c)(34), Dec. 27, 2022, 136 Stat. 4358.)
 
 **Editorial Notes**
 
@@ -995,17 +995,17 @@ Upon a determination by the Oversight Board under subsection (c)(1)(B) that the 
 
 1998—Pub. L. 105–206 amended section catchline and text of section generally, substituting present provisions for provisions which: in subsec. (a), declared that there shall be in the Department of the Treasury a Commissioner of Internal Revenue, appointed by the President, with such duties and powers as prescribed by Secretary of the Treasury; in subsec. (b), established Office of Employee Plans and Exempt Organizations to carry out functions with respect to organizations exempt from tax and with respect to plans to which part I of subchapter D of chapter 1 applied; in subsec. (c), established Office for Taxpayer Services such as telephone, walk-in, and taxpayer educational services, and design and production of forms; and in subsec. (d), established Office of Taxpayer Advocate and set forth functions of Office and responsibilities of Commissioner regarding response to recommendations of Office. See section 7803 of this title.
 
-1996—Pub. L. 104–168, § 101(b)(2), substituted “Commissioners; Taxpayer Advocate.” for “Commissioner (Employee Plans and Exempt Organizations)” in section catchline.
+1996—Pub. L. 104–168, § 101(b)(2), substituted “Commissioners; Taxpayer Advocate.” for “Commissioner (Employee Plans and Exempt Organizations)” in section catchline.
 
-Subsec. (d). Pub. L. 104–168, § 101(a), added subsec. (d).
+Subsec. (d). Pub. L. 104–168, § 101(a), added subsec. (d).
 
 1988—Subsec. (c). Pub. L. 100–647 added subsec. (c).
 
 1982—Subsec. (b). Pub. L. 97–258 redesignated existing provisions as par. (1), added par. (1) heading, and added par. (2). Par. (2) is based on provisions that appeared in section 1037 of former Title 31, Money and Finance, prior to enactment of Title 31 by Pub. L. 97–258.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” after “prescribed by the”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” after “prescribed by the”.
 
-Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1974—Pub. L. 93–406 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -1019,7 +1019,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title I, § 1101(d), July 22, 1998, 112 Stat. 697, provided that:
+Pub. L. 105–206, title I, § 1101(d), July 22, 1998, 112 Stat. 697, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 4946 and 6103 of this title] shall take effect on the date of the enactment of this Act [July 22, 1998].
 
@@ -1029,17 +1029,17 @@ Pub. L. 105–206, title I, § 1101(d), July 22, 1998, 112 Stat. 697, provided
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title I, § 101(c), July 30, 1996, 110 Stat. 1456, provided that: “The amendments made by this section [amending this section and section 7811 of this title] shall take effect on the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title I, § 101(c), July 30, 1996, 110 Stat. 1456, provided that: “The amendments made by this section [amending this section and section 7811 of this title] shall take effect on the date of the enactment of this Act [July 30, 1996].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VI, § 6235(c), Nov. 10, 1988, 102 Stat. 3737, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date 180 days after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6235(c), Nov. 10, 1988, 102 Stat. 3737, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date 180 days after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided that: “The amendments made by this section [amending this section and sections 5108 and 5109 of Title 5, Government Organization and Employees] shall take effect on the 90th day after the date of the enactment of this Act [Sept. 2, 1974].”
+Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided that: “The amendments made by this section [amending this section and sections 5108 and 5109 of Title 5, Government Organization and Employees] shall take effect on the 90th day after the date of the enactment of this Act [Sept. 2, 1974].”
 
-### § 7803. Commissioner of Internal Revenue; other officials
+### § 7803. Commissioner of Internal Revenue; other officials
 
 **(a) Commissioner of Internal Revenue**
 
@@ -1389,7 +1389,7 @@ All personnel in the Internal Revenue Service Independent Office of Appeals shal
 
 The Chief of Appeals shall have authority to obtain legal assistance and advice from the staff of the Office of the Chief Counsel. The Chief Counsel shall ensure, to the extent practicable, that such assistance and advice is provided by staff of the Office of the Chief Counsel who were not involved in the case with respect to which such assistance and advice is sought and who are not involved in preparing such case for litigation.
 
-**(7) 1 [footnote: 1 See Effective Date of 2019 Amendment note below.] Access to case files**
+**(7) 1 [footnote: 1 See Effective Date of 2019 Amendment note below.] Access to case files**
 
 **(A) In general**
 
@@ -1469,7 +1469,7 @@ For purposes of this subsection, the term “information technology” has the m
 
 **(iii)** except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, § 230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, § 1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, § 1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, § 1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, § 2(c), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 114–113, div. Q, title IV, § 401(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 116–25, title I, §§ 1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, § 2101(a), July 1, 2019, 133 Stat. 983, 991–993, 1008; Pub. L. 117–286, § 4(b)(46), Dec. 27, 2022, 136 Stat. 4348.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, § 230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, § 1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, § 1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, § 1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, § 2(c), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 114–113, div. Q, title IV, § 401(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 116–25, title I, §§ 1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, § 2101(a), July 1, 2019, 133 Stat. 983, 991–993, 1008; Pub. L. 117–286, § 4(b)(46), Dec. 27, 2022, 136 Stat. 4348.)
 
 **Editorial Notes**
 
@@ -1483,25 +1483,25 @@ Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(
 
 **Amendments**
 
-2022—Subsec. (d)(1). Pub. L. 117–286, § 4(b)(46)(A), substituted “section 405 of title 5, United States Code” for “section 5 of the Inspector General Act of 1978” in introductory provisions.
+2022—Subsec. (d)(1). Pub. L. 117–286, § 4(b)(46)(A), substituted “section 405 of title 5, United States Code” for “section 5 of the Inspector General Act of 1978” in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 117–286, § 4(b)(46)(B), substituted “section 405 of title 5, United States Code” for “section 5 of the Inspector General Act of 1978” in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 117–286, § 4(b)(46)(B), substituted “section 405 of title 5, United States Code” for “section 5 of the Inspector General Act of 1978” in introductory provisions.
 
-2019—Subsec. (c)(1)(B)(i). Pub. L. 116–25, § 1301(c), struck out before period at end “, or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title”.
+2019—Subsec. (c)(1)(B)(i). Pub. L. 116–25, § 1301(c), struck out before period at end “, or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title”.
 
-Subsec. (c)(2)(B)(ii)(III). Pub. L. 116–25, § 1301(b)(1), substituted “the 10 most” for “at least 20 of the most”.
+Subsec. (c)(2)(B)(ii)(III). Pub. L. 116–25, § 1301(b)(1), substituted “the 10 most” for “at least 20 of the most”.
 
-Subsec. (c)(2)(B)(ii)(VIII) to (XIII). Pub. L. 116–25, § 1301(a)(2), (b)(3)(B), added subcls. (VIII) and (XII), redesignated former subcls. (VIII) to (X) as (IX) to (XI), respectively, and redesignated former subcl. (XI) first as (XII), then as (XIII).
+Subsec. (c)(2)(B)(ii)(VIII) to (XIII). Pub. L. 116–25, § 1301(a)(2), (b)(3)(B), added subcls. (VIII) and (XII), redesignated former subcls. (VIII) to (X) as (IX) to (XI), respectively, and redesignated former subcl. (XI) first as (XII), then as (XIII).
 
-Subsec. (c)(2)(B)(iii). Pub. L. 116–25, § 1301(b)(3)(C), inserted at end “The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section 6108(d).”
+Subsec. (c)(2)(B)(iii). Pub. L. 116–25, § 1301(b)(3)(C), inserted at end “The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section 6108(d).”
 
-Subsec. (c)(2)(E). Pub. L. 116–25, § 1301(b)(2), added subpar. (E).
+Subsec. (c)(2)(E). Pub. L. 116–25, § 1301(b)(2), added subpar. (E).
 
-Subsec. (c)(5). Pub. L. 116–25, § 1301(a)(1), added par. (5).
+Subsec. (c)(5). Pub. L. 116–25, § 1301(a)(1), added par. (5).
 
-Subsec. (e). Pub. L. 116–25, § 1001(a), added subsec. (e).
+Subsec. (e). Pub. L. 116–25, § 1001(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 116–25, § 2101(a), added subsec. (f).
+Subsec. (f). Pub. L. 116–25, § 2101(a), added subsec. (f).
 
 2015—Subsec. (a)(3), (4). Pub. L. 114–113 added par. (3) and redesignated former par. (3) as (4).
 
@@ -1511,9 +1511,9 @@ Subsec. (d)(3)(C). Pub. L. 110–428 added subpar. (C).
 
 1998—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which: in subsec. (a), authorized appointment of persons for administration and enforcement of internal revenue laws; in subsec. (b), directed Secretary to determine and designate posts of duty of employees in field service, and authorized Secretary to order such employees to duty within and outside District of Columbia; and in subsec. (c), directed Secretary to issue notice and demand for failure to account for and pay over money or property collected in connection with internal revenue laws, and deemed amount so demanded to be imposed and assessed upon the officer or employee upon the date of such notice and demand. See section 7804 of this title.
 
-1976—Subsecs. (a), (b), (c). Pub. L. 94–455, § 1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+1976—Subsecs. (a), (b), (c). Pub. L. 94–455, § 1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 94–455, § 1906(a)(58), redesignated subsec. (d) as (c).
+Subsecs. (c), (d). Pub. L. 94–455, § 1906(a)(58), redesignated subsec. (d) as (c).
 
 1972—Subsec. (c). Pub. L. 92–310 repealed subsec. (c) which related to bonds of officers and employees.
 
@@ -1521,7 +1521,7 @@ Subsecs. (c), (d). Pub. L. 94–455, § 1906(a)(58), redesignated subsec. (d) 
 
 **Change of Name**
 
-Pub. L. 116–25, title I, § 1001(c), July 1, 2019, 133 Stat. 985, provided that: “Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as a reference to the Internal Revenue Service Independent Office of Appeals.”
+Pub. L. 116–25, title I, § 1001(c), July 1, 2019, 133 Stat. 985, provided that: “Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as a reference to the Internal Revenue Service Independent Office of Appeals.”
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
@@ -1529,7 +1529,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title I, § 1001(e), July 1, 2019, 133 Stat. 985, provided that:
+Pub. L. 116–25, title I, § 1001(e), July 1, 2019, 133 Stat. 985, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 6015, 6320, 6330, 6603, 6621, 7122, 7123, 7430, 7522, and 7612 of this title] shall take effect on the date of the enactment of this Act [July 1, 2019].
 
@@ -1539,17 +1539,17 @@ Amendment by section 1301(a)–(b)(2), (3)(B)–(c) of Pub. L. 116–25 effectiv
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title IV, § 401(b), Dec. 18, 2015, 129 Stat. 3117, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. Q, title IV, § 401(b), Dec. 18, 2015, 129 Stat. 3117, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 18, 2015].”
 
 **Effective Date of 2008 Amendment**
 
 Amendment by Pub. L. 110–428 applicable to disclosures made after Dec. 31, 2008, see section 2(d) of Pub. L. 110–428, set out as a note under section 6103 of this title.
 
-Pub. L. 110–176, § 1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: “The amendment made by this section [amending this section] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206].”
+Pub. L. 110–176, § 1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: “The amendment made by this section [amending this section] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206].”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title I, § 1102(f), July 22, 1998, 112 Stat. 705, provided that:
+Pub. L. 105–206, title I, § 1102(f), July 22, 1998, 112 Stat. 705, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section, sections 6212, 6323, 6343, 7611, and 7811 of this title, and section 5109 of Title 5, Government Organization and Employees] shall take effect on the date of the enactment of this Act [July 22, 1998].
 
@@ -1569,11 +1569,11 @@ Pub. L. 105–206, title I, § 1102(f), July 22, 1998, 112 Stat. 705, provided
 
 **Savings Provisions**
 
-Pub. L. 116–25, title I, § 1001(d), July 1, 2019, 133 Stat. 985, provided that: “Rules similar to the rules of paragraphs (2) through (6) of section 1001(b) of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206, 26 U.S.C. 7801 note] shall apply for purposes of this section [amending this section and sections 6015, 6320, 6330, 6603, 6621, 7122, 7123, 7430, 7522, and 7612 of this title and enacting provisions set out as notes under this section] (and the amendments made by this section).”
+Pub. L. 116–25, title I, § 1001(d), July 1, 2019, 133 Stat. 985, provided that: “Rules similar to the rules of paragraphs (2) through (6) of section 1001(b) of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206, 26 U.S.C. 7801 note] shall apply for purposes of this section [amending this section and sections 6015, 6320, 6330, 6603, 6621, 7122, 7123, 7430, 7522, and 7612 of this title and enacting provisions set out as notes under this section] (and the amendments made by this section).”
 
 **Coordination of IRS CIO and Chief Procurement Officer of the Internal Revenue Service**
 
-Pub. L. 116–25, title II, § 2101(c), July 1, 2019, 133 Stat. 1010, provided that:
+Pub. L. 116–25, title II, § 2101(c), July 1, 2019, 133 Stat. 1010, provided that:
 
 > **“(1) In general.—** The Chief Procurement Officer of the Internal Revenue Service shall—
 
@@ -1589,7 +1589,7 @@ Pub. L. 116–25, title II, § 2101(c), July 1, 2019, 133 Stat. 1010, provided
 
 > **“(3) Scope.—** Terms used in this subsection which are also used in section 7803(f) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall have the same meaning as when used in such section.”
 
-### § 7804. Other personnel
+### § 7804. Other personnel
 
 **(a) Appointment and supervision**
 
@@ -1613,7 +1613,7 @@ If any officer or employee of the Treasury Department acting in connection with 
 
 The Commissioner may not hire any individual previously employed by the Commissioner who was removed for misconduct under this subchapter or chapter 43 or chapter 75 of title 5, United States Code, or whose employment was terminated under section 1203 of the Internal Revenue Service Restructuring and Reform Act of 1998 (26 U.S.C. 7804 note).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, § 1104(a), July 22, 1998, 112 Stat. 710; Pub. L. 116–25, title III, § 3001(a), July 1, 2019, 133 Stat. 1014.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, § 1104(a), July 22, 1998, 112 Stat. 710; Pub. L. 116–25, title III, § 3001(a), July 1, 2019, 133 Stat. 1014.)
 
 **Editorial Notes**
 
@@ -1633,15 +1633,15 @@ Section 1203 of the Internal Revenue Service Restructuring and Reform Act of 199
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title III, § 3001(b), July 1, 2019, 133 Stat. 1015, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the hiring of employees after the date of the enactment of this Act [July 1, 2019].”
+Pub. L. 116–25, title III, § 3001(b), July 1, 2019, 133 Stat. 1015, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the hiring of employees after the date of the enactment of this Act [July 1, 2019].”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title I, § 1104(c), July 22, 1998, 112 Stat. 710, provided that: “The amendments made by this section [amending this section and section 6344 of this title] shall take effect on the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title I, § 1104(c), July 22, 1998, 112 Stat. 710, provided that: “The amendments made by this section [amending this section and section 6344 of this title] shall take effect on the date of the enactment of this Act [July 22, 1998].”
 
 **Comprehensive Customer Service Strategy**
 
-Pub. L. 116–25, title I, § 1101, July 1, 2019, 133 Stat. 985, provided that:
+Pub. L. 116–25, title I, § 1101, July 1, 2019, 133 Stat. 985, provided that:
 
 > **“(a) In General.—** Not later than the date which is 1 year after the date of the enactment of this Act [July 1, 2019], the Secretary of the Treasury (or the Secretary’s delegate) shall submit to Congress a written comprehensive customer service strategy for the Internal Revenue Service. Such strategy shall include—
 
@@ -1659,7 +1659,7 @@ Pub. L. 116–25, title I, § 1101, July 1, 2019, 133 Stat. 985, provided that
 
 **Termination of Employment for Misconduct**
 
-Pub. L. 105–206, title I, § 1203, July 22, 1998, 112 Stat. 720, as amended by Pub. L. 108–357, title VIII, § 881(d), Oct. 22, 2004, 118 Stat. 1627; Pub. L. 114–113, div. Q, title IV, § 407(a), Dec. 18, 2015, 129 Stat. 3120, provided that:
+Pub. L. 105–206, title I, § 1203, July 22, 1998, 112 Stat. 720, as amended by Pub. L. 108–357, title VIII, § 881(d), Oct. 22, 2004, 118 Stat. 1627; Pub. L. 114–113, div. Q, title IV, § 407(a), Dec. 18, 2015, 129 Stat. 3120, provided that:
 
 > **“(a) In General.—** Subject to subsection (c), the Commissioner of Internal Revenue shall terminate the employment of any employee of the Internal Revenue Service if there is a final administrative or judicial determination that such employee committed any act or omission described under subsection (b) in the performance of the employee’s official duties. Such termination shall be a removal for cause on charges of misconduct.
 
@@ -1713,11 +1713,11 @@ Pub. L. 105–206, title I, § 1203, July 22, 1998, 112 Stat. 720, as amended 
 
 > **“(e) Individuals Performing Services Under a Qualified Tax Collection Contract.—** An individual shall cease to be permitted to perform any services under any qualified tax collection contract (as defined in section 6306(b) of the Internal Revenue Code of 1986) if there is a final determination by the Secretary of the Treasury under such contract that such individual committed any act or omission described under subsection (b) in connection with the performance of such services.”
 
-[Pub. L. 114–113, div. Q, title IV, § 407(b), Dec. 18, 2015, 129 Stat. 3120, provided that: “The amendment made by this section [amending section 1203 of Pub. L. 105–206, set out above] shall take effect on the date of the enactment of this Act [Dec. 18, 2015].” ]
+[Pub. L. 114–113, div. Q, title IV, § 407(b), Dec. 18, 2015, 129 Stat. 3120, provided that: “The amendment made by this section [amending section 1203 of Pub. L. 105–206, set out above] shall take effect on the date of the enactment of this Act [Dec. 18, 2015].” ]
 
 **Employee Training Program**
 
-Pub. L. 105–206, title I, § 1205, July 22, 1998, 112 Stat. 722, provided that:
+Pub. L. 105–206, title I, § 1205, July 22, 1998, 112 Stat. 722, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [July 22, 1998], the Commissioner of Internal Revenue shall implement an employee training program and shall submit an employee training plan to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
 
@@ -1737,11 +1737,11 @@ Pub. L. 105–206, title I, § 1205, July 22, 1998, 112 Stat. 722, provided th
 
 **Cataloging Complaints**
 
-Pub. L. 105–206, title III, § 3701, July 22, 1998, 112 Stat. 776, provided that: “In collecting data for the report required under section 1211 of the Taxpayer Bill of Rights 2 (Public Law 104–168) [set out below], the Secretary of the Treasury or the Secretary’s delegate shall, not later than January 1, 2000, maintain records of taxpayer complaints of misconduct by Internal Revenue Service employees on an individual employee basis.”
+Pub. L. 105–206, title III, § 3701, July 22, 1998, 112 Stat. 776, provided that: “In collecting data for the report required under section 1211 of the Taxpayer Bill of Rights 2 (Public Law 104–168) [set out below], the Secretary of the Treasury or the Secretary’s delegate shall, not later than January 1, 2000, maintain records of taxpayer complaints of misconduct by Internal Revenue Service employees on an individual employee basis.”
 
 **Use of Pseudonyms by Internal Revenue Service Employees**
 
-Pub. L. 105–206, title III, § 3706, July 22, 1998, 112 Stat. 778, provided that:
+Pub. L. 105–206, title III, § 3706, July 22, 1998, 112 Stat. 778, provided that:
 
 > **“(a) In General.—** Any employee of the Internal Revenue Service may use a pseudonym only if—
 
@@ -1753,7 +1753,7 @@ Pub. L. 105–206, title III, § 3706, July 22, 1998, 112 Stat. 778, provided 
 
 **Reports on Misconduct of IRS Employees**
 
-Pub. L. 104–168, title XII, § 1211, July 30, 1996, 110 Stat. 1474, provided that:
+Pub. L. 104–168, title XII, § 1211, July 30, 1996, 110 Stat. 1474, provided that:
 
 > “On or before June 1 of each calendar year after 1996, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
 
@@ -1763,37 +1763,37 @@ Pub. L. 104–168, title XII, § 1211, July 30, 1996, 110 Stat. 1474, provided
 
 **Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training**
 
-Pub. L. 109–115, div. A, title II, § 202, Nov. 30, 2005, 119 Stat. 2438, which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers’ rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Pub. L. 109–115, div. A, title II, § 202, Nov. 30, 2005, 119 Stat. 2438, which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers’ rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
-Pub. L. 108–447, div. H, title II, § 202, Dec. 8, 2004, 118 Stat. 3240.
+Pub. L. 108–447, div. H, title II, § 202, Dec. 8, 2004, 118 Stat. 3240.
 
-Pub. L. 108–199, div. F, title II, § 202, Jan. 23, 2004, 118 Stat. 318.
+Pub. L. 108–199, div. F, title II, § 202, Jan. 23, 2004, 118 Stat. 318.
 
-Pub. L. 108–7, div. J, title I, § 102, Feb. 20, 2003, 117 Stat. 437.
+Pub. L. 108–7, div. J, title I, § 102, Feb. 20, 2003, 117 Stat. 437.
 
-Pub. L. 107–67, title I, § 102, Nov. 12, 2001, 115 Stat. 523.
+Pub. L. 107–67, title I, § 102, Nov. 12, 2001, 115 Stat. 523.
 
-Pub. L. 106–554, § 1(a)(3) [title I, § 102], Dec. 21, 2000, 114 Stat. 2763, 2763A–132.
+Pub. L. 106–554, § 1(a)(3) [title I, § 102], Dec. 21, 2000, 114 Stat. 2763, 2763A–132.
 
-Pub. L. 106–58, title I, § 102, Sept. 29, 1999, 113 Stat. 437.
+Pub. L. 106–58, title I, § 102, Sept. 29, 1999, 113 Stat. 437.
 
-Pub. L. 105–277, div. A, § 101(h) [title I, § 102], Oct. 21, 1998, 112 Stat. 2681–480, 2681–488.
+Pub. L. 105–277, div. A, § 101(h) [title I, § 102], Oct. 21, 1998, 112 Stat. 2681–480, 2681–488.
 
-Pub. L. 105–61, title I, § 102, Oct. 10, 1997, 111 Stat. 1281.
+Pub. L. 105–61, title I, § 102, Oct. 10, 1997, 111 Stat. 1281.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title I, § 102], Sept. 30, 1996, 110 Stat. 3009–314, 3009–323.
+Pub. L. 104–208, div. A, title I, § 101(f) [title I, § 102], Sept. 30, 1996, 110 Stat. 3009–314, 3009–323.
 
-Pub. L. 104–52, title I, § 2, Nov. 19, 1995, 109 Stat. 474.
+Pub. L. 104–52, title I, § 2, Nov. 19, 1995, 109 Stat. 474.
 
-Pub. L. 103–329, title I, § 2, Sept. 30, 1994, 108 Stat. 2388.
+Pub. L. 103–329, title I, § 2, Sept. 30, 1994, 108 Stat. 2388.
 
-Pub. L. 103–123, title I, § 2, Oct. 28, 1993, 107 Stat. 1232.
+Pub. L. 103–123, title I, § 2, Oct. 28, 1993, 107 Stat. 1232.
 
-Pub. L. 102–393, title I, § 2, Oct. 6, 1992, 106 Stat. 1735.
+Pub. L. 102–393, title I, § 2, Oct. 6, 1992, 106 Stat. 1735.
 
 **Basis for Evaluation of Internal Revenue Service Employees**
 
-Pub. L. 105–206, title I, § 1204, July 22, 1998, 112 Stat. 722, provided that:
+Pub. L. 105–206, title I, § 1204, July 22, 1998, 112 Stat. 722, provided that:
 
 > **“(a) In General.—** The Internal Revenue Service shall not use records of tax enforcement results—
 
@@ -1811,11 +1811,11 @@ Pub. L. 105–206, title I, § 1204, July 22, 1998, 112 Stat. 722, provided th
 
 > **“(e) Effective Date.—** This section shall apply to evaluations conducted on or after the date of the enactment of this Act [July 22, 1998].”
 
-Pub. L. 100–647, title VI, § 6231, Nov. 10, 1988, 102 Stat. 3734, prohibited Internal Revenue Service use of records of tax enforcement results to evaluate employees or to impose or suggest production quotas or goals, and required quarterly certification that results had not been used in prohibited manner, prior to repeal by Pub. L. 105–206, title I, § 1204(d), July 22, 1998, 112 Stat. 722.
+Pub. L. 100–647, title VI, § 6231, Nov. 10, 1988, 102 Stat. 3734, prohibited Internal Revenue Service use of records of tax enforcement results to evaluate employees or to impose or suggest production quotas or goals, and required quarterly certification that results had not been used in prohibited manner, prior to repeal by Pub. L. 105–206, title I, § 1204(d), July 22, 1998, 112 Stat. 722.
 
 **Sense of Congress as to Increased Internal Revenue Service Funding for Taxpayer Assistance and Enforcement**
 
-Pub. L. 100–203, title X, § 10622, Dec. 22, 1987, 101 Stat. 1330–452, provided that:
+Pub. L. 100–203, title X, § 10622, Dec. 22, 1987, 101 Stat. 1330–452, provided that:
 
 > **“(a) Findings.—** The Congress hereby finds that—
 
@@ -1841,7 +1841,7 @@ Pub. L. 100–203, title X, § 10622, Dec. 22, 1987, 101 Stat. 1330–452, pro
 
 **Tax Counseling for the Elderly**
 
-Pub. L. 95–600, title I, § 163, Nov. 6, 1978, 92 Stat. 2810, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title I, § 163, Nov. 6, 1978, 92 Stat. 2810, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) Training and Technical Assistance.—**
 
@@ -1885,7 +1885,7 @@ Pub. L. 95–600, title I, § 163, Nov. 6, 1978, 92 Stat. 2810, as amended by 
 
 > **“(f) Authorization of Appropriations.—** There are authorized to be appropriated for the purpose of carrying out the provisions of this section $2,500,000 for the fiscal year ending September 30, 1979, and $3,500,000 for the fiscal year ending September 30, 1980.”
 
-### § 7805. Rules and regulations
+### § 7805. Rules and regulations
 
 **(a) Authorization**
 
@@ -1965,7 +1965,7 @@ After publication of any proposed or temporary regulation by the Secretary, the 
 
 **(B)** the consideration (and discussion) required under paragraph (2) shall be made in connection with the promulgation of such final regulation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 917; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, § 43(b), July 18, 1984, 98 Stat. 558; Pub. L. 100–647, title VI, § 6232(a), Nov. 10, 1988, 102 Stat. 3734; Pub. L. 101–508, title XI, § 11621(a), Nov. 5, 1990, 104 Stat. 1388–503; Pub. L. 104–168, title XI, § 1101(a), July 30, 1996, 110 Stat. 1468; Pub. L. 105–206, title III, § 3704, July 22, 1998, 112 Stat. 777.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 917; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, § 43(b), July 18, 1984, 98 Stat. 558; Pub. L. 100–647, title VI, § 6232(a), Nov. 10, 1988, 102 Stat. 3734; Pub. L. 101–508, title XI, § 11621(a), Nov. 5, 1990, 104 Stat. 1388–503; Pub. L. 104–168, title XI, § 1101(a), July 30, 1996, 110 Stat. 1468; Pub. L. 105–206, title III, § 3704, July 22, 1998, 112 Stat. 777.)
 
 **Editorial Notes**
 
@@ -1987,15 +1987,15 @@ After publication of any proposed or temporary regulation by the Secretary, the 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title XI, § 1101(b), July 30, 1996, 110 Stat. 1469, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title XI, § 1101(b), July 30, 1996, 110 Stat. 1469, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act [July 30, 1996].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11621(b), Nov. 5, 1990, 104 Stat. 1388–504, provided that: “The amendment made by subsection (a) [amending this section] shall apply to regulations issued after the date which is 30 days after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–508, title XI, § 11621(b), Nov. 5, 1990, 104 Stat. 1388–504, provided that: “The amendment made by subsection (a) [amending this section] shall apply to regulations issued after the date which is 30 days after the date of the enactment of this Act [Nov. 5, 1990].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VI, § 6232(b), Nov. 10, 1988, 102 Stat. 3735, provided that: “The amendments made by this section [amending this section] shall apply to any regulation issued after the date which is 10 days after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6232(b), Nov. 10, 1988, 102 Stat. 3735, provided that: “The amendments made by this section [amending this section] shall apply to any regulation issued after the date which is 10 days after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1984 Amendment**
 
@@ -2003,7 +2003,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 
 
 **Form 1040SR for Seniors**
 
-Pub. L. 115–123, div. D, title II, § 41106, Feb. 9, 2018, 132 Stat. 157, provided that:
+Pub. L. 115–123, div. D, title II, § 41106, Feb. 9, 2018, 132 Stat. 157, provided that:
 
 > **“(a) In General.—** The Secretary of the Treasury (or the Secretary’s delegate) shall make available a form, to be known as ‘Form 1040SR’, for use by individuals to file the return of tax imposed by chapter 1 of the Internal Revenue Code of 1986. Such form shall be as similar as practicable to Form 1040EZ, except that—
 
@@ -2025,9 +2025,9 @@ Pub. L. 115–123, div. D, title II, § 41106, Feb. 9, 2018, 132 Stat. 157, pr
 
 **Internet Availability**
 
-Pub. L. 105–206, title II, § 2003(d), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary’s delegate shall establish procedures for all tax forms, instructions, and publications created in the most recent 5-year period to be made available electronically on the Internet in a searchable database at approximately the same time such records are available to the public in paper form. In addition, in the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary’s delegate shall, to the extent practicable, establish procedures for other taxpayer guidance to be made available electronically on the Internet in a searchable database at approximately the same time such guidance is available to the public in paper form.”
+Pub. L. 105–206, title II, § 2003(d), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary’s delegate shall establish procedures for all tax forms, instructions, and publications created in the most recent 5-year period to be made available electronically on the Internet in a searchable database at approximately the same time such records are available to the public in paper form. In addition, in the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary’s delegate shall, to the extent practicable, establish procedures for other taxpayer guidance to be made available electronically on the Internet in a searchable database at approximately the same time such guidance is available to the public in paper form.”
 
-### § 7806. Construction of title
+### § 7806. Construction of title
 
 **(a) Cross references**
 
@@ -2045,7 +2045,7 @@ No inference, implication, or presumption of legislative construction shall be d
 
 This Act, referred to in subsec. (b), is act Aug. 16, 1954.
 
-### § 7807. Rules in effect upon enactment of this title
+### § 7807. Rules in effect upon enactment of this title
 
 **(a) Interim provision for administration of title**
 
@@ -2067,13 +2067,13 @@ If an election or other act under the provisions of the Internal Revenue Code of
 
 **References in Text**
 
-The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
-### § 7808. Depositaries for collections
+### § 7808. Depositaries for collections
 
 The Secretary is authorized to designate one or more depositaries in each State for the deposit and safe-keeping of the money collected by virtue of the internal revenue laws; and the receipt of the proper officer of such depositary to the proper officer or employee of the Treasury Department for the money deposited by him shall be a sufficient voucher for such Treasury officer or employee in the settlement of his accounts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 918; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 918; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -2081,7 +2081,7 @@ The Secretary is authorized to designate one or more depositaries in each State 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 7809. Deposit of collections
+### § 7809. Deposit of collections
 
 **(a) General rule**
 
@@ -2129,7 +2129,7 @@ In the case of any amounts recovered as the result of information provided to th
 
 If any amounts remain in such account after payment of any qualified costs incurred under section 7624, such amounts shall be withdrawn from such account and deposited in the Treasury of the United States as internal revenue collections.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 918; Pub. L. 87–870, § 3(b), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 89–719, title I, § 112(b), Nov. 2, 1966, 80 Stat. 1146; Pub. L. 94–455, title XII, § 1202(h)(5), title XIX, §§ 1906(a)(59), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1688, 1833, 1834; Pub. L. 94–528, § 2(d), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 100–690, title VII, § 7602(b), Nov. 18, 1988, 102 Stat. 4507; Pub. L. 108–357, title VIII, § 881(a)(2)(A), Oct. 22, 2004, 118 Stat. 1626; Pub. L. 115–141, div. U, title IV, § 401(a)(334), Mar. 23, 2018, 132 Stat. 1200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 918; Pub. L. 87–870, § 3(b), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 89–719, title I, § 112(b), Nov. 2, 1966, 80 Stat. 1146; Pub. L. 94–455, title XII, § 1202(h)(5), title XIX, §§ 1906(a)(59), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1688, 1833, 1834; Pub. L. 94–528, § 2(d), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 100–690, title VII, § 7602(b), Nov. 18, 1988, 102 Stat. 4507; Pub. L. 108–357, title VIII, § 881(a)(2)(A), Oct. 22, 2004, 118 Stat. 1626; Pub. L. 115–141, div. U, title IV, § 401(a)(334), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
@@ -2141,19 +2141,19 @@ If any amounts remain in such account after payment of any qualified costs incur
 
 1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(a)(59), (b)(13)(A), struck out “4735, 4762” after “and in sections”, and “or his delegate” after “Secretary” in two places.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(a)(59), (b)(13)(A), struck out “4735, 4762” after “and in sections”, and “or his delegate” after “Secretary” in two places.
 
-Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 94–455, § 1202(h)(5), substituted “section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations)” for “section 7515 (relating to special statistical studies and compilations for other services on request)” after “performed pursuant to”.
+Subsec. (c)(1). Pub. L. 94–455, § 1202(h)(5), substituted “section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations)” for “section 7515 (relating to special statistical studies and compilations for other services on request)” after “performed pursuant to”.
 
 Subsec. (c)(4). Pub. L. 94–528 added par. (4).
 
 1966—Subsecs. (a), (b)(4). Pub. L. 89–719 inserted reference to section 7810 in subsec. (a) and added subsec. (b)(4).
 
-1962—Subsec. (a). Pub. L. 87–870, § 3(b)(1), substituted “subsections (b) and (c) and in” for “subsection (b),”.
+1962—Subsec. (a). Pub. L. 87–870, § 3(b)(1), substituted “subsections (b) and (c) and in” for “subsection (b),”.
 
-Subsec. (c). Pub. L. 87–870, § 3(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 87–870, § 3(b)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2163,7 +2163,7 @@ Amendment by Pub. L. 100–690 applicable to information first provided more tha
 
 **Effective Date of 1976 Amendments**
 
-Pub. L. 94–528, § 2(e), Oct. 17, 1976, 90 Stat. 2484, provided that: “The amendments made by this section [amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title] shall take effect on the date of the enactment of the Tax Reform Act of 1976 [Oct. 4, 1976].”
+Pub. L. 94–528, § 2(e), Oct. 17, 1976, 90 Stat. 2484, provided that: “The amendments made by this section [amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title] shall take effect on the date of the enactment of the Tax Reform Act of 1976 [Oct. 4, 1976].”
 
 Amendment by section 1202(h)(5) of Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as a note under section 6103 of this title.
 
@@ -2173,9 +2173,9 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 **Authorization of Appropriations**
 
-Pub. L. 100–690, title VII, § 7602(f), Nov. 18, 1988, 102 Stat. 4508, provided that: “There is authorized to be appropriated from the account referred to in section 7809(d) of the Internal Revenue Code of 1986 such sums as may be necessary to make the payments authorized by section 7624 of such Code.”
+Pub. L. 100–690, title VII, § 7602(f), Nov. 18, 1988, 102 Stat. 4508, provided that: “There is authorized to be appropriated from the account referred to in section 7809(d) of the Internal Revenue Code of 1986 such sums as may be necessary to make the payments authorized by section 7624 of such Code.”
 
-### § 7810. Revolving fund for redemption of real property
+### § 7810. Revolving fund for redemption of real property
 
 **(a) Establishment of fund**
 
@@ -2189,7 +2189,7 @@ The fund shall be reimbursed from the proceeds of a subsequent sale of real prop
 
 The Secretary shall maintain an adequate system of accounts for such fund and prepare annual reports on the basis of such accounts.
 
-(Added Pub. L. 89–719, title I, § 112(a), Nov. 2, 1966, 80 Stat. 1145; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 443, July 18, 1984, 98 Stat. 816.)
+(Added Pub. L. 89–719, title I, § 112(a), Nov. 2, 1966, 80 Stat. 1145; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 443, July 18, 1984, 98 Stat. 816.)
 
 **Editorial Notes**
 
@@ -2205,7 +2205,7 @@ The Secretary shall maintain an adequate system of accounts for such fund and pr
 
 Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
 
-### § 7811. Taxpayer Assistance Orders
+### § 7811. Taxpayer Assistance Orders
 
 **(a) Authority to issue**
 
@@ -2267,7 +2267,7 @@ For purposes of this section, the term “National Taxpayer Advocate” includes
 
 Any order issued or action taken by the National Taxpayer Advocate pursuant to this section shall apply to persons performing services under a qualified tax collection contract (as defined in section 6306(b)) to the same extent and in the same manner as such order or action applies to the Secretary.
 
-(Added Pub. L. 100–647, title VI, § 6230(a), Nov. 10, 1988, 102 Stat. 3733; amended Pub. L. 104–168, title I, §§ 101(b)(1), 102(a), (b), July 30, 1996, 110 Stat. 1455, 1456; Pub. L. 105–206, title I, § 1102(c), (d)(1)(C)–(G), (2), (3), July 22, 1998, 112 Stat. 703, 704; Pub. L. 106–554, § 1(a)(7) [title III, § 319(28), (29)], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 108–357, title VIII, § 881(c), Oct. 22, 2004, 118 Stat. 1626.)
+(Added Pub. L. 100–647, title VI, § 6230(a), Nov. 10, 1988, 102 Stat. 3733; amended Pub. L. 104–168, title I, §§ 101(b)(1), 102(a), (b), July 30, 1996, 110 Stat. 1455, 1456; Pub. L. 105–206, title I, § 1102(c), (d)(1)(C)–(G), (2), (3), July 22, 1998, 112 Stat. 703, 704; Pub. L. 106–554, § 1(a)(7) [title III, § 319(28), (29)], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 108–357, title VIII, § 881(c), Oct. 22, 2004, 118 Stat. 1626.)
 
 **Editorial Notes**
 
@@ -2275,35 +2275,35 @@ Any order issued or action taken by the National Taxpayer Advocate pursuant to t
 
 2004—Subsec. (g). Pub. L. 108–357 added subsec. (g).
 
-2000—Subsec. (a)(3). Pub. L. 106–554, § 1(a)(7) [title III, § 319(28)], substituted “Taxpayer Assistance Order” for “taxpayer assistance order”.
+2000—Subsec. (a)(3). Pub. L. 106–554, § 1(a)(7) [title III, § 319(28)], substituted “Taxpayer Assistance Order” for “taxpayer assistance order”.
 
-Subsec. (d)(1). Pub. L. 106–554, § 1(a)(7) [title III, § 319(29)], substituted “National Taxpayer Advocate’s” for “Ombudsman’s”.
+Subsec. (d)(1). Pub. L. 106–554, § 1(a)(7) [title III, § 319(29)], substituted “National Taxpayer Advocate’s” for “Ombudsman’s”.
 
-1998—Subsec. (a). Pub. L. 105–206, § 1102(c), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Upon application filed by a taxpayer with the Office of the Taxpayer Advocate (in such form, manner, and at such time as the Secretary shall by regulations prescribe), the Taxpayer Advocate may issue a Taxpayer Assistance Order if, in the determination of the Taxpayer Advocate, the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenue laws are being administered by the Secretary.”
+1998—Subsec. (a). Pub. L. 105–206, § 1102(c), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Upon application filed by a taxpayer with the Office of the Taxpayer Advocate (in such form, manner, and at such time as the Secretary shall by regulations prescribe), the Taxpayer Advocate may issue a Taxpayer Assistance Order if, in the determination of the Taxpayer Advocate, the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenue laws are being administered by the Secretary.”
 
-Subsec. (b)(2)(D). Pub. L. 105–206, § 1102(d)(1)(C), substituted “National Taxpayer Advocate” for “Taxpayer Advocate”.
+Subsec. (b)(2)(D). Pub. L. 105–206, § 1102(d)(1)(C), substituted “National Taxpayer Advocate” for “Taxpayer Advocate”.
 
-Subsec. (c). Pub. L. 105–206, § 1102(d)(1)(D), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” wherever appearing.
+Subsec. (c). Pub. L. 105–206, § 1102(d)(1)(D), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 105–206, § 1102(d)(2), which directed amendment of par. (1) by substituting “National Taxpayer Advocate’s” for “Taxpayer Advocate’s”, could not be executed because the words “Taxpayer Advocate’s” did not appear.
+Subsec. (d)(1). Pub. L. 105–206, § 1102(d)(2), which directed amendment of par. (1) by substituting “National Taxpayer Advocate’s” for “Taxpayer Advocate’s”, could not be executed because the words “Taxpayer Advocate’s” did not appear.
 
-Subsec. (d)(2). Pub. L. 105–206, § 1102(d)(1)(E), substituted “National Taxpayer Advocate” for “Taxpayer Advocate”.
+Subsec. (d)(2). Pub. L. 105–206, § 1102(d)(1)(E), substituted “National Taxpayer Advocate” for “Taxpayer Advocate”.
 
-Subsec. (e). Pub. L. 105–206, § 1102(d)(1)(F), (3), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in heading and text.
+Subsec. (e). Pub. L. 105–206, § 1102(d)(1)(F), (3), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in heading and text.
 
-Subsec. (f). Pub. L. 105–206, § 1102(d)(1)(G), (3), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in heading and in two places in text.
+Subsec. (f). Pub. L. 105–206, § 1102(d)(1)(G), (3), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in heading and in two places in text.
 
-1996—Subsec. (a). Pub. L. 104–168, § 101(b)(1), substituted “the Office of the Taxpayer Advocate” for “the Office of the Ombudsman” and substituted “Taxpayer Advocate” for “Ombudsman” in two places.
+1996—Subsec. (a). Pub. L. 104–168, § 101(b)(1), substituted “the Office of the Taxpayer Advocate” for “the Office of the Ombudsman” and substituted “Taxpayer Advocate” for “Ombudsman” in two places.
 
-Subsec. (b). Pub. L. 104–168, § 102(a)(1), inserted “within a specified time period” after “the Secretary”.
+Subsec. (b). Pub. L. 104–168, § 102(a)(1), inserted “within a specified time period” after “the Secretary”.
 
-Subsec. (b)(2). Pub. L. 104–168, § 102(a)(2), inserted “take any action as permitted by law,” after “cease any action,”.
+Subsec. (b)(2). Pub. L. 104–168, § 102(a)(2), inserted “take any action as permitted by law,” after “cease any action,”.
 
-Subsec. (b)(2)(D). Pub. L. 104–168, § 101(b)(1)(B), substituted “Taxpayer Advocate” for “Ombudsman”.
+Subsec. (b)(2)(D). Pub. L. 104–168, § 101(b)(1)(B), substituted “Taxpayer Advocate” for “Ombudsman”.
 
-Subsec. (c). Pub. L. 104–168, § 102(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any Taxpayer Assistance Order issued by the Ombudsman under this section may be modified or rescinded only by the Ombudsman, a district director, a service center director, a compliance center director, a regional director of appeals, or any superior of any such person.”
+Subsec. (c). Pub. L. 104–168, § 102(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any Taxpayer Assistance Order issued by the Ombudsman under this section may be modified or rescinded only by the Ombudsman, a district director, a service center director, a compliance center director, a regional director of appeals, or any superior of any such person.”
 
-Subsecs. (d)(2) to (f). Pub. L. 104–168, § 101(b)(1)(B), substituted “Taxpayer Advocate” for “Ombudsman” wherever appearing.
+Subsecs. (d)(2) to (f). Pub. L. 104–168, § 101(b)(1)(B), substituted “Taxpayer Advocate” for “Ombudsman” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2311,25 +2311,25 @@ Subsecs. (d)(2) to (f). Pub. L. 104–168, § 101(b)(1)(B), substituted “Tax
 
 Amendment by section 101(b)(1) of Pub. L. 104–168 effective July 30, 1996, see section 101(c) of Pub. L. 104–168, set out as a note under section 7802 of this title.
 
-Pub. L. 104–168, title I, § 102(c), July 30, 1996, 110 Stat. 1456, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title I, § 102(c), July 30, 1996, 110 Stat. 1456, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 30, 1996].”
 
 **Effective Date**
 
-Pub. L. 100–647, title VI, § 6230(d), Nov. 10, 1988, 102 Stat. 3734, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 1989.”
+Pub. L. 100–647, title VI, § 6230(d), Nov. 10, 1988, 102 Stat. 3734, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 1989.”
 
 **Regulations**
 
-Pub. L. 100–647, title VI, § 6230(c), Nov. 10, 1988, 102 Stat. 3734, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall issue such regulations as the Secretary deems necessary within 90 days of the date of the enactment of this Act [Nov. 10, 1988] in order to carry out the purposes of section 7811 of the 1986 Code (as added by this section) and to ensure taxpayers uniform access to administrative procedures.”
+Pub. L. 100–647, title VI, § 6230(c), Nov. 10, 1988, 102 Stat. 3734, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall issue such regulations as the Secretary deems necessary within 90 days of the date of the enactment of this Act [Nov. 10, 1988] in order to carry out the purposes of section 7811 of the 1986 Code (as added by this section) and to ensure taxpayers uniform access to administrative procedures.”
 
-### § 7812. Streamlined critical pay authority for information technology positions
+### § 7812. Streamlined critical pay authority for information technology positions
 
 In the case of any position which is critical to the functionality of the information technology operations of the Internal Revenue Service—
 
 **(1)** section 9503 of title 5, United States Code, shall be applied—
 
-**(A)** by substituting “during the period beginning on the date of the enactment of section 7812 of the Internal Revenue Code of 1986, and ending on September 30, 2025” for “Before September 30, 2013 in subsection (a)” 1
+**(A)** by substituting “during the period beginning on the date of the enactment of section 7812 of the Internal Revenue Code of 1986, and ending on September 30, 2025” for “Before September 30, 2013 in subsection (a)” 1
 
-<sup>1</sup>  So in original. The closing quotation marks probably should follow “Before September 30, 2013” instead of “(a)”.
+<sup>1</sup> So in original. The closing quotation marks probably should follow “Before September 30, 2013” instead of “(a)”.
 
 ,
 
@@ -2345,7 +2345,7 @@ In the case of any position which is critical to the functionality of the inform
 
 **(B)** by substituting “the information technology operations” for “significant functions” in subsection (a).
 
-(Added Pub. L. 116–25, title II, § 2103(a), July 1, 2019, 133 Stat. 1011.)
+(Added Pub. L. 116–25, title II, § 2103(a), July 1, 2019, 133 Stat. 1011.)
 
 **Editorial Notes**
 
@@ -2357,7 +2357,7 @@ The date of the enactment of the Taxpayer First Act, referred to in par. (1)(C),
 
 ## Subchapter B—Effective Date and Related Provisions
 
-### § 7851. Applicability of revenue laws
+### § 7851. Applicability of revenue laws
 
 **(a) General rules** Except as otherwise provided in any section of this title—
 
@@ -2389,9 +2389,9 @@ Subtitle C of this title shall apply only with respect to remuneration paid afte
 
 Subtitle D of this title shall take effect on January 1, 1955. Subtitles B and C of the Internal Revenue Code of 1939 (except chapters 7, 9, 15, 26, and 28, subchapter B of chapter 25, and parts VII and VIII of subchapter A of chapter 27 of such code) are hereby repealed effective January 1, 1955. Provisions having the same effect as section 6416(b)(2)(H),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-and so much of section 4082(c) 1 as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of May 1, 1954. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on April 1, 1954, and ending on December 31, 1954.
+and so much of section 4082(c) 1 as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of May 1, 1954. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on April 1, 1954, and ending on December 31, 1954.
 
 **(5) Subtitle E**
 
@@ -2465,7 +2465,7 @@ All periods of limitation, whether applicable to civil causes and proceedings, o
 
 For the purpose of applying the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 to any period, any reference in either such code to another provision of the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 which is not then applicable to such period shall be deemed a reference to the corresponding provision of the other code which is then applicable to such period.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 919; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 115–141, div. U, title IV, § 401(a)(335), (336), Mar. 23, 2018, 132 Stat. 1200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 919; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 115–141, div. U, title IV, § 401(a)(335), (336), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
@@ -2475,11 +2475,11 @@ The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)
 
 Various provisions of the Internal Revenue Code of 1939, referred to in text and described below, have corresponding provisions appearing in the Internal Revenue Code of 1986 [formerly I.R.C. 1954]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, subsec. (e) of this section for provision that references in the 1986 Code to a provision in the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (D), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Sections 1 to 33 were repealed by subsec. (a)(1)(A) of this section, section 34 was repealed by act Feb. 25, 1944, ch. 63, title I, § 106(c)(2), 58 Stat. 31, sections 35 to 184 were repealed by subsec. (a)(1)(A) of this section, section 185 was repealed by act Feb. 25, 1944, ch. 63, title I, § 107(a), 58 Stat. 31, sections 201 to 263 were repealed by subsec. (a)(1)(A) of this section, section 264 was repealed by act Oct. 21, 1942, ch. 619, title I, § 159(e), 56 Stat. 860, sections 265 to 362 were repealed by subsec. (a)(1)(A) of this section, section 363 was repealed by act Oct. 21, 1942, ch. 619, title I, § 170(a), 56 Stat. 878, sections 371 to 482 were repealed by subsec. (a)(1)(A) of this section.
+Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (D), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Sections 1 to 33 were repealed by subsec. (a)(1)(A) of this section, section 34 was repealed by act Feb. 25, 1944, ch. 63, title I, § 106(c)(2), 58 Stat. 31, sections 35 to 184 were repealed by subsec. (a)(1)(A) of this section, section 185 was repealed by act Feb. 25, 1944, ch. 63, title I, § 107(a), 58 Stat. 31, sections 201 to 263 were repealed by subsec. (a)(1)(A) of this section, section 264 was repealed by act Oct. 21, 1942, ch. 619, title I, § 159(e), 56 Stat. 860, sections 265 to 362 were repealed by subsec. (a)(1)(A) of this section, section 363 was repealed by act Oct. 21, 1942, ch. 619, title I, § 170(a), 56 Stat. 878, sections 371 to 482 were repealed by subsec. (a)(1)(A) of this section.
 
 Sections 143 and 144 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (B), were classified to sections 143 and 144 of former Title 26, Internal Revenue Code.
 
-Chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was comprised of sections 500 to 784 of former Title 26, Internal Revenue Code. Sections 500 to 511 and 650 to 706 were repealed by subsec. (a)(1)(A) of this section, sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, § 202, 59 Stat. 574, sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, § 122(a), 59 Stat. 568, section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§ 224(b), 228(b), 56 Stat. 920, 925, section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, § 229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
+Chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was comprised of sections 500 to 784 of former Title 26, Internal Revenue Code. Sections 500 to 511 and 650 to 706 were repealed by subsec. (a)(1)(A) of this section, sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, § 202, 59 Stat. 574, sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, § 122(a), 59 Stat. 568, section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§ 224(b), 228(b), 56 Stat. 920, 925, section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, § 229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
 Section 3801 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was classified to section 3801 of former Title 26, Internal Revenue Code. Section 3801 was repealed by subsec. (a)(1)(A) of this section.
 
@@ -2497,11 +2497,11 @@ Chapter 4 of the Internal Revenue Code of 1939, referred to in subsec. (a)(2)(B)
 
 Chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a)(3), (4), was comprised of sections 1400 to 1636 of former Title 26, Internal Revenue Code. Subchapters B and E of chapter 9 of the Internal Revenue Code of 1939 were comprised of sections 1500 to 1538, and 1630 to 1636, respectively, of former Title 26.
 
-Subtitles B and C of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), were comprised of chapters 6 to 28, sections 1200 to 3361, and chapters 29 to 33A, sections 3400 to 3540, respectively, of former Title 26, Internal Revenue Code. Sections 1200 to 1207 of former Title 26 were repealed by act Nov. 8, 1945, ch. 453, title II, § 201, 59 Stat. 574. Sections 1250 to 1254, 1400 to 1627, 1631 to 1805, 1807 to 2300, 2302 to 2362, 2400 to 2475, 2477 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195, 3206 to 3212, 3220 to 3301, 3303 to 3335, 3350 to 3409, 3412 to 3451, and 3453 to 3508 of former Title 26, were repealed by subsec. (a)(4) of this section. Sections 1300 and 1301 were repealed by act June 10, 1952, ch. 390, 66 Stat. 133. Section 1630 was repealed by act Aug. 27, 1949, ch. 517, § 4(b), 63 Stat. 668. Section 1806 was repealed by act Mar. 11, 1947, ch. 117, § 8(c), 61 Stat. 13. Section 2301 was repealed by act Mar. 16, 1950, ch. 61, § 1, 64 Stat. 20. Sections 2380 to 2390, and 3215 to 3217 were repealed by act Oct. 21, 1942, ch. 619, title VI, § 619, 56 Stat. 979. Section 2476 was repealed by act Apr. 30, 1946, ch. 244, title V, § 506(b), 60 Stat. 157. Sections 2906 and 3302 were repealed by act Feb. 21, 1950, ch. 36, § 7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 27, 1949, ch. 498, § 6, 63 Stat. 626. Sections 3200 to 3202 were repealed by act Mar. 16, 1950, ch. 61, § 2, 64 Stat. 20. Sections 3340 to 3343 were repealed by act Apr. 30, 1946, ch. 244, title V, § 507(b), 60 Stat. 157. Section 3411 was repealed by act Oct. 20, 1951, ch. 521, title IV, § 488(a), 65 Stat. 536. Section 3452 was repealed by act Sept. 20, 1941, ch. 412, title V, § 501, 55 Stat. 706. Sections 3520 to 3528 expired by their own terms on Apr. 26, 1941. Section 3540 was repealed by act Nov. 8, 1945, ch. 453, title III, § 301, 59 Stat. 575.
+Subtitles B and C of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), were comprised of chapters 6 to 28, sections 1200 to 3361, and chapters 29 to 33A, sections 3400 to 3540, respectively, of former Title 26, Internal Revenue Code. Sections 1200 to 1207 of former Title 26 were repealed by act Nov. 8, 1945, ch. 453, title II, § 201, 59 Stat. 574. Sections 1250 to 1254, 1400 to 1627, 1631 to 1805, 1807 to 2300, 2302 to 2362, 2400 to 2475, 2477 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195, 3206 to 3212, 3220 to 3301, 3303 to 3335, 3350 to 3409, 3412 to 3451, and 3453 to 3508 of former Title 26, were repealed by subsec. (a)(4) of this section. Sections 1300 and 1301 were repealed by act June 10, 1952, ch. 390, 66 Stat. 133. Section 1630 was repealed by act Aug. 27, 1949, ch. 517, § 4(b), 63 Stat. 668. Section 1806 was repealed by act Mar. 11, 1947, ch. 117, § 8(c), 61 Stat. 13. Section 2301 was repealed by act Mar. 16, 1950, ch. 61, § 1, 64 Stat. 20. Sections 2380 to 2390, and 3215 to 3217 were repealed by act Oct. 21, 1942, ch. 619, title VI, § 619, 56 Stat. 979. Section 2476 was repealed by act Apr. 30, 1946, ch. 244, title V, § 506(b), 60 Stat. 157. Sections 2906 and 3302 were repealed by act Feb. 21, 1950, ch. 36, § 7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 27, 1949, ch. 498, § 6, 63 Stat. 626. Sections 3200 to 3202 were repealed by act Mar. 16, 1950, ch. 61, § 2, 64 Stat. 20. Sections 3340 to 3343 were repealed by act Apr. 30, 1946, ch. 244, title V, § 507(b), 60 Stat. 157. Section 3411 was repealed by act Oct. 20, 1951, ch. 521, title IV, § 488(a), 65 Stat. 536. Section 3452 was repealed by act Sept. 20, 1941, ch. 412, title V, § 501, 55 Stat. 706. Sections 3520 to 3528 expired by their own terms on Apr. 26, 1941. Section 3540 was repealed by act Nov. 8, 1945, ch. 453, title III, § 301, 59 Stat. 575.
 
 Chapter 15 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2000 to 2199 of former Title 26, Internal Revenue Code. Chapter 15 was repealed by subsec. (a)(5) of this section.
 
-Chapter 26 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2800 to 3195 of former Title 26, Internal Revenue Code. Sections 2800 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195 were repealed by subsec. (a)(5) of this section. Section 2906 was repealed by act Feb. 21, 1950, ch. 36, § 7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, § 3, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 23, 1949, ch. 498, § 6, 63 Stat. 626.
+Chapter 26 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2800 to 3195 of former Title 26, Internal Revenue Code. Sections 2800 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195 were repealed by subsec. (a)(5) of this section. Section 2906 was repealed by act Feb. 21, 1950, ch. 36, § 7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, § 3, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 23, 1949, ch. 498, § 6, 63 Stat. 626.
 
 Chapter 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (6)(B), (D), was comprised of sections 3300 to 3361 of former Title 26, Internal Revenue Code. Part II of subchapter A of chapter 27 of the Internal Revenue Code of 1939 was comprised of sections 3310 to 3314 of former Title 26.
 
@@ -2509,9 +2509,9 @@ Subchapter B of chapter 25 of the Internal Revenue Code of 1939, referred to in 
 
 Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), were comprised of sections 3250 to 3255 and 3260 to 3266, respectively, of former Title 26, Internal Revenue Code. Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939 were repealed by subsec. (a)(5) of this section.
 
-Section 6416(b)(2)(H), referred to in subsec. (a)(4), was repealed by Pub. L. 98–369, div. A, title VII, § 735(c)(13)(B), July 18, 1984, 98 Stat. 984.
+Section 6416(b)(2)(H), referred to in subsec. (a)(4), was repealed by Pub. L. 98–369, div. A, title VII, § 735(c)(13)(B), July 18, 1984, 98 Stat. 984.
 
-Section 4082, referred to in subsec. (a)(4), was amended generally by Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2775, and, as so amended, did not contain a subsec. (c). Subsequently, section 4082 was amended generally by Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 517, and, as so amended, contains a subsec. (c) relating to regulations. Section 4082 was further amended by Pub. L. 104–188, title I, § 1801(a), Aug. 20, 1996, 110 Stat. 1891, which added a subsec. (c), relating to exception to dyeing requirements, and redesignated former subsec. (c), relating to regulations, as (d).
+Section 4082, referred to in subsec. (a)(4), was amended generally by Pub. L. 99–514, title XVII, § 1703(a), Oct. 22, 1986, 100 Stat. 2775, and, as so amended, did not contain a subsec. (c). Subsequently, section 4082 was amended generally by Pub. L. 103–66, title XIII, § 13242(a), Aug. 10, 1993, 107 Stat. 517, and, as so amended, contains a subsec. (c) relating to regulations. Section 4082 was further amended by Pub. L. 104–188, title I, § 1801(a), Aug. 20, 1996, 110 Stat. 1891, which added a subsec. (c), relating to exception to dyeing requirements, and redesignated former subsec. (c), relating to regulations, as (d).
 
 Section 2450(a) of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), was classified to section 2450 of former Title 26, Internal Revenue Code. Section 2450 was repealed by subsec. (a)(4) of this section.
 
@@ -2527,15 +2527,15 @@ Reorganization Plan Numbered 1 of 1952, referred to in subsec. (b)(3), is Reorg.
 
 **Amendments**
 
-2018—Subsec. (a)(1)(A). Pub. L. 115–141, § 401(a)(335), struck out “, 4” after “Chapters 1, 2”.
+2018—Subsec. (a)(1)(A). Pub. L. 115–141, § 401(a)(335), struck out “, 4” after “Chapters 1, 2”.
 
-Subsec. (a)(1)(B). Pub. L. 115–141, § 401(a)(336), substituted “Chapter 3” for “Chapters 3 and 5”.
+Subsec. (a)(1)(B). Pub. L. 115–141, § 401(a)(336), substituted “Chapter 3” for “Chapters 3 and 5”.
 
 1986—Subsecs. (a)(7), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1976—Subsec. (a)(5). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 7852. Other applicable rules
+### § 7852. Other applicable rules
 
 **(a) Separability clause**
 
@@ -2563,13 +2563,13 @@ No provision of this title (as in effect without regard to any amendment thereto
 
 The provisions of subsections (d)(2), (3), and (4), and (g) of section 552a of title 5, United States Code, shall not be applied, directly or indirectly, to the determination of the existence or possible existence of liability (or the amount thereof) of any person for any tax, penalty, interest, fine, forfeiture, or other imposition or offense to which the provisions of this title apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 922; Pub. L. 94–455, title XII, § 1202(g), Oct. 4, 1976, 90 Stat. 1688; Pub. L. 100–647, title I, § 1012(aa)(1)(A), Nov. 10, 1988, 102 Stat. 3531.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 922; Pub. L. 94–455, title XII, § 1202(g), Oct. 4, 1976, 90 Stat. 1688; Pub. L. 100–647, title I, § 1012(aa)(1)(A), Nov. 10, 1988, 102 Stat. 3531.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 Chapters 1 and 2 of the Internal Revenue Code of 1939, referred to in subsec. (c), are chapters 1 and 2 of former Title 26, Internal Revenue Code. For history of such chapters, see References in Text note set out under section 7851 of this title.
 
@@ -2585,7 +2585,7 @@ The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 3
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1012(aa)(1)(B), Nov. 10, 1988, 102 Stat. 3531, provided that: “Section 7852(d)(1) of the 1986 Code, as added by subparagraph (A), shall apply to any taxable period with respect to which the time for assessment of any deficiency has not expired by reason of any law or rule of law before the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title I, § 1012(aa)(1)(B), Nov. 10, 1988, 102 Stat. 3531, provided that: “Section 7852(d)(1) of the 1986 Code, as added by subparagraph (A), shall apply to any taxable period with respect to which the time for assessment of any deficiency has not expired by reason of any law or rule of law before the date of the enactment of this Act [Nov. 10, 1988].”
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -2595,7 +2595,7 @@ Amendment by Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub
 
 **Application of Subsec. (d) to Pub. L. 87–834**
 
-Pub. L. 87–834, § 31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 7852(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to treaty obligations) shall not apply in respect of any amendment made by this Act [see Short Title of 1962 Amendments note set out under section 1 of this title].”
+Pub. L. 87–834, § 31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 7852(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to treaty obligations) shall not apply in respect of any amendment made by this Act [see Short Title of 1962 Amendments note set out under section 1 of this title].”
 
 ## Subchapter C—Provisions Affecting More Than One Subtitle
 
@@ -2603,13 +2603,13 @@ Pub. L. 87–834, § 31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 9
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 801(b), Oct. 22, 2004, 118 Stat. 1566, added item 7874.
+2004—Pub. L. 108–357, title VIII, § 801(b), Oct. 22, 2004, 118 Stat. 1566, added item 7874.
 
-1988—Pub. L. 100–647, title III, § 3041(b), Nov. 10, 1988, 102 Stat. 3641, added item 7873.
+1988—Pub. L. 100–647, title III, § 3041(b), Nov. 10, 1988, 102 Stat. 3641, added item 7873.
 
-1984—Pub. L. 98–369, div. A, title I, § 172(b), July 18, 1984, 98 Stat. 703, added item 7872.
+1984—Pub. L. 98–369, div. A, title I, § 172(b), July 18, 1984, 98 Stat. 703, added item 7872.
 
-### § 7871. Indian tribal governments treated as States for certain purposes
+### § 7871. Indian tribal governments treated as States for certain purposes
 
 **(a) General rule** An Indian tribal government shall be treated as a State—
 
@@ -2779,7 +2779,7 @@ There is a national tribal economic development bond limitation of $2,000,000,00
 
 The maximum aggregate face amount of bonds which may be designated by any Indian tribal government under subparagraph (A) shall not exceed the amount of national tribal economic development bond limitation allocated to such government under paragraph (1).
 
-(Added Pub. L. 97–473, title II, § 202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, § 122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, § 474(r)(41), title X, § 1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§ 112(b)(4), 123(b)(3), title XIII, § 1301(j)(6), (7), title XVIII, §§ 1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203, title X, § 10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, § 13222(d), Aug. 10, 1993, 107 Stat. 481; Pub. L. 111–5, div. B, title I, § 1402(a), Feb. 17, 2009, 123 Stat. 351; Pub. L. 115–141, div. U, title IV, § 401(a)(337), Mar. 23, 2018, 132 Stat. 1200.)
+(Added Pub. L. 97–473, title II, § 202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, § 122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, § 474(r)(41), title X, § 1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§ 112(b)(4), 123(b)(3), title XIII, § 1301(j)(6), (7), title XVIII, §§ 1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203, title X, § 10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, § 13222(d), Aug. 10, 1993, 107 Stat. 481; Pub. L. 111–5, div. B, title I, § 1402(a), Feb. 17, 2009, 123 Stat. 351; Pub. L. 115–141, div. U, title IV, § 401(a)(337), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
@@ -2795,23 +2795,23 @@ Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (f)(3)(B)(
 
 1993—Subsec. (a)(6)(B) to (D). Pub. L. 103–66 redesignated former subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “section 162(e) (relating to appearances, etc., with respect to legislation),”.
 
-1987—Subsec. (c)(2). Pub. L. 100–203, § 10632(b)(2), substituted “Except as provided in paragraph (3), subsection (a)” for “Subsection (a)”.
+1987—Subsec. (c)(2). Pub. L. 100–203, § 10632(b)(2), substituted “Except as provided in paragraph (3), subsection (a)” for “Subsection (a)”.
 
-Subsec. (c)(3). Pub. L. 100–203, § 10632(b)(1), added par. (3).
+Subsec. (c)(3). Pub. L. 100–203, § 10632(b)(1), added par. (3).
 
-Subsec. (e). Pub. L. 100–203, § 10632(a), added subsec. (e).
+Subsec. (e). Pub. L. 100–203, § 10632(a), added subsec. (e).
 
-1986—Subsec. (a)(4). Pub. L. 99–514, § 1301(j)(6), substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
+1986—Subsec. (a)(4). Pub. L. 99–514, § 1301(j)(6), substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
 
-Subsec. (a)(6). Pub. L. 99–514, § 123(b)(3), redesignated subpars. (C) to (E), as previously redesignated by section 112(b)(4) of Pub. L. 99–514, as (B) to (D), respectively, and struck out previously redesignated subpar. (B), which read as follows: “section 117(b)(2)(A) (relating to scholarships and fellowship grants),”.
+Subsec. (a)(6). Pub. L. 99–514, § 123(b)(3), redesignated subpars. (C) to (E), as previously redesignated by section 112(b)(4) of Pub. L. 99–514, as (B) to (D), respectively, and struck out previously redesignated subpar. (B), which read as follows: “section 117(b)(2)(A) (relating to scholarships and fellowship grants),”.
 
-Pub. L. 99–514, § 112(b)(4), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “section 24(c)(4) (defining State for purposes of credit for contribution to candidates for public offices),”.
+Pub. L. 99–514, § 112(b)(4), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “section 24(c)(4) (defining State for purposes of credit for contribution to candidates for public offices),”.
 
-Pub. L. 99–514, § 1878(i), made technical amendment to directory language of Pub. L. 98–369, § 1065(b). See 1984 Amendment note below.
+Pub. L. 99–514, § 1878(i), made technical amendment to directory language of Pub. L. 98–369, § 1065(b). See 1984 Amendment note below.
 
-Subsec. (a)(6)(D). Pub. L. 99–514, § 1899A(65), substituted “; and” for period at end.
+Subsec. (a)(6)(D). Pub. L. 99–514, § 1899A(65), substituted “; and” for period at end.
 
-Subsec. (c)(2). Pub. L. 99–514, § 1301(j)(7), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subsection (a) of section 103 shall not apply to any of the following issued by an Indian tribal government (or subdivision thereof):
+Subsec. (c)(2). Pub. L. 99–514, § 1301(j)(7), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subsection (a) of section 103 shall not apply to any of the following issued by an Indian tribal government (or subdivision thereof):
 
 “(A) An industrial development bond (as defined in section 103(b)(2)).
 
@@ -2819,9 +2819,9 @@ Subsec. (c)(2). Pub. L. 99–514, § 1301(j)(7), amended par. (2) generally. P
 
 “(C) A mortgage subsidy bond (as defined in paragraph (1) of section 103A(b) without regard to paragraph (2) thereof).”
 
-1984—Subsec. (a)(6)(A). Pub. L. 98–369, § 474(r)(41), substituted “section 24(c)(4)” for “section 41(c)(4)”.
+1984—Subsec. (a)(6)(A). Pub. L. 98–369, § 474(r)(41), substituted “section 24(c)(4)” for “section 41(c)(4)”.
 
-Subsec. (a)(6)(B) to (F). Pub. L. 98–369, § 1065(b), as amended by Pub. L. 99–514, § 1878(i), added subpars. (B), (D), and (F), and redesignated former subpars. (B) and (C) as (C) and (E), respectively.
+Subsec. (a)(6)(B) to (F). Pub. L. 98–369, § 1065(b), as amended by Pub. L. 99–514, § 1878(i), added subpars. (B), (D), and (F), and redesignated former subpars. (B) and (C) as (C) and (E), respectively.
 
 1983—Subsec. (a)(6). Pub. L. 98–21 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A), which referred to section 37(e)(9)(A) (relating to certain public retirement systems).
 
@@ -2829,7 +2829,7 @@ Subsec. (a)(6)(B) to (F). Pub. L. 98–369, § 1065(b), as amended by Pub. L. 
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–5, div. B, title I, § 1402(c), Feb. 17, 2009, 123 Stat. 352, provided that: “The amendment made by subsection (a) [amending this section] shall apply to obligations issued after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, § 1402(c), Feb. 17, 2009, 123 Stat. 352, provided that: “The amendment made by subsection (a) [amending this section] shall apply to obligations issued after the date of the enactment of this Act [Feb. 17, 2009].”
 
 **Effective Date of 1993 Amendment**
 
@@ -2837,7 +2837,7 @@ Amendment by Pub. L. 103–66 applicable to amounts paid or incurred after Dec. 
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10632(c), Dec. 22, 1987, 101 Stat. 1330–457, provided that: “The amendments made by this section [amending this section] shall apply to obligations issued after October 13, 1987.”
+Pub. L. 100–203, title X, § 10632(c), Dec. 22, 1987, 101 Stat. 1330–457, provided that: “The amendments made by this section [amending this section] shall apply to obligations issued after October 13, 1987.”
 
 **Effective Date of 1986 Amendment**
 
@@ -2853,7 +2853,7 @@ Amendment by section 1878(i) of Pub. L. 99–514 effective, except as otherwise 
 
 Amendment by section 474(r)(41) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Pub. L. 98–369, div. A, title X, § 1065(c), July 18, 1984, 98 Stat. 1048, provided that: “The amendment made by subsection (b) [amending this section] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title X, § 1065(c), July 18, 1984, 98 Stat. 1048, provided that: “The amendment made by subsection (b) [amending this section] shall apply to taxable years beginning after December 31, 1984.”
 
 **Effective Date of 1983 Amendment**
 
@@ -2861,7 +2861,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 **Effective Date**
 
-Pub. L. 97–473, title II, § 204, Jan. 14, 1983, 96 Stat. 2611, as amended by Pub. L. 98–369, div. A, title X, § 1065(a), July 18, 1984, 98 Stat. 1048; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–473, title II, § 204, Jan. 14, 1983, 96 Stat. 2611, as amended by Pub. L. 98–369, div. A, title X, § 1065(a), July 18, 1984, 98 Stat. 1048; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “The amendments made by this title [enacting this section, amending sections 41, 103, 164, 170, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6424, 6427, and 7701 of this title, and enacting provisions set out as a note under section 1 of this title]—
 
@@ -2883,11 +2883,11 @@ For short title of title II of Pub. L. 97–473 as the “Indian Tribal Governme
 
 For nonapplication of amendment by section 123(b)(3) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 7872. Treatment of loans with below-market interest rates
+### § 7872. Treatment of loans with below-market interest rates
 
 **(a) Treatment of gift loans and demand loans**
 
@@ -3193,7 +3193,7 @@ The term “qualified continuing care facility” shall not include any facility
 
 Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
-(Added Pub. L. 98–369, div. A, title I, § 172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§ 201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, § 511(d)(1), title XVIII, §§ 1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§ 1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§ 1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, § 312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, § 6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, § 1(a)(7) [title III, § 319(30)], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, § 209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, § 425(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 115–97, title I, § 11002(d)(14), Dec. 22, 2017, 131 Stat. 2062.)
+(Added Pub. L. 98–369, div. A, title I, § 172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§ 201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, § 511(d)(1), title XVIII, §§ 1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§ 1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§ 1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, § 312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, § 6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, § 1(a)(7) [title III, § 319(30)], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, § 209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, § 425(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 115–97, title I, § 11002(d)(14), Dec. 22, 2017, 131 Stat. 2062.)
 
 **Editorial Notes**
 
@@ -3211,13 +3211,13 @@ Under regulations prescribed by the Secretary, any loan which is made with donat
 
 For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of such calendar year.”
 
-2006—Subsec. (g)(6). Pub. L. 109–222, § 209(b)(1), added par. (6).
+2006—Subsec. (g)(6). Pub. L. 109–222, § 209(b)(1), added par. (6).
 
-Subsec. (h). Pub. L. 109–222, § 209(a), added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 109–222, § 209(a), added subsec. (h). Former subsec. (h) redesignated (i).
 
 Subsec. (h)(4). Pub. L. 109–432 struck out heading and text of par. (4). Text read as follows: “This subsection shall not apply to any calendar year after 2010.”
 
-Subsec. (i). Pub. L. 109–222, § 209(a), redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 109–222, § 209(a), redesignated subsec. (h) as (i).
 
 2000—Subsec. (f)(3). Pub. L. 106–554 substituted “forgoing” for “foregoing”.
 
@@ -3225,39 +3225,39 @@ Subsec. (i). Pub. L. 109–222, § 209(a), redesignated subsec. (h) as (i).
 
 1997—Subsec. (f)(11)(A). Pub. L. 105–34 substituted “section 121” for “section 1034”.
 
-1996—Subsec. (a)(1), (2). Pub. L. 104–188, § 1704(t)(58)(A), substituted “forgone” for “foregone”.
+1996—Subsec. (a)(1), (2). Pub. L. 104–188, § 1704(t)(58)(A), substituted “forgone” for “foregone”.
 
-Subsec. (e). Pub. L. 104–188, § 1704(t)(58)(B), substituted “forgone” for “foregone” in heading.
+Subsec. (e). Pub. L. 104–188, § 1704(t)(58)(B), substituted “forgone” for “foregone” in heading.
 
-Subsec. (e)(2). Pub. L. 104–188, § 1704(t)(58), substituted “Forgone” for “Foregone” in heading and “forgone” for “foregone” in introductory provisions of text.
+Subsec. (e)(2). Pub. L. 104–188, § 1704(t)(58), substituted “Forgone” for “Foregone” in heading and “forgone” for “foregone” in introductory provisions of text.
 
-Subsec. (f)(8). Pub. L. 104–188, § 1906(c)(2), inserted “, 643(i),” before “or 1274” in heading and text.
+Subsec. (f)(8). Pub. L. 104–188, § 1906(c)(2), inserted “, 643(i),” before “or 1274” in heading and text.
 
-Subsec. (f)(12). Pub. L. 104–188, § 1602(b)(7), struck out par. (12) which read as follows: “Special rule for certain employer security loans.—This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation.”
+Subsec. (f)(12). Pub. L. 104–188, § 1602(b)(7), struck out par. (12) which read as follows: “Special rule for certain employer security loans.—This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation.”
 
-1988—Subsec. (d)(1)(E)(i). Pub. L. 100–647, § 1005(c)(15), directed substitution of “section 163(d)(4)” for “section 163(d)(3)”, which substitution had been previously made by Pub. L. 99–514, § 511(d)(1).
+1988—Subsec. (d)(1)(E)(i). Pub. L. 100–647, § 1005(c)(15), directed substitution of “section 163(d)(4)” for “section 163(d)(3)”, which substitution had been previously made by Pub. L. 99–514, § 511(d)(1).
 
-Subsec. (f)(11), (12). Pub. L. 100–647, § 1018(u)(48), redesignated former par. (11), Pub. L. 99–514, relating to special rule for certain employer security loans, as (12).
+Subsec. (f)(11), (12). Pub. L. 100–647, § 1018(u)(48), redesignated former par. (11), Pub. L. 99–514, relating to special rule for certain employer security loans, as (12).
 
-1986—Subsec. (d)(1)(E)(i). Pub. L. 99–514, § 511(d)(1), substituted “section 163(d)(4)” for “section 163(d)(3)”.
+1986—Subsec. (d)(1)(E)(i). Pub. L. 99–514, § 511(d)(1), substituted “section 163(d)(4)” for “section 163(d)(3)”.
 
-Subsec. (f)(2)(B). Pub. L. 99–514, § 1812(b)(4), inserted “, compounded semiannually” before the period at end.
+Subsec. (f)(2)(B). Pub. L. 99–514, § 1812(b)(4), inserted “, compounded semiannually” before the period at end.
 
-Subsec. (f)(5). Pub. L. 99–514, § 1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘demand loan’ means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which is conditioned on the future performance of substantial services by an individual.”
+Subsec. (f)(5). Pub. L. 99–514, § 1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘demand loan’ means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which is conditioned on the future performance of substantial services by an individual.”
 
-Subsec. (f)(9). Pub. L. 99–514, § 1812(b)(2), amended par. (9) generally, inserting the subpar. (A) designation and adding subpar. (B).
+Subsec. (f)(9). Pub. L. 99–514, § 1812(b)(2), amended par. (9) generally, inserting the subpar. (A) designation and adding subpar. (B).
 
-Subsec. (f)(11). Pub. L. 99–514, § 1854(c)(2)(B), added par. (11) relating to special rule for certain employer security loans.
+Subsec. (f)(11). Pub. L. 99–514, § 1854(c)(2)(B), added par. (11) relating to special rule for certain employer security loans.
 
-1985—Subsec. (c)(1). Pub. L. 99–121, § 201(c)(1), inserted “and subsection (g)” after “this subsection” in provisions preceding subpar. (A).
+1985—Subsec. (c)(1). Pub. L. 99–121, § 201(c)(1), inserted “and subsection (g)” after “this subsection” in provisions preceding subpar. (A).
 
-Subsec. (c)(1)(E). Pub. L. 99–121, § 201(c)(2), substituted “(C), or (F)” for “or (C)”.
+Subsec. (c)(1)(E). Pub. L. 99–121, § 201(c)(2), substituted “(C), or (F)” for “or (C)”.
 
-Subsec. (c)(1)(F). Pub. L. 99–121, § 201(b), added subpar. (F).
+Subsec. (c)(1)(F). Pub. L. 99–121, § 201(b), added subpar. (F).
 
-Subsec. (f)(11). Pub. L. 99–121, § 202, added par. (11) relating to time for determining rate applicable to employee relocation loans.
+Subsec. (f)(11). Pub. L. 99–121, § 202, added par. (11) relating to time for determining rate applicable to employee relocation loans.
 
-Subsecs. (g), (h). Pub. L. 99–121, § 201(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 99–121, § 201(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3267,7 +3267,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. A, title IV, § 425(b), Dec. 20, 2006, 120 Stat. 2974, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 209 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222].”
+Pub. L. 109–432, div. A, title IV, § 425(b), Dec. 20, 2006, 120 Stat. 2974, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 209 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222].”
 
 Amendment by Pub. L. 109–222 applicable to calendar years beginning after Dec. 31, 2005, with respect to loans made before, on, or after such date, see section 209(c) of Pub. L. 109–222, set out as a note under section 142 of this title.
 
@@ -3293,7 +3293,7 @@ Amendment by sections 1812(b)(2)–(4) and 1854(c)(2)(B) of Pub. L. 99–514 eff
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–121, title II, § 204(a), (b), Oct. 11, 1985, 99 Stat. 514, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–121, title II, § 204(a), (b), Oct. 11, 1985, 99 Stat. 514, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) Section 201.—**
 
@@ -3305,7 +3305,7 @@ Pub. L. 99–121, title II, § 204(a), (b), Oct. 11, 1985, 99 Stat. 514, as am
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title I, § 172(c), July 18, 1984, 98 Stat. 703, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, § 172(c), July 18, 1984, 98 Stat. 703, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting this section] shall apply to—
 
@@ -3327,13 +3327,13 @@ Pub. L. 98–369, div. A, title I, § 172(c), July 18, 1984, 98 Stat. 703, as 
 
 > **“(6) Definition of term and demand loans.—** For purposes of this subsection, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986, as added by this section, but the second sentence of such paragraph (5) shall not apply.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Certain Israel or Polish Bonds Not Subject to Rules Relating to Below-Market Loans**
 
-Pub. L. 99–514, title XVIII, § 1812(b)(5), Oct. 22, 1986, 100 Stat. 2834, as amended by Pub. L. 101–179, title III, § 307(a), Nov. 28, 1989, 103 Stat. 1314, provided that:
+Pub. L. 99–514, title XVIII, § 1812(b)(5), Oct. 22, 1986, 100 Stat. 2834, as amended by Pub. L. 101–179, title III, § 307(a), Nov. 28, 1989, 103 Stat. 1314, provided that:
 
 > “Section 7872 of the Internal Revenue Code of 1954 [now 1986] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
 
@@ -3341,9 +3341,9 @@ Pub. L. 99–514, title XVIII, § 1812(b)(5), Oct. 22, 1986, 100 Stat. 2834, a
 
 > **“(B)** the obligation bears interest at an annual rate of not less than 4 percent.”
 
-[Pub. L. 101–179, title III, § 307(b), Nov. 28, 1989, 103 Stat. 1314, provided that: “The amendments made by this section [amending section 1812(b)(5) of Pub. L. 99–514, set out above] shall apply to obligations issued after the date of the enactment of this Act [Nov. 28, 1989].” ]
+[Pub. L. 101–179, title III, § 307(b), Nov. 28, 1989, 103 Stat. 1314, provided that: “The amendments made by this section [amending section 1812(b)(5) of Pub. L. 99–514, set out above] shall apply to obligations issued after the date of the enactment of this Act [Nov. 28, 1989].” ]
 
-### § 7873. Income derived by Indians from exercise of fishing rights
+### § 7873. Income derived by Indians from exercise of fishing rights
 
 **(a) In general**
 
@@ -3401,19 +3401,19 @@ For purposes of this section, any distribution with respect to an equity interes
 
 then the entire amount shall be entitled to the benefits of such paragraph.
 
-(Added Pub. L. 100–647, title III, § 3041(a), Nov. 10, 1988, 102 Stat. 3640.)
+(Added Pub. L. 100–647, title III, § 3041(a), Nov. 10, 1988, 102 Stat. 3640.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–647, title III, § 3044, Nov. 10, 1988, 102 Stat. 3642, provided that:
+Pub. L. 100–647, title III, § 3044, Nov. 10, 1988, 102 Stat. 3642, provided that:
 
-> **“(a) Effective Date.—** The amendments made by this subtitle [subtitle E (§§ 3041–3044) of title III of Pub. L. 100–647, enacting this section and amending sections 1402 and 3121 of this title, section 71 of Title 25, Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare] shall apply to all periods beginning before, on, or after the date of the enactment of this Act [Nov. 10, 1988].
+> **“(a) Effective Date.—** The amendments made by this subtitle [subtitle E (§§ 3041–3044) of title III of Pub. L. 100–647, enacting this section and amending sections 1402 and 3121 of this title, section 71 of Title 25, Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare] shall apply to all periods beginning before, on, or after the date of the enactment of this Act [Nov. 10, 1988].
 
 > **“(b) No Inference Created.—** Nothing in the amendments made by this subtitle shall create any inference as to the existence or non-existence or scope of any exemption from tax for income derived from fishing rights secured as of March 17, 1988, by any treaty, law, or Executive Order.”
 
-### § 7874. Rules relating to expatriated entities and their foreign parents
+### § 7874. Rules relating to expatriated entities and their foreign parents
 
 **(a) Tax on inversion gain of expatriated entities**
 
@@ -3551,7 +3551,7 @@ Nothing in section 894 or 7852(d) or in any other provision of law shall be cons
 
 **(2)** transactions designed to have persons cease to be (or not become) members of expanded affiliated groups or related persons.
 
-(Added Pub. L. 108–357, title VIII, § 801(a), Oct. 22, 2004, 118 Stat. 1562; amended Pub. L. 109–135, title IV, § 403(u), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 115–97, title I, § 13001(b)(1)(C), Dec. 22, 2017, 131 Stat. 2096.)
+(Added Pub. L. 108–357, title VIII, § 801(a), Oct. 22, 2004, 118 Stat. 1562; amended Pub. L. 109–135, title IV, § 403(u), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 115–97, title I, § 13001(b)(1)(C), Dec. 22, 2017, 131 Stat. 2096.)
 
 **Editorial Notes**
 
@@ -3573,4 +3573,4 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date**
 
-Pub. L. 108–357, title VIII, § 801(c), Oct. 22, 2004, 118 Stat. 1566, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years ending after March 4, 2003.”
+Pub. L. 108–357, title VIII, § 801(c), Oct. 22, 2004, 118 Stat. 1566, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years ending after March 4, 2003.”

@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 27—INTOXICATING LIQUORS
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—GENERAL PROVISIONS](chapter-001-general-provisions.md)
 

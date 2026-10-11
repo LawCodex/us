@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—UNION STATION COMPLEX
 
-### § 6901. Definition
+### § 6901. Definition
 
 In this subchapter, the term “Union Station complex” means real property, air rights, and improvements the Secretary of the Interior leased under sections 101–110 of the National Visitors Center Facilities Act of 1968 (Public Law 90–264, 82 Stat. 43) and property acquired and improvements made in accordance with this subchapter.
 
@@ -27,19 +27,19 @@ In this subchapter, the term “Union Station complex” means real property, ai
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6901 | 40:811(a) (last sentence). | Pub. L. 90–264, title I, § 111(a) (last sentence), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1668. |
+| 6901 | 40:811(a) (last sentence). | Pub. L. 90–264, title I, § 111(a) (last sentence), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1668. |
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 101–110 of the National Visitors Center Facilities Act of 1968, referred to in text, are sections 101 to 110 of Pub. L. 90–264, title I, Mar. 12, 1968, 82 Stat. 43–45, which were classified principally to part A (§ 801 et seq.) of subchapter I of chapter 18 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 104 of the Act was classified as a note under section 804 of former Title 40 prior to repeal by Pub. L. 107–217. Section 108 of the Act was not classified to the Code.
+Sections 101–110 of the National Visitors Center Facilities Act of 1968, referred to in text, are sections 101 to 110 of Pub. L. 90–264, title I, Mar. 12, 1968, 82 Stat. 43–45, which were classified principally to part A (§ 801 et seq.) of subchapter I of chapter 18 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 104 of the Act was classified as a note under section 804 of former Title 40 prior to repeal by Pub. L. 107–217. Section 108 of the Act was not classified to the Code.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Sale of Air Rights**
 
-Pub. L. 105–33, title IX, § 9102, Aug. 5, 1997, 111 Stat. 670, provided that:
+Pub. L. 105–33, title IX, § 9102, Aug. 5, 1997, 111 Stat. 670, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, the Administrator of General Services shall sell, at fair market value and in a manner to be determined by the Administrator, the air rights adjacent to Washington Union Station described in subsection (b), including air rights conveyed to the Administrator under subsection (d). The Administrator shall complete the sale by such date as is necessary to ensure that the proceeds from the sale will be deposited in accordance with subsection (c).
 
@@ -63,7 +63,7 @@ Pub. L. 105–33, title IX, § 9102, Aug. 5, 1997, 111 Stat. 670, provided tha
 
 Pub. L. 94–320, June 25, 1976, 90 Stat. 711, authorized the Secretary of the Interior, upon approval and subject to conditions of the Architect of the Capitol, in the portion of the United States Capitol Grounds in close proximity to the sidewalks abutting the circular perimeter of the Union Station Plaza in front of Columbus Plaza and the National Visitor Center, to erect and maintain flagpoles to fly the flags of each of the States of the United States and its territories and possessions, and to enter into an agreement with the appropriate officials of the District of Columbia to permit the District of Columbia to use certain areas of the United States Capitol Grounds to make certain street changes to coordinate and improve the flow of traffic in and around the United States Capitol Grounds, the National Visitor Center (formerly Union Station), and Union Station Plaza.
 
-### § 6902. Assignment of right, title, and interest in the Union Station complex to the Secretary of Transportation
+### § 6902. Assignment of right, title, and interest in the Union Station complex to the Secretary of Transportation
 
 The Secretary of Transportation has the right, title, and interest in and to the Union Station complex, including all agreements and leases made under sections 101–110 of the National Visitors Center Facilities Act of 1968 (Public Law 90–264, 82 Stat. 43). To the extent the Secretary of Transportation and the Secretary of the Interior agree, the Secretary of the Interior may lease space for visitor services.
 
@@ -73,7 +73,7 @@ The Secretary of Transportation has the right, title, and interest in and to the
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6902 | 40:811(a) (1st, 2d sentences). | Pub. L. 90–264, title I, § 111(a) (1st, 2d sentences), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1668. |
+| 6902 | 40:811(a) (1st, 2d sentences). | Pub. L. 90–264, title I, § 111(a) (1st, 2d sentences), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1668. |
 
 This section is substituted for the text of 40:811(a) (1st, 2d sentences) to eliminate obsolete words.
 
@@ -81,9 +81,9 @@ This section is substituted for the text of 40:811(a) (1st, 2d sentences) to eli
 
 **References in Text**
 
-Sections 101–110 of the National Visitors Center Facilities Act of 1968, referred to in text, are sections 101 to 110 of Pub. L. 90–264, title I, Mar. 12, 1968, 82 Stat. 43–45, which were classified principally to part A (§ 801 et seq.) of subchapter I of chapter 18 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 104 of the Act was classified as a note under section 804 of former Title 40 prior to repeal by Pub. L. 107–217. Section 108 of the Act was not classified to the Code.
+Sections 101–110 of the National Visitors Center Facilities Act of 1968, referred to in text, are sections 101 to 110 of Pub. L. 90–264, title I, Mar. 12, 1968, 82 Stat. 43–45, which were classified principally to part A (§ 801 et seq.) of subchapter I of chapter 18 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 104 of the Act was classified as a note under section 804 of former Title 40 prior to repeal by Pub. L. 107–217. Section 108 of the Act was not classified to the Code.
 
-### § 6903. Agreements and contracts
+### § 6903. Agreements and contracts
 
 The Secretary of Transportation may make agreements and contracts, except an agreement or contract to sell property rights at the Union Station complex, with a person, a federal, regional, or local agency, or the Architect of the Capitol that the Secretary considers necessary or desirable to carry out the purposes of this subchapter.
 
@@ -93,11 +93,11 @@ The Secretary of Transportation may make agreements and contracts, except an agr
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6903 | 40:815(d). | Pub. L. 90–264, title I, § 115(d), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1671. |
+| 6903 | 40:815(d). | Pub. L. 90–264, title I, § 115(d), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1671. |
 
 The words “corporations, financial institutions” are omitted as included in “person”. The text of 40:815(d) (last sentence) is omitted as obsolete.
 
-### § 6904. Acquisition, maintenance, and use of property
+### § 6904. Acquisition, maintenance, and use of property
 
 **(a) Acquisition.—** The Secretary of Transportation may acquire for the Federal Government an interest in real property (including easements or reservations) and any other property interest (including contract rights) in or relating or adjacent to the Union Station complex that the Secretary considers necessary to carry out the purposes of this subchapter.
 
@@ -109,14 +109,14 @@ The words “corporations, financial institutions” are omitted as included in 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6904(a) | 40:816(a)(1). | Pub. L. 90–264, title I, § 116(a)(1), (b), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1671. |
+| 6904(a) | 40:816(a)(1). | Pub. L. 90–264, title I, § 116(a)(1), (b), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1671. |
 | 6904(b) | 40:816(b). |  |
 
 In subsection (a), the words “by lease, purchase, or otherwise”, “without limitation”, and “interests in the nature of” are omitted as unnecessary.
 
 In subsection (b), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
 
-### § 6905. Service on board of directors of Union Station Redevelopment Corporation
+### § 6905. Service on board of directors of Union Station Redevelopment Corporation
 
 To further the rehabilitation, redevelopment, and operation of the Union Station complex, the Secretary of Transportation and the Administrator of the Federal Railroad Administration may serve as ex officio members of the board of directors of the Union Station Redevelopment Corporation.
 
@@ -126,11 +126,11 @@ To further the rehabilitation, redevelopment, and operation of the Union Station
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6905 | 40:819a. | Pub. L. 90–264, title I, § 120, as added Pub. L. 105–178, title I, § 1211(b), June 9, 1998, 112 Stat. 188. |
+| 6905 | 40:819a. | Pub. L. 90–264, title I, § 120, as added Pub. L. 105–178, title I, § 1211(b), June 9, 1998, 112 Stat. 188. |
 
 The words “or their designees” are omitted because of 49:322(b).
 
-### § 6906. Union Station Fund
+### § 6906. Union Station Fund
 
 **(a) Establishment.—** There is a special deposit account in the Treasury known as the “Union Station Fund”, which shall be administered as a revolving fund.
 
@@ -146,14 +146,14 @@ The words “or their designees” are omitted because of 49:322(b).
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6906(a) | 40:817(b) (1st sentence). | Pub. L. 90–264, title I, § 117, as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1671. |
+| 6906(a) | 40:817(b) (1st sentence). | Pub. L. 90–264, title I, § 117, as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1671. |
 | 6906(b) | 40:817(b) (last sentence words before “and the balance”). |  |
 | 6906(c) | 40:817(a). |  |
 | 6906(d) | 40:817(b) (last sentence words after “activities authorized by this part”). |  |
 
 In subsection (c), the words “without limitation” are omitted as unnecessary.
 
-### § 6907. Use of other appropriated amounts
+### § 6907. Use of other appropriated amounts
 
 **(a) Waiver of Cost Sharing Requirement.—** The Secretary of Transportation may use amounts appropriated under section 24909(a)(2)(A) of title 49 to carry out the purposes of this subchapter.
 
@@ -165,14 +165,14 @@ In subsection (c), the words “without limitation” are omitted as unnecessary
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6907(a) | 40:819(c) (1st sentence). | Pub. L. 90–264, title I, § 119(c), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1672. |
+| 6907(a) | 40:819(c) (1st sentence). | Pub. L. 90–264, title I, § 119(c), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1672. |
 | 6907(b) | 40:819(c) (last sentence). |  |
 
 In subsection (a), the words “section 24909(a)(2)(A) of title 49” are substituted for “section 704(a)(2) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 854(a)(2))”, and the words “section 24902(c)(1) of title 49” are substituted for “section 703(1)(B) of such Act (45 U.S.C. 853(1)(B))”, because of section 6(b) of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1378), the first section of which enacted Title 49, United States Code. The words “without regard to the matching funds requirement of section 24902(c)(1) of title 49” are omitted as obsolete because section 405(b) of the Amtrak Reform and Accountability Act of 1997 (Public Law 105–134, 111 Stat. 2586) struck out subsection (c) and redesignated subsection (f) as subsection (c).
 
 In subsection (b), the words “section 24909 of title 49” are substituted for “section 704(a) of such Act” because of section 6(b) of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1378), the first section of which enacted title 49, United States Code.
 
-### § 6908. Parking facility
+### § 6908. Parking facility
 
 **(a) Title.—** The Federal Government has the right, title, and interest in and to the parking facility at Union Station.
 
@@ -184,12 +184,12 @@ In subsection (b), the words “section 24909 of title 49” are substituted for
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6908(a) | 40:818(a), (b) (1st, 2d sentences). | Pub. L. 90–264, title I, § 118, as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1672. |
+| 6908(a) | 40:818(a), (b) (1st, 2d sentences). | Pub. L. 90–264, title I, § 118, as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1672. |
 | 6908(b) | 40:818(b) (last sentence). |  |
 
 In subsection (a), the text of 40:818(a) and (b) (1st sentence) is omitted as obsolete.
 
-### § 6909. Supplying steam or chilled water to Union Station complex
+### § 6909. Supplying steam or chilled water to Union Station complex
 
 The Architect of the Capitol may make agreements with the Secretary of Transportation to furnish steam, chilled water, or both from the Capitol Power Plant to the Union Station complex, at no expense to the legislative branch.
 
@@ -199,11 +199,11 @@ The Architect of the Capitol may make agreements with the Secretary of Transport
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6909 | 40:819(d). | Pub. L. 90–264, title I, § 119(d), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1672. |
+| 6909 | 40:819(d). | Pub. L. 90–264, title I, § 119(d), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1672. |
 
 The words “or his designee or assign” are omitted because of 49:322(b)
 
-### § 6910. Authorization of appropriations
+### § 6910. Authorization of appropriations
 
 Amounts necessary to meet lease and other obligations, including maintenance requirements, incurred by the Secretary of the Interior and assigned to the Secretary of Transportation under this subchapter may be appropriated to the Secretary of Transportation.
 
@@ -213,13 +213,13 @@ Amounts necessary to meet lease and other obligations, including maintenance req
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6910 | 40:813(a). | Pub. L. 90–264, title I, § 113(a), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1669. |
+| 6910 | 40:813(a). | Pub. L. 90–264, title I, § 113(a), as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1669. |
 
 In this section, the text of 40:813(a) (last sentence) is omitted as obsolete.
 
 ## SUBCHAPTER II—NATIONAL VISITOR FACILITIES ADVISORY COMMISSION
 
-### § 6921. Establishment, composition, and meetings
+### § 6921. Establishment, composition, and meetings
 
 **(a) Establishment.—** There is a National Visitor Facilities Advisory Commission.
 
@@ -255,7 +255,7 @@ In this section, the text of 40:813(a) (last sentence) is omitted as obsolete.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6921(a) | 40:821 (related to creation). | Pub. L. 90–264, title II, §§ 201 (related to creation), 202(a), Mar. 12, 1968, 82 Stat. 45. |
+| 6921(a) | 40:821 (related to creation). | Pub. L. 90–264, title II, §§ 201 (related to creation), 202(a), Mar. 12, 1968, 82 Stat. 45. |
 | 6921(b)(1) | 40:822(a) (1st sentence). |  |
 | 6921(b)(2) | 40:822(a) (3d sentence). |  |
 | 6921(b)(3) | 40:822(a) (2d sentence). |  |
@@ -267,7 +267,7 @@ In this section, the text of 40:813(a) (last sentence) is omitted as obsolete.
 
 Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 6922. Duties
+### § 6922. Duties
 
 **(a) In General.—** The National Visitor Facilities Advisory Commission shall—
 
@@ -283,12 +283,12 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6922(a) | 40:821 (related to duties). | Pub. L. 90–264, title II, §§ 201 (related to duties), 202(c), Mar. 12, 1968, 82 Stat. 45. |
+| 6922(a) | 40:821 (related to duties). | Pub. L. 90–264, title II, §§ 201 (related to duties), 202(c), Mar. 12, 1968, 82 Stat. 45. |
 | 6922(b) | 40:822(c). |  |
 
 In subsection (a), the text of 40:821(1) is omitted as obsolete because there is no National Visitors Center.
 
-### § 6923. Compensation and expenses
+### § 6923. Compensation and expenses
 
 Members of the National Visitor Facilities Advisory Commission who are not officers or employees of the Federal Government or the government of the District of Columbia are entitled to receive compensation under section 3109 of title 5 and expenses under section 5703 of title 5.
 
@@ -298,11 +298,11 @@ Members of the National Visitor Facilities Advisory Commission who are not offic
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6923 | 40:822(b). | Pub. L. 90–264, title II, § 202(b), Mar. 12, 1968, 82 Stat. 45. |
+| 6923 | 40:822(b). | Pub. L. 90–264, title II, § 202(b), Mar. 12, 1968, 82 Stat. 45. |
 
 The words “expenses under section 5703 of title 5” are substituted for “travel expenses including per diem in lieu of subsistence as authorized by section 5703 of title 5 for persons in the government service employed intermittently” to eliminate unnecessary words.
 
-### § 6924. Reports and recommendations
+### § 6924. Reports and recommendations
 
 The National Visitor Facilities Advisory Commission shall report to the Secretary of the Interior and the Administrator of General Services the results of its studies and investigations. A report recommending additional facilities for visitors shall include the Commission’s recommendations as to sites for the facilities to be provided, preliminary plans, specifications, and architectural drawings for the facilities, and the estimated cost of the recommended sites and facilities.
 
@@ -312,6 +312,6 @@ The National Visitor Facilities Advisory Commission shall report to the Secretar
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6924 | 40:823. | Pub. L. 90–264, title II, § 203, Mar. 12, 1968, 82 Stat. 46. |
+| 6924 | 40:823. | Pub. L. 90–264, title II, § 203, Mar. 12, 1968, 82 Stat. 46. |
 
 The words “from time to time” are omitted as unnecessary. The word “reviews” is omitted as obsolete because the review is a continuing review of the National Visitors Center and there is no National Visitors Center. The words “site or” are omitted because of 1:1.

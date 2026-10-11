@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 222—INDEPENDENT COST ESTIMATION AND COST ANALYSIS
 
-## § 3221. Director of Cost Assessment and Program Evaluation
+## § 3221. Director of Cost Assessment and Program Evaluation
 
 **(a) In General.—** The Director of Cost Assessment and Program Evaluation shall ensure that the cost estimation and cost analysis processes of the Department of Defense provide accurate information and realistic estimates of cost for the acquisition programs of the Department of Defense.
 
@@ -61,45 +61,45 @@ retrieved: 2026-10-11
 
 **(c) Staff.—** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this chapter.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (b), Jan. 1, 2021, 134 Stat. 4174; Pub. L. 117–81, div. A, title XVII, § 1701(c)(1), (d)(5), (*o*)(6)(A)(i), Dec. 27, 2021, 135 Stat. 2135, 2136, 2147; Pub. L. 117–263, div. B, title XXVIII, § 2806(b), Dec. 23, 2022, 136 Stat. 2995; Pub. L. 118–159, div. A, title VIII, § 806(b)(2), title XVII, § 1701(a)(35), Dec. 23, 2024, 138 Stat. 1974, 2205.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (b), Jan. 1, 2021, 134 Stat. 4174; Pub. L. 117–81, div. A, title XVII, § 1701(c)(1), (d)(5), (*o*)(6)(A)(i), Dec. 27, 2021, 135 Stat. 2135, 2136, 2147; Pub. L. 117–263, div. B, title XXVIII, § 2806(b), Dec. 23, 2022, 136 Stat. 2995; Pub. L. 118–159, div. A, title VIII, § 806(b)(2), title XVII, § 1701(a)(35), Dec. 23, 2024, 138 Stat. 1974, 2205.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (a) of section 2334 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1812(b)(1), (2), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 113–66, div. A, title VIII, § 812(c)(1), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, § 824(b), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§ 842(a)(1), (2), (b)(1), (2), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, § 1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
+The text of subsec. (a) of section 2334 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1812(b)(1), (2), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 113–66, div. A, title VIII, § 812(c)(1), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, § 824(b), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§ 842(a)(1), (2), (b)(1), (2), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, § 1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
 
-The text of subsec. (h) of section 2334 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1812(b)(3), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 114–92, div. A, title X, § 1077(a), Nov. 25, 2015, 129 Stat. 998; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
+The text of subsec. (h) of section 2334 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1812(b)(3), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 114–92, div. A, title X, § 1077(a), Nov. 25, 2015, 129 Stat. 998; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
 
 **Prior Provisions**
 
-A prior section 3221, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to authorized strength of Army Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12001 of this title.
+A prior section 3221, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to authorized strength of Army Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12001 of this title.
 
 **Amendments**
 
-2024—Subsec. (b)(6)(A)(i). Pub. L. 118–159, § 806(b)(2), struck out “4251 or” before “4252 of this title”.
+2024—Subsec. (b)(6)(A)(i). Pub. L. 118–159, § 806(b)(2), struck out “4251 or” before “4252 of this title”.
 
-Subsec. (b)(6)(A)(iv), (v). Pub. L. 118–159, § 1701(a)(35), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: “any report under section 2445c(f) of this title; and”.
+Subsec. (b)(6)(A)(iv), (v). Pub. L. 118–159, § 1701(a)(35), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: “any report under section 2445c(f) of this title; and”.
 
 2022—Subsec. (b)(6)(A)(v). Pub. L. 117–263 added cl. (v).
 
-2021—Subsec. (a). Pub. L. 116–283, § 1812(b)(1), transferred subsec. (a) of section 2334 of this title to this section.
+2021—Subsec. (a). Pub. L. 116–283, § 1812(b)(1), transferred subsec. (a) of section 2334 of this title to this section.
 
-Subsec. (b). Pub. L. 116–283, § 1812(b)(1), (2)(A), designated second sentence of subsec. (a) as (b), inserted heading, and substituted “In carrying out the responsibility of the Director under subsection (a),” for “In carrying out that responsibility,” in introductory provisions.
+Subsec. (b). Pub. L. 116–283, § 1812(b)(1), (2)(A), designated second sentence of subsec. (a) as (b), inserted heading, and substituted “In carrying out the responsibility of the Director under subsection (a),” for “In carrying out that responsibility,” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 117–81, § 1701(d)(5), in introductory provisions, substituted “chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328” for “chapter 144”.
+Subsec. (b)(2). Pub. L. 117–81, § 1701(d)(5), in introductory provisions, substituted “chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328” for “chapter 144”.
 
-Pub. L. 116–283, § 1812(b)(2)(B), struck out “provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies” before “with respect to cost estimation” and substituted “of this title, provide guidance to and consult with—” and subpars. (A) to (E) for “of this title;”.
+Pub. L. 116–283, § 1812(b)(2)(B), struck out “provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies” before “with respect to cost estimation” and substituted “of this title, provide guidance to and consult with—” and subpars. (A) to (E) for “of this title;”.
 
-Subsec. (b)(6)(A)(i). Pub. L. 116–283, § 1812(b)(2)(C)(i), substituted “section 4251 or 4252” for “section 2366a or 2366b”.
+Subsec. (b)(6)(A)(i). Pub. L. 116–283, § 1812(b)(2)(C)(i), substituted “section 4251 or 4252” for “section 2366a or 2366b”.
 
-Subsec. (b)(6)(A)(iii). Pub. L. 116–283, § 1812(b)(2)(C)(ii), substituted “section 4376” for “section 2433a”.
+Subsec. (b)(6)(A)(iii). Pub. L. 116–283, § 1812(b)(2)(C)(ii), substituted “section 4376” for “section 2433a”.
 
-Subsec. (b)(8). Pub. L. 116–283, § 1812(b)(2)(D), as amended by Pub. L. 117–81, § 1701(*o*)(6)(A)(i), substituted “section 4351(c)(1)” for “section 2432(c)(1)”.
+Subsec. (b)(8). Pub. L. 116–283, § 1812(b)(2)(D), as amended by Pub. L. 117–81, § 1701(*o*)(6)(A)(i), substituted “section 4351(c)(1)” for “section 2432(c)(1)”.
 
-Subsec. (c). Pub. L. 117–81, § 1701(c)(1), substituted “under this chapter” for “under this section”.
+Subsec. (c). Pub. L. 117–81, § 1701(c)(1), substituted “under this chapter” for “under this section”.
 
-Pub. L. 116–283, § 1812(b)(3), redesignated subsec. (h) of section 2334 of this title as subsec. (c) of this section.
+Pub. L. 116–283, § 1812(b)(3), redesignated subsec. (h) of section 2334 of this title as subsec. (c) of this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -117,7 +117,7 @@ Amendment by section 1701(*o*)(6)(A)(i) of Pub. L. 117–81 applicable as if inc
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3222. Independent cost estimate required before approval
+## § 3222. Independent cost estimate required before approval
 
 **(a) Requirement.—** A milestone decision authority may not approve entering the engineering and manufacturing development phase, or production and deployment phase, of a major defense acquisition program or major subprogram unless an independent cost estimate has been conducted or approved by the Director of Cost Assessment and Program Evaluation and considered by the milestone decision authority that includes a cost estimate of the full life-cycle cost of the program or subprogram.
 
@@ -127,27 +127,27 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(2)** an analysis to support decisionmaking that identifies and evaluates alternative courses of action that may reduce cost and risk, and result in more affordable programs and less costly systems.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (c), Jan. 1, 2021, 134 Stat. 4174, 4175; Pub. L. 118–159, div. A, title VIII, § 806(b)(3), Dec. 23, 2024, 138 Stat. 1974.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (c), Jan. 1, 2021, 134 Stat. 4174, 4175; Pub. L. 118–159, div. A, title VIII, § 806(b)(3), Dec. 23, 2024, 138 Stat. 1974.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(c), was based on Pub. L. 114–328, div. A, title VIII, § 842(a)(4), Dec. 23, 2016, 130 Stat. 2288.
+The text of subsec. (b) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(c), was based on Pub. L. 114–328, div. A, title VIII, § 842(a)(4), Dec. 23, 2016, 130 Stat. 2288.
 
 **Prior Provisions**
 
-A prior section 3222, act Aug. 10, 1956, ch. 1041, 70A Stat. 176; Pub. L. 96–513, title V, § 502(7), Dec. 12, 1980, 94 Stat. 2909, related to authorized strength of Army Reserve, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12002(a) of this title.
+A prior section 3222, act Aug. 10, 1956, ch. 1041, 70A Stat. 176; Pub. L. 96–513, title V, § 502(7), Dec. 12, 1980, 94 Stat. 2909, related to authorized strength of Army Reserve, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12002(a) of this title.
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 806(b)(3)(B), which directed substitution of “authority that includes a cost estimate” for “authority that—” in introductory provisions, par. (1), and “(2) for the for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate”, was executed by making the substitution for “authority that—” in introductory provisions, par. (1), and “(2) for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate”, to reflect the probable intent of Congress.
+2024—Subsec. (a). Pub. L. 118–159, § 806(b)(3)(B), which directed substitution of “authority that includes a cost estimate” for “authority that—” in introductory provisions, par. (1), and “(2) for the for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate”, was executed by making the substitution for “authority that—” in introductory provisions, par. (1), and “(2) for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate”, to reflect the probable intent of Congress.
 
-Pub. L. 118–159, § 806(b)(3)(A), substituted “the engineering and manufacturing development phase, or production and deployment phase,” for “a milestone phase” in introductory provisions.
+Pub. L. 118–159, § 806(b)(3)(A), substituted “the engineering and manufacturing development phase, or production and deployment phase,” for “a milestone phase” in introductory provisions.
 
-2021—Subsec. (a). Pub. L. 116–283, § 1812(c)(1), (2)(A), (D), redesignated subsec. (b) of section 2334 of this title as subsec. (a) of this section, substituted “Requirement” for “Independent Cost Estimate Required Before Approval” in heading, struck out par. (1) designation before “A milestone”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+2021—Subsec. (a). Pub. L. 116–283, § 1812(c)(1), (2)(A), (D), redesignated subsec. (b) of section 2334 of this title as subsec. (a) of this section, substituted “Requirement” for “Independent Cost Estimate Required Before Approval” in heading, struck out par. (1) designation before “A milestone”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1812(c)(2)(B)–(D), redesignated subsec. (a)(2) as (b), inserted heading, substituted “section 3221 of this title” for “subsection (a)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (b). Pub. L. 116–283, § 1812(c)(2)(B)–(D), redesignated subsec. (a)(2) as (b), inserted heading, substituted “section 3221 of this title” for “subsection (a)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -155,7 +155,7 @@ Subsec. (b). Pub. L. 116–283, § 1812(c)(2)(B)–(D), redesignated subsec. (
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3223. Director: review of cost estimates, cost analyses, and records of the military departments and Defense Agencies
+## § 3223. Director: review of cost estimates, cost analyses, and records of the military departments and Defense Agencies
 
 The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation—
 
@@ -163,21 +163,21 @@ The Secretary of Defense shall ensure that the Director of Cost Assessment and P
 
 **(2)** has timely access to any records and data in the Department of Defense (including the records and data of each military department and Defense Agency and including classified and proprietary information) that the Director considers necessary to review in order to carry out any duties under this chapter.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (d), Jan. 1, 2021, 134 Stat. 4174, 4175; Pub. L. 117–81, div. A, title XVII, § 1701(c)(2), Dec. 27, 2021, 135 Stat. 2136.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (d), Jan. 1, 2021, 134 Stat. 4174, 4175; Pub. L. 117–81, div. A, title XVII, § 1701(c)(2), Dec. 27, 2021, 135 Stat. 2136.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (c) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(d), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (b)(2), Dec. 23, 2016, 130 Stat. 2288, 2289.
+The text of subsec. (c) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(d), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (b)(2), Dec. 23, 2016, 130 Stat. 2288, 2289.
 
 **Prior Provisions**
 
-A prior section 3223, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to authorized strength of Army Reserve in warrant officers, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12008 of this title.
+A prior section 3223, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to authorized strength of Army Reserve in warrant officers, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12008 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1812(d), transferred subsec. (c) of section 2334 of this title to this section and struck out subsec. (c) designation and heading “Review of Cost Estimates, Cost Analyses, and Records of the Military Departments and Defense Agencies” at beginning.
+2021—Pub. L. 116–283, § 1812(d), transferred subsec. (c) of section 2334 of this title to this section and struck out subsec. (c) designation and heading “Review of Cost Estimates, Cost Analyses, and Records of the Military Departments and Defense Agencies” at beginning.
 
 Par. (2). Pub. L. 117–81 substituted “under this chapter” for “under this section”.
 
@@ -191,7 +191,7 @@ Amendment by Pub. L. 117–81 to take effect immediately after the amendments ma
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3224. Director: participation, concurrence, and approval in cost estimation
+## § 3224. Director: participation, concurrence, and approval in cost estimation
 
 The Director of Cost Assessment and Program Evaluation may—
 
@@ -203,23 +203,23 @@ The Director of Cost Assessment and Program Evaluation may—
 
 **(4)** participate in the consideration of any decision to request authorization of a multiyear procurement contract for a major defense acquisition program or major subprogram.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (e), Jan. 1, 2021, 134 Stat. 4174, 4175.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (e), Jan. 1, 2021, 134 Stat. 4174, 4175.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (d) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(e), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (5), (b)(3), (4), Dec. 23, 2016, 130 Stat. 2288–2290.
+The text of subsec. (d) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(e), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (5), (b)(3), (4), Dec. 23, 2016, 130 Stat. 2288–2290.
 
 **Prior Provisions**
 
-A prior section 3224, act Aug. 10, 1956, ch. 1041, 70A Stat. 177, related to authorized strength of Army National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12001 of this title.
+A prior section 3224, act Aug. 10, 1956, ch. 1041, 70A Stat. 177, related to authorized strength of Army National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12001 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1812(e)(1), (2)(A), transferred subsec. (d) of section 2334 of this title to this section and struck out subsec. (d) designation and heading “Participation, Concurrence, and Approval in Cost Estimation” at beginning.
+2021—Pub. L. 116–283, § 1812(e)(1), (2)(A), transferred subsec. (d) of section 2334 of this title to this section and struck out subsec. (d) designation and heading “Participation, Concurrence, and Approval in Cost Estimation” at beginning.
 
-Par. (3). Pub. L. 116–283, § 1812(e)(2)(B), substituted “section 3221(b)(6) of this title” for “subsection (a)(6)”.
+Par. (3). Pub. L. 116–283, § 1812(e)(2)(B), substituted “section 3221(b)(6) of this title” for “subsection (a)(6)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -227,7 +227,7 @@ Par. (3). Pub. L. 116–283, § 1812(e)(2)(B), substituted “section 3221(b)(
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3225. Discussion of risk in cost estimates
+## § 3225. Discussion of risk in cost estimates
 
 The Director of Cost Assessment and Program Evaluation, and the Secretary of the military department concerned or the head of the Defense Agency concerned (as applicable), shall each—
 
@@ -241,27 +241,27 @@ The Director of Cost Assessment and Program Evaluation, and the Secretary of the
 
 **(B)** in the next Selected Acquisition Report pursuant to section 4351 of this title in the case of a major defense acquisition program or major subprogram.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (f), Jan. 1, 2021, 134 Stat. 4174, 4176; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(A)(ii), Dec. 27, 2021, 135 Stat. 2147; Pub. L. 118–159, div. A, title XVII, § 1701(a)(36), Dec. 23, 2024, 138 Stat. 2205.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (f), Jan. 1, 2021, 134 Stat. 4174, 4176; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(A)(ii), Dec. 27, 2021, 135 Stat. 2147; Pub. L. 118–159, div. A, title XVII, § 1701(a)(36), Dec. 23, 2024, 138 Stat. 2205.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (e) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(f), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 111–383, div. A, title VIII, § 811(1), Jan. 7, 2011, 124 Stat. 4263; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (6), (b)(5), Dec. 23, 2016, 130 Stat. 2288–2290.
+The text of subsec. (e) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(f), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 111–383, div. A, title VIII, § 811(1), Jan. 7, 2011, 124 Stat. 4263; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (6), (b)(5), Dec. 23, 2016, 130 Stat. 2288–2290.
 
 **Prior Provisions**
 
-A prior section 3225, act Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 96–513, title V, § 502(7), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to authorized strength of Army National Guard and Army National Guard of United States, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12002 of this title.
+A prior section 3225, act Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 96–513, title V, § 502(7), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to authorized strength of Army National Guard and Army National Guard of United States, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12002 of this title.
 
 **Amendments**
 
-2024—Par. (3)(B). Pub. L. 118–159 struck out “, or the next quarterly report pursuant to section 2445c of this title in the case of a major automated information system program” before period at end.
+2024—Par. (3)(B). Pub. L. 118–159 struck out “, or the next quarterly report pursuant to section 2445c of this title in the case of a major automated information system program” before period at end.
 
-2021—Pub. L. 116–283, § 1812(f)(1), (2)(A), transferred subsec. (e) of section 2334 of this title to this section and struck out subsec. (e) designation and heading “Discussion of Risk in Cost Estimates” at beginning.
+2021—Pub. L. 116–283, § 1812(f)(1), (2)(A), transferred subsec. (e) of section 2334 of this title to this section and struck out subsec. (e) designation and heading “Discussion of Risk in Cost Estimates” at beginning.
 
-Par. (3)(A). Pub. L. 116–283, § 1812(f)(2)(B), substituted “section 3221(b)(6) of this title” for “subsection (a)(6)”.
+Par. (3)(A). Pub. L. 116–283, § 1812(f)(2)(B), substituted “section 3221(b)(6) of this title” for “subsection (a)(6)”.
 
-Par. (3)(B). Pub. L. 116–283, § 1812(f)(2)(C), as amended by Pub. L. 117–81, § 1701(*o*)(6)(A)(ii), substituted “section 4351” for “section 2432”.
+Par. (3)(B). Pub. L. 116–283, § 1812(f)(2)(C), as amended by Pub. L. 117–81, § 1701(*o*)(6)(A)(ii), substituted “section 4351” for “section 2432”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -273,7 +273,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3226. Estimates for program baseline and analyses and targets for contract negotiation purposes
+## § 3226. Estimates for program baseline and analyses and targets for contract negotiation purposes
 
 **(a) Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds.—** The policies, procedures, and guidance issued by the Director of Cost Assessment and Program Evaluation in accordance with the requirements of section 3221 of this title shall provide that cost estimates developed for baseline descriptions and other program purposes conducted pursuant to subsection (b)(6) of such section are not to be used for the purpose of contract negotiations or the obligation of funds.
 
@@ -293,13 +293,13 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(C)** to cover the cost of risk reduction and process improvements.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (g), Jan. 1, 2021, 134 Stat. 4174, 4176; Pub. L. 119–60, div. A, title VIII, § 812(a)(5), Dec. 18, 2025, 139 Stat. 951.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (g), Jan. 1, 2021, 134 Stat. 4174, 4176; Pub. L. 119–60, div. A, title VIII, § 812(a)(5), Dec. 18, 2025, 139 Stat. 951.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (f) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(g), was based on Pub. L. 111–383, div. A, title VIII, § 811(3), Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, § 833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (b)(3), (6), Dec. 23, 2016, 130 Stat. 2288–2290; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
+The text of subsec. (f) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(g), was based on Pub. L. 111–383, div. A, title VIII, § 811(3), Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, § 833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (b)(3), (6), Dec. 23, 2016, 130 Stat. 2288–2290; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
 
 **Amendments**
 
@@ -315,17 +315,17 @@ The text of subsec. (f) of section 2334 of this title, which was transferred to 
 
 “(B) may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.”
 
-2021—Subsec. (a). Pub. L. 116–283, § 1812(g)(1), (2)(A), (B), redesignated subsec. (f) of section 2334 of this title as subsec. (a) of this section, substituted “Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds” for “Estimates for Program Baseline and Analyses and Targets for Contract Negotiation Purposes” in heading, struck out par. (1) designation before “The policies,”, and substituted “section 3221 of this title” for “subsection (a)” and “subsection (b)(6) of such section” for “subsection (a)(6)”. Pars. (2), (3), (4), and (5) of subsec. (a) redesignated subsecs. (b), (c), (d)(1), and (d)(2), respectively.
+2021—Subsec. (a). Pub. L. 116–283, § 1812(g)(1), (2)(A), (B), redesignated subsec. (f) of section 2334 of this title as subsec. (a) of this section, substituted “Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds” for “Estimates for Program Baseline and Analyses and Targets for Contract Negotiation Purposes” in heading, struck out par. (1) designation before “The policies,”, and substituted “section 3221 of this title” for “subsection (a)” and “subsection (b)(6) of such section” for “subsection (a)(6)”. Pars. (2), (3), (4), and (5) of subsec. (a) redesignated subsecs. (b), (c), (d)(1), and (d)(2), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1812(g)(2)(C), redesignated subsec. (a)(2) as (b) and inserted heading.
+Subsec. (b). Pub. L. 116–283, § 1812(g)(2)(C), redesignated subsec. (a)(2) as (b) and inserted heading.
 
-Subsec. (c). Pub. L. 116–283, § 1812(g)(2)(D), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “The program manager” for “The Program Manager”, “subsection (a)” for “paragraph (1)”, and “subsection (b)” for “paragraph (2)”.
+Subsec. (c). Pub. L. 116–283, § 1812(g)(2)(D), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “The program manager” for “The Program Manager”, “subsection (a)” for “paragraph (1)”, and “subsection (b)” for “paragraph (2)”.
 
-Subsec. (d). Pub. L. 116–283, § 1812(g)(2)(E)(i), (iii), redesignated subsec. (a)(4) and (5) as (d)(1) and (2), respectively, inserted subsec. heading, and realigned margin of par. (2).
+Subsec. (d). Pub. L. 116–283, § 1812(g)(2)(E)(i), (iii), redesignated subsec. (a)(4) and (5) as (d)(1) and (2), respectively, inserted subsec. heading, and realigned margin of par. (2).
 
-Subsec. (d)(1). Pub. L. 116–283, § 1812(g)(2)(E)(ii), substituted “section 3221(b)(6) of this title” for “subsection (a)(6)” and “subsection (b)” for “paragraph (2)”.
+Subsec. (d)(1). Pub. L. 116–283, § 1812(g)(2)(E)(ii), substituted “section 3221(b)(6) of this title” for “subsection (a)(6)” and “subsection (b)” for “paragraph (2)”.
 
-Subsec. (d)(2). Pub. L. 116–283, § 1812(g)(2)(E)(iv), substituted “paragraph (1)” for “paragraph (4)” in introductory provisions, “subsection (b)” for “paragraph (2)” in subpar. (A)(i), and “section 3069” for “section 2308” in subpar. (A)(ii).
+Subsec. (d)(2). Pub. L. 116–283, § 1812(g)(2)(E)(iv), substituted “paragraph (1)” for “paragraph (4)” in introductory provisions, “subsection (b)” for “paragraph (2)” in subpar. (A)(i), and “section 3069” for “section 2308” in subpar. (A)(ii).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -333,7 +333,7 @@ Subsec. (d)(2). Pub. L. 116–283, § 1812(g)(2)(E)(iv), substituted “paragr
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3227. Guidelines and collection method for acquisition of cost data
+## § 3227. Guidelines and collection method for acquisition of cost data
 
 **(a) Director of Cape to Develop Guidelines and Collection Method.—** The Director of Cost Assessment and Program Evaluation shall, in consultation with the Under Secretary of Defense for Acquisition and Sustainment, develop policies, procedures, guidance, and a collection method to ensure that quality acquisition cost data are collected to facilitate cost estimation and comparison across acquisition programs.
 
@@ -341,27 +341,27 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(c) Limitation on Waiver Authority.—** The requirement under subsection (a) may be waived only by the Director of Cost Assessment and Program Evaluation.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (h), Jan. 1, 2021, 134 Stat. 4174, 4177; Pub. L. 118–159, div. A, title VIII, § 801, Dec. 23, 2024, 138 Stat. 1965.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (h), Jan. 1, 2021, 134 Stat. 4174, 4177; Pub. L. 118–159, div. A, title VIII, § 801, Dec. 23, 2024, 138 Stat. 1965.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (g) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(h), was based on Pub. L. 114–328, div. A, title VIII, § 842(a)(7), Dec. 23, 2016, 130 Stat. 2289; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
+The text of subsec. (g) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(h), was based on Pub. L. 114–328, div. A, title VIII, § 842(a)(7), Dec. 23, 2016, 130 Stat. 2289; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
 
 **Prior Provisions**
 
-A prior section 3230, added Pub. L. 85–861, § 1(69)(B), Sept. 2, 1958, 72 Stat. 1464, provided that members of Army who are detailed for duty with agencies of United States outside Department of Defense on a reimbursable basis not be counted in computing strengths under any law, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3230, added Pub. L. 85–861, § 1(69)(B), Sept. 2, 1958, 72 Stat. 1464, provided that members of Army who are detailed for duty with agencies of United States outside Department of Defense on a reimbursable basis not be counted in computing strengths under any law, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
 2024—Subsec. (b). Pub. L. 118–159 substituted “an amount described in section 3041(c)(1) of this title” for “$100,000,000”.
 
-2021—Subsec. (a). Pub. L. 116–283, § 1812(h)(1), (2)(A), redesignated subsec. (g) of section 2334 of this title as subsec. (a) of this section, substituted “Director of Cape to Develop Guidelines and Collection Method” for “Guidelines and Collection of Cost Data” in heading, and struck out par. (1) designation before “The Director”. Amendment striking heading was executed to reflect the probable intent of Congress notwithstanding error in formatting of text. Pars. (2) and (3) of subsec. (a) redesignated subsecs. (b) and (c), respectively.
+2021—Subsec. (a). Pub. L. 116–283, § 1812(h)(1), (2)(A), redesignated subsec. (g) of section 2334 of this title as subsec. (a) of this section, substituted “Director of Cape to Develop Guidelines and Collection Method” for “Guidelines and Collection of Cost Data” in heading, and struck out par. (1) designation before “The Director”. Amendment striking heading was executed to reflect the probable intent of Congress notwithstanding error in formatting of text. Pars. (2) and (3) of subsec. (a) redesignated subsecs. (b) and (c), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1812(h)(2)(B), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (b). Pub. L. 116–283, § 1812(h)(2)(B), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
 
-Subsec. (c). Pub. L. 116–283, § 1812(h)(2)(C), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (c). Pub. L. 116–283, § 1812(h)(2)(C), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
 
 **Statutory Notes and Related Subsidiaries**
 

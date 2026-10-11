@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 20—NATIONAL FISHERIES CENTER AND AQUARIUM
 
-## § 1051. Authorization of Administrator of General Services
+## § 1051. Authorization of Administrator of General Services
 
 **(a) Planning, construction, and maintenance of Center and Aquarium**
 
@@ -25,9 +25,9 @@ The Administrator of General Services (hereinafter referred to as the “Adminis
 
 The Administrator is further authorized to use Federal land and property for purposes of this chapter with the consent of the particular agency having administrative jurisdiction thereover, and, if said property is unavailable for purposes hereof, he may purchase, lease, or otherwise acquire such lands, waters, and interests therein, as he may deem necessary to carry out the provisions of subsection (a) of this section.
 
-(Pub. L. 87–758, § 1, Oct. 9, 1962, 76 Stat. 752.)
+(Pub. L. 87–758, § 1, Oct. 9, 1962, 76 Stat. 752.)
 
-## § 1052. Authorization of Secretary of the Interior
+## § 1052. Authorization of Secretary of the Interior
 
 **(a) Operation of Center and Aquarium**
 
@@ -45,33 +45,33 @@ The Secretary of the Interior (hereinafter referred to as the “Secretary”) s
 
 **(5)** encourage the use of the educational and scientific facilities and equipment at the National Fisheries Center and Aquarium by individuals of any nation with which the United States maintains diplomatic relations and which extends similar use of its educational and scientific facilities and equipment to citizens of the United States.
 
-(Pub. L. 87–758, § 2, Oct. 9, 1962, 76 Stat. 752.)
+(Pub. L. 87–758, § 2, Oct. 9, 1962, 76 Stat. 752.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(3), “section 3109 of title 5” substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b)(3), “section 3109 of title 5” substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-## § 1053. Delegation of responsibility for operation
+## § 1053. Delegation of responsibility for operation
 
 The Secretary shall assign the responsibility for the operation of the National Fisheries Center and Aquarium and related activities to that branch of the United States Fish and Wildlife Service having as its major activity the rearing and holding of living fishes, including the operation of aquariums.
 
-(Pub. L. 87–758, § 3, Oct. 9, 1962, 76 Stat. 753; Pub. L. 93–271, § 1(3), Apr. 22, 1974, 88 Stat. 92.)
+(Pub. L. 87–758, § 3, Oct. 9, 1962, 76 Stat. 753; Pub. L. 93–271, § 1(3), Apr. 22, 1974, 88 Stat. 92.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-“United States Fish and Wildlife Service” substituted in text for “Bureau of Sport Fisheries and Wildlife” on authority of Pub. L. 93–271, § 1(3), which is classified to section 742b(c) of this title.
+“United States Fish and Wildlife Service” substituted in text for “Bureau of Sport Fisheries and Wildlife” on authority of Pub. L. 93–271, § 1(3), which is classified to section 742b(c) of this title.
 
-## § 1054. Advisory Board; establishment; meetings; functions; quorum; executive secretary
+## § 1054. Advisory Board; establishment; meetings; functions; quorum; executive secretary
 
 There is established a nonpartisan Advisory Board to be known as the National Fisheries Center and Aquarium Advisory Board. The Advisory Board shall meet from time to time on the call of the Chairman. The functions of the Board shall be to render advice and to submit recommendations to the Secretary of the Interior upon his request, or upon its own initiative, concerning the management and operation of the National Fisheries Center and Aquarium. Five members shall constitute a quorum to transact business. The Secretary may designate an employee of the Department to serve as Executive Secretary to the Board.
 
-(Pub. L. 87–758, § 4, Oct. 9, 1962, 76 Stat. 753.)
+(Pub. L. 87–758, § 4, Oct. 9, 1962, 76 Stat. 753.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -79,7 +79,7 @@ There is established a nonpartisan Advisory Board to be known as the National Fi
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Officers and Employees.
 
-## § 1055. Members of Advisory Board
+## § 1055. Members of Advisory Board
 
 **(a) Appointment and number of members** The Advisory Board shall be composed of nine members. The Secretary shall designate the Chairman of the Advisory Board. The Assistant Secretary of the Interior for Fish and Wildlife shall be a member of such Board ex officio. The remaining eight members of such Board shall be appointed as follows—
 
@@ -99,7 +99,7 @@ Each class of two members of the Advisory Board referred to in subsection (a) sh
 
 Any vacancy in the Advisory Board shall be filled in the same manner as in the case of the original appointment.
 
-(Pub. L. 87–758, § 5, Oct. 9, 1962, 76 Stat. 753.)
+(Pub. L. 87–758, § 5, Oct. 9, 1962, 76 Stat. 753.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -107,11 +107,11 @@ Any vacancy in the Advisory Board shall be filled in the same manner as in the c
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Officers and Employees.
 
-## § 1056. Compensation of Advisory Board
+## § 1056. Compensation of Advisory Board
 
 Members of the Advisory Board, other than members appointed under paragraphs (3) and (4) of subsection (a) of section 1055 of this title, shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of the duties vested in the Board. Members of the Board appointed under paragraphs (3) and (4) of subsection (a) of section 1055 of this title may each receive $50 per diem when engaged in the actual performance of duties vested in the Board, in addition to reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of such duties.
 
-(Pub. L. 87–758, § 6, Oct. 9, 1962, 76 Stat. 754.)
+(Pub. L. 87–758, § 6, Oct. 9, 1962, 76 Stat. 754.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -119,14 +119,14 @@ Members of the Advisory Board, other than members appointed under paragraphs (3)
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Officers and Employees.
 
-## § 1057. Preparation of annual report by Director
+## § 1057. Preparation of annual report by Director
 
 The Director of the National Fisheries Center and Aquarium shall prepare for the Advisory Board an annual report for presentation to the Secretary of the Interior and to the Congress.
 
-(Pub. L. 87–758, § 7, Oct. 9, 1962, 76 Stat. 754.)
+(Pub. L. 87–758, § 7, Oct. 9, 1962, 76 Stat. 754.)
 
-## § 1058. Limitation on appropriations and expenditures; charges for visitation and use
+## § 1058. Limitation on appropriations and expenditures; charges for visitation and use
 
 Funds appropriated and expended hereunder for construction of the buildings for the National Fisheries Center and Aquarium shall not exceed $10,000,000: *Provided*, That the expenditure of such funds shall be made subject to the condition that the Secretary of the Interior shall establish charges relating to visitation to and uses of the National Fisheries Center and Aquarium at such rates as in the Secretary’s judgment will produce revenues to (a) liquidate the costs of construction within a period of not to exceed thirty years and (b) pay for the annual operation and maintenance costs thereof.
 
-(Pub. L. 87–758, § 8, Oct. 9, 1962, 76 Stat. 754.)
+(Pub. L. 87–758, § 8, Oct. 9, 1962, 76 Stat. 754.)

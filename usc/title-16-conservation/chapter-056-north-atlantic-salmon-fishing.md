@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 56—NORTH ATLANTIC SALMON FISHING
 
-## § 3601. Definitions
+## § 3601. Definitions
 
 As used in this chapter, the term—
 
@@ -29,25 +29,25 @@ As used in this chapter, the term—
 
 **(5)** “Council” means the Council established by the Convention;
 
-**(6)** “fishing” has the same meaning as such term has in section 3(10) 1
+**(6)** “fishing” has the same meaning as such term has in section 3(10) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Act of 1976 (16 U.S.C. 1802(10));
 
 **(7)** “Organization” means the North Atlantic Salmon Conservation Organization established under the Convention;
 
-**(8)** “person” has the same meaning as such term has in section 3(19) <sup>1</sup> of the Act of 1976 (16 U.S.C. 1802(19)); and
+**(8)** “person” has the same meaning as such term has in section 3(19) <sup>1</sup> of the Act of 1976 (16 U.S.C. 1802(19)); and
 
 **(9)** “salmon” means all species of salmon which migrate in or into the waters of the Atlantic Ocean north of 36 degrees north latitude.
 
-(Pub. L. 97–389, title III, § 302, Dec. 29, 1982, 96 Stat. 1951.)
+(Pub. L. 97–389, title III, § 302, Dec. 29, 1982, 96 Stat. 1951.)
 
 **Editorial Notes**
 
 **References in Text**
 
-An Act to provide for the conservation and management of the fisheries, and for other purposes, approved April 13, 1976 (16 U.S.C. 1801 et seq.), referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+An Act to provide for the conservation and management of the fisheries, and for other purposes, approved April 13, 1976 (16 U.S.C. 1801 et seq.), referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 3 of the Act of 1976 (16 U.S.C. 1802), referred to in pars. (6) and (8), was subsequently amended, and section 3(10) and (19) no longer defines the terms “fishing” and “person”. However, such terms are defined elsewhere in that section.
 
@@ -59,11 +59,11 @@ Section 3602 of this title, referred to in par. (3), was in the original “sect
 
 **Short Title**
 
-Pub. L. 97–389, § 1, Dec. 29, 1982, 96 Stat. 1949, provided: “That this Act [enacting this chapter, amending sections 779b, 1034, and 1401 of this title and sections 688 and 883 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under section 1823 of this title and section 688 of Title 46, Appendix] may be cited as the ‘Fisheries Amendments of 1982’.”
+Pub. L. 97–389, § 1, Dec. 29, 1982, 96 Stat. 1949, provided: “That this Act [enacting this chapter, amending sections 779b, 1034, and 1401 of this title and sections 688 and 883 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under section 1823 of this title and section 688 of Title 46, Appendix] may be cited as the ‘Fisheries Amendments of 1982’.”
 
-Pub. L. 97–389, title III, § 301, Dec. 29, 1982, 96 Stat. 1951, provided that: “This title [enacting this chapter] may be cited as the ‘Atlantic Salmon Convention Act of 1982’.”
+Pub. L. 97–389, title III, § 301, Dec. 29, 1982, 96 Stat. 1951, provided that: “This title [enacting this chapter] may be cited as the ‘Atlantic Salmon Convention Act of 1982’.”
 
-## § 3602. United States representation on Council and Commissions
+## § 3602. United States representation on Council and Commissions
 
 **(a) Appointment and qualifications of Commissioners**
 
@@ -81,7 +81,7 @@ Individuals who serve as Commissioners and alternate Commissioners shall not rec
 
 In carrying out their functions under the Convention, the Commissioners may consult with the appropriate Regional Fishery Management Councils established by section 302 of the Act of 1976 (16 U.S.C. 1852), and may consult with such other interested parties as they consider appropriate. Chapter 10 of title 5 shall not apply to consultations described in this subsection.
 
-(Pub. L. 97–389, title III, § 303, Dec. 29, 1982, 96 Stat. 1952; Pub. L. 98–44, title I, § 102(1), July 12, 1983, 97 Stat. 216; Pub. L. 117–286, § 4(a)(117), Dec. 27, 2022, 136 Stat. 4318.)
+(Pub. L. 97–389, title III, § 303, Dec. 29, 1982, 96 Stat. 1952; Pub. L. 98–44, title I, § 102(1), July 12, 1983, 97 Stat. 216; Pub. L. 117–286, § 4(a)(117), Dec. 27, 2022, 136 Stat. 4318.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ In carrying out their functions under the Convention, the Commissioners may cons
 
 1983—Subsec. (c). Pub. L. 98–44 substituted “shall not be considered” for “shall be considered”.
 
-## § 3603. Receipt of Organization communications by Secretary of State
+## § 3603. Receipt of Organization communications by Secretary of State
 
 **(a) Concurrence with Secretaries of Commerce and the Interior on regulatory measures; action on other matters** The Secretary of State may—
 
@@ -109,9 +109,9 @@ In carrying out their functions under the Convention, the Commissioners may cons
 
 the Secretary of State shall submit the matter in disagreement, together with a statement of the opposing positions, to the President for timely disposition.
 
-(Pub. L. 97–389, title III, § 304, Dec. 29, 1982, 96 Stat. 1952.)
+(Pub. L. 97–389, title III, § 304, Dec. 29, 1982, 96 Stat. 1952.)
 
-## § 3604. Regulations and reports
+## § 3604. Regulations and reports
 
 **(a) Promulgation of regulations; implementation; applicability**
 
@@ -121,7 +121,7 @@ The Secretary of Commerce, in cooperation with the Secretary of the Interior and
 
 The Secretary of Commerce, in cooperation with the Secretary of the Interior, shall prepare all statements, reports, and notifications, required by articles 14 and 15 of the Convention and submit such documents to the Secretary of State for transmission to the Organization.
 
-(Pub. L. 97–389, title III, § 305, Dec. 29, 1982, 96 Stat. 1953.)
+(Pub. L. 97–389, title III, § 305, Dec. 29, 1982, 96 Stat. 1953.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -129,7 +129,7 @@ The Secretary of Commerce, in cooperation with the Secretary of the Interior, sh
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 3605. Cooperation with other agencies and institutions
+## § 3605. Cooperation with other agencies and institutions
 
 **(a) Federal and State agencies; private institutions**
 
@@ -139,9 +139,9 @@ In carrying out the provisions of the Convention, the Secretary of Commerce, in 
 
 Appropriate agencies of the United States may cooperate in the conduct of scientific and other programs, and may furnish facilities and personnel, for the purposes of assisting the Organization in carrying out its duties under the Convention. Such agencies may accept reimbursement from the Organization for providing such services, facilities, and personnel.
 
-(Pub. L. 97–389, title III, § 306, Dec. 29, 1982, 96 Stat. 1953.)
+(Pub. L. 97–389, title III, § 306, Dec. 29, 1982, 96 Stat. 1953.)
 
-## § 3606. Violations and penalties
+## § 3606. Violations and penalties
 
 **(a) Directed fishing for salmon; Convention, rules and regulations** It is unlawful for any person, or any vessel, subject to the jurisdiction of the United States—
 
@@ -159,7 +159,7 @@ Appropriate agencies of the United States may cooperate in the conduct of scient
 
 Any vessel used, and any fish (or the fair market value thereof) taken or retained in any manner, in connection with or as the result of the commission of an act which is unlawful under subsection (a) of this section shall be subject to civil forfeiture under section 310 of the Act of 1976 (16 U.S.C. 1860) to the same extent as if such vessel was used in, or such fish was taken or retained in connection with or as the result of, the commission of an act prohibited by section 307 of the Act of 1976 (16 U.S.C. 1857).
 
-(Pub. L. 97–389, title III, § 307, Dec. 29, 1982, 96 Stat. 1953; Pub. L. 98–44, title I, § 102(2), July 12, 1983, 97 Stat. 216.)
+(Pub. L. 97–389, title III, § 307, Dec. 29, 1982, 96 Stat. 1953; Pub. L. 98–44, title I, § 102(2), July 12, 1983, 97 Stat. 216.)
 
 **Editorial Notes**
 
@@ -167,11 +167,11 @@ Any vessel used, and any fish (or the fair market value thereof) taken or retain
 
 1983—Subsec. (c). Pub. L. 98–44 inserted provision that any fish, or the fair market value thereof, taken or retained in connection with or as the result of the commission of an act unlawful under subsection (a) of this section shall be subject to civil forfeitures under section 1860 of this title to the same extent as if such fish was taken or retained in connection with or as the result of the commission of an act prohibited by section 1857 of this title.
 
-## § 3607. Enforcement
+## § 3607. Enforcement
 
 The Secretary of Commerce and the Secretary of the department in which the Coast Guard is operating shall enforce the provisions of this chapter and any regulation issued under this chapter. For purposes of such enforcement, such provisions and regulations shall be considered to be provisions of the Act of 1976 [16 U.S.C. 1801 et seq.] to which section 311(a), (b), (c), and (d) of the Act of 1976 (16 U.S.C. 1861(a), (b), (c), and (d), respectively) apply.
 
-(Pub. L. 97–389, title III, § 308, Dec. 29, 1982, 96 Stat. 1953.)
+(Pub. L. 97–389, title III, § 308, Dec. 29, 1982, 96 Stat. 1953.)
 
 **Editorial Notes**
 
@@ -185,7 +185,7 @@ For Act of 1976, referred to in text, see section 3601(1) of this title and Refe
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 3608. Authorization of appropriations
+## § 3608. Authorization of appropriations
 
 There are authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Convention and this chapter including—
 
@@ -193,4 +193,4 @@ There are authorized to be appropriated from time to time such sums as may be ne
 
 **(2)** the United States contribution to the Organization as provided in Article 16 of the Convention, not to exceed $50,000 for fiscal year 1983, and not to exceed, for each succeeding fiscal year, the amount assessed by the Organization for the United States for such year.
 
-(Pub. L. 97–389, title III, § 309, Dec. 29, 1982, 96 Stat. 1954.)
+(Pub. L. 97–389, title III, § 309, Dec. 29, 1982, 96 Stat. 1954.)

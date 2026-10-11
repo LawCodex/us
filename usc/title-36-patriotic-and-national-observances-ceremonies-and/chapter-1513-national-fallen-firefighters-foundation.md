@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1513—NATIONAL FALLEN FIREFIGHTERS FOUNDATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1513—NATIONAL FALLEN FIREFIGHTERS FOUNDATION"
 identifier: "/us/usc/t36/stII/ptB/ch1513"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1513—NATIONAL FALLEN FIREFIGHTERS FOUNDATION
 
-## § 151301. Organization
+## § 151301. Organization
 
 **(a) Federal Charter.—** National Fallen Firefighters Foundation (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,7 +29,7 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151301(a) | 36:5201(a) (1st sentence). | Oct. 26, 1992, Pub. L. 102–522, title II, §§ 202(a), 204(a)(1), 106 Stat. 3417, 3419. |
+| 151301(a) | 36:5201(a) (1st sentence). | Oct. 26, 1992, Pub. L. 102–522, title II, §§ 202(a), 204(a)(1), 106 Stat. 3417, 3419. |
 | 151301(b) | 36:5201(a) (last sentence). |  |
 | 151301(c) | 36:5203(a)(1). |  |
 
@@ -37,7 +37,7 @@ Subsection (a) is substituted for “There is established the National Fallen Fi
 
 In subsection (c), the words “Except as otherwise provided” are added, and the word “existence” is substituted for “succession”, for consistency in the revised title.
 
-## § 151302. Purposes
+## § 151302. Purposes
 
 The purposes of the corporation are—
 
@@ -57,31 +57,31 @@ The purposes of the corporation are—
 
 **(6)** to promote national, State, and local initiatives to increase public awareness of fire and life safety.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 106–503, title I, § 113(a), Nov. 13, 2000, 114 Stat. 2303.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 106–503, title I, § 113(a), Nov. 13, 2000, 114 Stat. 2303.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151302 | 36:5201(b). | Oct. 26, 1992, Pub. L. 102–522, title II, § 202(b), 106 Stat. 3417. |
+| 151302 | 36:5201(b). | Oct. 26, 1992, Pub. L. 102–522, title II, § 202(b), 106 Stat. 3417. |
 
 **Editorial Notes**
 
 **Codification**
 
-Section 5201(b) of former Title 36, from which this section was derived, was amended after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(a), Oct. 21, 1998, 112 Stat. 2510, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the exception that in par. (1)(B), the words “plan, direct, and manage the memorial service referred to in subparagraph (A)” were used instead of “plan, direct, and manage the memorial service referred to in subparagraph (A) and related activities”.
+Section 5201(b) of former Title 36, from which this section was derived, was amended after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(a), Oct. 21, 1998, 112 Stat. 2510, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the exception that in par. (1)(B), the words “plan, direct, and manage the memorial service referred to in subparagraph (A)” were used instead of “plan, direct, and manage the memorial service referred to in subparagraph (A) and related activities”.
 
 **Amendments**
 
-2000—Par. (1). Pub. L. 106–503, § 113(a)(1) added par. (1) and struck out former par. (1) which read as follows: “primarily to encourage, accept, and administer private gifts of property for the benefit of the National Fallen Firefighters’ Memorial and the annual memorial service associated with it;”.
+2000—Par. (1). Pub. L. 106–503, § 113(a)(1) added par. (1) and struck out former par. (1) which read as follows: “primarily to encourage, accept, and administer private gifts of property for the benefit of the National Fallen Firefighters’ Memorial and the annual memorial service associated with it;”.
 
-Par. (2). Pub. L. 106–503, § 113(a)(2), inserted “and Federal” after “non-Federal”.
+Par. (2). Pub. L. 106–503, § 113(a)(2), inserted “and Federal” after “non-Federal”.
 
-Par. (3). Pub. L. 106–503, § 113(a)(3), substituted “Federal, State, and local” for “State and local” and struck out “and” after semicolon.
+Par. (3). Pub. L. 106–503, § 113(a)(3), substituted “Federal, State, and local” for “State and local” and struck out “and” after semicolon.
 
-Par. (4). Pub. L. 106–503, § 113(a)(4), substituted semicolon for period at end.
+Par. (4). Pub. L. 106–503, § 113(a)(4), substituted semicolon for period at end.
 
-Pars. (5), (6). Pub. L. 106–503, § 113(a)(5), added pars. (5) and (6).
+Pars. (5), (6). Pub. L. 106–503, § 113(a)(5), added pars. (5) and (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -103,7 +103,7 @@ Pub. L. 107–51, Oct. 16, 2001, 115 Stat. 267, provided that:
 
 > *“Resolved by the Senate and House of Representatives of the United States of America in Congress assembled*, That each year, the American flags on all Federal office buildings will be lowered to half-staff in honor of the National Fallen Firefighters Memorial Service in Emmitsburg, Maryland.”
 
-## § 151303. Board of directors
+## § 151303. Board of directors
 
 **(a) General.—** The board of directors is the governing body of the corporation.
 
@@ -139,7 +139,7 @@ Pub. L. 107–51, Oct. 16, 2001, 115 Stat. 267, provided that:
 
 **(g) Liability.—** Members of the board are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, § 1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, § 113(b), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, § 206(a), Dec. 6, 2003, 117 Stat. 2040; Pub. L. 109–284, § 5(9), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, § 1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, § 113(b), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, § 206(a), Dec. 6, 2003, 117 Stat. 2040; Pub. L. 109–284, § 5(9), Sept. 27, 2006, 120 Stat. 1212.)
 
 **Historical and Revision Notes**
 
@@ -147,7 +147,7 @@ Pub. L. 107–51, Oct. 16, 2001, 115 Stat. 267, provided that:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151303(a) | 36:5202(a)(1) (words before 1st comma). | Oct. 26, 1992, Pub. L. 102–522, title II, §§ 203(a)–(f), 204(c)(2) (words after 2d comma), 106 Stat. 3417, 3419. |
+| 151303(a) | 36:5202(a)(1) (words before 1st comma). | Oct. 26, 1992, Pub. L. 102–522, title II, §§ 203(a)–(f), 204(c)(2) (words after 2d comma), 106 Stat. 3417, 3419. |
 | 151303(b) | 36:5202(a)(1) (words after 1st comma), (2), (b), (c). |  |
 | 151303(c) | 36:5202(d). |  |
 | 151303(d) | 36:5202(e). |  |
@@ -175,13 +175,13 @@ This amends subsections (f) and (g) of section 151303 of title 36, as enacted by
 
 2006—Subsec. (c). Pub. L. 109–284 substituted “The chairman” for “The Chairman”.
 
-2003—Subsec. (b)(2). Pub. L. 108–169, § 206(a)(1), (2), substituted “12” for “9” in introductory provisions and “nine” for “six” in subpar. (D).
+2003—Subsec. (b)(2). Pub. L. 108–169, § 206(a)(1), (2), substituted “12” for “9” in introductory provisions and “nine” for “six” in subpar. (D).
 
-Subsec. (b)(3). Pub. L. 108–169, § 206(a)(3), substituted “4 members” for “3 members”.
+Subsec. (b)(3). Pub. L. 108–169, § 206(a)(3), substituted “4 members” for “3 members”.
 
-2000—Subsec. (f). Pub. L. 106–503, § 113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.”
+2000—Subsec. (f). Pub. L. 106–503, § 113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.”
 
-Subsecs. (g), (h). Pub. L. 106–503, § 113(b), redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “Members of the board serve without compensation.”
+Subsecs. (g), (h). Pub. L. 106–503, § 113(b), redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “Members of the board serve without compensation.”
 
 1998—Subsecs. (f) to (h). Pub. L. 105–354 amended subsecs. (f) and (g) generally and added subsec. (h). Prior to amendment, subsecs. (f) and (g) read as follows:
 
@@ -197,7 +197,7 @@ Subsecs. (g), (h). Pub. L. 106–503, § 113(b), redesignated subsec. (h) as (
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–354, § 3, Nov. 3, 1998, 112 Stat. 3245, provided that: “The amendment made by section 1(8) of this Act [amending this section] shall take effect as if included in the provisions of Public Law 105–225, as of the date of enactment of Public Law 105–225 [Aug. 12, 1998].”
+Pub. L. 105–354, § 3, Nov. 3, 1998, 112 Stat. 3245, provided that: “The amendment made by section 1(8) of this Act [amending this section] shall take effect as if included in the provisions of Public Law 105–225, as of the date of enactment of Public Law 105–225 [Aug. 12, 1998].”
 
 **Transfer of Functions**
 
@@ -205,7 +205,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 151304. Officers and employees
+## § 151304. Officers and employees
 
 **(a) Appointment.—** The board of directors may appoint officers or employees, but only after the corporation has sufficient funds to pay for their services.
 
@@ -217,13 +217,13 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(3)** may be paid without regard to chapter 51 and subchapter III of chapter 53 of title 5, except that an officer or employee may not be paid more than 15 percent above the annual rate of basic pay for level GS–15 of the General Schedule under section 5107 of title 5.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1400; Pub. L. 106–503, title I, § 113(c), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, § 206(b), Dec. 6, 2003, 117 Stat. 2040.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1400; Pub. L. 106–503, title I, § 113(c), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, § 206(b), Dec. 6, 2003, 117 Stat. 2040.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151304(a) | 36:5202(g)(1)(A), (2). | Oct. 26, 1992, Pub. L. 102–522, title II, § 203(g)(1)(A), (2), (h), 106 Stat. 3418. |
+| 151304(a) | 36:5202(g)(1)(A), (2). | Oct. 26, 1992, Pub. L. 102–522, title II, § 203(g)(1)(A), (2), (h), 106 Stat. 3418. |
 | 151304(b) | 36:5202(h). |  |
 
 Subsection (a) is substituted for the source provisions for clarity.
@@ -238,17 +238,17 @@ The General Schedule, referred to in subsec. (b)(3), is set out under section 53
 
 **Codification**
 
-Section 5202(g)(1) of former Title 36, from which this section was derived, was amended after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(b), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by section 113(c)(1) of Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276.
+Section 5202(g)(1) of former Title 36, from which this section was derived, was amended after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(b), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by section 113(c)(1) of Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276.
 
 **Amendments**
 
 2003—Subsec. (b)(3). Pub. L. 108–169 inserted “15 percent above” after “more than”.
 
-2000—Subsec. (a). Pub. L. 106–503, § 113(c)(1), struck out “not more than 2” after “appoint”.
+2000—Subsec. (a). Pub. L. 106–503, § 113(c)(1), struck out “not more than 2” after “appoint”.
 
-Subsec. (b)(1). Pub. L. 106–503, § 113(c)(2), substituted “shall not be considered” for “are not”.
+Subsec. (b)(1). Pub. L. 106–503, § 113(c)(2), substituted “shall not be considered” for “are not”.
 
-## § 151305. Powers
+## § 151305. Powers
 
 **(a) General.—** The corporation may—
 
@@ -270,7 +270,7 @@ Subsec. (b)(1). Pub. L. 106–503, § 113(c)(2), substituted “shall not be c
 
 **(5)** to do any other act necessary and proper to carry out the purposes of the corporation.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1400; Pub. L. 105–354, § 1(9), Nov. 3, 1998, 112 Stat. 3244.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1400; Pub. L. 105–354, § 1(9), Nov. 3, 1998, 112 Stat. 3244.)
 
 **Historical and Revision Notes**
 
@@ -278,7 +278,7 @@ Subsec. (b)(1). Pub. L. 106–503, § 113(c)(2), substituted “shall not be c
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151305(a) | 36:5202(g)(1)(B), (C). | Oct. 26, 1992, Pub. L. 102–522, title II, §§ 203(g)(1)(B), (C), 204(b), (c)(1), (2) (words before 2d comma), (3)–(5), 106 Stat. 3418, 3419. |
+| 151305(a) | 36:5202(g)(1)(B), (C). | Oct. 26, 1992, Pub. L. 102–522, title II, §§ 203(g)(1)(B), (C), 204(b), (c)(1), (2) (words before 2d comma), (3)–(5), 106 Stat. 3418, 3419. |
 |  | 36:5203(b). |  |
 | 151305(b) | 36:5203(c)(1), (2) (words before 2d comma), (3)–(5). |  |
 
@@ -300,7 +300,7 @@ This amends section 151305(b) of title 36 to correct an inconsistency in the rev
 
 1998—Subsec. (b). Pub. L. 105–354 struck out “the State of” before “Maryland” in introductory provisions.
 
-## § 151306. Principal office
+## § 151306. Principal office
 
 The principal office of the corporation shall be in Maryland. However, the corporation may conduct business throughout the States, territories, and possessions of the United States.
 
@@ -310,11 +310,11 @@ The principal office of the corporation shall be in Maryland. However, the corpo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151306 | 36:5203(a)(2), (3). | Oct. 26, 1992, Pub. L. 102–522, title II, § 204(a)(2), (3), 106 Stat. 3419. |
+| 151306 | 36:5203(a)(2), (3). | Oct. 26, 1992, Pub. L. 102–522, title II, § 204(a)(2), (3), 106 Stat. 3419. |
 
 This section is substituted for the source provisions for consistency in the revised title.
 
-## § 151307. Provision and acceptance of support by Administrator
+## § 151307. Provision and acceptance of support by Administrator
 
 **(a) Provision by Administrator.—**
 
@@ -330,13 +330,13 @@ This section is substituted for the source provisions for consistency in the rev
 
 **(b) Acceptance by Administrator.—** The Administrator may accept, without regard to chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations, the services of the corporation and its directors, officers, and employees as volunteers in performing functions authorized under this chapter, without compensation from the Administration.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1401; Pub. L. 106–503, title I, § 113(d), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, § 206(c), Dec. 6, 2003, 117 Stat. 2041.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1401; Pub. L. 106–503, title I, § 113(d), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, § 206(c), Dec. 6, 2003, 117 Stat. 2041.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151307(a) | 36:5204. | Oct. 26, 1992, Pub. L. 102–522, title II, §§ 205, 206, 106 Stat. 3419. |
+| 151307(a) | 36:5204. | Oct. 26, 1992, Pub. L. 102–522, title II, §§ 205, 206, 106 Stat. 3419. |
 | 151307(b) | 36:5205. |  |
 
 In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations” are substituted for “the Federal civil service classification laws, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
@@ -345,15 +345,15 @@ In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter
 
 **Codification**
 
-Section 5204 of former Title 36, from which subsec. (a) of this section was derived, was amended generally after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the following exceptions—(1) in the introductory provisions of subsec. (a)(1), the words “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000” were used instead of “During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999”, (2) in subsec. (a)(1)(A), the words “other administrative services to” were used instead of “other required services for the operation of”, and (3) in subsec. (a)(1)(B), the words “may require and accept reimbursements” were used instead of “may accept reimbursement”.
+Section 5204 of former Title 36, from which subsec. (a) of this section was derived, was amended generally after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the following exceptions—(1) in the introductory provisions of subsec. (a)(1), the words “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000” were used instead of “During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999”, (2) in subsec. (a)(1)(A), the words “other administrative services to” were used instead of “other required services for the operation of”, and (3) in subsec. (a)(1)(B), the words “may require and accept reimbursements” were used instead of “may accept reimbursement”.
 
 **Amendments**
 
 2003—Subsec. (a)(1). Pub. L. 108–169 substituted “The” for “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the”.
 
-2000—Subsec. (a)(1). Pub. L. 106–503, § 113(d)(1), substituted “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator” for “The Administrator” in introductory provisions.
+2000—Subsec. (a)(1). Pub. L. 106–503, § 113(d)(1), substituted “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator” for “The Administrator” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 106–503, § 113(d)(2), substituted “may” for “shall”.
+Subsec. (a)(1)(B). Pub. L. 106–503, § 113(d)(2), substituted “may” for “shall”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -363,7 +363,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 151308. Service of process
+## § 151308. Service of process
 
 The corporation shall have a designated agent to receive service of process for the corporation.
 
@@ -373,11 +373,11 @@ The corporation shall have a designated agent to receive service of process for 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151308 | 36:5203(a)(4). | Oct. 26, 1992, Pub. L. 102–522, title II, § 204(a)(4), 106 Stat. 3419. |
+| 151308 | 36:5203(a)(4). | Oct. 26, 1992, Pub. L. 102–522, title II, § 204(a)(4), 106 Stat. 3419. |
 
 The words “at all times” are omitted as unnecessary and for consistency in the revised title. The word “have” is substituted for “maintain” for consistency in the revised title.
 
-## § 151309. Civil action by Attorney General for equitable relief
+## § 151309. Civil action by Attorney General for equitable relief
 
 The Attorney General may bring a civil action in the United States District Court for the District of Columbia for appropriate equitable relief if the corporation—
 
@@ -391,11 +391,11 @@ The Attorney General may bring a civil action in the United States District Cour
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151309 | 36:5206(c). | Oct. 26, 1992, Pub. L. 102–522, title II, § 207(c), 106 Stat. 3420. |
+| 151309 | 36:5206(c). | Oct. 26, 1992, Pub. L. 102–522, title II, § 207(c), 106 Stat. 3420. |
 
 Before clause (1), the words “bring a civil action” are substituted for “petition” for consistency in the revised title and with other titles of the United States Code. The words “appropriate equitable relief” are substituted for “such equitable relief as may be necessary or appropriate” to eliminate unnecessary words.
 
-## § 151310. Immunity of United States Government
+## § 151310. Immunity of United States Government
 
 The United States Government is not liable for any debts, defaults, acts, or omissions of the corporation. The full faith and credit of the Government does not extend to any obligation of the corporation.
 
@@ -405,9 +405,9 @@ The United States Government is not liable for any debts, defaults, acts, or omi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151310 | 36:5207. | Oct. 26, 1992, Pub. L. 102–522, title II, § 208, 106 Stat. 3420. |
+| 151310 | 36:5207. | Oct. 26, 1992, Pub. L. 102–522, title II, § 208, 106 Stat. 3420. |
 
-## § 151311. Annual report
+## § 151311. Annual report
 
 Not later than 4 months after the end of each fiscal year, the corporation shall submit a report to the appropriate committees of Congress on the activities of the corporation during the prior fiscal year, including a complete statement of its receipts, expenditures, and investments.
 
@@ -417,6 +417,6 @@ Not later than 4 months after the end of each fiscal year, the corporation shall
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 151311 | 36:5206(b). | Oct. 26, 1992, Pub. L. 102–522, title II, § 207(b), 106 Stat. 3420. |
+| 151311 | 36:5206(b). | Oct. 26, 1992, Pub. L. 102–522, title II, § 207(b), 106 Stat. 3420. |
 
 The word “proceedings” is omitted for consistency in the revised title.

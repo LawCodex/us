@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 48—HUMANE METHODS OF LIVESTOCK SLAUGHTER
 
-## § 1901. Findings and declaration of policy
+## § 1901. Findings and declaration of policy
 
 The Congress finds that the use of humane methods in the slaughter of livestock prevents needless suffering; results in safer and better working conditions for persons engaged in the slaughtering industry; brings about improvement of products and economies in slaughtering operations; and produces other benefits for producers, processors, and consumers which tend to expedite an orderly flow of livestock and livestock products in interstate and foreign commerce. It is therefore declared to be the policy of the United States that the slaughtering of livestock and the handling of livestock in connection with slaughter shall be carried out only by humane methods.
 
-(Pub. L. 85–765, § 1, Aug. 27, 1958, 72 Stat. 862.)
+(Pub. L. 85–765, § 1, Aug. 27, 1958, 72 Stat. 862.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -29,7 +29,7 @@ For citation of Pub. L. 95–445, Oct. 10, 1978, 92 Stat. 1069, as the “Humane
 
 **Enforcement of Humane Methods of Slaughter Act of 1958**
 
-Pub. L. 107–171, title X, § 10305, May 13, 2002, 116 Stat. 493, provided that:
+Pub. L. 107–171, title X, § 10305, May 13, 2002, 116 Stat. 493, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that the Secretary of Agriculture should—
 
@@ -95,7 +95,7 @@ Pub. L. 104–127, title IX, subtitle A, Apr. 4, 1996, 110 Stat. 1184, provided 
 
 > “This subtitle shall become effective on the first day of the first month that begins 30 days or more after the date of enactment of this Act [Apr. 4, 1996].”
 
-## § 1902. Humane methods
+## § 1902. Humane methods
 
 No method of slaughtering or handling in connection with slaughtering shall be deemed to comply with the public policy of the United States unless it is humane. Either of the following two methods of slaughtering and handling are hereby found to be humane:
 
@@ -103,7 +103,7 @@ No method of slaughtering or handling in connection with slaughtering shall be d
 
 **(b)** by slaughtering in accordance with the ritual requirements of the Jewish faith or any other religious faith that prescribes a method of slaughter whereby the animal suffers loss of consciousness by anemia of the brain caused by the simultaneous and instantaneous severance of the carotid arteries with a sharp instrument and handling in connection with such slaughtering.
 
-(Pub. L. 85–765, § 2, Aug. 27, 1958, 72 Stat. 862; Pub. L. 95–445, § 5(a), Oct. 10, 1978, 92 Stat. 1069.)
+(Pub. L. 85–765, § 2, Aug. 27, 1958, 72 Stat. 862; Pub. L. 95–445, § 5(a), Oct. 10, 1978, 92 Stat. 1069.)
 
 **Editorial Notes**
 
@@ -117,9 +117,9 @@ No method of slaughtering or handling in connection with slaughtering shall be d
 
 Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and nonapplicability during not to exceed additional 18 months in hardship cases, see sec. 7 of Pub. L. 95–445 set out as a note under section 603 of Title 21, Food and Drugs.
 
-## § 1903. Repealed. Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069
+## § 1903. Repealed. Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069
 
-Section, Pub. L. 85–765, § 3, Aug. 27, 1958, 72 Stat. 862, related to limitations on Government procurement and price support, modifications during national emergency, and statements of eligibility.
+Section, Pub. L. 85–765, § 3, Aug. 27, 1958, 72 Stat. 862, related to limitations on Government procurement and price support, modifications during national emergency, and statements of eligibility.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -131,7 +131,7 @@ Repeal effective one year after Oct. 10, 1978, and nonapplicability during not t
 
 Pub. L. 86–547, June 29, 1960, 74 Stat. 255, permitted any agency or instrumentality of the United States, during the period from June 30, 1960, to August 30, 1960, to contract for or procure livestock products produced or processed by a slaughterer or processor which slaughters or handles for slaughter livestock by methods other than those designated and approved by the Secretary of Agriculture if such slaughterer or processor has contracted for the purchase of the equipment necessary to enable him to adopt such methods but such equipment has not been delivered to him.
 
-## § 1904. Methods research; designation of methods
+## § 1904. Methods research; designation of methods
 
 In furtherance of the policy expressed herein the Secretary is authorized and directed—
 
@@ -139,17 +139,17 @@ In furtherance of the policy expressed herein the Secretary is authorized and di
 
 **(b)** on or before March 1, 1959, and at such times thereafter as he deems advisable, to designate methods of slaughter and of handling in connection with slaughter which, with respect to each species of livestock, conform to the policy stated in this chapter. If he deems it more effective, the Secretary may make any such designation by designating methods which are not in conformity with such policy. Designations by the Secretary subsequent to March 1, 1959, shall become effective 180 days after their publication in the Federal Register.
 
-(Pub. L. 85–765, § 4, Aug. 27, 1958, 72 Stat. 863; Pub. L. 95–445, § 5(b)–(e), Oct. 10, 1978, 92 Stat. 1069.)
+(Pub. L. 85–765, § 4, Aug. 27, 1958, 72 Stat. 863; Pub. L. 95–445, § 5(b)–(e), Oct. 10, 1978, 92 Stat. 1069.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1978—Par. (a). Pub. L. 95–445, § 5(d), inserted “and” after the semicolon at end.
+1978—Par. (a). Pub. L. 95–445, § 5(d), inserted “and” after the semicolon at end.
 
-Par. (b). Pub. L. 95–445, § 5(c), (e), struck out “for purposes of section 1903 of this title” before “180 days”, and substituted a period for the semicolon at end.
+Par. (b). Pub. L. 95–445, § 5(c), (e), struck out “for purposes of section 1903 of this title” before “180 days”, and substituted a period for the semicolon at end.
 
-Par. (c). Pub. L. 95–445, § 5(b), repealed par. (c).
+Par. (c). Pub. L. 95–445, § 5(b), repealed par. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -157,9 +157,9 @@ Par. (c). Pub. L. 95–445, § 5(b), repealed par. (c).
 
 Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and nonapplicability during not to exceed additional 18 months in hardship cases, see sec. 7 of Pub. L. 95–445 set out as a note under section 603 of Title 21, Food and Drugs.
 
-## § 1905. Repealed. Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069
+## § 1905. Repealed. Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069
 
-Section, Pub. L. 85–765, § 5, Aug. 27, 1958, 72 Stat. 863, related to establishment, composition, functions, compensation, meetings, and reports of advisory committees.
+Section, Pub. L. 85–765, § 5, Aug. 27, 1958, 72 Stat. 863, related to establishment, composition, functions, compensation, meetings, and reports of advisory committees.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,13 +167,13 @@ Section, Pub. L. 85–765, § 5, Aug. 27, 1958, 72 Stat. 863, related to estab
 
 Repeal effective one year after Oct. 10, 1978, and nonapplicability during not to exceed additional 18 months in hardship cases, see sec. 7 of Pub. L. 95–445 set out as an Effective Date of 1978 Amendment note under section 603 of Title 21, Food and Drugs.
 
-## § 1906. Exemption of ritual slaughter
+## § 1906. Exemption of ritual slaughter
 
 Nothing in this chapter shall be construed to prohibit, abridge, or in any way hinder the religious freedom of any person or group. Notwithstanding any other provision of this chapter, in order to protect freedom of religion, ritual slaughter and the handling or other preparation of livestock for ritual slaughter are exempted from the terms of this chapter. For the purposes of this section the term “ritual slaughter” means slaughter in accordance with section 1902(b) of this title.
 
-(Pub. L. 85–765, § 6, Aug. 27, 1958, 72 Stat. 864.)
+(Pub. L. 85–765, § 6, Aug. 27, 1958, 72 Stat. 864.)
 
-## § 1907. Practices involving nonambulatory livestock
+## § 1907. Practices involving nonambulatory livestock
 
 **(a) Report** The Secretary of Agriculture shall investigate and submit to Congress a report on—
 
@@ -193,13 +193,13 @@ Based on the findings of the report, if the Secretary determines it necessary, t
 
 For the purpose of administering and enforcing any regulations promulgated under subsection (b), the authorities provided under sections 10414 [7 U.S.C. 8313] and 10415 [7 U.S.C. 8314] shall apply to the regulations in a similar manner as those sections apply to the Animal Health Protection Act [7 U.S.C. 8301 et seq.]. Any person that violates regulations promulgated under subsection (b) shall be subject to penalties provided in section 10414.
 
-(Pub. L. 107–171, title X, § 10815, May 13, 2002, 116 Stat. 532.)
+(Pub. L. 107–171, title X, § 10815, May 13, 2002, 116 Stat. 532.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§ 8301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§ 8301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Codification**
 

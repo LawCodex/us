@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 53—HARMFUL ALGAL BLOOM AND HYPOXIA RESEARCH AND CONTROL
 
-## § 4001. Assessments
+## § 4001. Assessments
 
 **(a) Establishment of Inter-Agency Task Force** The President, through the Committee on Environment and Natural Resources of the National Science and Technology Council, shall establish an Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. The Task Force shall consist of a representative from—
 
@@ -149,7 +149,7 @@ Not less than once every 5 years the Task Force shall complete and submit to Con
 
 **(5)** any need to revise or terminate research and activities under the Program.
 
-(Pub. L. 105–383, title VI, § 603, Nov. 13, 1998, 112 Stat. 3448; Pub. L. 108–456, title I, §§ 102–104, Dec. 10, 2004, 118 Stat. 3630, 3631; Pub. L. 113–124, §§ 3, 6, 10(b), June 30, 2014, 128 Stat. 1379, 1383, 1386; Pub. L. 115–423, § 9(c), (d), Jan. 7, 2019, 132 Stat. 5462.)
+(Pub. L. 105–383, title VI, § 603, Nov. 13, 1998, 112 Stat. 3448; Pub. L. 108–456, title I, §§ 102–104, Dec. 10, 2004, 118 Stat. 3630, 3631; Pub. L. 113–124, §§ 3, 6, 10(b), June 30, 2014, 128 Stat. 1379, 1383, 1386; Pub. L. 115–423, § 9(c), (d), Jan. 7, 2019, 132 Stat. 5462.)
 
 **Editorial Notes**
 
@@ -163,57 +163,57 @@ Section was formerly set out in a note under section 1451 of Title 16, Conservat
 
 **Amendments**
 
-2019—Subsec. (a)(13), (14). Pub. L. 115–423, § 9(c), added par. (13) and redesignated former par. (13) as (14).
+2019—Subsec. (a)(13), (14). Pub. L. 115–423, § 9(c), added par. (13) and redesignated former par. (13) as (14).
 
-Subsec. (f). Pub. L. 115–423, § 9(d)(1), (2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to scientific assessment of freshwater harmful algal blooms.
+Subsec. (f). Pub. L. 115–423, § 9(d)(1), (2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to scientific assessment of freshwater harmful algal blooms.
 
-Subsec. (g). Pub. L. 115–423, § 9(d)(2), (3), redesignated subsec. (h) as (g) and amended subsec. (g) generally. Prior to amendment, subsec. (g) related to scientific assessments of hypoxia. Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 115–423, § 9(d)(2), (3), redesignated subsec. (h) as (g) and amended subsec. (g) generally. Prior to amendment, subsec. (g) related to scientific assessments of hypoxia. Former subsec. (g) redesignated (f).
 
-Subsecs. (h) to (j). Pub. L. 115–423, § 9(d)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively. Former subsec. (h) redesignated (g).
+Subsecs. (h) to (j). Pub. L. 115–423, § 9(d)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively. Former subsec. (h) redesignated (g).
 
-2014—Subsec. (a). Pub. L. 113–124, § 10(b), struck out “(hereinafter referred to as the ‘Task Force’)” after “Hypoxia” in introductory provisions.
+2014—Subsec. (a). Pub. L. 113–124, § 10(b), struck out “(hereinafter referred to as the ‘Task Force’)” after “Hypoxia” in introductory provisions.
 
-Pub. L. 113–124, § 3(1), substituted “a representative from” for “the following representatives from” in introductory provisions.
+Pub. L. 113–124, § 3(1), substituted “a representative from” for “the following representatives from” in introductory provisions.
 
-Subsec. (a)(12). Pub. L. 113–124, § 3(2), (4), added par. (12). Former par. (12) redesignated (13).
+Subsec. (a)(12). Pub. L. 113–124, § 3(2), (4), added par. (12). Former par. (12) redesignated (13).
 
-Subsec. (a)(13). Pub. L. 113–124, § 3(3), (5), redesignated par. (12) as (13) and struck out “such” before “other”.
+Subsec. (a)(13). Pub. L. 113–124, § 3(3), (5), redesignated par. (12) as (13) and struck out “such” before “other”.
 
-Subsec. (j). Pub. L. 113–124, § 6, added subsec. (j).
+Subsec. (j). Pub. L. 113–124, § 6, added subsec. (j).
 
-2004—Subsec. (d). Pub. L. 108–456, § 103, added subsec. (d).
+2004—Subsec. (d). Pub. L. 108–456, § 103, added subsec. (d).
 
-Subsec. (e). Pub. L. 108–456, § 104, added subsec. (e). Former subsec. (e) struck out.
+Subsec. (e). Pub. L. 108–456, § 104, added subsec. (e). Former subsec. (e) struck out.
 
-Pub. L. 108–456, § 102, struck out subsec. (e) which provided that the President could disestablish the Task Force after submission of the plan in section 4004 of this title.
+Pub. L. 108–456, § 102, struck out subsec. (e) which provided that the President could disestablish the Task Force after submission of the plan in section 4004 of this title.
 
-Subsecs. (f) to (i). Pub. L. 108–456, § 104, added subsecs. (f) to (i).
+Subsecs. (f) to (i). Pub. L. 108–456, § 104, added subsecs. (f) to (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–144, § 1, June 16, 2022, 136 Stat. 1266, provided that: “This Act [enacting section 4004a of this title and amending sections 4005 to 4009 of this title] may be cited as the ‘South Florida Clean Coastal Waters Act of 2021’.”
+Pub. L. 117–144, § 1, June 16, 2022, 136 Stat. 1266, provided that: “This Act [enacting section 4004a of this title and amending sections 4005 to 4009 of this title] may be cited as the ‘South Florida Clean Coastal Waters Act of 2021’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 115–423, § 9(a), Jan. 7, 2019, 132 Stat. 5462, provided that: “This section [enacting section 4010 of this title, and amending this section and sections 4001a, 4002, and 4009 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017’.”
+Pub. L. 115–423, § 9(a), Jan. 7, 2019, 132 Stat. 5462, provided that: “This section [enacting section 4010 of this title, and amending this section and sections 4001a, 4002, and 4009 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–124, § 1, June 30, 2014, 128 Stat. 1379, provided that: “This Act [enacting sections 4002, 4003, and 4007 to 4009 of this title and amending this section and sections 4004 and 4005 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014’.”
+Pub. L. 113–124, § 1, June 30, 2014, 128 Stat. 1379, provided that: “This Act [enacting sections 4002, 4003, and 4007 to 4009 of this title and amending this section and sections 4004 and 4005 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–456, title I, § 101, Dec. 10, 2004, 118 Stat. 3630, provided that: “This title [enacting section 4001a of this title and amending this section and section 4005 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Amendments Act of 2004’.”
+Pub. L. 108–456, title I, § 101, Dec. 10, 2004, 118 Stat. 3630, provided that: “This title [enacting section 4001a of this title and amending this section and section 4005 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Amendments Act of 2004’.”
 
 **Short Title**
 
-Pub. L. 105–383, title VI, § 601, Nov. 13, 1998, 112 Stat. 3447, provided that: “This title [enacting this chapter] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Act of 1998’.”
+Pub. L. 105–383, title VI, § 601, Nov. 13, 1998, 112 Stat. 3447, provided that: “This title [enacting this chapter] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Act of 1998’.”
 
 **Findings**
 
-Pub. L. 105–383, title VI, § 602, Nov. 13, 1998, 112 Stat. 3447, provided that:
+Pub. L. 105–383, title VI, § 602, Nov. 13, 1998, 112 Stat. 3447, provided that:
 
 > “The Congress finds that—
 
@@ -241,11 +241,11 @@ Pub. L. 105–383, title VI, § 602, Nov. 13, 1998, 112 Stat. 3447, provided t
 
 > **“(12)** other Federal agencies such as the Environmental Protection Agency, the Department of Agriculture, and the National Science Foundation, along with the States, Indian tribes, and local governments, conduct important work related to the prevention, reduction, and control of harmful algal blooms and hypoxia.”
 
-## § 4001a. Consultation required
+## § 4001a. Consultation required
 
 In developing the assessments, reports, and plans under the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998, the Task Force shall consult with the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management.
 
-(Pub. L. 108–456, title I, § 102 (part), Dec. 10, 2004, 118 Stat. 3630; Pub. L. 115–423, § 9(f), Jan. 7, 2019, 132 Stat. 5463.)
+(Pub. L. 108–456, title I, § 102 (part), Dec. 10, 2004, 118 Stat. 3630; Pub. L. 115–423, § 9(f), Jan. 7, 2019, 132 Stat. 5463.)
 
 **Editorial Notes**
 
@@ -265,7 +265,7 @@ Section was formerly set out as a note under section 1451 of Title 16, Conservat
 
 2019—Pub. L. 115–423 substituted “the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998” for “the amendments made by this title”.
 
-## § 4002. National harmful algal bloom and hypoxia program
+## § 4002. National harmful algal bloom and hypoxia program
 
 **(a) Establishment** Not later than 1 year after June 30, 2014, the Under Secretary, acting through the Task Force, shall maintain and enhance a national harmful algal bloom and hypoxia program, including—
 
@@ -377,29 +377,29 @@ The Administrator shall ensure that activities carried out under this chapter fo
 
 The collection of monitoring and observation data under this chapter shall comply with all data standards and protocols developed pursuant to the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.). Such data shall be made available through the system established under that Act.
 
-(Pub. L. 105–383, title VI, § 603A, as added Pub. L. 113–124, § 4, June 30, 2014, 128 Stat. 1379; amended Pub. L. 115–423, § 9(e), Jan. 7, 2019, 132 Stat. 5462.)
+(Pub. L. 105–383, title VI, § 603A, as added Pub. L. 113–124, § 4, June 30, 2014, 128 Stat. 1379; amended Pub. L. 115–423, § 9(e), Jan. 7, 2019, 132 Stat. 5462.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Integrated Coastal and Ocean Observation System Act of 2009, referred to in subsec. (i), is subtitle C (§ 12301 et seq.) of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1427, which is classified generally to chapter 49 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Integrated Coastal and Ocean Observation System Act of 2009, referred to in subsec. (i), is subtitle C (§ 12301 et seq.) of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1427, which is classified generally to chapter 49 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 **Amendments**
 
-2019—Subsec. (e)(1). Pub. L. 115–423, § 9(e)(1)(A), inserted “, including to local and regional stakeholders through the establishment and maintenance of a publicly accessible Internet website that provides information as to Program activities completed under this section” after “Program”.
+2019—Subsec. (e)(1). Pub. L. 115–423, § 9(e)(1)(A), inserted “, including to local and regional stakeholders through the establishment and maintenance of a publicly accessible Internet website that provides information as to Program activities completed under this section” after “Program”.
 
-Subsec. (e)(3)(D). Pub. L. 115–423, § 9(e)(1)(B), added subpar. (D).
+Subsec. (e)(3)(D). Pub. L. 115–423, § 9(e)(1)(B), added subpar. (D).
 
-Subsec. (e)(4). Pub. L. 115–423, § 9(e)(1)(C), substituted “, and work cooperatively to provide technical assistance to,” for “and work cooperatively with”.
+Subsec. (e)(4). Pub. L. 115–423, § 9(e)(1)(C), substituted “, and work cooperatively to provide technical assistance to,” for “and work cooperatively with”.
 
-Subsec. (e)(7). Pub. L. 115–423, § 9(e)(1)(D), inserted “and extension” after “existing education” and “intervention,” after “awareness of the causes, impacts,”.
+Subsec. (e)(7). Pub. L. 115–423, § 9(e)(1)(D), inserted “and extension” after “existing education” and “intervention,” after “awareness of the causes, impacts,”.
 
-Subsec. (f)(3). Pub. L. 115–423, § 9(e)(2)(A), inserted “, which shall include unmanned systems,” after “infrastructure”.
+Subsec. (f)(3). Pub. L. 115–423, § 9(e)(2)(A), inserted “, which shall include unmanned systems,” after “infrastructure”.
 
-Subsec. (f)(7), (8). Pub. L. 115–423, § 9(e)(2)(B)–(D), added pars. (7) and (8).
+Subsec. (f)(7), (8). Pub. L. 115–423, § 9(e)(2)(B)–(D), added pars. (7) and (8).
 
-## § 4003. Comprehensive research plan and action strategy
+## § 4003. Comprehensive research plan and action strategy
 
 **(a) In general** Not later than 1 year after June 30, 2014, the Under Secretary, through the Task Force, shall develop and submit to Congress a comprehensive research plan and action strategy to address marine and freshwater harmful algal blooms and hypoxia. The Action Strategy shall identify—
 
@@ -467,9 +467,9 @@ The Under Secretary shall publish the Action Strategy in the Federal Register.
 
 The Under Secretary, in coordination and consultation with the individuals and entities under subsection (d), shall periodically review and revise the Action Strategy prepared under this section, as necessary.
 
-(Pub. L. 105–383, title VI, § 603B, as added Pub. L. 113–124, § 5, June 30, 2014, 128 Stat. 1382.)
+(Pub. L. 105–383, title VI, § 603B, as added Pub. L. 113–124, § 5, June 30, 2014, 128 Stat. 1382.)
 
-## § 4004. Northern Gulf of Mexico hypoxia
+## § 4004. Northern Gulf of Mexico hypoxia
 
 **(a) Initial progress reports**
 
@@ -483,7 +483,7 @@ Beginning not later than 12 months after June 30, 2014, and biennially thereafte
 
 **(3)** recommend appropriate actions to continue to implement or, if necessary, revise the strategy set forth in the Gulf Hypoxia Action Plan 2008.
 
-(Pub. L. 105–383, title VI, § 604, Nov. 13, 1998, 112 Stat. 3449; Pub. L. 113–124, § 7, June 30, 2014, 128 Stat. 1384.)
+(Pub. L. 105–383, title VI, § 604, Nov. 13, 1998, 112 Stat. 3449; Pub. L. 113–124, § 7, June 30, 2014, 128 Stat. 1384.)
 
 **Editorial Notes**
 
@@ -495,7 +495,7 @@ Section was formerly set out in a note under section 1451 of Title 16, Conservat
 
 2014—Pub. L. 113–124 amended section generally. Prior to amendment, section required the Task Force to submit an integrated assessment of hypoxia in the northern Gulf of Mexico and develop a plan for reducing, mitigating, and controlling such hypoxia.
 
-## § 4004a. South Florida harmful algal blooms and hypoxia
+## § 4004a. South Florida harmful algal blooms and hypoxia
 
 **(a) South Florida** In this section, the term “South Florida” means—
 
@@ -571,7 +571,7 @@ Not later than 3 years and 180 days after June 16, 2022, the Task Force shall de
 
 **(I)** after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
 
-(Pub. L. 105–383, title VI, § 605, as added Pub. L. 117–144, § 2(a)(2), June 16, 2022, 136 Stat. 1266.)
+(Pub. L. 105–383, title VI, § 605, as added Pub. L. 117–144, § 2(a)(2), June 16, 2022, 136 Stat. 1266.)
 
 **Editorial Notes**
 
@@ -579,7 +579,7 @@ Not later than 3 years and 180 days after June 16, 2022, the Task Force shall de
 
 A prior section 605 of Pub. L. 105–383 was renumbered section 606 and is classified to section 4005 of this title.
 
-## § 4005. Great Lakes hypoxia and harmful algal blooms
+## § 4005. Great Lakes hypoxia and harmful algal blooms
 
 **(a) Integrated assessment** Not later than 18 months after June 30, 2014, the Task Force, in accordance with the authority under section 4001 of this title, shall complete and submit to the Congress and the President an integrated assessment that examines the causes, consequences, and approaches to reduce hypoxia and harmful algal blooms in the Great Lakes, including the status of and gaps within current research, monitoring, management, prevention, response, and control activities by—
 
@@ -639,7 +639,7 @@ Not later than 2 years after June 30, 2014, the Task Force shall develop and sub
 
 **(I)** after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
 
-(Pub. L. 105–383, title VI, § 606, formerly § 605, Nov. 13, 1998, 112 Stat. 3449; Pub. L. 108–456, title I, § 105, Dec. 10, 2004, 118 Stat. 3633; Pub. L. 110–161, div. B, title V, § 528, Dec. 26, 2007, 121 Stat. 1930; Pub. L. 113–124, § 8, June 30, 2014, 128 Stat. 1384; renumbered § 606, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
+(Pub. L. 105–383, title VI, § 606, formerly § 605, Nov. 13, 1998, 112 Stat. 3449; Pub. L. 108–456, title I, § 105, Dec. 10, 2004, 118 Stat. 3633; Pub. L. 110–161, div. B, title V, § 528, Dec. 26, 2007, 121 Stat. 1930; Pub. L. 113–124, § 8, June 30, 2014, 128 Stat. 1384; renumbered § 606, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
 
 **Editorial Notes**
 
@@ -655,43 +655,43 @@ A prior section 606 of Pub. L. 105–383 was renumbered section 607 and is class
 
 2014—Pub. L. 113–124 amended section generally. Prior to amendment, section authorized appropriations for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia for fiscal years 1999 to 2010.
 
-2007—Pub. L. 110–161, § 528(1), substituted “$30,000,000 for each of fiscal years 2008 through 2010” for “$25,500,000 for fiscal year 2008” in introductory provisions.
+2007—Pub. L. 110–161, § 528(1), substituted “$30,000,000 for each of fiscal years 2008 through 2010” for “$25,500,000 for fiscal year 2008” in introductory provisions.
 
-Pars. (1) to (4). Pub. L. 110–161, § 528(2), substituted “2010” for “2008”.
+Pars. (1) to (4). Pub. L. 110–161, § 528(2), substituted “2010” for “2008”.
 
-Par. (5). Pub. L. 110–161, § 528(3), substituted “each of fiscal years 2008 through 2010” for “fiscal year 2008”.
+Par. (5). Pub. L. 110–161, § 528(3), substituted “each of fiscal years 2008 through 2010” for “fiscal year 2008”.
 
-Par. (6). Pub. L. 110–161, § 528(2), substituted “2010” for “2008”.
+Par. (6). Pub. L. 110–161, § 528(2), substituted “2010” for “2008”.
 
-2004—Pub. L. 108–456, § 105(1), (2), in introductory provisions, struck out “and” after “2000,” and inserted “$23,500,000 for fiscal year 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $25,500,000 for fiscal year 2008,” after “2001,”.
+2004—Pub. L. 108–456, § 105(1), (2), in introductory provisions, struck out “and” after “2000,” and inserted “$23,500,000 for fiscal year 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $25,500,000 for fiscal year 2008,” after “2001,”.
 
-Par. (1). Pub. L. 108–456, § 105(1), (3), struck out “and” after “2000,” and inserted “, and $2,500,000 for each of fiscal years 2005 through 2008” after “2001”.
+Par. (1). Pub. L. 108–456, § 105(1), (3), struck out “and” after “2000,” and inserted “, and $2,500,000 for each of fiscal years 2005 through 2008” after “2001”.
 
-Par. (2). Pub. L. 108–456, § 105(1), (4), struck out “and” after “2000,” and inserted “, and $6,500,000, of which $1,000,000 shall be used for the research program described in section 603(f)(2)(B), for each of fiscal years 2005 through 2008” after “2001”.
+Par. (2). Pub. L. 108–456, § 105(1), (4), struck out “and” after “2000,” and inserted “, and $6,500,000, of which $1,000,000 shall be used for the research program described in section 603(f)(2)(B), for each of fiscal years 2005 through 2008” after “2001”.
 
-Par. (3). Pub. L. 108–456, § 105(1), (5), (6), struck out “and” after “2000,” and substituted “2001, and $3,000,000 for each of fiscal years 2005 through 2008” for “2001” and “blooms and to carry out section 603(d);” for “blooms;”.
+Par. (3). Pub. L. 108–456, § 105(1), (5), (6), struck out “and” after “2000,” and substituted “2001, and $3,000,000 for each of fiscal years 2005 through 2008” for “2001” and “blooms and to carry out section 603(d);” for “blooms;”.
 
-Par. (4). Pub. L. 108–456, § 105(7), substituted “2001, and $6,000,000 for each of fiscal years 2005 through 2008” for “and 2001”.
+Par. (4). Pub. L. 108–456, § 105(7), substituted “2001, and $6,000,000 for each of fiscal years 2005 through 2008” for “and 2001”.
 
-Par. (5). Pub. L. 108–456, § 105(1), (9), struck out “and” after “2000,” and substituted “2001, $4,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, $5,500,000 for fiscal year 2007, and $6,000,000 for fiscal year 2008” for “2001”.
+Par. (5). Pub. L. 108–456, § 105(1), (9), struck out “and” after “2000,” and substituted “2001, $4,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, $5,500,000 for fiscal year 2007, and $6,000,000 for fiscal year 2008” for “2001”.
 
-Par. (6). Pub. L. 108–456, § 105(8), (10), (11), added par. (6).
+Par. (6). Pub. L. 108–456, § 105(8), (10), (11), added par. (6).
 
-## § 4006. Protection of States’ rights
+## § 4006. Protection of States’ rights
 
 **(a)** Nothing in this chapter shall be interpreted to adversely affect existing State regulatory or enforcement power which has been granted to any State through the Clean Water Act [33 U.S.C. 1251 et seq.] or Coastal Zone Management Act of 1972 [16 U.S.C. 1451 et seq.].
 
 **(b)** Nothing in this chapter shall be interpreted to expand the regulatory or enforcement power of the Federal Government which has been delegated to any State through the Clean Water Act or Coastal Zone Management Act of 1972.
 
-(Pub. L. 105–383, title VI, § 607, formerly § 606, Nov. 13, 1998, 112 Stat. 3450; renumbered § 607, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
+(Pub. L. 105–383, title VI, § 607, formerly § 606, Nov. 13, 1998, 112 Stat. 3450; renumbered § 607, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Water Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Clean Water Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in text, is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in text, is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 **Codification**
 
@@ -701,7 +701,7 @@ Section was formerly set out in a note under section 1451 of Title 16, Conservat
 
 A prior section 607 of Pub. L. 105–383 was renumbered section 608 and is classified to section 4007 of this title.
 
-## § 4007. Effect on other Federal authority
+## § 4007. Effect on other Federal authority
 
 **(a) Authority preserved**
 
@@ -711,7 +711,7 @@ Nothing in this chapter supersedes or limits the authority of any agency to carr
 
 Nothing in this chapter may be construed as establishing new regulatory authority for any agency.
 
-(Pub. L. 105–383, title VI, § 608, formerly § 607, as added Pub. L. 113–124, § 9, June 30, 2014, 128 Stat. 1385; renumbered § 608, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
+(Pub. L. 105–383, title VI, § 608, formerly § 607, as added Pub. L. 113–124, § 9, June 30, 2014, 128 Stat. 1385; renumbered § 608, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
 
 **Editorial Notes**
 
@@ -719,7 +719,7 @@ Nothing in this chapter may be construed as establishing new regulatory authorit
 
 A prior section 608 of Pub. L. 105–383 was renumbered section 609 and is classified to section 4008 of this title.
 
-## § 4008. Definitions
+## § 4008. Definitions
 
 In this chapter:
 
@@ -759,7 +759,7 @@ The term “Under Secretary” means the Under Secretary of Commerce for Oceans 
 
 The term “United States coastal waters” includes the Great Lakes.
 
-(Pub. L. 105–383, title VI, § 609, formerly § 608, as added Pub. L. 113–124, § 10(a), June 30, 2014, 128 Stat. 1385; renumbered § 609, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
+(Pub. L. 105–383, title VI, § 609, formerly § 608, as added Pub. L. 113–124, § 10(a), June 30, 2014, 128 Stat. 1385; renumbered § 609, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
 
 **Editorial Notes**
 
@@ -767,7 +767,7 @@ The term “United States coastal waters” includes the Great Lakes.
 
 A prior section 609 of Pub. L. 105–383 was renumbered section 610 and is classified to section 4009 of this title.
 
-## § 4009. Authorization of appropriations
+## § 4009. Authorization of appropriations
 
 **(a) In general**
 
@@ -777,15 +777,15 @@ There is authorized to be appropriated to the Under Secretary to carry out secti
 
 The Under Secretary shall ensure that a substantial portion of funds appropriated pursuant to subsection (a) that are used for research purposes are allocated to extramural research activities. For each fiscal year, the Under Secretary shall publish a list of all grant recipients and the amounts for all of the funds allocated for research purposes, specifying those allocated for extramural research activities.
 
-(Pub. L. 105–383, title VI, § 610, formerly § 609, as added Pub. L. 113–124, § 11, June 30, 2014, 128 Stat. 1386; amended Pub. L. 115–423, § 9(h), Jan. 7, 2019, 132 Stat. 5464; renumbered § 610, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
+(Pub. L. 105–383, title VI, § 610, formerly § 609, as added Pub. L. 113–124, § 11, June 30, 2014, 128 Stat. 1386; amended Pub. L. 115–423, § 9(h), Jan. 7, 2019, 132 Stat. 5464; renumbered § 610, Pub. L. 117–144, § 2(a)(1), June 16, 2022, 136 Stat. 1266.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 115–423 inserted “, and $20,500,000 for each of fiscal years 2019 through 2023” before period at end.
+2019—Subsec. (a). Pub. L. 115–423 inserted “, and $20,500,000 for each of fiscal years 2019 through 2023” before period at end.
 
-## § 4010. Hypoxia or harmful algal bloom of national significance
+## § 4010. Hypoxia or harmful algal bloom of national significance
 
 **(1) Relief**
 
@@ -827,7 +827,7 @@ The term “event of national significance” means a hypoxia or harmful algal b
 
 The term “hypoxia or harmful algal bloom event” means the occurrence of hypoxia or a harmful algal bloom as a result of a natural, anthropogenic, or undetermined cause.
 
-(Pub. L. 115–423, § 9(g), Jan. 7, 2019, 132 Stat. 5463.)
+(Pub. L. 115–423, § 9(g), Jan. 7, 2019, 132 Stat. 5463.)
 
 **Editorial Notes**
 

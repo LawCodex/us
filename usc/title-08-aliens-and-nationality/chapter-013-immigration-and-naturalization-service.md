@@ -17,23 +17,23 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—ORGANIZATION
 
-### § 1551. Immigration and Naturalization Service
+### § 1551. Immigration and Naturalization Service
 
 There is created and established in the Department of Justice an Immigration and Naturalization Service.
 
-(Feb. 14, 1903, ch. 552, § 4, 32 Stat. 826; June 29, 1906, ch. 3592, § 1, 34 Stat. 596; Mar. 4, 1913, ch. 141, § 3, 37 Stat. 737; Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238.)
+(Feb. 14, 1903, ch. 552, § 4, 32 Stat. 826; June 29, 1906, ch. 3592, § 1, 34 Stat. 596; Mar. 4, 1913, ch. 141, § 3, 37 Stat. 737; Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 342 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 342 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–313, title II, § 201, Oct. 17, 2000, 114 Stat. 1262, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Immigration Services and Infrastructure Improvements Act of 2000’.”
+Pub. L. 106–313, title II, § 201, Oct. 17, 2000, 114 Stat. 1262, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Immigration Services and Infrastructure Improvements Act of 2000’.”
 
 **Abolition of Immigration and Naturalization Service and Transfer of Functions**
 
@@ -47,17 +47,17 @@ Functions performed by the Statistics Branch of the Office of Policy and Plannin
 
 Functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) were transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services by section 279(a) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
 
-Personnel of the Department of Justice employed in connection with the functions transferred by part E (§ 271 et seq.) of subchapter IV of chapter 1 of Title 6 (and functions that the Secretary of Homeland Security determines are properly related to the functions of the Bureau of Citizenship and Immigration Services), were transferred to the Director of the Bureau of Citizenship and Immigration Services by section 275(b)(2) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified. Personnel of the Department of Justice employed in connection with the functions transferred by section 279 of Title 6 were transferred to the Director of the Office of Refugee Resettlement by section 279(f)(3) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
+Personnel of the Department of Justice employed in connection with the functions transferred by part E (§ 271 et seq.) of subchapter IV of chapter 1 of Title 6 (and functions that the Secretary of Homeland Security determines are properly related to the functions of the Bureau of Citizenship and Immigration Services), were transferred to the Director of the Bureau of Citizenship and Immigration Services by section 275(b)(2) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified. Personnel of the Department of Justice employed in connection with the functions transferred by section 279 of Title 6 were transferred to the Director of the Office of Refugee Resettlement by section 279(f)(3) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
 
 For treatment of references to any agency, officer, or office, etc. the functions of which were transferred to the Department of Homeland Security, see sections 552(d) and 557 of Title 6.
 
 **Independent Comprehensive Management Analysis of Service Operations; Arrangements Respecting, Etc.**
 
-Pub. L. 96–132, § 10, Nov. 30, 1979, 93 Stat. 1047, provided that: “The Attorney General shall make arrangements with an appropriate entity for an independent comprehensive management analysis of the operations of the Immigration and Naturalization Service for the purpose of making such operations efficient and cost effective. After the completion of such analysis, the Attorney General shall promptly submit a report to the appropriate committees of Congress on the results of such analysis together with any administrative or legislative recommendations of the Attorney General to improve the operations of the Service.”
+Pub. L. 96–132, § 10, Nov. 30, 1979, 93 Stat. 1047, provided that: “The Attorney General shall make arrangements with an appropriate entity for an independent comprehensive management analysis of the operations of the Immigration and Naturalization Service for the purpose of making such operations efficient and cost effective. After the completion of such analysis, the Attorney General shall promptly submit a report to the appropriate committees of Congress on the results of such analysis together with any administrative or legislative recommendations of the Attorney General to improve the operations of the Service.”
 
 **Office of Special Investigator; Functions, Establishment, Powers, Etc.**
 
-Pub. L. 96–132, § 22, Nov. 30, 1979, 93 Stat. 1050, as amended by Pub. L. 117–286, § 4(b)(25), Dec. 27, 2022, 136 Stat. 4346, provided that:
+Pub. L. 96–132, § 22, Nov. 30, 1979, 93 Stat. 1050, as amended by Pub. L. 117–286, § 4(b)(25), Dec. 27, 2022, 136 Stat. 4346, provided that:
 
 > **“(a)** In order to create an independent and objective unit—
 
@@ -115,27 +115,27 @@ Pub. L. 96–132, § 22, Nov. 30, 1979, 93 Stat. 1050, as amended by Pub. L. 1
 
 **History of Immigration and Naturalization Agencies**
 
-By acts Aug. 3, 1882, ch. 376, §§ 2, 3, 22 Stat. 214; Feb. 23, 1887, ch. 220, 24 Stat. 415, the administration of the immigration laws then in force was reposed in the Secretary of the Treasury. Subsequently, by act Mar. 3, 1891, ch. 551, § 7, 26 Stat. 1087, the office of the Superintendent of Immigration was created as a permanent immigration agency and he in turn was designated Commissioner General of Immigration under the heading “Bureau of Immigration” by act Mar. 2, 1895, ch. 177, § 1, 28 Stat. 780. Upon the establishment of the Department of Commerce and Labor, the Commissioner General of Immigration and the Bureau of Immigration were transferred to that Department by act Feb. 14, 1903, ch. 552, § 4, 32 Stat. 825, and thereafter were redesignated the Bureau of Immigration and Naturalization by act June 29, 1906, ch. 3592, § 1, 34 Stat. 596. The Bureau of Immigration and Naturalization was transferred to the Department of Labor upon its establishment by act Mar. 4, 1913, ch. 141, 37 Stat. 736, and divided into two bureaus to be known as the Bureau of Immigration and the Bureau of Naturalization, respectively. Ex. Ord. No. 6166, § 14, June 10, 1933, set out as note under section 901 of Title 5, Government Organization and Employees, again consolidated these bureaus to form the Immigration and Naturalization Service, under a “Commissioner of Immigration and Naturalization”, which was then transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5.
+By acts Aug. 3, 1882, ch. 376, §§ 2, 3, 22 Stat. 214; Feb. 23, 1887, ch. 220, 24 Stat. 415, the administration of the immigration laws then in force was reposed in the Secretary of the Treasury. Subsequently, by act Mar. 3, 1891, ch. 551, § 7, 26 Stat. 1087, the office of the Superintendent of Immigration was created as a permanent immigration agency and he in turn was designated Commissioner General of Immigration under the heading “Bureau of Immigration” by act Mar. 2, 1895, ch. 177, § 1, 28 Stat. 780. Upon the establishment of the Department of Commerce and Labor, the Commissioner General of Immigration and the Bureau of Immigration were transferred to that Department by act Feb. 14, 1903, ch. 552, § 4, 32 Stat. 825, and thereafter were redesignated the Bureau of Immigration and Naturalization by act June 29, 1906, ch. 3592, § 1, 34 Stat. 596. The Bureau of Immigration and Naturalization was transferred to the Department of Labor upon its establishment by act Mar. 4, 1913, ch. 141, 37 Stat. 736, and divided into two bureaus to be known as the Bureau of Immigration and the Bureau of Naturalization, respectively. Ex. Ord. No. 6166, § 14, June 10, 1933, set out as note under section 901 of Title 5, Government Organization and Employees, again consolidated these bureaus to form the Immigration and Naturalization Service, under a “Commissioner of Immigration and Naturalization”, which was then transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 2, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 2, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
-### § 1552. Commissioner of Immigration and Naturalization; office
+### § 1552. Commissioner of Immigration and Naturalization; office
 
 The office of the Commissioner of Immigration and Naturalization is created and established, and the President, by and with the advice and consent of the Senate, is authorized and directed to appoint such officer. The Attorney General shall provide him with a suitable, furnished office in the city of Washington, and with such books of record and facilities for the discharge of the duties of his office as may be necessary.
 
-(Mar. 3, 1891, ch. 551, § 7, 26 Stat. 1085; Mar. 2, 1895, ch. 177, § 1, 28 Stat. 780; Apr. 28, 1904, Pub. R. 33, 33 Stat. 591; Mar. 4, 1913, ch. 141, § 3, 37 Stat. 737; Feb. 5, 1917, ch. 29, § 23, 39 Stat. 892; Mar. 3, 1917, ch. 163, § 1, 39 Stat. 1118; Mar. 28, 1922, ch. 117, title II, 42 Stat. 486; Jan. 5, 1923, ch. 24, title II, 42 Stat. 1127; Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238; June 27, 1952, ch. 477, title IV, § 403(a)(4), 66 Stat. 279.)
+(Mar. 3, 1891, ch. 551, § 7, 26 Stat. 1085; Mar. 2, 1895, ch. 177, § 1, 28 Stat. 780; Apr. 28, 1904, Pub. R. 33, 33 Stat. 591; Mar. 4, 1913, ch. 141, § 3, 37 Stat. 737; Feb. 5, 1917, ch. 29, § 23, 39 Stat. 892; Mar. 3, 1917, ch. 163, § 1, 39 Stat. 1118; Mar. 28, 1922, ch. 117, title II, 42 Stat. 486; Jan. 5, 1923, ch. 24, title II, 42 Stat. 1127; Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238; June 27, 1952, ch. 477, title IV, § 403(a)(4), 66 Stat. 279.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 342b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 342b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -151,29 +151,29 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Transfer of Functions**
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 2, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 2, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
 **History of Immigration and Naturalization Agencies**
 
-Ex. Ord. No. 6166, § 14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization, which was subsequently transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. See note set out under section 1551 of this title.
+Ex. Ord. No. 6166, § 14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization, which was subsequently transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. See note set out under section 1551 of this title.
 
-### § 1553. Assistant Commissioners and one District Director; compensation and salary grade
+### § 1553. Assistant Commissioners and one District Director; compensation and salary grade
 
 The compensation of the five assistant commissioners and one district director shall be at the rate of grade GS–16.
 
-(June 20, 1956, ch. 414, title II, § 201, 70 Stat. 307.)
+(June 20, 1956, ch. 414, title II, § 201, 70 Stat. 307.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 342b–1 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 342b–1 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in act July 7, 1955, ch. 279, title II, § 201, 69 Stat. 272.
+Provisions similar to those in this section were contained in act July 7, 1955, ch. 279, title II, § 201, 69 Stat. 272.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -183,13 +183,13 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 1554. Special immigrant inspectors at Washington
+### § 1554. Special immigrant inspectors at Washington
 
 Special immigrant inspectors, not to exceed three, may be detailed for duty in the service at Washington.
 
-(Mar. 2, 1895, ch. 177, § 1, 28 Stat. 780; Ex. Ord. No. 6166, § 14, June 10, 1933.)
+(Mar. 2, 1895, ch. 177, § 1, 28 Stat. 780; Ex. Ord. No. 6166, § 14, June 10, 1933.)
 
 **Editorial Notes**
 
@@ -197,7 +197,7 @@ Special immigrant inspectors, not to exceed three, may be detailed for duty in t
 
 Ex. Ord. No. 6166, is authority for the substitution of “service” for “bureau.” See note set out under section 1551 of this title.
 
-Section was formerly classified to section 342g of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378. Thereafter, it was classified to section 111 of this title prior to its transfer to this section.
+Section was formerly classified to section 342g of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378. Thereafter, it was classified to section 111 of this title prior to its transfer to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -209,19 +209,19 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Transfer of Functions**
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
-### § 1555. Immigration Service expenses
+### § 1555. Immigration Service expenses
 
 Appropriations now or hereafter provided for the Immigration and Naturalization Service shall be available for payment of (a) hire of privately owned horses for use on official business, under contract with officers or employees of the Service; (b) pay of interpreters and translators who are not citizens of the United States; (c) distribution of citizenship textbooks to aliens without cost to such aliens; (d) payment of allowances (at such rate as may be specified from time to time in the appropriation Act involved) to aliens, while held in custody under the immigration laws, for work performed; and (e) when so specified in the appropriation concerned, expenses of unforeseen emergencies of a confidential character, to be expended under the direction of the Attorney General, who shall make a certificate of the amount of any such expenditure as he may think it advisable not to specify, and every such certificate shall be deemed a sufficient voucher for the sum therein expressed to have been expended.
 
-(July 28, 1950, ch. 503, § 6, 64 Stat. 380.)
+(July 28, 1950, ch. 503, § 6, 64 Stat. 380.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 341d of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 341d of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -229,7 +229,7 @@ Section was formerly classified to section 341d of Title 5 prior to the general 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1556. Transferred
+### § 1556. Transferred
 
 **Editorial Notes**
 
@@ -237,11 +237,11 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Section transferred to section 1353d of this title.
 
-### § 1557. Prevention of transportation in foreign commerce of alien women and girls under international agreement; Commissioner designated as authority to receive and preserve information
+### § 1557. Prevention of transportation in foreign commerce of alien women and girls under international agreement; Commissioner designated as authority to receive and preserve information
 
 For the purpose of regulating and preventing the transportation in foreign commerce of alien women and girls for purposes of prostitution and debauchery, and in pursuance of and for the purpose of carrying out the terms of the agreement or project of arrangement for the suppression of the white-slave traffic, adopted July 25, 1902, for submission to their respective governments by the delegates of various powers represented at the Paris Conference and confirmed by a formal agreement signed at Paris on May 18, 1904, and adhered to by the United States on June 6, 1908, as shown by the proclamation of the President of the United States dated June 15, 1908, the Commissioner of Immigration and Naturalization is designated as the authority of the United States to receive and centralize information concerning the procuration of alien women and girls with a view to their debauchery, and to exercise supervision over such alien women and girls, receive their declarations, establish their identity, and ascertain from them who induced them to leave their native countries, respectively; and it shall be the duty of said Commissioner of Immigration and Naturalization to receive and keep on file in his office the statements and declarations which may be made by such alien women and girls, and those which are hereinafter required pertaining to such alien women and girls engaged in prostitution or debauchery in this country, and to furnish receipts for such statements and declarations provided for in this Act to the persons, respectively, making and filing them.
 
-(June 25, 1910, ch. 395, § 6, 36 Stat. 826; Ex. Ord. No. 6166, § 14, June 10, 1933.)
+(June 25, 1910, ch. 395, § 6, 36 Stat. 826; Ex. Ord. No. 6166, § 14, June 10, 1933.)
 
 **Editorial Notes**
 
@@ -251,7 +251,7 @@ This Act, referred to in text, is act June 25, 1910, ch. 395, 36 Stat. 825, know
 
 **Codification**
 
-Section was originally classified to section 402(1) of Title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. Thereafter, it was classified to section 342*l* of Title 5 prior to enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378, and was subsequently classified to section 238 of this title prior to transfer to this section.
+Section was originally classified to section 402(1) of Title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. Thereafter, it was classified to section 342*l* of Title 5 prior to enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378, and was subsequently classified to section 238 of this title prior to transfer to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -263,17 +263,17 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Transfer of Functions**
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 2, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 2, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
 **History of Immigration and Naturalization Agencies**
 
-Ex. Ord. No. 6166, § 14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization. See note set out under section 1551 of this title.
+Ex. Ord. No. 6166, § 14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization. See note set out under section 1551 of this title.
 
 ## SUBCHAPTER II—IMMIGRATION SERVICES AND INFRASTRUCTURE IMPROVEMENTS
 
-### § 1571. Purposes
+### § 1571. Purposes
 
 **(a) Purposes** The purposes of this subchapter are to—
 
@@ -285,7 +285,7 @@ Ex. Ord. No. 6166, § 14, June 10, 1933, set out as a note under section 901 o
 
 It is the sense of Congress that the processing of an immigration benefit application should be completed not later than 180 days after the initial filing of the application, except that a petition for a nonimmigrant visa under section 1184(c) of this title should be processed not later than 30 days after the filing of the petition.
 
-(Pub. L. 106–313, title II, § 202, Oct. 17, 2000, 114 Stat. 1262.)
+(Pub. L. 106–313, title II, § 202, Oct. 17, 2000, 114 Stat. 1262.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -297,7 +297,7 @@ For short title of title II of Pub. L. 106–313, which enacted this subchapter,
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1572. Definitions
+### § 1572. Definitions
 
 In this subchapter:
 
@@ -309,13 +309,13 @@ The term “backlog” means, with respect to an immigration benefit application
 
 The term “immigration benefit application” means any application or petition to confer, certify, change, adjust, or extend any status granted under the Immigration and Nationality Act [8 U.S.C. 1101 et seq.].
 
-(Pub. L. 106–313, title II, § 203, Oct. 17, 2000, 114 Stat. 1263.)
+(Pub. L. 106–313, title II, § 203, Oct. 17, 2000, 114 Stat. 1263.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in par. (2), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in par. (2), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -323,7 +323,7 @@ The Immigration and Nationality Act, referred to in par. (2), is act June 27, 19
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1573. Immigration Services and Infrastructure Improvements Account
+### § 1573. Immigration Services and Infrastructure Improvements Account
 
 **(a) Authority of the Attorney General** The Attorney General shall take such measures as may be necessary to—
 
@@ -351,7 +351,7 @@ Amounts appropriated pursuant to paragraph (1) are authorized to remain availabl
 
 None of the funds appropriated pursuant to paragraph (1) may be expended until the report described in section 1574(a) of this title has been submitted to Congress.
 
-(Pub. L. 106–313, title II, § 204, Oct. 17, 2000, 114 Stat. 1263; Pub. L. 107–296, title IV, § 458, Nov. 25, 2002, 116 Stat. 2201.)
+(Pub. L. 106–313, title II, § 204, Oct. 17, 2000, 114 Stat. 1263; Pub. L. 107–296, title IV, § 458, Nov. 25, 2002, 116 Stat. 2201.)
 
 **Editorial Notes**
 
@@ -369,7 +369,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1574. Reports to Congress
+### § 1574. Reports to Congress
 
 **(a) Backlog elimination plan**
 
@@ -451,7 +451,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 In the event that no funds are appropriated subject to section 1573(b) of this title in the fiscal year in which this Act is enacted, the Attorney General shall submit a report to Congress not later than 90 days after the end of such fiscal year, and each fiscal year thereafter, containing the elements described in paragraph (2).
 
-(Pub. L. 106–313, title II, § 205, Oct. 17, 2000, 114 Stat. 1263.)
+(Pub. L. 106–313, title II, § 205, Oct. 17, 2000, 114 Stat. 1263.)
 
 **Editorial Notes**
 

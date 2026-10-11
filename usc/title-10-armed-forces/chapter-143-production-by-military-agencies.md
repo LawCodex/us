@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1989—Pub. L. 101–189, div. A, title III, §§ 323(b), 324(b), Nov. 29, 1989, 103 Stat. 1414, 1415, added items 2423 and 2424.
+1989—Pub. L. 101–189, div. A, title III, §§ 323(b), 324(b), Nov. 29, 1989, 103 Stat. 1414, 1415, added items 2423 and 2424.
 
-1986—Pub. L. 99–661, div. A, title III, § 312(b), Nov. 14, 1986, 100 Stat. 3852, added item 2422.
+1986—Pub. L. 99–661, div. A, title III, § 312(b), Nov. 14, 1986, 100 Stat. 3852, added item 2422.
 
-## § 2421. Plantations and farms: operation, maintenance, and improvement
+## § 2421. Plantations and farms: operation, maintenance, and improvement
 
 **(a)** Appropriations for the subsistence of members of the Army, Navy, Air Force, Marine Corps, or Space Force are available for expenditures necessary in the operation, maintenance, and improvement of any plantation or farm, outside the United States and under the jurisdiction of the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, for furnishing fresh fruits and vegetables to the armed forces. However, no land may be acquired under this subsection.
 
@@ -35,13 +35,13 @@ retrieved: 2026-10-11
 
 **(e) Sunset.—** The authority under this section shall terminate on September 30, 2018.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 114–328, div. A, title VIII, § 833(a)(1), Dec. 23, 2016, 130 Stat. 2283; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(FF), Jan. 1, 2021, 134 Stat. 3822.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 114–328, div. A, title VIII, § 833(a)(1), Dec. 23, 2016, 130 Stat. 2283; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(FF), Jan. 1, 2021, 134 Stat. 3822.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2421(a)       2421(b) | 10:1213 (less 1st and 2d provisos). 34:555a (less 1st and 2d provisos). 10:1213 (2d proviso). 34:555a (2d proviso). | June 28, 1944, ch. 306; restated July 1, 1947, ch. 188, 61 Stat. 234; Oct. 31, 1951, ch. 654, § 3(2), 65 Stat. 708. |
+| 2421(a) 2421(b) | 10:1213 (less 1st and 2d provisos). 34:555a (less 1st and 2d provisos). 10:1213 (2d proviso). 34:555a (2d proviso). | June 28, 1944, ch. 306; restated July 1, 1947, ch. 188, 61 Stat. 234; Oct. 31, 1951, ch. 654, § 3(2), 65 Stat. 708. |
 | 2421(c) | 10:1213 (1st proviso). |  |
 |  | 34:555a (1st proviso). |  |
 | 2421(d) | 10:1214. |  |
@@ -53,7 +53,7 @@ In subsections (a) and (b), the word “continental” is omitted, since section
 
 In subsection (b), the words “of the United States” are omitted as surplusage. The words “Fruits and vegetables produced under subsection (a)” are substituted for the words “That surplus production”.
 
-In subsection (c), the words “nationals of the United States” are substituted for the words “American nationals”. The words “civil-service laws and other \* \* \* of the United States” and “rights \* \* \* or obligations” are omitted as surplusage.
+In subsection (c), the words “nationals of the United States” are substituted for the words “American nationals”. The words “civil-service laws and other \* \* \* of the United States” and “rights \* \* \* or obligations” are omitted as surplusage.
 
 In subsection (d), the words “after the termination of the present war” are omitted as executed. The word “by” is substituted for the words “through the instrumentality of”. The words “partnership, association” are omitted as covered by the definition of “person” in section 1 of title 1. The words “United States” are substituted for the word “Government”. The words “management”, “for that purpose”, and “or agreement” are omitted as surplusage.
 
@@ -65,23 +65,23 @@ In subsection (d), the words “after the termination of the present war” are 
 
 2016—Subsec. (e). Pub. L. 114–328 added subsec. (e).
 
-## § 2422. Bakery and dairy products: procurement outside the United States
+## § 2422. Bakery and dairy products: procurement outside the United States
 
 **(a)** The Secretary of Defense may authorize any element of the Department of Defense that procures bakery and dairy products for use by the armed forces outside the United States to procure any products described in subsection (b) through the use of procedures other than competitive procedures.
 
 **(b)** The products referred to in subsection (a) are bakery or dairy products produced by the Army and Air Force Exchange Service in a facility outside the United States that began operating before July 1, 1986.
 
-(Added Pub. L. 99–661, div. A, title III, § 312(a), Nov. 14, 1986, 100 Stat. 3851.)
+(Added Pub. L. 99–661, div. A, title III, § 312(a), Nov. 14, 1986, 100 Stat. 3851.)
 
-## § 2423. Laundry and dry cleaning services: procurement from facilities operated by the Navy Resale and Services Support Office
+## § 2423. Laundry and dry cleaning services: procurement from facilities operated by the Navy Resale and Services Support Office
 
 **(a) Authority.—** The Secretary of Defense may authorize an element of the Department of Defense to enter into a contract (through the use of procedures other than competitive procedures) with a laundry and dry cleaning facility operated by the Navy Resale and Services Support Office to procure laundry and dry cleaning services for the armed forces outside the United States.
 
 **(b) Application.—** Subsection (a) shall apply only with respect to a laundry and dry cleaning facility of the Navy Resale and Services Support Office that began operating before October 1, 1989.
 
-(Added Pub. L. 101–189, div. A, title III, § 323(a), Nov. 29, 1989, 103 Stat. 1414.)
+(Added Pub. L. 101–189, div. A, title III, § 323(a), Nov. 29, 1989, 103 Stat. 1414.)
 
-## § 2424. Procurement of supplies and services from exchange stores outside the United States
+## § 2424. Procurement of supplies and services from exchange stores outside the United States
 
 **(a) Authority.—** The Secretary of Defense may authorize an element of the Department of Defense to enter into a contract (through the use of procedures other than competitive procedures) with an exchange store operated under the jurisdiction of the Secretary of a military department outside the United States to procure supplies or services for use by the armed forces outside the United States.
 
@@ -95,7 +95,7 @@ In subsection (d), the words “after the termination of the present war” are 
 
 **(c) Exception.—** Paragraphs (1) and (2) of subsection (b) do not apply to contracts for the procurement of soft drinks that are manufactured in the United States. The Secretary of Defense shall prescribe in regulations the standards and procedures for determining whether a particular beverage is a soft drink and whether the beverage was manufactured in the United States.
 
-(Added Pub. L. 101–189, div. A, title III, § 324(a), Nov. 29, 1989, 103 Stat. 1414; amended Pub. L. 103–355, title III, § 3066, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(17), Feb. 10, 1996, 110 Stat. 673; Pub. L. 109–163, div. A, title VI, § 671, Jan. 6, 2006, 119 Stat. 3319.)
+(Added Pub. L. 101–189, div. A, title III, § 324(a), Nov. 29, 1989, 103 Stat. 1414; amended Pub. L. 103–355, title III, § 3066, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(17), Feb. 10, 1996, 110 Stat. 673; Pub. L. 109–163, div. A, title VI, § 671, Jan. 6, 2006, 119 Stat. 3319.)
 
 **Editorial Notes**
 
@@ -115,7 +115,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 **Operation of Stars and Stripes Bookstores Overseas by Military Exchanges**
 
-Pub. L. 103–160, div. A, title III, § 353, Nov. 30, 1993, 107 Stat. 1627, provided that:
+Pub. L. 103–160, div. A, title III, § 353, Nov. 30, 1993, 107 Stat. 1627, provided that:
 
 > **“(a) Requirement.—** The Secretary of Defense shall provide for the commencement, not later than October 1, 1994, of the operation of Stars and Stripes bookstores outside of the United States by the military exchanges.
 

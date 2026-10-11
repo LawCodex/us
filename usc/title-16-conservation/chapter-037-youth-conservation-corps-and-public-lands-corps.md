@@ -17,17 +17,17 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—YOUTH CONSERVATION CORPS
 
-### § 1701. Congressional declaration of policy and purpose
+### § 1701. Congressional declaration of policy and purpose
 
 The Congress finds that the Youth Conservation Corps has demonstrated a high degree of success as a pilot program wherein American youth, representing all segments of society, have benefited by gainful employment in the healthful outdoor atmosphere of the national park system, the national forest system, other public land and water areas of the United States and by their employment have developed, enhanced, and maintained the natural resources of the United States, and whereas in so doing the youth have gained an understanding and appreciation of the Nation’s environment and heritage equal to one full academic year of study, it is accordingly the purpose of this subchapter to expand and make permanent the Youth Conservation Corps and thereby further the development and maintenance of the natural resources by America’s youth, and in so doing to prepare them for the ultimate responsibility of maintaining and managing these resources for the American people.
 
-(Pub. L. 91–378, title I, § 101, formerly § 1, Aug. 13, 1970, 84 Stat. 794; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1066; renumbered title I, § 101, and amended Pub. L. 103–82, title I, § 105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title I, § 101, formerly § 1, Aug. 13, 1970, 84 Stat. 794; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1066; renumbered title I, § 101, and amended Pub. L. 103–82, title I, § 105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Pub. L. 103–82, § 105(2), substituted “subchapter” for “chapter”.
+1993—Pub. L. 103–82, § 105(2), substituted “subchapter” for “chapter”.
 
 1974—Pub. L. 93–408 substantially reenacted existing provisions and added finding that the Youth Conservation Corps program be expanded and made permanent in view of the success of the pilot program.
 
@@ -37,19 +37,19 @@ The Congress finds that the Youth Conservation Corps has demonstrated a high deg
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–82, title I, § 123, Sept. 21, 1993, 107 Stat. 867, provided that: “This title [see Tables for classification], and the amendments made by this title, shall take effect on October 1, 1993.”
+Pub. L. 103–82, title I, § 123, Sept. 21, 1993, 107 Stat. 867, provided that: “This title [see Tables for classification], and the amendments made by this title, shall take effect on October 1, 1993.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–154, § 1, Dec. 30, 2005, 119 Stat. 2890, provided that: “This Act [enacting section 1730 of this title and amending sections 1722 to 1726 and 1729 of this title] may be cited as the ‘Public Lands Corps Healthy Forests Restoration Act of 2005’.”
+Pub. L. 109–154, § 1, Dec. 30, 2005, 119 Stat. 2890, provided that: “This Act [enacting section 1730 of this title and amending sections 1722 to 1726 and 1729 of this title] may be cited as the ‘Public Lands Corps Healthy Forests Restoration Act of 2005’.”
 
 **Short Title**
 
 Pub. L. 91–378, title I, Aug. 13, 1970, 84 Stat. 794, which enacted this subchapter, is popularly known as the “Youth Conservation Corps Act of 1970”.
 
-Pub. L. 91–378, title II, § 201, as added by Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 848, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Public Lands Corps Act of 1993’.”
+Pub. L. 91–378, title II, § 201, as added by Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 848, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Public Lands Corps Act of 1993’.”
 
-### § 1702. Establishment
+### § 1702. Establishment
 
 **(a) Age of participants**
 
@@ -59,13 +59,13 @@ To carry out the purposes of this subchapter, there is established in the Depart
 
 The Corps shall be open to youth from all parts of the country of both sexes and youth of all social, economic, and racial classifications with all Corps members receiving compensation consistent with work accomplished, and with no person being employed as a member of the Corps for a term in excess of ninety days during any single year.
 
-(Pub. L. 91–378, title I, § 102, formerly § 2, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1066; renumbered title I, § 102, and amended Pub. L. 103–82, title I, § 105(1)–(4), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title I, § 102, formerly § 2, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1066; renumbered title I, § 102, and amended Pub. L. 103–82, title I, § 105(1)–(4), Sept. 21, 1993, 107 Stat. 848.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (a). Pub. L. 103–82, § 105(2), (4), substituted “subchapter” for “chapter” and inserted “in this subchapter” after “(hereinafter”.
+1993—Subsec. (a). Pub. L. 103–82, § 105(2), (4), substituted “subchapter” for “chapter” and inserted “in this subchapter” after “(hereinafter”.
 
 1974—Subsec. (a). Pub. L. 93–408 extended eligibility to permanent residents of Puerto Rico, removed the restriction that employment be in the summer months only, and substituted “waters of the United States” for “waters of the United States under his jurisdiction”.
 
@@ -79,7 +79,7 @@ Subsec. (b). Pub. L. 93–408 substituted “from all parts of the country of bo
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of this title.
 
-### § 1703. Duties and functions of Secretary of the Interior and Secretary of Agriculture
+### § 1703. Duties and functions of Secretary of the Interior and Secretary of Agriculture
 
 **(a) Programs and projects; conditions of employment; regulations; use of facilities by educational institutions** In carrying out this subchapter, the Secretary of the Interior and the Secretary of Agriculture shall—
 
@@ -89,13 +89,13 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 **(3)** determine the rates of pay, hours, and other conditions of employment in the Corps, except that all members of the Corps shall not be deemed to be Federal employees other than for the purpose of chapter 171 of title 28, and chapter 81 of title 5.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(4)** provide for such transportation, lodging, subsistence, and other services and equipment as they may deem necessary or appropriate for the needs of members of the Corps in their duties;
 
-**(5)** promulgate regulation 2
+**(5)** promulgate regulation 2
 
-<sup>2</sup>  So in original. Probably should be “regulations”.
+<sup>2</sup> So in original. Probably should be “regulations”.
 
 to insure the safety, health, and welfare of the Corps members; and
 
@@ -111,13 +111,13 @@ Existing but unoccupied Federal facilities and surplus or unused equipment (or b
 
 The Secretary of the Interior and the Secretary of Agriculture may contract with any public agency or organization or any private nonprofit agency or organization which has been in existence for at least five years for the operation of any Youth Conservation Corps project.
 
-(Pub. L. 91–378, title I, § 103, formerly § 3, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, § 103, and amended Pub. L. 103–82, title I, § 105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title I, § 103, formerly § 3, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, § 103, and amended Pub. L. 103–82, title I, § 105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (a). Pub. L. 103–82, § 105(2), substituted “subchapter” for “chapter” in introductory provisions.
+1993—Subsec. (a). Pub. L. 103–82, § 105(2), substituted “subchapter” for “chapter” in introductory provisions.
 
 1974—Pub. L. 93–408 reenacted existing provisions with minor changes.
 
@@ -129,7 +129,7 @@ The Secretary of the Interior and the Secretary of Agriculture may contract with
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of this title.
 
-### § 1704. Grants to States
+### § 1704. Grants to States
 
 **(a) Projects for preservation of non-Federal public lands and waters; “States” defined**
 
@@ -155,13 +155,13 @@ The Secretary of the Interior and the Secretary of Agriculture shall jointly est
 
 Thirty per centum of the sums appropriated under section 1706 of this title for any fiscal year shall be made available for grants under this section for such fiscal year.
 
-(Pub. L. 91–378, title I, § 104, formerly § 4, Aug. 13, 1970, 84 Stat. 796; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1320; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, § 104, and amended Pub. L. 103–82, title I, § 105(1), (3), (5), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title I, § 104, formerly § 4, Aug. 13, 1970, 84 Stat. 796; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1320; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, § 104, and amended Pub. L. 103–82, title I, § 105(1), (3), (5), Sept. 21, 1993, 107 Stat. 848.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (d). Pub. L. 103–82, § 105(5), made technical amendment to reference to section 1706 of this title to reflect renumbering of corresponding section of original act.
+1993—Subsec. (d). Pub. L. 103–82, § 105(5), made technical amendment to reference to section 1706 of this title to reflect renumbering of corresponding section of original act.
 
 1974—Subsec. (a). Pub. L. 93–408 substituted “jointly establish a program” for “jointly establish a pilot grant program”.
 
@@ -179,21 +179,21 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 1705. Repealed. Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(N), Nov. 12, 1996, 110 Stat. 4196
+### § 1705. Repealed. Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(N), Nov. 12, 1996, 110 Stat. 4196
 
-Section, Pub. L. 91–378, title I, § 105, formerly § 5, Aug. 13, 1970, 84 Stat. 796; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1321; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1068; renumbered title I, § 105, and amended Pub. L. 103–82, title I, § 105(1)–(3), Sept. 21, 1993, 107 Stat. 848, directed Secretaries of the Interior and Agriculture to annually prepare joint report detailing activities carried out under this subchapter to President and Congress.
+Section, Pub. L. 91–378, title I, § 105, formerly § 5, Aug. 13, 1970, 84 Stat. 796; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1321; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1068; renumbered title I, § 105, and amended Pub. L. 103–82, title I, § 105(1)–(3), Sept. 21, 1993, 107 Stat. 848, directed Secretaries of the Interior and Agriculture to annually prepare joint report detailing activities carried out under this subchapter to President and Congress.
 
-### § 1706. Authorization of appropriations
+### § 1706. Authorization of appropriations
 
 There are authorized to be appropriated amounts not to exceed $60,000,000 for each fiscal year, which amounts shall be made available to the Secretary of the Interior and the Secretary of Agriculture to carry out the purposes of this subchapter. Notwithstanding any other provision of law, funds appropriated for any fiscal year to carry out this subchapter shall remain available for obligation and expenditure until the end of the fiscal year following the fiscal year for which appropriated.
 
-(Pub. L. 91–378, title I, § 106, formerly § 6, as added Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1321; amended Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1068; renumbered title I, § 106, and amended Pub. L. 103–82, title I, § 105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title I, § 106, formerly § 6, as added Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1321; amended Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1068; renumbered title I, § 106, and amended Pub. L. 103–82, title I, § 105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Pub. L. 103–82, § 105(2), substituted “subchapter” for “chapter” in two places.
+1993—Pub. L. 103–82, § 105(2), substituted “subchapter” for “chapter” in two places.
 
 1974—Pub. L. 93–408 substituted authorization of appropriation of amount not exceeding $60,000,000 for each fiscal year for authorization of appropriation of amounts not exceeding $30,000,000 for fiscal year ending June 30, 1973 and $60,000,000 for fiscal year ending June 30, 1974.
 
@@ -205,7 +205,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 ## SUBCHAPTER II—PUBLIC LANDS CORPS
 
-### § 1721. Congressional findings and purpose
+### § 1721. Congressional findings and purpose
 
 **(a) Findings** The Congress finds the following:
 
@@ -227,7 +227,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 **(5)** stimulate interest among the Nation’s young men and women in conservation careers by exposing them to conservation professionals in land managing agencies.
 
-(Pub. L. 91–378, title II, § 202, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title II, § 202, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 848.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -237,9 +237,9 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 **Short Title**
 
-For short title of title II of Pub. L. 91–378, as added by Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 848, as the “Public Lands Corps Act of 1993”, see Short Title note set out under section 1701 of this title.
+For short title of title II of Pub. L. 91–378, as added by Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 848, as the “Public Lands Corps Act of 1993”, see Short Title note set out under section 1701 of this title.
 
-### § 1722. Definitions
+### § 1722. Definitions
 
 For purposes of this subchapter:
 
@@ -349,7 +349,7 @@ The term “State” means any State of the United States, the District of Colum
 
 The term “veteran” has the meaning given the term in section 101 of title 38.
 
-(Pub. L. 91–378, title II, § 203, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 849; amended Pub. L. 109–154, § 2(a), Dec. 30, 2005, 119 Stat. 2890; Pub. L. 114–289, title III, § 302(1), Dec. 16, 2016, 130 Stat. 1487; Pub. L. 116–9, title IX, § 9003(a), Mar. 12, 2019, 133 Stat. 832.)
+(Pub. L. 91–378, title II, § 203, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 849; amended Pub. L. 109–154, § 2(a), Dec. 30, 2005, 119 Stat. 2890; Pub. L. 114–289, title III, § 302(1), Dec. 16, 2016, 130 Stat. 1487; Pub. L. 116–9, title IX, § 9003(a), Mar. 12, 2019, 133 Stat. 832.)
 
 **Editorial Notes**
 
@@ -359,35 +359,35 @@ The Hawaiian Homes Commission Act, 1920, referred to in par. (4), is act July 9,
 
 Section 4 of Public Law 86–3, referred to in par. (4), is set out as a note preceding section 491 of Title 48.
 
-The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Healthy Forests Restoration Act of 2003, referred to in par. (9), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Healthy Forests Restoration Act of 2003, referred to in par. (9), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 **Amendments**
 
-2019—Par. (2). Pub. L. 116–9, § 9003(a)(1), substituted “by section 1723(a)(1)” for “under section 1723”.
+2019—Par. (2). Pub. L. 116–9, § 9003(a)(1), substituted “by section 1723(a)(1)” for “under section 1723”.
 
-Par. (8). Pub. L. 116–9, § 9003(a)(3), added par. (8). Former par. (8) redesignated (9).
+Par. (8). Pub. L. 116–9, § 9003(a)(3), added par. (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 116–9, § 9003(a)(2), (4)(A), redesignated par. (8) as (9) and substituted “and other conservation and restoration initiatives, as follows” for “, as follows” in introductory provisions. Former par. (9) redesignated (10).
+Par. (9). Pub. L. 116–9, § 9003(a)(2), (4)(A), redesignated par. (8) as (9) and substituted “and other conservation and restoration initiatives, as follows” for “, as follows” in introductory provisions. Former par. (9) redesignated (10).
 
-Par. (9)(E). Pub. L. 116–9, § 9003(a)(4)(B), added subpar. (E).
+Par. (9)(E). Pub. L. 116–9, § 9003(a)(4)(B), added subpar. (E).
 
-Par. (10). Pub. L. 116–9, § 9003(a)(2), redesignated par. (9) as (10). Former par. (10) redesignated (11).
+Par. (10). Pub. L. 116–9, § 9003(a)(2), redesignated par. (9) as (10). Former par. (10) redesignated (11).
 
-Par. (11). Pub. L. 116–9, § 9003(a)(2), redesignated par. (10) as (11). Former par. (11) redesignated (12).
+Par. (11). Pub. L. 116–9, § 9003(a)(2), redesignated par. (10) as (11). Former par. (11) redesignated (12).
 
-Par. (11)(A). Pub. L. 116–9, § 9003(a)(5), substituted “individuals between the ages of 16 and 30, inclusive, or veterans age 35 or younger” for “individuals between the ages of 16 and 30, inclusive,”.
+Par. (11)(A). Pub. L. 116–9, § 9003(a)(5), substituted “individuals between the ages of 16 and 30, inclusive, or veterans age 35 or younger” for “individuals between the ages of 16 and 30, inclusive,”.
 
-Par. (12). Pub. L. 116–9, § 9003(a)(2), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+Par. (12). Pub. L. 116–9, § 9003(a)(2), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
-Par. (13). Pub. L. 116–9, § 9003(a)(2), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+Par. (13). Pub. L. 116–9, § 9003(a)(2), redesignated par. (12) as (13). Former par. (13) redesignated (14).
 
-Par. (13)(C). Pub. L. 116–9, § 9003(a)(6), added subpar. (C).
+Par. (13)(C). Pub. L. 116–9, § 9003(a)(6), added subpar. (C).
 
-Par. (14). Pub. L. 116–9, § 9003(a)(2), redesignated par. (13) as (14).
+Par. (14). Pub. L. 116–9, § 9003(a)(2), redesignated par. (13) as (14).
 
-Par. (15). Pub. L. 116–9, § 9003(a)(7), added par. (15).
+Par. (15). Pub. L. 116–9, § 9003(a)(7), added par. (15).
 
 2016—Par. (10)(A). Pub. L. 114–289 substituted “30” for “25”.
 
@@ -399,7 +399,7 @@ Par. (15). Pub. L. 116–9, § 9003(a)(7), added par. (15).
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 
-### § 1723. Public Lands Corps program
+### § 1723. Public Lands Corps program
 
 **(a) Establishment of Public Lands Corps**
 
@@ -465,7 +465,7 @@ Each appropriate conservation project carried out under this subchapter on eligi
 
 Nothing in this section authorizes the use of the Public Lands Corps for projects on or impacting real property owned by, operated by, or within the custody, control, or administrative jurisdiction of the Administrator of General Services without the express permission of the Administrator of General Services.
 
-(Pub. L. 91–378, title II, § 204, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 850; amended Pub. L. 109–154, § 2(b), (c), (g)(1), Dec. 30, 2005, 119 Stat. 2891, 2893; Pub. L. 114–289, title III, § 302(2), Dec. 16, 2016, 130 Stat. 1487; Pub. L. 116–9, title IX, § 9003(b), Mar. 12, 2019, 133 Stat. 833.)
+(Pub. L. 91–378, title II, § 204, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 850; amended Pub. L. 109–154, § 2(b), (c), (g)(1), Dec. 30, 2005, 119 Stat. 2891, 2893; Pub. L. 114–289, title III, § 302(2), Dec. 16, 2016, 130 Stat. 1487; Pub. L. 116–9, title IX, § 9003(b), Mar. 12, 2019, 133 Stat. 833.)
 
 **Editorial Notes**
 
@@ -475,21 +475,21 @@ This subchapter, referred to in subsec. (a)(2), was in the original “this Act�
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–9, § 9003(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There is hereby established in the Department of the Interior and the Department of Agriculture a Public Lands Corps.”
+2019—Subsec. (a). Pub. L. 116–9, § 9003(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There is hereby established in the Department of the Interior and the Department of Agriculture a Public Lands Corps.”
 
-Subsec. (b). Pub. L. 116–9, § 9003(b)(2), substituted “individuals between the ages of 16 and 30, inclusive, and veterans age 35 or younger” for “individuals between the ages of 16 and 30, inclusive,” and “paragraphs (1), (2), (4), and (5) of section 12591(a) of title 42” for “section 12591(b) of title 42”.
+Subsec. (b). Pub. L. 116–9, § 9003(b)(2), substituted “individuals between the ages of 16 and 30, inclusive, and veterans age 35 or younger” for “individuals between the ages of 16 and 30, inclusive,” and “paragraphs (1), (2), (4), and (5) of section 12591(a) of title 42” for “section 12591(b) of title 42”.
 
-Subsec. (g). Pub. L. 116–9, § 9003(b)(3), added subsec. (g).
+Subsec. (g). Pub. L. 116–9, § 9003(b)(3), added subsec. (g).
 
 2016—Subsec. (b). Pub. L. 114–289 substituted “30” for “25”.
 
-2005—Subsec. (b). Pub. L. 109–154, § 2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
+2005—Subsec. (b). Pub. L. 109–154, § 2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
 
-Subsec. (c). Pub. L. 109–154, § 2(b), designated existing provisions as par. (1), inserted heading, substituted “The Secretary is” for “The Secretary of the Interior and the Secretary of Agriculture are”, and added par. (2).
+Subsec. (c). Pub. L. 109–154, § 2(b), designated existing provisions as par. (1), inserted heading, substituted “The Secretary is” for “The Secretary of the Interior and the Secretary of Agriculture are”, and added par. (2).
 
-Subsec. (d). Pub. L. 109–154, § 2(c), designated first sentence as par. (1), inserted heading, and substituted “The Secretary may” for “The Secretary of the Interior and the Secretary of Agriculture may each” and “the Secretary” for “such Secretary”, designated second sentence as par. (2) and inserted heading, added par. (3), and struck out former third sentence which read “The Secretaries may also authorize appropriate conservation projects and other appropriate projects to be carried out on Federal, State, local, or private lands as part of disaster prevention or relief efforts in response to an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).”
+Subsec. (d). Pub. L. 109–154, § 2(c), designated first sentence as par. (1), inserted heading, and substituted “The Secretary may” for “The Secretary of the Interior and the Secretary of Agriculture may each” and “the Secretary” for “such Secretary”, designated second sentence as par. (2) and inserted heading, added par. (3), and struck out former third sentence which read “The Secretaries may also authorize appropriate conservation projects and other appropriate projects to be carried out on Federal, State, local, or private lands as part of disaster prevention or relief efforts in response to an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).”
 
-Subsec. (e). Pub. L. 109–154, § 2(g)(1)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture” in introductory provisions.
+Subsec. (e). Pub. L. 109–154, § 2(g)(1)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -497,7 +497,7 @@ Subsec. (e). Pub. L. 109–154, § 2(g)(1)(B), substituted “Secretary” for
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 
-### § 1724. Conservation centers and program support
+### § 1724. Conservation centers and program support
 
 **(a) Establishment and use**
 
@@ -537,7 +537,7 @@ The Secretary may provide any services, facilities, equipment, supplies, technic
 
 The Secretary may provide to Corps participants who reside in their own homes transportation to and from appropriate conservation project sites.
 
-(Pub. L. 91–378, title II, § 205, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 851; amended Pub. L. 109–154, § 2(d), (g)(2), Dec. 30, 2005, 119 Stat. 2891, 2893; Pub. L. 116–9, title IX, § 9003(c), Mar. 12, 2019, 133 Stat. 833.)
+(Pub. L. 91–378, title II, § 205, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 851; amended Pub. L. 109–154, § 2(d), (g)(2), Dec. 30, 2005, 119 Stat. 2891, 2893; Pub. L. 116–9, title IX, § 9003(c), Mar. 12, 2019, 133 Stat. 833.)
 
 **Editorial Notes**
 
@@ -545,15 +545,15 @@ The Secretary may provide to Corps participants who reside in their own homes tr
 
 2019—Subsec. (e). Pub. L. 116–9 added subsec. (e).
 
-2005—Pub. L. 109–154, § 2(d)(1), inserted “and program support” after “Conservation centers” in section catchline.
+2005—Pub. L. 109–154, § 2(d)(1), inserted “and program support” after “Conservation centers” in section catchline.
 
-Subsec. (a). Pub. L. 109–154, § 2(d)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture are each authorized to provide such quarters, board, medical care, transportation, and other services, facilities, supplies, and equipment as such Secretary deems necessary in connection with the Public Lands Corps and appropriate conservation projects carried out under this subchapter and to establish and use conservation centers owned and operated by such Secretary for purposes of the Corps and such projects. The Secretaries shall establish basic standards of health, nutrition, sanitation, and safety for all conservation centers established under this section and shall assure that such standards are enforced. Where necessary or appropriate, the Secretaries may enter into contracts and other appropriate arrangements with State and local government agencies and private organizations for the management of such conservation centers.”
+Subsec. (a). Pub. L. 109–154, § 2(d)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture are each authorized to provide such quarters, board, medical care, transportation, and other services, facilities, supplies, and equipment as such Secretary deems necessary in connection with the Public Lands Corps and appropriate conservation projects carried out under this subchapter and to establish and use conservation centers owned and operated by such Secretary for purposes of the Corps and such projects. The Secretaries shall establish basic standards of health, nutrition, sanitation, and safety for all conservation centers established under this section and shall assure that such standards are enforced. Where necessary or appropriate, the Secretaries may enter into contracts and other appropriate arrangements with State and local government agencies and private organizations for the management of such conservation centers.”
 
-Subsec. (b). Pub. L. 109–154, § 2(g)(2)(A), substituted “Secretary may” for “Secretary of the Interior and the Secretary of Agriculture may”.
+Subsec. (b). Pub. L. 109–154, § 2(g)(2)(A), substituted “Secretary may” for “Secretary of the Interior and the Secretary of Agriculture may”.
 
-Subsec. (c). Pub. L. 109–154, § 2(g)(2)(B), substituted “Secretary may” for “Secretary of the Interior and the Secretary of Agriculture may”.
+Subsec. (c). Pub. L. 109–154, § 2(g)(2)(B), substituted “Secretary may” for “Secretary of the Interior and the Secretary of Agriculture may”.
 
-Subsec. (d). Pub. L. 109–154, § 2(d)(3), added subsec. (d).
+Subsec. (d). Pub. L. 109–154, § 2(d)(3), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -561,7 +561,7 @@ Subsec. (d). Pub. L. 109–154, § 2(d)(3), added subsec. (d).
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 
-### § 1725. Resource assistants
+### § 1725. Resource assistants
 
 **(a) Authorization**
 
@@ -569,13 +569,13 @@ The Secretary may provide individual placements of resource assistants to carry 
 
 **(b) Use of existing nonprofit organizations**
 
-Whenever one or more existing nonprofit organizations can provide, in the judgment of the the 1
+Whenever one or more existing nonprofit organizations can provide, in the judgment of the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Secretary, appropriate recruitment and placement services to fulfill the requirements of this section, the Secretary may implement this section through such existing organizations. Participating nonprofit organizations shall contribute to the expenses of providing and supporting the resource assistants, through private sources of funding, at a level equal to 25 percent of the total costs of each participant in the Resource Assistant program who has been recruited and placed through that organization. Any such participating nonprofit conservation service organization shall be required, by the respective land managing agency, to submit an annual report evaluating the scope, size, and quality of the program, including the value of work contributed by the Resource Assistants, to the mission of the agency.
 
-(Pub. L. 91–378, title II, § 206, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 852; amended Pub. L. 109–154, § 2(g)(3), Dec. 30, 2005, 119 Stat. 2893; Pub. L. 116–9, title IX, § 9003(d)(1), Mar. 12, 2019, 133 Stat. 833.)
+(Pub. L. 91–378, title II, § 206, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 852; amended Pub. L. 109–154, § 2(g)(3), Dec. 30, 2005, 119 Stat. 2893; Pub. L. 116–9, title IX, § 9003(d)(1), Mar. 12, 2019, 133 Stat. 833.)
 
 **Editorial Notes**
 
@@ -583,9 +583,9 @@ Secretary, appropriate recruitment and placement services to fulfill the require
 
 2019—Subsec. (a). Pub. L. 116–9 substituted “The Secretary may provide individual placements of resource assistants to carry out research or resource protection activities on behalf of the Secretary.” for “The Secretary is authorized to provide individual placements of resource assistants with any Federal land managing agency under the jurisdiction of the Secretary to carry out research or resource protection activities on behalf of the agency.”
 
-2005—Subsec. (a). Pub. L. 109–154, § 2(g)(3)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each”, “the Secretary to carry out” for “such Secretary to carry out”, “Secretary may” for “Secretaries may”, and “Secretary shall” for “Secretaries shall”.
+2005—Subsec. (a). Pub. L. 109–154, § 2(g)(3)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each”, “the Secretary to carry out” for “such Secretary to carry out”, “Secretary may” for “Secretaries may”, and “Secretary shall” for “Secretaries shall”.
 
-Subsec. (b). Pub. L. 109–154, § 2(g)(3)(B), substituted “the Secretary, appropriate” for “Secretary of the Interior or the Secretary of Agriculture, appropriate”.
+Subsec. (b). Pub. L. 109–154, § 2(g)(3)(B), substituted “the Secretary, appropriate” for “Secretary of the Interior or the Secretary of Agriculture, appropriate”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -593,7 +593,7 @@ Subsec. (b). Pub. L. 109–154, § 2(g)(3)(B), substituted “the Secretary, a
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 
-### § 1725a. Direct hire authority
+### § 1725a. Direct hire authority
 
 **(1)** During fiscal year 2012 and thereafter, the Secretary (as defined in section 1722 of this title) may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of such title, a qualified candidate described in paragraph (2) directly to a position for which the candidate meets Office of Personnel Management qualification standards.
 
@@ -607,7 +607,7 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 **(3)** The direct hire authority under this section may not be exercised with respect to a specific qualified candidate after the end of the two-year period beginning on the date on which the candidate completed the undergraduate or graduate degree, as the case may be.
 
-(Pub. L. 112–74, div. E, title I, § 121(a), Dec. 23, 2011, 125 Stat. 1012; Pub. L. 116–9, title IX, § 9003(d)(2), Mar. 12, 2019, 133 Stat. 834.)
+(Pub. L. 112–74, div. E, title I, § 121(a), Dec. 23, 2011, 125 Stat. 1012; Pub. L. 116–9, title IX, § 9003(d)(2), Mar. 12, 2019, 133 Stat. 834.)
 
 **Editorial Notes**
 
@@ -617,19 +617,19 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 
 **Amendments**
 
-2019—Par. (1). Pub. L. 116–9, § 9003(d)(2)(A), substituted “Secretary (as defined in section 1722 of this title)” for “Secretary of the Interior” and “paragraph (2)” for “paragraph (1)” and struck out “with a land managing agency of the Department of the Interior” after “position”.
+2019—Par. (1). Pub. L. 116–9, § 9003(d)(2)(A), substituted “Secretary (as defined in section 1722 of this title)” for “Secretary of the Interior” and “paragraph (2)” for “paragraph (1)” and struck out “with a land managing agency of the Department of the Interior” after “position”.
 
-Par. (2)(A). Pub. L. 116–9, § 9003(d)(2)(B), substituted “with the Secretary (as so defined)” for “with a land managing agency”.
+Par. (2)(A). Pub. L. 116–9, § 9003(d)(2)(B), substituted “with the Secretary (as so defined)” for “with a land managing agency”.
 
-### § 1725b. Forest Service hire authority
+### § 1725b. Forest Service hire authority
 
 **(a) In general**
 
 The Secretary of Agriculture may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of such title, a qualified candidate described in subsection (b) directly to a position with the Department of Agriculture, Forest Service for which the candidate meets Office of Personnel Management qualification standards.
 
-**(b) Qualifications** Subsection (a) applies to a former resource assistant (as defined in section 203 of the Public Land Corps Act 1
+**(b) Qualifications** Subsection (a) applies to a former resource assistant (as defined in section 203 of the Public Land Corps Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (16 U.S.C. 1722)) who—
 
@@ -643,7 +643,7 @@ The Secretary of Agriculture may appoint, without regard to the provisions of su
 
 The direct hire authority under this section may not be exercised with respect to a specific qualified candidate after the end of the 2-year period beginning on the date on which the candidate completed the undergraduate or graduate degree, as the case may be, or has successfully fulfilled the requirements of the internship program, whichever is later.
 
-(Pub. L. 115–334, title XII, § 12518, Dec. 20, 2018, 132 Stat. 5001.)
+(Pub. L. 115–334, title XII, § 12518, Dec. 20, 2018, 132 Stat. 5001.)
 
 **Editorial Notes**
 
@@ -655,7 +655,7 @@ Section 203 of the Public Land Corps Act, referred to in subsec. (b), probably m
 
 Section was enacted as part of the Agriculture Improvement Act of 2018 and not as part of the Public Lands Corps Act of 1993 which comprises this subchapter.
 
-### § 1726. Compensation and terms of service
+### § 1726. Compensation and terms of service
 
 **(a) Living allowances**
 
@@ -691,31 +691,31 @@ For purposes of section 9602 of title 5, a former member of the Corps hired by t
 
 The hiring and compensation standards described in this section shall apply to any individual participating in an appropriate conservation project through a qualified youth or conservation corps, including an individual placed through a contract or cooperative agreement, as approved by the Secretary.
 
-(Pub. L. 91–378, title II, § 207, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 852; amended Pub. L. 109–154, § 2(e), Dec. 30, 2005, 119 Stat. 2892; Pub. L. 114–289, title III, § 302(3), Dec. 16, 2016, 130 Stat. 1487; Pub. L. 116–9, title IX, § 9003(e), Mar. 12, 2019, 133 Stat. 834.)
+(Pub. L. 91–378, title II, § 207, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 852; amended Pub. L. 109–154, § 2(e), Dec. 30, 2005, 119 Stat. 2892; Pub. L. 114–289, title III, § 302(3), Dec. 16, 2016, 130 Stat. 1487; Pub. L. 116–9, title IX, § 9003(e), Mar. 12, 2019, 133 Stat. 834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–9, § 9003(e)(1), substituted “Compensation and terms of service” for “Living allowances and terms of service” in section catchline.
+2019—Pub. L. 116–9, § 9003(e)(1), substituted “Compensation and terms of service” for “Living allowances and terms of service” in section catchline.
 
-Subsec. (b). Pub. L. 116–9, § 9003(e)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 116–9, § 9003(e)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 116–9, § 9003(e)(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (c). Pub. L. 116–9, § 9003(e)(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Pub. L. 116–9, § 9003(e)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Pub. L. 116–9, § 9003(e)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 116–9, § 9003(e)(5), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
+Subsec. (d). Pub. L. 116–9, § 9003(e)(5), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
 
-Pub. L. 116–9, § 9003(e)(2), redesignated subsec. (c) as (d).
+Pub. L. 116–9, § 9003(e)(2), redesignated subsec. (c) as (d).
 
-Subsec. (e). Pub. L. 116–9, § 9003(e)(6), added subsec. (e).
+Subsec. (e). Pub. L. 116–9, § 9003(e)(6), added subsec. (e).
 
 2016—Subsec. (c)(2). Pub. L. 114–289 substituted “2 years” for “120 days”.
 
-2005—Subsec. (a). Pub. L. 109–154, § 2(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture shall provide each participant in the Public Lands Corps and each resource assistant with a living allowance in an amount not to exceed the maximum living allowance authorized by section 140(a)(3) of the National and Community Service Act of 1990 for participants in a national service program assisted under subtitle C of title I of such Act.”
+2005—Subsec. (a). Pub. L. 109–154, § 2(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture shall provide each participant in the Public Lands Corps and each resource assistant with a living allowance in an amount not to exceed the maximum living allowance authorized by section 140(a)(3) of the National and Community Service Act of 1990 for participants in a national service program assisted under subtitle C of title I of such Act.”
 
-Subsec. (c). Pub. L. 109–154, § 2(e)(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–154, § 2(e)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -723,7 +723,7 @@ Subsec. (c). Pub. L. 109–154, § 2(e)(2), added subsec. (c).
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 
-### § 1727. National service educational awards
+### § 1727. National service educational awards
 
 **(a) Educational benefits and awards**
 
@@ -733,13 +733,13 @@ If a participant in the Public Lands Corps or a resource assistant also serves i
 
 For purposes of section 1078 of title 20, in the case of borrowers who are either participants in the Corps or resource assistants, upon written request, a lender shall grant a borrower forbearance on such terms as are otherwise consistent with the regulations of the Secretary of Education, during periods in which the borrower is serving as such a participant or a resource assistant.
 
-(Pub. L. 91–378, title II, § 208, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 853.)
+(Pub. L. 91–378, title II, § 208, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 853.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitles C and D of title I of the Act are classified generally to divisions C (§ 12571 et seq.) and D (§ 12601 et seq.), respectively, of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitles C and D of title I of the Act are classified generally to divisions C (§ 12571 et seq.) and D (§ 12601 et seq.), respectively, of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -747,7 +747,7 @@ The National and Community Service Act of 1990, referred to in subsec. (a), is P
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 
-### § 1727a. Reporting and data collection
+### § 1727a. Reporting and data collection
 
 **(a) Report** Not later than 2 years after March 12, 2019, and annually thereafter, the Chief Executive Officer of the Corporation for National and Community Service, in coordination with the Secretaries, shall submit to Congress a report that includes data on the Corps, including—
 
@@ -781,7 +781,7 @@ The Chief Executive Officer of the Corporation for National and Community Servic
 
 The Secretary shall designate a coordinator to coordinate and serve as the primary point of contact for any activity of the Corps carried out by the Secretary.
 
-(Pub. L. 91–378, title II, § 209, as added Pub. L. 116–9, title IX, § 9003(f)(2), Mar. 12, 2019, 133 Stat. 835.)
+(Pub. L. 91–378, title II, § 209, as added Pub. L. 116–9, title IX, § 9003(f)(2), Mar. 12, 2019, 133 Stat. 835.)
 
 **Editorial Notes**
 
@@ -793,7 +793,7 @@ This subchapter, referred to in subsec. (d)(1), was in the original “this Act�
 
 A prior section 209 of Pub. L. 91–378 was renumbered section 211 and is classified to section 1728 of this title.
 
-### § 1727b. Indian Youth Service Corps
+### § 1727b. Indian Youth Service Corps
 
 **(a) In general** There is established within the Public Lands Corps a program to be known as the “Indian Youth Service Corps” that—
 
@@ -811,7 +811,7 @@ The Secretary may enter into cooperative agreements with Indian tribes and quali
 
 Not later than 18 months after March 12, 2019, the Secretary of the Interior, in consultation with Indian tribes, shall issue guidelines for the management of the Indian Youth Service Corps, in accordance with this subchapter and any other applicable Federal laws.
 
-(Pub. L. 91–378, title II, § 210, as added Pub. L. 116–9, title IX, § 9003(g), Mar. 12, 2019, 133 Stat. 835.)
+(Pub. L. 91–378, title II, § 210, as added Pub. L. 116–9, title IX, § 9003(g), Mar. 12, 2019, 133 Stat. 835.)
 
 **Editorial Notes**
 
@@ -823,11 +823,11 @@ This subchapter, referred to in subsec. (c), was in the original “this Act”,
 
 A prior section 210 of Pub. L. 91–379 was renumbered section 212 and is classified to section 1729 of this title.
 
-### § 1728. Nondisplacement
+### § 1728. Nondisplacement
 
 The nondisplacement requirements of section 12637 of title 42 shall be applicable to all activities carried out by the Public Lands Corps, to all activities carried out under this subchapter by a qualified youth or conservation corps, and to the selection and service of resource assistants.
 
-(Pub. L. 91–378, title II, § 211, formerly § 209, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 853; renumbered § 211, Pub. L. 116–9, title IX, § 9003(f)(1), Mar. 12, 2019, 133 Stat. 835.)
+(Pub. L. 91–378, title II, § 211, formerly § 209, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 853; renumbered § 211, Pub. L. 116–9, title IX, § 9003(f)(1), Mar. 12, 2019, 133 Stat. 835.)
 
 **Editorial Notes**
 
@@ -841,7 +841,7 @@ A prior section 211 of Pub. L. 91–378 was renumbered section 213 and is classi
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 
-### § 1729. Funding
+### § 1729. Funding
 
 **(a) Cost sharing**
 
@@ -861,19 +861,19 @@ In order to carry out the Public Lands Corps or to support resource assistants a
 
 Amounts appropriated pursuant to the authorization of appropriations under section 1730 of this title are in addition to amounts allocated to the Public Lands Corps through other Federal programs or projects.
 
-(Pub. L. 91–378, title II, § 212, formerly § 210, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 853; amended Pub. L. 109–154, § 2(f)(1), (g)(4), Dec. 30, 2005, 119 Stat. 2892, 2893; renumbered § 212 and amended Pub. L. 116–9, title IX, § 9003(f)(1), (3), Mar. 12, 2019, 133 Stat. 835.)
+(Pub. L. 91–378, title II, § 212, formerly § 210, as added Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 853; amended Pub. L. 109–154, § 2(f)(1), (g)(4), Dec. 30, 2005, 119 Stat. 2892, 2893; renumbered § 212 and amended Pub. L. 116–9, title IX, § 9003(f)(1), (3), Mar. 12, 2019, 133 Stat. 835.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (c). Pub. L. 116–9, § 9003(f)(3), made technical amendment to reference in original act which appears in text as reference to section 1730 of this title.
+2019—Subsec. (c). Pub. L. 116–9, § 9003(f)(3), made technical amendment to reference in original act which appears in text as reference to section 1730 of this title.
 
-2005—Subsec. (a). Pub. L. 109–154, § 2(g)(4)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each” in pars. (1) and (2).
+2005—Subsec. (a). Pub. L. 109–154, § 2(g)(4)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each” in pars. (1) and (2).
 
-Subsec. (b). Pub. L. 109–154, § 2(g)(4)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture”.
+Subsec. (b). Pub. L. 109–154, § 2(g)(4)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture”.
 
-Subsec. (c). Pub. L. 109–154, § 2(f)(1), added subsec. (c).
+Subsec. (c). Pub. L. 109–154, § 2(f)(1), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -881,7 +881,7 @@ Subsec. (c). Pub. L. 109–154, § 2(f)(1), added subsec. (c).
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 
-### § 1730. Authorization of appropriations
+### § 1730. Authorization of appropriations
 
 **(a) In general**
 
@@ -895,4 +895,4 @@ Notwithstanding subsection (a), any amounts made available under that subsection
 
 Notwithstanding any other provision of law, amounts appropriated for any fiscal year to carry out this subchapter shall remain available for obligation and expenditure until the end of the fiscal year following the fiscal year for which the amounts are appropriated.
 
-(Pub. L. 91–378, title II, § 213, formerly § 211, as added Pub. L. 109–154, § 2(f)(2), Dec. 30, 2005, 119 Stat. 2892; renumbered § 213, Pub. L. 116–9, title IX, § 9003(f)(1), Mar. 12, 2019, 133 Stat. 835.)
+(Pub. L. 91–378, title II, § 213, formerly § 211, as added Pub. L. 109–154, § 2(f)(2), Dec. 30, 2005, 119 Stat. 2892; renumbered § 213, Pub. L. 116–9, title IX, § 9003(f)(1), Mar. 12, 2019, 133 Stat. 835.)

@@ -17,73 +17,73 @@ retrieved: 2026-10-11
 
 ## GENERAL PROVISIONS
 
-### § 1281. Short title
+### § 1281. Short title
 
 This chapter may be cited as the “Agricultural Adjustment Act of 1938”.
 
-(Feb. 16, 1938, ch. 30, § 1, 52 Stat. 31.)
+(Feb. 16, 1938, ch. 30, § 1, 52 Stat. 31.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XVIII, § 1801, Dec. 23, 1985, 99 Stat. 1660, provided that: “Except as otherwise provided in this Act, this Act and the amendments made by this Act [see Tables for classification] shall become effective on the date of the enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title XVIII, § 1801, Dec. 23, 1985, 99 Stat. 1660, provided that: “Except as otherwise provided in this Act, this Act and the amendments made by this Act [see Tables for classification] shall become effective on the date of the enactment of this Act [Dec. 23, 1985].”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(3) [title IV, § 401], Nov. 29, 1999, 113 Stat. 1535, 1501A–210, provided that: “This title [amending section 1387 of this title] may be cited as the ‘Mississippi National Forest Improvement Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(3) [title IV, § 401], Nov. 29, 1999, 113 Stat. 1535, 1501A–210, provided that: “This title [amending section 1387 of this title] may be cited as the ‘Mississippi National Forest Improvement Act of 1999’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–577, § 1, Nov. 15, 1990, 104 Stat. 2856, provided: “That this Act [amending sections 1314e and 1379 of this title] may be cited as the ‘Farm Poundage Quota Revisions Act of 1990’.”
+Pub. L. 101–577, § 1, Nov. 15, 1990, 104 Stat. 2856, provided: “That this Act [amending sections 1314e and 1379 of this title] may be cited as the ‘Farm Poundage Quota Revisions Act of 1990’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–260, § 1, Mar. 20, 1986, 100 Stat. 45, provided that: “This Act [enacting section 1433c–1 of this title, amending sections 259, 1431, 1441–1, 1444–1, 1444e, 1445b–3, 1446, 1464, 1466, 1736–1, 1736s, and 1736v of this title, section 5312 of Title 5, Government Organization and Employees, and section 714b of Title 15, Commerce and Trade, enacting provisions set out as notes under sections 608c, 1441–1, and 1446 of this title, and amending provisions set out as a note under section 2025 of this title] may be cited as the ‘Food Security Improvements Act of 1986’.”
+Pub. L. 99–260, § 1, Mar. 20, 1986, 100 Stat. 45, provided that: “This Act [enacting section 1433c–1 of this title, amending sections 259, 1431, 1441–1, 1444–1, 1444e, 1445b–3, 1446, 1464, 1466, 1736–1, 1736s, and 1736v of this title, section 5312 of Title 5, Government Organization and Employees, and section 714b of Title 15, Commerce and Trade, enacting provisions set out as notes under sections 608c, 1441–1, and 1446 of this title, and amending provisions set out as a note under section 2025 of this title] may be cited as the ‘Food Security Improvements Act of 1986’.”
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–198, § 1, Dec. 23, 1985, 99 Stat. 1354, provided that: “This Act [see Tables for classification] may be cited as the ‘Food Security Act of 1985’.”
+Pub. L. 99–198, § 1, Dec. 23, 1985, 99 Stat. 1354, provided that: “This Act [see Tables for classification] may be cited as the ‘Food Security Act of 1985’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–218, § 1, July 20, 1982, 96 Stat. 197, provided that: “This Act [enacting sections 1314–1, 1314b–1, 1314b–2, 1445–1, and 1445–2 of this title, amending sections 1301, 1314, 1314b, 1314c, 1314e, 1314f, 1316, 1373, and 1445 of this title, and enacting provisions set out as notes under sections 1314, 1314b, 1445, 1445–1, and 1445–2 of this title, and under section 590h of Title 16, Conservation] may be cited as the ‘No Net Cost Tobacco Program Act of 1982’.”
+Pub. L. 97–218, § 1, July 20, 1982, 96 Stat. 197, provided that: “This Act [enacting sections 1314–1, 1314b–1, 1314b–2, 1445–1, and 1445–2 of this title, amending sections 1301, 1314, 1314b, 1314c, 1314e, 1314f, 1316, 1373, and 1445 of this title, and enacting provisions set out as notes under sections 1314, 1314b, 1445, 1445–1, and 1445–2 of this title, and under section 590h of Title 16, Conservation] may be cited as the ‘No Net Cost Tobacco Program Act of 1982’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–98, § 1, Dec. 22, 1981, 95 Stat. 1213, provided in part that Pub. L. 97–98 [see Tables for classification] be cited as the “Agriculture and Food Act of 1981”.
+Pub. L. 97–98, § 1, Dec. 22, 1981, 95 Stat. 1213, provided in part that Pub. L. 97–98 [see Tables for classification] be cited as the “Agriculture and Food Act of 1981”.
 
 **Short Title of 1977 Amendment**
 
-Pub. L. 95–113, § 1, Sept. 29, 1977, 91 Stat. 913, provided: “That this Act [enacting sections 1308 to 1310, 1444c, 1445b to 1445f, 1715, 2027, 2266, 2267, 2281 to 2289, 2669, 2670, 3101 to 3103, 3121 to 3128, 3151 to 3154, 3171 to 3178, 3191 to 3201, 3221, 3222, 3241, 3251, 3252, 3261 to 3263, 3271, 3281, 3282, 3291, 3301 to 3304, 3311 to 3316, and 3401 to 3417 of this title and section 590q–3 of Title 16, Conservation, amending sections 75 to 79b, 84, 87 to 87b, 87e, 87f–1, 87f–2, 87h, 341 to 343, 361c, 390 to 390j, 608e–1, 612c–3, 1011, 1307, 1352, 1358 to 1359, 1373, 1374, 1377, 1385, 1427 to 1428, 1431, 1441, 1444, 1446, 1446a, 1447, 1622, 1702, 1724, 1731 to 1733, 1736b, 1736c, 1781, 1782, 1923, 1929, 1929a, 1932, 1942, 2011 to 2026, 2201, 2204, 2652, 2654, 2662, 2663, 2667, 3104, 3157, 4551, and 4553 of this title, section 714b of Title 15, Commerce and Trade, sections 590h, 590*o*, 1002, 1005, 1006a, and 1505 of Title 16, and section 6651 of Title 42, The Public Health and Welfare, repealing section 390k of this title, enacting provisions set out as notes under this section, sections 74, 75a, 612c, 1307, 1330, 1331, 1342, 1352, 1353, 1358, 1358a, 1359, 1373, 1377, 1379d, 1385, 1427, 1428, 1441, 1444, 1444b, 1444c, 1445a to 1445c, 1446, 1446d, 1447, 1691, 2011, 2012, 2266, 3101, and 3401 of this title, and section 714b of Title 15, and amending provisions set out as notes under sections 74, 79, 135b, 608c, 612c, 1308, and 2011 of this title and under section 1382e of Title 42] may be cited as the ‘Food and Agriculture Act of 1977’.”
+Pub. L. 95–113, § 1, Sept. 29, 1977, 91 Stat. 913, provided: “That this Act [enacting sections 1308 to 1310, 1444c, 1445b to 1445f, 1715, 2027, 2266, 2267, 2281 to 2289, 2669, 2670, 3101 to 3103, 3121 to 3128, 3151 to 3154, 3171 to 3178, 3191 to 3201, 3221, 3222, 3241, 3251, 3252, 3261 to 3263, 3271, 3281, 3282, 3291, 3301 to 3304, 3311 to 3316, and 3401 to 3417 of this title and section 590q–3 of Title 16, Conservation, amending sections 75 to 79b, 84, 87 to 87b, 87e, 87f–1, 87f–2, 87h, 341 to 343, 361c, 390 to 390j, 608e–1, 612c–3, 1011, 1307, 1352, 1358 to 1359, 1373, 1374, 1377, 1385, 1427 to 1428, 1431, 1441, 1444, 1446, 1446a, 1447, 1622, 1702, 1724, 1731 to 1733, 1736b, 1736c, 1781, 1782, 1923, 1929, 1929a, 1932, 1942, 2011 to 2026, 2201, 2204, 2652, 2654, 2662, 2663, 2667, 3104, 3157, 4551, and 4553 of this title, section 714b of Title 15, Commerce and Trade, sections 590h, 590*o*, 1002, 1005, 1006a, and 1505 of Title 16, and section 6651 of Title 42, The Public Health and Welfare, repealing section 390k of this title, enacting provisions set out as notes under this section, sections 74, 75a, 612c, 1307, 1330, 1331, 1342, 1352, 1353, 1358, 1358a, 1359, 1373, 1377, 1379d, 1385, 1427, 1428, 1441, 1444, 1444b, 1444c, 1445a to 1445c, 1446, 1446d, 1447, 1691, 2011, 2012, 2266, 3101, and 3401 of this title, and section 714b of Title 15, and amending provisions set out as notes under sections 74, 79, 135b, 608c, 612c, 1308, and 2011 of this title and under section 1382e of Title 42] may be cited as the ‘Food and Agriculture Act of 1977’.”
 
 **Short Title of 1973 Amendment**
 
-Pub. L. 93–86, § 6, formerly § 5, Aug. 10, 1973, 87 Stat. 250, as renumbered Pub. L. 95–113, title XIII, § 1304(b)(1), Sept. 29, 1977, 91 Stat. 980, provided that: “This Act [enacting sections 612c–2, 612c–3, 1282a, 1427a, 1434, 1441a, 1736e, 2026, and 5942 of this title and sections 1501 to 1510 of Title 16, Conservation, amending sections 608c, 1301, 1305, 1306, 1307, 1334a–1, 1342a, 1344b, 1350, 1374, 1379b, 1379c, 1379g, 1428, 1444, 1444b, 1445a, 1446, 1446a, 1703, 1736c, 1782, 1787, 1925, 1926, 1932, 2012, 2014, 2016, 2019, 2025, 2119, 2651, 2654, 4551, and 4553 of this title, repealing section 1628 of this title, enacting provisions set out as notes under sections 608c, 612c, 624, 1301, 1305, 1306, 1344b, 1350, 1379b, 1379c, 1379d, 1441, 1444, 1445a, and 1446 of this title, section 142 of Title 13, Census, and section 71 of Title 45, Railroads, and amending provisions set out as notes under sections 135b, 608c, 1305, 1330 to 1336, 1338, 1339, 1342, 1343, 1344, 1344b, 1345, 1346, 1377 to 1379, 1379b, 1379c, 1385, 1427, 1428, 1441, 1445a, 1446, and 1446d of this title] may be cited as the ‘Agriculture and Consumer Protection Act of 1973’.”
+Pub. L. 93–86, § 6, formerly § 5, Aug. 10, 1973, 87 Stat. 250, as renumbered Pub. L. 95–113, title XIII, § 1304(b)(1), Sept. 29, 1977, 91 Stat. 980, provided that: “This Act [enacting sections 612c–2, 612c–3, 1282a, 1427a, 1434, 1441a, 1736e, 2026, and 5942 of this title and sections 1501 to 1510 of Title 16, Conservation, amending sections 608c, 1301, 1305, 1306, 1307, 1334a–1, 1342a, 1344b, 1350, 1374, 1379b, 1379c, 1379g, 1428, 1444, 1444b, 1445a, 1446, 1446a, 1703, 1736c, 1782, 1787, 1925, 1926, 1932, 2012, 2014, 2016, 2019, 2025, 2119, 2651, 2654, 4551, and 4553 of this title, repealing section 1628 of this title, enacting provisions set out as notes under sections 608c, 612c, 624, 1301, 1305, 1306, 1344b, 1350, 1379b, 1379c, 1379d, 1441, 1444, 1445a, and 1446 of this title, section 142 of Title 13, Census, and section 71 of Title 45, Railroads, and amending provisions set out as notes under sections 135b, 608c, 1305, 1330 to 1336, 1338, 1339, 1342, 1343, 1344, 1344b, 1345, 1346, 1377 to 1379, 1379b, 1379c, 1385, 1427, 1428, 1441, 1445a, 1446, and 1446d of this title] may be cited as the ‘Agriculture and Consumer Protection Act of 1973’.”
 
 **Short Title of 1970 Amendment**
 
-Pub. L. 91–524, § 1, Nov. 30, 1970, 84 Stat. 1358, provided: “That this Act [as amended by section 1 of Pub. L. 93–86, enacting sections 612c–2, 612c-3, 1282a, 1307, 1334a–1, 1339d, 1342a, 1350a, 1427a, 1434, 1441a, 1736e, 1787, 1930, 2119, and 5942 of this title, sections 590q–2 and 1501 to 1510 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, amending sections 608c, 1301, 1305, 1306, 1344b, 1350, 1374, 1378, 1379, 1379b, 1379c, 1379d, 1379e, 1379g, 1385, 1427, 1428, 1444, 1444a, 1444b, 1445a, 1446, 1446a, 1703, 1704, 1736, 1736c, 1782, 1787, 1925, 1926, 1932, 2651, 2654, 4551, and 4553 of this title and section 590p of Title 16, Conservation, and enacting provisions set out as notes under sections 135b, 608c, 624, 1301, 1305, 1306, 1330, 1331, 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1342, 1342a, 1343, 1344, 1344b, 1345, 1346, 1350, 1359, 1377, 1378, 1379, 1379b to 1379j, 1385, 1427, 1428, 1441, 1444, 1444b, 1445, 1445a, 1446, and 1446d of this title, section 142 of Title 13, Census, and section 71 of Title 45 Railroads] may be cited as the ‘Agricultural Act of 1970’.”
+Pub. L. 91–524, § 1, Nov. 30, 1970, 84 Stat. 1358, provided: “That this Act [as amended by section 1 of Pub. L. 93–86, enacting sections 612c–2, 612c-3, 1282a, 1307, 1334a–1, 1339d, 1342a, 1350a, 1427a, 1434, 1441a, 1736e, 1787, 1930, 2119, and 5942 of this title, sections 590q–2 and 1501 to 1510 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, amending sections 608c, 1301, 1305, 1306, 1344b, 1350, 1374, 1378, 1379, 1379b, 1379c, 1379d, 1379e, 1379g, 1385, 1427, 1428, 1444, 1444a, 1444b, 1445a, 1446, 1446a, 1703, 1704, 1736, 1736c, 1782, 1787, 1925, 1926, 1932, 2651, 2654, 4551, and 4553 of this title and section 590p of Title 16, Conservation, and enacting provisions set out as notes under sections 135b, 608c, 624, 1301, 1305, 1306, 1330, 1331, 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1342, 1342a, 1343, 1344, 1344b, 1345, 1346, 1350, 1359, 1377, 1378, 1379, 1379b to 1379j, 1385, 1427, 1428, 1441, 1444, 1444b, 1445, 1445a, 1446, and 1446d of this title, section 142 of Title 13, Census, and section 71 of Title 45 Railroads] may be cited as the ‘Agricultural Act of 1970’.”
 
 **Short Title of 1964 Amendment**
 
-Pub. L. 88–297, § 1, Apr. 11, 1964, 78 Stat. 173, provided: “That this Act [enacting sections 1348 to 1350 of this title, amending sections 1301, 1334, 1336, 1339, 1344, 1376, 1377, 1379b, 1379c, 1379d, 1385, 1421, 1427, 1444, and 1445a of this title, enacting provisions set out as notes under sections 1332 and 1379b of this title, and amending provisions set out as a note under section 1441 of this title] may be cited as the ‘Agricultural Act of 1964’.”
+Pub. L. 88–297, § 1, Apr. 11, 1964, 78 Stat. 173, provided: “That this Act [enacting sections 1348 to 1350 of this title, amending sections 1301, 1334, 1336, 1339, 1344, 1376, 1377, 1379b, 1379c, 1379d, 1385, 1421, 1427, 1444, and 1445a of this title, enacting provisions set out as notes under sections 1332 and 1379b of this title, and amending provisions set out as a note under section 1441 of this title] may be cited as the ‘Agricultural Act of 1964’.”
 
 **Short Title of 1963 Amendment**
 
-Pub. L. 88–26, § 1, May 20, 1963, 77 Stat. 44, provided: “That this Act [amending section 1339a of this title and section 590p of Title 16, Conservation, and provisions set out as note under section 1441 of this title] may be cited as the ‘Feed Grain Act of 1963’.”
+Pub. L. 88–26, § 1, May 20, 1963, 77 Stat. 44, provided: “That this Act [amending section 1339a of this title and section 590p of Title 16, Conservation, and provisions set out as note under section 1441 of this title] may be cited as the ‘Feed Grain Act of 1963’.”
 
 **Short Title of 1962 Amendment**
 
-Pub. L. 87–703, § 1, Sept. 27, 1962, 76 Stat. 605, provided: “That this Act [enacting sections 1334b, 1339 to 1339c, 1379a to 1379j, 1431d, 1445a and 1991 of this title and section 713a–13 of Title 15, Commerce and Trade, amending sections 608c, 1010, 1011, 1301, 1331 to 1334, 1335, 1336, 1340, 1371, 1385, 1427, 1431, 1431b, 1444b, 1697, 1731 to 1733, 1735, 1736, 1923, 1926, 1929, and 1942 of this title and sections 590g, 590h, 590p, 1004 and 1005 of Title 16, Conservation, repealing section 1337 of this title, enacting provisions set out as notes under this section, sections 1301, 1334, and 1441 of this title, and section 590p of Title 16] may be cited as the ‘Food and Agriculture Act of 1962’.”
+Pub. L. 87–703, § 1, Sept. 27, 1962, 76 Stat. 605, provided: “That this Act [enacting sections 1334b, 1339 to 1339c, 1379a to 1379j, 1431d, 1445a and 1991 of this title and section 713a–13 of Title 15, Commerce and Trade, amending sections 608c, 1010, 1011, 1301, 1331 to 1334, 1335, 1336, 1340, 1371, 1385, 1427, 1431, 1431b, 1444b, 1697, 1731 to 1733, 1735, 1736, 1923, 1926, 1929, and 1942 of this title and sections 590g, 590h, 590p, 1004 and 1005 of Title 16, Conservation, repealing section 1337 of this title, enacting provisions set out as notes under this section, sections 1301, 1334, and 1441 of this title, and section 590p of Title 16] may be cited as the ‘Food and Agriculture Act of 1962’.”
 
 **Short Title of 1958 Amendment**
 
-Pub. L. 85–835, § 1, Aug. 28, 1958, 72 Stat. 988, provided that: “This Act [enacting sections 1344 note, 1378, 1431a, 1441 note, 1443, 1444, 1853 note, amending sections 1313, 1334, 1342, 1344, 1347, 1353, 1358, 1423, 1425, 1427, 1441, 1446, 1446a, 1782 to 1784, and repealing section 1301b of this title] may be cited as the ‘Agricultural Act of 1958’ ”.
+Pub. L. 85–835, § 1, Aug. 28, 1958, 72 Stat. 988, provided that: “This Act [enacting sections 1344 note, 1378, 1431a, 1441 note, 1443, 1444, 1853 note, amending sections 1313, 1334, 1342, 1344, 1347, 1353, 1358, 1423, 1425, 1427, 1441, 1446, 1446a, 1782 to 1784, and repealing section 1301b of this title] may be cited as the ‘Agricultural Act of 1958’ ”.
 
 **Short Title of 1956 Amendment**
 
-Act May 28, 1956, ch. 327, § 1, 70 Stat. 188, provided: “That this Act [see Tables for classification] may be cited as the ‘Agricultural Act of 1956’.”
+Act May 28, 1956, ch. 327, § 1, 70 Stat. 188, provided: “That this Act [see Tables for classification] may be cited as the ‘Agricultural Act of 1956’.”
 
 **Short Title of 1948 Amendment**
 
@@ -91,19 +91,19 @@ Act July 3, 1948, ch. 827, 62 Stat. 1247, provided in part: “That this Act [se
 
 **Separability**
 
-Pub. L. 87–703, title IV, § 405, Sept. 27, 1962, 76 Stat. 632, provided that: “If any provision of this Act [see Short Title of 1962 Amendment note above] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of this Act and the applicability thereof to other persons and circumstances shall not be affected thereby.”
+Pub. L. 87–703, title IV, § 405, Sept. 27, 1962, 76 Stat. 632, provided that: “If any provision of this Act [see Short Title of 1962 Amendment note above] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of this Act and the applicability thereof to other persons and circumstances shall not be affected thereby.”
 
-### § 1282. Declaration of policy
+### § 1282. Declaration of policy
 
 It is declared to be the policy of Congress to continue the Soil Conservation and Domestic Allotment Act, as amended [16 U.S.C. 590a et seq.], for the purpose of conserving national resources, preventing the wasteful use of soil fertility, and of preserving, maintaining, and rebuilding the farm and ranch land resources in the national public interest; to accomplish these purposes through the encouragement of soil-building and soil-conserving crops and practices; to assist in the marketing of agricultural commodities for domestic consumption and for export; and to regulate interstate and foreign commerce in cotton, wheat, corn, and rice to the extent necessary to provide an orderly, adequate, and balanced flow of such commodities in interstate and foreign commerce through storage of reserve supplies, loans, marketing quotas, assisting farmers to obtain insofar as practicable, parity prices for such commodities and parity of income, and assisting consumers to obtain an adequate and steady supply of such commodities at fair prices.
 
-(Feb. 16, 1938, ch. 30, § 2, 52 Stat. 31; Pub. L. 108–357, title VI, § 611(e), Oct. 22, 2004, 118 Stat. 1522.)
+(Feb. 16, 1938, ch. 30, § 2, 52 Stat. 31; Pub. L. 108–357, title VI, § 611(e), Oct. 22, 2004, 118 Stat. 1522.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
 **Amendments**
 
@@ -121,7 +121,7 @@ Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liabilit
 
 **Congressional Declaration of Policy Under Agricultural Act of 1961**
 
-Pub. L. 87–128, § 2, Aug. 8, 1961, 75 Stat. 294, provided that:
+Pub. L. 87–128, § 2, Aug. 8, 1961, 75 Stat. 294, provided that:
 
 > “In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
 
@@ -145,29 +145,29 @@ Pub. L. 87–128, § 2, Aug. 8, 1961, 75 Stat. 294, provided that:
 
 **Congressional Declaration of Policy for Year 1949**
 
-Act July 3, 1948, ch. 827, title I, § 1(d), 62 Stat. 1248, provided that: “It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof [subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under section 713a–8 of Title 15, Commerce and Trade]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extent that funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support.”
+Act July 3, 1948, ch. 827, title I, § 1(d), 62 Stat. 1248, provided that: “It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof [subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under section 713a–8 of Title 15, Commerce and Trade]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extent that funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support.”
 
 **Study of Parity Income Position of Farmers; Report to Congress by June 30, 1966**
 
-Pub. L. 89–321, title VII, § 705, Nov. 3, 1965, 79 Stat. 1210, directed the Secretary of Agriculture to make a study of the parity income position of farmers, and report the results of such study to the Congress not later than June 30, 1966.
+Pub. L. 89–321, title VII, § 705, Nov. 3, 1965, 79 Stat. 1210, directed the Secretary of Agriculture to make a study of the parity income position of farmers, and report the results of such study to the Congress not later than June 30, 1966.
 
 **Price Stabilization During Year 1950**
 
-Act July 3, 1948, ch. 827, title I, § 1(a), (b), 62 Stat. 1247, 1248, as amended June 10, 1949, ch. 191, 63 Stat. 169, authorized the Secretary of Agriculture through any instrumentality or agency within or under the direction of the Department of Agriculture, by loans, purchases, or other operations to support prices received by producers of cotton, wheat, corn, tobacco, rice, and peanuts marketed before June 30, 1950 (Sept. 30, 1950, in the case of Maryland and the cigar-leaf types of tobacco), if producers had not disapproved marketing quotas for such commodity for the marketing year beginning in the calendar year in which the crop is harvested.
+Act July 3, 1948, ch. 827, title I, § 1(a), (b), 62 Stat. 1247, 1248, as amended June 10, 1949, ch. 191, 63 Stat. 169, authorized the Secretary of Agriculture through any instrumentality or agency within or under the direction of the Department of Agriculture, by loans, purchases, or other operations to support prices received by producers of cotton, wheat, corn, tobacco, rice, and peanuts marketed before June 30, 1950 (Sept. 30, 1950, in the case of Maryland and the cigar-leaf types of tobacco), if producers had not disapproved marketing quotas for such commodity for the marketing year beginning in the calendar year in which the crop is harvested.
 
-Act July 3, 1948, ch. 827, title I, § 2, 62 Stat. 1248, authorized the Secretary, from any funds available to the Department of Agriculture or any agency operating under its direction for price support operations or for the disposal of agricultural commodities, to use such sums as may be necessary to carry out the provisions of section 1 of the Act (enacting provisions set out as notes under this section and amending provisions set out as a note under section 713a–8 of this title).
+Act July 3, 1948, ch. 827, title I, § 2, 62 Stat. 1248, authorized the Secretary, from any funds available to the Department of Agriculture or any agency operating under its direction for price support operations or for the disposal of agricultural commodities, to use such sums as may be necessary to carry out the provisions of section 1 of the Act (enacting provisions set out as notes under this section and amending provisions set out as a note under section 713a–8 of this title).
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 610 of this title.
+Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 610 of this title.
 
 Soil Conservation Service and Agricultural Adjustment Administration consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069, Feb. 23, 1942, 7 F.R. 1409.
 
-Functions of Soil Conservation Service in Department of Agriculture with respect to soil and moisture conservation operations conducted on lands under jurisdiction of Department of the Interior transferred to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior through such agency or agencies in Department of the Interior as Secretary shall designate, by 1940 Reorg. Plan No. IV, § 6, eff. June 30, 1940, set out in the Appendix to Title 5, Government Organization and Employees. See, also, sections 13 to 15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
+Functions of Soil Conservation Service in Department of Agriculture with respect to soil and moisture conservation operations conducted on lands under jurisdiction of Department of the Interior transferred to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior through such agency or agencies in Department of the Interior as Secretary shall designate, by 1940 Reorg. Plan No. IV, § 6, eff. June 30, 1940, set out in the Appendix to Title 5, Government Organization and Employees. See, also, sections 13 to 15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
-### § 1282a. Emergency supply of agricultural products
+### § 1282a. Emergency supply of agricultural products
 
 **(a) Establishment of prices to insure orderly, adequate and steady supply of products**
 
@@ -185,7 +185,7 @@ Under this section, the term “agricultural products” shall include meat, pou
 
 The Secretary of Agriculture is directed to implement policies under this Act which are designed to encourage American farmers to produce to their full capabilities during periods of short supply to assure American consumers with an adequate supply of food and fiber at fair and reasonable prices.
 
-(Pub. L. 91–524, title VIII, § 815, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240.)
+(Pub. L. 91–524, title VIII, § 815, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240.)
 
 **Editorial Notes**
 
@@ -201,7 +201,7 @@ Section was enacted as part of the Agricultural Act of 1970 as added by the Agri
 
 ## SUBCHAPTER I—ADJUSTMENT IN FREIGHT RATES, NEW USES AND MARKETS, AND DISPOSITION OF SURPLUSES
 
-### § 1291. Adjustments in freight rates
+### § 1291. Adjustments in freight rates
 
 **(a) Complaints by Secretary of Agriculture; notice of hearings**
 
@@ -219,7 +219,7 @@ For the purposes of this section, the Surface Transportation Board is authorized
 
 The Secretary is authorized to cooperate with and assist cooperative associations of farmers making complaint to the Surface Transportation Board with respect to rates, charges, tariffs, and practices relating to the transportation of farm products.
 
-(Feb. 16, 1938, ch. 30, title II, § 201, 52 Stat. 36; Pub. L. 104–88, title III, § 311, Dec. 29, 1995, 109 Stat. 948.)
+(Feb. 16, 1938, ch. 30, title II, § 201, 52 Stat. 36; Pub. L. 104–88, title III, § 311, Dec. 29, 1995, 109 Stat. 948.)
 
 **Editorial Notes**
 
@@ -233,7 +233,7 @@ The Secretary is authorized to cooperate with and assist cooperative association
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
-### § 1292. New uses and markets for commodities
+### § 1292. New uses and markets for commodities
 
 **(a) Regional research laboratories**
 
@@ -251,7 +251,7 @@ In carrying out the purposes of subsection (a), the Secretary is authorized and 
 
 To carry out the purposes of subsection (a), the Secretary is authorized to utilize in each fiscal year, beginning with the fiscal year beginning July 1, 1938, a sum not to exceed $4,000,000 of the funds appropriated pursuant to section 1391 of this title, or section 590*o* of title 16, for such fiscal year. The Secretary shall allocate one-fourth of such sum annually to each of the four laboratories established pursuant to this section.
 
-**(e) Repealed. Aug. 30, 1954, ch. 1076, § 1(3), 68 Stat. 966**
+**(e) Repealed. Aug. 30, 1954, ch. 1076, § 1(3), 68 Stat. 966**
 
 **(f) Appropriation to Secretary of Commerce**
 
@@ -261,7 +261,7 @@ There is allocated to the Secretary of Commerce for each fiscal year, beginning 
 
 It shall be the duty of the Secretary to use available funds to stimulate and widen the use of all farm commodities in the United States and to increase in every practical way the flow of such commodities and the products thereof into the markets of the world.
 
-(Feb. 16, 1938, ch. 30, title II, § 202, 52 Stat. 37; Aug. 30, 1954, ch. 1076, § 1(3), 68 Stat. 966.)
+(Feb. 16, 1938, ch. 30, title II, § 202, 52 Stat. 37; Aug. 30, 1954, ch. 1076, § 1(3), 68 Stat. 966.)
 
 **Editorial Notes**
 
@@ -283,19 +283,19 @@ Pub. L. 91–430, Sept. 26, 1970, 84 Stat. 885, provided:
 
 > [Contract authority; sale of export marketing certificates and pro rata share of such certificates for financing agreements; rules and regulations]. The Secretary of Agriculture is authorized to enter into agreements with organizations of wheat growers, farm organizations, and such other organizations as he may deem appropriate to carry out a program of research and promotion designed to expand domestic and foreign markets and increase utilization for United States wheat and to carry out any other such program which he deems will benefit wheat producers in the United States. Notwithstanding any other provision of law, the Secretary shall use the total net proceeds from the sale of export marketing certificates during the marketing year ending June 30, 1969, to finance the cost of such agreements, except that he shall provide for the issuance of a pro rata share of export marketing certificates for such marketing year to any producer eligible therefor under section 379c of the Agricultural Adjustment Act of 1938, as amended [section 1379c of this title], who applies for such certificates not later than ninety days after the date of enactment of this Act [Sept. 26, 1970]. The Secretary is authorized to prescribe such rules and regulations as may be necessary to carry out the provisions of this Act.”
 
-### § 1293. Transferred
+### § 1293. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Feb. 16, 1938, ch. 30, title II, § 204, 52 Stat. 38, which provided for annual report of Federal Surplus Commodities Corporation, was transferred to section 713c–1 of Title 15, Commerce and Trade.
+Section, act Feb. 16, 1938, ch. 30, title II, § 204, 52 Stat. 38, which provided for annual report of Federal Surplus Commodities Corporation, was transferred to section 713c–1 of Title 15, Commerce and Trade.
 
 ## SUBCHAPTER II—LOANS, PARITY PAYMENTS, CONSUMER SAFEGUARDS, MARKETING QUOTAS, AND MARKETING CERTIFICATES
 
 ### Part A—Definitions, Loans, Parity Payments, and Consumer Safeguards
 
-#### § 1301. Definitions
+#### § 1301. Definitions
 
 **(a) General definitions** For the purposes of this subchapter and the declaration of policy—
 
@@ -399,9 +399,9 @@ Wheat, June 1–May 31.
 
 **(11)**
 
-**(A)** “Normal year’s domestic consumption”, in the case of corn and wheat, shall be the yearly average quantity of the commodity, wherever produced, that was cosumed 1
+**(A)** “Normal year’s domestic consumption”, in the case of corn and wheat, shall be the yearly average quantity of the commodity, wherever produced, that was cosumed 1
 
-<sup>1</sup>  So in original. Probably should be “consumed”.
+<sup>1</sup> So in original. Probably should be “consumed”.
 
 in the United States during the ten marketing years immediately preceding the marketing year in which such consumption is determined, adjusted for current trends in such consumption.
 
@@ -413,7 +413,7 @@ in the United States during the ten marketing years immediately preceding the ma
 
 **(13)**
 
-**(A)** Repealed. Pub. L. 87–703, title III, § 320(1), Sept. 27, 1962, 76 Stat. 625.
+**(A)** Repealed. Pub. L. 87–703, title III, § 320(1), Sept. 27, 1962, 76 Stat. 625.
 
 **(B)** “Normal yield” for any county, in the case of peanuts, shall be the average yield per acre of peanuts for the county, adjusted for abnormal weather conditions, during the five calendar years immediately preceding the year in which such normal yield is determined. For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State.
 
@@ -455,7 +455,7 @@ The latest available statistics of the Federal Government shall be used by the S
 
 In making any determination under this chapter or under the Agricultural Act of 1949 [7 U.S.C. 1421 et seq.] with respect to the carryover of any agricultural commodity, the Secretary shall exclude from such determination the stocks of any commodity acquired pursuant to, or under the authority of, the Strategic and Critical Materials Stock Piling Act (60 Stat. 596) [50 U.S.C. 98 et seq.].
 
-(Feb. 16, 1938, ch. 30, title III, § 301, 52 Stat. 38; Apr. 7, 1938, ch. 107, §§ 2–4, 52 Stat. 202; June 13, 1940, ch. 360, § 1, 54 Stat. 392; July 2, 1940, ch. 521, §§ 3–5, 54 Stat. 727, 728; Nov. 22, 1940, ch. 914, §§ 1, 3, 4, 54 Stat. 1209, 1210; Nov. 25, 1940, ch. 917, 54 Stat. 1211; Apr. 3, 1941, ch. 39, §§ 2, 3, 55 Stat. 91, 92; July 9, 1942, ch. 497, § 1(4), (5), 56 Stat. 654; July 3, 1948, ch. 827, title II, § 201(a), (b), (d), (e), 62 Stat. 1250; Aug. 29, 1949, ch. 518, § 2(a), 63 Stat. 675; Oct. 31, 1949, ch. 792, title IV, §§ 409(a)–(d), 415(c)–(e), 418(b), (c), 63 Stat. 1056–1058, 1062; July 8, 1952, ch. 587, 66 Stat. 442; July 17, 1952, ch. 933, § 1, 66 Stat. 758; July 14, 1953, ch. 194, § 6, 67 Stat. 152; Aug. 28, 1954, ch. 1041, title III, §§ 301, 302, 68 Stat. 902; May 28, 1956, ch. 327, title V, § 502, title VI, § 602, 70 Stat. 212, 213; Pub. L. 85–92, § 1, July 10, 1957, 71 Stat. 284; Pub. L. 87–703, title III, § 320, Sept. 27, 1962, 76 Stat. 625; Pub. L. 88–297, title I, § 106(5)–(7), Apr. 11, 1964, 78 Stat. 177; Pub. L. 89–321, title IV, § 403, title V, §§ 509, 511(a), Nov. 3, 1965, 79 Stat. 1197, 1204, 1205; Pub. L. 91–524, title IV, § 405(b), Nov. 30, 1970, as added Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229; Pub. L. 94–61, § 1, July 25, 1975, 89 Stat. 302; Pub. L. 97–218, title III, § 303(a), July 20, 1982, 96 Stat. 211; Pub. L. 99–198, title X, § 1020, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 99–272, title I, § 1103(a), Apr. 7, 1986, 100 Stat. 85; Pub. L. 107–171, title I, § 1610, May 13, 2002, 116 Stat. 218; Pub. L. 108–357, title VI, § 611(f), Oct. 22, 2004, 118 Stat. 1522.)
+(Feb. 16, 1938, ch. 30, title III, § 301, 52 Stat. 38; Apr. 7, 1938, ch. 107, §§ 2–4, 52 Stat. 202; June 13, 1940, ch. 360, § 1, 54 Stat. 392; July 2, 1940, ch. 521, §§ 3–5, 54 Stat. 727, 728; Nov. 22, 1940, ch. 914, §§ 1, 3, 4, 54 Stat. 1209, 1210; Nov. 25, 1940, ch. 917, 54 Stat. 1211; Apr. 3, 1941, ch. 39, §§ 2, 3, 55 Stat. 91, 92; July 9, 1942, ch. 497, § 1(4), (5), 56 Stat. 654; July 3, 1948, ch. 827, title II, § 201(a), (b), (d), (e), 62 Stat. 1250; Aug. 29, 1949, ch. 518, § 2(a), 63 Stat. 675; Oct. 31, 1949, ch. 792, title IV, §§ 409(a)–(d), 415(c)–(e), 418(b), (c), 63 Stat. 1056–1058, 1062; July 8, 1952, ch. 587, 66 Stat. 442; July 17, 1952, ch. 933, § 1, 66 Stat. 758; July 14, 1953, ch. 194, § 6, 67 Stat. 152; Aug. 28, 1954, ch. 1041, title III, §§ 301, 302, 68 Stat. 902; May 28, 1956, ch. 327, title V, § 502, title VI, § 602, 70 Stat. 212, 213; Pub. L. 85–92, § 1, July 10, 1957, 71 Stat. 284; Pub. L. 87–703, title III, § 320, Sept. 27, 1962, 76 Stat. 625; Pub. L. 88–297, title I, § 106(5)–(7), Apr. 11, 1964, 78 Stat. 177; Pub. L. 89–321, title IV, § 403, title V, §§ 509, 511(a), Nov. 3, 1965, 79 Stat. 1197, 1204, 1205; Pub. L. 91–524, title IV, § 405(b), Nov. 30, 1970, as added Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229; Pub. L. 94–61, § 1, July 25, 1975, 89 Stat. 302; Pub. L. 97–218, title III, § 303(a), July 20, 1982, 96 Stat. 211; Pub. L. 99–198, title X, § 1020, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 99–272, title I, § 1103(a), Apr. 7, 1986, 100 Stat. 85; Pub. L. 107–171, title I, § 1610, May 13, 2002, 116 Stat. 218; Pub. L. 108–357, title VI, § 611(f), Oct. 22, 2004, 118 Stat. 1522.)
 
 **Editorial Notes**
 
@@ -465,39 +465,39 @@ The Emergency Price Control Act of 1942, referred to in subsec. (a)(1)(B), was a
 
 For effective date of the Agricultural Act of 1948, referred to in subsec. (a)(1)(E)(i), see Effective Date of 1948 Amendment note set out under section 624 of this title with reference to title I of said act, and Effective Date of 1948 Amendment note set out below with reference to titles II and III of said Act.
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(3)(C), (6)(A), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(3)(C), (6)(A), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 **Amendments**
 
-2004—Subsec. (b)(3)(C), (D). Pub. L. 108–357, § 611(f)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which defined “carry-over” of tobacco for any marketing year.
+2004—Subsec. (b)(3)(C), (D). Pub. L. 108–357, § 611(f)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which defined “carry-over” of tobacco for any marketing year.
 
-Subsec. (b)(6)(A). Pub. L. 108–357, § 611(f)(2), struck out “tobacco,” after “rice,”.
+Subsec. (b)(6)(A). Pub. L. 108–357, § 611(f)(2), struck out “tobacco,” after “rice,”.
 
-Subsec. (b)(10)(B), (C). Pub. L. 108–357, § 611(f)(3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “normal supply” in the case of tobacco.
+Subsec. (b)(10)(B), (C). Pub. L. 108–357, § 611(f)(3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “normal supply” in the case of tobacco.
 
-Subsec. (b)(11)(B). Pub. L. 108–357, § 611(f)(4), struck out “and tobacco” after “cotton”.
+Subsec. (b)(11)(B). Pub. L. 108–357, § 611(f)(4), struck out “and tobacco” after “cotton”.
 
-Subsec. (b)(12). Pub. L. 108–357, § 611(f)(5), struck out “tobacco,” after “rice,”.
+Subsec. (b)(12). Pub. L. 108–357, § 611(f)(5), struck out “tobacco,” after “rice,”.
 
-Subsec. (b)(14). Pub. L. 108–357, § 611(f)(6), struck out “(A)” after “(14)” and subpars. (B) to (D) which defined “reserve supply level” of tobacco, “reserve stock level” in the case of Flue-cured tobacco, and “reserve stock level” in the case of Burley tobacco.
+Subsec. (b)(14). Pub. L. 108–357, § 611(f)(6), struck out “(A)” after “(14)” and subpars. (B) to (D) which defined “reserve supply level” of tobacco, “reserve stock level” in the case of Flue-cured tobacco, and “reserve stock level” in the case of Burley tobacco.
 
-Subsec. (b)(15). Pub. L. 108–357, § 611(f)(7), (10), redesignated par. (16) as (15) and struck out former par. (15) which defined “tobacco” and “kind of tobacco”.
+Subsec. (b)(15). Pub. L. 108–357, § 611(f)(7), (10), redesignated par. (16) as (15) and struck out former par. (15) which defined “tobacco” and “kind of tobacco”.
 
-Subsec. (b)(16). Pub. L. 108–357, § 611(f)(10), redesignated par. (16) as (15).
+Subsec. (b)(16). Pub. L. 108–357, § 611(f)(10), redesignated par. (16) as (15).
 
-Subsec. (b)(16)(B), (C). Pub. L. 108–357, § 611(f)(8), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “total supply” of tobacco for any marketing year.
+Subsec. (b)(16)(B), (C). Pub. L. 108–357, § 611(f)(8), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “total supply” of tobacco for any marketing year.
 
-Subsec. (b)(17). Pub. L. 108–357, § 611(f)(9), struck out par. (17) which defined “domestic manufacturer of cigarettes”.
+Subsec. (b)(17). Pub. L. 108–357, § 611(f)(9), struck out par. (17) which defined “domestic manufacturer of cigarettes”.
 
 2002—Subsec. (b)(14)(C). Pub. L. 107–171 substituted “60,000,000” for “100,000,000” in cl. (i) and “10 percent” for “15 percent” in cl. (ii).
 
-1986—Subsec. (b)(14)(C), (D). Pub. L. 99–272, § 1103(a)(1), added subpars. (C) and (D).
+1986—Subsec. (b)(14)(C), (D). Pub. L. 99–272, § 1103(a)(1), added subpars. (C) and (D).
 
-Subsec. (b)(17). Pub. L. 99–272, § 1103(a)(2), added par. (17).
+Subsec. (b)(17). Pub. L. 99–272, § 1103(a)(2), added par. (17).
 
 1985—Subsec. (b)(7). Pub. L. 99–198 substituted “Corn, September 1–August 31” for “Corn, October 1–September 30”.
 
@@ -505,27 +505,27 @@ Subsec. (b)(17). Pub. L. 99–272, § 1103(a)(2), added par. (17).
 
 1975—Subsec. (b)(7). Pub. L. 94–61 substituted “Wheat, June 1–May 31” for “Wheat, July 1–June 30”.
 
-1973—Subsec. (b)(13)(K). Pub. L, 91–524, § 405(b), as added by Pub. L. 93–86, temporarily inserted “(five calendar years in the case of wheat)” after “three calendar years”. See Effective and Termination Dates of 1973 Amendment note below.
+1973—Subsec. (b)(13)(K). Pub. L, 91–524, § 405(b), as added by Pub. L. 93–86, temporarily inserted “(five calendar years in the case of wheat)” after “three calendar years”. See Effective and Termination Dates of 1973 Amendment note below.
 
-1965—Subsec. (b)(8). Pub. L. 89–321, § 509(1), designated existing provisions as subpar. (A) and added subpar. (B).
+1965—Subsec. (b)(8). Pub. L. 89–321, § 509(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (b)(9). Pub. L. 89–321, § 511(a), struck out “cotton” and “wheat” in first sentence, and inserted definition of normal production when applied to any number of acres of cotton or wheat.
+Subsec. (b)(9). Pub. L. 89–321, § 511(a), struck out “cotton” and “wheat” in first sentence, and inserted definition of normal production when applied to any number of acres of cotton or wheat.
 
-Subsec. (b)(13). Pub. L. 89–321, §§ 403, 509(2), added subpars. (J), (K), (L), and (M).
+Subsec. (b)(13). Pub. L. 89–321, §§ 403, 509(2), added subpars. (J), (K), (L), and (M).
 
-1964—Subsec. (b)(13). Pub. L. 88–297, § 106(5)–(7), struck out “cotton or” before “peanuts” in subpar. (B) in two places, struck out “, cotton,” after “corn” in subpar. (G) in two places, and added subpars. (H) and (I), respectively.
+1964—Subsec. (b)(13). Pub. L. 88–297, § 106(5)–(7), struck out “cotton or” before “peanuts” in subpar. (B) in two places, struck out “, cotton,” after “corn” in subpar. (G) in two places, and added subpars. (H) and (I), respectively.
 
 1962—Subsec. (b)(13). Pub. L. 87–703 struck out par. (A) which defined “normal yield” for any county in the case of corn or wheat; inserted in pars. (D) and (E) “and wheat” after “in the case of rice”, “or wheat, as the case may be,” after “per acre of rice”, and “in the case of rice, or during the five years immediately preceding the year in which such normal yield is determined in the case of wheat” after “determined”; and struck out from par. (G) “wheat,” after “corn,” in two places, “and, in the case of wheat, but not in the case of corn, cotton, or peanuts, for trends in yields” after “abnormal weather conditions”, “ten calendar years in the case of wheat, and” before “five calendar years” and “in the case of corn, cotton, or peanuts” after “five calendar years”.
 
 1957—Subsec. (b)(15). Pub. L. 85–92 inserted proviso relating to treatment of type 21 fire-cured tobacco as a “kind of tobacco”.
 
-1956—Subsec. (a)(1)(E). Act May 28, 1956, § 602, inserted “(not counting 1956 in the case of basic agricultural commodities)” after “full calendar years”.
+1956—Subsec. (a)(1)(E). Act May 28, 1956, § 602, inserted “(not counting 1956 in the case of basic agricultural commodities)” after “full calendar years”.
 
-Subsec. (b)(13). Act May 28, 1956, § 502, limited determination of normal yield provided for in subpar. (D) only to counties and authorized adjustments for abnormal weather conditions and for trends in yields, added subpars. (E) and (F), and redesignated subpar. (E) as (G).
+Subsec. (b)(13). Act May 28, 1956, § 502, limited determination of normal yield provided for in subpar. (D) only to counties and authorized adjustments for abnormal weather conditions and for trends in yields, added subpars. (E) and (F), and redesignated subpar. (E) as (G).
 
-1954—Subsec. (a)(1)(E). Act Aug. 28, 1954, § 301, changed definition of “transitional parity price” as applied to basic agricultural commodities so as to make it “old parity” less 5 per centum for each full year elapsed since Jan. 1, 1955, instead of Jan. 1, 1949.
+1954—Subsec. (a)(1)(E). Act Aug. 28, 1954, § 301, changed definition of “transitional parity price” as applied to basic agricultural commodities so as to make it “old parity” less 5 per centum for each full year elapsed since Jan. 1, 1955, instead of Jan. 1, 1949.
 
-Subsec. (b). Act Aug. 28, 1954, § 302, increased carryover allowance from 10 per centum to 15 per centum in case of corn and from 15 per centum to 20 per centum in case of wheat in subpar. (10)(A), and provided for computing county and farm “normal yields” on the basis of 5-year yields instead of 10-year yields in case of corn in subpars. (13)(A) and (13)(E).
+Subsec. (b). Act Aug. 28, 1954, § 302, increased carryover allowance from 10 per centum to 15 per centum in case of corn and from 15 per centum to 20 per centum in case of wheat in subpar. (10)(A), and provided for computing county and farm “normal yields” on the basis of 5-year yields instead of 10-year yields in case of corn in subpars. (13)(A) and (13)(E).
 
 1953—Subsec. (d). Act July 14, 1953, added subsec. (d).
 
@@ -533,63 +533,63 @@ Subsec. (b). Act Aug. 28, 1954, § 302, increased carryover allowance from 10 
 
 Subsec. (b)(3)(C), (16)(B). Act July 8, 1952, provided for computation of carry-over as of Jan. 1st, following the beginning of the marketing year instead of Oct. 1st the beginning of the marketing year.
 
-1949—Subsec. (a)(1)(B). Act Oct. 31, 1949, § 409(a), inserted last sentence.
+1949—Subsec. (a)(1)(B). Act Oct. 31, 1949, § 409(a), inserted last sentence.
 
-Subsec. (a)(1)(C). Act Oct. 31, 1949, § 409(b), inserted “, wages paid hired farm labor” after “buy” and “, wages” after “such prices”.
+Subsec. (a)(1)(C). Act Oct. 31, 1949, § 409(b), inserted “, wages paid hired farm labor” after “buy” and “, wages” after “such prices”.
 
-Subsec. (a)(1)(G). Act Oct. 31, 1949, § 409(c), added subpar. (G).
+Subsec. (a)(1)(G). Act Oct. 31, 1949, § 409(c), added subpar. (G).
 
-Subsec. (b)(1)(B). Act Oct. 31, 1949, § 418(b), included the actual production of rice.
+Subsec. (b)(1)(B). Act Oct. 31, 1949, § 418(b), included the actual production of rice.
 
-Subsec. (b)(3)(B). Act Oct. 31, 1949, § 415(e), repealed amendatory provisions of act July 3, 1948, ch. 827, title II, § 201(c), 62 Stat. 1250.
+Subsec. (b)(3)(B). Act Oct. 31, 1949, § 415(e), repealed amendatory provisions of act July 3, 1948, ch. 827, title II, § 201(c), 62 Stat. 1250.
 
-Act Aug. 29, 1949, § 2(a)(1), changed definition of “carry-over” of cotton by excluding United States cotton on hand outside the United States.
+Act Aug. 29, 1949, § 2(a)(1), changed definition of “carry-over” of cotton by excluding United States cotton on hand outside the United States.
 
-Subsec. (b)(9). Act Oct. 31, 1949, § 418(c), included normal production of rice.
+Subsec. (b)(9). Act Oct. 31, 1949, § 418(c), included normal production of rice.
 
-Subsec. (b)(10(A). Act Oct. 31, 1949, § 409(d), increased from 7 per centum to 10 per centum the carryover allowance for corn.
+Subsec. (b)(10(A). Act Oct. 31, 1949, § 409(d), increased from 7 per centum to 10 per centum the carryover allowance for corn.
 
-Act Aug. 29, 1949, § 2(a)(2), made provision inapplicable to cotton.
+Act Aug. 29, 1949, § 2(a)(2), made provision inapplicable to cotton.
 
-Subsec. (b)(10)(C). Act Aug. 29, 1949, § 2(a)(2), added subpar. (C) which was also reenacted by act Oct. 31, 1949, § 415(c).
+Subsec. (b)(10)(C). Act Aug. 29, 1949, § 2(a)(2), added subpar. (C) which was also reenacted by act Oct. 31, 1949, § 415(c).
 
-Subsec. (b)(16)(A). Act Oct. 31, 1949, § 415(d), struck out “cotton,” after “corn,”.
+Subsec. (b)(16)(A). Act Oct. 31, 1949, § 415(d), struck out “cotton,” after “corn,”.
 
-Act Aug. 29, 1949, § 2(a)(3), made provision inapplicable to cotton.
+Act Aug. 29, 1949, § 2(a)(3), made provision inapplicable to cotton.
 
-Subsec. (b)(16)(C). Act Aug. 29, 1949, § 2(a)(3), added subpar. (C) which was also reenacted by act Oct. 31, 1949, § 415(d).
+Subsec. (b)(16)(C). Act Aug. 29, 1949, § 2(a)(3), added subpar. (C) which was also reenacted by act Oct. 31, 1949, § 415(d).
 
-1948—Subsec. (a). Act July 3, 1948, § 201(a), struck out paragraphs (1) and (2) and inserted new paragraphs (1) and (2) to change the method of computing parity prices to give recognition to changes in relationships among the prices of agricultural commodities themselves which have occurred since the base period 1910 to 1914, and redefined “parity”.
+1948—Subsec. (a). Act July 3, 1948, § 201(a), struck out paragraphs (1) and (2) and inserted new paragraphs (1) and (2) to change the method of computing parity prices to give recognition to changes in relationships among the prices of agricultural commodities themselves which have occurred since the base period 1910 to 1914, and redefined “parity”.
 
-Subsec. (b)(3)(A). Act July 3, 1948, § 201(b), redefined “carry-over” in the case of corn, rice, and peanuts.
+Subsec. (b)(3)(A). Act July 3, 1948, § 201(b), redefined “carry-over” in the case of corn, rice, and peanuts.
 
-Subsec. (b)(3)(B). Act July 3, 1948, § 201(c), redefined “carry-over” in the case of cotton.
+Subsec. (b)(3)(B). Act July 3, 1948, § 201(c), redefined “carry-over” in the case of cotton.
 
-Subsec. (b)(10). Act July 3, 1948, § 201(d), redefined “normal supply”.
+Subsec. (b)(10). Act July 3, 1948, § 201(d), redefined “normal supply”.
 
-Subsec. (b)(16). Act July 3, 1948, § 201(e), redefined “total supply”.
+Subsec. (b)(16). Act July 3, 1948, § 201(e), redefined “total supply”.
 
-1942—Subsec. (b)(13)(B). Act July 9, 1942, § 1(4), inserted “or peanuts” after “cotton” wherever appearing, and added a new sentence reading “For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State”.
+1942—Subsec. (b)(13)(B). Act July 9, 1942, § 1(4), inserted “or peanuts” after “cotton” wherever appearing, and added a new sentence reading “For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State”.
 
-Subsec. (b)(13)(E). Act July 9, 1942, § 1(5), struck out “or” after “wheat” and before “cotton” wherever appearing, inserted “or peanuts” after “cotton” wherever appearing, and inserted after first sentence “For 1942, the normal yield for any farm, in the case of peanuts, shall be the average yield per acre of peanuts for the farm, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining normal yields for farms in the county”.
+Subsec. (b)(13)(E). Act July 9, 1942, § 1(5), struck out “or” after “wheat” and before “cotton” wherever appearing, inserted “or peanuts” after “cotton” wherever appearing, and inserted after first sentence “For 1942, the normal yield for any farm, in the case of peanuts, shall be the average yield per acre of peanuts for the farm, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining normal yields for farms in the county”.
 
-1941—Subsec. (b)(1)(B). Act April 3, 1941, § 2, inserted “or peanuts” after “cotton”.
+1941—Subsec. (b)(1)(B). Act April 3, 1941, § 2, inserted “or peanuts” after “cotton”.
 
-Subsec. (b)(6)(C). Act Apr. 3, 1941, § 3, added subpar. (C).
+Subsec. (b)(6)(C). Act Apr. 3, 1941, § 3, added subpar. (C).
 
-1940—Subsec. (a)(1). Act Nov. 22, 1940, § 3, inserted “and, in the case of Burley and flue-cured tobacco, shall be the period August 1934 to July 1939; except that the August 1919–July 1929 base period shall be used in allocating any funds appropriated prior to September 1, 1940” after “July, 1929” in last sentence.
+1940—Subsec. (a)(1). Act Nov. 22, 1940, § 3, inserted “and, in the case of Burley and flue-cured tobacco, shall be the period August 1934 to July 1939; except that the August 1919–July 1929 base period shall be used in allocating any funds appropriated prior to September 1, 1940” after “July, 1929” in last sentence.
 
 Subsec. (b)(3)(C). Act June 13, 1940, inserted exception.
 
 Former subsec. (b)(6)(C), (D) were omitted in amendment to subsec. (b)(6) by act July 2, 1940.
 
-Subsec. (b)(13)(A). Act July 2, 1940, § 4, among other changes inserted “or wheat” after “corn” wherever appearing and substituted “county” for “farm” wherever appearing.
+Subsec. (b)(13)(A). Act July 2, 1940, § 4, among other changes inserted “or wheat” after “corn” wherever appearing and substituted “county” for “farm” wherever appearing.
 
-Subsec. (b)(13)(B). Act July 2, 1940, § 5, among other changes, struck out “wheat or” before “cotton” and “and, in the case of wheat but not in the case of cotton, for trends in yields, during the ten calendar years in the case of wheat, and” after “weather conditions”.
+Subsec. (b)(13)(B). Act July 2, 1940, § 5, among other changes, struck out “wheat or” before “cotton” and “and, in the case of wheat but not in the case of cotton, for trends in yields, during the ten calendar years in the case of wheat, and” after “weather conditions”.
 
 Subsec. (b)(13)(E). Act Nov. 25, 1940, in first sentence substituted “in which such normal yield is determined” for “with respect to such normal yield is used in any computation authorized under this title”.
 
-Subsec. (b)(15). Act Nov. 22, 1940, §§ 1, 4, among other changes substituted “Fire-cured tobacco comprising types 21, 22, 23, and 24; Dark air-cured tobacco comprising types 35 and 36” for “Fire-cured and dark air cured tobacco comprising types 21, 22, 23, 24, 35, 36, and 37” and inserted proviso at end of last sentence.
+Subsec. (b)(15). Act Nov. 22, 1940, §§ 1, 4, among other changes substituted “Fire-cured tobacco comprising types 21, 22, 23, and 24; Dark air-cured tobacco comprising types 35 and 36” for “Fire-cured and dark air cured tobacco comprising types 21, 22, 23, 24, 35, 36, and 37” and inserted proviso at end of last sentence.
 
 1938—Subsec. (b)(13). Act Apr. 7, 1938, substituted “county” for “farm” in subpars. (A) and (B) and added subpar. (E).
 
@@ -601,23 +601,23 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–61, § 2, July 25, 1975, 89 Stat. 302, provided that: “The amendment made by the first section of this Act [amending this section] shall become effective June 1, 1975”.
+Pub. L. 94–61, § 2, July 25, 1975, 89 Stat. 302, provided that: “The amendment made by the first section of this Act [amending this section] shall become effective June 1, 1975”.
 
 **Effective and Termination Dates of 1973 Amendment**
 
-Pub. L. 91–524, title IV, § 405(b), as added by Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided that the amendment made by Pub. L. 91–524 is effective with respect to the 1974 through 1977 crops.
+Pub. L. 91–524, title IV, § 405(b), as added by Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided that the amendment made by Pub. L. 91–524 is effective with respect to the 1974 through 1977 crops.
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–321, title V, § 511(a), Nov. 3, 1965, 79 Stat. 1205, provided that the amendment made by that section is effective beginning with the crop planted for harvest in 1966.
+Pub. L. 89–321, title V, § 511(a), Nov. 3, 1965, 79 Stat. 1205, provided that the amendment made by that section is effective beginning with the crop planted for harvest in 1966.
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–703, title III, § 323, Sept. 27, 1962, 76 Stat. 626, provided that: “The amendments to the Agricultural Adjustment Act of 1938, as amended, and to Public Law 74, Seventy-seventh Congress, as amended, made by sections 310 through 322 of this Act [enacting sections 1334b and 1339 of this title, amending this section and sections 1331 to 1336, 1340, 1371 and 1385 of this title, and repealing section 1337 of this title] shall be in effect only with respect to programs applicable to the crops planted for harvest in the calendar year 1964 or any subsequent year and the marketing years beginning in the calendar year 1964, or any subsequent year”.
+Pub. L. 87–703, title III, § 323, Sept. 27, 1962, 76 Stat. 626, provided that: “The amendments to the Agricultural Adjustment Act of 1938, as amended, and to Public Law 74, Seventy-seventh Congress, as amended, made by sections 310 through 322 of this Act [enacting sections 1334b and 1339 of this title, amending this section and sections 1331 to 1336, 1340, 1371 and 1385 of this title, and repealing section 1337 of this title] shall be in effect only with respect to programs applicable to the crops planted for harvest in the calendar year 1964 or any subsequent year and the marketing years beginning in the calendar year 1964, or any subsequent year”.
 
 **Effective Date of 1949 Amendment**
 
-Act Oct. 31, 1949, ch. 792, title IV, § 415(a), (b), 63 Stat. 1057, provided that:
+Act Oct. 31, 1949, ch. 792, title IV, § 415(a), (b), 63 Stat. 1057, provided that:
 
 > **“(a)** Except as modified by this Act or by Public Law 272 [see Tables for classification], Eighty-first Congress, sections 201(b), 201(d), 201(e), 203, 207(a), and 208 of the Agricultural Act of 1948 [amending this section and sections 1312, 1322, and 1328 of this title] shall be effective for the purpose of taking any action with respect to the 1950 and subsequent crops upon the enactment of this Act [Oct. 31, 1949]. If the time within which any such action is required to be taken shall have elapsed prior to the enactment of this Act, such action shall be taken within thirty days after the enactment of the Act.
 
@@ -625,7 +625,7 @@ Act Oct. 31, 1949, ch. 792, title IV, § 415(a), (b), 63 Stat. 1057, provided 
 
 **Effective Date of 1948 Amendment**
 
-Act July 3, 1948, ch. 827, title III, § 303, 62 Stat. 1259, provided that: “Titles II and III of this Act [amending this section and sections 602, 608c, 612c, 672, 1301a, 1302, 1312, 1322, 1328, 1333, 1335, 1336, 1343, 1345, 1355, and 1385 of this title and repealing sections 608e and 1322a of this title] shall take effect on January 1, 1950.”
+Act July 3, 1948, ch. 827, title III, § 303, 62 Stat. 1259, provided that: “Titles II and III of this Act [amending this section and sections 602, 608c, 612c, 672, 1301a, 1302, 1312, 1322, 1328, 1333, 1335, 1336, 1343, 1345, 1355, and 1385 of this title and repealing sections 608e and 1322a of this title] shall take effect on January 1, 1950.”
 
 **Savings Provision**
 
@@ -633,23 +633,23 @@ Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liabilit
 
 **Rulemaking Procedures**
 
-Pub. L. 99–272, title I, § 1108(c), Apr. 7, 1986, 100 Stat. 95, provided that: “The Secretary of Agriculture shall implement sections 1102 through 1109, and the amendments made by such sections [enacting sections 1314g, 1314h, and 1445–3 of this title, amending this section and sections 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title], without regard to the provisions requiring notice and other procedures for public participation in rulemaking contained in section 553 of title 5, United States Code, or in any directive of the Secretary.”
+Pub. L. 99–272, title I, § 1108(c), Apr. 7, 1986, 100 Stat. 95, provided that: “The Secretary of Agriculture shall implement sections 1102 through 1109, and the amendments made by such sections [enacting sections 1314g, 1314h, and 1445–3 of this title, amending this section and sections 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title], without regard to the provisions requiring notice and other procedures for public participation in rulemaking contained in section 553 of title 5, United States Code, or in any directive of the Secretary.”
 
 **Study of Methods of Improving Parity Formula**
 
-Act May 28, 1956, ch. 327, title VI, § 602, 70 Stat. 213, required the Secretary to make a thorough study of the possible methods of improving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
+Act May 28, 1956, ch. 327, title VI, § 602, 70 Stat. 213, required the Secretary to make a thorough study of the possible methods of improving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Bureau of Agricultural Economics transferred to other units of Department of Agriculture under Secretary’s memorandum 1320, supp. 4, of Nov. 2, 1953.
 
-#### § 1301a. References to parity prices, etc., in other laws after January 1, 1950
+#### § 1301a. References to parity prices, etc., in other laws after January 1, 1950
 
 All references in other laws to—
 
@@ -663,7 +663,7 @@ All references in other laws to—
 
 with respect to prices for agricultural commodities and products thereof, shall hereafter be deemed to refer to parity prices as determined in accordance with the provisions of section 301(a)(1) of the Agricultural Adjustment Act of 1938 [7 U.S.C. 1301(a)(1)], as amended by this Act.
 
-(July 3, 1948, ch. 827, title III, § 302(f), 62 Stat. 1258.)
+(July 3, 1948, ch. 827, title III, § 302(f), 62 Stat. 1258.)
 
 **Editorial Notes**
 
@@ -683,25 +683,25 @@ Section was enacted as part of the Agricultural Act of 1948, and not as part of 
 
 Section effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as an Effective Date of 1948 Amendment note under section 1301 of this title.
 
-#### § 1301b. Repealed. Pub. L. 85–835, title I, § 108, Aug. 28, 1958, 72 Stat. 993
+#### § 1301b. Repealed. Pub. L. 85–835, title I, § 108, Aug. 28, 1958, 72 Stat. 993
 
-Section, act Aug. 29, 1949, ch. 518, § 3(a), 63 Stat. 676, prescribed standard cotton grade for parity and price support purposes.
+Section, act Aug. 29, 1949, ch. 518, § 3(a), 63 Stat. 676, prescribed standard cotton grade for parity and price support purposes.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 85–835, title I, § 108, Aug. 28, 1958, 72 Stat. 993, provided in part that: “This section [amending section 1423 of this title and repealing this section] shall become effective with the 1961 crop.”
+Pub. L. 85–835, title I, § 108, Aug. 28, 1958, 72 Stat. 993, provided in part that: “This section [amending section 1423 of this title and repealing this section] shall become effective with the 1961 crop.”
 
-#### § 1302. Repealed. Oct. 31, 1949, ch. 792, title IV, § 414, 63 Stat. 1057
+#### § 1302. Repealed. Oct. 31, 1949, ch. 792, title IV, § 414, 63 Stat. 1057
 
-Section, acts Feb. 16, 1938, ch. 30, title III, § 302, 52 Stat. 43; June 21, 1938, ch. 554, title V, § 502, 52 Stat. 820; July 3, 1948, ch. 827, title II, § 202(a), 62 Stat. 1252, related to price support of agricultural commodities.
+Section, acts Feb. 16, 1938, ch. 30, title III, § 302, 52 Stat. 43; June 21, 1938, ch. 554, title V, § 502, 52 Stat. 820; July 3, 1948, ch. 827, title II, § 202(a), 62 Stat. 1252, related to price support of agricultural commodities.
 
-#### § 1303. Parity payments
+#### § 1303. Parity payments
 
 If and when appropriations are made therefor, the Secretary is authorized and directed to make payments to producers of corn, wheat, cotton, or rice, on their normal production of such commodities in amounts which, together with the proceeds thereof, will provide a return to such producers which is as nearly equal to parity price as the funds so made available will permit. All funds available for such payments with respect to these commodities shall unless otherwise provided by law, be apportioned to these commodities in proportion to the amount by which each fails to reach the parity income. Such payments shall be in addition to and not in substitution for any other payments authorized by law.
 
-(Feb. 16, 1938, ch. 30, title III, § 303, 52 Stat. 45; Pub. L. 108–357, title VI, § 611(g), Oct. 22, 2004, 118 Stat. 1522.)
+(Feb. 16, 1938, ch. 30, title III, § 303, 52 Stat. 45; Pub. L. 108–357, title VI, § 611(g), Oct. 22, 2004, 118 Stat. 1522.)
 
 **Editorial Notes**
 
@@ -719,17 +719,17 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-#### § 1304. Consumer safeguards
+#### § 1304. Consumer safeguards
 
 The powers conferred under this chapter shall not be used to discourage the production of supplies of foods and fibers sufficient to maintain normal domestic human consumption as determined by the Secretary from the records of domestic human consumption in the years 1920 to 1929, inclusive, taking into consideration increased population quantities of any commodity that were forced into domestic consumption by decline in exports during such period, current trends in domestic consumption and exports of particular commodities, and the quantities of substitutes available for domestic consumption within any general class of food commodities. In carrying out the purposes of this chapter it shall be the duty of the Secretary to give due regard to the maintenance of a continuous and stable supply of agricultural commodities from domestic production adequate to meet consumer demand at prices fair to both producers and consumers.
 
-(Feb. 16, 1938, ch. 30, title III, § 304, 52 Stat. 45.)
+(Feb. 16, 1938, ch. 30, title III, § 304, 52 Stat. 45.)
 
-#### § 1305. Transfer of acreage allotments or feed grain bases on public lands upon request of State agencies
+#### § 1305. Transfer of acreage allotments or feed grain bases on public lands upon request of State agencies
 
 Notwithstanding any other provision of law, the Secretary, upon the request of any agency of any State charged with the administration of the public lands of the State, may permit the transfer of acreage allotments or feed grain bases together with relevant production histories which have been determined pursuant to the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1281 et seq.], or section 590p of title 16, from any farm composed of public lands to any other farm or farms in the same county composed of public lands: *Provided*, That as a condition for the transfer of any allotment or base an acreage equal to or greater than the allotment or base transferred prior to adjustment, if any, shall be devoted to and maintained in permanent vegetative cover on the farm from which the transfer is made. The Secretary shall prescribe regulations which he deems necessary for the administration of this section, which may provide for adjusting downward the size of the allotment or base transferred if the farm to which the allotment or base is transferred normally has a higher yield per acre for the commodity for which the allotment or base is determined, for reasonable limitations on the size of the resulting allotments and bases on farms to which transfers are made, taking into account the size of the allotments and bases on farms of similar size in the community, and for retransferring allotments or bases and relevant histories if the conditions of the transfers are not fulfilled.
 
-(Pub. L. 89–321, title VII, § 706, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 91–524, title IV, § 405(a), formerly § 405, title VI, § 606, Nov. 30, 1970, 84 Stat. 1366, 1378, renumbered § 405(a) and amended Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229.)
+(Pub. L. 89–321, title VII, § 706, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 91–524, title IV, § 405(a), formerly § 405, title VI, § 606, Nov. 30, 1970, 84 Stat. 1366, 1378, renumbered § 405(a) and amended Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229.)
 
 **Editorial Notes**
 
@@ -745,29 +745,29 @@ Section was enacted as part of the Food and Agriculture Act of 1965, and not as 
 
 1973—Pub. L. 93–86 amended Pub. L. 91–524. See 1970 Amendment notes below.
 
-1970—Pub. L. 91–524, § 606, temporarily inserted at end “The term ‘acreage allotments’ as used in this section includes the farm base acreage allotments for upland cotton.” See Effective and Termination Dates of 1970 Amendment note below.
+1970—Pub. L. 91–524, § 606, temporarily inserted at end “The term ‘acreage allotments’ as used in this section includes the farm base acreage allotments for upland cotton.” See Effective and Termination Dates of 1970 Amendment note below.
 
-Pub. L. 91–524, § 405(2), which temporarily inserted at end “The term ‘acreage allotments’ as used in this section includes the domestic allotment for wheat.”, was repealed by Pub. L. 93–86.
+Pub. L. 91–524, § 405(2), which temporarily inserted at end “The term ‘acreage allotments’ as used in this section includes the domestic allotment for wheat.”, was repealed by Pub. L. 93–86.
 
-Pub. L. 91–524, § 405(a), formerly § 405, as renumbered and amended by Pub. L. 93–86, temporarily inserted “or the Agricultural Act of 1949, as amended,” after “title 16,”. See Effective and Termination Dates of 1970 Amendment note below.
+Pub. L. 91–524, § 405(a), formerly § 405, as renumbered and amended by Pub. L. 93–86, temporarily inserted “or the Agricultural Act of 1949, as amended,” after “title 16,”. See Effective and Termination Dates of 1970 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–86, § 1(12)(a), Aug. 10, 1978, 87 Stat. 229, provided that the repeal of section 405(2) of Pub. L. 91–524 is effective with the 1974 crop.
+Pub. L. 93–86, § 1(12)(a), Aug. 10, 1978, 87 Stat. 229, provided that the repeal of section 405(2) of Pub. L. 91–524 is effective with the 1974 crop.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 405(a), formerly § 405, Nov. 30, 1970, 84 Stat. 1366, as renumbered and amended by Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided that the amendment made by section 405(a) of Pub. L. 91–524 is effective only with respect to the 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 405(a), formerly § 405, Nov. 30, 1970, 84 Stat. 1366, as renumbered and amended by Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided that the amendment made by section 405(a) of Pub. L. 91–524 is effective only with respect to the 1971 through 1977 crops of wheat.
 
-Pub. L. 91–524, title VI, § 606, Nov. 30, 1970, 84 Stat. 1378, as amended by Pub. L. 93–86, § 1(22), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by section 606 of Pub. L. 91–524 is effective only with respect to the 1971 through 1977 crops.
+Pub. L. 91–524, title VI, § 606, Nov. 30, 1970, 84 Stat. 1378, as amended by Pub. L. 93–86, § 1(22), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by section 606 of Pub. L. 91–524 is effective only with respect to the 1971 through 1977 crops.
 
-#### § 1306. Projected yields; determination; base period
+#### § 1306. Projected yields; determination; base period
 
 Notwithstanding any other provision of law, in the determination of farm yields the Secretary may use projected yields in lieu of normal yields. In the determination of such yields the Secretary shall take into account the actual yield proved by the producer for the base period used in determining the projected yield, and the projected yield shall not be less than such actual yield proved by the producer.
 
-(Pub. L. 89–321, title VII, § 708, Nov. 3, 1965, 79 Stat. 1211; Pub. L. 91–524, title IV, § 405(b), as added Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229.)
+(Pub. L. 89–321, title VII, § 708, Nov. 3, 1965, 79 Stat. 1211; Pub. L. 91–524, title IV, § 405(b), as added Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229.)
 
 **Editorial Notes**
 
@@ -777,15 +777,15 @@ Section was enacted as part of the Food and Agriculture Act of 1965, and not as 
 
 **Amendments**
 
-1973—Pub. L. 91–524, § 405(b), as added by Pub. L. 93–86, temporarily inserted “(except that in the case of wheat, if the yield is abnormally low in any one of the calendar years of the base period because of drought, flood, or other natural disaster, the Secretary shall take into account the actual yield proved by the producer in the other four years of such base period)” after “determining the projected yield”. See Effective and Termination Dates of 1973 Amendment note below.
+1973—Pub. L. 91–524, § 405(b), as added by Pub. L. 93–86, temporarily inserted “(except that in the case of wheat, if the yield is abnormally low in any one of the calendar years of the base period because of drought, flood, or other natural disaster, the Secretary shall take into account the actual yield proved by the producer in the other four years of such base period)” after “determining the projected yield”. See Effective and Termination Dates of 1973 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1973 Amendment**
 
-Pub. L. 91–524, title IV, § 405(b), as added by Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided that the amendment made by Pub. L. 91–524 is effective with respect to the 1974 through 1977 crops.
+Pub. L. 91–524, title IV, § 405(b), as added by Pub. L. 93–86, § 1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided that the amendment made by Pub. L. 91–524 is effective with respect to the 1974 through 1977 crops.
 
-#### § 1307. Limitation on payments under wheat, feed grains, and cotton programs for 1974 through 1977 crops
+#### § 1307. Limitation on payments under wheat, feed grains, and cotton programs for 1974 through 1977 crops
 
 Notwithstanding any other provision of law—
 
@@ -797,7 +797,7 @@ Notwithstanding any other provision of law—
 
 **(4)** The Secretary shall issue regulations defining the term “person” and prescribing such rules as he determines necessary to assure a fair and reasonable application of such limitation: *Provided*, That the provisions of this Act which limit payments to any person shall not be applicable to lands owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed primarily in the direct furtherance of a public function, as determined by the Secretary. The rules for determining whether corporations and their stockholders may be considered as separate persons shall be in accordance with the regulations issued by the Secretary on December 18, 1970.
 
-(Pub. L. 91–524, title I, § 101, Nov. 30, 1970, 84 Stat. 1358; Pub. L. 93–86, § 1(1), Aug. 10, 1973, 87 Stat. 221; Pub. L. 95–113, title I, § 104, Sept. 29, 1977, 91 Stat. 919.)
+(Pub. L. 91–524, title I, § 101, Nov. 30, 1970, 84 Stat. 1358; Pub. L. 93–86, § 1(1), Aug. 10, 1973, 87 Stat. 221; Pub. L. 95–113, title I, § 104, Sept. 29, 1977, 91 Stat. 919.)
 
 **Editorial Notes**
 
@@ -827,13 +827,13 @@ Par. (4). Pub. L. 93–86 inserted provision that the rules for determining whet
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIX, § 1901, Sept. 29, 1977, 91 Stat. 1045, provided that: “Except as otherwise provided herein, the provisions of this Act [see Short Title of 1977 Amendment note set out under section 1281 of this title] shall become effective October 1, 1977.”
+Pub. L. 95–113, title XIX, § 1901, Sept. 29, 1977, 91 Stat. 1045, provided that: “Except as otherwise provided herein, the provisions of this Act [see Short Title of 1977 Amendment note set out under section 1281 of this title] shall become effective October 1, 1977.”
 
 **Exemption of Disaster Payment Limitations Respecting 1977 Crops of Wheat, Feed Grains, Upland Cotton, and Rice**
 
 Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: “That, notwithstanding any other provision of law, the term ‘payments’ as used in section 101 of the Agricultural Act of 1970, as amended [this section], and section 101(g)(13) of the Agricultural Act of 1949, as amended [section 1441(g)(13) of this title], shall not include any part of any payment which is determined by the Secretary of Agriculture to represent compensation for disaster loss with respect to the 1977 crops of wheat, feed grains, upland cotton, and rice.”
 
-#### § 1308. Payment limitations
+#### § 1308. Payment limitations
 
 **(a) Definitions** In this section through section 1308–5 of this title:
 
@@ -885,9 +885,9 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 **(1) In general**
 
-In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of section 1308–3a(b) 1
+In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of section 1308–3a(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
 
@@ -1067,7 +1067,7 @@ Regulations of the Secretary shall establish time limits for the various steps i
 
 For the 2025 crop year and each crop year thereafter, the Secretary shall annually adjust the amounts described in subsections (b) and (c) for inflation based on the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
-(Pub. L. 99–198, title X, § 1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, § 108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, § 108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§ 1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§ 1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, § 1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, § 118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, § 1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, § 115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, § 1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, § 1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, § 4(a), title I, § 1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§ 1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708; Pub. L. 115–334, title I, § 1703(a), Dec. 20, 2018, 132 Stat. 4525; Pub. L. 119–21, title I, §§ 10306(a), (b), 10307, July 4, 2025, 139 Stat. 91, 92.)
+(Pub. L. 99–198, title X, § 1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, § 108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, § 108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§ 1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§ 1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, § 1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, § 118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, § 1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, § 115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, § 1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, § 1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, § 4(a), title I, § 1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§ 1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708; Pub. L. 115–334, title I, § 1703(a), Dec. 20, 2018, 132 Stat. 4525; Pub. L. 119–21, title I, §§ 10306(a), (b), 10307, July 4, 2025, 139 Stat. 91, 92.)
 
 **Editorial Notes**
 
@@ -1075,13 +1075,13 @@ For the 2025 crop year and each crop year thereafter, the Secretary shall annual
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(5)(A), (B), is classified generally to Title 26, Internal Revenue Code.
 
-The Agricultural Act of 2014, referred to in subsecs. (d) and (f)(5)(A), (6)(A), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. For complete classification of this Act to the Code, see short title note set out under section 9001 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsecs. (d) and (f)(5)(A), (6)(A), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. For complete classification of this Act to the Code, see short title note set out under section 9001 of this title and Tables.
 
-Pars. (1) and (2) of section 1308–3a(b) of this title, referred to in subsec. (e)(1), were repealed, and new pars. (1) and (2) were enacted, by Pub. L. 113–79, title I, § 1605(a)(2), Feb. 7, 2014, 128 Stat. 707.
+Pars. (1) and (2) of section 1308–3a(b) of this title, referred to in subsec. (e)(1), were repealed, and new pars. (1) and (2) were enacted, by Pub. L. 113–79, title I, § 1605(a)(2), Feb. 7, 2014, 128 Stat. 707.
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(5)(A), (6)(A), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(5)(A), (6)(A), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation.
+Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation.
 
 **Codification**
 
@@ -1093,67 +1093,67 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Prior Provisions**
 
-A prior section 1308, Pub. L. 97–98, title XI, § 1101, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 98–88, § 6, Aug. 26, 1983, 97 Stat. 499, related to programs for 1982 through 1985 crops.
+A prior section 1308, Pub. L. 97–98, title XI, § 1101, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 98–88, § 6, Aug. 26, 1983, 97 Stat. 499, related to programs for 1982 through 1985 crops.
 
-Another prior section 1308, Pub. L. 95–113, title I, § 101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, § 5, Mar. 18, 1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
+Another prior section 1308, Pub. L. 95–113, title I, § 101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, § 5, Mar. 18, 1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
 
 **Amendments**
 
-2025—Subsec. (a)(5), (6). Pub. L. 119–21, § 10306(a)(1), added par. (5) and redesignated former par. (5) as (6).
+2025—Subsec. (a)(5), (6). Pub. L. 119–21, § 10306(a)(1), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (b). Pub. L. 119–21, § 10307(1), substituted “Subject to subsection (i), the total amount” for “The total amount” and “$155,000” for “$125,000”.
+Subsec. (b). Pub. L. 119–21, § 10307(1), substituted “Subject to subsection (i), the total amount” for “The total amount” and “$155,000” for “$125,000”.
 
-Pub. L. 119–21, § 10306(a)(2), substituted “except a qualified pass-through entity” for “except a joint venture or general partnership”.
+Pub. L. 119–21, § 10306(a)(2), substituted “except a qualified pass-through entity” for “except a joint venture or general partnership”.
 
-Subsec. (c). Pub. L. 119–21, § 10307(2), substituted “Subject to subsection (i), the total amount” for “The total amount” and “$155,000” for “$125,000”.
+Subsec. (c). Pub. L. 119–21, § 10307(2), substituted “Subject to subsection (i), the total amount” for “The total amount” and “$155,000” for “$125,000”.
 
-Pub. L. 119–21, § 10306(a)(2), substituted “except a qualified pass-through entity” for “except a joint venture or general partnership”.
+Pub. L. 119–21, § 10306(a)(2), substituted “except a qualified pass-through entity” for “except a joint venture or general partnership”.
 
-Subsec. (d). Pub. L. 119–21, § 10306(a)(3), struck out “subtitle B of title I of the Agricultural Act of 2014 or” after “made available under”.
+Subsec. (d). Pub. L. 119–21, § 10306(a)(3), struck out “subtitle B of title I of the Agricultural Act of 2014 or” after “made available under”.
 
-Subsec. (e)(3)(B)(ii). Pub. L. 119–21, § 10306(b), substituted “qualified pass-through entities” for “joint ventures and general partnerships” in heading and text and substituted “a qualified pass-through entity” for “a joint venture or a general partnership” and “the qualified pass-through entity” for “the joint venture or general partnership”.
+Subsec. (e)(3)(B)(ii). Pub. L. 119–21, § 10306(b), substituted “qualified pass-through entities” for “joint ventures and general partnerships” in heading and text and substituted “a qualified pass-through entity” for “a joint venture or a general partnership” and “the qualified pass-through entity” for “the joint venture or general partnership”.
 
-Subsec. (i). Pub. L. 119–21, § 10307(3), added subsec. (i).
+Subsec. (i). Pub. L. 119–21, § 10307(3), added subsec. (i).
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 1703(a)(1)(A), substituted “section 1111 of the Agricultural Act of 2014 (7 U.S.C. 9011)” for “section 1001 of the Food, Conservation, and Energy Act of 2008”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 1703(a)(1)(A), substituted “section 1111 of the Agricultural Act of 2014 (7 U.S.C. 9011)” for “section 1001 of the Food, Conservation, and Energy Act of 2008”.
 
-Subsec. (a)(2). Pub. L. 115–334, § 1703(a)(1)(B), inserted “first cousin, niece, nephew,” after “sibling,”.
+Subsec. (a)(2). Pub. L. 115–334, § 1703(a)(1)(B), inserted “first cousin, niece, nephew,” after “sibling,”.
 
-Subsecs. (b), (c). Pub. L. 115–334, § 1703(a)(2), substituted “sections 1116 and 1117 of the Agricultural Act of 2014 (7 U.S.C. 9016, 9017)” for “sections 1116 and 1117 and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014”.
+Subsecs. (b), (c). Pub. L. 115–334, § 1703(a)(2), substituted “sections 1116 and 1117 of the Agricultural Act of 2014 (7 U.S.C. 9016, 9017)” for “sections 1116 and 1117 and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014”.
 
-Subsec. (f)(9). Pub. L. 115–334, § 1703(a)(3), added par. (9).
+Subsec. (f)(9). Pub. L. 115–334, § 1703(a)(3), added par. (9).
 
-2014—Subsecs. (b), (c). Pub. L. 113–79, § 1603(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c). Prior to amendment, subsec. (b) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for covered commodities other than peanuts, and subsec. (c) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for peanuts.
+2014—Subsecs. (b), (c). Pub. L. 113–79, § 1603(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c). Prior to amendment, subsec. (b) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for covered commodities other than peanuts, and subsec. (c) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for peanuts.
 
-Subsec. (d). Pub. L. 113–79, § 1605(f), inserted before period at end “or title I of the Agricultural Act of 2014”.
+Subsec. (d). Pub. L. 113–79, § 1605(f), inserted before period at end “or title I of the Agricultural Act of 2014”.
 
-Pub. L. 113–79, § 1603(b)(1), substituted “the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014” for “the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008”.
+Pub. L. 113–79, § 1603(b)(1), substituted “the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014” for “the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008”.
 
-Subsec. (f)(5)(A). Pub. L. 113–79, § 1603(b)(2)(A), substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
+Subsec. (f)(5)(A). Pub. L. 113–79, § 1603(b)(2)(A), substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
 
-Subsec. (f)(6)(A). Pub. L. 113–79, § 1603(b)(2)(B), substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
+Subsec. (f)(6)(A). Pub. L. 113–79, § 1603(b)(2)(B), substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 1603(b)(1)(A), inserted “through section 1308–5 of this title” after “this section” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–246, § 1603(b)(1)(A), inserted “through section 1308–5 of this title” after “this section” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 110–246, § 1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
+Subsec. (a)(1). Pub. L. 110–246, § 1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
 
-Subsec. (a)(2). Pub. L. 110–246, § 1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘loan commodity’ has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002, except that the term does not include wool, mohair, or honey.”
+Subsec. (a)(2). Pub. L. 110–246, § 1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘loan commodity’ has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002, except that the term does not include wool, mohair, or honey.”
 
-Subsec. (a)(3) to (5). Pub. L. 110–246, § 1603(b)(1)(B), (C), added pars. (3) and (4) and redesignated former par. (3) as (5).
+Subsec. (a)(3) to (5). Pub. L. 110–246, § 1603(b)(1)(B), (C), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-Subsecs. (b) to (d). Pub. L. 110–246, § 1603(b)(2), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to limitation on direct payments, limitation on counter-cyclical payments, and limitation on marketing loan gains and loan deficiency payments, respectively.
+Subsecs. (b) to (d). Pub. L. 110–246, § 1603(b)(2), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to limitation on direct payments, limitation on counter-cyclical payments, and limitation on marketing loan gains and loan deficiency payments, respectively.
 
-Subsecs. (e) to (h). Pub. L. 110–246, § 1603(b)(3), added subsecs. (e) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (e) and (f) which related to issuance of regulations defining “person” and prescribing rules determined necessary to assure a fair and reasonable application of section limitation, and inapplicability to public schools of provisions limiting payments to any person.
+Subsecs. (e) to (h). Pub. L. 110–246, § 1603(b)(3), added subsecs. (e) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (e) and (f) which related to issuance of regulations defining “person” and prescribing rules determined necessary to assure a fair and reasonable application of section limitation, and inapplicability to public schools of provisions limiting payments to any person.
 
-2002—Pub. L. 107–171, § 1603(a), substituted section catchline for former section catchline.
+2002—Pub. L. 107–171, § 1603(a), substituted section catchline for former section catchline.
 
-Subsec. (a) to (d). Pub. L. 107–171, § 1603(a), added subsecs. (a) to (d) and struck out former pars. (1) to (4) which related to limitation on payments under production flexibility contracts, limitation on marketing loan gains and loan deficiency payments, description of payments subject to limitation, and definitions, respectively.
+Subsec. (a) to (d). Pub. L. 107–171, § 1603(a), added subsecs. (a) to (d) and struck out former pars. (1) to (4) which related to limitation on payments under production flexibility contracts, limitation on marketing loan gains and loan deficiency payments, description of payments subject to limitation, and definitions, respectively.
 
-Subsec. (e). Pub. L. 107–171, § 1603(b)(1), redesignated par. (5) as subsec. (e), inserted heading, further redesignated former subpars., cls., and subcls. as pars., subpars., and cls., respectively, substituted “paragraph (1), subject to subparagraph (B)” for “subparagraph (A), subject to clause (ii)” in subsec. (e)(2)(A) and “as described in subsections (b), (c), and (d) of this section” for “as described in paragraphs (1) and (2)” in subsec. (e)(2)(C)(ii), and struck out second sentence of subsec. (e)(1) which read as follows: “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title.”
+Subsec. (e). Pub. L. 107–171, § 1603(b)(1), redesignated par. (5) as subsec. (e), inserted heading, further redesignated former subpars., cls., and subcls. as pars., subpars., and cls., respectively, substituted “paragraph (1), subject to subparagraph (B)” for “subparagraph (A), subject to clause (ii)” in subsec. (e)(2)(A) and “as described in subsections (b), (c), and (d) of this section” for “as described in paragraphs (1) and (2)” in subsec. (e)(2)(C)(ii), and struck out second sentence of subsec. (e)(1) which read as follows: “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title.”
 
-Subsec. (f). Pub. L. 107–171, § 1603(b)(2), redesignated par. (6) as subsec. (f) and inserted heading.
+Subsec. (f). Pub. L. 107–171, § 1603(b)(2), redesignated par. (6) as subsec. (f) and inserted heading.
 
-Subsec. (g). Pub. L. 107–171, § 1603(b)(3), redesignated par. (7) as subsec. (g) and inserted heading.
+Subsec. (g). Pub. L. 107–171, § 1603(b)(3), redesignated par. (7) as subsec. (g) and inserted heading.
 
 1996—Pars. (1) to (4). Pub. L. 104–127 added pars. (1) to (4) and struck out former pars. (1) to (4) which established limitations on payments under wheat, feed grains, upland cotton, extra long staple cotton, honey, and rice programs for 1987 through 1997 crops.
 
@@ -1161,71 +1161,71 @@ Subsec. (g). Pub. L. 107–171, § 1603(b)(3), redesignated par. (7) as subsec
 
 1991—Par. (2)(B)(iv). Pub. L. 102–237 inserted “section” before “107B(c)(1)”.
 
-1990—Par. (1). Pub. L. 101–624, § 1111(a)(1), designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
+1990—Par. (1). Pub. L. 101–624, § 1111(a)(1), designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
 
-Par. (2)(A). Pub. L. 101–624, § 1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops” and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
+Par. (2)(A). Pub. L. 101–624, § 1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops” and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
 
-Par. (2)(B)(iii). Pub. L. 101–624, § 1111(a)(3)(A), added cl. (iii) and struck out former cl. (iii) which read as follows: “(iii)(I) any gain realized by a producer from repaying a loan for a crop of wheat, feed grains, upland cotton, rice, or honey at the rate permitted under section 107D(a)(5), 105C(a)(4), 103A(a)(5), 101A(a)(5), or 201(b)(2), respectively, of the Agricultural Act of 1949 or (II) any gain realized by a producer from repaying a loan for a crop of any other commodity at a lower level than the original loan level established under the Agricultural Act of 1949;”
+Par. (2)(B)(iii). Pub. L. 101–624, § 1111(a)(3)(A), added cl. (iii) and struck out former cl. (iii) which read as follows: “(iii)(I) any gain realized by a producer from repaying a loan for a crop of wheat, feed grains, upland cotton, rice, or honey at the rate permitted under section 107D(a)(5), 105C(a)(4), 103A(a)(5), 101A(a)(5), or 201(b)(2), respectively, of the Agricultural Act of 1949 or (II) any gain realized by a producer from repaying a loan for a crop of any other commodity at a lower level than the original loan level established under the Agricultural Act of 1949;”
 
-Par. (2)(B)(iv). Pub. L. 101–624, § 1111(a)(3)(B), substituted “107B(c)(1) or 105B(c)(1)” for “section 107D(c)(1) or 105C(c)(1)”, and “section 107B(a)(3) or 105B(a)(3)” for “section 107D(a)(4) or 105C(a)(3)”.
+Par. (2)(B)(iv). Pub. L. 101–624, § 1111(a)(3)(B), substituted “107B(c)(1) or 105B(c)(1)” for “section 107D(c)(1) or 105C(c)(1)”, and “section 107B(a)(3) or 105B(a)(3)” for “section 107D(a)(4) or 105C(a)(3)”.
 
-Par. (2)(B)(v). Pub. L. 101–624, § 1111(a)(3)(C), added cl. (v) and struck out former cl. (v) which read as follows: “(v) any loan deficiency payment received for a crop of wheat, feed grains, upland cotton, or rice under section 107D(b), 105C(b), 103A(b), or 101A(b), respectively, of the Agricultural Act of 1949; and”.
+Par. (2)(B)(v). Pub. L. 101–624, § 1111(a)(3)(C), added cl. (v) and struck out former cl. (v) which read as follows: “(v) any loan deficiency payment received for a crop of wheat, feed grains, upland cotton, or rice under section 107D(b), 105C(b), 103A(b), or 101A(b), respectively, of the Agricultural Act of 1949; and”.
 
-Par. (2)(B)(vi). Pub. L. 101–624, § 1111(a)(3)(D), substituted “section 107B(f), 105B(f), 103B(f), or 101B(f)” for “section 107D(g), 105C(g), 103A(g), or 101A(g)”.
+Par. (2)(B)(vi). Pub. L. 101–624, § 1111(a)(3)(D), substituted “section 107B(f), 105B(f), 103B(f), or 101B(f)” for “section 107D(g), 105C(g), 103A(g), or 101A(g)”.
 
-Par. (5)(B)(ii)(III). Pub. L. 101–624, § 1111(e), added subcl. (III).
+Par. (5)(B)(ii)(III). Pub. L. 101–624, § 1111(e), added subcl. (III).
 
-Par. (5)(B)(iii). Pub. L. 101–624, § 1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section.”
+Par. (5)(B)(iii). Pub. L. 101–624, § 1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section.”
 
-1989—Par. (5)(D). Pub. L. 101–217, § 2, amended subpar. (D) generally, striking out cl. (i) designation, substituting “Any” for “Except as provided in clause (ii), any” and “ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land” for “considered the same person as the landlord”, and struck out cls. (ii) and (iii) which read as follows:
+1989—Par. (5)(D). Pub. L. 101–217, § 2, amended subpar. (D) generally, striking out cl. (i) designation, substituting “Any” for “Except as provided in clause (ii), any” and “ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land” for “considered the same person as the landlord”, and struck out cls. (ii) and (iii) which read as follows:
 
 “(ii) A tenant that because of any act or failure to act would otherwise be considered the same person as the landlord under clause (i) shall not be considered the same person as the landlord if the Secretary has at any time made a determination, for purposes of this section, regarding the number of persons with respect to the tenant’s operation on such land for the 1989 crop year and the landlord did not consent to or knowingly participate in such act or failure to act.
 
 “(iii) Any tenant that would be considered to be the same person as the landlord but for the operation of clause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph.”
 
-Pub. L. 101–217, § 1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
+Pub. L. 101–217, § 1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
-1987—Par. (1). Pub. L. 100–203, § 1301(a)(1), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
+1987—Par. (1). Pub. L. 100–203, § 1301(a)(1), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
 
-Par. (2)(A). Pub. L. 100–203, § 1301(a)(2)(A), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
+Par. (2)(A). Pub. L. 100–203, § 1301(a)(2)(A), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
 
-Par. (2)(C). Pub. L. 100–203, § 1307, struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honey that a person may have outstanding at any one time under the annual program established for such crop under the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
+Par. (2)(C). Pub. L. 100–203, § 1307, struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honey that a person may have outstanding at any one time under the annual program established for such crop under the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
 
-Pub. L. 100–203, § 1301(a)(2)(B), which directed substitution of “Subject to sections 1308–1 through 1308–3 of this title, the total” for “The total” could not be executed in view of amendments by Pub. L. 100–71 and section 1307 of Pub. L. 100–203.
+Pub. L. 100–203, § 1301(a)(2)(B), which directed substitution of “Subject to sections 1308–1 through 1308–3 of this title, the total” for “The total” could not be executed in view of amendments by Pub. L. 100–71 and section 1307 of Pub. L. 100–203.
 
 Pub. L. 100–71 designated existing provision as cl. (i) and added cl. (ii).
 
-Par. (5)(A). Pub. L. 100–203, § 1303(a)(1), (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
+Par. (5)(A). Pub. L. 100–203, § 1303(a)(1), (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
 
-Par. (5)(B). Pub. L. 100–203, § 1303(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+Par. (5)(B). Pub. L. 100–203, § 1303(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Par. (5)(C). Pub. L. 100–203, § 1303(a)(3), redesignated subpar. (B) as (C).
+Par. (5)(C). Pub. L. 100–203, § 1303(a)(3), redesignated subpar. (B) as (C).
 
-Par. (5)(D), (E). Pub. L. 100–203, § 1303(a)(4), added subpars. (D) and (E).
+Par. (5)(D), (E). Pub. L. 100–203, § 1303(a)(4), added subpars. (D) and (E).
 
-Par. (6). Pub. L. 100–203, § 1303(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The provisions of this section that limit payments to any person shall not be applicable to lands or animals owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed or animals are husbanded primarily in the direct furtherance of a public function, as determined by the Secretary.”
+Par. (6). Pub. L. 100–203, § 1303(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The provisions of this section that limit payments to any person shall not be applicable to lands or animals owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed or animals are husbanded primarily in the direct furtherance of a public function, as determined by the Secretary.”
 
-Par. (7). Pub. L. 100–203, § 1305(c), added par. (7).
+Par. (7). Pub. L. 100–203, § 1305(c), added par. (7).
 
-1986—Par. (1). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(1), in temporarily amending par. (1) generally, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of deficiency payments, excluding deficiency payments described in par. (2)(B)(I)(iv) and land diversion payments that any one person be entitled to as not to exceed $50,000 for provision limiting, for each of the 1986 through 1990 crops, the total amount of payments, excluding disaster payments, that any one person be entitled to as not to exceed $50,000. See Effective and Termination Dates of 1986 Amendment note below.
+1986—Par. (1). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(1), in temporarily amending par. (1) generally, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of deficiency payments, excluding deficiency payments described in par. (2)(B)(I)(iv) and land diversion payments that any one person be entitled to as not to exceed $50,000 for provision limiting, for each of the 1986 through 1990 crops, the total amount of payments, excluding disaster payments, that any one person be entitled to as not to exceed $50,000. See Effective and Termination Dates of 1986 Amendment note below.
 
-Par. (2). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(1), in temporarily amending par. (2) generally, designated existing provision as subpar. (A), and in subpar. (A) as so designated, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of payments set forth in subpar. (B) that any one person be entitled to as not to exceed $250,000 and inserting honey as an eligible crop for provision limiting, for each of the 1986 through 1990 crops, the total amount of disaster payments not any one person be entitled to as not to exceed $100,000, and added subpars. (B) and (C). See Effective and Termination Dates of 1986 Amendment note below.
+Par. (2). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(1), in temporarily amending par. (2) generally, designated existing provision as subpar. (A), and in subpar. (A) as so designated, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of payments set forth in subpar. (B) that any one person be entitled to as not to exceed $250,000 and inserting honey as an eligible crop for provision limiting, for each of the 1986 through 1990 crops, the total amount of disaster payments not any one person be entitled to as not to exceed $100,000, and added subpars. (B) and (C). See Effective and Termination Dates of 1986 Amendment note below.
 
-Par. (3). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(1), temporarily substituted provision authorizing the Secretary, if he determines that a limitation will have an adverse effect on a program, to adjust upward such limitation as appropriate or necessary for provision specifying what is not included within the term “payments” as used in this section. See Effective and Termination Dates of 1986 Amendment note below.
+Par. (3). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(1), temporarily substituted provision authorizing the Secretary, if he determines that a limitation will have an adverse effect on a program, to adjust upward such limitation as appropriate or necessary for provision specifying what is not included within the term “payments” as used in this section. See Effective and Termination Dates of 1986 Amendment note below.
 
-Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(2), temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
+Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(2), temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
 
-Par. (6). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(3), temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
+Par. (6). Pub. L. 99–500 and Pub. L. 99–591, § 108(a)(3), temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title I, § 1703(b), Dec. 20, 2018, 132 Stat. 4526, provided that: “The amendments made by this section [amending this section] shall apply beginning with the 2019 crop year.”
+Pub. L. 115–334, title I, § 1703(b), Dec. 20, 2018, 132 Stat. 4526, provided that: “The amendments made by this section [amending this section] shall apply beginning with the 2019 crop year.”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–79, title I, § 1603(c), Feb. 7, 2014, 128 Stat. 706, provided that: “The amendments made by this section [amending this section and section 1308–3 of this title] shall apply beginning with the 2014 crop year.”
+Pub. L. 113–79, title I, § 1603(c), Feb. 7, 2014, 128 Stat. 706, provided that: “The amendments made by this section [amending this section and section 1308–3 of this title] shall apply beginning with the 2014 crop year.”
 
 **Effective Date of 2008 Amendment**
 
@@ -1237,37 +1237,37 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 **Effective and Termination Dates of 1989 Amendment**
 
-Pub. L. 101–217, § 1, Dec. 11, 1989, 103 Stat. 1857, provided that the amendment made by that section is effective only for the 1989 crops.
+Pub. L. 101–217, § 1, Dec. 11, 1989, 103 Stat. 1857, provided that the amendment made by that section is effective only for the 1989 crops.
 
-Pub. L. 101–217, § 2, Dec. 11, 1989, 103 Stat. 1857, as amended by Pub. L. 101–624, title XI, § 1111(i), Nov. 28, 1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with the 1990 crops.
+Pub. L. 101–217, § 2, Dec. 11, 1989, 103 Stat. 1857, as amended by Pub. L. 101–624, title XI, § 1111(i), Nov. 28, 1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with the 1990 crops.
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title I, §§ 1301(a), 1303, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, provided that the amendments made by sections 1301(a)(1), (2) and 1303 of Pub. L. 100–203 are effective beginning with 1989 crops.
+Pub. L. 100–203, title I, §§ 1301(a), 1303, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, provided that the amendments made by sections 1301(a)(1), (2) and 1303 of Pub. L. 100–203 are effective beginning with 1989 crops.
 
 **Effective and Termination Dates of 1986 Amendment**
 
-Pub. L. 99–500, § 108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, § 108(a), Oct. 30, 1986, 100 Stat. 3341–346, provided that the amendment made by Pub. L. 99–500 and Pub. L. 99–591 is effective with respect to each of the 1987 through 1990 crops.
+Pub. L. 99–500, § 108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, § 108(a), Oct. 30, 1986, 100 Stat. 3341–346, provided that the amendment made by Pub. L. 99–500 and Pub. L. 99–591 is effective with respect to each of the 1987 through 1990 crops.
 
-Pub. L. 99–500, § 108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, § 108(b), Oct. 30, 1986, 100 Stat. 3341–347, provided that: “The amendments made by subsection (a) [amending this section] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act [Oct. 18, 1986].”
+Pub. L. 99–500, § 108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, § 108(b), Oct. 30, 1986, 100 Stat. 3341–347, provided that: “The amendments made by subsection (a) [amending this section] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act [Oct. 18, 1986].”
 
 **Transition Provisions**
 
-Pub. L. 110–234, title I, § 1603(h), May 22, 2008, 122 Stat. 1012, and Pub. L. 110–246, § 4(a), title I, § 1603(h), June 18, 2008, 122 Stat. 1664, 1740, provided that: “Section 1001, 1001A, and 1001B of the Food Security Act of 1985 (7 U.S.C. 1308, 1308–1, 1308–2), as in effect on September 30, 2007, shall continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts.”
+Pub. L. 110–234, title I, § 1603(h), May 22, 2008, 122 Stat. 1012, and Pub. L. 110–246, § 4(a), title I, § 1603(h), June 18, 2008, 122 Stat. 1664, 1740, provided that: “Section 1001, 1001A, and 1001B of the Food Security Act of 1985 (7 U.S.C. 1308, 1308–1, 1308–2), as in effect on September 30, 2007, shall continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts.”
 
 [For definition of “covered commodity” as used in section 1603(h) of Pub. L. 110–246, set out above, see section 8702 of this title.]
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-Pub. L. 107–171, title I, § 1603(d), May 13, 2002, 116 Stat. 215, provided that: “Section 1001 of the Food Security Act of 1985 (7 U.S.C. 1308), as in effect on the day before the date of the enactment of this Act [May 13, 2002], shall continue to apply with respect to the 2001 crop of any covered commodity.”
+Pub. L. 107–171, title I, § 1603(d), May 13, 2002, 116 Stat. 215, provided that: “Section 1001 of the Food Security Act of 1985 (7 U.S.C. 1308), as in effect on the day before the date of the enactment of this Act [May 13, 2002], shall continue to apply with respect to the 2001 crop of any covered commodity.”
 
 **Equitable Relief**
 
-Pub. L. 101–217, § 3, Dec. 11, 1989, 103 Stat. 1858, provided that: “Nothing in this Act [amending this section and enacting provisions set out as notes under this section] shall be construed in any way to limit the authority of the Secretary of Agriculture to provide equitable relief under any provision of law.”
+Pub. L. 101–217, § 3, Dec. 11, 1989, 103 Stat. 1858, provided that: “Nothing in this Act [amending this section and enacting provisions set out as notes under this section] shall be construed in any way to limit the authority of the Secretary of Agriculture to provide equitable relief under any provision of law.”
 
 **Payment Provisions Education Program**
 
-Pub. L. 100–203, title I, § 1304(a), Dec. 22, 1987, 101 Stat. 1330–17, provided that:
+Pub. L. 100–203, title I, § 1304(a), Dec. 22, 1987, 101 Stat. 1330–17, provided that:
 
 > **“(1) In general.—** The Secretary of Agriculture shall implement a payment provisions education program for appropriate personnel of the Department of Agriculture and members and other personnel of local, county, and State committees established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)), for the purpose of fostering more effective and uniform application of the payment limitations and restrictions under sections 1001 through 1001C of the Food Security Act of 1985 [sections 1808 to 1308–3 of this title].
 
@@ -1279,7 +1279,7 @@ Pub. L. 100–203, title I, § 1304(a), Dec. 22, 1987, 101 Stat. 1330–17, pr
 
 **Regulations To Carry Out 1987 Amendments; Transition Rules; Equitable Adjustments**
 
-Pub. L. 100–203, title I, § 1305(a), (b), Dec. 22, 1987, 101 Stat. 1330–18, provided that:
+Pub. L. 100–203, title I, § 1305(a), (b), Dec. 22, 1987, 101 Stat. 1330–18, provided that:
 
 > **“(a) Regulations.—**
 
@@ -1295,11 +1295,11 @@ Pub. L. 100–203, title I, § 1305(a), (b), Dec. 22, 1987, 101 Stat. 1330–1
 
 **Conservation Reserve Application**
 
-Pub. L. 100–203, title I, § 1305(d), Dec. 22, 1987, 101 Stat. 1330–18, provided that: “Notwithstanding [former] section 1234(f)(2) of the Food Security Act of 1985 ([former] 16 U.S.C. 3834(f)), paragraphs (5) through (7) of section 1001 [section 1308(5)–(7) of this title], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 [sections 1308–1 to 1308–3 of this title] shall apply to the conservation reserve program under subtitle D of title XII of such Act (16 U.S.C. 3830 et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act [Dec. 22, 1987], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.”
+Pub. L. 100–203, title I, § 1305(d), Dec. 22, 1987, 101 Stat. 1330–18, provided that: “Notwithstanding [former] section 1234(f)(2) of the Food Security Act of 1985 ([former] 16 U.S.C. 3834(f)), paragraphs (5) through (7) of section 1001 [section 1308(5)–(7) of this title], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 [sections 1308–1 to 1308–3 of this title] shall apply to the conservation reserve program under subtitle D of title XII of such Act (16 U.S.C. 3830 et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act [Dec. 22, 1987], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.”
 
 **Revision of Regulations**
 
-Pub. L. 99–500, § 108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, § 108(c), Oct. 30, 1986, 100 Stat. 3341–347, provided that:
+Pub. L. 99–500, § 108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, § 108(c), Oct. 30, 1986, 100 Stat. 3341–347, provided that:
 
 > **“(1)**
 
@@ -1315,9 +1315,9 @@ Pub. L. 99–500, § 108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 
 
 **Separate Person Status Among Family Members**
 
-Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, § 101(a) [title VI, § 636], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, § 101(a) [title VI, § 636], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: “Effective for each of the 1987 through 1990 crops, the Secretary may not deny a person status as a separate person solely on the ground that a family member cosigns for, or makes a loan to, such person and leases, loans, or gives such person equipment, land or labor, if such family members were organized as separate units prior to December 31, 1985.”
+Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, § 101(a) [title VI, § 636], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, § 101(a) [title VI, § 636], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: “Effective for each of the 1987 through 1990 crops, the Secretary may not deny a person status as a separate person solely on the ground that a family member cosigns for, or makes a loan to, such person and leases, loans, or gives such person equipment, land or labor, if such family members were organized as separate units prior to December 31, 1985.”
 
-#### § 1308–1. Notification of interests; payments limited to active farmers
+#### § 1308–1. Notification of interests; payments limited to active farmers
 
 **(a) Notification of interests** To facilitate administration of section 1308 of this title and this section, each person or legal entity receiving payments described in subsections (b) and (c) of section 1308 of this title as a separate person or legal entity shall separately provide to the Secretary, at such times and in such manner as prescribed by the Secretary—
 
@@ -1403,7 +1403,7 @@ A landlord contributing land to a farming operation shall not be considered to b
 
 Any other person or legal entity that the Secretary determines does not meet the standards described in subsections (b)(2) and (c) shall not be considered to be actively engaged in farming with respect to a farming operation.
 
-(Pub. L. 99–198, title X, § 1001A, as added and amended Pub. L. 100–203, title I, §§ 1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, § 1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, § 118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, § 115(c)(1), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, § 1603(c)(1), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, § 1603(c), (d), May 22, 2008, 122 Stat. 1007, 1008; Pub. L. 110–246, § 4(a), title I, § 1603(c), (d), June 18, 2008, 122 Stat. 1664, 1735, 1736; Pub. L. 119–21, title I, § 10306(c), July 4, 2025, 139 Stat. 91.)
+(Pub. L. 99–198, title X, § 1001A, as added and amended Pub. L. 100–203, title I, §§ 1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, § 1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, § 118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, § 115(c)(1), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, § 1603(c)(1), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, § 1603(c), (d), May 22, 2008, 122 Stat. 1007, 1008; Pub. L. 110–246, § 4(a), title I, § 1603(c), (d), June 18, 2008, 122 Stat. 1664, 1735, 1736; Pub. L. 119–21, title I, § 10306(c), July 4, 2025, 139 Stat. 91.)
 
 **Editorial Notes**
 
@@ -1415,33 +1415,33 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Amendments**
 
-2025—Subsec. (b)(2)(A), (B). Pub. L. 119–21, § 10306(c)(1), substituted “a qualified pass-through entity” for “a general partnership, a participant in a joint venture” in introductory provisions.
+2025—Subsec. (b)(2)(A), (B). Pub. L. 119–21, § 10306(c)(1), substituted “a qualified pass-through entity” for “a general partnership, a participant in a joint venture” in introductory provisions.
 
-Subsec. (b)(2)(C). Pub. L. 119–21, § 10306(c)(2), substituted “a qualified pass-through entity or a similar entity” for “a general partnership, joint venture, or similar entity”.
+Subsec. (b)(2)(C). Pub. L. 119–21, § 10306(c)(2), substituted “a qualified pass-through entity or a similar entity” for “a general partnership, joint venture, or similar entity”.
 
-2008—Pub. L. 110–246, § 1603(c)(1), substituted “Notification of interests” for “Prevention of creation of entities to qualify as separate persons” in section catchline.
+2008—Pub. L. 110–246, § 1603(c)(1), substituted “Notification of interests” for “Prevention of creation of entities to qualify as separate persons” in section catchline.
 
-Subsec. (a). Pub. L. 110–246, § 1603(c)(2), added subsec. (a) and struck out former subsec. (a) which related to prevention of use of multiple legal entities to avoid effective application of payment limitations under section 1308 of this title.
+Subsec. (a). Pub. L. 110–246, § 1603(c)(2), added subsec. (a) and struck out former subsec. (a) which related to prevention of use of multiple legal entities to avoid effective application of payment limitations under section 1308 of this title.
 
-Subsecs. (b) to (d). Pub. L. 110–246, § 1603(d), added subsecs. (b) to (d) and struck out former subsec. (b) which related to requirement that a person be an individual or entity described in former section 1308(e)(2)(A) of this title and actively engaged in farming with respect to a particular farming operation to be separately eligible for farm program payments with respect to that operation.
+Subsecs. (b) to (d). Pub. L. 110–246, § 1603(d), added subsecs. (b) to (d) and struck out former subsec. (b) which related to requirement that a person be an individual or entity described in former section 1308(e)(2)(A) of this title and actively engaged in farming with respect to a particular farming operation to be separately eligible for farm program payments with respect to that operation.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, § 1603(c)(1), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title” and “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
+2002—Subsec. (a)(1). Pub. L. 107–171, § 1603(c)(1), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title” and “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
 
-Subsec. (b)(1). Pub. L. 107–171, § 1603(c)(1)(B), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title”.
+Subsec. (b)(1). Pub. L. 107–171, § 1603(c)(1)(B), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title”.
 
-Subsec. (b)(2)(B). Pub. L. 107–171, § 1603(c)(1)(A), substituted “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
+Subsec. (b)(2)(B). Pub. L. 107–171, § 1603(c)(1)(A), substituted “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
 
-1996—Subsec. (a)(1). Pub. L. 104–127, § 115(c)(1)(A), struck out “under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)” before “may not also hold”.
+1996—Subsec. (a)(1). Pub. L. 104–127, § 115(c)(1)(A), struck out “under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)” before “may not also hold”.
 
-Subsec. (b)(1). Pub. L. 104–127, § 115(c)(1)(B), struck out “under the Agricultural Act of 1949” before “with respect to a particular”.
+Subsec. (b)(1). Pub. L. 104–127, § 115(c)(1)(B), struck out “under the Agricultural Act of 1949” before “with respect to a particular”.
 
 1991—Subsec. (a)(2). Pub. L. 102–237 struck out “0 to” after “less than”.
 
-1990—Subsec. (a)(2). Pub. L. 101–624, § 1111(f), substituted “0 to 10 percent” for “10 percent”.
+1990—Subsec. (a)(2). Pub. L. 101–624, § 1111(f), substituted “0 to 10 percent” for “10 percent”.
 
-Subsec. (b)(6). Pub. L. 101–624, § 1111(d), added par. (6).
+Subsec. (b)(6). Pub. L. 101–624, § 1111(d), added par. (6).
 
-1987—Subsec. (b). Pub. L. 100–203, § 1302, added subsec. (b).
+1987—Subsec. (b). Pub. L. 100–203, § 1302, added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1455,11 +1455,11 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title I, § 1302, Dec. 22, 1987, 101 Stat. 1330–14, provided that the amendment made by that section is effective beginning with the 1989 crops.
+Pub. L. 100–203, title I, § 1302, Dec. 22, 1987, 101 Stat. 1330–14, provided that the amendment made by that section is effective beginning with the 1989 crops.
 
 **Effective Date**
 
-Pub. L. 100–203, title I, § 1301(a), Dec. 22, 1987, 101 Stat. 1330–12, provided that this section is effective beginning with the 1989 crops.
+Pub. L. 100–203, title I, § 1301(a), Dec. 22, 1987, 101 Stat. 1330–12, provided that this section is effective beginning with the 1989 crops.
 
 **Transition Provisions**
 
@@ -1467,7 +1467,7 @@ Section, as in effect on Sept. 30, 2007, to continue to apply with respect to th
 
 **Rulemaking Related to Significant Contribution for Active Personal Management**
 
-Pub. L. 113–79, title I, § 1604, Feb. 7, 2014, 128 Stat. 706, provided that:
+Pub. L. 113–79, title I, § 1604, Feb. 7, 2014, 128 Stat. 706, provided that:
 
 > **“(a) Regulations Required.—** Within 180 days after the date of the enactment of this Act [Feb. 7, 2014], the Secretary shall promulgate, with an opportunity for notice and comment, regulations—
 
@@ -1493,7 +1493,7 @@ Pub. L. 113–79, title I, § 1604, Feb. 7, 2014, 128 Stat. 706, provided that
 
 > **“(g) Effective Date.—** The requirements of any regulation promulgated pursuant to this section shall apply beginning with the 2015 crop year.”
 
-#### § 1308–2. Denial of program benefits
+#### § 1308–2. Denial of program benefits
 
 **(a) 2-year denial of program benefits** A person or legal entity shall be ineligible to receive payments specified in subsections (b) and (c) of section 1308 of this title for the crop year, and the succeeding crop year, in which the Secretary determines that the person or legal entity—
 
@@ -1523,7 +1523,7 @@ Any legal entity (including qualified pass-through entities) and any member of a
 
 The Secretary may partially or fully release from liability any person or legal entity who cooperates with the Secretary in enforcing sections 1308, 1308–1, and 1308–3 of this title, and this section.
 
-(Pub. L. 99–198, title X, § 1001B, as added Pub. L. 100–203, title I, § 1304(b), Dec. 22, 1987, 101 Stat. 1330–17; amended Pub. L. 107–171, title I, § 1603(c)(2), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, § 1603(e), May 22, 2008, 122 Stat. 1010; Pub. L. 110–246, § 4(a), title I, § 1603(e), June 18, 2008, 122 Stat. 1664, 1738; Pub. L. 119–21, title I, § 10306(d), July 4, 2025, 139 Stat. 91.)
+(Pub. L. 99–198, title X, § 1001B, as added Pub. L. 100–203, title I, § 1304(b), Dec. 22, 1987, 101 Stat. 1330–17; amended Pub. L. 107–171, title I, § 1603(c)(2), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, § 1603(e), May 22, 2008, 122 Stat. 1010; Pub. L. 110–246, § 4(a), title I, § 1603(e), June 18, 2008, 122 Stat. 1664, 1738; Pub. L. 119–21, title I, § 10306(d), July 4, 2025, 139 Stat. 91.)
 
 **Editorial Notes**
 
@@ -1537,7 +1537,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 2025—Subsec. (d). Pub. L. 119–21 substituted “qualified pass-through entities” for “partnerships and joint ventures”.
 
-2008—Pub. L. 110–246, § 1603(e), amended section generally. Prior to amendment, text read as follows: “If the Secretary of Agriculture determines that any person has adopted a scheme or device to evade, or that has the purpose of evading, section 1308, 1308–1, or 1308–3 of this title, such person shall be ineligible to receive farm program payments (as described in subsections (b), (c), and (d) of section 1308 of this title as being subject to limitation) applicable to the crop year for which such scheme or device was adopted and the succeeding crop year.”
+2008—Pub. L. 110–246, § 1603(e), amended section generally. Prior to amendment, text read as follows: “If the Secretary of Agriculture determines that any person has adopted a scheme or device to evade, or that has the purpose of evading, section 1308, 1308–1, or 1308–3 of this title, such person shall be ineligible to receive farm program payments (as described in subsections (b), (c), and (d) of section 1308 of this title as being subject to limitation) applicable to the crop year for which such scheme or device was adopted and the succeeding crop year.”
 
 2002—Pub. L. 107–171 substituted “as described in subsections (b), (c), and (d) of section 1308 of this title” for “as described in paragraphs (1) and (2) of section 1308 of this title”.
 
@@ -1549,13 +1549,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date**
 
-Pub. L. 100–203, title I, § 1304(b), Dec. 22, 1987, 101 Stat. 1330–17, provided that this section is effective beginning with the 1989 crops.
+Pub. L. 100–203, title I, § 1304(b), Dec. 22, 1987, 101 Stat. 1330–17, provided that this section is effective beginning with the 1989 crops.
 
 **Transition Provisions**
 
 Section, as in effect on Sept. 30, 2007, to continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts, see section 1603(h) of Pub. L. 110–246, set out as a note under section 1308 of this title.
 
-#### § 1308–3. Foreign persons made ineligible for program benefits
+#### § 1308–3. Foreign persons made ineligible for program benefits
 
 Notwithstanding any other provision of law:
 
@@ -1563,7 +1563,7 @@ Notwithstanding any other provision of law:
 
 Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) shall be ineligible to receive any type of loans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 [7 U.S.C. 8701 et seq.], title I of the Agricultural Act of 2014 [7 U.S.C. 9001 et seq.], the Agricultural Market Transition Act [7 U.S.C. 7201 et seq.], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or under any contract entered into under title XII [16 U.S.C. 3801 et seq.], with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
 
@@ -1575,23 +1575,23 @@ For purposes of subsection (a), a corporation or other entity shall be considere
 
 No person shall become ineligible under this section for production adjustment payments, price support program loans, payments or benefits as the result of the production of a crop of an agricultural commodity planted, or commodity program or conservation reserve contract entered into, before December 22, 1987.
 
-(Pub. L. 99–198, title X, § 1001C, as added Pub. L. 100–203, title I, § 1306, Dec. 22, 1987, 101 Stat. 1330–19; amended Pub. L. 101–624, title XI, § 1111(b), Nov. 28, 1990, 104 Stat. 3498; Pub. L. 103–66, title I, § 1101(b)(3)(B), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, § 115(c)(2), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, § 1603(c)(3), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, § 1603(a), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, § 4(a), title I, § 1603(a), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, § 1603(b)(3), Feb. 7, 2014, 128 Stat. 706.)
+(Pub. L. 99–198, title X, § 1001C, as added Pub. L. 100–203, title I, § 1306, Dec. 22, 1987, 101 Stat. 1330–19; amended Pub. L. 101–624, title XI, § 1111(b), Nov. 28, 1990, 104 Stat. 3498; Pub. L. 103–66, title I, § 1101(b)(3)(B), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, § 115(c)(2), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, § 1603(c)(3), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, § 1603(a), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, § 4(a), title I, § 1603(a), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, § 1603(b)(3), Feb. 7, 2014, 128 Stat. 706.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-The Agricultural Act of 2014, referred to in subsec. (a), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. For complete classification of this Act to the Code, see short title note set out under section 9001 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsec. (a), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. For complete classification of this Act to the Code, see short title note set out under section 9001 of this title and Tables.
 
-The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§ 3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§ 3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -1603,15 +1603,15 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 2014—Subsec. (a). Pub. L. 113–79 inserted “title I of the Agricultural Act of 2014,” before “the Agricultural Market Transition Act”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
+2008—Subsec. (a). Pub. L. 110–246, § 1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
 
 2002—Subsec. (a). Pub. L. 107–171 inserted “title I of the Farm Security and Rural Investment Act of 2002,” after “made available under”.
 
-1996—Subsec. (a). Pub. L. 104–127 substituted “Any person” for “For each of the 1991 through 1997 crops, any person”, substituted “loans or payments made available under the Agricultural Market Transition Act,” for “production adjustment payments, price support program loans, payments, or benefits made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.),”, and struck out “during the 1989 through 1997 crop years” before “, with respect to any commodity produced”.
+1996—Subsec. (a). Pub. L. 104–127 substituted “Any person” for “For each of the 1991 through 1997 crops, any person”, substituted “loans or payments made available under the Agricultural Market Transition Act,” for “production adjustment payments, price support program loans, payments, or benefits made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.),”, and struck out “during the 1989 through 1997 crop years” before “, with respect to any commodity produced”.
 
 1993—Subsec. (a). Pub. L. 103–66 substituted “1997” for “1995” in two places.
 
-1990—Subsec. (a). Pub. L. 101–624 substituted “1991 through 1995 crops” for “1989 and 1990 crops” and inserted “, or under any contract entered into under title XII during the 1989 through 1995 crop years,” after “(16 U.S.C. 3831 et seq.)”.
+1990—Subsec. (a). Pub. L. 101–624 substituted “1991 through 1995 crops” for “1989 and 1990 crops” and inserted “, or under any contract entered into under title XII during the 1989 through 1995 crop years,” after “(16 U.S.C. 3831 et seq.)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1629,9 +1629,9 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 **Effective Date**
 
-Pub. L. 100–203, title I, § 1306, Dec. 22, 1987, 101 Stat. 1330–19, provided that this section is effective beginning with the 1989 crops.
+Pub. L. 100–203, title I, § 1306, Dec. 22, 1987, 101 Stat. 1330–19, provided that this section is effective beginning with the 1989 crops.
 
-#### § 1308–3a. Adjusted gross income limitation
+#### § 1308–3a. Adjusted gross income limitation
 
 **(a) Definitions**
 
@@ -1711,13 +1711,13 @@ The Secretary shall establish statistically valid procedures under which the Sec
 
 In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
 
-(Pub. L. 99–198, title X, § 1001D, as added Pub. L. 107–171, title I, § 1604(2), May 13, 2002, 116 Stat. 215; amended Pub. L. 110–234, title I, § 1604(a), May 22, 2008, 122 Stat. 1012; Pub. L. 110–246, § 4(a), title I, § 1604(a), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, § 1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708; Pub. L. 115–334, title I, § 1704(a), (b), Dec. 20, 2018, 132 Stat. 4526; Pub. L. 119–21, title I, §§ 10306(e), 10308, July 4, 2025, 139 Stat. 91, 92.)
+(Pub. L. 99–198, title X, § 1001D, as added Pub. L. 107–171, title I, § 1604(2), May 13, 2002, 116 Stat. 215; amended Pub. L. 110–234, title I, § 1604(a), May 22, 2008, 122 Stat. 1012; Pub. L. 110–246, § 4(a), title I, § 1604(a), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, § 1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708; Pub. L. 115–334, title I, § 1704(a), (b), Dec. 20, 2018, 132 Stat. 4526; Pub. L. 119–21, title I, §§ 10306(e), 10308, July 4, 2025, 139 Stat. 91, 92.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 2014, referred to in subsec. (b)(2)(A) to (C), (4)(A)(i)(I), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitles A, B, and E of title I of the Act are classified principally to subchapter I (§ 9011 et seq.) and generally to subchapters II (§ 9031 et seq.) and IV (§ 9081), respectively, of chapter 115 of this title. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsec. (b)(2)(A) to (C), (4)(A)(i)(I), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitles A, B, and E of title I of the Act are classified principally to subchapter I (§ 9011 et seq.) and generally to subchapters II (§ 9031 et seq.) and IV (§ 9081), respectively, of chapter 115 of this title. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
 The Agriculture Improvement Act of 2018, referred to in subsec. (b)(2)(C), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, Title 33, Navigation and Navigable Waters, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of this title and Tables.
 
@@ -1725,7 +1725,7 @@ The Farm Security and Rural Investment Act of 2002, referred to in subsec. (b)(2
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(C), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -1739,43 +1739,43 @@ A prior section 1001D of Pub. L. 99–198 was renumbered section 1001E and is cl
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 119–21, § 10308(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
+2025—Subsec. (b)(1). Pub. L. 119–21, § 10308(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
 
-Subsec. (b)(4). Pub. L. 119–21, § 10308(2), added par. (4).
+Subsec. (b)(4). Pub. L. 119–21, § 10308(2), added par. (4).
 
-Subsec. (d). Pub. L. 119–21, § 10306(e), struck out “, general partnership, or joint venture” after “entity” in two places.
+Subsec. (d). Pub. L. 119–21, § 10306(e), struck out “, general partnership, or joint venture” after “entity” in two places.
 
-2018—Subsec. (b)(1). Pub. L. 115–334, § 1704(b), inserted “subject to paragraph (3),” after “provision of law,”.
+2018—Subsec. (b)(1). Pub. L. 115–334, § 1704(b), inserted “subject to paragraph (3),” after “provision of law,”.
 
-Subsec. (b)(2)(C). Pub. L. 115–334, § 1704(a)(1), inserted “title II of the Agriculture Improvement Act of 2018,” after “under”.
+Subsec. (b)(2)(C). Pub. L. 115–334, § 1704(a)(1), inserted “title II of the Agriculture Improvement Act of 2018,” after “under”.
 
-Subsec. (b)(3). Pub. L. 115–334, § 1704(a)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 115–334, § 1704(a)(2), added par. (3).
 
-2014—Subsec. (a)(1). Pub. L. 113–79, § 1605(b), amended par. (1) generally. Prior to amendment, par. (1) defined “average adjusted gross income”, “average adjusted gross farm income”, and “average adjusted gross nonfarm income”.
+2014—Subsec. (a)(1). Pub. L. 113–79, § 1605(b), amended par. (1) generally. Prior to amendment, par. (1) defined “average adjusted gross income”, “average adjusted gross farm income”, and “average adjusted gross nonfarm income”.
 
-Subsec. (a)(2). Pub. L. 113–79, § 1605(d)(1), struck out “subparagraph (A) or (B) of” after “average under” and “, the average adjusted gross farm income, and the average adjusted gross nonfarm income” after “average adjusted gross income”.
+Subsec. (a)(2). Pub. L. 113–79, § 1605(d)(1), struck out “subparagraph (A) or (B) of” after “average under” and “, the average adjusted gross farm income, and the average adjusted gross nonfarm income” after “average adjusted gross income”.
 
-Subsec. (a)(3). Pub. L. 113–79, § 1605(d)(2), struck out “, average adjusted gross farm income, and average adjusted gross nonfarm income” after “average adjusted gross income” in two places.
+Subsec. (a)(3). Pub. L. 113–79, § 1605(d)(2), struck out “, average adjusted gross farm income, and average adjusted gross nonfarm income” after “average adjusted gross income” in two places.
 
-Subsec. (b). Pub. L. 113–79, § 1605(a), substituted “Limitations on commodity and conservation programs” for “Limitations” in heading, added pars. (1) and (2), and struck out former pars. (1) and (2), which related to commodity programs and conservation programs, respectively.
+Subsec. (b). Pub. L. 113–79, § 1605(a), substituted “Limitations on commodity and conservation programs” for “Limitations” in heading, added pars. (1) and (2), and struck out former pars. (1) and (2), which related to commodity programs and conservation programs, respectively.
 
-Subsec. (c). Pub. L. 113–79, § 1605(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to income determination.
+Subsec. (c). Pub. L. 113–79, § 1605(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to income determination.
 
-Subsec. (c)(1). Pub. L. 113–79, § 1605(d)(3)(A), struck out “, average adjusted gross farm income, and average adjusted gross nonfarm income” after “average adjusted gross income” in subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 113–79, § 1605(d)(3)(A), struck out “, average adjusted gross farm income, and average adjusted gross nonfarm income” after “average adjusted gross income” in subpars. (A) and (B).
 
-Subsec. (c)(2). Pub. L. 113–79, § 1605(d)(3)(B), substituted “subsection (b)(2)” for “paragraphs (1)(C) and (2)(B) of subsection (b)”.
+Subsec. (c)(2). Pub. L. 113–79, § 1605(d)(3)(B), substituted “subsection (b)(2)” for “paragraphs (1)(C) and (2)(B) of subsection (b)”.
 
-Subsec. (d). Pub. L. 113–79, § 1605(d)(4), substituted “subsection (b)(2)” for “paragraphs (1)(C) and (2)(B) of subsection (b)” and struck out “, average adjusted gross farm income, or average adjusted gross nonfarm income” after “average adjusted gross income”.
+Subsec. (d). Pub. L. 113–79, § 1605(d)(4), substituted “subsection (b)(2)” for “paragraphs (1)(C) and (2)(B) of subsection (b)” and struck out “, average adjusted gross farm income, or average adjusted gross nonfarm income” after “average adjusted gross income”.
 
-Pub. L. 113–79, § 1605(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Pub. L. 113–79, § 1605(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 113–79, § 1605(e), struck out subsec. (e). Text read as follows: “This section shall apply only during the 2009 through 2012 crop, program, or fiscal years, as appropriate.”
+Subsec. (e). Pub. L. 113–79, § 1605(e), struck out subsec. (e). Text read as follows: “This section shall apply only during the 2009 through 2012 crop, program, or fiscal years, as appropriate.”
 
-Pub. L. 113–79, § 1605(c)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Pub. L. 113–79, § 1605(c)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 113–79, § 1605(c)(2), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 113–79, § 1605(c)(2), redesignated subsec. (f) as (e).
 
-2008—Pub. L. 110–246, § 1604(a), amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of “average adjusted gross income”; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
+2008—Pub. L. 110–246, § 1604(a), amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of “average adjusted gross income”; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1785,15 +1785,15 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Transition Provisions**
 
-Pub. L. 115–334, title I, § 1704(c), Dec. 20, 2018, 132 Stat. 4526, provided that: “Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on the day before the date of enactment of this Act [Dec. 20, 2018], shall apply with respect to the 2018 crop, fiscal, or program year, as appropriate, for each program described in subsection (b)(2) of that section (as so in effect on that day).”
+Pub. L. 115–334, title I, § 1704(c), Dec. 20, 2018, 132 Stat. 4526, provided that: “Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on the day before the date of enactment of this Act [Dec. 20, 2018], shall apply with respect to the 2018 crop, fiscal, or program year, as appropriate, for each program described in subsection (b)(2) of that section (as so in effect on that day).”
 
-Pub. L. 113–79, title I, § 1605(g), Feb. 7, 2014, 128 Stat. 708, provided that: “Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on the day before the date of the enactment of this Act [Feb. 7, 2014], shall apply with respect to the 2013 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as so in effect on that day).”
+Pub. L. 113–79, title I, § 1605(g), Feb. 7, 2014, 128 Stat. 708, provided that: “Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on the day before the date of the enactment of this Act [Feb. 7, 2014], shall apply with respect to the 2013 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as so in effect on that day).”
 
-Pub. L. 110–234, title I, § 1604(b), May 22, 2008, 122 Stat. 1016, and Pub. L. 110–246, § 4(a), title I, § 1604(b), June 18, 2008, 122 Stat. 1664, 1744, provided that: “Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a)).”
+Pub. L. 110–234, title I, § 1604(b), May 22, 2008, 122 Stat. 1016, and Pub. L. 110–246, § 4(a), title I, § 1604(b), June 18, 2008, 122 Stat. 1664, 1744, provided that: “Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a)).”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-#### § 1308–4. Education program
+#### § 1308–4. Education program
 
 **(a) In general**
 
@@ -1811,7 +1811,7 @@ The State office of the Agricultural Stabilization and Conservation Service shal
 
 The Secretary shall carry out the program provided under this section through the Commodity Credit Corporation.
 
-(Pub. L. 99–198, title X, § 1001E, formerly § 1001D, as added Pub. L. 101–624, title XI, § 1111(g), Nov. 28, 1990, 104 Stat. 3499; renumbered § 1001E, Pub. L. 107–171, title I, § 1604(1), May 13, 2002, 116 Stat. 215.)
+(Pub. L. 99–198, title X, § 1001E, formerly § 1001D, as added Pub. L. 101–624, title XI, § 1111(g), Nov. 28, 1990, 104 Stat. 3499; renumbered § 1001E, Pub. L. 107–171, title I, § 1604(1), May 13, 2002, 116 Stat. 215.)
 
 **Editorial Notes**
 
@@ -1829,27 +1829,27 @@ A prior section 1001E of Pub. L. 99–198 was renumbered section 1001F and is cl
 
 Section effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
-#### § 1308–5. Treatment of multiyear program contract payments
+#### § 1308–5. Treatment of multiyear program contract payments
 
 **(a) In general**
 
 Notwithstanding any other provision of law, in the event of a transfer of ownership of land (or an ownership interest in land) by way of devise or descent, the Secretary of Agriculture may, if the new owner succeeds to the prior owner’s contract entered into under title XII,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-make payments to the new owner under such contract without regard to the amount of payments received by the new owner under any contract entered into under title XII 1 executed prior to such devise or descent.
+make payments to the new owner under such contract without regard to the amount of payments received by the new owner under any contract entered into under title XII 1 executed prior to such devise or descent.
 
 **(b) Limitation**
 
 Payments made pursuant to this section shall not exceed the amount to which the previous owner was entitled to receive under the terms of the contract at the time of the death of the prior owner.
 
-(Pub. L. 99–198, title X, § 1001F, formerly § 1001E, as added Pub. L. 101–624, title XI, § 1111(h), Nov. 28, 1990, 104 Stat. 3499; renumbered § 1001F, Pub. L. 107–171, title I, § 1604(1), May 13, 2002, 116 Stat. 215.)
+(Pub. L. 99–198, title X, § 1001F, formerly § 1001E, as added Pub. L. 101–624, title XI, § 1111(h), Nov. 28, 1990, 104 Stat. 3499; renumbered § 1001F, Pub. L. 107–171, title I, § 1604(1), May 13, 2002, 116 Stat. 215.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title XII, referred to in subsec. (a), is title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of title XII to the Code, see Tables.
+Title XII, referred to in subsec. (a), is title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of title XII to the Code, see Tables.
 
 **Codification**
 
@@ -1861,7 +1861,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 Section effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
-#### § 1308a. Cost reduction options
+#### § 1308a. Cost reduction options
 
 **(a) Authority of Secretary to take action**
 
@@ -1891,7 +1891,7 @@ When a production control or loan program is in effect for a crop of a major agr
 
 The authority provided in this section shall be in addition to, and not in place of, any authority granted to the Secretary under any other provision of law.
 
-(Pub. L. 99–198, title X, § 1009, Dec. 23, 1985, 99 Stat. 1453; Pub. L. 101–134, § 3, Oct. 30, 1989, 103 Stat. 781; Pub. L. 110–234, title I, § 1603(g)(1), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, § 4(a), title I, § 1603(g)(1), June 18, 2008, 122 Stat. 1664, 1739.)
+(Pub. L. 99–198, title X, § 1009, Dec. 23, 1985, 99 Stat. 1453; Pub. L. 101–134, § 3, Oct. 30, 1989, 103 Stat. 781; Pub. L. 110–234, title I, § 1603(g)(1), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, § 4(a), title I, § 1603(g)(1), June 18, 2008, 122 Stat. 1664, 1739.)
 
 **Editorial Notes**
 
@@ -1903,7 +1903,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Amendments**
 
-2008—Subsec. (e). Pub. L. 110–246, § 1603(g)(1), struck out “of $50,000” before “per person” in second sentence.
+2008—Subsec. (e). Pub. L. 110–246, § 1603(g)(1), struck out “of $50,000” before “per person” in second sentence.
 
 1989—Subsec. (d). Pub. L. 101–134, in introductory provisions, inserted “(including the program authorized by section 1445e of this title)” after “nonrecourse loan program” and substituted “benefits” for “savings” and struck out concluding provisions which read as follows: “but the Secretary may not reduce the settlement price to less than the principal due on the loan”.
 
@@ -1913,7 +1913,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-#### § 1309. Normally planted acreage and target prices
+#### § 1309. Normally planted acreage and target prices
 
 **(a) Authorized planted acreage for 1982 through 1995 crops of wheat and feed grains as prerequisite for loan, etc.; eligibility; determinations; records**
 
@@ -1933,21 +1933,21 @@ Notwithstanding any other provision of law, whenever a set-aside program is in e
 
 **(1)** the acreage that the Secretary determines would normally be planted to wheat on a farm; minus
 
-**(2)** the individual farm program acreage for the farm under section 107B(d)(3)(A) 1
+**(2)** the individual farm program acreage for the farm under section 107B(d)(3)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of such Act.
 
-(Pub. L. 95–113, title X, § 1001, Sept. 29, 1977, 91 Stat. 950; Pub. L. 95–279, title I, § 101, May 15, 1978, 92 Stat. 240; Pub. L. 95–334, title V, § 501(a), Aug. 4, 1978, 92 Stat. 434; Pub. L. 96–213, § 6, Mar. 18, 1980, 94 Stat. 120; Pub. L. 97–98, title XI, § 1106, Dec. 22, 1981, 95 Stat. 1265; Pub. L. 99–198, title X, § 1014, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, § 1141, Nov. 28, 1990, 104 Stat. 3515.)
+(Pub. L. 95–113, title X, § 1001, Sept. 29, 1977, 91 Stat. 950; Pub. L. 95–279, title I, § 101, May 15, 1978, 92 Stat. 240; Pub. L. 95–334, title V, § 501(a), Aug. 4, 1978, 92 Stat. 434; Pub. L. 96–213, § 6, Mar. 18, 1980, 94 Stat. 120; Pub. L. 97–98, title XI, § 1106, Dec. 22, 1981, 95 Stat. 1265; Pub. L. 99–198, title X, § 1014, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, § 1141, Nov. 28, 1990, 104 Stat. 3515.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsecs. (a) and (c), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsecs. (a) and (c), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-Section 107B(d)(3)(A) of such Act, referred to in subsec. (c)(2), is section 107B(d)(3)(A) of the Agricultural Act of 1949, which was classified to section 1445b–3a(d)(3)(A) of this title prior to repeal by Pub. L. 104–127, title I, § 171(b)(2)(D), Apr. 4, 1996, 110 Stat. 938.
+Section 107B(d)(3)(A) of such Act, referred to in subsec. (c)(2), is section 107B(d)(3)(A) of the Agricultural Act of 1949, which was classified to section 1445b–3a(d)(3)(A) of this title prior to repeal by Pub. L. 104–127, title I, § 171(b)(2)(D), Apr. 4, 1996, 110 Stat. 938.
 
 **Codification**
 
@@ -1955,9 +1955,9 @@ Section was enacted as part of the Food and Agriculture Act of 1977, and not as 
 
 **Amendments**
 
-1990—Subsecs. (a), (b)(1), (c). Pub. L. 101–624, § 1141(1), substituted “1995” for “1990”.
+1990—Subsecs. (a), (b)(1), (c). Pub. L. 101–624, § 1141(1), substituted “1995” for “1990”.
 
-Subsec. (c)(2). Pub. L. 101–624, § 1141(2), substituted “section 107B(d)(3)(A)” for “section 107D(d)(3)(A)”.
+Subsec. (c)(2). Pub. L. 101–624, § 1141(2), substituted “section 107B(d)(3)(A)” for “section 107D(d)(3)(A)”.
 
 1985—Subsecs. (a), (b)(1). Pub. L. 99–198 substituted “1982 through 1990” for “1982 through 1985”.
 
@@ -1991,19 +1991,19 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Effective and Termination Dates of 1980 Amendment**
 
-Pub. L. 96–213, § 6, Mar. 18, 1980, 94 Stat. 120, provided that the amendment made by that section is effective for the 1980 and 1981 crops.
+Pub. L. 96–213, § 6, Mar. 18, 1980, 94 Stat. 120, provided that the amendment made by that section is effective for the 1980 and 1981 crops.
 
 **Effective Date of 1978 Amendments**
 
-Pub. L. 95–334, title V, § 501(b), Aug. 4, 1978, 92 Stat. 434, provided that: “This section [amending this section] shall become effective October 1, 1978, and any producers who, prior to such date, receive payments on the 1978 crop of rice as computed under the Agricultural Act of 1949 [see Short Title note set out under section 1421 of this title], as amended by the Food and Agriculture Act of 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title], may elect after September 30, 1978, to receive payments as computed under section 1001(b) of the Food and Agriculture Act of 1977, as amended by this section.”
+Pub. L. 95–334, title V, § 501(b), Aug. 4, 1978, 92 Stat. 434, provided that: “This section [amending this section] shall become effective October 1, 1978, and any producers who, prior to such date, receive payments on the 1978 crop of rice as computed under the Agricultural Act of 1949 [see Short Title note set out under section 1421 of this title], as amended by the Food and Agriculture Act of 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title], may elect after September 30, 1978, to receive payments as computed under section 1001(b) of the Food and Agriculture Act of 1977, as amended by this section.”
 
-Pub. L. 95–279, title I, § 103, May 15, 1978, 92 Stat. 241, provided that: “Sections 101 and 102 [amending this section and section 1444 of this title] of this title shall become effective October 1, 1978, and any producers who, prior to such date, receive loans and payments on the 1978 crop of the commodity as computed under the Agricultural Act of 1949 [see Short Title note set out under section 1421 of this title], as amended by the Food and Agriculture Act of 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title] may elect after September 30, 1978, to receive loans and payments as computed under this title.”
+Pub. L. 95–279, title I, § 103, May 15, 1978, 92 Stat. 241, provided that: “Sections 101 and 102 [amending this section and section 1444 of this title] of this title shall become effective October 1, 1978, and any producers who, prior to such date, receive loans and payments on the 1978 crop of the commodity as computed under the Agricultural Act of 1949 [see Short Title note set out under section 1421 of this title], as amended by the Food and Agriculture Act of 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title] may elect after September 30, 1978, to receive loans and payments as computed under this title.”
 
 **Effective Date**
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-#### § 1310. American agriculture protection program
+#### § 1310. American agriculture protection program
 
 **(a) Determination of short supply; suspension of commercial export sales; parity price**
 
@@ -2017,13 +2017,13 @@ Any loan level established pursuant to subsection (a) of this section shall rema
 
 For purposes of this section, the term “commodity” shall include any of the following: wheat, corn, grain sorghum, soybeans, oats, rye, barley, rice, flaxseed, and cotton.
 
-(Pub. L. 95–113, title X, § 1002, Sept. 29, 1977, 91 Stat. 950.)
+(Pub. L. 95–113, title X, § 1002, Sept. 29, 1977, 91 Stat. 950.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Codification**
 
@@ -2035,11 +2035,11 @@ Section was enacted as part of the Food and Agriculture Act of 1977, and not as 
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-#### § 1310a. Normal supply of commodity for 1986 through 1995 crops
+#### § 1310a. Normal supply of commodity for 1986 through 1995 crops
 
 Notwithstanding any other provision of law, if the Secretary of Agriculture determines that the supply of wheat, corn, upland cotton, or rice for the marketing year for any of the 1986 through 1995 crops of such commodity is not likely to be excessive and that program measures to reduce or control the planted acreage of the crop are not necessary, such a decision shall constitute a determination that the total supply of the commodity does not exceed the normal supply and no determination to the contrary shall be made by the Secretary with respect to such commodity for such marketing year.
 
-(Pub. L. 99–198, title X, § 1019, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, § 1142, Nov. 28, 1990, 104 Stat. 3515.)
+(Pub. L. 99–198, title X, § 1019, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, § 1142, Nov. 28, 1990, 104 Stat. 3515.)
 
 **Editorial Notes**
 
@@ -2049,7 +2049,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Prior Provisions**
 
-A prior section 1310a, Pub. L. 97–98, title XI, § 1107, Dec. 22, 1981, 95 Stat. 1266, provided for a normal supply of commodities for the 1982 through 1985 crops.
+A prior section 1310a, Pub. L. 97–98, title XI, § 1107, Dec. 22, 1981, 95 Stat. 1266, provided for a normal supply of commodities for the 1982 through 1985 crops.
 
 **Amendments**
 
@@ -2065,17 +2065,17 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### subpart i—marketing quotas—tobacco
 
-##### §§ 1311 to 1314–1. Repealed. Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522
+##### §§ 1311 to 1314–1. Repealed. Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522
 
-Section 1311, act Feb. 16, 1938, ch. 30, title III, § 311, 52 Stat. 45, set forth legislative findings.
+Section 1311, act Feb. 16, 1938, ch. 30, title III, § 311, 52 Stat. 45, set forth legislative findings.
 
-Section 1312, acts Feb. 16, 1938, ch. 30, title III, § 312, 52 Stat. 46; Mar. 26, 1938, ch. 54, 52 Stat. 120; Aug. 7, 1939, ch. 562, 563, 53 Stat. 1261; June 13, 1940, ch. 360, §§ 2, 3, 54 Stat. 392; Nov. 22, 1940, ch. 914, §§ 2, 5, 54 Stat. 1209, 1210; Feb. 28, 1942, ch. 123, 56 Stat. 121; July 3, 1948, ch. 827, title II, § 208, 62 Stat. 1257; Aug. 9, 1955, ch. 639, 69 Stat. 557; June 22, 1956, ch. 427, 70 Stat. 330; Pub. L. 99–272, title I, § 1104(a), Apr. 7, 1986, 100 Stat. 89, related to national tobacco marketing quotas.
+Section 1312, acts Feb. 16, 1938, ch. 30, title III, § 312, 52 Stat. 46; Mar. 26, 1938, ch. 54, 52 Stat. 120; Aug. 7, 1939, ch. 562, 563, 53 Stat. 1261; June 13, 1940, ch. 360, §§ 2, 3, 54 Stat. 392; Nov. 22, 1940, ch. 914, §§ 2, 5, 54 Stat. 1209, 1210; Feb. 28, 1942, ch. 123, 56 Stat. 121; July 3, 1948, ch. 827, title II, § 208, 62 Stat. 1257; Aug. 9, 1955, ch. 639, 69 Stat. 557; June 22, 1956, ch. 427, 70 Stat. 330; Pub. L. 99–272, title I, § 1104(a), Apr. 7, 1986, 100 Stat. 89, related to national tobacco marketing quotas.
 
-Section 1313, acts Feb. 16, 1938, ch. 30, title III, § 313, 52 Stat. 47; Apr. 7, 1938, ch. 107, § 5, 52 Stat. 202; May 31, 1938, ch. 292, § 2, 52 Stat. 586; Aug. 7, 1939, ch. 564, 53 Stat. 1261; June 13, 1940, ch. 360, § 4, 54 Stat. 392; Feb. 6, 1942, ch. 44, § 1, 56 Stat. 51; Apr. 29, 1943, ch. 80, 57 Stat. 69; Oct. 17, 1951, ch. 511, 65 Stat. 422; Mar. 31, 1955, ch. 21, §§ 3, 4, 69 Stat. 24; Aug. 11, 1955, ch. 789, 69 Stat. 670; Aug. 11, 1955, ch. 799, 69 Stat. 684; Pub. L. 85–489, § 1, July 2, 1958, 72 Stat. 291; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 995; Pub. L. 89–12, § 2, Apr. 16, 1965, 79 Stat. 72; Pub. L. 90–106, Oct. 12, 1967, 81 Stat. 275, related to apportionment of national marketing quotas.
+Section 1313, acts Feb. 16, 1938, ch. 30, title III, § 313, 52 Stat. 47; Apr. 7, 1938, ch. 107, § 5, 52 Stat. 202; May 31, 1938, ch. 292, § 2, 52 Stat. 586; Aug. 7, 1939, ch. 564, 53 Stat. 1261; June 13, 1940, ch. 360, § 4, 54 Stat. 392; Feb. 6, 1942, ch. 44, § 1, 56 Stat. 51; Apr. 29, 1943, ch. 80, 57 Stat. 69; Oct. 17, 1951, ch. 511, 65 Stat. 422; Mar. 31, 1955, ch. 21, §§ 3, 4, 69 Stat. 24; Aug. 11, 1955, ch. 789, 69 Stat. 670; Aug. 11, 1955, ch. 799, 69 Stat. 684; Pub. L. 85–489, § 1, July 2, 1958, 72 Stat. 291; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 995; Pub. L. 89–12, § 2, Apr. 16, 1965, 79 Stat. 72; Pub. L. 90–106, Oct. 12, 1967, 81 Stat. 275, related to apportionment of national marketing quotas.
 
-Section 1314, acts Feb. 16, 1938, ch. 30, title III, § 314, 52 Stat. 48; Aug. 7, 1939, ch. 565, 53 Stat. 1262; June 13, 1940, ch. 360, § 5, 54 Stat. 393; Feb. 19, 1946, ch. 31, § 2, 60 Stat. 21; June 22, 1954, ch. 339, 68 Stat. 270; Mar. 31, 1955, ch. 21, § 5, 69 Stat. 24; Pub. L. 97–218, title I, § 103, title II, § 206(a), July 20, 1982, 96 Stat. 201, 206, related to penalties for marketing of tobacco which is in excess of quotas or not eligible for price supports.
+Section 1314, acts Feb. 16, 1938, ch. 30, title III, § 314, 52 Stat. 48; Aug. 7, 1939, ch. 565, 53 Stat. 1262; June 13, 1940, ch. 360, § 5, 54 Stat. 393; Feb. 19, 1946, ch. 31, § 2, 60 Stat. 21; June 22, 1954, ch. 339, 68 Stat. 270; Mar. 31, 1955, ch. 21, § 5, 69 Stat. 24; Pub. L. 97–218, title I, § 103, title II, § 206(a), July 20, 1982, 96 Stat. 201, 206, related to penalties for marketing of tobacco which is in excess of quotas or not eligible for price supports.
 
-Section 1314–1, act Feb. 16, 1938, ch. 30, title III, § 314A, as added Pub. L. 97–218, title III, § 306, July 20, 1982, 96 Stat. 215, related to limitation on sale of tobacco floor sweepings.
+Section 1314–1, act Feb. 16, 1938, ch. 30, title III, § 314A, as added Pub. L. 97–218, title III, § 306, July 20, 1982, 96 Stat. 215, related to limitation on sale of tobacco floor sweepings.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2087,33 +2087,33 @@ Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 o
 
 Repeal not to affect the liability of any person under this subpart with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-##### § 1314a. Repealed. Pub. L. 90–51, § 2, July 7, 1967, 81 Stat. 121
+##### § 1314a. Repealed. Pub. L. 90–51, § 2, July 7, 1967, 81 Stat. 121
 
-Section, act Feb. 16, 1938, ch. 30, title III, § 315, as added Aug. 21, 1958, Pub. L. 85–705, 72 Stat. 703, provided for a referendum among producers of type 21 (Virginia) fire-cured tobacco and type 37 Virginia sun-cured tobacco on the question of a single combined tobacco acreage allotment and provided for establishment and subsequent increases and decreases in allotments.
+Section, act Feb. 16, 1938, ch. 30, title III, § 315, as added Aug. 21, 1958, Pub. L. 85–705, 72 Stat. 703, provided for a referendum among producers of type 21 (Virginia) fire-cured tobacco and type 37 Virginia sun-cured tobacco on the question of a single combined tobacco acreage allotment and provided for establishment and subsequent increases and decreases in allotments.
 
-##### §§ 1314b to 1314j. Repealed. Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522
+##### §§ 1314b to 1314j. Repealed. Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522
 
-Section 1314b, act Feb. 16, 1938, ch. 30, title III, § 316, as added Pub. L. 87–200, Sept. 6, 1961, 75 Stat. 469; amended Pub. L. 87–530, July 10, 1962, 76 Stat. 151; Pub. L. 87–824, Oct. 15, 1962, 76 Stat. 947; Pub. L. 88–68, July 19, 1963, 77 Stat. 81; Pub. L. 88–80, July 30, 1963, 77 Stat. 114; Pub. L. 88–469, §§ 1, 2, Aug. 20, 1964, 78 Stat. 581; Pub. L. 89–29, May 27, 1965, 79 Stat. 118; Pub. L. 89–321, title VII, § 703, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 89–471, June 24, 1966, 80 Stat. 220; Pub. L. 90–6, Mar. 29, 1967, 81 Stat. 6; Pub. L. 90–52, July 7, 1967, 81 Stat. 121; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–284, §§ 1–4, June 19, 1970, 84 Stat. 314; Pub. L. 92–311, June 6, 1972, 86 Stat. 215; Pub. L. 93–80, Aug. 1, 1973, 87 Stat. 178; Pub. L. 93–464, Oct. 24, 1974, 88 Stat. 1416; Pub. L. 94–445, Oct. 1, 1976, 90 Stat. 1489; Pub. L. 95–54, June 25, 1977, 91 Stat. 250; Pub. L. 97–218, title II, § 201, July 20, 1982, 96 Stat. 201; Pub. L. 98–180, title II, §§ 205(a), 206, Nov. 29, 1983, 97 Stat. 1145, 1147; Pub. L. 100–203, title I, § 1112(a), Dec. 22, 1987, 101 Stat. 1330–7; Pub. L. 101–134, § 2(b), Oct. 30, 1989, 103 Stat. 781; Pub. L. 106–78, title VIII, § 803(c)(6)(A), (B), Oct. 22, 1999, 113 Stat. 1177, 1178; Pub. L. 107–171, title I, § 1611(a), May 13, 2002, 116 Stat. 218, related to lease or sale of acreage allotments.
+Section 1314b, act Feb. 16, 1938, ch. 30, title III, § 316, as added Pub. L. 87–200, Sept. 6, 1961, 75 Stat. 469; amended Pub. L. 87–530, July 10, 1962, 76 Stat. 151; Pub. L. 87–824, Oct. 15, 1962, 76 Stat. 947; Pub. L. 88–68, July 19, 1963, 77 Stat. 81; Pub. L. 88–80, July 30, 1963, 77 Stat. 114; Pub. L. 88–469, §§ 1, 2, Aug. 20, 1964, 78 Stat. 581; Pub. L. 89–29, May 27, 1965, 79 Stat. 118; Pub. L. 89–321, title VII, § 703, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 89–471, June 24, 1966, 80 Stat. 220; Pub. L. 90–6, Mar. 29, 1967, 81 Stat. 6; Pub. L. 90–52, July 7, 1967, 81 Stat. 121; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–284, §§ 1–4, June 19, 1970, 84 Stat. 314; Pub. L. 92–311, June 6, 1972, 86 Stat. 215; Pub. L. 93–80, Aug. 1, 1973, 87 Stat. 178; Pub. L. 93–464, Oct. 24, 1974, 88 Stat. 1416; Pub. L. 94–445, Oct. 1, 1976, 90 Stat. 1489; Pub. L. 95–54, June 25, 1977, 91 Stat. 250; Pub. L. 97–218, title II, § 201, July 20, 1982, 96 Stat. 201; Pub. L. 98–180, title II, §§ 205(a), 206, Nov. 29, 1983, 97 Stat. 1145, 1147; Pub. L. 100–203, title I, § 1112(a), Dec. 22, 1987, 101 Stat. 1330–7; Pub. L. 101–134, § 2(b), Oct. 30, 1989, 103 Stat. 781; Pub. L. 106–78, title VIII, § 803(c)(6)(A), (B), Oct. 22, 1999, 113 Stat. 1177, 1178; Pub. L. 107–171, title I, § 1611(a), May 13, 2002, 116 Stat. 218, related to lease or sale of acreage allotments.
 
-Section 1314b–1, act Feb. 16, 1938, ch. 30, title III, § 316A, as added Pub. L. 97–218, title II, § 202, July 20, 1982, 96 Stat. 205; amended Pub. L. 98–180, title II, § 207(a), Nov. 29, 1983, 97 Stat. 1148, related to mandatory sale of certain Flue-cured tobacco acreage allotments and marketing quotas.
+Section 1314b–1, act Feb. 16, 1938, ch. 30, title III, § 316A, as added Pub. L. 97–218, title II, § 202, July 20, 1982, 96 Stat. 205; amended Pub. L. 98–180, title II, § 207(a), Nov. 29, 1983, 97 Stat. 1148, related to mandatory sale of certain Flue-cured tobacco acreage allotments and marketing quotas.
 
-Section 1314b–2, act Feb. 16, 1938, ch. 30, title III, § 316B, as added Pub. L. 97–218, title III, § 302, July 20, 1982, 96 Stat. 210; amended Pub. L. 98–180, title II, § 207(b), Nov. 29, 1983, 97 Stat. 1148, related to mandatory sale of certain Burley tobacco acreage allotments and marketing quotas.
+Section 1314b–2, act Feb. 16, 1938, ch. 30, title III, § 316B, as added Pub. L. 97–218, title III, § 302, July 20, 1982, 96 Stat. 210; amended Pub. L. 98–180, title II, § 207(b), Nov. 29, 1983, 97 Stat. 1148, related to mandatory sale of certain Burley tobacco acreage allotments and marketing quotas.
 
-Section 1314c, act Feb. 16, 1938, ch. 30, title III, § 317, as added Pub. L. 89–12, § 1, Apr. 16, 1965, 79 Stat. 66; amended Pub. L. 91–284, § 5, June 19, 1970, 84 Stat. 314; Pub. L. 97–218, title II, §§ 203, 205(a), 206(b), July 20, 1982, 96 Stat. 205–207; Pub. L. 98–180, title II, §§ 205(b), 208–210, Nov. 29, 1983, 97 Stat. 1147–1149; Pub. L. 99–182, § 4, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–241, § 1, Jan. 30, 1986, 100 Stat. 3; Pub. L. 99–272, title I, §§ 1103(b), 1104(c), 1105(a)(1), Apr. 7, 1986, 100 Stat. 86, 89, 90; Pub. L. 100–203, title I, § 1112(b), Dec. 22, 1987, 101 Stat. 1330–8; Pub. L. 101–134, § 2(a)(2), Oct. 30, 1989, 103 Stat. 781; Pub. L. 103–66, title I, § 1106(d)(2), Aug. 10, 1993, 107 Stat. 323; Pub. L. 103–437, § 4(a)(5), Nov. 2, 1994, 108 Stat. 4581, related to acreage-poundage quotas.
+Section 1314c, act Feb. 16, 1938, ch. 30, title III, § 317, as added Pub. L. 89–12, § 1, Apr. 16, 1965, 79 Stat. 66; amended Pub. L. 91–284, § 5, June 19, 1970, 84 Stat. 314; Pub. L. 97–218, title II, §§ 203, 205(a), 206(b), July 20, 1982, 96 Stat. 205–207; Pub. L. 98–180, title II, §§ 205(b), 208–210, Nov. 29, 1983, 97 Stat. 1147–1149; Pub. L. 99–182, § 4, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–241, § 1, Jan. 30, 1986, 100 Stat. 3; Pub. L. 99–272, title I, §§ 1103(b), 1104(c), 1105(a)(1), Apr. 7, 1986, 100 Stat. 86, 89, 90; Pub. L. 100–203, title I, § 1112(b), Dec. 22, 1987, 101 Stat. 1330–8; Pub. L. 101–134, § 2(a)(2), Oct. 30, 1989, 103 Stat. 781; Pub. L. 103–66, title I, § 1106(d)(2), Aug. 10, 1993, 107 Stat. 323; Pub. L. 103–437, § 4(a)(5), Nov. 2, 1994, 108 Stat. 4581, related to acreage-poundage quotas.
 
-Section 1314d, act Feb. 16, 1938, ch. 30, title III, § 318, as added Pub. L. 90–51, § 1, July 7, 1967, 81 Stat. 120; amended Pub. L. 90–387, July 5, 1968, 82 Stat. 293; Pub. L. 92–144, Oct. 23, 1971, 85 Stat. 393; Pub. L. 98–180, title II, § 212(a), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 102–566, § 1, Oct. 28, 1992, 106 Stat. 4269; Pub. L. 106–224, title II, § 204(b)(8), June 20, 2000, 114 Stat. 402, related to transfers involving fire-cured, dark air-cured, and Virginia sun-cured tobacco.
+Section 1314d, act Feb. 16, 1938, ch. 30, title III, § 318, as added Pub. L. 90–51, § 1, July 7, 1967, 81 Stat. 120; amended Pub. L. 90–387, July 5, 1968, 82 Stat. 293; Pub. L. 92–144, Oct. 23, 1971, 85 Stat. 393; Pub. L. 98–180, title II, § 212(a), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 102–566, § 1, Oct. 28, 1992, 106 Stat. 4269; Pub. L. 106–224, title II, § 204(b)(8), June 20, 2000, 114 Stat. 402, related to transfers involving fire-cured, dark air-cured, and Virginia sun-cured tobacco.
 
-Section 1314e, act Feb. 16, 1938, ch. 30, title III, § 319, as added Pub. L. 92–10, § 1, Apr. 14, 1971, 85 Stat. 23; amended Pub. L. 97–218, title III, § 303(b)–(j), July 20, 1982, 96 Stat. 211–214; Pub. L. 98–59, § 2, July 25, 1983, 97 Stat. 296; Pub. L. 98–180, title II, § 211, Nov. 29, 1983, 97 Stat. 1149; Pub. L. 99–241, § 2, Jan. 30, 1986, 100 Stat. 3; Pub. L. 99–272, title I, §§ 1103(c), 1104(b), (d), 1105(a)(2), 1107, Apr. 7, 1986, 100 Stat. 86, 89–91; Pub. L. 100–387, title III, § 304(a)(1), Aug. 11, 1988, 102 Stat. 948; Pub. L. 101–134, § 2(a)(1), Oct. 30, 1989, 103 Stat. 781; Pub. L. 101–577, § 2(a), (b), (d), (e), Nov. 15, 1990, 104 Stat. 2856, 2857; Pub. L. 102–237, title I, § 116(1), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 103–66, title I, § 1106(d)(1), Aug. 10, 1993, 107 Stat. 323; Pub. L. 106–78, title VII, § 755(a), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, § 204(b)(9)–(12), June 20, 2000, 114 Stat. 403; Pub. L. 108–7, div. A, title VII, § 765(a), Feb. 20, 2003, 117 Stat. 47, related to farm poundage quotas for certain kinds of tobacco.
+Section 1314e, act Feb. 16, 1938, ch. 30, title III, § 319, as added Pub. L. 92–10, § 1, Apr. 14, 1971, 85 Stat. 23; amended Pub. L. 97–218, title III, § 303(b)–(j), July 20, 1982, 96 Stat. 211–214; Pub. L. 98–59, § 2, July 25, 1983, 97 Stat. 296; Pub. L. 98–180, title II, § 211, Nov. 29, 1983, 97 Stat. 1149; Pub. L. 99–241, § 2, Jan. 30, 1986, 100 Stat. 3; Pub. L. 99–272, title I, §§ 1103(c), 1104(b), (d), 1105(a)(2), 1107, Apr. 7, 1986, 100 Stat. 86, 89–91; Pub. L. 100–387, title III, § 304(a)(1), Aug. 11, 1988, 102 Stat. 948; Pub. L. 101–134, § 2(a)(1), Oct. 30, 1989, 103 Stat. 781; Pub. L. 101–577, § 2(a), (b), (d), (e), Nov. 15, 1990, 104 Stat. 2856, 2857; Pub. L. 102–237, title I, § 116(1), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 103–66, title I, § 1106(d)(1), Aug. 10, 1993, 107 Stat. 323; Pub. L. 106–78, title VII, § 755(a), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, § 204(b)(9)–(12), June 20, 2000, 114 Stat. 403; Pub. L. 108–7, div. A, title VII, § 765(a), Feb. 20, 2003, 117 Stat. 47, related to farm poundage quotas for certain kinds of tobacco.
 
-Section 1314f, act Feb. 16, 1938, ch. 30, title III, § 320, as added Pub. L. 93–411, Sept. 3, 1974, 88 Stat. 1089; amended Pub. L. 95–592, § 17, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 97–98, title XI, § 1108, Dec. 22, 1981, 95 Stat. 1266; Pub. L. 97–218, title II, § 204, July 20, 1982, 96 Stat. 206, related to nonquota tobacco subject to quota.
+Section 1314f, act Feb. 16, 1938, ch. 30, title III, § 320, as added Pub. L. 93–411, Sept. 3, 1974, 88 Stat. 1089; amended Pub. L. 95–592, § 17, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 97–98, title XI, § 1108, Dec. 22, 1981, 95 Stat. 1266; Pub. L. 97–218, title II, § 204, July 20, 1982, 96 Stat. 206, related to nonquota tobacco subject to quota.
 
-Section 1314g, act Feb. 16, 1938, ch. 30, title III, § 320A, as added Pub. L. 99–272, title I, § 1103(d), Apr. 7, 1986, 100 Stat. 88, related to submission of purchase intentions by cigarette manufacturers.
+Section 1314g, act Feb. 16, 1938, ch. 30, title III, § 320A, as added Pub. L. 99–272, title I, § 1103(d), Apr. 7, 1986, 100 Stat. 88, related to submission of purchase intentions by cigarette manufacturers.
 
-Section 1314h, act Feb. 16, 1938, ch. 30, title III, § 320B, as added Pub. L. 99–272, title I, § 1106(a), Apr. 7, 1986, 100 Stat. 90; amended Pub. L. 108–357, title VI, § 613, Oct. 22, 2004, 118 Stat. 1524, related to purchase requirements and penalty for failure to meet them.
+Section 1314h, act Feb. 16, 1938, ch. 30, title III, § 320B, as added Pub. L. 99–272, title I, § 1106(a), Apr. 7, 1986, 100 Stat. 90; amended Pub. L. 108–357, title VI, § 613, Oct. 22, 2004, 118 Stat. 1524, related to purchase requirements and penalty for failure to meet them.
 
-Section 1314i, act Feb. 16, 1938, ch. 30, title III, § 320C, as added Pub. L. 103–66, title I, § 1106(a), Aug. 10, 1993, 107 Stat. 318; amended Pub. L. 103–465, title IV, § 422(a), Dec. 8, 1994, 108 Stat. 4964, related to quantity of tobacco grown in the United States that is required to be used by a cigarette manufacturer.
+Section 1314i, act Feb. 16, 1938, ch. 30, title III, § 320C, as added Pub. L. 103–66, title I, § 1106(a), Aug. 10, 1993, 107 Stat. 318; amended Pub. L. 103–465, title IV, § 422(a), Dec. 8, 1994, 108 Stat. 4964, related to quantity of tobacco grown in the United States that is required to be used by a cigarette manufacturer.
 
-Section 1314j, act Feb. 16, 1938, ch. 30, title III, § 320D, as added Pub. L. 106–47, § 1, Aug. 13, 1999, 113 Stat. 228, and Pub. L. 106–78, title VII, § 755(b), Oct. 22, 1999, 113 Stat. 1170; amended Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 211], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, related to release of tobacco production and marketing information.
+Section 1314j, act Feb. 16, 1938, ch. 30, title III, § 320D, as added Pub. L. 106–47, § 1, Aug. 13, 1999, 113 Stat. 228, and Pub. L. 106–78, title VII, § 755(b), Oct. 22, 1999, 113 Stat. 1170; amended Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 211], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, related to release of tobacco production and marketing information.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2127,11 +2127,11 @@ Repeal not to affect the liability of any person under this subpart with respect
 
 **Tobacco Definition and Increase of Marketing Quotas and Acreage Allotments To Meet Demand Unaffected by Acreage-Poundage Marketing Quotas and Price Support Provisions**
 
-Pub. L. 89–12, § 4, Apr. 16, 1965, 79 Stat. 72, which provided that nothing in the Act could be construed as affecting the authority or responsibility of the Secretary of Agriculture under former sections 1301(b)(15) or 1313(i) of this title with respect to providing that different types of tobacco were to be treated as different kinds of tobacco, or with respect to increasing allotments or quotas for farms producing certain types of tobacco, was repealed by Pub. L. 108–357, title VI, §§ 611(n), 643, Oct. 22, 2004, 118 Stat. 1523, 1536, applicable to the 2005 and subsequent crops of tobacco.
+Pub. L. 89–12, § 4, Apr. 16, 1965, 79 Stat. 72, which provided that nothing in the Act could be construed as affecting the authority or responsibility of the Secretary of Agriculture under former sections 1301(b)(15) or 1313(i) of this title with respect to providing that different types of tobacco were to be treated as different kinds of tobacco, or with respect to increasing allotments or quotas for farms producing certain types of tobacco, was repealed by Pub. L. 108–357, title VI, §§ 611(n), 643, Oct. 22, 2004, 118 Stat. 1523, 1536, applicable to the 2005 and subsequent crops of tobacco.
 
-##### § 1315. Repealed. Pub. L. 108–357, title VI, § 611(o), Oct. 22, 2004, 118 Stat. 1523
+##### § 1315. Repealed. Pub. L. 108–357, title VI, § 611(o), Oct. 22, 2004, 118 Stat. 1523
 
-Section, acts July 12, 1952, ch. 709, 66 Stat. 597; Mar. 31, 1955, ch. 21, § 2, 69 Stat. 24, related to additional Burley tobacco acreage allotments.
+Section, acts July 12, 1952, ch. 709, 66 Stat. 597; Mar. 31, 1955, ch. 21, § 2, 69 Stat. 24, related to additional Burley tobacco acreage allotments.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2143,9 +2143,9 @@ Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 o
 
 Repeal not to affect the liability of any person under this section with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-##### § 1316. Repealed. Pub. L. 108–357, title VI, § 611(p), Oct. 22, 2004, 118 Stat. 1523
+##### § 1316. Repealed. Pub. L. 108–357, title VI, § 611(p), Oct. 22, 2004, 118 Stat. 1523
 
-Section, Pub. L. 89–321, title VII, § 703, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 91–284, § 6, June 19, 1970, 84 Stat. 314; Pub. L. 97–218, title II, § 205(b), July 20, 1982, 96 Stat. 206, related to transfer of allotments subsequent to 1965.
+Section, Pub. L. 89–321, title VII, § 703, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 91–284, § 6, June 19, 1970, 84 Stat. 314; Pub. L. 97–218, title II, § 205(b), July 20, 1982, 96 Stat. 206, related to transfer of allotments subsequent to 1965.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2163,9 +2163,9 @@ Repeal not to affect the liability of any person under this section with respect
 
 **Amendments**
 
-1954—Act Aug. 28, 1954, ch. 1041, title III, § 303, 68 Stat. 902, substituted “Acreage Allotments—Corn” for “Marketing Quotas—Corn” in subpart II heading.
+1954—Act Aug. 28, 1954, ch. 1041, title III, § 303, 68 Stat. 902, substituted “Acreage Allotments—Corn” for “Marketing Quotas—Corn” in subpart II heading.
 
-##### § 1321. Legislative finding of effect on interstate and foreign commerce and necessity of regulation
+##### § 1321. Legislative finding of effect on interstate and foreign commerce and necessity of regulation
 
 Corn is a basic source of food for the Nation, and corn produced in the commercial corn-producing area moves almost wholly in interstate and foreign commerce in the form of corn, livestock, and livestock products.
 
@@ -2181,7 +2181,7 @@ The conditions affecting the production and marketing of corn and the livestock 
 
 The national public interest requires that the burdens on interstate and foreign commerce above described be removed by the exercise of Federal power. By reason of the administrative and physical impracticability of regulating the movement of livestock and livestock products in interstate and foreign commerce and the inadequacy of any such regulation to remove such burdens, such power can be feasibly exercised only by providing for the withholding from market of excessive and burdensome supplies of corn in times of excessive production, and providing a reserve supply of corn available for market in times of deficient production, in order that a stable and continuous flow of livestock and livestock products in interstate and foreign commerce may at all times be assured and maintained.
 
-(Feb. 16, 1938, ch. 30, title III, § 321, 52 Stat. 48.)
+(Feb. 16, 1938, ch. 30, title III, § 321, 52 Stat. 48.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2195,11 +2195,11 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-##### § 1322. Repealed. Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902
+##### § 1322. Repealed. Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902
 
-Section, acts Feb. 16, 1938, ch. 30, title III, § 322, 52 Stat. 49; July 3, 1948, ch. 827, title II, § 203, 62 Stat. 1255; Oct. 31, 1949, ch. 792, title IV, § 409(e), 63 Stat. 1057, related to establishment, referendum, and suspension of farm marketing quotas.
+Section, acts Feb. 16, 1938, ch. 30, title III, § 322, 52 Stat. 49; July 3, 1948, ch. 827, title II, § 203, 62 Stat. 1255; Oct. 31, 1949, ch. 792, title IV, § 409(e), 63 Stat. 1057, related to establishment, referendum, and suspension of farm marketing quotas.
 
-##### § 1322a. Repealed. July 3, 1948, ch. 827, title II, § 203(b), 62 Stat. 1256
+##### § 1322a. Repealed. July 3, 1948, ch. 827, title II, § 203(b), 62 Stat. 1256
 
 Section, act July 26, 1939, ch. 378, 53 Stat. 1125, related to time for proclamation of referendum.
 
@@ -2209,15 +2209,15 @@ Section, act July 26, 1939, ch. 378, 53 Stat. 1125, related to time for proclama
 
 Repeal effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under section 1301 of this title.
 
-##### §§ 1323 to 1325. Repealed. Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902
+##### §§ 1323 to 1325. Repealed. Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902
 
-Section 1323, act Feb. 16, 1938, ch. 30, title III, § 323, 52 Stat. 50, related to amount of farm marketing quota with respect to corn.
+Section 1323, act Feb. 16, 1938, ch. 30, title III, § 323, 52 Stat. 50, related to amount of farm marketing quota with respect to corn.
 
-Section 1324, act Feb. 16, 1938, ch. 30, title III, § 324, 52 Stat. 50, related to storage amounts.
+Section 1324, act Feb. 16, 1938, ch. 30, title III, § 324, 52 Stat. 50, related to storage amounts.
 
-Section 1325, act Feb. 16, 1938, ch. 30, title III, § 325, 52 Stat. 51, related to penalties for marketing corn in excess of quota.
+Section 1325, act Feb. 16, 1938, ch. 30, title III, § 325, 52 Stat. 51, related to penalties for marketing corn in excess of quota.
 
-##### § 1326. Adjustment of farm marketing quotas
+##### § 1326. Adjustment of farm marketing quotas
 
 **(a)** Whenever in any county or other area the Secretary finds that the actual production of corn plus the amount of corn stored under seal in such county or other area is less than the normal production of the marketing percentage of the farm acreage allotments in such county or other area, the Secretary shall terminate farm marketing quotas for corn in such county or other area.
 
@@ -2225,13 +2225,13 @@ Section 1325, act Feb. 16, 1938, ch. 30, title III, § 325, 52 Stat. 51, relat
 
 **(c)** Whenever, in any marketing year, marketing quotas are not in effect with respect to the crop of corn produced in the calendar year in which such marketing year begins, all marketing quotas applicable to previous crops of corn shall be terminated.
 
-(Feb. 16, 1938, ch. 30, title III, § 326, 52 Stat. 51.)
+(Feb. 16, 1938, ch. 30, title III, § 326, 52 Stat. 51.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1324 of this title, referred to in subsec. (b), was repealed by act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902.
+Section 1324 of this title, referred to in subsec. (b), was repealed by act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2247,9 +2247,9 @@ Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, an
 
 **Repeals**
 
-Act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902, repealed this section insofar as it is applicable to corn. Section has been made applicable to wheat by sections 1330(6) and 1340(6) of this title.
+Act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902, repealed this section insofar as it is applicable to corn. Section has been made applicable to wheat by sections 1330(6) and 1340(6) of this title.
 
-##### §§ 1327 to 1329. Omitted
+##### §§ 1327 to 1329. Omitted
 
 **Editorial Notes**
 
@@ -2257,17 +2257,17 @@ Act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902, repealed this se
 
 Sections provided for establishment of a commercial corn-producing area and corn acreage allotments, which were discontinued. See sections 1329a, 1444a, and 1444b of this title.
 
-Section 1327, acts Feb. 16, 1938, ch. 30, title III, § 327, 52 Stat. 51; Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 903, provided for proclamation of commercial corn-producing area not later than February 1 of each year.
+Section 1327, acts Feb. 16, 1938, ch. 30, title III, § 327, 52 Stat. 51; Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 903, provided for proclamation of commercial corn-producing area not later than February 1 of each year.
 
-Section 1328, acts Feb. 16, 1938, ch. 30, title III, § 328, 52 Stat. 52; Apr. 7, 1938, ch. 107, § 6, 52 Stat. 202; July 3, 1948, ch. 827, title II, § 207(a), 62 Stat. 1257; Oct. 31, 1949, ch. 792, title IV, § 409(f), 63 Stat. 1057; Aug. 28, 1954, ch. 1041, title III, § 305, 68 Stat. 903, provided for establishment of acreage allotment of corn for each calendar year and proclamation of such acreage allotment not later than February 1 of each year.
+Section 1328, acts Feb. 16, 1938, ch. 30, title III, § 328, 52 Stat. 52; Apr. 7, 1938, ch. 107, § 6, 52 Stat. 202; July 3, 1948, ch. 827, title II, § 207(a), 62 Stat. 1257; Oct. 31, 1949, ch. 792, title IV, § 409(f), 63 Stat. 1057; Aug. 28, 1954, ch. 1041, title III, § 305, 68 Stat. 903, provided for establishment of acreage allotment of corn for each calendar year and proclamation of such acreage allotment not later than February 1 of each year.
 
-Section 1329, acts Feb. 16, 1938, ch. 30, title III, § 329, 52 Stat. 52; Aug. 28, 1954, ch. 1041, title III, § 306, 68 Stat. 903, provided for apportionment of acreage allotment for corn.
+Section 1329, acts Feb. 16, 1938, ch. 30, title III, § 329, 52 Stat. 52; Aug. 28, 1954, ch. 1041, title III, § 306, 68 Stat. 903, provided for apportionment of acreage allotment for corn.
 
-##### § 1329a. Discontinuance of acreage allotments on corn
+##### § 1329a. Discontinuance of acreage allotments on corn
 
 Notwithstanding any other provision of law, acreage allotments and a commercial corn-producing area shall not be established for the 1959 and subsequent crops of corn.
 
-(Feb. 16, 1938, ch. 30, title III, § 330, as added Oct. 31, 1949, ch. 792, title I, § 104(b)(1), as added Pub. L. 85–835, title II, § 201, Aug. 28, 1958, 72 Stat. 994.)
+(Feb. 16, 1938, ch. 30, title III, § 330, as added Oct. 31, 1949, ch. 792, title I, § 104(b)(1), as added Pub. L. 85–835, title II, § 201, Aug. 28, 1958, 72 Stat. 994.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2285,19 +2285,19 @@ Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, an
 
 Corn producers voted for adoption of price support program as provided in section 1444a(b) of this title (254,262) rather than alternative corn acreage allotment and price support program (102,907), the ballot making operative sections 1329a and 1444b and repeal of section 1441(d)(4) of this title.
 
-##### § 1330. Omitted
+##### § 1330. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts May 26, 1941, ch. 133, 55 Stat. 203; Dec. 26, 1941, ch. 626, § 2, 55 Stat. 860; Dec. 26, 1941, ch. 636, 55 Stat. 872; Aug. 29, 1949, ch. 518, § 3(b), 63 Stat. 676; July 14, 1953, ch. 194, § 3, 67 Stat. 151; Aug. 28, 1954, ch. 1041, title III, § 313, 68 Stat. 905, initially contained supplemental provisions relating to wheat and corn marketing quotas; marketing penalty for cotton and rice; crop loans on cotton, corn, wheat, rice, tobacco, and peanuts, but was amended generally in 1954 to make it inapplicable to corn. See section 1340 of this title.
+Section, acts May 26, 1941, ch. 133, 55 Stat. 203; Dec. 26, 1941, ch. 626, § 2, 55 Stat. 860; Dec. 26, 1941, ch. 636, 55 Stat. 872; Aug. 29, 1949, ch. 518, § 3(b), 63 Stat. 676; July 14, 1953, ch. 194, § 3, 67 Stat. 151; Aug. 28, 1954, ch. 1041, title III, § 313, 68 Stat. 905, initially contained supplemental provisions relating to wheat and corn marketing quotas; marketing penalty for cotton and rice; crop loans on cotton, corn, wheat, rice, tobacco, and peanuts, but was amended generally in 1954 to make it inapplicable to corn. See section 1340 of this title.
 
 Section was not enacted as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
 #### subpart iii—marketing quotas—wheat
 
-##### § 1331. Legislative finding of effect on interstate and foreign commerce and necessity of regulation
+##### § 1331. Legislative finding of effect on interstate and foreign commerce and necessity of regulation
 
 Wheat is a basic source of food for the Nation, is produced throughout the United States by more than a million farmers, is sold on the country-wide market and, as wheat or flour, flows almost entirely through instrumentalities of interstate and foreign commerce from producers to consumers.
 
@@ -2313,7 +2313,7 @@ The diversion of substantial acreages from wheat to the production of commoditie
 
 The provisions of this subpart affording a cooperative plan to wheat producers are necessary in order to minimize recurring surpluses and shortages of wheat in interstate and foreign commerce, to provide for the maintenance of adequate reserve supplies thereof, to provide for an adequate and orderly flow of wheat and its products in interstate and foreign commerce at prices which are fair and reasonable to farmers and consumers, and to prevent acreage diverted from the production of wheat from adversely affecting other commodities in interstate and foreign commerce.
 
-(Feb. 16, 1938, ch. 30, title III, § 331, 52 Stat. 52; Pub. L. 87–703, title III, § 310, Sept. 27, 1962, 76 Stat. 618.)
+(Feb. 16, 1938, ch. 30, title III, § 331, 52 Stat. 52; Pub. L. 87–703, title III, § 310, Sept. 27, 1962, 76 Stat. 618.)
 
 **Editorial Notes**
 
@@ -2337,17 +2337,17 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-Pub. L. 101–624, title III, § 303, Nov. 28, 1990, 104 Stat. 3400, provided that: “Sections 331 through 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1331 through 1339, 1379b, and 1379c) shall not be applicable to the 1991 through 1995 crops of wheat.”
+Pub. L. 101–624, title III, § 303, Nov. 28, 1990, 104 Stat. 3400, provided that: “Sections 331 through 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1331 through 1339, 1379b, and 1379c) shall not be applicable to the 1991 through 1995 crops of wheat.”
 
-Pub. L. 99–198, title III, § 310(b), Dec. 23, 1985, 99 Stat. 1395, provided that: “Sections 331, 339, 379b, and 379c of such Act [the Agricultural Adjustment Act of 1938] (7 U.S.C. 1331, 1339, 1379b, and 1379c) shall not be applicable to the 1986 through 1990 crops of wheat.”
+Pub. L. 99–198, title III, § 310(b), Dec. 23, 1985, 99 Stat. 1395, provided that: “Sections 331, 339, 379b, and 379c of such Act [the Agricultural Adjustment Act of 1938] (7 U.S.C. 1331, 1339, 1379b, and 1379c) shall not be applicable to the 1986 through 1990 crops of wheat.”
 
-Pub. L. 97–98, title III, § 303, Dec. 22, 1981, 95 Stat. 1227, provided that: “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 [this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title] shall not be applicable to the 1982 through 1985 crops of wheat.”
+Pub. L. 97–98, title III, § 303, Dec. 22, 1981, 95 Stat. 1227, provided that: “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 [this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title] shall not be applicable to the 1982 through 1985 crops of wheat.”
 
-Pub. L. 95–113, title IV, § 404, Sept. 29, 1977, 91 Stat. 927, provided that: “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938, as amended [this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title], shall not be applicable to the 1978 through 1981 crops of wheat.”
+Pub. L. 95–113, title IV, § 404, Sept. 29, 1977, 91 Stat. 927, provided that: “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938, as amended [this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title], shall not be applicable to the 1978 through 1981 crops of wheat.”
 
-Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
-##### § 1332. National marketing quota
+##### § 1332. National marketing quota
 
 **(a) Proclamation; duration of program**
 
@@ -2365,7 +2365,7 @@ If, after the proclamation of a national marketing quota for wheat for any marke
 
 Notwithstanding any other provision of this chapter, the Secretary shall proclaim a national marketing quota for the crops of wheat planted for harvest in the calendar years 1966 through 1970, and farm marketing quotas shall not be in effect for such crops of wheat.
 
-(Feb. 16, 1938, ch. 30, title III, § 332, 52 Stat. 53; Aug. 28, 1954, ch. 1041, title III, § 307, 68 Stat. 903; Pub. L. 87–703, title III, § 311, Sept. 27, 1962, 76 Stat. 619; Pub. L. 89–321, title V, § 501(1), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 99–198, title III, § 302, Dec. 23, 1985, 99 Stat. 1378.)
+(Feb. 16, 1938, ch. 30, title III, § 332, 52 Stat. 53; Aug. 28, 1954, ch. 1041, title III, § 307, 68 Stat. 903; Pub. L. 87–703, title III, § 311, Sept. 27, 1962, 76 Stat. 619; Pub. L. 89–321, title V, § 501(1), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 99–198, title III, § 302, Dec. 23, 1985, 99 Stat. 1378.)
 
 **Editorial Notes**
 
@@ -2395,11 +2395,11 @@ Subsec. (d). Pub. L. 89–321 added subsec. (d).
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title III, § 302, Dec. 23, 1985, 99 Stat. 1378, provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, § 302, Dec. 23, 1985, 99 Stat. 1378, provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–321, title V, § 501, Nov. 3, 1965, 79 Stat. 1199, provided that the amendments made by section 501 (amending this section and sections 1333, 1334, 1335, and 1339 of this title) are effective beginning with the crop planted for harvest in the calendar year 1966.
+Pub. L. 89–321, title V, § 501, Nov. 3, 1965, 79 Stat. 1199, provided that the amendments made by section 501 (amending this section and sections 1333, 1334, 1335, and 1339 of this title) are effective beginning with the crop planted for harvest in the calendar year 1966.
 
 **Effective Date of 1962 Amendment**
 
@@ -2419,17 +2419,17 @@ Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub
 
 Pub. L. 101–270, Apr. 10, 1990, 104 Stat. 134, provided: “That section 332 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1332) shall not be applicable to the 1991 crop of wheat.”
 
-Pub. L. 99–198, title III, § 310(a), Dec. 23, 1985, 99 Stat. 1395, provided that: “Sections 332, 333, 334, 335, 336, and 338 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1332–1336 and 1338) shall not be applicable to the 1986 crop of wheat.”
+Pub. L. 99–198, title III, § 310(a), Dec. 23, 1985, 99 Stat. 1395, provided that: “Sections 332, 333, 334, 335, 336, and 338 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1332–1336 and 1338) shall not be applicable to the 1986 crop of wheat.”
 
 Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub. L. 97–98, set out as a note under section 1331 of this title.
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
 **1965 Crop National Marketing Quota and Crop Acreage Allotment**
 
-Pub. L. 88–297, title II, § 201, Apr. 11, 1964, 78 Stat. 178, directed Secretary to not proclaim a national marketing quota for 1965 crop of wheat and that farm marketing quotas shall not be in effect for such crop of wheat, and required Secretary to proclaim a national acreage allotment for 1965 crop of wheat which shall be the number of acres which he determined would make available an adequate supply of wheat, but not less than forty-nine million five hundred thousand acres.
+Pub. L. 88–297, title II, § 201, Apr. 11, 1964, 78 Stat. 178, directed Secretary to not proclaim a national marketing quota for 1965 crop of wheat and that farm marketing quotas shall not be in effect for such crop of wheat, and required Secretary to proclaim a national acreage allotment for 1965 crop of wheat which shall be the number of acres which he determined would make available an adequate supply of wheat, but not less than forty-nine million five hundred thousand acres.
 
 **Deferral of Proclamation for 1963 Crop**
 
@@ -2441,11 +2441,11 @@ Pub. L. 87–450, May 15, 1962, 76 Stat. 69, authorized Secretary of Agriculture
 
 Pub. L. 86–27, May 15, 1959, 73 Stat. 25, authorized Secretary of Agriculture to defer until June 1, 1959, any proclamation under this section with respect to a national acreage allotment for 1960 crop of wheat and any proclamation under section 1335 of this title with respect to marketing quotas for such crop of wheat.
 
-##### § 1333. National acreage allotment
+##### § 1333. National acreage allotment
 
 The Secretary shall proclaim a national acreage allotment for each crop of wheat. The amount of the national acreage allotment for any crop of wheat shall be the number of acres which the Secretary determines on the basis of the projected national yield and expected underplantings (acreage other than that not harvested because of program incentives) of farm acreage allotments will produce an amount of wheat equal to the national marketing quota for wheat for the marketing year for such crop, or if a national marketing quota was not proclaimed, the quota which would have been determined if one had been proclaimed.
 
-(Feb. 16, 1938, ch. 30, title III, § 333, 52 Stat. 53; June 20, 1938, ch. 518, 52 Stat. 775; July 26, 1939, ch. 377, 53 Stat. 1125; July 3, 1948, ch. 827, title II, § 207(b), 62 Stat. 1257; Pub. L. 87–703, title III, § 312, Sept. 27, 1962, 76 Stat. 620; Pub. L. 89–321, title V, § 501(2), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 99–198, title III, § 303, Dec. 23, 1985, 99 Stat. 1379.)
+(Feb. 16, 1938, ch. 30, title III, § 333, 52 Stat. 53; June 20, 1938, ch. 518, 52 Stat. 775; July 26, 1939, ch. 377, 53 Stat. 1125; July 3, 1948, ch. 827, title II, § 207(b), 62 Stat. 1257; Pub. L. 87–703, title III, § 312, Sept. 27, 1962, 76 Stat. 620; Pub. L. 89–321, title V, § 501(2), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 99–198, title III, § 303, Dec. 23, 1985, 99 Stat. 1379.)
 
 **Editorial Notes**
 
@@ -2467,7 +2467,7 @@ The Secretary shall proclaim a national acreage allotment for each crop of wheat
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title III, § 303, Dec. 23, 1985, 99 Stat. 1379, provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, § 303, Dec. 23, 1985, 99 Stat. 1379, provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
 
 **Effective Date of 1965 Amendment**
 
@@ -2499,13 +2499,13 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, § 404(2), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1972 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 404(2), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1972 through 1977 crops of wheat.
 
 **1965 Crop Acreage Allotment**
 
 Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequate supply of wheat but shall not be less than forty-nine million five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
 
-##### § 1334. Apportionment of national acreage allotment
+##### § 1334. Apportionment of national acreage allotment
 
 **(a) Apportionment among States; special acreage reserve**
 
@@ -2525,7 +2525,7 @@ The State acreage allotment for wheat, less a reserve of not to exceed 3 per cen
 
 **(4)** Notwithstanding any other provision of this subsection (c), the farm acreage allotment for the 1967 and any subsequent crop of wheat shall be established for each old farm by apportioning the county wheat acreage allotment among farms in the county on which wheat has been planted, or is considered to have been planted, for harvest as grain in any one of the three years immediately preceding the year for which allotments are determined on the basis of past acreage of wheat and the farm acreage allotment for the year immediately preceding the year for which the allotment is being established, adjusted as hereinafter provided. For purposes of this paragraph, the acreage allotment for the immediately preceding year may be adjusted to reflect established crop-rotation practices, may be adjusted downward to reflect a reduction in the tillable acreage on the farm, and may be adjusted upward to reflect such other factors as the Secretary determines should be considered for the purpose of establishing a fair and equitable allotment: *Provided*, That (i) for the purposes of computing the allotment for any year, the acreage allotment for the farm for the immediately preceding year shall be decreased by 7 per centum if for the year immediately preceding the year for which such reduction is made neither a voluntary diversion program nor a voluntary certificate program was in effect and there was noncompliance with the farm acreage allotment for such year; (ii) for purposes of clause (i), any farm on which the entire amount of farm marketing excess is delivered to the Secretary, stored, or adjusted to zero in accordance with applicable regulations to avoid or postpone payment of the penalty when farm marketing quotas are in effect, shall be considered in compliance with the allotment, but if any part of the amount of wheat so stored is later depleted and penalty becomes due by reason of such depletion, the allotment for such farm next computed after determination of such depletion shall be reduced by reducing the allotment for the immediately preceding year by 7 per centum; and (iii) for purposes of clause (i) if the Secretary determines that the reduction in the allotment does not provide fair and equitable treatment to producers on farms following special crop rotation practices, he may modify such reduction in the allotment as he determines to be necessary to provide fair and equitable treatment to such producers.
 
-**(d) Repealed. Pub. L. 89–321, title V, § 501(6), Nov. 3, 1965, 79 Stat. 1201**
+**(d) Repealed. Pub. L. 89–321, title V, § 501(6), Nov. 3, 1965, 79 Stat. 1201**
 
 **(e) Increase in acreage allotments and marketing quotas for class II durum wheat**
 
@@ -2553,7 +2553,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall increas
 
 Notwithstanding any other provision of this chapter, if the Secretary determines that because of a natural disaster a portion of the farm wheat acreage allotments in a county cannot be timely planted or replanted, he may authorize the transfer of all or a part of the wheat acreage allotment for any farm in the county so affected to another farm in the county or in an adjoining county on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of wheat and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm allotment transferred under this subsection shall be deemed to be planted on the farm from which it was transferred for the purposes of acreage history credits under this chapter.
 
-(Feb. 16, 1938, ch. 30, title III, § 334, 52 Stat. 53; Apr. 7, 1938, ch. 107, § 7, 52 Stat. 203; Feb. 6, 1942, ch. 44, § 2, 56 Stat. 52; July 14, 1953, ch. 194, § 1, 67 Stat. 151; Jan. 30, 1954, ch. 2, § 4, 68 Stat. 6; Aug. 28, 1954, ch. 1041, title III, § 308, 68 Stat. 903; Feb. 19, 1955, ch. 8, 69 Stat. 9; Mar. 16, 1956, ch. 86, 70 Stat. 50; May 28, 1956, ch. 327, title III, § 301, 70 Stat. 203; Aug. 7, 1956, ch. 1030, § 2, 70 Stat. 1117; Pub. L. 85–13, Apr. 2, 1957, 71 Stat. 10; Pub. L. 85–203, § 2, Aug. 28, 1957, 71 Stat. 477; Pub. L. 85–366, Apr. 4, 1958, 72 Stat. 78; Pub. L. 85–390, May 1, 1958, 72 Stat. 101; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 996; Pub. L. 86–385, Feb. 20, 1960, 74 Stat. 4; Pub. L. 86–419, Apr. 9, 1960, 74 Stat. 39; Pub. L. 87–128, title I, §§ 121, 125, Aug. 8, 1961, 75 Stat. 296, 300; Pub. L. 87–357, Oct. 4, 1961, 75 Stat. 778; Pub. L. 87–703, title III, §§ 308(a), 313, Sept. 27, 1962, 76 Stat. 618, 620; Pub. L. 88–64, July 17, 1963, 77 Stat. 79; Pub. L. 88–297, title II, § 202(1)–(5), Apr. 11, 1964, 78 Stat. 178, 179; Pub. L. 89–321, title V, § 501(3)–(7), Nov. 3, 1965, 79 Stat. 1199–1201; Pub. L. 90–243, Jan. 2, 1968, 81 Stat. 781; Pub. L. 91–220, Mar. 31, 1970, 84 Stat. 86; Pub. L. 99–198, title III, § 304, Dec. 23, 1985, 99 Stat. 1379.)
+(Feb. 16, 1938, ch. 30, title III, § 334, 52 Stat. 53; Apr. 7, 1938, ch. 107, § 7, 52 Stat. 203; Feb. 6, 1942, ch. 44, § 2, 56 Stat. 52; July 14, 1953, ch. 194, § 1, 67 Stat. 151; Jan. 30, 1954, ch. 2, § 4, 68 Stat. 6; Aug. 28, 1954, ch. 1041, title III, § 308, 68 Stat. 903; Feb. 19, 1955, ch. 8, 69 Stat. 9; Mar. 16, 1956, ch. 86, 70 Stat. 50; May 28, 1956, ch. 327, title III, § 301, 70 Stat. 203; Aug. 7, 1956, ch. 1030, § 2, 70 Stat. 1117; Pub. L. 85–13, Apr. 2, 1957, 71 Stat. 10; Pub. L. 85–203, § 2, Aug. 28, 1957, 71 Stat. 477; Pub. L. 85–366, Apr. 4, 1958, 72 Stat. 78; Pub. L. 85–390, May 1, 1958, 72 Stat. 101; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 996; Pub. L. 86–385, Feb. 20, 1960, 74 Stat. 4; Pub. L. 86–419, Apr. 9, 1960, 74 Stat. 39; Pub. L. 87–128, title I, §§ 121, 125, Aug. 8, 1961, 75 Stat. 296, 300; Pub. L. 87–357, Oct. 4, 1961, 75 Stat. 778; Pub. L. 87–703, title III, §§ 308(a), 313, Sept. 27, 1962, 76 Stat. 618, 620; Pub. L. 88–64, July 17, 1963, 77 Stat. 79; Pub. L. 88–297, title II, § 202(1)–(5), Apr. 11, 1964, 78 Stat. 178, 179; Pub. L. 89–321, title V, § 501(3)–(7), Nov. 3, 1965, 79 Stat. 1199–1201; Pub. L. 90–243, Jan. 2, 1968, 81 Stat. 781; Pub. L. 91–220, Mar. 31, 1970, 84 Stat. 86; Pub. L. 99–198, title III, § 304, Dec. 23, 1985, 99 Stat. 1379.)
 
 **Editorial Notes**
 
@@ -2601,43 +2601,43 @@ See Effective and Termination Dates of 1985 Amendment note below.
 
 1968—Subsec. (a). Pub. L. 90–243 inserted provisions allowing the Secretary to make additional use, with specified limitations, of the 1 percent national wheat acreage allotment reserve in counties which have wheat as the principal grain crop, an average ratio of wheat acreage allotment to cropland on old wheat farms at least 20 percent below that in an adjoining county or alternative ratio, a low ratio caused by a shift prior to 1951 from wheat to an alternative crop or crops which have become unprofitable because of plant disease or sustained loss of markets, and no alternative income-producing crop.
 
-1965—Subsec. (a). Pub. L. 89–321, § 501(3), substituted the preceding year’s allotment for the acreage seeded for the production of wheat over the preceding ten-year period as the basis for determining the state’s apportioned share of the national acreage allotment and made provision for a special acreage reserve to be apportioned only to counties where wheat is a major income-producing crop.
+1965—Subsec. (a). Pub. L. 89–321, § 501(3), substituted the preceding year’s allotment for the acreage seeded for the production of wheat over the preceding ten-year period as the basis for determining the state’s apportioned share of the national acreage allotment and made provision for a special acreage reserve to be apportioned only to counties where wheat is a major income-producing crop.
 
-Subsec. (b). Pub. L. 89–321, § 501(4), substituted the county’s allotment covering the preceding year for the acreage seeded for the production of wheat during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined as the basis for determining the county’s allotment.
+Subsec. (b). Pub. L. 89–321, § 501(4), substituted the county’s allotment covering the preceding year for the acreage seeded for the production of wheat during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined as the basis for determining the county’s allotment.
 
-Subsec. (c)(3), (4). Pub. L. 89–321, § 501(5), added pars. (3) and (4).
+Subsec. (c)(3), (4). Pub. L. 89–321, § 501(5), added pars. (3) and (4).
 
-Subsec. (d). Pub. L. 89–321, § 501(6), repealed subsec. (d) dealing with farms on which the entire amount of the farm marketing excess has been delivered to the Secretary or stored in accordance with applicable provisions.
+Subsec. (d). Pub. L. 89–321, § 501(6), repealed subsec. (d) dealing with farms on which the entire amount of the farm marketing excess has been delivered to the Secretary or stored in accordance with applicable provisions.
 
-Subsec. (g). Pub. L. 89–321, § 501(7), struck out “except as prescribed in the provisos to the first sentence of subsections (a) and (b) respectively of this section” after “county acreage allotments.”
+Subsec. (g). Pub. L. 89–321, § 501(7), struck out “except as prescribed in the provisos to the first sentence of subsections (a) and (b) respectively of this section” after “county acreage allotments.”
 
-1964—Subsec. (a). Pub. L. 88–297, § 202(1), provided (1) for the apportionment among the States of the national acreage allotment for wheat less the special acreage reserve; (2) that in establishing State acreage allotments, the acreage seeded for the production of wheat plus the acreage diverted for 1965 for any farm shall be the base acreage of wheat determined for the farm under regulations for determining farm wheat acreage allotments for 1965; and (3) beginning with the 1965 crop, a special acreage reserve and uses of such reserve and apportionment to counties of such reserve.
+1964—Subsec. (a). Pub. L. 88–297, § 202(1), provided (1) for the apportionment among the States of the national acreage allotment for wheat less the special acreage reserve; (2) that in establishing State acreage allotments, the acreage seeded for the production of wheat plus the acreage diverted for 1965 for any farm shall be the base acreage of wheat determined for the farm under regulations for determining farm wheat acreage allotments for 1965; and (3) beginning with the 1965 crop, a special acreage reserve and uses of such reserve and apportionment to counties of such reserve.
 
-Subsec. (b). Pub. L. 88–297, § 202(2), provided that in establishing county acreage allotments, the acreage seeded for the production of wheat plus the acreage diverted for 1965 for any farm shall be the base acreage of wheat determined for the farm under regulations for determining farm wheat acreage allotments for 1965.
+Subsec. (b). Pub. L. 88–297, § 202(2), provided that in establishing county acreage allotments, the acreage seeded for the production of wheat plus the acreage diverted for 1965 for any farm shall be the base acreage of wheat determined for the farm under regulations for determining farm wheat acreage allotments for 1965.
 
-Subsec. (c)(1). Pub. L. 88–297, § 202(3), inserted in third sentence, cls. (i) and (ii), “or 1965” after “1958” wherever appearing and in third sentence, cl. (iii), “except 1965” after “any subsequent year.”
+Subsec. (c)(1). Pub. L. 88–297, § 202(3), inserted in third sentence, cls. (i) and (ii), “or 1965” after “1958” wherever appearing and in third sentence, cl. (iii), “except 1965” after “any subsequent year.”
 
-Subsec. (g). Pub. L. 88–297, § 202(4), inserted in first sentence “except 1965” after “in 1958 or thereafter”.
+Subsec. (g). Pub. L. 88–297, § 202(4), inserted in first sentence “except 1965” after “in 1958 or thereafter”.
 
-Subsec. (k). Pub. L. 88–297, § 202(5), added subsec. (k).
+Subsec. (k). Pub. L. 88–297, § 202(5), added subsec. (k).
 
-1963—Subsec. (h). There is no subsec. (h) for 1964 and Subsequent Wheat Crops. Pub. L. 87–703, § 313(2), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (h). Pub. L. 88–64, § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j).
+1963—Subsec. (h). There is no subsec. (h) for 1964 and Subsequent Wheat Crops. Pub. L. 87–703, § 313(2), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (h). Pub. L. 88–64, § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j).
 
-Subsec. (i). Pub. L. 88–64, § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j). Pub. L. 87–703, § 313(4), added subsec. (i) (effective with the 1964 Wheat Crop). See 1962 Amendment note hereunder.
+Subsec. (i). Pub. L. 88–64, § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j). Pub. L. 87–703, § 313(4), added subsec. (i) (effective with the 1964 Wheat Crop). See 1962 Amendment note hereunder.
 
 Subsec. (j). Pub. L. 88–64 redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j), inserted “privately owned” before “farms” in first and second sentences and increased from eight to twelve thousand acres the total acreage allotment for each crop.
 
-1962—Subsec. (e). Pub. L. 87–703, §§ 308(a), 313(1), inserted provision respecting participation in the special wheat program formulated under section 307 of the Food and Agriculture Act of 1962 and substituted “the 1962 and 1963 crops” for “any of the 1962, 1963, and 1964 crops”, respectively.
+1962—Subsec. (e). Pub. L. 87–703, §§ 308(a), 313(1), inserted provision respecting participation in the special wheat program formulated under section 307 of the Food and Agriculture Act of 1962 and substituted “the 1962 and 1963 crops” for “any of the 1962, 1963, and 1964 crops”, respectively.
 
-Subsec. (g). Pub. L. 87–703, § 313(2), redesignated former subsec. (h) as (g). Former subsec. (g), which related to weather conditions, underplanting, and subnormal production affecting acreage allotments, was repealed by such section 313(2). See section 1377 of this title.
+Subsec. (g). Pub. L. 87–703, § 313(2), redesignated former subsec. (h) as (g). Former subsec. (g), which related to weather conditions, underplanting, and subnormal production affecting acreage allotments, was repealed by such section 313(2). See section 1377 of this title.
 
-Subsec. (h). Pub. L. 87–703, § 313 (2), (3), redesignated former subsec. (i) as (h) and inserted the sentence “The land-use provisions of section 1339 of this title shall not be applicable to any farm receiving an additional allotment under this subsection.” Former subsec. (h) redesignated (g). See Effective Date of 1962 Amendment note below making the changes effective with the 1964 Wheat Crop. Pub. L. 88–64, § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j). There is no subsec. (h) for 1964 and Subsequent Wheat Crops. See 1963 Amendment note above.
+Subsec. (h). Pub. L. 87–703, § 313 (2), (3), redesignated former subsec. (i) as (h) and inserted the sentence “The land-use provisions of section 1339 of this title shall not be applicable to any farm receiving an additional allotment under this subsection.” Former subsec. (h) redesignated (g). See Effective Date of 1962 Amendment note below making the changes effective with the 1964 Wheat Crop. Pub. L. 88–64, § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j). There is no subsec. (h) for 1964 and Subsequent Wheat Crops. See 1963 Amendment note above.
 
-Subsec. (i). Pub. L. 87–703, § 313(4), added subsec. (i). Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 87–703, § 313(4), added subsec. (i). Former subsec. (i) redesignated (h).
 
-1961—Subsec. (c). Pub. L. 87–128, § 121, designated existing provisions as par. (1) and added par. (2).
+1961—Subsec. (c). Pub. L. 87–128, § 121, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 87–128, § 125, authorized the Secretary to increase durum wheat acreage allotment during 1962, 1963, and 1964 crops of wheat when he determines that acreage allotments established for durum wheat farms will be inadequate to produce a sufficient quantity of durum wheat to meet demand therefor, not including export demand involving a subsidy by or loss to the Federal Government, by such percentage factor as is determined to be necessary to provide for the increase in quantity the increase not to exceed the cropland on the farm well suited to wheat and to be conditioned upon the production of an acreage of durum wheat (class II) at least equal to the average acreage of such wheat produced during prescribed two-year period plus the number of acres by which the allotment is increased, provided that any farm receiving an increased durum wheat allotment shall not be required as a condition of price support, or permitted, to participate in the special 1962 wheat diversion program, and required the Secretary to become familiar with the views and recommendations of durum wheat grower and millers and manufacturers of semolina products prior to making any determinations. Former provisions of the subsection related to increase in allotment for durum wheat farms for 1957 crop of wheat, conditioned upon the production of durum wheat (class II) on the increased acreage and determined by adding to the allotment established without regard to subsec. (e) an acreage equal to the acreage by which the original allotment exceeded the 1957 acreage on the farm of classes of wheat other than durum wheat (class II), but not exceeding the smaller of the cropland on the farm well suited to wheat or the wheat acreage on the farm.
+Subsec. (e). Pub. L. 87–128, § 125, authorized the Secretary to increase durum wheat acreage allotment during 1962, 1963, and 1964 crops of wheat when he determines that acreage allotments established for durum wheat farms will be inadequate to produce a sufficient quantity of durum wheat to meet demand therefor, not including export demand involving a subsidy by or loss to the Federal Government, by such percentage factor as is determined to be necessary to provide for the increase in quantity the increase not to exceed the cropland on the farm well suited to wheat and to be conditioned upon the production of an acreage of durum wheat (class II) at least equal to the average acreage of such wheat produced during prescribed two-year period plus the number of acres by which the allotment is increased, provided that any farm receiving an increased durum wheat allotment shall not be required as a condition of price support, or permitted, to participate in the special 1962 wheat diversion program, and required the Secretary to become familiar with the views and recommendations of durum wheat grower and millers and manufacturers of semolina products prior to making any determinations. Former provisions of the subsection related to increase in allotment for durum wheat farms for 1957 crop of wheat, conditioned upon the production of durum wheat (class II) on the increased acreage and determined by adding to the allotment established without regard to subsec. (e) an acreage equal to the acreage by which the original allotment exceeded the 1957 acreage on the farm of classes of wheat other than durum wheat (class II), but not exceeding the smaller of the cropland on the farm well suited to wheat or the wheat acreage on the farm.
 
 Subsec. (i). Pub. L. 87–357 substituted “1958 through 1963” for “1958 through 1961”, and excluded from any general reduction in farm acreage allotments or farm acreage diversion program for the 1962 or 1963 wheat crop, the farms for which acreage allotments are increased under the provisions hereof, unless such reduction is specifically made applicable.
 
@@ -2645,15 +2645,15 @@ Subsec. (i). Pub. L. 87–357 substituted “1958 through 1963” for “1958 th
 
 Subsec. (i). Pub. L. 86–385 substituted “1958 through 1961” for “1958 and 1959”.
 
-1958—Subsec. (a). Pub. L. 85–366, § 1(1), inserted proviso that in establishing State acreage allotments acreage seeded plus acreage diverted for 1959 and subsequent years for farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty shall be base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, farm’s seeded plus diverted acreage for year excess was produced shall be reduced to acreage allotment for such year.
+1958—Subsec. (a). Pub. L. 85–366, § 1(1), inserted proviso that in establishing State acreage allotments acreage seeded plus acreage diverted for 1959 and subsequent years for farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty shall be base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, farm’s seeded plus diverted acreage for year excess was produced shall be reduced to acreage allotment for such year.
 
-Subsec. (b). Pub. L. 85–366, § 1(2), inserted proviso that in establishing county acreage allotments acreage seeded plus acreage diverted for 1959 and subsequent years for farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty shall be base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, farm’s seeded plus diverted acreage for year excess was produced shall be reduced to acreage for such year.
+Subsec. (b). Pub. L. 85–366, § 1(2), inserted proviso that in establishing county acreage allotments acreage seeded plus acreage diverted for 1959 and subsequent years for farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty shall be base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, farm’s seeded plus diverted acreage for year excess was produced shall be reduced to acreage for such year.
 
-Subsec. (c). Pub. L. 85–366, § 1(3), inserted sentence relating to establishment of farm acreage allotment for 1958 and past acreage for 1959 and subsequent years, with the proviso that for 1959 and subsequent years, any farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty, the past acreage for the year of delivery or storage shall be the base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, past acreage of wheat for year excess was produced shall be reduced to farm allotment for such year.
+Subsec. (c). Pub. L. 85–366, § 1(3), inserted sentence relating to establishment of farm acreage allotment for 1958 and past acreage for 1959 and subsequent years, with the proviso that for 1959 and subsequent years, any farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty, the past acreage for the year of delivery or storage shall be the base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, past acreage of wheat for year excess was produced shall be reduced to farm allotment for such year.
 
-Subsec. (d). Act Feb. 16, 1938, § 378(d), as added by Pub. L. 85–835, repealed subsec. (d) which related to adjustment of allotment upon acquisition of part of farms by United States for defense.
+Subsec. (d). Act Feb. 16, 1938, § 378(d), as added by Pub. L. 85–835, repealed subsec. (d) which related to adjustment of allotment upon acquisition of part of farms by United States for defense.
 
-Subsec. (h). Pub. L. 85–366, § 1(4), substituted “future State and county acreage allotments except as prescribed in the provisos to the first sentence of subsections (a) and (b), respectively, of this section” for “future State, county, and farm acreage allotments”.
+Subsec. (h). Pub. L. 85–366, § 1(4), substituted “future State and county acreage allotments except as prescribed in the provisos to the first sentence of subsections (a) and (b), respectively, of this section” for “future State, county, and farm acreage allotments”.
 
 Subsec. (i). Pub. L. 85–390 added subsec. (i).
 
@@ -2689,7 +2689,7 @@ Subsec. (d). Act July 14, 1953, made the provision relating to farms acquired fo
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title III, § 304, Dec. 23, 1985, 99 Stat. 1379, provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, § 304, Dec. 23, 1985, 99 Stat. 1379, provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
 
 **Effective Date of 1965 Amendment**
 
@@ -2701,7 +2701,7 @@ Amendment by section 313 of Pub. L. 87–703 effective only with respect to prog
 
 **Effective Date of 1956 Amendment**
 
-Act Aug. 7, 1956, ch. 1030, § 2, 70 Stat. 1117, provided that the amendment made by that act is effective beginning with the 1957 crop of wheat.
+Act Aug. 7, 1956, ch. 1030, § 2, 70 Stat. 1117, provided that the amendment made by that act is effective beginning with the 1957 crop of wheat.
 
 **Effective Date of 1955 Amendment**
 
@@ -2709,7 +2709,7 @@ Act Feb. 19, 1955, ch. 8, 69 Stat. 9, provided that the amendment made by that a
 
 **Effective Date of 1953 Amendment**
 
-Act July 14, 1953, ch. 194, § 5, 67 Stat. 152, provided that: “Sections 1, 2, and 3 of this Act [amending this section and section 1340 of this title and repealing section 1339 of this title] shall become effective with respect to the 1954 and subsequent crops of wheat.”
+Act July 14, 1953, ch. 194, § 5, 67 Stat. 152, provided that: “Sections 1, 2, and 3 of this Act [amending this section and section 1340 of this title and repealing section 1339 of this title] shall become effective with respect to the 1954 and subsequent crops of wheat.”
 
 **Savings Provision**
 
@@ -2733,31 +2733,31 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, § 404(2), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1972 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 404(2), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1972 through 1977 crops of wheat.
 
 **Farm Acreage Allotments for 1966 Crop of Wheat**
 
-Pub. L. 89–321, title V, § 512, Nov. 3, 1965, 79 Stat. 1205, required the national, State, county, and farm acreage allotments for the 1966 crop of wheat to be established in accordance with the provisions of law in effect prior to Nov. 3, 1965.
+Pub. L. 89–321, title V, § 512, Nov. 3, 1965, 79 Stat. 1205, required the national, State, county, and farm acreage allotments for the 1966 crop of wheat to be established in accordance with the provisions of law in effect prior to Nov. 3, 1965.
 
 **1963 Diverted Wheat Acreage Program**
 
-Pub. L. 87–703, title III, § 307, Sept. 27, 1962, 76 Stat. 615, provided that payments were authorized to be made in cash or wheat by the Commodity Credit Corporation to producers on any farm, except farms with new farm wheat allotments, if marketing quotas were in effect for the 1963 wheat crop, if they diverted certain acreage from wheat production, and if they devoted such acreage to conservation uses; that such acreage was to be in addition to acreage diverted to conservation uses for which payment was made under other federal programs although cost-sharing payments under the agricultural conservation program or the Great Plains program were not precluded; that advance payments up to fifty per cent could be made; that wheat stored to avoid a marketing quota penalty was not to be released for underplanting based on such diverted acreage; that the Secretary could promulgate regulations; and that the Commodity Credit Corporation could use its capital funds and assets to make payments.
+Pub. L. 87–703, title III, § 307, Sept. 27, 1962, 76 Stat. 615, provided that payments were authorized to be made in cash or wheat by the Commodity Credit Corporation to producers on any farm, except farms with new farm wheat allotments, if marketing quotas were in effect for the 1963 wheat crop, if they diverted certain acreage from wheat production, and if they devoted such acreage to conservation uses; that such acreage was to be in addition to acreage diverted to conservation uses for which payment was made under other federal programs although cost-sharing payments under the agricultural conservation program or the Great Plains program were not precluded; that advance payments up to fifty per cent could be made; that wheat stored to avoid a marketing quota penalty was not to be released for underplanting based on such diverted acreage; that the Secretary could promulgate regulations; and that the Commodity Credit Corporation could use its capital funds and assets to make payments.
 
 **Applicability of 1963 Diverted Wheat Acreage Program to Increased Allotment Farms**
 
-Pub. L. 87–703, title III, § 308(b), Sept. 27, 1962, 76 Stat. 618, provided that the special wheat program formulated under section 307 of Pub. L. 87–703 [set out above] was not applicable to any farm receiving an additional acreage allotment for wheat in short supply under section 334(i) of the Agricultural Adjustment Act of 1938, as amended [subsec. (i) of this section].
+Pub. L. 87–703, title III, § 308(b), Sept. 27, 1962, 76 Stat. 618, provided that the special wheat program formulated under section 307 of Pub. L. 87–703 [set out above] was not applicable to any farm receiving an additional acreage allotment for wheat in short supply under section 334(i) of the Agricultural Adjustment Act of 1938, as amended [subsec. (i) of this section].
 
 **1962 Diverted Wheat Acreage Program**
 
-Pub. L. 87–128, title I, § 124, Aug. 8, 1961, 75 Stat. 297, as amended by Pub. L. 87–410, Mar. 3, 1962, 76 Stat. 19; Pub. L. 87–451, §§ 1–3, May 15, 1962, 76 Stat. 70, provided that producers on any farm, except farms with a new farm wheat allotment, were entitled to payments if marketing quotas were in effect for the 1962 wheat crop, if they diverted certain acreage from wheat production, and if such diverted acreage were devoted to conservation uses; that the payments were to be made by the Commodity Credit Corporation in cash or wheat and computed as therein provided; that additional acreage could be diverted and payments made with respect thereto; that any diverted acreage was to be in addition to acreage diverted for conservation uses for which payment is made under any other federal program except that cost-sharing payments under the agricultural conservation program or the Great Plains program were not precluded; that advance payments up to 50 per cent could be made; that wheat stored to avoid a marketing quota penalty was not to be released for underplanting based on such diverted acreage; that the Secretary could promulgate regulations; and that the Commodity Credit Corporation could use its capital funds and assets to make payments.
+Pub. L. 87–128, title I, § 124, Aug. 8, 1961, 75 Stat. 297, as amended by Pub. L. 87–410, Mar. 3, 1962, 76 Stat. 19; Pub. L. 87–451, §§ 1–3, May 15, 1962, 76 Stat. 70, provided that producers on any farm, except farms with a new farm wheat allotment, were entitled to payments if marketing quotas were in effect for the 1962 wheat crop, if they diverted certain acreage from wheat production, and if such diverted acreage were devoted to conservation uses; that the payments were to be made by the Commodity Credit Corporation in cash or wheat and computed as therein provided; that additional acreage could be diverted and payments made with respect thereto; that any diverted acreage was to be in addition to acreage diverted for conservation uses for which payment is made under any other federal program except that cost-sharing payments under the agricultural conservation program or the Great Plains program were not precluded; that advance payments up to 50 per cent could be made; that wheat stored to avoid a marketing quota penalty was not to be released for underplanting based on such diverted acreage; that the Secretary could promulgate regulations; and that the Commodity Credit Corporation could use its capital funds and assets to make payments.
 
 **Acreage Allotment for 1954 Crop**
 
-Act July 14, 1953, ch. 194, § 4(a), 67 Stat. 152, provided that the National acreage allotment for the 1954 crop of wheat shall not be less than sixty-two million acres.
+Act July 14, 1953, ch. 194, § 4(a), 67 Stat. 152, provided that the National acreage allotment for the 1954 crop of wheat shall not be less than sixty-two million acres.
 
 **Acreage Allotment for 1950 Crop**
 
-Act Aug. 29, 1949, ch. 518, § 5, 63 Stat. 677, provided that the farm acreage allotment of wheat for 1950 crop for any farm was not to be less than the larger of—
+Act Aug. 29, 1949, ch. 518, § 5, 63 Stat. 677, provided that the farm acreage allotment of wheat for 1950 crop for any farm was not to be less than the larger of—
 
 (A) 50 per centum of—
 
@@ -2775,21 +2775,21 @@ adjusted in the same ratio as the national average seedings for the production o
 
 **Emergency Farm Acreage Allotment**
 
-Act Feb. 28, 1945, ch. 15, 59 Stat. 9, provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941. Such emergencies terminated on July 25, 1947, by the provisions of Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451.
+Act Feb. 28, 1945, ch. 15, 59 Stat. 9, provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941. Such emergencies terminated on July 25, 1947, by the provisions of Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451.
 
-##### § 1334a. Omitted
+##### § 1334a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Aug. 28, 1954, ch. 1041, title III, § 314, 68 Stat. 905, related to 1955 wheat acreage allotment in areas where a summer fallow crop rotation of wheat was a common practice.
+Section, act Aug. 28, 1954, ch. 1041, title III, § 314, 68 Stat. 905, related to 1955 wheat acreage allotment in areas where a summer fallow crop rotation of wheat was a common practice.
 
-##### § 1334a–1. Summer fallow farms; upper limit on required set aside acreage for 1971 through 1977 wheat, feed grain, and cotton crops
+##### § 1334a–1. Summer fallow farms; upper limit on required set aside acreage for 1971 through 1977 wheat, feed grain, and cotton crops
 
 Notwithstanding any other provision of law, for the 1971 through 1977 crops of wheat, feed grains and cotton, if in any year at least 55 per centum of the cropland acreage on an established summer fallow farm is devoted to a summer fallow use, no further acreage shall be required to be set aside under the wheat, feed grain and cotton programs for such year.
 
-(Pub. L. 91–524, title IV, § 410, Nov. 30, 1970, 84 Stat. 1367; Pub. L. 93–86, § 1(17), Aug. 10, 1973, 87 Stat. 230.)
+(Pub. L. 91–524, title IV, § 410, Nov. 30, 1970, 84 Stat. 1367; Pub. L. 93–86, § 1(17), Aug. 10, 1973, 87 Stat. 230.)
 
 **Editorial Notes**
 
@@ -2801,17 +2801,17 @@ Section was enacted as part of the Agricultural Act of 1970, and not as part of 
 
 1973—Pub. L. 93–86 substituted “1971 through 1977” for “1971, 1972, and 1973”.
 
-##### § 1334b. Designation of States outside commercial wheat-producing areas
+##### § 1334b. Designation of States outside commercial wheat-producing areas
 
 If the acreage allotment for any State for any crop of wheat is twenty-five thousand acres or less, the Secretary, in order to promote efficient administration of this chapter and the Agricultural Act of 1949 [7 U.S.C. 1421 et seq.], may designate such State as outside the commercial wheat-producing area for the marketing year for such crop. If such State is so designated, acreage allotments for such crop and marketing quotas for the marketing year therefor shall not be applicable to any farm in such State. Acreage allotments in any State shall not be increased by reason of such designation.
 
-(Feb. 16, 1938, ch. 30, title III, § 334a, as added Pub. L. 87–703, title III, § 314, Sept. 27, 1962, 76 Stat. 620.)
+(Feb. 16, 1938, ch. 30, title III, § 334a, as added Pub. L. 87–703, title III, § 314, Sept. 27, 1962, 76 Stat. 620.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2831,11 +2831,11 @@ Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, an
 
 Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub. L. 101–624, set out as a note under section 1331 of this title.
 
-##### § 1335. Small-farm exemption; small-farm base acreage; election; acreage allotment; land-use provisions; price support; wheat marketing certificates
+##### § 1335. Small-farm exemption; small-farm base acreage; election; acreage allotment; land-use provisions; price support; wheat marketing certificates
 
 Notwithstanding any other provision of this subpart, no farm marketing quota for any crop of wheat shall be applicable to any farm with a farm acreage allotment of less than fifteen acres if the acreage of such crop of wheat does not exceed the small-farm base acreage determined for the farm, unless the operator elects in writing on a form and within the time prescribed by the Secretary to be subject to the farm acreage allotment and marketing quota. The small-farm base acreage for a farm shall be the smaller of (A) the average acreage of the crop of wheat planted for harvest in the three years 1959, 1960, and 1961, or such later three-year period, excluding 1963, determined by the Secretary to be representative, with adjustments for abnormal weather conditions, established crop-rotation practices on the farm, and such other factors as the Secretary determines should be considered for the purpose of establishing a fair and equitable small-farm base acreage, or (B) fifteen acres. The acreage allotment for any farm shall be the larger of (1) the small-farm base acreage determined as provided above on the basis of the three-year period 1959–1961, reduced by the same percentage by which the national acreage allotment for the crop is reduced below fifty-five million acres, or (2) the acreage allotment determined without regard to (1) above. If the operator of any such farm fails to make such election with respect to any crop of wheat, (i) for the purposes of section 1340 of this title, the farm acreage allotment for such crop of wheat shall be deemed to be the larger of (A) the small-farm base acreage or (B) the acreage allotment for the farm, (ii) the land-use provisions of section 1339 of this title shall be inapplicable to the farm, (iii) such crop of wheat shall not be eligible for price support, and (iv) wheat marketing certificates applicable to such crop shall not be issued with respect to the farm. The additional acreage required to provide acreage allotments for farms based upon small-farm base acreages under this section shall be in addition to National, State, and county acreage allotments. This section shall not be applicable to the crops planted for harvest in 1967 and subsequent years.
 
-(Feb. 16, 1938, ch. 30, title III, § 335, 52 Stat. 54; July 26, 1939, ch. 379, 53 Stat. 1126; June 6, 1940, ch. 237, 54 Stat. 232; July 3, 1948, ch. 827, title II, §§ 204(a), 62 Stat. 1256; Aug. 28, 1954, ch. 1041, title III, § 309, 68 Stat. 903; Pub. L. 85–203, § 1, Aug. 28, 1957, 71 Stat. 477; Pub. L. 87–128, title I, § 122(e), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–703, title III, § 315, Sept. 27, 1962, 76 Stat. 621; Pub. L. 89–321, title V, § 501(8), Nov. 3, 1965, 79 Stat. 1201; Pub. L. 99–198, title III, § 305, Dec. 23, 1985, 99 Stat. 1380.)
+(Feb. 16, 1938, ch. 30, title III, § 335, 52 Stat. 54; July 26, 1939, ch. 379, 53 Stat. 1126; June 6, 1940, ch. 237, 54 Stat. 232; July 3, 1948, ch. 827, title II, §§ 204(a), 62 Stat. 1256; Aug. 28, 1954, ch. 1041, title III, § 309, 68 Stat. 903; Pub. L. 85–203, § 1, Aug. 28, 1957, 71 Stat. 477; Pub. L. 87–128, title I, § 122(e), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–703, title III, § 315, Sept. 27, 1962, 76 Stat. 621; Pub. L. 89–321, title V, § 501(8), Nov. 3, 1965, 79 Stat. 1201; Pub. L. 99–198, title III, § 305, Dec. 23, 1985, 99 Stat. 1380.)
 
 **Editorial Notes**
 
@@ -2851,9 +2851,9 @@ Notwithstanding any other provision of this subpart, no farm marketing quota for
 
 1957—Subsec. (f). Pub. L. 85–203 added subsec. (f).
 
-1954—Subsec. (a). Act Aug. 28, 1954, § 309(a), substituted “May 15” for “July 1”.
+1954—Subsec. (a). Act Aug. 28, 1954, § 309(a), substituted “May 15” for “July 1”.
 
-Subsec. (e). Act Aug. 28, 1954, § 309(b), added subsec. (e).
+Subsec. (e). Act Aug. 28, 1954, § 309(b), added subsec. (e).
 
 1948—Subsec. (a). Act July 3, 1948, changed conditions which must be determined by the Secretary to exist before marketing quotas can be imposed.
 
@@ -2863,7 +2863,7 @@ Subsec. (e). Act Aug. 28, 1954, § 309(b), added subsec. (e).
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title III, § 305, Dec. 23, 1985, 99 Stat. 1380, provided that the amendment made by Pub. L. 99–198 is effective only for the 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, § 305, Dec. 23, 1985, 99 Stat. 1380, provided that the amendment made by Pub. L. 99–198 is effective only for the 1987 through 1990 crops of wheat.
 
 **Effective Date of 1965 Amendment**
 
@@ -2875,7 +2875,7 @@ Amendment by Pub. L. 87–703 effective only with respect to programs applicable
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–128, title I, § 122(e), Aug. 8, 1961, 75 Stat. 297, provided that the amendment made by Pub. L. 87–128 is effective with the 1962 crop of wheat.
+Pub. L. 87–128, title I, § 122(e), Aug. 8, 1961, 75 Stat. 297, provided that the amendment made by Pub. L. 87–128 is effective with the 1962 crop of wheat.
 
 **Effective Date of 1948 Amendment**
 
@@ -2899,13 +2899,13 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
-##### § 1336. Referendum
+##### § 1336. Referendum
 
 If a national marketing quota for wheat for one, two, or three marketing years is proclaimed, the Secretary shall, not later than August 1 of the calendar year in which such national marketing quota is proclaimed, conduct a referendum, by secret ballot, of farmers to determine whether they favor or oppose marketing quotas for the marketing year or years for which proclaimed. Any producer who has a farm acreage allotment shall be eligible to vote in any referendum held pursuant to this section, except that a producer who has a farm acreage allotment of less than fifteen acres shall not be eligible to vote unless the farm operator elected pursuant to section 1335 of this title to be subject to the farm marketing quota. The Secretary shall proclaim the results of any referendum held hereunder within thirty days after the date of such referendum, and if the Secretary determines that more than one-third of the farmers voting in the referendum voted against marketing quotas, the Secretary shall proclaim that marketing quotas will not be in effect with respect to the crop of wheat produced for harvest in the calendar year following the calendar year in which the referendum is held. If the Secretary determines that two-thirds or more of the farmers voting in a referendum approve marketing quotas for a period of two or three marketing years, no referendum shall be held for the subsequent year or years of such period. Notwithstanding any other provision hereof, the referendum with respect to the national marketing quota for wheat for the marketing year beginning June 1, 1986, may be conducted not later than thirty-one days after December 20, 1985.
 
-(Feb. 16, 1938, ch. 30, title III, § 336, 52 Stat. 55; July 3, 1948, ch. 827, title II, § 204(b), 62 Stat. 1256; Pub. L. 87–104, July 25, 1961, 75 Stat. 220; Pub. L. 87–128, title I, § 122(f), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–540, July 19, 1962, 76 Stat. 170; Pub. L. 87–703, title III, § 316, Sept. 27, 1962, 76 Stat. 621; Pub. L. 88–297, title II, § 202(6), Apr. 11, 1964, 78 Stat. 179; Pub. L. 89–82, July 24, 1965, 79 Stat. 258; Pub. L. 91–348, July 23, 1970, 84 Stat. 448; Pub. L. 91–455, Oct. 15, 1970, 84 Stat. 969; Pub. L. 93–68, July 10, 1973, 87 Stat. 161; Pub. L. 95–48, June 17, 1977, 91 Stat. 229; Pub. L. 97–24, § 1, July 23, 1981, 95 Stat. 143; Pub. L. 97–62, Oct. 14, 1981, 95 Stat. 1010; Pub. L. 97–67, § 2, Oct. 20, 1981, 95 Stat. 1039; Pub. L. 97–77, § 2(b), Nov. 13, 1981, 95 Stat. 1069; Pub. L. 99–63, July 11, 1985, 99 Stat. 119; Pub. L. 99–198, title III, § 306, Dec. 23, 1985, 99 Stat. 1382.)
+(Feb. 16, 1938, ch. 30, title III, § 336, 52 Stat. 55; July 3, 1948, ch. 827, title II, § 204(b), 62 Stat. 1256; Pub. L. 87–104, July 25, 1961, 75 Stat. 220; Pub. L. 87–128, title I, § 122(f), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–540, July 19, 1962, 76 Stat. 170; Pub. L. 87–703, title III, § 316, Sept. 27, 1962, 76 Stat. 621; Pub. L. 88–297, title II, § 202(6), Apr. 11, 1964, 78 Stat. 179; Pub. L. 89–82, July 24, 1965, 79 Stat. 258; Pub. L. 91–348, July 23, 1970, 84 Stat. 448; Pub. L. 91–455, Oct. 15, 1970, 84 Stat. 969; Pub. L. 93–68, July 10, 1973, 87 Stat. 161; Pub. L. 95–48, June 17, 1977, 91 Stat. 229; Pub. L. 97–24, § 1, July 23, 1981, 95 Stat. 143; Pub. L. 97–62, Oct. 14, 1981, 95 Stat. 1010; Pub. L. 97–67, § 2, Oct. 20, 1981, 95 Stat. 1039; Pub. L. 97–77, § 2(b), Nov. 13, 1981, 95 Stat. 1069; Pub. L. 99–63, July 11, 1985, 99 Stat. 119; Pub. L. 99–198, title III, § 306, Dec. 23, 1985, 99 Stat. 1382.)
 
 **Editorial Notes**
 
@@ -2951,7 +2951,7 @@ Pub. L. 87–104 inserted provisions for conducting wheat marketing quota refere
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title III, § 306, Dec. 23, 1985, 99 Stat. 1382, provided that the amendment made by Pub. L. 99–198 is effective only for the 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, § 306, Dec. 23, 1985, 99 Stat. 1382, provided that the amendment made by Pub. L. 99–198 is effective only for the 1987 through 1990 crops of wheat.
 
 **Effective Date of 1962 Amendment**
 
@@ -2979,15 +2979,15 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
 **Date of Referendum for 1954 Crop**
 
-Act July 14, 1953, ch. 194, § 4(b), 67 Stat. 152, provided that the referendum with respect to 1954 crop of wheat could be held as late as Aug. 15, 1953.
+Act July 14, 1953, ch. 194, § 4(b), 67 Stat. 152, provided that the referendum with respect to 1954 crop of wheat could be held as late as Aug. 15, 1953.
 
-##### § 1337. Repealed. Pub. L. 87–703, title III, § 317, Sept. 27, 1962, 76 Stat. 622
+##### § 1337. Repealed. Pub. L. 87–703, title III, § 317, Sept. 27, 1962, 76 Stat. 622
 
-Section, act Feb. 16, 1938, ch. 30, title III, § 337, 52 Stat. 55, related to adjustment and suspension of quotas.
+Section, act Feb. 16, 1938, ch. 30, title III, § 337, 52 Stat. 55, related to adjustment and suspension of quotas.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2995,11 +2995,11 @@ Section, act Feb. 16, 1938, ch. 30, title III, § 337, 52 Stat. 55, related to
 
 Repeal effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
 
-##### § 1338. Transfer of quotas
+##### § 1338. Transfer of quotas
 
 Farm marketing quotas for wheat shall not be transferable, but, in accordance with regulations prescribed by the Secretary for such purpose, any farm marketing quota in excess of the supply of wheat for such farm for any marketing year may be allocated to other farms on which the acreage allotment has not been exceeded.
 
-(Feb. 16, 1938, ch. 30, title III, § 338, 52 Stat. 55; Pub. L. 99–198, title III, § 307, Dec. 23, 1985, 99 Stat. 1382.)
+(Feb. 16, 1938, ch. 30, title III, § 338, 52 Stat. 55; Pub. L. 99–198, title III, § 307, Dec. 23, 1985, 99 Stat. 1382.)
 
 **Editorial Notes**
 
@@ -3011,7 +3011,7 @@ Farm marketing quotas for wheat shall not be transferable, but, in accordance wi
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title III, § 307, Dec. 23, 1985, 99 Stat. 1382, provided that the amendment made by Pub. L. 99–198 is effective only for the 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, § 307, Dec. 23, 1985, 99 Stat. 1382, provided that the amendment made by Pub. L. 99–198 is effective only for the 1987 through 1990 crops of wheat.
 
 **Inapplicability of Section**
 
@@ -3031,9 +3031,9 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
-##### § 1339. Land use
+##### § 1339. Land use
 
 **(a) Penalties: computation, lien, joint and several liability and interest; exceptions: nonsurplus supply crops, substantial impairment, and nonproduction of wheat; diverted acreage: amount, annual identity, and grazing; crops available for marketing**
 
@@ -3071,29 +3071,29 @@ The Secretary is authorized to promulgate such regulations as may be desirable t
 
 The Commodity Credit Corporation is authorized to utilize its capital funds and other assets for the purpose of making the payments authorized in this section and to pay administrative expenses necessary in carrying out this section during the period ending June 30, 1965. There is authorized to be appropriated such amounts as may be necessary thereafter to pay such administrative expenses.
 
-(Feb. 16, 1938, ch. 30, title III, § 339, as added Pub. L. 87–703, title III, § 318, Sept. 27, 1962, 76 Stat. 622; amended Pub. L. 88–297, title II, § 202(7)–(9), Apr. 11, 1964, 78 Stat. 179; Pub. L. 89–321, title V, §§ 501(9), (10), 507, Nov. 3, 1965, 79 Stat. 1201, 1204; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996.)
+(Feb. 16, 1938, ch. 30, title III, § 339, as added Pub. L. 87–703, title III, § 318, Sept. 27, 1962, 76 Stat. 622; amended Pub. L. 88–297, title II, § 202(7)–(9), Apr. 11, 1964, 78 Stat. 179; Pub. L. 89–321, title V, §§ 501(9), (10), 507, Nov. 3, 1965, 79 Stat. 1201, 1204; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1339, act Feb. 16, 1938, ch. 30, title III, § 339, 52 Stat. 55, related to penalties for marketing wheat in excess of quotas, prior to repeal by act July 14, 1953, ch. 194, §§ 2, 5, 67 Stat. 151, 152, effective with respect to the 1954 and subsequent crops of wheat. See section 1340(2) of this title.
+A prior section 1339, act Feb. 16, 1938, ch. 30, title III, § 339, 52 Stat. 55, related to penalties for marketing wheat in excess of quotas, prior to repeal by act July 14, 1953, ch. 194, §§ 2, 5, 67 Stat. 151, 152, effective with respect to the 1954 and subsequent crops of wheat. See section 1340(2) of this title.
 
 **Amendments**
 
 1968—Subsec. (b). Pub. L. 90–559 provided for a one year extension through 1970.
 
-1965—Subsec. (a)(1). Pub. L. 89–321, § 507, inserted “(less an acreage equal to the increased acreage allotted for 1966 pursuant to section 1335 of this title)” after “national acreage allotment” wherever appearing.
+1965—Subsec. (a)(1). Pub. L. 89–321, § 507, inserted “(less an acreage equal to the increased acreage allotted for 1966 pursuant to section 1335 of this title)” after “national acreage allotment” wherever appearing.
 
-Subsec. (b). Pub. L. 89–321, § 501(9), substituted “crops of wheat planted for harvest in the calendar years 1964 through 1969” for “1964 and 1965 crops of wheat”, “50 per centum of the farm acreage allotment” for “20 per centum of the farm acreage allotment”, and “twenty-five acres” for “fifteen acres”.
+Subsec. (b). Pub. L. 89–321, § 501(9), substituted “crops of wheat planted for harvest in the calendar years 1964 through 1969” for “1964 and 1965 crops of wheat”, “50 per centum of the farm acreage allotment” for “20 per centum of the farm acreage allotment”, and “twenty-five acres” for “fifteen acres”.
 
-Subsec. (e). Pub. L. 89–321, § 501(10), authorized Secretary to permit all or part of diverted acreage to be devoted to mustardseed, crambe, and plantago ovato in addition to previously authorized guar, sesame, safflower, sunflower, castor beans, and flax, if he determines that such production of the commodity is needed, is not likely to increase cost of price-support program, and will not adversely affect farm income, and removed from proviso the prohibition against making available price supports for production of such crops on diverted acreage.
+Subsec. (e). Pub. L. 89–321, § 501(10), authorized Secretary to permit all or part of diverted acreage to be devoted to mustardseed, crambe, and plantago ovato in addition to previously authorized guar, sesame, safflower, sunflower, castor beans, and flax, if he determines that such production of the commodity is needed, is not likely to increase cost of price-support program, and will not adversely affect farm income, and removed from proviso the prohibition against making available price supports for production of such crops on diverted acreage.
 
-1964—Subsec. (a)(1). Pub. L. 88–297, § 202(7), temporarily suspended land-use penalties and made the diversion of land from the production of wheat only a condition of eligibility for receiving wheat marketing certificates. See Effective and Termination Dates of 1964 Amendment note below.
+1964—Subsec. (a)(1). Pub. L. 88–297, § 202(7), temporarily suspended land-use penalties and made the diversion of land from the production of wheat only a condition of eligibility for receiving wheat marketing certificates. See Effective and Termination Dates of 1964 Amendment note below.
 
-Subsec. (b). Pub. L. 88–297, § 202(8), inserted in first sentence “for wheat not accompanied by marketing certificates” after “basic county support rate” and inserted after first sentence “Any producer who complies with his 1964 farm acreage allotment for wheat and with the other requirements of the program shall be eligible to receive payments under the program for the 1964 crop of wheat.”
+Subsec. (b). Pub. L. 88–297, § 202(8), inserted in first sentence “for wheat not accompanied by marketing certificates” after “basic county support rate” and inserted after first sentence “Any producer who complies with his 1964 farm acreage allotment for wheat and with the other requirements of the program shall be eligible to receive payments under the program for the 1964 crop of wheat.”
 
-Subsec. (h). Pub. L. 88–297, § 202(9), substituted “June 30, 1965” for “June 30, 1963”.
+Subsec. (h). Pub. L. 88–297, § 202(9), substituted “June 30, 1965” for “June 30, 1963”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3101,11 +3101,11 @@ Subsec. (h). Pub. L. 88–297, § 202(9), substituted “June 30, 1965” for 
 
 Amendment by section 501 of Pub. L. 89–321 effective beginning with crop planted for harvest in calendar year 1966, see section 501 of Pub. L. 89–321, set out as a note under section 1332 of this title.
 
-Pub. L. 89–321, title V, § 507, Nov. 3, 1965, 79 Stat. 1204, provided that the amendment made by that section is effective beginning with the crop planted for harvest in calendar year 1967.
+Pub. L. 89–321, title V, § 507, Nov. 3, 1965, 79 Stat. 1204, provided that the amendment made by that section is effective beginning with the crop planted for harvest in calendar year 1967.
 
 **Effective and Termination Dates of 1964 Amendment**
 
-Pub. L. 88–297, title II, § 202(7), Apr. 11, 1964, 78 Stat. 179, as amended by Pub. L. 89–321, title V, § 505(1), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 202(7) of Pub. L. 88–297 is effective only with respect to the crops planted for harvest in calendar years 1964 through 1970.
+Pub. L. 88–297, title II, § 202(7), Apr. 11, 1964, 78 Stat. 179, as amended by Pub. L. 89–321, title V, § 505(1), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 202(7) of Pub. L. 88–297 is effective only with respect to the crops planted for harvest in calendar years 1964 through 1970.
 
 **Effective Date**
 
@@ -3129,21 +3129,21 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, § 1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
 **Wheat Diversion Programs; Credits in Establishment of State, County and Farm Acreage Allotments for Wheat**
 
 Credits to State, county and farm of acreage diverted from production of wheat as though actually devoted to such production, see section 1339b of this title.
 
-##### § 1339a. Repealed. Pub. L. 107–171, title I, § 1613(j)(1), May 13, 2002, 116 Stat. 221
+##### § 1339a. Repealed. Pub. L. 107–171, title I, § 1613(j)(1), May 13, 2002, 116 Stat. 221
 
-Section, Pub. L. 87–703, title III, § 326, Sept. 27, 1962, 76 Stat. 631; Pub. L. 88–26, § 4, May 20, 1963, 77 Stat. 47; Pub. L. 89–321, title III, § 303, Nov. 3, 1965, 79 Stat. 1192; Pub. L. 101–624, title XI, § 1132(c), Nov. 28, 1990, 104 Stat. 3515; Pub. L. 102–237, title I, § 118(d), Dec. 13, 1991, 105 Stat. 1842, related to good faith reliance.
+Section, Pub. L. 87–703, title III, § 326, Sept. 27, 1962, 76 Stat. 631; Pub. L. 88–26, § 4, May 20, 1963, 77 Stat. 47; Pub. L. 89–321, title III, § 303, Nov. 3, 1965, 79 Stat. 1192; Pub. L. 101–624, title XI, § 1132(c), Nov. 28, 1990, 104 Stat. 3515; Pub. L. 102–237, title I, § 118(d), Dec. 13, 1991, 105 Stat. 1842, related to good faith reliance.
 
-##### § 1339b. Wheat diversion programs; credits in establishment of State, county and farm acreage allotments for wheat
+##### § 1339b. Wheat diversion programs; credits in establishment of State, county and farm acreage allotments for wheat
 
 In the establishment of State, county, and farm acreage allotments for wheat under the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1281 et seq.], the acreage which is determined under regulations of the Secretary to have been diverted from the production of wheat under the special programs formulated pursuant to section 307 of this Act, section 339 of the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1339], and section 124 of the Agricultural Act of 1961, shall be credited to the State, county, and farm as though such acreage had actually been devoted to the production of wheat.
 
-(Pub. L. 87–703, title III, § 327, Sept. 27, 1962, 76 Stat. 631.)
+(Pub. L. 87–703, title III, § 327, Sept. 27, 1962, 76 Stat. 631.)
 
 **Editorial Notes**
 
@@ -3157,11 +3157,11 @@ Section 307 of this Act and section 124 of the Agricultural Act of 1961, referre
 
 Section was enacted as part of the Food and Agriculture Act of 1962, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
-##### § 1339c. Feed grains diversion programs for 1964 and subsequent years; feed grain acreage considered wheat acreage and wheat acreage considered feed grain acreage
+##### § 1339c. Feed grains diversion programs for 1964 and subsequent years; feed grain acreage considered wheat acreage and wheat acreage considered feed grain acreage
 
 Effective with the 1964 crop, during any year in which an acreage diversion program is in effect for feed grains, the Secretary shall, notwithstanding any other provision of law, permit producers of feed grains to have acreage devoted to the production of feed grains considered as devoted to the production of wheat and producers of wheat to have acreage devoted to the production of wheat considered as devoted to the production of feed grains to such extent and subject to such terms and conditions as the Secretary determines will not impair the effective operation of the program for feed grains or wheat. In establishing terms and conditions for permitting wheat to be planted in lieu of oats and rye, the Secretary may take into account the number of feed units per acre of wheat in relation to the number of feed units per acre of oats and rye.
 
-(Pub. L. 87–703, title III, § 328, Sept. 27, 1962, 76 Stat. 631; Pub. L. 89–321, title V, § 514, Nov. 3, 1965, 79 Stat. 1206.)
+(Pub. L. 87–703, title III, § 328, Sept. 27, 1962, 76 Stat. 631; Pub. L. 89–321, title V, § 514, Nov. 3, 1965, 79 Stat. 1206.)
 
 **Editorial Notes**
 
@@ -3173,7 +3173,7 @@ Effective with the 1964 crop, during any year in which an acreage diversion prog
 
 Section was enacted as part of the Food and Agriculture Act of 1962, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
-##### § 1339d. Hay production on set-aside or diverted acreage; storage; emergency use; loans
+##### § 1339d. Hay production on set-aside or diverted acreage; storage; emergency use; loans
 
 **(a)** Notwithstanding any other provision of law, the Secretary shall permit any producer who is participating in the wheat program under title IV of this Act, in the feed grain program under title V of this Act, or in the cotton program under title VI of this Act, in any year in which an acreage diversion or set-aside program is in effect, under any such program in which such producer is participating, subject to the conditions prescribed in subsection (b) of this section, to plant and harvest hay from 25 per centum of the acreage on the farm diverted from production under such programs or twenty-five acres, whichever is greater.
 
@@ -3185,7 +3185,7 @@ Section was enacted as part of the Food and Agriculture Act of 1962, and not as 
 
 **(e)** The Secretary of Agriculture is authorized to make or guarantee loans to farmers, both tenants and landowners, to assist such farmers in the construction of storage facilities on the farm for the storage of emergency hay pursuant to the provisions of this section if such farmers are unable to obtain loans from commercial sources at reasonable rates and on reasonable terms and conditions. Loans made by the Secretary under this subsection shall be made at the current rate of interest for periods not exceeding ten years, and on such other terms and conditions as the Secretary may prescribe.
 
-(Pub. L. 91–524, title VIII, § 805, Nov. 30, 1970, 84 Stat. 1382.)
+(Pub. L. 91–524, title VIII, § 805, Nov. 30, 1970, 84 Stat. 1382.)
 
 **Editorial Notes**
 
@@ -3197,7 +3197,7 @@ The wheat program under title IV of this Act, the feed grain program under title
 
 Section was enacted as part of the Agricultural Act of 1970, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
-##### § 1340. Supplemental provisions relating to wheat marketing quotas; marketing penalty for rice; crop loans on cotton, wheat, rice, tobacco, and peanuts
+##### § 1340. Supplemental provisions relating to wheat marketing quotas; marketing penalty for rice; crop loans on cotton, wheat, rice, tobacco, and peanuts
 
 Notwithstanding the provisions of the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1281 et seq.] (hereinafter referred to as the Act)—
 
@@ -3225,7 +3225,7 @@ Notwithstanding the provisions of the Agricultural Adjustment Act of 1938, as am
 
 **(12)** If marketing quotas for wheat are not in effect for any marketing year, all previous marketing quotas applicable to wheat shall be terminated, effective as of the first day of such marketing year. Such termination shall not abate any penalty previously incurred by a producer or relieve any buyer of the duty to remit penalties previously collected by him.
 
-(May 26, 1941, ch. 133, 55 Stat. 203; Dec. 26, 1941, ch. 626, § 2, 55 Stat. 860; Dec. 26, 1941, ch. 636, 55 Stat. 872; Aug. 29, 1949, ch. 518, § 3(b), 63 Stat. 676; July 14, 1953, ch. 194, § 3, 67 Stat. 151; Aug. 28, 1954, ch. 1041, title III, § 313, 68 Stat. 905; Pub. L. 87–128, title I, § 122(d), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–703, title III, §§ 309, 319, Sept. 27, 1962, 76 Stat. 618, 624; Pub. L. 87–801, Oct. 11, 1962, 76 Stat. 909; Pub. L. 89–321, title V, § 511(b), Nov. 3, 1965, 79 Stat. 1205.)
+(May 26, 1941, ch. 133, 55 Stat. 203; Dec. 26, 1941, ch. 626, § 2, 55 Stat. 860; Dec. 26, 1941, ch. 636, 55 Stat. 872; Aug. 29, 1949, ch. 518, § 3(b), 63 Stat. 676; July 14, 1953, ch. 194, § 3, 67 Stat. 151; Aug. 28, 1954, ch. 1041, title III, § 313, 68 Stat. 905; Pub. L. 87–128, title I, § 122(d), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–703, title III, §§ 309, 319, Sept. 27, 1962, 76 Stat. 618, 624; Pub. L. 87–801, Oct. 11, 1962, 76 Stat. 909; Pub. L. 89–321, title V, § 511(b), Nov. 3, 1965, 79 Stat. 1205.)
 
 **Editorial Notes**
 
@@ -3233,11 +3233,11 @@ Notwithstanding the provisions of the Agricultural Adjustment Act of 1938, as am
 
 The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-Section 302 of the Act, referred to in par. (8), which was classified to section 1302 of this title, was repealed by act Oct. 31, 1949, ch. 792, title IV, § 414, 63 Stat. 1057.
+Section 302 of the Act, referred to in par. (8), which was classified to section 1302 of this title, was repealed by act Oct. 31, 1949, ch. 792, title IV, § 414, 63 Stat. 1057.
 
-Section 323(b) of the Act, referred to in par. (10), which was classified to section 1323(b) of this title, was repealed by act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902, and had provided that no farm marketing quota with respect to any crop of corn shall be applicable to any farm on which the normal production of the acreage planted to corn is less than 300 bushels.
+Section 323(b) of the Act, referred to in par. (10), which was classified to section 1323(b) of this title, was repealed by act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902, and had provided that no farm marketing quota with respect to any crop of corn shall be applicable to any farm on which the normal production of the acreage planted to corn is less than 300 bushels.
 
-Section 335(d) of the Act, referred to in par. (10), which was classified to section 1335(d) of this title, was repealed by Pub. L. 87–129, title I, § 122(e), Aug. 8, 1961, 75 Stat. 297, and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
+Section 335(d) of the Act, referred to in par. (10), which was classified to section 1335(d) of this title, was repealed by Pub. L. 87–129, title I, § 122(e), Aug. 8, 1961, 75 Stat. 297, and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
 
 **Codification**
 
@@ -3249,23 +3249,23 @@ Par. (9), which directed the Commodity Credit Corporation to make loans upon the
 
 1965—Par. (1). Pub. L. 89–321 substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”.
 
-1962—Par. (1). Pub. L. 87–703, § 319(1), substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proof by the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
+1962—Par. (1). Pub. L. 87–703, § 319(1), substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proof by the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
 
-Par. (2). Pub. L. 87–703, § 319(2), increased from 45 to 65 per centum the rate of penalty on farm marketing excess and provided for joint and several liability for such penalty.
+Par. (2). Pub. L. 87–703, § 319(2), increased from 45 to 65 per centum the rate of penalty on farm marketing excess and provided for joint and several liability for such penalty.
 
-Par. (3). Pub. L. 87–703, § 319(3), required computation of the farm marketing excess initially upon twice the normal yield and eliminated reference to corn. Act Aug. 28, 1954, had made the section in applicable to corn.
+Par. (3). Pub. L. 87–703, § 319(3), required computation of the farm marketing excess initially upon twice the normal yield and eliminated reference to corn. Act Aug. 28, 1954, had made the section in applicable to corn.
 
-Par. (4). Pub. L. 87–703, § 319(4), inserted “and any subsequent crop of wheat subject to marketing quotas in which the producer has an interest” after “produced on the farm” and struck out reference to corn. Act Aug. 28, 1954, had made the section inapplicable to corn.
+Par. (4). Pub. L. 87–703, § 319(4), inserted “and any subsequent crop of wheat subject to marketing quotas in which the producer has an interest” after “produced on the farm” and struck out reference to corn. Act Aug. 28, 1954, had made the section inapplicable to corn.
 
-Pars. (5), (6). Pub. L. 87–703, § 319(5), (6), struck out reference to corn. Act Aug. 28, 1954, had made section inapplicable to corn.
+Pars. (5), (6). Pub. L. 87–703, § 319(5), (6), struck out reference to corn. Act Aug. 28, 1954, had made section inapplicable to corn.
 
-Par. (7). Pub. L. 87–703, § 319(7), (8), redesignated par. (8) as (7), and inserted provision for joint and several liability for penalty and struck out reference to corn, respectively. Act Aug. 28, 1954, had made section inapplicable to corn. Provisions of former par. (7), which provided a 15-acre exemption but provided for a farm marketing quota on 1962 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 13.5 acres, or (2) of the highest number of acres actually planted to, wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961 and provisions of former par. (7), added by Pub. L. 87–703, § 309, which provided for a farm marketing quota on 1963 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 15 acres, or (2) the highest number of acres actually planted to wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961, or 1963 (provided by Pub. L. 87–801), were repealed by such section 319(7) and are covered by section 1335 of this title.
+Par. (7). Pub. L. 87–703, § 319(7), (8), redesignated par. (8) as (7), and inserted provision for joint and several liability for penalty and struck out reference to corn, respectively. Act Aug. 28, 1954, had made section inapplicable to corn. Provisions of former par. (7), which provided a 15-acre exemption but provided for a farm marketing quota on 1962 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 13.5 acres, or (2) of the highest number of acres actually planted to, wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961 and provisions of former par. (7), added by Pub. L. 87–703, § 309, which provided for a farm marketing quota on 1963 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 15 acres, or (2) the highest number of acres actually planted to wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961, or 1963 (provided by Pub. L. 87–801), were repealed by such section 319(7) and are covered by section 1335 of this title.
 
-Pars. (8) to (10). Pub. L. 87–703, § 319(7), redesignated pars. (9) to (11) as (8) to (10). Former par. (8) redesignated (7).
+Pars. (8) to (10). Pub. L. 87–703, § 319(7), redesignated pars. (9) to (11) as (8) to (10). Former par. (8) redesignated (7).
 
-Par. (11). Pub. L. 87–703, § 319(9), added par. (11). Former par. (11) redesignated (10).
+Par. (11). Pub. L. 87–703, § 319(9), added par. (11). Former par. (11) redesignated (10).
 
-Par. (12). Pub. L. 87–703, § 319(9), added par. (12). Former par. (12), which limited farm marketing excess for any crop of wheat and provided for return to producer of difference between amount of penalty or storage as computed upon farm marketing excess before adjustment and as computed upon adjusted farm marketing excess, where a downward adjustment in amount of farm marketing excess was made, was repealed by such section 319(9).
+Par. (12). Pub. L. 87–703, § 319(9), added par. (12). Former par. (12), which limited farm marketing excess for any crop of wheat and provided for return to producer of difference between amount of penalty or storage as computed upon farm marketing excess before adjustment and as computed upon adjusted farm marketing excess, where a downward adjustment in amount of farm marketing excess was made, was repealed by such section 319(9).
 
 1961—Par. (7). Pub. L. 87–128 authorized Secretary to prescribe regulations relating to the exemption of farms from marketing quotas on any crop of wheat, specified the exemption for the 1962 crop and eliminated marketing penalty provisions relating to nonallotment farms under the Soil Conservation and Domestic Allotment Act.
 
@@ -3299,29 +3299,29 @@ Section inapplicable to crops of wheat planted for harvest in calendar years 200
 
 Section inapplicable to crops of wheat planted for harvest in calendar years 1996 through 2002, see section 7301(c) of this title.
 
-Pub. L. 101–624, title III, § 304, Nov. 28, 1990, 104 Stat. 3400, provided that: “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 (7 U.S.C. 1330 and 1340) shall not be applicable to the crops of wheat planted for harvest in the calendar years 1991 through 1995.”
+Pub. L. 101–624, title III, § 304, Nov. 28, 1990, 104 Stat. 3400, provided that: “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 (7 U.S.C. 1330 and 1340) shall not be applicable to the crops of wheat planted for harvest in the calendar years 1991 through 1995.”
 
-Pub. L. 99–198, title III, § 311, Dec. 23, 1985, 99 Stat. 1395, provided that: “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 1986 through 1990.”
+Pub. L. 99–198, title III, § 311, Dec. 23, 1985, 99 Stat. 1395, provided that: “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 1986 through 1990.”
 
-Pub. L. 97–98, title III, § 304, Dec. 22, 1981, 95 Stat. 1227, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) [this section] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1982 through 1985.”
+Pub. L. 97–98, title III, § 304, Dec. 22, 1981, 95 Stat. 1227, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) [this section] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1982 through 1985.”
 
-Pub. L. 95–113, title IV, § 406, Sept. 29, 1977, 91 Stat. 927, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) [this section] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1978 through 1981.”
+Pub. L. 95–113, title IV, § 406, Sept. 29, 1977, 91 Stat. 927, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) [this section] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1978 through 1981.”
 
-Pub. L. 91–524, title IV, § 406, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, § 1(13), Aug. 10, 1973, 87 Stat. 229, provided that: “Public Law 74, Seventy-seventh Congress (68 Stat. 905) [this section], shall not be applicable to the crops of wheat planted for harvest in the calendar years 1971 through 1977.”
+Pub. L. 91–524, title IV, § 406, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, § 1(13), Aug. 10, 1973, 87 Stat. 229, provided that: “Public Law 74, Seventy-seventh Congress (68 Stat. 905) [this section], shall not be applicable to the crops of wheat planted for harvest in the calendar years 1971 through 1977.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### subpart iv—marketing quotas—cotton
 
-##### § 1341. Legislative findings
+##### § 1341. Legislative findings
 
 American cotton is a basic source of clothing and industrial products used by every person in the United States and by substantial numbers of people in foreign countries. American cotton is sold on a world-wide market and moves from the places of production almost entirely in interstate and foreign commerce to processing establishments located throughout the world at places outside the State where the cotton is produced.
 
@@ -3333,7 +3333,7 @@ It is in the interest of the general welfare that interstate and foreign commerc
 
 The provisions of this subpart affording a cooperative plan to cotton producers are necessary and appropriate to prevent the burdens on interstate and foreign commerce caused by the marketing in such commerce of excessive supplies, and to promote, foster, and maintain an orderly flow of an adequate supply of cotton in such commerce.
 
-(Feb. 16, 1938, ch. 30, title III, § 341, 52 Stat. 55.)
+(Feb. 16, 1938, ch. 30, title III, § 341, 52 Stat. 55.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3351,19 +3351,19 @@ Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, an
 
 Joint Res. July 24, 1946, ch. 616, 60 Stat. 662, suspended marketing quotas and acreage allotments for 1947 in view of the critical shortage of fats and oils and protein feeds.
 
-##### § 1342. National marketing quota; proclamation; amount; date of proclamation
+##### § 1342. National marketing quota; proclamation; amount; date of proclamation
 
 Whenever during any calendar year the Secretary determines that the total supply of cotton for the marketing year beginning in such calendar year will exceed the normal supply for such marketing year, the Secretary shall proclaim such fact and a national marketing quota shall be in effect for the crop of cotton produced in the next calendar year. The Secretary shall also determine and specify in such proclamation the amount of the national marketing quota in terms of the number of bales of cotton (standard bales of five hundred pounds gross weight) adequate, together with (1) the estimated carry-over at the beginning of the marketing year which begins in the next calendar year and (2) the estimated imports during such marketing year, to make available a normal supply of cotton: *Provided*, That beginning with the 1961 crop, the national marketing quota shall be not less than a number of bales equal to the estimated domestic consumption and estimated exports (less estimated imports) for the marketing year for which the quota is proclaimed, except that the Secretary shall make such adjustment in the amount of such quota as he determines necessary after taking into consideration the estimated stocks of cotton in the United States (including the qualities of such stocks) and stocks in foreign countries which would be available for the marketing year for which the quota is being proclaimed if no adjustment of such quota is made hereunder, to assure the maintenance of adequate but not excessive stocks in the United States to provide a continuous and stable supply of the different qualities of cotton needed in the United States and in foreign cotton consuming countries, and for purposes of national security; but the Secretary, in making such adjustments, may not reduce the national marketing quota for any year below (i) one million bales less than the estimated domestic consumption and estimated exports for the marketing year for which such quota is being proclaimed, or (ii) ten million bales, whichever is larger. Such proclamation shall be made not later than October 15 of the calendar year in which such determination is made. Notwithstanding the foregoing provisions of this section, the national marketing quota for cotton for 1957 and 1958 shall be not less than the number of bales required to provide a national acreage allotment for 1957 and 1958 equal to the national acreage allotment for 1956: *Provided*, That if the acreage allotment for any State for 1957 or 1958 is less than its allotment for the preceding year by more than 1 per centum, such State allotment shall be increased so that the reduction shall not exceed 1 per centum per annum, and the acreage required for such increase shall be in addition to the national acreage allotment for such year. Additional acreage apportioned to a State for 1957 or 1958 under the foregoing proviso shall not be taken into account in establishing future State allotments. Notwithstanding any other provision of this chapter, the national marketing quota for upland cotton for 1959 and subsequent years shall be not less than the number of bales required to provide a national acreage allotment for each such year of sixteen million acres.
 
-(Feb. 16, 1938, ch. 30, title III, § 342, 52 Stat. 56; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670; May 28, 1956, ch. 327, title III, § 302, 70 Stat. 203; Pub. L. 85–835, title I, § 103(1), (2), Aug. 28, 1958, 72 Stat. 989, 990.)
+(Feb. 16, 1938, ch. 30, title III, § 342, 52 Stat. 56; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670; May 28, 1956, ch. 327, title III, § 302, 70 Stat. 203; Pub. L. 85–835, title I, § 103(1), (2), Aug. 28, 1958, 72 Stat. 989, 990.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1958—Pub. L. 85–835, § 103(1), substituted proviso prescribing, beginning with the 1961 crop, a minimum national marketing quota for cotton equal to estimated domestic consumption and exports less imports subject to adjustment assuring maintenance of adequate but not excessive stocks, the adjustment not to reduce the national marketing quota for any year below the larger of (1) estimated domestic consumption and exports less one million bales or (2) ten million bales, for provisions prescribing for a national marketing quota not less than the smaller of ten million bales or one million bales less than estimated domestic consumption plus exports and providing for 1950 a national marketing quota based on a twenty-one million national acreage allotment.
+1958—Pub. L. 85–835, § 103(1), substituted proviso prescribing, beginning with the 1961 crop, a minimum national marketing quota for cotton equal to estimated domestic consumption and exports less imports subject to adjustment assuring maintenance of adequate but not excessive stocks, the adjustment not to reduce the national marketing quota for any year below the larger of (1) estimated domestic consumption and exports less one million bales or (2) ten million bales, for provisions prescribing for a national marketing quota not less than the smaller of ten million bales or one million bales less than estimated domestic consumption plus exports and providing for 1950 a national marketing quota based on a twenty-one million national acreage allotment.
 
-Pub. L. 85–835, § 103(2), provided for a national marketing quota for upland cotton for 1959 and subsequent years based on a sixteen million national acreage allotment.
+Pub. L. 85–835, § 103(2), provided for a national marketing quota for upland cotton for 1959 and subsequent years based on a sixteen million national acreage allotment.
 
 1956—Act May 28, 1956, provided that national marketing quota for cotton for 1957 and 1958 shall not be less than the number of bales required to provide a national acreage allotment for 1957 and 1958 equal to national acreage allotment for 1956.
 
@@ -3381,39 +3381,39 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-Pub. L. 101–624, title V, § 502, Nov. 28, 1990, 104 Stat. 3440, provided that: “Sections 342, 343, 344, 345, 346, and 377 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1342–1346 and 1377) shall not be applicable to any of the 1991 through 1995 crops of upland cotton.”
+Pub. L. 101–624, title V, § 502, Nov. 28, 1990, 104 Stat. 3440, provided that: “Sections 342, 343, 344, 345, 346, and 377 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1342–1346 and 1377) shall not be applicable to any of the 1991 through 1995 crops of upland cotton.”
 
-Pub. L. 99–198, title V, § 502, Dec. 23, 1985, 99 Stat. 1418, provided that: “Sections 342, 343, 344, 345, 346, and 377 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1342–1346 and 1377) [7 U.S.C. 1342, 1343, 1344, 1345, 1346, and 1377] shall not be applicable to any of the 1986 through 1990 crops of upland cotton.”
+Pub. L. 99–198, title V, § 502, Dec. 23, 1985, 99 Stat. 1418, provided that: “Sections 342, 343, 344, 345, 346, and 377 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1342–1346 and 1377) [7 U.S.C. 1342, 1343, 1344, 1345, 1346, and 1377] shall not be applicable to any of the 1986 through 1990 crops of upland cotton.”
 
-Pub. L. 98–88, § 3, Aug. 26, 1983, 97 Stat. 494, provided that: “Sections 342, 343, 344, 344a, 345, 346, and 377 of the Agricultural Adjustment Act of 1938, as amended [sections 1342, 1343, 1344, 1344b, 1345, 1346, and 1377 of this title], shall not be applicable to the 1984 and subsequent crops of extra long staple cotton.”
+Pub. L. 98–88, § 3, Aug. 26, 1983, 97 Stat. 494, provided that: “Sections 342, 343, 344, 344a, 345, 346, and 377 of the Agricultural Adjustment Act of 1938, as amended [sections 1342, 1343, 1344, 1344b, 1345, 1346, and 1377 of this title], shall not be applicable to the 1984 and subsequent crops of extra long staple cotton.”
 
-Pub. L. 97–98, title V, § 501, Dec. 22, 1981, 95 Stat. 1234, provided that: “Sections 342, 343, 344, 345, 346, and 377 of the Agricultural Adjustment Act of 1938 [sections 1342, 1343, 1344, 1345, 1346, and 1377 of this title] shall not be applicable to upland cotton of the 1982 through 1985 crops.”
+Pub. L. 97–98, title V, § 501, Dec. 22, 1981, 95 Stat. 1234, provided that: “Sections 342, 343, 344, 345, 346, and 377 of the Agricultural Adjustment Act of 1938 [sections 1342, 1343, 1344, 1345, 1346, and 1377 of this title] shall not be applicable to upland cotton of the 1982 through 1985 crops.”
 
-Pub. L. 95–113, title VI, § 601, Sept. 29, 1977, 91 Stat. 933, provided that: “Sections 342, 343, 344, 345, 346, and 377 of the Agricultural Adjustment Act of 1938, as amended [sections 1342, 1343, 1344, 1345, 1346, and 1377 of this title], shall not be applicable to upland cotton of the 1978 through 1981 crops.”
+Pub. L. 95–113, title VI, § 601, Sept. 29, 1977, 91 Stat. 933, provided that: “Sections 342, 343, 344, 345, 346, and 377 of the Agricultural Adjustment Act of 1938, as amended [sections 1342, 1343, 1344, 1345, 1346, and 1377 of this title], shall not be applicable to upland cotton of the 1978 through 1981 crops.”
 
-Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section shall not be applicable to upland cotton of 1971 through 1977 crops.
+Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section shall not be applicable to upland cotton of 1971 through 1977 crops.
 
 **Preliminary Allotments for 1996 Crop of Upland Cotton**
 
-Pub. L. 101–624, title V, § 505, Nov. 28, 1990, 104 Stat. 3440, provided that: “Notwithstanding any other provision of law, the permanent State, county, and farm base acreage allotments for the 1977 crop of upland cotton, adjusted for any underplantings in 1977 and reconstituted as provided in section 379 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379), shall be the preliminary allotments for the 1996 crop.”
+Pub. L. 101–624, title V, § 505, Nov. 28, 1990, 104 Stat. 3440, provided that: “Notwithstanding any other provision of law, the permanent State, county, and farm base acreage allotments for the 1977 crop of upland cotton, adjusted for any underplantings in 1977 and reconstituted as provided in section 379 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379), shall be the preliminary allotments for the 1996 crop.”
 
 **Preliminary Allotments for 1991 Crop of Upland Cotton**
 
-Pub. L. 99–198, title V, § 506, Dec. 23, 1985, 99 Stat. 1418, provided that: “Notwithstanding any other provision of law, the permanent State, county, and farm base acreage allotments for the 1977 crop of upland cotton, adjusted for any underplantings in 1977 and reconstituted as provided in section 379 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379), shall be the preliminary allotments for the 1991 crop.”
+Pub. L. 99–198, title V, § 506, Dec. 23, 1985, 99 Stat. 1418, provided that: “Notwithstanding any other provision of law, the permanent State, county, and farm base acreage allotments for the 1977 crop of upland cotton, adjusted for any underplantings in 1977 and reconstituted as provided in section 379 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379), shall be the preliminary allotments for the 1991 crop.”
 
 **Preliminary Allotments for 1986 Crop of Upland Cotton**
 
-Pub. L. 97–98, title V, § 506, Dec. 22, 1981, 95 Stat. 1241, provided that: “Notwithstanding any other provision of law, the permanent State, county, and farm base acreage allotments for the 1977 crop of upland cotton, adjusted for any underplantings in 1977 and reconstituted as provided in section 379 of the Agricultural Adjustment Act of 1938, as amended [section 1379 of this title], shall again become effective as preliminary allotments for the 1986 crop.”
+Pub. L. 97–98, title V, § 506, Dec. 22, 1981, 95 Stat. 1241, provided that: “Notwithstanding any other provision of law, the permanent State, county, and farm base acreage allotments for the 1977 crop of upland cotton, adjusted for any underplantings in 1977 and reconstituted as provided in section 379 of the Agricultural Adjustment Act of 1938, as amended [section 1379 of this title], shall again become effective as preliminary allotments for the 1986 crop.”
 
 **Preliminary Allotments for 1982 Crop of Upland Cotton**
 
-Pub. L. 95–113, title VI, § 606, Sept. 29, 1977, 91 Stat. 940, provided that: “Notwithstanding any other provision of law, the permanent State, county, and farm base acreage allotments for the 1977 crop of upland cotton, adjusted for any underplantings in 1977 and reconstituted as provided in section 379 of the Agricultural Adjustment Act of 1938, as amended [section 1379 of this title], shall again become effective as preliminary allotments for the 1982 crop.”
+Pub. L. 95–113, title VI, § 606, Sept. 29, 1977, 91 Stat. 940, provided that: “Notwithstanding any other provision of law, the permanent State, county, and farm base acreage allotments for the 1977 crop of upland cotton, adjusted for any underplantings in 1977 and reconstituted as provided in section 379 of the Agricultural Adjustment Act of 1938, as amended [section 1379 of this title], shall again become effective as preliminary allotments for the 1982 crop.”
 
-##### § 1342a. National cotton production goal
+##### § 1342a. National cotton production goal
 
 The Secretary shall, not later than November 15, of the calendar years 1970 through 1976 proclaim a national cotton production goal for the 1971 and subsequent crops of upland cotton. The national cotton production goal for any year shall be the number of bales of upland cotton (standard bales of four hundred and eighty pounds net weight) equal to the estimated domestic consumption and estimated exports for the marketing year beginning in the calendar year for which such national cotton production goal is proclaimed, plus an allowance of not less than 5 per centum of such estimated consumption and estimated exports for market expansion except that the Secretary shall make such adjustments in the amount of such production goal as he determines necessary after taking into consideration the estimated stocks of upland cotton in the United States (including the qualities of such stocks) and stocks in foreign countries, which would be available for the marketing year, to assure the maintenance of adequate but not excessive carryover stocks in the United States (not less than 50 per centum of the average offtake for the three preceding marketing years) to provide a continuous and stable supply of the different qualities of upland cotton needed in the United States and in foreign cotton consuming countries and, in addition, to provide an adequate reserve for purposes of national security.
 
-(Feb. 16, 1938, ch. 30, title III, § 342a, as added Pub. L. 91–524, title VI, § 601(2), Nov. 30, 1970, 84 Stat. 1371; amended Pub. L. 93–86, § 1(19)(B), Aug. 10, 1973, 87 Stat. 233.)
+(Feb. 16, 1938, ch. 30, title III, § 342a, as added Pub. L. 91–524, title VI, § 601(2), Nov. 30, 1970, 84 Stat. 1371; amended Pub. L. 93–86, § 1(19)(B), Aug. 10, 1973, 87 Stat. 233.)
 
 **Editorial Notes**
 
@@ -3425,7 +3425,7 @@ The Secretary shall, not later than November 15, of the calendar years 1970 thro
 
 **Effective Date**
 
-Pub. L. 91–524, title VI, § 601, Nov. 30, 1970, 84 Stat. 1371, provided that this section is effective beginning with the 1971 crop of upland cotton.
+Pub. L. 91–524, title VI, § 601, Nov. 30, 1970, 84 Stat. 1371, provided that this section is effective beginning with the 1971 crop of upland cotton.
 
 **Inapplicability of Section**
 
@@ -3437,11 +3437,11 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-##### § 1343. Referendum
+##### § 1343. Referendum
 
 Not later than December 15 following the issuance of the marketing quota proclamation provided for in section 1342 of this title, the Secretary shall conduct a referendum, by secret ballot, of farmers engaged in the production of cotton in the calendar year in which the referendum is held, to determine whether such farmers are in favor of or opposed to the quota so proclaimed. If more than one-third of the farmers voting in the referendum oppose the national marketing quota, such quota shall become ineffective upon proclamation of the results of the referendum. The Secretary shall proclaim the results of any referendum held hereunder within thirty days after the date of such referendum. Notwithstanding any other provision hereof, the referendum with respect to the national marketing quota for cotton for the marketing year beginning August 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress.
 
-(Feb. 16, 1938, ch. 30, title III, § 343, 52 Stat. 56; Apr. 7, 1938, ch. 107, § 8, 52 Stat. 203; July 26, 1939, ch. 376, 53 Stat. 1125; July 3, 1948, ch. 827, title II, § 207(c), 62 Stat. 1257; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670; Oct. 31, 1949, ch. 792, title IV, § 415(e), 63 Stat. 1058; Pub. L. 97–77, § 2(c), Nov. 13, 1981, 95 Stat. 1069; Pub. L. 99–157, § 4, Nov. 15, 1985, 99 Stat. 818.)
+(Feb. 16, 1938, ch. 30, title III, § 343, 52 Stat. 56; Apr. 7, 1938, ch. 107, § 8, 52 Stat. 203; July 26, 1939, ch. 376, 53 Stat. 1125; July 3, 1948, ch. 827, title II, § 207(c), 62 Stat. 1257; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670; Oct. 31, 1949, ch. 792, title IV, § 415(e), 63 Stat. 1058; Pub. L. 97–77, § 2(c), Nov. 13, 1981, 95 Stat. 1069; Pub. L. 99–157, § 4, Nov. 15, 1985, 99 Stat. 818.)
 
 **Editorial Notes**
 
@@ -3491,9 +3491,9 @@ Section inapplicable to 1982 through 1985 crops of upland cotton, see section 50
 
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
 
-Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
-##### § 1344. Apportionment of national acreage allotments
+##### § 1344. Apportionment of national acreage allotments
 
 **(a) Basis**
 
@@ -3527,9 +3527,9 @@ The State acreage allotment for cotton shall be apportioned to counties on the s
 
 **(3)** The county committee may reserve not in excess of 15 per centum of the county allotment (15 per centum if the State’s 1948 planted cotton acreage was in excess of one million acres and less than half its 1943 allotment) which, in addition to the acreage made available under the proviso in subsection (e), shall be used for (A) establishing allotments for farms on which cotton was not planted (or regarded as planted under Public Law 12, Seventy-ninth Congress) during any of the three calendar years immediately preceding the year for which the allotment is made, on the basis of land, labor, and equipment available for the production of cotton, crop-rotation practices, and the soil and other physical facilities affecting the production of cotton; and (B) making adjustments of the farm acreage allotments established under paragraphs (1) and (2) of this subsection so as to establish allotments which are fair and reasonable in relation to the factors set forth in this paragraph and abnormal conditions of production on such farms, or in making adjustments in farm acreage allotments to correct inequities and to prevent hardship: *Provided*, That not less than 20 per centum of the acreage reserved under this subsection shall, to the extent required, be allotted, upon such basis as the Secretary deems fair and reasonable to farms (other than farms to which an allotment has been made under paragraph (1)(B) of this subsection), if any, to which an allotment of not exceeding fifteen acres may be made under other provisions of this subsection.
 
-**(4)** Any part of the acreage allotted for 1950 to individual farms in any county under the provisions of this section which will not be planted to cotton and which is voluntarily surrendered to the county committee shall be deducted from the allotments to such farms and may be reapportioned by the county committee to other farms in the same county receiving allotments to the extent necessary to provide such farms with the allotments authorized under paragraph (5) of this subsection. If any acreage remains after providing such allotments, it may be apportioned in amounts determined by the county committee to be fair and reasonable to other farms in the same county receiving allotments which the county committee determines are inadequate and not representative in view of their past production of cotton and to new farms in such county. No allotment shall be made, or increased, by reason of this paragraph to an acreage in excess of 40 per centum of the acreage on the farm which is tilled annually or in regular rotation, as determined under regulations prescribed by the Secretary. Any transfer of allotment under this paragraph shall not operate to reduce the allotment for any subsequent year for the farm from which acreage is transferred, except in accordance with paragraph (1)(B) and the proviso in paragraph (2) of this subsection: *Provided*, That any part of any farm acreage allotment may be permanently released in writing to the county committee by the owner and operator of the farm and may be reapportioned in the manner set forth above. In any subsequent year, unless hereafter otherwise provided by law, acreage surrendered under this paragraph and reallocated pursuant to applications filed in accordance with the provisions of paragraph (5) of this section 1
+**(4)** Any part of the acreage allotted for 1950 to individual farms in any county under the provisions of this section which will not be planted to cotton and which is voluntarily surrendered to the county committee shall be deducted from the allotments to such farms and may be reapportioned by the county committee to other farms in the same county receiving allotments to the extent necessary to provide such farms with the allotments authorized under paragraph (5) of this subsection. If any acreage remains after providing such allotments, it may be apportioned in amounts determined by the county committee to be fair and reasonable to other farms in the same county receiving allotments which the county committee determines are inadequate and not representative in view of their past production of cotton and to new farms in such county. No allotment shall be made, or increased, by reason of this paragraph to an acreage in excess of 40 per centum of the acreage on the farm which is tilled annually or in regular rotation, as determined under regulations prescribed by the Secretary. Any transfer of allotment under this paragraph shall not operate to reduce the allotment for any subsequent year for the farm from which acreage is transferred, except in accordance with paragraph (1)(B) and the proviso in paragraph (2) of this subsection: *Provided*, That any part of any farm acreage allotment may be permanently released in writing to the county committee by the owner and operator of the farm and may be reapportioned in the manner set forth above. In any subsequent year, unless hereafter otherwise provided by law, acreage surrendered under this paragraph and reallocated pursuant to applications filed in accordance with the provisions of paragraph (5) of this section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 shall be credited to the State and county in determining acreage allotments.
 
@@ -3557,7 +3557,7 @@ shall be credited to the State and county in determining acreage allotments.
 
 **(2)** In apportioning the county allotment among the farms within the county, the Secretary, through the local committees, shall take into consideration different conditions within separate administrative areas within a county if any exist, including types, kinds, and productivity of the soil so as to prevent discrimination among the administrative areas of the county.
 
-**(h) Repealed. Feb. 16, 1938, ch. 30, title III, § 378(d), as added Aug. 28, 1958, Pub. L. 85–835, title V, § 501, 72 Stat. 996**
+**(h) Repealed. Feb. 16, 1938, ch. 30, title III, § 378(d), as added Aug. 28, 1958, Pub. L. 85–835, title V, § 501, 72 Stat. 996**
 
 **(i) Excess planting; old and new farm allotment**
 
@@ -3597,7 +3597,7 @@ Notwithstanding any other provision of this section except subsection (g)(1), th
 
 Notwithstanding any other provision of this chapter, if the Secretary determines for any year that because of a natural disaster a portion of the farm cotton acreage allotments in a county cannot be timely planted or replanted in such year, he may authorize for such year the transfer of all or a part of the cotton acreage allotment for any farm in the county so affected to another farm in the county or in an adjoining county on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of cotton and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm allotment transferred under this paragraph shall be deemed to be released acreage for purposes of acreage history credits under subsections (f)(8) and (m)(2) of this section, and section 1377 of this title: *Provided*, That, notwithstanding the provisions of subsection (m)(2) of this section, the transfer of any farm allotment under this subsection for any year shall operate to make the farm from which the allotment was transferred eligible for an allotment as having cotton planted thereon during the three-year base period.
 
-(Feb. 16, 1938, ch. 30, title III, § 344, 52 Stat. 57; Apr. 7, 1938, ch. 107, § 9, 52 Stat. 203; May 31, 1938, ch. 292, § 1, 52 Stat. 586; Mar. 13, 1939, ch. 9, 53 Stat. 512; June 22, 1939, ch. 238, §§ 1–3, 53 Stat. 853; Feb. 6, 1942, ch. 44, § 3, 56 Stat. 52; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670; Oct. 31, 1949, ch. 792, title IV, § 419, 63 Stat. 1062; Mar. 31, 1950, ch. 81, § 1, 64 Stat. 40; Jan. 30, 1954, ch. 2, §§ 1–3, 68 Stat. 4–6; Aug. 28, 1954, ch. 1041, title III, § 310, 68 Stat. 904; May 28, 1956, ch. 327, title III, § 303(a)–(d), 70 Stat. 203; Pub. L. 85–456, June 11, 1958, 72 Stat. 186; Pub. L. 85–835, title I, §§ 103(4), 104(a)–(d), 105–107, Aug. 28, 1958, 72 Stat. 990–992; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 996; Pub. L. 86–172, § 2, Aug. 18, 1959, 73 Stat. 393; Pub. L. 87–37, May 20, 1961, 75 Stat. 84; Pub. L. 87–446, Apr. 27, 1962, 76 Stat. 64; Pub. L. 88–12, Apr. 26, 1963, 77 Stat. 13; Pub. L. 88–297, title I, § 106(3), (8), Apr. 11, 1964, 78 Stat. 177; Pub. L. 104–127, title III, § 336(b)(2)(A), Apr. 4, 1996, 110 Stat. 1006; Pub. L. 115–334, title II, § 2301(d)(2)(A), Dec. 20, 2018, 132 Stat. 4554.)
+(Feb. 16, 1938, ch. 30, title III, § 344, 52 Stat. 57; Apr. 7, 1938, ch. 107, § 9, 52 Stat. 203; May 31, 1938, ch. 292, § 1, 52 Stat. 586; Mar. 13, 1939, ch. 9, 53 Stat. 512; June 22, 1939, ch. 238, §§ 1–3, 53 Stat. 853; Feb. 6, 1942, ch. 44, § 3, 56 Stat. 52; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670; Oct. 31, 1949, ch. 792, title IV, § 419, 63 Stat. 1062; Mar. 31, 1950, ch. 81, § 1, 64 Stat. 40; Jan. 30, 1954, ch. 2, §§ 1–3, 68 Stat. 4–6; Aug. 28, 1954, ch. 1041, title III, § 310, 68 Stat. 904; May 28, 1956, ch. 327, title III, § 303(a)–(d), 70 Stat. 203; Pub. L. 85–456, June 11, 1958, 72 Stat. 186; Pub. L. 85–835, title I, §§ 103(4), 104(a)–(d), 105–107, Aug. 28, 1958, 72 Stat. 990–992; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 996; Pub. L. 86–172, § 2, Aug. 18, 1959, 73 Stat. 393; Pub. L. 87–37, May 20, 1961, 75 Stat. 84; Pub. L. 87–446, Apr. 27, 1962, 76 Stat. 64; Pub. L. 88–12, Apr. 26, 1963, 77 Stat. 13; Pub. L. 88–297, title I, § 106(3), (8), Apr. 11, 1964, 78 Stat. 177; Pub. L. 104–127, title III, § 336(b)(2)(A), Apr. 4, 1996, 110 Stat. 1006; Pub. L. 115–334, title II, § 2301(d)(2)(A), Dec. 20, 2018, 132 Stat. 4554.)
 
 **Editorial Notes**
 
@@ -3605,11 +3605,11 @@ Notwithstanding any other provision of this chapter, if the Secretary determines
 
 Public Law 12, Seventy-ninth Congress, referred to in subsecs. (b), (c), (d), (f), (*l*), is act Feb. 28, 1945, ch. 15, 59 Stat. 9, which related to Emergency Farm Acreage Allotments. See note below. For complete classification of this Act to the Code, see Tables.
 
-The Soil Bank Act, referred to in subsec. (f)(8), is act May 28, 1956, ch. 327, 70 Stat. 188, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The Soil Bank Act, referred to in subsec. (f)(8), is act May 28, 1956, ch. 327, 70 Stat. 188, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
-The Food Security Act of 1985, referred to in subsec. (f)(8), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (f)(8), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-Section 1347 of this title, referred to in subsec. (m)(1), (2), was repealed by Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494.
+Section 1347 of this title, referred to in subsec. (m)(1), (2), was repealed by Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494.
 
 **Amendments**
 
@@ -3617,9 +3617,9 @@ Section 1347 of this title, referred to in subsec. (m)(1), (2), was repealed by 
 
 1996—Subsec. (f)(8). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Great Plains program”.
 
-1964—Subsec. (f)(8). Pub. L. 88–297, § 106(3), inserted “or, in the case of a farm which qualified for price support on the crop produced in such year under section 1444(b) of this title, 75 per centum of the farm domestic allotment established under section 1350 of this title for such year, whichever is smaller” after “75 per centum of the farm allotment for such year” to protect the farm base of any farm participating in the domestic allotment choice program if the acreage planted on the farm was at least 75 per centum of the farm domestic allotment.
+1964—Subsec. (f)(8). Pub. L. 88–297, § 106(3), inserted “or, in the case of a farm which qualified for price support on the crop produced in such year under section 1444(b) of this title, 75 per centum of the farm domestic allotment established under section 1350 of this title for such year, whichever is smaller” after “75 per centum of the farm allotment for such year” to protect the farm base of any farm participating in the domestic allotment choice program if the acreage planted on the farm was at least 75 per centum of the farm domestic allotment.
 
-Subsec. (n). Pub. L. 88–297, § 106(8), extended the transfer provisions to natural disasters occurring in any year instead of only during 1963.
+Subsec. (n). Pub. L. 88–297, § 106(8), extended the transfer provisions to natural disasters occurring in any year instead of only during 1963.
 
 1963—Subsec. (n). Pub. L. 88–12 substituted “portion of the 1963” for “substantial portion of the 1962”, and inserted proviso “that notwithstanding subsection (m)(2) of this section, transfers under this subsection for 1963 makes the farm from which the allotment was transferred eligible for an allotment as having cotton during the three-year period”.
 
@@ -3627,55 +3627,55 @@ Subsec. (n). Pub. L. 88–297, § 106(8), extended the transfer provisions to 
 
 1961—Subsec. (n). Pub. L. 87–37 substituted “1961” for “1958”, and “Any farm allotment transferred under this paragraph shall be deemed to be released acreage for purposes of acreage history credits under subsections (f)(8) and (m)(2) of this section, and section 1377 of this title” for “Acreage history credits for transferred acreage shall be governed by the provisions of subsection (m)(2) of this section pertaining to the release and reapportionment of acreage allotments. No transfer hereunder shall be made to a farm covered by a 1958 acreage reserve contract for cotton.”
 
-1959—Subsec. (f)(8). Pub. L. 86–172, § 2(1), inserted proviso for determination of base beginning with allotments established for the 1961 crop of cotton, and inserted provisions prohibiting the adjustment of the base for a farm where the county committee determines that failure to plant at least 75 per centum of the farm allotment was due to conditions beyond control of producers on the farm, and requiring the Secretary to establish limitations to prevent allocations of allotment to farms not affected by proviso.
+1959—Subsec. (f)(8). Pub. L. 86–172, § 2(1), inserted proviso for determination of base beginning with allotments established for the 1961 crop of cotton, and inserted provisions prohibiting the adjustment of the base for a farm where the county committee determines that failure to plant at least 75 per centum of the farm allotment was due to conditions beyond control of producers on the farm, and requiring the Secretary to establish limitations to prevent allocations of allotment to farms not affected by proviso.
 
-Subsec. (g)(3). Pub. L. 86–172, § 2(2), repealed par. (3) which provided that for any farm on which the acreage planted to cotton in any year was less than the farm acreage allotment for such year by not more than the larger of 10 per centum of the allotment or one acre, an acreage equal to the farm acreage allotment should be deemed to be the acreage planted to cotton on such farm, and the additional acreage added to the cotton acreage history for the farm should be added to the cotton acreage history for the county and State.
+Subsec. (g)(3). Pub. L. 86–172, § 2(2), repealed par. (3) which provided that for any farm on which the acreage planted to cotton in any year was less than the farm acreage allotment for such year by not more than the larger of 10 per centum of the allotment or one acre, an acreage equal to the farm acreage allotment should be deemed to be the acreage planted to cotton on such farm, and the additional acreage added to the cotton acreage history for the farm should be added to the cotton acreage history for the county and State.
 
-Subsec. (i). Pub. L. 86–172, § 2(3), inserted provisions respecting eligibility for old and new farm allotment.
+Subsec. (i). Pub. L. 86–172, § 2(3), inserted provisions respecting eligibility for old and new farm allotment.
 
-Subsec. (m)(2). Pub. L. 86–172, § 2(4), struck out “; but no such acreage shall be surrendered to the State committee so long as any farmer receiving a cotton acreage allotment in such county desires additional cotton acreage” after “subsection (e) of this section” and substituted “Any allotment released under this provision shall be regarded for the purpose of establishing future allotments as having been planted on the farm and in the county where the release was made rather than on the farm and in the county to which the allotment was transferred” for “Any allotment transferred under this provision shall be regarded for the purposes of subsection (f) of this section as having been planted on the farm from which transferred rather than on the farm to which transferred” and “Acreage released under this paragraph shall be credited to the State in determining future allotments” for “Acreage surrendered, reapportioned under this paragraph, and planted shall be credited to the State and county in determining future acreage allotments”.
+Subsec. (m)(2). Pub. L. 86–172, § 2(4), struck out “; but no such acreage shall be surrendered to the State committee so long as any farmer receiving a cotton acreage allotment in such county desires additional cotton acreage” after “subsection (e) of this section” and substituted “Any allotment released under this provision shall be regarded for the purpose of establishing future allotments as having been planted on the farm and in the county where the release was made rather than on the farm and in the county to which the allotment was transferred” for “Any allotment transferred under this provision shall be regarded for the purposes of subsection (f) of this section as having been planted on the farm from which transferred rather than on the farm to which transferred” and “Acreage released under this paragraph shall be credited to the State in determining future allotments” for “Acreage surrendered, reapportioned under this paragraph, and planted shall be credited to the State and county in determining future acreage allotments”.
 
-1958—Subsec. (a). Pub. L. 85–835, § 103(4), substituted “four” for “five” in second sentence.
+1958—Subsec. (a). Pub. L. 85–835, § 103(4), substituted “four” for “five” in second sentence.
 
-Subsec. (b). Pub. L. 85–835, § 104(a), established a national acreage reserve of 310,000 acres in addition to the national acreage allotment, provided that apportionments of additional acreage shall not be taken into account in establishing future State allotments, and inserted provisions for determination of needs for additional acreage.
+Subsec. (b). Pub. L. 85–835, § 104(a), established a national acreage reserve of 310,000 acres in addition to the national acreage allotment, provided that apportionments of additional acreage shall not be taken into account in establishing future State allotments, and inserted provisions for determination of needs for additional acreage.
 
-Subsec. (e). Pub. L. 85–835, § 104(b), inserted proviso relating to additional acreage allocated to a State.
+Subsec. (e). Pub. L. 85–835, § 104(b), inserted proviso relating to additional acreage allocated to a State.
 
-Subsec. (f)(1). Pub. L. 85–835, § 104(c), substituted “(A) ten acres; or (B) the acreage allotment established for the farm for the 1958 crop” for “(A) four acres; or (B) the highest number of acres planted to cotton in any year of such three-year period”.
+Subsec. (f)(1). Pub. L. 85–835, § 104(c), substituted “(A) ten acres; or (B) the acreage allotment established for the farm for the 1958 crop” for “(A) four acres; or (B) the highest number of acres planted to cotton in any year of such three-year period”.
 
-Subsec. (f)(6). Pub. L. 85–835, § 104(d), substituted “provisions of paragraph (2) of this subsection” for “foregoing provisions of this subsection except paragraph (3) of this subsection”, “remainder of the county acreage allotment (after making allotments as provided in paragraph (1) of this subsection) shall be allotted” for “county acreage allotment, less the acreage reserved under paragraph (3) of this subsection, shall be apportioned”, and inserted provisions requiring the allotments to be a prescribed percentage of the average acreage planted to cotton on the farm during the three years immediately preceding the year for which such allotment is determined.
+Subsec. (f)(6). Pub. L. 85–835, § 104(d), substituted “provisions of paragraph (2) of this subsection” for “foregoing provisions of this subsection except paragraph (3) of this subsection”, “remainder of the county acreage allotment (after making allotments as provided in paragraph (1) of this subsection) shall be allotted” for “county acreage allotment, less the acreage reserved under paragraph (3) of this subsection, shall be apportioned”, and inserted provisions requiring the allotments to be a prescribed percentage of the average acreage planted to cotton on the farm during the three years immediately preceding the year for which such allotment is determined.
 
-Subsec. (f)(7). Pub. L. 85–835, § 105, added par. (7).
+Subsec. (f)(7). Pub. L. 85–835, § 105, added par. (7).
 
-Subsec. (f)(8). Pub. L. 85–835, § 106, added par. (8).
+Subsec. (f)(8). Pub. L. 85–835, § 106, added par. (8).
 
-Subsec. (h). Act Feb. 16, 1938, § 378(d), as added by Pub. L. 85–835, § 501, repealed subsec. (h) which related to apportionment by county committee and reallocation of flood lands.
+Subsec. (h). Act Feb. 16, 1938, § 378(d), as added by Pub. L. 85–835, § 501, repealed subsec. (h) which related to apportionment by county committee and reallocation of flood lands.
 
-Subsec. (m)(2). Pub. L. 85–835, § 107, provided that any cotton acreage which is surrendered shall be retained in the county and not surrendered to the State committee so long as any farmer in the county desires additional cotton acreage.
+Subsec. (m)(2). Pub. L. 85–835, § 107, provided that any cotton acreage which is surrendered shall be retained in the county and not surrendered to the State committee so long as any farmer in the county desires additional cotton acreage.
 
 Subsec. (n). Pub. L. 85–456 added subsec. (n).
 
-1956—Subsec. (b). Act May 28, 1956, § 303(a), temporarily inserted *“Provided*, That there is hereby established a national acreage reserve consisting of one hundred thousand acres which shall be in addition to the national acreage allotment; and such reserve shall be apportioned to the States on the basis of their needs for additional acreage for establishing minimum farm allotments under subsection (f)(1) of this section, as determined by the Secretary without regard to State and county acreage reserves (except that the amount apportioned to Nevada shall be one thousand acres), and the additional acreage so apportioned to the State shall be apportioned to the counties on the same basis and added to the county acreage allotment for apportionment to farms pursuant to subsection (f) of this section (except that no part of such additional acreage shall be used to increase the county reserve above 15 per centum of the county allotment determined without regard to such additional acreage). Additional acreage apportioned to a State for any year under the foregoing proviso shall not be taken into account in establishing future State acreage allotments. Needs for additional acreage under the foregoing proviso and under the last proviso in subsection (e) of this section shall be determined as though allotments were first computed without regard to subsection (f)(1) of this section.” See Effective and Termination Dates of 1956 Amendment note below.
+1956—Subsec. (b). Act May 28, 1956, § 303(a), temporarily inserted *“Provided*, That there is hereby established a national acreage reserve consisting of one hundred thousand acres which shall be in addition to the national acreage allotment; and such reserve shall be apportioned to the States on the basis of their needs for additional acreage for establishing minimum farm allotments under subsection (f)(1) of this section, as determined by the Secretary without regard to State and county acreage reserves (except that the amount apportioned to Nevada shall be one thousand acres), and the additional acreage so apportioned to the State shall be apportioned to the counties on the same basis and added to the county acreage allotment for apportionment to farms pursuant to subsection (f) of this section (except that no part of such additional acreage shall be used to increase the county reserve above 15 per centum of the county allotment determined without regard to such additional acreage). Additional acreage apportioned to a State for any year under the foregoing proviso shall not be taken into account in establishing future State acreage allotments. Needs for additional acreage under the foregoing proviso and under the last proviso in subsection (e) of this section shall be determined as though allotments were first computed without regard to subsection (f)(1) of this section.” See Effective and Termination Dates of 1956 Amendment note below.
 
-Subsec. (e). Act May 28, 1956, § 303(b), temporarily inserted *“Provided further*, That if the additional acreage allocated to a State under the proviso in subsection (b) of this section is less than the requirements as determined by the Secretary for establishing minimum farm allotments for the State under subsection (f)(1) of this section, the acreage reserved by the State committee under this subsection shall not be less than the smaller of (1) the remaining acreage so determined to be required for establishing minimum farm allotments or (2) 3 per centum of the State acreage allotment; and the acreage which the State committee is required to reserve under this proviso shall be allocated to counties on the basis of their needs for additional acreage for establishing minimum farm allotments under subsection (f)(1) of this section, and added to the county acreage allotment for apportionment to farms pursuant to subsection (f) of this section (except that no part of such additional acreage shall be used to increase the county reserve above 15 per centum of the county allotment determined without regard to such additional acreages).” See Effective and Termination Dates of 1956 Amendment note below.
+Subsec. (e). Act May 28, 1956, § 303(b), temporarily inserted *“Provided further*, That if the additional acreage allocated to a State under the proviso in subsection (b) of this section is less than the requirements as determined by the Secretary for establishing minimum farm allotments for the State under subsection (f)(1) of this section, the acreage reserved by the State committee under this subsection shall not be less than the smaller of (1) the remaining acreage so determined to be required for establishing minimum farm allotments or (2) 3 per centum of the State acreage allotment; and the acreage which the State committee is required to reserve under this proviso shall be allocated to counties on the basis of their needs for additional acreage for establishing minimum farm allotments under subsection (f)(1) of this section, and added to the county acreage allotment for apportionment to farms pursuant to subsection (f) of this section (except that no part of such additional acreage shall be used to increase the county reserve above 15 per centum of the county allotment determined without regard to such additional acreages).” See Effective and Termination Dates of 1956 Amendment note below.
 
-Subsec. (f)(1). Act May 28, 1956, § 303(c), temporarily inserted “Insofar as such acreage is available,”, substituted “four acres” for “five acres”, and struck out “(or regarded as planted under Public Law 12, Seventy-ninth Congress)” after “planted”. See Effective and Termination Dates of 1956 Amendment note below.
+Subsec. (f)(1). Act May 28, 1956, § 303(c), temporarily inserted “Insofar as such acreage is available,”, substituted “four acres” for “five acres”, and struck out “(or regarded as planted under Public Law 12, Seventy-ninth Congress)” after “planted”. See Effective and Termination Dates of 1956 Amendment note below.
 
-Subsec. (f)(6). Act May 28, 1956, § 303(d), temporarily substituted “provisions of paragraph (2) of this subsection” for “foregoing provisions of this subsection except paragraph (3) of this subsection” and “the remainder of the county acreage allotment (after making allotments as provided in paragraph (1) of this subsection) shall be allotted to farms other than farms to which an allotment has been made under paragraph (1)(B) of this subsection so that the allotment to each farm under this paragraph together with the amount of the allotment of such farm under paragraph (1)(A) of this subsection shall be a prescribed percentage (which percentage shall be the same for all such farms in the county) of the average acreage planted to cotton on the farm during the three years immediately preceding the year for which such allotment is determined,” for “the county acreage allotment, less the acreage reserved under paragraph (3) of this subsection, shall be apportioned to farms on which cotton has been planted in any one of the three years immediately preceding the year for which such allotment is determined, on the basis of the acreage planted to cotton on the farm during such three-year period,” and struck out “(A) apportion such county allotment by first establishing minimum allotments in accordance with paragraph (1) of this subsection and by allotting the remaining acreage to farms other than those receiving an allotment under paragraph (1)(B) in accordance with the foregoing provisions of this paragraph and (B)” after “committee may in its discretion”. See Effective and Termination Dates of 1956 Amendment note below.
+Subsec. (f)(6). Act May 28, 1956, § 303(d), temporarily substituted “provisions of paragraph (2) of this subsection” for “foregoing provisions of this subsection except paragraph (3) of this subsection” and “the remainder of the county acreage allotment (after making allotments as provided in paragraph (1) of this subsection) shall be allotted to farms other than farms to which an allotment has been made under paragraph (1)(B) of this subsection so that the allotment to each farm under this paragraph together with the amount of the allotment of such farm under paragraph (1)(A) of this subsection shall be a prescribed percentage (which percentage shall be the same for all such farms in the county) of the average acreage planted to cotton on the farm during the three years immediately preceding the year for which such allotment is determined,” for “the county acreage allotment, less the acreage reserved under paragraph (3) of this subsection, shall be apportioned to farms on which cotton has been planted in any one of the three years immediately preceding the year for which such allotment is determined, on the basis of the acreage planted to cotton on the farm during such three-year period,” and struck out “(A) apportion such county allotment by first establishing minimum allotments in accordance with paragraph (1) of this subsection and by allotting the remaining acreage to farms other than those receiving an allotment under paragraph (1)(B) in accordance with the foregoing provisions of this paragraph and (B)” after “committee may in its discretion”. See Effective and Termination Dates of 1956 Amendment note below.
 
-1954—Subsec. (e). Act Jan. 30, 1954, § 3(a), inserted at end “or to correct inequities in farm allotments and to prevent hardship”.
+1954—Subsec. (e). Act Jan. 30, 1954, § 3(a), inserted at end “or to correct inequities in farm allotments and to prevent hardship”.
 
-Subsec. (f)(3). Act Jan. 30, 1954, § 3(b), inserted “, or in making adjustments in farm acreage allotments to correct inequities and to prevent hardship”.
+Subsec. (f)(3). Act Jan. 30, 1954, § 3(b), inserted “, or in making adjustments in farm acreage allotments to correct inequities and to prevent hardship”.
 
-Subsec. (f)(6). Act Aug. 28, 1954, § 310(a), inserted proviso to first sentence.
+Subsec. (f)(6). Act Aug. 28, 1954, § 310(a), inserted proviso to first sentence.
 
-Act Jan. 30, 1954, § 3(c), added par. (6).
+Act Jan. 30, 1954, § 3(c), added par. (6).
 
-Subsec. (h). Act Jan. 30, 1954, § 2, inserted sentence relating to reallocation of flood lands.
+Subsec. (h). Act Jan. 30, 1954, § 2, inserted sentence relating to reallocation of flood lands.
 
-Subsec. (m). Act Jan. 30, 1954, § 1, added subsec. (m).
+Subsec. (m). Act Jan. 30, 1954, § 1, added subsec. (m).
 
-Subsec. (m)(2). Act Aug. 28, 1954, § 310(b), struck out “1954 or 1955” wherever appearing.
+Subsec. (m)(2). Act Aug. 28, 1954, § 310(b), struck out “1954 or 1955” wherever appearing.
 
 1950—Subsec. (f)(4), (5). Act Mar. 31, 1950, added pars. (4) and (5).
 
@@ -3685,43 +3685,43 @@ Act Aug. 29, 1949, amended section generally to provide for a national acreage b
 
 1942—Subsec. (j). Act Feb. 6, 1942, added subsec. (j).
 
-1939—Subsec. (e)(1). Act June 22, 1939, § 1, substituted “For 1938, 1939, and any subsequent year” for “For 1938 and 1939”.
+1939—Subsec. (e)(1). Act June 22, 1939, § 1, substituted “For 1938, 1939, and any subsequent year” for “For 1938 and 1939”.
 
-Subsec. (g). Act June 22, 1939, § 2, substituted “For 1938, 1939, and each subsequent year” for “For each of the years 1938 and 1939”.
+Subsec. (g). Act June 22, 1939, § 2, substituted “For 1938, 1939, and each subsequent year” for “For each of the years 1938 and 1939”.
 
-Subsec. (h). Act June 22, 1939, § 3, substituted “for 1938, 1939, and each subsequent year” for “For each of the years 1938 and 1939”.
+Subsec. (h). Act June 22, 1939, § 3, substituted “for 1938, 1939, and each subsequent year” for “For each of the years 1938 and 1939”.
 
 Act Mar. 13, 1939, substituted “for any crop year” for “for the crop year 1938” and struck out “for 1938” from first proviso.
 
-1938—Subsec. (b). Act Apr. 7, 1938, § 9(a), amended second sentence.
+1938—Subsec. (b). Act Apr. 7, 1938, § 9(a), amended second sentence.
 
-Subsec. (d)(3). Act Apr. 7, 1938, § 9(b), inserted “sugarcane for sugar,” after “excluding from such acreage the acres devoted to the production of” in second sentence, and “wheat or rice” after “rice for market or,”.
+Subsec. (d)(3). Act Apr. 7, 1938, § 9(b), inserted “sugarcane for sugar,” after “excluding from such acreage the acres devoted to the production of” in second sentence, and “wheat or rice” after “rice for market or,”.
 
-Subsec. (e). Act Apr. 7, 1938, § 9(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (e). Act Apr. 7, 1938, § 9(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g). Act Apr. 7, 1938, § 9(d), added subsec. (g).
+Subsec. (g). Act Apr. 7, 1938, § 9(d), added subsec. (g).
 
 Subsec. (h). Act May 31, 1938, among other changes, inserted “and for the crop year 1938 any part of the acreage allotted to individual farms in the State which it is determined, in accordance with regulations prescribed by the Secretary, will not be planted to cotton in the year for which the allotment is made, shall be deducted from the allotments to such farms and may be apportioned, in amounts determined by the Secretary to be fair and reasonable, preference being given to farms in the same county receiving allotments which the Secretary determines are inadequate and not representative in view of the past production of cotton and the acreage diverted from the production of cotton on such farms under the agricultural conservation program in the immediately preceding year: *Provided*, That any such transfer of allotment for 1938 shall not affect apportionment for any subsequent year” after “Secretary”.
 
-Act Apr. 7, 1938, § 9(d), added subsec. (h).
+Act Apr. 7, 1938, § 9(d), added subsec. (h).
 
-Subsec. (i). Act Apr. 7, 1938, § 9(d), added subsec. (i).
+Subsec. (i). Act Apr. 7, 1938, § 9(d), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–835, title I, § 104(e), Aug. 28, 1958, 72 Stat. 991, provided that: “The amendments made by this section [amending this section] shall be effective beginning with the 1959 crop.”
+Pub. L. 85–835, title I, § 104(e), Aug. 28, 1958, 72 Stat. 991, provided that: “The amendments made by this section [amending this section] shall be effective beginning with the 1959 crop.”
 
-Pub. L. 85–835, title I, § 105, Aug. 28, 1958, 72 Stat. 991, provided that the amendment made by that section is effective beginning with the 1959 crop.
+Pub. L. 85–835, title I, § 105, Aug. 28, 1958, 72 Stat. 991, provided that the amendment made by that section is effective beginning with the 1959 crop.
 
 **Effective and Termination Dates of 1956 Amendment**
 
-Act May 28, 1956, ch. 327, title III, § 303(e), 70 Stat. 204, provided that: “The amendments made by this section [amending this section] shall be effective only with respect to 1957 and 1958 crops. For the 1956 crop, an acreage in each State equal to the acreage allotted in such State which the Secretary determines will not be planted, placed in the acreage reserve or conservation reserve, or considered as planted under section 377 of the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1377], may be apportioned by the Secretary among farms in such State having allotments of less than the smaller of the following: (1) four acres, or (2) the highest number of acres planted to cotton in any of the years 1953, 1954, and 1955.”
+Act May 28, 1956, ch. 327, title III, § 303(e), 70 Stat. 204, provided that: “The amendments made by this section [amending this section] shall be effective only with respect to 1957 and 1958 crops. For the 1956 crop, an acreage in each State equal to the acreage allotted in such State which the Secretary determines will not be planted, placed in the acreage reserve or conservation reserve, or considered as planted under section 377 of the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1377], may be apportioned by the Secretary among farms in such State having allotments of less than the smaller of the following: (1) four acres, or (2) the highest number of acres planted to cotton in any of the years 1953, 1954, and 1955.”
 
 **Effective Date of 1954 Amendment**
 
-Act Jan. 30, 1954, ch. 2, § 3, 68 Stat. 6, provided that the amendments made by section 3 are effective beginning with the 1955 crop.
+Act Jan. 30, 1954, ch. 2, § 3, 68 Stat. 6, provided that the amendments made by section 3 are effective beginning with the 1955 crop.
 
 **Savings Provision**
 
@@ -3747,17 +3747,17 @@ Section inapplicable to 1982 through 1985 crops of upland cotton, see section 50
 
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
 
-Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
 **Emergency Farm Acreage Allotment**
 
-Act Feb. 28, 1945, ch. 15, 59 Stat. 9, provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941, and which emergencies terminated on July 25, 1947, by the provisions of Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451.
+Act Feb. 28, 1945, ch. 15, 59 Stat. 9, provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941, and which emergencies terminated on July 25, 1947, by the provisions of Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451.
 
 **County Committee Allotment**
 
 Act Mar. 13, 1939, ch. 9, 53 Stat. 512, in addition to amending former subsec. (h), contained the following: “*Provided*, That hereafter such allotment of acreage in counties shall be to such farms as the County Committee of such county may designate. In making such designation the County Committee shall consider only the character and adaptability of the soil and other physical facilities affecting the production of cotton and the need of operator for an additional allotment to meet the requirement of the families engaging in the production of cotton on the farm in such year.”
 
-##### § 1344a. Exclusion of 1949 acreage in computation of future allotments
+##### § 1344a. Exclusion of 1949 acreage in computation of future allotments
 
 Notwithstanding the provisions of title III of the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1301 et seq.], or of any other law, State, county, and farm acreage allotments and yields for cotton for any year after 1949 shall be computed without regard to yields or to the acreage planted to cotton in 1949.
 
@@ -3767,13 +3767,13 @@ Notwithstanding the provisions of title III of the Agricultural Adjustment Act o
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Title III of the Act is classified generally to subchapter II (§ 1301 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Title III of the Act is classified generally to subchapter II (§ 1301 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Codification**
 
 Section was not enacted as part of the Agriculture Adjustment Act of 1938 which comprises this chapter.
 
-##### § 1344b. Sale, lease, or transfer of cotton acreage allotments
+##### § 1344b. Sale, lease, or transfer of cotton acreage allotments
 
 **(a) Authority for calendar years 1966 through 1970; transfer periods**
 
@@ -3811,7 +3811,7 @@ The Secretary shall by regulations authorize the exchange between farms in the s
 
 The provisions of this section relating to cotton shall apply only to upland cotton.
 
-(Feb. 16, 1938, ch. 30, title III, § 344a, as added Pub. L. 89–321, title IV, § 405, Nov. 3, 1965, 79 Stat. 1197; amended Pub. L. 90–559, § 1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, § 601(3)(1), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, § 1(19)(C), (D), Aug. 10, 1973, 87 Stat. 233.)
+(Feb. 16, 1938, ch. 30, title III, § 344a, as added Pub. L. 89–321, title IV, § 405, Nov. 3, 1965, 79 Stat. 1197; amended Pub. L. 90–559, § 1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, § 601(3)(1), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, § 1(19)(C), (D), Aug. 10, 1973, 87 Stat. 233.)
 
 **Editorial Notes**
 
@@ -3827,11 +3827,11 @@ The provisions of this section relating to cotton shall apply only to upland cot
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–86, § 1(19)(C), Aug. 10, 1973, 87 Stat. 233, provided that the amendment made by section 1(19)(C) of Pub. L. 93–86 is effective beginning with the 1974 crop.
+Pub. L. 93–86, § 1(19)(C), Aug. 10, 1973, 87 Stat. 233, provided that the amendment made by section 1(19)(C) of Pub. L. 93–86 is effective beginning with the 1974 crop.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title VI, § 601(3), Nov. 30, 1970, 84 Stat. 1372, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that the amendment made by that section is effective only with respect to the 1971 through 1977 crops.
+Pub. L. 91–524, title VI, § 601(3), Nov. 30, 1970, 84 Stat. 1372, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that the amendment made by that section is effective only with respect to the 1971 through 1977 crops.
 
 **Inapplicability of Section**
 
@@ -3845,13 +3845,13 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-Pub. L. 91–524, title VI, § 601(3)(2), Nov. 30, 1970, 84 Stat. 1372, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that: “Subdivisions (ii), (iv), (v), and (vi) of subsection (b) [of this section], the last sentence of subsection (b) [of this section] and subsections (e) and (h) [of this section] shall not be applicable to the 1971 through 1977 crops: *Provided*, That no farm allotment may be sold or leased for transfer to a farm in another county unless the Agricultural Stabilization and Conservation Committee established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act, as amended [16 U.S.C. 590h(b)], for the county from which such transfers are being made (1) finds that a demand for such acreage allotments no longer exists in such county and (2) approves any transfers of allotments to farms outside such county.”
+Pub. L. 91–524, title VI, § 601(3)(2), Nov. 30, 1970, 84 Stat. 1372, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that: “Subdivisions (ii), (iv), (v), and (vi) of subsection (b) [of this section], the last sentence of subsection (b) [of this section] and subsections (e) and (h) [of this section] shall not be applicable to the 1971 through 1977 crops: *Provided*, That no farm allotment may be sold or leased for transfer to a farm in another county unless the Agricultural Stabilization and Conservation Committee established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act, as amended [16 U.S.C. 590h(b)], for the county from which such transfers are being made (1) finds that a demand for such acreage allotments no longer exists in such county and (2) approves any transfers of allotments to farms outside such county.”
 
-##### § 1345. Farm marketing quotas; farm marketing excess
+##### § 1345. Farm marketing quotas; farm marketing excess
 
 The farm marketing quota for any crop of cotton shall be the actual production of the acreage planted to cotton on the farm less the farm marketing excess. The farm marketing excess shall be the normal production of that acreage planted to cotton on the farm which is in excess of the farm acreage allotment: *Provided*, That such farm marketing excess shall not be larger than the amount by which the actual production of cotton on the farm exceeds the normal production of the farm acreage allotment, if the producer establishes such actual production to the satisfaction of the Secretary.
 
-(Feb. 16, 1938, ch. 30, title III, § 345, 52 Stat. 58; July 3, 1948, ch. 827, title II, § 205, 62 Stat. 1256; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 674; Oct. 31, 1949, ch. 792, title IV, § 415(e), 63 Stat. 1058.)
+(Feb. 16, 1938, ch. 30, title III, § 345, 52 Stat. 58; July 3, 1948, ch. 827, title II, § 205, 62 Stat. 1256; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 674; Oct. 31, 1949, ch. 792, title IV, § 415(e), 63 Stat. 1058.)
 
 **Editorial Notes**
 
@@ -3889,9 +3889,9 @@ Section inapplicable to 1982 through 1985 crops of upland cotton, see section 50
 
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
 
-Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
-##### § 1346. Penalties
+##### § 1346. Penalties
 
 **(a)** Whenever farm marketing quotas are in effect with respect to any crop of cotton, the producer shall be subject to a penalty on the farm marketing excess at a rate per pound equal to 50 per centum of the parity price per pound for cotton as of June 15 of the calendar year in which such crop is produced.
 
@@ -3915,7 +3915,7 @@ For the 1966 crop the national export market acreage reserve shall be 250,000 ac
 
 The national export market acreage reserve shall be apportioned to farms by the Secretary on the basis of the applications therefor. No application shall be accepted for a greater acreage than is available on the farm for the production of upland cotton. After apportionments are thus made to farms, the Secretary shall provide farm operators a reasonable time in which to cancel their applications (and agreements to forgo price support) and surrender to the Secretary through the county committee the export market acreage assigned to the farm. Acreage so surrendered shall be available for reassignment by the Secretary to other eligible farms to which export market acreage has been apportioned on the basis of the applications remaining outstanding. The operator of any farm who elects to forgo price support for any such crop under this subsection shall not be eligible for price support on cotton of such crop produced on any other farm in which he has a controlling or substantial interest as determined by the Secretary. Acreage planted to cotton in excess of the farm acreage allotment established under section 1344 of this title shall not be taken into account in establishing future State, county, and farm acreage allotments. The operator of any farm to which export market acreage is apportioned, or the purchasers of cotton produced on such farm, shall, under regulations issued by the Secretary, furnish a bond or other undertaking prescribed by the Secretary providing for the exportation, without benefit of any Government cotton export subsidy and within such time as the Secretary may specify, of all cotton produced on such farm for such year. The bond or other undertaking given pursuant to this subsection shall provide that, upon failure to comply with the terms and conditions thereof, the person furnishing such bond or other undertaking shall be liable for liquidated damages in an amount which the Secretary determines and specifies in such undertaking will approximate the amount payable on excess cotton under subsection (a). The Secretary may, in lieu of the furnishing of a bond or other undertaking, provide for the payment of an amount equal to that which would be payable as liquidated damages under such bond or other undertaking. If such bond or other undertaking is not furnished, or if payment in lieu thereof is not made as provided herein, at such time and in the manner required by regulations of the Secretary, or if the acreage planted to cotton on the farm exceeds the sum of the farm acreage allotment established under section 1344 of this title and the acreage apportioned to the farm from the national export market acreage reserve, the acreage planted to cotton in excess of the farm acreage allotment established under section 1344 of this title shall be regarded as excess acreage for purposes of this section and section 1345 of this title. Amounts collected by the Secretary under this subsection shall be remitted to the Commodity Credit Corporation.
 
-(Feb. 16, 1938, ch. 30, title III, § 346, 52 Stat. 59; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 674; Pub. L. 89–321, title IV, § 401(2), Nov. 3, 1965, 79 Stat. 1192; Pub. L. 90–559, § 1(2), Oct. 11, 1968, 82 Stat. 996.)
+(Feb. 16, 1938, ch. 30, title III, § 346, 52 Stat. 59; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 674; Pub. L. 89–321, title IV, § 401(2), Nov. 3, 1965, 79 Stat. 1192; Pub. L. 90–559, § 1(2), Oct. 11, 1968, 82 Stat. 996.)
 
 **Editorial Notes**
 
@@ -3949,33 +3949,33 @@ Section inapplicable to 1982 through 1985 crops of upland cotton, see section 50
 
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
 
-Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
 **Removal of Marketing Penalties on Certain Long Staple Cotton**
 
 Act Jan. 9, 1951, ch. 1215, 64 Stat. 1237, provided that the marketing penalty provided in this section, shall not be applied to long staple cotton of the 1950 crop ginned on saw type gins where such action was necessary to conserve the cotton because of frost or weather damage.
 
-##### § 1347. Repealed. Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494
+##### § 1347. Repealed. Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494
 
-Section, acts Feb. 16, 1938, ch. 30, title III, § 347, 52 Stat. 59; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 675; July 17, 1952, ch. 933, § 4, 66 Stat. 759; Aug. 28, 1958, Pub. L. 85–835, title I, §  103(3), 72 Stat. 990; Sept. 21, 1959, Pub. L. 86–341, title II, § 203, 73 Stat. 611; June 30, 1960, Pub. L. 86–566, 74 Stat. 295; Aug. 11, 1968, Pub. L. 90–475, §§ 4, 6, 82 Stat. 701, 702, set out a program for long staple cotton. See section 1444(h) of this title.
+Section, acts Feb. 16, 1938, ch. 30, title III, § 347, 52 Stat. 59; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 675; July 17, 1952, ch. 933, § 4, 66 Stat. 759; Aug. 28, 1958, Pub. L. 85–835, title I, § 103(3), 72 Stat. 990; Sept. 21, 1959, Pub. L. 86–341, title II, § 203, 73 Stat. 611; June 30, 1960, Pub. L. 86–566, 74 Stat. 295; Aug. 11, 1968, Pub. L. 90–475, §§ 4, 6, 82 Stat. 701, 702, set out a program for long staple cotton. See section 1444(h) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494, provided that the repeal of this section is effective beginning with the 1984 crop of extra long staple cotton.
+Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494, provided that the repeal of this section is effective beginning with the 1984 crop of extra long staple cotton.
 
-##### § 1348. Payments in kind to equalize cost of cotton to domestic and foreign users; rules and regulations; termination date; persons eligible; amount; terms and conditions; raw cotton in inventory
+##### § 1348. Payments in kind to equalize cost of cotton to domestic and foreign users; rules and regulations; termination date; persons eligible; amount; terms and conditions; raw cotton in inventory
 
 In order to maintain and expand domestic consumption of upland cotton produced in the United States and to prevent discrimination against the domestic users of such cotton, notwithstanding any other provision of law, the Commodity Credit Corporation, under such rules and regulations as the Secretary may prescribe, is authorized and directed for the period beginning with April 11, 1964 and ending July 31, 1966, to make payments through the issuance of payment-in-kind certificates to persons other than producers in such amounts and subject to such terms and conditions as the Secretary determines will eliminate inequities due to differences in the cost of raw cotton between domestic and foreign users of such cotton, including such payments as may be necessary to make raw cotton in inventory on April 11, 1964 available for consumption at prices consistent with the purposes of this section: *Provided*, That for the period beginning August 1 of the marketing year for the first crop for which price support is made available under section 1444(b) of this title, and ending July 31, 1966, such payments shall be made in an amount which will make upland cotton produced in the United States available for domestic use at a price which is not in excess of the price at which such cotton is made available for export. The Secretary may extend the period for performance of obligations incurred in connection with payments made for the period ending July 31, 1966, or may make payments on raw cotton in inventory on July 31, 1966, at the rate in effect on such date. No payments shall be made hereunder with respect to 1966 crop cotton.
 
-(Feb. 16, 1938, ch. 30, title III, § 348, as added Pub. L. 88–297, title I, § 101, Apr. 11, 1964, 78 Stat. 173; amended Pub. L. 89–321, title IV, § 401(1), Nov. 3, 1965, 79 Stat. 1192.)
+(Feb. 16, 1938, ch. 30, title III, § 348, as added Pub. L. 88–297, title I, § 101, Apr. 11, 1964, 78 Stat. 173; amended Pub. L. 89–321, title IV, § 401(1), Nov. 3, 1965, 79 Stat. 1192.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1348, acts Feb. 16, 1938, ch. 30, title III, § 348, 52 Stat. 59; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 675; Aug. 28, 1954, ch. 1041, title III, § 311(a), 68 Stat. 904, prohibited agricultural conservation program payments to any farmer who knowingly harvested any basic commodity in excess of his acreage allotment and was repealed by act May 23, 1955, ch. 45, 69 Stat. 65, effective with respect to 1955 and subsequent crops.
+A prior section 1348, acts Feb. 16, 1938, ch. 30, title III, § 348, 52 Stat. 59; Aug. 29, 1949, ch. 518, § 1, 63 Stat. 675; Aug. 28, 1954, ch. 1041, title III, § 311(a), 68 Stat. 904, prohibited agricultural conservation program payments to any farmer who knowingly harvested any basic commodity in excess of his acreage allotment and was repealed by act May 23, 1955, ch. 45, 69 Stat. 65, effective with respect to 1955 and subsequent crops.
 
 **Amendments**
 
@@ -3993,7 +3993,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-##### § 1349. Export market acreage
+##### § 1349. Export market acreage
 
 **(a) Supplementary allotments for 1964 and 1965; acreage limitation; apportionment among States and farms; “export market acreage” on any farm; farm acreage allotment for farms with export acreage; additional allotment; establishment of future allotments without regard to export acreage; exclusion of extra-long-staple cotton and farms receiving additional price support for 1964 and 1965**
 
@@ -4001,23 +4001,23 @@ The acreage allotment established under the provisions of section 1344 of this t
 
 **(b) Bond, other undertaking, and lieu payments for exportation without subsidy and within specified period; terms and conditions; liquidated damages; farm acreage allotment upon noncompliance with conditions; remissions to CCC for defraying costs of encouraging export sales of cotton**
 
-The producers on any farm on which there is export market acreage or the purchasers of cotton produced thereon shall, under regulations issued by the Secretary, furnish a bond or other undertaking prescribed by the Secretary providing for the exportation, without benefit of any Government cotton export subsidy and within such period of time as the Secretary may specify, of a quantity of cotton produced on the farm equal to the average yield for the farm multiplied by the export market acreage as determined pursuant to regulations issued by the Secretary. The bond or other undertaking given pursuant to this section shall provide that, upon failure to comply with the terms and conditions thereof, the person furnishing such bond or other undertaking shall be liable for liquidated damages in an amount which the Secretary determines and specifies in such undertaking will approximate the amount payable on excess cotton under section 1346(a) of this title. The Secretary may, in lieu of the furnishing of a bond or other undertaking, provide for the payment of an amount equal to that which would be payable as liquidated damages under such bond or other undertaking. If such bond or other undertaking is not furnished, or if payment in lieu thereof is not made as provided herein, at such time and in the manner required by regulations of the Secretary, or if the acreage planted to cotton on the farm exceeds the farm acreage allotment established under the provisions of section 1344 of this title by more than the maximum export market acreage, the farm acreage allotment shall be the acreage so established under section 1344 of this title. Amounts collected by the Secretary under this section shall be remitted to the Commodity Credit Corporation and used by the Corporation to defray costs of encouraging export sales of cotton under section 1853 1
+The producers on any farm on which there is export market acreage or the purchasers of cotton produced thereon shall, under regulations issued by the Secretary, furnish a bond or other undertaking prescribed by the Secretary providing for the exportation, without benefit of any Government cotton export subsidy and within such period of time as the Secretary may specify, of a quantity of cotton produced on the farm equal to the average yield for the farm multiplied by the export market acreage as determined pursuant to regulations issued by the Secretary. The bond or other undertaking given pursuant to this section shall provide that, upon failure to comply with the terms and conditions thereof, the person furnishing such bond or other undertaking shall be liable for liquidated damages in an amount which the Secretary determines and specifies in such undertaking will approximate the amount payable on excess cotton under section 1346(a) of this title. The Secretary may, in lieu of the furnishing of a bond or other undertaking, provide for the payment of an amount equal to that which would be payable as liquidated damages under such bond or other undertaking. If such bond or other undertaking is not furnished, or if payment in lieu thereof is not made as provided herein, at such time and in the manner required by regulations of the Secretary, or if the acreage planted to cotton on the farm exceeds the farm acreage allotment established under the provisions of section 1344 of this title by more than the maximum export market acreage, the farm acreage allotment shall be the acreage so established under section 1344 of this title. Amounts collected by the Secretary under this section shall be remitted to the Commodity Credit Corporation and used by the Corporation to defray costs of encouraging export sales of cotton under section 1853 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Feb. 16, 1938, ch. 30, title III, § 349, as added Pub. L. 88–297, title I, § 106(1), Apr. 11, 1964, 78 Stat. 175.)
+(Feb. 16, 1938, ch. 30, title III, § 349, as added Pub. L. 88–297, title I, § 106(1), Apr. 11, 1964, 78 Stat. 175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1853 of this title, referred to in subsec. (b), was repealed by Pub. L. 103–465, title IV, § 412(c), Dec. 8, 1994, 108 Stat. 4964.
+Section 1853 of this title, referred to in subsec. (b), was repealed by Pub. L. 103–465, title IV, § 412(c), Dec. 8, 1994, 108 Stat. 4964.
 
 **Prior Provisions**
 
-A prior section 1349, act Feb. 16, 1938, ch. 30, title III, § 349, 52 Stat. 59, was omitted by act Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670 which amended sections 342 to 350 of act Feb. 16, 1938, ch. 30, title III, 52 Stat. 56 to 60 (sections 1342 to 1344, 1345 to 1347, and prior sections 1348 to 1350 of this title) to be sections 342 to 348 of act Feb. 16, 1938 (sections 1342 to 1344, 1345 to 1347, and a prior section 1348 of this title).
+A prior section 1349, act Feb. 16, 1938, ch. 30, title III, § 349, 52 Stat. 59, was omitted by act Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670 which amended sections 342 to 350 of act Feb. 16, 1938, ch. 30, title III, 52 Stat. 56 to 60 (sections 1342 to 1344, 1345 to 1347, and prior sections 1348 to 1350 of this title) to be sections 342 to 348 of act Feb. 16, 1938 (sections 1342 to 1344, 1345 to 1347, and a prior section 1348 of this title).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4031,7 +4031,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-##### § 1350. National base acreage allotment
+##### § 1350. National base acreage allotment
 
 **(a) Establishment**
 
@@ -4069,7 +4069,7 @@ Any farm receiving any base acreage allotment through release and reapportionmen
 
 Notwithstanding any other provision of this chapter, if the Secretary determines for any year that because of drought, flood, other natural disaster, or a condition beyond the control of the producer a portion of the farm base acreage allotment in a county cannot be timely planted or replanted in such year, he may authorize for such year the transfer of all or a part of such cotton acreage for any farm in the county so affected to another farm in the county or in any other nearby county on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of upland cotton and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm base acreage allotment transferred under this subsection shall be regarded as planted to upland cotton on the farm and in the county and State from which transfer is made for purposes of establishing future farm, county and State allotments.
 
-(Feb. 16, 1938, ch. 30, title III, § 350, as added Pub. L. 88–297, title I, § 105, Apr. 11, 1964, 78 Stat. 175; amended Pub. L. 89–321, title IV, § 401(3), Nov. 3, 1965, 79 Stat. 1193; Pub. L. 90–559, § 1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, § 601(4), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, § 1(19)(A), (D)–(G), Aug. 10, 1973, 87 Stat. 233.)
+(Feb. 16, 1938, ch. 30, title III, § 350, as added Pub. L. 88–297, title I, § 105, Apr. 11, 1964, 78 Stat. 175; amended Pub. L. 89–321, title IV, § 401(3), Nov. 3, 1965, 79 Stat. 1193; Pub. L. 90–559, § 1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, § 601(4), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, § 1(19)(A), (D)–(G), Aug. 10, 1973, 87 Stat. 233.)
 
 **Editorial Notes**
 
@@ -4079,17 +4079,17 @@ The Agricultural Act of 1970, referred to in subsec. (a), is Pub. L. 91–524, N
 
 **Prior Provisions**
 
-A prior section 1350, act Feb. 16, 1938, ch. 30, title III, § 350, 52 Stat. 60, was omitted by act Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670, which amended sections 342 to 350 of act Feb. 16, 1938, ch. 30, title III, 52 Stat. 56 to 60 (sections 1342 to 1344, 1345 to 1347, and prior sections 1348 to 1350 of this title) to be sections 342 to 348 of act Feb. 16, 1938 (sections 1342 to 1344, 1345 to 1347, and a prior section 1348 of this title). See section 1347 of this title.
+A prior section 1350, act Feb. 16, 1938, ch. 30, title III, § 350, 52 Stat. 60, was omitted by act Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670, which amended sections 342 to 350 of act Feb. 16, 1938, ch. 30, title III, 52 Stat. 56 to 60 (sections 1342 to 1344, 1345 to 1347, and prior sections 1348 to 1350 of this title) to be sections 342 to 348 of act Feb. 16, 1938 (sections 1342 to 1344, 1345 to 1347, and a prior section 1348 of this title). See section 1347 of this title.
 
 **Amendments**
 
-1973—Subsec. (a). Pub. L. 93–86, § 1(19)(A), (D), (E), substituted “1971 through 1977” for “1971, 1972, and 1973” and “1972 through 1977” for “1972 and 1973” and inserted requirement that the national base acreage allotment for the 1974 through 1977 crops shall not be less than eleven million acres.
+1973—Subsec. (a). Pub. L. 93–86, § 1(19)(A), (D), (E), substituted “1971 through 1977” for “1971, 1972, and 1973” and “1972 through 1977” for “1972 and 1973” and inserted requirement that the national base acreage allotment for the 1974 through 1977 crops shall not be less than eleven million acres.
 
-Subsec. (e)(2). Pub. L. 93–86, § 1(19)(F), substituted “soybeans, wheat, feed grains, guar, castor beans, triticale, oats, rye or such other crops as the Secretary may deem appropriate” for “soybeans, wheat or feed grains”.
+Subsec. (e)(2). Pub. L. 93–86, § 1(19)(F), substituted “soybeans, wheat, feed grains, guar, castor beans, triticale, oats, rye or such other crops as the Secretary may deem appropriate” for “soybeans, wheat or feed grains”.
 
-Subsec. (f). Pub. L. 93–86, § 1(19)(A), substituted “1971 through 1977” for “1971, 1972, and 1973”.
+Subsec. (f). Pub. L. 93–86, § 1(19)(A), substituted “1971 through 1977” for “1971, 1972, and 1973”.
 
-Subsec. (h). Pub. L. 93–86, § 1(19)(G), substituted “to another farm in the county or in any other nearby county” for “to another farm in the county or in an adjoining county”.
+Subsec. (h). Pub. L. 93–86, § 1(19)(G), substituted “to another farm in the county or in any other nearby county” for “to another farm in the county or in an adjoining county”.
 
 1970—Pub. L. 91–524 designated existing provisions as subsec. (a), substituted provisions for the establishment of a national base acreage allotment covering each of the 1971, 1972, and 1973 crops of upland cotton for provisions authorizing the establishing of a national domestic allotment for the 1966 through 1970 crops of upland cotton, and added subsecs. (b) to (h).
 
@@ -4101,15 +4101,15 @@ Subsec. (h). Pub. L. 93–86, § 1(19)(G), substituted “to another farm in t
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–86, § 1(19)(E)–(G), Aug. 10, 1973, 87 Stat. 233, provided that the amendments made by section 1(19)(E)–(G) of Pub. L. 93–86 are effective beginning with the 1974 crop.
+Pub. L. 93–86, § 1(19)(E)–(G), Aug. 10, 1973, 87 Stat. 233, provided that the amendments made by section 1(19)(E)–(G) of Pub. L. 93–86 are effective beginning with the 1974 crop.
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–524, title VI, § 601, Nov. 30, 1970, 84 Stat. 1371, provided that the amendment made by section 601 of Pub. L. 91–524 is effective beginning with the 1971 crop of upland cotton.
+Pub. L. 91–524, title VI, § 601, Nov. 30, 1970, 84 Stat. 1371, provided that the amendment made by section 601 of Pub. L. 91–524 is effective beginning with the 1971 crop of upland cotton.
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–321, title IV, § 401(3), Nov. 3, 1965, 79 Stat. 1193, provided that the amendment made by section 401(3) of Pub. L. 89–321 is effective with the 1966 crop.
+Pub. L. 89–321, title IV, § 401(3), Nov. 3, 1965, 79 Stat. 1193, provided that the amendment made by section 401(3) of Pub. L. 89–321 is effective with the 1966 crop.
 
 **Inapplicability of Section**
 
@@ -4121,57 +4121,57 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-##### § 1350a. Repealed. Pub. L. 96–470, title I, § 102(e), Oct. 19, 1980, 94 Stat. 2237
+##### § 1350a. Repealed. Pub. L. 96–470, title I, § 102(e), Oct. 19, 1980, 94 Stat. 2237
 
-Section, Pub. L. 91–524, title VI, § 609, Nov. 30, 1970, 84 Stat. 1378, required Secretary to file annually with President for transmission to Congress a complete report of programs carried out under title VI of Pub. L. 91–524.
+Section, Pub. L. 91–524, title VI, § 609, Nov. 30, 1970, 84 Stat. 1378, required Secretary to file annually with President for transmission to Congress a complete report of programs carried out under title VI of Pub. L. 91–524.
 
 #### subpart v—marketing quotas—rice
 
-##### § 1351. Omitted
+##### § 1351. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Feb. 16, 1938, ch. 30, title III, § 351, 52 Stat. 60, set forth the legislative findings relating to rice marketing quotas pursuant to this subpart and was omitted in view of the repeal of the remaining sections of the subpart.
+Section, act Feb. 16, 1938, ch. 30, title III, § 351, 52 Stat. 60, set forth the legislative findings relating to rice marketing quotas pursuant to this subpart and was omitted in view of the repeal of the remaining sections of the subpart.
 
-##### §§ 1352 to 1356. Repealed. Pub. L. 97–98, title VI, § 601, Dec. 22, 1981, 95 Stat. 1242
+##### §§ 1352 to 1356. Repealed. Pub. L. 97–98, title VI, § 601, Dec. 22, 1981, 95 Stat. 1242
 
-Section 1352, acts Feb. 16, 1938, ch. 30, title III, § 352, 52 Stat. 60; Aug. 9, 1955, ch. 648, 69 Stat. 576; Feb. 16, 1976, Pub. L. 94–214, title I, § 101, 90 Stat. 181; Sept. 29, 1977, Pub. L. 95–113, title VII, § 701, 91 Stat. 940, provided for a national acreage allotment and allocation for 1976 through 1981 crops of rice.
+Section 1352, acts Feb. 16, 1938, ch. 30, title III, § 352, 52 Stat. 60; Aug. 9, 1955, ch. 648, 69 Stat. 576; Feb. 16, 1976, Pub. L. 94–214, title I, § 101, 90 Stat. 181; Sept. 29, 1977, Pub. L. 95–113, title VII, § 701, 91 Stat. 940, provided for a national acreage allotment and allocation for 1976 through 1981 crops of rice.
 
-Section 1353, acts Feb. 16, 1938, ch. 30, title III, § 353, 52 Stat. 61; Oct. 31, 1949, ch. 792, title IV, § 418(a), 63 Stat. 1059; June 16, 1950, ch. 268, §§ 1, 2, 64 Stat. 232; Apr. 30, 1955, ch. 29, 69 Stat. 45; Apr. 30, 1955, ch. 30, 69 Stat. 45; May 5, 1955, ch. 31, 69 Stat. 45; Aug. 9, 1955, ch. 652, 69 Stat. 578; May 28, 1956, ch. 327, title III, § 304, 70 Stat. 205; June 4, 1958, Pub. L. 85–443, §§ 1, 2(a), (b), 3, 72 Stat. 177; Aug. 28, 1958, Pub. L. 85–835, title III, § 301, 72 Stat. 994; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Aug. 28, 1958, Pub. L. 85–835, title V, § 501, 72 Stat. 996; Mar. 6, 1962, Pub. L. 87–412, 76 Stat. 20; Jan. 28, 1964, Pub. L. 88–261, 78 Stat. 6; Nov. 3, 1965, Pub. L. 89–321, title VIII, § 801, 79 Stat. 1212; Oct. 11, 1968, Pub. L. 90–559, § 1(8), 82 Stat. 996; Apr. 27, 1973, Pub. L. 93–27, 87 Stat. 27, related to allocation of national acreage allotment.
+Section 1353, acts Feb. 16, 1938, ch. 30, title III, § 353, 52 Stat. 61; Oct. 31, 1949, ch. 792, title IV, § 418(a), 63 Stat. 1059; June 16, 1950, ch. 268, §§ 1, 2, 64 Stat. 232; Apr. 30, 1955, ch. 29, 69 Stat. 45; Apr. 30, 1955, ch. 30, 69 Stat. 45; May 5, 1955, ch. 31, 69 Stat. 45; Aug. 9, 1955, ch. 652, 69 Stat. 578; May 28, 1956, ch. 327, title III, § 304, 70 Stat. 205; June 4, 1958, Pub. L. 85–443, §§ 1, 2(a), (b), 3, 72 Stat. 177; Aug. 28, 1958, Pub. L. 85–835, title III, § 301, 72 Stat. 994; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Aug. 28, 1958, Pub. L. 85–835, title V, § 501, 72 Stat. 996; Mar. 6, 1962, Pub. L. 87–412, 76 Stat. 20; Jan. 28, 1964, Pub. L. 88–261, 78 Stat. 6; Nov. 3, 1965, Pub. L. 89–321, title VIII, § 801, 79 Stat. 1212; Oct. 11, 1968, Pub. L. 90–559, § 1(8), 82 Stat. 996; Apr. 27, 1973, Pub. L. 93–27, 87 Stat. 27, related to allocation of national acreage allotment.
 
-Section 1354, acts Feb. 16, 1938, ch. 30, title III, § 354, 52 Stat. 61; Oct. 31, 1949, ch. 792, title IV, § 418(a), 63 Stat. 1059; Apr. 4, 1960, Pub. L. 86–408, 74 Stat. 15, related to proclamation of marketing quotas and referendum by farmers on such quotas.
+Section 1354, acts Feb. 16, 1938, ch. 30, title III, § 354, 52 Stat. 61; Oct. 31, 1949, ch. 792, title IV, § 418(a), 63 Stat. 1059; Apr. 4, 1960, Pub. L. 86–408, 74 Stat. 15, related to proclamation of marketing quotas and referendum by farmers on such quotas.
 
-Section 1355, acts Feb. 16, 1938, ch. 30, title III, § 355, 52 Stat. 62; July 3, 1948, ch. 827, title II, § 206, 62 Stat. 1256; Oct. 31, 1949, ch. 792, title IV, §§ 415(e), 418(a), 63 Stat. 1058, 1059, related to amount of farm marketing quota.
+Section 1355, acts Feb. 16, 1938, ch. 30, title III, § 355, 52 Stat. 62; July 3, 1948, ch. 827, title II, § 206, 62 Stat. 1256; Oct. 31, 1949, ch. 792, title IV, §§ 415(e), 418(a), 63 Stat. 1058, 1059, related to amount of farm marketing quota.
 
-Section 1356, acts Feb. 16, 1938, ch. 30, title III, § 356, 52 Stat. 62; Oct. 31, 1949, ch. 792, title IV, § 418(a), 63 Stat. 1059; June 4, 1958, Pub. L. 85–443, § 4, 72 Stat. 178; Dec. 14, 1967, Pub. L. 90–191, 81 Stat. 578, related to penalties for farm marketing excess when farm marketing quotas are in effect and to avoidance or postponement of penalties by storage or other disposition.
+Section 1356, acts Feb. 16, 1938, ch. 30, title III, § 356, 52 Stat. 62; Oct. 31, 1949, ch. 792, title IV, § 418(a), 63 Stat. 1059; June 4, 1958, Pub. L. 85–443, § 4, 72 Stat. 178; Dec. 14, 1967, Pub. L. 90–191, 81 Stat. 578, related to penalties for farm marketing excess when farm marketing quotas are in effect and to avoidance or postponement of penalties by storage or other disposition.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 97–98, title VI, § 601, Dec. 22, 1981, 95 Stat. 1242, provided that the repeal of sections 1352 to 1356 of this title is effective beginning with the 1982 crop of rice.
+Pub. L. 97–98, title VI, § 601, Dec. 22, 1981, 95 Stat. 1242, provided that the repeal of sections 1352 to 1356 of this title is effective beginning with the 1982 crop of rice.
 
 #### subpart vi—marketing quotas—peanuts
 
-##### §§ 1357 to 1359a. Repealed. Pub. L. 107–171, title I, § 1309(a)(1), May 13, 2002, 116 Stat. 179
+##### §§ 1357 to 1359a. Repealed. Pub. L. 107–171, title I, § 1309(a)(1), May 13, 2002, 116 Stat. 179
 
-Section 1357, act Feb. 16, 1938, ch. 30, title III, § 357, as added Apr. 3, 1941, ch. 39, § 1, 55 Stat. 88, related to legislative findings concerning peanut marketing quotas.
+Section 1357, act Feb. 16, 1938, ch. 30, title III, § 357, as added Apr. 3, 1941, ch. 39, § 1, 55 Stat. 88, related to legislative findings concerning peanut marketing quotas.
 
-Section 1358, act Feb. 16, 1938, ch. 30, title III, § 358, as added Apr. 3, 1941, ch. 39, § 1, 55 Stat. 88; amended July 9, 1942, ch. 497, § 1(1), 56 Stat. 653; July 26, 1946, ch. 677, 60 Stat. 705; Aug. 1, 1947, ch. 445, § 1, 61 Stat. 721; Aug. 29, 1949, ch. 518, § 4, 63 Stat. 676; Mar. 31, 1950, ch. 81, § 6(b), 64 Stat. 43; Apr. 12, 1951, ch. 28, § 1, 65 Stat. 29; Pub. L. 85–717, § 1, Aug. 21, 1958, 72 Stat. 709; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 996; Pub. L. 92–62, §§ 1–3, Aug. 3, 1971, 85 Stat. 163, 164; Pub. L. 94–247, Mar. 25, 1976, 90 Stat. 285; Pub. L. 95–113, title VIII, §§ 801(b), 802, Sept. 29, 1977, 91 Stat. 944; Pub. L. 97–98, title VII, § 702, Dec. 22, 1981, 95 Stat. 1248; Pub. L. 99–157, § 5, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–198, title VII, § 702, Dec. 23, 1985, 99 Stat. 1430; Pub. L. 102–237, title I, § 117(b)(2)(A), Dec. 13, 1991, 105 Stat. 1841, related to national marketing quota for peanuts.
+Section 1358, act Feb. 16, 1938, ch. 30, title III, § 358, as added Apr. 3, 1941, ch. 39, § 1, 55 Stat. 88; amended July 9, 1942, ch. 497, § 1(1), 56 Stat. 653; July 26, 1946, ch. 677, 60 Stat. 705; Aug. 1, 1947, ch. 445, § 1, 61 Stat. 721; Aug. 29, 1949, ch. 518, § 4, 63 Stat. 676; Mar. 31, 1950, ch. 81, § 6(b), 64 Stat. 43; Apr. 12, 1951, ch. 28, § 1, 65 Stat. 29; Pub. L. 85–717, § 1, Aug. 21, 1958, 72 Stat. 709; Feb. 16, 1938, ch. 30, title III, § 378(d), as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 996; Pub. L. 92–62, §§ 1–3, Aug. 3, 1971, 85 Stat. 163, 164; Pub. L. 94–247, Mar. 25, 1976, 90 Stat. 285; Pub. L. 95–113, title VIII, §§ 801(b), 802, Sept. 29, 1977, 91 Stat. 944; Pub. L. 97–98, title VII, § 702, Dec. 22, 1981, 95 Stat. 1248; Pub. L. 99–157, § 5, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–198, title VII, § 702, Dec. 23, 1985, 99 Stat. 1430; Pub. L. 102–237, title I, § 117(b)(2)(A), Dec. 13, 1991, 105 Stat. 1841, related to national marketing quota for peanuts.
 
-Section 1358–1, act Feb. 16, 1938, ch. 30, title III, § 358–1, as added Pub. L. 101–624, title VIII, § 802, Nov. 28, 1990, 104 Stat. 3459; amended Pub. L. 102–237, title I, § 117(b)(2)(B), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, § 1109(c)(1), Aug. 10, 1993, 107 Stat. 326; Pub. L. 104–127, title I, § 155(i)(1)(A), (2)–(4)(A), (5), Apr. 4, 1996, 110 Stat. 927–929, related to national poundage quotas and acreage allotments for peanuts.
+Section 1358–1, act Feb. 16, 1938, ch. 30, title III, § 358–1, as added Pub. L. 101–624, title VIII, § 802, Nov. 28, 1990, 104 Stat. 3459; amended Pub. L. 102–237, title I, § 117(b)(2)(B), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, § 1109(c)(1), Aug. 10, 1993, 107 Stat. 326; Pub. L. 104–127, title I, § 155(i)(1)(A), (2)–(4)(A), (5), Apr. 4, 1996, 110 Stat. 927–929, related to national poundage quotas and acreage allotments for peanuts.
 
-Section 1358a, act Feb. 16, 1938, ch. 30, title III, § 358a, as added Pub. L. 90–211, Dec. 18, 1967, 81 Stat. 658; amended Pub. L. 91–122, Nov. 21, 1969, 83 Stat. 213; Pub. L. 91–568, Dec. 22, 1970, 84 Stat. 1499; Pub. L. 95–113, title VIII, § 803, Sept. 29, 1977, 91 Stat. 946; Pub. L. 97–98, title VII, § 703, Dec. 22, 1981, 95 Stat. 1251; Pub. L. 99–198, title VII, § 703, Dec. 23, 1985, 99 Stat. 1434; Pub. L. 100–387, title III, § 304(a)(2), Aug. 11, 1988, 102 Stat. 948, related to transfer of peanut acreage allotments.
+Section 1358a, act Feb. 16, 1938, ch. 30, title III, § 358a, as added Pub. L. 90–211, Dec. 18, 1967, 81 Stat. 658; amended Pub. L. 91–122, Nov. 21, 1969, 83 Stat. 213; Pub. L. 91–568, Dec. 22, 1970, 84 Stat. 1499; Pub. L. 95–113, title VIII, § 803, Sept. 29, 1977, 91 Stat. 946; Pub. L. 97–98, title VII, § 703, Dec. 22, 1981, 95 Stat. 1251; Pub. L. 99–198, title VII, § 703, Dec. 23, 1985, 99 Stat. 1434; Pub. L. 100–387, title III, § 304(a)(2), Aug. 11, 1988, 102 Stat. 948, related to transfer of peanut acreage allotments.
 
-Section 1358b, act Feb. 16, 1938, ch. 30, title III, § 358b, as added Pub. L. 101–624, title VIII, § 803, Nov. 28, 1990, 104 Stat. 3466; amended Pub. L. 102–237, title I, § 122, Dec. 13, 1991, 105 Stat. 1844; Pub. L. 104–127, title I, § 155(i)(1)(B), (4)(B), (6), Apr. 4, 1996, 110 Stat. 928, 929, related to sale, lease, or transfer of farm poundage quota for peanuts.
+Section 1358b, act Feb. 16, 1938, ch. 30, title III, § 358b, as added Pub. L. 101–624, title VIII, § 803, Nov. 28, 1990, 104 Stat. 3466; amended Pub. L. 102–237, title I, § 122, Dec. 13, 1991, 105 Stat. 1844; Pub. L. 104–127, title I, § 155(i)(1)(B), (4)(B), (6), Apr. 4, 1996, 110 Stat. 928, 929, related to sale, lease, or transfer of farm poundage quota for peanuts.
 
-Section 1358c, act Feb. 16, 1938, ch. 30, title III, § 358c, as added Pub. L. 101–624, title VIII, § 805, Nov. 28, 1990, 104 Stat. 3474; amended Pub. L. 104–127, title I, § 155(i)(1)(C), Apr. 4, 1996, 110 Stat. 928, related to experimental and research programs for peanuts.
+Section 1358c, act Feb. 16, 1938, ch. 30, title III, § 358c, as added Pub. L. 101–624, title VIII, § 805, Nov. 28, 1990, 104 Stat. 3474; amended Pub. L. 104–127, title I, § 155(i)(1)(C), Apr. 4, 1996, 110 Stat. 928, related to experimental and research programs for peanuts.
 
-Section 1359, act Feb. 16, 1938, ch. 30, title III, § 358d, formerly § 359, as added Apr. 3, 1941, ch. 39, § 1, 55 Stat. 90; amended July 9, 1942, ch. 497, § 1(2), (3), 56 Stat. 653; Aug. 1, 1947, ch. 445, § 2, 61 Stat. 721; July 3, 1948, ch. 827, title II, § 207(d), 62 Stat. 1257; Mar. 31, 1950, ch. 81, § 6(a), 64 Stat. 42; Apr. 12, 1951, ch. 28, § 2, 65 Stat. 31; Mar. 28, 1952, ch. 110, 66 Stat. 27; May 28, 1956, ch. 327, title III, §§ 305, 306, 70 Stat. 205; Pub. L. 85–127, Aug. 13, 1957, 71 Stat. 344; Pub. L. 85–717, § 2, Aug. 21, 1958, 72 Stat. 709; Pub. L. 95–113, title VIII, § 804, Sept. 29, 1977, 91 Stat. 946; Pub. L. 96–31, July 7, 1979, 93 Stat. 81; Pub. L. 97–98, title VII, § 704, Dec. 22, 1981, 95 Stat. 1251; Pub. L. 99–198, title VII, § 704, Dec. 23, 1985, 99 Stat. 1435; Pub. L. 101–82, title VI, § 601, Aug. 14, 1989, 103 Stat. 586; renumbered § 358d and amended Pub. L. 102–237, title I, § 117(a), (b)(2)(C), Dec. 13, 1991, 105 Stat. 1841, related to peanut marketing penalties.
+Section 1359, act Feb. 16, 1938, ch. 30, title III, § 358d, formerly § 359, as added Apr. 3, 1941, ch. 39, § 1, 55 Stat. 90; amended July 9, 1942, ch. 497, § 1(2), (3), 56 Stat. 653; Aug. 1, 1947, ch. 445, § 2, 61 Stat. 721; July 3, 1948, ch. 827, title II, § 207(d), 62 Stat. 1257; Mar. 31, 1950, ch. 81, § 6(a), 64 Stat. 42; Apr. 12, 1951, ch. 28, § 2, 65 Stat. 31; Mar. 28, 1952, ch. 110, 66 Stat. 27; May 28, 1956, ch. 327, title III, §§ 305, 306, 70 Stat. 205; Pub. L. 85–127, Aug. 13, 1957, 71 Stat. 344; Pub. L. 85–717, § 2, Aug. 21, 1958, 72 Stat. 709; Pub. L. 95–113, title VIII, § 804, Sept. 29, 1977, 91 Stat. 946; Pub. L. 96–31, July 7, 1979, 93 Stat. 81; Pub. L. 97–98, title VII, § 704, Dec. 22, 1981, 95 Stat. 1251; Pub. L. 99–198, title VII, § 704, Dec. 23, 1985, 99 Stat. 1435; Pub. L. 101–82, title VI, § 601, Aug. 14, 1989, 103 Stat. 586; renumbered § 358d and amended Pub. L. 102–237, title I, § 117(a), (b)(2)(C), Dec. 13, 1991, 105 Stat. 1841, related to peanut marketing penalties.
 
-Section 1359a, act Feb. 16, 1938, ch. 30, title III, § 358e, formerly § 359a, as added Pub. L. 101–624, title VIII, § 804, Nov. 28, 1990, 104 Stat. 3467; renumbered § 358e and amended Pub. L. 102–237, title I, § 117(a), (b)(2)(D), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, § 1109(c)(2), Aug. 10, 1993, 107 Stat. 326; Pub. L. 103–182, title III, § 321(d)(1)(B), Dec. 8, 1993, 107 Stat. 2110; Pub. L. 103–465, title IV, § 404(e)(6), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–127, title I, § 155(i)(1)(D), Apr. 4, 1996, 110 Stat. 928, related to marketing penalties and disposition of additional peanuts.
+Section 1359a, act Feb. 16, 1938, ch. 30, title III, § 358e, formerly § 359a, as added Pub. L. 101–624, title VIII, § 804, Nov. 28, 1990, 104 Stat. 3467; renumbered § 358e and amended Pub. L. 102–237, title I, § 117(a), (b)(2)(D), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, § 1109(c)(2), Aug. 10, 1993, 107 Stat. 326; Pub. L. 103–182, title III, § 321(d)(1)(B), Dec. 8, 1993, 107 Stat. 2110; Pub. L. 103–465, title IV, § 404(e)(6), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–127, title I, § 155(i)(1)(D), Apr. 4, 1996, 110 Stat. 928, related to marketing penalties and disposition of additional peanuts.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4185,9 +4185,9 @@ For applicability of this subpart, as in effect on the day before May 13, 2002, 
 
 **Codification**
 
-Part VII of subtitle B of title III of the Agricultural Adjustment Act of 1938, comprising this subpart, was originally added to act Feb. 16, 1938, ch. 30, title III, by Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3479, and amended Pub. L. 102–237, title I, § 111(c)–(k), Dec. 13, 1991, 105 Stat. 1830–1836; Pub. L. 102–535, Oct. 27, 1992, 106 Stat. 3526; Pub. L. 103–66, title I, § 1107(b), Aug. 10, 1993, 107 Stat. 324. Part VII is shown herein, however, as having been added by Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 187, without reference to those intervening amendments because of the extensive revision of part VII by Pub. L. 107–171.
+Part VII of subtitle B of title III of the Agricultural Adjustment Act of 1938, comprising this subpart, was originally added to act Feb. 16, 1938, ch. 30, title III, by Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3479, and amended Pub. L. 102–237, title I, § 111(c)–(k), Dec. 13, 1991, 105 Stat. 1830–1836; Pub. L. 102–535, Oct. 27, 1992, 106 Stat. 3526; Pub. L. 103–66, title I, § 1107(b), Aug. 10, 1993, 107 Stat. 324. Part VII is shown herein, however, as having been added by Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 187, without reference to those intervening amendments because of the extensive revision of part VII by Pub. L. 107–171.
 
-##### § 1359aa. Definitions
+##### § 1359aa. Definitions
 
 In this subpart:
 
@@ -4233,7 +4233,7 @@ The term “offshore State” means a sugarcane producing State located outside 
 
 The term “United States”, when used in a geographical sense, means all of the States.
 
-(Feb. 16, 1938, ch. 30, title III, § 359a, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 187; amended Pub. L. 110–234, title I, § 1403(a), May 22, 2008, 122 Stat. 981; Pub. L. 110–246, § 4(a), title I, § 1403(a), June 18, 2008, 122 Stat. 1664, 1709.)
+(Feb. 16, 1938, ch. 30, title III, § 359a, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 187; amended Pub. L. 110–234, title I, § 1403(a), May 22, 2008, 122 Stat. 981; Pub. L. 110–246, § 4(a), title I, § 1403(a), June 18, 2008, 122 Stat. 1664, 1709.)
 
 **Editorial Notes**
 
@@ -4243,13 +4243,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1359aa, act Feb. 16, 1938, ch. 30, title III, § 359a, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3479; amended Pub. L. 102–237, title I, § 111(c), Dec. 13, 1991, 105 Stat. 1830, related to information reporting with respect to sugar and crystalline fructose marketing quotas, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359aa, act Feb. 16, 1938, ch. 30, title III, § 359a, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3479; amended Pub. L. 102–237, title I, § 111(c), Dec. 13, 1991, 105 Stat. 1830, related to information reporting with respect to sugar and crystalline fructose marketing quotas, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 A prior section 359a of act Feb. 16, 1938, was renumbered section 359e and was classified to section 1359a of this title prior to repeal by Pub. L. 107–171.
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 1403(a), added pars. (1) and (3) and redesignated former pars. (1) to (4) as (2), (4), (5), and (6), respectively.
+2008—Pub. L. 110–246, § 1403(a), added pars. (1) and (3) and redesignated former pars. (1) to (4) as (2), (4), (5), and (6), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4257,7 +4257,7 @@ A prior section 359a of act Feb. 16, 1938, was renumbered section 359e and was c
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-##### § 1359bb. Flexible marketing allotments for sugar
+##### § 1359bb. Flexible marketing allotments for sugar
 
 **(a) Sugar estimates**
 
@@ -4325,7 +4325,7 @@ The marketing allotments under this subpart shall apply to the marketing by proc
 
 Any processor who knowingly violates paragraph (1) shall be liable to the Commodity Credit Corporation for a civil penalty in an amount equal to 3 times the United States market value, at the time of the commission of the violation, of that quantity of sugar involved in the violation.
 
-(Feb. 16, 1938, ch. 30, title III, § 359b, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 188; amended Pub. L. 110–234, title I, § 1403(b), May 22, 2008, 122 Stat. 982; Pub. L. 110–246, § 4(a), title I, § 1403(b), June 18, 2008, 122 Stat. 1664, 1710; Pub. L. 113–79, title I, § 1301(b)(1), Feb. 7, 2014, 128 Stat. 688; Pub. L. 115–334, title I, § 1301(b)(1), Dec. 20, 2018, 132 Stat. 4511; Pub. L. 119–21, title I, § 10312(c)(1), July 4, 2025, 139 Stat. 97.)
+(Feb. 16, 1938, ch. 30, title III, § 359b, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 188; amended Pub. L. 110–234, title I, § 1403(b), May 22, 2008, 122 Stat. 982; Pub. L. 110–246, § 4(a), title I, § 1403(b), June 18, 2008, 122 Stat. 1664, 1710; Pub. L. 113–79, title I, § 1301(b)(1), Feb. 7, 2014, 128 Stat. 688; Pub. L. 115–334, title I, § 1301(b)(1), Dec. 20, 2018, 132 Stat. 4511; Pub. L. 119–21, title I, § 10312(c)(1), July 4, 2025, 139 Stat. 97.)
 
 **Editorial Notes**
 
@@ -4337,7 +4337,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, § 359b, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3480; amended Pub. L. 102–237, title I, § 111(d), Dec. 13, 1991, 105 Stat. 1831; Pub. L. 103–66, title I, § 1107(b), Aug. 10, 1993, 107 Stat. 324, related to marketing allotments for sugar and crystalline fructose, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, § 359b, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3480; amended Pub. L. 102–237, title I, § 111(d), Dec. 13, 1991, 105 Stat. 1831; Pub. L. 103–66, title I, § 1107(b), Aug. 10, 1993, 107 Stat. 324, related to marketing allotments for sugar and crystalline fructose, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
@@ -4347,7 +4347,7 @@ A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, § 359b, as adde
 
 2014—Subsec. (a)(1). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Pub. L. 110–246, § 1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
+2008—Pub. L. 110–246, § 1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4355,7 +4355,7 @@ A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, § 359b, as adde
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-##### § 1359cc. Establishment of flexible marketing allotments
+##### § 1359cc. Establishment of flexible marketing allotments
 
 **(a) In general**
 
@@ -4449,7 +4449,7 @@ If the Secretary makes an upward adjustment under paragraph (1)(A), in adjusting
 
 Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time of the reduction, the quantity of sugar marketed exceeds the processor’s reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.
 
-(Feb. 16, 1938, ch. 30, title III, § 359c, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 189; amended Pub. L. 110–234, title I, § 1403(c), May 22, 2008, 122 Stat. 983; Pub. L. 110–246, § 4(a), title I, § 1403(c), June 18, 2008, 122 Stat. 1664, 1712; Pub. L. 119–21, title I, § 10312(c)(2), July 4, 2025, 139 Stat. 97.)
+(Feb. 16, 1938, ch. 30, title III, § 359c, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 189; amended Pub. L. 110–234, title I, § 1403(c), May 22, 2008, 122 Stat. 983; Pub. L. 110–246, § 4(a), title I, § 1403(c), June 18, 2008, 122 Stat. 1664, 1712; Pub. L. 119–21, title I, § 10312(c)(2), July 4, 2025, 139 Stat. 97.)
 
 **Editorial Notes**
 
@@ -4459,19 +4459,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, § 359c, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3481; amended Pub. L. 102–237, title I, § 111(e), Dec. 13, 1991, 105 Stat. 1832, related to establishment of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, § 359c, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3481; amended Pub. L. 102–237, title I, § 111(e), Dec. 13, 1991, 105 Stat. 1832, related to establishment of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
 2025—Subsec. (g)(2). Pub. L. 119–21 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), in the case” for “In the case”, and added subpar. (B).
 
-2008—Subsec. (b). Pub. L. 110–246, § 1403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to: in par. (1), establishment of the overall allotment quantity by deducting from the sum of the estimated sugar consumption and reasonable carryover stocks for the crop year 1,532,000 short tons, raw value, and carry-in stocks of sugar, including sugar in Commodity Credit Corporation inventory; and in par. (2), adjustment of overall allotment quantity to avoid the forfeiture of sugar to the Commodity Credit Corporation.
+2008—Subsec. (b). Pub. L. 110–246, § 1403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to: in par. (1), establishment of the overall allotment quantity by deducting from the sum of the estimated sugar consumption and reasonable carryover stocks for the crop year 1,532,000 short tons, raw value, and carry-in stocks of sugar, including sugar in Commodity Credit Corporation inventory; and in par. (2), adjustment of overall allotment quantity to avoid the forfeiture of sugar to the Commodity Credit Corporation.
 
-Subsec. (d)(2). Pub. L. 110–246, § 1403(c)(2), inserted “or in-process beet sugar” before period at end.
+Subsec. (d)(2). Pub. L. 110–246, § 1403(c)(2), inserted “or in-process beet sugar” before period at end.
 
-Subsec. (g)(1). Pub. L. 110–246, § 1403(c)(3), substituted “Adjustments” for “In general” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B).
+Subsec. (g)(1). Pub. L. 110–246, § 1403(c)(3), substituted “Adjustments” for “In general” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B).
 
-Subsec. (h). Pub. L. 110–246, § 1403(c)(4), struck out subsec. (h). Prior to amendment, text read as follows: “Whenever the Secretary estimates or reestimates under section 1359bb(a) of this title, or has reason to believe, that imports of sugars, syrups or molasses for human consumption or to be used for the extraction of sugar for human consumption, whether under a tariff-rate quota or in excess or outside of a tariff-rate quota, will exceed 1,532,000 short tons (raw value equivalent) (excluding any imports attributable to reassignment under paragraph (1)(D) or (2)(C) of section 1359ee(b) of this title), and that the imports would lead to a reduction of the overall allotment quantity, the Secretary shall suspend the marketing allotments established under this section until such time as the imports have been restricted, eliminated, or reduced to or below the level of 1,532,000 short tons (raw value equivalent).”
+Subsec. (h). Pub. L. 110–246, § 1403(c)(4), struck out subsec. (h). Prior to amendment, text read as follows: “Whenever the Secretary estimates or reestimates under section 1359bb(a) of this title, or has reason to believe, that imports of sugars, syrups or molasses for human consumption or to be used for the extraction of sugar for human consumption, whether under a tariff-rate quota or in excess or outside of a tariff-rate quota, will exceed 1,532,000 short tons (raw value equivalent) (excluding any imports attributable to reassignment under paragraph (1)(D) or (2)(C) of section 1359ee(b) of this title), and that the imports would lead to a reduction of the overall allotment quantity, the Secretary shall suspend the marketing allotments established under this section until such time as the imports have been restricted, eliminated, or reduced to or below the level of 1,532,000 short tons (raw value equivalent).”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4479,7 +4479,7 @@ Subsec. (h). Pub. L. 110–246, § 1403(c)(4), struck out subsec. (h). Prior t
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-##### § 1359dd. Allocation of marketing allotments
+##### § 1359dd. Allocation of marketing allotments
 
 **(a) Allocation to processors**
 
@@ -4665,7 +4665,7 @@ In the absence of a mutual agreement described in subclause (I), the new entrant
 
 Any decision made under this subsection may be appealed to the Secretary in accordance with section 1359ii of this title.
 
-(Feb. 16, 1938, ch. 30, title III, § 359d, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 191; amended Pub. L. 110–234, title I, § 1403(d), May 22, 2008, 122 Stat. 984; Pub. L. 110–246, § 4(a), title I, § 1403(d), June 18, 2008, 122 Stat. 1664, 1712.)
+(Feb. 16, 1938, ch. 30, title III, § 359d, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 191; amended Pub. L. 110–234, title I, § 1403(d), May 22, 2008, 122 Stat. 984; Pub. L. 110–246, § 4(a), title I, § 1403(d), June 18, 2008, 122 Stat. 1664, 1712.)
 
 **Editorial Notes**
 
@@ -4675,13 +4675,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1359dd, act Feb. 16, 1938, ch. 30, title III, § 359d, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3483; amended Pub. L. 102–237, title I, § 111(f), Dec. 13, 1991, 105 Stat. 1833, related to allocation of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359dd, act Feb. 16, 1938, ch. 30, title III, § 359d, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3483; amended Pub. L. 102–237, title I, § 111(f), Dec. 13, 1991, 105 Stat. 1833, related to allocation of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
-2008—Subsec. (b)(1)(F). Pub. L. 110–246, § 1403(d)(1), substituted “If” for “Except as otherwise provided in section 1359ff(c)(8) of this title, if”.
+2008—Subsec. (b)(1)(F). Pub. L. 110–246, § 1403(d)(1), substituted “If” for “Except as otherwise provided in section 1359ff(c)(8) of this title, if”.
 
-Subsec. (b)(2)(G) to (I). Pub. L. 110–246, § 1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
+Subsec. (b)(2)(G) to (I). Pub. L. 110–246, § 1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4689,7 +4689,7 @@ Subsec. (b)(2)(G) to (I). Pub. L. 110–246, § 1403(d)(2), added subpars. (G)
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-##### § 1359ee. Reassignment of deficits
+##### § 1359ee. Reassignment of deficits
 
 **(a) Estimates of deficits**
 
@@ -4727,7 +4727,7 @@ At any time allotments are in effect under this subpart, the Secretary, from tim
 
 The allocation of each processor receiving a reassigned quantity of an allotment under this subsection for a crop year shall be increased to reflect the reassignment.
 
-(Feb. 16, 1938, ch. 30, title III, § 359e, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 197; amended Pub. L. 110–234, title I, § 1403(e), May 22, 2008, 122 Stat. 986; Pub. L. 110–246, § 4(a), title I, § 1403(e), June 18, 2008, 122 Stat. 1664, 1714; Pub. L. 119–21, title I, § 10312(c)(3), July 4, 2025, 139 Stat. 97.)
+(Feb. 16, 1938, ch. 30, title III, § 359e, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 197; amended Pub. L. 110–234, title I, § 1403(e), May 22, 2008, 122 Stat. 986; Pub. L. 110–246, § 4(a), title I, § 1403(e), June 18, 2008, 122 Stat. 1664, 1714; Pub. L. 119–21, title I, § 10312(c)(3), July 4, 2025, 139 Stat. 97.)
 
 **Editorial Notes**
 
@@ -4737,13 +4737,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1359ee, act Feb. 16, 1938, ch. 30, title III, § 359e, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, § 111(g), Dec. 13, 1991, 105 Stat. 1833, related to reassignment of sugar deficits, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359ee, act Feb. 16, 1938, ch. 30, title III, § 359e, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, § 111(g), Dec. 13, 1991, 105 Stat. 1833, related to reassignment of sugar deficits, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
 2025—Subsec. (b)(2). Pub. L. 119–21 designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
-2008—Subsec. (b)(1)(D), (2)(C). Pub. L. 110–246, § 1403(e), inserted “of raw cane sugar” after “imports”.
+2008—Subsec. (b)(1)(D), (2)(C). Pub. L. 110–246, § 1403(e), inserted “of raw cane sugar” after “imports”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4751,7 +4751,7 @@ A prior section 1359ee, act Feb. 16, 1938, ch. 30, title III, § 359e, as adde
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-##### § 1359ff. Provisions applicable to producers
+##### § 1359ff. Provisions applicable to producers
 
 **(a) Processor assurances**
 
@@ -4855,7 +4855,7 @@ Notwithstanding the preceding subparagraph, the Secretary may authorize the coun
 
 Whenever the Secretary determines that, because of a natural disaster or other condition beyond the control of producers that adversely affects a crop of sugarcane subject to proportionate shares, the amount of sugar from sugarcane produced by producers subject to the proportionate shares will not be sufficient to enable processors in the State to meet the State’s cane sugar allotment and provide a normal carryover inventory of sugar, the Secretary may uniformly allow producers to harvest an amount of sugarcane in excess of their proportionate share, or suspend proportionate shares entirely, as necessary to enable processors to meet the State allotment and provide a normal carryover inventory of sugar.
 
-(Feb. 16, 1938, ch. 30, title III, § 359f, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 198; amended Pub. L. 110–234, title I, § 1403(f), May 22, 2008, 122 Stat. 986; Pub. L. 110–246, § 4(a), title I, § 1403(f), June 18, 2008, 122 Stat. 1664, 1714; Pub. L. 113–79, title I, § 1609(a), Feb. 7, 2014, 128 Stat. 709.)
+(Feb. 16, 1938, ch. 30, title III, § 359f, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 198; amended Pub. L. 110–234, title I, § 1403(f), May 22, 2008, 122 Stat. 986; Pub. L. 110–246, § 4(a), title I, § 1403(f), June 18, 2008, 122 Stat. 1664, 1714; Pub. L. 113–79, title I, § 1609(a), Feb. 7, 2014, 128 Stat. 709.)
 
 **Editorial Notes**
 
@@ -4865,13 +4865,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1359ff, act Feb. 16, 1938, ch. 30, title III, § 359f, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, § 111(h), Dec. 13, 1991, 105 Stat. 1834; Pub. L. 102–535, Oct. 27, 1992, 106 Stat. 3526, related to provisions applicable to producers, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359ff, act Feb. 16, 1938, ch. 30, title III, § 359f, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, § 111(h), Dec. 13, 1991, 105 Stat. 1834; Pub. L. 102–535, Oct. 27, 1992, 106 Stat. 3526, related to provisions applicable to producers, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
 2014—Subsec. (c)(1)(B). Pub. L. 113–79 inserted period at end.
 
-2008—Subsec. (c). Pub. L. 110–246, § 1403(f), added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, in par. (3), substituted “paragraph (2)” for “paragraph (1)”, “quantity of sugar produced from sugarcane” for “quantity of sugarcane”, and “paragraph (8)” for “paragraph (7)”, in par. (6)(C), substituted “acreage of sugarcane for sugar” for “acreage of sugarcane”, in par. (8), substituted “the amount of sugar from sugarcane” for “the amount of sugarcane”, and struck out former par. (8) which related to petition to modify allocations to allow delivery to another sugarcane processing company if a processing facility was closed and the growers that had delivered sugarcane to the facility prior to closure had elected to deliver their sugarcane to another company.
+2008—Subsec. (c). Pub. L. 110–246, § 1403(f), added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, in par. (3), substituted “paragraph (2)” for “paragraph (1)”, “quantity of sugar produced from sugarcane” for “quantity of sugarcane”, and “paragraph (8)” for “paragraph (7)”, in par. (6)(C), substituted “acreage of sugarcane for sugar” for “acreage of sugarcane”, in par. (8), substituted “the amount of sugar from sugarcane” for “the amount of sugarcane”, and struck out former par. (8) which related to petition to modify allocations to allow delivery to another sugarcane processing company if a processing facility was closed and the growers that had delivered sugarcane to the facility prior to closure had elected to deliver their sugarcane to another company.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4879,7 +4879,7 @@ A prior section 1359ff, act Feb. 16, 1938, ch. 30, title III, § 359f, as adde
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-##### § 1359gg. Special rules
+##### § 1359gg. Special rules
 
 **(a) Transfer of acreage base history**
 
@@ -4957,7 +4957,7 @@ A producer in a proportionate share State, upon written consent from all affecte
 
 **(B)** the pro rata amount of allocation at the processing company holding the applicable allocation that equals the contribution of the grower to allocation of the processing company for the sugarcane acreage base being transferred.
 
-(Feb. 16, 1938, ch. 30, title III, § 359g, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 201; amended Pub. L. 110–234, title I, § 1403(g), May 22, 2008, 122 Stat. 987; Pub. L. 110–246, § 4(a), title I, § 1403(g), June 18, 2008, 122 Stat. 1664, 1715.)
+(Feb. 16, 1938, ch. 30, title III, § 359g, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 201; amended Pub. L. 110–234, title I, § 1403(g), May 22, 2008, 122 Stat. 987; Pub. L. 110–246, § 4(a), title I, § 1403(g), June 18, 2008, 122 Stat. 1664, 1715.)
 
 **Editorial Notes**
 
@@ -4967,15 +4967,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1359gg, act Feb. 16, 1938, ch. 30, title III, § 359g, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, § 111(i), Dec. 13, 1991, 105 Stat. 1835, related to special rules, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359gg, act Feb. 16, 1938, ch. 30, title III, § 359g, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, § 111(i), Dec. 13, 1991, 105 Stat. 1835, related to special rules, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.”
+2008—Subsec. (a). Pub. L. 110–246, § 1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.”
 
-Subsec. (d)(1). Pub. L. 110–246, § 1403(g)(2)(A), inserted “affected” before “crop-share owners” in two places and struck out “, and from the processing company holding the applicable allocation for such shares,” before “may deliver”.
+Subsec. (d)(1). Pub. L. 110–246, § 1403(g)(2)(A), inserted “affected” before “crop-share owners” in two places and struck out “, and from the processing company holding the applicable allocation for such shares,” before “may deliver”.
 
-Subsec. (d)(2). Pub. L. 110–246, § 1403(g)(2)(B), struck out “the product of” after “based on” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (d)(2). Pub. L. 110–246, § 1403(g)(2)(B), struck out “the product of” after “based on” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) the number of acres of proportionate shares being transferred; and
 
@@ -4987,7 +4987,7 @@ Subsec. (d)(2). Pub. L. 110–246, § 1403(g)(2)(B), struck out “the product
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-##### § 1359hh. Regulations; violations; publication of Secretary’s determinations; jurisdiction of the courts; United States attorneys
+##### § 1359hh. Regulations; violations; publication of Secretary’s determinations; jurisdiction of the courts; United States attorneys
 
 **(a) Regulations**
 
@@ -5015,15 +5015,15 @@ Whenever the Secretary shall so request, it shall be the duty of the several Uni
 
 The remedies and penalties provided for in this subpart shall be in addition to, and not exclusive of, any remedies or penalties existing at law or in equity.
 
-(Feb. 16, 1938, ch. 30, title III, § 359h, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 202.)
+(Feb. 16, 1938, ch. 30, title III, § 359h, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 202.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1359hh, act Feb. 16, 1938, ch. 30, title III, § 359h, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, § 111(j), Dec. 13, 1991, 105 Stat. 1836, related to regulations, violations, publication of Secretary’s determinations, jurisdiction of courts, and United States attorneys, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359hh, act Feb. 16, 1938, ch. 30, title III, § 359h, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, § 111(j), Dec. 13, 1991, 105 Stat. 1836, related to regulations, violations, publication of Secretary’s determinations, jurisdiction of courts, and United States attorneys, prior to the general amendment of this subpart by Pub. L. 107–171.
 
-##### § 1359ii. Appeals
+##### § 1359ii. Appeals
 
 **(a) In general**
 
@@ -5039,7 +5039,7 @@ Any such appeal shall be taken by filing with the Secretary, within 20 days afte
 
 The Secretary shall provide each appellant an opportunity for a hearing before an administrative law judge in accordance with sections 554 and 556 of title 5. The expenses for conducting the hearing shall be reimbursed by the Commodity Credit Corporation.
 
-(Feb. 16, 1938, ch. 30, title III, § 359i, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 202; amended Pub. L. 110–234, title I, § 1403(h), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, § 4(a), title I, § 1403(h), June 18, 2008, 122 Stat. 1664, 1716.)
+(Feb. 16, 1938, ch. 30, title III, § 359i, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 202; amended Pub. L. 110–234, title I, § 1403(h), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, § 4(a), title I, § 1403(h), June 18, 2008, 122 Stat. 1664, 1716.)
 
 **Editorial Notes**
 
@@ -5049,13 +5049,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1359ii, act Feb. 16, 1938, ch. 30, title III, § 359i, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3487; amended Pub. L. 102–237, title I, § 111(k), Dec. 13, 1991, 105 Stat. 1836, related to appeals, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359ii, act Feb. 16, 1938, ch. 30, title III, § 359i, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3487; amended Pub. L. 102–237, title I, § 111(k), Dec. 13, 1991, 105 Stat. 1836, related to appeals, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 1403(h)(1), inserted “or 1359gg(d)” after “1359ff”.
+2008—Subsec. (a). Pub. L. 110–246, § 1403(h)(1), inserted “or 1359gg(d)” after “1359ff”.
 
-Subsec. (c). Pub. L. 110–246, § 1403(h)(2), struck out subsec. (c) which related to special appeal process regarding beet sugar allocations.
+Subsec. (c). Pub. L. 110–246, § 1403(h)(2), struck out subsec. (c) which related to special appeal process regarding beet sugar allocations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5063,7 +5063,7 @@ Subsec. (c). Pub. L. 110–246, § 1403(h)(2), struck out subsec. (c) which re
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-##### § 1359jj. Administration
+##### § 1359jj. Administration
 
 **(a) Use of certain agencies**
 
@@ -5073,15 +5073,15 @@ In carrying out this subpart, the Secretary may use the services of local commit
 
 The Secretary shall use the services, facilities, funds, and authorities of the Commodity Credit Corporation to carry out this subpart.
 
-(Feb. 16, 1938, ch. 30, title III, § 359j, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 203.)
+(Feb. 16, 1938, ch. 30, title III, § 359j, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 203.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1359jj, act Feb. 16, 1938, ch. 30, title III, § 359j, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3488, related to administration of this subpart, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359jj, act Feb. 16, 1938, ch. 30, title III, § 359j, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3488, related to administration of this subpart, prior to the general amendment of this subpart by Pub. L. 107–171.
 
-##### § 1359kk. Administration of tariff rate quotas
+##### § 1359kk. Administration of tariff rate quotas
 
 **(a) Establishment**
 
@@ -5183,13 +5183,13 @@ Based on the findings in the report submitted under paragraph (2)(D), and after 
 
 **(ii)** are consistent with the requirements of this part, section 7272 of this title, and obligations under international trade agreements that have been approved by Congress.
 
-(Feb. 16, 1938, ch. 30, title III, § 359k, as added Pub. L. 110–234, title I, § 1403(j), May 22, 2008, 122 Stat. 988, and Pub. L. 110–246, § 4(a), title I, § 1403(j), June 18, 2008, 122 Stat. 1664, 1717; amended Pub. L. 119–21, title I, § 10312(d), (e), July 4, 2025, 139 Stat. 97, 99.)
+(Feb. 16, 1938, ch. 30, title III, § 359k, as added Pub. L. 110–234, title I, § 1403(j), May 22, 2008, 122 Stat. 988, and Pub. L. 110–246, § 4(a), title I, § 1403(j), June 18, 2008, 122 Stat. 1664, 1717; amended Pub. L. 119–21, title I, § 10312(d), (e), July 4, 2025, 139 Stat. 97, 99.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsec. (c)(3)(B), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitle A of title VII of the Act is classified generally to part I (§ 1671 et seq.) of subtitle IV of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (c)(3)(B), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitle A of title VII of the Act is classified generally to part I (§ 1671 et seq.) of subtitle IV of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 **Codification**
 
@@ -5197,13 +5197,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 1359kk, act Feb. 16, 1938, ch. 30, title III, § 359k, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 204, related to reallocation of sugar quota import shortfalls in 2002 through 2007 calendar years, prior to repeal by Pub. L. 110–234, title I, § 1403(i), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, § 4, title I, § 1403(i), June 18, 2008, 122 Stat. 1664, 1716, effective May 22, 2008.
+A prior section 1359kk, act Feb. 16, 1938, ch. 30, title III, § 359k, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 204, related to reallocation of sugar quota import shortfalls in 2002 through 2007 calendar years, prior to repeal by Pub. L. 110–234, title I, § 1403(i), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, § 4, title I, § 1403(i), June 18, 2008, 122 Stat. 1664, 1716, effective May 22, 2008.
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 119–21, § 10312(e), substituted “for the sole purpose of responding directly to an” for “if there is an” in introductory provisions.
+2025—Subsec. (b)(1). Pub. L. 119–21, § 10312(e), substituted “for the sole purpose of responding directly to an” for “if there is an” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 119–21, § 10312(d), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 119–21, § 10312(d), added subsecs. (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5211,7 +5211,7 @@ Subsecs. (c), (d). Pub. L. 119–21, § 10312(d), added subsecs. (c) and (d).
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-##### § 1359ll. Period of effectiveness
+##### § 1359ll. Period of effectiveness
 
 **(a) In general**
 
@@ -5221,7 +5221,7 @@ This subpart shall be effective only for the 2008 through 2031 crop years for su
 
 The Secretary shall administer flexible marketing allotments for sugar for the 2007 crop year for sugar on the terms and conditions provided in this subpart as in effect on the day before the date of enactment of this section.
 
-(Feb. 16, 1938, ch. 30, title III, § 359*l*, as added Pub. L. 110–234, title I, § 1403(k), May 22, 2008, 122 Stat. 989, and Pub. L. 110–246, § 4(a), title I, § 1403(k), June 18, 2008, 122 Stat. 1664, 1717; amended Pub. L. 113–79, title I, § 1301(b)(2), Feb. 7, 2014, 128 Stat. 688; Pub. L. 115–334, title I, § 1301(b)(2), Dec. 20, 2018, 132 Stat. 4511; Pub. L. 119–21, title I, § 10312(f), July 4, 2025, 139 Stat. 99.)
+(Feb. 16, 1938, ch. 30, title III, § 359*l*, as added Pub. L. 110–234, title I, § 1403(k), May 22, 2008, 122 Stat. 989, and Pub. L. 110–246, § 4(a), title I, § 1403(k), June 18, 2008, 122 Stat. 1664, 1717; amended Pub. L. 113–79, title I, § 1301(b)(2), Feb. 7, 2014, 128 Stat. 688; Pub. L. 115–334, title I, § 1301(b)(2), Dec. 20, 2018, 132 Stat. 4511; Pub. L. 119–21, title I, § 10312(f), July 4, 2025, 139 Stat. 99.)
 
 **Editorial Notes**
 
@@ -5259,17 +5259,17 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Subpart inapplicable to 1996 through 2001 crops of peanuts, see section 7301(a)(1)(F) of this title.
 
-Pub. L. 101–624, title VIII, § 801(4), Nov. 28, 1990, 104 Stat. 3459, provided that subpart I of part C of this subchapter (§ 1361 et seq.) is inapplicable to 1991 through 1995 crops of peanuts.
+Pub. L. 101–624, title VIII, § 801(4), Nov. 28, 1990, 104 Stat. 3459, provided that subpart I of part C of this subchapter (§ 1361 et seq.) is inapplicable to 1991 through 1995 crops of peanuts.
 
-Pub. L. 99–198, title VII, § 701(4), Dec. 23, 1985, 99 Stat. 1430, provided that subpart I of part C of this subchapter (§ 1361 et seq.) is inapplicable to 1986 through 1990 crops of peanuts.
+Pub. L. 99–198, title VII, § 701(4), Dec. 23, 1985, 99 Stat. 1430, provided that subpart I of part C of this subchapter (§ 1361 et seq.) is inapplicable to 1986 through 1990 crops of peanuts.
 
-Pub. L. 97–98, title VII, § 701(4), Dec. 22, 1981, 95 Stat. 1248, provided that subpart I of part C of this subchapter (§ 1361 et seq.) is inapplicable to 1982 through 1985 crops of peanuts.
+Pub. L. 97–98, title VII, § 701(4), Dec. 22, 1981, 95 Stat. 1248, provided that subpart I of part C of this subchapter (§ 1361 et seq.) is inapplicable to 1982 through 1985 crops of peanuts.
 
-##### § 1361. Application of subpart
+##### § 1361. Application of subpart
 
 This subpart shall apply to the publication and review of farm marketing quotas established for corn, wheat, cotton, and rice, established under part B of this subchapter.
 
-(Feb. 16, 1938, ch. 30, title III, § 361, 52 Stat. 62; Apr. 3, 1941, ch. 39, § 4, 55 Stat. 92; Pub. L. 107–171, title I, § 1309(h)(1), May 13, 2002, 116 Stat. 181; Pub. L. 108–357, title VI, § 611(h), Oct. 22, 2004, 118 Stat. 1522.)
+(Feb. 16, 1938, ch. 30, title III, § 361, 52 Stat. 62; Apr. 3, 1941, ch. 39, § 4, 55 Stat. 92; Pub. L. 107–171, title I, § 1309(h)(1), May 13, 2002, 116 Stat. 181; Pub. L. 108–357, title VI, § 611(h), Oct. 22, 2004, 118 Stat. 1522.)
 
 **Editorial Notes**
 
@@ -5291,13 +5291,13 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-##### § 1362. Publication of marketing quota; mailing of allotment notice
+##### § 1362. Publication of marketing quota; mailing of allotment notice
 
 All acreage allotments, and the farm marketing quotas established for farms in a county or other local administrative area shall, in accordance with regulations of the Secretary, be made and kept freely available for public inspection in such county or other local administrative area. An additional copy of this information shall be kept available in the office of the county agricultural extension agent or with the chairman of the local committee. Notice of the farm marketing quota of his farm shall be mailed to the farmer.
 
 Notice of the farm acreage allotment established for each farm shown by the records of the county committee to be entitled to such allotment shall insofar as practicable be mailed to the farm operator in sufficient time to be received prior to the date of the referendum.
 
-(Feb. 16, 1938, ch. 30, title III, § 362, 52 Stat. 62; Aug. 29, 1949, ch. 518, § 2(c), 63 Stat. 676.)
+(Feb. 16, 1938, ch. 30, title III, § 362, 52 Stat. 62; Aug. 29, 1949, ch. 518, § 2(c), 63 Stat. 676.)
 
 **Editorial Notes**
 
@@ -5305,11 +5305,11 @@ Notice of the farm acreage allotment established for each farm shown by the reco
 
 1949—Act Aug. 29, 1949, inserted paragraph providing for mailing of notice of allotment.
 
-##### § 1363. Review of quota; review committee
+##### § 1363. Review of quota; review committee
 
 Any farmer who is dissatisfied with his farm marketing quota may, within fifteen days after mailing to him of notice as provided in section 1362 of this title, have such quota reviewed by a local review committee composed of three farmers from the same or nearby counties appointed by the Secretary. Such committee shall not include any member of the local committee which determined the farm acreage allotment, the normal yield, or the farm marketing quota for such farm. Unless application for review is made within such period, the original determination of the farm marketing quota shall be final.
 
-(Feb. 16, 1938, ch. 30, title III, § 363, 52 Stat. 63; Apr. 12, 1951, ch. 28, § 3, 65 Stat. 31.)
+(Feb. 16, 1938, ch. 30, title III, § 363, 52 Stat. 63; Apr. 12, 1951, ch. 28, § 3, 65 Stat. 31.)
 
 **Editorial Notes**
 
@@ -5321,25 +5321,25 @@ Any farmer who is dissatisfied with his farm marketing quota may, within fifteen
 
 **Review of 1950 Cotton Farm Acreage Allotment**
 
-Act Mar. 31, 1950, ch. 81, § 2, 64 Stat. 41, provided that any farmer dissatisfied with his farm acreage allotment for the 1950 cotton crop could have such allotment reviewed in accordance with the provisions of this chapter.
+Act Mar. 31, 1950, ch. 81, § 2, 64 Stat. 41, provided that any farmer dissatisfied with his farm acreage allotment for the 1950 cotton crop could have such allotment reviewed in accordance with the provisions of this chapter.
 
-##### § 1364. Compensation of review committee
+##### § 1364. Compensation of review committee
 
 The members of the review committee shall receive as compensation for their services the same per diem as that received by the members of the committee utilized for the purposes of chapter 3B of title 16. The members of the review committee shall not be entitled to receive compensation for more than thirty days in any one year.
 
-(Feb. 16, 1938, ch. 30, title III, § 364, 52 Stat. 63.)
+(Feb. 16, 1938, ch. 30, title III, § 364, 52 Stat. 63.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
 
-##### § 1365. Institution of proceeding for court review of committee findings
+##### § 1365. Institution of proceeding for court review of committee findings
 
 If the farmer is dissatisfied with the determination of the review committee, he may, within fifteen days after a notice of such determination is mailed to him by registered mail or by certified mail, file a bill in equity against the review committee as defendant in the United States district court, or institute proceedings for review in any court of record of the State having general jurisdiction, sitting in the county or the district in which his farm is located, for the purpose of obtaining a review of such determination. Bond shall be given in an amount and with surety satisfactory to the court to secure the United States for the costs of the proceeding. The bill of complaint in such proceeding may be served by delivering a copy thereof to any one of the members of the review committee. Thereupon the review committee shall certify and file in the court a transcript of the record upon which the determination complained of was made, together with its findings of fact.
 
-(Feb. 16, 1938, ch. 30, title III, § 365, 52 Stat. 63; Pub. L. 86–507, § 1(5), June 11, 1960, 74 Stat. 200.)
+(Feb. 16, 1938, ch. 30, title III, § 365, 52 Stat. 63; Pub. L. 86–507, § 1(5), June 11, 1960, 74 Stat. 200.)
 
 **Editorial Notes**
 
@@ -5347,11 +5347,11 @@ If the farmer is dissatisfied with the determination of the review committee, he
 
 1960—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-##### § 1366. Court review
+##### § 1366. Court review
 
 The review by the court shall be limited to questions of law, and the findings of fact by the review committee, if supported by evidence shall be conclusive. If application is made to the court for leave to adduce additional evidence, and it is shown to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the hearing before the review committee, the court may direct such additional evidence to be taken before the review committee in such manner and upon such terms and conditions as to the court may seem proper. The review committee may modify its findings of fact or its determination by reason of the additional evidence so taken, and it shall file with the court such modified findings or determination, which findings of fact shall be conclusive. The court shall hear and determine the case upon the original record of the hearing before the review committee, and upon such record as supplemented if supplemented, by further hearing before the review committee pursuant to direction of the court. The court shall affirm the review committee’s determination, or modified determination, if the court determines that the same is in accordance with law. If the court determines that such determination or modified determination is not in accordance with law, the court shall remand the proceeding to the review committee with direction either to make such determination as the court shall determine to be in accordance with law or to take such further proceedings as, in the court’s opinion, the law requires.
 
-(Feb. 16, 1938, ch. 30, title III, § 366, 52 Stat. 63; Pub. L. 98–620, title IV, § 402(6), Nov. 8, 1984, 98 Stat. 3357.)
+(Feb. 16, 1938, ch. 30, title III, § 366, 52 Stat. 63; Pub. L. 98–620, title IV, § 402(6), Nov. 8, 1984, 98 Stat. 3357.)
 
 **Editorial Notes**
 
@@ -5365,27 +5365,27 @@ The review by the court shall be limited to questions of law, and the findings o
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-##### § 1367. Stay of proceedings and exclusive jurisdiction
+##### § 1367. Stay of proceedings and exclusive jurisdiction
 
 The commencement of judicial proceedings under this subpart shall not, unless specifically ordered by the court, operate as a stay of the review committee’s determination. Notwithstanding any other provision of law, the jurisdiction conferred by this subpart to review the legal validity of a determination made by a review committee pursuant to this subpart shall be exclusive. No court of the United States or of any State shall have jurisdiction to pass upon the legal validity of any such determination except in a proceeding under this subpart.
 
-(Feb. 16, 1938, ch. 30, title III, § 367, 52 Stat. 64.)
+(Feb. 16, 1938, ch. 30, title III, § 367, 52 Stat. 64.)
 
-##### § 1368. Effect of increase on other quotas
+##### § 1368. Effect of increase on other quotas
 
 Notwithstanding any increase of any farm marketing quota for any farm as a result of review of the determination thereof under this subpart, the marketing quotas for other farms shall not be affected.
 
-(Feb. 16, 1938, ch. 30, title III, § 368, 52 Stat. 64.)
+(Feb. 16, 1938, ch. 30, title III, § 368, 52 Stat. 64.)
 
 #### subpart ii—adjustment of quotas and enforcement
 
-##### § 1371. General adjustment of quotas
+##### § 1371. General adjustment of quotas
 
 **(a) Investigation and adjustment to maintain normal supply**
 
 If at any time the Secretary has reason to believe that in the case of cotton,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 or rice the operation of farm marketing quotas in effect will cause the amount of such commodity which is free of marketing restrictions to be less than the normal supply for the marketing year for the commodity then current, he shall cause an immediate investigation to be made with respect thereto. In the course of such investigation due notice and opportunity for hearing shall be given to interested persons. If upon the basis of such investigation the Secretary finds the existence of such fact, he shall proclaim the same forthwith. He shall also in such proclamation specify such increase in, or termination of, existing quotas as he finds, on the basis of such investigation, is necessary to make the amount of such commodity which is free of marketing restrictions equal the normal supply.
 
@@ -5397,29 +5397,29 @@ If the Secretary has reason to believe that, because of a national emergency or 
 
 In case any national marketing quota or acreage allotment for any commodity is increased under this section, each farm marketing quota or acreage allotment for the commodity shall be increased in the same ratio.
 
-(Feb. 16, 1938, ch. 30, title III, § 371, 52 Stat. 64; Apr. 3, 1941, ch. 39, § 5, 55 Stat. 92; Aug. 28, 1954, ch. 1041, title III, § 312, 68 Stat. 904; Pub. L. 87–703, title III, § 321, Sept. 27, 1962, 76 Stat. 626; Pub. L. 107–171, title I, § 1309(h)(2), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 611(i), Oct. 22, 2004, 118 Stat. 1522.)
+(Feb. 16, 1938, ch. 30, title III, § 371, 52 Stat. 64; Apr. 3, 1941, ch. 39, § 5, 55 Stat. 92; Aug. 28, 1954, ch. 1041, title III, § 312, 68 Stat. 904; Pub. L. 87–703, title III, § 321, Sept. 27, 1962, 76 Stat. 626; Pub. L. 107–171, title I, § 1309(h)(2), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 611(i), Oct. 22, 2004, 118 Stat. 1522.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–357, § 611(i)(1), substituted “or rice” for “rice, or tobacco” in first sentence.
+2004—Subsec. (a). Pub. L. 108–357, § 611(i)(1), substituted “or rice” for “rice, or tobacco” in first sentence.
 
-Subsec. (b). Pub. L. 108–357, § 611(i)(2), which directed amendment of first sentence of subsec. (b) by substituting “or rice” for “rice, or tobacco”, was executed by making the substitution for “rice,, or tobacco”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 108–357, § 611(i)(2), which directed amendment of first sentence of subsec. (b) by substituting “or rice” for “rice, or tobacco”, was executed by making the substitution for “rice,, or tobacco”, to reflect the probable intent of Congress.
 
-2002—Subsec. (a). Pub. L. 107–171, § 1309(h)(2)(A), struck out “peanuts,” before “or tobacco” in first sentence.
+2002—Subsec. (a). Pub. L. 107–171, § 1309(h)(2)(A), struck out “peanuts,” before “or tobacco” in first sentence.
 
-Subsec. (b). Pub. L. 107–171, § 1309(h)(2)(B), struck out “peanuts” before “or tobacco” in first sentence.
+Subsec. (b). Pub. L. 107–171, § 1309(h)(2)(B), struck out “peanuts” before “or tobacco” in first sentence.
 
-1962—Subsec. (a). Pub. L. 87–703, § 321(1), struck out “corn, wheat,” before “cotton”.
+1962—Subsec. (a). Pub. L. 87–703, § 321(1), struck out “corn, wheat,” before “cotton”.
 
-Subsec. (b). Pub. L. 87–703, § 321(2), struck out “any national acreage allotment for corn, or” after “export demand,”, “wheat,” before “cotton” and “in order to effect the declared policy of this chapter or” before “to meet such emergency”.
+Subsec. (b). Pub. L. 87–703, § 321(2), struck out “any national acreage allotment for corn, or” after “export demand,”, “wheat,” before “cotton” and “in order to effect the declared policy of this chapter or” before “to meet such emergency”.
 
-1954—Subsec. (b). Act Aug. 28, 1954, § 312(a), inserted proviso relating to national acreage allotment for corn, and struck out corn from national marketing quota provision.
+1954—Subsec. (b). Act Aug. 28, 1954, § 312(a), inserted proviso relating to national acreage allotment for corn, and struck out corn from national marketing quota provision.
 
-Subsec. (c). Act Aug. 28, 1954, § 312(b), inserted “or acreage allotment” after “marketing quota” wherever appearing.
+Subsec. (c). Act Aug. 28, 1954, § 312(b), inserted “or acreage allotment” after “marketing quota” wherever appearing.
 
-Subsec. (d). Act Aug. 28, 1954, § 312(c), repealed subsec. (d) which related to the adjustment of corn storage regulations on change in marketing quotas.
+Subsec. (d). Act Aug. 28, 1954, § 312(c), repealed subsec. (d) which related to the adjustment of corn storage regulations on change in marketing quotas.
 
 1941—Subsecs. (a), (b). Act Apr. 3, 1941, inserted “peanuts,” after “rice,”.
 
@@ -5439,23 +5439,23 @@ Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liabilit
 
 **Inapplicability to 1991 Through 1995 Crops of Peanuts**
 
-Pub. L. 101–624, title VIII, § 801(5), Nov. 28, 1990, 104 Stat. 3459, provided that this section is inapplicable to 1991 through 1995 crops of peanuts.
+Pub. L. 101–624, title VIII, § 801(5), Nov. 28, 1990, 104 Stat. 3459, provided that this section is inapplicable to 1991 through 1995 crops of peanuts.
 
 **Inapplicability to 1986 Through 1990 Crops of Peanuts**
 
-Pub. L. 99–198, title VII, § 701(5), Dec. 23, 1985, 99 Stat. 1430, provided that this section is inapplicable to 1986 through 1990 crops of peanuts.
+Pub. L. 99–198, title VII, § 701(5), Dec. 23, 1985, 99 Stat. 1430, provided that this section is inapplicable to 1986 through 1990 crops of peanuts.
 
 **Inapplicability to 1982 Through 1985 Crops of Peanuts**
 
-Pub. L. 97–98, title VII, § 701(5), Dec. 22, 1981, 95 Stat. 1248, provided that this section is inapplicable to 1982 through 1985 crops of peanuts.
+Pub. L. 97–98, title VII, § 701(5), Dec. 22, 1981, 95 Stat. 1248, provided that this section is inapplicable to 1982 through 1985 crops of peanuts.
 
-##### § 1372. Payment, collection, and refund of penalties
+##### § 1372. Payment, collection, and refund of penalties
 
 **(a)** The penalty with respect to the marketing, by sale, of wheat, cotton, or rice, if the sale is to any person within the United States, shall be collected by the buyer.
 
-**(b)** All penalties provided for in part B of this subchapter shall be collected and paid in such manner, at such times, and under such conditions as the Secretary may by regulations prescribe. Such penalties shall be remitted to the Secretary by the person liable for the penalty, except that if any other person is liable for the collection of the penalty, such other person shall remit the penalty. Except as provided in section 1314h 1
+**(b)** All penalties provided for in part B of this subchapter shall be collected and paid in such manner, at such times, and under such conditions as the Secretary may by regulations prescribe. Such penalties shall be remitted to the Secretary by the person liable for the penalty, except that if any other person is liable for the collection of the penalty, such other person shall remit the penalty. Except as provided in section 1314h 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the amount of such penalties shall be covered into the general fund of the Treasury of the United States.
 
@@ -5467,13 +5467,13 @@ The Secretary is authorized to prescribe regulations governing the filing of suc
 
 **(d)** No penalty shall be collected under this chapter with respect to the marketing of any agricultural commodity grown for experimental purposes only by any publicly owned agricultural experiment station. Effective with the 1978 crops, no penalty shall be collected under this chapter with respect to the marketing of any agricultural commodity grown on State prison farms for consumption within such State prison system.
 
-(Feb. 16, 1938, ch. 30, title III, § 372, 52 Stat. 65; Apr. 7, 1938, ch. 107, § 11, 52 Stat. 204; July 2, 1940, ch. 521, § 6, 54 Stat. 728; Pub. L. 96–113, Nov. 16, 1979, 93 Stat. 850; Pub. L. 99–272, title I, § 1106(b), Apr. 7, 1986, 100 Stat. 91.)
+(Feb. 16, 1938, ch. 30, title III, § 372, 52 Stat. 65; Apr. 7, 1938, ch. 107, § 11, 52 Stat. 204; July 2, 1940, ch. 521, § 6, 54 Stat. 728; Pub. L. 96–113, Nov. 16, 1979, 93 Stat. 850; Pub. L. 99–272, title I, § 1106(b), Apr. 7, 1986, 100 Stat. 91.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1314h of this title, referred to in subsec. (b), was repealed by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522.
+Section 1314h of this title, referred to in subsec. (b), was repealed by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522.
 
 **Amendments**
 
@@ -5489,23 +5489,23 @@ Section 1314h of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–272, title I, § 1106(b), Apr. 7, 1986, 100 Stat. 91, provided that the amendment made by that section is effective for the 1986 and subsequent crops of tobacco.
+Pub. L. 99–272, title I, § 1106(b), Apr. 7, 1986, 100 Stat. 91, provided that the amendment made by that section is effective for the 1986 and subsequent crops of tobacco.
 
 **Rulemaking Procedures**
 
 Secretary of Agriculture to implement amendments by Pub. L. 99–272 without regard to provisions requiring notice and other procedures for public participation in rulemaking contained in section 553 of Title 5, Government Organization and Employees, or in any other directive of the Secretary, see section 1108(c) of Pub. L. 99–272, set out as a note under section 1301 of this title.
 
-##### § 1373. Reports and records
+##### § 1373. Reports and records
 
 **(a) Persons reporting**
 
-This subsection shall apply to warehousemen, processors, and common carriers of corn, wheat, cotton, or rice, and 1
+This subsection shall apply to warehousemen, processors, and common carriers of corn, wheat, cotton, or rice, and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 all ginners of cotton,2
 
-<sup>2</sup>  So in original. The word “and” probably should appear.
+<sup>2</sup> So in original. The word “and” probably should appear.
 
 all persons engaged in the business of purchasing corn, wheat, cotton, or rice from producers. Any such person shall, from time to time on request of the Secretary, report to the Secretary such information and keep such rec­ords as the Secretary finds to be necessary to enable him to carry out the provisions of this subchapter. Such information shall be reported and such records shall be kept in accordance with forms which the Secretary shall prescribe. For the purpose of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the Secretary is authorized to examine such books, papers, rec­ords, accounts, correspondence, contracts, documents, and memoranda as he has reason to believe are relevant and are within the control of such person. Any such person failing to make any report or keep any record as required by this subsection or making any false report or record shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $500.
 
@@ -5517,23 +5517,23 @@ Farmers engaged in the production of corn, wheat, cotton, or rice for market sha
 
 All data reported to or acquired by the Secretary pursuant to this section shall be kept confidential by all officers and employees of the Department, and only such data so reported or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing under this subchapter. Nothing in this section shall be deemed to prohibit the issuance of general statements based upon the reports of a number of parties which statements do not identify the information furnished by any person.
 
-(Feb. 16, 1938, ch. 30, title III, § 373, 52 Stat. 65; June 13, 1940, ch. 360, § 6, 54 Stat. 394; Apr. 3, 1941, ch. 39, §§ 6, 7, 55 Stat. 92; Pub. L. 86–507, § 1(6), June 11, 1960, 74 Stat. 200; Pub. L. 95–113, title VIII, § 805, Sept. 29, 1977, 91 Stat. 947; Pub. L. 97–98, title VII, § 706, Dec. 22, 1981, 95 Stat. 1256; Pub. L. 97–218, title III, § 304, July 20, 1982, 96 Stat. 214; Pub. L. 99–198, title VII, § 706, Dec. 23, 1985, 99 Stat. 1441; Pub. L. 101–624, title VIII, § 807, Nov. 28, 1990, 104 Stat. 3478; Pub. L. 104–127, title I, § 171(a)(2), Apr. 4, 1996, 110 Stat. 937; Pub. L. 107–171, title I, § 1309(h)(3), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 611(j), Oct. 22, 2004, 118 Stat. 1523.)
+(Feb. 16, 1938, ch. 30, title III, § 373, 52 Stat. 65; June 13, 1940, ch. 360, § 6, 54 Stat. 394; Apr. 3, 1941, ch. 39, §§ 6, 7, 55 Stat. 92; Pub. L. 86–507, § 1(6), June 11, 1960, 74 Stat. 200; Pub. L. 95–113, title VIII, § 805, Sept. 29, 1977, 91 Stat. 947; Pub. L. 97–98, title VII, § 706, Dec. 22, 1981, 95 Stat. 1256; Pub. L. 97–218, title III, § 304, July 20, 1982, 96 Stat. 214; Pub. L. 99–198, title VII, § 706, Dec. 23, 1985, 99 Stat. 1441; Pub. L. 101–624, title VIII, § 807, Nov. 28, 1990, 104 Stat. 3478; Pub. L. 104–127, title I, § 171(a)(2), Apr. 4, 1996, 110 Stat. 937; Pub. L. 107–171, title I, § 1309(h)(3), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 611(j), Oct. 22, 2004, 118 Stat. 1523.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–357, § 611(j)(2)(B), substituted “$500.” for “$500; and any tobacco warehouseman or dealer who fails to remedy such violation by making a complete and accurate report or keeping a complete and accurate record as required by this subsection within fifteen days after notice to him of such violation shall be subject to an additional fine of $100 for each ten thousand pounds of tobacco, or fraction thereof, bought or sold by him after the date of such violation: *Provided*, That such fine shall not exceed $5,000; and notice of such violation shall be served upon the tobacco warehouseman or dealer by mailing the same to him by registered mail or by certified mail or by posting the same at any established place of business operated by him, or both.”
+2004—Subsec. (a). Pub. L. 108–357, § 611(j)(2)(B), substituted “$500.” for “$500; and any tobacco warehouseman or dealer who fails to remedy such violation by making a complete and accurate report or keeping a complete and accurate record as required by this subsection within fifteen days after notice to him of such violation shall be subject to an additional fine of $100 for each ten thousand pounds of tobacco, or fraction thereof, bought or sold by him after the date of such violation: *Provided*, That such fine shall not exceed $5,000; and notice of such violation shall be served upon the tobacco warehouseman or dealer by mailing the same to him by registered mail or by certified mail or by posting the same at any established place of business operated by him, or both.”
 
-Pub. L. 108–357, § 611(j)(2)(A), which directed that “all persons engaged in the business of redrying, prizing, or stemming tobacco for producers,” be struck out in first sentence, was executed by striking out “, and all persons engaged in the business of redrying, prizing, or stemming tobacco for producers” before period at end of first sentence, to reflect the probable intent of Congress.
+Pub. L. 108–357, § 611(j)(2)(A), which directed that “all persons engaged in the business of redrying, prizing, or stemming tobacco for producers,” be struck out in first sentence, was executed by striking out “, and all persons engaged in the business of redrying, prizing, or stemming tobacco for producers” before period at end of first sentence, to reflect the probable intent of Congress.
 
-Pub. L. 108–357, § 611(j)(1), substituted “or rice” for “rice, or tobacco” in two places in first sentence.
+Pub. L. 108–357, § 611(j)(1), substituted “or rice” for “rice, or tobacco” in two places in first sentence.
 
-Subsec. (b). Pub. L. 108–357, § 611(j)(1), substituted “or rice” for “rice, or tobacco”.
+Subsec. (b). Pub. L. 108–357, § 611(j)(1), substituted “or rice” for “rice, or tobacco”.
 
-2002—Subsec. (a). Pub. L. 107–171, § 1309(h)(3)(A), in first sentence, struck out “peanuts,” after “rice,” in two places, inserted “and” after “from producers,” and substituted “for producers.” for “for producers, all producers engaged in the production of peanuts, all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines.”
+2002—Subsec. (a). Pub. L. 107–171, § 1309(h)(3)(A), in first sentence, struck out “peanuts,” after “rice,” in two places, inserted “and” after “from producers,” and substituted “for producers.” for “for producers, all producers engaged in the production of peanuts, all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines.”
 
-Subsec. (b). Pub. L. 107–171, § 1309(h)(3)(B), struck out “peanuts,” after “rice,”.
+Subsec. (b). Pub. L. 107–171, § 1309(h)(3)(B), struck out “peanuts,” after “rice,”.
 
 1996—Subsec. (a). Pub. L. 104–127 temporarily inserted “all producers engaged in the production of peanuts,” before “all brokers and dealers in peanuts”. See Effective and Termination Dates of 1996 Amendment note below.
 
@@ -5549,9 +5549,9 @@ Subsec. (b). Pub. L. 107–171, § 1309(h)(3)(B), struck out “peanuts,” af
 
 1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-1941—Subsec. (a). Act Apr. 3, 1941, § 6, among other changes, inserted “peanuts” after “rice” wherever appearing and inserted “all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines”.
+1941—Subsec. (a). Act Apr. 3, 1941, § 6, among other changes, inserted “peanuts” after “rice” wherever appearing and inserted “all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines”.
 
-Subsec. (b). Act Apr. 3, 1941, § 7, inserted “peanuts,” after “rice,”.
+Subsec. (b). Act Apr. 3, 1941, § 7, inserted “peanuts,” after “rice,”.
 
 1940—Subsec. (a). Act June 13, 1940, inserted all after “$500;” in last sentence.
 
@@ -5563,29 +5563,29 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 **Effective and Termination Dates of 1996 Amendment**
 
-Pub. L. 104–127, title I, § 171(a)(2), Apr. 4, 1996, 110 Stat. 937, provided that the amendment made by section 171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
+Pub. L. 104–127, title I, § 171(a)(2), Apr. 4, 1996, 110 Stat. 937, provided that the amendment made by section 171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
 
 **Effective and Termination Dates of 1990 Amendment**
 
-Pub. L. 101–624, title VIII, § 807, Nov. 28, 1990, 104 Stat. 3478, provided that the amendment made by section 807 is effective only for the 1991 through 1995 crops of peanuts.
+Pub. L. 101–624, title VIII, § 807, Nov. 28, 1990, 104 Stat. 3478, provided that the amendment made by section 807 is effective only for the 1991 through 1995 crops of peanuts.
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title VII, § 706, Dec. 23, 1985, 99 Stat. 1441, provided that the amendment made by section 706 is effective only for the 1986 through 1990 crops of peanuts.
+Pub. L. 99–198, title VII, § 706, Dec. 23, 1985, 99 Stat. 1441, provided that the amendment made by section 706 is effective only for the 1986 through 1990 crops of peanuts.
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–98, title VII, § 706, Dec. 22, 1981, 95 Stat. 1256, provided that the amendment made by section 706 is effective for the 1982 through 1985 crop of peanuts.
+Pub. L. 97–98, title VII, § 706, Dec. 22, 1981, 95 Stat. 1256, provided that the amendment made by section 706 is effective for the 1982 through 1985 crop of peanuts.
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title VIII, § 805, Sept. 29, 1977, 91 Stat. 947, provided that the amendment made by section 805 is effective for the 1978 through 1981 crops of peanuts.
+Pub. L. 95–113, title VIII, § 805, Sept. 29, 1977, 91 Stat. 947, provided that the amendment made by section 805 is effective for the 1978 through 1981 crops of peanuts.
 
 **Savings Provision**
 
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-##### § 1374. Measurement of farms and report of plantings; remeasurement
+##### § 1374. Measurement of farms and report of plantings; remeasurement
 
 **(a)** The Secretary shall provide for ascertaining, by measurement or otherwise, the acreage of any agricultural commodity or land use on farms for which the ascertainment of such acreage is necessary to determine compliance under any program administered by the Secretary. Insofar as practicable, the acreage of the commodity and land use shall be ascertained prior to harvest, and, if any acreage so ascertained is not in compliance with the requirements of the program the Secretary, under such terms and conditions as he prescribes, may provide a reasonable time for the adjustment of the acreage of the commodity or land use to the requirements of the program. Where cotton is planted in skiprow patterns, the same rules that were in effect for the 1971 through 1973 crops for classifying the acreage planted to cotton and the area skipped shall also apply to the 1974 through 1995 crops, except that, for the 1991 through 1995 crops, the rules shall allow 30 inch rows (or, at the option of those cotton producers who had an established practice of using 32 inch rows before the 1991 crop, 32 inch rows) to be taken into account for classifying the acreage planted to cotton and the area skipped. For the 1992 through 1995 crops, the rules establishing the requirements for eligibility for conserving use for payment acres shall be the same rules as were in effect for 1991 crops.
 
@@ -5593,7 +5593,7 @@ Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liabilit
 
 **(c)** The Secretary shall by appropriate regulations provide for the remeasurement upon request by the farm operator of the acreage planted to such commodity on the farm and for the measurement of the acreage planted to such commodity on the farm remaining after any adjustment of excess acreage hereunder and shall prescribe the conditions under which the farm operator shall be required to pay the county committee for the expense of the measurement of adjusted acreage or the expense of remeasurement after the initial measurement or the measurement of adjusted acreage. The regulations shall also provide for the refund of any deposit or payment made for the expense of the remeasurement of the initially determined acreage or the adjusted acreage when because of an error in the determination of such acreage the remeasurement brings the acreage within the allotment or permitted acreage or results in a change in acreage in excess of a reasonable variation normal to measurements of acreage of the commodity. Unless the requirements for measurement of adjusted acreage are met by the farm operator, the acreage prior to such adjustment as determined by the county committee shall be considered the acreage of the commodity on the farm in determining whether the applicable farm allotment has been exceeded.
 
-(Feb. 16, 1938, ch. 30, title III, § 374, 52 Stat. 65; Apr. 3, 1941, ch. 39, § 8, 55 Stat. 92; Aug. 29, 1949, ch. 518, § 2(b), 63 Stat. 676; Aug. 28, 1954, ch. 1041, title III, § 311(b), 68 Stat. 904; Pub. L. 86–553, §§ 1, 2, June 30, 1960, 74 Stat. 258; Pub. L. 89–321, title VII, §§ 701, 702, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 91–524, title VI, § 612, Nov. 30, 1970, as added Pub. L. 93–86, § 1(25), Aug. 10, 1973, 87 Stat. 236; Pub. L. 95–113, title VI, § 605, Sept. 29, 1977, 91 Stat. 940; Pub. L. 97–98, title V, § 505, Dec. 22, 1981, 95 Stat. 1241; Pub. L. 99–198, title V, § 505, Dec. 23, 1985, 99 Stat. 1418; Pub. L. 101–624, title V, § 504, Nov. 28, 1990, 104 Stat. 3440; Pub. L. 102–237, title I, § 116(2), Dec. 13, 1991, 105 Stat. 1840.)
+(Feb. 16, 1938, ch. 30, title III, § 374, 52 Stat. 65; Apr. 3, 1941, ch. 39, § 8, 55 Stat. 92; Aug. 29, 1949, ch. 518, § 2(b), 63 Stat. 676; Aug. 28, 1954, ch. 1041, title III, § 311(b), 68 Stat. 904; Pub. L. 86–553, §§ 1, 2, June 30, 1960, 74 Stat. 258; Pub. L. 89–321, title VII, §§ 701, 702, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 91–524, title VI, § 612, Nov. 30, 1970, as added Pub. L. 93–86, § 1(25), Aug. 10, 1973, 87 Stat. 236; Pub. L. 95–113, title VI, § 605, Sept. 29, 1977, 91 Stat. 940; Pub. L. 97–98, title V, § 505, Dec. 22, 1981, 95 Stat. 1241; Pub. L. 99–198, title V, § 505, Dec. 23, 1985, 99 Stat. 1418; Pub. L. 101–624, title V, § 504, Nov. 28, 1990, 104 Stat. 3440; Pub. L. 102–237, title I, § 116(2), Dec. 13, 1991, 105 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -5609,15 +5609,15 @@ Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liabilit
 
 1977—Subsec. (a). Pub. L. 95–113 substituted “1981” for “1977” in provisions setting the last year for application of the 1971 through 1973 skiprow patterns in classifying the acreage planted to cotton.
 
-1973—Subsec. (a). Pub. L. 91–524, § 612, as added by Pub. L. 93–86, inserted provisions relating to cotton planted in skiprow patterns.
+1973—Subsec. (a). Pub. L. 91–524, § 612, as added by Pub. L. 93–86, inserted provisions relating to cotton planted in skiprow patterns.
 
-1965—Subsec. (a). Pub. L. 89–321, § 701, removed references to county and local committees as the agent for measuring commodity or land use acreage, substituted a general reference to any agricultural commodity or land use on farms requiring ascertainment of acreage for specific reference to corn, wheat, cotton, peanuts, or rice, and substituted provisions requiring ascertainment of commodity and land use prior to harvesting and allowing a reasonable time for adjustment of acreage requirements for provisions requiring the filing of a written report by the local committee with the state committee in the event of planting in excess of farm acreage allotment.
+1965—Subsec. (a). Pub. L. 89–321, § 701, removed references to county and local committees as the agent for measuring commodity or land use acreage, substituted a general reference to any agricultural commodity or land use on farms requiring ascertainment of acreage for specific reference to corn, wheat, cotton, peanuts, or rice, and substituted provisions requiring ascertainment of commodity and land use prior to harvesting and allowing a reasonable time for adjustment of acreage requirements for provisions requiring the filing of a written report by the local committee with the state committee in the event of planting in excess of farm acreage allotment.
 
-Subsec. (c). Pub. L. 89–321, § 702, struck out sentence directing the Secretary to provide by regulation for the adjustment of planted acreage to the farm acreage allotment if the acreage determined to be planted to any basic agricultural commodity on the farm is in excess of the farm acreage allotment.
+Subsec. (c). Pub. L. 89–321, § 702, struck out sentence directing the Secretary to provide by regulation for the adjustment of planted acreage to the farm acreage allotment if the acreage determined to be planted to any basic agricultural commodity on the farm is in excess of the farm acreage allotment.
 
-1960—Subsec. (b). Pub. L. 86–553, § 1, struck out second sentence which read as follows: “The Secretary shall similarly provide for the remeasurement upon request by the farm operator of the acreage planted to cotton on the farm, but the operator shall be required to reimburse the local committee for the expense of such remeas­urement if the planted acreage is found to be in excess of the allotted acreage” which is now covered by subsec. (c) of this section.
+1960—Subsec. (b). Pub. L. 86–553, § 1, struck out second sentence which read as follows: “The Secretary shall similarly provide for the remeasurement upon request by the farm operator of the acreage planted to cotton on the farm, but the operator shall be required to reimburse the local committee for the expense of such remeas­urement if the planted acreage is found to be in excess of the allotted acreage” which is now covered by subsec. (c) of this section.
 
-Subsec. (c). Pub. L. 86–553, § 2, authorized Secretary to provide by regulations for remeasurement of acreage planted to a basic agricultural commodity and for measurement of acreage planted to such commodity remaining after adjustment of excess of measurement and remeasurement and to provide for refunds, and prescribed method of computing acreage in determining whether the applicable farm allotment has been exceeded.
+Subsec. (c). Pub. L. 86–553, § 2, authorized Secretary to provide by regulations for remeasurement of acreage planted to a basic agricultural commodity and for measurement of acreage planted to such commodity remaining after adjustment of excess of measurement and remeasurement and to provide for refunds, and prescribed method of computing acreage in determining whether the applicable farm allotment has been exceeded.
 
 1954—Subsec. (b). Act Aug. 28, 1954, struck out last sentence relating to overplanting of cotton acreage.
 
@@ -5637,21 +5637,21 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
-##### § 1375. Regulations
+##### § 1375. Regulations
 
 **(a)** The Secretary shall provide by regulations for the identification, wherever necessary, of corn, wheat, cotton, rice, or peanuts so as to afford aid in discovering and identifying such amounts of the commodities as are subject to and such amounts thereof as are not subject to marketing restrictions in effect under this subchapter.
 
 **(b)** The Secretary shall prescribe such regulations as are necessary for the enforcement of this subchapter.
 
-(Feb. 16, 1938, ch. 30, title III, § 375, 52 Stat. 66; Apr. 3, 1941, ch. 39, § 9, 55 Stat. 92; Pub. L. 108–357, title VI, § 611(k), Oct. 22, 2004, 118 Stat. 1523.)
+(Feb. 16, 1938, ch. 30, title III, § 375, 52 Stat. 66; Apr. 3, 1941, ch. 39, § 9, 55 Stat. 92; Pub. L. 108–357, title VI, § 611(k), Oct. 22, 2004, 118 Stat. 1523.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–357, § 611(k)(1), substituted “or peanuts” for “peanuts, or tobacco”.
+2004—Subsec. (a). Pub. L. 108–357, § 611(k)(1), substituted “or peanuts” for “peanuts, or tobacco”.
 
-Subsec. (c). Pub. L. 108–357, § 611(k)(2), which directed amendment of this section by striking out subsec. (c), could not be executed because this section does not contain a subsec. (c).
+Subsec. (c). Pub. L. 108–357, § 611(k)(2), which directed amendment of this section by striking out subsec. (c), could not be executed because this section does not contain a subsec. (c).
 
 1941—Subsec. (a). Act Apr. 3, 1941, inserted “peanuts,” after “rice,”.
 
@@ -5665,11 +5665,11 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-##### § 1376. Court jurisdiction; duties of United States attorneys; remedies and penalties as additional
+##### § 1376. Court jurisdiction; duties of United States attorneys; remedies and penalties as additional
 
 The several district courts of the United States are vested with jurisdiction specifically to enforce the provisions of this subchapter. If and when the Secretary shall so request, it shall be the duty of the several United States attorneys in their respective districts, under the direction of the Attorney General, to institute proceedings to collect the penalties provided in this subchapter. The remedies and penalties provided for herein shall be in addition to, and not exclusive of, any of the remedies or penalties under existing law. This section also shall be applicable to liquidated damages provided for pursuant to section 1349 of this title.
 
-(Feb. 16, 1938, ch. 30, title III, § 376, 52 Stat. 66; June 25, 1948, ch. 646, § 1, 62 Stat. 869; Pub. L. 88–297, title I, § 106(2), Apr. 11, 1964, 78 Stat. 176.)
+(Feb. 16, 1938, ch. 30, title III, § 376, 52 Stat. 66; June 25, 1948, ch. 646, § 1, 62 Stat. 869; Pub. L. 88–297, title I, § 106(2), Apr. 11, 1964, 78 Stat. 176.)
 
 **Editorial Notes**
 
@@ -5683,19 +5683,19 @@ The several district courts of the United States are vested with jurisdiction sp
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-##### § 1377. Preservation of unused acreage allotments
+##### § 1377. Preservation of unused acreage allotments
 
 In any case in which, during any year beginning with 1956, the acreage planted to a commodity on any farm is less than the acreage allotment for such farm, the entire acreage allotment for such farm (excluding any allotment released from the farm or reapportioned to the farm and any allotment provided for the farm pursuant to subsection (f)(7)(A) of section 1344 of this title) shall, except as provided herein, be considered for the purpose of establishing future State, county and farm acreage allotments, to have been planted to such commodity in such year on such farm, but the 1956 acreage allotment of any commodity shall be regarded as planted under this section only if the owner or operator on such farm notified the county committee prior to the sixtieth day preceding the beginning of the marketing year for such commodity of his desire to preserve such allotment: *Provided*, That beginning with the 1960 crop, except for federally owned land, the current farm acreage allotment established for a commodity shall not be preserved as history acreage pursuant to the provisions of this section unless for the current year or either of the two preceding years an acreage equal to 75 per centum or more of the farm acreage allotment for such year or, in the case of upland cotton on a farm which qualified for price support on the crop produced in any such year under section 1444(b) of this title, 75 per centum of the farm domestic allotment established under section 1350 of this title for any such year, whichever is smaller was actually planted or devoted to the commodity on the farm (or was regarded as planted under provisions of the Soil Bank Act or the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [16 U.S.C. 3839aa et seq.]): *Provided further*, That this section shall not be applicable in any case, within the period 1956 to 1959, in which the amount of the commodity required to be stored to postpone or avoid payment of penalty has been reduced because the allotment was not fully planted. Acreage history credits for released or reapportioned acreage shall be governed by the applicable provisions of this subchapter pertaining to the release and reapportionment of acreage allotments.
 
-(Feb. 16, 1938, ch. 30, title III, § 377, as added May 28, 1956, ch. 327, title III, § 307, 70 Stat. 206; amended Pub. L. 85–266, Sept. 2, 1957, 71 Stat. 592; Pub. L. 86–172, § 1, Aug. 18, 1959, 73 Stat. 393; Pub. L. 88–297, title I, § 106(4), Apr. 11, 1964, 78 Stat. 177; Pub. L. 95–113, title VIII, § 806, Sept. 29, 1977, 91 Stat. 947; Pub. L. 104–127, title III, § 336(b)(2)(A), Apr. 4, 1996, 110 Stat. 1006; Pub. L. 115–334, title II, § 2301(d)(2)(B), Dec. 20, 2018, 132 Stat. 4554.)
+(Feb. 16, 1938, ch. 30, title III, § 377, as added May 28, 1956, ch. 327, title III, § 307, 70 Stat. 206; amended Pub. L. 85–266, Sept. 2, 1957, 71 Stat. 592; Pub. L. 86–172, § 1, Aug. 18, 1959, 73 Stat. 393; Pub. L. 88–297, title I, § 106(4), Apr. 11, 1964, 78 Stat. 177; Pub. L. 95–113, title VIII, § 806, Sept. 29, 1977, 91 Stat. 947; Pub. L. 104–127, title III, § 336(b)(2)(A), Apr. 4, 1996, 110 Stat. 1006; Pub. L. 115–334, title II, § 2301(d)(2)(B), Dec. 20, 2018, 132 Stat. 4554.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Soil Bank Act, referred to in text, is act May 28, 1956, ch. 327, 70 Stat. 188, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The Soil Bank Act, referred to in text, is act May 28, 1956, ch. 327, 70 Stat. 188, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
-The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Amendments**
 
@@ -5715,7 +5715,7 @@ The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title VIII, § 806, Sept. 29, 1977, 91 Stat. 947, provided that the amendment made by that section is effective for the 1978 through 1981 crops of peanuts.
+Pub. L. 95–113, title VIII, § 806, Sept. 29, 1977, 91 Stat. 947, provided that the amendment made by that section is effective for the 1978 through 1981 crops of peanuts.
 
 **Inapplicability of Section**
 
@@ -5739,17 +5739,17 @@ Section inapplicable to 1978 through 1981 crops of rice, see section 703 of Pub.
 
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
 
-Pub. L. 94–214, title III, § 301, Feb. 16, 1976, 90 Stat. 187, provided that: “Section 377 of the Agricultural Adjustment Act of 1938 [this section] shall not be applicable to the 1976 and 1977 crops of rice.”
+Pub. L. 94–214, title III, § 301, Feb. 16, 1976, 90 Stat. 187, provided that: “Section 377 of the Agricultural Adjustment Act of 1938 [this section] shall not be applicable to the 1976 and 1977 crops of rice.”
 
-Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, § 1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
-##### § 1378. Transfer of acreage allotments ensuing from agency acquisition of farmlands
+##### § 1378. Transfer of acreage allotments ensuing from agency acquisition of farmlands
 
 **(a) Allotment pool**
 
-Notwithstanding any other provision of this chapter, the allotment determined for any commodity for any land from which the owner is displaced because of acquisition of the land for any purpose, other than for the continued production of allotted crops, by any Federal, State, or other agency having the right of eminent domain shall be placed in an allotment pool and shall be available only for use in providing allotments for other farms owned by the owner so displaced. Upon application to the county committee, within three years after the date of such displacement, any owner so displaced shall be entitled to have allotments established for other farms owned by him, taking into consideration the land, labor, and equipment available on such other farms for the production of the commodity, crop-rotation practices, and the soil and other physical factors affecting the production of the commodity: *Provided*, That the acreage used to establish or increase the allotments for such farms shall be transferred from the pool and shall not exceed the allotment most recently established for the farm acquired from the applicant and placed in the pool. During the period of eligibility for the making of allotments under this section for a displaced owner, acreage allotments for the farm from which the owner was so displaced shall be established in accordance with the procedure applicable to other farms, and such allotments shall be considered to have been fully planted. After such allotment is made under this section, the proportionate part, or all, as the case may be, of the past acreage used in establishing the allotment most recently placed in the pool for the farm from which the owner was so displaced shall be transferred to and considered for the purposes of future State, county, and farm acreage allotments to have been planted on the farm to which allotment is made under this section. Except where paragraph (c) 1
+Notwithstanding any other provision of this chapter, the allotment determined for any commodity for any land from which the owner is displaced because of acquisition of the land for any purpose, other than for the continued production of allotted crops, by any Federal, State, or other agency having the right of eminent domain shall be placed in an allotment pool and shall be available only for use in providing allotments for other farms owned by the owner so displaced. Upon application to the county committee, within three years after the date of such displacement, any owner so displaced shall be entitled to have allotments established for other farms owned by him, taking into consideration the land, labor, and equipment available on such other farms for the production of the commodity, crop-rotation practices, and the soil and other physical factors affecting the production of the commodity: *Provided*, That the acreage used to establish or increase the allotments for such farms shall be transferred from the pool and shall not exceed the allotment most recently established for the farm acquired from the applicant and placed in the pool. During the period of eligibility for the making of allotments under this section for a displaced owner, acreage allotments for the farm from which the owner was so displaced shall be established in accordance with the procedure applicable to other farms, and such allotments shall be considered to have been fully planted. After such allotment is made under this section, the proportionate part, or all, as the case may be, of the past acreage used in establishing the allotment most recently placed in the pool for the farm from which the owner was so displaced shall be transferred to and considered for the purposes of future State, county, and farm acreage allotments to have been planted on the farm to which allotment is made under this section. Except where paragraph (c) 1
 
-<sup>1</sup>  So in original. Probably should read “subsection (c)”.
+<sup>1</sup> So in original. Probably should read “subsection (c)”.
 
 requires the transfer of allotment to another portion of the same farm, for the purpose of this section (1) that part of any farm from which the owner is so displaced and that part from which he is not so displaced shall be considered as separate farms; and (2) an owner who voluntarily relinquishes possession of the land subsequent to its acquisition by an agency having the right of eminent domain shall be considered as having been displaced because of such acquisition. The former owner of land acquired as described in this subsection shall not be considered for the purposes hereof to have been displaced from such land during any period for which such land is leased to such former owner: *Provided*, That the occupancy of the former owner under the lease follows immediately after his occupancy as owner: *And provided further*, That if a former owner has been displaced prior to April 9, 1960, and no allotment from the land owned by such former owner has been transferred from the allotment pool and such former owner leases the land formerly owned by him prior to two years from April 9, 1960, such allotment shall be retransferred from the pool to such land and the occupancy of such former owner under the lease for the purposes of this subsection shall be deemed to have begun immediately after his displacement as owner. During any year of the 3–year period the allotment from a farm may remain in the allotment pool, the displaced owner may, in accordance with regulations of the Secretary, release for one year at a time any part or all of such farm allotment to the county committee for reapportionment to other farms in the county having allotments for such commodity on the basis of the past acreage of the commodity, land, labor, equipment available for the production of the commodity, crop rotation practices, and soil and other physical facilities affecting the production of the commodity; and the allotment reapportioned shall, for purposes of establishing future farm allotments, not be regarded as planted on the farm to which the allotment was transferred.
 
@@ -5759,13 +5759,13 @@ The provisions of this section shall not be applicable if (1) there is any marke
 
 **(c) Time of displacement determining application of provisions**
 
-This section shall not be applicable, in the case of and 2
+This section shall not be applicable, in the case of and 2
 
-<sup>2</sup>  So in original. The word “and” probably should not appear.
+<sup>2</sup> So in original. The word “and” probably should not appear.
 
 cotton, to any farm from which the owner was displaced prior to 1950, in the case of wheat and corn, to any farm from which the owner was displaced prior to 1954, and in the case of rice, to any farm from which the owner was displaced prior to 1955. In any case where the cropland acquired for nonfarming purposes from an owner by an agency having the right of eminent domain represents less than 15 per centum of the total cropland on the farm, the allotment attributable to that portion of the farm so acquired shall be transferred to that portion of the farm not so acquired.
 
-(Feb. 16, 1938, ch. 30, title III, § 378, as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 995; amended Pub. L. 86–423, § 1, Apr. 9, 1960, 74 Stat. 41; Pub. L. 87–33, May 16, 1961, 75 Stat. 78; Pub. L. 91–524, title IV, § 404(3), title VI, § 605(1), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 92–10, § 2, Apr. 14, 1971, 85 Stat. 27; Pub. L. 92–354, July 26, 1972, 86 Stat. 499; Pub. L. 107–171, title I, § 1309(h)(4), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 611(*l*), Oct. 22, 2004, 118 Stat. 1523.)
+(Feb. 16, 1938, ch. 30, title III, § 378, as added Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 995; amended Pub. L. 86–423, § 1, Apr. 9, 1960, 74 Stat. 41; Pub. L. 87–33, May 16, 1961, 75 Stat. 78; Pub. L. 91–524, title IV, § 404(3), title VI, § 605(1), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 92–10, § 2, Apr. 14, 1971, 85 Stat. 27; Pub. L. 92–354, July 26, 1972, 86 Stat. 499; Pub. L. 107–171, title I, § 1309(h)(4), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 611(*l*), Oct. 22, 2004, 118 Stat. 1523.)
 
 **Editorial Notes**
 
@@ -5775,11 +5775,11 @@ Part of subsec. (d) of section 378 of act Feb. 16, 1938, is set out as a Savings
 
 **Amendments**
 
-2004—Subsec. (c). Pub. L. 108–357, § 611(*l*)(1), which directed amendment of subsec. (c) by substituting “and cotton” for “cotton, and tobacco”, was executed by making the substitution for “cotton and tobacco”, to reflect the probable intent of Congress.
+2004—Subsec. (c). Pub. L. 108–357, § 611(*l*)(1), which directed amendment of subsec. (c) by substituting “and cotton” for “cotton, and tobacco”, was executed by making the substitution for “cotton and tobacco”, to reflect the probable intent of Congress.
 
-Subsecs. (d), (e). Pub. L. 108–357, § 611(*l*)(2), directed the repeal of subsecs. (d) and (e), added by Pub. L. 91–524, which had temporarily included farm base acreage allotment for upland cotton and domestic allotment for wheat within the term “allotment” as used in this section. See Codification note above and 1970 Amendment note below.
+Subsecs. (d), (e). Pub. L. 108–357, § 611(*l*)(2), directed the repeal of subsecs. (d) and (e), added by Pub. L. 91–524, which had temporarily included farm base acreage allotment for upland cotton and domestic allotment for wheat within the term “allotment” as used in this section. See Codification note above and 1970 Amendment note below.
 
-Subsec. (f). Pub. L. 108–357, § 611(*l*)(2), struck out subsec. (f), which provided that the terms “allotment” and “acreage” would be construed to mean “marketing quota” and “poundage”, respectively, in applying provisions to a farm for which a quota had been determined under section 1314e of this title.
+Subsec. (f). Pub. L. 108–357, § 611(*l*)(2), struck out subsec. (f), which provided that the terms “allotment” and “acreage” would be construed to mean “marketing quota” and “poundage”, respectively, in applying provisions to a farm for which a quota had been determined under section 1314e of this title.
 
 2002—Subsec. (c). Pub. L. 107–171 substituted “cotton and tobacco,” for “cotton, tobacco, and peanuts,”.
 
@@ -5787,9 +5787,9 @@ Subsec. (f). Pub. L. 108–357, § 611(*l*)(2), struck out subsec. (f), which 
 
 1971—Subsec. (f). Pub. L. 92–10 added subsec. (f).
 
-1970—Subsec. (d). Pub. L. 91–524, § 605(1), temporarily added subsec. (d). See Effective and Termination Dates of 1970 Amendment note below.
+1970—Subsec. (d). Pub. L. 91–524, § 605(1), temporarily added subsec. (d). See Effective and Termination Dates of 1970 Amendment note below.
 
-Subsec. (e). Pub. L. 91–524, § 404(3), temporarily added subsec. (e). See Effective and Termination Dates of 1970 Amendment note below.
+Subsec. (e). Pub. L. 91–524, § 404(3), temporarily added subsec. (e). See Effective and Termination Dates of 1970 Amendment note below.
 
 1961—Pub. L. 87–33 substituted provisions permitting displaced owners to release part or all of any allotment remaining in the allotment pool for reapportionment to other farms in the county having allotments for such commodity, for provisions making sections 1344(m)(2), 1353(e), and 1358(g) of this title inapplicable to allotments held under the lease by a displaced owner.
 
@@ -5803,15 +5803,15 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 404, title VI, § 605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, § 1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
+Pub. L. 91–524, title IV, § 404, title VI, § 605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, § 1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
 
 **Savings Provision**
 
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-Act Feb. 16, 1938, ch. 30, title III, § 378(d), as added by Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 995, provided in part that: “any transfer or reassignment of allotment heretofore made under the provisions of these sections [former sections 1313(h), 1334(d), 1344(h), 1353(f), and 1358(h) of this title] shall remain in effect, and any displaced farm owner for whom an allotment has been established under such repealed sections [such sections] shall not be eligible for additional allotment under subsection (a) of this section [7 U.S.C. 1378(a)] because of such displacement.”
+Act Feb. 16, 1938, ch. 30, title III, § 378(d), as added by Pub. L. 85–835, title V, § 501, Aug. 28, 1958, 72 Stat. 995, provided in part that: “any transfer or reassignment of allotment heretofore made under the provisions of these sections [former sections 1313(h), 1334(d), 1344(h), 1353(f), and 1358(h) of this title] shall remain in effect, and any displaced farm owner for whom an allotment has been established under such repealed sections [such sections] shall not be eligible for additional allotment under subsection (a) of this section [7 U.S.C. 1378(a)] because of such displacement.”
 
-##### § 1379. Reconstitution of farms
+##### § 1379. Reconstitution of farms
 
 In any case in which the ownership of a tract of land is transferred from a parent farm, the acreage allotments, history acreages, and base acreages for the farm shall be divided between such tract and the parent farm in the same proportion that the cropland acreage in such tract bears to the cropland acreage in the parent farm, except that the Secretary shall provide by regulation the method to be used in determining the division, if any, of the acreage allotments, histories, and bases in any case in which—
 
@@ -5827,17 +5827,17 @@ In any case in which the ownership of a tract of land is transferred from a pare
 
 **(6)** neither the tract transferred from the parent farm nor the remaining portion of the parent farm receives allotments in excess of allotments for similar farms in the community having allotments of the commodity or commodities involved and such allotments are consistent with good land uses.
 
-(Feb. 16, 1938, ch. 30, title III, § 379, as added Pub. L. 89–321, title VII, § 707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, § 404(4), title VI, § 605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, § 212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, § 2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, § 116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, § 803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178; Pub. L. 108–357, title VI, § 611(m), Oct. 22, 2004, 118 Stat. 1523.)
+(Feb. 16, 1938, ch. 30, title III, § 379, as added Pub. L. 89–321, title VII, § 707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, § 404(4), title VI, § 605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, § 212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, § 2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, § 116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, § 803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178; Pub. L. 108–357, title VI, § 611(m), Oct. 22, 2004, 118 Stat. 1523.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Pub. L. 108–357 struck out “(a)” before “In any case”, struck out “, but this clause (6) shall not be applicable in the case of burley tobacco” before period at end of par. (6), and struck out subsecs. (b) and (c), which related to combination of tracts in contiguous counties, and to burley tobacco poundage quota when a farm is divided through reconstitution, respectively.
+2004—Pub. L. 108–357 struck out “(a)” before “In any case”, struck out “, but this clause (6) shall not be applicable in the case of burley tobacco” before period at end of par. (6), and struck out subsecs. (b) and (c), which related to combination of tracts in contiguous counties, and to burley tobacco poundage quota when a farm is divided through reconstitution, respectively.
 
 1999—Subsec. (b). Pub. L. 106–78 inserted “or flue-cured” after “Burley”.
 
-1991—Subsecs. (a)(4) to (7), (c). Pub. L. 102–237 struck out “or” at end of par. (4), substituted “; or” for period at end of par. (5), substituted a period for “; or” at end of par. (6), and redesignated par. (7) as subsec. (c) and moved subsec. (c) to follow subsec. (b).
+1991—Subsecs. (a)(4) to (7), (c). Pub. L. 102–237 struck out “or” at end of par. (4), substituted “; or” for period at end of par. (5), substituted a period for “; or” at end of par. (6), and redesignated par. (7) as subsec. (c) and moved subsec. (c) to follow subsec. (b).
 
 1990—Subsec. (a)(7). Pub. L. 101–577 added par. (7).
 
@@ -5853,7 +5853,7 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 404, title VI, § 605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, § 1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
+Pub. L. 91–524, title IV, § 404, title VI, § 605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, § 1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
 
 **Savings Provision**
 
@@ -5861,11 +5861,11 @@ Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liabilit
 
 ### Part D—Wheat Marketing Allocation
 
-#### § 1379a. Legislative findings
+#### § 1379a. Legislative findings
 
 Wheat, in addition to being a basic food, is one of the great export crops of American agriculture and its production for domestic consumption and for export is necessary to the maintenance of a sound national economy and to the general welfare. The movement of wheat from producer to consumer, in the form of the commodity or any of the products thereof, is preponderantly in interstate and foreign commerce. Unreasonably low prices of wheat to producers impair their purchasing power for nonagriculture products and place them in a position of serious disparity with other industrial groups. The conditions affecting the production of wheat are such that without Federal assistance, producers cannot effectively prevent disastrously low prices for wheat. It is necessary, in order to assist wheat producers in obtaining fair prices, to regulate the price of wheat used for domestic food and for exports in the manner provided in this part.
 
-(Feb. 16, 1938, ch. 30, title III, § 379a, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 626.)
+(Feb. 16, 1938, ch. 30, title III, § 379a, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 626.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5879,67 +5879,67 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
-#### § 1379b. Wheat marketing allocation; amount; national allocation percentage; commercial and noncommercial wheat-producing areas
+#### § 1379b. Wheat marketing allocation; amount; national allocation percentage; commercial and noncommercial wheat-producing areas
 
 During any marketing year for which a marketing quota is in effect for wheat, beginning with the marketing year for the 1964 crop, a wheat marketing allocation program shall be in effect as provided in this part. Whenever a wheat marketing allocation program is in effect for any marketing year the Secretary shall determine (1) the wheat marketing allocation for such year which shall be the amount of wheat which in determining the national marketing quota for such marketing year he estimated would be used during such year for food products for consumption in the United States, and that portion of the amount of wheat which in determining such quota he estimated would be exported in the form of wheat or products thereof during the marketing year on which the Secretary determines that marketing certificates shall be issued to producers in order to achieve, insofar as practicable, the price and income objectives of this part, and (2) the national allocation percentage which shall be the percentage which the national marketing allocation is of the national marketing quota. Each farm shall receive a wheat marketing allocation for such marketing year equal to the number of bushels obtained by multiplying the number of acres in the farm acreage allotment for wheat by the projected farm yield, and multiplying the resulting number of bushels by the national allocation percentage. If a noncommercial wheat-producing area is established for any marketing year, farms in such area shall be given wheat marketing allocations which are determined by the Secretary to be fair and reasonable in relation to the wheat marketing allocation given producers in the commercial wheat-producing area.
 
-(Feb. 16, 1938, ch. 30, title III, § 379b, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 626; amended Pub. L. 88–297, title II, § 202(10), (11), Apr. 11, 1964, 78 Stat. 179, 180; Pub. L. 89–321, title V, §§ 502, 503, Nov. 3, 1965, 79 Stat. 1202; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 402(a), (b)(B), (C), Nov. 30, 1970, 84 Stat. 1362, as renumbered and amended Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 225.)
+(Feb. 16, 1938, ch. 30, title III, § 379b, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 626; amended Pub. L. 88–297, title II, § 202(10), (11), Apr. 11, 1964, 78 Stat. 179, 180; Pub. L. 89–321, title V, §§ 502, 503, Nov. 3, 1965, 79 Stat. 1202; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 402(a), (b)(B), (C), Nov. 30, 1970, 84 Stat. 1362, as renumbered and amended Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 225.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1973—Subsec. (c)(1). Pub. L. 91–524, § 402(b)(B)(i)–(vi), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “certificates on wheat”, “wheat allotment” for “domestic wheat allotment”, “thirteen and three-tenths million” for “13.3 million”, “1971 crop; plus, if required by the Secretary, (ii) the acreage” for “1971 crop or 15 million acres in the case of the 1972 or 1973 crop, plus (ii) the acreage”, “The Secretary is authorized for the 1974 through 1977 crops to limit” for “The Secretary is authorized for the 1971, 1972, and 1973 crops to limit”, “such percentage of the acreage allotment” for “such percentage of the domestic wheat allotment as he determines necessary to provide an orderly transition to the program provided for under this section”, “The Secretary shall permit producers to plant and graze on set-aside acreage sweet sorghum, and the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to hay and” for “Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16 and subject to this limitation (1) the Secretary shall permit producers to plant and graze on the set-aside acreage sweet sorghum, and (2) the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to”, and “flaxseed, triticale, oats, rye, or other commodity” for “flaxseed, or other commodity”. See Effective and Termination Dates of 1973 Amendment note below.
+1973—Subsec. (c)(1). Pub. L. 91–524, § 402(b)(B)(i)–(vi), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “certificates on wheat”, “wheat allotment” for “domestic wheat allotment”, “thirteen and three-tenths million” for “13.3 million”, “1971 crop; plus, if required by the Secretary, (ii) the acreage” for “1971 crop or 15 million acres in the case of the 1972 or 1973 crop, plus (ii) the acreage”, “The Secretary is authorized for the 1974 through 1977 crops to limit” for “The Secretary is authorized for the 1971, 1972, and 1973 crops to limit”, “such percentage of the acreage allotment” for “such percentage of the domestic wheat allotment as he determines necessary to provide an orderly transition to the program provided for under this section”, “The Secretary shall permit producers to plant and graze on set-aside acreage sweet sorghum, and the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to hay and” for “Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16 and subject to this limitation (1) the Secretary shall permit producers to plant and graze on the set-aside acreage sweet sorghum, and (2) the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to”, and “flaxseed, triticale, oats, rye, or other commodity” for “flaxseed, or other commodity”. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (c)(2). Pub. L. 91–524, § 402(b)(B)(i), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “certificates authorized in subsection (b) of this section”. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (c)(2). Pub. L. 91–524, § 402(b)(B)(i), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “certificates authorized in subsection (b) of this section”. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (c)(3). Pub. L. 91–524, § 402(b)(B)(vii), as added by Pub. L. 93–86, temporarily inserted provisions authorizing the Secretary, in the case of programs for the 1974 through 1977 crops, to pay an appropriate share of the cost of practices designated to protect set-aside acreage against erosion, insects, weeds, and rodents and to devote such acreage to wildlife food plots or wildlife habitat. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (c)(3). Pub. L. 91–524, § 402(b)(B)(vii), as added by Pub. L. 93–86, temporarily inserted provisions authorizing the Secretary, in the case of programs for the 1974 through 1977 crops, to pay an appropriate share of the cost of practices designated to protect set-aside acreage against erosion, insects, weeds, and rodents and to devote such acreage to wildlife food plots or wildlife habitat. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (c)(4). Pub. L. 91–524, § 402(b)(B)(i), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “marketing certificates”. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (c)(4). Pub. L. 91–524, § 402(b)(B)(i), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “marketing certificates”. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (d). Pub. L. 91–524, § 402(b)(C), as added by Pub. L. 93–86, temporarily struck out “certificates issued and of” before “payments made”. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (d). Pub. L. 91–524, § 402(b)(C), as added by Pub. L. 93–86, temporarily struck out “certificates issued and of” before “payments made”. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (e). Pub. L. 91–524, § 402(b)(C), as added by Pub. L. 93–86, temporarily struck out references to the issuance of certificates. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (e). Pub. L. 91–524, § 402(b)(C), as added by Pub. L. 93–86, temporarily struck out references to the issuance of certificates. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (g). Pub. L. 91–524, § 402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (g) without change. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (g). Pub. L. 91–524, § 402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (g) without change. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (i). Pub. L. 91–524, § 402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (i) without change. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (i). Pub. L. 91–524, § 402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (i) without change. See Effective and Termination Dates of 1973 Amendment note below.
 
-1970—Pub. L. 91–524, § 402(a), formerly § 402, temporarily substituted provisions covering the issuance of domestic certificates to producers and a voluntary set-aside program for wheat for provisions for a wheat marketing allocation program for the 1964 to 1970 crops. See Effective and Termination Dates of 1970 Amendment note below.
+1970—Pub. L. 91–524, § 402(a), formerly § 402, temporarily substituted provisions covering the issuance of domestic certificates to producers and a voluntary set-aside program for wheat for provisions for a wheat marketing allocation program for the 1964 to 1970 crops. See Effective and Termination Dates of 1970 Amendment note below.
 
 1968—Pub. L. 90–559 temporarily provided for a one year extension through 1970.
 
-1965—Pub. L. 89–321, § 502, temporarily amended section generally and, among other changes, extended the wheat marketing allocation program from 1964 and 1965 to 1966 through 1969, put a minimum limitation of five hundred million bushels on the amount of wheat included in the marketing allocation for food products for consumption in the United States, and required the cost of any domestic marketing certificates issued to producers in excess of the number of certificates acquired by processors as a result of the application of the five hundred million bushel minimum or an overestimate of the amount of wheat used during such year for food products for consumption in the United States to be borne by the Commodity Credit Corporation. See Effective and Termination Dates of 1965 Amendment note below.
+1965—Pub. L. 89–321, § 502, temporarily amended section generally and, among other changes, extended the wheat marketing allocation program from 1964 and 1965 to 1966 through 1969, put a minimum limitation of five hundred million bushels on the amount of wheat included in the marketing allocation for food products for consumption in the United States, and required the cost of any domestic marketing certificates issued to producers in excess of the number of certificates acquired by processors as a result of the application of the five hundred million bushel minimum or an overestimate of the amount of wheat used during such year for food products for consumption in the United States to be borne by the Commodity Credit Corporation. See Effective and Termination Dates of 1965 Amendment note below.
 
-Pub. L. 89–321, § 503, substituted “projected farm yield” for “normal wheat for the farm as projected by the Secretary”.
+Pub. L. 89–321, § 503, substituted “projected farm yield” for “normal wheat for the farm as projected by the Secretary”.
 
-1964—Pub. L. 88–297, § 202(10), temporarily struck out introductory phrase “During any marketing year for which a marketing quota is in effect for wheat”, reduced the national allocation percentage by the expected production on the acreage allotments for farms which will not be in compliance with the requirements of the program, and struck out provisions for wheat marketing allocations to non-commercial wheat-producing areas reasonably related to such allocations to producers in commercial wheat-producing areas. See Effective and Termination Dates of 1964 Amendment note below.
+1964—Pub. L. 88–297, § 202(10), temporarily struck out introductory phrase “During any marketing year for which a marketing quota is in effect for wheat”, reduced the national allocation percentage by the expected production on the acreage allotments for farms which will not be in compliance with the requirements of the program, and struck out provisions for wheat marketing allocations to non-commercial wheat-producing areas reasonably related to such allocations to producers in commercial wheat-producing areas. See Effective and Termination Dates of 1964 Amendment note below.
 
-Pub. L. 88–297, § 202(11), substituted “food products for consumption in the United States” for “human consumption in the United States, as food, food products, and beverages, composed wholly or partly of wheat” in second sentence.
+Pub. L. 88–297, § 202(11), substituted “food products for consumption in the United States” for “human consumption in the United States, as food, food products, and beverages, composed wholly or partly of wheat” in second sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1973 Amendment**
 
-Pub. L. 91–524, title IV, § 402(b)(B), as added by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 226, provided that subsec. (c) of this section, as amended by section 402(a), (b)(B) of Pub. L. 91–524, is effective with respect to the 1974 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 402(b)(B), as added by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 226, provided that subsec. (c) of this section, as amended by section 402(a), (b)(B) of Pub. L. 91–524, is effective with respect to the 1974 through 1977 crops of wheat.
 
-Pub. L. 91–524, title IV, § 402(b)(C), as added by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 226, provided that subsecs. (d), (e), (g), and (i) of this section, as amended by section 402(a), (b)(C) of Pub. L. 91–524, is effective for the 1974 through 1977 crops.
+Pub. L. 91–524, title IV, § 402(b)(C), as added by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 226, provided that subsecs. (d), (e), (g), and (i) of this section, as amended by section 402(a), (b)(C) of Pub. L. 91–524, is effective for the 1974 through 1977 crops.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 402(a), formerly § 402, Nov. 30, 1970, 84 Stat. 1362, as renumbered by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 225, provided that the amendment made by section 402(a) of Pub. L. 91–524 is effective only with respect to the 1971, 1972, and 1973 crops of wheat.
+Pub. L. 91–524, title IV, § 402(a), formerly § 402, Nov. 30, 1970, 84 Stat. 1362, as renumbered by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 225, provided that the amendment made by section 402(a) of Pub. L. 91–524 is effective only with respect to the 1971, 1972, and 1973 crops of wheat.
 
 **Effective and Termination Dates of 1965 Amendment**
 
-Pub. L. 89–321, title V, § 502, Nov. 3, 1965, 79 Stat. 1202, as amended by Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 502 of Pub. L. 89–321 is effective only with respect to the crops of wheat planted for harvest in calendar years 1966 through 1970, and marketing years for such crops.
+Pub. L. 89–321, title V, § 502, Nov. 3, 1965, 79 Stat. 1202, as amended by Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 502 of Pub. L. 89–321 is effective only with respect to the crops of wheat planted for harvest in calendar years 1966 through 1970, and marketing years for such crops.
 
-Pub. L. 89–321, title V, § 503, Nov. 3, 1965, 79 Stat. 1202, provided that the amendment made by section 503 of Pub. L. 89–321 is effective beginning with the 1970 crop.
+Pub. L. 89–321, title V, § 503, Nov. 3, 1965, 79 Stat. 1202, provided that the amendment made by section 503 of Pub. L. 89–321 is effective beginning with the 1970 crop.
 
 **Effective and Termination Dates of 1964 Amendment**
 
-Pub. L. 88–297, title II, § 202(10), Apr. 11, 1964, 78 Stat. 179, provided that the amendment made by section 202(10) of Pub. L. 88–297 is effective only with respect to crops planted for harvest in 1964 and 1965.
+Pub. L. 88–297, title II, § 202(10), Apr. 11, 1964, 78 Stat. 179, provided that the amendment made by section 202(10) of Pub. L. 88–297 is effective only with respect to crops planted for harvest in 1964 and 1965.
 
-Pub. L. 88–297, title II, § 202(11), Apr. 11, 1964, 78 Stat. 180, provided that the amendment made by section 202(11) of Pub. L. 88–297 is effective with respect to the crops planted for harvest in calendar year 1966 and any subsequent year.
+Pub. L. 88–297, title II, § 202(11), Apr. 11, 1964, 78 Stat. 180, provided that the amendment made by section 202(11) of Pub. L. 88–297 is effective with respect to the crops planted for harvest in calendar year 1966 and any subsequent year.
 
 **Inapplicability of Section**
 
@@ -5959,9 +5959,9 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, § 402(b)(A), as added by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 226, provided that: “Section 379b of the Agricultural Adjustment Act of 1938 [7 U.S.C. 1379b] (which provides for a wheat marketing certificate program) shall not be applicable to the 1974 through 1977 crops of wheat, except as provided in paragraphs (B) and (C) of this subsection [amending this section and enacting provisions set out as notes under this section].”
+Pub. L. 91–524, title IV, § 402(b)(A), as added by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 226, provided that: “Section 379b of the Agricultural Adjustment Act of 1938 [7 U.S.C. 1379b] (which provides for a wheat marketing certificate program) shall not be applicable to the 1974 through 1977 crops of wheat, except as provided in paragraphs (B) and (C) of this subsection [amending this section and enacting provisions set out as notes under this section].”
 
-#### § 1379c. Marketing certificates
+#### § 1379c. Marketing certificates
 
 **(a) Issuance; amount; reduction; sharing among producers; domestic and export certificates**
 
@@ -5983,67 +5983,67 @@ Marketing certificates and transfers thereof shall be represented by such docume
 
 In any case in which the failure of a producer to comply fully with the term and conditions of the programs formulated under this chapter preclude the issuance of marketing certificates, the Secretary may, nevertheless, issue such certificates in such amounts as he determines to be equitable in relation to the seriousness of the default.
 
-(Feb. 16, 1938, ch. 30, title III, § 379c, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 627; amended Pub. L. 88–297, title II, § 202(12)–(14), Apr. 11, 1964, 78 Stat. 180, 181; Pub. L. 89–112, § 3, Aug. 6, 1965, 79 Stat. 447; Pub. L. 89–321, title V, §§ 508, 510(a), 513(b), (c), 515, 517, Nov. 3, 1965, 79 Stat. 1204–1206; Pub. L. 89–451, § 3, June 17, 1966, 80 Stat. 202; Pub. L. 91–524, title IV, § 402(a), (b)(D), Nov. 30, 1970, 84 Stat. 1364, as renumbered and amended Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 225.)
+(Feb. 16, 1938, ch. 30, title III, § 379c, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 627; amended Pub. L. 88–297, title II, § 202(12)–(14), Apr. 11, 1964, 78 Stat. 180, 181; Pub. L. 89–112, § 3, Aug. 6, 1965, 79 Stat. 447; Pub. L. 89–321, title V, §§ 508, 510(a), 513(b), (c), 515, 517, Nov. 3, 1965, 79 Stat. 1204–1206; Pub. L. 89–451, § 3, June 17, 1966, 80 Stat. 202; Pub. L. 91–524, title IV, § 402(a), (b)(D), Nov. 30, 1970, 84 Stat. 1364, as renumbered and amended Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 225.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1973—Subsec. (a)(1). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily substituted references to a farm acreage allotment for references to the farm domestic allotment wherever appearing, struck out provisions limiting the impact of the section to the 1972 and 1973 crops of wheat, substituted “estimated national average yield for the crop for which the determination is being made will produce the quantity (less imports) that he estimates will be utilized domestically and for export during the marketing year for such crop. If the Secretary determines that carryover stocks are excessive or an increase in stocks is needed to assure a desirable carryover, he may adjust the allotment by the amount he determines will accomplish the desired decrease or increase in carryover stocks” for “estimated national yield will result in marketing certificates being issued to producers participating in the program in an amount equal to the amount of wheat which he estimates will be used for food products for consumption in the United States during the marketing year for the crop (not less than 535 million bushels)” in the provisions covering the determination of the estimated national yield, and inserted “(1973 national domestic allotment in the case of apportionment of the 1974 national acreage allotment)” before “adjusted to the extent deemed necessary”. See Effective and Termination Dates of 1973 Amendment note below.
+1973—Subsec. (a)(1). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily substituted references to a farm acreage allotment for references to the farm domestic allotment wherever appearing, struck out provisions limiting the impact of the section to the 1972 and 1973 crops of wheat, substituted “estimated national average yield for the crop for which the determination is being made will produce the quantity (less imports) that he estimates will be utilized domestically and for export during the marketing year for such crop. If the Secretary determines that carryover stocks are excessive or an increase in stocks is needed to assure a desirable carryover, he may adjust the allotment by the amount he determines will accomplish the desired decrease or increase in carryover stocks” for “estimated national yield will result in marketing certificates being issued to producers participating in the program in an amount equal to the amount of wheat which he estimates will be used for food products for consumption in the United States during the marketing year for the crop (not less than 535 million bushels)” in the provisions covering the determination of the estimated national yield, and inserted “(1973 national domestic allotment in the case of apportionment of the 1974 national acreage allotment)” before “adjusted to the extent deemed necessary”. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (a)(2). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “acreage allotment” and “wheat allotment”. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (a)(2). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “acreage allotment” and “wheat allotment”. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (a)(3). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “allotment” and “wheat allotment” wherever appearing and struck out provisions establishing special requirements to be met in determining the allotment for the 1971 crop of wheat. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (a)(3). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “allotment” and “wheat allotment” wherever appearing and struck out provisions establishing special requirements to be met in determining the allotment for the 1971 crop of wheat. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (a)(4), (5). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “allotment” wherever appearing. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (a)(4), (5). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “allotment” wherever appearing. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (a)(6). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily reenacted par. (6) without change. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (a)(6). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily reenacted par. (6) without change. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “allotment” wherever appearing and inserted “, guar, castor beans, cotton, triticale, oats, rye, or such other crops as the Secretary may deem appropriate” after “feed grains for which there is a set-aside program in effect”. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (b)(1). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “allotment” wherever appearing and inserted “, guar, castor beans, cotton, triticale, oats, rye, or such other crops as the Secretary may deem appropriate” after “feed grains for which there is a set-aside program in effect”. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (b)(2). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “allotment” wherever appearing and substituted “payments” for “certificates” and “section 1445a(c) of this title” for “this chapter”. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (b)(2). Pub. L. 91–524, § 402(b)(D), as added by Pub. L. 93–86, temporarily struck out “domestic” before “allotment” wherever appearing and substituted “payments” for “certificates” and “section 1445a(c) of this title” for “this chapter”. See Effective and Termination Dates of 1973 Amendment note below.
 
-1970—Pub. L. 91–524, § 402(a), formerly § 402, temporarily substituted provisions for the apportionment of the farm domestic allotment for each crop of wheat among the States for provisions covering the marketing certificates program. See Effective and Termination Dates of 1970 Amendment note below.
+1970—Pub. L. 91–524, § 402(a), formerly § 402, temporarily substituted provisions for the apportionment of the farm domestic allotment for each crop of wheat among the States for provisions covering the marketing certificates program. See Effective and Termination Dates of 1970 Amendment note below.
 
 1966—Subsec. (a). Pub. L. 89–451 substituted “any crop for which there are marketing quotas or voluntary adjustment programs in effect” for “any other income-producing crops during such year” in penultimate sentence.
 
-1965—Subsec. (a). Pub. L. 89–321, §§ 508, 513(b), authorized the Secretary to provide for the sharing of wheat marketing certificates among producers on a fair and equitable basis even though such basis might be other than the basis of their respective shares in the wheat crop produced on the farm, provided that acreage not planted to wheat because of drought, flood, or other natural disaster be deemed, with certain conditions, be planted for harvest for purposes of this subsection, and expanded the reference to the issuance of export marketing certificates by requiring their issuance on a pro rata basis and providing for the determination of such certificate’s value per bushel.
+1965—Subsec. (a). Pub. L. 89–321, §§ 508, 513(b), authorized the Secretary to provide for the sharing of wheat marketing certificates among producers on a fair and equitable basis even though such basis might be other than the basis of their respective shares in the wheat crop produced on the farm, provided that acreage not planted to wheat because of drought, flood, or other natural disaster be deemed, with certain conditions, be planted for harvest for purposes of this subsection, and expanded the reference to the issuance of export marketing certificates by requiring their issuance on a pro rata basis and providing for the determination of such certificate’s value per bushel.
 
 Pub. L. 89–112 provided that the Secretary shall deem acreage on the farm which the Secretary finds was not planted to wheat for harvest in 1965 because of drought, flood, or other natural disaster, to be an actual acreage of wheat planted for harvest when that acreage was not subsequently planted to any other price supported crop for 1965.
 
-Subsec. (b). Pub. L. 89–321, §§ 510(a), 517 substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”, permitted delivery to the Secretary of the wheat produced on excess acreage as an additional means of disposing of excess wheat so as to allow a producer to be deemed not to have exceeded the farm acreage allotment for wheat for purposes of this section, and provided for the disposition of wheat delivered to the Secretary and the adjustment of certificates to a producer who has produced an undesirable variety of wheat following public announcement by the Secretary of its undesirable characteristics.
+Subsec. (b). Pub. L. 89–321, §§ 510(a), 517 substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”, permitted delivery to the Secretary of the wheat produced on excess acreage as an additional means of disposing of excess wheat so as to allow a producer to be deemed not to have exceeded the farm acreage allotment for wheat for purposes of this section, and provided for the disposition of wheat delivered to the Secretary and the adjustment of certificates to a producer who has produced an undesirable variety of wheat following public announcement by the Secretary of its undesirable characteristics.
 
-Subsec. (c). Pub. L. 89–321, § 513(c), struck out provisions that the face value per bushel of export certificates shall be the amount by which the level of price support for wheat accompanied by export certificates exceeds the level of price support for noncertificate wheat.
+Subsec. (c). Pub. L. 89–321, § 513(c), struck out provisions that the face value per bushel of export certificates shall be the amount by which the level of price support for wheat accompanied by export certificates exceeds the level of price support for noncertificate wheat.
 
-Subsec. (e). Pub. L. 89–321, § 515, added subsec. (e).
+Subsec. (e). Pub. L. 89–321, § 515, added subsec. (e).
 
-1964—Subsec. (a). Pub. L. 88–297, § 202(12), inserted “under subsection (b) of this section or” after “stored” in second sentence, added to such sentence provision for reduction of wheat marketing certificates from amount of export certificates, and inserted provision for issuance of domestic marketing certificates for wheat used for domestic consumption and export marketing certificates for wheat used for export.
+1964—Subsec. (a). Pub. L. 88–297, § 202(12), inserted “under subsection (b) of this section or” after “stored” in second sentence, added to such sentence provision for reduction of wheat marketing certificates from amount of export certificates, and inserted provision for issuance of domestic marketing certificates for wheat used for domestic consumption and export marketing certificates for wheat used for export.
 
-Subsec. (b). Pub. L. 88–297, § 202(13), temporarily authorized producers who exceeded their wheat allotments to store their excess wheat in accordance with regulations issued by the Secretary and be eligible for wheat marketing certificates, prohibited wheat stored under this provision from being removed from storage until a subsequent year when acreage allotment was underplanted or the production on the acreage allotment was less than normal, required the producer (for removal of the wheat contrary to these conditions) to pay an amount one and one-half times the value of the wheat marketing certificates issued with respect to the farm for the year in which the wheat on the acreage in excess of the allotment was produced, and made producers who exceeded their allotment and stored their excess wheat ineligible for diversion payments. See Effective and Termination Dates of 1964 Amendment note below.
+Subsec. (b). Pub. L. 88–297, § 202(13), temporarily authorized producers who exceeded their wheat allotments to store their excess wheat in accordance with regulations issued by the Secretary and be eligible for wheat marketing certificates, prohibited wheat stored under this provision from being removed from storage until a subsequent year when acreage allotment was underplanted or the production on the acreage allotment was less than normal, required the producer (for removal of the wheat contrary to these conditions) to pay an amount one and one-half times the value of the wheat marketing certificates issued with respect to the farm for the year in which the wheat on the acreage in excess of the allotment was produced, and made producers who exceeded their allotment and stored their excess wheat ineligible for diversion payments. See Effective and Termination Dates of 1964 Amendment note below.
 
-Subsec. (c). Pub. L. 88–297, § 202(14), struck out introductory phrase “Whenever a wheat marketing allocation program is in effect for any marketing year” from first sentence, substituted in such sentence “each marketing year” for “such marketing year”, inserted in such sentence “wheat” before “marketing certificates”, substituted in second sentence “domestic certificates shall be the amount” for “marketing certificates shall be equal to the amount” and “domestic certificates” for “certificates” before “exceeds”, and inserted to such sentence provision for face value per bushel of export certificates.
+Subsec. (c). Pub. L. 88–297, § 202(14), struck out introductory phrase “Whenever a wheat marketing allocation program is in effect for any marketing year” from first sentence, substituted in such sentence “each marketing year” for “such marketing year”, inserted in such sentence “wheat” before “marketing certificates”, substituted in second sentence “domestic certificates shall be the amount” for “marketing certificates shall be equal to the amount” and “domestic certificates” for “certificates” before “exceeds”, and inserted to such sentence provision for face value per bushel of export certificates.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1973 Amendment**
 
-Pub. L. 91–524, title IV, § 402(b)(D), as added by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 227, provided that the amendment made by section 402(b)(D) of Pub. L. 91–524 is effective only with respect to the 1974 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 402(b)(D), as added by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 227, provided that the amendment made by section 402(b)(D) of Pub. L. 91–524 is effective only with respect to the 1974 through 1977 crops of wheat.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 402(a), formerly § 402, Nov. 30, 1970, 84 Stat. 1362, as renumbered by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 225, provided that the amendment made by section 402(a) of Pub. L. 91–524 is effective only with respect to the 1971, 1972, and 1973 crops of wheat.
+Pub. L. 91–524, title IV, § 402(a), formerly § 402, Nov. 30, 1970, 84 Stat. 1362, as renumbered by Pub. L. 93–86, § 1(9), Aug. 10, 1973, 87 Stat. 225, provided that the amendment made by section 402(a) of Pub. L. 91–524 is effective only with respect to the 1971, 1972, and 1973 crops of wheat.
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–321, title V, § 508, Nov. 3, 1965, 79 Stat. 1204, provided that the amendment made by section 508 of Pub. L. 89–321 is effective beginning with the crop planted for harvest in calendar year 1966.
+Pub. L. 89–321, title V, § 508, Nov. 3, 1965, 79 Stat. 1204, provided that the amendment made by section 508 of Pub. L. 89–321 is effective beginning with the crop planted for harvest in calendar year 1966.
 
-Pub. L. 89–321, title V, § 510(a), Nov. 3, 1965, 79 Stat. 1205, provided that the amendment made by section 510(a) of Pub. L. 89–321 is effective beginning with the 1966 crop.
+Pub. L. 89–321, title V, § 510(a), Nov. 3, 1965, 79 Stat. 1205, provided that the amendment made by section 510(a) of Pub. L. 89–321 is effective beginning with the 1966 crop.
 
-Pub. L. 89–321, title V, § 515, Nov. 3, 1965, 79 Stat. 1206, provided that the amendment made by section 515 of Pub. L. 89–321 is effective beginning with the crop planted for harvest in calendar year 1964.
+Pub. L. 89–321, title V, § 515, Nov. 3, 1965, 79 Stat. 1206, provided that the amendment made by section 515 of Pub. L. 89–321 is effective beginning with the crop planted for harvest in calendar year 1964.
 
 **Effective and Termination Dates of 1964 Amendment**
 
-Pub. L. 88–297, title II, § 202(13), Apr. 11, 1964, 78 Stat. 180, as amended by Pub. L. 89–321, title V, § 505(2), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 202(13) of Pub. L. 88–297 is effective with respect to crops planted for harvest in calendar years 1965 through 1970.
+Pub. L. 88–297, title II, § 202(13), Apr. 11, 1964, 78 Stat. 180, as amended by Pub. L. 89–321, title V, § 505(2), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 202(13) of Pub. L. 88–297 is effective with respect to crops planted for harvest in calendar years 1965 through 1970.
 
 **Inapplicability of Section**
 
@@ -6065,9 +6065,9 @@ Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub
 
 **Reduction of Wheat Stored by Producers Prior to 1971 Crop**
 
-Pub. L. 91–524, title IV, § 407, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, § 1(14), Aug. 10, 1973, 87 Stat. 229, provided that: “The amount of any wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1379c(b)], prior to the 1971 crop of wheat may be reduced by the amount by which the actual total production of the 1971, 1972, or 1973 crop on the farm is less than the number of bushels determined by multiplying three times the domestic allotment for such crop on the farm by the yield established for the farm for the purpose of issuance of domestic marketing certificates. The provisions of such section shall continue to apply to the wheat so stored to the extent not inconsistent therewith. Notwithstanding the foregoing, the Secretary may authorize release of wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended, prior to the 1971 crop, whenever he determines such release will not significantly affect market prices for wheat. As a condition of release, the Secretary may require a refund of such portion of the value of certificates received in the crop year the excess wheat was produced as he deems appropriate considering the period of time the excess wheat has been in storage and the need to provide fair and equitable treatment among all wheat program participants.”
+Pub. L. 91–524, title IV, § 407, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, § 1(14), Aug. 10, 1973, 87 Stat. 229, provided that: “The amount of any wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1379c(b)], prior to the 1971 crop of wheat may be reduced by the amount by which the actual total production of the 1971, 1972, or 1973 crop on the farm is less than the number of bushels determined by multiplying three times the domestic allotment for such crop on the farm by the yield established for the farm for the purpose of issuance of domestic marketing certificates. The provisions of such section shall continue to apply to the wheat so stored to the extent not inconsistent therewith. Notwithstanding the foregoing, the Secretary may authorize release of wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended, prior to the 1971 crop, whenever he determines such release will not significantly affect market prices for wheat. As a condition of release, the Secretary may require a refund of such portion of the value of certificates received in the crop year the excess wheat was produced as he deems appropriate considering the period of time the excess wheat has been in storage and the need to provide fair and equitable treatment among all wheat program participants.”
 
-#### § 1379d. Marketing restrictions
+#### § 1379d. Marketing restrictions
 
 **(a) Transfers of certificates; purchases by Commodity Credit Corporation**
 
@@ -6085,7 +6085,7 @@ Upon the giving of a bond or other undertaking satisfactory to the Secretary to 
 
 As used in this part, the term “food products” means flour (excluding flour second clears not used for human consumption as determined by the Secretary), semolina, farina, bulgur, beverage, and any other product composed wholly or partly of wheat which the Secretary may determine to be a food product. The Secretary may at his election administer the exemption for wheat processed into flour second clears through refunds either to processors of such wheat or to the users of such clears. For the purpose of such refunds, the wheat equivalent of flour second clears may be determined on the basis of conversion factors authorized by section 1379f of this title, even though certificates had been surrendered on the basis of the weight of the wheat.
 
-(Feb. 16, 1938, ch. 30, title III, § 379d, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 628; amended Pub. L. 88–297, title II, § 202(15)–(17), Apr. 11, 1964, 78 Stat. 181, 182; Pub. L. 89–321, title V, §§ 504(a)–(c), 513(a), Nov. 3, 1965, 79 Stat. 1202, 1203, 1205; Pub. L. 91–524, title IV, § 403(a)(1), (2), formerly § 403(1), (2), Nov. 30, 1970, 84 Stat. 1366, as renumbered Pub. L. 93–86, § 1(10), Aug. 10, 1973, 87 Stat. 228.)
+(Feb. 16, 1938, ch. 30, title III, § 379d, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 628; amended Pub. L. 88–297, title II, § 202(15)–(17), Apr. 11, 1964, 78 Stat. 181, 182; Pub. L. 89–321, title V, §§ 504(a)–(c), 513(a), Nov. 3, 1965, 79 Stat. 1202, 1203, 1205; Pub. L. 91–524, title IV, § 403(a)(1), (2), formerly § 403(1), (2), Nov. 30, 1970, 84 Stat. 1366, as renumbered Pub. L. 93–86, § 1(10), Aug. 10, 1973, 87 Stat. 228.)
 
 **Editorial Notes**
 
@@ -6097,27 +6097,27 @@ This part, referred to in subsec. (d), commences with section 1379a of this titl
 
 1970—Subsec. (b). Pub. L. 91–524, temporarily struck out provision limiting the section to only those marketing years for which a wheat marketing allocation program is in effect and inserted provisions authorizing the Secretary to temporarily suspend the requirement for export marketing certificates for the period beginning July 1, 1971, and ending June 30, 1974. See Effective and Termination Dates of 1970 Amendment note below.
 
-1965—Subsec. (b). Pub. L. 89–321, §§ 504(a), (c), 513(a), among other changes, amended second sentence, and also authorized the Secretary to exempt from the requirements of this subsection wheat produced by a State or agency thereof and processed for use by the State or agency thereof, wheat processed for donations, and wheat processed for uses determined by the Secretary to be noncommercial, permitted exemptions to be made applicable with respect to any wheat processed or exported beginning July 1, 1964, exempted from requirements of this subsection beverage distilled from wheat prior to July 1, 1964, required beverage distilled from wheat after July 1, 1964, to be deemed as being removed for sale or consumption at the time it is placed in barrels for aging, permitted upon the giving of a bond as prescribed by the Secretary, the purchase of and payment for such marketing certificates as may be required to be deferred until such beverage is bottled for sale, required wheat shipped to a Canadian port for storage in bond, or storage under a similar arrangement, and subsequent exportation, to be deemed as having been exported for purposes of this subsection when it is exported from the Canadian port, and, whenever the face value per bushel of domestic marketing certificates for a marketing year is different from the face value of domestic marketing certificates for the preceding marketing year, empowered the Secretary to require marketing certificates issued for the preceding marketing year to be acquired to cover all wheat processed into food products during such preceding marketing year even though the food product may be marketed or removed for sale or consumption after the end of the marketing year.
+1965—Subsec. (b). Pub. L. 89–321, §§ 504(a), (c), 513(a), among other changes, amended second sentence, and also authorized the Secretary to exempt from the requirements of this subsection wheat produced by a State or agency thereof and processed for use by the State or agency thereof, wheat processed for donations, and wheat processed for uses determined by the Secretary to be noncommercial, permitted exemptions to be made applicable with respect to any wheat processed or exported beginning July 1, 1964, exempted from requirements of this subsection beverage distilled from wheat prior to July 1, 1964, required beverage distilled from wheat after July 1, 1964, to be deemed as being removed for sale or consumption at the time it is placed in barrels for aging, permitted upon the giving of a bond as prescribed by the Secretary, the purchase of and payment for such marketing certificates as may be required to be deferred until such beverage is bottled for sale, required wheat shipped to a Canadian port for storage in bond, or storage under a similar arrangement, and subsequent exportation, to be deemed as having been exported for purposes of this subsection when it is exported from the Canadian port, and, whenever the face value per bushel of domestic marketing certificates for a marketing year is different from the face value of domestic marketing certificates for the preceding marketing year, empowered the Secretary to require marketing certificates issued for the preceding marketing year to be acquired to cover all wheat processed into food products during such preceding marketing year even though the food product may be marketed or removed for sale or consumption after the end of the marketing year.
 
-Subsec. (d). Pub. L. 89–321, § 504(b), excluded four second clears not used for human consumption from term “food products”, authorized the Secretary at his election to administer the exemption for wheat processed into flour second clears through refunds either to processors of such wheat or to the users of such clears, and permitted, for the purpose of such refunds, the wheat equivalent of flour second clears to be determined on the basis of conversion factors authorized by section 1379f of this title, even though certificates had been surrendered on the basis of the weight of the wheat.
+Subsec. (d). Pub. L. 89–321, § 504(b), excluded four second clears not used for human consumption from term “food products”, authorized the Secretary at his election to administer the exemption for wheat processed into flour second clears through refunds either to processors of such wheat or to the users of such clears, and permitted, for the purpose of such refunds, the wheat equivalent of flour second clears to be determined on the basis of conversion factors authorized by section 1379f of this title, even though certificates had been surrendered on the basis of the weight of the wheat.
 
-1964—Subsec. (a). Pub. L. 88–297, § 202(15), struck out provisions prohibiting persons from acquiring marketing certificates from the producer to whom such certificates were issued, unless such certificates were acquired in connection with acquisition from such producer of a number of bushels of wheat equivalent to the marketing certificates and authorizing the CCC to purchase from producers certificates not accompanied by wheat in cases where the Secretary determined that it would constitute an undue hardship to require the producer to transfer his certificates only in connection with the disposition of wheat and substituted “by any person” for “by persons other than the producer to whom such certificates are issued”.
+1964—Subsec. (a). Pub. L. 88–297, § 202(15), struck out provisions prohibiting persons from acquiring marketing certificates from the producer to whom such certificates were issued, unless such certificates were acquired in connection with acquisition from such producer of a number of bushels of wheat equivalent to the marketing certificates and authorizing the CCC to purchase from producers certificates not accompanied by wheat in cases where the Secretary determined that it would constitute an undue hardship to require the producer to transfer his certificates only in connection with the disposition of wheat and substituted “by any person” for “by persons other than the producer to whom such certificates are issued”.
 
-Subsec. (b). Pub. L. 88–297, § 202(16), in cl. (i) substituted “marketing any such food product or removing such food product for sale or consumption” for “marketing any such product for human food in the United States” and inserted “domestic” before “marketing certificates”; in cl. (ii) struck out “or food products” after “wheat” and inserted “export” before “marketing certificates”; inserted references to removals for sale or consumption in two other places and to removals in two places to make it clear that certificates were required on all wheat processed into food products whether sold, removed for sale, or removed for consumption; required the CCC to refund to the exporter such part of the cost of the certificate as the Secretary determined would make United States wheat and wheat flour generally competitive in the world market, avoid disruption of world market prices, and fulfill the international obligations of the United States; and authorized the Secretary to exempt from the requirement to have marketing certificates, wheat which was donated abroad and wheat processed for use on the farm where grown.
+Subsec. (b). Pub. L. 88–297, § 202(16), in cl. (i) substituted “marketing any such food product or removing such food product for sale or consumption” for “marketing any such product for human food in the United States” and inserted “domestic” before “marketing certificates”; in cl. (ii) struck out “or food products” after “wheat” and inserted “export” before “marketing certificates”; inserted references to removals for sale or consumption in two other places and to removals in two places to make it clear that certificates were required on all wheat processed into food products whether sold, removed for sale, or removed for consumption; required the CCC to refund to the exporter such part of the cost of the certificate as the Secretary determined would make United States wheat and wheat flour generally competitive in the world market, avoid disruption of world market prices, and fulfill the international obligations of the United States; and authorized the Secretary to exempt from the requirement to have marketing certificates, wheat which was donated abroad and wheat processed for use on the farm where grown.
 
-Subsec. (d). Pub. L. 88–297, § 202(17), redefined “food products” to mean flour, semolina, farina, bulgur, beverage, and any other product composed wholly or partly of wheat which the Secretary may determine to be a food product instead of any product composed wholly or partly of wheat to be used for human consumption, including beverage.
+Subsec. (d). Pub. L. 88–297, § 202(17), redefined “food products” to mean flour, semolina, farina, bulgur, beverage, and any other product composed wholly or partly of wheat which the Secretary may determine to be a food product instead of any product composed wholly or partly of wheat to be used for human consumption, including beverage.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 403(a), formerly § 403, Nov. 30, 1970, 84 Stat. 1366, as renumbered by Pub. L. 93–86, § 1(10), Aug. 10, 1973, 87 Stat. 228, provided that the amendment made by Pub. L. 91–524 is effective only with respect to the marketing years beginning July 1, 1971, July 1, 1972, and July 1, 1973.
+Pub. L. 91–524, title IV, § 403(a), formerly § 403, Nov. 30, 1970, 84 Stat. 1366, as renumbered by Pub. L. 93–86, § 1(10), Aug. 10, 1973, 87 Stat. 228, provided that the amendment made by Pub. L. 91–524 is effective only with respect to the marketing years beginning July 1, 1971, July 1, 1972, and July 1, 1973.
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–321, title V, § 504(a), Nov. 3, 1965, 79 Stat. 1202, provided that the amendment made by section 504(a) of Pub. L. 89–321 is effective upon the enactment of Pub. L. 89–321 (Nov. 3, 1965).
+Pub. L. 89–321, title V, § 504(a), Nov. 3, 1965, 79 Stat. 1202, provided that the amendment made by section 504(a) of Pub. L. 89–321 is effective upon the enactment of Pub. L. 89–321 (Nov. 3, 1965).
 
-Pub. L. 89–321, title V, § 504(b), Nov. 3, 1965, 79 Stat. 1202, provided in part that: “This subsection [amending this section] shall be effective as to products sold, or removed for sale or consumption on or after sixty days following enactment of this Act [Nov. 3, 1965], unless the Secretary shall by regulation designate an earlier effective date within such sixty-day period.”
+Pub. L. 89–321, title V, § 504(b), Nov. 3, 1965, 79 Stat. 1202, provided in part that: “This subsection [amending this section] shall be effective as to products sold, or removed for sale or consumption on or after sixty days following enactment of this Act [Nov. 3, 1965], unless the Secretary shall by regulation designate an earlier effective date within such sixty-day period.”
 
 **Inapplicability of Section**
 
@@ -6129,21 +6129,21 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
-Pub. L. 101–624, title III, § 302, Nov. 28, 1990, 104 Stat. 3400, provided that: “Sections 379d through 379j of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379d–1379j) (relating to marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1991, through May 31, 1996.”
+Pub. L. 101–624, title III, § 302, Nov. 28, 1990, 104 Stat. 3400, provided that: “Sections 379d through 379j of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379d–1379j) (relating to marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1991, through May 31, 1996.”
 
-Pub. L. 99–198, title III, § 309, Dec. 23, 1985, 99 Stat. 1394, provided that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379d–1379j) (relating to marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1986, through May 31, 1991.”
+Pub. L. 99–198, title III, § 309, Dec. 23, 1985, 99 Stat. 1394, provided that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379d–1379j) (relating to marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1986, through May 31, 1991.”
 
-Pub. L. 97–98, title III, § 302, Dec. 22, 1981, 95 Stat. 1227, provided that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 [sections 1379d, 1379e, 1379f, 1379g, 1379h, 1379i, and 1379j of this title] (which deal with marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1982, through May 31, 1986.”
+Pub. L. 97–98, title III, § 302, Dec. 22, 1981, 95 Stat. 1227, provided that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 [sections 1379d, 1379e, 1379f, 1379g, 1379h, 1379i, and 1379j of this title] (which deal with marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1982, through May 31, 1986.”
 
-Pub. L. 95–113, title IV, § 403, Sept. 29, 1977, 91 Stat. 926, provided that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 [sections 1379d, 1379e, 1379f, 1379g, 1379h, 1379i, and 1379j of this title] (which deal with marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period July 1, 1973, through May 31, 1982.”
+Pub. L. 95–113, title IV, § 403, Sept. 29, 1977, 91 Stat. 926, provided that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 [sections 1379d, 1379e, 1379f, 1379g, 1379h, 1379i, and 1379j of this title] (which deal with marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period July 1, 1973, through May 31, 1982.”
 
-Pub. L. 91–524, title IV, § 403(b), as added by Pub. L. 93–86, § 1(10), Aug. 10, 1973, 87 Stat. 228, provided in part that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 [sections 1379d, 1379e, 1379f, 1379g, 1379h, 1379i and 1379j of this title] (which deal with marketing certificate requirements for processors and exporters) shall not be applicable to wheat processed or exported during the period July 1, 1973 through June 30, 1978”.
+Pub. L. 91–524, title IV, § 403(b), as added by Pub. L. 93–86, § 1(10), Aug. 10, 1973, 87 Stat. 228, provided in part that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 [sections 1379d, 1379e, 1379f, 1379g, 1379h, 1379i and 1379j of this title] (which deal with marketing certificate requirements for processors and exporters) shall not be applicable to wheat processed or exported during the period July 1, 1973 through June 30, 1978”.
 
-#### § 1379e. Assistance in purchase and sale of marketing certificates; regulations; administrative expenses; interest
+#### § 1379e. Assistance in purchase and sale of marketing certificates; regulations; administrative expenses; interest
 
 For the purpose of facilitating the purchase and sale of marketing certificates, the Commodity Credit Corporation is authorized to issue, buy, and sell marketing certificates in accordance with regulations prescribed by the Secretary. Such regulations may authorize the Corporation to issue and sell certificates in excess of the quantity of certificates which it purchases. Such regulations may authorize the Corporation in the sale of marketing certificates to charge, in addition to the face value thereof, an amount determined by the Secretary to be appropriate to cover estimated administrative costs in connection with the purchase and sale of the certificates and estimated interest incurred on funds of the Corporation invested in certificates purchased by it.
 
-(Feb. 16, 1938, ch. 30, title III, § 379e, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 628; amended Pub. L. 89–321, title V, § 516, Nov. 3, 1965, 79 Stat. 1206; Pub. L. 90–559, § 1(6), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 403(a)(3), Nov. 30, 1970, 84 Stat. 1366.)
+(Feb. 16, 1938, ch. 30, title III, § 379e, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 628; amended Pub. L. 89–321, title V, § 516, Nov. 3, 1965, 79 Stat. 1206; Pub. L. 90–559, § 1(6), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 403(a)(3), Nov. 30, 1970, 84 Stat. 1366.)
 
 **Editorial Notes**
 
@@ -6185,11 +6185,11 @@ Section inapplicable to wheat processors or exporters during period July 1, 1973
 
 Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
 
-#### § 1379f. Conversion factors
+#### § 1379f. Conversion factors
 
 The Secretary shall establish conversion factors which shall be used to determine the amount of wheat contained in any food product. The conversion factor for any such food product shall be determined upon the basis of the weight of wheat used in the manufacture of such product.
 
-(Feb. 16, 1938, ch. 30, title III, § 379f, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 629.)
+(Feb. 16, 1938, ch. 30, title III, § 379f, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 629.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6213,7 +6213,7 @@ Section inapplicable to wheat processors or exporters during period July 1, 1973
 
 Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
 
-#### § 1379g. Authority to facilitate transition
+#### § 1379g. Authority to facilitate transition
 
 **(a)** The Secretary is authorized to take such action as he determines to be necessary to facilitate the transition from the program currently in effect to the program provided for in this part. Notwithstanding any other provision of this part, such authority shall include, but shall not be limited to, the authority to exempt all or a portion of the wheat or food products made therefrom in the channels of trade on the effective date of the program under this part from the marketing restrictions in subsection (b) of section 1379d of this title, or to sell certificates to persons owning such wheat or food products at such prices as the Secretary may determine. Any such certificate shall be issued by Commodity Credit Corporation.
 
@@ -6221,7 +6221,7 @@ Section inapplicable to wheat processed or exported during period July 1, 1973, 
 
 **(c)** The Secretary is authorized to take such action as he determines to be necessary to facilitate the transition from the certificate program provided for under section 1379d of this title to a program under which no certificates are required. Notwithstanding any other provision of law, such authority shall include, but shall not be limited to the authority to exempt all or a portion of wheat or food products made therefrom in the channels of trade on July 1, 1973, from the marketing restrictions in subsection (b) of section 1379d of this title, or to sell certificates to persons owning such wheat or food products made therefrom at such price and under such terms and conditions as the Secretary may determine. Any such certificate shall be issued by the Commodity Credit Corporation. Nothing herein shall authorize the Secretary to require certificates on wheat processed after June 30, 1973.
 
-(Feb. 16, 1938, ch. 30, title III, § 379g, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 629; amended Pub. L. 89–321, title V, § 504(d), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 91–524, title IV, § 403(b), Nov. 30, 1970, as added Pub. L. 93–86, § 1(10), Aug. 10, 1973, 87 Stat. 228.)
+(Feb. 16, 1938, ch. 30, title III, § 379g, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 629; amended Pub. L. 89–321, title V, § 504(d), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 91–524, title IV, § 403(b), Nov. 30, 1970, as added Pub. L. 93–86, § 1(10), Aug. 10, 1973, 87 Stat. 228.)
 
 **Editorial Notes**
 
@@ -6231,7 +6231,7 @@ This part, referred to in subsecs. (a) and (b), commences with section 1379a of 
 
 **Amendments**
 
-1973—Subsec. (c). Pub. L. 91–524, § 403(b), as added by Pub. L. 93–86, added subsec. (c).
+1973—Subsec. (c). Pub. L. 91–524, § 403(b), as added by Pub. L. 93–86, added subsec. (c).
 
 1965—Pub. L. 89–321 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -6257,11 +6257,11 @@ Section inapplicable to wheat processors or exporters during period July 1, 1973
 
 Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
 
-#### § 1379h. Applicability of provisions to designated persons; reports and records; examinations by the Secretary
+#### § 1379h. Applicability of provisions to designated persons; reports and records; examinations by the Secretary
 
 This section shall apply to processors of wheat, warehousemen and exporters of wheat and food products, and all persons purchasing, selling, or otherwise dealing in wheat marketing certificates. Any such person shall, from time to time on request of the Secretary, report to the Secretary such information and keep such records as the Secretary finds to be necessary to enable him to carry out the provisions of this part. Such information shall be reported and such records shall be kept in such manner as the Secretary shall prescribe. For the purpose of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the Secretary is authorized to examine such books, papers, records, accounts, correspondence, contracts, documents, and memorandums as he has reason to believe are relevant and are within the control of such person.
 
-(Feb. 16, 1938, ch. 30, title III, § 379h, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 629.)
+(Feb. 16, 1938, ch. 30, title III, § 379h, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 629.)
 
 **Editorial Notes**
 
@@ -6291,7 +6291,7 @@ Section inapplicable to wheat processors or exporters during period July 1, 1973
 
 Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
 
-#### § 1379i. Penalties
+#### § 1379i. Penalties
 
 **(a) Forfeitures; amount; civil action**
 
@@ -6309,7 +6309,7 @@ Any person who, in his capacity as a producer, knowingly violates or attempts to
 
 Any person who falsely makes, issues, alters, forges, or counterfeits any marketing certificate, or with fraudulent intent possesses, transfers, or uses any such falsely made, issued, altered, forged, or counterfeited marketing certificate, shall be deemed guilty of a felony and upon conviction thereof shall be subject to a fine of not more than $10,000 or imprisonment of not more than ten years, or both.
 
-(Feb. 16, 1938, ch. 30, title III, § 379i, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 629; amended Pub. L. 89–321, title V, § 510(b), Nov. 3, 1965, 79 Stat. 1205.)
+(Feb. 16, 1938, ch. 30, title III, § 379i, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 629; amended Pub. L. 89–321, title V, § 510(b), Nov. 3, 1965, 79 Stat. 1205.)
 
 **Editorial Notes**
 
@@ -6325,7 +6325,7 @@ This part, referred to in subsecs. (b) and (c), commences with section 1379a of 
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–321, title V, § 510(b), Nov. 3, 1965, 79 Stat. 1205, provided that the amendment made by Pub. L. 89–321 is effective as of the effective date of the original enactment of this section.
+Pub. L. 89–321, title V, § 510(b), Nov. 3, 1965, 79 Stat. 1205, provided that the amendment made by Pub. L. 89–321 is effective as of the effective date of the original enactment of this section.
 
 **Inapplicability of Section**
 
@@ -6347,11 +6347,11 @@ Section inapplicable to wheat processors or exporters during period July 1, 1973
 
 Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
 
-#### § 1379j. Regulations
+#### § 1379j. Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this part including but not limited to regulations governing the acquisition, disposition, or handling of marketing certificates.
 
-(Feb. 16, 1938, ch. 30, title III, § 379j, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 630.)
+(Feb. 16, 1938, ch. 30, title III, § 379j, as added Pub. L. 87–703, title III, § 324(2), Sept. 27, 1962, 76 Stat. 630.)
 
 **Editorial Notes**
 
@@ -6387,9 +6387,9 @@ Section inapplicable to wheat processed or exported during period July 1, 1973, 
 
 **Codification**
 
-Pub. L. 87–703, title III, § 324(1), Sept. 27, 1962, 76 Stat. 626, redesignated part D as E.
+Pub. L. 87–703, title III, § 324(1), Sept. 27, 1962, 76 Stat. 626, redesignated part D as E.
 
-#### §§ 1380a to 1380p. Omitted
+#### §§ 1380a to 1380p. Omitted
 
 **Editorial Notes**
 
@@ -6397,37 +6397,37 @@ Pub. L. 87–703, title III, § 324(1), Sept. 27, 1962, 76 Stat. 626, redesign
 
 Sections 1380a to 1380p of this title were effective only with respect to 1957 and 1958 rice crops.
 
-Section 1380a, act Feb. 16, 1938, ch. 30, title III, § 380a, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 208, provided legislative findings for this part.
+Section 1380a, act Feb. 16, 1938, ch. 30, title III, § 380a, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 208, provided legislative findings for this part.
 
-Section 1380b, act Feb. 16, 1938, ch. 30, title III, § 380b, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 208, related to effective date and termination of program.
+Section 1380b, act Feb. 16, 1938, ch. 30, title III, § 380b, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 208, related to effective date and termination of program.
 
-Section 1380c, act Feb. 16, 1938, ch. 30, title III, § 380c, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 208, related to determination of primary market quota for rice.
+Section 1380c, act Feb. 16, 1938, ch. 30, title III, § 380c, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 208, related to determination of primary market quota for rice.
 
-Section 1380d, act Feb. 16, 1938, ch. 30, title III, § 380d, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 209, related to apportionment of the primary market quota by the Secretary among the States and among farms.
+Section 1380d, act Feb. 16, 1938, ch. 30, title III, § 380d, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 209, related to apportionment of the primary market quota by the Secretary among the States and among farms.
 
-Section 1380e, act Feb. 16, 1938, ch. 30, title III, § 380e, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 209, provided that a farm operator to which a primary market quota applied could have such quota reviewed.
+Section 1380e, act Feb. 16, 1938, ch. 30, title III, § 380e, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 209, provided that a farm operator to which a primary market quota applied could have such quota reviewed.
 
-Section 1380f, act Feb. 16, 1938, ch. 30, title III, § 380f, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 209, related to price supports made available to cooperators on crops of rice.
+Section 1380f, act Feb. 16, 1938, ch. 30, title III, § 380f, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 209, related to price supports made available to cooperators on crops of rice.
 
-Section 1380g, act Feb. 16, 1938, ch. 30, title III, § 380g, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 209, related to certificates issued to cooperators.
+Section 1380g, act Feb. 16, 1938, ch. 30, title III, § 380g, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 209, related to certificates issued to cooperators.
 
-Section 1380h, act Feb. 16, 1938, ch. 30, title III, § 380h, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 210, related to inventory adjustment payments to persons owning rough rice located in continental United States, for purpose of facilitating transition from price support program formerly in effect.
+Section 1380h, act Feb. 16, 1938, ch. 30, title III, § 380h, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 210, related to inventory adjustment payments to persons owning rough rice located in continental United States, for purpose of facilitating transition from price support program formerly in effect.
 
-Section 1380i, act Feb. 16, 1938, ch. 30, title III, § 380i, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 210, related to set-aside of certain rough and processed rice.
+Section 1380i, act Feb. 16, 1938, ch. 30, title III, § 380i, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 210, related to set-aside of certain rough and processed rice.
 
-Section 1380j, act Feb. 16, 1938, ch. 30, title III, § 380j, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 210, related to exemptions from provisions of this part.
+Section 1380j, act Feb. 16, 1938, ch. 30, title III, § 380j, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 210, related to exemptions from provisions of this part.
 
-Section 1380k, act Feb. 16, 1938, ch. 30, title III, § 380k, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 210, related to rice processing restrictions.
+Section 1380k, act Feb. 16, 1938, ch. 30, title III, § 380k, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 210, related to rice processing restrictions.
 
-Section 1380*l*, act Feb. 16, 1938, ch. 30, title III, § 380*l*, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 211, related to rice import restrictions.
+Section 1380*l*, act Feb. 16, 1938, ch. 30, title III, § 380*l*, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 211, related to rice import restrictions.
 
-Section 1380m, act Feb. 16, 1938, ch. 30, title III, § 380m, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 211, directed the Secretary to prescribe regulations governing the issuance, redemption, acquisition, use, transfer, and disposition of certificates.
+Section 1380m, act Feb. 16, 1938, ch. 30, title III, § 380m, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 211, directed the Secretary to prescribe regulations governing the issuance, redemption, acquisition, use, transfer, and disposition of certificates.
 
-Section 1380n, act Feb. 16, 1938, ch. 30, title III, § 380n, as added May 28, 1956, ch 327, title V, § 501(3), 70 Stat. 211, related to penalties for violations of import and processing restrictions of this part or regulations prescribed by the Secretary for enforcing such provisions.
+Section 1380n, act Feb. 16, 1938, ch. 30, title III, § 380n, as added May 28, 1956, ch 327, title V, § 501(3), 70 Stat. 211, related to penalties for violations of import and processing restrictions of this part or regulations prescribed by the Secretary for enforcing such provisions.
 
-Section 1380*o*, act Feb. 16, 1938, ch. 30, title III, § 380*o*, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 211, related to reports and records.
+Section 1380*o*, act Feb. 16, 1938, ch. 30, title III, § 380*o*, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 211, related to reports and records.
 
-Section 1380p, act Feb. 16, 1938, ch. 30, title III, § 380p, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 211, defined “cooperator”, “processing of rough rice”, “processed rice”, “United States”, “exporter”, “rough rice equivalent”, and “import”, for purposes of this part.
+Section 1380p, act Feb. 16, 1938, ch. 30, title III, § 380p, as added May 28, 1956, ch. 327, title V, § 501(3), 70 Stat. 211, defined “cooperator”, “processing of rough rice”, “processed rice”, “United States”, “exporter”, “rough rice equivalent”, and “import”, for purposes of this part.
 
 ### Part F—Miscellaneous Provisions and Appropriations
 
@@ -6435,43 +6435,43 @@ Section 1380p, act Feb. 16, 1938, ch. 30, title III, § 380p, as added May 28,
 
 **Codification**
 
-Pub. L. 87–703, title III, § 324(1), Sept. 27, 1962, 76 Stat. 626, redesignated part E as F.
+Pub. L. 87–703, title III, § 324(1), Sept. 27, 1962, 76 Stat. 626, redesignated part E as F.
 
-Act May 28, 1956, ch. 327, title V, § 501(2), 70 Stat. 208, redesignated part D as E.
+Act May 28, 1956, ch. 327, title V, § 501(2), 70 Stat. 208, redesignated part D as E.
 
 #### subpart i—miscellaneous
 
-##### §§ 1381 to 1382. Omitted
+##### §§ 1381 to 1382. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1381, acts Feb. 16, 1938, ch. 30, title III, § 381, 52 Stat. 66; Apr. 7, 1938, ch. 107, § 12, 52 Stat. 204, related to cotton price adjustment payments with respect to 1937 cotton crop, and to transfer of pledged cotton of 1937 crop to Commodity Credit Corporation. Subsec. (c) of section 1381, which authorized sale of pledged cotton by Commodity Credit Corporation, was repealed by act July 3, 1948, ch. 827, title II, § 202(b), 62 Stat. 1255.
+Section 1381, acts Feb. 16, 1938, ch. 30, title III, § 381, 52 Stat. 66; Apr. 7, 1938, ch. 107, § 12, 52 Stat. 204, related to cotton price adjustment payments with respect to 1937 cotton crop, and to transfer of pledged cotton of 1937 crop to Commodity Credit Corporation. Subsec. (c) of section 1381, which authorized sale of pledged cotton by Commodity Credit Corporation, was repealed by act July 3, 1948, ch. 827, title II, § 202(b), 62 Stat. 1255.
 
 Section 1381a, act June 16, 1938, ch. 464, title I, 52 Stat. 745, which was not a part of the Agricultural Adjustment Act of 1938, related only to payments for 1937 crops.
 
-Section 1382, act Feb. 16, 1938, ch. 30, title III, § 382, 52 Stat. 67, required the Commodity Credit Corporation to provide for the extension, from July 31, 1938, to July 31, 1939, of 1937 cotton loan.
+Section 1382, act Feb. 16, 1938, ch. 30, title III, § 382, 52 Stat. 67, required the Commodity Credit Corporation to provide for the extension, from July 31, 1938, to July 31, 1939, of 1937 cotton loan.
 
-##### § 1383. Insurance of cotton; reconcentration
+##### § 1383. Insurance of cotton; reconcentration
 
 **(a)** The Commodity Credit Corporation shall place all insurance of every nature taken out by it on cotton, and all renewals, extensions, or continuations of existing insurance, with insurance agents who are bonafide residents of and doing business in the State where the cotton is warehoused: *Provided*, That such insurance may be secured at a cost not greater than similar insurance offered on said cotton elsewhere.
 
 **(b)** Cotton held as security for any loan heretofore or hereafter made or arranged for by the Commodity Credit Corporation shall not hereafter be reconcentrated without the written consent of the producer or borrower.
 
-(Feb. 16, 1938, ch. 30, title III, § 383, 52 Stat. 67.)
+(Feb. 16, 1938, ch. 30, title III, § 383, 52 Stat. 67.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-##### § 1383a. Written consent for reconcentration of cotton
+##### § 1383a. Written consent for reconcentration of cotton
 
 In the administration of section 1383(b) of this title the written consent of the producer or borrower to the reconcentration of any cotton held as security for any loan heretofore or hereafter made or arranged for by the Commodity Credit Corporation shall not be deemed to have been given unless such consent shall have been given in an instrument made solely for that purpose. Notwithstanding any provision of any loan agreement heretofore made, no cotton held under any such agreement as security for any such loan shall be moved from one warehouse to another unless the written consent of the producer or borrower shall have been obtained in a separate instrument given solely for that purpose, as required by this section. The giving of written consent for the reconcentration of cotton shall not be made a condition upon the making of any loan hereafter made or arranged for by the Commodity Credit Corporation: *Provided, however*, That in cases where there is congestion and lack of storage facilities, and the local warehouse certifies such fact and requests the Commodity Credit Corporation to move the cotton for reconcentration to some other point, or when the Commodity Credit Corporation determines such loan cotton is improperly warehoused and subject to damage, or if uninsured, or if any of the terms of the loan agreement are violated, or if carrying charges are substantially in excess of the average of carrying charges available elsewhere, and the local warehouse, after notice, declines to reduce such charges, such written consent as provided in this section need not be obtained; and consent to movement under any of the conditions of this proviso may be required in future loan agreements.
 
@@ -6487,29 +6487,29 @@ Section was not enacted as part of the Agricultural Adjustment Act of 1938 which
 
 **Transfer of Functions**
 
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-##### § 1384. Repealed. Aug. 7, 1946, ch. 770, § 1(3), 60 Stat. 866
+##### § 1384. Repealed. Aug. 7, 1946, ch. 770, § 1(3), 60 Stat. 866
 
-Section, act Feb. 16, 1938, ch. 30, title III, § 384, 52 Stat. 68, related to reports to Congress by the Secretary of Agriculture.
+Section, act Feb. 16, 1938, ch. 30, title III, § 384, 52 Stat. 68, related to reports to Congress by the Secretary of Agriculture.
 
-##### § 1385. Finality of payments and loans; substitution of beneficiaries
+##### § 1385. Finality of payments and loans; substitution of beneficiaries
 
 The facts constituting the basis for any chapter 3B of title 16 payment, any payment under the wheat, feed grain, upland cotton, extra long staple cotton, and rice programs authorized by chapter 35A of this title and this chapter, any loan, or price support operation, or the amount thereof, when officially determined in conformity with the applicable regulations prescribed by the Secretary or by the Commodity Credit Corporation, shall be final and conclusive and shall not be reviewable by any other officer or agency of the Government. In case any person who is entitled to any such payment dies, becomes incompetent, or disappears before receiving such payment, or is succeeded by another who renders or completes the required performance, the payment shall, without regard to any other provisions of law, be made as the Secretary of Agriculture may determine to be fair and reasonable in all the circumstances and provide by regulations. This section also shall be applicable to payments provided for under section 1348 of this title.
 
-(Feb. 16, 1938, ch. 30, title III, § 385, 52 Stat. 68; July 2, 1940, ch. 521, § 7, 54 Stat. 728; July 3, 1948, ch. 827, title II, § 207(e), 62 Stat. 1257; Pub. L. 87–703, title III, § 322, Sept. 27, 1962, 76 Stat. 626; Pub. L. 88–297, title I, § 102, Apr. 11, 1964, 78 Stat. 174; Pub. L. 91–524, title IV, § 404(5), title VI, § 605(3), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 94–214, title III, § 302, Feb. 16, 1976, 90 Stat. 187; Pub. L. 95–113, title IV, § 405, Sept. 29, 1977, 91 Stat. 927; Pub. L. 97–98, title XI, § 1102, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 99–198, title X, § 1017(a), Dec. 23, 1985, 99 Stat. 1459.)
+(Feb. 16, 1938, ch. 30, title III, § 385, 52 Stat. 68; July 2, 1940, ch. 521, § 7, 54 Stat. 728; July 3, 1948, ch. 827, title II, § 207(e), 62 Stat. 1257; Pub. L. 87–703, title III, § 322, Sept. 27, 1962, 76 Stat. 626; Pub. L. 88–297, title I, § 102, Apr. 11, 1964, 78 Stat. 174; Pub. L. 91–524, title IV, § 404(5), title VI, § 605(3), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 94–214, title III, § 302, Feb. 16, 1976, 90 Stat. 187; Pub. L. 95–113, title IV, § 405, Sept. 29, 1977, 91 Stat. 927; Pub. L. 97–98, title XI, § 1102, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 99–198, title X, § 1017(a), Dec. 23, 1985, 99 Stat. 1459.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation Act, probably meaning the Soil Conservation and Domestic Allotment Act.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation Act, probably meaning the Soil Conservation and Domestic Allotment Act.
 
-Chapter 35A [§ 1421 et seq.] of this title, referred to in text, was in the original a reference to the Agricultural Act of 1949.
+Chapter 35A [§ 1421 et seq.] of this title, referred to in text, was in the original a reference to the Agricultural Act of 1949.
 
 **Amendments**
 
@@ -6539,15 +6539,15 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title IV, § 405, Sept. 29, 1977, 91 Stat. 927, provided that the amendment made by section 405 is effective only for the 1978 through 1981 crops.
+Pub. L. 95–113, title IV, § 405, Sept. 29, 1977, 91 Stat. 927, provided that the amendment made by section 405 is effective only for the 1978 through 1981 crops.
 
 **Effective and Termination Dates of 1976 Amendment**
 
-Pub. L. 94–214, title III, § 302, Feb. 16, 1976, 90 Stat. 187, provided that the amendment made by section 302 is effective only with respect to the 1976 and 1977 crops of rice.
+Pub. L. 94–214, title III, § 302, Feb. 16, 1976, 90 Stat. 187, provided that the amendment made by section 302 is effective only with respect to the 1976 and 1977 crops of rice.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 404, title VI, § 605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, § 1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
+Pub. L. 91–524, title IV, § 404, title VI, § 605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, § 1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
 
 **Effective Date of 1962 Amendment**
 
@@ -6559,29 +6559,29 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 **Determination of Rate of Loans, Payments, and Purchases Under Price Support Program; Notice and Public Participation in Rulemaking Not Required**
 
-Pub. L. 99–198, title X, § 1017(b), Dec. 23, 1985, 99 Stat. 1459, as amended by Pub. L. 101–624, title XI, § 1144, Nov. 28, 1990, 104 Stat. 3516, provided that the Secretary of Agriculture was to determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) for any of the 1991 through 1995 crops of a commodity without regard to notice and public participation in rulemaking requirements.
+Pub. L. 99–198, title X, § 1017(b), Dec. 23, 1985, 99 Stat. 1459, as amended by Pub. L. 101–624, title XI, § 1144, Nov. 28, 1990, 104 Stat. 3516, provided that the Secretary of Agriculture was to determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) for any of the 1991 through 1995 crops of a commodity without regard to notice and public participation in rulemaking requirements.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-##### § 1386. Exemption from laws prohibiting interest of Members of Congress in contracts
+##### § 1386. Exemption from laws prohibiting interest of Members of Congress in contracts
 
 The provisions of section 6306 of title 41 and sections 431 and 432 of title 18 shall not be applicable to loans or payments made under this chapter (except under section 1383(a) of this title).
 
-(Feb. 16, 1938, ch. 30, title III, § 386, 52 Stat. 68.)
+(Feb. 16, 1938, ch. 30, title III, § 386, 52 Stat. 68.)
 
 **Editorial Notes**
 
 **Codification**
 
-In text, “section 6306 of title 41” substituted for “section 3741 of the Revised Statutes (U.S.C., 1934 edition, title 41, sec. 22)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “section 6306 of title 41” substituted for “section 3741 of the Revised Statutes (U.S.C., 1934 edition, title 41, sec. 22)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 “Sections 431 and 432 of title 18” substituted in text for “sections 114 and 115 of the Criminal Code of the United States (U.S.C., 1934 edition, title 18, secs. 204 and 205)” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
 
@@ -6591,11 +6591,11 @@ In text, “section 6306 of title 41” substituted for “section 3741 of the R
 
 Wool support program, application of this section to, see note set out under section 713a–8 of Title 15, Commerce and Trade.
 
-##### § 1387. Photographic reproductions and maps
+##### § 1387. Photographic reproductions and maps
 
 The Secretary may furnish reproductions of information such as geo-referenced data from all sources, aerial or other photographs, mosaics, and maps as have been obtained in connection with the authorized work of the Department to farmers and governmental agencies at the estimated cost of furnishing such reproductions, and to persons other than farmers at such prices as the Secretary may determine (but not less than the estimated costs of data processing, updating, revising, reformatting, repackaging and furnishing the reproductions and information), the money received from such sales to be deposited in the Treasury to the credit of the appropriation charged with the cost of making such reproductions. This section shall not affect the power of the Secretary to make other disposition of such or similar materials under any other provisions of existing law.
 
-(Feb. 16, 1938, ch. 30, title III, § 387, 52 Stat. 68; Pub. L. 106–113, div. B, § 1000(a)(3) [title IV, § 407], Nov. 29, 1999, 113 Stat. 1535, 1501A–214.)
+(Feb. 16, 1938, ch. 30, title III, § 387, 52 Stat. 68; Pub. L. 106–113, div. B, § 1000(a)(3) [title IV, § 407], Nov. 29, 1999, 113 Stat. 1535, 1501A–214.)
 
 **Editorial Notes**
 
@@ -6609,7 +6609,7 @@ The Secretary may furnish reproductions of information such as geo-referenced da
 
 Wool support program, application of this section to, see note set out under section 713a–8 of Title 15, Commerce and Trade.
 
-##### § 1388. Utilization of local agencies
+##### § 1388. Utilization of local agencies
 
 **(a) Designation of local agencies and local administrative areas**
 
@@ -6627,21 +6627,21 @@ The provisions of sections 590h(b) and 590k of title 16, relating to the utiliza
 
 **(c) Travel expenses**
 
-**(1)** The Secretary shall make payments to members of local, county, and State committees to cover expenses for travel incurred by such persons (including, in the case of a member of a local or county committee, travel between the home of such member and the local county office of the Agricultural Stabilization and Conservation Service) in cooperating in carrying out this chapter and chapter 3B of title 16 in connection with which such Committees 1
+**(1)** The Secretary shall make payments to members of local, county, and State committees to cover expenses for travel incurred by such persons (including, in the case of a member of a local or county committee, travel between the home of such member and the local county office of the Agricultural Stabilization and Conservation Service) in cooperating in carrying out this chapter and chapter 3B of title 16 in connection with which such Committees 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 are used.
 
 **(2)** Such travel expenses shall be paid in the manner authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
 
-(Feb. 16, 1938, ch. 30, title III, § 388, 52 Stat. 68; Pub. L. 99–198, title XVII, § 1713(a), (b), Dec. 23, 1985, 99 Stat. 1636, 1637.)
+(Feb. 16, 1938, ch. 30, title III, § 388, 52 Stat. 68; Pub. L. 99–198, title XVII, § 1713(a), (b), Dec. 23, 1985, 99 Stat. 1636, 1637.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
 
 **Amendments**
 
@@ -6651,39 +6651,39 @@ Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the orig
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XVII, § 1713(c), Dec. 23, 1985, 99 Stat. 1637, provided that: “The amendments made by this section [amending this section] shall become effective on January 1, 1986.”
+Pub. L. 99–198, title XVII, § 1713(c), Dec. 23, 1985, 99 Stat. 1637, provided that: “The amendments made by this section [amending this section] shall become effective on January 1, 1986.”
 
-##### § 1389. Personnel
+##### § 1389. Personnel
 
 The Secretary is authorized and directed to provide for the execution by the Agricultural Adjustment Administration of such of the powers conferred upon him by this chapter as he deems may be appropriately exercised by such Administration; and for such purposes the provisions of law applicable to appointment and compensation of persons employed by the Agricultural Adjustment Administration shall apply.
 
-(Feb. 16, 1938, ch. 30, title III, § 389, 52 Stat. 69.)
+(Feb. 16, 1938, ch. 30, title III, § 389, 52 Stat. 69.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees. See note set out under section 610 of this title.
+Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees. See note set out under section 610 of this title.
 
 Agricultural Adjustment Administration consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069.
 
-##### § 1390. Separability
+##### § 1390. Separability
 
 If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the validity of the remainder of the chapter and the application of such provision to other persons or circumstances, and the provisions of chapter 3B of title 16, shall not be affected thereby. Without limiting the generality of the foregoing, if any provision of this chapter should be held not to be within the power of the Congress to regulate interstate and foreign commerce, such provision shall not be held invalid if it is within the power of the Congress to provide for the general welfare or any other power of the Congress. If any provision of this chapter for marketing quotas with respect to any commodity should be held invalid, no provision of this chapter for marketing quotas with respect to any other commodity shall be affected thereby. If the application of any provision for a referendum should be held invalid, the application of other provisions shall not be affected thereby. If by reason of any provision for a referendum the application of any such other provision to any person or circumstance is held invalid, the application of such other provision to other persons or circumstances shall not be affected thereby.
 
-(Feb. 16, 1938, ch. 30, title III, § 390, 52 Stat. 69.)
+(Feb. 16, 1938, ch. 30, title III, § 390, 52 Stat. 69.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
 
 #### subpart ii—appropriations and administrative expenses
 
-##### § 1391. Authorization of appropriations; loans from Commodity Credit Corporation
+##### § 1391. Authorization of appropriations; loans from Commodity Credit Corporation
 
 **(a)** Beginning with the fiscal year ending June 30, 1938, there is hereby authorized to be appropriated, for each fiscal year for the administration of this chapter and for the making of soil conservation and other payments such sums as Congress may determine, in addition to any amount made available pursuant to section 590*o* of title 16.
 
@@ -6691,7 +6691,7 @@ Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the orig
 
 **(c)** During each fiscal year, beginning with the fiscal year ending June 30, 1941, the Commodity Credit Corporation is authorized and directed to loan to the Secretary such sums, not to exceed $50,000,000, as he estimates will be required during such fiscal year, to make crop insurance premium advances and to make advances pursuant to the applicable provisions of sections 590h and 590*l* of title 16, in connection with programs applicable to crops harvested in the calendar year in which such fiscal year ends, and to pay the administrative expenses of county agricultural conservation associations for the calendar year in which such fiscal year ends. The sums so loaned during any fiscal year shall be transferred to the current appropriation available for carrying out sections 590g, 590h, 590i, and 590j to 590q of title 16 and shall be repaid, with interest at a rate to be determined by the Secretary but not less than the cost of money to the Commodity Credit Corporation for a comparable period, during the succeeding fiscal year from the appropriation available for that year or from any unobligated balance of the appropriation for any other year.
 
-(Feb. 16, 1938, ch. 30, title III, § 391, 52 Stat. 69; July 2, 1940, ch. 521, § 8, 54 Stat. 728.)
+(Feb. 16, 1938, ch. 30, title III, § 391, 52 Stat. 69; July 2, 1940, ch. 521, § 8, 54 Stat. 728.)
 
 **Editorial Notes**
 
@@ -6703,25 +6703,25 @@ Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the orig
 
 **Transfer of Functions**
 
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-##### § 1392. Administrative expenses; posting names and compensation of local employees
+##### § 1392. Administrative expenses; posting names and compensation of local employees
 
 **(a)** The Secretary is authorized and directed to make such expenditures as he deems necessary to carry out the provisions of this chapter and sections 590g, 590h, 590i, and 590j to 590q of title 16, including personal services and rents in the District of Columbia and elsewhere; traveling expenses; supplies and equipment; lawbooks, books of reference, directories, periodicals, and newspapers; and the preparation and display of exhibits, including such displays at community, county, State, interstate, and international fairs within the United States. The Secretary of the Treasury is authorized and directed upon the request of the Secretary to establish one or more separate appropriation accounts into which there shall be transferred from the respective funds available for the purposes of this chapter and chapter 3B of title 16, in connection with which personnel or other facilities of the Agricultural Adjustment Administration are utilized, proportionate amounts estimated by the Secretary to be required by the Agricultural Adjustment Administration for administrative expenses in carrying out or cooperating in carrying out any of the provisions of this chapter and chapter 3B of title 16.
 
 **(b)** In the administration of this subchapter and sections 590g, 590h, 590i, and 590j to 590q of title 16, the aggregate amount expended in any fiscal year, beginning with the fiscal year ending June 30, 1942, for administrative expenses in the District of Columbia, including regional offices, and in the several States (not including the expenses of county and local committees) shall not exceed 3 per centum of the total amount available for such fiscal year for carrying out the purposes of this subchapter and chapter 3B of title 16, unless otherwise provided by appropriation or other law. In the administration of section 612c of this title, and sections 601, 602, 608a, 608b, 608c, 608d, 610, 612, 614, 624, and 671 to 673 of this title, the aggregate amount expended in any fiscal year beginning with the fiscal year ending June 30, 1942, for administrative expenses in the District of Columbia, including regional offices, and in the several States (not including the expenses of county and local committees) shall not exceed 4 per centum of the total amount available for such fiscal year for carrying out the purposes of said sections, unless otherwise provided by appropriation or other law. In the event any administrative expenses of any county or local committee are deducted in any fiscal year, beginning with the fiscal year ending June 30, 1939, from chapter 3B of title 16 payments, parity payments, or loans, each farmer receiving benefits under such provisions shall be apprised of the amount or percentage deducted from such benefit payment or loan on account of such administrative expenses. The names and addresses of the members and employees of any county or local committee, and the amount of such compensation received by each of them, shall be posted annually in a conspicuous place in the area within which they are employed.
 
-(Feb. 16, 1938, ch. 30, title III, § 392, 52 Stat. 69; Jan. 31, 1942, ch. 32, 56 Stat. 41; Aug. 3, 1956, ch. 950, § 7, 70 Stat. 1034.)
+(Feb. 16, 1938, ch. 30, title III, § 392, 52 Stat. 69; Jan. 31, 1942, ch. 32, 56 Stat. 41; Aug. 3, 1956, ch. 950, § 7, 70 Stat. 1034.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
 
 **Amendments**
 
@@ -6749,37 +6749,37 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 Agricultural Adjustment Administration consolidated into Production and Marketing Administration by 1946 Reorg. Plan No. 3, eff. July 4, 1946, 11 F.R. 7876, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees. See note set out under section 610 of this title.
 
-##### § 1393. Allotment of appropriations
+##### § 1393. Allotment of appropriations
 
 All funds for carrying out the provisions of this chapter shall be available for allotment to bureaus and offices of the Department, and for transfer to such other agencies of the Federal Government, and to such State agencies, as the Secretary may request to cooperate or assist in carrying out the provisions of this chapter.
 
-(Feb. 16, 1938, ch. 30, title III, § 393, 52 Stat. 70.)
+(Feb. 16, 1938, ch. 30, title III, § 393, 52 Stat. 70.)
 
 ## SUBCHAPTER III—COTTON POOL PARTICIPATION TRUST CERTIFICATES
 
-### §§ 1401 to 1407. Omitted
+### §§ 1401 to 1407. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1401, act Feb. 16, 1938, ch. 30, title IV, § 401, 52 Stat. 70, authorized an appropriation of $1,800,000 to accomplish the purposes declared in former provisions of this subchapter and provided for payments by Secretary of Treasury upon order of Secretary of Agriculture.
+Section 1401, act Feb. 16, 1938, ch. 30, title IV, § 401, 52 Stat. 70, authorized an appropriation of $1,800,000 to accomplish the purposes declared in former provisions of this subchapter and provided for payments by Secretary of Treasury upon order of Secretary of Agriculture.
 
-Section 1402, act Feb. 16, 1938, ch. 30, title IV, § 402, 52 Stat. 70, provided for deposit of appropriation to credit of the Secretary of Agriculture for disbursement for purposes stated in former provisions of this subchapter.
+Section 1402, act Feb. 16, 1938, ch. 30, title IV, § 402, 52 Stat. 70, provided for deposit of appropriation to credit of the Secretary of Agriculture for disbursement for purposes stated in former provisions of this subchapter.
 
-Section 1403, acts Feb. 16, 1938, ch. 30, title IV, § 403, 52 Stat. 70; Apr. 7, 1938, ch. 107, § 13, 52 Stat. 204, provided allotment of funds to manager of cotton pool for purchase of pool participation trust certificates, to be tendered by lawful holder and owner thereof on or before May 1, 1938, at rate of $1 per five-hundred-pound bale, payment of costs and expenses incident to such purchases and covering into the Treasury as miscellaneous receipts balance remaining at expiration of purchase period.
+Section 1403, acts Feb. 16, 1938, ch. 30, title IV, § 403, 52 Stat. 70; Apr. 7, 1938, ch. 107, § 13, 52 Stat. 204, provided allotment of funds to manager of cotton pool for purchase of pool participation trust certificates, to be tendered by lawful holder and owner thereof on or before May 1, 1938, at rate of $1 per five-hundred-pound bale, payment of costs and expenses incident to such purchases and covering into the Treasury as miscellaneous receipts balance remaining at expiration of purchase period.
 
-Section 1404, acts Feb. 16, 1938, ch. 30, title IV, § 404, 52 Stat. 71; Apr. 7, 1938, ch. 107, § 14, 52 Stat. 204, extended the time limit for purchase of outstanding pool participation certificates to and including July 31, 1938, authorized issuance of rules and regulations and prohibited purchases from other than record holders on or before May 1, 1938.
+Section 1404, acts Feb. 16, 1938, ch. 30, title IV, § 404, 52 Stat. 71; Apr. 7, 1938, ch. 107, § 14, 52 Stat. 204, extended the time limit for purchase of outstanding pool participation certificates to and including July 31, 1938, authorized issuance of rules and regulations and prohibited purchases from other than record holders on or before May 1, 1938.
 
 Section 1404a, acts June 16, 1938, ch. 464, title I, 52 Stat. 747; Apr. 5, 1939, ch. 44, 53 Stat. 572, extended the time limit for purchase of certificates to and including Sept. 30, 1939 and made the date of May 1, 1938 inapplicable.
 
 Section 1404b, act June 16, 1938, ch. 464, title I, 52 Stat. 747, provided for issuance of regulations for payments on participation trust certificates in case of death, incompetence or disappearance of payee.
 
-Section 1405, act Feb. 16, 1938, ch. 30, title IV, § 405, 52 Stat. 71, authorized continuance of 1933 cotton producers pool as long as necessary to effectuate purposes of former provisions of this subchapter and use of funds for payment of expenses.
+Section 1405, act Feb. 16, 1938, ch. 30, title IV, § 405, 52 Stat. 71, authorized continuance of 1933 cotton producers pool as long as necessary to effectuate purposes of former provisions of this subchapter and use of funds for payment of expenses.
 
-Section 1406, act Feb. 16, 1938, ch. 30, title IV, § 406, 52 Stat. 71, prohibited purchase of certificates after expiration of time limit.
+Section 1406, act Feb. 16, 1938, ch. 30, title IV, § 406, 52 Stat. 71, prohibited purchase of certificates after expiration of time limit.
 
-Section 1407, acts Feb. 16, 1938, ch. 30, title IV, § 407, 52 Stat. 71; Apr. 7, 1938, ch. 107, § 15, 52 Stat. 204, provided for payment by assignee of certificate transferred subsequent to May 1, 1937, limited to the purchase price paid by the assignee, with interest at rate of four per centum from date of purchase, not exceeding an amount of $1 per bale, payment to be based upon affidavit of assignee.
+Section 1407, acts Feb. 16, 1938, ch. 30, title IV, § 407, 52 Stat. 71; Apr. 7, 1938, ch. 107, § 15, 52 Stat. 204, provided for payment by assignee of certificate transferred subsequent to May 1, 1937, limited to the purchase price paid by the assignee, with interest at rate of four per centum from date of purchase, not exceeding an amount of $1 per bale, payment to be based upon affidavit of assignee.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6791,4 +6791,4 @@ Subchapter, with the exception of former sections 1404a and 1404b, inapplicable 
 
 **Settlement of Certain Claims and Accounts**
 
-Act June 5, 1942, ch. 349, §§ 2, 3, 56 Stat. 324, authorized Comptroller General to relieve disbursing and certifying officers from liability for payments made under former provisions of this subchapter upon certificate of Secretary of Agriculture that such payments were made in good faith, and also provided that no action should be taken to recover such excess payments, if the Secretary of Agriculture should further certify that, in view of the good faith of the parties or other circumstances of the case, such attempt to recover them would be inadvisable or inequitable.
+Act June 5, 1942, ch. 349, §§ 2, 3, 56 Stat. 324, authorized Comptroller General to relieve disbursing and certifying officers from liability for payments made under former provisions of this subchapter upon certificate of Secretary of Agriculture that such payments were made in good faith, and also provided that no action should be taken to recover such excess payments, if the Secretary of Agriculture should further certify that, in view of the good faith of the parties or other circumstances of the case, such attempt to recover them would be inadvisable or inequitable.

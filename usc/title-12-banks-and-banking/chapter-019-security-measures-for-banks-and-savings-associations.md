@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 19—SECURITY MEASURES FOR BANKS AND SAVINGS ASSOCIATIONS
 
-## § 1881. “Federal supervisory agency” defined
+## § 1881. “Federal supervisory agency” defined
 
 As used in this chapter the term “Federal supervisory agency” means the appropriate Federal banking agency, as defined in section 1813(q) of this title.
 
-(Pub. L. 90–389, § 2, July 7, 1968, 82 Stat. 294; Pub. L. 101–73, title VII, § 744(h), Aug. 9, 1989, 103 Stat. 439; Pub. L. 108–386, § 8(d), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 111–203, title III, § 356(1), July 21, 2010, 124 Stat. 1547.)
+(Pub. L. 90–389, § 2, July 7, 1968, 82 Stat. 294; Pub. L. 101–73, title VII, § 744(h), Aug. 9, 1989, 103 Stat. 439; Pub. L. 108–386, § 8(d), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 111–203, title III, § 356(1), July 21, 2010, 124 Stat. 1547.)
 
 **Editorial Notes**
 
@@ -37,9 +37,9 @@ As used in this chapter the term “Federal supervisory agency” means the appr
 
 2004—Par. (1). Pub. L. 108–386 struck out “and district banks” after “national banks”.
 
-1989—Par. (3). Pub. L. 101–73, § 744(h)(2), inserted reference to State savings associations.
+1989—Par. (3). Pub. L. 101–73, § 744(h)(2), inserted reference to State savings associations.
 
-Par. (4). Pub. L. 101–73, § 744(h)(1), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”, struck out “and loan” after “Federal savings”, and struck out “associations, and institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” before period at end.
+Par. (4). Pub. L. 101–73, § 744(h)(1), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”, struck out “and loan” after “Federal savings”, and struck out “associations, and institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -53,9 +53,9 @@ Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise
 
 **Short Title**
 
-Pub. L. 90–389, § 1, July 7, 1968, 82 Stat. 294, provided: “That this Act [enacting this chapter and amending section 1729 of this title] may be cited as the ‘Bank Protection Act of 1968’.”
+Pub. L. 90–389, § 1, July 7, 1968, 82 Stat. 294, provided: “That this Act [enacting this chapter and amending section 1729 of this title] may be cited as the ‘Bank Protection Act of 1968’.”
 
-## § 1882. Security measures
+## § 1882. Security measures
 
 **(a) Rules for installation, maintenance, and operation of security devices and procedures**
 
@@ -65,7 +65,7 @@ Within six months from July 7, 1968, each Federal supervisory agency shall promu
 
 The rules shall establish the time limits within which banks and savings associations shall comply with the standards.
 
-(Pub. L. 90–389, § 3, July 7, 1968, 82 Stat. 295; Pub. L. 101–73, title IX, § 911(a), Aug. 9, 1989, 103 Stat. 478; Pub. L. 111–203, title III, § 356(2), July 21, 2010, 124 Stat. 1547.)
+(Pub. L. 90–389, § 3, July 7, 1968, 82 Stat. 295; Pub. L. 101–73, title IX, § 911(a), Aug. 9, 1989, 103 Stat. 478; Pub. L. 111–203, title III, § 356(2), July 21, 2010, 124 Stat. 1547.)
 
 **Editorial Notes**
 
@@ -85,7 +85,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 Amendment by Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 
-## § 1883. Insurance rates; report to Congress
+## § 1883. Insurance rates; report to Congress
 
 The Federal supervisory agencies shall consult with
 
@@ -95,13 +95,13 @@ The Federal supervisory agencies shall consult with
 
 to determine the feasibility and desirability of premium rate differentials based on the installation, maintenance, and operation of security devices and procedures. The Federal supervisory agencies shall report to the Congress the results of their consultations pursuant to this section not later than two years after July 7, 1968.
 
-(Pub. L. 90–389, § 4, July 7, 1968, 82 Stat. 295.)
+(Pub. L. 90–389, § 4, July 7, 1968, 82 Stat. 295.)
 
-## § 1884. Penalties for violations
+## § 1884. Penalties for violations
 
 A bank or savings association which violates a rule promulgated pursuant to this chapter shall be subject to a civil penalty which shall not exceed $100 for each day of the violation.
 
-(Pub. L. 90–389, § 5, July 7, 1968, 82 Stat. 295; Pub. L. 111–203, title III, § 356(3), July 21, 2010, 124 Stat. 1547.)
+(Pub. L. 90–389, § 5, July 7, 1968, 82 Stat. 295; Pub. L. 111–203, title III, § 356(3), July 21, 2010, 124 Stat. 1547.)
 
 **Editorial Notes**
 

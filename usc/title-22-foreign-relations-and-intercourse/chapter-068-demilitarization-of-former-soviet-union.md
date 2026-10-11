@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FINDINGS AND PROGRAM AUTHORITY
 
-### § 5901. Demilitarization of independent states of former Soviet Union
+### § 5901. Demilitarization of independent states of former Soviet Union
 
 The Congress finds that it is in the national security interest of the United States—
 
@@ -35,21 +35,21 @@ The Congress finds that it is in the national security interest of the United St
 
 **(3)** to expand military-to-military contacts between the United States and the independent states of the former Soviet Union.
 
-(Pub. L. 102–484, div. A, title XIV, § 1411, Oct. 23, 1992, 106 Stat. 2563.)
+(Pub. L. 102–484, div. A, title XIV, § 1411, Oct. 23, 1992, 106 Stat. 2563.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 102–484, div. A, title XIV, § 1401, Oct. 23, 1992, 106 Stat. 2563, provided that: “This title [enacting this chapter and amending provisions set out as a note under section 2551 of this title] may be cited as the ‘Former Soviet Union Demilitarization Act of 1992’.”
+Pub. L. 102–484, div. A, title XIV, § 1401, Oct. 23, 1992, 106 Stat. 2563, provided that: “This title [enacting this chapter and amending provisions set out as a note under section 2551 of this title] may be cited as the ‘Former Soviet Union Demilitarization Act of 1992’.”
 
 **Policy on Reduction of Russian Nuclear Forces**
 
-Pub. L. 106–38, § 3, July 22, 1999, 113 Stat. 205, provided that: “It is the policy of the United States to seek continued negotiated reductions in Russian nuclear forces.”
+Pub. L. 106–38, § 3, July 22, 1999, 113 Stat. 205, provided that: “It is the policy of the United States to seek continued negotiated reductions in Russian nuclear forces.”
 
 **Nuclear Weapons Reduction**
 
-Pub. L. 102–484, div. A, title XIII, § 1321, Oct. 23, 1992, 106 Stat. 2549, provided that:
+Pub. L. 102–484, div. A, title XIII, § 1321, Oct. 23, 1992, 106 Stat. 2549, provided that:
 
 > **“(a) Findings.—** The Congress makes the following findings:
 
@@ -95,13 +95,13 @@ Pub. L. 102–484, div. A, title XIII, § 1321, Oct. 23, 1992, 106 Stat. 2549,
 
 > Each such report shall be submitted in unclassified form, with a classified appendix if necessary.”
 
-### § 5902. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2), Dec. 19, 2014, 128 Stat. 3606
+### § 5902. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2), Dec. 19, 2014, 128 Stat. 3606
 
-Section, Pub. L. 102–484, div. A, title XIV, § 1412, Oct. 23, 1992, 106 Stat. 2563, authorized the President to establish and conduct programs to assist the demilitarization of the independent states of the former Soviet Union.
+Section, Pub. L. 102–484, div. A, title XIV, § 1412, Oct. 23, 1992, 106 Stat. 2563, authorized the President to establish and conduct programs to assist the demilitarization of the independent states of the former Soviet Union.
 
 ## SUBCHAPTER II—ADMINISTRATIVE AND FUNDING AUTHORITIES
 
-### § 5911. Administration of demilitarization programs
+### § 5911. Administration of demilitarization programs
 
 **(a) Funding**
 
@@ -117,9 +117,9 @@ Section, Pub. L. 102–484, div. A, title XIV, § 1412, Oct. 23, 1992, 106 Sta
 
 **(E)** not more than $25,000,000 may be made available for Project PEACE; and
 
-**(F)** not more than $10,000,000 may be made available for the Volunteers Investing in Peace and Security (VIPS) program under chapter 89 1
+**(F)** not more than $10,000,000 may be made available for the Volunteers Investing in Peace and Security (VIPS) program under chapter 89 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10.
 
@@ -127,7 +127,7 @@ of title 10.
 
 **(b) Omitted**
 
-(Pub. L. 102–484, div. A, title XIV, § 1421, Oct. 23, 1992, 106 Stat. 2564.)
+(Pub. L. 102–484, div. A, title XIV, § 1421, Oct. 23, 1992, 106 Stat. 2564.)
 
 **Editorial Notes**
 
@@ -135,19 +135,19 @@ of title 10.
 
 Sections 108 and 109 of Public Law 102–229 (105 Stat. 1708), referred to in subsec. (a)(1), are not classified to the Code.
 
-Chapter 89 of title 10, referred to in subsec. (a)(1)(F), was repealed by Pub. L. 104–106, div. A, title X, § 1061(a)(1), Feb. 10, 1996, 110 Stat. 442.
+Chapter 89 of title 10, referred to in subsec. (a)(1)(F), was repealed by Pub. L. 104–106, div. A, title X, § 1061(a)(1), Feb. 10, 1996, 110 Stat. 442.
 
 **Codification**
 
-Section is comprised of section 1421 of Pub. L. 102–484. Subsec. (a)(2) and (3) of section 1421 of Pub. L. 102–484 amended section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. Subsec. (b) of section 1421 of Pub. L. 102–484 amended sections 108 and 109 of Pub. L. 102–229, which are not classified to the Code.
+Section is comprised of section 1421 of Pub. L. 102–484. Subsec. (a)(2) and (3) of section 1421 of Pub. L. 102–484 amended section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. Subsec. (b) of section 1421 of Pub. L. 102–484 amended sections 108 and 109 of Pub. L. 102–229, which are not classified to the Code.
 
 ## SUBCHAPTER III—REPORTING REQUIREMENTS
 
-### § 5921. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2), Dec. 19, 2014, 128 Stat. 3606
+### § 5921. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2), Dec. 19, 2014, 128 Stat. 3606
 
-Section, Pub. L. 102–484, div. A, title XIV, § 1431, Oct. 23, 1992, 106 Stat. 2565, required the President to submit a report to Congress prior to obligating any funds for programs under this chapter.
+Section, Pub. L. 102–484, div. A, title XIV, § 1431, Oct. 23, 1992, 106 Stat. 2565, required the President to submit a report to Congress prior to obligating any funds for programs under this chapter.
 
-### § 5922. Quarterly reports on programs
+### § 5922. Quarterly reports on programs
 
 Not later than 30 days after the end of the last fiscal year quarter of fiscal year 1992 and not later than 30 days after the end of each fiscal year quarter of fiscal year 1993, the President shall transmit to the Congress a report on the activities carried out under this chapter. Each such report shall set forth, for the preceding fiscal year quarter and cumulatively, the following:
 
@@ -161,7 +161,7 @@ Not later than 30 days after the end of the last fiscal year quarter of fiscal y
 
 **(5)** Such other information as the President considers appropriate to fully inform the Congress concerning the operation of the programs authorized under this chapter.
 
-(Pub. L. 102–484, div. A, title XIV, § 1432, Oct. 23, 1992, 106 Stat. 2566.)
+(Pub. L. 102–484, div. A, title XIV, § 1432, Oct. 23, 1992, 106 Stat. 2566.)
 
 **Executive Documents**
 
@@ -171,7 +171,7 @@ Authority of President under this section delegated to Secretary of Defense by s
 
 ## SUBCHAPTER IV—JOINT RESEARCH AND DEVELOPMENT PROGRAMS
 
-### § 5931. Programs with states of former Soviet Union
+### § 5931. Programs with states of former Soviet Union
 
 The Congress encourages the Secretary of Defense to participate actively in joint research and development programs with the independent states of the former Soviet Union through the nongovernmental foundation established for this purpose by section 5861 of this title. To that end, the Secretary of Defense may spend those funds authorized in section 5911(a)(1)(C) of this title for support, technical cooperation, in-kind assistance, and other activities with the following purposes:
 
@@ -185,7 +185,7 @@ The Congress encourages the Secretary of Defense to participate actively in join
 
 **(5)** To provide productive research and development opportunities within the independent states of the former Soviet Union that offer scientists and engineers alternatives to emigration and help prevent proliferation of weapons technologies and the dissolution of the technological infrastructure of those states.
 
-(Pub. L. 102–484, div. A, title XIV, § 1441, Oct. 23, 1992, 106 Stat. 2566; Pub. L. 103–160, div. A, title XI, § 1182(c)(4), Nov. 30, 1993, 107 Stat. 1772.)
+(Pub. L. 102–484, div. A, title XIV, § 1441, Oct. 23, 1992, 106 Stat. 2566; Pub. L. 103–160, div. A, title XI, § 1182(c)(4), Nov. 30, 1993, 107 Stat. 1772.)
 
 **Editorial Notes**
 

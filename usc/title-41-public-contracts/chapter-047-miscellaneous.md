@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2019—Pub. L. 116–92, div. A, title XI, § 1123(a)(2), Dec. 20, 2019, 133 Stat. 1612, added item 4714.
+2019—Pub. L. 116–92, div. A, title XI, § 1123(a)(2), Dec. 20, 2019, 133 Stat. 1612, added item 4714.
 
-2018—Pub. L. 115–390, title II, § 203(b), Dec. 21, 2018, 132 Stat. 5192, added item 4713.
+2018—Pub. L. 115–390, title II, § 203(b), Dec. 21, 2018, 132 Stat. 5192, added item 4713.
 
-2016—Pub. L. 114–261, § 1(a)(3)(B), Dec. 14, 2016, 130 Stat. 1362, added item 4712 and struck out former item 4712 “Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information”.
+2016—Pub. L. 114–261, § 1(a)(3)(B), Dec. 14, 2016, 130 Stat. 1362, added item 4712 and struck out former item 4712 “Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information”.
 
-2013—Pub. L. 112–239, div. A, title VIII, § 828(a)(2), Jan. 2, 2013, 126 Stat. 1840, added item 4712.
+2013—Pub. L. 112–239, div. A, title VIII, § 828(a)(2), Jan. 2, 2013, 126 Stat. 1840, added item 4712.
 
-## § 4701. Determinations and decisions
+## § 4701. Determinations and decisions
 
 **(a) Individual or Class Determinations and Decisions Authorized.—**
 
@@ -45,16 +45,16 @@ retrieved: 2026-10-11
 
 **(3) Maintaining copies of findings.—** The head of an executive agency shall maintain for a period of not less than 6 years a copy of each finding referred to in paragraph (1) that is made by an individual in that executive agency. The period begins on the date of the determination or decision to which the finding relates.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3793.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3793.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4701 | 41:257. | June 30, 1949, ch. 288, title III, § 307, 63 Stat. 396; Pub. L. 85–800, § 5, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, §§ 3, 4, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, title VII, § 2714(a)(4), July 18, 1984, 98 Stat. 1184; Pub. L. 104–106, title XLIII, § 4321(e)(6), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–316, title I, § 121(c), Oct. 19, 1996, 110 Stat. 3836. |
-|  | 41:262. | June 30, 1949, ch. 288, title III, § 312, as added Pub. L. 103–355, title I, § 1553, Oct. 13, 1994, 108 Stat. 3300. |
+| 4701 | 41:257. | June 30, 1949, ch. 288, title III, § 307, 63 Stat. 396; Pub. L. 85–800, § 5, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, §§ 3, 4, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, title VII, § 2714(a)(4), July 18, 1984, 98 Stat. 1184; Pub. L. 104–106, title XLIII, § 4321(e)(6), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–316, title I, § 121(c), Oct. 19, 1996, 110 Stat. 3836. |
+|  | 41:262. | June 30, 1949, ch. 288, title III, § 312, as added Pub. L. 103–355, title I, § 1553, Oct. 13, 1994, 108 Stat. 3300. |
 
-## § 4702. Prohibition on release of contractor proposals
+## § 4702. Prohibition on release of contractor proposals
 
 **(a) Definition.—** In this section, the term “proposal” means a proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
@@ -62,19 +62,19 @@ retrieved: 2026-10-11
 
 **(c) Nonapplication.—** Subsection (b) does not apply to a proposal that is set forth or incorporated by reference in a contract entered into between the agency and the contractor that submitted the proposal.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3794.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3794.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4702(a) | 41:253b(m)(3). | June 30, 1949, ch. 288, title III, § 303B(m), as added Pub. L. 104–201, title VIII, § 821(b), Sept. 23, 1996, 110 Stat. 2609. |
+| 4702(a) | 41:253b(m)(3). | June 30, 1949, ch. 288, title III, § 303B(m), as added Pub. L. 104–201, title VIII, § 821(b), Sept. 23, 1996, 110 Stat. 2609. |
 | 4702(b) | 41:253b(m)(1). |  |
 | 4702(c) | 41:253b(m)(2). |  |
 
 In subsection (b), the words “Except as provided in paragraph (2)” are omitted as unnecessary.
 
-## § 4703. Validation of proprietary data restrictions
+## § 4703. Validation of proprietary data restrictions
 
 **(a) Contract That Provides for Delivery of Technical Data.—** A contract for property or services entered into by an executive agency that provides for the delivery of technical data shall provide that—
 
@@ -114,13 +114,13 @@ In subsection (b), the words “Except as provided in paragraph (2)” are omitt
 
 **(B)** is liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the Federal Government is found not to be made in good faith.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3794.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3794.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4703(a) | 41:253d(a). | June 30, 1949, ch. 288, title III, § 303D, formerly § 303E, as added Pub. L. 98–577, title II, § 203(a), Oct. 30, 1984, 98 Stat. 3071; renumbered § 303D, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. |
+| 4703(a) | 41:253d(a). | June 30, 1949, ch. 288, title III, § 303D, formerly § 303E, as added Pub. L. 98–577, title II, § 203(a), Oct. 30, 1984, 98 Stat. 3071; renumbered § 303D, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. |
 | 4703(b) | 41:253d(b). |  |
 | 4703(c) | 41:253d(c) (1st sentence). |  |
 | 4703(d) | 41:253d(c) (last sentence). |  |
@@ -128,7 +128,7 @@ In subsection (b), the words “Except as provided in paragraph (2)” are omitt
 | 4703(f) | 41:253d(e). |  |
 | 4703(g) | 41:253d(f). |  |
 
-## § 4704. Prohibition of contractors limiting subcontractor sales directly to Federal Government
+## § 4704. Prohibition of contractors limiting subcontractor sales directly to Federal Government
 
 **(a) Contract Restrictions.—** Each contract for the purchase of property or services made by an executive agency shall provide that the contractor will not—
 
@@ -142,16 +142,16 @@ In subsection (b), the words “Except as provided in paragraph (2)” are omitt
 
 **(d) Inapplicability When Government Treated Similarly to Other Purchasers.—** An agreement between the contractor in a contract for the acquisition of commercial products or commercial services and a subcontractor under the contract that restricts sales by the subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the Federal Government in violation of the provision included in the contract pursuant to subsection (a) if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of the commercial products or commercial services from that subcontractor.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3795; Pub. L. 115–232, div. A, title VIII, § 836(b)(19), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3795; Pub. L. 115–232, div. A, title VIII, § 836(b)(19), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4704(a) | 41:253g(a). | June 30, 1949, ch. 288, title III, § 303G(a), (b), formerly § 303H, as added Pub. L. 98–577, title II, § 206(a), Oct. 30, 1984, 98 Stat. 3073; renumbered § 303G, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. |
+| 4704(a) | 41:253g(a). | June 30, 1949, ch. 288, title III, § 303G(a), (b), formerly § 303H, as added Pub. L. 98–577, title II, § 206(a), Oct. 30, 1984, 98 Stat. 3073; renumbered § 303G, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. |
 | 4704(b) | 41:253g(b). |  |
-| 4704(c) | 41:253g(c). | June 30, 1949, ch. 288, title III, § 303G(c), as added Pub. L. 103–355, title IV, § 4103(b), Oct. 13, 1994, 108 Stat. 3341. |
-| 4704(d) | 41:253g(d). | June 30, 1949, ch. 288, title III, § 303G(d), as added Pub. L. 103–355, title VIII, § 8204(a), Oct. 13, 1994, 108 Stat. 3396. |
+| 4704(c) | 41:253g(c). | June 30, 1949, ch. 288, title III, § 303G(c), as added Pub. L. 103–355, title IV, § 4103(b), Oct. 13, 1994, 108 Stat. 3341. |
+| 4704(d) | 41:253g(d). | June 30, 1949, ch. 288, title III, § 303G(d), as added Pub. L. 103–355, title VIII, § 8204(a), Oct. 13, 1994, 108 Stat. 3396. |
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ In subsection (b), the words “Except as provided in paragraph (2)” are omitt
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 4705. Protection of contractor employees from reprisal for disclosure of certain information
+## § 4705. Protection of contractor employees from reprisal for disclosure of certain information
 
 **(a) Definitions.—** In this section:
 
@@ -199,19 +199,19 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(2)** modify or derogate from a right or remedy otherwise available to the employee.
 
-**(f) Four-year Suspension of Effectiveness While Pilot Program Is in Effect.—** While section 4712 1
+**(f) Four-year Suspension of Effectiveness While Pilot Program Is in Effect.—** While section 4712 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title is in effect, this section shall not be in effect.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3796; Pub. L. 112–239, div. A, title VIII, § 828(c), Jan. 2, 2013, 126 Stat. 1841; Pub. L. 117–286, § 4(b)(72), Dec. 27, 2022, 136 Stat. 4351.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3796; Pub. L. 112–239, div. A, title VIII, § 828(c), Jan. 2, 2013, 126 Stat. 1841; Pub. L. 117–286, § 4(b)(72), Dec. 27, 2022, 136 Stat. 4351.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4705(a) | 41:265(e). | June 30, 1949, ch. 288, title III, § 315, as added Pub. L. 103–355, title VI, § 6006, Oct. 13, 1994, 108 Stat. 3365; Pub. L. 104–106, title XLIII, § 4321(e)(8), Feb. 10, 1996, 110 Stat. 675. |
+| 4705(a) | 41:265(e). | June 30, 1949, ch. 288, title III, § 315, as added Pub. L. 103–355, title VI, § 6006, Oct. 13, 1994, 108 Stat. 3365; Pub. L. 104–106, title XLIII, § 4321(e)(8), Feb. 10, 1996, 110 Stat. 675. |
 | 4705(b) | 41:265(a). |  |
 | 4705(c) | 41:265(b). |  |
 | 4705(d) | 41:265(c). |  |
@@ -223,7 +223,7 @@ In subsection (d)(2), the word “contractor” is substituted for “person” 
 
 **References in Text**
 
-Section 4712 of this title, referred to in subsec. (f), formerly referred to a pilot program in the section catchline and contained a subsec. (i) which provided that section 4712 would be in effect for a specified four-year period. The section catchline was amended and subsec. (i) was struck out by Pub. L. 114–261, § 1(a)(3)(A), Dec. 14, 2016, 130 Stat. 1362.
+Section 4712 of this title, referred to in subsec. (f), formerly referred to a pilot program in the section catchline and contained a subsec. (i) which provided that section 4712 would be in effect for a specified four-year period. The section catchline was amended and subsec. (i) was struck out by Pub. L. 114–261, § 1(a)(3)(A), Dec. 14, 2016, 130 Stat. 1362.
 
 **Amendments**
 
@@ -231,7 +231,7 @@ Section 4712 of this title, referred to in subsec. (f), formerly referred to a p
 
 2013—Subsec. (f). Pub. L. 112–239 added subsec. (f).
 
-## § 4706. Examination of facilities and records of contractor
+## § 4706. Examination of facilities and records of contractor
 
 **(a) Definition.—** In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether the items are in written form, in the form of computer data, or in any other form.
 
@@ -299,20 +299,20 @@ Section 4712 of this title, referred to in subsec. (f), formerly referred to a p
 
 **(3) Original records retained.—** The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3797; Pub. L. 117–286, § 4(b)(73), Dec. 27, 2022, 136 Stat. 4351.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3797; Pub. L. 117–286, § 4(b)(73), Dec. 27, 2022, 136 Stat. 4351.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4706(a) | 41:254d(i). | June 30, 1949, ch. 288, title III, § 304C(a)(1), (b), (g)–(i), as added Pub. L. 103–355, title II, § 2251(a), Oct. 13, 1994, 108 Stat. 3318, 3320. |
+| 4706(a) | 41:254d(i). | June 30, 1949, ch. 288, title III, § 304C(a)(1), (b), (g)–(i), as added Pub. L. 103–355, title II, § 2251(a), Oct. 13, 1994, 108 Stat. 3318, 3320. |
 | 4706(b)(1) | 41:254d(a)(1). |  |
-| 4706(b)(2) | 41:254d(a)(2). | June 30, 1949, ch. 288, title III, § 304C(a)(2), as added Pub. L. 103–355, title II, § 2251(a), Oct. 13, 1994, 108 Stat. 3318; Pub. L. 104–106, title XLIII, § 4321(e)(5), Feb. 10, 1996, 110 Stat. 675. |
+| 4706(b)(2) | 41:254d(a)(2). | June 30, 1949, ch. 288, title III, § 304C(a)(2), as added Pub. L. 103–355, title II, § 2251(a), Oct. 13, 1994, 108 Stat. 3318; Pub. L. 104–106, title XLIII, § 4321(e)(5), Feb. 10, 1996, 110 Stat. 675. |
 | 4706(c) | 41:254d(b). |  |
-| 4706(d) | 41:254d(c). | June 30, 1949, ch. 288, title III, § 304C(c), as added Pub. L. 103–355, title II, § 2251(a), Oct. 13, 1994, 108 Stat. 3319; Pub. L. 110–417, title VIII, § 871(a), Oct. 14, 2008, 122 Stat.4555. |
-| 4706(e) | 41:254d(d). | June 30, 1949, ch. 288, title III, § 304C(d), as added Pub. L. 103–355, title II, § 2251(a), Oct. 13, 1994, 108 Stat. 3319; Pub. L. 104–201, title VIII, § 808(b), Sept. 23, 1996, 110 Stat. 2607. |
+| 4706(d) | 41:254d(c). | June 30, 1949, ch. 288, title III, § 304C(c), as added Pub. L. 103–355, title II, § 2251(a), Oct. 13, 1994, 108 Stat. 3319; Pub. L. 110–417, title VIII, § 871(a), Oct. 14, 2008, 122 Stat.4555. |
+| 4706(e) | 41:254d(d). | June 30, 1949, ch. 288, title III, § 304C(d), as added Pub. L. 103–355, title II, § 2251(a), Oct. 13, 1994, 108 Stat. 3319; Pub. L. 104–201, title VIII, § 808(b), Sept. 23, 1996, 110 Stat. 2607. |
 | 4706(f) | 41:254d(e). |  |
-| 4706(g) | 41:254d(f). | June 30, 1949, ch. 288, title III, § 304C(f), as added and amended Pub. L. 103–355, title II, § 2251(a), title IV, § 4103(d), Oct. 13, 1994, 108 Stat. 3320, 3341. |
+| 4706(g) | 41:254d(f). | June 30, 1949, ch. 288, title III, § 304C(f), as added and amended Pub. L. 103–355, title II, § 2251(a), title IV, § 4103(d), Oct. 13, 1994, 108 Stat. 3320, 3341. |
 | 4706(h) | 41:254d(g). |  |
 | 4706(i) | 41:254d(h). |  |
 
@@ -330,23 +330,23 @@ In subsection (c)(4), the words “Committee on Oversight and Government Reform�
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 4707. Remission of liquidated damages
+## § 4707. Remission of liquidated damages
 
 When a contract made on behalf of the Federal Government by the head of a Federal agency, or by an authorized officer of the agency, includes a provision for liquidated damages for delay, the Secretary of the Treasury on recommendation of the head of the agency may remit any part of the damages as the Secretary of the Treasury believes is just and equitable.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3799.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3799.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4707 | 41:256a. | Sept. 5, 1950, ch. 849, § 10(a), 64 Stat. 591; Pub. L. 104–316, title II, § 202(u), Oct. 19, 1996, 110 Stat. 3845. |
+| 4707 | 41:256a. | Sept. 5, 1950, ch. 849, § 10(a), 64 Stat. 591; Pub. L. 104–316, title II, § 202(u), Oct. 19, 1996, 110 Stat. 3845. |
 
-## § 4708. Payment of reimbursable indirect costs in cost-type research and development contracts with educational institutions
+## § 4708. Payment of reimbursable indirect costs in cost-type research and development contracts with educational institutions
 
 A cost-type research and development contract (including a grant) with a university, college, or other educational institution may provide for payment of reimbursable indirect costs on the basis of predetermined fixed-percentage rates applied to the total of the reimbursable direct costs incurred or to an element of the total of the reimbursable direct costs incurred.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3799.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3799.)
 
 **Historical and Revision Notes**
 
@@ -356,21 +356,21 @@ A cost-type research and development contract (including a grant) with a univers
 
 The words “On and after September 5, 1962” are omitted as obsolete.
 
-## § 4709. Implementation of electronic commerce capability
+## § 4709. Implementation of electronic commerce capability
 
 **(a) Role of Head of Executive Agency.—** The head of each executive agency shall implement the electronic commerce capability required by section 2301 of this title. In implementing the capability, the head of an executive agency shall consult with the Administrator.
 
 **(b) Program Manager.—** The head of each executive agency shall designate a program manager to implement the electronic commerce capability for the agency. The program manager reports directly to an official at a level not lower than the senior procurement executive designated for the agency under section 1702(c) of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3800.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3800.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4709 | 41:252c. | June 30, 1949, ch. 288, title III, § 302C, as added Pub. L. 103–355, title IX, § 9003, Oct. 13, 1994, 108 Stat. 3403; Pub. L. 105–85, title VIII, § 850(f)(4)(A), Nov. 18, 1997, 111 Stat. 1850. |
+| 4709 | 41:252c. | June 30, 1949, ch. 288, title III, § 302C, as added Pub. L. 103–355, title IX, § 9003, Oct. 13, 1994, 108 Stat. 3403; Pub. L. 105–85, title VIII, § 850(f)(4)(A), Nov. 18, 1997, 111 Stat. 1850. |
 
-## § 4710. Limitations on tiering of subcontractors
+## § 4710. Limitations on tiering of subcontractors
 
 **(a) Definition.—** In this section, the term “executive agency” has the same meaning given in section 133 of this title.
 
@@ -386,17 +386,17 @@ The words “On and after September 5, 1962” are omitted as obsolete.
 
 **(e) Applicability.—** The Department of Defense shall continue to be subject to guidance on limitations on tiering of subcontractors issued by the Department of Defense pursuant to section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364, 10 U.S.C. 2324 note).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3800.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3800.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4710 | 41:254b note. | Pub. L. 110–417, [div. A], title VIII, § 866, Oct. 14, 2008, 122 Stat. 4551. |
+| 4710 | 41:254b note. | Pub. L. 110–417, [div. A], title VIII, § 866, Oct. 14, 2008, 122 Stat. 4551. |
 
 In subsection (b), the words “Not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The word “shall” is substituted for the words “shall be amended” to reflect the permanence of the provision.
 
-## § 4711. Linking of award and incentive fees to acquisition outcomes
+## § 4711. Linking of award and incentive fees to acquisition outcomes
 
 **(a) Definition.—** In this section, the term “executive agency” has the same meaning given in section 133 of this title.
 
@@ -430,17 +430,17 @@ In subsection (b), the words “Not later than one year after the date of the en
 
 **(d) Guidance for Department of Defense.—** The Department of Defense shall continue to be subject to guidance on award and incentive fees issued by the Secretary of Defense pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364, 10 U.S.C. 2302 note).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3800.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3800.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4711 | 41:251 note. | Pub. L. 110–417, [div. A], title VIII, § 867, Oct. 14, 2008, 122 Stat. 4551. |
+| 4711 | 41:251 note. | Pub. L. 110–417, [div. A], title VIII, § 867, Oct. 14, 2008, 122 Stat. 4551. |
 
 In subsection (b), the words “Not later than 1 year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shall provide” are substituted for “shall be amended to provide” to reflect the permanence of the provision.
 
-## § 4712. Enhancement of contractor protection from reprisal for disclosure of certain information
+## § 4712. Enhancement of contractor protection from reprisal for disclosure of certain information
 
 **(a) Prohibition of Reprisals.—**
 
@@ -534,59 +534,59 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 
 **(h) Construction.—** Nothing in this section, or the amendments made by this section,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 shall be construed to provide any rights to disclose classified information not otherwise provided by law.
 
-(Added Pub. L. 112–239, div. A, title VIII, § 828(a)(1), Jan. 2, 2013, 126 Stat. 1837; amended Pub. L. 113–66, div. A, title X, § 1091(e), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–261, § 1(a)(2), (3)(A), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 116–260, div. U, title VIII, § 801, Dec. 27, 2020, 134 Stat. 2297; Pub. L. 117–263, div. A, title VIII, § 807(b), Dec. 23, 2022, 136 Stat. 2704; Pub. L. 117–286, § 4(b)(74), Dec. 27, 2022, 136 Stat. 4351.)
+(Added Pub. L. 112–239, div. A, title VIII, § 828(a)(1), Jan. 2, 2013, 126 Stat. 1837; amended Pub. L. 113–66, div. A, title X, § 1091(e), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–261, § 1(a)(2), (3)(A), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 116–260, div. U, title VIII, § 801, Dec. 27, 2020, 134 Stat. 2297; Pub. L. 117–263, div. A, title VIII, § 807(b), Dec. 23, 2022, 136 Stat. 2704; Pub. L. 117–286, § 4(b)(74), Dec. 27, 2022, 136 Stat. 4351.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–263, § 807(b)(1)(A), substituted “subgrantee,” for “or subgrantee”.
+2022—Subsec. (a)(1). Pub. L. 117–263, § 807(b)(1)(A), substituted “subgrantee,” for “or subgrantee”.
 
-Subsec. (a)(2)(G). Pub. L. 117–263, § 807(b)(1)(B), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
+Subsec. (a)(2)(G). Pub. L. 117–263, § 807(b)(1)(B), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
 
-Subsec. (a)(3)(A). Pub. L. 117–263, § 807(b)(1)(C), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
+Subsec. (a)(3)(A). Pub. L. 117–263, § 807(b)(1)(C), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
 
-Subsec. (b)(1). Pub. L. 117–263, § 807(b)(2), substituted “subgrantee, or personal services contractor concerned” for “or subgrantee concerned”.
+Subsec. (b)(1). Pub. L. 117–263, § 807(b)(2), substituted “subgrantee, or personal services contractor concerned” for “or subgrantee concerned”.
 
-Subsec. (c)(1). Pub. L. 117–263, § 807(b)(3)(A)(i), substituted “subgrantee, or personal services contractor concerned” for “or subgrantee concerned” in introductory provisions.
+Subsec. (c)(1). Pub. L. 117–263, § 807(b)(3)(A)(i), substituted “subgrantee, or personal services contractor concerned” for “or subgrantee concerned” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 117–263, § 807(b)(3)(A)(ii), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
+Subsec. (c)(1)(A). Pub. L. 117–263, § 807(b)(3)(A)(ii), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
 
-Subsec. (c)(1)(B). Pub. L. 117–263, § 807(b)(3)(A)(iii), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
+Subsec. (c)(1)(B). Pub. L. 117–263, § 807(b)(3)(A)(iii), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
 
-Subsec. (c)(1)(C). Pub. L. 117–263, § 807(b)(3)(A)(iv), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
+Subsec. (c)(1)(C). Pub. L. 117–263, § 807(b)(3)(A)(iv), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
 
-Subsec. (c)(1)(D). Pub. L. 117–263, § 807(b)(3)(A)(v), added subpar. (D).
+Subsec. (c)(1)(D). Pub. L. 117–263, § 807(b)(3)(A)(v), added subpar. (D).
 
-Subsec. (c)(2). Pub. L. 117–263, § 807(b)(3)(B), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
+Subsec. (c)(2). Pub. L. 117–263, § 807(b)(3)(B), substituted “subgrantee, or personal services contractor” for “or subgrantee”.
 
-Subsec. (d). Pub. L. 117–263, § 807(b)(4), substituted “subgrantees, and personal services contractors” for “and subgrantees”.
+Subsec. (d). Pub. L. 117–263, § 807(b)(4), substituted “subgrantees, and personal services contractors” for “and subgrantees”.
 
-Subsec. (f)(2). Pub. L. 117–263, § 807(b)(5), substituted “subgrantee, or personal services contractor” for “or subgrantee” in two places.
+Subsec. (f)(2). Pub. L. 117–263, § 807(b)(5), substituted “subgrantee, or personal services contractor” for “or subgrantee” in two places.
 
 Subsec. (g)(2). Pub. L. 117–286 substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
 
-2020—Subsec. (a)(2)(G). Pub. L. 116–260, § 801(1), substituted “grantee, or subgrantee” for “or grantee”.
+2020—Subsec. (a)(2)(G). Pub. L. 116–260, § 801(1), substituted “grantee, or subgrantee” for “or grantee”.
 
-Subsec. (a)(3)(A). Pub. L. 116–260, § 801(2), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor, subcontractor, or grantee”.
+Subsec. (a)(3)(A). Pub. L. 116–260, § 801(2), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor, subcontractor, or grantee”.
 
-Subsec. (b)(1). Pub. L. 116–260, § 801(3), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor or grantee”.
+Subsec. (b)(1). Pub. L. 116–260, § 801(3), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor or grantee”.
 
-Subsec. (c). Pub. L. 116–260, § 801(4), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor or grantee” wherever appearing.
+Subsec. (c). Pub. L. 116–260, § 801(4), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor or grantee” wherever appearing.
 
-Subsec. (d). Pub. L. 116–260, § 801(5), substituted “grantees, and subgrantees” for “and grantees”.
+Subsec. (d). Pub. L. 116–260, § 801(5), substituted “grantees, and subgrantees” for “and grantees”.
 
-Subsec. (f). Pub. L. 116–260, § 801(6), substituted “grantee, or subgrantee” for “or grantee” in two places.
+Subsec. (f). Pub. L. 116–260, § 801(6), substituted “grantee, or subgrantee” for “or grantee” in two places.
 
-2016—Pub. L. 114–261, § 1(a)(3)(A)(i), substituted “Enhancement” for “Pilot program for enhancement” in section catchline.
+2016—Pub. L. 114–261, § 1(a)(3)(A)(i), substituted “Enhancement” for “Pilot program for enhancement” in section catchline.
 
-Subsec. (a)(1). Pub. L. 114–261, § 1(a)(2), substituted “grantee, or subgrantee or personal services contractor” for “or grantee”.
+Subsec. (a)(1). Pub. L. 114–261, § 1(a)(2), substituted “grantee, or subgrantee or personal services contractor” for “or grantee”.
 
-Subsec. (i). Pub. L. 114–261, § 1(a)(3)(A)(ii), struck out subsec. (i). Text read as follows: “This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section.”
+Subsec. (i). Pub. L. 114–261, § 1(a)(3)(A)(ii), struck out subsec. (i). Text read as follows: “This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section.”
 
 2013—Subsec. (i). Pub. L. 113–66 inserted “that is 180 days after the date” before “the enactment”.
 
@@ -594,7 +594,7 @@ Subsec. (i). Pub. L. 114–261, § 1(a)(3)(A)(ii), struck out subsec. (i). Tex
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title VIII, § 828(b), Jan. 2, 2013, 126 Stat. 1840, provided that:
+Pub. L. 112–239, div. A, title VIII, § 828(b), Jan. 2, 2013, 126 Stat. 1840, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [enacting this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2013], and shall, during the period section 4712 of title 41, United States Code, as added by such subsection, is in effect, apply to—
 
@@ -608,7 +608,7 @@ Pub. L. 112–239, div. A, title VIII, § 828(b), Jan. 2, 2013, 126 Stat. 1840
 
 > **“(3) Inclusion of contract clause in contracts awarded before effective date.—** At the time of any major modification to a contract that was awarded before the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2013], the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section to the contract.”
 
-## § 4713. Authorities relating to mitigating supply chain risks in the procurement of covered articles
+## § 4713. Authorities relating to mitigating supply chain risks in the procurement of covered articles
 
 **(a) Authority.—** Subject to subsection (b), the head of an executive agency may carry out a covered procurement action.
 
@@ -728,7 +728,7 @@ Pub. L. 112–239, div. A, title VIII, § 828(b), Jan. 2, 2013, 126 Stat. 1840
 
 **(7) Executive agency.—** Notwithstanding section 3101(c)(1), this section applies to the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
 
-(Added Pub. L. 115–390, title II, § 203(a), Dec. 21, 2018, 132 Stat. 5189; amended Pub. L. 117–263, div. E, title LIX, § 5949(k)(2), Dec. 23, 2022, 136 Stat. 3492.)
+(Added Pub. L. 115–390, title II, § 203(a), Dec. 21, 2018, 132 Stat. 5189; amended Pub. L. 117–263, div. E, title LIX, § 5949(k)(2), Dec. 23, 2022, 136 Stat. 3492.)
 
 **Editorial Notes**
 
@@ -748,13 +748,13 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Effective Date**
 
-Pub. L. 115–390, title II, § 203(c), Dec. 21, 2018, 132 Stat. 5192, provided that: “The amendments made by this section [enacting this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018] and shall apply to contracts that are awarded before, on, or after that date.”
+Pub. L. 115–390, title II, § 203(c), Dec. 21, 2018, 132 Stat. 5192, provided that: “The amendments made by this section [enacting this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018] and shall apply to contracts that are awarded before, on, or after that date.”
 
 Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under section 1321 of this title.
 
 **Prohibition on Certain Semiconductor Products and Services**
 
-Pub. L. 117–263, div. E, title LIX, § 5949, Dec. 23, 2022, 136 Stat. 3485, provided that:
+Pub. L. 117–263, div. E, title LIX, § 5949, Dec. 23, 2022, 136 Stat. 3485, provided that:
 
 > **“(a) Prohibition on Use or Procurement.—**
 
@@ -1008,7 +1008,7 @@ Pub. L. 117–263, div. E, title LIX, § 5949, Dec. 23, 2022, 136 Stat. 3485, 
 
 > **“(2) Transfer authority.—** The Director of the Office of Management and Budget may transfer funds authorized to be appropriated under paragraph (1) to other Federal agencies for the performance of work for which the funds were authorized.”
 
-## § 4714. Prohibition on criminal history inquiries by contractors prior to conditional offer
+## § 4714. Prohibition on criminal history inquiries by contractors prior to conditional offer
 
 **(a) Limitation on Criminal History Inquiries.—**
 
@@ -1064,18 +1064,18 @@ Pub. L. 117–263, div. E, title LIX, § 5949, Dec. 23, 2022, 136 Stat. 3485, 
 
 **(2) Criminal history record information.—** The term “criminal history record information” has the meaning given that term in section 9201 of title 5.
 
-(Added Pub. L. 116–92, div. A, title XI, § 1123(a)(1), Dec. 20, 2019, 133 Stat. 1610.)
+(Added Pub. L. 116–92, div. A, title XI, § 1123(a)(1), Dec. 20, 2019, 133 Stat. 1610.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The date of enactment of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (a)(3)(B)(i), is the date of enactment of subtitle B (§§ 1121–1124) of title XI of div. A of Pub. L. 116–92, which was approved Dec. 20, 2019.
+The date of enactment of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (a)(3)(B)(i), is the date of enactment of subtitle B (§§ 1121–1124) of title XI of div. A of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(3)(B)(ii)(I), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(3)(B)(ii)(I), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–92, div. A, title XI, § 1123(a)(3), Dec. 20, 2019, 133 Stat. 1612, provided that: “Section 4714 of title 41, United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant to solicitations issued after the effective date described in section 1122(b)(2) of this subtitle [effective 2 years after Dec. 20, 2019, see section 1122(b)(2) of Pub. L. 116–92, div. A, title XI, subtitle B, set out as a note under section 9202 of Title 5, Government Organization and Employees].”
+Pub. L. 116–92, div. A, title XI, § 1123(a)(3), Dec. 20, 2019, 133 Stat. 1612, provided that: “Section 4714 of title 41, United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant to solicitations issued after the effective date described in section 1122(b)(2) of this subtitle [effective 2 years after Dec. 20, 2019, see section 1122(b)(2) of Pub. L. 116–92, div. A, title XI, subtitle B, set out as a note under section 9202 of Title 5, Government Organization and Employees].”

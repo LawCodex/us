@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–362, title XIII, § 1301(c)(2)(C), Nov. 10, 1998, 112 Stat. 3293, struck out item 3906 “Reports”.
+1998—Pub. L. 105–362, title XIII, § 1301(c)(2)(C), Nov. 10, 1998, 112 Stat. 3293, struck out item 3906 “Reports”.
 
-1988—Pub. L. 100–496, § 9(b), Oct. 17, 1988, 102 Stat. 2463, added item 3905 and redesignated former items 3905 and 3906 as 3906 and 3907, respectively.
+1988—Pub. L. 100–496, § 9(b), Oct. 17, 1988, 102 Stat. 2463, added item 3905 and redesignated former items 3905 and 3906 as 3906 and 3907, respectively.
 
-## § 3901. Definitions and application
+## § 3901. Definitions and application
 
 **(a)** In this chapter—
 
@@ -75,13 +75,13 @@ retrieved: 2026-10-11
 
 **(5)** Except as provided in section 3904 of this title, this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and any interest payable for the period during which the dispute is being resolved, is subject to the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts.
 
-(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2474; amended Pub. L. 100–496, § 2(a)–(c)(1), Oct. 17, 1988, 102 Stat. 2455; Pub. L. 105–277, div. A, § 101(c) [title I, § 162(a)], Oct. 21, 1998, 112 Stat. 2681–121, 2681–148; Pub. L. 105–362, title XIII, § 1301(c)(2)(A), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 115–232, div. A, title VIII, § 836(g)(3), Aug. 13, 2018, 132 Stat. 1873.)
+(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2474; amended Pub. L. 100–496, § 2(a)–(c)(1), Oct. 17, 1988, 102 Stat. 2455; Pub. L. 105–277, div. A, § 101(c) [title I, § 162(a)], Oct. 21, 1998, 112 Stat. 2681–121, 2681–148; Pub. L. 105–362, title XIII, § 1301(c)(2)(A), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 115–232, div. A, title VIII, § 836(g)(3), Aug. 13, 2018, 132 Stat. 1873.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3901(a) | 31 App.:1805. | May 21, 1982, Pub. L. 97–177, §§ 6, 7(c), 96 Stat. 87, 88. |
+| 3901(a) | 31 App.:1805. | May 21, 1982, Pub. L. 97–177, §§ 6, 7(c), 96 Stat. 87, 88. |
 | 3901(b) | 31 App.:1806. |  |
 
 In the chapter, the words “the head of” are added for clarity and consistency in the revised title and with other titles of the United States Code.
@@ -100,19 +100,19 @@ In subsection (b), the words “the authority of” are omitted as surplus.
 
 2018—Subsec. (a)(4)(A)(ii)(II). Pub. L. 115–232 substituted “commercial product” for “commercial item”.
 
-1998—Subsec. (c). Pub. L. 105–362 struck out “, except section 3906 of this title,” after “This chapter”.
+1998—Subsec. (c). Pub. L. 105–362 struck out “, except section 3906 of this title,” after “This chapter”.
 
 Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
-1988—Subsec. (a)(4). Pub. L. 100–496, § 2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the head of an agency is deemed to receive an invoice on the later of the dates that—
+1988—Subsec. (a)(4). Pub. L. 100–496, § 2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the head of an agency is deemed to receive an invoice on the later of the dates that—
 
 “(A) the designated payment office or finance center of the agency actually receives a proper invoice; or
 
 “(B) the head of the agency accepts the applicable property or service.”
 
-Subsec. (a)(5). Pub. L. 100–496, § 2(b), amended par. (5) generally, substituting “check for payment is dated or an electronic fund transfer is made” for “check for the payment is dated”.
+Subsec. (a)(5). Pub. L. 100–496, § 2(b), amended par. (5) generally, substituting “check for payment is dated or an electronic fund transfer is made” for “check for the payment is dated”.
 
-Subsec. (c). Pub. L. 100–496, § 2(c)(1), added subsec. (c).
+Subsec. (c). Pub. L. 100–496, § 2(c)(1), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -126,9 +126,9 @@ Amendment by section 2(a), (b) of Pub. L. 100–496 applicable to payments under
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–496, § 1, Oct. 17, 1988, 102 Stat. 2455, provided that: “This Act [enacting section 3905 of this title, amending this section, sections 3902 to 3904 and 3906 of this title, section 644 of Title 15, Commerce and Trade, and section 410 of Title 39, Postal Service, renumbering sections 3905 and 3906 of this title as 3906 and 3907, respectively, enacting provisions set out as notes under sections 3902, 3903, and 3906 of this title, and repealing provisions set out as a note under section 3903 of this title] may be cited as the ‘Prompt Payment Act Amendments of 1988’.”
+Pub. L. 100–496, § 1, Oct. 17, 1988, 102 Stat. 2455, provided that: “This Act [enacting section 3905 of this title, amending this section, sections 3902 to 3904 and 3906 of this title, section 644 of Title 15, Commerce and Trade, and section 410 of Title 39, Postal Service, renumbering sections 3905 and 3906 of this title as 3906 and 3907, respectively, enacting provisions set out as notes under sections 3902, 3903, and 3906 of this title, and repealing provisions set out as a note under section 3903 of this title] may be cited as the ‘Prompt Payment Act Amendments of 1988’.”
 
-## § 3902. Interest penalties
+## § 3902. Interest penalties
 
 **(a)** Under regulations prescribed under section 3903 of this title, the head of an agency acquiring property or service from a business concern, who does not pay the concern for each complete delivered item of property or service by the required payment date, shall pay an interest penalty to the concern on the amount of the payment due. The interest shall be computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under section 7109(a)(1) and (b) of title 41, which is in effect at the time the agency accrues the obligation to pay a late payment interest penalty.
 
@@ -192,7 +192,7 @@ such business concern shall be entitled to an amount equal to the sum of the lat
 
 **(4)** Section 3907 of this title shall not apply to interest penalty payments made under this subsection.
 
-(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2475; amended Pub. L. 98–216, § 1(6), Feb. 14, 1984, 98 Stat. 4; Pub. L. 100–496, § 3, Oct. 17, 1988, 102 Stat. 2456; Pub. L. 105–362, title XIII, § 1301(c)(2)(B), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 111–350, § 5(h)(7), Jan. 4, 2011, 124 Stat. 3849.)
+(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2475; amended Pub. L. 98–216, § 1(6), Feb. 14, 1984, 98 Stat. 4; Pub. L. 100–496, § 3, Oct. 17, 1988, 102 Stat. 2456; Pub. L. 105–362, title XIII, § 1301(c)(2)(B), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 111–350, § 5(h)(7), Jan. 4, 2011, 124 Stat. 3849.)
 
 **Historical and Revision Notes**
 
@@ -200,7 +200,7 @@ such business concern shall be entitled to an amount equal to the sum of the lat
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3902(a) | 31 App.:1801(a)(1), (b)(1) (2d, last sentences). | May 21, 1982, Pub. L. 97–177, § 2(a)(1), (b)–(d), 96 Stat. 85. |
+| 3902(a) | 31 App.:1801(a)(1), (b)(1) (2d, last sentences). | May 21, 1982, Pub. L. 97–177, § 2(a)(1), (b)–(d), 96 Stat. 85. |
 | 3902(b) | 31 App.:1801(b)(1) (1st sentence). |  |
 | 3902(c) | 31 App.:1801(b)(2). |  |
 | 3902(d) | 31 App.:1801(c). |  |
@@ -208,7 +208,7 @@ such business concern shall be entitled to an amount equal to the sum of the lat
 
 In subsection (a), the words “under section 3903 of this title” are substituted for “by the Director of the Office of Management and Budget” because of the restatement. The words “in accordance with this section” are omitted as surplus.
 
-In subsection (b), before clause (1), the words “on amounts due to a business concern under this chapter . . . to the business concern”, “of the amount due”, and “complete delivered . . . of property or service concerned” are omitted as surplus.
+In subsection (b), before clause (1), the words “on amounts due to a business concern under this chapter . . . to the business concern”, “of the amount due”, and “complete delivered . . . of property or service concerned” are omitted as surplus.
 
 In subsection (c), the words “which remains” are omitted as surplus.
 
@@ -222,7 +222,7 @@ This is necessary to correct cross-references in section 3902(b).
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsec. (h)(2)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, referred to in subsec. (h)(2)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 **Amendments**
 
@@ -230,9 +230,9 @@ The Agricultural Act of 1949, referred to in subsec. (h)(2)(A), is act Oct. 31, 
 
 1998—Subsec. (b). Pub. L. 105–362 substituted “The” for “Except as provided in section 3906 of this title, the”.
 
-1988—Subsec. (a). Pub. L. 100–496, § 3(a)(1), substituted “The interest shall be computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611), which is in effect at the time the agency accrues the obligation to pay a late payment interest penalty” for “The interest shall be computed at the rate the Secretary of the Treasury establishes for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611). The Secretary shall publish each rate in the Federal Register”.
+1988—Subsec. (a). Pub. L. 100–496, § 3(a)(1), substituted “The interest shall be computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611), which is in effect at the time the agency accrues the obligation to pay a late payment interest penalty” for “The interest shall be computed at the rate the Secretary of the Treasury establishes for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611). The Secretary shall publish each rate in the Federal Register”.
 
-Subsec. (b). Pub. L. 100–496, § 3(a)(2), struck out second sentence which read as follows: “However, a penalty may not be paid if payment for the item is made—
+Subsec. (b). Pub. L. 100–496, § 3(a)(2), struck out second sentence which read as follows: “However, a penalty may not be paid if payment for the item is made—
 
 “(1) when the item is a meat or meat food product described in section 3903(2) of this title, before the 4th day after the required payment date;
 
@@ -240,9 +240,9 @@ Subsec. (b). Pub. L. 100–496, § 3(a)(2), struck out second sentence which r
 
 “(3) when the item is not an item referred to in clauses (1) and (2) of this subsection, before the 16th day after the required payment date.”
 
-Subsecs. (c) to (g). Pub. L. 100–496, § 3(b), added subsecs. (c) and (d) and redesignated former subsecs. (c) to (e) as (e) to (g), respectively.
+Subsecs. (c) to (g). Pub. L. 100–496, § 3(b), added subsecs. (c) and (d) and redesignated former subsecs. (c) to (e) as (e) to (g), respectively.
 
-Subsec. (h). Pub. L. 100–496, § 3(c), added subsec. (h).
+Subsec. (h). Pub. L. 100–496, § 3(c), added subsec. (h).
 
 1984—Subsec. (b). Pub. L. 98–216 substituted “3903(2)” for “3903(2)(A)” in par. (1) and “3903(3)” for “3903(2)(B)” in par. (2).
 
@@ -250,7 +250,7 @@ Subsec. (h). Pub. L. 100–496, § 3(c), added subsec. (h).
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–496, § 14(a)–(c), Oct. 17, 1988, 102 Stat. 2465, 2466, provided that:
+Pub. L. 100–496, § 14(a)–(c), Oct. 17, 1988, 102 Stat. 2465, 2466, provided that:
 
 > **“(a)** The amendments made by sections 2(a), 2(b), 3(a), 4 through 9, 12, and 13 of this Act [enacting section 3905 of this title, amending this section, sections 3901, 3903, and 3904 of this title and section 644 of Title 15, Commerce and Trade, renumbering sections 3905 and 3906 of this title as sections 3906 and 3907, respectively, and repealing provisions set out as a note under section 3903 of this title] shall apply to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after the date of the enactment of this Act [Oct. 17, 1988].
 
@@ -260,21 +260,21 @@ Pub. L. 100–496, § 14(a)–(c), Oct. 17, 1988, 102 Stat. 2465, 2466, provid
 
 **Payment of Interest Penalties by Department of Defense**
 
-Pub. L. 107–117, div. A, title VIII, § 8084, Jan. 10, 2002, 115 Stat. 2266, provided that: “Notwithstanding 31 U.S.C. 3902, during the current fiscal year and hereafter, interest penalties may be paid by the Department of Defense from funds financing the operation of the military department or defense agency with which the invoice or contract payment is associated.”
+Pub. L. 107–117, div. A, title VIII, § 8084, Jan. 10, 2002, 115 Stat. 2266, provided that: “Notwithstanding 31 U.S.C. 3902, during the current fiscal year and hereafter, interest penalties may be paid by the Department of Defense from funds financing the operation of the military department or defense agency with which the invoice or contract payment is associated.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–259, title VIII, § 8083, Aug. 9, 2000, 114 Stat. 692.
+Pub. L. 106–259, title VIII, § 8083, Aug. 9, 2000, 114 Stat. 692.
 
-Pub. L. 106–79, title VIII, § 8088, Oct. 25, 1999, 113 Stat. 1252.
+Pub. L. 106–79, title VIII, § 8088, Oct. 25, 1999, 113 Stat. 1252.
 
-Pub. L. 105–262, title VIII, § 8092, Oct. 17, 1998, 112 Stat. 2319.
+Pub. L. 105–262, title VIII, § 8092, Oct. 17, 1998, 112 Stat. 2319.
 
-Pub. L. 105–56, title VIII, § 8103, Oct. 8, 1997, 111 Stat. 1243.
+Pub. L. 105–56, title VIII, § 8103, Oct. 8, 1997, 111 Stat. 1243.
 
 **Interest Penalties for Late Payment of Interim Payments Due Under Government Service Contracts**
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1010], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, as amended by Pub. L. 107–107, div. A, title X, § 1007, Dec. 28, 2001, 115 Stat. 1204, provided that:
+Pub. L. 106–398, § 1 [[div. A], title X, § 1010], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, as amended by Pub. L. 107–107, div. A, title X, § 1007, Dec. 28, 2001, 115 Stat. 1204, provided that:
 
 > **“(a) Prompt Payment Requirement for Interim Payments.—** Under regulations prescribed under subsection (c), the head of an agency acquiring services from a business concern under a cost reimbursement contract requiring interim payments who does not pay the concern a required interim payment by the date that is 30 days after the date of the receipt of a proper invoice shall pay an interest penalty to the concern on the amount of the payment due. The interest shall be computed as provided in section 3902(a) of title 31, United States Code.
 
@@ -284,7 +284,7 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1010], Oct. 30, 2000, 114 Sta
 
 > **“(d) Effective Date.—** Subsection (a) shall take effect on December 15, 2000, and shall apply with respect to interim payments that are due on or after such date under contracts entered into before, on, or after that date. No interest shall accrue by reason of that subsection for any period before that date.”
 
-## § 3903. Regulations
+## § 3903. Regulations
 
 **(a)** The Director of the Office of Management and Budget shall prescribe regulations to carry out section 3902 of this title. The regulations shall—
 
@@ -296,9 +296,9 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1010], Oct. 30, 2000, 114 Sta
 
 **(2)** for the acquisition of meat or a meat food product (as defined in section 2(a)(3) of the Packers and Stockyards Act, 1921 (7 U.S.C. 182(3))), including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product, or of fresh or frozen fish (as defined in section 204(3) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4003(3)), provide a required payment date of not later than 7 days after the meat, meat food product, or fish is delivered; and
 
-**(3)** for the acquisition of a perishable agricultural commodity (as defined in section 1(4) 1
+**(3)** for the acquisition of a perishable agricultural commodity (as defined in section 1(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Perishable Agricultural Commodities Act, 1930 (7 U.S.C. 499a(4))), provide a required payment date consistent with that Act;
 
@@ -334,7 +334,7 @@ of the Perishable Agricultural Commodities Act, 1930 (7 U.S.C. 499a(4))), provid
 
 **(8)** permit an agency to make payment up to 7 days prior to the required payment date, or earlier as determined by the agency to be necessary on a case-by-case basis;
 
-**(9)** prescribe the methods for computing interest under section 3903(c) <sup>1</sup> of this title;
+**(9)** prescribe the methods for computing interest under section 3903(c) <sup>1</sup> of this title;
 
 **(10)** for a prime contractor (as defined in section 8701(5) of title 41) that is a small business concern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)), to the fullest extent permitted by law, require that the head of an agency establish an accelerated payment date with a goal of 15 days after a proper invoice for the amount due is received if a specific payment date is not established by contract; and
 
@@ -372,13 +372,13 @@ of the Perishable Agricultural Commodities Act, 1930 (7 U.S.C. 499a(4))), provid
 
 **(2)** Amounts deducted from payments to contractors under paragraph (1)(B) shall revert to the Treasury.
 
-(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§ 4–7, 13(a), Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, § 842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, § 1009, Oct. 5, 1999, 113 Stat. 738; Pub. L. 116–92, div. A, title VIII, § 873, Dec. 20, 2019, 133 Stat. 1527.)
+(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§ 4–7, 13(a), Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, § 842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, § 1009, Oct. 5, 1999, 113 Stat. 738; Pub. L. 116–92, div. A, title VIII, § 873, Dec. 20, 2019, 133 Stat. 1527.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3903 | 31 App.:1801(a)(2). | May 21, 1982, Pub. L. 97–177, § 2(a)(2), 96 Stat. 85. |
+| 3903 | 31 App.:1801(a)(2). | May 21, 1982, Pub. L. 97–177, § 2(a)(2), 96 Stat. 85. |
 
 In the section, before clause (1), the words “The Director of the Office of Management and Budget shall prescribe regulations to carry out section 3902 of this title” are added because of the restatement. In clause (1)(A), the words “the terms of” are omitted as surplus. In clause (1)(B), the words “of the payment” are omitted as surplus.
 
@@ -386,37 +386,37 @@ In the section, before clause (1), the words “The Director of the Office of Ma
 
 **References in Text**
 
-The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to chapter 20A (§ 499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by Pub. L. 102–237, title X, § 1011(1)(A), Dec. 13, 1991, 105 Stat. 1898, and is classified to section 499a(b)(4) of Title 7. For complete classification of this Act to the Code, see section 499r of Title 7 and Tables.
+The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to chapter 20A (§ 499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by Pub. L. 102–237, title X, § 1011(1)(A), Dec. 13, 1991, 105 Stat. 1898, and is classified to section 499a(b)(4) of Title 7. For complete classification of this Act to the Code, see section 499r of Title 7 and Tables.
 
-Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated section 3903(d) by Pub. L. 106–65, div. A, title X, § 1009(1), Oct. 5, 1999, 113 Stat. 738.
+Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated section 3903(d) by Pub. L. 106–65, div. A, title X, § 1009(1), Oct. 5, 1999, 113 Stat. 738.
 
 **Amendments**
 
-2019—Subsec. (a)(1)(B). Pub. L. 116–92, § 873(1), inserted “except as provided in paragraphs (10) and (11),” before “30 days”.
+2019—Subsec. (a)(1)(B). Pub. L. 116–92, § 873(1), inserted “except as provided in paragraphs (10) and (11),” before “30 days”.
 
-Subsec. (a)(10), (11). Pub. L. 116–92, § 873(2)–(4), added pars. (10) and (11).
+Subsec. (a)(10), (11). Pub. L. 116–92, § 873(2)–(4), added pars. (10) and (11).
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1991—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in 16 U.S.C. 4003(3) and substituted “meat, meat food product, or fish” for “meat or meat food product”.
 
-1988—Subsec. (a). Pub. L. 100–496, § 6(1), designated existing provisions as subsec. (a).
+1988—Subsec. (a). Pub. L. 100–496, § 6(1), designated existing provisions as subsec. (a).
 
-Subsec. (a)(2). Pub. L. 100–496, § 13(a), included any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product.
+Subsec. (a)(2). Pub. L. 100–496, § 13(a), included any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product.
 
-Subsec. (a)(4). Pub. L. 100–496, § 4, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “provide separate required payment dates for a contract under which property or service is provided in a series of partial executions or deliveries to the extent the contract provides for separate payments for partial execution or delivery; and”.
+Subsec. (a)(4). Pub. L. 100–496, § 4, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “provide separate required payment dates for a contract under which property or service is provided in a series of partial executions or deliveries to the extent the contract provides for separate payments for partial execution or delivery; and”.
 
-Subsec. (a)(5). Pub. L. 100–496, § 5(2), added par. (5). Former par. (5) redesignated (7).
+Subsec. (a)(5). Pub. L. 100–496, § 5(2), added par. (5). Former par. (5) redesignated (7).
 
-Subsec. (a)(6). Pub. L. 100–496, § 6(2), added par. (6).
+Subsec. (a)(6). Pub. L. 100–496, § 6(2), added par. (6).
 
-Subsec. (a)(7). Pub. L. 100–496, § 7, added par. (7) and struck out former par. (7), which read as follows: “require that, within 15 days after an invoice is received, the head of an agency notify the business concern of a defect or impropriety in the invoice that would prevent the running of the time period specified in clause (1)(B) of this section.”
+Subsec. (a)(7). Pub. L. 100–496, § 7, added par. (7) and struck out former par. (7), which read as follows: “require that, within 15 days after an invoice is received, the head of an agency notify the business concern of a defect or impropriety in the invoice that would prevent the running of the time period specified in clause (1)(B) of this section.”
 
-Pub. L. 100–496, § 5(1), redesignated par. (5) as (7).
+Pub. L. 100–496, § 5(1), redesignated par. (5) as (7).
 
-Subsec. (a)(8), (9). Pub. L. 100–496, § 7, added pars. (8) and (9).
+Subsec. (a)(8), (9). Pub. L. 100–496, § 7, added pars. (8) and (9).
 
-Subsecs. (b), (c). Pub. L. 100–496, § 6(3), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 100–496, § 6(3), added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -426,7 +426,7 @@ Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, c
 
 **Implementation Through Federal Acquisition Regulation**
 
-Pub. L. 100–496, § 11, Oct. 17, 1988, 102 Stat. 2463, provided that:
+Pub. L. 100–496, § 11, Oct. 17, 1988, 102 Stat. 2463, provided that:
 
 > **“(a)** The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title 31, United States Code, as amended by this Act [see Short Title of 1988 Amendment note set out under section 3901 of this title], and the regulations prescribed under section 3903 of such title (as amended).
 
@@ -472,19 +472,19 @@ Pub. L. 100–496, § 11, Oct. 17, 1988, 102 Stat. 2463, provided that:
 
 **Edible Fresh or Frozen Poultry Meat, Perishable Poultry Meat Food Products, Fresh Eggs, and Perishable Egg Products**
 
-Pub. L. 98–181, title II, § 2002, Nov. 30, 1983, 97 Stat. 1297, to the extent that it provided that the terms “meat” and “meat food products” as used in 31 U.S.C. 3903(2) also included edible fresh or frozen poultry meat, perishable poultry meat food products, fresh eggs and perishable egg products, was stricken by Pub. L. 100–496, § 13(b), Oct. 17, 1988, 102 Stat. 2465, applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988.
+Pub. L. 98–181, title II, § 2002, Nov. 30, 1983, 97 Stat. 1297, to the extent that it provided that the terms “meat” and “meat food products” as used in 31 U.S.C. 3903(2) also included edible fresh or frozen poultry meat, perishable poultry meat food products, fresh eggs and perishable egg products, was stricken by Pub. L. 100–496, § 13(b), Oct. 17, 1988, 102 Stat. 2465, applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988.
 
-## § 3904. Limitations on discount payments
+## § 3904. Limitations on discount payments
 
 The head of an agency offered a discount by a business concern from an amount due under a contract for property or service in exchange for payment within a specified time may pay the discounted amount only if payment is made within the specified time. For the purpose of the preceding sentence, the specified time shall be determined from the date of the invoice. The head of the agency shall pay an interest penalty on an amount remaining unpaid in violation of this section. The penalty accrues as provided under sections 3902 and 3903 of this title, except that the required payment date for the unpaid amount is the last day specified in the contract that the discounted amount may be paid.
 
-(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, § 8, Oct. 17, 1988, 102 Stat. 2460.)
+(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, § 8, Oct. 17, 1988, 102 Stat. 2460.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3904 | 31 App.:1802. | May 21, 1982, Pub. L. 97–177, § 3, 96 Stat. 86. |
+| 3904 | 31 App.:1802. | May 21, 1982, Pub. L. 97–177, § 3, 96 Stat. 86. |
 
 The word “otherwise” is omitted as surplus. The words “may pay the discounted amount” are substituted for “may make payment in an amount equal to the discounted price” to eliminate unnecessary words. The words “on such unpaid amount” and “the regulations prescribed pursuant to” are omitted as surplus. The words “specified in the contract that the discounted amount may be paid” are substituted for “of the specified period of time described in subsection (a)” for clarity.
 
@@ -500,7 +500,7 @@ The word “otherwise” is omitted as surplus. The words “may pay the discoun
 
 Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, see section 14(a) of Pub. L. 100–496, set out as a note under section 3902 of this title.
 
-## § 3905. Payment provisions relating to construction contracts
+## § 3905. Payment provisions relating to construction contracts
 
 **(a)** In the event that a contractor, after making a certified payment request to an agency pursuant to section 3903(b) of this title, discovers that a portion or all of such payment request constitutes a payment for performance by such contractor that fails to conform to the specifications, terms, and conditions of its contract (hereafter in this subsection referred to as the “unearned amount”), then the contractor shall—
 
@@ -596,7 +596,7 @@ Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, c
 
 **(k)** A contractor’s obligation to pay an interest penalty to a subcontractor pursuant to the clauses included in a subcontract under subsection (b) or (c) of this section may not be construed to be an obligation of the United States for such interest penalty. A contract modification may not be made for the purpose of providing reimbursement of such interest penalty. A cost reimbursement claim may not include any amount for reimbursement of such interest penalty.
 
-(Added Pub. L. 100–496, § 9(a)(2), Oct. 17, 1988, 102 Stat. 2460; amended Pub. L. 107–217, § 3(h)(7), Aug. 21, 2002, 116 Stat. 1300.)
+(Added Pub. L. 100–496, § 9(a)(2), Oct. 17, 1988, 102 Stat. 2460; amended Pub. L. 107–217, § 3(h)(7), Aug. 21, 2002, 116 Stat. 1300.)
 
 **Editorial Notes**
 
@@ -614,13 +614,13 @@ A prior section 3905 was renumbered section 3906 of this title.
 
 Section applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, see section 14(a) of Pub. L. 100–496, set out as an Effective Date of 1988 Amendment note under section 3902 of this title.
 
-## [§ 3906. Repealed. Pub. L. 105–362, title XIII, § 1301(c)(1), Nov. 10, 1998, 112 Stat. 3293]
+## [§ 3906. Repealed. Pub. L. 105–362, title XIII, § 1301(c)(1), Nov. 10, 1998, 112 Stat. 3293]
 
-Section, added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2476, § 3905; renumbered § 3906 and amended Pub. L. 100–496, §§ 9(a)(1), 10, Oct. 17, 1988, 102 Stat. 2460, 2463, required submission of reports to Director of the Office of Management and Budget by 60th day after end of fiscal year by head of each agency concerning agency’s payment practices during that fiscal year.
+Section, added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2476, § 3905; renumbered § 3906 and amended Pub. L. 100–496, §§ 9(a)(1), 10, Oct. 17, 1988, 102 Stat. 2460, 2463, required submission of reports to Director of the Office of Management and Budget by 60th day after end of fiscal year by head of each agency concerning agency’s payment practices during that fiscal year.
 
 A prior section 3906 was renumbered section 3907 of this title.
 
-## § 3907. Relationship to other laws
+## § 3907. Relationship to other laws
 
 **(a)** A claim for an interest penalty not paid under this chapter may be filed under section 7103 of title 41.
 
@@ -636,13 +636,13 @@ A prior section 3906 was renumbered section 3907 of this title.
 
 **(c)** Except as provided in section 3904 of this title, this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and interest payable for the period during which the dispute is being resolved, is subject to chapter 71 of title 41.
 
-(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2477, § 3906; renumbered § 3907, Pub. L. 100–496, § 9(a)(1), Oct. 17, 1988, 102 Stat. 2460; amended Pub. L. 111–350, § 5(h)(8), Jan. 4, 2011, 124 Stat. 3849.)
+(Added Pub. L. 97–452, § 1(18)(A), Jan. 12, 1983, 96 Stat. 2477, § 3906; renumbered § 3907, Pub. L. 100–496, § 9(a)(1), Oct. 17, 1988, 102 Stat. 2460; amended Pub. L. 111–350, § 5(h)(8), Jan. 4, 2011, 124 Stat. 3849.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3906(a) | 31 App.:1803(a)(1). | May 21, 1982, Pub. L. 97–177, § 4, 96 Stat. 87. |
+| 3906(a) | 31 App.:1803(a)(1). | May 21, 1982, Pub. L. 97–177, § 4, 96 Stat. 87. |
 | 3906(b) | 31 App.:1803(a)(2), (3). |  |
 | 3906(c) | 31 App.:1803(b). |  |
 
@@ -658,12 +658,12 @@ In subsection (c), the words “with respect to disputes concerning discounts”
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 111–350, § 5(h)(8)(A), substituted “section 7103 of title 41” for “section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)”.
+2011—Subsec. (a). Pub. L. 111–350, § 5(h)(8)(A), substituted “section 7103 of title 41” for “section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)”.
 
-Subsec. (b)(1)(A). Pub. L. 111–350, § 5(h)(8)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
+Subsec. (b)(1)(A). Pub. L. 111–350, § 5(h)(8)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
 
-Subsec. (b)(2). Pub. L. 111–350, § 5(h)(8)(C), substituted “section 7109(a)(1) and (b) of title 41” for “section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611)” and “section 7109(a)(1) and (b) may” for “section 12 may”.
+Subsec. (b)(2). Pub. L. 111–350, § 5(h)(8)(C), substituted “section 7109(a)(1) and (b) of title 41” for “section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611)” and “section 7109(a)(1) and (b) may” for “section 12 may”.
 
-Subsec. (c). Pub. L. 111–350, § 5(h)(8)(D), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
+Subsec. (c). Pub. L. 111–350, § 5(h)(8)(D), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
 
 1988—Pub. L. 100–496 renumbered section 3906 of this title as this section.

@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 207 “BUDGETING AND APPROPRIATIONS MATTERS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3101, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1809(a), Jan. 1, 2021, 134 Stat. 4160.
+A prior chapter 207 “BUDGETING AND APPROPRIATIONS MATTERS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3101, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1809(a), Jan. 1, 2021, 134 Stat. 4160.
 
-## § 3131. Availability of appropriations
+## § 3131. Availability of appropriations
 
 **(a)** Funds appropriated to the Department of Defense for research and development remain available for obligation for a period of two consecutive years.
 
@@ -31,7 +31,7 @@ A prior chapter 207 “BUDGETING AND APPROPRIATIONS MATTERS”, as added by Pub.
 
 **(2)** for purposes related to research and development for which expenditures are specifically authorized in other appropriations of the Department of Defense.
 
-(Added Pub. L. 97–258, § 2(b)(3)(B), Sept. 13, 1982, 96 Stat. 1052, § 2361; renumbered § 2351 and amended Pub. L. 100–370, § 1(g)(1), July 19, 1988, 102 Stat. 846; renumbered § 3131 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1809(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4161, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(d)(1), Dec. 27, 2021, 135 Stat. 2136.)
+(Added Pub. L. 97–258, § 2(b)(3)(B), Sept. 13, 1982, 96 Stat. 1052, § 2361; renumbered § 2351 and amended Pub. L. 100–370, § 1(g)(1), July 19, 1988, 102 Stat. 846; renumbered § 3131 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1809(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4161, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(d)(1), Dec. 27, 2021, 135 Stat. 2136.)
 
 **Historical and Revision Notes**
 
@@ -39,7 +39,7 @@ A prior chapter 207 “BUDGETING AND APPROPRIATIONS MATTERS”, as added by Pub.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2361 | 31:649c(2). | Aug. 10, 1956, ch. 1041, § 40(2), 70A Stat. 636; Nov. 17, 1971, Pub. L. 92–156, § 201(b), 85 Stat. 424. |
+| 2361 | 31:649c(2). | Aug. 10, 1956, ch. 1041, § 40(2), 70A Stat. 636; Nov. 17, 1971, Pub. L. 92–156, § 201(b), 85 Stat. 424. |
 
 The words “Unless otherwise provided in the appropriation Act concerned” are omitted as unnecessary and for consistency. The word “Funds” is substituted for “moneys” for consistency in title 10.
 
@@ -47,17 +47,17 @@ The words “Unless otherwise provided in the appropriation Act concerned” are
 
 Subsection (a) is based on section 2361 of this title.
 
-Subsection (b) is based on Pub. L. 99–190, § 101(b) [title VIII, § 8015], Dec. 19, 1985, 99 Stat. 1185, 1205.
+Subsection (b) is based on Pub. L. 99–190, § 101(b) [title VIII, § 8015], Dec. 19, 1985, 99 Stat. 1185, 1205.
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1809(b), renumbered section 2351 of this title as this section.
+2021—Pub. L. 116–283, § 1809(b), renumbered section 2351 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 117–81, which directed the substitution of “section 4141” for “section 2353”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
+Subsec. (b)(1). Pub. L. 117–81, which directed the substitution of “section 4141” for “section 2353”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
 
-Pub. L. 116–283, § 1883(b)(2), substituted “section 4141” for “section 2353”.
+Pub. L. 116–283, § 1883(b)(2), substituted “section 4141” for “section 2353”.
 
 1988—Pub. L. 100–370 renumbered section 2361 of this title as section 2351, designated such provisions as subsec. (a), and added subsec. (b).
 
@@ -69,11 +69,11 @@ Amendment by Pub. L. 117–81 to take effect immediately after the amendments ma
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 3132. Availability of appropriations for procurement of technical military equipment and supplies
+## § 3132. Availability of appropriations for procurement of technical military equipment and supplies
 
 Funds appropriated to the Department of Defense for the procurement of technical military equipment and supplies remain available until spent.
 
-(Added Pub. L. 97–258, § 2(b)(4)(B), Sept. 13, 1982, 96 Stat. 1052, § 2394; renumbered § 2395 and amended Pub. L. 97–295, § 1(28)(A), Oct. 12, 1982, 96 Stat. 1291; renumbered § 3132, Pub. L. 116–283, div. A, title XVIII, § 1809(c), Jan. 1, 2021, 134 Stat. 4161.)
+(Added Pub. L. 97–258, § 2(b)(4)(B), Sept. 13, 1982, 96 Stat. 1052, § 2394; renumbered § 2395 and amended Pub. L. 97–295, § 1(28)(A), Oct. 12, 1982, 96 Stat. 1291; renumbered § 3132, Pub. L. 116–283, div. A, title XVIII, § 1809(c), Jan. 1, 2021, 134 Stat. 4161.)
 
 **Historical and Revision Notes**
 
@@ -81,7 +81,7 @@ Funds appropriated to the Department of Defense for the procurement of technical
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2394 | 31:649c(1). | Aug. 10, 1956, ch. 1041, § 40(1), 70A Stat. 636; Nov. 17, 1971, Pub. L. 92–156, § 201(b), 85 Stat. 424. |
+| 2394 | 31:649c(1). | Aug. 10, 1956, ch. 1041, § 40(1), 70A Stat. 636; Nov. 17, 1971, Pub. L. 92–156, § 201(b), 85 Stat. 424. |
 
 The words “Unless otherwise provided in the appropriation Act concerned” are omitted as unnecessary and for consistency. The word “Funds” is substituted for “moneys” for consistency in title 10. The word “military” is added before “public” for clarity. The words “including moneys appropriated to the Department of the Navy for the procurement and construction of guided missiles” are omitted as included in “technical military equipment”.
 
@@ -89,9 +89,9 @@ The words “Unless otherwise provided in the appropriation Act concerned” are
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2395 | 10:2394. | Sept. 13, 1982, Pub. L. 97–258, § 2(b)(4)(B), 96 Stat. 1053. |
+| 2395 | 10:2394. | Sept. 13, 1982, Pub. L. 97–258, § 2(b)(4)(B), 96 Stat. 1053. |
 
-This redesignates 10:2394 (enacted by Pub. L. 97–258) as 10:2395 because of the enactment of another 10:2394 by Pub. L. 97–214, § 6(a)(1), July 12, 1982, 96 Stat. 171, and amends the section generally to eliminate the words “and the construction of military public works” because of section 10(b)(5) of the Military Construction Codification Act (Pub. L. 97–214, July 12, 1982, 96 Stat. 176) which struck corresponding words from the source statute for 10:2394 subsequent to Apr. 15, 1982, the cut-off date prescribed by section 4(a) of Pub. L. 97–258, section 2(b)(4)(B) of which enacted 10:2394.
+This redesignates 10:2394 (enacted by Pub. L. 97–258) as 10:2395 because of the enactment of another 10:2394 by Pub. L. 97–214, § 6(a)(1), July 12, 1982, 96 Stat. 171, and amends the section generally to eliminate the words “and the construction of military public works” because of section 10(b)(5) of the Military Construction Codification Act (Pub. L. 97–214, July 12, 1982, 96 Stat. 176) which struck corresponding words from the source statute for 10:2394 subsequent to Apr. 15, 1982, the cut-off date prescribed by section 4(a) of Pub. L. 97–258, section 2(b)(4)(B) of which enacted 10:2394.
 
 **Editorial Notes**
 
@@ -107,7 +107,7 @@ This redesignates 10:2394 (enacted by Pub. L. 97–258) as 10:2395 because of th
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 3133. Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property
+## § 3133. Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property
 
 **(a) Authority.—**
 
@@ -121,11 +121,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(b) Obligation of Funds.—** Funds made available for a fiscal year may be obligated for the total amount of a contract entered into under the authority of subsection (a).
 
-(Added Pub. L. 100–370, § 1(h)(2), July 19, 1988, 102 Stat. 847, § 2410a; amended Pub. L. 102–190, div. A, title III, § 342, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 104–324, title II, § 214(b), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 105–85, div. A, title VIII, § 801(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, § 1005(a), (b)(1), Nov. 24, 2003, 117 Stat. 1584; renumbered § 3133, Pub. L. 116–283, div. A, title XVIII, § 1809(d), Jan. 1, 2021, 134 Stat. 4161.)
+(Added Pub. L. 100–370, § 1(h)(2), July 19, 1988, 102 Stat. 847, § 2410a; amended Pub. L. 102–190, div. A, title III, § 342, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 104–324, title II, § 214(b), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 105–85, div. A, title VIII, § 801(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, § 1005(a), (b)(1), Nov. 24, 2003, 117 Stat. 1584; renumbered § 3133, Pub. L. 116–283, div. A, title XVIII, § 1809(d), Jan. 1, 2021, 134 Stat. 4161.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(e), (h), (*l*)], Dec. 19, 1985, 99 Stat. 1185, 1202.
+Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(e), (h), (*l*)], Dec. 19, 1985, 99 Stat. 1185, 1202.
 
 **Editorial Notes**
 
@@ -133,9 +133,9 @@ Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(e), (h)
 
 2021—Pub. L. 116–283 renumbered section 2410a of this title as this section.
 
-2003—Pub. L. 108–136, § 1005(b)(1), amended section catchline generally, substituting “Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property” for “Severable service contracts for periods crossing fiscal years”.
+2003—Pub. L. 108–136, § 1005(b)(1), amended section catchline generally, substituting “Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property” for “Severable service contracts for periods crossing fiscal years”.
 
-Subsec. (a). Pub. L. 108–136, § 1005(a), inserted “(1)” before “The Secretary of Defense”, substituted “for a purpose described in paragraph (2)” for “for procurement of severable services”, and added par. (2).
+Subsec. (a). Pub. L. 108–136, § 1005(a), inserted “(1)” before “The Secretary of Defense”, substituted “for a purpose described in paragraph (2)” for “for procurement of severable services”, and added par. (2).
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -143,9 +143,9 @@ Subsec. (a). Pub. L. 108–136, § 1005(a), inserted “(1)” before “The S
 
 1996—Pub. L. 104–324 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1991—Par. (1). Pub. L. 102–190, § 342(1), inserted “, equipment,” after “tools”.
+1991—Par. (1). Pub. L. 102–190, § 342(1), inserted “, equipment,” after “tools”.
 
-Par. (4). Pub. L. 102–190, § 342(2), added par. (4).
+Par. (4). Pub. L. 102–190, § 342(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -155,25 +155,25 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title X, § 1005(c), Nov. 24, 2003, 117 Stat. 1585, provided that: “The amendments made by this section [amending this section] shall not apply to funds appropriated for a fiscal year before fiscal year 2004.”
+Pub. L. 108–136, div. A, title X, § 1005(c), Nov. 24, 2003, 117 Stat. 1585, provided that: “The amendments made by this section [amending this section] shall not apply to funds appropriated for a fiscal year before fiscal year 2004.”
 
 **Effective Date of 2002 Amendment**
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 3134. Allocation of appropriations
+## § 3134. Allocation of appropriations
 
 **(a)** Appropriations available for procurement by an agency named in section 3063 of this title may, through administrative allotment, be made available for obligation for procurement by any other agency in amounts authorized by the head of the allotting agency and without transfer of funds on the books of the Department of the Treasury.
 
 **(b)** A disbursing official of the allotting agency may make any disbursement chargeable to an allotment under subsection (a) upon a voucher certified by an officer or civilian employee of the procuring agency.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132, § 2309; Pub. L. 97–258, § 2(b)(1)(B), Sept. 13, 1982, 96 Stat. 1052; renumbered § 3134 and amended Pub. L. 116–283, div. A, title XVIII, § 1809(e), Jan. 1, 2021, 134 Stat. 4161; Pub. L. 117–81, div. A, title XVII, § 1701(b)(3), Dec. 27, 2021, 135 Stat. 2132.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132, § 2309; Pub. L. 97–258, § 2(b)(1)(B), Sept. 13, 1982, 96 Stat. 1052; renumbered § 3134 and amended Pub. L. 116–283, div. A, title XVIII, § 1809(e), Jan. 1, 2021, 134 Stat. 4161; Pub. L. 117–81, div. A, title XVII, § 1701(b)(3), Dec. 27, 2021, 135 Stat. 2132.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2309(a) 2309(b) | 41:159 (2d sentence). 41:159 (less 1st and 2d sentences). | Feb. 19, 1948, ch. 65, § 10 (less 1st sentence), 62 Stat. 25. |
+| 2309(a) 2309(b) | 41:159 (2d sentence). 41:159 (less 1st and 2d sentences). | Feb. 19, 1948, ch. 65, § 10 (less 1st sentence), 62 Stat. 25. |
 
 In subsection (a), the words “an agency named in section 2303 of this title” are substituted for the words “any such agency”.
 
@@ -183,11 +183,11 @@ In subsection (b), the words “an allotment under subsection (a)” are substit
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1809(e)(1), renumbered section 2309 of this title as this section.
+2021—Pub. L. 116–283, § 1809(e)(1), renumbered section 2309 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1809(e)(2)(A), substituted “named in section 3063” for “named in section 2303”.
+Subsec. (a). Pub. L. 116–283, § 1809(e)(2)(A), substituted “named in section 3063” for “named in section 2303”.
 
-Subsec. (c). Pub. L. 116–283, § 1809(e)(2)(B), which directed adding subsec. (c), was repealed by Pub. L. 117–81, § 1701(b)(3).
+Subsec. (c). Pub. L. 116–283, § 1809(e)(2)(B), which directed adding subsec. (c), was repealed by Pub. L. 117–81, § 1701(b)(3).
 
 1982—Subsec. (b). Pub. L. 97–258 substituted “disbursing official” for “disbursing officer”.
 
@@ -199,7 +199,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 3135. Comparable budgeting for common procurement weapon systems
+## § 3135. Comparable budgeting for common procurement weapon systems
 
 **(a) Matters To Be Included in Annual Defense Budgets.—** In preparing the defense budget for any fiscal year, the Secretary of Defense shall—
 
@@ -217,19 +217,19 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(2)** The term “common procurement weapon system” means a weapon system for which two or more of the Army, Navy, Air Force, Marine Corps, and Space Force request procurement funds in a defense budget.
 
-(Added Pub. L. 100–370, § 1(d)(3)(A), July 19, 1988, 102 Stat. 843, § 2217; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(20), Feb. 10, 1996, 110 Stat. 512; renumbered § 3135 and amended Pub. L. 116–283, div. A, title IX, § 924(b)(1)(N), title XVIII, § 1809(f)(1), Jan. 1, 2021, 134 Stat. 3820, 4161.)
+(Added Pub. L. 100–370, § 1(d)(3)(A), July 19, 1988, 102 Stat. 843, § 2217; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(20), Feb. 10, 1996, 110 Stat. 512; renumbered § 3135 and amended Pub. L. 116–283, div. A, title IX, § 924(b)(1)(N), title XVIII, § 1809(f)(1), Jan. 1, 2021, 134 Stat. 3820, 4161.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 99–500, § 101(c) [title X, § 955], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, and Pub. L. 99–591, § 101(c) [title X, § 955], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173; Pub. L. 99–661, div. A, title IX, formerly title IV, § 955, Nov. 14, 1986, 100 Stat. 3953, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273.
+Section is based on Pub. L. 99–500, § 101(c) [title X, § 955], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, and Pub. L. 99–591, § 101(c) [title X, § 955], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173; Pub. L. 99–661, div. A, title IX, formerly title IV, § 955, Nov. 14, 1986, 100 Stat. 3953, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273.
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1809(f)(1), renumbered section 2217 of this title as this section.
+2021—Pub. L. 116–283, § 1809(f)(1), renumbered section 2217 of this title as this section.
 
-Subsec. (c)(2). Pub. L. 116–283, § 924(b)(1)(N), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+Subsec. (c)(2). Pub. L. 116–283, § 924(b)(1)(N), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
 1996—Subsec. (b). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
 
@@ -239,7 +239,7 @@ Subsec. (c)(2). Pub. L. 116–283, § 924(b)(1)(N), substituted “Marine Corp
 
 Amendment by section 1809(f)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 3136. Defense Modernization Account
+## § 3136. Defense Modernization Account
 
 **(a) Establishment.—** There is established in the Treasury an account to be known as the “Defense Modernization Account”.
 
@@ -331,7 +331,7 @@ Amendment by section 1809(f)(1) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 **(2)** The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
 
-(Added Pub. L. 104–106, div. A, title IX, § 912(a)(1), Feb. 10, 1996, 110 Stat. 407, § 2216; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§ 1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, § 1071(a)(16), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 113–66, div. A, title X, § 1084(a)(2), Dec. 26, 2013, 127 Stat. 871; Pub. L. 114–328, div. A, title VIII, § 804, Dec. 23, 2016, 130 Stat. 2250; Pub. L. 116–92, div. A, title XVII, § 1731(a)(30), Dec. 20, 2019, 133 Stat. 1814; renumbered § 3136 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1809(g)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4161, 4294; Pub. L. 117–263, div. A, title VIII, § 813, Dec. 23, 2022, 136 Stat. 2707; Pub. L. 118–159, div. A, title X, § 1003(a), Dec. 23, 2024, 138 Stat. 2047; Pub. L. 119–60, div. A, title XVIII, § 1811(g)(1), Dec. 18, 2025, 139 Stat. 1243.)
+(Added Pub. L. 104–106, div. A, title IX, § 912(a)(1), Feb. 10, 1996, 110 Stat. 407, § 2216; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§ 1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, § 1071(a)(16), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 113–66, div. A, title X, § 1084(a)(2), Dec. 26, 2013, 127 Stat. 871; Pub. L. 114–328, div. A, title VIII, § 804, Dec. 23, 2016, 130 Stat. 2250; Pub. L. 116–92, div. A, title XVII, § 1731(a)(30), Dec. 20, 2019, 133 Stat. 1814; renumbered § 3136 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1809(g)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4161, 4294; Pub. L. 117–263, div. A, title VIII, § 813, Dec. 23, 2022, 136 Stat. 2707; Pub. L. 118–159, div. A, title X, § 1003(a), Dec. 23, 2024, 138 Stat. 2047; Pub. L. 119–60, div. A, title XVIII, § 1811(g)(1), Dec. 18, 2025, 139 Stat. 1243.)
 
 **Editorial Notes**
 
@@ -351,87 +351,87 @@ and struck out cl. (ii) which read as follows: “the requirement for the items 
 
 “(2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.”
 
-2021—Pub. L. 116–283, § 1809(g)(1), renumbered section 2216 of this title as this section.
+2021—Pub. L. 116–283, § 1809(g)(1), renumbered section 2216 of this title as this section.
 
-Subsec. (i)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 4201 of this title” for “section 2430(a) of this title”.
+Subsec. (i)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 4201 of this title” for “section 2430(a) of this title”.
 
 2019—Subsec. (b)(1). Pub. L. 116–92 substituted “subsection (c)(1)(B)(ii)” for “subsection (c)(1)(B)(iii)”.
 
-2016—Subsec. (b)(1). Pub. L. 114–328, § 804(a), struck out “commencing” before “projects described”.
+2016—Subsec. (b)(1). Pub. L. 114–328, § 804(a), struck out “commencing” before “projects described”.
 
-Subsec. (c)(1)(A). Pub. L. 114–328, § 804(b)(1), substituted “, or the Secretary of Defense with respect to Defense-wide appropriations accounts,” for “or the Secretary of Defense with respect to Defense-wide appropriations accounts” and “the Secretary concerned” for “that Secretary” before “may transfer”.
+Subsec. (c)(1)(A). Pub. L. 114–328, § 804(b)(1), substituted “, or the Secretary of Defense with respect to Defense-wide appropriations accounts,” for “or the Secretary of Defense with respect to Defense-wide appropriations accounts” and “the Secretary concerned” for “that Secretary” before “may transfer”.
 
-Subsec. (c)(1)(B). Pub. L. 114–328, § 804(b)(2)(A), in introductory provisions, inserted “that have been appropriated for fiscal years after fiscal year 2016 and are” after “following funds”.
+Subsec. (c)(1)(B). Pub. L. 114–328, § 804(b)(2)(A), in introductory provisions, inserted “that have been appropriated for fiscal years after fiscal year 2016 and are” after “following funds”.
 
-Subsec. (c)(1)(B)(i). Pub. L. 114–328, § 804(b)(2)(B), substituted “or new obligations” for “for procurement”, “an acquisition program” for “a particular procurement”, and “that program” for “that procurement”.
+Subsec. (c)(1)(B)(i). Pub. L. 114–328, § 804(b)(2)(B), substituted “or new obligations” for “for procurement”, “an acquisition program” for “a particular procurement”, and “that program” for “that procurement”.
 
-Subsec. (c)(1)(B)(ii), (iii). Pub. L. 114–328, § 804(b)(2)(C), (D), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which read as follows: “Unexpired funds that are available during the final 30 days of a fiscal year for support of installations and facilities and that, as a result of economies, efficiencies, and other savings, are excess to the requirements for support of installations and facilities.”
+Subsec. (c)(1)(B)(ii), (iii). Pub. L. 114–328, § 804(b)(2)(C), (D), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which read as follows: “Unexpired funds that are available during the final 30 days of a fiscal year for support of installations and facilities and that, as a result of economies, efficiencies, and other savings, are excess to the requirements for support of installations and facilities.”
 
-Subsec. (c)(2). Pub. L. 114–328, § 804(b)(3), struck out “, other than funds referred to in subparagraph (B)(iii) of such paragraph,” after “Funds referred to in paragraph (1)” and substituted “if the balance of funds” for “if—
+Subsec. (c)(2). Pub. L. 114–328, § 804(b)(3), struck out “, other than funds referred to in subparagraph (B)(iii) of such paragraph,” after “Funds referred to in paragraph (1)” and substituted “if the balance of funds” for “if—
 
 “(A) the funds are necessary for programs, projects, and activities that, as determined by the Secretary, have a higher priority than the purposes for which the funds would be available if transferred to that account; or
 
 “(B) the balance of funds”.
 
-Subsec. (c)(3). Pub. L. 114–328, § 804(b)(4), substituted “deposited in” for “credited to” in two places and inserted “and obligation” after “available for transfer”.
+Subsec. (c)(3). Pub. L. 114–328, § 804(b)(4), substituted “deposited in” for “credited to” in two places and inserted “and obligation” after “available for transfer”.
 
-Subsec. (c)(4). Pub. L. 114–328, § 804(b)(5), struck out par. (4) which read as follows: “The period of availability of funds for expenditure provided for in sections 1551 and 1552 of title 31 may not be extended by transfer into the Defense Modernization Account.”
+Subsec. (c)(4). Pub. L. 114–328, § 804(b)(5), struck out par. (4) which read as follows: “The period of availability of funds for expenditure provided for in sections 1551 and 1552 of title 31 may not be extended by transfer into the Defense Modernization Account.”
 
-Subsec. (d)(1). Pub. L. 114–328, § 804(c)(1), struck out “commencing” before “any project” and substituted “Secretary concerned” for “Secretary of Defense”.
+Subsec. (d)(1). Pub. L. 114–328, § 804(c)(1), struck out “commencing” before “any project” and substituted “Secretary concerned” for “Secretary of Defense”.
 
-Subsec. (d)(2). Pub. L. 114–328, § 804(c)(2), substituted “an acquisition program” for “a procurement program”.
+Subsec. (d)(2). Pub. L. 114–328, § 804(c)(2), substituted “an acquisition program” for “a procurement program”.
 
-Subsec. (d)(3). Pub. L. 114–328, § 804(c)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For research, development, test, and evaluation and for procurement necessary for modernization of an existing system or of a system being procured under an ongoing procurement program.”
+Subsec. (d)(3). Pub. L. 114–328, § 804(c)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For research, development, test, and evaluation and for procurement necessary for modernization of an existing system or of a system being procured under an ongoing procurement program.”
 
-Subsec. (d)(4). Pub. L. 114–328, § 804(c)(4), added par. (4).
+Subsec. (d)(4). Pub. L. 114–328, § 804(c)(4), added par. (4).
 
-Subsec. (e)(1). Pub. L. 114–328, § 804(d)(1), substituted “acquisition program” for “procurement program” in introductory provisions and subpar. (B).
+Subsec. (e)(1). Pub. L. 114–328, § 804(d)(1), substituted “acquisition program” for “procurement program” in introductory provisions and subpar. (B).
 
-Subsec. (e)(2). Pub. L. 114–328, § 804(d)(2), substituted “authorized appropriations, unless the procedures for initiating a new start program are complied with” for “authorized appropriations”.
+Subsec. (e)(2). Pub. L. 114–328, § 804(d)(2), substituted “authorized appropriations, unless the procedures for initiating a new start program are complied with” for “authorized appropriations”.
 
-Subsec. (f)(1). Pub. L. 114–328, § 804(e), substituted “Secretary of a military department, or the Secretary of Defense with respect to Defense-wide appropriations accounts,” for “Secretary of Defense”.
+Subsec. (f)(1). Pub. L. 114–328, § 804(e), substituted “Secretary of a military department, or the Secretary of Defense with respect to Defense-wide appropriations accounts,” for “Secretary of Defense”.
 
-Subsec. (g). Pub. L. 114–328, § 804(f), struck out “in accordance with the provisions of appropriations Acts” after “subsection (d)” and inserted at end “Funds deposited in the Defense Modernization Account shall remain available for obligation until the end of the third fiscal year that follows the fiscal year in which the amounts are deposited in the account.”
+Subsec. (g). Pub. L. 114–328, § 804(f), struck out “in accordance with the provisions of appropriations Acts” after “subsection (d)” and inserted at end “Funds deposited in the Defense Modernization Account shall remain available for obligation until the end of the third fiscal year that follows the fiscal year in which the amounts are deposited in the account.”
 
-Subsec. (h)(2)(A), (B). Pub. L. 114–328, § 804(g)(1), (2), added subpar. (A) and redesignated former subpar. (A) as (B). Former subpar. (B) redesignated (C).
+Subsec. (h)(2)(A), (B). Pub. L. 114–328, § 804(g)(1), (2), added subpar. (A) and redesignated former subpar. (A) as (B). Former subpar. (B) redesignated (C).
 
-Subsec. (h)(2)(C). Pub. L. 114–328, § 804(g)(1), (3), redesignated subpar. (B) as (C) and inserted “and subaccounts” after “Account”. Former subpar. (C) redesignated (D).
+Subsec. (h)(2)(C). Pub. L. 114–328, § 804(g)(1), (3), redesignated subpar. (B) as (C) and inserted “and subaccounts” after “Account”. Former subpar. (C) redesignated (D).
 
-Subsec. (h)(2)(D). Pub. L. 114–328, § 804(g)(1), redesignated subpar. (C) as (D).
+Subsec. (h)(2)(D). Pub. L. 114–328, § 804(g)(1), redesignated subpar. (C) as (D).
 
-Subsec. (h)(2)(D)(ii). Pub. L. 114–328, § 804(g)(4), substituted “subsection (c)(1)(B)(ii)” for “subsection (c)(1)(B)(iii)”.
+Subsec. (h)(2)(D)(ii). Pub. L. 114–328, § 804(g)(4), substituted “subsection (c)(1)(B)(ii)” for “subsection (c)(1)(B)(iii)”.
 
-Subsec. (i)(1). Pub. L. 114–328, § 804(h), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Secretary concerned’ includes the Secretary of Defense with respect to Defense-wide appropriations accounts.”
+Subsec. (i)(1). Pub. L. 114–328, § 804(h), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Secretary concerned’ includes the Secretary of Defense with respect to Defense-wide appropriations accounts.”
 
-Subsec. (j)(1). Pub. L. 114–328, § 804(j), substituted “terminates at the close of September 30, 2022” for “terminates at the close of September 30, 2006”.
+Subsec. (j)(1). Pub. L. 114–328, § 804(j), substituted “terminates at the close of September 30, 2022” for “terminates at the close of September 30, 2006”.
 
 2013—Subsecs. (i) to (k). Pub. L. 113–66 redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to an annual report submitted by the Secretary of Defense to the congressional defense committees and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.
 
 2006—Subsec. (b)(1). Pub. L. 109–364 substituted “subsection (c)(1)(B)(iii)” for “subsections (c)(1)(B)(iii)”.
 
-2003—Subsec. (b). Pub. L. 108–136, § 1008(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+2003—Subsec. (b). Pub. L. 108–136, § 1008(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 108–136, § 1008(a)(1), (2), redesignated subsec. (b) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.”
+Subsec. (c). Pub. L. 108–136, § 1008(a)(1), (2), redesignated subsec. (b) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.”
 
-Subsec. (c)(1)(B)(iii). Pub. L. 108–136, § 1008(c)(1), added cl. (iii).
+Subsec. (c)(1)(B)(iii). Pub. L. 108–136, § 1008(c)(1), added cl. (iii).
 
-Subsec. (c)(2). Pub. L. 108–136, § 1008(c)(2), inserted “, other than funds referred to in subparagraph (B)(iii) of such paragraph,” after “Funds referred to in paragraph (1)”.
+Subsec. (c)(2). Pub. L. 108–136, § 1008(c)(2), inserted “, other than funds referred to in subparagraph (B)(iii) of such paragraph,” after “Funds referred to in paragraph (1)”.
 
-Subsec. (d). Pub. L. 108–136, § 1008(b), substituted “in the Defense Modernization Account” for “available from the Defense Modernization Account pursuant to subsection (f) or (g)” in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (d). Pub. L. 108–136, § 1008(b), substituted “in the Defense Modernization Account” for “available from the Defense Modernization Account pursuant to subsection (f) or (g)” in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (h). Pub. L. 108–136, § 1008(d), designated existing provisions as par. (1) and added par. (2).
+Subsec. (h). Pub. L. 108–136, § 1008(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (i). Pub. L. 108–136, § 1008(e)(1), substituted “Annual Report” for “Quarterly Reports” in heading.
+Subsec. (i). Pub. L. 108–136, § 1008(e)(1), substituted “Annual Report” for “Quarterly Reports” in heading.
 
-Subsec. (i)(1). Pub. L. 108–136, § 1008(e)(1), (2), substituted “fiscal year” for “calendar quarter” in introductory provisions and “fiscal year” for “quarter” in subpars. (A) to (C).
+Subsec. (i)(1). Pub. L. 108–136, § 1008(e)(1), (2), substituted “fiscal year” for “calendar quarter” in introductory provisions and “fiscal year” for “quarter” in subpars. (A) to (C).
 
-Subsec. (j)(3). Pub. L. 108–136, § 1043(b)(8), struck out par. (3) which read as follows: “The term ‘congressional defense committees’ means—
+Subsec. (j)(3). Pub. L. 108–136, § 1043(b)(8), struck out par. (3) which read as follows: “The term ‘congressional defense committees’ means—
 
 “(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
 “(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-Subsec. (k). Pub. L. 108–136, § 1008(f)(1), added subsec. (k).
+Subsec. (k). Pub. L. 108–136, § 1008(f)(1), added subsec. (k).
 
 1999—Subsec. (j)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -439,7 +439,7 @@ Subsec. (k). Pub. L. 108–136, § 1008(f)(1), added subsec. (k).
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title X, § 1003(b), Dec. 23, 2024, 138 Stat. 2047, provided that: “Paragraphs (5) and (6) of subsection (d) of section 3136 of title 10, United States Code, as added by subsection (a), shall apply only with respect to funds made available, and transferred to the Defense Modernization Account, on or after the date of the enactment of this Act [Dec. 23, 2024].”
+Pub. L. 118–159, div. A, title X, § 1003(b), Dec. 23, 2024, 138 Stat. 2047, provided that: “Paragraphs (5) and (6) of subsection (d) of section 3136 of title 10, United States Code, as added by subsection (a), shall apply only with respect to funds made available, and transferred to the Defense Modernization Account, on or after the date of the enactment of this Act [Dec. 23, 2024].”
 
 **Effective Date of 2021 Amendment**
 
@@ -447,17 +447,17 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 104–106, div. A, title IX, § 912(b), Feb. 10, 1996, 110 Stat. 410, provided that: “Section 2216 of title 10, United States Code [now 10 U.S.C. 3136] (as added by subsection (a)), shall apply only to funds appropriated for fiscal years after fiscal year 1995.”
+Pub. L. 104–106, div. A, title IX, § 912(b), Feb. 10, 1996, 110 Stat. 410, provided that: “Section 2216 of title 10, United States Code [now 10 U.S.C. 3136] (as added by subsection (a)), shall apply only to funds appropriated for fiscal years after fiscal year 1995.”
 
-## [§ 3137. Omitted]
+## [§ 3137. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 116–283, div. A, title XVIII, § 1809(h)(1), Jan. 1, 2021, 134 Stat. 4162, directed the transfer of section 235 of this title to this section, which was to take effect Jan. 1, 2022. However, Pub. L. 117–81, div. A, title VIII, § 815(b)(1), Dec. 27, 2021, 135 Stat. 1825, subsequently repealed section 235 of this title effective Dec. 27, 2021, effectively eliminating that transfer and omitting this section before it took effect.
+Pub. L. 116–283, div. A, title XVIII, § 1809(h)(1), Jan. 1, 2021, 134 Stat. 4162, directed the transfer of section 235 of this title to this section, which was to take effect Jan. 1, 2022. However, Pub. L. 117–81, div. A, title VIII, § 815(b)(1), Dec. 27, 2021, 135 Stat. 1825, subsequently repealed section 235 of this title effective Dec. 27, 2021, effectively eliminating that transfer and omitting this section before it took effect.
 
-## § 3138. Obligations for contract services: reporting in budget object classes
+## § 3138. Obligations for contract services: reporting in budget object classes
 
 **(a) Limitation on Reporting in Miscellaneous Services Object Class.—** The Secretary of Defense shall ensure that, in reporting to the Office of Management and Budget (pursuant to OMB Circular A–11 (relating to preparation and submission of budget estimates)) obligations of the Department of Defense for any period of time for contract services, no more than 15 percent of the total amount of obligations so reported is reported in the miscellaneous services object class.
 
@@ -497,7 +497,7 @@ Pub. L. 116–283, div. A, title XVIII, § 1809(h)(1), Jan. 1, 2021, 134 Stat.
 
 **(4)** The term “authorized exemptions” means those exemptions authorized (as of October 17, 1998) under Department of Defense Directive 4205.2, captioned “Acquiring and Managing Contracted Advisory and Assistance Services (CAAS)” and issued by the Under Secretary of Defense for Acquisition and Technology on February 10, 1992, such exemptions being set forth in Enclosure 3 to that directive (captioned “CAAS Exemptions”).
 
-(Added Pub. L. 105–261, div. A, title IX, § 911(a)(1), Oct. 17, 1998, 112 Stat. 2097, § 2212; amended Pub. L. 106–65, div. A, title X, § 1066(a)(17), Oct. 5, 1999, 113 Stat. 771; renumbered § 3138, Pub. L. 116–283, div. A, title XVIII, § 1809(i)(1), Jan. 1, 2021, 134 Stat. 4162.)
+(Added Pub. L. 105–261, div. A, title IX, § 911(a)(1), Oct. 17, 1998, 112 Stat. 2097, § 2212; amended Pub. L. 106–65, div. A, title X, § 1066(a)(17), Oct. 5, 1999, 113 Stat. 771; renumbered § 3138, Pub. L. 116–283, div. A, title XVIII, § 1809(i)(1), Jan. 1, 2021, 134 Stat. 4162.)
 
 **Editorial Notes**
 
@@ -507,7 +507,7 @@ Pub. L. 116–283, div. A, title XVIII, § 1809(h)(1), Jan. 1, 2021, 134 Stat.
 
 1999—Subsec. (f)(2), (3). Pub. L. 106–65 substituted “as of October 17, 1998” for “as of the date of the enactment of this section” and “after October 17, 1998,” for “after the date of the enactment of this section”.
 
-Subsec. (f)(4). Pub. L. 106–65, § 1066(a)(17)(B), substituted “as of October 17, 1998” for “as of the date of the enactment of this section”.
+Subsec. (f)(4). Pub. L. 106–65, § 1066(a)(17)(B), substituted “as of October 17, 1998” for “as of the date of the enactment of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 

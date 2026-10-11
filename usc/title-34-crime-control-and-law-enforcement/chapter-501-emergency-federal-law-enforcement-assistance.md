@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 501—EMERGENCY FEDERAL LAW ENFORCEMENT ASSISTANCE
 
-## § 50101. Application for assistance
+## § 50101. Application for assistance
 
 **(a) State as applicant**
 
@@ -39,13 +39,13 @@ An application for assistance under this section shall be submitted in writing b
 
 **(6)** any assistance which the State or other appropriate unit of government has received, or could receive, under any provision of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10101 et seq.].
 
-(Pub. L. 98–473, title II, § 609M, Oct. 12, 1984, 98 Stat. 2103; Pub. L. 109–162, title XI, § 1113, Jan. 5, 2006, 119 Stat. 3103.)
+(Pub. L. 98–473, title II, § 609M, Oct. 12, 1984, 98 Stat. 2103; Pub. L. 109–162, title XI, § 1113, Jan. 5, 2006, 119 Stat. 3103.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(6), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Title I of the Act is classified principally to chapter 101 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(6), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Title I of the Act is classified principally to chapter 101 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
@@ -61,7 +61,7 @@ Section was formerly classified to section 10501 of Title 42, The Public Health 
 
 Chapter effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 10101 of this title.
 
-## § 50102. Definitions
+## § 50102. Definitions
 
 For purposes of this chapter—
 
@@ -105,7 +105,7 @@ For purposes of this chapter—
 
 **(4)** the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 98–473, title II, § 609N, Oct. 12, 1984, 98 Stat. 2104; Pub. L. 107–296, title XI, § 1112(*o*), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 109–177, title V, § 506(a)(11), Mar. 9, 2006, 120 Stat. 248.)
+(Pub. L. 98–473, title II, § 609N, Oct. 12, 1984, 98 Stat. 2104; Pub. L. 107–296, title XI, § 1112(*o*), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 109–177, title V, § 506(a)(11), Mar. 9, 2006, 120 Stat. 248.)
 
 **Editorial Notes**
 
@@ -147,7 +147,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 50103. Limitation on authority
+## § 50103. Limitation on authority
 
 **(a) Federal investigations**
 
@@ -173,7 +173,7 @@ No funds provided under this chapter may be used to supplant State or local fund
 
 Nothing in this chapter shall be construed to limit any authority to provide emergency assistance otherwise provided by law.
 
-(Pub. L. 98–473, title II, § 609O, Oct. 12, 1984, 98 Stat. 2105.)
+(Pub. L. 98–473, title II, § 609O, Oct. 12, 1984, 98 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ Nothing in this chapter shall be construed to limit any authority to provide eme
 
 Section was formerly classified to section 10503 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50104. Prohibition of discrimination
+## § 50104. Prohibition of discrimination
 
 **(a) Federally assisted emergency assistance activities**
 
@@ -191,7 +191,7 @@ No person in any State shall, on the ground of race, color, religion, national o
 
 Paragraph (3) and paragraph (4) of section 10228(c) of this title shall apply with respect to a violation of subsection (a), except that the terms “this section” and “paragraph (1)”, as such terms appear in such paragraphs, shall be deemed to be references to subsection (a) of this section, and a reference to the Office of Justice Programs in such paragraphs shall be deemed to be a reference to the Attorney General.
 
-(Pub. L. 98–473, title II, § 609P, Oct. 12, 1984, 98 Stat. 2105.)
+(Pub. L. 98–473, title II, § 609P, Oct. 12, 1984, 98 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -199,7 +199,7 @@ Paragraph (3) and paragraph (4) of section 10228(c) of this title shall apply wi
 
 Section was formerly classified to section 10504 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50105. Confidentiality of information
+## § 50105. Confidentiality of information
 
 Section 10231 of this title shall apply with respect to—
 
@@ -211,7 +211,7 @@ Section 10231 of this title shall apply with respect to—
 
 except that the terms “this chapter” and “this section”, as such terms appear in such section 10231 of this title, shall be deemed to be references to this chapter and this section, respectively, and a reference to the Office of Justice Programs in such section 10231 shall be deemed to be a reference to the Attorney General.
 
-(Pub. L. 98–473, title II, § 609Q, Oct. 12, 1984, 98 Stat. 2105.)
+(Pub. L. 98–473, title II, § 609Q, Oct. 12, 1984, 98 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -219,11 +219,11 @@ except that the terms “this chapter” and “this section”, as such terms a
 
 Section was formerly classified to section 10505 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50106. Prohibition of land acquisition
+## § 50106. Prohibition of land acquisition
 
 No funds provided under this chapter shall be used for land acquisition.
 
-(Pub. L. 98–473, title II, § 609R, Oct. 12, 1984, 98 Stat. 2106.)
+(Pub. L. 98–473, title II, § 609R, Oct. 12, 1984, 98 Stat. 2106.)
 
 **Editorial Notes**
 
@@ -231,13 +231,13 @@ No funds provided under this chapter shall be used for land acquisition.
 
 Section was formerly classified to section 10506 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50107. Repayment
+## § 50107. Repayment
 
 **(a) Violation of conditions; amount**
 
-If Federal law enforcement assistance provided under this chapter is used by the recipient of such assistance in violation of section 50104 1
+If Federal law enforcement assistance provided under this chapter is used by the recipient of such assistance in violation of section 50104 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or for any purpose other than the purpose for which it is provided, then such recipient shall promptly repay to the Attorney General an amount equal to the value of such assistance.
 
@@ -245,7 +245,7 @@ of this title or for any purpose other than the purpose for which it is provided
 
 The Attorney General may bring a civil action in an appropriate United States district court to recover any amount required to be repaid under subsection (a).
 
-(Pub. L. 98–473, title II, § 609S, Oct. 12, 1984, 98 Stat. 2106.)
+(Pub. L. 98–473, title II, § 609S, Oct. 12, 1984, 98 Stat. 2106.)
 
 **Editorial Notes**
 
@@ -257,13 +257,13 @@ Section 50104 of this title, referred to in subsec. (a), was in the original a r
 
 Section was formerly classified to section 10507 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50108. Recordkeeping requirement
+## § 50108. Recordkeeping requirement
 
 **(a)** Each recipient of Federal law enforcement assistance provided under this chapter shall keep such records as the Attorney General may prescribe to facilitate an effective audit.
 
 **(b)** The Attorney General and the Comptroller General of the United States shall have access, for the purpose of audit and examination, to any books, documents, and records of recipients of Federal law enforcement assistance provided under this chapter which, in the opinion of the Attorney General or the Comptroller General, are related to the receipt or use of such assistance.
 
-(Pub. L. 98–473, title II, § 609T, Oct. 12, 1984, 98 Stat. 2106.)
+(Pub. L. 98–473, title II, § 609T, Oct. 12, 1984, 98 Stat. 2106.)
 
 **Editorial Notes**
 
@@ -271,11 +271,11 @@ Section was formerly classified to section 10507 of Title 42, The Public Health 
 
 Section was formerly classified to section 10508 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50109. Bureau of Justice Assistance
+## § 50109. Bureau of Justice Assistance
 
 The Director of the Bureau of Justice Assistance may assist the Attorney General in providing Federal law enforcement assistance under this chapter and in coordinating the activities authorized under this chapter.
 
-(Pub. L. 98–473, title II, § 609V, Oct. 12, 1984, 98 Stat. 2106.)
+(Pub. L. 98–473, title II, § 609V, Oct. 12, 1984, 98 Stat. 2106.)
 
 **Editorial Notes**
 
@@ -287,13 +287,13 @@ Section was formerly classified to section 10510 of Title 42, The Public Health 
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.
 
-## § 50110. Limitation on civil justice matters
+## § 50110. Limitation on civil justice matters
 
 Federal law enforcement assistance provided under this chapter may not be used with respect to civil justice matters except to the extent that such civil justice matters bear directly and substantially upon criminal justice matters or are inextricably intertwined with criminal justice matters.
 
-(Pub. L. 98–473, title II, § 609W, Oct. 12, 1984, 98 Stat. 2106.)
+(Pub. L. 98–473, title II, § 609W, Oct. 12, 1984, 98 Stat. 2106.)
 
 **Editorial Notes**
 
@@ -301,11 +301,11 @@ Federal law enforcement assistance provided under this chapter may not be used w
 
 Section was formerly classified to section 10511 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50111. Issuance of rules
+## § 50111. Issuance of rules
 
 The Attorney General, after consultation with appropriate members of the law enforcement community and with State and local officials, shall issue rules to carry out this chapter.
 
-(Pub. L. 98–473, title II, § 609X, Oct. 12, 1984, 98 Stat. 2107.)
+(Pub. L. 98–473, title II, § 609X, Oct. 12, 1984, 98 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -313,7 +313,7 @@ The Attorney General, after consultation with appropriate members of the law enf
 
 Section was formerly classified to section 10512 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 50112. Authorization of appropriations
+## § 50112. Authorization of appropriations
 
 **(a) Assistance in form of funds**
 
@@ -323,7 +323,7 @@ There is authorized to be appropriated $20,000,000 for each fiscal year ending a
 
 There are authorized to be appropriated for each fiscal year ending after September 30, 1984, such sums as may be necessary to provide under this chapter Federal law enforcement assistance other than funds.
 
-(Pub. L. 98–473, title II, § 609Y, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 114–198, title II, § 201(b), July 22, 2016, 130 Stat. 714; Pub. L. 115–401, § 3, Dec. 31, 2018, 132 Stat. 5342.)
+(Pub. L. 98–473, title II, § 609Y, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 114–198, title II, § 201(b), July 22, 2016, 130 Stat. 714; Pub. L. 115–401, § 3, Dec. 31, 2018, 132 Stat. 5342.)
 
 **Editorial Notes**
 

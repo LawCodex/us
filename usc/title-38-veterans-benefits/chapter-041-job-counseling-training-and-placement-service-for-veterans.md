@@ -19,43 +19,43 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2016—Pub. L. 114–315, title V, § 502(b), Dec. 16, 2016, 130 Stat. 1568, added item 4115.
+2016—Pub. L. 114–315, title V, § 502(b), Dec. 16, 2016, 130 Stat. 1568, added item 4115.
 
-2011—Pub. L. 112–56, title II, §§ 223(a)(2), 234(c), Nov. 21, 2011, 125 Stat. 718, 722, added item 4104A and substituted “Transition Assistance Program personnel” for “Outstationing of Transition Assistance Program personnel” in item 4113.
+2011—Pub. L. 112–56, title II, §§ 223(a)(2), 234(c), Nov. 21, 2011, 125 Stat. 718, 722, added item 4104A and substituted “Transition Assistance Program personnel” for “Outstationing of Transition Assistance Program personnel” in item 4113.
 
-2006—Pub. L. 109–461, title VI, § 604(a)(2), Dec. 22, 2006, 120 Stat. 3439, added item 4114.
+2006—Pub. L. 109–461, title VI, § 604(a)(2), Dec. 22, 2006, 120 Stat. 3439, added item 4114.
 
-Pub. L. 109–233, title II, § 202(a)(3), June 15, 2006, 120 Stat. 403, substituted “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training” in item 4110.
+Pub. L. 109–233, title II, § 202(a)(3), June 15, 2006, 120 Stat. 403, substituted “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training” in item 4110.
 
-2003—Pub. L. 108–183, title III, § 309(a)(2), Dec. 16, 2003, 117 Stat. 2663, added item 4113.
+2003—Pub. L. 108–183, title III, § 309(a)(2), Dec. 16, 2003, 117 Stat. 2663, added item 4113.
 
-2002—Pub. L. 107–288, §§ 3(b), 4(a)(2), (3)(A)(ii), Nov. 7, 2002, 116 Stat. 2038, 2042, substituted “Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators” for “Assistant Secretary of Labor for Veterans’ Employment and Training; Regional Administrators” in item 4102A and “Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel” for “Directors and Assistant Directors for Veterans’ Employment and Training” in item 4103, struck out item 4104A “Performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives”, and added item 4112.
+2002—Pub. L. 107–288, §§ 3(b), 4(a)(2), (3)(A)(ii), Nov. 7, 2002, 116 Stat. 2038, 2042, substituted “Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators” for “Assistant Secretary of Labor for Veterans’ Employment and Training; Regional Administrators” in item 4102A and “Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel” for “Directors and Assistant Directors for Veterans’ Employment and Training” in item 4103, struck out item 4104A “Performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives”, and added item 4112.
 
-2001—Pub. L. 107–95, § 5(g)(3), Dec. 21, 2001, 115 Stat. 919, struck out item 4111 “Homeless veterans’ reintegration programs”.
+2001—Pub. L. 107–95, § 5(g)(3), Dec. 21, 2001, 115 Stat. 919, struck out item 4111 “Homeless veterans’ reintegration programs”.
 
-2000—Pub. L. 106–419, title IV, § 404(a)(8), Nov. 1, 2000, 114 Stat. 1865, added item 4110B.
+2000—Pub. L. 106–419, title IV, § 404(a)(8), Nov. 1, 2000, 114 Stat. 1865, added item 4110B.
 
-1999—Pub. L. 106–117, title IX, § 901(b), Nov. 30, 1999, 113 Stat. 1587, added item 4111.
+1999—Pub. L. 106–117, title IX, § 901(b), Nov. 30, 1999, 113 Stat. 1587, added item 4111.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 2000 to 2010A as 4100 to 4110A, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 2000 to 2010A as 4100 to 4110A, respectively.
 
-Pub. L. 102–16, § 8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory Committee on Veterans Employment and Training” for “Secretary of Labor’s Committee on Veterans’ Employment” in item 2010.
+Pub. L. 102–16, § 8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory Committee on Veterans Employment and Training” for “Secretary of Labor’s Committee on Veterans’ Employment” in item 2010.
 
-1988—Pub. L. 100–323, §§ 2(e)(3)(B), 3(c), 4(b), 6(b)(2)(B), 8(b), 9(b), 15(c)(3)(B), May 20, 1988, 102 Stat. 559, 562–564, 566, 574, inserted “and Training; Regional Administrators” after “for Veterans’ Employment” in item 2002A, substituted “Directors and Assistant Directors for Veterans’ Employment and Training” for “State and Assistant State Directors for Veterans’ Employment” in item 2003, substituted “Local veterans’ employment representatives” for “Employees of local offices” in item 2004, added item 2004A, struck out “with the Veterans’ Administration” after “Cooperation and coordination” in item 2008, substituted “National Veterans’ Employment and Training Services Institute” for “National veterans’ employment and training programs” in item 2009, and added item 2010A.
+1988—Pub. L. 100–323, §§ 2(e)(3)(B), 3(c), 4(b), 6(b)(2)(B), 8(b), 9(b), 15(c)(3)(B), May 20, 1988, 102 Stat. 559, 562–564, 566, 574, inserted “and Training; Regional Administrators” after “for Veterans’ Employment” in item 2002A, substituted “Directors and Assistant Directors for Veterans’ Employment and Training” for “State and Assistant State Directors for Veterans’ Employment” in item 2003, substituted “Local veterans’ employment representatives” for “Employees of local offices” in item 2004, added item 2004A, struck out “with the Veterans’ Administration” after “Cooperation and coordination” in item 2008, substituted “National Veterans’ Employment and Training Services Institute” for “National veterans’ employment and training programs” in item 2009, and added item 2010A.
 
-1982—Pub. L. 97–306, title III, §§ 301(b)(1), 304(a)(2), 308(b), Oct. 14, 1982, 96 Stat. 1437, 1438, 1441, added item 2000, substituted “State and Assistant State Directors for Veterans’ Employment” for “Assignment of veterans’ employment representative” in item 2003 and added items 2009 and 2010.
+1982—Pub. L. 97–306, title III, §§ 301(b)(1), 304(a)(2), 308(b), Oct. 14, 1982, 96 Stat. 1437, 1438, 1441, added item 2000, substituted “State and Assistant State Directors for Veterans’ Employment” for “Assignment of veterans’ employment representative” in item 2003 and added items 2009 and 2010.
 
-1980—Pub. L. 96–466, title V, §§ 504(a)(1), 506(b), Oct. 17, 1980, 94 Stat. 2203, 2205, struck out “Deputy” before “Assistant Secretary” in item 2002A and added item 2003A.
+1980—Pub. L. 96–466, title V, §§ 504(a)(1), 506(b), Oct. 17, 1980, 94 Stat. 2203, 2205, struck out “Deputy” before “Assistant Secretary” in item 2002A and added item 2003A.
 
-1976—Pub. L. 94–502, title VI, § 601(b)(2), Oct. 15, 1976, 90 Stat. 2404, added item 2002A.
+1976—Pub. L. 94–502, title VI, § 601(b)(2), Oct. 15, 1976, 90 Stat. 2404, added item 2002A.
 
-1972—Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1094, in chapter heading substituted “, TRAINING AND” for “AND EMPLOYMENT”, redesignated former items 2001 to 2005 as items 2002 to 2006, and added items 2001, 2007, and 2008, and in redesignated item 2006 “authorization of appropriations”.
+1972—Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1094, in chapter heading substituted “, TRAINING AND” for “AND EMPLOYMENT”, redesignated former items 2001 to 2005 as items 2002 to 2006, and added items 2001, 2007, and 2008, and in redesignated item 2006 “authorization of appropriations”.
 
-1966—Pub. L. 89–358, § 6(a), Mar. 3, 1966, 80 Stat. 27, substituted “JOB COUNSELING AND EMPLOYMENT PLACEMENT SERVICE FOR VETERANS” for “UNEMPLOYMENT BENEFITS FOR VETERANS” in chapter heading.
+1966—Pub. L. 89–358, § 6(a), Mar. 3, 1966, 80 Stat. 27, substituted “JOB COUNSELING AND EMPLOYMENT PLACEMENT SERVICE FOR VETERANS” for “UNEMPLOYMENT BENEFITS FOR VETERANS” in chapter heading.
 
-1962—Pub. L. 87–675, § 1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted “Purpose” for “Compensation for veterans under State agreements” in item 2001, “Assignment of veterans’ employment representative” for “Unemployment compensation in absence of State agreements” in item 2002, “Employees of local offices” for “Payments to States” in item 2003, “Cooperation of Federal agencies” for “Information” in item 2004, and “Estimate of funds for administration” for “Penalties” in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
+1962—Pub. L. 87–675, § 1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted “Purpose” for “Compensation for veterans under State agreements” in item 2001, “Assignment of veterans’ employment representative” for “Unemployment compensation in absence of State agreements” in item 2002, “Employees of local offices” for “Payments to States” in item 2003, “Cooperation of Federal agencies” for “Information” in item 2004, and “Estimate of funds for administration” for “Penalties” in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
 
-## § 4100. Findings
+## § 4100. Findings
 
 The Congress makes the following findings:
 
@@ -63,7 +63,7 @@ The Congress makes the following findings:
 
 **(2)** Because of the special nature of employment and training needs of such veterans and the national responsibility to meet those needs, policies and programs to increase opportunities for such veterans to obtain employment, job training, counseling, and job placement services and assistance in securing advancement in employment should be effectively and vigorously implemented by the Secretary of Labor and such implementation should be accomplished through the Assistant Secretary of Labor for Veterans’ Employment and Training.
 
-(Added Pub. L. 97–306, title III, § 301(a), Oct. 14, 1982, 96 Stat. 1436, § 2000; amended Pub. L. 100–323, § 15(b)(1), May 20, 1988, 102 Stat. 574; renumbered § 4100, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–306, title III, § 301(a), Oct. 14, 1982, 96 Stat. 1436, § 2000; amended Pub. L. 100–323, § 15(b)(1), May 20, 1988, 102 Stat. 574; renumbered § 4100, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -71,13 +71,13 @@ The Congress makes the following findings:
 
 1991—Pub. L. 102–83 renumbered section 2000 of this title as this section.
 
-1988—Par. (2). Pub. L. 100–323, § 15(b)(1), inserted “and Training” after “for Veterans’ Employment”.
+1988—Par. (2). Pub. L. 100–323, § 15(b)(1), inserted “and Training” after “for Veterans’ Employment”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Grants for Provision of Transition Assistance to Members of the Armed Forces After Separation, Retirement, or Discharge**
 
-Pub. L. 116–315, title IV, § 4304, Jan. 5, 2021, 134 Stat. 5018, provided that:
+Pub. L. 116–315, title IV, § 4304, Jan. 5, 2021, 134 Stat. 5018, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall make grants to eligible organizations for the provision of transition assistance to members of the Armed Forces who are separated, retired, or discharged from the Armed Forces, and spouses of such members.
 
@@ -105,7 +105,7 @@ Pub. L. 116–315, title IV, § 4304, Jan. 5, 2021, 134 Stat. 5018, provided t
 
 **Honoring Investments in Recruiting and Employing American Military Veterans**
 
-Pub. L. 115–31, div. O, May 5, 2017, 131 Stat. 838, as amended by Pub. L. 115–141, div. H, title I, § 116, Mar. 23, 2018, 132 Stat. 713, provided that:
+Pub. L. 115–31, div. O, May 5, 2017, 131 Stat. 838, as amended by Pub. L. 115–141, div. H, title I, § 116, Mar. 23, 2018, 132 Stat. 713, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -263,7 +263,7 @@ Pub. L. 115–31, div. O, May 5, 2017, 131 Stat. 838, as amended by Pub. L. 115�
 
 **Veterans Retraining Assistance Program**
 
-Pub. L. 112–56, title II, § 211, Nov. 21, 2011, 125 Stat. 713, provided that:
+Pub. L. 112–56, title II, § 211, Nov. 21, 2011, 125 Stat. 713, provided that:
 
 > **“(a) Program Authorized.—**
 
@@ -355,15 +355,15 @@ Pub. L. 112–56, title II, § 211, Nov. 21, 2011, 125 Stat. 713, provided tha
 
 **Committee To Raise Employer Awareness of Skills of Veterans and Benefits of Hiring Veterans**
 
-Pub. L. 107–288, § 6, Nov. 7, 2002, 116 Stat. 2046, established within the Department of Labor the President’s National Hire Veterans Committee to carry out a national program to raise employer awareness of skills of veterans and benefits of hiring veterans, required reports to Congress not later than Dec. 31, 2003, 2004, and 2005 on the Committee’s activities, and provided for termination of the Committee 60 days after submitting the report that was due on Dec. 31, 2005.
+Pub. L. 107–288, § 6, Nov. 7, 2002, 116 Stat. 2046, established within the Department of Labor the President’s National Hire Veterans Committee to carry out a national program to raise employer awareness of skills of veterans and benefits of hiring veterans, required reports to Congress not later than Dec. 31, 2003, 2004, and 2005 on the Committee’s activities, and provided for termination of the Committee 60 days after submitting the report that was due on Dec. 31, 2005.
 
 **Report on Implementation of Employment Reforms**
 
-Pub. L. 107–288, § 7, Nov. 7, 2002, 116 Stat. 2048, directed that the Comptroller General conduct a study on the implementation by the Secretary of Labor of the provisions of Pub. L. 107–288 during the program years beginning during fiscal years 2003 and 2004 and, not later than 6 months after the conclusion of the fiscal year 2004 program, submit to Congress a report on the study with appropriate recommendations.
+Pub. L. 107–288, § 7, Nov. 7, 2002, 116 Stat. 2048, directed that the Comptroller General conduct a study on the implementation by the Secretary of Labor of the provisions of Pub. L. 107–288 during the program years beginning during fiscal years 2003 and 2004 and, not later than 6 months after the conclusion of the fiscal year 2004 program, submit to Congress a report on the study with appropriate recommendations.
 
 **Pilot Program To Furnish Employment and Training Information and Services to Members of Armed Forces Separating From Armed Forces**
 
-Pub. L. 101–237, title IV, § 408, Dec. 18, 1989, 103 Stat. 2083, as amended by Pub. L. 104–66, title I, § 1101, Dec. 21, 1995, 109 Stat. 722, provided that:
+Pub. L. 101–237, title IV, § 408, Dec. 18, 1989, 103 Stat. 2083, as amended by Pub. L. 104–66, title I, § 1101, Dec. 21, 1995, 109 Stat. 722, provided that:
 
 > **“(a) Requirement for Program.—** During the three-year period beginning on January 1, 1990, the Secretary of Labor (hereafter in this section referred to as the ‘Secretary’), in conjunction with the Secretary of Veterans Affairs and the Secretary of Defense, shall conduct a pilot program to furnish employment and training information and services to members of the Armed Forces within 180 days before such members are separated from the Armed Forces.
 
@@ -371,7 +371,7 @@ Pub. L. 101–237, title IV, § 408, Dec. 18, 1989, 103 Stat. 2083, as amended
 
 > **“(c) Utilization of Specific Personnel.—** The Secretary shall utilize disabled veterans’ outreach program specialists or local veterans’ employment representatives to the maximum extent feasible to furnish employment and training information and services under the pilot program.”
 
-## § 4101. Definitions
+## § 4101. Definitions
 
 For the purposes of this chapter—
 
@@ -399,41 +399,41 @@ For the purposes of this chapter—
 
 **(9)** The term “career services” means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, § 2010; renumbered § 2001, Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, § 6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, § 401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, § 503, title VIII, § 801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§ 3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered § 4101 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, § 5(a)(1)(A), (c)(1), Nov. 7, 2002, 116 Stat. 2044, 2045; Pub. L. 113–128, title V, § 512(gg)(1), July 22, 2014, 128 Stat. 1719.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, § 2010; renumbered § 2001, Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, § 6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, § 401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, § 503, title VIII, § 801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§ 3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered § 4101 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, § 5(a)(1)(A), (c)(1), Nov. 7, 2002, 116 Stat. 2044, 2045; Pub. L. 113–128, title V, § 512(gg)(1), July 22, 2014, 128 Stat. 1719.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wagner-Peyser Act, referred to in par. (7), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in par. (7), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 Section 134(c)(2) of the Workforce Innovation and Opportunity Act, referred to in par. (9), is classified to section 3174(c)(2) of Title 29, Labor.
 
 **Prior Provisions**
 
-Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, § 101, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, § 201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§ 205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, § 105(a), title III, § 302, title IV, § 408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, § 4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, § 104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, § 202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, § 135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, § 1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
+Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, § 101, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, § 201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§ 205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, § 105(a), title III, § 302, title IV, § 408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, § 4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, § 104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, § 202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, § 135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, § 1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
 
 **Amendments**
 
 2014—Par. (9). Pub. L. 113–128 substituted “The term ‘career services’ means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act” for “The term ‘intensive services’ means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998”.
 
-2002—Par. (7). Pub. L. 107–288, § 5(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The term ‘local employment service office’ means a service delivery point which has an intrinsic management structure and at which employment services are offered in accordance with the Wagner-Peyser Act.”
+2002—Par. (7). Pub. L. 107–288, § 5(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The term ‘local employment service office’ means a service delivery point which has an intrinsic management structure and at which employment services are offered in accordance with the Wagner-Peyser Act.”
 
-Par. (9). Pub. L. 107–288, § 5(a)(1)(A), added par. (9).
+Par. (9). Pub. L. 107–288, § 5(a)(1)(A), added par. (9).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2001 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2001 of this title as this section.
 
-Pars. (1) to (4). Pub. L. 102–83, § 5(c)(1), substituted “4211(1)” for “2011(1)” in par. (1), “4211(2)” for “2011(2)” in par. (2), “4211(3)” for “2011(3)” in par. (3), and “4211(4)” for “2011(4)” in par. (4).
+Pars. (1) to (4). Pub. L. 102–83, § 5(c)(1), substituted “4211(1)” for “2011(1)” in par. (1), “4211(2)” for “2011(2)” in par. (2), “4211(3)” for “2011(3)” in par. (3), and “4211(4)” for “2011(4)” in par. (4).
 
 1988—Pars. (7), (8). Pub. L. 100–323 added pars. (7) and (8).
 
-1980—Par. (1). Pub. L. 96–466, § 503(1), substituted provisions defining “special disabled veteran” for provisions that term “eligible veteran” meant a person who served in the active military, naval, or air service and who was discharged or released therefrom with other than a dishonorable discharge.
+1980—Par. (1). Pub. L. 96–466, § 503(1), substituted provisions defining “special disabled veteran” for provisions that term “eligible veteran” meant a person who served in the active military, naval, or air service and who was discharged or released therefrom with other than a dishonorable discharge.
 
-Pars. (2) to (4). Pub. L. 96–466, § 503(2), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
+Pars. (2) to (4). Pub. L. 96–466, § 503(2), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
 
-Par. (5). Pub. L. 96–466, §§ 503(2), 801(h)(1), redesignated former par. (2) as (5) and substituted “The term” for “the term”.
+Par. (5). Pub. L. 96–466, §§ 503(2), 801(h)(1), redesignated former par. (2) as (5) and substituted “The term” for “the term”.
 
-Par. (6). Pub. L. 96–466, §§ 503(2), 801(h)(2), redesignated former par. (3) as (6) and inserted “the Commonwealth of the Northern Marianas Islands,” after “the Virgin Islands,”.
+Par. (6). Pub. L. 96–466, §§ 503(2), 801(h)(2), redesignated former par. (3) as (6) and inserted “the Commonwealth of the Northern Marianas Islands,” after “the Virgin Islands,”.
 
 1974—Pars. (2), (3). Pub. L. 93–508 added par. (2) and redesignated former par. (2) as (3).
 
@@ -449,13 +449,13 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–288, § 5(a)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendments made by paragraph (1) [amending this section and sections 4102, 4106, 4107, and 4109 of this title] shall take effect on the date of the enactment of this Act [Nov. 7, 2002].”
+Pub. L. 107–288, § 5(a)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendments made by paragraph (1) [amending this section and sections 4102, 4106, 4107, and 4109 of this title] shall take effect on the date of the enactment of this Act [Nov. 7, 2002].”
 
-Pub. L. 107–288, § 5(c)(2), Nov. 7, 2002, 116 Stat. 2045, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 7, 2002].”
+Pub. L. 107–288, § 5(c)(2), Nov. 7, 2002, 116 Stat. 2045, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 7, 2002].”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–466, title VIII, § 802(e), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by title V [see Tables for classification] and the provisions of sections 512 and 513 [set out as notes under sections 4106 and 4107 of this title] shall become effective on October 1, 1980.”
+Pub. L. 96–466, title VIII, § 802(e), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by title V [see Tables for classification] and the provisions of sections 512 and 513 [set out as notes under sections 4106 and 4107 of this title] shall become effective on October 1, 1980.”
 
 Amendment by section 801(h) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
@@ -465,15 +465,15 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–540, title VI, § 601(b), Oct. 24, 1972, 86 Stat. 1099, provided that: “The provisions of title V of this Act [see Tables for classification] shall become effective 90 days after the date of enactment of this Act [Oct. 24, 1972].”
+Pub. L. 92–540, title VI, § 601(b), Oct. 24, 1972, 86 Stat. 1099, provided that: “The provisions of title V of this Act [see Tables for classification] shall become effective 90 days after the date of enactment of this Act [Oct. 24, 1972].”
 
 **Savings Provision**
 
-Pub. L. 87–675, § 1(e), Sept. 19, 1962, 76 Stat. 559, provided that: “Claims for benefits under [former] sections 2001 through 2009 of chapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed [Sept. 19, 1962], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended.”
+Pub. L. 87–675, § 1(e), Sept. 19, 1962, 76 Stat. 559, provided that: “Claims for benefits under [former] sections 2001 through 2009 of chapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed [Sept. 19, 1962], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended.”
 
 **Employment Assistance and Services for Veterans Ineligible for Assistance**
 
-Pub. L. 96–466, title V, § 512, Oct. 17, 1980, 94 Stat. 2207, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(28), (f)(20)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432, provided that: “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act [amending this section] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), (29 U.S.C. 49–49k), title I of the Workforce Investment Act of 1998 [former 29 U.S.C. 2801 et seq.], and other applicable provisions of law.”
+Pub. L. 96–466, title V, § 512, Oct. 17, 1980, 94 Stat. 2207, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(28), (f)(20)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432, provided that: “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act [amending this section] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), (29 U.S.C. 49–49k), title I of the Workforce Investment Act of 1998 [former 29 U.S.C. 2801 et seq.], and other applicable provisions of law.”
 
 **Executive Documents**
 
@@ -481,25 +481,25 @@ Pub. L. 96–466, title V, § 512, Oct. 17, 1980, 94 Stat. 2207, as amended by
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 4102. Purpose
+## § 4102. Purpose
 
 The Congress declares as its intent and purpose that there shall be an effective (1) job and job training intensive services program, (2) employment placement service program, and (3) job training placement service program for eligible veterans and eligible persons and that, to this end policies and regulations shall be promulgated and administered by an Assistant Secretary of Labor for Veterans’ Employment and Training, established by section 4102A of this title, through a Veterans’ Employment and Training Service within the Department of Labor, so as to provide such veterans and persons the maximum of employment and training opportunities, with priority given to the needs of disabled veterans and veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized through existing programs, coordination and merger of programs and implementation of new programs, including programs carried out by the Veterans’ Employment and Training Service to implement all efforts to ease the transition of servicemembers to civilian careers that are consistent with, or an outgrowth of, the military experience of the servicemembers.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1217, § 2011; renumbered § 2002, Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, § 6(c), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, § 401(b), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, § 601(a), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 96–466, title V, § 504(a)(2), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, § 302, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, § 702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, § 15(b)(1), (d), May 20, 1988, 102 Stat. 574; renumbered § 4102 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, § 5(a)(1)(B), (b)(1), Nov. 7, 2002, 116 Stat. 2044, 2045.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1217, § 2011; renumbered § 2002, Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, § 6(c), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, § 401(b), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, § 601(a), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 96–466, title V, § 504(a)(2), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, § 302, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, § 702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, § 15(b)(1), (d), May 20, 1988, 102 Stat. 574; renumbered § 4102 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, § 5(a)(1)(B), (b)(1), Nov. 7, 2002, 116 Stat. 2044, 2045.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 4102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, § 102, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 94–581, title I, § 110(1), Oct. 21, 1976, 90 Stat. 2848, related to divisions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7305 of this title.
+Prior section 4102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, § 102, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 94–581, title I, § 110(1), Oct. 21, 1976, 90 Stat. 2848, related to divisions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7305 of this title.
 
 Provisions similar to those comprising this section were contained in former section 2001 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 **Amendments**
 
-2002—Pub. L. 107–288, § 5(a)(1)(B), substituted “job and job training intensive services program,” for “job and job training counseling service program,”.
+2002—Pub. L. 107–288, § 5(a)(1)(B), substituted “job and job training intensive services program,” for “job and job training counseling service program,”.
 
-Pub. L. 107–288, § 5(b)(1), substituted “and veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “and veterans of the Vietnam era” and inserted before period “, including programs carried out by the Veterans’ Employment and Training Service to implement all efforts to ease the transition of servicemembers to civilian careers that are consistent with, or an outgrowth of, the military experience of the servicemembers”.
+Pub. L. 107–288, § 5(b)(1), substituted “and veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “and veterans of the Vietnam era” and inserted before period “, including programs carried out by the Veterans’ Employment and Training Service to implement all efforts to ease the transition of servicemembers to civilian careers that are consistent with, or an outgrowth of, the military experience of the servicemembers”.
 
 1991—Pub. L. 102–83 renumbered section 2002 of this title as this section and substituted “4102A” for “2002A”.
 
@@ -507,7 +507,7 @@ Pub. L. 107–288, § 5(b)(1), substituted “and veterans who served on activ
 
 1983—Pub. L. 98–160 substituted “an Assistant” for “a Assistant”.
 
-1982—Pub. L. 97–306 inserted “and regulations” after “to this end policies”, and inserted “, with priority given to the needs of disabled veterans and veterans of the Vietnam era” after “opportunities”.
+1982—Pub. L. 97–306 inserted “and regulations” after “to this end policies”, and inserted “, with priority given to the needs of disabled veterans and veterans of the Vietnam era” after “opportunities”.
 
 1980—Pub. L. 96–466 struck out “Deputy” before “Assistant Secretary”.
 
@@ -523,7 +523,7 @@ Pub. L. 107–288, § 5(b)(1), substituted “and veterans who served on activ
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–288, § 5(b)(2), Nov. 7, 2002, 116 Stat. 2045, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 7, 2002].”
+Pub. L. 107–288, § 5(b)(2), Nov. 7, 2002, 116 Stat. 2045, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 7, 2002].”
 
 **Effective Date of 1980 Amendment**
 
@@ -543,9 +543,9 @@ Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section
 
 **Veteran’s Employment Provisions**
 
-Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by Pub. L. 94–444, § 12(a), Oct. 1, 1976, 90 Stat. 1483; Pub. L. 94–502, title VI, § 601(c), Oct. 15, 1976, 90 Stat. 2404, which authorized Secretary of Labor to provide for an outreach and public information program for veterans utilizing, to maximum extent, the Departments of Labor and Health, Education, and Welfare and the Veterans’ Administration, was repealed by Pub. L. 95–524, § 7, Oct. 27, 1978, 92 Stat. 2021.
+Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by Pub. L. 94–444, § 12(a), Oct. 1, 1976, 90 Stat. 1483; Pub. L. 94–502, title VI, § 601(c), Oct. 15, 1976, 90 Stat. 2404, which authorized Secretary of Labor to provide for an outreach and public information program for veterans utilizing, to maximum extent, the Departments of Labor and Health, Education, and Welfare and the Veterans’ Administration, was repealed by Pub. L. 95–524, § 7, Oct. 27, 1978, 92 Stat. 2021.
 
-## § 4102A. Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators
+## § 4102A. Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators
 
 **(a) Establishment of Position of Assistant Secretary of Labor for Veterans’ Employment and Training.—**
 
@@ -647,9 +647,9 @@ Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by
 
 **(B)** on an annual basis, to notify the Secretary of, and provide supporting rationale for, each nonveteran who is employed as a disabled veterans’ outreach program specialist and local veterans’ employment representative for a period in excess of 6 months.
 
-**(6)** Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 1
+**(6)** Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the Wagner-Peyser Act.
 
@@ -723,7 +723,7 @@ and the Wagner-Peyser Act.
 
 **(2)** the Governor submits to the Secretary a proposal therefor at such time, in such manner, and containing such information as the Secretary may require.
 
-(Added Pub. L. 94–502, title VI, § 601(b)(1), Oct. 15, 1976, 90 Stat. 2404, § 2002A; amended Pub. L. 96–466, title V, § 504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, § 303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, § 702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§ 2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, § 423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4102A and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, § 701(a), title XII, § 1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, § 301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(29)(A), (f)(21)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, § 1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, § 4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, § 708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673; Pub. L. 109–233, title II, § 201, title V, § 503(11), June 15, 2006, 120 Stat. 402, 416; Pub. L. 109–461, title VI, § 601(a), (b), Dec. 22, 2006, 120 Stat. 3436; Pub. L. 111–275, title I, § 103(a), title X, § 1001(k), Oct. 13, 2010, 124 Stat. 2866, 2897; Pub. L. 112–56, title II, § 241(c), Nov. 21, 2011, 125 Stat. 728; Pub. L. 112–239, div. A, title V, § 544(a), Jan. 2, 2013, 126 Stat. 1737; Pub. L. 113–128, title V, § 512(gg)(2), July 22, 2014, 128 Stat. 1719; Pub. L. 114–58, title VI, § 601(20), Sept. 30, 2015, 129 Stat. 539.)
+(Added Pub. L. 94–502, title VI, § 601(b)(1), Oct. 15, 1976, 90 Stat. 2404, § 2002A; amended Pub. L. 96–466, title V, § 504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, § 303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, § 702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§ 2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, § 423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4102A and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, § 701(a), title XII, § 1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, § 301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(29)(A), (f)(21)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, § 1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, § 4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, § 708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673; Pub. L. 109–233, title II, § 201, title V, § 503(11), June 15, 2006, 120 Stat. 402, 416; Pub. L. 109–461, title VI, § 601(a), (b), Dec. 22, 2006, 120 Stat. 3436; Pub. L. 111–275, title I, § 103(a), title X, § 1001(k), Oct. 13, 2010, 124 Stat. 2866, 2897; Pub. L. 112–56, title II, § 241(c), Nov. 21, 2011, 125 Stat. 728; Pub. L. 112–239, div. A, title V, § 544(a), Jan. 2, 2013, 126 Stat. 1737; Pub. L. 113–128, title V, § 512(gg)(2), July 22, 2014, 128 Stat. 1719; Pub. L. 114–58, title VI, § 601(20), Sept. 30, 2015, 129 Stat. 539.)
 
 **Editorial Notes**
 
@@ -731,85 +731,85 @@ and the Wagner-Peyser Act.
 
 The Jobs for Veterans Act, referred to in subsec. (c)(2)(B)(ii), is Pub. L. 107–288, Nov. 7, 2002, 116 Stat. 2033. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 101 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(6), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(6), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (c)(6), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in subsec. (c)(6), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (d), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Section 116(b) of the Act is classified to section 3141(b) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (d), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Section 116(b) of the Act is classified to section 3141(b) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Amendments**
 
 2015—Subsec. (c)(9)(A)(ii)(III). Pub. L. 114–58 struck out closing quotation marks at end.
 
-2014—Subsec. (d). Pub. L. 113–128, § 512(gg)(2)(A), substituted “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act” for “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998”.
+2014—Subsec. (d). Pub. L. 113–128, § 512(gg)(2)(A), substituted “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act” for “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998”.
 
-Subsec. (f)(2)(A). Pub. L. 113–128, § 512(gg)(2)(B), substituted “be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act” for “be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998”.
+Subsec. (f)(2)(A). Pub. L. 113–128, § 512(gg)(2)(B), substituted “be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act” for “be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998”.
 
 2013—Subsec. (c)(9). Pub. L. 112–239 added par. (9).
 
 2011—Subsec. (h). Pub. L. 112–56 added subsec. (h).
 
-2010—Subsec. (b)(8). Pub. L. 111–275, § 1001(k), substituted “Employment, Training” for “Employment and Training”.
+2010—Subsec. (b)(8). Pub. L. 111–275, § 1001(k), substituted “Employment, Training” for “Employment and Training”.
 
-Subsec. (c)(8)(A). Pub. L. 111–275, § 103(a), substituted “18-month period” for “three-year period”.
+Subsec. (c)(8)(A). Pub. L. 111–275, § 103(a), substituted “18-month period” for “three-year period”.
 
-2006—Subsec. (b)(8). Pub. L. 109–233, § 201, added par. (8).
+2006—Subsec. (b)(8). Pub. L. 109–233, § 201, added par. (8).
 
-Subsec. (c)(2)(A)(iii), (iv). Pub. L. 109–461, § 601(b), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (c)(2)(A)(iii), (iv). Pub. L. 109–461, § 601(b), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (c)(7). Pub. L. 109–233, § 503(11)(A), substituted “Of” for “With respect to program years beginning during or after fiscal year 2004, one percent of” and “for any program year, one percent” for “for the program year”.
+Subsec. (c)(7). Pub. L. 109–233, § 503(11)(A), substituted “Of” for “With respect to program years beginning during or after fiscal year 2004, one percent of” and “for any program year, one percent” for “for the program year”.
 
-Subsec. (c)(8). Pub. L. 109–461, § 601(a), added par. (8).
+Subsec. (c)(8). Pub. L. 109–461, § 601(a), added par. (8).
 
-Subsec. (f)(1). Pub. L. 109–233, § 503(11)(B), substituted “The” for “By not later than May 7, 2003, the”.
+Subsec. (f)(1). Pub. L. 109–233, § 503(11)(B), substituted “The” for “By not later than May 7, 2003, the”.
 
-2003—Subsec. (c)(2)(B)(ii). Pub. L. 108–183, § 708(b)(1)(A), substituted “October 1, 2003” for “October 1, 2002”.
+2003—Subsec. (c)(2)(B)(ii). Pub. L. 108–183, § 708(b)(1)(A), substituted “October 1, 2003” for “October 1, 2002”.
 
-Subsec. (f)(1). Pub. L. 108–183, § 708(b)(2), substituted “May 7, 2003,” for “6 months after the date of the enactment of this section,”.
+Subsec. (f)(1). Pub. L. 108–183, § 708(b)(2), substituted “May 7, 2003,” for “6 months after the date of the enactment of this section,”.
 
 2002—Pub. L. 107–288 substituted “Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators” for “Assistant Secretary of Labor for Veterans’ Employment and Training; Regional Administrators” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (e) relating to establishment of Assistant Secretary’s position, program functions, conditions for receipt of funds, participation in other federally-funded job training programs, and regional administrators.
 
-1998—Subsec. (d). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(21)(A)], struck out “the Job Training Partnership Act and” after “and training opportunities under”.
+1998—Subsec. (d). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(21)(A)], struck out “the Job Training Partnership Act and” after “and training opportunities under”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(29)(A)], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(29)(A)], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
 
 Subsec. (e)(1). Pub. L. 105–368 substituted “A person may not be assigned after October 9, 1996, as such a Regional Administrator unless the person is a veteran.” for “Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
 
 1996—Subsec. (e)(1). Pub. L. 104–275 inserted at end “Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
 
-1994—Subsec. (a). Pub. L. 103–446, § 701(a), designated existing provisions as par. (1), redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and added par. (2).
+1994—Subsec. (a). Pub. L. 103–446, § 701(a), designated existing provisions as par. (1), redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and added par. (2).
 
-Subsec. (e)(1), (2). Pub. L. 103–446, § 1201(a)(4), substituted “Regional Administrator” for “Regional Secretary”.
+Subsec. (e)(1), (2). Pub. L. 103–446, § 1201(a)(4), substituted “Regional Administrator” for “Regional Secretary”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2002A of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2002A of this title as this section.
 
-Subsec. (b)(3). Pub. L. 102–83, § 5(c)(1), substituted “1712A” for “612A” and “3687” for “1787”.
+Subsec. (b)(3). Pub. L. 102–83, § 5(c)(1), substituted “1712A” for “612A” and “3687” for “1787”.
 
-Subsec. (b)(5). Pub. L. 102–83, § 5(c)(1), substituted “4103A(a)(1)” for “2003A(a)(1)”, “4104(b)” for “2004(b)”, and “4109” for “2009”.
+Subsec. (b)(5). Pub. L. 102–83, § 5(c)(1), substituted “4103A(a)(1)” for “2003A(a)(1)”, “4104(b)” for “2004(b)”, and “4109” for “2009”.
 
-Subsec. (b)(7). Pub. L. 102–83, § 5(c)(1), substituted “4103A(a)(1) and 4104(a)(4)” for “2003A(a)(1) and “2004(a)(4)”.
+Subsec. (b)(7). Pub. L. 102–83, § 5(c)(1), substituted “4103A(a)(1) and 4104(a)(4)” for “2003A(a)(1) and “2004(a)(4)”.
 
-Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “4103A(a) and 4104(a)” for “2003A(a) and 2004(a)” and “4103A or 4104” for “2003A or 2004”.
+Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “4103A(a) and 4104(a)” for “2003A(a) and 2004(a)” and “4103A or 4104” for “2003A or 2004”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “4103A or 4104” for “2003A or 2004” and “4103(c)(15)” for “2003(c)(15)”.
+Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “4103A or 4104” for “2003A or 2004” and “4103(c)(15)” for “2003(c)(15)”.
 
-Subsec. (e)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “Regional”.
+Subsec. (e)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “Regional”.
 
-Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “4212” for “2012” in subpar. (B).
+Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “4212” for “2012” in subpar. (B).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “Regional” in introductory provisions.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “Regional” in introductory provisions.
 
 1989—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-1988—Pub. L. 100–323, § 2(e)(3)(A), inserted “and Training; Regional Administrators” after “for Veterans’ Employment” in section catchline.
+1988—Pub. L. 100–323, § 2(e)(3)(A), inserted “and Training; Regional Administrators” after “for Veterans’ Employment” in section catchline.
 
-Subsec. (a). Pub. L. 100–323, § 15(b)(1), inserted “and Training” after “for Veterans’ Employment” in two places.
+Subsec. (a). Pub. L. 100–323, § 15(b)(1), inserted “and Training” after “for Veterans’ Employment” in two places.
 
-Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “to the Secretary”.
+Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “to the Secretary”.
 
-Pub. L. 100–323, § 2(a), designated existing provisions as subsec. (a).
+Pub. L. 100–323, § 2(a), designated existing provisions as subsec. (a).
 
-Subsecs. (b) to (e). Pub. L. 100–323, § 2(a), added subsecs. (b) to (e).
+Subsecs. (b) to (e). Pub. L. 100–323, § 2(a), added subsecs. (b) to (e).
 
 1983—Pub. L. 98–160 substituted “an Assistant” for “a Assistant”.
 
@@ -825,11 +825,11 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title V, § 544(b), Jan. 2, 2013, 126 Stat. 1738, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a program year beginning on or after the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–239, div. A, title V, § 544(b), Jan. 2, 2013, 126 Stat. 1738, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a program year beginning on or after the date of the enactment of this Act [Jan. 2, 2013].”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title I, § 103(b), Oct. 13, 2010, 124 Stat. 2866, provided that:
+Pub. L. 111–275, title I, § 103(b), Oct. 13, 2010, 124 Stat. 2866, provided that:
 
 > **“(1) Applicability to new employees.—** The amendment made by subsection (a) [amending this section] shall apply with respect to a State employee assigned to perform the duties of a disabled veterans’ outreach program specialist or a local veterans’ employment representative under chapter 41 of title 38, United States Code, who is so assigned on or after the date of the enactment of this Act [Oct. 13, 2010].
 
@@ -837,19 +837,19 @@ Pub. L. 111–275, title I, § 103(b), Oct. 13, 2010, 124 Stat. 2866, provided
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–461, title VI, § 601(c), Dec. 22, 2006, 120 Stat. 3436, provided that: “Paragraph (8) of section 4102A(c) of title 38, United States Code, as added by subsection (a), and clause (iii) of section 4102A(c)(2)(A) of such title, as added by subsection (b), shall apply with respect to a State employee assigned to perform the duties of a disabled veterans’ outreach program specialist or a local veterans’ employment representative under chapter 41 of such title who is so assigned on or after January 1, 2006.”
+Pub. L. 109–461, title VI, § 601(c), Dec. 22, 2006, 120 Stat. 3436, provided that: “Paragraph (8) of section 4102A(c) of title 38, United States Code, as added by subsection (a), and clause (iii) of section 4102A(c)(2)(A) of such title, as added by subsection (b), shall apply with respect to a State employee assigned to perform the duties of a disabled veterans’ outreach program specialist or a local veterans’ employment representative under chapter 41 of such title who is so assigned on or after January 1, 2006.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–183, title VII, § 708(b)(1)(B), Dec. 16, 2003, 117 Stat. 2673, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of section 4(a) of the Jobs for Veterans Act (Public Law 107–288; 116 Stat. 2038).”
+Pub. L. 108–183, title VII, § 708(b)(1)(B), Dec. 16, 2003, 117 Stat. 2673, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of section 4(a) of the Jobs for Veterans Act (Public Law 107–288; 116 Stat. 2038).”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–288, § 4(a)(4), Nov. 7, 2002, 116 Stat. 2042, provided that: “The amendments made by this subsection [amending this section and sections 4103 and 4107 of this title and repealing section 4104A of this title] shall take effect on the date of the enactment of this Act [Nov. 7, 2002], and apply for program and fiscal years under chapter 41 of title 38, United States Code, beginning on or after such date.”
+Pub. L. 107–288, § 4(a)(4), Nov. 7, 2002, 116 Stat. 2042, provided that: “The amendments made by this subsection [amending this section and sections 4103 and 4107 of this title and repealing section 4104A of this title] shall take effect on the date of the enactment of this Act [Nov. 7, 2002], and apply for program and fiscal years under chapter 41 of title 38, United States Code, beginning on or after such date.”
 
 **Effective Date of 1998 Amendment**
 
-Amendment by section 101(f) [title VIII, § 405(d)(29)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(29)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1988 Amendment**
 
@@ -865,7 +865,7 @@ Section effective Dec. 1, 1976, see section 703(c) of Pub. L. 94–502, set out 
 
 **Websites Regarding Apprenticeship Programs**
 
-Pub. L. 117–328, div. U, title II, § 213, Dec. 29, 2022, 136 Stat. 5454, provided that:
+Pub. L. 117–328, div. U, title II, § 213, Dec. 29, 2022, 136 Stat. 5454, provided that:
 
 > **“(a) Website Under the Jurisdiction of Secretary of Labor.—** The Assistant Secretary of Labor for Veterans’ Employment and Training, in coordination with the Secretary of Veterans Affairs, shall establish a user-friendly website (or update an existing website) that is available to the public on which veterans can find information about apprenticeship programs registered under the Act of August 16, 1937 (50 Stat. 664; commonly referred to as the ‘National Apprenticeship Act’) [29 U.S.C. 50 et seq.] and approved under chapters 30 through 36 of title 38, United States Code. Such information shall be searchable and sortable by occupation and location, and include, with regard to each such program, the following:
 
@@ -883,7 +883,7 @@ Pub. L. 117–328, div. U, title II, § 213, Dec. 29, 2022, 136 Stat. 5454, pr
 
 **References to and Continuation of Position of Deputy Assistant Secretary of Labor for Veterans’ Employment**
 
-Pub. L. 96–466, title V, § 504(b), (c), Oct. 17, 1980, 94 Stat. 2203, provided that:
+Pub. L. 96–466, title V, § 504(b), (c), Oct. 17, 1980, 94 Stat. 2203, provided that:
 
 > **“(b)** Any reference in any law, regulation, directive, or other document to the Deputy Assistant Secretary of Labor for Veterans’ Employment shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment.
 
@@ -891,9 +891,9 @@ Pub. L. 96–466, title V, § 504(b), (c), Oct. 17, 1980, 94 Stat. 2203, provi
 
 [Reference to Assistant Secretary of Labor for Veterans’ Employment in any law in force on Nov. 6, 1986, deemed to be a reference to Assistant Secretary of Labor for Veterans’ Employment and Training, see section 2(b)(3) of Pub. L. 99–619, set out as a References in Other Laws note under section 553 of Title 29, Labor.]
 
-[Pub. L. 96–466, title VIII, § 802(e), Oct. 17, 1980, 94 Stat. 2218, provided that section 504(b), (c) are effective Oct. 1, 1980.]
+[Pub. L. 96–466, title VIII, § 802(e), Oct. 17, 1980, 94 Stat. 2218, provided that section 504(b), (c) are effective Oct. 1, 1980.]
 
-## § 4103. Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel
+## § 4103. Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel
 
 **(a) Directors and Assistant Directors.—**
 
@@ -911,13 +911,13 @@ Pub. L. 96–466, title V, § 504(b), (c), Oct. 17, 1980, 94 Stat. 2203, provi
 
 **(c) Coordination With State Departments of Labor and Veterans Affairs.—** Each Director for Veterans’ Employment and Training for a State shall coordinate the Director’s activities under this chapter with the State department of labor and the State department of veterans affairs.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, § 2012; renumbered § 2003, Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, § 6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, § 401(c), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §§ 602, 606(1), Oct. 15, 1976, 90 Stat. 2404, 2405; Pub. L. 96–466, title V, § 505, title VIII, § 801(i), Oct. 17, 1980, 94 Stat. 2204, 2216; Pub. L. 97–295, § 4(70), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title III, § 304(a)(1), (b), (c), Oct. 14, 1982, 96 Stat. 1437, 1438; Pub. L. 100–323, §§ 5, 7(a), 15(a)(2), (c)(1), (3)(A), May 20, 1988, 102 Stat. 563, 564, 574; Pub. L. 101–237, title IV, § 423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4103 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(d)(14), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title III, § 302, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 107–288, § 4(a)(1), Nov. 7, 2002, 116 Stat. 2042; Pub. L. 110–389, title III, § 316, Oct. 10, 2008, 122 Stat. 4167; Pub. L. 114–315, title V, § 504(a), Dec. 16, 2016, 130 Stat. 1568.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, § 2012; renumbered § 2003, Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, § 6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, § 401(c), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §§ 602, 606(1), Oct. 15, 1976, 90 Stat. 2404, 2405; Pub. L. 96–466, title V, § 505, title VIII, § 801(i), Oct. 17, 1980, 94 Stat. 2204, 2216; Pub. L. 97–295, § 4(70), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title III, § 304(a)(1), (b), (c), Oct. 14, 1982, 96 Stat. 1437, 1438; Pub. L. 100–323, §§ 5, 7(a), 15(a)(2), (c)(1), (3)(A), May 20, 1988, 102 Stat. 563, 564, 574; Pub. L. 101–237, title IV, § 423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4103 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(d)(14), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title III, § 302, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 107–288, § 4(a)(1), Nov. 7, 2002, 116 Stat. 2042; Pub. L. 110–389, title III, § 316, Oct. 10, 2008, 122 Stat. 4167; Pub. L. 114–315, title V, § 504(a), Dec. 16, 2016, 130 Stat. 1568.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 4103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 86–568, title I, § 114(a)–(e), July 1, 1960, 74 Stat. 300; Pub. L. 87–574, § 5, Aug. 6, 1962, 76 Stat. 309; Pub. L. 87–793, § 801, Oct. 11, 1962, 76 Stat. 859; Pub. L. 88–18, May 8, 1963, 77 Stat. 15; Pub. L. 88–426, title I, § 117(a), Aug. 14, 1964, 78 Stat. 409; Pub. L. 89–785, title I, § 103(a), (b), Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, § 202, Aug. 2, 1973, 87 Stat. 188; Pub. L. 94–581, title I, § 110(2), title II, §§ 205(d), 209(c)(1), 210(c)(2), Oct. 21, 1976, 90 Stat. 2848, 2859, 2861, 2863; Pub. L. 96–330, title I, § 105(b), title III, § 303, Aug. 26, 1980, 94 Stat. 1036, 1050; Pub. L. 100–687, div. B, title XV, § 1506(b)(1), Nov. 18, 1988, 102 Stat. 4135, related to Office of Chief Medical Director, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7306 of this title.
+Prior section 4103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 86–568, title I, § 114(a)–(e), July 1, 1960, 74 Stat. 300; Pub. L. 87–574, § 5, Aug. 6, 1962, 76 Stat. 309; Pub. L. 87–793, § 801, Oct. 11, 1962, 76 Stat. 859; Pub. L. 88–18, May 8, 1963, 77 Stat. 15; Pub. L. 88–426, title I, § 117(a), Aug. 14, 1964, 78 Stat. 409; Pub. L. 89–785, title I, § 103(a), (b), Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, § 202, Aug. 2, 1973, 87 Stat. 188; Pub. L. 94–581, title I, § 110(2), title II, §§ 205(d), 209(c)(1), 210(c)(2), Oct. 21, 1976, 90 Stat. 2848, 2859, 2861, 2863; Pub. L. 96–330, title I, § 105(b), title III, § 303, Aug. 26, 1980, 94 Stat. 1036, 1050; Pub. L. 100–687, div. B, title XV, § 1506(b)(1), Nov. 18, 1988, 102 Stat. 4135, related to Office of Chief Medical Director, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7306 of this title.
 
 Provisions similar to those comprising this section were contained in section 2002 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
@@ -933,49 +933,49 @@ Provisions similar to those comprising this section were contained in section 20
 
 1994—Subsec. (c)(2). Pub. L. 103–446 substituted “subchapter II of chapter 77” for “subchapter IV of chapter 3”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2003 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2003 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “4107” for “2007”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “4107” for “2007”.
 
-Subsec. (c)(8). Pub. L. 102–83, § 5(c)(1), substituted “4212” for “2012“.
+Subsec. (c)(8). Pub. L. 102–83, § 5(c)(1), substituted “4212” for “2012“.
 
-Subsec. (c)(11). Pub. L. 102–83, § 5(c)(1), substituted “1712A” for “612A”.
+Subsec. (c)(11). Pub. L. 102–83, § 5(c)(1), substituted “1712A” for “612A”.
 
 1989—Subsec. (c)(2), (10). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1988—Pub. L. 100–323, § 15(c)(3)(A), substituted “Directors and Assistant Directors” for “State and Assistant State Directors” and inserted “and Training” after “for Veterans’ Employment” in section catchline.
+1988—Pub. L. 100–323, § 15(c)(3)(A), substituted “Directors and Assistant Directors” for “State and Assistant State Directors” and inserted “and Training” after “for Veterans’ Employment” in section catchline.
 
-Subsec. (a). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “The Secretary” at beginning.
+Subsec. (a). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “The Secretary” at beginning.
 
-Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” in two places, “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”, “Assistant Directors for Veterans’ Employment and Training” for “Assistant State Directors for Veterans’ Employment”, and “Directors for Veterans’ Employment and Training” for “State Directors for Veterans’ Employment”.
+Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” in two places, “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”, “Assistant Directors for Veterans’ Employment and Training” for “Assistant State Directors for Veterans’ Employment”, and “Directors for Veterans’ Employment and Training” for “State Directors for Veterans’ Employment”.
 
-Subsec. (b)(1)(A). Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
+Subsec. (b)(1)(A). Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
 
-Pub. L. 100–323, § 5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
+Pub. L. 100–323, § 5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
 
-Subpar. (b)(1)(B). Pub. L. 100–323, § 5(4), added subpar. (B).
+Subpar. (b)(1)(B). Pub. L. 100–323, § 5(4), added subpar. (B).
 
-Subsec. (b)(2). Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
+Subsec. (b)(2). Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
 
-Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “to the Secretary”.
+Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “to the Secretary”.
 
-Subsec. (c). Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Directors for Veterans’ Employment and Training” for “Assistant State Directors for Veterans’ Employment”.
+Subsec. (c). Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Directors for Veterans’ Employment and Training” for “Assistant State Directors for Veterans’ Employment”.
 
-Subsec. (c)(1). Pub. L. 100–323, § 7(a)(1), inserted “(A) functionally supervise the provision of services to eligible veterans and eligible persons by such system and such program and their staffs, and (B)” after “(1)” and “, including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note)” after “programs”.
+Subsec. (c)(1). Pub. L. 100–323, § 7(a)(1), inserted “(A) functionally supervise the provision of services to eligible veterans and eligible persons by such system and such program and their staffs, and (B)” after “(1)” and “, including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note)” after “programs”.
 
-Subsec. (c)(2). Pub. L. 100–323, § 7(a)(2), inserted “and otherwise to promote the employment of eligible veterans and eligible persons” after “opportunities”.
+Subsec. (c)(2). Pub. L. 100–323, § 7(a)(2), inserted “and otherwise to promote the employment of eligible veterans and eligible persons” after “opportunities”.
 
-Subsec. (c)(13) to (15). Pub. L. 100–323, § 7(a)(3)–(5), added cls. (13) to (15).
+Subsec. (c)(13) to (15). Pub. L. 100–323, § 7(a)(3)–(5), added cls. (13) to (15).
 
-1982—Pub. L. 97–306, § 304(a)(1), struck out text that preceded cl. (1), which related to assignment, number, qualifications, pay, and administrative position of veterans’ employment representatives, and inserted in lieu thereof a revised section catchline and subsecs. (a) to (c) relating to State and Assistant State Directors for Veterans’ Employment.
+1982—Pub. L. 97–306, § 304(a)(1), struck out text that preceded cl. (1), which related to assignment, number, qualifications, pay, and administrative position of veterans’ employment representatives, and inserted in lieu thereof a revised section catchline and subsecs. (a) to (c) relating to State and Assistant State Directors for Veterans’ Employment.
 
 Pub. L. 97–295 substituted “chapter 51 and” for “chapter 51 of”.
 
-Subsec. (c)(6). Pub. L. 97–306, § 304(b), substituted provision of cl. (6) that the Director and Assistant Director promote and facilitate the participation of veterans in Federal and federally funded employment and training programs and directly monitor the implementation and operation of such programs to ensure that eligible veterans, veterans of the Vietnam era, disabled veterans, and eligible persons receive such priority or other special consideration in the provision of services as is required by law or regulation, for provision that they promote the participation of veterans in Comprehensive Employment and Training Act programs and monitor the implementation and operation of Comprehensive Employment and Training Act programs to assure that eligible veterans, disabled veterans, and veterans of the Vietnam era receive special consideration when required.
+Subsec. (c)(6). Pub. L. 97–306, § 304(b), substituted provision of cl. (6) that the Director and Assistant Director promote and facilitate the participation of veterans in Federal and federally funded employment and training programs and directly monitor the implementation and operation of such programs to ensure that eligible veterans, veterans of the Vietnam era, disabled veterans, and eligible persons receive such priority or other special consideration in the provision of services as is required by law or regulation, for provision that they promote the participation of veterans in Comprehensive Employment and Training Act programs and monitor the implementation and operation of Comprehensive Employment and Training Act programs to assure that eligible veterans, disabled veterans, and veterans of the Vietnam era receive special consideration when required.
 
-Subsec. (c)(8) to (12). Pub. L. 97–306, § 304(c), added cls. (8) to (12).
+Subsec. (c)(8) to (12). Pub. L. 97–306, § 304(c), added cls. (8) to (12).
 
-1980—Pub. L. 96–466 in provisions preceding par. (1) inserted “(and shall assign full-time clerical support to each such representative)” after “to serve as the veterans’ employment representative”, struck out “, United States Code,” after “title 5”, substituted “employment and training programs” for “manpower and training programs”, inserted “system” after “public employment service” wherever appearing, and in par. (6) inserted “, disabled veterans, and veterans of the Vietnam era” after “eligible veterans”.
+1980—Pub. L. 96–466 in provisions preceding par. (1) inserted “(and shall assign full-time clerical support to each such representative)” after “to serve as the veterans’ employment representative”, struck out “, United States Code,” after “title 5”, substituted “employment and training programs” for “manpower and training programs”, inserted “system” after “public employment service” wherever appearing, and in par. (6) inserted “, disabled veterans, and veterans of the Vietnam era” after “eligible veterans”.
 
 1976—Pub. L. 94–502 substituted “the Secretary shall determine” for “he shall determine”, “such representative’s” for “his”, “administered by the Secretary or by prime sponsors under the Comprehensive Employment and Training Act” for “administered by the Secretary”, added cl. (6), and redesignated former cl. (6) as (7).
 
@@ -989,7 +989,7 @@ Subsec. (c)(8) to (12). Pub. L. 97–306, § 304(c), added cls. (8) to (12).
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title V, § 504(b), Dec. 16, 2016, 130 Stat. 1569, provided that: “Subsection (c) of such section [38 U.S.C. 4103(c)], as added by subsection (a), shall take effect on the date that is 1 year after the date of the enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–315, title V, § 504(b), Dec. 16, 2016, 130 Stat. 1569, provided that: “Subsection (c) of such section [38 U.S.C. 4103(c)], as added by subsection (a), shall take effect on the date that is 1 year after the date of the enactment of this Act [Dec. 16, 2016].”
 
 **Effective Date of 2002 Amendment**
 
@@ -1017,7 +1017,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as a note under section 4101 of this title.
 
-## § 4103A. Disabled veterans’ outreach program
+## § 4103A. Disabled veterans’ outreach program
 
 **(a) Requirement for Employment by States of a Sufficient Number of Specialists.—**
 
@@ -1043,17 +1043,17 @@ Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section
 
 **(2)** The Secretary shall conduct regular audits to ensure compliance with paragraph (1). If, on the basis of such an audit, the Secretary determines that a State is not in compliance with paragraph (1), the Secretary may reduce the amount of a grant made to the State under section 4102A(b)(5) of this title.
 
-(Added Pub. L. 96–466, title V, § 506(a), Oct. 17, 1980, 94 Stat. 2204, § 2003A; amended Pub. L. 97–306, title III, § 305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§ 2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, § 423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4103A and amended Pub. L. 102–83, §§ 2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§ 501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, § 701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(29)(B), (f)(21)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, § 1004(a), Nov. 11, 1998, 112 Stat. 3364; Pub. L. 107–95, § 9(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, § 4(b)(1), Nov. 7, 2002, 116 Stat. 2043; Pub. L. 109–461, title VI, § 602(a), Dec. 22, 2006, 120 Stat. 3437; Pub. L. 112–56, title II, §§ 234(b), 241(a), Nov. 21, 2011, 125 Stat. 722, 728.)
+(Added Pub. L. 96–466, title V, § 506(a), Oct. 17, 1980, 94 Stat. 2204, § 2003A; amended Pub. L. 97–306, title III, § 305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§ 2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, § 423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4103A and amended Pub. L. 102–83, §§ 2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§ 501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, § 701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(29)(B), (f)(21)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, § 1004(a), Nov. 11, 1998, 112 Stat. 3364; Pub. L. 107–95, § 9(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, § 4(b)(1), Nov. 7, 2002, 116 Stat. 2043; Pub. L. 109–461, title VI, § 602(a), Dec. 22, 2006, 120 Stat. 3437; Pub. L. 112–56, title II, §§ 234(b), 241(a), Nov. 21, 2011, 125 Stat. 722, 728.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (a)(1). Pub. L. 112–56, § 234(b)(1), inserted “and facilitate placements” after “intensive services” in introductory provisions.
+2011—Subsec. (a)(1). Pub. L. 112–56, § 234(b)(1), inserted “and facilitate placements” after “intensive services” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 112–56, § 234(b)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 112–56, § 234(b)(2), added par. (3).
 
-Subsec. (d). Pub. L. 112–56, § 241(a), added subsec. (d).
+Subsec. (d). Pub. L. 112–56, § 241(a), added subsec. (d).
 
 2006—Subsec. (c). Pub. L. 109–461 added subsec. (c).
 
@@ -1063,79 +1063,79 @@ Subsec. (d). Pub. L. 112–56, § 241(a), added subsec. (d).
 
 1998—Subsec. (a)(1). Pub. L. 105–368, in first sentence, substituted “for each 7,400 veterans who are between the ages of 20 and 64 residing in such State.” for “for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.”, in third sentence, struck out “of the Vietnam era” after “disabled veterans”, and struck out after third sentence “If the Secretary finds that a qualified disabled veteran of the Vietnam era is not available for any such appointment, preference for such appointment shall be given to other qualified disabled veterans.”
 
-Subsec. (c)(4). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(21)(B)], struck out “part C of title IV of the Job Training Partnership Act and” after “training programs including”.
+Subsec. (c)(4). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(21)(B)], struck out “part C of title IV of the Job Training Partnership Act and” after “training programs including”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(29)(B)], substituted “including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(29)(B)], substituted “including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))”.
 
 1994—Subsec. (a)(1). Pub. L. 103–446 substituted “rates comparable to those paid other professionals performing essentially similar duties” for “a rate not less than the rate prescribed for an entry level professional”.
 
-1992—Subsec. (a)(1). Pub. L. 102–568, § 501, substituted “specialist for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.” for “specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”
+1992—Subsec. (a)(1). Pub. L. 102–568, § 501, substituted “specialist for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.” for “specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”
 
-Subsec. (b)(1)(A). Pub. L. 102–568, § 503, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Services to disabled veterans of the Vietnam era who are participating in or have completed a program of vocational rehabilitation under chapter 31 of this title.”
+Subsec. (b)(1)(A). Pub. L. 102–568, § 503, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Services to disabled veterans of the Vietnam era who are participating in or have completed a program of vocational rehabilitation under chapter 31 of this title.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2003A of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2003A of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “4102A(b)(5)(A)(i)” for “2002A(b)(5)(A)(i)” in par. (1) and “4104” for “2004” in par. (2).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “4102A(b)(5)(A)(i)” for “2002A(b)(5)(A)(i)” in par. (1) and “4104” for “2004” in par. (2).
 
-Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “4103” for “2003” and “1712A” for “612A”.
+Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “4103” for “2003” and “1712A” for “612A”.
 
-Pub. L. 102–83, § 2(c)(4), substituted “7723” for “242”.
+Pub. L. 102–83, § 2(c)(4), substituted “7723” for “242”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3687” for “1787”.
+Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3687” for “1787”.
 
 1989—Subsecs. (b)(2), (c)(2), (3), (8). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–323, § 2(e)(1)(A)(i), (ii), redesignated par. (2) as (1), substituted “The amount of funds made available for use in a State under section 2002A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.” for “Funds provided for use in a State under this subsection shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”, inserted “qualified” before “veteran” in second sentence, inserted “qualified” before “disabled” wherever appearing in third, fourth, and fifth sentences, inserted “qualified” after “any” in fifth sentence, and struck out former par. (1) which read as follows: “The Secretary of Labor, acting through the Assistant Secretary for Veterans’ Employment, shall make available for use in each State, directly or by grant or contract, such funds as may be necessary to support a disabled veterans’ outreach program designed to meet the employment needs of veterans, especially disabled veterans of the Vietnam era.”
+1988—Subsec. (a)(1). Pub. L. 100–323, § 2(e)(1)(A)(i), (ii), redesignated par. (2) as (1), substituted “The amount of funds made available for use in a State under section 2002A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.” for “Funds provided for use in a State under this subsection shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”, inserted “qualified” before “veteran” in second sentence, inserted “qualified” before “disabled” wherever appearing in third, fourth, and fifth sentences, inserted “qualified” after “any” in fifth sentence, and struck out former par. (1) which read as follows: “The Secretary of Labor, acting through the Assistant Secretary for Veterans’ Employment, shall make available for use in each State, directly or by grant or contract, such funds as may be necessary to support a disabled veterans’ outreach program designed to meet the employment needs of veterans, especially disabled veterans of the Vietnam era.”
 
-Subsec. (a)(2). Pub. L. 100–323, § 2(e)(1)(A)(i), (iii), redesignated par. (4) as (2) and struck out “paragraph (2) of” after “appointed pursuant to”. Former par. (2) redesignated (1).
+Subsec. (a)(2). Pub. L. 100–323, § 2(e)(1)(A)(i), (iii), redesignated par. (4) as (2) and struck out “paragraph (2) of” after “appointed pursuant to”. Former par. (2) redesignated (1).
 
-Subsec. (a)(3). Pub. L. 100–323, § 2(e)(1)(A)(i), struck out par. (3) which read as follows: “The Secretary, acting through the Assistant Secretary of Labor for Veterans’ Employment, shall also make available for use in the States such funds, in addition to those made available to carry out paragraphs (1) and (2) of this subsection, as may be necessary to support the reasonable expenses of such specialists for training, travel, supplies, and fringe benefits.”
+Subsec. (a)(3). Pub. L. 100–323, § 2(e)(1)(A)(i), struck out par. (3) which read as follows: “The Secretary, acting through the Assistant Secretary of Labor for Veterans’ Employment, shall also make available for use in the States such funds, in addition to those made available to carry out paragraphs (1) and (2) of this subsection, as may be necessary to support the reasonable expenses of such specialists for training, travel, supplies, and fringe benefits.”
 
-Subsec. (a)(4). Pub. L. 100–323, § 2(e)(1)(A)(i), redesignated par. (4) as (2).
+Subsec. (a)(4). Pub. L. 100–323, § 2(e)(1)(A)(i), redesignated par. (4) as (2).
 
-Subsec. (a)(5). Pub. L. 100–323, § 2(e)(1)(A)(i), struck out par. (5) which read as follows: “The distribution and use of funds provided for use in States under this section shall be subject to the continuing supervision and monitoring of the Assistant Secretary for Veterans’ Employment and shall not be governed by the provisions of any other law, or any regulations prescribed thereunder, that are inconsistent with this section.”
+Subsec. (a)(5). Pub. L. 100–323, § 2(e)(1)(A)(i), struck out par. (5) which read as follows: “The distribution and use of funds provided for use in States under this section shall be subject to the continuing supervision and monitoring of the Assistant Secretary for Veterans’ Employment and shall not be governed by the provisions of any other law, or any regulations prescribed thereunder, that are inconsistent with this section.”
 
-Subsec. (b)(2). Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment”.
+Subsec. (b)(2). Pub. L. 100–323, § 15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment”.
 
-Subsec. (c)(4). Pub. L. 100–323, § 7(b)(1), inserted “(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))” after “programs”.
+Subsec. (c)(4). Pub. L. 100–323, § 7(b)(1), inserted “(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))” after “programs”.
 
-Subsec. (c)(6). Pub. L. 100–323, § 7(b)(2), inserted “(including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note))” after “programs”.
+Subsec. (c)(6). Pub. L. 100–323, § 7(b)(2), inserted “(including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note))” after “programs”.
 
-Subsec. (c)(9), (10). Pub. L. 100–323, § 7(b)(3), added pars. (9) and (10).
+Subsec. (c)(9), (10). Pub. L. 100–323, § 7(b)(3), added pars. (9) and (10).
 
-Subsec. (d). Pub. L. 100–323, § 2(e)(1)(B), struck out subsec. (d) which read as follows: “The Secretary of Labor shall administer the program provided for by this section through the Assistant Secretary of Labor for Veterans’ Employment. The Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsection (a)(2) of this section with respect to the employment of such specialists.”
+Subsec. (d). Pub. L. 100–323, § 2(e)(1)(B), struck out subsec. (d) which read as follows: “The Secretary of Labor shall administer the program provided for by this section through the Assistant Secretary of Labor for Veterans’ Employment. The Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsection (a)(2) of this section with respect to the employment of such specialists.”
 
-1982—Subsec. (a)(1). Pub. L. 97–306, § 305(a)(1), (3), inserted “, acting through the Assistant Secretary for Veterans’ Employment,” after “Secretary of Labor”, and substituted “available for use in” for “available to”.
+1982—Subsec. (a)(1). Pub. L. 97–306, § 305(a)(1), (3), inserted “, acting through the Assistant Secretary for Veterans’ Employment,” after “Secretary of Labor”, and substituted “available for use in” for “available to”.
 
-Subsec. (a)(2). Pub. L. 97–306, § 305(a)(4), substituted “provided for use in” for “provided to”.
+Subsec. (a)(2). Pub. L. 97–306, § 305(a)(4), substituted “provided for use in” for “provided to”.
 
-Subsec. (a)(3). Pub. L. 97–306, § 305(a)(2), (3), inserted “, acting through the Assistant Secretary of Labor for Veterans’ Employment,” after “Secretary”, and substituted “available for use in” for “available to”.
+Subsec. (a)(3). Pub. L. 97–306, § 305(a)(2), (3), inserted “, acting through the Assistant Secretary of Labor for Veterans’ Employment,” after “Secretary”, and substituted “available for use in” for “available to”.
 
-Subsec. (a)(5). Pub. L. 97–306, § 305(a)(5), added par. (5).
+Subsec. (a)(5). Pub. L. 97–306, § 305(a)(5), added par. (5).
 
-Subsec. (b)(2). Pub. L. 97–306, § 305(b), inserted provision relating to waiver of the limitation on stationing at local employment service offices of disabled veterans’ outreach program specialists and substituted “section 612A” for “section 621A”.
+Subsec. (b)(2). Pub. L. 97–306, § 305(b), inserted provision relating to waiver of the limitation on stationing at local employment service offices of disabled veterans’ outreach program specialists and substituted “section 612A” for “section 621A”.
 
-Subsec. (c)(4). Pub. L. 97–306, § 305(c)(1), substituted “appropriate grantees under other Federal and federally funded employment and training programs” for “prime sponsors under the Comprehensive Employment and Training Act”.
+Subsec. (c)(4). Pub. L. 97–306, § 305(c)(1), substituted “appropriate grantees under other Federal and federally funded employment and training programs” for “prime sponsors under the Comprehensive Employment and Training Act”.
 
-Subsec. (c)(8). Pub. L. 97–306, § 305(c)(2), added par. (8).
+Subsec. (c)(8). Pub. L. 97–306, § 305(c)(2), added par. (8).
 
-Subsecs. (d), (e). Pub. L. 97–306, § 305(d), redesignated subsec. (e) as (d) and inserted provision that the Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsec. (a)(2) of this section with respect to the employment of such specialists. Former subsec. (d), which provided that persons serving as staff in the disabled veterans outreach program conducted under title III of the Comprehensive Employment and Training Act on the date of enactment of this section would be appointed as disabled veterans’ outreach program specialists in the State in which such individual was so serving, unless the Secretary for good cause shown determined that such individual was not qualified for such appointment, was struck out.
+Subsecs. (d), (e). Pub. L. 97–306, § 305(d), redesignated subsec. (e) as (d) and inserted provision that the Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsec. (a)(2) of this section with respect to the employment of such specialists. Former subsec. (d), which provided that persons serving as staff in the disabled veterans outreach program conducted under title III of the Comprehensive Employment and Training Act on the date of enactment of this section would be appointed as disabled veterans’ outreach program specialists in the State in which such individual was so serving, unless the Secretary for good cause shown determined that such individual was not qualified for such appointment, was struck out.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–461, title VI, § 602(c), Dec. 22, 2006, 120 Stat. 3437, provided that: “Section 4103A(c) of title 38, United States Code, as added by subsection (a), and section 4104(d) of such title, as amended by subsection (b), shall apply with respect to pay periods beginning after the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
+Pub. L. 109–461, title VI, § 602(c), Dec. 22, 2006, 120 Stat. 3437, provided that: “Section 4103A(c) of title 38, United States Code, as added by subsection (a), and section 4104(d) of such title, as amended by subsection (b), shall apply with respect to pay periods beginning after the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–288, § 4(b)(3), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendments made by this subsection [amending this section and section 4104 of this title] shall take effect on the date of the enactment of this Act [Nov. 7, 2002], and apply for program years under chapter 41 of title 38, United States Code, beginning on or after such date.”
+Pub. L. 107–288, § 4(b)(3), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendments made by this subsection [amending this section and section 4104 of this title] shall take effect on the date of the enactment of this Act [Nov. 7, 2002], and apply for program years under chapter 41 of title 38, United States Code, beginning on or after such date.”
 
 **Effective Date of 1998 Amendments**
 
-Pub. L. 105–368, title X, § 1004(b), Nov. 11, 1998, 112 Stat. 3364, provided that: “The amendments made by this section [amending this section] shall apply with respect to appointments of disabled veterans’ outreach program specialists under section 4103A of title 38, United States Code, on or after the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title X, § 1004(b), Nov. 11, 1998, 112 Stat. 3364, provided that: “The amendments made by this section [amending this section] shall apply with respect to appointments of disabled veterans’ outreach program specialists under section 4103A of title 38, United States Code, on or after the date of the enactment of this Act [Nov. 11, 1998].”
 
-Amendment by section 101(f) [title VIII, § 405(d)(29)(B)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(B)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(29)(B)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(B)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1988 Amendment**
 
@@ -1145,7 +1145,7 @@ Amendment by sections 2(e)(1)(B) and 15(c)(1) of Pub. L. 100–323 effective May
 
 Section effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out as an Effective Date of 1980 Amendment note under section 4101 of this title.
 
-## § 4104. Local veterans’ employment representatives
+## § 4104. Local veterans’ employment representatives
 
 **(a) Requirement for Employment by States of a Sufficient Number of Representatives.—** Subject to approval by the Secretary, a State shall employ such full- and part-time local veterans’ employment representatives as the State determines appropriate and efficient to carry out employment, training, and placement services under this chapter.
 
@@ -1173,13 +1173,13 @@ Section effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out 
 
 **(f) Reporting.—** Each local veterans’ employment representative shall be administratively responsible to the manager of the employment service delivery system and shall provide reports, not less frequently than quarterly, to the manager of such office and to the Director for Veterans’ Employment and Training for the State regarding compliance with Federal law and regulations with respect to special services and priorities for eligible veterans and eligible persons.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, § 2013; renumbered § 2004, Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, § 6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 94–502, title VI, § 606(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, § 3(a), May 20, 1988, 102 Stat. 560; Pub. L. 101–237, title IV, § 423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, § 10(a)(8), Mar. 22, 1991, 105 Stat. 56; renumbered § 4104 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, § 8(a)(10), June 5, 2001, 115 Stat. 35; Pub. L. 107–95, § 9(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, § 4(b)(2), Nov. 7, 2002, 116 Stat. 2043; Pub. L. 109–461, title VI, § 602(b), Dec. 22, 2006, 120 Stat. 3437; Pub. L. 112–56, title II, § 241(b), Nov. 21, 2011, 125 Stat. 728.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, § 2013; renumbered § 2004, Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, § 6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 94–502, title VI, § 606(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, § 3(a), May 20, 1988, 102 Stat. 560; Pub. L. 101–237, title IV, § 423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, § 10(a)(8), Mar. 22, 1991, 105 Stat. 56; renumbered § 4104 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, § 8(a)(10), June 5, 2001, 115 Stat. 35; Pub. L. 107–95, § 9(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, § 4(b)(2), Nov. 7, 2002, 116 Stat. 2043; Pub. L. 109–461, title VI, § 602(b), Dec. 22, 2006, 120 Stat. 3437; Pub. L. 112–56, title II, § 241(b), Nov. 21, 2011, 125 Stat. 728.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 4104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 89–785, title I, § 104, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, § 5(a), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(3), title II, §§ 209(a)(1), (2), 210(c)(3), Oct. 21, 1976, 90 Stat. 2848, 2860, 2863; Pub. L. 96–151, title III, § 302(a), Dec. 20, 1979, 93 Stat. 1096; Pub. L. 98–160, title II, § 201, Nov. 21, 1983, 97 Stat. 1000; Pub. L. 98–528, title I, § 108, Oct. 19, 1984, 98 Stat. 2690; Pub. L. 100–322, title II, § 211(a), May 20, 1988, 102 Stat. 513; Pub. L. 101–366, title I, § 102(a), Aug. 15, 1990, 104 Stat. 430, related to appointment of additional personnel for medical care of veterans, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7401 of this title.
+Prior section 4104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 89–785, title I, § 104, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, § 5(a), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(3), title II, §§ 209(a)(1), (2), 210(c)(3), Oct. 21, 1976, 90 Stat. 2848, 2860, 2863; Pub. L. 96–151, title III, § 302(a), Dec. 20, 1979, 93 Stat. 1096; Pub. L. 98–160, title II, § 201, Nov. 21, 1983, 97 Stat. 1000; Pub. L. 98–528, title I, § 108, Oct. 19, 1984, 98 Stat. 2690; Pub. L. 100–322, title II, § 211(a), May 20, 1988, 102 Stat. 513; Pub. L. 101–366, title I, § 102(a), Aug. 15, 1990, 104 Stat. 430, related to appointment of additional personnel for medical care of veterans, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7401 of this title.
 
 Provisions similar to those comprising this section were contained in former section 2003 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
@@ -1191,41 +1191,41 @@ Provisions similar to those comprising this section were contained in former sec
 
 2002—Pub. L. 107–288 amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) relating to appointment, functions, and reporting requirements of local veterans’ employment representatives.
 
-2001—Subsec. (a)(1). Pub. L. 107–14, § 8(a)(10)(A)(i), substituted “For any fiscal year,” for “Beginning with fiscal year 1988,” in introductory provisions.
+2001—Subsec. (a)(1). Pub. L. 107–14, § 8(a)(10)(A)(i), substituted “For any fiscal year,” for “Beginning with fiscal year 1988,” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 107–14, § 8(a)(10)(A)(ii), substituted “subparagraph (A)” for “clause (A)”.
+Subsec. (a)(1)(B). Pub. L. 107–14, § 8(a)(10)(A)(ii), substituted “subparagraph (A)” for “clause (A)”.
 
-Subsec. (a)(1)(C). Pub. L. 107–14, § 8(a)(10)(A)(iii), substituted “subparagraphs (A) and (B)” for “clauses (A) and (B)”.
+Subsec. (a)(1)(C). Pub. L. 107–14, § 8(a)(10)(A)(iii), substituted “subparagraphs (A) and (B)” for “clauses (A) and (B)”.
 
-Subsec. (a)(4). Pub. L. 107–14, § 8(a)(10)(B), struck out “on or after July 1, 1988” after “local veterans’ employment representatives”.
+Subsec. (a)(4). Pub. L. 107–14, § 8(a)(10)(B), struck out “on or after July 1, 1988” after “local veterans’ employment representatives”.
 
-Subsec. (b). Pub. L. 107–14, § 8(a)(10)(C)(i), substituted “shall perform the following functions:” for “shall—” in introductory provisions.
+Subsec. (b). Pub. L. 107–14, § 8(a)(10)(C)(i), substituted “shall perform the following functions:” for “shall—” in introductory provisions.
 
-Subsec. (b)(1) to (10). Pub. L. 107–14, § 8(a)(10)(C)(ii), (iii), capitalized the first letter of the first word and substituted a period for the semicolon at end.
+Subsec. (b)(1) to (10). Pub. L. 107–14, § 8(a)(10)(C)(ii), (iii), capitalized the first letter of the first word and substituted a period for the semicolon at end.
 
-Subsec. (b)(11). Pub. L. 107–95, § 9(b)(1), which directed that “and” be struck out at end, could not be executed because of the intervening amendment by Pub. L. 107–14, § 8(a)(10)(C)(iv). See below.
+Subsec. (b)(11). Pub. L. 107–95, § 9(b)(1), which directed that “and” be struck out at end, could not be executed because of the intervening amendment by Pub. L. 107–14, § 8(a)(10)(C)(iv). See below.
 
-Pub. L. 107–14, § 8(a)(10)(C)(ii), (iv), capitalized the first letter of the first word and substituted a period for “; and” at end.
+Pub. L. 107–14, § 8(a)(10)(C)(ii), (iv), capitalized the first letter of the first word and substituted a period for “; and” at end.
 
-Subsec. (b)(12). Pub. L. 107–95, § 9(b)(2), substituted “; and” for period at end.
+Subsec. (b)(12). Pub. L. 107–95, § 9(b)(2), substituted “; and” for period at end.
 
-Pub. L. 107–14, § 8(a)(10)(C)(ii), capitalized the first letter of the first word.
+Pub. L. 107–14, § 8(a)(10)(C)(ii), capitalized the first letter of the first word.
 
-Subsec. (b)(13). Pub. L. 107–95, § 9(b)(3), added par. (13).
+Subsec. (b)(13). Pub. L. 107–95, § 9(b)(3), added par. (13).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2004 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2004 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “4102A(b)(5)(A)(ii)” for “2002A(b)(5)(A)(ii)” in introductory provisions.
+Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “4102A(b)(5)(A)(ii)” for “2002A(b)(5)(A)(ii)” in introductory provisions.
 
-Pub. L. 102–16, § 10(a)(8)(A), (B), substituted “appointment” for “assignment” in two places in introductory provisions and in subpar. (C).
+Pub. L. 102–16, § 10(a)(8)(A), (B), substituted “appointment” for “assignment” in two places in introductory provisions and in subpar. (C).
 
-Subsec. (a)(4). Pub. L. 102–16, § 10(a)(8)(C), substituted “appointment” for “assigning”.
+Subsec. (a)(4). Pub. L. 102–16, § 10(a)(8)(C), substituted “appointment” for “assigning”.
 
-Subsec. (b)(6). Pub. L. 102–83, § 5(c)(1), substituted “4212” for “2012”.
+Subsec. (b)(6). Pub. L. 102–83, § 5(c)(1), substituted “4212” for “2012”.
 
-Subsec. (b)(10). Pub. L. 102–83, § 5(c)(1), substituted “1712A” for “612A”.
+Subsec. (b)(10). Pub. L. 102–83, § 5(c)(1), substituted “1712A” for “612A”.
 
-Subsec. (d). Pub. L. 102–16, § 10(a)(8)(D), struck out subsec. (d) which read as follows: “Local veterans’ employment representatives shall be assigned, in accordance with this section, by the administrative head of the employment service in each State after consultation with the Director for Veterans’ Employment and Training.”
+Subsec. (d). Pub. L. 102–16, § 10(a)(8)(D), struck out subsec. (d) which read as follows: “Local veterans’ employment representatives shall be assigned, in accordance with this section, by the administrative head of the employment service in each State after consultation with the Director for Veterans’ Employment and Training.”
 
 1989—Subsec. (b)(7). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -1261,7 +1261,7 @@ Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section
 
 **Pilot Program To Integrate and Streamline Functions of Local Veterans’ Employment Representatives**
 
-Pub. L. 104–275, title III, § 303, Oct. 9, 1996, 110 Stat. 3332, as amended by Pub. L. 105–368, title X, § 1005(c)(1), Nov. 11, 1998, 112 Stat. 3366, provided that:
+Pub. L. 104–275, title III, § 303, Oct. 9, 1996, 110 Stat. 3332, as amended by Pub. L. 105–368, title X, § 1005(c)(1), Nov. 11, 1998, 112 Stat. 3366, provided that:
 
 > **“(a) Authority To Conduct Pilot Program.—** In order to assess the effects on the timeliness and quality of services to veterans resulting from re-focusing the staff resources of local veterans’ employment representatives, the Secretary of Labor may conduct a pilot program under which the primary responsibilities of local veterans’ employment representatives will be case management and the provision and facilitation of direct employment and training services to veterans.
 
@@ -1289,7 +1289,7 @@ Pub. L. 104–275, title III, § 303, Oct. 9, 1996, 110 Stat. 3332, as amended
 
 > **“(h) Expiration Date.—** The authority to carry out the pilot program under this section shall expire on October 1, 1999.”
 
-## § 4104A. Collaborative veterans’ training, mentoring, and placement program
+## § 4104A. Collaborative veterans’ training, mentoring, and placement program
 
 **(a) Grants.—** The Secretary shall award grants to eligible nonprofit organizations to provide training and mentoring for eligible veterans who seek employment. The Secretary shall award the grants to not more than three organizations, for periods of two years.
 
@@ -1349,15 +1349,15 @@ Pub. L. 104–275, title III, § 303, Oct. 9, 1996, 110 Stat. 3332, as amended
 
 **(A)** the Committee on Veterans’ Affairs and the Committee on Health, Education, Labor, and Pension of the Senate; and
 
-**(B)** the Committee on Veterans’ Affairs and the Committee on Education and Workforce 1
+**(B)** the Committee on Veterans’ Affairs and the Committee on Education and Workforce 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 of the House of Representatives; and
 
 **(2)** the term “nonprofit organization” means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and that is exempt from taxation under section 501(a) of such Code.
 
-(Added Pub. L. 112–56, title II, § 234(a), Nov. 21, 2011, 125 Stat. 721; amended Pub. L. 113–128, title V, § 512(gg)(3), July 22, 2014, 128 Stat. 1719.)
+(Added Pub. L. 112–56, title II, § 234(a), Nov. 21, 2011, 125 Stat. 721; amended Pub. L. 113–128, title V, § 512(gg)(3), July 22, 2014, 128 Stat. 1719.)
 
 **Editorial Notes**
 
@@ -1371,7 +1371,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2),
 
 **Prior Provisions**
 
-A prior section 4104A, added Pub. L. 100–323, § 4(a)(1), May 20, 1988, 102 Stat. 562, § 2004A; renumbered § 4104A and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives, prior to repeal by Pub. L. 107–288, § 4(a)(3)(A)(i), Nov. 7, 2002, 116 Stat. 2042, effective Nov. 7, 2002, and applicable for program and fiscal years under this chapter beginning on or after such date.
+A prior section 4104A, added Pub. L. 100–323, § 4(a)(1), May 20, 1988, 102 Stat. 562, § 2004A; renumbered § 4104A and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives, prior to repeal by Pub. L. 107–288, § 4(a)(3)(A)(i), Nov. 7, 2002, 116 Stat. 2042, effective Nov. 7, 2002, and applicable for program and fiscal years under this chapter beginning on or after such date.
 
 **Amendments**
 
@@ -1383,17 +1383,17 @@ A prior section 4104A, added Pub. L. 100–323, § 4(a)(1), May 20, 1988, 102 
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
-## § 4105. Cooperation of Federal agencies
+## § 4105. Cooperation of Federal agencies
 
 **(a)** All Federal agencies shall furnish the Secretary such records, statistics, or information as the Secretary may deem necessary or appropriate in administering the provisions of this chapter, and shall otherwise cooperate with the Secretary in providing continuous employment and training opportunities for eligible veterans and eligible persons.
 
-**(b)** For the purpose of assisting the Secretary and the Secretary of Veterans Affairs in identifying employers with potential job training opportunities under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note) 1
+**(b)** For the purpose of assisting the Secretary and the Secretary of Veterans Affairs in identifying employers with potential job training opportunities under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and otherwise in order to carry out this chapter, the Secretary of Defense shall, on the 15th day of each month, provide the Secretary and the Secretary of Veterans Affairs with updated information regarding any list maintained by the Secretary of Defense of employers participating in the National Committee for Employer Support of the Guard and Reserve.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, § 2014; renumbered § 2005 and amended Pub. L. 87–675, § 1(a), (c), Sept. 19, 1962, 76 Stat. 558, 559; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 93–508, title IV, § 401(d), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, § 606(3), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §§ 6(a), 15(a)(2), May 20, 1988, 102 Stat. 564, 574; Pub. L. 101–237, title IV, § 423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4105, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, § 503(12), June 15, 2006, 120 Stat. 417.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, § 2014; renumbered § 2005 and amended Pub. L. 87–675, § 1(a), (c), Sept. 19, 1962, 76 Stat. 558, 559; Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 93–508, title IV, § 401(d), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, § 606(3), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §§ 6(a), 15(a)(2), May 20, 1988, 102 Stat. 564, 574; Pub. L. 101–237, title IV, § 423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4105, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, § 503(12), June 15, 2006, 120 Stat. 417.)
 
 **Editorial Notes**
 
@@ -1403,7 +1403,7 @@ The Veterans’ Job Training Act, referred to in subsec. (b), is Pub. L. 98–77
 
 **Prior Provisions**
 
-Prior section 4105, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 87–574, § 4(1), Aug. 6, 1962, 76 Stat. 308; Pub. L. 89–785, title I, § 105, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, § 5(b), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(4), title II, §§ 205(e), 209(a)(1), (2), (4), (c)(2), Oct. 21, 1976, 90 Stat. 2848, 2859, 2860, 2861; Pub. L. 95–201, § 4(a)(1), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–151, title III, § 302(b), Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, § 4(81), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–160, title II, § 202, Nov. 21, 1983, 97 Stat. 1000, related to qualifications of appointees to positions in Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7402 of this title.
+Prior section 4105, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 87–574, § 4(1), Aug. 6, 1962, 76 Stat. 308; Pub. L. 89–785, title I, § 105, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, § 5(b), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(4), title II, §§ 205(e), 209(a)(1), (2), (4), (c)(2), Oct. 21, 1976, 90 Stat. 2848, 2859, 2860, 2861; Pub. L. 95–201, § 4(a)(1), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–151, title III, § 302(b), Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, § 4(81), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–160, title II, § 202, Nov. 21, 1983, 97 Stat. 1000, related to qualifications of appointees to positions in Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7402 of this title.
 
 Provisions similar to those comprising this section were contained in former section 2004 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
@@ -1415,11 +1415,11 @@ Provisions similar to those comprising this section were contained in former sec
 
 1989—Subsec. (b). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” for “Administrator” wherever appearing.
 
-1988—Subsec. (a). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “furnish the Secretary”.
+1988—Subsec. (a). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “furnish the Secretary”.
 
-Pub. L. 100–323, § 6(a)(1), designated existing provisions as subsec. (a).
+Pub. L. 100–323, § 6(a)(1), designated existing provisions as subsec. (a).
 
-Subsec. (b). Pub. L. 100–323, § 6(a)(2), added subsec. (b).
+Subsec. (b). Pub. L. 100–323, § 6(a)(2), added subsec. (b).
 
 1976—Pub. L. 94–502 substituted “the Secretary may deem” for “he may deem”.
 
@@ -1447,7 +1447,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as a note under section 4101 of this title.
 
-## § 4106. Estimate of funds for administration; authorization of appropriations
+## § 4106. Estimate of funds for administration; authorization of appropriations
 
 **(a)** The Secretary shall estimate the funds necessary for the proper and efficient administration of this chapter and chapters 42 and 43 of this title. Such estimated sums shall include the annual amounts necessary for salaries, rents, printing and binding, travel, and communications. Sums thus estimated shall be included as a special item in the annual budget for the Department of Labor. Estimated funds necessary for proper intensive services, placement, and training services to eligible veterans and eligible persons provided by the various State public employment service agencies shall each be separately identified in the budgets of those agencies as approved by the Department of Labor. Funds estimated pursuant to the first sentence of this subsection shall include amounts necessary in all of the States for the purposes specified in paragraph (5) of section 4102A(b) of this title and to fund the National Veterans’ Employment and Training Services Institute under section 4109 of this title and shall be approved by the Secretary only if the level of funding proposed is in compliance with such sections. Each budget submission with respect to such funds shall include a separate listing of the amount for the National Veterans’ Employment and Training Services Institute together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.
 
@@ -1457,35 +1457,35 @@ Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section
 
 **(d)** Any funds made available pursuant to subsections (b) and (c) of this section shall not be available for any purpose other than those specified in such subsections.
 
-(Added Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1096, § 2006; amended Pub. L. 93–508, title IV, § 401(e), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, § 603, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–306, title III, § 306, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§ 2(b), (c), (e)(2), 15(a)(2), May 20, 1988, 102 Stat. 558, 559, 574; renumbered § 4106 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§ 4(d)(1), 5(a)(1)(C), Nov. 7, 2002, 116 Stat. 2044.)
+(Added Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1096, § 2006; amended Pub. L. 93–508, title IV, § 401(e), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, § 603, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–306, title III, § 306, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§ 2(b), (c), (e)(2), 15(a)(2), May 20, 1988, 102 Stat. 558, 559, 574; renumbered § 4106 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§ 4(d)(1), 5(a)(1)(C), Nov. 7, 2002, 116 Stat. 2044.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 4106, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 89–785, title I, § 106, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, § 5(c), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(5), title II, § 209(a)(1), (b)(1), Oct. 21, 1976, 90 Stat. 2848, 2860, 2861; Pub. L. 96–151, title III, § 303, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 98–160, title II, § 203(a), Nov. 21, 1983, 97 Stat. 1000; Pub. L. 99–576, title VII, § 701(86), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–322, title II, § 221, May 20, 1988, 102 Stat. 531; Pub. L. 101–237, title II, § 203, Dec. 18, 1989, 103 Stat. 2067, related to period of appointment and promotions of persons appointed to Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7403 of this title.
+Prior section 4106, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 89–785, title I, § 106, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, § 5(c), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(5), title II, § 209(a)(1), (b)(1), Oct. 21, 1976, 90 Stat. 2848, 2860, 2861; Pub. L. 96–151, title III, § 303, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 98–160, title II, § 203(a), Nov. 21, 1983, 97 Stat. 1000; Pub. L. 99–576, title VII, § 701(86), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–322, title II, § 221, May 20, 1988, 102 Stat. 531; Pub. L. 101–237, title II, § 203, Dec. 18, 1989, 103 Stat. 2067, related to period of appointment and promotions of persons appointed to Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7403 of this title.
 
 Provisions similar to those comprising this section were contained in former section 2005 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–288, § 5(a)(1)(C), substituted “proper intensive services” for “proper counseling”.
+2002—Subsec. (a). Pub. L. 107–288, § 5(a)(1)(C), substituted “proper intensive services” for “proper counseling”.
 
-Pub. L. 107–288, § 4(d)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 4103A of this title and local veterans’ employment representatives assigned under section 4104 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”
+Pub. L. 107–288, § 4(d)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 4103A of this title and local veterans’ employment representatives assigned under section 4104 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2006 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2006 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “4102A(b)” for “2002A(b)”, “4109” for “2009”, “4103A” for “2003A”, and “4104” for “2004”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “4102A(b)” for “2002A(b)”, “4109” for “2009”, “4103A” for “2003A”, and “4104” for “2004”.
 
-1988—Subsec. (a). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “Secretary” in first and fifth sentences.
+1988—Subsec. (a). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “Secretary” in first and fifth sentences.
 
-Pub. L. 100–323, § 2(b), (e)(2), substituted “in all of the States for the purposes specified in paragraph (5) of section 2002A(b) of this title and to fund the National Veterans’ Employment and Training Services Institute under section 2009” for “to fund the disabled veterans’ outreach program under section 2003A” and “with such sections” for “with such section” in fifth sentence, inserted after fifth sentence “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 2003A of this title and local veterans’ employment representatives assigned under section 2004 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”, and struck out at end “Each budget submission with respect to such funds shall include a separate listing of the proposed number, by State, for disabled veterans outreach program specialists appointed under such section. The Secretary shall carry out this subsection through the Assistant Secretary for Veterans’ Employment.”
+Pub. L. 100–323, § 2(b), (e)(2), substituted “in all of the States for the purposes specified in paragraph (5) of section 2002A(b) of this title and to fund the National Veterans’ Employment and Training Services Institute under section 2009” for “to fund the disabled veterans’ outreach program under section 2003A” and “with such sections” for “with such section” in fifth sentence, inserted after fifth sentence “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 2003A of this title and local veterans’ employment representatives assigned under section 2004 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”, and struck out at end “Each budget submission with respect to such funds shall include a separate listing of the proposed number, by State, for disabled veterans outreach program specialists appointed under such section. The Secretary shall carry out this subsection through the Assistant Secretary for Veterans’ Employment.”
 
-Subsec. (d). Pub. L. 100–323, § 2(c), struck out “, except with the approval of the Secretary of Labor, upon the recommendation of the Assistant Secretary of Labor for Veterans’ Employment, based on a demonstrated lack of need for such funds for such purposes” after “in such subsections”.
+Subsec. (d). Pub. L. 100–323, § 2(c), struck out “, except with the approval of the Secretary of Labor, upon the recommendation of the Assistant Secretary of Labor for Veterans’ Employment, based on a demonstrated lack of need for such funds for such purposes” after “in such subsections”.
 
-1982—Subsec. (a). Pub. L. 97–306, § 306(a), inserted “and chapters 42 and 43 of this title” after “administration of this chapter”, and inserted provisions at end relating to the inclusion in estimated necessary funds of amounts necessary to fund the disabled veterans’ outreach program, inclusion in budgets of the proposed number for program specialists, and the carrying out of this subsection through the Assistant Secretary for Veterans’ Employment.
+1982—Subsec. (a). Pub. L. 97–306, § 306(a), inserted “and chapters 42 and 43 of this title” after “administration of this chapter”, and inserted provisions at end relating to the inclusion in estimated necessary funds of amounts necessary to fund the disabled veterans’ outreach program, inclusion in budgets of the proposed number for program specialists, and the carrying out of this subsection through the Assistant Secretary for Veterans’ Employment.
 
-Subsec. (d). Pub. L. 97–306, § 306(b), inserted “, upon the recommendation of the Assistant Secretary of Labor for Veterans’ Employment,” after “Secretary of Labor”.
+Subsec. (d). Pub. L. 97–306, § 306(b), inserted “, upon the recommendation of the Assistant Secretary of Labor for Veterans’ Employment,” after “Secretary of Labor”.
 
 1976—Subsec. (a). Pub. L. 94–502 substituted “agencies shall each be” for “agencies shall be”.
 
@@ -1495,7 +1495,7 @@ Subsec. (d). Pub. L. 97–306, § 306(b), inserted “, upon the recommendat
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–288, § 4(d)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 7, 2002], and apply to budget submissions for fiscal year 2004 and each subsequent fiscal year.”
+Pub. L. 107–288, § 4(d)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 7, 2002], and apply to budget submissions for fiscal year 2004 and each subsequent fiscal year.”
 
 **Effective Date of 1976 Amendment**
 
@@ -1509,7 +1509,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 4101 of this title.
 
-## § 4107. Administrative controls; annual report
+## § 4107. Administrative controls; annual report
 
 **(a)** The Secretary shall establish administrative controls for the following purposes:
 
@@ -1523,9 +1523,9 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 **(1)** specification, by State and by age group, of the numbers of eligible veterans, disabled veterans, special disabled veterans, eligible persons, recently separated veterans (as defined in section 4211(6) of this title), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by, the public employment service system and, for each of such categories, the numbers referred to and placed in permanent and other jobs, the numbers referred to and placed in jobs and job training programs supported by the Federal Government, the number who received intensive services, and the number who received some, and the number who received no, reportable service;
 
-**(2)** a comparison of the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) 1
+**(2)** a comparison of the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Workforce Investment Act of 1998) for each of the categories of veterans and persons described in paragraph (1) of this subsection with such rate of entered employment (as so determined) for nonveterans of the same age groups registered for assistance with the public employment system in each State;
 
@@ -1549,67 +1549,67 @@ of the Workforce Investment Act of 1998) for each of the categories of veterans 
 
 **(E)** the percentage of participants in programs under this chapter who obtain a certificate, degree, diploma, licensure, or industry-recognized credential relating to the program in which they participated under this chapter during the third 90-day period following their completion of the program.
 
-(Added Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1096, § 2007; amended Pub. L. 93–508, title IV, § 401(f), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, § 604, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 95–202, title III, § 309(b), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 96–466, title V, § 507, Oct. 17, 1980, 94 Stat. 2205; Pub. L. 97–306, title III, § 307, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§ 2(d), 15(a)(2), May 20, 1988, 102 Stat. 558, 574; renumbered § 4107 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§ 4(a)(3)(B), (e)(1), 5(a)(1)(D), (E), (d)(1), Nov. 7, 2002, 116 Stat. 2042, 2044, 2045; Pub. L. 112–56, title II, § 238, Nov. 21, 2011, 125 Stat. 726.)
+(Added Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1096, § 2007; amended Pub. L. 93–508, title IV, § 401(f), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, § 604, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 95–202, title III, § 309(b), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 96–466, title V, § 507, Oct. 17, 1980, 94 Stat. 2205; Pub. L. 97–306, title III, § 307, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§ 2(d), 15(a)(2), May 20, 1988, 102 Stat. 558, 574; renumbered § 4107 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§ 4(a)(3)(B), (e)(1), 5(a)(1)(D), (E), (d)(1), Nov. 7, 2002, 116 Stat. 2042, 2044, 2045; Pub. L. 112–56, title II, § 238, Nov. 21, 2011, 125 Stat. 726.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 136(b) of the Workforce Investment Act of 1998, referred to in subsec. (c)(2), was classified to section 2871(b) of Title 29, Labor, prior to repeal by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For corresponding provision, see section 116 of Pub. L. 113–128, which is classified to section 3141 of Title 29.
+Section 136(b) of the Workforce Investment Act of 1998, referred to in subsec. (c)(2), was classified to section 2871(b) of Title 29, Labor, prior to repeal by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For corresponding provision, see section 116 of Pub. L. 113–128, which is classified to section 3141 of Title 29.
 
 **Prior Provisions**
 
-Prior section 4107, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 86–568, title I, § 114(f), July 1, 1960, 74 Stat. 301; Pub. L. 87–793, § 802, Oct. 11, 1962, 76 Stat. 860; Pub. L. 88–426, title I, § 118, Aug. 14, 1964, 78 Stat. 410; Pub. L. 89–301, § 7, Oct. 29, 1965, 79 Stat. 1117; Pub. L. 89–504, title I, § 105, July 18, 1966, 80 Stat. 291; Pub. L. 89–785, title I, § 107(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 90–206, title II, § 208, Dec. 16, 1967, 81 Stat. 631; Pub. L. 91–496, § 2, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, § 203, Aug. 2, 1973, 87 Stat. 188; Pub. L. 94–123, §§ 2(b), 5(d), Oct. 22, 1975, 89 Stat. 669, 675; Pub. L. 94–581, title I, § 110(6), title II, §§ 209(a)(1), (2), (b)(2), (c)(3), 210(c)(4), Oct. 21, 1976, 90 Stat. 2848, 2860, 2861, 2863; Pub. L. 95–201, § 5(a)(1), (2), Nov. 23, 1977, 91 Stat. 1432; Pub. L. 96–22, title V, § 504, June 13, 1979, 93 Stat. 65; Pub. L. 96–330, title I, §§ 105(c), 111, 112, Aug. 26, 1980, 94 Stat. 1036, 1037; Pub. L. 96–385, title V, § 508(a), Oct. 7, 1980, 94 Stat. 1538; Pub. L. 97–251, § 2(a)–(c), Sept. 8, 1982, 96 Stat. 711, 712; Pub. L. 97–295, § 4(82), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–160, title II, § 204, Nov. 21, 1983, 97 Stat. 1001; Pub. L. 98–528, title I, §§ 101(b), 109, Oct. 19, 1984, 98 Stat. 2688, 2691; Pub. L. 99–576, title VII, § 701(87), Oct. 28, 1986, 100 Stat. 3299; Pub. L. 100–322, title II, §§ 211(b), 212(b), 213, 214(a), (b), 217, May 20, 1988, 102 Stat. 514, 516, 530; Pub. L. 100–687, div. B, title XV, § 1506(b)(2), Nov. 18, 1988, 102 Stat. 4136; Pub. L. 101–237, title II, §§ 204, 205(a), Dec. 18, 1989, 103 Stat. 2067; Pub. L. 101–366, title I, §§ 101(c), 102(c), 103, Aug. 15, 1990, 104 Stat. 430, 436, 437, related to grades and pay scales of positions in Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7404, 7426, and 7453 to 7457 of this title.
+Prior section 4107, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 86–568, title I, § 114(f), July 1, 1960, 74 Stat. 301; Pub. L. 87–793, § 802, Oct. 11, 1962, 76 Stat. 860; Pub. L. 88–426, title I, § 118, Aug. 14, 1964, 78 Stat. 410; Pub. L. 89–301, § 7, Oct. 29, 1965, 79 Stat. 1117; Pub. L. 89–504, title I, § 105, July 18, 1966, 80 Stat. 291; Pub. L. 89–785, title I, § 107(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 90–206, title II, § 208, Dec. 16, 1967, 81 Stat. 631; Pub. L. 91–496, § 2, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, § 203, Aug. 2, 1973, 87 Stat. 188; Pub. L. 94–123, §§ 2(b), 5(d), Oct. 22, 1975, 89 Stat. 669, 675; Pub. L. 94–581, title I, § 110(6), title II, §§ 209(a)(1), (2), (b)(2), (c)(3), 210(c)(4), Oct. 21, 1976, 90 Stat. 2848, 2860, 2861, 2863; Pub. L. 95–201, § 5(a)(1), (2), Nov. 23, 1977, 91 Stat. 1432; Pub. L. 96–22, title V, § 504, June 13, 1979, 93 Stat. 65; Pub. L. 96–330, title I, §§ 105(c), 111, 112, Aug. 26, 1980, 94 Stat. 1036, 1037; Pub. L. 96–385, title V, § 508(a), Oct. 7, 1980, 94 Stat. 1538; Pub. L. 97–251, § 2(a)–(c), Sept. 8, 1982, 96 Stat. 711, 712; Pub. L. 97–295, § 4(82), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–160, title II, § 204, Nov. 21, 1983, 97 Stat. 1001; Pub. L. 98–528, title I, §§ 101(b), 109, Oct. 19, 1984, 98 Stat. 2688, 2691; Pub. L. 99–576, title VII, § 701(87), Oct. 28, 1986, 100 Stat. 3299; Pub. L. 100–322, title II, §§ 211(b), 212(b), 213, 214(a), (b), 217, May 20, 1988, 102 Stat. 514, 516, 530; Pub. L. 100–687, div. B, title XV, § 1506(b)(2), Nov. 18, 1988, 102 Stat. 4136; Pub. L. 101–237, title II, §§ 204, 205(a), Dec. 18, 1989, 103 Stat. 2067; Pub. L. 101–366, title I, §§ 101(c), 102(c), 103, Aug. 15, 1990, 104 Stat. 430, 436, 437, related to grades and pay scales of positions in Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7404, 7426, and 7453 to 7457 of this title.
 
 **Amendments**
 
-2011—Subsec. (c)(2). Pub. L. 112–56, § 238(1), substituted “paragraph (1)” for “clause (1)”.
+2011—Subsec. (c)(2). Pub. L. 112–56, § 238(1), substituted “paragraph (1)” for “clause (1)”.
 
-Subsec. (c)(7). Pub. L. 112–56, § 238(2)–(4), added par. (7).
+Subsec. (c)(7). Pub. L. 112–56, § 238(2)–(4), added par. (7).
 
-2002—Subsec. (a)(1). Pub. L. 107–288, § 5(a)(1)(D), substituted “intensive services” for “employment counseling services”.
+2002—Subsec. (a)(1). Pub. L. 107–288, § 5(a)(1)(D), substituted “intensive services” for “employment counseling services”.
 
-Subsec. (b). Pub. L. 107–288, § 5(d)(1)(E), inserted second and third sentences and struck out former second sentence which read as follows: “A full report as to the extent and reasons for any noncompliance by any such State agency during any fiscal year, together with the agency’s plan for corrective action during the succeeding year, shall be included in the annual report of the Secretary required by subsection (c) of this section.”
+Subsec. (b). Pub. L. 107–288, § 5(d)(1)(E), inserted second and third sentences and struck out former second sentence which read as follows: “A full report as to the extent and reasons for any noncompliance by any such State agency during any fiscal year, together with the agency’s plan for corrective action during the succeeding year, shall be included in the annual report of the Secretary required by subsection (c) of this section.”
 
-Pub. L. 107–288, § 4(a)(3)(B), substituted “The Secretary shall apply performance standards established under section 4102A(f) of this title” for “The Secretary shall establish definitive performance standards”.
+Pub. L. 107–288, § 4(a)(3)(B), substituted “The Secretary shall apply performance standards established under section 4102A(f) of this title” for “The Secretary shall establish definitive performance standards”.
 
-Subsec. (c)(1). Pub. L. 107–288, § 5(d)(1)(A), struck out “veterans of the Vietnam era,” before “disabled veterans, special” and substituted “eligible persons, recently separated veterans (as defined in section 4211(6) of this title), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by,” for “and eligible persons who registered for assistance with”.
+Subsec. (c)(1). Pub. L. 107–288, § 5(d)(1)(A), struck out “veterans of the Vietnam era,” before “disabled veterans, special” and substituted “eligible persons, recently separated veterans (as defined in section 4211(6) of this title), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by,” for “and eligible persons who registered for assistance with”.
 
-Pub. L. 107–288, § 5(a)(1)(E), substituted “the number who received intensive services” for “the number counseled”.
+Pub. L. 107–288, § 5(a)(1)(E), substituted “the number who received intensive services” for “the number counseled”.
 
-Subsec. (c)(2). Pub. L. 107–288, § 5(d)(1)(B), substituted “the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998) for each of the categories” for “the job placement rate for each of the categories” and “such rate of entered employment (as so determined) for nonveterans” for “the job placement rate for nonveterans”.
+Subsec. (c)(2). Pub. L. 107–288, § 5(d)(1)(B), substituted “the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998) for each of the categories” for “the job placement rate for each of the categories” and “such rate of entered employment (as so determined) for nonveterans” for “the job placement rate for nonveterans”.
 
-Subsec. (c)(4). Pub. L. 107–288, § 5(d)(1)(C), substituted “section 4212(d)” for “sections 4103A and 4104”.
+Subsec. (c)(4). Pub. L. 107–288, § 5(d)(1)(C), substituted “section 4212(d)” for “sections 4103A and 4104”.
 
-Subsec. (c)(5). Pub. L. 107–288, § 4(e)(1), struck out “(including the need for any changes in the formulas governing the appointment of disabled veterans’ outreach program specialists under section 4103A(a)(2) of this title and the assignment of local veterans’ employment representatives under section 4104(b) of this title and the allocation of funds for the support of such specialists and representatives)” after “further legislative action”.
+Subsec. (c)(5). Pub. L. 107–288, § 4(e)(1), struck out “(including the need for any changes in the formulas governing the appointment of disabled veterans’ outreach program specialists under section 4103A(a)(2) of this title and the assignment of local veterans’ employment representatives under section 4104(b) of this title and the allocation of funds for the support of such specialists and representatives)” after “further legislative action”.
 
-Subsec. (c)(6). Pub. L. 107–288, § 5(d)(1)(D), added par. (6).
+Subsec. (c)(6). Pub. L. 107–288, § 5(d)(1)(D), added par. (6).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2007 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2007 of this title as this section.
 
-Subsec. (c)(3) to (5). Pub. L. 102–83, § 5(c)(1), substituted “4106” for “2006” in par. (3), “4103A and 4104” for “2003A and 2004” in par. (4), and “4102A(b)” for “2002A(b)”, “4103A(a)(2)” for “2003A(a)(2)”, and “4104(b)” for “2004(b)” in par. (5).
+Subsec. (c)(3) to (5). Pub. L. 102–83, § 5(c)(1), substituted “4106” for “2006” in par. (3), “4103A and 4104” for “2003A and 2004” in par. (4), and “4102A(b)” for “2002A(b)”, “4103A(a)(2)” for “2003A(a)(2)”, and “4104(b)” for “2004(b)” in par. (5).
 
-1988—Subsecs. (a), (b). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “Secretary” in four places.
+1988—Subsecs. (a), (b). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “Secretary” in four places.
 
-Subsec. (c). Pub. L. 100–323, § 2(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Labor shall report annually to the Congress on the success of the Department of Labor and its affiliated State employment service agencies in carrying out the provisions of this chapter. The report shall include, by State, specification of the numbers of eligible veterans, veterans of the Vietnam era, disabled veterans, special disabled veterans, and eligible persons who registered for assistance with the public employment service system and, of each of such categories, the number referred to jobs, the number placed in permanent jobs as defined by the Secretary, the number referred to and the number placed in employment and job training programs supported by the Federal Government, the number counseled, and the number who received some reportable service. The report shall also include any determination by the Secretary under section 2004, 2006, or 2007(a) of this title and a statement of the reasons for such determination. The report shall also include a report on activities carried out under section 2003A of this title.”
+Subsec. (c). Pub. L. 100–323, § 2(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Labor shall report annually to the Congress on the success of the Department of Labor and its affiliated State employment service agencies in carrying out the provisions of this chapter. The report shall include, by State, specification of the numbers of eligible veterans, veterans of the Vietnam era, disabled veterans, special disabled veterans, and eligible persons who registered for assistance with the public employment service system and, of each of such categories, the number referred to jobs, the number placed in permanent jobs as defined by the Secretary, the number referred to and the number placed in employment and job training programs supported by the Federal Government, the number counseled, and the number who received some reportable service. The report shall also include any determination by the Secretary under section 2004, 2006, or 2007(a) of this title and a statement of the reasons for such determination. The report shall also include a report on activities carried out under section 2003A of this title.”
 
 1982—Subsec. (c). Pub. L. 97–306 inserted provision that the report shall also include a report on activities carried out under section 2003A of this title.
 
-1980—Subsec. (a)(1). Pub. L. 96–466, § 507(1), substituted “veterans of the Vietnam era and disabled veterans” for “those veterans who have been recently discharged or released from active duty”.
+1980—Subsec. (a)(1). Pub. L. 96–466, § 507(1), substituted “veterans of the Vietnam era and disabled veterans” for “those veterans who have been recently discharged or released from active duty”.
 
-Subsec. (c). Pub. L. 96–466, § 507(2), substituted provisions that the report include, by State, specification of the numbers of eligible veterans, veterans of the Vietnam era, disabled veterans, special disabled veterans, and eligible persons who registered for assistance with the public employment service system and, of each of such categories, the number referred to jobs, the number placed in permanent jobs, the number referred to and the number placed in employment and job training programs supported by the Federal Government, the number counseled, and the number who received some reportable service for provisions that the report include, by State, the number of recently discharged or released eligible veterans, veterans with service-connected disabilities, other eligible veterans, and eligible persons who requested assistance through the public employment service and, of these, the number placed in suitable employment or job training opportunities or who were otherwise assisted, with separate reference to occupational training and public service employment under appropriate Federal law.
+Subsec. (c). Pub. L. 96–466, § 507(2), substituted provisions that the report include, by State, specification of the numbers of eligible veterans, veterans of the Vietnam era, disabled veterans, special disabled veterans, and eligible persons who registered for assistance with the public employment service system and, of each of such categories, the number referred to jobs, the number placed in permanent jobs, the number referred to and the number placed in employment and job training programs supported by the Federal Government, the number counseled, and the number who received some reportable service for provisions that the report include, by State, the number of recently discharged or released eligible veterans, veterans with service-connected disabilities, other eligible veterans, and eligible persons who requested assistance through the public employment service and, of these, the number placed in suitable employment or job training opportunities or who were otherwise assisted, with separate reference to occupational training and public service employment under appropriate Federal law.
 
 1977—Subsec. (c). Pub. L. 95–202 directed that “2004” be substituted for “2001”. Since subsec. (c) already contained a reference to “2004” not “2001”, the amendment has been carried as a reenactment of subsec. (c) without change.
 
-1976—Subsec. (a)(1). Pub. L. 94–502, § 604(1), substituted “such veteran’s and eligible person’s” for “his”.
+1976—Subsec. (a)(1). Pub. L. 94–502, § 604(1), substituted “such veteran’s and eligible person’s” for “his”.
 
-Subsec. (c). Pub. L. 94–502, § 604(2), (3), substituted “occupational training and public service employment” for “occupational training” and “section 2004, 2006, or 2007(a)” for “section 2004 or 2006”.
+Subsec. (c). Pub. L. 94–502, § 604(2), (3), substituted “occupational training and public service employment” for “occupational training” and “section 2004, 2006, or 2007(a)” for “section 2004 or 2006”.
 
-1974—Subsec. (a)(1). Pub. L. 93–508, § 401(f)(1), substituted “active duty and each eligible person” for “active duty”.
+1974—Subsec. (a)(1). Pub. L. 93–508, § 401(f)(1), substituted “active duty and each eligible person” for “active duty”.
 
-Subsec. (b). Pub. L. 93–508, § 401(f)(2), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsec. (b). Pub. L. 93–508, § 401(f)(2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-Subsec. (c). Pub. L. 93–508, § 401(f)(2), (3), redesignated former subsec. (b) as (c) and substituted “other eligible veterans, and eligible persons” for “and other eligible veterans”.
+Subsec. (c). Pub. L. 93–508, § 401(f)(2), (3), redesignated former subsec. (b) as (c) and substituted “other eligible veterans, and eligible persons” for “and other eligible veterans”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1617,7 +1617,7 @@ Subsec. (c). Pub. L. 93–508, § 401(f)(2), (3), redesignated former subsec. 
 
 Amendment by section 4(a)(3)(B) of Pub. L. 107–288 effective Nov. 7, 2002, and applicable for program and fiscal years under this chapter beginning on or after such date, see section 4(a)(4) of Pub. L. 107–288, set out as a note under section 4102A of this title.
 
-Pub. L. 107–288, § 5(d)(2), Nov. 7, 2002, 116 Stat. 2046, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to reports for program years beginning on or after July 1, 2003.”
+Pub. L. 107–288, § 5(d)(2), Nov. 7, 2002, 116 Stat. 2046, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to reports for program years beginning on or after July 1, 2003.”
 
 **Effective Date of 1980 Amendment**
 
@@ -1641,21 +1641,21 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 **Publication of Labor-Market Statistics Relating to Veterans Who Served in Vietnam Theatre of Operations**
 
-Pub. L. 96–466, title V, § 513, Oct. 17, 1980, 94 Stat. 2207, provided that:
+Pub. L. 96–466, title V, § 513, Oct. 17, 1980, 94 Stat. 2207, provided that:
 
 > **“(a)** When the Commissioner of the Bureau of Labor Statistics publishes annual labor-market statistics relating specifically to veterans who served in the Armed Forces during the Vietnam era, the Commissioner shall also publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations. When the Commissioner of the Bureau of Labor Statistics publishes labor-market statistics which relate specifically to veterans who served in the Armed Forces during the Vietnam era in addition to those statistics published on an annual basis to which the preceding sentence applies, the Commissioner shall also, if feasible, publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations.
 
 > **“(b)** For the purposes of this section, veterans who during the Vietnam era served in Vietnam, in air missions over Vietnam, or in naval missions in the waters adjacent to Vietnam shall be considered to be veterans who served in the Vietnam theatre of operations.”
 
-[Pub. L. 96–466, title VIII, § 802(e), Oct. 17, 1980, 94 Stat. 2218, provided in part that the provisions of section 513 of Pub. L. 96–466, set out above, shall become effective on Oct. 1, 1980.]
+[Pub. L. 96–466, title VIII, § 802(e), Oct. 17, 1980, 94 Stat. 2218, provided in part that the provisions of section 513 of Pub. L. 96–466, set out above, shall become effective on Oct. 1, 1980.]
 
-## § 4108. Cooperation and coordination
+## § 4108. Cooperation and coordination
 
 **(a)** In carrying out the Secretary’s responsibilities under this chapter, the Secretary shall from time to time consult with the Secretary of Veterans Affairs and keep the Secretary of Veterans Affairs fully advised of activities carried out and all data gathered pursuant to this chapter to insure maximum cooperation and coordination between the Department of Labor and the Department of Veterans Affairs.
 
 **(b)** The Secretary of Veterans Affairs shall provide to appropriate employment service offices and Department of Labor offices, as designated by the Secretary, on a monthly or more frequent basis, the name and address of each employer located in the areas served by such offices that offer a program of job training which has been approved by the Secretary of Veterans Affairs under section 7 of the Veterans’ Job Training Act (29 U.S.C. 1721 note).
 
-(Added Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1097, § 2008; amended Pub. L. 94–502, title VI, § 606(4), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §§ 6(b)(1), (2)(A), 15(a)(2), May 20, 1988, 102 Stat. 564, 574; Pub. L. 101–237, title IV, § 423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4108, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 92–540, title V, § 502(a), Oct. 24, 1972, 86 Stat. 1097, § 2008; amended Pub. L. 94–502, title VI, § 606(4), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §§ 6(b)(1), (2)(A), 15(a)(2), May 20, 1988, 102 Stat. 564, 574; Pub. L. 101–237, title IV, § 423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered § 4108, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1665,9 +1665,9 @@ Section 7 of the Veterans’ Job Training Act, referred to in subsec. (b), is se
 
 **Prior Provisions**
 
-Prior section 4108, added Pub. L. 93–82, title II, § 204(a), Aug. 2, 1973, 87 Stat. 190; amended Pub. L. 94–123, § 5(e), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(7), title II, §§ 205(f), 209(a)(1), (2), (c)(4), 210(c)(5), Oct. 21, 1976, 90 Stat. 2849, 2859, 2860, 2862, 2864; Pub. L. 96–22, title V, § 501, June 13, 1979, 93 Stat. 64; Pub. L. 96–330, title I, § 113(a), Aug. 26, 1980, 94 Stat. 1038; Pub. L. 97–295, § 4(83), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 101–237, title II, § 206(a), Dec. 18, 1989, 103 Stat. 2067, related to personnel administration, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7402, 7421, 7423, and 7424 of this title.
+Prior section 4108, added Pub. L. 93–82, title II, § 204(a), Aug. 2, 1973, 87 Stat. 190; amended Pub. L. 94–123, § 5(e), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, § 110(7), title II, §§ 205(f), 209(a)(1), (2), (c)(4), 210(c)(5), Oct. 21, 1976, 90 Stat. 2849, 2859, 2860, 2862, 2864; Pub. L. 96–22, title V, § 501, June 13, 1979, 93 Stat. 64; Pub. L. 96–330, title I, § 113(a), Aug. 26, 1980, 94 Stat. 1038; Pub. L. 97–295, § 4(83), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 101–237, title II, § 206(a), Dec. 18, 1989, 103 Stat. 2067, related to personnel administration, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7402, 7421, 7423, and 7424 of this title.
 
-Another prior section 4108, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 86–568, title I, § 114(g), July 1, 1960, 74 Stat. 301; Pub. L. 87–574, § 3, Aug. 6, 1962, 76 Stat. 308; Pub. L. 87–793, § 803(a), Oct. 11, 1962, 76 Stat. 860, related to administration, prior to repeal by section 204(a) of Pub. L. 93–82.
+Another prior section 4108, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 86–568, title I, § 114(g), July 1, 1960, 74 Stat. 301; Pub. L. 87–574, § 3, Aug. 6, 1962, 76 Stat. 308; Pub. L. 87–793, § 803(a), Oct. 11, 1962, 76 Stat. 860, related to administration, prior to repeal by section 204(a) of Pub. L. 93–82.
 
 **Amendments**
 
@@ -1675,13 +1675,13 @@ Another prior section 4108, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub.
 
 1989—Pub. L. 101–237 substituted “Secretary of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1988—Pub. L. 100–323, § 6(b)(2)(A), struck out “with the Veterans’ Administration” after “Cooperation and coordination” in section catchline.
+1988—Pub. L. 100–323, § 6(b)(2)(A), struck out “with the Veterans’ Administration” after “Cooperation and coordination” in section catchline.
 
-Subsec. (a). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “Secretary”.
+Subsec. (a). Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “Secretary”.
 
-Pub. L. 100–323, § 6(b)(1)(A), designated existing provisions as subsec. (a).
+Pub. L. 100–323, § 6(b)(1)(A), designated existing provisions as subsec. (a).
 
-Subsec. (b). Pub. L. 100–323, § 6(b)(1)(B), added subsec. (b).
+Subsec. (b). Pub. L. 100–323, § 6(b)(1)(B), added subsec. (b).
 
 1976—Pub. L. 94–502 substituted “the Secretary’s” for “his” and “the Administrator fully advised” for “him fully advised”.
 
@@ -1699,7 +1699,7 @@ Amendment by Pub. L. 94–502 effective Dec. 1, 1976, see section 703(c) of Pub.
 
 Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 4101 of this title.
 
-## § 4109. National Veterans’ Employment and Training Services Institute
+## § 4109. National Veterans’ Employment and Training Services Institute
 
 **(a)** In order to provide for such training as the Secretary considers necessary and appropriate for the efficient and effective provision of employment, job-training, intensive services, placement, job-search, and related services to veterans, the Secretary shall establish and make available such funds as may be necessary to operate a National Veterans’ Employment and Training Services Institute for the training of disabled veterans’ outreach program specialists, local veterans’ employment representatives, Directors for Veterans’ Employment and Training, and Assistant Directors for Veterans’ Employment and Training, Regional Administrators for Veterans’ Employment and Training, and such other personnel involved in the provision of employment, job-training, intensive services, placement, or related services to veterans as the Secretary considers appropriate, including travel expenses and per diem for attendance at the Institute.
 
@@ -1717,21 +1717,21 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 **(2)** The results of such final examination shall be provided to the entity that sponsored the specialist or representative who received the training.
 
-(Added Pub. L. 97–306, title III, § 308(a), Oct. 14, 1982, 96 Stat. 1440, § 2009; amended Pub. L. 100–323, § 8(a), May 20, 1988, 102 Stat. 566; renumbered § 4109, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, § 5(a)(1)(F), (e), Nov. 7, 2002, 116 Stat. 2044, 2046; Pub. L. 112–56, title II, § 240(a), Nov. 21, 2011, 125 Stat. 727.)
+(Added Pub. L. 97–306, title III, § 308(a), Oct. 14, 1982, 96 Stat. 1440, § 2009; amended Pub. L. 100–323, § 8(a), May 20, 1988, 102 Stat. 566; renumbered § 4109, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, § 5(a)(1)(F), (e), Nov. 7, 2002, 116 Stat. 2044, 2046; Pub. L. 112–56, title II, § 240(a), Nov. 21, 2011, 125 Stat. 727.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 4109, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 93–82, title II, § 205(a), Aug. 2, 1973, 87 Stat. 192; Pub. L. 96–330, title I, § 114, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 96–385, title V, § 508(b), Oct. 7, 1980, 94 Stat. 1538; Pub. L. 97–72, title IV, § 402(a), Nov. 3, 1981, 95 Stat. 1062; Pub. L. 97–295, § 4(84), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–272, title XV, § 15204(b), Apr. 7, 1986, 100 Stat. 335; Pub. L. 99–509, title VII, § 7003(a), Oct. 21, 1986, 100 Stat. 1949, related to retirement rights, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7426 of this title.
+Prior section 4109, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 93–82, title II, § 205(a), Aug. 2, 1973, 87 Stat. 192; Pub. L. 96–330, title I, § 114, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 96–385, title V, § 508(b), Oct. 7, 1980, 94 Stat. 1538; Pub. L. 97–72, title IV, § 402(a), Nov. 3, 1981, 95 Stat. 1062; Pub. L. 97–295, § 4(84), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–272, title XV, § 15204(b), Apr. 7, 1986, 100 Stat. 335; Pub. L. 99–509, title VII, § 7003(a), Oct. 21, 1986, 100 Stat. 1949, related to retirement rights, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7426 of this title.
 
 **Amendments**
 
 2011—Subsec. (d). Pub. L. 112–56 added subsec. (d).
 
-2002—Subsec. (a). Pub. L. 107–288, § 5(a)(1)(F), substituted “intensive services,” for “counseling,” in two places.
+2002—Subsec. (a). Pub. L. 107–288, § 5(a)(1)(F), substituted “intensive services,” for “counseling,” in two places.
 
-Subsec. (c). Pub. L. 107–288, § 5(e), added subsec. (c).
+Subsec. (c). Pub. L. 107–288, § 5(e), added subsec. (c).
 
 1991—Pub. L. 102–83 renumbered section 2009 of this title as this section.
 
@@ -1741,13 +1741,13 @@ Subsec. (c). Pub. L. 107–288, § 5(e), added subsec. (c).
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–56, title II, § 240(b), Nov. 21, 2011, 125 Stat. 727, provided that: “Subsection (d) of section 4109 of title 38, United States Code, as added by subsection (a), shall apply with respect to training provided by the National Veterans’ Employment and Training Services Institute that begins on or after the date that is 180 days after the date of the enactment of this Act [Nov. 21, 2011].”
+Pub. L. 112–56, title II, § 240(b), Nov. 21, 2011, 125 Stat. 727, provided that: “Subsection (d) of section 4109 of title 38, United States Code, as added by subsection (a), shall apply with respect to training provided by the National Veterans’ Employment and Training Services Institute that begins on or after the date that is 180 days after the date of the enactment of this Act [Nov. 21, 2011].”
 
 **Effective Date of 1988 Amendment**
 
 Amendment by Pub. L. 100–323 effective on 60th day after May 20, 1988, see section 16(b)(2) of Pub. L. 100–323, set out as a note under section 3104 of this title.
 
-## § 4110. Advisory Committee on Veterans Employment, Training, and Employer Outreach
+## § 4110. Advisory Committee on Veterans Employment, Training, and Employer Outreach
 
 **(a)**
 
@@ -1843,25 +1843,25 @@ Amendment by Pub. L. 100–323 effective on 60th day after May 20, 1988, see sec
 
 **(h)** The advisory committee shall continue until terminated by law.
 
-(Added Pub. L. 97–306, title III, § 308(a), Oct. 14, 1982, 96 Stat. 1441, § 2010; amended Pub. L. 100–323, §§ 10, 15(a)(2), (3), (b)(1), May 20, 1988, 102 Stat. 566, 574; Pub. L. 101–237, title IV, § 423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, § 8(a), Mar. 22, 1991, 105 Stat. 52; renumbered § 4110 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title V, § 504, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title XII, § 1201(a)(5), (g)(3), (i)(7), Nov. 2, 1994, 108 Stat. 4682, 4687, 4688; Pub. L. 109–233, title II, § 202(a)(1), (2), (b)–(d), June 15, 2006, 120 Stat. 403, 404; Pub. L. 109–461, title VI, § 604(b), Dec. 22, 2006, 120 Stat. 3439; Pub. L. 110–387, title IX, § 901(a)(4), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 97–306, title III, § 308(a), Oct. 14, 1982, 96 Stat. 1441, § 2010; amended Pub. L. 100–323, §§ 10, 15(a)(2), (3), (b)(1), May 20, 1988, 102 Stat. 566, 574; Pub. L. 101–237, title IV, § 423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, § 8(a), Mar. 22, 1991, 105 Stat. 52; renumbered § 4110 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title V, § 504, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title XII, § 1201(a)(5), (g)(3), (i)(7), Nov. 2, 1994, 108 Stat. 4682, 4687, 4688; Pub. L. 109–233, title II, § 202(a)(1), (2), (b)–(d), June 15, 2006, 120 Stat. 403, 404; Pub. L. 109–461, title VI, § 604(b), Dec. 22, 2006, 120 Stat. 3439; Pub. L. 110–387, title IX, § 901(a)(4), Oct. 10, 2008, 122 Stat. 4142.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 4110, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 88–207, Dec. 17, 1963, 77 Stat. 402; Pub. L. 98–160, title II, § 205, Nov. 21, 1983, 97 Stat. 1001; Pub. L. 99–576, title VII, § 701(88), Oct. 28, 1986, 100 Stat. 3299, related to disciplinary boards, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7464 of this title.
+Prior section 4110, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 88–207, Dec. 17, 1963, 77 Stat. 402; Pub. L. 98–160, title II, § 205, Nov. 21, 1983, 97 Stat. 1001; Pub. L. 99–576, title VII, § 701(88), Oct. 28, 1986, 100 Stat. 3299, related to disciplinary boards, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7464 of this title.
 
 **Amendments**
 
 2008—Subsec. (c)(1). Pub. L. 110–387 substituted “16” for “15” in introductory provisions.
 
-2006—Pub. L. 109–233, § 202(a)(2), amended section catchline generally, substituting “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training”.
+2006—Pub. L. 109–233, § 202(a)(2), amended section catchline generally, substituting “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training”.
 
-Subsec. (a)(1). Pub. L. 109–233, § 202(a)(1), substituted “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training”.
+Subsec. (a)(1). Pub. L. 109–233, § 202(a)(1), substituted “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training”.
 
-Subsec. (a)(2). Pub. L. 109–233, § 202(b), inserted “and their integration into the workforce” after “veterans” in subpar. (A), added subpars. (C) and (D), and redesignated former subpar. (C) as (E).
+Subsec. (a)(2). Pub. L. 109–233, § 202(b), inserted “and their integration into the workforce” after “veterans” in subpar. (A), added subpars. (C) and (D), and redesignated former subpar. (C) as (E).
 
-Subsec. (c)(1). Pub. L. 109–233, § 202(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary of Labor shall appoint at least 12, but no more than 18, individuals to serve as members of the advisory committee consisting of—
+Subsec. (c)(1). Pub. L. 109–233, § 202(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary of Labor shall appoint at least 12, but no more than 18, individuals to serve as members of the advisory committee consisting of—
 
 “(A) representatives nominated by veterans’ organizations that have a national employment program; and
 
@@ -1869,43 +1869,43 @@ Subsec. (c)(1). Pub. L. 109–233, § 202(c)(1), amended par. (1) generally. P
 
 Subsec. (c)(1)(A). Pub. L. 109–461 substituted “Seven” for “Six” in introductory provisions and added cl. (vii).
 
-Subsec. (d)(3) to (12). Pub. L. 109–233, § 202(c)(2), struck out pars. (3), (4), (8), and (10) to (12) which related to certain ex officio, nonvoting members of the advisory committee and redesignated pars. (5) to (7) and (9) as (3) to (6), respectively.
+Subsec. (d)(3) to (12). Pub. L. 109–233, § 202(c)(2), struck out pars. (3), (4), (8), and (10) to (12) which related to certain ex officio, nonvoting members of the advisory committee and redesignated pars. (5) to (7) and (9) as (3) to (6), respectively.
 
-Subsec. (f)(1). Pub. L. 109–233, § 202(d)(1), substituted first sentence for former first sentence which read “Not later than July 1 of each year, the advisory committee shall submit to the Secretary of Labor a report on the employment and training needs of veterans.”
+Subsec. (f)(1). Pub. L. 109–233, § 202(d)(1), substituted first sentence for former first sentence which read “Not later than July 1 of each year, the advisory committee shall submit to the Secretary of Labor a report on the employment and training needs of veterans.”
 
-Subsec. (f)(1)(A). Pub. L. 109–233, § 202(d)(2), inserted “and their integration into the workforce” after “veterans”.
+Subsec. (f)(1)(A). Pub. L. 109–233, § 202(d)(2), inserted “and their integration into the workforce” after “veterans”.
 
-Subsec. (f)(1)(B) to (F). Pub. L. 109–233, § 202(d)(3)–(6), added subpars. (B), (D), and (E), and redesignated former subpars. (B) and (C) as (C) and (F), respectively.
+Subsec. (f)(1)(B) to (F). Pub. L. 109–233, § 202(d)(3)–(6), added subpars. (B), (D), and (E), and redesignated former subpars. (B) and (C) as (C) and (F), respectively.
 
-1994—Subsec. (c)(1). Pub. L. 103–446, § 1201(g)(3), substituted “shall appoint” for “shall, within 90 days after the date of the enactment of this section, appoint”.
+1994—Subsec. (c)(1). Pub. L. 103–446, § 1201(g)(3), substituted “shall appoint” for “shall, within 90 days after the date of the enactment of this section, appoint”.
 
-Subsec. (d)(9). Pub. L. 103–446, § 1201(a)(5), substituted “Administrator of the Small Business Administration” for “Secretary of the Small Business Administration”.
+Subsec. (d)(9). Pub. L. 103–446, § 1201(a)(5), substituted “Administrator of the Small Business Administration” for “Secretary of the Small Business Administration”.
 
-Subsec. (e)(3)(B). Pub. L. 103–446, § 1201(i)(7), struck out “, United States Code,” after “title 5” and substituted “the advisory committee” for “the Board”.
+Subsec. (e)(3)(B). Pub. L. 103–446, § 1201(i)(7), struck out “, United States Code,” after “title 5” and substituted “the advisory committee” for “the Board”.
 
 1992—Subsec. (c)(1)(A). Pub. L. 102–568 struck out “are chartered by Federal law and” after “that”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 2010 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 2010 of this title as this section.
 
 Pub. L. 102–16 amended section generally, substituting present catchline and text consisting of subsecs. (a) to (h) for former catchline which read “Secretary of Labor’s Committee on Veterans’ Employment” and former text consisting of subsecs. (a) to (c).
 
-Subsec. (d)(9). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d)(9). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1989—Subsec. (b)(1)(A). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-1988—Subsec. (b). Pub. L. 100–323, § 15(b)(1), inserted “and Training” after “for Veterans’ Employment”.
+1988—Subsec. (b). Pub. L. 100–323, § 15(b)(1), inserted “and Training” after “for Veterans’ Employment”.
 
-Pub. L. 100–323, § 15(a)(3), substituted “Notwithstanding section 2002A(b) of this title, the” for “The”.
+Pub. L. 100–323, § 15(a)(3), substituted “Notwithstanding section 2002A(b) of this title, the” for “The”.
 
-Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “Secretary” in first sentence.
+Pub. L. 100–323, § 15(a)(2), struck out “of Labor” after “Secretary” in first sentence.
 
-Subsec. (b)(1)(D) to (I). Pub. L. 100–323, § 10, added subpars. (D), (H), and (I) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+Subsec. (b)(1)(D) to (I). Pub. L. 100–323, § 10, added subpars. (D), (H), and (I) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 109–233, title II, § 202(a)(4), June 15, 2006, 120 Stat. 403, provided that: “Any reference to the Advisory Committee established under section 4110 of such title [this title] in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Advisory Committee on Veterans Employment, Training, and Employer Outreach.”
+Pub. L. 109–233, title II, § 202(a)(4), June 15, 2006, 120 Stat. 403, provided that: “Any reference to the Advisory Committee established under section 4110 of such title [this title] in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Advisory Committee on Veterans Employment, Training, and Employer Outreach.”
 
 **Effective Date of 1988 Amendment**
 
@@ -1919,7 +1919,7 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (g) 
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 4110A. Special unemployment study
+## § 4110A. Special unemployment study
 
 **(a)**
 
@@ -1949,13 +1949,13 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(2)** The term “Post 9/11 Global Operations theaters” means Afghanistan, Iraq, or any other theater in which the Global War on Terrorism Expeditionary Medal is awarded for service.
 
-(Added Pub. L. 100–323, § 9(a), May 20, 1988, 102 Stat. 566, § 2010A; renumbered § 4110A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 103–446, title VII, § 701(c), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–368, title X, § 1005(b)(14), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 110–389, title III, § 317, Oct. 10, 2008, 122 Stat. 4167.)
+(Added Pub. L. 100–323, § 9(a), May 20, 1988, 102 Stat. 566, § 2010A; renumbered § 4110A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 103–446, title VII, § 701(c), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–368, title X, § 1005(b)(14), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 110–389, title III, § 317, Oct. 10, 2008, 122 Stat. 4167.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–389, § 317(a), substituted “an annual study” for “a study every two years” in introductory provisions, added subpars. (A) to (G), and struck out former subpars. (A) to (E) which read as follows:
+2008—Subsec. (a)(1). Pub. L. 110–389, § 317(a), substituted “an annual study” for “a study every two years” in introductory provisions, added subpars. (A) to (G), and struck out former subpars. (A) to (E) which read as follows:
 
 “(A) Special disabled veterans.
 
@@ -1967,9 +1967,9 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 “(E) Veterans discharged or released from active duty within four years of the applicable study.”
 
-Subsec. (c). Pub. L. 110–389, § 317(b), added subsec. (c).
+Subsec. (c). Pub. L. 110–389, § 317(b), added subsec. (c).
 
-1998—Subsec. (a)(3). Pub. L. 105–368, § 1005(b)(14)(B), redesignated par. (3) as subsec. (b).
+1998—Subsec. (a)(3). Pub. L. 105–368, § 1005(b)(14)(B), redesignated par. (3) as subsec. (b).
 
 Subsec. (b). Pub. L. 105–368 redesignated subsec. (a)(3) as (b), substituted “subsection (a)” for “paragraph (1)”, and struck out former subsec. (b) which read as follows: “The first study under this section shall be completed not later than 180 days after the date of the enactment of this section.”
 
@@ -1987,17 +1987,17 @@ Section effective on 60th day after May 20, 1988, see section 16(b)(2) of Pub. L
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (b) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 125 of House Document No. 103–7.
 
-## § 4110B. Coordination and nonduplication
+## § 4110B. Coordination and nonduplication
 
 In carrying out this chapter, the Secretary shall require that an appropriate administrative entity in each State enter into an agreement with the Secretary regarding the implementation of the Workforce Innovation and Opportunity Act that includes the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act and a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act.
 
-(Added Pub. L. 105–220, title III, § 322, Aug. 7, 1998, 112 Stat. 1087; amended Pub. L. 109–233, title V, § 503(13), June 15, 2006, 120 Stat. 417; Pub. L. 113–128, title V, § 512(gg)(4), July 22, 2014, 128 Stat. 1719.)
+(Added Pub. L. 105–220, title III, § 322, Aug. 7, 1998, 112 Stat. 1087; amended Pub. L. 109–233, title V, § 503(13), June 15, 2006, 120 Stat. 417; Pub. L. 113–128, title V, § 512(gg)(4), July 22, 2014, 128 Stat. 1719.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Sections 101(d)(3)(F), 102(b)(2)(B)(ii), and 103(b)(3)(A) of the Act are classified to sections 3111(d)(3)(F), 3112(b)(2)(B)(ii), and 3113(b)(3)(A), respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Sections 101(d)(3)(F), 102(b)(2)(B)(ii), and 103(b)(3)(A) of the Act are classified to sections 3111(d)(3)(F), 3112(b)(2)(B)(ii), and 3113(b)(3)(A), respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Amendments**
 
@@ -2011,17 +2011,17 @@ The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 11
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
-## [§ 4111. Repealed. Pub. L. 107–95, § 5(e)(3), Dec. 21, 2001, 115 Stat. 918]
+## [§ 4111. Repealed. Pub. L. 107–95, § 5(e)(3), Dec. 21, 2001, 115 Stat. 918]
 
-Section, added Pub. L. 106–117, title IX, § 901(a), Nov. 30, 1999, 113 Stat. 1586, related to homeless veterans’ reintegration programs.
+Section, added Pub. L. 106–117, title IX, § 901(a), Nov. 30, 1999, 113 Stat. 1586, related to homeless veterans’ reintegration programs.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 4111, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–793, § 804, Oct. 11, 1962, 76 Stat. 861; Pub. L. 89–785, title I, § 108, Nov. 7, 1966, 80 Stat. 1370; Pub. L. 98–160, title II, § 206, Nov. 21, 1983, 97 Stat. 1001, related to appointment of additional employees, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7408 of this title.
+Prior section 4111, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–793, § 804, Oct. 11, 1962, 76 Stat. 861; Pub. L. 89–785, title I, § 108, Nov. 7, 1966, 80 Stat. 1370; Pub. L. 98–160, title II, § 206, Nov. 21, 1983, 97 Stat. 1001, related to appointment of additional employees, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7408 of this title.
 
-## § 4112. Performance incentive awards for quality employment, training, and placement services
+## § 4112. Performance incentive awards for quality employment, training, and placement services
 
 **(a) Criteria for Performance Incentive Awards.—**
 
@@ -2031,9 +2031,9 @@ Prior section 4111, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87�
 
 **(B)** recognize eligible employees and employment service offices for excellence in the provision of such services or for having made demonstrable improvements in the provision of such services.
 
-**(2)** The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 1
+**(2)** The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 consistent with the performance measures established under section 4102A(b)(7) of this title.
 
@@ -2053,31 +2053,31 @@ consistent with the performance measures established under section 4102A(b)(7) o
 
 **(2)** A local veterans’ employment representative.
 
-**(3)** An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 <sup>1</sup> or through an employment service delivery system (as defined in section 4101(7) of this title).
+**(3)** An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 <sup>1</sup> or through an employment service delivery system (as defined in section 4101(7) of this title).
 
-(Added Pub. L. 107–288, § 3(a), Nov. 7, 2002, 116 Stat. 2037; amended Pub. L. 109–461, title VI, § 603, Dec. 22, 2006, 120 Stat. 3437.)
+(Added Pub. L. 107–288, § 3(a), Nov. 7, 2002, 116 Stat. 2037; amended Pub. L. 109–461, title VI, § 603, Dec. 22, 2006, 120 Stat. 3437.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 4112, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, § 109(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 93–82, title II, § 205(b), Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, § 110(8), title II, §§ 209(b)(3), 210(c)(6), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 96–151, title III, § 305, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 96–330, title I, § 115, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 98–223, title II, § 209, Mar. 2, 1984, 98 Stat. 44; Pub. L. 100–322, title II, § 224, May 20, 1988, 102 Stat. 532, related to special medical advisory group and other advisory bodies, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7312 and 7313 of this title.
+A prior section 4112, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, § 109(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 93–82, title II, § 205(b), Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, § 110(8), title II, §§ 209(b)(3), 210(c)(6), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 96–151, title III, § 305, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 96–330, title I, § 115, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 98–223, title II, § 209, Mar. 2, 1984, 98 Stat. 44; Pub. L. 100–322, title II, § 224, May 20, 1988, 102 Stat. 532, related to special medical advisory group and other advisory bodies, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7312 and 7313 of this title.
 
 **Amendments**
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–461, § 603(a)(1), inserted “and employment service offices” after “recognize eligible employees”.
+2006—Subsec. (a)(1)(B). Pub. L. 109–461, § 603(a)(1), inserted “and employment service offices” after “recognize eligible employees”.
 
-Subsec. (c). Pub. L. 109–461, § 603(b), substituted “Administration and Use of Awards” for “Relationship of Award to Grant Program and Employee Compensation” as heading.
+Subsec. (c). Pub. L. 109–461, § 603(b), substituted “Administration and Use of Awards” for “Relationship of Award to Grant Program and Employee Compensation” as heading.
 
-Subsec. (c)(2). Pub. L. 109–461, § 603(a)(2)(B)(i), substituted “in the case of such an award made to an eligible employee, shall be” for “is”.
+Subsec. (c)(2). Pub. L. 109–461, § 603(a)(2)(B)(i), substituted “in the case of such an award made to an eligible employee, shall be” for “is”.
 
-Subsec. (c)(3). Pub. L. 109–461, § 603(a)(2)(A), (B)(ii), (C), added par. (3).
+Subsec. (c)(3). Pub. L. 109–461, § 603(a)(2)(A), (B)(ii), (C), added par. (3).
 
-## § 4113. Transition Assistance Program personnel
+## § 4113. Transition Assistance Program personnel
 
 **(a) Requirement to Contract.—** In accordance with section 1144 of title 10, the Secretary shall enter into a contract with an appropriate private entity or entities to provide the functions described in subsection (b) at all locations where the program described in such section is carried out.
 
@@ -2093,13 +2093,13 @@ Subsec. (c)(3). Pub. L. 109–461, § 603(a)(2)(A), (B)(ii), (C), added par. (
 
 **(5)** Such other services as the Secretary considers appropriate.
 
-(Added Pub. L. 108–183, title III, § 309(a)(1), Dec. 16, 2003, 117 Stat. 2663; amended Pub. L. 109–233, title IV, § 402(e)(2), June 15, 2006, 120 Stat. 411; Pub. L. 112–56, title II, § 223(a)(1), Nov. 21, 2011, 125 Stat. 717.)
+(Added Pub. L. 108–183, title III, § 309(a)(1), Dec. 16, 2003, 117 Stat. 2663; amended Pub. L. 109–233, title IV, § 402(e)(2), June 15, 2006, 120 Stat. 411; Pub. L. 112–56, title II, § 223(a)(1), Nov. 21, 2011, 125 Stat. 717.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4113, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, § 110, Nov. 7, 1966, 80 Stat. 1371; Pub. L. 94–581, title I, § 110(9), title II, § 209(a)(5), (c)(5), Oct. 21, 1976, 90 Stat. 2849, 2860, 2862, related to travel expenses of employees prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7424 of this title.
+A prior section 4113, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, § 110, Nov. 7, 1966, 80 Stat. 1371; Pub. L. 94–581, title I, § 110(9), title II, § 209(a)(5), (c)(5), Oct. 21, 1976, 90 Stat. 2849, 2860, 2862, related to travel expenses of employees prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7424 of this title.
 
 **Amendments**
 
@@ -2111,11 +2111,11 @@ A prior section 4113, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89
 
 **Deadline for Implementation**
 
-Pub. L. 112–56, title II, § 223(b), Nov. 21, 2011, 125 Stat. 718, provided that: “The Secretary of Labor shall enter into the contract required by section 4113 of title 38, United States Code, as added by subsection (a), not later than two years after the date of the enactment of this Act [Nov. 21, 2011].”
+Pub. L. 112–56, title II, § 223(b), Nov. 21, 2011, 125 Stat. 718, provided that: “The Secretary of Labor shall enter into the contract required by section 4113 of title 38, United States Code, as added by subsection (a), not later than two years after the date of the enactment of this Act [Nov. 21, 2011].”
 
-Pub. L. 108–183, title III, § 309(b), Dec. 16, 2003, 117 Stat. 2663, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 16, 2003], the Secretary of Labor shall implement section 4113 of title 38, United States Code, as added by subsection (a), and shall have employees of the Veterans’ Employment and Training Service, or contractors, to carry out that section at the military installations involved by such date.”
+Pub. L. 108–183, title III, § 309(b), Dec. 16, 2003, 117 Stat. 2663, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 16, 2003], the Secretary of Labor shall implement section 4113 of title 38, United States Code, as added by subsection (a), and shall have employees of the Veterans’ Employment and Training Service, or contractors, to carry out that section at the military installations involved by such date.”
 
-## § 4114. Credentialing and licensure of veterans: demonstration project
+## § 4114. Credentialing and licensure of veterans: demonstration project
 
 **(a) Demonstration Project Authorized.—** The Assistant Secretary for Veterans’ Employment and Training shall carry out a demonstration project on credentialing in accordance with this section for the purpose of facilitating the seamless transition of members of the Armed Forces from service on active duty to civilian employment.
 
@@ -2131,7 +2131,7 @@ Pub. L. 108–183, title III, § 309(b), Dec. 16, 2003, 117 Stat. 2663, provid
 
 **(d) Period of Project.—** The period during which the Assistant Secretary shall carry out the demonstration project under this section shall be the two-year period beginning on the date of the enactment of the VOW to Hire Heroes Act of 2011.
 
-(Added Pub. L. 109–461, title VI, § 604(a)(1), Dec. 22, 2006, 120 Stat. 3437; amended Pub. L. 112–56, title II, § 237(a), Nov. 21, 2011, 125 Stat. 725.)
+(Added Pub. L. 109–461, title VI, § 604(a)(1), Dec. 22, 2006, 120 Stat. 3437; amended Pub. L. 112–56, title II, § 237(a), Nov. 21, 2011, 125 Stat. 725.)
 
 **Editorial Notes**
 
@@ -2141,71 +2141,71 @@ The date of the enactment of the VOW to Hire Heroes Act of 2011, referred to in 
 
 **Prior Provisions**
 
-Prior sections 4114 to 4119 were repealed by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210.
+Prior sections 4114 to 4119 were repealed by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210.
 
-Section 4114, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–574, § 4(2), Aug. 6, 1962, 76 Stat. 309; Pub. L. 89–785, title I, § 111(a)–(c), Nov. 7, 1966, 80 Stat. 1371; Pub. L. 91–496, §§ 1, 3, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, § 206, Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §§ 109, 110(10), title II, §§ 205(g), 209(a)(6), (c)(6), 210(c)(7), Oct. 21, 1976, 90 Stat. 2848, 2849, 2859, 2860, 2862, 2864; Pub. L. 95–201, § 4(a)(2), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–330, title I, § 116(b), Aug. 26, 1980, 94 Stat. 1039; Pub. L. 97–295, § 4(85), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–166, title II, § 203, Dec. 3, 1985, 99 Stat. 950; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–576, title II, § 214, Oct. 28, 1986, 100 Stat. 3258; Pub. L. 100–322, title II, § 223, May 20, 1988, 102 Stat. 531; Pub. L. 100–687, div. B, title XV, § 1503(a)(2), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 101–366, title II, § 203, Aug. 15, 1990, 104 Stat. 439, related to temporary full-time, part-time, and without compensation appointments and residencies or internships. See sections 7405 to 7407 of this title.
+Section 4114, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–574, § 4(2), Aug. 6, 1962, 76 Stat. 309; Pub. L. 89–785, title I, § 111(a)–(c), Nov. 7, 1966, 80 Stat. 1371; Pub. L. 91–496, §§ 1, 3, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, § 206, Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §§ 109, 110(10), title II, §§ 205(g), 209(a)(6), (c)(6), 210(c)(7), Oct. 21, 1976, 90 Stat. 2848, 2849, 2859, 2860, 2862, 2864; Pub. L. 95–201, § 4(a)(2), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–330, title I, § 116(b), Aug. 26, 1980, 94 Stat. 1039; Pub. L. 97–295, § 4(85), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–166, title II, § 203, Dec. 3, 1985, 99 Stat. 950; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–576, title II, § 214, Oct. 28, 1986, 100 Stat. 3258; Pub. L. 100–322, title II, § 223, May 20, 1988, 102 Stat. 531; Pub. L. 100–687, div. B, title XV, § 1503(a)(2), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 101–366, title II, § 203, Aug. 15, 1990, 104 Stat. 439, related to temporary full-time, part-time, and without compensation appointments and residencies or internships. See sections 7405 to 7407 of this title.
 
 Section 4115, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, related to regulations. See section 7304 of this title.
 
-Section 4116, added Pub. L. 89–311, § 6(a), Oct. 31, 1965, 79 Stat. 1156; amended Pub. L. 89–506, § 5(b), July 18, 1966, 80 Stat. 307; Pub. L. 93–82, title II, § 207, Aug. 2, 1973, 87 Stat. 193; Pub. L. 94–581, title I, § 110(11), title II, §§ 209(a)(7), 210(c)(8), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 100–322, title II, § 203(a)(1), May 20, 1988, 102 Stat. 509, related to defense of certain malpractice and negligence suits. See section 7316 of this title.
+Section 4116, added Pub. L. 89–311, § 6(a), Oct. 31, 1965, 79 Stat. 1156; amended Pub. L. 89–506, § 5(b), July 18, 1966, 80 Stat. 307; Pub. L. 93–82, title II, § 207, Aug. 2, 1973, 87 Stat. 193; Pub. L. 94–581, title I, § 110(11), title II, §§ 209(a)(7), 210(c)(8), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 100–322, title II, § 203(a)(1), May 20, 1988, 102 Stat. 509, related to defense of certain malpractice and negligence suits. See section 7316 of this title.
 
-Section 4117, added Pub. L. 89–785, title I, § 112(a), Nov. 7, 1966, 80 Stat. 1371; amended Pub. L. 93–82, title II, § 208, Aug. 2, 1973, 87 Stat. 194; Pub. L. 94–581, title I, § 110(12), title II, § 209(a)(1), (8), Oct. 21, 1976, 90 Stat. 2849, 2860, 2861, related to contracts for scarce medical specialist services. See section 7409 of this title.
+Section 4117, added Pub. L. 89–785, title I, § 112(a), Nov. 7, 1966, 80 Stat. 1371; amended Pub. L. 93–82, title II, § 208, Aug. 2, 1973, 87 Stat. 194; Pub. L. 94–581, title I, § 110(12), title II, § 209(a)(1), (8), Oct. 21, 1976, 90 Stat. 2849, 2860, 2861, related to contracts for scarce medical specialist services. See section 7409 of this title.
 
-Section 4118, added Pub. L. 94–123, § 2(d)(1), Oct. 22, 1975, 89 Stat. 670; amended Pub. L. 95–201, § 3(a), Nov. 23, 1977, 91 Stat. 1429; Pub. L. 96–330, title I, §§ 102(a)(1), (b)–(d), 103(a), 104(a), title II, § 202, Aug. 26, 1980, 94 Stat. 1030, 1031, 1034, 1035, 1047; Pub. L. 97–258, § 3(k)(6), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, § 4(86), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title II, § 231(a), Oct. 28, 1986, 100 Stat. 3263; Pub. L. 100–238, title I, § 126, Jan. 8, 1988, 101 Stat. 1757, related to special pay for physicians and dentists. See sections 7431 to 7440 of this title.
+Section 4118, added Pub. L. 94–123, § 2(d)(1), Oct. 22, 1975, 89 Stat. 670; amended Pub. L. 95–201, § 3(a), Nov. 23, 1977, 91 Stat. 1429; Pub. L. 96–330, title I, §§ 102(a)(1), (b)–(d), 103(a), 104(a), title II, § 202, Aug. 26, 1980, 94 Stat. 1030, 1031, 1034, 1035, 1047; Pub. L. 97–258, § 3(k)(6), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, § 4(86), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title II, § 231(a), Oct. 28, 1986, 100 Stat. 3263; Pub. L. 100–238, title I, § 126, Jan. 8, 1988, 101 Stat. 1757, related to special pay for physicians and dentists. See sections 7431 to 7440 of this title.
 
-Section 4119, added Pub. L. 96–330, title I, § 116(a)(1), Aug. 26, 1980, 94 Stat. 1039, related to relationship between former subchapter I of chapter 73 of this title and other provisions of law. See section 7425 of this title.
+Section 4119, added Pub. L. 96–330, title I, § 116(a)(1), Aug. 26, 1980, 94 Stat. 1039, related to relationship between former subchapter I of chapter 73 of this title and other provisions of law. See section 7425 of this title.
 
 Prior section 4120 was renumbered section 7458 of this title.
 
-Prior sections 4121 to 4124 were repealed by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210.
+Prior sections 4121 to 4124 were repealed by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210.
 
-Section 4121, added Pub. L. 92–541, § 3(a), Oct. 24, 1972, 86 Stat. 1107; amended Pub. L. 94–581, title II, § 210(c)(9), Oct. 21, 1976, 90 Stat. 2864; Pub. L. 99–576, title II, § 212(a), (b), Oct. 28, 1986, 100 Stat. 3257, related to designation of Regional Medical Education Centers. See section 7471 of this title.
+Section 4121, added Pub. L. 92–541, § 3(a), Oct. 24, 1972, 86 Stat. 1107; amended Pub. L. 94–581, title II, § 210(c)(9), Oct. 21, 1976, 90 Stat. 2864; Pub. L. 99–576, title II, § 212(a), (b), Oct. 28, 1986, 100 Stat. 3257, related to designation of Regional Medical Education Centers. See section 7471 of this title.
 
-Section 4122, added Pub. L. 92–541, § 3(a), Oct. 24, 1972, 86 Stat. 1107; amended Pub. L. 94–581, title II, §§ 209(c)(7), 210(c)(10), Oct. 21, 1976, 90 Stat. 2862, 2864, related to supervision and staffing of Centers. See section 7472 of this title.
+Section 4122, added Pub. L. 92–541, § 3(a), Oct. 24, 1972, 86 Stat. 1107; amended Pub. L. 94–581, title II, §§ 209(c)(7), 210(c)(10), Oct. 21, 1976, 90 Stat. 2862, 2864, related to supervision and staffing of Centers. See section 7472 of this title.
 
-Section 4123, added Pub. L. 92–541, § 3(a), Oct. 24, 1972, 86 Stat. 1107; amended Pub. L. 94–581, title I, § 113, Oct. 21, 1976, 90 Stat. 2852; Pub. L. 99–576, title II, § 212(c), Oct. 28, 1986, 100 Stat. 3257, related to personnel eligible for training. See section 7473 of this title.
+Section 4123, added Pub. L. 92–541, § 3(a), Oct. 24, 1972, 86 Stat. 1107; amended Pub. L. 94–581, title I, § 113, Oct. 21, 1976, 90 Stat. 2852; Pub. L. 99–576, title II, § 212(c), Oct. 28, 1986, 100 Stat. 3257, related to personnel eligible for training. See section 7473 of this title.
 
-Section 4124, added Pub. L. 92–541, § 3(a), Oct. 24, 1972, 86 Stat. 1108, related to consultation with special medical advisory group. See section 7474 of this title.
+Section 4124, added Pub. L. 92–541, § 3(a), Oct. 24, 1972, 86 Stat. 1108, related to consultation with special medical advisory group. See section 7474 of this title.
 
 Prior sections 4131 to 4134 were renumbered sections 7331 to 7334 of this title, respectively.
 
 Prior section 4141 was renumbered section 7451 of this title.
 
-Another prior section 4141, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1041, related to the establishment, purpose and duration of Veterans’ Administration Health Professional Scholarship Program, prior to repeal by Pub. L. 100–322, title II, § 216(a), May 20, 1988, 102 Stat. 517, with the provisions to remain effective with respect to scholarships awarded. For similar provisions, see chapter 76 (§ 7601 et seq.) of this title.
+Another prior section 4141, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1041, related to the establishment, purpose and duration of Veterans’ Administration Health Professional Scholarship Program, prior to repeal by Pub. L. 100–322, title II, § 216(a), May 20, 1988, 102 Stat. 517, with the provisions to remain effective with respect to scholarships awarded. For similar provisions, see chapter 76 (§ 7601 et seq.) of this title.
 
 Prior section 4142 was renumbered section 7452 of this title.
 
-Another prior section 4142 and prior sections 4143 to 4146 were repealed by Pub. L. 100–322, title II, § 216(a), May 20, 1988, 102 Stat. 517, with the provisions to remain effective with respect to scholarships awarded.
+Another prior section 4142 and prior sections 4143 to 4146 were repealed by Pub. L. 100–322, title II, § 216(a), May 20, 1988, 102 Stat. 517, with the provisions to remain effective with respect to scholarships awarded.
 
-Section 4142, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1041; amended Pub. L. 97–251, § 3(a), Sept. 8, 1982, 96 Stat. 713; Pub. L. 97–258, § 3(k)(7), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–375, title II, § 216, Dec. 21, 1982, 96 Stat. 1827; Pub. L. 98–160, title VII, § 702(18), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, § 213, Oct. 28, 1986, 100 Stat. 3257, related to eligibility, application, and written contracts for program.
+Section 4142, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1041; amended Pub. L. 97–251, § 3(a), Sept. 8, 1982, 96 Stat. 713; Pub. L. 97–258, § 3(k)(7), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–375, title II, § 216, Dec. 21, 1982, 96 Stat. 1827; Pub. L. 98–160, title VII, § 702(18), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, § 213, Oct. 28, 1986, 100 Stat. 3257, related to eligibility, application, and written contracts for program.
 
-Section 4143, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1044; amended Pub. L. 97–251, § 3(b), Sept. 8, 1982, 96 Stat. 714, related to obligated service.
+Section 4143, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1044; amended Pub. L. 97–251, § 3(b), Sept. 8, 1982, 96 Stat. 714, related to obligated service.
 
-Section 4144, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1045; amended Pub. L. 97–251, § 3(c), Sept. 8, 1982, 96 Stat. 715, related to liability for breach of contracts and waiver, suspension, discharge, etc., thereof.
+Section 4144, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1045; amended Pub. L. 97–251, § 3(c), Sept. 8, 1982, 96 Stat. 715, related to liability for breach of contracts and waiver, suspension, discharge, etc., thereof.
 
-Section 4145, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1047, related to exemption of scholarship payments from taxation.
+Section 4145, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1047, related to exemption of scholarship payments from taxation.
 
-Section 4146, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1047, provided that authority of Administrator to make payments under former subchapter IV of chapter 73 of this title was subject to availability of appropriations for such purposes.
+Section 4146, added Pub. L. 96–330, title II, § 201(a)(1), Aug. 26, 1980, 94 Stat. 1047, provided that authority of Administrator to make payments under former subchapter IV of chapter 73 of this title was subject to availability of appropriations for such purposes.
 
-For provisions similar to former sections 4142 to 4146 of this title, see chapter 76 (§ 7601 et seq.) of this title.
+For provisions similar to former sections 4142 to 4146 of this title, see chapter 76 (§ 7601 et seq.) of this title.
 
-Prior sections 4151 and 4152 were repealed by Pub. L. 102–40, title IV, § 401(a)(2)(A), May 7, 1991, 105 Stat. 210.
+Prior sections 4151 and 4152 were repealed by Pub. L. 102–40, title IV, § 401(a)(2)(A), May 7, 1991, 105 Stat. 210.
 
-Section 4151, added Pub. L. 99–166, title II, § 204(a)(1), Dec. 3, 1985, 99 Stat. 950, related to quality-assurance program. See section 7311 of this title.
+Section 4151, added Pub. L. 99–166, title II, § 204(a)(1), Dec. 3, 1985, 99 Stat. 950, related to quality-assurance program. See section 7311 of this title.
 
-Section 4152, added Pub. L. 99–166, title II, § 204(a)(1), Dec. 3, 1985, 99 Stat. 951, related to quality-assurance reports. See section 7311 of this title.
+Section 4152, added Pub. L. 99–166, title II, § 204(a)(1), Dec. 3, 1985, 99 Stat. 951, related to quality-assurance reports. See section 7311 of this title.
 
 Prior sections 4161 to 4168 were renumbered sections 7361 to 7368 of this title, respectively.
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–56, § 237(a)(1), substituted “shall” for “may”.
+2011—Subsec. (a). Pub. L. 112–56, § 237(a)(1), substituted “shall” for “may”.
 
-Subsec. (b)(1). Pub. L. 112–56, § 237(a)(2)(A), substituted “Assistant Secretary for Veterans’ Employment and Training shall, in consultation with the Assistant Secretary for Employment and Training,” for “Assistant Secretary shall” and “not more than five military” for “not less than 10 military” and inserted “for Veterans’ Employment and Training” after “selected by the Assistant Secretary”.
+Subsec. (b)(1). Pub. L. 112–56, § 237(a)(2)(A), substituted “Assistant Secretary for Veterans’ Employment and Training shall, in consultation with the Assistant Secretary for Employment and Training,” for “Assistant Secretary shall” and “not more than five military” for “not less than 10 military” and inserted “for Veterans’ Employment and Training” after “selected by the Assistant Secretary”.
 
-Subsec. (b)(2). Pub. L. 112–56, § 237(a)(2)(B), substituted “enter into a contract with an appropriate entity representing a coalition of State governors to consult with appropriate Federal, State, and industry officials and” for “consult with appropriate Federal, State, and industry officials to”.
+Subsec. (b)(2). Pub. L. 112–56, § 237(a)(2)(B), substituted “enter into a contract with an appropriate entity representing a coalition of State governors to consult with appropriate Federal, State, and industry officials and” for “consult with appropriate Federal, State, and industry officials to”.
 
-Subsecs. (d) to (h). Pub. L. 112–56, § 237(a)(3), added subsec. (d) and struck out former subsecs. (d) to (h) which related to task force, consultation, contract authority, period of project, and funding, respectively.
+Subsecs. (d) to (h). Pub. L. 112–56, § 237(a)(3), added subsec. (d) and struck out former subsecs. (d) to (h) which related to task force, consultation, contract authority, period of project, and funding, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2239,7 +2239,7 @@ Pub. L. 112–147, July 23, 2012, 126 Stat. 1138, provided that:
 
 > **“(2)** with respect to any license of a licensing authority not constituted or not empowered to grant the license as of the date of enactment of this Act, prescribe any regulations necessary to carry out this Act not later than 180 days after the date on which the agency is so constituted or empowered, as the case may be.”
 
-## § 4115. Longitudinal study of job counseling, training, and placement service for veterans
+## § 4115. Longitudinal study of job counseling, training, and placement service for veterans
 
 **(a) Study Required.—**
 
@@ -2307,4 +2307,4 @@ Pub. L. 112–147, July 23, 2012, 126 Stat. 1138, provided that:
 
 **(B)** Such information as the Secretary determines is necessary to determine the long-term outcomes of the individuals in the groups described in subsection (a)(2).
 
-(Added Pub. L. 114–315, title V, § 502(a), Dec. 16, 2016, 130 Stat. 1566.)
+(Added Pub. L. 114–315, title V, § 502(a), Dec. 16, 2016, 130 Stat. 1566.)

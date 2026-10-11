@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 45—TSUNAMI WARNING AND EDUCATION
 
-## § 3201. Definitions
+## § 3201. Definitions
 
 In this chapter:
 
@@ -23,7 +23,7 @@ In this chapter:
 
 **(2)** The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 109–424, § 2, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, § 802, Jan. 12, 2007, 120 Stat. 3653; Pub. L. 115–25, title V, § 512(a), Apr. 18, 2017, 131 Stat. 128.)
+(Pub. L. 109–424, § 2, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, § 802, Jan. 12, 2007, 120 Stat. 3653; Pub. L. 115–25, title V, § 512(a), Apr. 18, 2017, 131 Stat. 128.)
 
 **Editorial Notes**
 
@@ -35,19 +35,19 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–25, title V, § 501, Apr. 18, 2017, 131 Stat. 115, provided that: “This title [enacting sections 3206a and 3208 of this title, amending this section and sections 3202 to 3207 of this title, and enacting and repealing provisions set out as notes under this section] may be cited as the ‘Tsunami Warning, Education, and Research Act of 2017’.”
+Pub. L. 115–25, title V, § 501, Apr. 18, 2017, 131 Stat. 115, provided that: “This title [enacting sections 3206a and 3208 of this title, amending this section and sections 3202 to 3207 of this title, and enacting and repealing provisions set out as notes under this section] may be cited as the ‘Tsunami Warning, Education, and Research Act of 2017’.”
 
 **Short Title**
 
-Pub. L. 109–479, title VIII, § 801, Jan. 12, 2007, 120 Stat. 3653, provided that: “This title [enacting this chapter] may be cited as the ‘Tsunami Warning and Education Act’.”
+Pub. L. 109–479, title VIII, § 801, Jan. 12, 2007, 120 Stat. 3653, provided that: “This title [enacting this chapter] may be cited as the ‘Tsunami Warning and Education Act’.”
 
-Pub. L. 109–424, § 1, Dec. 20, 2006, 120 Stat. 2902, which provided that Pub. L. 109–424 could be cited as the Tsunami Warning and Education Act, was repealed by Pub. L. 115–25, title V, § 512(a), Apr. 18, 2017, 131 Stat. 128.
+Pub. L. 109–424, § 1, Dec. 20, 2006, 120 Stat. 2902, which provided that Pub. L. 109–424 could be cited as the Tsunami Warning and Education Act, was repealed by Pub. L. 115–25, title V, § 512(a), Apr. 18, 2017, 131 Stat. 128.
 
 **Construction**
 
-Pub. L. 115–25, title V, § 512(b), Apr. 18, 2017, 131 Stat. 128, provided that: “Nothing in this section [repealing Pub. L. 109–424] may be construed to repeal, or affect in any way, the Tsunami Warning and Education Act [this chapter] enacted as title VIII of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (Public Law 109–479; 33 U.S.C. 3201 et seq.).”
+Pub. L. 115–25, title V, § 512(b), Apr. 18, 2017, 131 Stat. 128, provided that: “Nothing in this section [repealing Pub. L. 109–424] may be construed to repeal, or affect in any way, the Tsunami Warning and Education Act [this chapter] enacted as title VIII of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (Public Law 109–479; 33 U.S.C. 3201 et seq.).”
 
-## § 3202. Purposes
+## § 3202. Purposes
 
 The purposes of this chapter are—
 
@@ -67,7 +67,7 @@ The purposes of this chapter are—
 
 **(8)** to improve Federal, State, and international coordination for detection, warnings, and outreach for tsunami and other coastal impacts.
 
-(Pub. L. 109–424, § 3, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, § 803, Jan. 12, 2007, 120 Stat. 3653; Pub. L. 115–25, title V, §§ 503, 512(a), Apr. 18, 2017, 131 Stat. 115, 128.)
+(Pub. L. 109–424, § 3, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, § 803, Jan. 12, 2007, 120 Stat. 3653; Pub. L. 115–25, title V, §§ 503, 512(a), Apr. 18, 2017, 131 Stat. 115, 128.)
 
 **Editorial Notes**
 
@@ -77,23 +77,23 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 **Amendments**
 
-2017—Par. (1). Pub. L. 115–25, § 503(1), inserted “research,” after “warnings,”.
+2017—Par. (1). Pub. L. 115–25, § 503(1), inserted “research,” after “warnings,”.
 
-Par. (2). Pub. L. 115–25, § 503(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to enhance and modernize the existing Pacific Tsunami Warning System to increase coverage, reduce false alarms, and increase the accuracy of forecasts and warnings, and to expand detection and warning systems to include other vulnerable States and United States territories, including the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico areas;”.
+Par. (2). Pub. L. 115–25, § 503(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to enhance and modernize the existing Pacific Tsunami Warning System to increase coverage, reduce false alarms, and increase the accuracy of forecasts and warnings, and to expand detection and warning systems to include other vulnerable States and United States territories, including the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico areas;”.
 
-Par. (3). Pub. L. 115–25, § 503(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to improve mapping, modeling, research, and assessment efforts to improve tsunami detection, forecasting, warnings, notification, outreach, mitigation, response, and recovery;”.
+Par. (3). Pub. L. 115–25, § 503(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to improve mapping, modeling, research, and assessment efforts to improve tsunami detection, forecasting, warnings, notification, outreach, mitigation, response, and recovery;”.
 
-Par. (4). Pub. L. 115–25, § 503(5), added par. (4). Former par. (4) redesignated (5).
+Par. (4). Pub. L. 115–25, § 503(5), added par. (4). Former par. (4) redesignated (5).
 
-Par. (5). Pub. L. 115–25, § 503(4), (6), redesignated par. (4) as (5), substituted “, increase, and develop uniform standards and guidelines for” for “and increase”, and inserted “, including the warning signs of locally generated tsunami” after “approaching”. Former par. (5) redesignated (6).
+Par. (5). Pub. L. 115–25, § 503(4), (6), redesignated par. (4) as (5), substituted “, increase, and develop uniform standards and guidelines for” for “and increase”, and inserted “, including the warning signs of locally generated tsunami” after “approaching”. Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 115–25, § 503(4), (7), redesignated par. (5) as (6) and substituted semicolon at end for “, including the Indian Ocean; and”. Former par. (6) redesignated (8).
+Par. (6). Pub. L. 115–25, § 503(4), (7), redesignated par. (5) as (6) and substituted semicolon at end for “, including the Indian Ocean; and”. Former par. (6) redesignated (8).
 
-Par. (7). Pub. L. 115–25, § 503(8), added par. (7).
+Par. (7). Pub. L. 115–25, § 503(8), added par. (7).
 
-Par. (8). Pub. L. 115–25, § 503(4), redesignated par. (6) as (8).
+Par. (8). Pub. L. 115–25, § 503(4), redesignated par. (6) as (8).
 
-## § 3203. Tsunami forecasting and warning program
+## § 3203. Tsunami forecasting and warning program
 
 **(a) In general**
 
@@ -153,9 +153,9 @@ The Administrator, through the National Weather Service and in consultation with
 
 **(d) Tsunami warning centers**
 
-**(1) In general** The Administrator shall support or maintain centers to support the tsunami warning system required by subsection (c). The Centers 1
+**(1) In general** The Administrator shall support or maintain centers to support the tsunami warning system required by subsection (c). The Centers 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 shall include—
 
@@ -191,9 +191,9 @@ shall include—
 
 The tsunami warning centers supported or maintained under paragraph (1) shall maintain a fail-safe warning capability and perform back-up duties for each other.
 
-**(4) Coordination with National Weather Service** The Administrator shall coordinate with the forecast offices of the National Weather Service, the centers supported or maintained under paragraph (1), and such program offices of the Administration as the Administrator or the coordinating committee, as established in section 3204(d) 2
+**(4) Coordination with National Weather Service** The Administrator shall coordinate with the forecast offices of the National Weather Service, the centers supported or maintained under paragraph (1), and such program offices of the Administration as the Administrator or the coordinating committee, as established in section 3204(d) 2
 
-<sup>2</sup>  So in original. Probably should be “section 3204(b)”.
+<sup>2</sup> So in original. Probably should be “section 3204(b)”.
 
 of this title, consider appropriate to ensure that regional and local forecast offices—
 
@@ -273,7 +273,7 @@ The Administrator, through the National Weather Service, shall ensure that resou
 
 **(D)** such other findings as the Administrator considers appropriate.
 
-(Pub. L. 109–424, § 4, Dec. 20, 2006, 120 Stat. 2903; Pub. L. 109–479, title VIII, § 804, Jan. 12, 2007, 120 Stat. 3654; Pub. L. 115–25, title V, §§ 504, 512(a), Apr. 18, 2017, 131 Stat. 116, 128.)
+(Pub. L. 109–424, § 4, Dec. 20, 2006, 120 Stat. 2903; Pub. L. 109–479, title VIII, § 804, Jan. 12, 2007, 120 Stat. 3654; Pub. L. 115–25, title V, §§ 504, 512(a), Apr. 18, 2017, 131 Stat. 116, 128.)
 
 **Editorial Notes**
 
@@ -287,45 +287,45 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–25, § 504(a), substituted “Atlantic Ocean region, including the Caribbean Sea and the Gulf of Mexico” for “Atlantic Ocean, Caribbean Sea, and Gulf of Mexico region”.
+2017—Subsec. (a). Pub. L. 115–25, § 504(a), substituted “Atlantic Ocean region, including the Caribbean Sea and the Gulf of Mexico” for “Atlantic Ocean, Caribbean Sea, and Gulf of Mexico region”.
 
-Subsec. (b)(1). Pub. L. 115–25, § 504(b)(1), substituted “supported or maintained” for “established”.
+Subsec. (b)(1). Pub. L. 115–25, § 504(b)(1), substituted “supported or maintained” for “established”.
 
-Subsec. (b)(2). Pub. L. 115–25, § 504(b)(4), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 115–25, § 504(b)(4), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3), (4). Pub. L. 115–25, § 504(b)(3), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+Subsec. (b)(3), (4). Pub. L. 115–25, § 504(b)(3), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 115–25, § 504(b)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide tsunami forecasting capability based on models and measurements, including tsunami inundation models and maps for use in increasing the preparedness of communities, including through the TsunamiReady program;”.
+Subsec. (b)(5). Pub. L. 115–25, § 504(b)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide tsunami forecasting capability based on models and measurements, including tsunami inundation models and maps for use in increasing the preparedness of communities, including through the TsunamiReady program;”.
 
-Pub. L. 115–25, § 504(b)(3), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Pub. L. 115–25, § 504(b)(3), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 115–25, § 504(b)(3), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 115–25, § 504(b)(3), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 115–25, § 504(b)(6), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “include a cooperative effort among the Administration, the United States Geological Survey, and the National Science Foundation under which the Geological Survey and the National Science Foundation shall provide rapid and reliable seismic information to the Administration from international and domestic seismic networks;”.
+Subsec. (b)(7). Pub. L. 115–25, § 504(b)(6), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “include a cooperative effort among the Administration, the United States Geological Survey, and the National Science Foundation under which the Geological Survey and the National Science Foundation shall provide rapid and reliable seismic information to the Administration from international and domestic seismic networks;”.
 
-Pub. L. 115–25, § 504(b)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Pub. L. 115–25, § 504(b)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 115–25, § 504(b)(2), (7), redesignated par. (7) as (8) and inserted “, including graphical warning products,” after “warnings”, “, territories,” after “States” and “and Wireless Emergency Alerts” after “Hazards Program”. Former par. (8) redesignated (9).
+Subsec. (b)(8). Pub. L. 115–25, § 504(b)(2), (7), redesignated par. (7) as (8) and inserted “, including graphical warning products,” after “warnings”, “, territories,” after “States” and “and Wireless Emergency Alerts” after “Hazards Program”. Former par. (8) redesignated (9).
 
-Subsec. (b)(9). Pub. L. 115–25, § 504(b)(2), (8), redesignated par. (8) as (9) and inserted “provide and” before “allow” and “and commercial and Federal undersea communications cables” after “observing technologies”. Former par. (9) redesignated (10).
+Subsec. (b)(9). Pub. L. 115–25, § 504(b)(2), (8), redesignated par. (8) as (9) and inserted “provide and” before “allow” and “and commercial and Federal undersea communications cables” after “observing technologies”. Former par. (9) redesignated (10).
 
-Subsec. (b)(10). Pub. L. 115–25, § 504(b)(2), redesignated par. (9) as (10).
+Subsec. (b)(10). Pub. L. 115–25, § 504(b)(2), redesignated par. (9) as (10).
 
-Subsec. (c). Pub. L. 115–25, § 504(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to tsunami warning system areas.
+Subsec. (c). Pub. L. 115–25, § 504(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to tsunami warning system areas.
 
-Subsec. (d). Pub. L. 115–25, § 504(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to the location of tsunami warning centers and the responsibilities of the centers.
+Subsec. (d). Pub. L. 115–25, § 504(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to the location of tsunami warning centers and the responsibilities of the centers.
 
-Subsec. (e). Pub. L. 115–25, § 504(e), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the National Weather Service’s responsibilities regarding tsunami equipment and technology.
+Subsec. (e). Pub. L. 115–25, § 504(e), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the National Weather Service’s responsibilities regarding tsunami equipment and technology.
 
-Subsec. (f). Pub. L. 115–25, § 504(f), amended subsec. (f) generally. Prior to amendment, text read as follows: “When deploying and maintaining tsunami detection technologies, the Administrator shall seek the assistance and assets of other appropriate Federal agencies.”
+Subsec. (f). Pub. L. 115–25, § 504(f), amended subsec. (f) generally. Prior to amendment, text read as follows: “When deploying and maintaining tsunami detection technologies, the Administrator shall seek the assistance and assets of other appropriate Federal agencies.”
 
-Subsec. (g). Pub. L. 115–25, § 504(h), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, added subpar. (C) of par. (1), and added par. (2).
+Subsec. (g). Pub. L. 115–25, § 504(h), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, added subpar. (C) of par. (1), and added par. (2).
 
-Pub. L. 115–25, § 504(g)(1), (3), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to annual equipment certification.
+Pub. L. 115–25, § 504(g)(1), (3), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to annual equipment certification.
 
-Subsec. (h). Pub. L. 115–25, § 504(g)(3), redesignated subsec. (h) as (g).
+Subsec. (h). Pub. L. 115–25, § 504(g)(3), redesignated subsec. (h) as (g).
 
-Subsecs. (i) to (k). Pub. L. 115–25, § 504(g)(2), struck out subsecs. (i) to (k) which related to Comptroller General report, external review by the National Academy of Sciences, and establishment of a process for monitoring and certifying contractor performance, respectively.
+Subsecs. (i) to (k). Pub. L. 115–25, § 504(g)(2), struck out subsecs. (i) to (k) which related to Comptroller General report, external review by the National Academy of Sciences, and establishment of a process for monitoring and certifying contractor performance, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -333,7 +333,7 @@ Subsecs. (i) to (k). Pub. L. 115–25, § 504(g)(2), struck out subsecs. (i) t
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 3204. National tsunami hazard mitigation program
+## § 3204. National tsunami hazard mitigation program
 
 **(a) Program required**
 
@@ -429,7 +429,7 @@ The establishment of national standards for inundation models under this section
 
 Nothing in this chapter may be construed as establishing new regulatory authority for any Federal agency.
 
-(Pub. L. 109–424, § 5, Dec. 20, 2006, 120 Stat. 2906; Pub. L. 109–479, title VIII, § 805, Jan. 12, 2007, 120 Stat. 3657; Pub. L. 115–25, title V, §§ 505(a), (b), 512(a), Apr. 18, 2017, 131 Stat. 121, 128.)
+(Pub. L. 109–424, § 5, Dec. 20, 2006, 120 Stat. 2906; Pub. L. 109–479, title VIII, § 805, Jan. 12, 2007, 120 Stat. 3657; Pub. L. 115–25, title V, §§ 505(a), (b), 512(a), Apr. 18, 2017, 131 Stat. 121, 128.)
 
 **Editorial Notes**
 
@@ -439,17 +439,17 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–25, § 505(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas in the United States and its territories.”
+2017—Subsec. (a). Pub. L. 115–25, § 505(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas in the United States and its territories.”
 
-Subsecs. (c) to (f). Pub. L. 115–25, § 505(b), added subsecs. (c) to (f) and struck out former subsecs. (c) and (d) which related to program components and provided a savings clause, respectively.
+Subsecs. (c) to (f). Pub. L. 115–25, § 505(b), added subsecs. (c) to (f) and struck out former subsecs. (c) and (d) which related to program components and provided a savings clause, respectively.
 
-## § 3205. Tsunami research program
+## § 3205. Tsunami research program
 
 **(a) In general**
 
-The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under section 3204(d) 1
+The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under section 3204(d) 1
 
-<sup>1</sup>  So in original. Probably should read “section 3204(b)”.
+<sup>1</sup> So in original. Probably should read “section 3204(b)”.
 
 of this title, and the panel under section 3206a(a) of this title, support or maintain a tsunami research program to develop detection, forecast, communication, and mitigation science and technology, including advanced sensing techniques, information and communication technology, data collection, analysis, assessment for tsunami tracking and numerical forecast modeling, and standards development.
 
@@ -465,7 +465,7 @@ of this title, and the panel under section 3206a(a) of this title, support or ma
 
 **(5)** ensure that research and findings are available to the public and the scientific community.
 
-(Pub. L. 109–424, § 6, Dec. 20, 2006, 120 Stat. 2907; Pub. L. 109–479, title VIII, § 806, Jan. 12, 2007, 120 Stat. 3658; Pub. L. 115–25, title V, §§ 506, 512(a), Apr. 18, 2017, 131 Stat. 123, 128.)
+(Pub. L. 109–424, § 6, Dec. 20, 2006, 120 Stat. 2907; Pub. L. 109–479, title VIII, § 806, Jan. 12, 2007, 120 Stat. 3658; Pub. L. 115–25, title V, §§ 506, 512(a), Apr. 18, 2017, 131 Stat. 123, 128.)
 
 **Editorial Notes**
 
@@ -475,21 +475,21 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 **Amendments**
 
-2017—Pub. L. 115–25, § 506(1), (2), designated first and second sentences of existing provisions as subsecs. (a) and (b), respectively, and inserted headings.
+2017—Pub. L. 115–25, § 506(1), (2), designated first and second sentences of existing provisions as subsecs. (a) and (b), respectively, and inserted headings.
 
-Subsec. (a). Pub. L. 115–25, § 506(1), (2), substituted “The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under section 3204(d) of this title, and the panel under section 3206a(a) of this title, support or maintain” for “The Administrator shall, in consultation with other agencies and academic institutions, and with the coordinating committee established under section 3204(b) of this title, establish or maintain” and “assessment for tsunami tracking and numerical forecast modeling, and standards development.” for “and assessment for tsunami tracking and numerical forecast modeling.”
+Subsec. (a). Pub. L. 115–25, § 506(1), (2), substituted “The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under section 3204(d) of this title, and the panel under section 3206a(a) of this title, support or maintain” for “The Administrator shall, in consultation with other agencies and academic institutions, and with the coordinating committee established under section 3204(b) of this title, establish or maintain” and “assessment for tsunami tracking and numerical forecast modeling, and standards development.” for “and assessment for tsunami tracking and numerical forecast modeling.”
 
-Subsec. (b). Pub. L. 115–25, § 506(2), substituted “The research program supported or maintained under subsection (a) shall—” for “Such research program shall—”.
+Subsec. (b). Pub. L. 115–25, § 506(2), substituted “The research program supported or maintained under subsection (a) shall—” for “Such research program shall—”.
 
-Subsec. (b)(1). Pub. L. 115–25, § 506(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “consider other appropriate research to mitigate the impact of tsunami;”.
+Subsec. (b)(1). Pub. L. 115–25, § 506(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “consider other appropriate research to mitigate the impact of tsunami;”.
 
-Subsec. (b)(3). Pub. L. 115–25, § 506(3)(B), substituted “conduct” for “include” and struck out “and” at end.
+Subsec. (b)(3). Pub. L. 115–25, § 506(3)(B), substituted “conduct” for “include” and struck out “and” at end.
 
-Subsec. (b)(4). Pub. L. 115–25, § 506(3)(D), added par. (4). Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 115–25, § 506(3)(D), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 115–25, § 506(3)(C), (E), redesignated par. (4) as (5) and substituted “to the public and the scientific community” for “to the scientific community”.
+Subsec. (b)(5). Pub. L. 115–25, § 506(3)(C), (E), redesignated par. (4) as (5) and substituted “to the public and the scientific community” for “to the scientific community”.
 
-## § 3206. Global tsunami warning and mitigation network
+## § 3206. Global tsunami warning and mitigation network
 
 **(a) Support for development of an international tsunami warning system**
 
@@ -517,7 +517,7 @@ The Administrator shall, in coordination with the Secretary of State and in cons
 
 The National Weather Service, when deciding to provide assistance under this section, may take into consideration the data sharing policies and practices of nations proposed to receive such assistance, with a goal to encourage all nations to support full and open exchange of data.
 
-(Pub. L. 109–424, § 7, Dec. 20, 2006, 120 Stat. 2907; Pub. L. 109–479, title VIII, § 807, Jan. 12, 2007, 120 Stat. 3659; Pub. L. 115–25, title V, §§ 507, 512(a), Apr. 18, 2017, 131 Stat. 124, 128.)
+(Pub. L. 109–424, § 7, Dec. 20, 2006, 120 Stat. 2907; Pub. L. 109–479, title VIII, § 807, Jan. 12, 2007, 120 Stat. 3659; Pub. L. 115–25, title V, §§ 507, 512(a), Apr. 18, 2017, 131 Stat. 124, 128.)
 
 **Editorial Notes**
 
@@ -527,15 +527,15 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–25, § 507(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, in coordination with other members of the United States Interagency Committee of the National Tsunami Hazard Mitigation Program, shall provide technical assistance and training to the Intergovernmental Oceanographic Commission, the World Meteorological Organization, and other international entities, as part of international efforts to develop a fully functional global tsunami forecast and warning system comprising regional tsunami warning networks, modeled on the International Tsunami Warning System of the Pacific.”
+2017—Subsec. (a). Pub. L. 115–25, § 507(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, in coordination with other members of the United States Interagency Committee of the National Tsunami Hazard Mitigation Program, shall provide technical assistance and training to the Intergovernmental Oceanographic Commission, the World Meteorological Organization, and other international entities, as part of international efforts to develop a fully functional global tsunami forecast and warning system comprising regional tsunami warning networks, modeled on the International Tsunami Warning System of the Pacific.”
 
-Subsec. (b). Pub. L. 115–25, § 507(2), in introductory provisions, substituted “may operate” for “shall operate” and “the Center may” for “the Center shall”.
+Subsec. (b). Pub. L. 115–25, § 507(2), in introductory provisions, substituted “may operate” for “shall operate” and “the Center may” for “the Center shall”.
 
-Subsec. (c)(1). Pub. L. 115–25, § 507(3)(A), substituted “supporting” for “establishing”.
+Subsec. (c)(1). Pub. L. 115–25, § 507(3)(A), substituted “supporting” for “establishing”.
 
-Subsec. (c)(2). Pub. L. 115–25, § 507(3)(B), substituted “support” for “establish” and “supporting” for “establishing”.
+Subsec. (c)(2). Pub. L. 115–25, § 507(3)(B), substituted “support” for “establish” and “supporting” for “establishing”.
 
-## § 3206a. Tsunami Science and Technology Advisory Panel
+## § 3206a. Tsunami Science and Technology Advisory Panel
 
 **(a) Designation**
 
@@ -565,7 +565,7 @@ No member of the Panel may be a Federal employee.
 
 Not less frequently than once every 4 years, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report on the findings and recommendations received by the Administrator under subsection (c)(2).
 
-(Pub. L. 109–479, title VIII, § 808, as added Pub. L. 115–25, title V, § 508(a)(2), Apr. 18, 2017, 131 Stat. 125.)
+(Pub. L. 109–479, title VIII, § 808, as added Pub. L. 115–25, title V, § 508(a)(2), Apr. 18, 2017, 131 Stat. 125.)
 
 **Editorial Notes**
 
@@ -573,7 +573,7 @@ Not less frequently than once every 4 years, the Administrator shall submit to t
 
 A prior section 808 of Pub. L. 109–479 was renumbered section 809 and is classified to section 3207 of this title.
 
-## § 3207. Authorization of appropriations
+## § 3207. Authorization of appropriations
 
 There are authorized to be appropriated to the Administrator to carry out this chapter—
 
@@ -613,7 +613,7 @@ There are authorized to be appropriated to the Administrator to carry out this c
 
 **(B)** not less than 8 percent of the amount appropriated shall be for the tsunami research program under section 3205 of this title.
 
-(Pub. L. 109–424, § 8, Dec. 20, 2006, 120 Stat. 2908; Pub. L. 109–479, title VIII, § 809, formerly § 808, Jan. 12, 2007, 120 Stat. 3660; renumbered § 809 and amended Pub. L. 115–25, title V, §§ 508(a)(1), 510, 512(a), Apr. 18, 2017, 131 Stat. 124, 127, 128.)
+(Pub. L. 109–424, § 8, Dec. 20, 2006, 120 Stat. 2908; Pub. L. 109–479, title VIII, § 809, formerly § 808, Jan. 12, 2007, 120 Stat. 3660; renumbered § 809 and amended Pub. L. 115–25, title V, §§ 508(a)(1), 510, 512(a), Apr. 18, 2017, 131 Stat. 124, 127, 128.)
 
 **Editorial Notes**
 
@@ -623,9 +623,9 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 **Amendments**
 
-2017—Par. (6). Pub. L. 115–25, § 510, which directed the addition of par. (6) to this section “as redesignated by section \_08(a)(1)” of Pub. L. 115–25, was executed by adding par. (6) to this section as redesignated by section 508(a)(1) of Pub. L. 115–25, to reflect the probable intent of Congress.
+2017—Par. (6). Pub. L. 115–25, § 510, which directed the addition of par. (6) to this section “as redesignated by section \_08(a)(1)” of Pub. L. 115–25, was executed by adding par. (6) to this section as redesignated by section 508(a)(1) of Pub. L. 115–25, to reflect the probable intent of Congress.
 
-## § 3208. Outreach responsibilities
+## § 3208. Outreach responsibilities
 
 The Administrator of the National Oceanic and Atmospheric Administration, in coordination with State and local emergency managers, shall develop and carry out formal outreach activities to improve tsunami education and awareness and foster the development of resilient communities. Outreach activities may include—
 
@@ -635,7 +635,7 @@ The Administrator of the National Oceanic and Atmospheric Administration, in coo
 
 **(3)** evaluating the effectiveness of warnings and of coordination with local Weather Forecast Offices after significant tsunami events.
 
-(Pub. L. 115–25, title V, § 511, Apr. 18, 2017, 131 Stat. 127.)
+(Pub. L. 115–25, title V, § 511, Apr. 18, 2017, 131 Stat. 127.)
 
 **Editorial Notes**
 

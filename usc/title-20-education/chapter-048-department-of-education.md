@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 3401. Congressional findings
+### § 3401. Congressional findings
 
 The Congress finds that—
 
@@ -41,13 +41,13 @@ The Congress finds that—
 
 **(10)** there is no single, full-time, Federal education official directly accountable to the President, the Congress, and the people.
 
-(Pub. L. 96–88, title I, § 101, Oct. 17, 1979, 93 Stat. 669.)
+(Pub. L. 96–88, title I, § 101, Oct. 17, 1979, 93 Stat. 669.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 96–88, title VI, § 601, Oct. 17, 1979, 93 Stat. 696, provided that:
+Pub. L. 96–88, title VI, § 601, Oct. 17, 1979, 93 Stat. 696, provided that:
 
 > **“(a)** The provisions of this Act [see Short Title note below] shall take effect one hundred and eighty days after the first Secretary takes office, or on any earlier date on or after October 1, 1979, as the President may prescribe and publish in the Federal Register [prescribed as May 4, 1980, by Ex. Ord. No. 12212, formerly set out below], except that at any time on or after October 1, 1979—
 
@@ -59,15 +59,15 @@ Pub. L. 96–88, title VI, § 601, Oct. 17, 1979, 93 Stat. 696, provided that:
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–392, title VI, § 601, Sept. 25, 1990, 104 Stat. 840, provided that: “This title [enacting section 3423a of this title, amending section 3424 of this title, repealing sections 1131 and 3423 of this title, and enacting provisions set out as a note under section 2403 of this title] may be cited as the ‘Office of Correctional Education Act of 1990’.”
+Pub. L. 101–392, title VI, § 601, Sept. 25, 1990, 104 Stat. 840, provided that: “This title [enacting section 3423a of this title, amending section 3424 of this title, repealing sections 1131 and 3423 of this title, and enacting provisions set out as a note under section 2403 of this title] may be cited as the ‘Office of Correctional Education Act of 1990’.”
 
 **Short Title**
 
-Pub. L. 96–88, § 1, Oct. 17, 1979, 93 Stat. 668, provided in part: “This Act [enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title] may be cited as the ‘Department of Education Organization Act’.”
+Pub. L. 96–88, § 1, Oct. 17, 1979, 93 Stat. 668, provided in part: “This Act [enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title] may be cited as the ‘Department of Education Organization Act’.”
 
 **Emergency Assistance and Relief to Schools; Maintenance of Effort and Equity**
 
-Pub. L. 117–2, title II, §§ 2001–2004, Mar. 11, 2021, 135 Stat. 19–24, provided that:
+Pub. L. 117–2, title II, §§ 2001–2004, Mar. 11, 2021, 135 Stat. 19–24, provided that:
 
 > **“SEC. 2001. ELEMENTARY AND SECONDARY SCHOOL EMERGENCY RELIEF FUND.**
 
@@ -283,7 +283,7 @@ Pub. L. 117–2, title II, §§ 2001–2004, Mar. 11, 2021, 135 Stat. 19–24,
 
 **Emergency Funding for Education**
 
-Pub. L. 116–260, div. M, title III, §§ 311–317, Dec. 27, 2020, 134 Stat. 1924–1936, provided that:
+Pub. L. 116–260, div. M, title III, §§ 311–317, Dec. 27, 2020, 134 Stat. 1924–1936, provided that:
 
 > “education stabilization fund
 
@@ -637,7 +637,7 @@ Pub. L. 116–260, div. M, title III, §§ 311–317, Dec. 27, 2020, 134 Stat.
 
 [For definition of “coronavirus” as used in sections 311–317 of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under section 5547 of Title 5, Government Organization and Employees.]
 
-Pub. L. 116–136, div. B, title VIII, §§ 18001–18008, Mar. 27, 2020, 134 Stat. 564–569, provided that:
+Pub. L. 116–136, div. B, title VIII, §§ 18001–18008, Mar. 27, 2020, 134 Stat. 564–569, provided that:
 
 > “education stabilization fund
 
@@ -797,7 +797,7 @@ Pub. L. 116–136, div. B, title VIII, §§ 18001–18008, Mar. 27, 2020, 134 
 
 **Interim Appointments**
 
-Pub. L. 96–88, title VI, § 602, Oct. 17, 1979, 93 Stat. 696, provided that:
+Pub. L. 96–88, title VI, § 602, Oct. 17, 1979, 93 Stat. 696, provided that:
 
 > **“(a)** In the event that one or more officers required by this Act [see Short Title note above] to be appointed by and with the advice and consent of the Senate shall not have entered upon office on the effective date of this Act [May 4, 1980] and notwithstanding any other provisions of law, the President may designate an officer in the executive branch to act in such office for one hundred and twenty days or until the office is filled as provided in this Act, whichever occurs first.
 
@@ -891,7 +891,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 J.R. Biden, Jr.
 
-### § 3402. Congressional declaration of purpose
+### § 3402. Congressional declaration of purpose
 
 The Congress declares that the establishment of a Department of Education is in the public interest, will promote the general welfare of the United States, will help ensure that education issues receive proper treatment at the Federal level, and will enable the Federal Government to coordinate its education activities more effectively. Therefore, the purposes of this chapter are—
 
@@ -909,7 +909,7 @@ The Congress declares that the establishment of a Department of Education is in 
 
 **(7)** to increase the accountability of Federal education programs to the President, the Congress, and the public.
 
-(Pub. L. 96–88, title I, § 102, Oct. 17, 1979, 93 Stat. 670.)
+(Pub. L. 96–88, title I, § 102, Oct. 17, 1979, 93 Stat. 670.)
 
 **Editorial Notes**
 
@@ -917,7 +917,7 @@ The Congress declares that the establishment of a Department of Education is in 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, known as the Department of Education Organization Act, which enacted this chapter, amended sections 928, former 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, formerly set out in the Appendix to Title 5 (see 5 U.S.C. 402, 422, 424), section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacted provisions set out as notes under sections 1102 and 3401 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
-### § 3403. Relationship with States
+### § 3403. Relationship with States
 
 **(a) Rights of local governments and educational institutions**
 
@@ -931,7 +931,7 @@ No provision of a program administered by the Secretary or by any other officer 
 
 The Secretary shall not, during the period within eight months after May 4, 1980, take any action to withhold, suspend, or terminate funds under any program transferred by this chapter by reason of the failure of any State to comply with any applicable law requiring the administration of such a program through a single organizational unit.
 
-(Pub. L. 96–88, title I, § 103, Oct. 17, 1979, 93 Stat. 670.)
+(Pub. L. 96–88, title I, § 103, Oct. 17, 1979, 93 Stat. 670.)
 
 **Editorial Notes**
 
@@ -939,7 +939,7 @@ The Secretary shall not, during the period within eight months after May 4, 1980
 
 In subsec. (c), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
-### § 3404. Definitions
+### § 3404. Definitions
 
 As used in this chapter, unless otherwise provided or indicated by the context—
 
@@ -957,7 +957,7 @@ As used in this chapter, unless otherwise provided or indicated by the context�
 
 **(7)** the term “office” includes any office, institute, council, unit, organizational entity, or component thereof.
 
-(Pub. L. 96–88, title I, § 104, Oct. 17, 1979, 93 Stat. 671; Pub. L. 101–509, title V, § 529 [title I, § 112(a)(3)(A)], Nov. 5, 1990, 104 Stat. 1427, 1454.)
+(Pub. L. 96–88, title I, § 104, Oct. 17, 1979, 93 Stat. 671; Pub. L. 101–509, title V, § 529 [title I, § 112(a)(3)(A)], Nov. 5, 1990, 104 Stat. 1427, 1454.)
 
 **Editorial Notes**
 
@@ -969,7 +969,7 @@ As used in this chapter, unless otherwise provided or indicated by the context�
 
 **Effective Date of 1990 Amendment; Continued Service by Incumbents**
 
-Pub. L. 101–509, title V, § 529 [title I, § 112(e)], Nov. 5, 1990, 104 Stat. 1427, 1455, provided that:
+Pub. L. 101–509, title V, § 529 [title I, § 112(e)], Nov. 5, 1990, 104 Stat. 1427, 1455, provided that:
 
 > **“(1)** This section [amending this section, section 3412 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, section 472a of Title 25, Indians, section 3533 of Title 42, The Public Health and Welfare, and section 1452 of Title 43, Public Lands and enacting provisions set out as notes under this section and section 3501 of Title 42] shall take effect on the first day of the first pay period that begins on or after the date of enactment of this Act [Nov. 5, 1990].
 
@@ -985,7 +985,7 @@ Pub. L. 101–509, title V, § 529 [title I, § 112(e)], Nov. 5, 1990, 104 S
 
 **Construction of References**
 
-Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, provided that: “Any reference in any statute, reorganization plan, regulation, executive order, or any document issued pursuant thereto in force on the date this section takes effect [see Effective Date of 1990 Amendment; Continued Service by Incumbents note above] to the Under Secretary of Health and Human Services, the Under Secretary of the Interior, the Under Secretary of Education, or the Under Secretary of Housing and Urban Development shall be deemed to be a reference to the Deputy Secretary of Health and Human Services, the Deputy Secretary of the Interior, the Deputy Secretary of Education, or the Deputy Secretary of Housing and Urban Development, respectively.”
+Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, provided that: “Any reference in any statute, reorganization plan, regulation, executive order, or any document issued pursuant thereto in force on the date this section takes effect [see Effective Date of 1990 Amendment; Continued Service by Incumbents note above] to the Under Secretary of Health and Human Services, the Under Secretary of the Interior, the Under Secretary of Education, or the Under Secretary of Housing and Urban Development shall be deemed to be a reference to the Deputy Secretary of Health and Human Services, the Deputy Secretary of the Interior, the Deputy Secretary of Education, or the Deputy Secretary of Housing and Urban Development, respectively.”
 
 **Executive Documents**
 
@@ -995,11 +995,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ## SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT
 
-### § 3411. Establishment of Department; appointment of Secretary
+### § 3411. Establishment of Department; appointment of Secretary
 
 There is established an executive department to be known as the Department of Education. The Department shall be administered, in accordance with the provisions of this chapter, under the supervision and direction of a Secretary of Education. The Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(Pub. L. 96–88, title II, § 201, Oct. 17, 1979, 93 Stat. 671.)
+(Pub. L. 96–88, title II, § 201, Oct. 17, 1979, 93 Stat. 671.)
 
 **Executive Documents**
 
@@ -1009,15 +1009,15 @@ For assignment of certain emergency preparedness functions to the Secretary of E
 
 **Executive Order No. 12729**
 
-Ex. Ord. No. 12729, Sept. 24, 1990, 55 F.R. 39389, which established the President’s Advisory Commission on Educational Excellence for Hispanic Americans, directed Secretary of Education to establish the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required active involvement of executive departments and agencies, was revoked by Ex. Ord. No. 12900, § 10, Feb. 22, 1994, 59 F.R. 9061, formerly set out below.
+Ex. Ord. No. 12729, Sept. 24, 1990, 55 F.R. 39389, which established the President’s Advisory Commission on Educational Excellence for Hispanic Americans, directed Secretary of Education to establish the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required active involvement of executive departments and agencies, was revoked by Ex. Ord. No. 12900, § 10, Feb. 22, 1994, 59 F.R. 9061, formerly set out below.
 
 **Executive Order No. 12900**
 
-Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President’s Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, § 9, Oct. 12, 2001, 66 F.R. 52843, formerly set out below.
+Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President’s Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, § 9, Oct. 12, 2001, 66 F.R. 52843, formerly set out below.
 
 **Executive Order No. 13230**
 
-Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Department of Education the President’s Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required cooperation by executive departments and agencies, was revoked by Ex. Ord. No. 13555, § 4(a), Oct. 19, 2010, 75 F.R. 65420, formerly set out below.
+Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Department of Education the President’s Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required cooperation by executive departments and agencies, was revoked by Ex. Ord. No. 13555, § 4(a), Oct. 19, 2010, 75 F.R. 65420, formerly set out below.
 
 **Extension of Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans**
 
@@ -1027,17 +1027,17 @@ Previous extensions of term of President’s Advisory Commission on Educational 
 
 Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
-Ex. Ord. No. 13062, § 1(d), Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
+Ex. Ord. No. 13062, § 1(d), Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
 
 Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
 **Executive Order No. 13555**
 
-Ex. Ord. No. 13555, Oct. 19, 2010, 75 F.R. 65417, which established the White House Initiative on Educational Excellence for Hispanics and the President’s Advisory Commission on Educational Excellence for Hispanics in the Department of Education and established the Federal Interagency Working Group on Educational Excellence for Hispanics, was superseded by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
+Ex. Ord. No. 13555, Oct. 19, 2010, 75 F.R. 65417, which established the White House Initiative on Educational Excellence for Hispanics and the President’s Advisory Commission on Educational Excellence for Hispanics in the Department of Education and established the Federal Interagency Working Group on Educational Excellence for Hispanics, was superseded by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
 
 **Extension of Term of President’s Advisory Commission on Educational Excellence for Hispanics**
 
-Term of President’s Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, § 1(u), Sept. 27, 2019, 84 F.R. 52744, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees. Section 1(u) of Ex. Ord. No. 13889 was superseded by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
+Term of President’s Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, § 1(u), Sept. 27, 2019, 84 F.R. 52744, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees. Section 1(u) of Ex. Ord. No. 13889 was superseded by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
 
 Previous extensions of term of President’s Advisory Commission on Educational Excellence for Hispanics were contained in the following prior Executive Orders:
 
@@ -1051,7 +1051,7 @@ Ex. Ord. No. 13634, Dec. 21, 2012, 77 F.R. 77249, reestablished Commission and e
 
 **Executive Order No. 13621**
 
-Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, which established the White House Initiative on Educational Excellence for African Americans, the Federal Interagency Working Group on Educational Excellence for African Americans, and the President’s Advisory Commission on Educational Excellence for African Americans, was superseded by Ex. Ord. No. 14050, § 4(a), Oct. 19, 2021, 86 F.R. 58556, formerly set out below.
+Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, which established the White House Initiative on Educational Excellence for African Americans, the Federal Interagency Working Group on Educational Excellence for African Americans, and the President’s Advisory Commission on Educational Excellence for African Americans, was superseded by Ex. Ord. No. 14050, § 4(a), Oct. 19, 2021, 86 F.R. 58556, formerly set out below.
 
 **Extension of Term of President’s Advisory Commission on Educational Excellence for African Americans**
 
@@ -1069,15 +1069,15 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 
 **Executive Order No. 13935**
 
-Ex. Ord. No. 13935, July 9, 2020, 85 F.R. 42683, which established the White House Hispanic Prosperity Initiative and the President’s Advisory Commission on Hispanic Prosperity, was revoked and superseded by Ex. Ord. No. 14045, § 4(a), Sept. 13, 2021, 86 F.R. 51586, formerly set out below.
+Ex. Ord. No. 13935, July 9, 2020, 85 F.R. 42683, which established the White House Hispanic Prosperity Initiative and the President’s Advisory Commission on Hispanic Prosperity, was revoked and superseded by Ex. Ord. No. 14045, § 4(a), Sept. 13, 2021, 86 F.R. 51586, formerly set out below.
 
 **Executive Order No. 13958**
 
-Ex. Ord. No. 13958, Nov. 2, 2020, 85 F.R. 70951, which established the President’s Advisory 1776 Commission in the Department of Education, was revoked by Ex. Ord. No. 13985, § 10(c), Jan. 20, 2021, 86 F.R. 7012, set out in a note under section 601 of Title 5, Government Organization and Employees. Commission reestablished by section 4 of Ex. Ord. No. 14190, set out below.
+Ex. Ord. No. 13958, Nov. 2, 2020, 85 F.R. 70951, which established the President’s Advisory 1776 Commission in the Department of Education, was revoked by Ex. Ord. No. 13985, § 10(c), Jan. 20, 2021, 86 F.R. 7012, set out in a note under section 601 of Title 5, Government Organization and Employees. Commission reestablished by section 4 of Ex. Ord. No. 14190, set out below.
 
 **Executive Order No. 14045**
 
-Ex. Ord. No. 14045, Sept. 13, 2021, 86 F.R. 51581, which established the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics, was revoked by Ex. Ord. No. 14148, § 2(mm), Jan. 20, 2025, 90 F.R. 8239.
+Ex. Ord. No. 14045, Sept. 13, 2021, 86 F.R. 51581, which established the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics, was revoked by Ex. Ord. No. 14148, § 2(mm), Jan. 20, 2025, 90 F.R. 8239.
 
 **Extension of Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics**
 
@@ -1089,7 +1089,7 @@ Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30,
 
 **Executive Order No. 14050**
 
-Ex. Ord. No. 14050, Oct. 19, 2021, 86 F.R. 58551, which established the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans, was revoked by Ex. Ord. No. 14148, § 2(oo), Jan. 20, 2025, 90 F.R. 8239.
+Ex. Ord. No. 14050, Oct. 19, 2021, 86 F.R. 58551, which established the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans, was revoked by Ex. Ord. No. 14148, § 2(oo), Jan. 20, 2025, 90 F.R. 8239.
 
 **Extension of Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans**
 
@@ -1097,7 +1097,7 @@ Term of Presidential Advisory Commission on Advancing Educational Equity, Excell
 
 **Executive Order No. 14124**
 
-Ex. Ord. No. 14124, July 17, 2024, 89 F.R. 59585, which established the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Hispanic-Serving Institutions, was revoked by Ex. Ord. No. 14148, § 2(iii), Jan. 20, 2025, 90 F.R. 8240.
+Ex. Ord. No. 14124, July 17, 2024, 89 F.R. 59585, which established the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Hispanic-Serving Institutions, was revoked by Ex. Ord. No. 14148, § 2(iii), Jan. 20, 2025, 90 F.R. 8240.
 
 **Ex. Ord. No. 14190. Ending Radical Indoctrination in K-12 Schooling**
 
@@ -1273,7 +1273,7 @@ Donald J. Trump.
 
 **Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color**
 
-Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, as amended by Memorandum of President of the United States, § 1, Jan. 13, 2017, 82 F.R. 7623, provided:
+Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, as amended by Memorandum of President of the United States, § 1, Jan. 13, 2017, 82 F.R. 7623, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies
 
@@ -1381,7 +1381,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Barack Obama.
 
-### § 3412. Principal officers
+### § 3412. Principal officers
 
 **(a) Deputy Secretary of Education**
 
@@ -1473,21 +1473,21 @@ The Assistant Secretary for Career, Technical, and Adult Education, in addition 
 
 **(iii)** education programs located in, and regarding, rural areas.
 
-(Pub. L. 96–88, title II, § 202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, § 1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, § 529 [title I, § 112(a)(3)(B)], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, § 101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, § 201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, § 1553(a), July 23, 1992, 106 Stat. 838; Pub. L. 103–227, title IX, § 913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, § 271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, § 1072(e)(2), Jan. 8, 2002, 115 Stat. 2089; Pub. L. 107–279, title IV, § 402(1), Nov. 5, 2002, 116 Stat. 1984; Pub. L. 112–166, § 2(d)(1), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 113–76, div. H, title III, § 307(b), Jan. 17, 2014, 128 Stat. 399; Pub. L. 117–286, § 4(b)(40), Dec. 27, 2022, 136 Stat. 4348.)
+(Pub. L. 96–88, title II, § 202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, § 1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, § 529 [title I, § 112(a)(3)(B)], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, § 101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, § 201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, § 1553(a), July 23, 1992, 106 Stat. 838; Pub. L. 103–227, title IX, § 913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, § 271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, § 1072(e)(2), Jan. 8, 2002, 115 Stat. 2089; Pub. L. 107–279, title IV, § 402(1), Nov. 5, 2002, 116 Stat. 1984; Pub. L. 112–166, § 2(d)(1), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 113–76, div. H, title III, § 307(b), Jan. 17, 2014, 128 Stat. 399; Pub. L. 117–286, § 4(b)(40), Dec. 27, 2022, 136 Stat. 4348.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (b)(4), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§ 9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (b)(4), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§ 9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 **Amendments**
 
 2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
 
-2014—Subsec. (b)(1)(C). Pub. L. 113–76, § 307(b)(1), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”.
+2014—Subsec. (b)(1)(C). Pub. L. 113–76, § 307(b)(1), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”.
 
-Subsec. (h). Pub. L. 113–76, § 307(b)(2), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education” in two places.
+Subsec. (h). Pub. L. 113–76, § 307(b)(2), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education” in two places.
 
 2012—Subsec. (e). Pub. L. 112–166, in introductory provisions, inserted “Notwithstanding the previous sentence, the appointments of individuals to serve as the Assistant Secretary for Management shall not be subject to the advice and consent of the Senate.”
 
@@ -1505,11 +1505,11 @@ Subsec. (h). Pub. L. 113–76, § 307(b)(2), substituted “Assistant Secretar
 
 Subsec. (b)(3), (4). Pub. L. 107–110 redesignated par. (3), relating to Assistant Secretary for Educational Research and Improvement, as (4).
 
-1994—Subsec. (b)(1)(E) to (G). Pub. L. 103–227, § 913(1), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “an Assistant Secretary for Educational Research and Improvement;”.
+1994—Subsec. (b)(1)(E) to (G). Pub. L. 103–227, § 913(1), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “an Assistant Secretary for Educational Research and Improvement;”.
 
 Subsec. (b)(3). Pub. L. 103–382 added par. (3) relating to Special Assistant for Gender Equity.
 
-Pub. L. 103–227, § 913(2), added par. (3) relating to Assistant Secretary for Educational Research and Improvement.
+Pub. L. 103–227, § 913(2), added par. (3) relating to Assistant Secretary for Educational Research and Improvement.
 
 1992—Subsec. (i). Pub. L. 102–325 added subsec. (i).
 
@@ -1537,7 +1537,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–103, title II, § 203, Aug. 17, 1991, 105 Stat. 499, provided that:
+Pub. L. 102–103, title II, § 203, Aug. 17, 1991, 105 Stat. 499, provided that:
 
 > **“(a) In General.—** This Act [probably should be “this title”, meaning title II of Pub. L. 102–103, amending this section and section 5314 of Title 5, Government Organization and Employees] shall take effect on the first day of the first Department of Education pay period that begins on or after the date of enactment of this Act [Aug. 17, 1991].
 
@@ -1545,9 +1545,9 @@ Pub. L. 102–103, title II, § 203, Aug. 17, 1991, 105 Stat. 499, provided th
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Education, see section 529 [title I, § 112(e)] of Pub. L. 101–509, set out as a note under section 3404 of this title.
+Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Education, see section 529 [title I, § 112(e)] of Pub. L. 101–509, set out as a note under section 3404 of this title.
 
-### § 3413. Office for Civil Rights
+### § 3413. Office for Civil Rights
 
 **(a) Establishment; administration; delegation of functions**
 
@@ -1569,7 +1569,7 @@ There shall be in the Department an Office for Civil Rights, to be administered 
 
 **(4)** notwithstanding any other provision of this chapter, to obtain services as authorized by section 3109 of title 5 at a rate not to exceed the equivalent daily rate payable for grade GS–18 of the General Schedule under section 5332 of such title.
 
-(Pub. L. 96–88, title II, § 203, Oct. 17, 1979, 93 Stat. 673.)
+(Pub. L. 96–88, title II, § 203, Oct. 17, 1979, 93 Stat. 673.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1579,21 +1579,21 @@ For termination, effective May 15, 2000, of provisions in subsec. (b)(1) of this
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 3414. Office of Elementary and Secondary Education; inclusion of Office of Migrant Education
+### § 3414. Office of Elementary and Secondary Education; inclusion of Office of Migrant Education
 
 There shall be in the Department an Office of Elementary and Secondary Education, to be administered by the Assistant Secretary for Elementary and Secondary Education appointed under section 3412(b) of this title. The Assistant Secretary shall administer such functions affecting elementary and secondary education, both public and private, as the Secretary shall delegate. There shall be within the Office of Elementary and Secondary Education and directly under the supervision of the Assistant Secretary for Elementary and Secondary Education, an Office of Migrant Education, which shall be responsible for the administration of programs established by part C of title I of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6391 et seq.] and by subpart 5 of part A of title IV of the Higher Education Act of 1965 [20 U.S.C. 1070d–2].
 
-(Pub. L. 96–88, title II, § 204, Oct. 17, 1979, 93 Stat. 674; Pub. L. 98–511, title VII, § 701(a), Oct. 19, 1984, 98 Stat. 2405; Pub. L. 103–382, title III, § 391(h), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 96–88, title II, § 204, Oct. 17, 1979, 93 Stat. 674; Pub. L. 98–511, title VII, § 701(a), Oct. 19, 1984, 98 Stat. 2405; Pub. L. 103–382, title III, § 391(h), Oct. 20, 1994, 108 Stat. 4023.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part C of title I of the Act is classified generally to part C (§ 6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part C of title I of the Act is classified generally to part C (§ 6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 5 of part A of title IV of the Act is classified generally to subpart 5 (§ 1070d–2) of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 5 of part A of title IV of the Act is classified generally to subpart 5 (§ 1070d–2) of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Amendments**
 
@@ -1607,7 +1607,7 @@ The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov.
 
 Amendment by Pub. L. 98–511 effective Oct. 19, 1984, see section 711(a) of Pub. L. 98–511, set out as a note under section 1226c of this title.
 
-### § 3415. Office of Postsecondary Education
+### § 3415. Office of Postsecondary Education
 
 **(a)** There shall be in the Department an Office of Postsecondary Education, to be administered by the Assistant Secretary for Postsecondary Education appointed under section 3412(b) of this title. The Assistant Secretary shall administer such functions affecting postsecondary education, both public and private, as the Secretary shall delegate, and shall serve as the principal adviser to the Secretary on matters affecting postsecondary education.
 
@@ -1619,7 +1619,7 @@ Amendment by Pub. L. 98–511 effective Oct. 19, 1984, see section 711(a) of Pub
 
 **(3)** coordinate with related international and foreign language education programs of other Federal agencies.
 
-(Pub. L. 96–88, title II, § 205, Oct. 17, 1979, 93 Stat. 674; Pub. L. 110–315, title IX, § 935, Aug. 14, 2008, 122 Stat. 3460.)
+(Pub. L. 96–88, title II, § 205, Oct. 17, 1979, 93 Stat. 674; Pub. L. 110–315, title IX, § 935, Aug. 14, 2008, 122 Stat. 3460.)
 
 **Editorial Notes**
 
@@ -1627,11 +1627,11 @@ Amendment by Pub. L. 98–511 effective Oct. 19, 1984, see section 711(a) of Pub
 
 2008—Pub. L. 110–315 amended section generally. Prior to amendment, text read as follows: “There shall be in the Department an Office of Postsecondary Education, to be administered by the Assistant Secretary for Postsecondary Education appointed under section 3412(b) of this title. The Assistant Secretary shall administer such functions affecting postsecondary education, both public and private, as the Secretary shall delegate, and shall serve as the principal adviser to the Secretary on matters affecting public and private postsecondary education.”
 
-### § 3416. Office of Career, Technical, and Adult Education
+### § 3416. Office of Career, Technical, and Adult Education
 
 There shall be in the Department an Office of Career, Technical, and Adult Education, to be administered by the Assistant Secretary for Career, Technical, and Adult Education appointed under section 3412(b) of this title. The Assistant Secretary shall administer such functions affecting career, technical, and adult education as the Secretary shall delegate, and shall serve as principal adviser to the Secretary on matters affecting career, technical, and adult education. The Secretary, through the Assistant Secretary, shall also provide a unified approach to rural education and rural family education through the coordination of programs within the Department and shall work with the Federal Interagency Committee on Education to coordinate related activities and programs of other Federal departments and agencies.
 
-(Pub. L. 96–88, title II, § 206, Oct. 17, 1979, 93 Stat. 674; Pub. L. 113–76, div. H, title III, § 307(a), Jan. 17, 2014, 128 Stat. 399.)
+(Pub. L. 96–88, title II, § 206, Oct. 17, 1979, 93 Stat. 674; Pub. L. 113–76, div. H, title III, § 307(a), Jan. 17, 2014, 128 Stat. 399.)
 
 **Editorial Notes**
 
@@ -1639,39 +1639,39 @@ There shall be in the Department an Office of Career, Technical, and Adult Educa
 
 2014—Pub. L. 113–76 substituted, in section catchline, “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education” and, in text, “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education”, “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”, and “career, technical, and adult education” for “vocational and adult education” in two places.
 
-### § 3417. Office of Special Education and Rehabilitative Services
+### § 3417. Office of Special Education and Rehabilitative Services
 
 There shall be in the Department an Office of Special Education and Rehabilitative Services, to be administered by the Assistant Secretary for Special Education and Rehabilitative Services appointed under section 3412(b) of this title. Notwithstanding the provisions of section 3472 of this title, the Secretary shall delegate to the Assistant Secretary all functions, other than administrative and support functions, transferred to the Secretary under sections 3441(a)(1) of this title (with respect to the bureau for the education and training of the handicapped), 3441(a)(2)(H) of this title, and 3441(a)(4) of this title.
 
-(Pub. L. 96–88, title II, § 207, Oct. 17, 1979, 93 Stat. 674.)
+(Pub. L. 96–88, title II, § 207, Oct. 17, 1979, 93 Stat. 674.)
 
-### § 3418. Repealed. Pub. L. 99–145, title XII, § 1204(a)(1), Nov. 8, 1985, 99 Stat. 720
+### § 3418. Repealed. Pub. L. 99–145, title XII, § 1204(a)(1), Nov. 8, 1985, 99 Stat. 720
 
-Section, Pub. L. 96–88, title II, § 208, Oct. 17, 1979, 93 Stat. 674, provided for an Office of Education for Overseas Dependents in Department of Education.
+Section, Pub. L. 96–88, title II, § 208, Oct. 17, 1979, 93 Stat. 674, provided for an Office of Education for Overseas Dependents in Department of Education.
 
-### § 3419. Institute of Education Sciences
+### § 3419. Institute of Education Sciences
 
 There shall be in the Department of Education the Institute of Education Sciences, which shall be administered in accordance with the Education Sciences Reform Act of 2002 [20 U.S.C. 9501 et seq.] by the Director appointed under section 114(a) of that Act [20 U.S.C. 9514(a)].
 
-(Pub. L. 96–88, title II, § 208, as added Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.)
+(Pub. L. 96–88, title II, § 208, as added Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Sciences Reform Act of 2002, referred to in text, is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§ 9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in text, is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§ 9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 3419, Pub. L. 96–88, title II, § 208, formerly § 209, Oct. 17, 1979, 93 Stat. 674; Pub. L. 103–227, title IX, § 911(b), Mar. 31, 1994, 108 Stat. 213; renumbered § 208, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929, related to Office of Educational Research and Improvement, prior to repeal by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
+A prior section 3419, Pub. L. 96–88, title II, § 208, formerly § 209, Oct. 17, 1979, 93 Stat. 674; Pub. L. 103–227, title IX, § 911(b), Mar. 31, 1994, 108 Stat. 213; renumbered § 208, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929, related to Office of Educational Research and Improvement, prior to repeal by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
 
 A prior section 208 of Pub. L. 96–88 was classified to section 3418 of this title prior to repeal by Pub. L. 99–145.
 
-### § 3420. Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students
+### § 3420. Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students
 
 There shall be in the Department an Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students, to be administered by a Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students, who shall be appointed by the Secretary. The Director shall coordinate the administration of bilingual education programs by the Department and shall consult with the Secretary concerning policy decisions affecting bilingual education and minority languages affairs. The Director shall report directly to the Secretary, and shall perform such additional functions as the Secretary may prescribe.
 
-(Pub. L. 96–88, title II, § 209, formerly § 210, Oct. 17, 1979, 93 Stat. 675; renumbered § 209, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929; amended Pub. L. 107–110, title X, § 1072(b), (c)(2)(A), (d), Jan. 8, 2002, 115 Stat. 2089.)
+(Pub. L. 96–88, title II, § 209, formerly § 210, Oct. 17, 1979, 93 Stat. 675; renumbered § 209, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929; amended Pub. L. 107–110, title X, § 1072(b), (c)(2)(A), (d), Jan. 8, 2002, 115 Stat. 2089.)
 
 **Editorial Notes**
 
@@ -1681,9 +1681,9 @@ A prior section 209 of Pub. L. 96–88 was renumbered section 208 and was classi
 
 **Amendments**
 
-2002—Pub. L. 107–110, § 1072(d), substituted “Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Director of Bilingual Education and Minority Languages Affairs”.
+2002—Pub. L. 107–110, § 1072(d), substituted “Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Director of Bilingual Education and Minority Languages Affairs”.
 
-Pub. L. 107–110, § 1072(b), (c)(2)(A), substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education and Minority Languages Affairs” in section catchline and in text.
+Pub. L. 107–110, § 1072(b), (c)(2)(A), substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education and Minority Languages Affairs” in section catchline and in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1691,11 +1691,11 @@ Pub. L. 107–110, § 1072(b), (c)(2)(A), substituted “Office of English Lan
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
-### § 3421. Office of General Counsel
+### § 3421. Office of General Counsel
 
 There shall be in the Department an Office of General Counsel, to be administered by the General Counsel appointed under section 3412(b) of this title. The General Counsel shall provide legal assistance to the Secretary concerning the programs and policies of the Department.
 
-(Pub. L. 96–88, title II, § 210, formerly § 211, Oct. 17, 1979, 93 Stat. 675; renumbered § 210, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title II, § 210, formerly § 211, Oct. 17, 1979, 93 Stat. 675; renumbered § 210, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 **Editorial Notes**
 
@@ -1703,11 +1703,11 @@ There shall be in the Department an Office of General Counsel, to be administere
 
 A prior section 210 of Pub. L. 96–88 was renumbered section 209 and is classified to section 3420 of this title.
 
-### § 3422. Office of Inspector General
+### § 3422. Office of Inspector General
 
 There shall be in the Department an Office of Inspector General, established in accordance with chapter 4 of title 5.
 
-(Pub. L. 96–88, title II, § 211, formerly § 212, Oct. 17, 1979, 93 Stat. 675; renumbered § 211, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929; amended Pub. L. 117–286, § 4(b)(41), Dec. 27, 2022, 136 Stat. 4348.)
+(Pub. L. 96–88, title II, § 211, formerly § 212, Oct. 17, 1979, 93 Stat. 675; renumbered § 211, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929; amended Pub. L. 117–286, § 4(b)(41), Dec. 27, 2022, 136 Stat. 4348.)
 
 **Editorial Notes**
 
@@ -1719,9 +1719,9 @@ A prior section 211 of Pub. L. 96–88 was renumbered section 210 and is classif
 
 2022—Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
 
-### § 3423. Repealed. Pub. L. 101–392, title VI, § 602(a)(1), Sept. 25, 1990, 104 Stat. 840
+### § 3423. Repealed. Pub. L. 101–392, title VI, § 602(a)(1), Sept. 25, 1990, 104 Stat. 840
 
-Section, Pub. L. 96–88, title II, § 213, Oct. 17, 1979, 93 Stat. 675, established the Intergovernmental Advisory Council on Education.
+Section, Pub. L. 96–88, title II, § 213, Oct. 17, 1979, 93 Stat. 675, established the Intergovernmental Advisory Council on Education.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1729,7 +1729,7 @@ Section, Pub. L. 96–88, title II, § 213, Oct. 17, 1979, 93 Stat. 675, estab
 
 Repeal effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date note under section 3423a of this title.
 
-### § 3423a. Office of Correctional Education
+### § 3423a. Office of Correctional Education
 
 **(a) Findings** The Congress finds and declares that—
 
@@ -1779,7 +1779,7 @@ The Secretary of Education shall establish within the Department of Education an
 
 **(3)** the term “State educational agency” means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
 
-(Pub. L. 96–88, title II, § 212, formerly § 214, as added Pub. L. 101–392, title VI, § 602(a)(3), Sept. 25, 1990, 104 Stat. 840; amended Pub. L. 103–322, title II, § 20408(a), Sept. 13, 1994, 108 Stat. 1827; renumbered § 212, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title II, § 212, formerly § 214, as added Pub. L. 101–392, title VI, § 602(a)(3), Sept. 25, 1990, 104 Stat. 840; amended Pub. L. 103–322, title II, § 20408(a), Sept. 13, 1994, 108 Stat. 1827; renumbered § 212, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 **Editorial Notes**
 
@@ -1795,17 +1795,17 @@ A prior section 212 of Pub. L. 96–88 was renumbered section 211 and is classif
 
 **Effective Date**
 
-Pub. L. 101–392, title VII, § 702, Sept. 25, 1990, 104 Stat. 843, provided that:
+Pub. L. 101–392, title VII, § 702, Sept. 25, 1990, 104 Stat. 843, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), the amendments made by this Act [enacting subchapter II of chapter 44 of this title, this section, sections 2311a, 2327, 2328, 2394 to 2394e, 2395 to 2395e, 2396 to 2396m, 2411 to 2420a, 2424, 2466b to 2466e, 2468, 2468b to 2468e, and 3423a of this title, and subchapter III of chapter 20 of Title 25, Indians, amending sections 2301, 2311 to 2313, 2321 to 2324, 2352, 2361 to 2363, 2382, 2391, 2392, 2401 to 2404, 2421 to 2423, 2451, 2463, and 2471 of this title, section 1812 of Title 25, and sections 49f, 1533, 1604, and 1661c of Title 29, Labor, repealing sections 1131, 2371 to 2373, 2376 to 2378, 2431, 2462, 2464, 2465, and 3423 of this title, and amending provisions set out as a note under section 2301 of this title] shall take effect on July 1, 1991.
 
-> **“(b) Special Rule.—** Sections 3, 115, 116, 504, and 512 and part H of title III of the Carl D. Perkins Vocational and Applied Technology Education Act [former sections 2302, 2325, 2326, 2466a, and 2468a of this title and former part H (§ 2397 et seq.) of subchapter III of chapter 44 of this title] (as amended by this Act) shall take effect upon the enactment of this Act [Sept. 25, 1990].”
+> **“(b) Special Rule.—** Sections 3, 115, 116, 504, and 512 and part H of title III of the Carl D. Perkins Vocational and Applied Technology Education Act [former sections 2302, 2325, 2326, 2466a, and 2468a of this title and former part H (§ 2397 et seq.) of subchapter III of chapter 44 of this title] (as amended by this Act) shall take effect upon the enactment of this Act [Sept. 25, 1990].”
 
-### § 3423b. Office of Non-Public Education
+### § 3423b. Office of Non-Public Education
 
 There shall be in the Department an Office of Non-Public Education to ensure the maximum potential participation of non-public school students in all Federal educational programs for which such students are eligible.
 
-(Pub. L. 96–88, title II, § 214, as added Pub. L. 103–382, title II, § 271(c), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title II, § 214, as added Pub. L. 103–382, title II, § 271(c), Oct. 20, 1994, 108 Stat. 3929.)
 
 **Editorial Notes**
 
@@ -1815,7 +1815,7 @@ A prior section 214 of Pub. L. 96–88 was renumbered section 212 and is classif
 
 Another prior section 214 of Pub. L. 96–88 was renumbered section 217 and is classified to section 3424 of this title.
 
-### § 3423c. Office of Indian Education
+### § 3423c. Office of Indian Education
 
 **(a) Office of Indian Education**
 
@@ -1847,19 +1847,19 @@ The Secretary shall give a preference to Indian persons in all personnel actions
 
 Such preference shall be implemented in the same fashion as the preference given to any veteran under section 45 of title 25.
 
-(Pub. L. 96–88, title II, § 215, as added Pub. L. 103–382, title III, § 372(2), Oct. 20, 1994, 108 Stat. 3977; amended Pub. L. 114–95, title IX, § 9215(v), Dec. 10, 2015, 129 Stat. 2171.)
+(Pub. L. 96–88, title II, § 215, as added Pub. L. 103–382, title III, § 372(2), Oct. 20, 1994, 108 Stat. 3977; amended Pub. L. 114–95, title IX, § 9215(v), Dec. 10, 2015, 129 Stat. 2171.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title VI of the Act is classified generally to part A (§ 7401 et seq.) of subchapter VI of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title VI of the Act is classified generally to part A (§ 7401 et seq.) of subchapter VI of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Prior Provisions**
 
 A prior section 215 of Pub. L. 96–88 was renumbered section 217 and is classified to section 3424 of this title.
 
-Provisions similar to those in this section were contained in section 2641 of Title 25, Indians, prior to repeal by Pub. L. 103–382, § 367.
+Provisions similar to those in this section were contained in section 2641 of Title 25, Indians, prior to repeal by Pub. L. 103–382, § 367.
 
 **Amendments**
 
@@ -1873,9 +1873,9 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Office of Educational Research and Improvement**
 
-The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
 
-### § 3423d. Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students
+### § 3423d. Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students
 
 **(a) Establishment**
 
@@ -1895,7 +1895,7 @@ The Office shall be organized as the Director determines to be appropriate in or
 
 The Secretary shall ensure that limited-English-proficient and language-minority students are included in ways that are valid, reliable, and fair under all standards and assessment development conducted or funded by the Department.
 
-(Pub. L. 96–88, title II, § 216, as added Pub. L. 103–382, title III, § 372(2), Oct. 20, 1994, 108 Stat. 3978; amended Pub. L. 107–110, title X, § 1072(b), (c)(2)(B), (d), Jan. 8, 2002, 115 Stat. 2089.)
+(Pub. L. 96–88, title II, § 216, as added Pub. L. 103–382, title III, § 372(2), Oct. 20, 1994, 108 Stat. 3978; amended Pub. L. 107–110, title X, § 1072(b), (c)(2)(B), (d), Jan. 8, 2002, 115 Stat. 2089.)
 
 **Editorial Notes**
 
@@ -1905,11 +1905,11 @@ Another section 216 of Pub. L. 96–88 was renumbered section 218 and is classif
 
 **Amendments**
 
-2002—Pub. L. 107–110, § 1072(c)(2)(B), substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education and Minority Languages Affairs” in section catchline.
+2002—Pub. L. 107–110, § 1072(c)(2)(B), substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education and Minority Languages Affairs” in section catchline.
 
-Subsec. (a). Pub. L. 107–110, § 1072(b), substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education and Minority Languages Affairs”.
+Subsec. (a). Pub. L. 107–110, § 1072(b), substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education and Minority Languages Affairs”.
 
-Subsec. (b)(1). Pub. L. 107–110, § 1072(d), substituted “Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for ‘Director of Bilingual Education and Minority Languages Affairs”.
+Subsec. (b)(1). Pub. L. 107–110, § 1072(d), substituted “Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for ‘Director of Bilingual Education and Minority Languages Affairs”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1919,9 +1919,9 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **Office of Educational Research and Improvement**
 
-The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
 
-### § 3424. Federal Interagency Committee on Education
+### § 3424. Federal Interagency Committee on Education
 
 **(a) Establishment and function**
 
@@ -1959,7 +1959,7 @@ The Committee shall meet at least twice each year. The Secretary may establish s
 
 The Secretary and the head of each agency represented on the Committee under subsection (c) shall furnish necessary assistance to the Committee.
 
-(Pub. L. 96–88, title II, § 217, formerly § 214, Oct. 17, 1979, 93 Stat. 676; renumbered § 215, Pub. L. 101–392, title VI, § 602(a)(2), Sept. 25, 1990, 104 Stat. 840; renumbered § 217, Pub. L. 103–382, title III, § 372(1), Oct. 20, 1994, 108 Stat. 3977.)
+(Pub. L. 96–88, title II, § 217, formerly § 214, Oct. 17, 1979, 93 Stat. 676; renumbered § 215, Pub. L. 101–392, title VI, § 602(a)(2), Sept. 25, 1990, 104 Stat. 840; renumbered § 217, Pub. L. 103–382, title III, § 372(1), Oct. 20, 1994, 108 Stat. 3977.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1967,7 +1967,7 @@ The Secretary and the head of each agency represented on the Committee under sub
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 3425. Office of Educational Technology
+### § 3425. Office of Educational Technology
 
 **(a) Establishment**
 
@@ -1979,9 +1979,9 @@ There shall be in the Department of Education an Office of Educational Technolog
 
 **(2)** review all programs and training functions administered by the Department and recommend policies in order to promote increased use of technology and technology planning throughout all such programs and functions;
 
-**(3)** review all relevant programs supported by the Department to ensure that such programs are coordinated with and support the national long-range technology plan developed pursuant to section 5862(b) 1
+**(3)** review all relevant programs supported by the Department to ensure that such programs are coordinated with and support the national long-range technology plan developed pursuant to section 5862(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
@@ -1995,21 +1995,21 @@ The Director is authorized to select, appoint, and employ such officers and empl
 
 The Secretary may obtain the services of experts and consultants in accordance with section 3109 of title 5.
 
-(Pub. L. 96–88, title II, § 218, formerly § 216, as added Pub. L. 103–227, title II, § 233(a), Mar. 31, 1994, 108 Stat. 154; renumbered § 218, Pub. L. 107–110, title X, § 1072(e)(3), Jan. 8, 2002, 115 Stat. 2090.)
+(Pub. L. 96–88, title II, § 218, formerly § 216, as added Pub. L. 103–227, title II, § 233(a), Mar. 31, 1994, 108 Stat. 154; renumbered § 218, Pub. L. 107–110, title X, § 1072(e)(3), Jan. 8, 2002, 115 Stat. 2090.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 103–382, title III, § 361(a), Oct. 20, 1994, 108 Stat. 3974.
+Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 103–382, title III, § 361(a), Oct. 20, 1994, 108 Stat. 3974.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Office of Training Technology Transfer**
 
-Pub. L. 103–227, title II, § 236(a)(1), Mar. 31, 1994, 108 Stat. 156, provided that: “The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 ([former] 20 U.S.C. 5093) is transferred to and established in the Office of Educational Technology.”
+Pub. L. 103–227, title II, § 236(a)(1), Mar. 31, 1994, 108 Stat. 156, provided that: “The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 ([former] 20 U.S.C. 5093) is transferred to and established in the Office of Educational Technology.”
 
-### § 3426. Liaison for Proprietary Institutions of Higher Education
+### § 3426. Liaison for Proprietary Institutions of Higher Education
 
 **(a) Establishment**
 
@@ -2035,7 +2035,7 @@ There shall be in the Department a Liaison for Proprietary Institutions of Highe
 
 **(C)** education programs located in, and involving, rural areas.
 
-(Pub. L. 96–88, title II, § 219, as added Pub. L. 105–244, title IX, § 961, Oct. 7, 1998, 112 Stat. 1836.)
+(Pub. L. 96–88, title II, § 219, as added Pub. L. 105–244, title IX, § 961, Oct. 7, 1998, 112 Stat. 1836.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2043,7 +2043,7 @@ There shall be in the Department a Liaison for Proprietary Institutions of Highe
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
-### § 3427. Coordinator for the outlying areas
+### § 3427. Coordinator for the outlying areas
 
 **(a) Establishment**
 
@@ -2067,7 +2067,7 @@ Not later than 90 days after January 8, 2002, the head of the office designated 
 
 As used in this section, the term “outlying areas” includes Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Marianas Islands, but does not include the freely associated states of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-(Pub. L. 96–88, title II, § 220, as added Pub. L. 107–110, title X, § 1072(a), Jan. 8, 2002, 115 Stat. 2088.)
+(Pub. L. 96–88, title II, § 220, as added Pub. L. 107–110, title X, § 1072(a), Jan. 8, 2002, 115 Stat. 2088.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2077,7 +2077,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 ## SUBCHAPTER III—TRANSFERS OF AGENCIES AND FUNCTIONS
 
-### § 3441. Transfers from Department of Health, Education, and Welfare
+### § 3441. Transfers from Department of Health, Education, and Welfare
 
 **(a) Functions transferred to Secretary** There are transferred to the Secretary—
 
@@ -2159,55 +2159,55 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 [42 U.S.C. 2928 et seq.], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
 
-(Pub. L. 96–88, title III, § 301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(b)(2)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
+(Pub. L. 96–88, title III, § 301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(b)(2)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Education Amendments of 1978, referred to in subsec. (a)(2)(D), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
-Act of August 30, 1890 (7 U.S.C. 321–328), referred to in subsec. (a)(2)(E), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
+Act of August 30, 1890 (7 U.S.C. 321–328), referred to in subsec. (a)(2)(E), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
-The National Defense Education Act of 1958, referred to in subsec. (a)(2)(F), is Pub. L. 85–864, Sept. 2, 1958, 72 Stat. 1580, which was classified principally to chapter 17 (§ 401 et seq.) of this title prior to omission from the Code. For complete classification of this Act to the Code, see Tables.
+The National Defense Education Act of 1958, referred to in subsec. (a)(2)(F), is Pub. L. 85–864, Sept. 2, 1958, 72 Stat. 1580, which was classified principally to chapter 17 (§ 401 et seq.) of this title prior to omission from the Code. For complete classification of this Act to the Code, see Tables.
 
-The International Education Act of 1966, referred to in subsec. (a)(2)(G), is Pub. L. 89–698, Oct. 29, 1966, 80 Stat. 1066, which was classified principally to chapter 29 (§ 1171 et seq.) of this title and was substantially repealed by section 601(c)(2) of Pub. L. 96–374. For complete classification of this Act to the Code, see Tables.
+The International Education Act of 1966, referred to in subsec. (a)(2)(G), is Pub. L. 89–698, Oct. 29, 1966, 80 Stat. 1066, which was classified principally to chapter 29 (§ 1171 et seq.) of this title and was substantially repealed by section 601(c)(2) of Pub. L. 96–374. For complete classification of this Act to the Code, see Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(H), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(H), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsecs. (a)(2)(I) and (d), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Parts A and B of title V of the Economic Opportunity Act of 1964 were classified generally to parts A (§ 2928 et seq.) and B (§ 2929 et seq.) of subchapter V of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsecs. (a)(2)(I) and (d), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Parts A and B of title V of the Economic Opportunity Act of 1964 were classified generally to parts A (§ 2928 et seq.) and B (§ 2929 et seq.) of subchapter V of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
-The National Commission on Libraries and Information Science Act, referred to in subsec. (a)(2)(J), is Pub. L. 91–345, July 20, 1970, 84 Stat. 440, which was classified generally to chapter 34 (§ 1501 et seq.) of this title, and was repealed by Pub. L. 111–340, title IV, § 401(a), Dec. 22, 2010, 124 Stat. 3604.
+The National Commission on Libraries and Information Science Act, referred to in subsec. (a)(2)(J), is Pub. L. 91–345, July 20, 1970, 84 Stat. 440, which was classified generally to chapter 34 (§ 1501 et seq.) of this title, and was repealed by Pub. L. 111–340, title IV, § 401(a), Dec. 22, 2010, 124 Stat. 3604.
 
-The Vocational Education Act of 1963, referred to in subsec. (a)(2)(K), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, § 202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§ 2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see Codification note preceding section 2301 of this title.
+The Vocational Education Act of 1963, referred to in subsec. (a)(2)(K), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, § 202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§ 2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see Codification note preceding section 2301 of this title.
 
-The Career Education Incentive Act, referred to in subsec. (a)(2)(L), is Pub. L. 95–207, Dec. 13, 1977, 91 Stat. 1464, which was classified principally to chapter 46 (§ 2601 et seq.) of this title prior to its repeal by Pub. L. 97–35, title V, § 587(a)(4), Aug. 13, 1981, 95 Stat. 480.
+The Career Education Incentive Act, referred to in subsec. (a)(2)(L), is Pub. L. 95–207, Dec. 13, 1977, 91 Stat. 1464, which was classified principally to chapter 46 (§ 2601 et seq.) of this title prior to its repeal by Pub. L. 97–35, title V, § 587(a)(4), Aug. 13, 1981, 95 Stat. 480.
 
-The Model Secondary School for the Deaf Act, referred to in subsec. (a)(2)(N), is Pub. L. 89–694, Oct. 15, 1966, 80 Stat. 1027, which was classified to subchapter II (§ 693 et seq.) of chapter 20B of this title, and was repealed by Pub. L. 99–371, title IV, § 410(c), Aug. 4, 1986, 100 Stat. 794. See section 4321 et seq. of this title.
+The Model Secondary School for the Deaf Act, referred to in subsec. (a)(2)(N), is Pub. L. 89–694, Oct. 15, 1966, 80 Stat. 1027, which was classified to subchapter II (§ 693 et seq.) of chapter 20B of this title, and was repealed by Pub. L. 99–371, title IV, § 410(c), Aug. 4, 1986, 100 Stat. 794. See section 4321 et seq. of this title.
 
-The Communications Act of 1934, referred to in subsec. (a)(2)(O), is act June 19, 1934, ch. 652, 48 Stat. 1064. Subpart A of part IV of title III of the Act (which is classified principally to subpart A (§ 390 et seq.) of part IV of subchapter III of chapter 5 of Title 47, Telecommunications) was amended by section 201 of Pub. L. 95–567, Nov. 2, 1978, 92 Stat. 2409, and, as so amended, the provisions relating to telecommunications demonstrations which had appeared in subpart A were restated in a new subpart B (§ 395 et seq.). Subpart B was subsequently redesignated subpart C by Pub. L. 101–437, title II, § 203(a)(2), Oct. 17, 1990, 104 Stat. 998. For complete classification of the 1934 Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (a)(2)(O), is act June 19, 1934, ch. 652, 48 Stat. 1064. Subpart A of part IV of title III of the Act (which is classified principally to subpart A (§ 390 et seq.) of part IV of subchapter III of chapter 5 of Title 47, Telecommunications) was amended by section 201 of Pub. L. 95–567, Nov. 2, 1978, 92 Stat. 2409, and, as so amended, the provisions relating to telecommunications demonstrations which had appeared in subpart A were restated in a new subpart B (§ 395 et seq.). Subpart B was subsequently redesignated subpart C by Pub. L. 101–437, title II, § 203(a)(2), Oct. 17, 1990, 104 Stat. 998. For complete classification of the 1934 Act to the Code, see section 609 of Title 47 and Tables.
 
-The Alcohol and Drug Abuse Education Act, referred to in subsec. (a)(2)(Q), is Pub. L. 91–527, Dec. 3, 1970, 84 Stat. 1385, which was classified generally to chapter 14 (§ 1001 et seq.) of Title 21, Food and Drugs, prior to repeal by Pub. L. 97–35, title V, § 587(a)(3), Aug. 13, 1981, 95 Stat. 480.
+The Alcohol and Drug Abuse Education Act, referred to in subsec. (a)(2)(Q), is Pub. L. 91–527, Dec. 3, 1970, 84 Stat. 1385, which was classified generally to chapter 14 (§ 1001 et seq.) of Title 21, Food and Drugs, prior to repeal by Pub. L. 97–35, title V, § 587(a)(3), Aug. 13, 1981, 95 Stat. 480.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (a)(4)(A), (C), and (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (a)(4)(A), (C), and (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch. 638, 49 Stat. 1559, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, which is classified generally to chapter 6A (§ 107 et seq.) of this title. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of this title and Tables.
+Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch. 638, 49 Stat. 1559, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, which is classified generally to chapter 6A (§ 107 et seq.) of this title. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of this title and Tables.
 
 **Codification**
 
-“Section 550 of title 40” substituted in subsec. (a)(2)(P) for “section 203(k) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 550 of title 40” substituted in subsec. (a)(2)(P) for “section 203(k) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
-1996—Subsec. (a)(5) to (7). Pub. L. 104–208, § 101(e) [title VII, § 709(b)(2)(A)], redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which transferred all functions of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Secretary of Education.
+1996—Subsec. (a)(5) to (7). Pub. L. 104–208, § 101(e) [title VII, § 709(b)(2)(A)], redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which transferred all functions of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Secretary of Education.
 
-Subsec. (b)(4) to (7). Pub. L. 104–208, § 101(e) [title VII, § 709(b)(2)(B)], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
+Subsec. (b)(4) to (7). Pub. L. 104–208, § 101(e) [title VII, § 709(b)(2)(B)], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
 
 1990—Subsec. (a)(2)(H). Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
 
@@ -2215,17 +2215,17 @@ Subsec. (b)(4) to (7). Pub. L. 104–208, § 101(e) [title VII, § 709(b)(2)
 
 **Change of Name**
 
-Gallaudet College, referred to in subsec. (a)(2)(M), redesignated Gallaudet University by Pub. L. 99–371, title I, § 101(a), Aug. 4, 1986, 100 Stat. 781, which is classified to section 4301(a) of this title.
+Gallaudet College, referred to in subsec. (a)(2)(M), redesignated Gallaudet University by Pub. L. 99–371, title I, § 101(a), Aug. 4, 1986, 100 Stat. 781, which is classified to section 4301(a) of this title.
 
 **Effective Date of 1990 Amendment**
 
 Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
-### § 3442. Repealed. Pub. L. 99–145, title XII, § 1204(a)(1), Nov. 8, 1985, 99 Stat. 720
+### § 3442. Repealed. Pub. L. 99–145, title XII, § 1204(a)(1), Nov. 8, 1985, 99 Stat. 720
 
-Section, Pub. L. 96–88, title III, § 302, Oct. 17, 1979, 93 Stat. 679; Pub. L. 97–252, title XI, § 1118, Sept. 8, 1982, 96 Stat. 753; Pub. L. 98–94, title XII, § 1223, Sept. 24, 1983, 97 Stat. 692, provided for transfers to Department and Secretary of Education from Department and Secretary of Defense of functions relating to operation of overseas schools for and education of dependents and personnel, effectuation of transfers, and operation of overseas institutions of higher education.
+Section, Pub. L. 96–88, title III, § 302, Oct. 17, 1979, 93 Stat. 679; Pub. L. 97–252, title XI, § 1118, Sept. 8, 1982, 96 Stat. 753; Pub. L. 98–94, title XII, § 1223, Sept. 24, 1983, 97 Stat. 692, provided for transfers to Department and Secretary of Education from Department and Secretary of Defense of functions relating to operation of overseas schools for and education of dependents and personnel, effectuation of transfers, and operation of overseas institutions of higher education.
 
-### § 3443. Transfers from Department of Labor
+### § 3443. Transfers from Department of Labor
 
 **(a) Functions relating to programs for the education of migrant and seasonal farmworkers**
 
@@ -2235,7 +2235,7 @@ Notwithstanding the provisions of section 601 of this Act, there shall be transf
 
 The Secretary is authorized to conduct the functions transferred by subsection (a).
 
-(Pub. L. 96–88, title III, § 302, formerly § 303, Oct. 17, 1979, 93 Stat. 680; renumbered § 302, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421.)
+(Pub. L. 96–88, title III, § 302, formerly § 303, Oct. 17, 1979, 93 Stat. 680; renumbered § 302, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421.)
 
 **Editorial Notes**
 
@@ -2251,7 +2251,7 @@ A prior section 302 of Pub. L. 96–88 was classified to section 3442 of this ti
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “relating to such education” for “under section 303(c)(2) of the Comprehensive Employment and Training Act”.
 
-### § 3444. Transfer of programs from National Science Foundation
+### § 3444. Transfer of programs from National Science Foundation
 
 **(a) Science education; exceptions**
 
@@ -2281,13 +2281,13 @@ The annual report to be transmitted by the Secretary pursuant to section 3486 of
 
 Nothing in this section is intended to repeal or limit the authority of the National Science Foundation or the Director of the National Science Foundation to initiate and conduct programs under the National Science Foundation Act of 1950 [42 U.S.C. 1861 et seq.].
 
-(Pub. L. 96–88, title III, § 303, formerly § 304, Oct. 17, 1979, 93 Stat. 680; renumbered § 303, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title III, § 303, formerly § 304, Oct. 17, 1979, 93 Stat. 680; renumbered § 303, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Science Foundation Act of 1950, referred to in subsecs. (a)(1) and (d), is act May 10, 1950, ch. 171, 64 Stat. 149, which is classified generally to chapter 16 (§ 1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
+The National Science Foundation Act of 1950, referred to in subsecs. (a)(1) and (d), is act May 10, 1950, ch. 171, 64 Stat. 149, which is classified generally to chapter 16 (§ 1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
 
 **Codification**
 
@@ -2297,47 +2297,47 @@ In subsec. (a)(1), “May 4, 1980” substituted for “the effective date of th
 
 A prior section 303 of Pub. L. 96–88 was renumbered section 302 and is classified to section 3443 of this title.
 
-### § 3445. Transfers from Department of Justice
+### § 3445. Transfers from Department of Justice
 
-There are transferred to the Secretary all functions of the Attorney General and of the Law Enforcement Assistance Administration with regard to the student loan and grant programs known as the law enforcement education program and the law enforcement intern program authorized by subsections (b), (c), and (f) of section 406 1
+There are transferred to the Secretary all functions of the Attorney General and of the Law Enforcement Assistance Administration with regard to the student loan and grant programs known as the law enforcement education program and the law enforcement intern program authorized by subsections (b), (c), and (f) of section 406 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Omnibus Crime Control and Safe Streets Act of 1968.
 
-(Pub. L. 96–88, title III, § 304, formerly § 305, Oct. 17, 1979, 93 Stat. 680; renumbered § 304, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title III, § 304, formerly § 305, Oct. 17, 1979, 93 Stat. 680; renumbered § 304, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 406 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in text, is section 406 of title I of Pub. L. 90–351, June 19, 1968, 82 Stat. 204, which was classified to section 3746 of Title 42, The Public Health and Welfare. Title I of the Act was amended generally by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, and provisions formerly contained in section 406 of the Act were contained in section 705 of part G of title I of the Act, which was classified to section 3775 of Title 42. Subsequently, part G of title I of the Act was amended generally by Pub. L. 98–473, title II, § 609A(a), Oct. 12, 1984, 98 Stat. 2090, and, as so amended, did not contain a section 705 or similar provisions.
+Section 406 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in text, is section 406 of title I of Pub. L. 90–351, June 19, 1968, 82 Stat. 204, which was classified to section 3746 of Title 42, The Public Health and Welfare. Title I of the Act was amended generally by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, and provisions formerly contained in section 406 of the Act were contained in section 705 of part G of title I of the Act, which was classified to section 3775 of Title 42. Subsequently, part G of title I of the Act was amended generally by Pub. L. 98–473, title II, § 609A(a), Oct. 12, 1984, 98 Stat. 2090, and, as so amended, did not contain a section 705 or similar provisions.
 
 **Prior Provisions**
 
 A prior section 304 of Pub. L. 96–88 was renumbered section 303 and is classified to section 3444 of this title.
 
-### § 3446. Transfers from Department of Housing and Urban Development
+### § 3446. Transfers from Department of Housing and Urban Development
 
 There are transferred to the Secretary all functions relating to college housing loans of the Secretary of Housing and Urban Development and of the Department of Housing and Urban Development under title IV of the Housing Act of 1950 [12 U.S.C. 1749 et seq.].
 
-(Pub. L. 96–88, title III, § 305, formerly § 306, Oct. 17, 1979, 93 Stat. 681; renumbered § 305, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title III, § 305, formerly § 306, Oct. 17, 1979, 93 Stat. 681; renumbered § 305, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Housing Act of 1950, referred to in text, is act Apr. 20, 1950, ch. 94, 64 Stat. 48, as amended. Title IV of the Housing Act of 1950 which was classified generally to subchapter IX (§ 1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, § 702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under section 1701 of Title 12 and Tables.
+The Housing Act of 1950, referred to in text, is act Apr. 20, 1950, ch. 94, 64 Stat. 48, as amended. Title IV of the Housing Act of 1950 which was classified generally to subchapter IX (§ 1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, § 702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under section 1701 of Title 12 and Tables.
 
 **Prior Provisions**
 
 A prior section 305 of Pub. L. 96–88 was renumbered section 304 and is classified to section 3445 of this title.
 
-### § 3447. Effect of transfers
+### § 3447. Effect of transfers
 
 The transfer of a function or office from an officer or agency to the Secretary or to the Department includes any aspects of such function or office vested in a subordinate of such officer or in a component of such agency.
 
-(Pub. L. 96–88, title III, § 306, formerly § 307, Oct. 17, 1979, 93 Stat. 681; renumbered § 306, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title III, § 306, formerly § 307, Oct. 17, 1979, 93 Stat. 681; renumbered § 306, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 **Editorial Notes**
 
@@ -2349,7 +2349,7 @@ A prior section 306 of Pub. L. 96–88 was renumbered section 305 and is classif
 
 ### Part A—Personnel Provisions
 
-#### § 3461. Officers and employees
+#### § 3461. Officers and employees
 
 **(a) Appointment and compensation**
 
@@ -2359,7 +2359,7 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 **(1)** At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 5108 of title 5, provide for the establishment in each of the grade levels GS–16, GS–17, and GS–18 of a number of positions in the Department equal to the number of positions in that grade level which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.
 
-**(2)** Repealed. Pub. L. 107–279, title IV, § 403(3), Nov. 5, 2002, 116 Stat. 1985.
+**(2)** Repealed. Pub. L. 107–279, title IV, § 403(3), Nov. 5, 2002, 116 Stat. 1985.
 
 **(3)** Appointments to positions provided for under this subsection may be made without regard to the provisions of section 3324 of title 5, if the individual appointed in such position is an individual who is transferred in connection with the transfer of functions and offices under this chapter and, on the day preceding May 4, 1980, holds a position and has duties comparable to those of the position to which appointed hereunder.
 
@@ -2367,7 +2367,7 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 **(5)** For purposes of section 414(a)(3)(A) of the Civil Service Reform Act of 1978, an individual appointed under this subsection shall be deemed to occupy the same position as the individual occupied on the day preceding May 4, 1980.
 
-**(c) Repealed. Pub. L. 99–498, title XIV, § 1401(d), Oct. 17, 1986, 100 Stat. 1597**
+**(c) Repealed. Pub. L. 99–498, title XIV, § 1401(d), Oct. 17, 1986, 100 Stat. 1597**
 
 **(d) Senior Executive Service**
 
@@ -2377,7 +2377,7 @@ Notwithstanding any other provision of law, the Director of the Office of Person
 
 Nothing in this chapter shall be construed to prevent the application of any Indian preference law in effect on the day before October 17, 1979, to any function or office transferred by this chapter and subject to any such law on the day before October 17, 1979. Any function or office transferred by this chapter and subject to any such law shall continue to be subject to any such law.
 
-(Pub. L. 96–88, title IV, § 401, Oct. 17, 1979, 93 Stat. 681; Pub. L. 99–145, title XII, § 1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 99–498, title XIV, § 1401(d), Oct. 17, 1986, 100 Stat. 1597; Pub. L. 103–382, title II, § 271(a)(3)(A), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–279, title IV, § 403(3), Nov. 5, 2002, 116 Stat. 1985.)
+(Pub. L. 96–88, title IV, § 401, Oct. 17, 1979, 93 Stat. 681; Pub. L. 99–145, title XII, § 1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 99–498, title XIV, § 1401(d), Oct. 17, 1986, 100 Stat. 1597; Pub. L. 103–382, title II, § 271(a)(3)(A), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–279, title IV, § 403(3), Nov. 5, 2002, 116 Stat. 1985.)
 
 **Editorial Notes**
 
@@ -2403,9 +2403,9 @@ In subsecs. (a) and (d), “May 4, 1980” substituted for “the effective date
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-#### § 3462. Experts and consultants
+#### § 3462. Experts and consultants
 
 **(a) In general**
 
@@ -2421,7 +2421,7 @@ Notwithstanding any other provision of law, the Secretary may use not more than 
 
 The provisions of paragraph (1) shall not apply to any education program under which funds are authorized to be appropriated to pay the fees and expenses of non-Federal experts to review applications and proposals for such funds.
 
-(Pub. L. 96–88, title IV, § 402, Oct. 17, 1979, 93 Stat. 682; Pub. L. 103–227, title IX, § 981, Mar. 31, 1994, 108 Stat. 263.)
+(Pub. L. 96–88, title IV, § 402, Oct. 17, 1979, 93 Stat. 682; Pub. L. 103–227, title IX, § 981, Mar. 31, 1994, 108 Stat. 263.)
 
 **Editorial Notes**
 
@@ -2433,9 +2433,9 @@ The provisions of paragraph (1) shall not apply to any education program under w
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-#### § 3463. Personnel reduction and annual limitations
+#### § 3463. Personnel reduction and annual limitations
 
 **(a) Work-years limitation; allocations; adjustments**
 
@@ -2469,7 +2469,7 @@ Not later than the end of the first fiscal year beginning after May 4, 1980, the
 
 **(6)** such legislative and administrative recommendations for improvements in personnel management within the Department as the Director considers necessary.
 
-(Pub. L. 96–88, title IV, § 403, Oct. 17, 1979, 93 Stat. 682; Pub. L. 104–66, title I, § 1041(a), Dec. 21, 1995, 109 Stat. 714.)
+(Pub. L. 96–88, title IV, § 403, Oct. 17, 1979, 93 Stat. 682; Pub. L. 104–66, title I, § 1041(a), Dec. 21, 1995, 109 Stat. 714.)
 
 **Editorial Notes**
 
@@ -2483,7 +2483,7 @@ In subsecs. (a) and (d), “May 4, 1980” substituted for “the effective date
 
 ### Part B—General Administrative Provisions
 
-#### § 3471. General authority
+#### § 3471. General authority
 
 **(a) Force and effect of actions by Secretary**
 
@@ -2495,7 +2495,7 @@ In carrying out any function transferred by this chapter, the Secretary, or any 
 
 **(2)** The Secretary is authorized to delegate reporting requirements vested in the Secretary by paragraph (1) to any officer or employee of the Department.
 
-(Pub. L. 96–88, title IV, § 411, Oct. 17, 1979, 93 Stat. 683.)
+(Pub. L. 96–88, title IV, § 411, Oct. 17, 1979, 93 Stat. 683.)
 
 **Editorial Notes**
 
@@ -2503,13 +2503,13 @@ In carrying out any function transferred by this chapter, the Secretary, or any 
 
 In subsec. (b)(1), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
-#### § 3472. Delegation of functions
+#### § 3472. Delegation of functions
 
 Except as otherwise provided in this chapter, the Secretary may delegate any function to such officers and employees of the Department as the Secretary may designate, and may authorize such successive redelegations of such functions within the Department as may be necessary or appropriate. No delegation of functions by the Secretary under this section or under any other provision of this chapter shall relieve the Secretary of responsibility for the administration of such functions.
 
-(Pub. L. 96–88, title IV, § 412, Oct. 17, 1979, 93 Stat. 684.)
+(Pub. L. 96–88, title IV, § 412, Oct. 17, 1979, 93 Stat. 684.)
 
-#### § 3473. Reorganization of Department
+#### § 3473. Reorganization of Department
 
 **(a) Authorization; limitations** The Secretary is authorized, subject to the requirements of section 3412(f) of this title, to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—
 
@@ -2549,7 +2549,7 @@ Except as otherwise provided in this chapter, the Secretary may delegate any fun
 
 **(2)** The Secretary may alter, consolidate, or discontinue any organizational entity continued within the Department and described in paragraph (1) of this subsection or reallocate any function vested by statute in such an entity, upon the expiration of a period of ninety days after the receipt by the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives of notice given by the Secretary containing a full and complete statement of the action proposed to be taken pursuant to this subsection and the facts and circumstances relied upon in support of such proposed action.
 
-(Pub. L. 96–88, title IV, § 413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, § 202, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(c)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 107–110, title X, § 1072(b), Jan. 8, 2002, 115 Stat. 2089.)
+(Pub. L. 96–88, title IV, § 413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, § 202, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(c)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 107–110, title X, § 1072(b), Jan. 8, 2002, 115 Stat. 2089.)
 
 **Editorial Notes**
 
@@ -2575,17 +2575,17 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **National Institute of Education**
 
-The National Institute of Education was established by section 1221e of this title which as amended generally by Pub. L. 99–498, title XIV, § 1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
+The National Institute of Education was established by section 1221e of this title which as amended generally by Pub. L. 99–498, title XIV, § 1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
 
 **Office of Migrant Education**
 
-Pub. L. 98–511, title VII, § 701(b), Oct. 19, 1984, 98 Stat. 2405, provided that: “For the purposes of section 413(a) of the Department of Education Organization Act (20 U.S.C. 3473), the Office of Migrant Education shall be considered to be an organizational entity established by such Act [20 U.S.C. 3401 et seq.] and shall not be subject to the reorganizational authority of the Secretary of Education under that section or any other provision of law.”
+Pub. L. 98–511, title VII, § 701(b), Oct. 19, 1984, 98 Stat. 2405, provided that: “For the purposes of section 413(a) of the Department of Education Organization Act (20 U.S.C. 3473), the Office of Migrant Education shall be considered to be an organizational entity established by such Act [20 U.S.C. 3401 et seq.] and shall not be subject to the reorganizational authority of the Secretary of Education under that section or any other provision of law.”
 
-#### § 3474. Rules and regulations
+#### § 3474. Rules and regulations
 
 The Secretary is authorized to prescribe such rules and regulations as the Secretary determines necessary or appropriate to administer and manage the functions of the Secretary or the Department.
 
-(Pub. L. 96–88, title IV, § 414, Oct. 17, 1979, 93 Stat. 685; Pub. L. 99–145, title XII, § 1204(a)(5), Nov. 8, 1985, 99 Stat. 720; Pub. L. 103–382, title II, § 271(d)(1), Oct. 20, 1994, 108 Stat. 3930.)
+(Pub. L. 96–88, title IV, § 414, Oct. 17, 1979, 93 Stat. 685; Pub. L. 99–145, title XII, § 1204(a)(5), Nov. 8, 1985, 99 Stat. 720; Pub. L. 103–382, title II, § 271(d)(1), Oct. 20, 1994, 108 Stat. 3930.)
 
 **Editorial Notes**
 
@@ -2595,7 +2595,7 @@ The Secretary is authorized to prescribe such rules and regulations as the Secre
 
 1985—Subsec. (b). Pub. L. 99–145 struck out reference to section 3442 of this title.
 
-#### § 3475. Contracts
+#### § 3475. Contracts
 
 **(a) Authorization of Secretary**
 
@@ -2605,21 +2605,21 @@ Subject to the provisions of chapters 1 to 11 of title 40 and division C (except
 
 Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subchapter shall be effective except to such extent or in such amounts as are provided in advance under appropriation Acts. This subsection shall not apply with respect to the authority granted under section 3481 of this title.
 
-(Pub. L. 96–88, title IV, § 415, Oct. 17, 1979, 93 Stat. 685.)
+(Pub. L. 96–88, title IV, § 415, Oct. 17, 1979, 93 Stat. 685.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-#### § 3476. Regional and field offices
+#### § 3476. Regional and field offices
 
 The Secretary is authorized to establish, alter, discontinue, or maintain such regional or other field offices as the Secretary may find necessary or appropriate to perform functions of the Secretary or the Department.
 
-(Pub. L. 96–88, title IV, § 416, Oct. 17, 1979, 93 Stat. 685.)
+(Pub. L. 96–88, title IV, § 416, Oct. 17, 1979, 93 Stat. 685.)
 
-#### § 3477. Acquisition and maintenance of property
+#### § 3477. Acquisition and maintenance of property
 
 **(a) Authorized properties; establishment of necessary facilities** The Secretary is authorized—
 
@@ -2647,9 +2647,9 @@ The authority available to the Secretary of Health, Education, and Welfare under
 
 The authority granted by subsection (a) of this section shall be available only with respect to facilities of a special purpose nature that cannot readily be reassigned from similar Federal activities and are not otherwise available for assignment to the Department by the Administrator of General Services.
 
-(Pub. L. 96–88, title IV, § 417, Oct. 17, 1979, 93 Stat. 685.)
+(Pub. L. 96–88, title IV, § 417, Oct. 17, 1979, 93 Stat. 685.)
 
-#### § 3478. Facilities at remote locations
+#### § 3478. Facilities at remote locations
 
 **(a) Authorized services, supplies and facilities** The Secretary is authorized to provide, construct, or maintain for employees and their dependents stationed at remote locations as necessary and when not otherwise available at such remote locations—
 
@@ -2675,9 +2675,9 @@ The furnishing of medical treatment under paragraph (1) of subsection (a) and th
 
 Proceeds from reimbursements under this section may be credited to the appropriation of funds that bear or will bear all or part of the cost of such work or services or used to refund excess sums when necessary.
 
-(Pub. L. 96–88, title IV, § 418, Oct. 17, 1979, 93 Stat. 686.)
+(Pub. L. 96–88, title IV, § 418, Oct. 17, 1979, 93 Stat. 686.)
 
-#### § 3479. Use of facilities
+#### § 3479. Use of facilities
 
 **(a) Federal, State, local and foreign government facilities**
 
@@ -2695,19 +2695,19 @@ Proceeds from reimbursements under this section may be credited to the appropria
 
 Any interest in real property acquired pursuant to this chapter shall be acquired in the name of the United States Government.
 
-(Pub. L. 96–88, title IV, § 419, Oct. 17, 1979, 93 Stat. 686; Pub. L. 99–145, title XII, § 1204(a)(2), Nov. 8, 1985, 99 Stat. 720.)
+(Pub. L. 96–88, title IV, § 419, Oct. 17, 1979, 93 Stat. 686; Pub. L. 99–145, title XII, § 1204(a)(2), Nov. 8, 1985, 99 Stat. 720.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 102(3) of title 40” substituted in subsec. (b) for “section 3(e) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 102(3) of title 40” substituted in subsec. (b) for “section 3(e) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
 1985—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for treatment of personnel, upon transfer of functions and personnel from the Secretary of Defense to the Secretary of Education, as employees of the Department of Defense for the purpose of access to services and facilities provided by the Department of Defense.
 
-#### § 3480. Copyrights and patents
+#### § 3480. Copyrights and patents
 
 The Secretary is authorized to acquire any of the following described rights if the property acquired thereby is for use by or for, or useful to, the Department:
 
@@ -2717,13 +2717,13 @@ The Secretary is authorized to acquire any of the following described rights if 
 
 **(3)** releases, before suit is brought, for past infringement of patents or copyrights.
 
-(Pub. L. 96–88, title IV, § 420, Oct. 17, 1979, 93 Stat. 687.)
+(Pub. L. 96–88, title IV, § 420, Oct. 17, 1979, 93 Stat. 687.)
 
-#### § 3481. Gifts and bequests
+#### § 3481. Gifts and bequests
 
 The Secretary is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, and to accept donations of services, for the purpose of aiding or facilitating the work of the Department. Gifts, bequests, and devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon the order of the Secretary.
 
-(Pub. L. 96–88, title IV, § 421, Oct. 17, 1979, 93 Stat. 687; Pub. L. 103–382, title II, § 271(d)(2), Oct. 20, 1994, 108 Stat. 3930.)
+(Pub. L. 96–88, title IV, § 421, Oct. 17, 1979, 93 Stat. 687; Pub. L. 103–382, title II, § 271(d)(2), Oct. 20, 1994, 108 Stat. 3930.)
 
 **Editorial Notes**
 
@@ -2731,7 +2731,7 @@ The Secretary is authorized to accept, hold, administer, and utilize gifts, bequ
 
 1994—Pub. L. 103–382 inserted “and to accept donations of services,” after “personal,”.
 
-#### § 3482. Technical advice
+#### § 3482. Technical advice
 
 **(a) Authorization**
 
@@ -2741,9 +2741,9 @@ The Secretary is authorized, upon request, to provide advice, counsel, and techn
 
 The Secretary may permit the consolidation of applications for grants or contracts with respect to two or more functions of the Secretary or the Department, but such consolidation shall not alter the statutory criteria for approval of applications for funding with respect to such functions.
 
-(Pub. L. 96–88, title IV, § 422, Oct. 17, 1979, 93 Stat. 687.)
+(Pub. L. 96–88, title IV, § 422, Oct. 17, 1979, 93 Stat. 687.)
 
-#### § 3483. Working capital fund
+#### § 3483. Working capital fund
 
 **(a) Establishment; administrative services included** The Secretary, with the approval of the Director of the Office of Management and Budget, is authorized to establish for the Department a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as the Secretary shall find to be desirable in the interests of economy and efficiency, including such services as—
 
@@ -2759,13 +2759,13 @@ The Secretary may permit the consolidation of applications for grants or contrac
 
 The capital of the fund shall consist of any appropriations made for the purpose of providing working capital and the fair and reasonable value of such stocks of supplies, equipment, and other assets and inventories on order as the Secretary may transfer to the fund, less the related liabilities and unpaid obligations. Such funds shall be reimbursed in advance from available funds of agencies and offices in the Department, or from other sources, for supplies and services at rates that will approximate the expense of operation, including the accrual of annual leave and the depreciation of equipment. The fund shall also be credited with receipts from sale or exchange of property and receipts in payment for loss or damage to property owned by the fund. There shall be covered into the Treasury as miscellaneous receipts any surplus of the fund (all assets, liabilities, and prior losses considered) above the amounts transferred or appropriated to establish and maintain such fund. There shall be transferred to the fund the stocks of supplies, equipment, other assets, liabilities, and unpaid obligations relating to the services which the Secretary determines, with the approval of the Director of the Office of Management and Budget, will be performed.
 
-(Pub. L. 96–88, title IV, § 423, Oct. 17, 1979, 93 Stat. 687.)
+(Pub. L. 96–88, title IV, § 423, Oct. 17, 1979, 93 Stat. 687.)
 
-#### § 3483a. Department of Education Nonrecurring Expenses Fund
+#### § 3483a. Department of Education Nonrecurring Expenses Fund
 
 There is hereby established in the Treasury of the United States a fund to be known as the “Department of Education Nonrecurring Expenses Fund” (the Fund): *Provided*, That unobligated balances of expired discretionary funds appropriated for this or any succeeding fiscal year from the General Fund of the Treasury to the Department of Education by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund: *Provided further*, That amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for information and business technology system modernization and facilities infrastructure improvements necessary for the operation of the Department, subject to approval by the Office of Management and Budget: *Provided further*, That amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 30 days in advance of the specific information and business technology system modernization project or facility infrastructure improvement obligations planned for such amounts.
 
-(Pub. L. 116–260, div. H, title III, § 313, Dec. 27, 2020, 134 Stat. 1609.)
+(Pub. L. 116–260, div. H, title III, § 313, Dec. 27, 2020, 134 Stat. 1609.)
 
 **Editorial Notes**
 
@@ -2777,19 +2777,19 @@ This Act, referred to in text, is div. H of Pub. L. 116–260, Dec. 27, 2020, 13
 
 Section was enacted as part of the Department of Education Appropriations Act, 2021, and not as part of the Department of Education Organization Act which comprises this chapter.
 
-#### § 3484. Funds transfer
+#### § 3484. Funds transfer
 
 The Secretary may, when authorized in an appropriation Act in any fiscal year, transfer funds from one appropriation to another within the Department, except that no appropriation for any fiscal year shall be either increased or decreased pursuant to this section by more than 5 percent and no such transfer shall result in increasing any such appropriation above the amount authorized to be appropriated therefor.
 
-(Pub. L. 96–88, title IV, § 424, Oct. 17, 1979, 93 Stat. 688.)
+(Pub. L. 96–88, title IV, § 424, Oct. 17, 1979, 93 Stat. 688.)
 
-#### § 3485. Seal of Department
+#### § 3485. Seal of Department
 
 The Secretary shall cause a seal of office to be made for the Department of such design as the Secretary shall approve. Judicial notice shall be taken of such seal.
 
-(Pub. L. 96–88, title IV, § 425, Oct. 17, 1979, 93 Stat. 688.)
+(Pub. L. 96–88, title IV, § 425, Oct. 17, 1979, 93 Stat. 688.)
 
-#### § 3486. Annual report
+#### § 3486. Annual report
 
 **(a) Contents** The Secretary shall, as soon as practicable after the close of each fiscal year, make a single, comprehensive report to the President for transmission to the Congress on the activities of the Department during such fiscal year. The report shall include a statement of goals, priorities, and plans for the Department together with an assessment of the progress made toward—
 
@@ -2805,7 +2805,7 @@ accompanied where necessary by recommendations for proposed legislation for the 
 
 The report required by subsection (a) shall also include an estimate of the extent of the non-Federal personnel employed pursuant to contracts entered into by the Department under section 3475 of this title or under any other authority (including any subcontract thereunder), the number of such contracts and subcontracts pursuant to which non-Federal personnel are employed, and the total cost of those contracts and subcontracts.
 
-(Pub. L. 96–88, title IV, § 426, Oct. 17, 1979, 93 Stat. 688.)
+(Pub. L. 96–88, title IV, § 426, Oct. 17, 1979, 93 Stat. 688.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2813,15 +2813,15 @@ The report required by subsection (a) shall also include an estimate of the exte
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to transmission of report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 80 of House Document No. 103–7.
 
-#### § 3487. Repealed. Pub. L. 103–382, title II, § 271(a)(1), Oct. 20, 1994, 108 Stat. 3929
+#### § 3487. Repealed. Pub. L. 103–382, title II, § 271(a)(1), Oct. 20, 1994, 108 Stat. 3929
 
-Section, Pub. L. 96–88, title IV, § 427, Oct. 17, 1979, 93 Stat. 689, related to application of General Education Provisions Act, 20 U.S.C. 1221 et seq., to functions transferred by this chapter.
+Section, Pub. L. 96–88, title IV, § 427, Oct. 17, 1979, 93 Stat. 689, related to application of General Education Provisions Act, 20 U.S.C. 1221 et seq., to functions transferred by this chapter.
 
-#### § 3488. Authorization of appropriations
+#### § 3488. Authorization of appropriations
 
 Subject to any limitation on appropriations applicable with respect to any function or office transferred to the Secretary or the Department, there are authorized to be appropriated for fiscal year 1980 and each succeeding fiscal year such sums as may be necessary to carry out the provisions of this chapter and to enable the Secretary to administer and manage the Department. Funds appropriated in accordance with this section shall remain available until expended.
 
-(Pub. L. 96–88, title IV, § 427, formerly § 428, Oct. 17, 1979, 93 Stat. 689; renumbered § 427, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title IV, § 427, formerly § 428, Oct. 17, 1979, 93 Stat. 689; renumbered § 427, Pub. L. 103–382, title II, § 271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 **Editorial Notes**
 
@@ -2829,17 +2829,17 @@ Subject to any limitation on appropriations applicable with respect to any funct
 
 A prior section 427 of Pub. L. 96–88 was classified to section 3487 of this title prior to repeal by Pub. L. 103–382.
 
-#### § 3489. General extension of authorizations
+#### § 3489. General extension of authorizations
 
 Subject to the limitations contained in subtitle A of this title, there are authorized to be appropriated for fiscal years 1982, 1983, and 1984 such sums as may be necessary to carry out each of the following provisions of law:
 
-**(1)** the Act of September 30, 1950 1
+**(1)** the Act of September 30, 1950 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (Public Law 874, 81st Congress);
 
-**(2)** the Act of September 23, 1950 <sup>1</sup> (Public Law 815, 81st Congress);
+**(2)** the Act of September 23, 1950 <sup>1</sup> (Public Law 815, 81st Congress);
 
 **(3)** the General Education Provisions Act [20 U.S.C. 1221 et seq.];
 
@@ -2847,7 +2847,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 **(5)** titles XI [25 U.S.C. 2000 et seq.], XIV [20 U.S.C. 921 et seq.], and XV of the Education Amendments of 1978 and part H of title XIII of the Education Amendments of 1980;
 
-**(6)** the Adult Education Act; <sup>1</sup>
+**(6)** the Adult Education Act; <sup>1</sup>
 
 **(7)** section 342 of the Education Amendments of 1976 [20 U.S.C. 2532];
 
@@ -2855,7 +2855,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 **(9)** the Joint Resolution of October 19, 1972 (86 Stat. 907);
 
-**(10)** the Vocational Education Act of 1963; <sup>1</sup>
+**(10)** the Vocational Education Act of 1963; <sup>1</sup>
 
 **(11)** title IV of the Civil Rights Act of 1964 [42 U.S.C. 2000c et seq.];
 
@@ -2865,41 +2865,41 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 **(14)** title VII of the Elementary and Secondary Education Act of 1965.<sup>1</sup>
 
-(Pub. L. 97–35, title V, § 528, Aug. 13, 1981, 95 Stat. 450; Pub. L. 98–211, § 20, Dec. 8, 1983, 97 Stat. 1418; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(2)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(E), Aug. 14, 2008, 122 Stat. 3466.)
+(Pub. L. 97–35, title V, § 528, Aug. 13, 1981, 95 Stat. 450; Pub. L. 98–211, § 20, Dec. 8, 1983, 97 Stat. 1418; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(2)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(E), Aug. 14, 2008, 122 Stat. 3466.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subtitle A of this title, referred to in text, is subtitle A (§§ 502 to 528) of title V, of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A of this title, referred to in text, is subtitle A (§§ 502 to 528) of title V, of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
 
-Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (1), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§ 236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (1), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§ 236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-Act of September 23, 1950 (Public Law 815, 81st Congress), referred to in par. (2), is act Sept. 23, 1950, ch. 995, as amended generally by Aug. 12, 1958, Pub. L. 85–620, title I, 72 Stat. 548, which was classified generally to chapter 19 (§ 631 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, § 331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 23, 1950 (Public Law 815, 81st Congress), referred to in par. (2), is act Sept. 23, 1950, ch. 995, as amended generally by Aug. 12, 1958, Pub. L. 85–620, title I, 72 Stat. 548, which was classified generally to chapter 19 (§ 631 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, § 331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-The General Education Provisions Act, referred to in par. (3), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in par. (3), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 The Indian Education Act, referred to in par. (4), is Pub. L. 92–318, title IV, June 23, 1972, 86 Stat. 334. For complete classification of this Act to the Code, see Tables.
 
-The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Education Amendments of 1978 is classified principally to chapter 22 (§ 2000 et seq.) of Title 25, Indians. Title XIV of the Education Amendments of 1978 is known as the Defense Dependents Education Act of 1978 and is classified principally to chapter 25A (§ 921 et seq.) of this title. Title XV of the Education Amendments of 1978 enacted sections 1221j and 1226c–1 of this title, repealed sections 1901, 1921, 1941 to 1944, 1961 to 1966, and 1981 to 1983 of this title, and enacted provisions set out as a note under section 1231a of this title, provisions formerly set out as notes under sections 1123 and 2711 of this title, and provisions set out as a note under section 287 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
+The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Education Amendments of 1978 is classified principally to chapter 22 (§ 2000 et seq.) of Title 25, Indians. Title XIV of the Education Amendments of 1978 is known as the Defense Dependents Education Act of 1978 and is classified principally to chapter 25A (§ 921 et seq.) of this title. Title XV of the Education Amendments of 1978 enacted sections 1221j and 1226c–1 of this title, repealed sections 1901, 1921, 1941 to 1944, 1961 to 1966, and 1981 to 1983 of this title, and enacted provisions set out as a note under section 1231a of this title, provisions formerly set out as notes under sections 1123 and 2711 of this title, and provisions set out as a note under section 287 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
-The Education Amendments of 1980, referred to in par. (5), is Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367. Part H of title XIII of the Education Amendments of 1980, Pub. L. 96–374, title XIII, §§ 1371–1373, 1376, 1377, 1381–1383, Oct. 3, 1980, 94 Stat. 1502, 1503, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1980, referred to in par. (5), is Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367. Part H of title XIII of the Education Amendments of 1980, Pub. L. 96–374, title XIII, §§ 1371–1373, 1376, 1377, 1381–1383, Oct. 3, 1980, 94 Stat. 1502, 1503, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1001 of this title and Tables.
 
-The Adult Education Act, referred to in par. (6), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, which was classified generally to chapter 30 (§ 1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, § 251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
+The Adult Education Act, referred to in par. (6), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, which was classified generally to chapter 30 (§ 1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, § 251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Asbestos School Hazards Detection and Control Act, referred to in par. (8), is Pub. L. 96–270, June 14, 1980, 94 Stat. 487, which is classified generally to chapter 49 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Asbestos School Hazards Detection and Control Act, referred to in par. (8), is Pub. L. 96–270, June 14, 1980, 94 Stat. 487, which is classified generally to chapter 49 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Joint Resolution of October 19, 1972 (86 Stat. 907), referred to in par. (9), is Pub. L. 92–506, Oct. 19, 1972, 86 Stat. 907, which is not classified to the Code.
 
-The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, § 202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§ 2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see the Codification note preceding section 2301 of this title.
+The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, § 202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§ 2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see the Codification note preceding section 2301 of this title.
 
-The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§ 2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§ 2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of Title 25, Indians, and was omitted from the Code as being of special and not general application.
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in pars. (13) and (14), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Prior to the general amendment of that Act by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§ 3341 et seq.) of subchapter IX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§ 3281 et seq.) of chapter 47 of this title.
+The Elementary and Secondary Education Act of 1965, referred to in pars. (13) and (14), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Prior to the general amendment of that Act by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§ 3341 et seq.) of subchapter IX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§ 3281 et seq.) of chapter 47 of this title.
 
 **Codification**
 
@@ -2923,11 +2923,11 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **Short Title**
 
-Pub. L. 97–35, title V, § 501, Aug. 13, 1981, 95 Stat. 441, provided that: “This title [see Tables for classification of sections 501 to 596 of Pub. L. 97–35] may be cited as the ‘Omnibus Education Reconciliation Act of 1981’.”
+Pub. L. 97–35, title V, § 501, Aug. 13, 1981, 95 Stat. 441, provided that: “This title [see Tables for classification of sections 501 to 596 of Pub. L. 97–35] may be cited as the ‘Omnibus Education Reconciliation Act of 1981’.”
 
 **Applicability to Other Laws; General Restrictions**
 
-Pub. L. 97–35, title V, § 502, Aug. 13, 1981, 95 Stat. 441, provided that:
+Pub. L. 97–35, title V, § 502, Aug. 13, 1981, 95 Stat. 441, provided that:
 
 > **“(a)** Any provision of law which is not consistent with the provisions of this subtitle [see Tables for classification of sections 502 to 528 of Pub. L. 97–35] is hereby superseded and shall have only such force and effect during each of the fiscal years 1982, 1983, and 1984 which is consistent with this subtitle.
 
@@ -2935,7 +2935,7 @@ Pub. L. 97–35, title V, § 502, Aug. 13, 1981, 95 Stat. 441, provided that:
 
 > **“(c)** No funds are authorized to be appropriated for the fiscal year 1982, 1983, or 1984 to pay for the expenses of any advisory council which provides advice to a program for which there are no authorizations of appropriations made under this subtitle or made by an amendment made by this subtitle.”
 
-#### § 3490. Potential financial interests or impaired objectivity of covered individuals or entities
+#### § 3490. Potential financial interests or impaired objectivity of covered individuals or entities
 
 **(a) Maintenance of integrity and ethical values within Department of Education** Within 60 days after December 26, 2007, the Secretary of Education shall implement procedures—
 
@@ -2961,7 +2961,7 @@ Pub. L. 97–35, title V, § 502, Aug. 13, 1981, 95 Stat. 441, provided that:
 
 **(4)** a consultant or advisor to the Department.
 
-(Pub. L. 110–161, div. G, title III, § 306, Dec. 26, 2007, 121 Stat. 2198.)
+(Pub. L. 110–161, div. G, title III, § 306, Dec. 26, 2007, 121 Stat. 2198.)
 
 **Editorial Notes**
 
@@ -2971,7 +2971,7 @@ Section was enacted as part of the Department of Education Appropriations Act, 2
 
 ## SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS
 
-### § 3501. Transfer and allocation of appropriations and personnel
+### § 3501. Transfer and allocation of appropriations and personnel
 
 **(a) Personnel and appropriations in connection with functions and offices transferred by this chapter; use of unexpended funds**
 
@@ -2981,17 +2981,17 @@ Except as otherwise provided in this chapter, the personnel employed in connecti
 
 Positions expressly specified by statute or reorganization plan to carry out functions or offices transferred by this chapter, personnel occupying those positions on the effective date of this chapter, and personnel authorized to receive compensation in such positions at the rate prescribed for offices and positions at level IV or V of the Executive Schedule (5 U.S.C. 5315–5316) on May 4, 1980, shall be subject to the provisions of section 3503 of this title.
 
-(Pub. L. 96–88, title V, § 501, Oct. 17, 1979, 93 Stat. 689.)
+(Pub. L. 96–88, title V, § 501, Oct. 17, 1979, 93 Stat. 689.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “section 1531 of title 31” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950 [31 U.S.C. 581c]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), “section 1531 of title 31” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950 [31 U.S.C. 581c]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 In subsec. (b), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
-### § 3502. Effect on personnel
+### § 3502. Effect on personnel
 
 **(a) Non-separation or non-reduction in grade or compensation of full-time personnel and part-time personnel holding permanent positions**
 
@@ -3001,7 +3001,7 @@ Except as otherwise provided in this chapter, the transfer pursuant to this subc
 
 Any person who, on the day preceding May 4, 1980, held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5 and who, without a break in service, is appointed in the Department to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
 
-(Pub. L. 96–88, title V, § 502, Oct. 17, 1979, 93 Stat. 690.)
+(Pub. L. 96–88, title V, § 502, Oct. 17, 1979, 93 Stat. 690.)
 
 **Editorial Notes**
 
@@ -3013,9 +3013,9 @@ In subsec. (b), “May 4, 1980” substituted for “the effective date of this 
 
 **Abolished Positions Deemed Transferred**
 
-Pub. L. 96–88, title V, § 508(*l*)(4), Oct. 17, 1979, 93 Stat. 694, provided that: “Positions abolished as a consequence of the amendments made by this subsection [amending sections 1102, 2390, and 3012 of this title] shall, for purposes of section 502(a) [subsec. (a) of this section], be deemed to be permanent positions transferred pursuant to title V of this Act [this subchapter].”
+Pub. L. 96–88, title V, § 508(*l*)(4), Oct. 17, 1979, 93 Stat. 694, provided that: “Positions abolished as a consequence of the amendments made by this subsection [amending sections 1102, 2390, and 3012 of this title] shall, for purposes of section 502(a) [subsec. (a) of this section], be deemed to be permanent positions transferred pursuant to title V of this Act [this subchapter].”
 
-### § 3503. Agency terminations
+### § 3503. Agency terminations
 
 **(a) Specific terminations** On May 4, 1980, the following entities shall terminate:
 
@@ -3029,7 +3029,7 @@ Pub. L. 96–88, title V, § 508(*l*)(4), Oct. 17, 1979, 93 Stat. 694, provide
 
 Each position which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for level IV or V of the Executive Schedule (5 U.S.C. 5315–5316), in an office terminated pursuant to this chapter shall also terminate.
 
-(Pub. L. 96–88, title V, § 503, Oct. 17, 1979, 93 Stat. 690; Pub. L. 99–145, title XII, § 1204(a)(3), Nov. 8, 1985, 99 Stat. 720.)
+(Pub. L. 96–88, title V, § 503, Oct. 17, 1979, 93 Stat. 690; Pub. L. 99–145, title XII, § 1204(a)(3), Nov. 8, 1985, 99 Stat. 720.)
 
 **Editorial Notes**
 
@@ -3041,7 +3041,7 @@ In subsec. (a), “May 4, 1980” substituted for “the effective date of this 
 
 1985—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for termination of Office of Dependents’ Education of Department of Defense whenever President exercises authority under section 3442(a) of this title.
 
-### § 3504. Incidental transfers
+### § 3504. Incidental transfers
 
 **(a) Authorization of Director of Office of Management and Budget; termination of affairs**
 
@@ -3051,9 +3051,9 @@ The Director of the Office of Management and Budget, at such time or times as th
 
 After consultation with the Director of the Office of Personnel Management, the Director of the Office of Management and Budget is authorized, at such time as the Director of the Office of Management and Budget provides, to make such determinations as may be necessary with regard to the transfer of positions within the Senior Executive Service in connection with functions and offices transferred by this chapter.
 
-(Pub. L. 96–88, title V, § 504, Oct. 17, 1979, 93 Stat. 690.)
+(Pub. L. 96–88, title V, § 504, Oct. 17, 1979, 93 Stat. 690.)
 
-### § 3505. Savings provisions
+### § 3505. Savings provisions
 
 **(a) Orders, determinations, etc.** All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
@@ -3087,7 +3087,7 @@ If, before May 4, 1980, any department or agency, or officer thereof in the offi
 
 Orders and actions of the Secretary in the exercise of functions transferred under this chapter shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this chapter shall apply to the exercise of such function by the Secretary.
 
-(Pub. L. 96–88, title V, § 505, Oct. 17, 1979, 93 Stat. 691.)
+(Pub. L. 96–88, title V, § 505, Oct. 17, 1979, 93 Stat. 691.)
 
 **Editorial Notes**
 
@@ -3095,17 +3095,17 @@ Orders and actions of the Secretary in the exercise of functions transferred und
 
 In subsecs. (a)(2), (b)(1), (c)(1), and (e), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
-### § 3506. Separability
+### § 3506. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, neither the remainder of this chapter nor the application of such provision to other persons or circumstances shall be affected thereby.
 
-(Pub. L. 96–88, title V, § 506, Oct. 17, 1979, 93 Stat. 692.)
+(Pub. L. 96–88, title V, § 506, Oct. 17, 1979, 93 Stat. 692.)
 
-### § 3507. Existing references to transferor officials or bodies deemed references to transferee officials or bodies
+### § 3507. Existing references to transferor officials or bodies deemed references to transferee officials or bodies
 
 With respect to any function transferred by this chapter and exercised on or after May 4, 1980, reference in any other Federal law to any department, commission, or agency or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary, other official, or component of the Department to which this chapter transfers such functions.
 
-(Pub. L. 96–88, title V, § 507, Oct. 17, 1979, 93 Stat. 692.)
+(Pub. L. 96–88, title V, § 507, Oct. 17, 1979, 93 Stat. 692.)
 
 **Editorial Notes**
 
@@ -3113,7 +3113,7 @@ With respect to any function transferred by this chapter and exercised on or aft
 
 “May 4, 1980” substituted in text for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
-### § 3508. Department of Health and Human Services
+### § 3508. Department of Health and Human Services
 
 **(a) Redesignation of Department of Health, Education, and Welfare**
 
@@ -3123,7 +3123,7 @@ The Department of Health, Education, and Welfare is hereby redesignated the Depa
 
 Any reference to the Department of Health, Education, and Welfare, the Secretary of Health, Education, and Welfare, or any other official of the Department of Health, Education, and Welfare in any law, rule, regulation, certificate, directive, instruction, or other official paper in force on May 4, 1980, shall be deemed to refer and apply to the Department of Health and Human Services or the Secretary of Health and Human Services, respectively, except to the extent such reference is to a function or office transferred to the Secretary or the Department under this chapter.
 
-(Pub. L. 96–88, title V, § 509, Oct. 17, 1979, 93 Stat. 695; Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304; Pub. L. 108–178, § 2(b)(2), Dec. 15, 2003, 117 Stat. 2640.)
+(Pub. L. 96–88, title V, § 509, Oct. 17, 1979, 93 Stat. 695; Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304; Pub. L. 108–178, § 2(b)(2), Dec. 15, 2003, 117 Stat. 2640.)
 
 **Editorial Notes**
 
@@ -3133,9 +3133,9 @@ In subsec. (b), “May 4, 1980” substituted for “the effective date of this 
 
 **Amendments**
 
-2003—Subsec. (b). Pub. L. 108–178 amended Pub. L. 107–217, § 6(b). See 2002 Amendment note below.
+2003—Subsec. (b). Pub. L. 108–178 amended Pub. L. 107–217, § 6(b). See 2002 Amendment note below.
 
-2002—Subsec. (b). Pub. L. 107–217, § 6(b), which had repealed subsec. (b) of this section, was itself repealed by Pub. L. 108–178 insofar as it related to subsec. (b) of this section, and Pub. L. 108–178 further provided that subsec. (b) of this section was revived to read as if Pub. L. 107–217, § 6(b), had not been enacted.
+2002—Subsec. (b). Pub. L. 107–217, § 6(b), which had repealed subsec. (b) of this section, was itself repealed by Pub. L. 108–178 insofar as it related to subsec. (b) of this section, and Pub. L. 108–178 further provided that subsec. (b) of this section was revived to read as if Pub. L. 107–217, § 6(b), had not been enacted.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3143,14 +3143,14 @@ In subsec. (b), “May 4, 1980” substituted for “the effective date of this 
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-### § 3509. Coordination of programs for handicapped
+### § 3509. Coordination of programs for handicapped
 
 The Secretary of Health and Human Services shall identify, assess, coordinate, and eliminate conflict, duplication, and inconsistencies among programs significantly affecting handicapped individuals carried out by or under the Department of Health and Human Services, shall promote efficiency among such programs, and shall seek to coordinate, to the maximum extent feasible, such programs with programs significantly affecting handicapped individuals carried out by or under the Department of Education.
 
-(Pub. L. 96–88, title V, § 510, Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 96–88, title V, § 510, Oct. 17, 1979, 93 Stat. 695.)
 
-### § 3510. Transitional provisions
+### § 3510. Transitional provisions
 
 With the consent of the appropriate department or agency head concerned, the Secretary is authorized to utilize the services of such officers, employees, and other personnel of the departments and agencies from which functions or offices have been transferred to the Secretary or the Department, and funds appropriated to such functions or offices for such period of time as may reasonably be needed to facilitate the orderly implementation of this chapter.
 
-(Pub. L. 96–88, title V, § 511, Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 96–88, title V, § 511, Oct. 17, 1979, 93 Stat. 695.)

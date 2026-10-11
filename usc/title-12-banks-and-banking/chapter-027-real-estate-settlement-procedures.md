@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—REAL ESTATE SETTLEMENT PROCEDURES
 
-## § 2601. Congressional findings and purpose
+## § 2601. Congressional findings and purpose
 
 **(a)** The Congress finds that significant reforms in the real estate settlement process are needed to insure that consumers throughout the Nation are provided with greater and more timely information on the nature and costs of the settlement process and are protected from unnecessarily high settlement charges caused by certain abusive practices that have developed in some areas of the country. The Congress also finds that it has been over two years since the Secretary of Housing and Urban Development and the Administrator of Veterans’ Affairs submitted their joint report to the Congress on “Mortgage Settlement Costs” and that the time has come for the recommendations for Federal legislative action made in that report to be implemented.
 
@@ -29,13 +29,13 @@ retrieved: 2026-10-11
 
 **(4)** in significant reform and modernization of local recordkeeping of land title information.
 
-(Pub. L. 93–533, § 2, Dec. 22, 1974, 88 Stat. 1724.)
+(Pub. L. 93–533, § 2, Dec. 22, 1974, 88 Stat. 1724.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, known as the Real Estate Settlement Procedures Act of 1974, which is classified principally to this chapter (§ 2601 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, known as the Real Estate Settlement Procedures Act of 1974, which is classified principally to this chapter (§ 2601 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -45,23 +45,23 @@ Reference to Administrator of Veterans’ Affairs deemed to refer to Secretary o
 
 **Effective Date**
 
-Pub. L. 93–533, § 20, formerly § 19, Dec. 22, 1974, 88 Stat. 1731, renumbered § 20, Pub. L. 94–205, § 10, Jan. 2, 1976, 89 Stat. 1159, provided that: “The provisions of this Act, and the amendments made thereby [see Short Title note below], shall become effective one hundred and eighty days after the date of the enactment of this Act [Dec. 22, 1974].”
+Pub. L. 93–533, § 20, formerly § 19, Dec. 22, 1974, 88 Stat. 1731, renumbered § 20, Pub. L. 94–205, § 10, Jan. 2, 1976, 89 Stat. 1159, provided that: “The provisions of this Act, and the amendments made thereby [see Short Title note below], shall become effective one hundred and eighty days after the date of the enactment of this Act [Dec. 22, 1974].”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–342, § 1, Jan. 13, 2021, 134 Stat. 5134, provided that: “This Act [amending section 2603 of this title and section 1604 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 2603 of this title] may be cited as the ‘Building Up Independent Lives and Dreams Act’ or the ‘BUILD Act’.”
+Pub. L. 116–342, § 1, Jan. 13, 2021, 134 Stat. 5134, provided that: “This Act [amending section 2603 of this title and section 1604 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 2603 of this title] may be cited as the ‘Building Up Independent Lives and Dreams Act’ or the ‘BUILD Act’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–205, § 1, Jan. 2, 1976, 89 Stat. 1157, provided: “That this Act [enacting section 2617 of this title, amending sections 2602, 2603, 2604, 2607, 2609 and 2616 of this title and section 1631 of Title 15, Commerce and Trade, repealing sections 2605 and 2606 of this title, enacting provisions set out as a note under section 2602 of this title and amending provisions set out as a note under this section] may be cited as the ‘Real Estate Settlement Procedures Act Amendments of 1975’.”
+Pub. L. 94–205, § 1, Jan. 2, 1976, 89 Stat. 1157, provided: “That this Act [enacting section 2617 of this title, amending sections 2602, 2603, 2604, 2607, 2609 and 2616 of this title and section 1631 of Title 15, Commerce and Trade, repealing sections 2605 and 2606 of this title, enacting provisions set out as a note under section 2602 of this title and amending provisions set out as a note under this section] may be cited as the ‘Real Estate Settlement Procedures Act Amendments of 1975’.”
 
 **Short Title**
 
-Pub. L. 93–533, § 1, Dec. 22, 1974, 88 Stat. 1724, provided that: “This Act [enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and section 1730f of this title] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
+Pub. L. 93–533, § 1, Dec. 22, 1974, 88 Stat. 1724, provided that: “This Act [enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and section 1730f of this title] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
 
 **Simplification and Unification of Disclosures Required Under RESPA and TILA for Mortgage Transactions**
 
-Pub. L. 104–208, div. A, title II, § 2101, Sept. 30, 1996, 110 Stat. 3009–398, provided that:
+Pub. L. 104–208, div. A, title II, § 2101, Sept. 30, 1996, 110 Stat. 3009–398, provided that:
 
 > **“(a) In General.—** With respect to credit transactions which are subject to the Real Estate Settlement Procedures Act of 1974 [12 U.S.C. 2601 et seq.] and the Truth in Lending Act [15 U.S.C. 1601 et seq.], the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the ‘Board’) and the Secretary of Housing and Urban Development (hereafter in this section referred to as the ‘Secretary’) shall take such action as may be necessary before the end of the 6-month period beginning on the date of enactment of this Act [Sept. 30, 1996]—
 
@@ -73,7 +73,7 @@ Pub. L. 104–208, div. A, title II, § 2101, Sept. 30, 1996, 110 Stat. 3009�
 
 > **“(c) Recommendations for Legislation.—** If the Board and the Secretary find that legislative action may be necessary or appropriate in order to simplify and unify the disclosure requirements under the Real Estate Settlement Procedures Act of 1974 [12 U.S.C. 2601 et seq.] and the Truth in Lending Act [15 U.S.C. 1601 et seq.], the Board and the Secretary shall submit a report containing recommendations to the Congress concerning such action.”
 
-## § 2602. Definitions
+## § 2602. Definitions
 
 For purposes of this chapter—
 
@@ -89,9 +89,9 @@ For purposes of this chapter—
 
 **(iii)** is intended to be sold by the originating lender to the Federal National Mortgage Association, the Government National Mortgage Association, the Federal Home Loan Mortgage Corporation, or a financial institution from which it is to be purchased by the Federal Home Loan Mortgage Corporation; or
 
-**(iv)** is made in whole or in part by any “creditor”, as defined in section 1602(f) 1
+**(iv)** is made in whole or in part by any “creditor”, as defined in section 1602(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year, except that for the purpose of this chapter, the term “creditor” does not include any agency or instrumentality of any State;
 
@@ -111,13 +111,13 @@ of title 15, who makes or invests in residential real estate loans aggregating m
 
 **(9)** the term “Bureau” means the Bureau of Consumer Financial Protection.
 
-(Pub. L. 93–533, § 3, Dec. 22, 1974, 88 Stat. 1724; Pub. L. 94–205, § 2, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 98–181, title I [title IV, § 461(a)], Nov. 30, 1983, 97 Stat. 1230; Pub. L. 102–550, title IX, § 908(a), (b), Oct. 28, 1992, 106 Stat. 3873, 3874; Pub. L. 104–208, div. A, title II, § 2103(c)(1), Sept. 30, 1996, 110 Stat. 3009–400; Pub. L. 111–203, title X, § 1098(1), July 21, 2010, 124 Stat. 2103.)
+(Pub. L. 93–533, § 3, Dec. 22, 1974, 88 Stat. 1724; Pub. L. 94–205, § 2, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 98–181, title I [title IV, § 461(a)], Nov. 30, 1983, 97 Stat. 1230; Pub. L. 102–550, title IX, § 908(a), (b), Oct. 28, 1992, 106 Stat. 3873, 3874; Pub. L. 104–208, div. A, title II, § 2103(c)(1), Sept. 30, 1996, 110 Stat. 3009–400; Pub. L. 111–203, title X, § 1098(1), July 21, 2010, 124 Stat. 2103.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(f) of title 15, referred to in par. (1)(B)(iv), was redesignated section 1602(g) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(f) of title 15, referred to in par. (1)(B)(iv), was redesignated section 1602(g) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
@@ -125,19 +125,19 @@ Section 1602(f) of title 15, referred to in par. (1)(B)(iv), was redesignated se
 
 1996—Par. (7). Pub. L. 104–208 substituted “affiliated business arrangement” for “controlled business arrangement”.
 
-1992—Par. (1)(A). Pub. L. 102–550, § 908(b), inserted “or subordinate” after “first” and “, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property” after “families”.
+1992—Par. (1)(A). Pub. L. 102–550, § 908(b), inserted “or subordinate” after “first” and “, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property” after “families”.
 
-Par. (3). Pub. L. 102–550, § 908(a), inserted “the origination of a federally related mortgage loan (including, but not limited to, the taking of loan applications, loan processing, and the underwriting and funding of loans),” after “broker,”.
+Par. (3). Pub. L. 102–550, § 908(a), inserted “the origination of a federally related mortgage loan (including, but not limited to, the taking of loan applications, loan processing, and the underwriting and funding of loans),” after “broker,”.
 
 1983—Pars. (7), (8). Pub. L. 98–181 added pars. (7) and (8).
 
-1976—Par. (1). Pub. L. 94–205, § 2(1), inserted “(other than temporary financing such as a construction loan)” in introductory text.
+1976—Par. (1). Pub. L. 94–205, § 2(1), inserted “(other than temporary financing such as a construction loan)” in introductory text.
 
-Par. (1)(A). Pub. L. 94–205, § 2(2), inserted “a first lien on” after “is secured by”.
+Par. (1)(A). Pub. L. 94–205, § 2(2), inserted “a first lien on” after “is secured by”.
 
-Par. (1)(B)(iii). Pub. L. 94–205, § 2(3)–(5), substituted “is intended to be sold by the originating lender to” for “is eligible for purchase by” and “a” and “is to” for “from any” and “could”, respectively, and struck out “or” after “the Government National Mortgage Association”.
+Par. (1)(B)(iii). Pub. L. 94–205, § 2(3)–(5), substituted “is intended to be sold by the originating lender to” for “is eligible for purchase by” and “a” and “is to” for “from any” and “could”, respectively, and struck out “or” after “the Government National Mortgage Association”.
 
-Par. (1)(B)(iv). Pub. L. 94–205, § 2(6), inserted “, except that for the purpose of this chapter, the term ‘creditor’ does not include any agency or instrumentality of any State” after “more than $1,000,000 per year”.
+Par. (1)(B)(iv). Pub. L. 94–205, § 2(6), inserted “, except that for the purpose of this chapter, the term ‘creditor’ does not include any agency or instrumentality of any State” after “more than $1,000,000 per year”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,15 +147,15 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–550, title IX, § 908(d), Oct. 28, 1992, 106 Stat. 3874, provided that: “This section [amending this section and enacting provisions set out below] shall take effect on the date of enactment of this Act [Oct. 28, 1992] and shall not apply retroactively.”
+Pub. L. 102–550, title IX, § 908(d), Oct. 28, 1992, 106 Stat. 3874, provided that: “This section [amending this section and enacting provisions set out below] shall take effect on the date of enactment of this Act [Oct. 28, 1992] and shall not apply retroactively.”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–181, title I [title IV, § 461(f)], Nov. 30, 1983, 97 Stat. 1232, provided that: “The amendments made by this section [amending this section and sections 2607, 2614, and 2617 of this title] shall become effective on January 1, 1984.”
+Pub. L. 98–181, title I [title IV, § 461(f)], Nov. 30, 1983, 97 Stat. 1232, provided that: “The amendments made by this section [amending this section and sections 2607, 2614, and 2617 of this title] shall become effective on January 1, 1984.”
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–205, § 12, Jan. 2, 1976, 89 Stat. 1160, provided that: “The provisions of this Act and the amendments made hereby [enacting section 2617 of this title, amending this section, sections 2603, 2604, 2607, 2609, and 2616 of this title, and section 1631 of Title 15, Commerce and Trade, repealing sections 2605 and 2606 of this title, and enacting and amending provisions set out as notes under section 2601 of this title] shall become effective upon enactment [Jan. 2, 1976]. The Secretary may suspend for up to one hundred and eighty days from the date of enactment of this Act [Jan. 2, 1976] any provision of section 4 and section 5 of the Real Estate Settlement Procedures Act of 1974 [sections 2603 and 2604 of this title], as amended by this Act.”
+Pub. L. 94–205, § 12, Jan. 2, 1976, 89 Stat. 1160, provided that: “The provisions of this Act and the amendments made hereby [enacting section 2617 of this title, amending this section, sections 2603, 2604, 2607, 2609, and 2616 of this title, and section 1631 of Title 15, Commerce and Trade, repealing sections 2605 and 2606 of this title, and enacting and amending provisions set out as notes under section 2601 of this title] shall become effective upon enactment [Jan. 2, 1976]. The Secretary may suspend for up to one hundred and eighty days from the date of enactment of this Act [Jan. 2, 1976] any provision of section 4 and section 5 of the Real Estate Settlement Procedures Act of 1974 [sections 2603 and 2604 of this title], as amended by this Act.”
 
 **Effective Date**
 
@@ -163,15 +163,15 @@ Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–5
 
 **Regulations**
 
-Pub. L. 102–550, title IX, § 908(c), Oct. 28, 1992, 106 Stat. 3874, provided that: “The Secretary of Housing and Urban Development shall issue regulations to implement the amendments made by this section [amending this section] not later than the expiration of the 180-day period beginning on the date of the enactment of this Act [Oct. 28, 1992]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Pub. L. 102–550, title IX, § 908(c), Oct. 28, 1992, 106 Stat. 3874, provided that: “The Secretary of Housing and Urban Development shall issue regulations to implement the amendments made by this section [amending this section] not later than the expiration of the 180-day period beginning on the date of the enactment of this Act [Oct. 28, 1992]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
-## § 2603. Uniform settlement statement
+## § 2603. Uniform settlement statement
 
 **(a) Disclosure for mortgage loan transactions**
 
-The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this section and section 2604 of this title, in conjunction with the disclosure requirements of the Truth in Lending Act [15 U.S.C. 1601 et seq.] that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this chapter 1
+The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this section and section 2604 of this title, in conjunction with the disclosure requirements of the Truth in Lending Act [15 U.S.C. 1601 et seq.] that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the Truth in Lending Act, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures. Such forms shall conspicuously and clearly itemize all charges imposed upon the borrower and all charges imposed upon the seller in connection with the settlement and shall indicate whether any title insurance premium included in such charges covers or insures the lender’s interest in the property, the borrower’s interest, or both. The Bureau may, by regulation, permit the deletion from the forms prescribed under this section of items which are not, under local laws or customs, applicable in any locality, except that such regulation shall require that the numerical code prescribed by the Bureau be retained in forms to be used in all localities. Nothing in this section may be construed to require that that part of the standard forms which relates to the borrower’s transaction be furnished to the seller, or to require that that part of the standard forms which relates to the seller be furnished to the borrower.
 
@@ -189,13 +189,13 @@ The forms prescribed under this section shall be completed and made available fo
 
 With respect to a mortgage loan transaction involving a residential mortgage loan offered at 0 percent interest with only bonafide and reasonable fees and that is primarily for charitable purposes, an organization described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title may use forms HUD–1 and GFE (as defined under section 1024.2(b) of title 12, Code of Federal Regulations) together with a disclosure substantially in the form of the Loan Model Form H–2 (as depicted in Appendix H to part 1026 of title 12, Code of Federal Regulations), collectively, in lieu of the disclosure published under subsection (a) of this section.
 
-(Pub. L. 93–533, § 4, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, § 3, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 104–208, div. A, title II, § 2103(g)(1), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, § 1098(2), title XIV, § 1475, July 21, 2010, 124 Stat. 2103, 2200; Pub. L. 116–342, § 2(b), Jan. 13, 2021, 134 Stat. 5134.)
+(Pub. L. 93–533, § 4, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, § 3, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 104–208, div. A, title II, § 2103(g)(1), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, § 1098(2), title XIV, § 1475, July 21, 2010, 124 Stat. 2103, 2200; Pub. L. 116–342, § 2(b), Jan. 13, 2021, 134 Stat. 5134.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 This chapter, referred to in subsec. (a), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
 
@@ -203,23 +203,23 @@ This chapter, referred to in subsec. (a), was in the original “this title” a
 
 2021—Subsec. (d). Pub. L. 116–342 added subsec. (d).
 
-2010—Subsec. (a). Pub. L. 111–203, § 1098(2), substituted “The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this section and section 2604 of this title, in conjunction with the disclosure requirements of the Truth in Lending Act that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this chapter and the Truth in Lending Act, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.” for “The Secretary, in consultation with the Administrator of Veteran’s Affairs, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision, shall develop and prescribe a standard form for the statement of settlement costs which shall be used (with such variations as may be necessary to reflect differences in legal and administrative requirements or practices in different areas of the country) as the standard real estate settlement form in all transactions in the United States which involve federally related mortgage loans.”, “Such forms” for “Such form”, “Bureau may” for “Secretary may”, “the forms” for “the form”, and “prescribed by the Bureau” for “prescribed by the Secretary” and substituted “standard forms” for “standard form” in two places.
+2010—Subsec. (a). Pub. L. 111–203, § 1098(2), substituted “The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this section and section 2604 of this title, in conjunction with the disclosure requirements of the Truth in Lending Act that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this chapter and the Truth in Lending Act, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.” for “The Secretary, in consultation with the Administrator of Veteran’s Affairs, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision, shall develop and prescribe a standard form for the statement of settlement costs which shall be used (with such variations as may be necessary to reflect differences in legal and administrative requirements or practices in different areas of the country) as the standard real estate settlement form in all transactions in the United States which involve federally related mortgage loans.”, “Such forms” for “Such form”, “Bureau may” for “Secretary may”, “the forms” for “the form”, and “prescribed by the Bureau” for “prescribed by the Secretary” and substituted “standard forms” for “standard form” in two places.
 
-Subsec. (b). Pub. L. 111–203, § 1098(2)(B), (C), substituted “forms” for “form” wherever appearing and “Bureau” for “Secretary” in two places.
+Subsec. (b). Pub. L. 111–203, § 1098(2)(B), (C), substituted “forms” for “form” wherever appearing and “Bureau” for “Secretary” in two places.
 
-Subsec. (c). Pub. L. 111–203, § 1475, added subsec. (c).
+Subsec. (c). Pub. L. 111–203, § 1475, added subsec. (c).
 
 1996—Subsec. (a). Pub. L. 104–208 substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-1976—Subsec. (a). Pub. L. 94–205, § 3(1)–(3), designated existing provisions as subsec. (a), struck out “minimum” after “with such” and “unavoidable” after “necessary to reflect” in parenthetical provisions covering allowable regional variations in the uniform settlement statement, and substituted provisions authorizing the Secretary to permit deletions from the standard form for provisions requiring that the standard form contain all the information and data required under the Truth in Lending Act.
+1976—Subsec. (a). Pub. L. 94–205, § 3(1)–(3), designated existing provisions as subsec. (a), struck out “minimum” after “with such” and “unavoidable” after “necessary to reflect” in parenthetical provisions covering allowable regional variations in the uniform settlement statement, and substituted provisions authorizing the Secretary to permit deletions from the standard form for provisions requiring that the standard form contain all the information and data required under the Truth in Lending Act.
 
-Subsec. (b). Pub. L. 94–205, § 3(4), added subsec. (b).
+Subsec. (b). Pub. L. 94–205, § 3(4), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–342, § 2(c), Jan. 13, 2021, 134 Stat. 5135, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1604 of Title 15, Commerce and Trade] shall take effect on the date of the enactment of this Act [Jan. 13, 2021].”
+Pub. L. 116–342, § 2(c), Jan. 13, 2021, 134 Stat. 5135, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1604 of Title 15, Commerce and Trade] shall take effect on the date of the enactment of this Act [Jan. 13, 2021].”
 
 **Effective Date of 2010 Amendment**
 
@@ -235,7 +235,7 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authori
 
 Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
-## § 2604. Home buying information booklets
+## § 2604. Home buying information booklets
 
 **(a) Preparation and distribution**
 
@@ -293,7 +293,7 @@ Each lender referred to in subsection (a) shall provide the booklet described in
 
 Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
 
-(Pub. L. 93–533, § 5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, § 4, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 102–550, title IX, § 951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, § 1098(3), title XIV, § 1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, § 100222, July 6, 2012, 126 Stat. 934; Pub. L. 113–89, § 13(b), Mar. 21, 2014, 128 Stat. 1026.)
+(Pub. L. 93–533, § 5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, § 4, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 102–550, title IX, § 951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, § 1098(3), title XIV, § 1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, § 100222, July 6, 2012, 126 Stat. 934; Pub. L. 113–89, § 13(b), Mar. 21, 2014, 128 Stat. 1026.)
 
 **Editorial Notes**
 
@@ -301,27 +301,27 @@ Booklets may be printed and distributed by lenders if their form and content are
 
 This chapter, referred to in subsec. (a), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
 
-The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and are classified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and are classified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Amendments**
 
-2014—Subsec. (b)(14). Pub. L. 113–89 inserted before period at end “, and the following statement: ‘Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.’ ” and transferred par. (14) to appear after par. (13).
+2014—Subsec. (b)(14). Pub. L. 113–89 inserted before period at end “, and the following statement: ‘Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.’ ” and transferred par. (14) to appear after par. (13).
 
 2012—Subsec. (b)(14). Pub. L. 112–141 added par. (14) at end of subsec. (b).
 
-2010—Pub. L. 111–203, § 1450(1), substituted “Home buying” for “Special” in section catchline.
+2010—Pub. L. 111–203, § 1450(1), substituted “Home buying” for “Special” in section catchline.
 
-Pub. L. 111–203, § 1098(3)(A), substituted “Bureau” for “Secretary” wherever appearing.
+Pub. L. 111–203, § 1098(3)(A), substituted “Bureau” for “Secretary” wherever appearing.
 
-Subsec. (a). Pub. L. 111–203, § 1450(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services. The Bureau shall distribute such booklets to all lenders which make federally related mortgage loans.”
+Subsec. (a). Pub. L. 111–203, § 1450(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services. The Bureau shall distribute such booklets to all lenders which make federally related mortgage loans.”
 
-Pub. L. 111–203, § 1098(3)(B), substituted “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.” for “The Secretary shall prepare and distribute booklets to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.”
+Pub. L. 111–203, § 1098(3)(B), substituted “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.” for “The Secretary shall prepare and distribute booklets to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.”
 
-Subsec. (b). Pub. L. 111–203, § 1450(2), added subsec. (b) and struck out former subsec. (b) which related to form and detail, cost elements, standard settlement form, escrow accounts, selection of persons for settlement services; and consideration of differences in settlement procedures.
+Subsec. (b). Pub. L. 111–203, § 1450(2), added subsec. (b) and struck out former subsec. (b) which related to form and detail, cost elements, standard settlement form, escrow accounts, selection of persons for settlement services; and consideration of differences in settlement procedures.
 
-Subsec. (c). Pub. L. 111–203, § 1450(3), inserted at end “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 1701x(e) of this title and located in the area of the lender.”
+Subsec. (c). Pub. L. 111–203, § 1450(3), inserted at end “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 1701x(e) of this title and located in the area of the lender.”
 
-Subsec. (d). Pub. L. 111–203, § 1450(4), inserted “The lender shall provide the booklet in the version that is most appropriate for the person receiving it.” after the first sentence.
+Subsec. (d). Pub. L. 111–203, § 1450(4), inserted “The lender shall provide the booklet in the version that is most appropriate for the person receiving it.” after the first sentence.
 
 1992—Subsec. (d). Pub. L. 102–550 substituted “Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.” for “Such booklet shall be provided at the time of receipt or preparation of such application.”
 
@@ -343,7 +343,7 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authori
 
 Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
-## § 2605. Servicing of mortgage loans and administration of escrow accounts
+## § 2605. Servicing of mortgage loans and administration of escrow accounts
 
 **(a) Disclosure to applicant relating to assignment, sale, or transfer of loan servicing**
 
@@ -583,31 +583,31 @@ No provision of this section shall be construed as prohibiting a servicer from p
 
 All charges, apart from charges subject to State regulation as the business of insurance, related to force-placed insurance imposed on the borrower by or through the servicer shall be bona fide and reasonable.
 
-(Pub. L. 93–533, § 6, as added Pub. L. 101–625, title IX, § 941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, § 312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, § 345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, § 2103(a), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, § 1098(4), title XIV, § 1463, July 21, 2010, 124 Stat. 2104, 2182.)
+(Pub. L. 93–533, § 6, as added Pub. L. 101–625, title IX, § 941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, § 312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, § 345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, § 2103(a), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, § 1098(4), title XIV, § 1463, July 21, 2010, 124 Stat. 2104, 2182.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2605, Pub. L. 93–533, § 6, Dec. 22, 1974, 88 Stat. 1726, related to advanced itemized disclosure of settlement costs by the lender and liability of the lender for failure to comply, prior to repeal by Pub. L. 94–205, § 5, Jan. 2, 1976, 89 Stat. 1158.
+A prior section 2605, Pub. L. 93–533, § 6, Dec. 22, 1974, 88 Stat. 1726, related to advanced itemized disclosure of settlement costs by the lender and liability of the lender for failure to comply, prior to repeal by Pub. L. 94–205, § 5, Jan. 2, 1976, 89 Stat. 1158.
 
 **Amendments**
 
-2010—Subsec. (e)(1)(A). Pub. L. 111–203, § 1463(c)(1), substituted “5 days” for “20 days”.
+2010—Subsec. (e)(1)(A). Pub. L. 111–203, § 1463(c)(1), substituted “5 days” for “20 days”.
 
-Subsec. (e)(2). Pub. L. 111–203, § 1463(c)(2), substituted “30 days” for “60 days” in introductory provisions.
+Subsec. (e)(2). Pub. L. 111–203, § 1463(c)(2), substituted “30 days” for “60 days” in introductory provisions.
 
-Subsec. (e)(4). Pub. L. 111–203, § 1463(c)(3), added par. (4).
+Subsec. (e)(4). Pub. L. 111–203, § 1463(c)(3), added par. (4).
 
-Subsec. (f)(1)(B), (2)(B). Pub. L. 111–203, § 1463(b)(1), substituted “$2,000” for “$1,000”.
+Subsec. (f)(1)(B), (2)(B). Pub. L. 111–203, § 1463(b)(1), substituted “$2,000” for “$1,000”.
 
-Subsec. (f)(2)(B)(i). Pub. L. 111–203, § 1463(b)(2), substituted “$1,000,000” for “$500,000”.
+Subsec. (f)(2)(B)(i). Pub. L. 111–203, § 1463(b)(2), substituted “$1,000,000” for “$500,000”.
 
-Subsec. (g). Pub. L. 111–203, § 1463(d), inserted at end “Any balance in any such account that is within the servicer’s control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.”
+Subsec. (g). Pub. L. 111–203, § 1463(d), inserted at end “Any balance in any such account that is within the servicer’s control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.”
 
-Subsec. (j)(3). Pub. L. 111–203, § 1098(4), substituted “Bureau” for “Secretary” and struck out “, by regulations that shall take effect not later than April 20, 1991,” before “establish”.
+Subsec. (j)(3). Pub. L. 111–203, § 1098(4), substituted “Bureau” for “Secretary” and struck out “, by regulations that shall take effect not later than April 20, 1991,” before “establish”.
 
-Subsecs. (k) to (m). Pub. L. 111–203, § 1463(a), added subsecs. (k) to (m).
+Subsecs. (k) to (m). Pub. L. 111–203, § 1463(a), added subsecs. (k) to (m).
 
 1996—Subsec. (a). Pub. L. 104–208 amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) to (3) relating to requirements for lenders of federally related mortgage loans to disclose to applicants whether servicing of such loan may be assigned, sold, or transferred, directed Secretary to develop model disclosure statement, and required signature of applicant on all such disclosure statements.
 
@@ -627,7 +627,7 @@ Amendment by section 1098(4) of Pub. L. 111–203 effective on the designated tr
 
 Amendment by section 1463 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 2606. Exempted transactions
+## § 2606. Exempted transactions
 
 **(a) In general** This chapter does not apply to credit transactions involving extensions of credit—
 
@@ -637,13 +637,13 @@ Amendment by section 1463 of Pub. L. 111–203 effective on the date on which fi
 
 **(b) Interpretation**
 
-In prescribing regulations under section 2617(a) of this title, the Bureau shall ensure that, with respect to subsection (a) of this section, the exemption for credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, as provided in subsection (a)(1) 1
+In prescribing regulations under section 2617(a) of this title, the Bureau shall ensure that, with respect to subsection (a) of this section, the exemption for credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, as provided in subsection (a)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this section shall be the same as the exemption for such credit transactions under section 1603(1) of title 15.
 
-(Pub. L. 93–533, § 7, as added Pub. L. 103–325, title III, § 312, Sept. 23, 1994, 108 Stat. 2221; amended Pub. L. 104–208, div. A, title II, § 2103(b), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, § 1098(5), July 21, 2010, 124 Stat. 2104.)
+(Pub. L. 93–533, § 7, as added Pub. L. 103–325, title III, § 312, Sept. 23, 1994, 108 Stat. 2221; amended Pub. L. 104–208, div. A, title II, § 2103(b), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, § 1098(5), July 21, 2010, 124 Stat. 2104.)
 
 **Editorial Notes**
 
@@ -653,7 +653,7 @@ Subsection (a)(1) of this section, referred to in subsec. (b), was in the origin
 
 **Prior Provisions**
 
-A prior section 2606, Pub. L. 93–533, § 7, Dec. 22, 1974, 88 Stat. 1727, related to seller or his agent confirming that information concerning an existing residence was disclosed to buyer in writing before a commitment for a mortgage loan was made, prior to repeal by Pub. L. 94–205, § 6, Jan. 2, 1976, 89 Stat. 1158.
+A prior section 2606, Pub. L. 93–533, § 7, Dec. 22, 1974, 88 Stat. 1727, related to seller or his agent confirming that information concerning an existing residence was disclosed to buyer in writing before a commitment for a mortgage loan was made, prior to repeal by Pub. L. 94–205, § 6, Jan. 2, 1976, 89 Stat. 1158.
 
 **Amendments**
 
@@ -667,7 +667,7 @@ A prior section 2606, Pub. L. 93–533, § 7, Dec. 22, 1974, 88 Stat. 1727, re
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 2607. Prohibition against kickbacks and unearned fees
+## § 2607. Prohibition against kickbacks and unearned fees
 
 **(a) Business referrals**
 
@@ -681,7 +681,7 @@ No person shall give and no person shall accept any portion, split, or percentag
 
 Nothing in this section shall be construed as prohibiting (1) the payment of a fee (A) to attorneys at law for services actually rendered or (B) by a title company to its duly appointed agent for services actually performed in the issuance of a policy of title insurance or (C) by a lender to its duly appointed agent for services actually performed in the making of a loan, (2) the payment to any person of a bona fide salary or compensation or other payment for goods or facilities actually furnished or for services actually performed, (3) payments pursuant to cooperative brokerage and referral arrangements or agreements between real estate agents and brokers, (4) affiliated business arrangements so long as (A) a disclosure is made of the existence of such an arrangement to the person being referred and, in connection with such referral, such person is provided a written estimate of the charge or range of charges generally made by the provider to which the person is referred (i) in the case of a face-to-face referral or a referral made in writing or by electronic media, at or before the time of the referral (and compliance with this requirement in such case may be evidenced by a notation in a written, electronic, or similar system of records maintained in the regular course of business); (ii) in the case of a referral made by telephone, within 3 business days after the referral by telephone,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 (and in such case an abbreviated verbal disclosure of the existence of the arrangement and the fact that a written disclosure will be provided within 3 business days shall be made to the person being referred during the telephone referral); or (iii) in the case of a referral by a lender (including a referral by a lender to an affiliated lender), at the time the estimates required under section 2604(c) of this title are provided (notwithstanding clause (i) or (ii)); and any required written receipt of such disclosure (without regard to the manner of the disclosure under clause (i), (ii), or (iii)) may be obtained at the closing or settlement (except that a person making a face-to-face referral who provides the written disclosure at or before the time of the referral shall attempt to obtain any required written receipt of such disclosure at such time and if the person being referred chooses not to acknowledge the receipt of the disclosure at that time, that fact shall be noted in the written, electronic, or similar system of records maintained in the regular course of business by the person making the referral), (B) such person is not required to use any particular provider of settlement services, and (C) the only thing of value that is received from the arrangement, other than the payments permitted under this subsection, is a return on the ownership interest or franchise relationship, or (5) such other payments or classes of payments or other transfers as are specified in regulations prescribed by the Bureau, after consultation with the Attorney General, the Secretary of Veterans Affairs, the Federal Home Loan Bank Board, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Secretary of Agriculture. For purposes of the preceding sentence, the following shall not be considered a violation of clause (4)(B): (i) any arrangement that requires a buyer, borrower, or seller to pay for the services of an attorney, credit reporting agency, or real estate appraiser chosen by the lender to represent the lender’s interest in a real estate transaction, or (ii) any arrangement where an attorney or law firm represents a client in a real estate transaction and issues or arranges for the issuance of a policy of title insurance in the transaction directly as agent or through a separate corporate title insurance agency that may be established by that attorney or law firm and operated as an adjunct to his or its law practice.
 
@@ -699,37 +699,37 @@ Nothing in this section shall be construed as prohibiting (1) the payment of a f
 
 **(6)** No provision of State law or regulation that imposes more stringent limitations on affiliated business arrangements shall be construed as being inconsistent with this section.
 
-(Pub. L. 93–533, § 8, Dec. 22, 1974, 88 Stat. 1727; Pub. L. 94–205, § 7, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 98–181, title I [title IV, § 461(b), (c)], Nov. 30, 1983, 97 Stat. 1231; Pub. L. 100–242, title V, § 570(g), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 102–54, § 13(d)(4), June 13, 1991, 105 Stat. 275; Pub. L. 104–208, div. A, title II, § 2103(c)(2), (d), Sept. 30, 1996, 110 Stat. 3009–400; Pub. L. 111–203, title X, § 1098(6), (7), July 21, 2010, 124 Stat. 2104.)
+(Pub. L. 93–533, § 8, Dec. 22, 1974, 88 Stat. 1727; Pub. L. 94–205, § 7, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 98–181, title I [title IV, § 461(b), (c)], Nov. 30, 1983, 97 Stat. 1231; Pub. L. 100–242, title V, § 570(g), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 102–54, § 13(d)(4), June 13, 1991, 105 Stat. 275; Pub. L. 104–208, div. A, title II, § 2103(c)(2), (d), Sept. 30, 1996, 110 Stat. 3009–400; Pub. L. 111–203, title X, § 1098(6), (7), July 21, 2010, 124 Stat. 2104.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (d)(4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (d)(4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (c)(5). Pub. L. 111–203, § 1098(6), which directed substituting “Bureau” for “Secretary”, was executed by making the substitution for “Secretary” the first time appearing, to reflect the probable intent of Congress.
+2010—Subsec. (c)(5). Pub. L. 111–203, § 1098(6), which directed substituting “Bureau” for “Secretary”, was executed by making the substitution for “Secretary” the first time appearing, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 111–203, § 1098(7)(A), inserted “Bureau and” before “Secretary” in heading that had been supplied editorially.
+Subsec. (d). Pub. L. 111–203, § 1098(7)(A), inserted “Bureau and” before “Secretary” in heading that had been supplied editorially.
 
-Subsec. (d)(4). Pub. L. 111–203, § 1098(7)(B), added par. (4) and struck out former par. (4) which read as follows: “The Secretary, the Attorney General of any State, or the insurance commissioner of any State may bring an action to enjoin violations of this section.”
+Subsec. (d)(4). Pub. L. 111–203, § 1098(7)(B), added par. (4) and struck out former par. (4) which read as follows: “The Secretary, the Attorney General of any State, or the insurance commissioner of any State may bring an action to enjoin violations of this section.”
 
-1996—Subsec. (c)(4). Pub. L. 104–208, § 2103(c)(2), substituted “affiliated business arrangements” for “controlled business arrangements”.
+1996—Subsec. (c)(4). Pub. L. 104–208, § 2103(c)(2), substituted “affiliated business arrangements” for “controlled business arrangements”.
 
-Subsec. (c)(4)(A). Pub. L. 104–208, § 2103(d), amended subcl. (A) generally. Prior to amendment, subcl. (A) read as follows: “at or prior to the time of the referral a disclosure is made of the existence of such an arrangement to the person being referred and, in connection with the referral, such person is provided a written estimate of the charge or range of charges generally made by the provider to which the person is referred, except that where a lender makes the referral, this requirement may be satisfied as part of and at the time that the estimates of settlement charges required under section 2604(c) of this title are provided,”.
+Subsec. (c)(4)(A). Pub. L. 104–208, § 2103(d), amended subcl. (A) generally. Prior to amendment, subcl. (A) read as follows: “at or prior to the time of the referral a disclosure is made of the existence of such an arrangement to the person being referred and, in connection with the referral, such person is provided a written estimate of the charge or range of charges generally made by the provider to which the person is referred, except that where a lender makes the referral, this requirement may be satisfied as part of and at the time that the estimates of settlement charges required under section 2604(c) of this title are provided,”.
 
-Subsec. (d)(6). Pub. L. 104–208, § 2103(c)(2), substituted “affiliated business arrangements” for “controlled business arrangements”.
+Subsec. (d)(6). Pub. L. 104–208, § 2103(c)(2), substituted “affiliated business arrangements” for “controlled business arrangements”.
 
 1991—Subsec. (c)(5). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 1988—Subsec. (c)(5). Pub. L. 100–242 substituted “clause (4)(B)” for “clause 4(B)”.
 
-1983—Subsec. (c). Pub. L. 98–181, § 461(b), redesignated cl. (4) as (5), added cl. (4) and provisions following cl. (5), as so redesignated, relating to arrangements which shall not be considered a violation of cl. (4)(B).
+1983—Subsec. (c). Pub. L. 98–181, § 461(b), redesignated cl. (4) as (5), added cl. (4) and provisions following cl. (5), as so redesignated, relating to arrangements which shall not be considered a violation of cl. (4)(B).
 
-Subsec. (d)(2). Pub. L. 98–181, § 461(c), substituted provisions setting forth the liability of persons violating the prohibitions or limitations of this section for provisions setting forth liability, in addition to penalties provided in par. (1), of persons violating subsecs. (a) and (b) of this section, plus costs and attorney’s fees.
+Subsec. (d)(2). Pub. L. 98–181, § 461(c), substituted provisions setting forth the liability of persons violating the prohibitions or limitations of this section for provisions setting forth liability, in addition to penalties provided in par. (1), of persons violating subsecs. (a) and (b) of this section, plus costs and attorney’s fees.
 
-Subsec. (d)(3) to (6). Pub. L. 98–181, § 461(c), added pars. (3) to (6).
+Subsec. (d)(3) to (6). Pub. L. 98–181, § 461(c), added pars. (3) to (6).
 
 1976—Subsec. (c). Pub. L. 94–205 added cls. (3) and (4).
 
@@ -755,13 +755,13 @@ Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–5
 
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
-## § 2608. Title companies; liability of seller
+## § 2608. Title companies; liability of seller
 
 **(a)** No seller of property that will be purchased with the assistance of a federally related mortgage loan shall require directly or indirectly, as a condition to selling the property, that title insurance covering the property be purchased by the buyer from any particular title company.
 
 **(b)** Any seller who violates the provisions of subsection (a) shall be liable to the buyer in an amount equal to three times all charges made for such title insurance.
 
-(Pub. L. 93–533, § 9, Dec. 22, 1974, 88 Stat. 1728.)
+(Pub. L. 93–533, § 9, Dec. 22, 1974, 88 Stat. 1728.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -769,7 +769,7 @@ Federal Home Loan Bank Board abolished and functions transferred, see sections 4
 
 Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
-## § 2609. Limitation on requirement of advance deposits in escrow accounts
+## § 2609. Limitation on requirement of advance deposits in escrow accounts
 
 **(a) In general** A lender, in connection with a federally related mortgage loan, may not require the borrower or prospective borrower—
 
@@ -811,9 +811,9 @@ The statement required under subparagraph (A) shall be submitted to the borrower
 
 **(1) In general**
 
-In the case of each failure to submit a statement to a borrower as required under subsection (c), the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) 1
+In the case of each failure to submit a statement to a borrower as required under subsection (c), the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) 1
 
-<sup>1</sup>  So in original. Probably should be subsection “(c)”.
+<sup>1</sup> So in original. Probably should be subsection “(c)”.
 
 may not exceed $100,000.
 
@@ -823,7 +823,7 @@ may not exceed $100,000.
 
 **(B)** in the case of any penalty determined under subparagraph (A), the $100,000 limitation under paragraph (1) shall not apply.
 
-(Pub. L. 93–533, § 10, Dec. 22, 1974, 88 Stat. 1728; Pub. L. 94–205, § 8, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 101–625, title IX, § 942(a), Nov. 28, 1990, 104 Stat. 4411; Pub. L. 104–208, div. A, title II, § 2103(g)(2), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, § 1098(8), July 21, 2010, 124 Stat. 2104.)
+(Pub. L. 93–533, § 10, Dec. 22, 1974, 88 Stat. 1728; Pub. L. 94–205, § 8, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 101–625, title IX, § 942(a), Nov. 28, 1990, 104 Stat. 4411; Pub. L. 104–208, div. A, title II, § 2103(g)(2), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, § 1098(8), July 21, 2010, 124 Stat. 2104.)
 
 **Editorial Notes**
 
@@ -851,17 +851,17 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 
 
 Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
-## § 2610. Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements
+## § 2610. Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements
 
 No fee shall be imposed or charge made upon any other person (as a part of settlement costs or otherwise) by a lender in connection with a federally related mortgage loan made by it (or a loan for the purchase of a mobile home), or by a servicer (as the term is defined under section 2605(i) of this title), for or on account of the preparation and submission by such lender or servicer of the statement or statements required (in connection with such loan) by sections 2603 and 2609(c) of this title or by the Truth in Lending Act [15 U.S.C. 1601 et seq.].
 
-(Pub. L. 93–533, § 12, Dec. 22, 1974, 88 Stat. 1729; Pub. L. 101–625, title IX, § 942(b), Nov. 28, 1990, 104 Stat. 4412.)
+(Pub. L. 93–533, § 12, Dec. 22, 1974, 88 Stat. 1729; Pub. L. 101–625, title IX, § 942(b), Nov. 28, 1990, 104 Stat. 4412.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in text, is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in text, is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Amendments**
 
@@ -873,19 +873,19 @@ The Truth in Lending Act, referred to in text, is title I of Pub. L. 90–321, M
 
 Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
-## §§ 2611 to 2613. Repealed. Pub. L. 104–208, div. A, title II, § 2103(h), Sept. 30, 1996, 110 Stat. 3009–401
+## §§ 2611 to 2613. Repealed. Pub. L. 104–208, div. A, title II, § 2103(h), Sept. 30, 1996, 110 Stat. 3009–401
 
-Section 2611, Pub. L. 93–533, § 13, Dec. 22, 1974, 88 Stat. 1730, related to establishment of land parcel recordation system on demonstration basis.
+Section 2611, Pub. L. 93–533, § 13, Dec. 22, 1974, 88 Stat. 1730, related to establishment of land parcel recordation system on demonstration basis.
 
-Section 2612, Pub. L. 93–533, § 14, Dec. 22, 1974, 88 Stat. 1730, directed Secretary of Housing and Urban Development to report on necessity for further legislation involving real estate settlements.
+Section 2612, Pub. L. 93–533, § 14, Dec. 22, 1974, 88 Stat. 1730, directed Secretary of Housing and Urban Development to report on necessity for further legislation involving real estate settlements.
 
-Section 2613, Pub. L. 93–533, § 15, Dec. 22, 1974, 88 Stat. 1730, directed Secretary of Housing and Urban Development to determine, and report to Congress on, feasibility of including statements of settlement costs in special information booklets.
+Section 2613, Pub. L. 93–533, § 15, Dec. 22, 1974, 88 Stat. 1730, directed Secretary of Housing and Urban Development to determine, and report to Congress on, feasibility of including statements of settlement costs in special information booklets.
 
-## § 2614. Jurisdiction of courts; limitations
+## § 2614. Jurisdiction of courts; limitations
 
 Any action pursuant to the provisions of section 2605, 2607, or 2608 of this title may be brought in the United States district court or in any other court of competent jurisdiction, for the district in which the property involved is located, or where the violation is alleged to have occurred, within 3 years in the case of a violation of section 2605 of this title and 1 year in the case of a violation of section 2607 or 2608 of this title from the date of the occurrence of the violation, except that actions brought by the Bureau, the Secretary, the Attorney General of any State, or the insurance commissioner of any State may be brought within 3 years from the date of the occurrence of the violation.
 
-(Pub. L. 93–533, § 16, Dec. 22, 1974, 88 Stat. 1731; Pub. L. 98–181, title I [title IV, § 461(d)], Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, § 2103(e), Sept. 30, 1996, 110 Stat. 3009–400; Pub. L. 111–203, title X, § 1098(9), July 21, 2010, 124 Stat. 2104.)
+(Pub. L. 93–533, § 16, Dec. 22, 1974, 88 Stat. 1731; Pub. L. 98–181, title I [title IV, § 461(d)], Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, § 2103(e), Sept. 30, 1996, 110 Stat. 3009–400; Pub. L. 111–203, title X, § 1098(9), July 21, 2010, 124 Stat. 2104.)
 
 **Editorial Notes**
 
@@ -911,11 +911,11 @@ Amendment by Pub. L. 98–181 effective Jan. 1, 1984, see section 461(f) of Pub.
 
 Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
-## § 2615. Contracts and liens; validity
+## § 2615. Contracts and liens; validity
 
 Nothing in this chapter shall affect the validity or enforceability of any sale or contract for the sale of real property or any loan, loan agreement, mortgage, or lien made or arising in connection with a federally related mortgage loan.
 
-(Pub. L. 93–533, § 17, Dec. 22, 1974, 88 Stat. 1731.)
+(Pub. L. 93–533, § 17, Dec. 22, 1974, 88 Stat. 1731.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -923,11 +923,11 @@ Nothing in this chapter shall affect the validity or enforceability of any sale 
 
 Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
-## § 2616. State laws unaffected; inconsistent Federal and State provisions
+## § 2616. State laws unaffected; inconsistent Federal and State provisions
 
 This chapter does not annul, alter, or affect, or exempt any person subject to the provisions of this chapter from complying with, the laws of any State with respect to settlement practices, except to the extent that those laws are inconsistent with any provision of this chapter, and then only to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this chapter if the Bureau determines that such law gives greater protection to the consumer. In making these determinations the Bureau shall consult with the appropriate Federal agencies.
 
-(Pub. L. 93–533, § 18, Dec. 22, 1974, 88 Stat. 1731; Pub. L. 94–205, § 9, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 111–203, title X, § 1098(10), July 21, 2010, 124 Stat. 2104.)
+(Pub. L. 93–533, § 18, Dec. 22, 1974, 88 Stat. 1731; Pub. L. 94–205, § 9, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 111–203, title X, § 1098(10), July 21, 2010, 124 Stat. 2104.)
 
 **Editorial Notes**
 
@@ -951,7 +951,7 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 
 
 Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
-## § 2617. Authority of Bureau
+## § 2617. Authority of Bureau
 
 **(a) Issuance of regulations; exemptions**
 
@@ -963,9 +963,9 @@ No provision of this chapter or the laws of any State imposing any liability sha
 
 **(c) Investigations; hearings; failure to obey order; contempt**
 
-**(1)** The Secretary 1
+**(1)** The Secretary 1
 
-<sup>1</sup>  Probably should be “The Bureau”.
+<sup>1</sup> Probably should be “The Bureau”.
 
 may investigate any facts, conditions, practices, or matters that may be deemed necessary or proper to aid in the enforcement of the provisions of this chapter, in prescribing of rules and regulations thereunder, or in securing information to serve as a basis for recommending further legislation concerning real estate settlement practices. To aid in the investigations, the Bureau is authorized to hold such hearings, administer such oaths, and require by subpena the attendance and testimony of such witnesses and production of such documents as the Bureau deems advisable.
 
@@ -989,17 +989,17 @@ The regulation codified as section 3500.14(g)(1)(vii) of title 24 of the Code of
 
 The Secretary shall provide public notice of the date on which the amendment referred to in paragraph (1) will take effect in accordance with such paragraph not less than 90 days and not more than 180 days before such effective date.
 
-(Pub. L. 93–533, § 19, as added Pub. L. 94–205, § 10, Jan. 2, 1976, 89 Stat. 1159; amended Pub. L. 98–181, title I [title IV, § 461(e)], Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, § 2103(f), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, § 1098(11), July 21, 2010, 124 Stat. 2104.)
+(Pub. L. 93–533, § 19, as added Pub. L. 94–205, § 10, Jan. 2, 1976, 89 Stat. 1159; amended Pub. L. 98–181, title I [title IV, § 461(e)], Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, § 2103(f), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, § 1098(11), July 21, 2010, 124 Stat. 2104.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1098(11)(A), substituted “Bureau” for “Secretary” in section catchline.
+2010—Pub. L. 111–203, § 1098(11)(A), substituted “Bureau” for “Secretary” in section catchline.
 
-Subsec. (a). Pub. L. 111–203, § 1098(11)(B), substituted “Bureau” for “Secretary”.
+Subsec. (a). Pub. L. 111–203, § 1098(11)(B), substituted “Bureau” for “Secretary”.
 
-Subsecs. (b), (c). Pub. L. 111–203, § 1098(11)(C), substituted “the Bureau” for “the Secretary” wherever appearing.
+Subsecs. (b), (c). Pub. L. 111–203, § 1098(11)(C), substituted “the Bureau” for “the Secretary” wherever appearing.
 
 1996—Subsec. (d). Pub. L. 104–208 added subsec. (d).
 

@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 31—ASSISTIVE TECHNOLOGY FOR INDIVIDUALS WITH DISABILITIES
 
-## § 3001. Purposes
+## § 3001. Purposes
 
 The purposes of this chapter are to—
 
-**(1)** to 1
+**(1)** to 1
 
-<sup>1</sup>  So in original. The word “to” probably should not appear.
+<sup>1</sup> So in original. The word “to” probably should not appear.
 
 support State efforts to improve the provision of assistive technology to individuals with disabilities of all ages, including underrepresented populations, through comprehensive statewide programs of technology-related assistance that are designed to—
 
@@ -39,9 +39,9 @@ support State efforts to improve the provision of assistive technology to indivi
 
 **(G)** increase awareness and knowledge of the benefits of assistive technology devices and assistive technology services among targeted individuals and entities and the general population; and
 
-**(2)** to <sup>1</sup> provide States and protection and advocacy systems with financial assistance that supports programs designed to maximize the ability of individuals with disabilities and their family members, guardians, advocates, and authorized representatives to obtain assistive technology devices and assistive technology services.
+**(2)** to <sup>1</sup> provide States and protection and advocacy systems with financial assistance that supports programs designed to maximize the ability of individuals with disabilities and their family members, guardians, advocates, and authorized representatives to obtain assistive technology devices and assistive technology services.
 
-(Pub. L. 105–394, § 2, Nov. 13, 1998, 112 Stat. 3628; Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3260.)
+(Pub. L. 105–394, § 2, Nov. 13, 1998, 112 Stat. 3628; Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3260.)
 
 **Editorial Notes**
 
@@ -55,21 +55,21 @@ support State efforts to improve the provision of assistive technology to indivi
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LIV, § 5403, Dec. 23, 2022, 136 Stat. 3289, provided that: “This title [see Short Title of 2022 Amendment note set out below], and the amendments made by this title, shall take effect on the day that is 6 months after the date of enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. E, title LIV, § 5403, Dec. 23, 2022, 136 Stat. 3289, provided that: “This title [see Short Title of 2022 Amendment note set out below], and the amendments made by this title, shall take effect on the day that is 6 months after the date of enactment of this Act [Dec. 23, 2022].”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LIV, § 5401, Dec. 23, 2022, 136 Stat. 3260, provided that: “This title [enacting section 3008 of this title, amending this section and sections 3002 to 3007 of this title, and enacting and amending provisions set out as notes under this section] may be cited as the ‘21st Century Assistive Technology Act’.”
+Pub. L. 117–263, div. E, title LIV, § 5401, Dec. 23, 2022, 136 Stat. 3260, provided that: “This title [enacting section 3008 of this title, amending this section and sections 3002 to 3007 of this title, and enacting and amending provisions set out as notes under this section] may be cited as the ‘21st Century Assistive Technology Act’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–364, § 1, Oct. 25, 2004, 118 Stat. 1707, provided that: “This Act [enacting sections 3003 to 3007 of this title, amending this section, sections 763, 781, 792, and 3002 of this title, and sections 15024, 15025, 15043, and 15064 of Title 42, The Public Health and Welfare, omitting sections 3011 to 3015, 3031 to 3037, and 3051 to 3058 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Assistive Technology Act of 2004’.”
+Pub. L. 108–364, § 1, Oct. 25, 2004, 118 Stat. 1707, provided that: “This Act [enacting sections 3003 to 3007 of this title, amending this section, sections 763, 781, 792, and 3002 of this title, and sections 15024, 15025, 15043, and 15064 of Title 42, The Public Health and Welfare, omitting sections 3011 to 3015, 3031 to 3037, and 3051 to 3058 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Assistive Technology Act of 2004’.”
 
 **Short Title**
 
-Pub. L. 105–394, § 1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3260, provided that: “This Act [enacting this chapter] may be cited as the ‘Assistive Technology Act of 1998’.”
+Pub. L. 105–394, § 1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3260, provided that: “This Act [enacting this chapter] may be cited as the ‘Assistive Technology Act of 1998’.”
 
-## § 3002. Definitions
+## § 3002. Definitions
 
 In this chapter:
 
@@ -225,27 +225,27 @@ The term “underrepresented population” means a population that is typically 
 
 The term “universal design” means a concept or philosophy for designing and delivering products and services that are usable by people with the widest possible range of functional capabilities, which include products and services that are directly accessible (without requiring assistive technologies) and products and services that are interoperable with assistive technologies.
 
-(Pub. L. 105–394, § 3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, § 401(b)(4)(A), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1709; Pub. L. 110–315, title IX, § 941(k)(2)(K), Aug. 14, 2008, 122 Stat. 3467; Pub. L. 113–128, title IV, § 491(*o*)(1), title V, § 512(b)(1), July 22, 2014, 128 Stat. 1698, 1705; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3261.)
+(Pub. L. 105–394, § 3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, § 401(b)(4)(A), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1709; Pub. L. 110–315, title IX, § 941(k)(2)(K), Aug. 14, 2008, 122 Stat. 3467; Pub. L. 113–128, title IV, § 491(*o*)(1), title V, § 512(b)(1), July 22, 2014, 128 Stat. 1698, 1705; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3261.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Part C of title VII of the Act probably should have been a reference to part C of chapter 1 of title VII of the Act, which is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Part C of title VII of the Act probably should have been a reference to part C of chapter 1 of title VII of the Act, which is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in pars. (2) and (12)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in pars. (2) and (12)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (11), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (11), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Protection and Advocacy for Individuals with Mental Illness Act, referred to in par. (12)(A), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, which is classified generally to chapter 114 (§ 10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
+The Protection and Advocacy for Individuals with Mental Illness Act, referred to in par. (12)(A), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, which is classified generally to chapter 114 (§ 10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
 **Amendments**
 
 2022—Pub. L. 117–263 amended section generally. Prior to amendment, section defined terms for this chapter.
 
-2014—Par. (1)(C). Pub. L. 113–128, § 512(b)(1), substituted “such as a one-stop partner, as defined in section 3102 of this title” for “such as a one-stop partner, as defined in section 2801 of this title”.
+2014—Par. (1)(C). Pub. L. 113–128, § 512(b)(1), substituted “such as a one-stop partner, as defined in section 3102 of this title” for “such as a one-stop partner, as defined in section 2801 of this title”.
 
-Par. (13). Pub. L. 113–128, § 491(*o*)(1), substituted “Health and Human Services” for “Education”.
+Par. (13). Pub. L. 113–128, § 491(*o*)(1), substituted “Health and Human Services” for “Education”.
 
 2008—Par. (11). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
@@ -263,7 +263,7 @@ Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 
 
 Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
-## § 3003. Grants for State assistive technology programs
+## § 3003. Grants for State assistive technology programs
 
 **(a) Grants to States** The Secretary shall award grants under subsection (b) to States to maintain a comprehensive statewide program of assistive technology-related assistance described in subsection (e) through State assistive technology programs that are designed to—
 
@@ -715,7 +715,7 @@ Each State shall prepare and submit to the Secretary an annual progress report o
 
 **(xi)** the level of customer satisfaction with the services provided.
 
-(Pub. L. 105–394, § 4, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1714; amended Pub. L. 113–128, title V, § 512(b)(2), July 22, 2014, 128 Stat. 1705; Pub. L. 114–95, title IX, § 9215(m), Dec. 10, 2015, 129 Stat. 2168; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3265.)
+(Pub. L. 105–394, § 4, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1714; amended Pub. L. 113–128, title V, § 512(b)(2), July 22, 2014, 128 Stat. 1705; Pub. L. 114–95, title IX, § 9215(m), Dec. 10, 2015, 129 Stat. 2168; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3265.)
 
 **Editorial Notes**
 
@@ -723,19 +723,19 @@ Each State shall prepare and submit to the Secretary an annual progress report o
 
 The effective date of the 21st Century Assistive Technology Act, referred to subsec. (b)(2)(A), is the day that is 6 months after Dec. 23, 2022. See section 5403 of Pub. L. 117–263, set out as an Effective Date of 2022 Amendment note under section 3001 of this title.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (c)(2)(B)(i)(IV), (d)(3)(C)(ii), and (e)(3)(B)(i)(I), (4)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title VII of the Act probably should have been a reference to part C of chapter 1 of title VII of the Act, which is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (c)(2)(B)(i)(IV), (d)(3)(C)(ii), and (e)(3)(B)(i)(I), (4)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title VII of the Act probably should have been a reference to part C of chapter 1 of title VII of the Act, which is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (c)(2)(B)(i)(VIII)(aa) and (e)(4)(B)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(2)(B)(i)(VIII)(aa) and (e)(4)(B)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Older Americans Act of 1965, referred to in subsecs. (c)(2)(B)(i)(VIII)(cc) and (e)(4)(B)(iv), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (c)(2)(B)(i)(VIII)(cc) and (e)(4)(B)(iv), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 Section 9817(a)(2) of the American Rescue Plan Act of 2021, referred to in subsec. (c)(2)(B)(iii), is section 9817(a)(2) of Pub. L. 117–2, which is set out in a note under section 1396d of Title 42, The Public Health and Welfare.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(2)(B)(iii), (d)(3)(C)(i), and (e)(2)(C), (3)(A)(iii)(I), (4)(B)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(2)(B)(iii), (d)(3)(C)(i), and (e)(2)(C), (3)(A)(iii)(I), (4)(B)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(5)(E) and (e)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(5)(E) and (e)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(3)(B)(i)(I), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(3)(B)(i)(I), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Amendments**
 
@@ -743,11 +743,11 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(3)(B)(i
 
 2015—Subsec. (c)(2)(B)(i)(V). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
-2014—Subsec. (c)(2)(B)(i)(IV). Pub. L. 113–128, § 512(b)(2)(A), substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 (29 U.S.C. 2821)”.
+2014—Subsec. (c)(2)(B)(i)(IV). Pub. L. 113–128, § 512(b)(2)(A), substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 (29 U.S.C. 2821)”.
 
-Subsec. (e)(2)(D)(i). Pub. L. 113–128, § 512(b)(2)(B)(i), substituted “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,” for “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801),”.
+Subsec. (e)(2)(D)(i). Pub. L. 113–128, § 512(b)(2)(B)(i), substituted “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,” for “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801),”.
 
-Subsec. (e)(3)(B)(ii)(I)(aa). Pub. L. 113–128, § 512(b)(2)(B)(ii), substituted “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,” for “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),”.
+Subsec. (e)(3)(B)(ii)(I)(aa). Pub. L. 113–128, § 512(b)(2)(B)(ii), substituted “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,” for “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -763,7 +763,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
-## § 3004. Grants for protection and advocacy services related to assistive technology
+## § 3004. Grants for protection and advocacy services related to assistive technology
 
 **(a) Grants**
 
@@ -843,13 +843,13 @@ A protection and advocacy system that receives a grant under this section shall 
 
 On making a grant under this section to a protection and advocacy system in a State, the Secretary shall solicit and consider the opinions of the lead agency of the State with respect to efforts at coordination of activities, collaboration, and promoting outcomes between the lead agency and the protection and advocacy system that receives the grant under this section.
 
-(Pub. L. 105–394, § 5, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1725; amended Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3279.)
+(Pub. L. 105–394, § 5, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1725; amended Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3279.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 **Amendments**
 
@@ -861,7 +861,7 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 23, 2022, see section 5403 of Pub. L. 117–263, set out as a note under section 3001 of this title.
 
-## § 3005. Technical assistance and data collection support
+## § 3005. Technical assistance and data collection support
 
 **(a) Definitions** In this section:
 
@@ -1007,7 +1007,7 @@ Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 
 
 **(D)** are in full compliance with all relevant State and Federal laws, regulations, and policies with respect to data privacy and security.
 
-(Pub. L. 105–394, § 6, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1727; amended Pub. L. 110–69, title III, § 3002(c)(7), Aug. 9, 2007, 121 Stat. 587; Pub. L. 113–128, title IV, § 491(*o*)(2), July 22, 2014, 128 Stat. 1698; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3281.)
+(Pub. L. 105–394, § 6, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1727; amended Pub. L. 110–69, title III, § 3002(c)(7), Aug. 9, 2007, 121 Stat. 587; Pub. L. 113–128, title IV, § 491(*o*)(2), July 22, 2014, 128 Stat. 1698; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3281.)
 
 **Editorial Notes**
 
@@ -1025,7 +1025,7 @@ Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 
 
 Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 23, 2022, see section 5403 of Pub. L. 117–263, set out as a note under section 3001 of this title.
 
-## § 3006. Projects of national significance
+## § 3006. Projects of national significance
 
 **(a) Definition of project of national significance** In this section, the term “project of national significance”—
 
@@ -1073,7 +1073,7 @@ For each grant award period, the Secretary may give preference for 1 or more cat
 
 The Secretary may only award grants, contracts, or cooperative agreements under this section if the amount made available under section 3008 of this title to carry out sections 3003, 3004, and 3005 of this title is equal to or greater than $49,000,000.
 
-(Pub. L. 105–394, § 7, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1734; amended Pub. L. 113–128, title IV, § 491(*o*)(3), July 22, 2014, 128 Stat. 1698; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3286.)
+(Pub. L. 105–394, § 7, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1734; amended Pub. L. 113–128, title IV, § 491(*o*)(3), July 22, 2014, 128 Stat. 1698; Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3286.)
 
 **Editorial Notes**
 
@@ -1085,13 +1085,13 @@ Section 6071 of the Deficit Reduction Act of 2005, referred to in subsec. (a)(2)
 
 2022—Pub. L. 117–263 amended section generally. Prior to amendment, section contained provisions for the administration of this chapter.
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 491(*o*)(3)(A)(i), substituted “the Administrator of the Administration for Community Living” for “the Assistant Secretary for Special Education and Rehabilitative Services of the Department of Education, acting through the Rehabilitation Services Administration,”.
+2014—Subsec. (a)(1). Pub. L. 113–128, § 491(*o*)(3)(A)(i), substituted “the Administrator of the Administration for Community Living” for “the Assistant Secretary for Special Education and Rehabilitative Services of the Department of Education, acting through the Rehabilitation Services Administration,”.
 
-Subsec. (a)(2). Pub. L. 113–128, § 491(*o*)(3)(A)(ii), substituted “The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.” for “The Assistant Secretary for Special Education and Rehabilitative Services shall consult with the Office of Special Education Programs, the Rehabilitation Services Administration, and the National Institute on Disability and Rehabilitation Research in the Office of Special Education and Rehabilitative Services, and appropriate Federal entities in the administration of this chapter.”
+Subsec. (a)(2). Pub. L. 113–128, § 491(*o*)(3)(A)(ii), substituted “The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.” for “The Assistant Secretary for Special Education and Rehabilitative Services shall consult with the Office of Special Education Programs, the Rehabilitation Services Administration, and the National Institute on Disability and Rehabilitation Research in the Office of Special Education and Rehabilitative Services, and appropriate Federal entities in the administration of this chapter.”
 
-Subsec. (a)(3). Pub. L. 113–128, § 491(*o*)(3)(A)(iii), substituted “the Administrator of the Administration for Community Living” for “the Rehabilitation Services Administration”.
+Subsec. (a)(3). Pub. L. 113–128, § 491(*o*)(3)(A)(iii), substituted “the Administrator of the Administration for Community Living” for “the Rehabilitation Services Administration”.
 
-Subsec. (c)(5). Pub. L. 113–128, § 491(*o*)(3)(B), substituted “Health and Human Services” for “Education”.
+Subsec. (c)(5). Pub. L. 113–128, § 491(*o*)(3)(B), substituted “Health and Human Services” for “Education”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1099,7 +1099,7 @@ Subsec. (c)(5). Pub. L. 113–128, § 491(*o*)(3)(B), substituted “Health an
 
 Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 23, 2022, see section 5403 of Pub. L. 117–263, set out as a note under section 3001 of this title.
 
-## § 3007. Administrative provisions
+## § 3007. Administrative provisions
 
 **(a) General administration**
 
@@ -1181,7 +1181,7 @@ Nothing in this section shall be construed to affect the enforcement authority o
 
 This chapter may not be construed as authorizing a Federal or State agency to reduce medical or other assistance available, or to alter eligibility for a benefit or service, under any other Federal law.
 
-(Pub. L. 105–394, § 8, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1736; amended Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3287.)
+(Pub. L. 105–394, § 8, as added Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1736; amended Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3287.)
 
 **Editorial Notes**
 
@@ -1199,7 +1199,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 23, 2022, see section 5403 of Pub. L. 117–263, set out as a note under section 3001 of this title.
 
-## § 3008. Authorization of appropriations; reservations and distribution of funds
+## § 3008. Authorization of appropriations; reservations and distribution of funds
 
 **(a) In general** There are authorized to be appropriated to carry out this chapter—
 
@@ -1233,7 +1233,7 @@ Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 
 
 **(2)** make the reservation under paragraph (1) before carrying out subsection (b).
 
-(Pub. L. 105–394, § 9, as added Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3289.)
+(Pub. L. 105–394, § 9, as added Pub. L. 117–263, div. E, title LIV, § 5402, Dec. 23, 2022, 136 Stat. 3289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1241,66 +1241,66 @@ Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 
 
 Section effective on the day that is 6 months after Dec. 23, 2022, see section 5403 of Pub. L. 117–263, set out as an Effective Date of 2022 Amendment note under section 3001 of this title.
 
-## §§ 3011 to 3015. Omitted
+## §§ 3011 to 3015. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections, comprising subchapter I of this chapter “State Grant Programs”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
+Sections, comprising subchapter I of this chapter “State Grant Programs”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
 
-Section 3011, Pub. L. 105–394, title I, § 101, Nov. 13, 1998, 112 Stat. 3635, provided for continuity grants for States that received funding for a limited period for technology-related assistance.
+Section 3011, Pub. L. 105–394, title I, § 101, Nov. 13, 1998, 112 Stat. 3635, provided for continuity grants for States that received funding for a limited period for technology-related assistance.
 
-Section 3012, Pub. L. 105–394, title I, § 102, Nov. 13, 1998, 112 Stat. 3644; Pub. L. 106–402, title IV, § 401(b)(4)(B), Oct. 30, 2000, 114 Stat. 1738, provided for State grants for protection and advocacy related to assistive technology.
+Section 3012, Pub. L. 105–394, title I, § 102, Nov. 13, 1998, 112 Stat. 3644; Pub. L. 106–402, title IV, § 401(b)(4)(B), Oct. 30, 2000, 114 Stat. 1738, provided for State grants for protection and advocacy related to assistive technology.
 
-Section 3013, Pub. L. 105–394, title I, § 103, Nov. 13, 1998, 112 Stat. 3646, related to administrative provisions.
+Section 3013, Pub. L. 105–394, title I, § 103, Nov. 13, 1998, 112 Stat. 3646, related to administrative provisions.
 
-Section 3014, Pub. L. 105–394, title I, § 104, Nov. 13, 1998, 112 Stat. 3648, related to a technical assistance program.
+Section 3014, Pub. L. 105–394, title I, § 104, Nov. 13, 1998, 112 Stat. 3648, related to a technical assistance program.
 
-Section 3015, Pub. L. 105–394, title I, § 105, Nov. 13, 1998, 112 Stat. 3651, authorized appropriations.
+Section 3015, Pub. L. 105–394, title I, § 105, Nov. 13, 1998, 112 Stat. 3651, authorized appropriations.
 
-## §§ 3031 to 3037. Omitted
-
-**Editorial Notes**
-
-**Codification**
-
-Sections, comprising subchapter II of this chapter, “National Activities”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
-
-Section 3031, Pub. L. 105–394, title II, § 211, Nov. 13, 1998, 112 Stat. 3654, related to small business incentives.
-
-Section 3032, Pub. L. 105–394, title II, § 212, Nov. 13, 1998, 112 Stat. 3654, related to technology transfer and universal design.
-
-Section 3033, Pub. L. 105–394, title II, § 213, Nov. 13, 1998, 112 Stat. 3655, related to universal design in products and the built environment.
-
-Section 3034, Pub. L. 105–394, title II, § 214, Nov. 13, 1998, 112 Stat. 3655, related to assistive technology outreach programs.
-
-Section 3035, Pub. L. 105–394, title II, § 215, Nov. 13, 1998, 112 Stat. 3656, related to training pertaining to rehabilitation engineers and technicians.
-
-Section 3036, Pub. L. 105–394, title II, § 216, Nov. 13, 1998, 112 Stat. 3656, related to the President’s Committee on Employment of People With Disabilities.
-
-Section 3037, Pub. L. 105–394, title II, § 217, Nov. 13, 1998, 112 Stat. 3657, authorized appropriations.
-
-## §§ 3051 to 3058. Omitted
+## §§ 3031 to 3037. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections, comprising subchapter III of this chapter, “Alternative Financing Mechanisms”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
+Sections, comprising subchapter II of this chapter, “National Activities”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
 
-Section 3051, Pub. L. 105–394, title III, § 301, Nov. 13, 1998, 112 Stat. 3657, related to the general authority of the Secretary.
+Section 3031, Pub. L. 105–394, title II, § 211, Nov. 13, 1998, 112 Stat. 3654, related to small business incentives.
 
-Section 3052, Pub. L. 105–394, title III, § 302, Nov. 13, 1998, 112 Stat. 3657, related to the amount of grants.
+Section 3032, Pub. L. 105–394, title II, § 212, Nov. 13, 1998, 112 Stat. 3654, related to technology transfer and universal design.
 
-Section 3053, Pub. L. 105–394, title III, § 303, Nov. 13, 1998, 112 Stat. 3658, related to grant applications and procedures.
+Section 3033, Pub. L. 105–394, title II, § 213, Nov. 13, 1998, 112 Stat. 3655, related to universal design in products and the built environment.
 
-Section 3054, Pub. L. 105–394, title III, § 304, Nov. 13, 1998, 112 Stat. 3659, related to contracts with community-based organizations.
+Section 3034, Pub. L. 105–394, title II, § 214, Nov. 13, 1998, 112 Stat. 3655, related to assistive technology outreach programs.
 
-Section 3055, Pub. L. 105–394, title III, § 305, Nov. 13, 1998, 112 Stat. 3660, related to grant administration requirements.
+Section 3035, Pub. L. 105–394, title II, § 215, Nov. 13, 1998, 112 Stat. 3656, related to training pertaining to rehabilitation engineers and technicians.
 
-Section 3056, Pub. L. 105–394, title III, § 306, Nov. 13, 1998, 112 Stat. 3660, related to grant information and technical assistance.
+Section 3036, Pub. L. 105–394, title II, § 216, Nov. 13, 1998, 112 Stat. 3656, related to the President’s Committee on Employment of People With Disabilities.
 
-Section 3057, Pub. L. 105–394, title III, § 307, Nov. 13, 1998, 112 Stat. 3660, related to annual reports.
+Section 3037, Pub. L. 105–394, title II, § 217, Nov. 13, 1998, 112 Stat. 3657, authorized appropriations.
 
-Section 3058, Pub. L. 105–394, title III, § 308, Nov. 13, 1998, 112 Stat. 3661, authorized appropriations.
+## §§ 3051 to 3058. Omitted
+
+**Editorial Notes**
+
+**Codification**
+
+Sections, comprising subchapter III of this chapter, “Alternative Financing Mechanisms”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
+
+Section 3051, Pub. L. 105–394, title III, § 301, Nov. 13, 1998, 112 Stat. 3657, related to the general authority of the Secretary.
+
+Section 3052, Pub. L. 105–394, title III, § 302, Nov. 13, 1998, 112 Stat. 3657, related to the amount of grants.
+
+Section 3053, Pub. L. 105–394, title III, § 303, Nov. 13, 1998, 112 Stat. 3658, related to grant applications and procedures.
+
+Section 3054, Pub. L. 105–394, title III, § 304, Nov. 13, 1998, 112 Stat. 3659, related to contracts with community-based organizations.
+
+Section 3055, Pub. L. 105–394, title III, § 305, Nov. 13, 1998, 112 Stat. 3660, related to grant administration requirements.
+
+Section 3056, Pub. L. 105–394, title III, § 306, Nov. 13, 1998, 112 Stat. 3660, related to grant information and technical assistance.
+
+Section 3057, Pub. L. 105–394, title III, § 307, Nov. 13, 1998, 112 Stat. 3660, related to annual reports.
+
+Section 3058, Pub. L. 105–394, title III, § 308, Nov. 13, 1998, 112 Stat. 3661, authorized appropriations.

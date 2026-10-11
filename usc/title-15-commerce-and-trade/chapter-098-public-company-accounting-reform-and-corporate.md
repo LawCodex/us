@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 98—PUBLIC COMPANY ACCOUNTING REFORM AND CORPORATE RESPONSIBILITY
 
-## § 7201. Definitions
+## § 7201. Definitions
 
 Except as otherwise specifically provided in this Act, in this Act, the following definitions shall apply:
 
@@ -125,7 +125,7 @@ The term “State” means any State of the United States, the District of Colum
 
 The term “foreign auditor oversight authority” means any governmental body or other entity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.
 
-(Pub. L. 107–204, § 2(a), July 30, 2002, 116 Stat. 746; Pub. L. 111–203, title IX, §§ 929F(g)(1), 981(a), 982(a)(2), July 21, 2010, 124 Stat. 1854, 1926, 1928.)
+(Pub. L. 107–204, § 2(a), July 30, 2002, 116 Stat. 746; Pub. L. 111–203, title IX, §§ 929F(g)(1), 981(a), 982(a)(2), July 21, 2010, 124 Stat. 1854, 1926, 1928.)
 
 **Editorial Notes**
 
@@ -133,17 +133,17 @@ The term “foreign auditor oversight authority” means any governmental body o
 
 This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
-The Securities Act of 1933, referred to in par. (7), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in par. (7), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 Title II, referred to in par. (10)(B), means title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78*l* and 78q of this title. For complete classification of title II to the Code, see Tables.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 982(a)(2), substituted “Except as otherwise specifically provided in this Act, in this” for “In this” in introductory provisions.
+2010—Pub. L. 111–203, § 982(a)(2), substituted “Except as otherwise specifically provided in this Act, in this” for “In this” in introductory provisions.
 
-Par. (9)(C). Pub. L. 111–203, § 929F(g)(1), added subpar. (C).
+Par. (9)(C). Pub. L. 111–203, § 929F(g)(1), added subpar. (C).
 
-Par. (17). Pub. L. 111–203, § 981(a), added par. (17).
+Par. (17). Pub. L. 111–203, § 981(a), added par. (17).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -153,17 +153,17 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–222, § 1, Dec. 18, 2020, 134 Stat. 1063, provided that: “This Act [enacting section 7214a of this title and amending section 7214 of this title] may be cited as the ‘Holding Foreign Companies Accountable Act’.”
+Pub. L. 116–222, § 1, Dec. 18, 2020, 134 Stat. 1063, provided that: “This Act [enacting section 7214a of this title and amending section 7214 of this title] may be cited as the ‘Holding Foreign Companies Accountable Act’.”
 
 **Short Title**
 
-Pub. L. 107–204, § 1(a), July 30, 2002, 116 Stat. 745, provided that: “This Act [see Tables for classification] may be cited as the ‘Sarbanes-Oxley Act of 2002’.”
+Pub. L. 107–204, § 1(a), July 30, 2002, 116 Stat. 745, provided that: “This Act [see Tables for classification] may be cited as the ‘Sarbanes-Oxley Act of 2002’.”
 
 **GAO Study and Report Regarding Consolidation of Public Accounting Firms**
 
-Pub. L. 107–204, title VII, § 701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
+Pub. L. 107–204, title VII, § 701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
 
-## § 7202. Commission rules and enforcement
+## § 7202. Commission rules and enforcement
 
 **(a) Regulatory action**
 
@@ -185,7 +185,7 @@ A violation by any person of this Act, any rule or regulation of the Commission 
 
 **(3)** the ability of the Commission to take, on the initiative of the Commission, legal, administrative, or disciplinary action against any registered public accounting firm or any associated person thereof.
 
-(Pub. L. 107–204, § 3, July 30, 2002, 116 Stat. 749.)
+(Pub. L. 107–204, § 3, July 30, 2002, 116 Stat. 749.)
 
 **Editorial Notes**
 
@@ -193,7 +193,7 @@ A violation by any person of this Act, any rule or regulation of the Commission 
 
 This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (b)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 **Codification**
 
@@ -201,7 +201,7 @@ Section is comprised of section 3 of Pub. L. 107–204. Subsec. (b)(2)–(4) of 
 
 ## SUBCHAPTER I—PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD
 
-### § 7211. Establishment; administrative provisions
+### § 7211. Establishment; administrative provisions
 
 **(a) Establishment of Board**
 
@@ -305,7 +305,7 @@ A member of the Board may be removed by the Commission from office, in accordanc
 
 The Board shall submit an annual report (including its audited financial statements) to the Commission, and the Commission shall transmit a copy of that report to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, not later than 30 days after the date of receipt of that report by the Commission.
 
-(Pub. L. 107–204, title I, § 101, July 30, 2002, 116 Stat. 750; Pub. L. 111–203, title IX, § 982(b), July 21, 2010, 124 Stat. 1928.)
+(Pub. L. 107–204, title I, § 101, July 30, 2002, 116 Stat. 750; Pub. L. 111–203, title IX, § 982(b), July 21, 2010, 124 Stat. 1928.)
 
 **Editorial Notes**
 
@@ -321,9 +321,9 @@ For information regarding the constitutionality of certain provisions of this se
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 982(b)(2), substituted “companies that” for “public companies that” and struck out “for companies the securities of which are sold to, and held by and for, public investors” after “independent audit reports”.
+2010—Subsec. (a). Pub. L. 111–203, § 982(b)(2), substituted “companies that” for “public companies that” and struck out “for companies the securities of which are sold to, and held by and for, public investors” after “independent audit reports”.
 
-Subsecs. (c)(1), (2), (e)(1). Pub. L. 111–203, § 982(b)(1), substituted “issuers, brokers, and dealers” for “issuers”.
+Subsecs. (c)(1), (2), (e)(1). Pub. L. 111–203, § 982(b)(1), substituted “issuers, brokers, and dealers” for “issuers”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -331,7 +331,7 @@ Subsecs. (c)(1), (2), (e)(1). Pub. L. 111–203, § 982(b)(1), substituted “
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 7212. Registration with the Board
+### § 7212. Registration with the Board
 
 **(a) Mandatory registration**
 
@@ -389,17 +389,17 @@ Registration applications and annual reports required by this subsection, or suc
 
 The Board shall assess and collect a registration fee and an annual fee from each registered public accounting firm, in amounts that are sufficient to recover the costs of processing and reviewing applications and annual reports.
 
-(Pub. L. 107–204, title I, § 102, July 30, 2002, 116 Stat. 753; Pub. L. 111–203, title IX, § 982(c), July 21, 2010, 124 Stat. 1928.)
+(Pub. L. 107–204, title I, § 102, July 30, 2002, 116 Stat. 753; Pub. L. 111–203, title IX, § 982(c), July 21, 2010, 124 Stat. 1928.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 982(c)(1), substituted “It” for “Beginning 180 days after the date of the determination of the Commission under section 7211(d) of this title, it”.
+2010—Subsec. (a). Pub. L. 111–203, § 982(c)(1), substituted “It” for “Beginning 180 days after the date of the determination of the Commission under section 7211(d) of this title, it”.
 
-Subsec. (b)(2)(A). Pub. L. 111–203, § 982(c)(2)(A), substituted “issuers, brokers, and dealers” for “issuers”.
+Subsec. (b)(2)(A). Pub. L. 111–203, § 982(c)(2)(A), substituted “issuers, brokers, and dealers” for “issuers”.
 
-Subsec. (b)(2)(B), (G). Pub. L. 111–203, § 982(c)(2)(B), substituted “issuer, broker, or dealer” for “issuer” wherever appearing.
+Subsec. (b)(2)(B), (G). Pub. L. 111–203, § 982(c)(2)(B), substituted “issuer, broker, or dealer” for “issuer” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,7 +407,7 @@ Subsec. (b)(2)(B), (G). Pub. L. 111–203, § 982(c)(2)(B), substituted “iss
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 7213. Auditing, quality control, and independence standards and rules
+### § 7213. Auditing, quality control, and independence standards and rules
 
 **(a) Auditing, quality control, and ethics standards**
 
@@ -489,7 +489,7 @@ The Board shall respond in a timely fashion to requests from designated professi
 
 The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
 
-(Pub. L. 107–204, title I, § 103, July 30, 2002, 116 Stat. 755; Pub. L. 111–203, title IX, § 982(d), July 21, 2010, 124 Stat. 1929; Pub. L. 112–106, title I, § 104, Apr. 5, 2012, 126 Stat. 310.)
+(Pub. L. 107–204, title I, § 103, July 30, 2002, 116 Stat. 755; Pub. L. 111–203, title IX, § 982(d), July 21, 2010, 124 Stat. 1929; Pub. L. 112–106, title I, § 104, Apr. 5, 2012, 126 Stat. 310.)
 
 **Editorial Notes**
 
@@ -503,11 +503,11 @@ Title II of this Act, referred to in subsec. (b), is title II of Pub. L. 107–2
 
 2012—Subsec. (a)(3)(C). Pub. L. 112–106 added subpar. (C).
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 982(d)(1), substituted “such ethics standards, and such independence standards” for “and such ethics standards”.
+2010—Subsec. (a)(1). Pub. L. 111–203, § 982(d)(1), substituted “such ethics standards, and such independence standards” for “and such ethics standards”.
 
-Subsec. (a)(2)(A)(iii). Pub. L. 111–203, § 982(d)(2), substituted “in each audit report for an issuer, describe” for “describe in each audit report” in introductory provisions.
+Subsec. (a)(2)(A)(iii). Pub. L. 111–203, § 982(d)(2), substituted “in each audit report for an issuer, describe” for “describe in each audit report” in introductory provisions.
 
-Subsec. (a)(2)(B)(i). Pub. L. 111–203, § 982(d)(3), substituted “issuers, brokers, and dealers” for “issuers”.
+Subsec. (a)(2)(B)(i). Pub. L. 111–203, § 982(d)(3), substituted “issuers, brokers, and dealers” for “issuers”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -515,7 +515,7 @@ Subsec. (a)(2)(B)(i). Pub. L. 111–203, § 982(d)(3), substituted “issuers,
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 7214. Inspections of registered public accounting firms
+### § 7214. Inspections of registered public accounting firms
 
 **(a) In general**
 
@@ -639,7 +639,7 @@ If, after the end of the 5-year period beginning on the date on which the Commis
 
 Not later than 90 days after December 18, 2020, the Commission shall issue rules that establish the manner and form in which a covered issuer shall make a submission required under paragraph (2)(B).
 
-(Pub. L. 107–204, title I, § 104, July 30, 2002, 116 Stat. 757; Pub. L. 111–203, title IX, § 982(e)(1), July 21, 2010, 124 Stat. 1929; Pub. L. 116–222, § 2, Dec. 18, 2020, 134 Stat. 1063; Pub. L. 117–328, div. AA, title III, § 301, Dec. 29, 2022, 136 Stat. 5536.)
+(Pub. L. 107–204, title I, § 104, July 30, 2002, 116 Stat. 757; Pub. L. 111–203, title IX, § 982(e)(1), July 21, 2010, 124 Stat. 1929; Pub. L. 116–222, § 2, Dec. 18, 2020, 134 Stat. 1063; Pub. L. 117–328, div. AA, title III, § 301, Dec. 29, 2022, 136 Stat. 5536.)
 
 **Editorial Notes**
 
@@ -649,11 +649,11 @@ This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, Ju
 
 **Amendments**
 
-2022—Subsec. (i)(2)(A)(ii). Pub. L. 117–328, § 301(1), substituted “a foreign jurisdiction” for “the foreign jurisdiction described in clause (i)”.
+2022—Subsec. (i)(2)(A)(ii). Pub. L. 117–328, § 301(1), substituted “a foreign jurisdiction” for “the foreign jurisdiction described in clause (i)”.
 
-Subsec. (i)(3). Pub. L. 117–328, § 301(2)(A), substituted “2” for “3” in heading.
+Subsec. (i)(3). Pub. L. 117–328, § 301(2)(A), substituted “2” for “3” in heading.
 
-Subsec. (i)(3)(A). Pub. L. 117–328, § 301(2)(B), substituted “2” for “3”.
+Subsec. (i)(3)(A). Pub. L. 117–328, § 301(2)(B), substituted “2” for “3”.
 
 2020—Subsec. (i). Pub. L. 116–222 added subsec. (i).
 
@@ -665,7 +665,7 @@ Subsec. (i)(3)(A). Pub. L. 117–328, § 301(2)(B), substituted “2” for �
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 7214a. Additional disclosure
+### § 7214a. Additional disclosure
 
 **(a) Definitions** In this section—
 
@@ -707,17 +707,17 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **(5)** whether the articles of incorporation of the issuer (or equivalent organizing document) contains any charter of the Chinese Communist Party, including the text of any such charter.
 
-(Pub. L. 116–222, § 3, Dec. 18, 2020, 134 Stat. 1064.)
+(Pub. L. 116–222, § 3, Dec. 18, 2020, 134 Stat. 1064.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 Section 2 of this Act, referred to in subsecs. (a)(4) and (b), means section 2 of Pub. L. 116–222.
 
-### § 7215. Investigations and disciplinary proceedings
+### § 7215. Investigations and disciplinary proceedings
 
 **(a) In general**
 
@@ -781,7 +781,7 @@ The Board shall notify the Commission of any pending Board investigation involvi
 
 Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c).
 
@@ -921,7 +921,7 @@ Application to the Commission for review, or the institution by the Commission o
 
 The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of any disciplinary action of the Board under this subsection.
 
-(Pub. L. 107–204, title I, § 105, July 30, 2002, 116 Stat. 759; Pub. L. 110–289, div. A, title I, § 1161(h), July 30, 2008, 122 Stat. 2781; Pub. L. 111–203, title IX, §§ 929F(h), 981(b), (c), 982(f), (i), (j), July 21, 2010, 124 Stat. 1855, 1926, 1927, 1929–1931.)
+(Pub. L. 107–204, title I, § 105, July 30, 2002, 116 Stat. 759; Pub. L. 110–289, div. A, title I, § 1161(h), July 30, 2008, 122 Stat. 2781; Pub. L. 111–203, title IX, §§ 929F(h), 981(b), (c), 982(f), (i), (j), July 21, 2010, 124 Stat. 1855, 1926, 1927, 1929–1931.)
 
 **Editorial Notes**
 
@@ -933,19 +933,19 @@ The Freedom of Information Act, referred to in subsec. (b)(5)(A), is section 552
 
 **Amendments**
 
-2010—Subsec. (b)(4)(B)(ii) to (iv). Pub. L. 111–203, § 982(i), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+2010—Subsec. (b)(4)(B)(ii) to (iv). Pub. L. 111–203, § 982(i), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-Subsec. (b)(5)(A). Pub. L. 111–203, § 981(c), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+Subsec. (b)(5)(A). Pub. L. 111–203, § 981(c), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
 
-Subsec. (b)(5)(B)(ii)(V). Pub. L. 111–203, § 982(j), added subcl. (V).
+Subsec. (b)(5)(B)(ii)(V). Pub. L. 111–203, § 982(j), added subcl. (V).
 
-Subsec. (b)(5)(C). Pub. L. 111–203, § 981(b), added subpar. (C).
+Subsec. (b)(5)(C). Pub. L. 111–203, § 981(b), added subpar. (C).
 
-Subsec. (c)(6)(A). Pub. L. 111–203, § 929F(h)(1), substituted “any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person” for “the supervisory personnel” in introductory provisions.
+Subsec. (c)(6)(A). Pub. L. 111–203, § 929F(h)(1), substituted “any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person” for “the supervisory personnel” in introductory provisions.
 
-Subsec. (c)(6)(B). Pub. L. 111–203, § 929F(h)(2), in introductory provisions, substituted “No current or former supervisory person” for “No associated person” and “any associated person” for “any other person”.
+Subsec. (c)(6)(B). Pub. L. 111–203, § 929F(h)(2), in introductory provisions, substituted “No current or former supervisory person” for “No associated person” and “any associated person” for “any other person”.
 
-Subsec. (c)(7)(B). Pub. L. 111–203, § 982(f), in heading, inserted “, broker, or dealer” after “issuer” and, in text, substituted “a registered public accounting firm under this subsection” for “an issuer under this subsection” and “any issuer, broker, or dealer” for “any issuer” in two places.
+Subsec. (c)(7)(B). Pub. L. 111–203, § 982(f), in heading, inserted “, broker, or dealer” after “issuer” and, in text, substituted “a registered public accounting firm under this subsection” for “an issuer under this subsection” and “any issuer, broker, or dealer” for “any issuer” in two places.
 
 2008—Subsec. (b)(5)(B)(ii)(II). Pub. L. 110–289 inserted “and the Director of the Federal Housing Finance Agency,” after “Commission,”.
 
@@ -955,7 +955,7 @@ Subsec. (c)(7)(B). Pub. L. 111–203, § 982(f), in heading, inserted “, b
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 7216. Foreign public accounting firms
+### § 7216. Foreign public accounting firms
 
 **(a) Applicability to certain foreign firms**
 
@@ -1007,7 +1007,7 @@ Notwithstanding any other provisions of this section, the staff of the Commissio
 
 In this section, the term “foreign public accounting firm” means a public accounting firm that is organized and operates under the laws of a foreign government or political subdivision thereof.
 
-(Pub. L. 107–204, title I, § 106, July 30, 2002, 116 Stat. 764; Pub. L. 111–203, title IX, §§ 929J, 982(g), July 21, 2010, 124 Stat. 1859, 1930.)
+(Pub. L. 107–204, title I, § 106, July 30, 2002, 116 Stat. 764; Pub. L. 111–203, title IX, §§ 929J, 982(g), July 21, 2010, 124 Stat. 1859, 1930.)
 
 **Editorial Notes**
 
@@ -1017,13 +1017,13 @@ This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 982(g)(1), substituted “issuer, broker, or dealer” for “issuer”.
+2010—Subsec. (a)(1). Pub. L. 111–203, § 982(g)(1), substituted “issuer, broker, or dealer” for “issuer”.
 
-Subsec. (a)(2). Pub. L. 111–203, § 982(g)(2), substituted “issuers, brokers, or dealers” for “issuers”.
+Subsec. (a)(2). Pub. L. 111–203, § 982(g)(2), substituted “issuers, brokers, or dealers” for “issuers”.
 
-Subsec. (b). Pub. L. 111–203, § 929J(1), added subsec. (b) and struck out former subsec. (b) which related to deemed consent to production of audit workpapers by foreign and domestic firms.
+Subsec. (b). Pub. L. 111–203, § 929J(1), added subsec. (b) and struck out former subsec. (b) which related to deemed consent to production of audit workpapers by foreign and domestic firms.
 
-Subsecs. (d) to (g). Pub. L. 111–203, § 929J(2), (3), added subsecs. (d) to (f) and redesignated former subsec. (d) as (g).
+Subsecs. (d) to (g). Pub. L. 111–203, § 929J(2), (3), added subsecs. (d) to (f) and redesignated former subsec. (d) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1031,7 +1031,7 @@ Subsecs. (d) to (g). Pub. L. 111–203, § 929J(2), (3), added subsecs. (d) to
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 7217. Commission oversight of the Board
+### § 7217. Commission oversight of the Board
 
 **(a) General oversight responsibility**
 
@@ -1105,7 +1105,7 @@ The Commission, by rule, consistent with the public interest, the protection of 
 
 **(C)** without reasonable justification or excuse, has failed to enforce compliance with any such provision or rule, or any professional standard by any registered public accounting firm or any associated person thereof.
 
-(Pub. L. 107–204, title I, § 107, July 30, 2002, 116 Stat. 765; Pub. L. 111–203, title IX, § 929F(i), July 21, 2010, 124 Stat. 1855.)
+(Pub. L. 107–204, title I, § 107, July 30, 2002, 116 Stat. 765; Pub. L. 111–203, title IX, § 929F(i), July 21, 2010, 124 Stat. 1855.)
 
 **Editorial Notes**
 
@@ -1127,7 +1127,7 @@ For information regarding the constitutionality of certain provisions of this se
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 7218. Accounting standards
+### § 7218. Accounting standards
 
 **(a) Omitted**
 
@@ -1161,7 +1161,7 @@ The Commission shall conduct a study on the adoption by the United States financ
 
 Not later than 1 year after July 30, 2002, the Commission shall submit a report on the results of the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 107–204, title I, § 108, July 30, 2002, 116 Stat. 768.)
+(Pub. L. 107–204, title I, § 108, July 30, 2002, 116 Stat. 768.)
 
 **Editorial Notes**
 
@@ -1173,7 +1173,7 @@ This Act, referred to in subsec. (c), is Pub. L. 107–204, July 30, 2002, 116 S
 
 Section is comprised of section 108 of Pub. L. 107–204. Subsec. (a) of section 108 of Pub. L. 107–204 amended section 77s of this title.
 
-### § 7219. Funding
+### § 7219. Funding
 
 **(a) In general**
 
@@ -1247,7 +1247,7 @@ Nothing in this section shall be construed to render either the Board, the stand
 
 From the unexpended balances of the appropriations to the Commission for fiscal year 2003, the Secretary of the Treasury is authorized to advance to the Board not to exceed the amount necessary to cover the expenses of the Board during its first fiscal year (which may be a short fiscal year).
 
-(Pub. L. 107–204, title I, § 109, July 30, 2002, 116 Stat. 769; Pub. L. 111–203, title IX, § 982(h), July 21, 2010, 124 Stat. 1930.)
+(Pub. L. 107–204, title I, § 109, July 30, 2002, 116 Stat. 769; Pub. L. 111–203, title IX, § 982(h), July 21, 2010, 124 Stat. 1930.)
 
 **Editorial Notes**
 
@@ -1257,13 +1257,13 @@ Section is comprised of section 109 of Pub. L. 107–204. Subsec. (i) of section
 
 **Amendments**
 
-2010—Subsec. (c)(2). Pub. L. 111–203, § 982(h)(1), substituted “subsection (j)” for “subsection (i)”.
+2010—Subsec. (c)(2). Pub. L. 111–203, § 982(h)(1), substituted “subsection (j)” for “subsection (i)”.
 
-Subsec. (d)(2). Pub. L. 111–203, § 982(h)(2)(A), substituted “and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate” for “allowing for differentiation among classes of issuers, as appropriate”.
+Subsec. (d)(2). Pub. L. 111–203, § 982(h)(2)(A), substituted “and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate” for “allowing for differentiation among classes of issuers, as appropriate”.
 
-Subsec. (d)(3). Pub. L. 111–203, § 982(h)(2)(B), added par. (3).
+Subsec. (d)(3). Pub. L. 111–203, § 982(h)(2)(B), added par. (3).
 
-Subsecs. (h) to (k). Pub. L. 111–203, § 982(h)(3), (4), added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
+Subsecs. (h) to (k). Pub. L. 111–203, § 982(h)(3), (4), added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1273,13 +1273,13 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Obligation of Funds for Accounting Scholarship Program**
 
-Pub. L. 116–93, div. C, title VI, § 620(b), Dec. 20, 2019, 133 Stat. 2481, provided that: “Beginning in fiscal year 2021 and for each fiscal year thereafter, the Board [Public Company Accounting Oversight Board] shall have authority to obligate funds for the scholarship program established by section 109(c)(2) of the Sarbanes-Oxley Act of 2002 (Public Law 107–204) [15 U.S.C. 7219(c)(2)] in such fiscal year in an aggregate amount not exceeding the amounts of funds collected by the Board between October 1 and September 30 of such fiscal year, including accrued interest, as a result of the assessment of monetary penalties. Funds made available for obligation in any fiscal year shall be in addition to amounts made available in prior fiscal years and shall remain available until expended.”
+Pub. L. 116–93, div. C, title VI, § 620(b), Dec. 20, 2019, 133 Stat. 2481, provided that: “Beginning in fiscal year 2021 and for each fiscal year thereafter, the Board [Public Company Accounting Oversight Board] shall have authority to obligate funds for the scholarship program established by section 109(c)(2) of the Sarbanes-Oxley Act of 2002 (Public Law 107–204) [15 U.S.C. 7219(c)(2)] in such fiscal year in an aggregate amount not exceeding the amounts of funds collected by the Board between October 1 and September 30 of such fiscal year, including accrued interest, as a result of the assessment of monetary penalties. Funds made available for obligation in any fiscal year shall be in addition to amounts made available in prior fiscal years and shall remain available until expended.”
 
 **Monetary Penalties To Fund Scholarships for Accounting Students**
 
-Pub. L. 116–6, div. D, title VI, § 620, Feb. 15, 2019, 133 Stat. 184, provided in part that: “Beginning in fiscal year 2020 and for each fiscal year thereafter, monetary penalties collected pursuant to 15 U.S.C. 7215 shall be deposited in the Public Company Accounting Oversight Board account as discretionary offsetting receipts.”
+Pub. L. 116–6, div. D, title VI, § 620, Feb. 15, 2019, 133 Stat. 184, provided in part that: “Beginning in fiscal year 2020 and for each fiscal year thereafter, monetary penalties collected pursuant to 15 U.S.C. 7215 shall be deposited in the Public Company Accounting Oversight Board account as discretionary offsetting receipts.”
 
-### § 7220. Definitions
+### § 7220. Definitions
 
 For the purposes of this subchapter, the following definitions shall apply:
 
@@ -1323,7 +1323,7 @@ The term “dealer” means a dealer (as such term is defined in section 78c(a)(
 
 The term “self-regulatory organization” has the same meaning as in section 78c(a) of this title.
 
-(Pub. L. 107–204, title I, § 110, as added Pub. L. 111–203, title IX, § 982(a)(1), July 21, 2010, 124 Stat. 1927.)
+(Pub. L. 107–204, title I, § 110, as added Pub. L. 111–203, title IX, § 982(a)(1), July 21, 2010, 124 Stat. 1927.)
 
 **Editorial Notes**
 
@@ -1341,13 +1341,13 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ## SUBCHAPTER II—AUDITOR INDEPENDENCE
 
-### § 7231. Exemption authority
+### § 7231. Exemption authority
 
 The Board may, on a case by case basis, exempt any person, issuer, public accounting firm, or transaction from the prohibition on the provision of services under section 78j–1(g) of this title, to the extent that such exemption is necessary or appropriate in the public interest and is consistent with the protection of investors, and subject to review by the Commission in the same manner as for rules of the Board under section 7217 of this title.
 
-(Pub. L. 107–204, title II, § 201(b), July 30, 2002, 116 Stat. 772.)
+(Pub. L. 107–204, title II, § 201(b), July 30, 2002, 116 Stat. 772.)
 
-### § 7232. Study of mandatory rotation of registered public accounting firms
+### § 7232. Study of mandatory rotation of registered public accounting firms
 
 **(a) Study and review required**
 
@@ -1361,9 +1361,9 @@ Not later than 1 year after July 30, 2002, the Comptroller General shall submit 
 
 For purposes of this section, the term “mandatory rotation” refers to the imposition of a limit on the period of years in which a particular registered public accounting firm may be the auditor of record for a particular issuer.
 
-(Pub. L. 107–204, title II, § 207, July 30, 2002, 116 Stat. 775.)
+(Pub. L. 107–204, title II, § 207, July 30, 2002, 116 Stat. 775.)
 
-### § 7233. Commission authority
+### § 7233. Commission authority
 
 **(a) Commission regulations**
 
@@ -1373,13 +1373,13 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final re
 
 It shall be unlawful for any registered public accounting firm (or an associated person thereof, as applicable) to prepare or issue any audit report with respect to any issuer, if the firm or associated person engages in any activity with respect to that issuer prohibited by any of subsections (g) through (*l*) of section 78j–1 of this title or any rule or regulation of the Commission or of the Board issued thereunder.
 
-(Pub. L. 107–204, title II, § 208, July 30, 2002, 116 Stat. 775.)
+(Pub. L. 107–204, title II, § 208, July 30, 2002, 116 Stat. 775.)
 
-### § 7234. Considerations by appropriate State regulatory authorities
+### § 7234. Considerations by appropriate State regulatory authorities
 
 In supervising nonregistered public accounting firms and their associated persons, appropriate State regulatory authorities should make an independent determination of the proper standards applicable, particularly taking into consideration the size and nature of the business of the accounting firms they supervise and the size and nature of the business of the clients of those firms. The standards applied by the Board under this Act should not be presumed to be applicable for purposes of this section for small and medium sized nonregistered public accounting firms.
 
-(Pub. L. 107–204, title II, § 209, July 30, 2002, 116 Stat. 775.)
+(Pub. L. 107–204, title II, § 209, July 30, 2002, 116 Stat. 775.)
 
 **Editorial Notes**
 
@@ -1389,7 +1389,7 @@ This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 74
 
 ## SUBCHAPTER III—CORPORATE RESPONSIBILITY
 
-### § 7241. Corporate responsibility for financial reports
+### § 7241. Corporate responsibility for financial reports
 
 **(a) Regulations required** The Commission shall, by rule, require, for each company filing periodic reports under section 78m(a) or 78*o*(d) of this title, that the principal executive officer or officers and the principal financial officer or officers, or persons performing similar functions, certify in each annual or quarterly report filed or submitted under either such section of this title that—
 
@@ -1425,9 +1425,9 @@ Nothing in this section shall be interpreted or applied in any way to allow any 
 
 The rules required by subsection (a) shall be effective not later than 30 days after July 30, 2002.
 
-(Pub. L. 107–204, title III, § 302, July 30, 2002, 116 Stat. 777.)
+(Pub. L. 107–204, title III, § 302, July 30, 2002, 116 Stat. 777.)
 
-### § 7242. Improper influence on conduct of audits
+### § 7242. Improper influence on conduct of audits
 
 **(a) Rules to prohibit**
 
@@ -1447,9 +1447,9 @@ The provisions of subsection (a) shall be in addition to, and shall not supersed
 
 **(2)** issue final rules or regulations required by this section, not later than 270 days after July 30, 2002.
 
-(Pub. L. 107–204, title III, § 303, July 30, 2002, 116 Stat. 778.)
+(Pub. L. 107–204, title III, § 303, July 30, 2002, 116 Stat. 778.)
 
-### § 7243. Forfeiture of certain bonuses and profits
+### § 7243. Forfeiture of certain bonuses and profits
 
 **(a) Additional compensation prior to noncompliance with Commission financial reporting requirements** If an issuer is required to prepare an accounting restatement due to the material noncompliance of the issuer, as a result of misconduct, with any financial reporting requirement under the securities laws, the chief executive officer and chief financial officer of the issuer shall reimburse the issuer for—
 
@@ -1461,9 +1461,9 @@ The provisions of subsection (a) shall be in addition to, and shall not supersed
 
 The Commission may exempt any person from the application of subsection (a), as it deems necessary and appropriate.
 
-(Pub. L. 107–204, title III, § 304, July 30, 2002, 116 Stat. 778.)
+(Pub. L. 107–204, title III, § 304, July 30, 2002, 116 Stat. 778.)
 
-### § 7244. Insider trades during pension fund blackout periods
+### § 7244. Insider trades during pension fund blackout periods
 
 **(a) Prohibition of insider trading during pension fund blackout periods**
 
@@ -1525,7 +1525,7 @@ The Secretary of Labor shall issue initial guidance and a model notice pursuant 
 
 The provisions of this section (including the amendments made thereby) shall take effect 180 days after July 30, 2002. Good faith compliance with the requirements of such provisions in advance of the issuance of applicable regulations thereunder shall be treated as compliance with such provisions.
 
-(Pub. L. 107–204, title III, § 306, July 30, 2002, 116 Stat. 779.)
+(Pub. L. 107–204, title III, § 306, July 30, 2002, 116 Stat. 779.)
 
 **Editorial Notes**
 
@@ -1537,7 +1537,7 @@ For amendments made by this subsection and this section, referred to in subsecs.
 
 Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amended section 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
 
-### § 7245. Rules of professional responsibility for attorneys
+### § 7245. Rules of professional responsibility for attorneys
 
 Not later than 180 days after July 30, 2002, the Commission shall issue rules, in the public interest and for the protection of investors, setting forth minimum standards of professional conduct for attorneys appearing and practicing before the Commission in any way in the representation of issuers, including a rule—
 
@@ -1545,9 +1545,9 @@ Not later than 180 days after July 30, 2002, the Commission shall issue rules, i
 
 **(2)** if the counsel or officer does not appropriately respond to the evidence (adopting, as necessary, appropriate remedial measures or sanctions with respect to the violation), requiring the attorney to report the evidence to the audit committee of the board of directors of the issuer or to another committee of the board of directors comprised solely of directors not employed directly or indirectly by the issuer, or to the board of directors.
 
-(Pub. L. 107–204, title III, § 307, July 30, 2002, 116 Stat. 784.)
+(Pub. L. 107–204, title III, § 307, July 30, 2002, 116 Stat. 784.)
 
-### § 7246. Fair funds for investors
+### § 7246. Fair funds for investors
 
 **(a) Civil penalties to be used for the relief of victims**
 
@@ -1567,13 +1567,13 @@ The Commission is authorized to accept, hold, administer, and utilize gifts, beq
 
 **(2) Report required**
 
-The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of 1
+The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of 1
 
-<sup>1</sup>  So in original. The word “of” probably should not appear.
+<sup>1</sup> So in original. The word “of” probably should not appear.
 
 July 30, 2002, and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
 
-(Pub. L. 107–204, title III, § 308, July 30, 2002, 116 Stat. 784; Pub. L. 111–203, title IX, § 929B, July 21, 2010, 124 Stat. 1852.)
+(Pub. L. 107–204, title III, § 308, July 30, 2002, 116 Stat. 784; Pub. L. 111–203, title IX, § 929B, July 21, 2010, 124 Stat. 1852.)
 
 **Editorial Notes**
 
@@ -1583,11 +1583,11 @@ Section is comprised of section 308 of Pub. L. 107–204. Subsec. (d) of section
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 929B(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “If in any judicial or administrative action brought by the Commission under the securities laws (as such term is defined in section 78c(a)(47) of this title) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation.”
+2010—Subsec. (a). Pub. L. 111–203, § 929B(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “If in any judicial or administrative action brought by the Commission under the securities laws (as such term is defined in section 78c(a)(47) of this title) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation.”
 
-Subsec. (b). Pub. L. 111–203, § 929B(2), substituted “for a disgorgement fund or other fund described in subsection (a)” for “for a disgorgement fund described in subsection (a)” and “in such fund” for “in the disgorgement fund”.
+Subsec. (b). Pub. L. 111–203, § 929B(2), substituted “for a disgorgement fund or other fund described in subsection (a)” for “for a disgorgement fund described in subsection (a)” and “in such fund” for “in the disgorgement fund”.
 
-Subsec. (e). Pub. L. 111–203, § 929B(3), struck out subsec. (e). Text read as follows: “As used in this section, the term ‘disgorgement fund’ means a fund established in any administrative or judicial proceeding described in subsection (a) of this section.”
+Subsec. (e). Pub. L. 111–203, § 929B(3), struck out subsec. (e). Text read as follows: “As used in this section, the term ‘disgorgement fund’ means a fund established in any administrative or judicial proceeding described in subsection (a) of this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1597,7 +1597,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 ## SUBCHAPTER IV—ENHANCED FINANCIAL DISCLOSURES
 
-### § 7261. Disclosures in periodic reports
+### § 7261. Disclosures in periodic reports
 
 **(a) Omitted**
 
@@ -1627,7 +1627,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **(E)** any recommendations of the Commission for improving the transparency and quality of reporting off-balance sheet transactions in the financial statements and disclosures required to be filed by an issuer with the Commission.
 
-(Pub. L. 107–204, title IV, § 401, July 30, 2002, 116 Stat. 785.)
+(Pub. L. 107–204, title IV, § 401, July 30, 2002, 116 Stat. 785.)
 
 **Editorial Notes**
 
@@ -1635,7 +1635,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Section is comprised of section 401 of Pub. L. 107–204. Subsec. (a) of section 401 of Pub. L. 107–204 amended section 78m of this title.
 
-### § 7262. Management assessment of internal controls
+### § 7262. Management assessment of internal controls
 
 **(a) Rules required** The Commission shall prescribe rules requiring each annual report required by section 78m(a) or 78*o*(d) of this title to contain an internal control report, which shall—
 
@@ -1651,13 +1651,13 @@ With respect to the internal control assessment required by subsection (a), each
 
 Subsection (b) shall not apply with respect to any audit report prepared for an issuer that is neither a “large accelerated filer” nor an “accelerated filer” as those terms are defined in Rule 12b–2 of the Commission (17 C.F.R. 240.12b–2).
 
-(Pub. L. 107–204, title IV, § 404, July 30, 2002, 116 Stat. 789; Pub. L. 111–203, title IX, § 989G(a), July 21, 2010, 124 Stat. 1948; Pub. L. 112–106, title I, § 103, Apr. 5, 2012, 126 Stat. 310.)
+(Pub. L. 107–204, title IV, § 404, July 30, 2002, 116 Stat. 789; Pub. L. 111–203, title IX, § 989G(a), July 21, 2010, 124 Stat. 1948; Pub. L. 112–106, title I, § 103, Apr. 5, 2012, 126 Stat. 310.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Subsec. (b). Pub. L. 112–106 inserted “, other than an issuer that is an emerging growth company (as defined in section 78c of this title),” before “shall attest to”.
+2012—Subsec. (b). Pub. L. 112–106 inserted “, other than an issuer that is an emerging growth company (as defined in section 78c of this title),” before “shall attest to”.
 
 2010—Subsec. (c). Pub. L. 111–203 added subsec. (c).
 
@@ -1667,11 +1667,11 @@ Subsection (b) shall not apply with respect to any audit report prepared for an 
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 7263. Exemption
+### § 7263. Exemption
 
 Nothing in section 401, 402, or 404, the amendments made by those sections, or the rules of the Commission under those sections shall apply to any investment company registered under section 80a–8 of this title.
 
-(Pub. L. 107–204, title IV, § 405, July 30, 2002, 116 Stat. 789.)
+(Pub. L. 107–204, title IV, § 405, July 30, 2002, 116 Stat. 789.)
 
 **Editorial Notes**
 
@@ -1679,7 +1679,7 @@ Nothing in section 401, 402, or 404, the amendments made by those sections, or t
 
 Sections 401, 402, and 404, referred to in text, mean sections 401, 402, and 404 of Pub. L. 107–204. Section 401 enacted section 7261 of this title and amended section 78m of this title. Section 402 amended section 78m of this title. Section 404 enacted section 7262 of this title.
 
-### § 7264. Code of ethics for senior financial officers
+### § 7264. Code of ethics for senior financial officers
 
 **(a) Code of ethics disclosure**
 
@@ -1703,9 +1703,9 @@ The Commission shall revise its regulations concerning matters requiring prompt 
 
 **(2)** issue final rules to implement this section, not later than 180 days after July 30, 2002.
 
-(Pub. L. 107–204, title IV, § 406, July 30, 2002, 116 Stat. 789.)
+(Pub. L. 107–204, title IV, § 406, July 30, 2002, 116 Stat. 789.)
 
-### § 7265. Disclosure of audit committee financial expert
+### § 7265. Disclosure of audit committee financial expert
 
 **(a) Rules defining “financial expert”**
 
@@ -1731,9 +1731,9 @@ The Commission shall issue rules, as necessary or appropriate in the public inte
 
 **(2)** issue final rules to implement this section, not later than 180 days after July 30, 2002.
 
-(Pub. L. 107–204, title IV, § 407, July 30, 2002, 116 Stat. 790.)
+(Pub. L. 107–204, title IV, § 407, July 30, 2002, 116 Stat. 790.)
 
-### § 7266. Enhanced review of periodic disclosures by issuers
+### § 7266. Enhanced review of periodic disclosures by issuers
 
 **(a) Regular and systematic review**
 
@@ -1757,4 +1757,4 @@ The Commission shall review disclosures made by issuers reporting under section 
 
 In no event shall an issuer required to file reports under section 78m(a) or 78*o*(d) of this title be reviewed under this section less frequently than once every 3 years.
 
-(Pub. L. 107–204, title IV, § 408, July 30, 2002, 116 Stat. 790.)
+(Pub. L. 107–204, title IV, § 408, July 30, 2002, 116 Stat. 790.)

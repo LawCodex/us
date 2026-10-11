@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 45—COMMISSION ON SECURITY AND COOPERATION IN EUROPE
 
-## § 3001. Commission on Security and Cooperation in Europe; establishment
+## § 3001. Commission on Security and Cooperation in Europe; establishment
 
 There is established the Commission on Security and Cooperation in Europe (hereafter in this chapter referred to as the “Commission”).
 
-(Pub. L. 94–304, § 1, June 3, 1976, 90 Stat. 661.)
+(Pub. L. 94–304, § 1, June 3, 1976, 90 Stat. 661.)
 
-## § 3002. Function and duties of Commission
+## § 3002. Function and duties of Commission
 
 The Commission is authorized and directed to monitor the acts of the signatories which reflect compliance with or violation of the articles of the Final Act of the Conference on Security and Cooperation in Europe, with particular regard to the provisions relating to human rights and Cooperation in Humanitarian Fields. The Commission is further authorized and directed to monitor and encourage the development of programs and activities of the United States Government and private organizations with a view toward taking advantage of the provisions of the Final Act to expand East-West economic cooperation and a greater interchange of people and ideas between East and West.
 
-(Pub. L. 94–304, § 2, June 3, 1976, 90 Stat. 661; Pub. L. 99–7, § 2, Mar. 27, 1985, 99 Stat. 19.)
+(Pub. L. 94–304, § 2, June 3, 1976, 90 Stat. 661; Pub. L. 99–7, § 2, Mar. 27, 1985, 99 Stat. 19.)
 
 **Editorial Notes**
 
@@ -41,7 +41,7 @@ The Final Act of the Conference on Security and Cooperation in Europe, referred 
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–7, § 6, Mar. 27, 1985, 99 Stat. 20, provided that:
+Pub. L. 99–7, § 6, Mar. 27, 1985, 99 Stat. 20, provided that:
 
 > **“(a)** Except as provided in subsection (b), this Act and the amendments made by this Act [amending this section and sections 3003, 3007, and 3008 of this title and enacting provisions set out as a note under section 3003 of this title] shall take effect on the date of enactment of this Act [Mar. 27, 1985] or April 15, 1985, whichever is later.
 
@@ -57,7 +57,7 @@ Pub. L. 99–7, § 6, Mar. 27, 1985, 99 Stat. 20, provided that:
 
 The Conference on Security and Cooperation in Europe to be called the Organization for Security and Cooperation in Europe effective Jan. 1, 1995, pursuant to Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591.
 
-## § 3003. Commission membership
+## § 3003. Commission membership
 
 **(a) Selection and appointment of members** The Commission shall be composed of twenty-one members as follows:
 
@@ -83,13 +83,13 @@ At the beginning of each odd-numbered Congress, the President of the Senate, on 
 
 At the beginning of each odd-numbered Congress, the Speaker of the House of Representatives shall designate one of the House Members as Cochairman of the Commission. At the beginning of each even-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members as Cochairman of the Commission.
 
-(Pub. L. 94–304, § 3, June 3, 1976, 90 Stat. 661; Pub. L. 99–7, § 1(a), (b), Mar. 27, 1985, 99 Stat. 18.)
+(Pub. L. 94–304, § 3, June 3, 1976, 90 Stat. 661; Pub. L. 99–7, § 1(a), (b), Mar. 27, 1985, 99 Stat. 18.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1985—Subsecs. (a), (b). Pub. L. 99–7, § 1(a), in amending section generally, designated existing provisions as subsec. (a) and added subsec. (b). Prior to amendment, section read as follows: “The Commission shall be composed of fifteen members as follows:
+1985—Subsecs. (a), (b). Pub. L. 99–7, § 1(a), in amending section generally, designated existing provisions as subsec. (a) and added subsec. (b). Prior to amendment, section read as follows: “The Commission shall be composed of fifteen members as follows:
 
 “(1) Six Members of the House of Representatives appointed by the Speaker of the House of Representatives. Four members shall be selected from the majority party and two shall be selected, after consultation with the minority leader of the House, from the minority party. The Speaker shall designate one of the House Members as chairman.
 
@@ -101,7 +101,7 @@ At the beginning of each odd-numbered Congress, the Speaker of the House of Repr
 
 “(5) One member of the Commerce Department appointed by the President of the United States.”
 
-Subsecs. (c), (d). Pub. L. 99–7, § 1(b), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 99–7, § 1(b), added subsecs. (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,17 +113,17 @@ Amendment by section 1(b) of Pub. L. 99–7 effective on first day of 100th Cong
 
 **Designation of Chairman and Cochairman for Duration of 99th Congress**
 
-Pub. L. 99–7, § 1(c), Mar. 27, 1985, 99 Stat. 19, provided that: “On the effective date of this subsection [Apr. 15, 1985], the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members to serve as Chairman of the Commission for the duration of the Ninety-ninth Congress, and the Speaker of the House of Representatives shall designate one of the House Members to serve as Cochairman of the Commission for the duration of the Ninety-ninth Congress.”
+Pub. L. 99–7, § 1(c), Mar. 27, 1985, 99 Stat. 19, provided that: “On the effective date of this subsection [Apr. 15, 1985], the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members to serve as Chairman of the Commission for the duration of the Ninety-ninth Congress, and the Speaker of the House of Representatives shall designate one of the House Members to serve as Cochairman of the Commission for the duration of the Ninety-ninth Congress.”
 
-## § 3004. Testimony of witnesses, production of evidence; issuance of subpena; administration of oaths
+## § 3004. Testimony of witnesses, production of evidence; issuance of subpena; administration of oaths
 
 In carrying out this chapter, the Commission may require, by subpena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary. Subpenas may be issued over the signature of the Chairman of the Commission or any member designated by him, and may be served by any person designated by the Chairman or such member. The Chairman of the Commission, or any member designated by him, may administer oaths to any witness.
 
-(Pub. L. 94–304, § 4, June 3, 1976, 90 Stat. 661.)
+(Pub. L. 94–304, § 4, June 3, 1976, 90 Stat. 661.)
 
-## § 3005. Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)(5), Dec. 27, 2021, 135 Stat. 2352
+## § 3005. Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)(5), Dec. 27, 2021, 135 Stat. 2352
 
-Section, Pub. L. 94–304, § 5, June 3, 1976, 90 Stat. 661; Pub. L. 102–138, title I, § 171, Oct. 28, 1991, 105 Stat. 679; Pub. L. 107–228, div. A, title II, § 226, Sept. 30, 2002, 116 Stat. 1369, required Secretary of State to submit annual report relating to Commission on Security and Cooperation in Europe.
+Section, Pub. L. 94–304, § 5, June 3, 1976, 90 Stat. 661; Pub. L. 102–138, title I, § 171, Oct. 28, 1991, 105 Stat. 679; Pub. L. 107–228, div. A, title II, § 226, Sept. 30, 2002, 116 Stat. 1369, required Secretary of State to submit annual report relating to Commission on Security and Cooperation in Europe.
 
 **Executive Documents**
 
@@ -139,11 +139,11 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George Bush.
 
-## § 3006. Commission report to Congress; periodic reports; expenditure of appropriations
+## § 3006. Commission report to Congress; periodic reports; expenditure of appropriations
 
 The Commission is authorized and directed to report to the House of Representatives and the Senate with respect to the matters covered by this chapter on a periodic basis and to provide information to Members of the House and Senate as requested. For each fiscal year for which an appropriation is made the Commission shall submit to Congress a report on its expenditures under such appropriation.
 
-(Pub. L. 94–304, § 6, June 3, 1976, 90 Stat. 662.)
+(Pub. L. 94–304, § 6, June 3, 1976, 90 Stat. 662.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -151,7 +151,7 @@ The Commission is authorized and directed to report to the House of Representati
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 157), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-## § 3007. Appropriations for Commission
+## § 3007. Appropriations for Commission
 
 **(a) Authorization; disbursements**
 
@@ -175,15 +175,15 @@ Not to exceed $6,000 of the funds appropriated to the Commission for each fiscal
 
 Foreign travel for official purposes by Commission members and staff may be authorized by either the Chairman or the Cochairman.
 
-(Pub. L. 94–304, § 7, June 3, 1976, 90 Stat. 662; Pub. L. 94–534, Oct. 17, 1976, 90 Stat. 2495; Pub. L. 95–426, title VII, § 702, Oct. 7, 1978, 92 Stat. 992; Pub. L. 96–60, title IV, § 401, Aug. 15, 1979, 93 Stat. 403; Pub. L. 99–7, §§ 3, 4, Mar. 27, 1985, 99 Stat. 19.)
+(Pub. L. 94–304, § 7, June 3, 1976, 90 Stat. 662; Pub. L. 94–534, Oct. 17, 1976, 90 Stat. 2495; Pub. L. 95–426, title VII, § 702, Oct. 7, 1978, 92 Stat. 992; Pub. L. 96–60, title IV, § 401, Aug. 15, 1979, 93 Stat. 403; Pub. L. 99–7, §§ 3, 4, Mar. 27, 1985, 99 Stat. 19.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1985—Subsec. (a). Pub. L. 99–7, § 3, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Commission for each fiscal year and to remain available until expended $550,000 to assist in meeting the expenses of the Commission for the purpose of carrying out the provisions of this chapter, such appropriation to be disbursed on voucher to be approved by the Chairman of the Commission.”
+1985—Subsec. (a). Pub. L. 99–7, § 3, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Commission for each fiscal year and to remain available until expended $550,000 to assist in meeting the expenses of the Commission for the purpose of carrying out the provisions of this chapter, such appropriation to be disbursed on voucher to be approved by the Chairman of the Commission.”
 
-Subsec. (d). Pub. L. 99–7, § 4, added subsec. (d).
+Subsec. (d). Pub. L. 99–7, § 4, added subsec. (d).
 
 1979—Subsec. (c). Pub. L. 96–60 added subsec. (c).
 
@@ -197,7 +197,7 @@ Subsec. (d). Pub. L. 99–7, § 4, added subsec. (d).
 
 Amendment by Pub. L. 99–7 effective Apr. 15, 1985, see section 6(a) of Pub. L. 99–7, set out as a note under section 3002 of this title.
 
-## § 3008. Commission staff
+## § 3008. Commission staff
 
 **(a) Personnel and administration committee**
 
@@ -219,21 +219,21 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 **(1)** For purposes of pay and other employment benefits, rights, and privileges and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5.
 
-**(2)** For purposes of section 3304(i)(1) 1
+**(2)** For purposes of section 3304(i)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
 
 **(3)** The provisions of paragraphs (1) and (2) of this subsection shall be effective as of June 3, 1976.
 
-(Pub. L. 94–304, § 8, June 3, 1976, 90 Stat. 662; Pub. L. 99–7, § 5, Mar. 27, 1985, 99 Stat. 19; Pub. L. 104–186, title II, § 218(3), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 118–188, § 2(a)(2)(B), Dec. 23, 2024, 138 Stat. 2645.)
+(Pub. L. 94–304, § 8, June 3, 1976, 90 Stat. 662; Pub. L. 99–7, § 5, Mar. 27, 1985, 99 Stat. 19; Pub. L. 104–186, title II, § 218(3), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 118–188, § 2(a)(2)(B), Dec. 23, 2024, 138 Stat. 2645.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3304(i)(1) of title 5, referred to in subsec. (d)(2), probably means section 3304(c)(1) of title 5 prior to the amendments made by Pub. L. 104–65, § 16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out section 3304(c) of title 5 and redesignated section 3304(d) of title 5 as section 3304(c), and by Pub. L. 118–188, § 2(a)(1)(A), Dec. 23, 2024, 138 Stat. 2644, which redesignated section 3304(c) of title 5 as section 3304(i). Prior to these amendments, section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives. After amendment, section 3304(i)(1) of title 5 defines “technician”.
+Section 3304(i)(1) of title 5, referred to in subsec. (d)(2), probably means section 3304(c)(1) of title 5 prior to the amendments made by Pub. L. 104–65, § 16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out section 3304(c) of title 5 and redesignated section 3304(d) of title 5 as section 3304(c), and by Pub. L. 118–188, § 2(a)(1)(A), Dec. 23, 2024, 138 Stat. 2644, which redesignated section 3304(c) of title 5 as section 3304(i). Prior to these amendments, section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives. After amendment, section 3304(i)(1) of title 5 defines “technician”.
 
 **Amendments**
 
@@ -253,11 +253,11 @@ Subsec. (d). Pub. L. 99–7, in amending section generally, added subsec. (d).
 
 Amendment by Pub. L. 99–7 effective Apr. 15, 1985, except for enactment of subsec. (d) which was effective June 3, 1976, see section 6(a), (b)(2) of Pub. L. 99–7, set out as a note under section 3002 of this title.
 
-## § 3009. Printing and binding costs
+## § 3009. Printing and binding costs
 
 For purposes of costs relating to printing and binding, including the costs of personnel detailed from the Government Publishing Office, the Commission shall be deemed to be a committee of the Congress.
 
-(Pub. L. 94–304, § 9, as added Pub. L. 99–190, § 134, Dec. 19, 1985, 99 Stat. 1322; amended Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 94–304, § 9, as added Pub. L. 99–190, § 134, Dec. 19, 1985, 99 Stat. 1322; amended Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Statutory Notes and Related Subsidiaries**
 

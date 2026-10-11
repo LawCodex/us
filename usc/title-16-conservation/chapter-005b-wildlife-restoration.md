@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 5B—WILDLIFE RESTORATION
 
-## § 669. Cooperation of Secretary of the Interior with States; conditions
+## § 669. Cooperation of Secretary of the Interior with States; conditions
 
 The Secretary of the Interior is authorized to cooperate with the States, through their respective State fish and game departments, in wildlife-restoration projects as hereinafter in this chapter set forth; but no money apportioned under this chapter to any State shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of wildlife, shall have assented to the provision of this chapter and shall have passed laws for the conservation of wildlife which shall include a prohibition against the diversion of license fees paid by hunters for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after September 2, 1937, the assent of the Governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter, shall agree upon the wildlife-restoration projects to be aided in such State under the terms of this chapter and all projects shall conform to the standards fixed by the Secretary of the Interior. One of the purposes of this chapter is to provide financial and technical assistance to the States for the promotion of hunting and recreational shooting.
 
-(Sept. 2, 1937, ch. 899, § 1, 50 Stat. 917; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 116–94, div. P, title V, § 501(b), Dec. 20, 2019, 133 Stat. 3191.)
+(Sept. 2, 1937, ch. 899, § 1, 50 Stat. 917; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 116–94, div. P, title V, § 501(b), Dec. 20, 2019, 133 Stat. 3191.)
 
 **Editorial Notes**
 
@@ -31,33 +31,33 @@ The Secretary of the Interior is authorized to cooperate with the States, throug
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–40, § 1, Nov. 25, 2025, 139 Stat. 662, provided that: “This Act [amending section 669b of this title] may be cited as the ‘Wetlands Conservation and Access Improvement Act of 2025’.”
+Pub. L. 119–40, § 1, Nov. 25, 2025, 139 Stat. 662, provided that: “This Act [amending section 669b of this title] may be cited as the ‘Wetlands Conservation and Access Improvement Act of 2025’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–94, div. P, title V, § 501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: “This title [amending this section and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under section 669h–2 of this title] may be cited as the ‘Modernizing the Pittman-Robertson Fund for Tomorrow’s Needs Act’.”
+Pub. L. 116–94, div. P, title V, § 501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: “This title [amending this section and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under section 669h–2 of this title] may be cited as the ‘Modernizing the Pittman-Robertson Fund for Tomorrow’s Needs Act’.”
 
-Pub. L. 116–17, § 1, May 10, 2019, 133 Stat. 866, provided that: “This Act [amending sections 669a, 669g, and 669h–1 of this title and enacting provisions set out as a note under section 669a of this title] may be cited as the ‘Target Practice and Marksmanship Training Support Act’.”
+Pub. L. 116–17, § 1, May 10, 2019, 133 Stat. 866, provided that: “This Act [amending sections 669a, 669g, and 669h–1 of this title and enacting provisions set out as a note under section 669a of this title] may be cited as the ‘Target Practice and Marksmanship Training Support Act’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–408, § 1(a), Nov. 1, 2000, 114 Stat. 1762, provided that: “This Act [see Tables for classification] may be cited as the ‘Fish and Wildlife Programs Improvement and National Wildlife Refuge System Centennial Act of 2000’.”
+Pub. L. 106–408, § 1(a), Nov. 1, 2000, 114 Stat. 1762, provided that: “This Act [see Tables for classification] may be cited as the ‘Fish and Wildlife Programs Improvement and National Wildlife Refuge System Centennial Act of 2000’.”
 
-Pub. L. 106–408, title I, § 101(a), Nov. 1, 2000, 114 Stat. 1763, provided that: “This title [enacting sections 669h–1, 669h–2, 669k, 742b–1, and 777m of this title, amending sections 669c, 669d, 669g, 669h, 669i, 777c, 777d and 777h of this title and section 9504 of Title 26, Internal Revenue Code, enacting provisions set out as notes under this section and section 777 of this title, and repealing provisions set out as a note under section 777 of this title] may be cited as the ‘Wildlife and Sport Fish Restoration Programs Improvement Act of 2000’.”
+Pub. L. 106–408, title I, § 101(a), Nov. 1, 2000, 114 Stat. 1763, provided that: “This title [enacting sections 669h–1, 669h–2, 669k, 742b–1, and 777m of this title, amending sections 669c, 669d, 669g, 669h, 669i, 777c, 777d and 777h of this title and section 9504 of Title 26, Internal Revenue Code, enacting provisions set out as notes under this section and section 777 of this title, and repealing provisions set out as a note under section 777 of this title] may be cited as the ‘Wildlife and Sport Fish Restoration Programs Improvement Act of 2000’.”
 
 **Short Title of 1970 Amendment**
 
-Pub. L. 91–503, title I, § 103, Oct. 23, 1970, 84 Stat. 1101, provided that: “This title [amending section 669b and sections 669c to 669g–1 of this title] may be cited as the ‘Federal Aid in Wildlife Restoration Act Amendments of 1970’.”
+Pub. L. 91–503, title I, § 103, Oct. 23, 1970, 84 Stat. 1101, provided that: “This title [amending section 669b and sections 669c to 669g–1 of this title] may be cited as the ‘Federal Aid in Wildlife Restoration Act Amendments of 1970’.”
 
 **Short Title**
 
-Act Sept. 2, 1937, ch. 899, § 14, formerly § 13, as added by Pub. L. 106–408, title I, § 101(b), Nov. 1, 2000, 114 Stat. 1763, and amended and renumbered by Pub. L. 116–188, title III, § 303(1), Oct. 30, 2020, 134 Stat. 941, provided that: “This Act [enacting this chapter] may be cited as the ‘Pittman-Robertson Wildlife Restoration Act’.”
+Act Sept. 2, 1937, ch. 899, § 14, formerly § 13, as added by Pub. L. 106–408, title I, § 101(b), Nov. 1, 2000, 114 Stat. 1763, and amended and renumbered by Pub. L. 116–188, title III, § 303(1), Oct. 30, 2020, 134 Stat. 941, provided that: “This Act [enacting this chapter] may be cited as the ‘Pittman-Robertson Wildlife Restoration Act’.”
 
 Act Sept. 2, 1937, ch. 899, as amended, is also popularly known as the “Federal Aid in Wildlife Restoration Act”.
 
 **Statement of Purpose and Definition in Pub. L. 106–553**
 
-Pub. L. 106–553, § 1(a)(2) [title IX, § 902(a), (b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–119, provided that:
+Pub. L. 106–553, § 1(a)(2) [title IX, § 902(a), (b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–119, provided that:
 
 > **“(a) Purposes.—** The purposes of this section [amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] are—
 
@@ -73,15 +73,15 @@ Pub. L. 106–553, § 1(a)(2) [title IX, § 902(a), (b)], Dec. 21, 2000, 114
 
 **Inapplicability of Chapter 10 of Title 5, United States Code**
 
-Pub. L. 106–553, § 1(a)(2) [title IX, § 902(f)], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, as amended by Pub. L. 117–286, § 4(a)(100), Dec. 27, 2022, 136 Stat. 4316, provided that: “Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act [16 U.S.C. 669 et seq.] or the Federal Aid in Sport Fish Restoration Act [16 U.S.C. 777 et seq.] shall not be subject to chapter 10 of title 5, United States Code. Except for the preceding sentence, the provisions of this title [enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects.”
+Pub. L. 106–553, § 1(a)(2) [title IX, § 902(f)], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, as amended by Pub. L. 117–286, § 4(a)(100), Dec. 27, 2022, 136 Stat. 4316, provided that: “Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act [16 U.S.C. 669 et seq.] or the Federal Aid in Sport Fish Restoration Act [16 U.S.C. 777 et seq.] shall not be subject to chapter 10 of title 5, United States Code. Except for the preceding sentence, the provisions of this title [enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects.”
 
 **Prohibition Against Diversion**
 
-Pub. L. 106–553, § 1(a)(2) [title IX, § 902(h)], Dec. 21, 2000, 114 Stat. 2762, 2762A–124, provided that: “No designated State agency shall be eligible to receive matching funds under this title [enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] if sources of revenue available to it after January 1, 2000, for conservation of wildlife are diverted for any purpose other than the administration of the designated State agency, it being the intention of Congress that funds available to States under this title be added to revenues from existing State sources and not serve as a substitute for revenues from such sources. Such revenues shall include interest, dividends, or other income earned on the foregoing.”
+Pub. L. 106–553, § 1(a)(2) [title IX, § 902(h)], Dec. 21, 2000, 114 Stat. 2762, 2762A–124, provided that: “No designated State agency shall be eligible to receive matching funds under this title [enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] if sources of revenue available to it after January 1, 2000, for conservation of wildlife are diverted for any purpose other than the administration of the designated State agency, it being the intention of Congress that funds available to States under this title be added to revenues from existing State sources and not serve as a substitute for revenues from such sources. Such revenues shall include interest, dividends, or other income earned on the foregoing.”
 
 **Designation of Programs**
 
-Pub. L. 106–408, title I, § 131, Nov. 1, 2000, 114 Stat. 1775, provided that: “The programs established under the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669 et seq.) and the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777 et seq.) shall be known as the ‘Federal Assistance Program for State Wildlife and Sport Fish Restoration’.”
+Pub. L. 106–408, title I, § 131, Nov. 1, 2000, 114 Stat. 1775, provided that: “The programs established under the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669 et seq.) and the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777 et seq.) shall be known as the ‘Federal Assistance Program for State Wildlife and Sport Fish Restoration’.”
 
 **Executive Documents**
 
@@ -89,7 +89,7 @@ Pub. L. 106–408, title I, § 131, Nov. 1, 2000, 114 Stat. 1775, provided tha
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-## § 669a. Definitions
+## § 669a. Definitions
 
 As used in this chapter—
 
@@ -131,15 +131,15 @@ As used in this chapter—
 
 **(6)** the term “State fish and game department” or “State fish and wildlife department” means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(7)** the term “wildlife” means any species of wild, free-ranging fauna including fish, and also fauna in captive breeding programs the object of which is to reintroduce individuals of a depleted indigenous species into previously occupied range;
 
 **(8)** the term “wildlife-associated recreation” means projects intended to meet the demand for outdoor activities associated with wildlife including, but not limited to, hunting and fishing, wildlife observation and photography, such projects as construction or restoration of wildlife viewing areas, observation towers, blinds, platforms, land and water trails, water access, field trialing, trail heads, and access for such projects;
 
-**(9)** the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 2
+**(9)** the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,2 and maintenance of such projects;
 
@@ -147,13 +147,13 @@ of this title, the projects that constitute such a program, which may be impleme
 
 **(11)** the term “wildlife-restoration project” includes the wildlife conservation and restoration program and means the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects.
 
-(Sept. 2, 1937, ch. 899, § 2, 50 Stat. 917; July 2, 1956, ch. 489, § 1, 70 Stat. 473; Pub. L. 86–624, § 10, July 12, 1960, 74 Stat. 412; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(c)], Dec. 21, 2000, 114 Stat. 2762, 2762A–119; Pub. L. 116–17, § 4(a), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, § 501(c), Dec. 20, 2019, 133 Stat. 3191.)
+(Sept. 2, 1937, ch. 899, § 2, 50 Stat. 917; July 2, 1956, ch. 489, § 1, 70 Stat. 473; Pub. L. 86–624, § 10, July 12, 1960, 74 Stat. 412; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(c)], Dec. 21, 2000, 114 Stat. 2762, 2762A–119; Pub. L. 116–17, § 4(a), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, § 501(c), Dec. 20, 2019, 133 Stat. 3191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 669c(d) of this title, referred to in par. (9), was in the original “section 304(d)”, and was translated as reading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs. Section 669c(d) of this title was redesignated section 669c(e) of this title by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192.
+Section 669c(d) of this title, referred to in par. (9), was in the original “section 304(d)”, and was translated as reading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs. Section 669c(d) of this title was redesignated section 669c(e) of this title by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192.
 
 This chapter, referred to in par. (9), was in the original “this title”, and was translated as reading “this Act”, meaning Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, which enacted this chapter, does not contain titles.
 
@@ -173,11 +173,11 @@ Pub. L. 116–17 added par. (2) and redesignated former pars. (2) to (8) as (3) 
 
 **Effective Date of 1956 Amendment**
 
-Act July 2, 1956, ch. 489, § 5, 70 Stat. 473, provided in part that: “The amendments made by this Act [amending this section and sections 669g–1, 777a, and 777k of this title] shall be applicable only with respect to fiscal years beginning after the passage of this Act [July 2, 1956].”
+Act July 2, 1956, ch. 489, § 5, 70 Stat. 473, provided in part that: “The amendments made by this Act [amending this section and sections 669g–1, 777a, and 777k of this title] shall be applicable only with respect to fiscal years beginning after the passage of this Act [July 2, 1956].”
 
 **Findings, Purpose, and Definition Regarding Public Target Ranges**
 
-Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that:
+Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that:
 
 > **“SEC. 2. FINDINGS; PURPOSE.**
 
@@ -213,7 +213,7 @@ Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that:
 
 > **“(4)** may accommodate archery or rifle, pistol, or shotgun shooting.”
 
-## § 669b. Authorization of appropriations
+## § 669b. Authorization of appropriations
 
 **(a) In general**
 
@@ -221,7 +221,7 @@ Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that:
 
 **(2)** There is established in the Federal aid to wildlife restoration fund a subaccount to be known as the “Wildlife Conservation and Restoration Account”. There are authorized to be appropriated for the purposes of the Wildlife Conservation and Restoration Account $50,000,000 in fiscal year 2001 for apportionment in accordance with this chapter to carry out State wildlife conservation and restoration programs. Further, interest on amounts transferred shall be treated in a manner consistent with 16 U.S.C. 669(b)(1)).1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (1) of subsection (b)”.
+<sup>1</sup> So in original. Probably should be “paragraph (1) of subsection (b)”.
 
 **(b) Investment of unexpended amounts**
 
@@ -251,13 +251,13 @@ Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that:
 
 Notwithstanding subsections (a) and (b) of this section, with respect to amounts transferred to the Wildlife Conservation and Restoration Account, so much of such amounts apportioned to any State for any fiscal year as remains unexpended at the close thereof shall remain available for obligation in that State until the close of the second succeeding fiscal year.
 
-(Sept. 2, 1937, ch. 899, § 3, 50 Stat. 917; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, § 101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, § 101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, § 7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, § 1, Sept. 29, 2005, 119 Stat. 2034; Pub. L. 114–113, div. G, title I, § 120, Dec. 18, 2015, 129 Stat. 2552; Pub. L. 119–40, § 2, Nov. 25, 2025, 139 Stat. 662.)
+(Sept. 2, 1937, ch. 899, § 3, 50 Stat. 917; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, § 101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, § 101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, § 7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, § 1, Sept. 29, 2005, 119 Stat. 2034; Pub. L. 114–113, div. G, title I, § 120, Dec. 18, 2015, 129 Stat. 2552; Pub. L. 119–40, § 2, Nov. 25, 2025, 139 Stat. 662.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 **Amendments**
 
@@ -267,9 +267,9 @@ The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18,
 
 2005—Subsec. (b)(2)(C). Pub. L. 109–75 substituted “2016” for “2006”.
 
-2000—Subsec. (a). Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)(1)], designated existing provisions as par. (1) and added par. (2).
+2000—Subsec. (a). Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)(1)], designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (c), (d). Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)(2)], added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)(2)], added subsecs. (c) and (d).
 
 1989—Pub. L. 101–233 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -283,11 +283,11 @@ Subsecs. (c), (d). Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)(2)], a
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–233, § 7(a)(3), Dec. 13, 1989, 103 Stat. 1975, provided that: “The amendments made by this subsection of this Act [amending this section and section 669c of this title] take effect October 1, 1989.”
+Pub. L. 101–233, § 7(a)(3), Dec. 13, 1989, 103 Stat. 1975, provided that: “The amendments made by this subsection of this Act [amending this section and section 669c of this title] take effect October 1, 1989.”
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–558, title I, § 101(c), Oct. 25, 1972, 86 Stat. 1172, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 669c of this title] of this section shall take effect January 1, 1975.”
+Pub. L. 92–558, title I, § 101(c), Oct. 25, 1972, 86 Stat. 1172, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 669c of this title] of this section shall take effect January 1, 1975.”
 
 **Executive Documents**
 
@@ -295,11 +295,11 @@ Pub. L. 92–558, title I, § 101(c), Oct. 25, 1972, 86 Stat. 1172, as amended
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-## § 669b–1. Authorization of appropriation of accumulated unappropriated receipts
+## § 669b–1. Authorization of appropriation of accumulated unappropriated receipts
 
 There is hereby authorized to be appropriated, out of the Federal aid to wildlife restoration fund established by the Act entitled “An Act to provide that the United States shall aid the States in wildlife-restoration projects, and for other purposes”, approved September 2, 1937, as amended (16 U.S.C., secs. 669–669i), for the 1956 fiscal year and for each fiscal year thereafter, an amount equal to 20 per centum of the accumulated unappropriated receipts in such fund on August 12, 1955, until the accumulated unappropriated receipts in such fund on such date have been appropriated and expended. Funds appropriated under the authority of this section shall be made available to the States in accordance with the provisions of, and under the apportionment formula set forth in, such Act of September 2, 1937, and shall be in addition to the funds appropriated under section 3 of such Act [16 U.S.C. 669b].
 
-(Aug. 12, 1955, ch. 861, § 1, 69 Stat. 698.)
+(Aug. 12, 1955, ch. 861, § 1, 69 Stat. 698.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ The Act entitled “An Act to provide that the United States shall aid the State
 
 Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Act which comprises this chapter.
 
-## § 669c. Allocation and apportionment of available amounts
+## § 669c. Allocation and apportionment of available amounts
 
 **(a) Set-aside for expenses for administration of this chapter**
 
@@ -431,9 +431,9 @@ In addition to other uses authorized under this chapter, amounts apportioned und
 
 **(2)** A State shall provide an opportunity for public participation in the development of the comprehensive plan required under paragraph (1).
 
-**(3)** If the Secretary finds that the comprehensive plan submitted by a State complies with paragraph (1), the Secretary shall approve the wildlife conservation and restoration program of the State and set aside from the apportionment to the State made pursuant to subsection (d), as redesignated 1
+**(3)** If the Secretary finds that the comprehensive plan submitted by a State complies with paragraph (1), the Secretary shall approve the wildlife conservation and restoration program of the State and set aside from the apportionment to the State made pursuant to subsection (d), as redesignated 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 an amount that shall not exceed 75 percent of the estimated cost of developing and implementing the program.
 
@@ -445,13 +445,13 @@ an amount that shall not exceed 75 percent of the estimated cost of developing a
 
 **(5)** For purposes of this subsection, the term “State” shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Sept. 2, 1937, ch. 899, § 4, 50 Stat. 918; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, § 1, 60 Stat. 656; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, § 101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, § 4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, § 8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, § 7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, § 111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, § 501(d), Dec. 20, 2019, 133 Stat. 3192; Pub. L. 117–58, div. B, title VIII, § 28001(b)(1), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–263, div. K, title CXIII, § 11324(b)(1), Dec. 23, 2022, 136 Stat. 4095.)
+(Sept. 2, 1937, ch. 899, § 4, 50 Stat. 918; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, § 1, 60 Stat. 656; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, § 101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, § 4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, § 8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, § 7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, § 111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, § 501(d), Dec. 20, 2019, 133 Stat. 3192; Pub. L. 117–58, div. B, title VIII, § 28001(b)(1), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–263, div. K, title CXIII, § 11324(b)(1), Dec. 23, 2022, 136 Stat. 4095.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
+Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
 
 **Amendments**
 
@@ -461,25 +461,25 @@ Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers 
 
 “(II) $979,500; and”.
 
-2021—Subsec. (a)(1)(B). Pub. L. 117–58, § 28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which provided amounts available for fiscal years 2001 and thereafter.
+2021—Subsec. (a)(1)(B). Pub. L. 117–58, § 28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which provided amounts available for fiscal years 2001 and thereafter.
 
-Subsec. (a)(2)(A). Pub. L. 117–58, § 28001(b)(1)(B)(i), inserted “subsequent” before “fiscal year.”
+Subsec. (a)(2)(A). Pub. L. 117–58, § 28001(b)(1)(B)(i), inserted “subsequent” before “fiscal year.”
 
-Subsec. (a)(2)(B). Pub. L. 117–58, § 28001(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which related to apportionment of unobligated amounts.
+Subsec. (a)(2)(B). Pub. L. 117–58, § 28001(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which related to apportionment of unobligated amounts.
 
-2019—Subsec. (c). Pub. L. 116–94, § 501(d)(1)(A), inserted heading.
+2019—Subsec. (c). Pub. L. 116–94, § 501(d)(1)(A), inserted heading.
 
-Subsec. (c)(1). Pub. L. 116–94, § 501(d)(1)(B), (C), designated the portion of the first sentence of existing provisions preceding the proviso as par. (1), inserted heading, and substituted “Subject to paragraph (2), ½” for “One-half” and a period for “: *Provided*, That”.
+Subsec. (c)(1). Pub. L. 116–94, § 501(d)(1)(B), (C), designated the portion of the first sentence of existing provisions preceding the proviso as par. (1), inserted heading, and substituted “Subject to paragraph (2), ½” for “One-half” and a period for “: *Provided*, That”.
 
-Subsec. (c)(2). Pub. L. 116–94, § 501(d)(1)(D), designated the portion of the first sentence of existing provisions that had followed “*Provided*, That” as par. (2), inserted heading, and substituted “The amount apportioned to each State under paragraph (1) shall be not greater than 3 percent and not less than 1 percent of the revenues described in such paragraph” for “each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues”.
+Subsec. (c)(2). Pub. L. 116–94, § 501(d)(1)(D), designated the portion of the first sentence of existing provisions that had followed “*Provided*, That” as par. (2), inserted heading, and substituted “The amount apportioned to each State under paragraph (1) shall be not greater than 3 percent and not less than 1 percent of the revenues described in such paragraph” for “each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues”.
 
-Subsec. (c)(3). Pub. L. 116–94, § 501(d)(1)(E), designated second sentence of existing provisions as par. (3) and inserted heading.
+Subsec. (c)(3). Pub. L. 116–94, § 501(d)(1)(E), designated second sentence of existing provisions as par. (3) and inserted heading.
 
-Subsec. (c)(4). Pub. L. 116–94, § 501(d)(1)(F), added par. (4).
+Subsec. (c)(4). Pub. L. 116–94, § 501(d)(1)(F), added par. (4).
 
-Subsecs. (d), (e). Pub. L. 116–94, § 501(d)(2)(A), redesignated second subsec. (c), as added by Pub. L. 106–553, and subsec. (d) as (d) as (e), respectively.
+Subsecs. (d), (e). Pub. L. 116–94, § 501(d)(2)(A), redesignated second subsec. (c), as added by Pub. L. 106–553, and subsec. (d) as (d) as (e), respectively.
 
-Subsec. (e)(3). Pub. L. 116–94, § 501(d)(2)(B), substituted “subsection (d), as redesignated” for “subsection (c)”.
+Subsec. (e)(3). Pub. L. 116–94, § 501(d)(2)(B), substituted “subsection (d), as redesignated” for “subsection (c)”.
 
 2000—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for “(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under section 669b(b) of this title) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish and game departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.”, inserted subsec. (b) designation and heading, substituted “after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion” for “after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,”, redesignated former subsec. (b) as (c), and inserted “Puerto Rico,” after “American Samoa,”.
 
@@ -511,7 +511,7 @@ Amendment by Pub. L. 92–558 effective Jan. 1, 1975, see section 101(c) of Pub.
 
 **Suspension of Expense Limitation**
 
-The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, § 1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, § 1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
 
 **Executive Documents**
 
@@ -519,21 +519,21 @@ The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §�
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-## § 669d. Apportionment; certification to States and Secretary of the Treasury; acceptance by States; disposition of funds not accepted
+## § 669d. Apportionment; certification to States and Secretary of the Treasury; acceptance by States; disposition of funds not accepted
 
 For each fiscal year, the Secretary of the Interior shall certify, at the time at which a deduction or apportionment is made, to the Secretary of the Treasury and to each State fish and game department the sum which he has estimated to be deducted for administering this chapter and the Migratory Bird Conservation Act [16 U.S.C. 715 et seq.] and the sum which he has apportioned to each State. Any State desiring to avail itself of the benefits of this chapter shall notify the Secretary of the Interior to this effect within sixty days after it has received the certification referred to in this section. The sum apportioned to any State which fails to notify the Secretary of the Interior as herein provided is authorized to be made available for expenditure by the Secretary of the Interior in carrying out the provisions of the Migratory Bird Conservation Act.
 
-(Sept. 2, 1937, ch. 899, § 5, 50 Stat. 918; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 106–408, title I, § 114, Nov. 1, 2000, 114 Stat. 1769.)
+(Sept. 2, 1937, ch. 899, § 5, 50 Stat. 918; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 106–408, title I, § 114, Nov. 1, 2000, 114 Stat. 1769.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 **Amendments**
 
-2000—Pub. L. 106–408 in first sentence inserted “, at the time at which a deduction or apportionment is made,” after “certify” and struck out “and executing” after “for administering”.
+2000—Pub. L. 106–408 in first sentence inserted “, at the time at which a deduction or apportionment is made,” after “certify” and struck out “and executing” after “for administering”.
 
 1970—Pub. L. 91–503 struck out requirement that apportionments be made by February 20 of each year preceding commencement of fiscal year in which funds would be used.
 
@@ -543,7 +543,7 @@ The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, 
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-## § 669e. Submission and approval of plans and projects
+## § 669e. Submission and approval of plans and projects
 
 **(a) Setting aside funds** Any State desiring to avail itself of the benefits of this chapter shall, by its State fish and game department, submit programs or projects for wildlife restoration in either of the following two ways:
 
@@ -561,7 +561,7 @@ If the State elects to avail itself of the benefits of this chapter by preparing
 
 Administrative costs in the form of overhead or indirect costs for services provided by State central service activities outside of the State agency having primary jurisdiction over the wildlife resources of the State which may be charged against programs or projects supported by the fund established by section 669b of this title shall not exceed in any one fiscal year 3 per centum of the annual apportionment to the State.
 
-(Sept. 2, 1937, ch. 899, § 6, 50 Stat. 918; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1099.)
+(Sept. 2, 1937, ch. 899, § 6, 50 Stat. 918; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1099.)
 
 **Editorial Notes**
 
@@ -577,13 +577,13 @@ Subsecs. (b), (c). Pub. L. 91–503 added subsecs. (b) and (c).
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-## § 669f. Payment of funds to States; laws governing construction and labor
+## § 669f. Payment of funds to States; laws governing construction and labor
 
 **(a)** When the Secretary of the Interior shall find that any project approved by him has been completed or, if involving research relating to wildlife, is being conducted, in compliance with said plans and specifications, he shall cause to be paid to the proper authority of said State the amount set aside for said project. The Secretary of the Interior may, in his discretion, from time to time, make payments on said project as the same progresses; but these payments, including previous payments, if any, shall not be more than the United States pro rata share of the project in conformity with said plans and specifications. If a State has elected to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan as provided for under option (1) of subsection (a) of section 669e of this title, and this plan has been approved by the Secretary of the Interior, then the Secretary may, in his discretion, and under such rules and regulations as he may prescribe, advance funds to the State for financing the United States pro rata share agreed upon between the State fish and game department and the Secretary.
 
 **(b)** Any construction work and labor in each State shall be performed in accordance with its laws and under the direct supervision of the State fish and game department, subject to the inspection and approval of the Secretary of the Interior and in accordance with rules and regulations made pursuant to this chapter. The Secretary of the Interior and the State fish and game department of each State may jointly determine at what times and in what amounts payments shall be made under this chapter. Such payments shall be made by the Secretary of the Treasury, on warrants drawn by the Secretary of the Interior against the said fund to such official or officials, or depository, as may be designated by the State fish and game department and authorized under the laws of the State to receive public funds of the State.
 
-(Sept. 2, 1937, ch. 899, § 7, 50 Stat. 919; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1100.)
+(Sept. 2, 1937, ch. 899, § 7, 50 Stat. 919; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1100.)
 
 **Editorial Notes**
 
@@ -597,7 +597,7 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-## § 669g. Maintenance of projects; expenditures for management of wildlife areas and resources
+## § 669g. Maintenance of projects; expenditures for management of wildlife areas and resources
 
 **(a)** Maintenance of wildlife-restoration projects established under the provisions of this chapter shall be the duty of the States in accordance with their respective laws. Beginning July 1, 1945, the term “wildlife-restoration project”, as defined in section 669a of this title, shall include maintenance of completed projects. Notwithstanding any other provisions of this chapter, funds apportioned to a State under this chapter may be expended by the State for management (exclusive of law enforcement) of wildlife areas and resources. Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.
 
@@ -611,7 +611,7 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 **(4) Regulations.—** The Secretary shall issue not later than the 120th day after the effective date of this subsection such regulations as he deems advisable relative to the criteria for the establishment of hunter safety programs and public target ranges under this subsection.
 
-(Sept. 2, 1937, ch. 899, § 8, 50 Stat. 919; July 24, 1946, ch. 605, § 2, 60 Stat. 656; Aug. 12, 1955, ch. 861, § 2, 69 Stat. 698; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1100; Pub. L. 92–558, title I, § 102(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 106–408, title I, § 111(c), Nov. 1, 2000, 114 Stat. 1766; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(g)], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; Pub. L. 116–17, § 4(b), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, § 501(e), Dec. 20, 2019, 133 Stat. 3193.)
+(Sept. 2, 1937, ch. 899, § 8, 50 Stat. 919; July 24, 1946, ch. 605, § 2, 60 Stat. 656; Aug. 12, 1955, ch. 861, § 2, 69 Stat. 698; Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1100; Pub. L. 92–558, title I, § 102(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 106–408, title I, § 111(c), Nov. 1, 2000, 114 Stat. 1766; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(g)], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; Pub. L. 116–17, § 4(b), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, § 501(e), Dec. 20, 2019, 133 Stat. 3193.)
 
 **Editorial Notes**
 
@@ -621,11 +621,11 @@ The effective date of this subsection, referred to in subsec. (b)(4), probably m
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–94, § 501(e)(1), struck out “and public relations” after “(exclusive of law enforcement”.
+2019—Subsec. (a). Pub. L. 116–94, § 501(e)(1), struck out “and public relations” after “(exclusive of law enforcement”.
 
 Subsec. (b). Pub. L. 116–17 inserted subsec. heading, designated first, second, and third sentences of existing provisions as pars. (1), (3), and (4), respectively, and inserted par. headings, in par. (1), substituted “Except as provided in paragraph (2), each State” for “Each State” and “operation” for “construction, operation,”, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 116–94, § 501(e)(2), struck out “, as a part of such program” before period at end.
+Subsec. (b)(1). Pub. L. 116–94, § 501(e)(2), struck out “, as a part of such program” before period at end.
 
 2000—Subsec. (a). Pub. L. 106–553 inserted at end “Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.”
 
@@ -643,19 +643,19 @@ Subsec. (b). Pub. L. 106–408 substituted “section 669c(c) of this title” f
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–558, title I, § 102(b), Oct. 25, 1972, 86 Stat. 1173, provided that: “The amendments made by subsection (a) of this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 25, 1972].”
+Pub. L. 92–558, title I, § 102(b), Oct. 25, 1972, 86 Stat. 1173, provided that: “The amendments made by subsection (a) of this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 25, 1972].”
 
-## § 669g–1. Payment of funds to and cooperation with Puerto Rico, Guam, American Samoa, Commonwealth of the Northern Mariana Islands, and Virgin Islands
+## § 669g–1. Payment of funds to and cooperation with Puerto Rico, Guam, American Samoa, Commonwealth of the Northern Mariana Islands, and Virgin Islands
 
 The Secretary of the Interior is authorized to cooperate with the Secretary of Agriculture of Puerto Rico, the Governor of Guam, the Governor of American Samoa, the Governor of the Commonwealth of the Northern Mariana Islands, and the Governor of the Virgin Islands, in the conduct of wildlife-restoration projects, as defined in section 669a of this title, and hunter safety programs as provided by section 669g(b) of this title, upon such terms and conditions as he shall deem fair, just, and equitable, and is authorized to apportion to Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands, out of the money available for apportionment under this chapter, such sums as he shall determine, not exceeding for Puerto Rico one-half of 1 per centum, for Guam one-sixth of 1 per centum, for American Samoa one-sixth of one per centum, for the Commonwealth of the Northern Mariana Islands one-sixth of 1 per centum, and for the Virgin Islands one-sixth of 1 per centum of the total amount apportioned, in any one year, but the Secretary shall in no event require any of said cooperating agencies to pay an amount which will exceed 25 per centum of the cost of any project. Any unexpended or unobligated balance of any apportionment made pursuant to this section shall be available for expenditure in Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, as the case may be, in the succeeding year, on any approved project, and if unexpended or unobligated at the end of such year is authorized to be made available for expenditure by the Secretary of the Interior in carrying out the provisions of the Migratory Bird Conservation Act [16 U.S.C. 715 et seq.].
 
-(Sept. 2, 1937, ch. 899, § 8A, formerly § 8(a), as added Aug. 18, 1941, ch. 367, 55 Stat. 632; amended Aug. 3, 1950, ch. 523, 64 Stat. 399; July 2, 1956, ch. 489, § 2, 70 Stat. 473; Aug. 1, 1956, ch. 852, § 7, 70 Stat. 908; Pub. L. 86–70, § 15, June 25, 1959, 73 Stat. 143; renumbered § 8A and amended Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 96–597, title III, § 302(b), Dec. 24, 1980, 94 Stat. 3478; Pub. L. 98–347, § 2(a), July 9, 1984, 98 Stat. 321; Pub. L. 99–396, § 8(a), Aug. 27, 1986, 100 Stat. 839.)
+(Sept. 2, 1937, ch. 899, § 8A, formerly § 8(a), as added Aug. 18, 1941, ch. 367, 55 Stat. 632; amended Aug. 3, 1950, ch. 523, 64 Stat. 399; July 2, 1956, ch. 489, § 2, 70 Stat. 473; Aug. 1, 1956, ch. 852, § 7, 70 Stat. 908; Pub. L. 86–70, § 15, June 25, 1959, 73 Stat. 143; renumbered § 8A and amended Pub. L. 91–503, title I, § 102, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 96–597, title III, § 302(b), Dec. 24, 1980, 94 Stat. 3478; Pub. L. 98–347, § 2(a), July 9, 1984, 98 Stat. 321; Pub. L. 99–396, § 8(a), Aug. 27, 1986, 100 Stat. 839.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 **Amendments**
 
@@ -679,7 +679,7 @@ Act July 2, 1956, struck out provisions which authorized the Secretary to cooper
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–347, § 2(b), July 9, 1984, 98 Stat. 322, provided that: “The amendments made by subsection (a) [amending this section] shall take effect October 1, 1984.”
+Pub. L. 98–347, § 2(b), July 9, 1984, 98 Stat. 322, provided that: “The amendments made by subsection (a) [amending this section] shall take effect October 1, 1984.”
 
 **Effective Date of 1956 Amendment**
 
@@ -687,9 +687,9 @@ Amendment by act July 2, 1956, applicable only with respect to fiscal years begi
 
 **Increase of Annual Apportionments**
 
-Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of not more than 20 percent in the annual appropriations for the former territories of Alaska and Hawaii, and Puerto Rico and the Virgin Islands.
+Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of not more than 20 percent in the annual appropriations for the former territories of Alaska and Hawaii, and Puerto Rico and the Virgin Islands.
 
-## § 669h. Requirements and restrictions concerning use of amounts for expenses for administration
+## § 669h. Requirements and restrictions concerning use of amounts for expenses for administration
 
 **(a) Authorized expenses for administration** Except as provided in subsection (b), the Secretary of the Interior may use available amounts under section 669c(a)(1) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
 
@@ -761,35 +761,35 @@ The auditor selected under subparagraph (A) shall report to, and be supervised b
 
 **(B)** a copy of each audit under this subsection.
 
-(Sept. 2, 1937, ch. 899, § 9, 50 Stat. 919; Pub. L. 106–408, title I, § 111(b), Nov. 1, 2000, 114 Stat. 1764; Pub. L. 117–58, div. B, title VIII, § 28001(b)(2), Nov. 15, 2021, 135 Stat. 888; Pub. L. 117–263, div. K, title CXIII, § 11324(b)(2), Dec. 23, 2022, 136 Stat. 4095.)
+(Sept. 2, 1937, ch. 899, § 9, 50 Stat. 919; Pub. L. 106–408, title I, § 111(b), Nov. 1, 2000, 114 Stat. 1764; Pub. L. 117–58, div. B, title VIII, § 28001(b)(2), Nov. 15, 2021, 135 Stat. 888; Pub. L. 117–263, div. K, title CXIII, § 11324(b)(2), Dec. 23, 2022, 136 Stat. 4095.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (d)(2)(A), “section 132 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(2)(A), “section 132 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2022—Subsec. (a)(7). Pub. L. 117–263, § 11324(b)(2)(A), struck out “full-time” before “personnel”.
+2022—Subsec. (a)(7). Pub. L. 117–263, § 11324(b)(2)(A), struck out “full-time” before “personnel”.
 
-Subsec. (a)(9). Pub. L. 117–263, § 11324(b)(2)(B), struck out “on a full-time basis” after “administer this chapter”.
+Subsec. (a)(9). Pub. L. 117–263, § 11324(b)(2)(B), struck out “on a full-time basis” after “administer this chapter”.
 
-2021—Subsec. (a)(1). Pub. L. 117–58, § 28001(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “personnel costs of employees who directly administer this chapter on a full-time basis;”.
+2021—Subsec. (a)(1). Pub. L. 117–58, § 28001(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “personnel costs of employees who directly administer this chapter on a full-time basis;”.
 
-Subsec. (a)(2). Pub. L. 117–58, § 28001(b)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+Subsec. (a)(2). Pub. L. 117–58, § 28001(b)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
 
-Pub. L. 117–58, § 28001(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
+Pub. L. 117–58, § 28001(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
 
-Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-Subsec. (a)(4)(B). Pub. L. 117–58, § 28001(b)(2)(D), substituted “employee authorized under paragraph (1)” for “full-time equivalent employee authorized under paragraphs (1) and (2)”.
+Subsec. (a)(4)(B). Pub. L. 117–58, § 28001(b)(2)(D), substituted “employee authorized under paragraph (1)” for “full-time equivalent employee authorized under paragraphs (1) and (2)”.
 
-Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
+Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
 
-Subsec. (a)(8)(A). Pub. L. 117–58, § 28001(b)(2)(E), struck out “on a full-time basis” after “administer this chapter”.
+Subsec. (a)(8)(A). Pub. L. 117–58, § 28001(b)(2)(E), struck out “on a full-time basis” after “administer this chapter”.
 
-Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(b)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”. Former par. (9) redesignated (8).
+Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(b)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”. Former par. (9) redesignated (8).
 
 2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter and the Migratory Bird Conservation Act, the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the city of Washington and elsewhere, to be taken from the eligible lists of the Civil Service; to rent or construct buildings outside of the city of Washington; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the purposes of this chapter.”
 
@@ -799,7 +799,7 @@ Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(b)(2)(B), (F), redesignated
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 669h–1. Firearm and bow hunter education and safety program grants
+## § 669h–1. Firearm and bow hunter education and safety program grants
 
 **(a) In general**
 
@@ -853,7 +853,7 @@ Amounts provided for acquiring land for, constructing, or expanding a public tar
 
 At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) for use by those States in accordance with this chapter.
 
-(Sept. 2, 1937, ch. 899, § 10, as added Pub. L. 106–408, title I, § 112(2), Nov. 1, 2000, 114 Stat. 1766; amended Pub. L. 116–17, § 4(c), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, § 501(f), Dec. 20, 2019, 133 Stat. 3193.)
+(Sept. 2, 1937, ch. 899, § 10, as added Pub. L. 106–408, title I, § 112(2), Nov. 1, 2000, 114 Stat. 1766; amended Pub. L. 116–17, § 4(c), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, § 501(f), Dec. 20, 2019, 133 Stat. 3193.)
 
 **Editorial Notes**
 
@@ -865,13 +865,13 @@ A prior section 10 of act Sept. 2, 1937, was renumbered section 12 and is classi
 
 2019—Subsec. (a)(1)(A)(v). Pub. L. 116–94 added cl. (v).
 
-Subsec. (a)(3). Pub. L. 116–17, § 4(c)(1), added par. (3).
+Subsec. (a)(3). Pub. L. 116–17, § 4(c)(1), added par. (3).
 
-Subsec. (b). Pub. L. 116–17, § 4(c)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Federal share of the cost of any activity carried out with a grant under this section shall not exceed 75 percent of the total cost of the activity.”
+Subsec. (b). Pub. L. 116–17, § 4(c)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Federal share of the cost of any activity carried out with a grant under this section shall not exceed 75 percent of the total cost of the activity.”
 
-Subsec. (c)(1). Pub. L. 116–17, § 4(c)(3), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), amounts made” for “Amounts made”, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 116–17, § 4(c)(3), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), amounts made” for “Amounts made”, and added subpar. (B).
 
-## § 669h–2. Multistate conservation grant program
+## § 669h–2. Multistate conservation grant program
 
 **(a) In general**
 
@@ -957,7 +957,7 @@ A grant under this section shall not be used, in whole or in part, for an activi
 
 Chapter 10 of title 5 shall not apply to any activity carried out under this section.
 
-(Sept. 2, 1937, ch. 899, § 11, as added Pub. L. 106–408, title I, § 113, Nov. 1, 2000, 114 Stat. 1767; amended Pub. L. 116–94, div. P, title V, § 501(g)(1), Dec. 20, 2019, 133 Stat. 3193; Pub. L. 117–286, § 4(a)(101), Dec. 27, 2022, 136 Stat. 4316.)
+(Sept. 2, 1937, ch. 899, § 11, as added Pub. L. 106–408, title I, § 113, Nov. 1, 2000, 114 Stat. 1767; amended Pub. L. 116–94, div. P, title V, § 501(g)(1), Dec. 20, 2019, 133 Stat. 3193; Pub. L. 117–286, § 4(a)(101), Dec. 27, 2022, 136 Stat. 4316.)
 
 **Editorial Notes**
 
@@ -969,21 +969,21 @@ A prior section 11 of act Sept. 2, 1937, was classified to section 669j of this 
 
 2022—Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2019—Subsec. (a)(1). Pub. L. 116–94, § 501(g)(1)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+2019—Subsec. (a)(1). Pub. L. 116–94, § 501(g)(1)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (b)(3). Pub. L. 116–94, § 501(g)(1)(B), struck out “International” before “Association” in introductory provisions.
+Subsec. (b)(3). Pub. L. 116–94, § 501(g)(1)(B), struck out “International” before “Association” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 116–94, § 501(g)(1)(C), struck out “International” before “Association” in introductory provisions.
+Subsec. (c)(2)(A). Pub. L. 116–94, § 501(g)(1)(C), struck out “International” before “Association” in introductory provisions.
 
-Subsec. (c)(2)(A)(i). Pub. L. 116–94, § 501(g)(1)(D), inserted “or to recreational shooting activities” after “wildlife”.
+Subsec. (c)(2)(A)(i). Pub. L. 116–94, § 501(g)(1)(D), inserted “or to recreational shooting activities” after “wildlife”.
 
-Subsec. (d). Pub. L. 116–94, § 501(g)(1)(E), inserted “or to recreational shooting activities” after “wildlife”.
+Subsec. (d). Pub. L. 116–94, § 501(g)(1)(E), inserted “or to recreational shooting activities” after “wildlife”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Study**
 
-Pub. L. 116–94, div. P, title V, § 501(g)(2), Dec. 20, 2019, 133 Stat. 3193, provided that:
+Pub. L. 116–94, div. P, title V, § 501(g)(2), Dec. 20, 2019, 133 Stat. 3193, provided that:
 
 > “Not later than 10 years after the date of enactment of this Act [Dec. 20, 2019], the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall—
 
@@ -995,11 +995,11 @@ Pub. L. 116–94, div. P, title V, § 501(g)(2), Dec. 20, 2019, 133 Stat. 3193
 
 > **“(ii)** the Committee on Natural Resources of the House of Representatives.”
 
-## § 669i. Rules and regulations
+## § 669i. Rules and regulations
 
 The Secretary of the Interior is authorized to make rules and regulations for carrying out the provisions of this chapter.
 
-(Sept. 2, 1937, ch. 899, § 12, formerly § 10, 50 Stat. 919; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; renumbered § 12, Pub. L. 106–408, title I, § 112(1), Nov. 1, 2000, 114 Stat. 1766.)
+(Sept. 2, 1937, ch. 899, § 12, formerly § 10, 50 Stat. 919; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; renumbered § 12, Pub. L. 106–408, title I, § 112(1), Nov. 1, 2000, 114 Stat. 1766.)
 
 **Executive Documents**
 
@@ -1007,29 +1007,29 @@ The Secretary of the Interior is authorized to make rules and regulations for ca
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-## § 669j. Repealed. Aug. 7, 1946, ch. 770, § 1(14), 60 Stat. 867
+## § 669j. Repealed. Aug. 7, 1946, ch. 770, § 1(14), 60 Stat. 867
 
-Section, act Sept. 2, 1937, ch. 899, § 11, 50 Stat. 919; Reorg. Plan No. II, § 4(f) of 1939, eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to annual report to Congress by the Secretary of the Interior.
+Section, act Sept. 2, 1937, ch. 899, § 11, 50 Stat. 919; Reorg. Plan No. II, § 4(f) of 1939, eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to annual report to Congress by the Secretary of the Interior.
 
-## § 669k. Reports and certifications
+## § 669k. Reports and certifications
 
 **(a) Implementation report**
 
 **(1) In general**
 
-At the time at which the President submits to Congress a budget request for the Department of the Interior for fiscal year 2002, the Secretary of the Interior shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the steps that have been taken to comply with this title 1
+At the time at which the President submits to Congress a budget request for the Department of the Interior for fiscal year 2002, the Secretary of the Interior shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the steps that have been taken to comply with this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the amendments made by this title.1
 
 **(2) Contents** The report under paragraph (1) shall describe—
 
-**(A)** the extent to which compliance with this title <sup>1</sup> and the amendments made by this title <sup>1</sup> has required a reduction in the number of personnel assigned to administer, manage, and oversee the Federal Assistance Program for State Wildlife and Sport Fish Restoration;
+**(A)** the extent to which compliance with this title <sup>1</sup> and the amendments made by this title <sup>1</sup> has required a reduction in the number of personnel assigned to administer, manage, and oversee the Federal Assistance Program for State Wildlife and Sport Fish Restoration;
 
-**(B)** any revisions to this title <sup>1</sup> or the amendments made by this title <sup>1</sup> that would be desirable in order for the Secretary of the Interior to adequately administer the Program and ensure that funds provided to State agencies are properly used; and
+**(B)** any revisions to this title <sup>1</sup> or the amendments made by this title <sup>1</sup> that would be desirable in order for the Secretary of the Interior to adequately administer the Program and ensure that funds provided to State agencies are properly used; and
 
-**(C)** any other information concerning the implementation of this title <sup>1</sup> and the amendments made by this title <sup>1</sup> that the Secretary of the Interior considers appropriate.
+**(C)** any other information concerning the implementation of this title <sup>1</sup> and the amendments made by this title <sup>1</sup> that the Secretary of the Interior considers appropriate.
 
 **(b) Projected spending report**
 
@@ -1037,17 +1037,17 @@ At the time at which the President submits a budget request for the Department o
 
 **(c) Spending certification and report** Not later than 60 days after the end of each fiscal year, the Secretary of the Interior shall certify and report in writing to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
 
-**(1)** the amounts, broken down by category, that were used for the fiscal year under section 4(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(1)) and section 4(d)(1) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(1)); <sup>1</sup>
+**(1)** the amounts, broken down by category, that were used for the fiscal year under section 4(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(1)) and section 4(d)(1) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(1)); <sup>1</sup>
 
-**(2)** the amounts apportioned to States for the fiscal year under section 4(a)(2) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(2)) and section 4(d)(2)(A) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(2)(A)); <sup>1</sup>
+**(2)** the amounts apportioned to States for the fiscal year under section 4(a)(2) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(2)) and section 4(d)(2)(A) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(2)(A)); <sup>1</sup>
 
-**(3)** the results of the audits performed under section 9(d) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669h(d) 2
+**(3)** the results of the audits performed under section 9(d) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669h(d) 2
 
-<sup>2</sup>  So in original. Probably should be followed by a second closing parenthesis.
+<sup>2</sup> So in original. Probably should be followed by a second closing parenthesis.
 
 and section 9(d) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777h(d));
 
-**(4)** that all amounts used for the fiscal year under section 4(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(1)) and section 4(d)(1) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(1)) <sup>1</sup> were necessary for expenses for administration incurred in implementation of those Acts;
+**(4)** that all amounts used for the fiscal year under section 4(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(1)) and section 4(d)(1) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(1)) <sup>1</sup> were necessary for expenses for administration incurred in implementation of those Acts;
 
 **(5)** that all amounts used for the fiscal year to administer those Acts by agency headquarters and by regional offices of the United States Fish and Wildlife Service were used in accordance with those Acts; and
 
@@ -1067,7 +1067,7 @@ Not later than December 31 of a fiscal year, the Secretary of the Interior shall
 
 The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) to any person except the Assistant Secretary for Fish and Wildlife and Parks.
 
-(Pub. L. 106–408, title I, § 133, Nov. 1, 2000, 114 Stat. 1775.)
+(Pub. L. 106–408, title I, § 133, Nov. 1, 2000, 114 Stat. 1775.)
 
 **Editorial Notes**
 
@@ -1077,7 +1077,7 @@ This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1,
 
 The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b), (c), and (d)(1), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. Section 4(d) of the Act was redesignated section 4(b) by Pub. L. 109–59, title X, § 10113(1), Aug. 10, 2005, 119 Stat. 1927, and is classified to section 777c(b) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b), (c), and (d)(1), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. Section 4(d) of the Act was redesignated section 4(b) by Pub. L. 109–59, title X, § 10113(1), Aug. 10, 2005, 119 Stat. 1927, and is classified to section 777c(b) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
 **Codification**
 
@@ -1089,11 +1089,11 @@ Section was enacted as part of the Fish and Wildlife Programs Improvement and Na
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 669l. Value of land
+## § 669l. Value of land
 
 Notwithstanding any other provision of law, any institution eligible to receive Federal funds under the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7601 et seq.) shall be allowed to use the value of any land owned by the institution as an in-kind match to satisfy any cost sharing requirement under this chapter.
 
-(Sept. 2, 1937, ch. 899, § 13, as added Pub. L. 116–188, title III, § 303(2), Oct. 30, 2020, 134 Stat. 941.)
+(Sept. 2, 1937, ch. 899, § 13, as added Pub. L. 116–188, title III, § 303(2), Oct. 30, 2020, 134 Stat. 941.)
 
 **Editorial Notes**
 

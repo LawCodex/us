@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 6501. Appointment of consultants by Majority Leader, Minority Leader, Secretary of Senate, and Legislative Counsel of Senate; compensation
+### § 6501. Appointment of consultants by Majority Leader, Minority Leader, Secretary of Senate, and Legislative Counsel of Senate; compensation
 
 **(a) In general**
 
@@ -27,11 +27,11 @@ The Majority Leader and the Minority Leader, are each authorized to appoint and 
 
 Any or all appointments under this section may be at an annual rate of compensation rather than at a daily rate of compensation, but such annual rate shall not be in excess of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate.
 
-**(C) 1 [footnote: 1 So in original. Probably should be “(c)”.] Title of position**
+**(C) 1 [footnote: 1 So in original. Probably should be “(c)”.] Title of position**
 
 Each appointing authority under subsection (a) may designate the title of the position of any individual appointed under that subsection.
 
-(Pub. L. 95–26, title I, § 101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, § 110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§ 4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, § 314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90, title I, § 3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, § 4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, § 2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, § 101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, § 6(a), Feb. 20, 2003, 117 Stat. 350; Pub. L. 111–8, div. G, title I, § 2(a), Mar. 11, 2009, 123 Stat. 814; Pub. L. 118–47, div. E, title I, § 102, Mar. 23, 2024, 138 Stat. 712.)
+(Pub. L. 95–26, title I, § 101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, § 110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§ 4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, § 314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90, title I, § 3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, § 4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, § 2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, § 101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, § 6(a), Feb. 20, 2003, 117 Stat. 350; Pub. L. 111–8, div. G, title I, § 2(a), Mar. 11, 2009, 123 Stat. 814; Pub. L. 118–47, div. E, title I, § 102, Mar. 23, 2024, 138 Stat. 712.)
 
 **Editorial Notes**
 
@@ -47,21 +47,21 @@ Section is from the Supplemental Appropriations Act, 1977.
 
 2009—Subsec. (a). Pub. L. 111–8 substituted “nine individual consultants” for “eight individual consultants” in first sentence and “three individual consultants” for “two individual consultants” in second sentence.
 
-2003—Subsec. (a). Pub. L. 108–7, § 6(a)(1), substituted “eight individual consultants” for “six individual consultants” in first sentence.
+2003—Subsec. (a). Pub. L. 108–7, § 6(a)(1), substituted “eight individual consultants” for “six individual consultants” in first sentence.
 
-Subsec. (C). Pub. L. 108–7, § 6(a)(2), added subsec. (C).
+Subsec. (C). Pub. L. 108–7, § 6(a)(2), added subsec. (C).
 
 2001—Subsec. (a). Pub. L. 107–68 substituted “six individual consultants” for “four individual consultants” in first sentence and “not more than two individual consultants” for “one consultant” in second sentence.
 
 Pub. L. 107–20 inserted “The President pro tempore emeritus of the Senate is authorized to appoint and fix the compensation of one individual consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection.” after second sentence and “President pro tempore emeritus,” after “President pro tempore,” in last sentence.
 
-1998—Subsec. (a). Pub. L. 105–275, § 4(a), inserted after first sentence “The President pro tempore of the Senate is authorized to appoint and fix the compensation of one consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection.” and in penultimate sentence substituted “sections 8344 and 8468” for “section 8344”.
+1998—Subsec. (a). Pub. L. 105–275, § 4(a), inserted after first sentence “The President pro tempore of the Senate is authorized to appoint and fix the compensation of one consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection.” and in penultimate sentence substituted “sections 8344 and 8468” for “section 8344”.
 
-Subsec. (b). Pub. L. 105–275, § 4(b), substituted “Any or all appointments under this section may be” for “The Majority Leader, and the Minority Leader, in appointing individuals to consultant positions under authority of this section, may appoint one such individual to such position”.
+Subsec. (b). Pub. L. 105–275, § 4(b), substituted “Any or all appointments under this section may be” for “The Majority Leader, and the Minority Leader, in appointing individuals to consultant positions under authority of this section, may appoint one such individual to such position”.
 
 1995—Pub. L. 104–2, which directed the general amendment of section 61h–6 of title 2, was executed by amending section 101 of Pub. L. 95–26, which is classified to section 61h–6 of title 2, to reflect the probable intent of Congress, in subsec. (a) striking out provisions regarding appointment of two consultants at daily rate of compensation by President pro tempore of Senate and increasing number of appointments by Majority Leader of Senate from two to four consultants at daily rate of compensation, and in subsec. (b) striking out provisions regarding appointment of one consultant at an annual rate of compensation by President pro tempore of Senate.
 
-1991—Subsec. (a). Pub. L. 102–90 which directed the insertion of “The Legislative Counsel of the Senate (subject to the approval of the President pro tempore) is authorized to appoint and fix the compensation of not more than 2 consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this section.” immediately after the second sentence of this section and which directed the substitution of “, Secretary of the Senate, or Legislative Counsel of the Senate, as the case may be” for “and the Secretary of the Senate, respectively” in the last sentence of this section, was executed by making the insertion and the substitution for “and Secretary of the Senate, respectively”, to reflect the probable intent of Congress.
+1991—Subsec. (a). Pub. L. 102–90 which directed the insertion of “The Legislative Counsel of the Senate (subject to the approval of the President pro tempore) is authorized to appoint and fix the compensation of not more than 2 consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this section.” immediately after the second sentence of this section and which directed the substitution of “, Secretary of the Senate, or Legislative Counsel of the Senate, as the case may be” for “and the Secretary of the Senate, respectively” in the last sentence of this section, was executed by making the insertion and the substitution for “and Secretary of the Senate, respectively”, to reflect the probable intent of Congress.
 
 1990—Pub. L. 101–302 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -73,41 +73,41 @@ Subsec. (b). Pub. L. 105–275, § 4(b), substituted “Any or all appointment
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–8, div. G, title I, § 2(b), Mar. 11, 2009, 123 Stat. 815, provided that: “This section [amending this section] shall take effect on the date of enactment of this Act [Mar. 11, 2009] and shall apply to fiscal year 2009 and each fiscal year thereafter.”
+Pub. L. 111–8, div. G, title I, § 2(b), Mar. 11, 2009, 123 Stat. 815, provided that: “This section [amending this section] shall take effect on the date of enactment of this Act [Mar. 11, 2009] and shall apply to fiscal year 2009 and each fiscal year thereafter.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. H, title I, § 6(b), Feb. 20, 2003, 117 Stat. 350, provided that: “This section [amending this section] shall apply to fiscal year 2003 and each fiscal year thereafter.”
+Pub. L. 108–7, div. H, title I, § 6(b), Feb. 20, 2003, 117 Stat. 350, provided that: “This section [amending this section] shall apply to fiscal year 2003 and each fiscal year thereafter.”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–68, title I, § 101(b), Nov. 12, 2001, 115 Stat. 563, provided that: “This section [amending this section] shall apply with respect to fiscal year 2002 and each fiscal year thereafter.”
+Pub. L. 107–68, title I, § 101(b), Nov. 12, 2001, 115 Stat. 563, provided that: “This section [amending this section] shall apply with respect to fiscal year 2002 and each fiscal year thereafter.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–275, title I, § 4(c), Oct. 21, 1998, 112 Stat. 2433, provided that: “This section [amending this section] is effective on and after the date of enactment of this Act [Oct. 21, 1998].”
+Pub. L. 105–275, title I, § 4(c), Oct. 21, 1998, 112 Stat. 2433, provided that: “This section [amending this section] is effective on and after the date of enactment of this Act [Oct. 21, 1998].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–302, title III, § 314(b), May 25, 1990, 104 Stat. 246, provided that: “The amendments made by this section [amending this section] shall be effective in the case of appointments made after the date of enactment of this Act [May 25, 1990].”
+Pub. L. 101–302, title III, § 314(b), May 25, 1990, 104 Stat. 246, provided that: “The amendments made by this section [amending this section] shall be effective in the case of appointments made after the date of enactment of this Act [May 25, 1990].”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–94, title I, § 110(b), Aug. 5, 1977, 91 Stat. 662, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on August 1, 1977.”
+Pub. L. 95–94, title I, § 110(b), Aug. 5, 1977, 91 Stat. 662, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on August 1, 1977.”
 
 **Consultants**
 
-Pub. L. 110–161, div. H, title I, § 8, Dec. 26, 2007, 121 Stat. 2222, provided that, with respect to fiscal year 2008, the first sentence of this section shall be applied by substituting “nine individual consultants” for “eight individual consultants”.
+Pub. L. 110–161, div. H, title I, § 8, Dec. 26, 2007, 121 Stat. 2222, provided that, with respect to fiscal year 2008, the first sentence of this section shall be applied by substituting “nine individual consultants” for “eight individual consultants”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 109–55, title I, § 2, Aug. 2, 2005, 119 Stat. 568.
+Pub. L. 109–55, title I, § 2, Aug. 2, 2005, 119 Stat. 568.
 
-Pub. L. 108–447, div. G, title I, § 2, Dec. 8, 2004, 118 Stat. 3169.
+Pub. L. 108–447, div. G, title I, § 2, Dec. 8, 2004, 118 Stat. 3169.
 
-Pub. L. 108–83, title I, § 6, Sept. 30, 2003, 117 Stat. 1013.
+Pub. L. 108–83, title I, § 6, Sept. 30, 2003, 117 Stat. 1013.
 
-### § 6502. Procurement of temporary help
+### § 6502. Procurement of temporary help
 
 **(a) In general**
 
@@ -119,7 +119,7 @@ Pub. L. 108–83, title I, § 6, Sept. 30, 2003, 117 Stat. 1013.
 
 This section shall take effect on October 1, 2001, and shall apply in fiscal year 2002 and successive fiscal years.
 
-(Pub. L. 107–68, title I, § 109, Nov. 12, 2001, 115 Stat. 569.)
+(Pub. L. 107–68, title I, § 109, Nov. 12, 2001, 115 Stat. 569.)
 
 **Editorial Notes**
 
@@ -129,11 +129,11 @@ Section was formerly classified to section 61f–10 of this title prior to edito
 
 Section is from the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002.
 
-### § 6503. Payments from Senate contingent fund
+### § 6503. Payments from Senate contingent fund
 
 No payment shall be made from the contingent fund of the Senate unless sanctioned by the Committee on Rules and Administration of the Senate. Payments made upon vouchers or abstracts of disbursements of salaries approved by said Committee shall be deemed, held, and taken, and are declared to be conclusive upon all the departments and officers of the Government: *Provided*, That no payment shall be made from said contingent fund as additional salary or compensation to any officer or employee of the Senate.
 
-(Oct. 2, 1888, ch. 1069, 25 Stat. 546; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814; Pub. L. 93–554, title I, Dec. 27, 1974, 88 Stat. 1776; Pub. L. 104–186, title I, § 105(c), Aug. 20, 1996, 110 Stat. 1722.)
+(Oct. 2, 1888, ch. 1069, 25 Stat. 546; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814; Pub. L. 93–554, title I, Dec. 27, 1974, 88 Stat. 1776; Pub. L. 104–186, title I, § 105(c), Aug. 20, 1996, 110 Stat. 1722.)
 
 **Editorial Notes**
 
@@ -157,13 +157,13 @@ Pub. L. 93–554, title I, Dec. 27, 1974, 88 Stat. 1776, provided in part that t
 
 **Effective Date of 1946 Amendment**
 
-Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
+Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
 
-### § 6504. Committee on Rules and Administration; designation of employees to approve vouchers for payments from Senate contingent fund
+### § 6504. Committee on Rules and Administration; designation of employees to approve vouchers for payments from Senate contingent fund
 
 The Committee on Rules and Administration may authorize its chairman to designate any employee or employees of such Committee to approve in his behalf, all vouchers making payments from the contingent fund of the Senate, such approval to be deemed and held to be approval by the Committee on Rules and Administration for all intents and purposes.
 
-(Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 529; Pub. L. 97–51, § 126, Oct. 1, 1981, 95 Stat. 965; Pub. L. 98–473, title I, § 123A(c), Oct. 12, 1984, 98 Stat. 1970.)
+(Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 529; Pub. L. 97–51, § 126, Oct. 1, 1981, 95 Stat. 965; Pub. L. 98–473, title I, § 123A(c), Oct. 12, 1984, 98 Stat. 1970.)
 
 **Editorial Notes**
 
@@ -177,17 +177,17 @@ Section was formerly classified to section 68–1 of this title prior to editori
 
 1981—Pub. L. 97–51 substituted “the committee Auditor and the committee Assistant Auditor” for “one committee employee”.
 
-### § 6505. Appropriations for contingent expenses of Senate; restrictions
+### § 6505. Appropriations for contingent expenses of Senate; restrictions
 
 Appropriations made for contingent expenses of the Senate shall not be used for the payment of personal services except upon the express and specific authorization of the Senate in whose behalf such services are rendered. Nor shall such appropriations be used for any expenses not intimately and directly connected with the routine legislative business of the Senate, and the Government Accountability Office shall apply the provisions of this section in the settlement of the accounts of expenditures from said appropriations incurred for services or materials.
 
-(Feb. 14, 1902, ch. 17, § 1, 32 Stat. 26; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 104–186, title II, § 204(45), Aug. 20, 1996, 110 Stat. 1737; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Feb. 14, 1902, ch. 17, § 1, 32 Stat. 26; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 104–186, title II, § 204(45), Aug. 20, 1996, 110 Stat. 1737; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 68–2 of this title prior to editorial reclassification and renumbering as this section, and to section 671 of former Title 31, prior to the enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 68–2 of this title prior to editorial reclassification and renumbering as this section, and to section 671 of former Title 31, prior to the enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, ch. 17, the Urgent Deficiency Appropriation Act for the fiscal year 1902, as those provisions relate to appropriations for contingent expenses of Senate. Provisions of that proviso relating to appropriations for expenses of House of Representatives are classified to section 5506 of this title.
 
@@ -201,7 +201,7 @@ Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, 
 
 “Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to act June 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31.
 
-### § 6506. Separate accounts for “Secretary of the Senate” and for “Sergeant at Arms and Doorkeeper of the Senate”; establishment within Senate contingent fund; inclusion of funds in existing accounts
+### § 6506. Separate accounts for “Secretary of the Senate” and for “Sergeant at Arms and Doorkeeper of the Senate”; establishment within Senate contingent fund; inclusion of funds in existing accounts
 
 **(a)** Effective October 1, 1983—
 
@@ -213,7 +213,7 @@ Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, 
 
 **(b)** Any provision of law which was enacted, or any Senate resolution which was agreed to, prior to October 1, 1983, and which authorizes moneys in the contingent fund of the Senate to be expended by or for the use of the Secretary of the Senate, or his office (whether generally or from a specified account within such fund) may on and after October 1, 1983, be construed to authorize such moneys to be expended from the separate account, within such fund, established by subsection (a)(1) for the “Secretary of the Senate”; and any provision of law which was enacted prior to October 1, 1983, and which authorizes moneys in the contingent fund of the Senate to be expended by or for the use of the Sergeant at Arms and Doorkeeper of the Senate, or his office (whether generally or from a specified account within such fund) may on and after October 1, 1983, be construed to authorize such moneys to be expended from the separate account, within such fund, established by subsection (a)(1) for the “Sergeant at Arms and Doorkeeper of the Senate”.
 
-(Pub. L. 98–51, title I, § 103, July 14, 1983, 97 Stat. 266.)
+(Pub. L. 98–51, title I, § 103, July 14, 1983, 97 Stat. 266.)
 
 **Editorial Notes**
 
@@ -223,7 +223,7 @@ Section was formerly classified to section 68–3 of this title prior to editori
 
 Section is from the Congressional Operations Appropriation Act, 1984, which is title I of the Legislative Branch Appropriation, 1984.
 
-### § 6507. Insurance of office funds of Secretary of Senate and Sergeant at Arms; payment of premiums
+### § 6507. Insurance of office funds of Secretary of Senate and Sergeant at Arms; payment of premiums
 
 The Secretary of the Senate and the Sergeant at Arms on and after June 27, 1956, are authorized and directed to protect the funds of their respective offices by purchasing insurance in an amount necessary to protect said funds against loss. Premiums on such insurance shall be paid out of the contingent fund of the Senate, upon vouchers approved by the chairman of the Committee on Rules and Administration.
 
@@ -257,13 +257,13 @@ June 22, 1949, ch. 235, 63 Stat. 219.
 
 June 14, 1948, ch. 467, 62 Stat. 425.
 
-### § 6508. Transfers from appropriations account for expenses of Office of Secretary of Senate and Office of Sergeant at Arms and Doorkeeper of Senate
+### § 6508. Transfers from appropriations account for expenses of Office of Secretary of Senate and Office of Sergeant at Arms and Doorkeeper of Senate
 
 **(a)** The Secretary of the Senate is authorized, with the approval of the Senate Committee on Appropriations, to transfer, during any fiscal year (1) from the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Secretary of the Senate, such sums as he shall specify to the Senate appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Secretary”, and (2) from the Senate appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Secretary” to the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Secretary of the Senate, such sums as he shall specify; and any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
 
 **(b)** The Sergeant at Arms and Doorkeeper of the Senate is authorized, with the approval of the Senate Committee on Appropriations, to transfer, during any fiscal year, from the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Sergeant at Arms and Doorkeeper of the Senate, such sums as he shall specify to the appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Sergeant at Arms and Doorkeeper”; and any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
 
-(Pub. L. 100–458, title I, § 3, Oct. 1, 1988, 102 Stat. 2161; Pub. L. 101–302, title III, § 317, May 25, 1990, 104 Stat. 247.)
+(Pub. L. 100–458, title I, § 3, Oct. 1, 1988, 102 Stat. 2161; Pub. L. 101–302, title III, § 317, May 25, 1990, 104 Stat. 247.)
 
 **Editorial Notes**
 
@@ -277,13 +277,13 @@ Section is from the Congressional Operations Appropriations Act, 1989, which is 
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
-Pub. L. 100–202, § 101(i) [title I, § 8], Dec. 22, 1987, 101 Stat. 1329–290, 1329–295.
+Pub. L. 100–202, § 101(i) [title I, § 8], Dec. 22, 1987, 101 Stat. 1329–290, 1329–295.
 
 **Amendments**
 
 1990—Subsec. (a). Pub. L. 101–302 designated existing provisions as cl. (1) and added cl. (2).
 
-### § 6509. Vouchering Senate office charges
+### § 6509. Vouchering Senate office charges
 
 **(a) Senate support office charges** Charges for expenses of any office, the funds of which are disbursed by the Secretary of the Senate, may be vouchered by a Senate support office paying such expenses or to which such charges are owed for goods or services provided, if—
 
@@ -303,7 +303,7 @@ Any voucher submitted by a Senate support office pursuant to this section shall 
 
 Vouchers under this section shall be submitted and paid subject to such regulations as may be promulgated by the Committee on Rules and Administration.
 
-(Pub. L. 103–69, title I, § 1, Aug. 11, 1993, 107 Stat. 695.)
+(Pub. L. 103–69, title I, § 1, Aug. 11, 1993, 107 Stat. 695.)
 
 **Editorial Notes**
 
@@ -313,11 +313,11 @@ Section was formerly classified to section 68–8 of this title prior to editori
 
 Section is from the Congressional Operations Appropriations Act, 1994, which is title I of the Legislative Branch Appropriations Act, 1994.
 
-### § 6510. Materials, supplies, and fuel payments from Senate contingent fund
+### § 6510. Materials, supplies, and fuel payments from Senate contingent fund
 
 Payments from the contingent fund of the Senate for materials and supplies (including fuel) purchased on and after July 8, 1935, through the Administrator of General Services shall be made by check upon vouchers approved by the Committee on Rules and Administration of the Senate.
 
-(July 8, 1935, ch. 374, 49 Stat. 463; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814; June 30, 1949, ch. 288, title I, § 102(a), 63 Stat. 380.)
+(July 8, 1935, ch. 374, 49 Stat. 463; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814; June 30, 1949, ch. 288, title I, § 102(a), 63 Stat. 380.)
 
 **Editorial Notes**
 
@@ -333,19 +333,19 @@ Section was formerly classified to section 68a of this title prior to editorial 
 
 **Change of Name**
 
-Effective Jan. 1, 1947, Procurement Division of Treasury Department changed to Bureau of Federal Supply by former regulation § 5.7 of subpart A of Part 5 of Title 41, Public Contracts, 11 F.R. 13638, issued by Secretary of the Treasury.
+Effective Jan. 1, 1947, Procurement Division of Treasury Department changed to Bureau of Federal Supply by former regulation § 5.7 of subpart A of Part 5 of Title 41, Public Contracts, 11 F.R. 13638, issued by Secretary of the Treasury.
 
 Bureau of Federal Supply and its functions and duties transferred to Administrator of General Services by act June 30, 1949.
 
 **Effective Date of 1946 Amendment**
 
-Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
+Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
 
-### § 6511. Liquidation from appropriations of any unpaid obligations chargeable to rescinded unexpended balances of funds
+### § 6511. Liquidation from appropriations of any unpaid obligations chargeable to rescinded unexpended balances of funds
 
 If at the close of any fiscal year there is an unexpended balance of funds which were appropriated for such year (or for prior fiscal years) and which are subject to disbursement by the Secretary of the Senate for any purpose, then, if such unexpended balance is by law rescinded, any unpaid obligations chargeable to the balance so rescinded (or to appropriations for such purpose for prior years) shall be liquidated from any appropriations for the same general purpose, which, at the time of payment, are available for disbursement.
 
-(Pub. L. 97–257, title I, § 106, Sept. 10, 1982, 96 Stat. 849.)
+(Pub. L. 97–257, title I, § 106, Sept. 10, 1982, 96 Stat. 849.)
 
 **Editorial Notes**
 
@@ -355,13 +355,13 @@ Section was formerly classified to section 68d of this title prior to editorial 
 
 Section is from the Supplemental Appropriations Act, 1982.
 
-### § 6512. Expense allowance for Secretary of Senate, Sergeant at Arms and Doorkeeper of Senate, and Secretaries for Senate Majority and Minority
+### § 6512. Expense allowance for Secretary of Senate, Sergeant at Arms and Doorkeeper of Senate, and Secretaries for Senate Majority and Minority
 
 **(a)** Notwithstanding any other provision of law, there is hereby established an account, within the Senate, to be known as the “Expense Allowance for the Secretary of the Senate, Sergeant at Arms and Doorkeeper of the Senate and Secretaries for the Majority and for the Minority, of the Senate” (hereinafter in this section referred to as the “Expense Allowance”). For each fiscal year (commencing with the fiscal year ending September 30, 1981) there shall be available from the Expense Allowance an expense allotment not to exceed $6,000 for each of the above specified officers. Amounts paid from the expense allotment of any such officer shall be paid to him only as reimbursement for actual expenses incurred by him and upon certification and documentation by him of such expenses. Amounts paid to any such officer pursuant to this section shall not be reported as income and shall not be allowed as a deduction under title 26.
 
 **(b)** For the fiscal year ending September 30, 1981, and the succeeding fiscal year, the Secretary of the Senate shall transfer, for each such year, $8,000 to the Expense Allowance from “Miscellaneous Items” in the contingent fund of the Senate. For the fiscal year ending September 30, 1983, and for each fiscal year thereafter, there are authorized to be appropriated to the Expense Allowance such funds as may be necessary to carry out the provisions of subsection (a) of this section.
 
-(Pub. L. 97–51, § 119, Oct. 1, 1981, 95 Stat. 964; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 334; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–83, title I, § 5(a), Sept. 30, 2003, 117 Stat. 1013.)
+(Pub. L. 97–51, § 119, Oct. 1, 1981, 95 Stat. 964; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 334; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–83, title I, § 5(a), Sept. 30, 2003, 117 Stat. 1013.)
 
 **Editorial Notes**
 
@@ -381,17 +381,17 @@ Section was formerly classified to section 65c of this title prior to editorial 
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–83, title I, § 5(b), Sept. 30, 2003, 117 Stat. 1013, provided that: “The amendment made by this section [amending this section] shall apply with respect to fiscal year 2004, and each fiscal year thereafter.”
+Pub. L. 108–83, title I, § 5(b), Sept. 30, 2003, 117 Stat. 1013, provided that: “The amendment made by this section [amending this section] shall apply with respect to fiscal year 2004, and each fiscal year thereafter.”
 
 **Effective Date of 1983 Amendment**
 
 Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 334, provided in part that the amendment made by Pub. L. 98–63 is effective for fiscal years beginning on or after Oct. 1, 1982.
 
-### § 6513. Per diem and subsistence expenses from Senate contingent fund
+### § 6513. Per diem and subsistence expenses from Senate contingent fund
 
 No part of the appropriations made under the heading “Contingent Expenses of the Senate” on and after June 27, 1956 may be expended for per diem and subsistence expenses (as defined in section 5701 of title 5) at rates in excess of the rates prescribed by the Committee on Rules and Administration; except that (1) higher rates may be established by the Committee on Rules and Administration for travel beyond the limits of the continental United States, and (2) in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate, reimbursement for such expenses may be made on an actual expense basis of not to exceed the daily rate prescribed by the Committee on Rules and Administration in the case of travel within the continental limits of the United States. This section shall not apply with respect to per diem or actual travel expenses incurred by Senators and employees in the office of a Senator which are reimbursed under section 6314 of this title.
 
-(June 27, 1956, ch. 453, 70 Stat. 360; Pub. L. 87–139, § 7, Aug. 14, 1961, 75 Stat. 340; Pub. L. 91–114, § 3, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, § 8, May 19, 1975, 89 Stat. 86; Pub. L. 95–94, title I, § 112(e), Aug. 5, 1977, 91 Stat. 664; Pub. L. 95–355, title I, § 103, Sept. 8, 1978, 92 Stat. 533; Pub. L. 96–304, title I, § 102(b), July 8, 1980, 94 Stat. 889.)
+(June 27, 1956, ch. 453, 70 Stat. 360; Pub. L. 87–139, § 7, Aug. 14, 1961, 75 Stat. 340; Pub. L. 91–114, § 3, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, § 8, May 19, 1975, 89 Stat. 86; Pub. L. 95–94, title I, § 112(e), Aug. 5, 1977, 91 Stat. 664; Pub. L. 95–355, title I, § 103, Sept. 8, 1978, 92 Stat. 533; Pub. L. 96–304, title I, § 102(b), July 8, 1980, 94 Stat. 889.)
 
 **Editorial Notes**
 
@@ -419,11 +419,11 @@ Section was formerly classified to section 68b of this title prior to editorial 
 
 Amendment by Pub. L. 95–94 effective Aug. 5, 1977, see section 112(f) of Pub. L. 95–94, set out as an Effective Date of 1977 Amendment note under section 6314 of this title.
 
-### § 6514. Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses
+### § 6514. Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses
 
 Effective July 1, 1979, there is authorized an expense allowance for the Office of the Secretary of the Senate and the Office of Sergeant at Arms and Doorkeeper of the Senate which shall not exceed $30,000 each fiscal year for each such office. Payments made under this section shall be reimbursements only for actual expenses (including meals and food-related expenses) incurred in the course of conducting orientation seminars for Senators, Senate officials, or members of the staffs of Senators or Senate officials and other similar meetings, in the Capitol Building or the Senate Office Buildings. Such payments shall be made upon certification and documentation of such expenses by the Secretary and Sergeant at Arms, respectively, and shall be made out of the contingent fund of the Senate upon vouchers signed by the Secretary and the Sergeant at Arms, respectively. Amounts received as reimbursement of such expenses shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction, under title 26.
 
-(Pub. L. 96–38, title I, § 107(a), July 25, 1979, 93 Stat. 112; Pub. L. 99–88, title I, § 193, Aug. 15, 1985, 99 Stat. 349; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, § 101(i) [title I, § 6], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title I, § 3, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 108–83, title I, § 4, Sept. 30, 2003, 117 Stat. 1013; Pub. L. 110–161, div. H, title I, § 6(a), Dec. 26, 2007, 121 Stat. 2222.)
+(Pub. L. 96–38, title I, § 107(a), July 25, 1979, 93 Stat. 112; Pub. L. 99–88, title I, § 193, Aug. 15, 1985, 99 Stat. 349; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, § 101(i) [title I, § 6], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title I, § 3, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 108–83, title I, § 4, Sept. 30, 2003, 117 Stat. 1013; Pub. L. 110–161, div. H, title I, § 6(a), Dec. 26, 2007, 121 Stat. 2222.)
 
 **Editorial Notes**
 
@@ -451,13 +451,13 @@ Section is from the Supplemental Appropriations Act, 1979.
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. H, title I, § 6(b), Dec. 26, 2007, 121 Stat. 2222, provided that: “The amendment made by this section [amending this section] shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
+Pub. L. 110–161, div. H, title I, § 6(b), Dec. 26, 2007, 121 Stat. 2222, provided that: “The amendment made by this section [amending this section] shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–202, § 101(i) [title I, § 6], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, provided that the amendment made by Pub. L. 100–202 is effective in the case of fiscal years beginning after Sept. 30, 1986.
+Pub. L. 100–202, § 101(i) [title I, § 6], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, provided that the amendment made by Pub. L. 100–202 is effective in the case of fiscal years beginning after Sept. 30, 1986.
 
-### § 6515. Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities
+### § 6515. Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities
 
 **(a) Regulations** The Senate Committee on Rules and Administration shall promulgate regulations—
 
@@ -475,13 +475,13 @@ The Secretary of the Senate shall remit all fees required by subsection (a)(2) t
 
 **(d) Effective date**
 
-The provision 1
+The provision 1
 
-<sup>1</sup>  So in original. Probably should be “provisions”.
+<sup>1</sup> So in original. Probably should be “provisions”.
 
 of this section shall take effect on April 9, 1992.
 
-(Pub. L. 102–392, title III, § 314, Oct. 6, 1992, 106 Stat. 1723.)
+(Pub. L. 102–392, title III, § 314, Oct. 6, 1992, 106 Stat. 1723.)
 
 **Editorial Notes**
 
@@ -491,11 +491,11 @@ Section was formerly classified to section 121e of this title prior to editorial
 
 Section is from the Legislative Branch Appropriations Act, 1993.
 
-### § 6516. Sale of waste paper and condemned furniture
+### § 6516. Sale of waste paper and condemned furniture
 
 It shall be the duty of the Secretary and Sergeant at Arms of the Senate to cause to be sold all waste paper and useless documents and condemned furniture that may accumulate, in their respective departments or offices, under the direction of the Committee on Rules and Administration of the Senate and cover the proceeds thereof into the Treasury.
 
-(Aug. 7, 1882, ch. 433, § 1, 22 Stat. 337; May 29, 1928, ch. 901, § 1(122), 45 Stat. 995; Pub. L. 104–186, title II, § 204(62), Aug. 20, 1996, 110 Stat. 1739.)
+(Aug. 7, 1882, ch. 433, § 1, 22 Stat. 337; May 29, 1928, ch. 901, § 1(122), 45 Stat. 995; Pub. L. 104–186, title II, § 204(62), Aug. 20, 1996, 110 Stat. 1739.)
 
 **Editorial Notes**
 
@@ -511,23 +511,23 @@ Section was formerly classified to section 117 of this title prior to editorial 
 
 **Report on Sales Discontinued**
 
-Act May 29, 1928, ch. 901, § 1(122), 45 Stat. 995, provided for the discontinuance of reports on waste paper, etc., as follows: “122. Reports by the Clerk and Doorkeeper of the House and the Secretary and Sergeant at Arms of the Senate of the sales of waste paper and useless documents and condemned furniture, and so forth.”
+Act May 29, 1928, ch. 901, § 1(122), 45 Stat. 995, provided for the discontinuance of reports on waste paper, etc., as follows: “122. Reports by the Clerk and Doorkeeper of the House and the Secretary and Sergeant at Arms of the Senate of the sales of waste paper and useless documents and condemned furniture, and so forth.”
 
-### § 6517. Receipts from sale of used or surplus furniture and furnishings of Senate
+### § 6517. Receipts from sale of used or surplus furniture and furnishings of Senate
 
 On and after October 1, 1982, receipts from the sale of used or surplus furniture and furnishings shall be deposited in the United States Treasury for credit to the appropriation for “Senate Office Buildings” under the heading “Architect of the Capitol.”
 
-(Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189.)
+(Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 117b–1 of this title prior to editorial reclassification and renumbering as this section, and to section 170a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was formerly classified to section 117b–1 of this title prior to editorial reclassification and renumbering as this section, and to section 170a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on title I (2d proviso under “Senate Office Buildings”) of S. 2939, as reported Sept. 22, 1982, which was enacted into law by Pub. L. 97–276.
 
-### § 6518. Workers compensation payments
+### § 6518. Workers compensation payments
 
 **(a) In general**
 
@@ -537,9 +537,9 @@ Available balances of expired appropriations which are subject to disbursement b
 
 This section shall apply with respect to appropriations for fiscal year 2014, and each fiscal year thereafter.
 
-(Pub. L. 113–76, div. I, title I, § 1, Jan. 17, 2014, 128 Stat. 420.)
+(Pub. L. 113–76, div. I, title I, § 1, Jan. 17, 2014, 128 Stat. 420.)
 
-### § 6519. McCain-Mansfield and SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowships Programs
+### § 6519. McCain-Mansfield and SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowships Programs
 
 **(a) Definitions** In this section—
 
@@ -579,7 +579,7 @@ There are authorized to be appropriated to the Fund for fiscal year 2023, and ea
 
 The payment of compensation to any individual serving in a fellowship under the Fellowships Programs by the Sergeant at Arms shall not be included for purposes of any limitation on staffing levels of the Office of the Sergeant at Arms.
 
-(Pub. L. 117–328, div. I, title I, § 102, Dec. 29, 2022, 136 Stat. 4917.)
+(Pub. L. 117–328, div. I, title I, § 102, Dec. 29, 2022, 136 Stat. 4917.)
 
 **Editorial Notes**
 
@@ -591,9 +591,9 @@ Senate Resolution 442 (117th Congress), agreed to November 4, 2021, and Senate R
 
 ### Part A—Organization and Personnel
 
-#### § 6531. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776
+#### § 6531. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776
 
-Section, Pub. L. 88–426, title II, § 203(g), Aug. 14, 1964, 78 Stat. 415; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, related to compensation of Secretary of Senate.
+Section, Pub. L. 88–426, title II, § 203(g), Aug. 14, 1964, 78 Stat. 415; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, related to compensation of Secretary of Senate.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -603,13 +603,13 @@ Repeal effective on the later of the first day of the first applicable pay perio
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, which provided that the increase in the Secretary’s rate of compensation to $40,000 was effective July 1, 1975, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
+Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, which provided that the increase in the Secretary’s rate of compensation to $40,000 was effective July 1, 1975, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
-#### § 6532. Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer
+#### § 6532. Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer
 
 For any period during which both the Secretary and the Assistant Secretary of the Senate are unable (because of death, resignation, or disability) to discharge such Secretary’s duties as disbursing officer of the Senate, the Financial Clerk of the Senate shall be deemed to be the successor of such Secretary as disbursing officer.
 
-(Mar. 3, 1926, ch. 44, § 1, 44 Stat. 162; Pub. L. 91–105, § 2, Oct. 31, 1969, 83 Stat. 169; Pub. L. 91–382, Aug. 18, 1970, 84 Stat. 810; Pub. L. 92–310, title II, § 220(g), June 6, 1972, 86 Stat. 204; Pub. L. 98–367, title I, § 2(a), July 17, 1984, 98 Stat. 474.)
+(Mar. 3, 1926, ch. 44, § 1, 44 Stat. 162; Pub. L. 91–105, § 2, Oct. 31, 1969, 83 Stat. 169; Pub. L. 91–382, Aug. 18, 1970, 84 Stat. 810; Pub. L. 92–310, title II, § 220(g), June 6, 1972, 86 Stat. 204; Pub. L. 98–367, title I, § 2(a), July 17, 1984, 98 Stat. 474.)
 
 **Editorial Notes**
 
@@ -637,11 +637,11 @@ Pub. L. 91–382 provided that the amendment made by Pub. L. 91–382 is effecti
 
 Secretary of the Senate to be considered as disabled for purposes of this section only during such period of time as the Majority and Minority Leaders and the President pro tempore of the Senate certify jointly to the Senate that he is unable to perform his duties, see section 6533 of this title.
 
-#### § 6533. Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status
+#### § 6533. Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status
 
 In the event of the death, resignation, or disability of the Secretary of the Senate, the Assistant Secretary of the Senate shall act as Secretary in carrying out the duties and responsibilities of that office in all matters until such time as a new Secretary shall have been elected and qualified or such disability shall have been ended. For purposes of this section and section 6532 of this title, the Secretary of the Senate shall be considered as disabled only during such period of time as the Majority and Minority Leaders and the President pro tempore of the Senate certify jointly to the Senate that the Secretary is unable to perform his duties. In the event that the Secretary of the Senate is absent or is to be absent for reasons other than disability (as provided in this section), and makes a written designation that he is or will be so absent, the Assistant Secretary shall act during such absence as the Secretary in carrying out the duties and responsibilities of the office in all matters. The designation may be revoked in writing at any time by the Secretary, and is revoked whenever the Secretary making the designation dies, resigns, or is considered disabled in accordance with this section.
 
-(Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 635; Pub. L. 93–371, § 1, Aug. 13, 1974, 88 Stat. 427; Pub. L. 98–367, title I, § 2(b), July 17, 1984, 98 Stat. 474.)
+(Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 635; Pub. L. 93–371, § 1, Aug. 13, 1974, 88 Stat. 427; Pub. L. 98–367, title I, § 2(b), July 17, 1984, 98 Stat. 474.)
 
 **Editorial Notes**
 
@@ -655,11 +655,11 @@ Section was formerly classified to section 64b of this title prior to editorial 
 
 1974—Pub. L. 93–371 inserted provisions relating to the absence of Secretary of Senate for reasons other than disability and the written designation of such absent status.
 
-#### § 6534. Compensation of Assistant Secretary of Senate
+#### § 6534. Compensation of Assistant Secretary of Senate
 
 The Assistant Secretary of the Senate may be paid at a maximum annual rate of compensation not to exceed $39,000.
 
-(Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.)
+(Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.)
 
 **Editorial Notes**
 
@@ -669,7 +669,7 @@ Section was formerly classified to section 61a–3 of this title prior to editor
 
 **Amendments**
 
-2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
+2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
 
 1975—Pub. L. 94–59, which substituted “$39,000” for “$37,620”, effective July 1, 1975, was repealed by Pub. L. 116–94. See above.
 
@@ -693,11 +693,11 @@ Adjustment in compensation by Pub. L. 93–371 not to supersede order of Preside
 
 Increases in compensation of Assistant Secretary of the Senate under authority of Federal Salary Act of 1967 (Pub. L. 90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see section 4571 of this title, and Salary Directives of President pro tempore of the Senate, set out as notes under that section.
 
-#### § 6535. Compensation of Parliamentarian of Senate
+#### § 6535. Compensation of Parliamentarian of Senate
 
 The Parliamentarian of the Senate may be paid at a maximum annual rate of compensation not to exceed $39,000.
 
-(Aug. 5, 1955, ch. 568, 69 Stat. 499; June 27, 1956, ch. 453, 70 Stat. 356; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.)
+(Aug. 5, 1955, ch. 568, 69 Stat. 499; June 27, 1956, ch. 453, 70 Stat. 356; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.)
 
 **Editorial Notes**
 
@@ -707,7 +707,7 @@ Section was formerly classified to section 61b of this title prior to editorial 
 
 **Amendments**
 
-2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
+2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
 
 1975—Pub. L. 94–59, which substituted “$39,000” for “$37,620”, effective July 1, 1975, was repealed by Pub. L. 116–94. See above.
 
@@ -733,11 +733,11 @@ Increases in compensation for Senate officers and employees under authority of F
 
 Pub. L. 86–213, Sept. 1, 1959, 73 Stat. 443, authorized Secretary of Senate to fix compensation of Assistant Parliamentarian, on and after Sept. 1, 1959, at not to exceed $7,620 basic per annum. See section 6539 of this title.
 
-#### § 6536. Compensation of Financial Clerk of Senate
+#### § 6536. Compensation of Financial Clerk of Senate
 
 The Financial Clerk of the Senate may be paid at a maximum annual rate of compensation not to exceed $39,000.
 
-(Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.)
+(Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.)
 
 **Editorial Notes**
 
@@ -747,7 +747,7 @@ Section was formerly classified to section 64a–1 of this title prior to editor
 
 **Amendments**
 
-2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
+2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
 
 1975—Pub. L. 94–59, which substituted “$39,000” for “$37,620”, effective July 1, 1975, was repealed by Pub. L. 116–94. See above.
 
@@ -769,9 +769,9 @@ Adjustment in compensation by Pub. L. 93–371 not to supersede order of Preside
 
 Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 4571 of this title.
 
-#### § 6537. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775
+#### § 6537. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775
 
-Section, Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, related to compensation of Assistants to Majority and Minority in Office of Secretary of Senate.
+Section, Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, related to compensation of Assistants to Majority and Minority in Office of Secretary of Senate.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -781,13 +781,13 @@ Repeal effective on the later of the first day of the first applicable pay perio
 
 **Effective Date**
 
-Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, which provided that this section was effective July 1, 1975, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
+Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, which provided that this section was effective July 1, 1975, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
-#### § 6538. Employment of additional administrative assistants
+#### § 6538. Employment of additional administrative assistants
 
 The Secretary of the Senate is authorized to employ such administrative assistants as may be necessary in order to carry out the provisions of this Act under the jurisdiction of the Secretary.
 
-(Aug. 2, 1946, ch. 753, title II, § 244, 60 Stat. 839; Pub. L. 104–186, title II, § 204(18), Aug. 20, 1996, 110 Stat. 1732.)
+(Aug. 2, 1946, ch. 753, title II, § 244, 60 Stat. 839; Pub. L. 104–186, title II, § 204(18), Aug. 20, 1996, 110 Stat. 1732.)
 
 **Editorial Notes**
 
@@ -809,11 +809,11 @@ Section was formerly classified to section 74b of this title prior to editorial 
 
 Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under section 4301 of this title.
 
-#### § 6539. Abolition of statutory positions in Office of Secretary of Senate; Secretary’s authority to establish and fix compensation for positions
+#### § 6539. Abolition of statutory positions in Office of Secretary of Senate; Secretary’s authority to establish and fix compensation for positions
 
 Effective October 1, 1981, all statutory positions in the Office of the Secretary (other than the positions of the Secretary of the Senate, Assistant Secretary of the Senate, Parliamentarian, Financial Clerk, and Director of the Office of Classified National Security Information) are abolished, and in lieu of the positions hereby abolished the Secretary of the Senate is authorized to establish such number of positions as he deems appropriate and appoint and fix the compensation of employees to fill the positions so established; except that the annual rate of compensation payable to any employee appointed to fill any position established by the Secretary of the Senate shall not, for any period of time, be in excess of $1,000 less than the annual rate of compensation of the Secretary of the Senate for that period of time; and except that nothing in this section shall be construed to affect any position authorized by statute, if the compensation for such position is to be paid from the contingent fund of the Senate.
 
-(Pub. L. 97–51, § 114, Oct. 1, 1981, 95 Stat. 963.)
+(Pub. L. 97–51, § 114, Oct. 1, 1981, 95 Stat. 963.)
 
 **Editorial Notes**
 
@@ -827,7 +827,7 @@ Section was formerly classified to section 61a–11 of this title prior to edito
 
 Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 4571 of this title.
 
-#### § 6540. Adjustment of rate of compensation by Secretary of Senate
+#### § 6540. Adjustment of rate of compensation by Secretary of Senate
 
 Any specific rate of compensation established by law, as such rate has been increased or may hereafter be increased by or pursuant to law, for any position under the jurisdiction of the Secretary shall be considered as the maximum rate of compensation for that position, and the Secretary is authorized to adjust the rate of compensation of an individual occupying any such position to a rate not exceeding such maximum rate.
 
@@ -845,11 +845,11 @@ Section was formerly classified to section 61c–1 of this title prior to editor
 
 Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see section 4571 of this title, and Salary Directives of President pro tempore of the Senate, set out as notes under that section.
 
-#### § 6541. Professional archivist; Secretary’s authority to obtain services from General Services Administration
+#### § 6541. Professional archivist; Secretary’s authority to obtain services from General Services Administration
 
 For each fiscal year (beginning with the fiscal year which ends September 30, 1982), the Secretary of the Senate is authorized to expend from the contingent fund of the Senate such amount as may be necessary to enable the Secretary to obtain from the General Services Administration the services of a professional archivist. Such services shall be obtained on a reimbursable basis and shall not be obtained except with the consent of the General Services Administration and the Committee on Rules and Administration.
 
-(Pub. L. 97–92, title I, § 125, Dec. 15, 1981, 95 Stat. 1198.)
+(Pub. L. 97–92, title I, § 125, Dec. 15, 1981, 95 Stat. 1198.)
 
 **Editorial Notes**
 
@@ -861,9 +861,9 @@ Section was formerly classified to section 61b–3 of this title prior to editor
 
 **Reimbursement of Archivist of the United States for Expenditures for Project To Provide for Preservation of Records of Continuing Value of Senate; Payment, etc., of Amounts**
 
-Pub. L. 97–257, title I, § 107, Sept. 10, 1982, 96 Stat. 850, provided that for the fiscal year ending Sept. 30, 1982, and for each of the next three succeeding fiscal years, the Secretary of the Senate was authorized to pay to the General Services Administration such amounts, not to exceed $300,000, needed to reimburse the Archivist of the United States for certain expenditures made to conduct a project to provide for the proper preservation of the Senate’s records of continuing value.
+Pub. L. 97–257, title I, § 107, Sept. 10, 1982, 96 Stat. 850, provided that for the fiscal year ending Sept. 30, 1982, and for each of the next three succeeding fiscal years, the Secretary of the Senate was authorized to pay to the General Services Administration such amounts, not to exceed $300,000, needed to reimburse the Archivist of the United States for certain expenditures made to conduct a project to provide for the proper preservation of the Senate’s records of continuing value.
 
-#### § 6542. Employees of Senate Disbursing Office; designation by Secretary of Senate to administer oaths and affirmations
+#### § 6542. Employees of Senate Disbursing Office; designation by Secretary of Senate to administer oaths and affirmations
 
 The Secretary of the Senate is on and after November 1, 1973, authorized to designate, in writing, employees of the Disbursing Office of the Senate to administer oaths and affirmations, with respect to matters relating to that Office, authorized or required by law or rules or orders of the Senate (including the oath of office required by section 3331 of title 5). During any period in which he is so designated, any such employee may administer such oaths and affirmations.
 
@@ -875,7 +875,7 @@ The Secretary of the Senate is on and after November 1, 1973, authorized to desi
 
 Section was formerly classified to section 64–1 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 6543. Designation of reporters
+#### § 6543. Designation of reporters
 
 The reporters of debates in the office of the Secretary of the Senate are hereby designated the official reporters of debates of the Senate.
 
@@ -887,11 +887,11 @@ The reporters of debates in the office of the Secretary of the Senate are hereby
 
 Section was formerly classified to section 126–2 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 6544. Substitute reporters of debates and expert transcribers; temporary reporters of debates and expert transcribers; payments from Senate contingent fund
+#### § 6544. Substitute reporters of debates and expert transcribers; temporary reporters of debates and expert transcribers; payments from Senate contingent fund
 
 The Secretary of the Senate is on and after June 5, 1981, authorized to employ, by contract or otherwise, substitute reporters of debates and expert transcribers at daily rates of compensation, or temporary reporters of debates and expert transcribers at annual rates of compensation; no temporary reporters of debates or expert transcribers may be employed under authority of this provision for more than ninety days in any fiscal year; and payments made under authority of this section shall be made from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.
 
-(Pub. L. 89–90, July 27, 1965, 79 Stat. 266; Pub. L. 97–12, title I, § 105, June 5, 1981, 95 Stat. 61.)
+(Pub. L. 89–90, July 27, 1965, 79 Stat. 266; Pub. L. 97–12, title I, § 105, June 5, 1981, 95 Stat. 61.)
 
 **Editorial Notes**
 
@@ -907,7 +907,7 @@ Section was formerly classified to section 126b of this title prior to editorial
 
 ### Part B—General Powers and Duties
 
-#### § 6561. Advance payments by Secretary of Senate
+#### § 6561. Advance payments by Secretary of Senate
 
 **(a) Authorization**
 
@@ -921,7 +921,7 @@ An advance payment authorized by subsection (a) shall be made in accordance with
 
 The authority granted by subsection (a) shall not take effect until regulations are issued pursuant to subsection (b).
 
-(Pub. L. 105–55, title I, § 1, Oct. 7, 1997, 111 Stat. 1179.)
+(Pub. L. 105–55, title I, § 1, Oct. 7, 1997, 111 Stat. 1179.)
 
 **Editorial Notes**
 
@@ -931,11 +931,11 @@ Section was formerly classified to section 68e of this title prior to editorial 
 
 Section is from the Congressional Operations Appropriations Act, 1998, which is title I of the Legislative Branch Appropriations Act, 1998.
 
-#### § 6562. Transfers of funds by Secretary of Senate; approval of Committee on Appropriations
+#### § 6562. Transfers of funds by Secretary of Senate; approval of Committee on Appropriations
 
 During any fiscal year (commencing with the fiscal year beginning October 1, 1982) the Secretary of the Senate is authorized to make such transfers between appropriations of funds available for disbursement by him during such year, subject to the approval of the Committee on Appropriations of the Senate.
 
-(Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189.)
+(Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189.)
 
 **Editorial Notes**
 
@@ -951,11 +951,11 @@ Section is based on section 104 of S. 2939, Ninety-seventh Congress, 2d Session,
 
 Provisions authorizing Secretary of Senate, as Disbursing Officer of Senate, to make such transfers between appropriations of funds available for disbursement by him for specific fiscal years, as he deems appropriate, subject to customary reprograming procedures of Senate Committee on Appropriations were contained in the following appropriation acts:
 
-Pub. L. 97–51, § 113, Oct. 1, 1981, 95 Stat. 963.
+Pub. L. 97–51, § 113, Oct. 1, 1981, 95 Stat. 963.
 
-Pub. L. 97–12, title I, § 107, June 5, 1981, 95 Stat. 62.
+Pub. L. 97–12, title I, § 107, June 5, 1981, 95 Stat. 62.
 
-#### § 6563. Payment of certain expenses
+#### § 6563. Payment of certain expenses
 
 **(a) In general**
 
@@ -965,7 +965,7 @@ Subject to the approval of the Committee on Appropriations of the Senate, if in 
 
 This section shall apply to fiscal year 2012 and each fiscal year thereafter.
 
-(Pub. L. 112–74, div. G, title I, § 1, Dec. 23, 2011, 125 Stat. 1118.)
+(Pub. L. 112–74, div. G, title I, § 1, Dec. 23, 2011, 125 Stat. 1118.)
 
 **Editorial Notes**
 
@@ -975,11 +975,11 @@ Section was formerly classified to section 68f of this title prior to editorial 
 
 Section is from the Legislative Branch Appropriations Act, 2012, which is div. G of the Consolidated Appropriations Act, 2012.
 
-#### § 6564. Travel expenses of Secretary of Senate; advancement of travel funds to designated employees
+#### § 6564. Travel expenses of Secretary of Senate; advancement of travel funds to designated employees
 
 For the purpose of carrying out his duties, the Secretary of the Senate is authorized to incur official travel expenses. The Secretary of the Senate is authorized to advance, in his discretion, to any designated employee under his jurisdiction, such sums as may be necessary, not exceeding $1,000, to defray official travel expenses in assisting the Secretary in carrying out his duties. Any such employee shall, as soon as practicable, furnish to the Secretary a detailed voucher for such expenses incurred and make settlement with respect to any amount so advanced. Payments to carry out the provisions of this section shall be made from funds included in the appropriation “Miscellaneous Items” under the heading “Contingent Expenses of the Senate” upon vouchers approved by the Secretary of the Senate.
 
-(Pub. L. 94–59, title I, § 101, July 25, 1975, 89 Stat. 273; Pub. L. 95–94, title I, § 106, Aug. 5, 1977, 91 Stat. 661; Pub. L. 95–355, title I, § 101, Sept. 8, 1978, 92 Stat. 533; Pub. L. 97–12, title I, § 102, June 5, 1981, 95 Stat. 61; Pub. L. 98–367, title I, § 1, July 17, 1984, 98 Stat. 474.)
+(Pub. L. 94–59, title I, § 101, July 25, 1975, 89 Stat. 273; Pub. L. 95–94, title I, § 106, Aug. 5, 1977, 91 Stat. 661; Pub. L. 95–355, title I, § 101, Sept. 8, 1978, 92 Stat. 533; Pub. L. 97–12, title I, § 102, June 5, 1981, 95 Stat. 61; Pub. L. 98–367, title I, § 1, July 17, 1984, 98 Stat. 474.)
 
 **Editorial Notes**
 
@@ -1001,47 +1001,47 @@ Section was formerly classified to section 61a–9a of this title prior to edito
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–367, title I, § 1, July 17, 1984, 98 Stat. 474, provided that the amendment made by section 1 is effective with respect to fiscal years beginning on or after Oct. 1, 1983.
+Pub. L. 98–367, title I, § 1, July 17, 1984, 98 Stat. 474, provided that the amendment made by section 1 is effective with respect to fiscal years beginning on or after Oct. 1, 1983.
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–12, title I, § 102, June 5, 1981, 95 Stat. 61, provided that the amendment made by section 102 is effective with respect to fiscal years beginning on or after Oct. 1, 1980.
+Pub. L. 97–12, title I, § 102, June 5, 1981, 95 Stat. 61, provided that the amendment made by section 102 is effective with respect to fiscal years beginning on or after Oct. 1, 1980.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–355, title I, § 101, Sept. 8, 1978, 92 Stat. 533, provided that the amendment made by section 101 is effective with the fiscal year ending Sept. 30, 1978.
+Pub. L. 95–355, title I, § 101, Sept. 8, 1978, 92 Stat. 533, provided that the amendment made by section 101 is effective with the fiscal year ending Sept. 30, 1978.
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–94, title I, § 106, Aug. 5, 1977, 91 Stat. 661, provided that the amendment made by section 106 is effective Oct. 1, 1977.
+Pub. L. 95–94, title I, § 106, Aug. 5, 1977, 91 Stat. 661, provided that the amendment made by section 106 is effective Oct. 1, 1977.
 
-#### § 6565. Advancement by Secretary of Senate of travel funds to employees under his jurisdiction for Federal Election Campaign Act travel expenses
+#### § 6565. Advancement by Secretary of Senate of travel funds to employees under his jurisdiction for Federal Election Campaign Act travel expenses
 
 The Secretary of the Senate is hereafter authorized to advance, in his discretion, to any designated employee under his jurisdiction, such sums as may be necessary, not exceeding $1,500, to defray official travel expenses in assisting the Secretary in carrying out his duties under the Federal Election Campaign Act of 1971 [52 U.S.C. 30101 et seq.]. Any such employee shall, as soon as practicable, furnish to the Secretary a detailed voucher for such expenses incurred and make settlement with respect to any amount so advanced.
 
-(Pub. L. 92–607, ch. V, § 504, Oct. 31, 1972, 86 Stat. 1505.)
+(Pub. L. 92–607, ch. V, § 504, Oct. 31, 1972, 86 Stat. 1505.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Election Campaign Act of 1971, referred to in text, is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§ 30101 et seq.) of Title 52, Voting and Elections. For complete classification of this Act to the Code, see Tables.
+The Federal Election Campaign Act of 1971, referred to in text, is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§ 30101 et seq.) of Title 52, Voting and Elections. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
 Section was formerly classified to section 61a–9 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 6566. Authority to procure technical support and other services and incur travel expenses; payment of such expenses
+#### § 6566. Authority to procure technical support and other services and incur travel expenses; payment of such expenses
 
 For the purpose of carrying out his duties under the Federal Election Campaign Act of 1971 [52 U.S.C. 30101 et seq.], the Secretary of the Senate is authorized, from and after July 1, 1972, (1) to procure technical support services, (2) to procure the temporary or intermittent services of individual technicians, experts, or consultants, or organizations thereof, in the same manner and under the same conditions, to the extent applicable, as a standing committee of the Senate may procure such services under section 4301(i) of this title, (3) with the prior consent of the Government department or agency concerned and the Committee on Rules and Administration, to use on a reimbursable basis the services of personnel of any such department or agency, and (4) to incur official travel expenses. Payments to carry out the provisions of this paragraph shall be made from funds included in the appropriation “Miscellaneous Items” under the heading “Contingent Expenses of the Senate” upon vouchers approved by the Secretary of the Senate. All sums received by the Secretary under authority of the Federal Election Campaign Act of 1971 shall be covered into the Treasury as miscellaneous receipts.
 
-(Pub. L. 92–342, § 101, July 10, 1972, 86 Stat. 435.)
+(Pub. L. 92–342, § 101, July 10, 1972, 86 Stat. 435.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Election Campaign Act of 1971, referred to in text, is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§ 30101 et seq.) of Title 52, Voting and Elections. For complete classification of this Act to the Code, see Tables.
+The Federal Election Campaign Act of 1971, referred to in text, is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§ 30101 et seq.) of Title 52, Voting and Elections. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -1049,7 +1049,7 @@ Section was formerly classified to section 442 of this title prior to editorial 
 
 Section was enacted as part of Legislative Branch Appropriation Act, 1973.
 
-#### § 6567. Funds for Secretary of Senate to assist in proper discharge within United States of responsibilities to foreign parliamentary groups or other foreign officials
+#### § 6567. Funds for Secretary of Senate to assist in proper discharge within United States of responsibilities to foreign parliamentary groups or other foreign officials
 
 **(a) In general**
 
@@ -1063,7 +1063,7 @@ The provisions of subsection (a) shall be effective in the case of expenditures 
 
 Upon the written request of the Secretary of the Senate, and upon notification to the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) specified in the request, but not to exceed $15,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
 
-(Pub. L. 100–71, title I, § 2, July 11, 1987, 101 Stat. 423; Pub. L. 102–90, title I, § 4, Aug. 14, 1991, 105 Stat. 450; Pub. L. 105–18, title II, § 7003(a), June 12, 1997, 111 Stat. 192; Pub. L. 108–447, div. G, title I, § 6, Dec. 8, 2004, 118 Stat. 3170; Pub. L. 116–94, div. P, title XV, § 1501, Dec. 20, 2019, 133 Stat. 3209.)
+(Pub. L. 100–71, title I, § 2, July 11, 1987, 101 Stat. 423; Pub. L. 102–90, title I, § 4, Aug. 14, 1991, 105 Stat. 450; Pub. L. 105–18, title II, § 7003(a), June 12, 1997, 111 Stat. 192; Pub. L. 108–447, div. G, title I, § 6, Dec. 8, 2004, 118 Stat. 3170; Pub. L. 116–94, div. P, title XV, § 1501, Dec. 20, 2019, 133 Stat. 3209.)
 
 **Editorial Notes**
 
@@ -1087,9 +1087,9 @@ Section is from the Supplemental Appropriations Act, 1987.
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–18, title II, § 7003(b), June 12, 1997, 111 Stat. 192, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to appropriations for fiscal years beginning on or after October 1, 1996.”
+Pub. L. 105–18, title II, § 7003(b), June 12, 1997, 111 Stat. 192, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to appropriations for fiscal years beginning on or after October 1, 1996.”
 
-#### § 6568. Banking and financial transactions of Secretary of Senate
+#### § 6568. Banking and financial transactions of Secretary of Senate
 
 **(a) Reimbursement of banks for costs of clearing items for Senate**
 
@@ -1103,7 +1103,7 @@ The Secretary of the Senate is authorized to prescribe such regulations as he de
 
 Whenever an employee whose compensation is disbursed by the Secretary of the Senate becomes indebted to the Senate and such employee fails to pay such indebtedness, the Secretary of the Senate is authorized to withhold the amount of the indebtedness from any amount which is disbursed by him and which is due to, or on behalf of, such employee. Whenever an amount is withheld under this section, the appropriate account shall be credited in an amount equal to the amount so withheld.
 
-(Pub. L. 94–440, title I, § 104, Oct. 1, 1976, 90 Stat. 1443.)
+(Pub. L. 94–440, title I, § 104, Oct. 1, 1976, 90 Stat. 1443.)
 
 **Editorial Notes**
 
@@ -1113,21 +1113,21 @@ Section was formerly classified to section 60c–2a of this title prior to edito
 
 Section is from the Legislative Branch Appropriation Act, 1977.
 
-#### §§ 6569 to 6571. Repealed. Pub. L. 113–235, div. H, title I, § 1(a), Dec. 16, 2014, 128 Stat. 2525
+#### §§ 6569 to 6571. Repealed. Pub. L. 113–235, div. H, title I, § 1(a), Dec. 16, 2014, 128 Stat. 2525
 
-Section 6569, R.S. §§ 65, 66; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 316; Pub. L. 104–186, title II, § 204(55), Aug. 20, 1996, 110 Stat. 1738, related to advertisements for Senate stationery.
+Section 6569, R.S. §§ 65, 66; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 316; Pub. L. 104–186, title II, § 204(55), Aug. 20, 1996, 110 Stat. 1738, related to advertisements for Senate stationery.
 
-Section 6570, R.S. § 67; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 316, related to opening bids for stationery and awarding contracts.
+Section 6570, R.S. § 67; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 316, related to opening bids for stationery and awarding contracts.
 
-Section 6571, R.S. § 68; Pub. L. 104–186, title II, § 204(56), Aug. 20, 1996, 110 Stat. 1738, related to contracts for separate parts of Senate stationery.
+Section 6571, R.S. § 68; Pub. L. 104–186, title II, § 204(56), Aug. 20, 1996, 110 Stat. 1738, related to contracts for separate parts of Senate stationery.
 
-#### § 6572. Purchases of stationery and materials for folding
+#### § 6572. Purchases of stationery and materials for folding
 
 Purchases of stationery and materials for folding shall be made in accordance with section 4104 of this title.
 
 All contracts and bonds for purchases made under the authority of this section shall be filed with the Committee on Rules and Administration of the Senate.
 
-(Mar. 3, 1887, ch. 392, § 1, 24 Stat. 596; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814; Pub. L. 104–186, title II, § 204(58), Aug. 20, 1996, 110 Stat. 1738; Pub. L. 113–235, div. H, title I, § 1(b), Dec. 16, 2014, 128 Stat. 2525.)
+(Mar. 3, 1887, ch. 392, § 1, 24 Stat. 596; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814; Pub. L. 104–186, title II, § 204(58), Aug. 20, 1996, 110 Stat. 1738; Pub. L. 113–235, div. H, title I, § 1(b), Dec. 16, 2014, 128 Stat. 2525.)
 
 **Editorial Notes**
 
@@ -1147,13 +1147,13 @@ Section was formerly classified to section 112 of this title prior to editorial 
 
 **Effective Date of 1946 Amendment**
 
-Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
+Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
 
-#### § 6573. Senate revolving fund for stationery allowances; availability of unexpended balances; withdrawals
+#### § 6573. Senate revolving fund for stationery allowances; availability of unexpended balances; withdrawals
 
 There is established within the Contingent Fund of the Senate a revolving fund which shall consist of (1) the unexpended balance of the appropriation “Contingent Expenses, Senate, Stationery, fiscal year 1957”, (2) any amounts hereafter appropriated for stationery allowances of the President of the Senate, and for stationery for use of officers of the Senate and the Conference of the Majority and the Conference of the Minority of the Senate, and (3) any undeposited amounts heretofore received, and any amounts hereafter received as proceeds of sales by the stationery room of the Senate. Any moneys in the fund shall be available until expended for use in the same manner and for the same purposes as funds heretofore appropriated to the Contingent Fund of the Senate for stationery, except that (1) the balance of any amount appropriated for stationery for use of committees and officers of the Senate which remains unexpended at the end of any fiscal year and (2) allowances which are not available for obligation due to vacancies or waiver of entitlement thereto, shall be withdrawn from the revolving fund. Disbursements from the fund shall be made upon vouchers approved by the Secretary of the Senate, or his designee.
 
-(Pub. L. 85–58, ch. XI, June 21, 1957, 71 Stat. 188; Pub. L. 92–607, ch. V, § 506(*l*), formerly § 506(i), Oct. 31, 1972, 86 Stat. 1508, renumbered § 506(j), Pub. L. 95–391, title I, § 108(a), Sept. 30, 1978, 92 Stat. 773, renumbered § 506(k) and amended Pub. L. 96–304, title I, §§ 101, 112(b)(3), July 8, 1980, 94 Stat. 889, 892, renumbered § 506(*l*), Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189; Pub. L. 105–55, title I, § 7, Oct. 7, 1997, 111 Stat. 1181.)
+(Pub. L. 85–58, ch. XI, June 21, 1957, 71 Stat. 188; Pub. L. 92–607, ch. V, § 506(*l*), formerly § 506(i), Oct. 31, 1972, 86 Stat. 1508, renumbered § 506(j), Pub. L. 95–391, title I, § 108(a), Sept. 30, 1978, 92 Stat. 773, renumbered § 506(k) and amended Pub. L. 96–304, title I, §§ 101, 112(b)(3), July 8, 1980, 94 Stat. 889, 892, renumbered § 506(*l*), Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189; Pub. L. 105–55, title I, § 7, Oct. 7, 1997, 111 Stat. 1181.)
 
 **Editorial Notes**
 
@@ -1165,7 +1165,7 @@ Section was formerly classified to section 46a–1 of this title prior to editor
 
 1997—Pub. L. 105–55, which directed the amendment of section 1101 of Pub. L. 85–58 by inserting at end “Disbursements from the fund shall be made upon vouchers approved by the Secretary of the Senate, or his designee.”, was executed by making the insertion at the end of this section which is second par. under heading “contingent expenses of the senate” to reflect the probable intent of Congress.
 
-1980—Pub. L. 96–304, § 112(b)(3), substituted in cl. (2), “officers of the Senate and the Conference of the Majority and the Conference of the Minority of the Senate” for “committees and officers of the Senate”.
+1980—Pub. L. 96–304, § 112(b)(3), substituted in cl. (2), “officers of the Senate and the Conference of the Majority and the Conference of the Minority of the Senate” for “committees and officers of the Senate”.
 
 1972—Pub. L. 92–607 struck out “and of Senators” after “the President of the Senate”.
 
@@ -1173,17 +1173,17 @@ Section was formerly classified to section 46a–1 of this title prior to editor
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–304, title I, § 112(b), July 8, 1980, 94 Stat. 892, provided that the amendment made by section 112(b)(3) of Pub. L. 96–304 is effective as of the close of Feb. 28, 1981.
+Pub. L. 96–304, title I, § 112(b), July 8, 1980, 94 Stat. 892, provided that the amendment made by section 112(b)(3) of Pub. L. 96–304 is effective as of the close of Feb. 28, 1981.
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–607, ch. V, § 506(*l*), formerly § 506(i), Oct. 31, 1972, 86 Stat. 1508, renumbered § 506(j) by Pub. L. 95–391, title I, § 108(a), Sept. 30, 1978, 92 Stat. 773, renumbered § 506(k) by Pub. L. 96–304, title I, § 101, July 8, 1980, 94 Stat. 889, and renumbered § 506(*l*) by Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, provided that the amendment made by section 506(*l*) is effective Jan. 1, 1973.
+Pub. L. 92–607, ch. V, § 506(*l*), formerly § 506(i), Oct. 31, 1972, 86 Stat. 1508, renumbered § 506(j) by Pub. L. 95–391, title I, § 108(a), Sept. 30, 1978, 92 Stat. 773, renumbered § 506(k) by Pub. L. 96–304, title I, § 101, July 8, 1980, 94 Stat. 889, and renumbered § 506(*l*) by Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, provided that the amendment made by section 506(*l*) is effective Jan. 1, 1973.
 
 **Transfer of Moneys to Fund by Secretary of the Senate**
 
-Pub. L. 101–163, title I, § 6, Nov. 21, 1989, 103 Stat. 1045, provided that: “On and after the date this Act becomes law [Nov. 21, 1989], the Secretary of the Senate, subject to the approval of the Committee on Appropriations of the Senate, is authorized to provide up to $1,000,000 for capitalization purposes to the revolving fund established by the last paragraph under the heading ‘Contingent Expenses of the Senate’ appearing under the heading ‘SENATE’ in chapter XI of the Third Supplemental Appropriation Act, 1957 (2 U.S.C. 46a–1) [now 2 U.S.C. 6573], by transferring to such revolving fund any funds available from any Senate appropriation account, with respect to which he has disbursement authority, for the fiscal year in which the transfer is made (or for any preceding fiscal year) or which have been made available until expended; and any moneys so transferred shall be available for use in like manner and to the same extent as the moneys in such revolving fund which were not transferred thereto pursuant to this section.”
+Pub. L. 101–163, title I, § 6, Nov. 21, 1989, 103 Stat. 1045, provided that: “On and after the date this Act becomes law [Nov. 21, 1989], the Secretary of the Senate, subject to the approval of the Committee on Appropriations of the Senate, is authorized to provide up to $1,000,000 for capitalization purposes to the revolving fund established by the last paragraph under the heading ‘Contingent Expenses of the Senate’ appearing under the heading ‘SENATE’ in chapter XI of the Third Supplemental Appropriation Act, 1957 (2 U.S.C. 46a–1) [now 2 U.S.C. 6573], by transferring to such revolving fund any funds available from any Senate appropriation account, with respect to which he has disbursement authority, for the fiscal year in which the transfer is made (or for any preceding fiscal year) or which have been made available until expended; and any moneys so transferred shall be available for use in like manner and to the same extent as the moneys in such revolving fund which were not transferred thereto pursuant to this section.”
 
-#### § 6574. Senate Office of Public Records Revolving Fund
+#### § 6574. Senate Office of Public Records Revolving Fund
 
 **(a) Establishment**
 
@@ -1205,7 +1205,7 @@ The Secretary of the Senate is authorized to prescribe such regulations as may b
 
 To provide capital for the revolving fund, the Secretary of the Senate is authorized to transfer, from moneys appropriated for fiscal year 1990 to the account “Miscellaneous Items” in the contingent fund of the Senate, to the revolving fund such sum as he may determine necessary, not to exceed $30,000.
 
-(Pub. L. 101–163, title I, § 13, Nov. 21, 1989, 103 Stat. 1047.)
+(Pub. L. 101–163, title I, § 13, Nov. 21, 1989, 103 Stat. 1047.)
 
 **Editorial Notes**
 
@@ -1215,11 +1215,11 @@ Section was formerly classified to section 68–7 of this title prior to editori
 
 Section is from the Congressional Operations Appropriations Act, 1990, which is title I of the Legislative Branch Appropriations Act, 1990.
 
-#### § 6575. Fees for copies from Senate journals
+#### § 6575. Fees for copies from Senate journals
 
 The Secretary of the Senate is entitled, for transcribing and certifying extracts from the journal of the Senate or the executive Journal of the Senate when the injunction of secrecy has been removed, except when such transcripts are required by an officer of the United States in a matter relating to the duties of his office, to receive from the persons for whom such transcripts are prepared the sum of 10 cents for each sheet containing one hundred words.
 
-(R.S. § 71; Pub. L. 104–186, title II, § 204(61), Aug. 20, 1996, 110 Stat. 1738.)
+(R.S. § 71; Pub. L. 104–186, title II, § 204(61), Aug. 20, 1996, 110 Stat. 1738.)
 
 **Editorial Notes**
 
@@ -1227,13 +1227,13 @@ The Secretary of the Senate is entitled, for transcribing and certifying extract
 
 Section was formerly classified to section 114 of this title prior to editorial reclassification and renumbering as this section.
 
-R.S. § 71 derived from acts Sept. 15, 1789, ch. 14, § 6, 1 Stat. 69; Aug. 8, 1846, ch. 107, § 2, 9 Stat. 80; and Apr. 23, 1856, ch. 20, 11 Stat. 5.
+R.S. § 71 derived from acts Sept. 15, 1789, ch. 14, § 6, 1 Stat. 69; Aug. 8, 1846, ch. 107, § 2, 9 Stat. 80; and Apr. 23, 1856, ch. 20, 11 Stat. 5.
 
 **Amendments**
 
 1996—Pub. L. 104–186 substituted “Secretary of the Senate is” for “Secretary of the Senate and the Clerk of the House of Representatives, respectively, are” and struck out “or from the journal of the House of Representatives,” after “has been removed,”.
 
-#### § 6576. Senate Gift Shop
+#### § 6576. Senate Gift Shop
 
 **(a) Establishment**
 
@@ -1271,7 +1271,7 @@ Disbursements from the fund shall be made upon vouchers approved by the Secretar
 
 The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 102–392, title I, § 2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, § 107(a), Nov. 12, 2001, 115 Stat. 568; Pub. L. 110–39, § 1, June 21, 2007, 121 Stat. 231.)
+(Pub. L. 102–392, title I, § 2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, § 107(a), Nov. 12, 2001, 115 Stat. 568; Pub. L. 110–39, § 1, June 21, 2007, 121 Stat. 231.)
 
 **Editorial Notes**
 
@@ -1285,7 +1285,7 @@ Section was formerly classified to section 121d of this title prior to editorial
 
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
-In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
@@ -1297,13 +1297,13 @@ In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 o
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–68, title I, § 107(b), Nov. 12, 2001, 115 Stat. 569, provided that: “The amendments made by this section [amending this section] shall apply to fiscal years beginning before, on, or after the date of enactment of this Act [Nov. 12, 2001].”
+Pub. L. 107–68, title I, § 107(b), Nov. 12, 2001, 115 Stat. 569, provided that: “The amendments made by this section [amending this section] shall apply to fiscal years beginning before, on, or after the date of enactment of this Act [Nov. 12, 2001].”
 
 **Additional Capitalization**
 
-Pub. L. 103–283, title I, § 1, July 22, 1994, 108 Stat. 1426, provided that: “Effective on and after the date of enactment of this Act [July 22, 1994], the Secretary of the Senate, subject to the approval of the Committee on Appropriations of the Senate, is authorized to transfer up to $300,000 from any Senate appropriations account with respect to which the Secretary has disbursing authority to the revolving fund established under section 2(c) under the subheading ‘ADMINISTRATIVE PROVISIONS’ under the heading ‘SENATE’ in Public Law 102–392 (2 U.S.C. 121d(c)) [now 2 U.S.C. 6576(c)] to provide additional capitalization for such revolving fund. Any moneys so transferred shall be available for use in the same manner and to the same extent as the moneys otherwise in such revolving fund.”
+Pub. L. 103–283, title I, § 1, July 22, 1994, 108 Stat. 1426, provided that: “Effective on and after the date of enactment of this Act [July 22, 1994], the Secretary of the Senate, subject to the approval of the Committee on Appropriations of the Senate, is authorized to transfer up to $300,000 from any Senate appropriations account with respect to which the Secretary has disbursing authority to the revolving fund established under section 2(c) under the subheading ‘ADMINISTRATIVE PROVISIONS’ under the heading ‘SENATE’ in Public Law 102–392 (2 U.S.C. 121d(c)) [now 2 U.S.C. 6576(c)] to provide additional capitalization for such revolving fund. Any moneys so transferred shall be available for use in the same manner and to the same extent as the moneys otherwise in such revolving fund.”
 
-#### § 6577. Senate legislative information system
+#### § 6577. Senate legislative information system
 
 **(a) Development and implementation by Secretary of Senate**
 
@@ -1325,7 +1325,7 @@ The Committee on Rules and Administration of the Senate may prescribe such regul
 
 This section shall be effective for fiscal years beginning on or after October 1, 1996.
 
-(Pub. L. 104–197, title I, § 8, Sept. 16, 1996, 110 Stat. 2398.)
+(Pub. L. 104–197, title I, § 8, Sept. 16, 1996, 110 Stat. 2398.)
 
 **Editorial Notes**
 
@@ -1339,7 +1339,7 @@ Section was formerly classified to section 123e of this title prior to editorial
 
 Section is from the Congressional Operations Appropriations Act, 1997, which is title I of the Legislative Branch Appropriations Act, 1997.
 
-#### § 6578. Senate Leader’s Lecture Series
+#### § 6578. Senate Leader’s Lecture Series
 
 **(a) Establishment**
 
@@ -1357,7 +1357,7 @@ Payments for expenses of the lecture series shall be made on vouchers approved b
 
 This section is effective on and after October 1, 1997.
 
-(Pub. L. 105–275, title I, § 5, Oct. 21, 1998, 112 Stat. 2433.)
+(Pub. L. 105–275, title I, § 5, Oct. 21, 1998, 112 Stat. 2433.)
 
 **Editorial Notes**
 
@@ -1371,9 +1371,9 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 ### Part A—Organization and Personnel
 
-#### § 6591. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776
+#### § 6591. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776
 
-Section, Pub. L. 88–426, title II, § 203(g), Aug. 14, 1964, 78 Stat. 415; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, related to compensation of Sergeant at Arms and Doorkeeper of Senate.
+Section, Pub. L. 88–426, title II, § 203(g), Aug. 14, 1964, 78 Stat. 415; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, related to compensation of Sergeant at Arms and Doorkeeper of Senate.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1381,7 +1381,7 @@ Section, Pub. L. 88–426, title II, § 203(g), Aug. 14, 1964, 78 Stat. 415; P
 
 Repeal effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under section 282b of this title.
 
-#### § 6592. Limitation on compensation of Sergeant at Arms and Doorkeeper of Senate
+#### § 6592. Limitation on compensation of Sergeant at Arms and Doorkeeper of Senate
 
 The Sergeant at Arms and Doorkeeper of the Senate shall receive, directly or indirectly, no fees or other compensation or emolument whatever for performing the duties of the office, or in connection therewith, other than the salary prescribed by law.
 
@@ -1399,11 +1399,11 @@ Section was formerly classified to section 62 of this title prior to editorial r
 
 Provisions similar to those in this section were also contained in act Mar. 3, 1875, ch. 129, 18 Stat. 344.
 
-#### § 6593. Deputy Sergeant at Arms and Doorkeeper to act on death, resignation, disability, or absence of Sergeant at Arms and Doorkeeper of Senate
+#### § 6593. Deputy Sergeant at Arms and Doorkeeper to act on death, resignation, disability, or absence of Sergeant at Arms and Doorkeeper of Senate
 
 In the event of the death, resignation, or disability of the Sergeant at Arms and Doorkeeper of the Senate, the Deputy Sergeant at Arms and Doorkeeper shall act as Sergeant at Arms and Doorkeeper of the Senate in carrying out the duties and responsibilities of that office in all matters until such time as a new Sergeant at Arms and Doorkeeper of the Senate shall have been elected and qualified or such disability shall have been ended. For purposes of this section, the Sergeant at Arms and Doorkeeper of the Senate shall be considered as disabled only during such period of time as the Majority and Minority Leaders and the President Pro Tempore of the Senate certify jointly to the Senate that the Sergeant at Arms and Doorkeeper of the Senate is unable to perform his duties. In the event that the Sergeant at Arms and Doorkeeper of the Senate is absent, the Deputy Sergeant at Arms and Doorkeeper shall act during such absence as the Sergeant at Arms and Doorkeeper of the Senate in carrying out the duties and responsibilities of the office in all matters.
 
-(Pub. L. 97–51, § 128, Oct. 1, 1981, 95 Stat. 966.)
+(Pub. L. 97–51, § 128, Oct. 1, 1981, 95 Stat. 966.)
 
 **Editorial Notes**
 
@@ -1411,11 +1411,11 @@ In the event of the death, resignation, or disability of the Sergeant at Arms an
 
 Section was formerly classified to section 61e–3 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 6594. Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate
+#### § 6594. Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate
 
 Effective August 1, 1979, the Sergeant at Arms and Doorkeeper may fix the compensation of the Deputy Sergeant at Arms and Doorkeeper at an annual rate not to exceed the maximum annual rate of compensation of the Assistant Secretary of the Senate.
 
-(Pub. L. 94–226, § 1(a), Mar. 9, 1976, 90 Stat. 203; Pub. L. 96–38, title I, § 106(1), July 25, 1979, 93 Stat. 112.)
+(Pub. L. 94–226, § 1(a), Mar. 9, 1976, 90 Stat. 203; Pub. L. 96–38, title I, § 106(1), July 25, 1979, 93 Stat. 112.)
 
 **Editorial Notes**
 
@@ -1431,17 +1431,17 @@ Section was formerly classified to section 61e–1 of this title prior to editor
 
 **Change of Name**
 
-Pub. L. 94–226, § 1(c), Mar. 9, 1976, 90 Stat. 203, provided that: “Effective on the date of enactment of this resolution [Mar. 9, 1976] the title of the Procurement Officer, Auditor, and Deputy Sergeant at Arms is changed to Deputy Sergeant at Arms and Doorkeeper.”
+Pub. L. 94–226, § 1(c), Mar. 9, 1976, 90 Stat. 203, provided that: “Effective on the date of enactment of this resolution [Mar. 9, 1976] the title of the Procurement Officer, Auditor, and Deputy Sergeant at Arms is changed to Deputy Sergeant at Arms and Doorkeeper.”
 
 **Effective Date**
 
-Pub. L. 94–226, § 1(b), Mar. 9, 1976, 90 Stat. 203, provided that: “Subsection (a) [enacting this section] shall take effect on January 1, 1976, and, notwithstanding any other provision of law, any increase in compensation made under authority of such subsection may take effect on that date or any date thereafter as prescribed by the Sergeant at Arms and Doorkeeper at the time of making such increase.”
+Pub. L. 94–226, § 1(b), Mar. 9, 1976, 90 Stat. 203, provided that: “Subsection (a) [enacting this section] shall take effect on January 1, 1976, and, notwithstanding any other provision of law, any increase in compensation made under authority of such subsection may take effect on that date or any date thereafter as prescribed by the Sergeant at Arms and Doorkeeper at the time of making such increase.”
 
 **Authority of President Pro Tempore of the Senate To Raise or Adjust Rate of Compensation**
 
-Pub. L. 94–226, § 1(a), Mar. 9, 1976, 90 Stat. 203, provided in part that: “This subsection [this section] does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust the rate of compensation referred to in this subsection [this section] under section 4 of the Federal Pay Comparability Act of 1970 [section 4571 of this title].”
+Pub. L. 94–226, § 1(a), Mar. 9, 1976, 90 Stat. 203, provided in part that: “This subsection [this section] does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust the rate of compensation referred to in this subsection [this section] under section 4 of the Federal Pay Comparability Act of 1970 [section 4571 of this title].”
 
-#### § 6595. Compensation of Administrative Assistant to Sergeant at Arms and Doorkeeper of Senate
+#### § 6595. Compensation of Administrative Assistant to Sergeant at Arms and Doorkeeper of Senate
 
 Effective August 1, 1979—
 
@@ -1449,7 +1449,7 @@ Effective August 1, 1979—
 
 **(2)** Omitted
 
-(Pub. L. 96–38, title I, § 106(2), (3), July 25, 1979, 93 Stat. 112.)
+(Pub. L. 96–38, title I, § 106(2), (3), July 25, 1979, 93 Stat. 112.)
 
 **Editorial Notes**
 
@@ -1461,11 +1461,11 @@ Section consists of pars. (2) and (3) of section 106 of Pub. L. 96–38, Supplem
 
 Par. (2), relating to maximum annual rate of compensation of Executive Assistant to Sergeant at Arms and Doorkeeper of Senate, was omitted from the Code in view of section 6597 of this title which abolished all statutory positions in the Office of Sergeant at Arms and Doorkeeper of Senate, with specified exceptions, effective Oct. 1, 1981, and authorized Sergeant at Arms and Doorkeeper of Senate to appoint and fix compensation of such employees as appropriate.
 
-#### § 6596. Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on amount of compensation
+#### § 6596. Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on amount of compensation
 
 The Sergeant at Arms and Doorkeeper of the Senate, in carrying out the duties of his office, is authorized to employ personnel at daily rates of compensation; no individual so employed shall be paid at a daily rate of compensation which is in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate; and payments under authority of this section shall be made from the account, within the contingent fund of the Senate, for the “Sergeant at Arms and Doorkeeper of the Senate”, upon vouchers approved by the Sergeant at Arms and Doorkeeper of the Senate.
 
-(Pub. L. 98–367, title I, § 6, July 17, 1984, 98 Stat. 475.)
+(Pub. L. 98–367, title I, § 6, July 17, 1984, 98 Stat. 475.)
 
 **Editorial Notes**
 
@@ -1475,11 +1475,11 @@ Section was formerly classified to section 61f–9 of this title prior to editor
 
 Section is from the Congressional Operations Appropriation Act, 1985, which is title I of the Legislative Branch Appropriations Act, 1985.
 
-#### § 6597. Abolition of statutory positions in Office of Sergeant at Arms and Doorkeeper of Senate; authority to establish and fix compensation for positions
+#### § 6597. Abolition of statutory positions in Office of Sergeant at Arms and Doorkeeper of Senate; authority to establish and fix compensation for positions
 
 Effective October 1, 1981, all statutory positions in the Office of the Sergeant at Arms and Doorkeeper of the Senate (other than the positions of the Sergeant at Arms and Doorkeeper of the Senate, Deputy Sergeant at Arms and Doorkeeper, and Administrative Assistant) are abolished, and in lieu of the positions hereby abolished the Sergeant at Arms and Doorkeeper of the Senate is authorized to establish such number of positions as he deems appropriate and appoint and fix the compensation of employees to fill the positions so established; except that the annual rate of compensation payable to any employee appointed to fill any position established by the Sergeant at Arms and Doorkeeper of the Senate shall not, for any period of time, be in excess of $1,000 less than the annual rate of compensation of the Sergeant at Arms and Doorkeeper of the Senate for that period of time; and except that nothing in this section shall be construed to affect any position authorized by statute, if the compensation for such position is to be paid from the contingent fund of the Senate.
 
-(Pub. L. 97–51, § 116, Oct. 1, 1981, 95 Stat. 963.)
+(Pub. L. 97–51, § 116, Oct. 1, 1981, 95 Stat. 963.)
 
 **Editorial Notes**
 
@@ -1491,7 +1491,7 @@ Section was formerly classified to section 61f–7 of this title prior to editor
 
 **Transfer of Jurisdiction of Senate Chamber Public Address System From Architect of Capitol to Sergeant at Arms and Doorkeeper of Senate**
 
-Pub. L. 102–90, title I, § 8, Aug. 14, 1991, 105 Stat. 451, provided that:
+Pub. L. 102–90, title I, § 8, Aug. 14, 1991, 105 Stat. 451, provided that:
 
 > **“(a)** Effective October 1, 1991, the jurisdiction and control of the Senate chamber public address system is transferred from the Architect of the Capitol to the Sergeant at Arms and Doorkeeper of the Senate. In the case of any employee of the Architect of the Capitol transferred during fiscal year 1992 to the Sergeant at Arms and Doorkeeper of the Senate as an audio operator—
 
@@ -1503,7 +1503,7 @@ Pub. L. 102–90, title I, § 8, Aug. 14, 1991, 105 Stat. 451, provided that:
 
 **Transfer of Jurisdiction of Elevators in Capitol Building Under Control of Senate From Architect of Capitol to Sergeant at Arms and Doorkeeper of Senate**
 
-Pub. L. 102–90, title I, § 9, Aug. 14, 1991, 105 Stat. 452, provided that:
+Pub. L. 102–90, title I, § 9, Aug. 14, 1991, 105 Stat. 452, provided that:
 
 > **“(a)** Subject to subsection (b), those employees of the Architect of the Capitol engaged in operating elevators in that part of the United States Capitol Building under the control and jurisdiction of the United States Senate, together with the elevator operating functions performed by such employees, effective October 1, 1991, shall be transferred to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate.
 
@@ -1513,11 +1513,11 @@ Pub. L. 102–90, title I, § 9, Aug. 14, 1991, 105 Stat. 452, provided that:
 
 Increases in compensation for Senate officers and employees under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 4571 of this title.
 
-#### § 6598. Designation by Sergeant at Arms and Doorkeeper of Senate of persons to approve vouchers for payment of moneys
+#### § 6598. Designation by Sergeant at Arms and Doorkeeper of Senate of persons to approve vouchers for payment of moneys
 
 The Sergeant at Arms and Doorkeeper of the Senate (hereinafter in this section referred to as the “Sergeant at Arms”) may designate one or more employees in the Office of the Sergeant at Arms and Doorkeeper of the Senate to approve, on his behalf, any voucher for payment of moneys, payroll action, or personnel action which the Sergeant at Arms is authorized to approve. Whenever the Sergeant at Arms makes a designation under the authority of the preceding sentence, he shall immediately notify the Committee on Rules and Administration in writing of the designation, and thereafter any approval of any voucher for payment of moneys, payroll action, or personnel action by an employee so designated shall (until such designation is revoked and the Sergeant at Arms notifies the Committee on Rules and Administration in writing of the revocation) be deemed and held to be approved by the Sergeant at Arms for all intents and purposes.
 
-(Pub. L. 98–181, title I, § 1201, Nov. 30, 1983, 97 Stat. 1289; Pub. L. 116–344, § 1, Jan. 13, 2021, 134 Stat. 5141.)
+(Pub. L. 98–181, title I, § 1201, Nov. 30, 1983, 97 Stat. 1289; Pub. L. 116–344, § 1, Jan. 13, 2021, 134 Stat. 5141.)
 
 **Editorial Notes**
 
@@ -1531,7 +1531,7 @@ Section is from the Supplemental Appropriations Act, 1984.
 
 2021—Pub. L. 116–344 substituted “on his behalf, any voucher for payment of moneys, payroll action, or personnel action” for “on his behalf, all vouchers, for payment of moneys,” and “approval of any voucher for payment of moneys, payroll action, or personnel action” for “approval of any voucher, for payment of moneys,”.
 
-#### § 6599. Use by Sergeant at Arms and Doorkeeper of Senate of individual consultants or organizations, and department and agency personnel
+#### § 6599. Use by Sergeant at Arms and Doorkeeper of Senate of individual consultants or organizations, and department and agency personnel
 
 For each fiscal year (beginning with the fiscal year which ends September 30, 1982), the Sergeant at Arms and Doorkeeper of the Senate is hereby authorized to expend from the account for the Sergeant at Arms and Doorkeeper of the Senate, within the contingent fund of the Senate, an amount not to exceed $300,000:
 
@@ -1541,7 +1541,7 @@ For each fiscal year (beginning with the fiscal year which ends September 30, 19
 
 Payments made under this section shall be made upon vouchers approved by the Sergeant at Arms and Doorkeeper of the Senate.
 
-(Pub. L. 97–51, § 117, Oct. 1, 1981, 95 Stat. 964; Pub. L. 97–257, title I, § 103, Sept. 10, 1982, 96 Stat. 849; Pub. L. 98–367, title I, § 7, July 17, 1984, 98 Stat. 475; Pub. L. 100–458, title I, § 7, Oct. 1, 1988, 102 Stat. 2162.)
+(Pub. L. 97–51, § 117, Oct. 1, 1981, 95 Stat. 964; Pub. L. 97–257, title I, § 103, Sept. 10, 1982, 96 Stat. 849; Pub. L. 98–367, title I, § 7, July 17, 1984, 98 Stat. 475; Pub. L. 100–458, title I, § 7, Oct. 1, 1988, 102 Stat. 2162.)
 
 **Editorial Notes**
 
@@ -1549,7 +1549,7 @@ Payments made under this section shall be made upon vouchers approved by the Ser
 
 Section was formerly classified to section 61f–8 of this title prior to editorial reclassification and renumbering as this section.
 
-In par. (1), “section 6101 of title 41” substituted for “section 5 of title 41, United States Code,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. (1), “section 6101 of title 41” substituted for “section 5 of title 41, United States Code,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -1561,7 +1561,7 @@ In par. (1), “section 6101 of title 41” substituted for “section 5 of titl
 
 ### Part B—General Powers and Duties
 
-#### § 6611. Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund
+#### § 6611. Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund
 
 **(a) In general**
 
@@ -1605,7 +1605,7 @@ The authority to transfer amounts under this paragraph shall apply with respect 
 
 There are authorized to be appropriated to the Fund such sums as are necessary for fiscal year 2022 and each fiscal year thereafter.
 
-(Pub. L. 101–520, title I, § 5, Nov. 5, 1990, 104 Stat. 2258; Pub. L. 117–103, div. I, title I, § 103, Mar. 15, 2022, 136 Stat. 505.)
+(Pub. L. 101–520, title I, § 5, Nov. 5, 1990, 104 Stat. 2258; Pub. L. 117–103, div. I, title I, § 103, Mar. 15, 2022, 136 Stat. 505.)
 
 **Editorial Notes**
 
@@ -1619,11 +1619,11 @@ Section is from the Congressional Operations Appropriations Act, 1991, which is 
 
 2022—Pub. L. 117–103 substituted “Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund” for “Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-#### § 6612. Travel expenses of Sergeant at Arms and Doorkeeper of Senate
+#### § 6612. Travel expenses of Sergeant at Arms and Doorkeeper of Senate
 
 For the purpose of carrying out his duties, the Sergeant at Arms and Doorkeeper of the Senate is authorized to incur official travel expenses during each fiscal year not to exceed the sums made available for such purpose under appropriations Acts. With the approval of the Sergeant at Arms and Doorkeeper of the Senate and in accordance with such regulations as may be promulgated by the Senate Committee on Rules and Administration, the Secretary of the Senate is authorized to advance to the Sergeant at Arms or to any designated employee under the jurisdiction of the Sergeant at Arms and Doorkeeper, such sums as may be necessary to defray official travel expenses incurred in carrying out the duties of the Sergeant at Arms and Doorkeeper. The receipt of any such sum so advanced to the Sergeant at Arms and Doorkeeper or to any designated employee shall be taken and passed by the accounting officers of the Government as a full and sufficient voucher; but it shall be the duty of the traveler, as soon as practicable, to furnish to the Secretary of the Senate a detailed voucher of the expenses incurred for the travel with respect to which the sum was so advanced, and make settlement with respect to such sum. Payments under this section shall be made from funds included in the appropriations account, within the contingent fund of the Senate, for the Sergeant at Arms and Doorkeeper of the Senate, upon vouchers approved by the Sergeant at Arms and Doorkeeper.
 
-(Pub. L. 94–303, title I, § 117, June 1, 1976, 90 Stat. 615; Pub. L. 95–391, title I, § 106, Sept. 30, 1978, 92 Stat. 772; Pub. L. 96–86, § 111(c), Oct. 12, 1979, 93 Stat. 661; Pub. L. 97–12, title I, § 108, June 5, 1981, 95 Stat. 62; Pub. L. 100–458, title I, § 6, Oct. 1, 1988, 102 Stat. 2161; Pub. L. 101–520, title I, § 6, Nov. 5, 1990, 104 Stat. 2258.)
+(Pub. L. 94–303, title I, § 117, June 1, 1976, 90 Stat. 615; Pub. L. 95–391, title I, § 106, Sept. 30, 1978, 92 Stat. 772; Pub. L. 96–86, § 111(c), Oct. 12, 1979, 93 Stat. 661; Pub. L. 97–12, title I, § 108, June 5, 1981, 95 Stat. 62; Pub. L. 100–458, title I, § 6, Oct. 1, 1988, 102 Stat. 2161; Pub. L. 101–520, title I, § 6, Nov. 5, 1990, 104 Stat. 2258.)
 
 **Editorial Notes**
 
@@ -1647,25 +1647,25 @@ Section was formerly classified to section 61f–1a of this title prior to edito
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–520, title I, § 6, Nov. 5, 1990, 104 Stat. 2258, provided that the amendment made by section 6 is effective in the case of fiscal years which begin after Sept. 30, 1990.
+Pub. L. 101–520, title I, § 6, Nov. 5, 1990, 104 Stat. 2258, provided that the amendment made by section 6 is effective in the case of fiscal years which begin after Sept. 30, 1990.
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–458, title I, § 6, Oct. 1, 1988, 102 Stat. 2161, provided that the amendment made by section 6 is effective with fiscal year ending Sept. 30, 1988.
+Pub. L. 100–458, title I, § 6, Oct. 1, 1988, 102 Stat. 2161, provided that the amendment made by section 6 is effective with fiscal year ending Sept. 30, 1988.
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–12, title I, § 108, June 5, 1981, 95 Stat. 62, provided that the amendment made by section 108 is effective with the fiscal year ending Sept. 30, 1981.
+Pub. L. 97–12, title I, § 108, June 5, 1981, 95 Stat. 62, provided that the amendment made by section 108 is effective with the fiscal year ending Sept. 30, 1981.
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–86, § 111(c), Oct. 12, 1979, 93 Stat. 661, provided that the amendment made by section 111(c) is effective with the fiscal year ending Sept. 30, 1980.
+Pub. L. 96–86, § 111(c), Oct. 12, 1979, 93 Stat. 661, provided that the amendment made by section 111(c) is effective with the fiscal year ending Sept. 30, 1980.
 
-#### § 6613. Advances to Sergeant at Arms of Senate for extraordinary expenses
+#### § 6613. Advances to Sergeant at Arms of Senate for extraordinary expenses
 
 The Secretary of the Senate on and after July 31, 1958, is authorized, in his discretion, to advance to the Sergeant at Arms of the Senate such sums as may be necessary, not exceeding $4,000, to meet any extraordinary expenses of the Senate.
 
-(Pub. L. 85–570, July 31, 1958, 72 Stat. 442; Pub. L. 94–440, title I, § 108, Oct. 1, 1976, 90 Stat. 1445; Pub. L. 95–26, title I, § 104, May 4, 1977, 91 Stat. 82.)
+(Pub. L. 85–570, July 31, 1958, 72 Stat. 442; Pub. L. 94–440, title I, § 108, Oct. 1, 1976, 90 Stat. 1445; Pub. L. 95–26, title I, § 104, May 4, 1977, 91 Stat. 82.)
 
 **Editorial Notes**
 
@@ -1679,13 +1679,13 @@ Section was formerly classified to section 65b of this title prior to editorial 
 
 1976—Pub. L. 94–440 substituted “$4,000 during any fiscal year” for “$2,000”.
 
-#### § 6614. Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum amount; vouchers
+#### § 6614. Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum amount; vouchers
 
 From funds available for any fiscal year (commencing with the fiscal year ending September 30, 1984), the Secretary of the Senate shall advance to the Sergeant at Arms and Doorkeeper of the Senate for the purpose of defraying office expenses such sums (for which the Sergeant at Arms and Doorkeeper shall be accountable) not in excess of $1,000 at any one time, as such Sergeant at Arms shall from time to time request; except that the aggregate of the sums so advanced during the fiscal year shall not exceed $10,000.
 
 In accordance with the provisions of this section, a detailed voucher shall be submitted to the Secretary of the Senate by such Sergeant at Arms whenever necessary, in order to replenish funds expended.
 
-(Pub. L. 98–51, title I, § 104, July 14, 1983, 97 Stat. 266.)
+(Pub. L. 98–51, title I, § 104, July 14, 1983, 97 Stat. 266.)
 
 **Editorial Notes**
 
@@ -1695,11 +1695,11 @@ Section was formerly classified to section 65d of this title prior to editorial 
 
 Section is from the Congressional Operations Appropriation Act, 1984, which is title I of the Legislative Branch Appropriation Act, 1984.
 
-#### § 6615. Deposit of moneys for credit to account within Senate contingent fund for “Sergeant at Arms and Doorkeeper of the Senate”
+#### § 6615. Deposit of moneys for credit to account within Senate contingent fund for “Sergeant at Arms and Doorkeeper of the Senate”
 
 Any provision of law which is enacted prior to October 1, 1983, and which directs the Sergeant at Arms and Doorkeeper of the Senate to deposit any moneys in the United States Treasury for credit to the account, within the contingent fund of the Senate, for “Miscellaneous Items”, or for “Automobiles and Maintenance” shall, on and after October 1, 1983, be deemed to direct him to deposit such moneys in the United States Treasury for credit to the account, within the contingent fund of the Senate, for the “Sergeant at Arms and Doorkeeper of the Senate”.
 
-(Pub. L. 98–181, title I, § 1202, Nov. 30, 1983, 97 Stat. 1289.)
+(Pub. L. 98–181, title I, § 1202, Nov. 30, 1983, 97 Stat. 1289.)
 
 **Editorial Notes**
 
@@ -1709,7 +1709,7 @@ Section was formerly classified to section 68–4 of this title prior to editori
 
 Section is from the Supplemental Appropriations Act, 1984.
 
-#### § 6616. Support services for Senate during emergency; memorandum of understanding with an executive agency
+#### § 6616. Support services for Senate during emergency; memorandum of understanding with an executive agency
 
 **(a) Authorization** Notwithstanding any other provision of law—
 
@@ -1727,7 +1727,7 @@ The Sergeant at Arms of the Senate may incur obligations and make expenditures f
 
 This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-(Pub. L. 107–117, div. B, § 902, Jan. 10, 2002, 115 Stat. 2316; Pub. L. 116–94, div. P, title XV, § 1502, Dec. 20, 2019, 133 Stat. 3209.)
+(Pub. L. 107–117, div. B, § 902, Jan. 10, 2002, 115 Stat. 2316; Pub. L. 116–94, div. P, title XV, § 1502, Dec. 20, 2019, 133 Stat. 3209.)
 
 **Editorial Notes**
 
@@ -1739,13 +1739,13 @@ Section is from the Emergency Supplemental Act, 2002, which is div. B of the Dep
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 116–94, § 1502(1)(A)(i), substituted “paragraph (3)” for “subsection (b)”.
+2019—Subsec. (a)(1). Pub. L. 116–94, § 1502(1)(A)(i), substituted “paragraph (3)” for “subsection (b)”.
 
-Subsec. (a)(3). Pub. L. 116–94, § 1502(1)(A)(ii)–(C), added par. (3).
+Subsec. (a)(3). Pub. L. 116–94, § 1502(1)(A)(ii)–(C), added par. (3).
 
-Subsec. (b). Pub. L. 116–94, § 1502(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Sergeant at Arms of the Senate may enter into a memorandum of understanding described in subsection (a)(1) consistent with the Senate Procurement Regulations.”
+Subsec. (b). Pub. L. 116–94, § 1502(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Sergeant at Arms of the Senate may enter into a memorandum of understanding described in subsection (a)(1) consistent with the Senate Procurement Regulations.”
 
-#### § 6617. Law enforcement authority of Sergeant-at-Arms and Doorkeeper of the Senate
+#### § 6617. Law enforcement authority of Sergeant-at-Arms and Doorkeeper of the Senate
 
 **(a) In general**
 
@@ -1763,7 +1763,7 @@ The Sergeant-at-Arms and Doorkeeper of the Senate shall have the same law enforc
 
 The Committee on Rules and Administration of the Senate shall have authority to prescribe regulations to carry out this section.
 
-(Pub. L. 111–145, § 8, Mar. 4, 2010, 124 Stat. 56.)
+(Pub. L. 111–145, § 8, Mar. 4, 2010, 124 Stat. 56.)
 
 **Editorial Notes**
 
@@ -1771,11 +1771,11 @@ The Committee on Rules and Administration of the Senate shall have authority to 
 
 Section was formerly classified to section 61f–14 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 6618. Data processing equipment, software, and services
+#### § 6618. Data processing equipment, software, and services
 
 Notwithstanding any other provision of law, the Sergeant at Arms, subject to the approval of the Committee on Rules and Administration, is hereafter authorized to enter into multi-year contracts for data processing equipment, software, and services.
 
-(Pub. L. 94–32, title I, June 12, 1975, 89 Stat. 182; Pub. L. 95–26, title I, § 103, May 4, 1977, 91 Stat. 82.)
+(Pub. L. 94–32, title I, June 12, 1975, 89 Stat. 182; Pub. L. 95–26, title I, § 103, May 4, 1977, 91 Stat. 82.)
 
 **Editorial Notes**
 
@@ -1789,7 +1789,7 @@ Section is from the Second Supplemental Appropriations Act, 1975.
 
 1977—Pub. L. 95–26 substituted “multi-year contracts for data processing equipment, software, and services” for “multi-year leases for automatic data processing equipment”.
 
-#### § 6619. Advance payments for computer programing services
+#### § 6619. Advance payments for computer programing services
 
 Notwithstanding any other provision of law, the Sergeant at Arms and Doorkeeper of the Senate, subject to the approval of the Committee on Rules and Administration, is on and after July 6, 1981, authorized to enter into contracts which provide for the making of advance payments for computer programing services.
 
@@ -1801,7 +1801,7 @@ Notwithstanding any other provision of law, the Sergeant at Arms and Doorkeeper 
 
 Section was formerly classified to section 123c–1 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 6620. Provision of services and equipment on a reimbursable basis
+#### § 6620. Provision of services and equipment on a reimbursable basis
 
 **(a) In general**
 
@@ -1819,7 +1819,7 @@ In the case of services or equipment provided under subsection (a) that were pro
 
 This section shall apply to fiscal year 2004 and each succeeding fiscal year.
 
-(Pub. L. 108–83, title I, § 9, Sept. 30, 2003, 117 Stat. 1013.)
+(Pub. L. 108–83, title I, § 9, Sept. 30, 2003, 117 Stat. 1013.)
 
 **Editorial Notes**
 
@@ -1829,7 +1829,7 @@ Section was formerly classified to section 61f–11 of this title prior to edito
 
 Section is from the Legislative Branch Appropriations Act, 2004.
 
-#### § 6621. Payment for telecommunications equipment and services; definitions
+#### § 6621. Payment for telecommunications equipment and services; definitions
 
 As used in sections 6621 to 6623 of this title, the term—
 
@@ -1837,7 +1837,7 @@ As used in sections 6621 to 6623 of this title, the term—
 
 **(2)** “user” means any Senator, Officer of the Senate, Committee, office, or entity provided telephone equipment and services by the Sergeant at Arms.
 
-(Pub. L. 100–123, § 1, Oct. 5, 1987, 101 Stat. 794.)
+(Pub. L. 100–123, § 1, Oct. 5, 1987, 101 Stat. 794.)
 
 **Editorial Notes**
 
@@ -1849,9 +1849,9 @@ Section was formerly classified to section 58a–1 of this title prior to editor
 
 **Effective Date**
 
-Pub. L. 100–123, § 4, Oct. 5, 1987, 101 Stat. 795, provided that: “This Act [enacting this section and sections 6622 and 6623 of this title] shall take effect on October 1, 1987.”
+Pub. L. 100–123, § 4, Oct. 5, 1987, 101 Stat. 795, provided that: “This Act [enacting this section and sections 6622 and 6623 of this title] shall take effect on October 1, 1987.”
 
-#### § 6622. Certification of telecommunications equipment and services as official
+#### § 6622. Certification of telecommunications equipment and services as official
 
 **(a) Regulations issued by Committee on Rules and Administration**
 
@@ -1873,7 +1873,7 @@ All moneys, derived from payments for telephone equipment and services provided 
 
 Nothing in sections 6621 to 6623 of this title shall be construed as limiting or otherwise affecting the authority of the Committee on Rules and Administration of the Senate to classify or reclassify telephone equipment and services provided to any user as equipment or services for which reimbursement may or may not be required.
 
-(Pub. L. 100–123, § 2, Oct. 5, 1987, 101 Stat. 794; Pub. L. 101–163, title I, § 3, Nov. 21, 1989, 103 Stat. 1044.)
+(Pub. L. 100–123, § 2, Oct. 5, 1987, 101 Stat. 794; Pub. L. 101–163, title I, § 3, Nov. 21, 1989, 103 Stat. 1044.)
 
 **Editorial Notes**
 
@@ -1891,11 +1891,11 @@ Section was formerly classified to section 58a–2 of this title prior to editor
 
 Section effective Oct. 1, 1987, see section 4 of Pub. L. 100–123, set out as a note under section 6621 of this title.
 
-#### § 6623. Report on telecommunications to Committee on Rules and Administration
+#### § 6623. Report on telecommunications to Committee on Rules and Administration
 
 The Sergeant at Arms shall report to the Committee on Rules and Administration of the Senate, at such time or times, and in such form and manner, as the Committee may direct, on expenditures made, and revenues received, pursuant to sections 6621 to 6623 of this title. It shall be the function of the Sergeant at Arms to advise the Committee, as soon as possible, of any dispute regarding payments to and from such Appropriation Account as related to the line item for Telecommunications, including any amounts due and unpaid by any user, if any such dispute has remained unresolved for a period of at least 60 days.
 
-(Pub. L. 100–123, § 3, Oct. 5, 1987, 101 Stat. 795.)
+(Pub. L. 100–123, § 3, Oct. 5, 1987, 101 Stat. 795.)
 
 **Editorial Notes**
 
@@ -1909,7 +1909,7 @@ Section was formerly classified to section 58a–3 of this title prior to editor
 
 Section effective Oct. 1, 1987, see section 4 of Pub. L. 100–123, set out as a note under section 6621 of this title.
 
-#### § 6624. Metered charges on copiers; “Sergeant at Arms” and “user” defined; certification of services and equipment as official; deposit of payments; availability for expenditure
+#### § 6624. Metered charges on copiers; “Sergeant at Arms” and “user” defined; certification of services and equipment as official; deposit of payments; availability for expenditure
 
 **(a)** As used in this section, the term—
 
@@ -1923,7 +1923,7 @@ Section effective Oct. 1, 1987, see section 4 of Pub. L. 100–123, set out as a
 
 **(2)** All moneys, derived from the payment of metered charges on copying equipment provided from funds from the Appropriation Account within the contingent fund of the Senate for “Contingent Expenses, Sergeant at Arms and Doorkeeper of the Senate” under the line item for the Service Department, shall be deposited in and made a part of such Appropriation Account and under such line item, and shall be available for expenditure or obligation, or both, in like manner and subject to the same limitations as any other moneys in such account and under such line item.
 
-(Pub. L. 101–520, title I, § 4(a), (b), Nov. 5, 1990, 104 Stat. 2257.)
+(Pub. L. 101–520, title I, § 4(a), (b), Nov. 5, 1990, 104 Stat. 2257.)
 
 **Editorial Notes**
 
@@ -1943,7 +1943,7 @@ Section is from the Congressional Operations Appropriations Act, 1991, which is 
 
 Section effective Oct. 1, 1990, see section 4(d) of Pub. L. 101–520, set out as an Effective Date of 1990 Amendment note under section 6314 of this title.
 
-#### § 6625. Receipts from sales of items by Sergeant at Arms and Doorkeeper of Senate, to Senators, etc., to be credited to appropriation from which purchased
+#### § 6625. Receipts from sales of items by Sergeant at Arms and Doorkeeper of Senate, to Senators, etc., to be credited to appropriation from which purchased
 
 In any case in which appropriated funds are used by a Senator or a committee or office of the Senate to purchase from the Sergeant at Arms and Doorkeeper of the Senate items which were purchased by him from the appropriation for “miscellaneous items” under “Contingent Expenses of the Senate” in any appropriation Act, the amounts received by the Sergeant at Arms and Doorkeeper shall be deposited in the Treasury of the United States for credit to such appropriation. This section does not apply to amounts received from the sale of used or surplus furniture and equipment.
 
@@ -1955,11 +1955,11 @@ In any case in which appropriated funds are used by a Senator or a committee or 
 
 Section was formerly classified to section 111a of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 6626. Reimbursements to Sergeant at Arms and Doorkeeper of Senate for equipment provided to Senators, etc., which has been lost, stolen, damaged, or otherwise unaccounted for; deposit of receipts
+#### § 6626. Reimbursements to Sergeant at Arms and Doorkeeper of Senate for equipment provided to Senators, etc., which has been lost, stolen, damaged, or otherwise unaccounted for; deposit of receipts
 
 The Sergeant at Arms and Doorkeeper of the Senate shall deposit in the United States Treasury for credit to the appropriation account, within the contingent fund of the Senate, for the “Sergeant at Arms and Doorkeeper of the Senate”, all moneys received by him as reimbursement for equipment provided to Senators, committee chairmen, and other officers and employees of the Senate, which has been lost, stolen, damaged, or otherwise unaccounted for.
 
-(Pub. L. 98–367, title I, § 5, July 17, 1984, 98 Stat. 475.)
+(Pub. L. 98–367, title I, § 5, July 17, 1984, 98 Stat. 475.)
 
 **Editorial Notes**
 
@@ -1969,7 +1969,7 @@ Section was formerly classified to section 117d of this title prior to editorial
 
 Section is from the Congressional Operations Appropriation Act, 1985, which is title I of the Legislative Branch Appropriations Act, 1985.
 
-#### § 6627. Compensation for lost or damaged property
+#### § 6627. Compensation for lost or damaged property
 
 **(a) In general**
 
@@ -1983,7 +1983,7 @@ Amounts credited to any account or subaccount under subsection (a) shall be merg
 
 This section shall apply with respect to fiscal year 2005 and each fiscal year thereafter.
 
-(Pub. L. 108–447, div. G, title I, § 8, Dec. 8, 2004, 118 Stat. 3170.)
+(Pub. L. 108–447, div. G, title I, § 8, Dec. 8, 2004, 118 Stat. 3170.)
 
 **Editorial Notes**
 
@@ -1993,7 +1993,7 @@ Section was formerly classified to section 117d–1 of this title prior to edito
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-#### § 6628. Treatment of electronic services provided by Sergeant at Arms
+#### § 6628. Treatment of electronic services provided by Sergeant at Arms
 
 **(a) In general** In this section—
 
@@ -2051,7 +2051,7 @@ Except as provided in this section, any provision of law or rule of civil or cri
 
 This section shall apply to fiscal year 2005 and each fiscal year thereafter.
 
-(Pub. L. 108–447, div. G, title I, § 10, Dec. 8, 2004, 118 Stat. 3170; Pub. L. 109–289, div. B, title II, § 20701(c)(1), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38; Pub. L. 116–260, div. FF, title IV, § 401(a), Dec. 27, 2020, 134 Stat. 3134; Pub. L. 119–37, div. C, title II, § 213(a), Nov. 12, 2025, 139 Stat. 585; Pub. L. 119–75, div. H, § 105, Feb. 3, 2026, 140 Stat. 629.)
+(Pub. L. 108–447, div. G, title I, § 10, Dec. 8, 2004, 118 Stat. 3170; Pub. L. 109–289, div. B, title II, § 20701(c)(1), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38; Pub. L. 116–260, div. FF, title IV, § 401(a), Dec. 27, 2020, 134 Stat. 3134; Pub. L. 119–37, div. C, title II, § 213(a), Nov. 12, 2025, 139 Stat. 585; Pub. L. 119–75, div. H, § 105, Feb. 3, 2026, 140 Stat. 629.)
 
 **Editorial Notes**
 
@@ -2063,33 +2063,33 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 **Amendments**
 
-2026—Pub. L. 119–75, § 105, repealed section 213 of title II of div. C of Pub. L. 119–37 and provided that the amendments made by that section shall have no force or effect. See 2025 Amendment notes below.
+2026—Pub. L. 119–75, § 105, repealed section 213 of title II of div. C of Pub. L. 119–37 and provided that the amendments made by that section shall have no force or effect. See 2025 Amendment notes below.
 
-2025—Subsec. (a)(2), (3). Pub. L. 119–37, § 213(a)(1)(B), (C), which added par. (2) defining “covered data” and redesignated former par. (2) as (3), was repealed by Pub. L. 119–75, § 105.
+2025—Subsec. (a)(2), (3). Pub. L. 119–37, § 213(a)(1)(B), (C), which added par. (2) defining “covered data” and redesignated former par. (2) as (3), was repealed by Pub. L. 119–75, § 105.
 
-Subsec. (a)(4) to (7). Pub. L. 119–37, § 213(a)(1)(A), (D), which added par. (4) defining “legal process”and redesignated former pars. (3) to (5) as (5) to (7), respectively, was repealed by Pub. L. 119–75, § 105.
+Subsec. (a)(4) to (7). Pub. L. 119–37, § 213(a)(1)(A), (D), which added par. (4) defining “legal process”and redesignated former pars. (3) to (5) as (5) to (7), respectively, was repealed by Pub. L. 119–75, § 105.
 
-Subsec. (a)(8). Pub. L. 119–37, § 213(a)(1)(A), (E), which redesignated par. (6) as (8), struck it out, and added a new par. (8) defining “Senate data”, was repealed by Pub. L. 119–75, § 105.
+Subsec. (a)(8). Pub. L. 119–37, § 213(a)(1)(A), (E), which redesignated par. (6) as (8), struck it out, and added a new par. (8) defining “Senate data”, was repealed by Pub. L. 119–75, § 105.
 
-Subsec. (a)(9). Pub. L. 119–37, § 213(a)(1)(A), (F), which redesignated par. (7) as (9), inserted “(without regard to whether the Senator is acting in his or her official capacity, including acting in a personal capacity and acting through his or her campaign for elected office)” after “a Senator” and “(whether acting in his or her personal or official capacity)” after “an officer of the Senate”, and substituted “(whether acting in his or her personal or official capacity); and” for period at end, was repealed by Pub. L. 119–75, § 105.
+Subsec. (a)(9). Pub. L. 119–37, § 213(a)(1)(A), (F), which redesignated par. (7) as (9), inserted “(without regard to whether the Senator is acting in his or her official capacity, including acting in a personal capacity and acting through his or her campaign for elected office)” after “a Senator” and “(whether acting in his or her personal or official capacity)” after “an officer of the Senate”, and substituted “(whether acting in his or her personal or official capacity); and” for period at end, was repealed by Pub. L. 119–75, § 105.
 
-Subsec. (a)(10). Pub. L. 119–37, § 213(a)(1)(G), which added par. (10) defining “target of a criminal investigation”, was repealed by Pub. L. 119–75, § 105.
+Subsec. (a)(10). Pub. L. 119–37, § 213(a)(1)(G), which added par. (10) defining “target of a criminal investigation”, was repealed by Pub. L. 119–75, § 105.
 
-Subsec. (c). Pub. L. 119–37, § 213(a)(3), which added subsec. (c) relating to notification by providers and the Office of the SAA of legal processes seeking disclosure of Senate data, and struck out former subsec. (c), was repealed by Pub. L. 119–75, § 105.
+Subsec. (c). Pub. L. 119–37, § 213(a)(3), which added subsec. (c) relating to notification by providers and the Office of the SAA of legal processes seeking disclosure of Senate data, and struck out former subsec. (c), was repealed by Pub. L. 119–75, § 105.
 
-Subsec. (d). Pub. L. 119–37, § 213(a)(3), which added subsec. (d) relating to allowing Senators to bring a civil action against the United States and obtain relief for certain disclosures of Senate data, was repealed by Pub. L. 119–75, § 105.
+Subsec. (d). Pub. L. 119–37, § 213(a)(3), which added subsec. (d) relating to allowing Senators to bring a civil action against the United States and obtain relief for certain disclosures of Senate data, was repealed by Pub. L. 119–75, § 105.
 
-Subsecs. (e) to (i). Pub. L. 119–37, § 213(a)(2), which redesignated subsecs. (d) to (h) as (e) to (i), respectively, was repealed by Pub. L. 119–75, § 105.
+Subsecs. (e) to (i). Pub. L. 119–37, § 213(a)(2), which redesignated subsecs. (d) to (h) as (e) to (i), respectively, was repealed by Pub. L. 119–75, § 105.
 
 2020—Pub. L. 116–260 added subsecs. (a) to (g), redesignated former subsec. (b) as (h), and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “The Office of the Sergeant at Arms and Doorkeeper of the United States Senate, and any officer, employee, or agent of the Office, shall not be treated as acquiring possession, custody, or control of any electronic mail or other electronic communication, data, or information by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office.”
 
-2007—Pub. L. 109–289, § 20701(c)(1), as added by Pub. L. 110–5, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2007—Pub. L. 109–289, § 20701(c)(1), as added by Pub. L. 110–5, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title IV, § 401(b), Dec. 27, 2020, 134 Stat. 3135, provided that:
+Pub. L. 116–260, div. FF, title IV, § 401(b), Dec. 27, 2020, 134 Stat. 3135, provided that:
 
 > **“(1)** In this subsection, the terms ‘Senate data’ and ‘Senate office’ have the meanings given such terms in section 10 of the Legislative Branch Appropriations Act, 2005 [2 U.S.C. 6628], as amended by subsection (a) of this section.
 
@@ -2105,21 +2105,21 @@ Pub. L. 116–260, div. FF, title IV, § 401(b), Dec. 27, 2020, 134 Stat. 3135
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 109–289, div. B, title II, § 20701(c)(2), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38, provided that: “The amendments made by this subsection [amending this section] shall take effect as though included in the Legislative Branch Appropriations Act, 2005 [Pub. L. 108–447, div. G].”
+Pub. L. 109–289, div. B, title II, § 20701(c)(2), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38, provided that: “The amendments made by this subsection [amending this section] shall take effect as though included in the Legislative Branch Appropriations Act, 2005 [Pub. L. 108–447, div. G].”
 
 **Limited Retroactive Applicability**
 
-Pub. L. 119–37, div. C, title II, § 213(b), Nov. 12, 2025, 139 Stat. 589, which allowed for limited retroactive applicability of the amendments made by section 213(a) of Pub. L. 119–37, was repealed by Pub. L. 119–75, div. H, § 105, Feb. 3, 2026, 140 Stat. 629.
+Pub. L. 119–37, div. C, title II, § 213(b), Nov. 12, 2025, 139 Stat. 589, which allowed for limited retroactive applicability of the amendments made by section 213(a) of Pub. L. 119–37, was repealed by Pub. L. 119–75, div. H, § 105, Feb. 3, 2026, 140 Stat. 629.
 
-#### § 6629. Purchase, lease, exchange, maintenance, and operation of vehicles out of account for Sergeant at Arms and Doorkeeper of Senate within Senate contingent fund; authorization of appropriations
+#### § 6629. Purchase, lease, exchange, maintenance, and operation of vehicles out of account for Sergeant at Arms and Doorkeeper of Senate within Senate contingent fund; authorization of appropriations
 
-For each fiscal year (commencing with the fiscal year ending September 30, 1985) there is authorized to be appropriated to the account, within the contingent fund of the Senate, for the Sergeant at Arms and Doorkeeper of the Senate, such funds (which shall be in addition to funds authorized to be so appropriated for other purposes) as may be necessary for the purchase, lease, exchange, maintenance, and operation of vehicles as follows: one for the Vice President, one for the President pro tempore of the Senate, one for the Majority Leader of the Senate, one for the Minority Leader of the Senate, one for the Majority Whip of the Senate, one for the Minority Whip of the Senate, one for the attending physician, one as authorized by Senate Resolution 90 of the 100th Congress 1
+For each fiscal year (commencing with the fiscal year ending September 30, 1985) there is authorized to be appropriated to the account, within the contingent fund of the Senate, for the Sergeant at Arms and Doorkeeper of the Senate, such funds (which shall be in addition to funds authorized to be so appropriated for other purposes) as may be necessary for the purchase, lease, exchange, maintenance, and operation of vehicles as follows: one for the Vice President, one for the President pro tempore of the Senate, one for the Majority Leader of the Senate, one for the Minority Leader of the Senate, one for the Majority Whip of the Senate, one for the Minority Whip of the Senate, one for the attending physician, one as authorized by Senate Resolution 90 of the 100th Congress 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 such number as is needed for carrying mails, and for official use of the offices of the Secretary of the Senate, the Sergeant at Arms and Doorkeeper of the Senate, the Secretary for the Majority, and the Secretary for the Minority, and such additional number as is otherwise specifically authorized by law.
 
-(Pub. L. 99–88, title I, § 192, Aug. 15, 1985, 99 Stat. 349; Pub. L. 100–202, § 101(i) [title I, § 3(a)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294.)
+(Pub. L. 99–88, title I, § 192, Aug. 15, 1985, 99 Stat. 349; Pub. L. 100–202, § 101(i) [title I, § 3(a)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294.)
 
 **Editorial Notes**
 
@@ -2135,19 +2135,19 @@ Section is from the Supplemental Appropriations Act, 1985.
 
 **Amendments**
 
-1987—Pub. L. 100–202 substituted “one for the attending physician, one as authorized by Senate Resolution 90 of the 100th Congress” for “and” and inserted “, and such additional number as is otherwise specifically authorized by law”.
+1987—Pub. L. 100–202 substituted “one for the attending physician, one as authorized by Senate Resolution 90 of the 100th Congress” for “and” and inserted “, and such additional number as is otherwise specifically authorized by law”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–202, § 101(i) [title I, § 3(b)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, provided that: “The amendments made by subsection (a) [amending this section] shall be effective in the case of fiscal years ending after September 30, 1986.”
+Pub. L. 100–202, § 101(i) [title I, § 3(b)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, provided that: “The amendments made by subsection (a) [amending this section] shall be effective in the case of fiscal years ending after September 30, 1986.”
 
-#### § 6630. Disposal of used or surplus furniture and equipment by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts
+#### § 6630. Disposal of used or surplus furniture and equipment by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts
 
 Effective October 1, 1981, the Sergeant at Arms and Doorkeeper of the Senate is authorized to dispose of used or surplus furniture and equipment by trade-in or by sale directly or through the General Services Administration. Receipts from the sale of such furniture and equipment shall be deposited in the United States Treasury for credit to the appropriation for “Miscellaneous Items” under the heading “Contingent Expenses of the Senate”.
 
-(Pub. L. 95–94, title I, § 103, Aug. 5, 1977, 91 Stat. 660; Pub. L. 97–51, § 118, Oct. 1, 1981, 95 Stat. 964.)
+(Pub. L. 95–94, title I, § 103, Aug. 5, 1977, 91 Stat. 660; Pub. L. 97–51, § 118, Oct. 1, 1981, 95 Stat. 964.)
 
 **Editorial Notes**
 
@@ -2161,7 +2161,7 @@ Section is from the Congressional Operations Appropriation Act, 1978, which is t
 
 1981—Pub. L. 97–51 substituted “Effective October 1, 1981” for “Effective October 1, 1977” and struck out provisions requiring that all receipts from the sale of furniture and equipment, other than such furniture and equipment as was replaced in kind, be deposited in the United States Treasury as miscellaneous receipts.
 
-#### § 6631. Transfer of excess or surplus educationally useful equipment to public schools
+#### § 6631. Transfer of excess or surplus educationally useful equipment to public schools
 
 **(a) Authorization**
 
@@ -2175,15 +2175,15 @@ The Committee on Rules and Administration of the Senate shall prescribe regulati
 
 Receipts from reimbursements for the costs of transfer of excess or surplus educationally useful equipment under this section,1
 
-<sup>1</sup>  So in original. Comma probably should not appear.
+<sup>1</sup> So in original. Comma probably should not appear.
 
 shall be deposited in the United States Treasury for credit to the account for the “Sergeant at Arms and Doorkeeper of the Senate” within the contingent fund of the Senate.
 
 **(d) Definitions** For the purposes of this section:
 
-**(1)** The term “public school” means a 2
+**(1)** The term “public school” means a 2
 
-<sup>2</sup>  So in original. Probably should be “an”.
+<sup>2</sup> So in original. Probably should be “an”.
 
 elementary school or secondary school, as such terms are defined in section 7801 of title 20.
 
@@ -2193,7 +2193,7 @@ elementary school or secondary school, as such terms are defined in section 7801
 
 This section shall take effect beginning with fiscal year 1997 and shall be effective each fiscal year thereafter.
 
-(Pub. L. 104–197, title I, § 5, Sept. 16, 1996, 110 Stat. 2397; Pub. L. 107–110, title X, § 1076(a), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(yy), Dec. 10, 2015, 129 Stat. 2184.)
+(Pub. L. 104–197, title I, § 5, Sept. 16, 1996, 110 Stat. 2397; Pub. L. 107–110, title X, § 1076(a), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(yy), Dec. 10, 2015, 129 Stat. 2184.)
 
 **Editorial Notes**
 
@@ -2219,11 +2219,11 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
-#### § 6632. Disposal of used or surplus automobiles and trucks by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts
+#### § 6632. Disposal of used or surplus automobiles and trucks by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts
 
 On and after October 1, 1982, the Sergeant at Arms and Doorkeeper of the Senate is authorized to dispose of used or surplus automobiles and trucks by trade-in or by sale through the General Services Administration. Receipts from the sale of such automobiles and trucks shall be deposited in the United States Treasury for credit to the appropriation for “Automobiles and Maintenance” under the heading “Contingent Expenses of the Senate”.
 
-(Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189.)
+(Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189.)
 
 **Editorial Notes**
 
@@ -2233,7 +2233,7 @@ Section was formerly classified to section 117c of this title prior to editorial
 
 Section is based on section 102 of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law.
 
-#### § 6633. Media support services
+#### § 6633. Media support services
 
 **(a) Definitions**
 
@@ -2251,7 +2251,7 @@ The terms and conditions under which employees perform official duties under sub
 
 This section shall apply to fiscal year 2008 and each fiscal year thereafter.
 
-(Pub. L. 110–161, div. H, title I, § 7, Dec. 26, 2007, 121 Stat. 2222.)
+(Pub. L. 110–161, div. H, title I, § 7, Dec. 26, 2007, 121 Stat. 2222.)
 
 **Editorial Notes**
 
@@ -2261,7 +2261,7 @@ Section was formerly classified to section 61f–13 of this title prior to edito
 
 Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
 
-#### § 6634. Senate Hair Care Services
+#### § 6634. Senate Hair Care Services
 
 **(a) Appointment and compensation of personnel**
 
@@ -2283,9 +2283,9 @@ There is established in the Treasury of the United States within the contingent 
 
 **(3)** The provisions of section 5104(c) of title 40, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to approval of such activities by the Committee on Rules and Administration.
 
-**(3)**  1
+**(3)** 1
 
-<sup>1</sup>  So in original. Probably should be “(4)”.
+<sup>1</sup> So in original. Probably should be “(4)”.
 
 Agency contributions for employees of Senate Hair Care Services shall be paid from the appropriations account for “Salaries, Officers and Employees”.
 
@@ -2311,13 +2311,13 @@ There is transferred to the revolving fund established by this section any unobl
 
 This section shall be effective on and after October 1, 1998, or 30 days after the date of enactment of this Act [October 21, 1998], whichever is later.
 
-(Pub. L. 105–275, title I, § 6, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, § 4, Sept. 29, 1999, 113 Stat. 412; Pub. L. 106–554, § 1(a)(2) [title I, § 3(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–96.)
+(Pub. L. 105–275, title I, § 6, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, § 4, Sept. 29, 1999, 113 Stat. 412; Pub. L. 106–554, § 1(a)(2) [title I, § 3(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–96.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 121a of this title, referred to in subsec. (g), was repealed by Pub. L. 105–275, title I, § 6(h)(1), Oct. 21, 1998, 112 Stat. 2434.
+Section 121a of this title, referred to in subsec. (g), was repealed by Pub. L. 105–275, title I, § 6(h)(1), Oct. 21, 1998, 112 Stat. 2434.
 
 **Codification**
 
@@ -2327,13 +2327,13 @@ Section is comprised of section 6 of Pub. L. 105–275. Subsec. (h) of section 6
 
 Section is from the Congressional Operations Appropriations Act, 1999, which is title I of the Legislative Branch Appropriations Act, 1999.
 
-In subsec. (c), in the first par. (3), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (c), in the first par. (3), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
-2000—Subsec. (c)(2)(A). Pub. L. 106–554, § 1(a)(2) [title I, § 3(a)(1)], struck out “and agency contributions” after “salaries”.
+2000—Subsec. (c)(2)(A). Pub. L. 106–554, § 1(a)(2) [title I, § 3(a)(1)], struck out “and agency contributions” after “salaries”.
 
-Subsec. (c)(3). Pub. L. 106–554, § 1(a)(2) [title I, § 3(a)(2)], added par. (3) relating to agency contributions.
+Subsec. (c)(3). Pub. L. 106–554, § 1(a)(2) [title I, § 3(a)(2)], added par. (3) relating to agency contributions.
 
 1999—Subsec. (c)(3). Pub. L. 106–57 added par. (3).
 
@@ -2341,13 +2341,13 @@ Subsec. (c)(3). Pub. L. 106–554, § 1(a)(2) [title I, § 3(a)(2)], added p
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(2) [title I, § 3(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–96, provided that: “This section [amending this section] shall apply to pay periods beginning on or after October 1, 2000.”
+Pub. L. 106–554, § 1(a)(2) [title I, § 3(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–96, provided that: “This section [amending this section] shall apply to pay periods beginning on or after October 1, 2000.”
 
 **Senate Beauty Shop**
 
-Pub. L. 100–458, title I, § 10, Oct. 1, 1988, 102 Stat. 2162, as amended by Pub. L. 105–275, title I, § 6(h)(2), Oct. 21, 1998, 112 Stat. 2434, provided that:
+Pub. L. 100–458, title I, § 10, Oct. 1, 1988, 102 Stat. 2162, as amended by Pub. L. 105–275, title I, § 6(h)(2), Oct. 21, 1998, 112 Stat. 2434, provided that:
 
-> **“[(a)** Repealed. Pub. L. 105–275, title I, § 6(h)(2), Oct. 21, 1998, 112 Stat. 2434.]
+> **“[(a)** Repealed. Pub. L. 105–275, title I, § 6(h)(2), Oct. 21, 1998, 112 Stat. 2434.]
 
 > **“[(b)** Amended former section 121a of this title.]
 
@@ -2365,7 +2365,7 @@ Pub. L. 100–458, title I, § 10, Oct. 1, 1988, 102 Stat. 2162, as amended by
 
 > **“(f)** The foregoing provisions of this section shall take effect on October 1, 1988.”
 
-#### § 6635. Office of Senate Health Promotion
+#### § 6635. Office of Senate Health Promotion
 
 **(a) Establishment**
 
@@ -2393,7 +2393,7 @@ The provisions of section 5104(c) of title 40 shall not be applicable to any cla
 
 The provisions of this section shall be carried out in accordance with regulations which shall be promulgated by the Sergeant at Arms and Doorkeeper of the Senate and subject to approval at the beginning of each Congress by the Committee on Rules and Administration of the Senate.
 
-(Pub. L. 101–163, title I, § 4, Nov. 21, 1989, 103 Stat. 1044; Pub. L. 102–90, title I, § 2, Aug. 14, 1991, 105 Stat. 450.)
+(Pub. L. 101–163, title I, § 4, Nov. 21, 1989, 103 Stat. 1044; Pub. L. 102–90, title I, § 2, Aug. 14, 1991, 105 Stat. 450.)
 
 **Editorial Notes**
 
@@ -2403,13 +2403,13 @@ Section was formerly classified to section 121c of this title prior to editorial
 
 Section is from the Congressional Operations Appropriations Act, 1990, which is title I of the Legislative Branch Appropriations Act, 1990.
 
-In subsec. (e), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (e), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
 1991—Subsec. (c). Pub. L. 102–90 inserted at end “On or before December 31 of each year, the Secretary of the Senate shall withdraw from the fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in excess of $5,000 in the fund at the close of the preceding fiscal year.”
 
-#### § 6636. Senate Computer Center
+#### § 6636. Senate Computer Center
 
 **(a) Senate Computer Center Revolving Fund**
 
@@ -2439,7 +2439,7 @@ To the extent that the personnel of the Senate Computer Center are unable to car
 
 Disbursements from the revolving fund under subsections (b) and (c) shall be made upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate, except that vouchers shall not be required for the disbursement of salaries of employees paid at an annual rate.
 
-(Pub. L. 94–303, title I, § 116, June 1, 1976, 90 Stat. 614.)
+(Pub. L. 94–303, title I, § 116, June 1, 1976, 90 Stat. 614.)
 
 **Editorial Notes**
 
@@ -2449,9 +2449,9 @@ Section was formerly classified to section 123d of this title prior to editorial
 
 ## SUBCHAPTER IV—CHAPLAIN
 
-### § 6651. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(G), Dec. 20, 2019, 133 Stat. 2776
+### § 6651. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(G), Dec. 20, 2019, 133 Stat. 2776
 
-Section, Pub. L. 100–202, § 101(i) [title I, § 2(a)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, related to compensation of Chaplain of Senate.
+Section, Pub. L. 100–202, § 101(i) [title I, § 2(a)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, related to compensation of Chaplain of Senate.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2459,11 +2459,11 @@ Section, Pub. L. 100–202, § 101(i) [title I, § 2(a)], Dec. 22, 1987, 101
 
 Repeal effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as an Effective Date of 2019 Amendment note under section 282b of this title.
 
-### § 6652. Compensation of employees of Chaplain of Senate
+### § 6652. Compensation of employees of Chaplain of Senate
 
 The Chaplain of the Senate may appoint and fix the compensation of such employees as he deems appropriate, except that the amount which may be paid for any fiscal year as gross compensation for personnel in such Office for any fiscal year shall not exceed $147,000.
 
-(Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 100–202, § 101(i) [title I, § 2(b)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 101–163, title I, § 10, Nov. 21, 1989, 103 Stat. 1046.)
+(Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 100–202, § 101(i) [title I, § 2(b)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 101–163, title I, § 10, Nov. 21, 1989, 103 Stat. 1046.)
 
 **Editorial Notes**
 
@@ -2483,11 +2483,11 @@ Section was formerly classified to section 61d–1 of this title prior to editor
 
 Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–655), see Salary Directives of President pro tempore of the Senate, set out as notes under section 4571 of this title.
 
-### § 6653. Postage allowance for Chaplain of Senate
+### § 6653. Postage allowance for Chaplain of Senate
 
 The Secretary of the Senate is authorized and directed to procure and furnish each fiscal year (commencing with the fiscal year ending September 30, 1982) to the Chaplain of the Senate, upon the request of the Chaplain of the Senate, United States postage stamps in such amounts as may be necessary for the mailing of postal matters arising in connection with his official business.
 
-(Pub. L. 97–51, § 127(b)(1), Oct. 1, 1981, 95 Stat. 966.)
+(Pub. L. 97–51, § 127(b)(1), Oct. 1, 1981, 95 Stat. 966.)
 
 **Editorial Notes**
 
@@ -2495,7 +2495,7 @@ The Secretary of the Senate is authorized and directed to procure and furnish ea
 
 Section was formerly classified to section 61d–2 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 6654. Payment of expenses of the Chaplain of the Senate from the contingent fund of the Senate
+### § 6654. Payment of expenses of the Chaplain of the Senate from the contingent fund of the Senate
 
 **(a) In general**
 
@@ -2513,7 +2513,7 @@ Any funds in the Chaplain Expense Revolving Fund on the date of the repeal under
 
 This section shall apply with respect to fiscal year 2004, and each fiscal year thereafter.
 
-(Pub. L. 108–199, div. H, § 155, Jan. 23, 2004, 118 Stat. 450.)
+(Pub. L. 108–199, div. H, § 155, Jan. 23, 2004, 118 Stat. 450.)
 
 **Editorial Notes**
 

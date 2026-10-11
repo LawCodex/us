@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1986—Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2717, struck out “CERTAIN” after “TAX ON” in chapter heading, substituted “Generation-skipping transfers” for “Definitions and special rules” in item for subchapter B and “Taxable amount” for “Administration” in item for subchapter C, and added items for subchapters D, E, and F.
+1986—Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2717, struck out “CERTAIN” after “TAX ON” in chapter heading, substituted “Generation-skipping transfers” for “Definitions and special rules” in item for subchapter B and “Taxable amount” for “Administration” in item for subchapter C, and added items for subchapters D, E, and F.
 
 ## Subchapter A—Tax Imposed
 
@@ -27,19 +27,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2014—Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i), Dec. 19, 2014, 128 Stat. 4051, which directed amendment of subchapter A of chapter 13 of this title by striking out item 2604 in the table of sections for “such subpart”, was executed by striking out item 2604 “Credit for certain State taxes” in the table of sections for this subchapter, to reflect the probable intent of Congress.
+2014—Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i), Dec. 19, 2014, 128 Stat. 4051, which directed amendment of subchapter A of chapter 13 of this title by striking out item 2604 in the table of sections for “such subpart”, was executed by striking out item 2604 “Credit for certain State taxes” in the table of sections for this subchapter, to reflect the probable intent of Congress.
 
-2004—Pub. L. 108–311, title IV, § 408(a)(21), Oct. 4, 2004, 118 Stat. 1192, added item 2604.
+2004—Pub. L. 108–311, title IV, § 408(a)(21), Oct. 4, 2004, 118 Stat. 1192, added item 2604.
 
-2001—Pub. L. 107–16, title V, § 532(c)(15), June 7, 2001, 115 Stat. 75, struck out item 2604 “Credit for certain State taxes”.
+2001—Pub. L. 107–16, title V, § 532(c)(15), June 7, 2001, 115 Stat. 75, struck out item 2604 “Credit for certain State taxes”.
 
-1986—Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2717, in amending analysis of subchapter A generally, added item 2604.
+1986—Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2717, in amending analysis of subchapter A generally, added item 2604.
 
-### § 2601. Tax imposed
+### § 2601. Tax imposed
 
 A tax is hereby imposed on every generation-skipping transfer (within the meaning of subchapter B).
 
-(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1879; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718.)
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1879; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718.)
 
 **Editorial Notes**
 
@@ -51,9 +51,9 @@ A tax is hereby imposed on every generation-skipping transfer (within the meanin
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XIV, § 1433, Oct. 22, 1986, 100 Stat. 2731, as amended by Pub. L. 100–647, title I, § 1014(h)(1)–(3)(A), (4), Nov. 10, 1988, 102 Stat. 3567, 3568, provided that:
+Pub. L. 99–514, title XIV, § 1433, Oct. 22, 1986, 100 Stat. 2731, as amended by Pub. L. 100–647, title I, § 1014(h)(1)–(3)(A), (4), Nov. 10, 1988, 102 Stat. 3567, 3568, provided that:
 
-> **“(a) General Rule.—** Except as provided in subsection (b), the amendments made by this subtitle [subtitle D (§§ 1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title] shall apply to any generation-skipping transfer (within the meaning of section 2611 of the Internal Revenue Code of 1986) made after the date of the enactment of this Act [Oct. 22, 1986].
+> **“(a) General Rule.—** Except as provided in subsection (b), the amendments made by this subtitle [subtitle D (§§ 1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title] shall apply to any generation-skipping transfer (within the meaning of section 2611 of the Internal Revenue Code of 1986) made after the date of the enactment of this Act [Oct. 22, 1986].
 
 > **“(b) Special Rules.—**
 
@@ -113,11 +113,11 @@ Pub. L. 99–514, title XIV, § 1433, Oct. 22, 1986, 100 Stat. 2731, as amende
 
 > Unless the grandchild otherwise directs by will, the estate of such grandchild shall be entitled to recover from the person receiving the property on the death of the grandchild any increase in Federal estate tax on the estate of the grandchild by reason of the preceding sentence.”
 
-[Pub. L. 101–508, title XI, § 11703(c)(3), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “Subparagraph (C) of section 1433(b)(2) of the Tax Reform Act of 1986 [Pub. L. 99–514, set out above] shall not exempt any generation-skipping transfer from the amendments made by subtitle D of title XVI of such Act [probably means subtitle D (§§ 1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title] to the extent such transfer is attributable to property transferred by gift or by reason of the death of another person to the decedent (or trust) referred to in such subparagraph after August 3, 1990.” ]
+[Pub. L. 101–508, title XI, § 11703(c)(3), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “Subparagraph (C) of section 1433(b)(2) of the Tax Reform Act of 1986 [Pub. L. 99–514, set out above] shall not exempt any generation-skipping transfer from the amendments made by subtitle D of title XVI of such Act [probably means subtitle D (§§ 1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title] to the extent such transfer is attributable to property transferred by gift or by reason of the death of another person to the decedent (or trust) referred to in such subparagraph after August 3, 1990.” ]
 
-[Pub. L. 100–647, title I, § 1014(h)(3)(B), Nov. 10, 1988, 102 Stat. 3568, provided that: “Clause (iii) of section 1443(b)(3)(B) [1433(b)(3)(B)] of the Reform Act [Pub. L. 99–514, set out above] (as amended by subparagraph (A)) shall apply only to transfers after June 10, 1987.” ]
+[Pub. L. 100–647, title I, § 1014(h)(3)(B), Nov. 10, 1988, 102 Stat. 3568, provided that: “Clause (iii) of section 1443(b)(3)(B) [1433(b)(3)(B)] of the Reform Act [Pub. L. 99–514, set out above] (as amended by subparagraph (A)) shall apply only to transfers after June 10, 1987.” ]
 
-[Pub. L. 100–647, title I, § 1014(h)(5), Nov. 10, 1988, 102 Stat. 3568, provided that:
+[Pub. L. 100–647, title I, § 1014(h)(5), Nov. 10, 1988, 102 Stat. 3568, provided that:
 
 > “Subparagraph (C) of section 1433(b)(2) of the Reform Act [Pub. L. 99–514, set out above] shall not exempt any direct skip from the amendments made by subtitle D of title XIV of the Reform Act [Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title] if—
 
@@ -129,7 +129,7 @@ Pub. L. 99–514, title XIV, § 1433, Oct. 22, 1986, 100 Stat. 2731, as amende
 
 **Effective Date**
 
-Pub. L. 94–455, title XX, § 2006(c), Oct. 4, 1976, 90 Stat. 1889, as amended by Pub. L. 95–600, title VII, § 702(n)(1), Nov. 6, 1978, 92 Stat. 2935; Pub. L. 97–34, title IV, § 428, Aug. 13, 1981, 95 Stat. 319; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XX, § 2006(c), Oct. 4, 1976, 90 Stat. 1889, as amended by Pub. L. 95–600, title VII, § 702(n)(1), Nov. 6, 1978, 92 Stat. 2935; Pub. L. 97–34, title IV, § 428, Aug. 13, 1981, 95 Stat. 319; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting this chapter and amending sections 303, 691, and 2013 of this title] shall apply to any generation-skipping transfer (within the meaning of section 2611(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) made after June 11, 1976.
 
@@ -145,7 +145,7 @@ Pub. L. 94–455, title XX, § 2006(c), Oct. 4, 1976, 90 Stat. 1889, as amende
 
 [Amendment of section 2006(c) of Pub. L. 94–455, set out above, by section 702(n)(1) of Pub. L. 95–600, effective Oct. 4, 1976, see section 702(n)(5) of Pub. L. 95–600, set out as an Effective Date of 1978 Amendment note under section 2613 of this title.]
 
-### § 2602. Amount of tax
+### § 2602. Amount of tax
 
 The amount of the tax imposed by section 2601 is—
 
@@ -153,7 +153,7 @@ The amount of the tax imposed by section 2601 is—
 
 **(2)** the applicable rate (determined under subchapter E).
 
-(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1879; amended Pub. L. 95–600, title VII, § 702(h)(2), (n)(4), Nov. 6, 1978, 92 Stat. 2931, 2936; Pub. L. 97–34, title IV, § 403(a)(2)(B), Aug. 13, 1981, 95 Stat. 301; Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718.)
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1879; amended Pub. L. 95–600, title VII, § 702(h)(2), (n)(4), Nov. 6, 1978, 92 Stat. 2931, 2936; Pub. L. 97–34, title IV, § 403(a)(2)(B), Aug. 13, 1981, 95 Stat. 301; Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718.)
 
 **Editorial Notes**
 
@@ -163,11 +163,11 @@ The amount of the tax imposed by section 2601 is—
 
 1981—Subsec. (c)(5). Pub. L. 97–34 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) relating to adjustments to marital deduction and providing that if the generation-skipping transfer occurs at the same time as, or within 9 months after, the death of the deemed transferor, for purposes of section 2056, relating to bequests, etc., to surviving spouse, the value of the gross estate of the deemed transferor shall be deemed to be increased by the amount of such transfer.
 
-1978—Subsec. (a)(1)(C). Pub. L. 95–600, § 702(h)(2), inserted “, as modified by section 2001(e)” after “within the meaning of section 2001(b)”.
+1978—Subsec. (a)(1)(C). Pub. L. 95–600, § 702(h)(2), inserted “, as modified by section 2001(e)” after “within the meaning of section 2001(b)”.
 
-Subsec. (d)(1)(A). Pub. L. 95–600, § 702(n)(4)(A), inserted “(or at the same time as the death of a beneficiary of the trust assigned to a higher generation than such deemed transferor)” after “such deemed transferor”.
+Subsec. (d)(1)(A). Pub. L. 95–600, § 702(n)(4)(A), inserted “(or at the same time as the death of a beneficiary of the trust assigned to a higher generation than such deemed transferor)” after “such deemed transferor”.
 
-Subsec. (d)(2)(A). Pub. L. 95–600, § 702(n)(4)(B), inserted “(or beneficiary)” after “the deemed transferor”.
+Subsec. (d)(2)(A). Pub. L. 95–600, § 702(n)(4)(B), inserted “(or beneficiary)” after “the deemed transferor”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -185,7 +185,7 @@ Amendment by section 702(h)(2) of Pub. L. 95–600 applicable to estates of dece
 
 Amendment by section 702(n)(4) of Pub. L. 95–600 effective as if included in this chapter as added by section 2006 of Pub. L. 94–455, see section 702(n)(5) of Pub. L. 95–600, set out as a note under section 2613 of this title.
 
-### § 2603. Liability for tax
+### § 2603. Liability for tax
 
 **(a) Personal liability**
 
@@ -209,7 +209,7 @@ Unless otherwise directed pursuant to the governing instrument by specific refer
 
 For provisions making estate and gift tax provisions with respect to transferee liability, liens, and related matters applicable to the tax imposed by section 2601, see section 2661.
 
-(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1881; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718.)
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1881; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718.)
 
 **Editorial Notes**
 
@@ -223,9 +223,9 @@ For provisions making estate and gift tax provisions with respect to transferee 
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### [§ 2604. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i), Dec. 19, 2014, 128 Stat. 4051]
+### [§ 2604. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i), Dec. 19, 2014, 128 Stat. 4051]
 
-Section, added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718; amended Pub. L. 107–16, title V, § 532(c)(10), June 7, 2001, 115 Stat. 75, related to credit for certain State generation-skipping transfer taxes.
+Section, added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718; amended Pub. L. 107–16, title V, § 532(c)(10), June 7, 2001, 115 Stat. 75, related to credit for certain State generation-skipping transfer taxes.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -239,9 +239,9 @@ Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(
 
 **Amendments**
 
-1986—Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718, substituted “Generation-Skipping Transfers” for “Definitions and Special Rules” in subchapter heading, substituted “Generation-skipping transfer defined” for “Generation-skipping transfer” in item 2611, “Taxable termination; taxable distribution; direct skip” for “Deemed transferor” in item 2612, and “Skip person and non-skip person defined” for “Other definitions” in item 2613, and struck out item 2614 “Special rules”.
+1986—Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718, substituted “Generation-Skipping Transfers” for “Definitions and Special Rules” in subchapter heading, substituted “Generation-skipping transfer defined” for “Generation-skipping transfer” in item 2611, “Taxable termination; taxable distribution; direct skip” for “Deemed transferor” in item 2612, and “Skip person and non-skip person defined” for “Other definitions” in item 2613, and struck out item 2614 “Special rules”.
 
-### § 2611. Generation-skipping transfer defined
+### § 2611. Generation-skipping transfer defined
 
 **(a) In general** For purposes of this chapter, the term “generation-skipping transfer” means—
 
@@ -263,15 +263,15 @@ Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(
 
 **(C)** such transfers do not have the effect of avoiding tax under this chapter with respect to any transfer.
 
-(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1882; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718; Pub. L. 100–647, title I, §§ 1014(g)(1), (2), 1018(u)(43), Nov. 10, 1988, 102 Stat. 3562, 3592.)
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1882; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718; Pub. L. 100–647, title I, §§ 1014(g)(1), (2), 1018(u)(43), Nov. 10, 1988, 102 Stat. 3562, 3592.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–647, §§ 1014(g)(1), 1018(u)(43), substituted “generation-skipping transfer” for “generation-skipping transfers” and “means” for “mean”.
+1988—Subsec. (a). Pub. L. 100–647, §§ 1014(g)(1), 1018(u)(43), substituted “generation-skipping transfer” for “generation-skipping transfers” and “means” for “mean”.
 
-Subsec. (b). Pub. L. 100–647, § 1014(g)(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “any transfer (other than a direct skip) from a trust, to the extent such transfer is subject to a tax imposed by chapter 11 or 12 with respect to a person in the 1st generation below that of the grantor, and”.
+Subsec. (b). Pub. L. 100–647, § 1014(g)(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “any transfer (other than a direct skip) from a trust, to the extent such transfer is subject to a tax imposed by chapter 11 or 12 with respect to a person in the 1st generation below that of the grantor, and”.
 
 1986—Pub. L. 99–514 amended section generally, substituting provisions defining “generation-skipping transfers” and what that term does not include, for former provisions which defined “generation-skipping transfer”, “transfer”, and “generation-skipping trust”, contained provisions to be used in determining the ascertainment of generation, and provided for a generation-skipping trust equivalent.
 
@@ -285,7 +285,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2612. Taxable termination; taxable distribution; direct skip
+### § 2612. Taxable termination; taxable distribution; direct skip
 
 **(a) Taxable termination**
 
@@ -313,15 +313,15 @@ The term “direct skip” means a transfer subject to a tax imposed by chapter 
 
 Solely for purposes of determining whether any transfer to a trust is a direct skip, the rules of section 2651(f)(2) shall not apply.
 
-(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1883; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2719; Pub. L. 100–647, title I, § 1014(g)(5)(B), (7), (15), Nov. 10, 1988, 102 Stat. 3564–3566; Pub. L. 105–34, title V, § 511(b), Aug. 5, 1997, 111 Stat. 861.)
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1883; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2719; Pub. L. 100–647, title I, § 1014(g)(5)(B), (7), (15), Nov. 10, 1988, 102 Stat. 3564–3566; Pub. L. 105–34, title V, § 511(b), Aug. 5, 1997, 111 Stat. 861.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (c)(2). Pub. L. 105–34, § 511(b)(2), substituted “section 2651(f)(2)” for “section 2651(e)(2)”.
+1997—Subsec. (c)(2). Pub. L. 105–34, § 511(b)(2), substituted “section 2651(f)(2)” for “section 2651(e)(2)”.
 
-Pub. L. 105–34, § 511(b)(1), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “For purposes of determining whether any transfer is a direct skip, if—
+Pub. L. 105–34, § 511(b)(1), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “For purposes of determining whether any transfer is a direct skip, if—
 
 “(A) an individual is a grandchild of the transferor (or the transferor’s spouse or former spouse), and
 
@@ -329,13 +329,13 @@ Pub. L. 105–34, § 511(b)(1), redesignated par. (3) as (2) and struck out he
 
 such individual shall be treated as if such individual were a child of the transferor and all of that grandchild’s children shall be treated as if they were grandchildren of the transferor. In the case of lineal descendants below a grandchild, the preceding sentence may be reapplied. If any transfer of property to a trust would be a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property.”
 
-Subsec. (c)(3). Pub. L. 105–34, § 511(b)(1), redesignated par. (3) as (2).
+Subsec. (c)(3). Pub. L. 105–34, § 511(b)(1), redesignated par. (3) as (2).
 
-1988—Subsec. (a)(2). Pub. L. 100–647, § 1014(g)(15), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If, upon the termination of an interest in property held in a trust, a specified portion of the trust assets are distributed to skip persons who are lineal descendants of the holder of such interest (or to 1 or more trusts for the exclusive benefit of such persons), such termination shall constitute a taxable termination with respect to such portion of the trust property.”
+1988—Subsec. (a)(2). Pub. L. 100–647, § 1014(g)(15), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If, upon the termination of an interest in property held in a trust, a specified portion of the trust assets are distributed to skip persons who are lineal descendants of the holder of such interest (or to 1 or more trusts for the exclusive benefit of such persons), such termination shall constitute a taxable termination with respect to such portion of the trust property.”
 
-Subsec. (c)(2). Pub. L. 100–647, § 1014(g)(7), in closing provisions, inserted at end “If any transfer of property to a trust would be a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property.”
+Subsec. (c)(2). Pub. L. 100–647, § 1014(g)(7), in closing provisions, inserted at end “If any transfer of property to a trust would be a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property.”
 
-Subsec. (c)(3). Pub. L. 100–647, § 1014(g)(5)(B), added par. (3).
+Subsec. (c)(3). Pub. L. 100–647, § 1014(g)(5)(B), added par. (3).
 
 1986—Pub. L. 99–514 amended section generally, substituting provisions covering definition and application of “taxable termination”, “taxable distribution”, and “direct skip” for former provisions which indicated who the “deemed transferor” would be for purposes of this chapter and that, for purposes of determining the person deemed the transferor, a parent related to the grantor of a trust by blood or adoption was to be deemed more closely related than a parent related to a grantor by marriage.
 
@@ -343,7 +343,7 @@ Subsec. (c)(3). Pub. L. 100–647, § 1014(g)(5)(B), added par. (3).
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title V, § 511(c), Aug. 5, 1997, 111 Stat. 861, provided that: “The amendments made by this section [amending this section and section 2651 of this title] shall apply to terminations, distributions, and transfers occurring after December 31, 1997.”
+Pub. L. 105–34, title V, § 511(c), Aug. 5, 1997, 111 Stat. 861, provided that: “The amendments made by this section [amending this section and section 2651 of this title] shall apply to terminations, distributions, and transfers occurring after December 31, 1997.”
 
 **Effective Date of 1988 Amendment**
 
@@ -353,7 +353,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2613. Skip person and non-skip person defined
+### § 2613. Skip person and non-skip person defined
 
 **(a) Skip person** For purposes of this chapter, the term “skip person” means—
 
@@ -373,7 +373,7 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 For purposes of this chapter, the term “non-skip person” means any person who is not a skip person.
 
-(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1884; amended Pub. L. 95–600, title VII, § 702(n)(2), (3), Nov. 6, 1978, 92 Stat. 2935, 2936; Pub. L. 96–222, title I, § 107(a)(2)(B), Apr. 1, 1980, 94 Stat. 222; Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720; Pub. L. 100–647, title I, § 1014(g)(5)(A), Nov. 10, 1988, 102 Stat. 3564.)
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1884; amended Pub. L. 95–600, title VII, § 702(n)(2), (3), Nov. 6, 1978, 92 Stat. 2935, 2936; Pub. L. 96–222, title I, § 107(a)(2)(B), Apr. 1, 1980, 94 Stat. 222; Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720; Pub. L. 100–647, title I, § 1014(g)(5)(A), Nov. 10, 1988, 102 Stat. 3564.)
 
 **Editorial Notes**
 
@@ -383,13 +383,13 @@ For purposes of this chapter, the term “non-skip person” means any person wh
 
 1986—Pub. L. 99–514 amended section generally, substituting definitions of “skip person” and “non-skip person” for former provisions which defined and applied the terms “taxable distribution”, “taxable termination”, “younger generation beneficiary”, and “related or subordinate trustee”.
 
-1980—Subsec. (e)(2)(A)(i). Pub. L. 96–222, § 107(a)(2)(B)(i), inserted “(other than as a potential appointee under a power of appointment held by another)” after “trust”.
+1980—Subsec. (e)(2)(A)(i). Pub. L. 96–222, § 107(a)(2)(B)(i), inserted “(other than as a potential appointee under a power of appointment held by another)” after “trust”.
 
-Subsec. (e)(2)(B). Pub. L. 96–222, § 107(a)(2)(B)(ii), redesignated cls. (iii) to (v) as (iv) to (vi), added cl. (iii), and struck out cl. (vi) which related to an employee of a corporation in which the grantor or any beneficiary of the trust is an executive.
+Subsec. (e)(2)(B). Pub. L. 96–222, § 107(a)(2)(B)(ii), redesignated cls. (iii) to (v) as (iv) to (vi), added cl. (iii), and struck out cl. (vi) which related to an employee of a corporation in which the grantor or any beneficiary of the trust is an executive.
 
-1978—Subsec. (b)(2)(B). Pub. L. 95–600, § 702(n)(3), substituted “a present interest and a present power” for “an interest and a power” and “present interest or present power” for “interest or power” wherever appearing.
+1978—Subsec. (b)(2)(B). Pub. L. 95–600, § 702(n)(3), substituted “a present interest and a present power” for “an interest and a power” and “present interest or present power” for “interest or power” wherever appearing.
 
-Subsec. (e). Pub. L. 95–600, § 702(n)(2), inserted provisions relating to powers of independent trustees and definition of a related or subordinate trustee.
+Subsec. (e). Pub. L. 95–600, § 702(n)(2), inserted provisions relating to powers of independent trustees and definition of a related or subordinate trustee.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,19 +407,19 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title VII, § 702(n)(5), Nov. 6, 1978, 92 Stat. 2936, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title VII, § 702(n)(5), Nov. 6, 1978, 92 Stat. 2936, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-> **“(A)** Except as provided in subparagraph (B), the amendments made by this subsection [amending this section, section 2602 of this title, and provisions set out as a note under section 2601 of this title] shall take effect as if included in chapter 13 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as added by section 2006 of the Tax Reform Act of 1976 [Pub. L. 94–455, title XX, § 2006, Oct. 4, 1976, 90 Stat. 1879].
+> **“(A)** Except as provided in subparagraph (B), the amendments made by this subsection [amending this section, section 2602 of this title, and provisions set out as a note under section 2601 of this title] shall take effect as if included in chapter 13 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as added by section 2006 of the Tax Reform Act of 1976 [Pub. L. 94–455, title XX, § 2006, Oct. 4, 1976, 90 Stat. 1879].
 
 > **“(B)** The amendment made by paragraph (1) [amending provisions set out as a note under section 2601 of this title] shall take effect on October 4, 1976.”
 
-### [§ 2614. Omitted]
+### [§ 2614. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-Section, added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1887; amended Pub. L. 95–600, title VII, § 702(c)(1)(B), Nov. 6, 1978, 92 Stat. 2926; Pub. L. 96–223, title IV, § 401(c)(3), Apr. 2, 1980, 94 Stat. 300, related to special rules for generation-skipping transfers, prior to the general revision of this chapter by Pub. L. 99–514, § 1431(a).
+Section, added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1887; amended Pub. L. 95–600, title VII, § 702(c)(1)(B), Nov. 6, 1978, 92 Stat. 2926; Pub. L. 96–223, title IV, § 401(c)(3), Apr. 2, 1980, 94 Stat. 300, related to special rules for generation-skipping transfers, prior to the general revision of this chapter by Pub. L. 99–514, § 1431(a).
 
 ## Subchapter C—Taxable Amount
 
@@ -427,9 +427,9 @@ Section, added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 
 
 **Amendments**
 
-1986—Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720, substituted “Taxable Amount” for “Administration” in subchapter heading, substituted “Taxable amount in case of taxable distribution” for “Administration” in item 2621 and “Taxable amount in case of taxable termination” for “Regulations” in item 2622, and added items 2623 and 2624.
+1986—Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720, substituted “Taxable Amount” for “Administration” in subchapter heading, substituted “Taxable amount in case of taxable distribution” for “Administration” in item 2621 and “Taxable amount in case of taxable termination” for “Regulations” in item 2622, and added items 2623 and 2624.
 
-### § 2621. Taxable amount in case of taxable distribution
+### § 2621. Taxable amount in case of taxable distribution
 
 **(a) In general** For purposes of this chapter, the taxable amount in the case of any taxable distribution shall be—
 
@@ -441,7 +441,7 @@ Section, added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 
 
 For purposes of this chapter, if any of the tax imposed by this chapter with respect to any taxable distribution is paid out of the trust, an amount equal to the portion so paid shall be treated as a taxable distribution.
 
-(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1887; amended Pub. L. 97–34, title IV, § 422(e)(4), Aug. 13, 1981, 95 Stat. 316; Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720.)
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1887; amended Pub. L. 97–34, title IV, § 422(e)(4), Aug. 13, 1981, 95 Stat. 316; Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720.)
 
 **Editorial Notes**
 
@@ -461,7 +461,7 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as a note under section 6166 of this title.
 
-### § 2622. Taxable amount in case of taxable termination
+### § 2622. Taxable amount in case of taxable termination
 
 **(a) In general** For purposes of this chapter, the taxable amount in the case of a taxable termination shall be—
 
@@ -473,7 +473,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 For purposes of subsection (a), there shall be allowed a deduction similar to the deduction allowed by section 2053 (relating to expenses, indebtedness, and taxes) for amounts attributable to the property with respect to which the taxable termination has occurred.
 
-(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1888; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720.)
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1888; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720.)
 
 **Editorial Notes**
 
@@ -487,11 +487,11 @@ For purposes of subsection (a), there shall be allowed a deduction similar to th
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2623. Taxable amount in case of direct skip
+### § 2623. Taxable amount in case of direct skip
 
 For purposes of this chapter, the taxable amount in the case of a direct skip shall be the value of the property received by the trans­feree.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2721.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2721.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -499,7 +499,7 @@ For purposes of this chapter, the taxable amount in the case of a direct skip sh
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2624. Valuation
+### § 2624. Valuation
 
 **(a) General rule**
 
@@ -517,7 +517,7 @@ If 1 or more taxable terminations with respect to the same trust occur at the sa
 
 For purposes of this chapter, the value of the property transferred shall be reduced by the amount of any consideration provided by the transferee.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2721.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2721.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -527,7 +527,7 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 ## Subchapter D—GST Exemption
 
-### § 2631. GST exemption
+### § 2631. GST exemption
 
 **(a) General rule**
 
@@ -541,7 +541,7 @@ Any allocation under subsection (a), once made, shall be irrevocable.
 
 For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the basic exclusion amount under section 2010(c) for such calendar year.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 105–34, title V, § 501(d), Aug. 5, 1997, 111 Stat. 846; Pub. L. 105–206, title VI, § 6007(a)(1), July 22, 1998, 112 Stat. 806; Pub. L. 107–16, title V, § 521(c), June 7, 2001, 115 Stat. 72; Pub. L. 111–312, title III, § 303(b)(2), Dec. 17, 2010, 124 Stat. 3303.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 105–34, title V, § 501(d), Aug. 5, 1997, 111 Stat. 846; Pub. L. 105–206, title VI, § 6007(a)(1), July 22, 1998, 112 Stat. 806; Pub. L. 107–16, title V, § 521(c), June 7, 2001, 115 Stat. 72; Pub. L. 111–312, title III, § 303(b)(2), Dec. 17, 2010, 124 Stat. 3303.)
 
 **Editorial Notes**
 
@@ -549,9 +549,9 @@ For purposes of subsection (a), the GST exemption amount for any calendar year s
 
 2010—Subsec. (c). Pub. L. 111–312 substituted “the basic exclusion amount” for “the applicable exclusion amount”.
 
-2001—Subsec. (a). Pub. L. 107–16, § 521(c)(1), substituted “amount” for “of $1,000,000”.
+2001—Subsec. (a). Pub. L. 107–16, § 521(c)(1), substituted “amount” for “of $1,000,000”.
 
-Subsec. (c). Pub. L. 107–16, § 521(c)(2), amended heading and text of subsec. (c) generally, substituting provisions relating to the GST exemption amount for any calendar year for provisions which related to inflation adjustment of the $1,000,000 amount contained in subsec. (a) in the case of any calendar year after 1998 and applicability of any increase for any such calendar year.
+Subsec. (c). Pub. L. 107–16, § 521(c)(2), amended heading and text of subsec. (c) generally, substituting provisions relating to the GST exemption amount for any calendar year for provisions which related to inflation adjustment of the $1,000,000 amount contained in subsec. (a) in the case of any calendar year after 1998 and applicability of any increase for any such calendar year.
 
 1998—Subsec. (c). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of an individual who dies in any calendar year after 1998, the $1,000,000 amount contained in subsection (a) shall be increased by an amount equal to—
 
@@ -581,7 +581,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2632. Special rules for allocation of GST exemption
+### § 2632. Special rules for allocation of GST exemption
 
 **(a) Time and manner of allocation**
 
@@ -721,15 +721,15 @@ The allocation under paragraph (1) shall be made among the properties described 
 
 For purposes of subparagraph (A), the term “nonexempt portion” means the value (at the time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 100–647, title I, § 1014(g)(16), Nov. 10, 1988, 102 Stat. 3566; Pub. L. 107–16, title V, § 561(a), (b), June 7, 2001, 115 Stat. 86, 89.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 100–647, title I, § 1014(g)(16), Nov. 10, 1988, 102 Stat. 3566; Pub. L. 107–16, title V, § 561(a), (b), June 7, 2001, 115 Stat. 86, 89.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Subsec. (b)(2). Pub. L. 107–16, § 561(b), substituted “or subsection (c)(1)” for “with respect to a prior direct skip”.
+2001—Subsec. (b)(2). Pub. L. 107–16, § 561(b), substituted “or subsection (c)(1)” for “with respect to a prior direct skip”.
 
-Subsecs. (c) to (e). Pub. L. 107–16, § 561(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+Subsecs. (c) to (e). Pub. L. 107–16, § 561(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 1988—Subsec. (b)(2). Pub. L. 100–647 substituted “paragraph (1) with respect to a prior direct skip)” for “paragraph (1)) with respect to a prior direct skip”.
 
@@ -737,7 +737,7 @@ Subsecs. (c) to (e). Pub. L. 107–16, § 561(a), added subsecs. (c) and (d) a
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–16, title V, § 561(c), June 7, 2001, 115 Stat. 89, provided that:
+Pub. L. 107–16, title V, § 561(c), June 7, 2001, 115 Stat. 89, provided that:
 
 > **“(1) Deemed allocation.—** Section 2632(c) of the Internal Revenue Code of 1986 (as added by subsection (a)), and the amendment made by subsection (b) [amending this section], shall apply to transfers subject to chapter 11 or 12 made after December 31, 2000, and to estate tax inclusion periods ending after December 31, 2000.
 
@@ -753,7 +753,7 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 ## Subchapter E—Applicable Rate; Inclusion Ratio
 
-### § 2641. Applicable rate
+### § 2641. Applicable rate
 
 **(a) General rule** For purposes of this chapter, the term “applicable rate” means, with respect to any generation-skipping transfer, the product of—
 
@@ -765,7 +765,7 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 For purposes of subsection (a), the term “maximum Federal estate tax rate” means the maximum rate imposed by section 2001 on the estates of decedents dying at the time of the taxable distribution, taxable termination, or direct skip, as the case may be.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2722.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2722.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -775,9 +775,9 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 **Modification of Generation-Skipping Transfer Tax**
 
-Pub. L. 111–312, title III, § 302(c), Dec. 17, 2010, 124 Stat. 3302, provided that: “In the case of any generation-skipping transfer made after December 31, 2009, and before January 1, 2011, the applicable rate determined under section 2641(a) of the Internal Revenue Code of 1986 shall be zero.”
+Pub. L. 111–312, title III, § 302(c), Dec. 17, 2010, 124 Stat. 3302, provided that: “In the case of any generation-skipping transfer made after December 31, 2009, and before January 1, 2011, the applicable rate determined under section 2641(a) of the Internal Revenue Code of 1986 shall be zero.”
 
-### § 2642. Inclusion ratio
+### § 2642. Inclusion ratio
 
 **(a) Inclusion ratio defined** For purposes of this chapter—
 
@@ -991,47 +991,47 @@ In determining whether to grant relief under this paragraph, the Secretary shall
 
 An allocation of GST exemption under section 2632 that demonstrates an intent to have the lowest possible inclusion ratio with respect to a transfer or a trust shall be deemed to be an allocation of so much of the transferor’s unused GST exemption as produces the lowest possible inclusion ratio. In determining whether there has been substantial compliance, all relevant circumstances shall be taken into account, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, § 1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, § 7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§ 11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519; Pub. L. 107–16, title V, §§ 562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, § 1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, § 7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§ 11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519; Pub. L. 107–16, title V, §§ 562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Subsec. (a)(3). Pub. L. 107–16, § 562(a), added par. (3).
+2001—Subsec. (a)(3). Pub. L. 107–16, § 562(a), added par. (3).
 
-Subsec. (b)(1). Pub. L. 107–16, § 563(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
+Subsec. (b)(1). Pub. L. 107–16, § 563(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
 
 “(A) the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 12, and
 
 “(B) such allocation shall be effective on and after the date of such transfer.”
 
-Subsec. (b)(2)(A). Pub. L. 107–16, § 563(b), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
+Subsec. (b)(2)(A). Pub. L. 107–16, § 563(b), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
 
-Subsec. (g). Pub. L. 107–16, § 564(a), added subsec. (g).
+Subsec. (g). Pub. L. 107–16, § 564(a), added subsec. (g).
 
-1990—Subsec. (b)(3). Pub. L. 101–508, § 11704(a)(36), amended Pub. L. 100–647, § 1014(g)(4)(F)(ii). See 1988 Amendment note below.
+1990—Subsec. (b)(3). Pub. L. 101–508, § 11704(a)(36), amended Pub. L. 100–647, § 1014(g)(4)(F)(ii). See 1988 Amendment note below.
 
-Subsec. (c)(2). Pub. L. 101–508, § 11703(c)(2), inserted at end: “Rules similar to the rules of section 2652(c)(3) shall apply for purposes of subparagraph (A).”
+Subsec. (c)(2). Pub. L. 101–508, § 11703(c)(2), inserted at end: “Rules similar to the rules of section 2652(c)(3) shall apply for purposes of subparagraph (A).”
 
-Subsec. (c)(2)(B). Pub. L. 101–508, § 11703(c)(1), substituted “the trust does not terminate before the individual dies” for “such individual dies before the trust is terminated”.
+Subsec. (c)(2)(B). Pub. L. 101–508, § 11703(c)(1), substituted “the trust does not terminate before the individual dies” for “such individual dies before the trust is terminated”.
 
-Subsec. (d)(2)(B)(i)(I). Pub. L. 101–508, § 11704(a)(17), substituted “State” for “state”.
+Subsec. (d)(2)(B)(i)(I). Pub. L. 101–508, § 11704(a)(17), substituted “State” for “state”.
 
 1989—Subsec. (b)(1), (3). Pub. L. 101–239 substituted “a gift tax return filed on or before the date prescribed by section 6075(b)” for “a timely filed gift tax return required by section 6019” in introductory provisions.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, § 1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3) and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
+1988—Subsec. (a)(2). Pub. L. 100–647, § 1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3) and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
 
-Subsec. (b). Pub. L. 100–647, § 1014(g)(4)(D), inserted “Except as provided in subsection (f)—” as introductory provision.
+Subsec. (b). Pub. L. 100–647, § 1014(g)(4)(D), inserted “Except as provided in subsection (f)—” as introductory provision.
 
-Subsec. (b)(2)(A). Pub. L. 100–647, § 1014(g)(4)(C), inserted before period at end “; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
+Subsec. (b)(2)(A). Pub. L. 100–647, § 1014(g)(4)(C), inserted before period at end “; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
 
-Subsec. (b)(2)(B). Pub. L. 100–647, § 1014(g)(4)(E), substituted “to property transferred at death” for “at or after death” in heading and “to property transferred as a result of the death of the transferor” for “at or after the death of the transferor” in text.
+Subsec. (b)(2)(B). Pub. L. 100–647, § 1014(g)(4)(E), substituted “to property transferred at death” for “at or after death” in heading and “to property transferred as a result of the death of the transferor” for “at or after the death of the transferor” in text.
 
-Subsec. (b)(3). Pub. L. 100–647, § 1014(g)(4)(F)(ii), as amended by Pub. L. 101–508, § 11704(a)(36), substituted “Allocations to inter vivos transfers” for “Inter vivos allocations” in heading.
+Subsec. (b)(3). Pub. L. 100–647, § 1014(g)(4)(F)(ii), as amended by Pub. L. 101–508, § 11704(a)(36), substituted “Allocations to inter vivos transfers” for “Inter vivos allocations” in heading.
 
-Pub. L. 100–647, § 1014(g)(4)(F)(i), substituted “to any property not transferred as a result of the death of the transferor is” for “to any property is made during the life of the transferor but is”.
+Pub. L. 100–647, § 1014(g)(4)(F)(i), substituted “to any property not transferred as a result of the death of the transferor is” for “to any property is made during the life of the transferor but is”.
 
-Subsec. (c). Pub. L. 100–647, § 1014(g)(17)(A), inserted “direct skips which are” in heading and amended text generally. Prior to amendment, text read as follows:
+Subsec. (c). Pub. L. 100–647, § 1014(g)(17)(A), inserted “direct skips which are” in heading and amended text generally. Prior to amendment, text read as follows:
 
 “(1) Direct skips.—In the case of any direct skip which is a nontaxable gift, the inclusion ratio shall be zero.
 
@@ -1047,23 +1047,23 @@ Subsec. (c). Pub. L. 100–647, § 1014(g)(17)(A), inserted “direct skips wh
 
 “(B) section 2503(e).”
 
-Subsec. (d)(1). Pub. L. 100–647, § 1014(g)(17)(B), struck out “(other than a nontaxable gift)” after “transfer of property”.
+Subsec. (d)(1). Pub. L. 100–647, § 1014(g)(17)(B), struck out “(other than a nontaxable gift)” after “transfer of property”.
 
-Subsec. (d)(2)(B)(i). Pub. L. 100–647, § 1014(g)(18), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the value of the property involved in such transfer, reduced by any charitable deduction allowed under section 2055 or 2522 with respect to such property, and”.
+Subsec. (d)(2)(B)(i). Pub. L. 100–647, § 1014(g)(18), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the value of the property involved in such transfer, reduced by any charitable deduction allowed under section 2055 or 2522 with respect to such property, and”.
 
-Subsec. (e). Pub. L. 100–647, § 1014(g)(3)(A), added subsec. (e).
+Subsec. (e). Pub. L. 100–647, § 1014(g)(3)(A), added subsec. (e).
 
-Subsec. (f). Pub. L. 100–647, § 1014(g)(4)(A), added subsec. (f).
+Subsec. (f). Pub. L. 100–647, § 1014(g)(4)(A), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–16, title V, § 562(b), June 7, 2001, 115 Stat. 90, provided that: “The amendment made by this section [amending this section] shall apply to severances after December 31, 2000.”
+Pub. L. 107–16, title V, § 562(b), June 7, 2001, 115 Stat. 90, provided that: “The amendment made by this section [amending this section] shall apply to severances after December 31, 2000.”
 
-Pub. L. 107–16, title V, § 563(c), June 7, 2001, 115 Stat. 91, provided that: “The amendments made by this section [amending this section] shall apply to transfers subject to chapter 11 or 12 of the Internal Revenue Code of 1986 made after December 31, 2000.”
+Pub. L. 107–16, title V, § 563(c), June 7, 2001, 115 Stat. 91, provided that: “The amendments made by this section [amending this section] shall apply to transfers subject to chapter 11 or 12 of the Internal Revenue Code of 1986 made after December 31, 2000.”
 
-Pub. L. 107–16, title V, § 564(b), June 7, 2001, 115 Stat. 91, provided that:
+Pub. L. 107–16, title V, § 564(b), June 7, 2001, 115 Stat. 91, provided that:
 
 > **“(1) Relief from late elections.—** Section 2642(g)(1) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to requests pending on, or filed after, December 31, 2000.
 
@@ -1071,7 +1071,7 @@ Pub. L. 107–16, title V, § 564(b), June 7, 2001, 115 Stat. 91, provided tha
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11703(c)(4), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] shall apply to transfers after March 31, 1988.”
+Pub. L. 101–508, title XI, § 11703(c)(4), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] shall apply to transfers after March 31, 1988.”
 
 **Effective Date of 1989 Amendment**
 
@@ -1079,9 +1079,9 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1014(g)(3)(B), Nov. 10, 1988, 102 Stat. 3563, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply for purposes of determining the inclusion ratio with respect to property transferred after October 13, 1987.”
+Pub. L. 100–647, title I, § 1014(g)(3)(B), Nov. 10, 1988, 102 Stat. 3563, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply for purposes of determining the inclusion ratio with respect to property transferred after October 13, 1987.”
 
-Pub. L. 100–647, title I, § 1014(g)(17)(C), Nov. 10, 1988, 102 Stat. 3567, provided that: “The amendments made by this paragraph [amending this section] shall apply to transfers after March 31, 1988.”
+Pub. L. 100–647, title I, § 1014(g)(17)(C), Nov. 10, 1988, 102 Stat. 3567, provided that: “The amendments made by this paragraph [amending this section] shall apply to transfers after March 31, 1988.”
 
 Amendment by section 1014(g)(4), (18) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -1091,7 +1091,7 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 ## Subchapter F—Other Definitions and Special Rules
 
-### § 2651. Generation assignment
+### § 2651. Generation assignment
 
 **(a) In general**
 
@@ -1169,7 +1169,7 @@ Except as provided in paragraph (3), if an estate, trust, partnership, corporati
 
 shall be assigned to the transferor’s generation.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2725; amended Pub. L. 100–647, title I, § 1014(g)(11), (19), Nov. 10, 1988, 102 Stat. 3565, 3567; Pub. L. 105–34, title V, § 511(a), Aug. 5, 1997, 111 Stat. 860.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2725; amended Pub. L. 100–647, title I, § 1014(g)(11), (19), Nov. 10, 1988, 102 Stat. 3565, 3567; Pub. L. 105–34, title V, § 511(a), Aug. 5, 1997, 111 Stat. 860.)
 
 **Editorial Notes**
 
@@ -1177,9 +1177,9 @@ shall be assigned to the transferor’s generation.
 
 1997—Subsecs. (e), (f). Pub. L. 105–34 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1988—Subsec. (b)(2). Pub. L. 100–647, § 1014(g)(19), inserted “(or former spouse)” after “a spouse”.
+1988—Subsec. (b)(2). Pub. L. 100–647, § 1014(g)(19), inserted “(or former spouse)” after “a spouse”.
 
-Subsec. (e)(3). Pub. L. 100–647, § 1014(g)(11), amended par. (3) generally, including governmental entities among the organizations to be assigned to transferor’s generation.
+Subsec. (e)(3). Pub. L. 100–647, § 1014(g)(11), amended par. (3) generally, including governmental entities among the organizations to be assigned to transferor’s generation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1195,7 +1195,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2652. Other definitions
+### § 2652. Other definitions
 
 **(a) Transferor** For purposes of this chapter—
 
@@ -1263,27 +1263,27 @@ For purposes of paragraph (1), an interest which is used primarily to postpone o
 
 For purposes of this chapter, the term “executor” has the meaning given such term by section 2203.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2726; amended Pub. L. 100–647, title I, § 1014(g)(6), (8), (9), (14), (20), Nov. 10, 1988, 102 Stat. 3565–3567; Pub. L. 105–34, title XIII, § 1305(b), Aug. 5, 1997, 111 Stat. 1040; Pub. L. 105–206, title VI, § 6013(a)(3), (4)(A), July 22, 1998, 112 Stat. 819.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2726; amended Pub. L. 100–647, title I, § 1014(g)(6), (8), (9), (14), (20), Nov. 10, 1988, 102 Stat. 3565–3567; Pub. L. 105–34, title XIII, § 1305(b), Aug. 5, 1997, 111 Stat. 1040; Pub. L. 105–206, title VI, § 6013(a)(3), (4)(A), July 22, 1998, 112 Stat. 819.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (b)(1). Pub. L. 105–206, § 6013(a)(4)(A), struck out at end “Such term shall not include any trust during any period the trust is treated as part of an estate under section 645.”
+1998—Subsec. (b)(1). Pub. L. 105–206, § 6013(a)(4)(A), struck out at end “Such term shall not include any trust during any period the trust is treated as part of an estate under section 645.”
 
-Pub. L. 105–206, § 6013(a)(3), substituted “section 645” for “section 646”.
+Pub. L. 105–206, § 6013(a)(3), substituted “section 645” for “section 646”.
 
 1997—Subsec. (b)(1). Pub. L. 105–34 inserted at end “Such term shall not include any trust during any period the trust is treated as part of an estate under section 646.”
 
-1988—Subsec. (a)(1). Pub. L. 100–647, § 1014(g)(9), substituted “any property” for “a transfer of a kind” in subpars. (A) and (B) and inserted at end “An individual shall be treated as transferring any property with respect to which such individual is the transferor.”
+1988—Subsec. (a)(1). Pub. L. 100–647, § 1014(g)(9), substituted “any property” for “a transfer of a kind” in subpars. (A) and (B) and inserted at end “An individual shall be treated as transferring any property with respect to which such individual is the transferor.”
 
-Subsec. (a)(3). Pub. L. 100–647, § 1014(g)(14), substituted “any trust” for “any property” in subpars. (A) and (B) and “may elect to treat all of the property in such trust” for “may elect to treat such property” in closing provisions.
+Subsec. (a)(3). Pub. L. 100–647, § 1014(g)(14), substituted “any trust” for “any property” in subpars. (A) and (B) and “may elect to treat all of the property in such trust” for “may elect to treat such property” in closing provisions.
 
-Subsec. (c)(2). Pub. L. 100–647, § 1014(g)(8), struck out “nominal” before “interests” in heading and substituted “any tax” for “the tax” in text.
+Subsec. (c)(2). Pub. L. 100–647, § 1014(g)(8), struck out “nominal” before “interests” in heading and substituted “any tax” for “the tax” in text.
 
-Subsec. (c)(3). Pub. L. 100–647, § 1014(g)(6), added par. (3).
+Subsec. (c)(3). Pub. L. 100–647, § 1014(g)(6), added par. (3).
 
-Subsec. (d). Pub. L. 100–647, § 1014(g)(20), added subsec. (d).
+Subsec. (d). Pub. L. 100–647, § 1014(g)(20), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1303,7 +1303,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2653. Taxation of multiple skips
+### § 2653. Taxation of multiple skips
 
 **(a) General rule** For purposes of this chapter, if—
 
@@ -1329,7 +1329,7 @@ If the generation-skipping transfer referred to in subsection (a) involves the t
 
 For purposes of subparagraph (A), the nontax portion of any distribution is the amount of such distribution multiplied by the applicable fraction which applies to such distribution.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2727.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2727.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1337,7 +1337,7 @@ For purposes of subparagraph (A), the nontax portion of any distribution is the 
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2654. Special rules
+### § 2654. Special rules
 
 **(a) Basis adjustment**
 
@@ -1369,7 +1369,7 @@ For provisions relating to the effect of a qualified disclaimer for purposes of 
 
 The preceding sentence shall not apply if the trustee has knowledge of facts sufficient reasonably to conclude that a gift tax return was required to be filed or that the inclusion ratio was erroneous.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2727; amended Pub. L. 100–647, title I, § 1014(g)(12), (13), Nov. 10, 1988, 102 Stat. 3565, 3566; Pub. L. 101–239, title VII, § 7811(j)(2), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 105–206, title VI, § 6013(a)(4)(B), July 22, 1998, 112 Stat. 819; Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(iii), Dec. 19, 2014, 128 Stat. 4051.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2727; amended Pub. L. 100–647, title I, § 1014(g)(12), (13), Nov. 10, 1988, 102 Stat. 3565, 3566; Pub. L. 101–239, title VII, § 7811(j)(2), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 105–206, title VI, § 6013(a)(4)(B), July 22, 1998, 112 Stat. 819; Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(iii), Dec. 19, 2014, 128 Stat. 4051.)
 
 **Editorial Notes**
 
@@ -1381,9 +1381,9 @@ The preceding sentence shall not apply if the trustee has knowledge of facts suf
 
 1989—Subsec. (a)(1). Pub. L. 101–239 inserted at end “The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.”
 
-1988—Subsec. (a)(2). Pub. L. 100–647, § 1014(g)(12), inserted “or decrease” after “any increase” and “or decrease (as the case may be)” after “such increase”.
+1988—Subsec. (a)(2). Pub. L. 100–647, § 1014(g)(12), inserted “or decrease” after “any increase” and “or decrease (as the case may be)” after “such increase”.
 
-Subsec. (b). Pub. L. 100–647, § 1014(g)(13), substituted “Certain trusts” for “Separate shares” in heading and amended text generally. Prior to amendment, text read as follows: “Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts.”
+Subsec. (b). Pub. L. 100–647, § 1014(g)(13), substituted “Certain trusts” for “Separate shares” in heading and amended text generally. Prior to amendment, text read as follows: “Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1413,11 +1413,11 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 **Amendments**
 
-2010—Pub. L. 111–312, title III, § 301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, § 501(c)(2), had never been enacted. See 2001 Amendment note below.
+2010—Pub. L. 111–312, title III, § 301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, § 501(c)(2), had never been enacted. See 2001 Amendment note below.
 
-2001—Pub. L. 107–16, title V, § 501(c)(2), June 7, 2001, 115 Stat. 69, added item 2664 “Termination”.
+2001—Pub. L. 107–16, title V, § 501(c)(2), June 7, 2001, 115 Stat. 69, added item 2664 “Termination”.
 
-### § 2661. Administration
+### § 2661. Administration
 
 Insofar as applicable and not inconsistent with the provisions of this chapter—
 
@@ -1425,7 +1425,7 @@ Insofar as applicable and not inconsistent with the provisions of this chapter�
 
 **(2)** in the case of a generation-skipping transfer occurring at the same time as and as a result of the death of an individual, all provisions of subtitle F (including penalties) applicable to the estate tax, to chapter 11, or to section 2001 are hereby made applicable in respect of the generation-skipping transfer tax, this chapter, or section 2601 (as the case may be).
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2728.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2728.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1433,7 +1433,7 @@ Insofar as applicable and not inconsistent with the provisions of this chapter�
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### § 2662. Return requirements
+### § 2662. Return requirements
 
 **(a) In general** The Secretary shall prescribe by regulations the person who is required to make the return with respect to the tax imposed by this chapter and the time by which any such return must be filed. To the extent practicable, such regulations shall provide that—
 
@@ -1449,7 +1449,7 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 The Secretary may by regulations require a return to be filed containing such information as he determines to be necessary for purposes of this chapter.
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2728.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2728.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1459,9 +1459,9 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 **Extension of Time for Filing Return**
 
-Pub. L. 111–312, title III, § 301(d)(2), Dec. 17, 2010, 124 Stat. 3300, provided that: “In the case of any generation-skipping transfer made after December 31, 2009, and before the date of the enactment of this Act [Dec. 17, 2010], the due date for filing any return under section 2662 of the Internal Revenue Code of 1986 (including any election required to be made on such a return) shall not be earlier than the date which is 9 months after the date of the enactment of this Act.”
+Pub. L. 111–312, title III, § 301(d)(2), Dec. 17, 2010, 124 Stat. 3300, provided that: “In the case of any generation-skipping transfer made after December 31, 2009, and before the date of the enactment of this Act [Dec. 17, 2010], the due date for filing any return under section 2662 of the Internal Revenue Code of 1986 (including any election required to be made on such a return) shall not be earlier than the date which is 9 months after the date of the enactment of this Act.”
 
-### § 2663. Regulations
+### § 2663. Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this chapter, including—
 
@@ -1471,7 +1471,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 **(3)** regulations providing for such adjustments as may be necessary to the application of this chapter in the case of any arrangement which, although not a trust, is treated as a trust under section 2652(b).
 
-(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2729; amended Pub. L. 100–647, title I, § 1014(g)(10), Nov. 10, 1988, 102 Stat. 3565.)
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2729; amended Pub. L. 100–647, title I, § 1014(g)(10), Nov. 10, 1988, 102 Stat. 3565.)
 
 **Editorial Notes**
 
@@ -1489,9 +1489,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-### [§ 2664. Repealed. Pub. L. 111–312, title III, § 301(a), Dec. 17, 2010, 124 Stat. 3300]
+### [§ 2664. Repealed. Pub. L. 111–312, title III, § 301(a), Dec. 17, 2010, 124 Stat. 3300]
 
-Section, added Pub. L. 107–16, title V, § 501(b), June 7, 2001, 115 Stat. 69, related to termination of applicability of chapter to generation-skipping transfers after Dec. 31, 2009.
+Section, added Pub. L. 107–16, title V, § 501(b), June 7, 2001, 115 Stat. 69, related to termination of applicability of chapter to generation-skipping transfers after Dec. 31, 2009.
 
 **Statutory Notes and Related Subsidiaries**
 

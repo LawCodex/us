@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(m)(3), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), Jan. 1, 2021, 134 Stat. 4287, which added this analysis, by generally revising the items to be inserted. Directory language amending section “1872(a)(B)” of Pub. L. 116–283 was executed as if it had referred to section “1872(a)(1)(B)” to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(m)(3), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), Jan. 1, 2021, 134 Stat. 4287, which added this analysis, by generally revising the items to be inserted. Directory language amending section “1872(a)(B)” of Pub. L. 116–283 was executed as if it had referred to section “1872(a)(1)(B)” to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Notice of Cost-Free Federal Procurement Technical Assistance in Connection With Registration of Small Business Concerns on Procurement Websites of the Department of Defense**
 
-Pub. L. 115–91, div. A, title XVII, § 1707, Dec. 12, 2017, 131 Stat. 1809, provided that:
+Pub. L. 115–91, div. A, title XVII, § 1707, Dec. 12, 2017, 131 Stat. 1809, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish procedures to ensure that any notice or direct communication regarding the registration of a small business concern on a website maintained by the Department of Defense relating to contracting opportunities contains information about cost-free Federal procurement technical assistance services that are available through a procurement technical assistance program established under [former] chapter 142 of title 10, United States Code [see chapter 388 of this title].
 
 > **“(b) Small Business Concern Defined.—** The term ‘small business concern’ has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632).”
 
-## § 4951. Definitions
+## § 4951. Definitions
 
 In this chapter:
 
@@ -61,25 +61,25 @@ In this chapter:
 
 **(5)** The term “business entity” means a corporation, association, partnership, limited liability company, limited liability partnership, consortia, not-for-profit, or other legal entity.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), (2), Jan. 1, 2021, 134 Stat. 4287; Pub. L. 117–81, div. A, title XVII, § 1701(m)(1)(A), (3), Dec. 27, 2021, 135 Stat. 2144, 2145; Pub. L. 118–31, div. A, title VIII, § 853(a), Dec. 22, 2023, 137 Stat. 344.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), (2), Jan. 1, 2021, 134 Stat. 4287; Pub. L. 117–81, div. A, title XVII, § 1701(m)(1)(A), (3), Dec. 27, 2021, 135 Stat. 2144, 2145; Pub. L. 118–31, div. A, title VIII, § 853(a), Dec. 22, 2023, 137 Stat. 344.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 2411 of this title, which was transferred to this section by Pub. L. 116–283, § 1872(a)(2), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 691; Pub. L. 99–500, § 101(c) [title X, § 956(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 956(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, § 956(a), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 807(b), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 100–456, div. A, title VIII, § 841(b)(2), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, § 853(e), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–25, title VII, § 701(j)(5), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, § 1052(31), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 115–91, div. A, title X, § 1081(a)(36), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, § 852(a), Dec. 20, 2019, 133 Stat. 1511.
+The text of section 2411 of this title, which was transferred to this section by Pub. L. 116–283, § 1872(a)(2), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 691; Pub. L. 99–500, § 101(c) [title X, § 956(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 956(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, § 956(a), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 807(b), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 100–456, div. A, title VIII, § 841(b)(2), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, § 853(e), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–25, title VII, § 701(j)(5), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, § 1052(31), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 115–91, div. A, title X, § 1081(a)(36), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, § 852(a), Dec. 20, 2019, 133 Stat. 1511.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(1), (3), Dec. 27, 2021, 135 Stat. 2144, 2145, amended Pub. L. 116–283, § 1872(a)(1)(B), (2)–(4), which had originally added this section and transferred to subsecs. (a) to (c) thereof the text of sections 2412, 2411, and 2420 of this title, respectively. After amendment by Pub. L. 117–81, section 1872(a)(1)(B) of Pub. L. 116–283 reenacted this section, and section 1872(a)(2)–(4) of Pub. L. 116–283 instead transferred sections 2411, 2412, and 2420 to this section, section 4952, and section 4953 of this title, respectively.
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(1), (3), Dec. 27, 2021, 135 Stat. 2144, 2145, amended Pub. L. 116–283, § 1872(a)(1)(B), (2)–(4), which had originally added this section and transferred to subsecs. (a) to (c) thereof the text of sections 2412, 2411, and 2420 of this title, respectively. After amendment by Pub. L. 117–81, section 1872(a)(1)(B) of Pub. L. 116–283 reenacted this section, and section 1872(a)(2)–(4) of Pub. L. 116–283 instead transferred sections 2411, 2412, and 2420 to this section, section 4952, and section 4953 of this title, respectively.
 
 **Amendments**
 
-2023—Par. (1)(C). Pub. L. 118–31, § 853(a)(1), substituted “nonprofit organization” for “private, nonprofit organization”.
+2023—Par. (1)(C). Pub. L. 118–31, § 853(a)(1), substituted “nonprofit organization” for “private, nonprofit organization”.
 
-Par. (5). Pub. L. 118–31, § 853(a)(2), added par. (5).
+Par. (5). Pub. L. 118–31, § 853(a)(2), added par. (5).
 
-2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
-Pub. L. 116–283, § 1872(a)(2), as amended by Pub. L. 117–81, § 1701(m)(1)(A), transferred the text of section 2411 of this title to this section.
+Pub. L. 116–283, § 1872(a)(2), as amended by Pub. L. 117–81, § 1701(m)(1)(A), transferred the text of section 2411 of this title to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -91,7 +91,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 4952. Purposes
+## § 4952. Purposes
 
 The purposes of the program authorized by this chapter are—
 
@@ -101,23 +101,23 @@ The purposes of the program authorized by this chapter are—
 
 **(3)** to foster innovation for the defense industrial base and to diversify and expand the defense industrial base.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), (3), Jan. 1, 2021, 134 Stat. 4287, 4288; Pub. L. 117–81, div. A, title XVII, § 1701(m)(1)(B), (3), Dec. 27, 2021, 135 Stat. 2144, 2145; Pub. L. 119–60, div. A, title VIII, § 861(a), Dec. 18, 2025, 139 Stat. 988.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), (3), Jan. 1, 2021, 134 Stat. 4287, 4288; Pub. L. 117–81, div. A, title XVII, § 1701(m)(1)(B), (3), Dec. 27, 2021, 135 Stat. 2144, 2145; Pub. L. 119–60, div. A, title VIII, § 861(a), Dec. 18, 2025, 139 Stat. 988.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 2412 of this title, which was transferred to this section by Pub. L. 116–283, § 1872(a)(3), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 692.
+The text of section 2412 of this title, which was transferred to this section by Pub. L. 116–283, § 1872(a)(3), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 692.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(A), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(5), which had originally transferred section 2413 of this title to this section and made an amendment in the text. After amendment by Pub. L. 117–81, section 1872(a)(5) of Pub. L. 116–283 instead transferred section 2413 to section 4954 of this title and consequently amended the text of that section.
+Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(A), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(5), which had originally transferred section 2413 of this title to this section and made an amendment in the text. After amendment by Pub. L. 117–81, section 1872(a)(5) of Pub. L. 116–283 instead transferred section 2413 to section 4954 of this title and consequently amended the text of that section.
 
 **Amendments**
 
 2025—Par. (3). Pub. L. 119–60 added par. (3).
 
-2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
-Pub. L. 116–283, § 1872(a)(3), as amended by Pub. L. 117–81, § 1701(m)(1)(B), transferred the text of section 2412 of this title to this section.
+Pub. L. 116–283, § 1872(a)(3), as amended by Pub. L. 117–81, § 1701(m)(1)(B), transferred the text of section 2412 of this title to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -129,35 +129,35 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 4953. Regulations
+## § 4953. Regulations
 
-The Secretary of Defense shall prescribe regulations to carry out this chapter, and shall consult with an association recognized under section 4954(f) 1
+The Secretary of Defense shall prescribe regulations to carry out this chapter, and shall consult with an association recognized under section 4954(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 regarding any revisions to such regulations.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), (4), Jan. 1, 2021, 134 Stat. 4287, 4288; Pub. L. 117–81, div. A, title XVII, § 1701(m)(1)(C), (3), Dec. 27, 2021, 135 Stat. 2144, 2145; Pub. L. 117–263, div. A, title VIII, § 854(c), Dec. 23, 2022, 136 Stat. 2723.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), (4), Jan. 1, 2021, 134 Stat. 4287, 4288; Pub. L. 117–81, div. A, title XVII, § 1701(m)(1)(C), (3), Dec. 27, 2021, 135 Stat. 2144, 2145; Pub. L. 117–263, div. A, title VIII, § 854(c), Dec. 23, 2022, 136 Stat. 2723.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4954(f), referred to in text, was redesignated as section 4954(e) of this title, and a new subsec. (f) of section 4954 of this title was added, by Pub. L. 118–31, div. A, title VIII, § 853(b)(2), (3), Dec. 22, 2023, 137 Stat. 344.
+Section 4954(f), referred to in text, was redesignated as section 4954(e) of this title, and a new subsec. (f) of section 4954 of this title was added, by Pub. L. 118–31, div. A, title VIII, § 853(b)(2), (3), Dec. 22, 2023, 137 Stat. 344.
 
 **Codification**
 
-The text of section 2420 of this title, which was transferred to this section by Pub. L. 116–283, § 1872(a)(4), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, § 2416; renumbered § 2417, Pub. L. 99–500, § 101(c) [title X, § 957(a)(1)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 957(a)(1)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(a)(1)(A), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; renumbered § 2418, Pub. L. 101–510, div. A, title VIII, § 814(a)(1)(A), Nov. 5, 1990, 104 Stat. 1596; renumbered § 2419, Pub. L. 102–484, div. D, title XLII, § 4236(a)(1)(A), Oct. 23, 1992, 106 Stat. 2691; renumbered § 2420, Pub. L. 113–66, div. A, title XVI, § 1611(a)(1)(A), Dec. 26, 2013, 127 Stat. 946.
+The text of section 2420 of this title, which was transferred to this section by Pub. L. 116–283, § 1872(a)(4), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, § 2416; renumbered § 2417, Pub. L. 99–500, § 101(c) [title X, § 957(a)(1)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 957(a)(1)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(a)(1)(A), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; renumbered § 2418, Pub. L. 101–510, div. A, title VIII, § 814(a)(1)(A), Nov. 5, 1990, 104 Stat. 1596; renumbered § 2419, Pub. L. 102–484, div. D, title XLII, § 4236(a)(1)(A), Oct. 23, 1992, 106 Stat. 2691; renumbered § 2420, Pub. L. 113–66, div. A, title XVI, § 1611(a)(1)(A), Dec. 26, 2013, 127 Stat. 946.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(B), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(6), which had originally transferred section 2414 of this title to this section and made amendments in the text. After amendment by Pub. L. 117–81, section 1872(a)(6) of Pub. L. 116–283 instead transferred section 2414 to section 4955 of this title and consequently amended the text of that section.
+Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(B), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(6), which had originally transferred section 2414 of this title to this section and made amendments in the text. After amendment by Pub. L. 117–81, section 1872(a)(6) of Pub. L. 116–283 instead transferred section 2414 to section 4955 of this title and consequently amended the text of that section.
 
 **Amendments**
 
-2022—Pub. L. 117–263 inserted before period at end: “, and shall consult with an association recognized under section 4954(f) regarding any revisions to such regulations”.
+2022—Pub. L. 117–263 inserted before period at end: “, and shall consult with an association recognized under section 4954(f) regarding any revisions to such regulations”.
 
-2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
-Pub. L. 116–283, § 1872(a)(4), as amended by Pub. L. 117–81, § 1701(m)(1)(C), transferred the text of section 2420 of this title to this section.
+Pub. L. 116–283, § 1872(a)(4), as amended by Pub. L. 117–81, § 1701(m)(1)(C), transferred the text of section 2420 of this title to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,7 +169,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 4954. Cooperative agreements
+## § 4954. Cooperative agreements
 
 **(a) Authority.—** The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
 
@@ -195,53 +195,53 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(f) Waiver of Government Cost Share Restriction.—** If the Secretary of Defense determines it to be in the best interests of the Federal Government, the Secretary may waive the restrictions on the percentage of eligible costs covered by the program under section (b). The Secretary shall submit to the congressional defense committees a written justification for such determination.
 
-(Added Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2605, § 2413; amended Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 99–500, § 101(c) [title X, § 956(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 956(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, § 956(b), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, and amended Pub. L. 100–180, div. A, title XII, § 1233(b), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 105–261, div. A, title VIII, § 802(a)(1), Oct. 17, 1998, 112 Stat. 2081; Pub. L. 107–314, div. A, title VIII, § 814, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 113–66, div. A, title XVI, §§ 1611(c), 1612(a), Dec. 26, 2013, 127 Stat. 947, 948; Pub. L. 115–232, div. A, title VIII, § 858(a), Aug. 13, 2018, 132 Stat. 1892; renumbered § 4954 and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(5), Jan. 1, 2021, 134 Stat. 4288; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(A), Dec. 27, 2021, 135 Stat. 2135, 2144; Pub. L. 117–263, div. A, title VIII, § 854(b), Dec. 23, 2022, 136 Stat. 2722; Pub. L. 118–31, div. A, title VIII, § 853(b), Dec. 22, 2023, 137 Stat. 344.)
+(Added Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2605, § 2413; amended Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 99–500, § 101(c) [title X, § 956(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 956(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, § 956(b), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, and amended Pub. L. 100–180, div. A, title XII, § 1233(b), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 105–261, div. A, title VIII, § 802(a)(1), Oct. 17, 1998, 112 Stat. 2081; Pub. L. 107–314, div. A, title VIII, § 814, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 113–66, div. A, title XVI, §§ 1611(c), 1612(a), Dec. 26, 2013, 127 Stat. 947, 948; Pub. L. 115–232, div. A, title VIII, § 858(a), Aug. 13, 2018, 132 Stat. 1892; renumbered § 4954 and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(5), Jan. 1, 2021, 134 Stat. 4288; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(A), Dec. 27, 2021, 135 Stat. 2135, 2144; Pub. L. 117–263, div. A, title VIII, § 854(b), Dec. 23, 2022, 136 Stat. 2722; Pub. L. 118–31, div. A, title VIII, § 853(b), Dec. 22, 2023, 137 Stat. 344.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(C), Dec. 27, 2021, 135 Stat. 2144, amended Pub. L. 116–283, § 1872(a)(7), which had originally transferred section 2415 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(7) of Pub. L. 116–283 instead transferred section 2415 to section 4956 of this title.
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(C), Dec. 27, 2021, 135 Stat. 2144, amended Pub. L. 116–283, § 1872(a)(7), which had originally transferred section 2415 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(7) of Pub. L. 116–283 instead transferred section 2415 to section 4956 of this title.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2023—Subsec. (b). Pub. L. 118–31, § 853(b)(1), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+2023—Subsec. (b). Pub. L. 118–31, § 853(b)(1), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-Subsecs. (c) to (e). Pub. L. 118–31, § 853(b)(2), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.”
+Subsecs. (c) to (e). Pub. L. 118–31, § 853(b)(2), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.”
 
-Subsec. (f). Pub. L. 118–31, § 853(b)(3), added subsec. (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 118–31, § 853(b)(3), added subsec. (f). Former subsec. (f) redesignated (e).
 
 2022—Subsec. (f). Pub. L. 117–263 added subsec. (f).
 
-2021—Pub. L. 116–283, § 1872(a)(5), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(A)(i), renumbered section 2413 of this title as this section.
+2021—Pub. L. 116–283, § 1872(a)(5), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(A)(i), renumbered section 2413 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1872(a)(5)(A), inserted heading.
+Subsec. (a). Pub. L. 116–283, § 1872(a)(5)(A), inserted heading.
 
-Subsec. (b). Pub. L. 116–283, § 1872(a)(5)(B), as amended by Pub. L. 117–81, § 1701(m)(2)(A)(ii), inserted heading and, in par. (2), substituted “section 4959(b)” for “section 2419(b)”.
+Subsec. (b). Pub. L. 116–283, § 1872(a)(5)(B), as amended by Pub. L. 117–81, § 1701(m)(2)(A)(ii), inserted heading and, in par. (2), substituted “section 4959(b)” for “section 2419(b)”.
 
-Subsecs. (c) to (e). Pub. L. 116–283, § 1872(a)(5)(C)–(E), inserted heading.
+Subsecs. (c) to (e). Pub. L. 116–283, § 1872(a)(5)(C)–(E), inserted heading.
 
-2018—Subsec. (b). Pub. L. 115–232, § 858(a)(1), substituted “not more than 75 percent” for “not more than 65 percent” in introductory provisions.
+2018—Subsec. (b). Pub. L. 115–232, § 858(a)(1), substituted “not more than 75 percent” for “not more than 65 percent” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–232, § 858(a)(2), substituted “more than 75 percent, but not more than 85 percent” for “more than 65 percent, but not more than 75 percent”.
+Subsec. (b)(1). Pub. L. 115–232, § 858(a)(2), substituted “more than 75 percent, but not more than 85 percent” for “more than 65 percent, but not more than 75 percent”.
 
-2013—Subsec. (b). Pub. L. 113–66, § 1612(a)(1), substituted “65 percent” for “one-half” in introductory provisions.
+2013—Subsec. (b). Pub. L. 113–66, § 1612(a)(1), substituted “65 percent” for “one-half” in introductory provisions.
 
-Pub. L. 113–66, § 1611(c)(1)(A), (B), substituted “except that—
+Pub. L. 113–66, § 1611(c)(1)(A), (B), substituted “except that—
 
 “(1) in the case”
 
-for “except that in the case” and “; and” for period at end.
+for “except that in the case” and “; and” for period at end.
 
-Subsec. (b)(1). Pub. L. 113–66, § 1612(a), substituted “65 percent” for “one-half” and “75 percent” for “three-fourths”.
+Subsec. (b)(1). Pub. L. 113–66, § 1612(a), substituted “65 percent” for “one-half” and “75 percent” for “three-fourths”.
 
-Subsec. (b)(2). Pub. L. 113–66, § 1611(c)(1)(C), added par. (2).
+Subsec. (b)(2). Pub. L. 113–66, § 1611(c)(1)(C), added par. (2).
 
-Subsec. (d). Pub. L. 113–66, § 1611(c)(3), struck out “and in determining the level of funding to provide under an agreement under subsection (b),” after “subsection (a),”.
+Subsec. (d). Pub. L. 113–66, § 1611(c)(3), struck out “and in determining the level of funding to provide under an agreement under subsection (b),” after “subsection (a),”.
 
-Subsec. (e). Pub. L. 113–66, § 1611(c)(2), added subsec. (e).
+Subsec. (e). Pub. L. 113–66, § 1611(c)(2), added subsec. (e).
 
 2002—Subsec. (d). Pub. L. 107–314 added subsec. (d).
 
@@ -251,7 +251,7 @@ Subsec. (e). Pub. L. 113–66, § 1611(c)(2), added subsec. (e).
 
 1986—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, as amended by Pub. L. 100–180, amended subsec. (b) identically, inserting “sponsor programs to” after first reference to “agree to”, “under such programs” after “such assistance”, and “with respect to such program” after “such cost” and substituting “a program sponsored by such an entity that provides services solely in a distressed area” for “an eligible entity that is a distressed entity”.
 
-1985—Pub. L. 99–145 amended section generally, substituting “, in accordance with the provisions of this chapter, may enter” for “may, in accordance with the provisions of this chapter, enter” in subsec. (a), adding subsec. (b), and redesignating former subsec. (b) as (c).
+1985—Pub. L. 99–145 amended section generally, substituting “, in accordance with the provisions of this chapter, may enter” for “may, in accordance with the provisions of this chapter, enter” in subsec. (a), adding subsec. (b), and redesignating former subsec. (b) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -263,13 +263,13 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title XII, § 1233(c)(2), Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendment made by subsection (b) [amending Public Laws 99–500, 99–591, and 99–661 which amended this section] shall apply as if included in the enactment of Public Laws 99–500, 99–591, and 99–661.”
+Pub. L. 100–180, div. A, title XII, § 1233(c)(2), Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendment made by subsection (b) [amending Public Laws 99–500, 99–591, and 99–661 which amended this section] shall apply as if included in the enactment of Public Laws 99–500, 99–591, and 99–661.”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided that: “The amendments made by subsections (a) and (b) [amending this section, sections 4955 and 4956 of this title, and former sections 2411 and 2412 of this title] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided that: “The amendments made by subsections (a) and (b) [amending this section, sections 4955 and 4956 of this title, and former sections 2411 and 2412 of this title] shall take effect on October 1, 1985.”
 
-## § 4955. Funding
+## § 4955. Funding
 
 **(a) In General.—** Except as provided in subsection (c), the value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
 
@@ -299,55 +299,55 @@ Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided th
 
 **(e) Funding From Other Federal Agencies.—** The Secretary may accept and use funds from other Federal agencies and departments for execution and administration of the program authorized by this chapter.
 
-(Added Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, § 2414; amended Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–456, div. A, title VIII, § 841(a), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, § 819(c), Nov. 29, 1989, 103 Stat. 1503; Pub. L. 102–25, title VII, § 701(f)(7), Apr. 6, 1991, 105 Stat. 115; Pub. L. 107–107, div. A, title VIII, § 813, Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, § 815, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 109–163, div. A, title VIII, § 824, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 113–66, div. A, title XVI, §§ 1611(b), § 1612(b), Dec. 26, 2013, 127 Stat. 947, 948; Pub. L. 115–91, div. A, title VIII, § 817, Dec. 12, 2017, 131 Stat. 1462; Pub. L. 115–232, div. A, title VIII, § 858(b), title X, § 1081(a)(24)(A), Aug. 13, 2018, 132 Stat. 1892, 1984; renumbered § 4955 and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(6), Jan. 1, 2021, 134 Stat. 4288; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(B), Dec. 27, 2021, 135 Stat. 2135, 2144; Pub. L. 117–263, div. A, title VIII, § 854(d), Dec. 23, 2022, 136 Stat. 2723; Pub. L. 119–60, div. A, title VIII, § 861(b), (c), Dec. 18, 2025, 139 Stat. 988.)
+(Added Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, § 2414; amended Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–456, div. A, title VIII, § 841(a), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, § 819(c), Nov. 29, 1989, 103 Stat. 1503; Pub. L. 102–25, title VII, § 701(f)(7), Apr. 6, 1991, 105 Stat. 115; Pub. L. 107–107, div. A, title VIII, § 813, Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, § 815, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 109–163, div. A, title VIII, § 824, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 113–66, div. A, title XVI, §§ 1611(b), § 1612(b), Dec. 26, 2013, 127 Stat. 947, 948; Pub. L. 115–91, div. A, title VIII, § 817, Dec. 12, 2017, 131 Stat. 1462; Pub. L. 115–232, div. A, title VIII, § 858(b), title X, § 1081(a)(24)(A), Aug. 13, 2018, 132 Stat. 1892, 1984; renumbered § 4955 and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(6), Jan. 1, 2021, 134 Stat. 4288; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(B), Dec. 27, 2021, 135 Stat. 2135, 2144; Pub. L. 117–263, div. A, title VIII, § 854(d), Dec. 23, 2022, 136 Stat. 2723; Pub. L. 119–60, div. A, title VIII, § 861(b), (c), Dec. 18, 2025, 139 Stat. 988.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(8), which had originally transferred section 2416 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 instead transferred section 2416 to section 4957 of this title.
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(8), which had originally transferred section 2416 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 instead transferred section 2416 to section 4957 of this title.
 
 **Amendments**
 
-2025—Subsec. (a)(4). Pub. L. 119–60, § 861(c), substituted “$1,500,000” for “$1,000,000”.
+2025—Subsec. (a)(4). Pub. L. 119–60, § 861(c), substituted “$1,500,000” for “$1,000,000”.
 
-Subsec. (e). Pub. L. 119–60, § 861(b), added subsec. (e).
+Subsec. (e). Pub. L. 119–60, § 861(b), added subsec. (e).
 
 2022—Subsec. (a)(1). Pub. L. 117–263 substituted “$1,500,000” for “$1,000,000”.
 
-2021—Pub. L. 116–283, § 1872(a)(6), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(B)(i), (ii), renumbered section 2414 of this title as this section.
+2021—Pub. L. 116–283, § 1872(a)(6), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(B)(i), (ii), renumbered section 2414 of this title as this section.
 
-Subsec. (a)(1), (2). Pub. L. 116–283, § 1872(a)(6)(A), substituted “paragraph” for “clause”.
+Subsec. (a)(1), (2). Pub. L. 116–283, § 1872(a)(6)(A), substituted “paragraph” for “clause”.
 
-Subsecs. (a)(3), (4), (b). Pub. L. 116–283, § 1872(a)(6)(B), as amended by Pub. L. 117–81, § 1701(m)(2)(B)(iii), substituted “section 4951(1)(D)” for “section 2411(1)(D)”.
+Subsecs. (a)(3), (4), (b). Pub. L. 116–283, § 1872(a)(6)(B), as amended by Pub. L. 117–81, § 1701(m)(2)(B)(iii), substituted “section 4951(1)(D)” for “section 2411(1)(D)”.
 
-Subsec. (c). Pub. L. 116–283, § 1872(a)(6)(C), as amended by Pub. L. 117–81, § 1701(m)(2)(B)(iv), substituted “section 4959(b)” for “section 2419(b)”.
+Subsec. (c). Pub. L. 116–283, § 1872(a)(6)(C), as amended by Pub. L. 117–81, § 1701(m)(2)(B)(iv), substituted “section 4959(b)” for “section 2419(b)”.
 
-2018—Pub. L. 115–232, § 1081(a)(24)(A), substituted “Funding” for “FUNDING” in section catchline.
+2018—Pub. L. 115–232, § 1081(a)(24)(A), substituted “Funding” for “FUNDING” in section catchline.
 
-Subsec. (a)(1). Pub. L. 115–232, § 858(b)(1), substituted “$1,000,000” for “$750,000”.
+Subsec. (a)(1). Pub. L. 115–232, § 858(b)(1), substituted “$1,000,000” for “$750,000”.
 
-Subsec. (a)(2). Pub. L. 115–232, § 858(b)(2), substituted “$750,000” for “$450,000”.
+Subsec. (a)(2). Pub. L. 115–232, § 858(b)(2), substituted “$750,000” for “$450,000”.
 
-Subsec. (a)(3). Pub. L. 115–232, § 858(b)(3), substituted “$450,000” for “$300,000”.
+Subsec. (a)(3). Pub. L. 115–232, § 858(b)(3), substituted “$450,000” for “$300,000”.
 
-Subsec. (a)(4). Pub. L. 115–232, § 858(b)(4), substituted “$1,000,000” for “$750,000”.
+Subsec. (a)(4). Pub. L. 115–232, § 858(b)(4), substituted “$1,000,000” for “$750,000”.
 
-2017—Pub. L. 115–91, § 817(1), which directed substitution of “FUNDING” for “LIMITATION” in section catchline, was executed by making the substitution for “Limitation” in section catchline, to reflect the probable intent of Congress.
+2017—Pub. L. 115–91, § 817(1), which directed substitution of “FUNDING” for “LIMITATION” in section catchline, was executed by making the substitution for “Limitation” in section catchline, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 115–91, § 817(2), added subsec. (d).
+Subsec. (d). Pub. L. 115–91, § 817(2), added subsec. (d).
 
-2013—Subsec. (a). Pub. L. 113–66, § 1611(b)(1), substituted “Except as provided in subsection (c), the value” for “The value” in introductory provisions.
+2013—Subsec. (a). Pub. L. 113–66, § 1611(b)(1), substituted “Except as provided in subsection (c), the value” for “The value” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 113–66, § 1612(b)(1), substituted “$750,000” for “$600,000”.
+Subsec. (a)(1). Pub. L. 113–66, § 1612(b)(1), substituted “$750,000” for “$600,000”.
 
-Subsec. (a)(2). Pub. L. 113–66, § 1612(b)(2), substituted “$450,000” for “$300,000”.
+Subsec. (a)(2). Pub. L. 113–66, § 1612(b)(2), substituted “$450,000” for “$300,000”.
 
-Subsec. (a)(3). Pub. L. 113–66, § 1612(b)(3), substituted “$300,000” for “$150,000”.
+Subsec. (a)(3). Pub. L. 113–66, § 1612(b)(3), substituted “$300,000” for “$150,000”.
 
-Subsec. (a)(4). Pub. L. 113–66, § 1612(b)(1), substituted “$750,000” for “$600,000”.
+Subsec. (a)(4). Pub. L. 113–66, § 1612(b)(1), substituted “$750,000” for “$600,000”.
 
-Subsec. (c). Pub. L. 113–66, § 1611(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 113–66, § 1611(b)(2), added subsec. (c).
 
 2006—Subsec. (a)(2). Pub. L. 109–163 substituted “$300,000” for “$150,000”.
 
@@ -357,13 +357,13 @@ Subsec. (c). Pub. L. 113–66, § 1611(b)(2), added subsec. (c).
 
 1991—Subsec. (b). Pub. L. 102–25 substituted “section 2411(1)(D)” for “section 2411(a)(1)(D)”.
 
-1989—Subsec. (a). Pub. L. 101–189, § 819(c)(1), added pars. (1) to (4) and struck out former pars. (1) and (2) which read as follows:
+1989—Subsec. (a). Pub. L. 101–189, § 819(c)(1), added pars. (1) to (4) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) in the case of a program operating on a Statewide basis, $300,000; or
 
 “(2) in the case of a program operating on less than a Statewide basis, $150,000.”
 
-Subsec. (b). Pub. L. 101–189, § 819(c)(2), inserted “or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(a)(1)(D) of this title” after “or on less than a Statewide basis”.
+Subsec. (b). Pub. L. 101–189, § 819(c)(2), inserted “or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(a)(1)(D) of this title” after “or on less than a Statewide basis”.
 
 1988—Pub. L. 100–456 amended section generally. Prior to amendment, section read as follows: “The value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed $150,000.”
 
@@ -381,37 +381,37 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub. L. 99–145, set out as a note under section 4954 of this title.
 
-## § 4956. Distribution
+## § 4956. Distribution
 
 The Secretary shall allocate funds available for assistance under this chapter equally to each Department of Defense contract administrative services district. If in any such fiscal year there is an insufficient number of satisfactory proposals in a district for cooperative agreements to allow effective use of the funds allocated to that district, the funds remaining with respect to that district shall be reallocated among the remaining districts.
 
-(Added Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, § 2415; amended Pub. L. 99–145, title IX, § 919(b), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–180, div. A, title VIII, § 807(c), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 105–261, div. A, title VIII, § 802(a)(2), (b), Oct. 17, 1998, 112 Stat. 2081; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)(5)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; renumbered § 4956, Pub. L. 116–283, div. A, title XVIII, § 1872(a)(7), Jan. 1, 2021, 134 Stat. 4288; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(C), Dec. 27, 2021, 135 Stat. 2135, 2144.)
+(Added Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, § 2415; amended Pub. L. 99–145, title IX, § 919(b), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–180, div. A, title VIII, § 807(c), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 105–261, div. A, title VIII, § 802(a)(2), (b), Oct. 17, 1998, 112 Stat. 2081; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)(5)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; renumbered § 4956, Pub. L. 116–283, div. A, title XVIII, § 1872(a)(7), Jan. 1, 2021, 134 Stat. 4288; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(C), Dec. 27, 2021, 135 Stat. 2135, 2144.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(E), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(9), which had originally transferred section 2418 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(9) of Pub. L. 116–283 instead transferred section 2418 to section 4958 of this title.
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(E), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(9), which had originally transferred section 2418 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(9) of Pub. L. 116–283 instead transferred section 2418 to section 4958 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1872(a)(7), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(C), renumbered section 2415 of this title as this section.
+2021—Pub. L. 116–283, § 1872(a)(7), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(C), renumbered section 2415 of this title as this section.
 
-2000—Pub. L. 106–398 made technical amendment to directory language of Pub. L. 105–261, § 802(b). See 1998 Amendment note below.
+2000—Pub. L. 106–398 made technical amendment to directory language of Pub. L. 105–261, § 802(b). See 1998 Amendment note below.
 
-1998—Pub. L. 105–261, § 802(a)(2), substituted “district” for “region” wherever appearing and “districts” for “regions”.
+1998—Pub. L. 105–261, § 802(a)(2), substituted “district” for “region” wherever appearing and “districts” for “regions”.
 
-Pub. L. 105–261, § 802(b), as amended by Pub. L. 106–398, substituted “Department of Defense contract administrative services” for “Defense Contract Administration Services”.
+Pub. L. 105–261, § 802(b), as amended by Pub. L. 106–398, substituted “Department of Defense contract administrative services” for “Defense Contract Administration Services”.
 
-1987—Pub. L. 100–180, § 807(c), struck out subsecs. (a) and (b) relating to requirement by Secretary of Defense to reserve 75% of first $3,000,000 appropriated to carry out this chapter for purpose of assisting cooperative agreements entered into under section 2413 of this title for fiscal years 1986 and 1987, and for fiscal years after 1987 the authority of Secretary to allocate funds in accordance with such cooperative agreements, and substituted “The” for “(c) For any amount appropriated to carry out this chapter for fiscal year 1986 or 1987 in excess of $3,000,000, the”.
+1987—Pub. L. 100–180, § 807(c), struck out subsecs. (a) and (b) relating to requirement by Secretary of Defense to reserve 75% of first $3,000,000 appropriated to carry out this chapter for purpose of assisting cooperative agreements entered into under section 2413 of this title for fiscal years 1986 and 1987, and for fiscal years after 1987 the authority of Secretary to allocate funds in accordance with such cooperative agreements, and substituted “The” for “(c) For any amount appropriated to carry out this chapter for fiscal year 1986 or 1987 in excess of $3,000,000, the”.
 
-1985—Subsec. (a)(2). Pub. L. 99–145, § 919(b)(1)(A), substituted “fiscal years 1986 and 1987” for “fiscal year 1985 is 50 percent and during fiscal year 1986”.
+1985—Subsec. (a)(2). Pub. L. 99–145, § 919(b)(1)(A), substituted “fiscal years 1986 and 1987” for “fiscal year 1985 is 50 percent and during fiscal year 1986”.
 
-Subsec. (a)(3). Pub. L. 99–145, § 919(b)(1)(B), added par. (3).
+Subsec. (a)(3). Pub. L. 99–145, § 919(b)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 99–145, § 919(b)(2), substituted “1987” for “1986”.
+Subsec. (b). Pub. L. 99–145, § 919(b)(2), substituted “1987” for “1986”.
 
-Subsec. (c). Pub. L. 99–145, § 919(b)(3), added subsec. (c).
+Subsec. (c). Pub. L. 99–145, § 919(b)(3), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -423,13 +423,13 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 [[div. A], title X, § 1087(d)(5)] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
+Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 [[div. A], title X, § 1087(d)(5)] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
 
 **Effective Date of 1985 Amendment**
 
 Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub. L. 99–145, set out as a note under section 4954 of this title.
 
-## § 4957. Subcontractor information
+## § 4957. Subcontractor information
 
 **(a) Contractors to Provide Information.—** The Secretary of Defense shall require that any defense contractor in any year shall provide to an eligible entity with which the Secretary has entered into a cooperative agreement under this chapter, on the request of such entity, the information specified in subsection (b).
 
@@ -439,13 +439,13 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 
 **(d) Definition.—** In this section, the term “defense contractor”, for any year, means a person awarded a contract with the Department of Defense in that year for an amount in excess of $1,000,000.
 
-(Added Pub. L. 99–500, § 101(c) [title X, § 957(a)(1)(B)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 957(a)(1)(B)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174, § 2416; Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(a)(1)(B), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 108–375, div. A, title VIII, § 816, Oct. 28, 2004, 118 Stat. 2015; renumbered § 4957 and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(8), Jan. 1, 2021, 134 Stat. 4289; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(D), Dec. 27, 2021, 135 Stat. 2135, 2145.)
+(Added Pub. L. 99–500, § 101(c) [title X, § 957(a)(1)(B)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 957(a)(1)(B)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174, § 2416; Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(a)(1)(B), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 108–375, div. A, title VIII, § 816, Oct. 28, 2004, 118 Stat. 2015; renumbered § 4957 and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(8), Jan. 1, 2021, 134 Stat. 4289; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(D), Dec. 27, 2021, 135 Stat. 2135, 2145.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(F), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(10), which had originally transferred section 2419 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(10) of Pub. L. 116–283 instead transferred section 2419 to section 4959 of this title.
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(F), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(10), which had originally transferred section 2419 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(10) of Pub. L. 116–283 instead transferred section 2419 to section 4959 of this title.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -453,7 +453,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1872(a)(8), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(D), renumbered section 2416 of this title as this section and inserted headings in subsecs. (a) to (d).
+2021—Pub. L. 116–283, § 1872(a)(8), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(D), renumbered section 2416 of this title as this section and inserted headings in subsecs. (a) to (d).
 
 2004—Subsec. (d). Pub. L. 108–375 substituted “$1,000,000” for “$500,000”.
 
@@ -467,9 +467,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 99–500, § 101(c) [title X, § 957(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, Pub. L. 99–591, § 101(c) [title X, § 957(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(b), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2416 of title 10, United States Code [now 10 U.S.C. 4957], as added by subsection (a), shall take effect on January 1, 1987.”
+Pub. L. 99–500, § 101(c) [title X, § 957(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, Pub. L. 99–591, § 101(c) [title X, § 957(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(b), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2416 of title 10, United States Code [now 10 U.S.C. 4957], as added by subsection (a), shall take effect on January 1, 1987.”
 
-## § 4958. Authority to provide certain types of technical assistance
+## § 4958. Authority to provide certain types of technical assistance
 
 **(a) Assistance Relating to Certain Non-defense Contracts.—** The procurement technical assistance furnished by eligible entities assisted by the Department of Defense under this chapter may include technical assistance relating to contracts entered into with (1) Federal departments and agencies other than the Department of Defense, and (2) State and local governments.
 
@@ -493,7 +493,7 @@ Pub. L. 99–500, § 101(c) [title X, § 957(b)], Oct. 18, 1986, 100 Stat. 1
 
 **(2)** may waive the government cost share restriction in accordance with section 4954(f) of this chapter.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4236(a)(1)(B), Oct. 23, 1992, 106 Stat. 2691, § 2418; amended Pub. L. 113–291, div. A, title VIII, § 823(b), Dec. 19, 2014, 128 Stat. 3436; Pub. L. 115–91, div. A, title XVII, § 1708, Dec. 12, 2017, 131 Stat. 1809; renumbered § 4958 and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(9), Jan. 1, 2021, 134 Stat. 4289; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(E), Dec. 27, 2021, 135 Stat. 2135, 2145; Pub. L. 118–31, div. A, title VIII, § 853(c), Dec. 22, 2023, 137 Stat. 344; Pub. L. 119–60, div. A, title VIII, § 861(d), Dec. 18, 2025, 139 Stat. 989.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4236(a)(1)(B), Oct. 23, 1992, 106 Stat. 2691, § 2418; amended Pub. L. 113–291, div. A, title VIII, § 823(b), Dec. 19, 2014, 128 Stat. 3436; Pub. L. 115–91, div. A, title XVII, § 1708, Dec. 12, 2017, 131 Stat. 1809; renumbered § 4958 and amended Pub. L. 116–283, div. A, title XVIII, § 1872(a)(9), Jan. 1, 2021, 134 Stat. 4289; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(E), Dec. 27, 2021, 135 Stat. 2135, 2145; Pub. L. 118–31, div. A, title VIII, § 853(c), Dec. 22, 2023, 137 Stat. 344; Pub. L. 119–60, div. A, title VIII, § 861(d), Dec. 18, 2025, 139 Stat. 989.)
 
 **Editorial Notes**
 
@@ -505,13 +505,13 @@ Section 847 of the National Defense Authorization Act for Fiscal Year 2020, refe
 
 **Amendments**
 
-2025—Subsec. (c)(5). Pub. L. 119–60, § 861(d)(1), added par. (5).
+2025—Subsec. (c)(5). Pub. L. 119–60, § 861(d)(1), added par. (5).
 
-Subsec. (d). Pub. L. 119–60, § 861(d)(2), added subsec. (d).
+Subsec. (d). Pub. L. 119–60, § 861(d)(2), added subsec. (d).
 
 2023—Subsec. (c)(3), (4). Pub. L. 118–31 added pars. (3) and (4).
 
-2021—Pub. L. 116–283, § 1872(a)(9), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(E), renumbered section 2418 of this title as this section and inserted headings in subsecs. (a) to (c).
+2021—Pub. L. 116–283, § 1872(a)(9), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(E), renumbered section 2418 of this title as this section and inserted headings in subsecs. (a) to (c).
 
 2017—Subsec. (c). Pub. L. 115–91 substituted “issued—” for “issued”, inserted par. (1) designation before “under” and comma before “and on compliance”, and added par. (2).
 
@@ -525,7 +525,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4959. Advancing small business growth
+## § 4959. Advancing small business growth
 
 **(a) Contract Clause Required.—**
 
@@ -553,7 +553,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(2)** The term “covered small business” means a qualified small business concern as defined pursuant to section 3(a) of the Small Business Act that has entered into a contract with the Department of Defense that includes a contract clause described in subsection (a)(2).
 
-(Added Pub. L. 113–66, div. A, title XVI, § 1611(a)(1)(B), Dec. 26, 2013, 127 Stat. 946, § 2419; amended Pub. L. 116–92, div. A, title IX, § 902(63), Dec. 20, 2019, 133 Stat. 1550; renumbered § 4959, Pub. L. 116–283, div. A, title XVIII, § 1872(a)(10), Jan. 1, 2021, 134 Stat. 4289; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(F), Dec. 27, 2021, 135 Stat. 2135, 2145.)
+(Added Pub. L. 113–66, div. A, title XVI, § 1611(a)(1)(B), Dec. 26, 2013, 127 Stat. 946, § 2419; amended Pub. L. 116–92, div. A, title IX, § 902(63), Dec. 20, 2019, 133 Stat. 1550; renumbered § 4959, Pub. L. 116–283, div. A, title XVIII, § 1872(a)(10), Jan. 1, 2021, 134 Stat. 4289; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(F), Dec. 27, 2021, 135 Stat. 2135, 2145.)
 
 **Editorial Notes**
 
@@ -563,11 +563,11 @@ Section 3(a) of the Small Business Act, referred to in subsecs. (a)(2)(A) and (c
 
 **Codification**
 
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(G), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(11), which had originally transferred section 2417 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(11) of Pub. L. 116–283 instead transferred section 2417 to section 4961 of this title.
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(G), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(11), which had originally transferred section 2417 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(11) of Pub. L. 116–283 instead transferred section 2417 to section 4961 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1872(a)(10), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(F), renumbered section 2419 of this title as this section.
+2021—Pub. L. 116–283, § 1872(a)(10), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(F), renumbered section 2419 of this title as this section.
 
 2019—Subsec. (a)(1). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
@@ -579,7 +579,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4961. Administrative and other costs
+## § 4961. Administrative and other costs
 
 The Secretary may use, out of the amount appropriated for a fiscal year for operation and maintenance for the procurement technical assistance program authorized by this chapter—
 
@@ -589,37 +589,37 @@ The Secretary may use, out of the amount appropriated for a fiscal year for oper
 
 **(A)** for meetings, including meetings of an association recognized under section 4954(f),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to discuss best practices for the improvement of the operations of procurement technical assistance centers; and
 
 **(B)** for membership dues for any association of such centers created by eligible entities, training fees and associated travel for training to carry out the purposes of this chapter, and voluntary participation on any committees or board of such an association.
 
-(Added Pub. L. 101–510, div. A, title VIII, § 814(a)(1)(B), Nov. 5, 1990, 104 Stat. 1596, § 2417; amended Pub. L. 115–232, div. A, title VIII, § 859(a), Aug. 13, 2018, 132 Stat. 1892; renumbered § 4961 and amended Pub. L. 116–283, div. A, title X, § 1081(a)(41), title XVIII, § 1872(a)(11), Jan. 1, 2021, 134 Stat. 3873, 4289; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(G), Dec. 27, 2021, 135 Stat. 2135, 2145; Pub. L. 117–263, div. A, title VIII, § 854(a), Dec. 23, 2022, 136 Stat. 2722.)
+(Added Pub. L. 101–510, div. A, title VIII, § 814(a)(1)(B), Nov. 5, 1990, 104 Stat. 1596, § 2417; amended Pub. L. 115–232, div. A, title VIII, § 859(a), Aug. 13, 2018, 132 Stat. 1892; renumbered § 4961 and amended Pub. L. 116–283, div. A, title X, § 1081(a)(41), title XVIII, § 1872(a)(11), Jan. 1, 2021, 134 Stat. 3873, 4289; Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(G), Dec. 27, 2021, 135 Stat. 2135, 2145; Pub. L. 117–263, div. A, title VIII, § 854(a), Dec. 23, 2022, 136 Stat. 2722.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4954(f), referred to in par. (2)(A), was redesignated as section 4954(e) of this title, and a new subsec. (f) of section 4954 of this title was added, by Pub. L. 118–31, div. A, title VIII, § 853(b)(2), (3), Dec. 22, 2023, 137 Stat. 344.
+Section 4954(f), referred to in par. (2)(A), was redesignated as section 4954(e) of this title, and a new subsec. (f) of section 4954 of this title was added, by Pub. L. 118–31, div. A, title VIII, § 853(b)(2), (3), Dec. 22, 2023, 137 Stat. 344.
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 854(a)(1), substituted “Secretary” for “Director of the Defense Logistics Agency” in introductory provisions.
+2022—Pub. L. 117–263, § 854(a)(1), substituted “Secretary” for “Director of the Defense Logistics Agency” in introductory provisions.
 
-Par. (1). Pub. L. 117–263, § 854(a)(2), substituted “four” for “three”.
+Par. (1). Pub. L. 117–263, § 854(a)(2), substituted “four” for “three”.
 
-Par. (2). Pub. L. 117–263, § 854(a)(3)(A), substituted “Secretary” for “Director” in introductory provisions.
+Par. (2). Pub. L. 117–263, § 854(a)(3)(A), substituted “Secretary” for “Director” in introductory provisions.
 
-Par. (2)(A). Pub. L. 117–263, § 854(a)(3)(B), inserted “, including meetings of an association recognized under section 4954(f),” after “meetings”.
+Par. (2)(A). Pub. L. 117–263, § 854(a)(3)(B), inserted “, including meetings of an association recognized under section 4954(f),” after “meetings”.
 
-2021—Pub. L. 116–283, § 1872(a)(11), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(G), renumbered section 2417 of this title as this section.
+2021—Pub. L. 116–283, § 1872(a)(11), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(G), renumbered section 2417 of this title as this section.
 
-Par. (2). Pub. L. 116–283, § 1081(a)(41), which directed amendment of par. (2) by substituting “entities—” for “entities -”, was executed by making the substitution for “entities —” to reflect the probable intent of Congress.
+Par. (2). Pub. L. 116–283, § 1081(a)(41), which directed amendment of par. (2) by substituting “entities—” for “entities -”, was executed by making the substitution for “entities —” to reflect the probable intent of Congress.
 
-2018—Pub. L. 115–232, § 859(a)(2)–(4), substituted “chapter—” for “chapter,”, inserted par. (1) designation before “an amount”, and added par. (2).
+2018—Pub. L. 115–232, § 859(a)(2)–(4), substituted “chapter—” for “chapter,”, inserted par. (1) designation before “an amount”, and added par. (2).
 
-Pub. L. 115–232, § 859(a)(1), inserted “and other” after “Administrative” in section catchline.
+Pub. L. 115–232, § 859(a)(1), inserted “and other” after “Administrative” in section catchline.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -631,4 +631,4 @@ Amendment by section 1872(a)(11) of Pub. L. 116–283 effective Jan. 1, 2022, wi
 
 **Effective Date**
 
-Pub. L. 101–510, div. A, title VIII, § 814(b), Nov. 5, 1990, 104 Stat. 1597, provided that: “Section 2417 of title 10, United States Code [now 10 U.S.C. 4961], as added by subsection (a), shall apply with respect to fiscal year 1991 and each fiscal year thereafter.”
+Pub. L. 101–510, div. A, title VIII, § 814(b), Nov. 5, 1990, 104 Stat. 1597, provided that: “Section 2417 of title 10, United States Code [now 10 U.S.C. 4961], as added by subsection (a), shall apply with respect to fiscal year 1991 and each fiscal year thereafter.”

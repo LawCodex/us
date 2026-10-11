@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 33—COASTAL ZONE MANAGEMENT
 
-## § 1451. Congressional findings
+## § 1451. Congressional findings
 
 The Congress finds that—
 
@@ -29,9 +29,9 @@ The Congress finds that—
 
 **(e)** Important ecological, cultural, historic, and esthetic values in the coastal zone which are essential to the well-being of all citizens are being irretrievably damaged or lost.
 
-**(f)** New and expanding demands for food, energy, minerals, defense needs, recreation, waste disposal, transportation, and industrial activities in the Great Lakes, territorial sea, exclusive economic zone, and Outer Continental Shelf are placing stress on these areas and are creating the need for resolution of serious conflicts among important and competing uses and values in coastal and ocean waters; 1
+**(f)** New and expanding demands for food, energy, minerals, defense needs, recreation, waste disposal, transportation, and industrial activities in the Great Lakes, territorial sea, exclusive economic zone, and Outer Continental Shelf are placing stress on these areas and are creating the need for resolution of serious conflicts among important and competing uses and values in coastal and ocean waters; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(g)** Special natural and scenic characteristics are being damaged by ill-planned development that threatens these values.
 
@@ -47,75 +47,75 @@ The Congress finds that—
 
 **(m)** Because of their proximity to and reliance upon the ocean and its resources, the coastal states have substantial and significant interests in the protection, management, and development of the resources of the exclusive economic zone that can only be served by the active participation of coastal states in all Federal programs affecting such resources and, wherever appropriate, by the development of state ocean resource plans as part of their federally approved coastal zone management programs.
 
-(Pub. L. 89–454, title III, § 302, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280; amended Pub. L. 94–370, § 2, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, § 2, Oct. 17, 1980, 94 Stat. 2060; Pub. L. 101–508, title VI, § 6203(a), Nov. 5, 1990, 104 Stat. 1388–300.)
+(Pub. L. 89–454, title III, § 302, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280; amended Pub. L. 94–370, § 2, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, § 2, Oct. 17, 1980, 94 Stat. 2060; Pub. L. 101–508, title VI, § 6203(a), Nov. 5, 1990, 104 Stat. 1388–300.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (d). Pub. L. 101–508, § 6203(a)(1), inserted “habitat areas of the” before “coastal zone”.
+1990—Subsec. (d). Pub. L. 101–508, § 6203(a)(1), inserted “habitat areas of the” before “coastal zone”.
 
-Subsec. (f). Pub. L. 101–508, § 6203(a)(2), inserted “exclusive economic zone,” after “territorial sea,”.
+Subsec. (f). Pub. L. 101–508, § 6203(a)(2), inserted “exclusive economic zone,” after “territorial sea,”.
 
-Subsecs. (k) to (m). Pub. L. 101–508, § 6203(a)(3), added subsecs. (k) to (m).
+Subsecs. (k) to (m). Pub. L. 101–508, § 6203(a)(3), added subsecs. (k) to (m).
 
-1980—Subsecs. (f) to (j). Pub. L. 96–464, § 2(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+1980—Subsecs. (f) to (j). Pub. L. 96–464, § 2(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
-1976—Subsec. (b). Pub. L. 94–370, § 2(1), inserted “ecological,” after “recreational,”.
+1976—Subsec. (b). Pub. L. 94–370, § 2(1), inserted “ecological,” after “recreational,”.
 
-Subsec. (i). Pub. L. 94–370, § 2(3), added subsec. (i).
+Subsec. (i). Pub. L. 94–370, § 2(3), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–223, § 1, Dec. 18, 2020, 134 Stat. 1067, provided that: “This Act [enacting section 1467 of this title and provisions set out as notes under section 1467 of this title] may be cited as the ‘Digital Coast Act’.”
+Pub. L. 116–223, § 1, Dec. 18, 2020, 134 Stat. 1067, provided that: “This Act [enacting section 1467 of this title and provisions set out as notes under section 1467 of this title] may be cited as the ‘Digital Coast Act’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–11, title XII, § 12501, Mar. 30, 2009, 123 Stat. 1442, provided that: “This Act [probably should be “subtitle”, meaning subtitle E (§§ 12501, 12502) of title XII of Pub. L. 111–11, enacting section 1456–1 of this title] may be cited as the ‘Coastal and Estuarine Land Conservation Program Act’.”
+Pub. L. 111–11, title XII, § 12501, Mar. 30, 2009, 123 Stat. 1442, provided that: “This Act [probably should be “subtitle”, meaning subtitle E (§§ 12501, 12502) of title XII of Pub. L. 111–11, enacting section 1456–1 of this title] may be cited as the ‘Coastal and Estuarine Land Conservation Program Act’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–456, title I, § 101, Dec. 10, 2004, 118 Stat. 3630, formerly set out as a note under this section, was transferred and is set out as a note under section 4001 of Title 33, Navigation and Navigable Waters.
+Pub. L. 108–456, title I, § 101, Dec. 10, 2004, 118 Stat. 3630, formerly set out as a note under this section, was transferred and is set out as a note under section 4001 of Title 33, Navigation and Navigable Waters.
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–150, § 1, June 3, 1996, 110 Stat. 1380, provided that: “This Act [enacting section 1465 of this title, amending sections 1454, 1455a, 1456a, 1456b, 1461, and 1464 of this title, and enacting provisions set out as a note under section 1454 of this title] may be cited as the ‘Coastal Zone Protection Act of 1996’.”
+Pub. L. 104–150, § 1, June 3, 1996, 110 Stat. 1380, provided that: “This Act [enacting section 1465 of this title, amending sections 1454, 1455a, 1456a, 1456b, 1461, and 1464 of this title, and enacting provisions set out as a note under section 1454 of this title] may be cited as the ‘Coastal Zone Protection Act of 1996’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–508, title VI, § 6201, Nov. 5, 1990, 104 Stat. 1388–299, provided that: “This subtitle [subtitle C (§§ 6201–6217) of title VI of Pub. L. 101–508, enacting sections 1455b, 1456c, and 1460 of this title, amending this section and sections 1452 to 1456b, 1458, 1461, and 1464 of this title, and enacting provisions set out as notes under this section and section 1455 of this title] may be cited as the ‘Coastal Zone Act Reauthorization Amendments of 1990’.”
+Pub. L. 101–508, title VI, § 6201, Nov. 5, 1990, 104 Stat. 1388–299, provided that: “This subtitle [subtitle C (§§ 6201–6217) of title VI of Pub. L. 101–508, enacting sections 1455b, 1456c, and 1460 of this title, amending this section and sections 1452 to 1456b, 1458, 1461, and 1464 of this title, and enacting provisions set out as notes under this section and section 1455 of this title] may be cited as the ‘Coastal Zone Act Reauthorization Amendments of 1990’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–272, title VI, § 6041, Apr. 7, 1986, 100 Stat. 124, provided that: “This subtitle [subtitle D (§§ 6041–6047) of title VI of Pub. L. 99–272, amending sections 1455, 1455a, 1456a, 1458, 1461, and 1464 of this title, repealing sections 1456c and 1460 of this title, and repealing provisions set out as a note under this section] may be cited as the ‘Coastal Zone Management Reauthorization Act of 1985’.”
+Pub. L. 99–272, title VI, § 6041, Apr. 7, 1986, 100 Stat. 124, provided that: “This subtitle [subtitle D (§§ 6041–6047) of title VI of Pub. L. 99–272, amending sections 1455, 1455a, 1456a, 1458, 1461, and 1464 of this title, repealing sections 1456c and 1460 of this title, and repealing provisions set out as a note under this section] may be cited as the ‘Coastal Zone Management Reauthorization Act of 1985’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–464, § 1, Oct. 17, 1980, 94 Stat. 2060, provided: “That this Act [enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
+Pub. L. 96–464, § 1, Oct. 17, 1980, 94 Stat. 2060, provided: “That this Act [enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–370, § 1, July 26, 1976, 90 Stat. 1013, provided: “That this Act [enacting section 1511a of Title 15, Commerce and Trade, and sections 1456a to 1456c of this title, amending this section, sections 1453 to 1456 and 1457 to 1464 of this title, and section 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1511a of Title 15 and section 1462 of this title] may be cited as the ‘Coastal Zone Management Act Amendments of 1976’.”
+Pub. L. 94–370, § 1, July 26, 1976, 90 Stat. 1013, provided: “That this Act [enacting section 1511a of Title 15, Commerce and Trade, and sections 1456a to 1456c of this title, amending this section, sections 1453 to 1456 and 1457 to 1464 of this title, and section 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1511a of Title 15 and section 1462 of this title] may be cited as the ‘Coastal Zone Management Act Amendments of 1976’.”
 
 **Short Title**
 
-Pub. L. 89–454, title III, § 301, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, provided that: “This title [enacting this chapter] may be cited as the ‘Coastal Zone Management Act of 1972’.”
+Pub. L. 89–454, title III, § 301, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, provided that: “This title [enacting this chapter] may be cited as the ‘Coastal Zone Management Act of 1972’.”
 
 **Hypoxia Assessment**
 
-Pub. L. 110–114, title V, § 5022, Nov. 8, 2007, 121 Stat. 1203, provided that: “The Secretary [of the Army] may participate with Federal, State, and local agencies, non-Federal and nonprofit entities, regional researchers, and other interested parties to assess hypoxia in the Gulf of Mexico.”
+Pub. L. 110–114, title V, § 5022, Nov. 8, 2007, 121 Stat. 1203, provided that: “The Secretary [of the Army] may participate with Federal, State, and local agencies, non-Federal and nonprofit entities, regional researchers, and other interested parties to assess hypoxia in the Gulf of Mexico.”
 
 **Harmful Algal Blooms and Hypoxia Research and Control**
 
-Pub. L. 108–456, title I, § 102 (part), Dec. 10, 2004, 118 Stat. 3630, formerly set out as a note under this section, was transferred to section 4001a of Title 33, Navigation and Navigable Waters.
+Pub. L. 108–456, title I, § 102 (part), Dec. 10, 2004, 118 Stat. 3630, formerly set out as a note under this section, was transferred to section 4001a of Title 33, Navigation and Navigable Waters.
 
-Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§ 102–105, Dec. 10, 2004, 118 Stat. 3630–3633; Pub. L. 110–161, div. B, title V, § 528, Dec. 26, 2007, 121 Stat. 1930, formerly set out as a note under this section, was transferred to chapter 53 (§ 4001 et seq.) of Title 33, Navigation and Navigable Waters.
+Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§ 102–105, Dec. 10, 2004, 118 Stat. 3630–3633; Pub. L. 110–161, div. B, title V, § 528, Dec. 26, 2007, 121 Stat. 1930, formerly set out as a note under this section, was transferred to chapter 53 (§ 4001 et seq.) of Title 33, Navigation and Navigable Waters.
 
 **Findings and Purpose of Coastal Zone Act Reauthorization Amendments of 1990**
 
-Pub. L. 101–508, title VI, § 6202, Nov. 5, 1990, 104 Stat. 1388–299, provided that:
+Pub. L. 101–508, title VI, § 6202, Nov. 5, 1990, 104 Stat. 1388–299, provided that:
 
 > **“(a) Findings.—** Congress finds and declares the following:
 
@@ -141,7 +141,7 @@ Pub. L. 101–508, title VI, § 6202, Nov. 5, 1990, 104 Stat. 1388–299, prov
 
 **Establishment of Positions and Fixing of Compensation by Secretary of Commerce; Appointments**
 
-Pub. L. 94–370, § 15(c), July 26, 1976, 90 Stat. 1032, related to establishment and compensation of four new positions without regard to the provisions of chapter 51 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 99–272, title VI, § 6045(3), Apr. 7, 1986, 100 Stat. 127.
+Pub. L. 94–370, § 15(c), July 26, 1976, 90 Stat. 1032, related to establishment and compensation of four new positions without regard to the provisions of chapter 51 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 99–272, title VI, § 6045(3), Apr. 7, 1986, 100 Stat. 127.
 
 **Executive Documents**
 
@@ -151,9 +151,9 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 **Executive Order No. 13554**
 
-Ex. Ord. No. 13554, Oct. 5, 2010, 75 F.R. 62313, which established the Gulf Coast Ecosystem Restoration Task Force, was revoked, concurrent with the termination of the Task Force, by Ex. Ord. No. 13626, § 6(d), Sept. 10, 2012, 77 F.R. 56752, set out as a note under section 1321 of Title 33, Navigation and Navigable Waters.
+Ex. Ord. No. 13554, Oct. 5, 2010, 75 F.R. 62313, which established the Gulf Coast Ecosystem Restoration Task Force, was revoked, concurrent with the termination of the Task Force, by Ex. Ord. No. 13626, § 6(d), Sept. 10, 2012, 77 F.R. 56752, set out as a note under section 1321 of Title 33, Navigation and Navigable Waters.
 
-## § 1452. Congressional declaration of policy
+## § 1452. Congressional declaration of policy
 
 The Congress finds and declares that it is the national policy—
 
@@ -165,7 +165,7 @@ The Congress finds and declares that it is the national policy—
 
 **(B)** the management of coastal development to minimize the loss of life and property caused by improper development in flood-prone, storm surge, geological hazard, and erosion-prone areas and in areas likely to be affected by or vulnerable to sea level rise, land subsidence, and saltwater intrusion, and by the destruction of natural protective features such as beaches, dunes, wetlands, and barrier islands.1
 
-<sup>1</sup>  So in original. The period probably should be a comma.
+<sup>1</sup> So in original. The period probably should be a comma.
 
 **(C)** the management of coastal development to improve, safeguard, and restore the quality of coastal waters, and to protect natural resources and existing uses of those waters,
 
@@ -193,29 +193,29 @@ The Congress finds and declares that it is the national policy—
 
 **(6)** to respond to changing circumstances affecting the coastal environment and coastal resource management by encouraging States to consider such issues as ocean uses potentially affecting the coastal zone.
 
-(Pub. L. 89–454, title III, § 303, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1281; amended Pub. L. 96–464, § 3, Oct. 17, 1980, 94 Stat. 2060; Pub. L. 101–508, title VI, § 6203(b), Nov. 5, 1990, 104 Stat. 1388–301; Pub. L. 102–587, title II, § 2205(b)(2), Nov. 4, 1992, 106 Stat. 5050.)
+(Pub. L. 89–454, title III, § 303, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1281; amended Pub. L. 96–464, § 3, Oct. 17, 1980, 94 Stat. 2060; Pub. L. 101–508, title VI, § 6203(b), Nov. 5, 1990, 104 Stat. 1388–301; Pub. L. 102–587, title II, § 2205(b)(2), Nov. 4, 1992, 106 Stat. 5050.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Par. (2). Pub. L. 102–587 made technical amendment to directory language of Pub. L. 101–508, § 6203(b)(1). See 1990 Amendment note below.
+1992—Par. (2). Pub. L. 102–587 made technical amendment to directory language of Pub. L. 101–508, § 6203(b)(1). See 1990 Amendment note below.
 
-1990—Par. (2). Pub. L. 101–508, § 6203(b)(1), as amended by Pub. L. 102–587, substituted “as well as the needs for compatible” for “as well as to needs for”.
+1990—Par. (2). Pub. L. 101–508, § 6203(b)(1), as amended by Pub. L. 102–587, substituted “as well as the needs for compatible” for “as well as to needs for”.
 
-Par. (2)(B). Pub. L. 101–508, § 6203(b)(2), substituted “likely to be affected by or vulnerable to sea level rise, land subsidence,” for “of subsidence”.
+Par. (2)(B). Pub. L. 101–508, § 6203(b)(2), substituted “likely to be affected by or vulnerable to sea level rise, land subsidence,” for “of subsidence”.
 
-Par. (2)(C) to (J). Pub. L. 101–508, § 6203(b)(3), redesignated subpars. (C) to (I) as (D) to (J), respectively, and added subpar. (C).
+Par. (2)(C) to (J). Pub. L. 101–508, § 6203(b)(3), redesignated subpars. (C) to (I) as (D) to (J), respectively, and added subpar. (C).
 
-Par. (2)(K). Pub. L. 101–508, § 6203(b)(4), added subpar. (K).
+Par. (2)(K). Pub. L. 101–508, § 6203(b)(4), added subpar. (K).
 
-Par. (3). Pub. L. 101–508, § 6203(b)(5), inserted “including those areas likely to be affected by land subsidence, sea level rise, or fluctuating water levels of the Great Lakes,” after “hazardous areas,”.
+Par. (3). Pub. L. 101–508, § 6203(b)(5), inserted “including those areas likely to be affected by land subsidence, sea level rise, or fluctuating water levels of the Great Lakes,” after “hazardous areas,”.
 
-Pars. (5), (6). Pub. L. 101–508, § 6203(b)(6), added pars. (5) and (6).
+Pars. (5), (6). Pub. L. 101–508, § 6203(b)(6), added pars. (5) and (6).
 
 1980—Pub. L. 96–464, in amending section generally, expanded declaration of policy to provide for higher level of protection for significant natural coastal resources and inserted provisions for special area management planning to increase predict­ability for necessary coastal-dependent economic growth, improve hazard mitigation, and improve predictability in government decisionmaking.
 
-## § 1453. Definitions
+## § 1453. Definitions
 
 For purposes of this chapter—
 
@@ -227,17 +227,17 @@ For purposes of this chapter—
 
 **(4)** The term “coastal state” means a state of the United States in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes. For the purposes of this chapter, the term also includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa.
 
-**(5)** The term “coastal energy activity” means any of the following activities if, and to the extent that (A) the conduct, support, or facilitation of such activity requires and involves the siting, construction, expansion, or operation of any equipment or facility; and (B) any technical requirement exists which, in the determination of the Secretary, necessitates that the siting, construction, expansion, or operation of such equipment or facility be carried out in, or in close proximity to, the coastal zone of any coastal state; 1
+**(5)** The term “coastal energy activity” means any of the following activities if, and to the extent that (A) the conduct, support, or facilitation of such activity requires and involves the siting, construction, expansion, or operation of any equipment or facility; and (B) any technical requirement exists which, in the determination of the Secretary, necessitates that the siting, construction, expansion, or operation of such equipment or facility be carried out in, or in close proximity to, the coastal zone of any coastal state; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a colon.
+<sup>1</sup> So in original. The semicolon probably should be a colon.
 
 **(i)** Any outer Continental Shelf energy activity.
 
 **(ii)** Any transportation, conversion, treatment, transfer, or storage of liquefied natural gas.
 
-**(iii)** Any transportation, transfer, or storage of oil, natural gas, or coal (including, but not limited to, by means of any deepwater port, as defined in section 1502(10) 2
+**(iii)** Any transportation, transfer, or storage of oil, natural gas, or coal (including, but not limited to, by means of any deepwater port, as defined in section 1502(10) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 33).
 
@@ -277,75 +277,75 @@ The term includes, but is not limited to (i) electric generating plants; (ii) pe
 
 **(18)** The term “water use” means a use, activity, or project conducted in or on waters within the coastal zone.
 
-(Pub. L. 89–454, title III, § 304, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1281; amended Pub. L. 94–370, § 3, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, § 4, Oct. 17, 1980, 94 Stat. 2061; Pub. L. 101–508, title VI, § 6204, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, § 2205(b)(3)–(7), Nov. 4, 1992, 106 Stat. 5050, 5051.)
+(Pub. L. 89–454, title III, § 304, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1281; amended Pub. L. 94–370, § 3, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, § 4, Oct. 17, 1980, 94 Stat. 2061; Pub. L. 101–508, title VI, § 6204, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, § 2205(b)(3)–(7), Nov. 4, 1992, 106 Stat. 5050, 5051.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Submerged Lands Act, referred to in par. (1), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Submerged Lands Act, referred to in par. (1), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also as the Jones Act, which is classified principally to chapter 4 (§ 731 et seq.) of Title 48, Territories and Insular Possessions. Section 8 of the Act is classified to section 749 of Title 48. For complete classification of this Act to the Code, see Short Title note set out under section 731 of Title 48 and Tables.
+Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also as the Jones Act, which is classified principally to chapter 4 (§ 731 et seq.) of Title 48, Territories and Insular Possessions. Section 8 of the Act is classified to section 749 of Title 48. For complete classification of this Act to the Code, see Short Title note set out under section 731 of Title 48 and Tables.
 
 The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in par. (1), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 
-Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§ 1801 et seq.) of chapter 17 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§ 1801 et seq.) of chapter 17 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963, 77 Stat. 338, which was classified to section 1701 of Title 48, Territories and Insular Possessions, and was repealed by Pub. L. 93–435, § 5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
+Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963, 77 Stat. 338, which was classified to section 1701 of Title 48, Territories and Insular Possessions, and was repealed by Pub. L. 93–435, § 5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
 
 Section 1502 of title 33, referred to in par. (5)(iii), was subsequently amended, and section 1502(10) no longer defines the term “deepwater port”. However, such term is defined elsewhere in that section.
 
 **Amendments**
 
-1992—Par. (1). Pub. L. 102–587, § 2205(b)(3), made technical amendment to directory language of Pub. L. 101–508, § 6204(a). See 1990 Amendment note below.
+1992—Par. (1). Pub. L. 102–587, § 2205(b)(3), made technical amendment to directory language of Pub. L. 101–508, § 6204(a). See 1990 Amendment note below.
 
-Pub. L. 102–587, § 2205(b)(5), struck out “the outer limit of” before “the outer limit of State title”, and substituted “(48 U.S.C. 1705),” for “(48 U.S.C. 1705,”.
+Pub. L. 102–587, § 2205(b)(5), struck out “the outer limit of” before “the outer limit of State title”, and substituted “(48 U.S.C. 1705),” for “(48 U.S.C. 1705,”.
 
-Par. (2). Pub. L. 102–587, § 2205(b)(6), substituted “The term” for “the term”.
+Par. (2). Pub. L. 102–587, § 2205(b)(6), substituted “The term” for “the term”.
 
-Par. (6a). Pub. L. 102–587, § 2205(b)(4), made technical amendment to directory language of Pub. L. 101–508, § 6204(b). See 1990 Amendment note below.
+Par. (6a). Pub. L. 102–587, § 2205(b)(4), made technical amendment to directory language of Pub. L. 101–508, § 6204(b). See 1990 Amendment note below.
 
-Par. (9). Pub. L. 102–587, § 2205(b)(7), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘Fund’ means the Coastal Energy Impact Fund established by section 1456a(h) of this title.”
+Par. (9). Pub. L. 102–587, § 2205(b)(7), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘Fund’ means the Coastal Energy Impact Fund established by section 1456a(h) of this title.”
 
-1990—Par. (1). Pub. L. 101–508, § 6204(a)(1), as amended by Pub. L. 102–587, § 2205(b)(3), inserted “, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise” before period at end of third sentence.
+1990—Par. (1). Pub. L. 101–508, § 6204(a)(1), as amended by Pub. L. 102–587, § 2205(b)(3), inserted “, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise” before period at end of third sentence.
 
-Pub. L. 101–508, § 6204(a)(2), as amended by Pub. L. 102–587, § 2205(b)(3), substituted “the outer limit of State title and ownership under the Submerged Lands Act (43 U.S.C. 1301 et seq.), the Act of March 2, 1917 (48 U.S.C. 749), the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 (48 U.S.C. 1681 note), or section 1 of the Act of November 20, 1963 (48 U.S.C. 1705, as applicable.” for “the United States territorial sea.” at end of second sentence.
+Pub. L. 101–508, § 6204(a)(2), as amended by Pub. L. 102–587, § 2205(b)(3), substituted “the outer limit of State title and ownership under the Submerged Lands Act (43 U.S.C. 1301 et seq.), the Act of March 2, 1917 (48 U.S.C. 749), the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 (48 U.S.C. 1681 note), or section 1 of the Act of November 20, 1963 (48 U.S.C. 1705, as applicable.” for “the United States territorial sea.” at end of second sentence.
 
-Par. (6a). Pub. L. 101–508, § 6204(b), as amended by Pub. L. 102–587, § 2205(b)(4), added par. (6a).
+Par. (6a). Pub. L. 101–508, § 6204(b), as amended by Pub. L. 102–587, § 2205(b)(4), added par. (6a).
 
-Par. (18). Pub. L. 101–508, § 6204(c), substituted “a use, activity, or project conducted in or on waters within the coastal zone” for “activities which are conducted in or on the water; but does not mean or include the establishment of any water quality standard or criteria or the regulation of the discharge or runoff of water pollutants except the standards, criteria, or regulations which are incorporated in any program as required by the provisions of section 1456(f) of this title”.
+Par. (18). Pub. L. 101–508, § 6204(c), substituted “a use, activity, or project conducted in or on waters within the coastal zone” for “activities which are conducted in or on the water; but does not mean or include the establishment of any water quality standard or criteria or the regulation of the discharge or runoff of water pollutants except the standards, criteria, or regulations which are incorporated in any program as required by the provisions of section 1456(f) of this title”.
 
-1980—Pars. (2) to (4). Pub. L. 96–464, § 4(1)–(3), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), and in par. (4), as so redesignated, substituted “Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa” for “Guam and American Samoa”. Former par. (4) redesignated (5).
+1980—Pars. (2) to (4). Pub. L. 96–464, § 4(1)–(3), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), and in par. (4), as so redesignated, substituted “Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa” for “Guam and American Samoa”. Former par. (4) redesignated (5).
 
-Pars. (5) to (16). Pub. L. 96–464, § 4(1), redesignated pars. (4) to (15) as (5) to (16). Former par. (16) redesignated (17).
+Pars. (5) to (16). Pub. L. 96–464, § 4(1), redesignated pars. (4) to (15) as (5) to (16). Former par. (16) redesignated (17).
 
-Pars. (17), (18). Pub. L. 96–464, § 4(1), (4), (5), added par. (17) and redesignated former par. (17) as (18).
+Pars. (17), (18). Pub. L. 96–464, § 4(1), (4), (5), added par. (17) and redesignated former par. (17) as (18).
 
-1976—Par. (1). Pub. L. 94–370, § 3(1), redesignated par. (a) as (1), substituted “The term ‘coastal’ ” for “ ‘Coastal’ ”, and inserted “islands,” after “and includes”.
+1976—Par. (1). Pub. L. 94–370, § 3(1), redesignated par. (a) as (1), substituted “The term ‘coastal’ ” for “ ‘Coastal’ ”, and inserted “islands,” after “and includes”.
 
-Par. (2). Pub. L. 94–370, § 3(2), redesignated par. (b) as (2), substituted “The term ‘coastal’ ” for “ ‘Coastal’ ”, “(A)” for “(1)”, and “(B)” for “(2)”.
+Par. (2). Pub. L. 94–370, § 3(2), redesignated par. (b) as (2), substituted “The term ‘coastal’ ” for “ ‘Coastal’ ”, “(A)” for “(1)”, and “(B)” for “(2)”.
 
-Par. (3). Pub. L. 94–370, § 3(3), redesignated par. (c) as (3) and substituted “The term ‘coastal’ ” for “ ‘Coastal’.”
+Par. (3). Pub. L. 94–370, § 3(3), redesignated par. (c) as (3) and substituted “The term ‘coastal’ ” for “ ‘Coastal’.”
 
-Pars. (4), (5). Pub. L. 94–370, § 3(4), added pars. (4) and (5).
+Pars. (4), (5). Pub. L. 94–370, § 3(4), added pars. (4) and (5).
 
-Par. (6). Pub. L. 94–370, § 3(5), redesignated par. (d) as (6) and substituted “The term ‘estuary’ ” for “ ‘Estuary’.”
+Par. (6). Pub. L. 94–370, § 3(5), redesignated par. (d) as (6) and substituted “The term ‘estuary’ ” for “ ‘Estuary’.”
 
-Par. (7). Pub. L. 94–370, § 3(6), redesignated par. (e) as (7) and substituted “The term ‘estuarine’ ” for “ ‘Estuarine’ ” and “estuary and any island, transitional area, and upland in, adjoining, or adjacent to such estuary, and which constitutes” for “estuary, adjoining transitional areas, and adjacent uplands, constituting”.
+Par. (7). Pub. L. 94–370, § 3(6), redesignated par. (e) as (7) and substituted “The term ‘estuarine’ ” for “ ‘Estuarine’ ” and “estuary and any island, transitional area, and upland in, adjoining, or adjacent to such estuary, and which constitutes” for “estuary, adjoining transitional areas, and adjacent uplands, constituting”.
 
-Par. (8). Pub. L. 94–370, § 3(7), added par. (8).
+Par. (8). Pub. L. 94–370, § 3(7), added par. (8).
 
-Par. (9). Pub. L. 94–370, § 3(7), added par. (9), incorporating provisions of par. (i), which was struck out by Pub. L. 94–370, § 3(11).
+Par. (9). Pub. L. 94–370, § 3(7), added par. (9), incorporating provisions of par. (i), which was struck out by Pub. L. 94–370, § 3(11).
 
-Par. (10). Pub. L. 94–370, § 3(7), added par. (10).
+Par. (10). Pub. L. 94–370, § 3(7), added par. (10).
 
-Par. (11). Pub. L. 94–370, § 3(8), redesignated par. (g) as (11) and substituted “The term ‘management program’ ” for “ ‘Management program’.”
+Par. (11). Pub. L. 94–370, § 3(8), redesignated par. (g) as (11) and substituted “The term ‘management program’ ” for “ ‘Management program’.”
 
-Pars. (12) to (14). Pub. L. 94–370, § 3(9), added pars. (12) to (14).
+Pars. (12) to (14). Pub. L. 94–370, § 3(9), added pars. (12) to (14).
 
-Par. (15). Pub. L. 94–370, § 3(9), added par. (15), incorporating provisions of par. (f), which was struck out by Pub. L. 94–370, § 3(7).
+Par. (15). Pub. L. 94–370, § 3(9), added par. (15), incorporating provisions of par. (f), which was struck out by Pub. L. 94–370, § 3(7).
 
-Par. (16). Pub. L. 94–370, § 3(10), redesignated par. (h) as (16) and substituted “The term ‘water use’ ” for “ ‘Water use’.”
+Par. (16). Pub. L. 94–370, § 3(10), redesignated par. (h) as (16) and substituted “The term ‘water use’ ” for “ ‘Water use’.”
 
 **Executive Documents**
 
@@ -417,19 +417,19 @@ IN WITNESS WHEREOF, I have hereunto set my hand this ninth day of September, in 
 
 Donald J. Trump.
 
-## § 1454. Submittal of State program for approval
+## § 1454. Submittal of State program for approval
 
 Any coastal state which has completed the development of its management program shall submit such program to the Secretary for review and approval pursuant to section 1455 of this title.
 
-(Pub. L. 89–454, title III, § 305, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1282; amended Pub. L. 93–612, § 1(1), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, § 4, July 26, 1976, 90 Stat. 1015; Pub. L. 101–508, title VI, § 6205, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, § 2205(b)(1)(A), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, § 2(a), (b)(1), June 3, 1996, 110 Stat. 1380.)
+(Pub. L. 89–454, title III, § 305, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1282; amended Pub. L. 93–612, § 1(1), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, § 4, July 26, 1976, 90 Stat. 1015; Pub. L. 101–508, title VI, § 6205, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, § 2205(b)(1)(A), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, § 2(a), (b)(1), June 3, 1996, 110 Stat. 1380.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–150, § 2(b)(1), substituted “Submittal of State program for approval” for “Management program development grants” in section catchline, struck out “(b)” before “Any coastal state”, and struck out subsec. (a) which read as follows: “In fiscal years 1997, 1998, and 1999, the Secretary may make a grant annually to any coastal state without an approved program if the coastal state demonstrates to the satisfaction of the Secretary that the grant will be used to develop a management program consistent with the requirements set forth in section 1455 of this title. The amount of any such grant shall not exceed $200,000 in any fiscal year, and shall require State matching funds according to a 4-to-1 ratio of Federal-to-State contributions. After an initial grant is made to a coastal state pursuant to this subsection, no subsequent grant shall be made to that coastal state pursuant to this subsection unless the Secretary finds that the coastal state is satisfactorily developing its management program. No coastal state is eligible to receive more than four grants pursuant to this subsection.”
+1996—Pub. L. 104–150, § 2(b)(1), substituted “Submittal of State program for approval” for “Management program development grants” in section catchline, struck out “(b)” before “Any coastal state”, and struck out subsec. (a) which read as follows: “In fiscal years 1997, 1998, and 1999, the Secretary may make a grant annually to any coastal state without an approved program if the coastal state demonstrates to the satisfaction of the Secretary that the grant will be used to develop a management program consistent with the requirements set forth in section 1455 of this title. The amount of any such grant shall not exceed $200,000 in any fiscal year, and shall require State matching funds according to a 4-to-1 ratio of Federal-to-State contributions. After an initial grant is made to a coastal state pursuant to this subsection, no subsequent grant shall be made to that coastal state pursuant to this subsection unless the Secretary finds that the coastal state is satisfactorily developing its management program. No coastal state is eligible to receive more than four grants pursuant to this subsection.”
 
-Subsec. (a). Pub. L. 104–150, § 2(a), substituted “1997, 1998, and 1999” for “1991, 1992, and 1993” and “four grants” for “two grants”.
+Subsec. (a). Pub. L. 104–150, § 2(a), substituted “1997, 1998, and 1999” for “1991, 1992, and 1993” and “four grants” for “two grants”.
 
 1992—Pub. L. 102–587 substituted “coastal state” for “coastal State” in last sentence of subsec. (a) and in subsec. (b).
 
@@ -457,9 +457,9 @@ Subsecs. (h), (i). Pub. L. 94–370 added subsec. (h) which incorporated provisi
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–150, § 2(b)(3), June 3, 1996, 110 Stat. 1380, provided that: “This subsection [amending this section and section 1456a of this title] shall take effect on October 1, 1999.”
+Pub. L. 104–150, § 2(b)(3), June 3, 1996, 110 Stat. 1380, provided that: “This subsection [amending this section and section 1456a of this title] shall take effect on October 1, 1999.”
 
-## § 1455. Administrative grants
+## § 1455. Administrative grants
 
 **(a) Authorization; matching funds** The Secretary may make grants to any coastal state for the purpose of administering that State’s management program, if the State matches any such grant according to the following ratios of Federal-to-State contributions for the applicable fiscal year:
 
@@ -535,9 +535,9 @@ Grants under this section shall be allocated to coastal states with approved pro
 
 **(10)** The State, acting through its chosen agency or agencies (including local governments, areawide agencies, regional agencies, or interstate agencies) has authority for the management of the coastal zone in accordance with the management program. Such authority shall include power—
 
-**(A)** to administer land use and water use regulations to control development 1
+**(A)** to administer land use and water use regulations to control development 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 to ensure compliance with the management program, and to resolve conflicts among competing uses; and
 
@@ -577,13 +577,13 @@ to ensure compliance with the management program, and to resolve conflicts among
 
 **(B)** The Secretary, after determining on a preliminary basis, that an amendment, modification, or other change which has been submitted for approval under this subsection is likely to meet the program approval standards in this section, may permit the State to expend funds awarded under this section to begin implementing the proposed amendment, modification, or change. This preliminary approval shall not extend for more than 6 months and may not be renewed. A proposed amendment, modification, or change which has been given preliminary approval and is not finally approved under this paragraph shall not be considered an enforceable policy for purposes of section 1456 of this title.
 
-(Pub. L. 89–454, title III, § 306, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1283; amended Pub. L. 93–612, § 1(2), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, § 5, July 26, 1976, 90 Stat. 1017; Pub. L. 96–464, § 5(a), Oct. 17, 1980, 94 Stat. 2062; Pub. L. 99–272, title VI, § 6043(b)(1), (c), Apr. 7, 1986, 100 Stat. 124, 125; Pub. L. 101–508, title VI, § 6206(a), Nov. 5, 1990, 104 Stat. 1388–303; Pub. L. 102–587, title II, § 2205(b)(1)(A), (B), (8), Nov. 4, 1992, 106 Stat. 5050, 5051.)
+(Pub. L. 89–454, title III, § 306, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1283; amended Pub. L. 93–612, § 1(2), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, § 5, July 26, 1976, 90 Stat. 1017; Pub. L. 96–464, § 5(a), Oct. 17, 1980, 94 Stat. 2062; Pub. L. 99–272, title VI, § 6043(b)(1), (c), Apr. 7, 1986, 100 Stat. 124, 125; Pub. L. 101–508, title VI, § 6206(a), Nov. 5, 1990, 104 Stat. 1388–303; Pub. L. 102–587, title II, § 2205(b)(1)(A), (B), (8), Nov. 4, 1992, 106 Stat. 5050, 5051.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
@@ -591,23 +591,23 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is
 
 1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized grants for administering a state management program, provided for a ratio of Federal to State contributions, allocation of grants, program requirements, required authority for management of coastal zone, required findings prior to approval of grants, allocation to other political subdivisions, program modification, segmental development, and inventory and designation of areas of national significance and standards for protection of coastal resources.
 
-1986—Subsec. (a). Pub. L. 99–272, § 6043(b)(1), amended introductory text generally, which prior to amendment read as follows: “The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state’s management program if the Secretary—”.
+1986—Subsec. (a). Pub. L. 99–272, § 6043(b)(1), amended introductory text generally, which prior to amendment read as follows: “The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state’s management program if the Secretary—”.
 
-Subsec. (g). Pub. L. 99–272, § 6043(c), inserted “, and subject to the following conditions:” in provisions preceding par. (1), added pars. (1) to (3), and struck out provision that except with respect to any management program amendment which was made before Oct. 1, 1978, for the purpose of complying with the requirements of section 1454(b)(7), (8) and (9) of this title, no grant was to be made under this section to any coastal state after the date of such amendment or modification, until the Secretary approved such amendment or modification.
+Subsec. (g). Pub. L. 99–272, § 6043(c), inserted “, and subject to the following conditions:” in provisions preceding par. (1), added pars. (1) to (3), and struck out provision that except with respect to any management program amendment which was made before Oct. 1, 1978, for the purpose of complying with the requirements of section 1454(b)(7), (8) and (9) of this title, no grant was to be made under this section to any coastal state after the date of such amendment or modification, until the Secretary approved such amendment or modification.
 
-1980—Subsec. (a). Pub. L. 96–464, § 5(a)(1), in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
+1980—Subsec. (a). Pub. L. 96–464, § 5(a)(1), in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
 
-Subsec. (b). Pub. L. 96–464, § 5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of $2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
+Subsec. (b). Pub. L. 96–464, § 5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of $2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
 
-Subsec. (i). Pub. L. 96–464, § 5(a)(3), added subsec. (i).
+Subsec. (i). Pub. L. 96–464, § 5(a)(3), added subsec. (i).
 
-1976—Subsec. (a). Pub. L. 94–370, § 5(1), raised the federal share of grants to 80 per centum from 66⅔ per centum of the cost of administering a state’s management program, substituted requirement that Secretary approve state’s management program in accordance with subsecs. (c), (d), and (e) and find that such programs meet requirements under section 1454(b) of this title for requirement that Secretary approve state’s management programs in accordance with subsec. (c), and struck out proviso that Federal funds from other sources shall not be used to pay the state’s share of costs.
+1976—Subsec. (a). Pub. L. 94–370, § 5(1), raised the federal share of grants to 80 per centum from 66⅔ per centum of the cost of administering a state’s management program, substituted requirement that Secretary approve state’s management program in accordance with subsecs. (c), (d), and (e) and find that such programs meet requirements under section 1454(b) of this title for requirement that Secretary approve state’s management programs in accordance with subsec. (c), and struck out proviso that Federal funds from other sources shall not be used to pay the state’s share of costs.
 
-Subsec. (c)(2)(B). Pub. L. 94–370, § 5(2), inserted provisions that mechanism not be found to be effective by Secretary until management agency meets certain requirement such as notice to affected zoning authority, 30-day period for zoning authority to respond with recommendations, and action to be taken by management agency where zoning authority does submit recommendations.
+Subsec. (c)(2)(B). Pub. L. 94–370, § 5(2), inserted provisions that mechanism not be found to be effective by Secretary until management agency meets certain requirement such as notice to affected zoning authority, 30-day period for zoning authority to respond with recommendations, and action to be taken by management agency where zoning authority does submit recommendations.
 
-Subsec. (c)(8). Pub. L. 94–370, § 5(3), inserted “planning for, and” before “in the siting of” and reference to energy facilities in, or which significantly affect, such state’s coastal zone and inserted proviso that in the case of energy facilities, the Secretary shall find that the state has given consideration to any applicable interstate energy plan or program.
+Subsec. (c)(8). Pub. L. 94–370, § 5(3), inserted “planning for, and” before “in the siting of” and reference to energy facilities in, or which significantly affect, such state’s coastal zone and inserted proviso that in the case of energy facilities, the Secretary shall find that the state has given consideration to any applicable interstate energy plan or program.
 
-Subsec. (g). Pub. L. 94–370, § 5(4), inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
+Subsec. (g). Pub. L. 94–370, § 5(4), inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
 
 1975—Subsec. (b). Pub. L. 93–612 substituted provisos establishing maximum amount of annual grant for fiscal years 1975, 1976, and 1977, establishing a minimum of 1 per centum of the total appropriated amount, and providing for waiver of the 1 per centum minimum upon request of the coastal State, for proviso limiting an annual administrative grant to a maximum of 10 per centum and a minimum of 1 per centum of the total appropriated amount.
 
@@ -615,11 +615,11 @@ Subsec. (g). Pub. L. 94–370, § 5(4), inserted requirement that except for p
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–464, § 5(b), Oct. 17, 1980, 94 Stat. 2062, provided that: “The amendments made by subsection (a)(1) and (2) of this section [amending this section] apply with respect to grants made after September 30, 1980, under section 306 of the Coastal Zone Management Act of 1972 [this section] and, within two hundred and seventy days after such date, the Secretary of Commerce shall issue regulations relating to the administration of subsection (a) of such section 306 (as so amended by such subsection (a)(1).”
+Pub. L. 96–464, § 5(b), Oct. 17, 1980, 94 Stat. 2062, provided that: “The amendments made by subsection (a)(1) and (2) of this section [amending this section] apply with respect to grants made after September 30, 1980, under section 306 of the Coastal Zone Management Act of 1972 [this section] and, within two hundred and seventy days after such date, the Secretary of Commerce shall issue regulations relating to the administration of subsection (a) of such section 306 (as so amended by such subsection (a)(1).”
 
 **Additional Program Requirements**
 
-Pub. L. 101–508, title VI, § 6206(b), Nov. 5, 1990, 104 Stat. 1388–306, provided that:
+Pub. L. 101–508, title VI, § 6206(b), Nov. 5, 1990, 104 Stat. 1388–306, provided that:
 
 > “Each State which submits a management program for approval under section 306 of the Coastal Zone Management Act of 1972 [16 U.S.C. 1455], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act [Nov. 5, 1990]), shall demonstrate to the Secretary—
 
@@ -627,7 +627,7 @@ Pub. L. 101–508, title VI, § 6206(b), Nov. 5, 1990, 104 Stat. 1388–306, p
 
 > **“(2)** that the program complies with section 306(d)(16) of that Act, by not later than 30 months after the date of publication of final guidance under section 6217(g) of this Act [16 U.S.C. 1455b(g)].”
 
-## § 1455a. Coastal resource improvement program
+## § 1455a. Coastal resource improvement program
 
 **(a) Definitions** For purposes of this section—
 
@@ -689,7 +689,7 @@ With the approval of the Secretary, an eligible coastal state may allocate to a 
 
 In addition to providing grants under this section, the Secretary shall assist eligible coastal states and their local governments in identifying and obtaining other sources of available Federal technical and financial assistance regarding the objectives of this section.
 
-(Pub. L. 89–454, title II, § 306A, as added Pub. L. 96–464, § 6, Oct. 17, 1980, 94 Stat. 2062; amended Pub. L. 99–272, title VI, § 6043(b)(2), Apr. 7, 1986, 100 Stat. 124; Pub. L. 101–508, title VI, §§ 6207, 6216(a), Nov. 5, 1990, 104 Stat. 1388–307, 1388–314; Pub. L. 102–587, title II, § 2205(b)(9)–(12), Nov. 4, 1992, 106 Stat. 5051; Pub. L. 104–150, § 7(1), June 3, 1996, 110 Stat. 1381.)
+(Pub. L. 89–454, title II, § 306A, as added Pub. L. 96–464, § 6, Oct. 17, 1980, 94 Stat. 2062; amended Pub. L. 99–272, title VI, § 6043(b)(2), Apr. 7, 1986, 100 Stat. 124; Pub. L. 101–508, title VI, §§ 6207, 6216(a), Nov. 5, 1990, 104 Stat. 1388–307, 1388–314; Pub. L. 102–587, title II, § 2205(b)(9)–(12), Nov. 4, 1992, 106 Stat. 5051; Pub. L. 104–150, § 7(1), June 3, 1996, 110 Stat. 1381.)
 
 **Editorial Notes**
 
@@ -697,23 +697,23 @@ In addition to providing grants under this section, the Secretary shall assist e
 
 1996—Subsec. (b)(4). Pub. L. 104–150 added par. (4).
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–587, § 2205(b)(10), substituted “through (K)” for “through (I)”.
+1992—Subsec. (a)(1)(B). Pub. L. 102–587, § 2205(b)(10), substituted “through (K)” for “through (I)”.
 
-Subsec. (b)(1). Pub. L. 102–587, § 2205(b)(9), made technical amendment to directory language of Pub. L. 101–508, § 6216(a). See 1990 Amendment note below.
+Subsec. (b)(1). Pub. L. 102–587, § 2205(b)(9), made technical amendment to directory language of Pub. L. 101–508, § 6216(a). See 1990 Amendment note below.
 
-Subsec. (b)(2). Pub. L. 102–587, § 2205(b)(11)(A), substituted “that are designated in the state’s management program pursuant to section 1455(d)(2)(C) of this title as areas of particular concern” for “that are designated under section 1454(b)(3) of this title in the state’s management program as areas of particular concern”.
+Subsec. (b)(2). Pub. L. 102–587, § 2205(b)(11)(A), substituted “that are designated in the state’s management program pursuant to section 1455(d)(2)(C) of this title as areas of particular concern” for “that are designated under section 1454(b)(3) of this title in the state’s management program as areas of particular concern”.
 
-Subsec. (b)(3). Pub. L. 102–587, § 2205(b)(11)(B), substituted “access to” for “access of” and “1455(d)(2)(G)” for “1454(b)(7)”.
+Subsec. (b)(3). Pub. L. 102–587, § 2205(b)(11)(B), substituted “access to” for “access of” and “1455(d)(2)(G)” for “1454(b)(7)”.
 
-Subsec. (c)(2)(C). Pub. L. 102–587, § 2205(b)(12), in closing provisions, substituted “shall not be” for “shall not by”.
+Subsec. (c)(2)(C). Pub. L. 102–587, § 2205(b)(12), in closing provisions, substituted “shall not be” for “shall not by”.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, § 6216(a), as amended by Pub. L. 102–587, § 2205(b)(9), substituted “1455(d)(9)” for “1455(c)(9)”.
+1990—Subsec. (b)(1). Pub. L. 101–508, § 6216(a), as amended by Pub. L. 102–587, § 2205(b)(9), substituted “1455(d)(9)” for “1455(c)(9)”.
 
-Pub. L. 101–508, § 6207, inserted before period at end “, or for the purpose of restoring and enhancing shellfish production by the purchase and distribution of clutch material on publicly owned reef tracts”.
+Pub. L. 101–508, § 6207, inserted before period at end “, or for the purpose of restoring and enhancing shellfish production by the purchase and distribution of clutch material on publicly owned reef tracts”.
 
 1986—Subsec. (d)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No grant made under this section may exceed an amount equal to 80 per centum of the cost of carrying out the purpose or project for which it was awarded.”
 
-## § 1455b. Protecting coastal waters
+## § 1455b. Protecting coastal waters
 
 **(a) In general**
 
@@ -875,9 +875,9 @@ There is authorized to be appropriated to the Administrator for use for carrying
 
 **(2) Secretary**
 
-**(A)** Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) 1
+**(A)** Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
@@ -905,17 +905,17 @@ of the Coastal Zone Management Act of 1972, as amended by this Act, not more tha
 
 **(6)** the term “Secretary” means the Secretary of Commerce.
 
-(Pub. L. 101–508, title VI, § 6217, Nov. 5, 1990, 104 Stat. 1388–314; Pub. L. 102–587, title II, § 2205(b)(24), Nov. 4, 1992, 106 Stat. 5052.)
+(Pub. L. 101–508, title VI, § 6217, Nov. 5, 1990, 104 Stat. 1388–314; Pub. L. 102–587, title II, § 2205(b)(24), Nov. 4, 1992, 106 Stat. 5052.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§ 1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§ 1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
 This Act, referred to in subsecs. (a)(2) and (c)(2)(B), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388, known as the Omnibus Budget Reconciliation Act of 1990. For complete classification of this Act to the Code, see Tables.
 
-Section 318(a) of the Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A), which is classified to section 1464(a) of this title, was amended by Pub. L. 104–150, § 4(1), June 3, 1996, 110 Stat. 1381, and, as so amended, does not contain a par. (4).
+Section 318(a) of the Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A), which is classified to section 1464(a) of this title, was amended by Pub. L. 104–150, § 4(1), June 3, 1996, 110 Stat. 1381, and, as so amended, does not contain a par. (4).
 
 **Codification**
 
@@ -923,9 +923,9 @@ Section was enacted as part of the Coastal Zone Act Reauthorization Amendments o
 
 **Amendments**
 
-1992—Subsec. (i)(3). Pub. L. 102–587 struck out comma after “ ‘coastal waters’ ” and inserted “Zone” before “Management”.
+1992—Subsec. (i)(3). Pub. L. 102–587 struck out comma after “ ‘coastal waters’ ” and inserted “Zone” before “Management”.
 
-## § 1456. Coordination and cooperation
+## § 1456. Coordination and cooperation
 
 **(a) Federal agencies**
 
@@ -999,51 +999,51 @@ the Secretary, with the cooperation of the Executive Office of the President, sh
 
 **(3)** Fees collected under this subsection shall be deposited into the Coastal Zone Management Fund established under section 1456a of this title.
 
-(Pub. L. 89–454, title III, § 307, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1285; amended Pub. L. 94–370, § 6, July 26, 1976, 90 Stat. 1018; Pub. L. 95–372, title V, § 504, Sept. 18, 1978, 92 Stat. 693; Pub. L. 101–508, title VI, § 6208, Nov. 5, 1990, 104 Stat. 1388–307; Pub. L. 102–587, title II, § 2205(b)(13), (14), Nov. 4, 1992, 106 Stat. 5051.)
+(Pub. L. 89–454, title III, § 307, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1285; amended Pub. L. 94–370, § 6, July 26, 1976, 90 Stat. 1018; Pub. L. 95–372, title V, § 504, Sept. 18, 1978, 92 Stat. 693; Pub. L. 101–508, title VI, § 6208, Nov. 5, 1990, 104 Stat. 1388–307; Pub. L. 102–587, title II, § 2205(b)(13), (14), Nov. 4, 1992, 106 Stat. 5051.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (c)(3)(B), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (c)(3)(B), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 **Codification**
 
-In subsec. (d), “section 6506 of title 31” substituted for “title IV of the Intergovernmental Coordination [Cooperation] Act of 1968 [42 U.S.C. 4231 et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “section 6506 of title 31” substituted for “title IV of the Intergovernmental Coordination [Cooperation] Act of 1968 [42 U.S.C. 4231 et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-1992—Subsec. (c)(3)(B). Pub. L. 102–587, § 2205(b)(13), made technical amendment to directory language of Pub. L. 101–508, § 6208(b)(3)(B). See 1990 Amendment note below.
+1992—Subsec. (c)(3)(B). Pub. L. 102–587, § 2205(b)(13), made technical amendment to directory language of Pub. L. 101–508, § 6208(b)(3)(B). See 1990 Amendment note below.
 
-Subsec. (i). Pub. L. 102–587, § 2205(b)(14), designated existing provisions as par. (1), added pars. (2) and (3), and struck out at end of par. (1) “The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c) of this section.”
+Subsec. (i). Pub. L. 102–587, § 2205(b)(14), designated existing provisions as par. (1), added pars. (2) and (3), and struck out at end of par. (1) “The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c) of this section.”
 
-1990—Subsec. (c)(1). Pub. L. 101–508, § 6208(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each Federal agency conducting or supporting activities directly affecting the coastal zone shall conduct or support those activities in a manner which is, to the maximum extent practicable, consistent with approved state management programs.”
+1990—Subsec. (c)(1). Pub. L. 101–508, § 6208(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each Federal agency conducting or supporting activities directly affecting the coastal zone shall conduct or support those activities in a manner which is, to the maximum extent practicable, consistent with approved state management programs.”
 
-Subsec. (c)(2). Pub. L. 101–508, § 6208(b)(1), which directed the insertion of “the enforceable policies of” before “approved State management programs”, was executed by making the insertion before “approved state management programs” to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 101–508, § 6208(b)(1), which directed the insertion of “the enforceable policies of” before “approved State management programs”, was executed by making the insertion before “approved state management programs” to reflect the probable intent of Congress.
 
-Subsec. (c)(3)(A). Pub. L. 101–508, § 6208(b)(2), in first sentence inserted “, in or outside of the coastal zone,” after “to conduct an activity”, substituted “any land or water use or natural resource of” for “land or water uses in”, and inserted “the enforceable policies of” after “the proposed activity complies with”.
+Subsec. (c)(3)(A). Pub. L. 101–508, § 6208(b)(2), in first sentence inserted “, in or outside of the coastal zone,” after “to conduct an activity”, substituted “any land or water use or natural resource of” for “land or water uses in”, and inserted “the enforceable policies of” after “the proposed activity complies with”.
 
-Subsec. (c)(3)(B). Pub. L. 101–508, § 6208(b)(3)(A), substituted “land or water use or natural resource of” for “land use or water use in” in first sentence.
+Subsec. (c)(3)(B). Pub. L. 101–508, § 6208(b)(3)(A), substituted “land or water use or natural resource of” for “land use or water use in” in first sentence.
 
-Pub. L. 101–508, § 6208(b)(3)(B), as amended by Pub. L. 102–587, § 2205(b)(13), inserted “the enforceable policies of” after “such plan complies with” in first sentence.
+Pub. L. 101–508, § 6208(b)(3)(B), as amended by Pub. L. 102–587, § 2205(b)(13), inserted “the enforceable policies of” after “such plan complies with” in first sentence.
 
-Subsec. (d). Pub. L. 101–508, § 6208(b)(4), substituted “, in or outside of the coastal zone, affecting any land or water use of natural resource of” for “affecting” and inserted “the enforceable policies of” after “that are inconsistent with”.
+Subsec. (d). Pub. L. 101–508, § 6208(b)(4), substituted “, in or outside of the coastal zone, affecting any land or water use of natural resource of” for “affecting” and inserted “the enforceable policies of” after “that are inconsistent with”.
 
-Subsec. (i). Pub. L. 101–508, § 6208(c), added subsec. (i).
+Subsec. (i). Pub. L. 101–508, § 6208(c), added subsec. (i).
 
-1978—Subsec. (c)(3)(B)(ii). Pub. L. 95–372 inserted “, except if such state fails to concur with or object to such certification within three months after receipt of its copy of such certification and supporting information, such state shall provide the Secretary, the appropriate federal agency, and such person with a written statement describing the status of review and the basis for further delay in issuing a final decision, and if such statement is not so provided, concurrence by such state with such certification shall be conclusively presumed” after “as provided for in subparagraph (A)”.
+1978—Subsec. (c)(3)(B)(ii). Pub. L. 95–372 inserted “, except if such state fails to concur with or object to such certification within three months after receipt of its copy of such certification and supporting information, such state shall provide the Secretary, the appropriate federal agency, and such person with a written statement describing the status of review and the basis for further delay in issuing a final decision, and if such statement is not so provided, concurrence by such state with such certification shall be conclusively presumed” after “as provided for in subparagraph (A)”.
 
-1976—Subsec. (b). Pub. L. 94–370, § 6(2), struck out provisions requiring that in case of serious disagreement between Federal agency and state in development of program, Secretary shall seek to mediate the differences in cooperation with the Executive Office of the President and incorporated such provision into subsec. (h).
+1976—Subsec. (b). Pub. L. 94–370, § 6(2), struck out provisions requiring that in case of serious disagreement between Federal agency and state in development of program, Secretary shall seek to mediate the differences in cooperation with the Executive Office of the President and incorporated such provision into subsec. (h).
 
-Subsec. (c)(3). Pub. L. 94–370, § 6(3), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (c)(3). Pub. L. 94–370, § 6(3), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (h). Pub. L. 94–370, § 6(4), added subsec. (h) which incorporates former provision of subsec. (b) relating to mediation by Secretary of disagreements between Federal agencies and state.
+Subsec. (h). Pub. L. 94–370, § 6(4), added subsec. (h) which incorporates former provision of subsec. (b) relating to mediation by Secretary of disagreements between Federal agencies and state.
 
-## § 1456–1. Authorization of the Coastal and Estuarine Land Conservation Program
+## § 1456–1. Authorization of the Coastal and Estuarine Land Conservation Program
 
 **(a) In general**
 
@@ -1125,9 +1125,9 @@ Where financial assistance awarded under this section represents only a portion 
 
 **(A)** The value of land or a conservation easement may be used by a project applicant as non-Federal match, if the Secretary determines that—
 
-**(i)** the land meets the criteria set forth in section 2(b) 1
+**(i)** the land meets the criteria set forth in section 2(b) 1
 
-<sup>1</sup>  So in original. Probably should be “subsection (b)”.
+<sup>1</sup> So in original. Probably should be “subsection (b)”.
 
 and is acquired in the period beginning 3 years before the date of the submission of the grant application and ending 3 years after the date of the award of the grant;
 
@@ -1137,9 +1137,9 @@ and is acquired in the period beginning 3 years before the date of the submissio
 
 **(B)** The appraised value of the land or conservation easement at the time of the grant closing will be considered and applied as the non-Federal cost share.
 
-**(C)** Costs associated with land acquisition, land management planning, remediation, restoration, and enhancement may be used as non-Federal match if the activities are identified in the plan and expenses are incurred within the period of the grant award, or, for lands described in 2
+**(C)** Costs associated with land acquisition, land management planning, remediation, restoration, and enhancement may be used as non-Federal match if the activities are identified in the plan and expenses are incurred within the period of the grant award, or, for lands described in 2
 
-<sup>2</sup>  So in original. Probably should be followed by “subparagraph”.
+<sup>2</sup> So in original. Probably should be followed by “subparagraph”.
 
 (A), within the same time limits described therein. These costs may include either cash or in-kind contributions.
 
@@ -1181,9 +1181,9 @@ The term “interest in property” includes a conservation easement.
 
 There are authorized to be appropriated to the Secretary to carry out this section $60,000,000 for each of fiscal years 2009 through 2013.
 
-(Pub. L. 89–454, title III, § 307A, as added Pub. L. 111–11, title XII, § 12502, Mar. 30, 2009, 123 Stat. 1442.)
+(Pub. L. 89–454, title III, § 307A, as added Pub. L. 111–11, title XII, § 12502, Mar. 30, 2009, 123 Stat. 1442.)
 
-## § 1456a. Coastal Zone Management Fund
+## § 1456a. Coastal Zone Management Fund
 
 **(a)**
 
@@ -1221,7 +1221,7 @@ There are authorized to be appropriated to the Secretary to carry out this secti
 
 **(v)** to provide financial support to coastal states for use for investigating and applying the public trust doctrine to implement State management programs approved under section 1455 of this title.
 
-(Pub. L. 89–454, title III, § 308, as added Pub. L. 94–370, § 7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§ 501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, § 7, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, § 6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, § 6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, § 2205(b)(1)(A), (B), (15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §§ 2(b)(2), 5, June 3, 1996, 110 Stat. 1380, 1381.)
+(Pub. L. 89–454, title III, § 308, as added Pub. L. 94–370, § 7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§ 501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, § 7, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, § 6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, § 6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, § 2205(b)(1)(A), (B), (15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §§ 2(b)(2), 5, June 3, 1996, 110 Stat. 1380, 1381.)
 
 **Editorial Notes**
 
@@ -1231,7 +1231,7 @@ Subsec. (b)(3) of this section, which required the Secretary to transmit to Cong
 
 **Amendments**
 
-1996—Subsec. (b)(2)(A). Pub. L. 104–150, § 5(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Expenses incident to the administration of this chapter, in an amount not to exceed—
+1996—Subsec. (b)(2)(A). Pub. L. 104–150, § 5(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Expenses incident to the administration of this chapter, in an amount not to exceed—
 
 “(i) $5,000,000 for fiscal year 1991;
 
@@ -1243,49 +1243,49 @@ Subsec. (b)(3) of this section, which required the Secretary to transmit to Cong
 
 “(v) $5,962,593 for fiscal year 1995.”
 
-Subsec. (b)(2)(B)(iv) to (vi). Pub. L. 104–150, § 2(b)(2), inserted “and” at end of cl. (iv), redesignated cl. (vi) as (v), and struck out former cl. (v) which read as follows: “program development grants as authorized by section 1454 of this title, in an amount not to exceed $200,000 for each of fiscal years 1997, 1998, and 1999; and”.
+Subsec. (b)(2)(B)(iv) to (vi). Pub. L. 104–150, § 2(b)(2), inserted “and” at end of cl. (iv), redesignated cl. (vi) as (v), and struck out former cl. (v) which read as follows: “program development grants as authorized by section 1454 of this title, in an amount not to exceed $200,000 for each of fiscal years 1997, 1998, and 1999; and”.
 
-Subsec. (b)(2)(B)(v). Pub. L. 104–150, § 5(b), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “program development grants as authorized by section 1454 of this title; and”.
+Subsec. (b)(2)(B)(v). Pub. L. 104–150, § 5(b), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “program development grants as authorized by section 1454 of this title; and”.
 
-1992—Pub. L. 102–587, § 2205(b)(15), made technical amendment to Pub. L. 101–508. See 1990 Amendment note below.
+1992—Pub. L. 102–587, § 2205(b)(15), made technical amendment to Pub. L. 101–508. See 1990 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 102–587, § 2205(b)(16), in first sentence, made technical amendment to reference to this chapter to reflect change in corresponding provision of original act.
+Subsec. (a)(1). Pub. L. 102–587, § 2205(b)(16), in first sentence, made technical amendment to reference to this chapter to reflect change in corresponding provision of original act.
 
-Pub. L. 102–587, § 2205(b)(1)(A), substituted “coastal state” for “coastal State” in two places.
+Pub. L. 102–587, § 2205(b)(1)(A), substituted “coastal state” for “coastal State” in two places.
 
-Subsec. (b)(1). Pub. L. 102–587, § 2205(b)(17), (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a)”.
+Subsec. (b)(1). Pub. L. 102–587, § 2205(b)(17), (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a)”.
 
-Subsec. (b)(2)(B)(vi). Pub. L. 102–587, § 2205(b)(1)(B), substituted “coastal states” for “coastal States”.
+Subsec. (b)(2)(B)(vi). Pub. L. 102–587, § 2205(b)(1)(B), substituted “coastal states” for “coastal States”.
 
-1990—Pub. L. 101–508, as amended by Pub. L. 102–587, § 2205(b)(15), amended section generally, substituting present provisions for provisions authorizing a coastal energy impact program, providing for administration of program, audit, financial assistance, rules and regulations and guarantees, establishing eligibility requirements for assistance, creating a Coastal Energy Impact Fund, prohibiting interference in any land or water use decision of any coastal state, requiring reports to Congress, and providing for definitions for the section.
+1990—Pub. L. 101–508, as amended by Pub. L. 102–587, § 2205(b)(15), amended section generally, substituting present provisions for provisions authorizing a coastal energy impact program, providing for administration of program, audit, financial assistance, rules and regulations and guarantees, establishing eligibility requirements for assistance, creating a Coastal Energy Impact Fund, prohibiting interference in any land or water use decision of any coastal state, requiring reports to Congress, and providing for definitions for the section.
 
 1986—Subsec. (h). Pub. L. 99–272 substituted “subsections (c)” for “subsections (c)(1)” wherever appearing.
 
-1980—Subsec. (c)(3). Pub. L. 96–464, § 7(1), added par. (3).
+1980—Subsec. (c)(3). Pub. L. 96–464, § 7(1), added par. (3).
 
-Subsec. (d)(4). Pub. L. 96–464, § 7(2), struck out par. (4) which provided that the Secretary shall make grants to any coastal state to enable such state to prevent, reduce, or ameliorate any unavoidable loss in such state’s coastal zone of any valuable environmental or recreational resource, if such loss results from coastal energy activity, if the Secretary finds that such state has not received amounts under subsec. (b) of this section which are sufficient to prevent, reduce, or ameliorate such loss.
+Subsec. (d)(4). Pub. L. 96–464, § 7(2), struck out par. (4) which provided that the Secretary shall make grants to any coastal state to enable such state to prevent, reduce, or ameliorate any unavoidable loss in such state’s coastal zone of any valuable environmental or recreational resource, if such loss results from coastal energy activity, if the Secretary finds that such state has not received amounts under subsec. (b) of this section which are sufficient to prevent, reduce, or ameliorate such loss.
 
-1978—Subsec. (a)(1)(A). Pub. L. 95–372, § 501(b)(1), substituted “subsection (b)(5) of this section” for “subsection (b)(4) of this section”.
+1978—Subsec. (a)(1)(A). Pub. L. 95–372, § 501(b)(1), substituted “subsection (b)(5) of this section” for “subsection (b)(4) of this section”.
 
-Subsec. (a)(1)(B). Pub. L. 95–372, § 503(b)(1), substituted “subsection (c)(1) of this section” for “subsection (c) of this section”.
+Subsec. (a)(1)(B). Pub. L. 95–372, § 503(b)(1), substituted “subsection (c)(1) of this section” for “subsection (c) of this section”.
 
-Subsec. (a)(1)(C) to (G). Pub. L. 95–372, § 503(b)(2), added subpar. (C) and redesignated former subpars. (C) to (F) as (D) to (G), respectively.
+Subsec. (a)(1)(C) to (G). Pub. L. 95–372, § 503(b)(2), added subpar. (C) and redesignated former subpars. (C) to (F) as (D) to (G), respectively.
 
-Subsec. (b)(2). Pub. L. 95–372, § 501(a), substituted in provisions preceding subpar. (A) “Subject to paragraph (3), the amounts payable” for “The amounts granted” and “subparagraphs (A), (B), and (C)” for “subparagraphs (A), (B), (C), and (D)”, in subpar. (A) “one-half” for “one-third”, and in subpars. (B) and (C) “one-quarter” for “one-sixth” and struck out subpar. (D), which related to a ratio involving the number of individuals who obtain new employment as a result of new or expanded outer Continental Shelf energy activities.
+Subsec. (b)(2). Pub. L. 95–372, § 501(a), substituted in provisions preceding subpar. (A) “Subject to paragraph (3), the amounts payable” for “The amounts granted” and “subparagraphs (A), (B), and (C)” for “subparagraphs (A), (B), (C), and (D)”, in subpar. (A) “one-half” for “one-third”, and in subpars. (B) and (C) “one-quarter” for “one-sixth” and struck out subpar. (D), which related to a ratio involving the number of individuals who obtain new employment as a result of new or expanded outer Continental Shelf energy activities.
 
-Subsec. (b)(3). Pub. L. 95–372, § 501(b)(2), added par. (3). Former par. (3) redesignated (4).
+Subsec. (b)(3). Pub. L. 95–372, § 501(b)(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 95–372, § 501(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 95–372, § 501(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 95–372, § 501(b)(1), (c), redesignated par. (4) as (5) and, in par. (5) as so redesignated, struck out in subpar. (B)(i) provisions relating to the unavailability of adequate financing under any other subsection and inserted provisions following subpar. (B)(ii) authorizing the Secretary to describe the geographic areas in which the public facilities and public services referred to in subpar. (B)(i) shall be presumed to be required as a result of outer Continental Shelf energy activities for purposes of disbursing the proceeds of grants under this subsection. Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 95–372, § 501(b)(1), (c), redesignated par. (4) as (5) and, in par. (5) as so redesignated, struck out in subpar. (B)(i) provisions relating to the unavailability of adequate financing under any other subsection and inserted provisions following subpar. (B)(ii) authorizing the Secretary to describe the geographic areas in which the public facilities and public services referred to in subpar. (B)(i) shall be presumed to be required as a result of outer Continental Shelf energy activities for purposes of disbursing the proceeds of grants under this subsection. Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 95–372, § 501(b)(1), redesignated par. (5) as (6) and, in par. (6) as so redesignated, in provisions preceding subpar. (A) and in subpar. (B) substituted “paragraph (5)” for “paragraph (4)”.
+Subsec. (b)(6). Pub. L. 95–372, § 501(b)(1), redesignated par. (5) as (6) and, in par. (6) as so redesignated, in provisions preceding subpar. (A) and in subpar. (B) substituted “paragraph (5)” for “paragraph (4)”.
 
-Subsec. (c). Pub. L. 95–372, § 503(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 95–372, § 503(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (h). Pub. L. 95–372, § 503(c), substituted “subsections (c)(1)” for “subsections (c)” wherever appearing.
+Subsec. (h). Pub. L. 95–372, § 503(c), substituted “subsections (c)(1)” for “subsections (c)” wherever appearing.
 
-Subsec. (k). Pub. L. 95–372, §§ 501(b)(1), 503(d), substituted in par. (1) “subsection (b)(5)(B) and (c)(1)” for “subsection (b)(4)(B) and (c)” and in par. (2) “subsection (b)(5)(B)” for “(b)(4)(B)”.
+Subsec. (k). Pub. L. 95–372, §§ 501(b)(1), 503(d), substituted in par. (1) “subsection (b)(5)(B) and (c)(1)” for “subsection (b)(4)(B) and (c)” and in par. (2) “subsection (b)(5)(B)” for “(b)(4)(B)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1295,13 +1295,13 @@ Amendment by section 2(b)(2) of Pub. L. 104–150 effective Oct. 1, 1999, see se
 
 **Rescission of Balances and Future Payments**
 
-Pub. L. 112–55, div. B, title I, § 109, Nov. 18, 2011, 125 Stat. 602, provided that: “All balances in the Coastal Zone Management Fund, whether unobligated or unavailable, are hereby permanently rescinded, and notwithstanding section 308(b) of the Coastal Zone Management Act of 1972, as amended (16 U.S.C. 1456a[b]), any future payments to the Fund made pursuant to sections 307 (16 U.S.C. 1456) and 308 (16 U.S.C. 1456a) of the Coastal Zone Management Act of 1972, as amended, shall, in this fiscal year and any future fiscal years, be treated in accordance with the Federal Credit Reform Act of 1990, as amended [2 U.S.C. 661 et seq.].”
+Pub. L. 112–55, div. B, title I, § 109, Nov. 18, 2011, 125 Stat. 602, provided that: “All balances in the Coastal Zone Management Fund, whether unobligated or unavailable, are hereby permanently rescinded, and notwithstanding section 308(b) of the Coastal Zone Management Act of 1972, as amended (16 U.S.C. 1456a[b]), any future payments to the Fund made pursuant to sections 307 (16 U.S.C. 1456) and 308 (16 U.S.C. 1456a) of the Coastal Zone Management Act of 1972, as amended, shall, in this fiscal year and any future fiscal years, be treated in accordance with the Federal Credit Reform Act of 1990, as amended [2 U.S.C. 661 et seq.].”
 
 **Extension of Authority To Make Loans Under Subsection (d)(1)**
 
-Pub. L. 99–626, § 6, Nov. 7, 1986, 100 Stat. 3506, provided that: “The authority of the Secretary of Commerce to make loans under paragraph (1) of subsection (d) of section 308 of the Coastal Zone Management Act of 1972 (Public Law 92–583, 16 U.S.C. 1451, et seq.) as amended [16 U.S.C. 1456a(d)(1)], shall extend to September 30, 1987, for loans made to eligible States or units pursuant to and in accord with agreements entered into between the Secretary and any State prior to September 30, 1986, that provided for a total sum of loans to be made to that State or its units, but such loan authority shall be limited to $7,000,000.”
+Pub. L. 99–626, § 6, Nov. 7, 1986, 100 Stat. 3506, provided that: “The authority of the Secretary of Commerce to make loans under paragraph (1) of subsection (d) of section 308 of the Coastal Zone Management Act of 1972 (Public Law 92–583, 16 U.S.C. 1451, et seq.) as amended [16 U.S.C. 1456a(d)(1)], shall extend to September 30, 1987, for loans made to eligible States or units pursuant to and in accord with agreements entered into between the Secretary and any State prior to September 30, 1986, that provided for a total sum of loans to be made to that State or its units, but such loan authority shall be limited to $7,000,000.”
 
-## § 1456b. Coastal zone enhancement grants
+## § 1456b. Coastal zone enhancement grants
 
 **(a) “Coastal zone enhancement objective” defined** For purposes of this section, the term “coastal zone enhancement objective” means any of the following objectives:
 
@@ -1357,7 +1357,7 @@ Beginning in fiscal year 1991, not less than 10 percent and not more than 20 per
 
 If the Secretary finds that the State is not undertaking the actions committed to under the terms of the grant, the Secretary shall suspend the State’s eligibility for further funding under this section for at least one year.
 
-(Pub. L. 89–454, title III, § 309, as added Pub. L. 94–370, § 8, July 26, 1976, 90 Stat. 1028; amended Pub. L. 96–464, § 8, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 101–508, title VI, § 6210, Nov. 5, 1990, 104 Stat. 1388–309; Pub. L. 102–587, title II, § 2205(b)(1)(B), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, §§ 3, 7(2), June 3, 1996, 110 Stat. 1380, 1382.)
+(Pub. L. 89–454, title III, § 309, as added Pub. L. 94–370, § 8, July 26, 1976, 90 Stat. 1028; amended Pub. L. 96–464, § 8, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 101–508, title VI, § 6210, Nov. 5, 1990, 104 Stat. 1388–309; Pub. L. 102–587, title II, § 2205(b)(1)(B), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, §§ 3, 7(2), June 3, 1996, 110 Stat. 1380, 1382.)
 
 **Editorial Notes**
 
@@ -1367,9 +1367,9 @@ November 5, 1990, referred to in subsec. (d), was in the original “the date of
 
 **Amendments**
 
-1996—Subsec. (a)(9). Pub. L. 104–150, § 7(2), added par. (9).
+1996—Subsec. (a)(9). Pub. L. 104–150, § 7(2), added par. (9).
 
-Subsec. (b). Pub. L. 104–150, § 3, designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 104–150, § 3, designated existing provisions as par. (1) and added par. (2).
 
 1992—Subsec. (b). Pub. L. 102–587 substituted “coastal states” for “coastal States”.
 
@@ -1377,7 +1377,7 @@ Subsec. (b). Pub. L. 104–150, § 3, designated existing provisions as par. (
 
 1980—Pub. L. 96–464 amended section generally and, among many changes, made a number of technical amendments, and inserted provision making it clear that only states which meet the basic eligibility requirements in this chapter can receive funding under this section.
 
-## § 1456c. Technical assistance
+## § 1456c. Technical assistance
 
 **(a)** The Secretary shall conduct a program of technical assistance and management-oriented research necessary to support the development and implementation of State coastal management program amendments under section 1456b of this title, and appropriate to the furtherance of international cooperative efforts and technical assistance in coastal zone management. Each department, agency, and instrumentality of the executive branch of the Federal Government may assist the Secretary, on a reimbursable basis or otherwise, in carrying out the purposes of this section, including the furnishing of information to the extent permitted by law, the transfer of personnel with their consent and without prejudice to their position and rating, and the performance of any research, study, and technical assistance which does not interfere with the performance of the primary duties of such department, agency, or instrumentality. The Secretary may enter into contracts or other arrangements with any qualified person for the purposes of carrying out this subsection.
 
@@ -1389,15 +1389,15 @@ Subsec. (b). Pub. L. 104–150, § 3, designated existing provisions as par. (
 
 **(3)** The Secretary shall consult with coastal states on a regular basis regarding the development and implementation of the program established by this section.
 
-(Pub. L. 89–454, title III, § 310, as added Pub. L. 101–508, title VI, § 6211, Nov. 5, 1990, 104 Stat. 1388–311.)
+(Pub. L. 89–454, title III, § 310, as added Pub. L. 101–508, title VI, § 6211, Nov. 5, 1990, 104 Stat. 1388–311.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1456c, Pub. L. 89–454, title III, § 310, as added Pub. L. 94–370, § 9, July 26, 1976, 90 Stat. 1029, related to research and technical assistance for coastal zone management, prior to repeal by Pub. L. 99–272, title VI, § 6045(1), Apr. 7, 1986, 100 Stat. 127.
+A prior section 1456c, Pub. L. 89–454, title III, § 310, as added Pub. L. 94–370, § 9, July 26, 1976, 90 Stat. 1029, related to research and technical assistance for coastal zone management, prior to repeal by Pub. L. 99–272, title VI, § 6045(1), Apr. 7, 1986, 100 Stat. 127.
 
-## § 1456d. Coastal and Estuarine Land Conservation Program
+## § 1456d. Coastal and Estuarine Land Conservation Program
 
 The Secretary shall establish a Coastal and Estuarine Land Conservation Program, for the purpose of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural or recreational state to other uses: *Provided further*, That by September 30, 2002, the Secretary shall issue guidelines for this program delineating the criteria for grant awards: *Provided further*, That the Secretary shall distribute these funds in consultation with the States’ Coastal Zone Managers’ or Governors’ designated representatives based on demonstrated need and ability to successfully leverage funds, and shall give priority to lands which can be effectively managed and protected and which have significant ecological value: *Provided further*, That grants funded under this program shall require a 100 percent match from other sources.
 
@@ -1415,13 +1415,13 @@ Section was enacted as part of the Department of Commerce and Related Agencies A
 
 Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 75, provided in part: “That the Secretary shall establish a Coastal and Estuarine Land Conservation Program, for the purpose of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural or recreational state to other uses”.
 
-## § 1457. Public hearings
+## § 1457. Public hearings
 
 All public hearings required under this chapter must be announced at least thirty days prior to the hearing date. At the time of the announcement, all agency materials pertinent to the hearings, including documents, studies, and other data, must be made available to the public for review and study. As similar materials are subsequently developed, they shall be made available to the public as they become available to the agency.
 
-(Pub. L. 89–454, title III, § 311, formerly § 308, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287; renumbered § 311, Pub. L. 94–370, § 7, July 26, 1976, 90 Stat. 1019.)
+(Pub. L. 89–454, title III, § 311, formerly § 308, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287; renumbered § 311, Pub. L. 94–370, § 7, July 26, 1976, 90 Stat. 1019.)
 
-## § 1458. Review of performance
+## § 1458. Review of performance
 
 **(a) Evaluation of adherence with terms of grants**
 
@@ -1451,7 +1451,7 @@ The Secretary shall withdraw approval of the management program of any coastal s
 
 Management program approval and financial assistance may not be withdrawn under subsection (d), unless the Secretary gives the coastal state notice of the proposed withdrawal and an opportunity for a public hearing on the proposed action. Upon the withdrawal of management program approval under this subsection (d), the Secretary shall provide the coastal state with written specifications of the actions that should be taken, or not engaged in, by the state in order that such withdrawal may be canceled by the Secretary.
 
-(Pub. L. 89–454, title III, § 312, formerly § 309, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287, renumbered § 312 and amended Pub. L. 94–370, §§ 7, 10, July 26, 1976, 90 Stat. 1019, 1029; Pub. L. 96–464, § 9(a), Oct. 17, 1980, 94 Stat. 2065; Pub. L. 99–272, title VI, § 6043(a), Apr. 7, 1986, 100 Stat. 124; Pub. L. 101–508, title VI, §§ 6212, 6216(b), Nov. 5, 1990, 104 Stat. 1388–311, 1388–314; Pub. L. 102–587, title II, § 2205(b)(1)(A), (C), Nov. 4, 1992, 106 Stat. 5050.)
+(Pub. L. 89–454, title III, § 312, formerly § 309, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287, renumbered § 312 and amended Pub. L. 94–370, §§ 7, 10, July 26, 1976, 90 Stat. 1019, 1029; Pub. L. 96–464, § 9(a), Oct. 17, 1980, 94 Stat. 2065; Pub. L. 99–272, title VI, § 6043(a), Apr. 7, 1986, 100 Stat. 124; Pub. L. 101–508, title VI, §§ 6212, 6216(b), Nov. 5, 1990, 104 Stat. 1388–311, 1388–314; Pub. L. 102–587, title II, § 2205(b)(1)(A), (C), Nov. 4, 1992, 106 Stat. 5050.)
 
 **Editorial Notes**
 
@@ -1459,19 +1459,19 @@ Management program approval and financial assistance may not be withdrawn under 
 
 1992—Subsecs. (b), (c)(1). Pub. L. 102–587 substituted “coastal state’s” for “coastal State’s” in subsec. (b) and “coastal state” for “coastal State” after “any” in subsec. (c)(1).
 
-1990—Subsec. (a). Pub. L. 101–508, § 6216(b), substituted “through (K)” for “through (I)”.
+1990—Subsec. (a). Pub. L. 101–508, § 6216(b), substituted “through (K)” for “through (I)”.
 
-Subsec. (b). Pub. L. 101–508, § 6212(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of making the evaluation of a coastal state’s performance, the Secretary shall conduct public meetings and provide opportunity for oral and written comments by the public. Each such evaluation shall be prepared in report form and the Secretary shall make copies thereof available to the public.”
+Subsec. (b). Pub. L. 101–508, § 6212(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of making the evaluation of a coastal state’s performance, the Secretary shall conduct public meetings and provide opportunity for oral and written comments by the public. Each such evaluation shall be prepared in report form and the Secretary shall make copies thereof available to the public.”
 
-Subsec. (c). Pub. L. 101–508, § 6212(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall reduce any financial assistance extended to any coastal state under section 1455 of this title (but not below 70 per centum of the amount that would otherwise be available to the coastal state under such section for any year), and withdraw any unexpended portion of such reduction, if the Secretary determines that the coastal state—
+Subsec. (c). Pub. L. 101–508, § 6212(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall reduce any financial assistance extended to any coastal state under section 1455 of this title (but not below 70 per centum of the amount that would otherwise be available to the coastal state under such section for any year), and withdraw any unexpended portion of such reduction, if the Secretary determines that the coastal state—
 
 “(1) is failing to make significant improvement in achieving the coastal management objectives specified in section 1452(2)(A) through (I) of this title; or
 
 “(2) is failing to make satisfactory progress in providing in its management program for the matters referred to in section 1455(i)(A) and (B) of this title.”
 
-Subsec. (d). Pub. L. 101–508, § 6212(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary shall withdraw approval of the management program of any coastal state, and shall withdraw any financial assistance available to that state under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state is failing to adhere to, is not justified in deviating from (1) the management program approved by the Secretary, or (2) the terms of any grant or cooperative agreement funded under section 1455 of this title, and refuses to remedy the deviation.”
+Subsec. (d). Pub. L. 101–508, § 6212(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary shall withdraw approval of the management program of any coastal state, and shall withdraw any financial assistance available to that state under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state is failing to adhere to, is not justified in deviating from (1) the management program approved by the Secretary, or (2) the terms of any grant or cooperative agreement funded under section 1455 of this title, and refuses to remedy the deviation.”
 
-Subsec. (f). Pub. L. 101–508, § 6212(d), struck out subsec. (f) which read as follows: “The Secretary shall carry out research on, and offer technical assistance of the coastal states with respect to, those activities, projects, and other relevant matters evaluated under this section that the Secretary considers to offer promise toward improving coastal zone management.”
+Subsec. (f). Pub. L. 101–508, § 6212(d), struck out subsec. (f) which read as follows: “The Secretary shall carry out research on, and offer technical assistance of the coastal states with respect to, those activities, projects, and other relevant matters evaluated under this section that the Secretary considers to offer promise toward improving coastal zone management.”
 
 1986—Subsec. (c). Pub. L. 99–272 designated existing provisions relating to failure to achieve objectives specified in section 1452(2)(A) through (I) as par. (1), and added par. (2).
 
@@ -1481,15 +1481,15 @@ Subsec. (b). Pub. L. 96–464 substituted provisions relating to public meeting 
 
 Subsecs. (c) to (f). Pub. L. 96–464 added subsecs. (c) to (f).
 
-1976—Subsec. (a). Pub. L. 94–370, § 10, designated existing provisions as par. (1), substituted “such states with respect to coastal zone management; and” for “each state.”, and added par. (2).
+1976—Subsec. (a). Pub. L. 94–370, § 10, designated existing provisions as par. (1), substituted “such states with respect to coastal zone management; and” for “each state.”, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 96–464, § 9(b), Oct. 17, 1980, 94 Stat. 2066, provided that: “Within two hundred and seventy days after the date of the enactment of this Act [Oct. 17, 1980], the Secretary of Commerce shall issue such regulations as may be necessary or appropriate to administer section 312 of the Coastal Zone Management Act of 1972 (as amended by subsection (a) of this section) [this section].”
+Pub. L. 96–464, § 9(b), Oct. 17, 1980, 94 Stat. 2066, provided that: “Within two hundred and seventy days after the date of the enactment of this Act [Oct. 17, 1980], the Secretary of Commerce shall issue such regulations as may be necessary or appropriate to administer section 312 of the Coastal Zone Management Act of 1972 (as amended by subsection (a) of this section) [this section].”
 
-## § 1459. Records and audit
+## § 1459. Records and audit
 
 **(a) Maintenance of records by recipients of grants or financial assistance**
 
@@ -1507,21 +1507,21 @@ Each recipient of a grant under this chapter or of financial assistance under se
 
 have access for purposes of audit and examination to any record, book, document, and paper which belongs to or is used or controlled by, any recipient of the grant funds or any person who entered into any transaction relating to such financial assistance and which is pertinent for purposes of determining if the grant funds or the proceeds of such financial assistance are being, or were, used in accordance with the provisions of this chapter.
 
-(Pub. L. 89–454, title III, § 313, formerly § 310, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287; renumbered § 313 and amended Pub. L. 94–370, §§ 7, 11, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 102–587, title II, § 2205(b)(19), Nov. 4, 1992, 106 Stat. 5052.)
+(Pub. L. 89–454, title III, § 313, formerly § 310, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287; renumbered § 313 and amended Pub. L. 94–370, §§ 7, 11, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 102–587, title II, § 2205(b)(19), Nov. 4, 1992, 106 Stat. 5052.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–587, § 2205(b)(19)(A), substituted “section 1456a of this title, as in effect before November 5, 1990,” for “section 1456a of this title”.
+1992—Subsec. (a). Pub. L. 102–587, § 2205(b)(19)(A), substituted “section 1456a of this title, as in effect before November 5, 1990,” for “section 1456a of this title”.
 
-Subsec. (b)(1). Pub. L. 102–587, § 2205(b)(19)(B), substituted “section 1456a of this title, as in effect before November 5, 1990; and” for “section 1456a(d) of this title; and”.
+Subsec. (b)(1). Pub. L. 102–587, § 2205(b)(19)(B), substituted “section 1456a of this title, as in effect before November 5, 1990; and” for “section 1456a(d) of this title; and”.
 
-1976—Subsec. (a). Pub. L. 94–370, § 11(2), inserted “or of financial assistance under section 1456a of this title” after “grant under this chapter” and “and of the proceeds of such assistance” after “received under the grant”.
+1976—Subsec. (a). Pub. L. 94–370, § 11(2), inserted “or of financial assistance under section 1456a of this title” after “grant under this chapter” and “and of the proceeds of such assistance” after “received under the grant”.
 
-Subsec. (b). Pub. L. 94–370, § 11(3), inserted provisions limiting duration of authority to 3 years after completion of project or repayment of loan and enlarged scope of access to include persons who entered into transactions relating to the grant of funds.
+Subsec. (b). Pub. L. 94–370, § 11(3), inserted provisions limiting duration of authority to 3 years after completion of project or repayment of loan and enlarged scope of access to include persons who entered into transactions relating to the grant of funds.
 
-## § 1460. Walter B. Jones excellence in coastal zone management awards
+## § 1460. Walter B. Jones excellence in coastal zone management awards
 
 **(a) Establishment**
 
@@ -1551,19 +1551,19 @@ In making selections under subsection (b)(3) the Secretary shall solicit nominat
 
 **(3)** public ceremonies to acknowledge such awards.
 
-(Pub. L. 89–454, title III, § 314, formerly § 313, as added Pub. L. 101–508, title VI, § 6213, Nov. 5, 1990, 104 Stat. 1388–312; renumbered § 314 and amended Pub. L. 102–587, title II, § 2205(b)(20), Nov. 4, 1992, 106 Stat. 5052.)
+(Pub. L. 89–454, title III, § 314, formerly § 313, as added Pub. L. 101–508, title VI, § 6213, Nov. 5, 1990, 104 Stat. 1388–312; renumbered § 314 and amended Pub. L. 102–587, title II, § 2205(b)(20), Nov. 4, 1992, 106 Stat. 5052.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1460, Pub. L. 89–454, title III, § 314, formerly § 311, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287; renumbered § 314, Pub. L. 94–370, § 7, July 26, 1976, 90 Stat. 1019, related to establishment, etc., of Coastal Zone Management Advisory Committee, prior to repeal by Pub. L. 99–272, title VI, § 6045(2), Apr. 7, 1986, 100 Stat. 127.
+A prior section 1460, Pub. L. 89–454, title III, § 314, formerly § 311, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287; renumbered § 314, Pub. L. 94–370, § 7, July 26, 1976, 90 Stat. 1019, related to establishment, etc., of Coastal Zone Management Advisory Committee, prior to repeal by Pub. L. 99–272, title VI, § 6045(2), Apr. 7, 1986, 100 Stat. 127.
 
 **Amendments**
 
-1992—Subsecs. (a), (e). Pub. L. 102–587, § 2205(b)(20)(B), (C), after “under section 1456a of this title” inserted “and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title)”.
+1992—Subsecs. (a), (e). Pub. L. 102–587, § 2205(b)(20)(B), (C), after “under section 1456a of this title” inserted “and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title)”.
 
-## § 1461. National Estuarine Research Reserve System
+## § 1461. National Estuarine Research Reserve System
 
 **(a) Establishment of System** There is established the National Estuarine Research Reserve System (hereinafter referred to in this section as the “System”) that consists of—
 
@@ -1653,7 +1653,7 @@ In developing the guidelines under this section, the Secretary shall consult wit
 
 **(4)** a summary of the evaluations made under subsection (f).
 
-(Pub. L. 89–454, title III, § 315, formerly § 312, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1288; renumbered § 315 and amended Pub. L. 94–370, §§ 7, 12, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 96–464, § 11, Oct. 17, 1980, 94 Stat. 2067; Pub. L. 99–272, title VI, § 6044, Apr. 7, 1986, 100 Stat. 125; Pub. L. 101–508, title VI, § 6214, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 102–587, title II, § 2205(b)(1)(A), (B), (21), (22), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, § 6, June 3, 1996, 110 Stat. 1381.)
+(Pub. L. 89–454, title III, § 315, formerly § 312, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1288; renumbered § 315 and amended Pub. L. 94–370, §§ 7, 12, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 96–464, § 11, Oct. 17, 1980, 94 Stat. 2067; Pub. L. 99–272, title VI, § 6044, Apr. 7, 1986, 100 Stat. 125; Pub. L. 101–508, title VI, § 6214, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 102–587, title II, § 2205(b)(1)(A), (B), (21), (22), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, § 6, June 3, 1996, 110 Stat. 1381.)
 
 **Editorial Notes**
 
@@ -1661,19 +1661,19 @@ In developing the guidelines under this section, the Secretary shall consult wit
 
 1996—Subsec. (e)(3)(C). Pub. L. 104–150 added subpar. (C).
 
-1992—Subsec. (a). Pub. L. 102–587, § 2205(b)(21), substituted “Research Reserve” for “Reserve Research”.
+1992—Subsec. (a). Pub. L. 102–587, § 2205(b)(21), substituted “Research Reserve” for “Reserve Research”.
 
-Subsec. (b). Pub. L. 102–587, § 2205(b)(1)(A), substituted “coastal state” for “coastal State” in pars. (1) and (2)(B) and (D).
+Subsec. (b). Pub. L. 102–587, § 2205(b)(1)(A), substituted “coastal state” for “coastal State” in pars. (1) and (2)(B) and (D).
 
-Subsec. (c)(4). Pub. L. 102–587, § 2205(b)(22), substituted “paragraph (1)” for “subsection (1)”.
+Subsec. (c)(4). Pub. L. 102–587, § 2205(b)(22), substituted “paragraph (1)” for “subsection (1)”.
 
-Subsec. (e). Pub. L. 102–587, § 2205(b)(1)(A), (B), substituted “coastal state” for “coastal State” in par. (1)(A) and (B) and “coastal states” for “coastal States” in par. (2).
+Subsec. (e). Pub. L. 102–587, § 2205(b)(1)(A), (B), substituted “coastal state” for “coastal State” in par. (1)(A) and (B) and “coastal states” for “coastal States” in par. (2).
 
-1990—Pub. L. 101–508, § 6214(a), substituted “Research Reserve” for “Reserve Research” in section catchline.
+1990—Pub. L. 101–508, § 6214(a), substituted “Research Reserve” for “Reserve Research” in section catchline.
 
-Subsec. (e)(3)(A). Pub. L. 101–508, § 6214(b), (d), substituted “percent” for “per centum” and “$5,000,000” for “$4,000,000”, and struck out “of subsection (e) of this section” after “paragraph (1)(A)(i)”.
+Subsec. (e)(3)(A). Pub. L. 101–508, § 6214(b), (d), substituted “percent” for “per centum” and “$5,000,000” for “$4,000,000”, and struck out “of subsection (e) of this section” after “paragraph (1)(A)(i)”.
 
-Subsec. (e)(3)(B). Pub. L. 101–508, § 6214(c), (d), substituted “70 percent” for “50 per centum”, struck out “of subsection (e) of this section” after “paragraph (1)(B)” and inserted before period at end “; except that the amount of the financial assistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System”.
+Subsec. (e)(3)(B). Pub. L. 101–508, § 6214(c), (d), substituted “70 percent” for “50 per centum”, struck out “of subsection (e) of this section” after “paragraph (1)(B)” and inserted before period at end “; except that the amount of the financial assistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System”.
 
 1986—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “The Secretary may, in accordance with this section and in accordance with such rules and regulations as the Secretary shall promulgate, make grants to any coastal state for the purpose of—
 
@@ -1685,9 +1685,9 @@ The amount of any such grant shall not exceed 50 per centum of the cost of the p
 
 1980—Pub. L. 96–464, in par. (2), substituted “the preservation of islands, or portions thereof” for “access to public beaches and other public coastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value, and for the preservation of islands”; and in provision following par. (2), raised the spending limitation of $2,000,000 to $3,000,000 and inserted provision that no grant for acquisition of land may be made under this section without the approval of the Governor of the state in which the land proposed to be acquired is located.
 
-1976—Pub. L. 94–370, § 12, restructured existing provisions into pars. (1) and (2), inserted purpose of acquiring lands to provide for access to beaches and other coastal areas and for the preservation of islands, and struck out proviso that no Federal funds received pursuant to sections 1454 or 1455 of this title be used for purposes of this section.
+1976—Pub. L. 94–370, § 12, restructured existing provisions into pars. (1) and (2), inserted purpose of acquiring lands to provide for access to beaches and other coastal areas and for the preservation of islands, and struck out proviso that no Federal funds received pursuant to sections 1454 or 1455 of this title be used for purposes of this section.
 
-## § 1462. Coastal zone management reports
+## § 1462. Coastal zone management reports
 
 **(a) Biennial reports**
 
@@ -1703,7 +1703,7 @@ The report required by subsection (a) shall contain such recommendations for add
 
 **(2)** The Secretary shall promptly submit a report to the Congress consisting of the information required under paragraph (1) of this subsection. Such report shall include recommendations for changes necessary to resolve existing conflicts among Federal laws and programs that affect the uses of coastal resources.
 
-(Pub. L. 89–454, title III, § 316, formerly § 313, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1288; renumbered § 316 and amended Pub. L. 94–370, §§ 7, 13, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 96–464, § 10, Oct. 17, 1980, 94 Stat. 2066; Pub. L. 102–587, title II, § 2205(b)(23), Nov. 4, 1992, 106 Stat. 5052.)
+(Pub. L. 89–454, title III, § 316, formerly § 313, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1288; renumbered § 316 and amended Pub. L. 94–370, §§ 7, 13, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 96–464, § 10, Oct. 17, 1980, 94 Stat. 2066; Pub. L. 102–587, title II, § 2205(b)(23), Nov. 4, 1992, 106 Stat. 5052.)
 
 **Editorial Notes**
 
@@ -1711,11 +1711,11 @@ The report required by subsection (a) shall contain such recommendations for add
 
 1992—Subsec. (a)(5). Pub. L. 102–587 substituted “subsections (c) and (d) of section 1458 of this title” for “subsections (c) and (d) of this section”.
 
-1980—Subsec. (a). Pub. L. 96–464, § 10(2), in provision preceding opening sentence, substituted provisions that the Secretary consult with Congress concerning the administration of this chapter and prepare and submit a biennial report to the President for transmittal to Congress for provisions that the Secretary prepare and submit to the President for transmittal to Congress an annual report for the preceding year not later than November 1 of each year, in cl. (4), substituted “reviewed and disapproved and a” for “reviewed and disapproved or with respect to which grants have been terminated under this chapter, and a”, added cl. (5), and redesignated cls. (5) to (12) as (6) to (13) respectively.
+1980—Subsec. (a). Pub. L. 96–464, § 10(2), in provision preceding opening sentence, substituted provisions that the Secretary consult with Congress concerning the administration of this chapter and prepare and submit a biennial report to the President for transmittal to Congress for provisions that the Secretary prepare and submit to the President for transmittal to Congress an annual report for the preceding year not later than November 1 of each year, in cl. (4), substituted “reviewed and disapproved and a” for “reviewed and disapproved or with respect to which grants have been terminated under this chapter, and a”, added cl. (5), and redesignated cls. (5) to (12) as (6) to (13) respectively.
 
-Subsec. (c). Pub. L. 96–464, § 10(3), added subsec. (c).
+Subsec. (c). Pub. L. 96–464, § 10(3), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–370, § 13, added cls. (9) to (11) and redesignated former cl. (9) as (12).
+1976—Subsec. (a). Pub. L. 94–370, § 13, added cls. (9) to (11) and redesignated former cl. (9) as (12).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1725,7 +1725,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 **Shellfish Sanitation**
 
-Pub. L. 94–370, § 16, July 26, 1976, 90 Stat. 1032, required the Secretary of Commerce to undertake a comprehensive review of the molluscan shellfish industry, and evaluate the impact of Federal law concerning water quality on the industry, with a report due to Congress by Apr. 30, 1977, of the findings, comments, and recommendations from the review, with final regulations to be promulgated not before June 30, 1977.
+Pub. L. 94–370, § 16, July 26, 1976, 90 Stat. 1032, required the Secretary of Commerce to undertake a comprehensive review of the molluscan shellfish industry, and evaluate the impact of Federal law concerning water quality on the industry, with a report due to Congress by Apr. 30, 1977, of the findings, comments, and recommendations from the review, with final regulations to be promulgated not before June 30, 1977.
 
 **Executive Documents**
 
@@ -1741,21 +1741,21 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-## § 1463. Rules and regulations
+## § 1463. Rules and regulations
 
 The Secretary shall develop and promulgate, pursuant to section 553 of title 5, after notice and opportunity for full participation by relevant Federal agencies, state agencies, local governments, regional organizations, port authorities, and other interested parties, both public and private, such rules and regulations as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 89–454, title III, § 317, formerly § 314, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1288; renumbered § 317, Pub. L. 94–370, § 7, July 26, 1976, 90 Stat. 1019.)
+(Pub. L. 89–454, title III, § 317, formerly § 314, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1288; renumbered § 317, Pub. L. 94–370, § 7, July 26, 1976, 90 Stat. 1019.)
 
-## § 1463a. Omitted
+## § 1463a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 96–464, § 12(a)–(g), Oct. 17, 1980, 94 Stat. 2067; Pub. L. 98–620, title IV, § 402(20), Nov. 8, 1984, 98 Stat. 3358, which required the Secretary of Commerce to submit to Congress any final rule promulgated pursuant to this chapter and provided procedures for Congressional disapproval of such rules was omitted pursuant to section 12(h) of Pub. L. 96–464, which provided that this section would cease to have any force or effect after Sept. 30, 1985.
+Section, Pub. L. 96–464, § 12(a)–(g), Oct. 17, 1980, 94 Stat. 2067; Pub. L. 98–620, title IV, § 402(20), Nov. 8, 1984, 98 Stat. 3358, which required the Secretary of Commerce to submit to Congress any final rule promulgated pursuant to this chapter and provided procedures for Congressional disapproval of such rules was omitted pursuant to section 12(h) of Pub. L. 96–464, which provided that this section would cease to have any force or effect after Sept. 30, 1985.
 
-## § 1463b. National Coastal Resources Research and Development Institute
+## § 1463b. National Coastal Resources Research and Development Institute
 
 **(a) Establishment by Secretary; administration**
 
@@ -1813,7 +1813,7 @@ Employees of the Institute shall not, by reason of such employment, be considere
 
 For the purposes of this section, there are authorized to be appropriated in each fiscal year $5,000,000, commencing with fiscal year 1985.
 
-(Pub. L. 98–364, title II, § 201, July 17, 1984, 98 Stat. 443.)
+(Pub. L. 98–364, title II, § 201, July 17, 1984, 98 Stat. 443.)
 
 **Editorial Notes**
 
@@ -1831,7 +1831,7 @@ Section was not enacted as part of the Coastal Zone Management Act of 1972 which
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 1464. Authorization of appropriations
+## § 1464. Authorization of appropriations
 
 **(a) Sums appropriated to Secretary** There are authorized to be appropriated to the Secretary, to remain available until expended—
 
@@ -1859,7 +1859,7 @@ Federal funds received from other sources shall not be used to pay a coastal sta
 
 The amount of any grant, or portion of a grant, made to a State under any section of this chapter which is not obligated by such State during the fiscal year, or during the second fiscal year after the fiscal year, for which it was first authorized to be obligated by such State shall revert to the Secretary. The Secretary shall add such reverted amount to those funds available for grants under the section for such reverted amount was originally made available.
 
-(Pub. L. 89–454, title III, § 318, formerly § 315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, § 1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered § 318 and amended Pub. L. 94–370, §§ 7, 14, July 26, 1976, 90 Stat. 1019, 1031; Pub. L. 95–372, title V, §§ 502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, § 13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, § 6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, § 7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI, § 6215, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 104–150, § 4, June 3, 1996, 110 Stat. 1381.)
+(Pub. L. 89–454, title III, § 318, formerly § 315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, § 1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered § 318 and amended Pub. L. 94–370, §§ 7, 14, July 26, 1976, 90 Stat. 1019, 1031; Pub. L. 95–372, title V, §§ 502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, § 13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, § 6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, § 7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI, § 6215, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 104–150, § 4, June 3, 1996, 110 Stat. 1381.)
 
 **Editorial Notes**
 
@@ -1869,9 +1869,9 @@ This chapter, referred to in subsec. (c), was in the original “this Act” whi
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–150, § 4(1), amended subsec. (a) generally, substituting provisions of pars. (1) and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) setting forth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
+1996—Subsec. (a). Pub. L. 104–150, § 4(1), amended subsec. (a) generally, substituting provisions of pars. (1) and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) setting forth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
 
-Subsecs. (b) to (d). Pub. L. 104–150, § 4(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “There are authorized to be appropriated until October 1, 1986, to the Fund, such sums, not to exceed $800,000,000, for the purposes of carrying out the provisions of section 1456a of this title, other than subsection (b), of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section.”
+Subsecs. (b) to (d). Pub. L. 104–150, § 4(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “There are authorized to be appropriated until October 1, 1986, to the Fund, such sums, not to exceed $800,000,000, for the purposes of carrying out the provisions of section 1456a of this title, other than subsection (b), of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section.”
 
 1990—Subsec. (a)(1) to (4). Pub. L. 101–508 substituted pars. (1) to (4) for former pars. (1) to (5) which read as follows:
 
@@ -1885,59 +1885,59 @@ Subsecs. (b) to (d). Pub. L. 104–150, § 4(2), (3), redesignated subsecs. (c
 
 “(5) such sums, not to exceed $3,300,000 for the fiscal year ending September 30, 1986, not to exceed $3,300,000 for the fiscal year ending September 30, 1987, $3,300,000 for the fiscal year ending September 30, 1988, $4,000,000 for the fiscal year ending September 30, 1989, and $4,000,000 for the fiscal year ending September 30, 1990, as may be necessary for administrative expenses incident to the administration of this chapter.”
 
-1986—Subsec. (a)(1). Pub. L. 99–272, § 6046(1), substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under sections 1455 and 1455a of this title, for authorization of appropriations of $48,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1455 of this title.
+1986—Subsec. (a)(1). Pub. L. 99–272, § 6046(1), substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under sections 1455 and 1455a of this title, for authorization of appropriations of $48,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1455 of this title.
 
-Subsec. (a)(2). Pub. L. 99–272, § 6046(2), redesignated par. (3) as (2), and struck out former par. (2) which authorized appropriations of $20,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1455a of this title.
+Subsec. (a)(2). Pub. L. 99–272, § 6046(2), redesignated par. (3) as (2), and struck out former par. (2) which authorized appropriations of $20,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1455a of this title.
 
-Subsec. (a)(3). Pub. L. 99–272, § 6046(2), (3), redesignated par. (4) as (3) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under section 1456b of this title, for authorization of appropriations of $3,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1456b of this title. Former par. (3) redesignated (2).
+Subsec. (a)(3). Pub. L. 99–272, § 6046(2), (3), redesignated par. (4) as (3) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under section 1456b of this title, for authorization of appropriations of $3,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1456b of this title. Former par. (3) redesignated (2).
 
-Subsec. (a)(4). Pub. L. 99–272, § 6046(2), (3), redesignated par. (5) as (4) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under section 1461 of this title, for authorization of appropriations of $9,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1461 of this title. Former par. (4) redesignated (3).
+Subsec. (a)(4). Pub. L. 99–272, § 6046(2), (3), redesignated par. (5) as (4) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under section 1461 of this title, for authorization of appropriations of $9,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1461 of this title. Former par. (4) redesignated (3).
 
-Subsec. (a)(5), (6). Pub. L. 99–272, § 6046(2), (3), redesignated par. (6) as (5) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for administrative expenses incident to administration of this chapter, for authorization of appropriations of $6,000,000 for each of fiscal years 1981 through 1985 necessary for such administrative expenses. Former par. (5) redesignated (4).
+Subsec. (a)(5), (6). Pub. L. 99–272, § 6046(2), (3), redesignated par. (6) as (5) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for administrative expenses incident to administration of this chapter, for authorization of appropriations of $6,000,000 for each of fiscal years 1981 through 1985 necessary for such administrative expenses. Former par. (5) redesignated (4).
 
 Subsec. (d). Pub. L. 99–626 added subsec. (d).
 
-1980—Subsec. (a)(1). Pub. L. 96–464, § 13(1), redesignated par. (2) as (1) and substituted authorization of appropriation of $48,000,000 for each of the fiscal years 1981 through 1985, for authorization of appropriation of $50,000,000 for fiscal years 1977 through 1980. Former par. (1), which authorized appropriation of $20,000,000 for fiscal years 1977 through 1979 for grants under section 1454 of this title, was struck out.
+1980—Subsec. (a)(1). Pub. L. 96–464, § 13(1), redesignated par. (2) as (1) and substituted authorization of appropriation of $48,000,000 for each of the fiscal years 1981 through 1985, for authorization of appropriation of $50,000,000 for fiscal years 1977 through 1980. Former par. (1), which authorized appropriation of $20,000,000 for fiscal years 1977 through 1979 for grants under section 1454 of this title, was struck out.
 
-Subsec. (a)(2). Pub. L. 96–464, § 13(1), added par. (2). Former par. (2) redesignated (1).
+Subsec. (a)(2). Pub. L. 96–464, § 13(1), added par. (2). Former par. (2) redesignated (1).
 
-Subsec. (a)(3). Pub. L. 96–464, § 13(1), substituted authorization of appropriation of $75,000,000 for each of the fiscal years 1981 through 1988, for authorization of appropriation of $50,000,000 for each of the fiscal year years 1977 and 1978, and $130,000,000 for each of the fiscal years 1979 through 1988.
+Subsec. (a)(3). Pub. L. 96–464, § 13(1), substituted authorization of appropriation of $75,000,000 for each of the fiscal years 1981 through 1988, for authorization of appropriation of $50,000,000 for each of the fiscal year years 1977 and 1978, and $130,000,000 for each of the fiscal years 1979 through 1988.
 
-Subsec. (a)(4). Pub. L. 96–464, § 13(1), redesignated par. (5) as (4) and substituted authorization of appropriation of $3,000,000 for each of the fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for each of the fiscal years 1977 through 1980. Former par. (4), which authorized appropriation of $5,000,000 for each of the fiscal years 1979 through 1983 for grants under section 1456a(c)(2) of this title, was struck out.
+Subsec. (a)(4). Pub. L. 96–464, § 13(1), redesignated par. (5) as (4) and substituted authorization of appropriation of $3,000,000 for each of the fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for each of the fiscal years 1977 through 1980. Former par. (4), which authorized appropriation of $5,000,000 for each of the fiscal years 1979 through 1983 for grants under section 1456a(c)(2) of this title, was struck out.
 
-Subsec. (a)(5). Pub. L. 96–464, § 13(1), combined in par. (5), authorization of appropriation of $31,000,000 for grants under section 1461 of this title for fiscal years 1977 through 1980 formerly contained in pars. (7) and (8), and authorized appropriation of $9,000,000 for grants under section 1461 of this title for fiscal years 1981 through 1985. Former par. (5) redesignated (4).
+Subsec. (a)(5). Pub. L. 96–464, § 13(1), combined in par. (5), authorization of appropriation of $31,000,000 for grants under section 1461 of this title for fiscal years 1977 through 1980 formerly contained in pars. (7) and (8), and authorized appropriation of $9,000,000 for grants under section 1461 of this title for fiscal years 1981 through 1985. Former par. (5) redesignated (4).
 
-Subsec. (a)(6). Pub. L. 96–464, § 13(1), redesignated par. (9) as (6) and substituted authorization of appropriation of $6,000,000 for fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for fiscal years 1977 through 1980. Former par. (6), which contained authorization of appropriation of $10,000,000 for fiscal years 1977 through 1980 for financial assistance under section 1456c of this title with equal division between subsecs. (a) and (b), was struck out.
+Subsec. (a)(6). Pub. L. 96–464, § 13(1), redesignated par. (9) as (6) and substituted authorization of appropriation of $6,000,000 for fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for fiscal years 1977 through 1980. Former par. (6), which contained authorization of appropriation of $10,000,000 for fiscal years 1977 through 1980 for financial assistance under section 1456c of this title with equal division between subsecs. (a) and (b), was struck out.
 
-Subsec. (a)(7) to (9). Pub. L. 96–464, § 13(1), combined provisions of pars. (7) and (8) into par. (5) and redesignated par. (9) as (6).
+Subsec. (a)(7) to (9). Pub. L. 96–464, § 13(1), combined provisions of pars. (7) and (8) into par. (5) and redesignated par. (9) as (6).
 
-Subsec. (b). Pub. L. 96–464, § 13(2), substituted “subsection (b) of this section, of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section” for “subsections (b) and (c)(2), of which not to exceed $50,000,000 shall be for purposes of subsections (c)(1) and (d)(4) of such section”.
+Subsec. (b). Pub. L. 96–464, § 13(2), substituted “subsection (b) of this section, of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section” for “subsections (b) and (c)(2), of which not to exceed $50,000,000 shall be for purposes of subsections (c)(1) and (d)(4) of such section”.
 
-Subsec. (c). Pub. L. 96–464, § 13(3), substituted “section 1455 or 1456b of this title” for “section 1454, 1455, 1456b or 1456c of this title”.
+Subsec. (c). Pub. L. 96–464, § 13(3), substituted “section 1455 or 1456b of this title” for “section 1454, 1455, 1456b or 1456c of this title”.
 
-1978—Subsec. (a)(3). Pub. L. 95–372, § 502, substituted “for each of the fiscal years ending September 30, 1977, and September 30, 1978, and not to exceed $130,000,000 per fiscal year for each of the fiscal years occurring during the period beginning on October 1, 1978, and ending September 30, 1988,” for “for each of the 8 fiscal years occurring during the period beginning October 1, 1976, and ending September 30, 1984,”.
+1978—Subsec. (a)(3). Pub. L. 95–372, § 502, substituted “for each of the fiscal years ending September 30, 1977, and September 30, 1978, and not to exceed $130,000,000 per fiscal year for each of the fiscal years occurring during the period beginning on October 1, 1978, and ending September 30, 1988,” for “for each of the 8 fiscal years occurring during the period beginning October 1, 1976, and ending September 30, 1984,”.
 
-Subsec. (a)(4) to (9). Pub. L. 95–372, § 503(e), added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+Subsec. (a)(4) to (9). Pub. L. 95–372, § 503(e), added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
-Subsec. (b). Pub. L. 95–372, § 503(f), substituted “subsections (b) and (c)(2)” for “subsection (b)” and “subsections (c)(1)” for “subsections (c)”.
+Subsec. (b). Pub. L. 95–372, § 503(f), substituted “subsections (b) and (c)(2)” for “subsection (b)” and “subsections (c)(1)” for “subsections (c)”.
 
-1976—Subsec. (a)(1). Pub. L. 94–370, § 14, substituted provisions authorizing appropriations of sums not to exceed $20,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979 for provisions authorizing appropriations of the sum of $9,000,000 for the fiscal year ending June 30, 1973, and for each of the fiscal years 1974 through 1977.
+1976—Subsec. (a)(1). Pub. L. 94–370, § 14, substituted provisions authorizing appropriations of sums not to exceed $20,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979 for provisions authorizing appropriations of the sum of $9,000,000 for the fiscal year ending June 30, 1973, and for each of the fiscal years 1974 through 1977.
 
-Subsec. (a)(2). Pub. L. 94–370, § 14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980 for provisions authorizing appropriations of sums not to exceed $30,000,000 for the fiscal year ending June 30, 1974, and for each of the fiscal years 1975 through 1977.
+Subsec. (a)(2). Pub. L. 94–370, § 14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980 for provisions authorizing appropriations of sums not to exceed $30,000,000 for the fiscal year ending June 30, 1974, and for each of the fiscal years 1975 through 1977.
 
-Subsec. (a)(3). Pub. L. 94–370, § 14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the 8 fiscal years occurring during the period beginning Oct. 1, 1976, and ending Sept. 30, 1984, as may be necessary for grants under section 1456a(b) of this title for provisions authorizing appropriations of sums not to exceed $6,000,000 for the fiscal year ending June 30, 1974, as may be necessary for grants under section 1461 of this title, to remain available until expended.
+Subsec. (a)(3). Pub. L. 94–370, § 14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the 8 fiscal years occurring during the period beginning Oct. 1, 1976, and ending Sept. 30, 1984, as may be necessary for grants under section 1456a(b) of this title for provisions authorizing appropriations of sums not to exceed $6,000,000 for the fiscal year ending June 30, 1974, as may be necessary for grants under section 1461 of this title, to remain available until expended.
 
-Subsec. (a)(4) to (8). Pub. L. 94–370, § 14, added pars. (4) to (8).
+Subsec. (a)(4) to (8). Pub. L. 94–370, § 14, added pars. (4) to (8).
 
-Subsec. (b). Pub. L. 94–370, § 14, substituted provisions authorizing appropriations until Oct. 1, 1986 to the Fund of sums not to exceed $800,000,000 for the purpose of carrying out provisions of section 1456a of this title, other than subsec. (b) of such section, of which sums not to exceed $50,000,000 shall be for purposes of subsecs. (c) and (d)(4) of such section for provisions authorizing appropriations of sums not to exceed $3,000,000, for fiscal year 1973 and for each of the four succeeding fiscal years, as may be necessary for administrative expenses for administration of this chapter.
+Subsec. (b). Pub. L. 94–370, § 14, substituted provisions authorizing appropriations until Oct. 1, 1986 to the Fund of sums not to exceed $800,000,000 for the purpose of carrying out provisions of section 1456a of this title, other than subsec. (b) of such section, of which sums not to exceed $50,000,000 shall be for purposes of subsecs. (c) and (d)(4) of such section for provisions authorizing appropriations of sums not to exceed $3,000,000, for fiscal year 1973 and for each of the four succeeding fiscal years, as may be necessary for administrative expenses for administration of this chapter.
 
-Subsec. (c). Pub. L. 94–370, § 14, added subsec. (c).
+Subsec. (c). Pub. L. 94–370, § 14, added subsec. (c).
 
-1975—Subsec. (a)(1). Pub. L. 93–612, § 1(3)(A), increased from $9,000,000 to $12,000,000 the sums authorized to be appropriated for the 3 fiscal years following the fiscal year 1974.
+1975—Subsec. (a)(1). Pub. L. 93–612, § 1(3)(A), increased from $9,000,000 to $12,000,000 the sums authorized to be appropriated for the 3 fiscal years following the fiscal year 1974.
 
-Subsec. (a)(3). Pub. L. 93–612, § 1(3)(B), inserted “and for each of the three succeeding fiscal years,” after “fiscal year ending June 30, 1974,”.
+Subsec. (a)(3). Pub. L. 93–612, § 1(3)(B), inserted “and for each of the three succeeding fiscal years,” after “fiscal year ending June 30, 1974,”.
 
-## § 1465. Appeals to the Secretary
+## § 1465. Appeals to the Secretary
 
 **(a) Notice**
 
@@ -1979,7 +1979,7 @@ Not later than 60 days after the date of publication of a Federal Register notic
 
 Not later than 15 days after the date of publication of a Federal Register notice explaining why a decision cannot be issued within the 60-day period, the Secretary shall issue a decision.
 
-(Pub. L. 89–454, title III, § 319, as added Pub. L. 104–150, § 8, June 3, 1996, 110 Stat. 1382; amended Pub. L. 109–58, title III, § 381, Aug. 8, 2005, 119 Stat. 737.)
+(Pub. L. 89–454, title III, § 319, as added Pub. L. 104–150, § 8, June 3, 1996, 110 Stat. 1382; amended Pub. L. 109–58, title III, § 381, Aug. 8, 2005, 119 Stat. 737.)
 
 **Editorial Notes**
 
@@ -1991,23 +1991,23 @@ This chapter, referred to in subsec. (b)(3)(A)(ii)(I), was in the original “th
 
 2005—Pub. L. 109–58 amended section catchline and text generally, substituting provisions relating to notice, closure of record, and deadline for decision for provisions relating to notice, deadline for decision, and application of section.
 
-## § 1466. Appeals relating to offshore mineral development
+## § 1466. Appeals relating to offshore mineral development
 
 For any Federal administrative agency proceeding that is an appeal or review under section 319 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1465) related to any Federal authorization for the permitting, approval, or other authorization of an energy project, the lead Federal permitting agency for the project shall, with the cooperation of Federal and State administrative agencies, maintain a consolidated record of all decisions made or actions taken by the lead agency or by another Federal or State administrative agency or officer. Such record shall be the initial record for appeals or reviews under that Act, provided that the record may be supplemented as expressly provided pursuant to section 319 of that Act.
 
-(Pub. L. 109–58, title III, § 382, Aug. 8, 2005, 119 Stat. 738.)
+(Pub. L. 109–58, title III, § 382, Aug. 8, 2005, 119 Stat. 738.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Coastal Zone Management Act of 1972, referred to in text, is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§ 1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
+The Coastal Zone Management Act of 1972, referred to in text, is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§ 1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Energy Policy Act of 2005, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
 
-## § 1467. Establishment of the Digital Coast
+## § 1467. Establishment of the Digital Coast
 
 **(a) Establishment**
 
@@ -2121,7 +2121,7 @@ The Secretary may establish publically available tools that track ocean and Grea
 
 There is authorized to be appropriated to the Secretary $4,000,000 for each fiscal year 2021 through 2025 to carry out the program.
 
-(Pub. L. 116–223, § 4, Dec. 18, 2020, 134 Stat. 1068.)
+(Pub. L. 116–223, § 4, Dec. 18, 2020, 134 Stat. 1068.)
 
 **Editorial Notes**
 
@@ -2129,15 +2129,15 @@ There is authorized to be appropriated to the Secretary $4,000,000 for each fisc
 
 This Act, referred to in subsec. (b)(4), is Pub. L. 116–223, Dec. 18, 2020, 134 Stat. 1067, known as the Digital Coast Act. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 1451 of this title and Tables.
 
-The Ocean and Coastal Mapping Integration Act, referred to in subsecs. (c)(2) and (d)(3), is subtitle B of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1421, which is classified generally to chapter 48 (§ 3501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 33 and Tables.
+The Ocean and Coastal Mapping Integration Act, referred to in subsecs. (c)(2) and (d)(3), is subtitle B of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1421, which is classified generally to chapter 48 (§ 3501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 33 and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (c)(2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
-The Integrated Coastal and Ocean Observation System Act of 2009, referred to in subsec. (c)(2), is subtitle C of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1427, which is classified generally to chapter 49 (§ 3601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 33 and Tables.
+The Integrated Coastal and Ocean Observation System Act of 2009, referred to in subsec. (c)(2), is subtitle C of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1427, which is classified generally to chapter 49 (§ 3601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 33 and Tables.
 
-The Hydrographic Services Improvement Act of 1998, referred to in subsec. (c)(2), is title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to subchapter IV (§ 892 et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 851 of Title 33 and Tables.
+The Hydrographic Services Improvement Act of 1998, referred to in subsec. (c)(2), is title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to subchapter IV (§ 892 et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 851 of Title 33 and Tables.
 
-Executive Order 12906, as amended by Executive Order 13286, referred to in subsec. (c)(4), is Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, as amended by Ex. Ord. No. 13286, § 25, Feb. 28, 2003, 68 F.R. 10624, which is set out as a note under section 1457 of Title 43, Public Lands.
+Executive Order 12906, as amended by Executive Order 13286, referred to in subsec. (c)(4), is Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, as amended by Ex. Ord. No. 13286, § 25, Feb. 28, 2003, 68 F.R. 10624, which is set out as a note under section 1457 of Title 43, Public Lands.
 
 **Codification**
 
@@ -2147,7 +2147,7 @@ Section was enacted as part of the Digital Coast Act, and not as part of the Coa
 
 **Findings**
 
-Pub. L. 116–223, § 2, Dec. 18, 2020, 134 Stat. 1067, provided that:
+Pub. L. 116–223, § 2, Dec. 18, 2020, 134 Stat. 1067, provided that:
 
 > “Congress makes the following findings:
 
@@ -2181,7 +2181,7 @@ Pub. L. 116–223, § 2, Dec. 18, 2020, 134 Stat. 1067, provided that:
 
 **Definitions**
 
-Pub. L. 116–223, § 3, Dec. 18, 2020, 134 Stat. 1068, provided that:
+Pub. L. 116–223, § 3, Dec. 18, 2020, 134 Stat. 1068, provided that:
 
 > “In this Act [see Short Title of 2020 Amendment note set out under section 1451 of this title]:
 
@@ -2195,7 +2195,7 @@ Pub. L. 116–223, § 3, Dec. 18, 2020, 134 Stat. 1068, provided that:
 
 > **“(5) Secretary.—** The term ‘Secretary’ means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.”
 
-## § 1468. Regional Ocean Partnerships
+## § 1468. Regional Ocean Partnerships
 
 **(a) Definitions** In this section:
 
@@ -2205,9 +2205,9 @@ The term “Administrator” means the Administrator of the National Oceanic and
 
 **(2) Coastal State**
 
-The term “coastal State” has the meaning given the term “Coastal state” 1
+The term “coastal State” has the meaning given the term “Coastal state” 1
 
-<sup>1</sup>  So in original. Probably should be “ ‘coastal state’ ” as it appears in section 1453 of this title.
+<sup>1</sup> So in original. Probably should be “ ‘coastal state’ ” as it appears in section 1453 of this title.
 
 in section 1453 of this title.
 
@@ -2261,11 +2261,11 @@ A partnership established under this section for the purposes described in subse
 
 **(c) Governing bodies of Regional Ocean Partnerships** A Regional Ocean Partnership shall have a governing body that—
 
-**(1)** shall be comprised, at a minimum, of voting members from each coastal state 2
+**(1)** shall be comprised, at a minimum, of voting members from each coastal state 2
 
-<sup>2</sup>  So in original. Probably should be “coastal State”.
+<sup>2</sup> So in original. Probably should be “coastal State”.
 
-participating in the Regional Ocean Partnership, designated by the Governor of the coastal state; 2 and
+participating in the Regional Ocean Partnership, designated by the Governor of the coastal state; 2 and
 
 **(2)** may include such other members as the partnership considers appropriate.
 
@@ -2383,7 +2383,7 @@ Amounts made available under this subsection shall be divided evenly among the R
 
 There is authorized to be appropriated to the Administrator $1,000,000 for each of fiscal years 2023 through 2027 to be distributed to Indian Tribes for purposes of participation in or engagement with the Regional Ocean Partnerships.
 
-(Pub. L. 117–263, div. J, title CII, § 10202, Dec. 23, 2022, 136 Stat. 3962.)
+(Pub. L. 117–263, div. J, title CII, § 10202, Dec. 23, 2022, 136 Stat. 3962.)
 
 **Editorial Notes**
 
@@ -2401,7 +2401,7 @@ Section was enacted as part of the James M. Inhofe National Defense Authorizatio
 
 **Findings; Purposes**
 
-Pub. L. 117–263, div. J, title CII, § 10201, Dec. 23, 2022, 136 Stat. 3961, provided that:
+Pub. L. 117–263, div. J, title CII, § 10201, Dec. 23, 2022, 136 Stat. 3961, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 

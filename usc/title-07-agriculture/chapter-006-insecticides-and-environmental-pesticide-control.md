@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—INSECTICIDES
 
-### §§ 121 to 134. Repealed. June 25, 1947, ch. 125, § 16, 61 Stat. 172
+### §§ 121 to 134. Repealed. June 25, 1947, ch. 125, § 16, 61 Stat. 172
 
 Sections, act Apr. 26, 1910, ch. 191, 36 Stat. 335, formerly known as “The Insecticides Act”, are covered by subchapter II of this chapter.
 
@@ -25,17 +25,17 @@ Sections, act Apr. 26, 1910, ch. 191, 36 Stat. 335, formerly known as “The Ins
 
 **Effective Date of Repeal; Savings Provision**
 
-Act June 25, 1947, ch. 125, § 16, 61 Stat. 172, repealed this subchapter effective one year after June 25, 1947, and further provided that this subchapter should be deemed to remain in full force for the purpose of sustaining any proper suit, action, or other proceeding with respect to any violations, liabilities incurred, or appeals taken prior to such date of repeal or to sales, shipments, or deliveries of insecticides and fungicides exempted by the Secretary.
+Act June 25, 1947, ch. 125, § 16, 61 Stat. 172, repealed this subchapter effective one year after June 25, 1947, and further provided that this subchapter should be deemed to remain in full force for the purpose of sustaining any proper suit, action, or other proceeding with respect to any violations, liabilities incurred, or appeals taken prior to such date of repeal or to sales, shipments, or deliveries of insecticides and fungicides exempted by the Secretary.
 
 ## SUBCHAPTER II—ENVIRONMENTAL PESTICIDE CONTROL
 
-### §§ 135 to 135k. Omitted
+### §§ 135 to 135k. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 135 to 135k, acts June 25, 1947, ch. 125, §§ 2–13, 61 Stat. 163–172; Aug. 7, 1959, Pub. L. 86–139, § 2, 73 Stat. 286; May 12, 1964, Pub. L. 88–305, §§ 1–6, 78 Stat. 190–193; Oct. 15, 1970, Pub. L. 91–452, title II, § 204, 84 Stat. 928; Dec. 30, 1970, Pub. L. 91–601, § 6(b), formerly § 7(b), 84 Stat. 1673, renumbered, Aug. 13, 1981, Pub. L. 97–35, title XII, § 1205(c), 95 Stat. 716, which related to economic poison control, were superseded by the amendments made to act June 25, 1947, by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 975. See section 4 of Pub. L. 92–516, set out as a note under section 136 of this title. The provisions of act June 25, 1947, as amended by Pub. L. 92–516, are set out in section 136 et seq. of this title.
+Sections 135 to 135k, acts June 25, 1947, ch. 125, §§ 2–13, 61 Stat. 163–172; Aug. 7, 1959, Pub. L. 86–139, § 2, 73 Stat. 286; May 12, 1964, Pub. L. 88–305, §§ 1–6, 78 Stat. 190–193; Oct. 15, 1970, Pub. L. 91–452, title II, § 204, 84 Stat. 928; Dec. 30, 1970, Pub. L. 91–601, § 6(b), formerly § 7(b), 84 Stat. 1673, renumbered, Aug. 13, 1981, Pub. L. 97–35, title XII, § 1205(c), 95 Stat. 716, which related to economic poison control, were superseded by the amendments made to act June 25, 1947, by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 975. See section 4 of Pub. L. 92–516, set out as a note under section 136 of this title. The provisions of act June 25, 1947, as amended by Pub. L. 92–516, are set out in section 136 et seq. of this title.
 
 Section 135 provided definitions for the purposes of this subchapter.
 
@@ -61,7 +61,7 @@ Section 135j related to authorization of appropriations and expenditure of funds
 
 Section 135k related to cooperation between departments and agencies.
 
-### § 136. Definitions
+### § 136. Definitions
 
 For purposes of this subchapter—
 
@@ -227,11 +227,11 @@ The term “pest” means (1) any insect, rodent, nematode, fungus, weed, or (2)
 
 **(u) Pesticide**
 
-The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, and (3) any nitrogen stabilizer, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w) 1
+The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, and (3) any nitrogen stabilizer, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 21, that has been determined by the Secretary of Health and Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x) 1 of title 21 bearing or containing a new animal drug. The term “pesticide” does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term “critical device” includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term “semi-critical device” includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.
+of title 21, that has been determined by the Secretary of Health and Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x) 1 of title 21 bearing or containing a new animal drug. The term “pesticide” does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term “critical device” includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term “semi-critical device” includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.
 
 **(v) Plant regulator**
 
@@ -295,21 +295,21 @@ The term “to distribute or sell” means to distribute, sell, offer for sale, 
 
 **(2)** ammonium thiosulfate; or
 
-**(3) any substance or mixture of substances.—**  2
+**(3) any substance or mixture of substances.—** 2
 
-<sup>2</sup>  So in original. Period probably should not appear.
+<sup>2</sup> So in original. Period probably should not appear.
 
 **(A)** that was not registered pursuant to section 136a of this title prior to January 1, 1992; and
 
-**(B)** that was in commercial agronomic use prior to January 1, 1992, with respect to which after January 1, 1992, the distributor or seller of the substance or mixture has made no specific claim of prevention or hindering of the process of nitrification, denitrification, ammonia volatilization 3
+**(B)** that was in commercial agronomic use prior to January 1, 1992, with respect to which after January 1, 1992, the distributor or seller of the substance or mixture has made no specific claim of prevention or hindering of the process of nitrification, denitrification, ammonia volatilization 3
 
-<sup>3</sup>  So in original. Probably should be followed by “, or”.
+<sup>3</sup> So in original. Probably should be followed by “, or”.
 
 urease production regardless of the actual use or purpose for, or future use or purpose for, the substance or mixture.
 
 Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixture shall not be deemed a specific claim within the meaning of this subsection.
 
-**(jj) 4 [footnote: 4 So in original. No subsec. (ii) was enacted.] Maintenance applicator**
+**(jj) 4 [footnote: 4 So in original. No subsec. (ii) was enacted.] Maintenance applicator**
 
 The term “maintenance applicator” means any individual who, in the principal course of such individual’s employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumer products pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term “maintenance applicator” does not include private applicators as defined in subsection (e)(2); individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
 
@@ -365,13 +365,13 @@ The term “public health pesticide” means any minor use pesticide product reg
 
 The term “vector” means any organism capable of transmitting the causative agent of human disease or capable of producing human discomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
 
-(June 25, 1947, ch. 125, § 2, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 975; amended Pub. L. 93–205, § 13(f), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–140, § 9, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, § 1, Sept. 30, 1978, 92 Stat. 819; Pub. L. 100–532, title I, § 101, title VI, § 601(a), title VIII, § 801(a), Oct. 25, 1988, 102 Stat. 2655, 2677, 2679; Pub. L. 102–237, title X, § 1006(a)(1), (2), (b)(3)(A), (B), Dec. 13, 1991, 105 Stat. 1894, 1895; Pub. L. 104–170, title I, §§ 105(a), 120, title II, §§ 210(a), 221, 230, title III, § 304, Aug. 3, 1996, 110 Stat. 1490, 1492, 1493, 1502, 1508, 1512.)
+(June 25, 1947, ch. 125, § 2, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 975; amended Pub. L. 93–205, § 13(f), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–140, § 9, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, § 1, Sept. 30, 1978, 92 Stat. 819; Pub. L. 100–532, title I, § 101, title VI, § 601(a), title VIII, § 801(a), Oct. 25, 1988, 102 Stat. 2655, 2677, 2679; Pub. L. 102–237, title X, § 1006(a)(1), (2), (b)(3)(A), (B), Dec. 13, 1991, 105 Stat. 1894, 1895; Pub. L. 104–170, title I, §§ 105(a), 120, title II, §§ 210(a), 221, 230, title III, § 304, Aug. 3, 1996, 110 Stat. 1490, 1492, 1493, 1502, 1508, 1512.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (*l*), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (*l*), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 Section 321 of title 21, referred to in subsec. (u), was subsequently amended, and subsecs. (w) and (x) of section 321 no longer define the terms “new animal drug” and “animal feed”, respectively. However, such terms are defined elsewhere in that section.
 
@@ -383,61 +383,61 @@ A prior section 2 of act June 25, 1947, was classified to section 135 of this ti
 
 **Amendments**
 
-1996—Subsec. (a)(1). Pub. L. 104–170, § 105(a)(1)(A), substituted “defoliant, desiccant, or nitrogen stabilizer” for “defoliant, or desiccant”.
+1996—Subsec. (a)(1). Pub. L. 104–170, § 105(a)(1)(A), substituted “defoliant, desiccant, or nitrogen stabilizer” for “defoliant, or desiccant”.
 
-Subsec. (a)(5). Pub. L. 104–170, § 105(a)(1)(B)–(D), added par. (5).
+Subsec. (a)(5). Pub. L. 104–170, § 105(a)(1)(B)–(D), added par. (5).
 
-Subsec. (u). Pub. L. 104–170, §§ 105(a)(2), 221(1), struck out “and” before “(2)”, inserted “and (3) any nitrogen stabilizer,” after “desiccant,”, and inserted at end “The term ‘pesticide’ does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term ‘critical device’ includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term ‘semi-critical device’ includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.”
+Subsec. (u). Pub. L. 104–170, §§ 105(a)(2), 221(1), struck out “and” before “(2)”, inserted “and (3) any nitrogen stabilizer,” after “desiccant,”, and inserted at end “The term ‘pesticide’ does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term ‘critical device’ includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term ‘semi-critical device’ includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.”
 
-Subsec. (bb). Pub. L. 104–170, § 304, which directed amendment of section 2(bb) by inserting “(1)” after “means” and adding cl. (2), without specifying the Act being amended, was executed to this subsection, which is section 2(bb) of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress.
+Subsec. (bb). Pub. L. 104–170, § 304, which directed amendment of section 2(bb) by inserting “(1)” after “means” and adding cl. (2), without specifying the Act being amended, was executed to this subsection, which is section 2(bb) of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress.
 
-Pub. L. 104–170, § 230(a), inserted at end “The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.”
+Pub. L. 104–170, § 230(a), inserted at end “The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.”
 
-Subsec. (hh). Pub. L. 104–170, § 105(a)(3), added subsec. (hh).
+Subsec. (hh). Pub. L. 104–170, § 105(a)(3), added subsec. (hh).
 
-Subsecs. (jj), (kk). Pub. L. 104–170, § 120, added subsecs. (jj) and (kk).
+Subsecs. (jj), (kk). Pub. L. 104–170, § 120, added subsecs. (jj) and (kk).
 
-Subsec. (*ll*). Pub. L. 104–170, § 210(a), added subsec. (*ll*).
+Subsec. (*ll*). Pub. L. 104–170, § 210(a), added subsec. (*ll*).
 
-Subsec. (mm). Pub. L. 104–170, § 221(2), added subsec. (mm).
+Subsec. (mm). Pub. L. 104–170, § 221(2), added subsec. (mm).
 
-Subsecs. (nn), (*oo*). Pub. L. 104–170, § 230(b), added subsecs. (nn) and (*oo*).
+Subsecs. (nn), (*oo*). Pub. L. 104–170, § 230(b), added subsecs. (nn) and (*oo*).
 
-1991—Subsec. (e)(1). Pub. L. 102–237, § 1006(a)(1), substituted “section 136i” for “section 136b” and “uses dilutions” for “use dilutions” and made technical amendment to reference to subsection (ee) of this section involving corresponding provision of original act.
+1991—Subsec. (e)(1). Pub. L. 102–237, § 1006(a)(1), substituted “section 136i” for “section 136b” and “uses dilutions” for “use dilutions” and made technical amendment to reference to subsection (ee) of this section involving corresponding provision of original act.
 
-Subsec. (e)(2). Pub. L. 102–237, § 1006(b)(3)(A), substituted “the applicator or the applicator’s” for “him or his”.
+Subsec. (e)(2). Pub. L. 102–237, § 1006(b)(3)(A), substituted “the applicator or the applicator’s” for “him or his”.
 
-Subsec. (e)(3). Pub. L. 102–237, § 1006(b)(3)(B), substituted “the applicator” for “he”.
+Subsec. (e)(3). Pub. L. 102–237, § 1006(b)(3)(B), substituted “the applicator” for “he”.
 
-Subsec. (q)(2)(A)(i). Pub. L. 102–237, § 1006(a)(2), substituted “size or form” for “size of form”.
+Subsec. (q)(2)(A)(i). Pub. L. 102–237, § 1006(a)(2), substituted “size or form” for “size of form”.
 
-1988—Subsec. (c). Pub. L. 100–532, § 801(a)(1), substituted “if—” for “if:”.
+1988—Subsec. (c). Pub. L. 100–532, § 801(a)(1), substituted “if—” for “if:”.
 
-Subsec. (p)(2)(B). Pub. L. 100–532, § 801(a)(2), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsec. (p)(2)(B). Pub. L. 100–532, § 801(a)(2), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-Subsec. (q)(2)(A). Pub. L. 100–532, § 801(a)(3), substituted “if—” for “if:”.
+Subsec. (q)(2)(A). Pub. L. 100–532, § 801(a)(3), substituted “if—” for “if:”.
 
-Subsec. (q)(2)(C)(iii). Pub. L. 100–532, § 801(a)(4), substituted “, except that” for “: *Provided*, That”.
+Subsec. (q)(2)(C)(iii). Pub. L. 100–532, § 801(a)(4), substituted “, except that” for “: *Provided*, That”.
 
-Subsec. (u). Pub. L. 100–532, § 801(a)(5), substituted “, except that” for “: *Provided*, That”, struck out “(1)(a)” after “include any article” and “or (b)” after “section 321(w) of title 21,”, and substituted “Health and Human Services” for “Health, Education, and Welfare”, “or that is” for “or (2) that is”, and “a new animal drug” for “an article covered by clause (1) of this proviso”.
+Subsec. (u). Pub. L. 100–532, § 801(a)(5), substituted “, except that” for “: *Provided*, That”, struck out “(1)(a)” after “include any article” and “or (b)” after “section 321(w) of title 21,”, and substituted “Health and Human Services” for “Health, Education, and Welfare”, “or that is” for “or (2) that is”, and “a new animal drug” for “an article covered by clause (1) of this proviso”.
 
-Subsec. (ee). Pub. L. 100–532, §§ 601(a)(1), 801(a)(6), substituted “, except that” for “: *Provided*, That”, inserted “unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency” and “unless the labeling specifically states that the product may be applied only by the methods specified on the labeling”, substituted “labeling, (4) mixing” for “labeling, or (4) mixing”, “, (5)” for “: *Provided further*, That the term also shall not include”, “or (6) any use” for “or any use”, and “. After” for “: *And provided further*, That after”.
+Subsec. (ee). Pub. L. 100–532, §§ 601(a)(1), 801(a)(6), substituted “, except that” for “: *Provided*, That”, inserted “unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency” and “unless the labeling specifically states that the product may be applied only by the methods specified on the labeling”, substituted “labeling, (4) mixing” for “labeling, or (4) mixing”, “, (5)” for “: *Provided further*, That the term also shall not include”, “or (6) any use” for “or any use”, and “. After” for “: *And provided further*, That after”.
 
-Subsec. (ff). Pub. L. 100–532, § 101, added subsec. (ff).
+Subsec. (ff). Pub. L. 100–532, § 101, added subsec. (ff).
 
-Subsec. (gg). Pub. L. 100–532, § 601(a)(2), added subsec. (gg).
+Subsec. (gg). Pub. L. 100–532, § 601(a)(2), added subsec. (gg).
 
-1978—Subsec. (e)(1). Pub. L. 95–396, § 1(1), inserted provision deeming an applicator not a seller or distributor of pesticides when providing a service of controlling pests.
+1978—Subsec. (e)(1). Pub. L. 95–396, § 1(1), inserted provision deeming an applicator not a seller or distributor of pesticides when providing a service of controlling pests.
 
-Subsec. (e)(3). Pub. L. 95–396, § 1(2), substituted “an applicator” for “a certified applicator”.
+Subsec. (e)(3). Pub. L. 95–396, § 1(2), substituted “an applicator” for “a certified applicator”.
 
-Subsec. (q)(1)(H). Pub. L. 95–396, § 1(3), added subpar. (H).
+Subsec. (q)(1)(H). Pub. L. 95–396, § 1(3), added subpar. (H).
 
-Subsec. (w). Pub. L. 95–396, § 1(4), (5), amended definition of “producer” and “produce” to include reference to active ingredient used in producing a pesticide and inserted provision that an individual did not become a producer when there was dilution of a pesticide for personal use according to directions on registered labels.
+Subsec. (w). Pub. L. 95–396, § 1(4), (5), amended definition of “producer” and “produce” to include reference to active ingredient used in producing a pesticide and inserted provision that an individual did not become a producer when there was dilution of a pesticide for personal use according to directions on registered labels.
 
-Subsec. (dd). Pub. L. 95–396, § 1(6), inserted “or active ingredient used in producing a pesticide”.
+Subsec. (dd). Pub. L. 95–396, § 1(6), inserted “or active ingredient used in producing a pesticide”.
 
-Subsec. (ee). Pub. L. 95–396, § 1(7), added subsec. (ee).
+Subsec. (ee). Pub. L. 95–396, § 1(7), added subsec. (ee).
 
 1975—Subsec. (u). Pub. L. 94–140 inserted proviso which excluded from term “pesticide” any article designated as “new animal drug” and any article denominated as animal feed.
 
@@ -447,7 +447,7 @@ Subsec. (ee). Pub. L. 95–396, § 1(7), added subsec. (ee).
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–532, title IX, § 901, Oct. 25, 1988, 102 Stat. 2688, provided that: “Except as otherwise provided in this Act, the amendments made by this Act [see Short Title of 1988 Amendment note below] shall take effect on the expiration of 60 days after the date of enactment of this Act [Oct. 25, 1988].”
+Pub. L. 100–532, title IX, § 901, Oct. 25, 1988, 102 Stat. 2688, provided that: “Except as otherwise provided in this Act, the amendments made by this Act [see Short Title of 1988 Amendment note below] shall take effect on the expiration of 60 days after the date of enactment of this Act [Oct. 25, 1988].”
 
 **Effective Date of 1973 Amendment**
 
@@ -455,7 +455,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 **Effective Date**
 
-Pub. L. 92–516, § 4, Oct. 21, 1972, 86 Stat. 998, as amended by Pub. L. 94–140, § 4, Nov. 28, 1975, 89 Stat. 752; Pub. L. 95–396, § 28, Sept. 30, 1978, 92 Stat. 842, provided that:
+Pub. L. 92–516, § 4, Oct. 21, 1972, 86 Stat. 998, as amended by Pub. L. 94–140, § 4, Nov. 28, 1975, 89 Stat. 752; Pub. L. 95–396, § 28, Sept. 30, 1978, 92 Stat. 842, provided that:
 
 > **“(a)** Except as otherwise provided in the Federal Insecticide, Fungicide, and Rodenticide Act [this subchapter], as amended by this Act and as otherwise provided by this section, the amendments made by this Act [see Short Title note set out below] shall take effect at the close of the date of the enactment of this Act [Oct. 21, 1972], provided if regulations are necessary for the implementation of any provision that becomes effective on the date of enactment, such regulations shall be promulgated and shall become effective within 90 days from the date of enactment of this Act.
 
@@ -483,43 +483,43 @@ Pub. L. 92–516, § 4, Oct. 21, 1972, 86 Stat. 998, as amended by Pub. L. 94�
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. HH, title VI, § 701, Dec. 29, 2022, 136 Stat. 5996, provided that: “This title [amending sections 136a, 136a–1, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 136a, 136a–1, and 136w of this title] may be cited as the ‘Pesticide Registration Improvement Act of 2022’.”
+Pub. L. 117–328, div. HH, title VI, § 701, Dec. 29, 2022, 136 Stat. 5996, provided that: “This title [amending sections 136a, 136a–1, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 136a, 136a–1, and 136w of this title] may be cited as the ‘Pesticide Registration Improvement Act of 2022’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–8, § 1(a), Mar. 8, 2019, 133 Stat. 484, provided that: “This Act [amending sections 136a–1, 136c, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under section 136w of this title] may be cited as the ‘Pesticide Registration Improvement Extension Act of 2018’.”
+Pub. L. 116–8, § 1(a), Mar. 8, 2019, 133 Stat. 484, provided that: “This Act [amending sections 136a–1, 136c, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under section 136w of this title] may be cited as the ‘Pesticide Registration Improvement Extension Act of 2018’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–177, § 1, Sept. 28, 2012, 126 Stat. 1327, provided that: “This Act [amending sections 136a–1 and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136a–1 of this title] may be cited as the ‘Pesticide Registration Improvement Extension Act of 2012’.”
+Pub. L. 112–177, § 1, Sept. 28, 2012, 126 Stat. 1327, provided that: “This Act [amending sections 136a–1 and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136a–1 of this title] may be cited as the ‘Pesticide Registration Improvement Extension Act of 2012’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–94, § 1, Oct. 9, 2007, 121 Stat. 1000, provided that: “This Act [amending sections 136a, 136a–1, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under section 136a of this title] may be cited as the ‘Pesticide Registration Improvement Renewal Act’.”
+Pub. L. 110–94, § 1, Oct. 9, 2007, 121 Stat. 1000, provided that: “This Act [amending sections 136a, 136a–1, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under section 136a of this title] may be cited as the ‘Pesticide Registration Improvement Renewal Act’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–199, div. G, title V, § 501(a), Jan. 23, 2004, 118 Stat. 419, provided that: “This section [enacting section 136w–8 of this title, amending sections 136a, 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under section 136a of this title and section 346a of Title 21, Food and Drugs] may be cited as the ‘Pesticide Registration Improvement Act of 2003’.”
+Pub. L. 108–199, div. G, title V, § 501(a), Jan. 23, 2004, 118 Stat. 419, provided that: “This section [enacting section 136w–8 of this title, amending sections 136a, 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under section 136a of this title and section 346a of Title 21, Food and Drugs] may be cited as the ‘Pesticide Registration Improvement Act of 2003’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–170, § 1, Aug. 3, 1996, 110 Stat. 1489, provided that: “This Act [enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21] may be cited as the ‘Food Quality Protection Act of 1996’.”
+Pub. L. 104–170, § 1, Aug. 3, 1996, 110 Stat. 1489, provided that: “This Act [enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21] may be cited as the ‘Food Quality Protection Act of 1996’.”
 
 [Another Food Quality Protection Act of 1996 was enacted by Pub. L. 104–170, title IV, 110 Stat. 1513, see section 401(a) of Pub. L. 104–170, set out as a note under section 301 of Title 21, Food and Drugs.]
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–532, § 1(a), Oct. 25, 1988, 102 Stat. 2654, provided that: “This Act [enacting section 136a–1 of this title, amending this section and sections 136a to 136d, 136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988’.”
+Pub. L. 100–532, § 1(a), Oct. 25, 1988, 102 Stat. 2654, provided that: “This Act [enacting section 136a–1 of this title, amending this section and sections 136a to 136d, 136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–396, § 29, Sept. 30, 1978, 92 Stat. 842, provided that: “This Act [enacting sections 136w–1 to 136w–4 of this title, amending this section and sections 136a to 136f, 136h, 136j, 136*l*, 136*o*, 136q, 136r, 136u to 136w, 136x, and 136y of this title, enacting provisions set out as notes under sections 136a, 136*o*, and 136w–4 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Federal Pesticide Act of 1978’.”
+Pub. L. 95–396, § 29, Sept. 30, 1978, 92 Stat. 842, provided that: “This Act [enacting sections 136w–1 to 136w–4 of this title, amending this section and sections 136a to 136f, 136h, 136j, 136*l*, 136*o*, 136q, 136r, 136u to 136w, 136x, and 136y of this title, enacting provisions set out as notes under sections 136a, 136*o*, and 136w–4 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Federal Pesticide Act of 1978’.”
 
 **Short Title**
 
-Pub. L. 92–516, § 1, Oct. 21, 1972, 86 Stat. 973, provided: “That this Act [amending this subchapter generally, enacting notes set out under this section, and amending sections 1261 and 1471 of Title 15, Commerce and Trade, and sections 321 and 346a of Title 21, Foods and Drugs] may be cited as the ‘Federal Environmental Pesticide Control Act of 1972’.”
+Pub. L. 92–516, § 1, Oct. 21, 1972, 86 Stat. 973, provided: “That this Act [amending this subchapter generally, enacting notes set out under this section, and amending sections 1261 and 1471 of Title 15, Commerce and Trade, and sections 321 and 346a of Title 21, Foods and Drugs] may be cited as the ‘Federal Environmental Pesticide Control Act of 1972’.”
 
-Act June 25, 1947, ch. 125, § 1(a), as added by Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 973, provided that: “This Act [enacting this subchapter] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act’.”
+Act June 25, 1947, ch. 125, § 1(a), as added by Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 973, provided that: “This Act [enacting this subchapter] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act’.”
 
 **Executive Documents**
 
@@ -531,7 +531,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
-### § 136a. Registration of pesticides
+### § 136a. Registration of pesticides
 
 **(a) Requirement of registration**
 
@@ -1211,13 +1211,13 @@ Beginning on August 3, 1996, and ending on the date that the goals under paragra
 
 **(iii)** recommendations to improve the activities of the Agency pertaining to antimicrobial registrations.
 
-(June 25, 1947, ch. 125, § 3, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, § 12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§ 2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§ 102(b), 103, title VI, § 601(b)(1), title VIII, § 801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, § 1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, § 1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§ 105(b), 106(b), title II, §§ 210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, § 501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§ 2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, § 10115, Dec. 20, 2018, 132 Stat. 4914; Pub. L. 117–286, § 4(a)(21), Dec. 27, 2022, 136 Stat. 4307; Pub. L. 117–328, div. HH, title VI, § 702, Dec. 29, 2022, 136 Stat. 5996.)
+(June 25, 1947, ch. 125, § 3, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, § 12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§ 2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§ 102(b), 103, title VI, § 601(b)(1), title VIII, § 801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, § 1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, § 1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§ 105(b), 106(b), title II, §§ 210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, § 501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§ 2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, § 10115, Dec. 20, 2018, 132 Stat. 4914; Pub. L. 117–286, § 4(a)(21), Dec. 27, 2022, 136 Stat. 4307; Pub. L. 117–328, div. HH, title VI, § 702, Dec. 29, 2022, 136 Stat. 5996.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (c)(11)(C)(i)(I), (II), (v), (vi), (G)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (c)(11)(C)(i)(I), (II), (v), (vi), (G)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 **Prior Provisions**
 
@@ -1231,117 +1231,117 @@ Subsec. (f)(5). Pub. L. 117–328 added par. (5).
 
 2018—Subsec. (c)(11). Pub. L. 115–334 added par. (11).
 
-2007—Subsec. (c)(3)(B)(ii)(I). Pub. L. 110–94, § 2(1), substituted “review the application in accordance with section 136w–8(f)(4)(B) of this title and,” for “within 45 days after receiving the application, notify the registrant whether or not the application is complete and,”.
+2007—Subsec. (c)(3)(B)(ii)(I). Pub. L. 110–94, § 2(1), substituted “review the application in accordance with section 136w–8(f)(4)(B) of this title and,” for “within 45 days after receiving the application, notify the registrant whether or not the application is complete and,”.
 
-Subsec. (c)(3)(B)(ii)(II). Pub. L. 110–94, § 2(2), substituted “not later than the applicable decision review time established pursuant to section 136w–8(f)(4)(B) of this title, or, if no review time is established, not later than” for “within”.
+Subsec. (c)(3)(B)(ii)(II). Pub. L. 110–94, § 2(2), substituted “not later than the applicable decision review time established pursuant to section 136w–8(f)(4)(B) of this title, or, if no review time is established, not later than” for “within”.
 
-Subsec. (g)(1)(A). Pub. L. 110–94, § 3(1), designated first sentence as cl. (i) and inserted heading, designated second sentence as cl. (ii), inserted heading, and substituted “In accordance with this subparagraph, the Administrator” for “The Administrator”, added cls. (iii) and (iv), designated fourth sentence as cl. (v) and inserted heading, and struck out third sentence which read as follows: “The goal of these regulations shall be a review of a pesticide’s registration every 15 years.”
+Subsec. (g)(1)(A). Pub. L. 110–94, § 3(1), designated first sentence as cl. (i) and inserted heading, designated second sentence as cl. (ii), inserted heading, and substituted “In accordance with this subparagraph, the Administrator” for “The Administrator”, added cls. (iii) and (iv), designated fourth sentence as cl. (v) and inserted heading, and struck out third sentence which read as follows: “The goal of these regulations shall be a review of a pesticide’s registration every 15 years.”
 
-Subsec. (g)(1)(B), (C). Pub. L. 110–94, § 3(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (g)(1)(B), (C). Pub. L. 110–94, § 3(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-2004—Subsec. (h)(2)(F). Pub. L. 108–199, § 501(b)(1), substituted “120 days” for “90 to 180 days”.
+2004—Subsec. (h)(2)(F). Pub. L. 108–199, § 501(b)(1), substituted “120 days” for “90 to 180 days”.
 
-Subsec. (h)(3)(D)(vi). Pub. L. 108–199, § 501(b)(2)(A), substituted “120 days” for “240 days”.
+Subsec. (h)(3)(D)(vi). Pub. L. 108–199, § 501(b)(2)(A), substituted “120 days” for “240 days”.
 
-Subsec. (h)(3)(F)(iv). Pub. L. 108–199, § 501(b)(2)(B), added cl. (iv).
+Subsec. (h)(3)(F)(iv). Pub. L. 108–199, § 501(b)(2)(B), added cl. (iv).
 
-1996—Subsec. (c)(1)(F)(ii) to (vi). Pub. L. 104–170, § 210(b), added cls. (ii), (v), and (vi), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and in cl. (iv) substituted “(i), (ii), and (iii)” for “(i) and (ii)”.
+1996—Subsec. (c)(1)(F)(ii) to (vi). Pub. L. 104–170, § 210(b), added cls. (ii), (v), and (vi), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and in cl. (iv) substituted “(i), (ii), and (iii)” for “(i) and (ii)”.
 
-Subsec. (c)(1)(G). Pub. L. 104–170, § 250(1), added subpar. (G).
+Subsec. (c)(1)(G). Pub. L. 104–170, § 250(1), added subpar. (G).
 
-Subsec. (c)(2)(A). Pub. L. 104–170, §§ 210(d)(1), 231, inserted heading, inserted “the public health and agricultural need for such minor use,” after “pattern of use,”, and substituted “potential beneficial or adverse effects on man and the environment” for “potential exposure of man and the environment to the pesticide”.
+Subsec. (c)(2)(A). Pub. L. 104–170, §§ 210(d)(1), 231, inserted heading, inserted “the public health and agricultural need for such minor use,” after “pattern of use,”, and substituted “potential beneficial or adverse effects on man and the environment” for “potential exposure of man and the environment to the pesticide”.
 
-Subsec. (c)(2)(B). Pub. L. 104–170, § 210(d)(2), inserted heading.
+Subsec. (c)(2)(B). Pub. L. 104–170, § 210(d)(2), inserted heading.
 
-Subsec. (c)(2)(B)(vi). Pub. L. 104–170, § 210(c)(1), added cl. (vi).
+Subsec. (c)(2)(B)(vi). Pub. L. 104–170, § 210(c)(1), added cl. (vi).
 
-Subsec. (c)(2)(B)(vii). Pub. L. 104–170, § 210(f)(2), added cl. (vii).
+Subsec. (c)(2)(B)(vii). Pub. L. 104–170, § 210(f)(2), added cl. (vii).
 
-Subsec. (c)(2)(B)(viii). Pub. L. 104–170, § 222, added cl. (viii).
+Subsec. (c)(2)(B)(viii). Pub. L. 104–170, § 222, added cl. (viii).
 
-Subsec. (c)(2)(C). Pub. L. 104–170, § 210(d)(3), inserted heading.
+Subsec. (c)(2)(C). Pub. L. 104–170, § 210(d)(3), inserted heading.
 
-Subsec. (c)(2)(E). Pub. L. 104–170, § 210(d)(4), added subpar. (E).
+Subsec. (c)(2)(E). Pub. L. 104–170, § 210(d)(4), added subpar. (E).
 
-Subsec. (c)(3)(A), (B). Pub. L. 104–170, § 210(e)(1), (2), inserted headings.
+Subsec. (c)(3)(A), (B). Pub. L. 104–170, § 210(e)(1), (2), inserted headings.
 
-Subsec. (c)(3)(C), (D). Pub. L. 104–170, § 210(e)(3), added subpars. (C) and (D).
+Subsec. (c)(3)(C), (D). Pub. L. 104–170, § 210(e)(3), added subpars. (C) and (D).
 
-Subsec. (c)(9). Pub. L. 104–170, § 223, added par. (9).
+Subsec. (c)(9). Pub. L. 104–170, § 223, added par. (9).
 
-Subsec. (c)(10). Pub. L. 104–170, § 250(2), added par. (10).
+Subsec. (c)(10). Pub. L. 104–170, § 250(2), added par. (10).
 
-Subsec. (f)(4). Pub. L. 104–170, § 105(b), added par. (4).
+Subsec. (f)(4). Pub. L. 104–170, § 105(b), added par. (4).
 
-Subsec. (g). Pub. L. 104–170, § 106(b), added subsec. (g).
+Subsec. (g). Pub. L. 104–170, § 106(b), added subsec. (g).
 
-Subsec. (h). Pub. L. 104–170, § 224, added subsec. (h).
+Subsec. (h). Pub. L. 104–170, § 224, added subsec. (h).
 
-1991—Subsec. (c)(1)(D). Pub. L. 102–237, § 1006(a)(3)(B), (C), added subpar. (D) and redesignated former subpar. (D) as (F).
+1991—Subsec. (c)(1)(D). Pub. L. 102–237, § 1006(a)(3)(B), (C), added subpar. (D) and redesignated former subpar. (D) as (F).
 
-Subsec. (c)(1)(E). Pub. L. 102–237, § 1006(a)(3)(A), (C), added subpar. (E) and struck out former subpar. (E) which read as follows: “the complete formula of the pesticide; and”.
+Subsec. (c)(1)(E). Pub. L. 102–237, § 1006(a)(3)(A), (C), added subpar. (E) and struck out former subpar. (E) which read as follows: “the complete formula of the pesticide; and”.
 
-Subsec. (c)(1)(F). Pub. L. 102–237, § 1006(a)(3)(A), (B), (D), redesignated former subpar. (D) as (F), in cl. (i) substituted “With” for “with” and a period for semicolon at end, in cl. (ii) substituted “Except” for “except” and a period for semicolon at end, in cl. (iii) substituted “After” for “after” and a period for semicolon at end, and struck out former subpar. (F) which read as follows: “a request that the pesticide be classified for general use, for restricted use, or for both.”
+Subsec. (c)(1)(F). Pub. L. 102–237, § 1006(a)(3)(A), (B), (D), redesignated former subpar. (D) as (F), in cl. (i) substituted “With” for “with” and a period for semicolon at end, in cl. (ii) substituted “Except” for “except” and a period for semicolon at end, in cl. (iii) substituted “After” for “after” and a period for semicolon at end, and struck out former subpar. (F) which read as follows: “a request that the pesticide be classified for general use, for restricted use, or for both.”
 
-Subsec. (c)(2)(A). Pub. L. 102–237, § 1006(b)(1), (2), substituted “the Administrator” for “he” before “requires”, “shall permit”, “shall make”, and “deems”, and substituted “the Administrator’s” for “his”.
+Subsec. (c)(2)(A). Pub. L. 102–237, § 1006(b)(1), (2), substituted “the Administrator” for “he” before “requires”, “shall permit”, “shall make”, and “deems”, and substituted “the Administrator’s” for “his”.
 
-Subsec. (c)(2)(D). Pub. L. 102–237, § 1006(c), clarified amendment made by Pub. L. 100–532, § 102(b)(2)(A). See 1988 Amendment note below.
+Subsec. (c)(2)(D). Pub. L. 102–237, § 1006(c), clarified amendment made by Pub. L. 100–532, § 102(b)(2)(A). See 1988 Amendment note below.
 
-Subsec. (c)(3)(A). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”.
+Subsec. (c)(3)(A). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”.
 
-Subsec. (c)(5). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
+Subsec. (c)(5). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
 
-Subsec. (c)(6). Pub. L. 102–237, § 1006(b)(1), (2), substituted “the Administrator” for “he” before “shall notify” in two places and “the Administrator’s” for “his” in four places.
+Subsec. (c)(6). Pub. L. 102–237, § 1006(b)(1), (2), substituted “the Administrator” for “he” before “shall notify” in two places and “the Administrator’s” for “his” in four places.
 
-Subsec. (d)(1). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall classify it for both” in subpar. (A), before “will classify” in subpar. (B), and before “shall classify” in subpar. (C).
+Subsec. (d)(1). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall classify it for both” in subpar. (A), before “will classify” in subpar. (B), and before “shall classify” in subpar. (C).
 
-Subsec. (d)(2). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall notify”.
+Subsec. (d)(2). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall notify”.
 
 1990—Subsec. (c)(2)(A). Pub. L. 101–624 inserted after third sentence “The Administrator shall not require a person to submit, in relation to a registration or reregistration of a pesticide for minor agricultural use under this subchapter, any field residue data from a geographic area where the pesticide will not be registered for such use.”
 
-1988—Subsec. (a). Pub. L. 100–532, § 601(b)(1), substituted “Requirement of registration” for “Requirement” in heading and amended text generally. Prior to amendment, text read as follows: “Except as otherwise provided by this subchapter, no person in any State may distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person any pesticide which is not registered with the Administrator.”
+1988—Subsec. (a). Pub. L. 100–532, § 601(b)(1), substituted “Requirement of registration” for “Requirement” in heading and amended text generally. Prior to amendment, text read as follows: “Except as otherwise provided by this subchapter, no person in any State may distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person any pesticide which is not registered with the Administrator.”
 
-Subsec. (c)(1)(D). Pub. L. 100–532, § 801(b)(1)–(4), in introductory provisions, substituted “paragraph (2)(D)” for “subsection (c)(2)(D) of this section”, in cl. (i), substituted “(i) with” for “(i) With” and “, except that” for “: *Provided*, That”, in cl. (ii), substituted “clause (i)” for “subparagraph (D)(i) of this paragraph”, and in cl. (iii), substituted “clauses (i) and (ii)” for “subparagraphs (D)(i) and (D)(ii) of this paragraph”.
+Subsec. (c)(1)(D). Pub. L. 100–532, § 801(b)(1)–(4), in introductory provisions, substituted “paragraph (2)(D)” for “subsection (c)(2)(D) of this section”, in cl. (i), substituted “(i) with” for “(i) With” and “, except that” for “: *Provided*, That”, in cl. (ii), substituted “clause (i)” for “subparagraph (D)(i) of this paragraph”, and in cl. (iii), substituted “clauses (i) and (ii)” for “subparagraphs (D)(i) and (D)(ii) of this paragraph”.
 
-Subsec. (c)(2)(A). Pub. L. 100–532, § 801(b)(5)(A), (B), substituted “(2) Data in support of registration.—
+Subsec. (c)(2)(A). Pub. L. 100–532, § 801(b)(5)(A), (B), substituted “(2) Data in support of registration.—
 
 “(A) The”
 
 for “(2)(A) Data in support of registration.—The”, and directed that subpar. (A) be aligned with left margin of subsec. (d)(1)(A) of this section.
 
-Subsec. (c)(2)(B). Pub. L. 100–532, §§ 102(b)(1), 801(b)(5)(C)–(F), substituted “(B)(i) If” for “(B) Additional data to support existing registration.—(i) If”, directed that cls. (ii) to (v) be aligned with left margin of subpar. (A), in cls. (ii) and (iii), inserted “The Administrator shall issue a notice of intent to suspend the registration of a pesticide in accordance with the procedures prescribed by clause (iv) if a registrant fails to comply with this clause.”, in cl. (iv), substituted “title. The only” for “title: *Provided*, that the only”, and in cl. (v), substituted “paragraph (1)(D)” for “subsection (c)(1)(D) of this section”.
+Subsec. (c)(2)(B). Pub. L. 100–532, §§ 102(b)(1), 801(b)(5)(C)–(F), substituted “(B)(i) If” for “(B) Additional data to support existing registration.—(i) If”, directed that cls. (ii) to (v) be aligned with left margin of subpar. (A), in cls. (ii) and (iii), inserted “The Administrator shall issue a notice of intent to suspend the registration of a pesticide in accordance with the procedures prescribed by clause (iv) if a registrant fails to comply with this clause.”, in cl. (iv), substituted “title. The only” for “title: *Provided*, that the only”, and in cl. (v), substituted “paragraph (1)(D)” for “subsection (c)(1)(D) of this section”.
 
-Subsec. (c)(2)(C). Pub. L. 100–532, § 801(b)(5)(G), (H), struck out “Simplified procedures” after “(C)” and directed that text be aligned with left margin of subpar. (A).
+Subsec. (c)(2)(C). Pub. L. 100–532, § 801(b)(5)(G), (H), struck out “Simplified procedures” after “(C)” and directed that text be aligned with left margin of subpar. (A).
 
-Subsec. (c)(2)(D). Pub. L. 100–532, § 102(b)(2)(A), and Pub. L. 102–237, § 1006(c), substituted “the pesticide that is the subject of the application” for “an end-use product”.
+Subsec. (c)(2)(D). Pub. L. 100–532, § 102(b)(2)(A), and Pub. L. 102–237, § 1006(c), substituted “the pesticide that is the subject of the application” for “an end-use product”.
 
-Subsec. (c)(2)(D)(i). Pub. L. 100–532, § 102(b)(2)(B), struck out “the safety of” after “data pertaining to”.
+Subsec. (c)(2)(D)(i). Pub. L. 100–532, § 102(b)(2)(B), struck out “the safety of” after “data pertaining to”.
 
-Subsec. (c)(3). Pub. L. 100–532, § 103, substituted “(A) The Administrator” for “The Administrator” and added subpar. (B).
+Subsec. (c)(3). Pub. L. 100–532, § 103, substituted “(A) The Administrator” for “The Administrator” and added subpar. (B).
 
-Subsec. (c)(7). Pub. L. 100–532, § 801(b)(6), in introductory provisions, substituted “paragraph (5)” for “subsection (c)(5) of this section”, in subpars. (A) and (B), substituted “paragraph (5). If” for “subsection (c)(5) of this section: *Provided*, That, if”, and in subpar. (C), substituted “prescribe. A” for “prescribe: *Provided*, that a”.
+Subsec. (c)(7). Pub. L. 100–532, § 801(b)(6), in introductory provisions, substituted “paragraph (5)” for “subsection (c)(5) of this section”, in subpars. (A) and (B), substituted “paragraph (5). If” for “subsection (c)(5) of this section: *Provided*, That, if”, and in subpar. (C), substituted “prescribe. A” for “prescribe: *Provided*, that a”.
 
-Subsec. (d)(1)(A). Pub. L. 100–532, § 801(b)(7), substituted “restricted use. If” for “restricted use, provided that if” and “restricted uses. The Administrator” for “restricted uses: *Provided, however*, That the Administrator”.
+Subsec. (d)(1)(A). Pub. L. 100–532, § 801(b)(7), substituted “restricted use. If” for “restricted use, provided that if” and “restricted uses. The Administrator” for “restricted uses: *Provided, however*, That the Administrator”.
 
-Subsec. (f)(2). Pub. L. 100–532, § 801(b)(8), substituted “this subchapter. As” for “this subchapter: *Provided*, That as”.
+Subsec. (f)(2). Pub. L. 100–532, § 801(b)(8), substituted “this subchapter. As” for “this subchapter: *Provided*, That as”.
 
-Subsec. (g). Pub. L. 100–532, § 801(b)(9), struck out subsec. (g) which read as follows: “The Administrator shall accomplish the reregistration of all pesticides in the most expeditious manner practicable: *Provided*, That, to the extent appropriate, any pesticide that results in a postharvest residue in or on food or feed crops shall be given priority in the reregistration process.”
+Subsec. (g). Pub. L. 100–532, § 801(b)(9), struck out subsec. (g) which read as follows: “The Administrator shall accomplish the reregistration of all pesticides in the most expeditious manner practicable: *Provided*, That, to the extent appropriate, any pesticide that results in a postharvest residue in or on food or feed crops shall be given priority in the reregistration process.”
 
-1978—Subsec. (c)(1)(D). Pub. L. 95–396, § 2(a)(1), added subpar. (D), and struck out provisions which required the applicant for registration of a pesticide to file with the Administrator a statement containing “if requested by the Administrator, a full description of the tests made and the results thereof upon which the claims are based, except that data submitted on or after January 1, 1970, in support of an application shall not, without permission of the applicant, be considered by the Administrator in support of any other application for registration unless such other applicant shall have first offered to pay reasonable compensation for producing the test data to be relied upon and such data is not protected from disclosure by section 136h(b) of this title. This provision with regard to compensation for producing the test data to be relied upon shall apply with respect to all applications for registration or reregistration submitted on or after October 21, 1972. If the parties cannot agree on the amount and method of payment, the Administrator shall make such determination and may fix such other terms and conditions as may be reasonable under the circumstances. The Administrator’s determination shall be made on the record after notice and opportunity for hearing. If either party does not agree with said determination, he may, within thirty days, take an appeal to the Federal district court for the district in which he resides with respect to either the amount of the payment or the terms of payment, or both. Registration shall not be delayed pending the determination of reasonable compensation between the applicants, by the Administrator or by the court.”.
+1978—Subsec. (c)(1)(D). Pub. L. 95–396, § 2(a)(1), added subpar. (D), and struck out provisions which required the applicant for registration of a pesticide to file with the Administrator a statement containing “if requested by the Administrator, a full description of the tests made and the results thereof upon which the claims are based, except that data submitted on or after January 1, 1970, in support of an application shall not, without permission of the applicant, be considered by the Administrator in support of any other application for registration unless such other applicant shall have first offered to pay reasonable compensation for producing the test data to be relied upon and such data is not protected from disclosure by section 136h(b) of this title. This provision with regard to compensation for producing the test data to be relied upon shall apply with respect to all applications for registration or reregistration submitted on or after October 21, 1972. If the parties cannot agree on the amount and method of payment, the Administrator shall make such determination and may fix such other terms and conditions as may be reasonable under the circumstances. The Administrator’s determination shall be made on the record after notice and opportunity for hearing. If either party does not agree with said determination, he may, within thirty days, take an appeal to the Federal district court for the district in which he resides with respect to either the amount of the payment or the terms of payment, or both. Registration shall not be delayed pending the determination of reasonable compensation between the applicants, by the Administrator or by the court.”.
 
-Subsec. (c)(2). Pub. L. 95–396, §§ 2(a)(2)(A)–(D), 3, 4, designated existing provisions as subpar. (A), inserted in second sentence “under subparagraph (B) of this paragraph” after “kind of information”, struck out from introductory text of third sentence “subsection (c)(1)(D) of this section and” after “Except as provided by”, and inserted provisions relating to establishment of standards for data requirements for registration of pesticides with respect to minor uses and consideration of economic factors in development of standards and cost of development, and added subpars. (B) to (D).
+Subsec. (c)(2). Pub. L. 95–396, §§ 2(a)(2)(A)–(D), 3, 4, designated existing provisions as subpar. (A), inserted in second sentence “under subparagraph (B) of this paragraph” after “kind of information”, struck out from introductory text of third sentence “subsection (c)(1)(D) of this section and” after “Except as provided by”, and inserted provisions relating to establishment of standards for data requirements for registration of pesticides with respect to minor uses and consideration of economic factors in development of standards and cost of development, and added subpars. (B) to (D).
 
-Subsec. (c)(5). Pub. L. 95–396, § 5, provided for waiver of data requirements pertaining to efficacy.
+Subsec. (c)(5). Pub. L. 95–396, § 5, provided for waiver of data requirements pertaining to efficacy.
 
-Subsec. (c)(7), (8). Pub. L. 95–396, § 6, added pars. (7) and (8).
+Subsec. (c)(7), (8). Pub. L. 95–396, § 6, added pars. (7) and (8).
 
-Subsec. (d)(1)(A). Pub. L. 95–396, § 7(1), authorized classification of pesticide uses by regulation on the initial classification and registered pesticides prior to reregistration.
+Subsec. (d)(1)(A). Pub. L. 95–396, § 7(1), authorized classification of pesticide uses by regulation on the initial classification and registered pesticides prior to reregistration.
 
-Subsec. (d)(2). Pub. L. 95–396, § 7(2), substituted “forty-five days” for “30 days”.
+Subsec. (d)(2). Pub. L. 95–396, § 7(2), substituted “forty-five days” for “30 days”.
 
-Subsec. (d)(3). Pub. L. 95–396, § 7(3), added par. (3).
+Subsec. (d)(3). Pub. L. 95–396, § 7(3), added par. (3).
 
-Subsec. (g). Pub. L. 95–396, § 8, added subsec. (g).
+Subsec. (g). Pub. L. 95–396, § 8, added subsec. (g).
 
 1975—Subsec. (c)(1)(D). Pub. L. 94–140 inserted exception relating to test data submitted on or after January 1, 1970, in support of application, inserted provision that compensation for producing test data shall apply to all applications submitted on or after October 21, 1972, and provision relating to delay of registration pending determination of reasonable compensation, struck out requirement that payment determined by court not be less than amount determined by Administrator, and substituted “If either party” for “If the owner of the test data”.
 
@@ -1349,11 +1349,11 @@ Subsec. (g). Pub. L. 95–396, § 8, added subsec. (g).
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–94, § 6, Oct. 9, 2007, 121 Stat. 1007, provided that: “This Act [see Short Title of 2007 Amendment note set out under section 136 of this title] and the amendments made by this Act take effect on October 1, 2007.”
+Pub. L. 110–94, § 6, Oct. 9, 2007, 121 Stat. 1007, provided that: “This Act [see Short Title of 2007 Amendment note set out under section 136 of this title] and the amendments made by this Act take effect on October 1, 2007.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–199, div. G, title V, § 501(h), Jan. 23, 2004, 118 Stat. 434, provided that: “Except as otherwise provided in this section [enacting section 136w–8 of this title, amending this section and sections 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under sections 136 of this title and section 346a of Title 21, Food and Drugs] and the amendments made by this section, this section and the amendments made by this section take effect on the date that is 60 days after the date of enactment of this Act [Jan. 23, 2004].”
+Pub. L. 108–199, div. G, title V, § 501(h), Jan. 23, 2004, 118 Stat. 434, provided that: “Except as otherwise provided in this section [enacting section 136w–8 of this title, amending this section and sections 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under sections 136 of this title and section 346a of Title 21, Food and Drugs] and the amendments made by this section, this section and the amendments made by this section take effect on the date that is 60 days after the date of enactment of this Act [Jan. 23, 2004].”
 
 **Effective Date of 1988 Amendment**
 
@@ -1361,7 +1361,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–396, § 2(b), Sept. 30, 1978, 92 Stat. 824, provided that: “The amendment to section 3(c)(1)(D) of the Federal Insecticide, Fungicide, and Rodenticide Act [subsec. (c)(1)(D) of this section] made by [subsec. (a)(1) of] this section shall apply with respect to all applications for registration approved after the date of enactment of this Act [Sept. 30, 1978].”
+Pub. L. 95–396, § 2(b), Sept. 30, 1978, 92 Stat. 824, provided that: “The amendment to section 3(c)(1)(D) of the Federal Insecticide, Fungicide, and Rodenticide Act [subsec. (c)(1)(D) of this section] made by [subsec. (a)(1) of] this section shall apply with respect to all applications for registration approved after the date of enactment of this Act [Sept. 30, 1978].”
 
 **Effective Date**
 
@@ -1369,7 +1369,7 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 **Registration Review Deadline Extension**
 
-Pub. L. 117–328, div. HH, title VI, § 711, Dec. 29, 2022, 136 Stat. 6083, provided that:
+Pub. L. 117–328, div. HH, title VI, § 711, Dec. 29, 2022, 136 Stat. 6083, provided that:
 
 > **“(a) In General.—** Notwithstanding section 3(g)(1)(A)(iii)(I) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(g)(1)(A)(iii)(I)), the Administrator of the Environmental Protection Agency (referred to in this section as the ‘Administrator’) shall complete the initial registration review of each pesticide or pesticide case covered by that section not later than October 1, 2026.
 
@@ -1393,11 +1393,11 @@ Pub. L. 117–328, div. HH, title VI, § 711, Dec. 29, 2022, 136 Stat. 6083, p
 
 **Biological Pesticide Handling Study**
 
-Pub. L. 101–624, title XIV, § 1498, Nov. 28, 1990, 104 Stat. 3631, provided that the National Academy of Sciences would conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency, and within 1 year after completion of the study, develop and implement a common process for reviewing and approving biological control applications submitted to such agencies and offices based on the study conducted, the recommendation of the National Academy of Sciences, and other public comment.
+Pub. L. 101–624, title XIV, § 1498, Nov. 28, 1990, 104 Stat. 3631, provided that the National Academy of Sciences would conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency, and within 1 year after completion of the study, develop and implement a common process for reviewing and approving biological control applications submitted to such agencies and offices based on the study conducted, the recommendation of the National Academy of Sciences, and other public comment.
 
 **Education, Study, and Report**
 
-Pub. L. 100–478, title I, § 1010, Oct. 7, 1988, 102 Stat. 2313, provided that:
+Pub. L. 100–478, title I, § 1010, Oct. 7, 1988, 102 Stat. 2313, provided that:
 
 > **“(a) Education.—** The Administrator of the Environmental Protection Agency in cooperation with the Secretary of Agriculture and the Secretary of the Interior, promptly upon enactment of this Act [Oct. 7, 1988], shall conduct a program to inform and educate fully persons engaged in agricultural food and fiber commodity production of any proposed pesticide labeling program or requirements that may be imposed by the Administrator in compliance with the Endangered Species Act [of 1973] (16 U.S.C. 1531 et seq.). The Administrator also shall provide the public with notice of, and opportunity for comment on, the elements of any such program and requirements based on compliance with the Endangered Species Act [of 1973], including (but not limited to) an identification of any pesticides affected by the program; an explanation of the restriction or prohibition on the user or applicator of any such pesticide; an identification of those geographic areas affected by any pesticide restriction or prohibition; an identification of the effects of any restricted or prohibited pesticide on endangered or threatened species; and an identification of the endangered or threatened species along with a general description of the geographic areas in which such species are located wherein the application of a pesticide will be restricted, prohibited, or its use otherwise limited, unless the Secretary of the Interior determines that the disclosure of such information may create a substantial risk of harm to such species or its habitat.
 
@@ -1405,7 +1405,7 @@ Pub. L. 100–478, title I, § 1010, Oct. 7, 1988, 102 Stat. 2313, provided th
 
 > **“(c) Report.—** The Administrator of the Environmental Protection Agency in cooperation with the Secretary of Agriculture and the Secretary of the Interior shall submit a report within one year of the date of enactment of this Act [Oct. 7, 1988], presenting the results of the study conducted pursuant to subsection (b) of this section to the Committee on Merchant Marine and Fisheries and the Committee on Agriculture of the United States House of Representatives, and the Committee on Environment and Public Works and the Committee on Agriculture, Nutrition, and Forestry of the United States Senate.”
 
-### § 136a–1. Reregistration of registered pesticides
+### § 136a–1. Reregistration of registered pesticides
 
 **(a) General rule** The Administrator shall reregister, in accordance with this section, each registered pesticide containing any active ingredient contained in any pesticide first registered before November 1, 1984, except for any pesticide as to which the Administrator has determined, after November 1, 1984, and before the effective date of this section, that—
 
@@ -1561,9 +1561,9 @@ The Administrator shall issue a notice of intent to suspend the registration of 
 
 **(ii)** an offer to share in the cost of developing such data to be incurred by a person who has made a commitment under clause (i) to submit such data, and an offer to submit to arbitration as described by section 136a(c)(2)(B) of this title with regard to such cost sharing; and
 
-**(I)** evidence of compliance with section 136a(c)(1)(D)(ii) 1
+**(I)** evidence of compliance with section 136a(c)(1)(D)(ii) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title and regulations issued thereunder with regard to previously submitted data as if the registrant were now seeking the original registration of the pesticide.
 
@@ -1705,7 +1705,7 @@ The Administrator shall conduct a thorough examination of all data submitted und
 
 **(h) Compensation of data submitter**
 
-If data that are submitted by a registrant under subsection (d), (e), (f), or (g) are used to support the application of another person under section 136a of this title, the registrant who submitted such data shall be entitled to compensation for the use of such data as prescribed by section 136a(c)(1)(D) <sup>1</sup> of this title. In determining the amount of such compensation, the fees paid by the registrant under this section shall be taken into account.
+If data that are submitted by a registrant under subsection (d), (e), (f), or (g) are used to support the application of another person under section 136a of this title, the registrant who submitted such data shall be entitled to compensation for the use of such data as prescribed by section 136a(c)(1)(D) <sup>1</sup> of this title. In determining the amount of such compensation, the fees paid by the registrant under this section shall be taken into account.
 
 **(i) Fees**
 
@@ -2091,7 +2091,7 @@ Any unused amounts made available under this paragraph at the end of each fiscal
 
 **(10) Accounting and performance**
 
-The Administrator shall take all steps necessary to ensure that expenditures from fees authorized by subsection (i)(1)(C)(ii) <sup>1</sup> are used only for the purposes described in paragraphs (2) through (8) and to carry out the goals established under subsection (*l*). The Reregistration and Expedited Processing Fund shall be designated as an Environmental Protection Agency component for purposes of section 3515(c) of title 31. The annual audit required under section 3521 of such title of the financial statements of activities under this subchapter under section 3515(b) of such title shall include an audit of the fees collected under subsection (i)(1)(C) and disbursed, of the amount appropriated to match such fees, and of the Administrator’s attainment of performance measures and goals established under subsection (*l*). Such an audit shall also include a review of the reasonableness of the overhead allocation and adequacy of disclosures of direct and indirect costs associated with carrying out the reregistration and expedited processing of the applications specified in paragraph (3), and the basis for and accuracy of all costs paid with moneys derived from such fees. The Inspector General shall conduct the annual audit and report the findings and recommendations of such audit to the Administrator and to the Committees on Agriculture of the House of Representatives and the Senate. The cost of such audit shall be paid for out of the fees collected under subsection (i)(1)(C).
+The Administrator shall take all steps necessary to ensure that expenditures from fees authorized by subsection (i)(1)(C)(ii) <sup>1</sup> are used only for the purposes described in paragraphs (2) through (8) and to carry out the goals established under subsection (*l*). The Reregistration and Expedited Processing Fund shall be designated as an Environmental Protection Agency component for purposes of section 3515(c) of title 31. The annual audit required under section 3521 of such title of the financial statements of activities under this subchapter under section 3515(b) of such title shall include an audit of the fees collected under subsection (i)(1)(C) and disbursed, of the amount appropriated to match such fees, and of the Administrator’s attainment of performance measures and goals established under subsection (*l*). Such an audit shall also include a review of the reasonableness of the overhead allocation and adequacy of disclosures of direct and indirect costs associated with carrying out the reregistration and expedited processing of the applications specified in paragraph (3), and the basis for and accuracy of all costs paid with moneys derived from such fees. The Inspector General shall conduct the annual audit and report the findings and recommendations of such audit to the Administrator and to the Committees on Agriculture of the House of Representatives and the Senate. The cost of such audit shall be paid for out of the fees collected under subsection (i)(1)(C).
 
 **(l) Performance measures and goals** The Administrator shall establish and publish annually in the Federal Register performance measures and goals. Such measures and goals shall include—
 
@@ -2135,7 +2135,7 @@ The Secretary may provide for support of the required studies using funds author
 
 There is authorized to be appropriated to carry out the purposes of this section $12,000,000 for fiscal year 1997, and such sums as may be necessary for succeeding fiscal years.
 
-(June 25, 1947, ch. 125, § 4, formerly § 3A, as added and renumbered § 4, Pub. L. 100–532, title I, § 102(a), title VIII, § 801(q)(2)(A), Oct. 25, 1988, 102 Stat. 2655, 2683; amended Pub. L. 101–624, title XIV, § 1493, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, § 1006(a)(4), (e), (f), Dec. 13, 1991, 105 Stat. 1895–1897; Pub. L. 104–170, title I, § 103, title II, §§ 210(c)(2), (f)(1), 232, 237, title V, § 501, Aug. 3, 1996, 110 Stat. 1490, 1496, 1498, 1508, 1509, 1536; Pub. L. 107–73, title III, [(1)–(4)], Nov. 26, 2001, 115 Stat. 686; Pub. L. 108–7, div. K, title III, [(1)–(4)], Feb. 20, 2003, 117 Stat. 513; Pub. L. 108–199, div. G, title V, § 501(c), (d)(1), (e), Jan. 23, 2004, 118 Stat. 419, 422; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–94, § 4(a)–(d)(1), (e), Oct. 9, 2007, 121 Stat. 1001, 1002; Pub. L. 112–177, § 2(a)(1), (2)(A), (4), Sept. 28, 2012, 126 Stat. 1327, 1329; Pub. L. 116–8, §§ 2(a), (b), 3, Mar. 8, 2019, 133 Stat. 484, 485; Pub. L. 117–328, div. HH, title VI, §§ 703(a), 704, Dec. 29, 2022, 136 Stat. 5999, 6002.)
+(June 25, 1947, ch. 125, § 4, formerly § 3A, as added and renumbered § 4, Pub. L. 100–532, title I, § 102(a), title VIII, § 801(q)(2)(A), Oct. 25, 1988, 102 Stat. 2655, 2683; amended Pub. L. 101–624, title XIV, § 1493, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, § 1006(a)(4), (e), (f), Dec. 13, 1991, 105 Stat. 1895–1897; Pub. L. 104–170, title I, § 103, title II, §§ 210(c)(2), (f)(1), 232, 237, title V, § 501, Aug. 3, 1996, 110 Stat. 1490, 1496, 1498, 1508, 1509, 1536; Pub. L. 107–73, title III, [(1)–(4)], Nov. 26, 2001, 115 Stat. 686; Pub. L. 108–7, div. K, title III, [(1)–(4)], Feb. 20, 2003, 117 Stat. 513; Pub. L. 108–199, div. G, title V, § 501(c), (d)(1), (e), Jan. 23, 2004, 118 Stat. 419, 422; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–94, § 4(a)–(d)(1), (e), Oct. 9, 2007, 121 Stat. 1001, 1002; Pub. L. 112–177, § 2(a)(1), (2)(A), (4), Sept. 28, 2012, 126 Stat. 1327, 1329; Pub. L. 116–8, §§ 2(a), (b), 3, Mar. 8, 2019, 133 Stat. 484, 485; Pub. L. 117–328, div. HH, title VI, §§ 703(a), 704, Dec. 29, 2022, 136 Stat. 5999, 6002.)
 
 **Editorial Notes**
 
@@ -2143,17 +2143,17 @@ There is authorized to be appropriated to carry out the purposes of this section
 
 The effective date of this section, referred to in subsecs. (a), (c)(1), (2), and (e)(4)(A), is 60 days after Oct. 25, 1988. See Effective Date note below.
 
-Section 136a(c)(1)(D) of this title, referred to in subsecs. (e)(1)(I) and (h), was redesignated section 136a(c)(1)(F) of this title by Pub. L. 102–237, title X, § 1006(a)(3)(B), Dec. 13, 1991, 105 Stat. 1894.
+Section 136a(c)(1)(D) of this title, referred to in subsecs. (e)(1)(I) and (h), was redesignated section 136a(c)(1)(F) of this title by Pub. L. 102–237, title X, § 1006(a)(3)(B), Dec. 13, 1991, 105 Stat. 1894.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(A)(1), (E)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(A)(1), (E)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Section 136w–8(c)(3)(B) of this title, as such section was in effect as of March 8, 2019, referred to in subsec. (i)(1)(G)(iv), means section 136w–8(c)(3)(B) of this title as amended by Pub. L. 116–8, § 5(b), and prior to its repeal and reenactment by Pub. L. 117–328, § 705(b)(1). See 2022 Amendment note under section 136w–8 of this title.
+Section 136w–8(c)(3)(B) of this title, as such section was in effect as of March 8, 2019, referred to in subsec. (i)(1)(G)(iv), means section 136w–8(c)(3)(B) of this title as amended by Pub. L. 116–8, § 5(b), and prior to its repeal and reenactment by Pub. L. 117–328, § 705(b)(1). See 2022 Amendment note under section 136w–8 of this title.
 
-The Endangered Species Act of 1973, referred to in subsec. (k)(2)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (k)(2)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-Subsection (i)(1)(C)(ii) of this section, referred to in subsec. (k)(10), was previously a reference to subsec. (i)(5)(C)(ii), which was repealed and a new subsec. (i)(5)(C)(ii) was added by Pub. L. 108–199, § 501(c)(2). Subsec. (i)(5)(C) was amended by Pub. L. 110–94, § 4(a), and, as so amended, related to fees but no longer contained a cl. (ii). Subsec. (i)(5) was redesignated (i)(1) by Pub. L. 112–177, § 2(a)(1)(C).
+Subsection (i)(1)(C)(ii) of this section, referred to in subsec. (k)(10), was previously a reference to subsec. (i)(5)(C)(ii), which was repealed and a new subsec. (i)(5)(C)(ii) was added by Pub. L. 108–199, § 501(c)(2). Subsec. (i)(5)(C) was amended by Pub. L. 110–94, § 4(a), and, as so amended, related to fees but no longer contained a cl. (ii). Subsec. (i)(5) was redesignated (i)(1) by Pub. L. 112–177, § 2(a)(1)(C).
 
-The Public Health Service Act, referred to in subsec. (n)(6), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (n)(6), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -2163,105 +2163,105 @@ Another prior section 4 of act June 25, 1947, was classified to section 135b of 
 
 **Amendments**
 
-2022—Subsec. (i)(1)(C). Pub. L. 117–328, § 703(a)(1)(A), substituted “2022, and $42,000,000 for each of fiscal years 2023 through 2027” for “2023”.
+2022—Subsec. (i)(1)(C). Pub. L. 117–328, § 703(a)(1)(A), substituted “2022, and $42,000,000 for each of fiscal years 2023 through 2027” for “2023”.
 
-Subsec. (i)(1)(D)(i). Pub. L. 117–328, § 703(a)(1)(B)(i), substituted “2022, and $172,000 for each of fiscal years 2023 through 2027” for “2023”.
+Subsec. (i)(1)(D)(i). Pub. L. 117–328, § 703(a)(1)(B)(i), substituted “2022, and $172,000 for each of fiscal years 2023 through 2027” for “2023”.
 
-Subsec. (i)(1)(D)(ii). Pub. L. 117–328, § 703(a)(1)(B)(ii), substituted “2022, and $277,200 for each of fiscal years 2023 through 2027” for “2023”.
+Subsec. (i)(1)(D)(ii). Pub. L. 117–328, § 703(a)(1)(B)(ii), substituted “2022, and $277,200 for each of fiscal years 2023 through 2027” for “2023”.
 
-Subsec. (i)(1)(E)(i)(I). Pub. L. 117–328, § 703(a)(1)(C)(i), substituted “2022, and $105,000 for each of fiscal years 2023 through 2027” for “2023”.
+Subsec. (i)(1)(E)(i)(I). Pub. L. 117–328, § 703(a)(1)(C)(i), substituted “2022, and $105,000 for each of fiscal years 2023 through 2027” for “2023”.
 
-Subsec. (i)(1)(E)(i)(II). Pub. L. 117–328, § 703(a)(1)(C)(ii), substituted “2022, and $184,800 for each of fiscal years 2023 through 2027” for “2023”.
+Subsec. (i)(1)(E)(i)(II). Pub. L. 117–328, § 703(a)(1)(C)(ii), substituted “2022, and $184,800 for each of fiscal years 2023 through 2027” for “2023”.
 
-Subsec. (i)(1)(G) to (M). Pub. L. 117–328, § 703(a)(1)(D), (E), added subpars. (G) to (K) and redesignated former subpars. (G) and (H) as (L) and (M), respectively. Former subpar. (I) redesignated (N).
+Subsec. (i)(1)(G) to (M). Pub. L. 117–328, § 703(a)(1)(D), (E), added subpars. (G) to (K) and redesignated former subpars. (G) and (H) as (L) and (M), respectively. Former subpar. (I) redesignated (N).
 
-Subsec. (i)(1)(N). Pub. L. 117–328, § 703(a)(1)(D), (F), redesignated subpar. (I) as (N) and substituted “2027” for “2023”.
+Subsec. (i)(1)(N). Pub. L. 117–328, § 703(a)(1)(D), (F), redesignated subpar. (I) as (N) and substituted “2027” for “2023”.
 
-Subsec. (i)(2). Pub. L. 117–328, § 703(a)(2), substituted “December 29, 2022, and ending on September 30, 2029” for “March 8, 2019, and ending on September 30, 2025” and “section 136w–8(b)(3)(B)” for “section 136w–8(b)(3)”.
+Subsec. (i)(2). Pub. L. 117–328, § 703(a)(2), substituted “December 29, 2022, and ending on September 30, 2029” for “March 8, 2019, and ending on September 30, 2025” and “section 136w–8(b)(3)(B)” for “section 136w–8(b)(3)”.
 
-Subsec. (k)(2)(A). Pub. L. 117–328, § 704(1), inserted “including, to the maximum extent practicable, during periods in which Environmental Protection Agency employees are on shutdown or emergency furlough as a result of a lapse in appropriations,” after “limitation,”.
+Subsec. (k)(2)(A). Pub. L. 117–328, § 704(1), inserted “including, to the maximum extent practicable, during periods in which Environmental Protection Agency employees are on shutdown or emergency furlough as a result of a lapse in appropriations,” after “limitation,”.
 
-Subsec. (k)(3), (4). Pub. L. 117–328, § 704(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related, respectively, to use of maintenance fees for review of inert ingredients and expedited processing of similar applications and to expedited rulemaking and guidance development for certain product performance data requirements.
+Subsec. (k)(3), (4). Pub. L. 117–328, § 704(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related, respectively, to use of maintenance fees for review of inert ingredients and expedited processing of similar applications and to expedited rulemaking and guidance development for certain product performance data requirements.
 
-Subsec. (k)(5)(A). Pub. L. 117–328, § 704(3), substituted “2023 through 2027” for “2018 through 2023”.
+Subsec. (k)(5)(A). Pub. L. 117–328, § 704(3), substituted “2023 through 2027” for “2018 through 2023”.
 
-Subsec. (k)(6) to (9). Pub. L. 117–328, § 704(4), (5), added pars. (6) to (8) and redesignated former par. (6) as (9). Former par. (7) redesignated (10).
+Subsec. (k)(6) to (9). Pub. L. 117–328, § 704(4), (5), added pars. (6) to (8) and redesignated former par. (6) as (9). Former par. (7) redesignated (10).
 
-Subsec. (k)(10). Pub. L. 117–328, § 704(4), (6), redesignated par. (7) as (10) and substituted “paragraphs (2) through (8)” for “paragraphs (2), (3), (4), and (5)”.
+Subsec. (k)(10). Pub. L. 117–328, § 704(4), (6), redesignated par. (7) as (10) and substituted “paragraphs (2) through (8)” for “paragraphs (2), (3), (4), and (5)”.
 
-2019—Subsec. (i)(1)(C). Pub. L. 116–8, § 2(a)(1), substituted “an average amount of $31,000,000 for each of fiscal years 2019 through 2023” for “an aggregate amount of $27,800,000 for each of fiscal years 2013 through 2017”.
+2019—Subsec. (i)(1)(C). Pub. L. 116–8, § 2(a)(1), substituted “an average amount of $31,000,000 for each of fiscal years 2019 through 2023” for “an aggregate amount of $27,800,000 for each of fiscal years 2013 through 2017”.
 
-Subsec. (i)(1)(D)(i). Pub. L. 116–8, § 2(a)(2)(A), substituted “$129,400 for each of fiscal years 2019 through 2023” for “$115,500 for each of fiscal years 2013 through 2017”.
+Subsec. (i)(1)(D)(i). Pub. L. 116–8, § 2(a)(2)(A), substituted “$129,400 for each of fiscal years 2019 through 2023” for “$115,500 for each of fiscal years 2013 through 2017”.
 
-Subsec. (i)(1)(D)(ii). Pub. L. 116–8, § 2(a)(2)(B), substituted “$207,000 for each of fiscal years 2019 through 2023” for “$184,800 for each of fiscal years 2013 through 2017”.
+Subsec. (i)(1)(D)(ii). Pub. L. 116–8, § 2(a)(2)(B), substituted “$207,000 for each of fiscal years 2019 through 2023” for “$184,800 for each of fiscal years 2013 through 2017”.
 
-Subsec. (i)(1)(E)(i)(I). Pub. L. 116–8, § 2(a)(3)(A), substituted “$79,100 for each of fiscal years 2019 through 2023” for “$70,600 for each of fiscal years 2013 through 2017”.
+Subsec. (i)(1)(E)(i)(I). Pub. L. 116–8, § 2(a)(3)(A), substituted “$79,100 for each of fiscal years 2019 through 2023” for “$70,600 for each of fiscal years 2013 through 2017”.
 
-Subsec. (i)(1)(E)(i)(II). Pub. L. 116–8, § 2(a)(3)(B), substituted “$136,800 for each of fiscal years 2019 through 2023” for “$122,100 for each of fiscal years 2013 through 2017”.
+Subsec. (i)(1)(E)(i)(II). Pub. L. 116–8, § 2(a)(3)(B), substituted “$136,800 for each of fiscal years 2019 through 2023” for “$122,100 for each of fiscal years 2013 through 2017”.
 
-Subsec. (i)(1)(I). Pub. L. 116–8, § 2(a)(4), substituted “2023.” for “2017..”
+Subsec. (i)(1)(I). Pub. L. 116–8, § 2(a)(4), substituted “2023.” for “2017..”
 
-Subsec. (i)(2). Pub. L. 116–8, § 2(b), substituted “March 8, 2019, and ending on September 30, 2025” for “October 25, 1988, and ending on September 30, 2019” and inserted “or any other action covered under a table specified in section 136w–8(b)(3) of this title,” after “registration of a pesticide under this subchapter”.
+Subsec. (i)(2). Pub. L. 116–8, § 2(b), substituted “March 8, 2019, and ending on September 30, 2025” for “October 25, 1988, and ending on September 30, 2019” and inserted “or any other action covered under a table specified in section 136w–8(b)(3) of this title,” after “registration of a pesticide under this subchapter”.
 
-Subsec. (k)(2)(A). Pub. L. 116–8, § 3(a)(1), (2), in introductory provisions, substituted “the Reregistration and Expedited Processing Fund” for “the fund” and “paragraph (3), to offset the costs of registration review under section 136a(g) of this title, including the costs associated with any review under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) required as part of the registration review, to offset the costs associated with tracking and implementing registration review decisions, including registration review decisions designed to reduce risk, for the purposes specified in paragraphs (4) and (5), and to enhance the information systems capabilities to improve the tracking of pesticide registration decisions.” for “paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title. Such moneys derived from fees may not be expended in any fiscal year to the extent such moneys derived from fees would exceed money appropriated for use by the Administrator and expended in such year for such costs of reregistration and expedited processing of such applications.”
+Subsec. (k)(2)(A). Pub. L. 116–8, § 3(a)(1), (2), in introductory provisions, substituted “the Reregistration and Expedited Processing Fund” for “the fund” and “paragraph (3), to offset the costs of registration review under section 136a(g) of this title, including the costs associated with any review under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) required as part of the registration review, to offset the costs associated with tracking and implementing registration review decisions, including registration review decisions designed to reduce risk, for the purposes specified in paragraphs (4) and (5), and to enhance the information systems capabilities to improve the tracking of pesticide registration decisions.” for “paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title. Such moneys derived from fees may not be expended in any fiscal year to the extent such moneys derived from fees would exceed money appropriated for use by the Administrator and expended in such year for such costs of reregistration and expedited processing of such applications.”
 
-Subsec. (k)(2)(A)(i). Pub. L. 116–8, § 3(a)(3), substituted “are allocated solely for the purposes specified in the first sentence of this subparagraph;” for “are allocated solely to offset the costs of reregistration and expedited processing of the applications specified in paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title;”.
+Subsec. (k)(2)(A)(i). Pub. L. 116–8, § 3(a)(3), substituted “are allocated solely for the purposes specified in the first sentence of this subparagraph;” for “are allocated solely to offset the costs of reregistration and expedited processing of the applications specified in paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title;”.
 
-Subsec. (k)(2)(A)(ii). Pub. L. 116–8, § 3(a)(4), substituted “necessary to achieve the purposes specified in the first sentence of this subparagraph;” for “necessary to achieve reregistration and expedited processing of the applications specified in paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title;”.
+Subsec. (k)(2)(A)(ii). Pub. L. 116–8, § 3(a)(4), substituted “necessary to achieve the purposes specified in the first sentence of this subparagraph;” for “necessary to achieve reregistration and expedited processing of the applications specified in paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title;”.
 
-Subsec. (k)(3)(A). Pub. L. 116–8, § 3(b), in introductory provisions, substituted “For each of fiscal years 2018 through 2023, the Administrator shall use between ⅑ and ⅛ of the maintenance fees collected in such fiscal year to obtain sufficient personnel and resources—” for “The Administrator shall use for each of the fiscal years 2004 through 2006, approximately $3,300,000, and for each of fiscal years 2013 through 2017, between ⅑ and ⅛, of the maintenance fees collected in such fiscal year to obtain sufficient personnel and resources—”.
+Subsec. (k)(3)(A). Pub. L. 116–8, § 3(b), in introductory provisions, substituted “For each of fiscal years 2018 through 2023, the Administrator shall use between ⅑ and ⅛ of the maintenance fees collected in such fiscal year to obtain sufficient personnel and resources—” for “The Administrator shall use for each of the fiscal years 2004 through 2006, approximately $3,300,000, and for each of fiscal years 2013 through 2017, between ⅑ and ⅛, of the maintenance fees collected in such fiscal year to obtain sufficient personnel and resources—”.
 
-Subsec. (k)(4). Pub. L. 116–8, § 3(c), amended par. (4) generally. Prior to amendment, par. (4) related to enhancements of information technology systems for improvement in review of pesticide applications.
+Subsec. (k)(4). Pub. L. 116–8, § 3(c), amended par. (4) generally. Prior to amendment, par. (4) related to enhancements of information technology systems for improvement in review of pesticide applications.
 
-Subsec. (k)(5) to (7). Pub. L. 116–8, § 3(d), added par. (5), redesignated former pars. (5) and (6) as (6) and (7), respectively, and substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2), (3), and (4)” in par. (7).
+Subsec. (k)(5) to (7). Pub. L. 116–8, § 3(d), added par. (5), redesignated former pars. (5) and (6) as (6) and (7), respectively, and substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2), (3), and (4)” in par. (7).
 
-2012—Subsec. (d)(5)(B)(ii)(III). Pub. L. 112–177, § 2(a)(2)(A)(i), substituted “this section” for “subsection (i)(1)”.
+2012—Subsec. (d)(5)(B)(ii)(III). Pub. L. 112–177, § 2(a)(2)(A)(i), substituted “this section” for “subsection (i)(1)”.
 
-Subsec. (i)(1) to (4). Pub. L. 112–177, § 2(a)(1)(C), (D), redesignated pars. (5) and (6) as (1) and (2), respectively, and struck out former pars. (1) to (4) which related to initial fee for food or feed use pesticide active ingredients, final fee for food or feed use pesticide active ingredients, fees for other pesticide active ingredients, and reduction or waiver of fees for minor use and other pesticides, respectively.
+Subsec. (i)(1) to (4). Pub. L. 112–177, § 2(a)(1)(C), (D), redesignated pars. (5) and (6) as (1) and (2), respectively, and struck out former pars. (1) to (4) which related to initial fee for food or feed use pesticide active ingredients, final fee for food or feed use pesticide active ingredients, fees for other pesticide active ingredients, and reduction or waiver of fees for minor use and other pesticides, respectively.
 
-Subsec. (i)(5). Pub. L. 112–177, § 2(a)(1)(D), redesignated par. (5) as (1).
+Subsec. (i)(5). Pub. L. 112–177, § 2(a)(1)(D), redesignated par. (5) as (1).
 
-Subsec. (i)(5)(C). Pub. L. 112–177, § 2(a)(1)(A)(i), substituted “aggregate amount of $27,800,000 for each of fiscal years 2013 through 2017.” for “aggregate amount of $22,000,000 for each of fiscal years 2008 through 2012”.
+Subsec. (i)(5)(C). Pub. L. 112–177, § 2(a)(1)(A)(i), substituted “aggregate amount of $27,800,000 for each of fiscal years 2013 through 2017.” for “aggregate amount of $22,000,000 for each of fiscal years 2008 through 2012”.
 
-Subsec. (i)(5)(D)(i). Pub. L. 112–177, § 2(a)(1)(A)(ii)(I), substituted “shall be $115,500 for each of fiscal years 2013 through 2017;” for “shall be $71,000 for each of fiscal years 2008 through 2012;”.
+Subsec. (i)(5)(D)(i). Pub. L. 112–177, § 2(a)(1)(A)(ii)(I), substituted “shall be $115,500 for each of fiscal years 2013 through 2017;” for “shall be $71,000 for each of fiscal years 2008 through 2012;”.
 
-Subsec. (i)(5)(D)(ii). Pub. L. 112–177, § 2(a)(1)(A)(ii)(II), substituted “shall be $184,800 for each of fiscal years 2013 through 2017.” for “shall be $123,000 for each of fiscal years 2008 through 2012.”
+Subsec. (i)(5)(D)(ii). Pub. L. 112–177, § 2(a)(1)(A)(ii)(II), substituted “shall be $184,800 for each of fiscal years 2013 through 2017.” for “shall be $123,000 for each of fiscal years 2008 through 2012.”
 
-Subsec. (i)(5)(E)(i)(I). Pub. L. 112–177, § 2(a)(1)(A)(iii)(I), substituted “shall be $70,600 for each of fiscal years 2013 through 2017;” for “shall be $50,000 for each of fiscal years 2008 through 2012;”.
+Subsec. (i)(5)(E)(i)(I). Pub. L. 112–177, § 2(a)(1)(A)(iii)(I), substituted “shall be $70,600 for each of fiscal years 2013 through 2017;” for “shall be $50,000 for each of fiscal years 2008 through 2012;”.
 
-Subsec. (i)(5)(E)(i)(II). Pub. L. 112–177, § 2(a)(1)(A)(iii)(II), substituted “shall be $122,100 for each of fiscal years 2013 through 2017.” for “shall be $86,000 for each of fiscal years 2008 through 2012.”
+Subsec. (i)(5)(E)(i)(II). Pub. L. 112–177, § 2(a)(1)(A)(iii)(II), substituted “shall be $122,100 for each of fiscal years 2013 through 2017.” for “shall be $86,000 for each of fiscal years 2008 through 2012.”
 
-Subsec. (i)(5)(F). Pub. L. 112–177, § 2(a)(1)(A)(vi), added subpar. (F). Former subpar. (F) redesignated (G).
+Subsec. (i)(5)(F). Pub. L. 112–177, § 2(a)(1)(A)(vi), added subpar. (F). Former subpar. (F) redesignated (G).
 
-Pub. L. 112–177, § 2(a)(1)(A)(iv), substituted “this paragraph” for “paragraph (3)” and “Human” for “Humans”.
+Pub. L. 112–177, § 2(a)(1)(A)(iv), substituted “this paragraph” for “paragraph (3)” and “Human” for “Humans”.
 
-Subsec. (i)(5)(G), (H). Pub. L. 112–177, § 2(a)(1)(A)(v), redesignated subpars. (F) and (G) as (G) and (H), respectively.
+Subsec. (i)(5)(G), (H). Pub. L. 112–177, § 2(a)(1)(A)(v), redesignated subpars. (F) and (G) as (G) and (H), respectively.
 
-Subsec. (i)(5)(I). Pub. L. 112–177, § 2(a)(1)(A)(v), (vii), redesignated subpar. (H) as (I) and substituted “2017” for “2012”.
+Subsec. (i)(5)(I). Pub. L. 112–177, § 2(a)(1)(A)(v), (vii), redesignated subpar. (H) as (I) and substituted “2017” for “2012”.
 
-Subsec. (i)(6). Pub. L. 112–177, § 2(a)(1)(D), redesignated par. (6) as (2).
+Subsec. (i)(6). Pub. L. 112–177, § 2(a)(1)(D), redesignated par. (6) as (2).
 
-Pub. L. 112–177, § 2(a)(1)(B), substituted “2019” for “2014” and “paragraph (1)” for “paragraphs (1) through (5)”.
+Pub. L. 112–177, § 2(a)(1)(B), substituted “2019” for “2014” and “paragraph (1)” for “paragraphs (1) through (5)”.
 
-Subsec. (i)(7). Pub. L. 112–177, § 2(a)(1)(C), struck out par. (7) which related to apportionment of certain fees among registrants of pesticides.
+Subsec. (i)(7). Pub. L. 112–177, § 2(a)(1)(C), struck out par. (7) which related to apportionment of certain fees among registrants of pesticides.
 
-Subsec. (j). Pub. L. 112–177, § 2(a)(2)(A)(ii), substituted “subsection (i)(1)” for “subsection (i)(5)”.
+Subsec. (j). Pub. L. 112–177, § 2(a)(2)(A)(ii), substituted “subsection (i)(1)” for “subsection (i)(5)”.
 
-Subsec. (k)(2)(A). Pub. L. 112–177, § 2(a)(4)(A)(i), inserted “, to enhance the information systems capabilities to improve the tracking of pesticide registration decisions,” after “paragraph (3)” wherever appearing.
+Subsec. (k)(2)(A). Pub. L. 112–177, § 2(a)(4)(A)(i), inserted “, to enhance the information systems capabilities to improve the tracking of pesticide registration decisions,” after “paragraph (3)” wherever appearing.
 
-Subsec. (k)(2)(A)(i). Pub. L. 112–177, § 2(a)(4)(A)(ii), inserted “offset” before “the costs of reregistration” and struck out “in the same portion as appropriated funds” before semicolon at end.
+Subsec. (k)(2)(A)(i). Pub. L. 112–177, § 2(a)(4)(A)(ii), inserted “offset” before “the costs of reregistration” and struck out “in the same portion as appropriated funds” before semicolon at end.
 
-Subsec. (k)(3)(A). Pub. L. 112–177, § 2(a)(4)(B), in introductory provisions, substituted “2013 through 2017, between ⅑ and ⅛” for “2008 through 2012, between ⅛ and ⅐”; in cl. (i), struck out “new” before “inert”; and, in cl. (ii), substituted “any application that—” for “any application that—”.
+Subsec. (k)(3)(A). Pub. L. 112–177, § 2(a)(4)(B), in introductory provisions, substituted “2013 through 2017, between ⅑ and ⅛” for “2008 through 2012, between ⅛ and ⅐”; in cl. (i), struck out “new” before “inert”; and, in cl. (ii), substituted “any application that—” for “any application that—”.
 
-Subsec. (k)(4). Pub. L. 112–177, § 2(a)(4)(C)(ii), added par. (4). Former par. (4) redesignated (5).
+Subsec. (k)(4). Pub. L. 112–177, § 2(a)(4)(C)(ii), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (k)(5). Pub. L. 112–177, § 2(a)(4)(C)(i), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (k)(5). Pub. L. 112–177, § 2(a)(4)(C)(i), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pub. L. 112–177, § 2(a)(2)(A)(iii), substituted “subsection (i)(1)(C)(ii)” for “subsection (i)(5)(C)(ii)” and “subsection (i)(1)(C)” for “subsection (i)(5)(C)” in two places.
+Pub. L. 112–177, § 2(a)(2)(A)(iii), substituted “subsection (i)(1)(C)(ii)” for “subsection (i)(5)(C)(ii)” and “subsection (i)(1)(C)” for “subsection (i)(5)(C)” in two places.
 
-Subsec. (k)(6). Pub. L. 112–177, § 2(a)(4)(C)(i), (iii), redesignated par. (5) as (6) and substituted “for the purposes described in paragraphs (2), (3), and (4) and to carry out the goals established under subsection (*l*)” for “to carry out the goals established under subsection (*l*)”.
+Subsec. (k)(6). Pub. L. 112–177, § 2(a)(4)(C)(i), (iii), redesignated par. (5) as (6) and substituted “for the purposes described in paragraphs (2), (3), and (4) and to carry out the goals established under subsection (*l*)” for “to carry out the goals established under subsection (*l*)”.
 
-2007—Subsec. (i)(5)(C). Pub. L. 110–94, § 4(a), which directed substitution of “amount of $22,000,000 for each of fiscal years 2008 through 2012” for “amount of” and all that follows through the end of clause (v), was executed by making the substitution for “amount of—
+2007—Subsec. (i)(5)(C). Pub. L. 110–94, § 4(a), which directed substitution of “amount of $22,000,000 for each of fiscal years 2008 through 2012” for “amount of” and all that follows through the end of clause (v), was executed by making the substitution for “amount of—
 
 “(i) for fiscal year 2004, $26,000,000;
 
@@ -2275,7 +2275,7 @@ Subsec. (k)(6). Pub. L. 112–177, § 2(a)(4)(C)(i), (iii), redesignated par. 
 
 to reflect the probable intent of Congress. The words “amount of” appeared in the heading and twice in the text.
 
-Subsec. (i)(5)(D)(i). Pub. L. 110–94, § 4(b)(1)(A), substituted “shall be $71,000 for each of fiscal years 2008 through 2012; and” for “shall be—
+Subsec. (i)(5)(D)(i). Pub. L. 110–94, § 4(b)(1)(A), substituted “shall be $71,000 for each of fiscal years 2008 through 2012; and” for “shall be—
 
 “(I) for fiscal year 2004, $84,000;
 
@@ -2285,7 +2285,7 @@ Subsec. (i)(5)(D)(i). Pub. L. 110–94, § 4(b)(1)(A), substituted “shall be
 
 “(IV) for fiscal year 2008, $55,000; and”.
 
-Subsec. (i)(5)(D)(ii). Pub. L. 110–94, § 4(b)(1)(B), substituted “shall be $123,000 for each of fiscal years 2008 through 2012.” for “shall be—
+Subsec. (i)(5)(D)(ii). Pub. L. 110–94, § 4(b)(1)(B), substituted “shall be $123,000 for each of fiscal years 2008 through 2012.” for “shall be—
 
 “(I) for fiscal year 2004, $145,000;
 
@@ -2295,7 +2295,7 @@ Subsec. (i)(5)(D)(ii). Pub. L. 110–94, § 4(b)(1)(B), substituted “shall b
 
 “(IV) for fiscal year 2008, $95,000.”
 
-Subsec. (i)(5)(E)(i)(I). Pub. L. 110–94, § 4(b)(2)(A), substituted “shall be $50,000 for each of fiscal years 2008 through 2012; and” for “shall be—
+Subsec. (i)(5)(E)(i)(I). Pub. L. 110–94, § 4(b)(2)(A), substituted “shall be $50,000 for each of fiscal years 2008 through 2012; and” for “shall be—
 
 “(aa) for fiscal year 2004, $59,000;
 
@@ -2305,7 +2305,7 @@ Subsec. (i)(5)(E)(i)(I). Pub. L. 110–94, § 4(b)(2)(A), substituted “shall
 
 “(dd) for fiscal year 2008, $38,500; and”.
 
-Subsec. (i)(5)(E)(i)(II). Pub. L. 110–94, § 4(b)(2)(B), substituted “shall be $86,000 for each of fiscal years 2008 through 2012.” for “shall be—
+Subsec. (i)(5)(E)(i)(II). Pub. L. 110–94, § 4(b)(2)(B), substituted “shall be $86,000 for each of fiscal years 2008 through 2012.” for “shall be—
 
 “(aa) for fiscal year 2004, $102,000;
 
@@ -2315,43 +2315,43 @@ Subsec. (i)(5)(E)(i)(II). Pub. L. 110–94, § 4(b)(2)(B), substituted “shal
 
 “(dd) for fiscal year 2008, $66,500.”
 
-Subsec. (i)(5)(H). Pub. L. 110–94, § 4(c), substituted “2012.” for “2008”.
+Subsec. (i)(5)(H). Pub. L. 110–94, § 4(c), substituted “2012.” for “2008”.
 
-Subsec. (i)(6). Pub. L. 110–94, § 4(d)(1), substituted “2014” for “2010”.
+Subsec. (i)(6). Pub. L. 110–94, § 4(d)(1), substituted “2014” for “2010”.
 
-Subsec. (k)(2)(A). Pub. L. 110–94, § 4(e)(1), inserted “and to offset the costs of registration review under section 136a(g) of this title” after “paragraph (3)” wherever appearing.
+Subsec. (k)(2)(A). Pub. L. 110–94, § 4(e)(1), inserted “and to offset the costs of registration review under section 136a(g) of this title” after “paragraph (3)” wherever appearing.
 
-Subsec. (k)(3)(A). Pub. L. 110–94, § 4(e)(2), substituted “2008 through 2012” for “2007 and 2008”.
+Subsec. (k)(3)(A). Pub. L. 110–94, § 4(e)(2), substituted “2008 through 2012” for “2007 and 2008”.
 
-2004—Subsec. (g)(2)(A). Pub. L. 108–199, § 501(c)(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Within 1 year after the submission of all data concerning an active ingredient of a pesticide under subsection (f) of this section, the Administrator shall determine whether pesticides containing such active ingredient are eligible for reregistration. For extraordinary circumstances, the Administrator may extend such period for not more than 1 additional year.”
+2004—Subsec. (g)(2)(A). Pub. L. 108–199, § 501(c)(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Within 1 year after the submission of all data concerning an active ingredient of a pesticide under subsection (f) of this section, the Administrator shall determine whether pesticides containing such active ingredient are eligible for reregistration. For extraordinary circumstances, the Administrator may extend such period for not more than 1 additional year.”
 
-Subsec. (g)(2)(B). Pub. L. 108–199, § 501(c)(5)(B), inserted subpar. (B) and cl. (i) headings, designated first sentence of existing provisions as cl. (i), inserted cl. (ii) and subcl. (I) headings, designated second sentence of existing provisions as cl. (ii)(I), substituted “Subject to subclause (II), the Administrator” for “The Administrator” in subcl. (I), and added subcl. (II).
+Subsec. (g)(2)(B). Pub. L. 108–199, § 501(c)(5)(B), inserted subpar. (B) and cl. (i) headings, designated first sentence of existing provisions as cl. (i), inserted cl. (ii) and subcl. (I) headings, designated second sentence of existing provisions as cl. (ii)(I), substituted “Subject to subclause (II), the Administrator” for “The Administrator” in subcl. (I), and added subcl. (II).
 
-Subsec. (g)(2)(D). Pub. L. 108–199, § 501(c)(5)(C), inserted subpar. (D) and cl. (i) headings, designated existing provisions as cl. (i), and added cl. (ii).
+Subsec. (g)(2)(D). Pub. L. 108–199, § 501(c)(5)(C), inserted subpar. (D) and cl. (i) headings, designated existing provisions as cl. (i), and added cl. (ii).
 
-Subsec. (i)(5)(A). Pub. L. 108–199, § 501(c)(1)(A), inserted subpar. (A) heading and substituted “for each registration” for “of—
+Subsec. (i)(5)(A). Pub. L. 108–199, § 501(c)(1)(A), inserted subpar. (A) heading and substituted “for each registration” for “of—
 
 “(i) $650 for the first registration; and
 
 “(ii) $1,300 for each additional registration”.
 
-Subsec. (i)(5)(C). Pub. L. 108–199, § 501(c)(2), struck out cl. (i) designation before “The amount of each”, inserted subpar. (C) heading, substituted “aggregate amount of—” for “aggregate amount of $21,500,000 for fiscal year 2003.”, added cls. (i) to (v), and struck out former cl. (ii), which related to collection of additional fees in fiscal years 1998, 1999, and 2000.
+Subsec. (i)(5)(C). Pub. L. 108–199, § 501(c)(2), struck out cl. (i) designation before “The amount of each”, inserted subpar. (C) heading, substituted “aggregate amount of—” for “aggregate amount of $21,500,000 for fiscal year 2003.”, added cls. (i) to (v), and struck out former cl. (ii), which related to collection of additional fees in fiscal years 1998, 1999, and 2000.
 
-Subsec. (i)(5)(D). Pub. L. 108–199, § 501(c)(1)(B), inserted subpar. (D) heading, substituted “shall be—” for “shall be $55,000; and” and added subcls. (I) to (IV) in cl. (i), and substituted “shall be—” for “shall be $95,000.” and added subcls. (I) to (IV) in cl. (ii).
+Subsec. (i)(5)(D). Pub. L. 108–199, § 501(c)(1)(B), inserted subpar. (D) heading, substituted “shall be—” for “shall be $55,000; and” and added subcls. (I) to (IV) in cl. (i), and substituted “shall be—” for “shall be $95,000.” and added subcls. (I) to (IV) in cl. (ii).
 
-Subsec. (i)(5)(E)(i). Pub. L. 108–199, § 501(c)(1)(C), inserted subpar. (E) and cl. (i) headings, realigned margins of subcls. (I) and (II), substituted “shall be—” for “shall be $38,500; and” and inserted items (aa) to (dd) in subcl. (I), and substituted “shall be—” for “shall be $66,500.” and inserted items (aa) to (dd) in subcl. (II).
+Subsec. (i)(5)(E)(i). Pub. L. 108–199, § 501(c)(1)(C), inserted subpar. (E) and cl. (i) headings, realigned margins of subcls. (I) and (II), substituted “shall be—” for “shall be $38,500; and” and inserted items (aa) to (dd) in subcl. (I), and substituted “shall be—” for “shall be $66,500.” and inserted items (aa) to (dd) in subcl. (II).
 
-Subsec. (i)(5)(E)(ii). Pub. L. 108–199, § 501(c)(3), inserted cl. (ii) heading, redesignated existing provisions as subcl. (I), inserted subcl. (I) heading, substituted “In” for “For purposes of” in subcl. (I), redesignated former subcls. (I) and (II) as items (aa) and (bb) respectively, and realigned margins, substituted “500” for “150” in item (aa), substituted “global gross revenue from pesticides that did not exceed $60,000,000.” for “gross revenue from chemicals that did not exceed $40,000,000.” in item (bb), and added subcl. (II).
+Subsec. (i)(5)(E)(ii). Pub. L. 108–199, § 501(c)(3), inserted cl. (ii) heading, redesignated existing provisions as subcl. (I), inserted subcl. (I) heading, substituted “In” for “For purposes of” in subcl. (I), redesignated former subcls. (I) and (II) as items (aa) and (bb) respectively, and realigned margins, substituted “500” for “150” in item (aa), substituted “global gross revenue from pesticides that did not exceed $60,000,000.” for “gross revenue from chemicals that did not exceed $40,000,000.” in item (bb), and added subcl. (II).
 
-Subsec. (i)(5)(H). Pub. L. 108–199, § 501(c)(4), substituted “2008” for “2003”.
+Subsec. (i)(5)(H). Pub. L. 108–199, § 501(c)(4), substituted “2008” for “2003”.
 
-Subsec. (i)(6). Pub. L. 108–199, § 501(d)(1), substituted “Except as provided in section 136w–8 of this title, during” for “During”, and substituted “2010” for “2003”.
+Subsec. (i)(6). Pub. L. 108–199, § 501(d)(1), substituted “Except as provided in section 136w–8 of this title, during” for “During”, and substituted “2010” for “2003”.
 
 Subsec. (k)(2)(A)(i). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-Subsec. (k)(3). Pub. L. 108–199, § 501(e)(1), substituted “Review of inert ingredients; expedited” for “Expedited” in par. heading.
+Subsec. (k)(3). Pub. L. 108–199, § 501(e)(1), substituted “Review of inert ingredients; expedited” for “Expedited” in par. heading.
 
-Subsec. (k)(3)(A). Pub. L. 108–199, § 501(e)(2), substituted “2004 through 2006, approximately $3,300,000, and for each of fiscal years 2007 and 2008, between ⅛ and ⅐, of the maintenance fees” for “1997 through 2003, not more than ⅒ of the maintenance fees”, substituted “resources” for “resources to assure the expedited processing and review of any application that”, added cl. (i), inserted cl. (ii) designation and introductory provisions, and redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (ii).
+Subsec. (k)(3)(A). Pub. L. 108–199, § 501(e)(2), substituted “2004 through 2006, approximately $3,300,000, and for each of fiscal years 2007 and 2008, between ⅛ and ⅐, of the maintenance fees” for “1997 through 2003, not more than ⅒ of the maintenance fees”, substituted “resources” for “resources to assure the expedited processing and review of any application that”, added cl. (i), inserted cl. (ii) designation and introductory provisions, and redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (ii).
 
 2003—Pub. L. 108–7, which directed the amendment of “Section 136a–1 of title 7, U.S.C.”, was executed by making the amendments to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress. See below.
 
@@ -2373,65 +2373,65 @@ Subsec. (i)(6). Pub. L. 107–73, [(3)], substituted “2002” for “2001”.
 
 Subsec. (k)(3)(A). Pub. L. 107–73, [(4)], substituted “2002” for “2001” and “⅒” for “⅐” in introductory provisions.
 
-1996—Pub. L. 104–170, § 501, which directed amendment of section 4 without specifying the name of the Act being amended, was executed to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress.
+1996—Pub. L. 104–170, § 501, which directed amendment of section 4 without specifying the name of the Act being amended, was executed to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress.
 
-Subsec. (d)(4)(B). Pub. L. 104–170, § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
+Subsec. (d)(4)(B). Pub. L. 104–170, § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
 
-Subsec. (d)(6). Pub. L. 104–170, § 210(f)(1)(A), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
+Subsec. (d)(6). Pub. L. 104–170, § 210(f)(1)(A), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
 
-Subsec. (e)(2)(B). Pub. L. 104–170, § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
+Subsec. (e)(2)(B). Pub. L. 104–170, § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
 
-Subsec. (e)(3)(A). Pub. L. 104–170, § 210(f)(1)(B), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
+Subsec. (e)(3)(A). Pub. L. 104–170, § 210(f)(1)(B), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
 
-Subsec. (f)(2)(B). Pub. L. 104–170, § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
+Subsec. (f)(2)(B). Pub. L. 104–170, § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
 
-Subsec. (f)(3). Pub. L. 104–170, § 210(f)(1)(A), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
+Subsec. (f)(3). Pub. L. 104–170, § 210(f)(1)(A), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
 
-Subsec. (g)(2)(E). Pub. L. 104–170, § 103, added subpar. (E).
+Subsec. (g)(2)(E). Pub. L. 104–170, § 103, added subpar. (E).
 
-Subsec. (i)(4)(B) to (D). Pub. L. 104–170, § 232(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+Subsec. (i)(4)(B) to (D). Pub. L. 104–170, § 232(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (i)(5)(C). Pub. L. 104–170, § 501(a)(2), designated existing provisions as cl. (i) and added cl. (ii).
+Subsec. (i)(5)(C). Pub. L. 104–170, § 501(a)(2), designated existing provisions as cl. (i) and added cl. (ii).
 
-Subsec. (i)(5)(F), (G). Pub. L. 104–170, § 232(2), added subpar. (F) and redesignated former subpar. (F) as (G).
+Subsec. (i)(5)(F), (G). Pub. L. 104–170, § 232(2), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-Subsec. (i)(5)(H). Pub. L. 104–170, § 501(a)(1), substituted “2001” for “1997”.
+Subsec. (i)(5)(H). Pub. L. 104–170, § 501(a)(1), substituted “2001” for “1997”.
 
-Pub. L. 104–170, § 232(2), redesignated subpar. (G) as (H).
+Pub. L. 104–170, § 232(2), redesignated subpar. (G) as (H).
 
-Subsec. (i)(6). Pub. L. 104–170, § 501(a)(1), substituted “2001” for “1997”.
+Subsec. (i)(6). Pub. L. 104–170, § 501(a)(1), substituted “2001” for “1997”.
 
-Subsec. (i)(7)(B). Pub. L. 104–170, § 232(3), substituted “, to determine the registrant’s eligibility” for “or to determine the registrant’s eligibility” and inserted before period at end “, or to determine the volume usage for public health pesticides”.
+Subsec. (i)(7)(B). Pub. L. 104–170, § 232(3), substituted “, to determine the registrant’s eligibility” for “or to determine the registrant’s eligibility” and inserted before period at end “, or to determine the volume usage for public health pesticides”.
 
-Subsec. (k)(1). Pub. L. 104–170, § 501(b), inserted “which shall be known as the Reregistration and Expedited Processing Fund” before period at end.
+Subsec. (k)(1). Pub. L. 104–170, § 501(b), inserted “which shall be known as the Reregistration and Expedited Processing Fund” before period at end.
 
-Subsec. (k)(2). Pub. L. 104–170, § 501(c), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “All fees collected by the Administrator under subsection (i) of this section shall be deposited into the fund and shall be available to the Administrator, without fiscal year limitation, to carry out reregistration and expedited processing of similar applications.”
+Subsec. (k)(2). Pub. L. 104–170, § 501(c), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “All fees collected by the Administrator under subsection (i) of this section shall be deposited into the fund and shall be available to the Administrator, without fiscal year limitation, to carry out reregistration and expedited processing of similar applications.”
 
-Subsec. (k)(3)(A). Pub. L. 104–170, § 501(d)(1), which directed the amendment of introductory provisions by substituting “for each of the fiscal years 1997 through 2001, not more than ⅐ of the maintenance fees collected in such fiscal year” for “for each of the fiscal years 1992, 1993, and 1994, ⅐th of the maintenance fees collected, up to 2 million each year”, was executed by making the substitution for text which contained the phrase “$2 million”, to reflect the probable intent of Congress.
+Subsec. (k)(3)(A). Pub. L. 104–170, § 501(d)(1), which directed the amendment of introductory provisions by substituting “for each of the fiscal years 1997 through 2001, not more than ⅐ of the maintenance fees collected in such fiscal year” for “for each of the fiscal years 1992, 1993, and 1994, ⅐th of the maintenance fees collected, up to 2 million each year”, was executed by making the substitution for text which contained the phrase “$2 million”, to reflect the probable intent of Congress.
 
-Subsec. (k)(3)(A)(iii). Pub. L. 104–170, § 232(4), added cl. (iii).
+Subsec. (k)(3)(A)(iii). Pub. L. 104–170, § 232(4), added cl. (iii).
 
-Subsec. (k)(3)(C). Pub. L. 104–170, § 501(d)(2), added subpar. (C).
+Subsec. (k)(3)(C). Pub. L. 104–170, § 501(d)(2), added subpar. (C).
 
-Subsec. (k)(5). Pub. L. 104–170, § 501(e), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The Administrator shall—
+Subsec. (k)(5). Pub. L. 104–170, § 501(e), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The Administrator shall—
 
 “(A) provide an annual accounting of the fees collected and disbursed from the fund; and
 
 “(B) take all steps necessary to ensure that expenditures from such fund are used only to carry out this section.”
 
-Subsec. (*l*). Pub. L. 104–170, § 501(f), added subsec. (*l*). Former subsec. (*l*) redesignated (m).
+Subsec. (*l*). Pub. L. 104–170, § 501(f), added subsec. (*l*). Former subsec. (*l*) redesignated (m).
 
-Subsec. (m). Pub. L. 104–170, § 501(f), redesignated subsec. (*l*) as (m). Former subsec. (m) redesignated (n).
+Subsec. (m). Pub. L. 104–170, § 501(f), redesignated subsec. (*l*) as (m). Former subsec. (m) redesignated (n).
 
-Pub. L. 104–170, § 237, added subsec. (m).
+Pub. L. 104–170, § 237, added subsec. (m).
 
-Subsec. (n). Pub. L. 104–170, § 501(f), redesignated subsec. (m) as (n).
+Subsec. (n). Pub. L. 104–170, § 501(f), redesignated subsec. (m) as (n).
 
-1991—Subsec. (f)(3). Pub. L. 102–237, § 1006(a)(4), realigned margin.
+1991—Subsec. (f)(3). Pub. L. 102–237, § 1006(a)(4), realigned margin.
 
-Subsec. (i)(5). Pub. L. 102–237, § 1006(e), amended par. (5) generally, substituting, in subpar. (A), provisions relating to January 15 for provisions relating to March 1, in subpar. (A)(i), provisions relating to fee of $650 for first registration for provisions relating to fee of $425 for each registration for registrants holding not more than 50 registrations, and in subpar. (A)(ii), provisions relating to fee of $1,300 for each additional registration up to 200 registrations, with no fee thereafter, for provisions relating to fee of $425 for each registration up to 50, $100 for each registration over 50, with no fee after 200 registrations, redesignating provisions formerly set out in subpar. (A), following cl. (ii), as subpar. (B), and substituting provisions relating to fee under this par. for provisions relating to fee under this subpar., redesignating former subpar. (B) as (C), striking former subpar. (C), which set maximum annual fee for registrants under subpar. (A)(i) at $20,000, and for registrants under subpar. (A)(ii) at $35,000, adding subpars. (D) and (E), and redesignating former subpars. (D) and (E) as (F) and (G), respectively.
+Subsec. (i)(5). Pub. L. 102–237, § 1006(e), amended par. (5) generally, substituting, in subpar. (A), provisions relating to January 15 for provisions relating to March 1, in subpar. (A)(i), provisions relating to fee of $650 for first registration for provisions relating to fee of $425 for each registration for registrants holding not more than 50 registrations, and in subpar. (A)(ii), provisions relating to fee of $1,300 for each additional registration up to 200 registrations, with no fee thereafter, for provisions relating to fee of $425 for each registration up to 50, $100 for each registration over 50, with no fee after 200 registrations, redesignating provisions formerly set out in subpar. (A), following cl. (ii), as subpar. (B), and substituting provisions relating to fee under this par. for provisions relating to fee under this subpar., redesignating former subpar. (B) as (C), striking former subpar. (C), which set maximum annual fee for registrants under subpar. (A)(i) at $20,000, and for registrants under subpar. (A)(ii) at $35,000, adding subpars. (D) and (E), and redesignating former subpars. (D) and (E) as (F) and (G), respectively.
 
-Subsec. (k)(3)(A). Pub. L. 102–237, § 1006(f), substituted “for each of the fiscal years 1992, 1993, and 1994, ⅐th of the maintenance fees collected, up to $2 million each year” for “each fiscal year not more than $2,000,000 of the amounts in the fund”.
+Subsec. (k)(3)(A). Pub. L. 102–237, § 1006(f), substituted “for each of the fiscal years 1992, 1993, and 1994, ⅐th of the maintenance fees collected, up to $2 million each year” for “each fiscal year not more than $2,000,000 of the amounts in the fund”.
 
 1990—Subsec. (i)(5)(A). Pub. L. 101–624 inserted sentence at end relating to reduction or waiver of fee where pesticide is registered for minor agricultural use.
 
@@ -2439,7 +2439,7 @@ Subsec. (k)(3)(A). Pub. L. 102–237, § 1006(f), substituted “for each of t
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–177, § 2(c), Sept. 28, 2012, 126 Stat. 1407, provided that: “This section [amending this section, section 136w–8 of this title, and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under this section] and the amendments made by this section take effect on October 1, 2012.”
+Pub. L. 112–177, § 2(c), Sept. 28, 2012, 126 Stat. 1407, provided that: “This section [amending this section, section 136w–8 of this title, and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under this section] and the amendments made by this section take effect on October 1, 2012.”
 
 **Effective Date of 2007 Amendment**
 
@@ -2455,7 +2455,7 @@ Section effective on expiration of 60 days after Oct. 25, 1988, see section 901 
 
 **Implementation Dates With Respect to Fees**
 
-Pub. L. 117–328, div. HH, title VI, § 708, Dec. 29, 2022, 136 Stat. 6082, provided that:
+Pub. L. 117–328, div. HH, title VI, § 708, Dec. 29, 2022, 136 Stat. 6082, provided that:
 
 > **“(a) Fee Increases.—**
 
@@ -2467,27 +2467,27 @@ Pub. L. 117–328, div. HH, title VI, § 708, Dec. 29, 2022, 136 Stat. 6082, p
 
 **Extension of Limitations on Fee Amounts and Usage of Fees**
 
-Pub. L. 115–141, div. M, title IV, § 401(a), Mar. 23, 2018, 132 Stat. 1049, provided that subsecs. (i)(1)(C)–(E) and (k)(3), (4) of this section and section 136w–8(c)(3)(B) of this title would continue in effect through Sept. 30, 2018.
+Pub. L. 115–141, div. M, title IV, § 401(a), Mar. 23, 2018, 132 Stat. 1049, provided that subsecs. (i)(1)(C)–(E) and (k)(3), (4) of this section and section 136w–8(c)(3)(B) of this title would continue in effect through Sept. 30, 2018.
 
-Pub. L. 115–141, div. M, title IV, § 401(b)(1), Mar. 23, 2018, 132 Stat. 1050, extended the authority under subsec. (i)(1) of this section through Sept. 30, 2018.
+Pub. L. 115–141, div. M, title IV, § 401(b)(1), Mar. 23, 2018, 132 Stat. 1050, extended the authority under subsec. (i)(1) of this section through Sept. 30, 2018.
 
 **Relationship of Pub. L. 112–177 to Other Law**
 
-Pub. L. 112–177, § 2(d), Sept. 28, 2012, 126 Stat. 1407, provided that: “In the case of any conflict between this section [amending this section, section 136w–8 of this title, and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under this section] (including the amendments made by this section) and a joint resolution making continuing appropriations for fiscal year 2013 (including any amendments made by such a joint resolution), this section and the amendments made by this section shall control.”
+Pub. L. 112–177, § 2(d), Sept. 28, 2012, 126 Stat. 1407, provided that: “In the case of any conflict between this section [amending this section, section 136w–8 of this title, and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under this section] (including the amendments made by this section) and a joint resolution making continuing appropriations for fiscal year 2013 (including any amendments made by such a joint resolution), this section and the amendments made by this section shall control.”
 
 **Adjustment of Maximum Annual Fee Payable by Pesticide Registrants**
 
 Pub. L. 108–11, title II, Apr. 16, 2003, 117 Stat. 603, provided that: “Within 30 days of enactment of this Act [Apr. 16, 2003], the Administrator of the Environmental Protection Agency shall adjust each ‘maximum annual fee payable’ pursuant to 7 U.S.C. 136a–1(i)(5)(D) and (E) in a manner such that maintenance fee collections made to reach the level authorized in division K of Public Law 108–7 [see Tables for classification] shall be established in the same proportion as those maintenance fee collections authorized in Public Law 107–73 [see Tables for classification].”
 
-### § 136b. Transferred
+### § 136b. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 25, 1947, ch. 125, § 4, as added Oct. 21, 1972, Pub. L. 92–516, § 2, 86 Stat. 983; amended Nov. 28, 1975, Pub. L. 94–140, §§ 5, 11, 89 Stat. 753, 754; Sept. 30, 1978, Pub. L. 95–396, § 9, 92 Stat. 827; Oct. 25, 1988, Pub. L. 100–532, title VIII, § 801(c), (q)(1)(A), (B), 102 Stat. 2681, 2683, which related to use of restricted use pesticides and certification of applicators, was transferred to subsecs. (a) to (c) of section 11 of act June 25, 1947, by section 801(q)(1)(A) of Pub. L. 100–532 and is classified to section 136i(a) to (c) of this title.
+Section, act June 25, 1947, ch. 125, § 4, as added Oct. 21, 1972, Pub. L. 92–516, § 2, 86 Stat. 983; amended Nov. 28, 1975, Pub. L. 94–140, §§ 5, 11, 89 Stat. 753, 754; Sept. 30, 1978, Pub. L. 95–396, § 9, 92 Stat. 827; Oct. 25, 1988, Pub. L. 100–532, title VIII, § 801(c), (q)(1)(A), (B), 102 Stat. 2681, 2683, which related to use of restricted use pesticides and certification of applicators, was transferred to subsecs. (a) to (c) of section 11 of act June 25, 1947, by section 801(q)(1)(A) of Pub. L. 100–532 and is classified to section 136i(a) to (c) of this title.
 
-### § 136c. Experimental use permits
+### § 136c. Experimental use permits
 
 **(a) Issuance**
 
@@ -2517,7 +2517,7 @@ Notwithstanding the foregoing provisions of this section, the Administrator shal
 
 Notwithstanding the foregoing provisions of this section, the Administrator may issue an experimental use permit for a pesticide to any public or private agricultural research agency or educational institution which applies for such permit. Each permit shall not exceed more than a one-year period or such other specific time as the Administrator may prescribe. Such permit shall be issued under such terms and conditions restricting the use of the pesticide as the Administrator may require. Such pesticide may be used only by such research agency or educational institution for purposes of experimentation.
 
-(June 25, 1947, ch. 125, § 5, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 983; amended Pub. L. 94–140, § 10, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, § 10, Sept. 30, 1978, 92 Stat. 828; Pub. L. 100–532, title VIII, § 801(d), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, § 1006(b)(1), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 116–8, § 4, Mar. 8, 2019, 133 Stat. 487.)
+(June 25, 1947, ch. 125, § 5, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 983; amended Pub. L. 94–140, § 10, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, § 10, Sept. 30, 1978, 92 Stat. 828; Pub. L. 100–532, title VIII, § 801(d), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, § 1006(b)(1), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 116–8, § 4, Mar. 8, 2019, 133 Stat. 487.)
 
 **Editorial Notes**
 
@@ -2531,13 +2531,13 @@ A prior section 5 of act June 25, 1947, was classified to section 135c of this t
 
 1991—Subsecs. (b), (e), (f). Pub. L. 102–237 substituted “the Administrator” for “he” before “may” in subsec. (b), before “finds” in subsec. (e), and before “may” in subsec. (f).
 
-1988—Subsec. (f). Pub. L. 100–532, § 801(q)(1)(D), substituted “136i” for “136b”.
+1988—Subsec. (f). Pub. L. 100–532, § 801(q)(1)(D), substituted “136i” for “136b”.
 
-Subsec. (g). Pub. L. 100–532, § 801(d), substituted “require. Such pesticide” for “require: *Provided*, That such pesticide”.
+Subsec. (g). Pub. L. 100–532, § 801(d), substituted “require. Such pesticide” for “require: *Provided*, That such pesticide”.
 
-1978—Subsec. (a). Pub. L. 95–396, § 10(1), provided for review of application, issuance or nonissuance of experimental use permit within prescribed period including reasons for denial, correction of application, and waiver of conditions and substituted provision for filing an application for experimental use permit at any time for prior provision for filing at the time of or before or after an application for registration is filed.
+1978—Subsec. (a). Pub. L. 95–396, § 10(1), provided for review of application, issuance or nonissuance of experimental use permit within prescribed period including reasons for denial, correction of application, and waiver of conditions and substituted provision for filing an application for experimental use permit at any time for prior provision for filing at the time of or before or after an application for registration is filed.
 
-Subsec. (f). Pub. L. 95–396, § 10(2), substituted in first sentence “shall” for “may” where first appearing.
+Subsec. (f). Pub. L. 95–396, § 10(2), substituted in first sentence “shall” for “may” where first appearing.
 
 1975—Subsec. (g). Pub. L. 94–140 added subsec. (g).
 
@@ -2551,7 +2551,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136d. Administrative review; suspension
+### § 136d. Administrative review; suspension
 
 **(a) Existing stocks and information**
 
@@ -2651,7 +2651,7 @@ The Administrator shall transmit a copy of each notice submitted under this subs
 
 Final orders of the Administrator under this section shall be subject to judicial review pursuant to section 136n of this title.
 
-(June 25, 1947, ch. 125, § 6, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 984; amended Pub. L. 94–140, § 1, Nov. 28, 1975, 89 Stat. 751; Pub. L. 95–251, § 2(a)(2), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–396, §§ 11, 12, Sept. 30, 1978, 92 Stat. 828; Pub. L. 98–620, title IV, § 402(4)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title II, § 201, title IV, § 404, title VIII, § 801(e), (q)(2)(B), Oct. 25, 1988, 102 Stat. 2668, 2673, 2681, 2683; Pub. L. 101–624, title XIV, § 1494, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, § 1006(a)(5), (b)(1), (2), (3)(C)–(E), Dec. 13, 1991, 105 Stat. 1895, 1896; Pub. L. 104–170, title I, §§ 102, 106(a), title II, §§ 210(g), (h), 233, Aug. 3, 1996, 110 Stat. 1489, 1491, 1500, 1509.)
+(June 25, 1947, ch. 125, § 6, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 984; amended Pub. L. 94–140, § 1, Nov. 28, 1975, 89 Stat. 751; Pub. L. 95–251, § 2(a)(2), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–396, §§ 11, 12, Sept. 30, 1978, 92 Stat. 828; Pub. L. 98–620, title IV, § 402(4)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title II, § 201, title IV, § 404, title VIII, § 801(e), (q)(2)(B), Oct. 25, 1988, 102 Stat. 2668, 2673, 2681, 2683; Pub. L. 101–624, title XIV, § 1494, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, § 1006(a)(5), (b)(1), (2), (3)(C)–(E), Dec. 13, 1991, 105 Stat. 1895, 1896; Pub. L. 104–170, title I, §§ 102, 106(a), title II, §§ 210(g), (h), 233, Aug. 3, 1996, 110 Stat. 1489, 1491, 1500, 1509.)
 
 **Editorial Notes**
 
@@ -2665,61 +2665,61 @@ A prior section 6 of act June 25, 1947, was classified to section 135d of this t
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–170, § 106(a)(1), substituted “Existing stocks and information” for “Cancellation after five years” in heading.
+1996—Subsec. (a). Pub. L. 104–170, § 106(a)(1), substituted “Existing stocks and information” for “Cancellation after five years” in heading.
 
-Subsec. (a)(1). Pub. L. 104–170, § 106(a)(2), amended heading and text generally. Prior to amendment, text read as follows: “The Administrator shall cancel the registration of any pesticide at the end of the five-year period which begins on the date of its registration (or at the end of any five year period thereafter) unless the registrant, or other interested person with the concurrence of the registrant, before the end of such period, requests in accordance with regulations prescribed by the Administrator that the registration be continued in effect. The Administrator may permit the continued sale and use of existing stocks of a pesticide whose registration is canceled under this subsection or subsection (b) of this section to such extent, under such conditions, and for such uses as the Administrator may specify if the Administrator determines that such sale or use is not inconsistent with the purposes of this subchapter and will not have unreasonable adverse effects on the environment. The Administrator shall publish in the Federal Register, at least 30 days prior to the expiration of such five-year period, notice that the registration will be canceled if the registrant or other interested person with the concurrence of the registrant does not request that the registration be continued in effect.”
+Subsec. (a)(1). Pub. L. 104–170, § 106(a)(2), amended heading and text generally. Prior to amendment, text read as follows: “The Administrator shall cancel the registration of any pesticide at the end of the five-year period which begins on the date of its registration (or at the end of any five year period thereafter) unless the registrant, or other interested person with the concurrence of the registrant, before the end of such period, requests in accordance with regulations prescribed by the Administrator that the registration be continued in effect. The Administrator may permit the continued sale and use of existing stocks of a pesticide whose registration is canceled under this subsection or subsection (b) of this section to such extent, under such conditions, and for such uses as the Administrator may specify if the Administrator determines that such sale or use is not inconsistent with the purposes of this subchapter and will not have unreasonable adverse effects on the environment. The Administrator shall publish in the Federal Register, at least 30 days prior to the expiration of such five-year period, notice that the registration will be canceled if the registrant or other interested person with the concurrence of the registrant does not request that the registration be continued in effect.”
 
-Subsec. (b). Pub. L. 104–170, § 233, inserted “When a public health use is affected, the Secretary of Health and Human Services should provide available benefits and use information, or an analysis thereof, in accordance with the procedures followed and subject to the same conditions as the Secretary of Agriculture in the case of agricultural pesticides.” before “The proposed action shall become final”.
+Subsec. (b). Pub. L. 104–170, § 233, inserted “When a public health use is affected, the Secretary of Health and Human Services should provide available benefits and use information, or an analysis thereof, in accordance with the procedures followed and subject to the same conditions as the Secretary of Agriculture in the case of agricultural pesticides.” before “The proposed action shall become final”.
 
-Subsec. (c)(1). Pub. L. 104–170, § 102(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “No order of suspension may be issued unless the Administrator has issued or at the same time issues notice of the Administrator’s intention to cancel the registration or change the classification of the pesticide.”
+Subsec. (c)(1). Pub. L. 104–170, § 102(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “No order of suspension may be issued unless the Administrator has issued or at the same time issues notice of the Administrator’s intention to cancel the registration or change the classification of the pesticide.”
 
-Subsec. (c)(3). Pub. L. 104–170, § 102(b), inserted after first sentence “The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire.” and substituted “In the case of an emergency order” for “In that case”.
+Subsec. (c)(3). Pub. L. 104–170, § 102(b), inserted after first sentence “The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire.” and substituted “In the case of an emergency order” for “In that case”.
 
-Subsec. (f)(1)(C)(ii). Pub. L. 104–170, § 210(g)(1), substituted “180-day” for “90-day” in two places.
+Subsec. (f)(1)(C)(ii). Pub. L. 104–170, § 210(g)(1), substituted “180-day” for “90-day” in two places.
 
-Subsec. (f)(3)(A). Pub. L. 104–170, § 210(g)(2), substituted “180-day” for “90-day”.
+Subsec. (f)(3)(A). Pub. L. 104–170, § 210(g)(2), substituted “180-day” for “90-day”.
 
-Subsec. (f)(4). Pub. L. 104–170, § 210(h), added par. (4).
+Subsec. (f)(4). Pub. L. 104–170, § 210(h), added par. (4).
 
-1991—Subsec. (a)(1). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “may specify” and before “determines”.
+1991—Subsec. (a)(1). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “may specify” and before “determines”.
 
-Subsec. (a)(2). Pub. L. 102–237, § 1006(b)(3)(C), substituted “the registrant” for “he” before “shall”.
+Subsec. (a)(2). Pub. L. 102–237, § 1006(b)(3)(C), substituted “the registrant” for “he” before “shall”.
 
-Subsec. (b). Pub. L. 102–237, § 1006(b)(1), (2), substituted “the Administrator’s” for “his” in introductory provisions and par. (1), and “the Administrator” for “he” before “shall publish” in last sentence.
+Subsec. (b). Pub. L. 102–237, § 1006(b)(1), (2), substituted “the Administrator’s” for “his” in introductory provisions and par. (1), and “the Administrator” for “he” before “shall publish” in last sentence.
 
-Subsec. (c)(1). Pub. L. 102–237, § 1006(b)(1), (2), substituted “the Administrator” for “he” before “may” and “the Administrator’s” for “his” before “intention”.
+Subsec. (c)(1). Pub. L. 102–237, § 1006(b)(1), (2), substituted “the Administrator” for “he” before “may” and “the Administrator’s” for “his” before “intention”.
 
-Subsec. (c)(3). Pub. L. 102–237, § 1006(b)(1), (3)(D), substituted “the Administrator” for “he” before “may” and “the Administrator” for “him” after “permit”.
+Subsec. (c)(3). Pub. L. 102–237, § 1006(b)(1), (3)(D), substituted “the Administrator” for “he” before “may” and “the Administrator” for “him” after “permit”.
 
-Subsec. (d). Pub. L. 102–237, § 1006(b)(2), (3)(E), in penultimate sentence substituted “the Administrator’s” for “his” and “the Administrator” for “him” before “and issue”.
+Subsec. (d). Pub. L. 102–237, § 1006(b)(2), (3)(E), in penultimate sentence substituted “the Administrator’s” for “his” and “the Administrator” for “him” before “and issue”.
 
-Subsec. (f)(3)(B). Pub. L. 102–237, § 1006(a)(5), substituted “adverse effect” for “adverse affect”.
+Subsec. (f)(3)(B). Pub. L. 102–237, § 1006(a)(5), substituted “adverse effect” for “adverse affect”.
 
-1990—Subsec. (f)(1). Pub. L. 101–624, § 1494(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A registrant at any time may request that any of its pesticide registrations be canceled or be amended to delete one or more uses. Before acting on such request, the Administrator shall publish in the Federal Register a notice of the receipt of the request. Thereafter, the Administrator may approve such a request.”
+1990—Subsec. (f)(1). Pub. L. 101–624, § 1494(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A registrant at any time may request that any of its pesticide registrations be canceled or be amended to delete one or more uses. Before acting on such request, the Administrator shall publish in the Federal Register a notice of the receipt of the request. Thereafter, the Administrator may approve such a request.”
 
-Subsec. (f)(3). Pub. L. 101–624, § 1494(2), added par. (3).
+Subsec. (f)(3). Pub. L. 101–624, § 1494(2), added par. (3).
 
-1988—Subsec. (a)(1). Pub. L. 100–532, § 801(e)(1), substituted “effect. The Administrator” for “effect: *Provided*, That the Administrator”.
+1988—Subsec. (a)(1). Pub. L. 100–532, § 801(e)(1), substituted “effect. The Administrator” for “effect: *Provided*, That the Administrator”.
 
-Subsec. (c). Pub. L. 100–532, § 801(e)(2)–(4), in par. (1) directed that undesignated paragraph beginning “Except as provided” be run into sentence ending “of the pesticide.” and substituted “before the Administrator” for “before the Agency”, in par. (2) substituted “submitted to the Administrator” for “submitted to the Agency” and “and the Administrator” for “and the Agency”, and in par. (3) substituted “(A)” for “(i)”, “and the Administrator” for “and the Agency”, and “(B)” for “(ii)”.
+Subsec. (c). Pub. L. 100–532, § 801(e)(2)–(4), in par. (1) directed that undesignated paragraph beginning “Except as provided” be run into sentence ending “of the pesticide.” and substituted “before the Administrator” for “before the Agency”, in par. (2) substituted “submitted to the Administrator” for “submitted to the Agency” and “and the Administrator” for “and the Agency”, and in par. (3) substituted “(A)” for “(i)”, “and the Administrator” for “and the Agency”, and “(B)” for “(ii)”.
 
-Subsec. (e). Pub. L. 100–532, § 801(e)(5), (6), in par. (1), substituted “met. The Administrator” for “met: *Provided*, That the Administrator”, and in par. (2), substituted “section. The only” for “section: *Provided*, That the only”.
+Subsec. (e). Pub. L. 100–532, § 801(e)(5), (6), in par. (1), substituted “met. The Administrator” for “met: *Provided*, That the Administrator”, and in par. (2), substituted “section. The only” for “section: *Provided*, That the only”.
 
-Subsec. (f). Pub. L. 100–532, § 201, added subsec. (f). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 100–532, § 201, added subsec. (f). Former subsec. (f) redesignated (h).
 
-Subsec. (f)(2). Pub. L. 100–532, § 801(q)(2)(B), made a technical amendment to the reference to section 136a–1 of this title to reflect the renumbering of the corresponding section of the original act.
+Subsec. (f)(2). Pub. L. 100–532, § 801(q)(2)(B), made a technical amendment to the reference to section 136a–1 of this title to reflect the renumbering of the corresponding section of the original act.
 
-Subsec. (g). Pub. L. 100–532, § 404, added subsec. (g).
+Subsec. (g). Pub. L. 100–532, § 404, added subsec. (g).
 
-Subsec. (h). Pub. L. 100–532, § 201, redesignated former subsec. (f) as (h).
+Subsec. (h). Pub. L. 100–532, § 201, redesignated former subsec. (f) as (h).
 
 1984—Subsec. (c)(4). Pub. L. 98–620 struck out provisions requiring petitions to review orders on the issue of suspension to be advanced on the docket of the court of appeals.
 
-1978—Subsec. (b). Pub. L. 95–396, § 11, required the Administrator, in taking any final action under subsec. (b), to consider restricting a pesticide’s use or uses as an alternative to cancellation and to fully explain the reasons for the restrictions.
+1978—Subsec. (b). Pub. L. 95–396, § 11, required the Administrator, in taking any final action under subsec. (b), to consider restricting a pesticide’s use or uses as an alternative to cancellation and to fully explain the reasons for the restrictions.
 
 Subsec. (c)(2). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-Subsecs. (e), (f). Pub. L. 95–396, § 12, added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 95–396, § 12, added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1975—Subsec. (b). Pub. L. 94–140 established criteria which Administrator must use in determining the issuance of a suspension of registration notice and the time periods relating to such notice, set forth required procedures to be followed by Administrator prior to publication of such notice, required procedures when the Secretary elects to comment or fails to comment on suspension notice, waiver or modification of time periods in specified required procedures, required procedures for waiver of notice and consent by Secretary for suspension of registration, and established criteria for Secretary taking any final action.
 
@@ -2737,7 +2737,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136e. Registration of establishments
+### § 136e. Registration of establishments
 
 **(a) Requirement**
 
@@ -2765,7 +2765,7 @@ The information required by this paragraph shall be kept current and submitted t
 
 Any information submitted to the Administrator pursuant to subsection (c) other than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of section 136h of this title.
 
-(June 25, 1947, ch. 125, § 7, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 987; amended Pub. L. 95–396, § 13, Sept. 30, 1978, 92 Stat. 829; Pub. L. 102–237, title X, § 1006(b)(1), (3)(F), (G), Dec. 13, 1991, 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, § 7, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 987; amended Pub. L. 95–396, § 13, Sept. 30, 1978, 92 Stat. 829; Pub. L. 102–237, title X, § 1006(b)(1), (3)(F), (G), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 **Editorial Notes**
 
@@ -2775,17 +2775,17 @@ A prior section 7 of act June 25, 1947, was classified to section 135e of this t
 
 **Amendments**
 
-1991—Subsec. (b). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall”.
+1991—Subsec. (b). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall”.
 
-Subsec. (c)(1)(A) to (C). Pub. L. 102–237, § 1006(b)(3)(F), substituted “the producer” for “he”.
+Subsec. (c)(1)(A) to (C). Pub. L. 102–237, § 1006(b)(3)(F), substituted “the producer” for “he”.
 
-Subsec. (c)(2). Pub. L. 102–237, § 1006(b)(3)(G), substituted “the Administrator” for “him” after “inform” and “the producer” for “he”.
+Subsec. (c)(2). Pub. L. 102–237, § 1006(b)(3)(G), substituted “the Administrator” for “him” after “inform” and “the producer” for “he”.
 
-1978—Subsec. (a). Pub. L. 95–396, § 13(1), made requirement of registration applicable to production of active ingredient used in producing a pesticide subject to this subchapter.
+1978—Subsec. (a). Pub. L. 95–396, § 13(1), made requirement of registration applicable to production of active ingredient used in producing a pesticide subject to this subchapter.
 
-Subsec. (c)(1). Pub. L. 95–396, § 13(2), required information pertaining to types and amounts of active ingredients used in producing pesticides where applicable.
+Subsec. (c)(1). Pub. L. 95–396, § 13(2), required information pertaining to types and amounts of active ingredients used in producing pesticides where applicable.
 
-Subsec. (d). Pub. L. 95–396, § 13(3), considered names of pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment as not being confidential information.
+Subsec. (d). Pub. L. 95–396, § 13(3), considered names of pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment as not being confidential information.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2793,7 +2793,7 @@ Subsec. (d). Pub. L. 95–396, § 13(3), considered names of pesticides or act
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136f. Books and records
+### § 136f. Books and records
 
 **(a) Requirements**
 
@@ -2803,7 +2803,7 @@ The Administrator may prescribe regulations requiring producers, registrants, an
 
 For the purposes of enforcing the provisions of this subchapter, any producer, distributor, carrier, dealer, or any other person who sells or offers for sale, delivers or offers for delivery any pesticide or device subject to this subchapter, shall, upon request of any officer or employee of the Environmental Protection Agency or of any State or political subdivision, duly designated by the Administrator, furnish or permit such person at all reasonable times to have access to, and to copy: (1) all records showing the delivery, movement, or holding of such pesticide or device, including the quantity, the date of shipment and receipt, and the name of the consignor and consignee; or (2) in the event of the inability of any person to produce records containing such information, all other records and information relating to such delivery, movement, or holding of the pesticide or device. Any inspection with respect to any rec­ords and information referred to in this subsection shall not extend to financial data, sales data other than shipment data, pricing data, personnel data; and research data (other than data relating to registered pesticides or to a pesticide for which an application for registration has been filed). Before undertaking an inspection under this subsection, the officer or employee must present to the owner, operator, or agent in charge of the establishment or other place where pesticides or devices are held for distribution or sale, appropriate credentials and a written statement as to the reason for the inspection, including a statement as to whether a violation of the law is suspected. If no violation is suspected, an alternate and sufficient reason shall be given in writing. Each such inspection shall be commenced and completed with reasonable promptness.
 
-(June 25, 1947, ch. 125, § 8, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 987; amended Pub. L. 95–396, § 14, Sept. 30, 1978, 92 Stat. 829; Pub. L. 100–532, title III, § 301, Oct. 25, 1988, 102 Stat. 2668; Pub. L. 102–237, title X, § 1006(b)(1), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, § 8, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 987; amended Pub. L. 95–396, § 14, Sept. 30, 1978, 92 Stat. 829; Pub. L. 100–532, title III, § 301, Oct. 25, 1988, 102 Stat. 2668; Pub. L. 102–237, title X, § 1006(b)(1), Dec. 13, 1991, 105 Stat. 1895.)
 
 **Editorial Notes**
 
@@ -2815,7 +2815,7 @@ A prior section 8 of act June 25, 1947, was classified to section 135f of this t
 
 1991—Subsec. (a). Pub. L. 102–237 substituted “the Administrator” for “he” before “determines”.
 
-1988—Subsec. (a). Pub. L. 100–532 inserted “, registrants, and applicants for registration” after “requiring producers” and “and to make the records available for inspection and copying in the same manner as provided in subsection (b) of this section” before period at end of first sentence.
+1988—Subsec. (a). Pub. L. 100–532 inserted “, registrants, and applicants for registration” after “requiring producers” and “and to make the records available for inspection and copying in the same manner as provided in subsection (b) of this section” before period at end of first sentence.
 
 1978—Subsec. (b). Pub. L. 95–396 required, in connection with inspection of records and information, the presentation of credentials, written statement as to the reason for inspection, including statement of suspected violation, or an alternative but sufficient reason, and commencement and completion of inspection with reasonable promptness.
 
@@ -2829,7 +2829,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136g. Inspection of establishments, etc.
+### § 136g. Inspection of establishments, etc.
 
 **(a) In general**
 
@@ -2859,7 +2859,7 @@ The notice of contemplated proceedings and opportunity to present views set fort
 
 Nothing in this subchapter shall be construed as requiring the Administrator to institute proceedings for prosecution of minor violations of this subchapter whenever the Administrator believes that the public interest will be adequately served by a suitable written notice of warning.
 
-(June 25, 1947, ch. 125, § 9, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 988; amended Pub. L. 100–532, title III, § 302, Oct. 25, 1988, 102 Stat. 2669; Pub. L. 102–237, title X, § 1006(b)(1), (3)(H), (I), Dec. 13, 1991, 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, § 9, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 988; amended Pub. L. 100–532, title III, § 302, Oct. 25, 1988, 102 Stat. 2669; Pub. L. 102–237, title X, § 1006(b)(1), (3)(H), (I), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 **Editorial Notes**
 
@@ -2869,15 +2869,15 @@ A prior section 9 of act June 25, 1947, was classified to section 135g of this t
 
 **Amendments**
 
-1991—Subsec. (a)(2). Pub. L. 102–237, § 1006(b)(3)(H), substituted “the officer or employee” for “he” before “shall” in fourth sentence.
+1991—Subsec. (a)(2). Pub. L. 102–237, § 1006(b)(3)(H), substituted “the officer or employee” for “he” before “shall” in fourth sentence.
 
-Subsec. (c)(1). Pub. L. 102–237, § 1006(b)(3)(I), substituted “the person’s” for “his” in third sentence.
+Subsec. (c)(1). Pub. L. 102–237, § 1006(b)(3)(I), substituted “the person’s” for “his” in third sentence.
 
-Subsec. (c)(3). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “believes”.
+Subsec. (c)(3). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “believes”.
 
-1988—Subsec. (a). Pub. L. 100–532, § 302(a), substituted “(1) For purposes of” for “For purposes of”, inserted “of the Environmental Protection Agency or of any State”, substituted “at reasonable times (A)” for “at reasonable times,”, added cl. (B), and substituted “(2) Before” for “Before”.
+1988—Subsec. (a). Pub. L. 100–532, § 302(a), substituted “(1) For purposes of” for “For purposes of”, inserted “of the Environmental Protection Agency or of any State”, substituted “at reasonable times (A)” for “at reasonable times,”, added cl. (B), and substituted “(2) Before” for “Before”.
 
-Subsec. (b)(1). Pub. L. 100–532, § 302(b), amended par. (1) generally, substituting “entry, inspection, and copying of records for purposes of this section or section 136f of this title” for “entry for the purpose of this section”.
+Subsec. (b)(1). Pub. L. 100–532, § 302(b), amended par. (1) generally, substituting “entry, inspection, and copying of records for purposes of this section or section 136f of this title” for “entry for the purpose of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2889,7 +2889,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136h. Protection of trade secrets and other information
+### § 136h. Protection of trade secrets and other information
 
 **(a) In general**
 
@@ -2941,7 +2941,7 @@ Information otherwise protected from disclosure to the public under subsection (
 
 **(3)** Section 1001 of title 18 shall apply to any affirmation made under paragraph (1) of this subsection.
 
-(June 25, 1947, ch. 125, § 10, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 989; amended Pub. L. 95–396, § 15, Sept. 30, 1978, 92 Stat. 829; Pub. L. 98–620, title IV, § 402(4)(B), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title VIII, § 801(f), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(b)(1), (2), (3)(J), Dec. 13, 1991, 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, § 10, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 989; amended Pub. L. 95–396, § 15, Sept. 30, 1978, 92 Stat. 829; Pub. L. 98–620, title IV, § 402(4)(B), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title VIII, § 801(f), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(b)(1), (2), (3)(J), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 **Editorial Notes**
 
@@ -2951,19 +2951,19 @@ A prior section 10 of act June 25, 1947, was classified to section 135h of this 
 
 **Amendments**
 
-1991—Subsec. (a). Pub. L. 102–237, § 1006(b)(3)(J), substituted “the applicant’s” for “his”.
+1991—Subsec. (a). Pub. L. 102–237, § 1006(b)(3)(J), substituted “the applicant’s” for “his”.
 
-Subsec. (b). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”.
+Subsec. (b). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”.
 
-Subsec. (c). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall notify”.
+Subsec. (c). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall notify”.
 
 1988—Subsec. (d). Pub. L. 100–532 in par. (1), substituted “public. The use” for “public: *Provided*, That the use” and “title. This paragraph” for “title: *Provided further*, That this paragraph”, and in par. (3), “notice. Where” for “notice: *Provided*, That where”.
 
 1984—Subsec. (d)(3). Pub. L. 98–620 struck out provisions requiring the court to give expedited consideration to actions involving injunctions or limitations of proposed disclosure.
 
-1978—Subsec. (b). Pub. L. 95–396, § 15(1), made disclosure of information by the Administrator subject to the limitations of subsecs. (d) and (e) of this section.
+1978—Subsec. (b). Pub. L. 95–396, § 15(1), made disclosure of information by the Administrator subject to the limitations of subsecs. (d) and (e) of this section.
 
-Subsecs. (d) to (g). Pub. L. 95–396, § 15(2), added subsecs. (d) to (g).
+Subsecs. (d) to (g). Pub. L. 95–396, § 15(2), added subsecs. (d) to (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2979,7 +2979,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136i. Use of restricted use pesticides; applicators
+### § 136i. Use of restricted use pesticides; applicators
 
 **(a) Certification procedure**
 
@@ -3017,13 +3017,13 @@ No regulations prescribed by the Administrator for carrying out the provisions o
 
 When establishing or approving standards for licensing or certification, the Administrator shall establish separate standards for commercial and private applicators.
 
-(June 25, 1947, ch. 125, § 11, formerly §§ 4, 11, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 983, 989; amended Pub. L. 94–140, §§ 5, 11, Nov. 28, 1975, 89 Stat. 753, 754; Pub. L. 95–396, § 9, Sept. 30, 1978, 92 Stat. 827; Pub. L. 100–532, title VIII, § 801(c), (q)(1)(A)–(C), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, § 1006(a)(6), (b)(1), (2), (3)(K), Dec. 13, 1991, 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, § 11, formerly §§ 4, 11, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 983, 989; amended Pub. L. 94–140, §§ 5, 11, Nov. 28, 1975, 89 Stat. 753, 754; Pub. L. 95–396, § 9, Sept. 30, 1978, 92 Stat. 827; Pub. L. 100–532, title VIII, § 801(c), (q)(1)(A)–(C), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, § 1006(a)(6), (b)(1), (2), (3)(K), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 100–532, § 801(q)(1)(A), transferred subsecs. (a) to (c) of section 4 of act June 25, 1947, which was classified to section 136b of this title, to subsecs. (a) to (c) of this section.
+Pub. L. 100–532, § 801(q)(1)(A), transferred subsecs. (a) to (c) of section 4 of act June 25, 1947, which was classified to section 136b of this title, to subsecs. (a) to (c) of this section.
 
 **Prior Provisions**
 
@@ -3031,25 +3031,25 @@ A prior section 11 of act June 25, 1947, was classified to section 135i of this 
 
 **Amendments**
 
-1991—Pub. L. 102–237, § 1006(a)(6)(A), substituted “applicators” for “appplicators” in section catchline.
+1991—Pub. L. 102–237, § 1006(a)(6)(A), substituted “applicators” for “appplicators” in section catchline.
 
-Subsec. (a)(1). Pub. L. 102–237, § 1006(b)(3)(K), substituted “the applicator” for “his” in ninth sentence and “the Administrator” for “him” before period at end.
+Subsec. (a)(1). Pub. L. 102–237, § 1006(b)(3)(K), substituted “the applicator” for “his” in ninth sentence and “the Administrator” for “him” before period at end.
 
-Subsec. (a)(2). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his” in introductory provisions.
+Subsec. (a)(2). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–237, § 1006(a)(6)(B), (b)(1), substituted “subsection (a)(2) of this section” for “this paragraph” in two places and “the Administrator” for “he” before “shall afford” and before “shall so notify”.
+Subsec. (b). Pub. L. 102–237, § 1006(a)(6)(B), (b)(1), substituted “subsection (a)(2) of this section” for “this paragraph” in two places and “the Administrator” for “he” before “shall afford” and before “shall so notify”.
 
-Subsec. (c). Pub. L. 102–237, § 1006(a)(6)(C), substituted “subsection (a)” for “subsections (a) and (b)” after “Administrator under”.
+Subsec. (c). Pub. L. 102–237, § 1006(a)(6)(C), substituted “subsection (a)” for “subsections (a) and (b)” after “Administrator under”.
 
-1988—Pub. L. 100–532, § 801(q)(1)(A), (C), substituted section catchline for one which read: “Standards applicable to pesticide applicators”, redesignated subsecs. (a) and (b) as (d) and (e), respectively, and transferred subsecs. (a) to (c) of section 136b of this title to subsecs. (a) to (c), respectively, of this section.
+1988—Pub. L. 100–532, § 801(q)(1)(A), (C), substituted section catchline for one which read: “Standards applicable to pesticide applicators”, redesignated subsecs. (a) and (b) as (d) and (e), respectively, and transferred subsecs. (a) to (c) of section 136b of this title to subsecs. (a) to (c), respectively, of this section.
 
-Subsec. (a)(1). Pub. L. 100–532, § 801(c), substituted “pesticides. Such program” for “pesticides: *Provided*, That such program” and “certification. The certification” for “certification: *Provided, however*, That the certification”.
+Subsec. (a)(1). Pub. L. 100–532, § 801(c), substituted “pesticides. Such program” for “pesticides: *Provided*, That such program” and “certification. The certification” for “certification: *Provided, however*, That the certification”.
 
 1978—Subsec. (a)(1). Pub. L. 95–396 required that, in any State without a State plan for applicator certification approved by the Administrator, the Administrator, in consultation with the Governor of the State, shall conduct a program for the certification of applicators of pesticides under a Federal plan for applicator certification, and also that in such a State records be maintained and reports submitted by persons engaged in commercial application, sale or distribution of pesticides classified for restricted use.
 
-1975—Subsec. (a)(1). Pub. L. 94–140, § 5, inserted proviso relating to Administrator’s powers and duties with respect to the certification forms and requirement for pesticide dealers participating in certification program.
+1975—Subsec. (a)(1). Pub. L. 94–140, § 5, inserted proviso relating to Administrator’s powers and duties with respect to the certification forms and requirement for pesticide dealers participating in certification program.
 
-Subsec. (c). Pub. L. 94–140, § 11, added subsec. (c).
+Subsec. (c). Pub. L. 94–140, § 11, added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3061,7 +3061,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136i–1. Pesticide recordkeeping
+### § 136i–1. Pesticide recordkeeping
 
 **(a) Requirements**
 
@@ -3095,7 +3095,7 @@ The Secretary of Agriculture and the Administrator of the Environmental Protecti
 
 The Secretary of Agriculture and the Administrator of the Environmental Protection Agency shall promulgate regulations on their respective areas of responsibility implementing this section within 180 days after November 28, 1990.
 
-(Pub. L. 101–624, title XIV, § 1491, Nov. 28, 1990, 104 Stat. 3627; Pub. L. 102–237, title X, § 1006(d), Dec. 13, 1991, 105 Stat. 1896.)
+(Pub. L. 101–624, title XIV, § 1491, Nov. 28, 1990, 104 Stat. 3627; Pub. L. 102–237, title X, § 1006(d), Dec. 13, 1991, 105 Stat. 1896.)
 
 **Editorial Notes**
 
@@ -3105,11 +3105,11 @@ Section was enacted as part of the Conservation Program Improvements Act, and al
 
 **Amendments**
 
-1991—Subsec. (a)(1). Pub. L. 102–237, § 1006(d)(1), inserted closing parenthesis after “section 136a(d)(1)(C) of this title”.
+1991—Subsec. (a)(1). Pub. L. 102–237, § 1006(d)(1), inserted closing parenthesis after “section 136a(d)(1)(C) of this title”.
 
-Subsec. (d)(1). Pub. L. 102–237, § 1006(d)(2), inserted “of” after “fine”.
+Subsec. (d)(1). Pub. L. 102–237, § 1006(d)(2), inserted “of” after “fine”.
 
-### § 136i–2. Collection of pesticide use information
+### § 136i–2. Collection of pesticide use information
 
 **(a) In general**
 
@@ -3123,7 +3123,7 @@ The data shall be collected by surveys of farmers or from other sources offering
 
 The Secretary of Agriculture shall, as appropriate, coordinate with the Administrator of the Environmental Protection Agency in the design of the surveys and make available to the Administrator the aggregate results of the surveys to assist the Administrator.
 
-(Pub. L. 104–170, title III, § 302, Aug. 3, 1996, 110 Stat. 1512.)
+(Pub. L. 104–170, title III, § 302, Aug. 3, 1996, 110 Stat. 1512.)
 
 **Editorial Notes**
 
@@ -3135,9 +3135,9 @@ Section was enacted as part of the Food Quality Protection Act of 1996, and not 
 
 **Pesticide Use Information Study**
 
-Pub. L. 104–170, title III, § 305, Aug. 3, 1996, 110 Stat. 1512, required the Secretary of Agriculture, in consultation with the Administrator of the Environmental Protection Agency, to prepare a report to Congress evaluating the current status and potential improvements in Federal pesticide use information gathering activities and to submit the report not later than 1 year following Aug. 3, 1996.
+Pub. L. 104–170, title III, § 305, Aug. 3, 1996, 110 Stat. 1512, required the Secretary of Agriculture, in consultation with the Administrator of the Environmental Protection Agency, to prepare a report to Congress evaluating the current status and potential improvements in Federal pesticide use information gathering activities and to submit the report not later than 1 year following Aug. 3, 1996.
 
-### § 136j. Unlawful acts
+### § 136j. Unlawful acts
 
 **(a) In general**
 
@@ -3213,7 +3213,7 @@ Pub. L. 104–170, title III, § 305, Aug. 3, 1996, 110 Stat. 1512, required t
 
 **(5)** any person who ships a substance or mixture of substances being put through tests in which the purpose is only to determine its value for pesticide purposes or to determine its toxicity or other properties and from which the user does not expect to receive any benefit in pest control from its use.
 
-(June 25, 1947, ch. 125, § 12, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 989; amended Pub. L. 95–396, § 16, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, §§ 601(b)(2), 603, title VIII, § 801(g), (q)(2)(B), Oct. 25, 1988, 102 Stat. 2677, 2678, 2682, 2683; Pub. L. 102–237, title X, § 1006(a)(7), (b)(3)(L)–(O), Dec. 13, 1991, 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, § 12, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 989; amended Pub. L. 95–396, § 16, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, §§ 601(b)(2), 603, title VIII, § 801(g), (q)(2)(B), Oct. 25, 1988, 102 Stat. 2677, 2678, 2682, 2683; Pub. L. 102–237, title X, § 1006(a)(7), (b)(3)(L)–(O), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 **Editorial Notes**
 
@@ -3223,37 +3223,37 @@ A prior section 12 of act June 25, 1947, was classified to section 135j of this 
 
 **Amendments**
 
-1991—Subsec. (a)(2)(C). Pub. L. 102–237, § 1006(b)(3)(L), substituted “the person’s” for “his” and “the person” for “he” before “received”.
+1991—Subsec. (a)(2)(C). Pub. L. 102–237, § 1006(b)(3)(L), substituted “the person’s” for “his” and “the person” for “he” before “received”.
 
-Subsec. (a)(2)(D). Pub. L. 102–237, § 1006(b)(3)(M), substituted “the person’s” for “his”.
+Subsec. (a)(2)(D). Pub. L. 102–237, § 1006(b)(3)(M), substituted “the person’s” for “his”.
 
-Subsec. (a)(2)(F). Pub. L. 102–237, § 1006(a)(7)(A), substituted “thereunder, except that it” for “thereunder. It”.
+Subsec. (a)(2)(F). Pub. L. 102–237, § 1006(a)(7)(A), substituted “thereunder, except that it” for “thereunder. It”.
 
-Subsec. (a)(2)(O). Pub. L. 102–237, § 1006(a)(7)(B), struck out “or” after semicolon at end.
+Subsec. (a)(2)(O). Pub. L. 102–237, § 1006(a)(7)(B), struck out “or” after semicolon at end.
 
-Subsec. (a)(2)(P). Pub. L. 102–237, § 1006(a)(7)(C), substituted a semicolon for period at end.
+Subsec. (a)(2)(P). Pub. L. 102–237, § 1006(a)(7)(C), substituted a semicolon for period at end.
 
-Subsec. (b)(1). Pub. L. 102–237, § 1006(b)(3)(N), substituted “the person” for “he” after “from whom” and for “him” after “delivery to”.
+Subsec. (b)(1). Pub. L. 102–237, § 1006(b)(3)(N), substituted “the person” for “he” after “from whom” and for “him” after “delivery to”.
 
-Subsec. (b)(3). Pub. L. 102–237, § 1006(b)(3)(O), substituted “the official duties of the public official” for “his official duties”.
+Subsec. (b)(3). Pub. L. 102–237, § 1006(b)(3)(O), substituted “the official duties of the public official” for “his official duties”.
 
-1988—Subsec. (a)(1). Pub. L. 100–532, § 601(b)(2)(A), in introductory provisions, substituted “distribute or sell to any person” for “distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person”.
+1988—Subsec. (a)(1). Pub. L. 100–532, § 601(b)(2)(A), in introductory provisions, substituted “distribute or sell to any person” for “distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person”.
 
-Subsec. (a)(1)(A). Pub. L. 100–532, § 603(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any pesticide which is not registered under section 136a of this title, except as provided by section 136d(a)(1) of this title;”.
+Subsec. (a)(1)(A). Pub. L. 100–532, § 603(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any pesticide which is not registered under section 136a of this title, except as provided by section 136d(a)(1) of this title;”.
 
-Subsec. (a)(2)(B). Pub. L. 100–532, § 603(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;”.
+Subsec. (a)(2)(B). Pub. L. 100–532, § 603(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;”.
 
-Subsec. (a)(2)(F). Pub. L. 100–532, §§ 601(b)(2)(B), 801(g), substituted “to distribute or sell, or to make” for “to make” and “thereunder, It” for “thereunder: *Provided*, That it”.
+Subsec. (a)(2)(F). Pub. L. 100–532, §§ 601(b)(2)(B), 801(g), substituted “to distribute or sell, or to make” for “to make” and “thereunder, It” for “thereunder: *Provided*, That it”.
 
-Subsec. (a)(2)(J). Pub. L. 100–532, § 801(q)(2)(B), made a technical amendment to the reference to section 136a–1 of this title to reflect the renumbering of the corresponding section of the original act.
+Subsec. (a)(2)(J). Pub. L. 100–532, § 801(q)(2)(B), made a technical amendment to the reference to section 136a–1 of this title to reflect the renumbering of the corresponding section of the original act.
 
-Pub. L. 100–532, § 603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “to violate any suspension order issued under section 136d of this title;”.
+Pub. L. 100–532, § 603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “to violate any suspension order issued under section 136d of this title;”.
 
-Subsec. (a)(2)(K). Pub. L. 100–532, § 603(2)(B), added subpar. (K) and struck out former subpar. (K) which read as follows: “to violate any cancellation of registration of a pesticide under section 136d of this title, except as provided by section 136d(a)(1) of this title;”.
+Subsec. (a)(2)(K). Pub. L. 100–532, § 603(2)(B), added subpar. (K) and struck out former subpar. (K) which read as follows: “to violate any cancellation of registration of a pesticide under section 136d of this title, except as provided by section 136d(a)(1) of this title;”.
 
-Subsec. (a)(2)(M). Pub. L. 100–532, § 603(2)(C), substituted “this subchapter” for “section 136f of this title”.
+Subsec. (a)(2)(M). Pub. L. 100–532, § 603(2)(C), substituted “this subchapter” for “section 136f of this title”.
 
-Subsec. (a)(2)(Q), (R), (S). Pub. L. 100–532, § 603(2)(D), added subpars. (Q), (R), and (S).
+Subsec. (a)(2)(Q), (R), (S). Pub. L. 100–532, § 603(2)(D), added subpars. (Q), (R), and (S).
 
 1978—Subsec. (a)(2)(F). Pub. L. 95–396 inserted proviso exempting from prohibition the sale, under regulations issued by the Administrator, of a restricted use pesticide to a person who is not a certified applicator for application by a certified applicator.
 
@@ -3267,7 +3267,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136k. Stop sale, use, removal, and seizure
+### § 136k. Stop sale, use, removal, and seizure
 
 **(a) Stop sale, etc., orders**
 
@@ -3301,7 +3301,7 @@ If the pesticide or device is condemned it shall, after entry of the decree, be 
 
 When a decree of condemnation is entered against the pesticide or device, court costs and fees, storage, and other proper expenses shall be awarded against the person, if any, intervening as claimant of the pesticide or device.
 
-(June 25, 1947, ch. 125, § 13, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 991; amended Pub. L. 100–532, title VIII, § 801(h), Oct. 25, 1988, 102 Stat. 2682.)
+(June 25, 1947, ch. 125, § 13, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 991; amended Pub. L. 100–532, title VIII, § 801(h), Oct. 25, 1988, 102 Stat. 2682.)
 
 **Editorial Notes**
 
@@ -3311,9 +3311,9 @@ A prior section 13 of act June 25, 1947, was classified to section 135k of this 
 
 **Amendments**
 
-1988—Subsec. (b). Pub. L. 100–532, § 801(h)(1), directed that sentence beginning “In the case of” be moved from par. (3) and become a full measure sentence after par. (3).
+1988—Subsec. (b). Pub. L. 100–532, § 801(h)(1), directed that sentence beginning “In the case of” be moved from par. (3) and become a full measure sentence after par. (3).
 
-Subsec. (c). Pub. L. 100–532, § 801(h)(2), substituted “sold. On” for “sold: *Provided*, That upon”.
+Subsec. (c). Pub. L. 100–532, § 801(h)(2), substituted “sold. On” for “sold: *Provided*, That upon”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3325,7 +3325,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136l. Penalties
+### § 136l. Penalties
 
 **(a) Civil penalties**
 
@@ -3369,23 +3369,23 @@ Any person, who, with intent to defraud, uses or reveals information relative to
 
 When construing and enforcing the provisions of this subchapter, the act, omission, or failure of any officer, agent, or other person acting for or employed by any person shall in every case be also deemed to be the act, omission, or failure of such person as well as that of the person employed.
 
-(June 25, 1947, ch. 125, § 14, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 992; amended Pub. L. 95–396, § 17, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, § 604, Oct. 25, 1988, 102 Stat. 2678; Pub. L. 102–237, title X, § 1006(a)(8), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, § 14, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 992; amended Pub. L. 95–396, § 17, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, § 604, Oct. 25, 1988, 102 Stat. 2678; Pub. L. 102–237, title X, § 1006(a)(8), Dec. 13, 1991, 105 Stat. 1895.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (a)(2). Pub. L. 102–237 substituted “, except that” for “: *Provided*, That” and “uses” for “use”.
+1991—Subsec. (a)(2). Pub. L. 102–237 substituted “, except that” for “: *Provided*, That” and “uses” for “use”.
 
 1988—Subsec. (b)(1). Pub. L. 100–532 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who knowingly violates any provision of this subchapter shall be guilty of a misdemeanor and shall on conviction be fined not more than $25,000, or imprisoned for not more than one year, or both.”
 
-1978—Subsec. (a)(2). Pub. L. 95–396, § 17(1), authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
+1978—Subsec. (a)(2). Pub. L. 95–396, § 17(1), authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
 
-Subsec. (a)(3). Pub. L. 95–396, § 17(2), struck out provision respecting certain considerations when determining amount of penalty, now covered in par. (4).
+Subsec. (a)(3). Pub. L. 95–396, § 17(2), struck out provision respecting certain considerations when determining amount of penalty, now covered in par. (4).
 
-Subsec. (a)(4). Pub. L. 95–396, § 17(4), reenacted second sentence of par. (3) as par. (4) and authorized Administrator to issue a warning in lieu of assessing a penalty. Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 95–396, § 17(4), reenacted second sentence of par. (3) as par. (4) and authorized Administrator to issue a warning in lieu of assessing a penalty. Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 95–396, § 17(3), redesignated former par. (4) as (5).
+Subsec. (a)(5). Pub. L. 95–396, § 17(3), redesignated former par. (4) as (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3397,7 +3397,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136m. Indemnities
+### § 136m. Indemnities
 
 **(a) General indemnification**
 
@@ -3493,7 +3493,7 @@ The amount of an indemnity payment under subsection (a) or (b) to any person sha
 
 Notwithstanding any other provision of this subchapter, the Administrator may provide a reasonable time for use or other disposal of the pesticide. In determining the quantity of any pesticide for which indemnity shall be paid under this section, proper adjustment shall be made for any pesticide used or otherwise disposed of by the owner.
 
-(June 25, 1947, ch. 125, § 15, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 993; amended Pub. L. 100–532, title V, § 501(a), Oct. 25, 1988, 102 Stat. 2674.)
+(June 25, 1947, ch. 125, § 15, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 993; amended Pub. L. 100–532, title V, § 501(a), Oct. 25, 1988, 102 Stat. 2674.)
 
 **Editorial Notes**
 
@@ -3505,7 +3505,7 @@ Notwithstanding any other provision of this subchapter, the Administrator may pr
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–532, title V, § 501(a), Oct. 25, 1988, 102 Stat. 2674, provided that amendment made by Pub. L. 100–532 is effective 180 days after Oct. 25, 1988.
+Pub. L. 100–532, title V, § 501(a), Oct. 25, 1988, 102 Stat. 2674, provided that amendment made by Pub. L. 100–532 is effective 180 days after Oct. 25, 1988.
 
 **Effective Date**
 
@@ -3513,13 +3513,13 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 **Interim Payments**
 
-Pub. L. 100–532, title V, § 501(b), Oct. 25, 1988, 102 Stat. 2676, provided that:
+Pub. L. 100–532, title V, § 501(b), Oct. 25, 1988, 102 Stat. 2676, provided that:
 
 > **“(1) Source.—** Any obligation of the Administrator to pay an indemnity arising under section 15 [this section], as it existed prior to the effective date of the amendment made by this section [see Effective Date of 1988 Amendment note above], shall be made from the appropriation provided under section 1304 of title 31, United States Code.
 
 > **“(2) Administrative settlement.—** An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28, United States Code, and shall be regarded as if it were made under that section for purposes of section 1304 of title 31, United States Code.”
 
-### § 136n. Administrative procedure; judicial review
+### § 136n. Administrative procedure; judicial review
 
 **(a) District court review**
 
@@ -3537,15 +3537,15 @@ The district courts of the United States are vested with jurisdiction specifical
 
 The Administrator shall, by publication in such manner as the Administrator may prescribe, give notice of all judgments entered in actions instituted under the authority of this subchapter.
 
-(June 25, 1947, ch. 125, § 16, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 994; amended Pub. L. 98–620, title IV, § 402(4)(C), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title VIII, § 801(i), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(b)(1), (2), (3)(P), Dec. 13, 1991, 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, § 16, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 994; amended Pub. L. 98–620, title IV, § 402(4)(C), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title VIII, § 801(i), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(b)(1), (2), (3)(P), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (b). Pub. L. 102–237, § 1006(b)(1), (2), (3)(P), substituted “the Administrator” for “he” before “based”, “the Administrator’s” for “his”, and “the Administrator” for “him” after “designated by”.
+1991—Subsec. (b). Pub. L. 102–237, § 1006(b)(1), (2), (3)(P), substituted “the Administrator” for “he” before “based”, “the Administrator’s” for “his”, and “the Administrator” for “him” after “designated by”.
 
-Subsec. (d). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “may”.
+Subsec. (d). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “may”.
 
 1988—Subsec. (a). Pub. L. 100–532 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as is otherwise provided in this subchapter, Agency refusals to cancel or suspend registrations or change classifications not following a hearing and other final Agency actions not committed to Agency discretion by law are judicially reviewable in the district courts.”
 
@@ -3565,7 +3565,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136o. Imports and exports
+### § 136o. Imports and exports
 
 **(a) Pesticides and devices intended for export** Notwithstanding any other provision of this subchapter, no pesticide or device or active ingredient used in producing a pesticide intended solely for export to any foreign country shall be deemed in violation of this subchapter—
 
@@ -3623,15 +3623,15 @@ Any expenses incurred by an employee of the Environmental Protection Agency who 
 
 The Secretary of the Treasury, in consultation with the Administrator, shall prescribe regulations for the enforcement of subsection (c) of this section.
 
-(June 25, 1947, ch. 125, § 17, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, § 18(a), Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title VIII, § 801(j), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(a)(9), (b)(2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 110–234, title XIV, § 14209(a), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, § 4(a), title XIV, § 14209(a), June 18, 2008, 122 Stat. 1664, 2225; Pub. L. 113–79, title X, § 10008, Feb. 7, 2014, 128 Stat. 948.)
+(June 25, 1947, ch. 125, § 17, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, § 18(a), Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title VIII, § 801(j), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(a)(9), (b)(2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 110–234, title XIV, § 14209(a), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, § 4(a), title XIV, § 14209(a), June 18, 2008, 122 Stat. 1664, 2225; Pub. L. 113–79, title X, § 10008, Feb. 7, 2014, 128 Stat. 948.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Plant Protection Act, referred to in subsec. (c)(4)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Plant Protection Act, referred to in subsec. (c)(4)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The Federal Seed Act, referred to in subsec. (c)(4)(B), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§ 1551 et seq.) of this title. For complete classification of this Act to the Code, see section 1551 of this title and Tables.
+The Federal Seed Act, referred to in subsec. (c)(4)(B), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§ 1551 et seq.) of this title. For complete classification of this Act to the Code, see section 1551 of this title and Tables.
 
 **Codification**
 
@@ -3641,17 +3641,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (c). Pub. L. 113–79 designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
 
-2008—Subsec. (d). Pub. L. 110–246, § 14209(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2008—Subsec. (d). Pub. L. 110–246, § 14209(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1991—Subsec. (a). Pub. L. 102–237, § 1006(a)(9), removed last sentence from par. (2) and placed it as a full measure sentence under par. (2).
+1991—Subsec. (a). Pub. L. 102–237, § 1006(a)(9), removed last sentence from par. (2) and placed it as a full measure sentence under par. (2).
 
-Subsec. (c). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”.
+Subsec. (c). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”.
 
 1988—Subsec. (c). Pub. L. 100–532 substituted “prescribe. The Secretary” for “prescribe: *Provided*, That the Secretary” and “bond. All” for “bond: *And provided further*, That all”.
 
-1978—Subsec. (a). Pub. L. 95–396, § 18(a)(1), amended subsec. (a) generally.
+1978—Subsec. (a). Pub. L. 95–396, § 18(a)(1), amended subsec. (a) generally.
 
-Subsec. (b). Pub. L. 95–396, § 18(a)(2), inserted sentence at end relating to information to be included in notification.
+Subsec. (b). Pub. L. 95–396, § 18(a)(2), inserted sentence at end relating to information to be included in notification.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3665,17 +3665,17 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–396, § 18(b), Sept. 30, 1978, 92 Stat. 833, provided that: “The amendment made by subsection (a)(1) of this section [amending this section] shall become effective one hundred and eighty days after the date of enactment of this Act [Sept. 30, 1978].”
+Pub. L. 95–396, § 18(b), Sept. 30, 1978, 92 Stat. 833, provided that: “The amendment made by subsection (a)(1) of this section [amending this section] shall become effective one hundred and eighty days after the date of enactment of this Act [Sept. 30, 1978].”
 
 **Effective Date**
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136p. Exemption of Federal and State agencies
+### § 136p. Exemption of Federal and State agencies
 
 The Administrator may, at the Administrator’s discretion, exempt any Federal or State agency from any provision of this subchapter if the Administrator determines that emergency conditions exist which require such exemption. The Administrator, in determining whether or not such emergency conditions exist, shall consult with the Secretary of Agriculture and the Governor of any State concerned if they request such determination.
 
-(June 25, 1947, ch. 125, § 18, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 94–140, § 8, Nov. 28, 1975, 89 Stat. 754; Pub. L. 100–532, title VIII, § 801(k), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, § 18, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 94–140, § 8, Nov. 28, 1975, 89 Stat. 754; Pub. L. 100–532, title VIII, § 801(k), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895.)
 
 **Editorial Notes**
 
@@ -3697,7 +3697,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136q. Storage, disposal, transportation, and recall
+### § 136q. Storage, disposal, transportation, and recall
 
 **(a) Storage, disposal, and transportation**
 
@@ -3877,7 +3877,7 @@ Nothing in this section shall diminish the authorities or requirements of the So
 
 A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
 
-(June 25, 1947, ch. 125, § 19, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, § 19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§ 401–403, title VIII, § 801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, § 225, Aug. 3, 1996, 110 Stat. 1507; Pub. L. 110–234, title XIV, § 14209(b), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, § 4(a), title XIV, § 14209(b), June 18, 2008, 122 Stat. 1664, 2225.)
+(June 25, 1947, ch. 125, § 19, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, § 19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§ 401–403, title VIII, § 801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, § 225, Aug. 3, 1996, 110 Stat. 1507; Pub. L. 110–234, title XIV, § 14209(b), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, § 4(a), title XIV, § 14209(b), June 18, 2008, 122 Stat. 1664, 2225.)
 
 **Editorial Notes**
 
@@ -3885,7 +3885,7 @@ A household, industrial, or institutional antimicrobial product that is not subj
 
 The effective date of this subsection, referred to in subsecs. (e), (f)(1)(A), (2), and (g)(2), is 60 days after Oct. 25, 1988, the effective date of Pub. L. 100–532. See Effective Date of 1988 Amendment note below.
 
-The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 **Codification**
 
@@ -3893,19 +3893,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(4). Pub. L. 110–246, § 14209(b), added par. (4).
+2008—Subsec. (a)(4). Pub. L. 110–246, § 14209(b), added par. (4).
 
 1996—Subsec. (h). Pub. L. 104–170 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1988—Pub. L. 100–532, § 401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
+1988—Pub. L. 100–532, § 401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
 
-Subsec. (a)(3). Pub. L. 100–532, § 402, added par. (3).
+Subsec. (a)(3). Pub. L. 100–532, § 402, added par. (3).
 
-Subsecs. (e), (f). Pub. L. 100–532, § 403, added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 100–532, § 403, added subsecs. (e) and (f).
 
-Subsec. (f)(2). Pub. L. 100–532, § 801(q)(1)(D), substituted “136i” for “136b”.
+Subsec. (f)(2). Pub. L. 100–532, § 801(q)(1)(D), substituted “136i” for “136b”.
 
-Subsecs. (g), (h). Pub. L. 100–532, § 403, added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 100–532, § 403, added subsecs. (g) and (h).
 
 1978—Subsec. (c). Pub. L. 95–396 added subsec. (c).
 
@@ -3923,7 +3923,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136r. Research and monitoring
+### § 136r. Research and monitoring
 
 **(a) Research**
 
@@ -3935,13 +3935,13 @@ The Administrator shall formulate and periodically revise, in cooperation with o
 
 **(c) Monitoring**
 
-The Administrator shall undertake such monitoring activities, including, but not limited to monitoring in air, soil, water, man, plants, and animals, as may be necessary for the implementation of this subchapter and of the national pesticide monitoring plan. The Administrator shall establish procedures for the monitoring of man and animals and their environment for incidential 1
+The Administrator shall undertake such monitoring activities, including, but not limited to monitoring in air, soil, water, man, plants, and animals, as may be necessary for the implementation of this subchapter and of the national pesticide monitoring plan. The Administrator shall establish procedures for the monitoring of man and animals and their environment for incidential 1
 
-<sup>1</sup>  So in original. Probably should be “incidental”.
+<sup>1</sup> So in original. Probably should be “incidental”.
 
 pesticide exposure, including, but not limited to, the quantification of incidental human and environmental pesticide pollution and the secular trends thereof, and identification of the sources of contamination and their relationship to human and environmental effects. Such activities shall be carried out in cooperation with other Federal, State, and local agencies.
 
-(June 25, 1947, ch. 125, § 20, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 996; amended Pub. L. 95–396, § 20, Sept. 30, 1978, 92 Stat. 834; Pub. L. 102–237, title X, § 1006(a)(10), (b)(1), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, § 20, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 996; amended Pub. L. 95–396, § 20, Sept. 30, 1978, 92 Stat. 834; Pub. L. 102–237, title X, § 1006(a)(10), (b)(1), Dec. 13, 1991, 105 Stat. 1895.)
 
 **Editorial Notes**
 
@@ -3949,9 +3949,9 @@ pesticide exposure, including, but not limited to, the quantification of inciden
 
 1991—Subsec. (a). Pub. L. 102–237 substituted “ensure” for “insure” and “the Administrator” for “he” before “shall conduct”.
 
-1978—Subsec. (a). Pub. L. 95–396, § 20(1), substituted in first sentence “shall conduct research into integrated pest management in coordination with the Secretary of Agriculture” for “shall give priority to research to develop biologically integrated alternatives for pest control”.
+1978—Subsec. (a). Pub. L. 95–396, § 20(1), substituted in first sentence “shall conduct research into integrated pest management in coordination with the Secretary of Agriculture” for “shall give priority to research to develop biologically integrated alternatives for pest control”.
 
-Subsec. (c). Pub. L. 95–396, § 20(2), inserted provision requiring establishment of monitoring procedures and the carrying out of the activities in cooperation with other Federal, State, and local agencies.
+Subsec. (c). Pub. L. 95–396, § 20(2), inserted provision requiring establishment of monitoring procedures and the carrying out of the activities in cooperation with other Federal, State, and local agencies.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3963,11 +3963,11 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1081, provided in part: “That notwithstanding 7 U.S.C. 136r and 15 U.S.C. 2609, beginning in fiscal year 2000 and thereafter, grants awarded under section 20 of the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136r], as amended, and section 10 of the Toxic Substances Control Act [15 U.S.C. 2609], as amended, shall be available for research, development, monitoring, public education, training, demonstrations, and studies”.
 
-### § 136r–1. Integrated Pest Management
+### § 136r–1. Integrated Pest Management
 
 The Secretary of Agriculture, in cooperation with the Administrator, shall implement research, demonstration, and education programs to support adoption of Integrated Pest Management. Integrated Pest Management is a sustainable approach to managing pests by combining biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks. The Secretary of Agriculture and the Administrator shall make information on Integrated Pest Management widely available to pesticide users, including Federal agencies. Federal agencies shall use Integrated Pest Management techniques in carrying out pest management activities and shall promote Integrated Pest Management through procurement and regulatory policies, and other activities.
 
-(Pub. L. 104–170, title III, § 303, Aug. 3, 1996, 110 Stat. 1512.)
+(Pub. L. 104–170, title III, § 303, Aug. 3, 1996, 110 Stat. 1512.)
 
 **Editorial Notes**
 
@@ -3975,7 +3975,7 @@ The Secretary of Agriculture, in cooperation with the Administrator, shall imple
 
 Section was enacted as part of the Food Quality Protection Act of 1996, and not as part of the Federal Insecticide, Fungicide, and Rodenticide Act which comprises this subchapter.
 
-### § 136s. Solicitation of comments; notice of public hearings
+### § 136s. Solicitation of comments; notice of public hearings
 
 **(a) Secretary of Agriculture**
 
@@ -3993,7 +3993,7 @@ In addition to any other authority relating to public hearings and solicitation 
 
 In connection with all public hearings under this subchapter the Administrator shall publish timely notice of such hearings in the Federal Register.
 
-(June 25, 1947, ch. 125, § 21, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 996; amended Pub. L. 94–140, § 2(b), Nov. 28, 1975, 89 Stat. 752; Pub. L. 100–532, title VIII, § 801(*l*), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 104–170, title II, § 234, Aug. 3, 1996, 110 Stat. 1509.)
+(June 25, 1947, ch. 125, § 21, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 996; amended Pub. L. 94–140, § 2(b), Nov. 28, 1975, 89 Stat. 752; Pub. L. 100–532, title VIII, § 801(*l*), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, § 1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 104–170, title II, § 234, Aug. 3, 1996, 110 Stat. 1509.)
 
 **Editorial Notes**
 
@@ -4003,7 +4003,7 @@ In connection with all public hearings under this subchapter the Administrator s
 
 1991—Subsec. (b). Pub. L. 102–237 substituted “the Administrator” for “he” before “deems” and “the Administrator’s” for “his”.
 
-1988—Pub. L. 100–532, § 801(*l*), inserted headings for subsecs. (a) to (c).
+1988—Pub. L. 100–532, § 801(*l*), inserted headings for subsecs. (a) to (c).
 
 1975—Subsec. (a). Pub. L. 94–140 inserted “in accordance with the procedure described in section 136w(a) of this title” after “Secretary of Agriculture”.
 
@@ -4017,7 +4017,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136t. Delegation and cooperation
+### § 136t. Delegation and cooperation
 
 **(a) Delegation**
 
@@ -4027,7 +4027,7 @@ All authority vested in the Administrator by virtue of the provisions of this su
 
 The Administrator shall cooperate with Department of Agriculture, any other Federal agency, and any appropriate agency of any State or any political subdivision thereof, in carrying out the provisions of this subchapter, and in securing uniformity of regulations.
 
-(June 25, 1947, ch. 125, § 22, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 996.)
+(June 25, 1947, ch. 125, § 22, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 996.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4035,7 +4035,7 @@ The Administrator shall cooperate with Department of Agriculture, any other Fede
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136u. State cooperation, aid, and training
+### § 136u. State cooperation, aid, and training
 
 **(a) Cooperative agreements** The Administrator may enter into cooperative agreements with States and Indian tribes—
 
@@ -4053,7 +4053,7 @@ In addition, the Administrator may enter into contracts with Federal, State, or 
 
 The Administrator shall, in cooperation with the Secretary of Agriculture, use the services of the cooperative State extension services to inform and educate pesticide users about accepted uses and other regulations made under this subchapter.
 
-(June 25, 1947, ch. 125, § 23, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 996; amended Pub. L. 95–396, § 21, Sept. 30, 1978, 92 Stat. 834.)
+(June 25, 1947, ch. 125, § 23, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 996; amended Pub. L. 95–396, § 21, Sept. 30, 1978, 92 Stat. 834.)
 
 **Editorial Notes**
 
@@ -4075,7 +4075,7 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2499, provided in part: “That beginning in fiscal year 1999 and thereafter, pesticide program implementation grants under section 23(a)(1) of the Federal Insecticide, Fungicide and Rodenticide Act, as amended [7 U.S.C. 136u(a)(1)], shall be available for pesticide program development and implementation, including enforcement and compliance activities”.
 
-### § 136v. Authority of States
+### § 136v. Authority of States
 
 **(a) In general**
 
@@ -4095,17 +4095,17 @@ Such State shall not impose or continue in effect any requirements for labeling 
 
 **(4)** If the Administrator finds, in accordance with standards set forth in regulations issued under section 136w of this title, that a State is not capable of exercising adequate controls to assure that State registration under this section will be in accord with the purposes of this subchapter or has failed to exercise adequate controls, the Administrator may suspend the authority of the State to register pesticides until such time as the Administrator is satisfied that the State can and will exercise adequate controls. Prior to any such suspension, the Administrator shall advise the State of the Administrator’s intention to suspend and the reasons therefor and provide the State time to respond.
 
-(June 25, 1947, ch. 125, § 24, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 997; amended Pub. L. 95–396, § 22, Sept. 30, 1978, 92 Stat. 835; Pub. L. 100–532, title VIII, § 801(m), Oct. 25, 1988, 102 Stat. 2682.)
+(June 25, 1947, ch. 125, § 24, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 997; amended Pub. L. 95–396, § 22, Sept. 30, 1978, 92 Stat. 835; Pub. L. 100–532, title VIII, § 801(m), Oct. 25, 1988, 102 Stat. 2682.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Amendments**
 
-1988—Pub. L. 100–532, § 801(m), inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c).
+1988—Pub. L. 100–532, § 801(m), inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c).
 
 1978—Subsec. (a). Pub. L. 95–396 inserted “federally registered” before “pesticide or device”.
 
@@ -4129,7 +4129,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136w. Authority of Administrator
+### § 136w. Authority of Administrator
 
 **(a) In general**
 
@@ -4195,13 +4195,13 @@ There is established a Science Review Board to consist of 60 scientists who shal
 
 The Administrator shall, by written procedures, provide for peer review with respect to the design, protocols, and conduct of major scientific studies conducted under this subchapter by the Environmental Protection Agency or by any other Federal agency, any State or political subdivision thereof, or any institution or individual under grant, contract, or cooperative agreement from or with the Environmental Protection Agency. In such procedures, the Administrator shall also provide for peer review, using the advisory panel established under subsection (d) of this section or appropriate experts appointed by the Administrator from a current list of nominees maintained by such panel, with respect to the results of any such scientific studies relied upon by the Administrator with respect to actions the Administrator may take relating to the change in classification, suspension, or cancellation of a pesticide. Whenever the Administrator determines that circumstances do not permit the peer review of the results of any such scientific study prior to the Administrator’s exercising authority under section 136d(c) of this title to immediately suspend the registration of any pesticide to prevent an imminent hazard, the Administrator shall promptly thereafter provide for the conduct of peer review as provided in this sentence. The evaluations and relevant documentation constituting the peer review that relate to the proposed scientific studies and the results of the completed scientific studies shall be included in the submission for comment forwarded by the Administrator to the advisory panel as provided in subsection (d). As used in this subsection, the term “peer review” shall mean an independent evaluation by scientific experts, either within or outside the Environmental Protection Agency, in the appropriate disciplines.
 
-(June 25, 1947, ch. 125, § 25, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 997; amended Pub. L. 94–140, §§ 2(a), 6, 7, Nov. 28, 1975, 89 Stat. 751, 753; Pub. L. 95–396, § 23, Sept. 30, 1978, 92 Stat. 836; Pub. L. 96–539, §§ 1, 2(a), 4, Dec. 17, 1980, 94 Stat. 3194, 3195; Pub. L. 98–201, § 1, Dec. 2, 1983, 97 Stat. 1379; Pub. L. 98–620, title IV, § 402(4)(D), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–352, § 6(i), June 27, 1988, 102 Stat. 664; Pub. L. 100–532, title VI, §§ 602, 605, title VIII, § 801(n), Oct. 25, 1988, 102 Stat. 2678, 2679, 2683; Pub. L. 102–237, title X, § 1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 104–170, title I, § 104, title II, § 235, Aug. 3, 1996, 110 Stat. 1490, 1509.)
+(June 25, 1947, ch. 125, § 25, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 997; amended Pub. L. 94–140, §§ 2(a), 6, 7, Nov. 28, 1975, 89 Stat. 751, 753; Pub. L. 95–396, § 23, Sept. 30, 1978, 92 Stat. 836; Pub. L. 96–539, §§ 1, 2(a), 4, Dec. 17, 1980, 94 Stat. 3194, 3195; Pub. L. 98–201, § 1, Dec. 2, 1983, 97 Stat. 1379; Pub. L. 98–620, title IV, § 402(4)(D), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–352, § 6(i), June 27, 1988, 102 Stat. 664; Pub. L. 100–532, title VI, §§ 602, 605, title VIII, § 801(n), Oct. 25, 1988, 102 Stat. 2678, 2679, 2683; Pub. L. 102–237, title X, § 1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 104–170, title I, § 104, title II, § 235, Aug. 3, 1996, 110 Stat. 1490, 1509.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Poison Prevention Packaging Act, referred to in subsec. (c)(3), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§ 1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15, and Tables.
+The Poison Prevention Packaging Act, referred to in subsec. (c)(3), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§ 1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15, and Tables.
 
 References in subsec. (c)(4) to “section 136(q)(1)” was, in the original, a reference to “paragraph 2(q)(1)” and has been editorially translated as “section 136(q)(1)” as the probable intent of Congress.
 
@@ -4209,53 +4209,53 @@ The Environmental Research, Development, and Demonstration Authorization Act of 
 
 **Amendments**
 
-1996—Subsec. (a)(1). Pub. L. 104–170, § 235, inserted “, including public health pesticides,” after “various classes of pesticides” and substituted “, nonagricultural, and public health pesticides” for “and nonagricultural pesticides”.
+1996—Subsec. (a)(1). Pub. L. 104–170, § 235, inserted “, including public health pesticides,” after “various classes of pesticides” and substituted “, nonagricultural, and public health pesticides” for “and nonagricultural pesticides”.
 
-Subsec. (d). Pub. L. 104–170, § 104, designated existing text as par. (1), inserted heading, and added par. (2).
+Subsec. (d). Pub. L. 104–170, § 104, designated existing text as par. (1), inserted heading, and added par. (2).
 
-1991—Subsec. (a)(3). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall”.
+1991—Subsec. (a)(3). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall”.
 
-Subsec. (b). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
+Subsec. (b). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
 
-Subsec. (c)(4). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”.
+Subsec. (c)(4). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”.
 
-Subsec. (c)(5). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
+Subsec. (c)(5). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
 
-Subsec. (d). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “deems necessary” and before “shall publish”.
+Subsec. (d). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “deems necessary” and before “shall publish”.
 
-1988—Subsec. (a). Pub. L. 100–532, § 801(n)(1), amended heading and directed that pars. (1) to (3) be aligned at left margin with subsec. (c)(1), and that subpars. (A) to (D) of par. (2) be indented, and in par. (3) substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
+1988—Subsec. (a). Pub. L. 100–532, § 801(n)(1), amended heading and directed that pars. (1) to (3) be aligned at left margin with subsec. (c)(1), and that subpars. (A) to (D) of par. (2) be indented, and in par. (3) substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-Subsec. (a)(4). Pub. L. 100–532, § 605, amended par. (4) generally, substituting single unlettered par. (4) for former subpars. (A) to (E).
+Subsec. (a)(4). Pub. L. 100–532, § 605, amended par. (4) generally, substituting single unlettered par. (4) for former subpars. (A) to (E).
 
 Pub. L. 100–352, in subpar. (E), struck out “(i)” before “Any interested” and struck out cl. (ii) which provided that notwithstanding any other provision of law, any decision on a matter certified under cl. (i) of this subparagraph be reviewable by appeal directly to the Supreme Court of the United States, with such appeal to be brought not later than 20 days after the decision of the court of appeals.
 
-Subsec. (d). Pub. L. 100–532, § 602, substituted “section shall be permanent” for “subsection shall terminate September 30, 1987”.
+Subsec. (d). Pub. L. 100–532, § 602, substituted “section shall be permanent” for “subsection shall terminate September 30, 1987”.
 
-Subsec. (e). Pub. L. 100–532, § 801(n)(2), substituted “pesticide. Whenever” for “pesticide: *Provided*, That whenever”.
+Subsec. (e). Pub. L. 100–532, § 801(n)(2), substituted “pesticide. Whenever” for “pesticide: *Provided*, That whenever”.
 
 1984—Subsec. (a)(4)(E)(iii). Pub. L. 98–620 struck out cl. (iii) requiring the court of appeals and the Supreme Court to advance on the docket and expedite the disposition of any matter certified under cl. (i) of this subparagraph.
 
 1983—Subsec. (d). Pub. L. 98–201 in fourth sentence, inserted “under this subsection” after “submitted”; in eighth sentence, provided for utilization of a system of staggered terms of appointment and substituted “7” and “6” for “seven” and “six”, respectively, and inserted ninth through fourteenth sentences respecting basis for selection of members, multidisciplinary representation, appointments to fill vacancies, extension of term pending filling of vacancies, appointment for unexpired term, and request for additional set of nominees from nominating entities; and in present eighteenth, formerly twelfth sentence, extended termination date to Sept. 30, 1987, from Sept. 30, 1981.
 
-1980—Subsec. (a)(4). Pub. L. 96–539, § 4, added par. (4).
+1980—Subsec. (a)(4). Pub. L. 96–539, § 4, added par. (4).
 
-Subsec. (d). Pub. L. 96–539, § 1, inserted provisions relating to composition of subpanels and submissions to advisory panels respecting registration suspensions.
+Subsec. (d). Pub. L. 96–539, § 1, inserted provisions relating to composition of subpanels and submissions to advisory panels respecting registration suspensions.
 
-Subsec. (e). Pub. L. 96–539, § 2(a), added subsec. (e).
+Subsec. (e). Pub. L. 96–539, § 2(a), added subsec. (e).
 
-1978—Subsec. (a)(1). Pub. L. 95–396, § 23(1), required regulations to take into account differences in environmental risk and appropriate data for evaluating such risk between agricultural and nonagricultural pesticides.
+1978—Subsec. (a)(1). Pub. L. 95–396, § 23(1), required regulations to take into account differences in environmental risk and appropriate data for evaluating such risk between agricultural and nonagricultural pesticides.
 
-Subsec. (a)(2)(B). Pub. L. 95–396, § 23(2), required the Administrator, before taking any final action, to consider certain factors bearing on the agricultural economy and to publish an analysis of the effect in the Federal Register.
+Subsec. (a)(2)(B). Pub. L. 95–396, § 23(2), required the Administrator, before taking any final action, to consider certain factors bearing on the agricultural economy and to publish an analysis of the effect in the Federal Register.
 
-Subsec. (d). Pub. L. 95–396, § 23(3), (4), required the Administrator to solicit operating guidelines from the scientific advisory panel to improve scientific analyses made by personnel of the Environmental Protection Agency that lead to decisions by the Administrator in carrying out this subchapter; extended requirement of publication in the Federal Register to evaluations and recommendations of the advisory panel; authorized creation of temporary subpanels on specific projects to assist in accelerating the work of the advisory panel; set forth Sept. 30, 1981, as the termination date of the advisory panel; and required the panel to consult and coordinate its activities with the Science Advisory Board established under section 4365 of title 42.
+Subsec. (d). Pub. L. 95–396, § 23(3), (4), required the Administrator to solicit operating guidelines from the scientific advisory panel to improve scientific analyses made by personnel of the Environmental Protection Agency that lead to decisions by the Administrator in carrying out this subchapter; extended requirement of publication in the Federal Register to evaluations and recommendations of the advisory panel; authorized creation of temporary subpanels on specific projects to assist in accelerating the work of the advisory panel; set forth Sept. 30, 1981, as the termination date of the advisory panel; and required the panel to consult and coordinate its activities with the Science Advisory Board established under section 4365 of title 42.
 
-1975—Subsec. (a)(1). Pub. L. 94–140, § 2(a)(1), (2), redesignated existing provision as subsec. (a)(1) and inserted “, in accordance with the procedure described in paragraph (2),” after “is authorized”.
+1975—Subsec. (a)(1). Pub. L. 94–140, § 2(a)(1), (2), redesignated existing provision as subsec. (a)(1) and inserted “, in accordance with the procedure described in paragraph (2),” after “is authorized”.
 
-Subsec. (a)(2). Pub. L. 94–140, § 2(a)(3), added par. (2).
+Subsec. (a)(2). Pub. L. 94–140, § 2(a)(3), added par. (2).
 
-Subsec. (a)(3). Pub. L. 94–140, § 6, added par. (3).
+Subsec. (a)(3). Pub. L. 94–140, § 6, added par. (3).
 
-Subsec. (d). Pub. L. 94–140, § 7, added subsec. (d).
+Subsec. (d). Pub. L. 94–140, § 7, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4271,7 +4271,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–539, § 2(b), Dec. 17, 1980, 94 Stat. 3195, provided that: “The provisions of this section [amending this section] shall become effective upon publication in the Federal Register of final procedures for peer review as provided in this section, but in no event shall such provisions become effective later than one year after the date of enactment of this Act [Dec. 17, 1980].”
+Pub. L. 96–539, § 2(b), Dec. 17, 1980, 94 Stat. 3195, provided that: “The provisions of this section [amending this section] shall become effective upon publication in the Federal Register of final procedures for peer review as provided in this section, but in no event shall such provisions become effective later than one year after the date of enactment of this Act [Dec. 17, 1980].”
 
 **Effective Date**
 
@@ -4279,11 +4279,11 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Information**
 
-Pub. L. 117–328, div. HH, title VI, § 707, Dec. 29, 2022, 136 Stat. 6082, provided that:
+Pub. L. 117–328, div. HH, title VI, § 707, Dec. 29, 2022, 136 Stat. 6082, provided that:
 
 > “Not later than 180 days after the date of enactment of this title [Dec. 29, 2022], the Administrator of the Environmental Protection Agency shall post on a single webpage of the website of the Environmental Protection Agency aggregated information on pesticide regulation under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.), including—
 
@@ -4297,7 +4297,7 @@ Pub. L. 117–328, div. HH, title VI, § 707, Dec. 29, 2022, 136 Stat. 6082, p
 
 **Agricultural Worker Protection Standard; Certification of Pesticide Applicators**
 
-Pub. L. 116–8, § 7(a), (b), Mar. 8, 2019, 133 Stat. 578, provided that:
+Pub. L. 116–8, § 7(a), (b), Mar. 8, 2019, 133 Stat. 578, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), during the period beginning on the date of enactment of this Act [Mar. 8, 2019] and ending not earlier than October 1, 2021, the Administrator of the Environmental Protection Agency (referred to in this section as the ‘Administrator’)—
 
@@ -4313,9 +4313,9 @@ Pub. L. 116–8, § 7(a), (b), Mar. 8, 2019, 133 Stat. 578, provided that:
 
 **User Fees**
 
-Pub. L. 101–508, title I, § 1204(e), Nov. 5, 1990, 104 Stat. 1388–11, provided that: “Notwithstanding any provision of the Omnibus Budget Reconciliation Act of 1990 [Pub. L. 101–508, see Tables for classification], nothing in this title or the other provisions of this Act shall be construed to require or authorize the Administrator of the Environmental Protection Agency to assess or collect any fees or charges for services and activities authorized under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.).”
+Pub. L. 101–508, title I, § 1204(e), Nov. 5, 1990, 104 Stat. 1388–11, provided that: “Notwithstanding any provision of the Omnibus Budget Reconciliation Act of 1990 [Pub. L. 101–508, see Tables for classification], nothing in this title or the other provisions of this Act shall be construed to require or authorize the Administrator of the Environmental Protection Agency to assess or collect any fees or charges for services and activities authorized under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.).”
 
-### § 136w–1. State primary enforcement responsibility
+### § 136w–1. State primary enforcement responsibility
 
 **(a) In general** For the purposes of this subchapter, a State shall have primary enforcement responsibility for pesticide use violations during any period for which the Administrator determines that such State—
 
@@ -4333,7 +4333,7 @@ Notwithstanding the provisions of subsection (a) of this section, any State that
 
 The Administrator shall have primary enforcement responsibility for those States that do not have primary enforcement responsibility under this subchapter. Notwithstanding the provisions of section 136(e)(1) of this title, during any period when the Administrator has such enforcement responsibility, section 136f(b) of this title shall apply to the books and records of commercial applicators and to any applicator who holds or applies pesticides, or uses dilutions of pesticides, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served, and section 136g(a) of this title shall apply to the establishment or other place where pesticides or devices are held for application by such persons with respect to pesticides or devices held for such application.
 
-(June 25, 1947, ch. 125, § 26, as added Pub. L. 95–396, § 24(2), Sept. 30, 1978, 92 Stat. 836; amended Pub. L. 100–532, title VIII, § 801(*o*), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2683; Pub. L. 102–237, title X, § 1006(a)(11), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, § 26, as added Pub. L. 95–396, § 24(2), Sept. 30, 1978, 92 Stat. 836; amended Pub. L. 100–532, title VIII, § 801(*o*), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2683; Pub. L. 102–237, title X, § 1006(a)(11), Dec. 13, 1991, 105 Stat. 1895.)
 
 **Editorial Notes**
 
@@ -4345,11 +4345,11 @@ A prior section 26 of act June 25, 1947, ch. 125, was renumbered section 34 and 
 
 1991—Subsec. (c). Pub. L. 102–237 substituted “uses” for “use”.
 
-1988—Subsec. (a). Pub. L. 100–532, § 801(*o*)(1), (2), inserted heading and substituted “regulations. The Administrator” for “regulations; *Provided*, That the Administrator” in par. (1).
+1988—Subsec. (a). Pub. L. 100–532, § 801(*o*)(1), (2), inserted heading and substituted “regulations. The Administrator” for “regulations; *Provided*, That the Administrator” in par. (1).
 
-Subsec. (b). Pub. L. 100–532, § 801(*o*)(3), (q)(1)(D), inserted heading and substituted “136i” for “136b” in two places.
+Subsec. (b). Pub. L. 100–532, § 801(*o*)(3), (q)(1)(D), inserted heading and substituted “136i” for “136b” in two places.
 
-Subsec. (c). Pub. L. 100–532, § 801(*o*)(4), inserted heading.
+Subsec. (c). Pub. L. 100–532, § 801(*o*)(4), inserted heading.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4357,7 +4357,7 @@ Subsec. (c). Pub. L. 100–532, § 801(*o*)(4), inserted heading.
 
 Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as a note under section 136 of this title.
 
-### § 136w–2. Failure by the State to assure enforcement of State pesticide use regulations
+### § 136w–2. Failure by the State to assure enforcement of State pesticide use regulations
 
 **(a) Referral**
 
@@ -4371,7 +4371,7 @@ Whenever the Administrator determines that a State having primary enforcement re
 
 Neither section 136w–1 of this title nor this section shall limit the authority of the Administrator to enforce this subchapter, where the Administrator determines that emergency conditions exist that require immediate action on the part of the Administrator and the State authority is unwilling or unable adequately to respond to the emergency.
 
-(June 25, 1947, ch. 125, § 27, as added Pub. L. 95–396, § 24(2), Sept. 30, 1978, 92 Stat. 837; amended Pub. L. 100–532, title VIII, § 801(p), Oct. 25, 1988, 102 Stat. 2683.)
+(June 25, 1947, ch. 125, § 27, as added Pub. L. 95–396, § 24(2), Sept. 30, 1978, 92 Stat. 837; amended Pub. L. 100–532, title VIII, § 801(p), Oct. 25, 1988, 102 Stat. 2683.)
 
 **Editorial Notes**
 
@@ -4389,7 +4389,7 @@ A prior section 27 of act June 25, 1947, ch. 125, was renumbered section 35 and 
 
 Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as a note under section 136 of this title.
 
-### § 136w–3. Identification of pests; cooperation with Department of Agriculture’s program
+### § 136w–3. Identification of pests; cooperation with Department of Agriculture’s program
 
 **(a) In general**
 
@@ -4421,7 +4421,7 @@ The Administrator, in cooperation with the Secretary of Agriculture, shall devel
 
 The Administrator, in coordination with the Secretary of Agriculture and the Secretary of Health and Human Services, shall identify pests of significant public health importance and, in coordination with the Public Health Service, develop and implement programs to improve and facilitate the safe and necessary use of chemical, biological, and other methods to combat and control such pests of public health importance.
 
-(June 25, 1947, ch. 125, § 28, as added Pub. L. 95–396, § 24(2), Sept. 30, 1978, 92 Stat. 838; amended Pub. L. 101–624, title XIV, § 1495, Nov. 28, 1990, 104 Stat. 3629; Pub. L. 104–127, title VIII, § 862(b)(1), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 104–170, title II, § 236, Aug. 3, 1996, 110 Stat. 1509.)
+(June 25, 1947, ch. 125, § 28, as added Pub. L. 95–396, § 24(2), Sept. 30, 1978, 92 Stat. 838; amended Pub. L. 101–624, title XIV, § 1495, Nov. 28, 1990, 104 Stat. 3629; Pub. L. 104–127, title VIII, § 862(b)(1), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 104–170, title II, § 236, Aug. 3, 1996, 110 Stat. 1509.)
 
 **Editorial Notes**
 
@@ -4433,19 +4433,19 @@ Subsec. (d). Pub. L. 104–170 added subsec. (d).
 
 1990—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-### § 136w–4. Omitted
+### § 136w–4. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 25, 1947, ch. 125, § 29, as added Pub. L. 95–396, § 24(2), Sept. 30, 1978, 92 Stat. 838, which required the Administrator of the Environmental Protection Agency to submit an annual report to Congress relating to applications filed for conditional registration under section 136a(c)(7)(B), (C) of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 164 of House Document No. 103–7.
+Section, act June 25, 1947, ch. 125, § 29, as added Pub. L. 95–396, § 24(2), Sept. 30, 1978, 92 Stat. 838, which required the Administrator of the Environmental Protection Agency to submit an annual report to Congress relating to applications filed for conditional registration under section 136a(c)(7)(B), (C) of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 164 of House Document No. 103–7.
 
-### § 136w–5. Minimum requirements for training of maintenance applicators and service technicians
+### § 136w–5. Minimum requirements for training of maintenance applicators and service technicians
 
 Each State may establish minimum requirements for training of maintenance applicators and service technicians. Such training may include instruction in the safe and effective handling and use of pesticides in accordance with the Environmental Protection Agency approved labeling, and instruction in integrated pest management techniques. The authority of the Administrator with respect to minimum requirements for training of maintenance applicators and service technicians shall be limited to ensuring that each State understands the provisions of this section.
 
-(June 25, 1947, ch. 125, § 30, as added Pub. L. 104–170, title I, § 121(2), Aug. 3, 1996, 110 Stat. 1492.)
+(June 25, 1947, ch. 125, § 30, as added Pub. L. 104–170, title I, § 121(2), Aug. 3, 1996, 110 Stat. 1492.)
 
 **Editorial Notes**
 
@@ -4453,13 +4453,13 @@ Each State may establish minimum requirements for training of maintenance applic
 
 A prior section 30 of act June 25, 1947, ch. 125, was renumbered section 34 and is classified to section 136x of this title.
 
-### § 136w–6. Environmental Protection Agency minor use program
+### § 136w–6. Environmental Protection Agency minor use program
 
 **(a)** The Administrator shall assure coordination of minor use issues through the establishment of a minor use program within the Office of Pesticide Programs. Such office shall be responsible for coordinating the development of minor use programs and policies and consulting with growers regarding minor use issues and registrations and amendments which are submitted to the Environmental Protection Agency.
 
 **(b)** The Office of Pesticide Programs shall prepare a public report concerning the progress made on the registration of minor uses, including implementation of the exclusive use as an incentive for registering new minor uses, within 3 years of the passage of the Food Quality Protection Act of 1996.
 
-(June 25, 1947, ch. 125, § 31, as added Pub. L. 104–170, title II, § 210(i), Aug. 3, 1996, 110 Stat. 1500.)
+(June 25, 1947, ch. 125, § 31, as added Pub. L. 104–170, title II, § 210(i), Aug. 3, 1996, 110 Stat. 1500.)
 
 **Editorial Notes**
 
@@ -4471,15 +4471,15 @@ The passage of the Food Quality Protection Act of 1996, referred to in subsec. (
 
 A prior section 31 of act June 25, 1947, ch. 125, was renumbered section 35 and is classified to section 136y of this title.
 
-### § 136w–7. Department of Agriculture minor use program
+### § 136w–7. Department of Agriculture minor use program
 
 **(a) In general** The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall assure the coordination of the responsibilities of the Department of Agriculture related to minor uses of pesticides, including—
 
-**(1)** carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)) 1
+**(1)** carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-and the national pesticide resistance monitoring program established under section 1651 1 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5882);
+and the national pesticide resistance monitoring program established under section 1651 1 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5882);
 
 **(2)** supporting integrated pest management research;
 
@@ -4519,7 +4519,7 @@ There is established in the Treasury of the United States a revolving fund to be
 
 There are authorized to be appropriated for each fiscal year to carry out the purposes of this subsection $10,000,000 to remain available until expended.
 
-(June 25, 1947, ch. 125, § 32, as added Pub. L. 104–170, title II, § 210(j), Aug. 3, 1996, 110 Stat. 1501.)
+(June 25, 1947, ch. 125, § 32, as added Pub. L. 104–170, title II, § 210(j), Aug. 3, 1996, 110 Stat. 1501.)
 
 **Editorial Notes**
 
@@ -4527,9 +4527,9 @@ There are authorized to be appropriated for each fiscal year to carry out the pu
 
 Section 2 of Public Law 89–106, referred to in subsec. (a)(1), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as section 3157 of this title.
 
-Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (a)(1), was classified to section 5882 of this title prior to repeal by Pub. L. 104–127, title VIII, § 862(a), Apr. 4, 1996, 110 Stat. 1174.
+Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (a)(1), was classified to section 5882 of this title prior to repeal by Pub. L. 104–127, title VIII, § 862(a), Apr. 4, 1996, 110 Stat. 1174.
 
-### § 136w–8. Pesticide registration service fees
+### § 136w–8. Pesticide registration service fees
 
 **(a) Definition of costs** In this section, the term “costs”, when used with respect to review and decisionmaking pertaining to an application for which registration service fees are paid under this section, means—
 
@@ -4800,7 +4800,7 @@ Subject to paragraph (6), the schedule of registration applications and other co
 <tr><td>A530</td><td>90</td><td>New product, identical or substantially similar in composition and use to a registered product; no data review or only product chemistry data; cite all data citation or selective data citation where applicant owns all required data; or applicant submits specific authorization letter from data owner. Category also includes 100% re-package of registered end-use or manufacturing-use product that requires no data submission nor data matrix. (2)(3)</td><td>4</td><td>1,833</td></tr>
 <tr><td>A531</td><td>91</td><td>New product; identical or substantially similar in composition and use to a registered product; registered source of active ingredient: selective data citation only for data on product chemistry and/or acute toxicity and/or public health pest efficacy, where applicant does not own all required data and does not have a specific authorization letter from data owner. (2)(3)</td><td>4</td><td>2,616</td></tr>
 <tr><td>A532</td><td>92</td><td>New product; identical or substantially similar in composition and use to a registered product; registered active ingredient; unregistered source of active ingredient; cite-all data citation except for product chemistry; product chemistry data submitted. (2)(3)</td><td>5</td><td>7,322</td></tr>
-<tr><td>A550</td><td>93</td><td>New end-use product; uses other than FIFRA § 2(mm); non-FQPA product. (2)(3)(5)</td><td>9</td><td>18,958</td></tr>
+<tr><td>A550</td><td>93</td><td>New end-use product; uses other than FIFRA § 2(mm); non-FQPA product. (2)(3)(5)</td><td>9</td><td>18,958</td></tr>
 <tr><td>A560</td><td>94</td><td>New manufacturing-use product; registered active ingredient; selective data citation. (2)(3)</td><td>6</td><td>18,054</td></tr>
 <tr><td>A565</td><td>95</td><td>New manufacturing-use product; registered active ingredient; unregistered source of active ingredient; submission of new generic data package; registered uses only; requires science review. (2)(3)</td><td>18</td><td>26,135</td></tr>
 <tr><td>A572</td><td>96</td><td>New Product or amendment requiring data review for risk assessment by Science Branch (e.g., changes to Restricted Entry Interval, or Personal Protective Equipment, or use rate). (2)(3)(4)(7)</td><td>9</td><td>18,958</td></tr>
@@ -5035,8 +5035,8 @@ Subject to paragraph (6), the schedule of registration applications and other co
 <tr><td colspan="5">(8) This category includes amendments the sole purpose of which is to add “Design for the Environment” (DfE) (or equivalent terms that do not use “safe” or derivatives of “safe”) logos to a label. DfE is a voluntary program. A label bearing a DfE logo is not considered an Agency endorsement because the ingredients in the qualifying product must meet objective, scientific criteria established and widely publicized by EPA.</td></tr>
 <tr><td>M001</td><td>213</td><td>Study protocol requiring Human Studies Review Board review as defined in 40 CFR Part 26 in support of a currently registered active ingredient.</td><td>14</td><td>11,378</td></tr>
 <tr><td>M002</td><td>214</td><td>Completed study requiring Human Studies Review Board review as defined in 40 CFR Part 26 in support of an active ingredient. (2)</td><td>14</td><td>11,378</td></tr>
-<tr><td>M003</td><td>215</td><td>External technical peer review of new active ingredient, product, or amendment (e.g., consultation with FIFRA Scientific Advisory Panel) for an action with a decision timeframe of less than 12 months. Applicant initiated request based on a requirement of the Administrator, as defined by FIFRA § 25(d), in support of a novel active ingredient, or unique use pattern or application technology. Excludes PIP active .ingredients. (3)</td><td>12</td><td>91,651</td></tr>
-<tr><td>M004</td><td>216</td><td>External technical peer review of new active ingredient, product, or amendment (e.g., consultation with FIFRA Scientific Advisory Panel) for an action with a decision timeframe of greater than 12 months. Applicant initiated request based on a requirement of the Administrator, as defined by FIFRA § 25(d), in support of a novel active ingredient, or unique use pattern or application technology. Excludes PIP active ingredients. (3)</td><td>18</td><td>91,651</td></tr>
+<tr><td>M003</td><td>215</td><td>External technical peer review of new active ingredient, product, or amendment (e.g., consultation with FIFRA Scientific Advisory Panel) for an action with a decision timeframe of less than 12 months. Applicant initiated request based on a requirement of the Administrator, as defined by FIFRA § 25(d), in support of a novel active ingredient, or unique use pattern or application technology. Excludes PIP active .ingredients. (3)</td><td>12</td><td>91,651</td></tr>
+<tr><td>M004</td><td>216</td><td>External technical peer review of new active ingredient, product, or amendment (e.g., consultation with FIFRA Scientific Advisory Panel) for an action with a decision timeframe of greater than 12 months. Applicant initiated request based on a requirement of the Administrator, as defined by FIFRA § 25(d), in support of a novel active ingredient, or unique use pattern or application technology. Excludes PIP active ingredients. (3)</td><td>18</td><td>91,651</td></tr>
 <tr><td>M005</td><td>217</td><td>New Product: Combination, Contains a combination of active ingredients from a registered and/or unregistered source; conventional, antimicrobial and/or biopesticide. Requires coordination with other regulatory divisions to conduct review of data, label and/or verify the validity of existing data as cited. Only existing uses for each active ingredient in the combination product. (4)(5)(6)</td><td>9</td><td>31,604</td></tr>
 <tr><td>M006</td><td>218</td><td>Request for up to 5 letters of certification (Gold Seal) for one actively registered product (excludes distributor products). (7)</td><td>1</td><td>398</td></tr>
 <tr><td>M007</td><td>219</td><td>Request to extend Exclusive Use of data as provided by FIFRA Section 3(c)(1)(F)(ii).</td><td>12</td><td>7,903</td></tr>
@@ -5075,7 +5075,7 @@ If a covered application is submitted by a person that paid the fee for the appl
 
 Subject to the following sentence, effective for a covered application received during the period beginning on October 1, 2024, and ending on September 30, 2026, the Administrator may increase by 5 percent the registration service fee payable for the application under paragraph (3).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 No adjustment may be made under the preceding sentence until the date on which the Administrator begins to implement clauses (i) and (ii) of subsection (k)(2)(A).
 
@@ -5127,7 +5127,7 @@ An applicant requesting a waiver or exemption under this subparagraph shall prov
 
 **(E) IR–4 exemption** The Administrator shall exempt an application from the registration service fee if the Administrator determines that—
 
-**(i)** the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)); <sup>1</sup> and
+**(i)** the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)); <sup>1</sup> and
 
 **(ii)** the exemption is in the public interest.
 
@@ -5163,7 +5163,7 @@ An agency of the Federal Government or a State government shall be exempt from c
 
 If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3), a covered application is withdrawn by the applicant, the Administrator shall refund all but 25 percent.2
 
-<sup>2</sup>  So in original. The period probably should not appear.
+<sup>2</sup> So in original. The period probably should not appear.
 
 of the total registration service fee payable under paragraph (3)(B) for the application.
 
@@ -5625,9 +5625,9 @@ All full-time equivalent positions supported by fees authorized and collected un
 
 **(XIII)** a review of the progress in carrying out section 136a(g) of this title, including—
 
-**(aa)**  3
+**(aa)** 3
 
-<sup>3</sup>  So in original. There is no item (bb).
+<sup>3</sup> So in original. There is no item (bb).
 
 the number of pesticides or pesticide cases reviewed and the number of registration review decisions completed, including—
 
@@ -5725,11 +5725,11 @@ the number of pesticides or pesticide cases reviewed and the number of registrat
 
 **(ii)** provides a real-time, accurate, tracking system for all regulatory submissions to the Office of Pesticide Programs;
 
-**(iii)** provides a 4
+**(iii)** provides a 4
 
-<sup>4</sup>  So in original.
+<sup>4</sup> So in original.
 
-real-time, accessible information 4 that provides each applicant confidential, online access to the status and progress of the regulatory submissions of the applicant; and
+real-time, accessible information 4 that provides each applicant confidential, online access to the status and progress of the regulatory submissions of the applicant; and
 
 **(iv)** updates the electronic submission portal—
 
@@ -5783,7 +5783,7 @@ In the case of an application received under this section before September 30, 2
 
 In the case of an application received under this section on or after September 30, 2027, subsection (f) shall not apply to the application.
 
-(June 25, 1947, ch. 125, § 33, as added Pub. L. 108–199, div. G, title V, § 501(f)(2), Jan. 23, 2004, 118 Stat. 422; amended Pub. L. 110–94, § 5, Oct. 9, 2007, 121 Stat. 1002; Pub. L. 110–193, § 1(a), Mar. 6, 2008, 122 Stat. 649; Pub. L. 112–177, § 2(a)(2)(B), (b), Sept. 28, 2012, 126 Stat. 1328, 1330; Pub. L. 116–8, §§ 5, 6, Mar. 8, 2019, 133 Stat. 487, 491; Pub. L. 117–328, div. HH, title VI, §§ 705, 706, Dec. 29, 2022, 136 Stat. 6008, 6018.)
+(June 25, 1947, ch. 125, § 33, as added Pub. L. 108–199, div. G, title V, § 501(f)(2), Jan. 23, 2004, 118 Stat. 422; amended Pub. L. 110–94, § 5, Oct. 9, 2007, 121 Stat. 1002; Pub. L. 110–193, § 1(a), Mar. 6, 2008, 122 Stat. 649; Pub. L. 112–177, § 2(a)(2)(B), (b), Sept. 28, 2012, 126 Stat. 1328, 1330; Pub. L. 116–8, §§ 5, 6, Mar. 8, 2019, 133 Stat. 487, 491; Pub. L. 117–328, div. HH, title VI, §§ 705, 706, Dec. 29, 2022, 136 Stat. 6008, 6018.)
 
 **Editorial Notes**
 
@@ -5791,15 +5791,15 @@ In the case of an application received under this section on or after September 
 
 The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of this section, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 Paragraph (3), referred to in subsec. (b)(6)(A), probably should be a reference to paragraph (3)(B). Amendment by section 705(a)(1)(B) of Pub. L. 117–328 substituting “paragraph (3)(B)” for “paragraph (3)” wherever appearing in subsec. (b) was followed by the general amendment of subsec. (b)(6)(A) by section 705(a)(1)(D)(i) of Pub. L. 117–328, which contained the reference to paragraph (3).
 
 Section 2 of Public Law 89–106, referred to in subsec. (b)(7)(E)(i), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as section 3157 of this title.
 
-The Endangered Species Act of 1973, referred to in subsec. (c)(3)(B)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (c)(3)(B)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The Pesticide Registration Improvement Act of 2022, referred to in subsecs. (c)(3)(C)(ii)(I), (iii)(I)(aa)(BB) and (k)(1)(A)(iv), (B)(iv), is title VI (§ 701 et seq.) of div. HH of Pub. L. 117–328, Dec. 29, 2022, 136 Stat. 5996. For complete classification of this Act to the Code, see Short Title of 2022 Amendment note set out under section 136 of this title and Tables.
+The Pesticide Registration Improvement Act of 2022, referred to in subsecs. (c)(3)(C)(ii)(I), (iii)(I)(aa)(BB) and (k)(1)(A)(iv), (B)(iv), is title VI (§ 701 et seq.) of div. HH of Pub. L. 117–328, Dec. 29, 2022, 136 Stat. 5996. For complete classification of this Act to the Code, see Short Title of 2022 Amendment note set out under section 136 of this title and Tables.
 
 The effective date of the Pesticide Registration Improvement Extension Act of 2018, referred to in subsec. (e)(1), means the effective date of Pub. L. 116–8, which was approved Mar. 8, 2019.
 
@@ -5817,19 +5817,19 @@ A prior section 33 of act June 25, 1947, ch. 125, was renumbered section 34 and 
 
 **Amendments**
 
-2022—Subsec. (b). Pub. L. 117–328, § 705(a)(1)(B), substituted “paragraph (3)(B)” for “paragraph (3)” wherever appearing. Subsec. (b)(6)(A) was subsequently amended generally by Pub. L. 117–328, § 705(a)(1)(D)(i), after which “paragraph (3)” appeared in text.
+2022—Subsec. (b). Pub. L. 117–328, § 705(a)(1)(B), substituted “paragraph (3)(B)” for “paragraph (3)” wherever appearing. Subsec. (b)(6)(A) was subsequently amended generally by Pub. L. 117–328, § 705(a)(1)(D)(i), after which “paragraph (3)” appeared in text.
 
-Subsec. (b)(2)(E)(iii). Pub. L. 117–328, § 705(a)(1)(A), substituted “on completion of, where appropriate, the initial screening of the contents of the application or the preliminary technical screening” for “after review”.
+Subsec. (b)(2)(E)(iii). Pub. L. 117–328, § 705(a)(1)(A), substituted “on completion of, where appropriate, the initial screening of the contents of the application or the preliminary technical screening” for “after review”.
 
-Subsec. (b)(3). Pub. L. 117–328, § 705(a)(1)(C), designated existing provisions as subpar. (B), inserted heading, and added subpar. (A).
+Subsec. (b)(3). Pub. L. 117–328, § 705(a)(1)(C), designated existing provisions as subpar. (B), inserted heading, and added subpar. (A).
 
-Subsec. (b)(3)(B). Pub. L. 117–328, § 706, added subpar. (B) and struck out former subpar. (B), as designated by section 705(a)(1)(C) of Pub. L. 117–328, which set out the schedule of covered applications and other actions and their registration service fees.
+Subsec. (b)(3)(B). Pub. L. 117–328, § 706, added subpar. (B) and struck out former subpar. (B), as designated by section 705(a)(1)(C) of Pub. L. 117–328, which set out the schedule of covered applications and other actions and their registration service fees.
 
-Subsec. (b)(6)(A), (B). Pub. L. 117–328, § 705(a)(1)(D), which directed amendment of subpars. (A) and (B) “to read as follows” but did not include subpar. designations or headings, was executed by amending the text only and retaining the existing designations and headings, to reflect the probable intent of Congress. Prior to amendment, subpars. (A) and (B) related to fee adjustment between Oct. 1, 2019, and Sept. 30, 2021, and an additional fee adjustment starting on Oct. 1, 2021.
+Subsec. (b)(6)(A), (B). Pub. L. 117–328, § 705(a)(1)(D), which directed amendment of subpars. (A) and (B) “to read as follows” but did not include subpar. designations or headings, was executed by amending the text only and retaining the existing designations and headings, to reflect the probable intent of Congress. Prior to amendment, subpars. (A) and (B) related to fee adjustment between Oct. 1, 2019, and Sept. 30, 2021, and an additional fee adjustment starting on Oct. 1, 2021.
 
-Subsec. (b)(7)(A). Pub. L. 117–328, § 705(a)(1)(E), substituted “(including a Gold Seal letter and a Certificate of Establishment)” for “(commonly referred to as a Gold Seal letter)”.
+Subsec. (b)(7)(A). Pub. L. 117–328, § 705(a)(1)(E), substituted “(including a Gold Seal letter and a Certificate of Establishment)” for “(commonly referred to as a Gold Seal letter)”.
 
-Subsec. (c)(3)(B), (C). Pub. L. 117–328, § 705(b)(1), added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows:
+Subsec. (c)(3)(B), (C). Pub. L. 117–328, § 705(b)(1), added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows:
 
 “(i) In general.—For each of fiscal years 2013 through 2023, the Administrator shall use approximately <sup>1</sup>⁄<sub>17</sub> of the amount in the Fund (but not less than $1,000,000) to enhance scientific and regulatory activities relating to worker protection, with an emphasis on field-worker populations in the United States.
 
@@ -5837,83 +5837,83 @@ Subsec. (c)(3)(B), (C). Pub. L. 117–328, § 705(b)(1), added subpars. (B) an
 
 “(iii) Pesticide safety education program.—Of the amounts in the Fund, the Administrator shall use $500,000 for each of fiscal years 2013 through 2023 to carry out the pesticide safety education program.”
 
-Subsec. (c)(4)(B), (C). Pub. L. 117–328, § 705(b)(2), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (c)(4)(B), (C). Pub. L. 117–328, § 705(b)(2), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (d)(2). Pub. L. 117–328, § 705(c), struck out “(as in existence in fiscal year 2012)” after “for the functions” and substituted “$166,000,000.” for “the amount of appropriations for covered functions for fiscal year 2012 (excluding the amount of any fees appropriated for the fiscal year).”
+Subsec. (d)(2). Pub. L. 117–328, § 705(c), struck out “(as in existence in fiscal year 2012)” after “for the functions” and substituted “$166,000,000.” for “the amount of appropriations for covered functions for fiscal year 2012 (excluding the amount of any fees appropriated for the fiscal year).”
 
-Subsec. (e). Pub. L. 117–328, § 705(d), substituted “Reforms to reduce decision time review periods and prevent double payment of registration fees” for “Reforms to reduce decision time review periods” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+Subsec. (e). Pub. L. 117–328, § 705(d), substituted “Reforms to reduce decision time review periods and prevent double payment of registration fees” for “Reforms to reduce decision time review periods” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
 
-Subsec. (f). Pub. L. 117–328, § 705(a)(2), substituted “subsection (b)(3)(B)” for “subsection (b)(3)” wherever appearing.
+Subsec. (f). Pub. L. 117–328, § 705(a)(2), substituted “subsection (b)(3)(B)” for “subsection (b)(3)” wherever appearing.
 
-Subsec. (f)(1). Pub. L. 117–328, § 705(e)(1), substituted “Pesticide Registration Improvement Act of 2022” for “Pesticide Registration Improvement Extension Act of 2018”.
+Subsec. (f)(1). Pub. L. 117–328, § 705(e)(1), substituted “Pesticide Registration Improvement Act of 2022” for “Pesticide Registration Improvement Extension Act of 2018”.
 
-Subsec. (f)(4)(B)(i)(III). Pub. L. 117–328, § 705(e)(2)(A)(i), added subcl. (III).
+Subsec. (f)(4)(B)(i)(III). Pub. L. 117–328, § 705(e)(2)(A)(i), added subcl. (III).
 
-Subsec. (f)(4)(B)(iii). Pub. L. 117–328, § 705(e)(2)(A)(ii), inserted “automate the process, to the maximum extent practicable, and” before “determine” in introductory provisions.
+Subsec. (f)(4)(B)(iii). Pub. L. 117–328, § 705(e)(2)(A)(ii), inserted “automate the process, to the maximum extent practicable, and” before “determine” in introductory provisions.
 
-Subsec. (f)(4)(B)(iv). Pub. L. 117–328, § 705(e)(2)(A)(iii), struck out “determine if” after “shall” in introductory provisions, inserted “determine if” at beginning of subcls. (I) and (II), and added subcls. (III) to (VI).
+Subsec. (f)(4)(B)(iv). Pub. L. 117–328, § 705(e)(2)(A)(iii), struck out “determine if” after “shall” in introductory provisions, inserted “determine if” at beginning of subcls. (I) and (II), and added subcls. (III) to (VI).
 
-Subsec. (f)(4)(E). Pub. L. 117–328, § 705(e)(2)(B), added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: “In the case of a covered pesticide registration application listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency, the decision time review period begins on the date that is 30 days after the effective date of the Pesticide Registration Improvement Act of 2003.”
+Subsec. (f)(4)(E). Pub. L. 117–328, § 705(e)(2)(B), added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: “In the case of a covered pesticide registration application listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency, the decision time review period begins on the date that is 30 days after the effective date of the Pesticide Registration Improvement Act of 2003.”
 
-Subsec. (f)(5). Pub. L. 117–328, § 705(e)(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The Administrator and the applicant may mutually agree in writing to extend a decision time review period under this subsection.”
+Subsec. (f)(5). Pub. L. 117–328, § 705(e)(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The Administrator and the applicant may mutually agree in writing to extend a decision time review period under this subsection.”
 
-Subsec. (k). Pub. L. 117–328, § 705(f), added subsec. (k) and struck out former subsec. (k) which related to publication of annual reports and submission of another report to Congress.
+Subsec. (k). Pub. L. 117–328, § 705(f), added subsec. (k) and struck out former subsec. (k) which related to publication of annual reports and submission of another report to Congress.
 
-Subsec. (m). Pub. L. 117–328, § 705(g)(1), substituted “2027” for “2023” wherever appearing.
+Subsec. (m). Pub. L. 117–328, § 705(g)(1), substituted “2027” for “2023” wherever appearing.
 
-Subsec. (m)(2)(A). Pub. L. 117–328, § 705(g)(2)(A), substituted “2028” for “2024” in heading and text.
+Subsec. (m)(2)(A). Pub. L. 117–328, § 705(g)(2)(A), substituted “2028” for “2024” in heading and text.
 
-Subsec. (m)(2)(B), (C). Pub. L. 117–328, § 705(g)(2)(B), substituted “2029” for “2025” in heading and text.
+Subsec. (m)(2)(B), (C). Pub. L. 117–328, § 705(g)(2)(B), substituted “2029” for “2025” in heading and text.
 
-2019—Subsec. (b)(2). Pub. L. 116–8, § 5(a)(1)(A), struck out “pesticide registration” after “Covered” in heading.
+2019—Subsec. (b)(2). Pub. L. 116–8, § 5(a)(1)(A), struck out “pesticide registration” after “Covered” in heading.
 
-Subsec. (b)(2)(A). Pub. L. 116–8, § 5(a)(1)(B), inserted “or for any other action covered by a table specified in paragraph (3)” after “Pesticide Registration Improvement Act of 2003”.
+Subsec. (b)(2)(A). Pub. L. 116–8, § 5(a)(1)(B), inserted “or for any other action covered by a table specified in paragraph (3)” after “Pesticide Registration Improvement Act of 2003”.
 
-Subsec. (b)(3). Pub. L. 116–8, § 6, amended par. (3) generally. Prior to amendment, par. (3) related to schedule of covered applications and registration service fees.
+Subsec. (b)(3). Pub. L. 116–8, § 6, amended par. (3) generally. Prior to amendment, par. (3) related to schedule of covered applications and registration service fees.
 
-Subsec. (b)(5). Pub. L. 116–8, § 5(a)(2), substituted “covered applications” for “pesticide registration applications” in heading and “covered application” for “pesticide registration application” in two places in text.
+Subsec. (b)(5). Pub. L. 116–8, § 5(a)(2), substituted “covered applications” for “pesticide registration applications” in heading and “covered application” for “pesticide registration application” in two places in text.
 
-Subsec. (b)(6)(A). Pub. L. 116–8, § 5(a)(3)(A), struck out “pesticide registration” after “Effective for a covered” and substituted “October 1, 2019, and ending on September 30, 2021” for “October 1, 2013, and ending on September 30, 2015”.
+Subsec. (b)(6)(A). Pub. L. 116–8, § 5(a)(3)(A), struck out “pesticide registration” after “Effective for a covered” and substituted “October 1, 2019, and ending on September 30, 2021” for “October 1, 2013, and ending on September 30, 2015”.
 
-Subsec. (b)(6)(B). Pub. L. 116–8, § 5(a)(3)(B), struck out “pesticide registration” after “Effective for a covered” and substituted “2021” for “2015” in two places.
+Subsec. (b)(6)(B). Pub. L. 116–8, § 5(a)(3)(B), struck out “pesticide registration” after “Effective for a covered” and substituted “2021” for “2015” in two places.
 
-Subsec. (b)(6)(C). Pub. L. 116–8, § 5(a)(3)(C), substituted “service fee schedules revised pursuant to this paragraph” for “revised registration service fee schedules”.
+Subsec. (b)(6)(C). Pub. L. 116–8, § 5(a)(3)(C), substituted “service fee schedules revised pursuant to this paragraph” for “revised registration service fee schedules”.
 
-Subsec. (b)(7)(A). Pub. L. 116–8, § 5(a)(4)(A), substituted “covered application” for “covered pesticide registration” and inserted before period at end “, except that no waiver or fee reduction shall be provided in connection with a request for a letter of certification (commonly referred to as a Gold Seal letter)”.
+Subsec. (b)(7)(A). Pub. L. 116–8, § 5(a)(4)(A), substituted “covered application” for “covered pesticide registration” and inserted before period at end “, except that no waiver or fee reduction shall be provided in connection with a request for a letter of certification (commonly referred to as a Gold Seal letter)”.
 
-Subsec. (b)(7)(F)(i). Pub. L. 116–8, § 5(a)(4)(B), struck out “pesticide registration” after “for a covered”.
+Subsec. (b)(7)(F)(i). Pub. L. 116–8, § 5(a)(4)(B), struck out “pesticide registration” after “for a covered”.
 
-Subsec. (b)(8)(A). Pub. L. 116–8, § 5(a)(5)(A), struck out “pesticide registration” after “a covered”.
+Subsec. (b)(8)(A). Pub. L. 116–8, § 5(a)(5)(A), struck out “pesticide registration” after “a covered”.
 
-Subsec. (b)(8)(B)(i). Pub. L. 116–8, § 5(a)(5)(B), struck out “pesticide registration” after “If a covered”.
+Subsec. (b)(8)(B)(i). Pub. L. 116–8, § 5(a)(5)(B), struck out “pesticide registration” after “If a covered”.
 
-Subsec. (b)(8)(C)(i). Pub. L. 116–8, § 5(a)(5)(C)(i), substituted “case of a covered” for “case of a pesticide registration”.
+Subsec. (b)(8)(C)(i). Pub. L. 116–8, § 5(a)(5)(C)(i), substituted “case of a covered” for “case of a pesticide registration”.
 
-Subsec. (b)(8)(C)(ii)(I). Pub. L. 116–8, § 5(a)(5)(C)(ii), substituted “covered” for “pesticide registration”.
+Subsec. (b)(8)(C)(ii)(I). Pub. L. 116–8, § 5(a)(5)(C)(ii), substituted “covered” for “pesticide registration”.
 
-Subsec. (c)(3)(B). Pub. L. 116–8, § 5(b)(1), inserted “, partnership grants, and pesticide safety education” after “Worker protection” in heading.
+Subsec. (c)(3)(B). Pub. L. 116–8, § 5(b)(1), inserted “, partnership grants, and pesticide safety education” after “Worker protection” in heading.
 
-Subsec. (c)(3)(B)(i). Pub. L. 116–8, § 5(b)(2), substituted “2023” for “2017” and inserted before period at end “, with an emphasis on field-worker populations in the United States”.
+Subsec. (c)(3)(B)(i). Pub. L. 116–8, § 5(b)(2), substituted “2023” for “2017” and inserted before period at end “, with an emphasis on field-worker populations in the United States”.
 
-Subsec. (c)(3)(B)(ii). Pub. L. 116–8, § 5(b)(3), substituted “2023” for “2017”.
+Subsec. (c)(3)(B)(ii). Pub. L. 116–8, § 5(b)(3), substituted “2023” for “2017”.
 
-Subsec. (c)(3)(B)(iii). Pub. L. 116–8, § 5(b)(4), substituted “2023” for “2017”.
+Subsec. (c)(3)(B)(iii). Pub. L. 116–8, § 5(b)(4), substituted “2023” for “2017”.
 
-Subsec. (e). Pub. L. 116–8, § 5(c), substituted “Pesticide Registration Improvement Extension Act of 2018” for “Pesticide Registration Improvement Extension Act of 2012” and inserted at end “Such reforms shall include identifying opportunities for streamlining review processes for applications for a new active ingredient or a new use and providing prompt feedback to applicants during such review process.”
+Subsec. (e). Pub. L. 116–8, § 5(c), substituted “Pesticide Registration Improvement Extension Act of 2018” for “Pesticide Registration Improvement Extension Act of 2012” and inserted at end “Such reforms shall include identifying opportunities for streamlining review processes for applications for a new active ingredient or a new use and providing prompt feedback to applicants during such review process.”
 
-Subsec. (f)(1). Pub. L. 116–8, § 5(d)(1), substituted “Pesticide Registration Improvement Extension Act of 2018” for “Pesticide Registration Improvement Extension Act of 2012” and inserted “or for any other action covered by a table specified in subsection (b)(3)” after “covered pesticide registration actions”.
+Subsec. (f)(1). Pub. L. 116–8, § 5(d)(1), substituted “Pesticide Registration Improvement Extension Act of 2018” for “Pesticide Registration Improvement Extension Act of 2012” and inserted “or for any other action covered by a table specified in subsection (b)(3)” after “covered pesticide registration actions”.
 
-Subsec. (f)(3)(C). Pub. L. 116–8, § 5(d)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “covered pesticide registration applications listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency.”
+Subsec. (f)(3)(C). Pub. L. 116–8, § 5(d)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “covered pesticide registration applications listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency.”
 
-Subsec. (f)(4)(A). Pub. L. 116–8, § 5(d)(3), substituted “a covered application” for “a pesticide registration application” and “the covered application” for “the covered pesticide registration application”.
+Subsec. (f)(4)(A). Pub. L. 116–8, § 5(d)(3), substituted “a covered application” for “a pesticide registration application” and “the covered application” for “the covered pesticide registration application”.
 
-Subsec. (k)(1). Pub. L. 116–8, § 5(e)(1), substituted “2023” for “2017”.
+Subsec. (k)(1). Pub. L. 116–8, § 5(e)(1), substituted “2023” for “2017”.
 
-Subsec. (k)(2)(D)(i). Pub. L. 116–8, § 5(e)(2)(A), added cl. (i) and struck out former cl. (i) which read as follows: “the number of pesticides or pesticide cases reviewed;”.
+Subsec. (k)(2)(D)(i). Pub. L. 116–8, § 5(e)(2)(A), added cl. (i) and struck out former cl. (i) which read as follows: “the number of pesticides or pesticide cases reviewed;”.
 
-Subsec. (k)(2)(G)(i). Pub. L. 116–8, § 5(e)(2)(B)(i), substituted “paragraphs (4) and (5) of section 136a–1(k) of this title” for “section 136a–1(k)(4) of this title” and “such paragraphs” for “that section”.
+Subsec. (k)(2)(G)(i). Pub. L. 116–8, § 5(e)(2)(B)(i), substituted “paragraphs (4) and (5) of section 136a–1(k) of this title” for “section 136a–1(k)(4) of this title” and “such paragraphs” for “that section”.
 
-Subsec. (k)(2)(G)(ii) to (vii). Pub. L. 116–8, § 5(e)(2)(B)(ii)–(iv), added cl. (ii), redesignated cl. (vii) as (iii), and struck out former cls. (ii) to (vi) which read as follows:
+Subsec. (k)(2)(G)(ii) to (vii). Pub. L. 116–8, § 5(e)(2)(B)(ii)–(iv), added cl. (ii), redesignated cl. (vii) as (iii), and struck out former cls. (ii) to (vi) which read as follows:
 
 “(ii) implementing systems for the electronic tracking of registration submissions by December 31, 2013;
 
@@ -5925,149 +5925,149 @@ Subsec. (k)(2)(G)(ii) to (vii). Pub. L. 116–8, § 5(e)(2)(B)(ii)–(iv), add
 
 “(vi) acquiring and implementing the capability to electronically assess and evaluate confidential statements of formula submitted with registration actions by December 31, 2014; and”.
 
-Subsec. (k)(2)(K) to (O). Pub. L. 116–8, § 5(e)(2)(C)–(E), added subpars. (K) to (O).
+Subsec. (k)(2)(K) to (O). Pub. L. 116–8, § 5(e)(2)(C)–(E), added subpars. (K) to (O).
 
-Subsec. (m)(1). Pub. L. 116–8, § 5(f)(1), substituted “2023” for “2017”.
+Subsec. (m)(1). Pub. L. 116–8, § 5(f)(1), substituted “2023” for “2017”.
 
-Subsec. (m)(2)(A). Pub. L. 116–8, § 5(f)(2)(A), in heading, substituted “Fiscal year 2024” for “Fiscal year 2018” and in text, substituted “2024” for “2018” and “2023” for “2017”.
+Subsec. (m)(2)(A). Pub. L. 116–8, § 5(f)(2)(A), in heading, substituted “Fiscal year 2024” for “Fiscal year 2018” and in text, substituted “2024” for “2018” and “2023” for “2017”.
 
-Subsec. (m)(2)(B). Pub. L. 116–8, § 5(f)(2)(B), in heading, substituted “Fiscal year 2025” for “Fiscal year 2019” and in text, substituted “2025” for “2019” and “2023” for “2017”.
+Subsec. (m)(2)(B). Pub. L. 116–8, § 5(f)(2)(B), in heading, substituted “Fiscal year 2025” for “Fiscal year 2019” and in text, substituted “2025” for “2019” and “2023” for “2017”.
 
-Subsec. (m)(2)(C). Pub. L. 116–8, § 5(f)(2)(C), substituted “2025” for “2019” in heading and text.
+Subsec. (m)(2)(C). Pub. L. 116–8, § 5(f)(2)(C), substituted “2025” for “2019” in heading and text.
 
-Subsec. (m)(2)(D). Pub. L. 116–8, § 5(f)(2)(D), substituted “2023” for “2017” in cls. (i) and (ii).
+Subsec. (m)(2)(D). Pub. L. 116–8, § 5(f)(2)(D), substituted “2023” for “2017” in cls. (i) and (ii).
 
-2012—Subsec. (b)(3). Pub. L. 112–177, § 2(b)(1)(A), added par. (3) and struck out former par. (3) which related to schedule of covered applications and registration service fees.
+2012—Subsec. (b)(3). Pub. L. 112–177, § 2(b)(1)(A), added par. (3) and struck out former par. (3) which related to schedule of covered applications and registration service fees.
 
-Subsec. (b)(6)(A). Pub. L. 112–177, § 2(b)(1)(B)(i), substituted “October 1, 2013” for “October 1, 2008” and “September 30, 2015” for “September 30, 2010”.
+Subsec. (b)(6)(A). Pub. L. 112–177, § 2(b)(1)(B)(i), substituted “October 1, 2013” for “October 1, 2008” and “September 30, 2015” for “September 30, 2010”.
 
-Subsec. (b)(6)(B). Pub. L. 112–177, § 2(b)(1)(B)(ii), substituted “October 1, 2015” for “October 1, 2010” and “September 30, 2015” for “September 30, 2010”.
+Subsec. (b)(6)(B). Pub. L. 112–177, § 2(b)(1)(B)(ii), substituted “October 1, 2015” for “October 1, 2010” and “September 30, 2015” for “September 30, 2010”.
 
-Subsec. (b)(7)(F)(i). Pub. L. 112–177, § 2(a)(2)(B)(i), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)”.
+Subsec. (b)(7)(F)(i). Pub. L. 112–177, § 2(a)(2)(B)(i), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)”.
 
-Subsec. (b)(7)(F)(ii). Pub. L. 112–177, § 2(a)(2)(B)(i), (ii), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)” in subcl. (I) and “section 136a–1(i)(1)(E)(ii)(I)(bb)” for “136a–1(i)(5)(E)(ii)(I)(bb)” in subcl. (II).
+Subsec. (b)(7)(F)(ii). Pub. L. 112–177, § 2(a)(2)(B)(i), (ii), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)” in subcl. (I) and “section 136a–1(i)(1)(E)(ii)(I)(bb)” for “136a–1(i)(5)(E)(ii)(I)(bb)” in subcl. (II).
 
-Subsec. (b)(7)(F)(iv)(I). Pub. L. 112–177, § 2(a)(2)(B)(i), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)”.
+Subsec. (b)(7)(F)(iv)(I). Pub. L. 112–177, § 2(a)(2)(B)(i), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)”.
 
-Subsec. (b)(7)(F)(iv)(II). Pub. L. 112–177, § 2(a)(2)(B)(ii), (iii), substituted “applicable” for “applicable.”, “revenue” for “revenues”, and “section 136a–1(i)(1)(E)(ii)(I)(bb)” for “section 136a–1(i)(5)(E)(ii)(I)(bb)”.
+Subsec. (b)(7)(F)(iv)(II). Pub. L. 112–177, § 2(a)(2)(B)(ii), (iii), substituted “applicable” for “applicable.”, “revenue” for “revenues”, and “section 136a–1(i)(1)(E)(ii)(I)(bb)” for “section 136a–1(i)(5)(E)(ii)(I)(bb)”.
 
-Subsec. (b)(8)(C)(ii)(III). Pub. L. 112–177, § 2(b)(1)(C), added subcl. (III).
+Subsec. (b)(8)(C)(ii)(III). Pub. L. 112–177, § 2(b)(1)(C), added subcl. (III).
 
-Subsec. (c)(3)(B)(i). Pub. L. 112–177, § 2(b)(2)(A), substituted “2013 through 2017” for “2008 through 2012”.
+Subsec. (c)(3)(B)(i). Pub. L. 112–177, § 2(b)(2)(A), substituted “2013 through 2017” for “2008 through 2012”.
 
-Subsec. (c)(3)(B)(ii). Pub. L. 112–177, § 2(b)(2)(B), substituted “grants, for each of fiscal years 2013 through 2017, $500,000.” for “grants—
+Subsec. (c)(3)(B)(ii). Pub. L. 112–177, § 2(b)(2)(B), substituted “grants, for each of fiscal years 2013 through 2017, $500,000.” for “grants—
 
 “(I) for each of fiscal years 2008 and 2009, $750,000; and
 
 “(II) for each of fiscal years 2010 through 2012, $500,000.”
 
-Subsec. (c)(3)(B)(iii). Pub. L. 112–177, § 2(b)(2)(C), substituted “2013 through 2017” for “2008 through 2012”.
+Subsec. (c)(3)(B)(iii). Pub. L. 112–177, § 2(b)(2)(C), substituted “2013 through 2017” for “2008 through 2012”.
 
-Subsec. (d)(2). Pub. L. 112–177, § 2(b)(3)(A), substituted “2012” for “2002” in two places.
+Subsec. (d)(2). Pub. L. 112–177, § 2(b)(3)(A), substituted “2012” for “2002” in two places.
 
-Subsec. (d)(4), (5). Pub. L. 112–177, § 2(b)(3)(B), (C), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The requirements of paragraph (2) shall have been considered to have been met for any fiscal year if the amount of appropriations for salaries, contracts, and expenses for the functions (as in existence in fiscal year 2002) of the Office of Pesticide Programs of the Environmental Protection Agency for the fiscal year (excluding the amount of any fees appropriated for the fiscal year) is not more than 3 percent below the amount of appropriations for covered functions for fiscal year 2002 (excluding the amount of any fees appropriated for the fiscal year).”
+Subsec. (d)(4), (5). Pub. L. 112–177, § 2(b)(3)(B), (C), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The requirements of paragraph (2) shall have been considered to have been met for any fiscal year if the amount of appropriations for salaries, contracts, and expenses for the functions (as in existence in fiscal year 2002) of the Office of Pesticide Programs of the Environmental Protection Agency for the fiscal year (excluding the amount of any fees appropriated for the fiscal year) is not more than 3 percent below the amount of appropriations for covered functions for fiscal year 2002 (excluding the amount of any fees appropriated for the fiscal year).”
 
-Subsec. (e). Pub. L. 112–177, § 2(b)(4), substituted “Pesticide Registration Improvement Extension Act of 2012” for “Pesticide Registration Improvement Act of 2003”.
+Subsec. (e). Pub. L. 112–177, § 2(b)(4), substituted “Pesticide Registration Improvement Extension Act of 2012” for “Pesticide Registration Improvement Act of 2003”.
 
-Subsec. (f)(1). Pub. L. 112–177, § 2(b)(5)(A), substituted “Pesticide Registration Improvement Extension Act of 2012, the Administrator shall make publicly available” for “Pesticide Registration Improvement Renewal Act, the Administrator shall publish in the Federal Register”.
+Subsec. (f)(1). Pub. L. 112–177, § 2(b)(5)(A), substituted “Pesticide Registration Improvement Extension Act of 2012, the Administrator shall make publicly available” for “Pesticide Registration Improvement Renewal Act, the Administrator shall publish in the Federal Register”.
 
-Subsec. (f)(2). Pub. L. 112–177, § 2(b)(5)(B), substituted “provided under subsection (b)(3).” for “appearing in the Congressional Record on pages S10409 through S10411, dated July 31, 2007.”
+Subsec. (f)(2). Pub. L. 112–177, § 2(b)(5)(B), substituted “provided under subsection (b)(3).” for “appearing in the Congressional Record on pages S10409 through S10411, dated July 31, 2007.”
 
-Subsec. (f)(4)(A). Pub. L. 112–177, § 2(b)(5)(C)(i), inserted “and fee” before period at end.
+Subsec. (f)(4)(A). Pub. L. 112–177, § 2(b)(5)(C)(i), inserted “and fee” before period at end.
 
-Subsec. (f)(4)(B). Pub. L. 112–177, § 2(b)(5)(C)(ii)(I), substituted “Initial content and preliminary technical screenings” for “Completeness of application” in heading.
+Subsec. (f)(4)(B). Pub. L. 112–177, § 2(b)(5)(C)(ii)(I), substituted “Initial content and preliminary technical screenings” for “Completeness of application” in heading.
 
-Subsec. (f)(4)(B)(i). Pub. L. 112–177, § 2(b)(5)(C)(ii)(I), (II), substituted “Screenings” for “In general” in cl. heading, designated existing provisions as subcl. (I) and inserted subcl. heading, and added subcl. (II).
+Subsec. (f)(4)(B)(i). Pub. L. 112–177, § 2(b)(5)(C)(ii)(I), (II), substituted “Screenings” for “In general” in cl. heading, designated existing provisions as subcl. (I) and inserted subcl. heading, and added subcl. (II).
 
-Subsec. (f)(4)(B)(ii). Pub. L. 112–177, § 2(b)(5)(C)(ii)(III), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “If the Administrator determines under clause (i) that the application does not pass the initial screening and cannot be corrected within the 21-day period, the Administrator shall reject the application not later than 10 days after making the determination.”
+Subsec. (f)(4)(B)(ii). Pub. L. 112–177, § 2(b)(5)(C)(ii)(III), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “If the Administrator determines under clause (i) that the application does not pass the initial screening and cannot be corrected within the 21-day period, the Administrator shall reject the application not later than 10 days after making the determination.”
 
-Subsec. (f)(4)(B)(iii). Pub. L. 112–177, § 2(b)(5)(C)(ii)(IV), inserted “initial content” before “screening” in heading, “content” before “screening” in introductory provisions, and substituted “appears to contain” for “contains” in subcl. (II).
+Subsec. (f)(4)(B)(iii). Pub. L. 112–177, § 2(b)(5)(C)(ii)(IV), inserted “initial content” before “screening” in heading, “content” before “screening” in introductory provisions, and substituted “appears to contain” for “contains” in subcl. (II).
 
-Subsec. (f)(4)(B)(iv). Pub. L. 112–177, § 2(b)(5)(C)(ii)(V), added cl. (iv).
+Subsec. (f)(4)(B)(iv). Pub. L. 112–177, § 2(b)(5)(C)(ii)(V), added cl. (iv).
 
-Subsec. (k)(1). Pub. L. 112–177, § 2(b)(6)(A), substituted “March 1, 2017” for “March 1, 2014”.
+Subsec. (k)(1). Pub. L. 112–177, § 2(b)(6)(A), substituted “March 1, 2017” for “March 1, 2014”.
 
-Subsec. (k)(2)(A)(viii). Pub. L. 112–177, § 2(b)(6)(B)(i), added cl. (viii).
+Subsec. (k)(2)(A)(viii). Pub. L. 112–177, § 2(b)(6)(B)(i), added cl. (viii).
 
-Subsec. (k)(2)(G) to (J). Pub. L. 112–177, § 2(b)(6)(B)(ii)–(iv), added subpars. (G) to (J).
+Subsec. (k)(2)(G) to (J). Pub. L. 112–177, § 2(b)(6)(B)(ii)–(iv), added subpars. (G) to (J).
 
-Subsec. (k)(4). Pub. L. 112–177, § 2(b)(6)(C), added par. (4).
+Subsec. (k)(4). Pub. L. 112–177, § 2(b)(6)(C), added par. (4).
 
-Subsec. (m)(1). Pub. L. 112–177, § 2(b)(7)(A), substituted “2017” for “2012”.
+Subsec. (m)(1). Pub. L. 112–177, § 2(b)(7)(A), substituted “2017” for “2012”.
 
-Subsec. (m)(2)(A). Pub. L. 112–177, § 2(b)(7)(B)(i), substituted “2018” for “2013” in heading and “2018,” for “2013,” and “September 30, 2017” for “September 30, 2012” in text.
+Subsec. (m)(2)(A). Pub. L. 112–177, § 2(b)(7)(B)(i), substituted “2018” for “2013” in heading and “2018,” for “2013,” and “September 30, 2017” for “September 30, 2012” in text.
 
-Subsec. (m)(2)(B). Pub. L. 112–177, § 2(b)(7)(B)(ii), substituted “2019” for “2014” in heading and “2019,” for “2014,” and “September 30, 2017” for “September 30, 2012” in text.
+Subsec. (m)(2)(B). Pub. L. 112–177, § 2(b)(7)(B)(ii), substituted “2019” for “2014” in heading and “2019,” for “2014,” and “September 30, 2017” for “September 30, 2012” in text.
 
-Subsec. (m)(2)(C). Pub. L. 112–177, § 2(b)(7)(B)(iii), substituted “2019” for “2014” in heading and “September 30, 2019” for “September 30, 2014” in text.
+Subsec. (m)(2)(C). Pub. L. 112–177, § 2(b)(7)(B)(iii), substituted “2019” for “2014” in heading and “September 30, 2019” for “September 30, 2014” in text.
 
-Subsec. (m)(2)(D). Pub. L. 112–177, § 2(b)(7)(B)(iv), substituted “2017” for “2012” in cls. (i) and (ii).
+Subsec. (m)(2)(D). Pub. L. 112–177, § 2(b)(7)(B)(iv), substituted “2017” for “2012” in cls. (i) and (ii).
 
-2008—Subsec. (b)(7)(D)(i). Pub. L. 110–193, § 1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide.”
+2008—Subsec. (b)(7)(D)(i). Pub. L. 110–193, § 1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide.”
 
-Subsec. (b)(7)(D)(ii). Pub. L. 110–193, § 1(a)(1)(A)(ii), inserted “or exemption” after “waiver”.
+Subsec. (b)(7)(D)(ii). Pub. L. 110–193, § 1(a)(1)(A)(ii), inserted “or exemption” after “waiver”.
 
-Subsec. (b)(7)(E). Pub. L. 110–193, § 1(a)(1)(B)(ii), substituted “exempt an application from the registration service fee” for “waive the registration service fee for an application” in introductory provisions.
+Subsec. (b)(7)(E). Pub. L. 110–193, § 1(a)(1)(B)(ii), substituted “exempt an application from the registration service fee” for “waive the registration service fee for an application” in introductory provisions.
 
-Pub. L. 110–193, § 1(a)(1)(B)(i), substituted “exemption” for “waiver” in heading.
+Pub. L. 110–193, § 1(a)(1)(B)(i), substituted “exemption” for “waiver” in heading.
 
-Subsec. (b)(7)(E)(ii). Pub. L. 110–193, § 1(a)(1)(B)(iii), substituted “exemption” for “waiver”.
+Subsec. (b)(7)(E)(ii). Pub. L. 110–193, § 1(a)(1)(B)(iii), substituted “exemption” for “waiver”.
 
-Subsec. (m)(2)(A), (B). Pub. L. 110–193, § 1(a)(2), substituted “2012” for “2008”.
+Subsec. (m)(2)(A), (B). Pub. L. 110–193, § 1(a)(2), substituted “2012” for “2008”.
 
-2007—Subsec. (b)(2)(C)(ii). Pub. L. 110–94, § 5(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “a request for a waiver from or reduction of the registration service fee.”
+2007—Subsec. (b)(2)(C)(ii). Pub. L. 110–94, § 5(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “a request for a waiver from or reduction of the registration service fee.”
 
-Subsec. (b)(2)(D) to (H). Pub. L. 110–94, § 5(a)(2), added subpars. (D) to (H).
+Subsec. (b)(2)(D) to (H). Pub. L. 110–94, § 5(a)(2), added subpars. (D) to (H).
 
-Subsec. (b)(3)(A). Pub. L. 110–94, § 5(b)(1)(A), substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
+Subsec. (b)(3)(A). Pub. L. 110–94, § 5(b)(1)(A), substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
 
-Subsec. (b)(3)(B). Pub. L. 110–94, § 5(b)(1)(B), substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
+Subsec. (b)(3)(B). Pub. L. 110–94, § 5(b)(1)(B), substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
 
-Subsec. (b)(6). Pub. L. 110–94, § 5(b)(2), added par. (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “Effective for a covered pesticide registration application received on or after October 1, 2005, the Administrator shall—
+Subsec. (b)(6). Pub. L. 110–94, § 5(b)(2), added par. (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “Effective for a covered pesticide registration application received on or after October 1, 2005, the Administrator shall—
 
 “(A) increase by 5 percent the service fee payable for the application under paragraph (3); and
 
 “(B) publish in the Federal Register the revised registration service fee schedule.”
 
-Subsec. (b)(7)(F)(ii). Pub. L. 110–94, § 5(c)(1), substituted “75 percent” for “all” in introductory provisions.
+Subsec. (b)(7)(F)(ii). Pub. L. 110–94, § 5(c)(1), substituted “75 percent” for “all” in introductory provisions.
 
-Subsec. (b)(7)(F)(iv)(II). Pub. L. 110–94, § 5(c)(2), substituted “75 percent of the applicable.” for “all”.
+Subsec. (b)(7)(F)(iv)(II). Pub. L. 110–94, § 5(c)(2), substituted “75 percent of the applicable.” for “all”.
 
-Subsec. (b)(8)(A). Pub. L. 110–94, § 5(d), substituted “25 percent.” for “10 percent”.
+Subsec. (b)(8)(A). Pub. L. 110–94, § 5(d), substituted “25 percent.” for “10 percent”.
 
-Subsec. (c)(1)(B). Pub. L. 110–94, § 5(e)(1), substituted “paragraph (5)” for “paragraph (4)”.
+Subsec. (c)(1)(B). Pub. L. 110–94, § 5(e)(1), substituted “paragraph (5)” for “paragraph (4)”.
 
-Subsec. (c)(3)(B). Pub. L. 110–94, § 5(e)(2)(A), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “For each of fiscal years 2004 through 2008, the Administrator shall use approximately <sup>1</sup>⁄<sub>17</sub> of the amount in the Fund (but not more than $1,000,000, and not less than $750,000, for any fiscal year) to enhance current scientific and regulatory activities related to worker protection.”
+Subsec. (c)(3)(B). Pub. L. 110–94, § 5(e)(2)(A), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “For each of fiscal years 2004 through 2008, the Administrator shall use approximately <sup>1</sup>⁄<sub>17</sub> of the amount in the Fund (but not more than $1,000,000, and not less than $750,000, for any fiscal year) to enhance current scientific and regulatory activities related to worker protection.”
 
-Subsec. (c)(3)(C). Pub. L. 110–94, § 5(e)(2)(B), struck out subpar. (C). Text read as follows: “For each of fiscal years 2004 and 2005, the Administrator shall use approximately <sup>1</sup>⁄<sub>34</sub> of the amount in the Fund (but not to exceed $500,000 for any fiscal year) for the review and evaluation of new inert ingredients.”
+Subsec. (c)(3)(C). Pub. L. 110–94, § 5(e)(2)(B), struck out subpar. (C). Text read as follows: “For each of fiscal years 2004 and 2005, the Administrator shall use approximately <sup>1</sup>⁄<sub>34</sub> of the amount in the Fund (but not to exceed $500,000 for any fiscal year) for the review and evaluation of new inert ingredients.”
 
-Subsec. (c)(5). Pub. L. 110–94, § 5(e)(3), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and added subpar. (B).
+Subsec. (c)(5). Pub. L. 110–94, § 5(e)(3), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and added subpar. (B).
 
-Subsec. (d)(2). Pub. L. 110–94, § 5(f), which directed substitution of “Registration” for “For fiscal years 2004, 2005 and 2006 only, registration”, was executed by making the substitution for text which contained a comma after “2005” to reflect the probable intent of Congress.
+Subsec. (d)(2). Pub. L. 110–94, § 5(f), which directed substitution of “Registration” for “For fiscal years 2004, 2005 and 2006 only, registration”, was executed by making the substitution for text which contained a comma after “2005” to reflect the probable intent of Congress.
 
-Subsec. (f)(1). Pub. L. 110–94, § 5(g)(1), substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
+Subsec. (f)(1). Pub. L. 110–94, § 5(g)(1), substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
 
-Subsec. (f)(2). Pub. L. 110–94, § 5(g)(2), substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
+Subsec. (f)(2). Pub. L. 110–94, § 5(g)(2), substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
 
-Subsec. (f)(4)(B). Pub. L. 110–94, § 5(g)(3), added subpar. (B) and struck out former subpar. (B) which provided criteria for determining completeness of pesticide registration applications.
+Subsec. (f)(4)(B). Pub. L. 110–94, § 5(g)(3), added subpar. (B) and struck out former subpar. (B) which provided criteria for determining completeness of pesticide registration applications.
 
-Subsec. (k)(1). Pub. L. 110–94, § 5(h)(1), substituted “March 1, 2014” for “March 1, 2009”.
+Subsec. (k)(1). Pub. L. 110–94, § 5(h)(1), substituted “March 1, 2014” for “March 1, 2009”.
 
-Subsec. (k)(2)(A)(ii) to (v). Pub. L. 110–94, § 5(h)(2)(A)(i), (ii), added cls. (ii) to (iv) and redesignated former cl. (ii) as (v). Former cls. (iii) and (iv) redesignated (vi) and (vii), respectively.
+Subsec. (k)(2)(A)(ii) to (v). Pub. L. 110–94, § 5(h)(2)(A)(i), (ii), added cls. (ii) to (iv) and redesignated former cl. (ii) as (v). Former cls. (iii) and (iv) redesignated (vi) and (vii), respectively.
 
-Subsec. (k)(2)(A)(vi). Pub. L. 110–94, § 5(h)(2)(A)(i), (iii), redesignated cl. (iii) as (vi) and added subcls. (IV) and (V).
+Subsec. (k)(2)(A)(vi). Pub. L. 110–94, § 5(h)(2)(A)(i), (iii), redesignated cl. (iii) as (vi) and added subcls. (IV) and (V).
 
-Subsec. (k)(2)(A)(vii). Pub. L. 110–94, § 5(h)(2)(A)(i), redesignated cl. (iv) as (vii).
+Subsec. (k)(2)(A)(vii). Pub. L. 110–94, § 5(h)(2)(A)(i), redesignated cl. (iv) as (vii).
 
-Subsec. (k)(2)(D) to (F). Pub. L. 110–94, § 5(h)(2)(B)–(D), added subpars. (D) to (F).
+Subsec. (k)(2)(D) to (F). Pub. L. 110–94, § 5(h)(2)(B)–(D), added subpars. (D) to (F).
 
-Subsec. (m)(1). Pub. L. 110–94, § 5(i)(1), substituted “2012” for “2008”.
+Subsec. (m)(1). Pub. L. 110–94, § 5(i)(1), substituted “2012” for “2008”.
 
-Subsec. (m)(2)(A). Pub. L. 110–94, § 5(i)(2)(A), substituted “2013” for “2009” in heading and text.
+Subsec. (m)(2)(A). Pub. L. 110–94, § 5(i)(2)(A), substituted “2013” for “2009” in heading and text.
 
-Subsec. (m)(2)(B), (C). Pub. L. 110–94, § 5(i)(2)(B), substituted “2014” for “2010” in headings and text.
+Subsec. (m)(2)(B), (C). Pub. L. 110–94, § 5(i)(2)(B), substituted “2014” for “2010” in headings and text.
 
-Subsec. (m)(2)(D). Pub. L. 110–94, § 5(i)(2)(C), substituted “2012” for “2008” in two places.
+Subsec. (m)(2)(D). Pub. L. 110–94, § 5(i)(2)(C), substituted “2012” for “2008” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6077,7 +6077,7 @@ Amendment by Pub. L. 112–177 effective Oct. 1, 2012, see section 2(c) of Pub. 
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–193, § 1(b), Mar. 6, 2008, 122 Stat. 650, provided that: “The amendments made by subsection (a) [amending this section] take effect on October 1, 2007.”
+Pub. L. 110–193, § 1(b), Mar. 6, 2008, 122 Stat. 650, provided that: “The amendments made by subsection (a) [amending this section] take effect on October 1, 2007.”
 
 **Effective Date of 2007 Amendment**
 
@@ -6095,13 +6095,13 @@ Increases in registration service fees specified in this section, as amended by 
 
 Subsection (c)(3)(B) of this section to continue in effect through Sept. 30, 2018, see section 401(a) of Pub. L. 115–141, formerly set out as a note under section 136a–1 of this title.
 
-Pub. L. 115–141, div. M, title IV, § 401(b)(2), Mar. 23, 2018, 132 Stat. 1050, extended the authority provided by this section until Sept. 30, 2018.
+Pub. L. 115–141, div. M, title IV, § 401(b)(2), Mar. 23, 2018, 132 Stat. 1050, extended the authority provided by this section until Sept. 30, 2018.
 
-### § 136x. Severability
+### § 136x. Severability
 
 If any provision of this subchapter or the application thereof to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this subchapter which can be given effect without regard to the invalid provision or application, and to this end the provisions of this subchapter are severable.
 
-(June 25, 1947, ch. 125, § 34, formerly § 26, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 998; renumbered § 30, Pub. L. 95–396, § 24(1), Sept. 30, 1978, 92 Stat. 836; renumbered § 33, Pub. L. 104–170, title I, § 121(1), Aug. 3, 1996, 110 Stat. 1492; renumbered § 34, Pub. L. 108–199, div. G, title V, § 501(f)(1), Jan. 23, 2004, 118 Stat. 422.)
+(June 25, 1947, ch. 125, § 34, formerly § 26, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 998; renumbered § 30, Pub. L. 95–396, § 24(1), Sept. 30, 1978, 92 Stat. 836; renumbered § 33, Pub. L. 104–170, title I, § 121(1), Aug. 3, 1996, 110 Stat. 1492; renumbered § 34, Pub. L. 108–199, div. G, title V, § 501(f)(1), Jan. 23, 2004, 118 Stat. 422.)
 
 **Editorial Notes**
 
@@ -6115,7 +6115,7 @@ A prior section 34 of act June 25, 1947, ch. 125, was renumbered section 35 and 
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-### § 136y. Authorization of appropriations
+### § 136y. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this subchapter (other than section 136u(a) of this title)—
 
@@ -6125,7 +6125,7 @@ There is authorized to be appropriated to carry out this subchapter (other than 
 
 **(3)** $95,000,000 for fiscal year 1991, of which not more than $14,978,200 shall be available for research under this subchapter.
 
-(June 25, 1947, ch. 125, § 35, formerly § 27, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 998; amended Pub. L. 94–51, July 2, 1975, 89 Stat. 257; Pub. L. 94–109, Oct. 10, 1975, 89 Stat. 571; Pub. L. 94–140, § 3, Nov. 28, 1975, 89 Stat. 752; renumbered § 31 and amended Pub. L. 95–396, §§ 24(1), 25, Sept. 30, 1978, 92 Stat. 836, 838; Pub. L. 96–539, § 3, Dec. 17, 1980, 94 Stat. 3195; Pub. L. 98–201, § 2, Dec. 2, 1983, 97 Stat. 1380; Pub. L. 99–198, title XVII, § 1768, Dec. 23, 1985, 99 Stat. 1656; Pub. L. 100–532, title VII, § 701, Oct. 25, 1988, 102 Stat. 2679; renumbered § 34, Pub. L. 104–170, title I, § 121(1), Aug. 3, 1996, 110 Stat. 1492; renumbered § 35, Pub. L. 108–199, div. G, title V, § 501(f)(1), Jan. 23, 2004, 118 Stat. 422.)
+(June 25, 1947, ch. 125, § 35, formerly § 27, as added Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 998; amended Pub. L. 94–51, July 2, 1975, 89 Stat. 257; Pub. L. 94–109, Oct. 10, 1975, 89 Stat. 571; Pub. L. 94–140, § 3, Nov. 28, 1975, 89 Stat. 752; renumbered § 31 and amended Pub. L. 95–396, §§ 24(1), 25, Sept. 30, 1978, 92 Stat. 836, 838; Pub. L. 96–539, § 3, Dec. 17, 1980, 94 Stat. 3195; Pub. L. 98–201, § 2, Dec. 2, 1983, 97 Stat. 1380; Pub. L. 99–198, title XVII, § 1768, Dec. 23, 1985, 99 Stat. 1656; Pub. L. 100–532, title VII, § 701, Oct. 25, 1988, 102 Stat. 2679; renumbered § 34, Pub. L. 104–170, title I, § 121(1), Aug. 3, 1996, 110 Stat. 1492; renumbered § 35, Pub. L. 108–199, div. G, title V, § 501(f)(1), Jan. 23, 2004, 118 Stat. 422.)
 
 **Editorial Notes**
 
@@ -6143,7 +6143,7 @@ Another section 1768 of Pub. L. 99–198 enacted sections 154a and 159 and amend
 
 1980—Pub. L. 96–539 inserted provisions authorizing appropriations for period beginning Oct. 1, 1979, and ending Sept. 30, 1980, and for period beginning Oct. 1, 1980, and ending Sept. 30, 1981.
 
-1978—Pub. L. 95–396, § 25, substituted appropriations authorization of $46,636,000 for period beginning Oct. 1, 1976, and ending Sept. 30, 1977, for prior authorization of $23,600,000 for period beginning Oct. 1, 1976, and ending Mar. 31, 1977, and authorized appropriations of $54,500,000 for period beginning Oct. 1, 1977, and ending Sept. 30, 1978, and such sums as may be necessary, limited to $70,000,000, for period beginning Oct. 1, 1978, and ending Sept. 30, 1979.
+1978—Pub. L. 95–396, § 25, substituted appropriations authorization of $46,636,000 for period beginning Oct. 1, 1976, and ending Sept. 30, 1977, for prior authorization of $23,600,000 for period beginning Oct. 1, 1976, and ending Mar. 31, 1977, and authorized appropriations of $54,500,000 for period beginning Oct. 1, 1977, and ending Sept. 30, 1978, and such sums as may be necessary, limited to $70,000,000, for period beginning Oct. 1, 1978, and ending Sept. 30, 1979.
 
 1975—Pub. L. 94–140 authorized appropriation of $47,868,000 to carry out provisions of this subchapter for period beginning Oct. 1, 1975, and ending Sept. 30, 1976, and $23,600,000 for period beginning Oct. 1, 1976, and ending Mar. 31, 1977.
 
@@ -6155,7 +6155,7 @@ Pub. L. 94–51 authorized appropriation of $11,967,000 to carry out provisions 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–532, title VII, § 701, Oct. 25, 1988, 102 Stat. 2679, provided that amendment made by Pub. L. 100–532 is effective Oct. 1, 1988.
+Pub. L. 100–532, title VII, § 701, Oct. 25, 1988, 102 Stat. 2679, provided that amendment made by Pub. L. 100–532 is effective Oct. 1, 1988.
 
 **Effective Date**
 

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 403—CIVIL AIR PATROL"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 403—CIVIL AIR PATROL"
 identifier: "/us/usc/t36/stII/ptB/ch403"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 403—CIVIL AIR PATROL
 
@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(2)(C)], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, inserted “and governing body” after “Membership” in item 40303.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(2)(C)], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, inserted “and governing body” after “Membership” in item 40303.
 
-## § 40301. Organization
+## § 40301. Organization
 
 **(a) Federal Charter.—** Civil Air Patrol (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -33,12 +33,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40301(a) | 36:201. | July 1, 1946, ch. 527, §§ 1, 5 (related to perpetual succession), 60 Stat. 346, 347. |
+| 40301(a) | 36:201. | July 1, 1946, ch. 527, §§ 1, 5 (related to perpetual succession), 60 Stat. 346, 347. |
 | 40301(b) | 36:205 (related to perpetual succession). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 40302. Purposes
+## § 40302. Purposes
 
 The purposes of the corporation are as follows:
 
@@ -56,13 +56,13 @@ The purposes of the corporation are as follows:
 
 **(5)** To assist the Department of the Air Force in fulfilling its noncombat programs and missions.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1331; Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–299.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1331; Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–299.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40302 | 36:202. | July 1, 1946, ch. 527, § 2, 60 Stat. 346. |
+| 40302 | 36:202. | July 1, 1946, ch. 527, § 2, 60 Stat. 346. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
@@ -72,37 +72,37 @@ In clause (1)(A), the words “citizens of the United States” are substituted 
 
 **Amendments**
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(A)], substituted “as follows:” for “to—” in introductory provisions.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(A)], substituted “as follows:” for “to—” in introductory provisions.
 
-Par. (1). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(B), (C)], inserted “To” before “provide” in introductory provisions and substituted a period for the semicolon at the end of subpar. (B).
+Par. (1). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(B), (C)], inserted “To” before “provide” in introductory provisions and substituted a period for the semicolon at the end of subpar. (B).
 
-Par. (2). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(B), (C)], inserted “To” before “provide” and substituted a period for the semicolon at the end.
+Par. (2). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(B), (C)], inserted “To” before “provide” and substituted a period for the semicolon at the end.
 
-Par. (3). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(B), (D)], inserted “To” before “encourage” and substituted a period for “; and” at the end.
+Par. (3). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(B), (D)], inserted “To” before “encourage” and substituted a period for “; and” at the end.
 
-Par. (4). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(B)], inserted “To” before “provide”.
+Par. (4). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(B)], inserted “To” before “provide”.
 
-Par. (5). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(E)], added par. (5).
+Par. (5). Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(1)(E)], added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–398 effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as an Effective Date note under section 9441 of Title 10, Armed Forces.
+Amendment by Pub. L. 106–398 effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as an Effective Date note under section 9441 of Title 10, Armed Forces.
 
-## § 40303. Membership and governing body
+## § 40303. Membership and governing body
 
 **(a) Membership.—** Eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
 **(b) Governing Body.—** The Civil Air Patrol has a Board of Governors. The composition and responsibilities of the Board of Governors are set forth in section 9497 of title 10.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1332; Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(2)(A), (B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–300; Pub. L. 115–232, div. A, title VIII, § 809(*l*)(2), Aug. 13, 2018, 132 Stat. 1843.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1332; Pub. L. 106–398, § 1 [[div. A], title X, § 1090(b)(2)(A), (B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–300; Pub. L. 115–232, div. A, title VIII, § 809(*l*)(2), Aug. 13, 2018, 132 Stat. 1843.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40303 | 36:203. | July 1, 1946, ch. 527, § 3, 60 Stat. 346. |
+| 40303 | 36:203. | July 1, 1946, ch. 527, § 3, 60 Stat. 346. |
 
 The words “are as provided in” are substituted for “shall be determined according to” for consistency in the revised title. The text of 36:203 (proviso) is omitted as obsolete.
 
@@ -122,9 +122,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–398 effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as an Effective Date note under section 9441 of Title 10, Armed Forces.
+Amendment by Pub. L. 106–398 effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as an Effective Date note under section 9441 of Title 10, Armed Forces.
 
-## § 40304. Powers
+## § 40304. Powers
 
 The corporation may—
 
@@ -146,7 +146,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40304 | 36:205 (less perpetual succession). | July 1, 1946, ch. 527, § 5 (less perpetual succession), 60 Stat. 347. |
+| 40304 | 36:205 (less perpetual succession). | July 1, 1946, ch. 527, § 5 (less perpetual succession), 60 Stat. 347. |
 
 In clause (1), the word “amend” is substituted for “alter” for consistency in the revised title. The words “not inconsistent with law” are omitted as unnecessary.
 
@@ -156,7 +156,7 @@ Clause (4) is substituted for “acquire, hold, mortgage, and dispose of such re
 
 In clause (6), the words “any other act” are substituted for “any and all acts and things” to eliminate unnecessary words. The word “objects” is omitted as unnecessary.
 
-## § 40305. Restrictions
+## § 40305. Restrictions
 
 The corporation may not engage in business for profit or issue stock.
 
@@ -166,11 +166,11 @@ The corporation may not engage in business for profit or issue stock.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40305 | 36:204. | July 1, 1946, ch. 527, § 4, 60 Stat. 347. |
+| 40305 | 36:204. | July 1, 1946, ch. 527, § 4, 60 Stat. 347. |
 
 This section is substituted for 36:204(a) to eliminate unnecessary words. The text of 36:204(b) is omitted as executed and obsolete.
 
-## § 40306. Exclusive right to name, insignia, copyrights, emblems, badges, marks, and words
+## § 40306. Exclusive right to name, insignia, copyrights, emblems, badges, marks, and words
 
 The corporation has the exclusive right to use the name “Civil Air Patrol” and all insignia, copyrights, emblems, badges, descriptive or designating marks, words, and phrases the corporation adopts. This section does not affect any vested rights.
 
@@ -180,11 +180,11 @@ The corporation has the exclusive right to use the name “Civil Air Patrol” a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40306 | 36:206. | July 1, 1946, ch. 527, § 6, 60 Stat. 347. |
+| 40306 | 36:206. | July 1, 1946, ch. 527, § 6, 60 Stat. 347. |
 
 The word “sole” is omitted as included in “exclusive”. The words “right to use the name ‘Civil Air Patrol’ and all” are substituted for “right to the name ‘Civil Air Patrol’ and to have and to use, in carrying out its purposes, all” for consistency in the revised title and to eliminate unnecessary words. The words “the corporation adopts” are substituted for “now or heretofore used by the Civil Air Patrol” in section 6 of the Act of July 1, 1946 (ch. 527, 60 Stat. 347) for consistency in the revised title. The words “in carrying out its program” are omitted as unnecessary. The words “This section does not affect any vested rights” are substituted for “*Provided, however*, That no powers or privileges herein granted shall interfere or conflict with established or vested rights” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 40307. Annual report
+## § 40307. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year.
 
@@ -194,7 +194,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40307 | 36:207. | July 1, 1946, ch. 527, § 7, 60 Stat. 347. |
+| 40307 | 36:207. | July 1, 1946, ch. 527, § 7, 60 Stat. 347. |
 
 **Statutory Notes and Related Subsidiaries**
 

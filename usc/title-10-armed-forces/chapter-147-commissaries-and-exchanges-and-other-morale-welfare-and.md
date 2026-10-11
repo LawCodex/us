@@ -19,41 +19,41 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–375, div. A, title VI, § 651(a)(1), (3), Oct. 28, 2004, 118 Stat. 1964, added items for subchapters I to III and struck out items 2481 “Existence of defense commissary system and exchange stores system”, 2482 “Commissary stores: operation”, 2482a “Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services”, 2483 “Commissary stores: reimbursement for use of commissary facilities by military departments”, 2484 “Commissary stores: use of appropriated funds to cover operating expenses”, 2485 “Donation of unusable food: commissary stores and other activities”, 2486 “Commissary stores: merchandise that may be sold; uniform surcharges and pricing”, 2487 “Commissary stores: release of certain commercially valuable information to the public”, 2488 “Nonappropriated fund instrumentalities: purchase of alcoholic beverages”, 2489 “Overseas package stores: treatment of United States wines”, 2489a “Sale or rental of sexually explicit material prohibited”, 2490a “Combined exchange and commissary stores”, 2492 “Overseas commissary and exchange stores: access and purchase restrictions”, 2493 “Fisher Houses: administration as nonappropriated fund instrumentality”, and 2494 “Uniform funding and management of morale, welfare, and recreation programs”.
+2004—Pub. L. 108–375, div. A, title VI, § 651(a)(1), (3), Oct. 28, 2004, 118 Stat. 1964, added items for subchapters I to III and struck out items 2481 “Existence of defense commissary system and exchange stores system”, 2482 “Commissary stores: operation”, 2482a “Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services”, 2483 “Commissary stores: reimbursement for use of commissary facilities by military departments”, 2484 “Commissary stores: use of appropriated funds to cover operating expenses”, 2485 “Donation of unusable food: commissary stores and other activities”, 2486 “Commissary stores: merchandise that may be sold; uniform surcharges and pricing”, 2487 “Commissary stores: release of certain commercially valuable information to the public”, 2488 “Nonappropriated fund instrumentalities: purchase of alcoholic beverages”, 2489 “Overseas package stores: treatment of United States wines”, 2489a “Sale or rental of sexually explicit material prohibited”, 2490a “Combined exchange and commissary stores”, 2492 “Overseas commissary and exchange stores: access and purchase restrictions”, 2493 “Fisher Houses: administration as nonappropriated fund instrumentality”, and 2494 “Uniform funding and management of morale, welfare, and recreation programs”.
 
-2003—Pub. L. 108–136, div. A, title VI, § 652(b), Nov. 24, 2003, 117 Stat. 1522, added item 2481.
+2003—Pub. L. 108–136, div. A, title VI, § 652(b), Nov. 24, 2003, 117 Stat. 1522, added item 2481.
 
-2002—Pub. L. 107–314, div. A, title III, § 323(b), Dec. 2, 2002, 116 Stat. 2511, added item 2494.
+2002—Pub. L. 107–314, div. A, title III, § 323(b), Dec. 2, 2002, 116 Stat. 2511, added item 2494.
 
-2001—Pub. L. 107–107, div. A, title III, §§ 332(b), 333(b), Dec. 28, 2001, 115 Stat. 1058, 1059, added item 2483 and substituted “Commissary stores: release of certain commercially valuable information to the public” for “Commissary stores: limitations on release of sales information” in item 2487.
+2001—Pub. L. 107–107, div. A, title III, §§ 332(b), 333(b), Dec. 28, 2001, 115 Stat. 1058, 1059, added item 2483 and substituted “Commissary stores: release of certain commercially valuable information to the public” for “Commissary stores: limitations on release of sales information” in item 2487.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title III, § 331(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, added item 2484 and struck out former item 2484 “Commissary stores: expenses”.
+2000—Pub. L. 106–398, § 1 [[div. A], title III, § 331(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, added item 2484 and struck out former item 2484 “Commissary stores: expenses”.
 
-1998—Pub. L. 105–261, div. A, title III, § 365(b), title IX, § 906(a)(2), Oct. 17, 1998, 112 Stat. 1987, 2095, added items 2492 and 2493.
+1998—Pub. L. 105–261, div. A, title III, § 365(b), title IX, § 906(a)(2), Oct. 17, 1998, 112 Stat. 1987, 2095, added items 2492 and 2493.
 
-1997—Pub. L. 105–85, div. A, title III, § 371(a)(1), (c)(1), Nov. 18, 1997, 111 Stat. 1705, substituted “COMMISSARIES AND EXCHANGES AND OTHER MORALE, WELFARE, AND RECREATION ACTIVITIES” for “UTILITIES AND SERVICES” as chapter heading and struck out items 2481 “Utilities and services: sale; expansion and extension of systems and facilities”, 2483 “Sale of electricity from alternate energy and cogeneration production facilities”, and 2490 “Utility services: furnishing for certain buildings”.
+1997—Pub. L. 105–85, div. A, title III, § 371(a)(1), (c)(1), Nov. 18, 1997, 111 Stat. 1705, substituted “COMMISSARIES AND EXCHANGES AND OTHER MORALE, WELFARE, AND RECREATION ACTIVITIES” for “UTILITIES AND SERVICES” as chapter heading and struck out items 2481 “Utilities and services: sale; expansion and extension of systems and facilities”, 2483 “Sale of electricity from alternate energy and cogeneration production facilities”, and 2490 “Utility services: furnishing for certain buildings”.
 
-1996—Pub. L. 104–201, div. A, title III, §§ 341(a)(2), 343(a)(2), Sept. 23, 1996, 110 Stat. 2489, 2490, added items 2482a and 2489a.
+1996—Pub. L. 104–201, div. A, title III, §§ 341(a)(2), 343(a)(2), Sept. 23, 1996, 110 Stat. 2489, 2490, added items 2482a and 2489a.
 
-Pub. L. 104–106, div. A, title III, §§ 331(b), 336(a)(2), Feb. 10, 1996, 110 Stat. 260, 264, substituted “Commissary stores: operation” for “Commissary stores: private operation” in item 2482 and added item 2490a.
+Pub. L. 104–106, div. A, title III, §§ 331(b), 336(a)(2), Feb. 10, 1996, 110 Stat. 260, 264, substituted “Commissary stores: operation” for “Commissary stores: private operation” in item 2482 and added item 2490a.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1182(a)(8)(B), Nov. 30, 1993, 107 Stat. 1771, struck out item 2490a “Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds”.
+1993—Pub. L. 103–160, div. A, title XI, § 1182(a)(8)(B), Nov. 30, 1993, 107 Stat. 1771, struck out item 2490a “Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds”.
 
-1992—Pub. L. 102–484, div. A, title III, §§ 362(b), 364(b)(1), Oct. 23, 1992, 106 Stat. 2380, 2382, substituted “limitations” for “limitation” in item 2487 and added item 2490a.
+1992—Pub. L. 102–484, div. A, title III, §§ 362(b), 364(b)(1), Oct. 23, 1992, 106 Stat. 2380, 2382, substituted “limitations” for “limitation” in item 2487 and added item 2490a.
 
-1990—Pub. L. 101–510, div. A, title III, § 324(b)(2), Nov. 5, 1990, 104 Stat. 1531, amended item 2485 generally, substituting “Donation of unusable food: commissary stores and other activities” for “Commissary stores: donation of unmarketable food”.
+1990—Pub. L. 101–510, div. A, title III, § 324(b)(2), Nov. 5, 1990, 104 Stat. 1531, amended item 2485 generally, substituting “Donation of unusable food: commissary stores and other activities” for “Commissary stores: donation of unmarketable food”.
 
-1988—Pub. L. 100–370, § 1(j)(2), July 19, 1988, 102 Stat. 848, added item 2490.
+1988—Pub. L. 100–370, § 1(j)(2), July 19, 1988, 102 Stat. 848, added item 2490.
 
-1987—Pub. L. 100–180, div. A, title III, §§ 311(a)(2), 313(a)(3), Dec. 4, 1987, 101 Stat. 1073, 1074, inserted “and pricing” in item 2486 and added item 2489.
+1987—Pub. L. 100–180, div. A, title III, §§ 311(a)(2), 313(a)(3), Dec. 4, 1987, 101 Stat. 1073, 1074, inserted “and pricing” in item 2486 and added item 2489.
 
-1986—Pub. L. 99–661, div. A, title III, § 313(c), Nov. 14, 1986, 100 Stat. 3853, added items 2486, 2487, and 2488.
+1986—Pub. L. 99–661, div. A, title III, § 313(c), Nov. 14, 1986, 100 Stat. 3853, added items 2486, 2487, and 2488.
 
-1985—Pub. L. 99–145, title XIV, § 1460(b), Nov. 8, 1985, 99 Stat. 765, added item 2485.
+1985—Pub. L. 99–145, title XIV, § 1460(b), Nov. 8, 1985, 99 Stat. 765, added item 2485.
 
-1984—Pub. L. 98–525, title XIV, § 1401(i)(2), Oct. 19, 1984, 98 Stat. 2620, added item 2484.
+1984—Pub. L. 98–525, title XIV, § 1401(i)(2), Oct. 19, 1984, 98 Stat. 2620, added item 2484.
 
-Pub. L. 98–407, title VIII, § 810(b), Aug. 28, 1984, 98 Stat. 1523, added item 2483.
+Pub. L. 98–407, title VIII, § 810(b), Aug. 28, 1984, 98 Stat. 1523, added item 2483.
 
 ## SUBCHAPTER I—DEFENSE COMMISSARY AND EXCHANGE SYSTEMS
 
@@ -61,11 +61,11 @@ Pub. L. 98–407, title VIII, § 810(b), Aug. 28, 1984, 98 Stat. 1523, added i
 
 **Amendments**
 
-2006—Pub. L. 109–364, div. A, title X, § 1071(a)(18), Oct. 17, 2006, 120 Stat. 2399, inserted period at end of item 2481.
+2006—Pub. L. 109–364, div. A, title X, § 1071(a)(18), Oct. 17, 2006, 120 Stat. 2399, inserted period at end of item 2481.
 
-2004—Pub. L. 108–375, div. A, title VI, § 651(a)(3), Oct. 28, 2004, 118 Stat. 1964, added subchapter heading and items 2481 to 2485.
+2004—Pub. L. 108–375, div. A, title VI, § 651(a)(3), Oct. 28, 2004, 118 Stat. 1964, added subchapter heading and items 2481 to 2485.
 
-### § 2481. Defense commissary and exchange systems: existence and purpose
+### § 2481. Defense commissary and exchange systems: existence and purpose
 
 **(a) Separate Systems.—** The Secretary of Defense shall operate, in the manner provided by this chapter and other provisions of law, a world-wide system of commissary stores and a separate world-wide system of exchange stores. The stores of each system may sell, at reduced prices, food and other merchandise to members of the uniformed services on active duty, members of the uniformed services entitled to retired pay, dependents of such members, and persons authorized to use the system under chapter 54 of this title. Any reference in this chapter to “the exchange system” shall be treated as referring to each separate administrative entity within the Department of Defense through which the Secretary has implemented the requirement under this subsection for a world-wide system of exchange stores.
 
@@ -99,27 +99,27 @@ Pub. L. 98–407, title VIII, § 810(b), Aug. 28, 1984, 98 Stat. 1523, added i
 
 **(d) Reduced Prices Defined.—** In this section, the term “reduced prices” means prices for food and other merchandise determined using the price setting process specified in section 2484 of this title.
 
-(Added Pub. L. 108–375, div. A, title VI, § 651(a)(3), Oct. 28, 2004, 118 Stat. 1965; amended Pub. L. 114–328, div. A, title VI, § 661(a), (f), Dec. 23, 2016, 130 Stat. 2169, 2172.)
+(Added Pub. L. 108–375, div. A, title VI, § 651(a)(3), Oct. 28, 2004, 118 Stat. 1965; amended Pub. L. 114–328, div. A, title VI, § 661(a), (f), Dec. 23, 2016, 130 Stat. 2169, 2172.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2481, added Pub. L. 108–136, div. A, title VI, § 652(a), Nov. 24, 2003, 117 Stat. 1522, related to the existence of defense commissary system and exchange stores system, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
+A prior section 2481, added Pub. L. 108–136, div. A, title VI, § 652(a), Nov. 24, 2003, 117 Stat. 1522, related to the existence of defense commissary system and exchange stores system, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
 
 Another prior section 2481 was renumbered section 2686 of this title.
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328, § 661(f), inserted at end “ Any reference in this chapter to ‘the exchange system’ shall be treated as referring to each separate administrative entity within the Department of Defense through which the Secretary has implemented the requirement under this subsection for a world-wide system of exchange stores.”
+2016—Subsec. (a). Pub. L. 114–328, § 661(f), inserted at end “ Any reference in this chapter to ‘the exchange system’ shall be treated as referring to each separate administrative entity within the Department of Defense through which the Secretary has implemented the requirement under this subsection for a world-wide system of exchange stores.”
 
-Subsec. (c)(3), (4). Pub. L. 114–328, § 661(a), added pars. (3) and (4).
+Subsec. (c)(3), (4). Pub. L. 114–328, § 661(a), added pars. (3) and (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Defense Commissary System and Exchange System: Patronage; Privatization**
 
-Pub. L. 119–60, div. A, title VI, § 652, Dec. 18, 2025, 139 Stat. 913, provided that:
+Pub. L. 119–60, div. A, title VI, § 652, Dec. 18, 2025, 139 Stat. 913, provided that:
 
 > **“(a) Patronage.—**
 
@@ -141,7 +141,7 @@ Pub. L. 119–60, div. A, title VI, § 652, Dec. 18, 2025, 139 Stat. 913, prov
 
 **Defense Resale System Matters**
 
-Pub. L. 116–92, div. A, title VI, § 631(a)–(c), Dec. 20, 2019, 133 Stat. 1429, as amended by Pub. L. 118–31, div. A, title IX, § 901(g), Dec. 22, 2023, 137 Stat. 355, provided that:
+Pub. L. 116–92, div. A, title VI, § 631(a)–(c), Dec. 20, 2019, 133 Stat. 1429, as amended by Pub. L. 118–31, div. A, title IX, § 901(g), Dec. 22, 2023, 137 Stat. 355, provided that:
 
 > **“(a) In General.—** The Under Secretary of Defense for Personnel and Readiness shall maintain oversight of business transformation efforts of the defense commissary system and the exchange stores system in order to ensure the following:
 
@@ -161,7 +161,7 @@ Pub. L. 116–92, div. A, title VI, § 631(a)–(c), Dec. 20, 2019, 133 Stat. 
 
 **Plan To Obtain Budget-Neutrality for the Defense Commissary System and the Military Exchange System**
 
-Pub. L. 114–92, div. A, title VI, § 651, Nov. 25, 2015, 129 Stat. 854, provided that:
+Pub. L. 114–92, div. A, title VI, § 651, Nov. 25, 2015, 129 Stat. 854, provided that:
 
 > **“(a) In General.—** Not later than March 1, 2016, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a comprehensive plan to achieve by October 1, 2018, budget-neutrality in the delivery of commissary and exchange benefits while meeting the benchmarks set forth in subsection (c). In preparing the report, the Secretary shall consider the report required by section 634 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3406) and any other previous reports, studies, and surveys of matters appropriate to the report.
 
@@ -221,7 +221,7 @@ Pub. L. 114–92, div. A, title VI, § 651, Nov. 25, 2015, 129 Stat. 854, prov
 
 > **“(ii)** Such recommendations for administrative or legislative action as the Secretary considers appropriate in light of the pilot program.”
 
-### § 2482. Commissary stores: criteria for establishment or closure; store size
+### § 2482. Commissary stores: criteria for establishment or closure; store size
 
 **(a) Primary Consideration for Establishment.—** The needs of members of the armed forces on active duty and the needs of dependents of such members shall be the primary consideration whenever the Secretary of Defense—
 
@@ -243,7 +243,7 @@ Pub. L. 114–92, div. A, title VI, § 651, Nov. 25, 2015, 129 Stat. 854, prov
 
 **(2)** Paragraph (1) shall not apply in the case of the closure of a commissary store as part of the closure of a military installation under a base closure law.
 
-(Added Pub. L. 108–375, div. A, title VI, § 651(a)(3), Oct. 28, 2004, 118 Stat. 1965; amended Pub. L. 112–81, div. A, title X, § 1064(6), Dec. 31, 2011, 125 Stat. 1587.)
+(Added Pub. L. 108–375, div. A, title VI, § 651(a)(3), Oct. 28, 2004, 118 Stat. 1965; amended Pub. L. 112–81, div. A, title X, § 1064(6), Dec. 31, 2011, 125 Stat. 1587.)
 
 **Editorial Notes**
 
@@ -261,9 +261,9 @@ A prior section 2482a was renumbered section 2492 of this title.
 
 **Prohibition on Consolidation or Other Organizational Changes of Department of Defense Retail Systems**
 
-Pub. L. 105–261, div. A, title III, § 367, Oct. 17, 1998, 112 Stat. 1987, which provided that the operation and administration of the defense retail systems could not be consolidated or otherwise merged unless the consolidation or merger was specifically authorized by a law enacted after Oct. 17, 1998, was repealed by Pub. L. 108–375, div. A, title VI, § 651(e)(3), Oct. 28, 2004, 118 Stat. 1972.
+Pub. L. 105–261, div. A, title III, § 367, Oct. 17, 1998, 112 Stat. 1987, which provided that the operation and administration of the defense retail systems could not be consolidated or otherwise merged unless the consolidation or merger was specifically authorized by a law enacted after Oct. 17, 1998, was repealed by Pub. L. 108–375, div. A, title VI, § 651(e)(3), Oct. 28, 2004, 118 Stat. 1972.
 
-### § 2483. Commissary stores: use of appropriated funds to cover operating expenses
+### § 2483. Commissary stores: use of appropriated funds to cover operating expenses
 
 **(a) Operation of Agency and System.—** Except as otherwise provided in this title, the operation of the Defense Commissary Agency and the defense commissary system shall be funded using such amounts as are appropriated for such purpose.
 
@@ -285,85 +285,85 @@ Pub. L. 105–261, div. A, title III, § 367, Oct. 17, 1998, 112 Stat. 1987, w
 
 **(c) Supplemental Funds for Commissary Operations.—** Amounts appropriated to cover the expenses of operating the Defense Commissary Agency and the defense commissary system may be supplemented with additional funds from manufacturers’ coupon redemption fees, handling fees for tobacco products, and other amounts received as reimbursement for other support activities provided by commissary activities. Such appropriated amounts may also be supplemented with additional funds derived from improved management practices implemented pursuant to sections 2481(c)(3) and 2487(c) of this title and the variable pricing program implemented pursuant to section 2484(i) of this title.
 
-(Added Pub. L. 98–525, title XIV, § 1401(i)(1), Oct. 19, 1984, 98 Stat. 2619, § 2484; amended Pub. L. 106–398, § 1 [[div. A], title III, § 331(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–59; Pub. L. 108–136, div. A, title VI, § 654, Nov. 24, 2003, 117 Stat. 1523; renumbered § 2483, Pub. L. 108–375, div. A, title VI, § 651(a)(2), (4), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 114–328, div. A, title VI, § 661(b), Dec. 23, 2016, 130 Stat. 2169; Pub. L. 116–92, div. A, title VI, § 631(d), Dec. 20, 2019, 133 Stat. 1429.)
+(Added Pub. L. 98–525, title XIV, § 1401(i)(1), Oct. 19, 1984, 98 Stat. 2619, § 2484; amended Pub. L. 106–398, § 1 [[div. A], title III, § 331(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–59; Pub. L. 108–136, div. A, title VI, § 654, Nov. 24, 2003, 117 Stat. 1523; renumbered § 2483, Pub. L. 108–375, div. A, title VI, § 651(a)(2), (4), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 114–328, div. A, title VI, § 661(b), Dec. 23, 2016, 130 Stat. 2169; Pub. L. 116–92, div. A, title VI, § 631(d), Dec. 20, 2019, 133 Stat. 1429.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2483, added Pub. L. 107–107, div. A, title III, § 332(a), Dec. 28, 2001, 115 Stat. 1058, related to reimbursement for use of commissary facilities by military departments, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
+A prior section 2483, added Pub. L. 107–107, div. A, title III, § 332(a), Dec. 28, 2001, 115 Stat. 1058, related to reimbursement for use of commissary facilities by military departments, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
 
 Another prior section 2483 was renumbered section 2916 of this title.
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8010], 98 Stat. 1904, 1924.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8010], 98 Stat. 1904, 1924.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, § 713, 97 Stat. 1440.
+Dec. 8, 1983, Pub. L. 98–212, title VII, § 713, 97 Stat. 1440.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 714], 96 Stat. 1833, 1852.
+Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 714], 96 Stat. 1833, 1852.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, § 714, 95 Stat. 1580.
+Dec. 29, 1981, Pub. L. 97–114, title VII, § 714, 95 Stat. 1580.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, § 715, 94 Stat. 3083.
+Dec. 15, 1980, Pub. L. 96–527, title VII, § 715, 94 Stat. 3083.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, § 715, 93 Stat. 1155.
+Dec. 21, 1979, Pub. L. 96–154, title VII, § 715, 93 Stat. 1155.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, § 815, 92 Stat. 1246.
+Oct. 13, 1978, Pub. L. 95–457, title VIII, § 815, 92 Stat. 1246.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, § 814, 91 Stat. 902.
+Sept. 21, 1977, Pub. L. 95–111, title VIII, § 814, 91 Stat. 902.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, § 714, 90 Stat. 1293.
+Sept. 22, 1976, Pub. L. 94–419, title VII, § 714, 90 Stat. 1293.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, § 714, 90 Stat. 171.
+Feb. 9, 1976, Pub. L. 94–212, title VII, § 714, 90 Stat. 171.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, § 814, 88 Stat. 1227.
+Oct. 8, 1974, Pub. L. 93–437, title VIII, § 814, 88 Stat. 1227.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, § 714, 87 Stat. 1040.
+Jan. 2, 1974, Pub. L. 93–238, title VII, § 714, 87 Stat. 1040.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, § 714, 86 Stat. 1198.
+Oct. 26, 1972, Pub. L. 92–570, title VII, § 714, 86 Stat. 1198.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, § 714, 85 Stat. 729.
+Dec. 18, 1971, Pub. L. 92–204, title VII, § 714, 85 Stat. 729.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, § 814, 84 Stat. 2032.
+Jan. 11, 1971, Pub. L. 91–668, title VIII, § 814, 84 Stat. 2032.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, § 614, 83 Stat. 482.
+Dec. 29, 1969, Pub. L. 91–171, title VI, § 614, 83 Stat. 482.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, § 513, 82 Stat. 1132.
+Oct. 17, 1968, Pub. L. 90–580, title V, § 513, 82 Stat. 1132.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, § 613, 81 Stat. 244.
+Sept. 29, 1967, Pub. L. 90–96, title VI, § 613, 81 Stat. 244.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, § 613, 80 Stat. 993.
+Oct. 15, 1966, Pub. L. 89–687, title VI, § 613, 80 Stat. 993.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, § 613, 79 Stat. 875.
+Sept. 29, 1965, Pub. L. 89–213, title VI, § 613, 79 Stat. 875.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, § 513, 78 Stat. 477.
+Aug. 19, 1964, Pub. L. 88–446, title V, § 513, 78 Stat. 477.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, § 513, 77 Stat. 266.
+Oct. 17, 1963, Pub. L. 88–149, title V, § 513, 77 Stat. 266.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, § 513, 76 Stat. 330.
+Aug. 9, 1962, Pub. L. 87–577, title V, § 513, 76 Stat. 330.
 
-Aug. 17, 1961, Pub. L. 87–144, title VI, § 613, 75 Stat. 377.
+Aug. 17, 1961, Pub. L. 87–144, title VI, § 613, 75 Stat. 377.
 
-July 7, 1960, Pub. L. 86–601, title V, § 513, 74 Stat. 351.
+July 7, 1960, Pub. L. 86–601, title V, § 513, 74 Stat. 351.
 
-Aug. 18, 1959, Pub. L. 86–166, title V, § 613, 73 Stat. 380.
+Aug. 18, 1959, Pub. L. 86–166, title V, § 613, 73 Stat. 380.
 
-Aug. 22, 1958, Pub. L. 85–724, title VI, § 613, 72 Stat. 725.
+Aug. 22, 1958, Pub. L. 85–724, title VI, § 613, 72 Stat. 725.
 
-Aug. 2, 1957, Pub. L. 85–117, title VI, § 614, 71 Stat. 325.
+Aug. 2, 1957, Pub. L. 85–117, title VI, § 614, 71 Stat. 325.
 
-July 2, 1956, ch. 488, title VI, § 614, 70 Stat. 469.
+July 2, 1956, ch. 488, title VI, § 614, 70 Stat. 469.
 
-July 13, 1955, ch. 358, title VI, § 617, 69 Stat. 317.
+July 13, 1955, ch. 358, title VI, § 617, 69 Stat. 317.
 
-June 30, 1954, ch. 432, title VII, § 717, 68 Stat. 353.
+June 30, 1954, ch. 432, title VII, § 717, 68 Stat. 353.
 
-Aug. 1, 1953, ch. 305, title VI, § 624, 67 Stat. 353.
+Aug. 1, 1953, ch. 305, title VI, § 624, 67 Stat. 353.
 
-July 10, 1952, ch. 630, title VI, § 627, 66 Stat. 535.
+July 10, 1952, ch. 630, title VI, § 627, 66 Stat. 535.
 
-Oct. 18, 1951, ch. 512, title VI, § 628, 65 Stat. 449.
+Oct. 18, 1951, ch. 512, title VI, § 628, 65 Stat. 449.
 
 **Amendments**
 
@@ -373,11 +373,11 @@ Oct. 18, 1951, ch. 512, title VI, § 628, 65 Stat. 449.
 
 2004—Pub. L. 108–375 renumbered section 2484 of this title as this section.
 
-2003—Subsec. (a). Pub. L. 108–136, § 654(a)(1), substituted “shall” for “may”.
+2003—Subsec. (a). Pub. L. 108–136, § 654(a)(1), substituted “shall” for “may”.
 
-Subsec. (b). Pub. L. 108–136, § 654(a)(2), substituted “shall” for “may” in introductory provisions.
+Subsec. (b). Pub. L. 108–136, § 654(a)(2), substituted “shall” for “may” in introductory provisions.
 
-Subsec. (c). Pub. L. 108–136, § 654(b), added subsec. (c).
+Subsec. (c). Pub. L. 108–136, § 654(b), added subsec. (c).
 
 2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (d) providing that funds available to the Department of Defense could be used to pay for certain costs in connection with the operation of commissary stores only on a reimbursable basis and allowed transportation and utilities to be furnished for the operation of those stores outside of the United States or in Alaska and Hawaii.
 
@@ -385,13 +385,13 @@ Subsec. (c). Pub. L. 108–136, § 654(b), added subsec. (c).
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title III, § 331(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2001.”
+Pub. L. 106–398, § 1 [[div. A], title III, § 331(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2001.”
 
 **Effective Date**
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-### § 2484. Commissary stores: merchandise that may be sold; uniform surcharges and pricing
+### § 2484. Commissary stores: merchandise that may be sold; uniform surcharges and pricing
 
 **(a) In General.—** As provided in section 2481(a) of this title, commissary stores are intended to be similar to commercial grocery stores and may sell merchandise similar to that sold in commercial grocery stores.
 
@@ -547,7 +547,7 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 **(2)** that originated from, or was processed in, the People’s Republic of China.
 
-(Added Pub. L. 99–661, div. A, title III, § 313(a), Nov. 14, 1986, 100 Stat. 3852, § 2486; amended Pub. L. 100–180, div. A, title III, § 313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, § 342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§ 372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, § 364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, § 1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, § 1 [[div. A], title III, §§ 332(a), 334], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, § 1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered § 2484 and amended Pub. L. 108–375, div. A, title VI, § 651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, § 661, title X, § 1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402; Pub. L. 110–417, [div. A], title VI, § 641, Oct. 14, 2008, 122 Stat. 4493; Pub. L. 113–291, div. A, title VI, § 631, Dec. 19, 2014, 128 Stat. 3405; Pub. L. 114–328, div. A, title VI, § 661(c), Dec. 23, 2016, 130 Stat. 2170; Pub. L. 115–232, div. A, title VIII, § 836(e)(11), Aug. 13, 2018, 132 Stat. 1870; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 117–81, div. A, title VI, § 631, Dec. 27, 2021, 135 Stat. 1775; Pub. L. 118–159, div. A, title VI, § 641(a), Dec. 23, 2024, 138 Stat. 1938.)
+(Added Pub. L. 99–661, div. A, title III, § 313(a), Nov. 14, 1986, 100 Stat. 3852, § 2486; amended Pub. L. 100–180, div. A, title III, § 313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, § 342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§ 372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, § 364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, § 1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, § 1 [[div. A], title III, §§ 332(a), 334], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, § 1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered § 2484 and amended Pub. L. 108–375, div. A, title VI, § 651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, § 661, title X, § 1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402; Pub. L. 110–417, [div. A], title VI, § 641, Oct. 14, 2008, 122 Stat. 4493; Pub. L. 113–291, div. A, title VI, § 631, Dec. 19, 2014, 128 Stat. 3405; Pub. L. 114–328, div. A, title VI, § 661(c), Dec. 23, 2016, 130 Stat. 2170; Pub. L. 115–232, div. A, title VIII, § 836(e)(11), Aug. 13, 2018, 132 Stat. 1870; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 117–81, div. A, title VI, § 631, Dec. 27, 2021, 135 Stat. 1775; Pub. L. 118–159, div. A, title VI, § 641(a), Dec. 23, 2024, 138 Stat. 1938.)
 
 **Editorial Notes**
 
@@ -565,9 +565,9 @@ A prior section 2484 was renumbered section 2483 of this title.
 
 2021—Subsec. (f). Pub. L. 116–283 substituted “section 3204(a)(5)” for “section 2304(c)(5)”.
 
-Subsec. (h)(5)(F), (G). Pub. L. 117–81, § 631(1), added subpars. (F) and (G).
+Subsec. (h)(5)(F), (G). Pub. L. 117–81, § 631(1), added subpars. (F) and (G).
 
-Subsec. (h)(6). Pub. L. 117–81, § 631(2), added par. (6).
+Subsec. (h)(6). Pub. L. 117–81, § 631(2), added par. (6).
 
 2018—Subsec. (f). Pub. L. 115–232 substituted “Commercial Products” for “Commercial Items” in heading and substituted “commercial product” for “commercial item” in text.
 
@@ -577,47 +577,47 @@ Subsec. (h)(6). Pub. L. 117–81, § 631(2), added par. (6).
 
 2008—Subsec. (h)(3) to (5). Pub. L. 110–417 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” in par. (4).
 
-2006—Pub. L. 109–364, § 1071(g)(6), made technical correction to directory language of Pub. L. 108–375, § 651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
+2006—Pub. L. 109–364, § 1071(g)(6), made technical correction to directory language of Pub. L. 108–375, § 651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
 
-Subsec. (c)(3). Pub. L. 109–364, § 661(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), subsections” for “Subsections”, and added subpar. (B).
+Subsec. (c)(3). Pub. L. 109–364, § 661(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), subsections” for “Subsections”, and added subpar. (B).
 
-Subsec. (g). Pub. L. 109–364, § 661(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), subsections” for “Subsections”, and added par. (2).
+Subsec. (g). Pub. L. 109–364, § 661(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), subsections” for “Subsections”, and added par. (2).
 
-2004—Pub. L. 108–375, § 651(a)(2), (4), renumbered section 2486 of this title as this section.
+2004—Pub. L. 108–375, § 651(a)(2), (4), renumbered section 2486 of this title as this section.
 
-Subsecs. (a) to (c). Pub. L. 108–375, § 651(a)(5)(C), as amended by Pub. L. 109–364, § 1071(g)(6), added subsecs. (a) to (c).
+Subsecs. (a) to (c). Pub. L. 108–375, § 651(a)(5)(C), as amended by Pub. L. 109–364, § 1071(g)(6), added subsecs. (a) to (c).
 
-Pub. L. 108–375, § 651(a)(5)(A), struck out subsecs. (a) to (c) which related to operation of the Defense Commissary Agency and the defense commissary system, use of funds to cover expenses of operating commissary stores and central product processing facilities, and supplemental funds for commissary operations, respectively.
+Pub. L. 108–375, § 651(a)(5)(A), struck out subsecs. (a) to (c) which related to operation of the Defense Commissary Agency and the defense commissary system, use of funds to cover expenses of operating commissary stores and central product processing facilities, and supplemental funds for commissary operations, respectively.
 
-Subsec. (d). Pub. L. 108–375, § 651(a)(5)(C), as amended by Pub. L. 109–364, § 1071(g)(6), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 108–375, § 651(a)(5)(C), as amended by Pub. L. 109–364, § 1071(g)(6), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 108–375, § 651(a)(5)(B), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 108–375, § 651(a)(5)(B), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 108–375, § 651(a)(5)(D), struck out “(consistent with this section and section 2685 of this title)” before period at end.
+Subsec. (e)(1). Pub. L. 108–375, § 651(a)(5)(D), struck out “(consistent with this section and section 2685 of this title)” before period at end.
 
-Subsec. (f). Pub. L. 108–375, § 651(a)(5)(B), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 108–375, § 651(a)(5)(B), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 108–375, § 651(a)(5)(E), substituted “Subsections (d) and (e)” for “Subsections (c) and (d)” before “shall not apply to the pricing”.
+Subsec. (g). Pub. L. 108–375, § 651(a)(5)(E), substituted “Subsections (d) and (e)” for “Subsections (c) and (d)” before “shall not apply to the pricing”.
 
-Pub. L. 108–375, § 651(a)(5)(A), (B), redesignated subsec. (f) as (g) and struck out heading and text of former subsec. (g), which related to the imposition of charges by the Secretary of Defense for the collection of dishonored checks.
+Pub. L. 108–375, § 651(a)(5)(A), (B), redesignated subsec. (f) as (g) and struck out heading and text of former subsec. (g), which related to the imposition of charges by the Secretary of Defense for the collection of dishonored checks.
 
-Subsec. (h). Pub. L. 108–375, § 651(a)(5)(F), added subsec. (h).
+Subsec. (h). Pub. L. 108–375, § 651(a)(5)(F), added subsec. (h).
 
-2002—Subsec. (b)(12). Pub. L. 107–314 substituted “, except that the Secretary shall notify Congress of any addition of, or change in, a merchandise category under this paragraph.” for “, except that the Secretary shall submit to Congress, not later than March 1 of each year, a report describing—
+2002—Subsec. (b)(12). Pub. L. 107–314 substituted “, except that the Secretary shall notify Congress of any addition of, or change in, a merchandise category under this paragraph.” for “, except that the Secretary shall submit to Congress, not later than March 1 of each year, a report describing—
 
 “(A) any addition of, or change in, a merchandise category proposed to be made under this paragraph during the one-year period beginning on that date; and
 
 “(B) those additions and changes in merchandise categories actually made during the preceding one-year period.”
 
-2000—Subsec. (b)(11), (12). Pub. L. 106–398, § 1 [[div. A], title III, § 334(a)], added par. (11) and redesignated former par. (11) as (12).
+2000—Subsec. (b)(11), (12). Pub. L. 106–398, § 1 [[div. A], title III, § 334(a)], added par. (11) and redesignated former par. (11) as (12).
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title III, § 332(a)(1)], substituted “subsection (d) or section” for “section 2484(b) or”.
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title III, § 332(a)(1)], substituted “subsection (d) or section” for “section 2484(b) or”.
 
-Subsec. (d)(1). Pub. L. 106–398, § 1 [[div. A], title III, § 332(a)(2)(A)], substituted “section 2685” for “sections 2484 and 2685”.
+Subsec. (d)(1). Pub. L. 106–398, § 1 [[div. A], title III, § 332(a)(2)(A)], substituted “section 2685” for “sections 2484 and 2685”.
 
-Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title III, § 332(a)(2)(B)], added par. (3).
+Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title III, § 332(a)(2)(B)], added par. (3).
 
-Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title III, § 334(b)], struck out “(1)” before “Notwithstanding”, substituted “tobacco products” for “items in the merchandise categories specified in paragraph (2)”, and struck out par. (2) which read as follows: “The merchandise categories referred to in paragraph (1) are as follows:
+Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title III, § 334(b)], struck out “(1)” before “Notwithstanding”, substituted “tobacco products” for “items in the merchandise categories specified in paragraph (2)”, and struck out par. (2) which read as follows: “The merchandise categories referred to in paragraph (1) are as follows:
 
 “(A) Magazines and other periodicals.
 
@@ -627,37 +627,37 @@ Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title III, § 334(b)], struc
 
 1998—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
-1997—Subsec. (a). Pub. L. 105–85, § 372(e)(1), inserted heading.
+1997—Subsec. (a). Pub. L. 105–85, § 372(e)(1), inserted heading.
 
-Subsec. (b). Pub. L. 105–85, § 372(a)(1), inserted heading and substituted “Merchandise sold in, at, or by commissary stores may include items only in the following categories:” for “Merchandise sold in commissary stores may include items in the following categories:” in introductory provisions.
+Subsec. (b). Pub. L. 105–85, § 372(a)(1), inserted heading and substituted “Merchandise sold in, at, or by commissary stores may include items only in the following categories:” for “Merchandise sold in commissary stores may include items in the following categories:” in introductory provisions.
 
-Subsec. (b)(11). Pub. L. 105–85, § 372(a)(2), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “Other categories designated in regulations prescribed by the Secretary of a military department and approved by the Secretary of Defense.”
+Subsec. (b)(11). Pub. L. 105–85, § 372(a)(2), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “Other categories designated in regulations prescribed by the Secretary of a military department and approved by the Secretary of Defense.”
 
-Subsec. (c). Pub. L. 105–85, § 372(b), inserted heading, substituted “in, at, or by commissary stores.” for “in commissary stores.”, and inserted at end “Effective on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, the uniform percentage shall be equal to five percent and may not be changed except by a law enacted after such date.”
+Subsec. (c). Pub. L. 105–85, § 372(b), inserted heading, substituted “in, at, or by commissary stores.” for “in commissary stores.”, and inserted at end “Effective on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, the uniform percentage shall be equal to five percent and may not be changed except by a law enacted after such date.”
 
-Subsec. (d). Pub. L. 105–85, § 372(c), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations establishing uniform pricing policies for merchandise authorized for sale by this section. The policies in the regulations shall—
+Subsec. (d). Pub. L. 105–85, § 372(c), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations establishing uniform pricing policies for merchandise authorized for sale by this section. The policies in the regulations shall—
 
 “(1) require the establishment of a sales price of each item of merchandise at a level which will recoup the actual product cost of the item (consistent with this section and sections 2484 and 2685 of this title); and
 
 “(2) promote the lowest practical price of merchandise sold at commissary stores.”
 
-Subsec. (e). Pub. L. 105–85, § 373, inserted at end “In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.”
+Subsec. (e). Pub. L. 105–85, § 373, inserted at end “In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.”
 
-Pub. L. 105–85, § 372(e)(2), inserted heading and substituted “in, at, or by commissary stores” for “in commissary stores” in two places.
+Pub. L. 105–85, § 372(e)(2), inserted heading and substituted “in, at, or by commissary stores” for “in commissary stores” in two places.
 
-Subsec. (f). Pub. L. 105–85, § 372(d), added subsec. (f).
+Subsec. (f). Pub. L. 105–85, § 372(d), added subsec. (f).
 
 1996—Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
-1987—Pub. L. 100–180, § 313(a)(2), inserted “and pricing” in section catchline.
+1987—Pub. L. 100–180, § 313(a)(2), inserted “and pricing” in section catchline.
 
-Subsec. (d). Pub. L. 100–180, § 313(a)(1), added subsec. (d).
+Subsec. (d). Pub. L. 100–180, § 313(a)(1), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title VI, § 641(b), Dec. 23, 2024, 138 Stat. 1938, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2026.”
+Pub. L. 118–159, div. A, title VI, § 641(b), Dec. 23, 2024, 138 Stat. 1938, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2026.”
 
 **Effective Date of 2021 Amendment**
 
@@ -669,27 +669,27 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title X, § 1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(6) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+Pub. L. 109–364, div. A, title X, § 1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(6) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title III, § 332(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–60, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2001.”
+Pub. L. 106–398, § 1 [[div. A], title III, § 332(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–60, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2001.”
 
 **Regulations**
 
-Pub. L. 100–180, div. A, title III, § 313(b), Dec. 4, 1987, 101 Stat. 1074, required Secretary of Defense to prescribe regulations required by subsec. (d) of this section not later than 90 days after Dec. 4, 1987.
+Pub. L. 100–180, div. A, title III, § 313(b), Dec. 4, 1987, 101 Stat. 1074, required Secretary of Defense to prescribe regulations required by subsec. (d) of this section not later than 90 days after Dec. 4, 1987.
 
 **Savings Provision**
 
-Pub. L. 104–201, div. A, title III, § 342(b), Sept. 23, 1996, 110 Stat. 2489, provided that: “Section 2486(e) [now 2484(e)] of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, or duration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act [Sept. 23, 1996] for the procurement of commercial items for resale in commissary stores.”
+Pub. L. 104–201, div. A, title III, § 342(b), Sept. 23, 1996, 110 Stat. 2489, provided that: “Section 2486(e) [now 2484(e)] of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, or duration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act [Sept. 23, 1996] for the procurement of commercial items for resale in commissary stores.”
 
 **Procurement by Commissary Stores of Certain Locally Sourced Products**
 
-Pub. L. 116–92, div. A, title VI, § 632, Dec. 20, 2019, 133 Stat. 1429, provided that: “The Secretary of Defense shall ensure that the dairy products and fruits and vegetables procured for commissary stores under the defense commissary system are, to the extent practicable and while maintaining mandated patron savings, locally sourced in order to ensure the availability of the freshest possible dairy products and fruits and vegetables for patrons of the stores.”
+Pub. L. 116–92, div. A, title VI, § 632, Dec. 20, 2019, 133 Stat. 1429, provided that: “The Secretary of Defense shall ensure that the dairy products and fruits and vegetables procured for commissary stores under the defense commissary system are, to the extent practicable and while maintaining mandated patron savings, locally sourced in order to ensure the availability of the freshest possible dairy products and fruits and vegetables for patrons of the stores.”
 
 **Operation of Defense Commissary System as a Nonappropriated Fund Entity**
 
-Pub. L. 114–328, div. A, title VI, § 661(g), Dec. 23, 2016, 130 Stat. 2172, provided that:
+Pub. L. 114–328, div. A, title VI, § 661(g), Dec. 23, 2016, 130 Stat. 2172, provided that:
 
 > “In the event that the defense commissary system is converted to a nonappropriated fund entity or instrumentality as authorized by section 2484(j)(1) of title 10, United States Code, as added by subsection (c) of this section, the Secretary of Defense may—
 
@@ -699,31 +699,31 @@ Pub. L. 114–328, div. A, title VI, § 661(g), Dec. 23, 2016, 130 Stat. 2172,
 
 **Competitive Pricing of Legal Consumer Tobacco Products Sold in Department of Defense Retail Stores**
 
-Pub. L. 119–75, div. A, title VIII, § 8041, Feb. 3, 2026, 140 Stat. 207, provided that: “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: *Provided*, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
+Pub. L. 119–75, div. A, title VIII, § 8041, Feb. 3, 2026, 140 Stat. 207, provided that: “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: *Provided*, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
 
 Similar provisions were contained in the following appropriation acts:
 
-Pub. L. 118–47, div. A, title VIII, § 8041, Mar. 23, 2024, 138 Stat. 492.
+Pub. L. 118–47, div. A, title VIII, § 8041, Mar. 23, 2024, 138 Stat. 492.
 
-Pub. L. 117–328, div. C, title VIII, § 8041, Dec. 29, 2022, 136 Stat. 4595.
+Pub. L. 117–328, div. C, title VIII, § 8041, Dec. 29, 2022, 136 Stat. 4595.
 
-Pub. L. 117–103, div. C, title VIII, § 8043, Mar. 15, 2022, 136 Stat. 184.
+Pub. L. 117–103, div. C, title VIII, § 8043, Mar. 15, 2022, 136 Stat. 184.
 
-Pub. L. 116–260, div. C, title VIII, § 8036, Dec. 27, 2020, 134 Stat. 1312.
+Pub. L. 116–260, div. C, title VIII, § 8036, Dec. 27, 2020, 134 Stat. 1312.
 
-Pub. L. 116–93, div. A, title VIII, § 8036, Dec. 20, 2019, 133 Stat. 2344.
+Pub. L. 116–93, div. A, title VIII, § 8036, Dec. 20, 2019, 133 Stat. 2344.
 
-Pub. L. 115–245, div. A, title VIII, § 8034, Sept. 28, 2018, 132 Stat. 3007.
+Pub. L. 115–245, div. A, title VIII, § 8034, Sept. 28, 2018, 132 Stat. 3007.
 
-Pub. L. 115–141, div. C, title VIII, § 8033, Mar. 23, 2018, 132 Stat. 471.
+Pub. L. 115–141, div. C, title VIII, § 8033, Mar. 23, 2018, 132 Stat. 471.
 
-Pub. L. 115–31, div. C, title VIII, § 8034, May 5, 2017, 131 Stat. 254.
+Pub. L. 115–31, div. C, title VIII, § 8034, May 5, 2017, 131 Stat. 254.
 
-Pub. L. 114–113, div. C, title VIII, § 8033, Dec. 18, 2015, 129 Stat. 2358.
+Pub. L. 114–113, div. C, title VIII, § 8033, Dec. 18, 2015, 129 Stat. 2358.
 
-Pub. L. 113–235, div. C, title VIII, § 8073, Dec. 16, 2014, 128 Stat. 2271.
+Pub. L. 113–235, div. C, title VIII, § 8073, Dec. 16, 2014, 128 Stat. 2271.
 
-Pub. L. 113–291, div. A, title VI, § 633, Dec. 19, 2014, 128 Stat. 3405, provided that:
+Pub. L. 113–291, div. A, title VI, § 633, Dec. 19, 2014, 128 Stat. 3405, provided that:
 
 > **“(a) Prohibition on Banning Sale of Legal Consumer Tobacco Products.—** The Secretary of Defense and the Secretaries of the military departments may not take any action to implement any new policy that would ban the sale of any legal consumer tobacco product category sold as of January 1, 2014, within the defense retail systems or on any Department of Defense vessel at sea.
 
@@ -735,7 +735,7 @@ Pub. L. 113–291, div. A, title VI, § 633, Dec. 19, 2014, 128 Stat. 3405, pr
 
 **Test Program of Sale of Certain Items in Commissary Stores**
 
-Pub. L. 108–375, div. A, title VI, § 651(g), Oct. 28, 2004, 118 Stat. 1972, provided that:
+Pub. L. 108–375, div. A, title VI, § 651(g), Oct. 28, 2004, 118 Stat. 1972, provided that:
 
 > **“(1)** The Secretary of Defense may conduct a test program involving the sale of telephone cards, film, and one-time use cameras in not less than 10 commissary stores for a period selected by the Secretary, but not less than six months.
 
@@ -743,9 +743,9 @@ Pub. L. 108–375, div. A, title VI, § 651(g), Oct. 28, 2004, 118 Stat. 1972,
 
 **Report on Merchandise Categories**
 
-Pub. L. 105–85, div. A, title III, § 372(f), Nov. 18, 1997, 111 Stat. 1707, provided that, not later than 30 days after Nov. 18, 1997, the Secretary of Defense was to submit to Congress a report specifying the merchandise categories authorized for sale sold in, at, or by commissary stores pursuant to regulations prescribed under subsection (b)(11) of this section, as in effect before Nov. 18, 1997.
+Pub. L. 105–85, div. A, title III, § 372(f), Nov. 18, 1997, 111 Stat. 1707, provided that, not later than 30 days after Nov. 18, 1997, the Secretary of Defense was to submit to Congress a report specifying the merchandise categories authorized for sale sold in, at, or by commissary stores pursuant to regulations prescribed under subsection (b)(11) of this section, as in effect before Nov. 18, 1997.
 
-### § 2485. Commissary stores: operation
+### § 2485. Commissary stores: operation
 
 **(a) Private Operation.—** Under such regulations as the Secretary of Defense may approve, private persons may operate selected commissary store functions, except that such functions may not include functions relating to the procurement of products to be sold in a commissary store or functions relating to the overall management of a commissary system or the management of a commissary store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense.
 
@@ -861,13 +861,13 @@ Pub. L. 105–85, div. A, title III, § 372(f), Nov. 18, 1997, 111 Stat. 1707,
 
 **(i) Expert Commercial Advice.—** The Secretary of Defense may enter into a contract with an entity to obtain expert commercial advice, commercial assistance, or other similar services not otherwise carried out by the Defense Commissary Agency, to implement section 2481(c), subsections (i) and (j) of section 2484, and section 2487(c) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 141, § 2482; Pub. L. 100–456, div. A, title III, § 321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, § 331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, § 341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§ 361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, § 653, Nov. 24, 2003, 117 Stat. 1522; renumbered § 2485 and amended Pub. L. 108–375, div. A, title VI, § 651(a)(2), (6), (7), Oct. 28, 2004, 118 Stat. 1964, 1968; Pub. L. 109–163, div. A, title VI, § 672, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 111–350, § 5(b)(35), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, § 1061(16), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 114–328, div. A, title VI, § 661(e), Dec. 23, 2016, 130 Stat. 2172.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 141, § 2482; Pub. L. 100–456, div. A, title III, § 321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, § 331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, § 341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§ 361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, § 653, Nov. 24, 2003, 117 Stat. 1522; renumbered § 2485 and amended Pub. L. 108–375, div. A, title VI, § 651(a)(2), (6), (7), Oct. 28, 2004, 118 Stat. 1964, 1968; Pub. L. 109–163, div. A, title VI, § 672, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 111–350, § 5(b)(35), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, § 1061(16), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 114–328, div. A, title VI, § 661(e), Dec. 23, 2016, 130 Stat. 2172.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2482 | [Uncodified]. | Aug. 1, 1953, ch. 305, § 624 (last proviso), 67 Stat. 353. |
+| 2482 | [Uncodified]. | Aug. 1, 1953, ch. 305, § 624 (last proviso), 67 Stat. 353. |
 
 This section is codified as permanent law on the basis of an opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense, dated September 28, 1954. The words “and privately owned organizations” are omitted as surplusage since under 1 U.S.C. 1 “person” includes such an organization.
 
@@ -875,7 +875,7 @@ This section is codified as permanent law on the basis of an opinion of the Assi
 
 **Prior Provisions**
 
-A prior section 2485, added Pub. L. 99–145, title XIV, § 1460(a), Nov. 8, 1985, 99 Stat. 764; amended Pub. L. 101–510, div. A, title III, § 324(a), (b)(1), Nov. 5, 1990, 104 Stat. 1530; Pub. L. 104–201, div. A, title III, § 365, Sept. 23, 1996, 110 Stat. 2494, related to donation of unusable food from commissary stores and other activities, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
+A prior section 2485, added Pub. L. 99–145, title XIV, § 1460(a), Nov. 8, 1985, 99 Stat. 764; amended Pub. L. 101–510, div. A, title III, § 324(a), (b)(1), Nov. 5, 1990, 104 Stat. 1530; Pub. L. 104–201, div. A, title III, § 365, Sept. 23, 1996, 110 Stat. 2494, related to donation of unusable food from commissary stores and other activities, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
 
 A prior section 2486 was renumbered section 2484 of this title.
 
@@ -889,19 +889,19 @@ Subsec. (b)(1). Pub. L. 111–350 substituted “section 107 of title 41” for 
 
 2006—Subsec. (a)(2). Pub. L. 109–163 inserted at end “Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.”
 
-2004—Pub. L. 108–375, § 651(a)(2), (6), renumbered section 2482 of this title as this section.
+2004—Pub. L. 108–375, § 651(a)(2), (6), renumbered section 2482 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 108–375, § 651(a)(7)(A), substituted “section 2483” for “section 2484”.
+Subsec. (b)(2). Pub. L. 108–375, § 651(a)(7)(A), substituted “section 2483” for “section 2484”.
 
-Subsec. (c)(2). Pub. L. 108–375, § 651(a)(7)(B), inserted at end “The chairman of the governing board shall be a commissioned officer or member of the senior executive service who has demonstrated experience or knowledge relevant to the management of the defense commissary system. In selecting other members of the governing board, the Secretary shall give priority to persons with experience related to logistics, military personnel, military entitlements or other experiences of value of management of commissaries.”
+Subsec. (c)(2). Pub. L. 108–375, § 651(a)(7)(B), inserted at end “The chairman of the governing board shall be a commissioned officer or member of the senior executive service who has demonstrated experience or knowledge relevant to the management of the defense commissary system. In selecting other members of the governing board, the Secretary shall give priority to persons with experience related to logistics, military personnel, military entitlements or other experiences of value of management of commissaries.”
 
-Subsecs. (d) to (h). Pub. L. 108–375, § 651(a)(7)(C), added subsecs. (d) to (h).
+Subsecs. (d) to (h). Pub. L. 108–375, § 651(a)(7)(C), added subsecs. (d) to (h).
 
 2003—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1), inserted first sentence, added par. (2), and struck out former first and second sentences which read as follows: “Private persons may operate commissary stores under such regulations as the Secretary of Defense may approve. A contract with a private person for the operation of any commissary store may not require or permit the contractor to carry out functions for the procurement of products to be sold in the store or to engage in functions relating to the overall management of a commissary system or the management of any such store.”
 
-1998—Subsec. (b)(1). Pub. L. 105–261, § 363(a), inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
+1998—Subsec. (b)(1). Pub. L. 105–261, § 363(a), inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
 
-Subsec. (c). Pub. L. 105–261, § 361(b), added subsec. (c).
+Subsec. (c). Pub. L. 105–261, § 361(b), added subsec. (c).
 
 1996—Pub. L. 104–106 struck out “private” after “stores:” in section catchline, designated existing text as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -913,11 +913,11 @@ Subsec. (b)(1). Pub. L. 104–201 substituted “another element of the Departme
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title III, § 363(b), Oct. 17, 1998, 112 Stat. 1986, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to services provided or obtained on or after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title III, § 363(b), Oct. 17, 1998, 112 Stat. 1986, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to services provided or obtained on or after the date of the enactment of this Act [Oct. 17, 1998].”
 
 **Acceptance of Military Star Card at Commissaries**
 
-Pub. L. 114–328, div. A, title VI, § 662, Dec. 23, 2016, 130 Stat. 2172, provided that:
+Pub. L. 114–328, div. A, title VI, § 662, Dec. 23, 2016, 130 Stat. 2172, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall ensure that—
 
@@ -929,7 +929,7 @@ Pub. L. 114–328, div. A, title VI, § 662, Dec. 23, 2016, 130 Stat. 2172, pr
 
 **Demonstration Program for Operation of Certain Commissary Stores by Nonappropriated Fund Instrumentalities**
 
-Pub. L. 102–484, div. A, title III, § 363, Oct. 23, 1992, 106 Stat. 2380, required the Secretary of Defense to establish a demonstration program to determine the feasibility of having nonappropriated fund instrumentalities operate commissary stores at military installations and provided for termination of the program and submission of a report on its implementation, not later than the expiration of the one-year period beginning on Oct. 23, 1992.
+Pub. L. 102–484, div. A, title III, § 363, Oct. 23, 1992, 106 Stat. 2380, required the Secretary of Defense to establish a demonstration program to determine the feasibility of having nonappropriated fund instrumentalities operate commissary stores at military installations and provided for termination of the program and submission of a report on its implementation, not later than the expiration of the one-year period beginning on Oct. 23, 1992.
 
 ## SUBCHAPTER II—RELATIONSHIP, CONTINUATION, AND COMMON POLICIES OF DEFENSE COMMISSARY AND EXCHANGE SYSTEMS
 
@@ -937,9 +937,9 @@ Pub. L. 102–484, div. A, title III, § 363, Oct. 23, 1992, 106 Stat. 2380, r
 
 **Amendments**
 
-2004—Pub. L. 108–375, div. A, title VI, § 651(b)(1), Oct. 28, 2004, 118 Stat. 1971, added subchapter heading and items 2487 to 2489.
+2004—Pub. L. 108–375, div. A, title VI, § 651(b)(1), Oct. 28, 2004, 118 Stat. 1971, added subchapter heading and items 2487 to 2489.
 
-### § 2487. Relationship between defense commissary system and exchange stores system
+### § 2487. Relationship between defense commissary system and exchange stores system
 
 **(a) Separate Operation of Systems.—**
 
@@ -979,13 +979,13 @@ Pub. L. 102–484, div. A, title III, § 363, Oct. 23, 1992, 106 Stat. 2380, r
 
 **(d) Access of Exchange Stores System to Federal Financing Bank.—** To facilitate the provision of in-store credit to patrons of the exchange stores system while reducing the costs of providing such credit, the Army and Air Force Exchange Service, Navy Exchange Service Command, and Marine Corps exchanges may issue and sell their obligations to the Federal Financing Bank as provided in section 6 of the Federal Financing Bank Act of 1973 (12 U.S.C. 2285).
 
-(Added Pub. L. 108–375, div. A, title VI, § 651(b)(1), Oct. 28, 2004, 118 Stat. 1971; amended Pub. L. 112–81, div. A, title VI, § 642, Dec. 31, 2011, 125 Stat. 1466; Pub. L. 114–328, div. A, title VI, § 661(d), Dec. 23, 2016, 130 Stat. 2171.)
+(Added Pub. L. 108–375, div. A, title VI, § 651(b)(1), Oct. 28, 2004, 118 Stat. 1971; amended Pub. L. 112–81, div. A, title VI, § 642, Dec. 31, 2011, 125 Stat. 1466; Pub. L. 114–328, div. A, title VI, § 661(d), Dec. 23, 2016, 130 Stat. 2171.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2487, added Pub. L. 99–661, div. A, title III, § 313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 102–484, div. A, title III, § 364(a), (b)(2), Oct. 23, 1992, 106 Stat. 2381, 2382; Pub. L. 104–106, div. A, title III, § 332, Feb. 10, 1996, 110 Stat. 260; Pub. L. 107–107, div. A, title III, § 333(a), Dec. 28, 2001, 115 Stat. 1058, related to release of certain commercially valuable information to the public by the Secretary of Defense with respect to commissary stores, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
+A prior section 2487, added Pub. L. 99–661, div. A, title III, § 313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 102–484, div. A, title III, § 364(a), (b)(2), Oct. 23, 1992, 106 Stat. 2381, 2382; Pub. L. 104–106, div. A, title III, § 332, Feb. 10, 1996, 110 Stat. 260; Pub. L. 107–107, div. A, title III, § 333(a), Dec. 28, 2001, 115 Stat. 1058, related to release of certain commercially valuable information to the public by the Secretary of Defense with respect to commissary stores, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
 
 **Amendments**
 
@@ -993,7 +993,7 @@ A prior section 2487, added Pub. L. 99–661, div. A, title III, § 313(a), No
 
 2011—Subsec. (c). Pub. L. 112–81 added subsec. (c).
 
-### § 2488. Combined exchange and commissary stores
+### § 2488. Combined exchange and commissary stores
 
 **(a) Authority.—** The Secretary of Defense may authorize a nonappropriated fund instrumentality to operate a military exchange and a commissary store as a combined exchange and commissary store on a military installation.
 
@@ -1019,7 +1019,7 @@ A prior section 2487, added Pub. L. 99–661, div. A, title III, § 313(a), No
 
 **(f) Nonappropriated Fund Instrumentality Defined.—** In this section, the term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 
-(Added Pub. L. 104–106, div. A, title III, § 336(a)(1), Feb. 10, 1996, 110 Stat. 263, § 2490a; amended Pub. L. 105–85, div. A, title X, § 1061(d), Nov. 18, 1997, 111 Stat. 1891; Pub. L. 108–136, div. A, title X, § 1043(c)(2), Nov. 24, 2003, 117 Stat. 1611; renumbered § 2488, Pub. L. 108–375, div. A, title VI, § 651(b)(3), Oct. 28, 2004, 118 Stat. 1971; Pub. L. 111–383, div. A, title X, § 1075(b)(37), Jan. 7, 2011, 124 Stat. 4371.)
+(Added Pub. L. 104–106, div. A, title III, § 336(a)(1), Feb. 10, 1996, 110 Stat. 263, § 2490a; amended Pub. L. 105–85, div. A, title X, § 1061(d), Nov. 18, 1997, 111 Stat. 1891; Pub. L. 108–136, div. A, title X, § 1043(c)(2), Nov. 24, 2003, 117 Stat. 1611; renumbered § 2488, Pub. L. 108–375, div. A, title VI, § 651(b)(3), Oct. 28, 2004, 118 Stat. 1971; Pub. L. 111–383, div. A, title X, § 1075(b)(37), Jan. 7, 2011, 124 Stat. 4371.)
 
 **Editorial Notes**
 
@@ -1037,7 +1037,7 @@ A prior section 2488 was renumbered section 2495 of this title.
 
 2004—Pub. L. 108–375 renumbered section 2490a of this title as this section.
 
-2003—Subsec. (f). Pub. L. 108–136, § 1043(c)(2), substituted “Nonappropriated Fund Instrumentality Defined.—In this section, the term” for “Definitions.—In this section:
+2003—Subsec. (f). Pub. L. 108–136, § 1043(c)(2), substituted “Nonappropriated Fund Instrumentality Defined.—In this section, the term” for “Definitions.—In this section:
 
 “(1) The term”
 
@@ -1045,7 +1045,7 @@ and struck out par. (2) which read as follows: “The term ‘base closure law�
 
 1997—Subsec. (f)(2). Pub. L. 105–85 substituted “section 2667(h)” for “section 2667(g)”.
 
-### § 2489. Overseas commissary and exchange stores: access and purchase restrictions
+### § 2489. Overseas commissary and exchange stores: access and purchase restrictions
 
 **(a) Authority to Establish Restrictions.—** The Secretary of Defense may establish restrictions on the ability of eligible patrons of commissary and exchange stores located outside of the United States to purchase certain merchandise items (or the quantity of certain merchandise items) otherwise included within an authorized merchandise category if the Secretary determines that such restrictions are necessary to prevent the resale of such merchandise in violation of treaty obligations of the United States or host nation laws (to the extent such laws are not inconsistent with United States laws).
 
@@ -1055,7 +1055,7 @@ and struck out par. (2) which read as follows: “The term ‘base closure law�
 
 **(2)** shall ensure that the restriction is consistent with the purpose of the overseas commissary and exchange system to provide reasonable access for eligible patrons to purchase merchandise items made in the United States.
 
-(Added Pub. L. 105–261, div. A, title III, § 365(a), Oct. 17, 1998, 112 Stat. 1986, § 2492; amended Pub. L. 106–65, div. A, title X, § 1066(a)(22), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title X, § 1041(a)(15), Dec. 2, 2002, 116 Stat. 2645; renumbered § 2489, Pub. L. 108–375, div. A, title VI, § 651(b)(3), Oct. 28, 2004, 118 Stat. 1971; Pub. L. 112–239, div. A, title VI, § 651, Jan. 2, 2013, 126 Stat. 1783.)
+(Added Pub. L. 105–261, div. A, title III, § 365(a), Oct. 17, 1998, 112 Stat. 1986, § 2492; amended Pub. L. 106–65, div. A, title X, § 1066(a)(22), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title X, § 1041(a)(15), Dec. 2, 2002, 116 Stat. 2645; renumbered § 2489, Pub. L. 108–375, div. A, title VI, § 651(b)(3), Oct. 28, 2004, 118 Stat. 1971; Pub. L. 112–239, div. A, title VI, § 651, Jan. 2, 2013, 126 Stat. 1783.)
 
 **Editorial Notes**
 
@@ -1073,13 +1073,13 @@ Another prior section 2490a was renumbered section 2783 of this title.
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 112–239, § 651(b)(1), redesignated par. (1) as subsec. (a) and added heading.
+2013—Subsec. (a). Pub. L. 112–239, § 651(b)(1), redesignated par. (1) as subsec. (a) and added heading.
 
-Subsec. (b). Pub. L. 112–239, § 651(b)(2), (3), redesignated par. (2) of former subsec. (a) as (b), added heading, and redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively.
+Subsec. (b). Pub. L. 112–239, § 651(b)(2), (3), redesignated par. (2) of former subsec. (a) as (b), added heading, and redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively.
 
-Pub. L. 112–239, § 651(a), struck out subsec. (b). Text read as follows: “For each location outside the United States that is served by the commissary system or the exchange system, the Secretary of Defense may maintain a list of controlled merchandise items, except that, after October 17, 1998, the Secretary may not change the list to add a merchandise item unless, before making the change, the Secretary submits to Congress a notice of the proposed addition and the reasons for the addition of the item.”
+Pub. L. 112–239, § 651(a), struck out subsec. (b). Text read as follows: “For each location outside the United States that is served by the commissary system or the exchange system, the Secretary of Defense may maintain a list of controlled merchandise items, except that, after October 17, 1998, the Secretary may not change the list to add a merchandise item unless, before making the change, the Secretary submits to Congress a notice of the proposed addition and the reasons for the addition of the item.”
 
-Subsec. (c). Pub. L. 112–239, § 651(a), struck out subsec. (c). Text read as follows: “The Secretary of Defense shall notify Congress of any change proposed or made to any of the host nation laws or any of the treaty obligations of the United States, and any changed conditions within host nations, if the change would necessitate the use of quantity or other restrictions on purchases in commissary and exchange stores located outside the United States.”
+Subsec. (c). Pub. L. 112–239, § 651(a), struck out subsec. (c). Text read as follows: “The Secretary of Defense shall notify Congress of any change proposed or made to any of the host nation laws or any of the treaty obligations of the United States, and any changed conditions within host nations, if the change would necessitate the use of quantity or other restrictions on purchases in commissary and exchange stores located outside the United States.”
 
 2004—Pub. L. 108–375 renumbered section 2492 of this title as this section.
 
@@ -1093,17 +1093,17 @@ Subsec. (c). Pub. L. 112–239, § 651(a), struck out subsec. (c). Text read a
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title VI, § 651(b), Dec. 23, 2022, 136 Stat. 2639, added item 2496.
+2022—Pub. L. 117–263, div. A, title VI, § 651(b), Dec. 23, 2022, 136 Stat. 2639, added item 2496.
 
-2009—Pub. L. 111–84, div. A, title VI, § 651(b), Oct. 28, 2009, 123 Stat. 2369, added item 2492a.
+2009—Pub. L. 111–84, div. A, title VI, § 651(b), Oct. 28, 2009, 123 Stat. 2369, added item 2492a.
 
-2004—Pub. L. 108–375, div. A, title VI, § 651(c)(1), Oct. 28, 2004, 118 Stat. 1971, added subchapter heading and items 2491 to 2495b.
+2004—Pub. L. 108–375, div. A, title VI, § 651(c)(1), Oct. 28, 2004, 118 Stat. 1971, added subchapter heading and items 2491 to 2495b.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Telephone Services for Military Personnel Serving In Combat Zones**
 
-Pub. L. 110–181, div. A, title VIII, § 885, Jan. 28, 2008, 122 Stat. 265, as amended by Pub. L. 111–383, div. A, title VI, § 641, Jan. 7, 2011, 124 Stat. 4241; Pub. L. 112–81, div. A, title X, § 1062(c), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 110–181, div. A, title VIII, § 885, Jan. 28, 2008, 122 Stat. 265, as amended by Pub. L. 111–383, div. A, title VI, § 641, Jan. 7, 2011, 124 Stat. 4241; Pub. L. 112–81, div. A, title X, § 1062(c), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 > **“(a) Competitive Procedures Required.—**
 
@@ -1119,7 +1119,7 @@ Pub. L. 110–181, div. A, title VIII, § 885, Jan. 28, 2008, 122 Stat. 265, a
 
 > **“(c) Morale, Welfare, and Recreation Telephone Services Defined.—** In this section, the term ‘morale, welfare, and recreation telephone services’ means unofficial telephone calling center services supporting calling centers provided by the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other nonappropriated fund instrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.”
 
-### § 2491. Uniform funding and management of morale, welfare, and recreation programs
+### § 2491. Uniform funding and management of morale, welfare, and recreation programs
 
 **(a) Authority for Uniform Funding and Management.—** Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense and available for morale, welfare, and recreation programs may be treated as nonappropriated funds and expended in accordance with laws applicable to the expenditures of nonappropriated funds. When made available for morale, welfare, and recreation programs under such regulations, appropriated funds shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
 
@@ -1135,7 +1135,7 @@ Pub. L. 110–181, div. A, title VIII, § 885, Jan. 28, 2008, 122 Stat. 265, a
 
 **(4)** In this subsection, the term “an employee of a nonappropriated fund instrumentality” means an employee described in section 2105(c) of title 5.
 
-(Added Pub. L. 107–314, div. A, title III, § 323(a), Dec. 2, 2002, 116 Stat. 2510, § 2494; renumbered § 2491, Pub. L. 108–375, div. A, title VI, § 651(c)(2), Oct. 28, 2004, 118 Stat. 1972.)
+(Added Pub. L. 107–314, div. A, title III, § 323(a), Dec. 2, 2002, 116 Stat. 2510, § 2494; renumbered § 2491, Pub. L. 108–375, div. A, title VI, § 651(c)(2), Oct. 28, 2004, 118 Stat. 1972.)
 
 **Editorial Notes**
 
@@ -1147,7 +1147,7 @@ A prior section 2491 was renumbered section 4801 of this title.
 
 2004—Pub. L. 108–375 renumbered section 2494 of this title as this section.
 
-### § 2491a. Department of Defense golf courses: limitation on use of appropriated funds
+### § 2491a. Department of Defense golf courses: limitation on use of appropriated funds
 
 **(a) Limitation.—** Except as provided in subsection (b), funds appropriated to the Department of Defense may not be used to equip, operate, or maintain a golf course at a facility or installation of the Department of Defense.
 
@@ -1157,7 +1157,7 @@ A prior section 2491 was renumbered section 4801 of this title.
 
 **(2)** The Secretary of Defense shall prescribe regulations governing the use of appropriated funds under this subsection.
 
-(Added Pub. L. 103–160, div. A, title III, § 312(a), Nov. 30, 1993, 107 Stat. 1618, § 2246; renumbered § 2491a, Pub. L. 108–375, div. A, title VI, § 651(d), Oct. 28, 2004, 118 Stat. 1972.)
+(Added Pub. L. 103–160, div. A, title III, § 312(a), Nov. 30, 1993, 107 Stat. 1618, § 2246; renumbered § 2491a, Pub. L. 108–375, div. A, title VI, § 651(d), Oct. 28, 2004, 118 Stat. 1972.)
 
 **Editorial Notes**
 
@@ -1165,13 +1165,13 @@ A prior section 2491 was renumbered section 4801 of this title.
 
 2004—Pub. L. 108–375 renumbered section 2246 of this title as this section.
 
-### § 2491b. Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation
+### § 2491b. Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation
 
 **(a) Limitation.—** Except as provided in subsection (b), funds appropriated to the Department of Defense may not be used to operate the Armed Forces Recreation Center, Europe.
 
 **(b) Exception.—** Subsection (a) does not apply to the use of funds for the payment of utilities, the maintenance, repair, or renovation of real property, and the transportation of products made in the United States.
 
-(Added Pub. L. 103–337, div. A, title III, § 372(a), Oct. 5, 1994, 108 Stat. 2735, § 2247; amended Pub. L. 105–85, div. A, title III, § 375, Nov. 18, 1997, 111 Stat. 1708; renumbered § 2491b, Pub. L. 108–375, div. A, title VI, § 651(d), Oct. 28, 2004, 118 Stat. 1972.)
+(Added Pub. L. 103–337, div. A, title III, § 372(a), Oct. 5, 1994, 108 Stat. 2735, § 2247; amended Pub. L. 105–85, div. A, title III, § 375, Nov. 18, 1997, 111 Stat. 1708; renumbered § 2491b, Pub. L. 108–375, div. A, title VI, § 651(d), Oct. 28, 2004, 118 Stat. 1972.)
 
 **Editorial Notes**
 
@@ -1181,11 +1181,11 @@ A prior section 2491 was renumbered section 4801 of this title.
 
 1997—Subsec. (b). Pub. L. 105–85 substituted “the maintenance, repair, or renovation of real property, and the transportation” for “real property maintenance, and transportation”.
 
-### § 2491c. Retention of morale, welfare, and recreation funds by military installations: limitation
+### § 2491c. Retention of morale, welfare, and recreation funds by military installations: limitation
 
 Amounts may not be retained in a nonappropriated morale, welfare, and recreation account of a military installation of an armed force in excess of the amount necessary to meet cash requirements of that installation. Amounts in excess of that amount shall be transferred to a single nonappropriated morale, welfare, and recreation account for that armed force. This section does not apply to the Coast Guard.
 
-(Added Pub. L. 103–337, div. A, title III, § 373(a), Oct. 5, 1994, 108 Stat. 2736, § 2219; amended Pub. L. 104–106, div. A, title III, § 341, Feb. 10, 1996, 110 Stat. 265; renumbered § 2491c, Pub. L. 108–375, div. A, title VI, § 651(d), Oct. 28, 2004, 118 Stat. 1972.)
+(Added Pub. L. 103–337, div. A, title III, § 373(a), Oct. 5, 1994, 108 Stat. 2736, § 2219; amended Pub. L. 104–106, div. A, title III, § 341, Feb. 10, 1996, 110 Stat. 265; renumbered § 2491c, Pub. L. 108–375, div. A, title VI, § 651(d), Oct. 28, 2004, 118 Stat. 1972.)
 
 **Editorial Notes**
 
@@ -1201,7 +1201,7 @@ Amounts may not be retained in a nonappropriated morale, welfare, and recreation
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 2492. Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services
+### § 2492. Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services
 
 An agency or instrumentality of the Department of Defense that supports the operation of the exchange system, or the operation of a morale, welfare, and recreation system, of the Department of Defense may enter into a contract or other agreement with another element of the Department of Defense or with another Federal department, agency, or instrumentality—
 
@@ -1209,7 +1209,7 @@ An agency or instrumentality of the Department of Defense that supports the oper
 
 **(2)** to provide or obtain food services beneficial to the efficient management and operation of the dining facilities on military installations offering food services to members of the armed forces.
 
-(Added Pub. L. 104–201, div. A, title III, § 341(a)(1), Sept. 23, 1996, 110 Stat. 2488, § 2482a; renumbered § 2492, Pub. L. 108–375, div. A, title VI, § 651(c)(3), Oct. 28, 2004, 118 Stat. 1972; amended Pub. L. 113–291, div. A, title VI, § 632, Dec. 19, 2014, 128 Stat. 3405.)
+(Added Pub. L. 104–201, div. A, title III, § 341(a)(1), Sept. 23, 1996, 110 Stat. 2488, § 2482a; renumbered § 2492, Pub. L. 108–375, div. A, title VI, § 651(c)(3), Oct. 28, 2004, 118 Stat. 1972; amended Pub. L. 113–291, div. A, title VI, § 632, Dec. 19, 2014, 128 Stat. 3405.)
 
 **Editorial Notes**
 
@@ -1223,7 +1223,7 @@ A prior section 2492 was renumbered section 2489 of this title.
 
 2004—Pub. L. 108–375 renumbered section 2482a of this title as this section.
 
-### § 2492a. Limitation on Department of Defense entities competing with private sector in offering personal information services
+### § 2492a. Limitation on Department of Defense entities competing with private sector in offering personal information services
 
 **(a) Limitation.—**
 
@@ -1241,15 +1241,15 @@ A prior section 2492 was renumbered section 2489 of this title.
 
 **(c) Personal Information Services Defined.—** In this section, the term “personal information services” means the provision of Internet, telephone, or television services to consumers.
 
-(Added Pub. L. 111–84, div. A, title VI, § 651(a), Oct. 28, 2009, 123 Stat. 2368.)
+(Added Pub. L. 111–84, div. A, title VI, § 651(a), Oct. 28, 2009, 123 Stat. 2368.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 111–84, div. A, title VI, § 651(c), Oct. 28, 2009, 123 Stat. 2369, provided that: “Section 2492a of title 10, United States Code, as added by subsection (a), does not affect the validity or terms of any contract for the provision of personal information services entered into before the date of the enactment of this Act [Oct. 28, 2009].”
+Pub. L. 111–84, div. A, title VI, § 651(c), Oct. 28, 2009, 123 Stat. 2369, provided that: “Section 2492a of title 10, United States Code, as added by subsection (a), does not affect the validity or terms of any contract for the provision of personal information services entered into before the date of the enactment of this Act [Oct. 28, 2009].”
 
-### § 2493. Fisher Houses: administration as nonappropriated fund instrumentality
+### § 2493. Fisher Houses: administration as nonappropriated fund instrumentality
 
 **(a) Fisher Houses and Suites Defined.—** In this section:
 
@@ -1311,7 +1311,7 @@ Pub. L. 111–84, div. A, title VI, § 651(c), Oct. 28, 2009, 123 Stat. 2369, 
 
 **(f) Base Operating Support.—** The Secretary of a military department may provide base operating support for Fisher Houses associated with facilities of that military department.
 
-(Added Pub. L. 105–261, div. A, title IX, § 906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, § 1 [[div. A], title IX, § 914(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, § 321, Dec. 2, 2002, 116 Stat. 2510; Pub. L. 112–81, div. A, title X, § 1061(17), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 112–239, div. A, title VI, § 652(a), (b), Jan. 2, 2013, 126 Stat. 1784; Pub. L. 114–92, div. A, title VI, § 622(b), Nov. 25, 2015, 129 Stat. 841; Pub. L. 117–263, div. A, title VI, § 626(c)(7), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 105–261, div. A, title IX, § 906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, § 1 [[div. A], title IX, § 914(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, § 321, Dec. 2, 2002, 116 Stat. 2510; Pub. L. 112–81, div. A, title X, § 1061(17), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 112–239, div. A, title VI, § 652(a), (b), Jan. 2, 2013, 126 Stat. 1784; Pub. L. 114–92, div. A, title VI, § 622(b), Nov. 25, 2015, 129 Stat. 841; Pub. L. 117–263, div. A, title VI, § 626(c)(7), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Editorial Notes**
 
@@ -1321,11 +1321,11 @@ Pub. L. 111–84, div. A, title VI, § 651(c), Oct. 28, 2009, 123 Stat. 2369, 
 
 2015—Subsec. (a)(4)(B)(ii). Pub. L. 114–92 substituted “section 481f(d)” for “section 481f(e)”.
 
-2013—Subsec. (a)(1)(B). Pub. L. 112–239. § 652(a)(1), substituted “by authorized Fisher House residents;” for “by patients of that health care facility, members of the families of such patients, and others providing the equivalent of familial support for such patients;”.
+2013—Subsec. (a)(1)(B). Pub. L. 112–239. § 652(a)(1), substituted “by authorized Fisher House residents;” for “by patients of that health care facility, members of the families of such patients, and others providing the equivalent of familial support for such patients;”.
 
-Subsec. (a)(2) to (4). Pub. L. 112–239, § 652(a)(2)–(4), added pars. (2) and (4) and redesignated former par. (2) as (3).
+Subsec. (a)(2) to (4). Pub. L. 112–239, § 652(a)(2)–(4), added pars. (2) and (4) and redesignated former par. (2) as (3).
 
-Subsecs. (b), (e), (f). Pub. L. 112–239, § 652(b), struck out “health care” before “facilities” wherever appearing.
+Subsecs. (b), (e), (f). Pub. L. 112–239, § 652(b), struck out “health care” before “facilities” wherever appearing.
 
 2011—Subsec. (g). Pub. L. 112–81 struck out subsec. (g), which required submission of annual report describing the operation of Fisher Houses and Fisher Suites associated with military department health care facilities.
 
@@ -1337,11 +1337,11 @@ Subsecs. (b), (e), (f). Pub. L. 112–239, § 652(b), struck out “health car
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 914(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that: “The amendments made by subsection (a) [amending this section] shall be effective as of October 17, 1998, as if included in section 2493 of title 10, United States Code, as enacted by section 906(a) of Public Law 105–261.”
+Pub. L. 106–398, § 1 [[div. A], title IX, § 914(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that: “The amendments made by subsection (a) [amending this section] shall be effective as of October 17, 1998, as if included in section 2493 of title 10, United States Code, as enacted by section 906(a) of Public Law 105–261.”
 
 **Savings Provisions for Certain Navy Employees**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 914(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that:
+Pub. L. 106–398, § 1 [[div. A], title IX, § 914(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that:
 
 > **“(1)** The Secretary of the Navy may continue to employ, and pay out of appropriated funds, any employee of the Navy in the competitive service who, as of October 17, 1998, was employed by the Navy in a position at a Fisher House administered by the Navy, but only for so long as the employee is continuously employed in that position.
 
@@ -1353,11 +1353,11 @@ Pub. L. 106–398, § 1 [[div. A], title IX, § 914(b)], Oct. 30, 2000, 114 
 
 > **“(B)** The term ‘competitive service’ has the meaning given the term in section 2102 of title 5, United States Code.”
 
-[Pub. L. 106–398, § 1 [[div. A], title IX, § 914(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that: “Subsection (b) [set out above] applies with respect to the pay period that includes October 17, 1998, and subsequent pay periods.” ]
+[Pub. L. 106–398, § 1 [[div. A], title IX, § 914(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that: “Subsection (b) [set out above] applies with respect to the pay period that includes October 17, 1998, and subsequent pay periods.” ]
 
 **Establishment of Funds and Funding Transition**
 
-Pub. L. 105–261, div. A, title IX, § 906(b)–(e), Oct. 17, 1998, 112 Stat. 2095, provided that:
+Pub. L. 105–261, div. A, title IX, § 906(b)–(e), Oct. 17, 1998, 112 Stat. 2095, provided that:
 
 > **“(b) Establishment of Funds.—** Not later than 90 days after the date of the enactment of this Act [Oct. 17, 1998], the Secretary of each military department shall—
 
@@ -1379,7 +1379,7 @@ Pub. L. 105–261, div. A, title IX, § 906(b)–(e), Oct. 17, 1998, 112 Stat.
 
 > **“(e) Availability of Transferred Amounts.—** Amounts transferred under subsection (b) or (c) to a fund established under section 2493(d) of title 10, United States Code (as added by subsection (a)), shall be available without fiscal year limitation for the purposes for which the fund is established and shall be administered as nonappropriated funds.”
 
-### § 2494. Nonappropriated fund instrumentalities: furnishing utility services for morale, welfare, and recreation purposes
+### § 2494. Nonappropriated fund instrumentalities: furnishing utility services for morale, welfare, and recreation purposes
 
 Appropriations for the Department of Defense may be used to provide utility services for—
 
@@ -1387,7 +1387,7 @@ Appropriations for the Department of Defense may be used to provide utility serv
 
 **(2)** other morale, welfare, and recreation activities for members of the armed forces.
 
-(Added Pub. L. 108–375, div. A, title VI, § 651(c)(4), Oct. 28, 2004, 118 Stat. 1972.)
+(Added Pub. L. 108–375, div. A, title VI, § 651(c)(4), Oct. 28, 2004, 118 Stat. 1972.)
 
 **Editorial Notes**
 
@@ -1395,7 +1395,7 @@ Appropriations for the Department of Defense may be used to provide utility serv
 
 A prior section 2494 was renumbered section 2491 of this title.
 
-### § 2495. Nonappropriated fund instrumentalities: purchase of alcoholic beverages
+### § 2495. Nonappropriated fund instrumentalities: purchase of alcoholic beverages
 
 **(a)** The Secretary of Defense shall provide that—
 
@@ -1417,7 +1417,7 @@ A prior section 2494 was renumbered section 2491 of this title.
 
 **(2)** The term “State” includes the District of Columbia.
 
-(Added Pub. L. 99–661, div. A, title III, § 313(a), Nov. 14, 1986, 100 Stat. 3853, § 2488; amended Pub. L. 100–180, div. A, title III, § 312(a), Dec. 4, 1987, 101 Stat. 1073; Pub. L. 104–106, div. A, title III, § 333, Feb. 10, 1996, 110 Stat. 261; Pub. L. 106–398, § 1 [[div. A], title III, § 335], Oct. 30, 2000, 114 Stat. 1654, 1654A–61; renumbered § 2495, Pub. L. 108–375, div. A, title VI, § 651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972.)
+(Added Pub. L. 99–661, div. A, title III, § 313(a), Nov. 14, 1986, 100 Stat. 3853, § 2488; amended Pub. L. 100–180, div. A, title III, § 312(a), Dec. 4, 1987, 101 Stat. 1073; Pub. L. 104–106, div. A, title III, § 333, Feb. 10, 1996, 110 Stat. 261; Pub. L. 106–398, § 1 [[div. A], title III, § 335], Oct. 30, 2000, 114 Stat. 1654, 1654A–61; renumbered § 2495, Pub. L. 108–375, div. A, title VI, § 651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972.)
 
 **Editorial Notes**
 
@@ -1427,9 +1427,9 @@ A prior section 2494 was renumbered section 2491 of this title.
 
 2000—Subsec. (c)(2), (3). Pub. L. 106–398 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “If the use of a private distributor would subject covered alcoholic beverage purchases of distilled spirits to direct or indirect State taxation, a nonappropriated fund instrumentality shall be considered to be the most economical method of distribution regardless of the results of the determination under paragraph (1).”
 
-1996—Subsec. (a)(1). Pub. L. 104–106, § 333(a), inserted “and distributed in the most economical manner” after “most competitive source”.
+1996—Subsec. (a)(1). Pub. L. 104–106, § 333(a), inserted “and distributed in the most economical manner” after “most competitive source”.
 
-Subsecs. (c), (d). Pub. L. 104–106, § 333(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 104–106, § 333(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1987—Subsec. (a)(2). Pub. L. 100–180 struck out “purchased for resale on a military installation located in the contiguous States” after “malt beverages and wines”.
 
@@ -1437,51 +1437,51 @@ Subsecs. (c), (d). Pub. L. 104–106, § 333(b), added subsec. (c) and redesig
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title III, § 312(b), Dec. 4, 1987, 101 Stat. 1073, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to purchases of malt beverages and wine after the end of the 60-day period beginning on the date of the enactment of this Act [Dec. 4, 1987].”
+Pub. L. 100–180, div. A, title III, § 312(b), Dec. 4, 1987, 101 Stat. 1073, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to purchases of malt beverages and wine after the end of the 60-day period beginning on the date of the enactment of this Act [Dec. 4, 1987].”
 
 **Procurement of Malt Beverages and Wine by Nonappropriated Fund Activity**
 
-Pub. L. 109–148, div. A, title VIII, § 8080, Dec. 30, 2005, 119 Stat. 2717, which provided that none of the funds appropriated by div. A of Pub. L. 109–148 were to be used for the support of any nonappropriated funds activity of the Department of Defense that procured malt beverages and wine with nonappropriated funds for resale (including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine were procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation was located, was from the Department of Defense Appropriations Act, 2006, and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 109–148, div. A, title VIII, § 8080, Dec. 30, 2005, 119 Stat. 2717, which provided that none of the funds appropriated by div. A of Pub. L. 109–148 were to be used for the support of any nonappropriated funds activity of the Department of Defense that procured malt beverages and wine with nonappropriated funds for resale (including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine were procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation was located, was from the Department of Defense Appropriations Act, 2006, and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
 
-Pub. L. 108–287, title VIII, § 8087, Aug. 5, 2004, 118 Stat. 991.
+Pub. L. 108–287, title VIII, § 8087, Aug. 5, 2004, 118 Stat. 991.
 
-Pub. L. 108–87, title VIII, § 8088, Sept. 30, 2003, 117 Stat. 1093.
+Pub. L. 108–87, title VIII, § 8088, Sept. 30, 2003, 117 Stat. 1093.
 
-Pub. L. 107–248, title VIII, § 8092, Oct. 23, 2002, 116 Stat. 1558.
+Pub. L. 107–248, title VIII, § 8092, Oct. 23, 2002, 116 Stat. 1558.
 
-Pub. L. 107–117, div. A, title VIII, § 8108, Jan. 10, 2002, 115 Stat. 2271.
+Pub. L. 107–117, div. A, title VIII, § 8108, Jan. 10, 2002, 115 Stat. 2271.
 
-Pub. L. 106–259, title VIII, § 8108, Aug. 9, 2000, 114 Stat. 698.
+Pub. L. 106–259, title VIII, § 8108, Aug. 9, 2000, 114 Stat. 698.
 
-Pub. L. 106–79, title VIII, § 8132, Oct. 25, 1999, 113 Stat. 1266.
+Pub. L. 106–79, title VIII, § 8132, Oct. 25, 1999, 113 Stat. 1266.
 
-Pub. L. 104–61, title VIII, § 8055, Dec. 1, 1995, 109 Stat. 662.
+Pub. L. 104–61, title VIII, § 8055, Dec. 1, 1995, 109 Stat. 662.
 
-Pub. L. 103–335, title VIII, § 8058A, Sept. 30, 1994, 108 Stat. 2632.
+Pub. L. 103–335, title VIII, § 8058A, Sept. 30, 1994, 108 Stat. 2632.
 
-Pub. L. 103–139, title VIII, § 8099A, Nov. 11, 1993, 107 Stat. 1462.
+Pub. L. 103–139, title VIII, § 8099A, Nov. 11, 1993, 107 Stat. 1462.
 
-Pub. L. 102–396, title IX, § 9114, Oct. 6, 1992, 106 Stat. 1929.
+Pub. L. 102–396, title IX, § 9114, Oct. 6, 1992, 106 Stat. 1929.
 
-Pub. L. 102–172, title VIII, § 8111A, Nov. 26, 1991, 105 Stat. 1200.
+Pub. L. 102–172, title VIII, § 8111A, Nov. 26, 1991, 105 Stat. 1200.
 
-Pub. L. 101–511, title VIII, § 8068, Nov. 5, 1990, 104 Stat. 1889.
+Pub. L. 101–511, title VIII, § 8068, Nov. 5, 1990, 104 Stat. 1889.
 
-Pub. L. 101–165, title IX, § 9093, Nov. 21, 1989, 103 Stat. 1149.
+Pub. L. 101–165, title IX, § 9093, Nov. 21, 1989, 103 Stat. 1149.
 
-Pub. L. 100–463, title VIII, § 8122, Oct. 1, 1988, 102 Stat. 2270–40.
+Pub. L. 100–463, title VIII, § 8122, Oct. 1, 1988, 102 Stat. 2270–40.
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8081], Dec. 22, 1987, 101 Stat. 1329–43, 1329–76.
+Pub. L. 100–202, § 101(b) [title VIII, § 8081], Dec. 22, 1987, 101 Stat. 1329–43, 1329–76.
 
-Pub. L. 99–500, § 101(c) [title IX, § 9090], Oct. 18, 1986, 100 Stat. 1783–82, 1783–116, and Pub. L. 99–591, § 101(c) [title IX, § 9090], Oct. 30, 1986, 100 Stat. 3341–82, 3341–116.
+Pub. L. 99–500, § 101(c) [title IX, § 9090], Oct. 18, 1986, 100 Stat. 1783–82, 1783–116, and Pub. L. 99–591, § 101(c) [title IX, § 9090], Oct. 30, 1986, 100 Stat. 3341–82, 3341–116.
 
-Pub. L. 99–190, § 101(b) [title VIII, § 8099], Dec. 19, 1985, 99 Stat. 1185, 1219.
+Pub. L. 99–190, § 101(b) [title VIII, § 8099], Dec. 19, 1985, 99 Stat. 1185, 1219.
 
-### § 2495a. Overseas package stores: treatment of United States wines
+### § 2495a. Overseas package stores: treatment of United States wines
 
 The Secretary of Defense shall ensure that each nonappropriated-fund activity engaged principally in selling alcoholic beverage products in a packaged form (commonly referred to as a “package store”) that is located at a military installation outside the United States shall give appropriate treatment with respect to wines produced in the United States to ensure that such wines are given, in general, an equitable distribution, selection, and price when compared with wines produced by the host nation.
 
-(Added Pub. L. 100–180, div. A, title III, § 311(a)(1), Dec. 4, 1987, 101 Stat. 1073, § 2489; renumbered § 2495a, Pub. L. 108–375, div. A, title VI, § 651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972.)
+(Added Pub. L. 100–180, div. A, title III, § 311(a)(1), Dec. 4, 1987, 101 Stat. 1073, § 2489; renumbered § 2495a, Pub. L. 108–375, div. A, title VI, § 651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972.)
 
 **Editorial Notes**
 
@@ -1493,9 +1493,9 @@ The Secretary of Defense shall ensure that each nonappropriated-fund activity en
 
 **Regulations Deadline**
 
-Pub. L. 100–180, div. A, title III, § 311(b), Dec. 4, 1987, 101 Stat. 1073, directed Secretary of Defense to prescribe regulations to implement this section not later than 90 days after Dec. 4, 1987.
+Pub. L. 100–180, div. A, title III, § 311(b), Dec. 4, 1987, 101 Stat. 1073, directed Secretary of Defense to prescribe regulations to implement this section not later than 90 days after Dec. 4, 1987.
 
-### § 2495b. Sale or rental of sexually explicit material prohibited
+### § 2495b. Sale or rental of sexually explicit material prohibited
 
 **(a) Prohibition of Sale or Rental.—** The Secretary of Defense may not permit the sale or rental of sexually explicit material on property under the jurisdiction of the Department of Defense.
 
@@ -1527,7 +1527,7 @@ Pub. L. 100–180, div. A, title III, § 311(b), Dec. 4, 1987, 101 Stat. 1073,
 
 **(2)** The term “property under the jurisdiction of the Department of Defense” includes commissaries, all facilities operated by the Army and Air Force Exchange Service, the Navy Exchange Service Command, the Navy Resale and Services Support Office, Marine Corps exchanges, and ships’ stores.
 
-(Added Pub. L. 104–201, div. A, title III, § 343(a)(1), Sept. 23, 1996, 110 Stat. 2489, § 2489a; renumbered § 2495b, Pub. L. 108–375, div. A, title VI, § 651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972; amended Pub. L. 110–417, [div. A], title VI, § 642(a), Oct. 14, 2008, 122 Stat. 4493.)
+(Added Pub. L. 104–201, div. A, title III, § 343(a)(1), Sept. 23, 1996, 110 Stat. 2489, § 2489a; renumbered § 2495b, Pub. L. 108–375, div. A, title VI, § 651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972; amended Pub. L. 110–417, [div. A], title VI, § 642(a), Oct. 14, 2008, 122 Stat. 4493.)
 
 **Editorial Notes**
 
@@ -1541,17 +1541,17 @@ Pub. L. 100–180, div. A, title III, § 311(b), Dec. 4, 1987, 101 Stat. 1073,
 
 **Effective Date**
 
-Pub. L. 104–201, div. A, title III, § 343(b), Sept. 23, 1996, 110 Stat. 2490, provided that: “Subsection (a) of section 2489a [now 2495b] of title 10, United States Code, as added by subsection (a) of this section, shall take effect 90 days after the date of the enactment of this Act [Sept. 23, 1996].”
+Pub. L. 104–201, div. A, title III, § 343(b), Sept. 23, 1996, 110 Stat. 2490, provided that: “Subsection (a) of section 2489a [now 2495b] of title 10, United States Code, as added by subsection (a) of this section, shall take effect 90 days after the date of the enactment of this Act [Sept. 23, 1996].”
 
 **Resale Activities Review Board: Establishment and Initial Meeting**
 
-Pub. L. 110–417, [div. A], title VI, § 642(b), Oct. 14, 2008, 122 Stat. 4494, provided that:
+Pub. L. 110–417, [div. A], title VI, § 642(b), Oct. 14, 2008, 122 Stat. 4494, provided that:
 
 > **“(1) Establishment.—** The board required by subsection (c) of section 2495b of title 10, United States Code, as added by subsection (a), shall be established, and its initial nine members appointed, not later than 120 days after the date of the enactment of this Act [Oct. 14, 2008].
 
 > **“(2) Meetings.—** The board shall conduct an initial meeting within one year after the date of the appointment of the initial members of the board. At the discretion of the board, the board may consider all materials previously reviewed under such section as available for reconsideration for a minimum of 180 days following the initial meeting of the board.”
 
-### § 2496. Sale of certain goods from the Xinjiang Uyghur Autonomous Region prohibited
+### § 2496. Sale of certain goods from the Xinjiang Uyghur Autonomous Region prohibited
 
 **(a) Prohibition.—** The Secretary of Defense may not knowingly permit the sale, at a commissary store or military exchange, of any good, ware, article, or merchandise—
 
@@ -1565,4 +1565,4 @@ Pub. L. 110–417, [div. A], title VI, § 642(b), Oct. 14, 2008, 122 Stat. 449
 
 **(2)** The term “XUAR” means the Xinjiang Uyghur Autonomous Region of the People’s Republic of China.
 
-(Added Pub. L. 117–263, div. A, title VI, § 651(a), Dec. 23, 2022, 136 Stat. 2639.)
+(Added Pub. L. 117–263, div. A, title VI, § 651(a), Dec. 23, 2022, 136 Stat. 2639.)

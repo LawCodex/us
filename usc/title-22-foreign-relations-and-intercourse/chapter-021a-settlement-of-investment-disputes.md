@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 21A—SETTLEMENT OF INVESTMENT DISPUTES
 
-## § 1650. Appointments of representatives and panel members under Convention on the Settlement of Investment Disputes
+## § 1650. Appointments of representatives and panel members under Convention on the Settlement of Investment Disputes
 
 The President may make such appointments of representatives and panel members as may be provided for under the convention.
 
-(Pub. L. 89–532, § 2, Aug. 11, 1966, 80 Stat. 344.)
+(Pub. L. 89–532, § 2, Aug. 11, 1966, 80 Stat. 344.)
 
 **Editorial Notes**
 
@@ -31,9 +31,9 @@ The convention, referred to in text, is the Convention on the Settlement of Inve
 
 **Short Title**
 
-Pub. L. 89–532, § 1, Aug. 11, 1966, 80 Stat. 344, provided: “That this Act [enacting this chapter] may be cited as the ‘Convention on the Settlement of Investment Disputes Act of 1966’.”
+Pub. L. 89–532, § 1, Aug. 11, 1966, 80 Stat. 344, provided: “That this Act [enacting this chapter] may be cited as the ‘Convention on the Settlement of Investment Disputes Act of 1966’.”
 
-## § 1650a. Arbitration awards under the Convention
+## § 1650a. Arbitration awards under the Convention
 
 **(a) Treaty rights; enforcement; full faith and credit; nonapplication of Federal Arbitration Act**
 
@@ -43,7 +43,7 @@ An award of an arbitral tribunal rendered pursuant to chapter IV of the conventi
 
 The district courts of the United States (including the courts enumerated in section 460 of title 28) shall have exclusive jurisdiction over actions and proceedings under subsection (a) of this section, regardless of the amount in controversy.
 
-(Pub. L. 89–532, § 3, Aug. 11, 1966, 80 Stat. 344.)
+(Pub. L. 89–532, § 3, Aug. 11, 1966, 80 Stat. 344.)
 
 **Editorial Notes**
 

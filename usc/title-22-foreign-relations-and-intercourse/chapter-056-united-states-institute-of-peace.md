@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 56—UNITED STATES INSTITUTE OF PEACE
 
-## § 4601. Congressional declaration of findings and purposes
+## § 4601. Congressional declaration of findings and purposes
 
 **(a)** The Congress finds and declares that—
 
@@ -39,21 +39,21 @@ retrieved: 2026-10-11
 
 **(b)** It is the purpose of this chapter to establish an independent, nonprofit, national institute to serve the people and the Government through the widest possible range of education and training, basic and applied research opportunities, and peace information services on the means to promote international peace and the resolution of conflicts among the nations and peoples of the world without recourse to violence.
 
-(Pub. L. 98–525, title XVII, § 1702, Oct. 19, 1984, 98 Stat. 2649.)
+(Pub. L. 98–525, title XVII, § 1702, Oct. 19, 1984, 98 Stat. 2649.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Amendments of 1978, referred to in subsec. (a)(7), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Part B (§§ 1511–1519) of title XV of Pub. L. 95–561, which provided for the Commission on Proposals for the National Academy of Peace and Conflict Resolution, was set out as a note under section 1123 of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note under section 6301 of Title 20 and Tables.
+The Education Amendments of 1978, referred to in subsec. (a)(7), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Part B (§§ 1511–1519) of title XV of Pub. L. 95–561, which provided for the Commission on Proposals for the National Academy of Peace and Conflict Resolution, was set out as a note under section 1123 of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note under section 6301 of Title 20 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–525, title XVII, § 1701, Oct. 19, 1984, 98 Stat. 2649, provided that: “This title [enacting this chapter] may be cited as the ‘United States Institute of Peace Act’.”
+Pub. L. 98–525, title XVII, § 1701, Oct. 19, 1984, 98 Stat. 2649, provided that: “This title [enacting this chapter] may be cited as the ‘United States Institute of Peace Act’.”
 
-## § 4602. Definitions
+## § 4602. Definitions
 
 As used in this chapter, the term—
 
@@ -61,9 +61,9 @@ As used in this chapter, the term—
 
 **(2)** “Board” means the Board of Directors of the Institute.
 
-(Pub. L. 98–525, title XVII, § 1703, Oct. 19, 1984, 98 Stat. 2651.)
+(Pub. L. 98–525, title XVII, § 1703, Oct. 19, 1984, 98 Stat. 2651.)
 
-## § 4603. United States Institute of Peace
+## § 4603. United States Institute of Peace
 
 **(a) Establishment**
 
@@ -87,7 +87,7 @@ The Institute is liable for the acts of its directors, officers, employees, and 
 
 **(2)** Notwithstanding any other provision of this chapter, the Institute may use “United States” or “U.S.” or any other reference to the United States Government or Nation in its title or in its corporate seal, emblem, badge, or other mark of recognition or colorable simulation thereof in any fiscal year only if there is an authorization of appropriations for the Institute for such fiscal year provided by law.
 
-(Pub. L. 98–525, title XVII, § 1704, Oct. 19, 1984, 98 Stat. 2651; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–520, title III, § 319(b), Nov. 5, 1990, 104 Stat. 2285.)
+(Pub. L. 98–525, title XVII, § 1704, Oct. 19, 1984, 98 Stat. 2651; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–520, title III, § 319(b), Nov. 5, 1990, 104 Stat. 2285.)
 
 **Editorial Notes**
 
@@ -97,7 +97,7 @@ The Institute is liable for the acts of its directors, officers, employees, and 
 
 1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-## § 4604. Powers and duties
+## § 4604. Powers and duties
 
 **(a) District of Columbia nonprofit-corporative powers**
 
@@ -209,7 +209,7 @@ The Institute shall not itself undertake to influence the passage or defeat of a
 
 The Institute may obtain administrative support services from the Administrator of General Services and use all sources of supply and services of the General Services Administration on a reimbursable basis.
 
-(Pub. L. 98–525, title XVII, § 1705, Oct. 19, 1984, 98 Stat. 2651; Pub. L. 100–50, § 25, June 3, 1987, 101 Stat. 363; Pub. L. 100–418, title VI, § 6272, Aug. 23, 1988, 102 Stat. 1523; Pub. L. 101–520, title III, § 319(a), Nov. 5, 1990, 104 Stat. 2284; Pub. L. 102–325, title XV, § 1554(b), (c), July 23, 1992, 106 Stat. 839; Pub. L. 105–244, title IX, § 931(1), Oct. 7, 1998, 112 Stat. 1834; Pub. L. 110–315, title IX, § 921(a), Aug. 14, 2008, 122 Stat. 3456.)
+(Pub. L. 98–525, title XVII, § 1705, Oct. 19, 1984, 98 Stat. 2651; Pub. L. 100–50, § 25, June 3, 1987, 101 Stat. 363; Pub. L. 100–418, title VI, § 6272, Aug. 23, 1988, 102 Stat. 1523; Pub. L. 101–520, title III, § 319(a), Nov. 5, 1990, 104 Stat. 2284; Pub. L. 102–325, title XV, § 1554(b), (c), July 23, 1992, 106 Stat. 839; Pub. L. 105–244, title IX, § 931(1), Oct. 7, 1998, 112 Stat. 1834; Pub. L. 110–315, title IX, § 921(a), Aug. 14, 2008, 122 Stat. 3456.)
 
 **Editorial Notes**
 
@@ -221,13 +221,13 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), 
 
 2008—Subsec. (b)(3). Pub. L. 110–315 struck out “the Arms Control and Disarmament Agency,” after “Defense,”.
 
-1998—Subsec. (f). Pub. L. 105–244, § 931(1)(A), inserted “personal service and other” after “may enter into”.
+1998—Subsec. (f). Pub. L. 105–244, § 931(1)(A), inserted “personal service and other” after “may enter into”.
 
-Subsec. (*o*). Pub. L. 105–244, § 931(1)(B), inserted “and use all sources of supply and services of the General Services Administration” after “Services”.
+Subsec. (*o*). Pub. L. 105–244, § 931(1)(B), inserted “and use all sources of supply and services of the General Services Administration” after “Services”.
 
-1992—Subsec. (b)(10). Pub. L. 102–325, § 1554(b), added par. (10).
+1992—Subsec. (b)(10). Pub. L. 102–325, § 1554(b), added par. (10).
 
-Subsec. (h)(2). Pub. L. 102–325, § 1554(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Institute may not accept any gift, contribution, or grant from, or enter into any contract with, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
+Subsec. (h)(2). Pub. L. 102–325, § 1554(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Institute may not accept any gift, contribution, or grant from, or enter into any contract with, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
 
 “(A) ‘foreign national’ means—
 
@@ -237,11 +237,11 @@ Subsec. (h)(2). Pub. L. 102–325, § 1554(c)(1), amended par. (2) generally. 
 
 “(B) ‘person’ means a natural person, partnership, association, other unincorporated body, or corporation.”
 
-Subsec. (h)(3). Pub. L. 102–325, § 1554(c)(2), substituted at end “individual, except such Institute or legal entity may accept such a gift or contribution to—” for “individual.” and added subpars. (A) and (B).
+Subsec. (h)(3). Pub. L. 102–325, § 1554(c)(2), substituted at end “individual, except such Institute or legal entity may accept such a gift or contribution to—” for “individual.” and added subpars. (A) and (B).
 
-1990—Subsec. (b)(9), (10). Pub. L. 101–520, § 319(a)(1), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and”.
+1990—Subsec. (b)(9), (10). Pub. L. 101–520, § 319(a)(1), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and”.
 
-Subsecs. (c) to (*o*). Pub. L. 101–520, § 319(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (*o*), respectively.
+Subsecs. (c) to (*o*). Pub. L. 101–520, § 319(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (*o*), respectively.
 
 1988—Subsec. (b)(3). Pub. L. 100–418 made technical amendment to directory language of Pub. L. 100–50, see 1987 Amendment note below.
 
@@ -271,7 +271,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 United States Arms Control and Disarmament Agency abolished and functions transferred to Secretary of State, see sections 6511 and 6512 of this title.
 
-## § 4605. Board of Directors
+## § 4605. Board of Directors
 
 **(a) Vested powers**
 
@@ -343,29 +343,29 @@ A director appointed by the President under subsection (b)(4) shall be entitled 
 
 **(j) Travel expenses**
 
-While away from his home or regular place of business in the performance of duties for the Institute, a director shall be allowed travel expenses, including a per diem in lieu of subsistence, not to exceed the expenses allowed persons employed intermittently in Government service under section 5703(b) 1
+While away from his home or regular place of business in the performance of duties for the Institute, a director shall be allowed travel expenses, including a per diem in lieu of subsistence, not to exceed the expenses allowed persons employed intermittently in Government service under section 5703(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5.
 
-(Pub. L. 98–525, title XVII, § 1706, Oct. 19, 1984, 98 Stat. 2654; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(c)(1), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 110–315, title IX, § 921(b)(1), Aug. 14, 2008, 122 Stat. 3456.)
+(Pub. L. 98–525, title XVII, § 1706, Oct. 19, 1984, 98 Stat. 2654; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(c)(1), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 110–315, title IX, § 921(b)(1), Aug. 14, 2008, 122 Stat. 3456.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 **Amendments**
 
-2008—Pub. L. 110–315, § 921(b)(1)(A), substituted “(b)(4)” for “(b)(5)” wherever appearing.
+2008—Pub. L. 110–315, § 921(b)(1)(A), substituted “(b)(4)” for “(b)(5)” wherever appearing.
 
-Subsec. (e)(5). Pub. L. 110–315, § 921(b)(1)(B), added par. (5).
+Subsec. (e)(5). Pub. L. 110–315, § 921(b)(1)(B), added par. (5).
 
-1998—Subsec. (b)(3). Pub. L. 105–277, § 1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
+1998—Subsec. (b)(3). Pub. L. 105–277, § 1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
 
-Subsec. (b)(4), (5). Pub. L. 105–277, § 1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted “Twelve” for “Eleven”. Former par. (4) redesignated (3).
+Subsec. (b)(4), (5). Pub. L. 105–277, § 1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted “Twelve” for “Eleven”. Former par. (4) redesignated (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -377,7 +377,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–315, title IX, § 921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date.”
+Pub. L. 110–315, title IX, § 921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date.”
 
 **Effective Date of 1998 Amendment**
 
@@ -385,9 +385,9 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 4606. Officers and employees
+## § 4606. Officers and employees
 
 **(a) Appointment, compensation and status of president of Institute and other officers**
 
@@ -425,7 +425,7 @@ No part of the financial resources, income, or assets of the Institute or of any
 
 The Institute shall not make loans to its directors, officers, employees, or agents, or to any legal entity created by the Institute. A director, officer, employee, or agent who votes for or assents to the making of a loan or who participates in the making of a loan shall be jointly and severally liable to the Institute for the amount of the loan until repayment thereof.
 
-(Pub. L. 98–525, title XVII, § 1707, Oct. 19, 1984, 98 Stat. 2656; Pub. L. 100–569, title III, § 301(b), Oct. 31, 1988, 102 Stat. 2864; Pub. L. 101–520, title III, § 319(c), Nov. 5, 1990, 104 Stat. 2285; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(c)(2), Oct. 21, 1998, 112 Stat. 2681–773.)
+(Pub. L. 98–525, title XVII, § 1707, Oct. 19, 1984, 98 Stat. 2656; Pub. L. 100–569, title III, § 301(b), Oct. 31, 1988, 102 Stat. 2864; Pub. L. 101–520, title III, § 319(c), Nov. 5, 1990, 104 Stat. 2285; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(c)(2), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 **Editorial Notes**
 
@@ -433,11 +433,11 @@ The Institute shall not make loans to its directors, officers, employees, or age
 
 Level I of the Executive Schedule, referred to in subsec. (a), is set out in section 5312 of Title 5, Government Organization and Employees.
 
-The provisions of title 5 relating to classification and General Schedule pay rates, referred to in subsec. (c), are set out in chapter 51 (§ 5101 et seq.) and subchapter III (§ 5331 et seq.) of chapter 53 of Title 5.
+The provisions of title 5 relating to classification and General Schedule pay rates, referred to in subsec. (c), are set out in chapter 51 (§ 5101 et seq.) and subchapter III (§ 5331 et seq.) of chapter 53 of Title 5.
 
 **Amendments**
 
-1998—Subsec. (d)(2). Pub. L. 105–277, which directed the amendment of par. (2) by striking out “, Director of the Arms Control and Disarmament Agency”, was executed by striking out “, the Director of the Arms Control and Disarmament Agency” after “Secretary of Defense”, to reflect the probable intent of Congress.
+1998—Subsec. (d)(2). Pub. L. 105–277, which directed the amendment of par. (2) by striking out “, Director of the Arms Control and Disarmament Agency”, was executed by striking out “, the Director of the Arms Control and Disarmament Agency” after “Secretary of Defense”, to reflect the probable intent of Congress.
 
 1990—Subsec. (b). Pub. L. 101–520 substituted “4604(h)(3)” for “4604(g)(3)”.
 
@@ -453,7 +453,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
-## § 4607. Procedures and records
+## § 4607. Procedures and records
 
 **(a) Monitoring and evaluation of programs**
 
@@ -491,7 +491,7 @@ The Institute shall provide a report of the audit to the President and to each H
 
 The Institute and its directors, officers, employees, and agents shall be subject to the provisions of section 552 of title 5 (relating to freedom of information).
 
-(Pub. L. 98–525, title XVII, § 1708, Oct. 19, 1984, 98 Stat. 2657; Pub. L. 108–7, div. G, title V, § 515, Feb. 20, 2003, 117 Stat. 345.)
+(Pub. L. 98–525, title XVII, § 1708, Oct. 19, 1984, 98 Stat. 2657; Pub. L. 108–7, div. G, title V, § 515, Feb. 20, 2003, 117 Stat. 345.)
 
 **Editorial Notes**
 
@@ -505,15 +505,15 @@ The Institute and its directors, officers, employees, and agents shall be subjec
 
 For termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to providing a report of the audit to each House of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
 
-## § 4608. Independence and limitations
+## § 4608. Independence and limitations
 
 **(a)** Nothing in this chapter may be construed as limiting the authority of the Office of Management and Budget to review and submit comments on the Institute’s budget request at the time it is transmitted to the Congress.
 
 **(b)** No political test or political qualification may be used in selecting, appointing, promoting, or taking any other personnel action with respect to any officer, employee, agent, or recipient of Institute funds or services or in selecting or monitoring any grantee, contractor, person, or entity receiving financial assistance under this chapter.
 
-(Pub. L. 98–525, title XVII, § 1709, Oct. 19, 1984, 98 Stat. 2659.)
+(Pub. L. 98–525, title XVII, § 1709, Oct. 19, 1984, 98 Stat. 2659.)
 
-## § 4609. Funding
+## § 4609. Funding
 
 **(a) Authorization of appropriations**
 
@@ -537,15 +537,15 @@ Any authority provided by this chapter to enter into contracts shall be effectiv
 
 Any authorization of appropriations made for the purposes of carrying out this chapter shall be extended in the same manner as applicable programs are extended under section 1226a of title 20.
 
-(Pub. L. 98–525, title XVII, § 1710, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 99–498, title XVI, § 1601(a)(1), (b), Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–569, title III, § 301[(a)], Oct. 31, 1988, 102 Stat. 2863; Pub. L. 102–325, title XV, § 1554(a), July 23, 1992, 106 Stat. 839; Pub. L. 103–208, § 2(k)(14), Dec. 20, 1993, 107 Stat. 2486; Pub. L. 105–244, title IX, § 931(2), Oct. 7, 1998, 112 Stat. 1834; Pub. L. 110–315, title IX, § 921(c), Aug. 14, 2008, 122 Stat. 3456.)
+(Pub. L. 98–525, title XVII, § 1710, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 99–498, title XVI, § 1601(a)(1), (b), Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–569, title III, § 301[(a)], Oct. 31, 1988, 102 Stat. 2863; Pub. L. 102–325, title XV, § 1554(a), July 23, 1992, 106 Stat. 839; Pub. L. 103–208, § 2(k)(14), Dec. 20, 1993, 107 Stat. 2486; Pub. L. 105–244, title IX, § 931(2), Oct. 7, 1998, 112 Stat. 1834; Pub. L. 110–315, title IX, § 921(c), Aug. 14, 2008, 122 Stat. 3456.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–315, § 921(c)(1), substituted “to be appropriated such sums as may be necessary for fiscal years 2009 through 2014” for “to be appropriated $15,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+2008—Subsec. (a)(1). Pub. L. 110–315, § 921(c)(1), substituted “to be appropriated such sums as may be necessary for fiscal years 2009 through 2014” for “to be appropriated $15,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
-Subsec. (d). Pub. L. 110–315, § 921(c)(2), added subsec. (d).
+Subsec. (d). Pub. L. 110–315, § 921(c)(2), added subsec. (d).
 
 1998—Subsec. (a)(1). Pub. L. 105–244 substituted “1999” for “1993” and “4” for “6”.
 
@@ -577,19 +577,19 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–498, title XVI, § 1601(a)(2), Oct. 17, 1986, 100 Stat. 1612, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 1986.”
+Pub. L. 99–498, title XVI, § 1601(a)(2), Oct. 17, 1986, 100 Stat. 1612, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 1986.”
 
-## § 4610. Dissolution or liquidation
+## § 4610. Dissolution or liquidation
 
 Upon dissolution or final liquidation of the Institute or of any legal entity created pursuant to this chapter, all income and assets of the Institute or other legal entity shall revert to the United States Treasury.
 
-(Pub. L. 98–525, title XVII, § 1711, Oct. 19, 1984, 98 Stat. 2659.)
+(Pub. L. 98–525, title XVII, § 1711, Oct. 19, 1984, 98 Stat. 2659.)
 
-## § 4611. Biennial reports to President and Congress; comments, findings, and recommendations; Congressional Committee hearings
+## § 4611. Biennial reports to President and Congress; comments, findings, and recommendations; Congressional Committee hearings
 
 Beginning two years after October 19, 1984, and at intervals of two years thereafter, the Chairman of the Board shall prepare and transmit to the Congress and the President a report detailing the progress the Institute has made in carrying out the purposes of this chapter during the preceding two-year period. The President may prepare and transmit to the Congress within a reasonable time after the receipt of such report the written comments and recommendations of the appropriate agencies of the United States with respect to the contents of such report and their recommendations with respect to any legislation which may be required concerning the Institute. After receipt of such report by the Congress, the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives and the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate may hold hearings to review the findings and recommendations of such report and the written comments received from the President.
 
-(Pub. L. 98–525, title XVII, § 1712, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 105–244, title IX, § 931(3), Oct. 7, 1998, 112 Stat. 1834.)
+(Pub. L. 98–525, title XVII, § 1712, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 105–244, title IX, § 931(3), Oct. 7, 1998, 112 Stat. 1834.)
 
 **Editorial Notes**
 

@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 115—PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES AND EMERGING CONTAMINANTS
 
-## § 8901. Definition of Administrator
+## § 8901. Definition of Administrator
 
 In this chapter, the term “Administrator” means the Administrator of the Environmental Protection Agency.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7302, Dec. 20, 2019, 133 Stat. 2275.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7302, Dec. 20, 2019, 133 Stat. 2275.)
 
 **Editorial Notes**
 
@@ -31,11 +31,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title**
 
-Pub. L. 116–92, div. F, title LXXIII, § 7301, Dec. 20, 2019, 133 Stat. 2275, provided that: “This title [enacting this chapter and amending section 2607 of this title and sections 300j–12 and 11023 of Title 42, The Public Health and Welfare] may be cited as the ‘PFAS Act of 2019’.”
+Pub. L. 116–92, div. F, title LXXIII, § 7301, Dec. 20, 2019, 133 Stat. 2275, provided that: “This title [enacting this chapter and amending section 2607 of this title and sections 300j–12 and 11023 of Title 42, The Public Health and Welfare] may be cited as the ‘PFAS Act of 2019’.”
 
 ## SUBCHAPTER I—DRINKING WATER
 
-### § 8911. Monitoring and detection
+### § 8911. Monitoring and detection
 
 **(a) Monitoring program for unregulated contaminants**
 
@@ -73,11 +73,11 @@ If the Administrator determines that there is not sufficient laboratory capacity
 
 **(B)** any other funds made available for that purpose.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7311, Dec. 20, 2019, 133 Stat. 2276.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7311, Dec. 20, 2019, 133 Stat. 2276.)
 
 ## SUBCHAPTER II—PFAS RELEASE DISCLOSURE
 
-### § 8921. Additions to toxics release inventory
+### § 8921. Additions to toxics release inventory
 
 **(a) Definition of toxics release inventory**
 
@@ -219,7 +219,7 @@ Subject to subsection (e), if the Administrator determines under paragraph (1) t
 
 If the Administrator determines that the chemical identity of a perfluoroalkyl or polyfluoroalkyl substance or class of perfluoroalkyl or polyfluoroalkyl substances qualifies for protection from disclosure pursuant to paragraph (1), the Administrator shall include the substance or class of substances, as applicable, on the toxics release inventory in a manner that does not disclose the protected information.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7321, Dec. 20, 2019, 133 Stat. 2277.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7321, Dec. 20, 2019, 133 Stat. 2277.)
 
 **Editorial Notes**
 
@@ -229,7 +229,7 @@ Section is comprised of section 7321 of Pub. L. 116–92. Subsec. (f) of section
 
 ## SUBCHAPTER III—USGS PERFORMANCE STANDARD
 
-### § 8931. Definitions
+### § 8931. Definitions
 
 In this subchapter:
 
@@ -257,9 +257,9 @@ The term “perfluoroalkyl substance” means a chemical of which all of the car
 
 The term “polyfluoroalkyl substance” means a chemical containing at least one fully fluorinated carbon atom and at least one carbon atom that is not a fully fluorinated carbon atom.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7331, Dec. 20, 2019, 133 Stat. 2281.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7331, Dec. 20, 2019, 133 Stat. 2281.)
 
-### § 8932. Performance standard for the detection of highly fluorinated compounds
+### § 8932. Performance standard for the detection of highly fluorinated compounds
 
 **(a) In general**
 
@@ -281,9 +281,9 @@ The Director, in consultation with the Administrator, shall establish a performa
 
 **(C)** coordinate as necessary with the Administrator, including, if appropriate, to develop methods to detect individual and different highly fluorinated compounds simultaneously.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7332, Dec. 20, 2019, 133 Stat. 2282.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7332, Dec. 20, 2019, 133 Stat. 2282.)
 
-### § 8933. Nationwide sampling
+### § 8933. Nationwide sampling
 
 **(a) In general**
 
@@ -317,9 +317,9 @@ The Director shall carry out a nationwide sampling to determine the concentratio
 
 **(4)** each Member of the House of Representatives who represents a district in which the Director carried out the sampling.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7333, Dec. 20, 2019, 133 Stat. 2282.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7333, Dec. 20, 2019, 133 Stat. 2282.)
 
-### § 8934. Data usage
+### § 8934. Data usage
 
 **(a) In general** The Director shall provide the sampling data collected under section 8933 of this title to—
 
@@ -331,9 +331,9 @@ The Director shall carry out a nationwide sampling to determine the concentratio
 
 The sampling data provided under subsection (a) shall be used to inform and enhance assessments of exposure, likely health and environmental impacts, and remediation priorities.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7334, Dec. 20, 2019, 133 Stat. 2283.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7334, Dec. 20, 2019, 133 Stat. 2283.)
 
-### § 8935. Collaboration
+### § 8935. Collaboration
 
 In carrying out this subchapter, the Director shall collaborate with—
 
@@ -345,11 +345,11 @@ In carrying out this subchapter, the Director shall collaborate with—
 
 **(4)** other expert stakeholders.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7335, Dec. 20, 2019, 133 Stat. 2283.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7335, Dec. 20, 2019, 133 Stat. 2283.)
 
 ## SUBCHAPTER IV—EMERGING CONTAMINANTS
 
-### § 8951. Definitions
+### § 8951. Definitions
 
 In this subchapter:
 
@@ -387,11 +387,11 @@ The term “Federal research strategy” means the coordinated cross-agency plan
 
 **(F)** analyzing samples, if—
 
-**(i)** the analysis cannot be otherwise 1
+**(i)** the analysis cannot be otherwise 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-obtained in a practicable manner otherwise; 1 and
+obtained in a practicable manner otherwise; 1 and
 
 **(ii)** the capability and capacity to perform the analysis is available at a Federal facility.
 
@@ -399,7 +399,7 @@ obtained in a practicable manner otherwise; 1 and
 
 The term “Working Group” means the Working Group established under section 8952(b)(1) of this title.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7341, Dec. 20, 2019, 133 Stat. 2283.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7341, Dec. 20, 2019, 133 Stat. 2283.)
 
 **Editorial Notes**
 
@@ -407,7 +407,7 @@ The term “Working Group” means the Working Group established under section 8
 
 S. 1662 of the 115th Congress, referred to in par. (3), is the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2018, which became div. B of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 400. For complete classification of this Act to the Code, see Tables.
 
-### § 8952. Research and coordination plan for enhanced response on emerging contaminants
+### § 8952. Research and coordination plan for enhanced response on emerging contaminants
 
 **(a) In general** The Administrator shall—
 
@@ -615,11 +615,11 @@ Not less frequently than once every 2 years until 2029, the Administrator shall 
 
 Nothing in this section modifies any obligation of a State, local government, or Indian Tribe with respect to treatment methods for, or testing or monitoring of, drinking water.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7342, Dec. 20, 2019, 133 Stat. 2284.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7342, Dec. 20, 2019, 133 Stat. 2284.)
 
 ## SUBCHAPTER V—OTHER MATTERS
 
-### § 8961. PFAS destruction and disposal guidance
+### § 8961. PFAS destruction and disposal guidance
 
 **(a) In general** Not later than 1 year after December 20, 2019, the Administrator shall publish interim guidance on the destruction and disposal of perfluoroalkyl and polyfluoroalkyl substances and materials containing perfluoroalkyl and polyfluoroalkyl substances, including—
 
@@ -649,9 +649,9 @@ Nothing in this section modifies any obligation of a State, local government, or
 
 The Administrator shall publish revisions to the interim guidance under subsection (a) as the Administrator determines to be appropriate, but not less frequently than once every 3 years.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7361, Dec. 20, 2019, 133 Stat. 2289.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7361, Dec. 20, 2019, 133 Stat. 2289.)
 
-### § 8962. PFAS research and development
+### § 8962. PFAS research and development
 
 **(a) In general** The Administrator, acting through the Assistant Administrator for the Office of Research and Development, shall—
 
@@ -679,9 +679,9 @@ The Administrator shall publish revisions to the interim guidance under subsecti
 
 There is authorized to be appropriated to the Administrator to carry out this section $15,000,000 for each of fiscal years 2020 through 2024.
 
-(Pub. L. 116–92, div. F, title LXXIII, § 7362, Dec. 20, 2019, 133 Stat. 2290.)
+(Pub. L. 116–92, div. F, title LXXIII, § 7362, Dec. 20, 2019, 133 Stat. 2290.)
 
-### § 8963. Interagency body on research related to per- and polyfluoroalkyl substances
+### § 8963. Interagency body on research related to per- and polyfluoroalkyl substances
 
 **(a) Establishment**
 
@@ -761,9 +761,9 @@ In developing the strategic plan under subsection (d)(2), the interagency workin
 
 **(f) Sunset**
 
-The strategic plan requirement described under section 1
+The strategic plan requirement described under section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (d)(2) shall cease on the date that is 20 years after the initial strategic plan is developed.
 
@@ -787,7 +787,7 @@ The strategic plan requirement described under section 1
 
 **(E)** The understanding of the toxicity of PFAS to humans and animals.
 
-(Pub. L. 116–283, div. A, title III, § 332, Jan. 1, 2021, 134 Stat. 3529.)
+(Pub. L. 116–283, div. A, title III, § 332, Jan. 1, 2021, 134 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -799,7 +799,7 @@ Section was enacted as part of the William M. (Mac) Thornberry National Defense 
 
 **Guaranteeing Equipment Safety for Firefighters**
 
-Pub. L. 116–283, div. A, title III, § 338, Jan. 1, 2021, 134 Stat. 3533, provided that:
+Pub. L. 116–283, div. A, title III, § 338, Jan. 1, 2021, 134 Stat. 3533, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Guaranteeing Equipment Safety for Firefighters Act of 2020’.
 

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1505—NATIONAL CONFERENCE OF STATE SOCIETIES, WASHINGTON, DISTRICT OF COLUMBIA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1505—NATIONAL CONFERENCE OF STATE SOCIETIES, WASHINGTON, DISTRICT OF COLUMBIA"
 identifier: "/us/usc/t36/stII/ptB/ch1505"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1505—NATIONAL CONFERENCE OF STATE SOCIETIES, WASHINGTON, DISTRICT OF COLUMBIA
 
-## § 150501. Definition
+## § 150501. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia.
 
@@ -25,9 +25,9 @@ For purposes of this chapter, “State” includes the District of Columbia.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150501 | 36:420. | Apr. 3, 1952, ch. 131, § 20, 66 Stat. 41. |
+| 150501 | 36:420. | Apr. 3, 1952, ch. 131, § 20, 66 Stat. 41. |
 
-## § 150502. Organization
+## § 150502. Organization
 
 **(a) Federal Charter.—** National Conference of State Societies, Washington, District of Columbia (in this chapter, the “corporation”), is a federally chartered corporation.
 
@@ -39,11 +39,11 @@ For purposes of this chapter, “State” includes the District of Columbia.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150502 | 36:401. | Apr. 3, 1952, ch. 131, § 1, 66 Stat. 37; July 5, 1968, Pub. L. 90–382, (1), 82 Stat. 292. |
+| 150502 | 36:401. | Apr. 3, 1952, ch. 131, § 1, 66 Stat. 37; July 5, 1968, Pub. L. 90–382, (1), 82 Stat. 292. |
 
 This section is substituted for the source provision for consistency in the revised title and to eliminate unnecessary and executed words.
 
-## § 150503. Purposes
+## § 150503. Purposes
 
 The purposes of the corporation are—
 
@@ -59,11 +59,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150503 | 36:402. | Apr. 3, 1952, ch. 131, § 2, 66 Stat. 38. |
+| 150503 | 36:402. | Apr. 3, 1952, ch. 131, § 2, 66 Stat. 38. |
 
 In clause (1), the word “various” is omitted as unnecessary.
 
-## § 150504. Membership
+## § 150504. Membership
 
 The membership of the corporation consists of the members of the State and territorial societies in the District of Columbia. Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws and regulations of the corporation.
 
@@ -73,11 +73,11 @@ The membership of the corporation consists of the members of the State and terri
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150504 | 36:405. | Apr. 3, 1952, ch. 131, § 5, 66 Stat. 39. |
+| 150504 | 36:405. | Apr. 3, 1952, ch. 131, § 5, 66 Stat. 39. |
 
 The word “consists” is substituted for “shall be made up of” to eliminate unnecessary words. The word “various” is omitted as unnecessary.
 
-## § 150505. Governing body
+## § 150505. Governing body
 
 **(a) Board of Representatives.—**
 
@@ -97,12 +97,12 @@ The word “consists” is substituted for “shall be made up of” to eliminat
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150505(a) | 36:407(a), (c). | Apr. 3, 1952, ch. 131, §§ 6, 7, 66 Stat. 39. |
+| 150505(a) | 36:407(a), (c). | Apr. 3, 1952, ch. 131, §§ 6, 7, 66 Stat. 39. |
 | 150505(b) | 36:406. 36:407(b). |  |
 
 In subsection (a), the word “herein” is omitted as unnecessary. The text of 36:407(c) is omitted as obsolete.
 
-## § 150506. Powers
+## § 150506. Powers
 
 The corporation has the powers provided in its bylaws and articles of incorporation filed in the State in which it is incorporated, including the power to—
 
@@ -132,7 +132,7 @@ The corporation has the powers provided in its bylaws and articles of incorporat
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150506 | 36:403. | Apr. 3, 1952, ch. 131, §§ 3, 8, 66 Stat. 38, 40. |
+| 150506 | 36:403. | Apr. 3, 1952, ch. 131, §§ 3, 8, 66 Stat. 38, 40. |
 |  | 36:408. |  |
 
 In this section, the text of 36:408 is omitted as executed and obsolete.
@@ -141,7 +141,7 @@ In clause (1), the word “adopt” is substituted for “ordain and establish�
 
 In clause (2), the word “use” is omitted as unnecessary.
 
-In clause (3), the word “adopt” is substituted for “use and display . . . as it may adopt” for consistency in the revised title and to eliminate unnecessary words.
+In clause (3), the word “adopt” is substituted for “use and display . . . as it may adopt” for consistency in the revised title and to eliminate unnecessary words.
 
 In clause (4), the word “activities” is substituted for “business” for consistency in the revised title.
 
@@ -153,7 +153,7 @@ In clause (7), the words “for the purposes of the corporation” are omitted a
 
 In clause (9), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 150507. Exclusive right to name, seals, emblems, and badges
+## § 150507. Exclusive right to name, seals, emblems, and badges
 
 The corporation has the exclusive right to use the name “National Conference of State Societies, Washington, District of Columbia” and seals, emblems, and badges the corporation adopts.
 
@@ -163,11 +163,11 @@ The corporation has the exclusive right to use the name “National Conference o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150507 | 36:418. | Apr. 3, 1952, ch. 131, § 18, 66 Stat. 41; July 5, 1968, Pub. L. 90–382, (2), 82 Stat. 292. |
+| 150507 | 36:418. | Apr. 3, 1952, ch. 131, § 18, 66 Stat. 41; July 5, 1968, Pub. L. 90–382, (2), 82 Stat. 292. |
 
 The words “in carrying out its purposes” are omitted as unnecessary.
 
-## § 150508. Restrictions
+## § 150508. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -183,7 +183,7 @@ The words “in carrying out its purposes” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150508(a) | 36:414. | Apr. 3, 1952, ch. 131, §§ 9–11, 14, 15, 66 Stat. 40. |
+| 150508(a) | 36:414. | Apr. 3, 1952, ch. 131, §§ 9–11, 14, 15, 66 Stat. 40. |
 | 150508(b) | 36:410. 36:411. |  |
 | 150508(c) | 36:409. |  |
 | 150508(d) | 36:415. |  |
@@ -196,7 +196,7 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 150509. Headquarters and principal office
+## § 150509. Headquarters and principal office
 
 The headquarters and principal office of the corporation shall be in the District of Columbia. However, the activities of the corporation are not confined to the District of Columbia but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -206,11 +206,11 @@ The headquarters and principal office of the corporation shall be in the Distric
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150509 | 36:404(a). | Apr. 3, 1952, ch. 131, § 4(a), 66 Stat. 39. |
+| 150509 | 36:404(a). | Apr. 3, 1952, ch. 131, § 4(a), 66 Stat. 39. |
 
 The word “office” is substituted for “offices” for consistency with section 150510 and other sections of the revised title. The word “various” is omitted as unnecessary.
 
-## § 150510. Records and inspection
+## § 150510. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -228,23 +228,23 @@ The word “office” is substituted for “offices” for consistency with sect
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150510 | 36:413. | Apr. 3, 1952, ch. 131, § 13, 66 Stat. 40. |
+| 150510 | 36:413. | Apr. 3, 1952, ch. 131, § 13, 66 Stat. 40. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 150511. Service of process
+## § 150511. Service of process
 
 **(a) District of Columbia.—** The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Designation of the agent shall be filed in the office of the clerk of the United States District Court for the District of Columbia. Notice to or service on the agent, or mailed to the address of the agent, is notice to or service on the corporation.
 
 **(b) States.—** As a condition to the exercise in any State of any power or privilege granted by this chapter, the corporation shall file, with the secretary of state or other designated official of that State, the name and address of an agent in that State on whom legal process or demands against the corporation may be served.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1391; Pub. L. 109–284, § 5(8), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1391; Pub. L. 109–284, § 5(8), Sept. 27, 2006, 120 Stat. 1212.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150511(a) | 36:404(b). | Apr. 3, 1952, ch. 131, §§ 4(b), 19, 66 Stat. 39, 41. |
+| 150511(a) | 36:404(b). | Apr. 3, 1952, ch. 131, §§ 4(b), 19, 66 Stat. 39, 41. |
 | 150511(b) | 36:419. |  |
 
 In subsection (a), the word “have” is substituted for “maintain” for consistency in the revised title. The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed sufficient notice or service upon”, for consistency in the revised title.
@@ -257,7 +257,7 @@ In subsection (b), the words “precedent” and “or conferred” are omitted 
 
 2006—Subsec. (b). Pub. L. 109–284 substituted “with the secretary” for “with secretary”.
 
-## § 150512. Liability for acts of officers and agents
+## § 150512. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -267,9 +267,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150512 | 36:412. | Apr. 3, 1952, ch. 131, § 12, 66 Stat. 40. |
+| 150512 | 36:412. | Apr. 3, 1952, ch. 131, § 12, 66 Stat. 40. |
 
-## § 150513. Distribution of assets on dissolution or final liquidation
+## § 150513. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be divided equally among the State and territorial societies in the District of Columbia.
 
@@ -279,6 +279,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150513 | 36:417. | Apr. 3, 1952, ch. 131, § 17, 66 Stat. 41. |
+| 150513 | 36:417. | Apr. 3, 1952, ch. 131, § 17, 66 Stat. 41. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 217—INDICTMENT AND INFORMATION
 
-## § 3361. Form and contents—(Rule)
+## § 3361. Form and contents—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -23,7 +23,7 @@ Contents and form; striking surplusage, Rule 7(a), (c), (d).
 
 (June 25, 1948, ch. 645, 62 Stat. 830.)
 
-## § 3362. Waiver of indictment and prosecution on information—(Rule)
+## § 3362. Waiver of indictment and prosecution on information—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -31,7 +31,7 @@ Waiver of indictment for offenses not punishable by death, Rule 7(b).
 
 (June 25, 1948, ch. 645, 62 Stat. 830.)
 
-## § 3363. Joinder of offenses—(Rule)
+## § 3363. Joinder of offenses—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -41,7 +41,7 @@ Trial together of indictments or informations, Rule 13.
 
 (June 25, 1948, ch. 645, 62 Stat. 830.)
 
-## § 3364. Joinder of defendants—(Rule)
+## § 3364. Joinder of defendants—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -51,7 +51,7 @@ Relief from prejudicial joinder, Rule 14.
 
 (June 25, 1948, ch. 645, 62 Stat. 830.)
 
-## § 3365. Amendment of information—(Rule)
+## § 3365. Amendment of information—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -59,7 +59,7 @@ Amendment of information, time and conditions, Rule 7(e).
 
 (June 25, 1948, ch. 645, 62 Stat. 830.)
 
-## § 3366. Bill of particulars—(Rule)
+## § 3366. Bill of particulars—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -67,7 +67,7 @@ Bill of particulars for cause; motion after arraignment; time; amendment, Rule 7
 
 (June 25, 1948, ch. 645, 62 Stat. 830.)
 
-## § 3367. Dismissal—(Rule)
+## § 3367. Dismissal—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 

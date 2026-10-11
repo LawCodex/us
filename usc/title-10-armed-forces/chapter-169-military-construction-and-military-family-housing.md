@@ -15,9 +15,9 @@ retrieved: 2026-10-11
 
 # CHAPTER 169—MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING
 
-2019—Pub. L. 116–92, div. B, title XXX, § 3011(c)(2), Dec. 20, 2019, 133 Stat. 1920, added item for subchapter V.
+2019—Pub. L. 116–92, div. B, title XXX, § 3011(c)(2), Dec. 20, 2019, 133 Stat. 1920, added item for subchapter V.
 
-1996—Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(2), Feb. 10, 1996, 110 Stat. 551, added item for subchapter IV.
+1996—Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(2), Feb. 10, 1996, 110 Stat. 551, added item for subchapter IV.
 
 ## SUBCHAPTER I—MILITARY CONSTRUCTION
 
@@ -25,49 +25,49 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. B, title XXVIII, §§ 2802(a), 2803, Dec. 18, 2025, 139 Stat. 1292, 1293, added items 2808a and 2820. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. B, title XXVIII, §§ 2802(a), 2803, Dec. 18, 2025, 139 Stat. 1292, 1293, added items 2808a and 2820. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. B, title XXVIII, §§ 2822(a), 2843, 2847(a)(1), Dec. 23, 2024, 138 Stat. 2254, 2263, 2264, substituted “Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads” for “Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation” in item 2815a and added items 2818 and 2819. Amendments were made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. B, title XXVIII, §§ 2822(a), 2843, 2847(a)(1), Dec. 23, 2024, 138 Stat. 2254, 2263, 2264, substituted “Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads” for “Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation” in item 2815a and added items 2818 and 2819. Amendments were made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. B, title XXVIII, § 2805, Dec. 22, 2023, 137 Stat. 744, added item 2817. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. B, title XXVIII, § 2805, Dec. 22, 2023, 137 Stat. 744, added item 2817. Amendment was made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. B, title XXVIII, § 2805(b), Dec. 23, 2022, 136 Stat. 2995, added item 2810.
+2022—Pub. L. 117–263, div. B, title XXVIII, § 2805(b), Dec. 23, 2022, 136 Stat. 2995, added item 2810.
 
-2021—Pub. L. 117–81, div. B, § 2003(b), title XXVIII, § 2803, Dec. 27, 2021, 135 Stat. 2162, 2186, added item 2815a.
+2021—Pub. L. 117–81, div. B, § 2003(b), title XXVIII, § 2803, Dec. 27, 2021, 135 Stat. 2162, 2186, added item 2815a.
 
-Pub. L. 116–283, div. A, title X, § 1081(c)(9), div. B, title XXVIII, § 2804(b), Jan. 1, 2021, 134 Stat. 3873, 4321, added item 2816 and amended directory language of Pub. L. 116–92, § 2801(b)(2). See 2019 Amendment note below.
+Pub. L. 116–283, div. A, title X, § 1081(c)(9), div. B, title XXVIII, § 2804(b), Jan. 1, 2021, 134 Stat. 3873, 4321, added item 2816 and amended directory language of Pub. L. 116–92, § 2801(b)(2). See 2019 Amendment note below.
 
-2019—Pub. L. 116–92, div. B, title XXVIII, § 2801(b)(2), Dec. 20, 2019, 133 Stat. 1881, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(9), Jan. 1, 2021, 134 Stat. 3873, added item 2815.
+2019—Pub. L. 116–92, div. B, title XXVIII, § 2801(b)(2), Dec. 20, 2019, 133 Stat. 1881, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(9), Jan. 1, 2021, 134 Stat. 3873, added item 2815.
 
-2011—Pub. L. 112–81, div. A, title X, § 1061(23)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2815 “Joint use military construction projects: annual evaluation”.
+2011—Pub. L. 112–81, div. A, title X, § 1061(23)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2815 “Joint use military construction projects: annual evaluation”.
 
-2002—Pub. L. 107–314, div. A, title III, § 313(d)(2), Dec. 2, 2002, 116 Stat. 2508, struck out item 2810 “Construction projects for environmental response actions”.
+2002—Pub. L. 107–314, div. A, title III, § 313(d)(2), Dec. 2, 2002, 116 Stat. 2508, struck out item 2810 “Construction projects for environmental response actions”.
 
-2000—Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2801(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–412, added item 2815.
+2000—Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2801(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–412, added item 2815.
 
-1999—Pub. L. 106–65, div. B, title XXVIII, § 2802(a)(2), Oct. 5, 1999, 113 Stat. 848, added item 2814.
+1999—Pub. L. 106–65, div. B, title XXVIII, § 2802(a)(2), Oct. 5, 1999, 113 Stat. 848, added item 2814.
 
-1996—Pub. L. 104–201, div. B, title XXVIII, § 2802(c)(2), Sept. 23, 1996, 110 Stat. 2787, substituted “Organizations Security Investment” for “Organization Infrastructure” in item 2806.
+1996—Pub. L. 104–201, div. B, title XXVIII, § 2802(c)(2), Sept. 23, 1996, 110 Stat. 2787, substituted “Organizations Security Investment” for “Organization Infrastructure” in item 2806.
 
-Pub. L. 104–106, div. A, title XV, § 1503(a)(31), Feb. 10, 1996, 110 Stat. 512, inserted period at end of item 2811.
+Pub. L. 104–106, div. A, title XV, § 1503(a)(31), Feb. 10, 1996, 110 Stat. 512, inserted period at end of item 2811.
 
-1994—Pub. L. 103–337, div. B, title XXVIII, § 2801(b), Oct. 5, 1994, 108 Stat. 3050, substituted “Repair” for “Renovation” in item 2811.
+1994—Pub. L. 103–337, div. B, title XXVIII, § 2801(b), Oct. 5, 1994, 108 Stat. 3050, substituted “Repair” for “Renovation” in item 2811.
 
-1993—Pub. L. 103–160, div. B, title XXVIII, § 2805(a)(2), Nov. 30, 1993, 107 Stat. 1887, added item 2813.
+1993—Pub. L. 103–160, div. B, title XXVIII, § 2805(a)(2), Nov. 30, 1993, 107 Stat. 1887, added item 2813.
 
-1991—Pub. L. 102–190, div. B, title XXVIII, § 2805(a)(2), Dec. 5, 1991, 105 Stat. 1538, substituted “Long-term facilities contracts for certain activities and services” for “Test of long-term facilities contracts” in item 2809.
+1991—Pub. L. 102–190, div. B, title XXVIII, § 2805(a)(2), Dec. 5, 1991, 105 Stat. 1538, substituted “Long-term facilities contracts for certain activities and services” for “Test of long-term facilities contracts” in item 2809.
 
-1989—Pub. L. 101–189, div. B, title XXVIII, § 2809(b), Nov. 29, 1989, 103 Stat. 1650, added item 2812.
+1989—Pub. L. 101–189, div. B, title XXVIII, § 2809(b), Nov. 29, 1989, 103 Stat. 1650, added item 2812.
 
-1987—Pub. L. 100–26, § 7(e)(3), Apr. 21, 1987, 101 Stat. 281, redesignated item 2810 “Renovation of facilities” as item 2811.
+1987—Pub. L. 100–26, § 7(e)(3), Apr. 21, 1987, 101 Stat. 281, redesignated item 2810 “Renovation of facilities” as item 2811.
 
-1986—Pub. L. 99–661, div. A, title III, § 315(b), Nov. 14, 1986, 100 Stat. 3854, added item 2810 “Renovation of facilities”.
+1986—Pub. L. 99–661, div. A, title III, § 315(b), Nov. 14, 1986, 100 Stat. 3854, added item 2810 “Renovation of facilities”.
 
-Pub. L. 99–499, title II, § 211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added item 2810 “Construction projects for environmental response actions”.
+Pub. L. 99–499, title II, § 211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added item 2810 “Construction projects for environmental response actions”.
 
-1985—Pub. L. 99–167, title VIII, § 811(b), Dec. 3, 1985, 99 Stat. 991, added item 2809.
+1985—Pub. L. 99–167, title VIII, § 811(b), Dec. 3, 1985, 99 Stat. 991, added item 2809.
 
-### § 2801. Scope of chapter; definitions
+### § 2801. Scope of chapter; definitions
 
 **(a)** The term “military construction” as used in this chapter or any other provision of law includes any construction, development, conversion, or extension of any kind carried out with respect to a military installation, whether to satisfy temporary or permanent requirements, or any acquisition of land or construction of a defense access road (as described in section 210 of title 23).
 
@@ -87,21 +87,21 @@ Pub. L. 99–499, title II, § 211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added
 
 **(d)** This chapter (other than sections 2830,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 2835, and 2836 of this chapter) does not apply to the Coast Guard or to civil works projects of the Army Corps of Engineers.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, § 632(b)(1), title XII, § 1231(15), div. B, subdiv. 3, title I, § 2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, § 1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, § 403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, § 1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1043(b)(16), div. B, title XXVIII, § 2801, Nov. 24, 2003, 117 Stat. 1611, 1719; Pub. L. 109–163, div. A, title X, § 1056(c)(9), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(4), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 110–181, div. B, title XXVIII, § 2802(b), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, § 2801(a), Oct. 14, 2008, 122 Stat. 4719.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, § 632(b)(1), title XII, § 1231(15), div. B, subdiv. 3, title I, § 2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, § 1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, § 403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, § 1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1043(b)(16), div. B, title XXVIII, § 2801, Nov. 24, 2003, 117 Stat. 1611, 1719; Pub. L. 109–163, div. A, title X, § 1056(c)(9), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(4), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 110–181, div. B, title XXVIII, § 2802(b), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, § 2801(a), Oct. 14, 2008, 122 Stat. 4719.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2830 of this chapter, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. B, title XXVIII, § 2812(a), Jan. 1, 2021, 134 Stat. 4326.
+Section 2830 of this chapter, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. B, title XXVIII, § 2812(a), Jan. 1, 2021, 134 Stat. 4326.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–181 inserted “, or any acquisition of land or construction of a defense access road (as described in section 210 of title 23)” before period at end.
+2008—Subsec. (a). Pub. L. 110–181 inserted “, or any acquisition of land or construction of a defense access road (as described in section 210 of title 23)” before period at end.
 
 Subsec. (c). Pub. L. 110–417 added par. (3) and redesignated former pars. (4), (1), (2), and (3) as (1), (2), (4), and (5), respectively.
 
@@ -109,11 +109,11 @@ Subsec. (c). Pub. L. 110–417 added par. (3) and redesignated former pars. (4),
 
 Subsec. (d). Pub. L. 109–163 substituted “sections 2830, 2835, and 2836 of this chapter” for “sections 2830 and 2835”.
 
-2003—Subsec. (a). Pub. L. 108–136, § 2801(a), inserted before period at end “, whether to satisfy temporary or permanent requirements”.
+2003—Subsec. (a). Pub. L. 108–136, § 2801(a), inserted before period at end “, whether to satisfy temporary or permanent requirements”.
 
-Subsec. (c)(2). Pub. L. 108–136, § 2801(b), inserted before period at end “, without regard to the duration of operational control”.
+Subsec. (c)(2). Pub. L. 108–136, § 2801(b), inserted before period at end “, without regard to the duration of operational control”.
 
-Subsec. (c)(4). Pub. L. 108–136, § 1043(b)(16), substituted “the congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
+Subsec. (c)(4). Pub. L. 108–136, § 1043(b)(16), substituted “the congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
 
 1999—Subsec. (c)(4). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -125,17 +125,17 @@ Subsec. (d). Pub. L. 102–484 substituted “sections 2830 and 2835” for “s
 
 1987—Subsec. (c). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (1), (2), and (4) and substituted lowercase letter.
 
-Subsec. (c)(3). Pub. L. 100–180, § 1231(15), substituted “Defense Agencies” for “defense agencies”.
+Subsec. (c)(3). Pub. L. 100–180, § 1231(15), substituted “Defense Agencies” for “defense agencies”.
 
-Subsec. (d). Pub. L. 100–180, § 2306(b), substituted “(other than sections 2828(g) and 2830)” for “(other than section 2830)”.
+Subsec. (d). Pub. L. 100–180, § 2306(b), substituted “(other than sections 2828(g) and 2830)” for “(other than section 2830)”.
 
-Pub. L. 100–180, § 632(b)(1), inserted “(other than section 2830)” after “This chapter”.
+Pub. L. 100–180, § 632(b)(1), inserted “(other than section 2830)” after “This chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 97–214, § 12, July 12, 1982, 96 Stat. 176, provided:
+Pub. L. 97–214, § 12, July 12, 1982, 96 Stat. 176, provided:
 
 > **“(a)** Except as provided in subsection (b), the amendments made by this Act [see Short Title of 1982 Amendment note below] shall take effect on October 1, 1982, and shall apply to military construction projects, and to construction and acquisition of military family housing, authorized before, on, or after such date.
 
@@ -143,7 +143,7 @@ Pub. L. 97–214, § 12, July 12, 1982, 96 Stat. 176, provided:
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–214, § 1, July 12, 1982, 96 Stat. 153, provided that: “This Act [see Tables for classification] may be cited as the ‘Military Construction Codification Act’.”
+Pub. L. 97–214, § 1, July 12, 1982, 96 Stat. 153, provided that: “This Act [see Tables for classification] may be cited as the ‘Military Construction Codification Act’.”
 
 **Transfer of Functions**
 
@@ -151,7 +151,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Plan and Report on Critical Infrastructure Systems at Military Installations**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2853, Dec. 22, 2023, 137 Stat. 763, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2853, Dec. 22, 2023, 137 Stat. 763, provided that:
 
 > **“(a) Plan.—** Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with each Secretary of a military department, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan to implement a standardized system to measure and report on the condition and performance of, the level of investment in, and any applicable risks to critical infrastructure systems owned by the Federal Government that—
 
@@ -199,7 +199,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2853, Dec. 22, 2023, 137 Stat. 763,
 
 **Pilot Program To Support Combatant Command Military Construction Priorities**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2863, Jan. 1, 2021, 134 Stat. 4358, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2863, Jan. 1, 2021, 134 Stat. 4358, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of Defense shall conduct a pilot program to evaluate the usefulness of reserving a portion of the military construction funds of the military departments to help the combatant commands satisfy their military construction priorities in a timely manner.
 
@@ -221,7 +221,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2863, Jan. 1, 2021, 134 Stat. 4358
 
 **Permitting Machine Room-Less Elevators in Department of Defense Facilities**
 
-Pub. L. 115–91, div. B, title XXVIII, § 2875, Dec. 12, 2017, 131 Stat. 1871, provided that:
+Pub. L. 115–91, div. B, title XXVIII, § 2875, Dec. 12, 2017, 131 Stat. 1871, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall issue modifications to all relevant construction and facilities specifications to ensure that machine room-less elevators (MRLs) are not prohibited in buildings and facilities throughout the Department of Defense, including modifications to the Unified Facilities Guide Specifications (UFGS), the Naval Facilities Engineering Command Interim Technical Guidance, and the Army Corps of Engineers Engineering and Construction Bulletin.
 
@@ -231,7 +231,7 @@ Pub. L. 115–91, div. B, title XXVIII, § 2875, Dec. 12, 2017, 131 Stat. 1871
 
 > **“(d) Report.—** Not later than 1 year after the date of the enactment of this Act, the Secretary shall issue a report to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] on the integration and utilization of MRLs, including information on quantity, location, problems, and successes.”
 
-### § 2802. Military construction projects
+### § 2802. Military construction projects
 
 **(a)** The Secretary of Defense and the Secretaries of the military departments may carry out such military construction projects, land acquisitions, and defense access road projects (as described under section 210 of title 23) as are authorized by law.
 
@@ -251,7 +251,7 @@ Pub. L. 115–91, div. B, title XXVIII, § 2875, Dec. 12, 2017, 131 Stat. 1871
 
 **(c)** In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
 
-**[(d)** Repealed. Pub. L. 114–328, div. B, title XXVIII, § 2811(b), Dec. 23, 2016, 130 Stat. 2716.]
+**[(d)** Repealed. Pub. L. 114–328, div. B, title XXVIII, § 2811(b), Dec. 23, 2016, 130 Stat. 2716.]
 
 **(e)**
 
@@ -293,7 +293,7 @@ Pub. L. 115–91, div. B, title XXVIII, § 2875, Dec. 12, 2017, 131 Stat. 1871
 
 **(C)** The term “sacred site” has the meaning given that term in Executive Order No. 13007, as in effect on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, § 2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, § 2801(b), Oct. 14, 2008, 122 Stat. 4719; Pub. L. 113–66, div. B, title XXVIII, § 2807(c), Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, §§ 2801, 2803(b), Dec. 19, 2014, 128 Stat. 3695, 3697; Pub. L. 114–328, div. B, title XXVIII, § 2811(b), (c), Dec. 23, 2016, 130 Stat. 2716; Pub. L. 115–91, div. A, title X, § 1081(d)(15), Dec. 12, 2017, 131 Stat. 1600; Pub. L. 115–232, div. B, title XXVIII, § 2803, Aug. 13, 2018, 132 Stat. 2261; Pub. L. 116–92, div. A, title XVII, § 1731(a)(53), div. B, title XXVIII, § 2802, Dec. 20, 2019, 133 Stat. 1815, 1881; Pub. L. 119–60, div. B, title XXVIII, § 2808(b), Dec. 18, 2025, 139 Stat. 1298.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, § 2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, § 2801(b), Oct. 14, 2008, 122 Stat. 4719; Pub. L. 113–66, div. B, title XXVIII, § 2807(c), Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, §§ 2801, 2803(b), Dec. 19, 2014, 128 Stat. 3695, 3697; Pub. L. 114–328, div. B, title XXVIII, § 2811(b), (c), Dec. 23, 2016, 130 Stat. 2716; Pub. L. 115–91, div. A, title X, § 1081(d)(15), Dec. 12, 2017, 131 Stat. 1600; Pub. L. 115–232, div. B, title XXVIII, § 2803, Aug. 13, 2018, 132 Stat. 2261; Pub. L. 116–92, div. A, title XVII, § 1731(a)(53), div. B, title XXVIII, § 2802, Dec. 20, 2019, 133 Stat. 1815, 1881; Pub. L. 119–60, div. B, title XXVIII, § 2808(b), Dec. 18, 2025, 139 Stat. 1298.)
 
 **Editorial Notes**
 
@@ -307,25 +307,25 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 2025—Subsec. (b)(6). Pub. L. 119–60 added par. (6).
 
-2019—Subsec. (e)(1). Pub. L. 116–92, § 1731(a)(53), substituted “shall—” for “shall” and inserted subpar. (A) designation before “comply with the congressional notification requirement”.
+2019—Subsec. (e)(1). Pub. L. 116–92, § 1731(a)(53), substituted “shall—” for “shall” and inserted subpar. (A) designation before “comply with the congressional notification requirement”.
 
-Subsec. (f). Pub. L. 116–92, § 2802, added subsec. (f).
+Subsec. (f). Pub. L. 116–92, § 2802, added subsec. (f).
 
 2018—Subsec. (e)(1). Pub. L. 115–232 substituted “Secretary concerned shall” for “Secretary concerned shall—”, struck out subpar. (A) designation before “comply with the congressional notification requirement”, and inserted “and submit to the congressional defense committees any materials required to be submitted to Congress or any other congressional committees pursuant to the congressional notification requirement” after “road project will be carried out”.
 
-2017—Subsec. (d). Pub. L. 115–91, § 1081(d)(15), amended Pub. L. 114–328, § 2811(c). See 2016 Amendment note below.
+2017—Subsec. (d). Pub. L. 115–91, § 1081(d)(15), amended Pub. L. 114–328, § 2811(c). See 2016 Amendment note below.
 
-2016—Subsec. (d). Pub. L. 114–328, § 2811(b), struck out subsec. (d) which related to requirements for military construction projects funded through payments-in-kind or in-kind contributions, inclusion of such projects in budget justification documents, and exceptions to those requirements.
+2016—Subsec. (d). Pub. L. 114–328, § 2811(b), struck out subsec. (d) which related to requirements for military construction projects funded through payments-in-kind or in-kind contributions, inclusion of such projects in budget justification documents, and exceptions to those requirements.
 
-Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15), repealed Pub. L. 113–291, § 2803(b). See 2014 Amendment note below.
+Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15), repealed Pub. L. 113–291, § 2803(b). See 2014 Amendment note below.
 
-2014—Subsec. (d). Pub. L. 113–291, § 2803(b), which substituted “payments-in-kind or in-kind contributions” for “payment-in-kind contributions” in par. (1), added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply, and substituted “paragraph (3), by reference to section 2687a(f)(4)(D) of this title,” for “paragraph (3)(C)” in par. (4), was repealed by Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15).
+2014—Subsec. (d). Pub. L. 113–291, § 2803(b), which substituted “payments-in-kind or in-kind contributions” for “payment-in-kind contributions” in par. (1), added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply, and substituted “paragraph (3), by reference to section 2687a(f)(4)(D) of this title,” for “paragraph (3)(C)” in par. (4), was repealed by Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15).
 
-Subsec. (e). Pub. L. 113–291, § 2801, added subsec. (e).
+Subsec. (e). Pub. L. 113–291, § 2801, added subsec. (e).
 
 2013—Subsec. (d). Pub. L. 113–66 added subsec. (d).
 
-2008—Subsec. (a). Pub. L. 110–181 inserted “, land acquisitions, and defense access road projects (as described under section 210 of title 23)” after “military construction projects”.
+2008—Subsec. (a). Pub. L. 110–181 inserted “, land acquisitions, and defense access road projects (as described under section 210 of title 23)” after “military construction projects”.
 
 Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
@@ -333,7 +333,7 @@ Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(15) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(15) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 **Effective Date**
 
@@ -341,7 +341,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Multiyear Contracting Authority for Certain Military Construction Projects**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2814, Dec. 18, 2025, 139 Stat. 1302, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2814, Dec. 18, 2025, 139 Stat. 1302, provided that:
 
 > **“(a) Authority for Multiyear Contracting.—** Subject to section 3501 of title 10, United States Code, each Secretary of a military department may enter into one or more multiyear contracts for any procurement relating to one or more authorized military construction projects for facilities at one or more military installations if the Secretary concerned—
 
@@ -379,7 +379,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2814, Dec. 18, 2025, 139 Stat. 1302
 
 **Designation of Official Responsible for Coordination of Defense Sites Within Area of Responsibility of Joint Region Marianas**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2884, Dec. 18, 2025, 139 Stat. 1330, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2884, Dec. 18, 2025, 139 Stat. 1330, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Commander of Joint Region Marianas shall designate an official to be responsible for, in coordination with appropriate officials of the military departments (as defined in section 101 of title 10, United States Code) and the United States Indo-Pacific Command—
 
@@ -401,7 +401,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2884, Dec. 18, 2025, 139 Stat. 1330
 
 **Pilot Program on Use of Advanced Manufacturing Construction Technologies at Military Installations**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2887, Dec. 18, 2025, 139 Stat. 1331, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2887, Dec. 18, 2025, 139 Stat. 1331, provided that:
 
 > **“(a) Establishment.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, acting through each Secretary of a military department, shall carry out a pilot program relating to the use of advanced manufacturing construction technologies for military construction projects (including unspecified minor military construction projects authorized under section 2805 of title 10, United States Code) on military installations selected under subsection (d).
 
@@ -445,7 +445,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2887, Dec. 18, 2025, 139 Stat. 1331
 
 **Consideration of Modular Construction Methods for Military Construction Projects With Protective Design Elements**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2889, Dec. 18, 2025, 139 Stat. 1333, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2889, Dec. 18, 2025, 139 Stat. 1333, provided that:
 
 > **“(a) In General.—** In determining the requirements for a proposed military construction project with protective design elements, the Secretary of Defense shall consider the use of modular construction methods along with other construction methods to determine the most effective method for such military construction project to meet mission needs.
 
@@ -469,7 +469,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2889, Dec. 18, 2025, 139 Stat. 1333
 
 **Pilot Program To Optimize and Consolidate Department of Defense Facilities To Improve Health and Resiliency in Defense Communities**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2848, Dec. 23, 2024, 138 Stat. 2266, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2848, Dec. 23, 2024, 138 Stat. 2266, provided that:
 
 > **“(a) Establishment.—** Using funds available for minor military construction, the Secretary of Defense may conduct a pilot program to—
 
@@ -547,7 +547,7 @@ Pub. L. 118–159, div. B, title XXVIII, § 2848, Dec. 23, 2024, 138 Stat. 226
 
 **Guidance Regarding Maintenance of Aggregate Square Footage of Facilities of Department of Defense**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2849, Dec. 23, 2024, 138 Stat. 2268, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2808(c), Dec. 18, 2025, 139 Stat. 1299, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2849, Dec. 23, 2024, 138 Stat. 2268, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2808(c), Dec. 18, 2025, 139 Stat. 1299, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue guidance regarding the maintenance of the aggregate square footage of facilities of the Department of Defense, which shall be designated as ‘1 in 1 out guidance’, pursuant to the requirements of this section.
 
@@ -595,7 +595,7 @@ Pub. L. 118–159, div. B, title XXVIII, § 2849, Dec. 23, 2024, 138 Stat. 226
 
 **Notification to Members of Congress for Awards of Contracts for Military Construction Projects**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2874, Dec. 23, 2024, 138 Stat. 2283, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2874, Dec. 23, 2024, 138 Stat. 2283, provided that:
 
 > **“(a) Notification Required.—** Not later than 30 days after the date of award of a contract for a military construction project, the Secretary of the military department with jurisdiction over such project shall notify the following Members of Congress:
 
@@ -613,7 +613,7 @@ Pub. L. 118–159, div. B, title XXVIII, § 2874, Dec. 23, 2024, 138 Stat. 228
 
 **Designation of Officials Responsible for Coordination of Infrastructure Projects To Support Additional Members of the Armed Forces and Their Families in the Indo-Pacific Region**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2880, Dec. 23, 2024, 138 Stat. 2290, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2880, Dec. 23, 2024, 138 Stat. 2290, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall designate two officials employed by the Department of Defense or a military department as of the date of the enactment of this Act as follows:
 
@@ -647,7 +647,7 @@ Pub. L. 118–159, div. B, title XXVIII, § 2880, Dec. 23, 2024, 138 Stat. 229
 
 **Inclusion on Department of Defense Form 1391 of Information on Consideration of Certain Methods of Construction for Certain Military Construction Projects**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2808, Dec. 22, 2023, 137 Stat. 746, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2808, Dec. 22, 2023, 137 Stat. 746, provided that:
 
 > **“(a) In General.—** As part of the Department of Defense Form 1391 submitted to the appropriate committees of Congress for a covered military construction project, each covered official shall, to the extent practicable, include information on whether all relevant construction materials and methods of construction included in the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) were considered in the design of such covered military construction project.
 
@@ -665,7 +665,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2808, Dec. 22, 2023, 137 Stat. 746,
 
 **Inclusion of Military Installation Resilience in Real Property Management and Installation Master Planning of Department**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2857, Dec. 22, 2023, 137 Stat. 767, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2857, Dec. 22, 2023, 137 Stat. 767, provided that:
 
 > **“(a) [sic; there is no subsec. (b)] In General.—** Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall—
 
@@ -689,7 +689,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2857, Dec. 22, 2023, 137 Stat. 767,
 
 **Consideration of Installation of Integrated Solar Roofing To Improve Energy Resiliency of Military Installations**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2810, Dec. 23, 2022, 136 Stat. 2997, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2810, Dec. 23, 2022, 136 Stat. 2997, provided that:
 
 > “The Secretary of Defense shall amend the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) to require that planning and design for military construction projects inside the United States include consideration of the feasibility and cost-effectiveness of installing integrated solar roofing as part of the project, for the purpose of—
 
@@ -701,7 +701,7 @@ Pub. L. 117–263, div. B, title XXVIII, § 2810, Dec. 23, 2022, 136 Stat. 299
 
 **Revision of Unified Facilities Guide Specifications and Unified Facilities Criteria To Include Specifications on Use of Gas Insulated Switchgear and Criteria and Specifications on Microgrids and Microgrid Converters**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2811, Dec. 23, 2022, 136 Stat. 2997, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2811, Dec. 23, 2022, 136 Stat. 2997, provided that:
 
 > **“(a) Gas Insulated Switchgear.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense for Acquisition and Sustainment shall modify the Unified Facilities Guide Specifications to include a distinct specification for medium voltage gas insulated switchgear.
 
@@ -713,7 +713,7 @@ Pub. L. 117–263, div. B, title XXVIII, § 2811, Dec. 23, 2022, 136 Stat. 299
 
 **Determination and Notification Relating to Executive Orders That Impact Cost and Scope of Work of Military Construction Projects**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2812, Dec. 23, 2022, 136 Stat. 2997, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2812, Dec. 23, 2022, 136 Stat. 2997, provided that:
 
 > **“(a) Determination and Update of Form 1391.—** Not later than 30 days after the date on which an Executive order is signed by the President, the Secretary concerned shall—
 
@@ -735,11 +735,11 @@ Pub. L. 117–263, div. B, title XXVIII, § 2812, Dec. 23, 2022, 136 Stat. 299
 
 **Requirement for Inclusion of Department of Defense Forms 1391 With Annual Budget Submission by President**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2813, Dec. 23, 2022, 136 Stat. 2998, provided that: “Concurrently with the submission to Congress by the President of the annual budget of the Department of Defense for a fiscal year under section 1105(a) of title 31, United States Code, the President shall include each Department of Defense Form 1391, or successor similar form, for a military construction project to be carried out during that fiscal year.”
+Pub. L. 117–263, div. B, title XXVIII, § 2813, Dec. 23, 2022, 136 Stat. 2998, provided that: “Concurrently with the submission to Congress by the President of the annual budget of the Department of Defense for a fiscal year under section 1105(a) of title 31, United States Code, the President shall include each Department of Defense Form 1391, or successor similar form, for a military construction project to be carried out during that fiscal year.”
 
 **Electrical Charging Capability Construction Requirements Relating to Parking for Federal Government Motor Vehicles**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2875, Dec. 23, 2022, 136 Stat. 3014, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2875, Dec. 23, 2022, 136 Stat. 3014, provided that:
 
 > **“(a) In General.—** If the Secretary concerned develops plans for a project to construct any facility that includes or will include parking for covered motor vehicles, the Secretary concerned shall include in any Department of Defense Form 1391, or successor form, submitted to Congress for that project—
 
@@ -761,7 +761,7 @@ Pub. L. 117–263, div. B, title XXVIII, § 2875, Dec. 23, 2022, 136 Stat. 301
 
 **Amendment of Unified Facilities Criteria To Require Inclusion of Private Nursing and Lactation Space in Certain Military Construction Projects**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2841, Dec. 27, 2021, 135 Stat. 2201, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2841, Dec. 27, 2021, 135 Stat. 2201, provided that:
 
 > **“(a) Amendment Required.—** The Secretary of Defense shall amend UFC 1–4.2 (Nursing and Lactation Rooms) of the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) to require that military construction planning and design for buildings likely to be regularly frequented by nursing mothers who are members of the uniformed services, civilian employees of the Department of Defense, contractor personnel, or visitors include a private nursing and lactation room or other private space suitable for that purpose.
 
@@ -769,7 +769,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2841, Dec. 27, 2021, 135 Stat. 2201
 
 **Revisions to Unified Facilities Criteria Regarding Use of Variable Refrigerant Flow Systems**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2842, Dec. 27, 2021, 135 Stat. 2201, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2842, Dec. 27, 2021, 135 Stat. 2201, provided that:
 
 > **“(a) Publication and Comment Period Requirements.—** The Under Secretary of Defense for Acquisition and Sustainment shall publish any proposed revisions to the Unified Facilities Criteria regarding the use of variable refrigerant flow systems in the Federal Register and shall specify a comment period of at least 60 days.
 
@@ -777,7 +777,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2842, Dec. 27, 2021, 135 Stat. 2201
 
 **Amendment of Unified Facilities Criteria To Promote Energy Efficient Military Installations**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2843, Dec. 27, 2021, 135 Stat. 2202, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2843, Dec. 27, 2021, 135 Stat. 2202, provided that:
 
 > **“(a) Unified Facilities Criteria Amendment Required.—** To the extent practicable, the Secretary of Defense shall amend the Unified Facilities Criteria relating to military construction planning and design to ensure that building practices and standards of the Department of Defense incorporate the latest consensus-based codes and standards for energy efficiency and conservation, including the 2021 International Energy Conservation Code and the ASHRAE Standard 90.1-2019.
 
@@ -791,7 +791,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2843, Dec. 27, 2021, 135 Stat. 2202
 
 **Additional Department of Defense Activities To Improve Energy Resiliency of Military Installations**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2844, Dec. 27, 2021, 135 Stat. 2202, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2844, Dec. 27, 2021, 135 Stat. 2202, provided that:
 
 > **“(a) Consideration of Including Energy Microgrid in Military Construction Projects.—**
 
@@ -819,7 +819,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2844, Dec. 27, 2021, 135 Stat. 2202
 
 **Pilot Program on Increased Use of Sustainable Building Materials in Military Construction**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div. B, title XXVIII, § 2865, Dec. 23, 2022, 136 Stat. 3011; Pub. L. 118–31, div. B, title XXVIII, § 2871, Dec. 22, 2023, 137 Stat. 775; Pub. L. 119–60, div. B, title XXVIII, § 2812, Dec. 18, 2025, 139 Stat. 1301, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div. B, title XXVIII, § 2865, Dec. 23, 2022, 136 Stat. 3011; Pub. L. 118–31, div. B, title XXVIII, § 2871, Dec. 22, 2023, 137 Stat. 775; Pub. L. 119–60, div. B, title XXVIII, § 2812, Dec. 18, 2025, 139 Stat. 1301, provided that:
 
 > **“(a) Pilot Program Required.—** Each Secretary of a military department shall conduct a pilot program to evaluate the effect that the use of sustainable building materials as the primary construction material in military construction may have on the environmental sustainability, infrastructure resilience, cost effectiveness, and construction timeliness of military construction.
 
@@ -869,7 +869,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2861, Dec. 27, 2021, 135 Stat. 2212
 
 **Pilot Program To Authorize Additional Military Construction Projects for Child Development Centers at Military Installations**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2865, Jan. 1, 2021, 134 Stat. 4360, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2865, Jan. 1, 2021, 134 Stat. 4360, provided that:
 
 > **“(a) Authorization of Additional Projects.—** Each Secretary of a military department shall conduct a pilot program under which the Secretary may carry out military construction projects for child development centers at military installations, as specified in the funding table in section 4601 of a National Defense Authorization Act for a fiscal year covered by the pilot program. The military construction projects authorized under the pilot program are in addition to other military construction projects authorized by this Act or other National Defense Authorization Acts for fiscal years covered by the pilot program.
 
@@ -889,7 +889,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2865, Jan. 1, 2021, 134 Stat. 4360
 
 **Amendment of Unified Facilities Criteria To Promote Military Installation Resilience, Energy Resilience, Energy and Climate Resiliency, and Cyber Resilience**
 
-Pub. L. 116–92, div. B, title XXVIII, § 2804, Dec. 20, 2019, 133 Stat. 1882, provided that:
+Pub. L. 116–92, div. B, title XXVIII, § 2804, Dec. 20, 2019, 133 Stat. 1882, provided that:
 
 > **“(a) Amendment Required.—**
 
@@ -931,7 +931,7 @@ Pub. L. 116–92, div. B, title XXVIII, § 2804, Dec. 20, 2019, 133 Stat. 1882
 
 **Modification to Department of Defense Form 1391 Regarding Consideration of Potential Long-Term Adverse Environmental Effects**
 
-Pub. L. 116–92, div. B, title XXVIII, § 2805, Dec. 20, 2019, 133 Stat. 1884, provided that:
+Pub. L. 116–92, div. B, title XXVIII, § 2805, Dec. 20, 2019, 133 Stat. 1884, provided that:
 
 > **“(a) Modification.—**
 
@@ -949,7 +949,7 @@ Pub. L. 116–92, div. B, title XXVIII, § 2805, Dec. 20, 2019, 133 Stat. 1884
 
 **Pilot Program To Extend Service Life of Roads and Runways Under the Jurisdiction of the Secretary of Defense**
 
-Pub. L. 116–92, div. B, title XXVIII, § 2865, Dec. 20, 2019, 133 Stat. 1901, provided that:
+Pub. L. 116–92, div. B, title XXVIII, § 2865, Dec. 20, 2019, 133 Stat. 1901, provided that:
 
 > **“(a) Pilot Program Authorized.—** The Secretary of Defense, in consultation with the Secretary of Transportation, may carry out a pilot program to design, build, and test technologies, techniques, and materials in order to extend the service life of roads and runways under the jurisdiction of the Secretary of Defense.
 
@@ -981,7 +981,7 @@ Pub. L. 116–92, div. B, title XXVIII, § 2865, Dec. 20, 2019, 133 Stat. 1901
 
 **Updates and Modifications to Department of Defense Form 1391, Unified Facilities Criteria, and Military Installation Master Plans**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2805(d), Dec. 27, 2021, 135 Stat. 2189, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2805(d), Dec. 27, 2021, 135 Stat. 2189, provided that:
 
 > **“(1) Amendment required.—** Not later than September 1, 2022, the Secretary of Defense shall amend the Unified Facilities Criteria relating to military construction planning and design to ensure that building practices and standards of the Department of Defense incorporate the minimum flood mitigation requirements of section 2805(a) of the Military Construction Authorization Act for Fiscal Year 2019 (division B of Public Law 115–232; 132 Stat. 2262; 10 U.S.C. 2802 note), as amended by this section.
 
@@ -991,7 +991,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2805(d), Dec. 27, 2021, 135 Stat. 2
 
 > **“(B) Certification.—** Not later than March 1, 2023, the Secretary of Defense shall certify to the Committees on Armed Services of the House of Representatives and the Senate the completion of the amendment process required by paragraph (1) and the full incorporation of the amendments into military construction planning and design.”
 
-Pub. L. 115–232, div. B, title XXVIII, § 2805(a), (b), Aug. 13, 2018, 132 Stat. 2262, as amended by Pub. L. 116–92, div. B, title XXVIII, § 2806, Dec. 20, 2019, 133 Stat. 1884; Pub. L. 117–81, div. B, title XXVIII, § 2805(a)–(c), Dec. 27, 2021, 135 Stat. 2189, provided that:
+Pub. L. 115–232, div. B, title XXVIII, § 2805(a), (b), Aug. 13, 2018, 132 Stat. 2262, as amended by Pub. L. 116–92, div. B, title XXVIII, § 2806, Dec. 20, 2019, 133 Stat. 1884; Pub. L. 117–81, div. B, title XXVIII, § 2805(a)–(c), Dec. 27, 2021, 135 Stat. 2189, provided that:
 
 > **“(a) Flood Risk Disclosure for Military Construction.—**
 
@@ -1029,7 +1029,7 @@ Pub. L. 115–232, div. B, title XXVIII, § 2805(a), (b), Aug. 13, 2018, 132 S
 
 **Requirements Related to Providing World Class Military Medical Centers**
 
-Pub. L. 111–383, div. B, title XXVIII, § 2852, Jan. 7, 2011, 124 Stat. 4475, provided that:
+Pub. L. 111–383, div. B, title XXVIII, § 2852, Jan. 7, 2011, 124 Stat. 4475, provided that:
 
 > **“(a) Unified Construction Standard for Military Construction and Repairs to Military Medical Centers.—** Not later than 180 days after the date of the enactment of this Act [Jan. 7, 2011], the Secretary of Defense shall establish a unified construction standard for military construction and repairs for military medical centers that provides a single standard of care. This standard shall also include—
 
@@ -1105,7 +1105,7 @@ Pub. L. 111–383, div. B, title XXVIII, § 2852, Jan. 7, 2011, 124 Stat. 4475
 
 **Damage to Aviation Facilities Caused by Alkali Silica Reactivity**
 
-Pub. L. 106–398, § 1 [[div. A], title III, § 389], Oct. 30, 2000, 114 Stat. 1654, 1654A–89, provided that:
+Pub. L. 106–398, § 1 [[div. A], title III, § 389], Oct. 30, 2000, 114 Stat. 1654, 1654A–89, provided that:
 
 > **“(a) Assessment of Damage and Prevention and Mitigation Technology.—** The Secretary of Defense shall require the Secretaries of the military departments to assess—
 
@@ -1129,9 +1129,9 @@ Pub. L. 106–398, § 1 [[div. A], title III, § 389], Oct. 30, 2000, 114 St
 
 **Reports Relating to Military Construction for Facilities Supporting New Weapon Systems**
 
-Pub. L. 102–190, div. B, title XXVIII, § 2868, Dec. 5, 1991, 105 Stat. 1562, as amended by Pub. L. 108–136, div. A, title X, § 1031(c)(2), Nov. 24, 2003, 117 Stat. 1604, which required the Secretary of Defense to submit to Congress a report relating to the permanent basing of a new weapon system not later than 30 days after selecting a site or sites for such permanent basing, was repealed by Pub. L. 112–81, div. A, title X, § 1062(m), Dec. 31, 2011, 125 Stat. 1586.
+Pub. L. 102–190, div. B, title XXVIII, § 2868, Dec. 5, 1991, 105 Stat. 1562, as amended by Pub. L. 108–136, div. A, title X, § 1031(c)(2), Nov. 24, 2003, 117 Stat. 1604, which required the Secretary of Defense to submit to Congress a report relating to the permanent basing of a new weapon system not later than 30 days after selecting a site or sites for such permanent basing, was repealed by Pub. L. 112–81, div. A, title X, § 1062(m), Dec. 31, 2011, 125 Stat. 1586.
 
-### § 2803. Emergency construction
+### § 2803. Emergency construction
 
 **(a)** Subject to subsections (b) and (c), the Secretary concerned may carry out a military construction project not otherwise authorized by law if the Secretary determines (1) that the project is vital to the national security or to the protection of health, safety, or the quality of the environment, and (2) that the requirement for the project is so urgent that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
 
@@ -1143,7 +1143,7 @@ Pub. L. 102–190, div. B, title XXVIII, § 2868, Dec. 5, 1991, 105 Stat. 1562
 
 **(2)** A project carried out under this section shall be carried out within the total amount of funds appropriated for military construction that have not been obligated.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 102–190, div. B, title XXVIII, §§ 2803, 2870(2), Dec. 5, 1991, 105 Stat. 1537, 1562; Pub. L. 102–484, div. A, title X, § 1053(9), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 108–136, div. A, title X, § 1031(a)(34), div. B, title XXVIII, § 2802, Nov. 24, 2003, 117 Stat. 1600, 1719; Pub. L. 109–364, div. B, title XXVIII, § 2801, Oct. 17, 2006, 120 Stat. 2466; Pub. L. 112–81, div. A, title X, § 1064(9), Dec. 31, 2011, 125 Stat. 1587; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(1), Dec. 12, 2017, 131 Stat. 1840.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 102–190, div. B, title XXVIII, §§ 2803, 2870(2), Dec. 5, 1991, 105 Stat. 1537, 1562; Pub. L. 102–484, div. A, title X, § 1053(9), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 108–136, div. A, title X, § 1031(a)(34), div. B, title XXVIII, § 2802, Nov. 24, 2003, 117 Stat. 1600, 1719; Pub. L. 109–364, div. B, title XXVIII, § 2801, Oct. 17, 2006, 120 Stat. 2466; Pub. L. 112–81, div. A, title X, § 1064(9), Dec. 31, 2011, 125 Stat. 1587; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(1), Dec. 12, 2017, 131 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -1155,39 +1155,39 @@ Pub. L. 102–190, div. B, title XXVIII, § 2868, Dec. 5, 1991, 105 Stat. 1562
 
 2006—Subsec. (c)(1). Pub. L. 109–364 substituted “$50,000,000” for “$45,000,000”.
 
-2003—Subsec. (b). Pub. L. 108–136, § 1031(a)(34), inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+2003—Subsec. (b). Pub. L. 108–136, § 1031(a)(34), inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
-Subsec. (c)(1). Pub. L. 108–136, § 2802, substituted “$45,000,000” for “$30,000,000”.
+Subsec. (c)(1). Pub. L. 108–136, § 2802, substituted “$45,000,000” for “$30,000,000”.
 
-1992—Subsec. (b). Pub. L. 102–484 made technical amendment to directory language of Pub. L. 102–190, § 2870(2). See 1991 Amendment note below.
+1992—Subsec. (b). Pub. L. 102–484 made technical amendment to directory language of Pub. L. 102–190, § 2870(2). See 1991 Amendment note below.
 
-1991—Subsec. (a). Pub. L. 102–190, § 2803, substituted “or to the protection of health, safety, or the quality of the environment, and” for “, and” in cl. (1) and inserted “or the protection of health, safety, or environmental quality, as the case may be” before period at end of cl. (2).
+1991—Subsec. (a). Pub. L. 102–190, § 2803, substituted “or to the protection of health, safety, or the quality of the environment, and” for “, and” in cl. (1) and inserted “or the protection of health, safety, or environmental quality, as the case may be” before period at end of cl. (2).
 
-Subsec. (b). Pub. L. 102–190, § 2870(2), as amended by Pub. L. 102–484, struck out “, or after each such committee has approved the project, if the committee approves the project before the end of that period” after “by such committees”.
+Subsec. (b). Pub. L. 102–190, § 2870(2), as amended by Pub. L. 102–484, struck out “, or after each such committee has approved the project, if the committee approves the project before the end of that period” after “by such committees”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title X, § 1053, Oct. 23, 1992, 106 Stat. 2501, provided that the amendment made by that section is effective Dec. 5, 1991.
+Pub. L. 102–484, div. A, title X, § 1053, Oct. 23, 1992, 106 Stat. 2501, provided that the amendment made by that section is effective Dec. 5, 1991.
 
 **Effective Date**
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2804. Contingency construction
+### § 2804. Contingency construction
 
 **(a)** Within the amount appropriated for such purpose, the Secretary of Defense may carry out a military construction project not otherwise authorized by law, or may authorize the Secretary of a military department to carry out such a project, if the Secretary of Defense determines that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or national interest.
 
 **(b)** When a decision is made to carry out a military construction project under this section, the Secretary of Defense shall submit a report to the appropriate committees of Congress on that decision. Each such report shall include the justification for the project, the current estimate of the cost of the project, and the justification for carrying out the project under this section. The project may then be carried out only after the end of the seven-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 102–190, div. B, title XXVIII, § 2870(3), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 108–136, div. A, title X, § 1031(a)(35), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, § 2801(a), Jan. 6, 2006, 119 Stat. 3504; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(2), Dec. 12, 2017, 131 Stat. 1840; Pub. L. 116–92, div. A, title XVII, § 1731(a)(54), Dec. 20, 2019, 133 Stat. 1815; Pub. L. 116–283, div. A, title X, § 1081(a)(44), Jan. 1, 2021, 134 Stat. 3873.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 102–190, div. B, title XXVIII, § 2870(3), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 108–136, div. A, title X, § 1031(a)(35), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, § 2801(a), Jan. 6, 2006, 119 Stat. 3504; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(2), Dec. 12, 2017, 131 Stat. 1840; Pub. L. 116–92, div. A, title XVII, § 1731(a)(54), Dec. 20, 2019, 133 Stat. 1815; Pub. L. 116–283, div. A, title X, § 1081(a)(44), Jan. 1, 2021, 134 Stat. 3873.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 116–283 struck out “; and” after “seven-day period”.
+2021—Subsec. (b). Pub. L. 116–283 struck out “; and” after “seven-day period”.
 
 2019—Subsec. (b). Pub. L. 116–92 substituted “include the justification” for “include (1) the justification”, “project, the current” for “project and the current”, and “and the justification” for “and (2) the justification”.
 
@@ -1197,7 +1197,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 2003—Subsec. (b). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
-1991—Subsec. (b). Pub. L. 102–190 struck out before period at end “, or after each such committee has approved the project, if the committees approve the project before the end of that period”.
+1991—Subsec. (b). Pub. L. 102–190 struck out before period at end “, or after each such committee has approved the project, if the committees approve the project before the end of that period”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1207,7 +1207,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Authority to Use Operation and Maintenance Funds for Certain Construction Projects Outside the United States**
 
-Pub. L. 108–136, div. B, title XXVIII, § 2808, Nov. 24, 2003, 117 Stat. 1723, as amended by Pub. L. 108–375, div. B, title XXVIII, § 2810, Oct. 28, 2004, 118 Stat. 2128; Pub. L. 109–163, div. B, title XXVIII, § 2809, Jan. 6, 2006, 119 Stat. 3508; Pub. L. 109–364, div. B, title XXVIII, § 2802, Oct. 17, 2006, 120 Stat. 2466; Pub. L. 110–181, div. B, title XXVIII, § 2801(a)–(d), Jan. 28, 2008, 122 Stat. 538, 539; Pub. L. 110–417, div. B, title XXVIII, § 2806, Oct. 14, 2008, 122 Stat. 4724; Pub. L. 111–84, div. B, title XXVIII, § 2806, Oct. 28, 2009, 123 Stat. 2662; Pub. L. 111–383, div. B, title XXVIII, § 2804, Jan. 7, 2011, 124 Stat. 4459; Pub. L. 112–81, div. B, title XXVIII, § 2804, Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, § 2804, Jan. 2, 2013, 126 Stat. 2149; Pub. L. 113–66, div. B, title XXVIII, § 2808, Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, § 2806, Dec. 19, 2014, 128 Stat. 3699; Pub. L. 114–92, div. B, title XXVIII, § 2802, Nov. 25, 2015, 129 Stat. 1169; Pub. L. 114–328, div. B, title XXVIII, § 2804, Dec. 23, 2016, 130 Stat. 2713; Pub. L. 115–91, div. B, title XXVIII, § 2804, Dec. 12, 2017, 131 Stat. 1846; Pub. L. 115–232, div. B, title XXVIII, § 2807, Aug. 13, 2018, 132 Stat. 2264; Pub. L. 116–283, div. B, title XXVIII, § 2806, Jan. 1, 2021, 134 Stat. 4322; Pub. L. 117–81, div. B, title XXVIII, § 2806, Dec. 27, 2021, 135 Stat. 2190; Pub. L. 117–263, div. B, title XXVIII, § 2809(a), (b)(1), (3)–(c), 136 Stat. 2996, provided that:
+Pub. L. 108–136, div. B, title XXVIII, § 2808, Nov. 24, 2003, 117 Stat. 1723, as amended by Pub. L. 108–375, div. B, title XXVIII, § 2810, Oct. 28, 2004, 118 Stat. 2128; Pub. L. 109–163, div. B, title XXVIII, § 2809, Jan. 6, 2006, 119 Stat. 3508; Pub. L. 109–364, div. B, title XXVIII, § 2802, Oct. 17, 2006, 120 Stat. 2466; Pub. L. 110–181, div. B, title XXVIII, § 2801(a)–(d), Jan. 28, 2008, 122 Stat. 538, 539; Pub. L. 110–417, div. B, title XXVIII, § 2806, Oct. 14, 2008, 122 Stat. 4724; Pub. L. 111–84, div. B, title XXVIII, § 2806, Oct. 28, 2009, 123 Stat. 2662; Pub. L. 111–383, div. B, title XXVIII, § 2804, Jan. 7, 2011, 124 Stat. 4459; Pub. L. 112–81, div. B, title XXVIII, § 2804, Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, § 2804, Jan. 2, 2013, 126 Stat. 2149; Pub. L. 113–66, div. B, title XXVIII, § 2808, Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, § 2806, Dec. 19, 2014, 128 Stat. 3699; Pub. L. 114–92, div. B, title XXVIII, § 2802, Nov. 25, 2015, 129 Stat. 1169; Pub. L. 114–328, div. B, title XXVIII, § 2804, Dec. 23, 2016, 130 Stat. 2713; Pub. L. 115–91, div. B, title XXVIII, § 2804, Dec. 12, 2017, 131 Stat. 1846; Pub. L. 115–232, div. B, title XXVIII, § 2807, Aug. 13, 2018, 132 Stat. 2264; Pub. L. 116–283, div. B, title XXVIII, § 2806, Jan. 1, 2021, 134 Stat. 4322; Pub. L. 117–81, div. B, title XXVIII, § 2806, Dec. 27, 2021, 135 Stat. 2190; Pub. L. 117–263, div. B, title XXVIII, § 2809(a), (b)(1), (3)–(c), 136 Stat. 2996, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may obligate appropriated funds available for operation and maintenance to carry out a construction project outside the United States that the Secretary determines meets each of the following conditions:
 
@@ -1249,9 +1249,9 @@ Pub. L. 108–136, div. B, title XXVIII, § 2808, Nov. 24, 2003, 117 Stat. 172
 
 > **“(e) Effect of Failure to Submit Project Notifications.—** If the advance notice of the proposed obligation of the funds for a construction project required by subsection (b) is not submitted to the congressional committees specified in subsection (d) by the required date, appropriated funds available for operation and maintenance may not be obligated or expended after that date under the authority of this section to carry out construction projects outside the United States until the date on which the notice is finally submitted.”
 
-[Pub. L. 117–263, div. B, title XXVIII, § 2809(d), Dec. 23, 2022, 136 Stat. 2997, provided that: “The Law Revision Counsel is directed to classify section 2808 of the Military Construction Authorization Act for Fiscal Year 2004 (division B of Public Law 108–136; 117 Stat. 1723), as amended by subsection (a), as a note following section 2804 of title 10, United States Code.” ]
+[Pub. L. 117–263, div. B, title XXVIII, § 2809(d), Dec. 23, 2022, 136 Stat. 2997, provided that: “The Law Revision Counsel is directed to classify section 2808 of the Military Construction Authorization Act for Fiscal Year 2004 (division B of Public Law 108–136; 117 Stat. 1723), as amended by subsection (a), as a note following section 2804 of title 10, United States Code.” ]
 
-### § 2805. Unspecified minor construction
+### § 2805. Unspecified minor construction
 
 **(a) Authority to Carry Out Unspecified Minor Military Construction Projects.—**
 
@@ -1293,11 +1293,11 @@ Pub. L. 108–136, div. B, title XXVIII, § 2808, Nov. 24, 2003, 117 Stat. 172
 
 **(1) Adjustment of limitations.—** Each fiscal year, the Secretary concerned shall adjust the dollar limitations specified in this section applicable to an unspecified minor military construction project to reflect the area construction cost index for military construction projects published by the Department of Defense during the prior fiscal year for the location of the project, except that no limitation specified in this section may exceed $14,000,000 as the result of any adjustment made under this paragraph.
 
-**[(2)** Repealed. Pub. L. 118–31, div. B, title XXVIII, § 2803(2), Dec. 22, 2023, 137 Stat. 744.]
+**[(2)** Repealed. Pub. L. 118–31, div. B, title XXVIII, § 2803(2), Dec. 22, 2023, 137 Stat. 744.]
 
-**[(3)** Repealed. Pub. L. 118–31, div. B, title XXVIII, § 2802(c)(2), Dec. 22, 2023, 137 Stat. 743.]
+**[(3)** Repealed. Pub. L. 118–31, div. B, title XXVIII, § 2802(c)(2), Dec. 22, 2023, 137 Stat. 743.]
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, § 809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, § 2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, § 1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§ 2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§ 2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, § 2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, § 2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, § 2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, § 1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§ 2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, § 2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 112–81, div. B, title XXVIII, § 2802(a), (b), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 113–66, div. B, title XXVIII, § 2801(a), Dec. 26, 2013, 127 Stat. 1006; Pub. L. 113–291, div. B, title XXVIII, § 2802, Dec. 19, 2014, 128 Stat. 3695; Pub. L. 114–328, div. B, title XXVIII, § 2801, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. A, title II, § 220(c)(2), div. B, title XXVIII, §§ 2801(a)(3), 2802, 2803, Dec. 12, 2017, 131 Stat. 1333, 1840, 1845, 1846; Pub. L. 116–92, div. A, title XVII, § 1731(a)(55), Dec. 20, 2019, 133 Stat. 1815; Pub. L. 116–283, div. A, title XVIII, § 1843(c), div. B, title XXVIII, § 2802, Jan. 1, 2021, 134 Stat. 4245, 4319; Pub. L. 117–81, div. A, title XVII, § 1701(u)(4)(B), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 117–263, div. B, title XXVIII, §§ 2802, 2803(a), 2804, Dec. 23, 2022, 136 Stat. 2992, 2994; Pub. L. 118–31, div. B, title XXVIII, §§ 2802(a)–(c), 2803, Dec. 22, 2023, 137 Stat. 743, 744; Pub. L. 118–159, div. B, title XXVIII, §§ 2804(a), 2805, Dec. 23, 2024, 138 Stat. 2248, 2249; Pub. L. 119–60, div. B, title XXVIII, §§ 2871, 2872(a), 2873, Dec. 18, 2025, 139 Stat. 1328.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, § 809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, § 2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, § 1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§ 2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§ 2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, § 2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, § 2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, § 2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, § 1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§ 2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, § 2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 112–81, div. B, title XXVIII, § 2802(a), (b), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 113–66, div. B, title XXVIII, § 2801(a), Dec. 26, 2013, 127 Stat. 1006; Pub. L. 113–291, div. B, title XXVIII, § 2802, Dec. 19, 2014, 128 Stat. 3695; Pub. L. 114–328, div. B, title XXVIII, § 2801, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. A, title II, § 220(c)(2), div. B, title XXVIII, §§ 2801(a)(3), 2802, 2803, Dec. 12, 2017, 131 Stat. 1333, 1840, 1845, 1846; Pub. L. 116–92, div. A, title XVII, § 1731(a)(55), Dec. 20, 2019, 133 Stat. 1815; Pub. L. 116–283, div. A, title XVIII, § 1843(c), div. B, title XXVIII, § 2802, Jan. 1, 2021, 134 Stat. 4245, 4319; Pub. L. 117–81, div. A, title XVII, § 1701(u)(4)(B), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 117–263, div. B, title XXVIII, §§ 2802, 2803(a), 2804, Dec. 23, 2022, 136 Stat. 2992, 2994; Pub. L. 118–31, div. B, title XXVIII, §§ 2802(a)–(c), 2803, Dec. 22, 2023, 137 Stat. 743, 744; Pub. L. 118–159, div. B, title XXVIII, §§ 2804(a), 2805, Dec. 23, 2024, 138 Stat. 2248, 2249; Pub. L. 119–60, div. B, title XXVIII, §§ 2871, 2872(a), 2873, Dec. 18, 2025, 139 Stat. 1328.)
 
 **Editorial Notes**
 
@@ -1307,85 +1307,85 @@ Another section 2803(a) of Pub. L. 117–263 (136 Stat. 2970), is set out as a n
 
 **Amendments**
 
-2025—Subsec. (b)(2). Pub. L. 119–60, § 2872(a), substituted “$6,000,000” for “$4,000,000”.
+2025—Subsec. (b)(2). Pub. L. 119–60, § 2872(a), substituted “$6,000,000” for “$4,000,000”.
 
-Pub. L. 119–60, § 2871, substituted “shall submit, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notification of that decision not later than 90 days after the date on which the Secretary concerned obligates funds for the project. Such notification shall include a description of the project, a justification for the project, and an estimation of the total cost of the project.” for “shall notify the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to section 480 of this title.”.
+Pub. L. 119–60, § 2871, substituted “shall submit, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notification of that decision not later than 90 days after the date on which the Secretary concerned obligates funds for the project. Such notification shall include a description of the project, a justification for the project, and an estimation of the total cost of the project.” for “shall notify the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to section 480 of this title.”.
 
-Subsec. (g). Pub. L. 119–60, § 2873, redesignated subsec. (g) as section 2810(f) of this title.
+Subsec. (g). Pub. L. 119–60, § 2873, redesignated subsec. (g) as section 2810(f) of this title.
 
-2024—Subsec. (a)(2). Pub. L. 118–159, § 2804(a), substituted “, land acquisition, or demolition project” for “or a demolition project”.
+2024—Subsec. (a)(2). Pub. L. 118–159, § 2804(a), substituted “, land acquisition, or demolition project” for “or a demolition project”.
 
-Subsec. (g)(6)(B). Pub. L. 118–159, § 2805, substituted “$4,000,000” for “$1,000,000”.
+Subsec. (g)(6)(B). Pub. L. 118–159, § 2805, substituted “$4,000,000” for “$1,000,000”.
 
-2023—Subsec. (a)(2). Pub. L. 118–31, § 2802(a)(1), (b)(1), inserted “or a demolition project” after “is a military construction project” and substituted “$9,000,000” for “$6,000,000”.
+2023—Subsec. (a)(2). Pub. L. 118–31, § 2802(a)(1), (b)(1), inserted “or a demolition project” after “is a military construction project” and substituted “$9,000,000” for “$6,000,000”.
 
-Subsec. (a)(3). Pub. L. 118–31, § 2802(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 118–31, § 2802(a)(2), added par. (3).
 
-Subsec. (b)(2). Pub. L. 118–31, § 2802(b)(2), substituted “$4,000,000” for “$2,000,000”.
+Subsec. (b)(2). Pub. L. 118–31, § 2802(b)(2), substituted “$4,000,000” for “$2,000,000”.
 
-Subsec. (c). Pub. L. 118–31, § 2802(b)(3), substituted “$4,000,000” for “$2,000,000”.
+Subsec. (c). Pub. L. 118–31, § 2802(b)(3), substituted “$4,000,000” for “$2,000,000”.
 
-Subsec. (d)(1)(A). Pub. L. 118–31, § 2802(b)(4)(A)(i), substituted “$9,000,000” for “$6,000,000”.
+Subsec. (d)(1)(A). Pub. L. 118–31, § 2802(b)(4)(A)(i), substituted “$9,000,000” for “$6,000,000”.
 
-Subsec. (d)(1)(B). Pub. L. 118–31, § 2802(b)(4)(A)(ii), substituted “$9,000,000” for “$6,000,000”.
+Subsec. (d)(1)(B). Pub. L. 118–31, § 2802(b)(4)(A)(ii), substituted “$9,000,000” for “$6,000,000”.
 
-Subsec. (d)(2). Pub. L. 118–31, § 2802(b)(4)(B), substituted “$9,000,000” for “$6,000,000”.
+Subsec. (d)(2). Pub. L. 118–31, § 2802(b)(4)(B), substituted “$9,000,000” for “$6,000,000”.
 
-Subsec. (f)(1). Pub. L. 118–31, §§ 2802(c)(1), 2803(1), struck out “inside the United States” after “construction project” and substituted “$14,000,000” for “$10,000,000”.
+Subsec. (f)(1). Pub. L. 118–31, §§ 2802(c)(1), 2803(1), struck out “inside the United States” after “construction project” and substituted “$14,000,000” for “$10,000,000”.
 
-Subsec. (f)(2). Pub. L. 118–31, § 2803(2), struck out par. (2). Text read as follows: “For purposes of paragraph (1), a project shall be considered to be inside the United States if the project is carried out in any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, Wake Island, the Commonwealth of the Northern Mariana Islands, or a former United States Trust Territory now in a Compact of Free Association with the United States.”
+Subsec. (f)(2). Pub. L. 118–31, § 2803(2), struck out par. (2). Text read as follows: “For purposes of paragraph (1), a project shall be considered to be inside the United States if the project is carried out in any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, Wake Island, the Commonwealth of the Northern Mariana Islands, or a former United States Trust Territory now in a Compact of Free Association with the United States.”
 
-Subsec. (f)(3). Pub. L. 118–31, § 2802(c)(2), struck out par. (3). Text read as follows: “The requirements of this subsection shall not apply with respect to any fiscal year after fiscal year 2027.”
+Subsec. (f)(3). Pub. L. 118–31, § 2802(c)(2), struck out par. (3). Text read as follows: “The requirements of this subsection shall not apply with respect to any fiscal year after fiscal year 2027.”
 
-2022—Subsec. (d)(5). Pub. L. 117–263, § 2804, struck out par. (5) which read as follows: “The authority to carry out a project under this subsection expires on September 30, 2025.”
+2022—Subsec. (d)(5). Pub. L. 117–263, § 2804, struck out par. (5) which read as follows: “The authority to carry out a project under this subsection expires on September 30, 2025.”
 
-Subsec. (f)(2). Pub. L. 117–263, § 2802, substituted “Wake Island, the Commonwealth” for “or the Commonwealth” and inserted “, or a former United States Trust Territory now in a Compact of Free Association with the United States” after “Mariana Islands”.
+Subsec. (f)(2). Pub. L. 117–263, § 2802, substituted “Wake Island, the Commonwealth” for “or the Commonwealth” and inserted “, or a former United States Trust Territory now in a Compact of Free Association with the United States” after “Mariana Islands”.
 
-Subsec. (g). Pub. L. 117–263, § 2803(a), added subsec. (g).
+Subsec. (g). Pub. L. 117–263, § 2803(a), added subsec. (g).
 
-2021—Subsec. (d)(1)(B). Pub. L. 116–283, § 1843(c), as amended by Pub. L. 117–81, § 1701(u)(4)(B), substituted “section 4123(a)” for “section 2363(a)”.
+2021—Subsec. (d)(1)(B). Pub. L. 116–283, § 1843(c), as amended by Pub. L. 117–81, § 1701(u)(4)(B), substituted “section 4123(a)” for “section 2363(a)”.
 
-Subsec. (f)(3). Pub. L. 116–283, § 2802, substituted “2027” for “2022”.
+Subsec. (f)(3). Pub. L. 116–283, § 2802, substituted “2027” for “2022”.
 
 2019—Subsec. (d)(1)(B). Pub. L. 116–92 inserted “under” after “made available”.
 
-2017—Subsec. (a)(2). Pub. L. 115–91, § 2802(a), substituted “$6,000,000” for “$3,000,000” and struck out at end “However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, an unspecified minor military construction project may have an approved cost equal to or less than $4,000,000.”
+2017—Subsec. (a)(2). Pub. L. 115–91, § 2802(a), substituted “$6,000,000” for “$3,000,000” and struck out at end “However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, an unspecified minor military construction project may have an approved cost equal to or less than $4,000,000.”
 
-Subsec. (b)(1). Pub. L. 115–91, § 2802(b), substituted “$750,000” for “$1,000,000”.
+Subsec. (b)(1). Pub. L. 115–91, § 2802(b), substituted “$750,000” for “$1,000,000”.
 
-Subsec. (b)(2). Pub. L. 115–91, § 2802(c), substituted “to which paragraph (1) is applicable and which costs more than $2,000,000” for “to which paragraph (1) is applicable”.
+Subsec. (b)(2). Pub. L. 115–91, § 2802(c), substituted “to which paragraph (1) is applicable and which costs more than $2,000,000” for “to which paragraph (1) is applicable”.
 
-Pub. L. 115–91, § 2801(a)(3)(A), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by the committees” and substituted “14-day period” for “21-day period”.
+Pub. L. 115–91, § 2801(a)(3)(A), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by the committees” and substituted “14-day period” for “21-day period”.
 
-Subsec. (c). Pub. L. 115–91, § 2802(d), substituted “$2,000,000” for “$1,000,000”.
+Subsec. (c). Pub. L. 115–91, § 2802(d), substituted “$2,000,000” for “$1,000,000”.
 
-Subsec. (d)(1)(B). Pub. L. 115–91, § 220(c)(2), substituted “section 2363(a) of this title” for “under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note)”.
+Subsec. (d)(1)(B). Pub. L. 115–91, § 220(c)(2), substituted “section 2363(a) of this title” for “under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note)”.
 
-Subsec. (d)(3). Pub. L. 115–91, § 2801(a)(3)(B), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by the committees” and substituted “14-day period” for “21-day period”.
+Subsec. (d)(3). Pub. L. 115–91, § 2801(a)(3)(B), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by the committees” and substituted “14-day period” for “21-day period”.
 
-Subsec. (f). Pub. L. 115–91, § 2803, added subsec. (f).
+Subsec. (f). Pub. L. 115–91, § 2803, added subsec. (f).
 
-2016—Subsec. (d)(1). Pub. L. 114–328, § 2801(a), substituted “$6,000,000” for “$4,000,000” in subpars. (A) and (B).
+2016—Subsec. (d)(1). Pub. L. 114–328, § 2801(a), substituted “$6,000,000” for “$4,000,000” in subpars. (A) and (B).
 
-Subsec. (d)(2). Pub. L. 114–328, § 2801(a), (b)(1), substituted “$6,000,000” for “$4,000,000” in first sentence and struck out second sentence which read as follows: “The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.”
+Subsec. (d)(2). Pub. L. 114–328, § 2801(a), (b)(1), substituted “$6,000,000” for “$4,000,000” in first sentence and struck out second sentence which read as follows: “The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.”
 
-Subsec. (d)(3). Pub. L. 114–328, § 2801(b)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Not later than February 1, 2014, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.”
+Subsec. (d)(3). Pub. L. 114–328, § 2801(b)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Not later than February 1, 2014, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.”
 
-Subsec. (d)(5). Pub. L. 114–328, § 2801(c), substituted “2025” for “2018”.
+Subsec. (d)(5). Pub. L. 114–328, § 2801(c), substituted “2025” for “2018”.
 
-2014—Subsec. (a)(2). Pub. L. 113–291, § 2802(a), substituted “$3,000,000” for “$2,000,000” in first sentence and “$4,000,000” for “$3,000,000” in second sentence.
+2014—Subsec. (a)(2). Pub. L. 113–291, § 2802(a), substituted “$3,000,000” for “$2,000,000” in first sentence and “$4,000,000” for “$3,000,000” in second sentence.
 
-Subsec. (b)(1). Pub. L. 113–291, § 2802(b), substituted “$1,000,000” for “$750,000”.
+Subsec. (b)(1). Pub. L. 113–291, § 2802(b), substituted “$1,000,000” for “$750,000”.
 
-Subsec. (c). Pub. L. 113–291, § 2802(c), substituted “$1,000,000” for “$750,000”.
+Subsec. (c). Pub. L. 113–291, § 2802(c), substituted “$1,000,000” for “$750,000”.
 
-2013—Subsec. (d)(1)(A). Pub. L. 113–66, § 2801(a)(1), substituted “not more than $4,000,000, notwithstanding subsection (c)” for “not more than $2,000,000”.
+2013—Subsec. (d)(1)(A). Pub. L. 113–66, § 2801(a)(1), substituted “not more than $4,000,000, notwithstanding subsection (c)” for “not more than $2,000,000”.
 
-Subsec. (d)(2). Pub. L. 113–66, § 2801(a)(2), substituted “For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $4,000,000.” for “For an unspecified minor military construction project conducted pursuant to this subsection, $2,000,000 shall be deemed to be the amount specified in subsection (b)(1) regarding when advance approval of the project by the Secretary concerned and congressional notification is required.”
+Subsec. (d)(2). Pub. L. 113–66, § 2801(a)(2), substituted “For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $4,000,000.” for “For an unspecified minor military construction project conducted pursuant to this subsection, $2,000,000 shall be deemed to be the amount specified in subsection (b)(1) regarding when advance approval of the project by the Secretary concerned and congressional notification is required.”
 
-Subsec. (d)(5). Pub. L. 113–66, § 2801(a)(3), substituted “2018” for “2016”.
+Subsec. (d)(5). Pub. L. 113–66, § 2801(a)(3), substituted “2018” for “2016”.
 
-2011—Subsec. (c). Pub. L. 112–81, § 2802(a), substituted “The” for “(1) Except as provided in paragraph (2), the” and “not more than $750,000.” for “not more than—
+2011—Subsec. (c). Pub. L. 112–81, § 2802(a), substituted “The” for “(1) Except as provided in paragraph (2), the” and “not more than $750,000.” for “not more than—
 
 “(A) $1,500,000, in the case of an unspecified minor military construction project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
 
@@ -1393,85 +1393,85 @@ Subsec. (d)(5). Pub. L. 113–66, § 2801(a)(3), substituted “2018” for �
 
 “(2) The limitations specified in paragraph (1) shall not apply to an unspecified minor military construction project if the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.”
 
-Subsec. (d)(3). Pub. L. 112–81, § 2802(b)(1), substituted “February 1, 2014” for “February 1, 2010”.
+Subsec. (d)(3). Pub. L. 112–81, § 2802(b)(1), substituted “February 1, 2014” for “February 1, 2010”.
 
-Subsec. (d)(5). Pub. L. 112–81, § 2802(b)(2), substituted “September 30, 2016” for “September 30, 2012”.
+Subsec. (d)(5). Pub. L. 112–81, § 2802(b)(2), substituted “September 30, 2016” for “September 30, 2012”.
 
-2009—Subsec. (a). Pub. L. 111–84, § 2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
+2009—Subsec. (a). Pub. L. 111–84, § 2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
 
-Subsec. (c). Pub. L. 111–84, § 2801(a)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States.”
+Subsec. (c). Pub. L. 111–84, § 2801(a)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States.”
 
-Subsec. (d)(1)(B). Pub. L. 111–84, § 2801(b)(1), inserted “or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note)” after “authorized by law”.
+Subsec. (d)(1)(B). Pub. L. 111–84, § 2801(b)(1), inserted “or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note)” after “authorized by law”.
 
-Subsec. (d)(3) to (6). Pub. L. 111–84, § 2801(b)(2), (3), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which read as follows: “For purposes of this subsection, the total amount allowed to be applied in any one fiscal year to projects at any one laboratory shall be limited to the larger of the amounts applicable under paragraph (1).”
+Subsec. (d)(3) to (6). Pub. L. 111–84, § 2801(b)(2), (3), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which read as follows: “For purposes of this subsection, the total amount allowed to be applied in any one fiscal year to projects at any one laboratory shall be limited to the larger of the amounts applicable under paragraph (1).”
 
-2008—Subsec. (a). Pub. L. 110–181, § 2804(b)(1), inserted subsec. heading.
+2008—Subsec. (a). Pub. L. 110–181, § 2804(b)(1), inserted subsec. heading.
 
-Subsec. (a)(1). Pub. L. 110–181, § 2803, substituted “$2,000,000” for “$1,500,000”.
+Subsec. (a)(1). Pub. L. 110–181, § 2803, substituted “$2,000,000” for “$1,500,000”.
 
-Subsecs. (b), (c). Pub. L. 110–181, § 2804(b)(2), (3), inserted subsec. headings.
+Subsecs. (b), (c). Pub. L. 110–181, § 2804(b)(2), (3), inserted subsec. headings.
 
-Subsecs. (d), (e). Pub. L. 110–181, § 2804(a), (b)(4), added subsec. (d), redesignated former subsec. (d) as (e), and inserted subsec. (e) heading.
+Subsecs. (d), (e). Pub. L. 110–181, § 2804(a), (b)(4), added subsec. (d), redesignated former subsec. (d) as (e), and inserted subsec. (e) heading.
 
 2003—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
-2001—Subsec. (b)(1). Pub. L. 107–107, § 2801(a), substituted “$750,000” for “$500,000”.
+2001—Subsec. (b)(1). Pub. L. 107–107, § 2801(a), substituted “$750,000” for “$500,000”.
 
-Subsec. (c)(1)(A). Pub. L. 107–107, § 2801(b)(1), substituted “$1,500,000” for “$1,000,000”.
+Subsec. (c)(1)(A). Pub. L. 107–107, § 2801(b)(1), substituted “$1,500,000” for “$1,000,000”.
 
-Subsec. (c)(1)(B). Pub. L. 107–107, § 2801(b)(2), substituted “$750,000” for “$500,000”.
+Subsec. (c)(1)(B). Pub. L. 107–107, § 2801(b)(2), substituted “$750,000” for “$500,000”.
 
-1997—Subsec. (a)(1). Pub. L. 105–85, § 2801(c)(1), substituted “unspecified minor military construction projects” for “minor military construction projects”, “An unspecified minor” for “A minor”, and “an unspecified minor” for “a minor”.
+1997—Subsec. (a)(1). Pub. L. 105–85, § 2801(c)(1), substituted “unspecified minor military construction projects” for “minor military construction projects”, “An unspecified minor” for “A minor”, and “an unspecified minor” for “a minor”.
 
-Subsec. (b)(1). Pub. L. 105–85, § 2801(c)(2), substituted “An unspecified minor” for “A minor”.
+Subsec. (b)(1). Pub. L. 105–85, § 2801(c)(2), substituted “An unspecified minor” for “A minor”.
 
-Pub. L. 105–85, § 2801(a), inserted at end “This paragraph shall apply even though the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.”
+Pub. L. 105–85, § 2801(a), inserted at end “This paragraph shall apply even though the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.”
 
-Subsec. (b)(2). Pub. L. 105–85, § 2801(c)(3), substituted “an unspecified minor” for “a minor”.
+Subsec. (b)(2). Pub. L. 105–85, § 2801(c)(3), substituted “an unspecified minor” for “a minor”.
 
-Subsec. (c)(1). Pub. L. 105–85, § 2801(c)(4), substituted “unspecified minor military” for “unspecified military” wherever appearing.
+Subsec. (c)(1). Pub. L. 105–85, § 2801(c)(4), substituted “unspecified minor military” for “unspecified military” wherever appearing.
 
-Pub. L. 105–85, § 2801(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+Pub. L. 105–85, § 2801(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 105–85, § 2801(c)(4), substituted “unspecified minor military” for “unspecified military”.
+Subsec. (c)(2). Pub. L. 105–85, § 2801(c)(4), substituted “unspecified minor military” for “unspecified military”.
 
-Subsec. (c)(3). Pub. L. 105–85, § 2801(b)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 105–85, § 2801(b)(2), added par. (3).
 
-1996—Subsec. (a)(1). Pub. L. 104–106, § 2812, in second sentence, struck out “(1) that is for a single undertaking at a military installation, and (2)” after “is a military construction project”.
+1996—Subsec. (a)(1). Pub. L. 104–106, § 2812, in second sentence, struck out “(1) that is for a single undertaking at a military installation, and (2)” after “is a military construction project”.
 
-Pub. L. 104–106, § 2811(a)(1), inserted at end “However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, a minor military construction project may have an approved cost equal to or less than $3,000,000.”
+Pub. L. 104–106, § 2811(a)(1), inserted at end “However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, a minor military construction project may have an approved cost equal to or less than $3,000,000.”
 
-Subsec. (c)(1). Pub. L. 104–106, § 2811(a)(2), substituted “not more than—” for “not more than $300,000.” and added subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 104–106, § 2811(a)(2), substituted “not more than—” for “not more than $300,000.” and added subpars. (A) and (B).
 
 Subsec. (c)(1)(B). Pub. L. 104–201 substituted “$500,000” for “$300,000”.
 
-1991—Subsec. (a)(1). Pub. L. 102–190, § 2807(a), substituted “$1,500,000” for “$1,000,000”.
+1991—Subsec. (a)(1). Pub. L. 102–190, § 2807(a), substituted “$1,500,000” for “$1,000,000”.
 
-Subsec. (b)(2). Pub. L. 102–190, § 2870(4), in second sentence struck out “(A)” after “carried out only” and “, or (B) after each such committee approves the project, if the committees approve the project before the end of that period” before period at end.
+Subsec. (b)(2). Pub. L. 102–190, § 2870(4), in second sentence struck out “(A)” after “carried out only” and “, or (B) after each such committee approves the project, if the committees approve the project before the end of that period” before period at end.
 
-Subsec. (c)(1). Pub. L. 102–190, § 2807(b), substituted “$300,000” for “$200,000”.
+Subsec. (c)(1). Pub. L. 102–190, § 2807(b), substituted “$300,000” for “$200,000”.
 
 1990—Subsec. (b)(3). Pub. L. 101–510 struck out par. (3) which read as follows: “A project for the relocation of any activity from one installation to another that involves 25 or more full-time civilian employees of the Department of Defense but that is not subject to paragraph (1) may not be carried out under the authority of this section until the appropriate committees of Congress have been notified by the Secretary concerned of the intent to carry out such relocation under the authority of this section.”
 
-1987—Subsec. (a). Pub. L. 100–180, § 2310(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), within” for “Within”, and added par. (2).
+1987—Subsec. (a). Pub. L. 100–180, § 2310(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), within” for “Within”, and added par. (2).
 
-Subsec. (c). Pub. L. 100–180, § 2310(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
+Subsec. (c). Pub. L. 100–180, § 2310(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–661, § 2702(a)(1), substituted “$1,000,000” for “the amount specified by law as the maximum amount for a minor military construction project”.
+1986—Subsec. (a). Pub. L. 99–661, § 2702(a)(1), substituted “$1,000,000” for “the amount specified by law as the maximum amount for a minor military construction project”.
 
-Subsec. (b)(1). Pub. L. 99–661, § 2702(a)(2), substituted “$500,000” for “50 percent of the amount specified by law as the maximum amount for a minor military construction project”.
+Subsec. (b)(1). Pub. L. 99–661, § 2702(a)(2), substituted “$500,000” for “50 percent of the amount specified by law as the maximum amount for a minor military construction project”.
 
-Subsec. (c). Pub. L. 99–661, § 2702(a)(3), substituted “$200,000” for “20 percent of the amount specified by law as the maximum amount for a minor military construction project”.
+Subsec. (c). Pub. L. 99–661, § 2702(a)(3), substituted “$200,000” for “20 percent of the amount specified by law as the maximum amount for a minor military construction project”.
 
-1985—Subsec. (a). Pub. L. 99–167, § 809(1), inserted “an amount equal to 125 percent of”.
+1985—Subsec. (a). Pub. L. 99–167, § 809(1), inserted “an amount equal to 125 percent of”.
 
-Subsec. (c). Pub. L. 99–167, § 809(2), substituted “The” for “Only funds authorized for minor construction projects may be used to accomplish unspecified minor construction projects, except that the”.
+Subsec. (c). Pub. L. 99–167, § 809(2), substituted “The” for “Only funds authorized for minor construction projects may be used to accomplish unspecified minor construction projects, except that the”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2803(b), Dec. 23, 2022, 136 Stat. 2994, provided that: “Subsection (g) of section 2805 of title 10, United States Code, as added by subsection (a), shall apply with respect only to amounts appropriated after the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. B, title XXVIII, § 2803(b), Dec. 23, 2022, 136 Stat. 2994, provided that: “Subsection (g) of section 2805 of title 10, United States Code, as added by subsection (a), shall apply with respect only to amounts appropriated after the date of the enactment of this Act [Dec. 23, 2022].”
 
 **Effective Date of 2021 Amendment**
 
@@ -1485,13 +1485,13 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Temporary Expansion of Authority for Caisson Requirements**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2810(b), Dec. 18, 2025, 139 Stat. 1301, provided that: “Not later than 30 days after each use of the authority described under section 2804(c) of the Military Construction Authorization Act for Fiscal Year 2025 (division B of Public Law 118–159; 10 U.S.C. 2805 note), the Secretary of the Army shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on such use.”
+Pub. L. 119–60, div. B, title XXVIII, § 2810(b), Dec. 18, 2025, 139 Stat. 1301, provided that: “Not later than 30 days after each use of the authority described under section 2804(c) of the Military Construction Authorization Act for Fiscal Year 2025 (division B of Public Law 118–159; 10 U.S.C. 2805 note), the Secretary of the Army shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on such use.”
 
-Pub. L. 118–159, div. B, title XXVIII, § 2804(c), Dec. 23, 2024, 138 Stat. 2248, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2810(a), Dec. 18, 2025, 139 Stat. 1300, provided that: “During the period beginning on the date of the enactment of this section [Dec. 23, 2024] and ending on August 1, 2026, the Secretary of the Army may use the authority under section 2805 of such title [meaning title 10, United States Code] for the purchase of interests in land at not more than 200 percent of the applicable dollar threshold specified in such section to support the caisson requirements of the Department of the Army with respect to equine welfare.”
+Pub. L. 118–159, div. B, title XXVIII, § 2804(c), Dec. 23, 2024, 138 Stat. 2248, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2810(a), Dec. 18, 2025, 139 Stat. 1300, provided that: “During the period beginning on the date of the enactment of this section [Dec. 23, 2024] and ending on August 1, 2026, the Secretary of the Army may use the authority under section 2805 of such title [meaning title 10, United States Code] for the purchase of interests in land at not more than 200 percent of the applicable dollar threshold specified in such section to support the caisson requirements of the Department of the Army with respect to equine welfare.”
 
 **Authority for Indo-Pacific Posture Unspecified Minor Military Construction Projects**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2810, Dec. 22, 2023, 137 Stat. 747, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2807, Dec. 23, 2024, 138 Stat. 2250, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2810, Dec. 22, 2023, 137 Stat. 747, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2807, Dec. 23, 2024, 138 Stat. 2250, provided that:
 
 > **“(a) Authority.—** To support the posture of the Armed Forces in the United States Indo-Pacific Command area of operations, the Commander of the United States Indo-Pacific Command (in this section referred to as the ‘Commander’) may carry out unspecified minor military construction projects not otherwise authorized by law with an approved cost less than $30,000,000.
 
@@ -1539,19 +1539,19 @@ Pub. L. 118–31, div. B, title XXVIII, § 2810, Dec. 22, 2023, 137 Stat. 747,
 
 **Temporary Increase of Amounts in Connection With Authority To Carry Out Unspecified Minor Military Construction**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2801, Dec. 23, 2022, 136 Stat. 2992, which increased amounts in connection with authority to carry out unspecified minor military construction projects for the period beginning on Dec. 23, 2022, and ending on Dec. 1, 2025, was repealed by Pub. L. 118–31, div. B, title XXVIII, § 2802(e), Dec. 22, 2023, 137 Stat. 743.
+Pub. L. 117–263, div. B, title XXVIII, § 2801, Dec. 23, 2022, 136 Stat. 2992, which increased amounts in connection with authority to carry out unspecified minor military construction projects for the period beginning on Dec. 23, 2022, and ending on Dec. 1, 2025, was repealed by Pub. L. 118–31, div. B, title XXVIII, § 2802(e), Dec. 22, 2023, 137 Stat. 743.
 
 **No Application to Current Projects**
 
-Pub. L. 113–66, div. B, title XXVIII, § 2801(b), Dec. 26, 2013, 127 Stat. 1006, provided that: “The amendments made by subsection (a) [amending this section] do not apply to any laboratory revitalization project for which the design phase has been completed as of the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. B, title XXVIII, § 2801(b), Dec. 26, 2013, 127 Stat. 1006, provided that: “The amendments made by subsection (a) [amending this section] do not apply to any laboratory revitalization project for which the design phase has been completed as of the date of the enactment of this Act [Dec. 26, 2013].”
 
 **Relation to Other Authorities**
 
-Pub. L. 108–136, div. B, title XXVIII, § 2808(e), Nov. 24, 2003, 117 Stat. 1724, which directed that the temporary authority provided by section 2808 of Pub. L. 108–136, and the limited authority provided by section 2805(c) of this title, to use appropriated funds available for operation and maintenance to carry out a construction project were the only authorities available to the Secretary of Defense and the Secretaries of the military departments to use appropriated funds available for operation and maintenance to carry out construction projects, was repealed by Pub. L. 117–263, div. B, title XXVIII, § 2809(b)(2), Dec. 23, 2022, 136 Stat. 2996.
+Pub. L. 108–136, div. B, title XXVIII, § 2808(e), Nov. 24, 2003, 117 Stat. 1724, which directed that the temporary authority provided by section 2808 of Pub. L. 108–136, and the limited authority provided by section 2805(c) of this title, to use appropriated funds available for operation and maintenance to carry out a construction project were the only authorities available to the Secretary of Defense and the Secretaries of the military departments to use appropriated funds available for operation and maintenance to carry out construction projects, was repealed by Pub. L. 117–263, div. B, title XXVIII, § 2809(b)(2), Dec. 23, 2022, 136 Stat. 2996.
 
 **Department of Defense Laboratory Revitalization Demonstration Program**
 
-Pub. L. 104–106, div. B, title XXVIII, § 2892, Feb. 10, 1996, 110 Stat. 590, as amended by Pub. L. 105–261, div. B, title XXVIII, § 2871, Oct. 17, 1998, 112 Stat. 2225; Pub. L. 108–375, div. B, title XXVIII, § 2891, Oct. 28, 2004, 118 Stat. 2154, provided that:
+Pub. L. 104–106, div. B, title XXVIII, § 2892, Feb. 10, 1996, 110 Stat. 590, as amended by Pub. L. 105–261, div. B, title XXVIII, § 2871, Oct. 17, 1998, 112 Stat. 2225; Pub. L. 108–375, div. B, title XXVIII, § 2891, Oct. 28, 2004, 118 Stat. 2154, provided that:
 
 > **“(a) Program Authorized.—** The Secretary of Defense may carry out a program (to be known as the ‘Department of Defense Laboratory Revitalization Demonstration Program’) for the revitalization of Department of Defense laboratories. Under the program, the Secretary may carry out minor military construction projects in accordance with subsection (b) and other applicable law to improve Department of Defense laboratories covered by the program.
 
@@ -1591,7 +1591,7 @@ Pub. L. 104–106, div. B, title XXVIII, § 2892, Feb. 10, 1996, 110 Stat. 590
 
 Maximum amount of $1,000,000 for unspecified minor military construction project under this section during the period beginning Oct. 1, 1982, and ending on the date of the enactment of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(1) of Pub. L. 97–214, set out as a note under section 2828 of this title.
 
-### § 2806. Contributions for North Atlantic Treaty Organizations Security Investment
+### § 2806. Contributions for North Atlantic Treaty Organizations Security Investment
 
 **(a)** Within amounts authorized by law for such purpose, the Secretary of Defense may make contributions for the United States share of the cost of multilateral programs for the acquisition and construction of military facilities and installations (including international military headquarters) and for related expenses for the collective defense of the North Atlantic Treaty Area.
 
@@ -1607,7 +1607,7 @@ Maximum amount of $1,000,000 for unspecified minor military construction project
 
 **(2)** If the Secretary determines that the amount appropriated for contribution under subsection (a) in any fiscal year must be exceeded by more than the amount authorized under paragraph (1), the Secretary may make contributions in excess of such amount, but not in excess of 125 percent of the amount appropriated, only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the increase, including the reasons for the increase and the source of the funds to be used for the increase.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 97–321, title VIII, § 805(b)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–661, div. B, title V, § 2503(a), Nov. 14, 1986, 100 Stat. 4039; Pub. L. 100–26, § 7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–190, div. B, title XXVIII, § 2870(5), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 104–201, div. B, title XXVIII, § 2802(a), (c)(1), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 111–84, div. B, title XXVIII, § 2801(a)(3), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 111–383, div. B, title XXVIII, § 2803(b), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(4), Dec. 12, 2017, 131 Stat. 1840; Pub. L. 118–159, div. B, title XXV, § 2503, Dec. 23, 2024, 138 Stat. 2236.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 97–321, title VIII, § 805(b)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–661, div. B, title V, § 2503(a), Nov. 14, 1986, 100 Stat. 4039; Pub. L. 100–26, § 7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–190, div. B, title XXVIII, § 2870(5), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 104–201, div. B, title XXVIII, § 2802(a), (c)(1), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 111–84, div. B, title XXVIII, § 2801(a)(3), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 111–383, div. B, title XXVIII, § 2803(b), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(4), Dec. 12, 2017, 131 Stat. 1840; Pub. L. 118–159, div. B, title XXV, § 2503, Dec. 23, 2024, 138 Stat. 2236.)
 
 **Editorial Notes**
 
@@ -1615,17 +1615,17 @@ Maximum amount of $1,000,000 for unspecified minor military construction project
 
 2024—Subsec. (b). Pub. L. 118–159 designated existing provisions as par. (1) and added par. (2).
 
-2017—Subsec. (c)(1). Pub. L. 115–91, § 2801(a)(4)(A), inserted “of Defense” after “The Secretary”.
+2017—Subsec. (c)(1). Pub. L. 115–91, § 2801(a)(4)(A), inserted “of Defense” after “The Secretary”.
 
-Subsec. (c)(2). Pub. L. 115–91, § 2801(a)(4)(B), substituted “, only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the increase, including the reasons for the increase and the source of the funds to be used for the increase.” for “(A) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of the funds to be used for the increase, and (B) after a period of 21 days has elapsed from the date of receipt of the report or, if earlier, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.”
+Subsec. (c)(2). Pub. L. 115–91, § 2801(a)(4)(B), substituted “, only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the increase, including the reasons for the increase and the source of the funds to be used for the increase.” for “(A) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of the funds to be used for the increase, and (B) after a period of 21 days has elapsed from the date of receipt of the report or, if earlier, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.”
 
 2011—Subsec. (c)(2)(B). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
 2009—Subsec. (c)(1). Pub. L. 111–84 substituted “section 2805(a)” for “section 2805(a)(2)”.
 
-1996—Pub. L. 104–201, § 2802(c)(1), substituted “Organizations Security Investment” for “Organization Infrastructure” in section catchline.
+1996—Pub. L. 104–201, § 2802(c)(1), substituted “Organizations Security Investment” for “Organization Infrastructure” in section catchline.
 
-Subsec. (b). Pub. L. 104–201, § 2802(a), substituted “Security Investment program” for “Infrastructure program”.
+Subsec. (b). Pub. L. 104–201, § 2802(a), substituted “Security Investment program” for “Infrastructure program”.
 
 1991—Subsec. (c)(2)(B). Pub. L. 102–190 substituted “after” for “after either” and struck out before period at end “or after each such committee has indicated approval of the increased contribution”.
 
@@ -1639,11 +1639,11 @@ Subsec. (b). Pub. L. 104–201, § 2802(a), substituted “Security Investment
 
 **Change of Name**
 
-Pub. L. 104–201, div. B, title XXVIII, § 2802(b), Sept. 23, 1996, 110 Stat. 2787, provided that: “Any reference to the North Atlantic Treaty Organization Infrastructure program in any Federal law, Executive order, regulation, delegation of authority, or document of or pertaining to the Department of Defense shall be deemed to refer to the North Atlantic Treaty Organization Security Investment program.”
+Pub. L. 104–201, div. B, title XXVIII, § 2802(b), Sept. 23, 1996, 110 Stat. 2787, provided that: “Any reference to the North Atlantic Treaty Organization Infrastructure program in any Federal law, Executive order, regulation, delegation of authority, or document of or pertaining to the Department of Defense shall be deemed to refer to the North Atlantic Treaty Organization Security Investment program.”
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. B, § 2003, Dec. 23, 2024, 138 Stat. 2212, provided that:
+Pub. L. 118–159, div. B, § 2003, Dec. 23, 2024, 138 Stat. 2212, provided that:
 
 > “Titles XXI through XXVII [of Pub. L. 118–159, amending this section and enacting provisions related to military construction authorizations not set out in the Code] shall take effect on the later of—
 
@@ -1653,7 +1653,7 @@ Pub. L. 118–159, div. B, § 2003, Dec. 23, 2024, 138 Stat. 2212, provided th
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. B, title V, § 2503(b), Nov. 14, 1986, 100 Stat. 4039, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to contributions made with funds appropriated for fiscal years after fiscal year 1986.”
+Pub. L. 99–661, div. B, title V, § 2503(b), Nov. 14, 1986, 100 Stat. 4039, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to contributions made with funds appropriated for fiscal years after fiscal year 1986.”
 
 **Effective Date**
 
@@ -1661,9 +1661,9 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Restriction on Certain Funding**
 
-Pub. L. 99–661, div. B, title V, § 2504, Nov. 14, 1986, 100 Stat. 4039, prohibited Secretary of Defense from obligating or expending any funds after fiscal year 1987 with respect to NATO infrastructure program under this section until Secretary submitted to Committees on Armed Services of Senate and House (1) a comprehensive master plan for establishing adequate active defenses for air bases in Europe at which operations of United States aircraft are planned, sites in Europe used by United States for logistic support of NATO or for prepositioned overseas matériel configured to unit sets, and (2) a report containing a certification by Secretary that sufficient funds have been budgeted by Department of Defense in fiscal year 1988 five-year defense plan to meet objectives of such comprehensive master plan.
+Pub. L. 99–661, div. B, title V, § 2504, Nov. 14, 1986, 100 Stat. 4039, prohibited Secretary of Defense from obligating or expending any funds after fiscal year 1987 with respect to NATO infrastructure program under this section until Secretary submitted to Committees on Armed Services of Senate and House (1) a comprehensive master plan for establishing adequate active defenses for air bases in Europe at which operations of United States aircraft are planned, sites in Europe used by United States for logistic support of NATO or for prepositioned overseas matériel configured to unit sets, and (2) a report containing a certification by Secretary that sufficient funds have been budgeted by Department of Defense in fiscal year 1988 five-year defense plan to meet objectives of such comprehensive master plan.
 
-### § 2807. Architectural and engineering services and construction design
+### § 2807. Architectural and engineering services and construction design
 
 **(a)** Within amounts appropriated for military construction and military family housing, the Secretary concerned may obtain architectural and engineering services and may carry out construction design in connection with military construction projects, family housing projects, and projects undertaken in connection with the authority provided under section 2854 of this title that are not otherwise authorized by law. Amounts available for such purposes may be used for construction management of projects that are funded by foreign governments directly or through international organizations and for which elements of the armed forces of the United States are the primary user.
 
@@ -1673,7 +1673,7 @@ Pub. L. 99–661, div. B, title V, § 2504, Nov. 14, 1986, 100 Stat. 4039, pro
 
 **(d)** For architectural and engineering services and construction design related to military construction and family housing projects, the Secretaries of the military departments may incur obligations for contracts or portions of contracts using military construction and family housing appropriations from different fiscal years to the extent that those appropriations are available for obligation.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 98–115, title VIII, § 804, Oct. 11, 1983, 97 Stat. 785; Pub. L. 99–661, div. B, title VII, §§ 2702(b), 2712(a), Nov. 14, 1986, 100 Stat. 4040, 4041; Pub. L. 102–190, div. B, title XXVIII, § 2870(6), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 105–261, div. B, title XXVIII, § 2801, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 108–136, div. A, title X, § 1031(a)(37), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(5), Dec. 12, 2017, 131 Stat. 1841; Pub. L. 119–60, div. B, title XXVIII, § 2872(b), Dec. 18, 2025, 139 Stat. 1328.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 98–115, title VIII, § 804, Oct. 11, 1983, 97 Stat. 785; Pub. L. 99–661, div. B, title VII, §§ 2702(b), 2712(a), Nov. 14, 1986, 100 Stat. 4040, 4041; Pub. L. 102–190, div. B, title XXVIII, § 2870(6), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 105–261, div. B, title XXVIII, § 2801, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 108–136, div. A, title X, § 1031(a)(37), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(5), Dec. 12, 2017, 131 Stat. 1841; Pub. L. 119–60, div. B, title XXVIII, § 2872(b), Dec. 18, 2025, 139 Stat. 1328.)
 
 **Editorial Notes**
 
@@ -1681,31 +1681,31 @@ Pub. L. 99–661, div. B, title V, § 2504, Nov. 14, 1986, 100 Stat. 4039, pro
 
 2025—Subsec. (b). Pub. L. 119–60 substituted “$5,000,000” for “$1,000,000”.
 
-2017—Subsec. (b). Pub. L. 115–91, § 2801(a)(5)(A), substituted “14-day period” for “21-day period” and struck out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided” after “received by the committees”.
+2017—Subsec. (b). Pub. L. 115–91, § 2801(a)(5)(A), substituted “14-day period” for “21-day period” and struck out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided” after “received by the committees”.
 
-Subsec. (c). Pub. L. 115–91, § 2801(a)(5)(B), substituted “only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the need for the increase, including the source of funds to be used for the increase.” for “(1) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of funds to be used for the increase, and (2) after a period of 21 days has elapsed from the date of receipt of the report or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.”
+Subsec. (c). Pub. L. 115–91, § 2801(a)(5)(B), substituted “only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the need for the increase, including the source of funds to be used for the increase.” for “(1) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of funds to be used for the increase, and (2) after a period of 21 days has elapsed from the date of receipt of the report or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.”
 
-2003—Subsec. (b). Pub. L. 108–136, § 1031(a)(37)(A), substituted “$1,000,000” for “$500,000”, struck out “not less than 21 days” after “of such services”, and inserted last sentence.
+2003—Subsec. (b). Pub. L. 108–136, § 1031(a)(37)(A), substituted “$1,000,000” for “$500,000”, struck out “not less than 21 days” after “of such services”, and inserted last sentence.
 
-Subsec. (c)(2). Pub. L. 108–136, § 1031(a)(37)(B), inserted before period at end “or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+Subsec. (c)(2). Pub. L. 108–136, § 1031(a)(37)(B), inserted before period at end “or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
-1998—Subsec. (b). Pub. L. 105–261, § 2801(a), substituted “$500,000” for “$300,000”.
+1998—Subsec. (b). Pub. L. 105–261, § 2801(a), substituted “$500,000” for “$300,000”.
 
-Subsec. (d). Pub. L. 105–261, § 2801(b), substituted “architectural and engineering services and construction design” for “study, planning, design, architectural, and engineering services”.
+Subsec. (d). Pub. L. 105–261, § 2801(b), substituted “architectural and engineering services and construction design” for “study, planning, design, architectural, and engineering services”.
 
 1991—Subsec. (c)(2). Pub. L. 102–190 substituted “after” for “after either” and struck out before period at end “or after each such committee has indicated approval of the increased level of activity”.
 
-1986—Subsec. (b). Pub. L. 99–661, § 2702(b), substituted “$300,000” for “the maximum amount specified by law for the purposes of this section”.
+1986—Subsec. (b). Pub. L. 99–661, § 2702(b), substituted “$300,000” for “the maximum amount specified by law for the purposes of this section”.
 
-Subsec. (d). Pub. L. 99–661, § 2712(a), added subsec. (d).
+Subsec. (d). Pub. L. 99–661, § 2712(a), added subsec. (d).
 
-1983—Subsec. (a). Pub. L. 98–115 substituted “Within amounts appropriated for military construction and military family housing” for “Within amounts appropriated for such purposes” and inserted “, family housing projects, and projects undertaken in connection with the authority provided under section 2854 of this title that are” after “in connection with military construction projects”.
+1983—Subsec. (a). Pub. L. 98–115 substituted “Within amounts appropriated for military construction and military family housing” for “Within amounts appropriated for such purposes” and inserted “, family housing projects, and projects undertaken in connection with the authority provided under section 2854 of this title that are” after “in connection with military construction projects”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. B, title VII, § 2712(b), Nov. 14, 1986, 100 Stat. 4041, provided that: “The amendment made by subsection (a) [amending this section] shall apply only to funds appropriated for fiscal years after fiscal year 1985.”
+Pub. L. 99–661, div. B, title VII, § 2712(b), Nov. 14, 1986, 100 Stat. 4041, provided that: “The amendment made by subsection (a) [amending this section] shall apply only to funds appropriated for fiscal years after fiscal year 1985.”
 
 **Effective Date**
 
@@ -1713,7 +1713,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Obligation and Execution of Design Funds for Military Construction Projects**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2811, Dec. 23, 2024, 138 Stat. 2252, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2811, Dec. 18, 2025, 139 Stat. 1301, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2811, Dec. 23, 2024, 138 Stat. 2252, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2811, Dec. 18, 2025, 139 Stat. 1301, provided that:
 
 > **“(a) In General.—** Not later than one year after amounts are appropriated for any fiscal year for the congressionally-directed design of a military construction project, the Secretary of Defense shall ensure that the construction agent responsible for such project enters into a contract pursuant to section 2807 of title 10, United States Code, for the obligation and execution of such amounts.
 
@@ -1733,11 +1733,11 @@ Pub. L. 118–159, div. B, title XXVIII, § 2811, Dec. 23, 2024, 138 Stat. 225
 
 **Architectural and Engineering Services and Construction Design Contracts for Military Construction Projects**
 
-Pub. L. 98–212, title VII, § 796, Dec. 8, 1983, 97 Stat. 1455, provided that: “No funds appropriated for the Departments of Defense, Army, Navy, or the Air Force shall be obligated by their respective Secretaries for architectural and engineering services and construction design contracts for Military Construction projects in the amount of $85,000 and over, unless competition for such contracts is open to all firms regardless of size in accordance with 40 U.S.C. § 541, et seq. [now chapter 11 of Title 40, Public Buildings, Property, and Works.]”
+Pub. L. 98–212, title VII, § 796, Dec. 8, 1983, 97 Stat. 1455, provided that: “No funds appropriated for the Departments of Defense, Army, Navy, or the Air Force shall be obligated by their respective Secretaries for architectural and engineering services and construction design contracts for Military Construction projects in the amount of $85,000 and over, unless competition for such contracts is open to all firms regardless of size in accordance with 40 U.S.C. § 541, et seq. [now chapter 11 of Title 40, Public Buildings, Property, and Works.]”
 
 **Small Business Set-Aside for Architectural and Engineering Services and Construction Design**
 
-Pub. L. 98–115, title VIII, § 806, Oct. 11, 1983, 97 Stat. 786, provided that:
+Pub. L. 98–115, title VIII, § 806, Oct. 11, 1983, 97 Stat. 786, provided that:
 
 > **“(a)** The Secretary of Defense shall conduct a comprehensive review of current policies and practices of the Department of Defense with regard to the award of contracts for architectural and engineering services and construction design for military construction projects. The Secretary shall conduct such review with a view to determining whether current policies and practices of the Department of Defense result in a reasonable distribution of such contracts to firms of all sizes throughout the architect-engineer community.
 
@@ -1759,7 +1759,7 @@ Pub. L. 98–115, title VIII, § 806, Oct. 11, 1983, 97 Stat. 786, provided th
 
 Amounts of $300,000 or more for contracts for architectural and engineering services or construction design subject to the reporting requirement under this section during the period beginning on Oct. 1, 1982, and ending on the date of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(2) of Pub. L. 97–214, set out as a note under section 2828 of this title.
 
-### § 2808. Construction authority in the event of a declaration of war or national emergency
+### § 2808. Construction authority in the event of a declaration of war or national emergency
 
 **(a) Construction Authorized.—** In the event of a declaration of war or the declaration by the President of a national emergency in accordance with the National Emergencies Act (50 U.S.C. 1601 et seq.) that requires use of the armed forces, the Secretary of Defense, without regard to any other provision of law, may undertake military construction projects, and may authorize the Secretaries of the military departments to undertake military construction projects, not otherwise authorized by law that are necessary to support such use of the armed forces.
 
@@ -1803,33 +1803,33 @@ Amounts of $300,000 or more for contracts for architectural and engineering serv
 
 **(f) Termination of Authority.—** The authority described in subsection (a) shall terminate with respect to any war or national emergency at the end of the war or national emergency.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 157; amended Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(6), Dec. 12, 2017, 131 Stat. 1841; Pub. L. 116–283, div. B, title XXVIII, § 2801(a)–(e), Jan. 1, 2021, 134 Stat. 4317–4319.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 157; amended Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(6), Dec. 12, 2017, 131 Stat. 1841; Pub. L. 116–283, div. B, title XXVIII, § 2801(a)–(e), Jan. 1, 2021, 134 Stat. 4317–4319.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act (50 U.S.C. 1601 et seq.), referred to in subsec. (a), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act (50 U.S.C. 1601 et seq.), referred to in subsec. (a), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 97–99, title IX, § 903, Dec. 23, 1981, 95 Stat. 1382, which was set out as a note under section 140 [now 127] of this title, prior to repeal by Pub. L. 97–214, § 7(18).
+Provisions similar to those in this section were contained in Pub. L. 97–99, title IX, § 903, Dec. 23, 1981, 95 Stat. 1382, which was set out as a note under section 140 [now 127] of this title, prior to repeal by Pub. L. 97–214, § 7(18).
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 2801(b), (e)(1), inserted heading and struck out “Such projects may be undertaken only within the total amount of funds that have been appropriated for military construction, including funds appropriated for family housing, that have not been obligated.” at end.
+2021—Subsec. (a). Pub. L. 116–283, § 2801(b), (e)(1), inserted heading and struck out “Such projects may be undertaken only within the total amount of funds that have been appropriated for military construction, including funds appropriated for family housing, that have not been obligated.” at end.
 
-Subsec. (b). Pub. L. 116–283, § 2801(b), added subsec. (b). Former subsec. (b) redesignated (e).
+Subsec. (b). Pub. L. 116–283, § 2801(b), added subsec. (b). Former subsec. (b) redesignated (e).
 
-Subsec. (c). Pub. L. 116–283, § 2801(a)(2), added subsec. (c). Former subsec. (c) redesignated (f).
+Subsec. (c). Pub. L. 116–283, § 2801(a)(2), added subsec. (c). Former subsec. (c) redesignated (f).
 
-Subsec. (d). Pub. L. 116–283, § 2801(c), added subsec. (d).
+Subsec. (d). Pub. L. 116–283, § 2801(c), added subsec. (d).
 
-Subsec. (e). Pub. L. 116–283, § 2801(a)(1), (d), (e)(2), redesignated subsec. (b) as (e), inserted heading and par. (1) designation before “When a decision”, substituted “of the following:” and subpars. (A) to (E) for “of the decision and of the estimated cost of the construction projects, including the cost of any real estate action pertaining to those construction projects.”, and added par. (2).
+Subsec. (e). Pub. L. 116–283, § 2801(a)(1), (d), (e)(2), redesignated subsec. (b) as (e), inserted heading and par. (1) designation before “When a decision”, substituted “of the following:” and subpars. (A) to (E) for “of the decision and of the estimated cost of the construction projects, including the cost of any real estate action pertaining to those construction projects.”, and added par. (2).
 
-Subsec. (f). Pub. L. 116–283, § 2801(a)(1), (e)(3), redesignated subsec. (c) as (f) and inserted heading.
+Subsec. (f). Pub. L. 116–283, § 2801(a)(1), (e)(3), redesignated subsec. (c) as (f) and inserted heading.
 
-2017—Subsec. (b). Pub. L. 115–91 inserted “, in an electronic medium pursuant to section 480 of this title,” after “shall notify”.
+2017—Subsec. (b). Pub. L. 115–91 inserted “, in an electronic medium pursuant to section 480 of this title,” after “shall notify”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1839,7 +1839,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Exception for Pandemic Mitigation and Response Projects**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2801(f), Jan. 1, 2021, 134 Stat. 4319, provided that: “Subsections (b), (c), (d) of section 2808 of title 10, United States Code, as added by this section, shall not apply to a military construction project commenced under the authority of subsection (a) of such section 2808 during the emergency period described in section 1135(g)(1)(B) of the Social Security Act (42 U.S.C. 1320b–5(g)(1)(B)) if the Secretary of Defense determines that the military construction project will directly support pandemic mitigation and response efforts of health care providers or support members of the Armed Forces directly participating in such pandemic mitigation and response efforts. Subsection (e) of section 2808 of title 10, United States Code, as redesignated by subsection (a)(1) and amended by subsection (d) of this section, shall still apply to any such military construction project.”
+Pub. L. 116–283, div. B, title XXVIII, § 2801(f), Jan. 1, 2021, 134 Stat. 4319, provided that: “Subsections (b), (c), (d) of section 2808 of title 10, United States Code, as added by this section, shall not apply to a military construction project commenced under the authority of subsection (a) of such section 2808 during the emergency period described in section 1135(g)(1)(B) of the Social Security Act (42 U.S.C. 1320b–5(g)(1)(B)) if the Secretary of Defense determines that the military construction project will directly support pandemic mitigation and response efforts of health care providers or support members of the Armed Forces directly participating in such pandemic mitigation and response efforts. Subsection (e) of section 2808 of title 10, United States Code, as redesignated by subsection (a)(1) and amended by subsection (d) of this section, shall still apply to any such military construction project.”
 
 **Executive Documents**
 
@@ -1855,7 +1855,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 George W. Bush.
 
-### § 2808a. Facility construction or repair: transactions other than contracts and grants
+### § 2808a. Facility construction or repair: transactions other than contracts and grants
 
 **(a) Authority.—** Subject to the requirements of section 2853 of this title, the Secretary concerned may enter into transactions (other than contracts, cooperative agreements, or grants) to carry out repair and construction projects for facilities, including the planning, design, engineering, prototyping, piloting, and execution of such repair and construction projects.
 
@@ -1901,7 +1901,7 @@ George W. Bush.
 
 **(6)** lessons learned and recommendations to improve the implementation, oversight, or scope of such authority.
 
-(Added Pub. L. 119–60, div. B, title XXVIII, § 2802(a), Dec. 18, 2025, 139 Stat. 1292.)
+(Added Pub. L. 119–60, div. B, title XXVIII, § 2802(a), Dec. 18, 2025, 139 Stat. 1292.)
 
 **Editorial Notes**
 
@@ -1913,9 +1913,9 @@ The date of enactment of this section, referred to in subsec. (e), is the date o
 
 **Effective Date**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2802(b), Dec. 18, 2025, 139 Stat. 1293, provided that: “The amendments made by this section [enacting this section] shall apply with respect to transactions entered into on or after the date of the enactment of this Act [Dec. 18, 2025].”
+Pub. L. 119–60, div. B, title XXVIII, § 2802(b), Dec. 18, 2025, 139 Stat. 1293, provided that: “The amendments made by this section [enacting this section] shall apply with respect to transactions entered into on or after the date of the enactment of this Act [Dec. 18, 2025].”
 
-### § 2809. Long-term facilities contracts for certain activities and services
+### § 2809. Long-term facilities contracts for certain activities and services
 
 **(a) Submission and Authorization of Proposed Projects.—** The Secretary concerned may enter into a contract for the procurement of services in connection with the construction, management, and operation of a facility on or near a military installation for the provision of an activity or service described in subsection (b) if—
 
@@ -1949,9 +1949,9 @@ Pub. L. 119–60, div. B, title XXVIII, § 2802(b), Dec. 18, 2025, 139 Stat. 1
 
 **(3)** A statement that such a commitment given under the authority of this section does not constitute an obligation of the United States.
 
-**(d) Competitive Procedures.—** Each contract entered into under this section shall be awarded through the use of competitive procedures as provided in chapter 137 1
+**(d) Competitive Procedures.—** Each contract entered into under this section shall be awarded through the use of competitive procedures as provided in chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. In accordance with such procedures, the Secretary concerned shall solicit bids or proposals for a contract for each project that has been authorized by law.
 
@@ -1959,13 +1959,13 @@ of this title. In accordance with such procedures, the Secretary concerned shall
 
 **(f) Notice and Wait Requirements.—** The Secretary concerned may enter into a contract under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the facility covered by the proposed contract, including an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost effective when compared with alternative means of furnishing the same facility.
 
-(Added Pub. L. 99–167, title VIII, § 811(a), Dec. 3, 1985, 99 Stat. 990; amended Pub. L. 99–661, div. A, title XIII, § 1343(a)(20), div. B, title VII, § 2711, Nov. 14, 1986, 100 Stat. 3994, 4041; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2302(a), (b), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 100–456, div. B, title XXVIII, § 2801, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, § 2803, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, § 2805(a)(1), Dec. 5, 1991, 105 Stat. 1537; Pub. L. 108–136, div. A, title X, § 1031(a)(38), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(7), Dec. 12, 2017, 131 Stat. 1841.)
+(Added Pub. L. 99–167, title VIII, § 811(a), Dec. 3, 1985, 99 Stat. 990; amended Pub. L. 99–661, div. A, title XIII, § 1343(a)(20), div. B, title VII, § 2711, Nov. 14, 1986, 100 Stat. 3994, 4041; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2302(a), (b), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 100–456, div. B, title XXVIII, § 2801, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, § 2803, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, § 2805(a)(1), Dec. 5, 1991, 105 Stat. 1537; Pub. L. 108–136, div. A, title X, § 1031(a)(38), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(7), Dec. 12, 2017, 131 Stat. 1841.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
 **Amendments**
 
@@ -1975,35 +1975,35 @@ Chapter 137 of this title, referred to in subsec. (d), was repealed by Pub. L. 1
 
 1991—Pub. L. 102–190 substituted section catchline for one which read “Test of long-term facilities contracts” and amended text generally, substituting present provisions for provisions authorizing contracts for construction, management, and operation of facilities on or near military installations for the provision of certain enumerated activities or services, setting out procedures, terms, and other limits for such contracts, providing that no more than 5 contracts may be entered into under this section other than contracts for child care centers, and providing that authority to enter into such contracts was to expire on Sept. 30, 1991.
 
-1989—Subsec. (a)(1)(B)(ii). Pub. L. 101–189, § 2803(1), substituted “Utilities, including potable” for “Potable”.
+1989—Subsec. (a)(1)(B)(ii). Pub. L. 101–189, § 2803(1), substituted “Utilities, including potable” for “Potable”.
 
-Subsec. (b). Pub. L. 101–189, § 2803(2), substituted “activities and services described in clause (i) or (ii) of subsection (a)(1)(B)” for “child care centers”.
+Subsec. (b). Pub. L. 101–189, § 2803(2), substituted “activities and services described in clause (i) or (ii) of subsection (a)(1)(B)” for “child care centers”.
 
-Subsec. (c). Pub. L. 101–189, § 2803(3), substituted “1991” for “1989”.
+Subsec. (c). Pub. L. 101–189, § 2803(3), substituted “1991” for “1989”.
 
 1988—Subsec. (a)(3). Pub. L. 100–456 substituted “32” for “20”.
 
-1987—Subsec. (a)(1)(B)(vi), (vii). Pub. L. 100–180, § 2302(a), added cl. (vi) and redesignated former cl. (vi) as (vii).
+1987—Subsec. (a)(1)(B)(vi), (vii). Pub. L. 100–180, § 2302(a), added cl. (vi) and redesignated former cl. (vi) as (vii).
 
-Subsec. (c). Pub. L. 100–180, § 2302(b), substituted “1989” for “1987”.
+Subsec. (c). Pub. L. 100–180, § 2302(b), substituted “1989” for “1987”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661, § 2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determines that the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
+1986—Subsec. (a)(1). Pub. L. 99–661, § 2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determines that the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
 
-Pub. L. 99–661, § 1343(a)(20)(A), substituted “a contract” for “contracts”, “a facility” for “facilities”, “a military installation” for “military installations”, “a case” for “cases”, “facility” for “facilities”, and “a long-term contract” for “long-term contracts” and inserted a comma after “waste water treatment”.
+Pub. L. 99–661, § 1343(a)(20)(A), substituted “a contract” for “contracts”, “a facility” for “facilities”, “a military installation” for “military installations”, “a case” for “cases”, “facility” for “facilities”, and “a long-term contract” for “long-term contracts” and inserted a comma after “waste water treatment”.
 
-Subsec. (a)(2). Pub. L. 99–661, § 1343(a)(20)(B), substituted “this section” for “subsection (a)”.
+Subsec. (a)(2). Pub. L. 99–661, § 1343(a)(20)(B), substituted “this section” for “subsection (a)”.
 
-Subsec. (a)(3). Pub. L. 99–661, § 1343(a)(20)(C), substituted “20” for “twenty”.
+Subsec. (a)(3). Pub. L. 99–661, § 1343(a)(20)(C), substituted “20” for “twenty”.
 
-Subsec. (a)(4)(A). Pub. L. 99–661, § 1343(a)(20)(D), struck out “the” before “Congress”.
+Subsec. (a)(4)(A). Pub. L. 99–661, § 1343(a)(20)(D), struck out “the” before “Congress”.
 
-Subsec. (b). Pub. L. 99–661, § 1343(a)(20)(E), struck out “the authority of subsection (a) of” after “under”.
+Subsec. (b). Pub. L. 99–661, § 1343(a)(20)(E), struck out “the authority of subsection (a) of” after “under”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–190, div B, title XXVIII, § 2805(b), Dec. 5, 1991, 105 Stat. 1538, provided that: “Section 2809 of title 10, United States Code, as amended by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div B, title XXVIII, § 2805(b), Dec. 5, 1991, 105 Stat. 1538, provided that: “Section 2809 of title 10, United States Code, as amended by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act [Dec. 5, 1991].”
 
 **Effective Date of 1988 Amendment**
 
@@ -2011,7 +2011,7 @@ Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 2702 of Pub. 
 
 **Demonstration Program on Reduction in Long-Term Facility Maintenance Costs**
 
-Pub. L. 107–107, div. B, title XXVIII, § 2814, Dec. 28, 2001, 115 Stat. 1310, as amended by Pub. L. 107–314, div. B, title XXVIII, § 2813(a)–(d)(1), Dec. 2, 2002, 116 Stat. 2709, 2710, provided that:
+Pub. L. 107–107, div. B, title XXVIII, § 2814, Dec. 28, 2001, 115 Stat. 1310, as amended by Pub. L. 107–314, div. B, title XXVIII, § 2813(a)–(d)(1), Dec. 2, 2002, 116 Stat. 2709, 2710, provided that:
 
 > **“(a) Authority To Carry Out Program.—** The Secretary of Defense or the Secretary of a military department may conduct a demonstration program to assess the feasibility and desirability of including facility maintenance requirements in construction contracts for military construction projects for the purpose of determining whether such requirements facilitate reductions in the long-term facility maintenance costs of the military departments.
 
@@ -2035,13 +2035,13 @@ Pub. L. 107–107, div. B, title XXVIII, § 2814, Dec. 28, 2001, 115 Stat. 131
 
 > **“(f) Funding.—** Amounts authorized to be appropriated for the military departments or defense-wide for a fiscal year for military construction shall be available for the demonstration program under this section in such fiscal year.”
 
-[Pub. L. 107–314, div. B, title XXVIII, § 2813(d)(2), Dec. 2, 2002, 116 Stat. 2710, provided that: “The amendment made by paragraph (1) [amending section 2814(f) of Pub. L. 107–107, set out above] shall not affect the availability for the purpose of the demonstration program under section 2814 of the Military Construction Authorization Act for Fiscal Year 2002, as amended by this section, of any amounts authorized to be appropriated before the date of the enactment of this Act [Dec. 2, 2002] for the Army for military construction that have been obligated for the demonstration program, but not expended, as of that date.” ]
+[Pub. L. 107–314, div. B, title XXVIII, § 2813(d)(2), Dec. 2, 2002, 116 Stat. 2710, provided that: “The amendment made by paragraph (1) [amending section 2814(f) of Pub. L. 107–107, set out above] shall not affect the availability for the purpose of the demonstration program under section 2814 of the Military Construction Authorization Act for Fiscal Year 2002, as amended by this section, of any amounts authorized to be appropriated before the date of the enactment of this Act [Dec. 2, 2002] for the Army for military construction that have been obligated for the demonstration program, but not expended, as of that date.” ]
 
 **Report**
 
-Pub. L. 100–180, div. B, subdiv. 3, title I, § 2302(c), Dec. 4, 1987, 101 Stat. 1215, directed each Secretary who has entered into a contract under this section to submit a report to Committees on Armed Services of Senate and House of Representatives by Feb. 15, 1989, containing date and duration of, other party to, and nature of activities carried out under each such contract, and recommendations, and reasons therefor, concerning whether authority to enter into contracts under this section should be extended.
+Pub. L. 100–180, div. B, subdiv. 3, title I, § 2302(c), Dec. 4, 1987, 101 Stat. 1215, directed each Secretary who has entered into a contract under this section to submit a report to Committees on Armed Services of Senate and House of Representatives by Feb. 15, 1989, containing date and duration of, other party to, and nature of activities carried out under each such contract, and recommendations, and reasons therefor, concerning whether authority to enter into contracts under this section should be extended.
 
-### § 2810. Military construction projects for innovation, research, development, test, and evaluation
+### § 2810. Military construction projects for innovation, research, development, test, and evaluation
 
 **(a) Project Authorization Required.—** The Secretary of Defense may carry out such military construction projects for innovation, research, development, test, and evaluation as are authorized by law, using funds appropriated or otherwise made available for that purpose.
 
@@ -2141,17 +2141,17 @@ Pub. L. 100–180, div. B, subdiv. 3, title I, § 2302(c), Dec. 4, 1987, 101 S
 
 **(B)** In the case of architectural and engineering services and construction design to be undertaken under this paragraph for which the estimated cost exceeds $4,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 117–263, div. B, title XXVIII, § 2805(a), Dec. 23, 2022, 136 Stat. 2994; amended Pub. L. 118–159, div. B, title XXVIII, § 2806(a), Dec. 23, 2024, 138 Stat. 2249; Pub. L. 119–60, div. B, title XXVIII, § 2873, Dec. 18, 2025, 139 Stat. 1328.)
+(Added Pub. L. 117–263, div. B, title XXVIII, § 2805(a), Dec. 23, 2022, 136 Stat. 2994; amended Pub. L. 118–159, div. B, title XXVIII, § 2806(a), Dec. 23, 2024, 138 Stat. 2249; Pub. L. 119–60, div. B, title XXVIII, § 2873, Dec. 18, 2025, 139 Stat. 1328.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 2805(g) of this title, which was transferred to this section and redesignated subsec. (f) by Pub. L. 119–60, § 2873, was based on Pub. L. Pub. L. 117–263, div. B, title XXVIII, § 2803(a), Dec. 23, 2022, 136 Stat. 2992; Pub. L. 118–159, div. B, title XXVIII, § 2805, Dec. 23, 2024, 138 Stat. 2249.
+The text of section 2805(g) of this title, which was transferred to this section and redesignated subsec. (f) by Pub. L. 119–60, § 2873, was based on Pub. L. Pub. L. 117–263, div. B, title XXVIII, § 2803(a), Dec. 23, 2022, 136 Stat. 2992; Pub. L. 118–159, div. B, title XXVIII, § 2805, Dec. 23, 2024, 138 Stat. 2249.
 
 **Prior Provisions**
 
-A prior section 2810, added Pub. L. 99–499, title II, § 211(b)(1), Oct. 17, 1986, 100 Stat. 1725, related to military construction projects for environmental response actions, prior to repeal by Pub. L. 107–314, div. A, title III, § 313(b), Dec. 2, 2002, 116 Stat. 2507.
+A prior section 2810, added Pub. L. 99–499, title II, § 211(b)(1), Oct. 17, 1986, 100 Stat. 1725, related to military construction projects for environmental response actions, prior to repeal by Pub. L. 107–314, div. A, title III, § 313(b), Dec. 2, 2002, 116 Stat. 2507.
 
 **Amendments**
 
@@ -2163,11 +2163,11 @@ A prior section 2810, added Pub. L. 99–499, title II, § 211(b)(1), Oct. 17,
 
 **Deadline**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2806(b), Dec. 23, 2024, 138 Stat. 2250, provided that: “The first plan required under subsection (e) of such section [meaning 10 U.S.C. 2810] (as amended by subsection (a)) shall be submitted as part of the annual budget submission of the President to Congress pursuant to section 1105(a) of title 31, United States Code, for fiscal year 2027.”
+Pub. L. 118–159, div. B, title XXVIII, § 2806(b), Dec. 23, 2024, 138 Stat. 2250, provided that: “The first plan required under subsection (e) of such section [meaning 10 U.S.C. 2810] (as amended by subsection (a)) shall be submitted as part of the annual budget submission of the President to Congress pursuant to section 1105(a) of title 31, United States Code, for fiscal year 2027.”
 
 **Guidance for Military Construction Projects for Innovation, Research, Development, Test, and Evaluation**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2815, Dec. 18, 2025, 139 Stat. 1303, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2815, Dec. 18, 2025, 139 Stat. 1303, provided that:
 
 > **“(a) Guidance Required.—** Not later than 120 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall issue written guidance on the implementation of section 2810 of title 10, United States Code.
 
@@ -2187,7 +2187,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2815, Dec. 18, 2025, 139 Stat. 1303
 
 > **“(C)** explicit documentation of budget programming action decisions of the Secretary of the military department with jurisdiction over such project.”
 
-### § 2811. Repair of facilities
+### § 2811. Repair of facilities
 
 **(a) Repairs Using Operations and Maintenance Funds.—** Using funds available to the Secretary concerned for operation and maintenance, the Secretary concerned may carry out repair projects for an entire single-purpose facility or one or more functional areas of a multipurpose facility.
 
@@ -2209,23 +2209,23 @@ Pub. L. 119–60, div. B, title XXVIII, § 2815, Dec. 18, 2025, 139 Stat. 1303
 
 **(2)** to convert a real property facility, system, or component to a new functional purpose without increasing its external dimensions.
 
-(Added Pub. L. 99–661, div. A, title III, § 315(a), Nov. 14, 1986, 100 Stat. 3854, § 2810; renumbered § 2811, Pub. L. 100–26, § 7(e)(3), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 103–337, div. B, title XXVIII, § 2801(a), Oct. 5, 1994, 108 Stat. 3050; Pub. L. 105–85, div. B, title XXVIII, § 2802, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 108–375, div. B, title XXVIII, § 2801, Oct. 28, 2004, 118 Stat. 2119; Pub. L. 111–84, div. B, title XXVIII, § 2802, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 114–328, div. B, title XXVIII, § 2802, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(8), Dec. 12, 2017, 131 Stat. 1841.)
+(Added Pub. L. 99–661, div. A, title III, § 315(a), Nov. 14, 1986, 100 Stat. 3854, § 2810; renumbered § 2811, Pub. L. 100–26, § 7(e)(3), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 103–337, div. B, title XXVIII, § 2801(a), Oct. 5, 1994, 108 Stat. 3050; Pub. L. 105–85, div. B, title XXVIII, § 2802, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 108–375, div. B, title XXVIII, § 2801, Oct. 28, 2004, 118 Stat. 2119; Pub. L. 111–84, div. B, title XXVIII, § 2802, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 114–328, div. B, title XXVIII, § 2802, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(8), Dec. 12, 2017, 131 Stat. 1841.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (d). Pub. L. 115–91 inserted “, in an electronic medium pursuant to section 480 of this title,” after “shall submit” in introductory provisions.
+2017—Subsec. (d). Pub. L. 115–91 inserted “, in an electronic medium pursuant to section 480 of this title,” after “shall submit” in introductory provisions.
 
 2016—Subsec. (e). Pub. L. 114–328 amended subsec. (e) generally. Prior to amendment, text read as follows: “In this section, the term ‘repair project’ means a project to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose.”
 
 2009—Subsec. (d)(2), (3). Pub. L. 111–84 added pars. (2) and (3) and struck out former par. (2) which read as follows: “the justification for carrying out the project under this section.”
 
-2004—Subsec. (b). Pub. L. 108–375, § 2801(a), substituted “$7,500,000” for “$5,000,000”.
+2004—Subsec. (b). Pub. L. 108–375, § 2801(a), substituted “$7,500,000” for “$5,000,000”.
 
-Subsec. (d). Pub. L. 108–375, § 2801(b), substituted “$7,500,000” for “$10,000,000” in introductory provisions.
+Subsec. (d). Pub. L. 108–375, § 2801(b), substituted “$7,500,000” for “$10,000,000” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 108–375, § 2801(c), inserted before semicolon “, including, in the case of a multi-year repair project to a single facility, the total cost of all phases of the project”.
+Subsec. (d)(1). Pub. L. 108–375, § 2801(c), inserted before semicolon “, including, in the case of a multi-year repair project to a single facility, the total cost of all phases of the project”.
 
 1997—Subsecs. (d), (e). Pub. L. 105–85 added subsecs. (d) and (e).
 
@@ -2237,7 +2237,7 @@ Subsec. (d)(1). Pub. L. 108–375, § 2801(c), inserted before semicolon “,�
 
 “(c) Construction of new facilities or additions to existing facilities may not be carried out under the authority of this section.”
 
-### § 2812. Lease-purchase of facilities
+### § 2812. Lease-purchase of facilities
 
 **(a)**
 
@@ -2283,7 +2283,7 @@ Subsec. (d)(1). Pub. L. 108–375, § 2801(c), inserted before semicolon “,�
 
 **(d)** Each lease entered into under this section shall include a provision that the obligation of the United States to make payments under the lease in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 101–189, div. B, title XXVIII, § 2809(a), Nov. 29, 1989, 103 Stat. 1649; amended Pub. L. 101–510, div. B, title XXVIII, § 2864, Nov. 5, 1990, 104 Stat. 1806; Pub. L. 108–136, div. A, title X, § 1031(a)(39), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(9), Dec. 12, 2017, 131 Stat. 1841.)
+(Added Pub. L. 101–189, div. B, title XXVIII, § 2809(a), Nov. 29, 1989, 103 Stat. 1649; amended Pub. L. 101–510, div. B, title XXVIII, § 2864, Nov. 5, 1990, 104 Stat. 1806; Pub. L. 108–136, div. A, title X, § 1031(a)(39), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(9), Dec. 12, 2017, 131 Stat. 1841.)
 
 **Editorial Notes**
 
@@ -2295,7 +2295,7 @@ Subsec. (d)(1). Pub. L. 108–375, § 2801(c), inserted before semicolon “,�
 
 1990—Subsec. (a)(2)(I). Pub. L. 101–510 added subpar. (I).
 
-### § 2813. Acquisition of existing facilities in lieu of authorized construction
+### § 2813. Acquisition of existing facilities in lieu of authorized construction
 
 **(a) Acquisition Authority.—** Using funds appropriated for a military construction project authorized by law for a military installation, the Secretary of the military department concerned may acquire an existing facility (including the real property on which the facility is located) at or near the military installation instead of carrying out the authorized military construction project if the Secretary determines that—
 
@@ -2315,7 +2315,7 @@ Subsec. (d)(1). Pub. L. 108–375, § 2801(c), inserted before semicolon “,�
 
 **(c) Notice and Wait Requirements.—** A contract may not be entered into for the acquisition of a facility under subsection (a) until the Secretary concerned notifies the appropriate committees of Congress of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility. After the notification is transmitted, the Secretary may then enter into the contract only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 103–160, div. B, title XXVIII, § 2805(a)(1), Nov. 30, 1993, 107 Stat. 1886; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(25), Feb. 10, 1996, 110 Stat. 506; Pub. L. 108–136, div. A, title X, § 1031(a)(40), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 109–163, div. B, title XXVIII, § 2801(b), Jan. 6, 2006, 119 Stat. 3504; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(10), Dec. 12, 2017, 131 Stat. 1841.)
+(Added Pub. L. 103–160, div. B, title XXVIII, § 2805(a)(1), Nov. 30, 1993, 107 Stat. 1886; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(25), Feb. 10, 1996, 110 Stat. 506; Pub. L. 108–136, div. A, title X, § 1031(a)(40), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 109–163, div. B, title XXVIII, § 2801(b), Jan. 6, 2006, 119 Stat. 3504; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(10), Dec. 12, 2017, 131 Stat. 1841.)
 
 **Editorial Notes**
 
@@ -2333,9 +2333,9 @@ Subsec. (d)(1). Pub. L. 108–375, § 2801(c), inserted before semicolon “,�
 
 **Effective Date**
 
-Pub. L. 103–160, div. B, title XXVIII, § 2805(b), Nov. 30, 1993, 107 Stat. 1887, provided that: “Section 2813 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects authorized on or after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. B, title XXVIII, § 2805(b), Nov. 30, 1993, 107 Stat. 1887, provided that: “Section 2813 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects authorized on or after the date of the enactment of this Act [Nov. 30, 1993].”
 
-### § 2814. Special authority for development of Ford Island, Hawaii
+### § 2814. Special authority for development of Ford Island, Hawaii
 
 **(a) In General.—**
 
@@ -2447,13 +2447,13 @@ Pub. L. 103–160, div. B, title XXVIII, § 2805(b), Nov. 30, 1993, 107 Stat. 
 
 **(2)** Any other service determined by the Secretary to be a service that supports the operation and maintenance of real property, personal property, or facilities.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, § 2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(16)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, § 1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, § 3(b)(18), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–383, div. B, title XXVIII, § 2803(c), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(11), Dec. 12, 2017, 131 Stat. 1842.)
+(Added Pub. L. 106–65, div. B, title XXVIII, § 2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(16)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, § 1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, § 3(b)(18), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–383, div. B, title XXVIII, § 2803(c), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(11), Dec. 12, 2017, 131 Stat. 1842.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (k), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (k), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 **Amendments**
 
@@ -2467,7 +2467,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 2000—Subsec. (k). Pub. L. 106–398 inserted “and” after “Balanced Budget”.
 
-### § 2815. Military installation resilience projects
+### § 2815. Military installation resilience projects
 
 **(a) Projects Required.—** The Secretary of Defense shall carry out military construction projects, including unspecified minor military construction projects not otherwise authorized by law, for military installation resilience, in accordance with—
 
@@ -2527,27 +2527,27 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 **(3)** Such other information as the Secretary considers appropriate.
 
-(Added Pub. L. 116–92, div. B, title XXVIII, § 2801(b)(1), Dec. 20, 2019, 133 Stat. 1880; amended Pub. L. 116–283, div. A, title III, § 315(a), Jan. 1, 2021, 134 Stat. 3514; Pub. L. 118–31, div. B, title XXVIII, § 2804, Dec. 22, 2023, 137 Stat. 744; Pub. L. 119–60, div. B, title XXVIII, § 2874, Dec. 18, 2025, 139 Stat. 1329.)
+(Added Pub. L. 116–92, div. B, title XXVIII, § 2801(b)(1), Dec. 20, 2019, 133 Stat. 1880; amended Pub. L. 116–283, div. A, title III, § 315(a), Jan. 1, 2021, 134 Stat. 3514; Pub. L. 118–31, div. B, title XXVIII, § 2804, Dec. 22, 2023, 137 Stat. 744; Pub. L. 119–60, div. B, title XXVIII, § 2874, Dec. 18, 2025, 139 Stat. 1329.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2815, added Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2801(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–412; amended Pub. L. 107–314, div. A, title X, § 1062(a)(14), Dec. 2, 2002, 116 Stat. 2650, related to annual evaluation of joint use military construction projects, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(23)(A), Dec. 31, 2011, 125 Stat. 1584.
+A prior section 2815, added Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2801(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–412; amended Pub. L. 107–314, div. A, title X, § 1062(a)(14), Dec. 2, 2002, 116 Stat. 2650, related to annual evaluation of joint use military construction projects, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(23)(A), Dec. 31, 2011, 125 Stat. 1584.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60 inserted “, including unspecified minor military construction projects not otherwise authorized by law,” after “military construction projects” and substituted “in accordance with—” and pars. (1) and (2) for “in accordance with section 2802 of this title (except as provided in subsections (d)(3) and (e)).”
+2025—Subsec. (a). Pub. L. 119–60 inserted “, including unspecified minor military construction projects not otherwise authorized by law,” after “military construction projects” and substituted “in accordance with—” and pars. (1) and (2) for “in accordance with section 2802 of this title (except as provided in subsections (d)(3) and (e)).”
 
 2023—Subsec. (e)(3). Pub. L. 118–31 substituted “$125,000,000” for “$100,000,000”.
 
-2021—Subsec. (a). Pub. L. 116–283, § 315(a)(1), inserted “(except as provided in subsections (d)(3) and (e))” before period at end.
+2021—Subsec. (a). Pub. L. 116–283, § 315(a)(1), inserted “(except as provided in subsections (d)(3) and (e))” before period at end.
 
-Subsec. (c). Pub. L. 116–283, § 315(a)(2), substituted “Except as provided in subsection (e)(2), a project” for “A project”.
+Subsec. (c). Pub. L. 116–283, § 315(a)(2), substituted “Except as provided in subsection (e)(2), a project” for “A project”.
 
-Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-### § 2815a. Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads
+### § 2815a. Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads
 
 **(a) Projects Authorized.—** The Secretary concerned may carry out one or more of the following projects on or related to a military installation:
 
@@ -2649,45 +2649,45 @@ Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) 
 
 **(6)** The term “water resilience” means the capacity of a military installation to mitigate, respond, or adapt to changes in water availability due to manmade or natural phenomena.
 
-(Added Pub. L. 117–81, div. B, title XXVIII, § 2803, Dec. 27, 2021, 135 Stat. 2186; amended Pub. L. 118–159, div. B, title XXVIII, § 2847, Dec. 23, 2024, 138 Stat. 2264.)
+(Added Pub. L. 117–81, div. B, title XXVIII, § 2803, Dec. 27, 2021, 135 Stat. 2186; amended Pub. L. 118–159, div. B, title XXVIII, § 2847, Dec. 23, 2024, 138 Stat. 2264.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 2847(a)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation”.
+2024—Pub. L. 118–159, § 2847(a)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation”.
 
-Subsec. (a). Pub. L. 118–159, § 2847(a)(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned may carry out a stormwater management project on or related to a military installation for the purpose of—
+Subsec. (a). Pub. L. 118–159, § 2847(a)(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned may carry out a stormwater management project on or related to a military installation for the purpose of—
 
 “(1) improving military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting the military installation; and
 
 “(2) protecting nearby waterways and stormwater-stressed ecosystems.”
 
-Subsec. (b). Pub. L. 118–159, § 2847(a)(3)(A), struck out “stormwater management” before “project under this section” in introductory provisions.
+Subsec. (b). Pub. L. 118–159, § 2847(a)(3)(A), struck out “stormwater management” before “project under this section” in introductory provisions.
 
-Subsec. (b)(5) to (8). Pub. L. 118–159, § 2847(a)(3)(B), (C), added par.(5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+Subsec. (b)(5) to (8). Pub. L. 118–159, § 2847(a)(3)(B), (C), added par.(5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
-Subsec. (c). Pub. L. 118–159, § 2847(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “In selecting stormwater management projects to be carried out under this section, the Secretary concerned shall give a priority to project proposals involving the retrofitting of buildings and grounds on a military installation or retrofitting a defense access road to reduce stormwater runoff and ponding or standing water that includes the combination of stormwater runoff and water levels resulting from extreme weather conditions.”
+Subsec. (c). Pub. L. 118–159, § 2847(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “In selecting stormwater management projects to be carried out under this section, the Secretary concerned shall give a priority to project proposals involving the retrofitting of buildings and grounds on a military installation or retrofitting a defense access road to reduce stormwater runoff and ponding or standing water that includes the combination of stormwater runoff and water levels resulting from extreme weather conditions.”
 
-Subsec. (d). Pub. L. 118–159, § 2847(a)(5)(A), struck out “stormwater management” before “project” in introductory provisions.
+Subsec. (d). Pub. L. 118–159, § 2847(a)(5)(A), struck out “stormwater management” before “project” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 118–159, § 2847(a)(5)(B), substituted “, retention, or filtration measures to address storm water management” for “and retention measures”.
+Subsec. (d)(1). Pub. L. 118–159, § 2847(a)(5)(B), substituted “, retention, or filtration measures to address storm water management” for “and retention measures”.
 
-Subsec. (d)(4), (5). Pub. L. 118–159, § 2847(a)(5)(C), added pars. (4) and (5).
+Subsec. (d)(4), (5). Pub. L. 118–159, § 2847(a)(5)(C), added pars. (4) and (5).
 
-Subsec. (e). Pub. L. 118–159, § 2847(a)(6), designated existing provisions as par. (1), struck out “stormwater management” before “project carried”, substituted “section 2391, 2684,” for “section 2391(d),”, and added par. (2).
+Subsec. (e). Pub. L. 118–159, § 2847(a)(6), designated existing provisions as par. (1), struck out “stormwater management” before “project carried”, substituted “section 2391, 2684,” for “section 2391(d),”, and added par. (2).
 
-Subsec. (f)(1)(A). Pub. L. 118–159, § 2847(a)(7)(A), struck out “stormwater management” before “projects”.
+Subsec. (f)(1)(A). Pub. L. 118–159, § 2847(a)(7)(A), struck out “stormwater management” before “projects”.
 
-Subsec. (f)(2). Pub. L. 118–159, § 2847(a)(7)(A), struck out “stormwater management” before “project” in introductory provisions.
+Subsec. (f)(2). Pub. L. 118–159, § 2847(a)(7)(A), struck out “stormwater management” before “project” in introductory provisions.
 
-Subsec. (f)(2)(B)(iii), (iv). Pub. L. 118–159, § 2847(a)(7)(B), added cls. (iii) and (iv).
+Subsec. (f)(2)(B)(iii), (iv). Pub. L. 118–159, § 2847(a)(7)(B), added cls. (iii) and (iv).
 
-Subsec. (g)(4). Pub. L. 118–159, § 2847(b), substituted “section 101” for “section 101(e)(8)”.
+Subsec. (g)(4). Pub. L. 118–159, § 2847(b), substituted “section 101” for “section 101(e)(8)”.
 
-Subsec. (g)(6). Pub. L. 118–159, § 2847(a)(8), added par. (6).
+Subsec. (g)(6). Pub. L. 118–159, § 2847(a)(8), added par. (6).
 
-### § 2816. Consideration of energy security and energy resilience in life-cycle cost for military construction
+### § 2816. Consideration of energy security and energy resilience in life-cycle cost for military construction
 
 **(a) In General.—**
 
@@ -2723,9 +2723,9 @@ Subsec. (g)(6). Pub. L. 118–159, § 2847(a)(8), added par. (6).
 
 **(J)** Satellite and missile launch and control facilities.
 
-(Added Pub. L. 116–283, div. B, title XXVIII, § 2804(a), Jan. 1, 2021, 134 Stat. 4320.)
+(Added Pub. L. 116–283, div. B, title XXVIII, § 2804(a), Jan. 1, 2021, 134 Stat. 4320.)
 
-### § 2817. Authority for certain construction projects in friendly foreign countries
+### § 2817. Authority for certain construction projects in friendly foreign countries
 
 **(a) Construction Authorized.—** Using funds available for operations and maintenance, the Secretary of Defense may carry out a construction project in a friendly foreign country, and perform planning and design to support such a project, that the Secretary determines meets each of the following conditions:
 
@@ -2775,9 +2775,9 @@ Subsec. (g)(6). Pub. L. 118–159, § 2847(a)(8), added par. (6).
 
 **(2)** the Committee on Armed Services and the Subcommittee on Defense and the Subcommittee on Military Construction, Veterans Affairs, and Related Agencies of the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 118–31, div. B, title XXVIII, § 2805, Dec. 22, 2023, 137 Stat. 744.)
+(Added Pub. L. 118–31, div. B, title XXVIII, § 2805, Dec. 22, 2023, 137 Stat. 744.)
 
-### § 2818. Contracts for design and construction of facilities of Department of Defense
+### § 2818. Contracts for design and construction of facilities of Department of Defense
 
 **(a) In General.—** The head of an element of the Department of Defense (as defined in section 111(b) of this title) may award a contract to any other such element for the design and construction of facilities of the Department of Defense, including facility maintenance and repair projects and unspecified minor military construction projects under section 2805 of this title, on a reimbursable basis.
 
@@ -2785,7 +2785,7 @@ Subsec. (g)(6). Pub. L. 118–159, § 2847(a)(8), added par. (6).
 
 **(c) Limitation.—** An awardee of a contract under subsection (a) may include an amount equal to not more than 10 percent of the proposed value of the contract for contingency expenses.
 
-(Added Pub. L. 118–159, div. B, title XXVIII, § 2843, Dec. 23, 2024, 138 Stat. 2263; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(18), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 118–159, div. B, title XXVIII, § 2843, Dec. 23, 2024, 138 Stat. 2263; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(18), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
@@ -2793,7 +2793,7 @@ Subsec. (g)(6). Pub. L. 118–159, § 2847(a)(8), added par. (6).
 
 2025—Subsec. (a). Pub. L. 119–60 substituted “contract” for “contact”.
 
-### § 2819. Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance
+### § 2819. Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance
 
 **(a) Strategy for Demolition.—** Each Secretary concerned shall develop a strategy to demolish facilities under the respective jurisdiction of each such Secretary that—
 
@@ -2853,7 +2853,7 @@ Subsec. (g)(6). Pub. L. 118–159, § 2847(a)(8), added par. (6).
 
 **(ii)** the total cost to the United States to maintain the facilities covered by the assessment required by subsection (b) of such section.
 
-(Added Pub. L. 118–159, div. B, title XXVIII, § 2822(a), Dec. 23, 2024, 138 Stat. 2254; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(19), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 118–159, div. B, title XXVIII, § 2822(a), Dec. 23, 2024, 138 Stat. 2254; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(19), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
@@ -2865,7 +2865,7 @@ Section 2838 of the National Defense Authorization Act for Fiscal Year 2024, ref
 
 2025—Subsec. (e). Pub. L. 119–60 inserted “the” before “congressional defense committees”.
 
-### § 2820. Development of infrastructure improvement plan for each military department
+### § 2820. Development of infrastructure improvement plan for each military department
 
 **(a) In General.—** Not later than the date on which the budget of the President for fiscal year 2027 is submitted to Congress pursuant to section 1105 of title 31, and once every five years thereafter, each Secretary concerned shall submit to the congressional defense committees each of the following:
 
@@ -2905,7 +2905,7 @@ Section 2838 of the National Defense Authorization Act for Fiscal Year 2024, ref
 
 **(2)** submit to the congressional defense committees, not later than the date on which the Secretary concerned submits the plan and certification to such committees, an unaltered copy of the results of such assessment.
 
-(Added Pub. L. 119–60, div. B, title XXVIII, § 2803, Dec. 18, 2025, 139 Stat. 1293.)
+(Added Pub. L. 119–60, div. B, title XXVIII, § 2803, Dec. 18, 2025, 139 Stat. 1293.)
 
 ## SUBCHAPTER II—MILITARY FAMILY HOUSING
 
@@ -2913,29 +2913,29 @@ Section 2838 of the National Defense Authorization Act for Fiscal Year 2024, ref
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. B, title XXVIII, § 2826(d), Dec. 18, 2025, 139 Stat. 1310, struck out item 2839 “Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army”. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. B, title XXVIII, § 2826(d), Dec. 18, 2025, 139 Stat. 1310, struck out item 2839 “Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army”. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. B, title XXVIII, § 2823(b), Dec. 23, 2024, 138 Stat. 2256, which directed amendment of the analysis for this chapter by adding item 2839, was executed to the analysis for this subchapter, to reflect the probable intent of Congress.
+2024—Pub. L. 118–159, div. B, title XXVIII, § 2823(b), Dec. 23, 2024, 138 Stat. 2256, which directed amendment of the analysis for this chapter by adding item 2839, was executed to the analysis for this subchapter, to reflect the probable intent of Congress.
 
-2022—Pub. L. 117–263, div. B, title XXVIII, § 2821(a), Dec. 23, 2022, 136 Stat. 2999, added item 2837. Amendment was made pursuant to operation of section 102 of this title.
+2022—Pub. L. 117–263, div. B, title XXVIII, § 2821(a), Dec. 23, 2022, 136 Stat. 2999, added item 2837. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 116–283, div. B, title XXVIII, § 2812(b), Jan. 1, 2021, 134 Stat. 4327, struck out item 2830 “Occupancy of substandard family housing units”.
+2021—Pub. L. 116–283, div. B, title XXVIII, § 2812(b), Jan. 1, 2021, 134 Stat. 4327, struck out item 2830 “Occupancy of substandard family housing units”.
 
-2013—Pub. L. 113–66, div. B, title XXVIII, § 2802(a)(2), Dec. 26, 2013, 127 Stat. 1006, struck out item 2837 “Limited partnerships with private developers of housing”.
+2013—Pub. L. 113–66, div. B, title XXVIII, § 2802(a)(2), Dec. 26, 2013, 127 Stat. 1006, struck out item 2837 “Limited partnerships with private developers of housing”.
 
-2008—Pub. L. 110–417, div. B, title XXVIII, §§ 2803(b), 2804(b), Oct. 14, 2008, 122 Stat. 4720, 4721, added items 2835a and 2838.
+2008—Pub. L. 110–417, div. B, title XXVIII, §§ 2803(b), 2804(b), Oct. 14, 2008, 122 Stat. 4720, 4721, added items 2835a and 2838.
 
-2006—Pub. L. 109–364, div. B, title XXVIII, § 2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 “Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing”.
+2006—Pub. L. 109–364, div. B, title XXVIII, § 2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 “Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing”.
 
-2000—Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2803(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted “Military family housing: local comparability of room patterns and floor areas” for “Limitations on space by pay grade” in item 2826.
+2000—Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2803(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted “Military family housing: local comparability of room patterns and floor areas” for “Limitations on space by pay grade” in item 2826.
 
-1994—Pub. L. 103–337, div. B, title XXVIII, § 2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
+1994—Pub. L. 103–337, div. B, title XXVIII, § 2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
 
-1991—Pub. L. 102–190, div. B, title XXVIII, §§ 2806(a)(2), 2809(a)(2), Dec. 5, 1991, 105 Stat. 1540, 1543, added items 2835 and 2836.
+1991—Pub. L. 102–190, div. B, title XXVIII, §§ 2806(a)(2), 2809(a)(2), Dec. 5, 1991, 105 Stat. 1540, 1543, added items 2835 and 2836.
 
-1985—Pub. L. 99–167, title VIII, §§ 804(b)(2), 808(b), Dec. 3, 1985, 99 Stat. 987, 989, added items 2833 and 2834.
+1985—Pub. L. 99–167, title VIII, §§ 804(b)(2), 808(b), Dec. 3, 1985, 99 Stat. 987, 989, added items 2833 and 2834.
 
-### § 2821. Requirement for authorization of appropriations for construction and acquisition of military family housing
+### § 2821. Requirement for authorization of appropriations for construction and acquisition of military family housing
 
 **(a)** Except as provided in subsection (b), funds may not be appropriated for the construction, acquisition, leasing, addition, extension, expansion, alteration, relocation, or operation and maintenance of family housing under the jurisdiction of the Department of Defense unless the appropriation of such funds has been authorized by law.
 
@@ -2955,7 +2955,7 @@ Section 2838 of the National Defense Authorization Act for Fiscal Year 2024, ref
 
 **(e)** The Secretary concerned shall provide for the installation and maintenance of an appropriate number of carbon monoxide detectors in each unit of military family housing under the jurisdiction of the Secretary.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 157; amended Pub. L. 99–145, title XIII, § 1303(a)(18), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–167, title VIII, § 804(a), Dec. 3, 1985, 99 Stat. 987; Pub. L. 116–92, div. B, title XXX, § 3031, Dec. 20, 2019, 133 Stat. 1936.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 157; amended Pub. L. 99–145, title XIII, § 1303(a)(18), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–167, title VIII, § 804(a), Dec. 3, 1985, 99 Stat. 987; Pub. L. 116–92, div. B, title XXX, § 3031, Dec. 20, 2019, 133 Stat. 1936.)
 
 **Editorial Notes**
 
@@ -2975,7 +2975,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Pilot Program for Emerging Technologies for Moisture Control and Mitigation**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2829, Dec. 18, 2025, 139 Stat. 1312, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2829, Dec. 18, 2025, 139 Stat. 1312, provided that:
 
 > **“(a) Establishment.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall carry out a pilot program to assess and implement emerging technologies for moisture control and mitigation in covered housing.
 
@@ -3017,7 +3017,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2829, Dec. 18, 2025, 139 Stat. 1312
 
 **Inspections by Qualified Home Inspector of Privatized and Government-Owned Military Housing**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2831, Dec. 18, 2025, 139 Stat. 1314, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2831, Dec. 18, 2025, 139 Stat. 1314, provided that:
 
 > **“(a) Establishment of Independent Inspection Protocol.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall establish a standardized inspection and audit program for privatized military housing and Government-owned military housing that provides for such inspections and audits to be conducted by an independent qualified home inspector.
 
@@ -3061,7 +3061,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2831, Dec. 18, 2025, 139 Stat. 1314
 
 **Implementation of Comptroller General Recommendations Relating to Critical Military Housing Supply and Affordability**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2852, Dec. 18, 2025, 139 Stat. 1322, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2852, Dec. 18, 2025, 139 Stat. 1322, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], and except as provided in subsection (c), the Secretary of Defense shall implement each recommendation of the Comptroller General of the United States contained in the report dated October 30, 2024, and entitled ‘Military Housing: DOD Should Address Critical Supply and Affordability Challenges for Service Members’ (GAO–25–106208), as those recommendations are modified under subsection (b).
 
@@ -3095,7 +3095,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2852, Dec. 18, 2025, 139 Stat. 1322
 
 **Inclusion of Questions Regarding Military Housing for Members of the Armed Forces in Status of Forces Survey**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2824, Dec. 22, 2023, 137 Stat. 752, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2824, Dec. 22, 2023, 137 Stat. 752, provided that:
 
 > “The Secretary of Defense shall include, at a minimum, in each status of forces survey of the Department of Defense conducted on or after the date of the enactment of this Act [Dec. 22, 2023] questions specifically relating to the following:
 
@@ -3109,7 +3109,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2824, Dec. 22, 2023, 137 Stat. 752,
 
 **Pilot Program for Military Construction Projects To Replace Certain Covered Military Unaccompanied Housing Facilities**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2835, Dec. 22, 2023, 137 Stat. 758, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2835, Dec. 22, 2023, 137 Stat. 758, provided that:
 
 > **“(a) In General.—** Each Secretary of a military department may carry out a pilot program under which each such Secretary administers a military construction project, not otherwise authorized by law, to replace a covered military unaccompanied housing facility—
 
@@ -3151,7 +3151,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2835, Dec. 22, 2023, 137 Stat. 758,
 
 **Pilot Program To Provide Air Purification Technology in Covered Military Housing**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2873, Dec. 22, 2023, 137 Stat. 777, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2873, Dec. 22, 2023, 137 Stat. 777, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may carry out a pilot program to—
 
@@ -3191,11 +3191,11 @@ Pub. L. 118–31, div. B, title XXVIII, § 2873, Dec. 22, 2023, 137 Stat. 777,
 
 **Requirement That Secretary of Defense Implement Recommendations Relating to Military Family Housing Contained in Report by Inspector General of Department of Defense**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2815, Jan. 1, 2021, 134 Stat. 4328, provided that: “Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall implement the recommendations of the Inspector General of the Department of Defense contained in the report of the Inspector General dated April 30, 2020, and entitled ‘Evaluation of the DoD’s Management of Health and Safety Hazards in Government-Owned and Government-Controlled Military Family Housing’.”
+Pub. L. 116–283, div. B, title XXVIII, § 2815, Jan. 1, 2021, 134 Stat. 4328, provided that: “Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall implement the recommendations of the Inspector General of the Department of Defense contained in the report of the Inspector General dated April 30, 2020, and entitled ‘Evaluation of the DoD’s Management of Health and Safety Hazards in Government-Owned and Government-Controlled Military Family Housing’.”
 
 **Tool for Assessment of Hazards in Department of Defense Housing**
 
-Pub. L. 116–92, div. B, title XXX, § 3052, Dec. 20, 2019, 133 Stat. 1942, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3052, Dec. 20, 2019, 133 Stat. 1942, provided that:
 
 > **“(a) Hazard Assessment Tool.—**
 
@@ -3225,9 +3225,9 @@ Pub. L. 116–92, div. B, title XXX, § 3052, Dec. 20, 2019, 133 Stat. 1942, p
 
 **Process To Identify and Address Environmental Health Hazards in Department of Defense Housing**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2817, Jan. 1, 2021, 134 Stat. 4329, provided that: “As part of the process developed by the Secretary of Defense pursuant to section 3053 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1943; 10 U.S.C. 2821 note) [set out below] to identify, record, and resolve environmental health hazards in military housing, the Secretary shall promulgate guidance regarding situations in which the presence of mold in a unit of housing under the jurisdiction of the Department of Defense (including privatized military housing) is an emergency situation requiring the relocation of the residents of the unit.”
+Pub. L. 116–283, div. B, title XXVIII, § 2817, Jan. 1, 2021, 134 Stat. 4329, provided that: “As part of the process developed by the Secretary of Defense pursuant to section 3053 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1943; 10 U.S.C. 2821 note) [set out below] to identify, record, and resolve environmental health hazards in military housing, the Secretary shall promulgate guidance regarding situations in which the presence of mold in a unit of housing under the jurisdiction of the Department of Defense (including privatized military housing) is an emergency situation requiring the relocation of the residents of the unit.”
 
-Pub. L. 116–92, div. B, title XXX, § 3053, Dec. 20, 2019, 133 Stat. 1943, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3053, Dec. 20, 2019, 133 Stat. 1943, provided that:
 
 > **“(a) Process Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop a process to identify, record, and resolve environmental health hazards in housing under the jurisdiction of the Department of Defense (including privatized housing) in a timely manner.
 
@@ -3255,7 +3255,7 @@ Pub. L. 116–92, div. B, title XXX, § 3053, Dec. 20, 2019, 133 Stat. 1943, p
 
 **Satisfaction Survey for Tenants of Military Housing**
 
-Pub. L. 116–92, div. B, title XXX, § 3058, Dec. 20, 2019, 133 Stat. 1945, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3058, Dec. 20, 2019, 133 Stat. 1945, provided that:
 
 > **“(a) Survey Required.—** Not later than March 1, 2020, the Secretary of Defense shall require that each installation of the Department of Defense use the same satisfaction survey for tenants of military housing, including privatized military housing.
 
@@ -3271,7 +3271,7 @@ Pub. L. 116–92, div. B, title XXX, § 3058, Dec. 20, 2019, 133 Stat. 1945, p
 
 **Department of the Army Pilot Program To Build and Monitor Use of Single Family Homes**
 
-Pub. L. 116–92, div. B, title XXX, § 3064, Dec. 20, 2019, 133 Stat. 1947, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3064, Dec. 20, 2019, 133 Stat. 1947, provided that:
 
 > **“(a) In General.—** The Secretary of the Army shall carry out a pilot program to build and monitor the use of not fewer than five single family homes for members of the Army and their families.
 
@@ -3281,7 +3281,7 @@ Pub. L. 116–92, div. B, title XXX, § 3064, Dec. 20, 2019, 133 Stat. 1947, p
 
 **Mitigation of Risks Posed by Certain Items in Military Family Housing Units**
 
-Pub. L. 116–92, div. B, title XXX, § 3062, Dec. 20, 2019, 133 Stat. 1946, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3062, Dec. 20, 2019, 133 Stat. 1946, provided that:
 
 > **“(a) Anchoring of Items by Residents.—** The Secretary of Defense shall allow a resident of a military family housing unit to anchor any furniture, television, or large appliance to the wall of the unit for purposes of preventing such item from tipping over without incurring a penalty or obligation to repair the wall upon vacating the unit.
 
@@ -3291,7 +3291,7 @@ Pub. L. 116–92, div. B, title XXX, § 3062, Dec. 20, 2019, 133 Stat. 1946, p
 
 > **“(2) New units.—** The Secretary of Defense shall ensure that all freestanding chests, door chests, armoires, dressers, entertainment centers, bookcases taller than 27 inches, televisions, and large appliances provided by the Department of Defense are securely anchored in each furnished military family housing unit made available after the date of the enactment of this Act.”
 
-Pub. L. 114–328, div. A, title III, § 345, Dec. 23, 2016, 130 Stat. 2085, provided that:
+Pub. L. 114–328, div. A, title III, § 345, Dec. 23, 2016, 130 Stat. 2085, provided that:
 
 > **“(a) Removal of Certain Window Coverings.—** Not later than three years after the date of enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall remove and replace disqualified window coverings from—
 
@@ -3309,71 +3309,71 @@ Pub. L. 114–328, div. A, title III, § 345, Dec. 23, 2016, 130 Stat. 2085, p
 
 **Repair and Maintenance of Family Housing Units**
 
-Pub. L. 119–37, div. D, title I, § 119, Nov. 12, 2025, 139 Stat. 597, provided that: “Notwithstanding any other provision of law, funds made available in this title [see Tables for classification] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: *Provided*, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: *Provided further*, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
+Pub. L. 119–37, div. D, title I, § 119, Nov. 12, 2025, 139 Stat. 597, provided that: “Notwithstanding any other provision of law, funds made available in this title [see Tables for classification] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: *Provided*, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: *Provided further*, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–42, div. A, title I, § 119, Mar. 9, 2024, 138 Stat. 34.
+Pub. L. 118–42, div. A, title I, § 119, Mar. 9, 2024, 138 Stat. 34.
 
-Pub. L. 117–328, div. J, title I, § 119, Dec. 29, 2022, 136 Stat. 4945.
+Pub. L. 117–328, div. J, title I, § 119, Dec. 29, 2022, 136 Stat. 4945.
 
-Pub. L. 117–103, div. J, title I, § 119, Mar. 15, 2022, 136 Stat. 535.
+Pub. L. 117–103, div. J, title I, § 119, Mar. 15, 2022, 136 Stat. 535.
 
-Pub. L. 116–260, div. J, title I, § 119, Dec. 27, 2020, 134 Stat. 1661.
+Pub. L. 116–260, div. J, title I, § 119, Dec. 27, 2020, 134 Stat. 1661.
 
-Pub. L. 116–94, div. F, title I, § 119, Dec. 20, 2019, 133 Stat. 2785.
+Pub. L. 116–94, div. F, title I, § 119, Dec. 20, 2019, 133 Stat. 2785.
 
-Pub. L. 115–244, div. C, title I, § 119, Sept. 21, 2018, 132 Stat. 2952.
+Pub. L. 115–244, div. C, title I, § 119, Sept. 21, 2018, 132 Stat. 2952.
 
-Pub. L. 115–141, div. J, title I, § 119, Mar. 23, 2018, 132 Stat. 802.
+Pub. L. 115–141, div. J, title I, § 119, Mar. 23, 2018, 132 Stat. 802.
 
-Pub. L. 114–223, div. A, title I, § 119, Sept. 29, 2016, 130 Stat. 864.
+Pub. L. 114–223, div. A, title I, § 119, Sept. 29, 2016, 130 Stat. 864.
 
-Pub. L. 114–113, div. J, title I, § 119, Dec. 18, 2015, 129 Stat. 2681.
+Pub. L. 114–113, div. J, title I, § 119, Dec. 18, 2015, 129 Stat. 2681.
 
-Pub. L. 113–235, div. I, title I, § 121, Dec. 16, 2014, 128 Stat. 2550.
+Pub. L. 113–235, div. I, title I, § 121, Dec. 16, 2014, 128 Stat. 2550.
 
-Pub. L. 113–76, div. J, title I, § 121, Jan. 17, 2014, 128 Stat. 445.
+Pub. L. 113–76, div. J, title I, § 121, Jan. 17, 2014, 128 Stat. 445.
 
-Pub. L. 113–6, div. E, title I, § 121, Mar. 26, 2013, 127 Stat. 391.
+Pub. L. 113–6, div. E, title I, § 121, Mar. 26, 2013, 127 Stat. 391.
 
-Pub. L. 112–74, div. H, title I, § 121, Dec. 23, 2011, 125 Stat. 1144.
+Pub. L. 112–74, div. H, title I, § 121, Dec. 23, 2011, 125 Stat. 1144.
 
-Pub. L. 111–117, div. E, title I, § 123, Dec. 16, 2009, 123 Stat. 3295.
+Pub. L. 111–117, div. E, title I, § 123, Dec. 16, 2009, 123 Stat. 3295.
 
-Pub. L. 110–329, div. E, title I, § 123, Sept. 30, 2008, 122 Stat. 3700.
+Pub. L. 110–329, div. E, title I, § 123, Sept. 30, 2008, 122 Stat. 3700.
 
-Pub. L. 110–161, div. I, title I, § 123, Dec. 26, 2007, 121 Stat. 2261.
+Pub. L. 110–161, div. I, title I, § 123, Dec. 26, 2007, 121 Stat. 2261.
 
-Pub. L. 109–114, title I, § 124, Nov. 30, 2005, 119 Stat. 2380, as amended by Pub. L. 109–148, div. B, title V, § 5013, Dec. 30, 2005, 119 Stat. 2815.
+Pub. L. 109–114, title I, § 124, Nov. 30, 2005, 119 Stat. 2380, as amended by Pub. L. 109–148, div. B, title V, § 5013, Dec. 30, 2005, 119 Stat. 2815.
 
-Pub. L. 108–324, div. A, § 124, Oct. 13, 2004, 118 Stat. 1228.
+Pub. L. 108–324, div. A, § 124, Oct. 13, 2004, 118 Stat. 1228.
 
-Pub. L. 108–132, § 125, Nov. 22, 2003, 117 Stat. 1382.
+Pub. L. 108–132, § 125, Nov. 22, 2003, 117 Stat. 1382.
 
-Pub. L. 107–249, § 127, Oct. 23, 2002, 116 Stat. 1586.
+Pub. L. 107–249, § 127, Oct. 23, 2002, 116 Stat. 1586.
 
-Pub. L. 107–64, § 127, Nov. 5, 2001, 115 Stat. 482.
+Pub. L. 107–64, § 127, Nov. 5, 2001, 115 Stat. 482.
 
-Pub. L. 106–246, div. A, § 127, July 13, 2000, 114 Stat. 518.
+Pub. L. 106–246, div. A, § 127, July 13, 2000, 114 Stat. 518.
 
-Pub. L. 106–52, § 128, Aug. 17, 1999, 113 Stat. 267.
+Pub. L. 106–52, § 128, Aug. 17, 1999, 113 Stat. 267.
 
 **Pilot Program for Military Family Housing**
 
-Pub. L. 100–180, div. B, subdiv. 3, title II, § 2321, Dec. 4, 1987, 101 Stat. 1218, required Secretary of Defense, using $1,000,000 of funds appropriated pursuant to authorization in subsection (a)(10)(B) of section 2145 of Pub. L. 100–180, to establish and carry out, during fiscal years 1988, 1989, and 1990, a pilot program for purpose of assisting units of general local government to increase amount of affordable family housing available to military personnel; required Secretary, establishing and carrying out such programs, to select at least five units of general local government severely impacted by presence of military bases and personnel; set forth criteria for selection of units of general local government, authority to make grants, cooperative agreements, etc., and uses of available funds; and required Secretary to report to Committees on Armed Services of Senate and House no later than Mar. 15 of 1988, 1989, 1990, and 1991 with respect to activities carried out under this section.
+Pub. L. 100–180, div. B, subdiv. 3, title II, § 2321, Dec. 4, 1987, 101 Stat. 1218, required Secretary of Defense, using $1,000,000 of funds appropriated pursuant to authorization in subsection (a)(10)(B) of section 2145 of Pub. L. 100–180, to establish and carry out, during fiscal years 1988, 1989, and 1990, a pilot program for purpose of assisting units of general local government to increase amount of affordable family housing available to military personnel; required Secretary, establishing and carrying out such programs, to select at least five units of general local government severely impacted by presence of military bases and personnel; set forth criteria for selection of units of general local government, authority to make grants, cooperative agreements, etc., and uses of available funds; and required Secretary to report to Committees on Armed Services of Senate and House no later than Mar. 15 of 1988, 1989, 1990, and 1991 with respect to activities carried out under this section.
 
 **Military Housing Rental Guarantee Program**
 
-Pub. L. 98–115, title VIII, § 802, Oct. 11, 1983, 97 Stat. 783, as amended by Pub. L. 98–407, title VIII, § 806(b), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, § 801(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. B, title VII, § 2713(a), Nov. 14, 1986, 100 Stat. 4042; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2307, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–189, div. B, title XXVIII, § 2801, Nov. 29, 1989, 103 Stat. 1646; Pub. L. 101–510, div. B, title XXVIII, § 2811, Nov. 5, 1990, 104 Stat. 1788, provided for agreements and contracts relating to military housing rental guarantee program, prior to repeal by Pub. L. 102–190, div. B, title XXVIII, § 2809(b), (c), Dec. 5, 1991, 105 Stat. 1543, such repeal not to affect the validity of any contract entered into before Dec. 5, 1991, under section 802 of Pub. L. 98–115 as in effect on Dec. 4, 1991. See section 2836 of this title.
+Pub. L. 98–115, title VIII, § 802, Oct. 11, 1983, 97 Stat. 783, as amended by Pub. L. 98–407, title VIII, § 806(b), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, § 801(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. B, title VII, § 2713(a), Nov. 14, 1986, 100 Stat. 4042; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2307, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–189, div. B, title XXVIII, § 2801, Nov. 29, 1989, 103 Stat. 1646; Pub. L. 101–510, div. B, title XXVIII, § 2811, Nov. 5, 1990, 104 Stat. 1788, provided for agreements and contracts relating to military housing rental guarantee program, prior to repeal by Pub. L. 102–190, div. B, title XXVIII, § 2809(b), (c), Dec. 5, 1991, 105 Stat. 1543, such repeal not to affect the validity of any contract entered into before Dec. 5, 1991, under section 802 of Pub. L. 98–115 as in effect on Dec. 4, 1991. See section 2836 of this title.
 
 **Family Housing Constructed Overseas**
 
-Pub. L. 98–115, title VIII, § 803, Oct. 11, 1983, 97 Stat. 784, as amended by Pub. L. 98–407, title VIII, § 812, Aug. 28, 1984, 98 Stat. 1524; Pub. L. 101–510, div. A, title XIII, § 1302(f), Nov. 5, 1990, 104 Stat. 1669, provided that any contract entered into for the construction of military family housing for the Department of Defense in a foreign country was to require the use of housing fabricated in the United States by a United States contractor or, in the case of concrete housing, the use of housing produced in a plant that was fabricated in the United States by a United States company, and for which the materials, fixtures, and equipment used in the construction (other than cement, sand, and aggregates) were manufactured in the United States, prior to repeal by Pub. L. 107–314, div. B, title XXVIII, § 2804, Dec. 2, 2002, 116 Stat. 2705.
+Pub. L. 98–115, title VIII, § 803, Oct. 11, 1983, 97 Stat. 784, as amended by Pub. L. 98–407, title VIII, § 812, Aug. 28, 1984, 98 Stat. 1524; Pub. L. 101–510, div. A, title XIII, § 1302(f), Nov. 5, 1990, 104 Stat. 1669, provided that any contract entered into for the construction of military family housing for the Department of Defense in a foreign country was to require the use of housing fabricated in the United States by a United States contractor or, in the case of concrete housing, the use of housing produced in a plant that was fabricated in the United States by a United States company, and for which the materials, fixtures, and equipment used in the construction (other than cement, sand, and aggregates) were manufactured in the United States, prior to repeal by Pub. L. 107–314, div. B, title XXVIII, § 2804, Dec. 2, 2002, 116 Stat. 2705.
 
 **Definitions**
 
-Pub. L. 116–92, div. B, title XXX, § 3001(a), Dec. 20, 2019, 133 Stat. 1916, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2827, Dec. 23, 2024, 138 Stat. 2258, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3001(a), Dec. 20, 2019, 133 Stat. 1916, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2827, Dec. 23, 2024, 138 Stat. 2258, provided that:
 
 > “In this title [see Tables for classification]:
 
@@ -3383,7 +3383,7 @@ Pub. L. 116–92, div. B, title XXX, § 3001(a), Dec. 20, 2019, 133 Stat. 1916
 
 > **“(3)** The term ‘tenant’ means a member of the armed forces, including a reserve component thereof in an active status, or a dependent of a member of the armed forces who resides at a housing unit, is a party to a lease for a housing unit, or is authorized to act on behalf of the member under subchapters IV and V of chapter 169 of title 10, United States Code, in the event of the assignment or deployment of a member.”
 
-### § 2822. Requirement for authorization of number of family housing units
+### § 2822. Requirement for authorization of number of family housing units
 
 **(a)** Except as otherwise provided in subsection (b) or as otherwise authorized by law, the Secretary concerned may not construct or acquire military family housing units unless the number of units to be constructed or acquired has been specifically authorized by law.
 
@@ -3401,7 +3401,7 @@ Pub. L. 116–92, div. B, title XXX, § 3001(a), Dec. 20, 2019, 133 Stat. 1916
 
 **(6)** Housing units constructed or provided under section 2869 of this title.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 158; amended Pub. L. 98–525, title XIV, § 1405(44), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2308, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–510, div. A, title XIII, § 1301(17), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–25, title VII, § 701(j)(9), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. B, title XXVIII, § 2802(b), Oct. 23, 1992, 106 Stat. 2606; Pub. L. 108–136, div. B, title XXVIII, § 2805(b), Nov. 24, 2003, 117 Stat. 1721.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 158; amended Pub. L. 98–525, title XIV, § 1405(44), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2308, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–510, div. A, title XIII, § 1301(17), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–25, title VII, § 701(j)(9), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. B, title XXVIII, § 2802(b), Oct. 23, 1992, 106 Stat. 2606; Pub. L. 108–136, div. B, title XXVIII, § 2805(b), Nov. 24, 2003, 117 Stat. 1721.)
 
 **Editorial Notes**
 
@@ -3429,11 +3429,11 @@ Pub. L. 116–92, div. B, title XXX, § 3001(a), Dec. 20, 2019, 133 Stat. 1916
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### [§ 2823. Repealed. Pub. L. 109–364, div. B, title XXVIII, § 2803(a), Oct. 17, 2006, 120 Stat. 2467]
+### [§ 2823. Repealed. Pub. L. 109–364, div. B, title XXVIII, § 2803(a), Oct. 17, 2006, 120 Stat. 2467]
 
-Section, added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 158; amended Pub. L. 105–85, div. A, title X, § 1041(b), Nov. 18, 1997, 111 Stat. 1885, related to determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing.
+Section, added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 158; amended Pub. L. 105–85, div. A, title X, § 1041(b), Nov. 18, 1997, 111 Stat. 1885, related to determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing.
 
-### § 2824. Authorization for acquisition of existing family housing in lieu of construction
+### § 2824. Authorization for acquisition of existing family housing in lieu of construction
 
 **(a)** In lieu of constructing any family housing units authorized by law to be constructed, the Secretary concerned may acquire sole interest in existing family housing units that are privately owned or that are held by the Department of Housing and Urban Development, except that in foreign countries the Secretary concerned may acquire less than sole interest in existing family housing units.
 
@@ -3443,7 +3443,7 @@ Section, added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 158; amended
 
 **(d)** Family housing units may not be acquired under this section through the exercise of eminent domain authority.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 104–106, div. B, title XXVIII, § 2813, Feb. 10, 1996, 110 Stat. 553; Pub. L. 104–201, div. A, title X, § 1074(a)(17), Sept. 23, 1996, 110 Stat. 2659.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 104–106, div. B, title XXVIII, § 2813, Feb. 10, 1996, 110 Stat. 553; Pub. L. 104–201, div. A, title X, § 1074(a)(17), Sept. 23, 1996, 110 Stat. 2659.)
 
 **Editorial Notes**
 
@@ -3459,7 +3459,7 @@ Pub. L. 104–106 inserted at end “The Secretary concerned may waive the limit
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2825. Improvements to family housing units
+### § 2825. Improvements to family housing units
 
 **(a)**
 
@@ -3505,17 +3505,17 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **(d)** This section does not apply to projects authorized for restoration or replacement of housing units that have been damaged or destroyed.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 99–661, div. B, title VII, § 2702(c), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2305, Dec. 4, 1987, 101 Stat. 1215; Pub. L. 101–189, div. B, title XXVIII, § 2804, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 101–510, div. B, title XXVIII, § 2812, Nov. 5, 1990, 104 Stat. 1788; Pub. L. 102–484, div. B, title XXVIII, § 2802(a), Oct. 23, 1992, 106 Stat. 2605; Pub. L. 103–337, div. B, title XXVIII, § 2802, Oct. 5, 1994, 108 Stat. 3050; Pub. L. 104–106, div. A, title XV, § 1502(a)(26), Feb. 10, 1996, 110 Stat. 506; Pub. L. 104–201, div. B, title XXVIII, § 2803, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2802], Oct. 30, 2000, 114 Stat. 1654, 1654A–413; Pub. L. 108–136, div. A, title X, § 1031(a)(41), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 112–81, div. A, title X, § 1061(24), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(1), Dec. 12, 2017, 131 Stat. 1842.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 99–661, div. B, title VII, § 2702(c), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2305, Dec. 4, 1987, 101 Stat. 1215; Pub. L. 101–189, div. B, title XXVIII, § 2804, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 101–510, div. B, title XXVIII, § 2812, Nov. 5, 1990, 104 Stat. 1788; Pub. L. 102–484, div. B, title XXVIII, § 2802(a), Oct. 23, 1992, 106 Stat. 2605; Pub. L. 103–337, div. B, title XXVIII, § 2802, Oct. 5, 1994, 108 Stat. 3050; Pub. L. 104–106, div. A, title XV, § 1502(a)(26), Feb. 10, 1996, 110 Stat. 506; Pub. L. 104–201, div. B, title XXVIII, § 2803, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2802], Oct. 30, 2000, 114 Stat. 1654, 1654A–413; Pub. L. 108–136, div. A, title X, § 1031(a)(41), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 112–81, div. A, title X, § 1061(24), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(1), Dec. 12, 2017, 131 Stat. 1842.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (b)(1), (2). Pub. L. 115–91, § 2801(b)(1)(C), redesignated second and third sentences of par. (1) as par. (2) and, in par. (2), substituted “contained in paragraph (1)” for “contained in the preceding sentence” and “the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.” for “the Secretary transmits a notice of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective, to the appropriate committees of Congress and a period of 21 days has elapsed after the date on which the notification is received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.” Former par. (2) redesignated (3).
+2017—Subsec. (b)(1), (2). Pub. L. 115–91, § 2801(b)(1)(C), redesignated second and third sentences of par. (1) as par. (2) and, in par. (2), substituted “contained in paragraph (1)” for “contained in the preceding sentence” and “the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.” for “the Secretary transmits a notice of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective, to the appropriate committees of Congress and a period of 21 days has elapsed after the date on which the notification is received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.” Former par. (2) redesignated (3).
 
-Subsec. (b)(3), (4). Pub. L. 115–91, § 2801(b)(1)(A), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+Subsec. (b)(3), (4). Pub. L. 115–91, § 2801(b)(1)(A), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 115–91, § 2801(b)(1)(A), (B), redesignated par. (4) as (5), struck out “the first sentence of” before “paragraph (1)”, and substituted “in that paragraph” for “in that sentence”.
+Subsec. (b)(5). Pub. L. 115–91, § 2801(b)(1)(A), (B), redesignated par. (4) as (5), struck out “the first sentence of” before “paragraph (1)”, and substituted “in that paragraph” for “in that sentence”.
 
 2011—Subsec. (c)(1). Pub. L. 112–81 inserted “and” at end of subpar. (A), substituted period for semicolon at end of subpar. (B), and struck out subpars. (C) and (D), which read as follows:
 
@@ -3527,17 +3527,17 @@ Subsec. (b)(5). Pub. L. 115–91, § 2801(b)(1)(A), (B), redesignated par. (4)
 
 “(D) a period of 21 days elapses after the date on which the Secretary submits the notice required by subparagraph (C) or, if over sooner, a period of 14 days elapses after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.”
 
-2003—Subsec. (b)(1). Pub. L. 108–136, § 1031(a)(41)(A), struck out “(i)” before “such Secretary determines” and substituted period and last sentence for “, and (ii) a period of 21 days elapses after the date on which the appropriate committees of Congress receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.”.
+2003—Subsec. (b)(1). Pub. L. 108–136, § 1031(a)(41)(A), struck out “(i)” before “such Secretary determines” and substituted period and last sentence for “, and (ii) a period of 21 days elapses after the date on which the appropriate committees of Congress receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.”.
 
-Subsec. (c)(1)(D). Pub. L. 108–136, § 1031(a)(41)(B), inserted before period at end “or, if over sooner, a period of 14 days elapses after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title”.
+Subsec. (c)(1)(D). Pub. L. 108–136, § 1031(a)(41)(B), inserted before period at end “or, if over sooner, a period of 14 days elapses after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title”.
 
 2000—Subsec. (b)(3), (4). Pub. L. 106–398 added par. (3) and redesignated former par. (3) as (4).
 
-1996—Subsec. (a)(2). Pub. L. 104–201, § 2803(a), inserted “major” before “maintenance or repair” and “Such term does not include day-to-day maintenance and repair work.” at end.
+1996—Subsec. (a)(2). Pub. L. 104–201, § 2803(a), inserted “major” before “maintenance or repair” and “Such term does not include day-to-day maintenance and repair work.” at end.
 
 Subsec. (b)(1). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives”.
 
-Subsec. (b)(2). Pub. L. 104–201, § 2803(b), added par. (2) and struck out former par. (2) which read as follows: “In determining the applicability of the limitation contained in paragraph (1), there shall be included as part of the cost of the improvement the cost of repairs undertaken in connection with the improvement and any cost in connection with (A) the furnishing of electricity, gas, water and sewage disposal, (B) the construction or repair of roads and walks, and (C) grading and drainage work.”
+Subsec. (b)(2). Pub. L. 104–201, § 2803(b), added par. (2) and struck out former par. (2) which read as follows: “In determining the applicability of the limitation contained in paragraph (1), there shall be included as part of the cost of the improvement the cost of repairs undertaken in connection with the improvement and any cost in connection with (A) the furnishing of electricity, gas, water and sewage disposal, (B) the construction or repair of roads and walks, and (C) grading and drainage work.”
 
 1994—Subsec. (b)(3). Pub. L. 103–337 added par. (3).
 
@@ -3561,7 +3561,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Provision of Adequate Storage Space To Secure Personal Property Outside of Assigned Military Family Housing Unit**
 
-Pub. L. 109–364, div. A, title III, § 362, Oct. 17, 2006, 120 Stat. 2167, as amended by Pub. L. 114–328, div. A, title VI, § 618(d), Dec. 23, 2016, 130 Stat. 2160, provided that:
+Pub. L. 109–364, div. A, title III, § 362, Oct. 17, 2006, 120 Stat. 2167, as amended by Pub. L. 114–328, div. A, title VI, § 618(d), Dec. 23, 2016, 130 Stat. 2160, provided that:
 
 > “The Secretary of a military department shall ensure that a member of the Armed Forces under the jurisdiction of the Secretary who occupies a unit of military family housing is provided with adequate storage space to secure personal property that the member is unable to secure within the unit whenever—
 
@@ -3573,7 +3573,7 @@ Pub. L. 109–364, div. A, title III, § 362, Oct. 17, 2006, 120 Stat. 2167, a
 
 Maximum amount of $30,000 per unit for an improvement project for family housing units under this section during the period beginning Oct. 1, 1982, and ending on the date of the enactment of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(3) of Pub. L. 97–214, set out as a note under section 2828 of this title.
 
-### § 2826. Military family housing: local comparability of room patterns and floor areas
+### § 2826. Military family housing: local comparability of room patterns and floor areas
 
 **(a) Local Comparability.—** In the construction, acquisition, and improvement of military family housing, the Secretary concerned shall ensure that the room patterns and floor areas of military family housing in a particular locality (as designated by the Secretary concerned for purposes of this section) are similar to room patterns and floor areas of similar housing in the private sector in that locality.
 
@@ -3583,7 +3583,7 @@ Maximum amount of $30,000 per unit for an improvement project for family housing
 
 **(2)** In this subsection, the term “net floor area”, in the case of a military family housing unit, means the total number of square feet of the floor space inside the exterior walls of the unit, excluding the floor area of an unfinished basement, an unfinished attic, a utility space, a garage, a carport, an open or insect-screened porch, a stairwell, and any space used for a solar-energy system.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 102–190, div. B, title XXVIII, § 2808, Dec. 5, 1991, 105 Stat. 1540; Pub. L. 104–106, div. B, title XXVIII, §§ 2814, 2815, Feb. 10, 1996, 110 Stat. 553; Pub. L. 104–201, div. A, title X, § 1074(a)(17), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2803(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–413.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 102–190, div. B, title XXVIII, § 2808, Dec. 5, 1991, 105 Stat. 1540; Pub. L. 104–106, div. B, title XXVIII, §§ 2814, 2815, Feb. 10, 1996, 110 Stat. 553; Pub. L. 104–201, div. A, title X, § 1074(a)(17), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2803(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–413.)
 
 **Editorial Notes**
 
@@ -3591,9 +3591,9 @@ Maximum amount of $30,000 per unit for an improvement project for family housing
 
 2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) which limited the net floor area allowed in the construction, acquisition, and improvement of military family housing units.
 
-1996—Subsec. (e). Pub. L. 104–106, § 2814, struck out at end “The authority provided by this subsection shall expire on September 30, 1994.”
+1996—Subsec. (e). Pub. L. 104–106, § 2814, struck out at end “The authority provided by this subsection shall expire on September 30, 1994.”
 
-Subsec. (i). Pub. L. 104–106, § 2815, added subsec. (i).
+Subsec. (i). Pub. L. 104–106, § 2815, added subsec. (i).
 
 Subsec. (i)(1). Pub. L. 104–201 substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
 
@@ -3605,7 +3605,7 @@ Subsec. (i)(1). Pub. L. 104–201 substituted “February 10, 1996” for “the
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2803(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, provided that:
+Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2803(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, provided that:
 
 > **“(1)** The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2001, but the Secretary of Defense shall anticipate the requirements of section 2826 of title 10, United States Code, as added by such subsection, when preparing the budget request for new construction, acquisition, or improvement of military family housing for fiscal year 2002.
 
@@ -3615,21 +3615,21 @@ Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2803(b)], Oct. 30, 2000, 1
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2827. Relocation of military family housing units
+### § 2827. Relocation of military family housing units
 
 **(a) Relocation Authority.—** Subject to subsection (b), the Secretary concerned may relocate existing military family housing units from any location where the number of such units exceeds requirements for military family housing to any military installation where there is a housing shortage.
 
 **(b) Notice and Wait Requirements.—** A contract to carry out a relocation of military family housing units under subsection (a) may be awarded only after the end of the 14-day period beginning on the date on which the Secretary concerned submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the proposed new locations of the housing units to be relocated and the estimated cost of and source of funds for the relocation.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 160; amended Pub. L. 108–136, div. A, title X, § 1031(a)(42), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(2), Dec. 12, 2017, 131 Stat. 1842.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 160; amended Pub. L. 108–136, div. A, title X, § 1031(a)(42), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(2), Dec. 12, 2017, 131 Stat. 1842.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–91, § 2801(b)(2)(A), inserted heading.
+2017—Subsec. (a). Pub. L. 115–91, § 2801(b)(2)(A), inserted heading.
 
-Subsec. (b). Pub. L. 115–91, § 2801(b)(2)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: “A contract to carry out a relocation of military family housing units under subsection (a) may not be awarded until (1) the Secretary concerned has notified the appropriate committees of Congress of the proposed new locations of the housing units to be relocated and the estimated cost of and source of funds for the relocation, and (2) a period of 21 days has elapsed after the notification has been received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.”
+Subsec. (b). Pub. L. 115–91, § 2801(b)(2)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: “A contract to carry out a relocation of military family housing units under subsection (a) may not be awarded until (1) the Secretary concerned has notified the appropriate committees of Congress of the proposed new locations of the housing units to be relocated and the estimated cost of and source of funds for the relocation, and (2) a period of 21 days has elapsed after the notification has been received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.”
 
 2003—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end “or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
@@ -3641,7 +3641,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Conveyance to Indian Tribes of Relocatable Military Housing Units at Military Installations in the United States**
 
-Pub. L. 114–92, div. B, title XXVIII, § 2805, Nov. 25, 2015, 129 Stat. 1171, provided that:
+Pub. L. 114–92, div. B, title XXVIII, § 2805, Nov. 25, 2015, 129 Stat. 1171, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -3657,7 +3657,7 @@ Pub. L. 114–92, div. B, title XXVIII, § 2805, Nov. 25, 2015, 129 Stat. 1171
 
 > **“(c) Conveyance by a Secretary.—** Notwithstanding any other provision of law, on receipt of a request under subsection (b)(1), the Secretary of the military department concerned may convey to the Indian tribe that is the subject of the request, at no cost to such military department and without consideration, any relocatable military housing unit described in subsection (b)(1) that, as determined by such Secretary, is in excess of the needs of the military.”
 
-### § 2828. Leasing of military family housing
+### § 2828. Leasing of military family housing
 
 **(a)**
 
@@ -3749,13 +3749,13 @@ Pub. L. 114–92, div. B, title XXVIII, § 2805, Nov. 25, 2015, 129 Stat. 1171
 
 **(g)** Appropriations available to the Department of Defense for maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, § 805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, § 801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, § 806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§ 801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§ 2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, § 7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§ 2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, § 1(*l*)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, § 2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§ 2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, § 2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, § 201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, § 2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, § 2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, § 2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, § 2802, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; Pub. L. 107–314, div. A, title X, § 1062(a)(15), div. B, title XXVIII, § 2801, Dec. 2, 2002, 116 Stat. 2650, 2702; Pub. L. 108–136, div. B, title XXVIII, §§ 2803, 2804(a), Nov. 24, 2003, 117 Stat. 1719; Pub. L. 109–163, div. B, title XXVIII, § 2802, Jan. 6, 2006, 119 Stat. 3505; Pub. L. 109–364, div. B, title XXVIII, § 2804, Oct. 17, 2006, 120 Stat. 2467; Pub. L. 110–181, div. B, title XXVIII, § 2806(a)–(c), Jan. 28, 2008, 122 Stat. 540, 541; Pub. L. 110–417, div. B, title XXVIII, § 2802, Oct. 14, 2008, 122 Stat. 4719; Pub. L. 111–383, div. B, title XXVIII, § 2803(d), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(3), Dec. 12, 2017, 131 Stat. 1842.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, § 805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, § 801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, § 806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§ 801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§ 2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, § 7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§ 2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, § 1(*l*)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, § 2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§ 2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, § 2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, § 201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, § 2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, § 2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, § 2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, § 2802, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; Pub. L. 107–314, div. A, title X, § 1062(a)(15), div. B, title XXVIII, § 2801, Dec. 2, 2002, 116 Stat. 2650, 2702; Pub. L. 108–136, div. B, title XXVIII, §§ 2803, 2804(a), Nov. 24, 2003, 117 Stat. 1719; Pub. L. 109–163, div. B, title XXVIII, § 2802, Jan. 6, 2006, 119 Stat. 3505; Pub. L. 109–364, div. B, title XXVIII, § 2804, Oct. 17, 2006, 120 Stat. 2467; Pub. L. 110–181, div. B, title XXVIII, § 2806(a)–(c), Jan. 28, 2008, 122 Stat. 540, 541; Pub. L. 110–417, div. B, title XXVIII, § 2802, Oct. 14, 2008, 122 Stat. 4719; Pub. L. 111–383, div. B, title XXVIII, § 2803(d), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(3), Dec. 12, 2017, 131 Stat. 1842.)
 
 **Historical and Revision Notes**
 
 **1988 Act**
 
-Subsection (h) of this section and section 2673 of this title are based on Pub. L. 98–212, title VII, § 707, Dec. 8, 1983, 97 Stat. 1438.
+Subsection (h) of this section and section 2673 of this title are based on Pub. L. 98–212, title VII, § 707, Dec. 8, 1983, 97 Stat. 1438.
 
 **Editorial Notes**
 
@@ -3765,91 +3765,91 @@ Subsection (h) of this section and section 2673 of this title are based on Pub. 
 
 2011—Subsec. (f)(2). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
-2008—Subsec. (b)(2). Pub. L. 110–181, § 2806(a)(1), substituted “paragraphs (3), (4), and (7)” for “paragraphs (3) and (4)”.
+2008—Subsec. (b)(2). Pub. L. 110–181, § 2806(a)(1), substituted “paragraphs (3), (4), and (7)” for “paragraphs (3) and (4)”.
 
-Subsec. (b)(5). Pub. L. 110–181, § 2806(a)(2), substituted “paragraphs (2), (3), and (7)” for “paragraphs (2) and (3)”.
+Subsec. (b)(5). Pub. L. 110–181, § 2806(a)(2), substituted “paragraphs (2), (3), and (7)” for “paragraphs (2) and (3)”.
 
-Subsec. (b)(7). Pub. L. 110–181, § 2806(a)(3), added par. (7).
+Subsec. (b)(7). Pub. L. 110–181, § 2806(a)(3), added par. (7).
 
 Subsec. (b)(7)(A). Pub. L. 110–417 substituted “$35,000 per unit” for “$18,620 per unit”.
 
-Subsec. (e)(2). Pub. L. 110–181, § 2806(b), substituted “the Secretaries of the military departments may lease not more than 3,300 units of family housing in Italy” for “the Secretary of the Navy may lease not more than 2,800 units of family housing in Italy, and the Secretary of the Army may lease not more than 500 units of family housing in Italy”.
+Subsec. (e)(2). Pub. L. 110–181, § 2806(b), substituted “the Secretaries of the military departments may lease not more than 3,300 units of family housing in Italy” for “the Secretary of the Navy may lease not more than 2,800 units of family housing in Italy, and the Secretary of the Army may lease not more than 500 units of family housing in Italy”.
 
-Subsec. (f). Pub. L. 110–181, § 2806(c), substituted “$1,000,000” for “$500,000”.
+Subsec. (f). Pub. L. 110–181, § 2806(c), substituted “$1,000,000” for “$500,000”.
 
 2006—Subsec. (b)(4)(D). Pub. L. 109–364 added subpar. (D).
 
 Subsec. (e)(4). Pub. L. 109–163 substituted “2,800” for “2,400”.
 
-2003—Subsec. (d)(1). Pub. L. 108–136, § 2804(a), substituted “10 years, or 15 years in the case of leases in Korea,” for “ten years,”.
+2003—Subsec. (d)(1). Pub. L. 108–136, § 2804(a), substituted “10 years, or 15 years in the case of leases in Korea,” for “ten years,”.
 
-Subsec. (e)(2). Pub. L. 108–136, § 2803, substituted “2,800” for “2,000”.
+Subsec. (e)(2). Pub. L. 108–136, § 2803, substituted “2,800” for “2,000”.
 
-2002—Subsec. (b)(2). Pub. L. 107–314, § 1062(a)(15), inserted “time” after “from time to”.
+2002—Subsec. (b)(2). Pub. L. 107–314, § 1062(a)(15), inserted “time” after “from time to”.
 
-Subsec. (e)(3). Pub. L. 107–314, § 2801(a), substituted “1,175 units” for “800 units”.
+Subsec. (e)(3). Pub. L. 107–314, § 2801(a), substituted “1,175 units” for “800 units”.
 
-Subsec. (e)(4). Pub. L. 107–314, § 2801(b)(2), added par. (4). Former par. (4) redesignated (5).
+Subsec. (e)(4). Pub. L. 107–314, § 2801(b)(2), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (e)(5). Pub. L. 107–314, § 2801(b)(1), (3), redesignated par. (4) as (5) and substituted “(3), and (4)” for “and (3)” in introductory provisions. Former par. (5) redesignated (6).
+Subsec. (e)(5). Pub. L. 107–314, § 2801(b)(1), (3), redesignated par. (4) as (5) and substituted “(3), and (4)” for “and (3)” in introductory provisions. Former par. (5) redesignated (6).
 
-Subsec. (e)(6). Pub. L. 107–314, § 2801(b)(1), (4), redesignated par. (5) as (6) and substituted “55,775” for “53,000”.
+Subsec. (e)(6). Pub. L. 107–314, § 2801(b)(1), (4), redesignated par. (5) as (6) and substituted “55,775” for “53,000”.
 
-2000—Subsec. (b)(2). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804(c)(1)], inserted “, as adjusted from time to under paragraph (5)” after “per year”.
+2000—Subsec. (b)(2). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804(c)(1)], inserted “, as adjusted from time to under paragraph (5)” after “per year”.
 
-Subsec. (b)(3). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804(c)(2)], substituted “the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5)” for “$12,000 per unit per year but does not exceed $14,000 per unit per year”.
+Subsec. (b)(3). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804(c)(2)], substituted “the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5)” for “$12,000 per unit per year but does not exceed $14,000 per unit per year”.
 
-Subsec. (b)(4). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804(a)], designated existing provisions as subpar. (A), struck out last sentence which read as follows: “The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.”, and added subpars. (B) and (C).
+Subsec. (b)(4). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804(a)], designated existing provisions as subpar. (A), struck out last sentence which read as follows: “The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.”, and added subpars. (B) and (C).
 
-Subsec. (b)(5), (6). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804(b)], added pars. (5) and (6) and struck out former par. (5) which read as follows: “At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.”
+Subsec. (b)(5), (6). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2804(b)], added pars. (5) and (6) and struck out former par. (5) which read as follows: “At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.”
 
-1998—Subsec. (e)(2). Pub. L. 105–261, § 2802(a)(1), inserted “, and the Secretary of the Army may lease not more than 500 units of family housing in Italy,” after “family housing in Italy”.
+1998—Subsec. (e)(2). Pub. L. 105–261, § 2802(a)(1), inserted “, and the Secretary of the Army may lease not more than 500 units of family housing in Italy,” after “family housing in Italy”.
 
-Subsec. (e)(3). Pub. L. 105–261, § 2802(a)(3), added par. (3). Former par. (3) redesignated (4).
+Subsec. (e)(3). Pub. L. 105–261, § 2802(a)(3), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (e)(4). Pub. L. 105–261, § 2802(b), substituted “, (2), and (3)” for “and (2)”.
+Subsec. (e)(4). Pub. L. 105–261, § 2802(b), substituted “, (2), and (3)” for “and (2)”.
 
-Pub. L. 105–261, § 2802(a)(2), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Pub. L. 105–261, § 2802(a)(2), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (e)(5). Pub. L. 105–261, § 2802(a)(2), redesignated par. (4) as (5).
+Subsec. (e)(5). Pub. L. 105–261, § 2802(a)(2), redesignated par. (4) as (5).
 
-1997—Subsec. (b)(2). Pub. L. 105–85, § 2803(a)(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
+1997—Subsec. (b)(2). Pub. L. 105–85, § 2803(a)(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
 
-Subsec. (b)(4). Pub. L. 105–85, § 2803(a)(3), added par. (4). Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 105–85, § 2803(a)(3), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 105–85, § 2803(b), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+Subsec. (b)(5). Pub. L. 105–85, § 2803(b), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-Pub. L. 105–85, § 2803(a)(2), redesignated par. (4) as (5).
+Pub. L. 105–85, § 2803(a)(2), redesignated par. (4) as (5).
 
-1996—Subsec. (e)(1). Pub. L. 104–106, § 2816(1), substituted “450 units” for “300 units” in first sentence and “350 such units” for “220 such units” in second sentence.
+1996—Subsec. (e)(1). Pub. L. 104–106, § 2816(1), substituted “450 units” for “300 units” in first sentence and “350 such units” for “220 such units” in second sentence.
 
-Subsec. (e)(2). Pub. L. 104–106, § 2816(2), substituted “450 units” for “300 units”.
+Subsec. (e)(2). Pub. L. 104–106, § 2816(2), substituted “450 units” for “300 units”.
 
 1993—Subsec. (b)(2), (3). Pub. L. 103–35 substituted “per year” for “per annum” in par. (2) and in two places in par. (3).
 
-Subsec. (b)(4). Pub. L. 103–160, § 2801(a), added par. (4).
+Subsec. (b)(4). Pub. L. 103–160, § 2801(a), added par. (4).
 
-Subsec. (e)(1). Pub. L. 103–160, § 2801(b)(1), (2), substituted “, except that 300 units may be leased in foreign countries for not more than $25,000 per unit per year” for “as adjusted for foreign currency fluctuation from October 1, 1987” in first sentence and “These maximum lease amounts” for “That maximum lease amount” in second sentence.
+Subsec. (e)(1). Pub. L. 103–160, § 2801(b)(1), (2), substituted “, except that 300 units may be leased in foreign countries for not more than $25,000 per unit per year” for “as adjusted for foreign currency fluctuation from October 1, 1987” in first sentence and “These maximum lease amounts” for “That maximum lease amount” in second sentence.
 
 Pub. L. 103–35 substituted “per year” for “per annum”.
 
-Subsec. (e)(2) to (4). Pub. L. 103–160, § 2801(b)(3), (4), added pars. (2) and (3) and redesignated former par. (2) as (4).
+Subsec. (e)(2) to (4). Pub. L. 103–160, § 2801(b)(3), (4), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
 1991—Subsecs. (g), (h). Pub. L. 102–190 redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized contracts for lease of family housing units on or near military installations at which there is a validated deficit in family housing. See section 2835 of this title.
 
-1989—Subsec. (b)(2). Pub. L. 101–189, § 2802(1), substituted “$12,000” for “$10,000”.
+1989—Subsec. (b)(2). Pub. L. 101–189, § 2802(1), substituted “$12,000” for “$10,000”.
 
-Subsec. (b)(3). Pub. L. 101–189, § 2802(2), substituted “Not” for “(A) Except as provided in subparagraph (B), not”, “$12,000” for “$10,000”, and “$14,000” for “$12,000” and struck out subpar. (B) which read as follows: “During fiscal years 1986 and 1987, the number of housing units that may be leased pursuant to the provisions of subparagraph (A) may be increased by 500 units for each such fiscal year. The Secretary concerned shall provide written notification to the Committees on Armed Services of the Senate and House of Representatives concerning the location, purpose, and cost of the additional units permitted by this subparagraph. Such notification shall be made periodically as the leases are entered into.”
+Subsec. (b)(3). Pub. L. 101–189, § 2802(2), substituted “Not” for “(A) Except as provided in subparagraph (B), not”, “$12,000” for “$10,000”, and “$14,000” for “$12,000” and struck out subpar. (B) which read as follows: “During fiscal years 1986 and 1987, the number of housing units that may be leased pursuant to the provisions of subparagraph (A) may be increased by 500 units for each such fiscal year. The Secretary concerned shall provide written notification to the Committees on Armed Services of the Senate and House of Representatives concerning the location, purpose, and cost of the additional units permitted by this subparagraph. Such notification shall be made periodically as the leases are entered into.”
 
-Subsec. (e)(1). Pub. L. 101–189, § 2802(3), inserted “as adjusted for foreign currency fluctuation from October 1, 1987” after “$20,000 per unit per annum”.
+Subsec. (e)(1). Pub. L. 101–189, § 2802(3), inserted “as adjusted for foreign currency fluctuation from October 1, 1987” after “$20,000 per unit per annum”.
 
-Subsec. (e)(2). Pub. L. 101–189, § 2802(4), substituted “53,000” for “38,000”.
+Subsec. (e)(2). Pub. L. 101–189, § 2802(4), substituted “53,000” for “38,000”.
 
-Subsec. (g)(7). Pub. L. 101–189, § 2805(1), added par. (7) and struck out former par. (7) which provided that this subsection could only be implemented by a pilot program, and that in carrying out such program, the Secretary of each military department or the Secretary of Transportation with respect to the Coast Guard, could not enter into more than two contracts under this subsection, and any such contract could not be for more than 300 family housing units.
+Subsec. (g)(7). Pub. L. 101–189, § 2805(1), added par. (7) and struck out former par. (7) which provided that this subsection could only be implemented by a pilot program, and that in carrying out such program, the Secretary of each military department or the Secretary of Transportation with respect to the Coast Guard, could not enter into more than two contracts under this subsection, and any such contract could not be for more than 300 family housing units.
 
-Subsec. (g)(8). Pub. L. 101–189, § 2805, redesignated par. (9) as (8), substituted “1991” for “1989”, and struck out former par. (8) which authorized the Secretaries of the military departments and the Secretary of Transportation to enter into contracts for family housing units in addition to those authorized in par. (7).
+Subsec. (g)(8). Pub. L. 101–189, § 2805, redesignated par. (9) as (8), substituted “1991” for “1989”, and struck out former par. (8) which authorized the Secretaries of the military departments and the Secretary of Transportation to enter into contracts for family housing units in addition to those authorized in par. (7).
 
-Subsec. (g)(9), (10). Pub. L. 101–189, § 2805(2), redesignated par. (10) as (9). Former par. (9) redesignated (8).
+Subsec. (g)(9), (10). Pub. L. 101–189, § 2805(2), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
 1988—Subsec. (e)(2). Pub. L. 100–456 substituted “38,000” for “36,000”.
 
@@ -3857,51 +3857,51 @@ Subsec. (h). Pub. L. 100–370 added subsec. (h).
 
 1987—Subsec. (a)(1). Pub. L. 100–26 substituted “armed forces” for “Armed Forces”.
 
-Subsec. (b)(2). Pub. L. 100–180, § 2309(b)(1), inserted “per unit per annum” after “$10,000”.
+Subsec. (b)(2). Pub. L. 100–180, § 2309(b)(1), inserted “per unit per annum” after “$10,000”.
 
-Subsec. (b)(3)(A). Pub. L. 100–180, § 2309(b)(2), substituted “$10,000 per unit per annum but does not exceed $12,000 per unit per annum” for “$10,000 but does not exceed $12,000”.
+Subsec. (b)(3)(A). Pub. L. 100–180, § 2309(b)(2), substituted “$10,000 per unit per annum but does not exceed $12,000 per unit per annum” for “$10,000 but does not exceed $12,000”.
 
 Subsec. (c). Pub. L. 100–26 substituted “armed forces” for “Armed Forces”.
 
-Subsec. (e)(1). Pub. L. 100–180, § 2309(a)(1), substituted “$20,000 per unit per annum” for “$16,800”.
+Subsec. (e)(1). Pub. L. 100–180, § 2309(a)(1), substituted “$20,000 per unit per annum” for “$16,800”.
 
-Subsec. (e)(2). Pub. L. 100–180, § 2309(a)(2), substituted “36,000” for “32,000”.
+Subsec. (e)(2). Pub. L. 100–180, § 2309(a)(2), substituted “36,000” for “32,000”.
 
-Subsec. (f). Pub. L. 100–180, § 2311, substituted “$500,000” for “$250,000”.
+Subsec. (f). Pub. L. 100–180, § 2311, substituted “$500,000” for “$250,000”.
 
-Subsec. (g)(1). Pub. L. 100–180, § 2306(a)(1), inserted “, or the Secretary of Transportation with respect to the Coast Guard,” after “military department” and “or rehabilitated to residential use” after “constructed”.
+Subsec. (g)(1). Pub. L. 100–180, § 2306(a)(1), inserted “, or the Secretary of Transportation with respect to the Coast Guard,” after “military department” and “or rehabilitated to residential use” after “constructed”.
 
-Subsec. (g)(7)(A). Pub. L. 100–180, § 2306(a)(2), inserted “, or the Secretary of Transportation with respect to the Coast Guard,” after “military department”.
+Subsec. (g)(7)(A). Pub. L. 100–180, § 2306(a)(2), inserted “, or the Secretary of Transportation with respect to the Coast Guard,” after “military department”.
 
-Subsec. (g)(8)(C). Pub. L. 100–180, § 2306(a)(3), added subpar. (C).
+Subsec. (g)(8)(C). Pub. L. 100–180, § 2306(a)(3), added subpar. (C).
 
-Subsec. (g)(9). Pub. L. 100–180, § 2306(a)(4), substituted “1989” for “1988”.
+Subsec. (g)(9). Pub. L. 100–180, § 2306(a)(4), substituted “1989” for “1988”.
 
-1986—Subsec. (b)(2). Pub. L. 99–661, § 2702(d)(1), substituted “$10,000” for “the amount specified by law as the maximum annual domestic family housing unit lease amount”.
+1986—Subsec. (b)(2). Pub. L. 99–661, § 2702(d)(1), substituted “$10,000” for “the amount specified by law as the maximum annual domestic family housing unit lease amount”.
 
-Subsec. (b)(3)(A). Pub. L. 99–661, § 2702(d)(2), substituted “$10,000 but does not exceed $12,000” for “the maximum annual domestic family housing unit lease amount but does not exceed 120 percent of that amount”.
+Subsec. (b)(3)(A). Pub. L. 99–661, § 2702(d)(2), substituted “$10,000 but does not exceed $12,000” for “the maximum annual domestic family housing unit lease amount but does not exceed 120 percent of that amount”.
 
-Subsec. (e)(1). Pub. L. 99–661, § 2714, substituted “220” for “200”.
+Subsec. (e)(1). Pub. L. 99–661, § 2714, substituted “220” for “200”.
 
-Pub. L. 99–661, § 2702(e), substituted “$16,800” for “the amount specified by law as the maximum annual foreign family housing unit lease amount”.
+Pub. L. 99–661, § 2702(e), substituted “$16,800” for “the amount specified by law as the maximum annual foreign family housing unit lease amount”.
 
-Subsec. (e)(2). Pub. L. 99–661, § 2702(f), substituted “is 32,000” for “shall be specified by law”.
+Subsec. (e)(2). Pub. L. 99–661, § 2702(f), substituted “is 32,000” for “shall be specified by law”.
 
-Subsec. (f). Pub. L. 99–661, § 2702(g), substituted “$250,000” for “the amount specified by law for such purpose”.
+Subsec. (f). Pub. L. 99–661, § 2702(g), substituted “$250,000” for “the amount specified by law for such purpose”.
 
-Subsec. (g)(8)(B). Pub. L. 99–661, § 2713(b)(1), substituted “1,600” for “600”.
+Subsec. (g)(8)(B). Pub. L. 99–661, § 2713(b)(1), substituted “1,600” for “600”.
 
-Subsec. (g)(9). Pub. L. 99–661, § 2713(b)(2), substituted “September 30, 1988” for “September 30, 1986”.
+Subsec. (g)(9). Pub. L. 99–661, § 2713(b)(2), substituted “September 30, 1988” for “September 30, 1986”.
 
-Subsec. (g)(10). Pub. L. 99–661, § 2713(b)(3), added par. (10).
+Subsec. (g)(10). Pub. L. 99–661, § 2713(b)(3), added par. (10).
 
-1985—Subsec. (b)(3). Pub. L. 99–167, § 805, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), not” for “Not”, and added subpar. (B).
+1985—Subsec. (b)(3). Pub. L. 99–167, § 805, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), not” for “Not”, and added subpar. (B).
 
-Subsec. (d). Pub. L. 99–167, § 803, designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 99–167, § 803, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g)(8). Pub. L. 99–167, § 801(b)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (g)(8). Pub. L. 99–167, § 801(b)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (g)(9). Pub. L. 99–167, § 801(b)(1), substituted “September 30, 1986” for “October 1, 1985”.
+Subsec. (g)(9). Pub. L. 99–167, § 801(b)(1), substituted “September 30, 1986” for “October 1, 1985”.
 
 1984—Subsec. (g)(8), (9). Pub. L. 98–407 added par. (8) and redesignated former par. (8) as (9).
 
@@ -3913,7 +3913,7 @@ Subsec. (g)(9). Pub. L. 99–167, § 801(b)(1), substituted “September 30, 1
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–190, div. B, title XXVIII, § 2806(c), Dec. 5, 1991, 105 Stat. 1540, provided that: “Section 2835 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act [Dec. 5, 1991]. The amendment made by subsection (b)(1) [amending this section] shall not affect the validity of any contract entered into before that date under section 2828(g) of such title, as in effect on the day before that date.”
+Pub. L. 102–190, div. B, title XXVIII, § 2806(c), Dec. 5, 1991, 105 Stat. 1540, provided that: “Section 2835 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act [Dec. 5, 1991]. The amendment made by subsection (b)(1) [amending this section] shall not affect the validity of any contract entered into before that date under section 2828(g) of such title, as in effect on the day before that date.”
 
 **Effective Date of 1988 Amendment**
 
@@ -3921,17 +3921,17 @@ Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 2702 of Pub. 
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–407, title VIII, § 806(c), Aug. 28, 1984, 98 Stat. 1521, provided that: “The amendments made by this section [amending this section and provisions set out as a note under section 2821 of this title] shall take effect on October 1, 1984.”
+Pub. L. 98–407, title VIII, § 806(c), Aug. 28, 1984, 98 Stat. 1521, provided that: “The amendments made by this section [amending this section and provisions set out as a note under section 2821 of this title] shall take effect on October 1, 1984.”
 
 **Effective Date**
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2829. Multi-year contracts for supplies and services
+### § 2829. Multi-year contracts for supplies and services
 
 The Secretary concerned may make contracts for periods of up to four years for supplies and services for the management, maintenance, and operation of military family housing and may pay the costs of such contracts for each year out of annual appropriations for that year.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 162.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 162.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3939,19 +3939,19 @@ The Secretary concerned may make contracts for periods of up to four years for s
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### [§ 2830. Repealed. Pub. L. 116–283, div. B, title XXVIII, § 2812(a), Jan. 1, 2021, 134 Stat. 4326]
+### [§ 2830. Repealed. Pub. L. 116–283, div. B, title XXVIII, § 2812(a), Jan. 1, 2021, 134 Stat. 4326]
 
-Section, added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 99–348, title III, § 304(a)(4), July 1, 1986, 100 Stat. 703; Pub. L. 100–180, div. A, title VI, § 632(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 105–85, div. A, title VI, § 603(d)(2)(B), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314, related to occupancy of substandard family housing units.
+Section, added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 99–348, title III, § 304(a)(4), July 1, 1986, 100 Stat. 703; Pub. L. 100–180, div. A, title VI, § 632(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 105–85, div. A, title VI, § 603(d)(2)(B), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314, related to occupancy of substandard family housing units.
 
-### § 2831. Military family housing management account
+### § 2831. Military family housing management account
 
 **(a) Establishment.—** There is on the books of the Treasury an account known as the Department of Defense Military Family Housing Management Account (hereinafter in this section referred to as the “account”). The account shall be used for the management and administration of funds appropriated or otherwise made available to the Department of Defense for military family housing programs.
 
 **(b) Credits to Account.—** The account shall be administered as a single account. There shall be transferred into the account—
 
-**(1)** appropriations made for the purpose of, or which are available for, the payment of costs arising in connection with the construction, acquisition, leasing, relocation, operation and maintenance, and disposal of military family housing, including the cost of principal and interest charges, and insurance premiums, arising in connection with the acquisition of such housing, and mortgage insurance premiums payable under section 222(c) 1
+**(1)** appropriations made for the purpose of, or which are available for, the payment of costs arising in connection with the construction, acquisition, leasing, relocation, operation and maintenance, and disposal of military family housing, including the cost of principal and interest charges, and insurance premiums, arising in connection with the acquisition of such housing, and mortgage insurance premiums payable under section 222(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the National Housing Act (12 U.S.C. 1715m(c));
 
@@ -3965,41 +3965,41 @@ of the National Housing Act (12 U.S.C. 1715m(c));
 
 **(e) Notice and Wait Requirement.—** The Secretary concerned may not carry out a maintenance or repair project for a family housing unit used, or intended for use, as quarters for a general officer or flag officer if the project will or may result in the total operation, maintenance, and repair costs for the unit for the fiscal year to exceed $35,000, until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the maintenance or repair project, including an estimate of the cost of the project.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 107–217, § 3(b)(19), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–375, div. B, title XXVIII, § 2802(a), (b), Oct. 28, 2004, 118 Stat. 2119, 2120; Pub. L. 109–364, div. A, title X, § 1071(a)(26), div. B, title XXVIII, § 2805, Oct. 17, 2006, 120 Stat. 2399, 2467; Pub. L. 115–91, div. A, title X, § 1051(a)(21), div. B, title XXVIII, § 2801(b)(4), Dec. 12, 2017, 131 Stat. 1561, 1843.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 107–217, § 3(b)(19), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–375, div. B, title XXVIII, § 2802(a), (b), Oct. 28, 2004, 118 Stat. 2119, 2120; Pub. L. 109–364, div. A, title X, § 1071(a)(26), div. B, title XXVIII, § 2805, Oct. 17, 2006, 120 Stat. 2399, 2467; Pub. L. 115–91, div. A, title X, § 1051(a)(21), div. B, title XXVIII, § 2801(b)(4), Dec. 12, 2017, 131 Stat. 1561, 1843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 222(c) of the National Housing Act (12 U.S.C. 1715m(c)), referred to in subsec. (b)(1), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(5), July 30, 2008, 122 Stat. 2835.
+Section 222(c) of the National Housing Act (12 U.S.C. 1715m(c)), referred to in subsec. (b)(1), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(5), July 30, 2008, 122 Stat. 2835.
 
 **Amendments**
 
-2017—Subsec. (e). Pub. L. 115–91, § 2801(b)(4), substituted “until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the maintenance or repair project, including an estimate of the cost of the project.” for “until—
+2017—Subsec. (e). Pub. L. 115–91, § 2801(b)(4), substituted “until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the maintenance or repair project, including an estimate of the cost of the project.” for “until—
 
 “(1) the Secretary concerned submits to the congressional defense committees, in writing, a justification of the need for the maintenance or repair project and an estimate of the cost of the project; and
 
 “(2) a period of 21 days has expired following the date on which the justification and estimate are received by the committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and estimate are provided in an electronic medium pursuant to section 480 of this title.”
 
-Pub. L. 115–91, § 1051(a)(21)(C), substituted “The Secretary” for “(1) Except as provided in paragraphs (2) and (3), the Secretary”, redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, and struck out former pars. (2) and (3) which read as follows:
+Pub. L. 115–91, § 1051(a)(21)(C), substituted “The Secretary” for “(1) Except as provided in paragraphs (2) and (3), the Secretary”, redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, and struck out former pars. (2) and (3) which read as follows:
 
 “(2) The project justification and cost estimate required by paragraph (1)(A) may be submitted after the commencement of a maintenance or repair project for a family housing unit used, or intended for use, as quarters for a general officer or flag officer if the project is a necessary environmental remediation project for the unit or is necessary for occupant safety or security, and the need for the project arose after the submission of the most recent report under subsection (e).
 
 “(3) Paragraph (1) shall not apply in the case of a family housing unit used, or intended for use, as quarters for a general officer or flag officer if the unit was identified in the most recent report submitted under subsection (e) and the cost of the maintenance or repair project was included in the total of anticipated operation, maintenance, and repair costs for the unit specified in the report.”
 
-Pub. L. 115–91, § 1051(a)(21)(A), (B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required reports on general officers and flag officers quarters.
+Pub. L. 115–91, § 1051(a)(21)(A), (B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required reports on general officers and flag officers quarters.
 
-Subsec. (f). Pub. L. 115–91, § 1051(a)(21)(B), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 115–91, § 1051(a)(21)(B), redesignated subsec. (f) as (e).
 
-2006—Subsecs. (a) to (d). Pub. L. 109–364, § 2805(b)(1)–(4), inserted subsec. headings.
+2006—Subsecs. (a) to (d). Pub. L. 109–364, § 2805(b)(1)–(4), inserted subsec. headings.
 
-Subsec. (e). Pub. L. 109–364, § 2805(b)(5), struck out “Cost of” before “General Officers” in heading.
+Subsec. (e). Pub. L. 109–364, § 2805(b)(5), struck out “Cost of” before “General Officers” in heading.
 
-Subsec. (e)(1)(B). Pub. L. 109–364, § 2805(a)(2)(A), substituted “identified under subparagraph (A)” for “so identified”.
+Subsec. (e)(1)(B). Pub. L. 109–364, § 2805(a)(2)(A), substituted “identified under subparagraph (A)” for “so identified”.
 
-Subsec. (e)(1)(C) to (E). Pub. L. 109–364, § 2805(a)(1), (2)(B), (3), added subpars. (C) to (E).
+Subsec. (e)(1)(C) to (E). Pub. L. 109–364, § 2805(a)(1), (2)(B), (3), added subpars. (C) to (E).
 
-Subsec. (f)(2). Pub. L. 109–364, § 1071(a)(26), substituted “environmental” for “enviromental”.
+Subsec. (f)(2). Pub. L. 109–364, § 1071(a)(26), substituted “environmental” for “enviromental”.
 
 2004—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
 
@@ -4011,11 +4011,11 @@ Subsec. (f)(2). Pub. L. 109–364, § 1071(a)(26), substituted “environmenta
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2832. Homeowners assistance program
+### § 2832. Homeowners assistance program
 
 The Secretary of Defense may exercise the authority provided in section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 (42 U.S.C. 3374).
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 101–189, div. B, title XXVIII, § 2831(a), Nov. 29, 1989, 103 Stat. 1660; Pub. L. 104–106, div. A, title XV, § 1502(a)(26), Feb. 10, 1996, 110 Stat. 506; Pub. L. 107–107, div. A, title X, § 1048(e)(11), Dec. 28, 2001, 115 Stat. 1228.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 101–189, div. B, title XXVIII, § 2831(a), Nov. 29, 1989, 103 Stat. 1660; Pub. L. 104–106, div. A, title XV, § 1502(a)(26), Feb. 10, 1996, 110 Stat. 506; Pub. L. 107–107, div. A, title X, § 1048(e)(11), Dec. 28, 2001, 115 Stat. 1228.)
 
 **Editorial Notes**
 
@@ -4039,13 +4039,13 @@ The Secretary of Defense may exercise the authority provided in section 1013 of 
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. B, title XXVIII, § 2831(b), Nov. 29, 1989, 103 Stat. 1660, provided that: “The amendments made by subsection (a) [amending this section] shall apply only to funds appropriated or transferred to, or otherwise deposited in, the Department of Defense Base Closure Account for, or during, fiscal years beginning after September 30, 1989.”
+Pub. L. 101–189, div. B, title XXVIII, § 2831(b), Nov. 29, 1989, 103 Stat. 1660, provided that: “The amendments made by subsection (a) [amending this section] shall apply only to funds appropriated or transferred to, or otherwise deposited in, the Department of Defense Base Closure Account for, or during, fiscal years beginning after September 30, 1989.”
 
 **Effective Date**
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2833. Family housing support
+### § 2833. Family housing support
 
 Amounts authorized by law for support of military family housing include amounts for—
 
@@ -4057,21 +4057,21 @@ Amounts authorized by law for support of military family housing include amounts
 
 **(4)** payments of principal and interest on mortgage debts incurred; and
 
-**(5)** payments of mortgage insurance premiums authorized under section 222 1
+**(5)** payments of mortgage insurance premiums authorized under section 222 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the National Housing Act (12 U.S.C. 1715m).
 
-(Added Pub. L. 99–167, title VIII, § 804(b)(1), Dec. 3, 1985, 99 Stat. 987.)
+(Added Pub. L. 99–167, title VIII, § 804(b)(1), Dec. 3, 1985, 99 Stat. 987.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 222 of the National Housing Act (12 U.S.C. 1715m), referred to in par. (5), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(5), July 30, 2008, 122 Stat. 2835.
+Section 222 of the National Housing Act (12 U.S.C. 1715m), referred to in par. (5), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(5), July 30, 2008, 122 Stat. 2835.
 
-### § 2834. Participation in Department of State housing pools
+### § 2834. Participation in Department of State housing pools
 
 **(a)** The Secretary concerned may enter into an agreement with the Secretary of State under which the Secretary of State agrees to provide housing and related services for personnel under the jurisdiction of the Secretary concerned who are assigned to duty in a foreign country if the Secretary concerned determines—
 
@@ -4083,7 +4083,7 @@ The Secretary concerned shall reimburse the Secretary of State, as provided in t
 
 **(b)** The maximum lease amounts specified in section 2828(e)(1) of this title for the rental of family housing in foreign countries shall not apply to housing made available to the Department of Defense under this section. To the extent that the lease amount for units of housing made available under this subsection exceeds such maximum lease amounts, such units shall not be counted in applying the limitation contained in such section on the number of units of family housing for which the Secretary concerned may waive such maximum lease amounts.
 
-(Added Pub. L. 99–167, title VIII, § 808(a), Dec. 3, 1985, 99 Stat. 989; amended Pub. L. 101–510, div. A, title XIII, § 1301(18), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–160, div. B, title XXVIII, § 2806, Nov. 30, 1993, 107 Stat. 1887.)
+(Added Pub. L. 99–167, title VIII, § 808(a), Dec. 3, 1985, 99 Stat. 989; amended Pub. L. 101–510, div. A, title XIII, § 1301(18), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–160, div. B, title XXVIII, § 2806, Nov. 30, 1993, 107 Stat. 1887.)
 
 **Editorial Notes**
 
@@ -4093,7 +4093,7 @@ The Secretary concerned shall reimburse the Secretary of State, as provided in t
 
 1990—Subsecs. (b), (c). Pub. L. 101–510 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Agreements entered into with the Secretary of State under this section may not be executed until (1) the Secretary concerned provides to the appropriate committees of Congress written notification of the facts concerning the proposed agreement, and (2) a period of 21 days has elapsed after the day on which the notification is received by the committees.”
 
-### § 2835. Long-term leasing of military family housing to be constructed
+### § 2835. Long-term leasing of military family housing to be constructed
 
 **(a) Build and Lease Authorized.—** Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may enter into a contract for the lease of family housing units to be constructed or rehabilitated to residential use near a military installation within the United States under the Secretary’s jurisdiction at which there is a shortage of family housing. Housing units leased under this section shall be assigned, without rental charge, as family housing to members of the armed forces who are eligible for assignment to military family housing.
 
@@ -4103,9 +4103,9 @@ The Secretary concerned shall reimburse the Secretary of State, as provided in t
 
 **(2)** The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing projects for which lease contracts are proposed to be entered into under subsection (a) in such fiscal year.
 
-**(c) Competitive Process.—** Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 1
+**(c) Competitive Process.—** Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
 
@@ -4131,17 +4131,17 @@ of this title. In accordance with such procedures, the Secretary of a military d
 
 **(h) Support Buildings.—** A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, § 2806(a)(1), Dec. 5, 1991, 105 Stat. 1539; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. B, title XXVIII, § 2803(e), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 112–239, div. A, title X, § 1076(f)(35), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(5), Dec. 12, 2017, 131 Stat. 1843.)
+(Added Pub. L. 102–190, div. B, title XXVIII, § 2806(a)(1), Dec. 5, 1991, 105 Stat. 1539; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. B, title XXVIII, § 2803(e), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 112–239, div. A, title X, § 1076(f)(35), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(5), Dec. 12, 2017, 131 Stat. 1843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (c), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (c), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in subsec. (g) of section 2828 of this title, prior to repeal by Pub. L. 102–190, § 2806(b)(1).
+Provisions similar to those in this section were contained in subsec. (g) of section 2828 of this title, prior to repeal by Pub. L. 102–190, § 2806(b)(1).
 
 **Amendments**
 
@@ -4163,7 +4163,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Section applicable with respect to contracts entered into under this section on or after Dec. 5, 1991, see section 2806(c) of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 2828 of this title.
 
-### § 2835a. Use of military family housing constructed under build and lease authority to house other members
+### § 2835a. Use of military family housing constructed under build and lease authority to house other members
 
 **(a) Individual Assignment of Members Without Dependents.—**
 
@@ -4181,13 +4181,13 @@ Section applicable with respect to contracts entered into under this section on 
 
 **(d) Application to Housing Leased Under Former Authority.—** This section also shall apply to housing initially acquired or constructed under the former section 2828(g) of this title (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984 (Public Law 98–115; 97 Stat 782).
 
-(Added Pub. L. 110–417, div. B, title XXVIII, § 2803(a), Oct. 14, 2008, 122 Stat. 4719; amended Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(6), Dec. 12, 2017, 131 Stat. 1843; Pub. L. 116–92, div. A, title XVII, § 1731(a)(56), Dec. 20, 2019, 133 Stat. 1815.)
+(Added Pub. L. 110–417, div. B, title XXVIII, § 2803(a), Oct. 14, 2008, 122 Stat. 4719; amended Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(6), Dec. 12, 2017, 131 Stat. 1843; Pub. L. 116–92, div. A, title XVII, § 1731(a)(56), Dec. 20, 2019, 133 Stat. 1815.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2828(g) of this title (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984, referred to in subsec. (d), means the subsection (g) added to section 2828 of this title by section 801 of Pub. L. 98–115, which was repealed by Pub. L. 102–190, div. B, title XXVIII, § 2806(b), Dec. 5, 1991, 105 Stat. 1540.
+Section 2828(g) of this title (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984, referred to in subsec. (d), means the subsection (g) added to section 2828 of this title by section 801 of Pub. L. 98–115, which was repealed by Pub. L. 102–190, div. B, title XXVIII, § 2806(b), Dec. 5, 1991, 105 Stat. 1540.
 
 **Amendments**
 
@@ -4203,7 +4203,7 @@ Section 2828(g) of this title (commonly known as the “Build to Lease program�
 
 “(D) the expiration date of the lease.”
 
-### § 2836. Military housing rental guarantee program
+### § 2836. Military housing rental guarantee program
 
 **(a) Authority.—** Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may enter into an agreement to assure the occupancy of rental housing to be constructed or rehabilitated to residential use by a private developer or by a State or local housing authority on private land, on land owned by a State or local government, or on land owned by the United States, if the housing is to be located on or near a new military installation or an existing military installation that has a shortage of housing to meet the requirements of eligible members of the armed forces (with or without accompanying dependents). The authority provided under this subsection shall be exercised under uniform regulations prescribed by the Secretary of Defense.
 
@@ -4251,39 +4251,39 @@ Section 2828(g) of this title (commonly known as the “Build to Lease program�
 
 **(3)** A statement that such a commitment entered into under the authority of this section does not constitute an obligation of the United States.
 
-**(e) Competitive Process.—** An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 1
+**(e) Competitive Process.—** An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
 
 **(f) Disputes.—** The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by chapter 71 of title 41.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, § 2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, § 1031(a)(43), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, § 5(b)(48), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 112–81, div. A, title X, § 1061(25), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 112–239, div. A, title X, § 1076(f)(36), Jan. 2, 2013, 126 Stat. 1954.)
+(Added Pub. L. 102–190, div. B, title XXVIII, § 2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, § 1031(a)(43), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, § 5(b)(48), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 112–81, div. A, title X, § 1061(25), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 112–239, div. A, title X, § 1076(f)(36), Jan. 2, 2013, 126 Stat. 1954.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (e), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (e), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
 **Prior Provisions**
 
-Similar provisions were contained in Pub. L. 98–115, title VIII, § 802, Oct. 11, 1983, 97 Stat. 783, as amended, which was set out as a note under section 2821 of this title, prior to repeal by Pub. L. 102–190, § 2809(b).
+Similar provisions were contained in Pub. L. 98–115, title VIII, § 802, Oct. 11, 1983, 97 Stat. 783, as amended, which was set out as a note under section 2821 of this title, prior to repeal by Pub. L. 102–190, § 2809(b).
 
 **Amendments**
 
 2013—Subsecs. (a), (c)(4)(B), (11). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard”.
 
-2011—Subsec. (b). Pub. L. 112–81, § 1061(25)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out par. (2) which read as follows: “The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.”
+2011—Subsec. (b). Pub. L. 112–81, § 1061(25)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out par. (2) which read as follows: “The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.”
 
-Subsec. (f). Pub. L. 112–81, § 1061(25)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “An agreement may not be entered into under subsection (a) until—
+Subsec. (f). Pub. L. 112–81, § 1061(25)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “An agreement may not be entered into under subsection (a) until—
 
 “(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed agreement is cost effective when compared with alternative means of furnishing the same housing facilities; and
 
 “(2) a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title.”
 
-Subsec. (g). Pub. L. 112–81, § 1061(25)(C), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 112–81, § 1061(25)(C), redesignated subsec. (g) as (f).
 
 Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
 
@@ -4299,9 +4299,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date**
 
-Pub. L. 102–190, div. B, title XXVII, § 2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: “Section 2836 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act [Dec. 5, 1991]. The amendment made by subsection (b) [repealing provisions set out as a note under section 2821 of this title] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date.”
+Pub. L. 102–190, div. B, title XXVII, § 2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: “Section 2836 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act [Dec. 5, 1991]. The amendment made by subsection (b) [repealing provisions set out as a note under section 2821 of this title] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date.”
 
-### § 2837. Housing Requirements and Market Analysis
+### § 2837. Housing Requirements and Market Analysis
 
 **(a) In General.—** Not less frequently than once every five years and in accordance with the requirements of this section, the Secretary concerned shall conduct a Housing Requirements and Market Analysis (in this section referred to as an “HRMA”) for each military installation under the jurisdiction of the Secretary concerned that is located in the United States.
 
@@ -4319,13 +4319,13 @@ Pub. L. 102–190, div. B, title XXVII, § 2809(c), Dec. 5. 1991, 105 Stat. 15
 
 **(d) Housing Requirements and Market Analysis.—** The term “Housing Requirements and Market Analysis”or “HRMA” means, with respect to a military installation, a structured analytical process under which an assessment is made of both the suitability and availability of the private sector rental housing market using assumed specific standards related to affordability, location, features, physical condition, and the housing requirements of the total population of such installation, including members of the armed forces, civilian employees of the Department of Defense, and defense contractors.
 
-(Added Pub. L. 117–263, div. B, title XXVIII, § 2821(a), Dec. 23, 2022, 136 Stat. 2999; amended Pub. L. 119–60, div. B, title XXVIII, § 2821(a), Dec. 18, 2025, 139 Stat. 1304.)
+(Added Pub. L. 117–263, div. B, title XXVIII, § 2821(a), Dec. 23, 2022, 136 Stat. 2999; amended Pub. L. 119–60, div. B, title XXVIII, § 2821(a), Dec. 18, 2025, 139 Stat. 1304.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2837, added Pub. L. 103–337, div. B, title XXVIII, § 2803(a), Oct. 5, 1994, 108 Stat. 3051; amended Pub. L. 104–106, div. B, title XXVIII, § 2802, Feb. 10, 1996, 110 Stat. 551; Pub. L. 106–65, div. A, title X, § 1066(a)(28), Oct. 5, 1999, 113 Stat. 772; Pub. L. 108–136, div. A, title X, § 1031(a)(44), Nov. 24, 2003, 117 Stat. 1602, authorized the Secretary of a military department to enter into limited partnerships with private developers of housing through Sept. 30, 2000, further authorized such Secretary to enter into collateral incentive agreements with those private developers, and established the Defense Housing Investment Account, prior to repeal by Pub. L. 113–66, div. B, title XXVIII, § 2802(a)(1), Dec. 26, 2013, 127 Stat. 1006. For effects of repeal on existing contracts and on the Defense Housing Investment Account, see section 2802(b) and (c) of Pub. L. 113–66, set out as notes below.
+A prior section 2837, added Pub. L. 103–337, div. B, title XXVIII, § 2803(a), Oct. 5, 1994, 108 Stat. 3051; amended Pub. L. 104–106, div. B, title XXVIII, § 2802, Feb. 10, 1996, 110 Stat. 551; Pub. L. 106–65, div. A, title X, § 1066(a)(28), Oct. 5, 1999, 113 Stat. 772; Pub. L. 108–136, div. A, title X, § 1031(a)(44), Nov. 24, 2003, 117 Stat. 1602, authorized the Secretary of a military department to enter into limited partnerships with private developers of housing through Sept. 30, 2000, further authorized such Secretary to enter into collateral incentive agreements with those private developers, and established the Defense Housing Investment Account, prior to repeal by Pub. L. 113–66, div. B, title XXVIII, § 2802(a)(1), Dec. 26, 2013, 127 Stat. 1006. For effects of repeal on existing contracts and on the Defense Housing Investment Account, see section 2802(b) and (c) of Pub. L. 113–66, set out as notes below.
 
 **Amendments**
 
@@ -4335,7 +4335,7 @@ A prior section 2837, added Pub. L. 103–337, div. B, title XXVIII, § 2803(a
 
 **Housing Requirements and Market Analysis: Time Frame and Submittal of Information**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2821(b), (c), Dec. 23, 2022, 136 Stat. 2999, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2821(b), (c), Dec. 23, 2022, 136 Stat. 2999, provided that:
 
 > **“(b) Time Frame.—**
 
@@ -4353,13 +4353,13 @@ Pub. L. 117–263, div. B, title XXVIII, § 2821(b), (c), Dec. 23, 2022, 136 S
 
 **Effect on Existing Contracts**
 
-Pub. L. 113–66, div. B, title XXVIII, § 2802(b), Dec. 26, 2013, 127 Stat. 1006, provided that: “The repeal of [former] section 2837 of title 10, United States Code, shall not affect the validity or terms of any contract in connection with a limited partnership under subsection (a) or a collateral incentive agreement under subsection (b) of such section entered into before the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. B, title XXVIII, § 2802(b), Dec. 26, 2013, 127 Stat. 1006, provided that: “The repeal of [former] section 2837 of title 10, United States Code, shall not affect the validity or terms of any contract in connection with a limited partnership under subsection (a) or a collateral incentive agreement under subsection (b) of such section entered into before the date of the enactment of this Act [Dec. 26, 2013].”
 
 **Effect on Defense Housing Investment Account**
 
-Pub. L. 113–66, div. B, title XXVIII, § 2802(c), Dec. 26, 2013, 127 Stat. 1006, provided that: “Any unobligated amounts remaining in the Defense Housing Investment Account on the date of the enactment of this Act [Dec. 26, 2013] shall be transferred to the Department of Defense Family Housing Improvement Fund. Amounts transferred shall be merged with amounts in such fund and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such fund.”
+Pub. L. 113–66, div. B, title XXVIII, § 2802(c), Dec. 26, 2013, 127 Stat. 1006, provided that: “Any unobligated amounts remaining in the Defense Housing Investment Account on the date of the enactment of this Act [Dec. 26, 2013] shall be transferred to the Department of Defense Family Housing Improvement Fund. Amounts transferred shall be merged with amounts in such fund and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such fund.”
 
-### § 2838. Leasing of military family housing to Secretary of Defense
+### § 2838. Leasing of military family housing to Secretary of Defense
 
 **(a) Authority.—**
 
@@ -4375,11 +4375,11 @@ Pub. L. 113–66, div. B, title XXVIII, § 2802(c), Dec. 26, 2013, 127 Stat. 1
 
 **(2)** The proceeds deposited into the special account of a military department pursuant to paragraph (1) shall be available to the Secretary of that military department, without further appropriation, for the maintenance, protection, alteration, repair, improvement, or restoration of military housing on the military installation at which the housing leased pursuant to subsection (a) is located.
 
-(Added Pub. L. 110–417, div. B, title XXVIII, § 2804(a), Oct. 14, 2008, 122 Stat. 4720.)
+(Added Pub. L. 110–417, div. B, title XXVIII, § 2804(a), Oct. 14, 2008, 122 Stat. 4720.)
 
-### [§ 2839. Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2826(d), Dec. 18, 2025, 139 Stat. 1310]
+### [§ 2839. Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2826(d), Dec. 18, 2025, 139 Stat. 1310]
 
-Section, added Pub. L. 118–159, div. B, title XXVIII, § 2823(a), Dec. 23, 2024, 138 Stat. 2255, related to application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army.
+Section, added Pub. L. 118–159, div. B, title XXVIII, § 2823(a), Dec. 23, 2024, 138 Stat. 2255, related to application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army.
 
 ## SUBCHAPTER III—ADMINISTRATION OF MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING
 
@@ -4387,65 +4387,65 @@ Section, added Pub. L. 118–159, div. B, title XXVIII, § 2823(a), Dec. 23, 2
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. B, title XXVIII, §§ 2804(a), 2822(a)(1), 2848(a), Dec. 18, 2025, 139 Stat. 1294, 1305, 1319, added item 2866a, inserted “and covered health and safety standards” after “standards” in item 2856a, and struck out item 2859 “Construction requirements related to antiterrorism and force protection or urban-training operations”. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. B, title XXVIII, §§ 2804(a), 2822(a)(1), 2848(a), Dec. 18, 2025, 139 Stat. 1294, 1305, 1319, added item 2866a, inserted “and covered health and safety standards” after “standards” in item 2856a, and struck out item 2859 “Construction requirements related to antiterrorism and force protection or urban-training operations”. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title XVII, § 1701(a)(30), Dec. 23, 2024, 138 Stat. 2204, substituted “Military unaccompanied housing: standards” for “Covered military unaccompanied housing: design standards” in item 2856.
+2024—Pub. L. 118–159, div. A, title XVII, § 1701(a)(30), Dec. 23, 2024, 138 Stat. 2204, substituted “Military unaccompanied housing: standards” for “Covered military unaccompanied housing: design standards” in item 2856.
 
-2023—Pub. L. 118–31, div. B, title XXVIII, §§ 2831(a)(2), 2832(a), 2833(b), Dec. 22, 2023, 137 Stat. 753–755, substituted “Covered military unaccompanied housing: design standards” for “Military unaccompanied housing: local comparability of floor areas” in item 2856 and added items 2856a and 2856b. Addition of items 2856a and 2856b was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. B, title XXVIII, §§ 2831(a)(2), 2832(a), 2833(b), Dec. 22, 2023, 137 Stat. 753–755, substituted “Covered military unaccompanied housing: design standards” for “Military unaccompanied housing: local comparability of floor areas” in item 2856 and added items 2856a and 2856b. Addition of items 2856a and 2856b was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. B, § 2003(b), title XXVIII, § 2812(a), Dec. 27, 2021, 135 Stat. 2162, 2191, renumbered item 2879 in analysis under subchapter IV of this chapter as 2857 and transferred it to appear after item 2856.
+2021—Pub. L. 117–81, div. B, § 2003(b), title XXVIII, § 2812(a), Dec. 27, 2021, 135 Stat. 2162, 2191, renumbered item 2879 in analysis under subchapter IV of this chapter as 2857 and transferred it to appear after item 2856.
 
-Pub. L. 116–283, div. A, title VIII, § 818(b)(1), div. B, title XXVIII, § 2811(k)(1)(A), Jan. 1, 2021, 134 Stat. 3751, 4326, added item 2851a and struck out item 2870 “Use of qualified apprentices by military construction contractors”.
+Pub. L. 116–283, div. A, title VIII, § 818(b)(1), div. B, title XXVIII, § 2811(k)(1)(A), Jan. 1, 2021, 134 Stat. 3751, 4326, added item 2851a and struck out item 2870 “Use of qualified apprentices by military construction contractors”.
 
-2019—Pub. L. 116–92, div. A, title VIII, § 865(a)(2), Dec. 20, 2019, 133 Stat. 1524, added item 2870.
+2019—Pub. L. 116–92, div. A, title VIII, § 865(a)(2), Dec. 20, 2019, 133 Stat. 1524, added item 2870.
 
-2018—Pub. L. 115–232, div. B, title XXVIII, § 2806(a)(2), Aug. 13, 2018, 132 Stat. 2264, added item 2865.
+2018—Pub. L. 115–232, div. B, title XXVIII, § 2806(a)(2), Aug. 13, 2018, 132 Stat. 2264, added item 2865.
 
-2013—Pub. L. 112–239, div. B, title XXVIII, § 2802(b), Jan. 2, 2013, 126 Stat. 2147, added item 2864.
+2013—Pub. L. 112–239, div. B, title XXVIII, § 2802(b), Jan. 2, 2013, 126 Stat. 2147, added item 2864.
 
-Pub. L. 112–239, div. A, title X, § 1076(a)(22), Jan. 2, 2013, 126 Stat. 1949, made technical amendment to directory language of Pub. L. 112–81, § 2815(c). See 2011 Amendment note below.
+Pub. L. 112–239, div. A, title X, § 1076(a)(22), Jan. 2, 2013, 126 Stat. 1949, made technical amendment to directory language of Pub. L. 112–81, § 2815(c). See 2011 Amendment note below.
 
-2011—Pub. L. 112–81, div. B, title XXVIII, § 2815(c), Dec. 31, 2011, 125 Stat. 1689, as amended by Pub. L. 112–239, div. A, title X, § 1076(a)(22), Jan. 2, 2013, 126 Stat. 1949, substituted “Exchange of property at military installations” for “Conveyance of property at military installations to limit encroachment” in item 2869.
+2011—Pub. L. 112–81, div. B, title XXVIII, § 2815(c), Dec. 31, 2011, 125 Stat. 1689, as amended by Pub. L. 112–239, div. A, title X, § 1076(a)(22), Jan. 2, 2013, 126 Stat. 1949, substituted “Exchange of property at military installations” for “Conveyance of property at military installations to limit encroachment” in item 2869.
 
-Pub. L. 111–383, div. A, title X, § 1075(d)(23), Jan. 7, 2011, 124 Stat. 4374, made technical amendment to directory language of Pub. L. 111–84, § 2804(d)(2). See 2009 Amendment note below.
+Pub. L. 111–383, div. A, title X, § 1075(d)(23), Jan. 7, 2011, 124 Stat. 4374, made technical amendment to directory language of Pub. L. 111–84, § 2804(d)(2). See 2009 Amendment note below.
 
-2009—Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(2), Oct. 28, 2009, 123 Stat. 2680, added item 2867.
+2009—Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(2), Oct. 28, 2009, 123 Stat. 2680, added item 2867.
 
-Pub. L. 111–84, div. B, title XXVIII, § 2804(d)(2), Oct. 28, 2009, 123 Stat. 2662, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(23), Jan. 7, 2011, 124 Stat. 4374, substituted “Conveyance of property at military installations to limit encroachment” for “Conveyance of property at military installations to support military construction or limit encroachment” in item 2869.
+Pub. L. 111–84, div. B, title XXVIII, § 2804(d)(2), Oct. 28, 2009, 123 Stat. 2662, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(23), Jan. 7, 2011, 124 Stat. 4374, substituted “Conveyance of property at military installations to limit encroachment” for “Conveyance of property at military installations to support military construction or limit encroachment” in item 2869.
 
-2006—Pub. L. 109–364, div. B, title XXVIII, §§ 2807(a)(2), 2808(b)(2), 2809(b), 2810(b), 2811(f)(2), 2851(c)(4), Oct. 17, 2006, 120 Stat. 2468–2471, 2473, 2495, added item 2861, inserted “or urban-training operations” after “force protection” in item 2859, substituted “Military unaccompanied housing: local comparability of floor areas” for “Limitations on barracks space by pay grade” in item 2856 and “to support military construction or limit encroachment” for “closed or realigned to support military construction” in item 2869, and struck out items 2857 “Use of renewable forms of energy in new facilities”, 2864 “Military construction contracts on Guam”, 2865 “Energy savings at military installations”, and 2867 “Sale of electricity from alternate energy and cogeneration production facilities”.
+2006—Pub. L. 109–364, div. B, title XXVIII, §§ 2807(a)(2), 2808(b)(2), 2809(b), 2810(b), 2811(f)(2), 2851(c)(4), Oct. 17, 2006, 120 Stat. 2468–2471, 2473, 2495, added item 2861, inserted “or urban-training operations” after “force protection” in item 2859, substituted “Military unaccompanied housing: local comparability of floor areas” for “Limitations on barracks space by pay grade” in item 2856 and “to support military construction or limit encroachment” for “closed or realigned to support military construction” in item 2869, and struck out items 2857 “Use of renewable forms of energy in new facilities”, 2864 “Military construction contracts on Guam”, 2865 “Energy savings at military installations”, and 2867 “Sale of electricity from alternate energy and cogeneration production facilities”.
 
-Pub. L. 109–163, div. B, title XXVIII, § 2804(c)(2), Jan. 6, 2006, 119 Stat. 3507, substituted “Authorized cost and scope of work variations” for “Authorized cost variations” in item 2853.
+Pub. L. 109–163, div. B, title XXVIII, § 2804(c)(2), Jan. 6, 2006, 119 Stat. 3507, substituted “Authorized cost and scope of work variations” for “Authorized cost variations” in item 2853.
 
-Pub. L. 108–375, div. B, title XXVIII, § 2804(a)(2), Oct. 28, 2004, 118 Stat. 2122, added item 2859.
+Pub. L. 108–375, div. B, title XXVIII, § 2804(a)(2), Oct. 28, 2004, 118 Stat. 2122, added item 2859.
 
-2003—Pub. L. 108–136, div. A, title X, § 1044(b)(2), div. B, title XXVIII, § 2805(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1721, struck out item 2859 “Transmission of annual military construction authorization request” and added item 2869.
+2003—Pub. L. 108–136, div. A, title X, § 1044(b)(2), div. B, title XXVIII, § 2805(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1721, struck out item 2859 “Transmission of annual military construction authorization request” and added item 2869.
 
-2001—Pub. L. 107–107, div. B, title XXVIII, § 2803(b), Dec. 28, 2001, 115 Stat. 1305, struck out item 2861 “Annual report to Congress”.
+2001—Pub. L. 107–107, div. B, title XXVIII, § 2803(b), Dec. 28, 2001, 115 Stat. 1305, struck out item 2861 “Annual report to Congress”.
 
-1997—Pub. L. 105–85, div. A, title III, § 371(c)(3), Nov. 18, 1997, 111 Stat. 1705, added items 2867 and 2868.
+1997—Pub. L. 105–85, div. A, title III, § 371(c)(3), Nov. 18, 1997, 111 Stat. 1705, added items 2867 and 2868.
 
-1996—Pub. L. 104–106, div. B, title XXVIII, § 2818(a)(2), Feb. 10, 1996, 110 Stat. 555, added item 2854a.
+1996—Pub. L. 104–106, div. B, title XXVIII, § 2818(a)(2), Feb. 10, 1996, 110 Stat. 555, added item 2854a.
 
-1993—Pub. L. 103–160, div. B, title XXVIII, § 2803(b), Nov. 30, 1993, 107 Stat. 1885, added item 2866.
+1993—Pub. L. 103–160, div. B, title XXVIII, § 2803(b), Nov. 30, 1993, 107 Stat. 1885, added item 2866.
 
-1990—Pub. L. 101–510, div. B, title XXVIII, § 2851(b), Nov. 5, 1990, 104 Stat. 1804, added item 2865.
+1990—Pub. L. 101–510, div. B, title XXVIII, § 2851(b), Nov. 5, 1990, 104 Stat. 1804, added item 2865.
 
-1989—Pub. L. 101–189, div. B, title XXVIII, § 2807(b), Nov. 29, 1989, 103 Stat. 1648, added item 2864.
+1989—Pub. L. 101–189, div. B, title XXVIII, § 2807(b), Nov. 29, 1989, 103 Stat. 1648, added item 2864.
 
-1987—Pub. L. 100–180, div. B, subdiv. 3, title I, § 2303(b), Dec. 4, 1987, 101 Stat. 1215, added item 2863.
+1987—Pub. L. 100–180, div. B, subdiv. 3, title I, § 2303(b), Dec. 4, 1987, 101 Stat. 1215, added item 2863.
 
-1986—Pub. L. 99–661, div. A, title XIII, § 1343(a)(21)(B), Nov. 14, 1986, 100 Stat. 3994, struck out “for five years” after “Availability of appropriations” in item 2860.
+1986—Pub. L. 99–661, div. A, title XIII, § 1343(a)(21)(B), Nov. 14, 1986, 100 Stat. 3994, struck out “for five years” after “Availability of appropriations” in item 2860.
 
-1985—Pub. L. 99–167, title VIII, § 807(b), Dec. 3, 1985, 99 Stat. 988, added item 2862.
+1985—Pub. L. 99–167, title VIII, § 807(b), Dec. 3, 1985, 99 Stat. 988, added item 2862.
 
-1982—Pub. L. 97–321, title VIII, § 801(b)(3), Oct. 15, 1982, 96 Stat. 1571, substituted “renewable forms of energy in new facilities” for “solar energy systems” in item 2857.
+1982—Pub. L. 97–321, title VIII, § 801(b)(3), Oct. 15, 1982, 96 Stat. 1571, substituted “renewable forms of energy in new facilities” for “solar energy systems” in item 2857.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Standardization of Mold Remediation Guidelines Across Military Departments**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2830, Dec. 18, 2025, 139 Stat. 1313, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2830, Dec. 18, 2025, 139 Stat. 1313, provided that:
 
 > **“(a) Requirement to Establish Common Guidelines.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop and implement uniform guidelines for the remediation of mold in military housing, facilities, and other real property under jurisdiction of each such Secretary.
 
@@ -4465,7 +4465,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2830, Dec. 18, 2025, 139 Stat. 1313
 
 **Plan to Improve Accuracy, Integration, and Interoperability of Department of Defense Data With Respect to Real Property, Infrastructure, and Military Unaccompanied Housing**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2832, Dec. 18, 2025, 139 Stat. 1315, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2832, Dec. 18, 2025, 139 Stat. 1315, provided that:
 
 > **“(a) Plan Required.—**
 
@@ -4551,7 +4551,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2832, Dec. 18, 2025, 139 Stat. 1315
 
 **Analysis of Housing Availability for Critical Civilian and Contractor Personnel Near Rural Military Installations**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2828, Dec. 23, 2024, 138 Stat. 2258, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2828, Dec. 23, 2024, 138 Stat. 2258, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall revise the Department of Defense Manual 4165.63–M titled ‘DoD Housing Management’ issued October 28, 2010, to require an analysis of the availability of suitable housing located in close proximity to a military installation in a rural area for civilian personnel and defense contractors that provide critical functions for the operations of such military installation, as determined by the Secretary.
 
@@ -4563,7 +4563,7 @@ Pub. L. 118–159, div. B, title XXVIII, § 2828, Dec. 23, 2024, 138 Stat. 225
 
 **Digital Facilities Management Systems for Military Departments**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2829, Dec. 23, 2024, 138 Stat. 2258, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2829, Dec. 23, 2024, 138 Stat. 2258, provided that:
 
 > **“(a) Digital Facilities Management Systems for Military Departments.—**
 
@@ -4607,7 +4607,7 @@ Pub. L. 118–159, div. B, title XXVIII, § 2829, Dec. 23, 2024, 138 Stat. 225
 
 **Establishment of Civilian Employees for Oversight of Covered Military Unaccompanied Housing**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2836, Dec. 22, 2023, 137 Stat. 759, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2836, Dec. 22, 2023, 137 Stat. 759, provided that:
 
 > **“(a) Establishment Civilian Employees.—**
 
@@ -4635,9 +4635,9 @@ Pub. L. 118–31, div. B, title XXVIII, § 2836, Dec. 22, 2023, 137 Stat. 759,
 
 **Maintenance Work Order Management Process for Covered Military Unaccompanied Housing**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2826(b), Dec. 23, 2024, 138 Stat. 2258, provided that: “The Secretary of Defense shall issue guidance with respect to the requirements of such subsection [section 2837(b) of Pub. L. 118–31, set out below] (as amended by subsection (a)) not later than 60 days after the date of the enactment of this Act [Dec. 23, 2024].”
+Pub. L. 118–159, div. B, title XXVIII, § 2826(b), Dec. 23, 2024, 138 Stat. 2258, provided that: “The Secretary of Defense shall issue guidance with respect to the requirements of such subsection [section 2837(b) of Pub. L. 118–31, set out below] (as amended by subsection (a)) not later than 60 days after the date of the enactment of this Act [Dec. 23, 2024].”
 
-Pub. L. 118–31, div. B, title XXVIII, § 2837, Dec. 22, 2023, 137 Stat. 759, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2826(a), Dec. 23, 2024, 138 Stat. 2257, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2837, Dec. 22, 2023, 137 Stat. 759, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2826(a), Dec. 23, 2024, 138 Stat. 2257, provided that:
 
 > **“(a) In General.—** Not later than 60 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall issue rules to establish for each military department a process associated with maintenance work order management for covered military unaccompanied housing under the jurisdiction of such military department that is—
 
@@ -4661,7 +4661,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2837, Dec. 22, 2023, 137 Stat. 759,
 
 **Uniform Index for Evaluating the Condition of Covered Military Unaccompanied Housing Facilities**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2838, Dec. 22, 2023, 137 Stat. 760, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2838, Dec. 22, 2023, 137 Stat. 760, provided that:
 
 > **“(a) In General.—** Not later than 30 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall establish a uniform index for evaluating the condition of covered military unaccompanied housing facilities—
 
@@ -4681,7 +4681,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2838, Dec. 22, 2023, 137 Stat. 760,
 
 **Elimination of Flexibilities for Construction Standards for Covered Military Unaccompanied Housing**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2841, Dec. 22, 2023, 137 Stat. 762, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2841, Dec. 22, 2023, 137 Stat. 762, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense and each Secretary of a military department shall modify all directives, instructions, manuals, regulations, policies, and other guidance and issuances of the Department of Defense or appropriate military department to eliminate the grant of any flexibilities to the standards for construction of new covered military unaccompanied housing.
 
@@ -4691,7 +4691,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2841, Dec. 22, 2023, 137 Stat. 762,
 
 **Improvement of Security of Lodging and Living Spaces on Military Installations**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2815, Dec. 27, 2021, 135 Stat. 2193, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2815, Dec. 27, 2021, 135 Stat. 2193, provided that:
 
 > **“(a) Assessment.—** Not later than 60 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall conduct an assessment of all on-base dormitories and barracks at military installations for purposes of identifying—
 
@@ -4713,7 +4713,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2815, Dec. 27, 2021, 135 Stat. 2193
 
 > **“(B)** an estimated schedule for making such improvements.”
 
-### § 2851. Supervision of military construction projects
+### § 2851. Supervision of military construction projects
 
 **(a) Supervision of Military Department Projects.—** Each contract entered into by the United States in connection with a military construction project or a military family housing project shall be carried out under the direction and supervision of a Secretary of a military department or Government agency (as approved by the Secretary of Defense) to assure the most efficient, expeditious, and cost-effective completion of the project.
 
@@ -4767,7 +4767,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2815, Dec. 27, 2021, 135 Stat. 2193
 
 **(e) Annual Report on Schedule Delays.—** Not later than March 1 of each year (beginning with 2018), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and Senate a report on each military construction project or military family housing project for which, as of the end of the most recent fiscal year, the estimated completion date is more than 1 year later than the completion date proposed at the time the contract for the project was awarded.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, § 2803(a), (c), Jan. 6, 2006, 119 Stat. 3505, 3506; Pub. L. 111–383, div. B, title XXVIII, § 2801, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 115–91, div. B, title XXVIII, § 2822, Dec. 12, 2017, 131 Stat. 1855; Pub. L. 117–81, div. B, title XXVIII, § 2801(a), Dec. 27, 2021, 135 Stat. 2184; Pub. L. 117–263, div. B, title XXVIII, § 2806(a), Dec. 23, 2022, 136 Stat. 2995; Pub. L. 119–60, div. B, title XXVIII, § 2808(a), Dec. 18, 2025, 139 Stat. 1298.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, § 2803(a), (c), Jan. 6, 2006, 119 Stat. 3505, 3506; Pub. L. 111–383, div. B, title XXVIII, § 2801, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 115–91, div. B, title XXVIII, § 2822, Dec. 12, 2017, 131 Stat. 1855; Pub. L. 117–81, div. B, title XXVIII, § 2801(a), Dec. 27, 2021, 135 Stat. 2184; Pub. L. 117–263, div. B, title XXVIII, § 2806(a), Dec. 23, 2022, 136 Stat. 2995; Pub. L. 119–60, div. B, title XXVIII, § 2808(a), Dec. 18, 2025, 139 Stat. 1298.)
 
 **Editorial Notes**
 
@@ -4777,31 +4777,31 @@ Pub. L. 117–81, div. B, title XXVIII, § 2815, Dec. 27, 2021, 135 Stat. 2193
 
 2022—Subsecs. (d), (e). Pub. L. 117–263 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2021—Subsec. (c)(1)(E). Pub. L. 117–81, § 2801(a)(2), added subpar. (E). Former subpar. (E) redesignated (F).
+2021—Subsec. (c)(1)(E). Pub. L. 117–81, § 2801(a)(2), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (c)(1)(F). Pub. L. 117–81, § 2801(a)(1), (3), redesignated subpar. (E) as (F) and inserted “, military department Facilities Sustainment, Restoration, and Modernization project,” after “construction project”.
+Subsec. (c)(1)(F). Pub. L. 117–81, § 2801(a)(1), (3), redesignated subpar. (E) as (F) and inserted “, military department Facilities Sustainment, Restoration, and Modernization project,” after “construction project”.
 
 2017—Subsec. (d). Pub. L. 115–91 added subsec. (d).
 
-2011—Subsec. (c)(1). Pub. L. 111–383, § 2801(c)(1), substituted “that will permit a person” for “that, when activated by a person authorized under paragraph (3), will permit the person”.
+2011—Subsec. (c)(1). Pub. L. 111–383, § 2801(c)(1), substituted “that will permit a person” for “that, when activated by a person authorized under paragraph (3), will permit the person”.
 
-Subsec. (c)(2)(F) to (H). Pub. L. 111–383, § 2801(a), redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which read as follows: “The estimated final cost of the project and, if the estimated final cost of the project exceeds the amount appropriated for the project and funds have been provided from another source to meet the increased cost, the source of the funds and the amount provided.”
+Subsec. (c)(2)(F) to (H). Pub. L. 111–383, § 2801(a), redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which read as follows: “The estimated final cost of the project and, if the estimated final cost of the project exceeds the amount appropriated for the project and funds have been provided from another source to meet the increased cost, the source of the funds and the amount provided.”
 
-Subsec. (c)(3), (4). Pub. L. 111–383, § 2801(b), (c)(2), redesignated par. (4) as (3), substituted “on the Internet site required by such paragraph” for “to the persons referred to in paragraph (3)” and struck out “to such persons” before “in a timely manner”, and struck out former par. (3) which read as follows: “Access to the Internet site required by paragraph (1) shall be restricted to the following persons:
+Subsec. (c)(3), (4). Pub. L. 111–383, § 2801(b), (c)(2), redesignated par. (4) as (3), substituted “on the Internet site required by such paragraph” for “to the persons referred to in paragraph (3)” and struck out “to such persons” before “in a timely manner”, and struck out former par. (3) which read as follows: “Access to the Internet site required by paragraph (1) shall be restricted to the following persons:
 
 “(A) Members of the congressional defense committees and their staff.
 
 “(B) Staff of the congressional defense committees.”
 
-2006—Subsecs. (a), (b). Pub. L. 109–163, § 2803(c), inserted headings.
+2006—Subsecs. (a), (b). Pub. L. 109–163, § 2803(c), inserted headings.
 
-Subsec. (c). Pub. L. 109–163, § 2803(a), added subsec. (c).
+Subsec. (c). Pub. L. 109–163, § 2803(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2806(c), Dec. 23, 2022, 136 Stat. 2995, provided that: “This section [amending this section and section 3221 of this title] and the amendments made by this section shall apply to contracts entered into on or after the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. B, title XXVIII, § 2806(c), Dec. 23, 2022, 136 Stat. 2995, provided that: “This section [amending this section and section 3221 of this title] and the amendments made by this section shall apply to contracts entered into on or after the date of the enactment of this Act [Dec. 23, 2022].”
 
 **Effective Date**
 
@@ -4809,11 +4809,11 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Application of Amendment by Pub. L. 117–81**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2801(b), Dec. 27, 2021, 135 Stat. 2184, provided that: “Subparagraph (E) of section 2851(c)(1) of title 10, United States Code, as added by subsection (a)(2), and subparagraph (F) of such section, as amended by subsection (a)(3), shall apply with respect to a military department Facilities Sustainment, Restoration, and Modernization project described in such subparagraphs for which an award of a contract or delivery order for the project is made on or after June 1, 2022.”
+Pub. L. 117–81, div. B, title XXVIII, § 2801(b), Dec. 27, 2021, 135 Stat. 2184, provided that: “Subparagraph (E) of section 2851(c)(1) of title 10, United States Code, as added by subsection (a)(2), and subparagraph (F) of such section, as amended by subsection (a)(3), shall apply with respect to a military department Facilities Sustainment, Restoration, and Modernization project described in such subparagraphs for which an award of a contract or delivery order for the project is made on or after June 1, 2022.”
 
 **Implementation of Comptroller General Recommendations Relating to Information Sharing To Improve Oversight of Military Construction**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2817, Dec. 18, 2025, 139 Stat. 1304, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2817, Dec. 18, 2025, 139 Stat. 1304, provided that:
 
 > “Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall—
 
@@ -4823,13 +4823,13 @@ Pub. L. 119–60, div. B, title XXVIII, § 2817, Dec. 18, 2025, 139 Stat. 1304
 
 **Implementation of Internet Site**
 
-Pub. L. 109–163, div. B, title XXVIII, § 2803(b), Jan. 6, 2006, 119 Stat. 3506, provided that: “The Internet site required by subsection (c) of section 2851 of title 10, United States Code, as added by subsection (a), shall be available to the persons referred to in paragraph (3) of such subsection not later than July 15, 2006.”
+Pub. L. 109–163, div. B, title XXVIII, § 2803(b), Jan. 6, 2006, 119 Stat. 3506, provided that: “The Internet site required by subsection (c) of section 2851 of title 10, United States Code, as added by subsection (a), shall be available to the persons referred to in paragraph (3) of such subsection not later than July 15, 2006.”
 
 **Identification of Requirements To Reduce Backlog in Maintenance and Repair of Defense Facilities**
 
-Pub. L. 106–398, § 1 [[div. A], title III, § 374], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, § 1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
+Pub. L. 106–398, § 1 [[div. A], title III, § 374], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, § 1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
 
-### § 2851a. Supervision of military housing by Chief Housing Officer
+### § 2851a. Supervision of military housing by Chief Housing Officer
 
 **(a) In General.—** The Assistant Secretary of Defense for Energy, Installations, and Environment shall serve as the Chief Housing Officer, who shall oversee family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as “covered housing units”).
 
@@ -4843,7 +4843,7 @@ Pub. L. 106–398, § 1 [[div. A], title III, § 374], Oct. 30, 2000, 114 St
 
 **(2)** The duties specified in paragraph (1) may not be further delegated.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3012(a), Dec. 20, 2019, 133 Stat. 1921, § 2890a; renumbered § 2851a and amended Pub. L. 116–283, div. B, title XXVIII, § 2811(a), Jan. 1, 2021, 134 Stat. 4323; Pub. L. 117–263, div. B, title XXVIII, § 2807, Dec. 23, 2022, 136 Stat. 2995.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3012(a), Dec. 20, 2019, 133 Stat. 1921, § 2890a; renumbered § 2851a and amended Pub. L. 116–283, div. B, title XXVIII, § 2811(a), Jan. 1, 2021, 134 Stat. 4323; Pub. L. 117–263, div. B, title XXVIII, § 2807, Dec. 23, 2022, 136 Stat. 2995.)
 
 **Editorial Notes**
 
@@ -4855,23 +4855,23 @@ Pub. L. 106–398, § 1 [[div. A], title III, § 374], Oct. 30, 2000, 114 St
 
 “(2) The official of the Department of Defense designated as Chief Housing Officer may be assigned duties in addition to the duties as Chief Housing Officer under subsection (b).”
 
-2021—Pub. L. 116–283, § 2811(a)(3), renumbered section 2890a of this title as this section.
+2021—Pub. L. 116–283, § 2811(a)(3), renumbered section 2890a of this title as this section.
 
-Pub. L. 116–283, § 2811(a)(2), inserted “Supervision of military housing by” before “Chief” in section catchline.
+Pub. L. 116–283, § 2811(a)(2), inserted “Supervision of military housing by” before “Chief” in section catchline.
 
-Subsec. (a)(1). Pub. L. 116–283, § 2811(a)(1)(A), substituted “family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as ‘covered housing units’)” for “housing units”.
+Subsec. (a)(1). Pub. L. 116–283, § 2811(a)(1)(A), substituted “family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as ‘covered housing units’)” for “housing units”.
 
-Subsec. (b)(1). Pub. L. 116–283, § 2811(a)(1)(B)(ii), inserted “covered” before “housing units” in subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 116–283, § 2811(a)(1)(B)(ii), inserted “covered” before “housing units” in subpars. (A) and (B).
 
-Pub. L. 116–283, § 2811(a)(1)(B)(i), substituted “covered housing units” for “housing under subchapter IV and this subchapter” in introductory provisions.
+Pub. L. 116–283, § 2811(a)(1)(B)(i), substituted “covered housing units” for “housing under subchapter IV and this subchapter” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Notification of Designation**
 
-Pub. L. 116–92, div. B, title XXX, § 3012(b), Dec. 20, 2019, 133 Stat. 1921, provided that not later than 60 days after Dec. 20, 2019, the Secretary of Defense was to notify the Committees on Armed Services and Appropriations of the Senate and the House of Representatives of the official of the Department of Defense designated as Chief Housing Officer under this section. As amended by Pub. L. 117–263, subsec. (a) of this section provides that the Assistant Secretary of Defense for Energy, Installations, and Environment shall serve as the Chief Housing Officer.
+Pub. L. 116–92, div. B, title XXX, § 3012(b), Dec. 20, 2019, 133 Stat. 1921, provided that not later than 60 days after Dec. 20, 2019, the Secretary of Defense was to notify the Committees on Armed Services and Appropriations of the Senate and the House of Representatives of the official of the Department of Defense designated as Chief Housing Officer under this section. As amended by Pub. L. 117–263, subsec. (a) of this section provides that the Assistant Secretary of Defense for Energy, Installations, and Environment shall serve as the Chief Housing Officer.
 
-### § 2852. Military construction projects: waiver of certain restrictions
+### § 2852. Military construction projects: waiver of certain restrictions
 
 **(a)** The Secretary of Defense and the Secretaries of the military departments may carry out authorized military construction projects and authorized military family housing projects without regard to subsections (a) and (b) of section 3324 of title 31.
 
@@ -4883,11 +4883,11 @@ Pub. L. 116–92, div. B, title XXX, § 3012(b), Dec. 20, 2019, 133 Stat. 1921
 
 **(c)** In the case of a military construction project or a military family housing project, the contract amount thresholds specified in subchapter III of chapter 31 of title 40 (commonly referred to as the Miller Act) shall be applied by substituting “$150,000” for “$100,000” for purposes of determining when a performance bond and payment bond are required under section 3131 of such title and when alternatives to payment bonds as payment protections for suppliers of labor and materials are required under section 3132 of such title.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 97–295, § 1(35), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, § 805(a)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–145, title XIII, § 1303(a)(19), Nov. 8, 1985, 99 Stat. 739; Pub. L. 107–217, § 3(b)(20), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 112–81, div. B, title XXVIII, § 2803, Dec. 31, 2011, 125 Stat. 1685.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 97–295, § 1(35), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, § 805(a)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–145, title XIII, § 1303(a)(19), Nov. 8, 1985, 99 Stat. 739; Pub. L. 107–217, § 3(b)(20), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 112–81, div. B, title XXVIII, § 2803, Dec. 31, 2011, 125 Stat. 1685.)
 
 **Historical and Revision Notes**
 
-In 10:2852(a), the title 31 citation is substituted on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted title 31.
+In 10:2852(a), the title 31 citation is substituted on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted title 31.
 
 **Editorial Notes**
 
@@ -4909,7 +4909,7 @@ Subsec. (b). Pub. L. 97–321 substituted “may be exercised on land not owned 
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2853. Authorized cost and scope of work variations
+### § 2853. Authorized cost and scope of work variations
 
 **(a) Cost Variations Authorized; Limitation.—** Except as provided in subsection (c), (d), or (e), the cost authorized for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be increased or decreased by not more than 25 percent of the total authorized cost of the project or 200 percent of the minor construction project ceiling specified in section 2805(a) of this title, whichever is less, if the Secretary concerned determines that such revised cost is required for the sole purpose of meeting unusual variations in cost and that such variations in cost could not have reasonably been anticipated at the time the project was authorized by Congress.
 
@@ -5001,7 +5001,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **(g) Relation to Other Law.—** Notwithstanding the authority under subsections (a) through (f), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with section 1341 of title 31 (commonly referred to as the “Anti-Deficiency Act”).
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, § 807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, § 7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§ 2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, § 2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, § 2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, § 2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, § 2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, § 2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, § 2806, Oct. 17, 2006, 120 Stat. 2468; Pub. L. 111–84, div. B, title XXVIII, § 2803, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(2), Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, § 2801, Jan. 2, 2013, 126 Stat. 2146; Pub. L. 113–291, div. A, title X, § 1071(f)(24), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. B, title XXVIII, § 2803, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(c)(1), 2821, Dec. 12, 2017, 131 Stat. 1843, 1853; Pub. L. 116–283, div. B, title XXVIII, § 2803(a), (b), Jan. 1, 2021, 134 Stat. 4319, 4320; Pub. L. 117–81, div. B, title XXVIII, § 2802, Dec. 27, 2021, 135 Stat. 2184; Pub. L. 117–263, div. B, title XXVIII, § 2808, Dec. 23, 2022, 136 Stat. 2996.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, § 807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, § 7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§ 2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, § 2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, § 2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, § 2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, § 2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, § 2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, § 2806, Oct. 17, 2006, 120 Stat. 2468; Pub. L. 111–84, div. B, title XXVIII, § 2803, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(2), Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, § 2801, Jan. 2, 2013, 126 Stat. 2146; Pub. L. 113–291, div. A, title X, § 1071(f)(24), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. B, title XXVIII, § 2803, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(c)(1), 2821, Dec. 12, 2017, 131 Stat. 1843, 1853; Pub. L. 116–283, div. B, title XXVIII, § 2803(a), (b), Jan. 1, 2021, 134 Stat. 4319, 4320; Pub. L. 117–81, div. B, title XXVIII, § 2802, Dec. 27, 2021, 135 Stat. 2184; Pub. L. 117–263, div. B, title XXVIII, § 2808, Dec. 23, 2022, 136 Stat. 2996.)
 
 **Editorial Notes**
 
@@ -5013,69 +5013,69 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 “(ii) to approve an increase in the cost authorized for the project that would increase the project cost by more than 50 percent of the total authorized cost of the project.”
 
-2021—Subsec. (a). Pub. L. 117–81, § 2802(b), (c)(1), inserted heading and substituted “the total authorized cost of the project” for “the amount appropriated for such project” in text.
+2021—Subsec. (a). Pub. L. 117–81, § 2802(b), (c)(1), inserted heading and substituted “the total authorized cost of the project” for “the amount appropriated for such project” in text.
 
-Subsec. (b). Pub. L. 117–81, § 2802(c)(2), inserted heading.
+Subsec. (b). Pub. L. 117–81, § 2802(c)(2), inserted heading.
 
-Subsec. (c). Pub. L. 117–81, § 2802(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to situations where limitation on cost variations or the limitation on scope reduction did not apply.
+Subsec. (c). Pub. L. 117–81, § 2802(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to situations where limitation on cost variations or the limitation on scope reduction did not apply.
 
-Subsec. (c)(1). Pub. L. 116–283, § 2803(b), inserted “(subject to subsection (f))” after “cost increase” in introductory provisions.
+Subsec. (c)(1). Pub. L. 116–283, § 2803(b), inserted “(subject to subsection (f))” after “cost increase” in introductory provisions.
 
-Subsec. (d). Pub. L. 117–81, § 2802(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to situations where the limitation on an increase in the scope of work did not apply.
+Subsec. (d). Pub. L. 117–81, § 2802(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to situations where the limitation on an increase in the scope of work did not apply.
 
-Subsec. (e). Pub. L. 117–81, § 2802(c)(3), inserted heading.
+Subsec. (e). Pub. L. 117–81, § 2802(c)(3), inserted heading.
 
-Subsec. (f). Pub. L. 117–81, § 2802(c)(4), inserted heading.
+Subsec. (f). Pub. L. 117–81, § 2802(c)(4), inserted heading.
 
-Subsec. (f)(1), (3). Pub. L. 116–283, § 2803(a)(1), struck out “and the Comptroller General of the United States” after “congressional defense committees”.
+Subsec. (f)(1), (3). Pub. L. 116–283, § 2803(a)(1), struck out “and the Comptroller General of the United States” after “congressional defense committees”.
 
-Subsec. (f)(6). Pub. L. 116–283, § 2803(a)(2), struck out par. (6) which read as follows: “The Comptroller General of the United States shall review each report submitted under this subsection and validate or correct as necessary the information provided.”
+Subsec. (f)(6). Pub. L. 116–283, § 2803(a)(2), struck out par. (6) which read as follows: “The Comptroller General of the United States shall review each report submitted under this subsection and validate or correct as necessary the information provided.”
 
-Subsec. (g). Pub. L. 117–81, § 2802(c)(5), inserted heading.
+Subsec. (g). Pub. L. 117–81, § 2802(c)(5), inserted heading.
 
-2017—Subsec. (c)(1)(A). Pub. L. 115–91, § 2801(c)(1)(A), struck out “in writing” after “committees of Congress”.
+2017—Subsec. (c)(1)(A). Pub. L. 115–91, § 2801(c)(1)(A), struck out “in writing” after “committees of Congress”.
 
-Subsec. (c)(1)(B). Pub. L. 115–91, § 2801(c)(1)(B), substituted “14-day period” for “period of 21 days” and struck out “or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided” after “received by the committees”.
+Subsec. (c)(1)(B). Pub. L. 115–91, § 2801(c)(1)(B), substituted “14-day period” for “period of 21 days” and struck out “or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided” after “received by the committees”.
 
-Subsec. (c)(2). Pub. L. 115–91, § 2801(c)(1)(A), (C), inserted “, using an electronic medium pursuant to section 480 of this title,” after “notifies” and struck out “in writing” after “committees of Congress”.
+Subsec. (c)(2). Pub. L. 115–91, § 2801(c)(1)(A), (C), inserted “, using an electronic medium pursuant to section 480 of this title,” after “notifies” and struck out “in writing” after “committees of Congress”.
 
-Subsec. (f). Pub. L. 115–91, § 2821(2), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 115–91, § 2821(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 115–91, § 2821(1), (3), redesignated subsec. (f) as (g) and substituted “subsections (a) through (f)” for “subsections (a) through (e)”.
+Subsec. (g). Pub. L. 115–91, § 2821(1), (3), redesignated subsec. (f) as (g) and substituted “subsections (a) through (f)” for “subsections (a) through (e)”.
 
-2016—Subsec. (a). Pub. L. 114–328, § 2803(c), inserted “of this title” after “section 2805(a)”.
+2016—Subsec. (a). Pub. L. 114–328, § 2803(c), inserted “of this title” after “section 2805(a)”.
 
-Pub. L. 114–328, § 2803(b)(1), substituted “subsection (c), (d), or (e)” for “subsection (c) or (d)”.
+Pub. L. 114–328, § 2803(b)(1), substituted “subsection (c), (d), or (e)” for “subsection (c) or (d)”.
 
-Subsec. (b)(2). Pub. L. 114–328, § 2803(a)(1), substituted “Except as provided in subsection (d), the scope of work” for “The scope of work”.
+Subsec. (b)(2). Pub. L. 114–328, § 2803(a)(1), substituted “Except as provided in subsection (d), the scope of work” for “The scope of work”.
 
-Subsec. (d). Pub. L. 114–328, § 2803(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 114–328, § 2803(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 114–328, § 2803(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 114–328, § 2803(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 114–328, § 2803(a)(2), (b)(2), redesignated subsec. (e) as (f) and substituted “through (e)” for “through (d)”.
+Subsec. (f). Pub. L. 114–328, § 2803(a)(2), (b)(2), redesignated subsec. (e) as (f) and substituted “through (e)” for “through (d)”.
 
 2014—Subsec. (c)(1)(A). Pub. L. 113–291 substituted “can still be” for “can be still be”.
 
-2013—Subsec. (a). Pub. L. 112–239, § 2801(1), substituted “was authorized” for “was approved originally”.
+2013—Subsec. (a). Pub. L. 112–239, § 2801(1), substituted “was authorized” for “was approved originally”.
 
-Subsec. (b)(1). Pub. L. 112–239, § 2801(2)(A), inserted at end “Any reduction in scope of work for a military construction project shall not result in a facility or item of infrastructure that is not complete and useable or does not fully meet the mission requirement contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.”
+Subsec. (b)(1). Pub. L. 112–239, § 2801(2)(A), inserted at end “Any reduction in scope of work for a military construction project shall not result in a facility or item of infrastructure that is not complete and useable or does not fully meet the mission requirement contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.”
 
-Subsec. (b)(3). Pub. L. 112–239, § 2801(2)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 112–239, § 2801(2)(B), added par. (3).
 
-Subsec. (c)(1)(A). Pub. L. 112–239, § 2801(3), substituted “, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can be still be met with the reduced scope, and a description” for “and the reasons therefor, including a description”.
+Subsec. (c)(1)(A). Pub. L. 112–239, § 2801(3), substituted “, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can be still be met with the reduced scope, and a description” for “and the reasons therefor, including a description”.
 
-Subsec. (e). Pub. L. 112–239, § 2801(4), added subsec. (e).
+Subsec. (e). Pub. L. 112–239, § 2801(4), added subsec. (e).
 
 2011—Subsec. (a). Pub. L. 112–81 substituted “section 2805(a)” for “section 2805(a)(1)”.
 
-2009—Subsec. (b). Pub. L. 111–84, § 2803(1), designated existing provisions as par. (1), substituted “may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.” for “may be reduced by not more than 25 percent from the amount approved for that project, construction, improvement, or acquisition by Congress.”, and added par. (2).
+2009—Subsec. (b). Pub. L. 111–84, § 2803(1), designated existing provisions as par. (1), substituted “may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.” for “may be reduced by not more than 25 percent from the amount approved for that project, construction, improvement, or acquisition by Congress.”, and added par. (2).
 
-Subsec. (c). Pub. L. 111–84, § 2803(2), substituted “subsection (b)(1)” for “subsection (b)” in introductory provisions.
+Subsec. (c). Pub. L. 111–84, § 2803(2), substituted “subsection (b)(1)” for “subsection (b)” in introductory provisions.
 
-2006—Pub. L. 109–163, § 2804(c)(1), substituted “Authorized cost and scope of work variations” for “Authorized cost variations” in section catchline.
+2006—Pub. L. 109–163, § 2804(c)(1), substituted “Authorized cost and scope of work variations” for “Authorized cost variations” in section catchline.
 
-Subsec. (a). Pub. L. 109–163, § 2804(a)(1), substituted “may be increased or decreased by not more than 25 percent” for “may be increased by not more than 25 percent” and “if the Secretary concerned determines that such revised cost is required” for “if the Secretary concerned determines that such an increase in cost is required”.
+Subsec. (a). Pub. L. 109–163, § 2804(a)(1), substituted “may be increased or decreased by not more than 25 percent” for “may be increased by not more than 25 percent” and “if the Secretary concerned determines that such revised cost is required” for “if the Secretary concerned determines that such an increase in cost is required”.
 
 Subsec. (c). Pub. L. 109–364 substituted “if the variation in cost or reduction in the scope of work is approved by the Secretary concerned and—” for “if—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
@@ -5085,9 +5085,9 @@ Subsec. (c). Pub. L. 109–364 substituted “if the variation in cost or reduct
 
 “(3) a period of 21 days has elapsed after the date on which the notification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.”
 
-Pub. L. 109–163, § 2804(a)(2), (b), substituted “limitation on cost variations” for “limitation on cost increase” in introductory provisions, “the variation” for “the increase” in pars. (1) and (2), and inserted “, including a description of the funds proposed to be used to finance any increased costs” after “the reasons therefor” in par. (2).
+Pub. L. 109–163, § 2804(a)(2), (b), substituted “limitation on cost variations” for “limitation on cost increase” in introductory provisions, “the variation” for “the increase” in pars. (1) and (2), and inserted “, including a description of the funds proposed to be used to finance any increased costs” after “the reasons therefor” in par. (2).
 
-Subsec. (d). Pub. L. 109–163, § 2804(a)(3), substituted “limitation on cost variations” for “limitation on cost increases” in introductory provisions.
+Subsec. (d). Pub. L. 109–163, § 2804(a)(3), substituted “limitation on cost variations” for “limitation on cost increases” in introductory provisions.
 
 2004—Subsec. (c)(3). Pub. L. 108–375 inserted before period at end “or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
@@ -5097,21 +5097,21 @@ Subsec. (d). Pub. L. 109–163, § 2804(a)(3), substituted “limitation on co
 
 1989—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (f).
 
-1987—Subsec. (a)(1). Pub. L. 100–180, § 2312, substituted “Except as provided in paragraph (2), the total cost authorized for military construction projects at an installation (including each project the cost of which is included in such total authorized cost and is less than the minor project ceiling) may be increased by not more than 25 percent of the total amount appropriated for such projects” for “Except as provided in paragraph (2), the cost authorized for a military construction project (other than a project for which the approved amount is less than the minor project ceiling (as defined in subsection (f))) may be increased by not more than 25 percent of the amount appropriated for the project”.
+1987—Subsec. (a)(1). Pub. L. 100–180, § 2312, substituted “Except as provided in paragraph (2), the total cost authorized for military construction projects at an installation (including each project the cost of which is included in such total authorized cost and is less than the minor project ceiling) may be increased by not more than 25 percent of the total amount appropriated for such projects” for “Except as provided in paragraph (2), the cost authorized for a military construction project (other than a project for which the approved amount is less than the minor project ceiling (as defined in subsection (f))) may be increased by not more than 25 percent of the amount appropriated for the project”.
 
-Pub. L. 100–26, § 7(f)(2)(A), substituted “the minor project ceiling (as defined in subsection (f))” for “the amount specified by law as the maximum amount for a minor military construction project”.
+Pub. L. 100–26, § 7(f)(2)(A), substituted “the minor project ceiling (as defined in subsection (f))” for “the amount specified by law as the maximum amount for a minor military construction project”.
 
-Pub. L. 100–26, § 7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project”.
+Pub. L. 100–26, § 7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project”.
 
-Subsec. (a)(2). Pub. L. 100–26, § 7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project” in two places.
+Subsec. (a)(2). Pub. L. 100–26, § 7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project” in two places.
 
-Subsec. (b). Pub. L. 100–26, § 7(f)(2)(B), (C), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project” and “the amount of such ceiling” for “such maximum amount” in two places.
+Subsec. (b). Pub. L. 100–26, § 7(f)(2)(B), (C), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project” and “the amount of such ceiling” for “such maximum amount” in two places.
 
-Subsec. (c). Pub. L. 100–180, § 2313, substituted “construction, improvement,” for “construction”.
+Subsec. (c). Pub. L. 100–180, § 2313, substituted “construction, improvement,” for “construction”.
 
-Subsec. (e). Pub. L. 100–26, § 7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project”.
+Subsec. (e). Pub. L. 100–26, § 7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project”.
 
-Subsec. (f). Pub. L. 100–26, § 7(f)(2)(D), added subsec. (f).
+Subsec. (f). Pub. L. 100–26, § 7(f)(2)(D), added subsec. (f).
 
 1984—Subsec. (e). Pub. L. 98–407 inserted “is more than the amount specified by law as the maximum amount for a minor military construction project and”.
 
@@ -5121,7 +5121,7 @@ Subsec. (f). Pub. L. 100–26, § 7(f)(2)(D), added subsec. (f).
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2854. Restoration or replacement of damaged or destroyed facilities
+### § 2854. Restoration or replacement of damaged or destroyed facilities
 
 **(a)** Subject to subsection (b), the Secretary concerned may repair, restore, or replace a facility under his jurisdiction, including a family housing facility, that has been damaged or destroyed.
 
@@ -5147,7 +5147,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **(3)** The maximum aggregate amount that the Secretary concerned may obligate from appropriations available for operation and maintenance in any fiscal year for replacement projects under the authority of this subsection is $300,000,000.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 165; amended Pub. L. 102–190, div. B, title XXVIII, § 2870(7), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 108–136, div. A, title X, § 1031(a)(45), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(c)(2), 2805, Dec. 12, 2017, 131 Stat. 1843, 1846; Pub. L. 116–92, div. B, title XXVIII, § 2803, Dec. 20, 2019, 133 Stat. 1882; Pub. L. 119–60, div. B, title XXVIII, § 2813, Dec. 18, 2025, 139 Stat. 1302.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 165; amended Pub. L. 102–190, div. B, title XXVIII, § 2870(7), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 108–136, div. A, title X, § 1031(a)(45), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(c)(2), 2805, Dec. 12, 2017, 131 Stat. 1843, 1846; Pub. L. 116–92, div. B, title XXVIII, § 2803, Dec. 20, 2019, 133 Stat. 1882; Pub. L. 119–60, div. B, title XXVIII, § 2813, Dec. 18, 2025, 139 Stat. 1302.)
 
 **Editorial Notes**
 
@@ -5157,15 +5157,15 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 2019—Subsec. (c)(3). Pub. L. 116–92 substituted “$100,000,000” for “$50,000,000”.
 
-2017—Subsec. (b). Pub. L. 115–91, § 2805(b), substituted “under subsection (a)” for “under this section”.
+2017—Subsec. (b). Pub. L. 115–91, § 2805(b), substituted “under subsection (a)” for “under this section”.
 
-Pub. L. 115–91, § 2801(c)(2), struck out “in writing” after “shall notify” and “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided” after “received by such committees” and substituted “14-day period” for “21-day period”.
+Pub. L. 115–91, § 2801(c)(2), struck out “in writing” after “shall notify” and “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided” after “received by such committees” and substituted “14-day period” for “21-day period”.
 
-Subsec. (c). Pub. L. 115–91, § 2805(a), added subsec. (c).
+Subsec. (c). Pub. L. 115–91, § 2805(a), added subsec. (c).
 
 2003—Subsec. (b). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
-1991—Subsec. (b). Pub. L. 102–190 struck out “(1)” after “carried out only” and “, or (2) after each such committee has approved the project, if the committees approve the project before the end of that period” before period at end.
+1991—Subsec. (b). Pub. L. 102–190 struck out “(1)” after “carried out only” and “, or (2) after each such committee has approved the project, if the committees approve the project before the end of that period” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5173,7 +5173,7 @@ Subsec. (c). Pub. L. 115–91, § 2805(a), added subsec. (c).
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2854a. Conveyance of damaged or deteriorated military family housing; use of proceeds
+### § 2854a. Conveyance of damaged or deteriorated military family housing; use of proceeds
 
 **(a) Authority To Convey.—**
 
@@ -5225,13 +5225,13 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **(g) Additional Terms and Conditions.—** The Secretary concerned may require such additional terms and conditions in connection with the conveyance of family housing facilities under this section as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 107–107, div. A, title X, § 1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, § 3(b)(21), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, § 1031(a)(46), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, § 5(b)(49), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, § 2801(c)(3), Dec. 12, 2017, 131 Stat. 1843.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 107–107, div. A, title X, § 1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, § 3(b)(21), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, § 1031(a)(46), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, § 5(b)(49), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, § 2801(c)(3), Dec. 12, 2017, 131 Stat. 1843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title V of the Act is classified generally to subchapter V (§ 11411 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title V of the Act is classified generally to subchapter V (§ 11411 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 **Amendments**
 
@@ -5245,7 +5245,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pu
 
 2001—Subsec. (d)(2). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-### § 2855. Law applicable to contracts for architectural and engineering services and construction design
+### § 2855. Law applicable to contracts for architectural and engineering services and construction design
 
 **(a)** Contracts for architectural and engineering services and construction design in connection with a military construction project or a military family housing project shall be awarded in accordance with chapter 11 of title 40.
 
@@ -5257,19 +5257,19 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pu
 
 **(3)** This subsection does not restrict the award of contracts to small business concerns under section 8(a) of the Small Business Act (15 U.S.C. 637(a)).
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 166; amended Pub. L. 98–407, title VIII, § 808(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 107–217, § 3(b)(22), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title XIV, § 1427(a), Nov. 24, 2003, 117 Stat. 1670; Pub. L. 115–232, div. B, title XXVIII, § 2804(a), (b), Aug. 13, 2018, 132 Stat. 2261.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 166; amended Pub. L. 98–407, title VIII, § 808(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 107–217, § 3(b)(22), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title XIV, § 1427(a), Nov. 24, 2003, 117 Stat. 1670; Pub. L. 115–232, div. B, title XXVIII, § 2804(a), (b), Aug. 13, 2018, 132 Stat. 2261.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Small Business Act, referred to in subsec. (b)(1), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (b)(1), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–232, § 2804(a), substituted “subsection (a),” for “subsection (a)—”, struck out subpar. (B) designation before “if the Secretary”, and struck out subpar. (A) which read as follows: “if the Secretary concerned estimates that the initial award of the contract will be in an amount greater than or equal to the threshold amount determined under paragraph (2), the contract may not be set aside exclusively for award to small business concerns; and”.
+2018—Subsec. (b)(1). Pub. L. 115–232, § 2804(a), substituted “subsection (a),” for “subsection (a)—”, struck out subpar. (B) designation before “if the Secretary”, and struck out subpar. (A) which read as follows: “if the Secretary concerned estimates that the initial award of the contract will be in an amount greater than or equal to the threshold amount determined under paragraph (2), the contract may not be set aside exclusively for award to small business concerns; and”.
 
-Subsec. (b)(2). Pub. L. 115–232, § 2804(b), substituted “threshold” for “initial threshold” and “$1,000,000” for “$300,000” and struck out last sentence which read as follows: “The Secretary of Defense may revise that amount in order to ensure that small business concerns receive a reasonable share of contracts referred to in subsection (a).”
+Subsec. (b)(2). Pub. L. 115–232, § 2804(b), substituted “threshold” for “initial threshold” and “$1,000,000” for “$300,000” and struck out last sentence which read as follows: “The Secretary of Defense may revise that amount in order to ensure that small business concerns receive a reasonable share of contracts referred to in subsection (a).”
 
 2003—Subsec. (b)(2). Pub. L. 108–136 substituted “$300,000” for “$85,000”.
 
@@ -5281,17 +5281,17 @@ Subsec. (b)(2). Pub. L. 115–232, § 2804(b), substituted “threshold” for
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. B, title XXVIII, § 2804(c), Aug. 13, 2018, 132 Stat. 2262, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
+Pub. L. 115–232, div. B, title XXVIII, § 2804(c), Aug. 13, 2018, 132 Stat. 2262, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–407, title VIII, § 808(b), Aug. 28, 1984, 98 Stat. 1522, provided that: “Subsection (b) of section 2855 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts awarded after September 30, 1984, except that the authority of the Secretary of Defense under paragraph (2) of that subsection shall apply only with respect to contracts awarded after September 30, 1985.”
+Pub. L. 98–407, title VIII, § 808(b), Aug. 28, 1984, 98 Stat. 1522, provided that: “Subsection (b) of section 2855 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts awarded after September 30, 1984, except that the authority of the Secretary of Defense under paragraph (2) of that subsection shall apply only with respect to contracts awarded after September 30, 1985.”
 
 **Effective Date**
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2856. Military unaccompanied housing: standards
+### § 2856. Military unaccompanied housing: standards
 
 **(a) Local Comparability in Floor Areas.—** In the construction, acquisition, and improvement of covered military unaccompanied housing, the Secretary concerned shall ensure that the floor areas of such housing in a particular locality (as designated by the Secretary concerned for purposes of this section) do not exceed the floor areas of similar housing in the private sector in that locality, except for purposes of meeting minimum area requirements under subsection (b)(1)(A).
 
@@ -5311,7 +5311,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **(c) Covered Military Unaccompanied Housing.—** For purposes of this section, section 2856a, and section 2856b, the term “covered military unaccompanied housing” means Government-owned military housing intended to be occupied by members of the armed forces serving a tour of duty unaccompanied by dependents.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 166; amended Pub. L. 101–510, div. A, title XIII, § 1301(19), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 109–364, div. B, title XXVIII, § 2807(a)(1), Oct. 17, 2006, 120 Stat. 2468; Pub. L. 118–31, div. B, title XXVIII, § 2831(a)(1), Dec. 22, 2023, 137 Stat. 753; Pub. L. 118–159, div. A, title XVII, § 1701(a)(31), Dec. 23, 2024, 138 Stat. 2205.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 166; amended Pub. L. 101–510, div. A, title XIII, § 1301(19), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 109–364, div. B, title XXVIII, § 2807(a)(1), Oct. 17, 2006, 120 Stat. 2468; Pub. L. 118–31, div. B, title XXVIII, § 2831(a)(1), Dec. 22, 2023, 137 Stat. 753; Pub. L. 118–159, div. A, title XVII, § 1701(a)(31), Dec. 23, 2024, 138 Stat. 2205.)
 
 **Editorial Notes**
 
@@ -5319,9 +5319,9 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 2024—Subsec. (a). Pub. L. 118–159 substituted “subsection (b)(1)(A).” for “subsection (b)(1)(A),.”.
 
-2023—Pub. L. 118–31, § 2831(a)(1)(B)–(D), designated existing provisions as subsec. (a) and inserted heading, inserted “covered” before “military unaccompanied housing” and “, except for purposes of meeting minimum area requirements under subsection (b)(1)(A),” before period at end, and added subsecs. (b) and (c).
+2023—Pub. L. 118–31, § 2831(a)(1)(B)–(D), designated existing provisions as subsec. (a) and inserted heading, inserted “covered” before “military unaccompanied housing” and “, except for purposes of meeting minimum area requirements under subsection (b)(1)(A),” before period at end, and added subsecs. (b) and (c).
 
-Pub. L. 118–31, § 2831(a)(1)(A), substituted “standards” for “local comparability of floor areas” in section catchline.
+Pub. L. 118–31, § 2831(a)(1)(A), substituted “standards” for “local comparability of floor areas” in section catchline.
 
 2006—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations establishing the maximum allowable net square feet per occupant for new permanent barracks construction. Such regulations shall be uniform for the armed forces under the jurisdiction of the Secretary of a military department.”
 
@@ -5335,7 +5335,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Improvement of Administration of Military Unaccompanied Housing**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2827, Dec. 18, 2025, 139 Stat. 1311, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2827, Dec. 18, 2025, 139 Stat. 1311, provided that:
 
 > **“(a) Updated Guidance on Surveys.—** The Secretary of Defense, in carrying out the satisfaction survey requirement under section 3058 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 10 U.S.C. 2821 note), shall update guidance to the Secretaries of the military departments to ensure that members of the Armed Forces living in military unaccompanied housing are surveyed in a consistent and comparable manner.
 
@@ -5373,7 +5373,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2827, Dec. 18, 2025, 139 Stat. 1311
 
 **Uniform Design Standards**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2831(b), (c), Dec. 22, 2023, 137 Stat. 753, 754, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2831(b), (c), Dec. 22, 2023, 137 Stat. 753, 754, provided that:
 
 > **“(b) Completion and Issuance of Uniform Design Standards.—** Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall—
 
@@ -5395,7 +5395,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2831(b), (c), Dec. 22, 2023, 137 St
 
 > **“(3) Covered military unaccompanied housing defined.—** In this subsection, the term ‘covered military unaccompanied housing’ has the meaning given in section 2856 of title 10, United States Code (as amended by subsection (a)).”
 
-### § 2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards and covered health and safety standards
+### § 2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards and covered health and safety standards
 
 **(a) Procedures for Issuance of Certain Waivers.—** Any waiver of covered privacy and configuration standards or covered health and safety standards shall be issued in accordance with the following:
 
@@ -5455,37 +5455,37 @@ Pub. L. 118–31, div. B, title XXVIII, § 2831(b), (c), Dec. 22, 2023, 137 St
 
 **(2)** The term “covered privacy and configuration standard” means the minimum standards for privacy and configuration applicable to covered military unaccompanied housing described in Department of Defense Manual 4165.63 titled “DoD Housing Management” and dated October 28, 2010 (or a successor document).
 
-(Added Pub. L. 118–31, div. B, title XXVIII, § 2833(b), Dec. 22, 2023, 137 Stat. 755; amended Pub. L. 118–159, div. B, title XXVIII, § 2824, Dec. 23, 2024, 138 Stat. 2256; Pub. L. 119–60, div. B, title XXVIII, § 2822, Dec. 18, 2025, 139 Stat. 1305.)
+(Added Pub. L. 118–31, div. B, title XXVIII, § 2833(b), Dec. 22, 2023, 137 Stat. 755; amended Pub. L. 118–159, div. B, title XXVIII, § 2824, Dec. 23, 2024, 138 Stat. 2256; Pub. L. 119–60, div. B, title XXVIII, § 2822, Dec. 18, 2025, 139 Stat. 1305.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2833(b), Dec. 22, 2023, 137 Stat. 755, which directed amendment of “Subchapter III of title 10” by adding this section after section 2856 of this title, was executed to subchapter III of chapter 169 of this title, to reflect the probable intent of Congress.
+Pub. L. 118–31, div. B, title XXVIII, § 2833(b), Dec. 22, 2023, 137 Stat. 755, which directed amendment of “Subchapter III of title 10” by adding this section after section 2856 of this title, was executed to subchapter III of chapter 169 of this title, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 2822(a)(1), inserted “and covered health and safety standards” after “standards” in section catchline.
+2025—Pub. L. 119–60, § 2822(a)(1), inserted “and covered health and safety standards” after “standards” in section catchline.
 
-Subsec. (a). Pub. L. 119–60, § 2822(a)(2)(A), (B), in introductory provisions, substituted “Any” for “Effective March 2, 2024, any” and inserted “or covered health and safety standards” after “covered privacy and configuration standards”.
+Subsec. (a). Pub. L. 119–60, § 2822(a)(2)(A), (B), in introductory provisions, substituted “Any” for “Effective March 2, 2024, any” and inserted “or covered health and safety standards” after “covered privacy and configuration standards”.
 
-Subsec. (a)(1). Pub. L. 119–60, § 2822(a)(2)(C)(ii), substituted “covered privacy and configuration standards or covered health and safety standards” for “covered habitability standards”.
+Subsec. (a)(1). Pub. L. 119–60, § 2822(a)(2)(C)(ii), substituted “covered privacy and configuration standards or covered health and safety standards” for “covered habitability standards”.
 
-Pub. L. 119–60, § 2822(a)(2)(C)(i), which directed the insertion of “or covered health and safety standards” after “covered privacy and configuration standards” could not be executed because “covered privacy and configuration standards” does not appear in text.
+Pub. L. 119–60, § 2822(a)(2)(C)(i), which directed the insertion of “or covered health and safety standards” after “covered privacy and configuration standards” could not be executed because “covered privacy and configuration standards” does not appear in text.
 
-Subsec. (a)(2). Pub. L. 119–60, § 2822(b), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
+Subsec. (a)(2). Pub. L. 119–60, § 2822(b), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
 
-Pub. L. 119–60, § 2822(a)(2)(D), inserted “or covered health and safety standards (as applicable)” after “covered privacy and configuration standards” in introductory provisions and in subpar. (B).
+Pub. L. 119–60, § 2822(a)(2)(D), inserted “or covered health and safety standards (as applicable)” after “covered privacy and configuration standards” in introductory provisions and in subpar. (B).
 
-Subsec. (a)(4). Pub. L. 119–60, § 2822(a)(2)(E), inserted “or covered health and safety standards” after “covered privacy and configuration standards”.
+Subsec. (a)(4). Pub. L. 119–60, § 2822(a)(2)(E), inserted “or covered health and safety standards” after “covered privacy and configuration standards”.
 
-Subsec. (b)(2). Pub. L. 119–60, § 2822(a)(3)(B), inserted “, and a timeline to implement such plan” after “waiver”.
+Subsec. (b)(2). Pub. L. 119–60, § 2822(a)(3)(B), inserted “, and a timeline to implement such plan” after “waiver”.
 
-Subsec. (b)(3), (4), (5)(A). Pub. L. 119–60, § 2822(a)(3)(A), substituted “applicable standards” for “such uniform standards”.
+Subsec. (b)(3), (4), (5)(A). Pub. L. 119–60, § 2822(a)(3)(A), substituted “applicable standards” for “such uniform standards”.
 
-Subsec. (b)(6) to (9). Pub. L. 119–60, § 2822(a)(3)(C)–(E), added pars. (6) to (9).
+Subsec. (b)(6) to (9). Pub. L. 119–60, § 2822(a)(3)(C)–(E), added pars. (6) to (9).
 
-Subsec. (c). Pub. L. 119–60, § 2822(a)(4), amended subsec. (c) generally. Prior to amendment, subsec. (c) defined “covered privacy and configuration standard”.
+Subsec. (c). Pub. L. 119–60, § 2822(a)(4), amended subsec. (c) generally. Prior to amendment, subsec. (c) defined “covered privacy and configuration standard”.
 
 2024—Subsec. (a)(4). Pub. L. 118–159 substituted “15 months” for “9 months”.
 
@@ -5493,21 +5493,21 @@ Subsec. (c). Pub. L. 119–60, § 2822(a)(4), amended subsec. (c) generally. P
 
 **Revisions to Rules, Guidance, or Other Issuances**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2833(d), Dec. 22, 2023, 137 Stat. 757, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense and Secretaries of the military departments shall revise any rule, guidance, or other issuance of the Department of Defense and the military departments under the respective jurisdictions of such Secretaries to include the procedures for the issuance of waivers of covered privacy and configuration standards [see section 2833(f) of Pub. L. 118–31, set out as a note below] pursuant to section 2856a of title 10, United States Code (as added by subsection (a)).”
+Pub. L. 118–31, div. B, title XXVIII, § 2833(d), Dec. 22, 2023, 137 Stat. 757, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense and Secretaries of the military departments shall revise any rule, guidance, or other issuance of the Department of Defense and the military departments under the respective jurisdictions of such Secretaries to include the procedures for the issuance of waivers of covered privacy and configuration standards [see section 2833(f) of Pub. L. 118–31, set out as a note below] pursuant to section 2856a of title 10, United States Code (as added by subsection (a)).”
 
 **Termination of Existing Waivers of Covered Privacy and Configuration Standards**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2833(a), Dec. 22, 2023, 137 Stat. 755, provided that: “Any waiver of covered privacy and configuration standards [see section 2833(f) of Pub. L. 118–31, set out as a note below] in effect on or before the date of the enactment of this Act [Dec. 22, 2023] shall terminate on March 1, 2024.”
+Pub. L. 118–31, div. B, title XXVIII, § 2833(a), Dec. 22, 2023, 137 Stat. 755, provided that: “Any waiver of covered privacy and configuration standards [see section 2833(f) of Pub. L. 118–31, set out as a note below] in effect on or before the date of the enactment of this Act [Dec. 22, 2023] shall terminate on March 1, 2024.”
 
 **Covered Privacy and Configuration Standard**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2833(f), Dec. 22, 2023, 137 Stat. 757, provided that: “The term ‘covered privacy and configuration standard’ has the meaning given in section 2856a of title 10, United States Code (as added by subsection (a)).”
+Pub. L. 118–31, div. B, title XXVIII, § 2833(f), Dec. 22, 2023, 137 Stat. 757, provided that: “The term ‘covered privacy and configuration standard’ has the meaning given in section 2856a of title 10, United States Code (as added by subsection (a)).”
 
 **Definitions**
 
 For definition of “covered military unaccompanied housing” as used in this section, see section 2856(c) of this title.
 
-### § 2856b. Covered military unaccompanied housing: standards for habitability
+### § 2856b. Covered military unaccompanied housing: standards for habitability
 
 **(a) Standards Required.—** For the purposes of assigning a member of the armed forces to a unit of covered military unaccompanied housing, the Secretary of Defense shall establish uniform minimum standards for covered military unaccompanied housing, that shall include minimum requirements for—
 
@@ -5523,29 +5523,29 @@ For definition of “covered military unaccompanied housing” as used in this s
 
 **(c) Certification.—** The Secretary of Defense shall include, in conjunction with the submission of the budget of the President to Congress pursuant to section 1105 of title 31, a certification from each Secretary of a military department to the congressional defense committees that the cost for all needed repairs and improvements for each occupied covered military unaccompanied housing facility under the jurisdiction of such Secretary does not exceed 20 percent of the replacement cost of such facility, as mandated by Department of Defense Manual 4165.63 titled “DoD Housing Management” and dated October 28, 2010 (or a successor document).
 
-(Added and amended Pub. L. 118–31, div. B, title XXVIII, §§ 2832(a), 2834, Dec. 22, 2023, 137 Stat. 754, 757.)
+(Added and amended Pub. L. 118–31, div. B, title XXVIII, §§ 2832(a), 2834, Dec. 22, 2023, 137 Stat. 754, 757.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2832(a), Dec. 22, 2023, 137 Stat. 754, which directed amendment of “Subchapter III of title 10” by adding this section after section 2856a of this title, was executed to subchapter III of chapter 169 of this title, to reflect the probable intent of Congress.
+Pub. L. 118–31, div. B, title XXVIII, § 2832(a), Dec. 22, 2023, 137 Stat. 754, which directed amendment of “Subchapter III of title 10” by adding this section after section 2856a of this title, was executed to subchapter III of chapter 169 of this title, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2023—Subsec. (c). Pub. L. 118–31, § 2834, added subsec. (c).
+2023—Subsec. (c). Pub. L. 118–31, § 2834, added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Guidance**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2832(b), Dec. 22, 2023, 137 Stat. 754, provided that: “Not later than 30 days after the date on which the Secretary of Defense develops the uniform standards under section 2856b of title 10, United States Code (as added by subsection (a)), the Secretary of Defense shall issue to each Secretary of a military department guidance on such uniform standards.”
+Pub. L. 118–31, div. B, title XXVIII, § 2832(b), Dec. 22, 2023, 137 Stat. 754, provided that: “Not later than 30 days after the date on which the Secretary of Defense develops the uniform standards under section 2856b of title 10, United States Code (as added by subsection (a)), the Secretary of Defense shall issue to each Secretary of a military department guidance on such uniform standards.”
 
 **Definitions**
 
 For definition of “covered military unaccompanied housing” as used in this section, see section 2856(c) of this title.
 
-### § 2857. Window fall prevention devices in military family housing units
+### § 2857. Window fall prevention devices in military family housing units
 
 **(a) Requiring Use of Devices on Certain Windows.—**
 
@@ -5573,7 +5573,7 @@ For definition of “covered military unaccompanied housing” as used in this s
 
 **(e) Applicability to All Military Family Housing.—** This section applies to military family housing under the jurisdiction of the Department of Defense and military family housing acquired or constructed under subchapter IV of this chapter.
 
-(Added Pub. L. 115–91, div. B, title XXVIII, § 2817(a)(1), Dec. 12, 2017, 131 Stat. 1851, § 2879; amended Pub. L. 115–232, div. A, title X, § 1081(a)(28), div. B, title XXVIII, § 2823(a), Aug. 13, 2018, 132 Stat. 1985, 2269; Pub. L. 116–92, div. A, title XVII, § 1731(a)(57), div. B, title XXX, § 3034, Dec. 20, 2019, 133 Stat. 1815, 1936; renumbered § 2857 and amended Pub. L. 117–81, div. B, title XXVIII, § 2812(a), (b), Dec. 27, 2021, 135 Stat. 2191.)
+(Added Pub. L. 115–91, div. B, title XXVIII, § 2817(a)(1), Dec. 12, 2017, 131 Stat. 1851, § 2879; amended Pub. L. 115–232, div. A, title X, § 1081(a)(28), div. B, title XXVIII, § 2823(a), Aug. 13, 2018, 132 Stat. 1985, 2269; Pub. L. 116–92, div. A, title XVII, § 1731(a)(57), div. B, title XXX, § 3034, Dec. 20, 2019, 133 Stat. 1815, 1936; renumbered § 2857 and amended Pub. L. 117–81, div. B, title XXVIII, § 2812(a), (b), Dec. 27, 2021, 135 Stat. 2191.)
 
 **Editorial Notes**
 
@@ -5583,45 +5583,45 @@ A prior section 2857 was renumbered section 2915 of this title.
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 2812(a), renumbered section 2879 of this title as this section and transferred it to appear after section 2856 of this title.
+2021—Pub. L. 117–81, § 2812(a), renumbered section 2879 of this title as this section and transferred it to appear after section 2856 of this title.
 
-Subsec. (a)(1). Pub. L. 117–81, § 2812(b)(1), struck out “acquired or constructed under this chapter” after “housing unit”.
+Subsec. (a)(1). Pub. L. 117–81, § 2812(b)(1), struck out “acquired or constructed under this chapter” after “housing unit”.
 
-Subsec. (b)(1). Pub. L. 117–81, § 2812(b)(2), struck out “acquired or constructed under this chapter” after “housing units”.
+Subsec. (b)(1). Pub. L. 117–81, § 2812(b)(2), struck out “acquired or constructed under this chapter” after “housing units”.
 
-Subsec. (e). Pub. L. 117–81, § 2812(b)(3), added subsec. (e).
+Subsec. (e). Pub. L. 117–81, § 2812(b)(3), added subsec. (e).
 
-2019—Subsec. (a)(1). Pub. L. 116–92, § 3034(a)(1), substituted “described in paragraph (3)” for “that protect against unintentional window falls by young children and that are in compliance with applicable International Building Code (IBC) standards”.
+2019—Subsec. (a)(1). Pub. L. 116–92, § 3034(a)(1), substituted “described in paragraph (3)” for “that protect against unintentional window falls by young children and that are in compliance with applicable International Building Code (IBC) standards”.
 
-Subsec. (a)(2)(A). Pub. L. 116–92, § 3034(a)(2)(A), substituted “October 1, 2019” for “December 11, 2017”.
+Subsec. (a)(2)(A). Pub. L. 116–92, § 3034(a)(2)(A), substituted “October 1, 2019” for “December 11, 2017”.
 
-Pub. L. 116–92, § 1731(a)(57), struck out comma before period at end.
+Pub. L. 116–92, § 1731(a)(57), struck out comma before period at end.
 
-Subsec. (a)(2)(B). Pub. L. 116–92, § 3034(a)(2)(B), substituted “October 1, 2019” for “September 1, 2018”.
+Subsec. (a)(2)(B). Pub. L. 116–92, § 3034(a)(2)(B), substituted “October 1, 2019” for “September 1, 2018”.
 
-Subsec. (a)(3). Pub. L. 116–92, § 3034(a)(3), added par. (3).
+Subsec. (a)(3). Pub. L. 116–92, § 3034(a)(3), added par. (3).
 
-Subsec. (b)(1). Pub. L. 116–92, § 3034(c), substituted “paragraph (3)” for “paragraph (1)”.
+Subsec. (b)(1). Pub. L. 116–92, § 3034(c), substituted “paragraph (3)” for “paragraph (1)”.
 
-Subsec. (c). Pub. L. 116–92, § 3034(b), substituted “42 inches” for “24 inches”.
+Subsec. (c). Pub. L. 116–92, § 3034(b), substituted “42 inches” for “24 inches”.
 
-2018—Subsec. (a)(1). Pub. L. 115–232, § 2823(a)(1), substituted “subsection (c)” for “subsection (b)”.
+2018—Subsec. (a)(1). Pub. L. 115–232, § 2823(a)(1), substituted “subsection (c)” for “subsection (b)”.
 
-Subsec. (a)(2)(A). Pub. L. 115–232, § 1081(a)(28), substituted “after December 11, 2017,” for “on or after the date of the enactment of this section”.
+Subsec. (a)(2)(A). Pub. L. 115–232, § 1081(a)(28), substituted “after December 11, 2017,” for “on or after the date of the enactment of this section”.
 
-Subsecs. (b) to (d). Pub. L. 115–232, § 2823(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 115–232, § 2823(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. B, title XXVIII, § 2823(b), Aug. 13, 2018, 132 Stat. 2269, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
+Pub. L. 115–232, div. B, title XXVIII, § 2823(b), Aug. 13, 2018, 132 Stat. 2269, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
 
-### § 2858. Limitation on the use of funds for expediting a construction project
+### § 2858. Limitation on the use of funds for expediting a construction project
 
 Funds appropriated for military construction (including military family housing) may not be expended for additional costs involved in expediting a construction project unless the Secretary concerned (1) certifies that expenditures for such costs are necessary to protect the national interest, and (2) establishes a reasonable completion date for the project. In establishing such a completion date, the Secretary shall take into consideration the urgency of the requirement for completion of the project, the type and location of the project, the climatic and seasonal conditions affecting the construction involved, and the application of economical construction practices.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 167.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 167.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5629,15 +5629,15 @@ Funds appropriated for military construction (including military family housing)
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### [§ 2859. Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2848(a), Dec. 18, 2025, 139 Stat. 1319]
+### [§ 2859. Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2848(a), Dec. 18, 2025, 139 Stat. 1319]
 
-Section, added Pub. L. 108–375, div. B, title XXVIII, § 2804(a)(1), Oct. 28, 2004, 118 Stat. 2121; amended Pub. L. 109–364, div. B, title XXVIII, § 2808(a), (b)(1), Oct. 17, 2006, 120 Stat. 2469; Pub. L. 112–239, div. A, title X, § 1081(2), Jan. 2, 2013, 126 Stat. 1960; Pub. L. 113–66, div. B, title XXVIII, § 2803(a), Dec. 26, 2013, 127 Stat. 1006; Pub. L. 115–91, div. A, title X, § 1051(a)(22), Dec. 12, 2017, 131 Stat. 1562, related to construction requirements pertaining to antiterrorism and force protection or urban-training operations.
+Section, added Pub. L. 108–375, div. B, title XXVIII, § 2804(a)(1), Oct. 28, 2004, 118 Stat. 2121; amended Pub. L. 109–364, div. B, title XXVIII, § 2808(a), (b)(1), Oct. 17, 2006, 120 Stat. 2469; Pub. L. 112–239, div. A, title X, § 1081(2), Jan. 2, 2013, 126 Stat. 1960; Pub. L. 113–66, div. B, title XXVIII, § 2803(a), Dec. 26, 2013, 127 Stat. 1006; Pub. L. 115–91, div. A, title X, § 1051(a)(22), Dec. 12, 2017, 131 Stat. 1562, related to construction requirements pertaining to antiterrorism and force protection or urban-training operations.
 
-### § 2860. Availability of appropriations
+### § 2860. Availability of appropriations
 
 Funds appropriated to a military department or to the Secretary of Defense for a fiscal year for military construction or military family housing purposes may remain available for obligation beyond such fiscal year to the extent provided in appropriation Acts.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 167; amended Pub. L. 99–167, title VIII, § 812(a), Dec. 3, 1985, 99 Stat. 991; Pub. L. 99–173, § 121(b), Dec. 10, 1985, 99 Stat. 1029; Pub. L. 99–661, div. A, title XIII, § 1343(a)(21)(A), Nov. 14, 1986, 100 Stat. 3994.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 167; amended Pub. L. 99–167, title VIII, § 812(a), Dec. 3, 1985, 99 Stat. 991; Pub. L. 99–173, § 121(b), Dec. 10, 1985, 99 Stat. 1029; Pub. L. 99–661, div. A, title XIII, § 1343(a)(21)(A), Nov. 14, 1986, 100 Stat. 3994.)
 
 **Editorial Notes**
 
@@ -5653,9 +5653,9 @@ Pub. L. 99–167 struck out subsection designation “(a)” and “and except a
 
 **Effective Date of 1985 Amendments**
 
-Pub. L. 99–173, § 121(c), Dec. 10, 1985, 99 Stat. 1029, provided that: “The amendment made by subsection (b) [amending this section] shall apply to funds appropriated after the date of the enactment of Public Law 99–103 [Sept. 30, 1985].”
+Pub. L. 99–173, § 121(c), Dec. 10, 1985, 99 Stat. 1029, provided that: “The amendment made by subsection (b) [amending this section] shall apply to funds appropriated after the date of the enactment of Public Law 99–103 [Sept. 30, 1985].”
 
-Pub. L. 99–167, title VIII, § 812(b), Dec. 3, 1985, 99 Stat. 991, provided that: “The amendments made by subsection (a) [amending this section] shall apply to funds appropriated after September 30, 1985.”
+Pub. L. 99–167, title VIII, § 812(b), Dec. 3, 1985, 99 Stat. 991, provided that: “The amendments made by subsection (a) [amending this section] shall apply to funds appropriated after September 30, 1985.”
 
 **Effective Date**
 
@@ -5663,73 +5663,73 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **Availability of Appropriations for Five Years**
 
-Pub. L. 109–114, title I, § 117, Nov. 30, 2005, 119 Stat. 2378, which provided that any funds made available to a military department or defense agency for the construction of military projects could be obligated for a military construction project or contract, or for any portion of such a project or contract, at any time before the end of the fourth fiscal year after the fiscal year for which funds for such project were made available, if the funds obligated for such project: (1) were obligated from funds available for military construction projects; and (2) did not exceed the amount appropriated for such project, plus any amount by which the cost of such project is increased pursuant to law, was from the Military Construction, Military Quality of Life and Veterans Affairs Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Pub. L. 109–114, title I, § 117, Nov. 30, 2005, 119 Stat. 2378, which provided that any funds made available to a military department or defense agency for the construction of military projects could be obligated for a military construction project or contract, or for any portion of such a project or contract, at any time before the end of the fourth fiscal year after the fiscal year for which funds for such project were made available, if the funds obligated for such project: (1) were obligated from funds available for military construction projects; and (2) did not exceed the amount appropriated for such project, plus any amount by which the cost of such project is increased pursuant to law, was from the Military Construction, Military Quality of Life and Veterans Affairs Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
-Pub. L. 108–324, div. A, § 117, Oct. 13, 2004, 118 Stat. 1227.
+Pub. L. 108–324, div. A, § 117, Oct. 13, 2004, 118 Stat. 1227.
 
-Pub. L. 108–132, § 117, Nov. 22, 2003, 117 Stat. 1380.
+Pub. L. 108–132, § 117, Nov. 22, 2003, 117 Stat. 1380.
 
-Pub. L. 107–249, § 117, Oct. 23, 2002, 116 Stat. 1583.
+Pub. L. 107–249, § 117, Oct. 23, 2002, 116 Stat. 1583.
 
-Pub. L. 107–64, § 117, Nov. 5, 2001, 115 Stat. 479.
+Pub. L. 107–64, § 117, Nov. 5, 2001, 115 Stat. 479.
 
-Pub. L. 106–246, div. A, § 117, July 13, 2000, 114 Stat. 516.
+Pub. L. 106–246, div. A, § 117, July 13, 2000, 114 Stat. 516.
 
-Pub. L. 106–52, § 117, Aug. 17, 1999, 113 Stat. 264.
+Pub. L. 106–52, § 117, Aug. 17, 1999, 113 Stat. 264.
 
-Pub. L. 105–237, § 117, Sept. 20, 1998, 112 Stat. 1558.
+Pub. L. 105–237, § 117, Sept. 20, 1998, 112 Stat. 1558.
 
-Pub. L. 105–45, § 117, Sept. 30, 1997, 111 Stat. 1147.
+Pub. L. 105–45, § 117, Sept. 30, 1997, 111 Stat. 1147.
 
-Pub. L. 104–196, § 117, Sept. 16, 1996, 110 Stat. 2391.
+Pub. L. 104–196, § 117, Sept. 16, 1996, 110 Stat. 2391.
 
-Pub. L. 104–32, § 117, Oct. 3, 1995, 109 Stat. 289.
+Pub. L. 104–32, § 117, Oct. 3, 1995, 109 Stat. 289.
 
-Pub. L. 103–307, § 118, Aug. 23, 1994, 108 Stat. 1664.
+Pub. L. 103–307, § 118, Aug. 23, 1994, 108 Stat. 1664.
 
-Pub. L. 103–110, § 118, Oct. 21, 1993, 107 Stat. 1043.
+Pub. L. 103–110, § 118, Oct. 21, 1993, 107 Stat. 1043.
 
-Pub. L. 102–380, § 119, Oct. 5, 1992, 106 Stat. 1371.
+Pub. L. 102–380, § 119, Oct. 5, 1992, 106 Stat. 1371.
 
-Pub. L. 102–136, § 119, Oct. 25, 1991, 105 Stat. 643.
+Pub. L. 102–136, § 119, Oct. 25, 1991, 105 Stat. 643.
 
-Pub. L. 101–519, § 119, Nov. 5, 1990, 104 Stat. 2246.
+Pub. L. 101–519, § 119, Nov. 5, 1990, 104 Stat. 2246.
 
-Pub. L. 101–148, § 121, Nov. 10, 1989, 103 Stat. 925.
+Pub. L. 101–148, § 121, Nov. 10, 1989, 103 Stat. 925.
 
-Pub. L. 100–447, § 124, Sept. 27, 1988, 102 Stat. 1835.
+Pub. L. 100–447, § 124, Sept. 27, 1988, 102 Stat. 1835.
 
 **Transfer of Funds for Foreign Currency Fluctuations**
 
-Pub. L. 108–132, § 118, Nov. 22, 2003, 117 Stat. 1380, which provided that during the 5-year period after appropriations available to the Department of Defense for military construction and family housing operation and maintenance and construction have expired for obligation, upon a determination that such appropriations would not be necessary for the liquidation of obligations or for making authorized adjustments to such appropriations for obligations incurred during the period of availability of such appropriations, unobligated balances of such appropriations could be transferred into the appropriation “Foreign Currency Fluctuations, Construction, Defense” to be merged with and to be available for the same time period and for the same purposes as the appropriation to which transferred, was from the Military Construction Appropriations Act, 2005 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Pub. L. 108–132, § 118, Nov. 22, 2003, 117 Stat. 1380, which provided that during the 5-year period after appropriations available to the Department of Defense for military construction and family housing operation and maintenance and construction have expired for obligation, upon a determination that such appropriations would not be necessary for the liquidation of obligations or for making authorized adjustments to such appropriations for obligations incurred during the period of availability of such appropriations, unobligated balances of such appropriations could be transferred into the appropriation “Foreign Currency Fluctuations, Construction, Defense” to be merged with and to be available for the same time period and for the same purposes as the appropriation to which transferred, was from the Military Construction Appropriations Act, 2005 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
-Pub. L. 107–249, § 118, Oct. 23, 2002, 116 Stat. 1584.
+Pub. L. 107–249, § 118, Oct. 23, 2002, 116 Stat. 1584.
 
-Pub. L. 107–64, § 118, Nov. 5, 2001, 115 Stat. 480.
+Pub. L. 107–64, § 118, Nov. 5, 2001, 115 Stat. 480.
 
-Pub. L. 106–246, div. A, § 118, July 13, 2000, 114 Stat. 516.
+Pub. L. 106–246, div. A, § 118, July 13, 2000, 114 Stat. 516.
 
-Pub. L. 106–52, § 118, Aug. 17, 1999, 113 Stat. 264.
+Pub. L. 106–52, § 118, Aug. 17, 1999, 113 Stat. 264.
 
-Pub. L. 105–237, § 118, Sept. 20, 1998, 112 Stat. 1559.
+Pub. L. 105–237, § 118, Sept. 20, 1998, 112 Stat. 1559.
 
-Pub. L. 105–45, § 118, Sept. 30, 1997, 111 Stat. 1147.
+Pub. L. 105–45, § 118, Sept. 30, 1997, 111 Stat. 1147.
 
-Pub. L. 104–196, § 118, Sept. 16, 1996, 110 Stat. 2392.
+Pub. L. 104–196, § 118, Sept. 16, 1996, 110 Stat. 2392.
 
-Pub. L. 104–32, § 118, Oct. 3, 1995, 109 Stat. 289.
+Pub. L. 104–32, § 118, Oct. 3, 1995, 109 Stat. 289.
 
-Pub. L. 103–307, § 119, Aug. 23, 1994, 108 Stat. 1665.
+Pub. L. 103–307, § 119, Aug. 23, 1994, 108 Stat. 1665.
 
-Pub. L. 103–110, § 120, Oct. 21, 1993, 107 Stat. 1043.
+Pub. L. 103–110, § 120, Oct. 21, 1993, 107 Stat. 1043.
 
-Pub. L. 102–380, § 121, Oct. 5, 1992, 106 Stat. 1372.
+Pub. L. 102–380, § 121, Oct. 5, 1992, 106 Stat. 1372.
 
-Pub. L. 102–136, § 122, Oct. 25, 1991, 105 Stat. 643.
+Pub. L. 102–136, § 122, Oct. 25, 1991, 105 Stat. 643.
 
-Pub. L. 99–500, § 101(k) [title I, § 121], Oct. 18, 1986, 100 Stat. 1783–287, 1783–293, and Pub. L. 99–591, § 101(k) [title I, § 121], Oct. 30, 1986, 100 Stat. 3341–287, 3341–293, as amended by Pub. L. 102–136, § 122, Oct. 25, 1991, 105 Stat. 643, provided that: “For Transfer by the Secretary of Defense to and from appropriations and funds not merged pursuant to subsection 1552(a)(1) of title 31 of the United States Code and available for obligation or expenditure during fiscal year 1987 or thereafter, for military construction or expenses of family housing for the military departments and Defense agencies, in order to maintain the budgeted level of operations for such appropriations and thereby eliminate substantial gains and losses to such appropriations caused by fluctuations in foreign currency exchange rates that vary substantially from those used in preparing budget submissions, an appropriation, to remain available until expended: *Provided*, That funds transferred from this appropriation shall be merged with and be available for the same purpose, and for the same time period, as the appropriation or fund to which transferred, and funds transferred to this appropriation shall be merged with, and available for the purpose of this appropriation until expended: *Provided further*, That transfers may be made from time to time from this appropriation to the extent the Secretary of Defense determines it may be necessary to do so to reflect downward fluctuations in the currency exchange rates from those used in preparing the budget submissions for such appropriations, but transfers shall be made from such appropriations to this appropriation to reflect upward fluctuations in currency exchange rates to prevent substantial net gains in such appropriations: *Provided further*, That authorizations or limitations now or hereafter contained within appropriations or other provisions of law limiting the amounts that may be obligated or expended for military construction and family housing expenses are hereby increased to the extent necessary to reflect downward fluctuations in foreign currency exchange rates from those used in preparing the applicable budget submission: *Provided further*, That for the purposes of the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’ the foreign currency rates used in preparing budget submissions shall be the foreign currency exchange rates as adjusted or modified, as reflected in applicable Committee reports on the Acts making appropriations for military construction for the Department of Defense: *Provided further*, That the Secretary of Defense shall provide an annual report to the Congress on all transfers made to or made from this appropriation: *Provided further*, That contracts or other obligations entered into payable in foreign currencies may be recorded as obligations based on the currency exchange rates used in preparing budget submissions and adjustments to reflect fluctuations in such rates may be recorded as disbursements are made: *Provided further*, That, at the discretion of the Secretary of Defense, any savings generated in the military construction and family housing programs may be transferred to this appropriation.”
+Pub. L. 99–500, § 101(k) [title I, § 121], Oct. 18, 1986, 100 Stat. 1783–287, 1783–293, and Pub. L. 99–591, § 101(k) [title I, § 121], Oct. 30, 1986, 100 Stat. 3341–287, 3341–293, as amended by Pub. L. 102–136, § 122, Oct. 25, 1991, 105 Stat. 643, provided that: “For Transfer by the Secretary of Defense to and from appropriations and funds not merged pursuant to subsection 1552(a)(1) of title 31 of the United States Code and available for obligation or expenditure during fiscal year 1987 or thereafter, for military construction or expenses of family housing for the military departments and Defense agencies, in order to maintain the budgeted level of operations for such appropriations and thereby eliminate substantial gains and losses to such appropriations caused by fluctuations in foreign currency exchange rates that vary substantially from those used in preparing budget submissions, an appropriation, to remain available until expended: *Provided*, That funds transferred from this appropriation shall be merged with and be available for the same purpose, and for the same time period, as the appropriation or fund to which transferred, and funds transferred to this appropriation shall be merged with, and available for the purpose of this appropriation until expended: *Provided further*, That transfers may be made from time to time from this appropriation to the extent the Secretary of Defense determines it may be necessary to do so to reflect downward fluctuations in the currency exchange rates from those used in preparing the budget submissions for such appropriations, but transfers shall be made from such appropriations to this appropriation to reflect upward fluctuations in currency exchange rates to prevent substantial net gains in such appropriations: *Provided further*, That authorizations or limitations now or hereafter contained within appropriations or other provisions of law limiting the amounts that may be obligated or expended for military construction and family housing expenses are hereby increased to the extent necessary to reflect downward fluctuations in foreign currency exchange rates from those used in preparing the applicable budget submission: *Provided further*, That for the purposes of the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’ the foreign currency rates used in preparing budget submissions shall be the foreign currency exchange rates as adjusted or modified, as reflected in applicable Committee reports on the Acts making appropriations for military construction for the Department of Defense: *Provided further*, That the Secretary of Defense shall provide an annual report to the Congress on all transfers made to or made from this appropriation: *Provided further*, That contracts or other obligations entered into payable in foreign currencies may be recorded as obligations based on the currency exchange rates used in preparing budget submissions and adjustments to reflect fluctuations in such rates may be recorded as disbursements are made: *Provided further*, That, at the discretion of the Secretary of Defense, any savings generated in the military construction and family housing programs may be transferred to this appropriation.”
 
-### § 2861. Military construction projects in connection with industrial facility investment program
+### § 2861. Military construction projects in connection with industrial facility investment program
 
 **(a) Authority.—** The Secretary of Defense may carry out a military construction project, not previously authorized, for the purpose of carrying out activities under section 2474(a)(2) of this title, using funds appropriated or otherwise made available for that purpose in military construction accounts.
 
@@ -5737,21 +5737,21 @@ Pub. L. 99–500, § 101(k) [title I, § 121], Oct. 18, 1986, 100 Stat. 1783
 
 **(c) Notice and Wait Requirement.—** When a decision is made to carry out a project under subsection (a), the Secretary of Defense shall notify the appropriate committees of Congress of that decision and the savings estimated to be realized from the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, § 2809(a), Oct. 17, 2006, 120 Stat. 2470; amended Pub. L. 115–91, div. A, title X, § 1051(a)(23), div. B, title XXVIII, § 2801(c)(4), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title III, § 374(b)(2), Dec. 23, 2022, 136 Stat. 2542.)
+(Added Pub. L. 109–364, div. B, title XXVIII, § 2809(a), Oct. 17, 2006, 120 Stat. 2470; amended Pub. L. 115–91, div. A, title X, § 1051(a)(23), div. B, title XXVIII, § 2801(c)(4), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title III, § 374(b)(2), Dec. 23, 2022, 136 Stat. 2542.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2861, added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 167; amended Pub. L. 100–26, § 7(f)(1), (j)(9), Apr. 21, 1987, 101 Stat. 281, 283; Pub. L. 104–106, div. B, title XXVIII, § 2811(b), Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, § 2802(d)(1), Sept. 23, 1996, 110 Stat. 2787, required the Secretary of Defense to submit an annual report to the appropriate committees of Congress with respect to military construction activities and military family housing activities, prior to repeal by Pub. L. 107–107, div. B, title XXVIII, § 2803(a), Dec. 28, 2001, 115 Stat. 1305.
+A prior section 2861, added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 167; amended Pub. L. 100–26, § 7(f)(1), (j)(9), Apr. 21, 1987, 101 Stat. 281, 283; Pub. L. 104–106, div. B, title XXVIII, § 2811(b), Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, § 2802(d)(1), Sept. 23, 1996, 110 Stat. 2787, required the Secretary of Defense to submit an annual report to the appropriate committees of Congress with respect to military construction activities and military family housing activities, prior to repeal by Pub. L. 107–107, div. B, title XXVIII, § 2803(a), Dec. 28, 2001, 115 Stat. 1305.
 
 **Amendments**
 
 2022—Subsec. (b). Pub. L. 117–263 substituted “subsection (f) of section 2476” for “subsection (e) of section 2476” and “subsection (a)(1) of such section” for “subsection (a) of such section”.
 
-2017—Subsec. (c). Pub. L. 115–91, § 2801(c)(4), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by such committees” and substituted “14-day period” for “21-day period”.
+2017—Subsec. (c). Pub. L. 115–91, § 2801(c)(4), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by such committees” and substituted “14-day period” for “21-day period”.
 
-Subsec. (d). Pub. L. 115–91, § 1051(a)(23), struck out subsec. (d). Text read as follows: “Not later than December 31 of each year, the Secretary shall submit to Congress a report describing actions taken under this section and the savings realized from such actions during the fiscal year ending in the year in which the report is submitted.”
+Subsec. (d). Pub. L. 115–91, § 1051(a)(23), struck out subsec. (d). Text read as follows: “Not later than December 31 of each year, the Secretary shall submit to Congress a report describing actions taken under this section and the savings realized from such actions during the fiscal year ending in the year in which the report is submitted.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5759,7 +5759,7 @@ Subsec. (d). Pub. L. 115–91, § 1051(a)(23), struck out subsec. (d). Text re
 
 Amendment by Pub. L. 117–263 applicable with respect to fiscal years beginning on or after Oct. 1, 2023, see section 374(c) of Pub. L. 117–263, set out as a note under section 2476 of this title.
 
-### § 2862. Turn-key selection procedures
+### § 2862. Turn-key selection procedures
 
 **(a) Authority to Use for Certain Purposes.—** The Secretary concerned may use one-step turn-key selection procedures for the purpose of entering into a contract for any of the following purposes:
 
@@ -5767,7 +5767,7 @@ Amendment by Pub. L. 117–263 applicable with respect to fiscal years beginning
 
 **(2)** A repair project (as defined in section 2811(e) of this title) with an approved cost equal to or less than $4,000,000.1
 
-<sup>1</sup>  See Temporary Expansion of Authority for Use of One-Step Turn-Key Procedures for Repair Projects note below.
+<sup>1</sup> See Temporary Expansion of Authority for Use of One-Step Turn-Key Procedures for Repair Projects note below.
 
 **(3)** The construction of a facility as part of an authorized security assistance activity.
 
@@ -5787,7 +5787,7 @@ Amendment by Pub. L. 117–263 applicable with respect to fiscal years beginning
 
 **(E)** other international security assistance specifically authorized by law.
 
-(Added Pub. L. 99–167, title VIII, § 807(a), Dec. 3, 1985, 99 Stat. 988; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2301, Dec. 4, 1987, 101 Stat. 1214; Pub. L. 101–189, div. B, title XXVIII, § 2806, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, § 2802, Dec. 5, 1991, 105 Stat. 1537; Pub. L. 113–291, div. B, title XXVIII, § 2804, Dec. 19, 2014, 128 Stat. 3697.)
+(Added Pub. L. 99–167, title VIII, § 807(a), Dec. 3, 1985, 99 Stat. 988; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2301, Dec. 4, 1987, 101 Stat. 1214; Pub. L. 101–189, div. B, title XXVIII, § 2806, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, § 2802, Dec. 5, 1991, 105 Stat. 1537; Pub. L. 113–291, div. B, title XXVIII, § 2804, Dec. 19, 2014, 128 Stat. 3697.)
 
 **Editorial Notes**
 
@@ -5805,33 +5805,33 @@ Amendment by Pub. L. 117–263 applicable with respect to fiscal years beginning
 
 “(c) The authority under this section shall expire on October 1, 1991.”
 
-1989—Subsec. (a)(1). Pub. L. 101–189, § 2806(1), struck out at end “Such procedures may be used by the Secretary of a military department only with the approval of the Secretary of Defense.”
+1989—Subsec. (a)(1). Pub. L. 101–189, § 2806(1), struck out at end “Such procedures may be used by the Secretary of a military department only with the approval of the Secretary of Defense.”
 
-Subsec. (c). Pub. L. 101–189, § 2806(2), substituted “1991” for “1990”.
+Subsec. (c). Pub. L. 101–189, § 2806(2), substituted “1991” for “1990”.
 
-1987—Subsec. (a)(1). Pub. L. 100–180, § 2301(1), substituted “The Secretary concerned” for “The Secretaries of the military departments, with the approval of the Secretary of Defense,” and inserted provision at end that such procedures may be used by the Secretary of a military department only with the approval of the Secretary of Defense.
+1987—Subsec. (a)(1). Pub. L. 100–180, § 2301(1), substituted “The Secretary concerned” for “The Secretaries of the military departments, with the approval of the Secretary of Defense,” and inserted provision at end that such procedures may be used by the Secretary of a military department only with the approval of the Secretary of Defense.
 
 Subsec. (a)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
-Subsec. (b). Pub. L. 100–180, § 2301(2), inserted “Secretary of Defense, with respect to any Defense Agency, or the” after “The”.
+Subsec. (b). Pub. L. 100–180, § 2301(2), inserted “Secretary of Defense, with respect to any Defense Agency, or the” after “The”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 99–167, title VIII, § 807(c), Dec. 3, 1985, 99 Stat. 989, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 1986.”
+Pub. L. 99–167, title VIII, § 807(c), Dec. 3, 1985, 99 Stat. 989, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 1986.”
 
 **Temporary Expansion of Authority for Use of One-Step Turn-Key Procedures for Repair Projects**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2806, Dec. 22, 2023, 137 Stat. 745, provided that: “During the five-year period beginning on the date of the enactment of this Act [Dec. 22, 2023], section 2862(a)(2) of title 10, United States Code, shall be applied and administered by substituting ‘$8,000,000’ for ‘$4,000,000’.”
+Pub. L. 118–31, div. B, title XXVIII, § 2806, Dec. 22, 2023, 137 Stat. 745, provided that: “During the five-year period beginning on the date of the enactment of this Act [Dec. 22, 2023], section 2862(a)(2) of title 10, United States Code, shall be applied and administered by substituting ‘$8,000,000’ for ‘$4,000,000’.”
 
-### § 2863. Payment of contractor claims
+### § 2863. Payment of contractor claims
 
 Notwithstanding any other provision of law, the Secretary concerned may pay meritorious contractor claims that arise under military construction contracts or family housing contracts. The Secretary of Defense, with respect to a Defense Agency, or the Secretary of a military department may use for such purpose any unobligated funds appropriated to such department and available for military construction or family housing construction, as the case may be.
 
-(Added Pub. L. 100–180, div. B, subdiv. 3, title I, § 2303(a), Dec. 4, 1987, 101 Stat. 1215.)
+(Added Pub. L. 100–180, div. B, subdiv. 3, title I, § 2303(a), Dec. 4, 1987, 101 Stat. 1215.)
 
-### § 2864. Master plans for major military installations
+### § 2864. Master plans for major military installations
 
 **(a) Plans Required.—**
 
@@ -5893,23 +5893,23 @@ Notwithstanding any other provision of law, the Secretary concerned may pay meri
 
 **(3)** The term “energy and climate resiliency” means anticipation, preparation for, and adaptation to utility disruptions and changing environmental conditions and the ability to withstand, respond to, and recover rapidly from utility disruptions while ensuring the sustainment of mission-critical operations.
 
-**(4)** The term “military installation resilience” has the meaning given that term in section 101(e) 1
+**(4)** The term “military installation resilience” has the meaning given that term in section 101(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Added Pub. L. 112–239, div. B, title XXVIII, § 2802(a), Jan. 2, 2013, 126 Stat. 2147; amended Pub. L. 113–66, div. B, title XXVIII, § 2811, Dec. 26, 2013, 127 Stat. 1013; Pub. L. 115–232, div. B, title XXVIII, § 2805(d), Aug. 13, 2018, 132 Stat. 2263; Pub. L. 116–92, div. B, title XXVIII, § 2801(a), Dec. 20, 2019, 133 Stat. 1879; Pub. L. 117–81, div. B, title XXVIII, §§ 2831, 2832, Dec. 27, 2021, 135 Stat. 2198; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(23), Dec. 22, 2023, 137 Stat. 684; Pub. L. 119–60, div. B, title XXVIII, § 2848(b), Dec. 18, 2025, 139 Stat. 1319.)
+(Added Pub. L. 112–239, div. B, title XXVIII, § 2802(a), Jan. 2, 2013, 126 Stat. 2147; amended Pub. L. 113–66, div. B, title XXVIII, § 2811, Dec. 26, 2013, 127 Stat. 1013; Pub. L. 115–232, div. B, title XXVIII, § 2805(d), Aug. 13, 2018, 132 Stat. 2263; Pub. L. 116–92, div. B, title XXVIII, § 2801(a), Dec. 20, 2019, 133 Stat. 1879; Pub. L. 117–81, div. B, title XXVIII, §§ 2831, 2832, Dec. 27, 2021, 135 Stat. 2198; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(23), Dec. 22, 2023, 137 Stat. 684; Pub. L. 119–60, div. B, title XXVIII, § 2848(b), Dec. 18, 2025, 139 Stat. 1319.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 101(e) of this title, referred to in subsec. (e)(4), was redesignated section 101(f) of this title, and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625.
+Section 101(e) of this title, referred to in subsec. (e)(4), was redesignated section 101(f) of this title, and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625.
 
 **Prior Provisions**
 
-A prior section 2864, added Pub. L. 101–189, div. B, title XXVIII, § 2807(a), Nov. 29, 1989, 103 Stat. 1648; amended Pub. L. 104–106, div. A, title X, § 1062(g), Feb. 10, 1996, 110 Stat. 444, related to military construction contracts on Guam, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2810(a), Oct. 17, 2006, 120 Stat. 2470.
+A prior section 2864, added Pub. L. 101–189, div. B, title XXVIII, § 2807(a), Nov. 29, 1989, 103 Stat. 1648; amended Pub. L. 104–106, div. A, title X, § 1062(g), Feb. 10, 1996, 110 Stat. 444, related to military construction contracts on Guam, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2810(a), Oct. 17, 2006, 120 Stat. 2470.
 
 **Amendments**
 
@@ -5917,37 +5917,37 @@ A prior section 2864, added Pub. L. 101–189, div. B, title XXVIII, § 2807(a
 
 2023—Subsec. (f)(4), (6). Pub. L. 118–31 redesignated par. (6) as (4).
 
-2021—Subsec. (a)(2)(E). Pub. L. 117–81, § 2832(a), inserted “and military installation resilience” before period at end.
+2021—Subsec. (a)(2)(E). Pub. L. 117–81, § 2832(a), inserted “and military installation resilience” before period at end.
 
-Subsec. (a)(3). Pub. L. 117–81, § 2831, added par. (3).
+Subsec. (a)(3). Pub. L. 117–81, § 2831, added par. (3).
 
-Subsec. (c)(7), (8). Pub. L. 117–81, § 2832(b), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (c)(7), (8). Pub. L. 117–81, § 2832(b), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (f)(6). Pub. L. 117–81, § 2832(c), added par. (6).
+Subsec. (f)(6). Pub. L. 117–81, § 2832(c), added par. (6).
 
-2019—Subsec. (a)(1). Pub. L. 116–92, § 2801(a)(1)(A), inserted “military installation resilience,” after “master planning,”.
+2019—Subsec. (a)(1). Pub. L. 116–92, § 2801(a)(1)(A), inserted “military installation resilience,” after “master planning,”.
 
-Subsec. (c). Pub. L. 116–92, § 2801(a)(1)(C), added subsec. (c). Former subsec. (c) redesignated (e).
+Subsec. (c). Pub. L. 116–92, § 2801(a)(1)(C), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Subsec. (d). Pub. L. 116–92, § 2801(a)(2), added subsec. (d). Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 116–92, § 2801(a)(2), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Subsecs. (e), (f). Pub. L. 116–92, § 2801(a)(1)(B), redesignated subsecs. (c) and (d) as (e) and (f), respectively.
+Subsecs. (e), (f). Pub. L. 116–92, § 2801(a)(1)(B), redesignated subsecs. (c) and (d) as (e) and (f), respectively.
 
-2018—Subsec. (a)(2)(E). Pub. L. 115–232, § 2805(d)(1), added subpar. (E).
+2018—Subsec. (a)(2)(E). Pub. L. 115–232, § 2805(d)(1), added subpar. (E).
 
-Subsec. (d)(3). Pub. L. 115–232, § 2805(d)(2), added par. (3).
+Subsec. (d)(3). Pub. L. 115–232, § 2805(d)(2), added par. (3).
 
-2013—Subsec. (a). Pub. L. 113–66, § 2811(1), designated existing provisions as par. (1) and added par. (2).
+2013—Subsec. (a). Pub. L. 113–66, § 2811(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 113–66, § 2811(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 113–66, § 2811(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (c), (d). Pub. L. 113–66, § 2811(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 113–66, § 2811(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Interagency Regional Coordinator for Resilience Pilot Project**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2872, Dec. 23, 2022, 136 Stat. 3014, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2872, Dec. 23, 2022, 136 Stat. 3014, provided that:
 
 > **“(a) Pilot Project.—** The Secretary of Defense shall carry out a pilot program under which the Secretary shall establish within the Department of Defense four Interagency Regional Coordinators. Each Interagency Regional Coordinator shall be responsible for improving the resilience of a community that supports a military installation and serving as a model for enhancing community resilience before disaster strikes.
 
@@ -5961,7 +5961,7 @@ Pub. L. 117–263, div. B, title XXVIII, § 2872, Dec. 23, 2022, 136 Stat. 301
 
 **Strategic Decisions Relating to Military Installations; Implications of Military Installation Resilience for Strategy; Plans and Planning Documents; Definitions**
 
-Pub. L. 117–81, div. A, title III, § 311(d)–(g), (j), Dec. 27, 2021, 135 Stat. 1626, 1627, provided that:
+Pub. L. 117–81, div. A, title III, § 311(d)–(g), (j), Dec. 27, 2021, 135 Stat. 1626, 1627, provided that:
 
 > **“(d) Strategic Decisions Relating to Military Installations.—** The Secretary of each military department, with respect to any installation under the jurisdiction of that Secretary, and the Secretary of Defense, with respect to any installation of the Department of Defense that is not under the jurisdiction of the Secretary of a military department, shall consider the strategic risks associated with military installation resilience.
 
@@ -5981,7 +5981,7 @@ Pub. L. 117–81, div. A, title III, § 311(d)–(g), (j), Dec. 27, 2021, 135 
 
 **Prompt Completion of Military Installation Resilience Component of Master Plans for At-Risk Major Military Installations**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2833, Dec. 27, 2021, 135 Stat. 2199, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2833, Dec. 27, 2021, 135 Stat. 2199, provided that:
 
 > **“(a) Identification of At-Risk Installations.—** Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], each Secretary of a military department shall—
 
@@ -6001,7 +6001,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2833, Dec. 27, 2021, 135 Stat. 2199
 
 **Removal of Barriers That Discourage Investments To Increase Military Installation Resilience**
 
-Pub. L. 116–92, div. A, title III, § 327, Dec. 20, 2019, 133 Stat. 1311, provided that:
+Pub. L. 116–92, div. A, title III, § 327, Dec. 20, 2019, 133 Stat. 1311, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall—
 
@@ -6015,7 +6015,7 @@ Pub. L. 116–92, div. A, title III, § 327, Dec. 20, 2019, 133 Stat. 1311, pr
 
 **Incorporation of Changing Environmental Condition Projections in Military Construction Designs and Modifications**
 
-Pub. L. 115–232, div. B, title XXVIII, § 2805(c), Aug. 13, 2018, 132 Stat. 2262, as amended by Pub. L. 116–92, div. A, title XVII, § 1731(b)(4), div. B, title XXVII, § 2804(c), Dec. 20, 2019, 133 Stat. 1816, 1882, provided that:
+Pub. L. 115–232, div. B, title XXVIII, § 2805(c), Aug. 13, 2018, 132 Stat. 2262, as amended by Pub. L. 116–92, div. A, title XVII, § 1731(b)(4), div. B, title XXVII, § 2804(c), Dec. 20, 2019, 133 Stat. 1816, 1882, provided that:
 
 > **“(1) Fiscal year 2019.—** Not later than 30 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall amend section 3–5.6.2.3 of Unified Facilities Criteria (UFC) 1-200-01 and UFC 1-200-02 (or any similar successor regulations) to provide that in order to anticipate changing environmental conditions during the design life of existing or planned new facilities and infrastructure, projections from reliable and authorized sources such as the Census Bureau (for population projections), the National Academies of Sciences (for land use change projections and climate projections), the U.S. Geological Survey (for land use change projections), and the U.S. Global Change Research Office and National Climate Assessment (for climate projections) shall be considered and incorporated into military construction designs and modifications.
 
@@ -6043,7 +6043,7 @@ Pub. L. 115–232, div. B, title XXVIII, § 2805(c), Aug. 13, 2018, 132 Stat. 
 
 [Section 1731(b)(4) of Pub. L. 116–92, which directed amendment of section 2805(c) of Pub. L. 115–232, set out above, by substituting “Unified Facilities Criteria” for “United Facilities Criteria”, was not executed in light of the amendment by section 2804(c)(2) of Pub. L. 116–92, which substituted “Unified Facilities Criteria (UFC) 1-200-01 and UFC 1-200-02” for “United Facilities Criteria (UFC) 2–100–01 and UFC 2–100–02”.]
 
-### § 2865. Work in Process Curve charts and outlay tables for military construction projects
+### § 2865. Work in Process Curve charts and outlay tables for military construction projects
 
 Along with the budget for each fiscal year submitted by the President pursuant to section 1105(a) of title 31, United States Code, the Secretary of Defense and the Secretaries of the military departments shall include for any military construction project over $90,000,000, as an addendum to be included within the same document as the 1391s for the Military Construction Program budget documentation, a Project Spending Plan that includes—
 
@@ -6051,21 +6051,21 @@ Along with the budget for each fiscal year submitted by the President pursuant t
 
 **(2)** a monthly outlay table for funding, obligations, and outlay figures.
 
-(Added Pub. L. 115–232, div. B, title XXVIII, § 2806(a)(1), Aug. 13, 2018, 132 Stat. 2264.)
+(Added Pub. L. 115–232, div. B, title XXVIII, § 2806(a)(1), Aug. 13, 2018, 132 Stat. 2264.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2865, added Pub. L. 101–510, div. B, title XXVIII, § 2851(a), Nov. 5, 1990, 104 Stat. 1803; amended Pub. L. 102–484, div. B, title XXVIII, § 2801, Oct. 23, 1992, 106 Stat. 2604; Pub. L. 103–160, div. B, title XXVIII, § 2804, Nov. 30, 1993, 107 Stat. 1885; Pub. L. 103–337, div. A, title X, § 1070(a)(14), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, § 1502(a)(27), div. B, title XXVIII, § 2819, Feb. 10, 1996, 110 Stat. 506, 555; Pub. L. 105–85, div. A, title III, § 371(d)(2), div. B, title XXVIII, § 2804(a), Nov. 18, 1997, 111 Stat. 1706, 1990; Pub. L. 107–314, div. B, title XXVIII, § 2805, Dec. 2, 2002, 116 Stat. 2705; Pub. L. 108–136, div. A, title X, § 1031(a)(47), div. B, title XXVIII, § 2812(a), Nov. 24, 2003, 117 Stat. 1602, 1725, related to energy savings at military installations, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(2), Oct. 17, 2006, 120 Stat. 2494.
+A prior section 2865, added Pub. L. 101–510, div. B, title XXVIII, § 2851(a), Nov. 5, 1990, 104 Stat. 1803; amended Pub. L. 102–484, div. B, title XXVIII, § 2801, Oct. 23, 1992, 106 Stat. 2604; Pub. L. 103–160, div. B, title XXVIII, § 2804, Nov. 30, 1993, 107 Stat. 1885; Pub. L. 103–337, div. A, title X, § 1070(a)(14), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, § 1502(a)(27), div. B, title XXVIII, § 2819, Feb. 10, 1996, 110 Stat. 506, 555; Pub. L. 105–85, div. A, title III, § 371(d)(2), div. B, title XXVIII, § 2804(a), Nov. 18, 1997, 111 Stat. 1706, 1990; Pub. L. 107–314, div. B, title XXVIII, § 2805, Dec. 2, 2002, 116 Stat. 2705; Pub. L. 108–136, div. A, title X, § 1031(a)(47), div. B, title XXVIII, § 2812(a), Nov. 24, 2003, 117 Stat. 1602, 1725, related to energy savings at military installations, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(2), Oct. 17, 2006, 120 Stat. 2494.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Department of Defense Guidance**
 
-Pub. L. 115–232, div. B, title XXVIII, § 2806(b), Aug. 13, 2018, 132 Stat. 2264, provided that: “The Secretary of Defense shall, in coordination with the Under Secretary of Defense (Comptroller), update Department of Defense Financial Management Regulation 7000.14–R, and any other appropriate instructions and guidance, to ensure that the Department of Defense takes appropriate actions to comply with section 2865 of title 10, United States Code, as added by this section.”
+Pub. L. 115–232, div. B, title XXVIII, § 2806(b), Aug. 13, 2018, 132 Stat. 2264, provided that: “The Secretary of Defense shall, in coordination with the Under Secretary of Defense (Comptroller), update Department of Defense Financial Management Regulation 7000.14–R, and any other appropriate instructions and guidance, to ensure that the Department of Defense takes appropriate actions to comply with section 2865 of title 10, United States Code, as added by this section.”
 
-### § 2866. Water conservation at military installations
+### § 2866. Water conservation at military installations
 
 **(a) Water Conservation Activities.—**
 
@@ -6109,15 +6109,15 @@ Pub. L. 115–232, div. B, title XXVIII, § 2806(b), Aug. 13, 2018, 132 Stat. 
 
 **(2)** When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 103–160, div. B, title XXVIII, § 2803(a), Nov. 30, 1993, 107 Stat. 1884; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(27), Feb. 10, 1996, 110 Stat. 506; Pub. L. 105–85, div. B, title XXVIII, § 2804(b), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. A, title X, § 1031(a)(48), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 109–364, div. B, title XXVIII, § 2851(d), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 113–291, div. A, title X, § 1071(f)(25), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, § 1051(a)(24), div. B, title XXVIII, § 2801(c)(5), Dec. 12, 2017, 131 Stat. 1562, 1844.)
+(Added Pub. L. 103–160, div. B, title XXVIII, § 2803(a), Nov. 30, 1993, 107 Stat. 1884; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(27), Feb. 10, 1996, 110 Stat. 506; Pub. L. 105–85, div. B, title XXVIII, § 2804(b), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. A, title X, § 1031(a)(48), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 109–364, div. B, title XXVIII, § 2851(d), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 113–291, div. A, title X, § 1071(f)(25), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, § 1051(a)(24), div. B, title XXVIII, § 2801(c)(5), Dec. 12, 2017, 131 Stat. 1562, 1844.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (b)(3). Pub. L. 115–91, § 1051(a)(24), struck out par. (3) which read as follows: “The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this subsection in that fiscal year.”
+2017—Subsec. (b)(3). Pub. L. 115–91, § 1051(a)(24), struck out par. (3) which read as follows: “The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this subsection in that fiscal year.”
 
-Subsec. (c)(2). Pub. L. 115–91, § 2801(c)(5), substituted “14-day period” for “21-day period” and struck out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by such committees”.
+Subsec. (c)(2). Pub. L. 115–91, § 2801(c)(5), substituted “14-day period” for “21-day period” and struck out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by such committees”.
 
 2014—Subsec. (a)(4)(A). Pub. L. 113–291 substituted “repaid” for “repayed”.
 
@@ -6139,11 +6139,11 @@ Subsec. (c)(2). Pub. L. 115–91, § 2801(c)(5), substituted “14-day period�
 
 **Improving Water Management and Security on Military Installations**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2827, Jan. 1, 2021, 134 Stat. 4336, which related to adoption of a risk-based approach to water management and security for military installations, was repealed by Pub. L. 119–60, div. B, title XXVIII, § 2804(b), Dec. 18, 2025, 139 Stat. 1297. See section 2866a of this title.
+Pub. L. 116–283, div. B, title XXVIII, § 2827, Jan. 1, 2021, 134 Stat. 4336, which related to adoption of a risk-based approach to water management and security for military installations, was repealed by Pub. L. 119–60, div. B, title XXVIII, § 2804(b), Dec. 18, 2025, 139 Stat. 1297. See section 2866a of this title.
 
 **Establishment of Targets for Water Use**
 
-Pub. L. 116–92, div. A, title III, § 319(c), Dec. 20, 2019, 133 Stat. 1306, provided that:
+Pub. L. 116–92, div. A, title III, § 319(c), Dec. 20, 2019, 133 Stat. 1306, provided that:
 
 > “The Secretary of Defense shall, where life-cycle cost-effective, improve water use efficiency and management by the Department of Defense, including storm water management, by—
 
@@ -6153,7 +6153,7 @@ Pub. L. 116–92, div. A, title III, § 319(c), Dec. 20, 2019, 133 Stat. 1306,
 
 > **“(3)** installing appropriate sustainable infrastructure features on installations of the Department to help with storm water and wastewater management.”
 
-### § 2866a. Risk-based approach to water management and water security at military installations
+### § 2866a. Risk-based approach to water management and water security at military installations
 
 **(a) In General.—**
 
@@ -6303,9 +6303,9 @@ Pub. L. 116–92, div. A, title III, § 319(c), Dec. 20, 2019, 133 Stat. 1306,
 
 **(A)** an update on the progress of the Secretary concerned toward completing the water security assessment required by subsection (b);
 
-**(B)** updated cost estimates for infrastructure projects to mitigate loss of available water supply to leakage identified pursuant to subsection (d)(1)(E); 1
+**(B)** updated cost estimates for infrastructure projects to mitigate loss of available water supply to leakage identified pursuant to subsection (d)(1)(E); 1
 
-<sup>1</sup>  So in original. Probably should be “subsection (d)(2)(E);”.
+<sup>1</sup> So in original. Probably should be “subsection (d)(2)(E);”.
 
 and
 
@@ -6323,13 +6323,13 @@ and
 
 **(II)** the demand for water of such military installation.
 
-**(h) Rule of Construction.—** Nothing in this section shall be construed to require the repetition or replacement of any prior water assessment or evaluation conducted before the date of the enactment of section 2827 of the Military Construction Authorization Act for Fiscal Year 2021 (division B of Public Law 118–159; 10 U.S.C. 2866 note) 2
+**(h) Rule of Construction.—** Nothing in this section shall be construed to require the repetition or replacement of any prior water assessment or evaluation conducted before the date of the enactment of section 2827 of the Military Construction Authorization Act for Fiscal Year 2021 (division B of Public Law 118–159; 10 U.S.C. 2866 note) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 that is accurate and reflects current mission requirements.
 
-(Added Pub. L. 119–60, div. B, title XXVIII, § 2804(a), Dec. 18, 2025, 139 Stat. 1294.)
+(Added Pub. L. 119–60, div. B, title XXVIII, § 2804(a), Dec. 18, 2025, 139 Stat. 1294.)
 
 **Editorial Notes**
 
@@ -6337,9 +6337,9 @@ that is accurate and reflects current mission requirements.
 
 The date of the enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 119–60, which was approved on Dec. 18, 2025.
 
-Section 2827 of the Military Construction Authorization Act for Fiscal Year 2021, referred to in subsec. (h), is section 2827 of div. B of Pub. L. 116–283, which was formerly set out as a note under section 2866 of this title, prior to repeal by Pub. L. 119–60, div. B, title XXVIII, § 2804(b), Dec. 18, 2025, 139 Stat. 1297.
+Section 2827 of the Military Construction Authorization Act for Fiscal Year 2021, referred to in subsec. (h), is section 2827 of div. B of Pub. L. 116–283, which was formerly set out as a note under section 2866 of this title, prior to repeal by Pub. L. 119–60, div. B, title XXVIII, § 2804(b), Dec. 18, 2025, 139 Stat. 1297.
 
-### § 2867. Energy monitoring and utility control system specification for military construction and military family housing activities
+### § 2867. Energy monitoring and utility control system specification for military construction and military family housing activities
 
 **(a) Adoption of Department-wide, Open Protocol, Energy Monitoring and Utility Control System Specification.—**
 
@@ -6367,7 +6367,7 @@ Section 2827 of the Military Construction Authorization Act for Fiscal Year 2021
 
 **(2)** The Secretary concerned may waive the application of the energy monitoring and utility control system specification required by subsection (a) with respect to a specific military construction project, military family housing activity, or other activity under this chapter if the Secretary determines that the application of the specification to the project or activity is not life cycle cost-effective. The Secretary concerned shall notify the congressional defense committees of any waiver granted under this paragraph.
 
-(Added Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(1), Oct. 28, 2009, 123 Stat. 2679.)
+(Added Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(1), Oct. 28, 2009, 123 Stat. 2679.)
 
 **Editorial Notes**
 
@@ -6379,7 +6379,7 @@ A prior section 2867 was renumbered section 2916 of this title.
 
 **Suspension of Resident Energy Conservation Program and Related Programs for Privatized Military Housing**
 
-Pub. L. 116–92, div. B, title XXX, § 3063, Dec. 20, 2019, 133 Stat. 1947, as amended by Pub. L. 116–283, div. B, title XXVIII, § 2811(j), Jan. 1, 2021, 134 Stat. 4326, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3063, Dec. 20, 2019, 133 Stat. 1947, as amended by Pub. L. 116–283, div. B, title XXVIII, § 2811(j), Jan. 1, 2021, 134 Stat. 4326, provided that:
 
 > **“(a) Suspension Required.—** The Secretary of Defense shall suspend the initiative of the Department of Defense known as the Resident Energy Conservation Program and instruct the Secretary of each military department to suspend any program carried out by such Secretary that measures the energy usage for individual units of privatized military housing on installations of the Department of Defense.
 
@@ -6391,17 +6391,17 @@ Pub. L. 116–92, div. B, title XXX, § 3063, Dec. 20, 2019, 133 Stat. 1947, a
 
 **Deadline for Adoption**
 
-Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(3), Oct. 28, 2009, 123 Stat. 2680, provided that: “The Secretary of Defense shall adopt the open protocol energy monitoring and utility control system specification required by section 2867 of title 10, United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009].”
+Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(3), Oct. 28, 2009, 123 Stat. 2680, provided that: “The Secretary of Defense shall adopt the open protocol energy monitoring and utility control system specification required by section 2867 of title 10, United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009].”
 
-### § 2868. Utility services: furnishing for certain buildings
+### § 2868. Utility services: furnishing for certain buildings
 
 Appropriations for the Department of Defense may be used for utility services for buildings constructed at private cost, as authorized by law.
 
-(Added Pub. L. 100–370, § 1(j)(1), July 19, 1988, 102 Stat. 848, § 2490; renumbered § 2868, Pub. L. 105–85, div. A, title III, § 371(b)(2), Nov. 18, 1997, 111 Stat. 1705; amended Pub. L. 108–375, div. A, title VI, § 651(e)(2), Oct. 28, 2004, 118 Stat. 1972.)
+(Added Pub. L. 100–370, § 1(j)(1), July 19, 1988, 102 Stat. 848, § 2490; renumbered § 2868, Pub. L. 105–85, div. A, title III, § 371(b)(2), Nov. 18, 1997, 111 Stat. 1705; amended Pub. L. 108–375, div. A, title VI, § 651(e)(2), Oct. 28, 2004, 118 Stat. 1972.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8006(b)], Dec. 19, 1985, 99 Stat. 1185.
+Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8006(b)], Dec. 19, 1985, 99 Stat. 1185.
 
 In two instances, the source section for provisions to be codified provides that defense appropriations may be used for “welfare and recreation” or “welfare and recreational” purposes. (Section 735 of Public Law 98–212 and section 8006(b) of Public Law 99–190, to be codified as 10 U.S.C. 2241(a)(1) and 2490(2), respectively). The committee added the term “morale” in both of these two instances to conform to the usual “MWR” usage for morale, welfare, and recreation activities.
 
@@ -6417,7 +6417,7 @@ In two instances, the source section for provisions to be codified provides that
 
 1997—Pub. L. 105–85 renumbered section 2490 of this title as this section.
 
-### § 2869. Exchange of property at military installations
+### § 2869. Exchange of property at military installations
 
 **(a) Exchange Authorized.—**
 
@@ -6473,9 +6473,9 @@ In two instances, the source section for provisions to be codified provides that
 
 **(ii)** a description of the land acquisition to be carried out under the agreement in exchange for the conveyance of the property; and
 
-**(iii)** the amount of any payment to be made under subsection (b) or under section 2684a(d) 1
+**(iii)** the amount of any payment to be made under subsection (b) or under section 2684a(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title to equalize the fair market values of the property to be conveyed and the land acquisition to be carried out under the agreement in exchange for the conveyance of the property; and
 
@@ -6489,97 +6489,97 @@ of this title to equalize the fair market values of the property to be conveyed 
 
 **(g) Additional Terms and Conditions.—** The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 108–136, div. B, title XXVIII, § 2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, § 2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, § 2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, § 2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, § 2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850; Pub. L. 116–283, div. B, title XXVIII, § 2862(a), (b), Jan. 1, 2021, 134 Stat. 4357; Pub. L. 118–159, div. B, title XXVIII, § 2851, Dec. 23, 2024, 138 Stat. 2269.)
+(Added Pub. L. 108–136, div. B, title XXVIII, § 2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, § 2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, § 2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, § 2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, § 2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850; Pub. L. 116–283, div. B, title XXVIII, § 2862(a), (b), Jan. 1, 2021, 134 Stat. 4357; Pub. L. 118–159, div. B, title XXVIII, § 2851, Dec. 23, 2024, 138 Stat. 2269.)
 
 **References in Text**
 
-Section 2684a(d) of this title, referred to in subsec. (d)(2)(A)(iii), was redesignated section 2684a(e) of this title by Pub. L. 118–31, div. A, title III, § 314(1), Dec. 22, 2023, 137 Stat. 216.
+Section 2684a(d) of this title, referred to in subsec. (d)(2)(A)(iii), was redesignated section 2684a(e) of this title by Pub. L. 118–31, div. A, title III, § 314(1), Dec. 22, 2023, 137 Stat. 216.
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a)(3)(A)(i). Pub. L. 118–159, § 2851(b), substituted “section 2679(f)” for “2679(e)”.
+2024—Subsec. (a)(3)(A)(i). Pub. L. 118–159, § 2851(b), substituted “section 2679(f)” for “2679(e)”.
 
-Subsec. (a)(3)(C). Pub. L. 118–159, § 2851(a), substituted “eight-year period” for “five-year period”.
+Subsec. (a)(3)(C). Pub. L. 118–159, § 2851(a), substituted “eight-year period” for “five-year period”.
 
-2021—Subsec. (a)(3). Pub. L. 116–283, § 2862(a), added par. (3).
+2021—Subsec. (a)(3). Pub. L. 116–283, § 2862(a), added par. (3).
 
-Subsec. (b)(1). Pub. L. 116–283, § 2862(b)(1), substituted “of the real property, installation-support services, or facility or improvements to an existing facility” for “of the land to be” and “of the real property conveyed by the Secretary concerned exceeds the fair market value of the real property, installation-support services, or facility or improvements received by the Secretary” for “of the land is less than the fair market value of the real property to be conveyed”.
+Subsec. (b)(1). Pub. L. 116–283, § 2862(b)(1), substituted “of the real property, installation-support services, or facility or improvements to an existing facility” for “of the land to be” and “of the real property conveyed by the Secretary concerned exceeds the fair market value of the real property, installation-support services, or facility or improvements received by the Secretary” for “of the land is less than the fair market value of the real property to be conveyed”.
 
-Subsec. (b)(3). Pub. L. 116–283, § 2862(b)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 116–283, § 2862(b)(2), added par. (3).
 
-2017—Subsec. (a)(2). Pub. L. 115–91, § 2815, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned that—
+2017—Subsec. (a)(2). Pub. L. 115–91, § 2815, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned that—
 
 “(A) is located on a military installation that is closed or realigned under a base closure law; or
 
 “(B) is located on a military installation not covered by subparagraph (A) and is determined to be excess to the needs of the Department of Defense.”
 
-Subsec. (b). Pub. L. 115–91, § 2816, amended subsec. (b) generally. Prior to amendment, text read as follows: “The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.”
+Subsec. (b). Pub. L. 115–91, § 2816, amended subsec. (b) generally. Prior to amendment, text read as follows: “The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.”
 
-Subsec. (d)(3). Pub. L. 115–91, § 2801(c)(6), substituted “after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.” for “after a period of 21 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.” and “only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.” for “only after a period of 60 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 45 days has elapsed from the date on which the electronic copy is provided.”
+Subsec. (d)(3). Pub. L. 115–91, § 2801(c)(6), substituted “after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.” for “after a period of 21 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.” and “only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.” for “only after a period of 60 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 45 days has elapsed from the date on which the electronic copy is provided.”
 
 2013—Subsec. (a)(1). Pub. L. 112–239 substituted “any person” for “any eligible entity”, “the person” for “the entity”, and “the person’s control” for “their control”.
 
-2011—Pub. L. 112–81, § 2815(a)(1), substituted “Exchange of property at military installations” for “Conveyance of property at military installations to limit encroachment” in section catchline.
+2011—Pub. L. 112–81, § 2815(a)(1), substituted “Exchange of property at military installations” for “Conveyance of property at military installations to limit encroachment” in section catchline.
 
-Subsec. (a). Pub. L. 112–81, § 2815(a)(2)(A), substituted “Exchange Authorized” for “Conveyance Authorized; Consideration” in heading.
+Subsec. (a). Pub. L. 112–81, § 2815(a)(2)(A), substituted “Exchange Authorized” for “Conveyance Authorized; Consideration” in heading.
 
-Subsec. (a)(1). Pub. L. 112–81, § 2815(a)(2)(B), substituted “to any eligible entity who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the entity in and to a parcel of real property, including any improvements thereon under their control, or to carry out a land acquisition” for “to any person who agrees, in exchange for the real property, to carry out a land acquisition”.
+Subsec. (a)(1). Pub. L. 112–81, § 2815(a)(2)(B), substituted “to any eligible entity who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the entity in and to a parcel of real property, including any improvements thereon under their control, or to carry out a land acquisition” for “to any person who agrees, in exchange for the real property, to carry out a land acquisition”.
 
-Subsecs. (f) to (h). Pub. L. 112–81, § 2815(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which provided that authority to enter into an agreement under this section would expire on September 30, 2013.
+Subsecs. (f) to (h). Pub. L. 112–81, § 2815(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which provided that authority to enter into an agreement under this section would expire on September 30, 2013.
 
-2009—Pub. L. 111–84, § 2804(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Conveyance of property at military installations to support military construction or limit encroachment”.
+2009—Pub. L. 111–84, § 2804(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Conveyance of property at military installations to support military construction or limit encroachment”.
 
-Subsec. (a)(1). Pub. L. 111–84, § 2804(a)(1)(A), struck out subpar. (A) designation before “to carry out”, substituted “real property,” for “real property—”, “ to carry out a land acquisition” for “to carry out a military construction project or land acquisition”, and a period for “; or”, and struck out subpar. (B) which read as follows: “to transfer to the Secretary concerned housing that is constructed or provided by the person and located at or near a military installation at which there is a shortage of suitable military family housing, military unaccompanied housing, or both.”
+Subsec. (a)(1). Pub. L. 111–84, § 2804(a)(1)(A), struck out subpar. (A) designation before “to carry out”, substituted “real property,” for “real property—”, “ to carry out a land acquisition” for “to carry out a military construction project or land acquisition”, and a period for “; or”, and struck out subpar. (B) which read as follows: “to transfer to the Secretary concerned housing that is constructed or provided by the person and located at or near a military installation at which there is a shortage of suitable military family housing, military unaccompanied housing, or both.”
 
-Subsec. (a)(3). Pub. L. 111–84, § 2804(a)(1)(B), struck out par. (3) which read as follows: “Subparagraph (B) of paragraph (2) shall apply only during the period beginning on the date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007 and ending on September 30, 2008. Any conveyance of real property described in such subparagraph for which the Secretary concerned has provided the advance public notice required by subsection (d)(1) before the expiration date may be completed after that date.”
+Subsec. (a)(3). Pub. L. 111–84, § 2804(a)(1)(B), struck out par. (3) which read as follows: “Subparagraph (B) of paragraph (2) shall apply only during the period beginning on the date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007 and ending on September 30, 2008. Any conveyance of real property described in such subparagraph for which the Secretary concerned has provided the advance public notice required by subsection (d)(1) before the expiration date may be completed after that date.”
 
-Subsec. (b). Pub. L. 111–84, § 2804(a)(2), substituted “fair market value of the land” for “fair market value of the military construction, military family housing, or military unaccompanied housing” in two places.
+Subsec. (b). Pub. L. 111–84, § 2804(a)(2), substituted “fair market value of the land” for “fair market value of the military construction, military family housing, or military unaccompanied housing” in two places.
 
-Subsec. (c). Pub. L. 111–84, § 2804(a)(3), added subsec. (c) and struck out former subsec. (c) which related to pilot program for use of conveyance authority.
+Subsec. (c). Pub. L. 111–84, § 2804(a)(3), added subsec. (c) and struck out former subsec. (c) which related to pilot program for use of conveyance authority.
 
-Subsec. (d)(2)(A)(ii), (iii). Pub. L. 111–84, § 2804(a)(4), substituted “land acquisition” for “military construction project, land acquisition, military family housing, or military unaccompanied housing”.
+Subsec. (d)(2)(A)(ii), (iii). Pub. L. 111–84, § 2804(a)(4), substituted “land acquisition” for “military construction project, land acquisition, military family housing, or military unaccompanied housing”.
 
-Subsec. (e). Pub. L. 111–84, § 2804(b), designated par. (3) as entire subsec., substituted “The Secretary concerned shall deposit funds received under subsection (b) in the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’. The funds deposited shall be available” for “The funds deposited under paragraph (2) shall be available”, and struck out pars. (1) and (2), which read as follows:
+Subsec. (e). Pub. L. 111–84, § 2804(b), designated par. (3) as entire subsec., substituted “The Secretary concerned shall deposit funds received under subsection (b) in the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’. The funds deposited shall be available” for “The funds deposited under paragraph (2) shall be available”, and struck out pars. (1) and (2), which read as follows:
 
 “(1) Except as provided in paragraph (2), the Secretary concerned may deposit funds received under subsection (b) in the Department of Defense housing funds established under section 2883(a) of this title.
 
 “(2) During the period specified in paragraph (3) of subsection (a), the Secretary concerned shall deposit funds received under subsection (b) in the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’.”
 
-Subsec. (f). Pub. L. 111–84, § 2804(c), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual reports on conveyances and effect of failure to submit report.
+Subsec. (f). Pub. L. 111–84, § 2804(c), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual reports on conveyances and effect of failure to submit report.
 
-2006—Pub. L. 109–364, § 2811(f)(1), substituted “to support military construction or limit encroachment” for “closed or realigned to support military construction” in section catchline.
+2006—Pub. L. 109–364, § 2811(f)(1), substituted “to support military construction or limit encroachment” for “closed or realigned to support military construction” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 2811(a), (b), designated existing provisions as par. (1), in introductory provisions substituted “described in paragraph (2)” for “located on a military installation that is closed or realigned under a base closure law”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted “land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations” for “land acquisition”, and added pars. (2) and (3).
+Subsec. (a). Pub. L. 109–364, § 2811(a), (b), designated existing provisions as par. (1), in introductory provisions substituted “described in paragraph (2)” for “located on a military installation that is closed or realigned under a base closure law”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted “land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations” for “land acquisition”, and added pars. (2) and (3).
 
-Subsec. (d)(1). Pub. L. 109–364, § 2811(c)(1), substituted “is proposed for conveyance” for “closed or realigned under the base closure laws is to be conveyed”.
+Subsec. (d)(1). Pub. L. 109–364, § 2811(c)(1), substituted “is proposed for conveyance” for “closed or realigned under the base closure laws is to be conveyed”.
 
-Subsec. (d)(2), (3). Pub. L. 109–364, § 2811(c)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The Secretary concerned may not enter into an agreement under subsection (a) for the conveyance of real property until—
+Subsec. (d)(2), (3). Pub. L. 109–364, § 2811(c)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The Secretary concerned may not enter into an agreement under subsection (a) for the conveyance of real property until—
 
 “(A) the Secretary submits to Congress notice of the conveyance, including the military construction activities, military family housing, or military unaccompanied housing to be obtained in exchange for the conveyance; and
 
 “(B) a period of 14 days expires beginning on the date on which the notice is submitted.”
 
-Subsec. (e). Pub. L. 109–364, § 2811(d), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary concerned may deposit funds received under subsection (b) in the Department of Defense housing funds established under section 2883(a) of this title.”
+Subsec. (e). Pub. L. 109–364, § 2811(d), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary concerned may deposit funds received under subsection (b) in the Department of Defense housing funds established under section 2883(a) of this title.”
 
-Subsec. (f). Pub. L. 109–364, § 2811(e), in heading substituted “Annual Reports; Effect of Failure to Submit” for “Annual Report”, designated existing provisions as par. (1), in introductory provisions substituted “Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a report detailing the following:” for “In the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Defense shall include a report detailing the following:”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in subpar. (C) inserted “and of excess real property at military installations” before period at end, and added par. (2).
+Subsec. (f). Pub. L. 109–364, § 2811(e), in heading substituted “Annual Reports; Effect of Failure to Submit” for “Annual Report”, designated existing provisions as par. (1), in introductory provisions substituted “Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a report detailing the following:” for “In the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Defense shall include a report detailing the following:”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in subpar. (C) inserted “and of excess real property at military installations” before period at end, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Issuance of Guidance**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2862(c), Jan. 1, 2021, 134 Stat. 4358, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall issue guidance providing for the implementation of the pilot program required by section 2869(a)(3) of title 10, United States Code, as added by this section.”
+Pub. L. 116–283, div. B, title XXVIII, § 2862(c), Jan. 1, 2021, 134 Stat. 4358, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall issue guidance providing for the implementation of the pilot program required by section 2869(a)(3) of title 10, United States Code, as added by this section.”
 
-### [§ 2870. Repealed. Pub. L. 116–283, div. A, title VIII, § 818(a), Jan. 1, 2021, 134 Stat. 3751]
+### [§ 2870. Repealed. Pub. L. 116–283, div. A, title VIII, § 818(a), Jan. 1, 2021, 134 Stat. 3751]
 
-Section, added Pub. L. 116–92, div. A, title VIII, § 865(a)(1), Dec. 20, 2019, 133 Stat. 1523, related to use of qualified apprentices by military construction contractors.
+Section, added Pub. L. 116–92, div. A, title VIII, § 865(a)(1), Dec. 20, 2019, 133 Stat. 1523, related to use of qualified apprentices by military construction contractors.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title VIII, § 865(b), Dec. 20, 2019, 133 Stat. 1524, which provided that the amendments made by section 865 of Pub. L. 116–92 (enacting this section) would apply with respect to contracts awarded on or after 180 days after Dec. 20, 2019, was repealed by Pub. L. 116–283, div. A, title VIII, § 818(b)(2), Jan. 1, 2021, 134 Stat. 3751.
+Pub. L. 116–92, div. A, title VIII, § 865(b), Dec. 20, 2019, 133 Stat. 1524, which provided that the amendments made by section 865 of Pub. L. 116–92 (enacting this section) would apply with respect to contracts awarded on or after 180 days after Dec. 20, 2019, was repealed by Pub. L. 116–283, div. A, title VIII, § 818(b)(2), Jan. 1, 2021, 134 Stat. 3751.
 
 ## SUBCHAPTER IV—ALTERNATIVE AUTHORITY FOR ACQUISITION AND IMPROVEMENT OF MILITARY HOUSING
 
@@ -6587,31 +6587,31 @@ Pub. L. 116–92, div. A, title VIII, § 865(b), Dec. 20, 2019, 133 Stat. 1524
 
 **Amendments**
 
-2025—Pub. L. 119–21, title II, § 20001(c)(1), July 4, 2025, 139 Stat. 113, substituted “Temporary authority for acquisition or construction of privatized military unaccompanied housing” for “Pilot projects for acquisition or construction of military unaccompanied housing” in item 2881a. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–21, title II, § 20001(c)(1), July 4, 2025, 139 Stat. 113, substituted “Temporary authority for acquisition or construction of privatized military unaccompanied housing” for “Pilot projects for acquisition or construction of military unaccompanied housing” in item 2881a. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. B, § 2003(b), title XXVIII, § 2812(a), Dec. 27, 2021, 135 Stat. 2162, 2191, renumbered item 2879 as 2857 and transferred it to appear after item 2856 in analysis under subchapter III of this chapter.
+2021—Pub. L. 117–81, div. B, § 2003(b), title XXVIII, § 2812(a), Dec. 27, 2021, 135 Stat. 2162, 2191, renumbered item 2879 as 2857 and transferred it to appear after item 2856 in analysis under subchapter III of this chapter.
 
-2019—Pub. L. 116–92, div. B, title XXX, §§ 3014(d)(2), 3033(b), Dec. 20, 2019, 133 Stat. 1926, 1936, added item 2872b and struck out item 2886 “Prohibiting collection of amounts in addition to rent from members assigned to units”.
+2019—Pub. L. 116–92, div. B, title XXX, §§ 3014(d)(2), 3033(b), Dec. 20, 2019, 133 Stat. 1926, 1936, added item 2872b and struck out item 2886 “Prohibiting collection of amounts in addition to rent from members assigned to units”.
 
-2018—Pub. L. 115–232, div. A, title X, § 1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, § 2817(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
+2018—Pub. L. 115–232, div. A, title X, § 1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, § 2817(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
 
-2017—Pub. L. 115–91, div. B, title XXVIII, § 2817(a)(2), Dec. 12, 2017, 131 Stat. 1852, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, added item 2879.
+2017—Pub. L. 115–91, div. B, title XXVIII, § 2817(a)(2), Dec. 12, 2017, 131 Stat. 1852, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, added item 2879.
 
-Pub. L. 115–91, div. A, title VI, § 602(b), Dec. 12, 2017, 131 Stat. 1418, added item 2886.
+Pub. L. 115–91, div. A, title VI, § 602(b), Dec. 12, 2017, 131 Stat. 1418, added item 2886.
 
-2008—Pub. L. 110–417, div. B, title XXVIII, § 2805(a)(2), (e)(2), Oct. 14, 2008, 122 Stat. 4722, 4724, added items 2882 and 2885 and struck out former item 2882 “Assignment of members of the armed forces to housing units”.
+2008—Pub. L. 110–417, div. B, title XXVIII, § 2805(a)(2), (e)(2), Oct. 14, 2008, 122 Stat. 4722, 4724, added items 2882 and 2885 and struck out former item 2882 “Assignment of members of the armed forces to housing units”.
 
-2004—Pub. L. 108–375, div. B, title XXVIII, § 2805(b)(2), Oct. 28, 2004, 118 Stat. 2122, struck out item 2885 “Expiration of authority”.
+2004—Pub. L. 108–375, div. B, title XXVIII, § 2805(b)(2), Oct. 28, 2004, 118 Stat. 2122, struck out item 2885 “Expiration of authority”.
 
-2002—Pub. L. 107–314, div. B, title XXVIII, §§ 2802(b)(3), (c)(2), 2803(a)(2), Dec. 2, 2002, 116 Stat. 2703, 2705, struck out “to be constructed” after “Leasing of housing” in item 2874, struck out item 2879 “Interim leases”, and added item 2881a.
+2002—Pub. L. 107–314, div. B, title XXVIII, §§ 2802(b)(3), (c)(2), 2803(a)(2), Dec. 2, 2002, 116 Stat. 2703, 2705, struck out “to be constructed” after “Leasing of housing” in item 2874, struck out item 2879 “Interim leases”, and added item 2881a.
 
-2001—Pub. L. 107–107, div. B, title XXVIII, § 2804(b), Dec. 28, 2001, 115 Stat. 1306, added item 2883a.
+2001—Pub. L. 107–107, div. B, title XXVIII, § 2804(b), Dec. 28, 2001, 115 Stat. 1306, added item 2883a.
 
-2000—Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2805(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–415, added item 2872a.
+2000—Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2805(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–415, added item 2872a.
 
-1999—Pub. L. 106–65, div. B, title XXVIII, § 2803(h)(2), Oct. 5, 1999, 113 Stat. 849, added item 2875 and struck out former item 2875 “Investments in nongovernmental entities”.
+1999—Pub. L. 106–65, div. B, title XXVIII, § 2803(h)(2), Oct. 5, 1999, 113 Stat. 849, added item 2875 and struck out former item 2875 “Investments in nongovernmental entities”.
 
-### § 2871. Definitions
+### § 2871. Definitions
 
 In this subchapter and subchapter V of this chapter:
 
@@ -6641,33 +6641,33 @@ In this subchapter and subchapter V of this chapter:
 
 **(13)** The term “United States” includes the Commonwealth of Puerto Rico.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amended Pub. L. 105–261, div. B, title XXVIII, § 2803, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–65, div. B, title XXVIII, § 2803(a), Oct. 5, 1999, 113 Stat. 848; Pub. L. 107–314, div. B, title XXVIII, § 2803(b), Dec. 2, 2002, 116 Stat. 2705; Pub. L. 108–136, div. A, title X, § 1043(c)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 109–163, div. B, title XXVIII, § 2805(b), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, § 2805(c), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 116–92, div. B, title XXX, §§ 3001(b)–3011(a), Dec. 20, 2019, 133 Stat. 1916, 1917.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amended Pub. L. 105–261, div. B, title XXVIII, § 2803, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–65, div. B, title XXVIII, § 2803(a), Oct. 5, 1999, 113 Stat. 848; Pub. L. 107–314, div. B, title XXVIII, § 2803(b), Dec. 2, 2002, 116 Stat. 2705; Pub. L. 108–136, div. A, title X, § 1043(c)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 109–163, div. B, title XXVIII, § 2805(b), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, § 2805(c), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 116–92, div. B, title XXX, §§ 3001(b)–3011(a), Dec. 20, 2019, 133 Stat. 1916, 1917.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 3011(a), inserted “and subchapter V of this chapter” after “this subchapter” in introductory provisions.
+2019—Pub. L. 116–92, § 3011(a), inserted “and subchapter V of this chapter” after “this subchapter” in introductory provisions.
 
-Pars. (1), (3). Pub. L. 116–92, § 3001(c), struck out “military” before “housing units”.
+Pars. (1), (3). Pub. L. 116–92, § 3001(c), struck out “military” before “housing units”.
 
-Par. (4). Pub. L. 116–92, § 3001(b)(1), inserted at end “The fact that an agreement between an eligible entity and the Secretary concerned is designated as an agreement rather than a contract shall not be construed to exclude the agreement from the term ‘contract’ for purposes of this subchapter and subchapter V.”
+Par. (4). Pub. L. 116–92, § 3001(b)(1), inserted at end “The fact that an agreement between an eligible entity and the Secretary concerned is designated as an agreement rather than a contract shall not be construed to exclude the agreement from the term ‘contract’ for purposes of this subchapter and subchapter V.”
 
-Par. (5). Pub. L. 116–92, § 3001(c), struck out “military” before “housing units”.
+Par. (5). Pub. L. 116–92, § 3001(c), struck out “military” before “housing units”.
 
-Pars. (7) to (10). Pub. L. 116–92, § 3001(b)(3), added pars. (7) to (10). Former pars. (7) and (8) redesignated (11) and (13), respectively.
+Pars. (7) to (10). Pub. L. 116–92, § 3001(b)(3), added pars. (7) to (10). Former pars. (7) and (8) redesignated (11) and (13), respectively.
 
-Par. (11). Pub. L. 116–92, § 3001(b)(2), redesignated par. (7) as (11).
+Par. (11). Pub. L. 116–92, § 3001(b)(2), redesignated par. (7) as (11).
 
-Par. (12). Pub. L. 116–92, § 3001(b)(4), added par. (12).
+Par. (12). Pub. L. 116–92, § 3001(b)(4), added par. (12).
 
-Par. (13). Pub. L. 116–92, § 3001(b)(2), redesignated par. (8) as (13).
+Par. (13). Pub. L. 116–92, § 3001(b)(2), redesignated par. (8) as (13).
 
 2008—Par. (5). Pub. L. 110–417 inserted before period at end “that is prepared to enter into a contract as a partner with the Secretary concerned for the construction of military housing units and ancillary supporting facilities”.
 
-2006—Par. (1). Pub. L. 109–163, § 2805(b)(1), inserted “child development centers,” after “day care centers,”.
+2006—Par. (1). Pub. L. 109–163, § 2805(b)(1), inserted “child development centers,” after “day care centers,”.
 
-Par. (2). Pub. L. 109–163, § 2805(b)(2), added par. (2).
+Par. (2). Pub. L. 109–163, § 2805(b)(2), added par. (2).
 
 2003—Par. (2). Pub. L. 108–136 struck out par. (2) which read as follows: “The term ‘base closure law’ means the following:
 
@@ -6687,7 +6687,7 @@ Par. (2). Pub. L. 109–163, § 2805(b)(2), added par. (2).
 
 **Command Oversight of Military Privatized Housing as Element of Performance Evaluations**
 
-Pub. L. 117–81, div. A, title V, § 525, Dec. 27, 2021, 135 Stat. 1688, provided that:
+Pub. L. 117–81, div. A, title V, § 525, Dec. 27, 2021, 135 Stat. 1688, provided that:
 
 > **“(a) Evaluations in General.—** Each Secretary of a military department shall ensure that the performance evaluations of any individual described in subsection (b) under the jurisdiction of such Secretary provides for an assessment of the extent to which such individual has or has not exercised effective oversight and leadership in the following:
 
@@ -6705,7 +6705,7 @@ Pub. L. 117–81, div. A, title V, § 525, Dec. 27, 2021, 135 Stat. 1688, prov
 
 **Promulgation of Guidance To Facilitate Return of Military Families Displaced From Privatized Military Housing**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2816, Jan. 1, 2021, 134 Stat. 4328, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2816, Jan. 1, 2021, 134 Stat. 4328, provided that:
 
 > **“(a) Guidance Required.—** The Secretary of Defense shall promulgate guidance for commanders of military installations and installation housing management offices to assist such commanders and offices in facilitating and managing the relocation and return of tenants of privatized military housing when tenants are displaced from such housing—
 
@@ -6727,13 +6727,13 @@ Pub. L. 116–283, div. B, title XXVIII, § 2816, Jan. 1, 2021, 134 Stat. 4328
 
 **Uniform Code of Basic Standards for Privatized Military Housing and Plan To Conduct Inspections and Assessments**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2818, Jan. 1, 2021, 134 Stat. 4329, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2818, Jan. 1, 2021, 134 Stat. 4329, provided that:
 
 > **“(a) Uniform Code of Basic Standards for Military Housing.—** The Secretary of Defense shall expand the uniform code of basic housing standards for safety, comfort, and habitability for privatized military housing established pursuant to section 3051(a) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1941; 10 U.S.C. 2871 note) [set out below] to include Government-owned and Government-controlled military family housing located inside or outside the United States and occupied by members of the Armed Forces.
 
 > **“(b) Inspection and Assessment Plan.—** The Secretary of Defense shall expand the Department of Defense housing inspection and assessment plan prepared pursuant to section 3051(b) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1941; 10 U.S.C. 2871 note) [set out below] to include Government-owned and Government-controlled military family housing located inside or outside the United States and occupied by members of the Armed Forces and commence inspections and assessments of such military family housing pursuant to the plan.”
 
-Pub. L. 116–92, div. B, title XXX, § 3051, Dec. 20, 2019, 133 Stat. 1941, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3051, Dec. 20, 2019, 133 Stat. 1941, provided that:
 
 > **“(a) Uniform Code.—** Not later than February 1, 2021, the Secretary of Defense shall establish and implement a uniform code of basic housing standards for safety, comfort, and habitability for privatized military housing, which shall meet or exceed requirements informed by a nationally recognized, consensus-based, model property maintenance code.
 
@@ -6755,7 +6755,7 @@ Pub. L. 116–92, div. B, title XXX, § 3051, Dec. 20, 2019, 133 Stat. 1941, p
 
 **Radon Testing of Privatized Military Housing**
 
-Pub. L. 116–92, div. B, title XXX, § 3061, Dec. 20, 2019, 133 Stat. 1946, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3061, Dec. 20, 2019, 133 Stat. 1946, provided that:
 
 > **“(a) Report.—** Not later than March 1, 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report identifying the installations of the Department of Defense that have privatized military housing that should be monitored for levels of radon at or above the action level.
 
@@ -6771,7 +6771,7 @@ Pub. L. 116–92, div. B, title XXX, § 3061, Dec. 20, 2019, 133 Stat. 1946, p
 
 **Military Housing Privatization Initiative**
 
-Pub. L. 115–232, div. A, title VI, § 606, Aug. 13, 2018, 132 Stat. 1795, as amended by Pub. L. 116–92, div. B, title XXX, §§ 3036(a), 3037, Dec. 20, 2019, 133 Stat. 1938, 1939; Pub. L. 116–283, div. B, title XXVIII, § 2811(i), Jan. 1, 2021, 134 Stat. 4326; Pub. L. 117–81, div. B, title XXVIII, § 2811, Dec. 27, 2021, 135 Stat. 2191; Pub. L. 118–31, div. B, title XXVIII, §§ 2822(c), 2839(d), Dec. 22, 2023, 137 Stat. 751, 761, provided that:
+Pub. L. 115–232, div. A, title VI, § 606, Aug. 13, 2018, 132 Stat. 1795, as amended by Pub. L. 116–92, div. B, title XXX, §§ 3036(a), 3037, Dec. 20, 2019, 133 Stat. 1938, 1939; Pub. L. 116–283, div. B, title XXVIII, § 2811(i), Jan. 1, 2021, 134 Stat. 4326; Pub. L. 117–81, div. B, title XXVIII, § 2811, Dec. 27, 2021, 135 Stat. 2191; Pub. L. 118–31, div. B, title XXVIII, §§ 2822(c), 2839(d), Dec. 22, 2023, 137 Stat. 751, 761, provided that:
 
 > **“(a) Use of Funds in Connection With MHPI.—**
 
@@ -6845,9 +6845,9 @@ Pub. L. 115–232, div. A, title VI, § 606, Aug. 13, 2018, 132 Stat. 1795, as
 
 > **“(3)** The term ‘MHPI housing’ means housing procured, acquired, constructed, or for which any phase or portion of a project agreement was first finalized and signed, under the alternative authority of subchapter IV of chapter 169 of title 10, United States Code (known as the Military Housing Privatization Initiative), on or before September 30, 2014.”
 
-[Pub. L. 116–92, div. B, title XXX, § 3036(b), Dec. 20, 2019, 133 Stat. 1939, provided that: “The amendment made by this section [amending section 606 of Pub. L. 115–232, set out above] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to months beginning after that date.” ]
+[Pub. L. 116–92, div. B, title XXX, § 3036(b), Dec. 20, 2019, 133 Stat. 1939, provided that: “The amendment made by this section [amending section 606 of Pub. L. 115–232, set out above] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to months beginning after that date.” ]
 
-### § 2872. General authority
+### § 2872. General authority
 
 In addition to any other authority provided under this chapter for the acquisition or construction of military family housing or military unaccompanied housing, the Secretary concerned may exercise any authority or any combination of authorities provided under this subchapter in order to provide for the acquisition or construction by eligible entities of the following:
 
@@ -6855,17 +6855,17 @@ In addition to any other authority provided under this chapter for the acquisiti
 
 **(2)** Military unaccompanied housing units on or near such military installations.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 545; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(b), Oct. 5, 1999, 113 Stat. 849; Pub. L. 119–60, div. B, title XXVIII, § 2821(b), Dec. 18, 2025, 139 Stat. 1304.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 545; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(b), Oct. 5, 1999, 113 Stat. 849; Pub. L. 119–60, div. B, title XXVIII, § 2821(b), Dec. 18, 2025, 139 Stat. 1304.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Par. (1). Pub. L. 119–60 substituted inserted “, including such units for civilian employees of the Department of Defense and defense contractors” before period at end.
+2025—Par. (1). Pub. L. 119–60 substituted inserted “, including such units for civilian employees of the Department of Defense and defense contractors” before period at end.
 
 1999—Pub. L. 106–65 substituted “eligible entities” for “private persons” in introductory provisions.
 
-### § 2872a. Utilities and services
+### § 2872a. Utilities and services
 
 **(a) Authority To Furnish.—** The Secretary concerned may furnish utilities and services referred to in subsection (b) in connection with any military housing acquired or constructed pursuant to the exercise of any authority or combination of authorities under this subchapter if the military housing is located on a military installation.
 
@@ -6911,7 +6911,7 @@ In addition to any other authority provided under this chapter for the acquisiti
 
 **(3)** Amounts credited under paragraph (2) to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
 
-(Added Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2805(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; amended Pub. L. 107–314, div. B, title XXVIII, § 2802(a), Dec. 2, 2002, 116 Stat. 2703; Pub. L. 113–66, div. B, title XXVIII, § 2804, Dec. 26, 2013, 127 Stat. 1007; Pub. L. 116–92, div. B, title XXX, § 3032, Dec. 20, 2019, 133 Stat. 1936.)
+(Added Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2805(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; amended Pub. L. 107–314, div. B, title XXVIII, § 2802(a), Dec. 2, 2002, 116 Stat. 2703; Pub. L. 113–66, div. B, title XXVIII, § 2804, Dec. 26, 2013, 127 Stat. 1007; Pub. L. 116–92, div. B, title XXX, § 3032, Dec. 20, 2019, 133 Stat. 1936.)
 
 **Editorial Notes**
 
@@ -6923,7 +6923,7 @@ In addition to any other authority provided under this chapter for the acquisiti
 
 2002—Subsec. (b)(11), (12). Pub. L. 107–314 added pars. (11) and (12).
 
-### § 2872b. Treatment of breach of contract
+### § 2872b. Treatment of breach of contract
 
 **(a) Response to Material Breach.—** In the case of a material breach of contract under this subchapter by a party to the contract, the Secretary concerned shall use the authorities available to the Secretary, including withholding amounts to be paid under the contract, to encourage the party to cure the breach.
 
@@ -6933,9 +6933,9 @@ In addition to any other authority provided under this chapter for the acquisiti
 
 **(2)** prohibit the offending party from entering into a new contract or undertaking expansions of other existing contracts, or both, with the Secretary under this subchapter.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3033(a), Dec. 20, 2019, 133 Stat. 1936.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3033(a), Dec. 20, 2019, 133 Stat. 1936.)
 
-### § 2873. Direct loans and loan guarantees
+### § 2873. Direct loans and loan guarantees
 
 **(a) Direct Loans.—**
 
@@ -6957,17 +6957,17 @@ In addition to any other authority provided under this chapter for the acquisiti
 
 **(c) Limitation on Direct Loan and Guarantee Authority.—** Direct loans and loan guarantees may be made under this section only to the extent that appropriations of budget authority to cover their cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a(5))) are made in advance, or authority is otherwise provided in appropriation Acts. If such appropriation or other authority is provided, there may be established a financing account (as defined in section 502(7) of such Act (2 U.S.C. 661a(7))), which shall be available for the disbursement of direct loans or payment of claims for payment on loan guarantees under this section and for all other cash flows to and from the Government as a result of direct loans and guarantees made under this section.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 545; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(c), Oct. 5, 1999, 113 Stat. 849.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 545; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(c), Oct. 5, 1999, 113 Stat. 849.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1999—Subsec. (a)(1). Pub. L. 106–65, § 2803(c)(1), substituted “an eligible entity” for “persons in the private sector” and “the eligible entity” for “such persons”.
+1999—Subsec. (a)(1). Pub. L. 106–65, § 2803(c)(1), substituted “an eligible entity” for “persons in the private sector” and “the eligible entity” for “such persons”.
 
-Subsec. (b)(1). Pub. L. 106–65, § 2803(c)(2), substituted “an eligible entity” for “any person in the private sector” and “the eligible entity” for “the person”.
+Subsec. (b)(1). Pub. L. 106–65, § 2803(c)(2), substituted “an eligible entity” for “any person in the private sector” and “the eligible entity” for “the person”.
 
-### § 2874. Leasing of housing
+### § 2874. Leasing of housing
 
 **(a) Lease Authorized.—** The Secretary concerned may enter into contracts for the lease of housing units that the Secretary determines are suitable for use as military family housing or military unaccompanied housing.
 
@@ -6975,19 +6975,19 @@ Subsec. (b)(1). Pub. L. 106–65, § 2803(c)(2), substituted “an eligible en
 
 **(c) Lease Terms.—** A contract under this section may be for any period that the Secretary concerned determines appropriate and may provide for the owner of the leased property to operate and maintain the property.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 107–314, div. B, title XXVIII, § 2802(b)(1), (2), Dec. 2, 2002, 116 Stat. 2703.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 107–314, div. B, title XXVIII, § 2802(b)(1), (2), Dec. 2, 2002, 116 Stat. 2703.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Pub. L. 107–314, § 2802(b)(2), in section catchline struck out “to be constructed” after “Leasing of housing”.
+2002—Pub. L. 107–314, § 2802(b)(2), in section catchline struck out “to be constructed” after “Leasing of housing”.
 
-Subsec. (a). Pub. L. 107–314, § 2802(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary concerned may enter into contracts for the lease of military family housing units or military unaccompanied housing units to be constructed under this subchapter.”
+Subsec. (a). Pub. L. 107–314, § 2802(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary concerned may enter into contracts for the lease of military family housing units or military unaccompanied housing units to be constructed under this subchapter.”
 
-Subsecs. (b), (c). Pub. L. 107–314, § 2802(b)(1), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 107–314, § 2802(b)(1), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-### § 2875. Investments
+### § 2875. Investments
 
 **(a) Investments Authorized.—** The Secretary concerned may make investments in an eligible entity carrying out projects for the acquisition or construction of housing units suitable for use as military family housing or as military unaccompanied housing.
 
@@ -6995,19 +6995,19 @@ Subsecs. (b), (c). Pub. L. 107–314, § 2802(b)(1), added subsec. (b) and red
 
 **(c) Limitation on Value of Investment.—**
 
-**(1)** The cash amount of an investment under this section in an eligible entity may not exceed an amount equal to 33⅓ percent 1
+**(1)** The cash amount of an investment under this section in an eligible entity may not exceed an amount equal to 33⅓ percent 1
 
-<sup>1</sup>  See Temporary Increase in Percentage of Value of Authorized Investment in Certain Privatized Military Housing Projects note below.
+<sup>1</sup> See Temporary Increase in Percentage of Value of Authorized Investment in Certain Privatized Military Housing Projects note below.
 
 of the capital cost (as determined by the Secretary concerned) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
 
-**(2)** If the Secretary concerned conveys land or facilities to an eligible entity as all or part of an investment in the eligible entity under this section, the total value of the investment by the Secretary under this section may not exceed an amount equal to 45 percent <sup>1</sup> of the capital cost (as determined by the Secretary) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
+**(2)** If the Secretary concerned conveys land or facilities to an eligible entity as all or part of an investment in the eligible entity under this section, the total value of the investment by the Secretary under this section may not exceed an amount equal to 45 percent <sup>1</sup> of the capital cost (as determined by the Secretary) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
 
 **(3)** In this subsection, the term “capital cost”, with respect to a project for the acquisition or construction of housing, means the total amount of the costs included in the basis of the housing for Federal income tax purposes.
 
 **(d) Collateral Incentive Agreements.—** The Secretary concerned shall enter into collateral incentive agreements with eligible entities in which the Secretary makes an investment under this section to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or purchase, as the case may be, of a reasonable number of the housing units covered by the investment.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 105–85, div. B, title XXVIII, § 2805, Nov. 18, 1997, 111 Stat. 1991; Pub. L. 106–65, div. B, title XXVIII, § 2803(d), (h)(1), Oct. 5, 1999, 113 Stat. 849; Pub. L. 108–136, div. A, title X, § 1031(a)(50), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 113–66, div. B, title XXVIII, § 2805, Dec. 26, 2013, 127 Stat. 1008.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 105–85, div. B, title XXVIII, § 2805, Nov. 18, 1997, 111 Stat. 1991; Pub. L. 106–65, div. B, title XXVIII, § 2803(d), (h)(1), Oct. 5, 1999, 113 Stat. 849; Pub. L. 108–136, div. A, title X, § 1031(a)(50), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 113–66, div. B, title XXVIII, § 2805, Dec. 26, 2013, 127 Stat. 1008.)
 
 **Editorial Notes**
 
@@ -7017,15 +7017,15 @@ of the capital cost (as determined by the Secretary concerned) of the project or
 
 2003—Subsec. (e). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title”.
 
-1999—Pub. L. 106–65, § 2803(h)(1), struck out “in nongovernmental entities” after “Investments” in section catchline.
+1999—Pub. L. 106–65, § 2803(h)(1), struck out “in nongovernmental entities” after “Investments” in section catchline.
 
-Subsec. (a). Pub. L. 106–65, § 2803(d)(1), substituted “an eligible entity” for “nongovernmental entities”.
+Subsec. (a). Pub. L. 106–65, § 2803(d)(1), substituted “an eligible entity” for “nongovernmental entities”.
 
-Subsec. (c). Pub. L. 106–65, § 2803(d)(2), substituted “an eligible entity” for “a nongovernmental entity” in pars. (1) and (2) and “the eligible entity” for “the entity” wherever appearing in pars. (1) and (2).
+Subsec. (c). Pub. L. 106–65, § 2803(d)(2), substituted “an eligible entity” for “a nongovernmental entity” in pars. (1) and (2) and “the eligible entity” for “the entity” wherever appearing in pars. (1) and (2).
 
-Subsec. (d). Pub. L. 106–65, § 2803(d)(3), substituted “eligible” for “nongovernmental”.
+Subsec. (d). Pub. L. 106–65, § 2803(d)(3), substituted “eligible” for “nongovernmental”.
 
-Subsec. (e). Pub. L. 106–65, § 2803(d)(4), substituted “an eligible entity” for “a nongovernmental entity”.
+Subsec. (e). Pub. L. 106–65, § 2803(d)(4), substituted “an eligible entity” for “a nongovernmental entity”.
 
 1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 
@@ -7033,7 +7033,7 @@ Subsec. (e). Pub. L. 106–65, § 2803(d)(4), substituted “an eligible entit
 
 **Temporary Increase in Percentage of Value of Authorized Investment in Certain Privatized Military Housing Projects**
 
-Pub. L. 119–21, title II, § 20001(b), July 4, 2025, 139 Stat. 112, provided that:
+Pub. L. 119–21, title II, § 20001(b), July 4, 2025, 139 Stat. 112, provided that:
 
 > **“(1) In general.—** During the period beginning on the date of the enactment of this section [July 4, 2025] and ending on September 30, 2029, the Secretary concerned shall apply—
 
@@ -7043,7 +7043,7 @@ Pub. L. 119–21, title II, § 20001(b), July 4, 2025, 139 Stat. 112, provided
 
 > **“(2) Secretary concerned defined.—** In this subsection, the term ‘Secretary concerned’ has the meaning given such term in section 101 of title 10, United States Code.”
 
-### § 2876. Rental guarantees
+### § 2876. Rental guarantees
 
 The Secretary concerned may enter into agreements with eligible entities that acquire or construct military family housing units or military unaccompanied housing units under this subchapter in order to assure—
 
@@ -7051,7 +7051,7 @@ The Secretary concerned may enter into agreements with eligible entities that ac
 
 **(2)** rental income derived from rental of such units at levels specified in the agreements.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(e), Oct. 5, 1999, 113 Stat. 849.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(e), Oct. 5, 1999, 113 Stat. 849.)
 
 **Editorial Notes**
 
@@ -7059,11 +7059,11 @@ The Secretary concerned may enter into agreements with eligible entities that ac
 
 1999—Pub. L. 106–65 substituted “eligible entities” for “private persons” in introductory provisions.
 
-### § 2877. Differential lease payments
+### § 2877. Differential lease payments
 
 Pursuant to an agreement entered into by the Secretary concerned and a lessor of military family housing or military unaccompanied housing to members of the armed forces, the Secretary may pay the lessor an amount in addition to the rental payments for the housing made by the members as the Secretary determines appropriate to encourage the lessor to make the housing available to members of the armed forces as military family housing or as military unaccompanied housing.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(f), Oct. 5, 1999, 113 Stat. 849.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(f), Oct. 5, 1999, 113 Stat. 849.)
 
 **Editorial Notes**
 
@@ -7071,7 +7071,7 @@ Pursuant to an agreement entered into by the Secretary concerned and a lessor of
 
 1999—Pub. L. 106–65 substituted “a lessor” for “a private lessor”.
 
-### § 2878. Conveyance or lease of existing property and facilities
+### § 2878. Conveyance or lease of existing property and facilities
 
 **(a) Conveyance or Lease Authorized.—** The Secretary concerned may convey or lease property or facilities (including ancillary supporting facilities) to eligible entities for purposes of using the proceeds of such conveyance or lease to carry out activities under this subchapter.
 
@@ -7133,15 +7133,15 @@ Pursuant to an agreement entered into by the Secretary concerned and a lessor of
 
 **(E)** An assessment of compliance by the lessor with the Military Housing Privatization Initiative Tenant Bill of Rights developed under section 2890 of this title.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, § 1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, § 2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, § 1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, § 3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, § 2805(d), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 111–350, § 5(b)(50), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 117–263, div. B, title XXVIII, § 2822, Dec. 23, 2022, 136 Stat. 3000; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(24), div. B, title XXVIII, § 2822(a), Dec. 22, 2023, 137 Stat. 684, 751.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, § 1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, § 2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, § 1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, § 3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, § 2805(d), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 111–350, § 5(b)(50), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 117–263, div. B, title XXVIII, § 2822, Dec. 23, 2022, 136 Stat. 3000; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(24), div. B, title XXVIII, § 2822(a), Dec. 22, 2023, 137 Stat. 684, 751.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (f)(2)(D)(iii). Pub. L. 118–31, § 1801(a)(24), substituted “A report” for “An report”.
+2023—Subsec. (f)(2)(D)(iii). Pub. L. 118–31, § 1801(a)(24), substituted “A report” for “An report”.
 
-Subsec. (f)(2)(E). Pub. L. 118–31, § 2822(a), added subpar. (E).
+Subsec. (f)(2)(E). Pub. L. 118–31, § 2822(a), added subpar. (E).
 
 2022—Subsec. (f). Pub. L. 117–263 added subsec. (f).
 
@@ -7149,9 +7149,9 @@ Subsec. (f)(2)(E). Pub. L. 118–31, § 2822(a), added subpar. (E).
 
 2008—Subsecs. (c) to (e). Pub. L. 110–417 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-2002—Subsec. (d)(2). Pub. L. 107–217, § 3(b)(23)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+2002—Subsec. (d)(2). Pub. L. 107–217, § 3(b)(23)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
-Subsec. (d)(3). Pub. L. 107–217, § 3(b)(23)(B), substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (40 U.S.C. 303b)”.
+Subsec. (d)(3). Pub. L. 107–217, § 3(b)(23)(B), substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (40 U.S.C. 303b)”.
 
 2001—Subsec. (d)(4). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
@@ -7159,21 +7159,21 @@ Subsec. (d)(3). Pub. L. 107–217, § 3(b)(23)(B), substituted “Section 1302
 
 1997—Subsec. (d)(4). Pub. L. 105–85 substituted “11411” for “11401”.
 
-### [§ 2879. Renumbered § 2857]
+### [§ 2879. Renumbered § 2857]
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2879, added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 547, related to interim leases of completed units pending completion of a project to acquire or construct military family housing units or military unaccompanied housing units, prior to repeal by Pub. L. 107–314, div. B, title XXVIII, § 2802(c)(1), Dec. 2, 2002, 116 Stat. 2703.
+A prior section 2879, added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 547, related to interim leases of completed units pending completion of a project to acquire or construct military family housing units or military unaccompanied housing units, prior to repeal by Pub. L. 107–314, div. B, title XXVIII, § 2802(c)(1), Dec. 2, 2002, 116 Stat. 2703.
 
-### § 2880. Unit size and type
+### § 2880. Unit size and type
 
 **(a) Conformity With Similar Housing Units in Locale.—** The Secretary concerned shall ensure that the room patterns and floor areas of military family housing units and military unaccompanied housing units acquired or constructed under this subchapter are generally comparable to the room patterns and floor areas of similar housing units in the locality concerned.
 
 **(b) Inapplicability of Limitations on Space by Pay Grade.—** Sections 2826 and 2856 of this title shall not apply to military family housing or military unaccompanied housing units acquired or constructed under this subchapter.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 108–136, div. B, title XXVIII, § 2806, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 109–364, div. B, title XXVIII, § 2807(b), Oct. 17, 2006, 120 Stat. 2469.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 108–136, div. B, title XXVIII, § 2806, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 109–364, div. B, title XXVIII, § 2807(b), Oct. 17, 2006, 120 Stat. 2469.)
 
 **Editorial Notes**
 
@@ -7183,7 +7183,7 @@ A prior section 2879, added Pub. L. 104–106, div. B, title XXVIII, § 2801(a
 
 2003—Subsec. (b)(2). Pub. L. 108–136 struck out “unless the unit is located on a military installation” before period at end.
 
-### § 2881. Ancillary supporting facilities
+### § 2881. Ancillary supporting facilities
 
 **(a) Authority To Acquire or Construct.—** Any project for the acquisition or construction of military family housing units or military unaccompanied housing units under this subchapter may include the acquisition or construction of ancillary supporting facilities for the housing units concerned.
 
@@ -7199,7 +7199,7 @@ A prior section 2879, added Pub. L. 104–106, div. B, title XXVIII, § 2801(a
 
 **(5)** any nonappropriated fund activity of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 106–65, div. B, title XXVIII, § 2804, Oct. 5, 1999, 113 Stat. 849; Pub. L. 109–163, div. B, title XXVIII, § 2805(a), Jan. 6, 2006, 119 Stat. 3507.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 106–65, div. B, title XXVIII, § 2804, Oct. 5, 1999, 113 Stat. 849; Pub. L. 109–163, div. B, title XXVIII, § 2805(a), Jan. 6, 2006, 119 Stat. 3507.)
 
 **Editorial Notes**
 
@@ -7213,9 +7213,9 @@ A prior section 2879, added Pub. L. 104–106, div. B, title XXVIII, § 2801(a
 
 **Construction of 2006 Amendment**
 
-Pub. L. 109–163, div. B, title XXVIII, § 2805(c), Jan. 6, 2006, 119 Stat. 3507, provided that: “Nothing in the amendment made by subsection (a) [amending this section] may be construed to alter any law and regulation applicable to the operation of a child development center, as defined in section 2871(2) of title 10, United States Code.”
+Pub. L. 109–163, div. B, title XXVIII, § 2805(c), Jan. 6, 2006, 119 Stat. 3507, provided that: “Nothing in the amendment made by subsection (a) [amending this section] may be construed to alter any law and regulation applicable to the operation of a child development center, as defined in section 2871(2) of title 10, United States Code.”
 
-### § 2881a. Temporary authority for acquisition or construction of privatized military unaccompanied housing
+### § 2881a. Temporary authority for acquisition or construction of privatized military unaccompanied housing
 
 **(a) In General.—** The Secretary concerned may use the authority under this subchapter to enter into contracts with appropriate private sector entities for the acquisition or construction of military unaccompanied housing in the United States, including any territory or possession of the United States.
 
@@ -7235,45 +7235,45 @@ Pub. L. 109–163, div. B, title XXVIII, § 2805(c), Jan. 6, 2006, 119 Stat. 3
 
 **(e) Expiration.—** The authority of the Secretary concerned to enter into a contract under this section shall expire September 30, 2029.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, § 2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, § 1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, § 2812, Oct. 17, 2006, 120 Stat. 2473; Pub. L. 111–383, div. B, title XXVIII, § 2803(f), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. A, title X, § 1051(a)(25), div. B, title XXVIII, § 2801(d)(1), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title VI, § 613(b), Dec. 23, 2022, 136 Stat. 2623; Pub. L. 119–21, title II, § 20001(c), July 4, 2025, 139 Stat. 113.)
+(Added Pub. L. 107–314, div. B, title XXVIII, § 2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, § 1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, § 2812, Oct. 17, 2006, 120 Stat. 2473; Pub. L. 111–383, div. B, title XXVIII, § 2803(f), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. A, title X, § 1051(a)(25), div. B, title XXVIII, § 2801(d)(1), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title VI, § 613(b), Dec. 23, 2022, 136 Stat. 2623; Pub. L. 119–21, title II, § 20001(c), July 4, 2025, 139 Stat. 113.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–21, § 20001(c)(1), substituted “Temporary authority for acquisition or construction of privatized military unaccompanied housing” for “Pilot projects for acquisition or construction of military unaccompanied housing” in section catchline.
+2025—Pub. L. 119–21, § 20001(c)(1), substituted “Temporary authority for acquisition or construction of privatized military unaccompanied housing” for “Pilot projects for acquisition or construction of military unaccompanied housing” in section catchline.
 
-Subsec. (a). Pub. L. 119–21, § 20001(c)(2), (4), substituted “In General” for “Pilot Projects Authorized” in heading, “Secretary concerned” for “Secretary of the Navy”, and “use the authority under this subchapter to enter into contracts with appropriate private sector entities” for “carry out not more than three pilot projects under the authority of this section or another provision of this subchapter to use the private sector”.
+Subsec. (a). Pub. L. 119–21, § 20001(c)(2), (4), substituted “In General” for “Pilot Projects Authorized” in heading, “Secretary concerned” for “Secretary of the Navy”, and “use the authority under this subchapter to enter into contracts with appropriate private sector entities” for “carry out not more than three pilot projects under the authority of this section or another provision of this subchapter to use the private sector”.
 
-Subsec. (b). Pub. L. 119–21, § 20001(c)(2), (3), substituted “Secretary concerned” for “Secretary of the Navy” and “pursuant to this section” for “under the pilot projects”.
+Subsec. (b). Pub. L. 119–21, § 20001(c)(2), (3), substituted “Secretary concerned” for “Secretary of the Navy” and “pursuant to this section” for “under the pilot projects”.
 
-Subsec. (c)(1). Pub. L. 119–21, § 20001(c)(3), (5), substituted “privatized housing units” for “privatized housing” and “pursuant to this section” for “under the pilot projects”.
+Subsec. (c)(1). Pub. L. 119–21, § 20001(c)(3), (5), substituted “privatized housing units” for “privatized housing” and “pursuant to this section” for “under the pilot projects”.
 
-Subsec. (d)(1). Pub. L. 119–21, § 20001(c)(2), (3), substituted “Secretary concerned” for “Secretary of the Navy” and “pursuant to this section” for “under the pilot projects”.
+Subsec. (d)(1). Pub. L. 119–21, § 20001(c)(2), (3), substituted “Secretary concerned” for “Secretary of the Navy” and “pursuant to this section” for “under the pilot projects”.
 
-Subsec. (e). Pub. L. 119–21, § 20001(c)(7), substituted “under this section” for “under the pilot programs” and “September 30, 2029” for “September 30, 2009”.
+Subsec. (e). Pub. L. 119–21, § 20001(c)(7), substituted “under this section” for “under the pilot programs” and “September 30, 2029” for “September 30, 2009”.
 
-Pub. L. 119–21, § 20001(c)(6), redesignated subsec. (f) as (e). Former subsec. (e) had been struck out by Pub. L. 115–91. See 2017 Amendment note below.
+Pub. L. 119–21, § 20001(c)(6), redesignated subsec. (f) as (e). Former subsec. (e) had been struck out by Pub. L. 115–91. See 2017 Amendment note below.
 
-Subsec. (f). Pub. L. 119–21, § 20001(c)(6), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 119–21, § 20001(c)(6), redesignated subsec. (f) as (e).
 
-Pub. L. 119–21, § 20001(c)(2), substituted “Secretary of the Navy” for “Secretary concerned”.
+Pub. L. 119–21, § 20001(c)(2), substituted “Secretary of the Navy” for “Secretary concerned”.
 
 2022—Subsec. (c)(1). Pub. L. 117–263 substituted “section 403(*o*)” for “section 403(n)”.
 
-2017—Subsec. (d)(2). Pub. L. 115–91, § 2801(d)(1), inserted “in an electronic medium pursuant to section 480 of this title” after “Congress”.
+2017—Subsec. (d)(2). Pub. L. 115–91, § 2801(d)(1), inserted “in an electronic medium pursuant to section 480 of this title” after “Congress”.
 
-Subsec. (e). Pub. L. 115–91, § 1051(a)(25), struck out subsec. (e) which required reports describing certain proposed contracts, conveyances, or leases.
+Subsec. (e). Pub. L. 115–91, § 1051(a)(25), struck out subsec. (e) which required reports describing certain proposed contracts, conveyances, or leases.
 
 2011—Subsec. (e)(2). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
-2006—Subsecs. (d)(2), (e)(2). Pub. L. 109–364, § 2812(a), substituted “30 days” for “90 days”.
+2006—Subsecs. (d)(2), (e)(2). Pub. L. 109–364, § 2812(a), substituted “30 days” for “90 days”.
 
-Subsec. (f). Pub. L. 109–364, § 2812(b), substituted “2009” for “2007”.
+Subsec. (f). Pub. L. 109–364, § 2812(b), substituted “2009” for “2007”.
 
 Pub. L. 109–163 substituted “The” for “Notwithstanding section 2885 of this title, the”.
 
-### § 2882. Effect of assignment of members to housing units acquired or constructed under alternative authority
+### § 2882. Effect of assignment of members to housing units acquired or constructed under alternative authority
 
 **(a) Treatment as Quarters of the United States.—** Except as provided in subsection (b), housing units acquired or constructed under this subchapter shall be considered as quarters of the United States or a housing facility under the jurisdiction of a uniformed service for purposes of section 403 of title 37.
 
@@ -7281,7 +7281,7 @@ Pub. L. 109–163 substituted “The” for “Notwithstanding section 2885 of t
 
 **(c) Lease Payments Through Pay Allotments.—** The Secretary concerned may require members of the armed forces who lease housing in housing units acquired or constructed under this subchapter to make lease payments for such housing pursuant to allotments of the pay of such members under section 701 of title 37.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 105–85, div. A, title VI, § 603(d)(2)(C), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 110–417, div. B, title XXVIII, § 2805(e)(1), Oct. 14, 2008, 122 Stat. 4723.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 105–85, div. A, title VI, § 603(d)(2)(C), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 110–417, div. B, title XXVIII, § 2805(e)(1), Oct. 14, 2008, 122 Stat. 4723.)
 
 **Editorial Notes**
 
@@ -7289,9 +7289,9 @@ Pub. L. 109–163 substituted “The” for “Notwithstanding section 2885 of t
 
 2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to assignment of members of the armed forces to housing units by the Secretary concerned, treatment of such housing as quarters of the United States, entitlement to a basic allowance for housing, and making of lease payments through pay allotments.
 
-1997—Subsec. (b)(1). Pub. L. 105–85, § 603(d)(2)(C)(i), substituted “section 403” for “section 403(b)”.
+1997—Subsec. (b)(1). Pub. L. 105–85, § 603(d)(2)(C)(i), substituted “section 403” for “section 403(b)”.
 
-Subsec. (b)(2). Pub. L. 105–85, § 603(d)(2)(C)(ii), substituted “basic allowance for housing under section 403 of title 37” for “basic allowance for quarters under section 403 of title 37 and, if in a high housing cost area, a variable housing allowance under section 403a of that title”.
+Subsec. (b)(2). Pub. L. 105–85, § 603(d)(2)(C)(ii), substituted “basic allowance for housing under section 403 of title 37” for “basic allowance for quarters under section 403 of title 37 and, if in a high housing cost area, a variable housing allowance under section 403a of that title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7299,7 +7299,7 @@ Subsec. (b)(2). Pub. L. 105–85, § 603(d)(2)(C)(ii), substituted “basic al
 
 Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
-### § 2883. Department of Defense Housing Funds
+### § 2883. Department of Defense Housing Funds
 
 **(a) Establishment.—** There are hereby established on the books of the Treasury the following accounts:
 
@@ -7365,7 +7365,7 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 **(f) Notification Required for Transfers.—** A transfer of appropriated amounts to a Fund under subparagraph (B) of paragraph (1) or subparagraph (B) of paragraph (2) of subsection (c) may be made only after the end of the 14-day period beginning on the date the Secretary of Defense submits notice of, and justification for, the transfer to the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, § 2804, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–65, div. B, title XXVIII, § 2802(b), Oct. 5, 1999, 113 Stat. 848; Pub. L. 108–136, div. A, title X, § 1031(a)(51), div. B, title XXVIII, § 2805(c), Nov. 24, 2003, 117 Stat. 1603, 1721; Pub. L. 108–375, div. B, title XXVIII, § 2805(a), Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, § 2806(a), (b), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–181, div. B, title XXVII, § 2705, Jan. 28, 2008, 122 Stat. 533; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(5), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 115–91, div. B, title XXVIII, § 2801(d)(2), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–283, div. B, title XXVIII, § 2813(a), Jan. 1, 2021, 134 Stat. 4327.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, § 2804, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–65, div. B, title XXVIII, § 2802(b), Oct. 5, 1999, 113 Stat. 848; Pub. L. 108–136, div. A, title X, § 1031(a)(51), div. B, title XXVIII, § 2805(c), Nov. 24, 2003, 117 Stat. 1603, 1721; Pub. L. 108–375, div. B, title XXVIII, § 2805(a), Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, § 2806(a), (b), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–181, div. B, title XXVII, § 2705, Jan. 28, 2008, 122 Stat. 533; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(5), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 115–91, div. B, title XXVIII, § 2801(d)(2), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–283, div. B, title XXVIII, § 2813(a), Jan. 1, 2021, 134 Stat. 4327.)
 
 **Editorial Notes**
 
@@ -7375,21 +7375,21 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 2017—Subsec. (f). Pub. L. 115–91 substituted “14-day period” for “30-day period” and struck out “written” before “notice” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided” before “in an electronic medium”.
 
-2013—Subsec. (c)(1)(G). Pub. L. 112–239, § 2711(c)(5)(A)(i), struck out subpar. (G), which read as follows: “Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.”
+2013—Subsec. (c)(1)(G). Pub. L. 112–239, § 2711(c)(5)(A)(i), struck out subpar. (G), which read as follows: “Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.”
 
-Subsec. (c)(2)(G). Pub. L. 112–239, § 2711(c)(5)(A)(ii), struck out subpar. (G), which read as follows: “Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.”
+Subsec. (c)(2)(G). Pub. L. 112–239, § 2711(c)(5)(A)(ii), struck out subpar. (G), which read as follows: “Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.”
 
-Subsec. (f). Pub. L. 112–239, § 2711(c)(5)(B), struck out “or (G)” after “subparagraph (B)” in two places in first sentence, and struck out second sentence which read: “In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.”
+Subsec. (f). Pub. L. 112–239, § 2711(c)(5)(B), struck out “or (G)” after “subparagraph (B)” in two places in first sentence, and struck out second sentence which read: “In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.”
 
-2008—Subsec. (c)(1)(G). Pub. L. 110–181, § 2705(a)(1), added subpar. (G).
+2008—Subsec. (c)(1)(G). Pub. L. 110–181, § 2705(a)(1), added subpar. (G).
 
-Subsec. (c)(2)(G). Pub. L. 110–181, § 2705(a)(2), added subpar. (G).
+Subsec. (c)(2)(G). Pub. L. 110–181, § 2705(a)(2), added subpar. (G).
 
-Subsec. (f). Pub. L. 110–181, § 2705(b), substituted “subparagraph (B) or (G) of paragraph (1) or subparagraph (B) or (G) of paragraph (2)” for “paragraph (1)(B) or (2)(B)” and inserted at end “In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.”
+Subsec. (f). Pub. L. 110–181, § 2705(b), substituted “subparagraph (B) or (G) of paragraph (1) or subparagraph (B) or (G) of paragraph (2)” for “paragraph (1)(B) or (2)(B)” and inserted at end “In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.”
 
-2006—Subsec. (c)(1)(B). Pub. L. 109–163, § 2806(b), substituted “acquisition, improvement, or construction” for “acquisition or construction”.
+2006—Subsec. (c)(1)(B). Pub. L. 109–163, § 2806(b), substituted “acquisition, improvement, or construction” for “acquisition or construction”.
 
-Subsec. (e). Pub. L. 109–163, § 2806(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (e). Pub. L. 109–163, § 2806(a), designated existing provisions as par. (1) and added par. (2).
 
 2004—Subsec. (g). Pub. L. 108–375 struck out heading and text of subsec. (g). Text read as follows: “The total value in budget authority of all contracts and investments undertaken using the authorities provided in this subchapter shall not exceed—
 
@@ -7397,15 +7397,15 @@ Subsec. (e). Pub. L. 109–163, § 2806(a), designated existing provisions as 
 
 “(2) $150,000,000 for the acquisition or construction of military unaccompanied housing.”
 
-2003—Subsec. (c)(1)(F). Pub. L. 108–136, § 2805(c)(1), added subpar. (F).
+2003—Subsec. (c)(1)(F). Pub. L. 108–136, § 2805(c)(1), added subpar. (F).
 
-Subsec. (c)(2)(F). Pub. L. 108–136, § 2805(c)(2), added subpar. (F).
+Subsec. (c)(2)(F). Pub. L. 108–136, § 2805(c)(2), added subpar. (F).
 
-Subsec. (f). Pub. L. 108–136, § 1031(a)(51), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title”.
+Subsec. (f). Pub. L. 108–136, § 1031(a)(51), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title”.
 
-1999—Subsec. (c)(1)(E). Pub. L. 106–65, § 2802(b)(1), added subpar. (E).
+1999—Subsec. (c)(1)(E). Pub. L. 106–65, § 2802(b)(1), added subpar. (E).
 
-Subsec. (c)(2)(E). Pub. L. 106–65, § 2802(b)(2), added subpar. (E).
+Subsec. (c)(2)(E). Pub. L. 106–65, § 2802(b)(2), added subpar. (E).
 
 1996—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end “The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.”
 
@@ -7413,13 +7413,13 @@ Subsec. (c)(2)(E). Pub. L. 106–65, § 2802(b)(2), added subpar. (E).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2813(b), Jan. 1, 2021, 134 Stat. 4327, provided that: “The requirements set forth in subparagraph (B) of section 2883(d)(1) of title 10, United States Code, as added by subsection (a), shall apply to appropriate legal documents entered into or renewed on or after the date of the enactment of this Act [Jan. 1, 2021] between the Secretary of a military department and a landlord regarding privatized military housing. In this subsection, the terms ‘landlord’ and ‘privatized military housing’ have the meanings given those terms in section 3001(a) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1916; 10 U.S.C. 2821 note).”
+Pub. L. 116–283, div. B, title XXVIII, § 2813(b), Jan. 1, 2021, 134 Stat. 4327, provided that: “The requirements set forth in subparagraph (B) of section 2883(d)(1) of title 10, United States Code, as added by subsection (a), shall apply to appropriate legal documents entered into or renewed on or after the date of the enactment of this Act [Jan. 1, 2021] between the Secretary of a military department and a landlord regarding privatized military housing. In this subsection, the terms ‘landlord’ and ‘privatized military housing’ have the meanings given those terms in section 3001(a) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1916; 10 U.S.C. 2821 note).”
 
 **Effective Date of 2013 Amendment**
 
 Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014 (div. J of Pub. L. 113–76, approved Jan. 17, 2014), see section 2711(d) of Pub. L. 112–239, set out as a note under section 2701 of this title.
 
-### § 2883a. Funds for housing allowances of members of the armed forces assigned to certain military family housing units
+### § 2883a. Funds for housing allowances of members of the armed forces assigned to certain military family housing units
 
 **(a) Authority to Transfer Funds To Cover Housing Allowances.—** During the fiscal year in which a contract is awarded for the acquisition or construction of military family housing units under this subchapter that are not to be owned by the United States, the Secretary of Defense may transfer the amount determined under subsection (b) with respect to such housing from appropriations available for support of military housing for the armed force concerned for that fiscal year to appropriations available for pay and allowances of military personnel of that same armed force for that same fiscal year.
 
@@ -7427,9 +7427,9 @@ Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the da
 
 **(c) Transfers Subject to Appropriations.—** The transfer of funds under the authority of subsection (a) is limited to such amounts as may be provided in advance in appropriations Acts.
 
-(Added Pub. L. 107–107, div. B, title XXVIII, § 2804(a), Dec. 28, 2001, 115 Stat. 1305.)
+(Added Pub. L. 107–107, div. B, title XXVIII, § 2804(a), Dec. 28, 2001, 115 Stat. 1305.)
 
-### § 2884. Reports
+### § 2884. Reports
 
 **(a) Project Reports.—**
 
@@ -7557,29 +7557,29 @@ Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the da
 
 **(4)** Such other information as the Secretary determines appropriate.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, § 2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, § 2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, § 2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, § 2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, § 1075(h)(6), div. B, title XXVIII, § 2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, § 2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, § 2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, § 1071(f)(26), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, § 2801(d)(3), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–92, div. B, title XXX, § 3016(d), Dec. 20, 2019, 133 Stat. 1929; Pub. L. 116–283, div. B, title XXVIII, §§ 2803(c), 2811(h), Jan. 1, 2021, 134 Stat. 4320, 4326; Pub. L. 117–263, div. B, title XXVIII, § 2823, Dec. 23, 2022, 136 Stat. 3001; Pub. L. 119–60, div. B, title XXVIII, § 2823(a), Dec. 18, 2025, 139 Stat. 1306.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, § 2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, § 2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, § 2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, § 2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, § 1075(h)(6), div. B, title XXVIII, § 2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, § 2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, § 2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, § 1071(f)(26), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, § 2801(d)(3), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–92, div. B, title XXX, § 3016(d), Dec. 20, 2019, 133 Stat. 1929; Pub. L. 116–283, div. B, title XXVIII, §§ 2803(c), 2811(h), Jan. 1, 2021, 134 Stat. 4320, 4326; Pub. L. 117–263, div. B, title XXVIII, § 2823, Dec. 23, 2022, 136 Stat. 3001; Pub. L. 119–60, div. B, title XXVIII, § 2823(a), Dec. 18, 2025, 139 Stat. 1306.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (c). Pub. L. 119–60, § 2823(a)(1)(B), substituted “Semi-annual” for “Annual” in heading.
+2025—Subsec. (c). Pub. L. 119–60, § 2823(a)(1)(B), substituted “Semi-annual” for “Annual” in heading.
 
-Subsec. (c)(15) to (18). Pub. L. 119–60, § 2823(a)(1)(A), added pars. (15) to (18).
+Subsec. (c)(15) to (18). Pub. L. 119–60, § 2823(a)(1)(A), added pars. (15) to (18).
 
-Subsec. (d)(1). Pub. L. 119–60, § 2823(a)(2), substituted “paragraphs (1) through (18) of subsection (c)” for “paragraphs (1) through (14) of subsection (c)”.
+Subsec. (d)(1). Pub. L. 119–60, § 2823(a)(2), substituted “paragraphs (1) through (18) of subsection (c)” for “paragraphs (1) through (14) of subsection (c)”.
 
 2022—Subsec. (d). Pub. L. 117–263 added subsec. (d).
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 2803(c)(1)(A), substituted “The Secretary concerned” for “The Secretary of Defense” in introductory provisions.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 2803(c)(1)(A), substituted “The Secretary concerned” for “The Secretary of Defense” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 116–283, § 2803(c)(1)(B), inserted “or agreement” after “each contract” and struck out “that the Secretary proposes to solicit” after “unaccompanied housing units”.
+Subsec. (a)(1)(A). Pub. L. 116–283, § 2803(c)(1)(B), inserted “or agreement” after “each contract” and struck out “that the Secretary proposes to solicit” after “unaccompanied housing units”.
 
-Subsec. (a)(2). Pub. L. 116–283, § 2803(c)(2), substituted “A report required by paragraph (1)” for “For each proposed contract, conveyance, or lease described in paragraph (1), the report required by such paragraph” in introductory provisions and inserted “agreement,” after “contract,” wherever appearing.
+Subsec. (a)(2). Pub. L. 116–283, § 2803(c)(2), substituted “A report required by paragraph (1)” for “For each proposed contract, conveyance, or lease described in paragraph (1), the report required by such paragraph” in introductory provisions and inserted “agreement,” after “contract,” wherever appearing.
 
-Subsec. (a)(3). Pub. L. 116–283, § 2803(c)(3), inserted “or agreement” after “contract” wherever appearing.
+Subsec. (a)(3). Pub. L. 116–283, § 2803(c)(3), inserted “or agreement” after “contract” wherever appearing.
 
-Subsec. (c)(10). Pub. L. 116–283, § 2811(h), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “An assessment of the dispute resolution process, which shall include a specific analysis of each denied tenant request to withhold rent payments and each instance in which the dispute resolution process resulted in a favorable outcome for the landlord.”
+Subsec. (c)(10). Pub. L. 116–283, § 2811(h), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “An assessment of the dispute resolution process, which shall include a specific analysis of each denied tenant request to withhold rent payments and each instance in which the dispute resolution process resulted in a favorable outcome for the landlord.”
 
 2019—Subsec. (c)(7) to (14). Pub. L. 116–92 added pars. (7) to (14).
 
@@ -7589,43 +7589,43 @@ Subsec. (c)(10). Pub. L. 116–283, § 2811(h), amended par. (10) generally. P
 
 2013—Subsecs. (b), (c). Pub. L. 112–239 added subsecs. (b) and (c) and struck out former subsec. (b) which required the Secretary of Defense to provide annual reports to Congress.
 
-Subsec. (c)(3). Pub. L. 113–66 inserted “, to specifically include any unique variances associated with litigation costs” before period at end.
+Subsec. (c)(3). Pub. L. 113–66 inserted “, to specifically include any unique variances associated with litigation costs” before period at end.
 
-2011—Subsec. (a)(4). Pub. L. 111–383, § 2803(g), inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+2011—Subsec. (a)(4). Pub. L. 111–383, § 2803(g), inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
-Subsec. (b)(1). Pub. L. 111–383, § 1075(h)(6), made technical correction to directory language of Pub. L. 109–163, § 2806(c)(2)(A). See 2006 Amendment note below.
+Subsec. (b)(1). Pub. L. 111–383, § 1075(h)(6), made technical correction to directory language of Pub. L. 109–163, § 2806(c)(2)(A). See 2006 Amendment note below.
 
-2008—Subsec. (b)(7). Pub. L. 110–417, § 2805(b), added par. (7).
+2008—Subsec. (b)(7). Pub. L. 110–417, § 2805(b), added par. (7).
 
-Subsec. (b)(8). Pub. L. 110–417, § 2805(f), added par. (8).
+Subsec. (b)(8). Pub. L. 110–417, § 2805(f), added par. (8).
 
-2006—Subsec. (a)(2)(D). Pub. L. 109–163, § 2806(c)(1), inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease”.
+2006—Subsec. (a)(2)(D). Pub. L. 109–163, § 2806(c)(1), inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease”.
 
-Subsec. (b)(1). Pub. L. 109–163, § 2806(c)(2)(B), (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
+Subsec. (b)(1). Pub. L. 109–163, § 2806(c)(2)(B), (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
 
-Pub. L. 109–163, § 2806(c)(2)(A), as amended by Pub. L. 111–383, § 1075(h)(6), substituted “A separate report” for “A report”.
+Pub. L. 109–163, § 2806(c)(2)(A), as amended by Pub. L. 111–383, § 1075(h)(6), substituted “A separate report” for “A report”.
 
-2004—Subsec. (a)(2). Pub. L. 108–375, § 2806(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation.”
+2004—Subsec. (a)(2). Pub. L. 108–375, § 2806(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation.”
 
-Subsec. (b)(5), (6). Pub. L. 108–375, § 2806(b), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 108–375, § 2806(b), added par. (5) and redesignated former par. (5) as (6).
 
-2003—Subsec. (a)(2) to (4). Pub. L. 108–136, § 2807(a), designated second sentence of par. (2) as par. (4) and added par. (3).
+2003—Subsec. (a)(2) to (4). Pub. L. 108–136, § 2807(a), designated second sentence of par. (2) as par. (4) and added par. (3).
 
-Subsec. (b)(2). Pub. L. 108–136, § 2807(b)(1), inserted before period at end “, and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future”.
+Subsec. (b)(2). Pub. L. 108–136, § 2807(b)(1), inserted before period at end “, and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future”.
 
-Subsec. (b)(3) to (5). Pub. L. 108–136, § 2807(b)(2), added pars. (3) to (5) and struck out former par. (3) which read as follows: “A description of the objectives of the Department of Defense for providing military family housing and military unaccompanied housing for members of the armed forces.”
+Subsec. (b)(3) to (5). Pub. L. 108–136, § 2807(b)(2), added pars. (3) to (5) and struck out former par. (3) which read as follows: “A description of the objectives of the Department of Defense for providing military family housing and military unaccompanied housing for members of the armed forces.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
 **Final Report**
 
-Pub. L. 104–106, div. B, title XXVIII, § 2801(b), Feb. 10, 1996, 110 Stat. 551, provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
+Pub. L. 104–106, div. B, title XXVIII, § 2801(b), Feb. 10, 1996, 110 Stat. 551, provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
 
-### § 2885. Oversight and accountability for privatization projects
+### § 2885. Oversight and accountability for privatization projects
 
 **(a) Oversight and Accountability Measures.—** Each Secretary concerned shall prescribe regulations to effectively oversee and manage military housing privatization projects carried out under this subchapter during the course of the construction or renovation of the housing units. The regulations shall include the following requirements for each privatization project:
 
@@ -7663,25 +7663,25 @@ Pub. L. 104–106, div. B, title XXVIII, § 2801(b), Feb. 10, 1996, 110 Stat. 
 
 **(2)** If the debt service coverage for a military housing privatization project falls below 1.0 or the occupancy rates for the housing units of the project are below 75 percent for more than one year, the Secretary concerned shall require the development of a plan to address the financial risk of the project.
 
-(Added Pub. L. 110–417, div. B, title XXVIII, § 2805(a)(1), Oct. 14, 2008, 122 Stat. 4721; amended Pub. L. 112–239, div. B, title XXVIII, § 2803(a), Jan. 2, 2013, 126 Stat. 2147; Pub. L. 113–66, div. A, title X, § 1084(a)(3), Dec. 26, 2013, 127 Stat. 871; Pub. L. 113–291, div. A, title IX, § 901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. B, title XXVIII, § 2801(d)(4), Dec. 12, 2017, 131 Stat. 1844.)
+(Added Pub. L. 110–417, div. B, title XXVIII, § 2805(a)(1), Oct. 14, 2008, 122 Stat. 4721; amended Pub. L. 112–239, div. B, title XXVIII, § 2803(a), Jan. 2, 2013, 126 Stat. 2147; Pub. L. 113–66, div. A, title X, § 1084(a)(3), Dec. 26, 2013, 127 Stat. 871; Pub. L. 113–291, div. A, title IX, § 901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. B, title XXVIII, § 2801(d)(4), Dec. 12, 2017, 131 Stat. 1844.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2885, added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 551; amended Pub. L. 105–85, div. A, title X, § 1073(a)(61), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2806], Oct. 30, 2000, 114 Stat. 1654, 1654A–415; Pub. L. 107–107, div. B, title XXVIII, § 2805, Dec. 28, 2001, 115 Stat. 1306, related to expiration of authority to enter into a contract under this subchapter, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2805(b)(1), Oct. 28, 2004, 118 Stat. 2122.
+A prior section 2885, added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 551; amended Pub. L. 105–85, div. A, title X, § 1073(a)(61), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2806], Oct. 30, 2000, 114 Stat. 1654, 1654A–415; Pub. L. 107–107, div. B, title XXVIII, § 2805, Dec. 28, 2001, 115 Stat. 1306, related to expiration of authority to enter into a contract under this subchapter, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2805(b)(1), Oct. 28, 2004, 118 Stat. 2122.
 
 **Amendments**
 
-2017—Subsec. (a)(4)(B). Pub. L. 115–91, § 2801(d)(4)(A), inserted “, in an electronic medium pursuant to section 480 of this title,” after “notify” and substituted “and include” for “, and shall provide”.
+2017—Subsec. (a)(4)(B). Pub. L. 115–91, § 2801(d)(4)(A), inserted “, in an electronic medium pursuant to section 480 of this title,” after “notify” and substituted “and include” for “, and shall provide”.
 
-Subsec. (d). Pub. L. 115–91, § 2801(d)(4)(B), inserted “, in an electronic medium pursuant to section 480 of this title,” after “submit”.
+Subsec. (d). Pub. L. 115–91, § 2801(d)(4)(B), inserted “, in an electronic medium pursuant to section 480 of this title,” after “submit”.
 
-2013—Subsec. (a). Pub. L. 112–239, § 2803(a)(2), in introductory provisions, inserted “during the course of the construction or renovation of the housing units” before period at end of first sentence.
+2013—Subsec. (a). Pub. L. 112–239, § 2803(a)(2), in introductory provisions, inserted “during the course of the construction or renovation of the housing units” before period at end of first sentence.
 
 Subsec. (a)(3). Pub. L. 113–66 substituted “In the case of a project for new construction, if the project” for “If a project”.
 
-Subsec. (f). Pub. L. 112–239, § 2803(a)(1), added subsec. (f).
+Subsec. (f). Pub. L. 112–239, § 2803(a)(1), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7689,9 +7689,9 @@ Subsec. (f). Pub. L. 112–239, § 2803(a)(1), added subsec. (f).
 
 “Assistant Secretary of Defense for Energy, Installations, and Environment” substituted for “Deputy Under Secretary of Defense (Installations and Environment)” in subsec. (a)(3) on authority of section 901(n)(2) of Pub. L. 113–291, set out as a References note under section 131 of this title.
 
-### [§ 2886. Repealed. Pub. L. 116–92, div. B, title XXX, § 3014(d)(1), Dec. 20, 2019, 133 Stat. 1926]
+### [§ 2886. Repealed. Pub. L. 116–92, div. B, title XXX, § 3014(d)(1), Dec. 20, 2019, 133 Stat. 1926]
 
-Section, added Pub. L. 115–91, div. A, title VI, § 602(a), Dec. 12, 2017, 131 Stat. 1417, prohibited collection of amounts in addition to rent from members assigned to military family housing units or military unaccompanied housing units. See section 2891a(f) of this title.
+Section, added Pub. L. 115–91, div. A, title VI, § 602(a), Dec. 12, 2017, 131 Stat. 1417, prohibited collection of amounts in addition to rent from members assigned to military family housing units or military unaccompanied housing units. See section 2891a(f) of this title.
 
 ## SUBCHAPTER V—OVERSIGHT OF LANDLORDS AND PROTECTIONS AND RESPONSIBILITIES FOR TENANTS OF PRIVATIZED MILITARY HOUSING
 
@@ -7699,9 +7699,9 @@ Section, added Pub. L. 115–91, div. A, title VI, § 602(a), Dec. 12, 2017, 1
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. B, title XXVIII, §§ 2811(k)(1)(B), (2), 2814(d)(2), Jan. 1, 2021, 134 Stat. 4326, 4328, added items 2891c and 2892b and struck out former items 2890a “Chief Housing Officer”, 2891c “Financial transparency”, and 2892b “Prohibition on requirement to disclose personally identifiable information in electronic requests for maintenance”.
+2021—Pub. L. 116–283, div. B, title XXVIII, §§ 2811(k)(1)(B), (2), 2814(d)(2), Jan. 1, 2021, 134 Stat. 4326, 4328, added items 2891c and 2892b and struck out former items 2890a “Chief Housing Officer”, 2891c “Financial transparency”, and 2892b “Prohibition on requirement to disclose personally identifiable information in electronic requests for maintenance”.
 
-### § 2890. Rights and responsibilities of tenants of housing units
+### § 2890. Rights and responsibilities of tenants of housing units
 
 **(a) Development of Tenant Bill of Rights and Tenant Responsibilities Documents.—**
 
@@ -7817,49 +7817,49 @@ Section, added Pub. L. 115–91, div. A, title VI, § 602(a), Dec. 12, 2017, 1
 
 **(3)** A party presenting a proposed nondisclosure agreement to a tenant shall notify such tenant that such tenant may, not later than 10 business days after such presentation, seek legal counsel with respect to the terms of and implications of entering into such agreement. A tenant may not be required to sign such agreement before the end of such 10-day period.
 
-(Added and amended Pub. L. 116–92, div. B, title XXX, §§ 3011(b), 3023, 3024(a), Dec. 20, 2019, 133 Stat. 1917, 1935; Pub. L. 116–283, div. B, title XXVIII, § 2811(b), Jan. 1, 2021, 134 Stat. 4323; Pub. L. 118–31, div. B, title XXVIII, §§ 2822(b), 2823, 2839(e), Dec. 22, 2023, 137 Stat. 751, 752, 761.)
+(Added and amended Pub. L. 116–92, div. B, title XXX, §§ 3011(b), 3023, 3024(a), Dec. 20, 2019, 133 Stat. 1917, 1935; Pub. L. 116–283, div. B, title XXVIII, § 2811(b), Jan. 1, 2021, 134 Stat. 4323; Pub. L. 118–31, div. B, title XXVIII, §§ 2822(b), 2823, 2839(e), Dec. 22, 2023, 137 Stat. 751, 752, 761.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (d)(1). Pub. L. 118–31, § 2839(e)(1), substituted “each Secretary of a military department” for “the Secretary of Defense”.
+2023—Subsec. (d)(1). Pub. L. 118–31, § 2839(e)(1), substituted “each Secretary of a military department” for “the Secretary of Defense”.
 
-Subsec. (d)(3). Pub. L. 118–31, § 2839(e), substituted “each Secretary of a military department” for “the Secretary of Defense” and “the military department under the jurisdiction of such Secretary” for “the Department of Defense”.
+Subsec. (d)(3). Pub. L. 118–31, § 2839(e), substituted “each Secretary of a military department” for “the Secretary of Defense” and “the military department under the jurisdiction of such Secretary” for “the Department of Defense”.
 
-Subsec. (e)(1). Pub. L. 118–31, § 2822(b)(1), substituted “Inspector General of the Department of Defense” for “Assistant Secretary of Defense for Sustainment” and “tenant” for “member of the armed forces”.
+Subsec. (e)(1). Pub. L. 118–31, § 2822(b)(1), substituted “Inspector General of the Department of Defense” for “Assistant Secretary of Defense for Sustainment” and “tenant” for “member of the armed forces”.
 
-Subsec. (e)(2). Pub. L. 118–31, § 2822(b)(2)(A), in introductory provisions, substituted “Inspector General determines” for “Assistant Secretary of Defense for Sustainment determines”, “tenant” for “member of the armed forces”, and “Inspector General shall” for “Assistant Secretary shall”.
+Subsec. (e)(2). Pub. L. 118–31, § 2822(b)(2)(A), in introductory provisions, substituted “Inspector General determines” for “Assistant Secretary of Defense for Sustainment determines”, “tenant” for “member of the armed forces”, and “Inspector General shall” for “Assistant Secretary shall”.
 
-Subsec. (e)(2)(B). Pub. L. 118–31, § 2822(b)(2)(B), substituted “Inspector General” for “Assistant Secretary”.
+Subsec. (e)(2)(B). Pub. L. 118–31, § 2822(b)(2)(B), substituted “Inspector General” for “Assistant Secretary”.
 
-Subsec. (e)(3). Pub. L. 118–31, § 2822(b)(3), substituted “Inspector General of the Department of Defense” for “Assistant Secretary of Defense for Sustainment” and “Inspector General of the military department concerned” for “Secretary of the military department concerned”.
+Subsec. (e)(3). Pub. L. 118–31, § 2822(b)(3), substituted “Inspector General of the Department of Defense” for “Assistant Secretary of Defense for Sustainment” and “Inspector General of the military department concerned” for “Secretary of the military department concerned”.
 
-Subsec. (f)(3). Pub. L. 118–31, § 2823, added par. (3).
+Subsec. (f)(3). Pub. L. 118–31, § 2823, added par. (3).
 
-2021—Subsec. (b)(15). Pub. L. 116–283, § 2811(b)(1), struck out “and held in escrow” after “payments segregated”.
+2021—Subsec. (b)(15). Pub. L. 116–283, § 2811(b)(1), struck out “and held in escrow” after “payments segregated”.
 
-Subsec. (e)(2). Pub. L. 116–283, § 2811(b)(2), inserted “a” before “landlord” in introductory provisions.
+Subsec. (e)(2). Pub. L. 116–283, § 2811(b)(2), inserted “a” before “landlord” in introductory provisions.
 
-Subsec. (f)(2). Pub. L. 116–283, § 2811(b)(3), added par. (2) and struck out former par. (2) which read as follows: “Paragraph (1) shall not apply to a nondisclosure agreement executed as part of the settlement of litigation.”
+Subsec. (f)(2). Pub. L. 116–283, § 2811(b)(3), added par. (2) and struck out former par. (2) which read as follows: “Paragraph (1) shall not apply to a nondisclosure agreement executed as part of the settlement of litigation.”
 
-2019—Subsec. (e). Pub. L. 116–92, § 3023, added subsec. (e).
+2019—Subsec. (e). Pub. L. 116–92, § 3023, added subsec. (e).
 
-Subsec. (f). Pub. L. 116–92, § 3024(a), added subsec. (f).
+Subsec. (f). Pub. L. 116–92, § 3024(a), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. B, title XXX, § 3024(c), Dec. 20, 2019, 133 Stat. 1935, provided that: “Subsection (f) of section 2890 of title 10, United States Code, as added by subsection (a), shall apply with respect to any nondisclosure agreement covered by the terms of such subsection (f) regardless of the date on which the agreement was executed.”
+Pub. L. 116–92, div. B, title XXX, § 3024(c), Dec. 20, 2019, 133 Stat. 1935, provided that: “Subsection (f) of section 2890 of title 10, United States Code, as added by subsection (a), shall apply with respect to any nondisclosure agreement covered by the terms of such subsection (f) regardless of the date on which the agreement was executed.”
 
 **Regulations**
 
-Pub. L. 116–92, div. B, title XXX, § 3024(b), Dec. 20, 2019, 133 Stat. 1935, provided that: “The Secretary of Defense and the Secretaries of the military departments shall promulgate such regulations as may be necessary to give full force and effect to subsection (f) of section 2890 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 116–92, div. B, title XXX, § 3024(b), Dec. 20, 2019, 133 Stat. 1935, provided that: “The Secretary of Defense and the Secretaries of the military departments shall promulgate such regulations as may be necessary to give full force and effect to subsection (f) of section 2890 of title 10, United States Code, as added by subsection (a).”
 
 **Implementation of Comptroller General Recommendations Relating to Strengthening Oversight of Privatized Military Housing**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2825, Dec. 22, 2023, 137 Stat. 752, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2825, Dec. 22, 2023, 137 Stat. 752, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall implement each recommendation of the Comptroller General of the United States contained in the report titled ‘DOD Can Further Strengthen Oversight of Its Privatized Housing Program’ (GAO–23–105377), dated April 6, 2023, and reissued with revisions on April 20, 2023.
 
@@ -7867,7 +7867,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2825, Dec. 22, 2023, 137 Stat. 752,
 
 **Requirements Relating to Move-In, Move-Out, and Maintenance of Privatized Military Housing**
 
-Pub. L. 116–92, div. B, title XXX, § 3056, Dec. 20, 2019, 133 Stat. 1944, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3056, Dec. 20, 2019, 133 Stat. 1944, provided that:
 
 > **“(a) Move-in and Move-out Checklist.—**
 
@@ -7891,7 +7891,7 @@ Pub. L. 116–92, div. B, title XXX, § 3056, Dec. 20, 2019, 133 Stat. 1944, p
 
 **Standardized Documentation, Templates, and Forms for Privatized Military Housing**
 
-Pub. L. 116–92, div. B, title XXX, § 3057, Dec. 20, 2019, 133 Stat. 1945, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3057, Dec. 20, 2019, 133 Stat. 1945, provided that:
 
 > **“(a) Development Required.—**
 
@@ -7913,9 +7913,9 @@ Pub. L. 116–92, div. B, title XXX, § 3057, Dec. 20, 2019, 133 Stat. 1945, p
 
 [For definition of “privatized military housing” as used in section 3057 of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.]
 
-### [§ 2890a. Renumbered § 2851a]
+### [§ 2890a. Renumbered § 2851a]
 
-### § 2891. Requirements relating to contracts for provision of housing units
+### § 2891. Requirements relating to contracts for provision of housing units
 
 **(a) In General.—** The requirements of this section condition contracts entered into using the authorities provided to the Secretary concerned under section 2872 of this title and other authorities provided under subchapter IV of this chapter and this subchapter.
 
@@ -7977,7 +7977,7 @@ Pub. L. 116–92, div. B, title XXX, § 3057, Dec. 20, 2019, 133 Stat. 1945, p
 
 **(h) Implementation.—** The Secretary concerned shall create such legal documents as may be necessary to carry out this section.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3013(a), Dec. 20, 2019, 133 Stat. 1921; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(c), Jan. 1, 2021, 134 Stat. 4323; Pub. L. 117–81, div. B, title XXVIII, § 2813(a), Dec. 27, 2021, 135 Stat. 2192; Pub. L. 119–60, div. B, title XXVIII, § 2824, Dec. 18, 2025, 139 Stat. 1307.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3013(a), Dec. 20, 2019, 133 Stat. 1921; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(c), Jan. 1, 2021, 134 Stat. 4323; Pub. L. 117–81, div. B, title XXVIII, § 2813(a), Dec. 27, 2021, 135 Stat. 2192; Pub. L. 119–60, div. B, title XXVIII, § 2824, Dec. 18, 2025, 139 Stat. 1307.)
 
 **Editorial Notes**
 
@@ -7985,25 +7985,25 @@ Pub. L. 116–92, div. B, title XXX, § 3057, Dec. 20, 2019, 133 Stat. 1945, p
 
 The date of enactment of this section, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title III of the Act is classified generally to subchapter III (§ 12181 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title III of the Act is classified generally to subchapter III (§ 12181 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 2891, added Pub. L. 100–456, div. A, title III, § 342(a)(1), Sept. 29, 1988, 102 Stat. 1959; amended Pub. L. 102–484, div. A, title III, § 372, Oct. 23, 1992, 106 Stat. 2384, required Secretary of Defense to submit to Congress for each of fiscal years 1992, 1993, and 1994, a report regarding security and control of Department of Defense supplies, prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(b)(1), Feb. 10, 1996, 110 Stat. 442.
+A prior section 2891, added Pub. L. 100–456, div. A, title III, § 342(a)(1), Sept. 29, 1988, 102 Stat. 1959; amended Pub. L. 102–484, div. A, title III, § 372, Oct. 23, 1992, 106 Stat. 2384, required Secretary of Defense to submit to Congress for each of fiscal years 1992, 1993, and 1994, a report regarding security and control of Department of Defense supplies, prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(b)(1), Feb. 10, 1996, 110 Stat. 442.
 
 **Amendments**
 
-2025—Subsec. (f). Pub. L. 119–60, § 2824(1), (2), inserted par. (1) designation before “A landlord providing” and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
+2025—Subsec. (f). Pub. L. 119–60, § 2824(1), (2), inserted par. (1) designation before “A landlord providing” and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
 
-Subsec. (f)(1)(C). Pub. L. 119–60, § 2824(3), added subpar. (C) and struck out former subpar. (C), as so redesignated, which read as follows: “by allowing the work order or maintenance ticket to be closed only once the tenant and the head of the housing management office of the installation sign off.”
+Subsec. (f)(1)(C). Pub. L. 119–60, § 2824(3), added subpar. (C) and struck out former subpar. (C), as so redesignated, which read as follows: “by allowing the work order or maintenance ticket to be closed only once the tenant and the head of the housing management office of the installation sign off.”
 
-Subsec. (f)(2). Pub. L. 119–60, § 2824(4), added par. (2).
+Subsec. (f)(2). Pub. L. 119–60, § 2824(4), added par. (2).
 
-2021—Subsec. (e)(1). Pub. L. 116–283, § 2811(c)(1)(A), inserted “unit” after “different housing” in introductory provisions.
+2021—Subsec. (e)(1). Pub. L. 116–283, § 2811(c)(1)(A), inserted “unit” after “different housing” in introductory provisions.
 
-Subsec. (e)(1)(B). Pub. L. 116–283, § 2811(c)(1)(B), inserted “the” before “tenant”.
+Subsec. (e)(1)(B). Pub. L. 116–283, § 2811(c)(1)(B), inserted “the” before “tenant”.
 
-Subsec. (e)(2)(B). Pub. L. 116–283, § 2811(c)(2), inserted “the” before “tenant”.
+Subsec. (e)(2)(B). Pub. L. 116–283, § 2811(c)(2), inserted “the” before “tenant”.
 
 Subsecs. (g), (h). Pub. L. 117–81 added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -8011,13 +8011,13 @@ Subsecs. (g), (h). Pub. L. 117–81 added subsec. (g) and redesignated former su
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. B, title XXX, § 3013(b), Dec. 20, 2019, 133 Stat. 1923, provided that: “The requirements set forth in section 2891 of title 10, United States Code, as added by subsection (a), shall apply to appropriate legal documents entered into or renewed on or after the date of the enactment of this Act [Dec. 20, 2019] between the Secretary of a military department and a landlord regarding privatized military housing.”
+Pub. L. 116–92, div. B, title XXX, § 3013(b), Dec. 20, 2019, 133 Stat. 1923, provided that: “The requirements set forth in section 2891 of title 10, United States Code, as added by subsection (a), shall apply to appropriate legal documents entered into or renewed on or after the date of the enactment of this Act [Dec. 20, 2019] between the Secretary of a military department and a landlord regarding privatized military housing.”
 
 [For definitions of “landlord” and “privatized military housing” as used in section 3013(b) of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.]
 
 **Retroactive Landlord Agreements**
 
-Pub. L. 116–92, div. B, title XXX, § 3013(c), Dec. 20, 2019, 133 Stat. 1923, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3013(c), Dec. 20, 2019, 133 Stat. 1923, provided that:
 
 > **“(1) In general.—** Not later than February 1, 2020, the Secretary of Defense shall seek agreement from all landlords to accept the application of the requirements set forth in section 2891 of title 10, United States Code, as added by subsection (a), to appropriate legal documents entered into or renewed before the date of the enactment of this Act [Dec. 20, 2019] between the Secretary of a military department and a landlord regarding privatized military housing [sic]
 
@@ -8027,7 +8027,7 @@ Pub. L. 116–92, div. B, title XXX, § 3013(c), Dec. 20, 2019, 133 Stat. 1923
 
 [For definitions of “landlord” and “privatized military housing” as used in section 3013(c) of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.]
 
-### § 2891a. Requirements relating to management of housing units
+### § 2891a. Requirements relating to management of housing units
 
 **(a) In General.—** The Secretary of Defense shall ensure that each contract between the Secretary concerned and a landlord regarding the management of housing units for an installation of the Department of Defense includes the requirements set forth in this section.
 
@@ -8135,51 +8135,51 @@ Pub. L. 116–92, div. B, title XXX, § 3013(c), Dec. 20, 2019, 133 Stat. 1923
 
 **(B)** In subparagraph (A), the term “disability” has the meaning given that term in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3014(a), Dec. 20, 2019, 133 Stat. 1924; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(d), Jan. 1, 2021, 134 Stat. 4324; Pub. L. 117–81, div. A, title X, § 1081(a)(31), div. B, title XXVIII, § 2813(b)(1), Dec. 27, 2021, 135 Stat. 1921, 2192; Pub. L. 117–263, div. B, title XXVIII, § 2824, Dec. 23, 2022, 136 Stat. 3001.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3014(a), Dec. 20, 2019, 133 Stat. 1924; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(d), Jan. 1, 2021, 134 Stat. 4324; Pub. L. 117–81, div. A, title X, § 1081(a)(31), div. B, title XXVIII, § 2813(b)(1), Dec. 27, 2021, 135 Stat. 1921, 2192; Pub. L. 117–263, div. B, title XXVIII, § 2824, Dec. 23, 2022, 136 Stat. 3001.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (e)(3)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (e)(3)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Amendments**
 
 2022—Subsecs. (e), (f). Pub. L. 117–263 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-2021—Subsec. (b)(2). Pub. L. 116–283, § 2811(d)(1), inserted period at end.
+2021—Subsec. (b)(2). Pub. L. 116–283, § 2811(d)(1), inserted period at end.
 
-Subsec. (d)(11). Pub. L. 116–283, § 2811(d)(2), added par. (11) and struck out former par. (11) which read as follows: “A landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning prospective tenants to housing units provided by the landlord.”
+Subsec. (d)(11). Pub. L. 116–283, § 2811(d)(2), added par. (11) and struck out former par. (11) which read as follows: “A landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning prospective tenants to housing units provided by the landlord.”
 
-Subsec. (e)(1). Pub. L. 117–81, § 1081(a)(31), substituted “the basic allowance” for “the any basic allowance”.
+Subsec. (e)(1). Pub. L. 117–81, § 1081(a)(31), substituted “the basic allowance” for “the any basic allowance”.
 
-Subsec. (e)(2)(B). Pub. L. 116–283, § 2811(d)(3), substituted “any” for “the any”.
+Subsec. (e)(2)(B). Pub. L. 116–283, § 2811(d)(3), substituted “any” for “the any”.
 
-Subsec. (e)(3). Pub. L. 117–81, § 2813(b)(1), added par. (3).
+Subsec. (e)(3). Pub. L. 117–81, § 2813(b)(1), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2813(b)(2), Dec. 27, 2021, 135 Stat. 2192, provided that: “Subsection (e)(3) of section 2891a of title 10, United States Code [now 10 U.S.C. 2891e(f)(3)], as added by paragraph (1), shall apply to contracts described in subsection (a) of such section entered into on or after the date of the enactment of this Act [Dec. 27, 2021].”
+Pub. L. 117–81, div. B, title XXVIII, § 2813(b)(2), Dec. 27, 2021, 135 Stat. 2192, provided that: “Subsection (e)(3) of section 2891a of title 10, United States Code [now 10 U.S.C. 2891e(f)(3)], as added by paragraph (1), shall apply to contracts described in subsection (a) of such section entered into on or after the date of the enactment of this Act [Dec. 27, 2021].”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. B, title XXX, § 3014(c), Dec. 20, 2019, 133 Stat. 1926, provided that: “The requirements set forth in section 2891a of title 10, United States Code, as added by subsection (a), shall apply to appropriate legal documents entered into or renewed on or after the date of the enactment of this Act [Dec. 20, 2019] between the Secretary of a military department and a landlord regarding privatized military housing.”
+Pub. L. 116–92, div. B, title XXX, § 3014(c), Dec. 20, 2019, 133 Stat. 1926, provided that: “The requirements set forth in section 2891a of title 10, United States Code, as added by subsection (a), shall apply to appropriate legal documents entered into or renewed on or after the date of the enactment of this Act [Dec. 20, 2019] between the Secretary of a military department and a landlord regarding privatized military housing.”
 
 [For definitions of “landlord” and “privatized military housing” as used in section 3014(c) of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.]
 
 **Implementation of Recommendations From Audit of Medical Conditions of Residents in Privatized Military Housing**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2825, Dec. 23, 2022, 136 Stat. 3001, provided that: “Not later than March 1, 2023, the Secretary of Defense shall implement the recommendations contained in the report of the Inspector General of the Department of Defense published on April 1, 2022, and titled ‘Audit of Medical Conditions of Residents in Privatized Military Housing’ (DODIG–2022–078).”
+Pub. L. 117–263, div. B, title XXVIII, § 2825, Dec. 23, 2022, 136 Stat. 3001, provided that: “Not later than March 1, 2023, the Secretary of Defense shall implement the recommendations contained in the report of the Inspector General of the Department of Defense published on April 1, 2022, and titled ‘Audit of Medical Conditions of Residents in Privatized Military Housing’ (DODIG–2022–078).”
 
 **Military Department Implementation Plans**
 
-Pub. L. 116–92, div. B, title XXX, § 3014(b), Dec. 20, 2019, 133 Stat. 1926, provided that: “Not later than February 1, 2020, the Secretary of each military department shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for the implementation by that military department of section 2891a of title 10, United States Code, as added by subsection (a).”
+Pub. L. 116–92, div. B, title XXX, § 3014(b), Dec. 20, 2019, 133 Stat. 1926, provided that: “Not later than February 1, 2020, the Secretary of each military department shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for the implementation by that military department of section 2891a of title 10, United States Code, as added by subsection (a).”
 
 **Retroactive Landlord Agreements**
 
-Pub. L. 116–92, div. B, title XXX, § 3014(e), Dec. 20, 2019, 133 Stat. 1926, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3014(e), Dec. 20, 2019, 133 Stat. 1926, provided that:
 
 > **“(1) In general.—** Not later than February 1, 2020, the Secretary of Defense shall seek agreement from all landlords to accept the application of the requirements set forth in section 2891a of title 10, United States Code, as added by subsection (a), to appropriate legal documents entered into or renewed before the date of the enactment of this Act [Dec. 20, 2019] between the Secretary of a military department and a landlord regarding privatized military housing [sic]
 
@@ -8189,7 +8189,7 @@ Pub. L. 116–92, div. B, title XXX, § 3014(e), Dec. 20, 2019, 133 Stat. 1926
 
 [For definitions of “landlord” and “privatized military housing” as used in section 3014(e) of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.]
 
-### § 2891b. Considerations of eligible entity housing history in contracts for privatized military housing
+### § 2891b. Considerations of eligible entity housing history in contracts for privatized military housing
 
 **(a) Consideration Required.—** To assist in making a determination whether to enter into a new contract, or renew an existing contract, with an eligible entity, the Secretary of Defense shall develop a standard process by which the Secretary concerned may evaluate the past performance of the eligible entity for purposes of informing future decisions regarding the award of such a contract.
 
@@ -8201,9 +8201,9 @@ Pub. L. 116–92, div. B, title XXX, § 3014(e), Dec. 20, 2019, 133 Stat. 1926
 
 **(3)** The recommendation of the commander of any other installation for which the eligible entity has provided housing units.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3015, Dec. 20, 2019, 133 Stat. 1927.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3015, Dec. 20, 2019, 133 Stat. 1927.)
 
-### § 2891c. Transparency regarding finances and performance metrics
+### § 2891c. Transparency regarding finances and performance metrics
 
 **(a) Submission of Landlord Financial Information.—**
 
@@ -8285,7 +8285,7 @@ Pub. L. 116–92, div. B, title XXX, § 3014(e), Dec. 20, 2019, 133 Stat. 1926
 
 **(D)** If any incentive fees were withheld, the reasons for such withholding.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3016(a), Dec. 20, 2019, 133 Stat. 1927; amended Pub. L. 116–283, div. B, title XXVIII, § 2814(a)–(d)(1), Jan. 1, 2021, 134 Stat. 4327, 4328; Pub. L. 119–60, div. B, title XXVIII, § 2825, Dec. 18, 2025, 139 Stat. 1308.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3016(a), Dec. 20, 2019, 133 Stat. 1927; amended Pub. L. 116–283, div. B, title XXVIII, § 2814(a)–(d)(1), Jan. 1, 2021, 134 Stat. 4327, 4328; Pub. L. 119–60, div. B, title XXVIII, § 2825, Dec. 18, 2025, 139 Stat. 1308.)
 
 **Editorial Notes**
 
@@ -8293,11 +8293,11 @@ Pub. L. 116–92, div. B, title XXX, § 3014(e), Dec. 20, 2019, 133 Stat. 1926
 
 2025—Subsec. (a)(2)(G), (H). Pub. L. 119–60 added subpars. (G) and (H).
 
-2021—Pub. L. 116–283, § 2814(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Financial transparency”.
+2021—Pub. L. 116–283, § 2814(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Financial transparency”.
 
-Subsec. (b). Pub. L. 116–283, § 2814(a)(1), inserted “Performance Metrics and” before “Use of Incentive Fees” in heading.
+Subsec. (b). Pub. L. 116–283, § 2814(a)(1), inserted “Performance Metrics and” before “Use of Incentive Fees” in heading.
 
-Subsec. (b)(1). Pub. L. 116–283, § 2814(a)(2), substituted “shall make available, upon request of a tenant, at the applicable installation housing office the following:
+Subsec. (b)(1). Pub. L. 116–283, § 2814(a)(2), substituted “shall make available, upon request of a tenant, at the applicable installation housing office the following:
 
 (A) An assessment of the indicators underlying the performance metrics for each contract for the provision or management of housing units to ensure such indicators adequately measure the condition and quality of each housing unit covered by the contract.
 
@@ -8305,11 +8305,11 @@ Subsec. (b)(1). Pub. L. 116–283, § 2814(a)(2), substituted “shall make av
 
 for “shall publish, on a publicly accessible website, information”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 2814(b)(2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 116–283, § 2814(b)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 116–283, § 2814(b)(1), (c), redesignated par. (2) as (3) and substituted “paragraph (1)(B)” for “paragraph (1)” and “each contract for the provision or management of housing units” for “each contract” in introductory provisions.
+Subsec. (b)(3). Pub. L. 116–283, § 2814(b)(1), (c), redesignated par. (2) as (3) and substituted “paragraph (1)(B)” for “paragraph (1)” and “each contract for the provision or management of housing units” for “each contract” in introductory provisions.
 
-### § 2892. Maintenance work order system for housing units
+### § 2892. Maintenance work order system for housing units
 
 **(a) Electronic Work Order System Required.—** The Secretary of Defense shall require that each landlord of a housing unit have an electronic work order system to track all maintenance requests relating to the housing unit.
 
@@ -8323,15 +8323,15 @@ Subsec. (b)(3). Pub. L. 116–283, § 2814(b)(1), (c), redesignated par. (2) a
 
 **(c) Access by Tenants.—** The Secretary of Defense shall require each landlord of a housing unit to provide access to the maintenance work order system of the landlord relating to the housing unit to the tenant of the housing unit to permit the tenant, at a minimum, to track the status and progress of work orders for maintenance requests relating to the housing unit.
 
-(Added and amended Pub. L. 116–92, div. B, title XXX, §§ 3017, 3018, Dec. 20, 2019, 133 Stat. 1930.)
+(Added and amended Pub. L. 116–92, div. B, title XXX, §§ 3017, 3018, Dec. 20, 2019, 133 Stat. 1930.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (c). Pub. L. 116–92, § 3018, added subsec. (c).
+2019—Subsec. (c). Pub. L. 116–92, § 3018, added subsec. (c).
 
-### § 2892a. Access by tenants to historical maintenance information
+### § 2892a. Access by tenants to historical maintenance information
 
 **(a) Maintenance Information for Prospective Tenants.—** The Secretary concerned shall require each eligible entity or subsequent landlord that offers for lease a housing unit to provide to a prospective tenant of the housing unit—
 
@@ -8343,7 +8343,7 @@ Subsec. (b)(3). Pub. L. 116–283, § 2814(b)(1), (c), redesignated par. (2) a
 
 **(c) Maintenance Defined.—** In the section, the term “maintenance” includes any renovations of the housing unit during the period specified in subsection (a)(1).
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3019, Dec. 20, 2019, 133 Stat. 1931; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(e), Jan. 1, 2021, 134 Stat. 4324.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3019, Dec. 20, 2019, 133 Stat. 1931; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(e), Jan. 1, 2021, 134 Stat. 4324.)
 
 **Editorial Notes**
 
@@ -8351,23 +8351,23 @@ Subsec. (b)(3). Pub. L. 116–283, § 2814(b)(1), (c), redesignated par. (2) a
 
 2021—Pub. L. 116–283 added section text and struck out former text which read as follows: “The Secretary concerned shall require each eligible entity or subsequent landlord that offers for lease a housing unit to provide to a prospective tenant of the housing unit, before the prospective tenant moves into the housing unit as a tenant, all information regarding maintenance conducted with respect to that housing unit for the previous seven years. In this section, the term ‘maintenance’ includes any renovations of the housing unit during such period.”
 
-### § 2892b. Prohibition on requirement to disclose personally identifiable information in requests for certain maintenance
+### § 2892b. Prohibition on requirement to disclose personally identifiable information in requests for certain maintenance
 
 A landlord responsible for a housing unit may not require the disclosure of personally identifiable information as a part of the submission of a request for maintenance regarding a housing unit or common area when the disclosure of personally identifiable information is not needed to identify the location at which such maintenance will be performed.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3020(a), Dec. 20, 2019, 133 Stat. 1931.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3020(a), Dec. 20, 2019, 133 Stat. 1931.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. B, title XXX, § 3020(b), Dec. 20, 2019, 133 Stat. 1931, provided that: “The prohibition in section 2892b of title 10, United States Code, as added by subsection (a), shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–92, div. B, title XXX, § 3020(b), Dec. 20, 2019, 133 Stat. 1931, provided that: “The prohibition in section 2892b of title 10, United States Code, as added by subsection (a), shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2019].”
 
-### § 2893. Treatment of incentive fees for landlords of housing units for failure to remedy health or environmental hazards
+### § 2893. Treatment of incentive fees for landlords of housing units for failure to remedy health or environmental hazards
 
 The Secretary concerned shall not approve the payment of incentive fees otherwise authorized to be paid to a landlord that the Secretary determines has demonstrated a pattern of failing to remedy, or failing to remedy in a timely manner, a health or environmental hazard at a housing unit provided by the landlord.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3021, Dec. 20, 2019, 133 Stat. 1931; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(f), Jan. 1, 2021, 134 Stat. 4324.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3021, Dec. 20, 2019, 133 Stat. 1931; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(f), Jan. 1, 2021, 134 Stat. 4324.)
 
 **Editorial Notes**
 
@@ -8375,7 +8375,7 @@ The Secretary concerned shall not approve the payment of incentive fees otherwis
 
 2021—Pub. L. 116–283 substituted “pattern of” for “propensity for”.
 
-### § 2894. Landlord-tenant dispute resolution process and treatment of certain payments during process
+### § 2894. Landlord-tenant dispute resolution process and treatment of certain payments during process
 
 **(a) Process Required; Purpose.—** The Secretary concerned shall implement a standardized formal dispute resolution process to ensure the prompt and fair resolution of disputes that arise between landlords providing housing units and tenants residing in housing units concerning maintenance and repairs, damage claims, rental payments, move-out charges, and such other issues relating to housing units as the Secretary determines appropriate.
 
@@ -8461,35 +8461,35 @@ The Secretary concerned shall not approve the payment of incentive fees otherwis
 
 **(g) Rule of Construction on Use of Other Adjudicative Bodies.—** Nothing in this section or any other provision of law shall be construed to prohibit a tenant of a housing unit from pursuing a claim against a landlord in any adjudicative body with jurisdiction over the housing unit or the claim.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3022(a), Dec. 20, 2019, 133 Stat. 1932; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(g), Jan. 1, 2021, 134 Stat. 4324.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3022(a), Dec. 20, 2019, 133 Stat. 1932; amended Pub. L. 116–283, div. B, title XXVIII, § 2811(g), Jan. 1, 2021, 134 Stat. 4324.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(6). Pub. L. 116–283, § 2811(g)(1), added par. (6).
+2021—Subsec. (b)(6). Pub. L. 116–283, § 2811(g)(1), added par. (6).
 
-Subsec. (c)(1). Pub. L. 116–283, § 2811(g)(2)(A), substituted “two business days” for “24 hours” in introductory provisions.
+Subsec. (c)(1). Pub. L. 116–283, § 2811(g)(2)(A), substituted “two business days” for “24 hours” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 116–283, § 2811(g)(2)(B), inserted “business” before “days” and “, such office” before “shall complete”.
+Subsec. (c)(3). Pub. L. 116–283, § 2811(g)(2)(B), inserted “business” before “days” and “, such office” before “shall complete”.
 
-Subsec. (c)(4). Pub. L. 116–283, § 2811(g)(2)(C), inserted “, at a minimum,” before “the following persons” in introductory provisions.
+Subsec. (c)(4). Pub. L. 116–283, § 2811(g)(2)(C), inserted “, at a minimum,” before “the following persons” in introductory provisions.
 
-Subsec. (c)(5). Pub. L. 116–283, § 2811(g)(2)(D), inserted “calendar” before “days” in subpars. (A) and (B).
+Subsec. (c)(5). Pub. L. 116–283, § 2811(g)(2)(D), inserted “calendar” before “days” in subpars. (A) and (B).
 
-Subsec. (c)(6). Pub. L. 116–283, § 2811(g)(2)(E), added par. (6) and struck out former par. (6) which read as follows: “A final decision will be transmitted to the tenant and landlord no later than 30 days from initial receipt by the office of the commander, except as provided in paragraph (5)(B).”
+Subsec. (c)(6). Pub. L. 116–283, § 2811(g)(2)(E), added par. (6) and struck out former par. (6) which read as follows: “A final decision will be transmitted to the tenant and landlord no later than 30 days from initial receipt by the office of the commander, except as provided in paragraph (5)(B).”
 
-Subsecs. (d), (e). Pub. L. 116–283, § 2811(g)(3), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which related to effect of failure to comply with decision and request to withhold payments during resolution process, respectively.
+Subsecs. (d), (e). Pub. L. 116–283, § 2811(g)(3), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which related to effect of failure to comply with decision and request to withhold payments during resolution process, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Timing of Establishment of Dispute Resolution Process**
 
-Pub. L. 116–92, div. B, title XXX, § 3022(c), Dec. 20, 2019, 133 Stat. 1934, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall establish the dispute resolution process required under section 2894 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 116–92, div. B, title XXX, § 3022(c), Dec. 20, 2019, 133 Stat. 1934, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall establish the dispute resolution process required under section 2894 of title 10, United States Code, as added by subsection (a).”
 
 **Landlord Agreements**
 
-Pub. L. 116–92, div. B, title XXX, § 3022(d), Dec. 20, 2019, 133 Stat. 1934, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3022(d), Dec. 20, 2019, 133 Stat. 1934, provided that:
 
 > **“(1) In general.—** Not later than February 1, 2020, the Secretary of Defense shall seek agreement from all landlords to participate in the dispute resolution and payment-withholding processes required under section 2894 of title 10, United States Code, as added by subsection (a).
 
@@ -8499,7 +8499,7 @@ Pub. L. 116–92, div. B, title XXX, § 3022(d), Dec. 20, 2019, 133 Stat. 1934
 
 [For definitions of “landlord” and “privatized military housing” as used in section 3022(d) of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.]
 
-### § 2894a. Complaint database
+### § 2894a. Complaint database
 
 **(a) Database Required.—** The Secretary of Defense shall establish a database of complaints made by a tenant regarding covered dwelling units.
 
@@ -8543,14 +8543,14 @@ Pub. L. 116–92, div. B, title XXX, § 3022(d), Dec. 20, 2019, 133 Stat. 1934
 
 **(B)** A dependent of a member described in subparagraph (A) who resides in a covered dwelling unit.
 
-(Added Pub. L. 116–92, div. B, title XXX, § 3016(b), Dec. 20, 2019, 133 Stat. 1929; amended Pub. L. 118–159, div. B, title XXVIII, § 2825(a), Dec. 23, 2024, 138 Stat. 2256.)
+(Added Pub. L. 116–92, div. B, title XXX, § 3016(b), Dec. 20, 2019, 133 Stat. 1929; amended Pub. L. 118–159, div. B, title XXVIII, § 2825(a), Dec. 23, 2024, 138 Stat. 2256.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 2825(a)(1), substituted “by a tenant regarding covered dwelling units” for “regarding housing units”.
+2024—Subsec. (a). Pub. L. 118–159, § 2825(a)(1), substituted “by a tenant regarding covered dwelling units” for “regarding housing units”.
 
-Subsecs. (c), (d). Pub. L. 118–159, § 2825(a)(2), substituted “covered dwelling unit” for “housing unit” in two places.
+Subsecs. (c), (d). Pub. L. 118–159, § 2825(a)(2), substituted “covered dwelling unit” for “housing unit” in two places.
 
-Subsec. (f). Pub. L. 118–159, § 2825(a)(3), added subsec. (f).
+Subsec. (f). Pub. L. 118–159, § 2825(a)(3), added subsec. (f).

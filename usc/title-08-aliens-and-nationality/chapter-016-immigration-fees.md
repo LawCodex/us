@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16—IMMIGRATION FEES
 
-## § 1801. Applicability of the immigration laws
+## § 1801. Applicability of the immigration laws
 
 **(a) Applicability**
 
@@ -29,17 +29,17 @@ The terms used under this subtitle shall have the meanings given such terms in s
 
 Except as otherwise expressly provided, any reference in this subtitle to a section or other provision shall be considered to be to a section or other provision of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
 
-(Pub. L. 119–21, title X, § 100001, July 4, 2025, 139 Stat. 364.)
+(Pub. L. 119–21, title X, § 100001, July 4, 2025, 139 Stat. 364.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle A (§§ 100001–100018, 1000051–1000057) of title X of Pub. L. 119–21, July 4, 2025, 139 Stat. 364, which enacted this chapter and chapter 611 of Title 34, Crime Control and Law Enforcement, and amended sections 1158, 1187, 1254a, and 1356 of this title. For complete classification of this subtitle to the Code, see Tables.
+This subtitle, referred to in text, is subtitle A (§§ 100001–100018, 1000051–1000057) of title X of Pub. L. 119–21, July 4, 2025, 139 Stat. 364, which enacted this chapter and chapter 611 of Title 34, Crime Control and Law Enforcement, and amended sections 1158, 1187, 1254a, and 1356 of this title. For complete classification of this subtitle to the Code, see Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-## § 1802. Asylum fee
+## § 1802. Asylum fee
 
 **(a) In general**
 
@@ -79,9 +79,9 @@ In addition to any other fee authorized by law, the Secretary of Homeland Securi
 
 Fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100002, July 4, 2025, 139 Stat. 364.)
+(Pub. L. 119–21, title X, § 100002, July 4, 2025, 139 Stat. 364.)
 
-## § 1803. Employment authorization document fees
+## § 1803. Employment authorization document fees
 
 **(a) Asylum applicants**
 
@@ -169,9 +169,9 @@ All of the fees collected pursuant to this subsection shall be deposited into th
 
 Fees required to be paid under this subsection shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100003, July 4, 2025, 139 Stat. 365.)
+(Pub. L. 119–21, title X, § 100003, July 4, 2025, 139 Stat. 365.)
 
-## § 1804. Immigration parole fee
+## § 1804. Immigration parole fee
 
 **(a) In general**
 
@@ -267,9 +267,9 @@ All of the fees collected pursuant to this section shall be deposited into the g
 
 Except as provided in subsection (b), fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100004, July 4, 2025, 139 Stat. 367.)
+(Pub. L. 119–21, title X, § 100004, July 4, 2025, 139 Stat. 367.)
 
-## § 1805. Special immigrant juvenile fee
+## § 1805. Special immigrant juvenile fee
 
 **(a) In general**
 
@@ -291,9 +291,9 @@ In addition to any other fee authorized by law, the Secretary of Homeland Securi
 
 All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
 
-(Pub. L. 119–21, title X, § 100005, July 4, 2025, 139 Stat. 368.)
+(Pub. L. 119–21, title X, § 100005, July 4, 2025, 139 Stat. 368.)
 
-## § 1806. Visa integrity fee
+## § 1806. Visa integrity fee
 
 **(a) Visa integrity fee**
 
@@ -331,9 +331,9 @@ Fees required to be paid under this subsection shall not be waived or reduced.
 
 **(B)** during such period of validity, was granted an extension of such nonimmigrant status or an adjustment to the status of a lawful permanent resident.
 
-(Pub. L. 119–21, title X, § 100007, July 4, 2025, 139 Stat. 370.)
+(Pub. L. 119–21, title X, § 100007, July 4, 2025, 139 Stat. 370.)
 
-## § 1807. Form I–94 fee
+## § 1807. Form I–94 fee
 
 **(a) Fee authorized**
 
@@ -367,9 +367,9 @@ In addition to any other fee authorized by law, the Secretary of Homeland Securi
 
 Fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100008, July 4, 2025, 139 Stat. 370.)
+(Pub. L. 119–21, title X, § 100008, July 4, 2025, 139 Stat. 370.)
 
-## § 1808. Annual asylum fee
+## § 1808. Annual asylum fee
 
 **(a) Fee authorized**
 
@@ -397,9 +397,9 @@ All of the fees collected pursuant to this section shall be deposited into the g
 
 Fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100009, July 4, 2025, 139 Stat. 371.)
+(Pub. L. 119–21, title X, § 100009, July 4, 2025, 139 Stat. 371.)
 
-## § 1809. Fee relating to renewal and extension of employment authorization for parolees
+## § 1809. Fee relating to renewal and extension of employment authorization for parolees
 
 **(a) In general**
 
@@ -435,9 +435,9 @@ In addition to any other fee authorized by law, the Secretary of Homeland Securi
 
 Fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100010, July 4, 2025, 139 Stat. 372.)
+(Pub. L. 119–21, title X, § 100010, July 4, 2025, 139 Stat. 372.)
 
-## § 1810. Fee relating to renewal or extension of employment authorization for asylum applicants
+## § 1810. Fee relating to renewal or extension of employment authorization for asylum applicants
 
 **(a) In general**
 
@@ -467,9 +467,9 @@ In addition to any other fee authorized by law, the Secretary of Homeland Securi
 
 Fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100011, July 4, 2025, 139 Stat. 372.)
+(Pub. L. 119–21, title X, § 100011, July 4, 2025, 139 Stat. 372.)
 
-## § 1811. Fee relating to renewal and extension of employment authorization for aliens granted temporary protected status
+## § 1811. Fee relating to renewal and extension of employment authorization for aliens granted temporary protected status
 
 **(a) In general**
 
@@ -505,9 +505,9 @@ In addition to any other fee authorized by law, the Secretary of Homeland Securi
 
 Fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100012, July 4, 2025, 139 Stat. 373.)
+(Pub. L. 119–21, title X, § 100012, July 4, 2025, 139 Stat. 373.)
 
-## § 1812. Fees relating to applications for adjustment of status
+## § 1812. Fees relating to applications for adjustment of status
 
 **(a) Fee for filing an application to adjust status to that of a lawful permanent resident**
 
@@ -765,7 +765,7 @@ In addition to any other fees authorized by law, the Attorney General shall requ
 
 In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court an application1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 for cancellation of removal for an alien who is a lawful permanent resident.
 
@@ -827,15 +827,15 @@ In addition to any other fees authorized by law, the Attorney General shall requ
 
 No fees collected pursuant to this section may be expended by the Executive Office for Immigration Review for the Legal Orientation Program, or for any successor program.
 
-(Pub. L. 119–21, title X, § 100013, July 4, 2025, 139 Stat. 374.)
+(Pub. L. 119–21, title X, § 100013, July 4, 2025, 139 Stat. 374.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1252b(c)(3)(B) of this title, referred to in subsec. (g)(3)(B), was repealed by Pub. L. 104–208, div. C, title III, § 308(b)(6), Sept. 30, 1996, 110 Stat. 3009–615. See section 1229a(b)(5)(C)(ii) of this title.
+Section 1252b(c)(3)(B) of this title, referred to in subsec. (g)(3)(B), was repealed by Pub. L. 104–208, div. C, title III, § 308(b)(6), Sept. 30, 1996, 110 Stat. 3009–615. See section 1229a(b)(5)(C)(ii) of this title.
 
-## § 1813. Electronic Visa Update System fee
+## § 1813. Electronic Visa Update System fee
 
 **(a) In general**
 
@@ -867,7 +867,7 @@ Of the fees collected pursuant to this section, an amount equal to $5 multiplied
 
 Fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100015, July 4, 2025, 139 Stat. 382.)
+(Pub. L. 119–21, title X, § 100015, July 4, 2025, 139 Stat. 382.)
 
 **Editorial Notes**
 
@@ -875,7 +875,7 @@ Fees required to be paid under this section shall not be waived or reduced.
 
 Section is comprised of section 100015 of Pub. L. 119–21. Subsec. (c)(1) of section 100015 of Pub. L. 119–21 amended section 1356 of this title.
 
-## § 1814. Fee for aliens ordered removed in absentia
+## § 1814. Fee for aliens ordered removed in absentia
 
 **(a) In general** As partial reimbursement for the cost of arresting an alien described in this section, the Secretary of Homeland Security, except as provided in subsection (c), shall require the payment of a fee, equal to the amount specified in subsection (b) on any alien who—
 
@@ -917,9 +917,9 @@ The fee described in this section shall not apply to any alien who was ordered r
 
 Fees required to be paid under this section shall not be waived or reduced.
 
-(Pub. L. 119–21, title X, § 100016, July 4, 2025, 139 Stat. 384.)
+(Pub. L. 119–21, title X, § 100016, July 4, 2025, 139 Stat. 384.)
 
-## § 1815. Inadmissible alien apprehension fee
+## § 1815. Inadmissible alien apprehension fee
 
 **(a) In general**
 
@@ -955,4 +955,4 @@ In addition to any other fee authorized by law, the Secretary of Homeland Securi
 
 All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
 
-(Pub. L. 119–21, title X, § 100017, July 4, 2025, 139 Stat. 384.)
+(Pub. L. 119–21, title X, § 100017, July 4, 2025, 139 Stat. 384.)

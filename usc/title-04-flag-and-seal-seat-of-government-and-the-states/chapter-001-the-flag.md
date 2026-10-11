@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–225, § 2(b), Aug. 12, 1998, 112 Stat. 1498, added items 4 to 10.
+1998—Pub. L. 105–225, § 2(b), Aug. 12, 1998, 112 Stat. 1498, added items 4 to 10.
 
-## § 1. Flag; stripes and stars on
+## § 1. Flag; stripes and stars on
 
 The flag of the United States shall be thirteen horizontal stripes, alternate red and white; and the union of the flag shall be forty-eight stars, white in a blue field.
 
@@ -31,23 +31,23 @@ The flag of the United States shall be thirteen horizontal stripes, alternate re
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–123, div. A, § 10101, Feb. 9, 2018, 132 Stat. 64, provided that: “This division [amending section 7 of this title and enacting provisions set out as a note under section 7 of this title] may be cited as the ‘Honoring Hometown Heroes Act’.”
+Pub. L. 115–123, div. A, § 10101, Feb. 9, 2018, 132 Stat. 64, provided that: “This division [amending section 7 of this title and enacting provisions set out as a note under section 7 of this title] may be cited as the ‘Honoring Hometown Heroes Act’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–15, § 1, Mar. 28, 2017, 131 Stat. 79, provided that: “This Act [amending section 6 of this title] may be cited as the ‘Vietnam War Veterans Recognition Act of 2017’.”
+Pub. L. 115–15, § 1, Mar. 28, 2017, 131 Stat. 79, provided that: “This Act [amending section 6 of this title] may be cited as the ‘Vietnam War Veterans Recognition Act of 2017’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–41, § 1, July 27, 2009, 123 Stat. 1962, provided that: “This Act [amending section 6 of this title] may be cited as the ‘Korean War Veterans Recognition Act’.”
+Pub. L. 111–41, § 1, July 27, 2009, 123 Stat. 1962, provided that: “This Act [amending section 6 of this title] may be cited as the ‘Korean War Veterans Recognition Act’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–41, § 1, June 29, 2007, 121 Stat. 233, provided that: “This Act [amending section 7 of this title and provisions set out as a note under section 7 of this title] may be cited as the ‘Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007’.”
+Pub. L. 110–41, § 1, June 29, 2007, 121 Stat. 233, provided that: “This Act [amending section 7 of this title and provisions set out as a note under section 7 of this title] may be cited as the ‘Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–252, § 1, July 28, 2000, 114 Stat. 626, provided that: “This Act [enacting sections 116 to 126 of this title and provisions set out as a note under section 116 of this title] may be cited as the ‘Mobile Telecommunications Sourcing Act’.”
+Pub. L. 106–252, § 1, July 28, 2000, 114 Stat. 626, provided that: “This Act [enacting sections 116 to 126 of this title and provisions set out as a note under section 116 of this title] may be cited as the ‘Mobile Telecommunications Sourcing Act’.”
 
 **Executive Documents**
 
@@ -130,17 +130,17 @@ Dwight D. Eisenhower.
 |---|---|---|---|---|---|---|---|---|---|
 | A | B | C | D | E | F | G | H | K | L |
 
-## § 2. Same; additional stars
+## § 2. Same; additional stars
 
 On the admission of a new State into the Union one star shall be added to the union of the flag; and such addition shall take effect on the fourth day of July then next succeeding such admission.
 
 (July 30, 1947, ch. 389, 61 Stat. 642.)
 
-## § 3. Use of flag for advertising purposes; mutilation of flag
+## § 3. Use of flag for advertising purposes; mutilation of flag
 
 Any person who, within the District of Columbia, in any manner, for exhibition or display, shall place or cause to be placed any word, figure, mark, picture, design, drawing, or any advertisement of any nature upon any flag, standard, colors, or ensign of the United States of America; or shall expose or cause to be exposed to public view any such flag, standard, colors, or ensign upon which shall have been printed, painted, or otherwise placed, or to which shall be attached, appended, affixed, or annexed any word, figure, mark, picture, design, or drawing, or any advertisement of any nature; or who, within the District of Columbia, shall manufacture, sell, expose for sale, or to public view, or give away or have in possession for sale, or to be given away or for use for any purpose, any article or substance being an article of merchandise, or a receptacle for merchandise or article or thing for carrying or transporting merchandise, upon which shall have been printed, painted, attached, or otherwise placed a representation of any such flag, standard, colors, or ensign, to advertise, call attention to, decorate, mark, or distinguish the article or substance on which so placed shall be deemed guilty of a misdemeanor and shall be punished by a fine not exceeding $100 or by imprisonment for not more than thirty days, or both, in the discretion of the court. The words “flag, standard, colors, or ensign”, as used herein, shall include any flag, standard, colors, ensign, or any picture or representation of either, or of any part or parts of either, made of any substance or represented on any substance, of any size evidently purporting to be either of said flag, standard, colors, or ensign of the United States of America or a picture or a representation of either, upon which shall be shown the colors, the stars and the stripes, in any number of either thereof, or of any part or parts of either, by which the average person seeing the same without deliberation may believe the same to represent the flag, colors, standard, or ensign of the United States of America.
 
-(July 30, 1947, ch. 389, 61 Stat. 642; Pub. L. 90–381, § 3, July 5, 1968, 82 Stat. 291.)
+(July 30, 1947, ch. 389, 61 Stat. 642; Pub. L. 90–381, § 3, July 5, 1968, 82 Stat. 291.)
 
 **Editorial Notes**
 
@@ -148,17 +148,17 @@ Any person who, within the District of Columbia, in any manner, for exhibition o
 
 1968—Pub. L. 90–381 struck out “; or who, within the District of Columbia, shall publicly mutilate, deface, defile or defy, trample upon, or cast contempt, either by word or act, upon any such flag, standard, colors, or ensign,” after “substance on which so placed”.
 
-## § 4. Pledge of allegiance to the flag; manner of delivery
+## § 4. Pledge of allegiance to the flag; manner of delivery
 
 The Pledge of Allegiance to the Flag: “I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.”, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove any non-religious headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute. Members of the Armed Forces not in uniform and veterans may render the military salute in the manner provided for persons in uniform.
 
-(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1494; amended Pub. L. 107–293, § 2(a), Nov. 13, 2002, 116 Stat. 2060; Pub. L. 113–66, div. A, title V, § 586, Dec. 26, 2013, 127 Stat. 777.)
+(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1494; amended Pub. L. 107–293, § 2(a), Nov. 13, 2002, 116 Stat. 2060; Pub. L. 113–66, div. A, title V, § 586, Dec. 26, 2013, 127 Stat. 777.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4 | 36:172. | June 22, 1942, ch. 435, § 7, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 7, 56 Stat. 1077; Dec. 28, 1945, ch. 607, 59 Stat. 668; June 14, 1954, ch. 297, 68 Stat. 249; July 7, 1976, Pub. L. 94–344, (19), 90 Stat. 813. |
+| 4 | 36:172. | June 22, 1942, ch. 435, § 7, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 7, 56 Stat. 1077; Dec. 28, 1945, ch. 607, 59 Stat. 668; June 14, 1954, ch. 297, 68 Stat. 249; July 7, 1976, Pub. L. 94–344, (19), 90 Stat. 813. |
 
 **Editorial Notes**
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 107–293 reaffirmed the exact language of the Pledge, see 
 
 **Findings**
 
-Pub. L. 107–293, § 1, Nov. 13, 2002, 116 Stat. 2057, provided that:
+Pub. L. 107–293, § 1, Nov. 13, 2002, 116 Stat. 2057, provided that:
 
 > “Congress finds the following:
 
@@ -194,7 +194,7 @@ Pub. L. 107–293, § 1, Nov. 13, 2002, 116 Stat. 2057, provided that:
 
 > **“(7)** On November 19, 1863, President Abraham Lincoln delivered his Gettysburg Address on the site of the battle and declared: ‘It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain—that this Nation, under God, shall have a new birth of freedom—and that Government of the people, by the people, for the people, shall not perish from the earth.’
 
-> **“(8)** On April 28, 1952, in the decision of the Supreme Court of the United States in Zorach v. Clauson, 343 U.S. 306 (1952), in which school children were allowed to be excused from public schools for religious observances and education, Justice William O. Douglas, in writing for the Court stated: ‘The First Amendment, however, does not say that in every and all respects there shall be a separation of Church and State. Rather, it studiously defines the manner, the specific ways, in which there shall be no concern or union or dependency one on the other. That is the common sense of the matter. Otherwise the State and religion would be aliens to each other—hostile, suspicious, and even unfriendly. Churches could not be required to pay even property taxes. Municipalities would not be permitted to render police or fire protection to religious groups. Policemen who helped parishioners into their places of worship would violate the Constitution. Prayers in our legislative halls; the appeals to the Almighty in the messages of the Chief Executive; the proclamations making Thanksgiving Day a holiday; “so help me God” in our courtroom oaths—these and all other references to the Almighty that run through our laws, our public rituals, our ceremonies would be flouting the First Amendment. A fastidious atheist or agnostic could even object to the supplication with which the Court opens each session: “God save the United States and this Honorable Court.” ’
+> **“(8)** On April 28, 1952, in the decision of the Supreme Court of the United States in Zorach v. Clauson, 343 U.S. 306 (1952), in which school children were allowed to be excused from public schools for religious observances and education, Justice William O. Douglas, in writing for the Court stated: ‘The First Amendment, however, does not say that in every and all respects there shall be a separation of Church and State. Rather, it studiously defines the manner, the specific ways, in which there shall be no concern or union or dependency one on the other. That is the common sense of the matter. Otherwise the State and religion would be aliens to each other—hostile, suspicious, and even unfriendly. Churches could not be required to pay even property taxes. Municipalities would not be permitted to render police or fire protection to religious groups. Policemen who helped parishioners into their places of worship would violate the Constitution. Prayers in our legislative halls; the appeals to the Almighty in the messages of the Chief Executive; the proclamations making Thanksgiving Day a holiday; “so help me God” in our courtroom oaths—these and all other references to the Almighty that run through our laws, our public rituals, our ceremonies would be flouting the First Amendment. A fastidious atheist or agnostic could even object to the supplication with which the Court opens each session: “God save the United States and this Honorable Court.” ’
 
 > **“(9)** On June 15, 1954, Congress passed and President Eisenhower signed into law a statute that was clearly consistent with the text and intent of the Constitution of the United States, that amended the Pledge of Allegiance to read: ‘I pledge allegiance to the Flag of the United States of America and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.’
 
@@ -202,9 +202,9 @@ Pub. L. 107–293, § 1, Nov. 13, 2002, 116 Stat. 2057, provided that:
 
 > **“(11)** On June 17, 1963, in the decision of the Supreme Court of the United States in Abington School District v. Schempp, 374 U.S. 203 (1963), in which compulsory school prayer was held unconstitutional, Justices Goldberg and Harlan, concurring in the decision, stated: ‘But untutored devotion to the concept of neutrality can lead to invocation or approval of results which partake not simply of that noninterference and noninvolvement with the religious which the Constitution commands, but of a brooding and pervasive devotion to the secular and a passive, or even active, hostility to the religious. Such results are not only not compelled by the Constitution, but, it seems to me, are prohibited by it. Neither government nor this Court can or should ignore the significance of the fact that a vast portion of our people believe in and worship God and that many of our legal, political, and personal values derive historically from religious teachings. Government must inevitably take cognizance of the existence of religion and, indeed, under certain circumstances the First Amendment may require that it do so.’
 
-> **“(12)** On March 5, 1984, in the decision of the Supreme Court of the United States in Lynch v. Donelly, 465 U.S. 668 (1984), in which a city government’s display of a nativity scene was held to be constitutional, Chief Justice Burger, writing for the Court, stated: ‘There is an unbroken history of official acknowledgment by all three branches of government of the role of religion in American life from at least 1789 .  .  . [E]xamples of reference to our religious heritage are found in the statutorily prescribed national motto “In God We Trust” (36 U.S.C. 186) [now 36 U.S.C. 302], which Congress and the President mandated for our currency, see (31 U.S.C. 5112(d)(1) (1982 ed.)), and in the language “One Nation under God”, as part of the Pledge of Allegiance to the American flag. That pledge is recited by many thousands of public school children—and adults—every year .  .  . Art galleries supported by public revenues display religious paintings of the 15th and 16th centuries, predominantly inspired by one religious faith. The National Gallery in Washington, maintained with Government support, for example, has long exhibited masterpieces with religious messages, notably the Last Supper, and paintings depicting the Birth of Christ, the Crucifixion, and the Resurrection, among many others with explicit Christian themes and messages. The very chamber in which oral arguments on this case were heard is decorated with a notable and permanent—not seasonal—symbol of religion: Moses with the Ten Commandments. Congress has long provided chapels in the Capitol for religious worship and meditation.’
+> **“(12)** On March 5, 1984, in the decision of the Supreme Court of the United States in Lynch v. Donelly, 465 U.S. 668 (1984), in which a city government’s display of a nativity scene was held to be constitutional, Chief Justice Burger, writing for the Court, stated: ‘There is an unbroken history of official acknowledgment by all three branches of government of the role of religion in American life from at least 1789 . . . [E]xamples of reference to our religious heritage are found in the statutorily prescribed national motto “In God We Trust” (36 U.S.C. 186) [now 36 U.S.C. 302], which Congress and the President mandated for our currency, see (31 U.S.C. 5112(d)(1) (1982 ed.)), and in the language “One Nation under God”, as part of the Pledge of Allegiance to the American flag. That pledge is recited by many thousands of public school children—and adults—every year . . . Art galleries supported by public revenues display religious paintings of the 15th and 16th centuries, predominantly inspired by one religious faith. The National Gallery in Washington, maintained with Government support, for example, has long exhibited masterpieces with religious messages, notably the Last Supper, and paintings depicting the Birth of Christ, the Crucifixion, and the Resurrection, among many others with explicit Christian themes and messages. The very chamber in which oral arguments on this case were heard is decorated with a notable and permanent—not seasonal—symbol of religion: Moses with the Ten Commandments. Congress has long provided chapels in the Capitol for religious worship and meditation.’
 
-> **“(13)** On June 4, 1985, in the decision of the Supreme Court of the United States in Wallace v. Jaffree, 472 U.S. 38 (1985), in which a mandatory moment of silence to be used for meditation or voluntary prayer was held unconstitutional, Justice O’Connor, concurring in the judgment and addressing the contention that the Court’s holding would render the Pledge of Allegiance unconstitutional because Congress amended it in 1954 to add the words ‘under God,’ stated ‘In my view, the words “under God” in the Pledge, as codified at (36 U.S.C. 172) [now 4 U.S.C. 4], serve as an acknowledgment of religion with “the legitimate secular purposes of solemnizing public occasions, [and] expressing confidence in the future.” ’
+> **“(13)** On June 4, 1985, in the decision of the Supreme Court of the United States in Wallace v. Jaffree, 472 U.S. 38 (1985), in which a mandatory moment of silence to be used for meditation or voluntary prayer was held unconstitutional, Justice O’Connor, concurring in the judgment and addressing the contention that the Court’s holding would render the Pledge of Allegiance unconstitutional because Congress amended it in 1954 to add the words ‘under God,’ stated ‘In my view, the words “under God” in the Pledge, as codified at (36 U.S.C. 172) [now 4 U.S.C. 4], serve as an acknowledgment of religion with “the legitimate secular purposes of solemnizing public occasions, [and] expressing confidence in the future.” ’
 
 > **“(14)** On November 20, 1992, the United States Court of Appeals for the 7th Circuit, in Sherman v. Community Consolidated School District 21, 980 F.2d 437 (7th Cir. 1992), held that a school district’s policy for voluntary recitation of the Pledge of Allegiance including the words ‘under God’ was constitutional.
 
@@ -214,19 +214,19 @@ Pub. L. 107–293, § 1, Nov. 13, 2002, 116 Stat. 2057, provided that:
 
 **Reaffirmation of Language**
 
-Pub. L. 107–293, § 2(b), Nov. 13, 2002, 116 Stat. 2060, provided that: “In codifying this subsection [probably should be “section”, meaning section 2 of Pub. L. 107–293, which amended this section], the Office of the Law Revision Counsel shall show in the historical and statutory notes that the 107th Congress reaffirmed the exact language that has appeared in the Pledge for decades.”
+Pub. L. 107–293, § 2(b), Nov. 13, 2002, 116 Stat. 2060, provided that: “In codifying this subsection [probably should be “section”, meaning section 2 of Pub. L. 107–293, which amended this section], the Office of the Law Revision Counsel shall show in the historical and statutory notes that the 107th Congress reaffirmed the exact language that has appeared in the Pledge for decades.”
 
-## § 5. Display and use of flag by civilians; codification of rules and customs; definition
+## § 5. Display and use of flag by civilians; codification of rules and customs; definition
 
 The following codification of existing rules and customs pertaining to the display and use of the flag of the United States of America is established for the use of such civilians or civilian groups or organizations as may not be required to conform with regulations promulgated by one or more executive departments of the Government of the United States. The flag of the United States for the purpose of this chapter shall be defined according to sections 1 and 2 of this title and Executive Order 10834 issued pursuant thereto.
 
-(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1494.)
+(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1494.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5 | 36:173. | June 22, 1942, ch. 435, § 1, 56 Stat. 377; Dec. 22, 1942, ch. 806, § 1, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (1), 90 Stat. 810. |
+| 5 | 36:173. | June 22, 1942, ch. 435, § 1, 56 Stat. 377; Dec. 22, 1942, ch. 806, § 1, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (1), 90 Stat. 810. |
 
 **Editorial Notes**
 
@@ -274,7 +274,7 @@ Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that:
 
 > **“(2)** any reasonable restriction pertaining to the time, place, or manner of displaying the flag of the United States necessary to protect a substantial interest of the condominium association, cooperative association, or residential real estate management association.”
 
-## § 6. Time and occasions for display
+## § 6. Time and occasions for display
 
 **(a)** It is the universal custom to display the flag only from sunrise to sunset on buildings and on stationary flagstaffs in the open. However, when a patriotic effect is desired, the flag may be displayed 24 hours a day if properly illuminated during the hours of darkness.
 
@@ -290,13 +290,13 @@ Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that:
 
 **(g)** The flag should be displayed during school days in or near every schoolhouse.
 
-(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1494; amended Pub. L. 106–80, § 1, Oct. 25, 1999, 113 Stat. 1285; Pub. L. 110–239, § 1, June 3, 2008, 122 Stat. 1559; Pub. L. 111–41, § 2, July 27, 2009, 123 Stat. 1962; Pub. L. 115–15, § 2, Mar. 28, 2017, 131 Stat. 79.)
+(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1494; amended Pub. L. 106–80, § 1, Oct. 25, 1999, 113 Stat. 1285; Pub. L. 110–239, § 1, June 3, 2008, 122 Stat. 1559; Pub. L. 111–41, § 2, July 27, 2009, 123 Stat. 1962; Pub. L. 115–15, § 2, Mar. 28, 2017, 131 Stat. 79.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6 | 36:174. | June 22, 1942, ch. 435, § 2, 56 Stat. 378; Dec. 22, 1942, ch. 806, § 2, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (2)–(5), 90 Stat. 810. |
+| 6 | 36:174. | June 22, 1942, ch. 435, § 2, 56 Stat. 378; Dec. 22, 1942, ch. 806, § 2, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (2)–(5), 90 Stat. 810. |
 
 In subsection (d), the words “Veterans Day” are substituted for “Armistice Day” because of the Act of June 1, 1954 (ch. 250, 68 Stat. 168).
 
@@ -312,7 +312,7 @@ In subsection (d), the words “Veterans Day” are substituted for “Armistice
 
 1999—Subsec. (d). Pub. L. 106–80 inserted “Martin Luther King Jr.’s birthday, third Monday in January;” after “January 20;”.
 
-## § 7. Position and manner of display
+## § 7. Position and manner of display
 
 The flag, when carried in a procession with another flag or flags, should be either on the marching right; that is, the flag’s own right, or, if there is a line of other flags, in front of the center of that line.
 
@@ -354,35 +354,35 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 **(o)** When the flag is suspended across a corridor or lobby in a building with only one main entrance, it should be suspended vertically with the union of the flag to the observer’s left upon entering. If the building has more than one main entrance, the flag should be suspended vertically near the center of the corridor or lobby with the union to the north, when entrances are to the east and west or to the east when entrances are to the north and south. If there are entrances in more than two directions, the union should be to the east.
 
-(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1495; amended Pub. L. 110–41, § 3, June 29, 2007, 121 Stat. 233; Pub. L. 115–123, div. A, § 10102(a), (b), Feb. 9, 2018, 132 Stat. 64.)
+(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1495; amended Pub. L. 110–41, § 3, June 29, 2007, 121 Stat. 233; Pub. L. 115–123, div. A, § 10102(a), (b), Feb. 9, 2018, 132 Stat. 64.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7 | 36:175. | June 22, 1942, ch. 435, § 3, 56 Stat. 378; Dec. 22, 1942, ch. 806, § 3, 56 Stat. 1075; July 9, 1953, ch. 183, 67 Stat. 142; July 7, 1976, Pub. L. 94–344, (6)–(11), 90 Stat. 811; Sept. 13, 1994, Pub. L. 103–322, title XXXII, § 320922(b), 108 Stat. 2131. |
+| 7 | 36:175. | June 22, 1942, ch. 435, § 3, 56 Stat. 378; Dec. 22, 1942, ch. 806, § 3, 56 Stat. 1075; July 9, 1953, ch. 183, 67 Stat. 142; July 7, 1976, Pub. L. 94–344, (6)–(11), 90 Stat. 811; Sept. 13, 1994, Pub. L. 103–322, title XXXII, § 320922(b), 108 Stat. 2131. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (m). Pub. L. 115–123, § 10102(a), in sixth sentence of introductory provisions, substituted “possession of the United States,” for “possession of the United States or” and “former officials of the District of Columbia,” for “former officials of the District of Columbia and” and inserted “or the death of a first responder working in any State, territory, or possession who dies while serving in the line of duty,” after “while serving on active duty,” and “, and first responders working in the District of Columbia” before the period.
+2018—Subsec. (m). Pub. L. 115–123, § 10102(a), in sixth sentence of introductory provisions, substituted “possession of the United States,” for “possession of the United States or” and “former officials of the District of Columbia,” for “former officials of the District of Columbia and” and inserted “or the death of a first responder working in any State, territory, or possession who dies while serving in the line of duty,” after “while serving on active duty,” and “, and first responders working in the District of Columbia” before the period.
 
-Subsec. (m)(2). Pub. L. 115–123, § 10102(b)(1), substituted a semicolon for “, United States Code; and”.
+Subsec. (m)(2). Pub. L. 115–123, § 10102(b)(1), substituted a semicolon for “, United States Code; and”.
 
-Subsec. (m)(4). Pub. L. 115–123, § 10102(b)(2), (3), added par. (4).
+Subsec. (m)(4). Pub. L. 115–123, § 10102(b)(2), (3), added par. (4).
 
-2007—Subsec. (m). Pub. L. 110–41, in sixth sentence, inserted “or the death of a member of the Armed Forces from any State, territory, or possession who dies while serving on active duty” after “present or former official of the government of any State, territory, or possession of the United States” and substituted “, and the same authority is provided to the Mayor of the District of Columbia with respect to present or former officials of the District of Columbia and members of the Armed Forces from the District of Columbia. When the Governor of a State, territory, or possession, or the Mayor of the District of Columbia, issues a proclamation under the preceding sentence that the National flag be flown at half-staff in that State, territory, or possession or in the District of Columbia because of the death of a member of the Armed Forces, the National flag flown at any Federal installation or facility in the area covered by that proclamation shall be flown at half-staff consistent with that proclamation.” for period at end.
+2007—Subsec. (m). Pub. L. 110–41, in sixth sentence, inserted “or the death of a member of the Armed Forces from any State, territory, or possession who dies while serving on active duty” after “present or former official of the government of any State, territory, or possession of the United States” and substituted “, and the same authority is provided to the Mayor of the District of Columbia with respect to present or former officials of the District of Columbia and members of the Armed Forces from the District of Columbia. When the Governor of a State, territory, or possession, or the Mayor of the District of Columbia, issues a proclamation under the preceding sentence that the National flag be flown at half-staff in that State, territory, or possession or in the District of Columbia because of the death of a member of the Armed Forces, the National flag flown at any Federal installation or facility in the area covered by that proclamation shall be flown at half-staff consistent with that proclamation.” for period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. A, § 10102(c), Feb. 9, 2018, 132 Stat. 64, provided that: “The amendments made by this section [amending this section] shall apply with respect to deaths of first responders occurring on or after the date of the enactment of this Act [Feb. 9, 2018].”
+Pub. L. 115–123, div. A, § 10102(c), Feb. 9, 2018, 132 Stat. 64, provided that: “The amendments made by this section [amending this section] shall apply with respect to deaths of first responders occurring on or after the date of the enactment of this Act [Feb. 9, 2018].”
 
 **Finding**
 
-Pub. L. 110–41, § 2, June 29, 2007, 121 Stat. 233, provided that: “Congress finds that members of the Armed Forces of the United States defend the freedom and security of the United States.”
+Pub. L. 110–41, § 2, June 29, 2007, 121 Stat. 233, provided that: “Congress finds that members of the Armed Forces of the United States defend the freedom and security of the United States.”
 
 **Executive Documents**
 
@@ -422,7 +422,7 @@ DONE at the City of Washington this 1st day of March in the year of our Lord nin
 
 Dwight D. Eisenhower.
 
-## § 8. Respect for flag
+## § 8. Respect for flag
 
 No disrespect should be shown to the flag of the United States of America; the flag should not be dipped to any person or thing. Regimental colors, State flags, and organization or institutional flags are to be dipped as a mark of honor.
 
@@ -448,25 +448,25 @@ No disrespect should be shown to the flag of the United States of America; the f
 
 **(k)** The flag, when it is in such condition that it is no longer a fitting emblem for display, should be destroyed in a dignified way, preferably by burning.
 
-(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1497; amended Pub. L. 118–159, div. A, title XVII, § 1703(a), Dec. 23, 2024, 138 Stat. 2208.)
+(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1497; amended Pub. L. 118–159, div. A, title XVII, § 1703(a), Dec. 23, 2024, 138 Stat. 2208.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8 | 36:176. | June 22, 1942, ch. 435, § 4, 56 Stat. 379; Dec. 22, 1942, ch. 806, § 4, 56 Stat. 1076; July 7, 1976, Pub. L. 94–344, (12)–(16), 90 Stat. 812. |
+| 8 | 36:176. | June 22, 1942, ch. 435, § 4, 56 Stat. 379; Dec. 22, 1942, ch. 806, § 4, 56 Stat. 1076; July 7, 1976, Pub. L. 94–344, (12)–(16), 90 Stat. 812. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (c). Pub. L. 118–159 inserted “, except as may be necessary in limited circumstances and done in a respectful manner as part of a military or patriotic observance” after “aloft and free”.
+2024—Subsec. (c). Pub. L. 118–159 inserted “, except as may be necessary in limited circumstances and done in a respectful manner as part of a military or patriotic observance” after “aloft and free”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Modification of Department of Defense Policy**
 
-Pub. L. 118–159, div. A, title XVII, § 1703(b), Dec. 23, 2024, 138 Stat. 2208, provided that:
+Pub. L. 118–159, div. A, title XVII, § 1703(b), Dec. 23, 2024, 138 Stat. 2208, provided that:
 
 > “The Secretary of Defense shall—
 
@@ -474,17 +474,17 @@ Pub. L. 118–159, div. A, title XVII, § 1703(b), Dec. 23, 2024, 138 Stat. 22
 
 > **“(2)** support military recruitment through public outreach events during patriotic and military observances, including the display of the United States flag regardless of size and position, including horizontally, provided that, in accordance with section 8(b) of title 4, United States Code, the flag never touch anything beneath it, such as the ground, the floor, water, or merchandise.”
 
-## § 9. Conduct during hoisting, lowering or passing of flag
+## § 9. Conduct during hoisting, lowering or passing of flag
 
 During the ceremony of hoisting or lowering the flag or when the flag is passing in a parade or in review, all persons present in uniform should render the military salute. Members of the Armed Forces and veterans who are present but not in uniform may render the military salute. All other persons present should face the flag and stand at attention with their right hand over the heart, or if applicable, remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Citizens of other countries present should stand at attention. All such conduct toward the flag in a moving column should be rendered at the moment the flag passes.
 
-(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1498; Pub. L. 110–181, div. A, title V, § 594, Jan. 28, 2008, 122 Stat. 138.)
+(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1498; Pub. L. 110–181, div. A, title V, § 594, Jan. 28, 2008, 122 Stat. 138.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9 | 36:177. | June 22, 1942, ch. 435, § 5, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 5, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, (17), 90 Stat. 812. |
+| 9 | 36:177. | June 22, 1942, ch. 435, § 5, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 5, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, (17), 90 Stat. 812. |
 
 **Editorial Notes**
 
@@ -492,17 +492,17 @@ During the ceremony of hoisting or lowering the flag or when the flag is passing
 
 2008—Pub. L. 110–181 substituted “all persons present in uniform should render the military salute. Members of the Armed Forces and veterans who are present but not in uniform may render the military salute. All other persons present should face the flag and stand at attention with their right hand over the heart, or if applicable, remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Citizens of other countries present should stand at attention. All such conduct toward the flag in a moving column should be rendered at the moment the flag passes.” for “all persons present except those in uniform should face the flag and stand at attention with the right hand over the heart. Those present in uniform should render the military salute. When not in uniform, men should remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Aliens should stand at attention. The salute to the flag in a moving column should be rendered at the moment the flag passes.”
 
-## § 10. Modification of rules and customs by President
+## § 10. Modification of rules and customs by President
 
 Any rule or custom pertaining to the display of the flag of the United States of America, set forth herein, may be altered, modified, or repealed, or additional rules with respect thereto may be prescribed, by the Commander in Chief of the Armed Forces of the United States, whenever he deems it to be appropriate or desirable; and any such alteration or additional rule shall be set forth in a proclamation.
 
-(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1498.)
+(Added Pub. L. 105–225, § 2(a), Aug. 12, 1998, 112 Stat. 1498.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 10 | 36:178. | June 22, 1942, ch. 435, § 8, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 8, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, (20), 90 Stat. 813. |
+| 10 | 36:178. | June 22, 1942, ch. 435, § 8, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 8, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, (20), 90 Stat. 813. |
 
 **Editorial Notes**
 

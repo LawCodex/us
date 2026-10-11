@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 86—SOUTHWEST FOREST HEALTH AND WILDFIRE PREVENTION
 
-## § 6701. Findings
+## § 6701. Findings
 
 Congress finds that—
 
@@ -87,15 +87,15 @@ Congress finds that—
 
 **(C)** affected entities that collaborate in the development and implementation of wildfire treatment.
 
-(Pub. L. 108–317, § 2, Oct. 5, 2004, 118 Stat. 1204.)
+(Pub. L. 108–317, § 2, Oct. 5, 2004, 118 Stat. 1204.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 108–317, § 1, Oct. 5, 2004, 118 Stat. 1204, provided that: “This Act [enacting this chapter] may be cited as the ‘Southwest Forest Health and Wildfire Prevention Act of 2004’.”
+Pub. L. 108–317, § 1, Oct. 5, 2004, 118 Stat. 1204, provided that: “This Act [enacting this chapter] may be cited as the ‘Southwest Forest Health and Wildfire Prevention Act of 2004’.”
 
-## § 6702. Purposes
+## § 6702. Purposes
 
 The purposes of this chapter are—
 
@@ -127,9 +127,9 @@ The purposes of this chapter are—
 
 **(7)** to assist Federal and non-Federal land managers in providing information to the public on the role of fire and fire management in dry forest and woodland ecosystems in the interior West.
 
-(Pub. L. 108–317, § 3, Oct. 5, 2004, 118 Stat. 1205.)
+(Pub. L. 108–317, § 3, Oct. 5, 2004, 118 Stat. 1205.)
 
-## § 6703. Definitions
+## § 6703. Definitions
 
 In this chapter:
 
@@ -213,15 +213,15 @@ Where the number of trees per acre exceeds the natural carrying capacity of the 
 
 The ability of a system to absorb disturbance without being pushed into a different, possibly less desirable stable state.
 
-(Pub. L. 108–317, § 4, Oct. 5, 2004, 118 Stat. 1206.)
+(Pub. L. 108–317, § 4, Oct. 5, 2004, 118 Stat. 1206.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in par. (1)(B), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in par. (1)(B), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
-## § 6704. Establishment of Institutes
+## § 6704. Establishment of Institutes
 
 **(a) In general** The Secretary, in consultation with the Secretary of the Interior, shall—
 
@@ -275,9 +275,9 @@ As a condition of the receipt of funds made available under this chapter, for ea
 
 If after 2 years after October 5, 2004, the Secretary finds that the Institute model established at the locations named in subsection (b)(2) would be constructive for other interior West States, the Secretary may establish 1 institute in each of those States.
 
-(Pub. L. 108–317, § 5, Oct. 5, 2004, 118 Stat. 1207.)
+(Pub. L. 108–317, § 5, Oct. 5, 2004, 118 Stat. 1207.)
 
-## § 6705. Cooperation between Institutes and Federal agencies
+## § 6705. Cooperation between Institutes and Federal agencies
 
 In carrying out this chapter, the Secretary, in consultation with the Secretary of the Interior—
 
@@ -307,9 +307,9 @@ In carrying out this chapter, the Secretary, in consultation with the Secretary 
 
 **(8)** may promulgate such regulations as the Secretaries determine are necessary to carry out this chapter.
 
-(Pub. L. 108–317, § 6, Oct. 5, 2004, 118 Stat. 1208.)
+(Pub. L. 108–317, § 6, Oct. 5, 2004, 118 Stat. 1208.)
 
-## § 6706. Monitoring and evaluation
+## § 6706. Monitoring and evaluation
 
 **(a) In general** Not later than 5 years after October 5, 2004, and every 5 years thereafter, the Secretary, in consultation with the Secretary of the Interior, shall complete and submit to the Committee on Resources and the Committee on Agriculture of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate a detailed evaluation of the programs and activities of each Institute—
 
@@ -333,7 +333,7 @@ In carrying out this chapter, the Secretary, in consultation with the Secretary 
 
 If, as a result of an evaluation under subsection (a), the Secretary, in consultation with the Secretary of the Interior, determines that an Institute does not qualify for further Federal assistance under this chapter, the Institute shall receive no further Federal assistance under this chapter until such time as the qualifications of the Institute are reestablished to the satisfaction of the Secretaries.
 
-(Pub. L. 108–317, § 7, Oct. 5, 2004, 118 Stat. 1209.)
+(Pub. L. 108–317, § 7, Oct. 5, 2004, 118 Stat. 1209.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,7 +341,7 @@ If, as a result of an evaluation under subsection (a), the Secretary, in consult
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 6707. Authorization of appropriations
+## § 6707. Authorization of appropriations
 
 **(a) In general**
 
@@ -351,4 +351,4 @@ There is authorized to be appropriated to carry out this chapter $15,000,000 for
 
 No funds made available under subsection (a) shall be used to pay the costs of constructing any facilities.
 
-(Pub. L. 108–317, § 8, Oct. 5, 2004, 118 Stat. 1210.)
+(Pub. L. 108–317, § 8, Oct. 5, 2004, 118 Stat. 1210.)

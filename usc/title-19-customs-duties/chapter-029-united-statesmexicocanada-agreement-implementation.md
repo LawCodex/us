@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 29—UNITED STATES–MEXICO–CANADA AGREEMENT IMPLEMENTATION
 
-## § 4501. Purpose
+## § 4501. Purpose
 
 The purpose of this Act is to approve and implement the Agreement between the United States of America, the United Mexican States, and Canada entered into under the authority of section 4202(b) of this title.
 
-(Pub. L. 116–113, § 2, Jan. 29, 2020, 134 Stat. 13.)
+(Pub. L. 116–113, § 2, Jan. 29, 2020, 134 Stat. 13.)
 
 **Editorial Notes**
 
@@ -31,11 +31,11 @@ This Act, referred to in text, is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11
 
 **Short Title**
 
-Pub. L. 116–113, § 1(a), Jan. 29, 2020, 134 Stat. 11, provided that: “This Act [enacting this chapter, repealing chapter 21 of this title, and enacting, amending, and repealing numerous sections and provisions set out as notes in this title and in Title 8, Aliens and Nationality, Title 15, Commerce and Trade, Title 22, Foreign Relations and Intercourse, Title 26, Internal Revenue Code, Title 28, Judiciary and Judicial Procedure, Title 42, The Public Health and Welfare, and Title 49, Transportation] may be cited as the ‘United States-Mexico-Canada Agreement Implementation Act’.”
+Pub. L. 116–113, § 1(a), Jan. 29, 2020, 134 Stat. 11, provided that: “This Act [enacting this chapter, repealing chapter 21 of this title, and enacting, amending, and repealing numerous sections and provisions set out as notes in this title and in Title 8, Aliens and Nationality, Title 15, Commerce and Trade, Title 22, Foreign Relations and Intercourse, Title 26, Internal Revenue Code, Title 28, Judiciary and Judicial Procedure, Title 42, The Public Health and Welfare, and Title 49, Transportation] may be cited as the ‘United States-Mexico-Canada Agreement Implementation Act’.”
 
 **Effective Date**
 
-Pub. L. 116–113, title I, § 107, Jan. 29, 2020, 134 Stat. 19, provided that:
+Pub. L. 116–113, title I, § 107, Jan. 29, 2020, 134 Stat. 19, provided that:
 
 > **“(a) In General.—** Sections 1 through 3 [enacting this section, section 4502 of this title, and provisions set out as a note under this section] and this title [enacting subchapter I of this chapter] (other than section 103(c) [19 U.S.C. 4513(c)]) shall take effect on the date of the enactment of this Act [Jan. 29, 2020].
 
@@ -43,7 +43,7 @@ Pub. L. 116–113, title I, § 107, Jan. 29, 2020, 134 Stat. 19, provided that
 
 [For definition of “USMCA” as used in section 107(b) of Pub. L. 116–113, set out above, see section 4502 of this title.]
 
-## § 4502. Definitions
+## § 4502. Definitions
 
 In this Act:
 
@@ -71,7 +71,7 @@ The term “Mexico” means the United Mexican States.
 
 The term “NAFTA” means the North American Free Trade Agreement approved by Congress under section 101(a)(1) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3311(a)(1)).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(7) Preferential tariff treatment**
 
@@ -93,7 +93,7 @@ The term “Trade Representative” means the United States Trade Representative
 
 **(B)** Mexico for such time as the USMCA is in force with respect to, and the United States applies the USMCA to, Mexico.
 
-(Pub. L. 116–113, § 3, Jan. 29, 2020, 134 Stat. 13.)
+(Pub. L. 116–113, § 3, Jan. 29, 2020, 134 Stat. 13.)
 
 **Editorial Notes**
 
@@ -103,11 +103,11 @@ This Act, referred to in text, is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-Section 101(a)(1) of the North American Free Trade Agreement Implementation Act, referred to in par. (6), is section 101(a)(1) of Pub. L. 103–182, title I, Dec. 8, 1993, 107 Stat. 2061, which was classified to section 3511 of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date on which the USMCA entered into force (July 1, 2020).
+Section 101(a)(1) of the North American Free Trade Agreement Implementation Act, referred to in par. (6), is section 101(a)(1) of Pub. L. 103–182, title I, Dec. 8, 1993, 107 Stat. 2061, which was classified to section 3511 of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date on which the USMCA entered into force (July 1, 2020).
 
 ## SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE USMCA
 
-### § 4511. Approval and entry into force of the USMCA
+### § 4511. Approval and entry into force of the USMCA
 
 **(a) Approval of USMCA and statement of administrative action** Pursuant to section 4205 of this title and section 2191 of this title, Congress approves—
 
@@ -121,9 +121,9 @@ Section 101(a)(1) of the North American Free Trade Agreement Implementation Act,
 
 The President is authorized to provide for the USMCA to enter into force with respect to Canada and Mexico not earlier than 30 days after the date on which the President submits to Congress the written notice required by section 4205(a)(1)(G) of this title, which shall include the date on which the USMCA will enter into force.
 
-(Pub. L. 116–113, title I, § 101, Jan. 29, 2020, 134 Stat. 14.)
+(Pub. L. 116–113, title I, § 101, Jan. 29, 2020, 134 Stat. 14.)
 
-### § 4512. Relationship of the USMCA to United States and State law
+### § 4512. Relationship of the USMCA to United States and State law
 
 **(a) Relationship of USMCA to United States law**
 
@@ -157,7 +157,7 @@ No State law, or the application thereof, may be declared invalid as to any pers
 
 **(2)** may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the USMCA.
 
-(Pub. L. 116–113, title I, § 102, Jan. 29, 2020, 134 Stat. 15.)
+(Pub. L. 116–113, title I, § 102, Jan. 29, 2020, 134 Stat. 15.)
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ No State law, or the application thereof, may be declared invalid as to any pers
 
 This Act, referred to in subsec. (a)(2), is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the United States-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-### § 4513. Implementing actions in anticipation of entry into force; initial regulations; tariff proclamation authority
+### § 4513. Implementing actions in anticipation of entry into force; initial regulations; tariff proclamation authority
 
 **(a) Implementing actions**
 
@@ -257,7 +257,7 @@ Subject to the consultation and layover provisions of section 4514 of this title
 
 **(II)** before the end of the 1-year period beginning on the date on which the USMCA enters into force, modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 of the USMCA.
 
-(Pub. L. 116–113, title I, § 103, Jan. 29, 2020, 134 Stat. 15.)
+(Pub. L. 116–113, title I, § 103, Jan. 29, 2020, 134 Stat. 15.)
 
 **Editorial Notes**
 
@@ -277,7 +277,7 @@ Subsec. (c) of this section effective on the date the USMCA entered into force (
 
 Proc. No. 10053, pars. (5), (6), June 29, 2020, 85 F.R. 39826, authorized the United States Trade Representative to exercise the authority of the President under subsec. (c)(4) of this section and the Committee for Implementation of Textile Agreements to exercise the authority of the President under subsec. (c)(1) of this section with respect to a good provided for under article 6.2 of the USMCA.
 
-### § 4514. Consultation and layover provisions for, and effective date of, proclaimed actions
+### § 4514. Consultation and layover provisions for, and effective date of, proclaimed actions
 
 If a provision of this Act provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, that action may be proclaimed only if—
 
@@ -297,7 +297,7 @@ If a provision of this Act provides that the implementation of an action by the 
 
 **(4)** the President has consulted with the committees referred to in paragraph (2) regarding the proposed action during the period referred to in paragraph (3).
 
-(Pub. L. 116–113, title I, § 104, Jan. 29, 2020, 134 Stat. 17.)
+(Pub. L. 116–113, title I, § 104, Jan. 29, 2020, 134 Stat. 17.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ This Act, referred to in text, is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11
 
 Proc. No. 10053, par. (7), June 29, 2020, 85 F.R. 39826, authorized the United States Trade Representative to fulfill the obligations of the President to obtain advice from the appropriate advisory committees and the International Trade Commission on the proposed implementation of an action by Presidential proclamation; to submit a report on such proposed action to the appropriate congressional committees; and to consult with those congressional committees regarding the proposed action.
 
-### § 4515. Administration of dispute settlement proceedings
+### § 4515. Administration of dispute settlement proceedings
 
 **(a) United States Section of Secretariat**
 
@@ -321,7 +321,7 @@ The President is authorized to establish or designate within the Department of C
 
 **(2) Functions and administrative assistance** The office established or designated under paragraph (1), subject to the oversight of the interagency group established under section 411(c)(2),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall—
 
@@ -357,7 +357,7 @@ The office established or designated under paragraph (1) shall not be considered
 
 If the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year as reimbursement for expenses in connection with dispute settlement proceedings under section D of chapter 10 or chapter 31 of the USMCA, or under chapter 19 of NAFTA, the United States Section may, notwithstanding section 3302 of title 31, retain and use such funds to carry out the functions described in subsection (a)(2).
 
-(Pub. L. 116–113, title I, § 105, Jan. 29, 2020, 134 Stat. 18.)
+(Pub. L. 116–113, title I, § 105, Jan. 29, 2020, 134 Stat. 18.)
 
 **Editorial Notes**
 
@@ -373,15 +373,15 @@ The Freedom of Information Act, referred to in subsec. (a)(3), is section 552 of
 
 Proc. No. 10053, par. (8), June 29, 2020, 85 F.R. 39826, authorized The Secretary of Commerce to exercise the authority of the President under subsec. (a) of this section to establish or designate an office within the Department of Commerce to carry out the functions set forth in that subsection.
 
-### § 4516. Trade Representative authority
+### § 4516. Trade Representative authority
 
 If a country (other than the United States) that has signed the USMCA does not enact implementing legislation, the Trade Representative is authorized to enter into negotiations with the other country that has signed the USMCA to consider how the applicable provisions of the USMCA can come into force with respect to the United States and that other country as promptly as possible.
 
-(Pub. L. 116–113, title I, § 106, Jan. 29, 2020, 134 Stat. 19.)
+(Pub. L. 116–113, title I, § 106, Jan. 29, 2020, 134 Stat. 19.)
 
 ## SUBCHAPTER II—CUSTOMS PROVISIONS
 
-### § 4531. Rules of origin
+### § 4531. Rules of origin
 
 **(a) Definitions** In this section:
 
@@ -825,9 +825,9 @@ In determining whether a good is an originating good under this section, product
 
 **(D)** A nonoriginating material of chapter 9 used or consumed in the production of instant coffee, not flavored, of subheading 2101.11.
 
-**(E)** A nonoriginating material of chapter 15 used or consumed in the production of a good of any of headings 1501 through 1508 1
+**(E)** A nonoriginating material of chapter 15 used or consumed in the production of a good of any of headings 1501 through 1508 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 1512, 1514, or 1515.
 
@@ -953,11 +953,11 @@ An indirect material shall be treated as an originating material without regard 
 
 Section 202 of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3332),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 as in effect on the day before the date on which the USMCA enters into force, shall continue to apply on and after that date with respect to a good entered for consumption, or withdrawn from warehouse for consumption, before that date.
 
-(Pub. L. 116–113, title II, § 202, Jan. 29, 2020, 134 Stat. 20; Pub. L. 116–260, div. O, title VI, § 601(b), Dec. 27, 2020, 134 Stat. 2150.)
+(Pub. L. 116–113, title II, § 202, Jan. 29, 2020, 134 Stat. 20; Pub. L. 116–260, div. O, title VI, § 601(b), Dec. 27, 2020, 134 Stat. 2150.)
 
 **Editorial Notes**
 
@@ -967,15 +967,15 @@ The Harmonized Tariff Schedule of the United States or HTS, referred to in subse
 
 This Act, referred to in subsec. (c)(1), is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the United States-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-Act of June 18, 1934, referred to in subsec. (c)(3), is act June 18, 1934, ch. 590, 48 Stat. 998, popularly known as the Foreign Trade Zones Act, which is classified generally to chapter 1A (§ 81a et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 81a of this title and Tables.
+Act of June 18, 1934, referred to in subsec. (c)(3), is act June 18, 1934, ch. 590, 48 Stat. 998, popularly known as the Foreign Trade Zones Act, which is classified generally to chapter 1A (§ 81a et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 81a of this title and Tables.
 
-Section 202 of the North American Free Trade Agreement Implementation Act, referred to in subsec. (*o*)(2), is section 202 of Pub. L. 103–183, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to section 3332 of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Section 202 of the North American Free Trade Agreement Implementation Act, referred to in subsec. (*o*)(2), is section 202 of Pub. L. 103–183, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to section 3332 of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 **Amendments**
 
-2020—Subsec. (c)(3). Pub. L. 116–260, § 601(b)(1), added par. (3).
+2020—Subsec. (c)(3). Pub. L. 116–260, § 601(b)(1), added par. (3).
 
-Subsec. (f)(2)(E). Pub. L. 116–260, § 601(b)(2), substituted “any of headings 1501 through 1508” for “heading 1507, 1508,”.
+Subsec. (f)(2)(E). Pub. L. 116–260, § 601(b)(2), substituted “any of headings 1501 through 1508” for “heading 1507, 1508,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -983,7 +983,7 @@ Subsec. (f)(2)(E). Pub. L. 116–260, § 601(b)(2), substituted “any of head
 
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
 
-### § 4532. Special rules for automotive goods
+### § 4532. Special rules for automotive goods
 
 **(a) Definitions** In this section:
 
@@ -1147,9 +1147,9 @@ The Secretary of the Treasury shall prescribe regulations to carry out this para
 
 **(B) Approval of alternative staging regime for passenger vehicle or light truck production not exceeding 10 percent of North American production** The Trade Representative shall authorize the use of the alternative staging regime if the Trade Representative, in consultation with the interagency committee, determines that—
 
-**(i)** the request for the alternative staging regime covers passenger vehicles or light trucks that do not exceed 10 percent of the production of passenger vehicles or lights 1
+**(i)** the request for the alternative staging regime covers passenger vehicles or light trucks that do not exceed 10 percent of the production of passenger vehicles or lights 1
 
-<sup>1</sup>  So in original. Probably should be “light”.
+<sup>1</sup> So in original. Probably should be “light”.
 
 trucks, as the case may be, in USMCA countries by the producer; and
 
@@ -1157,7 +1157,7 @@ trucks, as the case may be, in USMCA countries by the producer; and
 
 **(C) Approval of alternative staging regime for passenger vehicle or light truck production exceeding 10 percent of North American production** The Trade Representative shall authorize the use of the alternative staging regime if the Trade Representative, in consultation with the interagency committee, determines that—
 
-**(i)** the request for the alternative staging regime covers more than 10 percent of the production of passenger vehicles or lights <sup>1</sup> trucks, as the case may be, in USMCA countries by the producer;
+**(i)** the request for the alternative staging regime covers more than 10 percent of the production of passenger vehicles or lights <sup>1</sup> trucks, as the case may be, in USMCA countries by the producer;
 
 **(ii)** the producer has identified with specificity which of the requirements set forth in articles 2 through 7 of the automotive appendix the producer is unable to meet based on current business plans; and
 
@@ -1345,7 +1345,7 @@ Not later than 4 years after the date on which the USMCA enters into force, the 
 
 **(2)** apply with respect to goods entered, or withdrawn from warehouse for consumption, on or after the date on which the USMCA enters into force.
 
-(Pub. L. 116–113, title II, § 202A, Jan. 29, 2020, 134 Stat. 33.)
+(Pub. L. 116–113, title II, § 202A, Jan. 29, 2020, 134 Stat. 33.)
 
 **Executive Documents**
 
@@ -1377,7 +1377,7 @@ Sec. 5. *General Provisions*. (a) Each executive department and agency shall bea
 
 Donald J. Trump.
 
-### § 4533. Actions regarding verification of claims under the USMCA
+### § 4533. Actions regarding verification of claims under the USMCA
 
 **(a) Verification**
 
@@ -1479,7 +1479,7 @@ If verifications of origin relating to identical goods indicate a pattern of con
 
 In making a determination under this section, including whether to accept or reject a claim for preferential tariff treatment under the USMCA, the Secretary shall interpret the requirements of this section in a manner to avoid and prevent circumvention of those requirements.
 
-(Pub. L. 116–113, title II, § 207, Jan. 29, 2020, 134 Stat. 49.)
+(Pub. L. 116–113, title II, § 207, Jan. 29, 2020, 134 Stat. 49.)
 
 **Executive Documents**
 
@@ -1487,7 +1487,7 @@ In making a determination under this section, including whether to accept or rej
 
 Proc. No. 10053, pars. (10)–(12), June 29, 2020, 85 F.R. 39826, authorized the Committee for Implementation of Textile Agreements to exercise the authority of the President under subsec. (a)(1)(B) and (a)(2)(B) to direct action under subsec. (c) or (a)(2)(D), respectively, of this section with respect to textile and apparel goods, and authorized the Secretary of the Treasury to exercise the authority of the President under subsec. (a)(1)(B) to direct action under subsec. (a)(1)(B)(i) or (c) of this section with respect to goods other than textile or apparel goods.
 
-### § 4534. Drawback
+### § 4534. Drawback
 
 **(a) “Good subject to USMCA drawback” defined** For purposes of this Act, the term “good subject to USMCA drawback” means any imported good other than the following:
 
@@ -1499,7 +1499,7 @@ Proc. No. 10053, pars. (10)–(12), June 29, 2020, 85 F.R. 39826, authorized the
 
 **(B)** except for a good referred to in paragraph 11 of Annex 3–B of the USMCA that is exported to Mexico, if a good described in the first sentence of this paragraph is commingled with fungible goods and exported in the same condition, the origin of the good may be determined on the basis of the inventory methods provided for in the regulations implementing this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3)** A good—
 
@@ -1525,7 +1525,7 @@ Proc. No. 10053, pars. (10)–(12), June 29, 2020, 85 F.R. 39826, authorized the
 
 **(B)** the shipment of the good without the consent of the consignee.
 
-**(5)** A good that qualifies under the rules of origin set out in section 202 <sup>1</sup> that is—
+**(5)** A good that qualifies under the rules of origin set out in section 202 <sup>1</sup> that is—
 
 **(A)** exported to a USMCA country,
 
@@ -1583,7 +1583,7 @@ If the Commissioner of U.S. Customs and Border Protection determines that a clai
 
 **(B)** a credit against a bond under section 1312(d)(1) of this title.
 
-(Pub. L. 116–113, title II, § 208, title V, § 501(a)–(d), Jan. 29, 2020, 134 Stat. 52, 67, 68; Pub. L. 116–260, div. O, title VI, § 601(c)(1), Dec. 27, 2020, 134 Stat. 2150.)
+(Pub. L. 116–113, title II, § 208, title V, § 501(a)–(d), Jan. 29, 2020, 134 Stat. 52, 67, 68; Pub. L. 116–260, div. O, title VI, § 601(c)(1), Dec. 27, 2020, 134 Stat. 2150.)
 
 **Editorial Notes**
 
@@ -1593,27 +1593,27 @@ This Act, referred to in subsec. (a), is Pub. L. 116–113, Jan. 29, 2020, 134 S
 
 This title, referred to in subsec. (a)(2)(B), is title II of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 19, which enacted this subchapter and amended and enacted provisions set out as notes under several sections within this title. For complete classification of title II to the Code, see Tables.
 
-Section 202, referred to in subsec. (a)(5), is section 202 of Pub. L. 103–182, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to section 3332 of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Section 202, referred to in subsec. (a)(5), is section 202 of Pub. L. 103–182, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to section 3332 of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 The amendments made by this section, referred to in subsec. (d), mean the amendments made by section 203(b) and (c) of Pub. L. 103–182, which amended sections 81c, 1311 to 1313, and 1562 of this title.
 
 **Codification**
 
-Subsecs. (a), (d), and (e) of former section 3333 of this title, which were transferred and redesignated as subsecs. (a), (c), and (d), respectively, of this section by Pub. L. 116–113, § 501(b)(1), (2), (d)(1)–(3), were based on Pub. L. 103–182, title II, § 203(a), (d), (e), Dec. 8, 1993, 107 Stat. 2086, 2092.
+Subsecs. (a), (d), and (e) of former section 3333 of this title, which were transferred and redesignated as subsecs. (a), (c), and (d), respectively, of this section by Pub. L. 116–113, § 501(b)(1), (2), (d)(1)–(3), were based on Pub. L. 103–182, title II, § 203(a), (d), (e), Dec. 8, 1993, 107 Stat. 2086, 2092.
 
 **Amendments**
 
-2020—Pub. L. 116–113, § 501(a), struck out “[reserved]” after “Drawback” in section catchline.
+2020—Pub. L. 116–113, § 501(a), struck out “[reserved]” after “Drawback” in section catchline.
 
-Subsec. (a). Pub. L. 116–113, § 501(b)(3)(A)–(C), substituted “USMCA” for “NAFTA” in heading, struck out “and the amendments made by subsection (b)” after “of this Act” and substituted “USMCA drawback” for “NAFTA drawback” in introductory provisions, and substituted “USMCA country” for “NAFTA country” wherever appearing in pars. (1) to (5).
+Subsec. (a). Pub. L. 116–113, § 501(b)(3)(A)–(C), substituted “USMCA” for “NAFTA” in heading, struck out “and the amendments made by subsection (b)” after “of this Act” and substituted “USMCA drawback” for “NAFTA drawback” in introductory provisions, and substituted “USMCA country” for “NAFTA country” wherever appearing in pars. (1) to (5).
 
-Pub. L. 116–113, § 501(b)(1), (2), transferred subsec. (a) of section 3333 of this title to this section and inserted it after section catchline. See Codification note above.
+Pub. L. 116–113, § 501(b)(1), (2), transferred subsec. (a) of section 3333 of this title to this section and inserted it after section catchline. See Codification note above.
 
-Subsec. (a)(2)(A). Pub. L. 116–113, § 501(b)(3)(D)(i), inserted “sorting, marking,” after “repacking,”.
+Subsec. (a)(2)(A). Pub. L. 116–113, § 501(b)(3)(D)(i), inserted “sorting, marking,” after “repacking,”.
 
-Subsec. (a)(2)(B). Pub. L. 116–113, § 501(b)(3)(D)(ii), substituted “paragraph 11 of Annex 3–B of the USMCA” for “paragraph 12 of section A of Annex 703.2 of the Agreement”.
+Subsec. (a)(2)(B). Pub. L. 116–113, § 501(b)(3)(D)(ii), substituted “paragraph 11 of Annex 3–B of the USMCA” for “paragraph 12 of section A of Annex 703.2 of the Agreement”.
 
-Subsec. (a)(6). Pub. L. 116–113, § 501(b)(3)(E), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “A good provided for in subheading 1701.11.02 of the HTS that is—
+Subsec. (a)(6). Pub. L. 116–113, § 501(b)(3)(E), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “A good provided for in subheading 1701.11.02 of the HTS that is—
 
 “(A) used as a material, or
 
@@ -1621,17 +1621,17 @@ Subsec. (a)(6). Pub. L. 116–113, § 501(b)(3)(E), amended par. (6) generally
 
 in the production of a good provided for in existing Canadian tariff item 1701.99.00 or existing Mexican tariff item 1701.99.01 or 1701.99.99 (relating to refined sugar).”
 
-Subsec. (b). Pub. L. 116–113, § 501(c), added subpar. (b).
+Subsec. (b). Pub. L. 116–113, § 501(c), added subpar. (b).
 
-Subsec. (c). Pub. L. 116–113, § 501(d)(4), substituted “exported to a USMCA country.” for “exported to—
+Subsec. (c). Pub. L. 116–113, § 501(d)(4), substituted “exported to a USMCA country.” for “exported to—
 
 “(1) Canada after December 31, 1995, for so long as it is a NAFTA country; or
 
 “(2) Mexico after December 31, 2000, for so long as it is a NAFTA country.”
 
-Pub. L. 116–113, § 501(d)(1)–(3), transferred subsec. (d) of section 3333 of this title to this section, inserted it after subsec. (b), and redesignated it as subsec. (c). See Codification note above.
+Pub. L. 116–113, § 501(d)(1)–(3), transferred subsec. (d) of section 3333 of this title to this section, inserted it after subsec. (b), and redesignated it as subsec. (c). See Codification note above.
 
-Subsec. (d). Pub. L. 116–113, § 501(d)(1)–(3), transferred subsec. (e) of section 3333 of this title to this section, inserted it after subsec. (c), and redesignated it as subsec. (d). See Codification note above.
+Subsec. (d). Pub. L. 116–113, § 501(d)(1)–(3), transferred subsec. (e) of section 3333 of this title to this section, inserted it after subsec. (c), and redesignated it as subsec. (d). See Codification note above.
 
 Subsec. (e). Pub. L. 116–260 added subsec. (e).
 
@@ -1643,21 +1643,21 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div
 
 Amendment by section 501(b) to (d) of Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under section 81c of this title.
 
-### § 4535. Regulations
+### § 4535. Regulations
 
 **(a) Secretary of the Treasury**
 
-The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out this title 1
+The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-and the amendments made by this title 1 (except as provided by subsection (b)).
+and the amendments made by this title 1 (except as provided by subsection (b)).
 
 **(b) Secretary of Labor**
 
 The Secretary of Labor shall prescribe such regulations as may be necessary to carry out the labor value content determination under section 4532 of this title.
 
-(Pub. L. 116–113, title II, § 210, Jan. 29, 2020, 134 Stat. 53.)
+(Pub. L. 116–113, title II, § 210, Jan. 29, 2020, 134 Stat. 53.)
 
 **Editorial Notes**
 
@@ -1673,9 +1673,9 @@ This title, referred to in subsec. (a), is title II of Pub. L. 116–113, Jan. 2
 
 **Codification**
 
-Pub. L. 116–113, title V, § 502(a), (d), Jan. 29, 2020, 134 Stat. 70, struck out “[reserved]” at end of part heading and reenacted part heading without change.
+Pub. L. 116–113, title V, § 502(a), (d), Jan. 29, 2020, 134 Stat. 70, struck out “[reserved]” at end of part heading and reenacted part heading without change.
 
-#### § 4551. USMCA article impact in import relief cases under Trade Act of 1974
+#### § 4551. USMCA article impact in import relief cases under Trade Act of 1974
 
 **(a) In general** If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 [19 U.S.C. 2251 et seq.], the International Trade Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 1330(d) of this title), the International Trade Commission shall also find (and report to the President at the time such injury determination is submitted to the President) whether—
 
@@ -1697,13 +1697,13 @@ In determining whether imports from a USMCA country or countries contribute impo
 
 For purposes of this section and section 4552(a) of this title, the term “contribute importantly” refers to an important cause, but not necessarily the most important cause.
 
-(Pub. L. 116–113, title III, § 301, formerly Pub. L. 103–182, title III, § 311, Dec. 8, 1993, 107 Stat. 2106; renumbered § 301 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 502(b), Jan. 29, 2020, 134 Stat. 70.)
+(Pub. L. 116–113, title III, § 301, formerly Pub. L. 103–182, title III, § 311, Dec. 8, 1993, 107 Stat. 2106; renumbered § 301 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 502(b), Jan. 29, 2020, 134 Stat. 70.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Codification**
 
@@ -1711,15 +1711,15 @@ Section was formerly classified to section 3371 of this title prior to renumberi
 
 **Amendments**
 
-2020—Pub. L. 116–113, § 502(b)(4)(A), (C), substituted “USMCA” for “NAFTA” in section catchline and wherever appearing in text.
+2020—Pub. L. 116–113, § 502(b)(4)(A), (C), substituted “USMCA” for “NAFTA” in section catchline and wherever appearing in text.
 
-Subsec. (c). Pub. L. 116–113, § 502(b)(4)(B), substituted “section 4552(a) of this title” for “section 3372(a) of this title”.
+Subsec. (c). Pub. L. 116–113, § 502(b)(4)(B), substituted “section 4552(a) of this title” for “section 3372(a) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–113, title V, § 502(e), Jan. 29, 2020, 134 Stat. 70, provided that:
+Pub. L. 116–113, title V, § 502(e), Jan. 29, 2020, 134 Stat. 70, provided that:
 
 > **“(1) In general.—** Each transfer, redesignation, and amendment made by this section [transferring sections 3371 and 3372 of this title, respectively, to and amending this section and section 4552 of this title] shall—
 
@@ -1735,7 +1735,7 @@ Pub. L. 116–113, title V, § 502(e), Jan. 29, 2020, 134 Stat. 70, provided t
 
 [For definition of “USMCA” as used in section 502(e) of Pub. L. 116–113, set out above, see section 4502 of this title.]
 
-#### § 4552. Presidential action regarding USMCA imports
+#### § 4552. Presidential action regarding USMCA imports
 
 **(a) In general** In determining whether to take action under chapter 1 of title II of the Trade Act of 1974 [19 U.S.C. 2251 et seq.] with respect to imports from a USMCA country, the President shall determine whether—
 
@@ -1767,13 +1767,13 @@ For purposes of this subsection, the term “surge” means a significant increa
 
 Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article, with allowance for reasonable growth.
 
-(Pub. L. 116–113, title III, § 302, formerly Pub. L. 103–182, title III, § 312, Dec. 8, 1993, 107 Stat. 2107; renumbered § 302 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 502(c), Jan. 29, 2020, 134 Stat. 70.)
+(Pub. L. 116–113, title III, § 302, formerly Pub. L. 103–182, title III, § 312, Dec. 8, 1993, 107 Stat. 2107; renumbered § 302 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 502(c), Jan. 29, 2020, 134 Stat. 70.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trade Act of 1974, referred to in subsecs. (a) to (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (a) to (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Codification**
 
@@ -1781,7 +1781,7 @@ Section was formerly classified to section 3372 of this title prior to renumberi
 
 **Amendments**
 
-2020—Pub. L. 116–113, § 502(c)(4), substituted “USMCA” for “NAFTA” in section catchline, subsec. (b) and (c) headings, and wherever appearing in text.
+2020—Pub. L. 116–113, § 502(c)(4), substituted “USMCA” for “NAFTA” in section catchline, subsec. (b) and (c) headings, and wherever appearing in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1795,19 +1795,19 @@ Transfer to and amendment of this section by Pub. L. 116–113 effective on the 
 
 **Codification**
 
-Pub. L. 116–113, title V, § 503(a), (e), Jan. 29, 2020, 134 Stat. 71, 72, struck out “[reserved]” at end of part heading and reenacted part heading without change.
+Pub. L. 116–113, title V, § 503(a), (e), Jan. 29, 2020, 134 Stat. 71, 72, struck out “[reserved]” at end of part heading and reenacted part heading without change.
 
-#### § 4561. Temporary entry
+#### § 4561. Temporary entry
 
 Upon a basis of reciprocity secured by the USMCA, an alien who is a citizen of Canada or Mexico, and the spouse and children of any such alien if accompanying or following to join such alien, may, if otherwise eligible for a visa and if otherwise admissible into the United States under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), be considered to be classifiable as a nonimmigrant under section 101(a)(15)(E) of such Act (8 U.S.C. 1101(a)(15)(E)) if entering solely for a purpose specified in Section B of Annex 16–A of the USMCA, but only if any such purpose shall have been specified in such Annex on the date of entry into force of the USMCA. For purposes of this section, the term “citizen of Mexico” means “citizen” as defined in article 16.1 of the USMCA.
 
-(Pub. L. 116–113, title III, § 311, formerly Pub. L. 103–182, title III, § 341(a), Dec. 8, 1993, 107 Stat. 2116; renumbered § 311 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 503(b), Jan. 29, 2020, 134 Stat. 71.)
+(Pub. L. 116–113, title III, § 311, formerly Pub. L. 103–182, title III, § 341(a), Dec. 8, 1993, 107 Stat. 2116; renumbered § 311 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 503(b), Jan. 29, 2020, 134 Stat. 71.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Codification**
 
@@ -1815,9 +1815,9 @@ Section was formerly classified to section 3401 of this title and section 1184 o
 
 **Amendments**
 
-2020—Pub. L. 116–113, § 503(b)(4)(C)–(E), substituted “the USMCA” for “the Agreement” wherever appearing, “Annex 16–A” for “Annex 1603”, and “article 16.1” for “Annex 1608”.
+2020—Pub. L. 116–113, § 503(b)(4)(C)–(E), substituted “the USMCA” for “the Agreement” wherever appearing, “Annex 16–A” for “Annex 1603”, and “article 16.1” for “Annex 1608”.
 
-Pub. L. 116–113, § 503(b)(4)(A), (B), in original Act, struck out subsec. (a) designation and heading “Nonimmigrant Traders and Investors.—” before “Upon a basis” and struck out subsecs. (b) and (c), which had amended section 1184 of Title 8, Aliens and Nationality, resulting in no change to the text of this section.
+Pub. L. 116–113, § 503(b)(4)(A), (B), in original Act, struck out subsec. (a) designation and heading “Nonimmigrant Traders and Investors.—” before “Upon a basis” and struck out subsecs. (b) and (c), which had amended section 1184 of Title 8, Aliens and Nationality, resulting in no change to the text of this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1827,11 +1827,11 @@ Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force
 
 **Effective Date**
 
-Pub. L. 103–182, title III, § 342, Dec. 8, 1993, 107 Stat. 2118, which provided that the provisions of subtitle D (§§ 341, 342) of title III of Pub. L. 103–182 (enacting this section and amending section 1184 of Title 8, Aliens and Nationality) took effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title III, § 342, Dec. 8, 1993, 107 Stat. 2118, which provided that the provisions of subtitle D (§§ 341, 342) of title III of Pub. L. 103–182 (enacting this section and amending section 1184 of Title 8, Aliens and Nationality) took effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 ### Part C—United States-Mexico Cross-Border Long-Haul Trucking Services
 
-#### § 4571. Definitions
+#### § 4571. Definitions
 
 In this part:
 
@@ -1907,15 +1907,15 @@ The term “threat of material harm” means material harm that is likely to occ
 
 **(B)** United States suppliers, operators, or drivers providing cross-border long-haul trucking services in a specific sub-market of the whole United States market.
 
-(Pub. L. 116–113, title III, § 321, Jan. 29, 2020, 134 Stat. 54.)
+(Pub. L. 116–113, title III, § 321, Jan. 29, 2020, 134 Stat. 54.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 321–327) of title III of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 54, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 321–327) of title III of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 54, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see Tables.
 
-#### § 4572. Investigations and determinations by Commission
+#### § 4572. Investigations and determinations by Commission
 
 **(a) Investigation** Upon the filing of a petition by an interested party described in subparagraph (A), (B), or (C) of section 4571(8) of this title which is representative of a United States long-haul trucking services industry, or at the request of the President or the Trade Representative, or upon the resolution of the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, the International Trade Commission (in this part referred to as the “Commission”) shall promptly initiate an investigation to determine—
 
@@ -1979,15 +1979,15 @@ If, before the 100th day after an investigation is initiated under subsection (a
 
 For purposes of this part, the provisions of paragraphs (1), (2), and (3) of section 1330(d) of this title shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 2252 of this title.
 
-(Pub. L. 116–113, title III, § 322, Jan. 29, 2020, 134 Stat. 55.)
+(Pub. L. 116–113, title III, § 322, Jan. 29, 2020, 134 Stat. 55.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in subsecs. (a), (e)(2)(B), and (h), was in the original “this subtitle”, meaning subtitle C (§§ 321–327) of title III of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 54, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsecs. (a), (e)(2)(B), and (h), was in the original “this subtitle”, meaning subtitle C (§§ 321–327) of title III of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 54, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see Tables.
 
-#### § 4573. Commission recommendations and report
+#### § 4573. Commission recommendations and report
 
 **(a) In general**
 
@@ -2011,9 +2011,9 @@ Only those members of the Commission who agreed to the affirmative determination
 
 **(2)** publish a summary of the report in the Federal Register.
 
-(Pub. L. 116–113, title III, § 323, Jan. 29, 2020, 134 Stat. 57.)
+(Pub. L. 116–113, title III, § 323, Jan. 29, 2020, 134 Stat. 57.)
 
-#### § 4574. Action by President with respect to affirmative determination
+#### § 4574. Action by President with respect to affirmative determination
 
 **(a) In general** Not later than the date that is 30 days after the date on which the President receives a report of the Commission in which the Commission’s determination under section 4572 of this title is affirmative or which contains a determination that the President may treat as affirmative in accordance with section 1330(d)(1) of this title—
 
@@ -2093,13 +2093,13 @@ Clause (i) shall not apply with respect to an investigation if the Commission de
 
 The Commission and the Secretary of Transportation are authorized to promulgate such rules and regulations as may be necessary to carry out this part.
 
-(Pub. L. 116–113, title III, § 324, Jan. 29, 2020, 134 Stat. 58.)
+(Pub. L. 116–113, title III, § 324, Jan. 29, 2020, 134 Stat. 58.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in subsec. (e), was in the original “this subtitle”, meaning subtitle C (§§ 321–327) of title III of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 54, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsec. (e), was in the original “this subtitle”, meaning subtitle C (§§ 321–327) of title III of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 54, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see Tables.
 
 **Executive Documents**
 
@@ -2111,11 +2111,11 @@ Proc. No. 10053, par. (13), June 29, 2020, 85 F.R. 39826, authorized the United 
 
 ### Part A—Dispute Settlement
 
-#### § 4581. References in part
+#### § 4581. References in part
 
 Any reference in this part to an Annex, chapter, or article shall be considered to be a reference to the respective Annex, chapter, or article of the USMCA.
 
-(Pub. L. 116–113, title IV, § 411, formerly Pub. L. 103–182, title IV, § 401, Dec. 8, 1993, 107 Stat. 2129; renumbered § 411 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(b), Jan. 29, 2020, 134 Stat. 72.)
+(Pub. L. 116–113, title IV, § 411, formerly Pub. L. 103–182, title IV, § 401, Dec. 8, 1993, 107 Stat. 2129; renumbered § 411 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(b), Jan. 29, 2020, 134 Stat. 72.)
 
 **Editorial Notes**
 
@@ -2125,13 +2125,13 @@ Section was formerly classified to section 3431 of this title prior to renumberi
 
 **Amendments**
 
-2020—Pub. L. 116–113, § 504(b)(3), substituted “the USMCA” for “the Agreement”.
+2020—Pub. L. 116–113, § 504(b)(3), substituted “the USMCA” for “the Agreement”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–113, title V, § 504(k), Jan. 29, 2020, 134 Stat. 76, provided that:
+Pub. L. 116–113, title V, § 504(k), Jan. 29, 2020, 134 Stat. 76, provided that:
 
 > **“(1) In general.—** Each transfer, redesignation, and amendment made by this section [transferring sections 3431 to 3438 of this title, respectively, to and amending sections 4581 to 4588 of this title] shall take effect on the date on which the USMCA enters into force [July 1, 2020], but shall not apply—
 
@@ -2147,7 +2147,7 @@ Pub. L. 116–113, title V, § 504(k), Jan. 29, 2020, 134 Stat. 76, provided t
 
 [For definition of “USMCA” as used in section 504(k) of Pub. L. 116–113, set out above, see section 4502 of this title.]
 
-#### § 4582. Organizational and administrative provisions
+#### § 4582. Organizational and administrative provisions
 
 **(a) Criteria for selection of individuals to serve on panels and committees**
 
@@ -2211,9 +2211,9 @@ This subsection applies only with respect to the selection of individuals for bi
 
 **(ii)** if the Trade Representative makes a request under paragraph (4)(C)(i) with respect to a final candidate list during any calendar year, prepare by July 1 of such calendar year a list of those individuals who are qualified to be added to that final candidate list;
 
-**(iii)** exercise oversight of the administration of the United States Section that is authorized to be established under section 105; 1
+**(iii)** exercise oversight of the administration of the United States Section that is authorized to be established under section 105; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -2349,15 +2349,15 @@ The administering authority under title VII of the Tariff Act of 1930 [19 U.S.C.
 
 At such time as the final candidate lists are submitted under subsection (c)(4)(A) and the final forms of amendments are submitted under subsection (c)(4)(C)(iv), the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 10.
 
-(Pub. L. 116–113, title IV, § 412, formerly Pub. L. 103–182, title IV, § 402, Dec. 8, 1993, 107 Stat. 2129; Pub. L. 104–295, § 21(c)(1), Oct. 11, 1996, 110 Stat. 3530; renumbered § 412 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(c), Jan. 29, 2020, 134 Stat. 73.)
+(Pub. L. 116–113, title IV, § 412, formerly Pub. L. 103–182, title IV, § 402, Dec. 8, 1993, 107 Stat. 2129; Pub. L. 104–295, § 21(c)(1), Oct. 11, 1996, 110 Stat. 3530; renumbered § 412 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(c), Jan. 29, 2020, 134 Stat. 73.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 105, referred to in subsec. (c)(2)(B)(3), is section 105 of Pub. L. 103–182, title I, Dec. 8, 1993, 107 Stat. 2064, which was classified to section 3315 of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date on which the USMCA entered into force (July 1, 2020), and which related to the United States Section of NAFTA Secretariat. See section 4515(a) of this title.
+Section 105, referred to in subsec. (c)(2)(B)(3), is section 105 of Pub. L. 103–182, title I, Dec. 8, 1993, 107 Stat. 2064, which was classified to section 3315 of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date on which the USMCA entered into force (July 1, 2020), and which related to the United States Section of NAFTA Secretariat. See section 4515(a) of this title.
 
-The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 **Codification**
 
@@ -2365,51 +2365,51 @@ Section was formerly classified to section 3432 of this title prior to renumberi
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–113, § 504(c)(3)(A)(i)(III), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13” in concluding provisions.
+2020—Subsec. (a)(1). Pub. L. 116–113, § 504(c)(3)(A)(i)(III), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13” in concluding provisions.
 
-Subsec. (a)(1)(D). Pub. L. 116–113, § 504(c)(3)(A)(i)(I), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3; and” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; and”.
+Subsec. (a)(1)(D). Pub. L. 116–113, § 504(c)(3)(A)(i)(I), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3; and” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; and”.
 
-Subsec. (a)(1)(E). Pub. L. 116–113, § 504(c)(3)(A)(i)(II), substituted “chapter 10” for “chapter 19”.
+Subsec. (a)(1)(E). Pub. L. 116–113, § 504(c)(3)(A)(i)(II), substituted “chapter 10” for “chapter 19”.
 
-Subsec. (a)(2). Pub. L. 116–113, § 504(c)(3)(A)(ii), in heading, struck out “under paragraph 1 of Annex 1901.2” after “appointments” and, in text, substituted “paragraph 1 of Annex 10–B.1” for “paragraph 1 of Annex 1901.2”, “chapter 10” for “chapter 19” in two places, and “article 10.13” for “article 1905”.
+Subsec. (a)(2). Pub. L. 116–113, § 504(c)(3)(A)(ii), in heading, struck out “under paragraph 1 of Annex 1901.2” after “appointments” and, in text, substituted “paragraph 1 of Annex 10–B.1” for “paragraph 1 of Annex 1901.2”, “chapter 10” for “chapter 19” in two places, and “article 10.13” for “article 1905”.
 
-Subsec. (b)(1). Pub. L. 116–113, § 504(c)(3)(B), substituted “chapter 10” for “chapter 19” in two places and substituted “article 10.13” for “article 1905”.
+Subsec. (b)(1). Pub. L. 116–113, § 504(c)(3)(B), substituted “chapter 10” for “chapter 19” in two places and substituted “article 10.13” for “article 1905”.
 
-Subsec. (c)(1). Pub. L. 116–113, § 504(c)(3)(C)(i), substituted “chapter 10” for “chapter 19” in two places and substituted “article 10.13” for “article 1905”.
+Subsec. (c)(1). Pub. L. 116–113, § 504(c)(3)(C)(i), substituted “chapter 10” for “chapter 19” in two places and substituted “article 10.13” for “article 1905”.
 
-Subsec. (c)(2)(B). Pub. L. 116–113, § 504(c)(3)(C)(ii), substituted “chapter 10” for “chapter 19” wherever appearing and substituted “article 10.13” for “article 1905” in cl. (i)(II).
+Subsec. (c)(2)(B). Pub. L. 116–113, § 504(c)(3)(C)(ii), substituted “chapter 10” for “chapter 19” wherever appearing and substituted “article 10.13” for “article 1905” in cl. (i)(II).
 
-Subsec. (c)(3)(A)(i). Pub. L. 116–113, § 504(c)(3)(C)(iii)(I), substituted “Annex 10–B.1” for “Annex 1901.2”.
+Subsec. (c)(3)(A)(i). Pub. L. 116–113, § 504(c)(3)(C)(iii)(I), substituted “Annex 10–B.1” for “Annex 1901.2”.
 
-Subsec. (c)(3)(A)(ii). Pub. L. 116–113, § 504(c)(3)(C)(iii)(II), substituted “under Annex 10–B.3 and special committees under article 10.13.” for “under Annex 1904.13 and special committees under article 1905.”
+Subsec. (c)(3)(A)(ii). Pub. L. 116–113, § 504(c)(3)(C)(iii)(II), substituted “under Annex 10–B.3 and special committees under article 10.13.” for “under Annex 1904.13 and special committees under article 1905.”
 
-Subsec. (c)(3)(B)(i). Pub. L. 116–113, § 504(c)(3)(C)(iii)(III), substituted “chapter 10” for “chapter 19”.
+Subsec. (c)(3)(B)(i). Pub. L. 116–113, § 504(c)(3)(C)(iii)(III), substituted “chapter 10” for “chapter 19”.
 
-Subsec. (c)(4)(A). Pub. L. 116–113, § 504(c)(3)(C)(iv)(I), substituted “chapter 10” for “chapter 19”.
+Subsec. (c)(4)(A). Pub. L. 116–113, § 504(c)(3)(C)(iv)(I), substituted “chapter 10” for “chapter 19”.
 
-Subsec. (c)(4)(C)(iv)(III). Pub. L. 116–113, § 504(c)(3)(C)(iv)(II), substituted “chapter 10” for “chapter 19”.
+Subsec. (c)(4)(C)(iv)(III). Pub. L. 116–113, § 504(c)(3)(C)(iv)(II), substituted “chapter 10” for “chapter 19”.
 
-Subsec. (d)(1)(A). Pub. L. 116–113, § 504(c)(3)(D)(i)(I), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3; or” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; or”.
+Subsec. (d)(1)(A). Pub. L. 116–113, § 504(c)(3)(D)(i)(I), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3; or” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; or”.
 
-Subsec. (d)(1)(B). Pub. L. 116–113, § 504(c)(3)(D)(i)(II), substituted “chapter 10” for “chapter 19”.
+Subsec. (d)(1)(B). Pub. L. 116–113, § 504(c)(3)(D)(i)(II), substituted “chapter 10” for “chapter 19”.
 
-Subsec. (d)(2)(A)(i). Pub. L. 116–113, § 504(c)(3)(D)(ii)(I), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3 during” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13 during”.
+Subsec. (d)(2)(A)(i). Pub. L. 116–113, § 504(c)(3)(D)(ii)(I), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3 during” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13 during”.
 
-Subsec. (d)(2)(A)(ii). Pub. L. 116–113, § 504(c)(3)(D)(ii)(II), substituted “chapter 10” for “chapter 19” and “the USMCA” for “the Agreement”.
+Subsec. (d)(2)(A)(ii). Pub. L. 116–113, § 504(c)(3)(D)(ii)(II), substituted “chapter 10” for “chapter 19” and “the USMCA” for “the Agreement”.
 
-Subsec. (d)(2)(A)(iii). Pub. L. 116–113, § 504(c)(3)(D)(ii)(III), substituted “USMCA” for “NAFTA”.
+Subsec. (d)(2)(A)(iii). Pub. L. 116–113, § 504(c)(3)(D)(ii)(III), substituted “USMCA” for “NAFTA”.
 
-Subsec. (d)(2)(B)(i). Pub. L. 116–113, § 504(c)(3)(D)(ii)(IV), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3; or” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; or”.
+Subsec. (d)(2)(B)(i). Pub. L. 116–113, § 504(c)(3)(D)(ii)(IV), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3; or” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; or”.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 116–113, § 504(c)(3)(D)(ii)(V), substituted “chapter 10” for “chapter 19”.
+Subsec. (d)(2)(B)(ii). Pub. L. 116–113, § 504(c)(3)(D)(ii)(V), substituted “chapter 10” for “chapter 19”.
 
-Subsec. (d)(3)(A). Pub. L. 116–113, § 504(c)(3)(D)(iii)(I), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3 during” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13 during”.
+Subsec. (d)(3)(A). Pub. L. 116–113, § 504(c)(3)(D)(iii)(I), substituted “in paragraph 1 of Annex 10–B.1 and paragraph 1 of Annex 10–B.3 during” for “in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13 during”.
 
-Subsec. (d)(3)(B). Pub. L. 116–113, § 504(c)(3)(D)(iii)(II), substituted “chapter 10” for “chapter 19”.
+Subsec. (d)(3)(B). Pub. L. 116–113, § 504(c)(3)(D)(iii)(II), substituted “chapter 10” for “chapter 19”.
 
-Subsec. (e). Pub. L. 116–113, § 504(c)(3)(E), substituted “If the USMCA enters into force after January 3, 2020” for “If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994” in introductory provisions.
+Subsec. (e). Pub. L. 116–113, § 504(c)(3)(E), substituted “If the USMCA enters into force after January 3, 2020” for “If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994” in introductory provisions.
 
-Subsecs. (f) to (h). Pub. L. 116–113, § 504(c)(3)(F)–(H), substituted “chapter 10” for “chapter 19”.
+Subsecs. (f) to (h). Pub. L. 116–113, § 504(c)(3)(F)–(H), substituted “chapter 10” for “chapter 19”.
 
 1996—Subsec. (d)(3). Pub. L. 104–295 substituted “subsection (c)(4)” for “(c)(4)” in introductory provisions.
 
@@ -2419,7 +2419,7 @@ Subsecs. (f) to (h). Pub. L. 116–113, § 504(c)(3)(F)–(H), substituted “
 
 Transfer to and amendment of this section by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 504(k) of Pub. L. 116–113, set out as a note under section 4581 of this title.
 
-#### § 4583. Testimony and production of papers in extraordinary challenges
+#### § 4583. Testimony and production of papers in extraordinary challenges
 
 **(a) Authority of extraordinary challenge committee to obtain information** If an extraordinary challenge committee (hereafter in this section referred to as the “committee”) is convened under paragraph 13 of article 10.12, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 10.12, for the purposes of carrying out its functions and duties under Annex 10–B.3, the committee—
 
@@ -2445,7 +2445,7 @@ Any court referred to in subsection (b) shall have jurisdiction to issue writs o
 
 The committee may order testimony to be taken by deposition at any stage of the committee review. Such deposition may be taken before any person designated by the committee and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under the direction of such person, and shall then be subscribed by the deponent. Any individual, partnership, corporation, association, organization, or other entity may be compelled to appear and be deposed and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the committee, as provided in this section.
 
-(Pub. L. 116–113, title IV, § 413, formerly Pub. L. 103–182, title IV, § 403, Dec. 8, 1993, 107 Stat. 2136; renumbered § 413 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(d), Jan. 29, 2020, 134 Stat. 74.)
+(Pub. L. 116–113, title IV, § 413, formerly Pub. L. 103–182, title IV, § 403, Dec. 8, 1993, 107 Stat. 2136; renumbered § 413 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(d), Jan. 29, 2020, 134 Stat. 74.)
 
 **Editorial Notes**
 
@@ -2455,7 +2455,7 @@ Section was formerly classified to section 3433 of this title prior to renumberi
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–113, § 504(d)(3), in introductory provisions, substituted “under paragraph 13 of article 10.12, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 10.12, for the purposes of carrying out its functions and duties under Annex 10–B.3, the committee—” for “under paragraph 13 of article 1904, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 1904, for the purposes of carrying out its functions and duties under Annex 1904.13, the committee—”.
+2020—Subsec. (a). Pub. L. 116–113, § 504(d)(3), in introductory provisions, substituted “under paragraph 13 of article 10.12, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 10.12, for the purposes of carrying out its functions and duties under Annex 10–B.3, the committee—” for “under paragraph 13 of article 1904, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 1904, for the purposes of carrying out its functions and duties under Annex 1904.13, the committee—”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2463,7 +2463,7 @@ Section was formerly classified to section 3433 of this title prior to renumberi
 
 Transfer to and amendment of this section by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 504(k) of Pub. L. 116–113, set out as a note under section 4581 of this title.
 
-#### § 4584. Requests for review of determinations by competent investigating authorities
+#### § 4584. Requests for review of determinations by competent investigating authorities
 
 **(a) Definitions** As used in this section:
 
@@ -2487,7 +2487,7 @@ In the case of a final determination of a competent investigating authority, a p
 
 Whenever binational panel review of a final determination made by a competent investigating authority is requested under this section, the United States Secretary shall serve a copy of the request on all persons who would otherwise be entitled under the law of the importing country to commence proceedings for judicial review of the determination.
 
-(Pub. L. 116–113, title IV, § 414, formerly Pub. L. 103–182, title IV, § 404, Dec. 8, 1993, 107 Stat. 2137; renumbered § 414 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(e), Jan. 29, 2020, 134 Stat. 75.)
+(Pub. L. 116–113, title IV, § 414, formerly Pub. L. 103–182, title IV, § 404, Dec. 8, 1993, 107 Stat. 2137; renumbered § 414 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(e), Jan. 29, 2020, 134 Stat. 75.)
 
 **Editorial Notes**
 
@@ -2497,15 +2497,15 @@ Section was formerly classified to section 3434 of this title prior to renumberi
 
 **Amendments**
 
-2020—Pub. L. 116–113, § 504(e)(3)(A), struck out “of NAFTA countries” after “authorities” in section catchline.
+2020—Pub. L. 116–113, § 504(e)(3)(A), struck out “of NAFTA countries” after “authorities” in section catchline.
 
-Subsec. (a)(1). Pub. L. 116–113, § 504(e)(3)(B)(i), substituted “article 10.8, of a USMCA country.” for “article 1911, of a NAFTA country.”
+Subsec. (a)(1). Pub. L. 116–113, § 504(e)(3)(B)(i), substituted “article 10.8, of a USMCA country.” for “article 1911, of a NAFTA country.”
 
-Subsec. (a)(2). Pub. L. 116–113, § 504(e)(3)(B)(ii), substituted “article 10.16” for “article 1908”.
+Subsec. (a)(2). Pub. L. 116–113, § 504(e)(3)(B)(ii), substituted “article 10.16” for “article 1908”.
 
-Subsec. (b). Pub. L. 116–113, § 504(e)(3)(C), substituted “article 10.12” for “article 1904”.
+Subsec. (b). Pub. L. 116–113, § 504(e)(3)(C), substituted “article 10.12” for “article 1904”.
 
-Subsec. (c). Pub. L. 116–113, § 504(e)(3)(D), substituted “article 10.12” for “article 1904” wherever appearing.
+Subsec. (c). Pub. L. 116–113, § 504(e)(3)(D), substituted “article 10.12” for “article 1904” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2513,7 +2513,7 @@ Subsec. (c). Pub. L. 116–113, § 504(e)(3)(D), substituted “article 10.12�
 
 Transfer to and amendment of this section by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 504(k) of Pub. L. 116–113, set out as a note under section 4581 of this title.
 
-#### § 4585. Rules of procedure for panels and committees
+#### § 4585. Rules of procedure for panels and committees
 
 **(a) Rules of procedure for binational panels** The administering authority shall prescribe rules, negotiated in accordance with paragraph 14 of article 10.12, governing, with respect to binational panel reviews—
 
@@ -2541,7 +2541,7 @@ The rules prescribed under subsections (a), (b), and (c) shall be published in t
 
 As used in this section, the term “administering authority” has the meaning given such term in section 1677(1) of this title.
 
-(Pub. L. 116–113, title IV, § 415, formerly Pub. L. 103–182, title IV, § 405, Dec. 8, 1993, 107 Stat. 2137; renumbered § 415 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(f), Jan. 29, 2020, 134 Stat. 75.)
+(Pub. L. 116–113, title IV, § 415, formerly Pub. L. 103–182, title IV, § 405, Dec. 8, 1993, 107 Stat. 2137; renumbered § 415 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(f), Jan. 29, 2020, 134 Stat. 75.)
 
 **Editorial Notes**
 
@@ -2551,11 +2551,11 @@ Section was formerly classified to section 3435 of this title prior to renumberi
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–113, § 504(f)(3)(A), substituted “article 10.12” for “article 1904” in introductory provisions.
+2020—Subsec. (a). Pub. L. 116–113, § 504(f)(3)(A), substituted “article 10.12” for “article 1904” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–113, § 504(f)(3)(B), substituted “Annex 10–B.3” for “Annex 1904.13”.
+Subsec. (b). Pub. L. 116–113, § 504(f)(3)(B), substituted “Annex 10–B.3” for “Annex 1904.13”.
 
-Subsec. (c). Pub. L. 116–113, § 504(f)(3)(C), substituted “Annex 10–B.4” for “Annex 1905.6”.
+Subsec. (c). Pub. L. 116–113, § 504(f)(3)(C), substituted “Annex 10–B.4” for “Annex 1905.6”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2563,7 +2563,7 @@ Subsec. (c). Pub. L. 116–113, § 504(f)(3)(C), substituted “Annex 10–B.4
 
 Transfer to and amendment of this section by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 504(k) of Pub. L. 116–113, set out as a note under section 4581 of this title.
 
-#### § 4586. Subsidy negotiations
+#### § 4586. Subsidy negotiations
 
 In the case of any trade agreement which may be entered into by the President with a USMCA country, the negotiating objectives of the United States with respect to subsidies shall include—
 
@@ -2581,7 +2581,7 @@ In the case of any trade agreement which may be entered into by the President wi
 
 **(3)** maintenance of effective remedies against subsidized imports, including, where appropriate, countervailing duties.
 
-(Pub. L. 116–113, title IV, § 416, formerly Pub. L. 103–182, title IV, § 406, Dec. 8, 1993, 107 Stat. 2138; renumbered § 416 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(g), Jan. 29, 2020, 134 Stat. 75.)
+(Pub. L. 116–113, title IV, § 416, formerly Pub. L. 103–182, title IV, § 406, Dec. 8, 1993, 107 Stat. 2138; renumbered § 416 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(g), Jan. 29, 2020, 134 Stat. 75.)
 
 **Editorial Notes**
 
@@ -2591,7 +2591,7 @@ Section was formerly classified to section 3436 of this title prior to renumberi
 
 **Amendments**
 
-2020—Pub. L. 116–113, § 504(g)(3), substituted “USMCA country” for “NAFTA country” in introductory provisions.
+2020—Pub. L. 116–113, § 504(g)(3), substituted “USMCA country” for “NAFTA country” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2599,7 +2599,7 @@ Section was formerly classified to section 3436 of this title prior to renumberi
 
 Transfer to and amendment of this section by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 504(k) of Pub. L. 116–113, set out as a note under section 4581 of this title.
 
-#### § 4587. Identification of industries facing subsidized imports
+#### § 4587. Identification of industries facing subsidized imports
 
 **(a) Petitions** Any entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of a United States industry and has reason to believe—
 
@@ -2661,13 +2661,13 @@ In the event an investigation is initiated under section 2412(c) of this title a
 
 Nothing in this section may be construed to alter in any manner the requirements in effect before January 29, 2020, for standing under any law of the United States or to add any additional requirements for standing under any law of the United States.
 
-(Pub. L. 116–113, title IV, § 417, formerly Pub. L. 103–182, title IV, § 407, Dec. 8, 1993, 107 Stat. 2138; Pub. L. 104–295, § 21(c)(2), Oct. 11, 1996, 110 Stat. 3530; renumbered § 417 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(h), Jan. 29, 2020, 134 Stat. 75.)
+(Pub. L. 116–113, title IV, § 417, formerly Pub. L. 103–182, title IV, § 407, Dec. 8, 1993, 107 Stat. 2138; Pub. L. 104–295, § 21(c)(2), Oct. 11, 1996, 110 Stat. 3530; renumbered § 417 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(h), Jan. 29, 2020, 134 Stat. 75.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitle A of title VII of the Act is classified generally to part I (§ 1671 et seq.) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitle A of title VII of the Act is classified generally to part I (§ 1671 et seq.) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 **Codification**
 
@@ -2675,11 +2675,11 @@ Section was formerly classified to section 3437 of this title prior to renumberi
 
 **Amendments**
 
-2020—Subsec. (a)(1)(A). Pub. L. 116–113, § 504(h)(3)(A), substituted “the USMCA” for “the Agreement” and “USMCA country” for “NAFTA country”.
+2020—Subsec. (a)(1)(A). Pub. L. 116–113, § 504(h)(3)(A), substituted “the USMCA” for “the Agreement” and “USMCA country” for “NAFTA country”.
 
-Subsec. (c). Pub. L. 116–113, § 504(h)(3)(B), substituted “USMCA countries” for “NAFTA countries” in concluding provisions.
+Subsec. (c). Pub. L. 116–113, § 504(h)(3)(B), substituted “USMCA countries” for “NAFTA countries” in concluding provisions.
 
-Subsec. (d)(3). Pub. L. 116–113, § 504(h)(3)(C), substituted “the Agreement” for “the USMCA”.
+Subsec. (d)(3). Pub. L. 116–113, § 504(h)(3)(C), substituted “the Agreement” for “the USMCA”.
 
 1996—Subsec. (e)(2). Pub. L. 104–295 substituted semicolon for comma after “such a petition”.
 
@@ -2689,13 +2689,13 @@ Subsec. (d)(3). Pub. L. 116–113, § 504(h)(3)(C), substituted “the Agreeme
 
 Transfer to and amendment of this section by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 504(k) of Pub. L. 116–113, set out as a note under section 4581 of this title.
 
-#### § 4588. Treatment of amendments to antidumping and countervailing duty law
+#### § 4588. Treatment of amendments to antidumping and countervailing duty law
 
 Any amendment enacted after the USMCA that is made to—
 
-**(1)** section 303 1
+**(1)** section 303 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or title VII of the Tariff Act of 1930 [19 U.S.C. 1671 et seq.], or any successor statute, or
 
@@ -2707,13 +2707,13 @@ or title VII of the Tariff Act of 1930 [19 U.S.C. 1671 et seq.], or any successo
 
 shall apply to goods from a USMCA country only to the extent specified in the amendment.
 
-(Pub. L. 116–113, title IV, § 418, formerly Pub. L. 103–182, title IV, § 408, Dec. 8, 1993, 107 Stat. 2140; renumbered § 418 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(i), Jan. 29, 2020, 134 Stat. 76.)
+(Pub. L. 116–113, title IV, § 418, formerly Pub. L. 103–182, title IV, § 408, Dec. 8, 1993, 107 Stat. 2140; renumbered § 418 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(i), Jan. 29, 2020, 134 Stat. 76.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in par. (1), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Section 303 of the Act was classified to section 1303 of this title and was repealed, effective Jan. 1, 1995, by Pub. L. 103–465, title II, § 261(a), Dec. 8, 1994, 108 Stat. 4908. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of Pub. L. 103–465, set out as notes under former section 1303 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in par. (1), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Section 303 of the Act was classified to section 1303 of this title and was repealed, effective Jan. 1, 1995, by Pub. L. 103–465, title II, § 261(a), Dec. 8, 1994, 108 Stat. 4908. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of Pub. L. 103–465, set out as notes under former section 1303 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 **Codification**
 
@@ -2721,7 +2721,7 @@ Section was formerly classified to section 3438 of this title prior to renumberi
 
 **Amendments**
 
-2020—Pub. L. 116–113, § 504(i)(3), substituted “the USMCA” for “the Agreement enters into force with respect to the United States” in introductory provisions and “USMCA country” for “NAFTA country” in concluding provisions.
+2020—Pub. L. 116–113, § 504(i)(3), substituted “the USMCA” for “the Agreement enters into force with respect to the United States” in introductory provisions and “USMCA country” for “NAFTA country” in concluding provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2731,29 +2731,29 @@ Transfer to and amendment of this section by Pub. L. 116–113 effective on the 
 
 **Application of Amendments by Public Law 114–27 to Goods From Canada and Mexico**
 
-Pub. L. 114–27, title V, § 507, June 29, 2015, 129 Stat. 387, provided that: “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act ([former] 19 U.S.C. 3438), the amendments made by this title [see Short Title of 2015 Amendment note set out under section 1654 of this title] shall apply with respect to goods from Canada and Mexico.”
+Pub. L. 114–27, title V, § 507, June 29, 2015, 129 Stat. 387, provided that: “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act ([former] 19 U.S.C. 3438), the amendments made by this title [see Short Title of 2015 Amendment note set out under section 1654 of this title] shall apply with respect to goods from Canada and Mexico.”
 
 **Application of Amendments by Public Law 103–465 to Goods From Canada and Mexico**
 
-Pub. L. 103–465, title II, § 234, Dec. 8, 1994, 108 Stat. 4901, provided that: “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act [former 19 U.S.C. 3438], the amendments made by this title [see Tables for classification] shall apply with respect to goods from Canada and Mexico.”
+Pub. L. 103–465, title II, § 234, Dec. 8, 1994, 108 Stat. 4901, provided that: “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act [former 19 U.S.C. 3438], the amendments made by this title [see Tables for classification] shall apply with respect to goods from Canada and Mexico.”
 
 ### Part B—General Provisions
 
-#### § 4601. Effect of termination of USMCA country status
+#### § 4601. Effect of termination of USMCA country status
 
 **(a) In general**
 
-Except as provided in subsection (b), on the date on which a country ceases to be a USMCA country, the provisions of this title 1
+Except as provided in subsection (b), on the date on which a country ceases to be a USMCA country, the provisions of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(other than this section) and the amendments made by this title 1 shall cease to have effect with respect to that country.
+(other than this section) and the amendments made by this title 1 shall cease to have effect with respect to that country.
 
 **(b) Transition provisions**
 
 **(1) Proceedings regarding protective orders and undertakings**
 
-If on the date on which a country ceases to be a USMCA country an investigation or enforcement proceeding concerning the violation of a protective order issued under section 1677f(f) of this title (as amended by this title <sup>1</sup> ) or an undertaking of the government of that country is pending, the investigation or proceeding shall continue, and sanctions may continue to be imposed, in accordance with the provisions of such section 1677f(f) of this title (as so amended).
+If on the date on which a country ceases to be a USMCA country an investigation or enforcement proceeding concerning the violation of a protective order issued under section 1677f(f) of this title (as amended by this title <sup>1</sup> ) or an undertaking of the government of that country is pending, the investigation or proceeding shall continue, and sanctions may continue to be imposed, in accordance with the provisions of such section 1677f(f) of this title (as so amended).
 
 **(2) Binational panel and extraordinary challenge committee reviews** If on the date on which a country ceases to be a USMCA country—
 
@@ -2761,13 +2761,13 @@ If on the date on which a country ceases to be a USMCA country an investigation 
 
 **(B)** an extraordinary challenge committee review under that article is pending, or has been requested,
 
-with respect to a determination which involves a class or kind of merchandise and to which subsection (g)(2) of section 1516a of this title applies, such determination shall be reviewable under subsection (a) of that section. In the case of a determination to which the provisions of this paragraph apply, the time limits for commencing an action under 1516a(a) 2
+with respect to a determination which involves a class or kind of merchandise and to which subsection (g)(2) of section 1516a of this title applies, such determination shall be reviewable under subsection (a) of that section. In the case of a determination to which the provisions of this paragraph apply, the time limits for commencing an action under 1516a(a) 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
 of this title shall not begin to run until the date on which the USMCA ceases to be in force with respect to that country.
 
-(Pub. L. 116–113, title IV, § 431, Jan. 29, 2020, 134 Stat. 66.)
+(Pub. L. 116–113, title IV, § 431, Jan. 29, 2020, 134 Stat. 66.)
 
 **Editorial Notes**
 
@@ -2785,7 +2785,7 @@ Section effective on the date on which the USMCA enters into force (July 1, 2020
 
 ### Part A—Joint Reviews Regarding Extension of USMCA
 
-#### § 4611. Participation in joint reviews with Canada and Mexico regarding extension of the term of the USMCA and other action regarding the USMCA
+#### § 4611. Participation in joint reviews with Canada and Mexico regarding extension of the term of the USMCA and other action regarding the USMCA
 
 **(a) In general** Pursuant to the requirements of this section, the President shall consult with the appropriate congressional committees and stakeholders before each joint review, including consultation with respect to—
 
@@ -2845,7 +2845,7 @@ The term “joint review” means a review conducted under the process provided 
 
 The term “USMCA country” has the meaning given that term in section 4531(a) of this title.
 
-(Pub. L. 116–113, title VI, § 611, Jan. 29, 2020, 134 Stat. 79.)
+(Pub. L. 116–113, title VI, § 611, Jan. 29, 2020, 134 Stat. 79.)
 
 **Executive Documents**
 
@@ -2855,7 +2855,7 @@ Proc. No. 10053, par. (14), June 29, 2020, 85 F.R. 39826, authorized the United 
 
 ### Part B—Termination of USMCA
 
-#### § 4621. Termination of USMCA
+#### § 4621. Termination of USMCA
 
 **(a) Termination of USMCA country status**
 
@@ -2865,7 +2865,7 @@ During any period in which a country ceases to be a USMCA country, this Act (oth
 
 On the date on which the USMCA ceases to be in force with respect to the United States, this Act and the amendments made by this Act (other than this subsection and title IX) shall cease to have effect.
 
-(Pub. L. 116–113, title VI, § 621, Jan. 29, 2020, 134 Stat. 80.)
+(Pub. L. 116–113, title VI, § 621, Jan. 29, 2020, 134 Stat. 80.)
 
 **Editorial Notes**
 
@@ -2875,7 +2875,7 @@ This Act, referred to in text, is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11
 
 ## SUBCHAPTER VI—LABOR MONITORING AND ENFORCEMENT
 
-### § 4631. Definitions
+### § 4631. Definitions
 
 In this subchapter:
 
@@ -2891,11 +2891,11 @@ The term “labor obligations” means the obligations under chapter 23 of the U
 
 The term “Mexico’s labor reform” means the legislation on labor reform enacted by Mexico on May 1, 2019.
 
-(Pub. L. 116–113, title VII, § 701, Jan. 29, 2020, 134 Stat. 80.)
+(Pub. L. 116–113, title VII, § 701, Jan. 29, 2020, 134 Stat. 80.)
 
 ### Part A—Interagency Labor Committee for Monitoring and Enforcement
 
-#### § 4641. Interagency Labor Committee for Monitoring and Enforcement
+#### § 4641. Interagency Labor Committee for Monitoring and Enforcement
 
 **(a) Establishment** Not later than 90 days after January 29, 2020, the President shall establish an Interagency Labor Committee for Monitoring and Enforcement (in this subchapter referred to as the “Interagency Labor Committee”), to coordinate United States efforts with respect to each USMCA country—
 
@@ -2919,7 +2919,7 @@ The Interagency Labor Committee shall meet at least once every 90 days during th
 
 Notwithstanding any other provision of law, the members of the Interagency Labor Committee may exchange information for purposes of carrying out this subchapter.
 
-(Pub. L. 116–113, title VII, § 711, Jan. 29, 2020, 134 Stat. 81.)
+(Pub. L. 116–113, title VII, § 711, Jan. 29, 2020, 134 Stat. 81.)
 
 **Executive Documents**
 
@@ -2949,7 +2949,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-#### § 4642. Duties
+#### § 4642. Duties
 
 The duties of the Interagency Labor Committee shall include the following:
 
@@ -2989,9 +2989,9 @@ The duties of the Interagency Labor Committee shall include the following:
 
 **(9)** Reviewing reports submitted by the Independent Mexico Labor Expert Board under section 4674 of this title.
 
-(Pub. L. 116–113, title VII, § 712, Jan. 29, 2020, 134 Stat. 81.)
+(Pub. L. 116–113, title VII, § 712, Jan. 29, 2020, 134 Stat. 81.)
 
-#### § 4643. Enforcement priorities
+#### § 4643. Enforcement priorities
 
 The Interagency Labor Committee shall—
 
@@ -3017,9 +3017,9 @@ The Interagency Labor Committee shall—
 
 **(3)** review priority facilities within such priority subsectors for monitoring and enforcement.
 
-(Pub. L. 116–113, title VII, § 713, Jan. 29, 2020, 134 Stat. 82.)
+(Pub. L. 116–113, title VII, § 713, Jan. 29, 2020, 134 Stat. 82.)
 
-#### § 4644. Assessments
+#### § 4644. Assessments
 
 **(a) Ongoing assessments**
 
@@ -3043,9 +3043,9 @@ On or after the date that is 5 years after January 29, 2020, the Interagency Lab
 
 **(3)** The extent to which Mexico has implemented the federal and state labor courts, registration entity, and federal and state conciliation centers consistent with the timeline set forth for Mexico’s labor reform, in the September 2019 policy statements by the Government of Mexico on a national strategy for implementation of the labor justice system, and in subsequent policy statements in accordance with Mexico’s labor reform.
 
-(Pub. L. 116–113, title VII, § 714, Jan. 29, 2020, 134 Stat. 82.)
+(Pub. L. 116–113, title VII, § 714, Jan. 29, 2020, 134 Stat. 82.)
 
-#### § 4645. Recommendation for enforcement action
+#### § 4645. Recommendation for enforcement action
 
 **(a) Recommendation to initiate** If the Interagency Labor Committee determines, pursuant to an assessment under section 4644 of this title, as a result of monitoring activities described in section 4642(1) of this title, or pursuant to a report of the Independent Mexico Labor Expert Board that a USMCA country has failed to meets its labor obligations, including with respect to obligations under Annex 23–A of the USMCA, the Committee shall recommend that the Trade Representative initiate enforcement actions under—
 
@@ -3061,9 +3061,9 @@ On or after the date that is 5 years after January 29, 2020, the Interagency Lab
 
 **(2)** if such determination is negative, submit to the appropriate congressional committees a report on the reasons for such negative determination.
 
-(Pub. L. 116–113, title VII, § 715, Jan. 29, 2020, 134 Stat. 83.)
+(Pub. L. 116–113, title VII, § 715, Jan. 29, 2020, 134 Stat. 83.)
 
-#### § 4646. Petition process
+#### § 4646. Petition process
 
 **(a) In general**
 
@@ -3095,15 +3095,15 @@ The Interagency Labor Committee shall establish procedures for submissions by th
 
 **(B)** submit to the appropriate congressional committees a notification including the reasons for which action was not initiated within such 60-day period.
 
-(Pub. L. 116–113, title VII, § 716, Jan. 29, 2020, 134 Stat. 83.)
+(Pub. L. 116–113, title VII, § 716, Jan. 29, 2020, 134 Stat. 83.)
 
-#### § 4647. Hotline
+#### § 4647. Hotline
 
 The Interagency Labor Committee shall establish a web-based hotline, monitored by the Department of Labor, to receive confidential information regarding labor issues among USMCA countries directly from interested parties, including Mexican workers.
 
-(Pub. L. 116–113, title VII, § 717, Jan. 29, 2020, 134 Stat. 85.)
+(Pub. L. 116–113, title VII, § 717, Jan. 29, 2020, 134 Stat. 85.)
 
-#### § 4648. Reports
+#### § 4648. Reports
 
 **(a) In general** Not later than 180 days after January 29, 2020, and every 180 days thereafter for 10 years except as provided in subsection (b), the Interagency Labor Committee shall submit to the appropriate congressional committees a report that includes—
 
@@ -3137,9 +3137,9 @@ On or after the date that is 5 years after January 29, 2020, the Trade Represent
 
 **(2)** a strategic plan and recommendations for actions to address areas of concern relating to the implementation of Mexico’s labor reform, for purposes of the joint review conducted pursuant to article 34.7 of the USMCA on the sixth anniversary of the entry into force of the USMCA.
 
-(Pub. L. 116–113, title VII, § 718, Jan. 29, 2020, 134 Stat. 85.)
+(Pub. L. 116–113, title VII, § 718, Jan. 29, 2020, 134 Stat. 85.)
 
-#### § 4649. Consultations on appointment and funding of rapid response labor panelists
+#### § 4649. Consultations on appointment and funding of rapid response labor panelists
 
 **(a) In general**
 
@@ -3149,11 +3149,11 @@ The Interagency Labor Committee shall consult with the Labor Advisory Committee 
 
 The United States, in consultation with Mexico, shall provide adequate funding for rapid response labor panelists to carry out the responsibilities under the USMCA promptly and fully.
 
-(Pub. L. 116–113, title VII, § 719, Jan. 29, 2020, 134 Stat. 86.)
+(Pub. L. 116–113, title VII, § 719, Jan. 29, 2020, 134 Stat. 86.)
 
 ### Part B—Mexico Labor Attaches
 
-#### § 4661. Establishment
+#### § 4661. Establishment
 
 The Secretary of Labor shall—
 
@@ -3161,9 +3161,9 @@ The Secretary of Labor shall—
 
 **(2)** detail or assign such officers or employees to the United States Embassy or a United States Consulate in Mexico to carry out the duties described in section 4662 of this title.
 
-(Pub. L. 116–113, title VII, § 721, Jan. 29, 2020, 134 Stat. 86.)
+(Pub. L. 116–113, title VII, § 721, Jan. 29, 2020, 134 Stat. 86.)
 
-#### § 4662. Duties
+#### § 4662. Duties
 
 The duties described in this section are the following:
 
@@ -3171,23 +3171,23 @@ The duties described in this section are the following:
 
 **(2)** Submitting to the Interagency Labor Committee on a quarterly basis reports on the efforts undertaken by Mexico to comply with its labor obligations.
 
-(Pub. L. 116–113, title VII, § 722, Jan. 29, 2020, 134 Stat. 86.)
+(Pub. L. 116–113, title VII, § 722, Jan. 29, 2020, 134 Stat. 86.)
 
-#### § 4663. Status
+#### § 4663. Status
 
 Any officer or employee, while detailed or assigned under this part, shall be considered, for the purpose of preserving their allowances, privileges, rights, seniority, and other benefits as such, an officer or employee of the United States Government and of the agency of the United States Government from which detailed or assigned, and shall continue to receive compensation, allowances, and benefits from program funds appropriated to that agency or made available to that agency for purposes related to the activities of the detail or assignment, in accordance with authorities related to their employment status and agency policies.
 
-(Pub. L. 116–113, title VII, § 723, Jan. 29, 2020, 134 Stat. 86.)
+(Pub. L. 116–113, title VII, § 723, Jan. 29, 2020, 134 Stat. 86.)
 
 ### Part C—Independent Mexico Labor Expert Board
 
-#### § 4671. Establishment
+#### § 4671. Establishment
 
 There is hereby established a board, to be known as the “Independent Mexico Labor Expert Board”, to be responsible for monitoring and evaluating the implementation of Mexico’s labor reform and compliance with its labor obligations. The Board shall also advise the Interagency Labor Committee with respect to capacity-building activities needed to support such implementation and compliance.
 
-(Pub. L. 116–113, title VII, § 731, Jan. 29, 2020, 134 Stat. 87.)
+(Pub. L. 116–113, title VII, § 731, Jan. 29, 2020, 134 Stat. 87.)
 
-#### § 4672. Membership; term
+#### § 4672. Membership; term
 
 **(a) Membership** The Board shall be composed of 12 members who shall be appointed as follows:
 
@@ -3209,19 +3209,19 @@ Except as provided in subsection (c), members of the Board shall serve for a ter
 
 If the Board determines, at the end of the 6-year period beginning on the date of the appointment of the last member appointed in accordance with subsection (a), that Mexico is not fully in compliance with its labor obligations, a majority of the members of the Board may determine to extend its term for 4 additional years. A new Board shall be appointed in accordance with subsection (a) and shall serve for a single term of 4 years.
 
-(Pub. L. 116–113, title VII, § 732, Jan. 29, 2020, 134 Stat. 87.)
+(Pub. L. 116–113, title VII, § 732, Jan. 29, 2020, 134 Stat. 87.)
 
-#### § 4673. Funding
+#### § 4673. Funding
 
 The United States shall provide necessary funding to support the work of the Board, including with respect to translation services and personnel support.
 
-(Pub. L. 116–113, title VII, § 733, Jan. 29, 2020, 134 Stat. 87.)
+(Pub. L. 116–113, title VII, § 733, Jan. 29, 2020, 134 Stat. 87.)
 
-#### § 4674. Reports
+#### § 4674. Reports
 
-For the 6-year period beginning on January 29, 2020, and for an additional 4 years if the term of the Board is extended in accordance with section 4672(c) of this title, the Board shall submit to 1
+For the 6-year period beginning on January 29, 2020, and for an additional 4 years if the term of the Board is extended in accordance with section 4672(c) of this title, the Board shall submit to 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 appropriate congressional committees and to the Interagency Labor Committee an annual report that—
 
@@ -3233,11 +3233,11 @@ appropriate congressional committees and to the Interagency Labor Committee an a
 
 **(2)** may include a determination that Mexico is not in compliance with its labor obligations.
 
-(Pub. L. 116–113, title VII, § 734, Jan. 29, 2020, 134 Stat. 87.)
+(Pub. L. 116–113, title VII, § 734, Jan. 29, 2020, 134 Stat. 87.)
 
 ### Part D—Forced Labor
 
-#### § 4681. Forced Labor Enforcement Task Force
+#### § 4681. Forced Labor Enforcement Task Force
 
 **(a) Establishment**
 
@@ -3253,7 +3253,7 @@ The Task Force shall be chaired by the Secretary of Homeland Security and shall 
 
 The Task Force shall meet on a quarterly basis regarding active Withhold and Release Orders, ongoing investigations, petitions received, and enforcement priorities, and other relevant issues with respect to enforcing the prohibition under section 1307 of this title.
 
-(Pub. L. 116–113, title VII, § 741, Jan. 29, 2020, 134 Stat. 88.)
+(Pub. L. 116–113, title VII, § 741, Jan. 29, 2020, 134 Stat. 88.)
 
 **Editorial Notes**
 
@@ -3289,7 +3289,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-#### § 4682. Timeline required
+#### § 4682. Timeline required
 
 **(a) In general**
 
@@ -3303,13 +3303,13 @@ In establishing the timelines during such 90-day period, the Task Force shall co
 
 The Task Force shall timely submit to the appropriate congressional committees a report that contains the timelines established pursuant to subsection (a) and shall make such report publicly available.
 
-(Pub. L. 116–113, title VII, § 742, Jan. 29, 2020, 134 Stat. 88.)
+(Pub. L. 116–113, title VII, § 742, Jan. 29, 2020, 134 Stat. 88.)
 
-#### § 4683. Reports required
+#### § 4683. Reports required
 
-The Forced Labor Enforcement Task Force shall submit to 1
+The Forced Labor Enforcement Task Force shall submit to 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 appropriate congressional committees a biannual report that includes the following:
 
@@ -3323,9 +3323,9 @@ appropriate congressional committees a biannual report that includes the followi
 
 **(5)** Such other information as the Forced Labor Enforcement Task Force considers appropriate with respect to monitoring and enforcing compliance with section 1307 of this title.
 
-(Pub. L. 116–113, title VII, § 743, Jan. 29, 2020, 134 Stat. 88.)
+(Pub. L. 116–113, title VII, § 743, Jan. 29, 2020, 134 Stat. 88.)
 
-#### § 4684. Duties related to Mexico
+#### § 4684. Duties related to Mexico
 
 The Task Force shall—
 
@@ -3333,7 +3333,7 @@ The Task Force shall—
 
 **(2)** report to the Interagency Labor Committee with respect to any concerns relating to the enforcement of the prohibition under section 1307 of this title with respect to Mexico, including any allegations that may be filed with respect to forced labor in Mexico.
 
-(Pub. L. 116–113, title VII, § 744, Jan. 29, 2020, 134 Stat. 89.)
+(Pub. L. 116–113, title VII, § 744, Jan. 29, 2020, 134 Stat. 89.)
 
 **Editorial Notes**
 
@@ -3343,13 +3343,13 @@ Section 1307 of this title, referred to in par. (2), was in the original “sect
 
 ### Part E—Enforcement Under Rapid Response Labor Mechanism
 
-#### § 4691. Transmission of reports
+#### § 4691. Transmission of reports
 
 Each report issued by a rapid response labor panel constituted in accordance with Annex 31–A of the USMCA shall be immediately submitted to the appropriate congressional committees, the Labor Advisory Committee established under section 2155(c)(1) of this title (or successor advisory committee), and, as appropriate, the petitioner submitting information pursuant to section 4646 of this title. The Trade Representative shall also make each such report publicly available in a timely manner.
 
-(Pub. L. 116–113, title VII, § 751, Jan. 29, 2020, 134 Stat. 89.)
+(Pub. L. 116–113, title VII, § 751, Jan. 29, 2020, 134 Stat. 89.)
 
-#### § 4692. Suspension of liquidation
+#### § 4692. Suspension of liquidation
 
 **(a) In general**
 
@@ -3363,9 +3363,9 @@ If the United States files a request pursuant to article 31–A.4.2 of Annex 31�
 
 **(3)** The denial of rights has been otherwise remedied.
 
-(Pub. L. 116–113, title VII, § 752, Jan. 29, 2020, 134 Stat. 89.)
+(Pub. L. 116–113, title VII, § 752, Jan. 29, 2020, 134 Stat. 89.)
 
-#### § 4693. Final remedies
+#### § 4693. Final remedies
 
 **(a) In general** If a rapid response labor panel constituted in accordance with Annex 31–A of the USMCA determines with respect to a case that there has been a denial of rights within the meaning of such Annex, the Trade Representative may, in consultation with the appropriate congressional committees—
 
@@ -3385,11 +3385,11 @@ If the United States files a request pursuant to article 31–A.4.2 of Annex 31�
 
 The Trade Representative shall promptly notify the Secretary when the denial of rights with respect to a case described in subsection (a) has been remedied.
 
-(Pub. L. 116–113, title VII, § 753, Jan. 29, 2020, 134 Stat. 90.)
+(Pub. L. 116–113, title VII, § 753, Jan. 29, 2020, 134 Stat. 90.)
 
 ## SUBCHAPTER VII—ENVIRONMENT MONITORING AND ENFORCEMENT
 
-### § 4701. Definitions
+### § 4701. Definitions
 
 In this subchapter:
 
@@ -3403,7 +3403,7 @@ The term “environmental law” has the meaning given the term in article 24.1 
 
 **(B)** chapter 24 of the USMCA (relating to environment).
 
-(Pub. L. 116–113, title VIII, § 801, Jan. 29, 2020, 134 Stat. 90.)
+(Pub. L. 116–113, title VIII, § 801, Jan. 29, 2020, 134 Stat. 90.)
 
 **Editorial Notes**
 
@@ -3413,7 +3413,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 ### Part A—Interagency Environment Committee for Monitoring and Enforcement
 
-#### § 4711. Establishment
+#### § 4711. Establishment
 
 **(a) In general** Not later than 30 days after January 29, 2020, the President shall establish an Interagency Environment Committee for Monitoring and Enforcement (in this subchapter referred to as the “Interagency Environment Committee”)—
 
@@ -3433,9 +3433,9 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 **(2)** Representatives from each of the following:
 
-**(A)** The National Oceanic Atmospheric 1
+**(A)** The National Oceanic Atmospheric 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “and”.
+<sup>1</sup> So in original. Probably should be preceded by “and”.
 
 Administration.
 
@@ -3463,7 +3463,7 @@ Administration.
 
 Notwithstanding any other provision of law, the members of the Interagency Environment Committee may exchange information for purposes of carrying out this part.
 
-(Pub. L. 116–113, title VIII, § 811, Jan. 29, 2020, 134 Stat. 90.)
+(Pub. L. 116–113, title VIII, § 811, Jan. 29, 2020, 134 Stat. 90.)
 
 **Editorial Notes**
 
@@ -3501,7 +3501,7 @@ Sec. 5. *General Provisions*. (a) Each executive department and agency shall bea
 
 Donald J. Trump.
 
-#### § 4712. Assessment
+#### § 4712. Assessment
 
 **(a) In general** The Interagency Environment Committee shall carry out an assessment of the environmental laws and policies of the USMCA countries—
 
@@ -3531,9 +3531,9 @@ The assessment required by subsection (a) shall identify the environmental laws 
 
 **(2)** in preparing the report required by subsection (c).
 
-(Pub. L. 116–113, title VIII, § 812, Jan. 29, 2020, 134 Stat. 91.)
+(Pub. L. 116–113, title VIII, § 812, Jan. 29, 2020, 134 Stat. 91.)
 
-#### § 4713. Monitoring actions
+#### § 4713. Monitoring actions
 
 **(a) In general**
 
@@ -3587,9 +3587,9 @@ The Trade Representative, on behalf of the Interagency Environment Committee, sh
 
 Subsections (c) and (d) shall apply with respect to Mexico for such time as the USMCA is in force with respect to, and the United States applies the USMCA to, Mexico.
 
-(Pub. L. 116–113, title VIII, § 813, Jan. 29, 2020, 134 Stat. 92.)
+(Pub. L. 116–113, title VIII, § 813, Jan. 29, 2020, 134 Stat. 92.)
 
-#### § 4714. Enforcement actions
+#### § 4714. Enforcement actions
 
 The Interagency Environment Committee—
 
@@ -3601,9 +3601,9 @@ The Interagency Environment Committee—
 
 **(2)** may request the heads of other Federal agencies described in section 4715 of this title to initiate monitoring or enforcement actions with respect to the USMCA country under the provisions of law described in section 4715 of this title.
 
-(Pub. L. 116–113, title VIII, § 814, Jan. 29, 2020, 134 Stat. 93.)
+(Pub. L. 116–113, title VIII, § 814, Jan. 29, 2020, 134 Stat. 93.)
 
-#### § 4715. Other monitoring and enforcement actions
+#### § 4715. Other monitoring and enforcement actions
 
 **(a) Marine Mammal Protection Act**
 
@@ -3639,9 +3639,9 @@ The Secretary of Agriculture, the Secretary of Commerce, the Secretary of the In
 
 **(g) Migratory Bird Treaty Act**
 
-The Secretary of the Interior has authority to take appropriate monitoring or enforcement actions under the Migratory Bird Treaty Act of 1918 1
+The Secretary of the Interior has authority to take appropriate monitoring or enforcement actions under the Migratory Bird Treaty Act of 1918 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (16 U.S.C. 703 et seq.).
 
@@ -3665,15 +3665,15 @@ The Interagency Environment Committee may request the heads of other Federal age
 
 Nothing in this section may be construed to supersede or otherwise limit in any manner the functions or authority of the head of any Federal agency described in this section under any other provision of law.
 
-(Pub. L. 116–113, title VIII, § 815, Jan. 29, 2020, 134 Stat. 93.)
+(Pub. L. 116–113, title VIII, § 815, Jan. 29, 2020, 134 Stat. 93.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (a), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of Title 16 and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (a), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of Title 16 and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (b)(2), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of Title 16, Conservation, and Tables.
 
@@ -3683,19 +3683,19 @@ The Shark Conservation Act of 2010, referred to in subsec. (b)(4), is Pub. L. 11
 
 The Shark Finning Prohibition Act, referred to in subsec. (b)(5), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
-The Port State Measures Agreement Act of 2015, referred to in subsec. (d), is Pub. L. 114–81, title III, Nov. 5, 2015, 129 Stat. 664, which is classified generally to chapter 93 (§ 7401 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 16 and Tables.
+The Port State Measures Agreement Act of 2015, referred to in subsec. (d), is Pub. L. 114–81, title III, Nov. 5, 2015, 129 Stat. 664, which is classified generally to chapter 93 (§ 7401 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 16 and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The Lacey Act Amendments of 1981, referred to in subsec. (f), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of Title 16 and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (f), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of Title 16 and Tables.
 
-The Migratory Bird Treaty Act of 1918, referred to in subsec. (g), probably should be the Migratory Bird Treaty Act, which is act July 3, 1918, ch. 128, 40 Stat. 755, and is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see section 710 of Title 16 and Tables.
+The Migratory Bird Treaty Act of 1918, referred to in subsec. (g), probably should be the Migratory Bird Treaty Act, which is act July 3, 1918, ch. 128, 40 Stat. 755, and is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see section 710 of Title 16 and Tables.
 
-The Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, referred to in subsec. (h), is Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, which is classified principally to chapter 95 (§ 7601 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of Title 16 and Tables.
+The Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, referred to in subsec. (h), is Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, which is classified principally to chapter 95 (§ 7601 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of Title 16 and Tables.
 
-The Wild Bird Conservation Act of 1992, referred to in subsec. (i), is Pub. L. 102–440, title I, Oct. 23, 1992, 106 Stat. 2224, which is classified generally to chapter 69 (§ 4901 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of Title 16 and Tables.
+The Wild Bird Conservation Act of 1992, referred to in subsec. (i), is Pub. L. 102–440, title I, Oct. 23, 1992, 106 Stat. 2224, which is classified generally to chapter 69 (§ 4901 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of Title 16 and Tables.
 
-#### § 4716. Report to Congress
+#### § 4716. Report to Congress
 
 **(a) In general** The Trade Representative, in consultation with the head of any Federal agency described in this part, shall submit to the appropriate congressional committees a report on the implementation of this part, including—
 
@@ -3719,17 +3719,17 @@ The Wild Bird Conservation Act of 1992, referred to in subsec. (i), is Pub. L. 1
 
 **(3)** An explanation of how compliance with environmental obligations will be taken into consideration during the “joint review” conducted pursuant to article 34.7.2 of the USMCA on the sixth anniversary of the entry into force of the USMCA.
 
-(Pub. L. 116–113, title VIII, § 816, Jan. 29, 2020, 134 Stat. 95.)
+(Pub. L. 116–113, title VIII, § 816, Jan. 29, 2020, 134 Stat. 95.)
 
-#### § 4717. Regulations
+#### § 4717. Regulations
 
 The head of any Federal agency described in this part, in consultation with the Interagency Environment Committee, may prescribe such regulations as are necessary to carry out the authorities of the Federal agency as provided for under this part.
 
-(Pub. L. 116–113, title VIII, § 817, Jan. 29, 2020, 134 Stat. 95.)
+(Pub. L. 116–113, title VIII, § 817, Jan. 29, 2020, 134 Stat. 95.)
 
 ### Part B—Other Matters
 
-#### § 4731. Border water infrastructure improvement authority
+#### § 4731. Border water infrastructure improvement authority
 
 **(a) In general**
 
@@ -3773,15 +3773,15 @@ The term “covered area” means the portion of the Tijuana River watershed tha
 
 The term “treatment works” has the meaning given that term in section 1292 of title 33.
 
-(Pub. L. 116–113, title VIII, § 821, Jan. 29, 2020, 134 Stat. 95.)
+(Pub. L. 116–113, title VIII, § 821, Jan. 29, 2020, 134 Stat. 95.)
 
-#### § 4732. Detail of personnel to Office of the United States Trade Representative
+#### § 4732. Detail of personnel to Office of the United States Trade Representative
 
 **(a) In general**
 
-Upon the request of the Trade Representative, the Administrator of the Environmental Protection Agency, the Director of the U.S. Fish and Wildlife Service, and the Administrator of the National Oceanic Atmospheric 1
+Upon the request of the Trade Representative, the Administrator of the Environmental Protection Agency, the Director of the U.S. Fish and Wildlife Service, and the Administrator of the National Oceanic Atmospheric 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “and”.
+<sup>1</sup> So in original. Probably should be preceded by “and”.
 
 Administration may detail, on a reimbursable basis, one employee of each such respective agency to the Office of the United States Trade Representative to be assigned to the United States Embassy in Mexico to carry out the duties described in subsection (b).
 
@@ -3791,4 +3791,4 @@ Administration may detail, on a reimbursable basis, one employee of each such re
 
 **(2)** Prepare and submit to the Interagency Environment Committee on a quarterly basis a report on efforts of Mexico to comply with its environmental obligations.
 
-(Pub. L. 116–113, title VIII, § 822, Jan. 29, 2020, 134 Stat. 96.)
+(Pub. L. 116–113, title VIII, § 822, Jan. 29, 2020, 134 Stat. 96.)

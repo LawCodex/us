@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 59—LIQUOR TRAFFIC
 
-## § 1261. Enforcement, regulations, and scope
+## § 1261. Enforcement, regulations, and scope
 
-**(a)**  1
+**(a)** 1
 
-<sup>1</sup>  So in original. There is no subsec. (b).
+<sup>1</sup> So in original. There is no subsec. (b).
 
 The Attorney General—
 
@@ -27,13 +27,13 @@ The Attorney General—
 
 **(2)** has the authority to issue regulations to carry out the provisions of this chapter.
 
-(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, § 31, 63 Stat. 94; Pub. L. 107–273, div. B, title IV, § 4004(b), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 107–296, title XI, § 1112(g), Nov. 25, 2002, 116 Stat. 2276.)
+(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, § 31, 63 Stat. 94; Pub. L. 107–273, div. B, title IV, § 4004(b), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 107–296, title XI, § 1112(g), Nov. 25, 2002, 116 Stat. 2276.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on sections 222, 223(b), 225 and 226 of title 27, U.S.C., 1940 ed., Intoxicating Liquors (June 25, 1936, ch. 815, §§ 5, 10, 49 Stat. 1929, 1930).
+Based on sections 222, 223(b), 225 and 226 of title 27, U.S.C., 1940 ed., Intoxicating Liquors (June 25, 1936, ch. 815, §§ 5, 10, 49 Stat. 1929, 1930).
 
 Changes were made in phraseology and arrangement.
 
@@ -57,7 +57,7 @@ Pub. L. 107–273 struck out subsec. (a) designation and subsec. (b) which read 
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-## § 1262. Transportation into State prohibiting sale
+## § 1262. Transportation into State prohibiting sale
 
 Whoever imports, brings, or transports any intoxicating liquor into any State, Territory, District, or Possession in which all sales, except for scientific, sacramental, medicinal, or mechanical purposes, of intoxicating liquor containing more than 4 per centum of alcohol by volume or 3.2 per centum of alcohol by weight are prohibited, otherwise than in the course of continuous interstate transportation through such State, Territory, District, or Possession or attempts so to do, or assists in so doing,
 
@@ -65,13 +65,13 @@ Shall (1) If such liquor is not accompanied by such permits, or licenses therefo
 
 In the enforcement of this section, the definition of intoxicating liquor contained in the laws of the respective States, Territories, Districts, or Possessions shall be applied, but only to the extent that sales of such intoxicating liquor (except for scientific, sacramental, medicinal, and mechanical purposes) are prohibited therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, § 32, 63 Stat. 94; Pub. L. 101–647, title XXXV, § 3540, Nov. 29, 1990, 104 Stat. 4925; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, § 32, 63 Stat. 94; Pub. L. 101–647, title XXXV, § 3540, Nov. 29, 1990, 104 Stat. 4925; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on sections 222, 223 of title 27, U.S.C., 1940 ed., Intoxicating Liquors (June 25, 1936, ch. 815, §§ 2, 3, 49 Stat. 1928).
+Based on sections 222, 223 of title 27, U.S.C., 1940 ed., Intoxicating Liquors (June 25, 1936, ch. 815, §§ 2, 3, 49 Stat. 1928).
 
 Section consolidates subsection (a) of section 222 with section 223, of title 27, U.S.C., 1940 ed.
 
@@ -101,15 +101,15 @@ This section [section 32] corrects a typographical error in section 1262 of titl
 
 1949—Act May 24, 1949, substituted “Districts” for “District” in last par.
 
-## § 1263. Marks and labels on packages
+## § 1263. Marks and labels on packages
 
 Whoever knowingly ships into any place within the United States any package containing any spirituous, vinous, malted, or other fermented liquor, or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, unless such shipment is accompanied by copy of a bill of lading, or other document showing the name of the consignee, the nature of its contents, and the quantity contained therein, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 761; Pub. L. 90–518, § 1, Sept. 26, 1968, 82 Stat. 872; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 761; Pub. L. 90–518, § 1, Sept. 26, 1968, 82 Stat. 872; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 390 (Mar. 4, 1909, ch. 321, § 240, 35 Stat. 1137; June 25, 1936, ch. 815, § 8, 49 Stat. 1930.)
+Based on title 18, U.S.C., 1940 ed., § 390 (Mar. 4, 1909, ch. 321, § 240, 35 Stat. 1137; June 25, 1936, ch. 815, § 8, 49 Stat. 1930.)
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -131,21 +131,21 @@ The provision that such liquor “may be seized and condemned by like proceeding
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–518, § 3, Sept. 26, 1968, 82 Stat. 872, provided that: “This Act [amending this section] shall become effective ninety days after the date of its enactment [Sept. 26, 1968].”
+Pub. L. 90–518, § 3, Sept. 26, 1968, 82 Stat. 872, provided that: “This Act [amending this section] shall become effective ninety days after the date of its enactment [Sept. 26, 1968].”
 
 **Congressional Disclaimer of Intent To Preempt State Regulation of Shipments of Intoxicating Liquor**
 
-Pub. L. 90–518, § 2, Sept. 26, 1968, 82 Stat. 872, provided that: “Nothing contained in this Act [amending this section] shall be construed as indicating an intent on the part of Congress to deprive any State of the power to enact additional prohibitions with respect to the shipment of intoxicating liquors.”
+Pub. L. 90–518, § 2, Sept. 26, 1968, 82 Stat. 872, provided that: “Nothing contained in this Act [amending this section] shall be construed as indicating an intent on the part of Congress to deprive any State of the power to enact additional prohibitions with respect to the shipment of intoxicating liquors.”
 
-## § 1264. Delivery to consignee
+## § 1264. Delivery to consignee
 
 Whoever, being an officer, agent, or employee of any railroad company, express company, or other common carrier, knowingly delivers to any person other than the person to whom it has been consigned, unless upon the written order in each instance of the bona fide consignee, or to any fictitious person, or to any person under a fictitious name, any spirituous, vinous, malted, or other fermented liquor or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, which has been shipped into any place within the United States, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 761; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 761; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 388 (Mar. 4, 1909, ch. 321, § 238, 35 Stat. 1136; June 25, 1936, ch. 815, § 6, 49 Stat. 1929).
+Based on title 18, U.S.C., 1940 ed., § 388 (Mar. 4, 1909, ch. 321, § 238, 35 Stat. 1136; June 25, 1936, ch. 815, § 6, 49 Stat. 1929).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -159,15 +159,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 1265. C.O.D. shipments prohibited
+## § 1265. C.O.D. shipments prohibited
 
 Any railroad or express company, or other common carrier which, or any person who, in connection with the transportation of any spirituous, vinous, malted, or other fermented liquor, or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, into any State, Territory, District or Possession of the United States, which prohibits the delivery or sale therein of such liquor, collects the purchase price or any part thereof, before, on, or after delivery, from the consignee, or from any other person, or in any manner acts as the agent of the buyer or seller of any such liquor, for the purpose of buying or selling or completing the sale thereof, saving only in the actual transportation and delivery of the same, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 762; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 762; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 389 (Mar. 4, 1909, ch. 321, § 239, 35 Stat. 1136; June 25, 1936, ch. 815, § 7, 49 Stat. 1929).
+Based on title 18, U.S.C., 1940 ed., § 389 (Mar. 4, 1909, ch. 321, § 239, 35 Stat. 1136; June 25, 1936, ch. 815, § 7, 49 Stat. 1929).
 
 Changes similar to those made in section 1264 of this title were also made in this section.
 

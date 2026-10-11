@@ -23,21 +23,21 @@ A prior chapter 873, consisting of sections 9021 to 9027, related to civilian em
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(e)(1)(B), Dec. 27, 2021, 135 Stat. 2138, added item 8755.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(e)(1)(B), Dec. 27, 2021, 135 Stat. 2138, added item 8755.
 
-Pub. L. 116–283, div. A, title XVIII, § 1878(b), Jan. 1, 2021, 134 Stat. 4292, added item 8751.
+Pub. L. 116–283, div. A, title XVIII, § 1878(b), Jan. 1, 2021, 134 Stat. 4292, added item 8751.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 645 of this title as this chapter and items 7522 to 7524 as 8752 to 8754, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 645 of this title as this chapter and items 7522 to 7524 as 8752 to 8754, respectively.
 
-1994—Pub. L. 103–355, title II, § 2001(j)(3)(C), Oct. 13, 1994, 108 Stat. 3303, struck out item 7521 “Progress payment for work done; lien based on payment”.
+1994—Pub. L. 103–355, title II, § 2001(j)(3)(C), Oct. 13, 1994, 108 Stat. 3303, struck out item 7521 “Progress payment for work done; lien based on payment”.
 
-1986—Pub. L. 99–661, div. A, title XIII, § 1354(b), Nov. 14, 1986, 100 Stat. 3996, added item 7524.
+1986—Pub. L. 99–661, div. A, title XIII, § 1354(b), Nov. 14, 1986, 100 Stat. 3996, added item 7524.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on Navy Installation Nuclear Energy**
 
-Pub. L. 119–60, div. A, title III, § 321, Dec. 18, 2025, 139 Stat. 812, provided that:
+Pub. L. 119–60, div. A, title III, § 321, Dec. 18, 2025, 139 Stat. 812, provided that:
 
 > **“(a) Pilot Program Required.—** Beginning not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Assistant Secretary of the Navy for Energy, Installations, and Environment shall initiate a ten-year pilot program at one or more naval installations for the purpose of determining how small modular reactors or mobile reactors could be used—
 
@@ -101,7 +101,7 @@ Pub. L. 119–60, div. A, title III, § 321, Dec. 18, 2025, 139 Stat. 812, pro
 
 **Technology Enhancement for Surface Ship Maintenance**
 
-Pub. L. 119–60, div. A, title III, § 345, Dec. 18, 2025, 139 Stat. 825, provided that:
+Pub. L. 119–60, div. A, title III, § 345, Dec. 18, 2025, 139 Stat. 825, provided that:
 
 > **“(a) In General.—** The Secretary of the Navy shall investigate, and, as feasible, qualify, approve, integrate, and fully adopt into contract requirements, advanced technologies and processes for Navy surface ship maintenance on an expedited timeline to enhance readiness, reduce costs, and address delays in maintenance and repair activities.
 
@@ -181,13 +181,13 @@ Pub. L. 119–60, div. A, title III, § 345, Dec. 18, 2025, 139 Stat. 825, pro
 
 > **“(g) Report Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Navy shall submit to Congress a report that includes detailed timelines for the qualification and approval of each advanced technology or process specified in subsection (b) and any additional advanced technologies or processes identified pursuant to the process established under subsection (c), including estimated implementation dates or justifications for non-pursuit.”
 
-## § 8751. Notification of Navy procurement production disruptions
+## § 8751. Notification of Navy procurement production disruptions
 
 **(a) Requirement for Contractor To Provide Notice of Delays.—** The Secretary of the Navy shall require prime contractors of any Navy procurement program funded under either the Shipbuilding and Conversion, Navy account or the Other Procurement, Navy account to report within 15 calendar days any stop work order or other manufacturing disruption of 15 calendar days or more, by the prime contractor or any subcontractor, to the respective program manager and Navy technical authority.
 
 **(b) Quarterly Reports.—** The Secretary of the Navy shall submit to the congressional defense committees not later than 15 calendar days after the end of each quarter of a fiscal year a report listing all notifications made pursuant to subsection (a) during the preceding quarter.
 
-(Added Pub. L. 116–92, div. A, title VIII, § 820(a), Dec. 20, 2019, 133 Stat. 1489, § 2339b; renumbered § 8751, Pub. L. 116–283, div. A, title XVIII, § 1878(a), Jan. 1, 2021, 134 Stat. 4292.)
+(Added Pub. L. 116–92, div. A, title VIII, § 820(a), Dec. 20, 2019, 133 Stat. 1489, § 2339b; renumbered § 8751, Pub. L. 116–283, div. A, title XVIII, § 1878(a), Jan. 1, 2021, 134 Stat. 4292.)
 
 **Editorial Notes**
 
@@ -205,21 +205,21 @@ A prior section 8751 was renumbered section 9281 of this title.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 8752. Contracts for research
+## § 8752. Contracts for research
 
 **(a)** The Secretary of the Navy and, by direction of the Secretary, the Chief of Naval Research and the chiefs of bureaus may, without advertising, make contracts or amendments or modifications of contracts for services and materials necessary to conduct research and to make or secure reports, tests, models, or apparatus. A contractor supplying such services or materials need not be required to furnish a bond.
 
 **(b)** This section does not authorize the use of the cost-plus-a-percentage-of-cost system of contracting.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 464, § 7522; Pub. L. 96–513, title V, § 513(38), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–258, § 3(b)(9), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 98–525, title XIV, § 1405(56)(B), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 103–355, title II, § 2001(j)(2), Oct. 13, 1994, 108 Stat. 3303; renumbered § 8752, Pub. L. 115–232, div. A, title VIII, § 807(d)(7), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 464, § 7522; Pub. L. 96–513, title V, § 513(38), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–258, § 3(b)(9), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 98–525, title XIV, § 1405(56)(B), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 103–355, title II, § 2001(j)(2), Oct. 13, 1994, 108 Stat. 3303; renumbered § 8752, Pub. L. 115–232, div. A, title VIII, § 807(d)(7), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7522 | 5 U.S.C. 475e. | Aug. 1, 1946, ch. 727, § 6, 60 Stat. 780. |
+| 7522 | 5 U.S.C. 475e. | Aug. 1, 1946, ch. 727, § 6, 60 Stat. 780. |
 
-In subsection (a) reference to R.S. 3718, 3719, 3720, and 3722 (34 U.S.C. 561, 562, 563, and 572) is omitted because these sections were expressly repealed by § 11(a) of the Act of February 19, 1948, ch. 65, 62 Stat. 25. The words “without advertising” are substituted for the reference to R.S. 3709 (41 U.S.C. 5) for brevity and clarity. The sentence “A contractor supplying such services or materials need not be required to furnish a bond” is substituted for the words “without performance or other bonds” for clarity, since the provision is interpreted as a discretionary authority in the Secretary to waive bond.
+In subsection (a) reference to R.S. 3718, 3719, 3720, and 3722 (34 U.S.C. 561, 562, 563, and 572) is omitted because these sections were expressly repealed by § 11(a) of the Act of February 19, 1948, ch. 65, 62 Stat. 25. The words “without advertising” are substituted for the reference to R.S. 3709 (41 U.S.C. 5) for brevity and clarity. The sentence “A contractor supplying such services or materials need not be required to furnish a bond” is substituted for the words “without performance or other bonds” for clarity, since the provision is interpreted as a discretionary authority in the Secretary to waive bond.
 
 In subsection (c) the words “This section does not authorize” are substituted for the words “nothing in this section shall be construed to authorize”.
 
@@ -249,7 +249,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–355, title X, § 10001, Oct. 13, 1994, 108 Stat. 3404, provided that:
+Pub. L. 103–355, title X, § 10001, Oct. 13, 1994, 108 Stat. 3404, provided that:
 
 > **“(a) Effective Date.—** Except as otherwise provided in this Act, this Act [see Tables for classification] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Oct. 13, 1994].
 
@@ -267,7 +267,7 @@ Pub. L. 103–355, title X, § 10001, Oct. 13, 1994, 108 Stat. 3404, provided 
 
 > **“(3)** The date referred to in paragraphs (1) and (2) is the date specified in such final regulations [Oct. 1, 1995, see 60 F.R. 48231, Sept. 18, 1995]. The date so specified shall be October 1, 1995, or any earlier date that is not within 30 days after the date on which such final regulations are published.
 
-> **“(c) Immediate Applicability of Certain Amendments.—** Notwithstanding subsection (b), the amendments made by the following provisions of this Act apply on and after the date of the enactment of this Act [Oct. 13, 1994]: sections 1001, 1021, 1031, 1051, 1071, 1092, 1201, 1506(a), 1507, 1554, 2002(a), 2191, 3062(a), 3063, 3064, 3065(a)(1), 3065(b), 3066, 3067, 6001(a), 7101, 7103, 7205, and 7206, the provisions of subtitles A, B, and C of title III [§§ 3001–3025], and the provisions of title V [see Tables for classification].”
+> **“(c) Immediate Applicability of Certain Amendments.—** Notwithstanding subsection (b), the amendments made by the following provisions of this Act apply on and after the date of the enactment of this Act [Oct. 13, 1994]: sections 1001, 1021, 1031, 1051, 1071, 1092, 1201, 1506(a), 1507, 1554, 2002(a), 2191, 3062(a), 3063, 3064, 3065(a)(1), 3065(b), 3066, 3067, 6001(a), 7101, 7103, 7205, and 7206, the provisions of subtitles A, B, and C of title III [§§ 3001–3025], and the provisions of title V [see Tables for classification].”
 
 **Effective Date of 1980 Amendment**
 
@@ -275,19 +275,19 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Relationship of 1994 Amendment to Prompt Payment Requirements**
 
-Pub. L. 103–355, title II, § 2001(h), Oct. 13, 1994, 108 Stat. 3303, provided that: “The amendments made by this section [amending this section and section 2307 of this title and repealing sections 7312, 7364, and 7521 of this title] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act [Oct. 13, 1994]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
+Pub. L. 103–355, title II, § 2001(h), Oct. 13, 1994, 108 Stat. 3303, provided that: “The amendments made by this section [amending this section and section 2307 of this title and repealing sections 7312, 7364, and 7521 of this title] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act [Oct. 13, 1994]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
 
-## § 8753. Tolls and fares: payment or reimbursement
+## § 8753. Tolls and fares: payment or reimbursement
 
 Naval appropriations chargeable for transportation or travel are available for the payment or reimbursement of ferry, bridge, and similar tolls and of streetcar, bus, and similar fares.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 464, § 7523; renumbered § 8753, Pub. L. 115–232, div. A, title VIII, § 807(d)(7), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 464, § 7523; renumbered § 8753, Pub. L. 115–232, div. A, title VIII, § 807(d)(7), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7523 | 34 U.S.C. 899a. | Aug. 2, 1946, ch. 756, § 23, 60 Stat. 856. |
+| 7523 | 34 U.S.C. 899a. | Aug. 2, 1946, ch. 756, § 23, 60 Stat. 856. |
 
 **Editorial Notes**
 
@@ -301,7 +301,7 @@ Naval appropriations chargeable for transportation or travel are available for t
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8754. Marine mammals: use for national defense purposes
+## § 8754. Marine mammals: use for national defense purposes
 
 **(a) Authority.—** Subject to subsection (c), the Secretary of Defense may authorize the taking of not more than 25 marine mammals each year for national defense purposes. Any such authorization may be made only with the concurrence of the Secretary of Commerce and after consultation with the Marine Mammal Commission established by section 201 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1401).
 
@@ -311,13 +311,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Application of Other Act.—** This section applies without regard to the provisions of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.).
 
-(Added Pub. L. 99–661, div. A, title XIII, § 1354(a), Nov. 14, 1986, 100 Stat. 3996, § 7524; renumbered § 8754, Pub. L. 115–232, div. A, title VIII, § 807(d)(7), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 99–661, div. A, title XIII, § 1354(a), Nov. 14, 1986, 100 Stat. 3996, § 7524; renumbered § 8754, Pub. L. 115–232, div. A, title VIII, § 807(d)(7), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (d), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of Title 16 and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (d), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of Title 16 and Tables.
 
 **Prior Provisions**
 
@@ -335,7 +335,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Prohibition on Use of Funds for Retirement of Legacy Maritime Mine Countermeasures Platforms**
 
-Pub. L. 117–263, div. A, title III, § 393, Dec. 23, 2022, 136 Stat. 2550, provided that:
+Pub. L. 117–263, div. A, title III, § 393, Dec. 23, 2022, 136 Stat. 2550, provided that:
 
 > **“(a) Prohibition.—** Except as provided in subsection (b), the Secretary of the Navy may not obligate or expend funds to discontinue or prepare to discontinue, including by making a substantive reduction in training and operational employment, any element of the Marine Mammal Program of the Navy, that has been used, or is currently being used, for—
 
@@ -351,7 +351,7 @@ Pub. L. 117–263, div. A, title III, § 393, Dec. 23, 2022, 136 Stat. 2550, p
 
 > **“(3)** deployed a sufficient quantity of capabilities referred to in paragraph (1) that have achieved initial operational capability to continue to meet or exceed all operational requirements currently being met by Marine Mammal Program, including a detailed explanation of such deployment.”
 
-## § 8755. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts
+## § 8755. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts
 
 **(a) In General.—** Any covered offeror seeking to be awarded a shipbuilding construction contract as part of a major defense acquisition program with funds from the Shipbuilding and Conversion, Navy account shall disclose along with the offer and any subsequent revisions of the offer (including the final proposal revision offer) if any part of the planned contract performance will or is expected to include foreign government subsidized performance, foreign financing, foreign financial guarantees, or foreign tax concessions.
 
@@ -367,7 +367,7 @@ Pub. L. 117–263, div. A, title III, § 393, Dec. 23, 2022, 136 Stat. 2550, p
 
 **(3) Major defense acquisition program.—** The term “major defense acquisition program” has the meaning given the term in section 4201 of this title.
 
-(Added Pub. L. 116–283, div. A, title VIII, § 803(a), Jan. 1, 2021, 134 Stat. 3734, § 2339c; renumbered § 8755 and amended Pub. L. 117–81, div. A, title XVII, § 1701(e)(1)(A), Dec. 27, 2021, 135 Stat. 2138.)
+(Added Pub. L. 116–283, div. A, title VIII, § 803(a), Jan. 1, 2021, 134 Stat. 3734, § 2339c; renumbered § 8755 and amended Pub. L. 117–81, div. A, title XVII, § 1701(e)(1)(A), Dec. 27, 2021, 135 Stat. 2138.)
 
 **Editorial Notes**
 

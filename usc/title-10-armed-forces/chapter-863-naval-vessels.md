@@ -19,83 +19,83 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title III, §§ 337, 811(a)(8), Dec. 18, 2025, 139 Stat. 819, 948, added item 8698 and struck out item 8688 “Warranty requirements for shipbuilding contracts”. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title III, §§ 337, 811(a)(8), Dec. 18, 2025, 139 Stat. 819, 948, added item 8698 and struck out item 8688 “Warranty requirements for shipbuilding contracts”. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title X, § 1025, Dec. 23, 2024, 138 Stat. 2055, added item 8679a. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title X, § 1025, Dec. 23, 2024, 138 Stat. 2055, added item 8679a. Amendment was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title XVIII, § 1801(a)(39), Dec. 22, 2023, 137 Stat. 685, renumbered item 8696 “Battle force ship employment, maintenance, and manning baseline plans” as 8697. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title XVIII, § 1801(a)(39), Dec. 22, 2023, 137 Stat. 685, renumbered item 8696 “Battle force ship employment, maintenance, and manning baseline plans” as 8697. Amendment was made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title I, § 122(b), title X, § 1026(b), Dec. 23, 2022, 136 Stat. 2443, 2767, added two items 8696.
+2022—Pub. L. 117–263, div. A, title I, § 122(b), title X, § 1026(b), Dec. 23, 2022, 136 Stat. 2443, 2767, added two items 8696.
 
-2021—Pub. L. 117–81, div. A, title X, §§ 1013(b), 1014(b), 1015(a), 1016(b), 1017(b), Dec. 27, 2021, 135 Stat. 1893–1895, 1897, added items 8669c, 8678a, 8694, and 8695, and redesignated item 8692 “Biennial report on shipbuilder training and the defense industrial base” as 8693.
+2021—Pub. L. 117–81, div. A, title X, §§ 1013(b), 1014(b), 1015(a), 1016(b), 1017(b), Dec. 27, 2021, 135 Stat. 1893–1895, 1897, added items 8669c, 8678a, 8694, and 8695, and redesignated item 8692 “Biennial report on shipbuilder training and the defense industrial base” as 8693.
 
-Pub. L. 116–283, div. A, title XVIII, § 1876(d), Jan. 1, 2021, 134 Stat. 4291, which added items 8684a and 8688a to the analysis of this chapter effective Jan. 1, 2022, was repealed by Pub. L. 117–81, div. A, title XVII, § 1701(n)(3), Dec. 27, 2021, 135 Stat. 2146.
+Pub. L. 116–283, div. A, title XVIII, § 1876(d), Jan. 1, 2021, 134 Stat. 4291, which added items 8684a and 8688a to the analysis of this chapter effective Jan. 1, 2022, was repealed by Pub. L. 117–81, div. A, title XVII, § 1701(n)(3), Dec. 27, 2021, 135 Stat. 2146.
 
-Pub. L. 116–283, div. A, title X, § 1026(b), Jan. 1, 2021, 134 Stat. 3844, added item 8692 “Biennial report on shipbuilder training and the defense industrial base”.
+Pub. L. 116–283, div. A, title X, § 1026(b), Jan. 1, 2021, 134 Stat. 3844, added item 8692 “Biennial report on shipbuilder training and the defense industrial base”.
 
-2019—Pub. L. 116–92, div. A, title I, § 121(b), title X, § 1034(b), Dec. 20, 2019, 133 Stat. 1234, 1583, added item 8669b and item 8692 “Ford-class aircraft carriers: cost limitation baselines”.
+2019—Pub. L. 116–92, div. A, title I, § 121(b), title X, § 1034(b), Dec. 20, 2019, 133 Stat. 1234, 1583, added item 8669b and item 8692 “Ford-class aircraft carriers: cost limitation baselines”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 633 of this title as this chapter and items 7291 to 7294, 7297, 7299 to 7301, and 7303 to 7321 as 8661 to 8664, 8667, 8669 to 8671, and 8673 to 8691, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 633 of this title as this chapter and items 7291 to 7294, 7297, 7299 to 7301, and 7303 to 7321 as 8661 to 8664, 8667, 8669 to 8671, and 8673 to 8691, respectively.
 
-Pub. L. 115–232, div. A, title III, § 323(a)(2), title X, §§ 1015(b)(2), 1016(b), Aug. 13, 2018, 132 Stat. 1720, 1949, 1951, added items 7320 and 7321 and struck out item 7295 “Vessels: under-age”.
+Pub. L. 115–232, div. A, title III, § 323(a)(2), title X, §§ 1015(b)(2), 1016(b), Aug. 13, 2018, 132 Stat. 1720, 1949, 1951, added items 7320 and 7321 and struck out item 7295 “Vessels: under-age”.
 
-Pub. L. 115–91, div. C, title XXXI, § 3115(b)(2), Dec. 12, 2017, 131 Stat. 1887, added item 7319.
+Pub. L. 115–91, div. C, title XXXI, § 3115(b)(2), Dec. 12, 2017, 131 Stat. 1887, added item 7319.
 
-2016—Pub. L. 114–328, div. A, title X, § 1022(a)(2), (b), Dec. 23, 2016, 130 Stat. 2388, added item 7318, effective on the later of the date of enactment of the National Defense Authorization for Fiscal Year 2018 or Sept. 30, 2017.
+2016—Pub. L. 114–328, div. A, title X, § 1022(a)(2), (b), Dec. 23, 2016, 130 Stat. 2388, added item 7318, effective on the later of the date of enactment of the National Defense Authorization for Fiscal Year 2018 or Sept. 30, 2017.
 
-Pub. L. 114–328, div. A, title I, § 121(a)(2), Dec. 23, 2016, 130 Stat. 2030, added item 7301.
+Pub. L. 114–328, div. A, title I, § 121(a)(2), Dec. 23, 2016, 130 Stat. 2030, added item 7301.
 
-2013—Pub. L. 113–66, div. A, title X, § 1022(e)(2), Dec. 26, 2013, 127 Stat. 846, substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” in item 7306.
+2013—Pub. L. 113–66, div. A, title X, § 1022(e)(2), Dec. 26, 2013, 127 Stat. 846, substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” in item 7306.
 
-2011—Pub. L. 112–81, div. A, title X, § 1061(27)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 7296 “Combatant surface vessels: notice before reduction in number; preservation of surge capability”.
+2011—Pub. L. 112–81, div. A, title X, § 1061(27)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 7296 “Combatant surface vessels: notice before reduction in number; preservation of surge capability”.
 
-Pub. L. 111–350, § 5(b)(51), Jan. 4, 2011, 124 Stat. 3846, substituted “chapter 65 of title 41” for “Walsh-Healey Act” in item 7299.
+Pub. L. 111–350, § 5(b)(51), Jan. 4, 2011, 124 Stat. 3846, substituted “chapter 65 of title 41” for “Walsh-Healey Act” in item 7299.
 
-2009—Pub. L. 111–84, div. A, title X, § 1073(a)(30), Oct. 28, 2009, 123 Stat. 2474, inserted period after “thereof” in item 7317.
+2009—Pub. L. 111–84, div. A, title X, § 1073(a)(30), Oct. 28, 2009, 123 Stat. 2474, inserted period after “thereof” in item 7317.
 
-2008—Pub. L. 110–417, [div. A], title VIII, § 825(b), Oct. 14, 2008, 122 Stat. 4534, added item 7317.
+2008—Pub. L. 110–417, [div. A], title VIII, § 825(b), Oct. 14, 2008, 122 Stat. 4534, added item 7317.
 
-2004—Pub. L. 108–375, div. A, title X, §§ 1011(b), 1012(a)(2), Oct. 28, 2004, 118 Stat. 2039, 2040, added items 7305a and 7312.
+2004—Pub. L. 108–375, div. A, title X, §§ 1011(b), 1012(a)(2), Oct. 28, 2004, 118 Stat. 2039, 2040, added items 7305a and 7312.
 
-2003—Pub. L. 108–136, div. A, title X, §§ 1013(b), 1015(b), Nov. 24, 2003, 117 Stat. 1591, 1592, added items 7306b and 7316.
+2003—Pub. L. 108–136, div. A, title X, §§ 1013(b), 1015(b), Nov. 24, 2003, 117 Stat. 1591, 1592, added items 7306b and 7316.
 
-2002—Pub. L. 107–314, div. A, title X, § 1021(b)(2), Dec. 2, 2002, 116 Stat. 2639, added item 7296.
+2002—Pub. L. 107–314, div. A, title X, § 1021(b)(2), Dec. 2, 2002, 116 Stat. 2639, added item 7296.
 
-1999—Pub. L. 106–65, div. A, title X, § 1016(b), Oct. 5, 1999, 113 Stat. 744, added item 7300.
+1999—Pub. L. 106–65, div. A, title X, § 1016(b), Oct. 5, 1999, 113 Stat. 744, added item 7300.
 
-1997—Pub. L. 105–85, div. A, title X, § 1027(a)(2), Nov. 18, 1997, 111 Stat. 1879, added item 7315.
+1997—Pub. L. 105–85, div. A, title X, § 1027(a)(2), Nov. 18, 1997, 111 Stat. 1879, added item 7315.
 
-1996—Pub. L. 104–106, div. A, title VIII, § 815(b), Feb. 10, 1996, 110 Stat. 396, added item 7299.
+1996—Pub. L. 104–106, div. A, title VIII, § 815(b), Feb. 10, 1996, 110 Stat. 396, added item 7299.
 
-1994—Pub. L. 103–355, title II, § 2001(j)(3)(A), title III, §§ 3023(b), 3024(b), Oct. 13, 1994, 108 Stat. 3303, 3333, 3334, struck out items 7299 “Contracts: application of Public Contracts Act”, 7302 “Construction on Pacific Coast”, and 7312 “Repair or maintenance of naval vessels: progress payments under certain contracts”.
+1994—Pub. L. 103–355, title II, § 2001(j)(3)(A), title III, §§ 3023(b), 3024(b), Oct. 13, 1994, 108 Stat. 3303, 3333, 3334, struck out items 7299 “Contracts: application of Public Contracts Act”, 7302 “Construction on Pacific Coast”, and 7312 “Repair or maintenance of naval vessels: progress payments under certain contracts”.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(a)(7), (c)(7), Nov. 30, 1993, 107 Stat. 1713, 1714, struck out items 7296 “Appropriations: available for other purposes”, 7298 “Conversion of combatants and auxiliaries”, and 7301 “Bids on construction: estimates required”, substituted “Examination of vessels; striking of vessels” for “Examination by board: unfit vessel stricken” in item 7304, “Vessels stricken from Naval Vessel Register: sale” for “Sale of vessel stricken from Naval Vessel Register” in item 7305, and “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” for “Use for experimental purposes” in item 7306, added item 7306a, substituted “Disposals to foreign nations” for “Restriction on disposal” in item 7307, “Chief of Naval Operations: certification required for disposal of combatant vessels” for “Transfer or gift of obsolete, condemned, or captured vessels” in item 7308, “Construction of vessels in foreign shipyards: prohibition” for “Restrictions on construction or repair of vessels in foreign shipyards” in item 7309, and “Overhaul, repair, etc. of vessels in foreign shipyards: restrictions” for “Policy in constructing combatant vessels” in item 7310.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(a)(7), (c)(7), Nov. 30, 1993, 107 Stat. 1713, 1714, struck out items 7296 “Appropriations: available for other purposes”, 7298 “Conversion of combatants and auxiliaries”, and 7301 “Bids on construction: estimates required”, substituted “Examination of vessels; striking of vessels” for “Examination by board: unfit vessel stricken” in item 7304, “Vessels stricken from Naval Vessel Register: sale” for “Sale of vessel stricken from Naval Vessel Register” in item 7305, and “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” for “Use for experimental purposes” in item 7306, added item 7306a, substituted “Disposals to foreign nations” for “Restriction on disposal” in item 7307, “Chief of Naval Operations: certification required for disposal of combatant vessels” for “Transfer or gift of obsolete, condemned, or captured vessels” in item 7308, “Construction of vessels in foreign shipyards: prohibition” for “Restrictions on construction or repair of vessels in foreign shipyards” in item 7309, and “Overhaul, repair, etc. of vessels in foreign shipyards: restrictions” for “Policy in constructing combatant vessels” in item 7310.
 
-1989—Pub. L. 101–189, div. A, title XVI, § 1622(a), Nov. 29, 1989, 103 Stat. 1604, redesignated item 7313 “Overhaul of naval vessels: competition between public and private shipyards” as 7314.
+1989—Pub. L. 101–189, div. A, title XVI, § 1622(a), Nov. 29, 1989, 103 Stat. 1604, redesignated item 7313 “Overhaul of naval vessels: competition between public and private shipyards” as 7314.
 
-1988—Pub. L. 100–456, div. A, title XII, §§ 1224(b)(2), 1225(a)(2), Sept. 29, 1988, 102 Stat. 2054, 2055, substituted “Restrictions on construction or repair” for “Restriction on construction” in item 7309 and added item 7313 “Overhaul of naval vessels: competition between public and private shipyards”.
+1988—Pub. L. 100–456, div. A, title XII, §§ 1224(b)(2), 1225(a)(2), Sept. 29, 1988, 102 Stat. 2054, 2055, substituted “Restrictions on construction or repair” for “Restriction on construction” in item 7309 and added item 7313 “Overhaul of naval vessels: competition between public and private shipyards”.
 
-Pub. L. 100–370, § 1(n)(2), July 19, 1988, 102 Stat. 850, added item 7313 “Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work”.
+Pub. L. 100–370, § 1(n)(2), July 19, 1988, 102 Stat. 850, added item 7313 “Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work”.
 
-1987—Pub. L. 100–180, div. A, title XI, § 1102(a)(2), Dec. 4, 1987, 101 Stat. 1145, added item 7312.
+1987—Pub. L. 100–180, div. A, title XI, § 1102(a)(2), Dec. 4, 1987, 101 Stat. 1145, added item 7312.
 
-1986—Pub. L. 99–661, div. A, title XII, § 1202(b), Nov. 14, 1986, 100 Stat. 3968, added item 7311.
+1986—Pub. L. 99–661, div. A, title XII, § 1202(b), Nov. 14, 1986, 100 Stat. 3968, added item 7311.
 
-1985—Pub. L. 99–145, title XIII, § 1303(a)(24)(B), Nov. 8, 1985, 99 Stat. 740, struck out “naval” before “vessels” in item 7309.
+1985—Pub. L. 99–145, title XIII, § 1303(a)(24)(B), Nov. 8, 1985, 99 Stat. 740, struck out “naval” before “vessels” in item 7309.
 
-1982—Pub. L. 97–295, § 1(48)(B), Oct. 12, 1982, 96 Stat. 1298, added item 7299a.
+1982—Pub. L. 97–295, § 1(48)(B), Oct. 12, 1982, 96 Stat. 1298, added item 7299a.
 
-Pub. L. 97–295, § 1(49)(B), Oct. 12, 1982, 96 Stat. 1299, added item 7310.
+Pub. L. 97–295, § 1(49)(B), Oct. 12, 1982, 96 Stat. 1299, added item 7310.
 
-Pub. L. 97–252, title XI, § 1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7309.
+Pub. L. 97–252, title XI, § 1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7309.
 
-1981—Pub. L. 97–86, title IX, § 911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 “Contracts for construction: profit limitation”.
+1981—Pub. L. 97–86, title IX, § 911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 “Contracts for construction: profit limitation”.
 
-## § 8661. Classification
+## § 8661. Classification
 
 The President may establish, and from time to time modify, as the needs of the service require, a classification of naval vessels.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 448, § 7291; renumbered § 8661, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 448, § 7291; renumbered § 8661, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -117,7 +117,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Strategy for Navy Investment in and Support for the Maritime Industrial Base**
 
-Pub. L. 119–60, div. A, title X, § 1019, Dec. 18, 2025, 139 Stat. 1032, provided that:
+Pub. L. 119–60, div. A, title X, § 1019, Dec. 18, 2025, 139 Stat. 1032, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Navy shall develop and implement a strategy for investing in and supporting the maritime industrial base to address cost and schedule challenges for surface and submarine shipbuilding programs.
 
@@ -143,7 +143,7 @@ Pub. L. 119–60, div. A, title X, § 1019, Dec. 18, 2025, 139 Stat. 1032, pro
 
 **Pilot Program on Use of Automated Shipbuilding Technologies and Capabilities**
 
-Pub. L. 119–60, div. A, title X, § 1021, Dec. 18, 2025, 139 Stat. 1033, provided that:
+Pub. L. 119–60, div. A, title X, § 1021, Dec. 18, 2025, 139 Stat. 1033, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Navy shall establish a pilot program on the use of automated assembly technologies and capabilities in naval shipbuilding to reduce overall construction times and alleviate workforce constraints (in this section referred to as the ‘pilot program’).
 
@@ -177,7 +177,7 @@ Pub. L. 119–60, div. A, title X, § 1021, Dec. 18, 2025, 139 Stat. 1033, pro
 
 **Requirements for the Unmanned Maritime Autonomy Architecture**
 
-Pub. L. 118–159, div. A, title X, § 1031, Dec. 23, 2024, 138 Stat. 2058, provided that:
+Pub. L. 118–159, div. A, title X, § 1031, Dec. 23, 2024, 138 Stat. 2058, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of the Navy shall—
 
@@ -193,11 +193,11 @@ Pub. L. 118–159, div. A, title X, § 1031, Dec. 23, 2024, 138 Stat. 2058, pr
 
 **Requirement for Mature Ship Design**
 
-Pub. L. 118–159, div. A, title X, § 1033, Dec. 23, 2024, 138 Stat. 2060, provided that: “The Secretary of the Navy shall take such actions as are necessary for the Navy to adopt recommendations 1, 3, 4, and 6 in the report of the Government Accountability Office titled, ‘Navy Shipbuilding: Increased Use of Leading Design Practices Could Improve Timeliness of Deliveries’, and dated May 2, 2024 (GAO–24–105503).”
+Pub. L. 118–159, div. A, title X, § 1033, Dec. 23, 2024, 138 Stat. 2060, provided that: “The Secretary of the Navy shall take such actions as are necessary for the Navy to adopt recommendations 1, 3, 4, and 6 in the report of the Government Accountability Office titled, ‘Navy Shipbuilding: Increased Use of Leading Design Practices Could Improve Timeliness of Deliveries’, and dated May 2, 2024 (GAO–24–105503).”
 
 **Policy of the United States on Minimum Number of Battle Force Ships**
 
-Pub. L. 115–91, div. A, title X, § 1025, Dec. 12, 2017, 131 Stat. 1549, as amended by Pub. L. 118–31, div. A, title X, § 1020, Dec. 22, 2023, 137 Stat. 385, provided that:
+Pub. L. 115–91, div. A, title X, § 1025, Dec. 12, 2017, 131 Stat. 1549, as amended by Pub. L. 118–31, div. A, title X, § 1020, Dec. 22, 2023, 137 Stat. 385, provided that:
 
 > **“(a) Policy.—** It shall be the policy of the United States—
 
@@ -209,15 +209,15 @@ Pub. L. 115–91, div. A, title X, § 1025, Dec. 12, 2017, 131 Stat. 1549, as 
 
 **Metering of Navy Piers to Accurately Measure Energy Consumption**
 
-Pub. L. 112–81, div. B, title XXVIII, § 2828, Dec. 31, 2011, 125 Stat. 1694, provided that:
+Pub. L. 112–81, div. B, title XXVIII, § 2828, Dec. 31, 2011, 125 Stat. 1694, provided that:
 
 > **“(a) Metering Required.—** The Secretary of the Navy shall meter Navy piers so that the energy consumption of naval vessels while in port can be accurately measured and captured and steps taken to improve the efficient use of energy by naval vessels while in port.
 
-> **“(b) Progress Reports.—** In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 under section 2925(a) of title 10, United States Code [section 2925(a) of this title struck out, and new section 2925(a) of this title added, by Pub. L. 117–263, § 314(b)(1)(B)], the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering.”
+> **“(b) Progress Reports.—** In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 under section 2925(a) of title 10, United States Code [section 2925(a) of this title struck out, and new section 2925(a) of this title added, by Pub. L. 117–263, § 314(b)(1)(B)], the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering.”
 
 **Advance Procurement Funding**
 
-Pub. L. 111–84, div. A, title I, § 124(a), Oct. 28, 2009, 123 Stat. 2214, provided that:
+Pub. L. 111–84, div. A, title I, § 124(a), Oct. 28, 2009, 123 Stat. 2214, provided that:
 
 > **“(a) Advance Procurement.—** With respect to a naval vessel for which amounts are authorized to be appropriated or otherwise made available for fiscal year 2010 or any fiscal year thereafter for advance procurement in shipbuilding and conversion, Navy, the Secretary of the Navy may enter into a contract, in advance of a contract for construction of any vessel, for any of the following:
 
@@ -227,11 +227,11 @@ Pub. L. 111–84, div. A, title I, § 124(a), Oct. 28, 2009, 123 Stat. 2214, p
 
 **Assessments Required Prior to Start of Construction on First Ship of a Shipbuilding Program**
 
-Pub. L. 110–181, div. A, title I, § 124, Jan. 28, 2008, 122 Stat. 28, required assessment of certain factors prior to start of construction on first ship of a shipbuilding program, prior to repeal by Pub. L. 117–81, div. A, title X, § 1013(c), Dec. 27, 2021, 135 Stat. 1893. See section 8669c of this title.
+Pub. L. 110–181, div. A, title I, § 124, Jan. 28, 2008, 122 Stat. 28, required assessment of certain factors prior to start of construction on first ship of a shipbuilding program, prior to repeal by Pub. L. 117–81, div. A, title X, § 1013(c), Dec. 27, 2021, 135 Stat. 1893. See section 8669c of this title.
 
 **Fast Sealift Program**
 
-Pub. L. 101–510, div. A, title XIV, § 1424, Nov. 5, 1990, 104 Stat. 1683, as amended by Pub. L. 102–190, div. A, title X, § 1015, Dec. 5, 1991, 105 Stat. 1458; Pub. L. 102–484, div. A, title X, § 1022, Oct. 23, 1992, 106 Stat. 2485; Pub. L. 103–337, div. A, title I, § 125, Oct. 5, 1994, 108 Stat. 2683, provided that:
+Pub. L. 101–510, div. A, title XIV, § 1424, Nov. 5, 1990, 104 Stat. 1683, as amended by Pub. L. 102–190, div. A, title X, § 1015, Dec. 5, 1991, 105 Stat. 1458; Pub. L. 102–484, div. A, title X, § 1022, Oct. 23, 1992, 106 Stat. 2485; Pub. L. 103–337, div. A, title I, § 125, Oct. 5, 1994, 108 Stat. 2683, provided that:
 
 > **“(a) Establishment of Program.—** The Secretary of the Navy shall establish a program for the construction and operation, or conversion and operation, of cargo vessels that incorporate features essential for military use of the vessels.
 
@@ -285,7 +285,7 @@ Pub. L. 101–510, div. A, title XIV, § 1424, Nov. 5, 1990, 104 Stat. 1683, a
 
 **Funding for Ship Production Engineering**
 
-Pub. L. 101–189, div. A, title XVI, § 1613, Nov. 29, 1989, 103 Stat. 1601, provided that:
+Pub. L. 101–189, div. A, title XVI, § 1613, Nov. 29, 1989, 103 Stat. 1601, provided that:
 
 > **“(a) Category for Funding.—** Any request submitted to Congress for appropriations for ship production engineering necessary to support the procurement of any ship included (at the time the request is submitted) in the five-year shipbuilding and conversion plan of the Navy shall be set forth in the Shipbuilding and Conversion account of the Navy (rather than in research and development accounts).
 
@@ -293,11 +293,11 @@ Pub. L. 101–189, div. A, title XVI, § 1613, Nov. 29, 1989, 103 Stat. 1601, 
 
 **Repair of Vessels in Foreign Shipyards**
 
-Pub. L. 99–500, § 101(c) [title IX, § 9101], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, § 101(c) [title IX, § 9101], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, provided that: “No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs.”
+Pub. L. 99–500, § 101(c) [title IX, § 9101], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, § 101(c) [title IX, § 9101], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, provided that: “No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs.”
 
 **Encouragement of Construction in United States Shipyards of Combatant Vessels for United States Allies**
 
-Pub. L. 99–145, title XIV, § 1455, Nov. 8, 1985, 99 Stat. 761, provided that:
+Pub. L. 99–145, title XIV, § 1455, Nov. 8, 1985, 99 Stat. 761, provided that:
 
 > **“(a) In General.—** The Secretary of the Navy shall take such steps as necessary—
 
@@ -315,7 +315,7 @@ Pub. L. 99–145, title XIV, § 1455, Nov. 8, 1985, 99 Stat. 761, provided tha
 
 **Six-Hundred-Ship Goal for Navy; Sense of Congress**
 
-Pub. L. 97–114, title VII, § 791, Dec. 29, 1981, 95 Stat. 1593, provided that:
+Pub. L. 97–114, title VII, § 791, Dec. 29, 1981, 95 Stat. 1593, provided that:
 
 > “It is the sense of the Congress that—
 
@@ -327,15 +327,15 @@ Pub. L. 97–114, title VII, § 791, Dec. 29, 1981, 95 Stat. 1593, provided th
 
 **Tonnage Balance for Construction of Ships; Repeal**
 
-Pub. L. 89–37, title III, § 301, June 11, 1965, 79 Stat. 128, provided that: “Outstanding tonnage balances remaining in law for construction of Navy ships are hereby repealed.”
+Pub. L. 89–37, title III, § 301, June 11, 1965, 79 Stat. 128, provided that: “Outstanding tonnage balances remaining in law for construction of Navy ships are hereby repealed.”
 
-## § 8662. Naming
+## § 8662. Naming
 
 **(a)** Not more than one vessel of the Navy may have the same name.
 
 **(b)** The Secretary of the Navy may change the name of any vessel bought for the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 448, § 7292; Pub. L. 112–239, div. A, title X, § 1018(b), Jan. 2, 2013, 126 Stat. 1910; Pub. L. 113–291, div. A, title X, § 1071(f)(27), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–92, div. A, title X, § 1074(a), Nov. 25, 2015, 129 Stat. 996; renumbered § 8662, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 118–31, div. A, title X, § 1018, Dec. 22, 2023, 137 Stat. 384.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 448, § 7292; Pub. L. 112–239, div. A, title X, § 1018(b), Jan. 2, 2013, 126 Stat. 1910; Pub. L. 113–291, div. A, title X, § 1071(f)(27), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–92, div. A, title X, § 1074(a), Nov. 25, 2015, 129 Stat. 996; renumbered § 8662, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 118–31, div. A, title X, § 1018, Dec. 22, 2023, 137 Stat. 384.)
 
 **Historical and Revision Notes**
 
@@ -355,7 +355,7 @@ In subsection (c) the words “by authority of law” are omitted as surplusage.
 
 **Prior Provisions**
 
-A prior section 8662, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, provided for military training, organization, and equipping of prisoners who have been sent to United States Disciplinary Barracks, prior to repeal by Pub. L. 90–377, § 6(3), July 5, 1968, 82 Stat. 288.
+A prior section 8662, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, provided for military training, organization, and equipping of prisoners who have been sent to United States Disciplinary Barracks, prior to repeal by Pub. L. 90–377, § 6(3), July 5, 1968, 82 Stat. 288.
 
 **Amendments**
 
@@ -381,11 +381,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1018(c), Jan. 2, 2013, 126 Stat. 1911, provided that: “This section [amending this section and enacting provisions set out as a note under this section] and the amendment made by this section shall go into effect on the date that is 30 days after the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–239, div. A, title X, § 1018(c), Jan. 2, 2013, 126 Stat. 1911, provided that: “This section [amending this section and enacting provisions set out as a note under this section] and the amendment made by this section shall go into effect on the date that is 30 days after the date of the enactment of this Act [Jan. 2, 2013].”
 
 **Findings**
 
-Pub. L. 112–239, div. A, title X, § 1018(a), Jan. 2, 2013, 126 Stat. 1910, provided that:
+Pub. L. 112–239, div. A, title X, § 1018(a), Jan. 2, 2013, 126 Stat. 1910, provided that:
 
 > “Congress makes the following findings:
 
@@ -395,11 +395,11 @@ Pub. L. 112–239, div. A, title X, § 1018(a), Jan. 2, 2013, 126 Stat. 1910, 
 
 > **“(3)** These customs and traditions provide appropriate and necessary standards for the naming of vessels of the Navy.”
 
-## § 8663. Number in service in time of peace
+## § 8663. Number in service in time of peace
 
 In time of peace, the President may keep in service such vessels of the Navy as are required and keep the rest in reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 449, § 7293; renumbered § 8663, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 449, § 7293; renumbered § 8663, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -413,7 +413,7 @@ The words “vessels of the Navy” are substituted for the words “of the publ
 
 **Prior Provisions**
 
-A prior section 8663, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, authorized Secretary of Air Force to parole or remit sentence and restore to duty offenders who are confined in the United States Disciplinary Barracks, prior to repeal by Pub. L. 90–377, § 6(3), July 5, 1968, 82 Stat. 288.
+A prior section 8663, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, authorized Secretary of Air Force to parole or remit sentence and restore to duty offenders who are confined in the United States Disciplinary Barracks, prior to repeal by Pub. L. 90–377, § 6(3), July 5, 1968, 82 Stat. 288.
 
 **Amendments**
 
@@ -425,17 +425,17 @@ A prior section 8663, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, authorized Sec
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8664. Suspension of construction in case of treaty
+## § 8664. Suspension of construction in case of treaty
 
 In case of a treaty for the limitation of naval armament to which the United States is a signatory, the President may suspend so much of the authorized naval construction as is necessary to bring the naval vessels of the United States within the limitations agreed upon. Such a suspension does not apply to vessels under construction at the time the suspension is made.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 449, § 7294; renumbered § 8664, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 449, § 7294; renumbered § 8664, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7294 | 34 U.S.C. 498h (as applicable to vessels). | May 17, 1938, ch. 243, § 9 (as applicable to vessels), 52 Stat. 403. |
+| 7294 | 34 U.S.C. 498h (as applicable to vessels). | May 17, 1938, ch. 243, § 9 (as applicable to vessels), 52 Stat. 403. |
 
 The words “the United States would welcome and support an international conference for naval limitations” are omitted as a declaration of purpose without permanent or general significance. The word “further” is omitted since there is no such agreement in existence today. The word “international” is omitted as unnecessary since the word “treaty” necessarily involves an international understanding. The word “may” is substituted for the words “is hereby authorized and empowered to” for brevity.
 
@@ -451,17 +451,17 @@ The words “the United States would welcome and support an international confer
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8667. Changing category or type: limitations
+## § 8667. Changing category or type: limitations
 
 Unless they have been specifically made available for the purpose, funds appropriated for the repair or alteration of naval vessels may not be used to make repairs or alterations of any vessel that would change its category or type.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 449, § 7297; renumbered § 8667, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 449, § 7297; renumbered § 8667, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7297 | 34 U.S.C. 490. | June 12, 1948, ch. 452, § 2, 62 Stat. 382. |
+| 7297 | 34 U.S.C. 490. | June 12, 1948, ch. 452, § 2, 62 Stat. 382. |
 
 **Editorial Notes**
 
@@ -475,11 +475,11 @@ Unless they have been specifically made available for the purpose, funds appropr
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8669. Contracts: applicability of chapter 65 of title 41
+## § 8669. Contracts: applicability of chapter 65 of title 41
 
 Each contract for the construction, alteration, furnishing, or equipping of a naval vessel is subject to chapter 65 of title 41 unless the President determines that this requirement is not in the interest of national defense.
 
-(Added Pub. L. 104–106, div. A, title VIII, § 815(a), Feb. 10, 1996, 110 Stat. 396, § 7299; amended Pub. L. 111–350, § 5(b)(52), Jan. 4, 2011, 124 Stat. 3846; renumbered § 8669, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 104–106, div. A, title VIII, § 815(a), Feb. 10, 1996, 110 Stat. 396, § 7299; amended Pub. L. 111–350, § 5(b)(52), Jan. 4, 2011, 124 Stat. 3846; renumbered § 8669, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -495,7 +495,7 @@ Each contract for the construction, alteration, furnishing, or equipping of a na
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8669a. Construction of combatant and escort vessels and assignment of vessel projects
+## § 8669a. Construction of combatant and escort vessels and assignment of vessel projects
 
 **(a)** The assignment of naval vessel conversion, alteration, and repair projects shall be based on economic and military considerations and may not be restricted by a requirement that certain parts of naval shipwork be assigned to a particular type of shipyard or geographical area or by a similar requirement.
 
@@ -515,13 +515,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(4)** In this subsection, the term “short-term work” means work that will be for a period of 18 months or less.
 
-(Added Pub. L. 97–295, § 1(48)(A), Oct. 12, 1982, 96 Stat. 1298, § 7299a; amended Pub. L. 99–661, div. A, title XII, § 1201(a), Nov. 14, 1986, 100 Stat. 3967; Pub. L. 100–180, div. A, title XI, § 1101, Dec. 4, 1987, 101 Stat. 1145; Pub. L. 101–510, div. A, title XIV, § 1422, Nov. 5, 1990, 104 Stat. 1682; Pub. L. 102–484, div. A, title X, § 1016, Oct. 23, 1992, 106 Stat. 2485; Pub. L. 114–328, div. A, title X, § 1021, Dec. 23, 2016, 130 Stat. 2388; renumbered § 8669a, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 118–159, div. A, title X, § 1023(a), Dec. 23, 2024, 138 Stat. 2052; Pub. L. 119–60, div. A, title X, § 1012, Dec. 18, 2025, 139 Stat. 1030.)
+(Added Pub. L. 97–295, § 1(48)(A), Oct. 12, 1982, 96 Stat. 1298, § 7299a; amended Pub. L. 99–661, div. A, title XII, § 1201(a), Nov. 14, 1986, 100 Stat. 3967; Pub. L. 100–180, div. A, title XI, § 1101, Dec. 4, 1987, 101 Stat. 1145; Pub. L. 101–510, div. A, title XIV, § 1422, Nov. 5, 1990, 104 Stat. 1682; Pub. L. 102–484, div. A, title X, § 1016, Oct. 23, 1992, 106 Stat. 2485; Pub. L. 114–328, div. A, title X, § 1021, Dec. 23, 2016, 130 Stat. 2388; renumbered § 8669a, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 118–159, div. A, title X, § 1023(a), Dec. 23, 2024, 138 Stat. 2052; Pub. L. 119–60, div. A, title X, § 1012, Dec. 18, 2025, 139 Stat. 1030.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7299a | 10:7291 (note). | June 11, 1965, Pub. L. 89–37, §§ 302, 303, 79 Stat. 128. |
+| 7299a | 10:7291 (note). | June 11, 1965, Pub. L. 89–37, §§ 302, 303, 79 Stat. 128. |
 
 In subsection (a), the words “combatant vessels” are substituted for “warships” for consistency in title 10 and because of 1:3. The words “for which appropriations are authorized by this Act and hereafter” are omitted as unnecessary.
 
@@ -537,11 +537,11 @@ In subsection (a), the words “combatant vessels” are substituted for “wars
 
 2016—Subsec. (c)(4). Pub. L. 114–328 substituted “10 months” for “six months”.
 
-1992—Subsec. (a). Pub. L. 102–484, § 1016(a), (b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The distribution of assignments and contracts for the construction of combatant vessels and escort vessels is subject to the Act of March 27, 1934 (ch. 95, 48 Stat. 503), requiring that the first and each succeeding alternate vessel be constructed in a Navy yard. However, the President may direct that a vessel be constructed in a Navy or private yard if the requirement of this subsection is inconsistent with the public interest.”
+1992—Subsec. (a). Pub. L. 102–484, § 1016(a), (b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The distribution of assignments and contracts for the construction of combatant vessels and escort vessels is subject to the Act of March 27, 1934 (ch. 95, 48 Stat. 503), requiring that the first and each succeeding alternate vessel be constructed in a Navy yard. However, the President may direct that a vessel be constructed in a Navy or private yard if the requirement of this subsection is inconsistent with the public interest.”
 
-Subsec. (b). Pub. L. 102–484, § 1016(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 102–484, § 1016(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-Subsecs. (c), (d). Pub. L. 102–484, § 1016(b), redesignated subsec. (d) as (c) and substituted “subsection (a)” for “subsection (b)” in par. (2). Former subsec. (c) redesignated (b).
+Subsecs. (c), (d). Pub. L. 102–484, § 1016(b), redesignated subsec. (d) as (c) and substituted “subsection (a)” for “subsection (b)” in par. (2). Former subsec. (c) redesignated (b).
 
 1990—Subsec. (d)(3). Pub. L. 101–510 substituted “apply in the case of voyage repairs.” for “apply—
 
@@ -569,7 +569,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For delegation of authority of President under subsec. (a) of this section, see section 2 of Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, set out as a note under section 113 of this title.
 
-## § 8669b. Senior Technical Authority for each naval vessel class
+## § 8669b. Senior Technical Authority for each naval vessel class
 
 **(a) Senior Technical Authority.—**
 
@@ -645,7 +645,7 @@ For delegation of authority of President under subsec. (a) of this section, see 
 
 **(3)** The term “Milestone A approval” means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
-(Added Pub. L. 116–92, div. A, title X, § 1034(a), Dec. 20, 2019, 133 Stat. 1580; amended Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 119–60, div. A, title X, § 1013, div. A, title XVIII, § 1805(b)(2), Dec. 18, 2025, 139 Stat. 1030, 1236.)
+(Added Pub. L. 116–92, div. A, title X, § 1034(a), Dec. 20, 2019, 133 Stat. 1580; amended Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 119–60, div. A, title X, § 1013, div. A, title XVIII, § 1805(b)(2), Dec. 18, 2025, 139 Stat. 1030, 1236.)
 
 **Editorial Notes**
 
@@ -655,11 +655,11 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2025—Subsec. (a)(2)(B). Pub. L. 119–60, § 1013(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “operates independently of chains-of-command for acquisition program management.”
+2025—Subsec. (a)(2)(B). Pub. L. 119–60, § 1013(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “operates independently of chains-of-command for acquisition program management.”
 
-Subsec. (b). Pub. L. 119–60, § 1013(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 119–60, § 1013(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(3). Pub. L. 119–60, § 1805(b)(2), substituted “means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.” for “has the meaning given that term in section 4211 of this title.”
+Subsec. (d)(3). Pub. L. 119–60, § 1805(b)(2), substituted “means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.” for “has the meaning given that term in section 4211 of this title.”
 
 2021—Subsec. (d)(3). Pub. L. 116–283 substituted “section 4211” for “section 2431a”.
 
@@ -671,7 +671,7 @@ Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 **Exemption of Unmanned Surface Vessels and Unmanned Underwater Vehicles From Certain Technical Authority Requirements**
 
-Pub. L. 119–60, div. A, title X, § 1020, Dec. 18, 2025, 139 Stat. 1033, provided that:
+Pub. L. 119–60, div. A, title X, § 1020, Dec. 18, 2025, 139 Stat. 1033, provided that:
 
 > **“(a) Exemption From Senior Technical Authority Requirements.—** Unmanned surface vessels and unmanned underwater vehicles acquired or developed by the Department of the Navy are exempt from any requirement for oversight by a senior technical authority established under section 8669b of title 10, United States Code, except the requirements, specifications, and approvals described in subsection (c).
 
@@ -685,7 +685,7 @@ Pub. L. 119–60, div. A, title X, § 1020, Dec. 18, 2025, 139 Stat. 1033, pro
 
 > **“(2)** The term ‘unmanned underwater vehicle’ means a vehicle designed to operate below the surface of the water without an onboard human crew.”
 
-## § 8669c. Assessments required prior to start of construction on first ship of a shipbuilding program
+## § 8669c. Assessments required prior to start of construction on first ship of a shipbuilding program
 
 **(a) In General.—** The Secretary of the Navy may not approve the start of construction of the first ship for any major shipbuilding program until a period of 15 days has elapsed following the date on which the Secretary—
 
@@ -747,21 +747,21 @@ Pub. L. 119–60, div. A, title X, § 1020, Dec. 18, 2025, 139 Stat. 1033, pro
 
 **(4) Production readiness review.—** The term “production readiness review” means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase.
 
-(Added Pub. L. 117–81, div. A, title X, § 1013(a), Dec. 27, 2021, 135 Stat. 1892; amended Pub. L. 118–159, div. A, title X, § 1024, Dec. 23, 2024, 138 Stat. 2053.)
+(Added Pub. L. 117–81, div. A, title X, § 1013(a), Dec. 27, 2021, 135 Stat. 1892; amended Pub. L. 118–159, div. A, title X, § 1024, Dec. 23, 2024, 138 Stat. 2053.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 1024(1)(A), substituted “15 days” for “30 days” in introductory provisions.
+2024—Subsec. (a). Pub. L. 118–159, § 1024(1)(A), substituted “15 days” for “30 days” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 118–159, § 1024(1)(B), substituted “the start” for “commencement”.
+Subsec. (a)(2). Pub. L. 118–159, § 1024(1)(B), substituted “the start” for “commencement”.
 
-Subsec. (a)(3). Pub. L. 118–159, § 1024(1)(C), inserted “at least 95 percent of all” before “the basic” and substituted “drawing packages for the ship have reached final approval” for “of the vessel is complete”.
+Subsec. (a)(3). Pub. L. 118–159, § 1024(1)(C), inserted “at least 95 percent of all” before “the basic” and substituted “drawing packages for the ship have reached final approval” for “of the vessel is complete”.
 
-Subsec. (b). Pub. L. 118–159, § 1024(2)(A), struck out “, at a minimum, an assessment of” after “include” in introductory provisions.
+Subsec. (b). Pub. L. 118–159, § 1024(2)(A), struck out “, at a minimum, an assessment of” after “include” in introductory provisions.
 
-Subsec. (b)(1) to (8). Pub. L. 118–159, § 1024(2)(B), added pars. (1) to (8) and struck out former pars. (1) to (6) which read as follows:
+Subsec. (b)(1) to (8). Pub. L. 118–159, § 1024(2)(B), added pars. (1) to (8) and struck out former pars. (1) to (6) which read as follows:
 
 “(1) The maturity of the ship’s design, as measured by stability of the ship contract specifications and the degree of completion of detail design and production design drawings.
 
@@ -775,19 +775,19 @@ Subsec. (b)(1) to (8). Pub. L. 118–159, § 1024(2)(B), added pars. (1) to (8
 
 “(6) The extent to which adequate processes and metrics are in place to measure and manage program risks.”
 
-Subsec. (c)(1). Pub. L. 118–159, § 1024(3)(A)(i), inserted “, and when used with respect to manned surface and undersea combatants, means design through the completion of three-dimensional computer aided modeling” after “computer aided models” in introductory provisions.
+Subsec. (c)(1). Pub. L. 118–159, § 1024(3)(A)(i), inserted “, and when used with respect to manned surface and undersea combatants, means design through the completion of three-dimensional computer aided modeling” after “computer aided models” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 118–159, § 1024(3)(A)(ii), substituted “supports” for “fixes”.
+Subsec. (c)(1)(A). Pub. L. 118–159, § 1024(3)(A)(ii), substituted “supports” for “fixes”.
 
-Subsec. (c)(1)(C). Pub. L. 118–159, § 1024(3)(A)(iii), substituted “positions and routes all major distributive systems of the ship” for “routes major portions of all distributive systems of the vessel”.
+Subsec. (c)(1)(C). Pub. L. 118–159, § 1024(3)(A)(iii), substituted “positions and routes all major distributive systems of the ship” for “routes major portions of all distributive systems of the vessel”.
 
-Subsec. (c)(5). Pub. L. 118–159, § 1024(3)(B), struck out par. (5) which defined “start of construction”.
+Subsec. (c)(5). Pub. L. 118–159, § 1024(3)(B), struck out par. (5) which defined “start of construction”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Metrics for Basic and Functional Design for Ship Construction**
 
-Pub. L. 119–60, div. A, title X, § 1016, Dec. 18, 2025, 139 Stat. 1031, provided that:
+Pub. L. 119–60, div. A, title X, § 1016, Dec. 18, 2025, 139 Stat. 1031, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Navy shall select a metric to measure the progression of basic and functional design with respect to the construction of ships.
 
@@ -795,11 +795,11 @@ Pub. L. 119–60, div. A, title X, § 1016, Dec. 18, 2025, 139 Stat. 1031, pro
 
 > **“(c) Basic and Functional Design.—** In this section, the term ‘basic and functional design’ has the meaning given such term in section 8669c(1) [sic; probably means 8669c(c)(1)] of title 10, United States Code.”
 
-## § 8670. Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards
+## § 8670. Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards
 
 The conditions set forth in section 2208(j)(1)(B) of this title and subsections (a)(1) and (c)(1)(A) of section 2563 of this title shall not apply to a sale by a naval shipyard of articles or services to a private shipyard that is made at the request of the private shipyard in order to facilitate the private shipyard’s fulfillment of a Department of Defense contract with respect to a nuclear ship. This section does not authorize a naval shipyard to construct a nuclear ship for the private shipyard, to perform a majority of the work called for in a contract with a private entity, or to provide articles or services not requested by the private shipyard.
 
-(Added Pub. L. 106–65, div. A, title X, § 1016(a), Oct. 5, 1999, 113 Stat. 744, § 7300; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1033(c)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–261; renumbered § 8670, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 106–65, div. A, title X, § 1016(a), Oct. 5, 1999, 113 Stat. 744, § 7300; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1033(c)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–261; renumbered § 8670, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -815,7 +815,7 @@ The conditions set forth in section 2208(j)(1)(B) of this title and subsections 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8671. Determination of vessel delivery dates
+## § 8671. Determination of vessel delivery dates
 
 **(a) In General.—** The delivery of a covered vessel shall be deemed to occur on the date on which—
 
@@ -841,21 +841,21 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(B)** A United States Naval Ship that contributes directly to Navy warfighting or support missions.
 
-(Added Pub. L. 114–328, div. A, title I, § 121(a)(1), Dec. 23, 2016, 130 Stat. 2029, § 7301; renumbered § 8671 and amended Pub. L. 115–232, div. A, title VIII, § 807(d)(2), title X, § 1014, Aug. 13, 2018, 132 Stat. 1836, 1948; Pub. L. 116–283, div. A, title XVIII, § 1849(f), formerly § 1849(m), Jan. 1, 2021, 134 Stat. 4264, renumbered § 1849(f) and amended Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(5)(B), (6)(D), Dec. 27, 2021, 135 Stat. 2147.)
+(Added Pub. L. 114–328, div. A, title I, § 121(a)(1), Dec. 23, 2016, 130 Stat. 2029, § 7301; renumbered § 8671 and amended Pub. L. 115–232, div. A, title VIII, § 807(d)(2), title X, § 1014, Aug. 13, 2018, 132 Stat. 1836, 1948; Pub. L. 116–283, div. A, title XVIII, § 1849(f), formerly § 1849(m), Jan. 1, 2021, 134 Stat. 4264, renumbered § 1849(f) and amended Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(5)(B), (6)(D), Dec. 27, 2021, 135 Stat. 2147.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(2). Pub. L. 116–283, § 1849(f), formerly § 1849(m), as renumbered and amended by Pub. L. 117–81, § 1701(*o*)(5)(B), (6)(D), substituted “section 4351” for “section 2432”.
+2021—Subsec. (b)(2). Pub. L. 116–283, § 1849(f), formerly § 1849(m), as renumbered and amended by Pub. L. 117–81, § 1701(*o*)(5)(B), (6)(D), substituted “section 4351” for “section 2432”.
 
-2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7301 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7301 of this title as this section.
 
-Subsec. (c). Pub. L. 115–232, § 1014(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 115–232, § 1014(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 115–232, § 1014(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “In this section, the term ‘covered vessel’ means any vessel of the Navy that is under construction on or after the date of the enactment of this section using amounts authorized to be appropriated for the Department of Defense for shipbuilding and conversion, Navy.”
+Subsec. (d). Pub. L. 115–232, § 1014(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “In this section, the term ‘covered vessel’ means any vessel of the Navy that is under construction on or after the date of the enactment of this section using amounts authorized to be appropriated for the Department of Defense for shipbuilding and conversion, Navy.”
 
-Pub. L. 115–232, § 1014(a)(1), redesignated subsec. (c) as (d).
+Pub. L. 115–232, § 1014(a)(1), redesignated subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -871,7 +871,7 @@ Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 **Certification**
 
-Pub. L. 114–328, div. A, title I, § 121(b), Dec. 23, 2016, 130 Stat. 2030, provided that:
+Pub. L. 114–328, div. A, title I, § 121(b), Dec. 23, 2016, 130 Stat. 2030, provided that:
 
 > **“(1) In general.—** Not later than January 1, 2017, the Secretary of the Navy shall certify to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the delivery dates of the following vessels have been adjusted in accordance with section 7301 [now 8671] of title 10, United States Code, as added by subsection (a):
 
@@ -891,17 +891,17 @@ Pub. L. 114–328, div. A, title I, § 121(b), Dec. 23, 2016, 130 Stat. 2030, 
 
 > **“(B)** the delivery date of each such vessel, as so adjusted.”
 
-## § 8673. Model Basin; investigation of hull designs
+## § 8673. Model Basin; investigation of hull designs
 
 The Secretary of the Navy may authorize experiments to be made at the Model Basin for private persons. The costs of experiments made for private persons shall be paid by those persons under regulations prescribed by the Secretary. The results of private experiments are confidential and may not be divulged without the consent of the persons for whom they are made. However, the data obtained from such experiments may be used by the Secretary for governmental purposes, subject to the patent laws of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 451, § 7303; Pub. L. 89–718, § 41, Nov. 2, 1966, 80 Stat. 1120; renumbered § 8673 and amended Pub. L. 115–232, div. A, title VIII, § 807(d)(2), title X, § 1015(a), Aug. 13, 2018, 132 Stat. 1836, 1949.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 451, § 7303; Pub. L. 89–718, § 41, Nov. 2, 1966, 80 Stat. 1120; renumbered § 8673 and amended Pub. L. 115–232, div. A, title VIII, § 807(d)(2), title X, § 1015(a), Aug. 13, 2018, 132 Stat. 1836, 1949.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7303 | 5 U.S.C. 430a. | May 6, 1936, ch. 333, 49 Stat. 1263; June 20, 1940, ch. 400, § 1(a), (b), 54 Stat. 492. |
+| 7303 | 5 U.S.C. 430a. | May 6, 1936, ch. 333, 49 Stat. 1263; June 20, 1940, ch. 400, § 1(a), (b), 54 Stat. 492. |
 
 In subsection (a) the authority to purchase a site and construct the model basin is omitted as executed. The words “David W. Taylor Model Basin, Carderock, Maryland” are inserted to designate the model basin established under this authority. The words “investigations to determine” are substituted for the words “work of investigating and determining.” The phrase “vessels, including aircraft” is changed to read “vessels and aircraft”, and the words “their design” are substituted for “ship design”.
 
@@ -909,9 +909,9 @@ In subsection (a) the authority to purchase a site and construct the model basin
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7303 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7303 of this title as this section.
 
-Pub. L. 115–232, § 1015(a), struck out subsec. (b) designation before “The Secretary” and struck out subsec. (a) which read as follows: “An office or agency in the Department of the Navy designated by the Secretary of the Navy shall conduct at the David W. Taylor Model Basin, Carderock, Maryland, investigations to determine the most suitable shapes and forms for United States vessels and aircraft and investigations of other problems of their design.”
+Pub. L. 115–232, § 1015(a), struck out subsec. (b) designation before “The Secretary” and struck out subsec. (a) which read as follows: “An office or agency in the Department of the Navy designated by the Secretary of the Navy shall conduct at the David W. Taylor Model Basin, Carderock, Maryland, investigations to determine the most suitable shapes and forms for United States vessels and aircraft and investigations of other problems of their design.”
 
 1966—Subsec. (a). Pub. L. 89–718 substituted “An officer or agency of the Department of the Navy designated by the Secretary of the Navy” for “The Bureau of Ships”.
 
@@ -921,7 +921,7 @@ Pub. L. 115–232, § 1015(a), struck out subsec. (b) designation before “Th
 
 Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8674. Examination of vessels; striking of vessels from Naval Vessel Register
+## § 8674. Examination of vessels; striking of vessels from Naval Vessel Register
 
 **(a) Boards of Officers To Examine Naval Vessels.—**
 
@@ -953,23 +953,23 @@ Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 **(B)** an unclassified form that is releasable to the public without further redaction.
 
-(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1708, § 7304; renumbered § 8674 and amended Pub. L. 115–232, div. A, title III, § 322, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1719, 1836; Pub. L. 117–81, div. A, title III, § 362, Dec. 27, 2021, 135 Stat. 1660.)
+(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1708, § 7304; renumbered § 8674 and amended Pub. L. 115–232, div. A, title III, § 322, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1719, 1836; Pub. L. 117–81, div. A, title III, § 362, Dec. 27, 2021, 135 Stat. 1660.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (d)(1). Pub. L. 117–81, § 362(1), substituted “provide to the congressional defense committees a briefing and submit to such committees a report regarding” for “submit to the congressional defense committees a report setting forth” in introductory provisions.
+2021—Subsec. (d)(1). Pub. L. 117–81, § 362(1), substituted “provide to the congressional defense committees a briefing and submit to such committees a report regarding” for “submit to the congressional defense committees a report setting forth” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 117–81, § 362(2), substituted “in—” for “in an unclassified form that is releasable to the public without further redaction.” and added subpars. (A) and (B).
+Subsec. (d)(2). Pub. L. 117–81, § 362(2), substituted “in—” for “in an unclassified form that is releasable to the public without further redaction.” and added subpars. (A) and (B).
 
-Subsec. (d)(3). Pub. L. 117–81, § 362(3), struck out par. (3) which read as follows: “No report shall be required under this subsection after October 1, 2021.”
+Subsec. (d)(3). Pub. L. 117–81, § 362(3), struck out par. (3) which read as follows: “No report shall be required under this subsection after October 1, 2021.”
 
-2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7304 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7304 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 322(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (a). Pub. L. 115–232, § 322(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 115–232, § 322(b), added subsec. (d).
+Subsec. (d). Pub. L. 115–232, § 322(b), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -977,7 +977,7 @@ Subsec. (d). Pub. L. 115–232, § 322(b), added subsec. (d).
 
 Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8675. Vessels stricken from Naval Vessel Register: sale
+## § 8675. Vessels stricken from Naval Vessel Register: sale
 
 **(a) Appraisal of Vessels Stricken From Naval Vessel Register.—** The Secretary of the Navy shall appraise each vessel stricken from the Naval Vessel Register under section 8674 of this title.
 
@@ -997,15 +997,15 @@ Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 **(d) Applicability.—** This section does not apply to a vessel the disposal of which is authorized by subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions.
 
-(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1708, § 7305; amended Pub. L. 105–85, div. A, title X, § 1021, Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–217, § 3(b)(28), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, § 1045(a)(7), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 111–350, § 5(b)(53), Jan. 4, 2011, 124 Stat. 3847; renumbered § 8675 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(2), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1708, § 7305; amended Pub. L. 105–85, div. A, title X, § 1021, Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–217, § 3(b)(28), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, § 1045(a)(7), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 111–350, § 5(b)(53), Jan. 4, 2011, 124 Stat. 3847; renumbered § 8675 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(2), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7305 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7305 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8674” for “section 7304”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8674” for “section 7304”.
 
 2011—Subsec. (d). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), if it is to be disposed of under subtitle I of title 40 and such title III”.
 
@@ -1033,7 +1033,7 @@ Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8674” for 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8675a. Vessels stricken from Naval Vessel Register: contracts for dismantling on net-cost basis
+## § 8675a. Vessels stricken from Naval Vessel Register: contracts for dismantling on net-cost basis
 
 **(a) Authority for Net-Cost Basis Contracts.—** When the Secretary of the Navy awards a contract for the dismantling of a vessel stricken from the Naval Vessel Register, the Secretary may award the contract on a net-cost basis.
 
@@ -1047,7 +1047,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** The term “reusable item” means a demilitarized component or a removable portion of a vessel or equipment that the Secretary of the Navy has identified as excess to the needs of the Navy but which has potential resale value on the open market.
 
-(Added Pub. L. 108–375, div. A, title X, § 1011(a), Oct. 28, 2004, 118 Stat. 2038, § 7305a; renumbered § 8675a, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 108–375, div. A, title X, § 1011(a), Oct. 28, 2004, 118 Stat. 2038, § 7305a; renumbered § 8675a, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1061,7 +1061,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8676. Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation
+## § 8676. Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation
 
 **(a) Authority to Make Transfer.—** The Secretary of the Navy may convey, by donation, all right, title, and interest to any vessel stricken from the Naval Vessel Register or any captured vessel, for use as a museum or memorial for public display in the United States, to—
 
@@ -1087,15 +1087,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** The term “donee” means any entity receiving a vessel pursuant to subsection (a).
 
-(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1709, § 7306; amended Pub. L. 106–65, div. A, title X, § 1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, § 3(b)(29), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 113–66, div. A, title X, § 1022(a)–(e)(1), Dec. 26, 2013, 127 Stat. 845, 846; Pub. L. 114–92, div. A, title X, § 1074(b), Nov. 25, 2015, 129 Stat. 996; renumbered § 8676, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1709, § 7306; amended Pub. L. 106–65, div. A, title X, § 1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, § 3(b)(29), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 113–66, div. A, title X, § 1022(a)–(e)(1), Dec. 26, 2013, 127 Stat. 845, 846; Pub. L. 114–92, div. A, title X, § 1074(b), Nov. 25, 2015, 129 Stat. 996; renumbered § 8676, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Toxic Substances Control Act, referred to in subsec. (d), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (d), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (e)(1), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
 
@@ -1105,9 +1105,9 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 2015—Subsecs. (d) to (f). Pub. L. 114–92 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which related to congressional notice-and-wait period.
 
-2013—Pub. L. 113–66, § 1022(e)(1), substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” in section catchline.
+2013—Pub. L. 113–66, § 1022(e)(1), substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” in section catchline.
 
-Subsec. (a). Pub. L. 113–66, § 1022(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “Subject to section 113 of title 40, the Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register, or any captured vessel, to—
+Subsec. (a). Pub. L. 113–66, § 1022(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “Subject to section 113 of title 40, the Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register, or any captured vessel, to—
 
 “(1) any State, Commonwealth, or possession of the United States or any municipal corporation or political subdivision thereof;
 
@@ -1115,11 +1115,11 @@ Subsec. (a). Pub. L. 113–66, § 1022(a), amended subsec. (a) generally. Prio
 
 “(3) any not-for-profit or nonprofit entity.”
 
-Subsec. (b). Pub. L. 113–66, § 1022(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “An agreement for the transfer of a vessel under subsection (a) shall include a requirement that the transferee will maintain the vessel in a condition satisfactory to the Secretary.”
+Subsec. (b). Pub. L. 113–66, § 1022(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “An agreement for the transfer of a vessel under subsection (a) shall include a requirement that the transferee will maintain the vessel in a condition satisfactory to the Secretary.”
 
-Subsec. (c). Pub. L. 113–66, § 1022(c), in heading, substituted “Department of Defense” for “United States” and in text, inserted “, the maintenance and preservation of that vessel as a museum or memorial, and the ultimate disposal of that vessel, including demilitarization of Munitions List items at the end of the useful life of the vessel as a museum or memorial,” after “under this section” and substituted “the Department of Defense” for “the United States”.
+Subsec. (c). Pub. L. 113–66, § 1022(c), in heading, substituted “Department of Defense” for “United States” and in text, inserted “, the maintenance and preservation of that vessel as a museum or memorial, and the ultimate disposal of that vessel, including demilitarization of Munitions List items at the end of the useful life of the vessel as a museum or memorial,” after “under this section” and substituted “the Department of Defense” for “the United States”.
 
-Subsecs. (e), (f). Pub. L. 113–66, § 1022(d), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 113–66, § 1022(d), added subsecs. (e) and (f).
 
 2002—Subsec. (a). Pub. L. 107–217 substituted “section 113 of title 40” for “subsections (c) and (d) of section 602 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 474)”.
 
@@ -1139,7 +1139,7 @@ Subsecs. (e), (f). Pub. L. 113–66, § 1022(d), added subsecs. (e) and (f).
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8676a. Vessels stricken from Naval Vessel Register: use for experimental purposes
+## § 8676a. Vessels stricken from Naval Vessel Register: use for experimental purposes
 
 **(a) Authority.—** The Secretary of the Navy may use for experimental purposes any vessel stricken from the Naval Vessel Register.
 
@@ -1153,7 +1153,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c) Use for Experimental Purposes Defined.—** In this section, the term “use for experimental purposes”, with respect to a vessel, includes use of the vessel in a Navy sink exercise or for target purposes.
 
-(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1709, § 7306a; amended Pub. L. 108–136, div. A, title X, § 1012, Nov. 24, 2003, 117 Stat. 1589; renumbered § 8676a, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1709, § 7306a; amended Pub. L. 108–136, div. A, title X, § 1012, Nov. 24, 2003, 117 Stat. 1589; renumbered § 8676a, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1161,15 +1161,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 2018—Pub. L. 115–232 renumbered section 7306a of this title as this section.
 
-2003—Subsec. (b). Pub. L. 108–136, § 1012(a)(1), inserted “and Environmental Remediation of” before “Vessel” in heading.
+2003—Subsec. (b). Pub. L. 108–136, § 1012(a)(1), inserted “and Environmental Remediation of” before “Vessel” in heading.
 
-Subsec. (b)(1). Pub. L. 108–136, § 1012(a)(2), inserted before period at end “and such environmental remediation of the vessel as is required for the use of the vessel for experimental purposes”.
+Subsec. (b)(1). Pub. L. 108–136, § 1012(a)(2), inserted before period at end “and such environmental remediation of the vessel as is required for the use of the vessel for experimental purposes”.
 
-Subsec. (b)(2). Pub. L. 108–136, § 1012(b)(2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 108–136, § 1012(b)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 108–136, § 1012(b)(1), (3), redesignated par. (2) as (3) and substituted “services needed for such stripping and for environmental remediation required for the use of the vessel for experimental purposes. Amounts received in excess of amounts needed for reimbursement of those costs shall be deposited into the account from which the stripping and environmental remediation expenses were incurred and shall be available for stripping and environmental remediation of other vessels to be used for experimental purposes” for “scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring such services shall be deposited into the general fund of the Treasury”.
+Subsec. (b)(3). Pub. L. 108–136, § 1012(b)(1), (3), redesignated par. (2) as (3) and substituted “services needed for such stripping and for environmental remediation required for the use of the vessel for experimental purposes. Amounts received in excess of amounts needed for reimbursement of those costs shall be deposited into the account from which the stripping and environmental remediation expenses were incurred and shall be available for stripping and environmental remediation of other vessels to be used for experimental purposes” for “scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring such services shall be deposited into the general fund of the Treasury”.
 
-Subsec. (c). Pub. L. 108–136, § 1012(c), added subsec. (c).
+Subsec. (c). Pub. L. 108–136, § 1012(c), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1177,7 +1177,7 @@ Subsec. (c). Pub. L. 108–136, § 1012(c), added subsec. (c).
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8676b. Vessels stricken from Naval Vessel Register: transfer by gift or otherwise for use as artificial reefs
+## § 8676b. Vessels stricken from Naval Vessel Register: transfer by gift or otherwise for use as artificial reefs
 
 **(a) Authority To Make Transfer.—** The Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register to any State, Commonwealth, or possession of the United States, or any municipal corporation or political subdivision thereof, for use as provided in subsection (b).
 
@@ -1201,13 +1201,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(g) Construction.—** Nothing in this section shall be construed to establish a preference for the use as artificial reefs of vessels stricken from the Naval Vessel Register in lieu of other authorized uses of such vessels, including the domestic scrapping of such vessels, or other disposals of such vessels, under this chapter or other applicable authority.
 
-(Added Pub. L. 108–136, div. A, title X, § 1013(a), Nov. 24, 2003, 117 Stat. 1590, § 7306b; amended Pub. L. 109–364, div. A, title X, § 1071(a)(36), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–84, div. A, title X, § 1073(a)(31), Oct. 28, 2009, 123 Stat. 2474; renumbered § 8676b, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 108–136, div. A, title X, § 1013(a), Nov. 24, 2003, 117 Stat. 1590, § 7306b; amended Pub. L. 109–364, div. A, title X, § 1071(a)(36), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–84, div. A, title X, § 1073(a)(31), Oct. 28, 2009, 123 Stat. 2474; renumbered § 8676b, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Fishing Enhancement Act of 1984, referred to in subsec. (b)(1), is title II of Pub. L. 98–623, Nov. 8, 1984, 98 Stat. 3394, which enacted chapter 35 (§ 2101 et seq.) of Title 33, Navigation and Navigable Waters, and section 1220d of Title 16, Conservation, and amended sections 1220 to 1220c of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 33 and Tables.
+The National Fishing Enhancement Act of 1984, referred to in subsec. (b)(1), is title II of Pub. L. 98–623, Nov. 8, 1984, 98 Stat. 3394, which enacted chapter 35 (§ 2101 et seq.) of Title 33, Navigation and Navigable Waters, and section 1220d of Title 16, Conservation, and amended sections 1220 to 1220c of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 33 and Tables.
 
 **Amendments**
 
@@ -1223,7 +1223,7 @@ The National Fishing Enhancement Act of 1984, referred to in subsec. (b)(1), is 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8677. Disposals to foreign nations
+## § 8677. Disposals to foreign nations
 
 **(a) Larger or Newer Vessels.—** A naval vessel that is in excess of 3,000 tons or that is less than 20 years of age may not be disposed of to another nation (whether by sale, lease, grant, loan, barter, transfer, or otherwise) unless the disposal of that vessel, or of a vessel of the class of that vessel, is authorized by law enacted after August 5, 1974. A lease or loan of such a vessel under such a law may be made only in accordance with the provisions of chapter 6 of the Arms Export Control Act (22 U.S.C. 2796 et seq.) or chapter 2 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2311 et seq.). In the case of an authorization by law for the disposal of such a vessel that names a specific vessel as being authorized for such disposal, the Secretary of Defense may substitute another vessel of the same class, if the vessel substituted has virtually identical capabilities as the named vessel. In the case of an authorization by law for the disposal of vessels of a specified class, the Secretary may dispose of vessels of that class pursuant to that authorization only in the number of such vessels specified in that law as being authorized for disposal.
 
@@ -1237,15 +1237,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** For purposes of paragraph (1)(B), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 30-day period.
 
-(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1709, § 7307; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 109–364, div. A, title X, § 1013, Oct. 17, 2006, 120 Stat. 2376; renumbered § 8677, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1709, § 7307; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 109–364, div. A, title X, § 1013, Oct. 17, 2006, 120 Stat. 2376; renumbered § 8677, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended. Chapter 6 of that Act is classified generally to subchapter VI (§ 2796 et seq.) of chapter 39 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended. Chapter 6 of that Act is classified generally to subchapter VI (§ 2796 et seq.) of chapter 39 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of chapter 32 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of chapter 32 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Amendments**
 
@@ -1263,11 +1263,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8678. Chief of Naval Operations: certification required for disposal of combatant vessels
+## § 8678. Chief of Naval Operations: certification required for disposal of combatant vessels
 
 Notwithstanding any other provision of law, no combatant vessel of the Navy may be sold, transferred, or otherwise disposed of unless the Chief of Naval Operations certifies that it is not essential to the defense of the United States.
 
-(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1710, § 7308; renumbered § 8678, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1710, § 7308; renumbered § 8678, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1281,7 +1281,7 @@ Notwithstanding any other provision of law, no combatant vessel of the Navy may 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8678a. Limitation on decommissioning or inactivating a battle force ship before the end of expected service life
+## § 8678a. Limitation on decommissioning or inactivating a battle force ship before the end of expected service life
 
 **(a) Limitation.—** The Secretary of the Navy may not decommission or inactivate a battle force ship before the end of the expected service life of the ship.
 
@@ -1323,23 +1323,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** The term “expected service life” means the number of years a naval vessel is expected to be in service.
 
-(Added Pub. L. 117–81, div. A, title X, § 1014(a), Dec. 27, 2021, 135 Stat. 1894; amended Pub. L. 117–263, div. A, title X, § 1024(a), Dec. 23, 2022, 136 Stat. 2764.)
+(Added Pub. L. 117–81, div. A, title X, § 1014(a), Dec. 27, 2021, 135 Stat. 1894; amended Pub. L. 117–263, div. A, title X, § 1024(a), Dec. 23, 2022, 136 Stat. 2764.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (b)(1). Pub. L. 117–263, § 1024(a)(1), inserted “by not later than three days after the date on which the President submits the budget materials under section 1105(a) of title 31 for the fiscal year in which such waiver is sought” after “such ship”.
+2022—Subsec. (b)(1). Pub. L. 117–263, § 1024(a)(1), inserted “by not later than three days after the date on which the President submits the budget materials under section 1105(a) of title 31 for the fiscal year in which such waiver is sought” after “such ship”.
 
-Subsec. (b)(2). Pub. L. 117–263, § 1024(a)(2), substituted “the National Defense Authorization Act for such fiscal year is enacted” for “such certification was submitted”.
+Subsec. (b)(2). Pub. L. 117–263, § 1024(a)(2), substituted “the National Defense Authorization Act for such fiscal year is enacted” for “such certification was submitted”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title X, § 1024(b), Dec. 23, 2022, 136 Stat. 2764, provided that: “The amendments made by subsection (a) [amending this section] do not apply to a battle force ship (as such term is defined in section 8678a(e)(1) of title 10, United States Code) that is proposed to be decommissioned or inactivated during fiscal year 2023.”
+Pub. L. 117–263, div. A, title X, § 1024(b), Dec. 23, 2022, 136 Stat. 2764, provided that: “The amendments made by subsection (a) [amending this section] do not apply to a battle force ship (as such term is defined in section 8678a(e)(1) of title 10, United States Code) that is proposed to be decommissioned or inactivated during fiscal year 2023.”
 
-## § 8679. Construction of vessels in foreign shipyards: prohibition
+## § 8679. Construction of vessels in foreign shipyards: prohibition
 
 **(a) Prohibition.—** Except as provided in subsection (b), no vessel to be constructed for any of the armed forces, and no major component of the hull or superstructure of any such vessel, may be constructed in a foreign shipyard.
 
@@ -1351,7 +1351,7 @@ Pub. L. 117–263, div. A, title X, § 1024(b), Dec. 23, 2022, 136 Stat. 2764,
 
 **(c) Exception for Inflatable Boats.—** An inflatable boat or a rigid inflatable boat, as defined by the Secretary of the Navy, is not a vessel for the purpose of the restriction in subsection (a).
 
-(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1710, § 7309; renumbered § 8679, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1710, § 7309; renumbered § 8679, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1371,11 +1371,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For delegation of authority of President under subsec. (b) of this section, see section 3 of Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, set out as a note under section 113 of this title.
 
-## § 8679a. Contracting with shipyards controlled by a foreign adversary country: prohibition
+## § 8679a. Contracting with shipyards controlled by a foreign adversary country: prohibition
 
 The Secretary of Defense may not enter into any contract or other agreement with a shipyard determined by the Secretary of Defense to be under the ownership, control, or influence of a covered nation, as defined in section 4872(f) of this title.
 
-(Added Pub. L. 118–159, div. A, title X, § 1025, Dec. 23, 2024, 138 Stat. 2055; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(36), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 118–159, div. A, title X, § 1025, Dec. 23, 2024, 138 Stat. 2055; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(36), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
@@ -1383,7 +1383,7 @@ The Secretary of Defense may not enter into any contract or other agreement with
 
 2025—Pub. L. 119–60 substituted “a covered nation, as defined in section 4872(f) of this title” for “a foreign adversary country (as defined in section 4872(d)(2) of title 10, United States Code)” in text.
 
-## § 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
+## § 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
 
 **(a) Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United States, Guam, or Commonwealth of the Northern Mariana Islands.—**
 
@@ -1509,45 +1509,45 @@ The Secretary of Defense may not enter into any contract or other agreement with
 
 **(C)** A vessel not described in subparagraph (A) or (B) that is operated pursuant to a contract entered into by the Secretary of the Navy and the Maritime Administration or the United States Transportation Command in support of Department of Defense operations.
 
-(Added and amended Pub. L. 103–160, div. A, title III, § 367, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1632, 1710, § 7310; Pub. L. 104–106, div. A, title X, § 1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, § 1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, [div. A], title X, § 1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, § 344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, § 1023, Dec. 12, 2017, 131 Stat. 1548; renumbered § 8680, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title X, § 1035, Dec. 20, 2019, 133 Stat. 1583; Pub. L. 116–283, div. A, title X, §§ 1025, 1081(a)(45), Jan. 1, 2021, 134 Stat. 3843, 3873; Pub. L. 118–31, div. A, title XIII, § 1352(g), Dec. 22, 2023, 137 Stat. 517; Pub. L. 118–159, div. A, title X, § 1026, Dec. 23, 2024, 138 Stat. 2055; Pub. L. 119–60, div. A, title X, § 1014, Dec. 18, 2025, 139 Stat. 1031.)
+(Added and amended Pub. L. 103–160, div. A, title III, § 367, title VIII, § 824(b), Nov. 30, 1993, 107 Stat. 1632, 1710, § 7310; Pub. L. 104–106, div. A, title X, § 1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, § 1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, [div. A], title X, § 1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, § 344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, § 1023, Dec. 12, 2017, 131 Stat. 1548; renumbered § 8680, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title X, § 1035, Dec. 20, 2019, 133 Stat. 1583; Pub. L. 116–283, div. A, title X, §§ 1025, 1081(a)(45), Jan. 1, 2021, 134 Stat. 3843, 3873; Pub. L. 118–31, div. A, title XIII, § 1352(g), Dec. 22, 2023, 137 Stat. 517; Pub. L. 118–159, div. A, title X, § 1026, Dec. 23, 2024, 138 Stat. 2055; Pub. L. 119–60, div. A, title X, § 1014, Dec. 18, 2025, 139 Stat. 1031.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1014(1), substituted “United States, Guam, or Commonwealth of the Northern Mariana Islands” for “United States or Guam” in heading and “the United States, Guam, or the Commonwealth of the Northern Mariana Islands” for “the United States or Guam” wherever appearing in text.
+2025—Subsec. (a). Pub. L. 119–60, § 1014(1), substituted “United States, Guam, or Commonwealth of the Northern Mariana Islands” for “United States or Guam” in heading and “the United States, Guam, or the Commonwealth of the Northern Mariana Islands” for “the United States or Guam” wherever appearing in text.
 
-Subsec. (d). Pub. L. 119–60, § 1014(2), substituted “the United States, Guam, or the Commonwealth of the Northern Mariana Islands” for “the United States or Guam”.
+Subsec. (d). Pub. L. 119–60, § 1014(2), substituted “the United States, Guam, or the Commonwealth of the Northern Mariana Islands” for “the United States or Guam”.
 
 2024—Subsec. (a)(3). Pub. L. 118–159 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), inserted “and subject to subparagraph (B)” after “paragraph (1)” in introductory provisions of subpar. (A), and added cl. (iii) of subpar. (A) and subpar. (B).
 
 2023—Subsecs. (c), (d). Pub. L. 118–31 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 1025(a)(1), struck out “, other than in the case of voyage repairs” after “outside the United States or Guam”.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 1025(a)(1), struck out “, other than in the case of voyage repairs” after “outside the United States or Guam”.
 
-Subsec. (a)(2)(B)(i). Pub. L. 116–283, § 1025(b), designated existing provisions as subcl. (I) and added subcls. (II) and (III).
+Subsec. (a)(2)(B)(i). Pub. L. 116–283, § 1025(b), designated existing provisions as subcl. (I) and added subcls. (II) and (III).
 
-Subsec. (a)(2)(C)(ii). Pub. L. 116–283, §§ 1025(c), 1081(a)(45), amended introductory provisions identically, striking out period after “means—”.
+Subsec. (a)(2)(C)(ii). Pub. L. 116–283, §§ 1025(c), 1081(a)(45), amended introductory provisions identically, striking out period after “means—”.
 
-Subsec. (a)(3). Pub. L. 116–283, § 1025(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 116–283, § 1025(a)(2), added par. (3).
 
-2019—Subsec. (a)(2)(C)(ii). Pub. L. 116–92, § 1035(1), substituted “means—” for “means preservation or corrosion control efforts and cleaning services” and added subcls. (I) to (III).
+2019—Subsec. (a)(2)(C)(ii). Pub. L. 116–92, § 1035(1), substituted “means—” for “means preservation or corrosion control efforts and cleaning services” and added subcls. (I) to (III).
 
-Subsec. (a)(2)(D). Pub. L. 116–92, § 1035(2), struck out subpar. (D) which read as follows: “This paragraph shall expire on September 30, 2020.”
+Subsec. (a)(2)(D). Pub. L. 116–92, § 1035(2), struck out subpar. (D) which read as follows: “This paragraph shall expire on September 30, 2020.”
 
 2018—Pub. L. 115–232 renumbered section 7310 of this title as this section.
 
 2017—Subsec. (a). Pub. L. 115–91 inserted “Under Jurisdiction of the Secretary of the Navy” after “Vessels” in heading, designated existing provisions as par. (1), substituted “A naval vessel” for “A naval vessel (or any other vessel under the jurisdiction of the Secretary of the Navy)”, and added par. (2).
 
-2013—Subsec. (c)(3). Pub. L. 112–239, § 344(1)(A), substituted “Except as provided in paragraph (4), the report” for “The report” in introductory provisions.
+2013—Subsec. (c)(3). Pub. L. 112–239, § 344(1)(A), substituted “Except as provided in paragraph (4), the report” for “The report” in introductory provisions.
 
-Subsec. (c)(3)(A). Pub. L. 112–239, § 344(1)(B), inserted “and operational justification” after “justification under law”.
+Subsec. (c)(3)(A). Pub. L. 112–239, § 344(1)(B), inserted “and operational justification” after “justification under law”.
 
-Subsec. (c)(4). Pub. L. 112–239, § 344(3), added par. (4). Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 112–239, § 344(3), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 112–239, § 344(2), redesignated par. (4) as (5).
+Subsec. (c)(5). Pub. L. 112–239, § 344(2), redesignated par. (4) as (5).
 
-Subsec. (c)(5)(C). Pub. L. 112–239, § 344(4), added subpar. (C).
+Subsec. (c)(5)(C). Pub. L. 112–239, § 344(4), added subpar. (C).
 
 2008—Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
@@ -1555,7 +1555,7 @@ Subsec. (c)(5)(C). Pub. L. 112–239, § 344(4), added subpar. (C).
 
 1996—Subsec. (a). Pub. L. 104–106 inserted “or Guam” after “outside the United States”.
 
-1993—Subsec. (b). Pub. L. 103–160, § 367, amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
+1993—Subsec. (b). Pub. L. 103–160, § 367, amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1567,7 +1567,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
-## § 8681. Repair or maintenance of naval vessels: handling of hazardous waste
+## § 8681. Repair or maintenance of naval vessels: handling of hazardous waste
 
 **(a) Contractual Provisions.—** The Secretary of the Navy shall ensure that each contract entered into for work on a naval vessel (other than new construction) includes the following provisions:
 
@@ -1599,19 +1599,19 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
 **(d) Relationship to Solid Waste Disposal Act.—** Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definition is provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
 
-(Added Pub. L. 99–661, div. A, title XII, § 1202(a), Nov. 14, 1986, 100 Stat. 3967, § 7311; amended Pub. L. 101–189, div. A, title XVI, § 1611(a), Nov. 29, 1989, 103 Stat. 1599; renumbered § 8681, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 99–661, div. A, title XII, § 1202(a), Nov. 14, 1986, 100 Stat. 3967, § 7311; amended Pub. L. 101–189, div. A, title XVI, § 1611(a), Nov. 29, 1989, 103 Stat. 1599; renumbered § 8681, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Solid Waste Disposal Act, referred to in subsecs. (a)(4)(B) and (d), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsecs. (a)(4)(B) and (d), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 **Prior Provisions**
 
 A prior section 8681 was renumbered section 9251 of this title.
 
-Another prior section 8681, act Aug. 10, 1956, ch. 1041, 70A Stat. 534, prescribed service to be listed in official Air Force Register, prior to repeal by Pub. L. 85–861, § 36B(28), Sept. 2, 1958, 72 Stat. 1571.
+Another prior section 8681, act Aug. 10, 1956, ch. 1041, 70A Stat. 534, prescribed service to be listed in official Air Force Register, prior to repeal by Pub. L. 85–861, § 36B(28), Sept. 2, 1958, 72 Stat. 1571.
 
 **Amendments**
 
@@ -1627,9 +1627,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title XVI, § 1611(b), Nov. 29, 1989, 103 Stat. 1601, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any contract for work on a naval vessel (other than new construction) entered into after the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 29, 1989].”
+Pub. L. 101–189, div. A, title XVI, § 1611(b), Nov. 29, 1989, 103 Stat. 1601, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any contract for work on a naval vessel (other than new construction) entered into after the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 29, 1989].”
 
-## § 8682. Service craft stricken from Naval Vessel Register; obsolete boats: use of proceeds from exchange or sale
+## § 8682. Service craft stricken from Naval Vessel Register; obsolete boats: use of proceeds from exchange or sale
 
 **(a) Exchange or Sale of Similar Items.—** When the Secretary of the Navy sells an obsolete service craft or an obsolete boat, or exchanges such a craft or boat in a transaction for which a similar craft or boat is acquired, the Secretary may retain the proceeds of the sale or the exchange allowance from the exchange, as the case may be, and apply the proceeds of sale or the exchange allowance for any of the following purposes:
 
@@ -1663,13 +1663,13 @@ Pub. L. 101–189, div. A, title XVI, § 1611(b), Nov. 29, 1989, 103 Stat. 160
 
 **(g) Regulations.—** The Secretary of the Navy shall prescribe regulations for the purposes of this section.
 
-(Added Pub. L. 108–375, div. A, title X, § 1012(a)(1), Oct. 28, 2004, 118 Stat. 2039, § 7312; amended Pub. L. 113–291, div. A, title X, § 1071(a)(12), Dec. 19, 2014, 128 Stat. 3505; renumbered § 8682, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 108–375, div. A, title X, § 1012(a)(1), Oct. 28, 2004, 118 Stat. 2039, § 7312; amended Pub. L. 113–291, div. A, title X, § 1071(a)(12), Dec. 19, 2014, 128 Stat. 3505; renumbered § 8682, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8682, act Aug. 10, 1956, ch. 1041, 70A Stat. 535, provided that in computing length of service, no commissioned officer of Air Force could be credited with service as a cadet at the Military Academy or the Air Force Academy, or as a midshipman at the Naval Academy, if he was appointed as a cadet or midshipman after Aug. 24, 1912, prior to repeal by Pub. L. 90–235, § 6(a)(2), Jan. 2, 1968, 81 Stat. 761. See section 971 of this title.
+A prior section 8682, act Aug. 10, 1956, ch. 1041, 70A Stat. 535, provided that in computing length of service, no commissioned officer of Air Force could be credited with service as a cadet at the Military Academy or the Air Force Academy, or as a midshipman at the Naval Academy, if he was appointed as a cadet or midshipman after Aug. 24, 1912, prior to repeal by Pub. L. 90–235, § 6(a)(2), Jan. 2, 1968, 81 Stat. 761. See section 971 of this title.
 
 **Amendments**
 
@@ -1685,9 +1685,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 108–375, div. A, title X, § 1012(b), Oct. 28, 2004, 118 Stat. 2040, provided that: “Section 7312 of title 10, United States Code, as added by subsection (a), shall apply with respect to amounts received on or after the date of the enactment of this Act [Oct. 28, 2004] and to amounts received before the date of the enactment of this Act and not obligated as of that date.”
+Pub. L. 108–375, div. A, title X, § 1012(b), Oct. 28, 2004, 118 Stat. 2040, provided that: “Section 7312 of title 10, United States Code, as added by subsection (a), shall apply with respect to amounts received on or after the date of the enactment of this Act [Oct. 28, 2004] and to amounts received before the date of the enactment of this Act and not obligated as of that date.”
 
-## § 8683. Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work
+## § 8683. Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work
 
 **(a) Unusual Cost Overruns.—**
 
@@ -1703,11 +1703,11 @@ Pub. L. 108–375, div. A, title X, § 1012(b), Oct. 28, 2004, 118 Stat. 2040,
 
 **(c) Treatment of Amounts Appropriated After End of Period of Obligation.—** In the application of section 1553(c) of title 31 to funds appropriated in the Operation and Maintenance, Navy account that are available for ship overhaul, the Secretary of the Navy may treat the limitation specified in paragraph (1) of such section to be “$10,000,000” rather than “$4,000,000”.
 
-(Added Pub. L. 100–370, § 1(n)(1), July 19, 1988, 102 Stat. 850, § 7313; renumbered § 8683, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–283, div. A, title III, § 367, Jan. 1, 2021, 134 Stat. 3551.)
+(Added Pub. L. 100–370, § 1(n)(1), July 19, 1988, 102 Stat. 850, § 7313; renumbered § 8683, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–283, div. A, title III, § 367, Jan. 1, 2021, 134 Stat. 3551.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(j), (k)], Dec. 19, 1985, 99 Stat. 1185, 1203.
+Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(j), (k)], Dec. 19, 1985, 99 Stat. 1185, 1203.
 
 In two instances, the source law to be codified by the bill includes provisions that on their face require that the Department of Defense notify Congress of certain actions. These notification requirements were terminated by section 602 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 (Public Law 99–433), which terminated all recurring reporting requirements applicable to the Department of Defense except for those requirements that were specifically exempted in that section. The source law sections are sections 8009(c) and 8005(j) (proviso) of the FY86 defense appropriations Act (Public Law 99–190), enacted December 19, 1985, which would be codified as section 2201 of title 10 (by section 1(d) of the bill) and section 7313(a) of title 10 (by section 1(n) of the bill). In codifying the authorities provided the Department of Defense by these two provisions of law, the committee believes that it is appropriate to reinstate the congressional notification requirements that go with those authorities. These sections were recurring annual appropriation provisions for many years and were made permanent only months before the enactment of the 1986 Reorganization Act. It is the committee’s belief that the failure to exempt these provisions from the general reports termination provision was inadvertent and notes that the notification provisions had in fact previously applied to the Department of Defense for many years. The action of the committee restores the status quo as it existed before the Reorganization Act.
 
@@ -1715,7 +1715,7 @@ In two instances, the source law to be codified by the bill includes provisions 
 
 **Prior Provisions**
 
-A prior section 8683, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958, Pub. L. 85–861, § 1(156), 72 Stat. 1513; Aug. 25, 1959, Pub. L. 86–197, § 1(7), 73 Stat. 426, related to service credit for certain service as a nurse, woman medical specialist, or civilian employee of Army Medical Department, prior to repeal by Pub. L. 99–145, title XIII, § 1301(d)(1)(A), Nov. 8, 1985, 99 Stat. 736.
+A prior section 8683, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958, Pub. L. 85–861, § 1(156), 72 Stat. 1513; Aug. 25, 1959, Pub. L. 86–197, § 1(7), 73 Stat. 426, related to service credit for certain service as a nurse, woman medical specialist, or civilian employee of Army Medical Department, prior to repeal by Pub. L. 99–145, title XIII, § 1301(d)(1)(A), Nov. 8, 1985, 99 Stat. 736.
 
 **Amendments**
 
@@ -1729,7 +1729,7 @@ A prior section 8683, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8684. Overhaul of naval vessels: competition between public and private shipyards
+## § 8684. Overhaul of naval vessels: competition between public and private shipyards
 
 The Secretary of the Navy should ensure, in any case in which the Secretary awards a project for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards, that each of the following criteria is met:
 
@@ -1743,7 +1743,7 @@ The Secretary of the Navy should ensure, in any case in which the Secretary awar
 
 **(3)** The award is made using the results of the comparability analysis.
 
-(Added Pub. L. 100–456, div. A, title XII, § 1225(a)(1), Sept. 29, 1988, 102 Stat. 2054, § 7313; renumbered § 7314, Pub. L. 101–189, div. A, title XVI, § 1622(a), Nov. 29, 1989, 103 Stat. 1604; renumbered § 8684, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 100–456, div. A, title XII, § 1225(a)(1), Sept. 29, 1988, 102 Stat. 2054, § 7313; renumbered § 7314, Pub. L. 101–189, div. A, title XVI, § 1622(a), Nov. 29, 1989, 103 Stat. 1604; renumbered § 8684, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1765,15 +1765,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 100–456, div. A, title XII, § 1225(b), Sept. 29, 1988, 102 Stat. 2055, provided that: “Section 7313 [now 8684] of title 10, United States Code, as added by subsection (a), applies to any award by the Secretary of the Navy made after the end of the 30-day period beginning on the date of the enactment of this Act [Sept. 29, 1988] for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards.”
+Pub. L. 100–456, div. A, title XII, § 1225(b), Sept. 29, 1988, 102 Stat. 2055, provided that: “Section 7313 [now 8684] of title 10, United States Code, as added by subsection (a), applies to any award by the Secretary of the Navy made after the end of the 30-day period beginning on the date of the enactment of this Act [Sept. 29, 1988] for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards.”
 
-## [§ 8684a. Omitted]
+## [§ 8684a. Omitted]
 
 **Codification**
 
-Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1876(a), Jan. 1, 2021, 134 Stat. 4291, related to rate for progress payments in the repair, maintenance, or overhaul of naval vessels, and was to become effective Jan. 1, 2022. Pub. L. 117–81, div. A, title XVII, § 1701(n)(3), Dec. 27, 2021, 135 Stat. 2146, repealed section 1876 of Pub. L. 116–283, effective as if included in title XVIII of Pub. L. 116–283, thereby omitting this section before it took effect. Text of section 2307(g)(1) of this title, which had been transferred to this section, was transferred to section 3808(a) of this title.
+Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1876(a), Jan. 1, 2021, 134 Stat. 4291, related to rate for progress payments in the repair, maintenance, or overhaul of naval vessels, and was to become effective Jan. 1, 2022. Pub. L. 117–81, div. A, title XVII, § 1701(n)(3), Dec. 27, 2021, 135 Stat. 2146, repealed section 1876 of Pub. L. 116–283, effective as if included in title XVIII of Pub. L. 116–283, thereby omitting this section before it took effect. Text of section 2307(g)(1) of this title, which had been transferred to this section, was transferred to section 3808(a) of this title.
 
-## § 8685. Preservation of Navy shipbuilding capability
+## § 8685. Preservation of Navy shipbuilding capability
 
 **(a) Shipbuilding Capability Preservation Agreements.—** The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 4811(b) of this title.
 
@@ -1805,13 +1805,13 @@ Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1876(a),
 
 **(2)** In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
 
-(Added Pub. L. 105–85, div. A, title X, § 1027(a)(1), Nov. 18, 1997, 111 Stat. 1878, § 7315; amended Pub. L. 106–65, div. A, title X, § 1066(a)(29), Oct. 5, 1999, 113 Stat. 772; renumbered § 8685, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title XVIII, § 1867(e)(3), Jan. 1, 2021, 134 Stat. 4282.)
+(Added Pub. L. 105–85, div. A, title X, § 1027(a)(1), Nov. 18, 1997, 111 Stat. 1878, § 7315; amended Pub. L. 106–65, div. A, title X, § 1066(a)(29), Oct. 5, 1999, 113 Stat. 772; renumbered § 8685, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title XVIII, § 1867(e)(3), Jan. 1, 2021, 134 Stat. 4282.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8685, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958, Pub. L 85–861, § 1(187), 72 Stat. 1534, set forth restrictions on consideration of a husband or child as dependent of a female member of Regular Air Force, Air National Guard of the United States or Air Force Reserve, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763.
+A prior section 8685, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958, Pub. L 85–861, § 1(187), 72 Stat. 1534, set forth restrictions on consideration of a husband or child as dependent of a female member of Regular Air Force, Air National Guard of the United States or Air Force Reserve, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763.
 
 **Amendments**
 
@@ -1833,7 +1833,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Pilot Program To Train Skilled Technicians in Critical Shipbuilding Skills**
 
-Pub. L. 116–92, div. A, title III, § 357, Dec. 20, 2019, 133 Stat. 1322, provided that:
+Pub. L. 116–92, div. A, title III, § 357, Dec. 20, 2019, 133 Stat. 1322, provided that:
 
 > **“(a) Establishment.—** The Secretary of the Navy may carry out a pilot program to train individuals to become skilled technicians in critical shipbuilding skills such as welding, metrology, quality assurance, machining, and additive manufacturing.
 
@@ -1849,9 +1849,9 @@ Pub. L. 116–92, div. A, title III, § 357, Dec. 20, 2019, 133 Stat. 1322, pr
 
 **Procedures for Applications and for Consideration of Agreements**
 
-Pub. L. 105–85, div. A, title X, § 1027(b), Nov. 18, 1997, 111 Stat. 1880, provided that: “Not later than 30 days after the date of the enactment of this Act [Nov. 18, 1997], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 [now 8685] of title 10, United States Code, as added by subsection (a).”
+Pub. L. 105–85, div. A, title X, § 1027(b), Nov. 18, 1997, 111 Stat. 1880, provided that: “Not later than 30 days after the date of the enactment of this Act [Nov. 18, 1997], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 [now 8685] of title 10, United States Code, as added by subsection (a).”
 
-## § 8686. Support for transfers of decommissioned vessels and shipboard equipment
+## § 8686. Support for transfers of decommissioned vessels and shipboard equipment
 
 **(a) Authority To Provide Assistance.—** The Secretary of the Navy may provide an entity described in subsection (b) with assistance in support of a transfer of a vessel or shipboard equipment described in such subsection that is being executed under section 2572, 8676, 8677, or 8765 of this title, or under any other authority.
 
@@ -1873,19 +1873,19 @@ Pub. L. 105–85, div. A, title X, § 1027(b), Nov. 18, 1997, 111 Stat. 1880, 
 
 **(d) Deposit of Funds Received.—** Funds received in a fiscal year under subsection (c) shall be credited to the appropriation available for such fiscal year for operation and maintenance for the office of the Navy managing inactive ships, shall be merged with other sums in the appropriation that are available for such office, and shall be available for the same purposes and period as the sums with which merged.
 
-(Added Pub. L. 108–136, div. A, title X, § 1015(a), Nov. 24, 2003, 117 Stat. 1591, § 7316; renumbered § 8686 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(2), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 108–136, div. A, title X, § 1015(a), Nov. 24, 2003, 117 Stat. 1591, § 7316; renumbered § 8686 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(2), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8686, acts Aug. 10, 1956, ch. 1041, 70A Stat. 536; Sept. 24, 1980, Pub. L. 96–357, § 5(a), 94 Stat. 1182; Oct. 19, 1984, Pub. L. 98–525, title IV, § 414(a)(7)(B), 98 Stat. 2519, related to credit to members of Air National Guard of United States for service as members of Air National Guard, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(g)(2), Oct. 5, 1994, 108 Stat. 2996. See section 12602 of this title.
+A prior section 8686, acts Aug. 10, 1956, ch. 1041, 70A Stat. 536; Sept. 24, 1980, Pub. L. 96–357, § 5(a), 94 Stat. 1182; Oct. 19, 1984, Pub. L. 98–525, title IV, § 414(a)(7)(B), 98 Stat. 2519, related to credit to members of Air National Guard of United States for service as members of Air National Guard, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(g)(2), Oct. 5, 1994, 108 Stat. 2996. See section 12602 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7316 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7316 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 2572, 8676, 8677, or 8765” for “section 2572, 7306, 7307, or 7545”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 2572, 8676, 8677, or 8765” for “section 2572, 7306, 7307, or 7545”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1893,7 +1893,7 @@ Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 2572, 8676, 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8687. Status of Government rights in the designs of vessels, boats, and craft, and components thereof
+## § 8687. Status of Government rights in the designs of vessels, boats, and craft, and components thereof
 
 **(a) In General.—** Government rights in the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure, and all shipboard equipment and systems, shall be determined solely as follows:
 
@@ -1903,13 +1903,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b) Construction of Superseding Authorities.—** This section may be modified or superseded by a provision of statute only if such provision expressly refers to this section in modifying or superseding this section.
 
-(Added Pub. L. 110–417, [div. A], title VIII, § 825(a), Oct. 14, 2008, 122 Stat. 4534, § 7317; renumbered § 8687, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–283, div. A, title XVIII, § 1833(p), Jan. 1, 2021, 134 Stat. 4234.)
+(Added Pub. L. 110–417, [div. A], title VIII, § 825(a), Oct. 14, 2008, 122 Stat. 4534, § 7317; renumbered § 8687, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–283, div. A, title XVIII, § 1833(p), Jan. 1, 2021, 134 Stat. 4234.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8687, acts Aug. 10, 1956, ch. 1041, 70A Stat. 536; Sept. 2, 1958, Pub. L. 85–861, § 1(188), 72 Stat. 1534; Sept. 7, 1962, Pub. L. 87–649, § 6(d), 76 Stat. 494, related to compensation for members of Air Force other than Regular Air Force prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
+A prior section 8687, acts Aug. 10, 1956, ch. 1041, 70A Stat. 536; Sept. 2, 1958, Pub. L. 85–861, § 1(188), 72 Stat. 1534; Sept. 7, 1962, Pub. L. 87–649, § 6(d), 76 Stat. 494, related to compensation for members of Air Force other than Regular Air Force prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
 
 **Amendments**
 
@@ -1927,19 +1927,19 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## [§ 8688. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(8), Dec. 18, 2025, 139 Stat. 948]
+## [§ 8688. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(8), Dec. 18, 2025, 139 Stat. 948]
 
-Section, Pub. L. 114–328, div. A, title X, § 1022(a)(1), Dec. 23, 2016, 130 Stat. 2388, § 7318; renumbered § 8688, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836, related to warranty requirements for shipbuilding contracts.
+Section, Pub. L. 114–328, div. A, title X, § 1022(a)(1), Dec. 23, 2016, 130 Stat. 2388, § 7318; renumbered § 8688, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836, related to warranty requirements for shipbuilding contracts.
 
-A prior section 8688, act Aug. 10, 1956, ch. 1041, 70A Stat. 536, related to death gratuity payable to survivors of members of Air Force, prior to repeal by Pub. L. 85–861, § 36B(29), Sept. 2, 1958, 72 Stat. 1571. See sections 1475 to 1480 of this title.
+A prior section 8688, act Aug. 10, 1956, ch. 1041, 70A Stat. 536, related to death gratuity payable to survivors of members of Air Force, prior to repeal by Pub. L. 85–861, § 36B(29), Sept. 2, 1958, 72 Stat. 1571. See sections 1475 to 1480 of this title.
 
-## [§ 8688a. Omitted]
+## [§ 8688a. Omitted]
 
 **Codification**
 
-Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1876(b), Jan. 1, 2021, 134 Stat. 4291, related to liens in contracts for construction or conversion of naval vessels, and was to become effective Jan. 1, 2022. Pub. L. 117–81, div. A, title XVII, § 1701(n)(3), Dec. 27, 2021, 135 Stat. 2146, repealed section 1876 of Pub. L. 116–283, effective as if included in title XVIII of Pub. L. 116–283, thereby omitting this section before it took effect. Text of section 2307(g)(3) of this title, which had been transferred to this section, was transferred to section 3808(c) of this title.
+Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1876(b), Jan. 1, 2021, 134 Stat. 4291, related to liens in contracts for construction or conversion of naval vessels, and was to become effective Jan. 1, 2022. Pub. L. 117–81, div. A, title XVII, § 1701(n)(3), Dec. 27, 2021, 135 Stat. 2146, repealed section 1876 of Pub. L. 116–283, effective as if included in title XVIII of Pub. L. 116–283, thereby omitting this section before it took effect. Text of section 2307(g)(3) of this title, which had been transferred to this section, was transferred to section 3808(c) of this title.
 
-## § 8689. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium
+## § 8689. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium
 
 **(a) Authorization.—** Low-enriched uranium activities may only be carried out using funds authorized to be appropriated or otherwise made available for the Department of Energy for atomic energy defense activities for defense nuclear nonproliferation.
 
@@ -1961,13 +1961,13 @@ Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1876(b),
 
 **(2)** Procuring ships that use low-enriched uranium in naval nuclear propulsion reactors.
 
-(Added Pub. L. 115–91, div. C, title XXXI, § 3115(b)(1), Dec. 12, 2017, 131 Stat. 1886, § 7319; renumbered § 8689, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 115–91, div. C, title XXXI, § 3115(b)(1), Dec. 12, 2017, 131 Stat. 1886, § 7319; renumbered § 8689, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8689, acts Aug. 10, 1956, ch. 1041, 70A Stat. 537; Sept. 26, 1961, Pub. L. 87–304, § 9(d), 75 Stat. 665, related to assignments and allotments of pay, prior to repeal by Pub. L. 87–649, § 14c(57), Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See section 701 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 8689, acts Aug. 10, 1956, ch. 1041, 70A Stat. 537; Sept. 26, 1961, Pub. L. 87–304, § 9(d), 75 Stat. 665, related to assignments and allotments of pay, prior to repeal by Pub. L. 87–649, § 14c(57), Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See section 701 of Title 37, Pay and Allowances of the Uniformed Services.
 
 **Amendments**
 
@@ -1979,7 +1979,7 @@ A prior section 8689, acts Aug. 10, 1956, ch. 1041, 70A Stat. 537; Sept. 26, 196
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8690. Limitation on length of overseas forward deployment of naval vessels
+## § 8690. Limitation on length of overseas forward deployment of naval vessels
 
 **(a) Limitation.—** The Secretary of the Navy shall ensure that no naval vessel specified in subsection (b) that is listed in the Naval Vessel Register is forward deployed overseas for a period in excess of ten years. At the end of a period of overseas forward deployment, the vessel shall be assigned a homeport in the United States.
 
@@ -2005,17 +2005,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** the factors used by the Secretary to determine that a longer period of deployment would promote the national defense or be in the public interest.
 
-(Added § 7320 and renumbered § 8690, Pub. L. 115–232, div. A, title III, § 323(a)(1), title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1719, 1836.)
+(Added § 7320 and renumbered § 8690, Pub. L. 115–232, div. A, title III, § 323(a)(1), title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1719, 1836.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8690, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, exempted enlisted members of Air Force, while on active duty, from arrest for any debt, unless it was contracted before enlistment and amounted to at least $20 when first contracted, prior to repeal by Pub. L. 90–235, § 7(b)(1), Jan. 2, 1968, 81 Stat. 763.
+A prior section 8690, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, exempted enlisted members of Air Force, while on active duty, from arrest for any debt, unless it was contracted before enlistment and amounted to at least $20 when first contracted, prior to repeal by Pub. L. 90–235, § 7(b)(1), Jan. 2, 1968, 81 Stat. 763.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7320 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7320 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2025,13 +2025,13 @@ Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 **Treatment of Currently Deployed Vessels; Extension of Limitation for U.S.S. Shiloh**
 
-Pub. L. 115–232, div. A, title III, § 323(b), (c), Aug. 13, 2018, 132 Stat. 1720, as amended by Pub. L. 116–92, div. A, title III, § 353(2), Dec. 20, 2019, 133 Stat. 1321; Pub. L. 116–283, div. A, title III, § 344, Jan. 1, 2021, 134 Stat. 3538, provided that:
+Pub. L. 115–232, div. A, title III, § 323(b), (c), Aug. 13, 2018, 132 Stat. 1720, as amended by Pub. L. 116–92, div. A, title III, § 353(2), Dec. 20, 2019, 133 Stat. 1321; Pub. L. 116–283, div. A, title III, § 344, Jan. 1, 2021, 134 Stat. 3538, provided that:
 
 > **“(b) Treatment of Currently Deployed Vessels.—** In the case of any aircraft carrier, amphibious ship, cruiser, destroyer, frigate, or littoral combat ship that has been forward deployed overseas for a period in excess of ten years as of the date of the enactment of this Act [Aug. 13, 2018], the Secretary of the Navy shall ensure that such vessel is assigned a homeport in the United States by not later than three years after the date of the enactment of this Act.
 
 > **“(c) Extension of Limitation on Length of Overseas Forward Deployment for U.S.S. Shiloh (CG–67).—** Notwithstanding subsection (b), the Secretary of the Navy shall ensure that the U.S.S. Shiloh (CG–67) is assigned a homeport in the United States by not later than September 30, 2023.”
 
-## § 8691. Nuclear-powered aircraft carriers: dismantlement and disposal
+## § 8691. Nuclear-powered aircraft carriers: dismantlement and disposal
 
 **(a) In General.—** Not less than 90 days before the award of a contract for the dismantlement and disposal of a nuclear-powered aircraft carrier, or the provision of funds to a naval shipyard for the dismantlement and disposal of a nuclear-powered aircraft carrier, the Secretary of the Navy shall submit to the congressional defense committees a report setting forth the following:
 
@@ -2059,7 +2059,7 @@ Pub. L. 115–232, div. A, title III, § 323(b), (c), Aug. 13, 2018, 132 Stat.
 
 **(c) Future-years Defense Program Defined.—** In this section, the term “future-years defense program” means the future-years defense program required by section 221 of this title.
 
-(Added § 7321 and renumbered § 8691, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), title X, § 1016(a), Aug. 13, 2018, 132 Stat. 1836, 1950.)
+(Added § 7321 and renumbered § 8691, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), title X, § 1016(a), Aug. 13, 2018, 132 Stat. 1836, 1950.)
 
 **Editorial Notes**
 
@@ -2069,7 +2069,7 @@ A prior section 8691 was renumbered section 9253 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7321 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(2), renumbered section 7321 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2077,7 +2077,7 @@ A prior section 8691 was renumbered section 9253 of this title.
 
 Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8692. Ford-class aircraft carriers: cost limitation baselines
+## § 8692. Ford-class aircraft carriers: cost limitation baselines
 
 **(a) Limitation.—** The total amounts obligated or expended from funds authorized to be appropriated or otherwise made available for Shipbuilding and Conversion, Navy, or for any other procurement account, may not exceed the following amounts for the following aircraft carriers:
 
@@ -2099,7 +2099,7 @@ Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 **(c) Written Notice and Briefing on Change in Amount.—** The Secretary of the Navy may adjust an amount listed in subsection (a) not fewer than 15 days after submitting written notice and providing a briefing to the congressional defense committees, each of which shall include the amount and rationale of any change and the resulting amount after such change.
 
-(Added Pub. L. 116–92, div. A, title I, § 121(a), Dec. 20, 2019, 133 Stat. 1233.)
+(Added Pub. L. 116–92, div. A, title I, § 121(a), Dec. 20, 2019, 133 Stat. 1233.)
 
 **Editorial Notes**
 
@@ -2109,9 +2109,9 @@ Another section 8692 was renumbered section 8693 of this title.
 
 **Prior Provisions**
 
-A prior section 8692, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided qualifications to receive a rating of pilot in time of peace, prior to repeal by Pub. L. 92–168, § 3(1), Nov. 24, 1971, 85 Stat. 489. See section 2003 of this title.
+A prior section 8692, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided qualifications to receive a rating of pilot in time of peace, prior to repeal by Pub. L. 92–168, § 3(1), Nov. 24, 1971, 85 Stat. 489. See section 2003 of this title.
 
-## § 8693. Biennial report on shipbuilder training and the defense industrial base
+## § 8693. Biennial report on shipbuilder training and the defense industrial base
 
 **(a) In General.—** Not later than February 1 of each even-numbered year until 2026, the Secretary of the Navy, in coordination with the Secretary of Labor, shall submit to the Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives a report on shipbuilder training and hiring requirements necessary to achieve the Navy’s 30-year shipbuilding plan and to maintain the shipbuilding readiness of the defense industrial base. Each such report shall include each of the following:
 
@@ -2135,21 +2135,21 @@ A prior section 8692, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided quali
 
 **(2)** analyze such information for findings relevant to carrying out subsection (a)(2), including findings related to the current and projected defense shipbuilding workforce, current and projected labor needs, and the readiness of the current and projected workforce to supply the proficiencies analyzed in subsection (a)(1).
 
-(Added Pub. L. 116–283, div. A, title X, § 1026(a), Jan. 1, 2021, 134 Stat. 3843, § 8692; renumbered § 8693 and amended Pub. L. 117–81, div. A, title X, § 1015, Dec. 27, 2021, 135 Stat. 1894.)
+(Added Pub. L. 116–283, div. A, title X, § 1026(a), Jan. 1, 2021, 134 Stat. 3843, § 8692; renumbered § 8693 and amended Pub. L. 117–81, div. A, title X, § 1015, Dec. 27, 2021, 135 Stat. 1894.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8693, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided for replacement of a lost or destroyed certificate of discharge from Air Force, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763. See section 1041 of this title.
+A prior section 8693, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided for replacement of a lost or destroyed certificate of discharge from Air Force, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763. See section 1041 of this title.
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 1015(a), renumbered section 8692 of this title, as added by section 1026(a) of Pub. L. 116–283, as this section.
+2021—Pub. L. 117–81, § 1015(a), renumbered section 8692 of this title, as added by section 1026(a) of Pub. L. 116–283, as this section.
 
-Pub. L. 117–81, § 1015(b)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+Pub. L. 117–81, § 1015(b)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Subsec. (a)(7). Pub. L. 117–81, § 1015(b)(2), added par. (7).
+Subsec. (a)(7). Pub. L. 117–81, § 1015(b)(2), added par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2157,7 +2157,7 @@ Subsec. (a)(7). Pub. L. 117–81, § 1015(b)(2), added par. (7).
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 8694. Annual report on ship maintenance
+## § 8694. Annual report on ship maintenance
 
 **(a) Report Required.—** Not later than October 15 of each year, the Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth each of the following:
 
@@ -2177,9 +2177,9 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 **(b) Form of Report.—** Each report submitted under subsection (a) shall be submitted in unclassified form and made publicly available on an appropriate internet website in a searchable format, but may contain a classified annex.
 
-(Added Pub. L. 117–81, div. A, title X, § 1016(a), Dec. 27, 2021, 135 Stat. 1895.)
+(Added Pub. L. 117–81, div. A, title X, § 1016(a), Dec. 27, 2021, 135 Stat. 1895.)
 
-## § 8695. Navy battle force ship assessment and requirement reporting
+## § 8695. Navy battle force ship assessment and requirement reporting
 
 **(a) In General.—** Not later than 180 days after the date on which a covered event occurs, the Chief of Naval Operations shall submit to the congressional defense committees a battle force ship assessment and requirement.
 
@@ -2257,7 +2257,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 **(e) Responsibilities of Commandant of Marine Corps.—** In preparing each assessment and requirement under subsection (a), the Commandant of the Marine Corps shall be specifically responsible for developing the requirements relating to amphibious warfare ships and for naval vessels with the primary mission of transporting Marines.
 
-(Added Pub. L. 117–81, div. A, title X, § 1017(a), Dec. 27, 2021, 135 Stat. 1896; amended Pub. L. 117–263, div. A, title X, § 1025, Dec. 23, 2022, 136 Stat. 2764; Pub. L. 118–31, div. A, title X, § 1019, Dec. 22, 2023, 137 Stat. 384.)
+(Added Pub. L. 117–81, div. A, title X, § 1017(a), Dec. 27, 2021, 135 Stat. 1896; amended Pub. L. 117–263, div. A, title X, § 1025, Dec. 23, 2022, 136 Stat. 2764; Pub. L. 118–31, div. A, title X, § 1019, Dec. 22, 2023, 137 Stat. 384.)
 
 **Editorial Notes**
 
@@ -2271,9 +2271,9 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 **Baseline Assessment and Requirement Required**
 
-Pub. L. 117–81, div. A, title X, § 1017(c), Dec. 27, 2021, 135 Stat. 1897, provided that: “The date of the enactment of this Act [Dec. 27, 2021] is deemed to be a covered event for the purposes of establishing a baseline battle force ship assessment and requirement under section 8695 of title 10, United States Code, as added by subsection (a) [enacting this section].”
+Pub. L. 117–81, div. A, title X, § 1017(c), Dec. 27, 2021, 135 Stat. 1897, provided that: “The date of the enactment of this Act [Dec. 27, 2021] is deemed to be a covered event for the purposes of establishing a baseline battle force ship assessment and requirement under section 8695 of title 10, United States Code, as added by subsection (a) [enacting this section].”
 
-## § 8696. Navy shipbuilding workforce development special incentive
+## § 8696. Navy shipbuilding workforce development special incentive
 
 **(a) Requirement.—**
 
@@ -2359,7 +2359,7 @@ Pub. L. 117–81, div. A, title X, § 1017(c), Dec. 27, 2021, 135 Stat. 1897, 
 
 **(2)** The term “qualified subcontractor” means a subcontractor that will deliver the vessel or vessels awarded under a covered contract to the Navy.
 
-(Added Pub. L. 117–263, div. A, title I, § 122(a), Dec. 23, 2022, 136 Stat. 2441.)
+(Added Pub. L. 117–263, div. A, title I, § 122(a), Dec. 23, 2022, 136 Stat. 2441.)
 
 **Editorial Notes**
 
@@ -2371,7 +2371,7 @@ Another section 8696 was renumbered section 8697 of this title.
 
 **Effective Date**
 
-Pub. L. 117–263, div. A, title I, § 122(c), Dec. 23, 2022, 136 Stat. 2443, provided that:
+Pub. L. 117–263, div. A, title I, § 122(c), Dec. 23, 2022, 136 Stat. 2443, provided that:
 
 > “Section 8696 of title 10, United States Code, as added by subsection (a), shall apply with respect to—
 
@@ -2379,7 +2379,7 @@ Pub. L. 117–263, div. A, title I, § 122(c), Dec. 23, 2022, 136 Stat. 2443, 
 
 > **“(2)** a solicitation or award of a covered contract, if otherwise determined appropriate by the Secretary of the Navy.”
 
-## § 8697. Battle force ship employment, maintenance, and manning baseline plans
+## § 8697. Battle force ship employment, maintenance, and manning baseline plans
 
 **(a) In General.—** Not later than 45 days after the date of the delivery of the first ship in a new class of battle force ships, the Secretary of the Navy shall submit to the congressional defense committees a report on the employment, maintenance, and manning baseline plans for the class, including a description of the following:
 
@@ -2515,7 +2515,7 @@ Pub. L. 117–263, div. A, title I, § 122(c), Dec. 23, 2022, 136 Stat. 2443, 
 
 **(3)** The term “Senior Technical Authority” has the meaning provided for in section 8669b of this title.
 
-(Added Pub. L. 117–263, div. A, title X, § 1026(a), Dec. 23, 2022, 136 Stat. 2765, § 8696; renumbered § 8697, Pub. L. 118–31, div. A, title XVIII, § 1801(a)(39), Dec. 22, 2023, 137 Stat. 685.)
+(Added Pub. L. 117–263, div. A, title X, § 1026(a), Dec. 23, 2022, 136 Stat. 2765, § 8696; renumbered § 8697, Pub. L. 118–31, div. A, title XVIII, § 1801(a)(39), Dec. 22, 2023, 137 Stat. 685.)
 
 **Editorial Notes**
 
@@ -2523,7 +2523,7 @@ Pub. L. 117–263, div. A, title I, § 122(c), Dec. 23, 2022, 136 Stat. 2443, 
 
 2023—Pub. L. 118–31 renumbered section 8696 of this title relating to battle force ship employment, maintenance, and manning baseline plans as this section.
 
-## § 8698. Roles and responsibilities relating to sustainment and readiness of certain naval surface vessels
+## § 8698. Roles and responsibilities relating to sustainment and readiness of certain naval surface vessels
 
 **(a) Type Commander Leadership.—**
 
@@ -2569,7 +2569,7 @@ Pub. L. 117–263, div. A, title I, § 122(c), Dec. 23, 2022, 136 Stat. 2443, 
 
 **(B)** Commander, Naval Surface Force, Pacific Fleet.
 
-(Added Pub. L. 119–60, div. A, title III, § 337, Dec. 18, 2025, 139 Stat. 819.)
+(Added Pub. L. 119–60, div. A, title III, § 337, Dec. 18, 2025, 139 Stat. 819.)
 
 **Editorial Notes**
 

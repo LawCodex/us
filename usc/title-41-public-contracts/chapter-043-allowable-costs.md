@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 43—ALLOWABLE COSTS
 
-## § 4301. Definitions
+## § 4301. Definitions
 
 In this chapter:
 
@@ -27,14 +27,14 @@ In this chapter:
 
 **(4) Senior executive.—** The term “senior executive”, with respect to a contractor, means the 5 most highly compensated employees in management positions at each home office and each segment of the contractor.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3784; Pub. L. 115–232, div. A, title VIII, § 836(b)(17), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3784; Pub. L. 115–232, div. A, title VIII, § 836(b)(17), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4301(1) | 41:256(m)(1). | June 30, 1949, ch. 288, title III, § 306(m), as added Pub. L. 105–85, title VIII, § 808(b)(2), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, title VIII, § 804(b), Oct. 17, 1998, 112 Stat. 2083. |
-| 4301(2) | 41:256(*l*)(1). | June 30, 1949, ch. 288, title III, § 306(*l*)(1), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3315. |
+| 4301(1) | 41:256(m)(1). | June 30, 1949, ch. 288, title III, § 306(m), as added Pub. L. 105–85, title VIII, § 808(b)(2), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, title VIII, § 804(b), Oct. 17, 1998, 112 Stat. 2083. |
+| 4301(2) | 41:256(*l*)(1). | June 30, 1949, ch. 288, title III, § 306(*l*)(1), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3315. |
 | 4301(3) | 41:256(m)(3). |  |
 | 4301(4) | 41:256(m)(2). |  |
 
@@ -50,19 +50,19 @@ In this chapter:
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 4302. Adjustment of threshold amount of covered contract
+## § 4302. Adjustment of threshold amount of covered contract
 
 Effective on October 1 of each year that is divisible by 5, the amount set forth in section 4301(2) of this title shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An adjusted amount that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. If an amount is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3784.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3784.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4302 | 41:256(*l*)(2). | June 30, 1949, ch. 288, title III, § 306(*l*)(2), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3315. |
+| 4302 | 41:256(*l*)(2). | June 30, 1949, ch. 288, title III, § 306(*l*)(2), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3315. |
 
-## § 4303. Effect of submission of unallowable costs
+## § 4303. Effect of submission of unallowable costs
 
 **(a) Indirect Cost That Violates Federal Acquisition Regulation Cost Principle.—** An executive agency shall require that a covered contract provide that if the contractor submits to the executive agency a proposal for settlement of indirect costs incurred by the contractor for any period after those costs have been accrued and if that proposal includes the submission of a cost that is unallowable because the cost violates a cost principle in the Federal Acquisition Regulation or an executive agency supplement to the Federal Acquisition Regulation, the cost shall be disallowed.
 
@@ -94,20 +94,20 @@ Effective on October 1 of each year that is divisible by 5, the amount set forth
 
 **(2)** is appealable in the manner provided in section 7104(a) of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3784.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3784.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4303(a) | 41:256(a). | June 30, 1949, ch. 288, title III, § 306(a)–(d), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3309. |
+| 4303(a) | 41:256(a). | June 30, 1949, ch. 288, title III, § 306(a)–(d), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3309. |
 | 4303(b) | 41:256(b). |  |
 | 4303(c) | 41:256(c). |  |
 | 4303(d) | 41:256(d). |  |
 
 In subsection (a), the words “(referred to in section 421(c)(1) of this title)” are omitted as unnecessary.
 
-## § 4304. Specific costs not allowable
+## § 4304. Specific costs not allowable
 
 **(a) Specific Costs.—** The following costs are not allowable under a covered contract:
 
@@ -143,19 +143,19 @@ In subsection (a), the words “(referred to in section 421(c)(1) of this title)
 
 **(14)** Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
 
-**(15)** Costs incurred by a contractor or subcontractor, or personal service 1
+**(15)** Costs incurred by a contractor or subcontractor, or personal service 1
 
-<sup>1</sup>  So in original. Probably should be “services”.
+<sup>1</sup> So in original. Probably should be “services”.
 
 contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in section 4310 of this title.
 
-**(16)**  2
+**(16)** 2
 
-<sup>2</sup>  So in original. Two pars. (16) have been enacted.
+<sup>2</sup> So in original. Two pars. (16) have been enacted.
 
 Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
-**(16)**  <sup>2</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+**(16)** <sup>2</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
 **(b) Waiver of Severance Pay Restrictions for Foreign Nationals.—**
 
@@ -177,13 +177,13 @@ Costs of compensation of any contractor employee for a fiscal year, regardless o
 
 **(c) Establishment of Definitions, Exclusions, Limitations, and Qualifications.—** The provisions of the Federal Acquisition Regulation implementing this chapter may establish appropriate definitions, exclusions, limitations, and qualifications. A submission by a contractor of costs that are incurred by the contractor and that are claimed to be allowable under Department of Energy management and operating contracts shall be considered a proposal for settlement of indirect costs incurred by the contractor for any period after those costs have been accrued.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3785; Pub. L. 113–66, div. A, title VIII, § 811(b), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, § 702(a)(1), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 114–261, § 1(b)(2)(B), Dec. 14, 2016, 130 Stat. 1363.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3785; Pub. L. 113–66, div. A, title VIII, § 811(b), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, § 702(a)(1), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 114–261, § 1(b)(2)(B), Dec. 14, 2016, 130 Stat. 1363.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4304 | 41:256(e). | June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3310; Pub. L. 105–85, title VIII, § 808(b)(1), Nov. 18, 1997, 111 Stat. 1836. |
+| 4304 | 41:256(e). | June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3310; Pub. L. 105–85, title VIII, § 808(b)(1), Nov. 18, 1997, 111 Stat. 1836. |
 
 **Editorial Notes**
 
@@ -197,13 +197,13 @@ Costs of compensation of any contractor employee for a fiscal year, regardless o
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–67, div. A, title VII, § 702(c), Dec. 26, 2013, 127 Stat. 1189, provided that: “This section [amending this section and former section 2324 of Title 10, Armed Forces, repealing section 1127 of this title, and enacting provisions set out as a note under this section] and the amendments made by this section shall apply only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–67, div. A, title VII, § 702(c), Dec. 26, 2013, 127 Stat. 1189, provided that: “This section [amending this section and former section 2324 of Title 10, Armed Forces, repealing section 1127 of this title, and enacting provisions set out as a note under this section] and the amendments made by this section shall apply only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act [Dec. 26, 2013].”
 
-Pub. L. 113–66, div. A, title VIII, § 811(d), Dec. 26, 2013, 127 Stat. 806, provided that: “The amendments made by this section [amending this section and former section 2324 of Title 10, Armed Forces, and repealing section 1127 of this title] shall apply with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title VIII, § 811(d), Dec. 26, 2013, 127 Stat. 806, provided that: “The amendments made by this section [amending this section and former section 2324 of Title 10, Armed Forces, and repealing section 1127 of this title] shall apply with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act [Dec. 26, 2013].”
 
 **Reports**
 
-Pub. L. 113–67, div. A, title VII, § 702(d), Dec. 26, 2013, 127 Stat. 1189, provided that:
+Pub. L. 113–67, div. A, title VII, § 702(d), Dec. 26, 2013, 127 Stat. 1189, provided that:
 
 > **“(1) In general.—** Not later than 60 days after the end of each fiscal year, the Director of the Office of Management and Budget shall submit a report on contractor compensation to—
 
@@ -229,7 +229,7 @@ Pub. L. 113–67, div. A, title VII, § 702(d), Dec. 26, 2013, 127 Stat. 1189,
 
 **Revision of Cost Principle Relating to Entertainment, Gift, and Recreation Costs for Contractor Employees**
 
-Pub. L. 103–355, title II, § 2192, Oct. 13, 1994, 108 Stat. 3315, provided that:
+Pub. L. 103–355, title II, § 2192, Oct. 13, 1994, 108 Stat. 3315, provided that:
 
 > **“(a) Costs Not Allowable.—**
 
@@ -253,7 +253,7 @@ Pub. L. 103–355, title II, § 2192, Oct. 13, 1994, 108 Stat. 3315, provided 
 
 **Ex. Ord. No. 13494. Economy in Government Contracting**
 
-Ex. Ord. No. 13494, Jan. 30, 2009, 74 F.R. 6101, as amended by Ex. Ord. No. 13517, § 2, Oct. 30, 2009, 74 F.R. 57239, provided:
+Ex. Ord. No. 13494, Jan. 30, 2009, 74 F.R. 6101, as amended by Ex. Ord. No. 13517, § 2, Oct. 30, 2009, 74 F.R. 57239, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 101 *et seq*., it is hereby ordered that:
 
@@ -285,7 +285,7 @@ Sec. 8. This order shall become effective immediately, and shall apply to contra
 
 Barack Obama.
 
-## § 4305. Required regulations
+## § 4305. Required regulations
 
 **(a) In General.—** The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs. Those provisions shall define in detail and in specific terms the costs that are unallowable, in whole or in part, under covered contracts.
 
@@ -337,29 +337,29 @@ Barack Obama.
 
 **(3) Settlement to reflect amount of individual questioned costs.—** The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in a manner so that the amount of the individual questioned costs that are paid will be reflected in the settlement.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3787.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3787.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4305(a) | 41:256(f)(1) (1st, 2d sentences). | June 30, 1949, ch. 288, title III, § 306(f), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3312. |
+| 4305(a) | 41:256(f)(1) (1st, 2d sentences). | June 30, 1949, ch. 288, title III, § 306(f), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3312. |
 | 4305(b) | 41:256(f)(1) (last sentence). |  |
 | 4305(c) | 41:256(f)(2)–(4). |  |
 
-## § 4306. Applicability of regulations to subcontractors
+## § 4306. Applicability of regulations to subcontractors
 
 The regulations referred to in sections 4304 and 4305(a) and (b) of this title shall require prime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of those regulations to all subcontractors of the covered contract.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3788.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3788.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4306 | 41:256(g). | June 30, 1949, ch. 288, title III, § 306(g), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
+| 4306 | 41:256(g). | June 30, 1949, ch. 288, title III, § 306(g), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
 
-## § 4307. Contractor certification
+## § 4307. Contractor certification
 
 **(a) Content and Form.—** A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official’s knowledge and belief, all indirect costs included in the proposal are allowable. The certification shall be in a form prescribed in the Federal Acquisition Regulation.
 
@@ -369,39 +369,39 @@ The regulations referred to in sections 4304 and 4305(a) and (b) of this title s
 
 **(2)** states in writing the reasons for the determination and makes the determination available to the public.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3788.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3788.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4307 | 41:256(h). | June 30, 1949, ch. 288, title III, § 306(h), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
+| 4307 | 41:256(h). | June 30, 1949, ch. 288, title III, § 306(h), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
 
-## § 4308. Penalties for submission of cost known to be unallowable
+## § 4308. Penalties for submission of cost known to be unallowable
 
 The submission to an executive agency of a proposal for settlement of costs for any period after those costs have been accrued that includes a cost that is expressly specified by statute or regulation as being unallowable, with the knowledge that the cost is unallowable, is subject to section 287 of title 18 and section 3729 of title 31.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3788.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3788.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4308 | 41:256(i). | June 30, 1949, ch. 288, title III, § 306(i), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
+| 4308 | 41:256(i). | June 30, 1949, ch. 288, title III, § 306(i), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
 
-## § 4309. Burden of proof on contractor
+## § 4309. Burden of proof on contractor
 
 In a proceeding before a board of contract appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the Federal Government is in issue, the burden of proof is on the contractor to establish that those costs are reasonable.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3788.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3788.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4309 | 41:256(j). | June 30, 1949, ch. 288, title III, § 306(j), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
+| 4309 | 41:256(j). | June 30, 1949, ch. 288, title III, § 306(j), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
 
-## § 4310. Proceeding costs not allowable
+## § 4310. Proceeding costs not allowable
 
 **(a) Definitions.—** In this section:
 
@@ -467,13 +467,13 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 **(B)** the costs of the other proceeding are not allowable under subsection (b).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3789; Pub. L. 112–239, div. A, title VIII, § 828(d), Jan. 2, 2013, 126 Stat. 1841; Pub. L. 114–261, § 1(b)(2)(A), Dec. 14, 2016, 130 Stat. 1362.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3789; Pub. L. 112–239, div. A, title VIII, § 828(d), Jan. 2, 2013, 126 Stat. 1841; Pub. L. 114–261, § 1(b)(2)(A), Dec. 14, 2016, 130 Stat. 1362.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4310(a) | 41:256(k)(6). | June 30, 1949, ch. 288, title III, § 306(k), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
+| 4310(a) | 41:256(k)(6). | June 30, 1949, ch. 288, title III, § 306(k), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3313. |
 | 4310(b) | 41:256(k)(1). |  |
 | 4310(c) | 41:256(k)(2). |  |
 | 4310(d) | 41:256(k)(3). |  |
@@ -484,10 +484,10 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 **Amendments**
 
-2016—Pub. L. 114–261, § 1(b)(2)(A)(i), (ii), inserted “, subcontractor, or personal services contractor” after “contractor” and “, subcontract, or personal services contract” after “contract” wherever appearing.
+2016—Pub. L. 114–261, § 1(b)(2)(A)(i), (ii), inserted “, subcontractor, or personal services contractor” after “contractor” and “, subcontract, or personal services contract” after “contract” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 114–261, § 1(b)(2)(A)(iii), inserted “or to any other activity described in section 4712(a)(1) of this title” after “statute or regulation”.
+Subsec. (b)(1). Pub. L. 114–261, § 1(b)(2)(A)(iii), inserted “or to any other activity described in section 4712(a)(1) of this title” after “statute or regulation”.
 
-2013—Subsec. (b). Pub. L. 112–239, § 828(d)(1), substituted “commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under section 4712 of this title” for “commenced by the Federal Government or a State”.
+2013—Subsec. (b). Pub. L. 112–239, § 828(d)(1), substituted “commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under section 4712 of this title” for “commenced by the Federal Government or a State”.
 
-Subsec. (c)(3). Pub. L. 112–239, § 828(d)(2), substituted “the imposition of a monetary penalty or an order to take corrective action under section 4712 of this title” for “the imposition of a monetary penalty”.
+Subsec. (c)(3). Pub. L. 112–239, § 828(d)(2), substituted “the imposition of a monetary penalty or an order to take corrective action under section 4712 of this title” for “the imposition of a monetary penalty”.

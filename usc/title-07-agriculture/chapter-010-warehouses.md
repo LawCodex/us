@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Codification**
 
-The United States Warehouse Act, comprising this chapter, was originally enacted by act Aug. 11, 1916, ch. 313, pt. C, 39 Stat. 486, and amended by July 24, 1919, ch. 26, 41 Stat. 266; Feb. 23, 1923, ch. 106, 42 Stat. 1282; Mar. 2, 1931, ch. 366, 46 Stat. 1463; Pub. L. 97–35, title I, § 158(a)(1), (2), Aug. 13, 1981, 95 Stat. 375, 376; Pub. L. 99–260, § 14, Mar. 20, 1986, 100 Stat. 54; Pub. L. 101–624, title V, § 508(a), (b), Nov. 28, 1990, 104 Stat. 3441, 3443; Pub. L. 102–237, title X, § 1009, Dec. 13, 1991, 105 Stat. 1898; Pub. L. 102–553, § 1, Oct. 28, 1992, 106 Stat. 4140. Such Act is shown herein, however, as having been added by Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2061, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 106–472.
+The United States Warehouse Act, comprising this chapter, was originally enacted by act Aug. 11, 1916, ch. 313, pt. C, 39 Stat. 486, and amended by July 24, 1919, ch. 26, 41 Stat. 266; Feb. 23, 1923, ch. 106, 42 Stat. 1282; Mar. 2, 1931, ch. 366, 46 Stat. 1463; Pub. L. 97–35, title I, § 158(a)(1), (2), Aug. 13, 1981, 95 Stat. 375, 376; Pub. L. 99–260, § 14, Mar. 20, 1986, 100 Stat. 54; Pub. L. 101–624, title V, § 508(a), (b), Nov. 28, 1990, 104 Stat. 3441, 3443; Pub. L. 102–237, title X, § 1009, Dec. 13, 1991, 105 Stat. 1898; Pub. L. 102–553, § 1, Oct. 28, 1992, 106 Stat. 4140. Such Act is shown herein, however, as having been added by Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2061, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 106–472.
 
-## § 241. Definitions
+## § 241. Definitions
 
 In this chapter:
 
@@ -73,7 +73,7 @@ The term “warehouse” means a structure or other approved storage facility, a
 
 The term “warehouse operator” means a person that is lawfully engaged in the business of storing or handling agricultural products.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 2, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2061.)
+(Aug. 11, 1916, ch. 313, pt. C, § 2, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2061.)
 
 **Editorial Notes**
 
@@ -83,7 +83,7 @@ This chapter constitutes part C of “An act making appropriations for the Depar
 
 **Prior Provisions**
 
-A prior section 241, act Aug. 11, 1916, ch. 313, pt. C, § 1, 39 Stat. 486, set forth short title, prior to the general amendment of this chapter by Pub. L. 106–472.
+A prior section 241, act Aug. 11, 1916, ch. 313, pt. C, § 1, 39 Stat. 486, set forth short title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
 A prior section 2 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 242 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
@@ -91,11 +91,11 @@ A prior section 2 of act Aug. 11, 1916, ch. 313, pt. C, was classified to sectio
 
 **Short Title**
 
-Act Aug. 11, 1916, ch. 313, pt. C, § 1, as added by Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2061, provided that: “This Act [enacting this chapter] may be cited as the ‘United States Warehouse Act’.”
+Act Aug. 11, 1916, ch. 313, pt. C, § 1, as added by Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2061, provided that: “This Act [enacting this chapter] may be cited as the ‘United States Warehouse Act’.”
 
 **Effective Date; Regulations**
 
-Pub. L. 106–472, title II, § 202, Nov. 9, 2000, 114 Stat. 2068, provided that:
+Pub. L. 106–472, title II, § 202, Nov. 9, 2000, 114 Stat. 2068, provided that:
 
 > **“(a) Proposed Regulations.—** Not later than 90 days after the date of the enactment of this Act [Nov. 9, 2000], the Secretary of Agriculture shall publish in the Federal Register proposed regulations for carrying out the amendment made by section 201 [enacting this chapter].
 
@@ -107,7 +107,7 @@ Pub. L. 106–472, title II, § 202, Nov. 9, 2000, 114 Stat. 2068, provided th
 
 > **“(2)** August 1, 2001.”
 
-## § 242. Powers of Secretary
+## § 242. Powers of Secretary
 
 **(a) In general** The Secretary shall have exclusive power, jurisdiction, and authority, to the extent that this chapter applies, with respect to—
 
@@ -197,17 +197,17 @@ As a condition of a license issued under paragraph (1), the licensee shall agree
 
 **(2)** enter into cooperative agreements with States to perform activities authorized under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 3, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2062.)
+(Aug. 11, 1916, ch. 313, pt. C, § 3, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2062.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 242, acts Aug. 11, 1916, ch. 313, pt. C, § 2, 39 Stat. 486; Feb. 23, 1923, ch. 106, 42 Stat. 1282, defined terms, prior to the general amendment of this chapter by Pub. L. 106–472. See section 241 of this title.
+A prior section 242, acts Aug. 11, 1916, ch. 313, pt. C, § 2, 39 Stat. 486; Feb. 23, 1923, ch. 106, 42 Stat. 1282, defined terms, prior to the general amendment of this chapter by Pub. L. 106–472. See section 241 of this title.
 
 A prior section 3 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 243 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 243. Imposition and collection of fees
+## § 243. Imposition and collection of fees
 
 **(a) In general**
 
@@ -235,31 +235,31 @@ The Secretary shall seek to minimize the fees established under this section by 
 
 The Secretary shall publish an annual report on the actions taken by the Secretary to comply with paragraph (1).
 
-(Aug. 11, 1916, ch. 313, pt. C, § 4, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2064.)
+(Aug. 11, 1916, ch. 313, pt. C, § 4, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2064.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 243, act Aug. 11, 1916, ch. 313, pt. C, § 3, 39 Stat. 486, authorized investigation of warehousing, weighing, classifying, and certification of agricultural products, inspection of warehouses, and prescription of duties of warehousemen by Secretary of Agriculture, prior to the general amendment of this chapter by Pub. L. 106–472. See section 242 of this title.
+A prior section 243, act Aug. 11, 1916, ch. 313, pt. C, § 3, 39 Stat. 486, authorized investigation of warehousing, weighing, classifying, and certification of agricultural products, inspection of warehouses, and prescription of duties of warehousemen by Secretary of Agriculture, prior to the general amendment of this chapter by Pub. L. 106–472. See section 242 of this title.
 
 A prior section 4 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 244 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 244. Quality and value standards
+## § 244. Quality and value standards
 
 If standards for the evaluation or determination of the quality or value of an agricultural product are not established under another Federal law, the Secretary may establish standards for the evaluation or determination of the quality or value of the agricultural product under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 5, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2064.)
+(Aug. 11, 1916, ch. 313, pt. C, § 5, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2064.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 244, acts Aug. 11, 1916, ch. 313, pt. C, § 4, 39 Stat. 486; Mar. 2, 1931, ch. 366, § 1, 46 Stat. 1463, authorized licensing of warehousemen, prior to the general amendment of this chapter by Pub. L. 106–472. See section 242 of this title.
+A prior section 244, acts Aug. 11, 1916, ch. 313, pt. C, § 4, 39 Stat. 486; Mar. 2, 1931, ch. 366, § 1, 46 Stat. 1463, authorized licensing of warehousemen, prior to the general amendment of this chapter by Pub. L. 106–472. See section 242 of this title.
 
 A prior section 5 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 245 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 245. Bonding and other financial assurance requirements
+## § 245. Bonding and other financial assurance requirements
 
 **(a) In general**
 
@@ -277,17 +277,17 @@ If the Secretary determines that a previously approved bond or other financial a
 
 Any person injured by the breach of any obligation arising under this chapter for which a bond or other financial assurance has been obtained as required by this section may sue with respect to the bond or other financial assurance in a district court of the United States to recover the damages that the person sustained as a result of the breach.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 6, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2064.)
+(Aug. 11, 1916, ch. 313, pt. C, § 6, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2064.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 245, acts Aug. 11, 1916, ch. 313, pt. C, § 5, 39 Stat. 486; Feb. 23, 1923, ch. 106, 42 Stat. 1282, related to term and renewal of license, prior to the general amendment of this chapter by Pub. L. 106–472.
+A prior section 245, acts Aug. 11, 1916, ch. 313, pt. C, § 5, 39 Stat. 486; Feb. 23, 1923, ch. 106, 42 Stat. 1282, related to term and renewal of license, prior to the general amendment of this chapter by Pub. L. 106–472.
 
 A prior section 6 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 247 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 246. Maintenance of records
+## § 246. Maintenance of records
 
 To facilitate the administration of this chapter, the following persons shall maintain such records and make such reports, as the Secretary may by regulation require:
 
@@ -297,17 +297,17 @@ To facilitate the administration of this chapter, the following persons shall ma
 
 **(3)** Any other person engaged in the issuance of electronic receipts or the transfer of documents under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 7, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
+(Aug. 11, 1916, ch. 313, pt. C, § 7, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 246, acts Aug. 11, 1916, ch. 313, pt. C, § 25, 39 Stat. 490; Mar. 2, 1931, ch. 366, § 8, 46 Stat. 1465, related to suspension and revocation of license, prior to the general amendment of this chapter by Pub. L. 106–472. See section 252 of this title.
+A prior section 246, acts Aug. 11, 1916, ch. 313, pt. C, § 25, 39 Stat. 490; Mar. 2, 1931, ch. 366, § 8, 46 Stat. 1465, related to suspension and revocation of license, prior to the general amendment of this chapter by Pub. L. 106–472. See section 252 of this title.
 
 A prior section 7 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 249 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 247. Fair treatment in storage of agricultural products
+## § 247. Fair treatment in storage of agricultural products
 
 **(a) In general** Subject to the capacity of a warehouse, a warehouse operator shall deal, in a fair and reasonable manner, with persons storing, or seeking to store, an agricultural product in the warehouse if the agricultural product—
 
@@ -321,17 +321,17 @@ A prior section 7 of act Aug. 11, 1916, ch. 313, pt. C, was classified to sectio
 
 Nothing in this section prohibits a warehouse operator from entering into an agreement with a depositor of an agricultural product to allocate available storage space.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 8, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
+(Aug. 11, 1916, ch. 313, pt. C, § 8, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 247, acts Aug. 11, 1916, ch. 313, pt. C, § 6, 39 Stat. 486; July 24, 1919, ch. 26, 41 Stat. 266; Feb. 23, 1923, ch. 106, 42 Stat. 1283; Mar. 2, 1931, ch. 366, § 2, 46 Stat. 1463, required bond as condition to granting of license and additional bonds if first bond determined to become insufficient, prior to the general amendment of this chapter by Pub. L. 106–472. See section 245 of this title.
+A prior section 247, acts Aug. 11, 1916, ch. 313, pt. C, § 6, 39 Stat. 486; July 24, 1919, ch. 26, 41 Stat. 266; Feb. 23, 1923, ch. 106, 42 Stat. 1283; Mar. 2, 1931, ch. 366, § 2, 46 Stat. 1463, required bond as condition to granting of license and additional bonds if first bond determined to become insufficient, prior to the general amendment of this chapter by Pub. L. 106–472. See section 245 of this title.
 
 A prior section 8 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 250 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 248. Commingling of agricultural products
+## § 248. Commingling of agricultural products
 
 **(a) In general**
 
@@ -341,15 +341,15 @@ A warehouse operator may commingle agricultural products in a manner approved by
 
 A warehouse operator shall be severally liable to each depositor or holder for the care and redelivery of the share of the depositor and holder of the commingled agricultural product to the same extent and under the same circumstances as if the agricultural products had been stored separately.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 9, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
+(Aug. 11, 1916, ch. 313, pt. C, § 9, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 248, acts Aug. 11, 1916, ch. 313, pt. C, § 9, 39 Stat. 487; Mar. 2, 1931, ch. 366, § 4, 46 Stat. 1464, related to issuance of licenses to persons other than warehousemen, prior to the general amendment of this chapter by Pub. L. 106–472. See section 242 of this title.
+A prior section 248, acts Aug. 11, 1916, ch. 313, pt. C, § 9, 39 Stat. 487; Mar. 2, 1931, ch. 366, § 4, 46 Stat. 1464, related to issuance of licenses to persons other than warehousemen, prior to the general amendment of this chapter by Pub. L. 106–472. See section 242 of this title.
 
-## § 249. Transfer of stored agricultural products
+## § 249. Transfer of stored agricultural products
 
 **(a) In general**
 
@@ -359,17 +359,17 @@ In accordance with regulations promulgated under this chapter, a warehouse opera
 
 The warehouse operator from which agricultural products have been transferred under subsection (a) shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 10, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
+(Aug. 11, 1916, ch. 313, pt. C, § 10, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 249, act Aug. 11, 1916, ch. 313, pt. C, § 7, 39 Stat. 487, entitled injured persons to bring actions on bonds, prior to the general amendment of this chapter by Pub. L. 106–472. See section 245 of this title.
+A prior section 249, act Aug. 11, 1916, ch. 313, pt. C, § 7, 39 Stat. 487, entitled injured persons to bring actions on bonds, prior to the general amendment of this chapter by Pub. L. 106–472. See section 245 of this title.
 
 A prior section 10 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 251 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 250. Warehouse receipts
+## § 250. Warehouse receipts
 
 **(a) In general**
 
@@ -429,17 +429,17 @@ Notwithstanding any other provision of this chapter, a warehouse operator not li
 
 **(B)** to issue electronic receipts authorized under State law.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 11, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
+(Aug. 11, 1916, ch. 313, pt. C, § 11, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2065.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 250, acts Aug. 11, 1916, ch. 313, pt. C, § 8, 39 Stat. 487; Mar. 2, 1931, ch. 366, § 3, 46 Stat. 1463, authorized designation as bonded warehouse upon filing of bond and approval by Secretary, prior to the general amendment of this chapter by Pub. L. 106–472.
+A prior section 250, acts Aug. 11, 1916, ch. 313, pt. C, § 8, 39 Stat. 487; Mar. 2, 1931, ch. 366, § 3, 46 Stat. 1463, authorized designation as bonded warehouse upon filing of bond and approval by Secretary, prior to the general amendment of this chapter by Pub. L. 106–472.
 
 A prior section 11 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 252 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 251. Conditions for delivery of agricultural products
+## § 251. Conditions for delivery of agricultural products
 
 **(a) Prompt delivery** In the absence of a lawful excuse, a warehouse operator shall, without unnecessary delay, deliver the agricultural product stored or handled in the warehouse on a demand made by—
 
@@ -459,17 +459,17 @@ When the holder of a receipt requests delivery of an agricultural product covere
 
 A warehouse operator shall cancel each receipt returned to the warehouse operator upon the delivery of the agricultural product for which the receipt was issued.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 12, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2067.)
+(Aug. 11, 1916, ch. 313, pt. C, § 12, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2067.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 251, acts Aug. 11, 1916, ch. 313, pt. C, § 10, 39 Stat. 487; Mar. 2, 1931, ch. 366, § 5, 46 Stat. 1464; Pub. L. 97–35, title I, § 158(a)(1), Aug. 13, 1981, 95 Stat. 375, authorized fee for warehouse examination, inspection, and licensing, prior to the general amendment of this chapter by Pub. L. 106–472. See section 243 of this title.
+A prior section 251, acts Aug. 11, 1916, ch. 313, pt. C, § 10, 39 Stat. 487; Mar. 2, 1931, ch. 366, § 5, 46 Stat. 1464; Pub. L. 97–35, title I, § 158(a)(1), Aug. 13, 1981, 95 Stat. 375, authorized fee for warehouse examination, inspection, and licensing, prior to the general amendment of this chapter by Pub. L. 106–472. See section 243 of this title.
 
 A prior section 12 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 253 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 252. Suspension or revocation of licenses
+## § 252. Suspension or revocation of licenses
 
 **(a) In general** After providing notice and an opportunity for a hearing in accordance with this section, the Secretary may suspend or revoke any license issued, or approval for an activity provided, under this chapter—
 
@@ -495,17 +495,17 @@ A final administrative determination issued subsequent to a hearing may be revie
 
 The review shall be conducted in accordance with the standards set forth in section 706(2) of title 5.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 13, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2067.)
+(Aug. 11, 1916, ch. 313, pt. C, § 13, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2067.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 252, acts Aug. 11, 1916, ch. 313, pt. C, § 11, 39 Stat. 487; Feb. 23, 1923, ch. 106, 42 Stat. 1283; Mar. 2, 1931, ch. 366, § 6, 46 Stat. 1464, authorized license to classify, grade, or weigh agricultural products, prior to the general amendment of this chapter by Pub. L. 106–472. See section 242 of this title.
+A prior section 252, acts Aug. 11, 1916, ch. 313, pt. C, § 11, 39 Stat. 487; Feb. 23, 1923, ch. 106, 42 Stat. 1283; Mar. 2, 1931, ch. 366, § 6, 46 Stat. 1464, authorized license to classify, grade, or weigh agricultural products, prior to the general amendment of this chapter by Pub. L. 106–472. See section 242 of this title.
 
 A prior section 13 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 254 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 253. Public information
+## § 253. Public information
 
 **(a) In general** The Secretary may release to the public the names, addresses, and locations of all persons—
 
@@ -517,17 +517,17 @@ A prior section 13 of act Aug. 11, 1916, ch. 313, pt. C, was classified to secti
 
 Except as otherwise provided by law, an officer, employee, or agent of the Department shall not divulge confidential business information obtained during a warehouse examination or other function performed as part of the duties of the officer, employee, or agent under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 14, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2068.)
+(Aug. 11, 1916, ch. 313, pt. C, § 14, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2068.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 253, acts Aug. 11, 1916, ch. 313, pt. C, § 12, 39 Stat. 487; Feb. 23, 1923, ch. 106, 42 Stat. 1283; Mar. 2, 1931, ch. 366, § 7, 46 Stat. 1464, related to suspension and revocation of license to classify, grade, or weigh, prior to the general amendment of this chapter by Pub. L. 106–472. See section 252 of this title.
+A prior section 253, acts Aug. 11, 1916, ch. 313, pt. C, § 12, 39 Stat. 487; Feb. 23, 1923, ch. 106, 42 Stat. 1283; Mar. 2, 1931, ch. 366, § 7, 46 Stat. 1464, related to suspension and revocation of license to classify, grade, or weigh, prior to the general amendment of this chapter by Pub. L. 106–472. See section 252 of this title.
 
 A prior section 14 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 255 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 254. Penalties for noncompliance
+## § 254. Penalties for noncompliance
 
 If a person fails to comply with any requirement of this chapter (including regulations promulgated under this chapter), the Secretary may assess, on the record after an opportunity for a hearing, a civil penalty—
 
@@ -535,17 +535,17 @@ If a person fails to comply with any requirement of this chapter (including regu
 
 **(2)** of not more than 100 percent of the value of the agricultural product, if an agricultural product is involved in the violation.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 15, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2068.)
+(Aug. 11, 1916, ch. 313, pt. C, § 15, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2068.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 254, act Aug. 11, 1916, ch. 313, pt. C, § 13, 39 Stat. 488, prohibited discrimination by warehousemen, prior to the general amendment of this chapter by Pub. L. 106–472. See section 247 of this title.
+A prior section 254, act Aug. 11, 1916, ch. 313, pt. C, § 13, 39 Stat. 488, prohibited discrimination by warehousemen, prior to the general amendment of this chapter by Pub. L. 106–472. See section 247 of this title.
 
 A prior section 15 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 256 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 255. Jurisdiction and arbitration
+## § 255. Jurisdiction and arbitration
 
 **(a) Federal jurisdiction**
 
@@ -555,62 +555,62 @@ A district court of the United States shall have exclusive jurisdiction over any
 
 Nothing in this chapter prevents the enforceability of an agreement to arbitrate that would otherwise be enforceable under chapter 1 of title 9.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 16, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2068.)
+(Aug. 11, 1916, ch. 313, pt. C, § 16, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2068.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 255, act Aug. 11, 1916, ch. 313, pt. C, § 14, 39 Stat. 488, deemed deposit of products in a licensed warehouse as deposit subject to this chapter, prior to the general amendment of this chapter by Pub. L. 106–472.
+A prior section 255, act Aug. 11, 1916, ch. 313, pt. C, § 14, 39 Stat. 488, deemed deposit of products in a licensed warehouse as deposit subject to this chapter, prior to the general amendment of this chapter by Pub. L. 106–472.
 
 A prior section 16 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 258 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-## § 256. Authorization of appropriations
+## § 256. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. C, § 17, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2068.)
+(Aug. 11, 1916, ch. 313, pt. C, § 17, as added Pub. L. 106–472, title II, § 201, Nov. 9, 2000, 114 Stat. 2068.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 256, acts Aug. 11, 1916, ch. 313, pt. C, § 15, 39 Stat. 488; Feb. 23, 1923, ch. 106, 42 Stat. 1283, related to inspection and grading of products stored, prior to the general amendment of this chapter by Pub. L. 106–472.
+A prior section 256, acts Aug. 11, 1916, ch. 313, pt. C, § 15, 39 Stat. 488; Feb. 23, 1923, ch. 106, 42 Stat. 1283, related to inspection and grading of products stored, prior to the general amendment of this chapter by Pub. L. 106–472.
 
 A prior section 17 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 259 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
 Prior sections 257 to 273 were omitted in the general amendment of this chapter by Pub. L. 106–472.
 
-Section 257, acts Aug. 11, 1916, ch. 313, pt. C, § 19, 39 Stat. 489; Feb. 23, 1923, ch. 106, 42 Stat. 1284, authorized Secretary to promulgate standards for agricultural products. See section 244 of this title.
+Section 257, acts Aug. 11, 1916, ch. 313, pt. C, § 19, 39 Stat. 489; Feb. 23, 1923, ch. 106, 42 Stat. 1284, authorized Secretary to promulgate standards for agricultural products. See section 244 of this title.
 
-Section 258, act Aug. 11, 1916, ch. 313, pt. C, § 16, 39 Stat. 488, related to mingling of stored products. See section 248 of this title.
+Section 258, act Aug. 11, 1916, ch. 313, pt. C, § 16, 39 Stat. 488, related to mingling of stored products. See section 248 of this title.
 
-Section 259, acts Aug. 11, 1916, ch. 313, pt. C, § 17, 39 Stat. 488; Pub. L. 99–260, § 14, Mar. 20, 1986, 100 Stat. 54; Pub. L. 101–624, title V, § 508(a), Nov. 28, 1990, 104 Stat. 3441; Pub. L. 102–237, title X, § 1009, Dec. 13, 1991, 105 Stat. 1898; Pub. L. 102–553, § 1, Oct. 28, 1992, 106 Stat. 4140, required issuance of receipts for products stored and set forth provisions relating to central filing system and transfer of stored products. See sections 249 and 250 of this title.
+Section 259, acts Aug. 11, 1916, ch. 313, pt. C, § 17, 39 Stat. 488; Pub. L. 99–260, § 14, Mar. 20, 1986, 100 Stat. 54; Pub. L. 101–624, title V, § 508(a), Nov. 28, 1990, 104 Stat. 3441; Pub. L. 102–237, title X, § 1009, Dec. 13, 1991, 105 Stat. 1898; Pub. L. 102–553, § 1, Oct. 28, 1992, 106 Stat. 4140, required issuance of receipts for products stored and set forth provisions relating to central filing system and transfer of stored products. See sections 249 and 250 of this title.
 
-Section 260, acts Aug. 11, 1916, ch. 313, pt. C, § 18, 39 Stat. 488; July 24, 1919, ch. 26, 41 Stat. 266; Feb. 23, 1923, ch. 106, 42 Stat. 1284, related to contents of receipts. See section 250 of this title.
+Section 260, acts Aug. 11, 1916, ch. 313, pt. C, § 18, 39 Stat. 488; July 24, 1919, ch. 26, 41 Stat. 266; Feb. 23, 1923, ch. 106, 42 Stat. 1284, related to contents of receipts. See section 250 of this title.
 
-Section 261, act Aug. 11, 1916, ch. 313, pt. C, § 20, 39 Stat. 489, related to issuance of further receipt with original outstanding. See section 250 of this title.
+Section 261, act Aug. 11, 1916, ch. 313, pt. C, § 20, 39 Stat. 489, related to issuance of further receipt with original outstanding. See section 250 of this title.
 
-Section 262, act Aug. 11, 1916, ch. 313, pt. C, § 21, 39 Stat. 489, required delivery on demand of products stored and set forth conditions to delivery. See section 251 of this title.
+Section 262, act Aug. 11, 1916, ch. 313, pt. C, § 21, 39 Stat. 489, required delivery on demand of products stored and set forth conditions to delivery. See section 251 of this title.
 
-Section 263, act Aug. 11, 1916, ch. 313, pt. C, § 22, 39 Stat. 490, related to cancellation of receipt upon delivery of product stored. See section 251 of this title.
+Section 263, act Aug. 11, 1916, ch. 313, pt. C, § 22, 39 Stat. 490, related to cancellation of receipt upon delivery of product stored. See section 251 of this title.
 
-Section 264, act Aug. 11, 1916, ch. 313, pt. C, § 23, 39 Stat. 490, related to recording and reporting requirements and directed compliance with this chapter and regulations. See section 246 of this title.
+Section 264, act Aug. 11, 1916, ch. 313, pt. C, § 23, 39 Stat. 490, related to recording and reporting requirements and directed compliance with this chapter and regulations. See section 246 of this title.
 
-Section 265, act Aug. 11, 1916, ch. 313, pt. C, § 24, 39 Stat. 490, authorized Secretary to examine stored products and publish findings. See sections 242 and 253 of this title.
+Section 265, act Aug. 11, 1916, ch. 313, pt. C, § 24, 39 Stat. 490, authorized Secretary to examine stored products and publish findings. See sections 242 and 253 of this title.
 
-Section 266, act Aug. 11, 1916, ch. 313, pt. C, § 26, 39 Stat. 490, authorized publication of investigation results, list of terminated licenses, and names and locations of bonded warehouses. See section 253 of this title.
+Section 266, act Aug. 11, 1916, ch. 313, pt. C, § 26, 39 Stat. 490, authorized publication of investigation results, list of terminated licenses, and names and locations of bonded warehouses. See section 253 of this title.
 
-Section 267, act Aug. 11, 1916, ch. 313, pt. C, § 27, 39 Stat. 490, authorized examination of books and records of warehousemen. See section 242 of this title.
+Section 267, act Aug. 11, 1916, ch. 313, pt. C, § 27, 39 Stat. 490, authorized examination of books and records of warehousemen. See section 242 of this title.
 
-Section 268, act Aug. 11, 1916, ch. 313, pt. C, § 28, 39 Stat. 490, authorized rules and regulations.
+Section 268, act Aug. 11, 1916, ch. 313, pt. C, § 28, 39 Stat. 490, authorized rules and regulations.
 
-Section 269, acts Aug. 11, 1916, ch. 313, pt. C, § 29, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, § 9, 46 Stat. 1465, related to cooperation with States, exclusivity of Secretary’s authority, and preemption of laws. See section 242 of this title.
+Section 269, acts Aug. 11, 1916, ch. 313, pt. C, § 29, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, § 9, 46 Stat. 1465, related to cooperation with States, exclusivity of Secretary’s authority, and preemption of laws. See section 242 of this title.
 
-Section 270, acts Aug. 11, 1916, ch. 313, pt. C, § 30, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, § 10, 46 Stat. 1465; Pub. L. 101–624, title V, § 508(b), Nov. 28, 1990, 104 Stat. 3443, set forth punishment for violations of this chapter. See section 254 of this title.
+Section 270, acts Aug. 11, 1916, ch. 313, pt. C, § 30, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, § 10, 46 Stat. 1465; Pub. L. 101–624, title V, § 508(b), Nov. 28, 1990, 104 Stat. 3443, set forth punishment for violations of this chapter. See section 254 of this title.
 
-Section 271, acts Aug. 11, 1916, ch. 313, pt. C, § 31, 39 Stat. 491; Pub. L. 97–35, title I, § 158(a)(2), Aug. 13, 1981, 95 Stat. 376, authorized appropriations and employment of temporary personnel. See section 256 of this title.
+Section 271, acts Aug. 11, 1916, ch. 313, pt. C, § 31, 39 Stat. 491; Pub. L. 97–35, title I, § 158(a)(2), Aug. 13, 1981, 95 Stat. 376, authorized appropriations and employment of temporary personnel. See section 256 of this title.
 
-Section 272, act Aug. 11, 1916, ch. 313, pt. C, § 32, 39 Stat. 491, related to separability of provisions.
+Section 272, act Aug. 11, 1916, ch. 313, pt. C, § 32, 39 Stat. 491, related to separability of provisions.
 
-Section 273, act Aug. 11, 1916, ch. 313, pt. C, § 33, 39 Stat. 491, reserved right to amend, alter, or repeal this chapter.
+Section 273, act Aug. 11, 1916, ch. 313, pt. C, § 33, 39 Stat. 491, reserved right to amend, alter, or repeal this chapter.

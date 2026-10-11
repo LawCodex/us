@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title XVI, § 1613(a)(1), Dec. 23, 2024, 138 Stat. 2168, substituted “Certain civilian special agents:” for “Civilian special agents of the Criminal Investigation Command:” in item 7377. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title XVI, § 1613(a)(1), Dec. 23, 2024, 138 Stat. 2168, substituted “Certain civilian special agents:” for “Civilian special agents of the Criminal Investigation Command:” in item 7377. Amendment was made pursuant to operation of section 102 of this title.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 373 of this title as this chapter and items 4021, 4024, 4025, and 4027 as 7371, 7374, 7375, and 7377, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 373 of this title as this chapter and items 4021, 4024, 4025, and 4027 as 7371, 7374, 7375, and 7377, respectively.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title V, § 554(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–126, added item 4027.
+2000—Pub. L. 106–398, § 1 [[div. A], title V, § 554(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–126, added item 4027.
 
-1989—Pub. L. 101–189, div. A, title XI, § 1124(b)(2), Nov. 29, 1989, 103 Stat. 1559, added item 4021.
+1989—Pub. L. 101–189, div. A, title XI, § 1124(b)(2), Nov. 29, 1989, 103 Stat. 1559, added item 4021.
 
-1983—Pub. L. 98–94, title IX, § 932(b)(2), Sept. 24, 1983, 97 Stat. 650, struck out item 4022 “Contract surgeons”.
+1983—Pub. L. 98–94, title IX, § 932(b)(2), Sept. 24, 1983, 97 Stat. 650, struck out item 4022 “Contract surgeons”.
 
-1962—Pub. L. 87–651, title I, § 116(2), Sept. 7, 1962, 76 Stat. 513, struck out item 4023 “Service club and library services”.
+1962—Pub. L. 87–651, title I, § 116(2), Sept. 7, 1962, 76 Stat. 513, struck out item 4023 “Service club and library services”.
 
-1958—Pub. L. 85–861, § 1(102), Sept. 2, 1958, 72 Stat. 1489, struck out item 4021 “Appointment: professional and scientific services”.
+1958—Pub. L. 85–861, § 1(102), Sept. 2, 1958, 72 Stat. 1489, struck out item 4021 “Appointment: professional and scientific services”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authority To Conduct Pilot Program on Civilian Cybersecurity Reserve**
 
-Pub. L. 118–31, div. A, title XV, § 1536, Dec. 22, 2023, 137 Stat. 567, provided that:
+Pub. L. 118–31, div. A, title XV, § 1536, Dec. 22, 2023, 137 Stat. 567, provided that:
 
 > **“(a) Authority.—** The Secretary of the Army may conduct a pilot program to establish a Civilian Cybersecurity Reserve to provide to the United States Cyber Command manpower to effectively—
 
@@ -131,7 +131,7 @@ Pub. L. 118–31, div. A, title XV, § 1536, Dec. 22, 2023, 137 Stat. 567, pro
 
 > **“(7) Sunset.—** The authority to conduct the pilot program shall terminate on the date that is four years after the date on which the pilot program commences.”
 
-## § 7371. Army War College and United States Army Command and General Staff College: civilian faculty members
+## § 7371. Army War College and United States Army Command and General Staff College: civilian faculty members
 
 **(a) Authority of Secretary.—** The Secretary of the Army may employ as many civilians as professors, instructors, and lecturers at the Army War College or the United States Army Command and General Staff College as the Secretary considers necessary.
 
@@ -143,7 +143,7 @@ Pub. L. 118–31, div. A, title XV, § 1536, Dec. 22, 2023, 137 Stat. 567, pro
 
 **(2)** This section shall not apply with respect to professors, instructors, and lecturers employed at the Army War College or the United States Army Command and General Staff College if the duration of the principal course of instruction offered at the college involved is less than 10 months.
 
-(Added Pub. L. 101–189, div. A, title XI, § 1124(b)(1), Nov. 29, 1989, 103 Stat. 1558, § 4021; amended Pub. L. 107–107, div. A, title X, § 1048(c)(12), Dec. 28, 2001, 115 Stat. 1226; renumbered § 7371, Pub. L. 115–232, div. A, title VIII, § 808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 101–189, div. A, title XI, § 1124(b)(1), Nov. 29, 1989, 103 Stat. 1558, § 4021; amended Pub. L. 107–107, div. A, title X, § 1048(c)(12), Dec. 28, 2001, 115 Stat. 1226; renumbered § 7371, Pub. L. 115–232, div. A, title VIII, § 808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -159,11 +159,11 @@ Pub. L. 118–31, div. A, title XV, § 1536, Dec. 22, 2023, 137 Stat. 567, pro
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7374. Expert accountant for Inspector General
+## § 7374. Expert accountant for Inspector General
 
 The Secretary of the Army shall appoint an expert accountant to perform duties under the Inspector General.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 234, § 4024; renumbered § 7374, Pub. L. 115–232, div. A, title VIII, § 808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 234, § 4024; renumbered § 7374, Pub. L. 115–232, div. A, title VIII, § 808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -185,17 +185,17 @@ The words “in case of vacancy” are omitted as surplusage.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7375. Production of supplies and munitions: hours and pay of laborers and mechanics
+## § 7375. Production of supplies and munitions: hours and pay of laborers and mechanics
 
 During a national emergency declared by the President, the regular working hours of laborers and mechanics of the Department of the Army producing military supplies or munitions are 8 hours a day or 40 hours a week. However, under regulations prescribed by the Secretary of the Army these hours may be exceeded. Each laborer or mechanic who works more than 40 hours in a workweek shall be paid at a rate not less than one and one-half times the regular hourly rate for each hour in excess of 40.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 234, § 4025; renumbered § 7375, Pub. L. 115–232, div. A, title VIII, § 808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 234, § 4025; renumbered § 7375, Pub. L. 115–232, div. A, title VIII, § 808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4025 | 5:189a. | July 2, 1940, ch. 508, § 4(b), 54 Stat. 714. |
+| 4025 | 5:189a. | July 2, 1940, ch. 508, § 4(b), 54 Stat. 714. |
 
 The words “Notwithstanding the provisions of any other law” are omitted as surplusage. The word “producing” is substituted for the words “who are engaged in the manufacture or production”. The last sentence is substituted for 5:189a (last 34 words).
 
@@ -211,7 +211,7 @@ The words “Notwithstanding the provisions of any other law” are omitted as s
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7377. Certain civilian special agents: authority to execute warrants and make arrests
+## § 7377. Certain civilian special agents: authority to execute warrants and make arrests
 
 **(a) Authority.—** The Secretary of the Army may authorize any Department of the Army civilian employee described in subsection (b) to have the same authority to execute and serve warrants and other processes issued under the authority of the United States and to make arrests without a warrant as may be authorized under section 1585a of this title for special agents of the Defense Criminal Investigative Service.
 
@@ -223,7 +223,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c) Guidelines for Exercise of Authority.—** The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Secretary of the Army and approved by the Secretary of Defense and the Attorney General and any other applicable guidelines prescribed by the Secretary of the Army, the Secretary of Defense, or the Attorney General.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title V, § 554(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–126, § 4027; renumbered § 7377, Pub. L. 115–232, div. A, title VIII, § 808(b)(15), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 118–159, div. A, title XVI, § 1613(a), Dec. 23, 2024, 138 Stat. 2168.)
+(Added Pub. L. 106–398, § 1 [[div. A], title V, § 554(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–126, § 4027; renumbered § 7377, Pub. L. 115–232, div. A, title VIII, § 808(b)(15), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 118–159, div. A, title XVI, § 1613(a), Dec. 23, 2024, 138 Stat. 2168.)
 
 **Editorial Notes**
 
@@ -233,9 +233,9 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 1613(a)(1), substituted “Certain civilian special agents:” for “Civilian special agents of the Criminal Investigation Command:” in section catchline.
+2024—Pub. L. 118–159, § 1613(a)(1), substituted “Certain civilian special agents:” for “Civilian special agents of the Criminal Investigation Command:” in section catchline.
 
-Subsec. (b). Pub. L. 118–159, § 1613(a)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 118–159, § 1613(a)(2), designated existing provisions as par. (1) and added par. (2).
 
 2018—Pub. L. 115–232 renumbered section 4027 of this title as this section.
 

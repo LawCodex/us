@@ -15,23 +15,23 @@ retrieved: 2026-10-11
 
 # CHAPTER 74—FLORAL RESEARCH AND CONSUMER INFORMATION
 
-## § 4301. Congressional findings and declaration of policy
+## § 4301. Congressional findings and declaration of policy
 
 Flowers and plants are an integral part of American life, contributing a natural and beautiful element, especially in urban areas, to what is increasingly a manmade, artificial environment for this country’s citizens. Providing comfort and pleasure for many special occasions as well as for everyday living, flowers and plants work against visual pollution and, in the case of green plants, generate oxygen within their environment. The flowers and plants to which this chapter refers are cut flowers, potted flowering plants, and foliage plants. These flowers and plants are produced by many individual producers throughout the United States and in foreign countries. These products move in interstate and foreign commerce, and those that do not move in such channels of commerce directly burden or affect interstate commerce of these products. The maintenance and expansion of existing markets and the development of new or improved markets and uses are vital to the welfare of flower and plant producers, brokers, wholesalers, and retailers throughout the Nation. The floral industry within the United States is comprised mainly of small- and medium-sized businesses. The producers are primarily agriculturally-oriented companies rather than promotion-oriented companies. The development and implementation of coordinated programs of research and promotion necessary for the maintenance of markets and the development of new markets have been inadequate. Without cooperative action in providing for and financing such programs, individual flower and plant producers, wholesalers, and retailers are unable to implement programs of research, consumer and producer information, and promotion necessary to maintain and improve markets for these products. It is widely recognized that it is in the public interest to provide an adequate, steady supply of fresh flowers and plants to the consumers of the Nation. The American consumer requires a continuing supply of quality and affordable flowers and plants as an important element in the quality of life. It is, therefore, declared to be the policy of Congress and the purpose of this chapter that it is essential and in the public interest to authorize the establishment of an orderly procedure for the development and financing, through an adequate assessment, of an effective and coordinated program of research, consumer and producer education, and promotion designed to strengthen the floral industry’s position in the marketplace and maintain, develop, and expand markets for flowers, plants, and flowering plants. Nothing in this chapter may be construed to dictate quality standards or provide for control of production or otherwise limit the right of individual flower and plant producers to produce commercial flowers and plants. Nothing in this chapter may be construed as a trade barrier to flowers and plants produced in foreign countries, and this chapter treats foreign producers equitably.
 
-(Pub. L. 97–98, title XVII, § 1702, Dec. 22, 1981, 95 Stat. 1348.)
+(Pub. L. 97–98, title XVII, § 1702, Dec. 22, 1981, 95 Stat. 1348.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 97–98, title XVII, § 1701, Dec. 22, 1981, 95 Stat. 1348, provided that: “This title [enacting this chapter] may be cited as the ‘Floral Research and Consumer Information Act’.”
+Pub. L. 97–98, title XVII, § 1701, Dec. 22, 1981, 95 Stat. 1348, provided that: “This title [enacting this chapter] may be cited as the ‘Floral Research and Consumer Information Act’.”
 
 **Effective Date**
 
-Pub. L. 97–98, title XVIII, § 1801, Dec. 22, 1981, 95 Stat. 1358, provided that: “Except as otherwise provided herein, the provisions of this Act [see Tables for classification] shall become effective on enactment [Dec. 22, 1981].”
+Pub. L. 97–98, title XVIII, § 1801, Dec. 22, 1981, 95 Stat. 1358, provided that: “Except as otherwise provided herein, the provisions of this Act [see Tables for classification] shall become effective on enactment [Dec. 22, 1981].”
 
-## § 4302. Definitions
+## § 4302. Definitions
 
 As used in this chapter—
 
@@ -47,7 +47,7 @@ As used in this chapter—
 
 **(6)** The term “propagational material” means any plant material used in the propagation of cut flowers, potted flowering plants, and foliage plants, including cuttings, bulbs and corms, seedlings, canes, liners, plants, cells or tissue cultures, air layers and bublets,1
 
-<sup>1</sup>  So in original. Probably should be “bulblets,”.
+<sup>1</sup> So in original. Probably should be “bulblets,”.
 
 rhizomes, and root stocks. This term does not include seeds.
 
@@ -73,27 +73,27 @@ rhizomes, and root stocks. This term does not include seeds.
 
 **(17)** The term “cost of plant material” means the actual price paid by a producer for any propagational material or any other flowers and plants used in the production of flowers and plants. This term does not include the cost of seeds.
 
-(Pub. L. 97–98, title XVII, § 1703, Dec. 22, 1981, 95 Stat. 1349.)
+(Pub. L. 97–98, title XVII, § 1703, Dec. 22, 1981, 95 Stat. 1349.)
 
-## § 4303. Floral research and promotion orders
+## § 4303. Floral research and promotion orders
 
 To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and, from time to time, may amend orders applicable to persons engaged in production, sale, importation, or handling of flowers and plants. Such orders shall be applicable to all production or marketing areas, or both, in the United States.
 
-(Pub. L. 97–98, title XVII, § 1704, Dec. 22, 1981, 95 Stat. 1350.)
+(Pub. L. 97–98, title XVII, § 1704, Dec. 22, 1981, 95 Stat. 1350.)
 
-## § 4304. Notice and hearing
+## § 4304. Notice and hearing
 
 Whenever the Secretary has reason to believe that the issuance of an order will tend to effectuate the declared policy of this chapter, the Secretary shall give due notice and opportunity for hearing upon a proposed order. Such hearing may be requested and a proposal for an order submitted by an organization certified pursuant to section 4315 of this chapter, or by any interested person affected by the provisions of this chapter, including the Secretary.
 
-(Pub. L. 97–98, title XVII, § 1705, Dec. 22, 1981, 95 Stat. 1350.)
+(Pub. L. 97–98, title XVII, § 1705, Dec. 22, 1981, 95 Stat. 1350.)
 
-## § 4305. Finding and issuance of orders
+## § 4305. Finding and issuance of orders
 
 After notice and opportunity for hearing as provided in section 4304 of this title, the Secretary shall issue an order if the Secretary finds, and sets forth in such order, upon the evidence introduced at such hearing, that the issuance of such order and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
-(Pub. L. 97–98, title XVII, § 1706, Dec. 22, 1981, 95 Stat. 1350.)
+(Pub. L. 97–98, title XVII, § 1706, Dec. 22, 1981, 95 Stat. 1350.)
 
-## § 4306. Required terms in orders
+## § 4306. Required terms in orders
 
 Orders issued pursuant to this chapter shall contain the following terms and conditions and, except as provided in section 4307 of this title, no others:
 
@@ -117,7 +117,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 **(7)** Providing that the Floraboard shall maintain such books and records and shall prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe, and providing for appropriate accounting by the Floraboard with respect to the receipt and disbursement of all funds entrusted to it.
 
-**(8)** Providing that the Floraboard, with the approval of the Secretary, may enter into contracts or agreements for development and carrying out of the activities authorized under the order pursuant to sections 4307(1) and (2) of this title and for the payment of the cost thereof with funds collected pursuant to the order. The Floraboard may contract with industry groups, profit or nonprofit companies, private and State colleges and universities, and governmental groups. Any such contract or agreement shall provide (A) that the contracting party shall develop and submit to the Floraboard a plan  or  project  together  with  a  budget  or budgets which shall show estimated costs to be incurred for such plan or project, (B) that any such plan or project shall become effective upon the approval of the Secretary, and (C) that the contracting party shall keep accurate records of all its transactions and make periodic reports to the Floraboard of activities carried out and an accounting for funds received and expended, and such other reports as the Secretary may require.
+**(8)** Providing that the Floraboard, with the approval of the Secretary, may enter into contracts or agreements for development and carrying out of the activities authorized under the order pursuant to sections 4307(1) and (2) of this title and for the payment of the cost thereof with funds collected pursuant to the order. The Floraboard may contract with industry groups, profit or nonprofit companies, private and State colleges and universities, and governmental groups. Any such contract or agreement shall provide (A) that the contracting party shall develop and submit to the Floraboard a plan or project together with a budget or budgets which shall show estimated costs to be incurred for such plan or project, (B) that any such plan or project shall become effective upon the approval of the Secretary, and (C) that the contracting party shall keep accurate records of all its transactions and make periodic reports to the Floraboard of activities carried out and an accounting for funds received and expended, and such other reports as the Secretary may require.
 
 **(9)** Providing that the Floraboard may convene, from time to time, advisory panels drawn from the production, importation, wholesale, and retail segments of the flower and plant industry to assist in the development of marketing and research programs.
 
@@ -125,9 +125,9 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 **(11)** Providing that Floraboard members and members of any advisory panels convened shall serve without compensation but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Floraboard or advisory panel.
 
-(Pub. L. 97–98, title XVII, § 1707, Dec. 22, 1981, 95 Stat. 1350.)
+(Pub. L. 97–98, title XVII, § 1707, Dec. 22, 1981, 95 Stat. 1350.)
 
-## § 4307. Permissive terms in orders
+## § 4307. Permissive terms in orders
 
 Orders issued pursuant to this chapter may contain one or more of the following terms and conditions:
 
@@ -139,17 +139,17 @@ Orders issued pursuant to this chapter may contain one or more of the following 
 
 **(4)** Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
 
-(Pub. L. 97–98, title XVII, § 1708, Dec. 22, 1981, 95 Stat. 1352.)
+(Pub. L. 97–98, title XVII, § 1708, Dec. 22, 1981, 95 Stat. 1352.)
 
-## § 4308. Referendum; necessity, etc.
+## § 4308. Referendum; necessity, etc.
 
 **(a)** The Secretary shall conduct a referendum among domestic producers and importers not exempt under section 4311 of this title who, during a representative period determined by the Secretary, have been engaged in the production or importation of flowers and plants, for the purpose of ascertaining whether the issuance of an order is approved or favored by such domestic producers and importers. No order issued pursuant to this chapter shall be effective unless the Secretary determines that the issuance of such order is approved or favored by not less than two-thirds of the producers and importers voting in such referendum, or by a majority of the producers and importers voting in such referendum if such majority produced and imported not less than two-thirds of the total value of the flowers and plants produced and imported by those producers and importers voting in such referendum during a representative period defined by the Secretary.
 
 **(b)** The Secretary shall be reimbursed from assessments for all costs incurred by the Government in connection with the conduct of the referendum, except for the salaries of Government employees.
 
-(Pub. L. 97–98, title XVII, § 1709, Dec. 22, 1981, 95 Stat. 1354.)
+(Pub. L. 97–98, title XVII, § 1709, Dec. 22, 1981, 95 Stat. 1354.)
 
-## § 4309. Suspension and termination of orders
+## § 4309. Suspension and termination of orders
 
 **(a) Prerequisites**
 
@@ -163,35 +163,35 @@ The Secretary may conduct a referendum at any time, and shall hold a referendum 
 
 The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
 
-(Pub. L. 97–98, title XVII, § 1710, Dec. 22, 1981, 95 Stat. 1354.)
+(Pub. L. 97–98, title XVII, § 1710, Dec. 22, 1981, 95 Stat. 1354.)
 
-## § 4310. Amendments to orders
+## § 4310. Amendments to orders
 
 The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-(Pub. L. 97–98, title XVII, § 1711, Dec. 22, 1981, 95 Stat. 1354.)
+(Pub. L. 97–98, title XVII, § 1711, Dec. 22, 1981, 95 Stat. 1354.)
 
-## § 4311. Exemption from assessments
+## § 4311. Exemption from assessments
 
 Any producer or importer whose total sales of flowers and plants do not exceed $100,000 during a twelve consecutive month period prior to the date an assessment is due and payable shall be exempt from assessments under this chapter under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder and shall not vote in any referendum under this chapter: *Provided*, That the Floraboard shall have the discretion to make annual adjustments in the level of exemption to account for inflation. For the purpose of this section, a producer’s or importer’s total sales shall include, in those cases in which the producer or importer is an individual, sales attributable to such person’s spouse, children, grandchildren, and parents; in those cases in which the producer or importer is a partnership or a member of a partnership, sales attributable to the other partners; and, in those cases in which the producer or importer is a corporation, sales attributable to any corporate subsidiaries of which such corporation owns 50 per centum or more of the stock, or if such subsidiaries are not corporations, subsidiaries which are controlled by such corporation. In addition, in determining a producer’s or importer’s total sales, the sales of any corporation in which such producer or importer owns 50 per centum or more of the stock shall be attributed to such producer or importer. For these purposes stock in the same corporation which is owned by such producer’s or importer’s spouse, children, grandchildren, parents, partners, and any corporation 50 per centum or more of whose stock is owned by the producer or importer shall be treated as owned by the producer or importer.
 
-(Pub. L. 97–98, title XVII, § 1712, Dec. 22, 1981, 95 Stat. 1354.)
+(Pub. L. 97–98, title XVII, § 1712, Dec. 22, 1981, 95 Stat. 1354.)
 
-## § 4312. Refund of assessments
+## § 4312. Refund of assessments
 
 Notwithstanding any other provisions of this chapter, any producer or importer who pays an assessment shall have the right to demand and receive from the Floraboard a refund of such assessment: *Provided*, That such demand shall be made by such producer or importer in accordance with regulations and on a form and within a time period prescribed by the Floraboard and approved by the Secretary, but in no event more than sixty days after the end of the month in which the assessment was paid. Such refund shall be made not later than sixty days after submission of proof satisfactory to the Floraboard that the producer or importer paid the assessment for which refund is sought.
 
-(Pub. L. 97–98, title XVII, § 1713, Dec. 22, 1981, 95 Stat. 1355.)
+(Pub. L. 97–98, title XVII, § 1713, Dec. 22, 1981, 95 Stat. 1355.)
 
-## § 4313. Administrative and judicial review; procedures applicable
+## § 4313. Administrative and judicial review; procedures applicable
 
 **(a)** Any person subject to any order may file a written petition with the Secretary, stating that any such order or any provisions of such order or any obligations imposed in connection therewith is not in accordance with law and praying for a modification thereof or to be exempted therefrom. Such person shall thereupon be given an opportunity for a hearing upon such petition, in accordance with regulations prescribed by the Secretary. After such hearing, the Secretary shall make a ruling upon the prayer of such petition which shall be final if in accordance with law.
 
 **(b)** The district courts of the United States in any district in which such person is an inhabitant, or carries on business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to the Secretary a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to section 4314(a) of this title.
 
-(Pub. L. 97–98, title XVII, § 1714, Dec. 22, 1981, 95 Stat. 1355.)
+(Pub. L. 97–98, title XVII, § 1714, Dec. 22, 1981, 95 Stat. 1355.)
 
-## § 4314. Enforcement of provisions
+## § 4314. Enforcement of provisions
 
 **(a)** The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any order or regulation made or issued pursuant to this chapter. Any civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action: *Provided*, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General violations of this chapter whenever the Secretary believes that the administration and enforcement of the program would be adequately served by administrative action pursuant to subsection (b) of this section or suitable written notice or warning to any person committing such violations.
 
@@ -205,9 +205,9 @@ Notwithstanding any other provisions of this chapter, any producer or importer w
 
 **(4)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-(Pub. L. 97–98, title XVII, § 1715, Dec. 22, 1981, 95 Stat. 1356.)
+(Pub. L. 97–98, title XVII, § 1715, Dec. 22, 1981, 95 Stat. 1356.)
 
-## § 4315. Certification of organizations; applicable criteria and considerations
+## § 4315. Certification of organizations; applicable criteria and considerations
 
 The eligibility of any organization to represent producers of flowers and plants of any producing area of the United States or importers of flowers and plants, for purposes of requesting the issuance of an order under section 4304 of this title, or making nominations under section 4306(2) of this title, shall be certified by the Secretary. Certification shall be based, in addition to other available information, upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including, but not limited to, the following:
 
@@ -229,28 +229,28 @@ The eligibility of any organization to represent producers of flowers and plants
 
 The primary consideration in determining the eligibility of any organization shall be whether its membership consists of a substantial number of producers and importers who produce and import a substantial volume of flowers and plants. The Secretary shall certify any organization which is found to be eligible under this section, and the Secretary’s determination as to eligibility shall be final. Whenever more than one organization is certified in any geographic area, such organizations may caucus to determine the area’s nominations under section 4306(2) of this title.
 
-(Pub. L. 97–98, title XVII, § 1716, Dec. 22, 1981, 95 Stat. 1357.)
+(Pub. L. 97–98, title XVII, § 1716, Dec. 22, 1981, 95 Stat. 1357.)
 
-## § 4316. Regulations
+## § 4316. Regulations
 
 The Secretary may issue such regulations as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 97–98, title XVII, § 1717, Dec. 22, 1981, 95 Stat. 1357.)
+(Pub. L. 97–98, title XVII, § 1717, Dec. 22, 1981, 95 Stat. 1357.)
 
-## § 4317. Investigations; subpena powers, etc.; enforcement
+## § 4317. Investigations; subpena powers, etc.; enforcement
 
 The Secretary may make such investigations as are deemed necessary to carry out the Secretary’s responsibilities under this chapter or to determine whether a producer, importer, wholesaler, retailer, or other seller of flowers and plants, or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provisions of this chapter, or of any order, or rule or regulation issued under this chapter. For the purpose of such investigation, the Secretary is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena to, any person, including a producer of flowers and plants, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Secretary, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All processes in any such cases may be served in the judicial district wherein such person is an inhabitant or wherever such person may be found.
 
-(Pub. L. 97–98, title XVII, § 1718, Dec. 22, 1981, 95 Stat. 1357.)
+(Pub. L. 97–98, title XVII, § 1718, Dec. 22, 1981, 95 Stat. 1357.)
 
-## § 4318. Separability
+## § 4318. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Pub. L. 97–98, title XVII, § 1719, Dec. 22, 1981, 95 Stat. 1358.)
+(Pub. L. 97–98, title XVII, § 1719, Dec. 22, 1981, 95 Stat. 1358.)
 
-## § 4319. Authorization of appropriations
+## § 4319. Authorization of appropriations
 
 There are authorized to be appropriated out of any money in the Treasury not otherwise appropriated such funds as are necessary to carry out the provisions of this chapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Floraboard in administering any provisions of any order issued pursuant to the terms of this chapter.
 
-(Pub. L. 97–98, title XVII, § 1720, Dec. 22, 1981, 95 Stat. 1358.)
+(Pub. L. 97–98, title XVII, § 1720, Dec. 22, 1981, 95 Stat. 1358.)

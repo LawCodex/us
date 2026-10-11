@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 20—TRIBALLY CONTROLLED COLLEGES AND UNIVERSITIES ASSISTANCE
 
-## § 1801. Definitions
+## § 1801. Definitions
 
 **(a)** For purposes of this chapter, the term—
 
@@ -27,13 +27,13 @@ retrieved: 2026-10-11
 
 **(4)** “tribally controlled college or university” means an institution of higher education which is formally controlled, or has been formally sanctioned, or chartered, by the governing body of an Indian tribe or tribes, except that no more than one such institution shall be recognized with respect to any such tribe;
 
-**(5)** “institution of higher education” means an institution of higher education as defined by section 1001 1
+**(5)** “institution of higher education” means an institution of higher education as defined by section 1001 1
 
-<sup>1</sup>  So in original. Probably should be section “1001(a)”.
+<sup>1</sup> So in original. Probably should be section “1001(a)”.
 
-of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) 2
+of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) 2
 
-<sup>2</sup>  So in original. Probably should be “(5)”.
+<sup>2</sup> So in original. Probably should be “(5)”.
 
 of such section shall be deemed to refer to the Secretary of the Interior;
 
@@ -65,7 +65,7 @@ of such section shall be deemed to refer to the Secretary of the Interior;
 
 **(B)** shall be limited to ten percent of the Indian student count of a tribally controlled college or university.
 
-(Pub. L. 95–471, § 2, formerly § 1, Oct. 17, 1978, 92 Stat. 1325; renumbered § 2 and amended Pub. L. 98–192, § 1, Dec. 1, 1983, 97 Stat. 1335; Pub. L. 99–428, § 3, Sept. 30, 1986, 100 Stat. 982; Pub. L. 105–244, title I, § 102(a)(8)(B), title IX, § 901(b)(5), (9), Oct. 7, 1998, 112 Stat. 1619, 1828; Pub. L. 110–315, title IX, § 941(a)–(c), Aug. 14, 2008, 122 Stat. 3460, 3461.)
+(Pub. L. 95–471, § 2, formerly § 1, Oct. 17, 1978, 92 Stat. 1325; renumbered § 2 and amended Pub. L. 98–192, § 1, Dec. 1, 1983, 97 Stat. 1335; Pub. L. 99–428, § 3, Sept. 30, 1986, 100 Stat. 982; Pub. L. 105–244, title I, § 102(a)(8)(B), title IX, § 901(b)(5), (9), Oct. 7, 1998, 112 Stat. 1619, 1828; Pub. L. 110–315, title IX, § 941(a)–(c), Aug. 14, 2008, 122 Stat. 3460, 3461.)
 
 **Editorial Notes**
 
@@ -73,43 +73,43 @@ of such section shall be deemed to refer to the Secretary of the Interior;
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, known as the Tribally Controlled Colleges and Universities Assistance Act of 1978, which enacted this chapter and former section 640c–1 of this title, amended former section 640c of this title, and enacted provisions set out as notes under this section and former sections 640a and 640c–1 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(2), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(2), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
-2008—Subsec. (a)(6). Pub. L. 110–315, § 941(a), substituted “in the fields of tribally controlled colleges and universities and Indian higher education” for “in the field of Indian education”.
+2008—Subsec. (a)(6). Pub. L. 110–315, § 941(a), substituted “in the fields of tribally controlled colleges and universities and Indian higher education” for “in the field of Indian education”.
 
-Subsec. (a)(7) to (9). Pub. L. 110–315, § 941(b), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
+Subsec. (a)(7) to (9). Pub. L. 110–315, § 941(b), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-Subsec. (b). Pub. L. 110–315, § 941(c)(1), substituted “subsection (a)(8)” for “paragraph (7) of subsection (a)” in introductory provisions.
+Subsec. (b). Pub. L. 110–315, § 941(c)(1), substituted “subsection (a)(8)” for “paragraph (7) of subsection (a)” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 110–315, § 941(c)(2), added par. (5) and struck out former par. (5) which read as follows: “Credits earned in a continuing education program shall be converted to a credit-hour basis in accordance with the tribally controlled college or university’s system for providing credit for participation in such program.”
+Subsec. (b)(5). Pub. L. 110–315, § 941(c)(2), added par. (5) and struck out former par. (5) which read as follows: “Credits earned in a continuing education program shall be converted to a credit-hour basis in accordance with the tribally controlled college or university’s system for providing credit for participation in such program.”
 
-Subsec. (b)(6). Pub. L. 110–315, § 941(c)(3), struck out par. (6) which read as follows: “No credit hours earned by an Indian student who is not making satisfactory progress toward a degree or certificate shall be taken into account.”
+Subsec. (b)(6). Pub. L. 110–315, § 941(c)(3), struck out par. (6) which read as follows: “No credit hours earned by an Indian student who is not making satisfactory progress toward a degree or certificate shall be taken into account.”
 
-1998—Subsec. (a)(4). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
+1998—Subsec. (a)(4). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
 
-Subsec. (a)(5). Pub. L. 105–244, § 102(a)(8)(B), substituted “section 1001” for “section 1141(a)”.
+Subsec. (a)(5). Pub. L. 105–244, § 102(a)(8)(B), substituted “section 1001” for “section 1141(a)”.
 
-Subsec. (a)(7). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
+Subsec. (a)(7). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
 
-Subsec. (b)(4). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
+Subsec. (b)(4). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
 
-Subsec. (b)(5). Pub. L. 105–244, § 901(b)(9), substituted “college or university’s” for “community college’s”.
+Subsec. (b)(5). Pub. L. 105–244, § 901(b)(9), substituted “college or university’s” for “community college’s”.
 
-1986—Subsec. (a)(8). Pub. L. 99–428, § 3(a), added par. (8).
+1986—Subsec. (a)(8). Pub. L. 99–428, § 3(a), added par. (8).
 
-Subsec. (b)(3) to (6). Pub. L. 99–428, § 3(b), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, and in par. (6) struck out “, in accordance with the standards and practices of the appropriate accrediting agency or the institution at which the student is in attendance,” after “certificate”.
+Subsec. (b)(3) to (6). Pub. L. 99–428, § 3(b), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, and in par. (6) struck out “, in accordance with the standards and practices of the appropriate accrediting agency or the institution at which the student is in attendance,” after “certificate”.
 
-1983—Subsec. (a). Pub. L. 98–192, § 1(1), designated existing provisions as subsec. (a) and inserted introductory provision preceding par. (1).
+1983—Subsec. (a). Pub. L. 98–192, § 1(1), designated existing provisions as subsec. (a) and inserted introductory provision preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 98–192, § 1(2), struck out “and is eligible to receive services from the Secretary of the Interior” after “Indian tribe”.
+Subsec. (a)(1). Pub. L. 98–192, § 1(2), struck out “and is eligible to receive services from the Secretary of the Interior” after “Indian tribe”.
 
-Subsec. (a)(5). Pub. L. 98–192, § 1(3), inserted “and the reference to Secretary in clause (5)(A) of such section shall be deemed to refer to the Secretary of the Interior”.
+Subsec. (a)(5). Pub. L. 98–192, § 1(3), inserted “and the reference to Secretary in clause (5)(A) of such section shall be deemed to refer to the Secretary of the Interior”.
 
-Subsec. (a)(7). Pub. L. 98–192, § 1(4), substituted provision defining “Indian student count” to mean a number equal to the total number of Indian students enrolled in each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining “full-time equivalent Indian student” to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
+Subsec. (a)(7). Pub. L. 98–192, § 1(4), substituted provision defining “Indian student count” to mean a number equal to the total number of Indian students enrolled in each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining “full-time equivalent Indian student” to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
 
-Subsec. (b). Pub. L. 98–192, § 1(4), added subsec. (b).
+Subsec. (b). Pub. L. 98–192, § 1(4), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -119,17 +119,17 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–428, § 1, Sept. 30, 1986, 100 Stat. 982, provided that: “This Act [amending this section and sections 640c–1, 1808 to 1810, 1812, 1813, and 1836 of this title] may be cited as the ‘Tribally Controlled Community College Assistance Amendments of 1986’.”
+Pub. L. 99–428, § 1, Sept. 30, 1986, 100 Stat. 982, provided that: “This Act [amending this section and sections 640c–1, 1808 to 1810, 1812, 1813, and 1836 of this title] may be cited as the ‘Tribally Controlled Community College Assistance Amendments of 1986’.”
 
 **Short Title**
 
-Pub. L. 95–471, § 1, Oct. 17, 1978, 92 Stat. 1325, as amended by Pub. L. 105–244, title IX, § 901(b)(1), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, § 941(k)(1), Aug. 14, 2008, 122 Stat. 3465, provided that: “This Act [enacting this chapter and section 640c–1 of this title, amending section 640c of this title, and enacting provisions set out as notes under sections 640a and 640c–1 of this title] may be cited as the ‘Tribally Controlled Colleges and Universities Assistance Act of 1978’.”
+Pub. L. 95–471, § 1, Oct. 17, 1978, 92 Stat. 1325, as amended by Pub. L. 105–244, title IX, § 901(b)(1), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, § 941(k)(1), Aug. 14, 2008, 122 Stat. 3465, provided that: “This Act [enacting this chapter and section 640c–1 of this title, amending section 640c of this title, and enacting provisions set out as notes under sections 640a and 640c–1 of this title] may be cited as the ‘Tribally Controlled Colleges and Universities Assistance Act of 1978’.”
 
-Pub. L. 95–471, title IV, § 401, as added by Pub. L. 101–392, title III, § 312, Sept. 25, 1990, 104 Stat. 804, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
+Pub. L. 95–471, title IV, § 401, as added by Pub. L. 101–392, title III, § 312, Sept. 25, 1990, 104 Stat. 804, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
 
 **Additional Conforming Amendments**
 
-Pub. L. 105–244, title IX, § 901(c), Oct. 7, 1998, 112 Stat. 1828, provided that:
+Pub. L. 105–244, title IX, § 901(c), Oct. 7, 1998, 112 Stat. 1828, provided that:
 
 > **“(1) Recommended legislation.—** The Secretary of Education shall prepare and submit to Congress recommended legislation containing technical and conforming amendments to reflect the changes made by subsection (b) [see Tables for classification].
 
@@ -137,21 +137,21 @@ Pub. L. 105–244, title IX, § 901(c), Oct. 7, 1998, 112 Stat. 1828, provided
 
 **References to Tribally Controlled Community College Assistance Act of 1978**
 
-Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828, provided that: “Any reference to a section or other provision of the Tribally Controlled Community College Assistance Act of 1978 shall be deemed to be a reference to the Tribally Controlled College or University Assistance Act of 1978 [now Tribally Controlled Colleges and Universities Assistance Act of 1978].”
+Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828, provided that: “Any reference to a section or other provision of the Tribally Controlled Community College Assistance Act of 1978 shall be deemed to be a reference to the Tribally Controlled College or University Assistance Act of 1978 [now Tribally Controlled Colleges and Universities Assistance Act of 1978].”
 
 **Executive Documents**
 
 **Executive Order No. 13021**
 
-Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 13104, Oct. 19, 1998, 63 F.R. 56535, which established the President’s Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities in the Department of Education and required a Five-Year Federal Plan regarding tribal colleges and universities, was revoked by Ex. Ord. No. 13270, § 10, July 3, 2002, 67 F.R. 45291, formerly set out below.
+Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 13104, Oct. 19, 1998, 63 F.R. 56535, which established the President’s Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities in the Department of Education and required a Five-Year Federal Plan regarding tribal colleges and universities, was revoked by Ex. Ord. No. 13270, § 10, July 3, 2002, 67 F.R. 45291, formerly set out below.
 
 **Executive Order No. 13270**
 
-Ex. Ord. No. 13270, July 3, 2002, 67 F.R. 45288, which established the President’s Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities and required agencies to develop and submit plans for making certain improvements in tribal colleges and universities, was revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, formerly set out as a note under section 7401 of Title 20, Education.
+Ex. Ord. No. 13270, July 3, 2002, 67 F.R. 45288, which established the President’s Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities and required agencies to develop and submit plans for making certain improvements in tribal colleges and universities, was revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, formerly set out as a note under section 7401 of Title 20, Education.
 
 **Extension of Term of President’s Board of Advisors on Tribal Colleges and Universities**
 
-Ex. Ord. No. 13585, § 1(n), Sept. 30, 2011, 76 F.R. 62281, which extended term of President’s Board of Advisors on Tribal Colleges and Universities until Sept. 30, 2013, was revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, formerly set out as a note under section 7401 of Title 20, Education.
+Ex. Ord. No. 13585, § 1(n), Sept. 30, 2011, 76 F.R. 62281, which extended term of President’s Board of Advisors on Tribal Colleges and Universities until Sept. 30, 2013, was revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, formerly set out as a note under section 7401 of Title 20, Education.
 
 Previous extensions of term of President’s Board of Advisors on Tribal Colleges and Universities were contained in the following prior Executive Orders:
 
@@ -169,11 +169,11 @@ Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30,
 
 ## SUBCHAPTER I—TRIBALLY CONTROLLED COLLEGES OR UNIVERSITIES GRANT PROGRAM
 
-### § 1802. Purpose
+### § 1802. Purpose
 
 It is the purpose of this subchapter to provide grants for the operation and improvement of tribally controlled colleges or universities to insure continued and expanded educational opportunities for Indian students, and to allow for the improvement and expansion of the physical resources of such institutions.
 
-(Pub. L. 95–471, title I, § 101, Oct. 17, 1978, 92 Stat. 1325; Pub. L. 98–192, § 2, Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, § 901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, § 101, Oct. 17, 1978, 92 Stat. 1325; Pub. L. 98–192, § 2, Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, § 901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ It is the purpose of this subchapter to provide grants for the operation and imp
 
 1998—Pub. L. 105–244 substituted “colleges or universities” for “community colleges”.
 
-1983—Pub. L. 98–192 inserted “, and to allow for the improvement and expansion of the physical resources of such institutions”.
+1983—Pub. L. 98–192 inserted “, and to allow for the improvement and expansion of the physical resources of such institutions”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -189,7 +189,7 @@ It is the purpose of this subchapter to provide grants for the operation and imp
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1803. Grants authorized
+### § 1803. Grants authorized
 
 **(a) Purposes**
 
@@ -199,19 +199,19 @@ The Secretary shall, subject to appropriations, make grants pursuant to this sub
 
 Grants made pursuant to this subchapter shall go into the general operating funds of the institution to defray, at the determination of the tribally controlled college or university, expenditures for academic, educational, and administrative purposes and for the operation and maintenance of the college or university. Funds provided pursuant to this subchapter shall not be used in connection with religious worship or sectarian instruction.
 
-(Pub. L. 95–471, title I, § 102, Oct. 17, 1978, 92 Stat. 1326; Pub. L. 98–192, § 3(a), Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, § 901(b)(5), (6), (12), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, § 102, Oct. 17, 1978, 92 Stat. 1326; Pub. L. 98–192, § 3(a), Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, § 901(b)(5), (6), (12), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges”.
+1998—Subsec. (a). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges”.
 
-Subsec. (b). Pub. L. 105–244, § 901(b)(5), (12), substituted “controlled college or university” for “controlled community college” and “the college or university” for “the college”.
+Subsec. (b). Pub. L. 105–244, § 901(b)(5), (12), substituted “controlled college or university” for “controlled community college” and “the college or university” for “the college”.
 
-1983—Subsec. (a). Pub. L. 98–192, § 3(a)(1), substituted “shall, subject to appropriations,” for “is authorized to”.
+1983—Subsec. (a). Pub. L. 98–192, § 3(a)(1), substituted “shall, subject to appropriations,” for “is authorized to”.
 
-Subsec. (b). Pub. L. 98–192, § 3(a)(2), substituted “to defray, at the determination of the tribally controlled community college, expenditures for academic, educational, and administrative purposes and for the operation and maintenance of the college” for “to defray the expense of activities related to education programs for Indian students”.
+Subsec. (b). Pub. L. 98–192, § 3(a)(2), substituted “to defray, at the determination of the tribally controlled community college, expenditures for academic, educational, and administrative purposes and for the operation and maintenance of the college” for “to defray the expense of activities related to education programs for Indian students”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -219,7 +219,7 @@ Subsec. (b). Pub. L. 98–192, § 3(a)(2), substituted “to defray, at the de
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1804. Eligible grant recipients
+### § 1804. Eligible grant recipients
 
 To be eligible for assistance under this subchapter, a tribally controlled college or university must be one which—
 
@@ -235,7 +235,7 @@ To be eligible for assistance under this subchapter, a tribally controlled colle
 
 **(B)** according to such an agency or association, is making reasonable progress toward accreditation.
 
-(Pub. L. 95–471, title I, § 103, Oct. 17, 1978, 92 Stat. 1326; Pub. L. 105–244, title IX, § 901(b)(5), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(d), Aug. 14, 2008, 122 Stat. 3461.)
+(Pub. L. 95–471, title I, § 103, Oct. 17, 1978, 92 Stat. 1326; Pub. L. 105–244, title IX, § 901(b)(5), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(d), Aug. 14, 2008, 122 Stat. 3461.)
 
 **Editorial Notes**
 
@@ -251,7 +251,7 @@ To be eligible for assistance under this subchapter, a tribally controlled colle
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1804a. Planning grants
+### § 1804a. Planning grants
 
 **(a) Establishment of program**
 
@@ -265,7 +265,7 @@ The Secretary shall establish, by regulation, procedures for the submission and 
 
 From the amount appropriated to carry out this subchapter for any fiscal year (exclusive of sums appropriated for section 1805 of this title), the Secretary shall reserve (and expend) an amount necessary to make grants to five applicants under this section of not more than $15,000 each, or an amount necessary to make grants in that amount to each of the approved applicants, if less than five apply and are approved.
 
-(Pub. L. 95–471, title I, § 104, as added Pub. L. 98–192, § 4(a)(2), Dec. 1, 1983, 97 Stat. 1336; amended Pub. L. 105–244, title IX, § 901(b)(6), (8), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, § 104, as added Pub. L. 98–192, § 4(a)(2), Dec. 1, 1983, 97 Stat. 1336; amended Pub. L. 105–244, title IX, § 901(b)(6), (8), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -279,7 +279,7 @@ From the amount appropriated to carry out this subchapter for any fiscal year (e
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1805. Technical assistance contracts
+### § 1805. Technical assistance contracts
 
 **(a) Technical assistance**
 
@@ -295,7 +295,7 @@ The Secretary shall require that a contract for technical assistance under parag
 
 No authority to enter into contracts provided by this section shall be effective except to the extent authorized in advance by appropriations Acts.
 
-(Pub. L. 95–471, title I, § 105, formerly § 104, Oct. 17, 1978, 92 Stat. 1326; renumbered § 105 and amended Pub. L. 98–192, §§ 4(a)(1), 5, Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, § 901(b)(5), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(e), Aug. 14, 2008, 122 Stat. 3461.)
+(Pub. L. 95–471, title I, § 105, formerly § 104, Oct. 17, 1978, 92 Stat. 1326; renumbered § 105 and amended Pub. L. 98–192, §§ 4(a)(1), 5, Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, § 901(b)(5), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(e), Aug. 14, 2008, 122 Stat. 3461.)
 
 **Editorial Notes**
 
@@ -305,7 +305,7 @@ No authority to enter into contracts provided by this section shall be effective
 
 1998—Pub. L. 105–244 substituted “college or university” for “community college” in two places.
 
-1983—Pub. L. 98–192, § 5, inserted “from a tribally controlled community college which is receiving funds under section 1808 of this title” and struck out “to tribally controlled community colleges” before “either directly”.
+1983—Pub. L. 98–192, § 5, inserted “from a tribally controlled community college which is receiving funds under section 1808 of this title” and struck out “to tribally controlled community colleges” before “either directly”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -313,7 +313,7 @@ No authority to enter into contracts provided by this section shall be effective
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1806. Eligibility studies
+### § 1806. Eligibility studies
 
 **(a) Development of plans, procedures, and criteria**
 
@@ -321,9 +321,9 @@ The Secretary is authorized to enter into an agreement with the Secretary of Edu
 
 **(b) Initiation by Secretary; grant applications and budgets**
 
-The Secretary, within thirty days after a request by any Indian tribe, shall initiate a 1
+The Secretary, within thirty days after a request by any Indian tribe, shall initiate a 1
 
-<sup>1</sup>  So in original. Probably should be “an”.
+<sup>1</sup> So in original. Probably should be “an”.
 
 eligibility study to determine whether there is justification to encourage and maintain a tribally controlled college or university, and, upon a positive determination, shall aid in the preparation of grant applications and related budgets which will insure successful operation of such an institution. Such a positive determination shall be effective for the fiscal year succeeding the fiscal year in which such determination is made.
 
@@ -333,7 +333,7 @@ eligibility study to determine whether there is justification to encourage and m
 
 **(2)** not more than 5 per centum of the funds appropriated to carry out section 1807 of this title for such fiscal year.
 
-(Pub. L. 95–471, title I, § 106, formerly § 105, Oct. 17, 1978, 92 Stat. 1326; renumbered § 106 and amended Pub. L. 98–192, §§ 4(a)(1), (b)(1), 6(a), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, § 901(b)(5), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, § 106, formerly § 105, Oct. 17, 1978, 92 Stat. 1326; renumbered § 106 and amended Pub. L. 98–192, §§ 4(a)(1), (b)(1), 6(a), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, § 901(b)(5), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -341,11 +341,11 @@ eligibility study to determine whether there is justification to encourage and m
 
 1998—Subsec. (b). Pub. L. 105–244 substituted “college or university” for “community college”.
 
-1983—Subsec. (a). Pub. L. 98–192, § 6(a)(2), (3), substituted “eligibility” for “feasibility” and “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
+1983—Subsec. (a). Pub. L. 98–192, § 6(a)(2), (3), substituted “eligibility” for “feasibility” and “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
 
-Subsec. (b). Pub. L. 98–192, § 6(a)(2), (4), inserted provision that such positive determination be effective for fiscal year succeeding fiscal year in which such determination is made, and substituted “eligibility” for “feasibility”.
+Subsec. (b). Pub. L. 98–192, § 6(a)(2), (4), inserted provision that such positive determination be effective for fiscal year succeeding fiscal year in which such determination is made, and substituted “eligibility” for “feasibility”.
 
-Subsec. (c)(2). Pub. L. 98–192, §§ 4(b)(1), 6(a)(5), substituted “5 per centum” for “10 per centum” and made a technical amendment to reference to section 1807 of this title to reflect renumbering of that section.
+Subsec. (c)(2). Pub. L. 98–192, §§ 4(b)(1), 6(a)(5), substituted “5 per centum” for “10 per centum” and made a technical amendment to reference to section 1807 of this title to reflect renumbering of that section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -353,13 +353,13 @@ Subsec. (c)(2). Pub. L. 98–192, §§ 4(b)(1), 6(a)(5), substituted “5 per 
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1807. Grants to tribally controlled colleges or universities
+### § 1807. Grants to tribally controlled colleges or universities
 
 **(a) Submission of applications; necessity of eligibility study**
 
-Grants shall be made under this subchapter only in response to applications by tribally controlled colleges or universities. Such applications shall be submitted at such time, in such manner, and will contain or be accompanied by such information as the Secretary may reasonably require pursuant to regulations. Such application shall include a description of recordkeeping procedures for the expenditure of funds received under this chapter which will allow the Secretary to audit and monitor programs conducted with such funds. The Secretary shall not consider any grant application unless a 1
+Grants shall be made under this subchapter only in response to applications by tribally controlled colleges or universities. Such applications shall be submitted at such time, in such manner, and will contain or be accompanied by such information as the Secretary may reasonably require pursuant to regulations. Such application shall include a description of recordkeeping procedures for the expenditure of funds received under this chapter which will allow the Secretary to audit and monitor programs conducted with such funds. The Secretary shall not consider any grant application unless a 1
 
-<sup>1</sup>  So in original. Probably should be “an”.
+<sup>1</sup> So in original. Probably should be “an”.
 
 eligibility study has been conducted under section 1806 of this title and it has been found that the applying college or university will service a reasonable student population.
 
@@ -375,25 +375,25 @@ Priority in grants shall be given to institutions which are operating on October
 
 In making grants pursuant to this section, the Secretary shall, to the extent practicable, consult with national Indian organizations and with tribal governments chartering the institutions being considered.
 
-(Pub. L. 95–471, title I, § 107, formerly § 106, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, § 108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered § 107 and amended Pub. L. 98–192, §§ 3(b), 4(a)(1), (b)(2), 6(b), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, § 901(b)(4)–(6), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, § 107, formerly § 106, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, § 108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered § 107 and amended Pub. L. 98–192, §§ 3(b), 4(a)(1), (b)(2), 6(b), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, § 901(b)(4)–(6), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pub. L. 105–244, § 901(b)(4), substituted “colleges or universities” for “community colleges” in section catchline.
+1998—Pub. L. 105–244, § 901(b)(4), substituted “colleges or universities” for “community colleges” in section catchline.
 
-Subsec. (a). Pub. L. 105–244, § 901(b)(5), (6), substituted “colleges or universities” for “community colleges” and “college or university” for “community college”.
+Subsec. (a). Pub. L. 105–244, § 901(b)(5), (6), substituted “colleges or universities” for “community colleges” and “college or university” for “community college”.
 
-Subsec. (b). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
+Subsec. (b). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
 
-1983—Subsec. (a). Pub. L. 98–192, § 6(b)(1), substituted “eligibility” for “feasibility”.
+1983—Subsec. (a). Pub. L. 98–192, § 6(b)(1), substituted “eligibility” for “feasibility”.
 
-Pub. L. 98–192, § 4(b)(2), made a technical amendment to reference to section 1806 of this title to reflect renumbering of that section.
+Pub. L. 98–192, § 4(b)(2), made a technical amendment to reference to section 1806 of this title to reflect renumbering of that section.
 
-Pub. L. 98–192, § 3(b), inserted provision that such application include a description of the recordkeeping procedures for expenditure of funds as will allow Secretary to audit and monitor programs conducted with such funds.
+Pub. L. 98–192, § 3(b), inserted provision that such application include a description of the recordkeeping procedures for expenditure of funds as will allow Secretary to audit and monitor programs conducted with such funds.
 
-Subsec. (b). Pub. L. 98–192, § 6(b)(2), substituted “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
+Subsec. (b). Pub. L. 98–192, § 6(b)(2), substituted “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
 
 1982—Subsec. (e). Pub. L. 97–375 struck out subsec. (e) which directed the Secretary to report to Congress on Jan. 15 of each year the current status of tribally controlled community colleges and his recommendations for needed action.
 
@@ -403,7 +403,7 @@ Subsec. (b). Pub. L. 98–192, § 6(b)(2), substituted “Secretary of Educati
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1808. Amount of grants
+### § 1808. Amount of grants
 
 **(a) Requirement**
 
@@ -441,7 +441,7 @@ The amount of a grant under paragraph (1) shall not exceed an amount equal to th
 
 Nothing in this section shall be construed as interfering with, or suspending the obligation of the Bureau for, the implementation of all legislative provisions enacted prior to April 28, 1988, specifically including those of Public Law 98–192.
 
-(Pub. L. 95–471, title I, § 108, formerly § 107, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, § 108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered § 108 and amended Pub. L. 98–192, §§ 4(a)(1), 7, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, § 4, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, § 5402(a), Apr. 28, 1988, 102 Stat. 415; Pub. L. 100–427, § 24, Sept. 9, 1988, 102 Stat. 1613; Pub. L. 101–477, § 1(a), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 105–244, title IX, § 901(a)(1), (b)(5)–(7), Oct. 7, 1998, 112 Stat. 1827, 1828; Pub. L. 110–315, title IX, § 941(f), Aug. 14, 2008, 122 Stat. 3462.)
+(Pub. L. 95–471, title I, § 108, formerly § 107, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, § 108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered § 108 and amended Pub. L. 98–192, §§ 4(a)(1), 7, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, § 4, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, § 5402(a), Apr. 28, 1988, 102 Stat. 415; Pub. L. 100–427, § 24, Sept. 9, 1988, 102 Stat. 1613; Pub. L. 101–477, § 1(a), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 105–244, title IX, § 901(a)(1), (b)(5)–(7), Oct. 7, 1998, 112 Stat. 1827, 1828; Pub. L. 110–315, title IX, § 941(f), Aug. 14, 2008, 122 Stat. 3462.)
 
 **Editorial Notes**
 
@@ -453,17 +453,17 @@ Public Law 98–192, referred to in subsec. (d), is Pub. L. 98–192, Dec. 1, 19
 
 2008—Subsec. (a). Pub. L. 110–315 inserted subsec. (a) and par. (1) headings, designated introductory provisions and pars. (1) and (2) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in introductory provisions, substituted “Except as provided in paragraph (2) and section 1811 of this title,” for “Except as provided in section 1811 of this title,”, “approved by the Secretary” for “approved by him”, and “product obtained by multiplying” for “product of”, in subpar. (A), substituted “section 1801(a)(8) of this title” for “section 1801(a)(7) of this title”, in subpar. (B), substituted “$8,000, as adjusted annually for inflation.” for “$6,000,”, added par. (2), and struck out former concluding provisions which read as follows: “except that no grant shall exceed the total cost of the education program provided by such college or university.”
 
-1998—Subsec. (a). Pub. L. 105–244, § 901(a)(1), (b)(5), (7), substituted “controlled college or university” for “controlled community college” in introductory provisions, “such college or university” for “such college” in par. (1) and concluding provisions, and “$6,000” for “$5,820” in par. (2).
+1998—Subsec. (a). Pub. L. 105–244, § 901(a)(1), (b)(5), (7), substituted “controlled college or university” for “controlled community college” in introductory provisions, “such college or university” for “such college” in par. (1) and concluding provisions, and “$6,000” for “$5,820” in par. (2).
 
-Subsec. (b)(3), (4). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college” wherever appearing.
+Subsec. (b)(3), (4). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college” wherever appearing.
 
-Subsec. (c)(2). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges”.
+Subsec. (c)(2). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges”.
 
-1990—Subsec. (a)(1). Pub. L. 101–477, § 1(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Indian student count at such college during such academic year, as determined by the Secretary in accordance with section 1801(a)(7) of this title; and”.
+1990—Subsec. (a)(1). Pub. L. 101–477, § 1(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Indian student count at such college during such academic year, as determined by the Secretary in accordance with section 1801(a)(7) of this title; and”.
 
-Subsec. (b)(1). Pub. L. 101–477, § 1(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall make payments, pursuant to grants under this subchapter, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.”
+Subsec. (b)(1). Pub. L. 101–477, § 1(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall make payments, pursuant to grants under this subchapter, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.”
 
-Subsecs. (c), (d). Pub. L. 101–477, § 1(a)(3), redesignated subsec. (c), relating to construction of section, as (d).
+Subsecs. (c), (d). Pub. L. 101–477, § 1(a)(3), redesignated subsec. (c), relating to construction of section, as (d).
 
 1988—Subsec. (b). Pub. L. 100–297 designated existing provisions as par. (1) and added pars. (2) to (4).
 
@@ -493,7 +493,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of Title 20, Education.
 
-### § 1809. Effect on other programs
+### § 1809. Effect on other programs
 
 **(a) Eligibility for assistance**
 
@@ -505,17 +505,17 @@ Except as specifically provided in this subchapter, eligibility for assistance u
 
 **(2)** No tribally controlled college or university shall be denied funds appropriated under section 13 of this title because of the funds it receives under this chapter.
 
-**(3)** No tribally controlled college or university for which a tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of this title may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+**(3)** No tribally controlled college or university for which a tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of this title may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 
-**(c) 2 [footnote: 2 So in original. Two subsecs. (c) have been enacted.] Assistance deemed to be basic educational opportunity grant**
+**(c) 2 [footnote: 2 So in original. Two subsecs. (c) have been enacted.] Assistance deemed to be basic educational opportunity grant**
 
 For the purposes of sections 312(2)(A)(i) and 322(a)(2)(A)(i) of the Higher Education Act of 1965 [20 U.S.C. 1058(2)(A)(i), 1061(a)(2)(A)(i)],3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 any Indian student who receives a student assistance grant from the Bureau of Indian Affairs for postsecondary education shall be deemed to have received such assistance under subpart 1 of part A of title IV of such Act [20 U.S.C. 1070a et seq.].
 
@@ -523,35 +523,35 @@ any Indian student who receives a student assistance grant from the Bureau of In
 
 Notwithstanding any other provision of law, funds provided under this subchapter to the tribally controlled college or university may be treated as non-Federal, private funds of the college or university for purposes of any provision of Federal law which requires that non-Federal or private funds of the college or university be used in a project or for a specific purpose.
 
-(Pub. L. 95–471, title I, § 109, formerly § 108, Oct. 17, 1978, 92 Stat. 1328; renumbered § 109 and amended Pub. L. 98–192, §§ 4(a)(1), 8, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, § 5, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, § 5403(a), Apr. 28, 1988, 102 Stat. 416; Pub. L. 105–244, title IX, § 901(b)(5), (6), (8), (10), (12), (e), Oct. 7, 1998, 112 Stat. 1828, 1829.)
+(Pub. L. 95–471, title I, § 109, formerly § 108, Oct. 17, 1978, 92 Stat. 1328; renumbered § 109 and amended Pub. L. 98–192, §§ 4(a)(1), 8, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, § 5, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, § 5403(a), Apr. 28, 1988, 102 Stat. 416; Pub. L. 105–244, title IX, § 901(b)(5), (6), (8), (10), (12), (e), Oct. 7, 1998, 112 Stat. 1828, 1829.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. Sections 312 and 322 of the Act, which were classified to sections 1058 and 1061, respectively, of Title 20, were omitted in the general revision of title III of the Higher Education Act of 1965 by Pub. L. 99–498, title III, § 301(a), Oct. 17, 1986, 100 Stat. 1290, which enacted new sections 312 and 322 which are classified to sections 1058 and 1061, respectively, of Title 20. Subpart 1 of part A of title IV of the Higher Education Act of 1965 is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of the Higher Education Act of 1965 to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. Sections 312 and 322 of the Act, which were classified to sections 1058 and 1061, respectively, of Title 20, were omitted in the general revision of title III of the Higher Education Act of 1965 by Pub. L. 99–498, title III, § 301(a), Oct. 17, 1986, 100 Stat. 1290, which enacted new sections 312 and 322 which are classified to sections 1058 and 1061, respectively, of Title 20. Subpart 1 of part A of title IV of the Higher Education Act of 1965 is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of the Higher Education Act of 1965 to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–244, § 901(b)(10), inserted “or university” after “tribally controlled college”.
+1998—Subsec. (a). Pub. L. 105–244, § 901(b)(10), inserted “or university” after “tribally controlled college”.
 
-Subsec. (b)(1). Pub. L. 105–244, § 901(b)(6), (8), substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
+Subsec. (b)(1). Pub. L. 105–244, § 901(b)(6), (8), substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
 
-Subsec. (b)(2), (3). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
+Subsec. (b)(2), (3). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
 
-Subsec. (c). Pub. L. 105–244, § 901(e), redesignated subsec. (d), relating to treatment of funds under certain Federal laws, as (c).
+Subsec. (c). Pub. L. 105–244, § 901(e), redesignated subsec. (d), relating to treatment of funds under certain Federal laws, as (c).
 
-Subsec. (d). Pub. L. 105–244, § 901(e), redesignated subsec. (d), relating to treatment of funds under certain Federal laws, as (c).
+Subsec. (d). Pub. L. 105–244, § 901(e), redesignated subsec. (d), relating to treatment of funds under certain Federal laws, as (c).
 
-Pub. L. 105–244, § 901(b)(5), (12), substituted “controlled college or university” for “controlled community college” and substituted “the college or university” for “the college” in two places.
+Pub. L. 105–244, § 901(b)(5), (12), substituted “controlled college or university” for “controlled community college” and substituted “the college or university” for “the college” in two places.
 
 1988—Subsec. (d). Pub. L. 100–297 added subsec. (d).
 
 1986—Subsec. (b)(3). Pub. L. 99–428 added par. (3).
 
-1983—Pub. L. 98–192, § 8, designated existing provision as subsec. (a) and added subsecs. (b) and (c).
+1983—Pub. L. 98–192, § 8, designated existing provision as subsec. (a) and added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -563,7 +563,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of Title 20, Education.
 
-### § 1810. Authorization of appropriations
+### § 1810. Authorization of appropriations
 
 **(a)**
 
@@ -581,45 +581,45 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 **(2)** In order to effect a transition to the forward funding method of timing appropriation action described in paragraph (1), there are authorized to be appropriated, in an appropriation Act or Acts for the same fiscal year, two separate appropriations to carry out this chapter, the first of which shall not be subject to paragraph (1).
 
-(Pub. L. 95–471, title I, § 110, formerly § 109, Oct. 17, 1978, 92 Stat. 1328; renumbered § 110 and amended Pub. L. 98–192, §§ 4(a)(1), 9, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, § 2(a), Sept. 30, 1986, 100 Stat. 982; Pub. L. 101–477, § 1(b), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 102–325, title XIII, § 1301(a), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, § 901(a)(2)(A), (b)(11), Oct. 7, 1998, 112 Stat. 1827, 1828; Pub. L. 110–315, title IX, § 941(g), Aug. 14, 2008, 122 Stat. 3462.)
+(Pub. L. 95–471, title I, § 110, formerly § 109, Oct. 17, 1978, 92 Stat. 1328; renumbered § 110 and amended Pub. L. 98–192, §§ 4(a)(1), 9, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, § 2(a), Sept. 30, 1986, 100 Stat. 982; Pub. L. 101–477, § 1(b), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 102–325, title XIII, § 1301(a), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, § 901(a)(2)(A), (b)(11), Oct. 7, 1998, 112 Stat. 1827, 1828; Pub. L. 110–315, title IX, § 941(g), Aug. 14, 2008, 122 Stat. 3462.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–315, § 941(g)(1), (2), substituted “2009” for “1999” and “five succeeding” for “4 succeeding”.
+2008—Subsec. (a)(1). Pub. L. 110–315, § 941(g)(1), (2), substituted “2009” for “1999” and “five succeeding” for “4 succeeding”.
 
-Subsec. (a)(2). Pub. L. 110–315, § 941(g)(1)–(3), substituted “such sums as may be necessary” for “$40,000,000”, “2009” for “1999”, and “five succeeding” for “4 succeeding”.
+Subsec. (a)(2). Pub. L. 110–315, § 941(g)(1)–(3), substituted “such sums as may be necessary” for “$40,000,000”, “2009” for “1999”, and “five succeeding” for “4 succeeding”.
 
-Subsec. (a)(3). Pub. L. 110–315, § 941(g)(1), (2), (4), substituted “such sums as may be necessary” for “$10,000,000”, “2009” for “1999”, and “five succeeding” for “4 succeeding”.
+Subsec. (a)(3). Pub. L. 110–315, § 941(g)(1), (2), (4), substituted “such sums as may be necessary” for “$10,000,000”, “2009” for “1999”, and “five succeeding” for “4 succeeding”.
 
-Subsec. (a)(4). Pub. L. 110–315, § 941(g)(1), (5), substituted “2009” for “1999” and “five succeeding” for “succeeding 4”.
+Subsec. (a)(4). Pub. L. 110–315, § 941(g)(1), (5), substituted “2009” for “1999” and “five succeeding” for “succeeding 4”.
 
-1998—Subsec. (a)(1). Pub. L. 105–244, § 901(a)(2)(A)(i), substituted “1999” for “1993”.
+1998—Subsec. (a)(1). Pub. L. 105–244, § 901(a)(2)(A)(i), substituted “1999” for “1993”.
 
-Subsec. (a)(2). Pub. L. 105–244, § 901(a)(2)(A)(ii), substituted “$40,000,000 for fiscal year 1999” for “$30,000,000 for fiscal year 1993”.
+Subsec. (a)(2). Pub. L. 105–244, § 901(a)(2)(A)(ii), substituted “$40,000,000 for fiscal year 1999” for “$30,000,000 for fiscal year 1993”.
 
-Subsec. (a)(3). Pub. L. 105–244, § 901(a)(2)(A)(iii), substituted “1999” for “1993”.
+Subsec. (a)(3). Pub. L. 105–244, § 901(a)(2)(A)(iii), substituted “1999” for “1993”.
 
-Subsec. (a)(4). Pub. L. 105–244, § 901(a)(2)(A)(iv), (b)(11), substituted “1999” for “1993” and “tribally controlled colleges or universities” for “Tribally Controlled Community Colleges”.
+Subsec. (a)(4). Pub. L. 105–244, § 901(a)(2)(A)(iv), (b)(11), substituted “1999” for “1993” and “tribally controlled colleges or universities” for “Tribally Controlled Community Colleges”.
 
 1992—Subsec. (a). Pub. L. 102–325 amended subsec. (a) generally, in pars. (1) to (3) substituting provisions authorizing appropriations for fiscal years 1993 to 1997 for provisions authorizing appropriations for fiscal years 1990 to 1992 and adding par. (4).
 
-1990—Subsec. (a)(1). Pub. L. 101–477, § 1(b)(1), substituted “1990 and 1991, and for fiscal year 1992, such sums as may be necessary” for “1987, 1988, 1989, and 1990”.
+1990—Subsec. (a)(1). Pub. L. 101–477, § 1(b)(1), substituted “1990 and 1991, and for fiscal year 1992, such sums as may be necessary” for “1987, 1988, 1989, and 1990”.
 
-Subsec. (a)(2). Pub. L. 101–477, § 1(b)(2), substituted “1990 and 1991, and for fiscal year 1992, such sums as may be necessary” for “1987, 1988, 1989, and 1990”.
+Subsec. (a)(2). Pub. L. 101–477, § 1(b)(2), substituted “1990 and 1991, and for fiscal year 1992, such sums as may be necessary” for “1987, 1988, 1989, and 1990”.
 
-Subsec. (a)(3). Pub. L. 101–477, § 1(b)(3), substituted “1990, 1991, and 1992” for “1987, 1988, 1989, and 1990”.
+Subsec. (a)(3). Pub. L. 101–477, § 1(b)(3), substituted “1990, 1991, and 1992” for “1987, 1988, 1989, and 1990”.
 
-1986—Subsec. (a)(1). Pub. L. 99–428, § 2(a)(1), substituted “1987, 1988, 1989, and 1990” for “1985, 1986, and 1987”.
+1986—Subsec. (a)(1). Pub. L. 99–428, § 2(a)(1), substituted “1987, 1988, 1989, and 1990” for “1985, 1986, and 1987”.
 
-Subsec. (a)(2), (3). Pub. L. 99–428, § 2(a)(2), substituted “the fiscal years 1987, 1988, 1989, and 1990” for “such fiscal years”.
+Subsec. (a)(2), (3). Pub. L. 99–428, § 2(a)(2), substituted “the fiscal years 1987, 1988, 1989, and 1990” for “such fiscal years”.
 
-1983—Subsec. (a). Pub. L. 98–192, § 9, amended subsec. (a) generally, substituting provision authorizing appropriations for fiscal years 1985, 1986, and 1987 of $3,200,000 for carrying out section 1805 of this title, $30,000,000 for carrying out section 1807 of this title, and appropriations as necessary for carrying out sections 1812(b) and 1813 of this title for provision authorizing appropriations for carrying out section 1807 of this title of $25,000,000 for each of the fiscal years beginning Oct. 1, 1979 and Oct. 1, 1980, and $30,000,000 for the fiscal year beginning Oct. 1, 1981, and $3,200,000 for each of such fiscal years for the provision of technical assistance pursuant to section 1805 of this title.
+1983—Subsec. (a). Pub. L. 98–192, § 9, amended subsec. (a) generally, substituting provision authorizing appropriations for fiscal years 1985, 1986, and 1987 of $3,200,000 for carrying out section 1805 of this title, $30,000,000 for carrying out section 1807 of this title, and appropriations as necessary for carrying out sections 1812(b) and 1813 of this title for provision authorizing appropriations for carrying out section 1807 of this title of $25,000,000 for each of the fiscal years beginning Oct. 1, 1979 and Oct. 1, 1980, and $30,000,000 for the fiscal year beginning Oct. 1, 1981, and $3,200,000 for each of such fiscal years for the provision of technical assistance pursuant to section 1805 of this title.
 
-Subsec. (b). Pub. L. 98–192, § 9, amended subsec. (b) generally, substituting provision relating to affording adequate notice of funding available under this chapter and directing two separate appropriations in order to effect a transition to the forward funding method of timing appropriation action for provision directing that, unless otherwise provided, funds appropriated under this section remain available until expended.
+Subsec. (b). Pub. L. 98–192, § 9, amended subsec. (b) generally, substituting provision relating to affording adequate notice of funding available under this chapter and directing two separate appropriations in order to effect a transition to the forward funding method of timing appropriation action for provision directing that, unless otherwise provided, funds appropriated under this section remain available until expended.
 
-Subsec. (c). Pub. L. 98–192, § 9, struck out subsec. (c) which provided that nothing in this chapter be deemed to authorize appropriations for fiscal year beginning Oct. 1, 1978.
+Subsec. (c). Pub. L. 98–192, § 9, struck out subsec. (c) which provided that nothing in this chapter be deemed to authorize appropriations for fiscal year beginning Oct. 1, 1978.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -631,7 +631,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of Title 20, Education.
 
-### § 1811. Grant adjustments
+### § 1811. Grant adjustments
 
 **(a) Formula for allocation**
 
@@ -667,7 +667,7 @@ in the order in which such applicants have qualified for assistance in accordanc
 
 In any fiscal year in which the amounts for which grant recipients are eligible to receive have been reduced under the first sentence of subsection (a) of this section, and in which additional funds have not been made available to pay in full the total of such amounts under the second sentence of such subsection, each grantee shall report to the Secretary any unused portion of received funds ninety days prior to the grant expiration date. The amounts so reported by any grant recipient shall be made available for reallocation to eligible grantees on a basis proportionate to the amount which is unfunded as a result of the ratable reduction, but no grant recipient shall receive, as a result of such reallocation, more than the amount provided for under section 1807(a) of this title.
 
-(Pub. L. 95–471, title I, § 111, formerly § 110, Oct. 17, 1978, 92 Stat. 1328; renumbered § 111 and amended Pub. L. 98–192, §§ 4(a)(1), (b)(3), 10, Dec. 1, 1983, 97 Stat. 1336, 1338; Pub. L. 101–477, § 1(c), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 105–244, title IX, § 901(b)(6), (8), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, § 111, formerly § 110, Oct. 17, 1978, 92 Stat. 1328; renumbered § 111 and amended Pub. L. 98–192, §§ 4(a)(1), (b)(3), 10, Dec. 1, 1983, 97 Stat. 1336, 1338; Pub. L. 101–477, § 1(c), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 105–244, title IX, § 901(b)(6), (8), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -675,19 +675,19 @@ In any fiscal year in which the amounts for which grant recipients are eligible 
 
 1998—Subsec. (a)(2). Pub. L. 105–244 substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–477, § 1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 per centum of the product of—
+1990—Subsec. (a)(1)(A). Pub. L. 101–477, § 1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 per centum of the product of—
 
 “(i) the per capita payment for the preceding fiscal year; and
 
 “(ii) such applicant’s Indian student count for the current fiscal year;”.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 101–477, § 1(c)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the applicant’s Indian student count for the current fiscal year;”.
+Subsec. (a)(1)(B)(ii). Pub. L. 101–477, § 1(c)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the applicant’s Indian student count for the current fiscal year;”.
 
-1983—Subsec. (a). Pub. L. 98–192, § 10, amended subsec. (a) generally, substituting provision establishing a formula to be used to determine funding between existing and newly eligible schools when funds appropriated are not sufficient to pay in full the total amount which approved applicants are eligible to receive under section 1807 of this title for provision that if funds were insufficient to pay in full the total amounts which approved grant applicants were eligible to receive, the available funds would be ratably decreased and if funds later became available or there were excess funds, such funds would be ratably increased.
+1983—Subsec. (a). Pub. L. 98–192, § 10, amended subsec. (a) generally, substituting provision establishing a formula to be used to determine funding between existing and newly eligible schools when funds appropriated are not sufficient to pay in full the total amount which approved applicants are eligible to receive under section 1807 of this title for provision that if funds were insufficient to pay in full the total amounts which approved grant applicants were eligible to receive, the available funds would be ratably decreased and if funds later became available or there were excess funds, such funds would be ratably increased.
 
-Subsecs. (b), (c). Pub. L. 98–192, § 10, added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 98–192, § 10, added subsec. (b) and redesignated former subsec. (b) as (c).
 
-Pub. L. 98–192, § 4(b)(3), made a technical amendment to reference to section 1807 of this title to reflect renumbering of that section.
+Pub. L. 98–192, § 4(b)(3), made a technical amendment to reference to section 1807 of this title to reflect renumbering of that section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -695,7 +695,7 @@ Pub. L. 98–192, § 4(b)(3), made a technical amendment to reference to secti
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1812. Report on facilities
+### § 1812. Report on facilities
 
 **(a) Study on condition of currently existing facilities; submission of report; contents** The Secretary shall provide for the conduct of a study of facilities available for use by tribally controlled colleges or universities. Such study shall consider the condition of currently existing Bureau of Indian Affairs facilities which are vacant or underutilized and shall consider available alternatives for renovation, alteration, repair, and reconstruction of such facilities (including renovation, alteration, repair, and reconstruction necessary to bring such facilities into compliance with local building codes). Such study shall also identify the need for new construction. A report on the results of such study shall be submitted to the Congress not later than eighteen months after September 30, 1986. Such report shall also include an identification of property—
 
@@ -703,7 +703,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **(2)** which is available for use by tribally controlled colleges or universities under section 523 of title 40 and under the Act of August 6, 1956 (70 Stat. 1057; 25 U.S.C. 443a).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b) Renovation program**
 
@@ -723,9 +723,9 @@ The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate
 
 **(d) “Reconstruction” defined**
 
-For the purposes of this section, the term “reconstruction” has the meaning provided in the first sentence of subparagraph (B) of section 1132e–1(2) <sup>1</sup> of title 20.
+For the purposes of this section, the term “reconstruction” has the meaning provided in the first sentence of subparagraph (B) of section 1132e–1(2) <sup>1</sup> of title 20.
 
-(Pub. L. 95–471, title I, § 112, formerly § 111, Oct. 17, 1978, 92 Stat. 1328; renumbered § 112 and amended Pub. L. 98–192, §§ 4(a)(1), 11, Dec. 1, 1983, 97 Stat. 1336, 1339; Pub. L. 99–428, § 6(a), Sept. 30, 1986, 100 Stat. 983; Pub. L. 101–392, title III, § 313, Sept. 25, 1990, 104 Stat. 805; Pub. L. 105–244, title IX, § 901(b)(6), (13), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, § 112, formerly § 111, Oct. 17, 1978, 92 Stat. 1328; renumbered § 112 and amended Pub. L. 98–192, §§ 4(a)(1), 11, Dec. 1, 1983, 97 Stat. 1336, 1339; Pub. L. 99–428, § 6(a), Sept. 30, 1986, 100 Stat. 983; Pub. L. 101–392, title III, § 313, Sept. 25, 1990, 104 Stat. 805; Pub. L. 105–244, title IX, § 901(b)(6), (13), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -735,27 +735,27 @@ The Act of August 6, 1956 (70 Stat. 1057; 25 U.S.C. 443a), referred to in subsec
 
 The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of this title and was omitted from the Code as being of special and not general application.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Section 1132e–1 of title 20, referred to in subsec. (d), was omitted in the general revision of subchapter VII (§ 1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, § 701, Oct. 17, 1986, 100 Stat. 1520. See section 1132i–1 of Title 20.
+Section 1132e–1 of title 20, referred to in subsec. (d), was omitted in the general revision of subchapter VII (§ 1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, § 701, Oct. 17, 1986, 100 Stat. 1520. See section 1132i–1 of Title 20.
 
 **Codification**
 
-“Section 523 of title 40” substituted in subsec. (a)(2) for “section 202(a)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(a)(2))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 523 of title 40” substituted in subsec. (a)(2) for “section 202(a)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(a)(2))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges” in introductory provisions and par. (2).
+1998—Subsec. (a). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges” in introductory provisions and par. (2).
 
-Subsec. (c)(1). Pub. L. 105–244, § 901(b)(13), substituted “colleges or universities” for “colleges”.
+Subsec. (c)(1). Pub. L. 105–244, § 901(b)(13), substituted “colleges or universities” for “colleges”.
 
-Subsec. (c)(2)(B). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges”.
+Subsec. (c)(2)(B). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges”.
 
 1990—Subsecs. (c), (d). Pub. L. 101–392 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1986—Subsec. (a). Pub. L. 99–428, § 6(a), substituted “Secretary” for “Administrator of General Services” and “September 30, 1986” for “December 1, 1983”.
+1986—Subsec. (a). Pub. L. 99–428, § 6(a), substituted “Secretary” for “Administrator of General Services” and “September 30, 1986” for “December 1, 1983”.
 
-Subsec. (b). Pub. L. 99–428, § 6(a)(1), substituted “Secretary” for “Administrator of General Services”.
+Subsec. (b). Pub. L. 99–428, § 6(a)(1), substituted “Secretary” for “Administrator of General Services”.
 
 1983—Pub. L. 98–192 amended section generally, substituting provision requiring a study on the condition of currently existing facilities, submission of a report on the study, contents of the report, establishment of a renovation program, and defining term “reconstruction” for provision which required the Secretary of the Interior, not later than ninety days after Oct. 17, 1978, to prepare and submit a report to the Congress containing a survey of existing and planned physical facilities of tribally controlled community colleges.
 
@@ -769,7 +769,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date note under section 3423a of Title 20, Education.
 
-### § 1813. Construction of new facilities
+### § 1813. Construction of new facilities
 
 **(a) Grants**
 
@@ -801,33 +801,33 @@ No construction assisted with funds under this section shall be used for religio
 
 **(f) “Construction” and “academic facilities” defined** For the purposes of this section—
 
-**(1)** the term “construction” includes reconstruction or renovation (as such terms are defined in the first sentence of subparagraph (B) of section 1132e–1(2) 1
+**(1)** the term “construction” includes reconstruction or renovation (as such terms are defined in the first sentence of subparagraph (B) of section 1132e–1(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 20); and
 
-**(2)** the term “academic facilities” has the meaning provided such term under section 1132e–1(1) <sup>1</sup> of title 20.
+**(2)** the term “academic facilities” has the meaning provided such term under section 1132e–1(1) <sup>1</sup> of title 20.
 
-(Pub. L. 95–471, title I, § 113, formerly § 112, Oct. 17, 1978, 92 Stat. 1329; renumbered § 113 and amended Pub. L. 98–192, §§ 4(a)(1), 12, Dec. 1, 1983, 97 Stat. 1336, 1340; Pub. L. 99–428, § 6(b), Sept. 30, 1986, 100 Stat. 983; Pub. L. 105–244, title I, § 102(a)(8)(C), title IX, § 901(b)(5), (7), (12), Oct. 7, 1998, 112 Stat. 1619, 1828.)
+(Pub. L. 95–471, title I, § 113, formerly § 112, Oct. 17, 1978, 92 Stat. 1329; renumbered § 113 and amended Pub. L. 98–192, §§ 4(a)(1), 12, Dec. 1, 1983, 97 Stat. 1336, 1340; Pub. L. 99–428, § 6(b), Sept. 30, 1986, 100 Stat. 983; Pub. L. 105–244, title I, § 102(a)(8)(C), title IX, § 901(b)(5), (7), (12), Oct. 7, 1998, 112 Stat. 1619, 1828.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1132e–1 of title 20, referred to in subsec. (f), was omitted in the general revision of subchapter VII (§ 1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, § 701, Oct. 17, 1986, 100 Stat. 1520.
+Section 1132e–1 of title 20, referred to in subsec. (f), was omitted in the general revision of subchapter VII (§ 1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, § 701, Oct. 17, 1986, 100 Stat. 1520.
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
+1998—Subsec. (a). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college”.
 
-Subsec. (b). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college” in introductory provisions.
+Subsec. (b). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 105–244, §§ 102(a)(8)(C), 901(b)(7), substituted “section 1001” for “section 1141(a)” and “such college or university” for “such college”.
+Subsec. (b)(2). Pub. L. 105–244, §§ 102(a)(8)(C), 901(b)(7), substituted “section 1001” for “section 1141(a)” and “such college or university” for “such college”.
 
-Subsec. (c)(1). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college” in two places.
+Subsec. (c)(1). Pub. L. 105–244, § 901(b)(5), substituted “college or university” for “community college” in two places.
 
-Subsec. (c)(2). Pub. L. 105–244, § 901(b)(5), (7), (12), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college” and, in subpar. (E), substituted “the college or university” for “the college”.
+Subsec. (c)(2). Pub. L. 105–244, § 901(b)(5), (7), (12), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college” and, in subpar. (E), substituted “the college or university” for “the college”.
 
 1986—Subsec. (a). Pub. L. 99–428 substituted “Secretary under” for “Administrator of General Services under”.
 
@@ -839,7 +839,7 @@ Subsec. (c)(2). Pub. L. 105–244, § 901(b)(5), (7), (12), in introductory pr
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1814. Miscellaneous provisions
+### § 1814. Miscellaneous provisions
 
 **(a) Eligibility of Navajo Tribe**
 
@@ -851,9 +851,9 @@ The Navajo Tribe shall not be eligible to participate under the provisions of th
 
 **(2)** The Secretary shall take steps to recover any unexpended and unobligated funds provided under this subchapter held by an institution determined to be in violation of paragraph (1).
 
-(Pub. L. 95–471, title I, § 114, formerly § 113, Oct. 17, 1978, 92 Stat. 1329; renumbered § 114, Pub. L. 98–192, § 4(a)(1), Dec. 1, 1983, 97 Stat. 1336.)
+(Pub. L. 95–471, title I, § 114, formerly § 113, Oct. 17, 1978, 92 Stat. 1329; renumbered § 114, Pub. L. 98–192, § 4(a)(1), Dec. 1, 1983, 97 Stat. 1336.)
 
-### § 1815. Rules and regulations
+### § 1815. Rules and regulations
 
 **(a) Consultation with national Indian organizations**
 
@@ -871,21 +871,21 @@ Within ten months from October 17, 1978, the Secretary shall promulgate rules an
 
 Funds to carry out the purposes of this section may be drawn from general administrative appropriations to the Secretary made after October 17, 1978.
 
-(Pub. L. 95–471, title I, § 115, formerly § 114, Oct. 17, 1978, 92 Stat. 1329; renumbered § 115, Pub. L. 98–192, § 4(a)(1), Dec. 1, 1983, 97 Stat. 1336.)
+(Pub. L. 95–471, title I, § 115, formerly § 114, Oct. 17, 1978, 92 Stat. 1329; renumbered § 115, Pub. L. 98–192, § 4(a)(1), Dec. 1, 1983, 97 Stat. 1336.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Promulgation of Regulations; Consultation**
 
-Pub. L. 98–192, § 15, Dec. 1, 1983, 97 Stat. 1343, provided that: “In promulgating any regulations to implement the amendments made by this Act [enacting sections 1804a and 1831 to 1836 of this title and amending former section 640c–1 and sections 1801 to 1803 and 1805 to 1813 of this title], the Secretary of the Interior shall consult with tribally controlled community colleges.”
+Pub. L. 98–192, § 15, Dec. 1, 1983, 97 Stat. 1343, provided that: “In promulgating any regulations to implement the amendments made by this Act [enacting sections 1804a and 1831 to 1836 of this title and amending former section 640c–1 and sections 1801 to 1803 and 1805 to 1813 of this title], the Secretary of the Interior shall consult with tribally controlled community colleges.”
 
 ## SUBCHAPTER II—TRIBALLY CONTROLLED COLLEGE OR UNIVERSITY ENDOWMENT PROGRAM
 
-### § 1831. Purpose
+### § 1831. Purpose
 
 It is the purpose of this subchapter to provide grants for the encouragement of endowment funds for the operation and improvement of tribally controlled colleges or universities.
 
-(Pub. L. 95–471, title III, § 301, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1341; amended Pub. L. 105–244, title IX, § 901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title III, § 301, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1341; amended Pub. L. 105–244, title IX, § 901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -899,7 +899,7 @@ It is the purpose of this subchapter to provide grants for the encouragement of 
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1832. Establishment of program; program agreements
+### § 1832. Establishment of program; program agreements
 
 **(a)** From the amount appropriated pursuant to section 1836 of this title, the Secretary shall establish a program of making endowment grants to tribally controlled colleges or universities which are current recipients of assistance under section 1807 of this title or under section 3 of the Navajo Community College Act. No such college or university shall be ineligible for such a grant for a fiscal year by reason of the receipt of such a grant for a preceding fiscal year, but no such college or university shall be eligible for such a grant for a fiscal year if such college or university has been awarded a grant under section 1065 of title 20 for such fiscal year.
 
@@ -923,7 +923,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **(6)** includes such other provisions as may be necessary to protect the financial interest of the United States and promote the purpose of this subchapter and as are agreed to by the Secretary and the college or university, including a description of recordkeeping procedures for the expenditure of accumulated interest which will allow the Secretary to audit and monitor programs and activities conducted with such interest.
 
-(Pub. L. 95–471, title III, § 302, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1341; amended Pub. L. 101–477, § 1(d)(1)(A), (B), Oct. 30, 1990, 104 Stat. 1152, 1153; Pub. L. 103–382, title III, § 383, Oct. 20, 1994, 108 Stat. 4018; Pub. L. 105–244, title IX, § 901(b)(5)–(7), (12), (14), (15), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title III, § 302, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1341; amended Pub. L. 101–477, § 1(d)(1)(A), (B), Oct. 30, 1990, 104 Stat. 1152, 1153; Pub. L. 103–382, title III, § 383, Oct. 20, 1994, 108 Stat. 4018; Pub. L. 105–244, title IX, § 901(b)(5)–(7), (12), (14), (15), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -933,25 +933,25 @@ Section 3 of the Navajo Community College Act, referred to in subsec. (a), is se
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–244, § 901(b)(6), (7), substituted “colleges or universities” for “community colleges” and substituted “such college or university” for “such college” wherever appearing.
+1998—Subsec. (a). Pub. L. 105–244, § 901(b)(6), (7), substituted “colleges or universities” for “community colleges” and substituted “such college or university” for “such college” wherever appearing.
 
-Subsec. (b). Pub. L. 105–244, § 901(b)(5), (7), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college”.
+Subsec. (b). Pub. L. 105–244, § 901(b)(5), (7), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college”.
 
-Subsec. (b)(2)(B). Pub. L. 105–244, § 901(b)(7), substituted “such college or university” for “such college”.
+Subsec. (b)(2)(B). Pub. L. 105–244, § 901(b)(7), substituted “such college or university” for “such college”.
 
-Subsec. (b)(4). Pub. L. 105–244, § 901(b)(7), (14), (15), substituted “such college or university” for “such college”, “that college or university” for “that college”, and “other colleges or universities” for “other colleges”.
+Subsec. (b)(4). Pub. L. 105–244, § 901(b)(7), (14), (15), substituted “such college or university” for “such college”, “that college or university” for “that college”, and “other colleges or universities” for “other colleges”.
 
-Subsec. (b)(6). Pub. L. 105–244, § 901(b)(12), substituted “the college or university” for “the college”.
+Subsec. (b)(6). Pub. L. 105–244, § 901(b)(12), substituted “the college or university” for “the college”.
 
-1994—Subsec. (a). Pub. L. 103–382, § 383(1), substituted “section 1065 of title 20” for “section 1065a of title 20”.
+1994—Subsec. (a). Pub. L. 103–382, § 383(1), substituted “section 1065 of title 20” for “section 1065a of title 20”.
 
-Subsec. (b)(1). Pub. L. 103–382, § 383(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provides for the establishment and maintenance of a trust fund at a federally insured banking or savings institution;”.
+Subsec. (b)(1). Pub. L. 103–382, § 383(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provides for the establishment and maintenance of a trust fund at a federally insured banking or savings institution;”.
 
-Subsec. (b)(3). Pub. L. 103–382, § 383(2)(B), struck out “same” before “banking or savings institution”.
+Subsec. (b)(3). Pub. L. 103–382, § 383(2)(B), struck out “same” before “banking or savings institution”.
 
-1990—Subsec. (b)(2)(B). Pub. L. 101–477, § 1(d)(1)(A), substituted “(or of a value) equal to half of” for “equal to”.
+1990—Subsec. (b)(2)(B). Pub. L. 101–477, § 1(d)(1)(A), substituted “(or of a value) equal to half of” for “equal to”.
 
-Subsec. (b)(4). Pub. L. 101–477, § 1(d)(1)(B), substituted “an amount of Federal capital contribution equal to twice the amount of (or value of) such withdrawal” for “an equal amount of Federal capital contribution”.
+Subsec. (b)(4). Pub. L. 101–477, § 1(d)(1)(B), substituted “an amount of Federal capital contribution equal to twice the amount of (or value of) such withdrawal” for “an equal amount of Federal capital contribution”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -961,13 +961,13 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–477, § 1(d)(2), Oct. 30, 1990, 104 Stat. 1153, provided that: “The amendments made by paragraphs (A) through (E) of subsection (a) [probably means subpars. (A) to (E) of subsec. (d)(1), amending this section and sections 1834 and 1835 of this title] shall take effect October 1, 1991.”
+Pub. L. 101–477, § 1(d)(2), Oct. 30, 1990, 104 Stat. 1153, provided that: “The amendments made by paragraphs (A) through (E) of subsection (a) [probably means subpars. (A) to (E) of subsec. (d)(1), amending this section and sections 1834 and 1835 of this title] shall take effect October 1, 1991.”
 
-### § 1833. Use of funds
+### § 1833. Use of funds
 
 Interest deposited, pursuant to section 1832(b)(2)(C) of this title, in the trust fund of any tribally controlled college or university may be periodically withdrawn and used, at the discretion of such college or university, to defray any expenses associated with the operation of such college or university, including expense of operations and maintenance, administration, academic and support personnel, community and student services programs, and technical assistance.
 
-(Pub. L. 95–471, title III, § 303, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1342; amended Pub. L. 105–244, title IX, § 901(b)(5), (7), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title III, § 303, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1342; amended Pub. L. 105–244, title IX, § 901(b)(5), (7), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -981,11 +981,11 @@ Interest deposited, pursuant to section 1832(b)(2)(C) of this title, in the trus
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1834. Compliance with matching requirement
+### § 1834. Compliance with matching requirement
 
 For the purpose of complying with the contribution requirement of section 1832(b)(2)(B) of this title, a tribally controlled college or university may use funds which are available from any private or tribal source. Any real or personal property received by a tribally controlled college or university as a donation or gift on or after October 30, 1990, may, to the extent of its fair market value as determined by the Secretary, be used by such college or university as its contribution pursuant to section 1832(b)(2)(B) of this title, or as part of such contribution, as the case may be. In any case in which any such real or personal property so used is thereafter sold or otherwise disposed of by such college or university, the proceeds therefrom shall be deposited pursuant to section 1832(b)(2)(B) of this title but shall not again be considered for Federal capital contribution purposes.
 
-(Pub. L. 95–471, title III, § 304, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1342; amended Pub. L. 101–477, § 1(d)(1)(C), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 105–244, title IX, § 901(b)(5), (7), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title III, § 304, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1342; amended Pub. L. 101–477, § 1(d)(1)(C), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 105–244, title IX, § 901(b)(5), (7), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -1005,13 +1005,13 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 101–477 effective Oct. 1, 1991, see section 1(d)(2) of Pub. L. 101–477, set out as a note under section 1832 of this title.
 
-### § 1835. Allocation of funds
+### § 1835. Allocation of funds
 
 **(a)** From the amount appropriated pursuant to section 1836 of this title, the Secretary shall allocate to each tribally controlled college or university which is eligible for an endowment grant under this subchapter an amount for a Federal capital contribution equal to twice the value of the property or the amount which such college or university demonstrates has been placed within the control of, or irrevocably committed to the use of, the college or university and is available for deposit as a capital contribution of that college or university in accordance with section 1832(b)(2)(B) of this title, except that the maximum amount which may be so allocated to any such college or university for any fiscal year shall not exceed $750,000.
 
 **(b)** If for any fiscal year the amount appropriated pursuant to section 1836 of this title is not sufficient to allocate to each tribally controlled college or university an amount equal to twice the value of the property or the amount demonstrated by such college or university pursuant to subsection (a), then the amount of the allocation to each such college or university shall be ratably reduced.
 
-(Pub. L. 95–471, title III, § 305, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1342; amended Pub. L. 101–477, § 1(d)(1)(D), (E), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 105–244, title IX, § 901(b)(5), (7), (12), (14), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title III, § 305, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1342; amended Pub. L. 101–477, § 1(d)(1)(D), (E), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 105–244, title IX, § 901(b)(5), (7), (12), (14), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -1019,7 +1019,7 @@ Amendment by Pub. L. 101–477 effective Oct. 1, 1991, see section 1(d)(2) of Pu
 
 1998—Subsec. (a). Pub. L. 105–244 substituted “controlled college or university” for “controlled community college”, “such college or university” for “such college” in two places, “the college or university” for “the college”, and “that college or university” for “that college”.
 
-Subsec. (b). Pub. L. 105–244, § 901(b)(5), (7), substituted “controlled college or university” for “controlled community college” and substituted “such college or university” for “such college” in two places.
+Subsec. (b). Pub. L. 105–244, § 901(b)(5), (7), substituted “controlled college or university” for “controlled community college” and substituted “such college or university” for “such college” in two places.
 
 1990—Pub. L. 101–477 inserted “twice the value of the property or” after “equal to” in subsecs. (a) and (b) and substituted “$750,000” for “$350,000” in subsec. (a).
 
@@ -1033,13 +1033,13 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 101–477 effective Oct. 1, 1991, see section 1(d)(2) of Pub. L. 101–477, set out as a note under section 1832 of this title.
 
-### § 1836. Authorization of appropriations
+### § 1836. Authorization of appropriations
 
 **(a)** There are authorized to be appropriated to carry out the provisions of this subchapter, $10,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 **(b)** Any funds appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
-(Pub. L. 95–471, title III, § 306, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1343; amended Pub. L. 99–428, § 2(b), Sept. 30, 1986, 100 Stat. 982; Pub. L. 101–477, § 1(d)(1)(F), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, § 1301(b), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, § 901(a)(2)(B), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, § 941(h), Aug. 14, 2008, 122 Stat. 3462.)
+(Pub. L. 95–471, title III, § 306, as added Pub. L. 98–192, § 13, Dec. 1, 1983, 97 Stat. 1343; amended Pub. L. 99–428, § 2(b), Sept. 30, 1986, 100 Stat. 982; Pub. L. 101–477, § 1(d)(1)(F), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, § 1301(b), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, § 901(a)(2)(B), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, § 941(h), Aug. 14, 2008, 122 Stat. 3462.)
 
 **Editorial Notes**
 
@@ -1067,7 +1067,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 ## SUBCHAPTER III—TRIBAL ECONOMIC DEVELOPMENT
 
-### § 1851. Grants authorized
+### § 1851. Grants authorized
 
 **(a) General authority** The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
 
@@ -1091,9 +1091,9 @@ The grants shall be of such amount and duration as to afford the greatest opport
 
 Institutions which receive funds under other subchapters of this chapter or the Navajo Community College Act may apply for grants under this subchapter either individually or as consortia. Each applicant shall act in cooperation with an Indian tribe or tribes in developing and implementing a grant under this subchapter.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 95–471, title IV, § 402, as added Pub. L. 101–392, title III, § 312, Sept. 25, 1990, 104 Stat. 804; amended Pub. L. 105–244, title IX, § 901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title IV, § 402, as added Pub. L. 101–392, title III, § 312, Sept. 25, 1990, 104 Stat. 804; amended Pub. L. 105–244, title IX, § 901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
 
 **Editorial Notes**
 
@@ -1121,11 +1121,11 @@ Subchapter effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set 
 
 For short title of title IV of Pub. L. 95–471, which enacted this subchapter, as the “Tribal Economic Development and Technology Related Education Assistance Act of 1990”, see section 401 of Pub. L. 95–471, set out as a Short Title note under section 1801 of this title.
 
-### § 1852. Authorization of appropriations
+### § 1852. Authorization of appropriations
 
 There are authorized to be appropriated for grants under this subchapter, such sums as may be necessary for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
-(Pub. L. 95–471, title IV, § 403, as added Pub. L. 101–392, title III, § 312, Sept. 25, 1990, 104 Stat. 805; amended Pub. L. 102–325, title XIII, § 1301(c), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, § 901(a)(2)(C), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, § 941(i), Aug. 14, 2008, 122 Stat. 3463.)
+(Pub. L. 95–471, title IV, § 403, as added Pub. L. 101–392, title III, § 312, Sept. 25, 1990, 104 Stat. 805; amended Pub. L. 102–325, title XIII, § 1301(c), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, § 901(a)(2)(C), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, § 941(i), Aug. 14, 2008, 122 Stat. 3463.)
 
 **Editorial Notes**
 
@@ -1149,13 +1149,13 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 ## SUBCHAPTER IV—TRIBALLY CONTROLLED POSTSECONDARY CAREER AND TECHNICAL INSTITUTIONS
 
-### § 1861. Definition of tribally controlled postsecondary career and technical institution
+### § 1861. Definition of tribally controlled postsecondary career and technical institution
 
 In this subchapter, the term “tribally controlled postsecondary career and technical institution” has the meaning given the term in section 2302 of title 20.
 
-(Pub. L. 95–471, title V, § 501, as added Pub. L. 110–315, title IX, § 941(j)(1), Aug. 14, 2008, 122 Stat. 3463.)
+(Pub. L. 95–471, title V, § 501, as added Pub. L. 110–315, title IX, § 941(j)(1), Aug. 14, 2008, 122 Stat. 3463.)
 
-### § 1862. Tribally controlled postsecondary career and technical institutions program
+### § 1862. Tribally controlled postsecondary career and technical institutions program
 
 **(a) In general** Subject to the availability of appropriations, for fiscal year 2009 and each fiscal year thereafter, the Secretary shall—
 
@@ -1193,15 +1193,15 @@ For each applicable fiscal year, the Secretary shall provide funding under this 
 
 **(B)** multiplying the quotient described in subparagraph (A) by the Indian student count of each such institution for the prior academic year.
 
-(Pub. L. 95–471, title V, § 502, as added Pub. L. 110–315, title IX, § 941(j)(1), Aug. 14, 2008, 122 Stat. 3463.)
+(Pub. L. 95–471, title V, § 502, as added Pub. L. 110–315, title IX, § 941(j)(1), Aug. 14, 2008, 122 Stat. 3463.)
 
-### § 1863. Applicability of other laws
+### § 1863. Applicability of other laws
 
 **(a) In general**
 
-Paragraphs (4) and (8) of subsection (a), and subsection (b), of section 1801 of this title, sections 1805, 1808, 1811, 1812 and 1813 of this title, subchapters II and III of this chapter, and title II 1
+Paragraphs (4) and (8) of subsection (a), and subsection (b), of section 1801 of this title, sections 1805, 1808, 1811, 1812 and 1813 of this title, subchapters II and III of this chapter, and title II 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to this subchapter.
 
@@ -1227,7 +1227,7 @@ A tribally controlled postsecondary career and technical institution selected fo
 
 **(C)** postsecondary educational institutions.
 
-(Pub. L. 95–471, title V, § 503, as added Pub. L. 110–315, title IX, § 941(j)(1), Aug. 14, 2008, 122 Stat. 3464.)
+(Pub. L. 95–471, title V, § 503, as added Pub. L. 110–315, title IX, § 941(j)(1), Aug. 14, 2008, 122 Stat. 3464.)
 
 **Editorial Notes**
 
@@ -1235,14 +1235,14 @@ A tribally controlled postsecondary career and technical institution selected fo
 
 Title II, referred to in subsec. (a), is title II of Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1329, known as the Navajo Community College Assistance Act of 1978, which enacted former section 640c–1 of this title, amended former section 640c of this title, and enacted provisions set out as notes under former sections 640a and 640c–1 of this title.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (d)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-### § 1864. Authorization of appropriations
+### § 1864. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary for fiscal year 2009 and each fiscal year thereafter to carry out this subchapter.
 
-(Pub. L. 95–471, title V, § 504, as added Pub. L. 110–315, title IX, § 941(j)(1), Aug. 14, 2008, 122 Stat. 3465.)
+(Pub. L. 95–471, title V, § 504, as added Pub. L. 110–315, title IX, § 941(j)(1), Aug. 14, 2008, 122 Stat. 3465.)

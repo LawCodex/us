@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Transfer of Functions**
 
-Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, § 301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
+Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, § 301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
 By order of Secretary of Agriculture, Packers and Stockyards Administration abolished on July 1, 1927, and enforcement of Packers and Stockyards Act of 1921, which is classified to this chapter, was put under control of chief of Bureau of Animal Industry.
 
 ## SUBCHAPTER I—GENERAL DEFINITIONS
 
-### § 181. Short title
+### § 181. Short title
 
 This chapter may be cited as the “Packers and Stockyards Act, 1921.”
 
-(Aug. 15, 1921, ch. 64, title I, § 1, 42 Stat. 159.)
+(Aug. 15, 1921, ch. 64, title I, § 1, 42 Stat. 159.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–237, § 1, Oct. 7, 2016, 130 Stat. 970, provided that: “This Act [amending sections 201 and 228b of this title] may be cited as the ‘Clarification of Treatment of Electronic Sales of Livestock Act of 2016’.”
+Pub. L. 114–237, § 1, Oct. 7, 2016, 130 Stat. 970, provided that: “This Act [amending sections 201 and 228b of this title] may be cited as the ‘Clarification of Treatment of Electronic Sales of Livestock Act of 2016’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–173, § 1, Nov. 23, 1987, 101 Stat. 917, provided that: “This Act [enacting sections 197 and 228b–1 to 228b–4 of this title, amending sections 182, 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 182 and 227 of this title] may be cited as the ‘Poultry Producers Financial Protection Act of 1987’.”
+Pub. L. 100–173, § 1, Nov. 23, 1987, 101 Stat. 917, provided that: “This Act [enacting sections 197 and 228b–1 to 228b–4 of this title, amending sections 182, 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 182 and 227 of this title] may be cited as the ‘Poultry Producers Financial Protection Act of 1987’.”
 
 **Improved Investigative and Enforcement Activities Under This Chapter**
 
-Pub. L. 106–472, title III, § 312(a)-(d), Nov. 9, 2000, 114 Stat. 2076, 2077, provided that:
+Pub. L. 106–472, title III, § 312(a)-(d), Nov. 9, 2000, 114 Stat. 2076, 2077, provided that:
 
 > **“(a) Implementation of General Accounting Office [now Government Accountability Office] Recommendations.—** Not later than 1 year after the date of the enactment of this Act [Nov. 9, 2000], the Secretary of Agriculture shall implement the recommendations contained in the report issued by the General Accounting Office [now Government Accountability Office] entitled ‘Packers and Stockyards Programs: Actions Needed to Improve Investigations of Competitive Practices’, GAO/RCED–00–242, dated September 21, 2000.
 
@@ -57,7 +57,7 @@ Pub. L. 106–472, title III, § 312(a)-(d), Nov. 9, 2000, 114 Stat. 2076, 207
 
 > **“(d) Implementation Report.—** Not later than 1 year after the date of the enactment of this Act, the Secretary of Agriculture shall submit to Congress a report describing the actions taken to comply with this section.”
 
-### § 182. Definitions
+### § 182. Definitions
 
 When used in this chapter—
 
@@ -93,7 +93,7 @@ When used in this chapter—
 
 **(14) Swine production contract grower.—** The term “swine production contract grower” means any person engaged in the business of raising and caring for swine in accordance with the instructions of another person.
 
-(Aug. 15, 1921, ch. 64, title I, § 2(a), 42 Stat. 159; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, § 2, Nov. 23, 1987, 101 Stat. 917; Pub. L. 107–171, title X, § 10502(a), May 13, 2002, 116 Stat. 509.)
+(Aug. 15, 1921, ch. 64, title I, § 2(a), 42 Stat. 159; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, § 2, Nov. 23, 1987, 101 Stat. 917; Pub. L. 107–171, title X, § 10502(a), May 13, 2002, 116 Stat. 509.)
 
 **Editorial Notes**
 
@@ -113,17 +113,17 @@ Section is composed of subsec. (a) of section 2 of act Aug. 15, 1921. Subsec. (b
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–173, § 12, Nov. 23, 1987, 101 Stat. 923, provided that: “This Act and the amendments made by this Act [enacting sections 197 and 228b–1 to 228b–4 of this title, amending this section and sections 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 181 and 227 of this title] shall take effect 90 days after the date of the enactment of this Act [Nov. 23, 1987].”
+Pub. L. 100–173, § 12, Nov. 23, 1987, 101 Stat. 923, provided that: “This Act and the amendments made by this Act [enacting sections 197 and 228b–1 to 228b–4 of this title, amending this section and sections 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 181 and 227 of this title] shall take effect 90 days after the date of the enactment of this Act [Nov. 23, 1987].”
 
 **Savings Provision**
 
-Pub. L. 94–410, § 10, Sept. 13, 1976, 90 Stat. 1252, provided that: “Pending proceedings shall not be abated by reason of any provision of this Act [enacting sections 196 and 228a to 228c of this title and amending this section and sections 183, 191 to 193, 201, 204, 207, 209, 210, 212, 213, 228, and 229 of this title], but shall be disposed of pursuant to the provisions of the Packers and Stockyards Act, 1921, as amended [this chapter], and the Act of July 12, 1943 [section 204 of this title], in effect immediately prior to the effective date of this Act [Sept. 13, 1976].”
+Pub. L. 94–410, § 10, Sept. 13, 1976, 90 Stat. 1252, provided that: “Pending proceedings shall not be abated by reason of any provision of this Act [enacting sections 196 and 228a to 228c of this title and amending this section and sections 183, 191 to 193, 201, 204, 207, 209, 210, 212, 213, 228, and 229 of this title], but shall be disposed of pursuant to the provisions of the Packers and Stockyards Act, 1921, as amended [this chapter], and the Act of July 12, 1943 [section 204 of this title], in effect immediately prior to the effective date of this Act [Sept. 13, 1976].”
 
-### § 183. When transaction deemed in commerce; “State” defined
+### § 183. When transaction deemed in commerce; “State” defined
 
 For the purpose of this chapter (but not in anywise limiting the definition in section 182 of this title) a transaction in respect to any article shall be considered to be in commerce if such article is part of that current of commerce usual in the livestock and meat-packing industries, whereby livestock, meats, meat food products, livestock products, dairy products, poultry, poultry products, or eggs, are sent from one State with the expectation that they will end their transit, after purchase, in another, including, in addition to cases within the above general description, all cases where purchase or sale is either for shipment to another State, or for slaughter of livestock within the State and the shipment outside the State of the products resulting from such slaughter. Articles normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter. For the purpose of this section the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nation.
 
-(Aug. 15, 1921, ch. 64, title I, § 2(b), 42 Stat. 160; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title I, § 2(b), 42 Stat. 160; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249.)
 
 **Editorial Notes**
 
@@ -139,11 +139,11 @@ Section is composed of subsec. (b) of section 2 of act Aug. 15, 1921. Subsec. (a
 
 ### Part A—General Provisions
 
-#### § 191. “Packer” defined
+#### § 191. “Packer” defined
 
 When used in this chapter the term “packer” means any person engaged in the business (a) of buying livestock in commerce for purposes of slaughter, or (b) of manufacturing or preparing meats or meat food products for sale or shipment in commerce, or (c) of marketing meats, meat food products, or livestock products in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce.
 
-(Aug. 15, 1921, ch. 64, title II, § 201, 42 Stat. 160; Pub. L. 94–410, § 2, Sept. 13, 1976, 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title II, § 201, 42 Stat. 160; Pub. L. 94–410, § 2, Sept. 13, 1976, 90 Stat. 1249.)
 
 **Editorial Notes**
 
@@ -151,7 +151,7 @@ When used in this chapter the term “packer” means any person engaged in the 
 
 1976—Pub. L. 94–410 substituted definition of “packer” for former definition which included provisions dealing with direct or indirect control of specified businesses through stock ownership or otherwise.
 
-#### § 192. Unlawful practices enumerated
+#### § 192. Unlawful practices enumerated
 
 It shall be unlawful for any packer or swine contractor with respect to livestock, meats, meat food products, or livestock products in unmanufactured form, or for any live poultry dealer with respect to live poultry, to:
 
@@ -169,7 +169,7 @@ It shall be unlawful for any packer or swine contractor with respect to livestoc
 
 **(g)** Conspire, combine, agree, or arrange with any other person to do, or aid or abet the doing of, any act made unlawful by subdivisions (a), (b), (c), (d), or (e).
 
-(Aug. 15, 1921, ch. 64, title II, § 202, 42 Stat. 161; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; Pub. L. 85–909, § 1(1), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 94–410, § 3(a), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, § 3, Nov. 23, 1987, 101 Stat. 917; Pub. L. 102–237, title X, § 1008(1), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 106–78, title IX, § 912, Oct. 22, 1999, 113 Stat. 1205; Pub. L. 107–171, title X, § 10502(b)(1), (2)(A), May 13, 2002, 116 Stat. 509, 510.)
+(Aug. 15, 1921, ch. 64, title II, § 202, 42 Stat. 161; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; Pub. L. 85–909, § 1(1), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 94–410, § 3(a), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, § 3, Nov. 23, 1987, 101 Stat. 917; Pub. L. 102–237, title X, § 1008(1), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 106–78, title IX, § 912, Oct. 22, 1999, 113 Stat. 1205; Pub. L. 107–171, title X, § 10502(b)(1), (2)(A), May 13, 2002, 116 Stat. 509, 510.)
 
 **Amendment of Section**
 
@@ -179,23 +179,23 @@ For termination of amendment by section 942 of Pub. L. 106–78, see Termination
 
 **Amendments**
 
-2002—Pub. L. 107–171, § 10502(b)(1), substituted “packer or swine contractor” for “packer” in introductory provisions.
+2002—Pub. L. 107–171, § 10502(b)(1), substituted “packer or swine contractor” for “packer” in introductory provisions.
 
-Subsec. (c). Pub. L. 107–171, § 10502(b)(2)(A), inserted “, swine contractor,” after “other packer” in two places.
+Subsec. (c). Pub. L. 107–171, § 10502(b)(2)(A), inserted “, swine contractor,” after “other packer” in two places.
 
-1999—Subsec. (b). Pub. L. 106–78, §§ 912, 942, temporarily struck out “whatsoever” after “locality in any respect” and after “disadvantage in any respect”. See Termination Date of 1999 Amendment note below.
+1999—Subsec. (b). Pub. L. 106–78, §§ 912, 942, temporarily struck out “whatsoever” after “locality in any respect” and after “disadvantage in any respect”. See Termination Date of 1999 Amendment note below.
 
 1991—Subsec. (c). Pub. L. 102–237 substituted a comma for period after second reference to “dealer”.
 
-1987—Pub. L. 100–173, § 3(1), substituted “for any packer with respect to livestock, meats, meat food products, or livestock products in unmanufactured form, or for any live poultry dealer with respect to live poultry, to” for “with respect to livestock, meats, meat food products, livestock products in unmanufactured form, poultry, or poultry products for any packer or any live poultry dealer or handler to” in introductory provisions.
+1987—Pub. L. 100–173, § 3(1), substituted “for any packer with respect to livestock, meats, meat food products, or livestock products in unmanufactured form, or for any live poultry dealer with respect to live poultry, to” for “with respect to livestock, meats, meat food products, livestock products in unmanufactured form, poultry, or poultry products for any packer or any live poultry dealer or handler to” in introductory provisions.
 
-Par. (c). Pub. L. 100–173, § 3(2), struck out reference to poultry handlers wherever appearing and substituted “such persons” for “such packers”.
+Par. (c). Pub. L. 100–173, § 3(2), struck out reference to poultry handlers wherever appearing and substituted “such persons” for “such packers”.
 
 1976—Pub. L. 94–410 struck out “in commerce” wherever appearing.
 
 1958—Pub. L. 85–909 inserted “with respect to livestock, meats, meat food products, livestock products in unmanufactured form, poultry, or poultry products” after “unlawful”.
 
-1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
+1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -207,7 +207,7 @@ Amendment by Pub. L. 106–78 to terminate Mar. 14, 2025, see section 942 of Pub
 
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under section 182 of this title.
 
-#### § 193. Procedure before Secretary for violations
+#### § 193. Procedure before Secretary for violations
 
 **(a) Complaint; hearing; intervention**
 
@@ -225,7 +225,7 @@ Until the record in such hearing has been filed in a court of appeals of the Uni
 
 Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in section 45 of title 15.
 
-(Aug. 15, 1921, ch. 64, title II, § 203, 42 Stat. 161; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 6(a), Aug. 28, 1958, 72 Stat. 944; Pub. L. 94–410, § 3(b), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 107–171, title X, § 10502(b)(1), May 13, 2002, 116 Stat. 509.)
+(Aug. 15, 1921, ch. 64, title II, § 203, 42 Stat. 161; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 6(a), Aug. 28, 1958, 72 Stat. 944; Pub. L. 94–410, § 3(b), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 107–171, title X, § 10502(b)(1), May 13, 2002, 116 Stat. 509.)
 
 **Editorial Notes**
 
@@ -247,9 +247,9 @@ Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appea
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### § 194. Conclusiveness of order; appeal and review
+#### § 194. Conclusiveness of order; appeal and review
 
 **(a) Filing of petition; bond**
 
@@ -283,7 +283,7 @@ If the court of appeals affirms or modifies the order of the Secretary, its decr
 
 The court of appeals shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28, if such writ is duly applied for within sixty days after entry of the decree. The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction unless so ordered by the Supreme Court.
 
-(Aug. 15, 1921, ch. 64, title II, § 204, 42 Stat. 162; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 6(b), (c), Aug. 28, 1958, 72 Stat. 944; Pub. L. 98–620, title IV, § 402(5), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 107–171, title X, § 10502(b)(1), May 13, 2002, 116 Stat. 509.)
+(Aug. 15, 1921, ch. 64, title II, § 204, 42 Stat. 162; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 6(b), (c), Aug. 28, 1958, 72 Stat. 944; Pub. L. 98–620, title IV, § 402(5), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 107–171, title X, § 10502(b)(1), May 13, 2002, 116 Stat. 509.)
 
 **Editorial Notes**
 
@@ -297,13 +297,13 @@ Former subsec. (i), which extended the former term “circuit court of appeals�
 
 1984—Subsec. (d). Pub. L. 98–620 struck out provisions requiring proceedings in such cases in the court of appeals to be made a preferred cause and expedited in every way.
 
-1958—Subsec. (b). Pub. L. 85–791 § 6(b), substituted “thereupon file in the court” for “forthwith prepare, certify, and file in the court a full and accurate transcript of”, and “as provided in section 2112 of Title 28” for “including the complaint, the evidence, and the report and order” in first sentence, and “record” for “transcript” in second sentence.
+1958—Subsec. (b). Pub. L. 85–791 § 6(b), substituted “thereupon file in the court” for “forthwith prepare, certify, and file in the court a full and accurate transcript of”, and “as provided in section 2112 of Title 28” for “including the complaint, the evidence, and the report and order” in first sentence, and “record” for “transcript” in second sentence.
 
-Subsec. (c). Pub. L. 85–791, § 6(b), substituted “petition” for “transcript”.
+Subsec. (c). Pub. L. 85–791, § 6(b), substituted “petition” for “transcript”.
 
-Subsec. (d). Pub. L. 85–791, § 6(b), struck out “duly certified” after “admitted”.
+Subsec. (d). Pub. L. 85–791, § 6(b), struck out “duly certified” after “admitted”.
 
-Subsec. (h). Pub. L. 85–791, § 6(c), substituted “jurisdiction, which upon the finding of the record with it shall be exclusive,” for “exclusive jurisdiction,” and section “1254” for “347”.
+Subsec. (h). Pub. L. 85–791, § 6(c), substituted “jurisdiction, which upon the finding of the record with it shall be exclusive,” for “exclusive jurisdiction,” and section “1254” for “347”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -317,7 +317,7 @@ Act of June 7, 1934, provided that Court of Appeals in District of Columbia, sho
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-#### § 195. Punishment for violation of order
+#### § 195. Punishment for violation of order
 
 Any packer or swine contractor, or any officer, director, agent, or employee of a packer or swine contractor, who fails to obey any order of the Secretary issued under the provisions of section 193 of this title, or such order as modified—
 
@@ -327,7 +327,7 @@ Any packer or swine contractor, or any officer, director, agent, or employee of 
 
 **(3)** After such order, or such order as modified, has been sustained by the courts as provided in section 194 of this title; shall on conviction be fined not less than $500 nor more than $10,000, or imprisoned for not less than six months nor more than five years, or both. Each day during which such failure continues shall be deemed a separate offense.
 
-(Aug. 15, 1921, ch. 64, title II, § 205, 42 Stat. 163; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 107–171, title X, § 10502(b)(1), May 13, 2002, 116 Stat. 509.)
+(Aug. 15, 1921, ch. 64, title II, § 205, 42 Stat. 163; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 107–171, title X, § 10502(b)(1), May 13, 2002, 116 Stat. 509.)
 
 **Editorial Notes**
 
@@ -341,7 +341,7 @@ Any packer or swine contractor, or any officer, director, agent, or employee of 
 
 Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”, wherever appearing in this section.
 
-#### § 196. Statutory trust established; livestock
+#### § 196. Statutory trust established; livestock
 
 **(a) Protection of public interest from inadequate financing arrangements**
 
@@ -355,9 +355,9 @@ All livestock purchased by a packer in cash sales, and all inventories of, or re
 
 For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
 
-(Aug. 15, 1921, ch. 64, title II, § 206, as added Pub. L. 94–410, § 8, Sept. 13, 1976, 90 Stat. 1251.)
+(Aug. 15, 1921, ch. 64, title II, § 206, as added Pub. L. 94–410, § 8, Sept. 13, 1976, 90 Stat. 1251.)
 
-#### § 197. Statutory trust established; poultry
+#### § 197. Statutory trust established; poultry
 
 **(a) Protection of public interest from inadequate financing arrangements**
 
@@ -379,7 +379,7 @@ The unpaid cash seller or poultry grower shall lose the benefit of such trust if
 
 For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
 
-(Aug. 15, 1921, ch. 64, title II, § 207, as added Pub. L. 100–173, § 4, Nov. 23, 1987, 101 Stat. 918.)
+(Aug. 15, 1921, ch. 64, title II, § 207, as added Pub. L. 100–173, § 4, Nov. 23, 1987, 101 Stat. 918.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -387,7 +387,7 @@ For the purpose of this section, a cash sale means a sale in which the seller do
 
 Section effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.
 
-#### § 197a. Production contracts
+#### § 197a. Production contracts
 
 **(a) Right of contract producers to cancel production contracts**
 
@@ -415,7 +415,7 @@ A poultry growing arrangement or swine production contract shall contain on the 
 
 Paragraph (1) shall apply to any poultry growing arrangement or swine production contract entered into, amended, altered, modified, renewed, or extended after the date of the enactment of this section.
 
-(Aug. 15, 1921, ch. 64, title II, § 208, as added Pub. L. 110–234, title XI, § 11005, May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, § 4(a), title XI, § 11005, June 18, 2008, 122 Stat. 1664, 2118.)
+(Aug. 15, 1921, ch. 64, title II, § 208, as added Pub. L. 110–234, title XI, § 11005, May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, § 4(a), title XI, § 11005, June 18, 2008, 122 Stat. 1664, 2118.)
 
 **Editorial Notes**
 
@@ -435,7 +435,7 @@ Section 11005 of Pub. L. 110–246, which directed amendment of title II of the 
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-#### § 197b. Choice of law and venue
+#### § 197b. Choice of law and venue
 
 **(a) Location of forum**
 
@@ -445,7 +445,7 @@ The forum for resolving any dispute among the parties to a poultry growing arran
 
 A poultry growing arrangement or swine production or marketing contract may specify which State’s law is to apply to issues governed by State law in any dispute arising out of the arrangement or contract, except to the extent that doing so is prohibited by the law of the State in which the principal part of the performance takes place under the arrangement or contract.
 
-(Aug. 15, 1921, ch. 64, title II, § 209, as added Pub. L. 110–234, title XI, § 11005, May 22, 2008, 122 Stat. 1357, and Pub. L. 110–246, § 4(a), title XI, § 11005, June 18, 2008, 122 Stat. 1664, 2119.)
+(Aug. 15, 1921, ch. 64, title II, § 209, as added Pub. L. 110–234, title XI, § 11005, May 22, 2008, 122 Stat. 1357, and Pub. L. 110–246, § 4(a), title XI, § 11005, June 18, 2008, 122 Stat. 1664, 2119.)
 
 **Editorial Notes**
 
@@ -461,13 +461,13 @@ Section 11005 of Pub. L. 110–246, which directed amendment of title II of the 
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-#### § 197c. Arbitration
+#### § 197c. Arbitration
 
 **(a) In general**
 
-Any livestock or poultry contract that contains a provision requiring the use of arbitration to resolve any controversy that may arise under the contract shall contain a provision that allows a producer or grower, prior to entering the contract 1
+Any livestock or poultry contract that contains a provision requiring the use of arbitration to resolve any controversy that may arise under the contract shall contain a provision that allows a producer or grower, prior to entering the contract 1
 
-<sup>1</sup>  So in original. A comma probably should appear.
+<sup>1</sup> So in original. A comma probably should appear.
 
 to decline to be bound by the arbitration provision.
 
@@ -479,13 +479,13 @@ Any livestock or poultry contract that contains a provision requiring the use of
 
 Any contract producer or grower that declines a requirement of arbitration pursuant to subsection (b) has the right,2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 to nonetheless seek to resolve any controversy that may arise under the livestock or poultry contract, if, after the controversy arises, both parties consent in writing to use arbitration to settle the controversy.
 
 **(d) Application**
 
-Subsections (a) <sup>1</sup> (b) and (c) shall apply to any contract entered into, amended, altered, modified, renewed, or extended after the date of the enactment of the Food, Conservation, and Energy Act of 2008.
+Subsections (a) <sup>1</sup> (b) and (c) shall apply to any contract entered into, amended, altered, modified, renewed, or extended after the date of the enactment of the Food, Conservation, and Energy Act of 2008.
 
 **(e) Unlawful practice**
 
@@ -497,7 +497,7 @@ Any action by or on behalf of a packer, swine contractor, or live poultry dealer
 
 **(2)** establish criteria that the Secretary will consider in determining whether the arbitration process provided in a contract provides a meaningful opportunity for the grower or producer to participate fully in the arbitration process.
 
-(Aug. 15, 1921, ch. 64, title II, § 210, as added Pub. L. 110–234, title XI, § 11005, May 22, 2008, 122 Stat. 1357, and Pub. L. 110–246, § 4(a), title XI, § 11005, June 18, 2008, 122 Stat. 1664, 2119.)
+(Aug. 15, 1921, ch. 64, title II, § 210, as added Pub. L. 110–234, title XI, § 11005, May 22, 2008, 122 Stat. 1357, and Pub. L. 110–246, § 4(a), title XI, § 11005, June 18, 2008, 122 Stat. 1664, 2119.)
 
 **Editorial Notes**
 
@@ -523,7 +523,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For termination of part by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.
 
-#### § 198. Definitions
+#### § 198. Definitions
 
 Except as provided in section 198b(a) of this title, in this part:
 
@@ -561,7 +561,7 @@ The term “swine” means a porcine animal raised to be a feeder pig, raised fo
 
 Except as provided in this part, a term has the meaning given the term in section 1635a or 1635i of this title.
 
-(Aug. 15, 1921, ch. 64, title II, § 221, as added Pub. L. 106–78, title IX, § 934(2), Oct. 22, 1999, 113 Stat. 1208.)
+(Aug. 15, 1921, ch. 64, title II, § 221, as added Pub. L. 106–78, title IX, § 934(2), Oct. 22, 1999, 113 Stat. 1208.)
 
 **Termination of Section**
 
@@ -573,7 +573,7 @@ For termination of section by section 942 of Pub. L. 106–78, see Livestock Man
 
 Section to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 
-#### § 198a. Swine packer marketing contracts offered to producers
+#### § 198a. Swine packer marketing contracts offered to producers
 
 **(a) In general**
 
@@ -613,7 +613,7 @@ It shall be unlawful and a violation of this subchapter for any packer to willfu
 
 There are authorized to be appropriated such sums as necessary to carry out this section.
 
-(Aug. 15, 1921, ch. 64, title II, § 222, as added Pub. L. 106–78, title IX, § 934(2), Oct. 22, 1999, 113 Stat. 1208.)
+(Aug. 15, 1921, ch. 64, title II, § 222, as added Pub. L. 106–78, title IX, § 934(2), Oct. 22, 1999, 113 Stat. 1208.)
 
 **Termination of Section**
 
@@ -625,7 +625,7 @@ For termination of section by section 942 of Pub. L. 106–78, see Livestock Man
 
 Section to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 
-#### § 198b. Report on the Secretary’s jurisdiction, power, duties, and authorities
+#### § 198b. Report on the Secretary’s jurisdiction, power, duties, and authorities
 
 **(a) Definition of packer**
 
@@ -655,7 +655,7 @@ In this section, the term “packer” has the meaning given the term in section
 
 **(6)** the ability of the Secretary to cooperate with and enhance the enforcement of actions initiated by other Federal departments and agencies, or Federal independent agencies, to protect trade and commerce in the pork and pork product industries against unlawful restraints and monopolies.
 
-(Aug. 15, 1921, ch. 64, title II, § 223, as added Pub. L. 106–78, title IX, § 934(2), Oct. 22, 1999, 113 Stat. 1209.)
+(Aug. 15, 1921, ch. 64, title II, § 223, as added Pub. L. 106–78, title IX, § 934(2), Oct. 22, 1999, 113 Stat. 1209.)
 
 **Termination of Section**
 
@@ -665,9 +665,9 @@ For termination of section by section 942 of Pub. L. 106–78, see Livestock Man
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (b)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -677,7 +677,7 @@ Section to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out
 
 ## SUBCHAPTER III—STOCKYARDS AND STOCKYARD DEALERS
 
-### § 201. “Stockyard owner”; “stockyard services”; “market agency”; “dealer”; defined
+### § 201. “Stockyard owner”; “stockyard services”; “market agency”; “dealer”; defined
 
 In this chapter:
 
@@ -689,33 +689,33 @@ In this chapter:
 
 **(d)** The term “dealer” means any person, not a market agency, engaged in the business of buying or selling in commerce livestock, either on his own account or as the employee or agent of the vendor or purchaser.
 
-(Aug. 15, 1921, ch. 64, title III, § 301, 42 Stat. 163; Pub. L. 85–909, § 2(1), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 114–237, § 2, Oct. 7, 2016, 130 Stat. 970.)
+(Aug. 15, 1921, ch. 64, title III, § 301, 42 Stat. 163; Pub. L. 85–909, § 2(1), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 114–237, § 2, Oct. 7, 2016, 130 Stat. 970.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Pub. L. 114–237, § 2(b)(1), substituted “In this chapter:” for “When used in this chapter—” in introductory provisions.
+2016—Pub. L. 114–237, § 2(b)(1), substituted “In this chapter:” for “When used in this chapter—” in introductory provisions.
 
-Subsec. (a). Pub. L. 114–237, § 2(b)(2), substituted period for semicolon at end.
+Subsec. (a). Pub. L. 114–237, § 2(b)(2), substituted period for semicolon at end.
 
-Subsec. (b). Pub. L. 114–237, § 2(b)(3)(B), substituted period for semicolon at end.
+Subsec. (b). Pub. L. 114–237, § 2(b)(3)(B), substituted period for semicolon at end.
 
-Pub. L. 114–237, § 2(b)(3)(A), which directed amendment of subsec. (b) by substituting “weighing” for “weighting”, could not be executed because the word “weighing” already appeared in text.
+Pub. L. 114–237, § 2(b)(3)(A), which directed amendment of subsec. (b) by substituting “weighing” for “weighting”, could not be executed because the word “weighing” already appeared in text.
 
-Subsec. (c). Pub. L. 114–237, § 2(a), substituted period for “; and” after “stockyard services” and inserted at end “Beginning on October 7, 2016, such term includes any person who engages in the business of buying or selling livestock, on a commission or other fee basis, through the use of online, video, or other electronic methods when handling or providing the means to handle receivables or proceeds from such buying or selling, so long as such person’s annual average of online, video, or electronic sales of livestock, on a commission or other fee basis, exceeds $250,000.”
+Subsec. (c). Pub. L. 114–237, § 2(a), substituted period for “; and” after “stockyard services” and inserted at end “Beginning on October 7, 2016, such term includes any person who engages in the business of buying or selling livestock, on a commission or other fee basis, through the use of online, video, or other electronic methods when handling or providing the means to handle receivables or proceeds from such buying or selling, so long as such person’s annual average of online, video, or electronic sales of livestock, on a commission or other fee basis, exceeds $250,000.”
 
 1976—Subsecs. (b) to (d). Pub. L. 94–410 substituted “livestock” for “live stock”.
 
 1958—Subsecs. (c), (d). Pub. L. 85–909 struck out “at a stockyard” after “livestock”.
 
-### § 202. “Stockyard” defined; determination by Secretary as to particular yard
+### § 202. “Stockyard” defined; determination by Secretary as to particular yard
 
 **(a)** When used in this subchapter the term “stockyard” means any place, establishment, or facility commonly known as stockyards, conducted, operated, or managed for profit or nonprofit as a public market for livestock producers, feeders, market agencies, and buyers, consisting of pens, or other inclosures, and their appurtenances, in which live cattle, sheep, swine, horses, mules, or goats are received, held, or kept for sale or shipment in commerce.
 
 **(b)** The Secretary shall from time to time ascertain, after such inquiry as he deems necessary, the stockyards which come within the foregoing definition, and shall give notice thereof to the stockyard owners concerned, and give public notice thereof by posting copies of such notice in the stockyard, and in such other manner as he may determine. After the giving of such notice to the stockyard owner and to the public, the stockyard shall remain subject to the provisions of this subchapter until like notice is given by the Secretary that such stockyard no longer comes within the foregoing definition.
 
-(Aug. 15, 1921, ch. 64, title III, § 302, 42 Stat. 163; Pub. L. 85–909, § 2(2), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, § 1(a), July 31, 1968, 82 Stat. 474.)
+(Aug. 15, 1921, ch. 64, title III, § 302, 42 Stat. 163; Pub. L. 85–909, § 2(2), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, § 1(a), July 31, 1968, 82 Stat. 474.)
 
 **Editorial Notes**
 
@@ -729,13 +729,13 @@ Subsec. (c). Pub. L. 114–237, § 2(a), substituted period for “; and” 
 
 **Transportation of Livestock**
 
-Pub. L. 85–909, § 2(2), Sept. 2, 1958, 72 Stat. 1750, provided in part: “That nothing herein [this section] shall be deemed a definition of the term ‘public stockyards’ as used in section 15(5) of the Interstate Commerce Act [former 49 U.S.C. 15(5)]”.
+Pub. L. 85–909, § 2(2), Sept. 2, 1958, 72 Stat. 1750, provided in part: “That nothing herein [this section] shall be deemed a definition of the term ‘public stockyards’ as used in section 15(5) of the Interstate Commerce Act [former 49 U.S.C. 15(5)]”.
 
-### § 203. Activity as stockyard dealer or market agency; benefits to business and welfare of stockyard; registration; penalty for failure to register
+### § 203. Activity as stockyard dealer or market agency; benefits to business and welfare of stockyard; registration; penalty for failure to register
 
 After the expiration of thirty days after the Secretary has given public notice that any stockyard is within the definition of section 202 of this title, by posting copies of such notice in the stockyard, no person shall carry on the business of a market agency or dealer at such stockyard unless (1) the stockyard owner has determined that his services will be beneficial to the business and welfare of said stockyard, its patrons, and customers, which determination shall be made on a basis which is not unreasonable or unjustly discriminatory, and has given written authorization to such person, and (2) he has registered with the Secretary, under such rules and regulations as the Secretary may prescribe, his name and address, the character of business in which he is engaged, and the kinds of stockyards services, if any, which he furnishes at such stockyard. Every other person operating as a market agency or dealer as defined in section 201 of this title may be required to register in such manner as the Secretary may prescribe. Whoever violates the provisions of this section shall be liable to a penalty of not more than $500 for each such offense and not more than $25 for each day it continues, which shall accrue to the United States and may be recovered in a civil action brought by the United States.
 
-(Aug. 15, 1921, ch. 64, title III, § 303, 42 Stat. 163; Pub. L. 85–909, § 2(3), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, § 1(b), July 31, 1968, 82 Stat. 474.)
+(Aug. 15, 1921, ch. 64, title III, § 303, 42 Stat. 163; Pub. L. 85–909, § 2(3), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, § 1(b), July 31, 1968, 82 Stat. 474.)
 
 **Editorial Notes**
 
@@ -745,11 +745,11 @@ After the expiration of thirty days after the Secretary has given public notice 
 
 1958—Pub. L. 85–909 inserted “Every other person operating as a market agency or dealer as defined in section 201 of this title may be required to register in such manner as the Secretary may prescribe.”
 
-### § 204. Bond and suspension of registrants
+### § 204. Bond and suspension of registrants
 
 On and after July 12, 1943, the Secretary may require reasonable bonds from every market agency (as defined in this subchapter), every packer (as defined in subchapter II of this chapter) in connection with its livestock purchasing operations (except that those packers whose average annual purchases do not exceed $500,000 will be exempt from the provisions of this paragraph), and every other person operating as a dealer (as defined in this subchapter) under such rules and regulations as he may prescribe, to secure the performance of their obligations, and whenever, after due notice and hearing, the Secretary finds any registrant is insolvent or has violated any provisions of this chapter he may issue an order suspending such registrant for a reasonable specified period. Such order of suspension shall take effect within not less than five days, unless suspended or modified or set aside by the Secretary or a court of competent jurisdiction. If the Secretary finds any packer is insolvent, he may after notice and hearing issue an order under the provisions of section 193 of this title requiring such packer to cease and desist from purchasing livestock while insolvent, or while insolvent purchasing livestock except under such conditions as the Secretary may prescribe to effectuate the purposes of this chapter.
 
-(July 12, 1943, ch. 215, 57 Stat. 422; Pub. L. 94–410, §§ 1, 4, Sept. 13, 1976, 90 Stat. 1249.)
+(July 12, 1943, ch. 215, 57 Stat. 422; Pub. L. 94–410, §§ 1, 4, Sept. 13, 1976, 90 Stat. 1249.)
 
 **Editorial Notes**
 
@@ -803,11 +803,11 @@ Feb. 10, 1925, ch. 200, 43 Stat. 851.
 
 June 5, 1924, ch. 266, 43 Stat. 460.
 
-### § 205. General duty as to services; revocation of registration
+### § 205. General duty as to services; revocation of registration
 
 All stockyard services furnished pursuant to reasonable request made to a stockyard owner or market agency at such stockyard shall be reasonable and nondiscriminatory and stockyard services which are furnished shall not be refused on any basis that is unreasonable or unjustly discriminatory: *Provided*, That in any State where the weighing of livestock at a stockyard is conducted by a duly authorized department or agency of the State, the Secretary, upon application of such department or agency, may register it as a market agency for the weighing of livestock received in such stockyard, and upon such registration such department or agency and the members thereof shall be amenable to all the requirements of this chapter, and upon failure of such department or agency or the members thereof to comply with the orders of the Secretary under this chapter he is authorized to revoke the registration of such department or agency and to enforce such revocation as provided in section 216 of this title.
 
-(Aug. 15, 1921, ch. 64, title III, § 304, 42 Stat. 164; May 5, 1926, ch. 240, 44 Stat. 397; Pub. L. 90–446, § 1(c), July 31, 1968, 82 Stat. 474.)
+(Aug. 15, 1921, ch. 64, title III, § 304, 42 Stat. 164; May 5, 1926, ch. 240, 44 Stat. 397; Pub. L. 90–446, § 1(c), July 31, 1968, 82 Stat. 474.)
 
 **Editorial Notes**
 
@@ -817,11 +817,11 @@ All stockyard services furnished pursuant to reasonable request made to a stocky
 
 1926—Act May 5, 1926, inserted proviso.
 
-### § 206. Rates and charges generally; discrimination
+### § 206. Rates and charges generally; discrimination
 
 All rates or charges made for any stockyard services furnished at a stockyard by a stockyard owner or market agency shall be just, reasonable, and nondiscriminatory, and any unjust, unreasonable, or discriminatory rate or charge is prohibited and declared to be unlawful: *Provided*, That rates and charges based upon percentages of the gross sales prices of livestock shall not be prohibited merely because they are based upon such percentages rather than on a per head basis.
 
-(Aug. 15, 1921, ch. 64, title III, § 305, 42 Stat. 164; Pub. L. 95–409, § 1(a), Oct. 2, 1978, 92 Stat. 886.)
+(Aug. 15, 1921, ch. 64, title III, § 305, 42 Stat. 164; Pub. L. 95–409, § 1(a), Oct. 2, 1978, 92 Stat. 886.)
 
 **Editorial Notes**
 
@@ -829,7 +829,7 @@ All rates or charges made for any stockyard services furnished at a stockyard by
 
 1978—Pub. L. 95–409 inserted proviso that rates and charges based upon percentages of gross sales of livestock shall not be prohibited merely because based on such percentages rather than on a per head basis.
 
-### § 207. Schedule of rates
+### § 207. Schedule of rates
 
 **(a) Filing; public inspection**
 
@@ -853,9 +853,9 @@ Whenever there is filed with the Secretary any schedule, stating a new rate or c
 
 **(f) Suspension of operations; compliance**
 
-After the expiration of the sixty days referred to in subsection (a) 1
+After the expiration of the sixty days referred to in subsection (a) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 no person shall carry on the business of a stockyard owner or market agency unless the rates and charges for the stockyard services furnished at the stockyard have been filed and published in accordance with this section and the orders of the Secretary made thereunder; nor charge, demand, or collect a greater or less or different compensation for such services than the rates and charges specified in the schedules filed and in effect at the time; nor refund or remit in any manner any portion of the rates or charges so specified (but this shall not prohibit a cooperative association of producers from bona fide returning to its members, on a patronage basis, its excess earnings on their livestock, subject to such regulations as the Secretary may prescribe); nor extend to any person at such stockyard any stockyard services except such as are specified in such schedules.
 
@@ -867,7 +867,7 @@ Whoever fails to comply with the provisions of this section or of any regulation
 
 Whoever willfully fails to comply with the provisions of this section or of any regulation or order of the Secretary made thereunder shall on conviction be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-(Aug. 15, 1921, ch. 64, title III, § 306, 42 Stat. 164; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title III, § 306, 42 Stat. 164; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249.)
 
 **Editorial Notes**
 
@@ -875,13 +875,13 @@ Whoever willfully fails to comply with the provisions of this section or of any 
 
 1976—Subsec. (f). Pub. L. 94–410 substituted “livestock” for “live stock” after “earnings on their”.
 
-### § 208. Unreasonable or discriminatory practices generally; rights of stockyard owner of management and regulation
+### § 208. Unreasonable or discriminatory practices generally; rights of stockyard owner of management and regulation
 
 **(a)** It shall be the duty of every stockyard owner and market agency to establish, observe, and enforce just, reasonable, and nondiscriminatory regulations and practices in respect to the furnishing of stockyard services, and every unjust, unreasonable, or discriminatory regulation or practice is prohibited and declared to be unlawful.
 
 **(b)** It shall be the responsibility and right of every stockyard owner to manage and regulate his stockyard in a just, reasonable, and nondiscriminatory manner, to prescribe rules and regulations and to require those persons engaging in or attempting to engage in the purchase, sale, or solicitation of livestock at such stockyard to conduct their operations in a manner which will foster, preserve, or insure an efficient, competitive public market. Such rules and regulations shall not prevent a registered market agency or dealer from rendering service on other markets or in occasional and incidental off-market transactions.
 
-(Aug. 15, 1921, ch. 64, title III, § 307, 42 Stat. 165; Pub. L. 90–446, § 1(d), July 31, 1968, 82 Stat. 475.)
+(Aug. 15, 1921, ch. 64, title III, § 307, 42 Stat. 165; Pub. L. 90–446, § 1(d), July 31, 1968, 82 Stat. 475.)
 
 **Editorial Notes**
 
@@ -889,13 +889,13 @@ Whoever willfully fails to comply with the provisions of this section or of any 
 
 1968—Pub. L. 90–446 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 209. Liability to individuals for violations; enforcement generally
+### § 209. Liability to individuals for violations; enforcement generally
 
 **(a)** If any person subject to this chapter violates any of the provisions of this chapter, or of any order of the Secretary under this chapter, relating to the purchase, sale, or handling of livestock, the purchase or sale of poultry, or relating to any poultry growing arrangement or swine production contract, he shall be liable to the person or persons injured thereby for the full amount of damages sustained in consequence of such violation.
 
 **(b)** Such liability may be enforced either (1) by complaint to the Secretary as provided in section 210 of this title, or (2) by suit in any district court of the United States of competent jurisdiction; but this section shall not in any way abridge or alter the remedies now existing at common law or by statute, but the provisions of this chapter are in addition to such remedies.
 
-(Aug. 15, 1921, ch. 64, title III, § 308, 42 Stat. 165; Pub. L. 94–410, § 6, Sept. 13, 1976, 90 Stat. 1250; Pub. L. 100–173, § 5, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, § 10502(b)(2)(B), May 13, 2002, 116 Stat. 510.)
+(Aug. 15, 1921, ch. 64, title III, § 308, 42 Stat. 165; Pub. L. 94–410, § 6, Sept. 13, 1976, 90 Stat. 1250; Pub. L. 100–173, § 5, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, § 10502(b)(2)(B), May 13, 2002, 116 Stat. 510.)
 
 **Editorial Notes**
 
@@ -913,7 +913,7 @@ Whoever willfully fails to comply with the provisions of this section or of any 
 
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under section 182 of this title.
 
-### § 210. Proceedings before Secretary for violations
+### § 210. Proceedings before Secretary for violations
 
 **(a) Complaint; response; satisfaction or investigation**
 
@@ -939,7 +939,7 @@ If after hearing on a complaint the Secretary determines that the complainant is
 
 If the defendant does not comply with an order for the payment of money within the time limit in such order, the complainant, or any person for whose benefit such order was made, may within one year of the date of the order file in the district court of the United States for the district in which he resides or in which is located the principal place of business of the defendant or in any State court having general jurisdiction of the parties, a petition setting forth briefly the causes for which he claims damages, and the order of the Secretary in the premises. Such suit in the district court shall proceed in all respects like other civil suits for damages except that the findings and orders of the Secretary shall be prima facie evidence of the facts therein stated, and the petitioner shall not be liable for costs in the district court nor for costs at any subsequent stage of the proceedings unless they accrue upon his appeal. If the petitioner finally prevails, he shall be allowed a reasonable attorney’s fee to be taxed and collected as a part of the costs of the suit.
 
-(Aug. 15, 1921, ch. 64, title III, § 309, 42 Stat. 165; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title III, § 309, 42 Stat. 165; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249.)
 
 **Editorial Notes**
 
@@ -947,7 +947,7 @@ If the defendant does not comply with an order for the payment of money within t
 
 1976—Subsec. (b). Pub. L. 94–410 substituted “livestock” for “live-stock” after “request of the”.
 
-### § 211. Order of Secretary as to charges or practices; prescribing rates and practices generally
+### § 211. Order of Secretary as to charges or practices; prescribing rates and practices generally
 
 Whenever after full hearing upon a complaint made as provided in section 210 of this title, or after full hearing under an order for investigation and hearing made by the Secretary on his own initiative, either in extension of any pending complaint or without any complaint whatever, the Secretary is of the opinion that any rate, charge, regulation, or practice of a stockyard owner or market agency, for or in connection with the furnishing of stockyard services, is or will be violative of section 205, 206, or 208 of this title, the Secretary—
 
@@ -955,27 +955,27 @@ Whenever after full hearing upon a complaint made as provided in section 210 of 
 
 **(b)** May make an order that such owner or operator (1) shall cease and desist from such violation to the extent to which the Secretary finds that it does or will exist; (2) shall not thereafter publish, demand, or collect any rate or charge for the furnishing of stockyard services other than the rate or charge or rates or charges so prescribed; and (3) shall conform to and observe the regulation or practice so prescribed.
 
-(Aug. 15, 1921, ch. 64, title III, § 310, 42 Stat. 166; Aug. 10, 1939, ch. 663, 53 Stat. 1351; Pub. L. 95–409, § 1(b), Oct. 2, 1978, 92 Stat. 886.)
+(Aug. 15, 1921, ch. 64, title III, § 310, 42 Stat. 166; Aug. 10, 1939, ch. 663, 53 Stat. 1351; Pub. L. 95–409, § 1(b), Oct. 2, 1978, 92 Stat. 886.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1978—Pub. L. 95–409, § 1(b)(1), in provision preceding subsec. (a), substituted “violative of section 205, 206 or 208 of this title” for “unjust, unreasonable, or discriminatory”.
+1978—Pub. L. 95–409, § 1(b)(1), in provision preceding subsec. (a), substituted “violative of section 205, 206 or 208 of this title” for “unjust, unreasonable, or discriminatory”.
 
-Subsec. (a). Pub. L. 95–409, § 1(b)(2), substituted “May in accordance with the standard set forth in section 206 of this title determine and prescribe what will be the rate” for “May determine and prescribe what will be the just and reasonable rate”, and “as the maximum or minimum or both” for “as both the maximum and minimum”, and inserted proviso relating to prescription by the Secretary of rates or charges on a percentage or per head basis at the election of the owner or agency or any other basis unless violative of section 206 of this title.
+Subsec. (a). Pub. L. 95–409, § 1(b)(2), substituted “May in accordance with the standard set forth in section 206 of this title determine and prescribe what will be the rate” for “May determine and prescribe what will be the just and reasonable rate”, and “as the maximum or minimum or both” for “as both the maximum and minimum”, and inserted proviso relating to prescription by the Secretary of rates or charges on a percentage or per head basis at the election of the owner or agency or any other basis unless violative of section 206 of this title.
 
-Subsec. (b). Pub. L. 95–409, § 1(b)(3), substituted “other than the rate or charge or rates or charges” for “more or less than the rate or charge”.
+Subsec. (b). Pub. L. 95–409, § 1(b)(3), substituted “other than the rate or charge or rates or charges” for “more or less than the rate or charge”.
 
 1939—Subsec. (a). Act Aug. 10, 1939, substituted “as both” for “or the”.
 
 Subsec. (b)(2). Act Aug. 10, 1939, substituted “more or less than the rate or charge so prescribed” for “other than the rate or charge so prescribed, or in excess of the maximum or less than the minimum so prescribed, as the case may be”.
 
-### § 212. Prescribing rates and practices to prevent discrimination between intrastate and interstate commerce
+### § 212. Prescribing rates and practices to prevent discrimination between intrastate and interstate commerce
 
 Whenever in any investigation under the provisions of this subchapter, or in any investigation instituted by petition of the stockyard owner, market agency, or dealer concerned, which petition is authorized to be filed, the Secretary after full hearing finds that any rate, charge, regulation, or practice of any stockyard owner, market agency, or dealer, for or in connection with the buying or selling on a commission basis or otherwise, receiving, marketing, feeding, holding, delivery, shipment, weighing, or handling, not in commerce, of livestock, causes any undue or unreasonable advantage, prejudice, or preference as between persons or localities in intrastate commerce in livestock on the one hand and interstate or foreign commerce in livestock on the other hand, or any undue, unjust, or unreasonable discrimination against interstate or foreign commerce in livestock, which is hereby forbidden and declared to be unlawful, the Secretary shall prescribe the rate, charge, regulation, or practice thereafter to be observed, in such manner as, in his judgment, will remove such advantage, preference, or discrimination. Such rates, charges, regulations, or practices shall be observed while in effect by the stockyard owners, market agencies, or dealers parties to such proceeding affected thereby, the law of any State or the decision or order of any State authority to the contrary notwithstanding.
 
-(Aug. 15, 1921, ch. 64, title III, § 311, 42 Stat. 167; Pub. L. 85–909, § 2(4), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title III, § 311, 42 Stat. 167; Pub. L. 85–909, § 2(4), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 94–410, § 3(c), Sept. 13, 1976, 90 Stat. 1249.)
 
 **Editorial Notes**
 
@@ -985,39 +985,39 @@ Whenever in any investigation under the provisions of this subchapter, or in any
 
 1958—Pub. L. 85–909 substituted “stockyard owner, market agency, or dealer” for “stockyard owner or market agency” wherever occurring, and “stockyard owners, market agencies, or dealers” for “stockyard owners or market agencies”.
 
-### § 213. Prevention of unfair, discriminatory, or deceptive practices
+### § 213. Prevention of unfair, discriminatory, or deceptive practices
 
 **(a)** It shall be unlawful for any stockyard owner, market agency, or dealer to engage in or use any unfair, unjustly discriminatory, or deceptive practice or device in connection with determining whether persons should be authorized to operate at the stockyards, or with the receiving, marketing, buying, or selling on a commission basis or otherwise, feeding, watering, holding, delivery, shipment, weighing, or handling of livestock.
 
 **(b)** Whenever complaint is made to the Secretary by any person, or whenever the Secretary has reason to believe, that any stockyard owner, market agency, or dealer is violating the provisions of subsection (a), the Secretary after notice and full hearing may make an order that he shall cease and desist from continuing such violation to the extent that the Secretary finds that it does or will exist. The Secretary may also assess a civil penalty of not more than $10,000 for each such violation. In determining the amount of the civil penalty to be assessed under this section, the Secretary shall consider the gravity of the offense, the size of the business involved, and the effect of the penalty on the person’s ability to continue in business. If, after the lapse of the period allowed for appeal or after the affirmance of such penalty, the person against whom the civil penalty is assessed fails to pay such penalty, the Secretary may refer the matter to the Attorney General who may recover such penalty by an action in the appropriate district court of the United States.
 
-(Aug. 15, 1921, ch. 64, title III, § 312, 42 Stat. 167; Pub. L. 85–909, § 2(5), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, § 1(e), July 31, 1968, 82 Stat. 475; Pub. L. 94–410, § 3, Sept. 13, 1976, 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title III, § 312, 42 Stat. 167; Pub. L. 85–909, § 2(5), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, § 1(e), July 31, 1968, 82 Stat. 475; Pub. L. 94–410, § 3, Sept. 13, 1976, 90 Stat. 1249.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–410, § 3(a), (c), struck out “in commerce” after “or handling” and substituted “livestock” for “live stock”.
+1976—Subsec. (a). Pub. L. 94–410, § 3(a), (c), struck out “in commerce” after “or handling” and substituted “livestock” for “live stock”.
 
-Subsec. (b). Pub. L. 94–410, § 3(b), inserted provisions dealing with authority of Secretary to assess a civil penalty for violations and, upon failure to pay, procedure for recovery of such penalty.
+Subsec. (b). Pub. L. 94–410, § 3(b), inserted provisions dealing with authority of Secretary to assess a civil penalty for violations and, upon failure to pay, procedure for recovery of such penalty.
 
 1968—Subsec. (a). Pub. L. 90–446 inserted “determining whether persons should be authorized to operate at stockyards, or with” after “in connection with”.
 
 1958—Subsec. (a). Pub. L. 85–909 struck out “at a stockyard” after “in commerce”.
 
-### § 214. Effective date of orders
+### § 214. Effective date of orders
 
 Except as otherwise provided in this chapter all orders of the Secretary under this subchapter, other than orders for the payment of money, shall take effect within such reasonable time, not less than five days, as is prescribed in the order, and shall continue in force until his further order, or for a specified period of time, according as is prescribed in the order, unless such order is suspended or modified or set aside by the Secretary or is suspended or set aside by a court of competent jurisdiction.
 
-(Aug. 15, 1921, ch. 64, title III, § 313, 42 Stat. 167.)
+(Aug. 15, 1921, ch. 64, title III, § 313, 42 Stat. 167.)
 
-### § 215. Failure to obey orders; punishment
+### § 215. Failure to obey orders; punishment
 
 **(a)** Any stockyard owner, market agency, or dealer who knowingly fails to obey any order made under the provisions of sections 211, 212, or 213 of this title shall forfeit to the United States the sum of $500 for each offense. Each distinct violation shall be a separate offense, and in case of a continuing violation each day shall be deemed a separate offense. Such forfeiture shall be recoverable in a civil suit in the name of the United States.
 
 **(b)** It shall be the duty of the various United States attorneys, under the direction of the Attorney General, to prosecute for the recovery of forfeitures. The costs and expense of such prosecution shall be paid out of the appropriation for the expenses of the courts of the United States.
 
-(Aug. 15, 1921, ch. 64, title III, § 314, 42 Stat. 167; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+(Aug. 15, 1921, ch. 64, title III, § 314, 42 Stat. 167; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1025,11 +1025,11 @@ Except as otherwise provided in this chapter all orders of the Secretary under t
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys” in subsec. (a). See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-### § 216. Proceedings to enforce orders; injunction
+### § 216. Proceedings to enforce orders; injunction
 
 If any stockyard owner, market agency, or dealer fails to obey any order of the Secretary other than for the payment of money while the same is in effect, the Secretary, or any party injured thereby, or the United States by its Attorney General, may apply to the district court for the district in which such person has his principal place of business for the enforcement of such order. If after hearing the court determines that the order was lawfully made and duly served and that such person is in disobedience of the same, the court shall enforce obedience to such order by a writ of injunction or other proper process, mandatory or otherwise, to restrain such person, his officers, agents, or representatives from further disobedience of such order or to enjoin upon him or them obedience to the same.
 
-(Aug. 15, 1921, ch. 64, title III, § 315, 42 Stat. 167.)
+(Aug. 15, 1921, ch. 64, title III, § 315, 42 Stat. 167.)
 
 **Court Rules**
 
@@ -1037,11 +1037,11 @@ If any stockyard owner, market agency, or dealer fails to obey any order of the 
 
 Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
 
-### § 217. Proceedings for suspension of orders
+### § 217. Proceedings for suspension of orders
 
 For the purposes of this subchapter, the provisions of all laws relating to the suspending or restraining the enforcement, operation, or execution of, or the setting aside in whole or in part the orders of the Interstate Commerce Commission, are made applicable to the jurisdiction, powers, and duties of the Secretary in enforcing the provisions of this subchapter, and to any person subject to the provisions of this subchapter.
 
-(Aug. 15, 1921, ch. 64, title III, § 316, 42 Stat. 168.)
+(Aug. 15, 1921, ch. 64, title III, § 316, 42 Stat. 168.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1049,7 +1049,7 @@ For the purposes of this subchapter, the provisions of all laws relating to the 
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
-### § 217a. Fees for inspection of brands or marks
+### § 217a. Fees for inspection of brands or marks
 
 **(a) Authorization by Secretary; registration as market agency**
 
@@ -1067,7 +1067,7 @@ Charges authorized to be made under this section shall be collected by the marke
 
 The Secretary may, if he deems it to be in the public interest, suspend, and after hearing, revoke any authorization and registration issued under the provisions of this section or any similar authorization and registration issued under any other provision of law. The order of the Secretary suspending or revoking any such authorization and registration shall not be subject to review.
 
-(Aug. 15, 1921, ch. 64, title III, § 317, as added June 19, 1942, ch. 421, 56 Stat. 372.)
+(Aug. 15, 1921, ch. 64, title III, § 317, as added June 19, 1942, ch. 421, 56 Stat. 372.)
 
 **Editorial Notes**
 
@@ -1081,7 +1081,7 @@ Former provisions relating to fees for inspection of brands appearing upon lives
 
 Court of appeals exclusive jurisdiction respecting final orders of Secretary of Agriculture under this chapter, except orders issued under section 210(e) of this title and this section, see section 2342 of Title 28, Judiciary and Judicial Procedure.
 
-### § 217b. Statutory trust established; dealer
+### § 217b. Statutory trust established; dealer
 
 **(a) Establishment**
 
@@ -1135,21 +1135,21 @@ A transfer of livestock subject to a dealer trust is not for value if the transf
 
 **(3)** file suit in the United States district court for the district in which the dealer resides to enjoin the dealer’s failure to perform the duties required by this section, preserve trust assets, and to enforce the trust. Attorneys employed by the Secretary may, with the approval of the Attorney General, represent the Secretary in any such suit. Nothing herein shall preclude unpaid sellers from filing suit to preserve or enforce the trust.
 
-(Aug. 15, 1921, ch. 64, title III, § 318, as added Pub. L. 116–260, div. N, title VII, § 763, Dec. 27, 2020, 134 Stat. 2114.)
+(Aug. 15, 1921, ch. 64, title III, § 318, as added Pub. L. 116–260, div. N, title VII, § 763, Dec. 27, 2020, 134 Stat. 2114.)
 
 ## SUBCHAPTER IV—LIVE POULTRY DEALERS AND HANDLERS
 
-### §§ 218 to 218d. Repealed. Pub. L. 100–173, § 10, Nov. 23, 1987, 101 Stat. 922
+### §§ 218 to 218d. Repealed. Pub. L. 100–173, § 10, Nov. 23, 1987, 101 Stat. 922
 
-Section 218, act Aug. 15, 1921, ch. 64, title V, § 501, as added Aug. 14, 1935, ch. 532, 49 Stat. 648, stated necessity to curb unfair, deceptive, and fraudulent practices relating to live poultry.
+Section 218, act Aug. 15, 1921, ch. 64, title V, § 501, as added Aug. 14, 1935, ch. 532, 49 Stat. 648, stated necessity to curb unfair, deceptive, and fraudulent practices relating to live poultry.
 
-Section 218a, act Aug. 15, 1921, ch. 64, title V, § 502, as added Aug. 14, 1935, ch. 532, 49 Stat. 648, authorized Secretary to designate cities and markets where unfair practices exist, to require licensing, and to prescribe information to be contained in application license, and authorized penalty for dealing without license.
+Section 218a, act Aug. 15, 1921, ch. 64, title V, § 502, as added Aug. 14, 1935, ch. 532, 49 Stat. 648, authorized Secretary to designate cities and markets where unfair practices exist, to require licensing, and to prescribe information to be contained in application license, and authorized penalty for dealing without license.
 
-Section 218b, act Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649, defined “live poultry dealer”.
+Section 218b, act Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649, defined “live poultry dealer”.
 
-Section 218c, act Aug. 15, 1921, ch. 64, title V, § 504, as added Aug. 14, 1935, ch. 532, 49 Stat. 649, related to application of other provisions of this chapter to this subchapter and posting of rates, charges, and rentals in licensee’s place of business.
+Section 218c, act Aug. 15, 1921, ch. 64, title V, § 504, as added Aug. 14, 1935, ch. 532, 49 Stat. 649, related to application of other provisions of this chapter to this subchapter and posting of rates, charges, and rentals in licensee’s place of business.
 
-Section 218d, act Aug. 15, 1921, ch. 64, title V, § 505, as added Aug. 14, 1935, ch. 532, 49 Stat. 649, related to suspension and revocation of licenses.
+Section 218d, act Aug. 15, 1921, ch. 64, title V, § 505, as added Aug. 14, 1935, ch. 532, 49 Stat. 649, related to suspension and revocation of licenses.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1159,11 +1159,11 @@ Repeal effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–17
 
 ## SUBCHAPTER V—GENERAL PROVISIONS
 
-### § 221. Accounts and records of business; punishment for failure to keep
+### § 221. Accounts and records of business; punishment for failure to keep
 
 Every packer, any swine contractor, and any live poultry dealer, stockyard owner, market agency, and dealer shall keep such accounts, records, and memoranda as fully and correctly disclose all transactions involved in his business, including the true ownership of such business by stockholding or otherwise. Whenever the Secretary finds that the accounts, records, and memoranda of any such person do not fully and correctly disclose all transactions involved in his business, the Secretary may prescribe the manner and form in which such accounts, records, and memoranda shall be kept, and thereafter any such person who fails to keep such accounts, records, and memoranda in the manner and form prescribed or approved by the Secretary shall upon conviction be fined not more than $5,000, or imprisoned not more than three years, or both.
 
-(Aug. 15, 1921, ch. 64, title IV, § 401, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; Pub. L. 100–173, § 6, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, § 10502(b)(2)(C), May 13, 2002, 116 Stat. 510.)
+(Aug. 15, 1921, ch. 64, title IV, § 401, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; Pub. L. 100–173, § 6, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, § 10502(b)(2)(C), May 13, 2002, 116 Stat. 510.)
 
 **Editorial Notes**
 
@@ -1171,9 +1171,9 @@ Every packer, any swine contractor, and any live poultry dealer, stockyard owner
 
 2002—Pub. L. 107–171 inserted “any swine contractor, and” after “packer,”.
 
-1987—Pub. L. 100–173 substituted “, any live poultry dealer,” for “or any live poultry dealer or handler,”.
+1987—Pub. L. 100–173 substituted “, any live poultry dealer,” for “or any live poultry dealer or handler,”.
 
-1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
+1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1183,31 +1183,31 @@ Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see sectio
 
 **Liens or Security Interests Against Livestock; Interagency Task Force To Recommend Method of Providing Information to Purchasers; Report to Congress**
 
-Pub. L. 95–409, § 2, Oct. 2, 1978, 92 Stat. 887, required the Secretary of Agriculture to appoint a task force to recommend methods of providing information to purchasers of livestock concerning the existence of a lien or security interest against livestock and to submit a report to Congress not later than Feb. 1, 1979.
+Pub. L. 95–409, § 2, Oct. 2, 1978, 92 Stat. 887, required the Secretary of Agriculture to appoint a task force to recommend methods of providing information to purchasers of livestock concerning the existence of a lien or security interest against livestock and to submit a report to Congress not later than Feb. 1, 1979.
 
-### § 222. Federal Trade Commission powers adopted for enforcement of chapter
+### § 222. Federal Trade Commission powers adopted for enforcement of chapter
 
 For the efficient execution of the provisions of this chapter, and in order to provide information for the use of Congress, the provisions (including penalties) of sections 46 and 48 to 50 of title 15, are made applicable to the jurisdiction, powers, and duties of the Secretary in enforcing the provisions of this chapter and to any person subject to the provisions of this chapter, whether or not a corporation. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States.
 
-(Aug. 15, 1921, ch. 64, title IV, § 402, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649.)
+(Aug. 15, 1921, ch. 64, title IV, § 402, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1935—Act Aug. 15, 1921, § 503, as added Aug. 14, 1935, purported to insert “or any live poultry dealer or handler” after “packer” but word “packer” does not appear in this section.
+1935—Act Aug. 15, 1921, § 503, as added Aug. 14, 1935, purported to insert “or any live poultry dealer or handler” after “packer” but word “packer” does not appear in this section.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
+Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 223. Responsibility of principal for act or omission of agent
+### § 223. Responsibility of principal for act or omission of agent
 
 When construing and enforcing the provisions of this chapter, the act, omission, or failure of any agent, officer, or other person acting for or employed by any packer, any swine contractor, and any live poultry dealer, stockyard owner, market agency, or dealer, within the scope of his employment or office, shall in every case also be deemed the act, omission, or failure of such packer, any swine contractor, and any live poultry dealer, stockyard owner, market agency, or dealer, as well as that of such agent, officer, or other person.
 
-(Aug. 15, 1921, ch. 64, title IV, § 403, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; amended Pub. L. 100–173, § 6, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, § 10502(b)(2)(C), May 13, 2002, 116 Stat. 510.)
+(Aug. 15, 1921, ch. 64, title IV, § 403, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; amended Pub. L. 100–173, § 6, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, § 10502(b)(2)(C), May 13, 2002, 116 Stat. 510.)
 
 **Editorial Notes**
 
@@ -1215,9 +1215,9 @@ When construing and enforcing the provisions of this chapter, the act, omission,
 
 2002—Pub. L. 107–171 inserted “any swine contractor, and” after “packer,” in two places.
 
-1987—Pub. L. 100–173 substituted “, any live poultry dealer,” for “or any live poultry dealer or handler,” in two places.
+1987—Pub. L. 100–173 substituted “, any live poultry dealer,” for “or any live poultry dealer or handler,” in two places.
 
-1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
+1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1225,29 +1225,29 @@ When construing and enforcing the provisions of this chapter, the act, omission,
 
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under section 182 of this title.
 
-### § 224. Attorney General to institute court proceedings for enforcement
+### § 224. Attorney General to institute court proceedings for enforcement
 
 The Secretary may report any violation of this chapter to the Attorney General of the United States, who shall cause appropriate proceedings to be commenced and prosecuted in the proper courts of the United States without delay.
 
-(Aug. 15, 1921, ch. 64, title IV, § 404, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649.)
+(Aug. 15, 1921, ch. 64, title IV, § 404, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, § 503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, purported to insert “or any live poultry dealer or handler” after “packer” but word “packer” does not appear in this section.
+1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, purported to insert “or any live poultry dealer or handler” after “packer” but word “packer” does not appear in this section.
 
-### § 225. Laws unaffected
+### § 225. Laws unaffected
 
 Nothing contained in this chapter, except as otherwise provided herein, shall be construed—
 
-**(a)** To prevent or interfere with the enforcement of, or the procedure under, the provisions of the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July 2, 1890, the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes,” approved October 15, 1914, the Interstate Commerce Act as amended, the Act entitled “An Act to promote export trade, and for other purposes,” approved April 10, 1918 [15 U.S.C. 61 et seq.] or sections 73 to 76, inclusive, of the Act of August 27, 1894, entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” as amended by the Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February 12, 1913, or
+**(a)** To prevent or interfere with the enforcement of, or the procedure under, the provisions of the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July 2, 1890, the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes,” approved October 15, 1914, the Interstate Commerce Act as amended, the Act entitled “An Act to promote export trade, and for other purposes,” approved April 10, 1918 [15 U.S.C. 61 et seq.] or sections 73 to 76, inclusive, of the Act of August 27, 1894, entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” as amended by the Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February 12, 1913, or
 
 **(b)** To alter, modify, or repeal such Acts or any part or parts thereof, or
 
 **(c)** To prevent or interfere with any investigation, proceeding, or prosecution begun and pending on August 15, 1921.
 
-(Aug. 15, 1921, ch. 64, title IV, § 405, 42 Stat. 168; Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(C), Nov. 2, 2002, 116 Stat. 1921.)
+(Aug. 15, 1921, ch. 64, title IV, § 405, 42 Stat. 168; Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(C), Nov. 2, 2002, 116 Stat. 1921.)
 
 **Editorial Notes**
 
@@ -1257,9 +1257,9 @@ The Act entitled “An Act to protect trade and commerce against unlawful restra
 
 The Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies and for other purposes”, approved October 15, 1914, referred to in subsec. (a), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of the Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, which was classified to chapters 1 (§ 1 et seq.), 8 (§ 301 et seq.), 12 (§ 901 et seq.), 13 (§ 1001 et seq.), and 19 (1231 et seq.) of Title 49, Transportation. The Act was repealed by Pub. L. 95–473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
+The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, which was classified to chapters 1 (§ 1 et seq.), 8 (§ 301 et seq.), 12 (§ 901 et seq.), 13 (§ 1001 et seq.), and 19 (1231 et seq.) of Title 49, Transportation. The Act was repealed by Pub. L. 95–473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
-The Act entitled “An Act to promote export trade and for other purposes”, approved April 10, 1918, referred to in subsec. (a), means act Apr. 10, 1918, ch. 50, 40 Stat. 516, known as the Webb-Pomerene Act, which is classified generally to subchapter II (§ 61 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 66 of Title 15 and Tables.
+The Act entitled “An Act to promote export trade and for other purposes”, approved April 10, 1918, referred to in subsec. (a), means act Apr. 10, 1918, ch. 50, 40 Stat. 516, known as the Webb-Pomerene Act, which is classified generally to subchapter II (§ 61 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 66 of Title 15 and Tables.
 
 Sections 73 to 76, inclusive, of the Act of August 27, 1894, entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, referred to in subsec. (a), are sections 73 to 76 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, and are known as the Wilson Tariff Act. Sections 73 to 76 enacted sections 8 to 11 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
 
@@ -1275,11 +1275,11 @@ The Act entitled “An Act to amend sections seventy-three and seventy-six of th
 
 Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of Title 15, Commerce and Trade.
 
-### § 226. Powers of Interstate Commerce Commission unaffected
+### § 226. Powers of Interstate Commerce Commission unaffected
 
 Nothing in this chapter shall affect the power or jurisdiction of the Interstate Commerce Commission, nor confer upon the Secretary concurrent power or jurisdiction over any matter within the power or jurisdiction of such commission.
 
-(Aug. 15, 1921, ch. 64, title IV, § 406(a), 42 Stat. 169.)
+(Aug. 15, 1921, ch. 64, title IV, § 406(a), 42 Stat. 169.)
 
 **Editorial Notes**
 
@@ -1293,7 +1293,7 @@ Section is comprised of subsec. (a) of section 406, of act Aug. 15, 1921. Subsec
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
-### § 227. Powers of Federal Trade Commission and Secretary of Agriculture
+### § 227. Powers of Federal Trade Commission and Secretary of Agriculture
 
 **(a) Omitted**
 
@@ -1321,7 +1321,7 @@ The Secretary of Agriculture shall exercise jurisdiction over poultry products o
 
 The Secretary of Agriculture and the Federal Trade Commission shall include in their respective annual reports information with respect to the administration of subsections (b), (d), and (e) of this section.
 
-(Aug. 15, 1921, ch. 64, title IV, § 406, 42 Stat. 169; Pub. L. 85–909, § 1(2), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 100–173, § 7, Nov. 23, 1987, 101 Stat. 919; Pub. L. 102–237, title X, § 1008(2), Dec. 13, 1991, 105 Stat. 1898.)
+(Aug. 15, 1921, ch. 64, title IV, § 406, 42 Stat. 169; Pub. L. 85–909, § 1(2), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 100–173, § 7, Nov. 23, 1987, 101 Stat. 919; Pub. L. 102–237, title X, § 1008(2), Dec. 13, 1991, 105 Stat. 1898.)
 
 **Editorial Notes**
 
@@ -1333,17 +1333,17 @@ Subsection (a) of section 406 is classified to section 226 of this title.
 
 1991—Subsec. (b)(2). Pub. L. 102–237 struck out comma after “unmanufactured form,”.
 
-1987—Subsec. (b)(2). Pub. L. 100–173, § 7(1)(A)(ii), which directed insertion of “or” before “livestock products in unmanufactured form.” was executed by making insertion before “livestock products in unmanufactured form,” as the probable intent of Congress.
+1987—Subsec. (b)(2). Pub. L. 100–173, § 7(1)(A)(ii), which directed insertion of “or” before “livestock products in unmanufactured form.” was executed by making insertion before “livestock products in unmanufactured form,” as the probable intent of Congress.
 
-Pub. L. 100–173, § 7(1)(A)(i), struck out “or poultry products” after “in unmanufactured form,”.
+Pub. L. 100–173, § 7(1)(A)(i), struck out “or poultry products” after “in unmanufactured form,”.
 
-Subsec. (b)(3). Pub. L. 100–173, § 7(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Over all transactions in commerce in margarine or oleomargarine and over retail sales of meat, meat food products, livestock products in unmanufactured form, and poultry products.”
+Subsec. (b)(3). Pub. L. 100–173, § 7(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Over all transactions in commerce in margarine or oleomargarine and over retail sales of meat, meat food products, livestock products in unmanufactured form, and poultry products.”
 
-Subsec. (d). Pub. L. 100–173, § 7(2), amended subsec. (d) generally, striking out reference to poultry products in two places and substituting “10 days” for “ten days”.
+Subsec. (d). Pub. L. 100–173, § 7(2), amended subsec. (d) generally, striking out reference to poultry products in two places and substituting “10 days” for “ten days”.
 
-Subsec. (e). Pub. L. 100–173, § 7(3), (4), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsec. (e). Pub. L. 100–173, § 7(3), (4), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-Subsec. (f). Pub. L. 100–173, § 7(3), (5), redesignated former subsec. (e) as (f) and substituted “subsections (b), (d), and (e)” for “subsections (b) and (d)”.
+Subsec. (f). Pub. L. 100–173, § 7(3), (5), redesignated former subsec. (e) as (f) and substituted “subsections (b), (d), and (e)” for “subsections (b) and (d)”.
 
 1958—Pub. L. 85–909 substituted subsecs. (b) to (e) for former provisions providing that Federal Trade Commission shall have no power or jurisdiction over matters within jurisdiction of Secretary of Agriculture except when Secretary requests Commission to make investigations and reports in any case, which were incorporated in subsecs. (b)(1) and (c).
 
@@ -1355,7 +1355,7 @@ Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see sectio
 
 **Construction of 1987 Amendments**
 
-Pub. L. 100–173, § 11, Nov. 23, 1987, 101 Stat. 922, provided that:
+Pub. L. 100–173, § 11, Nov. 23, 1987, 101 Stat. 922, provided that:
 
 > **“(a) General Rule.—** The amendments made by this Act [see Short Title of 1987 Amendment note set out under section 181 of this title] to the Packers and Stockyards Act, 1921 [7 U.S.C. 181 et seq.], shall not be construed to limit or otherwise affect the power or jurisdiction of the Federal Trade Commission under the Federal Trade Commission Act [15 U.S.C. 41 et seq.] to prevent the use of—
 
@@ -1371,9 +1371,9 @@ Pub. L. 100–173, § 11, Nov. 23, 1987, 101 Stat. 922, provided that:
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
+Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 228. Authority of Secretary
+### § 228. Authority of Secretary
 
 **(a) Rules, regulations, and expenditures; appropriations**
 
@@ -1401,19 +1401,19 @@ On or before February 15 of each calendar year beginning with calendar year 1977
 
 **(2)** the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
 
-(Aug. 15, 1921, ch. 64, title IV, § 407, 42 Stat. 169; Pub. L. 85–909, § 4, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 88–61, July 8, 1963, 77 Stat. 79; Pub. L. 94–410, § 11, Sept. 13, 1976, 90 Stat. 1252; Pub. L. 103–354, title II, § 293(b), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 103–437, § 4(a)(2), Nov. 2, 1994, 108 Stat. 4581.)
+(Aug. 15, 1921, ch. 64, title IV, § 407, 42 Stat. 169; Pub. L. 85–909, § 4, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 88–61, July 8, 1963, 77 Stat. 79; Pub. L. 94–410, § 11, Sept. 13, 1976, 90 Stat. 1252; Pub. L. 103–354, title II, § 293(b), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 103–437, § 4(a)(2), Nov. 2, 1994, 108 Stat. 4581.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (b). Pub. L. 103–354, § 293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
+1994—Subsec. (b). Pub. L. 103–354, § 293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
 
 Subsec. (c). Pub. L. 103–437, which directed the amendment of subsec. (d) by substituting “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”, was executed by making the amendment to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (c) by Pub. L. 103–354. See below.
 
-Pub. L. 103–354, § 293(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+Pub. L. 103–354, § 293(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsecs. (d) to (f). Pub. L. 103–354, § 293(b)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e) substituted “subsection (d)” for “subsection (e)”.
+Subsecs. (d) to (f). Pub. L. 103–354, § 293(b)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e) substituted “subsection (d)” for “subsection (e)”.
 
 1976—Subsecs. (d) to (f). Pub. L. 94–410 added subsecs. (d) to (f).
 
@@ -1425,7 +1425,7 @@ Subsecs. (d) to (f). Pub. L. 103–354, § 293(b)(2), (3), redesignated subsec
 
 **Regulations**
 
-Pub. L. 110–234, title XI, § 11006, May 22, 2008, 122 Stat. 1358, and Pub. L. 110–246, § 4(a), title XI, § 11006, June 18, 2008, 122 Stat. 1664, 2120, provided that:
+Pub. L. 110–234, title XI, § 11006, May 22, 2008, 122 Stat. 1358, and Pub. L. 110–246, § 4(a), title XI, § 11006, June 18, 2008, 122 Stat. 1664, 2120, provided that:
 
 > “As soon as practicable, but not later than 2 years after the date of the enactment of this Act [June 18, 2008], the Secretary of Agriculture shall promulgate regulations with respect to the Packers and Stockyards Act, 1921 (7 U.S.C. 181 et seq.) to establish criteria that the Secretary will consider in determining—
 
@@ -1439,17 +1439,17 @@ Pub. L. 110–234, title XI, § 11006, May 22, 2008, 122 Stat. 1358, and Pub. 
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-### § 228a. Authority of Secretary to request temporary injunction or restraining order
+### § 228a. Authority of Secretary to request temporary injunction or restraining order
 
 Whenever the Secretary has reason to believe that any person subject to this chapter (a) with respect to any transactions subject to this chapter, has failed to pay or is unable to pay for livestock, meats, meat food products, or livestock products in unmanufactured form, or live poultry, or has failed to pay any poultry grower what is due on account of poultry obtained under a poultry growing arrangement, or has failed to remit to the person entitled thereto the net proceeds from the sale of any such commodity sold on a commission basis; or (b) has operated while insolvent, or otherwise in violation of this chapter in a manner which may reasonably be expected to cause irreparable damage to another person; or (c) does not have the required bond; and that it would be in the public interest to enjoin such person from operating subject to this chapter or enjoin him from operating subject to this chapter except under such conditions as would protect vendors or consignors of such commodities or other affected persons, until a complaint under this chapter is issued and dismissed by the Secretary or until an order to cease and desist made thereon by the Secretary has become final and effective within the meaning of this chapter or is set aside on appellate review of the Secretary’s order, the Secretary may notify the Attorney General, who may apply to the United States district court for the district in which such person has his principal place of business or in which he resides for a temporary injunction or restraining order. When needed to effectuate the purposes of this section, the court shall, upon a proper showing, issue a temporary injunction or restraining order, without bond. Attorneys employed by the Secretary of Agriculture may, with the approval of the Attorney General, appear in the United States district court representing the Secretary in any action seeking such a temporary restraining order or injunction.
 
-(Aug. 15, 1921, ch. 64, title IV, § 408, as added Pub. L. 94–410, § 5, Sept. 13, 1976, 90 Stat. 1250; amended Pub. L. 100–173, § 8, Nov. 23, 1987, 101 Stat. 919.)
+(Aug. 15, 1921, ch. 64, title IV, § 408, as added Pub. L. 94–410, § 5, Sept. 13, 1976, 90 Stat. 1250; amended Pub. L. 100–173, § 8, Nov. 23, 1987, 101 Stat. 919.)
 
 **Editorial Notes**
 
 **Codification**
 
-A prior section 228a, act Sept. 21, 1944, ch. 412, title I, § 101(c), 58 Stat. 734, which related to inspections of livestock, hides, animal products, etc., was transferred to section 396 of this title.
+A prior section 228a, act Sept. 21, 1944, ch. 412, title I, § 101(c), 58 Stat. 734, which related to inspections of livestock, hides, animal products, etc., was transferred to section 396 of this title.
 
 **Prior Provisions**
 
@@ -1465,7 +1465,7 @@ A prior section 408 of act Aug. 15, 1921, was renumbered section 417 and is clas
 
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under section 182 of this title.
 
-### § 228b. Prompt payment for purchase of livestock
+### § 228b. Prompt payment for purchase of livestock
 
 **(a) Full amount of purchase price required; methods of payment**
 
@@ -1479,15 +1479,15 @@ Notwithstanding the provisions of subsection (a) of this section and subject to 
 
 Any delay or attempt to delay by a market agency, dealer, or packer purchasing livestock, the collection of funds as herein provided, or otherwise for the purpose of or resulting in extending the normal period of payment for such livestock shall be considered an “unfair practice” in violation of this chapter. Nothing in this section shall be deemed to limit the meaning of the term “unfair practice” as used in this chapter.
 
-(Aug. 15, 1921, ch. 64, title IV, § 409, as added Pub. L. 94–410, § 7, Sept. 13, 1976, 90 Stat. 1250; amended Pub. L. 114–237, § 3, Oct. 7, 2016, 130 Stat. 970.)
+(Aug. 15, 1921, ch. 64, title IV, § 409, as added Pub. L. 94–410, § 7, Sept. 13, 1976, 90 Stat. 1250; amended Pub. L. 114–237, § 3, Oct. 7, 2016, 130 Stat. 970.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–237, § 3, substituted “shall transfer funds for the full amount of the purchase price to the account of the seller by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary” for “shall wire transfer funds to the seller’s account” in two places in first proviso and “or dealer shall transfer funds for the full amount of the purchase price by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary” for “or dealer shall wire transfer funds” in second proviso.
+2016—Subsec. (a). Pub. L. 114–237, § 3, substituted “shall transfer funds for the full amount of the purchase price to the account of the seller by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary” for “shall wire transfer funds to the seller’s account” in two places in first proviso and “or dealer shall transfer funds for the full amount of the purchase price by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary” for “or dealer shall wire transfer funds” in second proviso.
 
-### § 228b–1. Final date for making payment to cash seller or poultry grower
+### § 228b–1. Final date for making payment to cash seller or poultry grower
 
 **(a) Delivery of full amount due**
 
@@ -1501,7 +1501,7 @@ Any delay or attempt to delay, by a live poultry dealer which is a party to any 
 
 For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
 
-(Aug. 15, 1921, ch. 64, title IV, § 410, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 920.)
+(Aug. 15, 1921, ch. 64, title IV, § 410, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 920.)
 
 **Editorial Notes**
 
@@ -1515,7 +1515,7 @@ A prior section 410 of act Aug. 15, 1921, was renumbered section 414 and is clas
 
 Section effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.
 
-### § 228b–2. Violations by live poultry dealers
+### § 228b–2. Violations by live poultry dealers
 
 **(a) Written complaint by Secretary; hearing; intervention; amended complaint**
 
@@ -1533,7 +1533,7 @@ Until the record in such hearing has been filed in a court of appeals of the Uni
 
 Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in section 45 of title 15.
 
-(Aug. 15, 1921, ch. 64, title IV, § 411, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 920.)
+(Aug. 15, 1921, ch. 64, title IV, § 411, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 920.)
 
 **Editorial Notes**
 
@@ -1547,7 +1547,7 @@ A prior section 411 of act Aug. 15, 1921, was renumbered section 417 and is clas
 
 Section effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.
 
-### § 228b–3. Judicial review of order regarding live poultry dealer
+### § 228b–3. Judicial review of order regarding live poultry dealer
 
 **(a) Finality of order unless appeal to court of appeals; time limit; bond**
 
@@ -1581,7 +1581,7 @@ If the court of appeals affirms or modifies the order of the Secretary, its decr
 
 The court of appeals shall have jurisdiction which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28, if such writ is duly applied for within 60 days after entry of the decree. The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction, unless so ordered by the Supreme Court.
 
-(Aug. 15, 1921, ch. 64, title IV, § 412, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 921.)
+(Aug. 15, 1921, ch. 64, title IV, § 412, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 921.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1589,7 +1589,7 @@ The court of appeals shall have jurisdiction which upon the filing of the record
 
 Section effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.
 
-### § 228b–4. Violation of final order by live poultry dealer; penalty
+### § 228b–4. Violation of final order by live poultry dealer; penalty
 
 Any live poultry dealer, or any officer, director, agent, or employee of a live poultry dealer, who fails to obey any order of the Secretary issued under the provisions of section 228b–2 of this title, or such order as modified—
 
@@ -1601,7 +1601,7 @@ Any live poultry dealer, or any officer, director, agent, or employee of a live 
 
 shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during which such failure continues shall be deemed a separate offense.
 
-(Aug. 15, 1921, ch. 64, title IV, § 413, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 922.)
+(Aug. 15, 1921, ch. 64, title IV, § 413, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 922.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1609,13 +1609,13 @@ shall on conviction be fined not less than $1,000 nor more than $20,000. Each da
 
 Section effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.
 
-### § 228c. Federal preemption of State and local requirements
+### § 228c. Federal preemption of State and local requirements
 
 No requirement of any State or territory of the United States, or any subdivision thereof, or the District of Columbia, with respect to bonding of packers or prompt payment by packers for livestock purchases may be enforced upon any packer operating in compliance with the bonding provisions under section 204 of this title, and prompt payment provisions of section 228b of this title, respectively: *Provided*, That this section shall not preclude a State from enforcing a requirement, with respect to payment for livestock purchased by a packer at a stockyard subject to this chapter, which is not in conflict with this chapter or regulations thereunder: *Provided further*, That this section shall not preclude a State from enforcing State law or regulations with respect to any packer not subject to this chapter or section 204 of this title.
 
-(Aug. 15, 1921, ch. 64, title IV, § 414, formerly § 410, as added Pub. L. 94–410, § 9, Sept. 13, 1976, 90 Stat. 1252; renumbered § 414, Pub. L. 100–173, § 9(1), Nov. 23, 1987, 101 Stat. 919.)
+(Aug. 15, 1921, ch. 64, title IV, § 414, formerly § 410, as added Pub. L. 94–410, § 9, Sept. 13, 1976, 90 Stat. 1252; renumbered § 414, Pub. L. 100–173, § 9(1), Nov. 23, 1987, 101 Stat. 919.)
 
-### § 228d. Annual assessment of cattle and hog industries
+### § 228d. Annual assessment of cattle and hog industries
 
 Not later than March 1 of each year, the Secretary shall submit to Congress and make publicly available a report that—
 
@@ -1625,7 +1625,7 @@ Not later than March 1 of each year, the Secretary shall submit to Congress and 
 
 **(3)** identifies market operations or activities in those industries that appear to raise concerns under this chapter.
 
-(Aug. 15, 1921, ch. 64, title IV, § 415, as added Pub. L. 106–472, title III, § 312(e)(2), Nov. 9, 2000, 114 Stat. 2077.)
+(Aug. 15, 1921, ch. 64, title IV, § 415, as added Pub. L. 106–472, title III, § 312(e)(2), Nov. 9, 2000, 114 Stat. 2077.)
 
 **Editorial Notes**
 
@@ -1633,9 +1633,9 @@ Not later than March 1 of each year, the Secretary shall submit to Congress and 
 
 A prior section 415 of act Aug. 15, 1921, was renumbered section 417 and is classified to section 229c of this title.
 
-### § 229. Repealed. Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, § 4(a), title XI, § 11004(b), June 18, 2008, 122 Stat. 1664, 2118
+### § 229. Repealed. Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, § 4(a), title XI, § 11004(b), June 18, 2008, 122 Stat. 1664, 2118
 
-Section, act Aug. 15, 1921, ch. 64, title IV, § 416, as added Pub. L. 110–234, title XI, § 11004(a)(2), May 22, 2008, 122 Stat. 1355, and Pub. L. 110–246, § 4(a), title XI, § 11004(a)(2), June 18, 2008, 122 Stat. 1664, 2117, related to annual reports about investigations and enforcement actions.
+Section, act Aug. 15, 1921, ch. 64, title IV, § 416, as added Pub. L. 110–234, title XI, § 11004(a)(2), May 22, 2008, 122 Stat. 1355, and Pub. L. 110–246, § 4(a), title XI, § 11004(a)(2), June 18, 2008, 122 Stat. 1664, 2117, related to annual reports about investigations and enforcement actions.
 
 **Editorial Notes**
 
@@ -1653,13 +1653,13 @@ Another prior section 416 of act Aug. 15, 1921, was classified to section 229a o
 
 **Effective Date of Repeal**
 
-Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, § 4(a), title XI, § 11004(b), June 18, 2008, 122 Stat. 1664, 2118, provided that the repeal of this section is effective Sept. 30, 2012 [extended to Sept. 30, 2013, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title].
+Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, § 4(a), title XI, § 11004(b), June 18, 2008, 122 Stat. 1664, 2118, provided that the repeal of this section is effective Sept. 30, 2012 [extended to Sept. 30, 2013, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title].
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-### § 229a. Repealed. Pub. L. 106–78, title IX, § 913(a), Oct. 22, 1999, 113 Stat. 1205
+### § 229a. Repealed. Pub. L. 106–78, title IX, § 913(a), Oct. 22, 1999, 113 Stat. 1205
 
-Section, act Aug. 15, 1921, ch. 64, title IV, § 416, as added Pub. L. 105–277, div. A, § 101(a) [title XI, § 1127(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–46, related to mandatory domestic reporting pilot investigation.
+Section, act Aug. 15, 1921, ch. 64, title IV, § 416, as added Pub. L. 105–277, div. A, § 101(a) [title XI, § 1127(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–46, related to mandatory domestic reporting pilot investigation.
 
 **Termination of Repeal**
 
@@ -1671,7 +1671,7 @@ For termination of repeal by section 942 of Pub. L. 106–78, see Livestock Mand
 
 Repeal by Pub. L. 106–78 to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 
-### § 229b. Right to discuss terms of contract
+### § 229b. Right to discuss terms of contract
 
 **(a) Definitions** In this section:
 
@@ -1709,7 +1709,7 @@ The term “processor” means any person engaged in the business of obtaining l
 
 This section applies to each contract described in subsection (b) that is entered into, amended, renewed, or extended after May 13, 2002.
 
-(Pub. L. 107–171, title X, § 10503, May 13, 2002, 116 Stat. 510.)
+(Pub. L. 107–171, title X, § 10503, May 13, 2002, 116 Stat. 510.)
 
 **Editorial Notes**
 
@@ -1717,11 +1717,11 @@ This section applies to each contract described in subsection (b) that is entere
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Packers and Stockyards Act, 1921, which comprises this chapter.
 
-### § 229c. Separability
+### § 229c. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Aug. 15, 1921, ch. 64, title IV, § 417, formerly § 408, 42 Stat. 169; renumbered § 411, Pub. L. 94–410, § 5, Sept. 13, 1976, 90 Stat. 1250; renumbered § 415, Pub. L. 100–173, § 9(1), Nov. 23, 1987, 101 Stat. 919; renumbered § 416, Pub. L. 106–472, title III, § 312(e)(1), Nov. 9, 2000, 114 Stat. 2077; renumbered § 417, Pub. L. 110–234, title XI, § 11004(a)(1), May 22, 2008, 122 Stat. 1355, and Pub. L. 110–246, § 4(a), title XI, § 11004(a)(1), June 18, 2008, 122 Stat. 1664, 2117.)
+(Aug. 15, 1921, ch. 64, title IV, § 417, formerly § 408, 42 Stat. 169; renumbered § 411, Pub. L. 94–410, § 5, Sept. 13, 1976, 90 Stat. 1250; renumbered § 415, Pub. L. 100–173, § 9(1), Nov. 23, 1987, 101 Stat. 919; renumbered § 416, Pub. L. 106–472, title III, § 312(e)(1), Nov. 9, 2000, 114 Stat. 2077; renumbered § 417, Pub. L. 110–234, title XI, § 11004(a)(1), May 22, 2008, 122 Stat. 1355, and Pub. L. 110–246, § 4(a), title XI, § 11004(a)(1), June 18, 2008, 122 Stat. 1664, 2117.)
 
 **Editorial Notes**
 
@@ -1733,7 +1733,7 @@ Section was formerly classified to section 229 of this title.
 
 ## SUBCHAPTER VI—CHARGE FOR INSPECTION
 
-### § 231. Omitted
+### § 231. Omitted
 
 **Editorial Notes**
 

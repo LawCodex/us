@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Title XXVI of the Energy Policy Act of 1992, comprising this chapter, was originally enacted by Pub. L. 102–486, title XXVI, Oct. 24, 1992, 106 Stat. 3113, and amended by Pub. L. 103–437, Nov. 2, 1994, 108 Stat. 4581; Pub. L. 105–388, Nov. 13, 1998, 112 Stat. 3477. Title XXVI is shown herein, however, as having been added by Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 764, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 109–58.
+Title XXVI of the Energy Policy Act of 1992, comprising this chapter, was originally enacted by Pub. L. 102–486, title XXVI, Oct. 24, 1992, 106 Stat. 3113, and amended by Pub. L. 103–437, Nov. 2, 1994, 108 Stat. 4581; Pub. L. 105–388, Nov. 13, 1998, 112 Stat. 3477. Title XXVI is shown herein, however, as having been added by Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 764, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 109–58.
 
-## § 3501. Definitions
+## § 3501. Definitions
 
 In this chapter:
 
@@ -61,7 +61,7 @@ In this chapter:
 
 **(A)** The term “Indian tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B)** For the purpose of paragraph (12) and sections 3503(b)(1)(C) and 3504 of this title, the term “Indian tribe” does not include any Native Corporation.
 
@@ -91,43 +91,43 @@ In this chapter:
 
 **(13)** The term “tribal land” means any land or interests in land owned by any Indian tribe, title to which is held in trust by the United States, or is subject to a restriction against alienation under laws of the United States.
 
-(Pub. L. 102–486, title XXVI, § 2601, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 764; amended Pub. L. 115–325, title I, § 105(a), Dec. 18, 2018, 132 Stat. 4455; Pub. L. 116–260, div. Z, title VIII, § 8013(a), Dec. 27, 2020, 134 Stat. 2592.)
+(Pub. L. 102–486, title XXVI, § 2601, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 764; amended Pub. L. 115–325, title I, § 105(a), Dec. 18, 2018, 132 Stat. 4455; Pub. L. 116–260, div. Z, title VIII, § 8013(a), Dec. 27, 2020, 134 Stat. 2592.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in pars. (4)(A) and (9)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§ 5321 et seq.) and generally to subchapter IV (§ 5361 et seq.), respectively, of chapter 46 of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in pars. (4)(A) and (9)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§ 5321 et seq.) and generally to subchapter IV (§ 5361 et seq.), respectively, of chapter 46 of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 3501, Pub. L. 102–486, title XXVI, § 2601, Oct. 24, 1992, 106 Stat. 3113, defined terms, prior to the general amendment of this chapter by Pub. L. 109–58.
+A prior section 3501, Pub. L. 102–486, title XXVI, § 2601, Oct. 24, 1992, 106 Stat. 3113, defined terms, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 **Amendments**
 
 2020—Par. (2)(D), (E). Pub. L. 116–260 added subpars. (D) and (E).
 
-2018—Pars. (9) to (11). Pub. L. 115–325, § 105(a)(1), (2), added par. (9) and redesignated former pars. (9) and (10) as (10) and (11), respectively. Former par. (11) redesignated (12).
+2018—Pars. (9) to (11). Pub. L. 115–325, § 105(a)(1), (2), added par. (9) and redesignated former pars. (9) and (10) as (10) and (11), respectively. Former par. (11) redesignated (12).
 
-Par. (12). Pub. L. 115–325, § 105(a)(3), added par. (12) and struck out former par. (12) which read as follows: “The term ‘tribal energy resource development organization’ means an organization of two or more entities, at least one of which is an Indian tribe, that has the written consent of the governing bodies of all Indian tribes participating in the organization to apply for a grant, loan, or other assistance under section 3502 of this title.”
+Par. (12). Pub. L. 115–325, § 105(a)(3), added par. (12) and struck out former par. (12) which read as follows: “The term ‘tribal energy resource development organization’ means an organization of two or more entities, at least one of which is an Indian tribe, that has the written consent of the governing bodies of all Indian tribes participating in the organization to apply for a grant, loan, or other assistance under section 3502 of this title.”
 
-Pub. L. 115–325, § 105(a)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+Pub. L. 115–325, § 105(a)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
-Par. (13). Pub. L. 115–325, § 105(a)(1), redesignated par. (12) as (13).
+Par. (13). Pub. L. 115–325, § 105(a)(1), redesignated par. (12) as (13).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–325, § 1, Dec. 18, 2018, 132 Stat. 4445, provided that: “This Act [enacting sections 167 and 3507 of this title, amending this section, sections 415, 3115a, 3502 to 3504, and 3506 of this title, section 800 of Title 16, Conservation, and section 6863 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 3104 and 3504 of this title and section 800 of Title 16] may be cited as the ‘Indian Tribal Energy Development and Self-Determination Act Amendments of 2017’.”
+Pub. L. 115–325, § 1, Dec. 18, 2018, 132 Stat. 4445, provided that: “This Act [enacting sections 167 and 3507 of this title, amending this section, sections 415, 3115a, 3502 to 3504, and 3506 of this title, section 800 of Title 16, Conservation, and section 6863 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 3104 and 3504 of this title and section 800 of Title 16] may be cited as the ‘Indian Tribal Energy Development and Self-Determination Act Amendments of 2017’.”
 
 **Consultation With Indian Tribes**
 
-Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: “In carrying out this title [enacting this chapter, section 7144e of Title 42, The Public Health and Welfare, and subchapter V (§ 16001) of chapter 149 of Title 42, amending section 4132 of this title and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 15801 of Title 42] and the amendments made by this title, the Secretary [of Energy] and the Secretary of the Interior shall, as appropriate and to the maximum extent practicable, involve and consult with Indian tribes.”
+Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: “In carrying out this title [enacting this chapter, section 7144e of Title 42, The Public Health and Welfare, and subchapter V (§ 16001) of chapter 149 of Title 42, amending section 4132 of this title and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 15801 of Title 42] and the amendments made by this title, the Secretary [of Energy] and the Secretary of the Interior shall, as appropriate and to the maximum extent practicable, involve and consult with Indian tribes.”
 
-## § 3502. Indian tribal energy resource development
+## § 3502. Indian tribal energy resource development
 
 **(a) Department of the Interior program**
 
@@ -253,7 +253,7 @@ Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that:
 
 **(B)** obtain less than prevailing market terms and conditions.
 
-(Pub. L. 102–486, title XXVI, § 2602, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 765; amended Pub. L. 115–325, title I, §§ 101, 104, 105(b), Dec. 18, 2018, 132 Stat. 4445, 4455, 4456; Pub. L. 116–260, div. Z, title VIII, § 8013(b), (c), Dec. 27, 2020, 134 Stat. 2592, 2593; Pub. L. 117–169, title V, § 50145(b), Aug. 16, 2022, 136 Stat. 2046.)
+(Pub. L. 102–486, title XXVI, § 2602, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 765; amended Pub. L. 115–325, title I, §§ 101, 104, 105(b), Dec. 18, 2018, 132 Stat. 4445, 4455, 4456; Pub. L. 116–260, div. Z, title VIII, § 8013(b), (c), Dec. 27, 2020, 134 Stat. 2592, 2593; Pub. L. 117–169, title V, § 50145(b), Aug. 16, 2022, 136 Stat. 2046.)
 
 **Editorial Notes**
 
@@ -263,39 +263,39 @@ August 8, 2005, referred to in subsec. (c)(7), was in the original “the date o
 
 **Prior Provisions**
 
-A prior section 3502, Pub. L. 102–486, title XXVI, § 2602, Oct. 24, 1992, 106 Stat. 3113, related to tribal consultation in implementing provisions, prior to the general amendment of this chapter by Pub. L. 109–58.
+A prior section 3502, Pub. L. 102–486, title XXVI, § 2602, Oct. 24, 1992, 106 Stat. 3113, related to tribal consultation in implementing provisions, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 **Amendments**
 
-2022—Subsec. (c)(1). Pub. L. 117–169 substituted “, except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)) for” for “) for an amount equal to not more than 90 percent of”.
+2022—Subsec. (c)(1). Pub. L. 117–169 substituted “, except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)) for” for “) for an amount equal to not more than 90 percent of”.
 
-Subsec. (c)(4). Pub. L. 117–169, § 50145(b)(2), substituted “$20,000,000,000” for “$2,000,000,000”.
+Subsec. (c)(4). Pub. L. 117–169, § 50145(b)(2), substituted “$20,000,000,000” for “$2,000,000,000”.
 
-2020—Subsec. (b)(5)(D), (E). Pub. L. 116–260, § 8013(b), added subpars. (D) and (E).
+2020—Subsec. (b)(5)(D), (E). Pub. L. 116–260, § 8013(b), added subpars. (D) and (E).
 
-Subsec. (b)(7). Pub. L. 116–260, § 8013(c), substituted “$30,000,000 for each of fiscal years 2021 through 2025” for “$20,000,000 for each of fiscal years 2006 through 2016”.
+Subsec. (b)(7). Pub. L. 116–260, § 8013(c), substituted “$30,000,000 for each of fiscal years 2021 through 2025” for “$20,000,000 for each of fiscal years 2006 through 2016”.
 
-2018—Subsec. (a)(1). Pub. L. 115–325, § 105(b)(1)(A), substituted “tribal energy development organizations” for “tribal energy resource development organizations”.
+2018—Subsec. (a)(1). Pub. L. 115–325, § 105(b)(1)(A), substituted “tribal energy development organizations” for “tribal energy resource development organizations”.
 
-Subsec. (a)(2). Pub. L. 115–325, § 105(b)(1)(B), substituted “tribal energy development organizations” for “tribal energy resource development organizations” wherever appearing.
+Subsec. (a)(2). Pub. L. 115–325, § 105(b)(1)(B), substituted “tribal energy development organizations” for “tribal energy resource development organizations” wherever appearing.
 
-Subsec. (a)(2)(E). Pub. L. 115–325, § 101(a)(1), added subpar. (E).
+Subsec. (a)(2)(E). Pub. L. 115–325, § 101(a)(1), added subpar. (E).
 
-Subsec. (a)(4). Pub. L. 115–325, § 101(a)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 115–325, § 101(a)(2), added par. (4).
 
-Subsec. (b)(2). Pub. L. 115–325, §§ 101(b)(1), 105(b)(2), substituted “Indian tribe, intertribal organization, or tribal energy development organization” for “Indian tribe or tribal energy resource development organization” in introductory provisions.
+Subsec. (b)(2). Pub. L. 115–325, §§ 101(b)(1), 105(b)(2), substituted “Indian tribe, intertribal organization, or tribal energy development organization” for “Indian tribe or tribal energy resource development organization” in introductory provisions.
 
-Subsec. (b)(2)(C) to (E). Pub. L. 115–325, § 101(b)(2), (3), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+Subsec. (b)(2)(C) to (E). Pub. L. 115–325, § 101(b)(2), (3), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-Subsec. (b)(3) to (7). Pub. L. 115–325, § 104, added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+Subsec. (b)(3) to (7). Pub. L. 115–325, § 104, added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
-Subsec. (c)(1). Pub. L. 115–325, § 101(c)(1), inserted “or a tribal energy development organization” after “Indian tribe”.
+Subsec. (c)(1). Pub. L. 115–325, § 101(c)(1), inserted “or a tribal energy development organization” after “Indian tribe”.
 
-Subsec. (c)(3). Pub. L. 115–325, § 101(c)(2)(A), substituted “guaranteed” for “guarantee” in introductory provisions.
+Subsec. (c)(3). Pub. L. 115–325, § 101(c)(2)(A), substituted “guaranteed” for “guarantee” in introductory provisions.
 
-Subsec. (c)(3)(C). Pub. L. 115–325, § 101(c)(2)(B)–(D), added subpar. (C).
+Subsec. (c)(3)(C). Pub. L. 115–325, § 101(c)(2)(B)–(D), added subpar. (C).
 
-Subsec. (c)(5). Pub. L. 115–325, § 101(c)(3), substituted “Not later than 1 year after December 18, 2018, the Secretary of Energy shall” for “The Secretary of Energy may”.
+Subsec. (c)(5). Pub. L. 115–325, § 101(c)(3), substituted “Not later than 1 year after December 18, 2018, the Secretary of Energy shall” for “The Secretary of Energy may”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -303,7 +303,7 @@ Subsec. (c)(5). Pub. L. 115–325, § 101(c)(3), substituted “Not later than
 
 Pub. L. 117–328, div. D, title III, Dec. 29, 2022, 136 Stat. 4637, provided in part: “That in this fiscal year and subsequent fiscal years, under section 2602(c) of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)), the Secretary of Energy may also provide direct loans, as defined in section 502 of the Congressional Budget Act of 1974 (2 U.S.C. 661a): *Provided further*, That such direct loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest: *Provided further*, That any funds previously appropriated for the cost of loan guarantees under section 2602(c) of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)) may also be used, in this fiscal year and subsequent fiscal years, for the cost of direct loans provided under such section of such Act”.
 
-## § 3503. Indian tribal energy resource regulation
+## § 3503. Indian tribal energy resource regulation
 
 **(a) Grants**
 
@@ -341,21 +341,21 @@ The Secretary may provide to Indian tribes, on an annual basis, grants for use i
 
 **(B)** indirectly, by providing financial assistance to an Indian tribe or tribal energy development organization to secure independent assistance.
 
-(Pub. L. 102–486, title XXVI, § 2603, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 768; amended Pub. L. 115–325, title I, § 102, Dec. 18, 2018, 132 Stat. 4447.)
+(Pub. L. 102–486, title XXVI, § 2603, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 768; amended Pub. L. 115–325, title I, § 102, Dec. 18, 2018, 132 Stat. 4447.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106 Stat. 3114; Pub. L. 105–388, § 10, Nov. 13, 1998, 112 Stat. 3484, related to promotion of energy resource development and energy vertical integration on Indian reservations, prior to the general amendment of this chapter by Pub. L. 109–58.
+A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106 Stat. 3114; Pub. L. 105–388, § 10, Nov. 13, 1998, 112 Stat. 3484, related to promotion of energy resource development and energy vertical integration on Indian reservations, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 **Amendments**
 
-2018—Subsec. (c)(1). Pub. L. 115–325, § 102(1), substituted “on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization” for “on the request of an Indian tribe, the Indian tribe”.
+2018—Subsec. (c)(1). Pub. L. 115–325, § 102(1), substituted “on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization” for “on the request of an Indian tribe, the Indian tribe”.
 
-Subsec. (c)(2)(B). Pub. L. 115–325, § 102(2), inserted “or tribal energy development organization” after “Indian tribe”.
+Subsec. (c)(2)(B). Pub. L. 115–325, § 102(2), inserted “or tribal energy development organization” after “Indian tribe”.
 
-## § 3504. Leases, business agreements, and rights-of-way involving energy development or transmission
+## § 3504. Leases, business agreements, and rights-of-way involving energy development or transmission
 
 **(a) Leases and business agreements** In accordance with this section—
 
@@ -505,7 +505,7 @@ No lease or business agreement entered into, or right-of-way granted, pursuant t
 
 **(ii)** if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iv)(XI),1
 
-<sup>1</sup>  So in original. Probably should be “subparagraph (B)(iii)(XI)”.
+<sup>1</sup> So in original. Probably should be “subparagraph (B)(iii)(XI)”.
 
 results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
 
@@ -725,55 +725,55 @@ Nothing in this section waives the sovereign immunity of an Indian tribe.
 
 There are authorized to be appropriated to the Secretary such sums as are necessary for each of fiscal years 2006 through 2016 to carry out this section and to make grants or provide other appropriate assistance to Indian tribes to assist the Indian tribes in developing and implementing tribal energy resource agreements in accordance with this section.
 
-(Pub. L. 102–486, title XXVI, § 2604, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 769; amended Pub. L. 115–325, title I, §§ 103(a), 105(d), Dec. 18, 2018, 132 Stat. 4447, 4456.)
+(Pub. L. 102–486, title XXVI, § 2604, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 769; amended Pub. L. 115–325, title I, §§ 103(a), 105(d), Dec. 18, 2018, 132 Stat. 4447, 4456.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (e)(2)(B)(iii)(XII)(aa) and (h)(2)(A)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§ 5321 et seq.) and generally to subchapter IV (§ 5361 et seq.), respectively, of chapter 46 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (e)(2)(B)(iii)(XII)(aa) and (h)(2)(A)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§ 5321 et seq.) and generally to subchapter IV (§ 5361 et seq.), respectively, of chapter 46 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f)(2), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f)(2), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
-The Indian Mineral Development Act of 1982, referred to in subsec. (f)(3), is Pub. L. 97–382, Dec. 22, 1982, 96 Stat. 1938, which is classified generally to chapter 23 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+The Indian Mineral Development Act of 1982, referred to in subsec. (f)(3), is Pub. L. 97–382, Dec. 22, 1982, 96 Stat. 1938, which is classified generally to chapter 23 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
 Section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017, referred to in subsecs. (g)(4) and (h)(1), is section 103(b) of Pub. L. 115–325, which is set out as a note under this section.
 
 **Prior Provisions**
 
-A prior section 3504, Pub. L. 102–486, title XXVI, § 2604, Oct. 24, 1992, 106 Stat. 3114, related to Indian energy resource regulation, prior to the general amendment of this chapter by Pub. L. 109–58.
+A prior section 3504, Pub. L. 102–486, title XXVI, § 2604, Oct. 24, 1992, 106 Stat. 3114, related to Indian energy resource regulation, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 **Amendments**
 
-2018—Subsec. (a)(1)(A). Pub. L. 115–325, § 103(a)(1)(A)(i), struck out “or” at end.
+2018—Subsec. (a)(1)(A). Pub. L. 115–325, § 103(a)(1)(A)(i), struck out “or” at end.
 
-Subsec. (a)(1)(B)(i). Pub. L. 115–325, § 103(a)(1)(A)(ii)(I), added cl. (i) and struck out former cl. (i) which read as follows: “an electric generation, transmission, or distribution facility located on tribal land; or”.
+Subsec. (a)(1)(B)(i). Pub. L. 115–325, § 103(a)(1)(A)(ii)(I), added cl. (i) and struck out former cl. (i) which read as follows: “an electric generation, transmission, or distribution facility located on tribal land; or”.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 115–325, § 103(a)(1)(A)(ii)(II), substituted “energy resources, at least a portion of which have been developed on or produced from tribal land; or” for “energy resources developed on tribal land; and”.
+Subsec. (a)(1)(B)(ii). Pub. L. 115–325, § 103(a)(1)(A)(ii)(II), substituted “energy resources, at least a portion of which have been developed on or produced from tribal land; or” for “energy resources developed on tribal land; and”.
 
-Subsec. (a)(1)(C). Pub. L. 115–325, § 103(a)(1)(A)(iii), added subpar. (C).
+Subsec. (a)(1)(C). Pub. L. 115–325, § 103(a)(1)(A)(iii), added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 115–325, § 103(a)(1)(B), added par. (2) and struck out former par. (2) which set out conditions under which a lease or business agreement described in par. (1) would not require review or approval.
+Subsec. (a)(2). Pub. L. 115–325, § 103(a)(1)(B), added par. (2) and struck out former par. (2) which set out conditions under which a lease or business agreement described in par. (1) would not require review or approval.
 
-Subsec. (b). Pub. L. 115–325, § 103(a)(2), added subsec. (b) and struck out former subsec. (b) which related to rights-of-way for pipelines or electric transmission or distribution lines.
+Subsec. (b). Pub. L. 115–325, § 103(a)(2), added subsec. (b) and struck out former subsec. (b) which related to rights-of-way for pipelines or electric transmission or distribution lines.
 
-Subsec. (d). Pub. L. 115–325, § 103(a)(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No lease, business agreement, or right-of-way relating to the development of tribal energy resources under this section shall be valid unless the lease, business agreement, or right-of-way is authorized by a tribal energy resource agreement approved by the Secretary under subsection (e)(2).”
+Subsec. (d). Pub. L. 115–325, § 103(a)(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No lease, business agreement, or right-of-way relating to the development of tribal energy resources under this section shall be valid unless the lease, business agreement, or right-of-way is authorized by a tribal energy resource agreement approved by the Secretary under subsection (e)(2).”
 
-Subsec. (e)(1). Pub. L. 115–325, § 103(a)(4)(A), added par. (1) and struck out former par. (1) which read as follows: “On the date on which regulations are promulgated under paragraph (8), an Indian tribe may submit to the Secretary for approval a tribal energy resource agreement governing leases, business agreements, and rights-of-way under this section.”
+Subsec. (e)(1). Pub. L. 115–325, § 103(a)(4)(A), added par. (1) and struck out former par. (1) which read as follows: “On the date on which regulations are promulgated under paragraph (8), an Indian tribe may submit to the Secretary for approval a tribal energy resource agreement governing leases, business agreements, and rights-of-way under this section.”
 
-Subsec. (e)(2). Pub. L. 115–325, § 103(a)(4)(B)(i), inserted heading.
+Subsec. (e)(2). Pub. L. 115–325, § 103(a)(4)(B)(i), inserted heading.
 
-Subsec. (e)(2)(A). Pub. L. 115–325, § 103(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “Not later than 270 days after the date on which the Secretary receives a tribal energy resource agreement from an Indian tribe under paragraph (1), or not later than 60 days after the Secretary receives a revised tribal energy resource agreement from an Indian tribe under paragraph (4)(C) (or a later date, as agreed to by the Secretary and the Indian tribe), the Secretary shall approve or disapprove the tribal energy resource agreement.”
+Subsec. (e)(2)(A). Pub. L. 115–325, § 103(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “Not later than 270 days after the date on which the Secretary receives a tribal energy resource agreement from an Indian tribe under paragraph (1), or not later than 60 days after the Secretary receives a revised tribal energy resource agreement from an Indian tribe under paragraph (4)(C) (or a later date, as agreed to by the Secretary and the Indian tribe), the Secretary shall approve or disapprove the tribal energy resource agreement.”
 
-Subsec. (e)(2)(B). Pub. L. 115–325, § 103(a)(4)(B)(ii)(I), inserted heading and substituted “The Secretary shall disapprove a tribal energy resource agreement submitted pursuant to paragraph (1) or (4)(B) only if” for “The Secretary shall approve a tribal energy resource agreement submitted under paragraph (1) if” in introductory provisions.
+Subsec. (e)(2)(B). Pub. L. 115–325, § 103(a)(4)(B)(ii)(I), inserted heading and substituted “The Secretary shall disapprove a tribal energy resource agreement submitted pursuant to paragraph (1) or (4)(B) only if” for “The Secretary shall approve a tribal energy resource agreement submitted under paragraph (1) if” in introductory provisions.
 
-Subsec. (e)(2)(B)(i), (ii). Pub. L. 115–325, § 103(a)(4)(B)(ii)(I), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (e)(2)(B)(i), (ii). Pub. L. 115–325, § 103(a)(4)(B)(ii)(I), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) the Secretary determines that the Indian tribe has demonstrated that the Indian tribe has sufficient capacity to regulate the development of energy resources of the Indian tribe;
 
 “(ii) the tribal energy resource agreement includes provisions required under subparagraph (D); and”.
 
-Subsec. (e)(2)(B)(iii). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(bb), (cc), redesignated subcls. (III), (IV), (VI), (VII), (IX) to (XIV), and (XVI) as (I), (II), (III), (IV), (V) to (X), and (XI), respectively, and struck out former subcls. (I), (II), (V), (VIII), and (XV) which read as follows:
+Subsec. (e)(2)(B)(iii). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(bb), (cc), redesignated subcls. (III), (IV), (VI), (VII), (IX) to (XIV), and (XVI) as (I), (II), (III), (IV), (V) to (X), and (XI), respectively, and struck out former subcls. (I), (II), (V), (VIII), and (XV) which read as follows:
 
 “(I) ensure the acquisition of necessary information from the applicant for the lease, business agreement, or right-of-way;
 
@@ -785,27 +785,27 @@ Subsec. (e)(2)(B)(iii). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(bb), (cc), 
 
 “(XV) specify the financial assistance, if any, to be provided by the Secretary to the Indian tribe to assist in implementation of the tribal energy resource agreement, including environmental review of individual projects; and”.
 
-Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(aa), substituted “does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies” for “includes provisions that, with respect to a lease, business agreement, or right-of-way under this section” in introductory provisions.
+Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(aa), substituted “does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies” for “includes provisions that, with respect to a lease, business agreement, or right-of-way under this section” in introductory provisions.
 
-Subsec. (e)(2)(B)(iii)(XI)(bb). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(dd), substituted “Federal environmental laws;” for “Federal or tribal environmental laws.”
+Subsec. (e)(2)(B)(iii)(XI)(bb). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(dd), substituted “Federal environmental laws;” for “Federal or tribal environmental laws.”
 
-Subsec. (e)(2)(B)(iii)(XII), (XIII). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(ee), added subcls. (XII) and (XIII). Former subcls. (XII) and (XIII) redesignated (VIII) and (IX), respectively.
+Subsec. (e)(2)(B)(iii)(XII), (XIII). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(ee), added subcls. (XII) and (XIII). Former subcls. (XII) and (XIII) redesignated (VIII) and (IX), respectively.
 
-Subsec. (e)(2)(C). Pub. L. 115–325, § 103(a)(4)(B)(iii), added cl. (i), redesignated cls. (iii) to (v) as (ii) to (iv), respectively, and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (e)(2)(C). Pub. L. 115–325, § 103(a)(4)(B)(iii), added cl. (i), redesignated cls. (iii) to (v) as (ii) to (iv), respectively, and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) the identification and evaluation of all significant environmental effects (as compared to a no-action alternative), including effects on cultural resources;
 
 “(ii) the identification of proposed mitigation measures, if any, and incorporation of appropriate mitigation measures into the lease, business agreement, or right-of-way;”.
 
-Subsec. (e)(2)(D)(ii). Pub. L. 115–325, § 103(a)(4)(B)(iv), substituted “subparagraph (B)(iv)(XI)” for “subparagraph (B)(iii)(XVI)”.
+Subsec. (e)(2)(D)(ii). Pub. L. 115–325, § 103(a)(4)(B)(iv), substituted “subparagraph (B)(iv)(XI)” for “subparagraph (B)(iii)(XVI)”.
 
-Subsec. (e)(2)(F). Pub. L. 115–325, § 103(a)(4)(B)(v), added subpar. (F).
+Subsec. (e)(2)(F). Pub. L. 115–325, § 103(a)(4)(B)(v), added subpar. (F).
 
-Subsec. (e)(3). Pub. L. 115–325, § 105(d)(1), inserted heading and struck out “for approval” after “submitted”.
+Subsec. (e)(3). Pub. L. 115–325, § 105(d)(1), inserted heading and struck out “for approval” after “submitted”.
 
-Subsec. (e)(4). Pub. L. 115–325, § 105(d)(2), inserted heading.
+Subsec. (e)(4). Pub. L. 115–325, § 105(d)(2), inserted heading.
 
-Pub. L. 115–325, § 103(a)(4)(C), substituted “date of disapproval, provide the Indian tribe with” for “date of disapproval” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) to (C) which read as follows:
+Pub. L. 115–325, § 103(a)(4)(C), substituted “date of disapproval, provide the Indian tribe with” for “date of disapproval” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) notify the Indian tribe in writing of the basis for the disapproval;
 
@@ -813,55 +813,55 @@ Pub. L. 115–325, § 103(a)(4)(C), substituted “date of disapproval, provid
 
 “(C) provide the Indian tribe with an opportunity to revise and resubmit the tribal energy resource agreement.”
 
-Subsec. (e)(5). Pub. L. 115–325, § 105(d)(3), inserted heading and substituted “in effect” for “approved” in introductory provisions.
+Subsec. (e)(5). Pub. L. 115–325, § 105(d)(3), inserted heading and substituted “in effect” for “approved” in introductory provisions.
 
-Subsec. (e)(6). Pub. L. 115–325, § 105(d)(4)(A), inserted heading.
+Subsec. (e)(6). Pub. L. 115–325, § 105(d)(4)(A), inserted heading.
 
-Subsec. (e)(6)(A)(i), (ii). Pub. L. 115–325, § 105(d)(4)(B), realigned margins.
+Subsec. (e)(6)(A)(i), (ii). Pub. L. 115–325, § 105(d)(4)(B), realigned margins.
 
-Subsec. (e)(6)(B). Pub. L. 115–325, §§ 103(a)(4)(D)(i), 105(d)(4)(C), substituted “Subject only to” for “Subject to”, “in effect” for “approved”, and “subparagraphs (C) and (D)” for “subparagraph (D)”.
+Subsec. (e)(6)(B). Pub. L. 115–325, §§ 103(a)(4)(D)(i), 105(d)(4)(C), substituted “Subject only to” for “Subject to”, “in effect” for “approved”, and “subparagraphs (C) and (D)” for “subparagraph (D)”.
 
-Subsec. (e)(6)(C). Pub. L. 115–325, § 103(a)(4)(D)(ii), inserted “to perform the obligations of the Secretary under this section and” before “to ensure” in introductory provisions.
+Subsec. (e)(6)(C). Pub. L. 115–325, § 103(a)(4)(D)(ii), inserted “to perform the obligations of the Secretary under this section and” before “to ensure” in introductory provisions.
 
-Subsec. (e)(6)(D)(i). Pub. L. 115–325, § 105(d)(4)(D)(i), substituted “a tribal energy resource agreement in effect under this section” for “an approved tribal energy resource agreement”.
+Subsec. (e)(6)(D)(i). Pub. L. 115–325, § 105(d)(4)(D)(i), substituted “a tribal energy resource agreement in effect under this section” for “an approved tribal energy resource agreement”.
 
-Subsec. (e)(6)(D)(ii). Pub. L. 115–325, § 105(d)(4)(D)(ii), substituted “in effect” for “approved by the Secretary”.
+Subsec. (e)(6)(D)(ii). Pub. L. 115–325, § 105(d)(4)(D)(ii), substituted “in effect” for “approved by the Secretary”.
 
-Subsec. (e)(6)(D)(iii). Pub. L. 115–325, § 103(a)(4)(D)(iii), added cl. (iii).
+Subsec. (e)(6)(D)(iii). Pub. L. 115–325, § 103(a)(4)(D)(iii), added cl. (iii).
 
-Subsec. (e)(7). Pub. L. 115–325, § 105(d)(5)(A), inserted heading.
+Subsec. (e)(7). Pub. L. 115–325, § 105(d)(5)(A), inserted heading.
 
-Subsec. (e)(7)(A). Pub. L. 115–325, §§ 103(a)(4)(E)(i), 105(d)(5)(B), substituted “the Secretary determines has demonstrated with substantial evidence” for “has demonstrated” and “in effect” for “approved by the Secretary”.
+Subsec. (e)(7)(A). Pub. L. 115–325, §§ 103(a)(4)(E)(i), 105(d)(5)(B), substituted “the Secretary determines has demonstrated with substantial evidence” for “has demonstrated” and “in effect” for “approved by the Secretary”.
 
-Subsec. (e)(7)(B). Pub. L. 115–325, §§ 103(a)(4)(E)(ii), 105(d)(5)(C), substituted “all remedies (if any) provided under the laws of the Indian tribe” for “any tribal remedy” and “in effect” for “approved by the Secretary”.
+Subsec. (e)(7)(B). Pub. L. 115–325, §§ 103(a)(4)(E)(ii), 105(d)(5)(C), substituted “all remedies (if any) provided under the laws of the Indian tribe” for “any tribal remedy” and “in effect” for “approved by the Secretary”.
 
-Subsec. (e)(7)(D)(i). Pub. L. 115–325, § 103(a)(4)(E)(iii)(I), substituted “determine—” for “determine whether the Indian tribe is not in compliance with the tribal energy resource agreement.” and added subcls. (I) and (II).
+Subsec. (e)(7)(D)(i). Pub. L. 115–325, § 103(a)(4)(E)(iii)(I), substituted “determine—” for “determine whether the Indian tribe is not in compliance with the tribal energy resource agreement.” and added subcls. (I) and (II).
 
-Subsec. (e)(7)(D)(ii). Pub. L. 115–325, § 103(a)(4)(E)(iii)(II), substituted “determinations” for “determination”.
+Subsec. (e)(7)(D)(ii). Pub. L. 115–325, § 103(a)(4)(E)(iii)(II), substituted “determinations” for “determination”.
 
-Subsec. (e)(7)(D)(iii). Pub. L. 115–325, § 103(a)(4)(E)(iii)(III), in introductory provisions, substituted “agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including” for “agreement, the Secretary shall take such action as the Secretary determines to be necessary to ensure compliance with the tribal energy resource agreement, including”.
+Subsec. (e)(7)(D)(iii). Pub. L. 115–325, § 103(a)(4)(E)(iii)(III), in introductory provisions, substituted “agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including” for “agreement, the Secretary shall take such action as the Secretary determines to be necessary to ensure compliance with the tribal energy resource agreement, including”.
 
-Subsec. (e)(7)(D)(iii)(I). Pub. L. 115–325, § 105(d)(5)(D)(i), struck out “approved” before “tribal energy resource agreement”.
+Subsec. (e)(7)(D)(iii)(I). Pub. L. 115–325, § 105(d)(5)(D)(i), struck out “approved” before “tribal energy resource agreement”.
 
-Subsec. (e)(7)(D)(iii)(II). Pub. L. 115–325, § 105(d)(5)(D)(ii), struck out “approval of” before “all or part of” and substituted “subsection (a)(2)(A)(i) or (b)(2)(A)” for “subsection (a) or (b)”.
+Subsec. (e)(7)(D)(iii)(II). Pub. L. 115–325, § 105(d)(5)(D)(ii), struck out “approval of” before “all or part of” and substituted “subsection (a)(2)(A)(i) or (b)(2)(A)” for “subsection (a) or (b)”.
 
-Subsec. (e)(7)(E)(i). Pub. L. 115–325, § 103(a)(4)(E)(iv), substituted “, with respect to each claim made in the petition, how” for “the manner in which”.
+Subsec. (e)(7)(E)(i). Pub. L. 115–325, § 103(a)(4)(E)(iv), substituted “, with respect to each claim made in the petition, how” for “the manner in which”.
 
-Subsec. (e)(7)(G). Pub. L. 115–325, § 103(a)(4)(E)(v), added subpar. (G).
+Subsec. (e)(7)(G). Pub. L. 115–325, § 103(a)(4)(E)(v), added subpar. (G).
 
-Subsec. (e)(8). Pub. L. 115–325, § 103(a)(4)(F)(i), (ii), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “criteria to be used in determining the capacity of an Indian tribe under paragraph (2)(B)(i), including the experience of the Indian tribe in managing natural resources and financial and administrative resources available for use by the Indian tribe in implementing the approved tribal energy resource agreement of the Indian tribe;”.
+Subsec. (e)(8). Pub. L. 115–325, § 103(a)(4)(F)(i), (ii), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “criteria to be used in determining the capacity of an Indian tribe under paragraph (2)(B)(i), including the experience of the Indian tribe in managing natural resources and financial and administrative resources available for use by the Indian tribe in implementing the approved tribal energy resource agreement of the Indian tribe;”.
 
-Subsec. (e)(8)(A)(iii). Pub. L. 115–325, § 103(a)(4)(F)(iii), added cl. (iii).
+Subsec. (e)(8)(A)(iii). Pub. L. 115–325, § 103(a)(4)(F)(iii), added cl. (iii).
 
-Subsec. (e)(9). Pub. L. 115–325, § 103(a)(4)(G), added par. (9).
+Subsec. (e)(9). Pub. L. 115–325, § 103(a)(4)(G), added par. (9).
 
-Subsecs. (g) to (j). Pub. L. 115–325, § 103(a)(5), (6), added subsecs. (g) to (i) and redesignated former subsec. (g) as (j).
+Subsecs. (g) to (j). Pub. L. 115–325, § 103(a)(5), (6), added subsecs. (g) to (i) and redesignated former subsec. (g) as (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 115–325, title I, § 103(b), Dec. 18, 2018, 132 Stat. 4454, provided that:
+Pub. L. 115–325, title I, § 103(b), Dec. 18, 2018, 132 Stat. 4454, provided that:
 
 > “Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017 [Dec. 18, 2018], the Secretary shall promulgate or update any regulations that are necessary to implement this section, including provisions to implement—
 
@@ -877,7 +877,7 @@ Pub. L. 115–325, title I, § 103(b), Dec. 18, 2018, 132 Stat. 4454, provided
 
 > **“(3)** section 2604(h) of the Energy Policy Act of 1992 (25 U.S.C. 3504(h)), including the process to be followed by, and any applicable criteria and documentation required for, an Indian tribe to request and obtain the certification described in that section.”
 
-## § 3505. Federal power marketing administrations
+## § 3505. Federal power marketing administrations
 
 **(a) Definitions** In this section:
 
@@ -935,15 +935,15 @@ Each Administrator shall encourage Indian tribal energy development by taking su
 
 There are authorized to be appropriated to carry out this section $750,000, non-reimbursable, to remain available until expended.
 
-(Pub. L. 102–486, title XXVI, § 2605, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 776.)
+(Pub. L. 102–486, title XXVI, § 2605, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 776.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3505, Pub. L. 102–486, title XXVI, § 2605, Oct. 24, 1992, 106 Stat. 3115; Pub. L. 103–437, § 10(e)(1), (2)(D), Nov. 2, 1994, 108 Stat. 4589, related to Indian Energy Resource Commission, prior to the general amendment of this chapter by Pub. L. 109–58.
+A prior section 3505, Pub. L. 102–486, title XXVI, § 2605, Oct. 24, 1992, 106 Stat. 3115; Pub. L. 103–437, § 10(e)(1), (2)(D), Nov. 2, 1994, 108 Stat. 4589, related to Indian Energy Resource Commission, prior to the general amendment of this chapter by Pub. L. 109–58.
 
-## § 3506. Wind and hydropower feasibility study
+## § 3506. Wind and hydropower feasibility study
 
 **(a) Study**
 
@@ -987,19 +987,19 @@ There is authorized to be appropriated to carry out this section $1,000,000, to 
 
 Costs incurred by the Secretary in carrying out this section shall be nonreimbursable.
 
-(Pub. L. 102–486, title XXVI, § 2606, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 777; amended Pub. L. 115–325, title I, § 105(c), Dec. 18, 2018, 132 Stat. 4456.)
+(Pub. L. 102–486, title XXVI, § 2606, as added Pub. L. 109–58, title V, § 503(a), Aug. 8, 2005, 119 Stat. 777; amended Pub. L. 115–325, title I, § 105(c), Dec. 18, 2018, 132 Stat. 4456.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3506, Pub. L. 102–486, title XXVI, § 2606, Oct. 24, 1992, 106 Stat. 3118, related to tribal government energy assistance program, prior to the general amendment of this chapter by Pub. L. 109–58.
+A prior section 3506, Pub. L. 102–486, title XXVI, § 2606, Oct. 24, 1992, 106 Stat. 3118, related to tribal government energy assistance program, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 **Amendments**
 
 2018—Subsec. (c)(3). Pub. L. 115–325 substituted “energy development” for “energy resource development”.
 
-## § 3507. Appraisals
+## § 3507. Appraisals
 
 **(a) In general** For any transaction that requires approval of the Secretary and involves mineral or energy resources held in trust by the United States for the benefit of an Indian tribe or by an Indian tribe subject to Federal restrictions against alienation, any appraisal relating to fair market value of those resources required to be prepared under applicable law may be prepared by—
 
@@ -1025,4 +1025,4 @@ A prior section 3506, Pub. L. 102–486, title XXVI, § 2606, Oct. 24, 1992, 1
 
 The Secretary shall promulgate regulations to carry out this section, including standards the Secretary shall use for approving or disapproving the appraisal described in subsection (a).
 
-(Pub. L. 102–486, title XXVI, § 2607, as added Pub. L. 115–325, title II, § 204(a), Dec. 18, 2018, 132 Stat. 4463.)
+(Pub. L. 102–486, title XXVI, § 2607, as added Pub. L. 115–325, title II, § 204(a), Dec. 18, 2018, 132 Stat. 4463.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 53—COTTON RESEARCH AND PROMOTION
 
-## § 2101. Congressional declaration of policy
+## § 2101. Congressional declaration of policy
 
 Cotton is the basic natural fiber of the Nation. It is produced by many individual cottongrowers throughout the various cotton-producing States of the Nation and also outside the United States. Cotton moves in the channels of interstate and foreign commerce and such cotton which does not move in such channels directly burdens or affects interstate commerce in cotton and cotton products. The efficient production of cotton and the maintenance and expansion of existing markets and the development of new or improved markets and uses is vital to the welfare of cottongrowers and those concerned with marketing, using, and processing cotton as well as the general economy of the Nation. The great inroads on the market and uses for cotton which have been made by manmade fibers have been largely the result of extensive research and promotion which have not been effectively matched by cotton research and promotion. The production and marketing of cotton by numerous individual farmers have prevented the development and carrying out of adequate and coordinated programs of research and promotion necessary to the maintenance and improvement of the competitive position of, and markets for, cotton. Without an effective and coordinated method for assuring cooperative and collective action in providing for, and financing such programs, individual cotton farmers are unable adequately to provide or obtain the research and promotion necessary to maintain and improve markets for cotton.
 
@@ -23,7 +23,7 @@ It has long been found to be in the public interest to have, or endeavor to have
 
 It is therefore declared to be the policy of the Congress and the purpose of this chapter that it is essential in the public interest through the exercise of the powers provided herein, to authorize and enable the establishment of an orderly procedure for the development, financing through adequate assessments on all cotton marketed in the United States and on imports of cotton, and carrying out an effective and continuous coordinated program of research and promotion designed to strengthen cotton’s competitive position and to maintain and expand domestic and foreign markets and uses for United States cotton.
 
-(Pub. L. 89–502, § 2, July 13, 1966, 80 Stat. 279; Pub. L. 101–624, title XIX, § 1991, Nov. 28, 1990, 104 Stat. 3909.)
+(Pub. L. 89–502, § 2, July 13, 1966, 80 Stat. 279; Pub. L. 101–624, title XIX, § 1991, Nov. 28, 1990, 104 Stat. 3909.)
 
 **Editorial Notes**
 
@@ -35,19 +35,19 @@ It is therefore declared to be the policy of the Congress and the purpose of thi
 
 **Effective Date**
 
-Pub. L. 89–502, § 20, July 13, 1966, 80 Stat. 287, provided that: “This Act [enacting this chapter] shall take effect upon enactment [July 13, 1966]”.
+Pub. L. 89–502, § 20, July 13, 1966, 80 Stat. 287, provided that: “This Act [enacting this chapter] shall take effect upon enactment [July 13, 1966]”.
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XIX, § 1990, Nov. 28, 1990, 104 Stat. 3909, provided that: “This subtitle [subtitle G (§§ 1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
+Pub. L. 101–624, title XIX, § 1990, Nov. 28, 1990, 104 Stat. 3909, provided that: “This subtitle [subtitle G (§§ 1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
 
 **Short Title**
 
-Pub. L. 89–502, § 1, July 13, 1966, 80 Stat. 279, provided: “That this Act [enacting this chapter] shall be known as the ‘Cotton Research and Promotion Act’.”
+Pub. L. 89–502, § 1, July 13, 1966, 80 Stat. 279, provided: “That this Act [enacting this chapter] shall be known as the ‘Cotton Research and Promotion Act’.”
 
 **Pima Agriculture Cotton Trust Fund**
 
-Pub. L. 113–79, title XII, § 12314, Feb. 7, 2014, 128 Stat. 993, as amended by Pub. L. 115–334, title XII, § 12602, Dec. 20, 2018, 132 Stat. 5004; Pub. L. 118–22, div. B, title I, § 102(d)(8)(A), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10607(c), July 4, 2025, 139 Stat. 111, provided that:
+Pub. L. 113–79, title XII, § 12314, Feb. 7, 2014, 128 Stat. 993, as amended by Pub. L. 115–334, title XII, § 12602, Dec. 20, 2018, 132 Stat. 5004; Pub. L. 118–22, div. B, title I, § 102(d)(8)(A), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10607(c), July 4, 2025, 139 Stat. 111, provided that:
 
 > **“(a) Establishment of Trust Fund.—** There is established in the Treasury of the United States a trust fund to be known as the ‘Pima Agriculture Cotton Trust Fund’ (in this section referred to as the ‘Trust Fund’), consisting of such amounts as may be transferred to the Trust Fund pursuant to subsection (h), and to be used for the purpose of reducing the injury to domestic manufacturers resulting from tariffs on cotton fabric that are higher than tariffs on certain apparel articles made of cotton fabric.
 
@@ -117,7 +117,7 @@ Pub. L. 113–79, title XII, § 12314, Feb. 7, 2014, 128 Stat. 993, as amended
 
 **Reports on Implementation and Enforcement of Cotton Research and Promotion Program**
 
-Pub. L. 101–624, title XIX, § 1998, Nov. 28, 1990, 104 Stat. 3913, as amended by Pub. L. 102–237, title VIII, § 808(b), Dec. 13, 1991, 105 Stat. 1883, provided that:
+Pub. L. 101–624, title XIX, § 1998, Nov. 28, 1990, 104 Stat. 3913, as amended by Pub. L. 102–237, title VIII, § 808(b), Dec. 13, 1991, 105 Stat. 1883, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date on which imports are subject to assessments under this subtitle [subtitle G of title XIX of Pub. L. 101–624, see Short Title of 1990 Amendment note above]—
 
@@ -137,25 +137,25 @@ Pub. L. 101–624, title XIX, § 1998, Nov. 28, 1990, 104 Stat. 3913, as amend
 
 > **“(d) Authorization of Appropriations.—** There are authorized to be appropriated such funds as may be necessary to carry out this section.”
 
-## § 2102. Orders of Secretary to cotton handlers
+## § 2102. Orders of Secretary to cotton handlers
 
 To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and from time to time amend, orders applicable to persons engaged in the harvesting, marketing, ginning, or other handling of cotton, hereinafter referred to as handlers. Such orders shall be applicable to all production or marketing areas, or both, in the United States.
 
-(Pub. L. 89–502, § 3, July 13, 1966, 80 Stat. 280.)
+(Pub. L. 89–502, § 3, July 13, 1966, 80 Stat. 280.)
 
-## § 2103. Notice and hearing upon proposed orders
+## § 2103. Notice and hearing upon proposed orders
 
 Whenever the Secretary has reason to believe that the issuance of an order will tend to effectuate the declared policy of this chapter, he shall give due notice and opportunity for a hearing upon a proposed order. Such hearing may be requested and a proposal for an order submitted by any cotton producer organization certified pursuant to section 2113 of this title or by any other interested person or persons, including the Secretary.
 
-(Pub. L. 89–502, § 4, July 13, 1966, 80 Stat. 280.)
+(Pub. L. 89–502, § 4, July 13, 1966, 80 Stat. 280.)
 
-## § 2104. Finding and issuance of orders
+## § 2104. Finding and issuance of orders
 
 After notice and opportunity for hearing as provided in section 2103 of this title, the Secretary shall issue an order if he finds, and sets forth in such order, upon the evidence introduced at such hearing, that the issuance of such order and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
-(Pub. L. 89–502, § 5, July 13, 1966, 80 Stat. 280.)
+(Pub. L. 89–502, § 5, July 13, 1966, 80 Stat. 280.)
 
-## § 2105. Permissive terms and conditions in orders
+## § 2105. Permissive terms and conditions in orders
 
 Orders issued pursuant to this chapter shall contain one or more of the following terms and conditions, and except as provided in section 2106 of this title, no others.
 
@@ -167,9 +167,9 @@ Orders issued pursuant to this chapter shall contain one or more of the followin
 
 **(d)** Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
 
-(Pub. L. 89–502, § 6, July 13, 1966, 80 Stat. 280.)
+(Pub. L. 89–502, § 6, July 13, 1966, 80 Stat. 280.)
 
-## § 2106. Required terms and conditions in orders
+## § 2106. Required terms and conditions in orders
 
 Orders issued pursuant to this chapter shall contain the following terms and conditions:
 
@@ -227,7 +227,7 @@ There shall also be included in the order a provision for reimbursing any agency
 
 **(h)** Providing that no funds collected by the Cotton Board under the order shall in any manner be used for the purpose of influencing governmental policy or action, except as provided by subsection (a)(4) of this section.
 
-(Pub. L. 89–502, § 7, July 13, 1966, 80 Stat. 281; Pub. L. 94–366, §§ 2, 3, July 14, 1976, 90 Stat. 991, 992; Pub. L. 101–624, title XIX, § 1992, Nov. 28, 1990, 104 Stat. 3909; Pub. L. 102–237, title VIII, § 808(a)(1), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 89–502, § 7, July 13, 1966, 80 Stat. 281; Pub. L. 94–366, §§ 2, 3, July 14, 1976, 90 Stat. 991, 992; Pub. L. 101–624, title XIX, § 1992, Nov. 28, 1990, 104 Stat. 3909; Pub. L. 102–237, title VIII, § 808(a)(1), Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
@@ -235,17 +235,17 @@ There shall also be included in the order a provision for reimbursing any agency
 
 1991—Subsec. (e)(4). Pub. L. 102–237 made technical amendment to reference to this chapter to correct error in corresponding reference in original act.
 
-1990—Subsec. (a)(2). Pub. L. 101–624, § 1992(1), substituted “person” for “handler” and struck out “producer” before “assessment”.
+1990—Subsec. (a)(2). Pub. L. 101–624, § 1992(1), substituted “person” for “handler” and struck out “producer” before “assessment”.
 
-Subsec. (b). Pub. L. 101–624, § 1992(2), inserted “(1)”, and substituted “, and (2) when imports of cotton are subject to an order, an appropriate number of representatives, as determined by the Secretary, of importers of cotton on which assessments are paid under this chapter. Such importer representatives shall be appointed by the Secretary after consultation with organizations representing importers, as determined by the Secretary. Each cotton-producing State shall be entitled to at least one representative on the Cotton Board.” for “: *Provided, however*, That each cotton-producing State shall be entitled to at least one representative on the Cotton Board.”
+Subsec. (b). Pub. L. 101–624, § 1992(2), inserted “(1)”, and substituted “, and (2) when imports of cotton are subject to an order, an appropriate number of representatives, as determined by the Secretary, of importers of cotton on which assessments are paid under this chapter. Such importer representatives shall be appointed by the Secretary after consultation with organizations representing importers, as determined by the Secretary. Each cotton-producing State shall be entitled to at least one representative on the Cotton Board.” for “: *Provided, however*, That each cotton-producing State shall be entitled to at least one representative on the Cotton Board.”
 
-Subsec. (e). Pub. L. 101–624, § 1992(3), amended subsec. (e) generally, substituting present provisions for provisions relating to a producer-paid assessment at a rate of $1 per bale, with a possible per-bale supplement not to exceed 1 per centum of the value of the cotton, along with other provisions relating to use of assessment funds, referendums and procedures concerning any supplemental assessments, and judicial action to collect assessments.
+Subsec. (e). Pub. L. 101–624, § 1992(3), amended subsec. (e) generally, substituting present provisions for provisions relating to a producer-paid assessment at a rate of $1 per bale, with a possible per-bale supplement not to exceed 1 per centum of the value of the cotton, along with other provisions relating to use of assessment funds, referendums and procedures concerning any supplemental assessments, and judicial action to collect assessments.
 
-1976—Subsec. (b). Pub. L. 94–366, § 3, inserted provisions which authorized Secretary to appoint consumer advisors up to 15 per centum of the membership of the Cotton Board, and authorized reimbursing such advisors for expenses incurred in attending the Board meetings.
+1976—Subsec. (b). Pub. L. 94–366, § 3, inserted provisions which authorized Secretary to appoint consumer advisors up to 15 per centum of the membership of the Cotton Board, and authorized reimbursing such advisors for expenses incurred in attending the Board meetings.
 
-Subsec. (e). Pub. L. 94–366, § 2, inserted provisions authorizing reimbursement of the Secretary up to $200,000 for expenses incurred in conducting a referendum pursuant to section 2107 of this title and for administrative costs incurred by him for supervisory work up to five employee years after an order or an amendment to an order has been issued and made effective, inserted provisions authorizing assessment of a bale of cotton more than once if called for by a provision in this subsection, and inserted provisions authorizing Secretary to amend the rate order to supplement the rate in each marketing year by an additional per bale amount not to exceed 1 per centum of the value of the cotton as determined by the Cotton Board and the Secretary.
+Subsec. (e). Pub. L. 94–366, § 2, inserted provisions authorizing reimbursement of the Secretary up to $200,000 for expenses incurred in conducting a referendum pursuant to section 2107 of this title and for administrative costs incurred by him for supervisory work up to five employee years after an order or an amendment to an order has been issued and made effective, inserted provisions authorizing assessment of a bale of cotton more than once if called for by a provision in this subsection, and inserted provisions authorizing Secretary to amend the rate order to supplement the rate in each marketing year by an additional per bale amount not to exceed 1 per centum of the value of the cotton as determined by the Cotton Board and the Secretary.
 
-## § 2107. Referenda
+## § 2107. Referenda
 
 **(a) Referendum and cotton producer approval of orders**
 
@@ -265,13 +265,13 @@ The Secretary shall conduct a referendum among persons who, during a representat
 
 **(3)** The amendment to the order provided for in this subsection shall not be effective if it is disapproved by a majority of cotton producers and importers of cotton voting in the referendum.
 
-(Pub. L. 89–502, § 8, July 13, 1966, 80 Stat. 283; Pub. L. 101–624, title XIX, § 1993, Nov. 28, 1990, 104 Stat. 3911; Pub. L. 102–237, title VIII, § 808(a)(2), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 89–502, § 8, July 13, 1966, 80 Stat. 283; Pub. L. 101–624, title XIX, § 1993, Nov. 28, 1990, 104 Stat. 3911; Pub. L. 102–237, title VIII, § 808(a)(2), Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Cotton Research and Promotion Act Amendments of 1990, referred to in subsecs. (b)(1) and (c)(1), is subtitle G [§§ 1990–1998] of title XIX of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3909, which amended sections 2101, 2106 to 2110, and 2116 of this title and enacted provisions set out as notes under section 2101 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2101 of this title and Tables.
+The Cotton Research and Promotion Act Amendments of 1990, referred to in subsecs. (b)(1) and (c)(1), is subtitle G [§§ 1990–1998] of title XIX of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3909, which amended sections 2101, 2106 to 2110, and 2116 of this title and enacted provisions set out as notes under section 2101 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2101 of this title and Tables.
 
 **Amendments**
 
@@ -279,7 +279,7 @@ The Cotton Research and Promotion Act Amendments of 1990, referred to in subsecs
 
 1990—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-## § 2108. Suspension and termination of orders
+## § 2108. Suspension and termination of orders
 
 **(a) Discretionary suspension or termination by Secretary**
 
@@ -293,7 +293,7 @@ The Secretary may conduct a referendum at any time, and shall hold a referendum 
 
 The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
 
-(Pub. L. 89–502, § 9, July 13, 1966, 80 Stat. 283; Pub. L. 101–624, title XIX, § 1994, Nov. 28, 1990, 104 Stat. 3912.)
+(Pub. L. 89–502, § 9, July 13, 1966, 80 Stat. 283; Pub. L. 101–624, title XIX, § 1994, Nov. 28, 1990, 104 Stat. 3912.)
 
 **Editorial Notes**
 
@@ -301,7 +301,7 @@ The termination or suspension of any order, or any provision thereof, shall not 
 
 1990—Subsec. (b). Pub. L. 101–624 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary may conduct a referendum at any time, and shall hold a referendum on request of 10 per centum or more of the number of cotton producers voting in the referendum approving the order, to determine whether cotton producers favor the termination or suspension of the order, and he shall suspend or terminate such order at the end of the marketing year, as defined in the order, whenever he determines that suspension or termination of the order is approved or favored by a majority of the producers of cotton voting in such referendum who, during a representative period determined by the Secretary, have been engaged in the production of cotton, and who produced more than 50 per centum of the volume of the cotton produced by the cotton producers voting in the referendum.”
 
-## § 2109. Provisions applicable to amendments
+## § 2109. Provisions applicable to amendments
 
 **(a) Provisions applicable to amendments to orders**
 
@@ -317,7 +317,7 @@ Except as provided in subsection (b), the provisions of this chapter applicable 
 
 The disapproval of any amendment to an order issued under this chapter shall not be deemed to invalidate such order.
 
-(Pub. L. 89–502, § 10, July 13, 1966, 80 Stat. 283; Pub. L. 101–624, title XIX, § 1995, Nov. 28, 1990, 104 Stat. 3912; Pub. L. 102–237, title VIII, § 808(a)(3), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 89–502, § 10, July 13, 1966, 80 Stat. 283; Pub. L. 101–624, title XIX, § 1995, Nov. 28, 1990, 104 Stat. 3912; Pub. L. 102–237, title VIII, § 808(a)(3), Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
@@ -327,19 +327,19 @@ The disapproval of any amendment to an order issued under this chapter shall not
 
 1990—Pub. L. 101–624 amended section generally. Prior to amendment, section read as follows: “The provisions of this chapter applicable to orders shall be applicable to amendments to orders.”
 
-## § 2110. Refund of producer assessments
+## § 2110. Refund of producer assessments
 
 **(a)** Notwithstanding any other section of this chapter and except as provided in subsection (b), any cotton producer against whose cotton any assessment is made and collected from him under the authority of this chapter and who is not in favor of supporting the research and promotion program as provided for herein shall have the right to demand and receive from the Cotton Board a refund of such assessment: *Provided*, That such demand shall be made personally by such producer in accordance with regulations and on a form and within a time period prescribed by the Board and approved by the Secretary, but in no event less than ninety days, and upon submission of proof satisfactory to the Board that the producer paid the assessment for which refund is sought, and any such refund shall be made within sixty days after demand therefor.
 
 **(b)** The right of a producer to demand a refund under subsection (a) shall terminate if the proposed amendment of the order implementing the Cotton Research and Promotion Amendments Act of 1990 is approved in the referendum provided for under section 2107 of this title. Such right shall terminate 30 days after the date the Secretary announces the results of such referendum if such proposed amendment is approved. Such right shall be reinstated if the amendment should be disapproved in any subsequent referendum.
 
-(Pub. L. 89–502, § 11, July 13, 1966, 80 Stat. 283; Pub. L. 101–624, title XIX, § 1996, Nov. 28, 1990, 104 Stat. 3912; Pub. L. 102–237, title VIII, § 808(a)(4), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 89–502, § 11, July 13, 1966, 80 Stat. 283; Pub. L. 101–624, title XIX, § 1996, Nov. 28, 1990, 104 Stat. 3912; Pub. L. 102–237, title VIII, § 808(a)(4), Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Cotton Research and Promotion Amendments Act of 1990, referred to in subsec. (b), probably means the Cotton Research and Promotion Act Amendments of 1990, subtitle G [§§ 1990–1998] of title XIX of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3909, which amended sections 2101, 2106 to 2110, and 2116 of this title and enacted provisions set out as notes under section 2101 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2101 of this title and Tables.
+The Cotton Research and Promotion Amendments Act of 1990, referred to in subsec. (b), probably means the Cotton Research and Promotion Act Amendments of 1990, subtitle G [§§ 1990–1998] of title XIX of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3909, which amended sections 2101, 2106 to 2110, and 2116 of this title and enacted provisions set out as notes under section 2101 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2101 of this title and Tables.
 
 **Amendments**
 
@@ -347,23 +347,23 @@ The Cotton Research and Promotion Amendments Act of 1990, referred to in subsec.
 
 1990—Pub. L. 101–624 designated existing provisions as subsec. (a), substituted “Notwithstanding any other section and except as provided in subsection (b) of this section,” for “Notwithstanding any other provision”, and added subsec. (b).
 
-## § 2111. Administrative review of orders; petition; hearing; judicial review
+## § 2111. Administrative review of orders; petition; hearing; judicial review
 
 **(a)** Any person subject to any order may file a written petition with the Secretary, stating that any such order or any provision of such order or any obligation imposed in connection therewith is not in accordance with law and praying for a modification thereof or to be exempted therefrom. He shall thereupon be given an opportunity for a hearing upon such petition, in accordance with regulations made by the Secretary. After such hearing, the Secretary shall make a ruling upon the prayer of such petition which shall be final, if in accordance with law.
 
 **(b)** The district courts of the United States in any district in which such person is an inhabitant, or has his principal place of business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to him a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to section 2112(a) of this title.
 
-(Pub. L. 89–502, § 12, July 13, 1966, 80 Stat. 284.)
+(Pub. L. 89–502, § 12, July 13, 1966, 80 Stat. 284.)
 
-## § 2112. Enforcement of orders; penalty for willful violation
+## § 2112. Enforcement of orders; penalty for willful violation
 
 **(a)** The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating any order or regulation made or issued pursuant to this chapter.
 
 **(b)** Any handler who willfully violates any provision of any order issued by the Secretary under this chapter, or who willfully fails or refuses to collect or remit any assessment or fee duly required of him thereunder, shall be liable to a penalty of not more than $1,000 for each such offense which shall accrue to the United States and may be recovered in a civil suit brought by the United States.
 
-(Pub. L. 89–502, § 13, July 13, 1966, 80 Stat. 284.)
+(Pub. L. 89–502, § 13, July 13, 1966, 80 Stat. 284.)
 
-## § 2113. Certification of cotton producer organizations
+## § 2113. Certification of cotton producer organizations
 
 The eligibility of each cotton producer organization to represent cotton producers of a cotton producing State to request the issuance of an order under section 2103 of this title, and to participate in the making of nominations under section 2106(b) of this title shall be certified by the Secretary and shall be based in addition to other available information upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including the following:
 
@@ -383,19 +383,19 @@ The eligibility of each cotton producer organization to represent cotton produce
 
 *Provided, however*, That the primary consideration in determining the eligibility of an organization shall be whether its cotton farmer membership consists of a sufficiently large number of the cotton producers who produce a relatively significant volume of cotton to reasonably warrant its participation in the nomination of members for the Cotton Board. The Secretary shall certify any cotton producer organization which he finds to be eligible under this section, and his determination as to eligibility shall be final.
 
-(Pub. L. 89–502, § 14, July 13, 1966, 80 Stat. 284.)
+(Pub. L. 89–502, § 14, July 13, 1966, 80 Stat. 284.)
 
-## § 2114. Rules and regulations
+## § 2114. Rules and regulations
 
 The Secretary is authorized to make such regulations with the force and effect of law, as may be necessary to carry out the provisions of this chapter and the powers vested in him by this chapter.
 
-(Pub. L. 89–502, § 15, July 13, 1966, 80 Stat. 285.)
+(Pub. L. 89–502, § 15, July 13, 1966, 80 Stat. 285.)
 
-## § 2115. Investigations by Secretary; subpenas; oaths and affirmations; judicial aid
+## § 2115. Investigations by Secretary; subpenas; oaths and affirmations; judicial aid
 
 The Secretary may make such investigations as he deems necessary for the effective carrying out of his responsibilities under this chapter or to determine whether a handler or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this chapter or of any order, or rule or regulation issued under this chapter. For the purpose of any such investigation, the Secretary is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena issued to, any person, including a handler, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Secretary, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found.
 
-(Pub. L. 89–502, § 16, July 13, 1966, 80 Stat. 285; Pub. L. 91–452, title II, § 206(a), Oct. 15, 1970, 84 Stat. 929.)
+(Pub. L. 89–502, § 16, July 13, 1966, 80 Stat. 285; Pub. L. 91–452, title II, § 206(a), Oct. 15, 1970, 84 Stat. 929.)
 
 **Editorial Notes**
 
@@ -409,7 +409,7 @@ The Secretary may make such investigations as he deems necessary for the effecti
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
-## § 2116. Definitions
+## § 2116. Definitions
 
 As used in this chapter:
 
@@ -441,7 +441,7 @@ As used in this chapter:
 
 **(2)** The term “import” means any such entry.
 
-(Pub. L. 89–502, § 17, July 13, 1966, 80 Stat. 286; Pub. L. 101–624, title XIX, § 1997, Nov. 28, 1990, 104 Stat. 3913; Pub. L. 110–234, title XIV, § 14202, May 22, 2008, 122 Stat. 1458; Pub. L. 110–246, § 4(a), title XIV, § 14202, June 18, 2008, 122 Stat. 1664, 2220.)
+(Pub. L. 89–502, § 17, July 13, 1966, 80 Stat. 286; Pub. L. 101–624, title XIX, § 1997, Nov. 28, 1990, 104 Stat. 3913; Pub. L. 110–234, title XIV, § 14202, May 22, 2008, 122 Stat. 1458; Pub. L. 110–246, § 4(a), title XIV, § 14202, June 18, 2008, 122 Stat. 1664, 2220.)
 
 **Editorial Notes**
 
@@ -451,13 +451,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (f). Pub. L. 110–246, § 14202, inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted period at end for “, and the term ‘cotton-producing State’ shall include any such combination of States.”, and added par. (2).
+2008—Subsec. (f). Pub. L. 110–246, § 14202, inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted period at end for “, and the term ‘cotton-producing State’ shall include any such combination of States.”, and added par. (2).
 
-1990—Subsec. (c). Pub. L. 101–624, § 1997(1), designated existing provisions as cl. (1) and added cl. (2).
+1990—Subsec. (c). Pub. L. 101–624, § 1997(1), designated existing provisions as cl. (1) and added cl. (2).
 
-Subsec. (d). Pub. L. 101–624, § 1997(2), inserted “or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c),” after “cottonseed”.
+Subsec. (d). Pub. L. 101–624, § 1997(2), inserted “or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c),” after “cottonseed”.
 
-Subsec. (h). Pub. L. 101–624, § 1997(3), added subsec. (h).
+Subsec. (h). Pub. L. 101–624, § 1997(3), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -465,29 +465,29 @@ Subsec. (h). Pub. L. 101–624, § 1997(3), added subsec. (h).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 2117. Separability
+## § 2117. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Pub. L. 89–502, § 18, July 13, 1966, 80 Stat. 286.)
+(Pub. L. 89–502, § 18, July 13, 1966, 80 Stat. 286.)
 
-## § 2118. Authorization of appropriations
+## § 2118. Authorization of appropriations
 
 There is hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated such funds as are necessary to carry out the provisions of this chapter. The funds so appropriated shall not be available for the payment of the expenses or expenditures of the Cotton Board in administering any provisions of any order issued pursuant to the terms of this chapter.
 
-(Pub. L. 89–502, § 19, July 13, 1966, 80 Stat. 287.)
+(Pub. L. 89–502, § 19, July 13, 1966, 80 Stat. 287.)
 
-## § 2119. Repealed. Pub. L. 94–366, § 1, July 14, 1976, 90 Stat. 991
+## § 2119. Repealed. Pub. L. 94–366, § 1, July 14, 1976, 90 Stat. 991
 
-Section, Pub. L. 91–524, title VI, § 610, Nov. 30, 1970, 84 Stat. 1378; Pub. L. 93–86, § 1(23), Aug. 10, 1973, 87 Stat. 235, related to cotton development programs of the Commodity Credit Corporation, and funding for such programs.
+Section, Pub. L. 91–524, title VI, § 610, Nov. 30, 1970, 84 Stat. 1378; Pub. L. 93–86, § 1(23), Aug. 10, 1973, 87 Stat. 235, related to cotton development programs of the Commodity Credit Corporation, and funding for such programs.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 94–366, § 1, July 14, 1976, 90 Stat. 991, provided that this section is repealed effective Oct. 1, 1977.
+Pub. L. 94–366, § 1, July 14, 1976, 90 Stat. 991, provided that this section is repealed effective Oct. 1, 1977.
 
-## § 2120. Cotton; investigation of new uses; cooperation with State and other agencies
+## § 2120. Cotton; investigation of new uses; cooperation with State and other agencies
 
 The Secretary of Agriculture and the Secretary of Commerce are authorized to engage in technical and scientific research in American-grown cotton and its byproducts and their present and potential uses, including new and additional commercial and scientific uses for cotton and its byproducts, and to diffuse such information among the people of the United States; and the Secretary of Agriculture and the Secretary of Commerce or their duly authorized representatives may cooperate with any department or agency of the Government, any State, Territory, District, or possession or department, agency, or political subdivision thereof, or any person in carrying out the purposes of this section in the District of Columbia and elsewhere.
 
@@ -501,11 +501,11 @@ Section was formerly classified to section 423 of this title prior to editorial 
 
 Section is comprised of act Apr. 12, 1928, ch. 362, and was not enacted as part of the Cotton Research and Promotion Act which comprises this chapter.
 
-## § 2121. Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies
+## § 2121. Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies
 
 The Secretary of Agriculture is authorized to investigate the ginning of cotton; to establish and maintain experimental ginning plants and laboratories; and to make such tests, demonstrations, and experiments, and such technical and scientific studies in relation to cotton ginning as he shall deem necessary and to publish the results thereof, with a view to developing improved ginning equipment and encouraging the use of improved methods, and he may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person, as he shall find to be necessary.
 
-(Apr. 19, 1930, ch. 203, § 1, 46 Stat. 248.)
+(Apr. 19, 1930, ch. 203, § 1, 46 Stat. 248.)
 
 **Editorial Notes**
 
@@ -515,11 +515,11 @@ Section was formerly classified to section 424 of this title prior to editorial 
 
 Section was enacted as part of act Apr. 19, 1930, ch. 203, and not as part of the Cotton Research and Promotion Act which comprises this chapter.
 
-## § 2122. Authorization of appropriations for cotton ginning studies
+## § 2122. Authorization of appropriations for cotton ginning studies
 
 For the purposes of section 2121 of this title there is authorized to be appropriated, after June 30, 1931, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary.
 
-(Apr. 19, 1930, ch. 203, § 2, 46 Stat. 248.)
+(Apr. 19, 1930, ch. 203, § 2, 46 Stat. 248.)
 
 **Editorial Notes**
 

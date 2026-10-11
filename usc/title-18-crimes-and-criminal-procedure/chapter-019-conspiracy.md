@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1984—Pub. L. 98–473, title II, § 1003(b), Oct. 12, 1984, 98 Stat. 2138, added item 373.
+1984—Pub. L. 98–473, title II, § 1003(b), Oct. 12, 1984, 98 Stat. 2138, added item 373.
 
-## § 371. Conspiracy to commit offense or to defraud United States
+## § 371. Conspiracy to commit offense or to defraud United States
 
 If two or more persons conspire either to commit any offense against the United States, or to defraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined under this title or imprisoned not more than five years, or both.
 
 If, however, the offense, the commission of which is the object of the conspiracy, is a misdemeanor only, the punishment for such conspiracy shall not exceed the maximum punishment provided for such misdemeanor.
 
-(June 25, 1948, ch. 645, 62 Stat. 701; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 701; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 88, 294 (Mar. 4, 1909, ch. 321, § 37, 35 Stat. 1096; Mar. 4, 1909, ch. 321, § 178a, as added Sept. 27, 1944, ch. 425, 58 Stat. 752).
+Based on title 18, U.S.C., 1940 ed., §§ 88, 294 (Mar. 4, 1909, ch. 321, § 37, 35 Stat. 1096; Mar. 4, 1909, ch. 321, § 178a, as added Sept. 27, 1944, ch. 425, 58 Stat. 752).
 
 This section consolidates said sections 88 and 294 of title 18, U.S.C., 1940 ed.
 
@@ -57,15 +57,15 @@ A number of special conspiracy provisions, relating to specific offenses, which 
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 372. Conspiracy to impede or injure officer
+## § 372. Conspiracy to impede or injure officer
 
 If two or more persons in any State, Territory, Possession, or District conspire to prevent, by force, intimidation, or threat, any person from accepting or holding any office, trust, or place of confidence under the United States, or from discharging any duties thereof, or to induce by like means any officer of the United States to leave the place, where his duties as an officer are required to be performed, or to injure him in his person or property on account of his lawful discharge of the duties of his office, or while engaged in the lawful discharge thereof, or to injure his property so as to molest, interrupt, hinder, or impede him in the discharge of his official duties, each of such persons shall be fined under this title or imprisoned not more than six years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 701; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(D), Nov. 2, 2002, 116 Stat. 1809.)
+(June 25, 1948, ch. 645, 62 Stat. 701; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(D), Nov. 2, 2002, 116 Stat. 1809.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 54 (Mar. 4, 1909, ch. 321, § 21, 35 Stat. 1092).
+Based on title 18, U.S.C., 1940 ed., § 54 (Mar. 4, 1909, ch. 321, § 21, 35 Stat. 1092).
 
 Scope of section was enlarged to cover all possessions of the United States. When the section was first enacted in 1861 there were no possessions, and hence the use of the words “State or Territory” was sufficient to describe the area then subject to the jurisdiction of the United States. The word “District” was inserted by the codifiers of the 1909 Criminal Code.
 
@@ -75,7 +75,7 @@ Scope of section was enlarged to cover all possessions of the United States. Whe
 
 2002—Pub. L. 107–273 substituted “under this title” for “not more than $5,000”.
 
-## § 373. Solicitation to commit a crime of violence
+## § 373. Solicitation to commit a crime of violence
 
 **(a)** Whoever, with intent that another person engage in conduct constituting a felony that has as an element the use, attempted use, or threatened use of physical force against property or against the person of another in violation of the laws of the United States, and under circumstances strongly corroborative of that intent, solicits, commands, induces, or otherwise endeavors to persuade such other person to engage in such conduct, shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half of the maximum fine prescribed for the punishment of the crime solicited, or both; or if the crime solicited is punishable by life imprisonment or death, shall be imprisoned for not more than twenty years.
 
@@ -83,7 +83,7 @@ Scope of section was enlarged to cover all possessions of the United States. Whe
 
 **(c)** It is not a defense to a prosecution under this section that the person solicited could not be convicted of the crime because he lacked the state of mind required for its commission, because he was incompetent or irresponsible, or because he is immune from prosecution or is not subject to prosecution.
 
-(Added Pub. L. 98–473, title II, § 1003(a), Oct. 12, 1984, 98 Stat. 2138; amended Pub. L. 99–646, § 26, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 103–322, title XXXIII, § 330016(2)(A), Sept. 13, 1994, 108 Stat. 2148.)
+(Added Pub. L. 98–473, title II, § 1003(a), Oct. 12, 1984, 98 Stat. 2138; amended Pub. L. 99–646, § 26, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 103–322, title XXXIII, § 330016(2)(A), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Editorial Notes**
 

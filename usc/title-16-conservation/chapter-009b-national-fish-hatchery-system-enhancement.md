@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 9B—NATIONAL FISH HATCHERY SYSTEM ENHANCEMENT
 
-## § 760aa. Findings and purposes
+## § 760aa. Findings and purposes
 
 **(a) Findings** Congress finds the following:
 
@@ -43,15 +43,15 @@ retrieved: 2026-10-11
 
 **(3)** To encourage donations and other contributions by individuals and organizations to the System.
 
-(Pub. L. 109–360, § 2, Oct. 16, 2006, 120 Stat. 2058.)
+(Pub. L. 109–360, § 2, Oct. 16, 2006, 120 Stat. 2058.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 109–360, § 1, Oct. 16, 2006, 120 Stat. 2058, provided that: “This Act [enacting this chapter] may be cited as the ‘National Fish Hatchery System Volunteer Act of 2006’.”
+Pub. L. 109–360, § 1, Oct. 16, 2006, 120 Stat. 2058, provided that: “This Act [enacting this chapter] may be cited as the ‘National Fish Hatchery System Volunteer Act of 2006’.”
 
-## § 760aa–1. Gifts to system and particular national fish hatcheries
+## § 760aa–1. Gifts to system and particular national fish hatcheries
 
 **(a) Authorization of gifts, devises, and bequests for system**
 
@@ -73,7 +73,7 @@ Any gift, devise, or bequest made for the benefit of a facility of the System sh
 
 Subject to the availability of appropriations and the requirements of the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a facility of the System. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
-(Pub. L. 109–360, § 3, Oct. 16, 2006, 120 Stat. 2059.)
+(Pub. L. 109–360, § 3, Oct. 16, 2006, 120 Stat. 2059.)
 
 **Editorial Notes**
 
@@ -81,7 +81,7 @@ Subject to the availability of appropriations and the requirements of the Fish a
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (b)(2)(B), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
-## § 760aa–2. Volunteer enhancement pilot projects
+## § 760aa–2. Volunteer enhancement pilot projects
 
 **(a) In general**
 
@@ -91,7 +91,7 @@ Subject to the availability of appropriations, the Secretary of the Interior sha
 
 Not later than 3 years after October 16, 2006, the Secretary shall submit a report to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate evaluating and making recommendations regarding the pilot projects.
 
-(Pub. L. 109–360, § 4, Oct. 16, 2006, 120 Stat. 2059.)
+(Pub. L. 109–360, § 4, Oct. 16, 2006, 120 Stat. 2059.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,7 +99,7 @@ Not later than 3 years after October 16, 2006, the Secretary shall submit a repo
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 760aa–3. Community partnership enhancement
+## § 760aa–3. Community partnership enhancement
 
 **(a) Projects and programs** Subject to the requirements of the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) and other applicable law, and such terms and conditions as the Secretary of the Interior determines to be appropriate, the Secretary may approve projects and programs for a facility of the System that—
 
@@ -117,7 +117,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 Amounts received by the Secretary of the Interior as a result of projects and programs under subsection (a) shall be deposited in a separate account in the Treasury. Amounts in the account that are attributable to activities at a particular facility of the System shall be available to the Secretary of the Interior, without further appropriation, to pay the costs of incidental expenses related to volunteer activities, and to carry out cooperative agreements for the hatchery facility.
 
-(Pub. L. 109–360, § 5, Oct. 16, 2006, 120 Stat. 2060.)
+(Pub. L. 109–360, § 5, Oct. 16, 2006, 120 Stat. 2060.)
 
 **Editorial Notes**
 
@@ -125,7 +125,7 @@ Amounts received by the Secretary of the Interior as a result of projects and pr
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (a), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
-## § 760aa–4. Hatchery education program development
+## § 760aa–4. Hatchery education program development
 
 **(a) Guidance** Not later than 1 year after October 16, 2006, the Secretary of the Interior shall develop guidance for the hatchery education programs to further the mission of the System and the purposes of individual hatcheries through—
 
@@ -139,6 +139,6 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (a), is act Mar. 
 
 Based on the guidance developed under subsection (a), the Secretary of the Interior may, with assistance from the Fish and Wildlife Management Assistance Program, develop or enhance hatchery educational programs as appropriate, based on the resources of individual hatcheries and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d).1
 
-<sup>1</sup>  So in original. No subsec. (d) has been enacted.
+<sup>1</sup> So in original. No subsec. (d) has been enacted.
 
-(Pub. L. 109–360, § 6, Oct. 16, 2006, 120 Stat. 2060.)
+(Pub. L. 109–360, § 6, Oct. 16, 2006, 120 Stat. 2060.)

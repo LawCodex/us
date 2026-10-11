@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. G, title LXXI, §§ 7113(b), 7114(b), Dec. 18, 2025, 139 Stat. 1668, added items 5107 and 5116 and struck out former item 5107 “Major acquisition risk assessment”.
+2025—Pub. L. 119–60, div. G, title LXXI, §§ 7113(b), 7114(b), Dec. 18, 2025, 139 Stat. 1668, added items 5107 and 5116 and struck out former item 5107 “Major acquisition risk assessment”.
 
-2022—Pub. L. 117–263, div. K, title CXII, §§ 11236(b)(2), 11256(b), 11262(b), Dec. 23, 2022, 136 Stat. 4036, 4056, 4061, added items 5113 to 5115.
+2022—Pub. L. 117–263, div. K, title CXII, §§ 11236(b)(2), 11256(b), 11262(b), Dec. 23, 2022, 136 Stat. 4036, 4056, 4061, added items 5113 to 5115.
 
-2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8215(d)(2), title LVXXXV [LXXXV], § 8501(b)(4), Jan. 1, 2021, 134 Stat. 4653, 4746, added items 5109 to 5112.
+2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8215(d)(2), title LVXXXV [LXXXV], § 8501(b)(4), Jan. 1, 2021, 134 Stat. 4653, 4746, added items 5109 to 5112.
 
-2018—Pub. L. 115–282, title I, § 122(a), title III, § 317(c), Dec. 4, 2018, 132 Stat. 4239, 4251, inserted chapter 51 designation and heading and added items 5101 to 5108.
+2018—Pub. L. 115–282, title I, § 122(a), title III, § 317(c), Dec. 4, 2018, 132 Stat. 4239, 4251, inserted chapter 51 designation and heading and added items 5101 to 5108.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Prohibition on Submission to Congress of Slideshow Presentations**
 
-Pub. L. 119–60, div. G, title LXXI, § 7120, Dec. 18, 2025, 139 Stat. 1674, provided that: “A slideshow presentation, including a PowerPoint document, shall not be submitted to Congress in lieu of the provision of a briefing (in person or written) or the submission of a report, plan, strategy, or any other document required by this Act [probably means div. G (§§ 7001–7701) of Pub. L. 119–60, see Tables for classification] or by chapter 51 of title 14, United States Code.”
+Pub. L. 119–60, div. G, title LXXI, § 7120, Dec. 18, 2025, 139 Stat. 1674, provided that: “A slideshow presentation, including a PowerPoint document, shall not be submitted to Congress in lieu of the provision of a briefing (in person or written) or the submission of a report, plan, strategy, or any other document required by this Act [probably means div. G (§§ 7001–7701) of Pub. L. 119–60, see Tables for classification] or by chapter 51 of title 14, United States Code.”
 
 **Notification**
 
-Pub. L. 119–60, div. G, title LXXII, § 7235, Dec. 18, 2025, 139 Stat. 1716, provided that:
+Pub. L. 119–60, div. G, title LXXII, § 7235, Dec. 18, 2025, 139 Stat. 1716, provided that:
 
 > **“(a) In General.—** The Commandant [of the Coast Guard] shall provide to the appropriate committees of Congress notification as described in subsection (b)—
 
@@ -67,7 +67,7 @@ Pub. L. 119–60, div. G, title LXXII, § 7235, Dec. 18, 2025, 139 Stat. 1716,
 
 > **“(4)** the Committee on Armed Services of the House of Representatives.”
 
-## § 5101. Transmission of annual Coast Guard authorization request
+## § 5101. Transmission of annual Coast Guard authorization request
 
 **(a) In General.—** Not later than 30 days after the date on which the President submits to Congress a budget for a fiscal year pursuant to section 1105 of title 31, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a Coast Guard authorization request with respect to such fiscal year.
 
@@ -79,31 +79,31 @@ Pub. L. 119–60, div. G, title LXXII, § 7235, Dec. 18, 2025, 139 Stat. 1716,
 
 **(3)** addresses any other matter that the Secretary determines is appropriate for inclusion in a Coast Guard authorization bill.
 
-(Added Pub. L. 113–281, title II, § 216(a), Dec. 18, 2014, 128 Stat. 3035, § 662a; renumbered § 2901 and amended Pub. L. 114–120, title I, § 101(d)(1), Feb. 8, 2016, 130 Stat. 31; renumbered § 5101 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240.)
+(Added Pub. L. 113–281, title II, § 216(a), Dec. 18, 2014, 128 Stat. 3035, § 662a; renumbered § 2901 and amended Pub. L. 114–120, title I, § 101(d)(1), Feb. 8, 2016, 130 Stat. 31; renumbered § 5101 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 122(b), renumbered section 2901 of this title as this section.
+2018—Pub. L. 115–282, § 122(b), renumbered section 2901 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 4903” for “section 2703”.
+Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 4903” for “section 2703”.
 
-Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 4901” for “section 2701”.
+Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 4901” for “section 2701”.
 
-2016—Pub. L. 114–120, § 101(d)(1)(A), (B), renumbered section 662a of this title as this section.
+2016—Pub. L. 114–120, § 101(d)(1)(A), (B), renumbered section 662a of this title as this section.
 
-Subsec. (b)(1). Pub. L. 114–120, § 101(d)(1)(C)(i), substituted “described in section 2703” for “described in section 661”.
+Subsec. (b)(1). Pub. L. 114–120, § 101(d)(1)(C)(i), substituted “described in section 2703” for “described in section 661”.
 
-Subsec. (b)(2). Pub. L. 114–120, § 101(d)(1)(C)(ii), substituted “described in section 2701” for “described in section 662”.
+Subsec. (b)(2). Pub. L. 114–120, § 101(d)(1)(C)(ii), substituted “described in section 2701” for “described in section 662”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Oversight of Funds**
 
-Pub. L. 119–60, div. G, title LXXI, § 7116, Dec. 18, 2025, 139 Stat. 1669, provided that: “Not later than 90 days after the date of enactment of this Act [Dec. 18, 2025], and annually thereafter, the Commandant [of the Coast Guard] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a detailed expenditure plan, including projected project timelines for each acquisition and procurement appropriated under section 1181 of title 14, United States Code, and a list of project locations to be funded under such section.”
+Pub. L. 119–60, div. G, title LXXI, § 7116, Dec. 18, 2025, 139 Stat. 1669, provided that: “Not later than 90 days after the date of enactment of this Act [Dec. 18, 2025], and annually thereafter, the Commandant [of the Coast Guard] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a detailed expenditure plan, including projected project timelines for each acquisition and procurement appropriated under section 1181 of title 14, United States Code, and a list of project locations to be funded under such section.”
 
-## § 5102. Capital investment plan
+## § 5102. Capital investment plan
 
 **(a) In General.—** Not later than 60 days after the date on which the President submits to Congress a budget pursuant to section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a capital investment plan for the Coast Guard that identifies for each capital asset for which appropriations are proposed in that budget—
 
@@ -133,9 +133,9 @@ Pub. L. 119–60, div. G, title LXXI, § 7116, Dec. 18, 2025, 139 Stat. 1669, 
 
 **(D)** other planned construction or improvement projects; and
 
-**(3)** recommended funding levels for each capital asset necessary to meet the estimated completion dates and total estimated costs included in the such 1
+**(3)** recommended funding levels for each capital asset necessary to meet the estimated completion dates and total estimated costs included in the such 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 asset’s approved acquisition program baseline.
 
@@ -145,13 +145,13 @@ asset’s approved acquisition program baseline.
 
 **(2)** the acquisition of a capital asset in excess of the number included in the approved acquisition program baseline.
 
-(Added Pub. L. 97–295, § 2(20)(A), Oct. 12, 1982, 96 Stat. 1303, § 663; amended Pub. L. 100–448, § 25, Sept. 28, 1988, 102 Stat. 1847; Pub. L. 101–595, title III, § 311(c), Nov. 16, 1990, 104 Stat. 2987; Pub. L. 107–295, title IV, § 408(a)(2), Nov. 25, 2002, 116 Stat. 2117; Pub. L. 112–213, title II, § 213(a), Dec. 20, 2012, 126 Stat. 1552; renumbered § 2902 and amended Pub. L. 114–120, title I, § 101(d)(2), title II, § 204(b), Feb. 8, 2016, 130 Stat. 31, 34; Pub. L. 115–232, div. C, title XXXV, §§ 3525, 3531(c)(15), Aug. 13, 2018, 132 Stat. 2316, 2320; renumbered § 5102 and amended Pub. L. 115–282, title I, § 122(b), title III, § 317(a), Dec. 4, 2018, 132 Stat. 4239, 4250.)
+(Added Pub. L. 97–295, § 2(20)(A), Oct. 12, 1982, 96 Stat. 1303, § 663; amended Pub. L. 100–448, § 25, Sept. 28, 1988, 102 Stat. 1847; Pub. L. 101–595, title III, § 311(c), Nov. 16, 1990, 104 Stat. 2987; Pub. L. 107–295, title IV, § 408(a)(2), Nov. 25, 2002, 116 Stat. 2117; Pub. L. 112–213, title II, § 213(a), Dec. 20, 2012, 126 Stat. 1552; renumbered § 2902 and amended Pub. L. 114–120, title I, § 101(d)(2), title II, § 204(b), Feb. 8, 2016, 130 Stat. 31, 34; Pub. L. 115–232, div. C, title XXXV, §§ 3525, 3531(c)(15), Aug. 13, 2018, 132 Stat. 2316, 2320; renumbered § 5102 and amended Pub. L. 115–282, title I, § 122(b), title III, § 317(a), Dec. 4, 2018, 132 Stat. 4239, 4250.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 663 | 14:656(note). | Oct. 3, 1980, Pub. L. 96–376, § 12, 94 Stat. 1511. |
+| 663 | 14:656(note). | Oct. 3, 1980, Pub. L. 96–376, § 12, 94 Stat. 1511. |
 
 The words “with the fiscal year 1982 budget request” and “subsequent” are omitted as executed.
 
@@ -159,9 +159,9 @@ The words “with the fiscal year 1982 budget request” and “subsequent” ar
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 122(b), renumbered section 2902 of this title as this section.
+2018—Pub. L. 115–282, § 122(b), renumbered section 2902 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 317(a)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than 60 days after the date on which the President submits to Congress a budget pursuant to section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+Subsec. (a). Pub. L. 115–282, § 317(a)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than 60 days after the date on which the President submits to Congress a budget pursuant to section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 
 “(1) a capital investment plan for the Coast Guard that identifies for each capital asset for which appropriations are proposed in that budget—
 
@@ -179,21 +179,21 @@ Subsec. (a). Pub. L. 115–282, § 317(a)(1), amended subsec. (a) generally. P
 
 “(2) a list of each unfunded priority for the Coast Guard.”
 
-Pub. L. 115–232, §§ 3525(1), 3531(c)(15), in introductory provisions, substituted “Not later than 60 days after the date” for “On the date” and “Commandant” for “Commandant of the Coast Guard”.
+Pub. L. 115–232, §§ 3525(1), 3531(c)(15), in introductory provisions, substituted “Not later than 60 days after the date” for “On the date” and “Commandant” for “Commandant of the Coast Guard”.
 
-Subsec. (a)(1)(F). Pub. L. 115–232, § 3525(2), (3), added subpar. (F).
+Subsec. (a)(1)(F). Pub. L. 115–232, § 3525(2), (3), added subpar. (F).
 
-Subsec. (c). Pub. L. 115–282, § 317(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) defined the terms “unfunded priority” and “new capital asset”.
+Subsec. (c). Pub. L. 115–282, § 317(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) defined the terms “unfunded priority” and “new capital asset”.
 
-2016—Pub. L. 114–120, § 101(d)(2), renumbered section 663 of this title as this section.
+2016—Pub. L. 114–120, § 101(d)(2), renumbered section 663 of this title as this section.
 
-Subsec. (a)(1)(B). Pub. L. 114–120, § 204(b)(1)(A), substituted “completion based on the proposed appropriations included in the budget;” for “completion;”.
+Subsec. (a)(1)(B). Pub. L. 114–120, § 204(b)(1)(A), substituted “completion based on the proposed appropriations included in the budget;” for “completion;”.
 
-Subsec. (a)(1)(D). Pub. L. 114–120, § 204(b)(1)(B), substituted “based on the proposed appropriations included in the budget;” for “at the projected funding levels;”.
+Subsec. (a)(1)(D). Pub. L. 114–120, § 204(b)(1)(B), substituted “based on the proposed appropriations included in the budget;” for “at the projected funding levels;”.
 
-Subsec. (b). Pub. L. 114–120, § 204(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 114–120, § 204(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 114–120, § 204(b)(2), (3), redesignated subsec. (b) as (c) and amended it generally. Prior to amendment, text read as follows: “In this section, the term ‘unfunded priority’ means a program or mission requirement that—
+Subsec. (c). Pub. L. 114–120, § 204(b)(2), (3), redesignated subsec. (b) as (c) and amended it generally. Prior to amendment, text read as follows: “In this section, the term ‘unfunded priority’ means a program or mission requirement that—
 
 “(1) has not been selected for funding in the applicable proposed budget;
 
@@ -213,7 +213,7 @@ Subsec. (c). Pub. L. 114–120, § 204(b)(2), (3), redesignated subsec. (b) as
 
 **Report on Shoreside Infrastructure and Facilities Projects**
 
-Pub. L. 117–263, div. K, title CXII, § 11201, Dec. 23, 2022, 136 Stat. 4006, provided that:
+Pub. L. 117–263, div. K, title CXII, § 11201, Dec. 23, 2022, 136 Stat. 4006, provided that:
 
 > **“(a) In General.—** Not less frequently than annually, the Commandant [of the Coast Guard] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
 
@@ -227,7 +227,7 @@ Pub. L. 117–263, div. K, title CXII, § 11201, Dec. 23, 2022, 136 Stat. 4006
 
 **Ensuring Maritime Coverage**
 
-Pub. L. 115–282, title VIII, § 817(d), Dec. 4, 2018, 132 Stat. 4307, provided that: “In order to meet Coast Guard mission requirements for search and rescue, ports, waterways, and coastal security, and maritime environmental response during recapitalization of Coast Guard vessels, the Coast Guard shall ensure continuity of the coverage, to the maximum extent practicable, in the locations that may lose assets.”
+Pub. L. 115–282, title VIII, § 817(d), Dec. 4, 2018, 132 Stat. 4307, provided that: “In order to meet Coast Guard mission requirements for search and rescue, ports, waterways, and coastal security, and maritime environmental response during recapitalization of Coast Guard vessels, the Coast Guard shall ensure continuity of the coverage, to the maximum extent practicable, in the locations that may lose assets.”
 
 **Additional Submissions**
 
@@ -235,13 +235,13 @@ Commandant of the Coast Guard shall submit to the Committee on Homeland Security
 
 **Capital Investment Plan**
 
-Pub. L. 111–281, title IX, § 918, Oct. 15, 2010, 124 Stat. 3022, which required the Commandant to submit to Congress the Coast Guard’s 5-year capital investment plan concurrent with the President’s budget submission for each fiscal year, was repealed by Pub. L. 112–213, title II, § 213(c)(3), Dec. 20, 2012, 126 Stat. 1553.
+Pub. L. 111–281, title IX, § 918, Oct. 15, 2010, 124 Stat. 3022, which required the Commandant to submit to Congress the Coast Guard’s 5-year capital investment plan concurrent with the President’s budget submission for each fiscal year, was repealed by Pub. L. 112–213, title II, § 213(c)(3), Dec. 20, 2012, 126 Stat. 1553.
 
 **Deepwater Reports**
 
-Pub. L. 109–241, title IV, § 408, July 11, 2006, 120 Stat. 537, as amended by Pub. L. 112–213, title II, § 210(c)(1), Dec. 20, 2012, 126 Stat. 1551, provided that:
+Pub. L. 109–241, title IV, § 408, July 11, 2006, 120 Stat. 537, as amended by Pub. L. 112–213, title II, § 210(c)(1), Dec. 20, 2012, 126 Stat. 1551, provided that:
 
-> **“[(a)** Repealed. Pub. L. 112–213, title II, § 210(c)(1), Dec. 20, 2012, 126 Stat. 1551.]
+> **“[(a)** Repealed. Pub. L. 112–213, title II, § 210(c)(1), Dec. 20, 2012, 126 Stat. 1551.]
 
 > **“(b) Deepwater Acceleration Report.—** Not later than 30 days after the date of enactment of this Act [July 11, 2006], the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the acceleration of the current Deepwater program acquisition timeline that reflects completion of the Deepwater program in each of 10 years and 15 years and includes—
 
@@ -347,13 +347,13 @@ Pub. L. 108–334, title II, Oct. 18, 2004, 118 Stat. 1306.
 
 **Unfunded Priorities**
 
-Pub. L. 108–334, title V, § 514, Oct. 18, 2004, 118 Stat. 1317, provided that: “The Commandant of the Coast Guard shall provide to the Congress each year, at the time that the President’s budget is submitted under section 1105(a) of title 31, United States Code, a list of approved but unfunded Coast Guard priorities and the funds needed for each such priority in the same manner and with the same contents as the unfunded priorities lists submitted by the chiefs of other Armed Services.”
+Pub. L. 108–334, title V, § 514, Oct. 18, 2004, 118 Stat. 1317, provided that: “The Commandant of the Coast Guard shall provide to the Congress each year, at the time that the President’s budget is submitted under section 1105(a) of title 31, United States Code, a list of approved but unfunded Coast Guard priorities and the funds needed for each such priority in the same manner and with the same contents as the unfunded priorities lists submitted by the chiefs of other Armed Services.”
 
 **Status Reports on Polar Icebreaking Vessels**
 
-Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Secretary of the department in which the Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least two new polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by section 663 [now 5102] of title 14, United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard.”
+Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Secretary of the department in which the Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least two new polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by section 663 [now 5102] of title 14, United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard.”
 
-## § 5103. Major acquisitions
+## § 5103. Major acquisitions
 
 **(a) In General.—** In conjunction with the transmittal by the President to Congress of the budget of the United States for fiscal year 2014 and biennially thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of all Level 1 acquisitions or Level 2 acquisitions.
 
@@ -391,9 +391,9 @@ Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The 
 
 **(1)** include information on the scope of the acquisition activities to be performed in the next fiscal year and on the adequacy of the current acquisition workforce to meet that anticipated workload;
 
-**(2)** specify the number of officers, members, and employees of the Coast Guard currently and planned to be assigned to each position designated under section 1102(c); 1
+**(2)** specify the number of officers, members, and employees of the Coast Guard currently and planned to be assigned to each position designated under section 1102(c); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -427,35 +427,35 @@ and
 
 **(2) Level 2 acquisition.—** The term “Level 2 acquisition” has the meaning given such term in section 1171.
 
-(Added Pub. L. 112–213, title II, § 210(a), Dec. 20, 2012, 126 Stat. 1550, § 569a; renumbered § 2903 and amended Pub. L. 114–120, title I, § 101(d)(3), title II, § 204(e), Feb. 8, 2016, 130 Stat. 31, 35; Pub. L. 115–232, div. C, title XXXV, § 3526(c), Aug. 13, 2018, 132 Stat. 2317; renumbered § 5103 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8214, Jan. 1, 2021, 134 Stat. 4650; Pub. L. 119–60, div. G, title LXXI, § 7112(a), Dec. 18, 2025, 139 Stat. 1666.)
+(Added Pub. L. 112–213, title II, § 210(a), Dec. 20, 2012, 126 Stat. 1550, § 569a; renumbered § 2903 and amended Pub. L. 114–120, title I, § 101(d)(3), title II, § 204(e), Feb. 8, 2016, 130 Stat. 31, 35; Pub. L. 115–232, div. C, title XXXV, § 3526(c), Aug. 13, 2018, 132 Stat. 2317; renumbered § 5103 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8214, Jan. 1, 2021, 134 Stat. 4650; Pub. L. 119–60, div. G, title LXXI, § 7112(a), Dec. 18, 2025, 139 Stat. 1666.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1102(c), referred to in subsec. (c)(2), was, prior to amendment of this section by Pub. L. 115–282, a reference to section 562(c) of this title, which was redesignated as section 562(b) by Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333. Section 562 of this title was renumbered section 1102 of this title by Pub. L. 115–282, title I, § 108(b)(2), Dec. 4, 2018, 132 Stat. 4208.
+Section 1102(c), referred to in subsec. (c)(2), was, prior to amendment of this section by Pub. L. 115–282, a reference to section 562(c) of this title, which was redesignated as section 562(b) by Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333. Section 562 of this title was renumbered section 1102 of this title by Pub. L. 115–282, title I, § 108(b)(2), Dec. 4, 2018, 132 Stat. 4208.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 7112(a)(1), substituted “Level 1 acquisitions or Level 2 acquisitions” for “major acquisition programs”.
+2025—Subsec. (a). Pub. L. 119–60, § 7112(a)(1), substituted “Level 1 acquisitions or Level 2 acquisitions” for “major acquisition programs”.
 
-Subsec. (b). Pub. L. 119–60, § 7112(a)(2), substituted “Level 1 acquisition or Level 2 acquisition” for “major acquisition program” in introductory provisions.
+Subsec. (b). Pub. L. 119–60, § 7112(a)(2), substituted “Level 1 acquisition or Level 2 acquisition” for “major acquisition program” in introductory provisions.
 
-Subsec. (f). Pub. L. 119–60, § 7112(a)(3), amended subsec. (f) generally. Prior to amendment, text read as follows: “In this section, the term ‘major acquisition program’ means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.”
+Subsec. (f). Pub. L. 119–60, § 7112(a)(3), amended subsec. (f) generally. Prior to amendment, text read as follows: “In this section, the term ‘major acquisition program’ means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.”
 
 2021—Subsec. (e)(3)(B) to (D). Pub. L. 116–283 added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-2018—Pub. L. 115–282, § 122(b), renumbered section 2903 of this title as this section.
+2018—Pub. L. 115–282, § 122(b), renumbered section 2903 of this title as this section.
 
-Subsec. (c)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 1102(c)” for “section 562(c)”.
+Subsec. (c)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 1102(c)” for “section 562(c)”.
 
 Subsecs. (f), (g). Pub. L. 115–232 redesignated subsec. (g) as (f) and struck out former subsec. (f) which required quarterly updates on risks of programs.
 
-2016—Pub. L. 114–120, § 101(d)(3)(A), (B), renumbered section 569a of this title as this section.
+2016—Pub. L. 114–120, § 101(d)(3)(A), (B), renumbered section 569a of this title as this section.
 
-Subsec. (c)(2). Pub. L. 114–120, § 101(d)(3)(C), struck out “of this subchapter” after “section 562(c)”.
+Subsec. (c)(2). Pub. L. 114–120, § 101(d)(3)(C), struck out “of this subchapter” after “section 562(c)”.
 
-Subsecs. (e) to (g). Pub. L. 114–120, § 204(e), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+Subsecs. (e) to (g). Pub. L. 114–120, § 204(e), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -463,7 +463,7 @@ Subsecs. (e) to (g). Pub. L. 114–120, § 204(e), added subsecs. (e) and (f) 
 
 Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives each plan required under subsection (e) of this section, see section 101(f) of Pub. L. 114–120, set out as a note under section 5110 of this title.
 
-## § 5104. Manpower requirements plan
+## § 5104. Manpower requirements plan
 
 **(a) In General.—** On the date on which the President submits to the Congress a budget for fiscal year 2017 under section 1105 of title 31, on the date on which the President submits to the Congress a budget for fiscal year 2019 under such section, and every 4 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a manpower requirements plan.
 
@@ -499,15 +499,15 @@ Commandant of the Coast Guard shall submit to the Committee on Homeland Security
 
 **(3)** any other Federal strategic planning effort the Commandant considers appropriate.
 
-(Added Pub. L. 114–120, title I, § 101(a), Feb. 8, 2016, 130 Stat. 30, § 2904; renumbered § 5104 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240.)
+(Added Pub. L. 114–120, title I, § 101(a), Feb. 8, 2016, 130 Stat. 30, § 2904; renumbered § 5104 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 122(b), renumbered section 2904 of this title as this section.
+2018—Pub. L. 115–282, § 122(b), renumbered section 2904 of this title as this section.
 
-Subsec. (c)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 5103” for “section 2903”.
+Subsec. (c)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 5103” for “section 2903”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -515,7 +515,7 @@ Subsec. (c)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 5103�
 
 Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives each plan required under this section, see section 101(f) of Pub. L. 114–120, set out as a note under section 5110 of this title.
 
-## § 5105. Inventory of real property
+## § 5105. Inventory of real property
 
 **(a) In General.—** The Commandant shall maintain an inventory of all real property, including submerged lands, under the control of the Coast Guard, which shall include—
 
@@ -545,7 +545,7 @@ Commandant of the Coast Guard shall submit to the Committee on Homeland Security
 
 **(B)** a discussion of the impact that such consolidation would have on Coast Guard mission effectiveness.
 
-(Added Pub. L. 113–281, title II, § 217(a), Dec. 18, 2014, 128 Stat. 3035, § 679; amended Pub. L. 115–232, div. C, title XXXV, § 3539, Aug. 13, 2018, 132 Stat. 2322; renumbered § 5105, Pub. L. 115–282, title I, § 122(b), Dec. 4, 2018, 132 Stat. 4239.)
+(Added Pub. L. 113–281, title II, § 217(a), Dec. 18, 2014, 128 Stat. 3035, § 679; amended Pub. L. 115–232, div. C, title XXXV, § 3539, Aug. 13, 2018, 132 Stat. 2322; renumbered § 5105, Pub. L. 115–282, title I, § 122(b), Dec. 4, 2018, 132 Stat. 4239.)
 
 **Editorial Notes**
 
@@ -553,19 +553,19 @@ Commandant of the Coast Guard shall submit to the Committee on Homeland Security
 
 2018—Pub. L. 115–282 renumbered section 679 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 3539(1), in introductory provisions, substituted “The Commandant shall maintain” for “Not later than September 30, 2015, the Commandant shall establish”.
+Subsec. (a). Pub. L. 115–232, § 3539(1), in introductory provisions, substituted “The Commandant shall maintain” for “Not later than September 30, 2015, the Commandant shall establish”.
 
-Subsec. (b). Pub. L. 115–232, § 3539(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Commandant shall—
+Subsec. (b). Pub. L. 115–232, § 3539(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Commandant shall—
 
 “(1) maintain the inventory required under subsection (a) on an ongoing basis; and
 
 “(2) update information on each unit of real property included in such inventory not later than 30 days after any change relating to the control of such property.”
 
-## § 5106. Annual performance report
+## § 5106. Annual performance report
 
 Not later than the date on which the President submits to Congress a budget pursuant to section 1105 of title 31, the Commandant of the Coast Guard shall make available on a public website and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an update on Coast Guard mission performance during the previous fiscal year.
 
-(Added Pub. L. 115–232, div. C, title XXXV, § 3521(b)(1), Aug. 13, 2018, 132 Stat. 2314, § 2905; renumbered § 5106, Pub. L. 115–282, title I, § 122(b), Dec. 4, 2018, 132 Stat. 4239.)
+(Added Pub. L. 115–232, div. C, title XXXV, § 3521(b)(1), Aug. 13, 2018, 132 Stat. 2314, § 2905; renumbered § 5106, Pub. L. 115–282, title I, § 122(b), Dec. 4, 2018, 132 Stat. 4239.)
 
 **Editorial Notes**
 
@@ -573,7 +573,7 @@ Not later than the date on which the President submits to Congress a budget purs
 
 2018—Pub. L. 115–282 renumbered section 2905 of this title as this section.
 
-## § 5107. Quarterly acquisition reports and major acquisition program risk assessment
+## § 5107. Quarterly acquisition reports and major acquisition program risk assessment
 
 **(a) In General.—** Not later than 45 days after the end of each fiscal quarter, the Commandant shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on all Level 1 and Level 2 acquisition programs, as such terms are defined in section 1171.
 
@@ -627,31 +627,31 @@ Not later than the date on which the President submits to Congress a budget purs
 
 **(d) Memorandum Deadline.—** Not later than 5 business days after the date on which the Secretary approves an Acquisition Decision Memorandum for programs described in this section, the Commandant shall submit such memorandum to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Added Pub. L. 115–232, div. C, title XXXV, § 3526(a), Aug. 13, 2018, 132 Stat. 2317, § 2906; renumbered § 5107 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8240(e), Jan. 1, 2021, 134 Stat. 4667; Pub. L. 119–60, div. G, title LXXI, §§ 7112(b), 7113(a), Dec. 18, 2025, 139 Stat. 1666.)
+(Added Pub. L. 115–232, div. C, title XXXV, § 3526(a), Aug. 13, 2018, 132 Stat. 2317, § 2906; renumbered § 5107 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8240(e), Jan. 1, 2021, 134 Stat. 4667; Pub. L. 119–60, div. G, title LXXI, §§ 7112(b), 7113(a), Dec. 18, 2025, 139 Stat. 1666.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7113(a), amended section generally. Prior to amendmemnt, section related to major acquisition program risk assessment.
+2025—Pub. L. 119–60, § 7113(a), amended section generally. Prior to amendmemnt, section related to major acquisition program risk assessment.
 
-Subsec. (a). Pub. L. 119–60, § 7112(b), substituted “section 1171” for “section 5103(f)”.
+Subsec. (a). Pub. L. 119–60, § 7112(b), substituted “section 1171” for “section 5103(f)”.
 
-2021—Subsec. (a). Pub. L. 116–283, § 8240(e)(1), substituted “October 15” for “April 15 and October 15”.
+2021—Subsec. (a). Pub. L. 116–283, § 8240(e)(1), substituted “October 15” for “April 15 and October 15”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 8240(e)(2)(A), substituted “the previous fiscal year” for “the 2 fiscal-year quarters preceding such assessment”.
+Subsec. (b)(2). Pub. L. 116–283, § 8240(e)(2)(A), substituted “the previous fiscal year” for “the 2 fiscal-year quarters preceding such assessment”.
 
-Subsec. (b)(3). Pub. L. 116–283, § 8240(e)(2)(B), substituted “such fiscal year” for “such 2 fiscal-year quarters”.
+Subsec. (b)(3). Pub. L. 116–283, § 8240(e)(2)(B), substituted “such fiscal year” for “such 2 fiscal-year quarters”.
 
-Subsec. (b)(4). Pub. L. 116–283, § 8240(e)(2)(C), substituted “such fiscal year” for “such 2 fiscal-year quarters”.
+Subsec. (b)(4). Pub. L. 116–283, § 8240(e)(2)(C), substituted “such fiscal year” for “such 2 fiscal-year quarters”.
 
-Subsec. (b)(5). Pub. L. 116–283, § 8240(e)(2)(D), substituted “such fiscal year” for “such 2 fiscal-year quarters”.
+Subsec. (b)(5). Pub. L. 116–283, § 8240(e)(2)(D), substituted “such fiscal year” for “such 2 fiscal-year quarters”.
 
-2018—Pub. L. 115–282, § 122(b), renumbered section 2906 of this title as this section.
+2018—Pub. L. 115–282, § 122(b), renumbered section 2906 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 5103(f)” for “section 2903(f)”.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 5103(f)” for “section 2903(f)”.
 
-## § 5108. Unfunded priorities list
+## § 5108. Unfunded priorities list
 
 **(a) In General.—** Not later than 60 days after the date on which the President submits to Congress a budget pursuant to section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a list of each unfunded priority for the Coast Guard.
 
@@ -665,9 +665,9 @@ Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 5103(f)�
 
 **(3)** the Commandant would have recommended for inclusion in the applicable proposed budget had additional resources been available or had the requirement emerged before the budget was submitted.
 
-(Added Pub. L. 115–282, title III, § 317(b), Dec. 4, 2018, 132 Stat. 4251.)
+(Added Pub. L. 115–282, title III, § 317(b), Dec. 4, 2018, 132 Stat. 4251.)
 
-## § 5109. Report on gender diversity in the Coast Guard
+## § 5109. Report on gender diversity in the Coast Guard
 
 **(a) In General.—** Not later than January 15, 2022, and biennially thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on gender diversity in the Coast Guard.
 
@@ -697,7 +697,7 @@ Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 5103(f)�
 
 **(5) Progress update.—** An update on the Coast Guard’s progress on the implementation of the action plan required under subsection (a) of section 8215 of the Elijah E. Cummings Coast Guard Authorization Act of 2020.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8215(d)(1), Jan. 1, 2021, 134 Stat. 4652.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8215(d)(1), Jan. 1, 2021, 134 Stat. 4652.)
 
 **Editorial Notes**
 
@@ -705,7 +705,7 @@ Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 5103(f)�
 
 Subsection (a) of section 8215 of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(5), is section 8215(a) of Pub. L. 116–283, div. G, title LVXXXII [LXXXII], Jan. 1, 2021, 134 Stat. 4650, which is set out as a note under section 504 of this title.
 
-## § 5110. Mission need statement
+## § 5110. Mission need statement
 
 **(a) In General.—** On the date on which the President submits to Congress a budget for fiscal year 2019 under section 1105 of title 31 and every 4 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an integrated major acquisition mission need statement.
 
@@ -723,7 +723,7 @@ Subsection (a) of section 8215 of the Elijah E. Cummings Coast Guard Authorizati
 
 **(3) Capital investment plan.—** The term “capital investment plan” means the plan required under section 5102(a)(1).
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2940, § 569; amended Pub. L. 112–213, title II, § 217(8), Dec. 20, 2012, 126 Stat. 1558; Pub. L. 113–281, title II, § 215(a), Dec. 18, 2014, 128 Stat. 3034; Pub. L. 114–120, title I, § 102(f), Feb. 8, 2016, 130 Stat. 33; Pub. L. 115–232, div. C, title XXXV, § 3536, Aug. 13, 2018, 132 Stat. 2322; renumbered § 1110 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240; renumbered § 5110, Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(3), Jan. 1, 2021, 134 Stat. 4745.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2940, § 569; amended Pub. L. 112–213, title II, § 217(8), Dec. 20, 2012, 126 Stat. 1558; Pub. L. 113–281, title II, § 215(a), Dec. 18, 2014, 128 Stat. 3034; Pub. L. 114–120, title I, § 102(f), Feb. 8, 2016, 130 Stat. 33; Pub. L. 115–232, div. C, title XXXV, § 3536, Aug. 13, 2018, 132 Stat. 2322; renumbered § 1110 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240; renumbered § 5110, Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(3), Jan. 1, 2021, 134 Stat. 4745.)
 
 **Editorial Notes**
 
@@ -731,17 +731,17 @@ Subsection (a) of section 8215 of the Elijah E. Cummings Coast Guard Authorizati
 
 2021—Pub. L. 116–283 renumbered section 1110 of this title as this section.
 
-2018—Pub. L. 115–282, § 108(b), renumbered section 569 of this title as this section.
+2018—Pub. L. 115–282, § 108(b), renumbered section 569 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232 substituted “for fiscal year 2019” for “for fiscal year 2016” and struck out “, on the date on which the President submits to Congress a budget for fiscal year 2019 under such section,” after “section 1105 of title 31”.
+Subsec. (a). Pub. L. 115–232 substituted “for fiscal year 2019” for “for fiscal year 2016” and struck out “, on the date on which the President submits to Congress a budget for fiscal year 2019 under such section,” after “section 1105 of title 31”.
 
-Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 5103” for “section 2903”.
+Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 5103” for “section 2903”.
 
-Subsec. (b)(3). Pub. L. 115–282, § 123(b)(2), substituted “section 5102(a)(1)” for “section 2902(a)(1)”.
+Subsec. (b)(3). Pub. L. 115–282, § 123(b)(2), substituted “section 5102(a)(1)” for “section 2902(a)(1)”.
 
-2016—Subsec. (b)(2). Pub. L. 114–120, § 102(f)(1), substituted “in section 2903” for “in section 569a(e)”.
+2016—Subsec. (b)(2). Pub. L. 114–120, § 102(f)(1), substituted “in section 2903” for “in section 569a(e)”.
 
-Subsec. (b)(3). Pub. L. 114–120, § 102(f)(2), substituted “under section 2902(a)(1)” for “under section 663(a)(1)”.
+Subsec. (b)(3). Pub. L. 114–120, § 102(f)(2), substituted “under section 2902(a)(1)” for “under section 663(a)(1)”.
 
 2014—Pub. L. 113–281 amended section generally. Prior to amendment, section related to submission of report, not later than Dec. 31, 2011, to appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period.
 
@@ -751,7 +751,7 @@ Subsec. (b)(3). Pub. L. 114–120, § 102(f)(2), substituted “under section 
 
 **Additional Submissions**
 
-Pub. L. 114–120, title I, § 101(f), Feb. 8, 2016, 130 Stat. 32, provided that:
+Pub. L. 114–120, title I, § 101(f), Feb. 8, 2016, 130 Stat. 32, provided that:
 
 > “The Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives—
 
@@ -763,7 +763,7 @@ Pub. L. 114–120, title I, § 101(f), Feb. 8, 2016, 130 Stat. 32, provided th
 
 > **“(4)** each mission need statement required under section 569 [now 5110] of title 14, United States Code.”
 
-## § 5111. Report on diversity at Coast Guard Academy
+## § 5111. Report on diversity at Coast Guard Academy
 
 **(a) In General.—** Not later than January 15, 2021, and annually thereafter, the Commandant shall submit a report on diversity at the Coast Guard Academy to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
@@ -781,7 +781,7 @@ Pub. L. 114–120, title I, § 101(f), Feb. 8, 2016, 130 Stat. 32, provided th
 
 **(6)** a summary of reported allegations of discrimination on the basis of race, color, national origin, sex, gender, or religion for the preceding 5 years.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8273, Jan. 1, 2021, 134 Stat. 4683.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8273, Jan. 1, 2021, 134 Stat. 4683.)
 
 **Editorial Notes**
 
@@ -789,7 +789,7 @@ Pub. L. 114–120, title I, § 101(f), Feb. 8, 2016, 130 Stat. 32, provided th
 
 Section 8272 of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(1), is section 8272 of Pub. L. 116–283, div. G, title LVXXXII [LXXXII], Jan. 1, 2021, 134 Stat. 4681, which is set out as a note under section 1901 of this title.
 
-## § 5112. Sexual assault and sexual harassment in the Coast Guard
+## § 5112. Sexual assault and sexual harassment in the Coast Guard
 
 **(a) In General.—** Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults and incidents of sexual harassment involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
@@ -813,25 +813,25 @@ Section 8272 of the Elijah E. Cummings Coast Guard Authorization Act of 2020, re
 
 **(D)** In this paragraph, the term “covered individual” means an individual who is identified as a victim of a sexual assault in the case files of a military criminal investigative organization.
 
-(Added and amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(7), Jan. 1, 2021, 134 Stat. 4745.)
+(Added and amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(7), Jan. 1, 2021, 134 Stat. 4745.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, formerly set out as a note under section 504 of this title, was redesignated as this section, transferred to appear after section 5111 of this title, and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(7)(A).
+Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, formerly set out as a note under section 504 of this title, was redesignated as this section, transferred to appear after section 5111 of this title, and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(7)(A).
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 8501(a)(7)(A), (B)(i), redesignated section 217 of Pub. L. 111–281 as this section, made technical changes to conform this section to other sections of this title, and substituted section catchline for former section catchline “Report on Sexual Assaults in the Coast Guard”. See Codification note above.
+2021—Pub. L. 116–283, § 8501(a)(7)(A), (B)(i), redesignated section 217 of Pub. L. 111–281 as this section, made technical changes to conform this section to other sections of this title, and substituted section catchline for former section catchline “Report on Sexual Assaults in the Coast Guard”. See Codification note above.
 
-Subsec. (b)(5). Pub. L. 116–283, § 8501(a)(7)(B)(ii), added par. (5).
+Subsec. (b)(5). Pub. L. 116–283, § 8501(a)(7)(B)(ii), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Coast Guard Implementation of Independent Review Commission Recommendations on Addressing Sexual Assault and Sexual Harassment in the Military**
 
-Pub. L. 119–60, div. G, title LXXV, § 7502, Dec. 18, 2025, 139 Stat. 1789, provided that:
+Pub. L. 119–60, div. G, title LXXV, § 7502, Dec. 18, 2025, 139 Stat. 1789, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall review the report of the Independent Review Commission titled ‘Hard Truths and the Duty to Change: Recommendations from the Independent Review Commission on Sexual Assault in the Military’ referred to in the memorandum of the Department of Defense titled ‘Memorandum for Senior Pentagon Leadership Commanders of the Combatant Commands Defense Agency and DoD Field Activity Directors’, dated September 22, 2021, (relating to commencing Department of Defense actions and implementation of the recommendations of the Independent Review Commission to address sexual assault and sexual harassment in the military).
 
@@ -863,13 +863,13 @@ Pub. L. 119–60, div. G, title LXXV, § 7502, Dec. 18, 2025, 139 Stat. 1789, 
 
 > **“(c) Briefing.—** Not later than 90 days after the date of enactment of this Act, and every 180 days thereafter through 2028, the Commandant [of the Coast Guard] shall provide the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives with a briefing on the status of the implementation of this section and any modification to the strategy and plan submitted under subsection (b).”
 
-## § 5113. Officers not on active duty promotion list
+## § 5113. Officers not on active duty promotion list
 
 Not later than 60 days after the date on which the President submits to Congress a budget pursuant to section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the number of Coast Guard officers serving at other Federal entities on a reimbursable basis, and the number of Coast Guard officers who are serving at other Federal agencies on a non-reimbursable basis, but not on the active duty promotion list.
 
-(Added Pub. L. 117–263, div. K, title CXII, § 11236(b)(1), Dec. 23, 2022, 136 Stat. 4036.)
+(Added Pub. L. 117–263, div. K, title CXII, § 11236(b)(1), Dec. 23, 2022, 136 Stat. 4036.)
 
-## § 5114. Expenses of performing and executing defense readiness missions
+## § 5114. Expenses of performing and executing defense readiness missions
 
 Not later than 1 year after the date of enactment of this section, and every February 1 thereafter, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that adequately represents a calculation of the annual costs and expenditures of performing and executing all defense readiness mission activities, including—
 
@@ -879,7 +879,7 @@ Not later than 1 year after the date of enactment of this section, and every Feb
 
 **(3)** any other related expenses, costs, or matters the Commandant considers appropriate or otherwise of interest to Congress.
 
-(Added Pub. L. 117–263, div. K, title CXII, § 11256(a), Dec. 23, 2022, 136 Stat. 4056.)
+(Added Pub. L. 117–263, div. K, title CXII, § 11256(a), Dec. 23, 2022, 136 Stat. 4056.)
 
 **Editorial Notes**
 
@@ -887,7 +887,7 @@ Not later than 1 year after the date of enactment of this section, and every Feb
 
 The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
 
-## § 5115. Major grants, contracts, or other transactions
+## § 5115. Major grants, contracts, or other transactions
 
 **(a) Notification.—**
 
@@ -929,9 +929,9 @@ The date of enactment of this section, referred to in text, is the date of enact
 
 **(2)** the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 117–263, div. K, title CXII, § 11262(a), Dec. 23, 2022, 136 Stat. 4060.)
+(Added Pub. L. 117–263, div. K, title CXII, § 11262(a), Dec. 23, 2022, 136 Stat. 4060.)
 
-## § 5116. Status of overdue reports
+## § 5116. Status of overdue reports
 
 **(a) In General.—** Not later than 60 days after the date of enactment of this section, and not later than March 1 of each year thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the status of reports or briefings required under this chapter that have not been delivered to Congress.
 
@@ -945,7 +945,7 @@ The date of enactment of this section, referred to in text, is the date of enact
 
 **(4)** The name of the flag officer responsible for the completion of each report or briefing.
 
-(Added Pub. L. 119–60, div. G, title LXXI, § 7114(a), Dec. 18, 2025, 139 Stat. 1668.)
+(Added Pub. L. 119–60, div. G, title LXXI, § 7114(a), Dec. 18, 2025, 139 Stat. 1668.)
 
 **Editorial Notes**
 

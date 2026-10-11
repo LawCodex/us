@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 9A—OFFICE OF LAW REVISION COUNSEL
 
-## § 285. Establishment
+## § 285. Establishment
 
 There is established in the House of Representatives an office to be known as the Office of the Law Revision Counsel, referred to hereinafter in this chapter as the “Office”.
 
-(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
+(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
 
 **Editorial Notes**
 
@@ -33,11 +33,11 @@ Section is based on section 205(a) of House Resolution No. 988, Ninety-third Con
 
 Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777, provided that the enactment of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, into permanent law is effective on Jan. 2, 1975. This chapter is derived from enactment into permanent law of section 205 of House Resolution No. 988.
 
-## § 285a. Purpose and policy
+## § 285a. Purpose and policy
 
 The principal purpose of the Office shall be to develop and keep current an official and positive codification of the laws of the United States. The Office shall maintain impartiality as to issues of legislative policy to be determined by the House.
 
-(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
+(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
 
 **Editorial Notes**
 
@@ -45,7 +45,7 @@ The principal purpose of the Office shall be to develop and keep current an offi
 
 Section is based on section 205(b) of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
 
-## § 285b. Functions
+## § 285b. Functions
 
 The functions of the Office shall be as follows:
 
@@ -63,7 +63,7 @@ The functions of the Office shall be as follows:
 
 **(7)** To provide the Committee on the Judiciary with such advice and assistance as the committee may request in carrying out its functions with respect to the revision and codification of the Federal statutes.
 
-(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 94–386, § 1, Aug. 14, 1976, 90 Stat. 1170.)
+(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 94–386, § 1, Aug. 14, 1976, 90 Stat. 1170.)
 
 **Editorial Notes**
 
@@ -79,21 +79,21 @@ Section is based on section 205(c) of House Resolution No. 988, Ninety-third Con
 
 **Preparation and Publication of District of Columbia Code Under Direction of Council of the District of Columbia**
 
-Pub. L. 94–386, § 2, Aug. 14, 1976, 90 Stat. 1170, provided that:
+Pub. L. 94–386, § 2, Aug. 14, 1976, 90 Stat. 1170, provided that:
 
 > **“(a)** After publication by the Law Revision Counsel of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, new editions of the District of Columbia Code (and annual cumulative supplements thereto) shall be prepared and published under the direction of the Council of the District of Columbia and shall set forth the general and permanent laws relating to or in force in the District of Columbia, whether enacted by the Congress or by the Council of the District of Columbia, except such laws as are of application in the District of Columbia by reason of being laws of the United States general and permanent in nature.
 
 > **“(b)** After completion of the printing of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, the Public Printer [now Director of the Government Publishing Office] shall, as the Council of the District of Columbia may request, either—
 
-> **“(1)** furnish to the Council of the District of Columbia, on such terms as the Public Printer [now Director of the Government Publishing Office] (in consultation with the Joint Committee on Printing) deems appropriate, the type used in preparing the 1973 edition of the District of Columbia Code and the fifth annual cumulative supplement to such edition;  or
+> **“(1)** furnish to the Council of the District of Columbia, on such terms as the Public Printer [now Director of the Government Publishing Office] (in consultation with the Joint Committee on Printing) deems appropriate, the type used in preparing the 1973 edition of the District of Columbia Code and the fifth annual cumulative supplement to such edition; or
 
 > **“(2)** make such arrangements with the Council of the District of Columbia as the Public Printer [now Director of the Government Publishing Office] (in consultation with the Joint Committee on Printing) deems appropriate for the printing by the Government Printing Office [now Government Publishing Office] of future editions of the District of Columbia Code, and annual cumulative supplements thereto, prepared under the direction of the Council of the District of Columbia.”
 
-## § 285c. Law Revision Counsel
+## § 285c. Law Revision Counsel
 
 The management, supervision, and administration of the Office are vested in the Law Revision Counsel, who shall be appointed by the Speaker without regard to political affiliation and solely on the basis of fitness to perform the duties of the position. Any person so appointed shall serve at the pleasure of the Speaker.
 
-(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
+(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
 
 **Editorial Notes**
 
@@ -101,7 +101,7 @@ The management, supervision, and administration of the Office are vested in the 
 
 Section is based on section 205(d) of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
 
-## § 285d. Staff; Deputy Law Revision Counsel; delegation of functions
+## § 285d. Staff; Deputy Law Revision Counsel; delegation of functions
 
 **(1)** With the approval of the Speaker, or in accordance with policies and procedures approved by the Speaker, the Law Revision Counsel shall appoint such employees as may be necessary for the prompt and efficient performance of the functions of the Office. Any such appointment shall be made without regard to political affiliation and solely on the basis of fitness to perform the duties of the position. Any person so appointed may be removed by the Law Revision Counsel with the approval of the Speaker, or in accordance with policies and procedures approved by the Speaker.
 
@@ -111,7 +111,7 @@ Section is based on section 205(d) of House Resolution No. 988, Ninety-third Con
 
 **(B)** The Law Revision Counsel may delegate to the Deputy Law Revision Counsel and to other employees appointed under paragraph (1) such of his or her functions as he or she considers necessary or appropriate.
 
-(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
+(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
 
 **Editorial Notes**
 
@@ -119,11 +119,11 @@ Section is based on section 205(d) of House Resolution No. 988, Ninety-third Con
 
 Section is based on section 205(e) of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
 
-## § 285e. Compensation
+## § 285e. Compensation
 
 The Law Revision Counsel shall be paid at a per annum gross rate determined by the Speaker not to exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker pursuant to the authority of section 4532 of this title; and members of the staff of the Office other than the Law Revision Counsel shall be paid at per annum gross rates fixed by the Law Revision Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the applicable rate of pay in effect under an order issued by the Speaker pursuant to the authority of such section.
 
-(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 116–94, div. E, title II, § 212(b)(3)(B), Dec. 20, 2019, 133 Stat. 2777.)
+(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 116–94, div. E, title II, § 212(b)(3)(B), Dec. 20, 2019, 133 Stat. 2777.)
 
 **Editorial Notes**
 
@@ -145,11 +145,11 @@ Amendment by Pub. L. 116–94 effective on the later of the first day of the fir
 
 Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
-## § 285f. Expenditures
+## § 285f. Expenditures
 
 In accordance with policies and procedures approved by the Speaker, the Law Revision Counsel is authorized to make such expenditures as may be necessary or appropriate for the functioning of the Office.
 
-(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
+(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777.)
 
 **Editorial Notes**
 
@@ -157,11 +157,11 @@ In accordance with policies and procedures approved by the Speaker, the Law Revi
 
 Section is based on section 205(g) of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
 
-## § 285g. Availability of applicable accounts of House
+## § 285g. Availability of applicable accounts of House
 
 Until such time as funds are appropriated by law to carry out the purpose of this chapter, the applicable accounts of the House of Representatives shall be available for such purpose.
 
-(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, § 207, Aug. 20, 1996, 110 Stat. 1742.)
+(Pub. L. 93–554, title I, ch. III, § 101, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, § 207, Aug. 20, 1996, 110 Stat. 1742.)
 
 **Editorial Notes**
 

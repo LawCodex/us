@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 46—GOLDEN PARACHUTE PAYMENTS
 
-## § 4999. Golden parachute payments
+## § 4999. Golden parachute payments
 
 **(a) Imposition of tax**
 
@@ -35,7 +35,7 @@ In the case of any excess parachute payment which is wages (within the meaning o
 
 For purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
 
-(Added Pub. L. 98–369, div. A, title I, § 67(b)(1), July 18, 1984, 98 Stat. 587.)
+(Added Pub. L. 98–369, div. A, title I, § 67(b)(1), July 18, 1984, 98 Stat. 587.)
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -19,39 +19,39 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–78, § 2(b)(2), July 30, 2024, 138 Stat. 1514, added item 1352.
+2024—Pub. L. 118–78, § 2(b)(2), July 30, 2024, 138 Stat. 1514, added item 1352.
 
-2009—Pub. L. 111–21, § 2(e)(2), May 20, 2009, 123 Stat. 1618, inserted “and commodities” after “Securities” in item 1348.
+2009—Pub. L. 111–21, § 2(e)(2), May 20, 2009, 123 Stat. 1618, inserted “and commodities” after “Securities” in item 1348.
 
-2008—Pub. L. 110–457, title II, § 222(e)(1), (3), Dec. 23, 2008, 122 Stat. 5070, 5071, inserted “AND OTHER FRAUD OFFENSES” after “MAIL FRAUD” in chapter heading and added item 1351.
+2008—Pub. L. 110–457, title II, § 222(e)(1), (3), Dec. 23, 2008, 122 Stat. 5070, 5071, inserted “AND OTHER FRAUD OFFENSES” after “MAIL FRAUD” in chapter heading and added item 1351.
 
-2002—Pub. L. 107–204, title VIII, § 807(b), title IX, §§ 902(b), 906(b), July 30, 2002, 116 Stat. 804–806, added items 1348 to 1350.
+2002—Pub. L. 107–204, title VIII, § 807(b), title IX, §§ 902(b), 906(b), July 30, 2002, 116 Stat. 804–806, added items 1348 to 1350.
 
-1996—Pub. L. 104–191, title II, § 242(a)(2), Aug. 21, 1996, 110 Stat. 2016, added item 1347.
+1996—Pub. L. 104–191, title II, § 242(a)(2), Aug. 21, 1996, 110 Stat. 2016, added item 1347.
 
-1990—Pub. L. 101–647, title XXXV, § 3541, Nov. 29, 1990, 104 Stat. 4925, substituted “or” for “and” in item 1342.
+1990—Pub. L. 101–647, title XXXV, § 3541, Nov. 29, 1990, 104 Stat. 4925, substituted “or” for “and” in item 1342.
 
-1988—Pub. L. 100–690, title VII, § 7603(b), Nov. 18, 1988, 102 Stat. 4508, added item 1346.
+1988—Pub. L. 100–690, title VII, § 7603(b), Nov. 18, 1988, 102 Stat. 4508, added item 1346.
 
-1984—Pub. L. 98–473, title II, §§ 1108(b), 1205(b), Oct. 12, 1984, 98 Stat. 2147, 2153, added items 1344 and 1345.
+1984—Pub. L. 98–473, title II, §§ 1108(b), 1205(b), Oct. 12, 1984, 98 Stat. 2147, 2153, added items 1344 and 1345.
 
-1952—Act July 16, 1952, ch. 879, § 18(b), 66 Stat. 722, added item 1343.
+1952—Act July 16, 1952, ch. 879, § 18(b), 66 Stat. 722, added item 1343.
 
-## § 1341. Frauds and swindles
+## § 1341. Frauds and swindles
 
 Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, or to sell, dispose of, loan, exchange, alter, give away, distribute, supply, or furnish or procure for unlawful use any counterfeit or spurious coin, obligation, security, or other article, or anything represented to be or intimated or held out to be such counterfeit or spurious article, for the purpose of executing such scheme or artifice or attempting so to do, places in any post office or authorized depository for mail matter, any matter or thing whatever to be sent or delivered by the Postal Service, or deposits or causes to be deposited any matter or thing whatever to be sent or delivered by any private or commercial interstate carrier, or takes or receives therefrom, any such matter or thing, or knowingly causes to be delivered by mail or such carrier according to the direction thereon, or at the place at which it is directed to be delivered by the person to whom it is addressed, any such matter or thing, shall be fined under this title or imprisoned not more than 20 years, or both. If the violation occurs in relation to, or involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with, a presidentially declared major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)), or affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 763; May 24, 1949, ch. 139, § 34, 63 Stat. 94; Pub. L. 91–375, § (6)(j)(11), Aug. 12, 1970, 84 Stat. 778; Pub. L. 101–73, title IX, § 961(i), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, § 2504(h), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXV, § 250006, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2087, 2147; Pub. L. 107–204, title IX, § 903(a), July 30, 2002, 116 Stat. 805; Pub. L. 110–179, § 4, Jan. 7, 2008, 121 Stat. 2557.)
+(June 25, 1948, ch. 645, 62 Stat. 763; May 24, 1949, ch. 139, § 34, 63 Stat. 94; Pub. L. 91–375, § (6)(j)(11), Aug. 12, 1970, 84 Stat. 778; Pub. L. 101–73, title IX, § 961(i), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, § 2504(h), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXV, § 250006, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2087, 2147; Pub. L. 107–204, title IX, § 903(a), July 30, 2002, 116 Stat. 805; Pub. L. 110–179, § 4, Jan. 7, 2008, 121 Stat. 2557.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 338 (Mar. 4, 1909, ch. 321, § 215, 35 Stat. 1130).
+Based on title 18, U.S.C., 1940 ed., § 338 (Mar. 4, 1909, ch. 321, § 215, 35 Stat. 1130).
 
 The obsolete argot of the underworld was deleted as suggested by Hon. Emerich B. Freed, United States district judge, in a paper read before the 1944 Judicial Conference for the sixth circuit in which he said:
 
-A brief reference to § 1341, which proposes to reenact the present section covering the use of the mails to defraud. This section is almost a page in length, is involved, and contains a great deal of superfluous language, including such terms as “sawdust swindle, green articles, green coin, green goods and green cigars.” This section could be greatly simplified, and now-meaningless language eliminated.
+A brief reference to § 1341, which proposes to reenact the present section covering the use of the mails to defraud. This section is almost a page in length, is involved, and contains a great deal of superfluous language, including such terms as “sawdust swindle, green articles, green coin, green goods and green cigars.” This section could be greatly simplified, and now-meaningless language eliminated.
 
 The other surplusage was likewise eliminated and the section simplified without change of meaning.
 
@@ -69,9 +69,9 @@ This section [section 34] corrects a typographical error in section 1341 of titl
 
 2002—Pub. L. 107–204 substituted “20 years” for “five years”.
 
-1994—Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “thing, shall be”.
+1994—Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “thing, shall be”.
 
-Pub. L. 103–322, § 250006, inserted “or deposits or causes to be deposited any matter or thing whatever to be sent or delivered by any private or commercial interstate carrier,” after “Postal Service,” and “or such carrier” after “causes to be delivered by mail”.
+Pub. L. 103–322, § 250006, inserted “or deposits or causes to be deposited any matter or thing whatever to be sent or delivered by any private or commercial interstate carrier,” after “Postal Service,” and “or such carrier” after “causes to be delivered by mail”.
 
 1990—Pub. L. 101–647 substituted “30” for “20” before “years”.
 
@@ -89,17 +89,17 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–204, title IX, § 901, July 30, 2002, 116 Stat. 804, provided that: “This title [enacting sections 1349 and 1350 of this title, amending this section, section 1343 of this title, and section 1131 of Title 29, Labor, and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘White-Collar Crime Penalty Enhancement Act of 2002’.”
+Pub. L. 107–204, title IX, § 901, July 30, 2002, 116 Stat. 804, provided that: “This title [enacting sections 1349 and 1350 of this title, amending this section, section 1343 of this title, and section 1131 of Title 29, Labor, and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘White-Collar Crime Penalty Enhancement Act of 2002’.”
 
-## § 1342. Fictitious name or address
+## § 1342. Fictitious name or address
 
 Whoever, for the purpose of conducting, promoting, or carrying on by means of the Postal Service, any scheme or device mentioned in section 1341 of this title or any other unlawful business, uses or assumes, or requests to be addressed by, any fictitious, false, or assumed title, name, or address or name other than his own proper name, or takes or receives from any post office or authorized depository of mail matter, any letter, postal card, package, or other mail matter addressed to any such fictitious, false, or assumed title, name, or address, or name other than his own proper name, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 91–375, § 6(j)(12), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 91–375, § 6(j)(12), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 339 (Mar. 4, 1909, ch. 321, § 216, 35 Stat. 1131).
+Based on title 18, U.S.C., 1940 ed., § 339 (Mar. 4, 1909, ch. 321, § 216, 35 Stat. 1131).
 
 The punishment language used in section 1341 of this title was substituted in lieu of the reference to it in this section.
 
@@ -119,11 +119,11 @@ Minor changes in phraseology were made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1343. Fraud by wire, radio, or television
+## § 1343. Fraud by wire, radio, or television
 
 Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, transmits or causes to be transmitted by means of wire, radio, or television communication in interstate or foreign commerce, any writings, signs, signals, pictures, or sounds for the purpose of executing such scheme or artifice, shall be fined under this title or imprisoned not more than 20 years, or both. If the violation occurs in relation to, or involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with, a presidentially declared major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)), or affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(Added July 16, 1952, ch. 879, § 18(a), 66 Stat. 722; amended July 11, 1956, ch. 561, 70 Stat. 523; Pub. L. 101–73, title IX, § 961(j), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, § 2504(i), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–204, title IX, § 903(b), July 30, 2002, 116 Stat. 805; Pub. L. 110–179, § 3, Jan. 7, 2008, 121 Stat. 2557.)
+(Added July 16, 1952, ch. 879, § 18(a), 66 Stat. 722; amended July 11, 1956, ch. 561, 70 Stat. 523; Pub. L. 101–73, title IX, § 961(j), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, § 2504(i), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–204, title IX, § 903(b), July 30, 2002, 116 Stat. 805; Pub. L. 110–179, § 3, Jan. 7, 2008, 121 Stat. 2557.)
 
 **Editorial Notes**
 
@@ -141,7 +141,7 @@ Whoever, having devised or intending to devise any scheme or artifice to defraud
 
 1956—Act July 11, 1956, substituted “transmitted by means of wire, radio, or television communication in interstate or foreign commerce” for “transmitted by means of interstate wire, radio, or television communication”.
 
-## § 1344. Bank fraud
+## § 1344. Bank fraud
 
 Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
@@ -151,7 +151,7 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(Added Pub. L. 98–473, title II, § 1108(a), Oct. 12, 1984, 98 Stat. 2147; amended Pub. L. 101–73, title IX, § 961(k), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, § 2504(j), Nov. 29, 1990, 104 Stat. 4861.)
+(Added Pub. L. 98–473, title II, § 1108(a), Oct. 12, 1984, 98 Stat. 2147; amended Pub. L. 101–73, title IX, § 961(k), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, § 2504(j), Nov. 29, 1990, 104 Stat. 4861.)
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or
 
 “(2) to obtain any of the moneys, funds, credits, assets, securities or other property owned by or under the custody or control of a federally chartered or insured financial institution by means of false or fraudulent pretenses, representations, or promises, shall be fined not more than $10,000, or imprisoned not more than five years, or both.”
 
-## § 1345. Injunctions against fraud
+## § 1345. Injunctions against fraud
 
 **(a)**
 
@@ -193,7 +193,7 @@ the Attorney General may commence a civil action in any Federal court to enjoin 
 
 **(b)** The court shall proceed as soon as practicable to the hearing and determination of such an action, and may, at any time before final determination, enter such a restraining order or prohibition, or take such other action, as is warranted to prevent a continuing and substantial injury to the United States or to any person or class of persons for whose protection the action is brought. A proceeding under this section is governed by the Federal Rules of Civil Procedure, except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
 
-(Added Pub. L. 98–473, title II, § 1205(a), Oct. 12, 1984, 98 Stat. 2152; amended Pub. L. 100–690, title VII, § 7077, Nov. 18, 1988, 102 Stat. 4406; Pub. L. 101–647, title XXV, § 2521(b)(2), title XXXV, § 3542, Nov. 29, 1990, 104 Stat. 4865, 4925; Pub. L. 103–322, title XXXIII, § 330011(k), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, § 247, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 107–273, div. B, title IV, § 4002(b)(14), Nov. 2, 2002, 116 Stat. 1808.)
+(Added Pub. L. 98–473, title II, § 1205(a), Oct. 12, 1984, 98 Stat. 2152; amended Pub. L. 100–690, title VII, § 7077, Nov. 18, 1988, 102 Stat. 4406; Pub. L. 101–647, title XXV, § 2521(b)(2), title XXXV, § 3542, Nov. 29, 1990, 104 Stat. 4865, 4925; Pub. L. 103–322, title XXXIII, § 330011(k), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, § 247, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 107–273, div. B, title IV, § 4002(b)(14), Nov. 2, 2002, 116 Stat. 1808.)
 
 **Editorial Notes**
 
@@ -205,19 +205,19 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (b), are set out
 
 **Amendments**
 
-2002—Subsec. (a)(1)(B). Pub. L. 107–273, § 4002(b)(14)(A), substituted “; or” for “, or” at end.
+2002—Subsec. (a)(1)(B). Pub. L. 107–273, § 4002(b)(14)(A), substituted “; or” for “, or” at end.
 
-Subsec. (a)(1)(C). Pub. L. 107–273, § 4002(b)(14)(B), substituted semicolon for period at end.
+Subsec. (a)(1)(C). Pub. L. 107–273, § 4002(b)(14)(B), substituted semicolon for period at end.
 
-1996—Subsec. (a)(1)(C). Pub. L. 104–191, § 247(a), added subpar. (C).
+1996—Subsec. (a)(1)(C). Pub. L. 104–191, § 247(a), added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 104–191, § 247(b), inserted “or a Federal health care offense” after “title)”.
+Subsec. (a)(2). Pub. L. 104–191, § 247(b), inserted “or a Federal health care offense” after “title)”.
 
-1994—Pub. L. 103–322, § 330011(k), repealed Pub. L. 101–647, § 3542. See 1990 Amendment note below.
+1994—Pub. L. 103–322, § 330011(k), repealed Pub. L. 101–647, § 3542. See 1990 Amendment note below.
 
-1990—Pub. L. 101–647, § 2521(b)(2), added subsec. (a), inserted subsec. (b) designation, and struck out former first sentence which read as follows: “Whenever it shall appear that any person is engaged or is about to engage in any act which constitutes or will constitute a violation of this chapter, or of section 287, 371 (insofar as such violation involves a conspiracy to defraud the United States or any agency thereof), or 1001 of this title the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such violation.”
+1990—Pub. L. 101–647, § 2521(b)(2), added subsec. (a), inserted subsec. (b) designation, and struck out former first sentence which read as follows: “Whenever it shall appear that any person is engaged or is about to engage in any act which constitutes or will constitute a violation of this chapter, or of section 287, 371 (insofar as such violation involves a conspiracy to defraud the United States or any agency thereof), or 1001 of this title the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such violation.”
 
-Pub. L. 101–647, § 3542, which directed insertion of a comma after “of this title”, was repealed by Pub. L. 103–322, § 330011(k).
+Pub. L. 101–647, § 3542, which directed insertion of a comma after “of this title”, was repealed by Pub. L. 103–322, § 330011(k).
 
 1988—Pub. L. 100–690 inserted “or of section 287, 371 (insofar as such violation involves a conspiracy to defraud the United States or any agency thereof), or 1001 of this title” after “violation of this chapter,”.
 
@@ -225,15 +225,15 @@ Pub. L. 101–647, § 3542, which directed insertion of a comma after “of th
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(k), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective Nov. 29, 1990.
+Pub. L. 103–322, title XXXIII, § 330011(k), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective Nov. 29, 1990.
 
-## § 1346. Definition of “scheme or artifice to defraud”
+## § 1346. Definition of “scheme or artifice to defraud”
 
 For the purposes of this chapter, the term “scheme or artifice to defraud” includes a scheme or artifice to deprive another of the intangible right of honest services.
 
-(Added Pub. L. 100–690, title VII, § 7603(a), Nov. 18, 1988, 102 Stat. 4508.)
+(Added Pub. L. 100–690, title VII, § 7603(a), Nov. 18, 1988, 102 Stat. 4508.)
 
-## § 1347. Health care fraud
+## § 1347. Health care fraud
 
 **(a)** Whoever knowingly and willfully executes, or attempts to execute, a scheme or artifice—
 
@@ -245,7 +245,7 @@ in connection with the delivery of or payment for health care benefits, items, o
 
 **(b)** With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
 
-(Added Pub. L. 104–191, title II, § 242(a)(1), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title X, § 10606(b), Mar. 23, 2010, 124 Stat. 1008.)
+(Added Pub. L. 104–191, title II, § 242(a)(1), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title X, § 10606(b), Mar. 23, 2010, 124 Stat. 1008.)
 
 **Editorial Notes**
 
@@ -253,7 +253,7 @@ in connection with the delivery of or payment for health care benefits, items, o
 
 2010—Pub. L. 111–148 designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 1348. Securities and commodities fraud
+## § 1348. Securities and commodities fraud
 
 Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
@@ -263,29 +263,29 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 shall be fined under this title, or imprisoned not more than 25 years, or both.
 
-(Added Pub. L. 107–204, title VIII, § 807(a), July 30, 2002, 116 Stat. 804; amended Pub. L. 111–21, § 2(e)(1), May 20, 2009, 123 Stat. 1618.)
+(Added Pub. L. 107–204, title VIII, § 807(a), July 30, 2002, 116 Stat. 804; amended Pub. L. 111–21, § 2(e)(1), May 20, 2009, 123 Stat. 1618.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Pub. L. 111–21, § 2(e)(1)(A), inserted “and commodities” before “fraud” in section catchline.
+2009—Pub. L. 111–21, § 2(e)(1)(A), inserted “and commodities” before “fraud” in section catchline.
 
-Pars. (1), (2). Pub. L. 111–21, § 2(e)(1)(B), (C), inserted “any commodity for future delivery, or any option on a commodity for future delivery, or” before “any security”.
+Pars. (1), (2). Pub. L. 111–21, § 2(e)(1)(B), (C), inserted “any commodity for future delivery, or any option on a commodity for future delivery, or” before “any security”.
 
-## § 1349. Attempt and conspiracy
+## § 1349. Attempt and conspiracy
 
 Any person who attempts or conspires to commit any offense under this chapter shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
-(Added Pub. L. 107–204, title IX, § 902(a), July 30, 2002, 116 Stat. 805.)
+(Added Pub. L. 107–204, title IX, § 902(a), July 30, 2002, 116 Stat. 805.)
 
-## § 1350. Failure of corporate officers to certify financial reports
+## § 1350. Failure of corporate officers to certify financial reports
 
 **(a) Certification of Periodic Financial Reports.—** Each periodic report containing financial statements filed by an issuer with the Securities Exchange Commission pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78*o*(d)) shall be accompanied by a written statement by the chief executive officer and chief financial officer (or equivalent thereof) of the issuer.
 
-**(b) Content.—** The statement required under subsection (a) shall certify that the periodic report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act pf 1
+**(b) Content.—** The statement required under subsection (a) shall certify that the periodic report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act pf 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 1934 (15 U.S.C. 78m or 78*o*(d)) and that information contained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the issuer.
 
@@ -295,23 +295,23 @@ Any person who attempts or conspires to commit any offense under this chapter sh
 
 **(2)** willfully certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $5,000,000, or imprisoned not more than 20 years, or both.
 
-(Added Pub. L. 107–204, title IX, § 906(a), July 30, 2002, 116 Stat. 806.)
+(Added Pub. L. 107–204, title IX, § 906(a), July 30, 2002, 116 Stat. 806.)
 
-## § 1351. Fraud in foreign labor contracting
+## § 1351. Fraud in foreign labor contracting
 
 **(a) Work Inside the United States.—** Whoever knowingly and with intent to defraud recruits, solicits, or hires a person outside the United States or causes another person to recruit, solicit, or hire a person outside the United States, or attempts to do so, for purposes of employment in the United States by means of materially false or fraudulent pretenses, representations or promises regarding that employment shall be fined under this title or imprisoned for not more than 5 years, or both.
 
 **(b) Work Outside the United States.—** Whoever knowingly and with intent to defraud recruits, solicits, or hires a person outside the United States or causes another person to recruit, solicit, or hire a person outside the United States, or attempts to do so, for purposes of employment performed on a United States Government contract performed outside the United States, or on a United States military installation or mission outside the United States or other property or premises outside the United States owned or controlled by the United States Government, by means of materially false or fraudulent pretenses, representations, or promises regarding that employment, shall be fined under this title or imprisoned for not more than 5 years, or both.
 
-(Added Pub. L. 110–457, title II, § 222(e)(2), Dec. 23, 2008, 122 Stat. 5070; amended Pub. L. 112–239, div. A, title XVII, § 1706(a), Jan. 2, 2013, 126 Stat. 2097.)
+(Added Pub. L. 110–457, title II, § 222(e)(2), Dec. 23, 2008, 122 Stat. 5070; amended Pub. L. 112–239, div. A, title XVII, § 1706(a), Jan. 2, 2013, 126 Stat. 2097.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 112–239, § 1706(a)(1), which directed substitution of “(a) Work Inside the United States.—Whoever knowingly and with intent to defraud recruits, solicits, or hires a person outside the United States or causes another person to recruit, solicit, or hire a person outside the United States, or attempts to do so,” for “Whoever knowingly and with the intent to defraud recruits, solicits or hires a person outside the United States”, was executed by making the substitution for “Whoever knowingly and with intent to defraud recruits, solicits or hires a person outside the United States” to reflect the probable intent of Congress.
+2013—Subsec. (a). Pub. L. 112–239, § 1706(a)(1), which directed substitution of “(a) Work Inside the United States.—Whoever knowingly and with intent to defraud recruits, solicits, or hires a person outside the United States or causes another person to recruit, solicit, or hire a person outside the United States, or attempts to do so,” for “Whoever knowingly and with the intent to defraud recruits, solicits or hires a person outside the United States”, was executed by making the substitution for “Whoever knowingly and with intent to defraud recruits, solicits or hires a person outside the United States” to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 112–239, § 1706(a)(2), added subsec. (b).
+Subsec. (b). Pub. L. 112–239, § 1706(a)(2), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -319,7 +319,7 @@ Subsec. (b). Pub. L. 112–239, § 1706(a)(2), added subsec. (b).
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013 and applicable to conduct taking place on or after Jan. 2, 2013, see section 7104d(c)(3) of Title 22, Foreign Relations and Intercourse.
 
-## § 1352. Demands by foreign officials for bribes
+## § 1352. Demands by foreign officials for bribes
 
 **(a) Definitions.—** In this section:
 
@@ -387,7 +387,7 @@ in connection with obtaining or retaining business for or with, or directing bus
 
 **(5) Rule of construction.—** This subsection shall not be construed as encompassing conduct that would violate section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) or section 104 or 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2; 15 U.S.C. 78dd–3) whether pursuant to a theory of direct liability, conspiracy, complicity, or otherwise.
 
-(Added Pub. L. 118–78, § 2(b)(1), July 30, 2024, 138 Stat. 1512.)
+(Added Pub. L. 118–78, § 2(b)(1), July 30, 2024, 138 Stat. 1512.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 1—DEFINITIONS
 
-## § 101. Agency
+## § 101. Agency
 
 In this title, “agency” means a department, agency, or instrumentality of the United States Government.
 
@@ -29,7 +29,7 @@ In this title, “agency” means a department, agency, or instrumentality of th
 
 The section is included to avoid the necessity for defining “agency” each time it is used in the revised title.
 
-## § 102. Executive agency
+## § 102. Executive agency
 
 In this title, “executive agency” means a department, agency, or instrumentality in the executive branch of the United States Government.
 
@@ -43,7 +43,7 @@ In this title, “executive agency” means a department, agency, or instrumenta
 
 The section is included to avoid the necessity for defining “executive agency” each time it is used in the revised title.
 
-## § 103. United States
+## § 103. United States
 
 In this title, “United States”, when used in a geographic sense, means the States of the United States and the District of Columbia.
 

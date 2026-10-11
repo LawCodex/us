@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 54—TRANSPORTATION, SALE, AND HANDLING OF CERTAIN ANIMALS
 
-## § 2131. Congressional statement of policy
+## § 2131. Congressional statement of policy
 
 The Congress finds that animals and activities which are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce or the free flow thereof, and that regulation of animals and activities as provided in this chapter is necessary to prevent and eliminate burdens upon such commerce and to effectively regulate such commerce, in order—
 
@@ -27,7 +27,7 @@ The Congress finds that animals and activities which are regulated under this ch
 
 The Congress further finds that it is essential to regulate, as provided in this chapter, the transportation, purchase, sale, housing, care, handling, and treatment of animals by carriers or by persons or organizations engaged in using them for research or experimental purposes or for exhibition purposes or holding them for sale as pets or for any such purpose or use.
 
-(Pub. L. 89–544, § 1(b), formerly § 1, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, § 2, Dec. 24, 1970, 84 Stat. 1560; renumbered and amended Pub. L. 94–279, § 2, Apr. 22, 1976, 90 Stat. 417.)
+(Pub. L. 89–544, § 1(b), formerly § 1, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, § 2, Dec. 24, 1970, 84 Stat. 1560; renumbered and amended Pub. L. 94–279, § 2, Apr. 22, 1976, 90 Stat. 417.)
 
 **Editorial Notes**
 
@@ -41,27 +41,27 @@ The Congress further finds that it is essential to regulate, as provided in this
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XVII, § 1759, Dec. 23, 1985, 99 Stat. 1650, provided that: “This subtitle [subtitle F (§§ 1751–1759), enacting section 2157 of this title, amending sections 2132, 2143 to 2146, and 2149 of this title, and enacting provisions set out as notes under this section] shall take effect 1 year after the date of the enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title XVII, § 1759, Dec. 23, 1985, 99 Stat. 1650, provided that: “This subtitle [subtitle F (§§ 1751–1759), enacting section 2157 of this title, amending sections 2132, 2143 to 2146, and 2149 of this title, and enacting provisions set out as notes under this section] shall take effect 1 year after the date of the enactment of this Act [Dec. 23, 1985].”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–579, § 23, Dec. 24, 1970, 84 Stat. 1565, provided that: “The amendments made by this Act [enacting section 2155 of this title, amending this section and sections 2132, 2133, 2134, 2135, 2136, 2137, 2138, 2139, 2140, 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2149, and 2150 of this title, repealing section 2148 of this title, and enacting provisions set out as notes under this section] shall take effect one year after the date of enactment of this Act [Dec. 24, 1970], except for the amendments to sections 16, 17, 19, and 20 of the Act of August 24, 1966 [sections 2146, 2147, 2149, and 2150 of this title], which shall become effective thirty days after the date of enactment of this Act [Dec. 24, 1970]”.
+Pub. L. 91–579, § 23, Dec. 24, 1970, 84 Stat. 1565, provided that: “The amendments made by this Act [enacting section 2155 of this title, amending this section and sections 2132, 2133, 2134, 2135, 2136, 2137, 2138, 2139, 2140, 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2149, and 2150 of this title, repealing section 2148 of this title, and enacting provisions set out as notes under this section] shall take effect one year after the date of enactment of this Act [Dec. 24, 1970], except for the amendments to sections 16, 17, 19, and 20 of the Act of August 24, 1966 [sections 2146, 2147, 2149, and 2150 of this title], which shall become effective thirty days after the date of enactment of this Act [Dec. 24, 1970]”.
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–279, § 1, Apr. 22, 1976, 90 Stat. 417, provided: “That this Act [enacting section 2156 of this title, amending this section, sections 2132, 2134, 2136, 2139 to 2146, 2149, 2153 to 2155 of this title, and section 3001 of Title 39, Postal Service, repealing section 2150 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Animal Welfare Act Amendments of 1976’.”
+Pub. L. 94–279, § 1, Apr. 22, 1976, 90 Stat. 417, provided: “That this Act [enacting section 2156 of this title, amending this section, sections 2132, 2134, 2136, 2139 to 2146, 2149, 2153 to 2155 of this title, and section 3001 of Title 39, Postal Service, repealing section 2150 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Animal Welfare Act Amendments of 1976’.”
 
 **Short Title of 1970 Amendment**
 
-Pub. L. 91–579, § 1, Dec. 24, 1970, 84 Stat. 1560, provided: “That this Act [enacting section 2155 of this title, amending this section and sections 2132, 2133, 2134, 2135, 2136, 2137, 2138, 2139, 2140, 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2149, and 2150 of this title, repealing section 2148 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Animal Welfare Act of 1970’.”
+Pub. L. 91–579, § 1, Dec. 24, 1970, 84 Stat. 1560, provided: “That this Act [enacting section 2155 of this title, amending this section and sections 2132, 2133, 2134, 2135, 2136, 2137, 2138, 2139, 2140, 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2149, and 2150 of this title, repealing section 2148 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Animal Welfare Act of 1970’.”
 
 **Short Title**
 
-Pub. L. 89–544, § 1(a), as added by Pub. L. 94–279, § 2, Apr. 22, 1976, 90 Stat. 417, provided: “That this Act [enacting this chapter] may be cited as the ‘Animal Welfare Act’.”
+Pub. L. 89–544, § 1(a), as added by Pub. L. 94–279, § 2, Apr. 22, 1976, 90 Stat. 417, provided: “That this Act [enacting this chapter] may be cited as the ‘Animal Welfare Act’.”
 
 **Congressional Findings for 1985 Amendment**
 
-Pub. L. 99–198, title XVII, subtitle F (§§ 1751–1759), § 1751, Dec. 23, 1985, 99 Stat. 1645, provided that:
+Pub. L. 99–198, title XVII, subtitle F (§§ 1751–1759), § 1751, Dec. 23, 1985, 99 Stat. 1645, provided that:
 
 > “For the purposes of this subtitle [see Effective Date of 1985 Amendment note above], the Congress finds that—
 
@@ -77,7 +77,7 @@ Pub. L. 99–198, title XVII, subtitle F (§§ 1751–1759), § 1751, Dec. 2
 
 Pub. L. 99–198, title XVII, 1756(b), Dec. 23, 1985, 99 Stat. 1650, provided that: “For purposes of this Act [see Tables for classification], the term ‘animal’ shall have the same meaning as defined in section 2(g) of the Animal Welfare Act (7 U.S.C. 2132(g)).”
 
-## § 2132. Definitions
+## § 2132. Definitions
 
 In this chapter:
 
@@ -115,25 +115,25 @@ In this chapter:
 
 **(o)** The term “Federal research facility” means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
 
-(Pub. L. 89–544, § 2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, § 3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§ 3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, § 1756(a), Dec. 23, 1985, 99 Stat. 1650; Pub. L. 107–171, title X, § 10301, May 13, 2002, 116 Stat. 491; Pub. L. 112–261, § 1, Jan. 10, 2013, 126 Stat. 2428; Pub. L. 113–79, title XII, § 12308(a)(1), Feb. 7, 2014, 128 Stat. 990.)
+(Pub. L. 89–544, § 2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, § 3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§ 3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, § 1756(a), Dec. 23, 1985, 99 Stat. 1650; Pub. L. 107–171, title X, § 10301, May 13, 2002, 116 Stat. 491; Pub. L. 112–261, § 1, Jan. 10, 2013, 126 Stat. 2428; Pub. L. 113–79, title XII, § 12308(a)(1), Feb. 7, 2014, 128 Stat. 990.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Pub. L. 113–79, § 12308(a)(1)(A), substituted “In this chapter:” for “When used in this chapter—” in introductory provisions.
+2014—Pub. L. 113–79, § 12308(a)(1)(A), substituted “In this chapter:” for “When used in this chapter—” in introductory provisions.
 
-Subsecs. (a), (b), (d), (e). Pub. L. 113–79, § 12308(a)(1)(C), substituted period for semicolon at end.
+Subsecs. (a), (b), (d), (e). Pub. L. 113–79, § 12308(a)(1)(C), substituted period for semicolon at end.
 
-Subsec. (f)(2). Pub. L. 113–79, § 12308(a)(1)(B), substituted “(2) any dog for hunting, security, or breeding purposes. Such term does not include a retail pet store (other than a retail pet store which sells any animals to a research facility, an exhibitor, or another dealer).” for “(2) any dog for hunting, security, or breeding purposes, except that this term does not include—
+Subsec. (f)(2). Pub. L. 113–79, § 12308(a)(1)(B), substituted “(2) any dog for hunting, security, or breeding purposes. Such term does not include a retail pet store (other than a retail pet store which sells any animals to a research facility, an exhibitor, or another dealer).” for “(2) any dog for hunting, security, or breeding purposes, except that this term does not include—
 
 “(i) a retail pet store except such store which sells any animals to a research facility, an exhibitor, or a dealer; or
 
 “(ii) any person who does not sell, or negotiate the purchase or sale of any wild animal, dog, or cat, and who derives no more than $500 gross income from the sale of other animals during any calendar year;”.
 
-Subsecs. (g), (h) to (k), (m). Pub. L. 113–79, § 12308(a)(1)(C), substituted period for semicolon at end.
+Subsecs. (g), (h) to (k), (m). Pub. L. 113–79, § 12308(a)(1)(C), substituted period for semicolon at end.
 
-Subsec. (n). Pub. L. 113–79, § 12308(a)(1)(D), substituted period at end for “; and”.
+Subsec. (n). Pub. L. 113–79, § 12308(a)(1)(D), substituted period at end for “; and”.
 
 2013—Subsec. (h). Pub. L. 112–261 inserted “an owner of a common, domesticated household pet who derives less than a substantial portion of income from a nonprimary source (as determined by the Secretary) for exhibiting an animal that exclusively resides at the residence of the pet owner,” after “stores,”.
 
@@ -141,31 +141,31 @@ Subsec. (n). Pub. L. 113–79, § 12308(a)(1)(D), substituted period at end fo
 
 1985—Subsecs. (k) to (*o*). Pub. L. 99–198 added subsecs. (k) to (*o*).
 
-1976—Subsec. (c). Pub. L. 94–279, § 3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
+1976—Subsec. (c). Pub. L. 94–279, § 3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
 
-Subsec. (d). Pub. L. 94–279, § 3(1), substituted definition of “State” for definition of “affecting commerce”.
+Subsec. (d). Pub. L. 94–279, § 3(1), substituted definition of “State” for definition of “affecting commerce”.
 
-Subsec. (e). Pub. L. 94–279, § 3(2), substituted “in commerce” for “affecting commerce”.
+Subsec. (e). Pub. L. 94–279, § 3(2), substituted “in commerce” for “affecting commerce”.
 
-Subsec. (f). Pub. L. 94–279, § 3(2), (3), made changes in phraseology, restructured subsection and expanded definition of “dealer” to include persons who negotiate the purchase or sale of protected animals.
+Subsec. (f). Pub. L. 94–279, § 3(2), (3), made changes in phraseology, restructured subsection and expanded definition of “dealer” to include persons who negotiate the purchase or sale of protected animals.
 
-Subsec. (g). Pub. L. 94–279, § 3(4), expanded definition of “animal” to include dogs used for hunting, security, or breeding purposes.
+Subsec. (g). Pub. L. 94–279, § 3(4), expanded definition of “animal” to include dogs used for hunting, security, or breeding purposes.
 
-Subsecs. (i), (j). Pub. L. 94–279, § 4, added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 94–279, § 4, added subsecs. (i) and (j).
 
-1970—Subsec. (b). Pub. L. 91–579, § 3(1), inserted “of the United States or his representative who shall be an employee of the United States Department of Agriculture” after “Secretary of Agriculture”.
+1970—Subsec. (b). Pub. L. 91–579, § 3(1), inserted “of the United States or his representative who shall be an employee of the United States Department of Agriculture” after “Secretary of Agriculture”.
 
-Subsec. (c). Pub. L. 91–579, § 3(2), substituted “trade, traffic, commerce, transportation among the several States, or between any State” for “commerce between any State”.
+Subsec. (c). Pub. L. 91–579, § 3(2), substituted “trade, traffic, commerce, transportation among the several States, or between any State” for “commerce between any State”.
 
-Subsec. (d). Pub. L. 91–579, § 3(3), substituted definition of “affecting commerce” for definition of “dog”.
+Subsec. (d). Pub. L. 91–579, § 3(3), substituted definition of “affecting commerce” for definition of “dog”.
 
-Subsec. (e). Pub. L. 91–579, § 3(3), struck out definition of “cat” and substituted for it a definition of “research facility” formerly set out in subsec. (f), and, in such definition as transferred from former subsec. (f), extended the term’s meaning to include those using “animals” rather than only dogs and cats and allowed exemptions of schools, organizations, institutions, or persons which do not use live dogs or cats, with such exemption to be inapplicable in the case of schools, organizations, institutions, and persons in biomedical research using a substantial number of live animals.
+Subsec. (e). Pub. L. 91–579, § 3(3), struck out definition of “cat” and substituted for it a definition of “research facility” formerly set out in subsec. (f), and, in such definition as transferred from former subsec. (f), extended the term’s meaning to include those using “animals” rather than only dogs and cats and allowed exemptions of schools, organizations, institutions, or persons which do not use live dogs or cats, with such exemption to be inapplicable in the case of schools, organizations, institutions, and persons in biomedical research using a substantial number of live animals.
 
-Subsec. (f). Pub. L. 91–579, § 3(3), substituted definition of “dealer” formerly contained in subsec. (g) for definition of “research facility” and in such definition of “dealer” as thus transferred inserted provisions extending meaning to include live or dead animals rather than only dogs and cats, adding teaching and exhibition purposes or uses as pets, and exempting retail pet stores unless such stores sell animals to a research facility, an exhibitor, or a dealer. Definition of “research facility” transferred to subsec. (e) and amended.
+Subsec. (f). Pub. L. 91–579, § 3(3), substituted definition of “dealer” formerly contained in subsec. (g) for definition of “research facility” and in such definition of “dealer” as thus transferred inserted provisions extending meaning to include live or dead animals rather than only dogs and cats, adding teaching and exhibition purposes or uses as pets, and exempting retail pet stores unless such stores sell animals to a research facility, an exhibitor, or a dealer. Definition of “research facility” transferred to subsec. (e) and amended.
 
-Subsec. (g). Pub. L. 91–579, § 3(3), substituted definition of “animal” formerly contained in subsec. (h) for definition of “dealer” and in such definition of “animal” as thus transferred inserted stipulation “live or dead” to the species already covered, and inserted provisions to include such warm-blooded animals as may be determined by the Secretary but to exclude specific animals used for research, food and fiber, and the improvement of animal breeding, nutrition, management, or production efficiency. Definition of “dealer” transferred to subsec. (f) and amended.
+Subsec. (g). Pub. L. 91–579, § 3(3), substituted definition of “animal” formerly contained in subsec. (h) for definition of “dealer” and in such definition of “animal” as thus transferred inserted stipulation “live or dead” to the species already covered, and inserted provisions to include such warm-blooded animals as may be determined by the Secretary but to exclude specific animals used for research, food and fiber, and the improvement of animal breeding, nutrition, management, or production efficiency. Definition of “dealer” transferred to subsec. (f) and amended.
 
-Subsec. (h). Pub. L. 91–579, § 3(3), substituted definition of “exhibitor” for definition of “animal”. Definition of “animal” transferred to subsec. (g) and amended.
+Subsec. (h). Pub. L. 91–579, § 3(3), substituted definition of “exhibitor” for definition of “animal”. Definition of “animal” transferred to subsec. (g) and amended.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -179,7 +179,7 @@ Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see sectio
 
 **Report on Rats, Mice, and Birds**
 
-Pub. L. 107–171, title X, § 10304, May 13, 2002, 116 Stat. 492, provided that:
+Pub. L. 107–171, title X, § 10304, May 13, 2002, 116 Stat. 492, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of enactment of this Act [May 13, 2002], the National Research Council shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on the implications of including rats, mice, and birds within the definition of animal under the regulations promulgated under the Animal Welfare Act (7 U.S.C. 2131 et seq.).
 
@@ -235,17 +235,17 @@ Pub. L. 107–171, title X, § 10304, May 13, 2002, 116 Stat. 492, provided th
 
 > **“(B)** preventing any duplication of regulatory requirements.”
 
-## § 2133. Licensing of dealers and exhibitors
+## § 2133. Licensing of dealers and exhibitors
 
 The Secretary shall issue licenses to dealers and exhibitors upon application therefor in such form and manner as he may prescribe and upon payment of such fee established pursuant to 2153 of this title: *Provided*, That no such license shall be issued until the dealer or exhibitor shall have demonstrated that his facilities comply with the standards promulgated by the Secretary pursuant to section 2143 of this title: *Provided, however*, That a dealer or exhibitor shall not be required to obtain a license as a dealer or exhibitor under this chapter if the size of the business is determined by the Secretary to be de minimis. The Secretary is further authorized to license, as dealers or exhibitors, persons who do not qualify as dealers or exhibitors within the meaning of this chapter upon such persons’ complying with the requirements specified above and agreeing, in writing, to comply with all the requirements of this chapter and the regulations promulgated by the Secretary hereunder.
 
-(Pub. L. 89–544, § 3, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 4, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 113–79, title XII, § 12308(a)(2), Feb. 7, 2014, 128 Stat. 990.)
+(Pub. L. 89–544, § 3, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 4, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 113–79, title XII, § 12308(a)(2), Feb. 7, 2014, 128 Stat. 990.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Pub. L. 113–79 substituted “: *Provided, however*, That a dealer or exhibitor shall not be required to obtain a license as a dealer or exhibitor under this chapter if the size of the business is determined by the Secretary to be de minimis.” for “: *Provided, however*, That any retail pet store or other person who derives less than a substantial portion of his income (as determined by the Secretary) from the breeding and raising of dogs or cats on his own premises and sells any such dog or cat to a dealer or research facility shall not be required to obtain a license as a dealer or exhibitor under this chapter.”
+2014—Pub. L. 113–79 substituted “: *Provided, however*, That a dealer or exhibitor shall not be required to obtain a license as a dealer or exhibitor under this chapter if the size of the business is determined by the Secretary to be de minimis.” for “: *Provided, however*, That any retail pet store or other person who derives less than a substantial portion of his income (as determined by the Secretary) from the breeding and raising of dogs or cats on his own premises and sells any such dog or cat to a dealer or research facility shall not be required to obtain a license as a dealer or exhibitor under this chapter.”
 
 1970—Pub. L. 91–579 inserted references to exhibitors and retail pet stores.
 
@@ -255,11 +255,11 @@ The Secretary shall issue licenses to dealers and exhibitors upon application th
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2134. Valid license for dealers and exhibitors required
+## § 2134. Valid license for dealers and exhibitors required
 
 No dealer or exhibitor shall sell or offer to sell or transport or offer for transportation, in commerce, to any research facility or for exhibition or for use as a pet any animal, or buy, sell, offer to buy or sell, transport or offer for transportation, in commerce, to or from another dealer or exhibitor under this chapter any animals, unless and until such dealer or exhibitor shall have obtained a license from the Secretary and such license shall not have been suspended or revoked.
 
-(Pub. L. 89–544, § 4, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 5, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 94–279, § 5, Apr. 22, 1976, 90 Stat. 418.)
+(Pub. L. 89–544, § 4, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 5, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 94–279, § 5, Apr. 22, 1976, 90 Stat. 418.)
 
 **Editorial Notes**
 
@@ -275,11 +275,11 @@ No dealer or exhibitor shall sell or offer to sell or transport or offer for tra
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2135. Time period for disposal of dogs or cats by dealers or exhibitors
+## § 2135. Time period for disposal of dogs or cats by dealers or exhibitors
 
 No dealer or exhibitor shall sell or otherwise dispose of any dog or cat within a period of five business days after the acquisition of such animal or within such other period as may be specified by the Secretary: *Provided*, That operators of auction sales subject to section 2142 of this title shall not be required to comply with the provisions of this section.
 
-(Pub. L. 89–544, § 5, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 6, Dec. 24, 1970, 84 Stat. 1561.)
+(Pub. L. 89–544, § 5, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 6, Dec. 24, 1970, 84 Stat. 1561.)
 
 **Editorial Notes**
 
@@ -293,17 +293,17 @@ No dealer or exhibitor shall sell or otherwise dispose of any dog or cat within 
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2136. Registration of research facilities, handlers, carriers and unlicensed exhibitors
+## § 2136. Registration of research facilities, handlers, carriers and unlicensed exhibitors
 
 Every research facility, every intermediate handler, every carrier, and every exhibitor not licensed under section 2133 of this title shall register with the Secretary in accordance with such rules and regulations as he may prescribe.
 
-(Pub. L. 89–544, § 6, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 7, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 94–279, § 6, Apr. 22, 1976, 90 Stat. 418.)
+(Pub. L. 89–544, § 6, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 7, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 94–279, § 6, Apr. 22, 1976, 90 Stat. 418.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Pub. L. 94–279 inserted “, every intermediate handler, every carrier,” after “research facility”.
+1976—Pub. L. 94–279 inserted “, every intermediate handler, every carrier,” after “research facility”.
 
 1970—Pub. L. 91–579 inserted reference to exhibitors not licensed under section 2133 of this title.
 
@@ -313,11 +313,11 @@ Every research facility, every intermediate handler, every carrier, and every ex
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2137. Purchase of dogs or cats by research facilities prohibited except from authorized operators of auction sales and licensed dealers or exhibitors
+## § 2137. Purchase of dogs or cats by research facilities prohibited except from authorized operators of auction sales and licensed dealers or exhibitors
 
 It shall be unlawful for any research facility to purchase any dog or cat from any person except an operator of an auction sale subject to section 2142 of this title or a person holding a valid license as a dealer or exhibitor issued by the Secretary pursuant to this chapter unless such person is exempted from obtaining such license under section 2133 of this title.
 
-(Pub. L. 89–544, § 7, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 8, Dec. 24, 1970, 84 Stat. 1561.)
+(Pub. L. 89–544, § 7, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 8, Dec. 24, 1970, 84 Stat. 1561.)
 
 **Editorial Notes**
 
@@ -331,11 +331,11 @@ It shall be unlawful for any research facility to purchase any dog or cat from a
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2138. Purchase of dogs or cats by United States Government facilities prohibited except from authorized operators of auction sales and licensed dealers or exhibitors
+## § 2138. Purchase of dogs or cats by United States Government facilities prohibited except from authorized operators of auction sales and licensed dealers or exhibitors
 
 No department, agency, or instrumentality of the United States which uses animals for research or experimentation or exhibition shall purchase or otherwise acquire any dog or cat for such purposes from any person except an operator of an auction sale subject to section 2142 of this title or a person holding a valid license as a dealer or exhibitor issued by the Secretary pursuant to this chapter unless such person is exempted from obtaining such license under section 2133 of this title.
 
-(Pub. L. 89–544, § 8, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 9, Dec. 24, 1970, 84 Stat. 1562.)
+(Pub. L. 89–544, § 8, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 9, Dec. 24, 1970, 84 Stat. 1562.)
 
 **Editorial Notes**
 
@@ -349,11 +349,11 @@ No department, agency, or instrumentality of the United States which uses animal
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2139. Principal-agent relationship established
+## § 2139. Principal-agent relationship established
 
 When construing or enforcing the provisions of this chapter, the act, omission, or failure of any person acting for or employed by a research facility, a dealer, or an exhibitor or a person licensed as a dealer or an exhibitor pursuant to the second sentence of section 2133 of this title, or an operator of an auction sale subject to section 2142 of this title, or an intermediate handler, or a carrier, within the scope of his employment or office, shall be deemed the act, omission, or failure of such research facility, dealer, exhibitor, licensee, operator of an auction sale, intermediate handler, or carrier, as well as of such person.
 
-(Pub. L. 89–544, § 9, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 10, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, § 7, Apr. 22, 1976, 90 Stat. 418.)
+(Pub. L. 89–544, § 9, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 10, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, § 7, Apr. 22, 1976, 90 Stat. 418.)
 
 **Editorial Notes**
 
@@ -369,17 +369,17 @@ When construing or enforcing the provisions of this chapter, the act, omission, 
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2140. Recordkeeping by dealers, exhibitors, research facilities, intermediate handlers, and carriers
+## § 2140. Recordkeeping by dealers, exhibitors, research facilities, intermediate handlers, and carriers
 
-Dealers and exhibitors shall make and retain for such reasonable period of time as the Secretary may prescribe, such records with respect to the purchase, sale, transportation, identification, and previous ownership of animals as the Secretary may prescribe. Research facilities shall make and retain such records only with respect to the purchase, sale, transportation, identification, and previous ownership of live dogs and cats. At the request of the Secretary, any regulatory agency of the Federal Government which requires records to be maintained by intermediate handlers and carriers with respect to the transportation, receiving, handling, and delivery of animals on forms prescribed by the agency, shall require there to be included in such forms, and intermediate handlers and carriers shall include in such forms, such information as the Secretary may require for the effective administration of this chapter. Such information shall be retained for such reasonable period of time as the Secretary may prescribe. If regulatory agencies of the Federal Government do not prescribe requirements for any such forms, intermediate handlers and carriers shall make and retain for such reasonable period  as  the  Secretary  may  prescribe  such records with respect to the transportation, receiving, handling, and delivery of animals as the Secretary may prescribe. Such records shall be made available at all reasonable times for inspection and copying by the Secretary.
+Dealers and exhibitors shall make and retain for such reasonable period of time as the Secretary may prescribe, such records with respect to the purchase, sale, transportation, identification, and previous ownership of animals as the Secretary may prescribe. Research facilities shall make and retain such records only with respect to the purchase, sale, transportation, identification, and previous ownership of live dogs and cats. At the request of the Secretary, any regulatory agency of the Federal Government which requires records to be maintained by intermediate handlers and carriers with respect to the transportation, receiving, handling, and delivery of animals on forms prescribed by the agency, shall require there to be included in such forms, and intermediate handlers and carriers shall include in such forms, such information as the Secretary may require for the effective administration of this chapter. Such information shall be retained for such reasonable period of time as the Secretary may prescribe. If regulatory agencies of the Federal Government do not prescribe requirements for any such forms, intermediate handlers and carriers shall make and retain for such reasonable period as the Secretary may prescribe such records with respect to the transportation, receiving, handling, and delivery of animals as the Secretary may prescribe. Such records shall be made available at all reasonable times for inspection and copying by the Secretary.
 
-(Pub. L. 89–544, § 10, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 11, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, § 8, Apr. 22, 1976, 90 Stat. 418.)
+(Pub. L. 89–544, § 10, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 11, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, § 8, Apr. 22, 1976, 90 Stat. 418.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Pub. L. 94–279 struck out “, upon forms supplied by the Secretary” after “ownership of animals as the Secretary may prescribe” and inserted provisions dealing with the records required to be maintained by intermediate handlers and carriers relating to the transportation, receiving, handling and delivery of animals.
+1976—Pub. L. 94–279 struck out “, upon forms supplied by the Secretary” after “ownership of animals as the Secretary may prescribe” and inserted provisions dealing with the records required to be maintained by intermediate handlers and carriers relating to the transportation, receiving, handling and delivery of animals.
 
 1970—Pub. L. 91–579 extended recordkeeping requirements to include exhibitors and to include animals, as defined, rather than only dogs and cats, except that research facilities shall continue to keep required records only for live dogs and cats.
 
@@ -389,11 +389,11 @@ Dealers and exhibitors shall make and retain for such reasonable period of time 
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2141. Marking and identification of animals
+## § 2141. Marking and identification of animals
 
 All animals delivered for transportation, transported, purchased, or sold, in commerce, by a dealer or exhibitor shall be marked or identified at such time and in such humane manner as the Secretary may prescribe: *Provided*, That only live dogs and cats need be so marked or identified by a research facility.
 
-(Pub. L. 89–544, § 11, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 12, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, § 5, Apr. 22, 1976, 90 Stat. 418.)
+(Pub. L. 89–544, § 11, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 12, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, § 5, Apr. 22, 1976, 90 Stat. 418.)
 
 **Editorial Notes**
 
@@ -409,11 +409,11 @@ All animals delivered for transportation, transported, purchased, or sold, in co
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2142. Humane standards and recordkeeping requirements at auction sales
+## § 2142. Humane standards and recordkeeping requirements at auction sales
 
 The Secretary is authorized to promulgate humane standards and recordkeeping requirements governing the purchase, handling, or sale of animals, in commerce, by dealers, research facilities, and exhibitors at auction sales and by the operators of such auction sales. The Secretary is also authorized to require the licensing of operators of auction sales where any dogs or cats are sold, in commerce, under such conditions as he may prescribe, and upon payment of such fee as prescribed by the Secretary under section 2153 of this title.
 
-(Pub. L. 89–544, § 12, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 13, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, § 5, Apr. 22, 1976, 90 Stat. 418.)
+(Pub. L. 89–544, § 12, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 13, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, § 5, Apr. 22, 1976, 90 Stat. 418.)
 
 **Editorial Notes**
 
@@ -429,7 +429,7 @@ The Secretary is authorized to promulgate humane standards and recordkeeping req
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2143. Standards and certification process for humane handling, care, treatment, and transportation of animals
+## § 2143. Standards and certification process for humane handling, care, treatment, and transportation of animals
 
 **(a) Promulgation of standards, rules, regulations, and orders; requirements; research facilities; State authority**
 
@@ -475,15 +475,15 @@ Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see sectio
 
 **(A)** Nothing in this chapter—
 
-**(i)** except as provided in paragraphs 1
+**(i)** except as provided in paragraphs 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (7) of this subsection, shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to the design, outlines, or guidelines of actual research or experimentation by a research facility as determined by such research facility;
 
-**(ii)** except as provided 2
+**(ii)** except as provided 2
 
-<sup>2</sup>  So in original. Probably should be followed by “in”.
+<sup>2</sup> So in original. Probably should be followed by “in”.
 
 subparagraphs (A) and (C)(ii) through (v) of paragraph (3) and paragraph (7) of this subsection, shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to the performance of actual research or experimentation by a research facility as determined by such research facility; and
 
@@ -577,7 +577,7 @@ to ensure compliance with the provisions of this chapter to minimize pain and di
 
 **(B)** minimize pain and distress to animals, such as anesthetic and analgesic procedures.
 
-**(f) 3 [footnote: 3 So in original. Two subsecs. (f) have been enacted.] Suspension or revocation of Federal support for research projects; prerequisites; appeal procedure**
+**(f) 3 [footnote: 3 So in original. Two subsecs. (f) have been enacted.] Suspension or revocation of Federal support for research projects; prerequisites; appeal procedure**
 
 In any case in which a Federal agency funding a research project determines that conditions of animal care, treatment, or practice in a particular project have not been in compliance with standards promulgated under this chapter, despite notification by the Secretary or such Federal agency to the research facility and an opportunity for correction, such agency shall suspend or revoke Federal support for the project. Any research facility losing Federal support as a result of actions taken under the preceding sentence shall have the right of appeal as provided in sections 701 through 706 of title 5.
 
@@ -593,21 +593,21 @@ No dogs or cats, or additional kinds or classes of animals designated by regulat
 
 No intermediate handler or carrier involved in the transportation of any animal in commerce shall participate in any arrangement or engage in any practice under which the cost of such animal or the cost of the transportation of such animal is to be paid and collected upon delivery of the animal to the consignee, unless the consignor guarantees in writing the payment of transportation charges for any animal not claimed within a period of 48 hours after notice to the consignee of arrival of the animal, including, where necessary, both the return transportation charges and an amount sufficient to reimburse the carrier for all out-of-pocket expenses incurred for the care, feeding, and storage of such animals.
 
-(Pub. L. 89–544, § 13, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 14, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, §§ 9, 10, Apr. 22, 1976, 90 Stat. 418, 419; Pub. L. 99–198, title XVII, § 1752, Dec. 23, 1985, 99 Stat. 1645.)
+(Pub. L. 89–544, § 13, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 14, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, §§ 9, 10, Apr. 22, 1976, 90 Stat. 418, 419; Pub. L. 99–198, title XVII, § 1752, Dec. 23, 1985, 99 Stat. 1645.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1985—Subsec. (a)(1) to (3). Pub. L. 99–198, § 1752(a)(2), substituted pars. (1) to (3) for first two sentences of subsec. (a) which read as follows: “The Secretary shall promulgate standards to govern the humane handling, care, treatment, and transportation of animals by dealers, research facilities, and exhibitors. Such standards shall include minimum requirements with respect to handling, housing, feeding, watering, sanitation, ventilation, shelter from extremes of weather and temperatures, adequate veterinary care, including the appropriate use of anesthetic, analgesic or tranquilizing drugs, when such use would be proper in the opinion of the attending veterinarian of such research facilities, and separation by species when the Secretary finds such separation necessary for the humane handling, care, or treatment of animals.”
+1985—Subsec. (a)(1) to (3). Pub. L. 99–198, § 1752(a)(2), substituted pars. (1) to (3) for first two sentences of subsec. (a) which read as follows: “The Secretary shall promulgate standards to govern the humane handling, care, treatment, and transportation of animals by dealers, research facilities, and exhibitors. Such standards shall include minimum requirements with respect to handling, housing, feeding, watering, sanitation, ventilation, shelter from extremes of weather and temperatures, adequate veterinary care, including the appropriate use of anesthetic, analgesic or tranquilizing drugs, when such use would be proper in the opinion of the attending veterinarian of such research facilities, and separation by species when the Secretary finds such separation necessary for the humane handling, care, or treatment of animals.”
 
-Subsec. (a)(4) to (8). Pub. L. 99–198, § 1752(b), designated third and fourth sentences of subsec. (a) as par. (4), designated fifth sentence of subsec. (a) as par. (5), and substituted pars. (6) to (8) for last sentence of subsec. (a) which read as follows: “Nothing in this chapter shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to design, outlines, guidelines, or performance of actual research or experimentation by a research facility as determined by such research facility: *Provided*, That the Secretary shall require, at least annually, every research facility to show that professionally acceptable standards governing the care, treatment, and use of animals, including appropriate use of anesthetic, analgesic, and tranquilizing drugs, during experimentation are being followed by the research facility during actual research or experimentation.”
+Subsec. (a)(4) to (8). Pub. L. 99–198, § 1752(b), designated third and fourth sentences of subsec. (a) as par. (4), designated fifth sentence of subsec. (a) as par. (5), and substituted pars. (6) to (8) for last sentence of subsec. (a) which read as follows: “Nothing in this chapter shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to design, outlines, guidelines, or performance of actual research or experimentation by a research facility as determined by such research facility: *Provided*, That the Secretary shall require, at least annually, every research facility to show that professionally acceptable standards governing the care, treatment, and use of animals, including appropriate use of anesthetic, analgesic, and tranquilizing drugs, during experimentation are being followed by the research facility during actual research or experimentation.”
 
-Subsecs. (b) to (h). Pub. L. 99–198, § 1752(a)(1), (c), added subsecs. (b) to (f) and redesignated existing subsecs. (b) to (d) as (f) to (h), respectively.
+Subsecs. (b) to (h). Pub. L. 99–198, § 1752(a)(1), (c), added subsecs. (b) to (f) and redesignated existing subsecs. (b) to (d) as (f) to (h), respectively.
 
-1976—Subsec. (a). Pub. L. 94–279, § 9, designated existing provisions as subsec. (a) and inserted provisions authorizing Secretary to promulgate standards, rules and regulations relating to the transportation in commerce, handling, care, and treatment of animals covered under this chapter.
+1976—Subsec. (a). Pub. L. 94–279, § 9, designated existing provisions as subsec. (a) and inserted provisions authorizing Secretary to promulgate standards, rules and regulations relating to the transportation in commerce, handling, care, and treatment of animals covered under this chapter.
 
-Subsecs. (b) to (d). Pub. L. 94–279, § 10, added subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 94–279, § 10, added subsecs. (b) to (d).
 
 1970—Pub. L. 91–579 added exhibitors to the enumeration of persons to be governed by promulgated standards, added handling to the enumeration of activities covered, expanded existing standard for adequate veterinary care to include the appropriate use of anesthetic, analgesic, or tranquilizing drugs by research facilities when the use of such drugs is considered proper in the opinion of the attending veterinarian at such research facility, directed the Secretary to consult outside consultants and experts in promulgating standards, and inserted requirement of an annual report.
 
@@ -621,15 +621,15 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2144. Humane standards for animals by United States Government facilities
+## § 2144. Humane standards for animals by United States Government facilities
 
-Any department, agency, or instrumentality of the United States having laboratory animal facilities shall comply with the standards and other requirements promulgated by the Secretary for a research facility under sections 1
+Any department, agency, or instrumentality of the United States having laboratory animal facilities shall comply with the standards and other requirements promulgated by the Secretary for a research facility under sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
-2143(a), (f), (g), and (h) of this title. Any department, agency, or instrumentality of the United States exhibiting animals shall comply with the standards promulgated by the Secretary under sections 1 2143(a), (f), (g), and (h) of this title.
+2143(a), (f), (g), and (h) of this title. Any department, agency, or instrumentality of the United States exhibiting animals shall comply with the standards promulgated by the Secretary under sections 1 2143(a), (f), (g), and (h) of this title.
 
-(Pub. L. 89–544, § 14, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 15, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, § 19, Apr. 22, 1976, 90 Stat. 423; Pub. L. 99–198, title XVII, § 1758, Dec. 23, 1985, 99 Stat. 1650.)
+(Pub. L. 89–544, § 14, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 15, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, § 19, Apr. 22, 1976, 90 Stat. 423; Pub. L. 99–198, title XVII, § 1758, Dec. 23, 1985, 99 Stat. 1650.)
 
 **Editorial Notes**
 
@@ -653,15 +653,15 @@ Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see sectio
 
 **Compliance With Animal Welfare Act**
 
-Pub. L. 117–328, div. A, title VII, § 750, Dec. 29, 2022, 136 Stat. 4505, provided that: “In this fiscal year [fiscal year 2023] and thereafter, and notwithstanding any other provision of law, ARS facilities as described in the ‘Memorandum of Understanding Between the U.S. Department of Agriculture Animal and Plant Health Inspection Service (APHIS) and the U.S. Department of Agriculture Agricultural Research Service (ARS) Concerning Laboratory Animal Welfare’ (16–6100–0103–MU Revision 16–1) shall be inspected by APHIS for compliance with the Animal Welfare Act [7 U.S.C. 2131 et seq.] and its regulations and standards.”
+Pub. L. 117–328, div. A, title VII, § 750, Dec. 29, 2022, 136 Stat. 4505, provided that: “In this fiscal year [fiscal year 2023] and thereafter, and notwithstanding any other provision of law, ARS facilities as described in the ‘Memorandum of Understanding Between the U.S. Department of Agriculture Animal and Plant Health Inspection Service (APHIS) and the U.S. Department of Agriculture Agricultural Research Service (ARS) Concerning Laboratory Animal Welfare’ (16–6100–0103–MU Revision 16–1) shall be inspected by APHIS for compliance with the Animal Welfare Act [7 U.S.C. 2131 et seq.] and its regulations and standards.”
 
-## § 2145. Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture
+## § 2145. Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture
 
 **(a)** The Secretary shall consult and cooperate with other Federal departments, agencies, or instrumentalities concerned with the welfare of animals used for research, experimentation or exhibition, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals when establishing standards pursuant to section 2143 of this title and in carrying out the purposes of this chapter. The Secretary shall consult with the Secretary of Health and Human Services prior to issuance of regulations. Before promulgating any standard governing the air transportation and handling in connection therewith, of animals, the Secretary shall consult with the Secretary of Transportation who shall have the authority to disapprove any such standard if he notifies the Secretary, within 30 days after such consultation, that changes in its provisions are necessary in the interest of flight safety. The Surface Transportation Board, the Secretary of Transportation, and the Federal Maritime Commission, to the extent of their respective lawful authorities, shall take such action as is appropriate to implement any standard established by the Secretary with respect to a person subject to regulation by it.
 
 **(b)** The Secretary is authorized to cooperate with the officials of the various States or political subdivisions thereof in carrying out the purposes of this chapter and of any State, local, or municipal legislation or ordinance on the same subject.
 
-(Pub. L. 89–544, § 15, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 16, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, § 11, Apr. 22, 1976, 90 Stat. 419; Pub. L. 98–443, § 9(i), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–198, title XVII, § 1757, Dec. 23, 1985, 99 Stat. 1650; Pub. L. 104–88, title III, § 312, Dec. 29, 1995, 109 Stat. 948.)
+(Pub. L. 89–544, § 15, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 16, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, § 11, Apr. 22, 1976, 90 Stat. 419; Pub. L. 98–443, § 9(i), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–198, title XVII, § 1757, Dec. 23, 1985, 99 Stat. 1650; Pub. L. 104–88, title III, § 312, Dec. 29, 1995, 109 Stat. 948.)
 
 **Editorial Notes**
 
@@ -673,11 +673,11 @@ Pub. L. 117–328, div. A, title VII, § 750, Dec. 29, 2022, 136 Stat. 4505, p
 
 1984—Subsec. (a). Pub. L. 98–443 substituted “the Secretary of Transportation” for “the Civil Aeronautics Board”.
 
-1976—Subsec. (a). Pub. L. 94–279 inserted “, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals” after “exhibition”, and inserted provisions requiring the Secretary, prior to promulgating standards governing air transportation of animals in commerce, to consult with the specified Federal agencies concerned.
+1976—Subsec. (a). Pub. L. 94–279 inserted “, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals” after “exhibition”, and inserted provisions requiring the Secretary, prior to promulgating standards governing air transportation of animals in commerce, to consult with the specified Federal agencies concerned.
 
-1970—Subsec. (a). Pub. L. 91–579, § 16(1), inserted reference to exhibition of animals.
+1970—Subsec. (a). Pub. L. 91–579, § 16(1), inserted reference to exhibition of animals.
 
-Subsec. (b). Pub. L. 91–579, § 16(2), substituted “carrying out” for “effectuating”.
+Subsec. (b). Pub. L. 91–579, § 16(2), substituted “carrying out” for “effectuating”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -697,7 +697,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2146. Administration and enforcement by Secretary
+## § 2146. Administration and enforcement by Secretary
 
 **(a) Investigations and inspections**
 
@@ -709,13 +709,13 @@ Any person who forcibly assaults, resists, opposes, impedes, intimidates, or int
 
 **(c) Procedures**
 
-For the efficient administration and enforcement of this chapter and the regulations and standards promulgated under this chapter, the provisions (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraph (c) through (h) of section 46 and the last paragraph of section 49 1
+For the efficient administration and enforcement of this chapter and the regulations and standards promulgated under this chapter, the provisions (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraph (c) through (h) of section 46 and the last paragraph of section 49 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15), and the provisions of Title II of the Organized Crime Control Act of 1970, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person, firm, or corporation with respect to whom such authority is exercised. The Secretary may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, including any territory, or possession thereof, the District of Columbia, or the Commonwealth of Puerto Rico. The powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any district court of the United States. The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in section 2149(c) of this title.
 
-(Pub. L. 89–544, § 16, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 17, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, § 12, Apr. 22, 1976, 90 Stat. 420; Pub. L. 99–198, title XVII, § 1753, Dec. 23, 1985, 99 Stat. 1649; Pub. L. 101–624, title XXV, § 2503(1), Nov. 28, 1990, 104 Stat. 4066.)
+(Pub. L. 89–544, § 16, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 17, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, § 12, Apr. 22, 1976, 90 Stat. 420; Pub. L. 99–198, title XVII, § 1753, Dec. 23, 1985, 99 Stat. 1649; Pub. L. 101–624, title XXV, § 2503(1), Nov. 28, 1990, 104 Stat. 4066.)
 
 **Editorial Notes**
 
@@ -731,9 +731,9 @@ Title II of the Organized Crime Control Act of 1970, referred to in subsec. (c),
 
 1985—Subsec. (a). Pub. L. 99–198 inserted provision directing Secretary to inspect each research facility at least once each year and, in case of deficiencies or deviations from standards promulgated under this chapter, conduct such follow-up inspections as may be necessary until all deficiencies or deviations from such standards are corrected.
 
-1976—Subsec. (a). Pub. L. 94–279, § 12(a), inserted “intermediate handler, carrier,” after “dealer, exhibitor,” and inserted “or (5) such animal is held by an intermediate handler or a carrier” after “an auction sale”.
+1976—Subsec. (a). Pub. L. 94–279, § 12(a), inserted “intermediate handler, carrier,” after “dealer, exhibitor,” and inserted “or (5) such animal is held by an intermediate handler or a carrier” after “an auction sale”.
 
-Subsec. (c). Pub. L. 94–279, § 12(b), substituted “section 2149(c)” for “sections 2149(b) and 2150(b)” after “except as provided in”.
+Subsec. (c). Pub. L. 94–279, § 12(b), substituted “section 2149(c)” for “sections 2149(b) and 2150(b)” after “except as provided in”.
 
 1970—Pub. L. 91–579 designated existing provisions as subsec. (a), expanded coverage to include exhibitors and operators of auction sales for purposes of investigation, inserted provisions requiring that records, facilities, and animals be accessible to inspectors at all reasonable times at premises of dealers, research facilities, exhibitors, and operators of auction sales, and added subsecs. (b) and (c).
 
@@ -749,9 +749,9 @@ Amendment by Pub. L. 91–579 effective 30 days after Dec. 24, 1970, see section
 
 **Non-recording of Observed Violations of Animal Welfare Act**
 
-Pub. L. 117–328, div. A, title VII, § 756, Dec. 29, 2022, 136 Stat. 4506, provided that: “Hereafter, none of the funds made available by this Act [div. A of Pub. L. 117–328, see Tables for classification] or any other Act, may be used to pay the salaries or expenses of personnel to implement any activities related to the permitting of non-recording of observed violations of the Animal Welfare Act or its regulations on official inspection reports.”
+Pub. L. 117–328, div. A, title VII, § 756, Dec. 29, 2022, 136 Stat. 4506, provided that: “Hereafter, none of the funds made available by this Act [div. A of Pub. L. 117–328, see Tables for classification] or any other Act, may be used to pay the salaries or expenses of personnel to implement any activities related to the permitting of non-recording of observed violations of the Animal Welfare Act or its regulations on official inspection reports.”
 
-## § 2146a. Searchable database requirements
+## § 2146a. Searchable database requirements
 
 The Animal and Plant Health Inspection Service shall, notwithstanding any other provision of law:
 
@@ -767,7 +767,7 @@ The Animal and Plant Health Inspection Service shall, notwithstanding any other 
 
 **(4)** within six months of receipt by the agency, all final Animal Welfare Act research facility annual reports, including their attachments with appropriate redactions made for confidential business information that USDA could withhold under FOIA Exemption 4.
 
-(Pub. L. 116–94, div. B, title VII, § 788, Dec. 20, 2019, 133 Stat. 2657; Pub. L. 117–103, div. A, title VII, § 765, Mar. 15, 2022, 136 Stat. 98.)
+(Pub. L. 116–94, div. B, title VII, § 788, Dec. 20, 2019, 133 Stat. 2657; Pub. L. 117–103, div. A, title VII, § 765, Mar. 15, 2022, 136 Stat. 98.)
 
 **Editorial Notes**
 
@@ -775,7 +775,7 @@ The Animal and Plant Health Inspection Service shall, notwithstanding any other 
 
 The Animal Welfare Act, referred to in subsec. (b)(1), (2), (4), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of this title and Tables.
 
-The Horse Protection Act, referred to in subsec. (b)(2), is Pub. L. 91–540, Dec. 9, 1970, 84 Stat. 1404, which is classified generally to chapter 44 (§ 1821 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1821 of Title 15 and Tables.
+The Horse Protection Act, referred to in subsec. (b)(2), is Pub. L. 91–540, Dec. 9, 1970, 84 Stat. 1404, which is classified generally to chapter 44 (§ 1821 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1821 of Title 15 and Tables.
 
 **Codification**
 
@@ -793,11 +793,11 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
 “(4) within six months of receipt by the agency, all final Animal Welfare Act research facility annual reports, including their attachments with appropriate redactions made for confidential business information that USDA could withhold under FOIA Exemption 4.”
 
-## § 2147. Inspection by legally constituted law enforcement agencies
+## § 2147. Inspection by legally constituted law enforcement agencies
 
 The Secretary shall promulgate rules and regulations requiring dealers, exhibitors, research facilities, and operators of auction sales subject to section 2142 of this title to permit inspection of their animals and records at reasonable hours upon request by legally constituted law enforcement agencies in search of lost animals.
 
-(Pub. L. 89–544, § 17, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 18, Dec. 24, 1970, 84 Stat. 1564.)
+(Pub. L. 89–544, § 17, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 18, Dec. 24, 1970, 84 Stat. 1564.)
 
 **Editorial Notes**
 
@@ -811,7 +811,7 @@ The Secretary shall promulgate rules and regulations requiring dealers, exhibito
 
 Amendment by Pub. L. 91–579 effective 30 days after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2148. Importation of live dogs
+## § 2148. Importation of live dogs
 
 **(a) Definitions** In this section:
 
@@ -855,7 +855,7 @@ The Secretary, the Secretary of Health and Human Services, the Secretary of Comm
 
 **(2)** provide for the care (including appropriate veterinary care), forfeiture, and adoption of each applicable dog, at the expense of the importer.
 
-(Pub. L. 89–544, § 18, as added Pub. L. 110–234, title XIV, § 14210(a), May 22, 2008, 122 Stat. 1464, and Pub. L. 110–246, § 4(a), title XIV, § 14210(a), June 18, 2008, 122 Stat. 1664, 2226.)
+(Pub. L. 89–544, § 18, as added Pub. L. 110–234, title XIV, § 14210(a), May 22, 2008, 122 Stat. 1464, and Pub. L. 110–246, § 4(a), title XIV, § 14210(a), June 18, 2008, 122 Stat. 1664, 2226.)
 
 **Editorial Notes**
 
@@ -865,7 +865,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 2148, Pub. L. 89–544, § 18, Aug. 24, 1966, 80 Stat. 352, prohibited any construction of this chapter which would authorize the Secretary to promulgate rules, regulations, or orders for the handling, care, treatment, or inspection of animals during research or experimentation, prior to repeal by Pub. L. 91–579, §§ 19, 23, Dec. 24, 1970, 84 Stat. 1564, 1565, effective one year after Dec. 24, 1970. See section 2143 of this title.
+A prior section 2148, Pub. L. 89–544, § 18, Aug. 24, 1966, 80 Stat. 352, prohibited any construction of this chapter which would authorize the Secretary to promulgate rules, regulations, or orders for the handling, care, treatment, or inspection of animals during research or experimentation, prior to repeal by Pub. L. 91–579, §§ 19, 23, Dec. 24, 1970, 84 Stat. 1564, 1565, effective one year after Dec. 24, 1970. See section 2143 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -873,11 +873,11 @@ A prior section 2148, Pub. L. 89–544, § 18, Aug. 24, 1966, 80 Stat. 352, pr
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-Pub. L. 110–234, title XIV, § 14210(b), May 22, 2008, 122 Stat. 1464, and Pub. L. 110–246, § 4(a), title XIV, § 14210(b), June 18, 2008, 122 Stat. 1664, 2226, provided that: “The amendment made by subsection (a) [enacting this section] takes effect on the date of the enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title XIV, § 14210(b), May 22, 2008, 122 Stat. 1464, and Pub. L. 110–246, § 4(a), title XIV, § 14210(b), June 18, 2008, 122 Stat. 1664, 2226, provided that: “The amendment made by subsection (a) [enacting this section] takes effect on the date of the enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-## § 2149. Violations by licensees
+## § 2149. Violations by licensees
 
 **(a) Temporary license suspension; notice and hearing; revocation**
 
@@ -895,7 +895,7 @@ Any dealer, exhibitor, research facility, intermediate handler, carrier, or oper
 
 Any dealer, exhibitor, or operator of an auction sale subject to section 2142 of this title, who knowingly violates any provision of this chapter shall, on conviction thereof, be subject to imprisonment for not more than 1 year, or a fine of not more than $2,500, or both. Prosecution of such violations shall, to the maximum extent practicable, be brought initially before United States magistrate judges as provided in section 636 of title 28, and sections 3401 and 3402 of title 18, and, with the consent of the Attorney General, may be conducted, at both trial and upon appeal to district court, by attorneys of the United States Department of Agriculture.
 
-(Pub. L. 89–544, § 19, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 20, Dec. 24, 1970, 84 Stat. 1564; Pub. L. 94–279, § 13, Apr. 22, 1976, 90 Stat. 420; Pub. L. 99–198, title XVII, § 1755, Dec. 23, 1985, 99 Stat. 1650; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 110–234, title XIV, § 14214, May 22, 2008, 122 Stat. 1466; Pub. L. 110–246, § 4(a), title XIV, § 14214, June 18, 2008, 122 Stat. 1664, 2228.)
+(Pub. L. 89–544, § 19, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, § 20, Dec. 24, 1970, 84 Stat. 1564; Pub. L. 94–279, § 13, Apr. 22, 1976, 90 Stat. 420; Pub. L. 99–198, title XVII, § 1755, Dec. 23, 1985, 99 Stat. 1650; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 110–234, title XIV, § 14214, May 22, 2008, 122 Stat. 1466; Pub. L. 110–246, § 4(a), title XIV, § 14214, June 18, 2008, 122 Stat. 1664, 2228.)
 
 **Editorial Notes**
 
@@ -905,11 +905,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-Subsec. (b). Pub. L. 110–246, § 14214, substituted “$10,000” for “$2,500”.
+Subsec. (b). Pub. L. 110–246, § 14214, substituted “$10,000” for “$2,500”.
 
-1985—Subsec. (b). Pub. L. 99–198, § 1755(a), substituted “$2,500 for each such violation” for “$1,000 for each such violation” in first sentence and directed the substitution of “$1,500 for each offense” for “$500 for each offense” in sixth sentence, which was executed to the seventh sentence as the probable intent of Congress.
+1985—Subsec. (b). Pub. L. 99–198, § 1755(a), substituted “$2,500 for each such violation” for “$1,000 for each such violation” in first sentence and directed the substitution of “$1,500 for each offense” for “$500 for each offense” in sixth sentence, which was executed to the seventh sentence as the probable intent of Congress.
 
-Subsec. (d). Pub. L. 99–198, § 1755(b), substituted “$2,500” for “$1,000”.
+Subsec. (d). Pub. L. 99–198, § 1755(b), substituted “$2,500” for “$1,000”.
 
 1976—Subsec. (a). Pub. L. 94–279 substituted provisions covering violations by licensees, temporary license suspension, notice and hearing, and license revocation for provisions relating to violations by dealers, exhibitors, operators of auction sales, cease and desist orders, license suspension, and civil penalties.
 
@@ -939,27 +939,27 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 
 Amendment by Pub. L. 91–579 effective 30 days after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-## § 2150. Repealed. Pub. L. 94–279, § 14, Apr. 22, 1976, 90 Stat. 421
+## § 2150. Repealed. Pub. L. 94–279, § 14, Apr. 22, 1976, 90 Stat. 421
 
-Section, Pub. L. 89–544, § 20, Aug. 24, 1966, 80 Stat. 353; Pub. L. 91–579, § 21, Dec. 24, 1970, 84 Stat. 1565, provided for issuance of cease and desist orders if Secretary had reason to believe that any research facility had violated any provision of this chapter, provided for a civil penalty, and provided appeal mechanism by which aggrieved person may have judicial review of such final order by Secretary. See section 2149 of this title.
+Section, Pub. L. 89–544, § 20, Aug. 24, 1966, 80 Stat. 353; Pub. L. 91–579, § 21, Dec. 24, 1970, 84 Stat. 1565, provided for issuance of cease and desist orders if Secretary had reason to believe that any research facility had violated any provision of this chapter, provided for a civil penalty, and provided appeal mechanism by which aggrieved person may have judicial review of such final order by Secretary. See section 2149 of this title.
 
-## § 2151. Rules and regulations
+## § 2151. Rules and regulations
 
 The Secretary is authorized to promulgate such rules, regulations, and orders as he may deem necessary in order to effectuate the purposes of this chapter.
 
-(Pub. L. 89–544, § 21, Aug. 24, 1966, 80 Stat. 353.)
+(Pub. L. 89–544, § 21, Aug. 24, 1966, 80 Stat. 353.)
 
-## § 2152. Separability
+## § 2152. Separability
 
 If any provision of this chapter or the application of any such provision to any person or circumstances shall be held invalid, the remainder of this chapter and the application of any such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.
 
-(Pub. L. 89–544, § 22, Aug. 24, 1966, 80 Stat. 353.)
+(Pub. L. 89–544, § 22, Aug. 24, 1966, 80 Stat. 353.)
 
-## § 2153. Fees and authorization of appropriations
+## § 2153. Fees and authorization of appropriations
 
 The Secretary shall charge, assess, and cause to be collected reasonable fees for licenses issued. Such fees shall be adjusted on an equitable basis taking into consideration the type and nature of the operations to be licensed and shall be deposited and covered into the Treasury as miscellaneous receipts. There are hereby authorized to be appropriated such funds as Congress may from time to time provide: *Provided*, That there is authorized to be appropriated to the Secretary of Agriculture for enforcement by the Department of Agriculture of the provisions of section 2156 of this title an amount not to exceed $100,000 for the transition quarter ending September 30, 1976, and not to exceed $400,000 for each fiscal year thereafter.
 
-(Pub. L. 89–544, § 23, Aug. 24, 1966, 80 Stat. 353; Pub. L. 94–279, § 18, Apr. 22, 1976, 90 Stat. 423.)
+(Pub. L. 89–544, § 23, Aug. 24, 1966, 80 Stat. 353; Pub. L. 94–279, § 18, Apr. 22, 1976, 90 Stat. 423.)
 
 **Editorial Notes**
 
@@ -967,11 +967,11 @@ The Secretary shall charge, assess, and cause to be collected reasonable fees fo
 
 1976—Pub. L. 94–279 authorized appropriations for the enforcement of section 2156 of this title.
 
-## § 2154. Effective dates
+## § 2154. Effective dates
 
 The regulations referred to in sections 2140 and 2143 of this title shall be prescribed by the Secretary as soon as reasonable but not later than six months from August 24, 1966. Additions and amendments thereto may be prescribed from time to time as may be necessary or advisable. Compliance by dealers with the provisions of this chapter and such regulations shall commence ninety days after the promulgation of such regulations. Compliance by research facilities with the provisions of this chapter and such regulations shall commence six months after the promulgation of such regulations, except that the Secretary may grant extensions of time to research facilities which do not comply with the standards prescribed by the Secretary pursuant to section 2143 of this title provided that the Secretary determines that there is evidence that the research facilities will meet such standards within a reasonable time. Notwithstanding the other provisions of this section, compliance by intermediate handlers, and carriers, and other persons with those provisions of this chapter, as amended by the Animal Welfare Act Amendments of 1976, and those regulations promulgated thereunder, which relate to actions of intermediate handlers and carriers, shall commence 90 days after promulgation of regulations under section 2143 of this title, as amended, with respect to intermediate handlers and carriers, and such regulations shall be promulgated no later than 9 months after April 22, 1976; and compliance by dealers, exhibitors, operators of auction sales, and research facilities with other provisions of this chapter, as so amended, and the regulations thereunder, shall commence upon the expiration of 90 days after April 22, 1976: *Provided, however*, That compliance by all persons with subsections (b), (c), and (d) of section 2143 and with section 2156 of this title, as so amended, shall commence upon the expiration of said ninety-day period. In all other respects, said amendments shall become effective on April 22, 1976.
 
-(Pub. L. 89–544, § 24, Aug. 24, 1966, 80 Stat. 353; Pub. L. 94–279, § 15, Apr. 22, 1976, 90 Stat. 421.)
+(Pub. L. 89–544, § 24, Aug. 24, 1966, 80 Stat. 353; Pub. L. 94–279, § 15, Apr. 22, 1976, 90 Stat. 421.)
 
 **Editorial Notes**
 
@@ -979,21 +979,21 @@ The regulations referred to in sections 2140 and 2143 of this title shall be pre
 
 The Animal Welfare Act Amendments of 1976, referred to in text, is Pub. L. 94–279, Apr. 22, 1976, 90 Stat. 417, which enacted section 2156 of this title, amended sections 2131, 2132, 2134, 2136, 2139 to 2146, 2149, 2153 to 2155 of this title, and section 3001 of Title 39, Postal Service, repealed section 2150 of this title, and enacted provisions set out as notes under section 2131 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 3121 of this title and Tables.
 
-Subsections (b), (c), and (d) of section 2143 of this title, referred to in text, were redesignated subsecs. (f), (g), and (h), respectively, and new subsecs. (b), (c), and (d) of section 2143 were enacted, by Pub. L. 99–198, title XVII, § 1752(a)(1), (c), Dec. 23, 1985, 99 Stat. 1645, 1647.
+Subsections (b), (c), and (d) of section 2143 of this title, referred to in text, were redesignated subsecs. (f), (g), and (h), respectively, and new subsecs. (b), (c), and (d) of section 2143 were enacted, by Pub. L. 99–198, title XVII, § 1752(a)(1), (c), Dec. 23, 1985, 99 Stat. 1645, 1647.
 
 **Amendments**
 
 1976—Pub. L. 94–279 inserted provisions setting particular effective dates of compliance for intermediate handlers and carriers and for dealers, exhibitors, operators of auction sales, and research facilities with respect to the amendments made by the Animal Welfare Act Amendments of 1976.
 
-## § 2155. Omitted
+## § 2155. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 89–544, § 25, as added Pub. L. 91–579, § 22, Dec. 24, 1970, 84 Stat. 1565; amended Pub. L. 94–279, § 16, Apr. 22, 1976, 90 Stat. 421; Pub. L. 104–66, title I, § 1012(a), Dec. 21, 1995, 109 Stat. 711, which required the Secretary of Agriculture to submit an annual report to the President of the Senate and the Speaker of the House of Representatives on licensing, investigation, inspection, and other activity related to carrying out this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 44 of House Document No. 103–7.
+Section, Pub. L. 89–544, § 25, as added Pub. L. 91–579, § 22, Dec. 24, 1970, 84 Stat. 1565; amended Pub. L. 94–279, § 16, Apr. 22, 1976, 90 Stat. 421; Pub. L. 104–66, title I, § 1012(a), Dec. 21, 1995, 109 Stat. 711, which required the Secretary of Agriculture to submit an annual report to the President of the Senate and the Speaker of the House of Representatives on licensing, investigation, inspection, and other activity related to carrying out this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 44 of House Document No. 103–7.
 
-## § 2156. Animal fighting venture prohibition
+## § 2156. Animal fighting venture prohibition
 
 **(a) Sponsoring or exhibiting an animal in, attending, or causing an individual who has not attained the age of 16 to attend, an animal fighting venture**
 
@@ -1013,9 +1013,9 @@ It shall be unlawful for any person to knowingly sell, buy, possess, train, tran
 
 **(c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture**
 
-It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any instrumentality of interstate commerce for commercial speech for purposes of advertising an animal, or an instrument described in subsection (d), for use in an animal fighting venture, promoting 1
+It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any instrumentality of interstate commerce for commercial speech for purposes of advertising an animal, or an instrument described in subsection (d), for use in an animal fighting venture, promoting 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “or”.
+<sup>1</sup> So in original. Probably should be preceded by “or”.
 
 or in any other manner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
 
@@ -1033,9 +1033,9 @@ The Secretary or any other person authorized by him shall make such investigatio
 
 **(2)** the term “instrumentality of interstate commerce” means any written, wire, radio, television or other form of communication in, or using a facility of, interstate commerce;
 
-**(3)** the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States; 2
+**(3)** the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States; 2
 
-<sup>2</sup>  So in original. The word “and” probably should appear.
+<sup>2</sup> So in original. The word “and” probably should appear.
 
 **(4)** the term “animal” means any live bird, or any live mammal, except man.
 
@@ -1055,7 +1055,7 @@ The provisions of this chapter shall not supersede or otherwise invalidate any s
 
 The criminal penalties for violations of subsection (a), (b), (c), or (d) are provided in section 49 of title 18.
 
-(Pub. L. 89–544, § 26, as added Pub. L. 94–279, § 17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§ 10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492; Pub. L. 110–22, § 3, May 3, 2007, 121 Stat. 88; Pub. L. 110–234, title XIV, § 14207(a), May 22, 2008, 122 Stat. 1461; Pub. L. 110–246, § 4(a), title XIV, § 14207(a), June 18, 2008, 122 Stat. 1664, 2223; Pub. L. 113–79, title XII, § 12308(b)(1), Feb. 7, 2014, 128 Stat. 990; Pub. L. 115–334, title XII, § 12616(a)–(c), Dec. 20, 2018, 132 Stat. 5015, 5016.)
+(Pub. L. 89–544, § 26, as added Pub. L. 94–279, § 17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§ 10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492; Pub. L. 110–22, § 3, May 3, 2007, 121 Stat. 88; Pub. L. 110–234, title XIV, § 14207(a), May 22, 2008, 122 Stat. 1461; Pub. L. 110–246, § 4(a), title XIV, § 14207(a), June 18, 2008, 122 Stat. 1664, 2223; Pub. L. 113–79, title XII, § 12308(b)(1), Feb. 7, 2014, 128 Stat. 990; Pub. L. 115–334, title XII, § 12616(a)–(c), Dec. 20, 2018, 132 Stat. 5015, 5016.)
 
 **Editorial Notes**
 
@@ -1067,77 +1067,77 @@ Section is comprised of section 26 of Pub. L. 89–544, as added by Pub. L. 94�
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 12616(a)(1)(A), substituted “It” for “Except as provided in paragraph (3), it”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 12616(a)(1)(A), substituted “It” for “Except as provided in paragraph (3), it”.
 
-Subsec. (a)(3). Pub. L. 115–334, § 12616(a)(1)(B), struck out par. (3). Text read as follows: “With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.”
+Subsec. (a)(3). Pub. L. 115–334, § 12616(a)(1)(B), struck out par. (3). Text read as follows: “With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.”
 
-Subsec. (c). Pub. L. 115–334, § 12616(b), substituted “(d)” for “(e)”.
+Subsec. (c). Pub. L. 115–334, § 12616(b), substituted “(d)” for “(e)”.
 
-Subsecs. (d) to (h). Pub. L. 115–334, § 12616(a)(2), (3), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “Notwithstanding the provisions of subsection (c), the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.”
+Subsecs. (d) to (h). Pub. L. 115–334, § 12616(a)(2), (3), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “Notwithstanding the provisions of subsection (c), the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.”
 
-Subsec. (i). Pub. L. 115–334, § 12616(c), substituted “(d)” for “(e)”.
+Subsec. (i). Pub. L. 115–334, § 12616(c), substituted “(d)” for “(e)”.
 
-Pub. L. 115–334, § 12616(a)(3), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+Pub. L. 115–334, § 12616(a)(3), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 115–334, § 12616(a)(3), redesignated subsec. (j) as (i).
+Subsec. (j). Pub. L. 115–334, § 12616(a)(3), redesignated subsec. (j) as (i).
 
-2014—Subsec. (a). Pub. L. 113–79, § 12308(b)(1)(A), substituted “Sponsoring or exhibiting an animal in, attending, or causing an individual who has not attained the age of 16 to attend,” for “Sponsoring or exhibiting an animal in” in heading.
+2014—Subsec. (a). Pub. L. 113–79, § 12308(b)(1)(A), substituted “Sponsoring or exhibiting an animal in, attending, or causing an individual who has not attained the age of 16 to attend,” for “Sponsoring or exhibiting an animal in” in heading.
 
-Subsec. (a)(1). Pub. L. 113–79, § 12308(b)(1)(B)(i), (ii), substituted “Sponsoring or exhibiting” for “In general” in heading and “paragraph (3)” for “paragraph (2)” in text.
+Subsec. (a)(1). Pub. L. 113–79, § 12308(b)(1)(B)(i), (ii), substituted “Sponsoring or exhibiting” for “In general” in heading and “paragraph (3)” for “paragraph (2)” in text.
 
-Subsec. (a)(2), (3). Pub. L. 113–79, § 12308(b)(1)(B)(iii), (iv), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 113–79, § 12308(b)(1)(B)(iii), (iv), added par. (2) and redesignated former par. (2) as (3).
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 14207(a)(1)(A), struck out “, if any animal in the venture was moved in interstate or foreign commerce” before period at end.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 14207(a)(1)(A), struck out “, if any animal in the venture was moved in interstate or foreign commerce” before period at end.
 
-Subsec. (a)(2). Pub. L. 110–246, § 14207(a)(1)(B), which directed amendment of par. (2) by substituting “State” for “state” in heading, was executed by making the substitution for “states” in heading, to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 110–246, § 14207(a)(1)(B), which directed amendment of par. (2) by substituting “State” for “state” in heading, was executed by making the substitution for “states” in heading, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 110–246, § 14207(a)(2), inserted heading and substituted “possess, train, transport, deliver, or receive any animal for purposes of having the animal participate” for “transport, deliver, or receive for purposes of transportation, in interstate or foreign commerce, any dog or other animal for purposes of having the dog or other animal participate”.
+Subsec. (b). Pub. L. 110–246, § 14207(a)(2), inserted heading and substituted “possess, train, transport, deliver, or receive any animal for purposes of having the animal participate” for “transport, deliver, or receive for purposes of transportation, in interstate or foreign commerce, any dog or other animal for purposes of having the dog or other animal participate”.
 
-Subsec. (c). Pub. L. 110–246, § 14207(a)(3), inserted heading and inserted “advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture,” after “for purposes of”.
+Subsec. (c). Pub. L. 110–246, § 14207(a)(3), inserted heading and inserted “advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture,” after “for purposes of”.
 
-Subsec. (d). Pub. L. 110–246, § 14207(a)(4), inserted heading.
+Subsec. (d). Pub. L. 110–246, § 14207(a)(4), inserted heading.
 
-Subsec. (e). Pub. L. 110–246, § 14207(a)(5), inserted heading.
+Subsec. (e). Pub. L. 110–246, § 14207(a)(5), inserted heading.
 
-Subsec. (f). Pub. L. 110–246, § 14207(a)(6), inserted heading and, in last sentence, struck out “by the United States” after “Costs incurred”, inserted “(1)” after “owner of the animals”, and substituted “proceeding, or (2) in” for “proceeding or in”.
+Subsec. (f). Pub. L. 110–246, § 14207(a)(6), inserted heading and, in last sentence, struck out “by the United States” after “Costs incurred”, inserted “(1)” after “owner of the animals”, and substituted “proceeding, or (2) in” for “proceeding or in”.
 
-Subsec. (g). Pub. L. 110–246, § 14207(a)(7), inserted subsec. heading, in introductory provisions, substituted “In this section” for “For purposes of this section”, in par. (1), substituted “any event, in or affecting interstate or foreign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment,” for “any event which involves a fight between at least two animals and is conducted for purposes of sport, wagering, or entertainment”, redesignated pars. (3) to (5) as (2) to (4), respectively, in par. (4), substituted “mammal” for “dog or other mammal” and period for “; and” at end, and struck out former par. (2) which read as follows: “the term ‘interstate or foreign commerce’ means—
+Subsec. (g). Pub. L. 110–246, § 14207(a)(7), inserted subsec. heading, in introductory provisions, substituted “In this section” for “For purposes of this section”, in par. (1), substituted “any event, in or affecting interstate or foreign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment,” for “any event which involves a fight between at least two animals and is conducted for purposes of sport, wagering, or entertainment”, redesignated pars. (3) to (5) as (2) to (4), respectively, in par. (4), substituted “mammal” for “dog or other mammal” and period for “; and” at end, and struck out former par. (2) which read as follows: “the term ‘interstate or foreign commerce’ means—
 
 “(A) any movement between any place in a State to any place in another State or between places in the same State through another State; or
 
 “(B) any movement from a foreign country into any State or from any State into any foreign country;”.
 
-Subsec. (g)(6). Pub. L. 110–246, § 14207(a)(11), redesignated subsec. (g)(6) as (h).
+Subsec. (g)(6). Pub. L. 110–246, § 14207(a)(11), redesignated subsec. (g)(6) as (h).
 
-Subsec. (h). Pub. L. 110–246, § 14207(a)(11), redesignated subsec. (g)(6) as (h), inserted heading, and substituted “The” for “the”.
+Subsec. (h). Pub. L. 110–246, § 14207(a)(11), redesignated subsec. (g)(6) as (h), inserted heading, and substituted “The” for “the”.
 
-Pub. L. 110–246, § 14207(a)(8), redesignated subsec. (h) as (i).
+Pub. L. 110–246, § 14207(a)(8), redesignated subsec. (h) as (i).
 
-Subsec. (i). Pub. L. 110–246, § 14207(a)(8), (9), redesignated subsec. (h) as (i) and inserted subsec. and par. (1) headings. Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 110–246, § 14207(a)(8), (9), redesignated subsec. (h) as (i) and inserted subsec. and par. (1) headings. Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 110–246, § 14207(a)(8), (10), redesignated subsec. (i) as (j) and inserted heading.
+Subsec. (j). Pub. L. 110–246, § 14207(a)(8), (10), redesignated subsec. (i) as (j) and inserted heading.
 
-2007—Subsec. (c). Pub. L. 110–22, § 3(1), substituted “instrumentality of interstate commerce for commercial speech” for “interstate instrumentality”.
+2007—Subsec. (c). Pub. L. 110–22, § 3(1), substituted “instrumentality of interstate commerce for commercial speech” for “interstate instrumentality”.
 
-Subsec. (d). Pub. L. 110–22, § 3(2), substituted “such subsection” for “such subsections”.
+Subsec. (d). Pub. L. 110–22, § 3(2), substituted “such subsection” for “such subsections”.
 
-Subsec. (e). Pub. L. 110–22, § 3(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “Any person who violates subsection (a), (b), or (c) of this section shall be fined not more than $15,000 or imprisoned for not more than 1 year, or both, for each such violation.”
+Subsec. (e). Pub. L. 110–22, § 3(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “Any person who violates subsection (a), (b), or (c) of this section shall be fined not more than $15,000 or imprisoned for not more than 1 year, or both, for each such violation.”
 
-Subsec. (g)(1). Pub. L. 110–22, § 3(4)(A), struck out “or animals, such as waterfowl, bird, raccoon, or fox hunting” after “hunting another animal”.
+Subsec. (g)(1). Pub. L. 110–22, § 3(4)(A), struck out “or animals, such as waterfowl, bird, raccoon, or fox hunting” after “hunting another animal”.
 
-Subsec. (g)(3). Pub. L. 110–22, § 3(4)(B), added par. (3) and struck out former par. (3) which read as follows: “the term ‘interstate instrumentality’ means telegraph, telephone, radio, or television operating in interstate or foreign commerce;”.
+Subsec. (g)(3). Pub. L. 110–22, § 3(4)(B), added par. (3) and struck out former par. (3) which read as follows: “the term ‘interstate instrumentality’ means telegraph, telephone, radio, or television operating in interstate or foreign commerce;”.
 
-Subsec. (i). Pub. L. 110–22, § 3(5), added subsec. (i).
+Subsec. (i). Pub. L. 110–22, § 3(5), added subsec. (i).
 
-2002—Subsec. (a). Pub. L. 107–171, § 10302(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to knowingly sponsor or exhibit an animal in any animal fighting venture to which any animal was moved in interstate or foreign commerce.”
+2002—Subsec. (a). Pub. L. 107–171, § 10302(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to knowingly sponsor or exhibit an animal in any animal fighting venture to which any animal was moved in interstate or foreign commerce.”
 
-Subsec. (b). Pub. L. 107–171, § 10302(a)(2), substituted “deliver, or receive” for “or deliver to another person or receive from another person”.
+Subsec. (b). Pub. L. 107–171, § 10302(a)(2), substituted “deliver, or receive” for “or deliver to another person or receive from another person”.
 
-Subsec. (d). Pub. L. 107–171, § 10302(a)(3), substituted “subsection (c)” for “subsections (a), (b), or (c) of this section”.
+Subsec. (d). Pub. L. 107–171, § 10302(a)(3), substituted “subsection (c)” for “subsections (a), (b), or (c) of this section”.
 
-Subsec. (e). Pub. L. 107–171, § 10303(a)(1), inserted heading and substituted “$15,000” for “$5,000” in text.
+Subsec. (e). Pub. L. 107–171, § 10303(a)(1), inserted heading and substituted “$15,000” for “$5,000” in text.
 
-Subsec. (g)(2)(B). Pub. L. 107–171, § 10303(a)(2), inserted “or from any State into any foreign country” before semicolon.
+Subsec. (g)(2)(B). Pub. L. 107–171, § 10303(a)(2), inserted “or from any State into any foreign country” before semicolon.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1147,7 +1147,7 @@ Subsec. (g)(2)(B). Pub. L. 107–171, § 10303(a)(2), inserted “or from any 
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title XII, § 12616(e), Dec. 20, 2018, 132 Stat. 5016, provided that: “The amendments made by this section [amending this section, section 49 of Title 18, Crimes and Criminal Procedure, and section 3001 of Title 39, Postal Service] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2018].”
+Pub. L. 115–334, title XII, § 12616(e), Dec. 20, 2018, 132 Stat. 5016, provided that: “The amendments made by this section [amending this section, section 49 of Title 18, Crimes and Criminal Procedure, and section 3001 of Title 39, Postal Service] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2018].”
 
 **Effective Date of 2008 Amendment**
 
@@ -1155,11 +1155,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title X, § 10302(b), May 13, 2002, 116 Stat. 492, provided that: “The amendments made by this section [amending this section] take effect 1 year after the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title X, § 10302(b), May 13, 2002, 116 Stat. 492, provided that: “The amendments made by this section [amending this section] take effect 1 year after the date of enactment of this Act [May 13, 2002].”
 
-Pub. L. 107–171, title X, § 10303(b), May 13, 2002, 116 Stat. 492, provided that: “The amendment made by this section [amending this section] takes effect 1 year after the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title X, § 10303(b), May 13, 2002, 116 Stat. 492, provided that: “The amendment made by this section [amending this section] takes effect 1 year after the date of enactment of this Act [May 13, 2002].”
 
-## § 2157. Release of trade secrets
+## § 2157. Release of trade secrets
 
 **(a) Release of confidential information prohibited** It shall be unlawful for any member of an Institutional Animal Committee to release any confidential information of the research facility including any information that concerns or relates to—
 
@@ -1195,7 +1195,7 @@ Any person, including any research facility, injured in its business or property
 
 Nothing in this section shall be construed to affect any other rights of a person injured in its business or property by reason of a violation of this section. Subsection (d) shall not be construed to limit the exercise of any such rights arising out of or relating to a violation of subsections (a) and (b).
 
-(Pub. L. 89–544, § 27, as added Pub. L. 99–198, title XVII, § 1754, Dec. 23, 1985, 99 Stat. 1649.)
+(Pub. L. 89–544, § 27, as added Pub. L. 99–198, title XVII, § 1754, Dec. 23, 1985, 99 Stat. 1649.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1203,7 +1203,7 @@ Nothing in this section shall be construed to affect any other rights of a perso
 
 Section effective one year after Dec. 23, 1985, see section 1759 of Pub. L. 99–198, set out as an Effective Date of 1985 Amendment note under section 2131 of this title.
 
-## § 2158. Protection of pets
+## § 2158. Protection of pets
 
 **(a) Holding period**
 
@@ -1281,7 +1281,7 @@ Any dealer who violates this section three or more times shall have such dealers
 
 Not later than 180 days after November 28, 1990, the Secretary shall promulgate regulations to carry out this section.
 
-(Pub. L. 89–544, § 28, as added Pub. L. 101–624, title XXV, § 2503(2), Nov. 28, 1990, 104 Stat. 4066; amended Pub. L. 102–237, title X, § 1004, Dec. 13, 1991, 105 Stat. 1894.)
+(Pub. L. 89–544, § 28, as added Pub. L. 101–624, title XXV, § 2503(2), Nov. 28, 1990, 104 Stat. 4066; amended Pub. L. 102–237, title X, § 1004, Dec. 13, 1991, 105 Stat. 1894.)
 
 **Editorial Notes**
 
@@ -1289,7 +1289,7 @@ Not later than 180 days after November 28, 1990, the Secretary shall promulgate 
 
 1991—Subsec. (b)(2)(F). Pub. L. 102–237 substituted “subsection (a)” for “subsection (b)”.
 
-## § 2159. Authority to apply for injunctions
+## § 2159. Authority to apply for injunctions
 
 **(a) Request**
 
@@ -1299,9 +1299,9 @@ Whenever the Secretary has reason to believe that any dealer, carrier, exhibitor
 
 The court shall, upon a proper showing, issue a temporary restraining order or injunction under subsection (a) without bond. Such injunction or order shall remain in effect until a complaint pursuant to section 2149 of this title is issued and dismissed by the Secretary or until an order to cease and desist made thereon by the Secretary has become final and effective or is set aside on appellate review. Attorneys of the Department of Agriculture may, with the approval of the Attorney General, appear in the United States district court representing the Secretary in any action brought under this section.
 
-(Pub. L. 89–544, § 29, as added Pub. L. 101–624, title XXV, § 2503(2), Nov. 28, 1990, 104 Stat. 4067.)
+(Pub. L. 89–544, § 29, as added Pub. L. 101–624, title XXV, § 2503(2), Nov. 28, 1990, 104 Stat. 4067.)
 
-## § 2160. Prohibition on slaughter of dogs and cats for human consumption
+## § 2160. Prohibition on slaughter of dogs and cats for human consumption
 
 **(a) In general** Except as provided in subsection (c), no person may—
 
@@ -1333,7 +1333,7 @@ Any person who violates subsection (a) shall be subject to a fine in an amount n
 
 **(2)** prevents a State or unit of local government from adopting and enforcing an animal welfare law or regulation that is more stringent than this section.
 
-(Pub. L. 115–334, title XII, § 12515, Dec. 20, 2018, 132 Stat. 5000.)
+(Pub. L. 115–334, title XII, § 12515, Dec. 20, 2018, 132 Stat. 5000.)
 
 **Editorial Notes**
 

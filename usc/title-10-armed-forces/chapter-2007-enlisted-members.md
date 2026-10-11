@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 2007—ENLISTED MEMBERS
 
-## § 20301. Original enlistments: qualifications; grade
+## § 20301. Original enlistments: qualifications; grade
 
 **(a) Original Enlistments.—**
 
@@ -25,18 +25,18 @@ retrieved: 2026-10-11
 
 **(b) Grade.—** A person is enlisted in the Space Force in the grade prescribed by the Secretary of the Air Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1717(a), Dec. 22, 2023, 137 Stat. 654.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1717(a), Dec. 22, 2023, 137 Stat. 654.)
 
-## § 20302. Enlisted members: term of enlistment
+## § 20302. Enlisted members: term of enlistment
 
 **(a) Term of Original Enlistments.—** The Secretary of the Air Force may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years in the Space Force.
 
 **(b) Term of Reenlistments.—** The Secretary of the Air Force may accept a reenlistment in the Space Force for a period determined in accordance with paragraphs (2), (3), and (4) of section 505(d) of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1717(a), Dec. 22, 2023, 137 Stat. 654.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1717(a), Dec. 22, 2023, 137 Stat. 654.)
 
-## § 20303. Reference to chapter 31
+## § 20303. Reference to chapter 31
 
 For other provisions of this title applicable to enlistments in the Space Force, see chapter 31 of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1717(a), Dec. 22, 2023, 137 Stat. 654.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1717(a), Dec. 22, 2023, 137 Stat. 654.)
